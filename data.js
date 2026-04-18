@@ -179,6 +179,81 @@ window.getArticlesByTag = function(rawTag) {
   );
 };
 
+// ---------- 카테고리별 카드 배경 ----------
+window.CATEGORY_GRADIENTS = {
+  'IT':   { bg: 'linear-gradient(135deg,#0d1b3e,#1e3a6e)', icon: '💻', color: '#8fb4ff' },
+  '경제':  { bg: 'linear-gradient(135deg,#1a1000,#3d2800)', icon: '📈', color: '#ffc570' },
+  '부동산': { bg: 'linear-gradient(135deg,#0f0820,#241452)', icon: '🏢', color: '#b89dff' },
+  '사회':  { bg: 'linear-gradient(135deg,#1a0500,#3d1000)', icon: '🗞️', color: '#ff8d73' },
+  '스포츠': { bg: 'linear-gradient(135deg,#001008,#002a18)', icon: '⚽', color: '#6de0a2' },
+  'default':{ bg: 'linear-gradient(135deg,#0d0d1a,#1a1a2e)', icon: '📰', color: 'var(--accent)' },
+};
+
+// ---------- 카드 HTML 생성 (홈·키워드 공용) ----------
+window.buildNewsCard = function(n, i, liked) {
+  const g = window.CATEGORY_GRADIENTS[n.category] || window.CATEGORY_GRADIENTS['default'];
+  const chips = (n.chips || []).map(c =>
+    `<a class="chip chip-link" href="keyword.html?tag=${encodeURIComponent(c.replace('#',''))}">${c}</a>`
+  ).join('');
+  return `
+  <div class="news-card-wrapper">
+    <article class="news-card" data-idx="${i}" data-id="${n.id}">
+      <div class="card-front">
+        <div class="news-meta">
+          <span class="category-tag">${n.category}</span>
+          <span class="source">${n.source}</span>
+          <span class="dot"></span>
+          <span class="time">${n.time}</span>
+        </div>
+        <h3 class="news-title">${n.title}</h3>
+        <ul class="news-summary">${n.summary.map(s => `<li>${s}</li>`).join('')}</ul>
+        <div class="news-footer">
+          <div class="chips">${chips}</div>
+          <button class="like-btn${liked ? ' active' : ''}" data-idx="${i}" aria-label="좋아요">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="${liked ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+              <path d="M7 22V11"/><path d="M5 11h2v11H5a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2z"/>
+              <path d="M7 11V7a4 4 0 0 1 4-4l1 4v4h6.5a2.5 2.5 0 0 1 2.45 3l-1.5 7a2.5 2.5 0 0 1-2.45 2H7"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div class="card-back">
+        <div class="card-img" style="background:${g.bg}">
+          <span class="card-img-icon">${g.icon}</span>
+          <span class="card-img-cat" style="color:${g.color}">${n.category}</span>
+          <button class="card-close" aria-label="닫기">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+              <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+            </svg>
+          </button>
+        </div>
+        <div class="card-body">
+          <h3 class="card-back-title">${n.title}</h3>
+          <p class="card-back-text">${n.summary.join(' ')}</p>
+          <div class="card-back-meta">
+            <span class="source">${n.source}</span><span class="dot"></span><span class="time">${n.time}</span>
+          </div>
+          <div class="chips" style="margin-top:6px">${chips}</div>
+        </div>
+      </div>
+    </article>
+  </div>`;
+};
+
+// ---------- 카드 플립 이벤트 바인딩 ----------
+window.bindCardFlip = function(container) {
+  container.querySelectorAll('.news-card').forEach(card => {
+    card.querySelector('.card-front').addEventListener('click', e => {
+      if (e.target.closest('.like-btn') || e.target.closest('.chip-link')) return;
+      card.classList.add('flipped');
+    });
+    card.querySelector('.card-close').addEventListener('click', e => {
+      e.stopPropagation();
+      card.classList.remove('flipped');
+    });
+  });
+};
+
 // ---------- 관련 키워드 추출 (같은 기사에 함께 등장하는 chip) ----------
 window.getRelatedTags = function(rawTag, limit = 6) {
   const target = window.normalizeTag(rawTag);

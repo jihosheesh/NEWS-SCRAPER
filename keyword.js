@@ -133,67 +133,37 @@ function render() {
 
 function renderNews(articles) {
   const list = document.getElementById('newsList');
-  list.innerHTML = articles.map((n, i) => {
-    const liked = !!interests[n.id];
-    return `
-    <article class="news-card" data-idx="${i}">
-      <div class="news-meta">
-        <span class="category-tag">${n.category}</span>
-        <span class="source">${n.source}</span>
-        <span class="dot"></span>
-        <span class="time">${n.time}</span>
-      </div>
-      <h3 class="news-title">${n.title}</h3>
-      <ul class="news-summary">
-        ${n.summary.map(s => `<li>${s}</li>`).join('')}
-      </ul>
-      <div class="news-footer">
-        <div class="chips">
-          ${n.chips.map(c => `<a class="chip chip-link" href="keyword.html?tag=${encodeURIComponent(c.replace('#',''))}">${c}</a>`).join('')}
-        </div>
-        <button class="like-btn ${liked ? 'active' : ''}" data-idx="${i}" aria-label="좋아요">
-          <svg viewBox="0 0 24 24" width="18" height="18" fill="${liked ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
-            <path d="M7 22V11" />
-            <path d="M5 11h2v11H5a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2z" />
-            <path d="M7 11V7a4 4 0 0 1 4-4l1 4v4h6.5a2.5 2.5 0 0 1 2.45 3l-1.5 7a2.5 2.5 0 0 1-2.45 2H7" />
-          </svg>
-        </button>
-      </div>
-    </article>
-    `;
-  }).join('');
+  list.innerHTML = articles.map((n, i) => window.buildNewsCard(n, i, !!interests[n.id])).join('');
 
-  // 좋아요
+  window.bindCardFlip(list);
+
+  // 좋아요 — in-place update, no re-render to preserve flip state
   list.querySelectorAll('.like-btn').forEach(btn => {
-    btn.addEventListener('click', (e) => {
+    btn.addEventListener('click', e => {
       e.stopPropagation();
       const news = articles[+btn.dataset.idx];
       const wasLiked = !!interests[news.id];
       if (wasLiked) {
         delete interests[news.id];
+        btn.classList.remove('active');
+        btn.querySelector('svg').setAttribute('fill', 'none');
         bumpKeywordScores(news.chips, -1);
         logActivity({ action: 'unlike', newsId: news.id, category: news.category, chips: news.chips });
       } else {
-        interests[news.id] = {
-          id: news.id, category: news.category, source: news.source, time: news.time,
-          title: news.title, summary: news.summary, chips: news.chips, at: Date.now()
-        };
+        interests[news.id] = { ...news, at: Date.now() };
+        btn.classList.add('active');
+        btn.querySelector('svg').setAttribute('fill', 'currentColor');
         bumpKeywordScores(news.chips, 1);
         logActivity({ action: 'like', newsId: news.id, category: news.category, chips: news.chips });
       }
       saveInterests(interests);
-      renderNews(articles);
     });
-  });
-
-  // 해시태그 링크 → 카드 클릭과 분리
-  list.querySelectorAll('.chip-link').forEach(chip => {
-    chip.addEventListener('click', e => e.stopPropagation());
   });
 
   // 카드 뷰 로그
   list.querySelectorAll('.news-card').forEach(card => {
-    card.addEventListener('click', () => {
+    card.querySelector('.card-front').addEventListener('click', e => {
+      if (e.target.closest('.like-btn') || e.target.closest('.chip-link')) return;
       const news = articles[+card.dataset.idx];
       logActivity({ action: 'view', newsId: news.id, category: news.category, chips: news.chips, from: 'keyword:' + rawTag });
     });
