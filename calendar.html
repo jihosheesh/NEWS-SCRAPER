@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>이슈 캘린더 — NEWSHOT</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=2" />
+  <link rel="stylesheet" href="calendar.css" />
+</head>
+<body>
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <span class="logo-mini">N</span>
+      <button class="close-btn" id="closeSidebar" aria-label="메뉴 닫기">×</button>
+    </div>
+    <nav class="sidebar-nav">
+      <a href="index.html" class="nav-item"><span class="nav-icon">🏠</span><span>홈</span></a>
+      <a href="calendar.html" class="nav-item active"><span class="nav-icon">📅</span><span>이슈 캘린더</span></a>
+      <a href="library.html" class="nav-item"><span class="nav-icon">📚</span><span>라이브러리</span></a>
+    </nav>
+    <div class="sidebar-footer">
+      <a href="settings.html" class="nav-item small"><span class="nav-icon">⚙️</span><span>설정</span></a>
+    </div>
+  </aside>
+  <div class="overlay" id="overlay"></div>
+
+  <header class="header">
+    <button class="icon-btn" id="openSidebar" aria-label="메뉴 열기">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+      </svg>
+    </button>
+    <div class="logo"><span class="logo-dot"></span>NEWSHOT</div>
+    <span class="icon-btn placeholder" aria-hidden="true"></span>
+  </header>
+
+  <main class="main">
+    <section class="cal-hero">
+      <p class="date" id="heroSub">내 관심사 기준, AI가 추출한 이슈 흐름</p>
+      <h1>이슈 캘린더</h1>
+    </section>
+
+    <!-- 월 네비게이션 -->
+    <div class="cal-nav">
+      <button class="icon-btn" id="prevMonth" aria-label="이전 달">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <h2 id="monthTitle">2026년 4월</h2>
+      <button class="icon-btn" id="nextMonth" aria-label="다음 달">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>
+      </button>
+    </div>
+
+    <!-- 카테고리 필터 -->
+    <div class="filter-row" id="filterRow"></div>
+
+    <!-- 캘린더 그리드 -->
+    <div class="cal-weekdays">
+      <span>일</span><span>월</span><span>화</span><span>수</span><span>목</span><span>금</span><span>토</span>
+    </div>
+    <div class="cal-grid" id="calGrid"></div>
+
+    <!-- 선택된 날짜 이슈 상세 -->
+    <section class="issue-panel" id="issuePanel">
+      <div class="panel-head">
+        <div>
+          <p class="panel-sub" id="panelDate">날짜를 선택하세요</p>
+          <h3 id="panelTitle">이슈 요약</h3>
+        </div>
+        <span class="badge" id="panelBadge" style="display:none">AI 분석</span>
+      </div>
+      <div class="issue-list" id="issueList">
+        <div class="empty">📅 캘린더에서 점이 찍힌 날짜를 눌러보세요.</div>
+      </div>
+    </section>
+
+    <div class="bottom-spacer"></div>
+  </main>
+
+  <nav class="bottom-nav">
+    <a href="index.html" class="bnav-item">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+      <span>홈</span>
+    </a>
+    <a href="calendar.html" class="bnav-item active">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+      <span>캘린더</span>
+    </a>
+    <a href="library.html" class="bnav-item">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+      <span>라이브러리</span>
+    </a>
+    <a href="settings.html" class="bnav-item">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+      <span>설정</span>
+    </a>
+  </nav>
+
+  <script src="calendar.js"></script>
+</body>
+</html>
