@@ -229,11 +229,12 @@ window.buildNewsCard = function(n, i, liked) {
         </div>
         <div class="card-body">
           <h3 class="card-back-title">${n.title}</h3>
-          <p class="card-back-text">${n.summary.join(' ')}</p>
+          <ul class="card-back-list">${n.summary.map(s => `<li>${s}</li>`).join('')}</ul>
           <div class="card-back-meta">
             <span class="source">${n.source}</span><span class="dot"></span><span class="time">${n.time}</span>
           </div>
           <div class="chips" style="margin-top:6px">${chips}</div>
+          <p class="card-tap-hint">탭하여 닫기</p>
         </div>
       </div>
     </article>
@@ -243,13 +244,38 @@ window.buildNewsCard = function(n, i, liked) {
 // ---------- 카드 플립 이벤트 바인딩 ----------
 window.bindCardFlip = function(container) {
   container.querySelectorAll('.news-card').forEach(card => {
-    card.querySelector('.card-front').addEventListener('click', e => {
-      if (e.target.closest('.like-btn') || e.target.closest('.chip-link')) return;
+    const front = card.querySelector('.card-front');
+    const back  = card.querySelector('.card-back');
+
+    // 열기 — 뒷면 높이 측정 후 카드 확장
+    const openCard = () => {
+      // 잠시 position:relative / transform:none 으로 되돌려 scrollHeight 측정
+      // (동기 연산이므로 화면에 플래시 없음)
+      back.style.cssText = 'position:relative;transform:none;visibility:hidden';
+      const backH = back.scrollHeight;
+      back.style.cssText = '';            // 인라인 스타일 초기화 → CSS 클래스 복원
+      card.style.minHeight = Math.max(backH, front.offsetHeight) + 'px';
       card.classList.add('flipped');
-    });
-    card.querySelector('.card-close').addEventListener('click', e => {
-      e.stopPropagation();
+    };
+
+    // 닫기 — 카드 앞면으로 복귀
+    const closeCard = (e) => {
+      if (e) e.stopPropagation();
       card.classList.remove('flipped');
+      card.style.minHeight = '';          // CSS 기본값(240px)으로 트랜지션
+    };
+
+    // 앞면 클릭 → 열기
+    front.addEventListener('click', e => {
+      if (e.target.closest('.like-btn') || e.target.closest('.chip-link')) return;
+      openCard();
+    });
+
+    // X 버튼 or 뒷면 탭 → 닫기
+    back.querySelector('.card-close').addEventListener('click', closeCard);
+    back.addEventListener('click', e => {
+      if (e.target.closest('.chip-link') || e.target.closest('.card-close')) return;
+      closeCard(e);
     });
   });
 };
