@@ -343,7 +343,10 @@ def update_data_js(articles):
 # ────────────────────────────────────────────────────────────────
 if __name__ == '__main__':
     import sys
-    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+    except AttributeError:
+        pass  # Python < 3.7 or non-reconfigurable stdout (CI 환경 등)
     print('=' * 52)
     print('  NEWSHOT 뉴스 스크래퍼 - 한국 언론사 전용')
     print('=' * 52)
