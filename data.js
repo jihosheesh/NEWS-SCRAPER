@@ -254,15 +254,20 @@ window.KEYWORD_TOP = [
 
 // ---------- 키워드 정규화 (해시태그/영문/한글 모두 같은 키로) ----------
 window.normalizeTag = function(raw) {
-  return String(raw || '').replace('#', '').replace(/-/g, '').toLowerCase();
+  return String(raw || '').replace(/#/g, '').replace(/-/g, '').toLowerCase();
 };
 
 // ---------- 특정 태그로 기사 필터 ----------
 window.getArticlesByTag = function(rawTag) {
   const target = window.normalizeTag(rawTag);
-  return window.NEWS_DB.filter(n =>
-    (n.chips || []).some(c => window.normalizeTag(c) === target)
-  );
+  const rawLower = rawTag.replace(/#/g, '').toLowerCase();
+  return window.NEWS_DB.filter(n => {
+    // ① 칩 매칭
+    if ((n.chips || []).some(c => window.normalizeTag(c) === target)) return true;
+    // ② 텍스트 매칭 — 직접 입력 키워드 대응
+    const text = (n.title + ' ' + (Array.isArray(n.summary) ? n.summary.join(' ') : '')).toLowerCase();
+    return text.includes(rawLower);
+  });
 };
 
 // ---------- 카테고리별 카드 배경 ----------

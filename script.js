@@ -10,10 +10,19 @@ function loadUserKeywords() {
 }
 
 function getPersonalizedNews() {
-  const kws = loadUserKeywords().map(k => window.normalizeTag(k));
-  const filtered = window.NEWS_DB.filter(n =>
-    (n.chips || []).some(c => kws.includes(window.normalizeTag(c)))
-  );
+  const kws = loadUserKeywords();
+  const normalizedKws = kws.map(k => window.normalizeTag(k));
+
+  const filtered = window.NEWS_DB.filter(n => {
+    // ① 칩(chip) 매칭 — CHIP_KW에 등록된 키워드
+    const chips = (n.chips || []).map(c => window.normalizeTag(c));
+    if (normalizedKws.some(kw => chips.includes(kw))) return true;
+
+    // ② 텍스트 매칭 — 직접 입력 키워드를 제목·요약에서 검색
+    const text = (n.title + ' ' + (Array.isArray(n.summary) ? n.summary.join(' ') : '')).toLowerCase();
+    return kws.some(kw => text.includes(kw.toLowerCase()));
+  });
+
   return filtered.slice(0, 5);   // 빈 배열 그대로 반환 — 호출부에서 처리
 }
 
@@ -36,7 +45,7 @@ function logActivity(entry) {
 function bumpKeywordScores(chips, delta) {
   const map = JSON.parse(localStorage.getItem('newshot_kw_scores') || '{}');
   chips.forEach(c => {
-    const key = c.replace('#', '').toLowerCase();
+    const key = c.replace(/#/g, '').toLowerCase();
     map[key] = (map[key] || 0) + delta;
   });
   localStorage.setItem('newshot_kw_scores', JSON.stringify(map));

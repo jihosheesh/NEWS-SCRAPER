@@ -54,7 +54,7 @@ function logActivity(entry) {
 function bumpKeywordScores(chips, delta) {
   const map = JSON.parse(localStorage.getItem('newshot_kw_scores') || '{}');
   chips.forEach(c => {
-    const key = c.replace('#', '').toLowerCase();
+    const key = c.replace(/#/g, '').toLowerCase();
     map[key] = (map[key] || 0) + delta;
   });
   localStorage.setItem('newshot_kw_scores', JSON.stringify(map));
