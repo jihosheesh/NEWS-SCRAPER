@@ -36,6 +36,22 @@ TIMEOUT   = 10    # HTTP 타임아웃(초)
 HEADERS   = {'User-Agent': 'Mozilla/5.0 (compatible; NEWSHOT-Scraper/1.0)'}
 
 # ────────────────────────────────────────────────────────────────
+# 필터 / 정제 규칙
+# ────────────────────────────────────────────────────────────────
+# 수집 제외: 사진·영상 전용 기사 — 본문 없음, 같은 사건 중복 원인
+SKIP_PREFIXES = ('[포토]', '[영상]', '[화보]', '[사진]', '[포토영상]')
+
+# RSS description 내 타기사 티저 구분자 — 이 패턴 이후 내용 잘라냄
+# 조선일보·세계일보 등이 ▲ / ◆ 으로 여러 기사를 한 description에 이어붙임
+_DESC_SEP = re.compile(r'\s{0,3}[▲◆■●◇]\s')
+
+# 제목 내 ◆·■ 구분자 — 이 문자부터 끝까지 제거
+_TITLE_SEP = re.compile(r'\s*[◆■●◇□]\s*.*$')
+
+# 기자 서명 패턴 (사진설명 첫줄에 자주 등장) — "잠실=박재만 기자" 형태
+_PHOTO_BYLINE = re.compile(r'^[가-힣\s·]+=\s*[가-힣]+ 기자.*$', re.MULTILINE)
+
+# ────────────────────────────────────────────────────────────────
 # 한국 언론사 RSS 피드 (검증된 URL만 — 외국 출처 제외)
 # ────────────────────────────────────────────────────────────────
 RSS_FEEDS = [
@@ -98,6 +114,8 @@ CAT_KW = {
     '스포츠': [
         '야구', '축구', '농구', '배구', '손흥민', 'KBO', 'EPL',
         '올림픽', '월드컵', '스포츠', '선수권', '리그',
+        '선수', '감독', '코치', '투수', '타자', '홈런', '득점',
+        '구장', '잠실', '경기장', '우승', '승리', '패배', '경기',
     ],
 }
 
@@ -157,6 +175,31 @@ def clean_html(text):
         return ''
     text = BeautifulSoup(str(text), 'html.parser').get_text()
     return re.sub(r'\s+', ' ', text).strip()
+
+
+def clean_title_text(text):
+    """제목 내 ◆■ 구분자 및 이후 내용 제거"""
+    return _TITLE_SEP.sub('', text).strip()
+
+
+def truncate_desc(text, max_chars=250):
+    """RSS 설명에서 타기사 티저(▲◆ 구분자 이후) 및 기자 서명 제거.
+    분류·칩 추출·요약 생성에는 이 정제된 본문만 사용."""
+    if not text:
+        return ''
+    # ▲·◆·■·● 구분자 이전 내용만 사용 (이후는 타기사 티저)
+    text = _DESC_SEP.split(text)[0].strip()
+    # "잠실=박재만 기자 pjm@..." 형태의 기자 서명 제거
+    text = _PHOTO_BYLINE.sub('', text).strip()
+    return text[:max_chars]
+
+
+def dedup_key(title):
+    """중복 제거용 정규화 키.
+    [포토]·[속보]·[단독] 접두어, 특수문자, 공백 제거 후 앞 15자."""
+    t = re.sub(r'^\[.*?\]\s*', '', title)            # [포토] [속보] 등 제거
+    t = re.sub(r'[^\uAC00-\uD7A3a-zA-Z0-9]', '', t) # 특수문자·공백 제거
+    return t[:15].lower()
 
 
 def to_sentences(text, n=3):
@@ -238,11 +281,21 @@ def scrape():
                 if count >= PER_FEED:
                     break
 
-                title = clean_html(entry.get('title', ''))
+                raw_title = clean_html(entry.get('title', ''))
+
+                # ① [포토]/[영상]/[화보] 기사 제외 — 본문 없고 중복 원인
+                if any(raw_title.startswith(p) for p in SKIP_PREFIXES):
+                    continue
+
+                # ② 제목 내 ◆■ 구분자 제거
+                title = clean_title_text(raw_title)
+
                 link  = entry.get('link', '') or entry.get('id', '')
-                desc  = clean_html(
+                # ③ description에서 타기사 티저(▲◆ 이후) 제거
+                raw_desc = clean_html(
                     entry.get('summary', '') or entry.get('description', '')
                 )
+                desc = truncate_desc(raw_desc)
                 dt = parse_dt(entry)
 
                 if not title or not link or len(title) < 8:
@@ -256,6 +309,7 @@ def scrape():
 
                 summary = to_sentences(desc) if desc else [title + '.']
 
+                # ④ 분류·칩은 정제된 desc 기준으로만 판단
                 articles.append({
                     'id':       make_id(link),
                     'category': classify_cat(title, desc, fi['cat']),
@@ -274,11 +328,12 @@ def scrape():
         except Exception as e:
             print(f'오류 → {e}')
 
-    # 최신순 정렬 후 제목 앞 20자로 중복 제거
+    # 최신순 정렬 후 정규화 키로 중복 제거
+    # ([포토] 제거, 특수문자 제거, 앞 15자) → 같은 사건 다른 제목 제거
     articles.sort(key=lambda a: a['_dt'], reverse=True)
     seen, unique = set(), []
     for a in articles:
-        key = a['title'][:20]
+        key = dedup_key(a['title'])
         if key not in seen:
             seen.add(key)
             unique.append(a)
