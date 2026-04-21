@@ -335,16 +335,18 @@ def update_data_js(articles):
     with open(DATA_JS, 'w', encoding='utf-8') as f:
         f.write(updated)
 
-    print(f'\n✅  data.js 갱신 완료 — {len(clean)}건 기사, TOP3: '
-          + ', '.join(f'#{kw_top[i]["tag"]}' for i in range(len(kw_top))))
+    top_tags = ', '.join(f'#{kw_top[i]["tag"]}' for i in range(len(kw_top)))
+    print(f'\n[완료] data.js 갱신 완료 - {len(clean)}건 기사, TOP3: {top_tags}')
 
 
 # ────────────────────────────────────────────────────────────────
 # 엔트리포인트
 # ────────────────────────────────────────────────────────────────
 if __name__ == '__main__':
+    import sys
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
     print('=' * 52)
-    print('  NEWSHOT 뉴스 스크래퍼  —  한국 언론사 전용')
+    print('  NEWSHOT 뉴스 스크래퍼 - 한국 언론사 전용')
     print('=' * 52)
     print()
 
