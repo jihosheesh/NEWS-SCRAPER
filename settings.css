@@ -8,6 +8,27 @@
   letter-spacing: -0.02em;
 }
 
+.set-back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 14px;
+  padding: 6px 12px 6px 8px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-sub);
+  text-decoration: none;
+  transition: color .15s, border-color .15s, background .15s;
+}
+.set-back-btn:hover {
+  color: var(--text);
+  border-color: var(--accent);
+  background: var(--surface);
+}
+
 /* ---------- 설정 카드 ---------- */
 .set-card {
   background: var(--surface);
