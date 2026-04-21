@@ -1,5 +1,6 @@
+// ====AUTO-GENERATED-START====
+// 마지막 업데이트: (scraper.py 실행 전 초기 더미 데이터)
 // ---------- NEWSHOT 공유 뉴스 DB ----------
-// 여러 페이지 (index / keyword / calendar)에서 공통으로 사용
 window.NEWS_DB = [
   {
     id: 'n1', category: 'IT', source: '테크크런치', time: '1시간 전',
@@ -141,6 +142,7 @@ window.KEYWORD_TOP = [
   { rank: 2, tag: 'HBM4', mentions: '8,720건', trend: '+156%' },
   { rank: 3, tag: '금리인하', mentions: '6,310건', trend: '+89%' }
 ];
+// ====AUTO-GENERATED-END====
 
 // ---------- 키워드 정규화 (해시태그/영문/한글 모두 같은 키로) ----------
 window.normalizeTag = function(raw) {
