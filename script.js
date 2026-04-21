@@ -9,6 +9,9 @@ function loadUserKeywords() {
   } catch { return [...DEFAULT_KEYWORDS]; }
 }
 
+// true = 키워드 일치 기사 없어서 최신 뉴스로 폴백 중
+let _kwFallback = false;
+
 function getPersonalizedNews() {
   const kws = loadUserKeywords();
   const normalizedKws = kws.map(k => window.normalizeTag(k));
@@ -23,7 +26,13 @@ function getPersonalizedNews() {
     return kws.some(kw => text.includes(kw.toLowerCase()));
   });
 
-  return filtered.slice(0, 5);   // 빈 배열 그대로 반환 — 호출부에서 처리
+  if (filtered.length > 0) {
+    _kwFallback = false;
+    return filtered.slice(0, 5);
+  }
+  // 키워드 일치 기사 없음 → 최신 뉴스 폴백 (빈 화면 방지)
+  _kwFallback = true;
+  return [...window.NEWS_DB].slice(0, 5);
 }
 
 // ---------- localStorage ----------
@@ -60,20 +69,15 @@ let showingAll = false;
 function renderNews() {
   const list = document.getElementById('newsList');
 
-  // 관심 키워드 일치 기사가 없을 때 안내 메시지
-  if (!showingAll && currentNewsData.length === 0) {
-    const kws = loadUserKeywords();
-    list.innerHTML = `
-      <div class="no-news-notice">
-        <div class="no-news-icon">🔍</div>
-        <p class="no-news-title">관심 키워드 뉴스가 없어요</p>
-        <p class="no-news-desc"><strong>${kws.join(', ')}</strong> 관련 최신 기사가 아직 수집되지 않았습니다.<br>키워드를 수정하거나 전체보기를 눌러보세요.</p>
-        <a href="settings.html" class="no-news-edit-btn">키워드 편집</a>
-      </div>`;
-    return;
-  }
+  // 키워드 불일치 폴백 상태 — 카드 위에 작은 배너만 표시
+  const banner = (!showingAll && _kwFallback)
+    ? `<div class="kw-fallback-banner">
+        <span>🔍 관심 키워드 최신 기사가 없어 전체 최신 뉴스를 표시합니다.</span>
+        <a href="settings.html" class="kw-fallback-edit">키워드 편집</a>
+       </div>`
+    : '';
 
-  list.innerHTML = currentNewsData.map((n, i) =>
+  list.innerHTML = banner + currentNewsData.map((n, i) =>
     window.buildNewsCard(n, i, !!interests[n.id])
   ).join('');
 
