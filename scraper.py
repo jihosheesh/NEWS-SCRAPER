@@ -36,39 +36,38 @@ TIMEOUT   = 10    # HTTP 타임아웃(초)
 HEADERS   = {'User-Agent': 'Mozilla/5.0 (compatible; NEWSHOT-Scraper/1.0)'}
 
 # ────────────────────────────────────────────────────────────────
-# 한국 언론사 RSS 피드 (외국 출처 제외)
+# 한국 언론사 RSS 피드 (검증된 URL만 — 외국 출처 제외)
 # ────────────────────────────────────────────────────────────────
 RSS_FEEDS = [
     # ── IT / 테크 ──────────────────────────────────────────────
+    {'url': 'https://feeds.feedburner.com/zdkorea',
+     'source': 'ZDNet Korea', 'cat': 'IT'},
     {'url': 'https://www.etnews.com/rss/allArticle.xml',
      'source': '전자신문',    'cat': 'IT'},
-    {'url': 'https://zdnet.co.kr/rss/zdnet_total.xml',
-     'source': 'ZDNet Korea', 'cat': 'IT'},
     # ── 경제 ──────────────────────────────────────────────────
-    {'url': 'https://www.hankyung.com/rss/feed/news.xml',
+    {'url': 'https://www.hankyung.com/feed/all-news',
      'source': '한국경제',   'cat': '경제'},
-    {'url': 'https://www.mk.co.kr/rss/30000001.xml',
-     'source': '매일경제',   'cat': '경제'},
-    {'url': 'https://biz.chosun.com/rss/rss.html',
-     'source': '조선비즈',   'cat': '경제'},
-    {'url': 'https://www.edaily.co.kr/rss/rss.xml',
-     'source': '이데일리',   'cat': '경제'},
-    {'url': 'https://www.mt.co.kr/rss/main.xml',
+    {'url': 'https://rss.mt.co.kr/mt_news.xml',
      'source': '머니투데이', 'cat': '경제'},
+    {'url': 'https://www.asiae.co.kr/rss/all.htm',
+     'source': '아시아경제', 'cat': '경제'},
+    {'url': 'https://www.yna.co.kr/rss/economy.xml',
+     'source': '연합뉴스(경제)', 'cat': '경제'},
     # ── 종합 ──────────────────────────────────────────────────
     {'url': 'https://www.yna.co.kr/rss/news.xml',
      'source': '연합뉴스',   'cat': '사회'},
     {'url': 'https://rss.donga.com/total.xml',
      'source': '동아일보',   'cat': '사회'},
-    {'url': 'https://news.kbs.co.kr/rss/rss.xml',
-     'source': 'KBS뉴스',    'cat': '사회'},
-    {'url': 'https://imnews.imbc.com/rss/news/news_00.xml',
-     'source': 'MBC뉴스',    'cat': '사회'},
     {'url': 'https://www.hani.co.kr/rss/',
      'source': '한겨레',     'cat': '사회'},
-    # ── 스포츠 ────────────────────────────────────────────────
-    {'url': 'https://sports.chosun.com/rss/sports.xml',
-     'source': '스포츠조선', 'cat': '스포츠'},
+    {'url': 'https://www.khan.co.kr/rss/rssdata/total_news.xml',
+     'source': '경향신문',   'cat': '사회'},
+    {'url': 'https://newsis.com/RSS/sokbo.xml',
+     'source': '뉴시스',     'cat': '사회'},
+    {'url': 'https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml',
+     'source': '조선일보',   'cat': '사회'},
+    {'url': 'https://www.segye.com/Articles/RSSList/segye_recent.xml',
+     'source': '세계일보',   'cat': '사회'},
 ]
 
 # ────────────────────────────────────────────────────────────────
