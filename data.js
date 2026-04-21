@@ -2,10 +2,8 @@
 // 여러 페이지 (index / keyword / calendar)에서 공통으로 사용
 window.NEWS_DB = [
   {
-    id: 'n1',
-    category: 'IT',
-    source: '테크크런치',
-    time: '1시간 전',
+    id: 'n1', category: 'IT', source: '테크크런치', time: '1시간 전',
+    url: 'https://techcrunch.com',
     title: 'OpenAI, GPT-5 출시 임박… 추론 능력 2배 향상 예고',
     summary: [
       'OpenAI가 차세대 모델 GPT-5를 6월 공개 예정이라고 발표.',
@@ -15,10 +13,8 @@ window.NEWS_DB = [
     chips: ['#AI', '#OpenAI', '#GPT5']
   },
   {
-    id: 'n2',
-    category: '경제',
-    source: '한국경제',
-    time: '2시간 전',
+    id: 'n2', category: '경제', source: '한국경제', time: '2시간 전',
+    url: 'https://www.hankyung.com',
     title: 'SK하이닉스, HBM4 양산 돌입… 엔비디아 단독 공급 유력',
     summary: [
       'SK하이닉스가 차세대 HBM4 메모리 양산 라인을 공식 가동.',
@@ -28,10 +24,8 @@ window.NEWS_DB = [
     chips: ['#반도체', '#HBM4', '#엔비디아']
   },
   {
-    id: 'n3',
-    category: '부동산',
-    source: '매일경제',
-    time: '3시간 전',
+    id: 'n3', category: '부동산', source: '매일경제', time: '3시간 전',
+    url: 'https://www.mk.co.kr',
     title: '서울 아파트 전셋값, 10주 연속 상승… "공급 부족이 원인"',
     summary: [
       '서울 아파트 전셋값이 10주째 상승세를 이어감.',
@@ -41,10 +35,8 @@ window.NEWS_DB = [
     chips: ['#부동산', '#전세', '#서울']
   },
   {
-    id: 'n4',
-    category: 'IT',
-    source: '블룸버그',
-    time: '4시간 전',
+    id: 'n4', category: 'IT', source: '블룸버그', time: '4시간 전',
+    url: 'https://www.bloomberg.com',
     title: 'Google, 제미나이 2.5 울트라 공개… GPT-5 견제구',
     summary: [
       '구글이 차세대 AI 모델 제미나이 2.5 울트라를 발표.',
@@ -54,10 +46,8 @@ window.NEWS_DB = [
     chips: ['#AI', '#Google', '#제미나이']
   },
   {
-    id: 'n5',
-    category: 'IT',
-    source: '연합뉴스',
-    time: '5시간 전',
+    id: 'n5', category: 'IT', source: '연합뉴스', time: '5시간 전',
+    url: 'https://www.yna.co.kr',
     title: 'Microsoft, OpenAI 추가 투자 100억 달러 검토',
     summary: [
       'MS가 OpenAI와 추가 투자 협상 중임이 확인됨.',
@@ -67,10 +57,8 @@ window.NEWS_DB = [
     chips: ['#AI', '#OpenAI', '#MS', '#GPT5']
   },
   {
-    id: 'n6',
-    category: '경제',
-    source: '조선비즈',
-    time: '6시간 전',
+    id: 'n6', category: '경제', source: '조선비즈', time: '6시간 전',
+    url: 'https://biz.chosun.com',
     title: '삼성전자, 1분기 영업이익 9.3조… HBM이 효자',
     summary: [
       '삼성전자가 1분기 영업이익 9.3조 원으로 어닝 서프라이즈.',
@@ -80,10 +68,8 @@ window.NEWS_DB = [
     chips: ['#반도체', '#삼성전자', '#실적', '#HBM4']
   },
   {
-    id: 'n7',
-    category: '경제',
-    source: '한겨레',
-    time: '8시간 전',
+    id: 'n7', category: '경제', source: '한겨레', time: '8시간 전',
+    url: 'https://www.hani.co.kr',
     title: '한국은행 기준금리 2.75% 동결… 5회 연속',
     summary: [
       '한은 금통위가 기준금리를 2.75%로 5회 연속 동결.',
@@ -93,10 +79,8 @@ window.NEWS_DB = [
     chips: ['#금리', '#한은', '#금리인하']
   },
   {
-    id: 'n8',
-    category: '부동산',
-    source: '머니투데이',
-    time: '10시간 전',
+    id: 'n8', category: '부동산', source: '머니투데이', time: '10시간 전',
+    url: 'https://mt.co.kr',
     title: '강남 3구 재건축 수주전 과열… 시공사 출혈경쟁',
     summary: [
       '강남·서초·송파 재건축 단지 수주전에 대형 건설사 출혈경쟁.',
@@ -106,10 +90,8 @@ window.NEWS_DB = [
     chips: ['#부동산', '#재건축', '#서울']
   },
   {
-    id: 'n9',
-    category: '사회',
-    source: 'KBS뉴스',
-    time: '12시간 전',
+    id: 'n9', category: '사회', source: 'KBS뉴스', time: '12시간 전',
+    url: 'https://news.kbs.co.kr',
     title: 'AI 기본법 국회 본회의 통과… 2027년 시행',
     summary: [
       'AI 기본법이 국회 본회의를 통과.',
@@ -119,10 +101,8 @@ window.NEWS_DB = [
     chips: ['#AI', '#AI규제', '#정책']
   },
   {
-    id: 'n10',
-    category: 'IT',
-    source: '더버지',
-    time: '13시간 전',
+    id: 'n10', category: 'IT', source: '더버지', time: '13시간 전',
+    url: 'https://www.theverge.com',
     title: 'Apple, M5 칩 탑재 맥북 프로 공개',
     summary: [
       '애플이 신형 M5 칩 탑재 맥북 프로 라인업 발표.',
@@ -132,10 +112,8 @@ window.NEWS_DB = [
     chips: ['#AI', '#Apple', '#M5']
   },
   {
-    id: 'n11',
-    category: '스포츠',
-    source: '스포츠조선',
-    time: '15시간 전',
+    id: 'n11', category: '스포츠', source: '스포츠조선', time: '15시간 전',
+    url: 'https://sports.chosun.com',
     title: '손흥민 시즌 20호골… 토트넘 챔스 진출 유력',
     summary: [
       '손흥민이 프리미어리그 시즌 20호골을 기록.',
@@ -145,10 +123,8 @@ window.NEWS_DB = [
     chips: ['#손흥민', '#EPL', '#토트넘']
   },
   {
-    id: 'n12',
-    category: '경제',
-    source: '이데일리',
-    time: '18시간 전',
+    id: 'n12', category: '경제', source: '이데일리', time: '18시간 전',
+    url: 'https://www.edaily.co.kr',
     title: '美 3월 CPI 3.1% 상승… 금리 인하 기대 후퇴',
     summary: [
       '미국 3월 소비자물가지수가 예상치를 웃도는 3.1% 상승.',
@@ -227,6 +203,13 @@ window.buildNewsCard = function(n, i, liked) {
             </svg>
           </button>
         </div>
+        <a class="card-read-btn" href="${n.url || '#'}" target="_blank" rel="noopener noreferrer">
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+            <polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
+          </svg>
+          뉴스 본문 보기
+        </a>
         <div class="card-body">
           <h3 class="card-back-title">${n.title}</h3>
           <ul class="card-back-list">${n.summary.map(s => `<li>${s}</li>`).join('')}</ul>
@@ -274,7 +257,7 @@ window.bindCardFlip = function(container) {
     // X 버튼 or 뒷면 탭 → 닫기
     back.querySelector('.card-close').addEventListener('click', closeCard);
     back.addEventListener('click', e => {
-      if (e.target.closest('.chip-link') || e.target.closest('.card-close')) return;
+      if (e.target.closest('.chip-link') || e.target.closest('.card-close') || e.target.closest('.card-read-btn')) return;
       closeCard(e);
     });
   });

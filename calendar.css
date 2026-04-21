@@ -24,7 +24,7 @@
   gap: 8px;
   overflow-x: auto;
   padding-bottom: 12px;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
   scrollbar-width: none;
 }
 .filter-row::-webkit-scrollbar { display: none; }
@@ -49,161 +49,165 @@
   font-weight: 600;
 }
 
-.cal-weekdays {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr);
-  text-align: center;
-  font-size: 11px;
-  font-weight: 600;
-  color: var(--text-mute);
-  padding: 8px 0;
-  margin-bottom: 4px;
-}
-.cal-weekdays span:first-child { color: #ff6b6b; }
-.cal-weekdays span:last-child { color: #6b9fff; }
-
-.cal-grid {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr);
-  gap: 4px;
+/* ---------- 주차별 이슈 목록 ---------- */
+.week-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
   margin-bottom: 32px;
 }
 
-.cal-cell {
-  aspect-ratio: 1 / 1.15;
+.week-section {
   background: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 6px 6px 4px;
-  display: flex;
-  flex-direction: column;
-  cursor: pointer;
-  transition: all .15s;
-  position: relative;
-}
-.cal-cell.empty {
-  background: transparent;
-  border-color: transparent;
-  cursor: default;
-}
-.cal-cell:not(.empty):hover {
-  border-color: #3a3a48;
-  background: var(--surface-2);
-}
-.cal-cell.today {
-  border-color: var(--accent);
-  background: rgba(255,90,54,0.06);
-}
-.cal-cell.selected {
-  border-color: var(--accent);
-  background: rgba(255,90,54,0.15);
-  box-shadow: 0 0 0 2px rgba(255,90,54,0.3);
+  border-radius: 14px;
+  overflow: hidden;
 }
 
-.cal-day {
-  font-size: 12px;
+.week-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 11px 14px;
+  background: var(--surface-2);
+  border-bottom: 1px solid var(--border);
+}
+.week-title {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+.week-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text);
+}
+.week-range {
+  font-size: 11.5px;
+  color: var(--text-mute);
+}
+.week-badge {
+  font-size: 11px;
   font-weight: 600;
-  color: var(--text-sub);
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: rgba(255,90,54,0.12);
+  color: var(--accent);
+}
+
+/* 날짜 행 */
+.week-day-row {
+  display: flex;
+  gap: 12px;
+  padding: 14px;
+  border-bottom: 1px solid var(--border);
+}
+.week-day-row:last-child { border-bottom: none; }
+.week-day-row.today { background: rgba(255,90,54,0.04); }
+
+.week-date-col {
+  width: 36px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2px;
+}
+.week-date {
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--text);
+  line-height: 1;
   font-family: 'Inter', sans-serif;
 }
-.cal-cell.today .cal-day,
-.cal-cell.selected .cal-day { color: var(--accent); }
-.cal-cell.sun .cal-day { color: #ff6b6b; }
-.cal-cell.sat .cal-day { color: #6b9fff; }
+.week-date.sun { color: #ff6b6b; }
+.week-date.sat { color: #6b9fff; }
 
-.cal-issues {
-  margin-top: auto;
+.week-dow {
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--text-mute);
+  margin-top: 3px;
+}
+.week-dow.sun { color: #ff6b6b; }
+.week-dow.sat { color: #6b9fff; }
+
+.today-dot {
+  width: 5px; height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-top: 5px;
+}
+
+/* 이슈 카드 영역 */
+.week-issues-col {
+  flex: 1;
+  min-width: 0;
   display: flex;
   flex-direction: column;
-  gap: 2px;
-}
-.cal-issue-tag {
-  font-size: 9.5px;
-  font-weight: 600;
-  padding: 2px 4px;
-  border-radius: 4px;
-  background: var(--chip);
-  color: var(--text-sub);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  line-height: 1.3;
-}
-.cal-issue-tag.cat-IT { background: rgba(107,159,255,0.15); color: #8fb4ff; }
-.cal-issue-tag.cat-경제 { background: rgba(255,176,56,0.15); color: #ffc570; }
-.cal-issue-tag.cat-사회 { background: rgba(255,90,54,0.15); color: #ff8d73; }
-.cal-issue-tag.cat-부동산 { background: rgba(155,120,255,0.18); color: #b89dff; }
-.cal-issue-tag.cat-스포츠 { background: rgba(69,209,127,0.15); color: #6de0a2; }
-.cal-dot-count {
-  font-size: 9px;
-  color: var(--text-mute);
-  padding-left: 4px;
+  gap: 8px;
 }
 
-/* ---------- Issue Detail Panel ---------- */
-.issue-panel {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 16px;
-  padding: 20px;
-  margin-top: 8px;
-}
-.panel-head {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  margin-bottom: 18px;
-}
-.panel-sub {
-  font-size: 12px;
-  color: var(--text-mute);
-  margin-bottom: 4px;
-}
-#panelTitle {
-  font-size: 18px;
-  font-weight: 700;
-  letter-spacing: -0.01em;
-}
-
-.issue-list { display: flex; flex-direction: column; gap: 12px; }
-.empty {
-  color: var(--text-mute);
-  text-align: center;
-  padding: 28px 8px;
-  font-size: 14px;
-}
-
-.issue-item {
-  padding: 14px;
+.week-issue-card {
+  padding: 10px 12px;
   background: var(--surface-2);
-  border-radius: 12px;
-  border-left: 3px solid var(--accent);
+  border-radius: 10px;
+  border-left: 2px solid var(--accent);
 }
-.issue-item .issue-cat {
-  font-size: 11px;
-  font-weight: 700;
-  color: var(--accent);
-  margin-bottom: 6px;
-  letter-spacing: 0.04em;
-}
-.issue-item .issue-title {
-  font-size: 15px;
-  font-weight: 700;
-  line-height: 1.4;
-  margin-bottom: 8px;
-}
-.issue-item .issue-summary {
-  font-size: 13px;
-  color: var(--text-sub);
-  line-height: 1.55;
-  margin-bottom: 10px;
-}
-.issue-item .issue-meta {
+
+.week-issue-head {
   display: flex;
-  gap: 6px;
+  align-items: center;
+  gap: 7px;
+  margin-bottom: 6px;
   flex-wrap: wrap;
 }
-.issue-item .mini-chip {
+
+.week-cat {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 4px;
+  flex-shrink: 0;
+  letter-spacing: 0.03em;
+}
+.week-cat.cat-IT      { background: rgba(107,159,255,0.15); color: #8fb4ff; }
+.week-cat.cat-경제     { background: rgba(255,176,56,0.15);  color: #ffc570; }
+.week-cat.cat-사회     { background: rgba(255,90,54,0.15);   color: #ff8d73; }
+.week-cat.cat-부동산   { background: rgba(155,120,255,0.18); color: #b89dff; }
+.week-cat.cat-스포츠   { background: rgba(69,209,127,0.15);  color: #6de0a2; }
+
+.week-chips {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+.week-chips .mini-chip { font-size: 10px; padding: 2px 6px; }
+
+.week-issue-title {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 5px;
+  letter-spacing: -0.01em;
+}
+.week-issue-summary {
+  font-size: 12.5px;
+  color: var(--text-sub);
+  line-height: 1.55;
+}
+
+/* 이슈 없음 */
+.week-no-data {
+  text-align: center;
+  padding: 48px 20px;
+  color: var(--text-mute);
+}
+.week-no-data .wnd-emoji { font-size: 36px; display: block; margin-bottom: 10px; }
+.week-no-data p { font-size: 14px; }
+
+/* 키워드 페이지에서 재사용되는 mini-chip */
+.mini-chip {
   font-size: 10.5px;
   font-weight: 500;
   padding: 3px 7px;
@@ -212,8 +216,8 @@
   color: var(--text-sub);
   transition: all .15s;
 }
-.issue-item .mini-chip.chip-link { cursor: pointer; }
-.issue-item .mini-chip.chip-link:hover {
+.mini-chip.chip-link { cursor: pointer; }
+.mini-chip.chip-link:hover {
   color: var(--accent);
   background: rgba(255,90,54,0.15);
 }

@@ -42,8 +42,7 @@ const issueData = {
 };
 
 // ---------- 상태 ----------
-let viewDate = new Date(2026, 3, 15); // 2026년 4월
-let selectedDate = '2026-04-15';
+let viewDate = new Date(2026, 3, 1); // 2026년 4월
 let activeFilter = 'all';
 
 const CATEGORIES = ['all', 'IT', '경제', '사회', '부동산', '스포츠'];
@@ -62,96 +61,119 @@ function renderFilter() {
       activeFilter = btn.dataset.cat;
       renderFilter();
       renderGrid();
-      renderPanel();
     });
   });
 }
 
-// ---------- 렌더: 캘린더 그리드 ----------
+// ---------- 유틸 ----------
 function fmtKey(y, m, d) {
   return `${y}-${String(m + 1).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
 }
-
 function filteredIssues(key) {
   const items = issueData[key] || [];
-  if (activeFilter === 'all') return items;
-  return items.filter(i => i.category === activeFilter);
+  return activeFilter === 'all' ? items : items.filter(i => i.category === activeFilter);
 }
 
+// ---------- 렌더: 주차별 이슈 목록 ----------
 function renderGrid() {
-  const year = viewDate.getFullYear();
+  const year  = viewDate.getFullYear();
   const month = viewDate.getMonth();
   document.getElementById('monthTitle').textContent = `${year}년 ${month + 1}월`;
 
-  const first = new Date(year, month, 1);
   const lastDate = new Date(year, month + 1, 0).getDate();
-  const startDow = first.getDay();
+  const startDow = new Date(year, month, 1).getDay();
+  const DOW_KO  = ['일','월','화','수','목','금','토'];
+  const TODAY   = '2026-04-15';
 
-  const today = new Date(2026, 3, 15); // 기준 오늘
-  const todayKey = fmtKey(today.getFullYear(), today.getMonth(), today.getDate());
+  // 주차 배열 계산 (일~토 기준)
+  const weeks = [];
+  let week = [];
+  for (let i = 0; i < startDow; i++) week.push(null);
+  for (let d = 1; d <= lastDate; d++) {
+    week.push(d);
+    if (week.length === 7) { weeks.push([...week]); week = []; }
+  }
+  if (week.length) {
+    while (week.length < 7) week.push(null);
+    weeks.push([...week]);
+  }
 
   let html = '';
-  // 앞 공백
-  for (let i = 0; i < startDow; i++) html += `<div class="cal-cell empty"></div>`;
+  let hasAny = false;
 
-  for (let d = 1; d <= lastDate; d++) {
-    const key = fmtKey(year, month, d);
-    const dow = (startDow + d - 1) % 7;
-    const issues = filteredIssues(key);
-    const dowCls = dow === 0 ? 'sun' : dow === 6 ? 'sat' : '';
-    const todayCls = key === todayKey ? 'today' : '';
-    const selCls = key === selectedDate ? 'selected' : '';
+  weeks.forEach((wk, wi) => {
+    // 이슈 있는 날짜만 추출
+    const days = wk
+      .filter(d => d !== null)
+      .map(d => ({ d, key: fmtKey(year, month, d), dow: new Date(year, month, d).getDay() }))
+      .map(o  => ({ ...o, issues: filteredIssues(o.key) }))
+      .filter(o => o.issues.length > 0);
 
-    const tagsHtml = issues.slice(0, 2).map(i =>
-      `<span class="cal-issue-tag cat-${i.category}">${i.title.length > 8 ? i.title.slice(0, 8) + '…' : i.title}</span>`
-    ).join('');
-    const more = issues.length > 2 ? `<span class="cal-dot-count">+${issues.length - 2}</span>` : '';
+    if (!days.length) return;
+    hasAny = true;
+
+    const validDays = wk.filter(d => d !== null);
+    const fd = validDays[0], ld = validDays[validDays.length - 1];
+    const fdow = new Date(year, month, fd).getDay();
+    const ldow = new Date(year, month, ld).getDay();
+    const total = days.reduce((s, o) => s + o.issues.length, 0);
 
     html += `
-      <div class="cal-cell ${dowCls} ${todayCls} ${selCls}" data-key="${key}">
-        <span class="cal-day">${d}</span>
-        <div class="cal-issues">${tagsHtml}${more}</div>
-      </div>
-    `;
-  }
-  document.getElementById('calGrid').innerHTML = html;
+      <div class="week-section">
+        <div class="week-header">
+          <div class="week-title">
+            <span class="week-label">${wi + 1}주차</span>
+            <span class="week-range">${month+1}/${fd}(${DOW_KO[fdow]}) – ${month+1}/${ld}(${DOW_KO[ldow]})</span>
+          </div>
+          <span class="week-badge">${total}건</span>
+        </div>
+        <div class="week-days">`;
 
-  document.querySelectorAll('.cal-cell:not(.empty)').forEach(cell => {
-    cell.addEventListener('click', () => {
-      selectedDate = cell.dataset.key;
-      renderGrid();
-      renderPanel();
+    days.forEach(({ d, key, dow, issues }) => {
+      const isSun = dow === 0, isSat = dow === 6;
+      const isToday = key === TODAY;
+      html += `
+          <div class="week-day-row${isToday ? ' today' : ''}">
+            <div class="week-date-col">
+              <span class="week-date${isSun?' sun':isSat?' sat':''}">${d}</span>
+              <span class="week-dow${isSun?' sun':isSat?' sat':''}">${DOW_KO[dow]}</span>
+              ${isToday ? '<span class="today-dot"></span>' : ''}
+            </div>
+            <div class="week-issues-col">`;
+
+      issues.forEach(issue => {
+        const chips = issue.chips.map(c =>
+          `<a class="mini-chip chip-link" href="keyword.html?tag=${encodeURIComponent(c.replace('#',''))}">${c}</a>`
+        ).join('');
+        html += `
+              <div class="week-issue-card">
+                <div class="week-issue-head">
+                  <span class="week-cat cat-${issue.category}">${issue.category}</span>
+                  <div class="week-chips">${chips}</div>
+                </div>
+                <div class="week-issue-title">${issue.title}</div>
+                <div class="week-issue-summary">${issue.summary}</div>
+              </div>`;
+      });
+
+      html += `
+            </div>
+          </div>`;
     });
+
+    html += `
+        </div>
+      </div>`;
   });
-}
 
-// ---------- 렌더: 상세 패널 ----------
-function renderPanel() {
-  const items = filteredIssues(selectedDate);
-  const [y, m, d] = selectedDate.split('-').map(Number);
-  const dateObj = new Date(y, m - 1, d);
-  const dow = ['일','월','화','수','목','금','토'][dateObj.getDay()];
-
-  document.getElementById('panelDate').textContent = `${y}년 ${m}월 ${d}일 (${dow})`;
-  document.getElementById('panelTitle').textContent =
-    items.length ? `핵심 이슈 ${items.length}건` : '등록된 이슈 없음';
-  document.getElementById('panelBadge').style.display = items.length ? 'inline-block' : 'none';
-
-  const list = document.getElementById('issueList');
-  if (!items.length) {
-    list.innerHTML = `<div class="empty">이 날짜에는 분석된 이슈가 없어요.</div>`;
-    return;
+  if (!hasAny) {
+    html = `<div class="week-no-data">
+      <span class="wnd-emoji">📭</span>
+      <p>이 달에는 해당 카테고리의 이슈가 없어요.</p>
+    </div>`;
   }
-  list.innerHTML = items.map(i => `
-    <div class="issue-item">
-      <div class="issue-cat">${i.category}</div>
-      <div class="issue-title">${i.title}</div>
-      <div class="issue-summary">${i.summary}</div>
-      <div class="issue-meta">
-        ${i.chips.map(c => `<a class="mini-chip chip-link" href="keyword.html?tag=${encodeURIComponent(c.replace('#',''))}">${c}</a>`).join('')}
-      </div>
-    </div>
-  `).join('');
+
+  document.getElementById('calGrid').innerHTML = html;
 }
 
 // ---------- 개인화: 관심 키워드 요약 ----------
@@ -195,5 +217,4 @@ overlay.addEventListener('click', closeSidebar);
 // ---------- 초기화 ----------
 renderFilter();
 renderGrid();
-renderPanel();
 renderHeroSub();
