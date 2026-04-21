@@ -14,7 +14,7 @@ function getPersonalizedNews() {
   const filtered = window.NEWS_DB.filter(n =>
     (n.chips || []).some(c => kws.includes(window.normalizeTag(c)))
   );
-  return (filtered.length ? filtered : window.NEWS_DB).slice(0, 5);
+  return filtered.slice(0, 5);   // 빈 배열 그대로 반환 — 호출부에서 처리
 }
 
 // ---------- localStorage ----------
@@ -50,6 +50,20 @@ let showingAll = false;
 
 function renderNews() {
   const list = document.getElementById('newsList');
+
+  // 관심 키워드 일치 기사가 없을 때 안내 메시지
+  if (!showingAll && currentNewsData.length === 0) {
+    const kws = loadUserKeywords();
+    list.innerHTML = `
+      <div class="no-news-notice">
+        <div class="no-news-icon">🔍</div>
+        <p class="no-news-title">관심 키워드 뉴스가 없어요</p>
+        <p class="no-news-desc"><strong>${kws.join(', ')}</strong> 관련 최신 기사가 아직 수집되지 않았습니다.<br>키워드를 수정하거나 전체보기를 눌러보세요.</p>
+        <a href="settings.html" class="no-news-edit-btn">키워드 편집</a>
+      </div>`;
+    return;
+  }
+
   list.innerHTML = currentNewsData.map((n, i) =>
     window.buildNewsCard(n, i, !!interests[n.id])
   ).join('');
@@ -96,7 +110,7 @@ function initViewAllBtn() {
   if (!btn) return;
   btn.addEventListener('click', () => {
     showingAll = !showingAll;
-    currentNewsData = showingAll ? window.NEWS_DB : getPersonalizedNews();
+    currentNewsData = showingAll ? [...window.NEWS_DB] : getPersonalizedNews();
     btn.textContent = showingAll ? '접기' : '전체보기';
     renderNews();
   });
