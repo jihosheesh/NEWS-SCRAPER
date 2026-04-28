@@ -1,6 +1,12 @@
+// ──────────────────────────────────────────────────────────────
+// Cloudflare Worker API URL
+// 배포 후 실제 URL로 교체: https://newshot-api.{계정명}.workers.dev
+// ──────────────────────────────────────────────────────────────
+const NEWSHOT_API = '';   // ← 배포 완료 후 이 곳에 Worker URL 입력
+
 // ---------- 관심 키워드 ----------
-const KEYWORDS_KEY = 'newshot_user_keywords';
-const DEFAULT_KEYWORDS = ['AI', '반도체', '부동산', '스타트업'];
+const KEYWORDS_KEY      = 'newshot_user_keywords';
+const DEFAULT_KEYWORDS  = ['AI', '반도체', '부동산', '스타트업'];
 
 function loadUserKeywords() {
   try {
@@ -9,43 +15,61 @@ function loadUserKeywords() {
   } catch { return [...DEFAULT_KEYWORDS]; }
 }
 
-// true = 키워드 일치 기사 없어서 최신 뉴스로 폴백 중
-let _kwFallback = false;
+// ──────────────────────────────────────────────────────────────
+// 로컬 필터 (data.js 기반 — 즉시 표시용 / API 폴백)
+// ──────────────────────────────────────────────────────────────
+let _kwFallback   = false;
+let _apiLoading   = false;
 
-function getPersonalizedNews() {
+function getPersonalizedNewsLocal() {
   const kws = loadUserKeywords();
   const normalizedKws = kws.map(k => window.normalizeTag(k));
 
   const filtered = window.NEWS_DB.filter(n => {
-    // ① 칩(chip) 매칭 — CHIP_KW에 등록된 키워드
+    // ① 칩 매칭
     const chips = (n.chips || []).map(c => window.normalizeTag(c));
     if (normalizedKws.some(kw => chips.includes(kw))) return true;
-
-    // ② 텍스트 매칭 — 직접 입력 키워드를 제목·요약에서 검색
+    // ② 텍스트 매칭 (직접 입력 키워드)
     const text = (n.title + ' ' + (Array.isArray(n.summary) ? n.summary.join(' ') : '')).toLowerCase();
     return kws.some(kw => text.includes(kw.toLowerCase()));
   });
 
-  if (filtered.length > 0) {
-    _kwFallback = false;
-    return filtered.slice(0, 5);
-  }
-  // 키워드 일치 기사 없음 → 최신 뉴스 폴백 (빈 화면 방지)
+  if (filtered.length > 0) { _kwFallback = false; return filtered.slice(0, 5); }
   _kwFallback = true;
   return [...window.NEWS_DB].slice(0, 5);
 }
 
+// ──────────────────────────────────────────────────────────────
+// API 호출 — 사용자 키워드로 실시간 스크래핑
+// ──────────────────────────────────────────────────────────────
+async function fetchPersonalizedFromAPI() {
+  if (!NEWSHOT_API) return null;   // URL 미설정 시 스킵
+
+  const kws = loadUserKeywords();
+  const apiUrl = `${NEWSHOT_API}/news?keywords=${encodeURIComponent(kws.join(','))}`;
+
+  try {
+    const res = await fetch(apiUrl, {
+      signal: AbortSignal.timeout(8000),
+    });
+    if (!res.ok) return null;
+    const data = await res.json();
+    return Array.isArray(data.articles) && data.articles.length ? data.articles : null;
+  } catch (e) {
+    console.warn('[NEWSHOT] API 호출 실패, 로컬 데이터 사용:', e.message);
+    return null;
+  }
+}
+
 // ---------- localStorage ----------
 const INTEREST_KEY = 'newshot_interests';
-const LOG_KEY = 'newshot_activity_log';
+const LOG_KEY      = 'newshot_activity_log';
 
 function loadInterests() {
   try { return JSON.parse(localStorage.getItem(INTEREST_KEY)) || {}; }
   catch { return {}; }
 }
-function saveInterests(obj) {
-  localStorage.setItem(INTEREST_KEY, JSON.stringify(obj));
-}
+function saveInterests(obj) { localStorage.setItem(INTEREST_KEY, JSON.stringify(obj)); }
 function logActivity(entry) {
   const log = JSON.parse(localStorage.getItem(LOG_KEY) || '[]');
   log.push({ ...entry, at: new Date().toISOString() });
@@ -53,23 +77,26 @@ function logActivity(entry) {
 }
 function bumpKeywordScores(chips, delta) {
   const map = JSON.parse(localStorage.getItem('newshot_kw_scores') || '{}');
-  chips.forEach(c => {
-    const key = c.replace(/#/g, '').toLowerCase();
-    map[key] = (map[key] || 0) + delta;
-  });
+  chips.forEach(c => { const k = c.replace(/#/g, '').toLowerCase(); map[k] = (map[k] || 0) + delta; });
   localStorage.setItem('newshot_kw_scores', JSON.stringify(map));
 }
 
 let interests = loadInterests();
 
 // ---------- 뉴스 렌더 ----------
-let currentNewsData = getPersonalizedNews();
-let showingAll = false;
+let currentNewsData = [];
+let showingAll      = false;
 
 function renderNews() {
   const list = document.getElementById('newsList');
 
-  // 키워드 불일치 폴백 상태 — 카드 위에 작은 배너만 표시
+  // 로딩 중 스피너 (API 호출 중일 때만)
+  if (_apiLoading && !currentNewsData.length) {
+    list.innerHTML = `<div class="api-loading"><div class="api-spinner"></div><p>키워드 맞춤 뉴스 불러오는 중…</p></div>`;
+    return;
+  }
+
+  // 키워드 불일치 폴백 배너
   const banner = (!showingAll && _kwFallback)
     ? `<div class="kw-fallback-banner">
         <span>🔍 관심 키워드 최신 기사가 없어 전체 최신 뉴스를 표시합니다.</span>
@@ -81,14 +108,14 @@ function renderNews() {
     window.buildNewsCard(n, i, !!interests[n.id])
   ).join('');
 
-  // 카드 플립
   window.bindCardFlip(list);
 
-  // 좋아요 — 카드 재렌더 없이 버튼 상태만 업데이트
+  // 좋아요
   list.querySelectorAll('.like-btn').forEach(btn => {
     btn.addEventListener('click', e => {
       e.stopPropagation();
       const news = currentNewsData[+btn.dataset.idx];
+      if (!news) return;
       const wasLiked = !!interests[news.id];
       if (wasLiked) {
         delete interests[news.id];
@@ -112,7 +139,7 @@ function renderNews() {
     card.querySelector('.card-front').addEventListener('click', e => {
       if (e.target.closest('.like-btn') || e.target.closest('.chip-link')) return;
       const news = currentNewsData[+card.dataset.idx];
-      logActivity({ action: 'view', newsId: news.id, category: news.category, chips: news.chips });
+      if (news) logActivity({ action: 'view', newsId: news.id, category: news.category, chips: news.chips });
     });
   });
 }
@@ -123,7 +150,8 @@ function initViewAllBtn() {
   if (!btn) return;
   btn.addEventListener('click', () => {
     showingAll = !showingAll;
-    currentNewsData = showingAll ? [...window.NEWS_DB] : getPersonalizedNews();
+    currentNewsData = showingAll ? [...window.NEWS_DB] : getPersonalizedNewsLocal();
+    _kwFallback = false;
     btn.textContent = showingAll ? '접기' : '전체보기';
     renderNews();
   });
@@ -132,6 +160,7 @@ function initViewAllBtn() {
 // ---------- TOP3 키워드 ----------
 function renderKeywords() {
   const grid = document.getElementById('keywordGrid');
+  if (!grid) return;
   grid.innerHTML = window.KEYWORD_TOP.map(k => `
     <a class="keyword-card" href="keyword.html?tag=${encodeURIComponent(k.tag)}" data-tag="${k.tag}">
       <span class="rank">${k.rank}</span>
@@ -151,10 +180,15 @@ function renderKeywordSub() {
   const el = document.getElementById('kwSub');
   if (!el) return;
   const kws = loadUserKeywords();
+  // API 사용 중이면 "실시간" 뱃지 표시
+  const badge = NEWSHOT_API
+    ? `<span class="kw-realtime-badge">실시간</span>`
+    : '';
   el.innerHTML = `
     <div class="kw-sub-row">
       <div class="kw-sub-chips">
         ${kws.map(k => `<span class="kw-sub-chip">${k}</span>`).join('')}
+        ${badge}
       </div>
       <a href="settings.html" class="kw-edit-btn">
         <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
@@ -180,8 +214,30 @@ const closeSidebar = () => {
 document.getElementById('closeSidebar').addEventListener('click', closeSidebar);
 overlay.addEventListener('click', closeSidebar);
 
-// ---------- 초기화 ----------
-renderNews();
-renderKeywords();
-renderKeywordSub();
-initViewAllBtn();
+// ──────────────────────────────────────────────────────────────
+// 초기화 — 2단계 로딩
+// 1단계: data.js 로컬 데이터로 즉시 표시
+// 2단계: API 응답 도착 시 개인화 데이터로 교체
+// ──────────────────────────────────────────────────────────────
+(async function init() {
+  // 1단계: 로컬 데이터 즉시 표시
+  currentNewsData = getPersonalizedNewsLocal();
+  renderNews();
+  renderKeywords();
+  renderKeywordSub();
+  initViewAllBtn();
+
+  // 2단계: API 개인화 (NEWSHOT_API 설정된 경우만)
+  if (NEWSHOT_API && !showingAll) {
+    _apiLoading = true;
+    const apiArticles = await fetchPersonalizedFromAPI();
+    _apiLoading = false;
+
+    if (apiArticles && !showingAll) {
+      currentNewsData = apiArticles;
+      _kwFallback     = false;
+      renderNews();   // 개인화 데이터로 교체 렌더
+      renderKeywordSub(); // 실시간 뱃지 반영
+    }
+  }
+})();

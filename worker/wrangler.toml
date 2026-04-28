@@ -1,0 +1,6 @@
+name            = "newshot-api"
+main            = "index.js"
+compatibility_date = "2024-11-01"
+
+[vars]
+# 환경 변수 필요 시 여기에 추가
