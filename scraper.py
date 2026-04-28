@@ -28,12 +28,13 @@ from bs4 import BeautifulSoup
 # ────────────────────────────────────────────────────────────────
 # 설정
 # ────────────────────────────────────────────────────────────────
-BASE_DIR  = os.path.dirname(os.path.abspath(__file__))
-DATA_JS   = os.path.join(BASE_DIR, 'data.js')
-MAX_TOTAL = 15    # data.js 에 담을 최대 기사 수
-PER_FEED  = 4     # 피드당 최대 수집 건수
-TIMEOUT   = 10    # HTTP 타임아웃(초)
-HEADERS   = {'User-Agent': 'Mozilla/5.0 (compatible; NEWSHOT-Scraper/1.0)'}
+BASE_DIR       = os.path.dirname(os.path.abspath(__file__))
+DATA_JS        = os.path.join(BASE_DIR, 'data.js')
+MAX_TOTAL      = 42    # 최종 data.js 기사 수
+PER_FEED       = 4     # 일반 피드당 최대 수집 건수
+PER_KW_FEED    = 3     # Google 키워드 피드당 최대 수집 건수 (7피드×3=21건 키워드 보장)
+TIMEOUT        = 12    # HTTP 타임아웃(초)
+HEADERS        = {'User-Agent': 'Mozilla/5.0 (compatible; NEWSHOT-Scraper/1.0)'}
 
 # ────────────────────────────────────────────────────────────────
 # 필터 / 정제 규칙
@@ -52,38 +53,60 @@ _TITLE_SEP = re.compile(r'\s*[◆■●◇□]\s*.*$')
 _PHOTO_BYLINE = re.compile(r'^[가-힣\s·]+=\s*[가-힣]+ 기자.*$', re.MULTILINE)
 
 # ────────────────────────────────────────────────────────────────
-# 한국 언론사 RSS 피드 (검증된 URL만 — 외국 출처 제외)
+# RSS 피드 목록
 # ────────────────────────────────────────────────────────────────
+# google=True 피드: Google News 검색 RSS — 해당 키워드 기사를 항상 보장
+#   entry.source.title 로 실제 언론사명 추출, 제목 끝 " - 언론사명" 제거
 RSS_FEEDS = [
-    # ── IT / 테크 ──────────────────────────────────────────────
+    # ── 키워드 타겟 피드 (Google News 검색 RSS) ──────────────────
+    # 사용자 관심 키워드와 1:1 대응 — 해당 키워드 기사가 항상 수집됨
+    {'url': 'https://news.google.com/rss/search?q=AI+인공지능+반도체+엔비디아&hl=ko&gl=KR&ceid=KR:ko',
+     'source': 'Google-IT',   'cat': 'IT',   'google': True},
+    {'url': 'https://news.google.com/rss/search?q=삼성전자+SK하이닉스+HBM+파운드리&hl=ko&gl=KR&ceid=KR:ko',
+     'source': 'Google-반도체', 'cat': 'IT',  'google': True},
+    {'url': 'https://news.google.com/rss/search?q=스타트업+창업+유니콘+벤처&hl=ko&gl=KR&ceid=KR:ko',
+     'source': 'Google-스타트업','cat': 'IT', 'google': True},
+    {'url': 'https://news.google.com/rss/search?q=부동산+아파트+전세+집값+분양&hl=ko&gl=KR&ceid=KR:ko',
+     'source': 'Google-부동산', 'cat': '부동산','google': True},
+    {'url': 'https://news.google.com/rss/search?q=채용+취업+일자리+고용+구직&hl=ko&gl=KR&ceid=KR:ko',
+     'source': 'Google-채용',  'cat': '사회', 'google': True},
+    {'url': 'https://news.google.com/rss/search?q=금리+환율+코스피+주식+한국은행&hl=ko&gl=KR&ceid=KR:ko',
+     'source': 'Google-경제',  'cat': '경제', 'google': True},
+    {'url': 'https://news.google.com/rss/search?q=손흥민+KBO+야구+축구+스포츠&hl=ko&gl=KR&ceid=KR:ko',
+     'source': 'Google-스포츠', 'cat': '스포츠','google': True},
+    # ── IT / 테크 전문지 ─────────────────────────────────────────
     {'url': 'https://feeds.feedburner.com/zdkorea',
      'source': 'ZDNet Korea', 'cat': 'IT'},
-    {'url': 'https://www.etnews.com/rss/allArticle.xml',
-     'source': '전자신문',    'cat': 'IT'},
-    # ── 경제 ──────────────────────────────────────────────────
+    {'url': 'https://www.hankyung.com/feed/it',
+     'source': '한경IT',      'cat': 'IT'},
+    {'url': 'https://biz.chosun.com/arc/outboundfeeds/rss/category/it-science/?outputType=xml',
+     'source': '조선비즈IT',  'cat': 'IT'},
+    {'url': 'https://www.techm.kr/rss/allArticle.xml',
+     'source': '테크M',       'cat': 'IT'},
+    # ── 경제 ────────────────────────────────────────────────────
     {'url': 'https://www.hankyung.com/feed/all-news',
-     'source': '한국경제',   'cat': '경제'},
+     'source': '한국경제',    'cat': '경제'},
     {'url': 'https://rss.mt.co.kr/mt_news.xml',
-     'source': '머니투데이', 'cat': '경제'},
+     'source': '머니투데이',  'cat': '경제'},
     {'url': 'https://www.asiae.co.kr/rss/all.htm',
-     'source': '아시아경제', 'cat': '경제'},
+     'source': '아시아경제',  'cat': '경제'},
     {'url': 'https://www.yna.co.kr/rss/economy.xml',
      'source': '연합뉴스(경제)', 'cat': '경제'},
-    # ── 종합 ──────────────────────────────────────────────────
+    # ── 종합 ────────────────────────────────────────────────────
     {'url': 'https://www.yna.co.kr/rss/news.xml',
-     'source': '연합뉴스',   'cat': '사회'},
+     'source': '연합뉴스',    'cat': '사회'},
     {'url': 'https://rss.donga.com/total.xml',
-     'source': '동아일보',   'cat': '사회'},
+     'source': '동아일보',    'cat': '사회'},
     {'url': 'https://www.hani.co.kr/rss/',
-     'source': '한겨레',     'cat': '사회'},
+     'source': '한겨레',      'cat': '사회'},
     {'url': 'https://www.khan.co.kr/rss/rssdata/total_news.xml',
-     'source': '경향신문',   'cat': '사회'},
+     'source': '경향신문',    'cat': '사회'},
     {'url': 'https://newsis.com/RSS/sokbo.xml',
-     'source': '뉴시스',     'cat': '사회'},
+     'source': '뉴시스',      'cat': '사회'},
     {'url': 'https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml',
-     'source': '조선일보',   'cat': '사회'},
+     'source': '조선일보',    'cat': '사회'},
     {'url': 'https://www.segye.com/Articles/RSSList/segye_recent.xml',
-     'source': '세계일보',   'cat': '사회'},
+     'source': '세계일보',    'cat': '사회'},
 ]
 
 # ────────────────────────────────────────────────────────────────
@@ -265,80 +288,125 @@ def parse_dt(entry):
 # ────────────────────────────────────────────────────────────────
 # 스크래핑
 # ────────────────────────────────────────────────────────────────
-def scrape():
-    articles = []
+def _fetch_feed(fi):
+    """피드 하나를 수집해 기사 리스트 반환. 오류 시 빈 리스트."""
+    src        = fi['source']
+    is_google  = fi.get('google', False)
+    limit      = PER_KW_FEED if is_google else PER_FEED
+    results    = []
 
-    for fi in RSS_FEEDS:
-        src = fi['source']
-        try:
-            print(f'  · {src:<14}', end=' ')
-            r = requests.get(fi['url'], headers=HEADERS, timeout=TIMEOUT)
-            r.raise_for_status()
-            feed = feedparser.parse(r.content)
+    try:
+        print(f'  · {src:<16}', end=' ')
+        r = requests.get(fi['url'], headers=HEADERS, timeout=TIMEOUT)
+        r.raise_for_status()
+        feed = feedparser.parse(r.content)
 
-            count = 0
-            for entry in feed.entries:
-                if count >= PER_FEED:
-                    break
+        count = 0
+        for entry in feed.entries:
+            if count >= limit:
+                break
 
-                raw_title = clean_html(entry.get('title', ''))
+            raw_title = clean_html(entry.get('title', ''))
 
-                # ① [포토]/[영상]/[화보] 기사 제외 — 본문 없고 중복 원인
-                if any(raw_title.startswith(p) for p in SKIP_PREFIXES):
-                    continue
+            # Google News 제목 끝 " - 언론사명" 제거
+            if is_google:
+                raw_title = re.sub(r'\s*-\s*[^-]{2,30}$', '', raw_title).strip()
 
-                # ② 제목 내 ◆■ 구분자 제거
-                title = clean_title_text(raw_title)
+            # ① [포토]/[영상]/[화보] 기사 제외
+            if any(raw_title.startswith(p) for p in SKIP_PREFIXES):
+                continue
 
-                link  = entry.get('link', '') or entry.get('id', '')
-                # ③ description에서 타기사 티저(▲◆ 이후) 제거
-                raw_desc = clean_html(
-                    entry.get('summary', '') or entry.get('description', '')
-                )
-                desc = truncate_desc(raw_desc)
-                dt = parse_dt(entry)
+            # ② 제목 내 ◆■ 구분자 제거
+            title = clean_title_text(raw_title)
 
-                if not title or not link or len(title) < 8:
-                    continue
+            link = entry.get('link', '') or entry.get('id', '')
 
-                # 링크가 상대경로인 경우 피드 URL 도메인으로 보정
-                if link.startswith('/'):
-                    from urllib.parse import urlparse
-                    parsed = urlparse(fi['url'])
-                    link = f'{parsed.scheme}://{parsed.netloc}{link}'
+            # ③ description 정제
+            raw_desc = clean_html(
+                entry.get('summary', '') or entry.get('description', '')
+            )
+            desc = truncate_desc(raw_desc)
+            dt   = parse_dt(entry)
 
-                summary = to_sentences(desc) if desc else [title + '.']
+            if not title or not link or len(title) < 8:
+                continue
 
-                # ④ 분류·칩은 정제된 desc 기준으로만 판단
-                articles.append({
-                    'id':       make_id(link),
-                    'category': classify_cat(title, desc, fi['cat']),
-                    'source':   src,
-                    'time':     rel_time(dt),
-                    'url':      link,
-                    'title':    title,
-                    'summary':  summary,
-                    'chips':    get_chips(title, desc),
-                    '_dt':      dt or datetime.min.replace(tzinfo=timezone.utc),
-                })
-                count += 1
+            # 링크 상대경로 보정
+            if link.startswith('/'):
+                from urllib.parse import urlparse
+                parsed = urlparse(fi['url'])
+                link = f'{parsed.scheme}://{parsed.netloc}{link}'
 
-            print(f'{count}건 수집')
+            # Google News: 실제 언론사명 추출
+            actual_src = src
+            if is_google:
+                gsrc = getattr(getattr(entry, 'source', None), 'title', None)
+                if gsrc:
+                    actual_src = gsrc
 
-        except Exception as e:
-            print(f'오류 → {e}')
+            summary = to_sentences(desc) if desc else [title + '.']
 
-    # 최신순 정렬 후 정규화 키로 중복 제거
-    # ([포토] 제거, 특수문자 제거, 앞 15자) → 같은 사건 다른 제목 제거
-    articles.sort(key=lambda a: a['_dt'], reverse=True)
+            results.append({
+                'id':       make_id(link),
+                'category': classify_cat(title, desc, fi['cat']),
+                'source':   actual_src,
+                'time':     rel_time(dt),
+                'url':      link,
+                'title':    title,
+                'summary':  summary,
+                'chips':    get_chips(title, desc),
+                '_dt':      dt or datetime.min.replace(tzinfo=timezone.utc),
+                '_kw':      is_google,   # 키워드 피드 여부 (슬롯 보장용)
+            })
+            count += 1
+
+        print(f'{count}건 수집')
+    except Exception as e:
+        print(f'오류 → {e}')
+
+    return results
+
+
+def _dedup(articles):
+    """정규화 키 기준 중복 제거 (최신 기사 우선)"""
     seen, unique = set(), []
     for a in articles:
         key = dedup_key(a['title'])
         if key not in seen:
             seen.add(key)
             unique.append(a)
+    return unique
 
-    return unique[:MAX_TOTAL]
+
+def scrape():
+    kw_pool      = []   # Google 키워드 피드 기사 — 항상 포함
+    general_pool = []   # 일반 피드 기사 — 나머지 슬롯 채움
+
+    for fi in RSS_FEEDS:
+        batch = _fetch_feed(fi)
+        if fi.get('google'):
+            kw_pool.extend(batch)
+        else:
+            general_pool.extend(batch)
+
+    # 각 풀을 최신순 정렬 후 중복 제거
+    kw_pool.sort(key=lambda a: a['_dt'], reverse=True)
+    general_pool.sort(key=lambda a: a['_dt'], reverse=True)
+
+    kw_unique  = _dedup(kw_pool)
+    gen_unique = _dedup(general_pool)
+
+    # 키워드 기사 전량 보장 + 남은 슬롯을 일반 기사로 채움
+    # (두 풀 사이 중복도 제거)
+    kw_keys = {dedup_key(a['title']) for a in kw_unique}
+    gen_fill = [a for a in gen_unique if dedup_key(a['title']) not in kw_keys]
+
+    combined = kw_unique + gen_fill
+    # _kw 내부 필드 제거
+    for a in combined:
+        a.pop('_kw', None)
+
+    return combined[:MAX_TOTAL]
 
 
 # ────────────────────────────────────────────────────────────────
