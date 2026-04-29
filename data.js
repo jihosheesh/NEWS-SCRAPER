@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-04-29 21:52:09
+// 마지막 업데이트: 2026-04-29 22:45:47
 window.NEWS_DB = [
+  {
+    "id": "n28b16b97",
+    "category": "IT",
+    "source": "프라임경제",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZZk8wMDVyNS1LcGs2dmpDOWNxQXdHVVdYa1Vhc3RBSVU3NEs3ODI5bDdUdTZKd2NmWUJKU01PUE1aN1FXY0t2LUQyWDlzdkdoMndGRTRJbENsYmJoTGFJNXdpZTVNMjd3Vk5Edw?oc=5",
+    "title": "정부, SKT·LG AI 현장 방문…'K-엔비디아' 육성 속도",
+    "summary": [
+      "정부, SKT·LG AI 현장 방문…'K-엔비디아' 육성 속도 프라임경제."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nbc723bfb",
     "category": "IT",
     "source": "네이트",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwNGVTajNrV1BYcmI1eGhsQ0JYNEpCZThCSkc2WW1mSXpZaGE5S2RtaTl3ajd1NXFPOUFBM280UFFueG1fRF9lY1BRQTVlMzVKbEJr?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -19,7 +34,7 @@ window.NEWS_DB = [
     "id": "n61a2d2cd",
     "category": "IT",
     "source": "이데일리",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUIwcy1MNTZHY01ZY0dhN1I2MVpXM0xfVU13WGE5OEtPWjdFZEY0VmRzRE1XYU9vNGJFYlBfOFB1YkUybXA3aXVjX3JDUTJ4QnkzT1V1WDRyQVZtbGtjVkJ4RjgyaGFLX1FCMms1Uy0wMUVMTHdWeS0yTDRMOHpscw?oc=5",
     "title": "중기부, 1조8천억 벤처펀드 선정……차세대 유니콘 육성에 절반",
     "summary": [
@@ -33,7 +48,7 @@ window.NEWS_DB = [
     "id": "nf04df395",
     "category": "IT",
     "source": "디지털투데이",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3OUt3LV80b0ZJOHMxTm9LT2dKbzdHWklQSHJWQ0FjaXVnRWpfMko0SkV4X01yYVhZbG5ydkNPUWNqaWR2QWpGM0U1aUllMEtLYUhzOEdRT2ZucXFiNkdEYlA1ZUU1YVRpLWZEb0h5Vk9YSlE?oc=5",
     "title": "딥시크, 美 반도체 수출 통제 속 엔비디아 의존 줄이기",
     "summary": [
@@ -92,61 +107,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2f369ee6",
+    "id": "n6da43448",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnV0VZd09VM2QtOGNvQkJzMU5fcU5KWW1QTEdPdkpYeXRoWnltWlFUNmpBbjlPVnQ1UVpvMi14alhmTGx3NUJOQVpBaXI5UnZwUmluMG1BUW5EMWRRUEpZSkU2eDdEdnF4a3Y1SA?oc=5",
-    "title": "엔비디아가 택한 K반도체 천억 실탄 확보… 4월 넷째주 투자시장 '핫핫'",
+    "time": "14일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Nd1h1WWlBUlFwZ0Etb1UyWHZJX3FGTEN4bmpxcTlOeXZ4TGtWVl9iSHBDblNfYU9pMlhkaFltZUlQbUFtMll2OGNqNFFfSjZKaUd0Z05NSC03c3J6N0hkTkdfT3YwajJ4V1lPXw?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상",
     "summary": [
-      "엔비디아가 택한 K반도체 천억 실탄 확보… 4월 넷째주 투자시장 '핫핫' 유니콘팩토리."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "ndb209651",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2ZPYUdqZzlDeTZ1MUlocGIwazNHcThRT2VaQm8zR1FvTFNnYVcyM1U0bTRYWEh4cUlTUzNyTFh6X25sUE5zTHZNRmt5Z2phWV9QakVvazhfRzVyT2ppNHItV1lIdUJwU2w2d0U5N0NJMllrdUxUZjNHcHUtaU9DaldIcGxyaFHSAZsBQVVfeXFMUDlmS2hsN3lfTlZTdGo5aWJoWXJicXltWGhqeElZVHVHUmctUUVJMnFOODZoZGhPeFhMTW5GMnJGU2dRUXEwNV9yYkZ6V2dzbDhyb05oZ01oZVprVC04QzZsYjNsN1UxS0VyWnRiOEV2UmtMcXF4eDNpTllobjdoUFJRY2tKOTM5dm1KU3dzTm9xWmNnVkRreC1QdlE?oc=5",
-    "title": "[단독] 창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈",
-    "summary": [
-      "[단독] 창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈 Chosunbiz."
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n91027e92",
-    "category": "부동산",
-    "source": "일간스포츠",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dks1OERTbjB0VjgwQ3kzdmFQbDVpdEM4OTZsZU5LSmFOT2RXYnFqOE1SNnFXQU1SWlNxMVZtajA2V2lmUnloYjFxRmhQSGp3R2lFVWhURXozYUU?oc=5",
-    "title": "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목",
-    "summary": [
-      "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목 일간스포츠."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "28일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -175,6 +146,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "69일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -312,319 +298,339 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8d37e27c",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/04/30/2026043006384411614",
-    "title": "\"조카 폭행한 애들\"...찾아가 사과 영상 찍고, 신상 공개한 삼촌",
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "208일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
     "summary": [
-      "충북 청주 벚꽃축제에서 중학생이 또래 4명에게 집단 폭행당한 사건 관련 피해자 삼촌이 가해 학생 신상을 SNS(소셜미디어)에 공개했다가 피소됐다.",
-      "지난 29일 뉴스1·뉴시스 보도에 따르면 청주흥덕경찰서는 가해 학생 어머니로부터 아동복지법 위반·명예훼손·협박 혐의로 30대 남성 A씨에 대한 고소장을 접수해 수사하고 있다.",
-      "피해 학생 삼촌인 A씨는 중학생 조카 B양이 지난 5일 청주 무심천 벚꽃축제 현장에서 중고생 4명에게 집단 폭행을 당하자 가해."
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf831b876",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/society/2026/04/30/2026043007185523936",
+    "title": "\"주차장 2칸 차지 포르쉐, 벌써 2년째\"…아파트 입주민 분통",
+    "summary": [
+      "지하 주차장이 없어 주차난을 겪는 아파트에서 한 고급 스포츠카가 2년째 주차장 2칸을 차지한 채 주차하고 있다는 사연이 전해졌다.",
+      "지난 29일 한 온라인 커뮤니티에는 '2년째 저주 중인 포르쉐'라는 제목 글이 올라왔다.",
+      "작성자 A씨는 \"2년째 한결같이 주차라인 2개씩 물고 주차하는, 자기 차만 귀한 줄 아는 부도덕한 차주\"라며 사진을 공개했다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n60a20fa1",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://www.asiae.co.kr/article/2026043007435785138",
+    "title": "식약처, 큐로셀 '림카토주' 허가…국산 1호 CAR-T 치료제",
+    "summary": [
+      "'국산 1호' 맞춤형 유전자치료제 CAR-T(키메라 항원 수용체 T세포) 치료제가 나왔다.",
+      "식품의약품안전처는 국내에서 개발한 CAR-T 치료제인 큐로셀의 '림카토주'(안발캅타젠오토류셀)를 허가했다고 30일 밝혔다.",
+      "CAR-T 치료제는 환자의 면역세포를 유전적으로 조작해, 암세포를 정확히 찾아 공격하도록 만든 맞춤형 유전자치료제다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfe2d4db1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003612266",
-    "title": "갈리바프 \"이란, 단결이 유일한 길\"…미·이스라엘 압박 경고",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 모하마드 바게르 갈리바프 이란 국회의장이 이란 국민들에게 단결을 촉구하며 \"이것이 적의 새로운 음모에 맞설 수 있는 유일한 길\"이라고 강조했다.",
-      "갈리바프 의장은 지난 29일(현지 시간) 이란 국민에게 보낸 음성 메시지에서 \"지금까지 모든 음모를 막아낸 힘은 단결\"이라며 \"현재는 적의 새로운 음모와 분열 조장 행위가 더욱 심각해진 만큼 단결의 중요성이 더 커졌다\"고 말했다.",
-      "그는 미국과 이스라엘이 이란에 가한 전쟁."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nff9390d1",
+    "id": "n10ae4427",
     "category": "사회",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/04/30/WSQ3PVONLFHTXIFDW7QWMWMWJQ/",
-    "title": "‘86 47′ 온라인 상품 넘쳐나는데...트럼프의 황당한 ‘정적 죽이기’",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/entertainments/movie/2026/04/30/G5SDKZRWMEZTCYJXGI4DIZLCMI/",
+    "title": "'47세' 탕웨이, 10년 만에 둘째 임신...♥김태용 감독 57세 늦둥이 본다 [Oh!쎈 이슈]",
     "summary": [
-      "‘86 47′ 온라인 상품 넘쳐나는데...트럼프의 황당한 ‘정적 죽이기’."
+      "[OSEN=연휘선 기자] \"집에 망아지가 더 많이 생길 것 같아요\".",
+      "중국 배우 탕웨이가 47세에 기적적으로 둘째를 임신해 축하를 받고 있다.",
+      "지난 29일 탕웨이 측 관계자는 OSEN에 \"탕웨이 배우가 현재 둘째를 임신 중이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndc64fa25",
+    "id": "n8fbfd684",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/market_trend/2026/04/30/MQ2TKYLCHA2GKMDFHA3DAYZTGY/",
+    "title": "우리서막 ‘우리막걸리’·‘우리 과하주‘, 2026 대한민국주류대상 대상",
+    "summary": [
+      "전통주 양조장 우리서막은 ’2026 대한민국주류대상’에서 자사 제품 ‘우리막걸리’와 ‘우리 과하주’가 각각 대상 수상작에 이름을 올리면서 2관왕을 기록했다고 30일 밝혔다.",
+      "우리막걸리는 지난해에 이어 2년 연속 대상을 받았다.",
+      "올해로 13회째를 맞은 대한민국주류대상은 대한민국 대표 주류 품평회다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0aa4c6dd",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/04/30/MIZWIOBUGRRDCZBYGIYGIYZVGU/",
+    "title": "\"커리어 망치겠다 협박에 살해\" 14세 소녀 시신훼손까지..가수 d4vd 범행 폭로 [Oh!llywood]",
+    "summary": [
+      "[OSEN=최이정 기자] 전 세계적인 인기를 끌고 있던 싱어송라이터 d4vd(데이비드 앤서니 버크, 21)가 14세 소녀를 살해하고 시신을 잔혹하게 훼손한 혐의로 기소되어 큰 충격을 안기고 있는 가운데 범행 과정이 공개돼 충격을 안긴다.현지 시간으로 29일, 피플 보도에 따르면 검찰은 d4vd를 1급 살인, 14세 미만 아동에 대한 지속적인 성폭행, 그리고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf37fdf0a",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://www.asiae.co.kr/article/2026043007405781938",
+    "title": "수원시, 개별 공시지가 3.07% 상승…5월29일까지 이의신청",
+    "summary": [
+      "경기 수원시의 개별 공시지가가 전년보다 3.07% 상승했다.",
+      "수원시는 올해 1월1일 기준 관내 10만7000필지의 개별공시지가를 30일 결정·공시했다.",
+      "개별 공시지가가 가장 높은 곳은 팔달구 매산로1가 61-1번지 수원역 11번 출구 앞 상가건물로 1㎡ 기준 1875만원이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n615d4932",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://www.asiae.co.kr/article/2026043007385374001",
+    "title": "넥슨 \"규제 소급 적용\" vs 공정위 \"소비자 기망\"…7월 22일 선고",
+    "summary": [
+      "넥슨과 공정거래위원회가 게임 아이템(큐브) 확률 논란에 따른 116억원 규모 과징금을 두고 치열한 법정 공방을 벌였다.",
+      "넥슨은 과징금이 소급 규제인 만큼 부당하다고 주장했고, 공정위는 소비자 기망행위에 대한 타당한 처분이라고 맞섰다.",
+      "넥슨은 29일 서울고등법원에서 열린 공정위 제재 처분 취소 청구 행정소송에서 \"행위 시점을 기준으로 위법성을 따져야 하는데 당시에는 규제 대상이 아니었다\"며 \"해당 처분은 개정 게임."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n54d9ccea",
     "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003612280",
-    "title": "[속보] 푸틴- 트럼프 , 백악관 총격사건과 이란· 우크라 상황 논의",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003612334",
+    "title": "[속보]멕시코 주지사, 전·현직 관리 10명 마약범죄 등으로 미국서 기소",
     "summary": [
-      "[서울=뉴시스] 차미례 기자 = 블라디미르 푸틴 러시아 대통령과 도널드 트럼프 미국 대통령이 29일(현지시간) 전화로 백악관 만찬 총격사건과 이란· 우크라이나 전쟁 상황에 관해서 논의했다고 크렘린궁이 발표했다.",
+      "[뉴욕= AP/ 뉴시스] 차미례 기자 = 멕시코의 시날로아주 주지사와 다른 9명의 전현직 관리들이 미국에 대한 마약 대량 밀수와 무기 관련법 위반 혐의 등으로 미국에서 기소된 사실이 뉴욕 법원에서 29일(현지시간) 밝혀졌다.",
       "◎공감언론 뉴시스 cmr@newsis.com."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd54f3fd4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260430017200052",
-    "title": "화물연대-BGF로지스, 하루 늦춘 조인식 오전 11시 합의",
-    "summary": [
-      "(진주=연합뉴스) 이정훈 기자 = 민주노총 공공운수노조 화물연대본부(이하 화물연대)와 BGF로지스가 세부 사항 조율 지체로 잠정 합의 하루를 넘..."
-    ],
-    "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n90744a1e",
-    "category": "사회",
-    "source": "조선일보",
+    "id": "nd5fa0df2",
+    "category": "경제",
+    "source": "머니투데이",
     "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/04/30/MRRDMMTDGRSDOMBSGJRDKZDEGM/",
-    "title": "'치매'진단에 유언 남겼다..'88세' 전원주 \"충격 커, 짐 될까 두려웠다\" ('퍼펙트라이프')",
+    "url": "https://www.mt.co.kr/entertainment/2026/04/30/2026043007255592676",
+    "title": "김정태 \"간암으로 간 30% 절제…재발 가능성 높아\"",
     "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 배우 전원주가 치매 초기 진단을 받았던 사실을 고백하며 가족을 향한 진심 어린 메시지를 전했다.29일 방송된 TV조선 '퍼펙트 라이프'에는 전원주가 출연해 일상을 공개했다.이날 그는 “건강하게 살려면 몸을 많이 움직여야 한다.",
-      "나는 100세까지 살 것”이라며 꾸준한 운동으로 활기찬 모습을 보."
+      "배우 김정태가 간암 수술을 받았다고 밝혔다.",
+      "지난 29일 방송된 TV조선 '아빠하고 나하고'에서 김정태는 대학 병원을 찾았다.",
+      "김정태는 피검사를 위해 익숙하게 채혈을 받았다."
     ],
     "chips": [
+      "#교육",
       "#의료"
     ]
   },
   {
-    "id": "nac6e9587",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/04/30/2026043006351638524",
-    "title": "변요한, ♥티파니 결혼 후 첫 생일…상의 탈의에 '깜짝'",
-    "summary": [
-      "배우 변요한이 결혼 후 첫 생일을 축하해준 지인들에게 감사 인사를 했다.",
-      "변요한은 29일 자신의 SNS(소셜미디어) 계정에 \"생일 축하해주셔서 감사드린다\"며 \"좋은 영화 작품 잘 만드는 사람 되겠다.",
-      "가족, 팬분들, 친구들 사랑한다\"는 글과 함께 여러 장의 사진을 공개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0f743374",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260430016900071",
-    "title": "트럼프 \"핵합의 이뤄질 때까지 대이란 해상봉쇄 계속\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 이란이 핵프로그램에 대한 미국의 우려를 해소하는 합의에 동의할 때까지 대이란 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf85d5e6f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260430/133839543/1",
-    "title": "내일 63년 만에 노동절…“‘노동 존중’으로 법 재구성해야”",
-    "summary": [
-      "올해부터 5월 1일이 법정공휴일로 지정됐다.",
-      "명칭도 근로자의 날에서 노동절로 63년 만에 다시 바뀌었다.하지만 노동관계법은 여전히 ‘근로’를 중심으로 짜여져 있어, 법 체계 전반의 재구성이 필요하다는 지적이 나온다.국회 입법조사처는 30일 이 같은 내용이 담긴 ‘첫 번째 노동절이 던지는 질문: 진정한 ’노동 존중‘을 바탕으로 한 입법 필요성’ 보고서를 발간했다.우리나라는 해방 이후 5월 1일을 노동절로 기념했지만, 지난 1963년 ‘근로자의 날."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n37131609",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260430/133839540/1",
-    "title": "홍준표 “비참한 말로 尹부부, 참 딱하다”",
-    "summary": [
-      "홍준표 전 대구시장이 29일 항소심에서 각각 징역 7년, 징역 4년을 선고받은 윤석열 전 대통령 부부를 향해 “참 딱하다”고 했다.홍 전 시장은 자신의 소셜네트워크서비스(SNS)를 통해 “비참한 말로를 보내는 윤통 부부를 보니 참 딱하다”고 했다.",
-      "이어 “이번 (대통령) 경선 전에 윤석열 전 대통령 부부가 또 다시 한덕수를 내세워 경선 개입 하는 것을 보고 직접 두 번이나 경고한 적이 있었다”고 했다.그러면서 “만약 이재명 후보가 되면 ‘두 분."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6e89aae2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003612263",
-    "title": "미국에 나포된 이란 화물선 투스카호 선원 6 명 석방돼",
-    "summary": [
-      "[서울=뉴시스] 차미례 기자 = 미국에 나포된 이란 화물선 투스카호의 선원 28명 가운데 6명이 석방되어 이란으로 귀국했다고 이란 준관영 타즈님 통신이 29일(현지시간) 보도했다.",
-      "남은 선원들을 석방 시키기 위한 노력도 진행 중이며, 이들은 모두 미국 정부의 \"테러 범죄\"의 피해자라고 통신은 밝혔다.",
-      "이란 선적의 이 컨테이너선은 지난 4월 19일 이란 남동 해안에 가까운 오만만의 이란 항구 차바하르에서 미군이 승선해 강제로 나포했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9acfe4e1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260430016600087",
-    "title": "미 법무부, 멕시코 시날로아 주지사 기소…\"마약 카르텔 유착\"",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국 법무부는 29일(현지시간) 루벤 로차 모야 멕시코 시날로아 주지사를 포함한 전·현직 멕시코 관리 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6932da46",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260428162300518",
-    "title": "[팩트체크] 왜 '근로' 아닌 '노동'일까…63년 만의 '노동절' 의미는",
-    "summary": [
-      "(서울=연합뉴스) 김은경 기자 = 5월 1일 우리나라는 63년 만에 법정공휴일로 지정된 첫 노동절을 맞이한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0957e4e",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://www.asiae.co.kr/article/2026042814154004236",
-    "title": "[과학칼럼] 포성보다 빠른 연산, 알고리즘이 재설계한 현대전의 문법",
-    "summary": [
-      "전쟁의 문법이 바뀌고 있다.",
-      "포성이 아니라 알고리즘이 승패를 가르는 시대다.",
-      "인간의 눈에는 보이지 않는 적외선이 표적을 집요하게 추적하고, 재밍(Jamming)과 스푸핑(Spoofing)이 뒤엉킨 전자기장의 바다 위에서는 보이지 않는 좌표들이 충돌한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n18dc2a53",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/sports/2026/04/30/2026043005571913971",
-    "title": "'PK로 장군·멍군' AT마드리드-아스널, UCL 4강 '1-1 무승부'",
-    "summary": [
-      "유럽축구연맹(UEFA) 챔피언스리그(UCL) 결승 진출을 놓고 다투는 아틀레티코(AT) 마드리드(스페인)와 아스널(잉글랜드)이 첫 맞대결에서 승부를 가리지 못했다.",
-      "AT 마드리드와 아스널은 30일(한국시간) 스페인 마드리드의 리야드 에어 메트로폴리타노에서 열린 2025-2026 UCL 4강 1차전에서 1-1 무승부를 거뒀다.",
-      "두 팀은 내달 6일 아스널 홈인 영국 런던의 에미레이츠 스타디움에서 열리는 2차전 결과를 통해 결승 진출팀을 가린다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ef7d0c5",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "26분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/04/30/2026043006171189902",
-    "title": "\"다 맞춰주다 쓰러져\" 아이유, 연애 스타일 폭로...이종석 간접 언급?",
-    "summary": [
-      "배우 유인나가 절친한 가수 겸 배우 아이유(본명 이지은)의 연애 스타일을 언급하며 걱정했다.",
-      "지난 29일 유튜브 채널 '유인라디오'에는 '완성 커플 학창시절 최초 공개 아이유 변우석 유인라디오 S3 EP.02'라는 제목의 영상이 공개됐다.",
-      "영상에는 아이유와 변우석이 게스트로 출연해 유인나와 이야기를 나누는 모습이 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd2f4be74",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260430/133839529/2",
-    "title": "단순 시비 출동 경찰에 “다리에 벌레 기어다녀”…마약 딱 걸렸다",
-    "summary": [
-      "단순 시비 신고를 받고 출동한 경찰에게 “다리에 벌레가 자꾸 기어다녀요”라고 말한 50대 남성이 마약 투약 혐의로 경찰에 붙잡혔다.경찰청은 지난달 15일 대구 북구의 한 거리에서 마약류 관리에 관한 법률 위반 혐의로 A 씨를 붙잡았다고 29일 밝혔다.경찰은 당시 단순 시비 신고를 받고 현장으로 출동했다.",
-      "택시 기사가 “택시에서 손님이 안 내린다”고 경찰에 신고한 것이다.경찰은 현장에서 다리 통증을 호소하는 A 씨를 위해 119 호송을 준비했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n02fb7d5c",
+    "id": "n12f2a863",
     "category": "경제",
     "source": "한국경제",
-    "time": "35분 전",
-    "url": "https://www.hankyung.com/article/2026043068867",
-    "title": "[속보] 화물연대-BGF로지스, 잠정연기 조인식 오전 11시 예정",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026043069877",
+    "title": "캐나다 경찰, FIFA 회장 에스코트 요청 거부…\"국가원수만 가능\"",
     "summary": [
-      "[속보] 화물연대-BGF로지스, 잠정연기 조인식 오전 11시 예정."
+      "캐나다 경찰, FIFA 회장 에스코트 요청 거부…\"국가원수만 가능\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n52510adf",
+    "id": "n9e7d6730",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://www.asiae.co.kr/article/2026043007360746064",
+    "title": "경기교육청, 정기인사 앞두고 고충 등 직원상담 진행",
+    "summary": [
+      "경기도교육청이 올해 상반기 정기인사를 앞두고 고충 등을 듣는 상담을 진행한다.",
+      "도교육청은 지방공무원의 인사 고충을 해소하고 공정한 인사행정을 구현하기 위해 5월6일부터 15일까지 '2026년 상반기 정기 인사상담'을 운영한다고 30일 밝혔다.",
+      "도교육청은 이를 위해 대면상담 장소를 남부·북부청사로 한정하지 않고 고양, 광명, 구리남양주, 성남 등 권역별 거점 상담소를 추가 운영한다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0c069e07",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260430022600002",
+    "title": "한은도 5월 '매파적 동결' 가능성…중동 전쟁 여파 주시",
+    "summary": [
+      "(서울=연합뉴스) 한지훈 임지우 이도흔 기자 = 미국 연방준비제도(Fed·연준)가 기준금리를 세 차례 연속 동결한 가운데 국내 통화정책도 셈법이..."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nf9820771",
     "category": "사회",
     "source": "동아일보",
-    "time": "36분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260430/133839532/1",
-    "title": "압구정 건물주 박정수 “남편 위해 지었는데 술만 마셔”",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260430/133839555/2",
+    "title": "김숙 “너무 충격”…‘제주 230평 집’ 공사 끝나자 문화재 규제 풀려",
     "summary": [
-      "배우 박정수가 남편 정을영 PD를 위해 서울 강남구 압구정동에 건물을 지어줬다고 했다.박정수는 29일 자신의 유튜브 채널에서 자신이 정 PD를 위해 지은 건물을 소개했다.박정수는 “남편 일하라고 2011년에 지어준 건데 이걸 짓자마자 일을 안 하더라.",
-      "술만 마신다”고 말했다.그러면서 “나도 대본 읽고 책도 보고 차분하게 마음을 가라앉히고 싶을 때 여기 온다”며 “남편이 책을 가득 쌓아두고 보기에 다 치워버렸다”고 했다.박정수는 정신적으로 쉴 수."
+      "방송인 김숙(51)의 제주 성읍마을 가옥이 ‘국가유산 규제’에서 빠졌다.",
+      "그간 김숙은 규제를 받는 상황에서의 집 리모델링 과정을 예능 프로그램을 통해 공개해 왔다.",
+      "김숙은 자신의 집이 국가유산 규제에서 빠진 데 대해 “충격”이라고 했다.국가유산청은 29일 ‘국가민속문화유산 제주 성읍마을 지정 구역 및 허용 기준 조정 고시’를 통해 제주 서귀포시 표선면 성읍리 일원의 지정 구역을 기존 대비 약 40% 축소한다고 밝혔다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n5fbd92c1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003612268",
+    "title": "美대법 \"인종만 고려 선거구 무효\"…트럼프 중간선거에 날개",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 연방대법원이 29일(현지 시간) 흑인 유권자 대표성을 보장하기 위한 루이지애나주 선거구 조정이 무효라는 판단을 내놨다.",
+      "소수인종을 위한 선거구 편성에 힘을 실어온 투표권법을 제한적으로 해석하는 판결인데, 11월 중간선거를 앞두고 공화당 의석 증가로 연결될 수 있어 주목된다.",
+      "미 대법원은 이날 흑인 인구 비율을 보장하기 위한 루이지애나주 2024년 선거구 조정이 위법하다고 판결했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7f93646c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003612335",
+    "title": "부산시, 서울서 '부산 핀테크허브 파트너스 데이' 개최",
+    "summary": [
+      "[부산=뉴시스] 하경민 기자 = 부산시가 지역 핀테크허브 입주기업의 성장을 지원하기 위해 각 산업 분야를 대표하는 선도기업과 협력 네트워크를 구축하고 전략적 파트너십을 강화하는 등 실질적인 협업 기회 모색에 나선다.",
+      "부산시는 30일 오전 11시 서울 강남구 웨스틴서울 파르나스에서 '부산 핀테크허브 파트너스 데이'를 개최한다고 밝혔다.",
+      "이날 행사에는 부산시를 비롯해 금융·투자·기업·통신 등 분야별 선도기업 파트너 9명과 부산 핀테크허브 입주기업인."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na777d876",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260429163600017",
-    "title": "구글 첫 해외 AI 캠퍼스, 서울 강남에 연내 문 연다",
-    "summary": [
-      "(서울=연합뉴스) 한상용 권하영 기자 = 구글 딥마인드가 서울 강남구에 인공지능(AI) 협력 거점인 '구글 AI 캠퍼스'를 연내 개소하기로 하면..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nd19ed589",
+    "id": "n831d31da",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "42분 전",
-    "url": "https://www.asiae.co.kr/article/2026042915502664817",
-    "title": "[단독]\"재무제표 넘어 미래 가치 봤다\"…기은, 혁신기업 72곳에 1700억 수혈",
+    "source": "연합뉴스(경제)",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260430009051072",
+    "title": "'8대 4' 美연준 '워시 체제' 앞두고 내부분열 표출(종합)",
     "summary": [
-      "IBK기업은행이 지난 3년간 성장성은 높지만 경영 실적이 미흡한 72개 기업에 약 1700억원을 지원한 것으로 나타났다.",
-      "이는 재무제표 중심의 기존 대출 심사만으로는 기업의 성장 잠재력을 판단하는 데 한계가 있다는 판단하에, 기술력과 성장성을 중심으로 기업을 평가하기 위해 출범시킨 '미래성장성 심의회'를 통해 거둔 성과다.",
-      "기업은행은 또한 올해 1조원을 모험자본으로 공급해 미래 유망 기업의 초기 발굴에 속도를 낼 계획."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)가 29일(현지시간) 통화정책 결정 회의체인 연방공개시장위원회(FO..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "ne9bc710d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260430022500004",
+    "title": "구로구 오류동역 광장서 5월 8∼9일 '주막거리 객사전' 축제",
+    "summary": [
+      "(서울=연합뉴스) 정준영 기자 = 서울 구로구(구청장 장인홍)는 5월 8∼9일 오류동역 광장에서 '제4회 주막거리 객사전' 축제를 연다고 30일..."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n53656642",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260430020300011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 07:30."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50cb7727",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260429/133835714/2",
+    "title": "비타민 ‘이것’ 먹었더니 달랐다…유방암 치료 반응 1.8배 차이",
+    "summary": [
+      "비타민 D 보충이 유방암 항암 치료 반응을 높일 수 있다는 연구 결과가 나왔다.",
+      "2000IU 복용군에서 암세포 소실률이 1.8배 높았으며, 결핍 상태 개선이 주요 요인으로 분석됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc85005a2",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "17분 전",
+    "url": "https://www.hankyung.com/article/2026043069626",
+    "title": "고유가 우려·빅테크 실적 낙관 속 혼조 마감 [뉴욕증시 브리핑]",
+    "summary": [
+      "고유가 우려·빅테크 실적 낙관 속 혼조 마감 [뉴욕증시 브리핑]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n79abaa6e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260430/133839601/2",
+    "title": "[속보]트럼프 “독일 주둔 미군 감축 검토”…이란전 비협조 뒤끝?",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 독일에 주둔하는 미군을 감축하는 방안을 검토 중이라고 밝혔다.트럼프 대통령은 29일(현지 시간) 트루스소셜을 통해 “미국은 독일 주둔 미군 감축 가능성을 검토하고 있다”며 “조만간 이에 대한 결정을 내릴 예정”이라고 했다.",
+      "그러면서 “이 사안에 관심을 가져주셔서 감사하다”고 했다.미국의 주독미군 감축 검토는 독일이 중동 전쟁에서 적극적으로 협조하지 않은 데 따른 것일 수 있다는 분석이 나왔다.미국 월스트리트저널(WS."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -634,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "정치",
+    "tag": "정책",
     "mentions": "1550건",
     "trend": "+135%"
   }
