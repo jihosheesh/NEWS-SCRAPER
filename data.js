@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-04-30 12:08:27
+// 마지막 업데이트: 2026-04-30 14:59:05
 window.NEWS_DB = [
+  {
+    "id": "nbf280c57",
+    "category": "IT",
+    "source": "시사저널e",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWWWF4am9aLTV6cjBDLUd3WFlmSVZadWtPN2JSaHlSRTgxcWRKUXNhTDBhdkozSUVlRFFUVkNSalBUc3g1Wl96eVZwSDNRUjRjelpxbnFiWlBwUS1Xdi1xamd3SlFHYnpldFgwRmhTYlFmQdIBdkFVX3lxTE5FTVRNQ0FCMEM2REFBMFlaa2tJd2JVRmFIXzBjZVVkd19JTGxXcTdDV21OTEQxQVI3OFcxU3ZWMllNS3BoWE1pMjJnUV9WQUhnNW1UbUV1TTJ5N0F0aXprOEhnTDJYbnBfUHZveXZNek9Nc0I4SHc?oc=5",
+    "title": "삼성전자 범용 D램 상승세 속 HBM 캐파 더 키운다",
+    "summary": [
+      "삼성전자 범용 D램 상승세 속 HBM 캐파 더 키운다 시사저널e."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
   {
     "id": "nc9bcee6e",
     "category": "스포츠",
     "source": "한스경제",
-    "time": "8시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKel8xZkQ0bVhKUlprckVDVXRlQTlIN0wxTXNybFI3UEhCQzV1VFN2d05KSnduRndUd2pVV0Y2RUNZeDN2ajZ3Y1NSVjZTbDcwUVprblZOZVNKUUhtaXIxYUY0QTZvWGE1SlYwTEc5ONIBb0FVX3lxTFBKel8xZkQ0bVhKUlprckVDVXRlQTlIN0wxTXNybFI3UEhCQzV1VFN2d05KSnduRndUd2pVV0Y2RUNZeDN2ajZ3Y1NSVjZTbDcwUVprblZOZVNKUUhtaXIxYUY0QTZvWGE1SlYwTEc5OA?oc=5",
     "title": "국내야구, 4월 4주 차에도 스포츠 관심도 정상… 점유율 55%",
     "summary": [
@@ -19,7 +34,7 @@ window.NEWS_DB = [
     "id": "n7f9297c0",
     "category": "경제",
     "source": "월요신문",
-    "time": "15시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sWXgtRzd6ZmJOTmQ4T213c0F3d0FhM1FHckJvaDFFZWloWDM1MEh1Ukc0SEduV1ZRc3I4ek5nOUhoR09mN1dZX2tDcnQtamNvRjhiODBnMTJ1RnF4WWxsX0UtSkQ5Qk5vTlE?oc=5",
     "title": "한국은행 순이익 최고치·국민연금 운용수익 증가...高환율의 양면",
     "summary": [
@@ -34,7 +49,7 @@ window.NEWS_DB = [
     "id": "n093a8ff1",
     "category": "IT",
     "source": "세계일보",
-    "time": "21시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1razUzRGJhWkl5dHc3azZVRU5qR0xhb05GTFdRUHJ4YXFGLW9DaHdwcDl0UzBUSlpvRUd2M0lxODhYNl9kU2pGXzFuZFhlWjgwT2NjRlg0NDnSAVRBVV95cUxQRzZqaXpjeUhFTEZFRVdRWHpDeEc2THJwZ1k2QzhPMTVzbnFteW0wM19JeUtwdTFKZUttV1RGUUlwNUtrYnVIbXJjeGRudXJfek5NS3I?oc=5",
     "title": "[사이언스프리즘] ‘어쩌면’을 위한 투자",
     "summary": [
@@ -221,21 +236,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n759c2467",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "76일 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
-    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
-    "summary": [
-      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "nb04cef68",
     "category": "사회",
     "source": "경기일보",
@@ -377,200 +377,74 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n22a09a29",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003614119",
-    "title": "국제 유가, 큰 하락세로 돌아…브렌트유 배럴당 113달러",
-    "summary": [
-      "[서울=뉴시스] 김재영 기자 = 4년 래 최고치까지 급등했던 국제 기준 브렌트유 가격이 30일 낮 유럽시장에서 급락에 가까운 하락세를 나타내고 있다.",
-      "6월 인도분 브렌트유 선물가는 4월 29일 자정(한국시간) 런던 시장서 6.9%가 상승한 배럴당 118.03달러로 마감했으며 이어진 아시아 시장서 상승세가 이어져 장중에 126.31달러를 기록했다.",
-      "이는 러시아의 우크라이나 침입 직후인 2022년 3월 초 이후 최고 수준이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b46582e",
+    "id": "ncfe78af0",
     "category": "사회",
     "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003614121",
-    "title": "김 총리, 카타르 통상장관 접견…투자·에너지 협력 강화 논의",
+    "url": "https://www.newsis.com/view/NISX20260430_0003614190",
+    "title": "이란 대통령 \"미국이 이란 선박 해적 행위 중단하면 외교 재개 의사\"",
     "summary": [
-      "[서울=뉴시스]조재완 기자 = 김민석 국무총리는 30일 아흐마드 알 사예드 카타르 통상 담당 국무장관과 투자 및 에너지, 첨단산업 분야 협력 강화 방안을 논의했다.",
-      "국무총리실에 따르면 김 총리는 이날 오후 정부서울청사에서 알 사예드 장관을 접견했다.",
-      "김 총리는 중동 전쟁으로 피해를 입은 카타르에 위로를 전하고, 어려운 상황에서도 한국에 액화천연가스(LNG) 공급을 약속한 데 대해 감사의 뜻을 표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n76281060",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/sports/2026/04/30/2026043019142812326",
-    "title": "'사상 최초' KCC 기적, 정규리그 6위 챔피언결정전 진출... 5위 소노와 우승컵 경쟁 '대격돌'",
-    "summary": [
-      "정규리그 6위 부산KCC의 기적이 챔피언결정전까지 닿았다.",
-      "미디어데이 당시 \"6위 팀의 우승이라는 전무후무한 기록에 도전하겠다\"고 선언했던 이상민 감독의 약속이 현실에 한 걸음 더 다가섰다.",
-      "KCC는 30일 부산사직실내체육관에서 열린 2025~2026 LG전자 프로농구 4강 플레이오프(PO·5전 3선승제) 4차전 안양 정관장과의 홈경기에서 84-67로 승리했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nde528d50",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260430200151004",
-    "title": "'국감 위증 혐의' 류희림 전 방심위원장 불구속 기소(종합)",
-    "summary": [
-      "(서울=연합뉴스) 김채린 기자 = 류희림 전 방송통신심의위원장이 국회에서 위증한 혐의로 재판에 넘겨졌다."
+      "[서울=뉴시스] 이재우 기자 = 마수드 페제시키안 이란 대통령은 30일(현지시간) \"미국이 최대주의적 요구를 포기하고 페르시아만 내 이란 선박에 대한 '해상 해적 행위'를 중단한다면 이란은 외교를 재개할 준비가 돼 있다\"고 밝혔다.",
+      "이란 관영 IRNA통신에 따르면 페제시키안 대통령은 이날 사나에 다카이치 일본 총리와 전화 통화에서 이같이 밝혔다.",
+      "페제시키안 대통령은 \"미국과 이스라엘 정권이 최근 침략 전쟁 중 최고지도자와 고위 정치·군사 관리들."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nd5c28ab0",
+    "id": "n3746b9a2",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260430211800063",
-    "title": "백화점서 점포 직원이 다른 직원에 흉기…\"전 연인관계\" 주장(종합2보)",
-    "summary": [
-      "(대전=연합뉴스) 김소연 이주형 강수환 기자 = 노동절과 어린이날로 이어지는 연휴를 하루 앞둔 저녁 시간대 대전 번화가 백화점에서 입점업체 남성..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n008fb2f5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260430210400001",
-    "title": "金총리, 카타르 국무장관 면담…\"LNG 공급 약속 높이 평가\"",
-    "summary": [
-      "(서울=연합뉴스) 황윤기 기자 = 김민석 국무총리는 30일 아흐메드 빈 모하메드 알 사예드 카타르 통상 담당 국무장관을 만나 \"카타르가 어려운 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n53658780",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260430212400007",
-    "title": "[프로농구 PO 4차전 전적] KCC 84-67 정관장",
-    "summary": [
-      "[프로농구 PO 4차전 전적] KCC 84-67 정관장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n96a85bf6",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003614126",
-    "title": "한화솔루션, 유증 관련 금감원 2차 정정 요구에 \"무겁게 받아들여\" 입장 표명",
-    "summary": [
-      "[서울=뉴시스]유희석 기자 = 한화솔루션이 30일 금융감독원의 두 번째 정정 요구에 대해 \"무겁게 받아들인다\"며 증권신고서 보완에 나서겠다는 입장을 밝혔다.",
-      "한화솔루션은 \"그동안 유상증자와 관련해 주주와 언론에서 제기된 지적을 겸허히 받아들이고 있다\"며 \"정정 요구 사항을 충족하는 신고서를 성실히 준비하겠다\"고 했다.",
-      "이번 사태는 지난달 26일 한화솔루션이 2조4000억원 규모 유상증자를 전격 발표하면서 시작됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc9cd05e0",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://www.asiae.co.kr/article/2026043020324984077",
-    "title": "\"결혼 앞두고 상대 집안 세무정보까지 조회\"…국세청 직원 무더기 적발",
-    "summary": [
-      "결혼을 앞두고 예비 배우자 측 가족과 친인척의 세무 정보를 들여다본 국세청 직원들이 무더기로 징계 대상에 올랐다.",
-      "개인적 부탁이나 호기심으로 내부 시스템을 무단 이용한 사실이 감사에서 드러난 것이다.",
-      "30일 감사원에 따르면 지난 27일 공개한 국세청 정기감사 결과 2023~2024년 사이 국세청 직원 389명이 사적으로 주변인의 세무 정보를 조회하고도 국세청의 정보보안 감사를 받지 않은 것으로 나타났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74ce6f5a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/stock/2026/04/30/2026043020233945088",
-    "title": "금감원, '유증 축소' 한화솔루션에 \"다시 고쳐라\"…2차 정정요구",
-    "summary": [
-      "금융감독원이 한화솔루션의 유상증자에 대해 2차 정정요구했다.",
-      "30일 금감원 전자공시시스템에 따르면 금감원은 한화솔루션이 지난 17일 제출한 유상증자 증권신고서에 대해 재차 정정신고서 제출을 요구했다.",
-      "지난 9일 정정요구에 이어 두번째다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne24640ef",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/society/2026/04/30/2026043020442841450",
-    "title": "집행유예 중 또 음주운전…20대 구속 '도로서 잠들다 덜미'",
-    "summary": [
-      "음주운전 사고로 면허가 취소된 뒤 집행유예 기간 중이던 20대 남성이 또다시 음주운전을 하다 적발돼 구속됐다.",
-      "30일 서울영등포경찰서에 따르면 A씨는 도로교통법 위반(음주운전·무면허운전) 혐의로 전날 구속됐다.",
-      "A씨는 지난 2월 14일 서울 마포구 홍대입구역 인근에서 술을 마신 뒤 영등포구 마포대교 남단까지 약 4㎞를 운전한 혐의를 받는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7b4929d3",
-    "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/04/30/MNRDQNRTGBSWKMBUMUZDOMDDHE/",
-    "title": "\"뚱뚱한 XX\" 이정후에 욕설한 다저스 포수, 또 논란…대체 무슨 말 했길래",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/opinion/chosun_column/2026/04/30/2M6NSGGZENDRXAJQBU2HP6PWI4/",
+    "title": "[朝鮮칼럼] 노동시간 규제, 발상의 전환이 필요하다",
     "summary": [
-      "[스포츠조선 박상경 기자] LA 다저스 포수 달튼 러싱이 또 구설수에 올랐다.",
-      "미국 야후스포츠는 30일(한국시각) '러싱이 상대팀을 계속 자극하고 있다'고 전했다.",
-      "매체는 지난 26일 시카고 컵스전에서 러싱이 3회말 니코 호너 타석에서 폭투 때 1루 주자였던 컵스 포수 미겔 아마야가 2루까지 진루한 이후 러싱의 발언에 주목했다."
+      "[朝鮮칼럼] 노동시간 규제, 발상의 전환이 필요하다."
     ],
     "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
-    "id": "n36317542",
+    "id": "na32dbcaa",
     "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260430/133844560/1",
-    "title": "인천∼칠곡 소방헬기로 이송…29주 고위험 산모 무사히 출산",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260430219300082",
+    "title": "트럼프 '주독 미군 감축' 언급에…독일 \"대비하고 있어\"",
     "summary": [
-      "고위험 임신부가 인천에서 대구까지 300km에 가까운 거리를 소방헬기로 긴급 이송된 끝에 체중 840g의 미숙아를 무사히 출산했다.",
-      "30일 칠곡경북대학교병원에 따르면 이날 오전 인천 지역 한 병원에서 진료를 받던 임신 29주차 여성이 소방헬기를 타고 긴급 이송돼 첫 아기를 낳았다.여성의 진통은 전날 시작됐다.",
-      "임신 주수가 이른 탓에 임신부와 태아 모두 위험해질 수 있어 고위험 임신부·신생아 통합치료가 가능한 상급 의료기관으로 신속한 전원이 필요."
+      "(베를린=연합뉴스) 김계연 특파원 = 독일 정부는 도널드 트럼프 미국 대통령이 예고한 독일 주둔 미군 감축에 대해 \"미국의 결정을 기다리고 있다..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nccc6465e",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026043000121",
+    "title": "대만 1분기 13.7% 성장…AI 붐에 39년 만에 최고",
+    "summary": [
+      "대만 1분기 13.7% 성장…AI 붐에 39년 만에 최고."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n4f186111",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/thebio/2026/04/30/2026043023120340469",
+    "title": "\"문신사법 안착 위해 인재 150명 선발\" 대한문신사중앙회, 인재풀 가동",
+    "summary": [
+      "비의료인의 문신 시술을 허용하는 '문신사법'이 내년 10월29일 시행되는 가운데, 이 법의 성공적인 안착을 위해 '인재' 150명이 모였다.",
+      "이들은 대학교수, 의료 전문가, 문신사 등 다양한 직역에서 선발됐다.",
+      "사단법인 대한문신사중앙회(회장 임보란)는 30일 서울 중랑구 한국열린사이버대학교 대강당에서 '인재풀위원회 위촉식 및 정기총회'를 개최하고, 문신사법의 안정적 정착을 위한 현장 중심의 협력 기반 구축에 나섰다고 밝혔다."
     ],
     "chips": [
       "#교육",
@@ -578,63 +452,180 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6ac18021",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/04/30/GI3TCN3DMVTGENJQMFRDKNBWMM/",
-    "title": "민주당 “전남·광주 경선 ‘2308건 ARS 먹통’…진행과정 문제 없어”",
+    "id": "n743d897d",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "10분 전",
+    "url": "https://www.hankyung.com/article/2026043000111",
+    "title": "美 1분기 '성장률 2%' 회복…물가상승 우려는 여전",
     "summary": [
-      "더불어민주당이 전남·광주특별시장 결선투표 과정에서 김영록 지사가 제기한 ‘2308건 ARS 먹통’ 의혹에 대해 문제가 없다고 결론지었다.",
-      "민주당은 일부 혼선은 있었으나 즉각 보완 조치를 취했고 양 후보 측과도 합의를 거쳤다고 밝혔다.",
-      "민주당은 30일 당무위원회 직후 브리핑을 통해 전남·광주특별시장 경선 과정에서 제기된 ARS 투표 오류 논란에 선을 그었다."
+      "美 1분기 '성장률 2%' 회복…물가상승 우려는 여전."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n78463273",
+    "id": "n4ce39aaf",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/04/30/GUZWIOJXME2GCMRZGI2WGODEME/",
-    "title": "'5회까지 퍼펙트→6회 6실점' 류현진, 최지훈 기습번트부터 와르르 무너졌다…ERA 3.60 [오!쎈 대전]",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/04/30/MNQWEOLEMQYDGODCGI3DKOLCGQ/",
+    "title": "4경기 연속 끝내기패 대굴욕 위기...LG엔 최후의 보루가 있었다, 1008일만 '감격 세이브'",
     "summary": [
-      "[OSEN=대전, 조은혜 기자] 프로야구 한화 이글스 류현진이 5회까지 퍼펙트 피칭을 펼치다 6회에만 6점을 내주고 무너졌다.류현진은 30일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 SSG 랜더스와의 홈경기에서 선발투수로 등판해 5⅔이닝 6피안타 2사사구 4탈삼진 6실점(4자책점)을 기록했다.",
-      "5회까지 투구수가 67구였으나 6회에만 3."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n83313455",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/opinion/manmulsang/2026/04/30/G5HE5G53RNANJKXEX4OLHKWNXI/",
-    "title": "[만물상] 삼성이 매일 만드는 ‘기적’",
-    "summary": [
-      "[만물상] 삼성이 매일 만드는 ‘기적’."
+      "[스포츠조선 김용 기자] 쓰러져가던 LG, 함덕주가 살렸다! LG 트윈스가 천신만고 끝에 KT 위즈 상대 감격의 시즌 첫 승을 따냈다.",
+      "LG는 30일 수원케이티위즈파크에서 열린 KT와의 주중 3연전 마지막 경기에서 6대5로 신승, 3연전 스윕패 위기에서 탈출했다.",
+      "또 올시즌 KT 상대 4연패 끝 첫 승도 기록했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n792bac88",
+    "id": "nf6696154",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260430208251085",
-    "title": "英 기준금리 3.75%로 동결…\"에너지 전망 매우 불확실\"(종합)",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260430220000009",
+    "title": "뉴욕증시, 기업 실적·중동 긴장 주시하며 혼조 출발",
     "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국 중앙은행 잉글랜드은행(BOE)이 30일(현지시간) 통화정책위원회(MPC)에서 기준금리를 연 3.75%로..."
+      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 기업들의 실적발표와 중동 상황을 주시하며 혼조세로 출발했다."
     ],
     "chips": [
-      "#금리",
-      "#정책"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc8bd05e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260430/133845631/1",
+    "title": "노벨위원회 “올해 노벨평화상 후보로 개인 208명·단체 79개 추천”",
+    "summary": [
+      "올해 노벨평화상 후보로 개인 208명과 단체 79개 등 287 후보가 추천됐다.노벨평화상을 주관하는 노르웨이 노벨위원회는 30일(현지시간) 홈페이지에 게재한 성명에서 “올해 노벨 평화상 후보로 모두 287 후보가 추천됐다”며 “이 중 개인은 208명, 단체는 79곳”이라고 밝혔다.올해 노벨 평화상 수상자는 10월9일 발표될 예정이다.",
+      "시상식은 12월10일 노르웨이 오슬로에서 열린다.노벨평화상 후보 추천서는 매년 1월31일까지 노르웨이 노벨위원회."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n29bf32ef",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/04/30/GZSTOYTGMRRTOMRTMNRTEOBTMY/",
+    "title": "20기 영식, 25기 영자에 돌직구 \"담배·문신·인플루언서, 해당 되냐\"('나는솔로')[종합]",
+    "summary": [
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘나는 SOLO, 그 후 사랑은 계속된다’ 20기 영식이 25기 영자와 1:1 데이트에서 진지한 질문을 쏟아내 영자를 어리둥절하게 만들었다.30일 방영한 ENA, SBS Plus 예능 ‘나는 SOLO, 그 후 사랑은 계속된다’(이하 ‘나솔사계’)에서는 25기 영자를 둘러싼 슈퍼데이트."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc532eab",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "16분 전",
+    "url": "https://www.hankyung.com/article/2026043000031",
+    "title": "촉법소년 연령 '만 14세 미만' 유지할 듯",
+    "summary": [
+      "촉법소년 연령 '만 14세 미만' 유지할 듯."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n62663d45",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260430219200079",
+    "title": "미국산 군사장비 6천500t 이스라엘 도착…\"군수물자 확보 강화\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란의 종전 협상이 교착상태에 빠지고 미국이 협상 결렬에 대비해 이란군 타격 계획을 검토한다는 보도..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb4c7d310",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260430219100083",
+    "title": "美中무역대표 화상통화…트럼프-시진핑 회담 의제 조율한 듯",
+    "summary": [
+      "(베이징=연합뉴스) 정성조 특파원 = 미중 무역 협상 고위급 대표들이 내달로 예정된 양국 정상회담을 앞두고 화상 회담을 열었다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n83491567",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260430/133845617/1",
+    "title": "서울창조경제혁신센터, 동아닷컴+아이티동아의 ‘스타트업 글로벌 홍보 증진 프로그램’ 합류",
+    "summary": [
+      "국내 우수 스타트업의 해외 홍보 지원을 위한 미디어와 공공기관 간의 업무 협약이 체결됐다.",
+      "서울창조경제혁신센터(대표 이영근, 이하 서울센터)와 동아닷컴(대표 신석호), 아이티동아(대표 강덕원)가 30일 서울 동아일보 충정로 사옥에서 ‘스타트업 글로벌 홍보 증진’을 위한 협력 협약(MOU)을 체결했다.3사가 이번 협력을 통해 추구하는 핵심 목표는 기술력과 성장 가능성을 갖춘 국내 스타트업 소식을 영문 기사로 제작해 동아닷컴을 통해 게재하고, 이를."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nec8524f6",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/2026043000287",
+    "title": "자판기 빨대 핥고 다시 꽂았다가…프랑스 10대, 싱가포르서 기소",
+    "summary": [
+      "자판기 빨대 핥고 다시 꽂았다가…프랑스 10대, 싱가포르서 기소."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee8f855a",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260430/133845072/2",
+    "title": "[사설]서울 아파트 임대차 중 월세가 절반… 걱정되는 과속 부작용",
+    "summary": [
+      "올해 1∼3월 서울에서 이뤄진 아파트 임대차 계약 중 월세의 비중이 50.8%로 절반을 넘어섰다.",
+      "관련 통계가 집계된 2014년 이후 가장 높을 뿐 아니라, 월세 비중이 전세를 추월한 것도 처음이라고 한다.",
+      "청년과 서민층 수요가 많은 다세대·연립 등 비(非)아파트는 월세 비중이 79.4%로 더 높다."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "ne9bcfad1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260430/133845076/2",
+    "title": "[사설]서부지법 난동자들 첫 유죄 확정… 배후도 철저히 가려내야",
+    "summary": [
+      "윤석열 전 대통령에 대한 구속영장 발부에 반발해 서울서부지법에서 난동을 벌인 가담자 18명에 대해 대법원이 30일 유죄를 확정했다.",
+      "이들은 지난해 2월 처음 기소된 63명 중 1, 2심 판결에 불복해 상고했던 피고인들이다.",
+      "14명에겐 징역 1∼4년의 실형이, 나머지 4명에겐 징역형 집행유예와 벌금형이 선고됐다."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -644,18 +635,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   }
