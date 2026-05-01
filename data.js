@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-01 15:45:29
+// 마지막 업데이트: 2026-05-01 16:44:27
 window.NEWS_DB = [
   {
     "id": "n51748558",
     "category": "IT",
     "source": "christiandaily.co.kr",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kOTBub3U3Yk5Oa0lHWGFzVWs2UzRUR1ZoeUF0UDZPNVBRakdqRDFZcVBFa3phZVM5YnpTLWhNUTBWVGlzajFkRWk2WGQ3UnFCNGh6cjMxTdIBXEFVX3lxTE92dFE4M0tDZXR6VkZVbW9NQklaa3NXdGJYUm43ZEVPV0UxTFphazNQdG1lMEtqNUhzdWZqOE5tX0xpQ1VuZC1VSUFRVGZfU0YxdVZ2NzcwVnRzb09o?oc=5",
     "title": "반도체 주가 다시 들썩…HBM·AI 수요가 끌어올린 새 사이클",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nf7044eb0",
     "category": "IT",
     "source": "테크M",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03OVUxWF9iT2JGZGhWSU9iS25COHpoZGZqeXZFcWdXTGc5amlIQ2Q5c04zYlh3ZGp4UEZEZ0pnQUNiQXRMczI3am40Y1hyeUdUT01Kd3BHUEpJM0x1MVRHbzhpM0x2UdIBakFVX3lxTE5iRHh2Qmo0RnFFY29NajlHMWN5bkVydDM4UW1sdW80TUpwaGRwVWlSZHVjZXY4V0pJU1BHMDFidE9SVE01RWM2MEUwcWVzekxVRW56WVFwTUhQanFRbjh5ZFdiM2VZUUdVakE?oc=5",
     "title": "삼성전자·SK하이닉스, 1분기 실적 '범용 D램'에서 갈렸다...왜?",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n6da60682",
     "category": "IT",
     "source": "미디어펜",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MbkhhZXZMT0NCdVNxWks4WG5qd0R0U3Z5cWZ1YUdkM1ZEUDlQazRKY0NJYWR5RVc4N3dGUlJvTU9GWGE0X000QWhDT21OVWdGTVVhTdIBWEFVX3lxTFB4ejlNNWdlRFFNSlpucVBMWXh2Qm0xSXFIZExmZy1aR3hFbVpsdmdFeEhPS3Q0WnFhS3JIaXA5ZHExZEV6em9sdlZqNE5xNEltN2djeGFyYUg?oc=5",
     "title": "[美증시 특징주] 퀄컴 폭등에 반도체 장비주도 급등...엔비디아 AI거품론에 급락",
     "summary": [
@@ -163,21 +163,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5515141b",
-    "category": "사회",
-    "source": "매일일보",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pT0VEQTR0MVR5YzBTeTBXTEtmUzczX2hiYlQ2cEQ2aXM4Mk1Ha2Vvb1VxYm5oRExPRG12WkI0UmhoY21hdGQxczEzdVdLOVI3WXYtYmZ5UzZpZEg0SXFaaFlFZU0?oc=5",
-    "title": "고용노동부 진주지청, 일자리 수요데이 구직자·기업 연결로 지역 고용 희망",
-    "summary": [
-      "고용노동부 진주지청, 일자리 수요데이 구직자·기업 연결로 지역 고용 희망 매일일보."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n6da43448",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -217,6 +202,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "nef414906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "72일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
+    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "summary": [
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -371,100 +372,230 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n266bbf32",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/02/3ULRSZ3IV5FRRL7E3KZK3I5QGQ/",
-    "title": "LG 영양만점 대포 2방, NC 꺾고 2연승",
-    "summary": [
-      "LG 영양만점 대포 2방, NC 꺾고 2연승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79129c63",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/05/02/ZKYFRS7AMNGTHOQMB6HC63QPLE/",
-    "title": "10년 만에 돌아온 여전사",
-    "summary": [
-      "10년 만에 돌아온 여전사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfbc16e8a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/05/02/4GPWCVRN4ZFTFLUOEH2XYVNN2A/",
-    "title": "[오늘의 경기] 2026년 5월 2일",
-    "summary": [
-      "[오늘의 경기] 2026년 5월 2일."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf49219a3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/05/02/FFHBM4QOYBC2TCCSDD2RQWMCCE/",
-    "title": "무명의 초보 감독이냐, 스타 출신 베테랑 감독이냐",
-    "summary": [
-      "무명의 초보 감독이냐, 스타 출신 베테랑 감독이냐."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b670af3",
+    "id": "n8f1af38d",
     "category": "사회",
     "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260502/133850186/2",
+    "title": "부활한 노동절, “공정 보상” 목소리 커진 노동계",
+    "summary": [
+      "63년 만에 ‘노동절’ 명칭을 되찾은 노동계가 1일 전국에서 대규모 집회를 열고 정부와 경영계를 향해 “노동 기본권을 보장하라”며 압박 수위를 높였다.",
+      "임금·단체협상이 결렬된 삼성바이오로직스 노동조합은 창사 이래 처음으로 이날부터 5일간 전면 파업에 돌입했고, SK하이닉스의 물류 담당 하청업체는 원청업체와의 성과급 차별 중단을 요구하고 나섰다.",
+      "‘노란봉투법’(개정 노동조합법) 시행과 함께 노동계 목소리가 커지면서 여름 총파업인 ‘하투(夏鬪)’가."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nfd92af2f",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260502/133849682/2",
+    "title": "7개국 135명 가세한 ‘동아 소프트테니스’… 亞게임 뺨친다",
+    "summary": [
+      "제104회 동아일보기 전국소프트테니스대회가 ‘아시안게임 규모’로 열린다.",
+      "소프트테니스는 올림픽 정식 종목이 아니라 아시안게임이 가장 규모가 큰 대회다.",
+      "1일 시작된 올해 동아일보기는 2일 경북 문경국제소프트테니스장에서 개회식이 열리며 9일 막을 내린다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a69194f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260502/133850184/2",
+    "title": "유류할증료 최고 단계로… 뉴욕 왕복 52만원 올라",
+    "summary": [
+      "1일부터 발권하는 항공권에 사상 최고 수준의 유류할증료가 붙는다.",
+      "4월보다 2배 가까이 높은 할증료가 붙으면서 미주 노선엔 편도당 최대 56만 원이 넘는 할증료를 지불해야 하는 것이다.",
+      "다만 4월 말 유가 상승세가 소폭 꺾여 6월부터 부과되는 유류할증료는 소폭 인하될 것이란 전망도 나온다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n380b231e",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260502/133849691/2",
+    "title": "FIFA 회장 “이란, 월드컵 참가해 美서 경기 치를것”",
+    "summary": [
+      "잔니 인판티노 국제축구연맹(FIFA) 회장(56)이 이란이 6월 열리는 2026 북중미 월드컵에 참가할 것이라고 밝혔다.",
+      "인판티노 회장은 1일 캐나다 밴쿠버에서 열린 FIFA 총회에서 “이란은 당연히 이번 월드컵에 참가한다.",
+      "경기도 (예정대로) 미국에서 치를 것”이라는 말로 연설을 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndcc9d6fb",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/02/2026050201363279800",
+    "title": "트럼프 \"EU 자동차 관세, 다음주 25%로 인상\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 1일(현지시간) 유럽연합(EU)에서 생산한 승용차와 트럭에 대한 관세를 25%로 인상하겠다고 1일(현지시간) 밝혔다.",
+      "트럼프 대통령은 이날 소셜미디어 트루스소셜에 올린 글에서 \"EU가 완전히 합의한 무역합의를 준수하지 않고 있다는 사실을 근거로 다음주부터 미국으로 들어오는 승용차와 트럭에 대해 EU에 부과하는 관세를 인상할 것이라고 발표하게 돼 기쁘다\"며 \"관세율은 25%로 오를 것\"이라고 밝혔다."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7b258284",
+    "category": "경제",
+    "source": "뉴시스",
     "time": "7분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260502/133850313/1",
-    "title": "“죽어도 안 빠지는 2kg?”…김사랑이 밝힌 ‘오후 5시 이후 금식’의 위력",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614676",
+    "title": "[속보]트럼프 \"EU, 무역합의 미준수…자동차 관세 25%로 인상\"",
     "summary": [
-      "배우 김사랑이 20년째 변함없는 몸매를 유지하는 비결로 오후 다섯 시 이후 금식을 제안했다.28일 김사랑은 자신의 유튜브 채널을 통해 “죽어도 안 빠지는 살이 있는데 이번 기회에 2kg을 싹 빼보겠다”며 실전 관리 계획을 공개했다.영상 속 김사랑은 제작진과 다이어트에 대해 대화를 나눴다.",
-      "제작진의 “PD랑 같이 2kg 빼기”라는 제안에 김사랑은, “지금 3kg로 될까? 4kg는 빼야 하는 거 아니냐”고 웃으며 농담을 던졌다."
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nbbdb1bb4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260501063452108",
+    "title": "이란, 파키스탄 통해 새 종전안…\"美도발 멈춰야 외교\"(종합2보)",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 이란이 미국과의 전쟁을 종식하기 위한 새 협상안을 중재국 파키스탄에 전달했다고 이란 국영 IRNA 통신이..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3feed102",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260502/133850310/1",
-    "title": "이나영, 원빈과 꾸린 ‘꽉 찬 냉장고’ 처음 공개했다",
+    "id": "n870b0b3f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/05/02/GZQWCMBRMZRWGOBTGQYDCZBTGY/",
+    "title": "\"이런 건 배운 적 없었다\" 이정후 깜짝 고백, 천재 본능 일깨운 '한국식 예절' 문화…류현진 옛 동료는 바닥에 엎드렸다",
     "summary": [
-      "배우 이나영이 ‘신비주의’를 잠시 내려놓고 소탈한 일상을 공유했다.1일 공개된 유튜브 채널 ‘일일칠’의 ‘필릭스의 스페셜 냉터뷰’ 티저 영상에는 배우 이나영이 게스트로 출연했다.MC인 그룹 ‘스트레이 키즈’ 멤버 필릭스와 만난 이나영은 ‘닮은꼴 남매설’을 인정하며 함께 안무를 소화하는 등 소탈한 매력을 선보였다.특히 이날 방송에서는 이나영의 냉장고가 최초로 공개됐다.식재료가 가득 채워진 모습에 필릭스가 “혼자 사는 건 아니니까”라며 남편 원빈을."
+      "[OSEN=이상학 객원기자] 샌프란시스코 자이언츠 덕아웃에선 요즘 한국식 인사가 유행이다.",
+      "베테랑 투수 로비 레이(34)는 이정후(27)의 통역 한동희 씨와 서로 바닥에 무릎을 꿇고 엎드려 맞절까지 한다.",
+      "미국 ‘캘리포니아 포스트’는 지난달 30일(이하 한국시간) ‘한국 문화에서 고개 숙여 인사하는 것은 단순한 인사 이상의 의미를 지닌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n65fb92b7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260502/133850307/1",
-    "title": "[오늘 날씨]연휴 이튿날 전국 흐림 …큰 일교차 유의",
+    "id": "n9d0485f0",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614675",
+    "title": "4월 美 ISM 제조업 PMI 52.7 '보합'…\"중동전쟁 납기·비용에 영향\"",
     "summary": [
-      "5월 징검다리 연휴의 이튿날이자 토요일인 2일은 전국이 대체로 흐리고 내륙은 일교차가 15도 안팎으로 커지겠다.",
-      "기상청은 1일 예보에서 “전날 늦은 밤부터 오전 10시께 서해안에는 가시거리 200m 미만의 짙은 안개가 예상된다”며 “수도권과 충남 내륙, 전라 내륙, 경남 서부 내륙에도 가시거리 1㎞ 미만 안개가 끼는 곳이 있겠다”고 밝혔다.특히 영종대교·인천대교·서해대교 등 해안 교량과 강·호수 인접 도로에서는 안개가 더 짙어질 수 있어 차량."
+      "[서울=뉴시스]이재준 기자 = 미국 체감경기를 반영하는 2026년 4월 제조업 구매관리자 지수(PMI)는 52.7로 전월과 보합세를 기록했다고 마켓워치와 RTT 뉴스, 인베스팅 닷컴이 1일(현지시간) 보도했다.",
+      "매체는 미국 공급자관리협회(ISM)가 이날 발표한 관련 통계를 인용해 4월 제조업 PMI가 전월과 같았지만 거의 4년 만에 고수준으로 경기확대와 경기축소를 가름하는 50을 4개월 연속 넘었다고 전했다.",
+      "시장에선 4월 제조업 PM를 53."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n952163a1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502000700071",
+    "title": "트럼프 \"EU산 승용차·트럭 관세 내주 25%로 인상\" 전격 발표",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 1일(현지시간) 다음 주부터 유럽연합(EU)산 승용차와 트럭에 대한 관세를 2..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ncf0fcf6b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "43분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003613433",
+    "title": "\"몸 붓고 거품 소변\"…혹시 신장 이상신호?[몸의경고]",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 평소보다 물을 많이 마셨는데도 소변 색이 진해지거나 거품이 섞여 나오고, 아침마다 얼굴이 붓는다면 더위로 인한 탈수나 일시적인 피로 때문이라고 생각하기 쉽다.",
+      "하지만 이러한 증상이 사라지지 않고 지속·반복된다면 신장 건강의 이상신호일 수 있다.",
+      "신장은 기능이 상당 부분 저하될 때 까지 뚜렷한 자각 증상이 나타나지 않아 '침묵의 장기'로 불린다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n7002b7c7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "44분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003613975",
+    "title": "예부산시, 남녀고용평등 모범 기업·기관 공모",
+    "summary": [
+      "[부산=뉴시스]원동화 기자 = 부산시는 '2026년 남녀고용평등 모범기업(기관)'을 공모한다고 2일 밝혔다.",
+      "신청 자격은 업종·규모와 관계없이 부산 지역에 입주한 지 2년 이상, 직원 수가 20인 이상, 여성인력이 30% 이상인 기업(기관)이다.",
+      "평가 항목은 남녀 고용 차별 개선, 직업능력개발, 직장 내 성희롱 예방 및 근로자 고충 처리, 모부성 보호제도 및 일 가정 양립 실적, 경영층의 관심과 의지 등이다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "ne10e36be",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "48분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/05/02/RPSQXSHGNZCOBCEZNDIK6CDYDU/",
+    "title": "특검에 李 공소취소권, 지방선거 최대 이슈로",
+    "summary": [
+      "특검에 李 공소취소권, 지방선거 최대 이슈로."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3a35c69d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "52분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/05/02/IRAFCBBPMVE6TE56VCIPUFQULU/",
+    "title": "재판중인 사건을 특검이 가져와 재수사… “공소취소 위한 치외법권”",
+    "summary": [
+      "재판중인 사건을 특검이 가져와 재수사… “공소취소 위한 치외법권”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n29146e24",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "55분 전",
+    "url": "https://www.asiae.co.kr/article/2026050200200111283",
+    "title": "\"참전용사 헌신 잊지 않겠습니다\"…에티오피아에 '블레싱 헬스센터' 개소",
+    "summary": [
+      "에티오피아 참전용사 마을에 어르신 돌봄과 지역 아동 지원을 위한 복합 공간이 새롭게 문을 열었다.",
+      "최근 열린 '블레싱 헬스센터·데이케어 센터' 개소식에는 참전용사와 가족, 한·에티오피아 주요 인사들이 참석해 의미를 더했다.",
+      "이번 사업은 민간 후원과 국제 협력을 통해 노후화된 시설을 리모델링하고 보다 안전하고 쾌적한 공간으로 재탄생시킨 것이 특징이다."
     ],
     "chips": [
       "#뉴스"
@@ -474,7 +605,7 @@ window.NEWS_DB = [
     "id": "n298b1cd9",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260502000300072",
     "title": "유가급등에도 못웃는다…美석유메이저 중동생산 타격에 실적급감",
     "summary": [
@@ -485,26 +616,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n92f34ce3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003614670",
-    "title": "4월 영국 제조업 PMI 53.7·2.7P ↑…\"중동전쟁에 공급차질 심화\"",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 영국 경기동향을 나타내는 2026년 4월 제조업 구매관리자 지수(PMI 개정치)는 53.7을 기록했다.",
-      "BBC와 RTT 뉴스, 마켓워치, 인베스팅 닷컴은 1일(현지시간) S&P 글로벌/CIPS 발표를 인용, 4월 제조업 PMI가 전월 51.0에서 2.7 포인트 크게 상승했다고 전했다.",
-      "제조업 PMI 개정치는 속보치 53.6에서 0.1 포인트 상향 조정했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n206dcfda",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/02/2026050122202413915",
     "title": "손흥민 또 빠진다, 감독도 예고한 로테이션... 빡빡한 일정에 또 리그 일정 '패스'",
     "summary": [
@@ -515,111 +630,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민"
     ]
-  },
-  {
-    "id": "nbff72631",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "42분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/02/2026050123250293420",
-    "title": "'성적 부진' 경질 감독 이례적 인터뷰, 美서 화제 \"리더라면 끝까지 책임져야\"→\"존경받아 마땅\" 폭풍 찬사",
-    "summary": [
-      "성적 부진으로 지휘봉을 내려놓게 된 롭 톰슨(62) 필라델피아 필리스 전 감독이 마지막 순간까지 '리더의 책임감'을 강조하며 인상적인 모습을 보였다.",
-      "필라델피아 구단은 지난 4월 29일(한국시간) 톰슨 감독의 경질을 전격 발표했다.",
-      "지난 2022년 6월 조 지라디 전 감독의 뒤를 이어 지휘봉을 잡았던 톰슨 감독은 이로써 약 4년 만에 팀을 떠나게 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n68d6633d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260502/133850284/1",
-    "title": "대만 동부 근해서 규모 6.1 강진…“올해 최대 여진 주의”",
-    "summary": [
-      "대만 동부 해역에서 1일 규모 6.1 강진이 발생해 타이베이 수도권을 포함한 북부 지역에서도 강한 진동이 감지됐다.중앙기상서에 따르면 이날 오후 8시39분(한국시간 9시39분)께 지진이 대만 이란현 동북동쪽 38.7㎞ 해역을 강타했다.진앙은 북위 24.9도, 동경 122.08도이고 진원의 깊이는 98.3㎞로 관측됐다.이번 지진으로 이란현 난아오, 신주현 관시, 난터우현 허환산, 화롄현 옌랴오 등지에서 최대 진도 4가 관측됐으며 타이베이와 신베이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n062691f0",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "45분 전",
-    "url": "https://www.hankyung.com/article/202604308962i",
-    "title": "\"말 안 했을 뿐인데 사기?\"…침묵이 '거짓말' 되는 순간 [조대환의 영미계약법 스케치]",
-    "summary": [
-      "\"말 안 했을 뿐인데 사기?\"…침묵이 '거짓말' 되는 순간 [조대환의 영미계약법 스케치]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb129e720",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n20f34925",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003614669",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-    "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb4c643a0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20260501_0003614661",
-    "title": "전현무, 빵 좋아한 여친 언급 \"많이 먹었다\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 방송인 전현무가 과거 연애를 연상시키는 발언으로 화제를 모았다.",
-      "지난 1일 방송된 MBN·채널S 맛집 예능물 '전현무계획3' 29회에서는 전현무가 게스트 황재균, 방송인 곽튜브와 함께 경북 문경으로 '먹트립'을 떠나는 모습이 그려졌다.",
-      "이날 전현무는 '오픈런' 맛집으로 알려진 유명 제과점으로 이동하던 중 \"빵을 많이 먹느냐\"는 황재균의 질문에 \"빵은 여자친구 있을 때 많이 먹는다\"고 답해 눈길을 끌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b512dc3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "48분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260501067800053",
-    "title": "서산영덕고속도로서 다중 추돌사고로 1명 사망",
-    "summary": [
-      "(상주=연합뉴스) 김용민 기자 = 1일 오후 9시 50분께 경북 상주시 내서면 서산영덕고속도로에서 다중 추돌 사고가 발생해 1명이 숨지고 6명이..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -628,8 +638,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
