@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-01 17:49:49
+// 마지막 업데이트: 2026-05-01 18:56:46
 window.NEWS_DB = [
   {
     "id": "n51748558",
     "category": "IT",
     "source": "christiandaily.co.kr",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kOTBub3U3Yk5Oa0lHWGFzVWs2UzRUR1ZoeUF0UDZPNVBRakdqRDFZcVBFa3phZVM5YnpTLWhNUTBWVGlzajFkRWk2WGQ3UnFCNGh6cjMxTdIBXEFVX3lxTE92dFE4M0tDZXR6VkZVbW9NQklaa3NXdGJYUm43ZEVPV0UxTFphazNQdG1lMEtqNUhzdWZqOE5tX0xpQ1VuZC1VSUFRVGZfU0YxdVZ2NzcwVnRzb09o?oc=5",
     "title": "반도체 주가 다시 들썩…HBM·AI 수요가 끌어올린 새 사이클",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nf7044eb0",
     "category": "IT",
     "source": "테크M",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03OVUxWF9iT2JGZGhWSU9iS25COHpoZGZqeXZFcWdXTGc5amlIQ2Q5c04zYlh3ZGp4UEZEZ0pnQUNiQXRMczI3am40Y1hyeUdUT01Kd3BHUEpJM0x1MVRHbzhpM0x2UdIBakFVX3lxTE5iRHh2Qmo0RnFFY29NajlHMWN5bkVydDM4UW1sdW80TUpwaGRwVWlSZHVjZXY4V0pJU1BHMDFidE9SVE01RWM2MEUwcWVzekxVRW56WVFwTUhQanFRbjh5ZFdiM2VZUUdVakE?oc=5",
     "title": "삼성전자·SK하이닉스, 1분기 실적 '범용 D램'에서 갈렸다...왜?",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n6da60682",
     "category": "IT",
     "source": "미디어펜",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MbkhhZXZMT0NCdVNxWks4WG5qd0R0U3Z5cWZ1YUdkM1ZEUDlQazRKY0NJYWR5RVc4N3dGUlJvTU9GWGE0X000QWhDT21OVWdGTVVhTdIBWEFVX3lxTFB4ejlNNWdlRFFNSlpucVBMWXh2Qm0xSXFIZExmZy1aR3hFbVpsdmdFeEhPS3Q0WnFhS3JIaXA5ZHExZEV6em9sdlZqNE5xNEltN2djeGFyYUg?oc=5",
     "title": "[美증시 특징주] 퀄컴 폭등에 반도체 장비주도 급등...엔비디아 AI거품론에 급락",
     "summary": [
@@ -149,20 +149,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n91027e92",
-    "category": "부동산",
-    "source": "일간스포츠",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dks1OERTbjB0VjgwQ3kzdmFQbDVpdEM4OTZsZU5LSmFOT2RXYnFqOE1SNnFXQU1SWlNxMVZtajA2V2lmUnloYjFxRmhQSGp3R2lFVWhURXozYUU?oc=5",
-    "title": "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목",
-    "summary": [
-      "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목 일간스포츠."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n6da43448",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -202,6 +188,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "71일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -251,17 +252,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n23874b78",
+    "id": "n1cfe1d94",
     "category": "스포츠",
     "source": "v.daum.net",
-    "time": "92일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yNFU3WXJfOU9qYk83RUFjM0VEbFk5UjF4QUphMnFNdGpOM2VRM1RPblk1Y28tV29FOTBpemt6UWtoX0RvN0FWTjVYZ2xDUE0?oc=5",
-    "title": "“야구가 4대스포츠 최고 흥행인데 연봉이…” 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정",
+    "time": "86일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1WVNBb05CNUg3X0hUM2ZJTkRZeDVjY3E0YnZLaGhjT0FXX294UFFibE5aTU1IaE4yTF96VnhlQlZzU1lnNVRLTVN4Y0JIWEE?oc=5",
+    "title": "K리그 선수들 \"최저연봉 2700만원, 4대 스포츠 꼴찌\"",
     "summary": [
-      "“야구가 4대스포츠 최고 흥행인데 연봉이…” 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정 v.daum.net."
+      "K리그 선수들 \"최저연봉 2700만원, 4대 스포츠 꼴찌\" v.daum.net."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
@@ -309,10 +310,204 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1c1bf61f",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614685",
+    "title": "英 법원 “삼성전자, 중싱통신에 3.92억＄ 지급” 판결…\"SEP 특허 정산금 분쟁\"",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 영국 고등법원은 휴대전화 표준필수특허(SEP) 사용을 둘러싼 분쟁에서 삼성전자와 중싱통신(中興通訊 ZTE) 간 라이선스 비용을 3억9200만 달러(약 5780억원)로 산정하고 삼성전자에 일시금 지급을 명령했다.",
+      "등신망(騰訊網)과 이코노믹 타임스, MSN에 따르면 런던 고등법원은 1일(현지시간) 2021년 SEP 특허 사용 계약 만료 이후 양측이 재계약 조건에 합의하지 못하고 다툼을 벌이는데 대해 이 같은 정산금을."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nb200f07e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003614115",
+    "title": "\"운전기사가 쓰러졌다\"…고속도로 버스 사고 막은 美중학생들",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 장서연 인턴기자 = 미국 미시시피주의 중학생들이 4차선 고속도로를 달리던 스쿨버스에서 운전자가 의식을 잃자, 대형 사고를 막기 위해 기지를 발휘한 순간이 공개돼 화제가 되고 있다.",
+      "29일(현지 시간) 뉴욕포스트에 따르면 핸콕 중학교 학생 5명은 지난달 22일 고속도로를 달리던 스쿨버스에서 운전기사가 갑자기 쓰러지며 차량이 통제 불능 상태에 빠지는 위기 상황을 맞닥뜨렸다.",
+      "당시 현장에 있던 학생 맥켄지 핀치는 인터뷰에."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n094b002c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502000752071",
+    "title": "트럼프 \"EU산 車관세 내주 25%로↑\"…이란戰 비협조 보복 주목(종합2보)",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 1일(현지시간) 다음 주부터 유럽연합(EU)산 승용차와 트럭에 대한 관세를 2..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1f570aba",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260502/133850353/1",
+    "title": "트럼프 “이란 제안에 불만족…완전 박살내는 것도 선택지”",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 1일(현지 시간) 이란이 새로운 종전안을 제안한 것에 대해 “그들은 합의를 원하고 있지만 저는 그것에 만족하지 않는다”고 말했다.트럼프 대통령은 이날 백악관 경내에서 취재진과 만나 이같이 말하며 “그래서 우리는 지켜봐야할 것이다.",
+      "저들은 사실상 남은 군대도 없고 합의를 원하지만, 나는 그 제안에 만족하지 않는다”고 반복했다.이란은 전날 밤 중재국인 파키스탄에 새로운 협상안을 제시한 것으로 알려졌다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n86a3b450",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260502/133850350/1",
+    "title": "이스라엘, 레바논 남부 공습 최소 4명 사망…헤즈볼라 드론 공격에 이스라엘군 2명 부상",
+    "summary": [
+      "이스라엘과 레바논 무장정파 헤즈볼라가 휴전 상태에 있는데도 공격과 반격이 계속되면서 인명 피해가 확대하고 있다.레바논 남부에서 1일(현지시간) 이스라엘 공습으로 최소한 4명이 목숨을 잃었다.",
+      "이에 보복에 나선 헤즈볼라는 로켓과 드론 공격을 감행해 이스라엘 병사 2명에 부상을 입었다.",
+      "양측은 4월17일 발효한 휴전에도 교전을 지속했다.레바논 국영 통신은 남부 3개 마을에 대한 이스라엘 폭격으로 지금까지 4명이 사망했다고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0cbc3fec",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502001551071",
+    "title": "트럼프 \"이란의 새 제안 만족스럽지 않아…지도부 엄청난 분열\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 1일(현지시간) 이란 측이 중재국 파키스탄을 통해 전달해온 새로운 협상안에 대..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n524c60e7",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/02/2026050122593029146",
+    "title": "이럴수가! '前 한화 복덩이' 리베라토, 대만 역사상 '최악 외인 타자' 불명예 위기→66타수 연속 무홈런 굴욕",
+    "summary": [
+      "지난 2025시즌 에스테반 플로리얼(29)의 대체 외국인 선수로 KBO 리그에 입성해 한화 이글스에서 '복덩이'로 불렸던 루이스 리베라토(31·푸방 가디언스)가 대만프로야구(CPBL) 무대에서 역대 최악의 외국인 타자로 전락할 위기에 처했다.",
+      "18경기나 소화했으나 아직까지 외국인 타자에게 기대하는 홈런을 때려내지 못했기 때문이다.",
+      "대만 등록명 '방리둬'로 활동 중인 리베라토는 2일 현재 이번 시즌 CPBL 개막 후 18경기 동안 66타수를 소화."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nccb3a60c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003613334",
+    "title": "\"N분의 1 해야 하나요\"…직장인 친구들 만나는 취준생 고민",
+    "summary": [
+      "[서울=뉴시스]박윤서 인턴 기자 = 수입이 없는 취업 준비생이 친구들과의 모임 비용을 어떻게 부담해야 하는지를 두고 고민을 털어놓자 온라인 상에서 다양한 반응이 이어지고 있다.",
+      "29일 한 온라인 커뮤니티에는 '현재 수입이 없는데 돈을 내야 할까요?'라는 제목의 글이 올라왔다.",
+      "작성자 A씨는 \"친구들은 대학을 바로 졸업하고 모두 직장을 다니고 있다\"며 \"저만 준비하고 있는 시험이 있어서 수입이 없는데 저도 친구들 모임에서 돈을 내야 할까요?\"라고."
+    ],
+    "chips": [
+      "#취업",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n4f6e8140",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502001900071",
+    "title": "트럼프, 안보·무역으로 '이란전 비협조' 보복…韓 영향 없을까",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령이 유럽연합(EU)에서 생산된 승용차와 트럭에 대한 관세를 인상하겠다고 밝힌 것은..."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3f6c91f1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502002100085",
+    "title": "석유시장 전문가들 \"재고 감소로 한달이면 위기 닥칠것\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 호르무즈 해협 봉쇄가 이어지면서 전 세계 석유 재고가 위험 수준까지 떨어져 한달이면 가격이 심각하게 급등하는..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1ec8fe6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "56분 전",
+    "url": "https://www.chosun.com/international/2026/05/02/7DM7GI3ZXNDPVF6JEXP47LXHBA/",
+    "title": "호르무즈의 불꽃이 불러온 흑해의 정체…사르피 국경 10㎞의 기록",
+    "summary": [
+      "호르무즈의 불꽃이 불러온 흑해의 정체…사르피 국경 10㎞의 기록."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9a157577",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "56분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/05/02/WYJYV2IOUBGJRHIT3OTGDPNN4I/",
+    "title": "하와이 여자 친구 부부가 반한 통영의 맛",
+    "summary": [
+      "하와이 여자 친구 부부가 반한 통영의 맛."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c306529",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "56분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/05/02/PG7G6KY3IRHW5FQWWASX6YMWXQ/",
+    "title": "“15년 숙성 위스키는 15초 머금어라”… 34억 보험을 든 ‘신의 코’",
+    "summary": [
+      "“15년 숙성 위스키는 15초 머금어라”… 34억 보험을 든 ‘신의 코’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n3a405faa",
     "category": "사회",
     "source": "머니투데이",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/world/2026/05/02/2026050202255153626",
     "title": "이란 새로운 종전협상안 제안에도…트럼프 \"만족스럽지 않아\"",
     "summary": [
@@ -325,40 +520,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2d06ab0e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502001800091",
-    "title": "저커버그, 직원 컴퓨터 기록 추적 논란에 \"여러분이 똑똑해서\"",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 메타가 직원들의 컴퓨터 사용 기록(로그)을 추적해왔다는 의혹과 관련해 마크 저커버그 최고경영자(CEO..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc430d86",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003613284",
-    "title": "\"택시비 몸으로 내겠다\"…대만 여성 승객, 기사 '성희롱' 논란",
-    "summary": [
-      "[서울=뉴시스]김수빈 인턴 기자 = 대만의 한 여성 승객이 \"요금을 몸으로 대신 지불하겠다\"며 택시비 대신 성관계를 제안한 것으로 알려져 온라인에서 논란이 되고 있다.",
-      "최근 대만 ET투데이 등 현지 매체들에 따르면 한 택시 기사가 타이베이에서 태운 여성 승객으로부터 성희롱을 당했다는 주장이 제기됐다.",
-      "보도에 따르면 해당 기사는 모텔 인근에서 신체 노출이 많은 복장의 여성 승객을 태웠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n3334b8b7",
     "category": "사회",
     "source": "동아일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260502/133850334/1",
     "title": "러시아, 차세대 ‘소유즈-5’ 운반로켓 첫 발사…저궤도 수송 비용 절감 기대",
     "summary": [
@@ -370,40 +535,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc69ef714",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003614677",
-    "title": "트럼프 \"내주부터 EU 車관세 25%로 인상\"…유럽에 연일 공세(종합)",
-    "summary": [
-      "[워싱턴서울·=뉴시스] 이윤희 특파원, 이재준 기자 = 도널드 트럼프 미국 대통령이 1일(현지 시간) 유럽연합(EU)이 무역합의를 준수하지 않았다며 내주부터 자동차에 25% 관세를 부과하겠다고 발표했다.",
-      "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 \"저는 EU가 우리가 완전히 동의했던 무역합의를 준수하지 않았다는 점에 비춰 다음주부터 미국으로 들어오는 EU 자동차와 트럭에 부과되는 관세를 인상할 것임을 발표하게돼 기쁘다\"며 \"관세율은."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8dc20a9e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502000900071",
-    "title": "로이터 \"트럼프, 쿠바정부 겨냥 제재 확대 행정명령\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령이 1일(현지시간) 쿠바 정부를 겨냥한 제재를 확대하는 행정명령에 서명했다고 로이..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n12dd2037",
     "category": "IT",
     "source": "테크M",
-    "time": "36분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151510",
     "title": "'붉은사막'이 일으킨 K-게임 바람, '서브노티카2'가 이을까...5월15일 출시 '확정'",
     "summary": [
@@ -416,53 +551,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb1d105fe",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502001500071",
-    "title": "트럼프 \"이란의 새 제안 만족스럽지 않아…지도부 엄청난 분열\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 1일(현지시간) 이란 측이 중재국 파키스탄을 통해 전달해온 새로운 협상안에 대..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7753eb9b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "39분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/02/GNRTKYRZGZRTEMJWGMZTGZBTMU/",
-    "title": "'와, 막힌 혈은 뚫렸는데' 불펜 붕괴로 박세웅 또또또또 첫 승 사냥 실패하다 [오!쎈 인천]",
-    "summary": [
-      "[OSEN=인천, 홍지수 기자] 프로야구 롯데 자이언츠 토종 선발 박세웅이 또 첫 승 사냥에 실패했다.박세웅은 1일 인천SSG랜더스필드에서 열린 SSG 랜더스와 2026 신한 SOL KBO리그 원정 경기에서 선발 등판해 6⅓이닝 동안 6피안타(1피홈런) 5탈삼진 3볼넷 5실점 투구를 했다.",
-      "6회까지 승리투수 요건을 갖췄으나, 7회 불펜진이 리드를 지켜주지."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne8e49017",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "44분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003614679",
-    "title": "[속보]트럼프 \"이란 제안에 불만족…동의할 수 없는것 요구해\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n40357135",
     "category": "IT",
     "source": "테크M",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151509",
     "title": "[글로벌] 구글, 임직원 600명 반발 무릅쓰고 美 국방부 기밀 AI 계약 체결",
     "summary": [
@@ -476,7 +568,7 @@ window.NEWS_DB = [
     "id": "n69fbeb11",
     "category": "IT",
     "source": "테크M",
-    "time": "46분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151508",
     "title": "[글로벌] 미·중 반도체 전쟁 격화...美, 중국 2위 파운드리 화홍에 장비 공급 즉각 차단",
     "summary": [
@@ -494,7 +586,7 @@ window.NEWS_DB = [
     "id": "n85841aa2",
     "category": "IT",
     "source": "테크M",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151507",
     "title": "[글로벌] 오픈AI, 앱 없는 AI 스마트폰 개발 중...2028년 양산 목표",
     "summary": [
@@ -509,7 +601,7 @@ window.NEWS_DB = [
     "id": "n689681a1",
     "category": "경제",
     "source": "머니투데이",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/world/2026/05/02/2026050201550730129",
     "title": "美 석유업계도 곡소리…이란전쟁 여파, 1년만에 순익 반토막",
     "summary": [
@@ -522,24 +614,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n16e71994",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502000751071",
-    "title": "트럼프 \"EU산 車관세 내주 25%로↑\"…이란戰 비협조 보복 주목(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 1일(현지시간) 다음 주부터 유럽연합(EU)산 승용차와 트럭에 대한 관세를 2..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n8f1af38d",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260502/133850186/2",
     "title": "부활한 노동절, “공정 보상” 목소리 커진 노동계",
     "summary": [
@@ -550,84 +628,6 @@ window.NEWS_DB = [
     "chips": [
       "#SK하이닉스"
     ]
-  },
-  {
-    "id": "nfd92af2f",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260502/133849682/2",
-    "title": "7개국 135명 가세한 ‘동아 소프트테니스’… 亞게임 뺨친다",
-    "summary": [
-      "제104회 동아일보기 전국소프트테니스대회가 ‘아시안게임 규모’로 열린다.",
-      "소프트테니스는 올림픽 정식 종목이 아니라 아시안게임이 가장 규모가 큰 대회다.",
-      "1일 시작된 올해 동아일보기는 2일 경북 문경국제소프트테니스장에서 개회식이 열리며 9일 막을 내린다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a69194f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260502/133850184/2",
-    "title": "유류할증료 최고 단계로… 뉴욕 왕복 52만원 올라",
-    "summary": [
-      "1일부터 발권하는 항공권에 사상 최고 수준의 유류할증료가 붙는다.",
-      "4월보다 2배 가까이 높은 할증료가 붙으면서 미주 노선엔 편도당 최대 56만 원이 넘는 할증료를 지불해야 하는 것이다.",
-      "다만 4월 말 유가 상승세가 소폭 꺾여 6월부터 부과되는 유류할증료는 소폭 인하될 것이란 전망도 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c240141",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/02/HE3TMMTEHAYWGN3EGYYDEMZZME/",
-    "title": "2군행 자극됐나? 5실점→4실점→5실점→무실점→1실점…NPB 66승 투수, 180도 달라졌다 [오!쎈 인천]",
-    "summary": [
-      "[OSEN=인천, 홍지수 기자] 프로야구 SSG 랜더스아시아쿼터 투수 타케다 쇼타가 완전히 달라졌다.타케다는 1일 인천SSG랜더스필드에서 열린 2026 신한 SOL KBO리그 롯데 자이언츠와 홈경기에서 선발투수로 마운드에 올라 5⅓이닝 동안 3피안타 2볼넷 4탈삼진 1실점 호투를 펼쳤다.",
-      "비록 타케다가 허벅지 경련으로 6회를 다 책임지지 못했고, 불펜진이."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ndcc9d6fb",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/world/2026/05/02/2026050201363279800",
-    "title": "트럼프 \"EU 車 관세 25%로 인상\"…이란전 비협조 보복 시작되나",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 1일(현지시간) 유럽연합(EU)에서 생산한 승용차와 트럭에 대한 관세를 25%로 인상하겠다고 1일(현지시간) 밝혔다.",
-      "이란 전쟁에서 미국과 서유럽 동맹국의 군사동맹인 북대서양조약기구(NATO·나토) 주요 회원국들이 미국의 파병 요청을 사실상 거절한 것과 무관치 않다는 얘기가 나온다.",
-      "트럼프 대통령은 이날 소셜미디어 트루스소셜에 올린 글에서 \"EU가 완전히 합의한 무역합의를 준수하지 않고 있다는 사실을 근거로 다음주부."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6e1831dd",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202605021341i",
-    "title": "트럼프, EU 자동차에 25% 관세 폭탄…글로벌 무역전쟁 다시 시작되나",
-    "summary": [
-      "트럼프, EU 자동차에 25% 관세 폭탄…글로벌 무역전쟁 다시 시작되나."
-    ],
-    "chips": [
-      "#수출"
-    ]
   }
 ];
 
@@ -636,8 +636,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
@@ -648,8 +648,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
