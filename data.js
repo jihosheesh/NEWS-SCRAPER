@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-01 22:40:44
+// 마지막 업데이트: 2026-05-01 23:43:04
 window.NEWS_DB = [
   {
     "id": "nbc11dd08",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XYlBrRTBaLUtKUThzMjBneDhwV2JPeXZnUDdNcXJ2U2QyVnhRVF9XbTNHelBCS3pFc1VmeHItQUZhTmlkeTFyMEQtQjFfcXZ2MUhxNHB0SW8wZ9IBXkFVX3lxTE5EOHEtVjdxRU9HQWFLWUtWZGVHQ2hwVnpJb3diRmpNaVFTQURfZ3ZfaDdTb2ZjZnpPSUhhLWZTdnVqRDRiSXNfM2phT1pNMjYzdEgtckE2ZTZZZEZHeWc?oc=5",
     "title": "\"꿩 대신 닭\" 화웨이 AI 칩 中 시장 장악…엔비디아 고사하나",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n51748558",
     "category": "IT",
     "source": "christiandaily.co.kr",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kOTBub3U3Yk5Oa0lHWGFzVWs2UzRUR1ZoeUF0UDZPNVBRakdqRDFZcVBFa3phZVM5YnpTLWhNUTBWVGlzajFkRWk2WGQ3UnFCNGh6cjMxTdIBXEFVX3lxTE92dFE4M0tDZXR6VkZVbW9NQklaa3NXdGJYUm43ZEVPV0UxTFphazNQdG1lMEtqNUhzdWZqOE5tX0xpQ1VuZC1VSUFRVGZfU0YxdVZ2NzcwVnRzb09o?oc=5",
     "title": "반도체 주가 다시 들썩…HBM·AI 수요가 끌어올린 새 사이클",
     "summary": [
@@ -59,20 +59,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "nc9bcee6e",
-    "category": "스포츠",
-    "source": "한스경제",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKel8xZkQ0bVhKUlprckVDVXRlQTlIN0wxTXNybFI3UEhCQzV1VFN2d05KSnduRndUd2pVV0Y2RUNZeDN2ajZ3Y1NSVjZTbDcwUVprblZOZVNKUUhtaXIxYUY0QTZvWGE1SlYwTEc5ONIBb0FVX3lxTFBKel8xZkQ0bVhKUlprckVDVXRlQTlIN0wxTXNybFI3UEhCQzV1VFN2d05KSnduRndUd2pVV0Y2RUNZeDN2ajZ3Y1NSVjZTbDcwUVprblZOZVNKUUhtaXIxYUY0QTZvWGE1SlYwTEc5OA?oc=5",
-    "title": "국내야구, 4월 4주 차에도 스포츠 관심도 정상… 점유율 55%",
-    "summary": [
-      "국내야구, 4월 4주 차에도 스포츠 관심도 정상… 점유율 55% 한스경제."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -148,6 +134,34 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf50cb333",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XUS1PaFltMnNwTVhFSC1BZFc4V0JVZkJHR1Q3a2dwaDhUQXBhbVc1dERIdGtuMEp0cm5uY2lhZ2ljT3IydlNqc2xDcXBUVUxERlRIMGEyRUgxajNEaFdqUg?oc=5",
+    "title": "KBO, 6월 2일까지 2026 Fall League 운영사업자 선정 입찰",
+    "summary": [
+      "KBO, 6월 2일까지 2026 Fall League 운영사업자 선정 입찰 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n91027e92",
+    "category": "부동산",
+    "source": "일간스포츠",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dks1OERTbjB0VjgwQ3kzdmFQbDVpdEM4OTZsZU5LSmFOT2RXYnFqOE1SNnFXQU1SWlNxMVZtajA2V2lmUnloYjFxRmhQSGp3R2lFVWhURXozYUU?oc=5",
+    "title": "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목",
+    "summary": [
+      "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목 일간스포츠."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "n6da43448",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -159,20 +173,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "ncbcb6c77",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "54일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -251,17 +251,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1cfe1d94",
+    "id": "nc05783ad",
     "category": "스포츠",
     "source": "v.daum.net",
-    "time": "86일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1WVNBb05CNUg3X0hUM2ZJTkRZeDVjY3E0YnZLaGhjT0FXX294UFFibE5aTU1IaE4yTF96VnhlQlZzU1lnNVRLTVN4Y0JIWEE?oc=5",
-    "title": "K리그 선수들 \"최저연봉 2700만원, 4대 스포츠 꼴찌\"",
+    "time": "100일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nSk5tVklDWkNwVFg1Z1lFQ3oyeDdmX1A3Q0tieHhmMUQ1U2QzOWN3Zjh3eThGTDFXbmR2ZUlKamdHbkQxME84OGQxT0dzajA?oc=5",
+    "title": "KBO K리그 KBL KOVO KPGA 한 데 모였다…프로스포츠 지속 가능한 성장 기반 논의",
     "summary": [
-      "K리그 선수들 \"최저연봉 2700만원, 4대 스포츠 꼴찌\" v.daum.net."
+      "KBO K리그 KBL KOVO KPGA 한 데 모였다…프로스포츠 지속 가능한 성장 기반 논의 v.daum.net."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
@@ -280,20 +280,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13cdbe9c",
-    "category": "부동산",
-    "source": "시사저널e",
-    "time": "122일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
-    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
-    "summary": [
-      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nb36dbf94",
     "category": "사회",
     "source": "서울특별시",
@@ -309,324 +295,326 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne7dbf1d9",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/02/2026050207375277256",
-    "title": "[속보]미 국방부 \"독일 주둔 미군 5000명 감축\"",
-    "summary": [
-      "1일(현지시간) 로이터통신 보도...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na2d27261",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/02/WETGA77W5RFLFD3G2PW7KJU6WI/",
-    "title": "트럼프 “EU산 車관세 25%로”… EU “합의 위반 땐 대응”",
-    "summary": [
-      "트럼프 “EU산 車관세 25%로”… EU “합의 위반 땐 대응”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4968d8a5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260501_0003614653",
-    "title": "방탄소년단 '아리랑', 스포티파이 주간차트 6주 연속 14개 트랙 전곡 차트인",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 글로벌 슈퍼 그룹 '방탄소년단'(BTS)의 정규 5집 '아리랑(ARIRANG)' 전곡이 글로벌 오디오·음원 스트리밍 플랫폼 스포티파이에서 6주 연속 차트인했다.",
-      "2일 스포티파이의 최신 주간 차트(집계 기간: 4월 24~30일)에 따르면 '아리랑'은 '위클리 톱 앨범 글로벌' 2위에 올라 6주 연속 최상위권을 지켰다.",
-      "타이틀곡 '스윔(SWIM)'은 '위클리 톱 송 글로벌'에서 지난주 대비 한 계단 상승한 2위를 차지."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n0b46b894",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260502/133850397/1",
-    "title": "[속보]美 “국방장관, 주독미군 약 5000명 철수 명령”",
-    "summary": [
-      "미국이 독일에 주둔 중인 미군 일부를 철수시킬 예정이라고 외신이 전했다.",
-      "중동 전쟁에서 미국이 북대서양조약기구(나토• NATO)의 지원을 받지 못한 데 따른 일종의 보복조치로 풀이된다.1일(현지 시간) 미국 폭스뉴스 등 외신에 따르면 미국 전쟁부(국방부)는 독일 주둔 미군 중 5000명을 철수시키겠다는 구체적 계획을 확인했다.국방부 수석대변인 숀 파넬은 피트 헤그세스 국방장관이 “독일에서 약 5000명의 병력을 철수할 것을 명령했다”고 밝힌 것."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc8360a0b",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260501040100003",
-    "title": "중동전쟁으로 재개된 조선업 '슈퍼사이클'…K조선도 순항",
-    "summary": [
-      "(서울=연합뉴스) 김보경 기자 = 중동 전쟁 여파로 '슈퍼사이클'(초호황기)이 재개되면서 선박 발주 및 수주가 다시 증가하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c8bc500",
+    "id": "n5de3a708",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/02/GE4WGMJYGFSWMMJQGVSTAY3CG4/",
-    "title": "올해도 1위 질주, 24억 아깝지 않다…오죽하면 사령탑은 \"바랄 게 없다\" 했을까",
+    "source": "매일경제",
+    "time": "210일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
     "summary": [
-      "[스포츠조선 이종서 기자] 이렇게 던지는데 사령탑이 칭찬을 안 할 수가 없다.",
-      "삼성 라이온즈의 아리엘 후라도(30)는 올해로 KBO리그 4년 차를 맞았다.",
-      "2023년 키움 히어로즈에서 뛰며 30경기에 나와 11승8패 평균자책점 2.65를 기록하며 꾸준한 모습을 보여줬다."
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
     ],
     "chips": [
+      "#손흥민",
       "#KBO"
     ]
   },
   {
-    "id": "n21afbb1b",
+    "id": "nfd400fa3",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003614704",
-    "title": "미국인들, 이라크·베트남 전쟁 만큼 이란 전쟁 반대",
+    "source": "동아일보",
+    "time": "방금 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260502/133850465/1",
+    "title": "시속 50㎞ 도로서 153㎞ ‘광란의 추월’…승객 사망사고 낸 60대 택시기사",
     "summary": [
-      "[서울=뉴시스] 강영진 기자 = 도널드 트럼프 미 대통령이 벌인 이란 전쟁이 2006년의 이라크 전쟁이나 1970년대 베트남 전쟁 못지않게 미국인들이 반대하는 것으로 나타났다고 미 워싱턴포스트(WP)가 1일(현지시각) 보도했다.",
-      "WP는 워싱턴 포스트-ABC 뉴스-입소스(Ipsos) 공동여론조사에서 미국인의 61%가 이란 군사 공격이 실수였다고 답했다고 전했다.",
-      "이란 공격이 성공적이라고 보는 미국인은 10명 중 2명 미만이며 미국의 공격이 실패라."
+      "시속 150㎞가 넘는 속도로 과속 운전하다 사고를 내 승객을 숨지게 한 택시 기사에게 금고형이 선고됐다.2일 법조계에 따르면 대전지법 형사8단독 이미나 부장판사는 교통사고 처리 특례법 위반(치사) 등 혐의로 기소된 A 씨(69)에게 금고 1년을 선고했다.",
+      "다만, 2년간 형 집행을 유예했다.택시 기사인 A 씨는 지난해 8월, 승객 3명을 태우고 전북 완주군의 편도 1차로에서 앞차를 추월하기 위해 중앙선을 넘어 운전하다 맞은편 가드레일을 들이받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea494889",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260502/133850462/1",
+    "title": "코요태 신지♥문원, 2일 결혼식…백지영 축가·문세윤 사회",
+    "summary": [
+      "혼성 그룹 코요태의 신지(44)와 가수 문원(37)이 백년가약을 맺는다.2일 신지와 문원은 서울 강남구 모처에서 비공개로 결혼식을 올리고 부부의 연을 맺는다.",
+      "사회는 코미디언 문세윤이, 축가는 신지의 절친한 가수 백지영이 맡는다.신지와 문원은 지난 2024년 방송된 MBC 표준FM ‘이윤석 신지의 싱글벙글쇼’에서 DJ와 게스트로 만나 인연을 맺었고, 그해 연인 사이로 발전했다.지난해 6월 두 사람의 열애 소식이 전해졌고, 지난 1월 말 사회관계."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6de4d6fa",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502015000530",
+    "title": "흐리지만 한낮 20∼26도까지…밤 수도권·강원부터 비",
+    "summary": [
+      "(서울=연합뉴스) 이재영 기자 = 2일 밤부터 길게는 4일까지 비가 내리겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nead34e6a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502015400009",
+    "title": "카타르 선물 트럼프 전용기, 초호화 기내 인테리어 유지하기로",
+    "summary": [
+      "(서울=연합뉴스) 김아람 기자 = 도널드 트럼프 미국 대통령이 카타르 왕실로부터 선물 받아 전용기 '에어포스원'으로 쓸 항공기가 호화로운 기존 ..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nd08301a3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/industry/2026/05/02/2026042923330348036",
-    "title": "'굴뚝 산단'의 반전…유럽도 반한 동해 수소 기지[넷제로 케이스스터디]",
-    "summary": [
-      "강원도 동해시 소재 동서발전 그린수소 실증단지 '굴뚝 산업' 대변하던 산단, 그린수소 산업 토대 닦는 연구단지로 탈바꿈 국내에서 그린수소 생산·저장·안전·활용 전주기 실증하는 유일한 장소 올해 말, '하루 1톤' 그린수소 생산 시설 완공 녹색전환·탄소배출 저감은 거대한 과제이지만 동시에 할 수 있는 데에서부터 구체적으로 풀어가야 할 숙제이기도 합니다.",
-      "머니투데이가 탄소배출 저감과 에너지전환을 향해 가는 '현재 진행형' 사례들을 매주 소개합니다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n9cf304ed",
+    "id": "n6066a95a",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://www.asiae.co.kr/article/2026043013415292972",
-    "title": "\"만지라고 있는 것 아닙니다\"…체험 접고 코끼리도 안 키우는 日 동물원 [뭔日있슈]",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/02/MVTDGNZQGE4DQMRQGQ4GIYLGG4/",
+    "title": "48세 채연, 동안 미모 비결은 시술이었다..\"적당히 시술 한다\"(불후)",
     "summary": [
-      "편집자주도쿄에 상주 중인 국제부 기자가 한 주간 일본에서 보고 들은 이야기를 전해드립니다.",
-      "매주 토요일 업데이트 대전 오월드를 탈출했다 포획된 늑대 '늑구' 사건으로 우리나라에도 동물원을 둘러싼 여러 의견이 제기되고 있습니다.",
-      "지금의 동물원 시스템은 괜찮은 건지, 정말 동물원이 있어야 하는지 등에 대한 여러 층위의 이야기가 오가고 있죠."
+      "[OSEN=하수정 기자] '48세' 가수 채연이 나이를 가늠할 수 없는 동안 미모를 유지해 시선을 집중시켰다.",
+      "KBS2 ‘불후의 명곡’에서 채연이 ‘방부제 미모’의 비결을 밝힌다.오늘(2일) 오후 6시 5분 방송되는 KBS2 ‘불후의 명곡’ 754회는 장르불문 독보적인 스펙트럼으로 수많은 메가 히트곡을 배출한 ‘원조 스타 작곡가’ 주영훈의 음악 세계를 재조."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n37a63458",
+    "id": "n10b07e0a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "8분 전",
+    "url": "https://www.hankyung.com/article/2026050215037",
+    "title": "\"3000만원씩 달라\"…삼바 직원 2800명 동시에 연차 썼다",
+    "summary": [
+      "\"3000만원씩 달라\"…삼바 직원 2800명 동시에 연차 썼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9018c9aa",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260430209400017",
+    "title": "[실제 써보니] 99만원 맥북 네오…입문용 최적 해답일까",
+    "summary": [
+      "(서울=연합뉴스) 박형빈 기자 = 애플이 올해 선보인 보급형 노트북 '맥북 네오'는 '맥의 문턱'을 낮추는 데 집중한 제품이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbf3191d7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/02/GFSDMOBTGYYDOMRWGEYWCZJRMQ/",
+    "title": "박우열, 강유경·정규리 두고 고민 “유경 씨가 신경 쓰여”(‘하트시그널’)",
+    "summary": [
+      "[OSEN=강서정 기자] ‘하트시그널5’ 박우열이 강유경, 정규리를 두고 고민에 빠졌다.",
+      "오는 5일 방송되는 채널A ‘하트시그널5’(연출 박철환, 김홍구) 4회를 앞두고 제작진은 최근 공식 유튜브 채널 ‘라비티비’에 입주자 박우열-김성민-김서원-정준현-김민주-정규리-강유경의 입주 3일 차 속마음을 담은 ‘셀프톡’ 비하인드 영상을 업로드했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6b9aff4b",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260501001000008",
-    "title": "증시활황에 증권사 보고서 건수도 늘었다…투자자 수요 증가",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260429187600008",
+    "title": "주식시장 '나홀로 불장', 이란전쟁 속 체감경기와 온도차 왜?",
     "summary": [
-      "(서울=연합뉴스) 김유향 기자 = 작년 국내 증시가 역대급 수익률을 자랑한 가운데, 한동안 감소하던 국내 증권사의 보고서 발행 건수가 다시 증가..."
+      "(서울=연합뉴스) 황철환 기자 = 세계 에너지 수송의 관문인 호르무즈 해협이 봉쇄되고 국제유가가 치솟는 등 이란 전쟁의 어둔운 그림자가 드리우고..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb0ba0294",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://www.asiae.co.kr/article/2026042913525523172",
-    "title": "[주末머니]삼성전자·SK하이닉스, 지금이 고점일까",
+    "id": "n2121c6c2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260430/133820624/2",
+    "title": "황영기 “아이들이 너무 일찍 어른 된다”…어린이날 앞둔 현실 [함께미래 리더스]",
     "summary": [
-      "국내 반도체 산업을 사이클 관점이 아닌 인공지능(AI)이라는 새로운 투자 체계의 중심 인프라로 해석해야 한다는 분석이 나왔다.",
-      "1일 하나증권은 '6천피 생존 전략: 모두가 사이클 끝만 보고 있다' 보고서에서 반도체 장기계약의 의미를 재해석해야 한다며 이같이 밝혔다.",
-      "그간 시장에서는 반도체 산업을 사이클 관점으로 바라봤다."
+      "어린이날을 앞두고 황영기 초록우산 회장이 한국 아동 현실을 짚었다.",
+      "“아이들이 너무 일찍 어른이 된다”며 자선 넘어 삶을 바꾸는 ‘임팩트 복지’ 필요성을 강조했다."
     ],
     "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
+      "#뉴스"
     ]
   },
   {
-    "id": "nfb28dad3",
-    "category": "경제",
-    "source": "아시아경제",
+    "id": "ndb29b720",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "13분 전",
-    "url": "https://www.asiae.co.kr/article/2026042915005890026",
-    "title": "\"약국에서 사면 비싸잖아요\"…단돈 '3000원'에 대신 달려가는 곳[지금 사는 방식]",
+    "url": "https://www.newsis.com/view/NISX20260430_0003613823",
+    "title": "문해력 잡기 나선 교육당국…재점화된 '한자 교육' 논쟁",
     "summary": [
-      "편집자주요즘 사람들은 무엇을 살까요.",
-      "다이소에서 꼭 집어오는 생활용품부터 올리브영에서 품절을 부르는 화장품, 줄 서서 사는 빵까지.",
-      "익숙한 소비 장면 속에는 지금의 시장 흐름이 고스란히 담겨 있습니다."
+      "[서울=뉴시스]정예빈 기자 = 국가교육위원회(국교위)가 지난달 29일 문해력 특별위원회를 본격 가동하면서 한자 교육과 교과서 한자 병기와 한자 교육을 둘러싼 논쟁이 다시 수면 위로 떠올랐다.",
+      "찬반이 팽팽히 맛서며 무산됐던 사안을 다시 검토하는 만큼, 문해력 특위가 어떤 방향의 결론을 내릴지 교육계의 이목이 쏠리고 있다.",
+      "2일 교육계에 따르면 최근 학생들의 어휘력 부족과 독해 능력 저하가 국가·사회적 과제로 부각되자, 지난달 국교위는 문해력 특위."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n48e5d1a4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003613634",
+    "title": "보령시, 고위험군 집중관리와 자살예방 총력",
+    "summary": [
+      "[보령=뉴시스]유순상 기자 = 충남 보령시가 자살 예방에 힘을 쏟는다.",
+      "2일 시에 따르면 관내 응급의료기관 및 장례식장 5개소와 손을 잡고 자살 고위험군(자살시도자·자살유족)의 위기 대응 및 사후관리, 자살예방 공동 대응체계 구축 등을 위해 '응급실 기반 자살시도자 사후관리사업'과 '자살 유족 원스톱 지원 사업'을 실시한다.",
+      "사후관리사업은 응급실 내원 자살시도자 위기대응 후 정신건강복지센터와 연계, 지속적인 사례관리로 자살 재시도를 예방한다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nb312ae5e",
+    "id": "nd15383b0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/05/02/GI3TQOLEG5QTEZBUG4YGEZDEGI/",
+    "title": "방탄소년단, 완전체 화력 미쳤다..'아리랑' 6주째 전곡 차트인",
+    "summary": [
+      "[OSEN=선미경 기자] 완전체로 컴백한 그룹 방탄소년단의 화력이 대단하다.",
+      "컴백 한 달 반이 지나도 여전히 글로벌 차트를 장악하고 있다.소속사 빅히트 뮤직은 2일 “글로벌 오디오, 음원 스트리밍 플랫폼 스포티파이의 최신 주간 차트에 따으면 방탄소년단의 정규 5집 ‘아리랑(ARIRANG)’이 6주 연속 차트인을 기록했다”라고 밝혔다.4월 24일부터 30일까."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n247e1ffe",
     "category": "사회",
     "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614714",
+    "title": "칠곡휴게소·브릿지2023 '도로불편신고 서비스' 맞손",
+    "summary": [
+      "[칠곡=뉴시스] 박홍식 기자 = 한국도로공사 경북지역본부 소속 칠곡(서울)휴게소는 '도로불편신고 척척해결서비스 APP' 홍보 캠페인을 진행했다고 2일 밝혔다.",
+      "경북 칠곡군 지역사회공헌 단체인 '브릿지2023'과 공동 개최했다.",
+      "고속도로 이용 중 발생하는 각종 불편사항을 국민이 직접 신고하고, 신속하게 처리할 수 있는 시스템 활용도를 높이기 위해 마련됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na3f78dc2",
+    "category": "사회",
+    "source": "동아일보",
     "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003614699",
-    "title": "트럼프 주독미군 감축 가시화…\"국방부, 1년간 5000명 철수계획\"",
+    "url": "https://www.donga.com/news/Society/article/all/20260502/133850452/1",
+    "title": "‘4월 이미 29도’ 대구보다 더 덥다…올여름도 ‘광프리카’ 예고",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 국방부가 향후 1년 동안 독일에 주둔 중인 미군 5000명을 철수시킬 계획이라고 미 CBS가 1일(현지 시간) 보도했다.",
-      "도널드 트럼프 미국 대통령은 이틀 전 독일 주둔 미군 병력 감축을 검토 중이라고 발표했는데, 언론 보도를 통해 구체적인 규모와 시기까지 윤곽을 드러낸 셈이다.",
-      "CBS는 이날 미 국방부 고위관계자를 인용해 이같이 전했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0bd4f5f2",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/02/2026050207033219065",
-    "title": "택시가 시속 153㎞로 달리다 쾅 '승객 사망'...60대 기사 금고형 집유",
-    "summary": [
-      "제한속도 시속 50㎞인 도로에서 시속 약 153㎞로 과속운전하다 중앙선을 넘어 폐쇄회로(CC)TV 지주대 등을 들이받아 탑승객을 숨지게 한 60대 택시 기사가 금고형 집행유예를 선고받았다.",
-      "2일 뉴시스는 대전지법 형사8단독 이미나 판사가 교통사고처리특례법위반(치사·치상) 혐의로 기소된 A씨(69)에게 금고 1년, 집행유예 2년을 선고했다고 보도했다.",
-      "금고형 집행유예는 일정 기간(유예기간) 동안 수감은 되지 않지만 유예기간 내 재범 시 유예가 취."
+      "광주와 전남은 올해 여름에도 ‘광프리카(광주+아프리카)’의 명맥을 이을 전망이다.",
+      "2일 광주지방기상청에 따르면 광주·전남은 이달부터 7월까지 3개월간 모두 평년보다 기온이 높을 것이란 기상 전망이 나왔다.",
+      "북대서양과 북인도양의 높은 해수면 온도로 우리나라에 고기압성 순환이 강화되면서 고온다습한 남서풍이 유입돼 기온 상승을 부추길 것이라는 게 기상청의 설명이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1bf250f6",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://www.asiae.co.kr/article/2026043010475259796",
-    "title": "\"결제할 때 눈탱이\" 진격의 中트립닷컴…토종 플랫폼은 '기울어진 운동장'",
-    "summary": [
-      "국내 온라인 여행 플랫폼(OTA) 시장이 성장하는 가운데 해외 플랫폼의 공세가 거세지고 있다.",
-      "팬데믹 이후 여행 수요가 회복되며 온라인 예약·구매가 일상화된 틈을 타 해외 플랫폼들이 자본력을 앞세워 국내 시장 공략을 강화하는 모습이다.",
-      "다만 이들 상당수가 국내 규제 적용에서 비켜나 있어 업계에서는 '역차별' 논란도 제기된다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n9911ba70",
+    "id": "n4434b913",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502008600504",
-    "title": "[북한날씨] 차차 흐려져…평안·황해·함경에 비",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260501_0003614523",
+    "title": "울산박물관, 토요문화강좌 '역사 한잔, 와인 한모금' 16일 운영",
     "summary": [
-      "(서울=연합뉴스) 이은정 기자 = 북한은 2일 전 지역이 새벽부터 차차 흐려지겠다고 기상청이 예보했다."
+      "[울산=뉴시스] 안정섭 기자 = 울산박물관은 오는 16일 '역사 한 잔, 와인 한 모금'이라는 주제로 2026년 토요문화강좌 세번째 프로그램을 운영한다고 2일 밝혔다.",
+      "토요문화강좌는 평일 방문이 어려운 시민들의 박물관 관람 기회를 넓히고 신규 관람객 유입을 위해 마련된 주말 특화 프로그램이다.",
+      "일상 속에서 부담 없이 박물관을 찾아 배움과 체험을 함께 즐길 수 있도록 기획됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf0de565c",
+    "id": "nfee7f997",
     "category": "경제",
     "source": "한국경제",
-    "time": "19분 전",
-    "url": "https://www.hankyung.com/article/2026050214307",
-    "title": "주말 나들이 어쩌나…수도권 미세먼지 '나쁨'에 비소식도",
+    "time": "35분 전",
+    "url": "https://www.hankyung.com/article/202605021358i",
+    "title": "나스닥 25000 돌파…골드만 왜 \"조정\" 외치나 [김현석의 월스트리트나우]",
     "summary": [
-      "주말 나들이 어쩌나…수도권 미세먼지 '나쁨'에 비소식도."
+      "나스닥 25000 돌파…골드만 왜 \"조정\" 외치나 [김현석의 월스트리트나우]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nea676fb3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502008400504",
-    "title": "北, 노동절 행사…\"경제 5년계획 첫해 과업부터 무조건 완수\"",
+    "id": "neabdc42e",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "36분 전",
+    "url": "https://www.hankyung.com/article/2026050214567",
+    "title": "유가는 폭등했는데…'석유 공룡' 순이익은 반토막 수준",
     "summary": [
-      "(서울=연합뉴스) 이은정 기자 = 북한은 '5·1절'(노동절) 136주년을 맞아 전국 각지에서 기념행사를 열고 노동당 9차 대회에서 수립된 경제..."
+      "유가는 폭등했는데…'석유 공룡' 순이익은 반토막 수준."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n98ae52cd",
+    "id": "n136d3aa7",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "41분 전",
+    "url": "https://www.hankyung.com/article/202604309676i",
+    "title": "'쇼갈량'은 또 한번 북벌에 성공할까 [이주현의 로그인 e스포츠]",
+    "summary": [
+      "'쇼갈량'은 또 한번 북벌에 성공할까 [이주현의 로그인 e스포츠]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n754d350a",
     "category": "부동산",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260502/133850389/1",
-    "title": "올해 집값 상승률 상위 ‘성북·관악·강서’…15억 이하로 몰렸다",
+    "source": "연합뉴스(경제)",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260430162100051",
+    "title": "부산 3월 '악성 미분양' 3.2% 감소…매매 늘어",
     "summary": [
-      "올해 들어 서울 아파트 매매가격이 2.65% 뛰었다.",
-      "지난해 같은 기간의 두 배 높은 상승률이다.",
-      "‘6억원’ 대출 규제 상한선인 15억원 이하 아파트로 매수세가 몰리면서 서울 집값 상승 흐름이 중저가 지역 중심으로 재편되고 있다."
+      "(부산=연합뉴스) 민영규 기자 = 지난 3월 부산에서 '악성 미분양'으로 불리는 준공 후 미분양 주택이 전월보다 3.2% 감소한 것으로 나타났다..."
     ],
     "chips": [
-      "#부동산",
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "ne48c3747",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260502/133850377/1",
-    "title": "“반도체가 중동전쟁 뚫었다”…수출 5강 도약도 ‘청신호’",
-    "summary": [
-      "인공지능(AI) 특수에 힙입은 반도체 슈퍼사이클 호황이 지속된 것에 힘입어 우리나라 수출이 2개월 연속 월 수출액 800억 달러 돌파라는 신기록을 작성했다.",
-      "정부가 내세운 7400억 달러 달성 및 수출 5강 도약도 청신호가 켜졌다는 진단이다.",
-      "반도체의 경우 역대 최대 수출액을 기록했던 지난달 328억 달러에는 소폭 못미친 319억 달러의 수출액을 기록했지만 2개월 연속 수출 300억 달러 이상 및 13개월 연속 월 역대 최대실적을 기록하며 승승."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n50958f75",
+    "id": "n80a7c07d",
     "category": "경제",
-    "source": "한국경제",
-    "time": "39분 전",
-    "url": "https://www.hankyung.com/article/2026050214267",
-    "title": "[속보] 로이터 \"美국방부, 독일주둔 미군 5000명 철수 추진\"",
+    "source": "연합뉴스(경제)",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260501066500002",
+    "title": "[다음주 경제] 4월 물가 얼마나 올랐나…3월 경상수지도 관심",
     "summary": [
-      "[속보] 로이터 \"美국방부, 독일주둔 미군 5000명 철수 추진\"."
+      "(서울=연합뉴스) 이세원 배영경 한지훈 기자 = 다음주(4∼8일)에는 유가 상승을 반영한 물가 지표가 공개된다.",
+      "국제수지 잠정 통계도 발표된다."
     ],
     "chips": [
       "#뉴스"
@@ -639,20 +627,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "3240건",
+    "trend": "+395%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1290건",
+    "trend": "+95%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "스타트업",
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
