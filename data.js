@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-01 14:13:43
+// 마지막 업데이트: 2026-05-01 15:45:29
 window.NEWS_DB = [
+  {
+    "id": "n51748558",
+    "category": "IT",
+    "source": "christiandaily.co.kr",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kOTBub3U3Yk5Oa0lHWGFzVWs2UzRUR1ZoeUF0UDZPNVBRakdqRDFZcVBFa3phZVM5YnpTLWhNUTBWVGlzajFkRWk2WGQ3UnFCNGh6cjMxTdIBXEFVX3lxTE92dFE4M0tDZXR6VkZVbW9NQklaa3NXdGJYUm43ZEVPV0UxTFphazNQdG1lMEtqNUhzdWZqOE5tX0xpQ1VuZC1VSUFRVGZfU0YxdVZ2NzcwVnRzb09o?oc=5",
+    "title": "반도체 주가 다시 들썩…HBM·AI 수요가 끌어올린 새 사이클",
+    "summary": [
+      "반도체 주가 다시 들썩…HBM·AI 수요가 끌어올린 새 사이클 christiandaily.co.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
   {
     "id": "nf7044eb0",
     "category": "IT",
     "source": "테크M",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03OVUxWF9iT2JGZGhWSU9iS25COHpoZGZqeXZFcWdXTGc5amlIQ2Q5c04zYlh3ZGp4UEZEZ0pnQUNiQXRMczI3am40Y1hyeUdUT01Kd3BHUEpJM0x1MVRHbzhpM0x2UdIBakFVX3lxTE5iRHh2Qmo0RnFFY29NajlHMWN5bkVydDM4UW1sdW80TUpwaGRwVWlSZHVjZXY4V0pJU1BHMDFidE9SVE01RWM2MEUwcWVzekxVRW56WVFwTUhQanFRbjh5ZFdiM2VZUUdVakE?oc=5",
     "title": "삼성전자·SK하이닉스, 1분기 실적 '범용 D램'에서 갈렸다...왜?",
     "summary": [
@@ -20,7 +35,7 @@ window.NEWS_DB = [
     "id": "n6da60682",
     "category": "IT",
     "source": "미디어펜",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MbkhhZXZMT0NCdVNxWks4WG5qd0R0U3Z5cWZ1YUdkM1ZEUDlQazRKY0NJYWR5RVc4N3dGUlJvTU9GWGE0X000QWhDT21OVWdGTVVhTdIBWEFVX3lxTFB4ejlNNWdlRFFNSlpucVBMWXh2Qm0xSXFIZExmZy1aR3hFbVpsdmdFeEhPS3Q0WnFhS3JIaXA5ZHExZEV6em9sdlZqNE5xNEltN2djeGFyYUg?oc=5",
     "title": "[美증시 특징주] 퀄컴 폭등에 반도체 장비주도 급등...엔비디아 AI거품론에 급락",
     "summary": [
@@ -80,7 +95,7 @@ window.NEWS_DB = [
     "id": "n093a8ff1",
     "category": "IT",
     "source": "세계일보",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1razUzRGJhWkl5dHc3azZVRU5qR0xhb05GTFdRUHJ4YXFGLW9DaHdwcDl0UzBUSlpvRUd2M0lxODhYNl9kU2pGXzFuZFhlWjgwT2NjRlg0NDnSAVRBVV95cUxQRzZqaXpjeUhFTEZFRVdRWHpDeEc2THJwZ1k2QzhPMTVzbnFteW0wM19JeUtwdTFKZUttV1RGUUlwNUtrYnVIbXJjeGRudXJfek5NS3I?oc=5",
     "title": "[사이언스프리즘] ‘어쩌면’을 위한 투자",
     "summary": [
@@ -131,21 +146,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n06cf46f8",
-    "category": "IT",
-    "source": "fetv.co.kr",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94T0FwTExTMkdoR2cxb1UwVy1oRXprZU92V1lpUVZIY0N3UFhveFE3cWNpVWl4N3FtZVBZQlByV1phMjlQYy1EQ1hzOVAwc20xNklTcG5GeUZQNHlfQjR3TXdHb1l1SUs1?oc=5",
-    "title": "[반도체 强대强] ⑤삼성전자, 종합반도체 시험대 '파운드리' 수익성 과제",
-    "summary": [
-      "[반도체 强대强] ⑤삼성전자, 종합반도체 시험대 '파운드리' 수익성 과제 fetv.co.kr."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
     ]
   },
   {
@@ -220,21 +220,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "71일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
     "id": "nb04cef68",
     "category": "사회",
     "source": "경기일보",
@@ -291,6 +276,20 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n13cdbe9c",
+    "category": "부동산",
+    "source": "시사저널e",
+    "time": "122일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
+    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
+    "summary": [
+      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -372,267 +371,254 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb737c3f3",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260501/133849660/2",
-    "title": "[동아광장/정소연]인간 전문가가 AI 답변의 검증 기계가 된 현실",
-    "summary": [
-      "“또 AI네.” 대규모언어모델(LLM) 인공지능(AI)의 접근성이 향상되면서, AI에게 간단한 질문을 던지고 받은 답변을 법적 분쟁에 그대로 제출하거나 이용하는 사례가 크게 늘어나고 있다.",
-      "일반인들이 주로 사용하는 챗GPT, 클로드, 제미나이 등의 AI 서비스는 LLM을 기반으로 한다.",
-      "LLM이란 광범위한 인간 언어를 이해하고 번역해 자연어 처리된 텍스트를 생성하는 체계를 말한다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n9acaf294",
+    "id": "n266bbf32",
     "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260501/133850217/1",
-    "title": "“나는 실패했다” 비와이, 9년 만에 힙합 레이블 접었다",
+    "source": "조선일보",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/02/3ULRSZ3IV5FRRL7E3KZK3I5QGQ/",
+    "title": "LG 영양만점 대포 2방, NC 꺾고 2연승",
     "summary": [
-      "래퍼 비와이가 설립 9년 만에 자신의 힙합 레이블 ‘데자부그룹’ 해체한다.",
-      "비와이는 1일 소셜 미디어를 통해 “2017년에 설립한 저의 레이블, 데자부그룹의 활동을 종료한다”고 밝혔다.",
-      "그는 “음악을 하고 랩을 해온 지 10년이 됐고, 제가 선택하는 방향은 항상 옳을 것이라 믿었지만 인생은 생각대로 흘러가지 않았다”며 “사업과 인간관계, 내면의 믿음까지 많은 것이 제가 그려온 방향과 다르게 흘러갔다”고 고백했다.특히 “저는 실패했다."
+      "LG 영양만점 대포 2방, NC 꺾고 2연승."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne108ab6b",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260501/133849662/2",
-    "title": "[광화문에서/유성열]국민의힘에게 가능한 프로젝트 헤일 메리",
-    "summary": [
-      "국민의힘 내부에서 전에 없던 기대감이 부풀어 오르고 있다.",
-      "지방선거가 한 달여 앞으로 다가오자 집토끼가 돌아오면서 지지율 변화 조짐이 나타날 수 있다는 관측 때문이다.",
-      "다시 꿈틀대는 서울 아파트값과 여당이 추진한다는 ‘조작기소 특검’ 역시 야당엔 호재라는 평가다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8986e35c",
+    "id": "n79129c63",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260501_0003614656",
-    "title": "순창 한 도로서 트럭끼리 부딪혀…1명 경상",
+    "source": "조선일보",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/05/02/ZKYFRS7AMNGTHOQMB6HC63QPLE/",
+    "title": "10년 만에 돌아온 여전사",
     "summary": [
-      "[순창=뉴시스]강경호 기자 = 1일 오후 4시께 전북 순창군 유등면의 한 도로에서 5t 트럭과 13t 트럭이 서로 부딪혔다.",
-      "이 사고로 13t 트럭 운전자 A(60대)씨가 경상을 입고 병원으로 옮겨졌다.",
-      "경찰은 정확한 사고 경위를 조사 중이다."
+      "10년 만에 돌아온 여전사."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "ncf2816e9",
+    "id": "nfbc16e8a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/05/02/4GPWCVRN4ZFTFLUOEH2XYVNN2A/",
+    "title": "[오늘의 경기] 2026년 5월 2일",
+    "summary": [
+      "[오늘의 경기] 2026년 5월 2일."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf49219a3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/05/02/FFHBM4QOYBC2TCCSDD2RQWMCCE/",
+    "title": "무명의 초보 감독이냐, 스타 출신 베테랑 감독이냐",
+    "summary": [
+      "무명의 초보 감독이냐, 스타 출신 베테랑 감독이냐."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0b670af3",
     "category": "사회",
     "source": "동아일보",
     "time": "7분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260501/133849655/2",
-    "title": "[고양이 눈]그림 위에 핀 봄",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260502/133850313/1",
+    "title": "“죽어도 안 빠지는 2kg?”…김사랑이 밝힌 ‘오후 5시 이후 금식’의 위력",
     "summary": [
-      "겨우내 혼자 담벼락을 지키던 나뭇잎 그림 위로, 진짜 봄이 슬며시 돌아왔습니다.",
-      "나뭇가지 끝마다 초록 잎이 돋아나며 이제는 그림뿐 아니라 나무도 봄을 채워 갑니다.―서울 용산구 청파동에서."
+      "배우 김사랑이 20년째 변함없는 몸매를 유지하는 비결로 오후 다섯 시 이후 금식을 제안했다.28일 김사랑은 자신의 유튜브 채널을 통해 “죽어도 안 빠지는 살이 있는데 이번 기회에 2kg을 싹 빼보겠다”며 실전 관리 계획을 공개했다.영상 속 김사랑은 제작진과 다이어트에 대해 대화를 나눴다.",
+      "제작진의 “PD랑 같이 2kg 빼기”라는 제안에 김사랑은, “지금 3kg로 될까? 4kg는 빼야 하는 거 아니냐”고 웃으며 농담을 던졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4611b821",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/01/MNRTQNRXGVRGMOLEMFRDEYRVGE/",
-    "title": "바가지면 어떠냐, 세상 소중했다...장두성이 롯데 살렸다, SSG에 연장 접전 신승 [인천 현장]",
+    "id": "n3feed102",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260502/133850310/1",
+    "title": "이나영, 원빈과 꾸린 ‘꽉 찬 냉장고’ 처음 공개했다",
     "summary": [
-      "[인천=스포츠조선 김용 기자] 세상 가장 소중한 바가지 안타! 롯데 자이언츠가 연장 접전 끝에 SSG 랜더스를 물리치고 모처럼 만에 연승을 달렸다.",
-      "롯데는 1일 인천SSG랜더스필드에서 열린 SSG와의 경기에서 연장 10회 터진 장두성의 극적 결승타에 힘입어 10대7로 승리했다.",
-      "경기 초반은 SSG의 흐름이었다."
+      "배우 이나영이 ‘신비주의’를 잠시 내려놓고 소탈한 일상을 공유했다.1일 공개된 유튜브 채널 ‘일일칠’의 ‘필릭스의 스페셜 냉터뷰’ 티저 영상에는 배우 이나영이 게스트로 출연했다.MC인 그룹 ‘스트레이 키즈’ 멤버 필릭스와 만난 이나영은 ‘닮은꼴 남매설’을 인정하며 함께 안무를 소화하는 등 소탈한 매력을 선보였다.특히 이날 방송에서는 이나영의 냉장고가 최초로 공개됐다.식재료가 가득 채워진 모습에 필릭스가 “혼자 사는 건 아니니까”라며 남편 원빈을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8415755c",
+    "id": "n65fb92b7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260502/133850307/1",
+    "title": "[오늘 날씨]연휴 이튿날 전국 흐림 …큰 일교차 유의",
+    "summary": [
+      "5월 징검다리 연휴의 이튿날이자 토요일인 2일은 전국이 대체로 흐리고 내륙은 일교차가 15도 안팎으로 커지겠다.",
+      "기상청은 1일 예보에서 “전날 늦은 밤부터 오전 10시께 서해안에는 가시거리 200m 미만의 짙은 안개가 예상된다”며 “수도권과 충남 내륙, 전라 내륙, 경남 서부 내륙에도 가시거리 1㎞ 미만 안개가 끼는 곳이 있겠다”고 밝혔다.특히 영종대교·인천대교·서해대교 등 해안 교량과 강·호수 인접 도로에서는 안개가 더 짙어질 수 있어 차량."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n298b1cd9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502000300072",
+    "title": "유가급등에도 못웃는다…美석유메이저 중동생산 타격에 실적급감",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 엑손모빌, 셰브런 등 미국의 주요 석유업체들이 미·이란 전쟁에 따른 에너지 가격 급등에도 불구하고 지난 1분..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92f34ce3",
     "category": "사회",
     "source": "뉴시스",
     "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260501_0003614655",
-    "title": "이란인들 “불안 속에 체념…전쟁 재개 기다리는 상황”",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614670",
+    "title": "4월 영국 제조업 PMI 53.7·2.7P ↑…\"중동전쟁에 공급차질 심화\"",
     "summary": [
-      "[서울=뉴시스]이재준 기자 = 미국과 이란 간 종전협상이 난항을 겪는 가운데 이란인들은 불안과 체념 속에서 전쟁 재개를 기다리고 있다고 CNN이 1일 전했다.",
-      "CNN은 많은 이란 국민과 국제사회의 기대에도 이란인들이 이날 전쟁 재개 위협이 임박했다고 느끼고 있다고 보도했다.",
-      "테헤란에서 문자 메시지를 통해 CNN과 접촉한 이란인들은 미국이 전쟁을 다시 시작할 것으로 예상하고 있으며 더 큰 파괴가 닥칠 수밖에 없다는 현실을 받아들이고 있다고 심경을."
+      "[서울=뉴시스]이재준 기자 = 영국 경기동향을 나타내는 2026년 4월 제조업 구매관리자 지수(PMI 개정치)는 53.7을 기록했다.",
+      "BBC와 RTT 뉴스, 마켓워치, 인베스팅 닷컴은 1일(현지시간) S&P 글로벌/CIPS 발표를 인용, 4월 제조업 PMI가 전월 51.0에서 2.7 포인트 크게 상승했다고 전했다.",
+      "제조업 PMI 개정치는 속보치 53.6에서 0.1 포인트 상향 조정했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n206dcfda",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/02/2026050122202413915",
+    "title": "손흥민 또 빠진다, 감독도 예고한 로테이션... 빡빡한 일정에 또 리그 일정 '패스'",
+    "summary": [
+      "대한민국 공격수 손흥민(34·LAFC)이 다시 한 번 결장할 것으로 보인다.",
+      "이번에도 타이트한 일정으로 인한 선수 보호 차원이다.",
+      "LAFC는 3일 오전 10시30분(한국시간) 미국 샌디에이고에 위치한 스냅드래곤 스타디움에서 샌디에이고 FC와 2026 미국프로축구(MLS) 서부 콘퍼런스 11라운드 맞대결을 펼친다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "nbff72631",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "42분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/02/2026050123250293420",
+    "title": "'성적 부진' 경질 감독 이례적 인터뷰, 美서 화제 \"리더라면 끝까지 책임져야\"→\"존경받아 마땅\" 폭풍 찬사",
+    "summary": [
+      "성적 부진으로 지휘봉을 내려놓게 된 롭 톰슨(62) 필라델피아 필리스 전 감독이 마지막 순간까지 '리더의 책임감'을 강조하며 인상적인 모습을 보였다.",
+      "필라델피아 구단은 지난 4월 29일(한국시간) 톰슨 감독의 경질을 전격 발표했다.",
+      "지난 2022년 6월 조 지라디 전 감독의 뒤를 이어 지휘봉을 잡았던 톰슨 감독은 이로써 약 4년 만에 팀을 떠나게 됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n08a2720d",
+    "id": "n68d6633d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "44분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260502/133850284/1",
+    "title": "대만 동부 근해서 규모 6.1 강진…“올해 최대 여진 주의”",
+    "summary": [
+      "대만 동부 해역에서 1일 규모 6.1 강진이 발생해 타이베이 수도권을 포함한 북부 지역에서도 강한 진동이 감지됐다.중앙기상서에 따르면 이날 오후 8시39분(한국시간 9시39분)께 지진이 대만 이란현 동북동쪽 38.7㎞ 해역을 강타했다.진앙은 북위 24.9도, 동경 122.08도이고 진원의 깊이는 98.3㎞로 관측됐다.이번 지진으로 이란현 난아오, 신주현 관시, 난터우현 허환산, 화롄현 옌랴오 등지에서 최대 진도 4가 관측됐으며 타이베이와 신베이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n062691f0",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "45분 전",
+    "url": "https://www.hankyung.com/article/202604308962i",
+    "title": "\"말 안 했을 뿐인데 사기?\"…침묵이 '거짓말' 되는 순간 [조대환의 영미계약법 스케치]",
+    "summary": [
+      "\"말 안 했을 뿐인데 사기?\"…침묵이 '거짓말' 되는 순간 [조대환의 영미계약법 스케치]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb129e720",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260501065700071",
-    "title": "\"미국인들 '이란전쟁 당장 끝내야''싸우더라도 압박해야' 반반\"",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국인들 사이에서 이란과의 전쟁을 어떻게든 당장 끝내야 한다는 의견과 다시 싸우더라도 계속 압박해야 한다는..."
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n65d9638b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "24분 전",
-    "url": "https://www.asiae.co.kr/article/2026050122493001853",
-    "title": "김진태·박상수, 삼척 공동공약 발표…\"수소·의료·관광 3대 산업으로 대전환\"",
-    "summary": [
-      "김진태 강원특별자치도지사 후보와 박상수 삼척시장 후보가 삼척의 미래를 바꿀 대규모 신산업 청사진을 내걸고 '원팀' 행보에 나섰다.",
-      "두 후보는 1일 삼척시 근덕면 수소공장 부지에서 기자회견을 열고 삼척을 수소 에너지의 메카이자 첨단 의료 거점, 해양관광 1번지로 도약시키기 위한 핵심 공동공약을 발표했다.",
-      "그동안 지역 발전을 위해 긴밀히 협력해 온 두 후보는 '함께 만들어온 사람들이 확실하게 책임지고 마무리하겠다'."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "na2040335",
+    "id": "n20f34925",
     "category": "사회",
     "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260501_0003614643",
-    "title": "'노노 갈등' 번진 성과급 논란…LGU+ 노조 \"삼성 노조, 비겁한 책임 돌리기\"",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614669",
+    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
     "summary": [
-      "[서울=뉴시스]심지혜 기자 = LG유플러스 노동조합이 삼성전자 노조를 향해 날 선 비판을 쏟아냈다.",
-      "전날 이재명 대통령이 \"(일부 노조의) 과도한 요구가 다른 노동자한테도 피해를 준다'는 경고성 발언에 \"LG유플러스를 보고 하는 얘기\"라고 주장하자, \"책임 돌리기\"라며 강한 유감을 표했다.",
-      "삼성전자 노사의 성과급 갈등이 예상하지 못했던 새로운 노노 갈등으로 튀는 양상이다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n26970253",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "30분 전",
-    "url": "https://www.hankyung.com/article/2026050113037",
-    "title": "'부부 사망' 의왕 아파트 화재 원인은…\"가스 폭발 가능성 커\" [종합]",
-    "summary": [
-      "'부부 사망' 의왕 아파트 화재 원인은…\"가스 폭발 가능성 커\" [종합]."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nf86a6a8c",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "35분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/01/2026050122170030641",
-    "title": "'반이민' 트럼프 아들, 남미 전통차로 돈 번다?…불매 움직임도",
-    "summary": [
-      "도널드 트럼프 미국 대통령의 아들 배런 트럼프가 에너지 음료 시장 진출을 앞둔 가운데 트럼프 정부가 강경한 이민 단속 정책으로 라틴계를 압박해온 점이 거론되며 남미 전통 음료를 활용해 사업을 하는 것이 모순이라는 지적이 나오고 있다.",
-      "지난 4월 24일(현지 시간) 미국 매체 데일리비스트, 뉴욕포스트 등 외신에 따르면 배런이 이사로 참여 중인 허브차 스타트업 '솔로스 예르바 마테 주식회사(SOLLOS Yerba Mate Inc.)'는 오는 5월."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n28872b9a",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "36분 전",
-    "url": "https://www.asiae.co.kr/article/2026050122364097197",
-    "title": "CJ ENM, 일본서 'IP 스튜디오' 설립…67조 시장 공략",
-    "summary": [
-      "CJ ENM은 일본 TBS, U-NEXT 홀딩스와 합작법인 '스튜디오 모노와'를 설립한다고 1일 밝혔다.",
-      "이날 서울 마포구 상암동 CJ ENM 센터에서 체결식을 진행했다.",
-      "스튜디오 모노와는 원천 IP 발굴 및 투자부터 드라마 제작, 글로벌 유통, 2차 저작물 및 부가 사업까지 이어지는 사업 구조를 갖춘다."
+      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
+      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
+      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7d0685f9",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260501065200063",
-    "title": "세종시 대단지 아파트 화재로 정전…주민 9명 승강기에 갇혀",
-    "summary": [
-      "(세종=연합뉴스) 이주형 기자 = 1일 오후 8시 2분께 세종시 조치원읍의 한 아파트 단지(1천430여 세대) 내 화재로 전기 공급이 끊겨 주민..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n2a671ffb",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260501065100071",
-    "title": "美국방부, 앤트로픽 뺀 주요 AI 업체들과 기밀업무 협약",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 국방부(전쟁부)가 자사의 인공지능(AI) 기술을 미국 내 감시 혹은 자율살상무기에 사용할 수 없도록 ..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n05212c6d",
+    "id": "nb4c643a0",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "51분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/01/2026050122110596883",
-    "title": "백악관 \"이란 적대행위 종료\" 주장…전쟁권한법 무력화?",
+    "source": "뉴시스",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20260501_0003614661",
+    "title": "전현무, 빵 좋아한 여친 언급 \"많이 먹었다\"",
     "summary": [
-      "미국 백악관이 이란과의 교전이 사실상 종료된 상태라고 주장하면서 1일(현지 시간) 만료되는 전쟁권한법상 60일 시한을 무력화했다.",
-      "도널드 트럼프 행정부가 의회의 승인 절차를 우회하려는 전략으로 해석된다.",
-      "1일 뉴시스에 따르면 CNN 등은 익명의 백악관 고위 관계자가 \"2월28일 시작된 적대행위는 종료됐다\"고 밝혔다고 보도했다."
+      "[서울=뉴시스]이재훈 기자 = 방송인 전현무가 과거 연애를 연상시키는 발언으로 화제를 모았다.",
+      "지난 1일 방송된 MBN·채널S 맛집 예능물 '전현무계획3' 29회에서는 전현무가 게스트 황재균, 방송인 곽튜브와 함께 경북 문경으로 '먹트립'을 떠나는 모습이 그려졌다.",
+      "이날 전현무는 '오픈런' 맛집으로 알려진 유명 제과점으로 이동하던 중 \"빵을 많이 먹느냐\"는 황재균의 질문에 \"빵은 여자친구 있을 때 많이 먹는다\"고 답해 눈길을 끌었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n95797af1",
+    "id": "n0b512dc3",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "58분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260501030952001",
-    "title": "'지선 판세 영향 미칠라'…국힘 '친윤' 보선 공천 우려 목소리(종합2보)",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260501067800053",
+    "title": "서산영덕고속도로서 다중 추돌사고로 1명 사망",
     "summary": [
-      "(서울=연합뉴스) 김연정 박수윤 이율립 기자 = '미니 총선'이라 불리는 6·3 국회의원 재·보궐 선거에 윤석열 정부의 '친윤(친윤석열) 핵심'..."
+      "(상주=연합뉴스) 김용민 기자 = 1일 오후 9시 50분께 경북 상주시 내서면 서산영덕고속도로에서 다중 추돌 사고가 발생해 1명이 숨지고 6명이..."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   }
 ];
@@ -642,20 +628,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "3110건",
+    "trend": "+375%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
