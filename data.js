@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-02 06:56:58
+// 마지막 업데이트: 2026-05-02 08:19:01
 window.NEWS_DB = [
   {
     "id": "nbc11dd08",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XYlBrRTBaLUtKUThzMjBneDhwV2JPeXZnUDdNcXJ2U2QyVnhRVF9XbTNHelBCS3pFc1VmeHItQUZhTmlkeTFyMEQtQjFfcXZ2MUhxNHB0SW8wZ9IBXkFVX3lxTE5EOHEtVjdxRU9HQWFLWUtWZGVHQ2hwVnpJb3diRmpNaVFTQURfZ3ZfaDdTb2ZjZnpPSUhhLWZTdnVqRDRiSXNfM2phT1pNMjYzdEgtckE2ZTZZZEZHeWc?oc=5",
     "title": "\"꿩 대신 닭\" 화웨이 AI 칩 中 시장 장악…엔비디아 고사하나",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n51748558",
     "category": "IT",
     "source": "christiandaily.co.kr",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kOTBub3U3Yk5Oa0lHWGFzVWs2UzRUR1ZoeUF0UDZPNVBRakdqRDFZcVBFa3phZVM5YnpTLWhNUTBWVGlzajFkRWk2WGQ3UnFCNGh6cjMxTdIBXEFVX3lxTE92dFE4M0tDZXR6VkZVbW9NQklaa3NXdGJYUm43ZEVPV0UxTFphazNQdG1lMEtqNUhzdWZqOE5tX0xpQ1VuZC1VSUFRVGZfU0YxdVZ2NzcwVnRzb09o?oc=5",
     "title": "반도체 주가 다시 들썩…HBM·AI 수요가 끌어올린 새 사이클",
     "summary": [
@@ -123,7 +123,7 @@ window.NEWS_DB = [
     "id": "nbc723bfb",
     "category": "IT",
     "source": "네이트",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwNGVTajNrV1BYcmI1eGhsQ0JYNEpCZThCSkc2WW1mSXpZaGE5S2RtaTl3ajd1NXFPOUFBM280UFFueG1fRF9lY1BRQTVlMzVKbEJr?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -148,10 +148,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5515141b",
+    "category": "사회",
+    "source": "매일일보",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pT0VEQTR0MVR5YzBTeTBXTEtmUzczX2hiYlQ2cEQ2aXM4Mk1Ha2Vvb1VxYm5oRExPRG12WkI0UmhoY21hdGQxczEzdVdLOVI3WXYtYmZ5UzZpZEg0SXFaaFlFZU0?oc=5",
+    "title": "고용노동부 진주지청, 일자리 수요데이 구직자·기업 연결로 지역 고용 희망",
+    "summary": [
+      "고용노동부 진주지청, 일자리 수요데이 구직자·기업 연결로 지역 고용 희망 매일일보."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n6da43448",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "16일 전",
+    "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Nd1h1WWlBUlFwZ0Etb1UyWHZJX3FGTEN4bmpxcTlOeXZ4TGtWVl9iSHBDblNfYU9pMlhkaFltZUlQbUFtMll2OGNqNFFfSjZKaUd0Z05NSC03c3J6N0hkTkdfT3YwajJ4V1lPXw?oc=5",
     "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상",
     "summary": [
@@ -162,10 +177,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n4c5a625c",
+    "category": "경제",
+    "source": "지디넷코리아",
+    "time": "54일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SkdGTHBDcEJabzJPODVTaFAyTUdNX05HSDlpVmdkdjVRUGVrRkpPVjE5dEhLaGgtU3cwb2dkV1lpRjdWbkhYVEY0TTMzSEZ4d05rVlFB?oc=5",
+    "title": "원·달러 환율 1499.2원까지…한은 \"과도한 변동성 안정화 조치 실시\"",
+    "summary": [
+      "원·달러 환율 1499.2원까지…한은 \"과도한 변동성 안정화 조치 실시\" 지디넷코리아."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "54일 전",
+    "time": "55일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
     "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
@@ -176,24 +205,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n15f5f447",
-    "category": "경제",
-    "source": "지디넷코리아",
-    "time": "58일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
-    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
-    "summary": [
-      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "nbc92ef7c",
     "category": "부동산",
     "source": "한국부동산뉴스",
-    "time": "71일 전",
+    "time": "72일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
     "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
     "summary": [
@@ -205,26 +220,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "72일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nb04cef68",
     "category": "사회",
     "source": "경기일보",
-    "time": "77일 전",
+    "time": "78일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
     "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
     "summary": [
@@ -239,7 +238,7 @@ window.NEWS_DB = [
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "78일 전",
+    "time": "79일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
     "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
@@ -254,7 +253,7 @@ window.NEWS_DB = [
     "id": "n1cfe1d94",
     "category": "스포츠",
     "source": "v.daum.net",
-    "time": "86일 전",
+    "time": "87일 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1WVNBb05CNUg3X0hUM2ZJTkRZeDVjY3E0YnZLaGhjT0FXX294UFFibE5aTU1IaE4yTF96VnhlQlZzU1lnNVRLTVN4Y0JIWEE?oc=5",
     "title": "K리그 선수들 \"최저연봉 2700만원, 4대 스포츠 꼴찌\"",
     "summary": [
@@ -268,7 +267,7 @@ window.NEWS_DB = [
     "id": "nca3295db",
     "category": "IT",
     "source": "네이버 프리미엄콘텐츠",
-    "time": "105일 전",
+    "time": "106일 전",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcU1MVTVyQkxVNVRpaDdELWFWNDNNdzExVXNBOUFXdVBhWF8yM2xubGFoYmx2NXN0bF85NlBrOTYyQ1pLYXh0QWxCRDZma2U1Zmxhb0hXSld5VkhTemhIMzFEWVJ1QXliZ2xGZmlJVlJjanZSRWlJQ1pFLXh1VkR2c3FKZVlaZDQ?oc=5",
     "title": "한국은행이 진짜로 돈을 풀었다고요? RP·통화승수 ‘한국 망한다’ 서사의 진실",
     "summary": [
@@ -283,7 +282,7 @@ window.NEWS_DB = [
     "id": "n13cdbe9c",
     "category": "부동산",
     "source": "시사저널e",
-    "time": "122일 전",
+    "time": "123일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
     "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
     "summary": [
@@ -297,7 +296,7 @@ window.NEWS_DB = [
     "id": "nb36dbf94",
     "category": "사회",
     "source": "서울특별시",
-    "time": "182일 전",
+    "time": "183일 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
     "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
     "summary": [
@@ -360,277 +359,274 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na47ec0d2",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151511",
-    "title": "[위클리 IT템] 애플·삼성 말고 뭐 더 없나? 개성 강한 모바일 제품 3종",
-    "summary": [
-      "국내 스마트폰 시장은 삼성과 애플이 나눠 갖는 구도가 오래됐다.",
-      "하지만 그 틈새로 중국 브랜드들이 하나둘 제품을 밀어 넣고 있다.최근 국내에 출시됐거나 출시를 앞둔 제품 3종을 모았다.",
-      "공통점은 범용이 아니라 특정 니즈에 집중한다는 것이다."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n92b57fca",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003614863",
-    "title": "AI로 다시 만나는 '전 연인'…\"정서적 안정\" vs \"현실 방해\" 의견 대립",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 중국에서 이별을 겪은 청년들이 인공지능(AI)으로 전 연인의 복제본을 만드는 트렌드가 확산되고 있다.",
-      "2일 홍콩 사우스차이나모닝포스트(SCMP)는 중국의 '전 연인 복제 기술'이 논쟁을 낳고 있다고 보도했다.",
-      "해당 기술이 감정 치유를 위한 새 접근법이라고 평가하는 사람도 있지만, 사생활 침해나 정서적 의존을 우려하는 의견도 제기됐다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n3a6f9a0e",
-    "category": "스포츠",
+    "id": "n3af1b0ce",
+    "category": "사회",
     "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://www.asiae.co.kr/article/2026050217184719778",
+    "title": "민경선 후보, 백석동 업무빌딩 ‘글로벌 첨단 산학융합센터’로 실질적 추진",
+    "summary": [
+      "더불어민주당 민경선 고양시장 후보의 핵심 공약인 '백석동 업무빌딩 첨단 산학융합센터 조성'이 글로벌 대학 간의 협력을 발판 삼아 구체적이고 실질적인 추진 궤도에 올랐다.",
+      "민경선 후보는 그동안 시청사 이전 정치적 논란과 정책 번복으로 방치되어온 백석동 요진업무빌딩을 고양시의 미래 성장 동력인 '산학융합 캠퍼스'로 전환하겠다는 비전을 제시해 왔다.",
+      "특히 지난달 27일 민 후보가 지켜보는 가운데 체결된 한국항공대학."
+    ],
+    "chips": [
+      "#정책",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n4253b3b6",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.asiae.co.kr/article/2026050215543681336",
-    "title": "성남시, 세종대와 미래 인재 양성 '맞손'…4차 산업 특별도시 가속화",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614707",
+    "title": "대전시, 제104주년 어린이날 행사…공연 등 프로그램 열려",
     "summary": [
-      "경기 성남시가 세종대학교와 손을 잡고 미래 첨단 산업을 이끌 창의 인재 양성과 지역 동반 성장을 위한 본격적인 행보에 나섰다.",
-      "성남시는 2일 시청 제1회의실에서 신상진 성남시장과 엄종화 세종대학교 총장 등 주요 관계자들이 참석한 가운데 '미래 인재 양성 및 동반 성장을 위한 업무협약'을 체결했다고 밝혔다.",
-      "이번 협약은 미래 첨단 산업을 이끌 창의적 인재를 양성하고, 지역 사회의 지속 가능한 발전을 도모하기 위해 마."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n29fff3bd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003614896",
-    "title": "성유리 쌍둥이 딸 공개…공주 드레스 깜찍",
-    "summary": [
-      "[서울=뉴시스]전재경 기자 = 그룹 핑클 출신 배우 성유리가 쌍둥이 딸의 근황을 전했다.",
-      "성유리는 2일 소셜미디어에 쌍둥이 딸의 모습이 담긴 사진을 게재했다.",
-      "사진 속 두 딸은 각각 보라색과 민트색 포인트가 들어간 이른바 공주 드레스를 입고 산책에 나선 모습이다."
+      "[대전=뉴시스]곽상훈 기자 = 대전시는 2일 대전광역시어린이회관과 함께 '제104주년 어린이날 기념행사'를 열었다.",
+      "기념식은 아동권리헌장 낭독, 모범어린이 및 아동복지 유공자 표창, 어린이날 노래 제창 등으로 진행됐다.",
+      "'2026년 아이사랑 가족사랑 축제'와 연계해 열린 이번 행사는 가족 레크리에이션, 어린이 체험활동, 각종 공연 및 어린이 뮤지컬 등 다양한 프로그램으로 구성됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf0085922",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502033500530",
-    "title": "[부고] 조기호(SBS 보도본부 지식콘텐츠IP팀 차장)씨 부친상",
-    "summary": [
-      "[부고] 조기호(SBS 보도본부 지식콘텐츠IP팀 차장)씨 부친상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na51490cd",
-    "category": "IT",
+    "id": "nd8eb466d",
+    "category": "경제",
     "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://www.asiae.co.kr/article/2026050215492373984",
-    "title": "이란전, 북중러에 '전략 학습장'…美 군사력 시험대",
+    "time": "3분 전",
+    "url": "https://www.asiae.co.kr/article/2026050217154515159",
+    "title": "우크라, 4월 러 석유시설 21회 타격…정유량 17년 만 최저",
     "summary": [
-      "이란 전쟁이 중국, 러시아, 북한 등 미국의 주요 적대국들에 미군의 전쟁 수행 능력과 한계를 실시간으로 평가할 기회를 제공하고 있다고 월스트리트저널(WSJ)이 1일(현지시간) 보도했다.",
-      "보도에 따르면 이들 국가는 이번 전쟁을 통해 인공지능(AI) 기반 정밀 공습 등 미국의 신형 무기 운용을 관찰하는 동시에, 미사일 재고 소진 속도 등을 면밀히 분석하고 있다.",
-      "이번 전쟁에서 특히 주목되는 대목은 이란의 저가 드론이 미국의."
+      "우크라이나가 올해 들어 최대 수준의 공세로 러시아의 석유 가공 산업을 집중 타격한 것으로 나타났다.",
+      "블룸버그통신은 2일(현지시간) 양국의 공개 발언을 바탕으로 집계한 결과, 우크라이나가 지난 4월 한 달 동안 러시아 석유 시설을 최소 21차례 공격했다고 보도했다.",
+      "정유시설과 석유 수출 터미널, 파이프라인 등이 주요 타깃이었다."
     ],
     "chips": [
-      "#AI"
+      "#수출"
     ]
   },
   {
-    "id": "n032a9ca0",
+    "id": "n67f6925d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003614893",
-    "title": "전국사격대회 남자 일반부 50m 3자세 단체전서 한국新",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614946",
+    "title": "국힘 \"李 '공소취소 특검'은 죄 지우개 특검…침묵, 법안 지시 주체 시인\"(종합)",
     "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 제1회 NH농협은행배 전국사격대회 남자 일반부 50m 3자세 단체전과 여자 일반부 50m 복사 본선 개인전에서 한국 신기록이 나왔다.",
-      "대한사격연맹은 2일 \"창원국제사격장에서 열리는 전국사격대회 이틀 차인 지난 1일 남녀 종목에서 한국 신기록이 각각 수립됐다\"고 밝혔다.",
-      "50m 3자세는 무릎쏴(슬사)·엎드려쏴(복사)·서서쏴(입사) 세 가지 자세로 각각 20발씩 총 60발을 1시간45분 안에 쏘아 점수를 겨루는 종목."
+      "[서울=뉴시스]김지훈 기자 = 국민의힘은 2일 더불어민주당에서 발의한 '공소취소 특검법'에 대해 '이재명 죄 지우개 특검'이라고 했다.",
+      "이재명 대통령이 관련 입장 요구에 침묵하는 것에 대해서는 \"법안 지시 주체가 본인이라는 점을 시인하는 것\"이라고 했다.",
+      "장동혁 대표는 페이스북에 \"공소취소 특검은 이재명 죄 지우개 특검\"이라며 \"지우려 하는 범죄가 무려 12건이다."
     ],
     "chips": [
-      "#뉴스"
+      "#정책",
+      "#정치"
     ]
   },
   {
-    "id": "ne99ec0eb",
+    "id": "n02f74e6f",
     "category": "사회",
     "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260502/133850891/1",
-    "title": "日의 막장 가족…18살 아들은 아버지, 아버지는 아내 폭행해 체포",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260502/133850975/1",
+    "title": "‘尹접견’ 전광훈, 보석 후 매주 집회…“계엄은 대통령 권한”",
     "summary": [
-      "일본에서 아버지를 여러 차례 폭행해 부상을 입힌 18세 아들이 체포되고, 아버지도 아내를 폭행한 사실이 드러나 같이 체포되는 사건이 발생했다.2일 홋카이도 문화방송에 따르면 홋카이도 삿포로시 미나미구에서 “아들에게 20대 정도 맞았다”는 신고가 접수돼 자칭 회사원인 18세 남성이 상해 혐의로 체포됐다.그는 1일 오후 11시 40분쯤 자택에서 동거 중인 자칭 회사원인 아버지(48)의 얼굴을 주먹으로 때려 부상을 입힌 혐의를 받는다.아버지는 얼굴이."
+      "서울서부지법 난동 사태 배후로 지목돼 구속됐다가 보석으로 풀려난 전광훈 사랑제일교회 목사가 광화문 집회에 참석해 윤석열 전 대통령의 계엄을 옹호했다.전 목사는 최근 윤 전 대통령을 접견하기도 했다.전 목사는 2일 오후 서울 종로구 동화면세점 앞 대한민국바로세우기국민운동본부 주최로 열린 광화문 국민대회 연단에 서 “우리나라는 (과거) 계엄령으로 나라를 일으켰다”고 주장했다.전 목사는 “헌법 77조에 있다.",
+      "나라가 어려울 때 비상계엄을 할 수 있다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n6bb8e263",
-    "category": "IT",
+    "id": "n3c287815",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003614904",
-    "title": "용인시 어린이날 대축제…시청 광장서 '가족 나들이'",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614942",
+    "title": "청주 '응급실 뺑뺑이'…충북 정치권 \"응급체계 개편\" 한목소리(종합)",
     "summary": [
-      "[용인=뉴시스] 이준구 기자 = 경기 용인시가 어린이날을 앞둔 2일, 시청 야외광장에서 '어린이날 대축제'를 개최해 봄 날씨 속에 수많은 시민이 휴일을 즐겼다.",
-      "축제는 바이올리니스트 장한샘의 연주와 K-팝 어린이 댄스 공연으로 막을 올렸다.",
-      "이어 ▲뮤지컬 '간지럼빵 대소동' ▲가족 뮤지컬 '구름빵' ▲지상작전사령부 군악대·의장대 공연 등이 이어졌다."
+      "[청주=뉴시스] 이도근 기자 = 충북 청주에서 산모가 응급 분만할 병원을 찾지 못해 부산까지 이송되면서 결국 태아가 숨지는 사고가 발생했다.",
+      "지역 정치권에서는 반복되는 '응급실 뺑뺑이' 문제를 비판하면서 지역 응급의료 시스템 전반의 개편이 필요하다고 한목소리를 냈다.",
+      "신용한 더불어민주당 충북지사 후보는 2일 페이스북에 \"대한민국의 중심이라는 충북에서 산모가 아이를 낳기 위해 부산까지 가야 하는 2026년 오늘날 벌어지는 현실에 너무나 참담함을."
     ],
     "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nab729648",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/02/2026050215373292237",
-    "title": "컬러프린터로 '돈 복사'…유튜브 따라한 30대 실형",
-    "summary": [
-      "유튜브 영상을 보고 제작한 위조지폐를 편의점에 건넨 30대 남성이 징역 1년 6개월 실형을 선고받았다.",
-      "2일 뉴시스에 따르면 의정부지법 남양주지원 형사1부(부장판사 김국식)는 통화위조·위조통화행사·위조통화행사미수로 기소된 A씨(34)에 대해 최근 이같이 판결했다.",
-      "A씨는 별다른 수입 없이 지내다 유튜브에서 위폐 영상을 시청, 컬러프린터를 구입해 5만원권 지폐 6매를 위조한 혐의로 재판에 넘겨졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n882f5072",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/05/02/FSOMCRMYSRFM3AJZ3SLRES45NQ/",
-    "title": "아카데미상 “AI 출연자·작가 수상 못해“…규정 명문화",
-    "summary": [
-      "아카데미상 “AI 출연자·작가 수상 못해“…규정 명문화."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nfc563ee4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260502/133850878/2",
-    "title": "부산서 신호위반 좌회전 차량에 오토바이 운전자 숨져",
-    "summary": [
-      "부산에서 신호위반 차량에 치인 오토바이 운전자가 사망하는 사고가 발생했다.",
-      "2일 부산 서부경찰서에 따르면 전날 오후 9시 53분경 서대신동 보문교차로에서 50대 남성이 몰던 승용차가 신호를 위반해 좌회전했다.이 차량은 신호에 따라 정상 주행 중인 30대 남성인 오토바이 운전자를 들이받았고, 이 남성은 병원으로 옮겨졌지만 끝내 숨졌다.",
-      "사고 당시 승용차 운전자는 음주 상태는 아니었던 것으로 파악됐다.경찰은 구체적인 사고 경위를 조사 중이다."
-    ],
-    "chips": [
+      "#정치",
       "#의료"
     ]
   },
   {
-    "id": "n7ecf7493",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502033200007",
-    "title": "SSG 베니지아노, 장두성 머리 맞혀 '헤드샷 자동 퇴장'",
-    "summary": [
-      "(인천=연합뉴스) 이대호 기자 = 모처럼 호투를 펼치던 프로야구 SSG 랜더스 외국인 투수 앤서니 베니지아노가 속구로 타자 머리를 맞혀 퇴장당했..."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n515e9759",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/02/MEYDIYZQGFRWEOJVGRRDCZBYG4/",
-    "title": "'41세' 이다희, 뼈말라 몸매인데..깜짝 놀랄 '성난 복근' 포착",
-    "summary": [
-      "[OSEN=선미경 기자] 배우 이다희가 ‘뼈말라’ 몸매에도 선명한 복근을 자랑했다.이다희는 지난 1일 자신의 SNS에 여러 장의 사진을 공개하며 근황을 알렸다.공개된 사진에서 이다희는 군살 없이 탄탄하고 늘씬한 몸매를 자랑해 시선을 집중시켰다.",
-      "흰색 민소매 크롭 티셔트와 편안한 바지를 매치한 이다희는 깔끔하게 머리카락을 묶어 동안 비주얼을 완성했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na433fe94",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/02/G44GEYJQGQ2WMMLDME3GEZTDMM/",
-    "title": "'손흥민 또 쉰다?' \"누가 이런 일정 짰나\" LAFC 감독, 강행군에 분노",
-    "summary": [
-      "[OSEN=우충원 기자] LAFC의 마크 도스 산토스 감독이 빡빡한 일정에 대해 공개적으로 불만을 터뜨렸다.",
-      "챔피언스컵과 리그를 병행하는 상황에서 선수단 부담이 한계에 이르렀다는 판단이다.LAFC는 3일(이하 한국시간) 샌디에이고 원정에서 2026시즌 MLS 경기를 치른다.",
-      "불과 사흘 전 톨루카와의 북중미축구연맹(CONCACAF) 챔피언스컵 4강 1차전을."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n3a2ed9f1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260502/133850875/1",
-    "title": "키키, 데뷔 첫 팬 콘서트 포스터 공개…5色 매력 발산",
-    "summary": [
-      "그룹 키키(KiiiKiii)가 데뷔 첫 팬 콘서트를 앞두고 기대감을 높였다.소속사 스타쉽엔터테인먼트는 2일 2026 키키 팬 콘서트 ‘키키 페스티벌(KiiiKiii FesTiiival)’의 개인 및 단체 포스터를 공개했다.공개된 단체 포스터 속 키키는 형형색색의 스타일링으로 키치한 분위기를 자아냈다.",
-      "여기에 별 모양이 더해진 콘서트 로고는 활기차고 에너지 넘치는 축제를 연상케 해 설렘을 더했다.개인 포스터에서는 키키의 5색 개성이 더욱 돋보였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85b2dd3b",
+    "id": "n7e8dc6ca",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260502/133850870/1",
-    "title": "경찰, ‘마약왕’ 박왕열 상선 ‘청담사장’ 오늘 구속 영장 신청",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260502/133850972/1",
+    "title": "태국서 검거된 ‘청담사장’ 국내 송환…경찰, 구속영장 신청",
     "summary": [
-      "‘마약왕’ 박왕열에게 마약을 공급한 상선(윗선)인 ‘청담사장’ 최모(51)씨에 대해 경찰이 구속영장을 신청한다.경기남부경찰청은 마약류관리법 위반 혐의를 받는 최씨에 대해 2일 구속영장을 신청할 방침이라고 밝혔다.그는 2019년부터 필로폰 22㎏ 등 100억원 상당 마약류를 국내 밀반입하거나 유통한 혐의를 받는다.경찰은 지난달 필리핀 마약 총책 박왕열을 집중 수사하는 과정에서 최씨가 박왕열에게 마약을 공급한 공급책이라는 단서를 확보했다."
+      "경찰이 일명 ‘텔레그램 마약왕’ 박왕열의 마약공급책에 대한 구속영장을 신청했다.경기남부경찰청 광역수사단 마약·국제범죄수사대는 2일 오후 4시 20분께 특정범죄가중처벌 등에 관한 법률 위반(향정) 혐의로 최모 씨(50)에 대한 구속영장을 신청했다.최 씨에 대한 영장실질심사(구속 전 피의자 심문) 일정은 향후 수원지법에서 결정할 예정이다.그는 2019년부터 텔레그램에서 ‘청담사장’ 등의 별명으로 활동하면서 필로폰과 엑스터시 등 시가 22㎏ 규모의."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0e1d7340",
+    "id": "n161f5f18",
     "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614880",
+    "title": "노동절에 빵집 찾은 프랑스 총리에…노조 \"정치적 쇼\" 반발",
+    "summary": [
+      "[서울=뉴시스]정우영 인턴 기자 = 세바스티앙 르코르뉘 프랑스 총리가 노동절에 영업 중인 빵집을 방문해 바게트를 구매하면서, 노동절 의무 휴업을 주장하는 노동조합과 정부 사이의 갈등이 격화하고 있다.",
+      "2일(현지시각) 영국 BBC 등 외신에 따르면 르코르뉘 총리는 지난 1일 프랑스 중남부 생쥘리앙샤프퇴유의 한 빵집을 찾아 \"적어도 4개는 사야겠다\"며 바게트를 구매한 뒤 인근 꽃집에서 꽃 몇 송이까지 구입했다.",
+      "르코르뉘 총리의 이번 방문은 일상생활."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4ffb5e34",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/02/MZSGIZTEGFSGMZRXMI3WMZRRGM/",
+    "title": "이지훈♥아야네 21개월 딸, 엄마 둘째 임신 알았다 “엄마만 찾아”",
+    "summary": [
+      "[OSEN=강서정 기자] 가수 겸 뮤지컬 배우 이지훈 아내 아야네가 둘째 임신 근황을 전했다.",
+      "아야네는 지난 1일 “입덧 라이프ing… with 내 천사.",
+      "둘째 임신하면 첫째가 안다는게…."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf3860e87",
+    "category": "스포츠",
     "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/02/2026050215190024731",
-    "title": "아이 출산 후 변기에 방치…끝내 숨지게 한 10대 엄마, 법정구속",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/02/2026050216555037307",
+    "title": "좌완 공도 잘 치는 이정후, 타율 0.298→어느새 NL 타율 18위 진입! 하지만 SF는 4연패",
     "summary": [
-      "화장실에서 출산 후 아이를 변기에 방치해 숨지게 한 10대 엄마가 법정구속 됐다.",
-      "2일 뉴스1에 따르면 수원지법 제11형사부(부장판사 송병훈)는 아동학대치사 혐의로 기소된 10대 A양에게 장기 2년6개월에 단기 2년의 실형을 선고했다.",
-      "아울러 40시간의 아동학대 치료 프로그램 수강도 명령했다."
+      "이정후(28·샌프란시스코 자이언츠)가 리그 정상급 좌완 투수를 상대로 안타를 뽑아내며 타율 고공행진을 이어갔으나, 팀은 4연패 수렁에 빠졌다.",
+      "이정후는 2일(한국시간) 미국 플로리다주 세인트피터즈버그의 트로피카나필드에서 열린 '2026 메이저리그(MLB)' 탬파베이 레이스와의 원정 경기에 7번 타자 중견수로 선발 출전해 3타수 1안타를 기록했다.",
+      "전날 필라델피아 필리스와의 더블헤더 2차전(4타수 2안타)에 이어 2경기 연속 안타를 생산한 이정후."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0ad366a4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502038500083",
+    "title": "中, '민간기업 부패'도 처벌 강화…일각서 \"경영 위축\" 우려도",
+    "summary": [
+      "(베이징=연합뉴스) 정성조 특파원 = 시진핑 국가주석 주도로 '반(反)부패' 드라이브를 이어가고 있는 중국이 국가·공공 부문을 넘어 민간 기업 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf9048637",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/02/2026050215044152313",
+    "title": "'김천에 대역전극 제물' 김기동 감독, '실점 빌미' 야잔에 오히려 \"심리적으로 힘들 것, 잘 위로하겠다\" [상암 현장]",
+    "summary": [
+      "김기동(55) FC서울 감독이 김천 상무에 역전패한 아쉬운 소감을 전했다.",
+      "서울은 2일 오후 2시 서울월드컵경기장에서 열린 김천 상무와의 '하나은행 K리그1 2026' 11라운드 홈 경기에서 2-3으로 역전패했다.",
+      "리그 2패째를 당한 서울은 승점 25(8승1무2패)로 선두를 유지했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51c82ca6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260502/133850969/1",
+    "title": "“미세먼지 보통인데 왜 하늘은”…끈적끈적 송홧가루 ‘풀풀’",
+    "summary": [
+      "미세먼지가 다소 줄어들자 ‘접착성 먼지’인 송홧가루가 기승을 부리고 있다.2일 기상청 위탁관측기관인 고려대기환경연구소에 따르면 최근 청주 등 중부지방의 미세먼지(PM10), 초미세먼지(PM2.5)는 ‘보통’ 수준이지만 총부유먼지(TSP)만 ‘나쁨’ 수준으로 측정되는 특징이 나타나고 있다.",
+      "이런 데이터를 만드는 건 송홧가루다.연구소가 4월18일부터 지난 1일까지 2주간 분석한 먼지농도·시정(視程) 데이터를 보면 총부유먼지 농도가 200㎍/㎥를 초."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n83b80805",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502037300001",
+    "title": "조경태, 장동혁 앞서 \"비상계엄 잘못…張연호하는 분 집에 가라\"",
+    "summary": [
+      "(서울=연합뉴스) 노선웅 기자 = 국민의힘의 지난해 8월 전당대회에서 장동혁 대표와 경쟁했던 조경태 의원이 2일 장 대표 지지자들과 충돌했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n385bf83f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502038300504",
+    "title": "[북한단신] 사회주의애국청년동맹 제11차 대회기념 종합공연",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n54b7bc8c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/national/regional/2026/05/02/5RIHMYMRYJHQZDD7W2AJMLFVYA/",
+    "title": "경찰, ‘태국 송환’ 박왕열 마약 공급책에 구속영장 신청키로",
+    "summary": [
+      "경찰, ‘태국 송환’ 박왕열 마약 공급책에 구속영장 신청키로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n80dc07de",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260502038100073",
+    "title": "日·베트남 총리 회담…\"광물 공급망·원유 조달 협력 확인\"",
+    "summary": [
+      "(도쿄=연합뉴스) 경수현 특파원 = 다카이치 사나에 일본 총리와 레 민 흥 베트남 총리가 2일 베트남 수도 하노이에서 만나 주요 광물의 공급망 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6b172a50",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/culture-life/2026/05/02/YRKMOROCOBEZNOLTKXB3TCTVTM/",
+    "title": "미군과 시가전까지 벌였다 ‘대구 6연대 반란사건’ [호준석의 역사전쟁]",
+    "summary": [
+      "미군과 시가전까지 벌였다 ‘대구 6연대 반란사건’ [호준석의 역사전쟁]."
     ],
     "chips": [
       "#뉴스"
@@ -643,20 +639,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
