@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-02 15:37:50
+// 마지막 업데이트: 2026-05-02 16:36:08
 window.NEWS_DB = [
+  {
+    "id": "n9a605dd3",
+    "category": "IT",
+    "source": "소셜밸류",
+    "time": "18시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5POHdKUERwZlhqeGswREJ6STJFX0p6M2xfczlGTVNWOTkzcW9EbTZRaTNtY09kdktqSzQ0eDIzTzN4NTFMcGFuZ2ZERm9SclZCelE2d3l4ZndqWmptTUV3dlZiSdIBbEFVX3lxTE9ZS3NDa2UxS1A3TFhiRnNZejhjYi1hemRqRnpZTGwxX18wVHpxWTV3dlRoZ2tlSmpRMHRuTjkyNDVpUE8zQ0xEMW9CZG5VVWliSGNibGQ1OTNRNzFINVdZSXBkVEpRYUR5dkozWg?oc=5",
+    "title": "′우상향′ 신기록 쓰는 삼성전자·SK하이닉스…K-반도체 성장 신화는 계속된다",
+    "summary": [
+      "′우상향′ 신기록 쓰는 삼성전자·SK하이닉스…K-반도체 성장 신화는 계속된다 소셜밸류."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
   {
     "id": "nbc11dd08",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XYlBrRTBaLUtKUThzMjBneDhwV2JPeXZnUDdNcXJ2U2QyVnhRVF9XbTNHelBCS3pFc1VmeHItQUZhTmlkeTFyMEQtQjFfcXZ2MUhxNHB0SW8wZ9IBXkFVX3lxTE5EOHEtVjdxRU9HQWFLWUtWZGVHQ2hwVnpJb3diRmpNaVFTQURfZ3ZfaDdTb2ZjZnpPSUhhLWZTdnVqRDRiSXNfM2phT1pNMjYzdEgtckE2ZTZZZEZHeWc?oc=5",
     "title": "\"꿩 대신 닭\" 화웨이 AI 칩 中 시장 장악…엔비디아 고사하나",
     "summary": [
@@ -14,21 +30,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n51748558",
-    "category": "IT",
-    "source": "christiandaily.co.kr",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kOTBub3U3Yk5Oa0lHWGFzVWs2UzRUR1ZoeUF0UDZPNVBRakdqRDFZcVBFa3phZVM5YnpTLWhNUTBWVGlzajFkRWk2WGQ3UnFCNGh6cjMxTdIBXEFVX3lxTE92dFE4M0tDZXR6VkZVbW9NQklaa3NXdGJYUm43ZEVPV0UxTFphazNQdG1lMEtqNUhzdWZqOE5tX0xpQ1VuZC1VSUFRVGZfU0YxdVZ2NzcwVnRzb09o?oc=5",
-    "title": "반도체 주가 다시 들썩…HBM·AI 수요가 끌어올린 새 사이클",
-    "summary": [
-      "반도체 주가 다시 들썩…HBM·AI 수요가 끌어올린 새 사이클 christiandaily.co.kr."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
     ]
   },
   {
@@ -162,20 +163,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4c5a625c",
-    "category": "경제",
-    "source": "지디넷코리아",
-    "time": "54일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SkdGTHBDcEJabzJPODVTaFAyTUdNX05HSDlpVmdkdjVRUGVrRkpPVjE5dEhLaGgtU3cwb2dkV1lpRjdWbkhYVEY0TTMzSEZ4d05rVlFB?oc=5",
-    "title": "원·달러 환율 1499.2원까지…한은 \"과도한 변동성 안정화 조치 실시\"",
-    "summary": [
-      "원·달러 환율 1499.2원까지…한은 \"과도한 변동성 안정화 조치 실시\" 지디넷코리아."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
@@ -187,6 +174,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "n15f5f447",
+    "category": "경제",
+    "source": "지디넷코리아",
+    "time": "59일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
+    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
+    "summary": [
+      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
+    ],
+    "chips": [
+      "#환율"
     ]
   },
   {
@@ -309,10 +310,166 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n63595b94",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/03/GJSDAOJYHFSTGZLCGVSDQNJXHA/",
+    "title": "5월 육성콜업 1순위였는데… 2군에서도 사라진 비밀병기 파이어볼러 \"무리한 것 같다\"",
+    "summary": [
+      "[대구=스포츠조선 정현석 기자]삼성 라이온즈 파이어볼러 유망주 진희성(20).",
+      "등번호 115번을 당분간 달아야 할 것 같다.",
+      "캠프 당시 좋은 구위로 5월이 되면 바로 콜업될 것 같았던 151㎞ 파이어볼러."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n320a9403",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003614122",
+    "title": "인도 왕실 소장의 17세기 '천문 슈퍼컴퓨터' 경매 나왔다",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 유하영 인턴기자 = 17세기 인도 왕실이 소장했던 초대형 천문 관측 기구 '아스트롤라베'가 경매에 나왔다.",
+      "정밀한 계산 기능과 화려한 장식으로 당대의 슈퍼컴퓨터로 불리는 유물이다.",
+      "BBC에 따르면 해당 아스트롤라베가 지난달 29일(현지 시간) 런던 경매에 출품됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5b5f435",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/05/03/HBSDEMZYMNRDOMZSGRSWIZBYHE/",
+    "title": "\"김혜성 마이너 강등될 수 있다\" 대체 왜? 충격 전망, OPS .480 '방출감' 타자한테 밀릴 수 있다니",
+    "summary": [
+      "[OSEN=이상학 객원기자] 주전 유격수 무키 베츠의 부상 복귀가 가까워지면서 LA 다저스 내야진에 긴장감이 감돌고 있다.",
+      "베츠의 부상으로 콜업 기회를 잡으며 활약 중인 김혜성(27)이 다시 마이너리그로 내려갈 것이라는 전망까지 나온다.",
+      "지난달 6일(이하 한국시간) 오른쪽 복사근 염좌로 부상자 명단에 오른 베츠는 이달 중순 복귀를 목표로 하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n938839da",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/03/GJRGMOJZMVRTEOBQMYZTGZDCMM/",
+    "title": "김서현, 본격 재조정 들어갔다! 퓨처스 '첫 등판'→희망과 숙제 모두 보여줬다 [SC 퓨처스]",
+    "summary": [
+      "[스포츠조선 이종서 기자] 김서현(21·한화 이글스)이 본격적으로 재조정에 들어갔다.",
+      "김서현은 2일 서산구장에서 열린 두산 베어스와 퓨처스 경기에 8회 등판해 2이닝 2안타 1볼넷 2탈삼진 3실점으르 기록했다.",
+      "2-6으로 지고 있던 8회초 마운드에 올라온 김서현은 선두타자 김문수를 유격수 땅볼로 잡아냈고, 임종성을 삼진 처리했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba6956fd",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "29분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/03/2026050223245196111",
+    "title": "\"케인 엉망진창이었다\" 포체티노, 토트넘 시절 '최악의 습관' 폭로... \"공격 4옵션 시절, 내가 직접 개조\"",
+    "summary": [
+      "과거 토트넘을 지휘했던 마우리시오 포체티노() 미국 축구대표팀 감독이 해리 케인(바이에른 뮌헨)의 과거 '나쁜 습관'을 언급하며 그의 성공 비결을 밝혔다.",
+      "영국 '더선'은 1일(현지시간) \"포체티노 감독이 팟캐스트 '스틱 투 풋볼'에 출연해 케인이 세계적인 스트라이커로 성장하기까지의 일화를 공개했다\"고 보도했다.",
+      "포체티노 감독은 2014년 팀 셔우드 전 감독의 후임으로 토트넘 지휘봉을 잡았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n943b350d",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260503001100009",
+    "title": "아르헨, 1분기 광물 수출 '사상 최대'…전년 동기 대비 81.6%↑",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나 정부가 올해 1분기 광물 수출이 사상 최대치를 기록했다고 밝혔다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nd4e12f4b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260502_0003615023",
+    "title": "대만 총통, 阿유일 수교국 에스와티니 방문 성공…中 반발",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 라이칭더(賴清德) 대만 총통이 아프리카 유일 수교국 에스와티니에 도착했다.",
+      "지난달 예정됐다가 취소된 방문 일정이 열흘 만에 이뤄진 것이다.",
+      "대만은 중국 압박으로 에스와티니 방문이 무산됐다고 밝힌 바 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n59815742",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "35분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003613080",
+    "title": "\"기필코 뺀다\" 비만주사 오래 쓰면…대사기능 망친다",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 위고비나 마운자로 등 전 세계적으로 널리 쓰이는 비만치료제 글루카곤유사펩타이드(GLP)-1 계열 주사를 장기 투여할 경우 전신 대사 기능이 불안정해질 수 있다는 연구 결과가 나왔다.",
+      "GLP-1 계열 비만치료제는 식욕을 억제해 체중 감량 효과를 낸다.",
+      "그러나 약을 장기간 사용할수록 지방뿐 아니라 근육량이 함께 감소하고 영양 불균형이 생기는 부작용이 꾸준히 보고돼 왔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n143dad4e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "36분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003614013",
+    "title": "부산 소상공인 범죄예방 지원 확대…조례 개정",
+    "summary": [
+      "[부산=뉴시스]원동화 기자 = 부산시의회가 범죄에 취약한 소상공인의 안전을 지원하기 위한 제도적 근거를 마련했다.",
+      "3일 부산시의회에 따르면 김효정(북구2) 시의원과 전원석(사하구2) 시의원이 발의한 '부산시 소상공인 보호 및 지원에 관한 조례' 일부개정조례안이 최근 본회의를 통과했다.",
+      "개정안은 소상공인 사업장의 범죄 예방을 위한 물품과 장비 지원 근거를 신설한 것이 핵심이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd87f0b0a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260503000800072",
+    "title": "美서 기소된 '마약 카르텔 연루의혹' 멕시코 주지사 직무 물러나",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 마약 밀매에 관여한 혐의로 미국 법무부가 기소한 멕시코 시날로아주의 루벤 로차(76) 주지사가 직무에서 물러..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n77a11ba4",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "6분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/03/2026050223081673230",
     "title": "'충격' 복싱 경기 중 최루탄 '펑' 생지옥 된 경기장... \"선수도, 심판도 숨을 못 쉰다\" 황당 테러 전말은?",
     "summary": [
@@ -325,26 +482,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n00fc7e0e",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003615016",
-    "title": "손태영 아들, 중고차 직접 몰고 등교…긴장감에 땀 뻘뻘",
-    "summary": [
-      "[서울=뉴시스] 이종희 기자 = 배우 손태영이 17세 아들 룩희의 운전 연습 현장을 공개했다.",
-      "2일 손태영의 유튜브 채널에는 '엄마 손태영과 아들의 뉴저지 드라이브(룩희 얼굴 공개)'라는 제목의 영상이 게재됐다.",
-      "손태영은 아들의 축구 경기를 위해 이른 아침부터 움직였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n49dd963e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260503000500109",
     "title": "수단 정부군·반군 드론 교전 격화…\"민간인 5명 사망\"",
     "summary": [
@@ -355,25 +496,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6dbe9c58",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/03/MUYDSYZUG42WIMZTGQYDGM3FGA/",
-    "title": "“대타 나갈 땐 조급했는데…” 역시 박아놓고 쓰니 다르네! 이진영, 홈런 포함 3안타 4타점 대폭발 [오!쎈 대구]",
-    "summary": [
-      "[OSEN=대구, 손찬익 기자] 이진영이 원맨쇼로 팀을 살렸다.프로야구 한화 이글스 외야수 이진영이 맹타를 휘두르며 팀의 3연패 탈출을 이끌었다.이진영은 지난 2일 대구삼성라이온즈파크에서 열린 삼성 라이온즈와의 원정 경기에 1번 중견수로 선발 출장해 6타수 3안타 4타점 2득점으로 맹활약했다.",
-      "7회에는 삼성 사이드암 임기영을 상대로 시즌 첫 홈런까지 터뜨리."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n98dbbcad",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260502049600009",
     "title": "미니소에 수백ｍ 대기줄…'내수침체' 아르헨에 해외브랜드 속속",
     "summary": [
@@ -387,7 +513,7 @@ window.NEWS_DB = [
     "id": "n139e914b",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/world/2026/05/03/2026050300105421580",
     "title": "버핏은 관람석에…버크셔 새 선장 아벨 첫 주총, 현금 590조원 투자처 주목",
     "summary": [
@@ -400,24 +526,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nccdd90a0",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260503000300009",
-    "title": "이라크, 북서부 검문소 통해 시리아로 원유 수출",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 이라크가 육로를 통해 시리아에 원유를 수출했다고 이라크 INA통신이 1일(현지시간) 보도했다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
     "id": "nb4400477",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/03/2026050213254266831",
     "title": "안우진 충격 고백 \"160㎞ 그날, 옛날 느낌 아니었다→이제 감각 돌아온 느낌\"",
     "summary": [
@@ -430,72 +542,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc5e282ad",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502049800007",
-    "title": "백승호, 잉글랜드 2부 최종전 전반 투입…배준호는 선발 출전",
-    "summary": [
-      "(서울=연합뉴스) 오명언 기자 = 잉글랜드 프로축구 챔피언십(2부) 버밍엄 시티의 국가대표 미드필더 백승호가 시즌 최종전에 이른 시간 교체 투입..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n55e32590",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "36분 전",
-    "url": "https://www.newsis.com/view/NISX20260429_0003611856",
-    "title": "'출산 후 20kg 감량' 허니제이…\"아직 '야식' 못 끊어\"",
-    "summary": [
-      "[서울=뉴시스]서영은 인턴 기자 = 댄서 허니제이가 출산 후 혹독한 다이어트 성공담과 함께 여전한 야식 사랑에 대한 고민을 털어놓았다.",
-      "지난 27일 채널A ‘건강한 식단’에 출연한 허니제이는 \"첫째 임신 당시 체중이 19~20kg 정도 늘었다\"며 \"생애 처음 보는 몸무게 숫자에 몸이 무거워 뛰는 것조차 힘들었다\"고 회상했다.",
-      "그는 빠른 복귀를 위해 \"아예 날짜를 미리 정해두고 스스로를 압박하며 다이어트를 했다\"며 끈질긴 노력 끝에 약 18kg."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n7b6731f8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "37분 전",
-    "url": "https://www.newsis.com/view/NISX20260503_0003615025",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-    "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f94123f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "37분 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003615015",
-    "title": "유승준, 팬과 Q&A 예고…\"군대 질문도 가능\"",
-    "summary": [
-      "[서울=뉴시스] 이종희 기자 = 가수 유승준이 팬들과의 소통을 예고했다.",
-      "2일 유튜브 채널 '유승준'에는 '저 그때 진짜 무너졌었습니다.",
-      "유승준 Q&A 시작합니다'라는 제목의 영상이 공개됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n06a232fc",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260502/133851199/1",
     "title": "시흥 자원순환시설 화재 3시간 40여분 만에 진화…인명 피해 없어",
     "summary": [
@@ -511,7 +561,7 @@ window.NEWS_DB = [
     "id": "nb846be58",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260502225756",
     "title": "\"GPT 5.5, 미토스보다 CTF 해킹 능력 우수\"",
     "summary": [
@@ -520,22 +570,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "n35ac4704",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/02/2026050222465424456",
-    "title": "신지♥문원 결혼식 현장 포착…'코요태' 완전체 모여 축하",
-    "summary": [
-      "그룹 '코요태' 신지와 가수 문원의 결혼식 현장 모습이 온라인에 공개됐다.",
-      "스타일리스트 김우리는 2일 SNS(소셜미디어)에 신지의 결혼식 현장 사진과 영상 등을 게재했다.",
-      "김우리는 \"오늘 이 세상에서 가장 아름다운 신부, 사랑하는 우리 동생 신지야, 너의 결혼식을 너무너무 축하한다\"며 \"평생을 딱 오늘처럼만 아름답고 행복하길 오빠도, 언니도 언제나 응원하고 기도할게\"라고 적었다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   },
   {
@@ -556,7 +590,7 @@ window.NEWS_DB = [
     "id": "n949de74e",
     "category": "부동산",
     "source": "ZDNet Korea",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260502222443",
     "title": "日무라타 \"2026회계연도 서버용 MLCC 수요 최대 90% 상승 전망\"",
     "summary": [
@@ -571,7 +605,7 @@ window.NEWS_DB = [
     "id": "n4345ed36",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260502/133851146/1",
     "title": "안세영 앞세운 여자 배드민턴, 인도네시아 꺾고 세계단체선수권 결승행",
     "summary": [
@@ -585,39 +619,11 @@ window.NEWS_DB = [
     "id": "na77370d7",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260502/133851143/1",
     "title": "예멘 “아덴만서 유조선 납치…위치 파악 후 추적 중”",
     "summary": [
       "예멘 해안 경비대는 1일(현지시간) 오전 아덴만 인근인 남부 샤브와 해역에서 신원 미상의 무장 괴한들이 유조선을 납치해 소말리아 방향으로 끌고 갔다고 발표했다.신화통신에 따르면 예멘 친정부 성향 해안경비대는 이날 성명에서 “남부 해역에서 유조선 ‘M/T 유레카’가 납치됐다는 보고를 접수했다”고 확인했다.로이터통신은 예멘 해안경비대가 유조선의 위치를 파악했으며 유조선을 추적하고 회수에 필요한 조치를 취하고 선원들의 안전을 보장하기 위한 노력이 진."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1c0ac89d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026050219467",
-    "title": "\"쓰레기통 뒤지더니\"… 광장시장, 이번엔 '얼음 재사용' 논란",
-    "summary": [
-      "\"쓰레기통 뒤지더니\"… 광장시장, 이번엔 '얼음 재사용' 논란."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e8b0d2c",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026050219757",
-    "title": "\"이란 '선 종전, 후 핵협상' 제안…트럼프 '단칼 거절'\"",
-    "summary": [
-      "\"이란 '선 종전, 후 핵협상' 제안…트럼프 '단칼 거절'\"."
     ],
     "chips": [
       "#뉴스"
@@ -630,20 +636,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "3240건",
+    "trend": "+395%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "삼성전자",
+    "mentions": "1290건",
+    "trend": "+95%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
