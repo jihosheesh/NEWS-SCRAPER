@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-02 17:37:03
+// 마지막 업데이트: 2026-05-02 18:42:40
 window.NEWS_DB = [
   {
     "id": "nbc11dd08",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XYlBrRTBaLUtKUThzMjBneDhwV2JPeXZnUDdNcXJ2U2QyVnhRVF9XbTNHelBCS3pFc1VmeHItQUZhTmlkeTFyMEQtQjFfcXZ2MUhxNHB0SW8wZ9IBXkFVX3lxTE5EOHEtVjdxRU9HQWFLWUtWZGVHQ2hwVnpJb3diRmpNaVFTQURfZ3ZfaDdTb2ZjZnpPSUhhLWZTdnVqRDRiSXNfM2phT1pNMjYzdEgtckE2ZTZZZEZHeWc?oc=5",
     "title": "\"꿩 대신 닭\" 화웨이 AI 칩 中 시장 장악…엔비디아 고사하나",
     "summary": [
@@ -162,6 +162,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n95ae41aa",
+    "category": "사회",
+    "source": "mstoday.co.kr",
+    "time": "43일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByQS15ZDAzVEhUZlZ4UmlfMEx5MHJtUWkyb1Fad05LeVJ5R2I0Y092aVlmWXRCSmUteTE3TGJkcnQ1S21lQnM1di1FekFOOUxXTHQ3SFlTVWhaUTZnakdwSFV6dFNydHA4dkY3eg?oc=5",
+    "title": "AI가 연결한 일자리 17만건…“취업 보조 넘어 경력관리 플랫폼으로”",
+    "summary": [
+      "AI가 연결한 일자리 17만건…“취업 보조 넘어 경력관리 플랫폼으로” mstoday.co.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
@@ -202,22 +218,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#정책"
-    ]
-  },
-  {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "73일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -309,10 +309,148 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5f99a698",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/03/2026050303372567975",
+    "title": "정샘물, 딸의 타사 화장품 사랑에 분노 \"내 브랜드 제일 무시해\"",
+    "summary": [
+      "메이크업 아티스트 정샘물이 사춘기 딸의 화장품 취향에 서운함을 드러냈다.",
+      "실제 정샘물 딸의 파우치 속에는 엄마 브랜드가 아닌 타사 제품이 가득했고 정샘물은 \"엄마 화장품을 가장 무시하는 사람이 우리 딸\"이라고 토로했다.",
+      "2일 방영된 MBC '전지적 참견 시점' 396회에서는 메이크업 아티스트 정샘물이 두 딸과 함께하는 아침 일상을 공개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0601bcfb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/03/MNRDIZLEHBRDCNRWMEYTCMLEGA/",
+    "title": "고척돔 1만 6천 명 앞에서 피어난 브로맨스… 김건희 눈에 ‘초밀착’ 입바람 불어준 양의지 [최규한의 plog]",
+    "summary": [
+      "[OSEN=고척, 최규한 기자] 고척돔을 가득 채운 1만 6천여명 관중들 앞에서 두 남자가 브로맨스를 꽃피웠다.",
+      "포수의 고충을 너무나 잘 아는 두산 안방마님 양의지가 키움 포수 김건희의 눈에 이물질이 들어가자 얼굴을 가까이 대고 '후후' 바람을 불어줬다.",
+      "두 남자의 애틋함에 고척돔에 흐르던 냉정한 승부의 시간은 잠시 멈추고, 훈훈함이 채워졌다.2일 고척스카."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc8a0e009",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260430_0003613541",
+    "title": "\"한국인이 즐겨 먹는데\"…의사들이 꼽은 '암 부르는 한식'은?",
+    "summary": [
+      "[서울=뉴시스]박윤서 인턴 기자 = 암 환자의 식단 관리와 관련해 의료진들이 공통적으로 강조하는 피해야 할 음식이 공개됐다.",
+      "29일 유튜브 '똑똑한스푼'에 출연한 상형철 한의사는 암 환자들이 피해야 할 음식 종류 세 가지를 언급했다.",
+      "첫 번째는 설탕과 정제 탄수화물이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n6b40ec88",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "29분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/03/2026050303105317049",
+    "title": "버핏, 시장 과열 경고…\"도박 심리 최고조, 하루짜리 옵션은 도박\"",
+    "summary": [
+      "워런 버핏 버크셔 해서웨이 회장이 2일(현지시간) \"최근처럼 도박 심리가 강한 시기는 없었다\"고 경고했다.",
+      "버핏은 이날 미국 네브래스카주 오마하에서 열린 버크셔 연례 주주총회 도중 미 경제매체 CNBC에 출연해 최근 시장 참여자들의 투자 행태가 과도하게 단기 수익과 베팅에 치우치고 있다며 이같이 밝혔다.",
+      "버핏은 투자시장을 '도박장이 붙어 있는 교회'에 비유하면서 전통적인 가치투자와 최근 급증한 단기옵션거래, 미래예측 베팅사이트 거래를 구별해 설."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a8a6b57",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/05/03/Y7VZHG43LFBZNEBOA45PXDEJ7U/",
+    "title": "선거 직전 ‘닥치고 공소취소’ 왜?… “정청래를 어찌 믿어”",
+    "summary": [
+      "선거 직전 ‘닥치고 공소취소’ 왜?… “정청래를 어찌 믿어”."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7f2d9e45",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/culture-life/music_concert/2026/05/03/KP2MFSJFJBEQVPPARXTALPIIIY/",
+    "title": "풍경이 음악이 되는 곳…솔리테르 콘서트홀에서 만난 행운",
+    "summary": [
+      "베를린 필하모닉 챔버 콘서트가 열리는 공연장을 찾느라 헤멨다.",
+      "숙소 바로 건너편 모차르테움 대학구내라 안심했다.",
+      "구글 지도앱이 가리키는 방향으로 따라갔더니 문이 닫혀 있었다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nebfb0725",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/05/03/6WK3DB34L5E4NF6LCVTET4BG3U/",
+    "title": "“검은 개와 흰 말, 그것은 우리의 암호”",
+    "summary": [
+      "“검은 개와 흰 말, 그것은 우리의 암호”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7cf25e74",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "46분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/03/2026050302373450139",
+    "title": "\"25억→125억으로\" '복권 MC' 박소영 아나운서, 당첨 비결은…",
+    "summary": [
+      "박소영 아나운서가 복권 추첨 '황금손'에 도전하며 남다른 복권 사랑을 드러냈다.",
+      "황금손으로 버튼을 누르는 날 직접 복권까지 구매한 박소영은 \"같은 번호를 여러 장 사는 게 고수들의 꿀팁\"이라고 설명하며 웃음을 자아냈다.",
+      "2일 방영된 MBC '전지적 참견 시점' 396회에서는 박소영 아나운서가 복권 번호를 추첨하는 '황금손'에 도전하는 모습이 그려졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d2b0f2e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260503002200091",
+    "title": "영화 '악마는 프라다를…2', 개봉 첫날 북미 박스오피스 1위",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 영화 '악마는 프라다를 입는다 2'가 개봉 첫날 박스오피스 1위 자리에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nce29b404",
     "category": "사회",
     "source": "머니투데이",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/world/2026/05/03/2026050302274354384",
     "title": "'투자의 귀재' 버핏 \"투자하기 이상적 환경 아냐, 시장가치 고평가\"",
     "summary": [
@@ -328,7 +466,7 @@ window.NEWS_DB = [
     "id": "n7703652c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260503002100082",
     "title": "유럽 '쥐약 이유식' 협박범 체포…\"암호화폐 35억 요구\"",
     "summary": [
@@ -339,57 +477,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9264bfb7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/03/HA3TSNLEG5RDEZDDGY2DMMBVGU/",
-    "title": "손흥민 또 선발 제외, 사실상 확정...\"이건 스캔들\" LAFC 감독 분노 폭발 \"누가 이딴 식으로 일정 짠 거야? 로테이션 돌리겠다\"",
-    "summary": [
-      "[OSEN=고성환 기자] 마크 도스 산토스 LAFC 감독이 다시 한번 작심발언을 터트렸다.",
-      "그가 일정을 배려해 주지 않는 미국 메이저리그사커(MLS) 사무국을 향해 직격탄을 날렸다.LAFC는 3일(이하 한국시간) 미국 샌디에이고의 스냅드래곤 스타디움에서 열리는 2026 미국 MLS 11라운드에서 샌디에이고FC와 맞붙는다.",
-      "현재 LAFC는 승점 20점으로 3."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "nd9384e28",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/03/2026050302174373217",
-    "title": "정샘물, 갱년기에도 젊어지는 이유? '연 1350억 매출'…총 21개국 진출",
-    "summary": [
-      "메이크업 아티스트 겸 사업가 정샘물이 연 매출 1350억 원 규모의 사업 확장 소식을 전했다.",
-      "2일 방영된 MBC '전지적 참견 시점' 396회에서는 메이크업 아티스트 겸 사업가 정샘물이 출연해 최근 일상을 공개했다.",
-      "이날 양세형은 정샘물을 향해 \"더 젊어져서 오셨다\"고 말을 걸었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n027e6d62",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/03/GVRTENDGGZSWKYRZMQ2DMOLCGE/",
-    "title": "5이닝 무실점→헤드샷 퇴장→7실점 와장창, “이제는 잘해줄 때” 경고했는데…순간의 실수로 승리 날렸다 [오!쎈 인천]",
-    "summary": [
-      "[OSEN=인천, 길준영 기자] 프로야구 SSG 랜더스 앤서니 베니지아노가 한순간의 실수로 승리 기회를 날리고 말았다.",
-      "베니지아노는 2일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 롯데 자이언츠와의 경기에 선발등판해 5이닝 3피안타 1사구 3탈삼진 2실점을 기록했다.5회까지 베니지아노의 투구는 거의 완벽에 가까웠다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n6323e761",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260503002000072",
     "title": "\"美스피릿항공 구제협상 막후엔 러트닉 상무장관 역할있었다\"",
     "summary": [
@@ -400,26 +491,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n83c6901d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/02/GFQWINJXHEYWMZBVMMYDEZDDGU/",
-    "title": "'이틀 연속 대포' 술렁이는 한화팬, 이글스에 이런 거포 포수가…, 문동주 강판 직후 장찬희 상대 결승 투런포→3타수3안타 3타점 맹활약",
-    "summary": [
-      "[대구=스포츠조선 정현석 기자]한화 이글스에 거포 포수가 탄생했다.",
-      "한화 포수 허인서가 이틀 연속 홈런포를 가동하며 침체된 팀 분위기를 살렸다.",
-      "허인서는 2일 대구 삼성 라이온즈파크에서 열린 삼성 라이온즈와의 경기에서 팀의 8번 포수로 선발 출전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n645cc677",
     "category": "사회",
     "source": "뉴시스",
-    "time": "43분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260503_0003615027",
     "title": "\"대한항공, 美→필리핀 '투계'용 의심 수탉 운송 중단\"",
     "summary": [
@@ -432,26 +507,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n53be1524",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "44분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/03/2026050223500791753",
-    "title": "\"이 라운드걸이 日 전설의 딸이라고?\" 도쿄돔 발칵 뒤집은 22세 미녀의 정체... 세이부 명포수 장녀였다 '복싱 명경기서 데뷔'",
-    "summary": [
-      "일본 프로복싱 '세기의 일전' 무대에 전직 프로야구 명포수의 딸이 라운드걸로 등장해 화제를 모았다.",
-      "일본 닛칸스포츠는 2일 \"도쿄돔에서 열린 이노우에 나오야와 나카타니 준토의 타이틀 매치에서 탤런트 호소가와 아이린(22)이 라운드걸로 나서 팬들의 시선을 사로잡았다\"고 보도했다.",
-      "아이린은 과거 일본 프로야구 세이부 라이온즈와 소프트뱅크 호크스 등에서 활약한 명포수 호소가와 도루(46)의 장녀다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n6ae5412e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "46분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260502038852082",
     "title": "독일 \"미군 감축 예상한 일…유럽이 안보 더 책임\"(종합)",
     "summary": [
@@ -465,7 +524,7 @@ window.NEWS_DB = [
     "id": "n40786751",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260503001400071",
     "title": "출구 못 찾는 이란戰…트럼프, '美 유가 대응' 카드 제한적",
     "summary": [
@@ -476,26 +535,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1b944f7a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "56분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/05/03/MRRTSOBWGY2GCMJRMU4DGNBUMM/",
-    "title": "'올림픽 트월킹→19금 노출 논란' 캐나다 미녀 스타, 결국 20개월 출전정지...\"내 자유는 제우스도 못 뺏어\" 도핑 검사 불이행 징계에 항의",
-    "summary": [
-      "[OSEN=고성환 기자] '캐나다 미녀 스타' 앨리샤 뉴먼(32)이 은퇴 후 중징계를 피하지 못했다.",
-      "그가 도핑 검사 불이행으로 20개월 출전 정지 처분을 받았다.캐나다 'CBC'는 2일(한국시간) \"올림픽 장대높이뛰기 메달리스트 뉴먼이 도핑 검사 불이행으로 20개월 출전 정지 징계를 받았다.",
-      "그는 2024년 파리 올림픽에서 동메달을 획득한 바 있다\"라고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8a435741",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260430_0003613328",
     "title": "인스타 핫플 된 호주 해안마을…주민들은 '부글부글' 왜?",
     "summary": [
@@ -510,7 +553,7 @@ window.NEWS_DB = [
     "id": "n320a9403",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260430_0003614122",
     "title": "인도 왕실 소장의 17세기 '천문 슈퍼컴퓨터' 경매 나왔다",
     "summary": [
@@ -523,42 +566,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nba6956fd",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/03/2026050223245196111",
-    "title": "\"케인 엉망진창이었다\" 포체티노, 토트넘 시절 '최악의 습관' 폭로... \"공격 4옵션 시절, 내가 직접 개조\"",
-    "summary": [
-      "과거 토트넘을 지휘했던 마우리시오 포체티노() 미국 축구대표팀 감독이 해리 케인(바이에른 뮌헨)의 과거 '나쁜 습관'을 언급하며 그의 성공 비결을 밝혔다.",
-      "영국 '더선'은 1일(현지시간) \"포체티노 감독이 팟캐스트 '스틱 투 풋볼'에 출연해 케인이 세계적인 스트라이커로 성장하기까지의 일화를 공개했다\"고 보도했다.",
-      "포체티노 감독은 2014년 팀 셔우드 전 감독의 후임으로 토트넘 지휘봉을 잡았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd4e12f4b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260502_0003615023",
-    "title": "대만 총통, 阿유일 수교국 에스와티니 방문 성공…中 반발",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 라이칭더(賴清德) 대만 총통이 아프리카 유일 수교국 에스와티니에 도착했다.",
-      "지난달 예정됐다가 취소된 방문 일정이 열흘 만에 이뤄진 것이다.",
-      "대만은 중국 압박으로 에스와티니 방문이 무산됐다고 밝힌 바 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n06a232fc",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260502/133851199/1",
     "title": "시흥 자원순환시설 화재 3시간 40여분 만에 진화…인명 피해 없어",
     "summary": [
@@ -574,7 +585,7 @@ window.NEWS_DB = [
     "id": "nb846be58",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260502225756",
     "title": "\"GPT 5.5, 미토스보다 CTF 해킹 능력 우수\"",
     "summary": [
@@ -589,7 +600,7 @@ window.NEWS_DB = [
     "id": "nb55f9ea1",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260502/133851167/1",
     "title": "주한미군, 美 최신 레이더 센티널 A4 운용 훈련 실시…미 본토 외 첫 배치",
     "summary": [
@@ -603,7 +614,7 @@ window.NEWS_DB = [
     "id": "n949de74e",
     "category": "부동산",
     "source": "ZDNet Korea",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260502222443",
     "title": "日무라타 \"2026회계연도 서버용 MLCC 수요 최대 90% 상승 전망\"",
     "summary": [
@@ -612,20 +623,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#전세"
-    ]
-  },
-  {
-    "id": "n4345ed36",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260502/133851146/1",
-    "title": "안세영 앞세운 여자 배드민턴, 인도네시아 꺾고 세계단체선수권 결승행",
-    "summary": [
-      "여자 단식 ‘최강’ 안세영(삼성생명)을 앞세운 한국 여자 배드민턴 대표팀이 세계단체선수권대회 결승에 진출했다.한국은 2일(한국 시간) 덴마크 호르센스에서 열린 인도네시아와의 제31회 세계여자단체선수권대회(우버컵) 준결승에서 3-1로 이겼다.스페인, 불가리아, 태국을 연파하고 D조 1위로 8강에 진출한 한국은 대만을 잡고 4강에 오른 뒤 인도네시아까지 격파하며 결승에 안착했다.여자 대표팀은 2010년 대회와 2022년 대회에 이어 통산 세 번째."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -641,14 +638,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "환율",
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
