@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-02 18:42:40
+// 마지막 업데이트: 2026-05-02 19:46:33
 window.NEWS_DB = [
+  {
+    "id": "n9a605dd3",
+    "category": "IT",
+    "source": "소셜밸류",
+    "time": "21시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5POHdKUERwZlhqeGswREJ6STJFX0p6M2xfczlGTVNWOTkzcW9EbTZRaTNtY09kdktqSzQ0eDIzTzN4NTFMcGFuZ2ZERm9SclZCelE2d3l4ZndqWmptTUV3dlZiSdIBbEFVX3lxTE9ZS3NDa2UxS1A3TFhiRnNZejhjYi1hemRqRnpZTGwxX18wVHpxWTV3dlRoZ2tlSmpRMHRuTjkyNDVpUE8zQ0xEMW9CZG5VVWliSGNibGQ1OTNRNzFINVdZSXBkVEpRYUR5dkozWg?oc=5",
+    "title": "′우상향′ 신기록 쓰는 삼성전자·SK하이닉스…K-반도체 성장 신화는 계속된다",
+    "summary": [
+      "′우상향′ 신기록 쓰는 삼성전자·SK하이닉스…K-반도체 성장 신화는 계속된다 소셜밸류."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
   {
     "id": "nbc11dd08",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XYlBrRTBaLUtKUThzMjBneDhwV2JPeXZnUDdNcXJ2U2QyVnhRVF9XbTNHelBCS3pFc1VmeHItQUZhTmlkeTFyMEQtQjFfcXZ2MUhxNHB0SW8wZ9IBXkFVX3lxTE5EOHEtVjdxRU9HQWFLWUtWZGVHQ2hwVnpJb3diRmpNaVFTQURfZ3ZfaDdTb2ZjZnpPSUhhLWZTdnVqRDRiSXNfM2phT1pNMjYzdEgtckE2ZTZZZEZHeWc?oc=5",
     "title": "\"꿩 대신 닭\" 화웨이 AI 칩 中 시장 장악…엔비디아 고사하나",
     "summary": [
@@ -14,21 +30,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n51748558",
-    "category": "IT",
-    "source": "christiandaily.co.kr",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kOTBub3U3Yk5Oa0lHWGFzVWs2UzRUR1ZoeUF0UDZPNVBRakdqRDFZcVBFa3phZVM5YnpTLWhNUTBWVGlzajFkRWk2WGQ3UnFCNGh6cjMxTdIBXEFVX3lxTE92dFE4M0tDZXR6VkZVbW9NQklaa3NXdGJYUm43ZEVPV0UxTFphazNQdG1lMEtqNUhzdWZqOE5tX0xpQ1VuZC1VSUFRVGZfU0YxdVZ2NzcwVnRzb09o?oc=5",
-    "title": "반도체 주가 다시 들썩…HBM·AI 수요가 끌어올린 새 사이클",
-    "summary": [
-      "반도체 주가 다시 들썩…HBM·AI 수요가 끌어올린 새 사이클 christiandaily.co.kr."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
     ]
   },
   {
@@ -251,17 +252,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1cfe1d94",
+    "id": "nc05783ad",
     "category": "스포츠",
     "source": "v.daum.net",
-    "time": "87일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1WVNBb05CNUg3X0hUM2ZJTkRZeDVjY3E0YnZLaGhjT0FXX294UFFibE5aTU1IaE4yTF96VnhlQlZzU1lnNVRLTVN4Y0JIWEE?oc=5",
-    "title": "K리그 선수들 \"최저연봉 2700만원, 4대 스포츠 꼴찌\"",
+    "time": "101일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nSk5tVklDWkNwVFg1Z1lFQ3oyeDdmX1A3Q0tieHhmMUQ1U2QzOWN3Zjh3eThGTDFXbmR2ZUlKamdHbkQxME84OGQxT0dzajA?oc=5",
+    "title": "KBO K리그 KBL KOVO KPGA 한 데 모였다…프로스포츠 지속 가능한 성장 기반 논의",
     "summary": [
-      "K리그 선수들 \"최저연봉 2700만원, 4대 스포츠 꼴찌\" v.daum.net."
+      "KBO K리그 KBL KOVO KPGA 한 데 모였다…프로스포츠 지속 가능한 성장 기반 논의 v.daum.net."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
@@ -309,26 +310,199 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5f99a698",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/03/2026050303372567975",
-    "title": "정샘물, 딸의 타사 화장품 사랑에 분노 \"내 브랜드 제일 무시해\"",
+    "id": "n8e36036b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/03/MYYDSNBWMFSDKZJYHBSDGNJQME/",
+    "title": "\"계약 후 책임감에… 생각이 많았다\" 결국 \"마음의 문제\" 해법은 \"무심타법\" 돌아온 한화의 4번타자[현장인터뷰]",
     "summary": [
-      "메이크업 아티스트 정샘물이 사춘기 딸의 화장품 취향에 서운함을 드러냈다.",
-      "실제 정샘물 딸의 파우치 속에는 엄마 브랜드가 아닌 타사 제품이 가득했고 정샘물은 \"엄마 화장품을 가장 무시하는 사람이 우리 딸\"이라고 토로했다.",
-      "2일 방영된 MBC '전지적 참견 시점' 396회에서는 메이크업 아티스트 정샘물이 두 딸과 함께하는 아침 일상을 공개했다."
+      "[대구=스포츠조선 정현석 기자]한화 이글스 주포 노시환이 깨어나고 있다.",
+      "개인 통산 500타점 대기록 달성과 함께 쐐기 홈런포를 가동하며 팀의 3연패 탈출을 이끌었다.",
+      "노시환은 2일 대구 삼성전에서 1회초 희생플라이로 개인 통산 500타점(역대 122번째)을 달성한 데 이어, 6회에는 승리를 굳히는 비거리 131m짜리 초대형 투런 홈런(시즌 2호)을 터뜨렸."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "nfe83f54c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/03/MZRWCNRTGY2TAMTCGI4DAYJZMQ/",
+    "title": "‘독립리그 출신’ 150km 파이어볼러, 2이닝 무실점 쾌투…김서현은 볼넷·폭투·보크, 3종세트 3실점",
+    "summary": [
+      "[OSEN=한용섭 기자] 프로야구 한화 이글스 투수 김도빈이 퓨처스리그에서 2경기 연속 호투했다.",
+      "반면 성적 부진으로 2군으로 내려간 김서현은 첫 등판에서 제구 난조가 여전했다.",
+      "김도빈은 2일 서산구장에서 열린 2026 퓨처스리그 두산 베어스와 경기에 구원 투수로 등판해 2이닝 무피안타 3볼넷 무실점을 기록했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne9b5c3ab",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260503_0003615030",
+    "title": "\"이란, 美 해상봉쇄 지속에 원유 감산 시작\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부가 이란 해상 봉쇄를 지속하는 가운데, 이란이 원유 감산을 시작했다는 보도가 나왔다.",
+      "알아라비야, 와이넷 등 중동 매체가 2일(현지 시간) 블룸버그통신을 인용한 보도에 따르면 이란은 최근 원유 생산량을 줄이기 시작한 것으로 알려졌다.",
+      "매체들은 \"미국 해군의 해상 봉쇄가 이란의 석유 거래를 계속 더 압박하면서 최근 수출이 급감하고 저장 시설이 빠르게 차고 있다\"고 전했다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nefd0e0e7",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/03/2026050304164492525",
+    "title": "이연, 아이유와 특별한 친분 공개 \"집에 잠옷, 로션도 두는 사이\"",
+    "summary": [
+      "배우 이연이 아이유와의 남다른 친분을 예고했다.",
+      "2일 방영된 MBC '전지적 참견 시점' 396회 말미에는 배우 이연의 일상이 예고돼 눈길을 끌었다.",
+      "드라마 '21세기 대군 부인'에서 아이유와 티격태격 호흡을 맞추며 주목받은 이연은 예고편에서 건강한 라이프스타일을 공개했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf16890fc",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "29분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/03/2026050304110299066",
+    "title": "정샘물, 김태희와 특별 인연 공개 \"먼저 같이 일하자고 한 유일한 스타\"",
+    "summary": [
+      "메이크업 아티스트 정샘물이 배우 김태희와의 오랜 인연을 공개했다.",
+      "2일 방영된 MBC '전지적 참견 시점' 396회에서는 메이크업 아티스트 정샘물이 배우 김태희를 만나는 모습이 그려졌다.",
+      "이날 정샘물은 다큐멘터리에 담을 인터뷰 촬영을 위해 김태희에게 도움을 요청했고 김태희는 오랜 인연이 있는 정샘물을 위해 흔쾌히 응했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf11a08d2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "44분 전",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614959",
+    "title": "흐린 대구·경북, 5~30㎜ 비 소식…아침 10도·한낮 18도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 일요일인 3일 대구와 경상북도는 대체로 흐리고 비가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"대구와 경북, 울릉도·독도에 새벽부터 밤사이 5~30㎜의 비가 내리겠다\"고 예보했다.",
+      "아침 최저기온은 10~14도(평년 6~13도), 낮 최고기온은 13~18도(평년 21~25도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne44f43b3",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "45분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/03/2026050221231765424",
+    "title": "오늘(3일) 고척서 '신·구 광속구 전쟁→'158㎞' 곽빈vs '159㎞' 박준현 맞대결!",
+    "summary": [
+      "KBO 리그를 대표하는 '국가대표 파이어볼러' 곽빈(27·두산 베어스)과 160km에 육박하는 강속구를 뿌리는 2026 신인 드래프트 전체 1순위인 '슈퍼 루키' 박준현(19·키움 히어로즈)이 고척돔 마운드 위에서 정면으로 충돌한다.",
+      "두산 베어스와 키움 히어로즈는 3일 서울 구로구에 위치한 고척스카이돔에서 열리는 '2026 신한 SOL KBO리그' 주말 3연전 마지막 경기선발 투수로 각각 곽빈과 박준현을 예고했다.",
+      "현재 시리즈 전적 1승 1패로."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n76a85127",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260503002400091",
+    "title": "오스카상 수하물 분실소동…美TSA \"무기될라\" 비행기내 반입금지",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국 아카데미 영화상(오스카상) 트로피를 비행기 위탁 수하물로 보냈다가 한때 분실하는 소동이 빚어졌다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2c3e3590",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "46분 전",
+    "url": "https://www.newsis.com/view/NISX20260502_0003614774",
+    "title": "다낭·나트랑·발리…올 초여름 아시아 '해안 여행지' 인기 급증",
+    "summary": [
+      "[서울=뉴시스]정우영 인턴 기자 = 올해 초여름 아시아 전역에서는 베트남 다낭과 나트랑, 인도네시아 발리 등 해안 여행지가 여행객들 사이에서 큰 인기를 끌고 있는 것으로 나타났다.",
+      "지난달 30일(현지시각) 디지털 여행 플랫폼 아고다(Agoda)가 올해 5월 국내 숙박 검색 데이터를 분석한 결과, 베트남 다낭과 나트랑, 인도네시아 발리를 비롯해 인도 고아, 태국 파타야 등 주요 해변 도시들의 검색량이 전년 대비 일제히 증가했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2dd960b0",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "47분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/03/2026050303523335681",
+    "title": "정샘물, 집안 형편에 미술 포기→37살에 미국 유학 \"다들 반대했지만\"",
+    "summary": [
+      "메이크업 아티스트 정샘물이 어린 시절 집안 형편으로 미술을 배우지 못해 37살에 모든 일을 내려놓고 미국 유학에 도전했던 일화를 털어놨다.",
+      "2일 방영된 MBC '전지적 참견 시점' 396회에서는 메이크업 아티스트 정샘물이 늦은 나이에 미국 유학을 떠났던 사연을 공개했다.",
+      "이날 정샘물은 행사장으로 이동하던 중 매니저에게 \"나는 서른일곱 살에 미국에 갔다\"며 \"미국 유학 전 샌프란시스코에서 이효리, 전지현과 애니콜 광고 촬영을 했었다\"고 회상했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n68c3d491",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "52분 전",
+    "url": "https://www.chosun.com/sports/football/2026/05/03/MNSWIODEGFRTMMTGGM4TCOBTGE/",
+    "title": "\"초대박!\" '슈팅수 무려 59-0' 日 스스로도 '깜짝' 놀랐다…일본 女 U-17, 레바논 13-0 '격파'",
+    "summary": [
+      "[스포츠조선 김가을 기자]일본 스스로도 깜짝 놀란 결과가 나왔다.",
+      "일본 여자 17세 이하(U-17) 대표팀이 무려 13대0의 완승을 거뒀다.",
+      "슈팅수는 무려 59-0이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne2b25e4d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "53분 전",
+    "url": "https://www.newsis.com/view/NISX20260503_0003615029",
+    "title": "이란, 트럼프 '수정안 불만'에 \"美와 재충돌 가능성\" 강대강",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 이란이 제시한 종전 수정안에 대해 \"만족하지 않는다\"고 밝힌 가운데, 이란 군부와 내각도 강경 메시지로 맞서며 미국의 협상 재개 수용을 압박했다.",
+      "CNN, 알자지라 등에 따르면 이란군 대변인 모하마드 자파르 아사디 준장은 2일(현지 시간) \"이란과 미국 간에 새로운 갈등(renewed conflict)이 발생할 가능성(likely)이 있다\"고 밝혔다.",
+      "아사디 준장은 그러면서 \"미국이."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n0601bcfb",
     "category": "사회",
     "source": "조선일보",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/baseball/2026/05/03/MNRDIZLEHBRDCNRWMEYTCMLEGA/",
     "title": "고척돔 1만 6천 명 앞에서 피어난 브로맨스… 김건희 눈에 ‘초밀착’ 입바람 불어준 양의지 [최규한의 plog]",
     "summary": [
@@ -341,102 +515,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc8a0e009",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003613541",
-    "title": "\"한국인이 즐겨 먹는데\"…의사들이 꼽은 '암 부르는 한식'은?",
-    "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 암 환자의 식단 관리와 관련해 의료진들이 공통적으로 강조하는 피해야 할 음식이 공개됐다.",
-      "29일 유튜브 '똑똑한스푼'에 출연한 상형철 한의사는 암 환자들이 피해야 할 음식 종류 세 가지를 언급했다.",
-      "첫 번째는 설탕과 정제 탄수화물이다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6b40ec88",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "29분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/03/2026050303105317049",
-    "title": "버핏, 시장 과열 경고…\"도박 심리 최고조, 하루짜리 옵션은 도박\"",
-    "summary": [
-      "워런 버핏 버크셔 해서웨이 회장이 2일(현지시간) \"최근처럼 도박 심리가 강한 시기는 없었다\"고 경고했다.",
-      "버핏은 이날 미국 네브래스카주 오마하에서 열린 버크셔 연례 주주총회 도중 미 경제매체 CNBC에 출연해 최근 시장 참여자들의 투자 행태가 과도하게 단기 수익과 베팅에 치우치고 있다며 이같이 밝혔다.",
-      "버핏은 투자시장을 '도박장이 붙어 있는 교회'에 비유하면서 전통적인 가치투자와 최근 급증한 단기옵션거래, 미래예측 베팅사이트 거래를 구별해 설."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a8a6b57",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "42분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/05/03/Y7VZHG43LFBZNEBOA45PXDEJ7U/",
-    "title": "선거 직전 ‘닥치고 공소취소’ 왜?… “정청래를 어찌 믿어”",
-    "summary": [
-      "선거 직전 ‘닥치고 공소취소’ 왜?… “정청래를 어찌 믿어”."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7f2d9e45",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "42분 전",
-    "url": "https://www.chosun.com/culture-life/music_concert/2026/05/03/KP2MFSJFJBEQVPPARXTALPIIIY/",
-    "title": "풍경이 음악이 되는 곳…솔리테르 콘서트홀에서 만난 행운",
-    "summary": [
-      "베를린 필하모닉 챔버 콘서트가 열리는 공연장을 찾느라 헤멨다.",
-      "숙소 바로 건너편 모차르테움 대학구내라 안심했다.",
-      "구글 지도앱이 가리키는 방향으로 따라갔더니 문이 닫혀 있었다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nebfb0725",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "42분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/05/03/6WK3DB34L5E4NF6LCVTET4BG3U/",
-    "title": "“검은 개와 흰 말, 그것은 우리의 암호”",
-    "summary": [
-      "“검은 개와 흰 말, 그것은 우리의 암호”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7cf25e74",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "46분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/03/2026050302373450139",
-    "title": "\"25억→125억으로\" '복권 MC' 박소영 아나운서, 당첨 비결은…",
-    "summary": [
-      "박소영 아나운서가 복권 추첨 '황금손'에 도전하며 남다른 복권 사랑을 드러냈다.",
-      "황금손으로 버튼을 누르는 날 직접 복권까지 구매한 박소영은 \"같은 번호를 여러 장 사는 게 고수들의 꿀팁\"이라고 설명하며 웃음을 자아냈다.",
-      "2일 방영된 MBC '전지적 참견 시점' 396회에서는 박소영 아나운서가 복권 번호를 추첨하는 '황금손'에 도전하는 모습이 그려졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n4d2b0f2e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260503002200091",
     "title": "영화 '악마는 프라다를…2', 개봉 첫날 북미 박스오피스 1위",
     "summary": [
@@ -447,26 +529,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nce29b404",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/world/2026/05/03/2026050302274354384",
-    "title": "'투자의 귀재' 버핏 \"투자하기 이상적 환경 아냐, 시장가치 고평가\"",
-    "summary": [
-      "'투자의 귀재' 워런 버핏 버크셔 해서웨이 회장이 2일(현지시간) \"현재 시장 상황은 버크셔가 보유한 사상 최대 규모의 현금을 투자하기에 이상적인 환경은 아니다\"라고 말했다.",
-      "버핏은 이날 미국 네브래스카주 오마하에서 열린 버크셔 연례 주주총회에서 미국 경제매체 CNBC에 출연해 \"시장 가치가 고평가돼 있다\"며 이같이 밝혔다.",
-      "버핏은 투자하기 좋은 시기가 언제쯤으로 예상되느냐는 질문에 \"그 누구도 전화를 받지 않을 때\"라고 답했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
     "id": "n7703652c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260503002100082",
     "title": "유럽 '쥐약 이유식' 협박범 체포…\"암호화폐 35억 요구\"",
     "summary": [
@@ -480,7 +546,7 @@ window.NEWS_DB = [
     "id": "n6323e761",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260503002000072",
     "title": "\"美스피릿항공 구제협상 막후엔 러트닉 상무장관 역할있었다\"",
     "summary": [
@@ -491,40 +557,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n645cc677",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260503_0003615027",
-    "title": "\"대한항공, 美→필리핀 '투계'용 의심 수탉 운송 중단\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 대한항공이 미국에서 필리핀으로 가는 투계(鬪鷄) 용도 의심 수탉 운송을 중단했다고 미국 뉴욕타임스(NYT)가 보도했다.",
-      "NYT에 따르면 대한항공은 지난달 30일(현지 시간) \"미국에서 필리핀으로 가는 노선에서 모든 연령대의 수탉 운송을 중단했다\"며 \"대한항공은 살아있는 동물의 합법적이고 안전한 운송에 확고히 전념하고 있다\"고 밝혔다.",
-      "텍사스 댈러스에서 인천공항을 경유해 필리핀 마닐라로 가는 항공 노선에 싣는 수탉."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ae5412e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260502038852082",
-    "title": "독일 \"미군 감축 예상한 일…유럽이 안보 더 책임\"(종합)",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 독일 정부는 2일(현지시간) 주독 미군 감축에 대해 예상한 일이었다며 앞으로도 미국과 안보 분야에서 긴밀히..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n40786751",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260503001400071",
     "title": "출구 못 찾는 이란戰…트럼프, '美 유가 대응' 카드 제한적",
     "summary": [
@@ -535,41 +571,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8a435741",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003613328",
-    "title": "인스타 핫플 된 호주 해안마을…주민들은 '부글부글' 왜?",
-    "summary": [
-      "[서울=뉴시스]정우영 인턴 기자 = 호주에서 가장 아름다운 거리로 사회관계망서비스(SNS)에서 화제가 된 한 해안 마을이 관광객으로 인해 극심한 사생활 침해와 교통난에 시달린다는 사연이 전해졌다.",
-      "30일 홍콩 매체 사우스차이나모닝포스트(SCMP)에 따르면 호주 시드니에서 남쪽으로 약 2시간 거리에 위치한 해안 마을 게링공의 '타스만 드라이브'가 인스타그램과 틱톡 등 각종 SNS에서 인생샷 명소로 떠오르며 몸살을 앓고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n320a9403",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003614122",
-    "title": "인도 왕실 소장의 17세기 '천문 슈퍼컴퓨터' 경매 나왔다",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 유하영 인턴기자 = 17세기 인도 왕실이 소장했던 초대형 천문 관측 기구 '아스트롤라베'가 경매에 나왔다.",
-      "정밀한 계산 기능과 화려한 장식으로 당대의 슈퍼컴퓨터로 불리는 유물이다.",
-      "BBC에 따르면 해당 아스트롤라베가 지난달 29일(현지 시간) 런던 경매에 출품됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n06a232fc",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260502/133851199/1",
     "title": "시흥 자원순환시설 화재 3시간 40여분 만에 진화…인명 피해 없어",
     "summary": [
@@ -585,7 +590,7 @@ window.NEWS_DB = [
     "id": "nb846be58",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260502225756",
     "title": "\"GPT 5.5, 미토스보다 CTF 해킹 능력 우수\"",
     "summary": [
@@ -600,7 +605,7 @@ window.NEWS_DB = [
     "id": "nb55f9ea1",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260502/133851167/1",
     "title": "주한미군, 美 최신 레이더 센티널 A4 운용 훈련 실시…미 본토 외 첫 배치",
     "summary": [
@@ -614,7 +619,7 @@ window.NEWS_DB = [
     "id": "n949de74e",
     "category": "부동산",
     "source": "ZDNet Korea",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260502222443",
     "title": "日무라타 \"2026회계연도 서버용 MLCC 수요 최대 90% 상승 전망\"",
     "summary": [
@@ -632,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "환율",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
