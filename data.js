@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-03 17:38:38
+// 마지막 업데이트: 2026-05-03 18:42:59
 window.NEWS_DB = [
   {
     "id": "n9a605dd3",
@@ -60,20 +60,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "nca4f291e",
-    "category": "스포츠",
-    "source": "한스경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QR0tWWVFXUnZqQ0tHLVBWaFJ0a196bmNmU09NbVBHS0FFRnpIT2E5TjVTdmRLeFhmSmJPOEJNSEYxMGV2WTN5UWIzb2FTMUtwdkRPZGlwbU5qT2xadmw5cnMzSDN1TkRZajE00gFvQVVfeXFMUEp6XzFmRDRtWEpSWmtyRUNVdGVBOUg3TDFNc3JsUjdQSEJDNXVUU3Z3TkpKd25Gd1R3alVXRjZFQ1l4M3ZqNndjU1JWNlNsNzBRWmtuVk5lU0pRSG1pcjFhRjRBNm9YYTVKVjBMRzk4?oc=5",
-    "title": "국내야구, 4월 4주 차에도 스포츠 관심도 정상… 점유율 55%",
-    "summary": [
-      "국내야구, 4월 4주 차에도 스포츠 관심도 정상… 점유율 55% 한스경제."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -178,51 +164,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
-    "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n95ae41aa",
-    "category": "사회",
-    "source": "mstoday.co.kr",
-    "time": "44일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByQS15ZDAzVEhUZlZ4UmlfMEx5MHJtUWkyb1Fad05LeVJ5R2I0Y092aVlmWXRCSmUteTE3TGJkcnQ1S21lQnM1di1FekFOOUxXTHQ3SFlTVWhaUTZnakdwSFV6dFNydHA4dkY3eg?oc=5",
-    "title": "AI가 연결한 일자리 17만건…“취업 보조 넘어 경력관리 플랫폼으로”",
-    "summary": [
-      "AI가 연결한 일자리 17만건…“취업 보조 넘어 경력관리 플랫폼으로” mstoday.co.kr."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "ncbcb6c77",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "56일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n15f5f447",
     "category": "경제",
     "source": "지디넷코리아",
@@ -234,6 +175,37 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "73일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nef414906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "74일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
+    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "summary": [
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -296,6 +268,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n490343d1",
+    "category": "스포츠",
+    "source": "미디어오늘",
+    "time": "172일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ME9tQ2JRQWtiTUxTcTVVUHRPUVFhcXNDWFo0TnVSUm9ubWo2d0o0UTVOQ01iUW1tMlNYVG9JWjRMbl95c3MzVk5CNmJMUnNDRU02VGk4aTFXWU5QTlNkcHVwbW40Z3otVkxUaGd0cm8?oc=5",
+    "title": "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’",
+    "summary": [
+      "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’ 미디어오늘."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nb36dbf94",
     "category": "사회",
     "source": "서울특별시",
@@ -311,10 +297,221 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "212일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "summary": [
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb424bf06",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://www.asiae.co.kr/article/2026050403363935645",
+    "title": "이란 언론 \"14개 수정 협상안에 대한 미국 답변 검토 중\"",
+    "summary": [
+      "이란 외무부는 미국으로부터 14개항의 협상안에 대한 답변을 중재국 파키스탄을 통해 받아 검토 중이라고 3일(현지시간) 밝혔다.",
+      "이날 IRIB 방송, 타스님 통신 등 이란 매체에 따르면 에스마일 바가이 이란 외무부 대변인은 \"이란은 파키스탄을 통해 전달받은 미국의 의견을 검토 중이다\"고 말했다.",
+      "그는 \"이란의 14개항 제안은 전쟁을 종식하는 것에 초점을 맞췄다\"며 \"이 제안에는 핵 사안이 담기지 않았다\"고 강조했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d6d4ab8",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/04/2026050400445124583",
+    "title": "'152홈런' 김하성 절친 MLB 슈퍼스타, 32G 무홈런 '미스터리'→美도 의아 '기괴한 현상'",
+    "summary": [
+      "메이저리그(MLB)의 간판 '슈퍼스타'이자 김하성(31·애틀랜타 브레이브스)의 '절친'으로도 국내에 유명한 페르난도 타티스 주니어(27·샌디에이고 파드리스)가 시즌 개막 후 한 달이 넘도록 '손맛'을 보지 못하는 기이한 부진에 빠졌다.",
+      "미국 데이터 전문 업체 '코디파이 베이스볼'은 지난 2일(한국시간) 공식 SNS를 통해 \"이번 시즌 110타수 이상 소화한 타자 중 홈런이 없는 메이저리거\"를 조명하며 타티스 주니어의 이름을 올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nadeb1614",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://www.asiae.co.kr/article/2026050403310731159",
+    "title": "수묵산수 현대화 이끈 운산 조평휘 화백 별세",
+    "summary": [
+      "전통 수묵산수화의 현대화에 평생을 바친 운산 조평휘 화백이 별세했다.",
+      "3일 유족에 따르면 고인은 지난 2일 오후 10시께 경기도의 한 요양병원에서 세상을 떠났다.",
+      "1932년 황해도 연안에서 태어난 고인은 한국전쟁을 피해 인천으로 내려왔다."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf648100c",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/04/2026050402422897680",
+    "title": "\"일단 저질러야\" 김준호, ♥김지민 몰래 1억3000만원 섬 매입 시도",
+    "summary": [
+      "김준호가 통영의 한 섬 매입에 관심을 보이며 김지민의 반응을 살폈다.",
+      "3일 방영된 SBS '미운 우리 새끼' 493회에서는 개그맨 김준호가 섬 임장을 위해 통영을 찾는 모습이 그려졌다.",
+      "이날 김준호는 육중완, 최진혁, 허경환과 함께 긴 장화를 신고 통영 따박섬으로 향했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e975213",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003615530",
+    "title": "이란, \"'14개항 종전안'에 美 답변 전달받아…검토 중\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 이란이 전쟁 종식을 목표로 제시한 14개 항 제안에 대해 미국의 공식 답변을 접수하고 검토에 착수했다는 보도가 나왔다.",
+      "3일(현지 시간) AP통신에 따르면 이란은 전쟁 종식을 위한 14개 항 계획에 대한 미국의 답변을 전달받았다.",
+      "외교부 대변인 에스마일 바가에이는 이란 언론을 통해 \"파키스탄을 통해 전달받은 미국 측 답변을 현재 검토 중\"이라고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbd59bf20",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260504002400087",
+    "title": "부정행위 있었을까…페루 선관위, 대선 감사 착수",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 개표 지연과 부정 선거 논란에 휩싸인 페루 대선 1차 투표에 대해 페루 선거관리위원회가 독립적인 감사를..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n21f77a01",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/national/education/2026/05/04/Q333HMFJTJGWHFC77XHH2PYRXQ/",
+    "title": "무작정 따라가면 길 잃는다… ‘Detour’ 표지판의 의미",
+    "summary": [
+      "무작정 따라가면 길 잃는다… ‘Detour’ 표지판의 의미."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5bfc6bc2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/national/2026/05/04/SAS2CGMUEBD6ZIEKMP67ZWXXZM/",
+    "title": "[굿모닝 멤버십] 맛은 얼마든지 복제 가능… 타피오카 무너뜨린 ‘가짜’의 재림",
+    "summary": [
+      "[굿모닝 멤버십] 맛은 얼마든지 복제 가능… 타피오카 무너뜨린 ‘가짜’의 재림."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n21a1cd25",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/international/japan/2026/04/27/Z4J7EFFKXREM3HSGYCYVDST2UI/",
+    "title": "스타벅스 때문에 ‘말차 품귀’라는데… 그 많은 ‘말차’는 어디서 온 걸까",
+    "summary": [
+      "스타벅스 때문에 ‘말차 품귀’라는데… 그 많은 ‘말차’는 어디서 온 걸까."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92aad515",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/05/04/QSOYQXJ3EFBHLHH5GOW4FRAMJE/",
+    "title": "오세훈이냐 정원오냐…‘세교시’를 잡는 자가 서울시장 된다",
+    "summary": [
+      "오세훈이냐 정원오냐…‘세교시’를 잡는 자가 서울시장 된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0fba46f3",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "55분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003615529",
+    "title": "호르무즈서 화물선 피격 최소 24건…휴전 속 해상 위협",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 영국 해상무역작전센터는 3일(현지 시간) 호르무즈 해협 인근에서 화물선 한 척이 여러 척의 소형 선박으로부터 공격을 받았다고 밝혔다.",
+      "이번 사건으로 이란 전쟁 발발 이후 해협 안팎에서 발생한 공격은 최소 24건으로 늘어났다.",
+      "AP통신에 따르면 이란 시리크 해협 동쪽 해상에서 공격을 받은 선박의 승무원 전원은 무사한 것으로 확인됐다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n12fad03b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "57분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260504002100081",
+    "title": "젤렌스키 \"핀란드에 드론 협정 제안\"",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 핀란드에 드론 협정을 체결함으로써 양국 간 파트너십을 강화하자고 제안..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8b3cc559",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/04/2026050402333140223",
+    "title": "'90㎏→70㎏' 강남 \"4개월 만에 감량…'♥이상화' 태도 돌변하더라\"",
+    "summary": [
+      "강남이 90㎏까지 늘었던 체중을 4개월 만에 20㎏ 감량한 뒤 아내 이상화의 반응이 달라졌다고 고백했다.",
+      "3일 방영된 SBS '미운 우리 새끼' 493회에서는 강남이 게스트로 출연해 입담을 뽐냈다.",
+      "이날 서장훈은 \"강남 씨가 한때 90㎏까지 나갔다가 4개월 만에 20㎏을 감량했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nc9e59622",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260504001851108",
     "title": "이란 \"14개항 종전안에 대한 미국 답변 검토 중\"",
     "summary": [
@@ -325,25 +522,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncac7d044",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/04/GE4TCMRZGAZTIZTEGU3WMZLDGQ/",
-    "title": "“정우주는 선발로 키워야” 이대호 말대로 됐다…빨간 불 켜진 한화 선발진의 깜짝 카드 될까",
-    "summary": [
-      "[OSEN=손찬익 기자] “정우주 같은 선수는 선발로 키워야 한다”.‘조선의 4번 타자’ 이대호의 한마디가 현실이 됐다.프로야구 한화 이글스 투수 정우주가 선발 로테이션에 합류할 전망이다.",
-      "선발진에 비상이 걸린 가운데, 결국 잠재력을 지닌 젊은 투수에게 기회가 돌아갔다.이대호는 최근 자신의 유튜브 채널 ‘이대호 [RE:DAEHO]’를 통해 정우주의 활용법에."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n656dde02",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260504001800108",
     "title": "[속보] 이란 \"美, 14개항 제안에 대한 답변 파키스탄에 전달\"",
     "summary": [],
@@ -355,7 +537,7 @@ window.NEWS_DB = [
     "id": "n33732990",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/04/2026050322300936820",
     "title": "바닥 친 남편 '1부 승격' 도운 '내조의 여왕'... 카리우스 아내 감동 메시지 \"당신의 나의 용기\"",
     "summary": [
@@ -368,61 +550,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndcd26198",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "38분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/04/2026050312120145537",
-    "title": "[사설]중국전기차 공습, 정책적 방어막은 허술",
-    "summary": [
-      "중국 전기차가 내수시장을 빠르게 잠식하고 있다.",
-      "지난 1분기 국내 신규 등록 전기 승용차 7만 78대 중 36.5%인 2만 5595대가 중국산으로 나타났다.",
-      "전년 동기보다 14.8%p 급증한 수치다."
-    ],
-    "chips": [
-      "#정책",
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n8d50af8f",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "38분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/04/2026050311102264537",
-    "title": "[MT시평]식약처, 규제 병목을 완화해야",
-    "summary": [
-      "식품의약품안전처의 의약품, 의료기기에 대한 허가·심사가 너무 오래 걸린다는 현장의 불만이 높다.",
-      "이를 해결하기 위해 식약처가 최근 의약품, 의료기기 허가·심사 인력 195명을 충원했다.",
-      "이번 식약처의 인력 증원은 지난해 10월 대통령 주재 '제2차 핵심규제 합리화 전략회의'에서 논의된 바이오헬스 산업 육성의 핵심 조치의 일환이다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n8d55efbb",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "38분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/04/2026050221415448575",
-    "title": "[투데이窓]중드와 중티 그리고 OTT와 키치",
-    "summary": [
-      "젊은층에 중국 드라마 인기 끄는 이유는 배신·폭력 판치는 OTT 장르물에 싫증 K콘텐츠엔 사라진 아날로그감성에 열광 '중티'라는 말은 압축어로 '중국 티 난다.'는 말로 본래 중국 드라마에서 비롯했다.",
-      "중국 드라마에서 뵈는 주인공들은 과한 몸짓이나 표정, 분장이나 스타일을 말한다.",
-      "어떤 경우에는 이를 촌스럽다거나 촌티라고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n1592e890",
     "category": "사회",
     "source": "뉴시스",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260503_0003615241",
     "title": "\"대포통장 대여나 마찬가지\"…신종 사기 '통장 묶기' 주의해야",
     "summary": [
@@ -435,42 +566,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na6e1b3ba",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "39분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/04/HA4TSYZSMY3DKZJYGBSDAZRZME/",
-    "title": "\"어차피 추월당할 기록, 공도 안 챙겼다\" 손아섭 추월 KBO 새 역사 쓴 타격장인, '2군행' 강민호에게 전한 한마디[인터뷰]",
-    "summary": [
-      "[대구=스포츠조선 정현석 기자]삼성 라이온즈의 '살아있는 전설' 최형우(43)가 마침내 KBO 리그 역사의 가장 높은 곳에 이름을 올렸다.",
-      "최형우는 3일 대구 삼성라이온즈파크에서 열린 한화 이글스와의 시즌 6차전에 3번 지명타자로 선발 출전, 홈런 포함 4타수 4안타 2타점의 맹타를 휘둘렀다.",
-      "0-2로 뒤진 4회말 선두타자로 나선 최형우는 한화 선발 왕옌청."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n279412ba",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "42분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/05/04/MU2TMMDFMNSDSOLBGNTGCNDCGE/",
-    "title": "\"자꾸 볼에 손이 나간다\" 천하의 오타니가 이런 지적을 받다니…사이영 도전이 결국 독 되나",
-    "summary": [
-      "[스포츠조선 박상경 기자] \"자꾸 볼에 손이 나가는 느낌이다.\" 3일(한국시각) 세인트루이스 카디널스전을 마친 LA 다저스의 데이브 로버츠 감독이 오타니 쇼헤이의 타격을 두고 내린 평가다.",
-      "오타니는 이날 1번 지명 타자로 선발 출전했으나, 4타수 무안타 2삼진에 그쳤다.",
-      "하루 전 세인트루이스전에서도 5타수 무안타 1삼진에 그쳤던 오타니는 이날도 고개를 숙였."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n932f947e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260504_0003615528",
     "title": "미 재무장관 \"트럼프 방중 재연기 없다…이란 원유 저장 포화\"",
     "summary": [
@@ -483,54 +582,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n208882f1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "58분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/04/GBSDEY3CGM2DEODDGAZTMNZZME/",
-    "title": "“저는 이제 끝물이라서…” 최형우, KBO 최다 안타 신기록에도 무덤덤 왜 그럴까 [오!쎈 대구]",
-    "summary": [
-      "[OSEN=대구, 손찬익 기자] “솔직히 이길 거라고 생각 못 했는데…”.",
-      "프로야구 삼성 라이온즈의 ‘리빙 레전드’ 최형우는 KBO리그 개인 통산 최다 안타 신기록 달성보다 팀 승리에 더 기뻐했다.",
-      "최형우는 지난 3일 대구삼성라이온즈파크에서 열린 한화 이글스와의 홈경기에서 홈런 포함 4안타를 때려내며 개인 통산 2623안타로 손아섭(두산 베어스)을 제치고."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nadfe4aae",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504001400081",
-    "title": "美와 균열·이란전 장기화 속 유럽정치공동체 정상회의",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 미국과 유럽 간 동맹 균열과 이란 전쟁 장기화 상황에서 4일(현지시간) 유럽 정상들이 아르메니아 예레반에 모..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2fdbd56c",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504001500087",
-    "title": "베네수엘라 4월 원유 수출 하루 123만배럴…2018년 이후 최대",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 베네수엘라의 4월 원유 수출량이 하루 123만 배럴을 기록하며, 월별 수출량 기준으로 2018년 말 이..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
     "id": "na850d78f",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260504/133856160/1",
     "title": "‘BTS PD’ 피독·‘전 MBC 기캐’ 김가영, 결별",
     "summary": [
@@ -546,7 +601,7 @@ window.NEWS_DB = [
     "id": "naf440bcf",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260504/133856156/1",
     "title": "장윤주 “XXS에 D~G컵…국내서 브래지어 못 사”",
     "summary": [
@@ -560,75 +615,11 @@ window.NEWS_DB = [
     "id": "n0d9c6b01",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260504/133856153/1",
     "title": "‘45세’ 장나라, 데뷔 때와 달라진 게 없네",
     "summary": [
       "가수 겸 배우 장나라가 변함없는 동안 미모를 자랑했다.3일 연예계에 따르면 최근 장나라는 자신의 소셜미디어에 하트와 함께 여러 장의 사진을 게재했다.사진 속 장나라는 캐주얼한 데님 재킷과 넉넉한 팬츠, 캡 모자로 편안한 분위기를 살렸고, 다른 컷에서는 후드 재킷에 와이드 팬츠를 입고 쭈그려 앉아 셀카를 찍고 있다.이를 본 팬들은 “진짜 동안이다”, “데뷔 때랑 똑같다” 등의 반응을 보였다.1981년생으로 올해 45세인 장나라는 2022년 6세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7128498a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260503_0003615469",
-    "title": "북유럽 회화 닮은 풍경…강철규 ‘버림받은 숙주’ 개인전",
-    "summary": [
-      "[서울=뉴시스] 박현주 미술전문 기자 = 구부러지고, 잠기고, 무너진다.",
-      "물속에 서 있는 인물, 몸을 접어 웅크린 형상, 자신의 반사를 응시하는 신체는 모두 ‘존재’가 아니라 ‘상태’에 가깝다.",
-      "이들은 특정 서사를 설명하지 않으며, 불안과 긴장이 지속되는 심리적 장면으로 눈길을 사로잡는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfefd0b79",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260430_0003613664",
-    "title": "K-바이오에 등 내줬다…해외진출 발판 된 '이 회사'[같이의 가치]",
-    "summary": [
-      "[서울=뉴시스]황재희 기자 = “한국의 파트너들은 이제 글로벌 프로그램에 단순히 참여하는 수준을 넘어 그 방향성을 함께 만들어 가고 있습니다.” 글로벌제약사 MSD가 국내 바이오 기업 지원을 확대하며 ‘상생’에 나서고 있다.",
-      "오픈 이노베이션 강화로 국내 바이오 기업이 글로벌로 진출할 수 있도록 가교 역할을 톡톡히 하고 있다.",
-      "4일 관련 업계에 따르면, MSD의 한국 법인인 한국MSD의 임상연구부는 임상시험 설계, 프로토콜 개발 등 연구개발 전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n061733d1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260504/133856150/1",
-    "title": "이지혜, 서지영 만났다…“우연히 만난 내 찐친”",
-    "summary": [
-      "혼성그룹 샵(S#ARP)의 멤버였던 이지혜와 서지영이 만났다.이지혜는 3일 소셜미디어에 “여행은 다신 없다고 혼구녕을 내다가도 아이들이 행복해하는 모습을 보면 이래서 여행을 다니지”라는 말과 함께 여러장의 사진을 올렸다.또 “우연히 만난 내 찐친.",
-      "서인영 아니고 서지영”이라고 적었다.이지혜는 “샵 같이했던 이모라고 했더니 본 적도 없는데 저렇게 촥 붙어서.",
-      "잘살다보면 이렇게 마주치는 인연들이 오늘은 더 특별하다”고 했다.사진 속 두."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n172aa56e",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://www.asiae.co.kr/article/2026050400352216168",
-    "title": "美 재무장관 \"전쟁 후 유가 급락…이란, 다음주 유정 폐쇄 가능성\"",
-    "summary": [
-      "스콧 베선트 미국 재무장관은 3일(현지시간) 전쟁이 끝나면 미국 내 유가가 급락하며 연초보다 낮아질 것이라고 전망했다.",
-      "이날 베선트 장관은 폭스뉴스와의 인터뷰에서 전쟁이 끝난 뒤 유가가 \"올해 초나 2020년, 2025년의 어느 시점보다 훨씬 낮아질 것이라는 낙관적 전망을 갖고 있다\"며 이같이 밝혔다.",
-      "이어 \"선물 시장에서 3개월, 6개월, 9개월 후의 유가가 이미 낮아진 것을 확인할 수 있다\"고 덧붙였다."
     ],
     "chips": [
       "#뉴스"
@@ -641,18 +632,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "삼성전자",
+    "mentions": "1290건",
+    "trend": "+95%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
+    "tag": "환율",
     "mentions": "1290건",
     "trend": "+95%"
   }
