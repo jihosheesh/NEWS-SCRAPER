@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-03 07:47:14
+// 마지막 업데이트: 2026-05-03 09:13:14
 window.NEWS_DB = [
   {
     "id": "n9a605dd3",
@@ -149,17 +149,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n91027e92",
+    "id": "n7aed1cf1",
     "category": "부동산",
-    "source": "일간스포츠",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dks1OERTbjB0VjgwQ3kzdmFQbDVpdEM4OTZsZU5LSmFOT2RXYnFqOE1SNnFXQU1SWlNxMVZtajA2V2lmUnloYjFxRmhQSGp3R2lFVWhURXozYUU?oc=5",
-    "title": "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목",
+    "source": "리얼캐스트",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWXh3MEhBenVCb1I5NTNLa2FVWTdPSG9MYlh1YlpMQVNEQXlDdTdIUlBpMkk4SDBMbldqdDU5ejN6OWdEQkhsMlpqdnZDNEpVX1FZbE02R1NrbmFRRGh3bzItMl9DbVpB0gFsQVVfeXFMTWFpTF8xUHdYam9qb3JXalkzRzc2bE54VG9zUEltd1N2THBaZ3pRb185d2o1MTlvaXF6di01bURqZ1FrTFNvQTY2UV9hV3NkUENleW5ndjQzT2FYVk9EM2p0YnVNd0N2dkdvLXg2?oc=5",
+    "title": "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동",
     "summary": [
-      "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목 일간스포츠."
+      "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동 리얼캐스트."
     ],
     "chips": [
-      "#부동산"
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -196,7 +197,7 @@ window.NEWS_DB = [
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "55일 전",
+    "time": "56일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
     "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
@@ -210,7 +211,7 @@ window.NEWS_DB = [
     "id": "n15f5f447",
     "category": "경제",
     "source": "지디넷코리아",
-    "time": "59일 전",
+    "time": "60일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
     "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
     "summary": [
@@ -224,7 +225,7 @@ window.NEWS_DB = [
     "id": "nbc92ef7c",
     "category": "부동산",
     "source": "한국부동산뉴스",
-    "time": "72일 전",
+    "time": "73일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
     "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
     "summary": [
@@ -239,7 +240,7 @@ window.NEWS_DB = [
     "id": "nb04cef68",
     "category": "사회",
     "source": "경기일보",
-    "time": "78일 전",
+    "time": "79일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
     "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
     "summary": [
@@ -254,7 +255,7 @@ window.NEWS_DB = [
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "79일 전",
+    "time": "80일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
     "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
@@ -269,7 +270,7 @@ window.NEWS_DB = [
     "id": "n23874b78",
     "category": "스포츠",
     "source": "v.daum.net",
-    "time": "93일 전",
+    "time": "94일 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yNFU3WXJfOU9qYk83RUFjM0VEbFk5UjF4QUphMnFNdGpOM2VRM1RPblk1Y28tV29FOTBpemt6UWtoX0RvN0FWTjVYZ2xDUE0?oc=5",
     "title": "“야구가 4대스포츠 최고 흥행인데 연봉이…” 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정",
     "summary": [
@@ -283,7 +284,7 @@ window.NEWS_DB = [
     "id": "n0f008420",
     "category": "경제",
     "source": "한겨레",
-    "time": "108일 전",
+    "time": "109일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGNFNVYUVMN0g3RGcwT1BXUzhvZ1B6VjQ2Y1poNHpZUHEtR3Z2RmVlSEZZN01waGNETEtxTXh2NEpjMTZ5emFtNGsxTEdDSnQ2cy1QTS1DVDh3cXBwRFFwZjFfQ1J3UThUcXE1R2tDN203Zw?oc=5",
     "title": "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도",
     "summary": [
@@ -378,103 +379,184 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8320cdf8",
+    "id": "n86c7395a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260503_0003615344",
-    "title": "韓 차중위성 2호, 팰컨9 타고 우주로…오후 5시15분께 첫 교신 예정",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260503_0003615347",
+    "title": "\"트럼프 국정수행 부정 평가, 62%…1·2기 최고치\" WP·ABC 여론조사",
     "summary": [
-      "[서울=뉴시스]윤현성 기자 = 우리나라의 정밀지상관측용 위성인 '차세대중형위성 2호'가 미국의 우주기업 스페이스X의 팰컨9 발사체에 실려 무사히 우주로 향했다.",
-      "차세대중형위성 2호는 발사 이후 약 1시간에 걸친 비행 이후 지상에서 약 500㎞ 떨어진 상공에서 발사체에서 분리될 예정이다.",
-      "3일 우주항공청에 따르면 차세대중형위성 2호는 이날 오후 4시(한국시간) 미국 캘리포니아주 반덴버그 우주군기지에서 스페이스X 팰컨9에 탑재돼 발사됐다."
+      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 대통령의 국정 수행을 지지하지 않는다는 응답이 트럼프 대통령 1·2기를 통틀어 최고치를 기록한 여론조사가 3일(현지시간) 공개됐다.",
+      "미국 여론조사업체 입소스가 워싱턴포스트(WP)·ABC뉴스 의뢰로 지난달 24~28일 미국 성인 2560명을 대상으로 실시한 여론조사(오차범위 ±2.0%p)에 따르면 트럼프 대통령 국정 수행 지지율은 37%로 지난 2월 조사 대비 2%p 감소했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n192aa97b",
-    "category": "사회",
-    "source": "머니투데이",
+    "id": "n224859c6",
+    "category": "스포츠",
+    "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/03/2026050316345358931",
-    "title": "성범죄 무고 피해자 3번 돌려보낸 경찰…\"다른 경찰서 가세요\"",
+    "url": "https://www.newsis.com/view/NISX20260503_0003615380",
+    "title": "삼성 최형우, 손아섭 넘고 통산 최다 안타 신기록…'4연승' 롯데, 꼴찌 탈출(종합)",
     "summary": [
-      "경찰이 성범죄 무고를 당한 피해자를 세 차례나 돌려보낸 사실이 뒤늦게 알려졌다.",
-      "피해자는 신고조차 못 하고 발길을 돌렸지만, 검찰 수사로 사건의 전모가 드러났다.",
-      "3일 뉴스1에 따르면 수원지검 여주지청은 지난달 21일 50대 남성 A씨를 무고 및 특정범죄가중법상 면담 강요 등 혐의로 재판에 넘겼다."
+      "[서울=뉴시스]김희준 기자 = 프로야구 삼성 라이온즈의 베테랑 타자 최형우가 손아섭(두산 베어스)을 제치고 KBO리그 통산 최다 안타 단독 1위로 올라섰다.",
+      "최형우는 3일 대구 삼성라이온즈파크에서 벌어진 2026 신한 쏠 KBO리그 한화 이글스와의 경기에 3번 지명타자로 선발 출전해 홈런 한 방을 때려내는 등 4타수 4안타 2타점 1볼넷 1득점으로 불꽃타를 휘둘러 삼성의 7-6 역전승을 이끌었다.",
+      "통산 안타 수를 2623개로 늘린 최형우는 KB."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nae8311e4",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260503_0003615397",
+    "title": "생애 첫 우승 달성한 송민혁 \"미국 콘페리 투어 도전할 것\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 송민혁이 연장 끝에 제45회 GS칼텍스 매경오픈 골프대회(총상금 13억원)를 제패하며 첫 우승을 달성했다.",
+      "송민혁은 3일 경기 성남시의 남서울 컨트리클럽(파71)에서 열린 대회 최종 4라운드에서 버디 3개와 보기 2개로 1언더파 70타를 쳤다.",
+      "나흘 합계 11언더파 273타의 송민혁은 동타의 조민규와 연장에 돌입했고, 18번 홀(파4) 파로 보기에 그친 조민규를 꺾고 우승을 확정했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd1018568",
+    "id": "n29be4d5b",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/economy/2026/05/03/2026050316274668855",
-    "title": "금융결제원장 \"연내 베트남·인도도 환전 없이 QR 결제 가능\"",
-    "summary": [
-      "채병득 금융결제원장은 \"연내 해외 QR결제 서비스를 베트남과 인도 등 아시아 주요 국가로 확대할 것\"이라고 밝혔다.",
-      "환전 없이 자국 결제 앱으로 해외에서 결제할 수 있는 인프라를 구축해 글로벌 결제망 경쟁에 본격적으로 나선다는 구상이다.",
-      "ADB(아시아개발은행) 연차총회 참석차 우즈베키스탄 사마르칸트를 방문한 채 원장은 3일(현지시간) 동행기자단 간담회에서 \"우리 국민들이 많이 여행 가거나 우리나라로 많이 여행 오는 국가들을 중심으로 QR결제 서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5e684524",
-    "category": "IT",
-    "source": "조선비즈IT",
+    "source": "아시아경제",
     "time": "4분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/05/03/FWR4X73WDZH3FFFFA5MVN44FVE/",
-    "title": "LGU+, 이마트에 ‘알뜰폰플러스’ 매장 운영",
+    "url": "https://www.asiae.co.kr/article/2026050318083374040",
+    "title": "차세대 중형위성 2호 발사… 스페이스X 팰컨9 실려 우주로(종합)",
     "summary": [
-      "LGU+, 이마트에 ‘알뜰폰플러스’ 매장 운영."
+      "국토 자원 관리와 재난 대응 임무를 수행할 '국토위성 2호(차세대 중형위성 2호)'가 3일 우주로 향했다.",
+      "이번 위성은 본체와 탑재체 핵심 부품을 독자 개발해 우주 기술 자립성을 강화했다는 점에서 의미가 깊다.",
+      "차세대 중형위성 2호는 한국시간 기준 이날 오후 3시59분(현지시간 2일 오후 11시59분) 미국 플로리다주 케네디 우주센터에서 스페이스X의 발사체 '팰컨9'에 실려 발사됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne47c9b4b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260503039800052",
-    "title": "김경수 \"과거 도정 마무리못한 미안함, 경남대전환으로 보답\"",
-    "summary": [
-      "(창원=연합뉴스) 이정훈 기자 = 김경수 더불어민주당 경남지사 후보는 3일 \"과거 민선 7기 도정을 끝까지 마무리하지 못했던 미안함을 부울경 메..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n69b6b574",
+    "id": "ned8a3d6b",
     "category": "사회",
     "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260503/133851698/1",
-    "title": "삼성家, 12조원 규모 상속세 지난달 말 완납…사상 최대 규모",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260503/133854621/2",
+    "title": "野 “하정우, 8살 여자아이에게 ‘오빠’ 소리 그렇게 듣고 싶나”",
     "summary": [
-      "이재용 삼성전자 회장 등 삼성 일가가 고(故) 이건희 선대회장으로부터 물려받은 유산 상속세 12조 원을 모두 납부했다.",
-      "국내 상속세 납부 사상 최대 금액을 5년에 걸쳐 ‘정공법’으로 납부한 것과 관련해 한국판 ‘노블리스 오블리주’의 새로운 이정표를 세우는 계기가 될 것이란 평가가 나온다."
+      "더불어민주당 정청래 대표가 부산 북갑 보궐선거에 출마하는 하정우 후보와 함께 유세 과정에서 한 초등학생을 향해 “정우 오빠(라고) 해보라”고 요구하는 모습이 온라인상에 확산하며 논란이 됐다.",
+      "국민의힘은 “참담하다”고 비판했다.3일 국민의힘 성일종 의원은 페이스북을 통해 “하 후보, 나이 50세에 여덟 살 여자아이한테 ‘오빠’ 소리가 그렇게 듣고 싶으냐”며 “딸 가진 아빠로서 한 마디 안 할 수가 없다”고 밝혔다.성 의원은 “62세 정 대표와 5."
     ],
     "chips": [
-      "#삼성전자"
+      "#정치"
     ]
   },
   {
-    "id": "n893b46f9",
+    "id": "n245e66ca",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://www.asiae.co.kr/article/2026050318041067009",
+    "title": "심장 멈추고 두 다리 잃어도…'불굴의 레이서' 자나르디 타계",
+    "summary": [
+      "두 다리를 잃는 대형 사고를 극복하고 패럴림픽 금메달리스트로 재기한 이탈리아 출신 레이싱 드라이버 알렉스 자나르디가 향년 59세로 별세했다.",
+      "AFP통신 등 외신은 자나르디가 설립한 자선단체 오비에티보3가 2일(현지시간) 성명을 통해 \"자나르디가 지난 금요일 저녁 갑작스럽게 세상을 떠났다\"고 밝혔다고 보도했다.",
+      "유가족은 \"그가 가족과 친구들의 사랑에 둘러싸여 평온하게 눈을 감았다\"고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n28ba24a8",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/03/2026050317552572017",
+    "title": "'와' 진짜 최형우 대단하네, 4안타 몰아치기→손아섭 통산 최다 안타 추월! KBO 역사 새로 썼다",
+    "summary": [
+      "삼성 라이온즈의 '살아있는 전설' 최형우(43)가 KBO리그 역대 통산 최다 안타 신기록을 갈아치우며 전설의 반열에 올랐다.",
+      "KBO 리그 통산 최다 안타의 주인공이었던 손아섭(38·두산 베어스)을 2위로 밀어냈다.",
+      "최형우는 3일 대구 삼성라이온즈파크에서 열린 '2026 신한 SOL KBO리그' 한화 이글스와의 홈 경기에 3번 지명타자로 선발 출전해 홈런 1개를 포함, 4타수 4안타 2타점 1득점 1볼넷으로 맹타를 휘둘렀다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n265fe577",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/economy/science/2026/05/03/ESA4BQP3PBEWHGABFKEYCKCHYU/",
+    "title": "인간 유전체 해독 경쟁 이끈 ‘과학계의 이단아’ 크레이그 벤터 별세",
+    "summary": [
+      "인간 유전체 해독 경쟁 이끈 ‘과학계의 이단아’ 크레이그 벤터 별세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e86dc7f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/03/MNRGEOBQGI2DEZJZGQ4DOMRUGU/",
+    "title": "레이예스 역전 스리런 + 전트란 입국! → 롯데 파죽의 4연승! 8회 뒤집기쇼. SSG 5-2 잡고 싹쓸이 [인천 현장]",
+    "summary": [
+      "[인천=스포츠조선 한동훈 기자] 롯데 자이언츠가 SSG 랜더스와 주말 3연전을 싹쓸이했다.",
+      "롯데는 3일 인천 SSG랜더스필드에서 열린 SSG와 경기에서 5대2 역전승을 거뒀다.",
+      "1-2로 뒤진 8회초 레이예스가 역전 3점 홈런을 때렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nab411e44",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260503_0003615400",
+    "title": "[6·3창원]송순호, '책 읽는 도시 창원' 정책간담회",
+    "summary": [
+      "[창원=뉴시스]강경국 기자 = 더불어민주당 송순호 경남 창원시장 후보가 3일 김영호 국회 교육위원장과 함께 '책 읽는 도시, 생각하는 창원'을 주제로 정책간담회를 열고 창원형 독서도시 조성 방안을 논의했다.",
+      "이번 간담회는 김 위원장이 추진 중인 '독서 국가 교육 대전환 프로젝트'와 연계해 창원을 독서와 인문학 기반의 도시로 만들기 위한 방안을 모색하고자 마련됐다.",
+      "송 후보는 김 위원장에게 ▲중·고등학교 신입생 도서 구입비 지원 시범사업 ▲작은도."
+    ],
+    "chips": [
+      "#정책",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n335e021c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/05/03/PFAT66BRYZEPRPVGGHNICYWNOI/",
+    "title": "HD일렉, 친환경 고압차단기 스웨덴에 공급",
+    "summary": [
+      "HD일렉, 친환경 고압차단기 스웨덴에 공급."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n9372fe96",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260503020751001",
-    "title": "국민의힘, 정진석 촉발한 친윤 공천 논란 분출에 고심(종합)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260503020752001",
+    "title": "국민의힘, 정진석 촉발한 친윤 공천 논란 분출에 고심(종합2보)",
     "summary": [
       "(서울=연합뉴스) 이정현 박수윤 노선웅 기자 = 국민의힘은 3일 비상계엄 당시 윤석열 전 대통령의 비서실장이던 정진석 전 국회 부의장의 공천을 ..."
     ],
@@ -483,156 +565,76 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf40108a6",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://www.asiae.co.kr/article/2026050315255021465",
-    "title": "함평나비대축제, 다육식물관 사막정원 이국적 연출 '눈길'",
+    "id": "n6f2fb05a",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/03/2026050310144196189",
+    "title": "골키퍼 3명 사실상 확정, 센터백은 '유일한 변수' 남았다 [홍명보호 최종엔트리 전망①]",
     "summary": [
-      "오는 5일까지 열리는 제28회 함평나비대축제에서 다육식물관의 이국적 연출이 관람객들의 발걸음을 사로잡고 있다.함평군은 '꿈꾸는 나비, 시작되는 여정'을 주제로 열린 제28회 함평나비대축제가 꽃과 나비가 어우러진 경관, 다양한 이색 전시로 관람객에게 큰 호응을 얻고 있다고 3일 밝혔다.",
-      "축제장 다육식물관에 조성된 '사막정원' 전시 공간은 이국적인 분위기로 주목받고 있다.",
-      "사막의 감성을 살린 램프와 보물상자, 양탄자."
+      "2026 국제축구연맹(FIFA) 북중미 월드컵에 나설 26명의 태극전사가 오는 16일 발표된다.",
+      "지난 2024년 8월 홍명보호 1기 발표 이후 약 1년 9개월 만에 추려지게 될 최종 엔트리다.",
+      "홍명보 감독 부임 이후 한 번이라도 태극마크를 단 선수는 총 69명."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf4e6b008",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://www.asiae.co.kr/article/2026050316411618417",
-    "title": "'공소취소 특검 저지' 보수야권 수도권 광역단체장 후보 회동키로",
+    "id": "n268d8b4f",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "10분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/05/03/PIOEJZUHJVASTGBLABBLZXMUHA/",
+    "title": "韓 차세대중형위성 2호, 지상 교신 성공…국토·재난 관측 수행(종합)",
     "summary": [
-      "국민의힘·개혁신당 등 보수 야권 소속 수도권 광역자치단체장 후보들이 오는 4일 서울 여의도에서 만나 오찬 회동을 갖고 더불어민주당의 '윤석열 정부 조작수사·기소 의혹 특검법안(공소 취소 특검)' 저지를 논의키로 했다.",
-      "김병민 오세훈 국민의힘 서울시장 후보 선거대책위원회 대변인은 측은 3일 \"'이재명 대통령 공소 취소 특별법' 처리 반대를 위해 조응천 개혁신당 후보가 제안한 범야권 공조를 환영한다\"면서 \"이를 위해."
+      "韓 차세대중형위성 2호, 지상 교신 성공…국토·재난 관측 수행(종합)."
     ],
     "chips": [
-      "#정책",
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "ncc3d028b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260503034651053",
-    "title": "김부겸, 당 지도부에 \"쉬운 말 한마디·법안 하나도 신중해달라\"(종합)",
-    "summary": [
-      "(대구=연합뉴스) 박세진 기자 = 더불어민주당 김부겸 대구시장 예비후보가 지방선거를 한 달여 앞둔 3일 당 소속 지역 지방선거 출마자들과 승리를..."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc3f70b64",
+    "id": "n7d01d8a9",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260503_0003615307",
-    "title": "삼성 최형우, 손아섭 따라잡았다…통산 최다 안타 타이",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/03/2026050311484370748",
+    "title": "'무려 278일' 걸린 스윕승→4연승→꼴찌 탈출, 자신만만 롯데 김태형 \"앞으로도 좋은 경기 보여드리겠다\" [인천 현장]",
     "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 삼성 라이온즈의 베테랑 타자 최형우가 통산 최다 안타 공동 1위로 올라섰다.",
-      "최형우는 3일 대구 삼성라이온즈파크에서 벌어진 2026 신한 쏠 KBO리그 한화 이글스와의 홈 경기에 3번 지명타자로 선발 출전해 7회말까지 네 차례 타석에 들어서 안타 3개를 몰아쳤다.",
-      "이날 경기 전까지 통산 2619안타를 기록 중이었던 최형우는 통산 안타 수를 2622개로 늘려 손아섭(두산 베어스)과 함께 통산 최다 안타 공동."
+      "\"앞으로도 좋은 경기 보여드릴 수 있도록 최선을 다하겠다.\" 뻔한 이야기만은 아니다.",
+      "최하위에 머물던 롯데 자이언츠지만 4연승 신바람을 달렸고 다음주부터 곧바로 합류할 전력이 기다리고 있기 때문이다.",
+      "김태형(59) 감독이 이끄는 롯데는 3일 인천 SSG랜더스필드에서 열린 SSG 랜더스와 2026 신한 SOL KBO리그 방문경기에서 5-2로 역전승을 거뒀다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nc2c97401",
+    "id": "n6e07672a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260503045400527",
+    "title": "제주 북부 앞바다에 풍랑주의보",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 3일 오후 8시를 기해 제주도 북부 앞바다에 풍랑주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec8bb6b5",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/03/2026050315141328015",
-    "title": "'추가시간 18분→상대 2명 퇴장 변수' 승리 채긴 김도균 서울E 감독 \"내용보단 결과 만족... 젊은 피들 잘해줬다\" [목동 현장]",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/culture/2026/05/03/2026050317130235600",
+    "title": "[내일 날씨] 흐리다 차차 맑아져…서울 아침 최저 9도 '쌀쌀'",
     "summary": [
-      "김도균 감독(50)이 김포FC에 진땀승을 거둔 소감을 전했다.",
-      "서울이랜드는 3일 오후 2시 목동종합운동장 주경기장에서 열린 김포FC와의 '하나은행 K리그2 2026' 10라운드 홈 경기에서 2-1로 승리했다.",
-      "서울이랜드는 승점 19(6승1무3패)로 3위를 유지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n382538fd",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/03/2026050316212635631",
-    "title": "\"유럽, 주독일 미군 감축보다 '토마호크 배치 철회' 더 두려워해\"",
-    "summary": [
-      "\"이란전 탓 무기 재고 문제 겹치며 억지력 공백 지속 우려\" 이란 전쟁을 둘러싼 도널드 트럼프 미국 대통령과 프리드리히 메르츠 독일 총리 간 갈등이 독일 주둔 미군 감축으로 이어진 가운데 유럽이 가장 두려워하는 것은 미군 감축으로 인한 미사일 배치 철회라는 지적이 제기됐다.",
-      "2일(현지시간) 미국 월스트리트저널(WSJ)은 전문가 분석을 인용해 \"독일 주둔 미군 감축보다 트럼프 대통령의 유럽산 자동차 관세 인상, 독일 내 장거리 미사일 배치 계획."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb523eced",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260503_0003615346",
-    "title": "'45세' 장나라, 데뷔 때와 달라진 게 없네",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 가수 겸 배우 장나라가 변함없는 동안 미모를 자랑했다.",
-      "3일 연예계에 따르면 최근 장나라는 자신의 소셜미디어에 하트와 함께 여러 장의 사진을 게재했다.",
-      "사진 속 장나라는 캐주얼한 데님 재킷과 넉넉한 팬츠, 캡 모자로 편안한 분위기를 살렸고, 다른 컷에서는 후드 재킷에 와이드 팬츠를 입고 쭈그려 앉아 셀카를 찍고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n88791dcb",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260503/133852905/1",
-    "title": "류수영·윤시윤 출격…김광석 주크박스 뮤지컬 ‘그날들’ 3년 만에 돌아온다",
-    "summary": [
-      "‘서른 즈음에’, ‘이등병의 편지’, ‘사랑했지만’ 등 김광석(1964~1996)의 대표곡으로 구성된 주크박스 뮤지컬 ‘그날들’이 3년 만에 관객을 만난다.",
-      "1992년과 2022년의 대통령 경호실을 배경으로 하는 이 뮤지컬은 두 명의 경호원 정학과 무영이 주인공이다.",
-      "두 사람은 한중 수교를 앞두고 신분 미상의 여인을 보호하라는 비밀 임무를 맡는데, 수교 당일 여인과 무영이 동시에 사라진다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n25856fed",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/2026050327747",
-    "title": "'K-위성' 차중 2호 발사…러-우 전쟁 넘고 4년 만에 결실",
-    "summary": [
-      "'K-위성' 차중 2호 발사…러-우 전쟁 넘고 4년 만에 결실."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n317cee58",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260503/133852362/1",
-    "title": "5000명 봄비 속 질주…‘하트시그널 러닝페스타’ 도심 달궜다",
-    "summary": [
-      "“다 같이 5, 4, 3, 2, 1 출발!”부슬부슬 내리는 봄비를 맞으며 도심을 달린 5000여 러너들의 얼굴에는 시종 웃음이 가득했다.",
-      "3일 채널A가 주최하고 한국심장재단이 메인스폰서를 맡은 ‘하트시그널 러닝페스타’은 마라톤과 페스티벌이 결합된 ‘펀 러닝(Fun Running)’으로 펼쳐졌다.",
-      "참가자들은 이날 서울 마포구 상암동 문화비축기지를 출발해 반환점인 가양대교 남단을 돌아 다시 출발지로 돌아오는 10km 코스를 달렸다."
+      "월요일인 4일은 비가 내리다가 낮부터 차차 맑아지겠다.",
+      "3일 기상청에 따르면 다음 날인 4일 수도권과 충남권, 전라권은 새벽까지, 충북은 아침까지, 강원도와 경북 북부는 낮까지 비가 내리겠다.",
+      "강원 산지(해발 1000m 이상)에는 비 또는 눈이 내리겠다."
     ],
     "chips": [
       "#뉴스"
@@ -645,18 +647,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "삼성전자",
+    "tag": "KBO",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "정치",
+    "tag": "삼성전자",
     "mentions": "1550건",
     "trend": "+135%"
   }
