@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-04 15:03:26
+// 마지막 업데이트: 2026-05-04 17:21:29
 window.NEWS_DB = [
   {
     "id": "n0d9b41e5",
     "category": "경제",
     "source": "네이트",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FdFB4MGRfckFtZ3FIMEZtN3FTVFl5ZGRXeTdTdTZxR0hGZEd4VE9hY2tCa0Z6SVRfX21wdVZwYjREbzB4U2o5aVh4R2R2OVdpb3JJ?oc=5",
     "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nf4b4e411",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcXhPMFpRVDRMZVRWVnAtc1pmSU44MTJESDllUjE4dUxpWjJMbW9YX0FENW42R1hpdWlCbGxHQVpWTVZQR3U2dEZJTzV5cFVBUnZNbDlWTWx3aE05ZGJ3b3hNbmZiN2g0SFpzMUZuUGZHOFU?oc=5",
     "title": "엔비디아 피지컬 AI 신사업에 한국 역할 커진다, SK 삼성 LG 현대차 협력 중요",
     "summary": [
@@ -136,6 +136,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n61a2d2cd",
+    "category": "IT",
+    "source": "이데일리",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUIwcy1MNTZHY01ZY0dhN1I2MVpXM0xfVU13WGE5OEtPWjdFZEY0VmRzRE1XYU9vNGJFYlBfOFB1YkUybXA3aXVjX3JDUTJ4QnkzT1V1WDRyQVZtbGtjVkJ4RjgyaGFLX1FCMms1Uy0wMUVMTHdWeS0yTDRMOHpscw?oc=5",
+    "title": "중기부, 1조8천억 벤처펀드 선정……차세대 유니콘 육성에 절반",
+    "summary": [
+      "중기부, 1조8천억 벤처펀드 선정……차세대 유니콘 육성에 절반 이데일리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nbe7cf66c",
     "category": "사회",
     "source": "투데이경제",
@@ -149,34 +163,6 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "ndb209651",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2ZPYUdqZzlDeTZ1MUlocGIwazNHcThRT2VaQm8zR1FvTFNnYVcyM1U0bTRYWEh4cUlTUzNyTFh6X25sUE5zTHZNRmt5Z2phWV9QakVvazhfRzVyT2ppNHItV1lIdUJwU2w2d0U5N0NJMllrdUxUZjNHcHUtaU9DaldIcGxyaFHSAZsBQVVfeXFMUDlmS2hsN3lfTlZTdGo5aWJoWXJicXltWGhqeElZVHVHUmctUUVJMnFOODZoZGhPeFhMTW5GMnJGU2dRUXEwNV9yYkZ6V2dzbDhyb05oZ01oZVprVC04QzZsYjNsN1UxS0VyWnRiOEV2UmtMcXF4eDNpTllobjdoUFJRY2tKOTM5dm1KU3dzTm9xWmNnVkRreC1QdlE?oc=5",
-    "title": "[단독] 창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈",
-    "summary": [
-      "[단독] 창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n91027e92",
-    "category": "부동산",
-    "source": "일간스포츠",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dks1OERTbjB0VjgwQ3kzdmFQbDVpdEM4OTZsZU5LSmFOT2RXYnFqOE1SNnFXQU1SWlNxMVZtajA2V2lmUnloYjFxRmhQSGp3R2lFVWhURXozYUU?oc=5",
-    "title": "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목",
-    "summary": [
-      "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목 일간스포츠."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -209,20 +195,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "33일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n95ae41aa",
     "category": "사회",
     "source": "mstoday.co.kr",
@@ -236,20 +208,6 @@ window.NEWS_DB = [
       "#AI",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "ncbcb6c77",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "57일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -297,6 +255,49 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13cdbe9c",
+    "category": "부동산",
+    "source": "시사저널e",
+    "time": "125일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
+    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
+    "summary": [
+      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n490343d1",
+    "category": "스포츠",
+    "source": "미디어오늘",
+    "time": "173일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ME9tQ2JRQWtiTUxTcTVVUHRPUVFhcXNDWFo0TnVSUm9ubWo2d0o0UTVOQ01iUW1tMlNYVG9JWjRMbl95c3MzVk5CNmJMUnNDRU02VGk4aTFXWU5QTlNkcHVwbW40Z3otVkxUaGd0cm8?oc=5",
+    "title": "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’",
+    "summary": [
+      "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’ 미디어오늘."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "213일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "summary": [
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
     "id": "ncf254dd6",
     "category": "IT",
     "source": "테크M",
@@ -313,10 +314,242 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n43cef331",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003616431",
+    "title": "\"백인이 되고 싶었다?\"…마이클 잭슨 피부 변화의 숨겨진 진실",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 고희진 인턴기자 = '팝의 황제' 고(故) 마이클 잭슨의 일대기를 담은 영화 '마이클'(감독 안톤 후쿠아)이 오는 13일 국내 개봉을 앞둔 가운데, 그가 앓았던 백반증이 재조명되고 있다.",
+      "지난달 28일(현지 시간) 영국 매체 데일리메일에 따르면 마이클 잭슨의 피부 변화는 외모 집착이나 인종적 선택이 아닌 질환에 따른 결과로 다시 주목받고 있다.",
+      "생전 마이클 잭슨은 \"백인이 되기 위해 피부를 탈색하고 성형에 집착했다\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n03d7a54d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505002700108",
+    "title": "AFP \"러, 지난달 우크라서 잃은 영토가 더 많아…3년만에 처음\"",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 러시아가 지난 4월 우크라이나에서 교전으로 확보한 영토보다 잃은 면적이 더 넓은 것으로 파악됐다고 AFP..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n11943727",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/05/V4MQ4CK7DVF5ZICGHP3EPCTKX4/",
+    "title": "[속보] 美, “이란, 호르무즈 선박 공격...이란소형정 격침”",
+    "summary": [
+      "[속보] 美, “이란, 호르무즈 선박 공격...이란소형정 격침”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5a5f71c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617069",
+    "title": "美 \"호르무즈 해협서 이란 소형보트 6척 격침…이란 군사력 극적 저하돼\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 미군이 4일(현지 시간) 호르무즈 해협 인근에서 상선을 위협하던 이란 소형 선박 6척을 격침했다고 주장했다.",
+      "폭스뉴스 등에 따르면 브래드 쿠퍼 중부사령부(CENTCOM) 사령관은 이날 기자단에게 \"이란은 과거 호르무즈 해협 내에서 선박들을 위협할 때 20~40척 사이의 소형 선박을 배치해왔다\"며 \"이날 확인된 선박은 단 6척 뿐이었고, 신속히 격침했다\"고 밝혔다.",
+      "그는 \"이란의 군사 역량이 극적으로 저하됐다\"며 \"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0a21d126",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505002500082",
+    "title": "독일 라이프치히서 차량 돌진…최소 1명 사망",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 4일 오후(현지시간) 독일 동부 라이프치히에서 차량이 행인을 향해 돌진해 최소 1명이 숨졌다고 ARD방송 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncbf4d669",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505002051071",
+    "title": "\"이란, 호르무즈 상선 공격…미군, 이란소형정 격침·드론 요격\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미군이 이란의 호르무즈 해협 봉쇄로 발이 묶인 각국 선박을 빼내기 위한 '해방 프로젝트'에 착수한 4일(현..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf05732e",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505000852009",
+    "title": "이란, UAE 공격 재개…휴전후 한달간 소강흐름 깨져(종합2보)",
+    "summary": [
+      "(카이로·서울=연합뉴스) 김상훈 특파원 강훈상 기자 = 지난달 8일(현지시간) 미국과 이란의 휴전 이후 한달간 멈췄던 이란의 걸프 지역에 대한 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c609277",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/05/2026050421132797034",
+    "title": "\"휴지 없으면 찾아와!\" 中탁구선수, 부상 치료하다 인성 논란→韓·스웨덴에 패하자 짜증",
+    "summary": [
+      "'세계 최강'이라는 평가를 받는 중국 남자 탁구 대표팀이 2026 런던 세계선수권대회에서 한국과 스웨덴에 잇따라 패하며 굴욕적인 연패를 당한 가운데, 중국의 에이스이자 주장인 왕추친(26)의 경기 중 언행이 도마 위에 올랐다.",
+      "사건은 지난 3일(한국시간) 영국 런던에 위치한 OVO 아레나 웸블리에서 열린 스웨덴과의 '2026 런던세계탁구선수권대회' 단체전 1조 조별 예선 3차전에서 발생했다.",
+      "앞선 2차전에서 한국에 1-3으로 충격 패를 당했던."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a4c2f0e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003615971",
+    "title": "부산문화회관, 하반기 시즌 공개…발레·오페라·뮤지컬 총망라",
+    "summary": [
+      "[부산=뉴시스]진민현 기자 = 부산문화회관이 오는 7일 2026년 하반기 시즌을 공개하고 예매를 시작한다고 5일 밝혔다.",
+      "이번 시즌은 발레·무용, 클래식·음악, 연극·뮤지컬, 가족·어린이, 대중 공연 등 다양한 장르로 구성됐다.",
+      "특히 부산에서 제작·초연되는 작품과 국내외 우수 공연을 결합해 관객 선택의 폭을 넓혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0415bdec",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/05/05/GQ3TKNBQME2GCNZZMVSTKYJRMI/",
+    "title": "\"또또또 韓 우승 들러리 됐다\" 중국 배드민턴, 충격패에 한숨...\"안세영 압도적 성장으로 격차 드러났어\" 냉철 진단",
+    "summary": [
+      "[OSEN=고성환 기자] 안세영(24, 삼성생명)만 세계 최강이 아니다.",
+      "한국 여자 배드민턴이 중국까지 누르고 4년 만의 정상 탈환에 성공했다.중국 '넷이즈'는 3일(한국시간) \"중국 대표팀이 세계여자단체선수권(우버컵) 타이틀 방어에 실패하면서 한국의 우승을 세 차례나 '들러리'로 지켜보게 됐다.",
+      "4년 전 태국 방콕에서 한국에 2-3으로 패하며 우승을 지키."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73ed18f9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "34분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/05/HAYTIZTGMZQTAZBQHBSTGNRZGU/",
+    "title": "이란, 휴전 후 UAE 공격 재개… 석유 단지서 대규모 화재",
+    "summary": [
+      "미국과 이란의 휴전 이후 한 달 동안 멈췄던 이란의 걸프 지역에 대한 공격이 재개됐다.",
+      "4일(현지 시각) 오후 아랍에미리트(UAE) 국방부는 이란에서 발사된 순항미사일 4기 가운데 3기를 영해 상공에서 격추했고, 나머지 1기는 해상에 떨어졌다고 밝혔다.",
+      "국방부는 해당 미사일이 UAE의 여러 곳을 겨냥했다고 덧붙였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd4ada738",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "41분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260505/133861448/2",
+    "title": "호르무즈 韓화물선서 폭발… 피격 추정",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 호르무즈 해협에 갇힌 각국 선박들이 무사히 빠져나올 수 있도록 ‘프로젝트 프리덤(Project Freedom·해방 프로젝트)’ 작전을 시행한 첫날인 4일(현지 시간) 해협에 정박해 있던 한국 화물선에서 폭발이 발생했다.",
+      "정부 관계자는 “피격으로 폭발이 발생했을 가능성에 대해 확인하고 있다”고 말했다.",
+      "이란 전쟁 발발 뒤 한국 선박에 폭발이 발생한 건 처음이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nafcbeac3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "41분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260505/133861446/2",
+    "title": "[단독]지방 호스피스 태부족에 ‘원정 임종’ 떠나는 노인들",
+    "summary": [
+      "혈액암으로 3년간 투병해 온 최모 씨(59)가 지난달 초 연명의료를 중단하자 가족들은 의료진이 집을 찾는 ‘가정형 호스피스’를 수소문했다.",
+      "하지만 거주지인 충북 음성군엔 호스피스 기관 자체가 없었고, 충북에서 유일하게 가정형 호스피스를 제공하는 충북대병원은 포화 상태라 더 이상 환자를 받지 않았다.",
+      "최 씨는 결국 지난달 중순 충주의료원에 입원해 9일 만에 세상을 떠났다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n65e05f51",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "41분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260505/133861444/2",
+    "title": "與, ‘조작기소 특검법’ 지방선거 뒤로 처리 미룰듯",
+    "summary": [
+      "이재명 대통령은 4일 더불어민주당이 발의한 ‘조작수사·조작기소 진상규명 특검법’(조작기소 특검법)과 관련해 “특검을 통해 진실을 규명하고 사법적 정의를 바로 세우는 건 반드시 해야 할 일”이라며 “구체적인 시기나 절차는 여당인 민주당이 국민적 의견 수렴과 숙의 과정을 거쳐 판단해 달라”고 했다.",
+      "민주당은 6·3 지방선거에 미칠 영향을 고려해 특검법 처리 시점을 선거 이후로 미루기로 가닥을 잡았다.홍익표 대통령정무수석비서관은 이날 긴급 브리핑을."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n39ef3b0f",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "41분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260505/133861442/2",
+    "title": "靑 “실수요 무관한 주택대출 안 주는 게 당연”",
+    "summary": [
+      "청와대가 비거주 1주택자에 대한 부분 과세 강화와 함께 대출 규제 방침을 시사했다.",
+      "또 전세를 낀 비거주 1주택 매도 시 실거주 의무를 유예하는 방안에 대한 논의에 나섰다.",
+      "이달 9일로 다주택자 양도세 중과가 시행되면서 ‘매물 잠김’ 현상에 대한 우려가 나오는 가운데, 비거주 1주택자 매물을 유도하겠다는 취지로 풀이된다."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
     "id": "nd6576131",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "59분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151540",
     "title": "[테크M 이슈] '배그' 개발사와 카셰어링이 왜?...쏘카와 크래프톤의 인연",
     "summary": [
@@ -329,10 +562,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5ee3fa9c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/05/2026050421581949985",
+    "title": "김연아 단발 변신→日관심 여전 \"치명적 아름다움\" 극찬 세례",
+    "summary": [
+      "'피겨 퀸' 김연아(35)의 파격적인 단발 변신에 일본 언론과 열도가 들썩이고 있다.",
+      "일본 매체 데일리스포츠는 4일 \"2010년 밴쿠버 올림픽 피겨스케이팅 금메달리스트 김연아의 단발로 분위기를 바꾼 모습이 반향을 일으키고 있다\"며 지난 3일 김연아가 게시한 사진을 인용해 전했다.",
+      "해당 매체는 \"지난 4월 자신의 트레이드마크였던 긴 머리를 과감하게 자른 모습을 공개했던 김연아가 새로운 사진을 추가로 게시했다\"며 \"창가에서 나른한 표정을 짓는 등."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n037c89ad",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151542",
     "title": "삼성전자, 노노갈등 '심화'...동행노조, \"현 교섭단, 특정 사업부 편중 전체 이익 관심 없어\"",
     "summary": [
@@ -345,10 +594,38 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n225552de",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505000851009",
+    "title": "이란, UAE 공격 재개…석유단지 드론 피격 화재(종합)",
+    "summary": [
+      "(서울=연합뉴스) 강훈상 기자 = 지난달 8일(현지시간) 미국과 이란의 휴전 이후 한달간 멈췄던 이란의 걸프 지역에 대한 공격이 재개됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n01d8feb0",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026050558261",
+    "title": "호르무즈 정박 韓선박서 폭발…정부 \"피격 여부 확인 중\"",
+    "summary": [
+      "호르무즈 정박 韓선박서 폭발…정부 \"피격 여부 확인 중\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ndaeb5010",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151539",
     "title": "삼성전자 노조 연이은 '구설수'...이번엔 '기부금 아깝다' 논란",
     "summary": [
@@ -359,284 +636,6 @@ window.NEWS_DB = [
     "chips": [
       "#삼성전자"
     ]
-  },
-  {
-    "id": "nd401ebf1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003615899",
-    "title": "장재인, 소름 돋는 '종잇장 몸매'…\"분위기 독보적\" vs \"건강 우려\"",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 가수 장재인이 최근 몰라보게 달라진 외모를 공개한 가운데, 팬들 사이에서 고혹적인 분위기에 대한 찬사와 건강을 염려하는 목소리가 동시에 나오고 있다.",
-      "장재인은 지난 27일 자신의 소셜네트워크서비스(SNS)를 통해 한 헤어 브랜드의 프레젠테이션 행사에 참석한 사진을 여러 장 공유했다.",
-      "공개된 사진 속 장재인은 과거보다 확연히 갸름해진 얼굴 라인과 가녀린 몸매를 드러내 시선을 사로잡았다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n261b2eb3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003615700",
-    "title": "이다해 픽 '크루아상 샌드위치'…더 건강하게 먹으려면",
-    "summary": [
-      "[서울=뉴시스]서영은 인턴 기자 = 배우 이다해가 최근 사회관계망서비스(SNS)를 통해 크루아상과 깜빠뉴를 활용한 샌드위치 식단을 선보여 눈길을 끈다.",
-      "신선한 채소를 듬뿍 넣은 샌드위치는 다이어트의 정석으로 꼽히지만, 재료 구성에 따라 영양 성분은 크게 달라진다.",
-      "해외 건강 매체들이 분석한 데이터를 바탕으로 영양 효율을 극대화하는 샌드위치 조리법을 짚어봤다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2ba4c74b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617059",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-    "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba8fc42c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003617040",
-    "title": "한윤서 예비 시모, '상견례 취소' 통보했다",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 개그우먼 한윤서가 예비 시댁과의 상견례 무산으로 결혼 위기에 직면했다.",
-      "4일 방송된 TV조선 가족 예능물 '조선의 사랑꾼'에서는 한윤서의 예비 신랑 문준웅 씨가 어머니로부터 돌연 만남 취소 통보를 받는 모습이 그려졌다.",
-      "문 씨는 제작진과 한윤서에게 \"어머니가 다음 주 일정을 취소해달라고 하셨다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1717c14c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/opinion/column/2026/05/04/RS7F3G6Y7FCLPJRNNQMIYQZMPU/",
-    "title": "[김대중 칼럼] 이재명의 안보 자만",
-    "summary": [
-      "[김대중 칼럼] 이재명의 안보 자만."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5055a1bf",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504155700065",
-    "title": "해경청, 호르무즈 韓선박 화재에 인접국 구조협력 요청",
-    "summary": [
-      "(인천=연합뉴스) 김상연 기자 = 이란의 통제로 호르무즈 해협에 갇혀 있던 한국 선박에서 폭발과 화재가 발생한 것과 관련해 해양경찰청이 대응에 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb81c5b33",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504155600009",
-    "title": "이란군 \"호르무즈 통과한 선박 없다\"",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 이란 이슬람혁명수비대는 4일(현지시간) 미국 상선 2척이 호르무즈 해협을 통과했다는 미군의 주장이 사실이 아니..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf5fac335",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260504/133857659/1",
-    "title": "“한국 화물선, 호르무즈서 폭발-화재…피격 추정”",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 호르무즈 해협에 갇힌 각국 선박들이 무사히 빠져나올 수 있도록 ‘프로젝트 프리덤(Project Freedom·해방 프로젝트)’ 작전을 시행한 첫날인 4일(현지 시간) 한국 화물선에서 폭발이 발생했다.",
-      "정부 관계자는 “피격으로 폭발이 발생했을 가능성에 대해 확인하고 있다”고 말했다.",
-      "미국·이스라엘과 이란 전쟁 발발 뒤 한국 선박에 피격 추정 폭발이 발생한 건 처음이다.해양수산부에 따르면 4일 오후 3시 40분경 호르무."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n539ab2ec",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/04/G43TONRZGFRTQZTEMI4DGMZWHA/",
-    "title": "\"폭삭 망했수다\" 맨유에도 밀린 '캡틴' 반 다이크의 대통곡! \"이건 리버풀 아냐, 용서 안돼→절대 재발 안돼\" 통렬한 반성",
-    "summary": [
-      "[스포츠조선 김성원 기자]디펜딩챔피언 리버풀이 환희가 한 시즌 만에 사라졌다.",
-      "리버풀은 4일(이하 한국시각) 영국 맨체스터의 올드트래포드에서 끝난 맨유와의 2025~2026시즌 잉글랜드 프리미어리그(EPL) 35라운드에서 2대3으로 패했다.",
-      "전반 맨유에 0-2로 끌려가다 후반 전열을 재정비한 리버풀은 11분 만에 승부를 원점으로 돌렸다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n9b3f84a6",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260504/133860771/2",
-    "title": "[사설]부동산 정책 ‘투자에서 거주로’… 지속성과 일관성이 관건",
-    "summary": [
-      "9일 다주택자 양도소득세(양도세) 중과 유예 종료를 앞두고 서울 부동산 시장에서 전망이 엇갈리고 있다.",
-      "한쪽에서 양도세 부담 때문에 매물이 급감하는 ‘매물 잠김’ 현상이 나타나 집값이 다시 뛸 수 있다고 하고, 다른 쪽에서는 대출 규제로 매수세가 약한 데다 매도를 포기한 집주인들이 다시 세를 내놓아 전월세 시장이 안정되면 하락세가 확산할 수 있다고 맞서고 있다.",
-      "김용범 대통령정책실장은 4일 기자간담회를 갖고 이와 관련해 “어느 정도 그 조치로."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5d237a1a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504151453051",
-    "title": "호르무즈 한국선사 운용 선박서 폭발사고…\"피격 여부 확인 중\"(종합2보)",
-    "summary": [
-      "(서울·부산=연합뉴스) 이영재 임형섭 김동현 손형주 기자 = 미국이 걸프 해역(페르시아만)에 갇힌 민간 선박이 호르무즈 해협을 통과해 탈출할 수..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6ffe3f8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260504/133860775/3",
-    "title": "[사설]민원에 사라지는 현장학습, 학교-교사-학부모 함께 풀어야",
-    "summary": [
-      "전국 초등교사 2만여 명이 참여한 설문조사에서 90%가 소풍과 수학여행 등 현장체험학습에 대해 ‘매우 부정적’이라고 답했다.",
-      "‘대체로 부정적’이라는 응답까지 합치면 97%에 육박한다.",
-      "이처럼 교사들이 현장학습에 부정적인 이유로는 안전사고 발생에 따른 사법적 책임을 져야 한다는 불안감, 학부모 민원과 과도한 행정 업무에 대한 부담감이 꼽혔다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n7346865d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260504/133860773/3",
-    "title": "[사설]특검 수사관이 변호사 스펙 쌓는 자리인가",
-    "summary": [
-      "2차 종합특검에 수사관으로 합류한 이모 변호사가 2일 자신의 소셜네트워크서비스(SNS)에 임명장 사진과 함께 올린 게시물이 논란이 되고 있다.",
-      "이 변호사는 “피의자 편에만 서다가 난생처음 수사기관에 들어왔다.",
-      "수사 경력을 쌓으면 형사 사건에 대한 전문성이 극대화될 것”이라고 썼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc285fe6",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://www.asiae.co.kr/article/2026050423403494059",
-    "title": "호르무즈 내 韓선박 화재…현재까지 인명피해 없어 (종합)",
-    "summary": [
-      "호르무즈 해협 내 정박해있던 한국 선박 한 척에서 폭발이 발생한 가운데 정부는 4일 피격 여부 등 사실관계 파악에 나섰다.",
-      "현재까지 인명피해는 없는 것으로 알려졌다.",
-      "외교부와 해양수산부(해수부) 등에 따르면 이날 오후 8시 40분경(한국시간) 호르무즈 해협 내측 아랍에미리트(UAE) 인근 해역에 정박 중이던 한국 선사 운용 선박 1척에서 폭발과 함께 화재가 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3e481c74",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504151300108",
-    "title": "어머니의 날 맞아 '나는 개엄마' 광고, 튀르키예서 논란",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 반려견 가정을 주제로 한 독일 가전업체 보쉬의 텔레비전 광고를 두고 튀르키예에서 논란이 일고 있다고 하베..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb582e92e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/opinion/taepyeongro/2026/05/04/CSK6KLK4NFCMHKKSSOHZ2PSQY4/",
-    "title": "[태평로] ‘김용 공천 소동’으로 본 권력 비선들의 착각",
-    "summary": [
-      "[태평로] ‘김용 공천 소동’으로 본 권력 비선들의 착각."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb3da4443",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "34분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/04/2026050423203210027",
-    "title": "검은 연기 뒤덮은 세종 폐차장…4시간여 만에 진화, 1명 부상",
-    "summary": [
-      "세종시의 한 폐차장에서 발생한 화재가 진화됐다.",
-      "4일 뉴스1에 따르면 소방 당국은 이날 오후 4시 30분쯤 세종시 연서면 월하리의 한 폐차장에서 \"검은 연기가 발생하고 있다\"는 신고를 접수했다.",
-      "신고를 받고 출동한 소방 당국은 헬기 4대와 장비 54대, 인력 147명을 투입해 진화 작업을 벌였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n048a79a7",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "42분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/04/2026050423011794295",
-    "title": "정부 \"호르무즈 韓 선박서 폭발·화재…선원 24명 피해 없어\"",
-    "summary": [
-      "[the300](2보) 한국 선사 운용 선박…폭발과 함께 화재 발생 한국인 6명·외국인 18명 탑승…인명피해 없어 중동전쟁으로 호르무즈 해협에서 발이 묶인 한국 선사 운용 선박에서 폭발과 함께 화재가 발생했다.",
-      "현재까지 인명 피해는 없는 것으로 파악됐다.",
-      "외교부는 4일 밤 언론공지를 통해 \"우리 시간 오후 8시40분쯤 호르무즈 해협 내측 아랍에미리트(UAE) 인근 해역에 정박 중이던 우리 선사 운용 선박 1척에서 폭발과 함께 화재가 발생했다\"며."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -645,8 +644,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
