@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-04 12:18:23
+// 마지막 업데이트: 2026-05-04 15:03:26
 window.NEWS_DB = [
   {
     "id": "n0d9b41e5",
     "category": "경제",
     "source": "네이트",
-    "time": "5시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FdFB4MGRfckFtZ3FIMEZtN3FTVFl5ZGRXeTdTdTZxR0hGZEd4VE9hY2tCa0Z6SVRfX21wdVZwYjREbzB4U2o5aVh4R2R2OVdpb3JJ?oc=5",
     "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nf4b4e411",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcXhPMFpRVDRMZVRWVnAtc1pmSU44MTJESDllUjE4dUxpWjJMbW9YX0FENW42R1hpdWlCbGxHQVpWTVZQR3U2dEZJTzV5cFVBUnZNbDlWTWx3aE05ZGJ3b3hNbmZiN2g0SFpzMUZuUGZHOFU?oc=5",
     "title": "엔비디아 피지컬 AI 신사업에 한국 역할 커진다, SK 삼성 LG 현대차 협력 중요",
     "summary": [
@@ -77,22 +77,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6da60682",
-    "category": "IT",
-    "source": "미디어펜",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MbkhhZXZMT0NCdVNxWks4WG5qd0R0U3Z5cWZ1YUdkM1ZEUDlQazRKY0NJYWR5RVc4N3dGUlJvTU9GWGE0X000QWhDT21OVWdGTVVhTdIBWEFVX3lxTFB4ejlNNWdlRFFNSlpucVBMWXh2Qm0xSXFIZExmZy1aR3hFbVpsdmdFeEhPS3Q0WnFhS3JIaXA5ZHExZEV6em9sdlZqNE5xNEltN2djeGFyYUg?oc=5",
-    "title": "[美증시 특징주] 퀄컴 폭등에 반도체 장비주도 급등...엔비디아 AI거품론에 급락",
-    "summary": [
-      "[美증시 특징주] 퀄컴 폭등에 반도체 장비주도 급등...엔비디아 AI거품론에 급락 미디어펜."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nbf280c57",
     "category": "IT",
     "source": "시사저널e",
@@ -123,6 +107,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n28b16b97",
+    "category": "IT",
+    "source": "프라임경제",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZZk8wMDVyNS1LcGs2dmpDOWNxQXdHVVdYa1Vhc3RBSVU3NEs3ODI5bDdUdTZKd2NmWUJKU01PUE1aN1FXY0t2LUQyWDlzdkdoMndGRTRJbENsYmJoTGFJNXdpZTVNMjd3Vk5Edw?oc=5",
+    "title": "정부, SKT·LG AI 현장 방문…'K-엔비디아' 육성 속도",
+    "summary": [
+      "정부, SKT·LG AI 현장 방문…'K-엔비디아' 육성 속도 프라임경제."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "nbc723bfb",
     "category": "IT",
     "source": "네이트",
@@ -134,35 +133,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n61a2d2cd",
-    "category": "IT",
-    "source": "이데일리",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUIwcy1MNTZHY01ZY0dhN1I2MVpXM0xfVU13WGE5OEtPWjdFZEY0VmRzRE1XYU9vNGJFYlBfOFB1YkUybXA3aXVjX3JDUTJ4QnkzT1V1WDRyQVZtbGtjVkJ4RjgyaGFLX1FCMms1Uy0wMUVMTHdWeS0yTDRMOHpscw?oc=5",
-    "title": "중기부, 1조8천억 벤처펀드 선정……차세대 유니콘 육성에 절반",
-    "summary": [
-      "중기부, 1조8천억 벤처펀드 선정……차세대 유니콘 육성에 절반 이데일리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n7aed1cf1",
-    "category": "부동산",
-    "source": "리얼캐스트",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWXh3MEhBenVCb1I5NTNLa2FVWTdPSG9MYlh1YlpMQVNEQXlDdTdIUlBpMkk4SDBMbldqdDU5ejN6OWdEQkhsMlpqdnZDNEpVX1FZbE02R1NrbmFRRGh3bzItMl9DbVpB0gFsQVVfeXFMTWFpTF8xUHdYam9qb3JXalkzRzc2bE54VG9zUEltd1N2THBaZ3pRb185d2o1MTlvaXF6di01bURqZ1FrTFNvQTY2UV9hV3NkUENleW5ndjQzT2FYVk9EM2p0YnVNd0N2dkdvLXg2?oc=5",
-    "title": "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동",
-    "summary": [
-      "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동 리얼캐스트."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
     ]
   },
   {
@@ -179,6 +149,34 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "ndb209651",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2ZPYUdqZzlDeTZ1MUlocGIwazNHcThRT2VaQm8zR1FvTFNnYVcyM1U0bTRYWEh4cUlTUzNyTFh6X25sUE5zTHZNRmt5Z2phWV9QakVvazhfRzVyT2ppNHItV1lIdUJwU2w2d0U5N0NJMllrdUxUZjNHcHUtaU9DaldIcGxyaFHSAZsBQVVfeXFMUDlmS2hsN3lfTlZTdGo5aWJoWXJicXltWGhqeElZVHVHUmctUUVJMnFOODZoZGhPeFhMTW5GMnJGU2dRUXEwNV9yYkZ6V2dzbDhyb05oZ01oZVprVC04QzZsYjNsN1UxS0VyWnRiOEV2UmtMcXF4eDNpTllobjdoUFJRY2tKOTM5dm1KU3dzTm9xWmNnVkRreC1QdlE?oc=5",
+    "title": "[단독] 창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈",
+    "summary": [
+      "[단독] 창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n91027e92",
+    "category": "부동산",
+    "source": "일간스포츠",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dks1OERTbjB0VjgwQ3kzdmFQbDVpdEM4OTZsZU5LSmFOT2RXYnFqOE1SNnFXQU1SWlNxMVZtajA2V2lmUnloYjFxRmhQSGp3R2lFVWhURXozYUU?oc=5",
+    "title": "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목",
+    "summary": [
+      "창원 성산구 집값 상승세 지속…‘창원자이 더 스카이’ 공급 희소성 주목 일간스포츠."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -208,6 +206,20 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#정책"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "33일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -285,18 +297,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5de3a708",
-    "category": "스포츠",
-    "source": "매일경제",
-    "time": "213일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
-    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "id": "ncf254dd6",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151541",
+    "title": "[카드뉴스] 크래프톤은 왜 게임을 넘어 자율주행에 투자했을까?.. IP·AI·데이터의 연결 전략에 주목하라",
     "summary": [
-      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+      "요즘 게임 회사들의 움직임을 보면 한 가지 공통점이 보인다.",
+      "더 이상 게임 안에서 경쟁하지 않는다.",
+      "크래프톤 역시 마찬가지다.배틀그라운드라는 강력한 IP를 기반으로 AI를 붙이고, 그 AI를 다시 자율주행과 현실 데이터로 연결한다."
     ],
     "chips": [
-      "#손흥민",
-      "#KBO"
+      "#AI"
     ]
   },
   {
@@ -348,296 +361,278 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n86ac46ee",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151538",
-    "title": "크래프톤 '배그' 탈 것 컬래버 진화...할리 데이비슨으로 '감성'까지 더한다",
+    "id": "nd401ebf1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003615899",
+    "title": "장재인, 소름 돋는 '종잇장 몸매'…\"분위기 독보적\" vs \"건강 우려\"",
     "summary": [
-      "크래프톤이 배틀그라운드 내에서 '탈것 컬래버' 전략을 강화하고 있어 눈길을 끕니다.",
-      "슈퍼카에 치우쳤던 차량 컬래버는 이제 오토바이의 대명사로 불리는 '할리 데이비슨'으로 향합니다.",
-      "크래프톤은 4일 배틀그라운드에 할리 데이비슨 컬래버레이션 업데이트를 진행한다고 밝혔습니다."
+      "[서울=뉴시스]허준희 인턴 기자 = 가수 장재인이 최근 몰라보게 달라진 외모를 공개한 가운데, 팬들 사이에서 고혹적인 분위기에 대한 찬사와 건강을 염려하는 목소리가 동시에 나오고 있다.",
+      "장재인은 지난 27일 자신의 소셜네트워크서비스(SNS)를 통해 한 헤어 브랜드의 프레젠테이션 행사에 참석한 사진을 여러 장 공유했다.",
+      "공개된 사진 속 장재인은 과거보다 확연히 갸름해진 얼굴 라인과 가녀린 몸매를 드러내 시선을 사로잡았다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "nbaa3d064",
+    "id": "n261b2eb3",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003616988",
-    "title": "자전거 동호회 들이받고 도주…美 70대 운전자 '체포'",
+    "url": "https://www.newsis.com/view/NISX20260504_0003615700",
+    "title": "이다해 픽 '크루아상 샌드위치'…더 건강하게 먹으려면",
     "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 미국 조지아주에서 고령 운전자가 자전거 동호회 회원들을 향해 차량을 몰고 돌진한 뒤 달아나는 사건이 발생했다.",
-      "지난 1일(현지시각) Fox 5 애틀랜타와 뉴욕포스트 등에 따르면 사건은 지난달 23일 조지아주 체로키 카운티에서 발생했다.",
-      "운전자 제리 웨인 로스(72)는 당시 자전거를 타고 주행 중이던 동호회 회원들을 향해 차량을 몰고 접근한 뒤 충돌을 일으키고 현장을 이탈한 혐의를 받고 있다."
+      "[서울=뉴시스]서영은 인턴 기자 = 배우 이다해가 최근 사회관계망서비스(SNS)를 통해 크루아상과 깜빠뉴를 활용한 샌드위치 식단을 선보여 눈길을 끈다.",
+      "신선한 채소를 듬뿍 넣은 샌드위치는 다이어트의 정석으로 꼽히지만, 재료 구성에 따라 영양 성분은 크게 달라진다.",
+      "해외 건강 매체들이 분석한 데이터를 바탕으로 영양 효율을 극대화하는 샌드위치 조리법을 짚어봤다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n4789fe18",
+    "id": "n2ba4c74b",
     "category": "사회",
-    "source": "아시아경제",
+    "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.asiae.co.kr/article/2026050421041774861",
-    "title": "\"죽여버리려 했다\" 녹취 확보…故김창민 감독 가해자 구속 \"억울함 풀리길\"",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617059",
+    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
     "summary": [
-      "정성호 법무부 장관이 고(故) 김창민 감독의 상해치사 사건과 관련해 가해자 2명이 구속된 사실을 밝히며 \"피해자의 억울함은 풀고 범죄자는 단 하루도 편히 잠들지 못하도록 하겠다\"고 했다.",
-      "정 장관은 4일 자신의 사회관계망서비스(SNS)에 \"지난해 10월 사건 발생 후 7개월이 지나서야 이뤄진 구속에 고인과 유가족께 송구한 마음\"이라며 이같이 말했다.",
-      "이날 정 장관은 \"(검찰이) 초동수사의 미진함을 지적한 유족들의 호소와."
+      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
+      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
+      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n38f3d29c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/list/article/all/20260504/133860738/2",
-    "title": "‘용인 플랫폼시티 라온프라이빗 아르디에’ 선착순 계약",
+    "id": "nba8fc42c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003617040",
+    "title": "한윤서 예비 시모, '상견례 취소' 통보했다",
     "summary": [
-      "라온건설은 ‘용인 플랫폼시티 라온프라이빗 아르디에’ 선착순 계약을 진행하고 있다고 4일 밝혔다.용인 플랫폼시티 라온프라이빗 아르디에는 경기 용인 일원에 지하 2층~지상 7층, 7개동, 전용 84㎡~119㎡ 총 238가구 규모로 조성된다.이 단지는 특화 설계가 돋보인다.",
-      "실내 가변형 벽체를 도입해 공간 활용도를 높였고, 넓은 테라스와 알파룸도 마련된다.",
-      "최상층 거실은 최대 3.5m 층고를 갖췄다."
+      "[서울=뉴시스]이재훈 기자 = 개그우먼 한윤서가 예비 시댁과의 상견례 무산으로 결혼 위기에 직면했다.",
+      "4일 방송된 TV조선 가족 예능물 '조선의 사랑꾼'에서는 한윤서의 예비 신랑 문준웅 씨가 어머니로부터 돌연 만남 취소 통보를 받는 모습이 그려졌다.",
+      "문 씨는 제작진과 한윤서에게 \"어머니가 다음 주 일정을 취소해달라고 하셨다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n83f66354",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://www.asiae.co.kr/article/2026050421092078634",
-    "title": "이란 \"美군함 미사일 맞고 퇴각\"…美 \"피격된 적 없어\"(종합)",
-    "summary": [
-      "호르무즈 해협 인근에서 미 해군 호위함 1척이 이란군 미사일 2발을 맞고 퇴각했다고 이란 매체가 보도했다.",
-      "미군은 즉시 이를 부인했다.",
-      "이란 파르스 통신은 4일(현지시간) 이란 남부 현지 소식통을 인용해 이란 남동부 자스크 인근 해역에서 미 호위함 1척이 항행 및 선박 통행 규정을 위반하고 호르무즈 해협 통과를 시도했다고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1939be98",
+    "id": "n1717c14c",
     "category": "사회",
     "source": "조선일보",
     "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/04/GZSDGNZSMNQTEMZWMYYTKNZXGU/",
-    "title": "김숙, 대가족 속 고요한 외침 \"N분의 1로 내는 거지?\"→결국 혼자 FLEX",
+    "url": "https://www.chosun.com/opinion/column/2026/05/04/RS7F3G6Y7FCLPJRNNQMIYQZMPU/",
+    "title": "[김대중 칼럼] 이재명의 안보 자만",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 김숙이 아버지 생신을 맞아 가족들과 시간을 보냈다.",
-      "4일 유튜브 채널 '김숙티비'에는 '숙이네 대가족은 부산 맛집을 다 뿌셔..",
-      "아버지 생신 파티)' 제목의 영상이 게재됐다."
+      "[김대중 칼럼] 이재명의 안보 자만."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "naa9f8087",
-    "category": "IT",
-    "source": "조선일보",
+    "id": "n5055a1bf",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260504155700065",
+    "title": "해경청, 호르무즈 韓선박 화재에 인접국 구조협력 요청",
+    "summary": [
+      "(인천=연합뉴스) 김상연 기자 = 이란의 통제로 호르무즈 해협에 갇혀 있던 한국 선박에서 폭발과 화재가 발생한 것과 관련해 해양경찰청이 대응에 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb81c5b33",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/04/HE3WEMJSMQZTMZLEHBTDMNLGME/",
-    "title": "김동완 논란 의식? 결국 셀프 채찍질..\"AI 검열받아, 난 눈치 좀 봐야\"",
+    "url": "https://www.yna.co.kr/view/AKR20260504155600009",
+    "title": "이란군 \"호르무즈 통과한 선박 없다\"",
     "summary": [
-      "[OSEN=김수형 기자] 그룹 신화 김동완이 SNS 글 작성 방식까지 솔직하게 공개하며 ‘셀프 채찍질’ 행보로 눈길을 끌고 있다.김동완은 4일 개인 계정을 통해 “요즘은 글을 올리기 전 꼭 AI와 상의를 한다.",
-      "문장 정리, 비문 체크, 논란 가능성도 체크한다”며 대화형 AI 활용 사실을 밝혔다.이어 “AI 시대라 다행이다”라며 긍정적인 반응을 보였다.하지만."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nd696bcc0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003616990",
-    "title": "신기루 \"색기가 있다는 말 많이 듣는다\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 코미디언 신기루가 자신이 늘 주장하는 '비만계 유일한 고양이상'이라는 말에 대한 진심을 밝힌다.",
-      "4일 오후 10시30분 방송되는 SBS 플러스(Plus) '신빨토크쇼 귀묘한 이야기2' 18회에서는 풍수를 주제로 신기루, 서도밴드의 보컬 서도가 출연해 궁금했던 부분을 풀어보는 시간을 갖는다.",
-      "MC 이국주는 신점을 본 적이 있는지?”라고 묻는다."
+      "(서울=연합뉴스) 강훈상 기자 = 이란 이슬람혁명수비대는 4일(현지시간) 미국 상선 2척이 호르무즈 해협을 통과했다는 미군의 주장이 사실이 아니..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6dcf3289",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/culture/2026/05/04/2026050420310320263",
-    "title": "대한골프협회, 허인회 '기록 수정 논란'에 고개 숙였다 \"실수다, 사과한다\" 입장 표명",
-    "summary": [
-      "엄청난 페이스로 연장 돌입 기회를 맞았지만 돌연 2타가 사라졌다.",
-      "허인회(39·금강주택)는 억울함을 감추지 못했고 치명적인 실수에 대해 대한골프협회(KGA)는 결국 고개를 숙였다.",
-      "협회는 4일 \"GS칼텍스 매경오픈 3라운드 7번 홀 허인회의 원구를 아웃오브바운즈(OB)라고 최종 판단했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6f859d2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003616987",
-    "title": "거제시, 양대 조선소 상대 조세 행정소송 1심 승소",
-    "summary": [
-      "[거제=뉴시스] 신정철 기자 = 경남 거제시가 삼성중공업과 한화오션에 부과한 '선박의장용 안벽에 대한 취득세 및 재산세 부과처분취소' 소송 1심에서 승소했다.",
-      "4일 거제시에 따르면 삼성중공업과 한화오션 등 양대 조선소가 시를 상대로 제기한 취득세 및 재산세 부과처분취소 소송 1심에서 지난 4월 30일 승소했다고 밝혔다.",
-      "이 소송은 거제시가 세무조사를 통해 2022년부터 2023년 사이에 부과한 선박의장용 안벽에 대한 취득세 및 재산세 부과처분에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n69fb0161",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260504/133860578/1",
-    "title": "SK슈가글라이더즈, 챔프전서 삼척시청 꺾고 H리그 여자부 사상 첫 3연패",
-    "summary": [
-      "SK슈가글라이더즈가 핸드볼 H리그 여자부 3연패를 달성했다.SK슈가글라이더즈가 4일 서울 송파구 티켓링크 라이브 아레나에서 열린 핸드볼 H리그 여자부 챔피언결정전(3전 2승제) 3차전에서 삼척시청을 30-25로 꺾었다.",
-      "이번 시즌 정규리그에서 H리그 사상 최초로 21전 전승 우승으로 정상에 선 SK슈가글라이더즈는 챔프전에서도 왕좌에도 오르며 여자부 사상 처음으로 3년 연속 통합 우승을 달성했다.전반까지 14-17로 뒤졌던 SK슈가글라이더즈는 후."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n76ebdbf3",
+    "id": "nf5fac335",
     "category": "사회",
     "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260504/133859186/1",
-    "title": "정진석, 추경호 겨냥 “내란종사 혐의 기소자도 공천”…형평성 제기",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260504/133857659/1",
+    "title": "“한국 화물선, 호르무즈서 폭발-화재…피격 추정”",
     "summary": [
-      "국민의힘 공천관리위원회가 6·3 국회의원 재보궐선거 충남 공주-부여-청양에 출마한 정진석 전 의원의 공천 심사를 또 보류했다.",
-      "친윤(친윤석열)계 인사들이 잇달아 공천을 받아 논란이 커지고 있는 가운데 공관위가 윤석열 정부 대통령비서실장이었던 정 전 의원에 대한 결정을 미루고 있다는 지적이 나온다.박덕흠 공관위원장은 4일 공관위 회의 후 기자들과 만나 “오늘 당 중앙윤리위원회가 (정 전 의원 문제를) 결정하면 저희도 결정하려 했는데, 윤리위 일정."
+      "도널드 트럼프 미국 대통령이 호르무즈 해협에 갇힌 각국 선박들이 무사히 빠져나올 수 있도록 ‘프로젝트 프리덤(Project Freedom·해방 프로젝트)’ 작전을 시행한 첫날인 4일(현지 시간) 한국 화물선에서 폭발이 발생했다.",
+      "정부 관계자는 “피격으로 폭발이 발생했을 가능성에 대해 확인하고 있다”고 말했다.",
+      "미국·이스라엘과 이란 전쟁 발발 뒤 한국 선박에 피격 추정 폭발이 발생한 건 처음이다.해양수산부에 따르면 4일 오후 3시 40분경 호르무."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nccab3da8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/05/04/B7AQRTBIGNBN5EVRSO7M74MKLM/",
-    "title": "경실련도 “특검법 중대한 위헌 소지... ‘공소 취소’ 부여 조항 삭제하라”",
-    "summary": [
-      "경실련도 “특검법 중대한 위헌 소지... ‘공소 취소’ 부여 조항 삭제하라”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n81323203",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/04/2026050420474218589",
-    "title": "'김해준♥' 김승혜, 결혼 2년 만에 임신…\"아기 천사 찾아와\"",
-    "summary": [
-      "개그우먼 김승혜(39)가 김해준과 결혼 2년 만에 임신 소식을 알렸다.",
-      "김승혜는 4일 자신의 인스타그램을 통해 \"저희 부부에게도 드디어 아기 천사가 찾아왔습니다\"라며 임신 소식을 전했다.",
-      "그는 \"걱정과 설렘 속에 17주차가 되어서야 조심스럽게 알리게 됐다\"며 \"모든 게 처음인 엄마·아빠라 부족한 게 많지만, 열심히 잘 헤쳐 나가는 모습 보여드리겠다\"고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfb00eca3",
+    "id": "n539ab2ec",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/04/2026050420521831185",
-    "title": "'의식불명 선수에 막말' 김나미 대한체육회 사무총장, 사의 표명",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/04/G43TONRZGFRTQZTEMI4DGMZWHA/",
+    "title": "\"폭삭 망했수다\" 맨유에도 밀린 '캡틴' 반 다이크의 대통곡! \"이건 리버풀 아냐, 용서 안돼→절대 재발 안돼\" 통렬한 반성",
     "summary": [
-      "의식불명에 빠진 중학생 복싱 선수 가족에게 부적절한 발언을 했던 김나미 대한체육회 사무총장이 사의를 표명했다.",
-      "4일 뉴시스에 따르면 김 총장은 이날 \"이번 사안으로 국민과 체육인 여러분께 심려를 끼쳐드린 점에 대해 깊이 사과드린다\"며 \"공직자로서 무거운 책임감을 느끼고 직위에서 물러나겠다\"고 밝혔다.",
-      "지난 1일 김 총장이 직무 정지 처분을 받고 체육회가 징계 절차에 돌입한 지 3일 만이다."
+      "[스포츠조선 김성원 기자]디펜딩챔피언 리버풀이 환희가 한 시즌 만에 사라졌다.",
+      "리버풀은 4일(이하 한국시각) 영국 맨체스터의 올드트래포드에서 끝난 맨유와의 2025~2026시즌 잉글랜드 프리미어리그(EPL) 35라운드에서 2대3으로 패했다.",
+      "전반 맨유에 0-2로 끌려가다 후반 전열을 재정비한 리버풀은 11분 만에 승부를 원점으로 돌렸다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n9b3f84a6",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260504/133860771/2",
+    "title": "[사설]부동산 정책 ‘투자에서 거주로’… 지속성과 일관성이 관건",
+    "summary": [
+      "9일 다주택자 양도소득세(양도세) 중과 유예 종료를 앞두고 서울 부동산 시장에서 전망이 엇갈리고 있다.",
+      "한쪽에서 양도세 부담 때문에 매물이 급감하는 ‘매물 잠김’ 현상이 나타나 집값이 다시 뛸 수 있다고 하고, 다른 쪽에서는 대출 규제로 매수세가 약한 데다 매도를 포기한 집주인들이 다시 세를 내놓아 전월세 시장이 안정되면 하락세가 확산할 수 있다고 맞서고 있다.",
+      "김용범 대통령정책실장은 4일 기자간담회를 갖고 이와 관련해 “어느 정도 그 조치로."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5d237a1a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260504151453051",
+    "title": "호르무즈 한국선사 운용 선박서 폭발사고…\"피격 여부 확인 중\"(종합2보)",
+    "summary": [
+      "(서울·부산=연합뉴스) 이영재 임형섭 김동현 손형주 기자 = 미국이 걸프 해역(페르시아만)에 갇힌 민간 선박이 호르무즈 해협을 통과해 탈출할 수..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7bd90981",
+    "id": "nf6ffe3f8",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003616979",
-    "title": "[6·3거제] 고민정 의원, 변광용 지지 호소…교육 인프라 예산 지원 약속",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260504/133860775/3",
+    "title": "[사설]민원에 사라지는 현장학습, 학교-교사-학부모 함께 풀어야",
     "summary": [
-      "[거제=뉴시스] 신정철 기자 = 더불어민주당 고민정 국회의원이 4일 경남 거제시를 찾아 ‘교육 인프라, 거제발전 예산' 등 더불어민주당 변광용 거제시장 후보 지원을 약속했다.",
-      "이날 고민정 의원은 교육 현안과 대형 국책사업 예산 등 국회와 중앙당 차원에서 거제시장 변광용 후보를 전폭적으로 지원할 것이라고 밝혔다.",
-      "고 의원은 민주당 최고위원을 역임한 재선 국회의원으로 국회 교육위 간사 및 예결위원, 민주당 중앙당 교육특별위원장을 맡고 있다."
+      "전국 초등교사 2만여 명이 참여한 설문조사에서 90%가 소풍과 수학여행 등 현장체험학습에 대해 ‘매우 부정적’이라고 답했다.",
+      "‘대체로 부정적’이라는 응답까지 합치면 97%에 육박한다.",
+      "이처럼 교사들이 현장학습에 부정적인 이유로는 안전사고 발생에 따른 사법적 책임을 져야 한다는 불안감, 학부모 민원과 과도한 행정 업무에 대한 부담감이 꼽혔다."
     ],
     "chips": [
-      "#정치",
       "#교육"
     ]
   },
   {
-    "id": "ne230e025",
+    "id": "n7346865d",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504148300085",
-    "title": "한강 '채식주의자', 독자가 뽑은 국제 부커상 최고작",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260504/133860773/3",
+    "title": "[사설]특검 수사관이 변호사 스펙 쌓는 자리인가",
     "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국 권위의 문학상 인터내셔널 부커상이 올해 10주년을 맞아 실시한 독자 투표에서 한강의 '채식주의자'가 최..."
+      "2차 종합특검에 수사관으로 합류한 이모 변호사가 2일 자신의 소셜네트워크서비스(SNS)에 임명장 사진과 함께 올린 게시물이 논란이 되고 있다.",
+      "이 변호사는 “피의자 편에만 서다가 난생처음 수사기관에 들어왔다.",
+      "수사 경력을 쌓으면 형사 사건에 대한 전문성이 극대화될 것”이라고 썼다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne6939d17",
+    "id": "nbc285fe6",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://www.asiae.co.kr/article/2026050423403494059",
+    "title": "호르무즈 내 韓선박 화재…현재까지 인명피해 없어 (종합)",
+    "summary": [
+      "호르무즈 해협 내 정박해있던 한국 선박 한 척에서 폭발이 발생한 가운데 정부는 4일 피격 여부 등 사실관계 파악에 나섰다.",
+      "현재까지 인명피해는 없는 것으로 알려졌다.",
+      "외교부와 해양수산부(해수부) 등에 따르면 이날 오후 8시 40분경(한국시간) 호르무즈 해협 내측 아랍에미리트(UAE) 인근 해역에 정박 중이던 한국 선사 운용 선박 1척에서 폭발과 함께 화재가 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3e481c74",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260504151300108",
+    "title": "어머니의 날 맞아 '나는 개엄마' 광고, 튀르키예서 논란",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 반려견 가정을 주제로 한 독일 가전업체 보쉬의 텔레비전 광고를 두고 튀르키예에서 논란이 일고 있다고 하베..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb582e92e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/opinion/taepyeongro/2026/05/04/CSK6KLK4NFCMHKKSSOHZ2PSQY4/",
+    "title": "[태평로] ‘김용 공천 소동’으로 본 권력 비선들의 착각",
+    "summary": [
+      "[태평로] ‘김용 공천 소동’으로 본 권력 비선들의 착각."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb3da4443",
     "category": "경제",
     "source": "머니투데이",
     "time": "34분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/04/2026050420333366537",
-    "title": "세종시 폐차장 화재 확산…소방당국, 대응 2단계 발령",
+    "url": "https://www.mt.co.kr/society/2026/05/04/2026050423203210027",
+    "title": "검은 연기 뒤덮은 세종 폐차장…4시간여 만에 진화, 1명 부상",
     "summary": [
-      "세종시의 한 폐차장에서 불이 나 소방당국이 대응 2단계를 발령하고 진화 작업을 벌이고 있다.",
-      "4일 뉴스1에 따르면 소방당국은 이날 오후 4시 35분쯤 세종시 연서면의 한 폐차장에서 화재가 발생했다는 신고를 접수했다.",
-      "신고를 받고 출동한 소방당국은 인력 50명과 장비 19대 등을 투입해 진화에 나섰다."
+      "세종시의 한 폐차장에서 발생한 화재가 진화됐다.",
+      "4일 뉴스1에 따르면 소방 당국은 이날 오후 4시 30분쯤 세종시 연서면 월하리의 한 폐차장에서 \"검은 연기가 발생하고 있다\"는 신고를 접수했다.",
+      "신고를 받고 출동한 소방 당국은 헬기 4대와 장비 54대, 인력 147명을 투입해 진화 작업을 벌였다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2aeca49d",
+    "id": "n048a79a7",
     "category": "사회",
-    "source": "한국경제",
-    "time": "34분 전",
-    "url": "https://www.hankyung.com/article/2026050456937",
-    "title": "정성호 \"김창민 사건 피의자 구속, 검찰 보완수사 성과\"",
+    "source": "머니투데이",
+    "time": "42분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/04/2026050423011794295",
+    "title": "정부 \"호르무즈 韓 선박서 폭발·화재…선원 24명 피해 없어\"",
     "summary": [
-      "정성호 \"김창민 사건 피의자 구속, 검찰 보완수사 성과\"."
+      "[the300](2보) 한국 선사 운용 선박…폭발과 함께 화재 발생 한국인 6명·외국인 18명 탑승…인명피해 없어 중동전쟁으로 호르무즈 해협에서 발이 묶인 한국 선사 운용 선박에서 폭발과 함께 화재가 발생했다.",
+      "현재까지 인명 피해는 없는 것으로 파악됐다.",
+      "외교부는 4일 밤 언론공지를 통해 \"우리 시간 오후 8시40분쯤 호르무즈 해협 내측 아랍에미리트(UAE) 인근 해역에 정박 중이던 우리 선사 운용 선박 1척에서 폭발과 함께 화재가 발생했다\"며."
     ],
     "chips": [
       "#뉴스"
@@ -650,8 +645,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
