@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-03 23:34:51
+// 마지막 업데이트: 2026-05-04 01:52:01
 window.NEWS_DB = [
   {
     "id": "n9a605dd3",
@@ -64,6 +64,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1b569773",
+    "category": "IT",
+    "source": "팝콘뉴스",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DTUNrdHlwMm52X0s3bkVtVVMxQjFHUFRjS3hFUDNWV3l2Ukg1WGE4aElVSlpRQmFjdGNBZlZXLTV0LU1SNDUxMVZ3Sy1IS1pXVUZYcVZnN2lvbUx6cFRCc3RzYmNEMDBZTFRkekpR0gFyQVVfeXFMTWluUXRnWWdtSm14SG00bUVWdTRiRGZaNk5qRENQUC1HcEJ6VlZPSmJoUWg1a0VRMktsTDNJTTNBLXNHWEdnUFNuckhZcjd4OThrZTN3ZzN2MGpvOFVEZkhRdWE4Z0Z4OXZVcm5MTVFjVWh3?oc=5",
+    "title": "KB금융, 1000억 민간 벤처모펀드 조성…창업·유니콘 육성 지원",
+    "summary": [
+      "KB금융, 1000억 민간 벤처모펀드 조성…창업·유니콘 육성 지원 팝콘뉴스."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nbf280c57",
     "category": "IT",
     "source": "시사저널e",
@@ -108,17 +122,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n093a8ff1",
+    "id": "n28b16b97",
     "category": "IT",
-    "source": "세계일보",
+    "source": "프라임경제",
     "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1razUzRGJhWkl5dHc3azZVRU5qR0xhb05GTFdRUHJ4YXFGLW9DaHdwcDl0UzBUSlpvRUd2M0lxODhYNl9kU2pGXzFuZFhlWjgwT2NjRlg0NDnSAVRBVV95cUxQRzZqaXpjeUhFTEZFRVdRWHpDeEc2THJwZ1k2QzhPMTVzbnFteW0wM19JeUtwdTFKZUttV1RGUUlwNUtrYnVIbXJjeGRudXJfek5NS3I?oc=5",
-    "title": "[사이언스프리즘] ‘어쩌면’을 위한 투자",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZZk8wMDVyNS1LcGs2dmpDOWNxQXdHVVdYa1Vhc3RBSVU3NEs3ODI5bDdUdTZKd2NmWUJKU01PUE1aN1FXY0t2LUQyWDlzdkdoMndGRTRJbENsYmJoTGFJNXdpZTVNMjd3Vk5Edw?oc=5",
+    "title": "정부, SKT·LG AI 현장 방문…'K-엔비디아' 육성 속도",
     "summary": [
-      "[사이언스프리즘] ‘어쩌면’을 위한 투자 세계일보."
+      "정부, SKT·LG AI 현장 방문…'K-엔비디아' 육성 속도 프라임경제."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#엔비디아"
     ]
   },
   {
@@ -136,24 +151,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n61a2d2cd",
-    "category": "IT",
-    "source": "이데일리",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUIwcy1MNTZHY01ZY0dhN1I2MVpXM0xfVU13WGE5OEtPWjdFZEY0VmRzRE1XYU9vNGJFYlBfOFB1YkUybXA3aXVjX3JDUTJ4QnkzT1V1WDRyQVZtbGtjVkJ4RjgyaGFLX1FCMms1Uy0wMUVMTHdWeS0yTDRMOHpscw?oc=5",
-    "title": "중기부, 1조8천억 벤처펀드 선정……차세대 유니콘 육성에 절반",
-    "summary": [
-      "중기부, 1조8천억 벤처펀드 선정……차세대 유니콘 육성에 절반 이데일리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n7aed1cf1",
     "category": "부동산",
     "source": "리얼캐스트",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWXh3MEhBenVCb1I5NTNLa2FVWTdPSG9MYlh1YlpMQVNEQXlDdTdIUlBpMkk4SDBMbldqdDU5ejN6OWdEQkhsMlpqdnZDNEpVX1FZbE02R1NrbmFRRGh3bzItMl9DbVpB0gFsQVVfeXFMTWFpTF8xUHdYam9qb3JXalkzRzc2bE54VG9zUEltd1N2THBaZ3pRb185d2o1MTlvaXF6di01bURqZ1FrTFNvQTY2UV9hV3NkUENleW5ndjQzT2FYVk9EM2p0YnVNd0N2dkdvLXg2?oc=5",
     "title": "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동",
     "summary": [
@@ -165,33 +166,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe7cf66c",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VM2pJV19EMTZ3dC03SzBNY29mWDJxUlhMbmtPclVOYmJRbVZXeEhaZTFOY1pUeTdFWGYyWVdEZWdOemxacHIwRXlfVkZjcE1TdFFYX2Q1emExVmVMNWh0ZXFDVTd3N3g1ZVN3?oc=5",
-    "title": "수원특례시, 4월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 18명 채용",
-    "summary": [
-      "수원특례시, 4월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 18명 채용 투데이경제."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n6da43448",
+    "id": "n64476ff1",
     "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Nd1h1WWlBUlFwZ0Etb1UyWHZJX3FGTEN4bmpxcTlOeXZ4TGtWVl9iSHBDblNfYU9pMlhkaFltZUlQbUFtMll2OGNqNFFfSjZKaUd0Z05NSC03c3J6N0hkTkdfT3YwajJ4V1lPXw?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상",
+    "source": "머니투데이",
+    "time": "14일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
     "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 유니콘팩토리."
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n08b2b275",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "19일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
+    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "summary": [
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -223,18 +223,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "73일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "id": "nef414906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "74일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
+    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
     "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
     ],
     "chips": [
-      "#부동산",
-      "#정책"
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -312,317 +313,334 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4c0fe437",
-    "category": "경제",
-    "source": "머니투데이",
+    "id": "nf7403b5c",
+    "category": "사회",
+    "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.mt.co.kr/stock/2026/05/04/2026050407500465411",
-    "title": "\"LG화학, 석유화학 부활하며 1분기 깜짝 실적…목표가↑\"-IBK",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151529",
+    "title": "청와대 '잔인한 금융' 정조준…금융권 \"시장 원리 흔들 수 있다\" 반발",
     "summary": [
-      "IBK투자증권은 석유화학 부문의 흑자 전환이 LG화학의 1분기 깜짝 실적(어닝 서프라이즈)을 이끌었다고 4일 분석했다.",
-      "목표주가를 기존 49만원에서 50만원으로 상향하고 투자의견 '매수'를 유지했다.",
-      "LG화학의 올해 1분기 영업손실은 전년 동기 대비 적자전환한 497억원이다."
+      "김용범 청와대 정책실장이 사흘 연속 SNS에 현행 신용등급 체계를 정면 비판하는 글을 올리며 금융 시스템 개편 논쟁에 불을 붙였다.",
+      "이재명 대통령이 먼저 던진 '잔인한 금융' 화두를 핵심 참모가 구체적인 개혁 방향으로 확장한 것인데, 금융권과 시장에서는 리스크 기반 금리 체계를 흔들 수 있다는 우려가 커지고 있다.\"신용등급은 보이지 않는 계급장\"…사흘간 3편 연속 게재4일 정치권에 따르면 김 실장은 5월 들어 자신의 페이스북에 '금융의 구조 시."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neac3d7cc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003615670",
-    "title": "LS전선, 국제 해양 전시회서 해양 인프라용 제품 선봬",
-    "summary": [
-      "[서울=뉴시스] 홍세희 기자 = LS전선은 LS마린솔루션과 함께 오는 7일까지 미국 휴스턴(Houston)에서 열리는 OTC 2026(Offshore Technology Conference)에 참가해 해양 인프라용 제품들을 선보인다고 4일 밝혔다.",
-      "OTC는 글로벌 해양 에너지·플랜트 기업들이 참여하는 대표 전시회다.",
-      "LS전선은 해저케이블과 해양용 특수 케이블을 중심으로 시장 선점에 속도를 내고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncd0b599f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003615608",
-    "title": "'시즌 6번째 톱10' 김시우, 남자골프 세계랭킹 20위로 도약",
-    "summary": [
-      "[서울=뉴시스]안경남 기자 = 올 시즌 미국프로골프(PGA) 투어에서 활약 중인 김시우가 남자 골프 세계랭킹에서 개인 최고 순위를 기록했다.",
-      "4일(한국 시간) 발표된 남자 골프 세계랭킹에서 김시우는 평균 3.51점을 받아 지난주 25위에서 5계단 상승한 20위에 이름을 올렸다.",
-      "이는 김시우의 세계랭킹 개인 최고 순위다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6dfd92e4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003615643",
-    "title": "예경 해외인사 초청 성료…K-아트, 작가서 화랑 중심으로 확대",
-    "summary": [
-      "[서울=뉴시스] 박현주 미술전문 기자 = 한국 미술 유통 구조가 바뀌고 있다.",
-      "글로벌 아트페어 주요 관계자들이 서울을 찾아 국내 화랑과 밀도 높은 교류를 이어가며 한국 미술시장의 확장 가능성을 확인했다.",
-      "문화체육관광부와 예술경영지원센터는 해외 아트페어 관계자 초청 프로그램 ‘다이브 인투 코리안 아트: 갤러리즈 인 서울’을 지난 4월 24일부터 27일까지 나흘간 성황리에 진행했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb287c79b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260504/133856458/1",
-    "title": "문희준 10살 딸 잼잼이 폭풍성장…“엄마랑 되게 비슷”",
-    "summary": [
-      "문희준 딸 ‘잼잼이’가 초등학생으로 성장한 근황을 공개했다.3일 방송된 SBS TV 예능프로그램 ‘미운 우리 새끼’에는 H.O.T.",
-      "문희준, 토니안, 젝스키스 장수원, god 박준형이 출연했다.토니안은 “셋 다 결혼을 했다”며 자신만 미혼이라는 것에 속상해했다.장수원은 “행복하다.",
-      "결혼 4년 됐다”고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc511b74",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003615671",
-    "title": "한패스-한국관광공사, 외국인 관광객 교통 편의 제고 MOU",
-    "summary": [
-      "[서울=뉴시스] 김경택 기자 = 핀테크 기업 한패스와 한국관광공사가 방한 외국인 관광객의 여행 편의 증진을 위해 관광교통 분야 협력 강화를 위한 업무협약(MOU)을 체결했다.",
-      "4일 한패스에 따르면 이번 협약은 관광교통 민관협의체 협업 확대의 일환으로 추진된다.",
-      "외래관광객의 국내 교통 이용 편의성을 높이고 방한 관광객의 여행 만족도 향상에 기여하는 것이 목적이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nce64ed80",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260504/133856448/1",
-    "title": "시뻘건 물웅덩이에 라면 국물 ‘둥둥’…MZ 핫플 관악산 쓰레기 몸살",
-    "summary": [
-      "관악산 등산로 일대에서 ‘라면 국물 웅덩이’와 각종 쓰레기 투기가 이뤄지고 있어 거센 비난이 이어지고 있다.3일 복수의 온라인 커뮤니티에 따르면 서울 관악산 정상 인근 감로천 주변 웅덩이가 라면 국물로 붉게 물든 모습이 담긴 사진이 확산됐다.해당 게시물을 올린 작성자는 “관악산 정상에서 감로천에 라면 국물과 쓰레기를 버린 인간들, 정말로 진정한 쓰레기답네요”라는 글과 함께 관련 사진을 사회관계망서비스(SNS)에 게재했다.그는 “감로천은 새들과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n57f8c161",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/05/04/GQYWMM3BMZSWEMDBHE4WKYJTMI/",
-    "title": "휴전 기대·美 규제 진전 기대에 가상자산 상승세… 비트코인 7만8000달러대",
-    "summary": [
-      "중동 지정학 리스크 완화 기대와 미국 디지털자산 규제 논의 진전 기대가 커지면서 주요 가상자산 시세가 상승하고 있다.",
-      "4일 오전 8시 23분 기준 글로벌 코인 시황사이트 코인마켓캡에서 비트코인 가격은 24시간 전보다 0.01% 상승한 7만8729달러 수준에서 거래되고 있다.",
-      "시가총액 2위인 이더리움도 같은 기간 0.24% 오른 2326달러를 기록중이다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nd0cdd4ab",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504020700008",
-    "title": "대신증권 \"한화에어로, 기대 못 미친 1분기 실적…목표가↓\"",
-    "summary": [
-      "(서울=연합뉴스) 고은지 기자 = 지난달 말 올해 1분기 실적을 발표한 한화에어로스페이스[012450]에 대해 4일 다수 증권사가 목표주가를 상..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8af96066",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504020100008",
-    "title": "NH투자 \"GS건설, 올해 팀코리아 원전·중동 수주 기대감 긍정\"",
-    "summary": [
-      "(서울=연합뉴스) 김태종 기자 = NH투자증권[005940]은 4일 GS건설[006360]에 대해 \"올해 실적 안정과 팀코리아(해외 수주 프로젝..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3da2f6e0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504019800009",
-    "title": "의료인력 부족한 美, 입국 제한국 비자보류 의사만 슬쩍 제외",
-    "summary": [
-      "(서울=연합뉴스) 곽민서 기자 = 미국의 도널드 트럼프 행정부가 입국 제한국 출신 의사들에 대한 비자 발급 절차를 재개하기로 했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n3934fadb",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/202605043495i",
-    "title": "美FDA, 프로탁(PROTAC) 항암제 '베파누' 첫 승인",
-    "summary": [
-      "美FDA, 프로탁(PROTAC) 항암제 '베파누' 첫 승인."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0c28131",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260504/133856419/1",
-    "title": "배우 이재욱 5월18일 입대…육군 현역으로 간다",
-    "summary": [
-      "배우 이재욱(28)이 오는 18일 입대한다.소속사 로그스튜디오는 이재욱이 이날 오전 훈련소에 입소해 군사훈련을 마친 뒤 육군으로 복무한다고 4일 밝혔다.",
-      "입대 관련 별도 행사는 없다.이재욱은 군에 가지만 그가 출연한 작품은 앞으로 계속 볼 수 있다.",
-      "다음 달 ENA 월화드라마 ‘닥터 섬보이’가 방송 예정이고, 올해 하반기에 공개 예정인 넷플릭스 시리즈 ‘꿀알바’에도 나온다.1998년생인 이재욱은 2018년 드라마 ‘알함브라 궁전의 추억’으로 데."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e13f133",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504019700008",
-    "title": "한화증권 \"POSCO홀딩스, 1분기 실적 기대치 상회…목표가↑\"",
-    "summary": [
-      "(서울=연합뉴스) 이민영 기자 = 한화투자증권은 4일 POSCO홀딩스[005490]의 1분기 실적이 기대치를 웃돌았다며 목표주가를 49만원에서 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neb3bd035",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/04/RB646WLGOBCT3FC2WCEUTJEG4I/",
-    "title": "‘제르비 볼’ 안착한 토트넘, 2연승으로 강등권 탈출...잔류 청신호 떴다",
-    "summary": [
-      "‘제르비 볼’ 안착한 토트넘, 2연승으로 강등권 탈출...잔류 청신호 떴다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc88eceec",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/04/3PGMFXTSYZFWNP5TXYOGEKAMNM/",
-    "title": "수영복 차림으로 ‘스마일’…트럼프가 올린 AI 사진, 의미는?",
-    "summary": [
-      "수영복 차림으로 ‘스마일’…트럼프가 올린 AI 사진, 의미는?."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nbd8056b3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260503056400064",
-    "title": "충북 자치단체장 선거 본막 올랐다…관전 포인트는",
-    "summary": [
-      "(청주=연합뉴스) 전창해 기자 = 하반기부터 4년간 충북의 행정을 이끌어갈 자치단체장 대진표가 완성되면서 6·3 지방선거의 본막이 올랐다."
-    ],
-    "chips": [
+      "#금리",
+      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "n46b95170",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/04/2026042307524327924",
-    "title": "\"3일장 1500만원, 부담된다\" 빈소 없이 작별...한국도 일본 따라갈까",
+    "id": "n0c5eedee",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151528",
+    "title": "5대 금융지주, 스타트업에 1조원 쏜다…금융권 벤처 생태계 '큰손'으로",
     "summary": [
-      "[기획]1일장, 슬픈 장례식인가 스마트 장례식인가④ '조용한 장례' 사흘간 빈소를 지키는 '3일장'은 한국 장례 문화의 표준으로 여겨져 왔다.",
-      "하지만 최근 장례 기간을 줄이거나 빈소를 차리지 않는 '작은 장례'가 확산하고 있다.",
-      "가족 구조 변화와 비용 부담 등 복합적인 요인이 맞물린 변화다."
+      "국내 5대 금융그룹이 정부와 손잡고 벤처·스타트업 투자 지원에 총 1조원 규모의 자금을 쏟아붓는다.",
+      "단순한 사회공헌 차원을 넘어 민간 금융자본을 창업 생태계 전반과 연결하는 구조적 전환이라는 점에서 눈길을 끈다.5대 금융지주 팁스타운서 협약…\"생산적 금융 대전환의 시작점\"금융위원회와 중소벤처기업부는 지난달 30일 서울 강남구 팁스타운에서 KB·신한·하나·우리·NH농협 등 5대 금융그룹 회장단과 한국벤처투자·기술보증기금·신용보증기금 등 유관기관이."
     ],
     "chips": [
-      "#뉴스"
+      "#스타트업"
     ]
   },
   {
-    "id": "nd54ce714",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260504/133856409/1",
-    "title": "젊을수록 종교 떠났다…20대 58% “관심 없어서”",
+    "id": "n6bd606f4",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151526",
+    "title": "삼성전자, TV 수장 전격 교체...'HW→플랫폼' 전환 절박함 반영(종합)",
     "summary": [
-      "젊은 층의 무관심이 이어지면서 20대 4명 중 3명이 종교가 없는 것으로 나타났다.",
-      "아울러 신자와 성직자 고령화도 빨라지고 있다.한국갤럽이 최근 발표한 ‘한국인의 종교 1983∼2025’ 보고서에서 따르면 지난해 조사에 참여한 성인 4606명 가운데 ‘현재 믿는 종교가 있다’고 답한 비율은 40%였다.",
-      "개신교 18%, 불교 16%, 천주교 6%였다.성인 종교인 비율은 1983년 44%에서 2004년 54%로 늘었다가 이후 줄었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8b2f819e",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504018800008",
-    "title": "한투증권, 삼성전자 목표가↑…\"영업익 상승세 계속될 것\"",
-    "summary": [
-      "(서울=연합뉴스) 임은진 기자 = 한국투자증권은 4일 삼성전자[005930]의 영업이익 상승세가 계속될 것이라면서 목표주가를 상향 조정했다."
+      "삼성전자가 TV 사업 부진 탈출을 위해 칼을 빼 들었다.",
+      "디바이스경험(DX)부문 영상디스플레이(VD)사업부장을 교체했다.",
+      "이원진 글로벌마케팅실장을 새 사령탑으로 선임했다."
     ],
     "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "n78b26518",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504016900008",
-    "title": "[마켓뷰] 트럼프 '해방 프로젝트' 승부수…韓증시 변수 여부 주목",
+    "id": "n18a20ca1",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151527",
+    "title": "[테크M 이슈] 서학개미 잡아라…RIA 고객 유치전, 증권가 총력전 돌입",
     "summary": [
-      "(서울=연합뉴스) 황철환 기자 = 4일 국내 증시는 호르무즈 해협에 갇힌 제3국 선박을 안전하게 빼내는 도널드 트럼프 미국 대통령의 '해방 프로..."
+      "정부가 서학개미의 해외 자금을 국내 증시로 끌어들이기 위해 도입한 국내시장 복귀계좌(RIA) 제도가 본격 궤도에 오르면서 증권사 간 고객 유치 경쟁이 달아오르고 있다.",
+      "5월 말이라는 100% 양도세 감면 골든타임을 앞두고 각사가 현금 쿠폰·수수료 우대·이색 이벤트를 쏟아내며 타사 자산 빼앗기에 나선 형국이다.미래에셋 한달 만에 2600억…삼성전자·SK하이닉스로 돌아온 서학개미4일 증권가에 따르면 지난달 23일 제도 시행 첫날 8개 대형 증권사에."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "na2722716",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://www.asiae.co.kr/article/2026050410452654192",
+    "title": "부산대 80주년, 사직구장서 하나 된 캠퍼스 열기",
+    "summary": [
+      "부산대학교가 개교 80주년을 맞아 사직야구장에서 대학 구성원들이 함께하는 특별한 응원 행사를 열며 화합과 공동체 정신을 다졌다.",
+      "부산대학교(총장 최재원)는 지난달 30일 부산 사직야구장에서 열린 롯데 자이언츠와 키움 히어로즈의 경기를 단체 관람하며 부산 발전을 기원하고 대학 구성원 간 소속감과 유대감을 높이는 시간을 가졌다고 4일 전했다.이번 행사는 부산을 대표하는 프로야구단 롯데 자이언츠 경기를 함께 관람하."
+    ],
+    "chips": [
+      "#KBO",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n78665b73",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://www.asiae.co.kr/article/2026050410504506799",
+    "title": "“이란 전쟁후 권력 중심, 성직자→혁명수비대 이동가능성”-퀸시연구소",
+    "summary": [
+      "미국-이란 전쟁의 결과로 이란의 군사·안보 기구, 특히 이슬람혁명수비대(IRGC)가 기존 체제 안에서 권력의 중심으로 부상하고 성직자 권위를 점점 더 제약하는 시나리오가 나타날 가능성이 있다는 분석이 나왔다.",
+      "미국 싱크탱크인 퀸시연구소(Quincy Institute)는 지난달 28일(현지시간) 홈페이지에 올린 ‘이란의 다음 변화: 전쟁이 성직자 중심 권력을 군부로 이동시킬 가능성(Iran’s Next Transformation: How War."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n018863ab",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://www.asiae.co.kr/article/2026050410500903720",
+    "title": "평택시, ‘장애인 맞춤형 평생교육’ 본격 가동…5월 첫 항해 시작",
+    "summary": [
+      "경기 평택시(시장 정장선)가 오는 5월부터 장애인의 학습권 보장과 지역사회 통합을 위한 '2026년 평택시민 미래대학 장애인 맞춤형 평생교육' 프로그램을 본격적으로 운영한다고 4일 밝혔다.",
+      "이번 사업은 '장애가 장해가 되지 않는, 배움의 항해'라는 표어 아래, 장애 유형과 특성을 고려한 맞춤형 교육 기회를 제공하기 위해 마련되었다.",
+      "시는 당초 16개 강좌를 운영할 계획이었으나, 시민제안형 및 기관연계 공모 결과 총 19개의."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ndaf6357a",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://www.asiae.co.kr/article/2026050410411331143",
+    "title": "간호사 면허 소지자 2명 중 1명만 병원 근무…지역 격차 140배",
+    "summary": [
+      "국내 간호사 면허 소지자 중 실제 의료 현장에서 활동하는 인력은 절반에 불과한 것으로 나타났다.",
+      "특히 지역에 따라 활동 간호사 밀도가 최대 140배까지 벌어지는 등 의료 인력의 '국지적 편중' 현상이 심각한 수준으로 조사됐다.",
+      "4일 대한간호협회가 건강보험심사평가원의 '전국 간호사 현황(2025)' 자료를 분석한 결과, 지난해 말 기준 국내 전체 간호사 면허자는 약 55만명에 달하지만 요양기관에서 실제 활동 중인 간호사는 2."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n08d785de",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003616087",
+    "title": "공군 베테랑 조종사, 10년간 896명 떠나…대한항공으로 622명 이직",
+    "summary": [
+      "[서울=뉴시스] 옥승욱 기자 = 최근 10년간 공군을 떠난 숙련 조종사가 약 900명에 달하는 것으로 집계됐다.",
+      "4일 공군이 국회 국방위원회 소속 강대식 국민의힘 의원실에 제출한 자료를 살펴보면 2017년부터 올해 3월까지 공군을 전역한 숙련 조종사는 896명으로 조사됐다.",
+      "숙련조종사는 임관 8~17년차로 독자적인 작전 운영이 가능하고 초급 조종사들의 비행훈련 지도가 가능한 조종사를 뜻한다."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "nf92c74ea",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003616083",
+    "title": "인천공항, 스타트업 육성 참여기업 모집…유니콘 기업으로 키운다",
+    "summary": [
+      "[서울=뉴시스] 홍찬선 기자 = 인천공항공사가 올해 인천공항 스타트업(새싹기업) 육성사업 참여기업을 모집한다.",
+      "4일 공사에 따르면 '인천공항 스타트업 육성사업’은 인천공항과 성장할 혁신적인 국내 스타트업을 발굴해 경쟁력 있는 기업으로 육성하는 지원사업이다.",
+      "올해는 인공지능(AI) 및 원천기술(딥테크) 기반 기술을 활용해 공항에 적용할 수 있는 혁신 서비스와 제품을 보유한 스타트업을 중점적으로 지원할 것으로 보고 있다."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
+    "id": "nd5434cee",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003615932",
+    "title": "'트리플A 잔류' 송성문, 미국 진출 후 첫 홈런…7회 추격의 솔로포",
+    "summary": [
+      "[서울=뉴시스]문채현 기자 = 마이너리그 트리플A에 잔류하며 빅리그 진입을 노리는 송성문(샌디에이고 파드리스)이 미국 진출 후 첫 대포를 터트렸다.",
+      "샌디에이고 산하 트리플A 팀인 엘파소 치와와스에서 뛰는 송성문은 4일(한국 시간) 미국 뉴멕시코주 앨버커키의 아이소톱스 파크에서 열린 앨버커키 아이소톱스(콜로라도 로키스 산하)와의 경기에 5번 타자 2루수로 선발 출전해 4타수 1안타 1홈런 1타점 1득점을 기록했다.",
+      "미국 무대에서의 첫 홈런이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7786f4b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003616019",
+    "title": "파리바게뜨, 어린이날 맞아 케이크에 바닷속 '아기상어' 담았다",
+    "summary": [
+      "[서울=뉴시스]이주혜 기자 = 파리바게뜨가 어린이날을 맞아 더핑크퐁컴퍼니와 손잡고 아이와 함께 즐길 수 있는 '바닷속 아기상어 케이크'를 선보인다고 4일 밝혔다.",
+      "'바닷속 아기상어 케이크'는 '핑크퐁 아기상어'의 바닷속 세계관을 케이크로 구현했다.",
+      "케이크 내부는 초코 시트에 달콤하고 진한 초코 크림을 샌드하고, 바삭한 초코 크런치를 더했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n41f44365",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/policy/2026/05/04/2026050410401833588",
+    "title": "거대한 무대로 바뀐 도심… 제22회 안산국제거리극축제 성료",
+    "summary": [
+      "경기 안산시는 안산문화재단과 개최한 제22회 안산국제거리극축제가 성황리에 막을 내렸다고 4일 밝혔다.",
+      "지난 1일부터 3일까지 안산문화광장 일원에서 열린 이번 축제는 '거리에서 만난 예술, 세상을 잇다'를 슬로건으로 진행했다.",
+      "도심 일상을 예술무대로 바꾸며 시민과 예술가, 관람객이 함께 어우러지는 참여형 거리예술축제로 펼쳐졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n080ce219",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260504/133856988/2",
+    "title": "대서양 항해 크루즈서 한타바이러스 집단 감염…3명 사망",
+    "summary": [
+      "대서양 크루즈선 'MV 혼디우스'호에서 한타바이러스 집단 감염으로 3명이 사망했다.",
+      "WHO는 확진 1건과 의심 5건을 파악했으며 감염 경로 파악을 위한 조사를 진행 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na993a6b3",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/policy/2026/05/04/2026050410333975875",
+    "title": "\"월세 걱정 말고 사업 하세요\"…수원시 '1인 창조기업' 입주 모집",
+    "summary": [
+      "경기 수원특례시가 오는 13일까지 1인 창조기업 지원센터에 신규 입주할 기업을 모집한다고 4일 밝혔다.",
+      "수원시 1인 창조기업지원센터'는 제조·지식서비스 융합 분야 1인 창조기업을 육성한다.",
+      "1인 창조기업은 창의성과 전문성을 갖춘 1인 또는 5인 미만 공동사업자로 상시근로자가 없는 업체다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "nc41bff84",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/04/2026050410321034430",
+    "title": "오세훈, \"정진석 등 尹 인사 출마 자제해야…장동혁, 2선에 있으라\"",
+    "summary": [
+      "[the300] 오세훈 국민의힘 서울시장 후보가 윤석열 정부에서 요직을 맡았던 인사들의 지방선거·보궐선거 출마를 두고 \"자제할 필요가 있다\"고 밝혔다.",
+      "윤석열 정부 핵심 인사들에 대한 정치적 책임론이 선거 악재로 작용할 수 있다는 판단이 깔린 발언으로 풀이된다.",
+      "오 후보는 4일 유튜브 채널 '장성철의 뉴스명당' 인터뷰에서 정진석 전 대통령비서실장, 이진숙 전 방송통신위원장 등의 출마 움직임에 대해 \"제 입장에서는 조금 자제를 좀 해 주시면 더."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n716e1358",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/04/2026050410304268837",
+    "title": "승강장서 추락한 한 살배기 아들…아빠가 몸 던져 구했다",
+    "summary": [
+      "방글라데시 한 기차역에서 한 남성이 선로로 떨어진 아들을 구하기 위해 몸을 내던진 영상이 화제가 되고 있다.",
+      "최근 인도 방송사 NDTV 등 보도에 따르면 지난달 28일 오후 3시30분쯤 방글라데시 수도 다카에서 북동쪽으로 약 60㎞ 떨어진 바이라브 기차역에서 다카행 통근 열차에 타고 있던 한 가족이 하차 도중 사고에 휘말렸다.",
+      "당시 예정보다 90분가량 늦게 도착한 열차가 해당 역 정차 후 다시 움직이기 시작했는데 이때 한 살배기 아들을 안고 있."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n037ea3f1",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "4분 전",
+    "url": "https://www.hankyung.com/article/202605044182i",
+    "title": "국힘, 정청래·하정우에 '오빠 강요범', '아동 학대범'",
+    "summary": [
+      "국힘, 정청래·하정우에 '오빠 강요범', '아동 학대범'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n88fd72e6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/05/04/HE4WKNRUG43TMOLGG4YWEZBRG4/",
+    "title": "NCT위시, 역시 SM 피 어디 안가네…음방 3관왕 '커리어하이'",
+    "summary": [
+      "[스포츠조선 백지은 기자] NCT위시의 상승세가 무섭다.",
+      "NCT 위시가 신곡 '오드 투 러브'로 지상파 3사 음악방송 1위를 싹쓸이 했다.",
+      "NCT위시는 1일 KBS2 '뮤직뱅크', 2일 MBC '쇼! 음악중심'에 이어 3일 SBS '인기가요'에서 1위 트로피를 들어올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne375fd3f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/04/28/QTZSR5X2I5CNDMDXYHHQCQX27A/",
+    "title": "굴곡 많은 한국 골프장에 딱 맞아, 접지력 좋은 국산 골프화 5만원대 초특가",
+    "summary": [
+      "굴곡 많은 한국 골프장에 딱 맞아, 접지력 좋은 국산 골프화 5만원대 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e0c912d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/05/04/GA4TENZUME4GENZZMI3DQOBYMY/",
+    "title": "이러면 저 불러주실 건가요? 할 수 있는 건 무력 시위 뿐...드디어 첫 홈런 터졌다",
+    "summary": [
+      "[스포츠조선 김용 기자] 이러면 저 불러주실 건가요? 미국 메이저리그 샌디에이소 파드리스 트리플A에서 뛰고 있는 송성문이 홈런으로 무력 시위를 했다.",
+      "엘파소 치와와스 송성문은 4일(한국시각) 미국 뉴멕시코주 앨버커키 아이소톱스파크에서 열린 앨버커키 아이소톱스(콜로라도 로키스 산하)와의 경기에 5번-2루수로 선발 출전, 4타수 1안타를 기록했다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -632,20 +650,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "삼성전자",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "스타트업",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
