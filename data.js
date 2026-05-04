@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-04 21:58:09
+// 마지막 업데이트: 2026-05-04 22:56:07
 window.NEWS_DB = [
   {
     "id": "nda8da783",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "57분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTlyVWsyVjJmYjVCYWwyWER0Y3JXTFlWSlllTlc1YVZqOVdFNUFobmNkX2lQQmg5RnFCOEF2Wm9VTkViTkg3UzFIbUJtNU5fRU1tR1FGMm9EUENScERsa2JPSVJrcWhyWmVQbkc1RXhaMk0tcTVsUkt5WUJEVmk1S3d3?oc=5",
     "title": "엔비디아 GPU 못 사는 中, 화웨이 반도체에 맞춰 AI ‘새 판’ 짠다",
     "summary": [
@@ -18,14 +18,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0d9b41e5",
+    "id": "n97194ff6",
     "category": "경제",
-    "source": "네이트",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FdFB4MGRfckFtZ3FIMEZtN3FTVFl5ZGRXeTdTdTZxR0hGZEd4VE9hY2tCa0Z6SVRfX21wdVZwYjREbzB4U2o5aVh4R2R2OVdpb3JJ?oc=5",
+    "source": "이데일리TV",
+    "time": "16시간 전",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKWXY5NU9nZ3BFMWN6MHlwUEZEMXZXcDFlOWpIeElaVmROZC1pcWFsaFR4N00yd19nRFhUUlpiQlRucVY4TXRjNXJhczBqMmdLQWdUNjJGb2tFRDQyNklZMWpjWXFaOXgyUEx2OElZVzNjdHRHQzdzUHR1cw?oc=5",
     "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
     "summary": [
-      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 네이트."
+      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리TV."
     ],
     "chips": [
       "#환율"
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nf4b4e411",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcXhPMFpRVDRMZVRWVnAtc1pmSU44MTJESDllUjE4dUxpWjJMbW9YX0FENW42R1hpdWlCbGxHQVpWTVZQR3U2dEZJTzV5cFVBUnZNbDlWTWx3aE05ZGJ3b3hNbmZiN2g0SFpzMUZuUGZHOFU?oc=5",
     "title": "엔비디아 피지컬 AI 신사업에 한국 역할 커진다, SK 삼성 LG 현대차 협력 중요",
     "summary": [
@@ -47,10 +47,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9a605dd3",
+    "category": "IT",
+    "source": "소셜밸류",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5POHdKUERwZlhqeGswREJ6STJFX0p6M2xfczlGTVNWOTkzcW9EbTZRaTNtY09kdktqSzQ0eDIzTzN4NTFMcGFuZ2ZERm9SclZCelE2d3l4ZndqWmptTUV3dlZiSdIBbEFVX3lxTE9ZS3NDa2UxS1A3TFhiRnNZejhjYi1hemRqRnpZTGwxX18wVHpxWTV3dlRoZ2tlSmpRMHRuTjkyNDVpUE8zQ0xEMW9CZG5VVWliSGNibGQ1OTNRNzFINVdZSXBkVEpRYUR5dkozWg?oc=5",
+    "title": "′우상향′ 신기록 쓰는 삼성전자·SK하이닉스…K-반도체 성장 신화는 계속된다",
+    "summary": [
+      "′우상향′ 신기록 쓰는 삼성전자·SK하이닉스…K-반도체 성장 신화는 계속된다 소셜밸류."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nf7044eb0",
     "category": "IT",
     "source": "테크M",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03OVUxWF9iT2JGZGhWSU9iS25COHpoZGZqeXZFcWdXTGc5amlIQ2Q5c04zYlh3ZGp4UEZEZ0pnQUNiQXRMczI3am40Y1hyeUdUT01Kd3BHUEpJM0x1MVRHbzhpM0x2UdIBakFVX3lxTE5iRHh2Qmo0RnFFY29NajlHMWN5bkVydDM4UW1sdW80TUpwaGRwVWlSZHVjZXY4V0pJU1BHMDFidE9SVE01RWM2MEUwcWVzekxVRW56WVFwTUhQanFRbjh5ZFdiM2VZUUdVakE?oc=5",
     "title": "삼성전자·SK하이닉스, 1분기 실적 '범용 D램'에서 갈렸다...왜?",
     "summary": [
@@ -118,21 +134,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n7aed1cf1",
-    "category": "부동산",
-    "source": "리얼캐스트",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWXh3MEhBenVCb1I5NTNLa2FVWTdPSG9MYlh1YlpMQVNEQXlDdTdIUlBpMkk4SDBMbldqdDU5ejN6OWdEQkhsMlpqdnZDNEpVX1FZbE02R1NrbmFRRGh3bzItMl9DbVpB0gFsQVVfeXFMTWFpTF8xUHdYam9qb3JXalkzRzc2bE54VG9zUEltd1N2THBaZ3pRb185d2o1MTlvaXF6di01bURqZ1FrTFNvQTY2UV9hV3NkUENleW5ndjQzT2FYVk9EM2p0YnVNd0N2dkdvLXg2?oc=5",
-    "title": "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동",
-    "summary": [
-      "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동 리얼캐스트."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
     ]
   },
   {
@@ -239,18 +240,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n759c2467",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "80일 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
-    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
+    "id": "n15f5f447",
+    "category": "경제",
+    "source": "지디넷코리아",
+    "time": "61일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
+    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
     "summary": [
-      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
+      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
     ],
     "chips": [
-      "#반도체",
-      "#SK하이닉스"
+      "#환율"
     ]
   },
   {
@@ -298,345 +298,336 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n639defbd",
+    "id": "n13cdbe9c",
+    "category": "부동산",
+    "source": "시사저널e",
+    "time": "125일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
+    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
+    "summary": [
+      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "ncadbf54a",
     "category": "사회",
     "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617089",
-    "title": "UAE \"이란발 미사일 15발, 드론 4대 요격\"…아이언돔도 나섰다",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617114",
+    "title": "외교부, 호르무즈 韓선박 폭발 관련 재외국민보호대책 회의 개최",
     "summary": [
-      "[서울=뉴시스]고재은 기자 = 아랍에미리트(UAE)가 4일(현지 시간) 이란이 자국을 향해 발사한 미사일 15발, 드론 4대를 요격했다고 밝혔다.",
-      "UAE가 이란 공격을 받은 것은 지난달 8일 미국과 이란이 휴전에 합의한 이후 처음이다.",
-      "타임스오브이스라엘(TOI) 등에 따르면 UAE 국방부는 소셜미디어 엑스(X·구 트위터)를 통해 \"이란에서 발사된 탄도 미사일 12발, 순항 미사일 3발, 드론 4대를 요격했다(engage)\"고 밝혔다."
+      "[서울=뉴시스] 남빛나라 기자 = 외교부는 호르무즈 해협에서 한국 선박 폭발·화재가 발생한 데 대해 재외국민보호대책본부 회의를 개최했다고 5일 밝혔다.",
+      "김진아 외교부 2차관 주재로 이날 0시경 열린 회의에는 중동 지역 7개 공관 및 해양수산부가 참석했다.",
+      "참석 공관은 주아랍에미리트대사관, 주두바이총영사관, 주이란대사관, 주사우디대사관, 주이라크대사관, 주카타르대사관, 주오만대사관이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbea3cf6d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260505/133861636/1",
-    "title": "美백악관, 인근 총격 발생에 일시폐쇄…행인 1명 부상",
-    "summary": [
-      "4일(현지 시간) 미국 백악관 인근에서 또다시 총격 사건이 발생했다.AP통신에 따르면 이날 오후 미국 워싱턴DC에서 법집행 요원과 대치 중이던 용의자가 총기를 발사했다.이에 비밀경호국 요원들이 대응 사격을 실시했고, 이 과정에서 지나가던 행인 1명이 부상을 입었다고 맷 퀸 비밀경호국 부국장이 밝혔다.총격은 워싱턴기녑탑 남쪽인 15번가와 인디펜던스 에버뉴 사이에서 발생했다.",
-      "많은 관광객들이 찾는 미국 수도 복판에서 대낮에 총기 사건이 발생한 것이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndf8f1b9f",
+    "id": "nb44c93d6",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617086",
-    "title": "젤렌스키 \"러 휴전 요청 없었다…우크라는 6일 0시부터 휴전\"",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003616985",
+    "title": "엘라 랭글리 '추진 텍사스', 빌보드 '핫 100' 통산 8주 1위…기록적 반등",
     "summary": [
-      "[서울=뉴시스] 권성근 기자 = 볼로디미르 젤렌스키 우크라이나 대통령은 4일(현지 시간) 러시아가 일방적으로 오는 8~9일 휴전을 선언한 데 대해 우크라이나는 오는 6일 자정부터 자체적인 휴전 체제에 돌입한다고 대응했다.",
-      "우크라이나 매체 키이우 인디펜던트에 따르면 젤렌스키 대통령은 이날 휴전과 관련해 러시아로부터 \"공식적인 요청\"을 아직 받지 못했다며 이같이 말했다.",
-      "그러면서 젤렌스키 대통령은 \"우리는 인간의 생명이 그 어떤 기념일 '축하'보다."
+      "[서울=뉴시스]이재훈 기자 = 미국 컨트리 음악의 새로운 이정표가 된 엘라 랭글리(Ella Langley)의 질주가 멈추지 않고 있다.",
+      "4일(현지시간) 미국 빌보드 차트에 따르면, 랭글리의 '추진 텍사스(Choosin’ Texas)'가 빌보드 메인 싱글 차트 '핫 100'(5월9일 자)에서 정상을 탈환하며 통산 8주째 1위를 차지했다.",
+      "이번 1위 등극은 벌써 다섯 번째 재탈환이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n84ba9bb3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260505/133861775/2",
+    "title": "트럼프 “이란, 韓화물선 공격… 한국도 작전 동참할 때 됐다”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 4일(현지시간) 이란이 한국 화물선을 공격했다고 주장하며, 호르무즈 해협 개방을 위한 미국의 작전에 한국의 참여를 촉구했다.트럼프 대통령은 이날 자신의 트루스소셜을 통해 “이란이 선박 이동 작전인 ‘프로젝트 프리덤’과 관련하여 한국 화물선을 포함해 (전쟁과) 무관한 국가들을 향해 공격을 가했다”고 밝혔다.",
+      "앞서 호르무즈 해협 인근에서 발생한 한국 화물선 폭발 사고와 관련해, 이란의 공격 가능성을 직접 언급한 것이다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n5122b2ee",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://www.asiae.co.kr/article/2026050415473592318",
-    "title": "다주택자 규제의 나비효과? LX하우시스, 1Q 이익 급증[클릭e종목]",
+    "id": "nd6073a29",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260504137800008",
+    "title": "5대 증권사 ETF 투자 0∼19세 30만명…올해만 37% 증가",
     "summary": [
-      "LX하우시스가 올해 1분기 '깜짝 실적'을 거뒀다.",
-      "다주택자 양도세 중과 유예 종료를 앞두고 주택 매매가 증가하면서 물량이 회복됐고, 환율 효과까지 겹친 영향으로 풀이된다.",
-      "5일 미래에셋증권은 LX하우시스의 목표주가를 4만6000원으로 39.4% 올리고 투자의견도 '중립'에서 '매수'로 상향 조정했다."
+      "(서울=연합뉴스) 김태종 기자 = 국내 5개 대형 증권사를 통해 국내외 상장지수펀드(ETF)에 투자하고 있는 미성년자 수가 30만명을 넘어선 것..."
     ],
     "chips": [
-      "#환율",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb221aea",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617113",
+    "title": "부산 특화쌀 '황금예찬' 모내기 6월1~10일…일반 벼는 시작",
+    "summary": [
+      "[부산=뉴시스] 하경민 기자 = 부산시농업기술센터는 부산지역 특화 쌀 브랜드 '황금예찬'의 모내기가 일반 벼보다 늦은 내달 1~10일 진행된다고 5일 밝혔다.",
+      "센터에 따르면 황금예찬은 부산지역 재배 여건에 적합한 고품질 쌀로, 맛이 좋고 식감이 우수해 안정적인 판로 확보가 기대되는 품종이다.",
+      "올해 황금예찬 모내기에는 117농가가 참여하며, 138㏊ 규모로 재배할 예정이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3e18d6d2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617112",
+    "title": "[성주소식]성주참외 우수성 알린다 '판촉 행사' 등",
+    "summary": [
+      "[성주=뉴시스] 박홍식 기자 = 경북 성주군은 농협하나로마트 서울 양재점에서 '성주참외 홍보·판촉행사'를 개최했다고 5일 밝혔다.",
+      "제철을 맞은 성주참외 우수성을 알리고 소비 촉진을 위해서다.",
+      "성주조합공동사업법인 및 농협 관계자들이 일일 홍보대사로 나서 저렴한 가격에 참외를 판매했다."
+    ],
+    "chips": [
       "#정책"
     ]
   },
   {
-    "id": "na968ff04",
+    "id": "n9ccf107c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/05/XKLQGA5PBJCOJHEDH5HBWQTAAQ/",
+    "title": "노화를 늦추는 가장 간편한 아침 식사, 출시 3주만에 3만세트 판매 돌파",
+    "summary": [
+      "노화를 늦추는 가장 간편한 아침 식사, 출시 3주만에 3만세트 판매 돌파."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3880a504",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/05/GEZTKMTCMU4WGYJXME3DGM3BMU/",
-    "title": "'어느새 2위' 전북, 다시 3연승 도전...전주성에서 '7연패' 광주와 격돌→상승세 이어갈까[오!쎈 프리뷰]",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/05/MRRWEOLDG42DINZZGY2GCNJZGU/",
+    "title": "'무리뉴 영입 난항' 레알 마드리드 새 대안을 찾았다, '유로파' 제왕 에메리 감독 후보 리스트 추가→급부상",
     "summary": [
-      "[OSEN=고성환 기자] '디펜딩 챔피언' 전북 현대가 올 시즌 두 번째 3연승에 도전한다.",
-      "그 상대는 7연패의 늪에 빠진 광주FC다.전북 현대는 5일 오후 2시 전주월드컵경기장에서 열리는 하나은행 K리그1 2026 12라운드 홈 경기에서 광주FC와 맞붙는다.",
-      "현재 전북은 5승 3무 3패(승점 18)로 2위, 광주는 1승 3무 7패(승점 6)로 최하위를 기."
+      "[스포츠조선 노주환 기자]스페인 명문 레알 마드리드가 차기 정식 감독 후보 리스트에 애스턴 빌라 사령탑 우나이 에메리 감독을 추가한 것으로 전해졌다.",
+      "레알 마드리드 구단은 주요 대회 트로피 없이 두 시즌을 연속으로 마감 중이다.",
+      "임기 종료가 임박해 보이는 알바로 아르벨로아 임시 감독의 후임자 물색을 진행 중이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0701fdb6",
+    "id": "na6193e32",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505010400071",
-    "title": "트럼프, 정책 성과 자찬하다 \"8~9년뒤 임기 끝나면 나도 이용\"",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505013600054",
+    "title": "광주 도심서 2명 흉기 피습, 여고생 1명 사망…용의자 추적 중",
     "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 4일(현지시간) 임기 종료 시점을 8∼9년 뒤로 내다보는 발언을 했다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n98b30224",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/05/GU4GGNBUHA3DMMBWMQ2TEYRRMM/",
-    "title": "우지원, 외모 쏙 빼닮은 '미국 명문대 출신' 딸 자랑 “미술학 전공”(남겨서 뭐하게)",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 우지원이 딸 자랑을 했다.4일 방송된 tvN STORY ‘남겨서 뭐하게’에는 현주엽이 출연해 우지원을 초대했다.우지원은 “저는 별명이 황태자, 현주엽은 매직 하마다.",
-      "여기는 동물이다”라고 공격했다.",
-      "현주엽은 우지원과 비교해 연봉이 누가 더 높은지 묻는 질문에 “그런 걸 묻지 마라."
+      "(광주=연합뉴스) 정회성 기자 = 광주 도심에서 길을 걷던 고등학생 2명이 괴한으로부터 공격당해 1명이 숨지고 1명은 다쳤다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfd447a8a",
-    "category": "경제",
+    "id": "n47656944",
+    "category": "사회",
     "source": "조선일보",
     "time": "12분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/05/MU4DMOJRGYYTIOLEHFRDIOBWGA/",
-    "title": "뉴욕증시, 호르무즈 해협 긴장 재고조에 하락 마감",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/05/GA2DEMZUGYZDAMDFGBRTEOJSMY/",
+    "title": "‘러브캐처’ 송세라♥박정진, 6년 열애 끝 결혼…연예인급 비주얼 웨딩화보 공개",
     "summary": [
-      "4일(현지시각) 뉴욕증시 3대 지수가 일제히 하락 마감했다.",
-      "중동 지역 긴장이 다시 고조하며 국제 유가가 급등한 여파다.",
-      "투자자들은 인플레이션 재점화 가능성을 우려하며 위험 자산을 회피하는 심리를 보였다."
+      "[OSEN=강서정 기자] ‘러브캐처2’ 출신 모델 겸 인플루언서 송세라가 결혼을 앞둔 소감을 전했다.",
+      "송세라는 지난 4일 “D-5 어쩌다 보니 결혼식이 이렇게 코 앞으로 다가왔네요..! 작년부터 준비를 했는데 뭔가 닥쳐서 정신 없이 준비한 것 같은 기분이라 지금도 뭔가 얼떨떨합니다..”라고 털어놓았다.",
+      "이어 “인생 오래 살고 볼 일인 게 어릴 때부터 딱히."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n239326da",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504075200017",
-    "title": "\"한국 첫 원자로 역사 속으로\"…연구로 1호기 이달 철거",
-    "summary": [
-      "(서울=연합뉴스) 조승한 기자 = 국내 첫 원자로였던 서울 노원구 공릉동 연구용 원자로 1호기 건물이 이달 철거에 착수한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3724d724",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/living/2026/05/05/2026050417311552551",
-    "title": "KT&G, 다우존스 월드지수 2년 연속 편입",
-    "summary": [
-      "KT&G가 다우존스 지속가능경영지수(DJBIC, Dow Jones Best-in-Class) 평가에서 최상위 등급인 '월드 지수'에 2년 연속 이름을 올렸다고 4일 밝혔다.",
-      "이와 함께 다우존스 '아시아 퍼시픽·코리아 지수'에도 포함됐다.",
-      "DJSI는 S&P글로벌이 발표하는 대표적인 ESG(환경, 사회, 지배구조) 평가 지표로, 전 세계 시가총액 상위 2500여개 기업 가운데 상위 10%만 '월드 지수'에 포함된다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nf6c93932",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/living/2026/05/05/2026050417022594697",
-    "title": "BGF리테일, 세종 화재 현장에 긴급 구호물품 지원",
-    "summary": [
-      "편의점 CU를 운영하고 있는 BGF리테일이 세종시 조치원읍 화재로 피해를 본 주민들을 위해 긴급 구호물품을 지원했다고 4일 밝혔다.",
-      "지난 1일 오후 8시경 지하 전기실 설비가 전소되며 1429세대의 전력과 수도 공급이 전면 중단됐다.",
-      "인명 피해는 없었으나 복구에 상당한 시일이 걸릴 것으로 예상돼 주민 불편이 길어지고 있는 상황이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n26dde40e",
+    "id": "nd708e098",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/05/MUZWMMRXGE2WCOJVHFRGIN3GHA/",
-    "title": "'영혼의 단짝' 구디 듀오, 드디어 재결합하나...'갈비뼈 부상' 구자욱, 이르면 오늘 1군 복귀",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/05/2026050507355495909",
+    "title": "'류-왕 제외 전원이탈' 선발 무너진 한화, '퓨처스 ERA 1위' 육성선수가 해법될까",
     "summary": [
-      "[OSEN=대구, 손찬익 기자] 프로야구 삼성 라이온즈에 반가운 소식이 전해졌다.",
-      "‘영혼의 단짝’으로 불리는 구자욱과 르윈 디아즈 듀오를 다시 볼 날이 얼마 남지 않았다.",
-      "구자욱은 이르면 5일 대구 키움 히어로즈전에 앞서 1군 무대에 복귀할 전망이다."
+      "선발 5경기 등판, 2승 무패, 평균자책점(ERA) 0.86.오웬 화이트에 이어 문동주, 윌켈 에르난데스까지.",
+      "개막전 선발 로테이션을 채웠던 투수들 중 무려 3명이 이탈했다.",
+      "더 큰 문제는 확실한 대체 카드가 없다는 것이다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n036382f5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505010300056",
-    "title": "제주 맑고 일교차 커…미세먼지 '좋음'",
+    "id": "n67c9242a",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260504141600008",
+    "title": "6·3 지선 한달 앞…코스피 불장 속 선거 테마주는 '싸늘'",
     "summary": [
-      "(제주=연합뉴스) 김호천 기자 = 어린이날인 5일 제주는 맑겠다."
+      "(서울=연합뉴스) 김유아 기자 = 국내 주식시장에서 코스피가 연초부터 고점을 잇달아 뚫고 있는 가운데, 6·3지방선거를 약 한 달 앞두고 선거 ..."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n3cd5920a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617095",
-    "title": "'여름 시작' 어린이날 광주·전남 맑음…낮 최고 23도",
-    "summary": [
-      "[광주=뉴시스]변재훈 기자 = 절기상 여름의 시작인 '입하(立夏)'이나 어린이날인 5일 광주와 전남은 대체로 맑겠다.",
-      "광주기상청에 따르면 이날 광주·전남은 고기압 영향으로 맑겠으나 아침 기온은 0~10도 분포로 평년보다 다소 낮겠다.",
-      "광주 공식 관측지점 아침 기온은 7.2도다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3dd6bad5",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260504150000004",
-    "title": "'반도체 호황'이 직장인 소득 격차에 어린이날 선물 격차까지?",
-    "summary": [
-      "(서울=연합뉴스) 유한주 김채린 정지수 기자 = '반도체 산업 호황'이 어린이날 풍경마저 바꿔놓고 있다는 말이 나온다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n0d42e3a0",
+    "id": "n06696b1b",
     "category": "경제",
     "source": "한국경제",
-    "time": "27분 전",
-    "url": "https://www.hankyung.com/article/202605045509i",
-    "title": "\"신청 안하면 나만 손해\"...지역상품권 대거 풀렸다",
+    "time": "17분 전",
+    "url": "https://www.hankyung.com/article/2026050559897",
+    "title": "역대급 불장, '어린이 개미'도 늘어난다…0~9세 신규 계좌 개설 급증",
     "summary": [
-      "\"신청 안하면 나만 손해\"...지역상품권 대거 풀렸다."
+      "역대급 불장, '어린이 개미'도 늘어난다…0~9세 신규 계좌 개설 급증."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n988898c9",
-    "category": "경제",
+    "id": "n3be3d46e",
+    "category": "사회",
     "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/economy/2026/05/05/2026050408291692237",
-    "title": "일본 제치고 '수출 5강' 등극?…\"반도체 빼면 암울\" 한국 경제 명과 암",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/05/2026050507085434517",
+    "title": "트럼프 \"이란, 한국 선박 공격…한국도 작전 동참할때\"",
     "summary": [
-      "중동 전쟁 장기화 속에도 한국 경제 성장률 눈높이가 올라가고 있다.",
-      "반도체 슈퍼사이클 속 수출 호조세가 이어지고 있기 때문이다.",
-      "하지만 반도체를 제외한 대부분 산업의 성장세가 제자리걸음에 그치는 등 'K자형 양극화' 우려도 증폭된다."
+      "4일(이하 현지 시간) 호르무즈 해협에서 발생한 한국 선사 운용 선박의 폭발은 이란의 폭격에 의한 것이라고 도널드 트럼프 미국 대통령이 발표했다.",
+      "트럼프 대통령은 그러면서 한국 역시 호르무즈 해협에서 관련 작전에 동참할 때가 됐다며 한국의 군사 행동을 촉구했다.",
+      "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 \"이란은 '프로젝트 프리덤'이라는 선박 이동과 관련해 한국 화물선을 포함해 관계없는 국가들을 향해 발포에 나섰다\"며 \"이제 한국도."
     ],
     "chips": [
-      "#반도체",
-      "#수출"
+      "#정치"
     ]
   },
   {
-    "id": "n6ef06722",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "28분 전",
-    "url": "https://www.asiae.co.kr/article/2026050415275471450",
-    "title": "\"오픈AI에 아모데이 떴다\" AI 도구에 캐릭터 등장...왜?",
-    "summary": [
-      "오픈AI가 코딩 AI 앱 코덱스에 추가한 캐릭터 기능이 개발자들 사이에서 화제다.",
-      "5일 업계에 따르면 오픈AI의 코덱스는 8개의 기본 AI 캐릭터를 제공하고, 개인별로 캐릭터를 생성할 수 있는 기능을 추가했다.",
-      "이용자들은 '코덱스 펫', '펫덱스' 등 라이브러리 사이트에서 자신이 만든 캐릭터를 공유하고 있다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ncf254dd6",
-    "category": "IT",
-    "source": "테크M",
-    "time": "31분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151541",
-    "title": "[카드뉴스] 크래프톤은 왜 게임을 넘어 자율주행에 투자했을까?.. IP·AI·데이터의 연결 전략에 주목하라",
-    "summary": [
-      "요즘 게임 회사들의 움직임을 보면 한 가지 공통점이 보인다.",
-      "더 이상 게임 안에서 경쟁하지 않는다.",
-      "크래프톤 역시 마찬가지다.배틀그라운드라는 강력한 IP를 기반으로 AI를 붙이고, 그 AI를 다시 자율주행과 현실 데이터로 연결한다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n81160098",
+    "id": "nfcf60da2",
     "category": "사회",
-    "source": "동아일보",
-    "time": "37분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260505/133861629/1",
-    "title": "“서울 안 가도 된다”…등록금 부담·지방대 강화에 ‘인서울’ 흔들",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/05/2026050418032970664",
+    "title": "'스스로 견제' 하는 李대통령…'조작기소 특검' 논란 수면 아래로?",
     "summary": [
-      "수도권 대학 쏠림 흐름에 변화 조짐이 나타나면서 이른바 ‘인서울’ 선호에 균열이 생기는 것 아니냐는 분석이 나온다.",
-      "서울권 대학 지원 비율이 하락하고 교육을 이유로 한 서울 전입까지 줄어들면서 입시 구조 변화가 현실화되는 모습이다.5일 교육계에 따르면 진학사가 수험생 지원 데이터를 분석한 결과, 2026학년도 수시 모집에서 서울 소재 대학에 지원한 비율은 18.8%로 집계돼 전년(23.8%) 대비 5.0%포인트(p) 급감했다."
+      "[the300] 이재명 대통령이 더불어민주당의 '윤석열 정권의 조작 수사·기소 진상규명 특별검사법'(이하 조작기소 특검법) 입법 시도에 \"숙의해달라\"고 밝힌 것은 소모적인 정쟁거리를 선제적으로 해소하려는 시도로 풀이된다.",
+      "청와대가 아젠다(의제)를 설명하는 과정에서 국민 눈높이에 벗어나면 민의를 대표해 당이 제동을 걸었던 과거에서 벗어나 새로운 유형의 당정 관계가 정립됐다는 분석도 나온다.",
+      "━李대통령, 조작기소 특검에 \"숙의\" 당부…이번에도 '한."
     ],
     "chips": [
-      "#채용",
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "n29692d6b",
+    "id": "n89955b76",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "21분 전",
+    "url": "https://www.hankyung.com/article/202605044873g",
+    "title": "톱 여배우가 타는 '의외의 차'…\"한 집 걸러 한 대씩 탔다\" [모빌리티톡]",
+    "summary": [
+      "톱 여배우가 타는 '의외의 차'…\"한 집 걸러 한 대씩 탔다\" [모빌리티톡]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf0117c75",
     "category": "사회",
-    "source": "동아일보",
-    "time": "38분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260505/133861626/1",
-    "title": "‘최고 24도’ 맑고 화창한 어린이날…큰 일교차 주의",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505012300504",
+    "title": "주북 러대사관, '첫 북러정상회담 7주년'…北외무성과 친선모임",
     "summary": [
-      "어린이날이자 화요일인 5일 전국이 대체로 맑고, 나들이하기 좋은 날씨가 이어지겠다.",
-      "다만 내륙을 중심으로 낮과 밤의 기온 차가 커 건강관리에 유의해야 한다.기상청에 따르면 이날 아침 최저기온은 3~13도, 낮 최고기온은 19~24도로 평년(최저 8~13도, 최고 20~25도)과 비슷하거나 조금 낮겠다.내륙을 중심으로 낮과 밤의 기온 차가 15도 안팎, 경상권내륙은 20도 안팎으로 크겠다.주요 도시별 예상 아침 최저기온은 △서울 8도 △인천 9도."
+      "(서울=연합뉴스) 전명훈 기자 = 김정은 북한 국무위원장과 블라디미르 푸틴 러시아 대통령의 첫 정상회담 7주년을 맞아 북한 주재 러시아 대사관이..."
     ],
     "chips": [
-      "#의료"
+      "#정치"
     ]
   },
   {
-    "id": "n4fa7963a",
+    "id": "ne56eab65",
     "category": "경제",
     "source": "동아일보",
-    "time": "38분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260505/133861621/1",
-    "title": "“우리 아이 복리 누려야죠”…코스피 불붙자 미성년 주식계좌 9배 증가",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260505/133861752/1",
+    "title": "전대미문 코스피 불장에…은행 투자대기 자금 ‘재이탈’",
     "summary": [
-      "연초 증시 활황으로 올해 1분기 미성년자 주식 계좌 개설이 크게 증가한 것으로 나타났다.",
-      "증권가에서는 주식투자를 자산 증식이 아니라 미성년자 자녀의 금융 이해도를 높이는 교육 수단으로 활용하면서 복리 효과를 극대화하는 방향으로 실행해야 한다고 조언했다.‘코스피 급등’ 1분기, 토스證 미성년자 계좌 개설 9배 늘어5일 토스증권에 따르면 올해 1분기 미성년자 전용 ‘아이계좌’를 개설한 사용자 수는 18만 480명으로 집계됐다."
+      "지난달 시중은행의 요구불예금이 3달 만에 감소로 돌아섰다.",
+      "코스피 지수가 전인미답의 7000선을 바라보는 상황에서 주식 투자 등으로 자금이 이동하는 것으로 풀이된다.5일 금융권에 따르면 KB국민·신한·하나·우리·NH농협 등 5대 은행의 요구불예금 잔액은 지난달 말 기준 696조5524억원으로 집계됐다.3월말 기준 699조9081억에서 한 달간 3조3557억 줄어든 규모다.",
+      "앞서 2~3월에는 두 달 연속 급증세를 보이다가 석 달 만에 감소 전환했."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neeb6b8de",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260505/133861747/1",
+    "title": "“멕시코 입맛 잡은 K푸드”…‘이 전시’ 1700명 방문",
+    "summary": [
+      "인구 1억 3000만명으로 전세계 10위 수준인 멕시코에서 K-푸드 전시회가 성공적으로 열렸다.",
+      "5일 식품의약품안전처와 한국식품안전관리인증원(해썹인증원)에 따르면 주멕시코 대한민국 대사관과 함께 지난달 24일에 멕시코 멕시코시티 기억과 관용의 박물관(Museo Memoria y Tolerancia)에서 개최한 ‘K-푸드’ 전시회가 성공적으로 마무리됐다.",
+      "이번 전시회는 1700여명이 방문했으며, 행사 시작 전부터 입장을 기다리는 현지인들로 긴 줄."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "ne0c568f1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260505/133861744/1",
+    "title": "“중학생도 어린이날 선물 줘야하나요”…맘카페 질문 쏟아져",
+    "summary": [
+      "어린이날을 앞두고 중학생 자녀에게도 선물을 줘야 하는지를 두고 학부모들의 고민이 깊어지고 있다.",
+      "특히 ‘만 나이’ 통일법 시행 이후 자녀들이 이를 근거로 스스로 어린이임을 주장하며 선물이나 용돈을 요구하는 풍경이 벌어지면서 부모들의 셈법도 더욱 복잡해지는 일이 발생하고 있다.",
+      "초등학생까지가 법적·사회적 관념상의 ‘어린이’에 해당하지만 사춘기에 접어든 자녀와의 관계를 고려해 외면하기 어렵다는 목소리가 높다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3796709",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260504138200008",
+    "title": "이란사태 장기화에 곡물값 다시 들썩…글로벌 식량위기 공포",
+    "summary": [
+      "(서울=연합뉴스) 황철환 기자 = 미국과 이란이 호르무즈 해협을 안팎에서 봉쇄 중인 상황이 장기화하자 한때 안정되는 듯 하던 국제 곡물가격이 또..."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -646,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
