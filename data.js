@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-05 01:52:47
+// 마지막 업데이트: 2026-05-05 04:54:14
 window.NEWS_DB = [
   {
-    "id": "nda8da783",
+    "id": "n3e2c0ef0",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "4시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTlyVWsyVjJmYjVCYWwyWER0Y3JXTFlWSlllTlc1YVZqOVdFNUFobmNkX2lQQmg5RnFCOEF2Wm9VTkViTkg3UzFIbUJtNU5fRU1tR1FGMm9EUENScERsa2JPSVJrcWhyWmVQbkc1RXhaMk0tcTVsUkt5WUJEVmk1S3d3?oc=5",
-    "title": "엔비디아 GPU 못 사는 中, 화웨이 반도체에 맞춰 AI ‘새 판’ 짠다",
+    "time": "7시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTlyVWsyVjJmYjVCYWwyWER0Y3JXTFlWSlllTlc1YVZqOVdFNUFobmNkX2lQQmg5RnFCOEF2Wm9VTkViTkg3UzFIbUJtNU5fRU1tR1FGMm9EUENScERsa2JPSVJrcWhyWmVQbkc1RXhaMk0tcTVsUkt5WUJEVmk1S3d30gGWAUFVX3lxTFBxREV0TWtrSlVSeDFla1B5azNhVFdSQm1BS3lGSjNwZWVaMXhvb0N6QXBoQ0NmcEJabUlJZ3RCYXNfa0FhS0pDNE5yVkZqY0NmQ3M3Nld6TFZMVTJCQTBpQnh5aUlvUUtmRXJBSDFaVHVKNkZETWEzeWtsbXpHdmljZTBNMDJwOFRtbFpJd2xKSEZvSjU2UQ?oc=5",
+    "title": "엔비디아 GPU 못 사는 中, 화웨이 반도체에 맞춰 AI ‘새 판’ 짠다 - 조선비즈",
     "summary": [
-      "엔비디아 GPU 못 사는 中, 화웨이 반도체에 맞춰 AI ‘새 판’ 짠다 Chosunbiz."
+      "엔비디아 GPU 못 사는 中, 화웨이 반도체에 맞춰 AI ‘새 판’ 짠다 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#AI",
@@ -18,14 +18,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0d9b41e5",
+    "id": "n97194ff6",
     "category": "경제",
-    "source": "네이트",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FdFB4MGRfckFtZ3FIMEZtN3FTVFl5ZGRXeTdTdTZxR0hGZEd4VE9hY2tCa0Z6SVRfX21wdVZwYjREbzB4U2o5aVh4R2R2OVdpb3JJ?oc=5",
+    "source": "이데일리TV",
+    "time": "22시간 전",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKWXY5NU9nZ3BFMWN6MHlwUEZEMXZXcDFlOWpIeElaVmROZC1pcWFsaFR4N00yd19nRFhUUlpiQlRucVY4TXRjNXJhczBqMmdLQWdUNjJGb2tFRDQyNklZMWpjWXFaOXgyUEx2OElZVzNjdHRHQzdzUHR1cw?oc=5",
     "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
     "summary": [
-      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 네이트."
+      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리TV."
     ],
     "chips": [
       "#환율"
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nf4b4e411",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcXhPMFpRVDRMZVRWVnAtc1pmSU44MTJESDllUjE4dUxpWjJMbW9YX0FENW42R1hpdWlCbGxHQVpWTVZQR3U2dEZJTzV5cFVBUnZNbDlWTWx3aE05ZGJ3b3hNbmZiN2g0SFpzMUZuUGZHOFU?oc=5",
     "title": "엔비디아 피지컬 AI 신사업에 한국 역할 커진다, SK 삼성 LG 현대차 협력 중요",
     "summary": [
@@ -81,7 +81,7 @@ window.NEWS_DB = [
     "id": "nbf280c57",
     "category": "IT",
     "source": "시사저널e",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWWWF4am9aLTV6cjBDLUd3WFlmSVZadWtPN2JSaHlSRTgxcWRKUXNhTDBhdkozSUVlRFFUVkNSalBUc3g1Wl96eVZwSDNRUjRjelpxbnFiWlBwUS1Xdi1xamd3SlFHYnpldFgwRmhTYlFmQdIBdkFVX3lxTE5FTVRNQ0FCMEM2REFBMFlaa2tJd2JVRmFIXzBjZVVkd19JTGxXcTdDV21OTEQxQVI3OFcxU3ZWMllNS3BoWE1pMjJnUV9WQUhnNW1UbUV1TTJ5N0F0aXprOEhnTDJYbnBfUHZveXZNek9Nc0I4SHc?oc=5",
     "title": "삼성전자 범용 D램 상승세 속 HBM 캐파 더 키운다",
     "summary": [
@@ -90,6 +90,20 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "nca4f291e",
+    "category": "스포츠",
+    "source": "한스경제",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QR0tWWVFXUnZqQ0tHLVBWaFJ0a196bmNmU09NbVBHS0FFRnpIT2E5TjVTdmRLeFhmSmJPOEJNSEYxMGV2WTN5UWIzb2FTMUtwdkRPZGlwbU5qT2xadmw5cnMzSDN1TkRZajE00gFvQVVfeXFMUEp6XzFmRDRtWEpSWmtyRUNVdGVBOUg3TDFNc3JsUjdQSEJDNXVUU3Z3TkpKd25Gd1R3alVXRjZFQ1l4M3ZqNndjU1JWNlNsNzBRWmtuVk5lU0pRSG1pcjFhRjRBNm9YYTVKVjBMRzk4?oc=5",
+    "title": "국내야구, 4월 4주 차에도 스포츠 관심도 정상… 점유율 55%",
+    "summary": [
+      "국내야구, 4월 4주 차에도 스포츠 관심도 정상… 점유율 55% 한스경제."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -139,32 +153,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6da43448",
+    "id": "n64476ff1",
     "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Nd1h1WWlBUlFwZ0Etb1UyWHZJX3FGTEN4bmpxcTlOeXZ4TGtWVl9iSHBDblNfYU9pMlhkaFltZUlQbUFtMll2OGNqNFFfSjZKaUd0Z05NSC03c3J6N0hkTkdfT3YwajJ4V1lPXw?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상",
+    "source": "머니투데이",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
     "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 유니콘팩토리."
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
-    "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -212,17 +211,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncbcb6c77",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "57일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "id": "n15f5f447",
+    "category": "경제",
+    "source": "지디넷코리아",
+    "time": "61일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
+    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
     "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
     ],
     "chips": [
-      "#KBO"
+      "#환율"
+    ]
+  },
+  {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "74일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -299,342 +313,324 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9c776c4c",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "n1ea2c5ae",
+    "category": "IT",
+    "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260505/133862464/1",
-    "title": "아이유의 끝 없는 사랑…어린이날 아동협회에 5천만원 쾌척",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151547",
+    "title": "[타봤다] MINI에겐 가족이 없다? 올-일렉트릭 컨트리맨이 깬 선입견",
     "summary": [
-      "가수 겸 배우 아이유가 올해 어린이날을 맞이해서도 어김없이 따뜻한 나눔의 손길을 내밀었다.",
-      "5일 뉴스1 취재 결과, 아이유는 어린이날을 기념해 한국아동복지협회에 5000만 원을 기부했다.",
-      "이번 기부 역시 자신의 이름과 팬클럽 ‘유애나’를 합친 ‘아이유애나’ 이름으로 전달되어 그 의미를 더했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n06c5adc9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260505/133862458/1",
-    "title": "60조 잠수함·대미 투자 두축 승부…김정관 산업장관 북미 출격",
-    "summary": [
-      "김정관 산업통상부 장관이 캐나다 잠수함 사업 수주 지원과 대미 전략 투자 협의를 위해 북미 순방에 나선다.산업부는 김 장관이 5일부터 8일(현지시간)까지 캐나다 오타와와 미국 워싱턴 D.C를 방문해 주요 정부 인사들과 경제·산업 협력 방안을 논의한다고 5일 밝혔다.김 장관은 먼저 5~6일 캐나다 오타와에서 멜라니 졸리 산업부 장관, 팀 호지슨 에너지·천연자원부 장관과 잇달아 만나 산업 및 자원 분야 협력 확대 방안을 논의할 예정이다.특히 캐나다."
+      "미니(MINI)에게 가족은 없었다.",
+      "적어도 내 머릿속에서는 그랬다.",
+      "브랜드 이름부터 '작다'는 인상이 강했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd3ee6bc8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260505/133862455/1",
-    "title": "국힘 “대한민국 내일 밝히는 아이들 웃음소리, 끝까지 책임지고 보호”",
+    "id": "n5ce8763b",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151544",
+    "title": "[같이보소] \"북적이는 놀이공원 대신 방구석 1열!\"...어린이날은 디즈니플러스가 '진리'",
     "summary": [
-      "국민의힘은 제104회 어린이날을 맞은 5일 “대한민국의 내일을 밝히는 아이들의 웃음소리, 끝까지 책임지고 보호하겠다”고 밝혔다.",
-      "최보윤 국민의힘 수석대변인은 이날 논평을 통해 “모든 아이들의 가슴 속에 꿈과 희망이 가득하기를 소망한다”며 이같이 전했다.",
-      "최 대변인은 “대한민국 아동복지법과 어린이헌장은 모든 아이가 차별 없이 보호받으며 행복하게 자라야 한다고 명시하고 있다”며 “하지만 끊이지 않는 안전사고와 아동 대상 범죄는 여전히 존재하는 법과."
+      "어린이날을 맞아 어디를 가야 할지 고민하다가 결국 인파에 지쳐 집에서 쉬기로 결정하신 분들도 꽤 많을 것이라 생각합니다.",
+      "멀리 나들이를 떠나기 부담스러운 자녀를 둔 가정이라면 한결 여유로운 연휴를 계획하는 사람들도 많죠.",
+      "이럴 때는 푹신한 소파에 모여 앉아 맛있는 간식과 함께 재미있는 영화를 감상하는 것만큼 완벽하고 편안한 휴식도 없습니다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd75bfeb1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260505/133862448/1",
-    "title": "“경련에 쓸 약이 없어요”…소아응급실 올스톱 위기",
+    "id": "n4add85ba",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151543",
+    "title": "\"구로서 '추억의 게임' 즐기고, 성수서 '배그' 화과자 만들어요\"",
     "summary": [
-      "“아이가 경련이 멈추지 않을 때 가장 먼저 투여하는 약인 ‘아티반’의 생산과 공급이 중단 됐습니다.",
-      "대체약이 있기는 하지만 다른 약을 사용할 경우 치명적인 문제가 발생할 가능성이 있습니다.",
-      "”배우리 서울성모병원 소아전문응급의료센터장(응급의학과 교수)의 호소다."
+      "5월 어린이날을 맞아 주요 게임사가 가족 단위 관람객들을 겨냥한 나들이 명소를 마련했다.",
+      "게임 내 세계관과 콘텐츠를 오프라인 공간에서 경험할 수 있도록 하고, 게임 지식재산권(IP) 생태계를 확장한다..",
+      "팝업스토어부터 전시 공간, 각종 체험 행사까지 종류도 다채롭다.5일 넷마블에 따르면 넷마블문화재단에서 운영하고 있는 '넷마블게임박물관'은 오는 10일까지 어린이 대상 무료 입장 이벤트를 진행 중이다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n1dfe5be2",
-    "category": "사회",
+    "id": "n92ba130c",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/05/2026050513220756578",
+    "title": "\"이번 기회에 절교?\"…'13년 결혼생활' 숨긴 KCM에 섭섭했던 비",
+    "summary": [
+      "가수 겸 배우 비가 절친한 동료 KCM이 13년간 결혼 사실을 숨긴 것에 대해 섭섭했던 마음을 표했다.",
+      "비는 지난 4일 오후 SBS 예능 프로그램 '아니 근데 진짜'의 방송 말미 공개된 예고편에서 KCM과 함께 등장했다.",
+      "예고편에서 비는 친구 KCM이 등장하자 \"이번 기회로 KCM 끊어내야겠다\"고 말하며 눈길을 끌었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n58db70e0",
+    "category": "경제",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617222",
-    "title": "이 대통령, '소풍 가게 해주세요' 부탁에 \"선생님들도 부담없이 다녀올 수 있도록 준비할게요\"",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617302",
+    "title": "IMF, 이란전 장기화 경고…\"전쟁 내년까지 가면 세계경제 더 악화\"",
     "summary": [
-      "[서울=뉴시스]김경록 기자 = 이재명 대통령이 어린이날을 맞아 그간 소셜미디어(SNS)로 아동·청소년들이 보내온 말에 영상 답장을 보냈다.",
-      "이 대통령 유튜브채널인 이재명TV에는 5일 오전 '띵동, 어린이 여러분! 답장 왔어요'라는 제목의 쇼츠 영상이 게시됐다.",
-      "이 대통령은 영상 설명을 통해 \"인스타, 틱톡으로 보내준 쪽지들 일일이 답장 못해 늘 미안했다\"며 \"어린이날을 맞아 그 귀한 마음들에 답한다\"고 적었다."
+      "[서울=뉴시스] 권성근 기자 = 호르무즈 해협을 둘러싸고 미국과 이란의 긴장이 다시 고조되는 가운데 국제통화기금(IMF)은 전쟁이 장기화하면 일부 국가는 깊은 경기침체에 빠지게 되며, 전 세계가 공급망 위험에 노출될 수 있다고 경고했다.",
+      "영국 일간 가디언 등 외신에 따르면 크리스탈리나 게오르기에바 IMF 총재는 4일(현지 시간) 미국 캘리포니아주 로스앤젤레스(LA) 베벌리 힐튼 호텔에서 열린 '2026 밀컨 인스티튜트 글로벌 콘퍼런스'에서 이같."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8f4161be",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617326",
+    "title": "국힘 \"현대사의 거목, 이홍구 전 총리 서거 깊이 애도\"",
+    "summary": [
+      "[서울=뉴시스]우지은 기자 = 국민의힘이 5일 \"현대사의 거목이자 시대의 큰 어른, 이홍구 전 국무총리의 서거를 깊이 애도한다\"고 했다.",
+      "최보윤 국민의힘 수석대변인은 이날 오후 논평을 내어 \"고인의 명복을 빌며, 슬픔에 잠긴 유가족에게도 깊은 위로의 말을 전한다\"고 말했다.",
+      "최 수석대변인은 \"합리적 보수의 상징이자 학자와 행정가, 정치인으로서 현대사의 고비마다 이정표를 세웠던 이 전 총리는 대한민국 현대사의 굵직한 궤적을 남긴 거목이자, 시대의."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n9199c4e1",
+    "id": "n3386981f",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/05/2026050510152127482",
-    "title": "뽀로로와 함께하는 어린이날, KT 위즈 1승 8패 악몽 씻어내고 승리도 안길까",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/05/2026050511464795443",
+    "title": "제주전 앞둔 이영민 부천 감독 \"이겨야 팬분들 응어리 풀리지 않을까요\" [부천 현장]",
     "summary": [
-      "프로야구 KT 위즈가 인기 캐릭터 뽀로로와 함께 어린이 팬들을 맞이한다.",
-      "KT 구단은 5일부터 수원KT위즈파크에서 열리는 롯데 자이언츠와 3연전에서 '뽀로로 데이'를 개최한다.",
-      "인기 캐릭터 '뽀로로'가 5일 어린이날 특별 시구자로 나선다."
+      "제주 SK와의 '연고 이전 더비'를 앞둔 부천FC의 이영민 감독이 \"우리 팀의 역사가 담긴 경기\"라며 \"이겨야 팬분들이 마음 속에 갖고 있는 응어리를 풀지 않을까 생각한다\"고 말했다.",
+      "이영민 감독은 5일 오후 2시 부천종합운동장에서 열리는 하나은행 K리그1 2026 12라운드 홈경기 제주전을 앞두고 취재진과 만난 자리에서 \"팬분들이 중요하게 생각하는 경기라 선수들도 항상 인지하고 있다\"며 \"지난 1라운드 로빈 때 원정에서 졌기 때문에 홈에서는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na4345615",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617318",
+    "title": "IMF \"이란전 내년까지 가면 유가 125$…세계경제, 훨씬 더 나쁜 결과 직면\"",
+    "summary": [
+      "[뉴욕=신화/뉴시스] 유세진 기자 = 크리스탈리나 게오르기에바 국제통화기금(IMF) 총재는 4일(현지시각) 중동 전쟁이 2027년까지 지속되면 유가가 배럴당 약 125달러까지 치솟아 세계 경제가 \"훨씬 더 나쁜 결과\"에 직면하게 될 것이라고 경고했다.",
+      "게오르기에바 총재는 워싱턴 D.C.에서 열린 밀켄연구소 주최 컨퍼런스에서 \"인플레이션이 상승하고 필연적으로 인플레이션 기대치가 중앙은행의 통제 범위에서 벗어나게 될 것\"이라며 이같이 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2d7c5a67",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617314",
+    "title": "'징계 복귀' 고승민 \"죄송한 마음뿐\"…나승엽 \"물의 일으키지 않을 것\"",
+    "summary": [
+      "[수원=뉴시스]문채현 기자 = 그라운드로 돌아온 프로야구 롯데 자이언츠의 '징계 3인방'이 굳은 표정으로 머리를 숙였다.",
+      "이들은 무거운 마음으로 경기에서 최선을 다할 것을 다짐했다.",
+      "롯데는 5일 수원 KT위즈파크에서 열리는 2026 신한 쏠 KBO리그 KT 위즈와의 경기를 앞두고 고승민, 나승엽, 김세민을 1군 엔트리에 등록했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nb937fce8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617226",
-    "title": "아르바이트생 강제 추행한 식당 점주 징역형",
-    "summary": [
-      "[청주=뉴시스] 연현철 기자 = 아르바이트생을 강제 추행한 식당 점주가 징역형을 선고받았다.",
-      "5일 법조계에 따르면 청주지법 형사6단독 조진용 부장판사는 최근 강제추행 혐의로 불구속 기소된 A씨에게 징역 1년 6개월에 집행유예 3년을 선고했다.",
-      "40시간의 성폭력 치료 강의 수강과 120시간의 사회봉사, 3년간의 아동·청소년·장애인 관련기관 취업 제한도 명령했다."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "n90e0b86a",
+    "id": "n1dc10e2b",
     "category": "사회",
     "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://www.asiae.co.kr/article/2026050510475727416",
-    "title": "국방부, '계엄 가담' 특전사 장성·영관급 장교 중징계",
+    "time": "5분 전",
+    "url": "https://www.asiae.co.kr/article/2026050513485961897",
+    "title": "정청래 \"'조작기소 특검' 처리 시기, 국민·당원·의원 총의 모아 선택\"",
     "summary": [
-      "국방부가 '12·3 비상계엄'에 가담한 혐의로 재판에 넘겨진 특전사 장성·영관급 장교 4명에 대해 법령준수의무위반, 성실의무위반으로 중징계 처분했다.",
-      "5일 국방부에 따르면 당시 국회에 병력을 투입한 김정근 전 특전사 3공수여단장(준장)과 안무성 전 9공수여단장(준장 진급 예정자), 병력을 국회로 수송한 김세운 전 특수작전항공단장(대령) 등 3명은 파면 징계를 받은 것으로 알려졌다.",
-      "정치인 등 주요 인사 체포조 구성에 가."
+      "정청래 더불어민주당 대표는 5일 '윤석열 정부 조작 수사·기소 의혹 특검법안' 처리 시기와 절차와 관련해 \"국민과 당원 국회의원들의 총의를 모아서 가장 좋은 선택을 하겠다\"고 말했다.",
+      "정 대표는 이날 경기도 동두천 큰시장 유세 후 기자들과 만나 \"어제 청와대 브리핑도 있었고 하기 때문에 당청이 조율을 해야 한다\"며 이같이 밝혔다.",
+      "그는 \"청와대에서는 입장을 밝힌 만큼 당에서는 의원총회를 통해 또 당원들의 뜻도 물어서."
     ],
     "chips": [
+      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "nf0e9cfef",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://www.asiae.co.kr/article/2026050510043554699",
-    "title": "전시회 모금액 쾌척… 좋은강안병원, 지역아동 따뜻한 나눔",
+    "id": "nbe7319a2",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/05/GRRWEOJXGFSGKMTDME3WEMLEHE/",
+    "title": "'UCL 확정도 뒷전’ 맨유, 퍼거슨 건강 이상에 충격…캐릭 “크게 흔들렸다, 건강하길 바랄 뿐”",
     "summary": [
-      "은성의료재단 좋은강안병원(병원장 허현)이 개원 21주년을 맞아 지역사회 아동들을 위한 성금 전달과 그림 전시회를 개최하며 따뜻한 나눔을 실천했다.",
-      "좋은강안병원은 지난 4일 아동복지시설 동산원을 방문해 성금 200만원을 전달했다.",
-      "이번 성금은 지난달 병원 신관 1층에서 열린 동산원 아이들의 그림 전시회 '커다란 꿈을 응원하는 작은 갤러리'를 통해 마련된 모금액이다."
+      "[OSEN=이인환 기자] 알렉스 퍼거슨 경의 건강 이상 소식이 전해지면서 팀의 승리는 순식간에 뒷전으로 밀렸다.맨체스터 유나이티드는 지난 3일 오후 11시 30분 맨체스터 올드 트래포드에서 열린 2025-2026시즌 프리미어리그 35라운드 리버풀전에서 3-2로 승리했다.",
+      "라이벌을 상대로 거둔 값진 승리였다.",
+      "마테우스 쿠냐와 베냐민 세슈코의 연속골로 전반을."
     ],
     "chips": [
+      "#EPL",
       "#의료"
     ]
   },
   {
-    "id": "n00ada5ab",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://www.asiae.co.kr/article/2026050509375542781",
-    "title": "트럼프, 대형 쓰레기통에 버려지는 파월 사진에 \"미국의 재앙\"",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 곧 의장직에서 물러나는 미국중앙은행 연방준비제도(Fed·연준)의 제롬 파월 의장을 조롱하는 이미지를 게시했다.",
-      "4일(현지시간) 트럼프 대통령은 자신의 사회관계망서비스(SNS) 트루스소셜에 파월 의장이 대형 쓰레기통 안으로 추락하는 조롱성 사진을 공유했다.",
-      "트럼프 대통령은 이 사진과 함께 \"'너무 늦음'(Too Late)은 미국의 재앙이다\"라며 \"금리가 너무 높다\"라고 썼다."
-    ],
-    "chips": [
-      "#금리",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6e6ba60a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617139",
-    "title": "[6·3화성]판 커진 화성시의회…'5인 선거구'에 각 당 셈법 복잡",
-    "summary": [
-      "[화성=뉴시스] 문영호 기자 = 경기 화성지역이 중대선거구제 확대시범실시지역으로 선정, 최대 5인 선거구가 도입되는 가운데 시의회 주도권을 잡기 위한 각 당의 셈법이 복잡해졌다.",
-      "조국혁신당과 개혁신당, 진보당 등 군소정당들도 시의회에서 입성을 준비, 각 후보마다 얼굴 알리기에 여념이 없다.",
-      "5인 선거구는 한 지역구 안에서 5명의 시의원을 뽑는 선거구를 말한다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8876003d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/05/HBTDEN3DMU4WKZJQGYZTMYJQGE/",
-    "title": "\"아직 안 끝났어?\" 홀란이 살린 우승 희망 불씨…집 가려던 맨시티 팬들 '후다닥' 착석, 에버턴과 극적 3-3 무승부",
-    "summary": [
-      "[스포츠조선 김가을 기자]떠나려던 맨시티(잉글랜드) 팬들이 다급히 좌석을 찾았다.",
-      "맨시티는 5일(이하 한국시각) 영국 리버풀의 힐 디킨슨 스타디움에서 열린 에버턴과의 2025~2026시즌 잉글랜드 프리미어리그(EPL) 원정 경기에서 3대3으로 비겼다.",
-      "리그 11경기 무패를 달리며 21승8무5패(승점 71)를 기록했다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "nda1993e8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617173",
-    "title": "이란 UAE 공격에 국제사회 자제 요청…\"긴장 멈추고 대화해야\"",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 이란이 지난달 8일 미국과의 휴전 이후 한 달간 멈췄던 걸프 지역에 대한 공격을 재개한 가운데 국제사회는 긴장을 고조시키는 행위를 멈추라고 경고했다.",
-      "에마뉘엘 마크롱 프랑스 대통령은 4일(현지 시간) 이란의 UAE 공격은 \"정당화할 수 없고 용납할 수 없는 행위\"라며 걸프 지역 동맹국들에 대한 프랑스의 지원을 약속했다.",
-      "마크롱 대통령은 이날 소셜미디어 엑스(X·옛 트위터)를 통해 \"분쟁이 시작된 이후 그렇게 해왔."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "neafc5f5d",
+    "id": "n4b025b91",
     "category": "사회",
     "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505027300007",
-    "title": "'시즌 첫 승' 유현조, 여자골프 세계랭킹 45위로 점프",
+    "url": "https://www.yna.co.kr/view/AKR20260505035200052",
+    "title": "박완수, 청년 정착 공약 발표…청년연금·공공임대 타운하우스",
     "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 한국여자프로골프(KLPGA) 투어 DB 위민스 챔피언십(총상금 12억원)에서 2026시즌 첫 승을 수확한 유현..."
+      "(창원=연합뉴스) 박영민 기자 = 재선에 도전하는 박완수 국민의힘 경남지사 후보는 5일 청년 정착을 위한 5대 공약을 발표했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd06475fb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505027200053",
-    "title": "대구시, 한방문화축제 기간 일부 구간 차량통제…안전본부 운영",
-    "summary": [
-      "(대구=연합뉴스) 황수빈 기자 = 대구시는 오는 7∼10일 열리는 '대구약령시 한방문화축제'에 대비해 안전관리 체계를 가동한다고 5일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0e9d25be",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505026700004",
-    "title": "서초구 '치매안심경로당' 4곳 추가…인지건강 검진·상담",
-    "summary": [
-      "(서울=연합뉴스) 황재하 기자 = 서울 서초구는 고령층이 생활권 안에서 치매예방 서비스를 편리하게 이용할 수 있도록 '치매안심경로당'을 기존 4..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "na3fca20f",
-    "category": "사회",
-    "source": "연합뉴스",
+    "id": "nbfe3bc2f",
+    "category": "스포츠",
+    "source": "머니투데이",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505026900083",
-    "title": "중국 폭죽공장서 폭발사고 21명 사망…시진핑 \"엄중 책임추궁\"",
+    "url": "https://www.mt.co.kr/sports/2026/05/05/2026050512571024713",
+    "title": "'승리 시 우승 확률 71.4%' 1차전 올인, 이상민 KCC 감독 \"모든 걸 쏟아붓겠다\"[고양 현장]",
     "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 중국 후난성 창사시 한 폭죽 제조공장에서 폭발 사고가 발생해 20여명이 숨지고 수십명이 다쳤다."
+      "사상 초유의 하위 시드 반란을 일으킨 두 팀이 챔피언결정전 외나무다리에서 만났다.",
+      "정규리그 6위의 기적을 쓰고 있는 이상민 부산KCC 감독이 우승을 향한 강한 열망을 드러냈다.",
+      "KCC는 5일 오후 2시 고양 소노 아레나에서 열리는 2025~2026 LG전자 프로농구 챔피언결정전 1차전에서 고양 소노와 격돌한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf32db685",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/05/05/GY2TOMDEGBRDKMRRMU4WMMJQGE/",
-    "title": "‘인어’ 제니→‘가짜 팔’ 리사, 블랙핑크 美 ‘멧 갈라’ 레전드 찍었다 [Oh!쎈 이슈]",
+    "id": "ne87d7b79",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/tech/2026/05/05/2026050512504244011",
+    "title": "포켓몬 30살 생일파티에 SKT가 떴다…'포켓몬 런' 달구는 나만의 도감",
     "summary": [
-      "[OSEN=김채연 기자] 블랙핑크 멤버 전원이 미국 ‘멧 갈라’에서 뭉쳤다.블랙핑크 멤버 전원은 4일(현지 시간) 미국 뉴욕 메트로폴리탄 미술관에서 열린 ‘2026 멧 갈라(Met Gala·The Costume Institute Benefit, 이하 멧 갈라)’에 참석해 자신들의 패션 센스를 모두 드러냈다.‘멧 갈라’는 패션 잡지 보그가 주관하는 패션 자선."
+      "SK텔레콤이 어린이날과 포켓몬 30주년을 기념해 열린 '포켓몬 런 2026 in Seoul' 러닝 행사에 메인 스폰서로 참여했다고 5일 밝혔다.",
+      "SKT는 삼성전자와 함께 '포켓몬 런 트레이닝 센터' 컨셉의 'SKT x Galaxy' 공동 부스를 운영하며 다양한 참여 이벤트와 경품 이벤트를 통해 행사의 즐거움을 더할 예정이다.",
+      "'SKT x Galaxy' 공동 부스에서 행사 참가자들은 갤럭시 워치를 대여해 러닝을 하며 심박수, 페이스, 칼로리 등을."
     ],
     "chips": [
-      "#뉴스"
+      "#삼성전자"
     ]
   },
   {
-    "id": "n012ff3ae",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://www.asiae.co.kr/article/2026050510422217034",
-    "title": "미중 정상회담 임박…美 수송기 도착·트럼프 측근 방중",
-    "summary": [
-      "미군 수송기가 베이징에 도착하고, 도널드 트럼프 미국 대통령의 측근이 중국을 방문하는 등 다음주로 예정된 미중 정상회담 준비 움직임이 이어지고 있다.",
-      "5일 현지매체에 따르면 미 공군 C-17 수송기가 지난 1일 베이징 서우두 공항에 착륙한 데 이어 2일과 3일에도 같은 기종 수송기 3대가 추가로 도착했다.",
-      "이들 매체는 정상회담 준비를 위한 사전 물자 수송일 것으로 보고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n04ecef84",
+    "id": "nd5a1cb4b",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505025700030",
-    "title": "\"새벽배송 제한시 택배비 건당 1천원 인상 불가피\"",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260504140851002",
+    "title": "5세대 실손 발달장애 보장 추가…11월에 선택형·갈아타기 할인(종합)",
     "summary": [
-      "(서울=연합뉴스) 조민정 기자 = 현재 논의 중인 새벽·야간 배송 근로시간 제한과 이에 따른 수입 보전 입법이 시행될 경우, 택배 수수료가 건당..."
+      "(서울=연합뉴스) 배영경 강수련 기자 = 과잉치료 논란이 있는 비급여 보장은 축소하고 필수·중증 중심으로 보장을 재편한 5세대 실손보험이 오는 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n851b15d7",
+    "id": "n92a58bc4",
     "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/05/05/GNRWCMJSMY2GKMJRGI4WCNZZGE/",
-    "title": "[공식] 한지민, 어린이날 맞아 5천만원 기부..19년째 이어간 진심 담은 선행 '감동'",
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://www.asiae.co.kr/article/2026050513181222793",
+    "title": "김석준 부산교육감 예비후보, “아이들이 안전하고 행복한 부산교육 만들겠다”",
     "summary": [
-      "[스포츠조선 조지영 기자] 배우 한지민이 올해도 빠짐없이 선한 영향력을 이어갔다.",
-      "한지민은 JTS(Join Together Society)에 5000만원을 기탁했다.",
-      "이번 기부금은 전 세계 어린이들의 기아 퇴치를 비롯해 교육 기회를 제공하는 등 실질적인 도움이 필요한 곳에 사용될 예정이다."
+      "김석준 부산시교육감 예비후보가 어린이날을 맞아 아이들이 안전하게 성장하고 학부모가 교육비와 안전 문제를 걱정하지 않는 부산을 만들겠다는 내용의 어린이날 메시지를 발표했다.",
+      "김 예비후보는 5일 오전 해운대 영화의전당에서 열린 '부산 어린이날 큰잔치'에 참석해 축하 인사를 전하고, 오후에는 부산진구 초읍동 어린이 창의교육관에서 열린 '가족문화축제' 현장을 찾아 시민들과 교육정책에 대한 의견을 나눌 예정이다.그."
     ],
     "chips": [
+      "#정책",
       "#교육"
     ]
   },
   {
-    "id": "n786fcac3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/05/MI3WKM3DMMYWIMZRHE3DIMZWMY/",
-    "title": "“안우진, 06류현진 다음으로 존경해…레벨이 달라” 재활로 3년 쉬었는데, 왜 이런 극찬 나왔나",
+    "id": "n56de5542",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/2026050564917",
+    "title": "[속보] 靑, 비서실장 주재 '호르무즈 선박화재' 대응 회의",
     "summary": [
-      "[OSEN=이후광 기자] 절친의 입에서 나온 극찬이라 더욱 눈길을 끈다.",
-      "장기 재활을 거쳐 1군 무대로 복귀한 안우진(키움 히어로즈)을 두고 곽빈(두산 베어스)이 “2006년 류현진 선배님 다음으로 존경한다”라는 강렬한 ‘샤라웃’을 남겼다.",
-      "곽빈은 지난 3일 서울 고척스카이돔에서 열린 2026 신한 SOL KBO리그 키움 히어로즈와의 원정경기에 선발 등판해."
+      "[속보] 靑, 비서실장 주재 '호르무즈 선박화재' 대응 회의."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5711d524",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "23분 전",
+    "url": "https://www.hankyung.com/article/202605056472i",
+    "title": "[케이뱅크 분석] 지지부진한 주가 흐름…디지털자산 경쟁력 확보 '관건'",
+    "summary": [
+      "[케이뱅크 분석] 지지부진한 주가 흐름…디지털자산 경쟁력 확보 '관건'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nae8187c0",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "23분 전",
+    "url": "https://www.hankyung.com/article/202605044747g",
+    "title": "아이 선물 핑계로 지갑 연다…어린이날 점령한 '어른이 특수'",
+    "summary": [
+      "아이 선물 핑계로 지갑 연다…어린이날 점령한 '어른이 특수'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9393d39f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "23분 전",
+    "url": "https://www.hankyung.com/article/202605056287g",
+    "title": "\"노사 모두 공멸\"…45조 성과급 논란에 삼성 의장 작심 경고",
+    "summary": [
+      "\"노사 모두 공멸\"…45조 성과급 논란에 삼성 의장 작심 경고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd169e4e4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505029500003",
+    "title": "삼성전자 이사회 의장, 총파업 우려…\"노사 모두 설자리 잃는다\"",
+    "summary": [
+      "(서울=연합뉴스) 임성호 기자 = 삼성전자가 창사 이래 최대 규모의 파업 위기에 직면한 가운데 삼성전자 이사회 의장이 파업이 미칠 경제적 악영향..."
+    ],
+    "chips": [
+      "#삼성전자"
     ]
   }
 ];
@@ -644,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "삼성전자",
     "mentions": "1550건",
     "trend": "+135%"
   }
