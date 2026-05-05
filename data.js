@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-05 11:10:46
+// 마지막 업데이트: 2026-05-05 13:10:47
 window.NEWS_DB = [
   {
     "id": "n472c49f4",
     "category": "IT",
     "source": "뉴스티앤티",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pRnZJVW5UUTZ4UlNvQmM0NlgwS2hEYmRWVG1yUlVhcDVmTmxQWHlLWDU2SjY3TkJsUjFLRU8wQjh1dUVFNkJEMXg2LXZaRjlTRU4xTl9HUUkzdVNuM1FrSW9Pc0RkS1NNbWc?oc=5",
     "title": "[특징주] \"AI 거품론은 없다\"… SK하이닉스·피에스케이 12%대 '급등'",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n0d31a883",
     "category": "IT",
     "source": "서울경제",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJZ3hFd2lfTzFZRDdHODBJM0RocjFFTVZ2ZEhHSGh3czZmT2d2LURObEtWbmdUTlYyODJ5RDNpZDBWV09QUUVjeDU4UWlsZlhyZkHSAVNBVV95cUxOVnZCbTdWNWxrTU1yLV9zQ3hvN2Q2VmtvdGdyaG85S0F5blI2eW45NWptdnBMR2pubnk2Z29aTDNEOXoxSTFROXY1YzFXeVptWm1Tcw?oc=5",
     "title": "엔비디아 90% 책임지는 亞 공급망...LG전자 등 韓 협력 기대에 주가 급등",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n3e2c0ef0",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTlyVWsyVjJmYjVCYWwyWER0Y3JXTFlWSlllTlc1YVZqOVdFNUFobmNkX2lQQmg5RnFCOEF2Wm9VTkViTkg3UzFIbUJtNU5fRU1tR1FGMm9EUENScERsa2JPSVJrcWhyWmVQbkc1RXhaMk0tcTVsUkt5WUJEVmk1S3d30gGWAUFVX3lxTFBxREV0TWtrSlVSeDFla1B5azNhVFdSQm1BS3lGSjNwZWVaMXhvb0N6QXBoQ0NmcEJabUlJZ3RCYXNfa0FhS0pDNE5yVkZqY0NmQ3M3Nld6TFZMVTJCQTBpQnh5aUlvUUtmRXJBSDFaVHVKNkZETWEzeWtsbXpHdmljZTBNMDJwOFRtbFpJd2xKSEZvSjU2UQ?oc=5",
     "title": "엔비디아 GPU 못 사는 中, 화웨이 반도체에 맞춰 AI ‘새 판’ 짠다 - 조선비즈",
     "summary": [
@@ -121,6 +121,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n7aed1cf1",
+    "category": "부동산",
+    "source": "리얼캐스트",
+    "time": "6일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWXh3MEhBenVCb1I5NTNLa2FVWTdPSG9MYlh1YlpMQVNEQXlDdTdIUlBpMkk4SDBMbldqdDU5ejN6OWdEQkhsMlpqdnZDNEpVX1FZbE02R1NrbmFRRGh3bzItMl9DbVpB0gFsQVVfeXFMTWFpTF8xUHdYam9qb3JXalkzRzc2bE54VG9zUEltd1N2THBaZ3pRb185d2o1MTlvaXF6di01bURqZ1FrTFNvQTY2UV9hV3NkUENleW5ndjQzT2FYVk9EM2p0YnVNd0N2dkdvLXg2?oc=5",
+    "title": "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동",
+    "summary": [
+      "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동 리얼캐스트."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "nbe7cf66c",
     "category": "사회",
     "source": "투데이경제",
@@ -137,32 +152,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64476ff1",
+    "id": "n6da43448",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "source": "유니콘팩토리",
+    "time": "20일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Nd1h1WWlBUlFwZ0Etb1UyWHZJX3FGTEN4bmpxcTlOeXZ4TGtWVl9iSHBDblNfYU9pMlhkaFltZUlQbUFtMll2OGNqNFFfSjZKaUd0Z05NSC03c3J6N0hkTkdfT3YwajJ4V1lPXw?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상",
     "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "21일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
-    "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -208,6 +208,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "75일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
     "id": "nb04cef68",
     "category": "사회",
     "source": "경기일보",
@@ -249,20 +264,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n13cdbe9c",
-    "category": "부동산",
-    "source": "시사저널e",
-    "time": "126일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
-    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
-    "summary": [
-      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -344,293 +345,289 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1ea2c5ae",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151547",
-    "title": "[타봤다] MINI에겐 가족이 없다? 올-일렉트릭 컨트리맨이 깬 선입견",
-    "summary": [
-      "미니(MINI)에게 가족은 없었다.",
-      "적어도 내 머릿속에서는 그랬다.",
-      "브랜드 이름부터 '작다'는 인상이 강했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n34b6a156",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/05/05/PONJJZJ3ZBFP5ENE7Y7B5A4CGI/",
-    "title": "여주 곰 농장서 반달가슴곰 증식 정황...경찰 수사",
-    "summary": [
-      "여주 곰 농장서 반달가슴곰 증식 정황...경찰 수사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nce21b3c0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/regional/2026/05/05/GT7YU2WJ5VBCJLRGZV6UNF2LPE/",
-    "title": "익산 숙박업소서 40대 女 숨져",
-    "summary": [
-      "익산 숙박업소서 40대 女 숨져."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37b1e1da",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://www.asiae.co.kr/article/2026050520022442109",
-    "title": "이란 외무장관, 호르무즈 긴장 속 中 방문",
-    "summary": [
-      "호르무즈 해협을 둘러싸고 미국과 이란 간 무력 대치가 지속되는 가운데 아바스 아라그치 이란 외무장관이 5일(현지시간) 중국 방문길에 올랐다.",
-      "이란 외무부는 텔레그램 채널을 통해 아라그치 장관이 이날 중국 베이징을 방문한다고 전했다.외무부는 아라그치 장관이 이번 방중 기간에 중국 외교부장과 양국 관계 발전 방안과 최근 급변하는 국제 정세에 대해 의견을 나눌 예정이라고 설명했다.",
-      "앞서 아라그치 장관과 왕이 중국공."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1a94d6aa",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/05/2026050519484324735",
-    "title": "\"버스서 넘어져 화났다\"…기사·경찰 폭행한 60대 만취객 입건",
-    "summary": [
-      "대낮 만취 상태로 시내버스 운전기사와 현장에 출동한 경찰관을 연달아 폭행한 60대 남성이 경찰에 붙잡혔다.",
-      "서울 금천경찰서는 폭행 및 공무집행방해 혐의로 60대 남성 A씨를 입건해 조사 중이라고 5일 밝혔다.",
-      "경찰에 따르면 A씨는 지난 3일 오후 2시쯤 서울 금천구 독산동 일대를 지나던 시내버스 안에서 운전기사를 폭행한 혐의를 받는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n57eda87a",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617511",
-    "title": "이 대통령, 韓 순부채비율 10% 전망 공유하며 \"긴축 노래 부르는 이상한 분들에게\"",
-    "summary": [
-      "[서울=뉴시스] 김지은 기자 = 이재명 대통령은 5일 국제통화기금(IMF)이 올해 한국의 국내총생산(GDP) 대비 순부채 비율을 10% 수준이라고 전망했다며 일각에서 나오는 긴축 재정 요구에 반박했다.",
-      "이 대통령은 이날 오후 X(옛 트위터)에 \"시도 때도 없이 긴축 노래 부르는 이상한 분들에게\"라고 적으며 IMF가 분석한 한국의 순부채 비율 연구기사를 공유했다.",
-      "해당 기사는 나라살림연구소가 IMF의 '재정모니터' 보고서를 분석한 결과를 보면,."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n19f9ec84",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260504_0003616225",
-    "title": "젊은층서 두경부암 급증…원인 보니 뜻밖의 '이것'",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 두경부암은 초기 증상이 거의 없고, 전체 평균 5년 생존율이 50~60%대로 예후가 좋지 않다.",
-      "흡연과 음주가 주요 원인이지만 최근에는 사람유두종바이러스(HPV) 감염으로 인한 두경부암이 빠르게 증가하면서 젊은 환자도 늘고 있다.",
-      "목에 혹이 만져지거나, 입안 궤양이 오래 지속되거나 쉰 목소리가 계속된다면 두경부암을 의심해 봐야 한다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "naee52c81",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505056100053",
-    "title": "하천서 물놀이 중 폭발물 발견 신고…\"구소련 76㎜ 고폭탄\"",
-    "summary": [
-      "(대구=연합뉴스) 황수빈 기자 = 5일 오후 2시 35분께 대구 군위군 효령면 고곡리 사창천 마사교 하류 50ｍ 지점에 폭발물로 의심된다는 물체..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5fdf822d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505046800004",
-    "title": "[날씨] 전국 대체로 맑고 푸른 하늘…15도 안팎 큰 일교차 주의",
-    "summary": [
-      "(서울=연합뉴스) 양수연 기자 = 수요일인 6일은 전국이 대체로 맑겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f755043",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617447",
-    "title": "경남 진주 대표 봄축제 '진주논개제' 폐막…'체험형 축제'",
-    "summary": [
-      "[진주=뉴시스] 정경규 기자 = 경남 진주의 대표 봄축제인 '진주논개제'가 폐막했다.",
-      "진주시와 진주문화관광재단은 2일~5일까지 진주성과 진주대첩 역사공원 일원에서 열린 '제25회 진주논개제'가 함께 성황리에 막을 내렸다고 밝혔다.",
-      "지난 2일 개제식과 의암별제로 시작한 '논개제'는 교방 배움, 교방 놀이, 교방 잇다 등 3개의 범주속에 30여개의 프로그램을 진행해 전통 의례 중심이던 기존 논개제를 전 세대가 함께 즐기는 참여형 봄 축제로 확장했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5312e644",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260505_0003617438",
-    "title": "리메이크 앨범 내는 로이킴 \"치열했던 과거 마주하기\"",
-    "summary": [
-      "[서울=뉴시스] 손정빈 기자 = 가수 로이킴이 오는 20일 리메이크 앨범 '다시 불러 봄-Bloom Again'을 내놓는다.",
-      "로이킴은 5일 소속사를 통해 \"돌아갈 수 없기에 더 아름답게 느껴지는 시간들, 다시 살기엔 치열했던 과거를 음악으로 다시 마주하고자 이번 리메이크 앨범을 기획했다\"고 말했다.",
-      "로이킴은 이번 앨범 소개글을 손편지에 담았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na0525532",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/05/GE4WIMZYMUYTGMJSMY4WKMLEMM/",
-    "title": "자꾸 미뤄지는 홈 승리, 황선홍 감독 \"심적으로 급한 모습들이 나온다\"[현장 기자회견]",
-    "summary": [
-      "[대전=스포츠조선 박찬준 기자]\"홈 승리가 자꾸 미뤄져, 심적으로 급한 모습이다.\" 황선홍 대전하나시티즌 감독의 아쉬움이었다.",
-      "대전과 인천 유나이티드가 승부를 가리지 못했다.",
-      "대전과 인천은 5일 대전월드컵경기장에서 열린 '하나은행 K리그1 2026' 12라운드에서 0대0으로 비겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ad8c0d0",
+    "id": "na6fa8309",
     "category": "사회",
     "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260505/133864153/1",
-    "title": "범여권 영남권 단일화 탄력…민주 김경수-진보 전희영 실무 논의중",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260505/133866564/1",
+    "title": "미군 공중급유기, 페르시아만 상공서 조난 신호 보내고 실종",
     "summary": [
-      "6·3 지방선거에서 더불어민주당이 영남권 공략에 나선 가운데 민주당과 범여권 정당 간 단일화 논의가 탄력을 받고 있다.",
-      "보수층 결집 조짐에 맞서 울산에 이어 경남에서도 범여권 단일화 협상이 속도를 내고 있는 것.",
-      "범여권은 지방선거 후보자 등록이 시작되는 14일을 단일화의 1차 마지노선으로 삼고 있다.5일 민주당과 진보당에 따르면 양당 경남도지사 후보 캠프는 단일화를 두고 실무 논의를 진행하고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndd4f9fbe",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505055900055",
-    "title": "익산 숙박업소서 40대 숨져…경찰 수사",
-    "summary": [
-      "(익산=연합뉴스) 나보배 기자 = 5일 오후 4시께 전북 익산시 인화동의 한 숙박업소에서 여성 A(48)씨가 숨진 채 발견됐다."
+      "미군 공중급유기 보잉 KC-135 ‘스트래토탱커’가 이란 인근 페르시아만 상공에서 조난 신호를 보내고 실종됐다고 4일(현지시간) NDTV가 보도했다.스웨덴의 항공기 추적 사이트 플라이트레이더24의 비행 추적 데이터에 따르면, 해당 항공기는 아랍에미리트(UAE) 알다프라 공군기지에서 이륙했다.이 항공기는 군사 작전을 지원하기 위해 이란 인근 페르시아만 상공에서 임무 수행 중이던 것으로 알려졌다.항공기는 비행하던 중 ‘7700’ 조난 신호를 발신하."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n85adb0ee",
+    "id": "n0220f284",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://www.asiae.co.kr/article/2026050519541338585",
-    "title": "트럼프 '쿠바 제재' 확대에…中 \"압박 즉시 중단해야\"",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/05/GQ4WKYZTMJSWEZJVGRSDMY3DME/",
+    "title": "첫 매매 집인데..강재준♥이은형, 결국 '이사' \"50억만 줘도..\" 왜? ('기유TV')",
     "summary": [
-      "도널드 트럼프 미국 대통령이 쿠바 정부를 겨냥한 제재를 확대하자 중국은 이를 '불법적·일방적 제재'로 규정하고 중단을 촉구했다 중국 외교부 대변인은 5일 기자와의 문답 형태로 홈페이지에 올린 입장문을 통해 \"미국이 쿠바에 대한 불법적·일방적 제재를 더 강화해 실시하는 것은 쿠바 인민의 생존권·발전권을 심각하게 침해하는 것이며 국제 관계의 기본 준칙을 심각하게 위반한 것\"이라고 밝혔다.이어 \"중국은 쿠바가 국가."
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 개그맨 부부 강재준, 이은형이 이사를 앞두고 눈물을 보이며 진한 여운을 남겼다.5일 두 사람의 유튜브 채널 ‘기유TV’에는 ‘현조네 이사가요’라는 제목의 영상이 공개됐다.영상 속 부부는 망원동 집을 떠나기 전 마지막 시간을 보내며 복잡한 감정을 드러냈다.특히 이은형은 “이 방에서 현조랑 자기."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf5c7c51f",
+    "id": "n1a904ee2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617534",
+    "title": "산림청, 산림산업시장 교란 업체 퇴출…실태조사 착수",
+    "summary": [
+      "[대전=뉴시스] 김양수 기자 = 산림청은 유령 법인이나 자격대여 등 산림사업분야 비정상 관행 근절에 총력을 기울이고 있다고 5일 밝혔다.",
+      "산림청은 이날 '종이 산림회사들이 넘치고 있다'는 일부 언론이 지적에 대해 \"산림사업법인 문제를 엄중히 인식하고 이를 근절키 위해 고강도 대책을 추진할 계획이다\"며 이 같이 밝혔다.",
+      "산림청에 따르면 산림사업체·기술자 등록 및 관리 실태조사에 대한 전수점검를 진행해 전화번호 공유, 소재지 변경 빈번 업체 등 부."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfca579ca",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "10분 전",
+    "url": "https://www.hankyung.com/article/202605044769g",
+    "title": "\"아이 폰 뺏지 마세요\"…창의력 길러주는 'AI 선생님' 정체",
+    "summary": [
+      "\"아이 폰 뺏지 마세요\"…창의력 길러주는 'AI 선생님' 정체."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nfdda21c1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/international/topic/2026/05/05/IJDKAJ6KTFDMJKWJPA3R3BB4AE/",
+    "title": "블레이크 라이블리,할리우드 소송전 종료...재판 앞두고 합의",
+    "summary": [
+      "블레이크 라이블리,할리우드 소송전 종료...재판 앞두고 합의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf392382",
     "category": "경제",
     "source": "아시아경제",
-    "time": "20분 전",
-    "url": "https://www.asiae.co.kr/article/2026050519474527069",
-    "title": "\"2시간 맞았는데\" 경주 종합병원, 기한 2년 지난 수액 투여",
+    "time": "11분 전",
+    "url": "https://www.asiae.co.kr/article/2026050521585435826",
+    "title": "美 국방 \"중부사령부 피격 선박과 연락 중…한국 나서주길 바래\"",
     "summary": [
-      "경주의 한 종합병원이 환자에게 사용기한 2년 지난 수액을 투여해 사과했다.",
-      "5일 연합뉴스에 따르면 경북 경주의 한 종합병원은 지난달 초 입원한 한자 A씨에게 수액 500㎖를 투여했다.",
-      "A씨는 수액을 투여하기 시작한 지 2시간이 지난 시점에 수액의 사용기한이 2024년 1월 12일까지인 점을 확인하고 간호사에게 알렸다."
+      "피트 헤그세스 미 국방부 장관은 5일(현지시간) 한국, 일본 등을 언급하며 호르무즈 해협에 갇힌 선박을 구출하는 '프로젝트 프리덤'(Project Freedom·해방 프로젝트)에 참여해달라고 촉구했다.",
+      "헤그세스 국방장관은 이날 브리핑에서 한국이 해방 프로젝트에 동참할 조짐이 있냐는 질문을 받고 \"우리는 그렇게 하기를 강력히 희망한다\"고 밝혔다.",
+      "그는 \"우리는 피격 선박과 연락 중이고, 중부사령부와 해상 협력군이 소통하고 있."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "nc7be2d35",
+    "id": "n0c339e63",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260505054700104",
-    "title": "인니 이어 필리핀 간 일본 방위상…'무기 판매' 시동거나",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505058651071",
+    "title": "美국방장관, 호르무즈 '해방 프로젝트'에 \"한국 더 나서주길\"",
     "summary": [
-      "(자카르타=연합뉴스) 손현규 특파원 = 인도네시아에 이어 필리핀을 방문한 일본 방위상이 5일(현지시간) 페르디난드 마르코스 필리핀 대통령과 만나..."
+      "(워싱턴=연합뉴스) 백나리 이유미 특파원 = 피트 헤그세스 미국 국방장관은 5일(현지시간) 미군의 '해방 프로젝트'를 포함한 호르무즈 해협 경색..."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n486aa459",
+    "id": "n0b68043f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505059000004",
+    "title": "서울고검 '이화영 술자리 있었다' 결론…박상용 징계 곧 결정",
+    "summary": [
+      "(서울=연합뉴스) 이밝음 기자 = 쌍방울 대북송금 수사 과정에서 제기된 이른바 '연어 술파티' 의혹을 감찰해 온 서울고검 인권침해점검 태스크포스..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2fa20993",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617533",
+    "title": "美국방장관 \"한국, '프로젝트 프리덤' 동참하기 바란다\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 피트 헤그세스 미국 국방장관이 5일(현지 시간) 호르무즈 해협 내 한국 선사 운영 선박이 이란이 피격된 것을 언급하며, 한국이 호르무즈 해협에 묶인 민간 선박을 구출하는 '프로젝트 프리덤' 작전에 동참해야 한다고 주장했다.",
+      "헤그세스 장관은 이날 미 국방부 기자회견에서 한국이 '프로젝트 프리덤' 작전에 동참할 징후가 있냐는 질문에 \"우리는 그렇게 되기를 바란다\"고 답했다.",
+      "그는 전날 호르무즈 해협 내에서 한국."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4f1146ac",
     "category": "경제",
     "source": "머니투데이",
-    "time": "27분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/05/2026050519323147090",
-    "title": "'비위 경보' 경찰, 전국 수사부서 대상 현장 감사 착수",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/05/2026050521435368861",
+    "title": "물놀이하던 아이들 \"이게 뭐지?\"…대구 군위서 6·25 당시 폭탄 발견",
     "summary": [
-      "지난달 '비위 경보'를 발령했던 경찰이 전국 수사 부서를 대상으로 현장 감사에 착수했다.",
-      "5일 경찰에 따르면 경찰청과 국가수사본부(국수본)는 전국 시도경찰청과 경찰관서 수사부서에 대한 수사 분야 특정감사를 진행하고 있다.",
-      "이번 감사는 경찰청 감사담당관실과 국수본 인력 등 22명 규모로 꾸려진 합동감사단이 맡는다."
+      "대구 군위군의 한 하천에서 물놀이를 하던 어린이들이 6·25전쟁 당시 사용된 것으로 추정되는 구소련제 고폭탄을 발견해 군·경이 긴급 수거에 나섰다.",
+      "5일 경찰에 따르면 이날 오후 2시 35분쯤 대구 군위군 효령면 고곡리 사창천 마사교 하류 약 50m 지점에서 \"폭발물로 보이는 물체가 있다\"는 신고가 접수됐다.",
+      "이 물체는 당시 하천 일대에서 물놀이를 하던 어린이들이 처음 발견해 어른들을 통해 경찰에 알린 것으로 파악됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n18cfea4b",
+    "id": "n933efde8",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/2026050571497",
+    "title": "[속보]헤그세스 \"美중부사령부, 한국 선사 선박과 소통 중\"",
+    "summary": [
+      "[속보]헤그세스 \"美중부사령부, 한국 선사 선박과 소통 중\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd4b3b59a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260505058800053",
+    "title": "김부겸·추경호 SNS 설전…\"공약 아닌 논평\"·\"이런 시비 옹졸\"",
+    "summary": [
+      "(대구=연합뉴스) 황수빈 기자 = 대구시장 선거가 한 달도 채 남지 않은 5일 여야 후보들은 서로의 경제 공약을 놓고 사회관계망서비스(SNS)에..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nff10ad61",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "27분 전",
+    "url": "https://www.asiae.co.kr/article/2026050521400528167",
+    "title": "[속보] 더불어민주당 '광주 광산을' 보궐선거 후보 '임문영' 전략공천",
+    "summary": [
+      "더불어민주당이 6·3 지방선거와 함께 치러지는 광주 광산을 국회의원 보궐선거 후보로 임문영 국가인공지능전략위원회 상근 부위원장을 전략공천하기로 했다.",
+      "당은 6일 오전 국회에서 열리는 발탁인재 환영식에서 공천을 공식화할 예정이다.5일 정치권에 따르면 임 부위원장은 1966년 광주 출생으로 광주 살레시오고와 연세대 정치외교학과를 졸업했다.",
+      "이후 연세대 언론홍보대학원에서 석사, 호서대 기술경영전문대학원에서 박사."
+    ],
+    "chips": [
+      "#AI",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n9addb501",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "29분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/05/2026050518501312711",
-    "title": "'만루 5번→잔루 21개' 789홈런 트리오가 17타수 3안타... 13번 걸어나가도 이길 수 없었던 SSG [인천 현장]",
+    "time": "27분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/05/2026050519183199414",
+    "title": "'다이렉트 퇴장' 야잔, 김기동 감독은 오히려 감쌌다 \"경기 후 찾아와 사과, 미끄러진 듯 고의 아냐\" [상암 현장]",
     "summary": [
-      "끌려가던 경기에서 따라붙으며 결국 필승조까지 모두 꺼내들어야 했다.",
-      "마지막까지도 찬스가 있었지만 결국 4시간 22분 혈투의 결과는 씁쓸한 무승부였다.",
-      "SSG는 5일 인천 SSG랜더스필드에서 열린 NC 다이노스와 2026 신한 SOL KBO리그 홈경기에서 11회 연장 승부 끝에도 승부를 가리지 못하고 7-7로 비겼다."
+      "김기동(54) FC서울 감독이 다이렉트 퇴장을 당한 야잔(30)을 감쌌다.",
+      "서울은 5일 오후 7시 서울월드컵경기장에서 열린 안양과의 '2026 하나은행 K리그1' 12라운드 홈 경기에서 0-0으로 비겼다.",
+      "이로써 양 팀은 승점 1점씩 나눠 가졌다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b4388a7",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260505/133863330/1",
+    "title": "중동 긴장 고조에 브렌트유 5.8% 치솟아…원유 수급난 6월 본격화",
+    "summary": [
+      "이란이 미국과 휴전 이후 아랍에미리트(UAE)의 에너지 시설을 다시 공격하는 등 중동 지역을 둘러싼 군사적 긴장감이 고조되면서 국제 유가가 다시 치솟았다.",
+      "전 세계 원유 재고가 8년래 최저 수준으로 떨어진 가운데 원유 수급난의 여파가 6월부터 본격화될 것이라는 우려가 커지고 있다.4일(현지 시간) 영국 런던ICE선물거래소에서 7월물 북해산 브렌트유 선물 가격은 전 거래일 대비 5.80% 오른 배럴당 114.44달러로 마감했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ec33538",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260505/133866518/1",
+    "title": "美 “韓, 호르무즈 작전 동참해야…당신들 선박 방어하라”",
+    "summary": [
+      "피트 헤그세스 미국 전쟁부(국방부) 장관이 미국 주도의 호르무즈 해협 작전 ‘프로젝트 프리덤’과 관련해 “한국이 나서주길 기대한다”고 말했다.",
+      "그는 HMM 소속 나무호 폭발 사건을 언급하며 “이것은 당신들의 배이니 당신들도 이를 방어하는 데 참여해야 한다”고 재차 강조했다.헤그세스 장관은 “적절한 시점이 되면 우리는 책임을 여러분(동맹국)에게 넘길 것”이라며 현재 미국이 수행 중인 군사작전을 “미국이 세계에게 주는 선물(gift)”이라고 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44f2d84b",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/05/2026050521293376328",
+    "title": "\"긴축 반대\" 역풍 맞은 루마니아 총리…불신임 투표로 퇴진",
+    "summary": [
+      "루마니아의 일리에 볼로잔 총리가 이끄는 친(親)유럽연합(EU) 소수 내각이 의회 불신임 투표 가결로 물러나게 됐다.",
+      "긴축 재정을 둘러싼 이견으로 현 내각이 실각하면서 향후 경제 정책 운용 및 EU 지원금 확보 일정에 불확실성이 커지는 모습이다.",
+      "5일(현지시간) 알자지라 등 주요 외신에 따르면 루마니아 의회는 이날 좌파 성향 제1당 사회민주당(PSD)과 우파 성향 루마니아인연합(AUR) 주도로 발의된 볼로잔 내각 불신임안을 가결했다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n9b5101df",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617526",
+    "title": "뉴욕 주가, 미-이란 교전 불구 반등…유가는 하락",
+    "summary": [
+      "[AP/뉴시스] 유세진 기자 = 호르무즈 해협 근처에서 미국과 이란 간 교전에도 불구, 5일 새벽(현지시각) 월가는 반등하고 유가는 하락했다.",
+      "S&P 500 선물은 0.3% 상승했고, 다우존스 산업평균지수 선물은 0.1% 상승했다.",
+      "나스닥 선물은 0.5% 상승했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbdf6253b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "33분 전",
+    "url": "https://www.hankyung.com/article/2026050571157",
+    "title": "\"손 베였다\" 신고에 출동했더니…지인 살해 50대 \"기억 안 난다\"",
+    "summary": [
+      "\"손 베였다\" 신고에 출동했더니…지인 살해 50대 \"기억 안 난다\"."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -640,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "엔비디아",
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
