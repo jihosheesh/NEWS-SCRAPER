@@ -1,26 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-05 17:13:13
+// 마지막 업데이트: 2026-05-05 19:04:58
 window.NEWS_DB = [
   {
-    "id": "n472c49f4",
+    "id": "nbe979d22",
     "category": "IT",
-    "source": "뉴스티앤티",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pRnZJVW5UUTZ4UlNvQmM0NlgwS2hEYmRWVG1yUlVhcDVmTmxQWHlLWDU2SjY3TkJsUjFLRU8wQjh1dUVFNkJEMXg2LXZaRjlTRU4xTl9HUUkzdVNuM1FrSW9Pc0RkS1NNbWc?oc=5",
-    "title": "[특징주] \"AI 거품론은 없다\"… SK하이닉스·피에스케이 12%대 '급등'",
+    "source": "초이스스탁",
+    "time": "5시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DV3F4UlRwN0pkOHhwZmZDZWJmR2QtYzM2WE4zYTUxMExseEpZZW0zQjdUNllVSkdGMWdJdk1IVFZLOHl5RmZtc0Yyc2pua1ZsZ0ctY2ctenN3bUM5bFlSWU00V0ppM2c?oc=5",
+    "title": "엔비디아, 공급계약 앞두고 삼성 등 협력사에 ‘이례적 혹평’",
     "summary": [
-      "[특징주] \"AI 거품론은 없다\"… SK하이닉스·피에스케이 12%대 '급등' 뉴스티앤티."
+      "엔비디아, 공급계약 앞두고 삼성 등 협력사에 ‘이례적 혹평’ 초이스스탁."
     ],
     "chips": [
-      "#AI",
-      "#SK하이닉스"
+      "#엔비디아"
     ]
   },
   {
     "id": "n0d31a883",
     "category": "IT",
     "source": "서울경제",
-    "time": "17시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJZ3hFd2lfTzFZRDdHODBJM0RocjFFTVZ2ZEhHSGh3czZmT2d2LURObEtWbmdUTlYyODJ5RDNpZDBWV09QUUVjeDU4UWlsZlhyZkHSAVNBVV95cUxOVnZCbTdWNWxrTU1yLV9zQ3hvN2Q2VmtvdGdyaG85S0F5blI2eW45NWptdnBMR2pubnk2Z29aTDNEOXoxSTFROXY1YzFXeVptWm1Tcw?oc=5",
     "title": "엔비디아 90% 책임지는 亞 공급망...LG전자 등 韓 협력 기대에 주가 급등",
     "summary": [
@@ -34,7 +33,7 @@ window.NEWS_DB = [
     "id": "n3e2c0ef0",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTlyVWsyVjJmYjVCYWwyWER0Y3JXTFlWSlllTlc1YVZqOVdFNUFobmNkX2lQQmg5RnFCOEF2Wm9VTkViTkg3UzFIbUJtNU5fRU1tR1FGMm9EUENScERsa2JPSVJrcWhyWmVQbkc1RXhaMk0tcTVsUkt5WUJEVmk1S3d30gGWAUFVX3lxTFBxREV0TWtrSlVSeDFla1B5azNhVFdSQm1BS3lGSjNwZWVaMXhvb0N6QXBoQ0NmcEJabUlJZ3RCYXNfa0FhS0pDNE5yVkZqY0NmQ3M3Nld6TFZMVTJCQTBpQnh5aUlvUUtmRXJBSDFaVHVKNkZETWEzeWtsbXpHdmljZTBNMDJwOFRtbFpJd2xKSEZvSjU2UQ?oc=5",
     "title": "엔비디아 GPU 못 사는 中, 화웨이 반도체에 맞춰 AI ‘새 판’ 짠다 - 조선비즈",
     "summary": [
@@ -47,18 +46,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf4b4e411",
-    "category": "IT",
-    "source": "비즈니스포스트",
+    "id": "n97194ff6",
+    "category": "경제",
+    "source": "이데일리TV",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcXhPMFpRVDRMZVRWVnAtc1pmSU44MTJESDllUjE4dUxpWjJMbW9YX0FENW42R1hpdWlCbGxHQVpWTVZQR3U2dEZJTzV5cFVBUnZNbDlWTWx3aE05ZGJ3b3hNbmZiN2g0SFpzMUZuUGZHOFU?oc=5",
-    "title": "엔비디아 피지컬 AI 신사업에 한국 역할 커진다, SK 삼성 LG 현대차 협력 중요",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKWXY5NU9nZ3BFMWN6MHlwUEZEMXZXcDFlOWpIeElaVmROZC1pcWFsaFR4N00yd19nRFhUUlpiQlRucVY4TXRjNXJhczBqMmdLQWdUNjJGb2tFRDQyNklZMWpjWXFaOXgyUEx2OElZVzNjdHRHQzdzUHR1cw?oc=5",
+    "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
     "summary": [
-      "엔비디아 피지컬 AI 신사업에 한국 역할 커진다, SK 삼성 LG 현대차 협력 중요 비즈니스포스트."
+      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리TV."
     ],
     "chips": [
-      "#AI",
-      "#엔비디아"
+      "#환율"
+    ]
+  },
+  {
+    "id": "n9a605dd3",
+    "category": "IT",
+    "source": "소셜밸류",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5POHdKUERwZlhqeGswREJ6STJFX0p6M2xfczlGTVNWOTkzcW9EbTZRaTNtY09kdktqSzQ0eDIzTzN4NTFMcGFuZ2ZERm9SclZCelE2d3l4ZndqWmptTUV3dlZiSdIBbEFVX3lxTE9ZS3NDa2UxS1A3TFhiRnNZejhjYi1hemRqRnpZTGwxX18wVHpxWTV3dlRoZ2tlSmpRMHRuTjkyNDVpUE8zQ0xEMW9CZG5VVWliSGNibGQ1OTNRNzFINVdZSXBkVEpRYUR5dkozWg?oc=5",
+    "title": "′우상향′ 신기록 쓰는 삼성전자·SK하이닉스…K-반도체 성장 신화는 계속된다",
+    "summary": [
+      "′우상향′ 신기록 쓰는 삼성전자·SK하이닉스…K-반도체 성장 신화는 계속된다 소셜밸류."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -89,6 +103,21 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "n7f9297c0",
+    "category": "경제",
+    "source": "월요신문",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sWXgtRzd6ZmJOTmQ4T213c0F3d0FhM1FHckJvaDFFZWloWDM1MEh1Ukc0SEduV1ZRc3I4ek5nOUhoR09mN1dZX2tDcnQtamNvRjhiODBnMTJ1RnF4WWxsX0UtSkQ5Qk5vTlE?oc=5",
+    "title": "한국은행 순이익 최고치·국민연금 운용수익 증가...高환율의 양면",
+    "summary": [
+      "한국은행 순이익 최고치·국민연금 운용수익 증가...高환율의 양면 월요신문."
+    ],
+    "chips": [
+      "#한은",
+      "#환율"
     ]
   },
   {
@@ -176,6 +205,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "n15f5f447",
+    "category": "경제",
+    "source": "지디넷코리아",
+    "time": "62일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
+    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
+    "summary": [
+      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
+    ],
+    "chips": [
+      "#환율"
     ]
   },
   {
@@ -268,10 +311,139 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n354fb563",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/06/2026050519461469424",
+    "title": "\"50년 투자공식 깨졌다… '전쟁·AI 산업' 우선순위\"",
+    "summary": [
+      "밀컨 글로벌 콘퍼런스 \"지금 시장은 지난 50년 동안의 구조에서 벗어나 우선순위가 재편되는 과정의 시작점에 있다.\"(하비 슈워츠 칼라일 CEO) 전세계 자본시장을 움직이는 '큰손'들이 4일(현지시간) 미국 로스앤젤레스(LA)에서 열린 '밀컨 글로벌 콘퍼런스'에서 투자 패러다임이 근본적으로 변화하고 있다고 강조했다.",
+      "미국-이란 전쟁, AI(인공지능)산업 가속화와 맞물려 그동안 시장을 지배한 효율성과 수익률의 공식보다 지정학적 충돌과 AI 기반의."
+    ],
+    "chips": [
+      "#AI",
+      "#전세"
+    ]
+  },
+  {
+    "id": "nc8121f8e",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/tech/2026/05/06/2026050519494631573",
+    "title": "네이버, 글로벌 C2C사업 확장 속도낸다",
+    "summary": [
+      "멀티리전 전략 강화 네이버(NAVER)가 C2C(개인간 거래)사업으로 글로벌 매출을 확대한다.",
+      "최근 커머스사업을 강화한 네이버는 C2C 플랫폼을 통해 국내 경쟁을 넘어 글로벌 멀티리전 전략을 확대한다는 계획이다.",
+      "5일 네이버에 따르면 올해 1분기부터 글로벌 도전 관련 매출을 별도로 분류, △C2C(크림, 소다, 포시마크, 왈라팝) △콘텐츠(웹툰, 스노우) △엔터프라이즈(네이버클라우드 플랫폼, 라인웍스, 랩스 등) 등을 포함했다."
+    ],
+    "chips": [
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n47f7e2b4",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/tech/2026/05/06/2026050519480446858",
+    "title": "장롱 속 金, 빌리고 굴리는 자산으로 진화",
+    "summary": [
+      "발행 '온토리움'·서비스 '아쿠아' 론칭, 토큰화 출사표 담보 대출·렌딩 활용 차별화… 홍콩·두바이서 先 출시 한컴위드가 금 기반 RWA(실물자산) 토큰화를 새 성장축으로 키운다.",
+      "금을 디지털토큰으로 사고파는데 그치지 않고 담보대출과 렌딩까지 가능한 금융인프라로 확장한다는 구상이다.",
+      "송상엽 대표(사진)는 최근 머니투데이와 인터뷰에서 \"디지털금융은 한컴위드가 가장 우선순위로 보는 신사업\"이라며 \"금은 보관만 하던 자산이 아니라 프로그래밍에 의해."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8ab4cc54",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617551",
+    "title": "맑은 대구·경북, 일교차 20도 안팎…미세먼지 '좋음'",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 수요일인 6일 대구와 경상북도는 대체로 맑고 일교차가 클 것으로 예상된다.",
+      "대구지방기상청은 이날 \"내륙을 중심으로 낮과 밤의 기온차가 20도 안팎으로 크겠다\"고 예보했다.",
+      "아침 최저기온은 4~14도(평년 6~13도), 낮 최고기온은 23~27도(평년 21~25도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd84822ae",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/05/06/2026050510561247145",
+    "title": "[사설] 호르무즈 고립 선박 안전 확보에 적극 나서야",
+    "summary": [
+      "호르무즈해협 내 아랍에미리트(UAE) 인근 해역에 정박 중이던 HMM 운용 상선에서 폭발에 따른 화재가 발생했다.",
+      "도널드 트럼프 미국 대통령은 즉각 이란의 공격을 원인으로 지목하고 해협을 개방하기 위한 군사작전(프로젝트 프리덤)에 동참할 것을 우리 정부에 촉구했다.",
+      "미국과 이란 간 휴전이 붕괴 위기에 직면한 가운데 우리 국민과 기업을 보호하기 위한 정부의 적극적인 대응이 요구된다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n24d83cf3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260505_0003617198",
+    "title": "\"우리 애 가방 같아\"…1220만원짜리 루이비통 '시바 백' 화제",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 프랑스 명품 브랜드 루이비통이 선보인 신상 가방이 소셜네트워크서비스(SNS)에서 화제가 되고 있다.",
+      "업계에 따르면 루이비통은 2026 프리폴 컬렉션으로 시바 백을 출시했다.",
+      "이 가방은 시바견의 인형을 연상케 한 것이 특징으로, 폭신한 양털 느낌의 소재와 천연 가죽 손잡이, 탈부착이 가능한 모노그램 캔버스 스트랩이 잘 어우러져 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n914a1b2a",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260504_0003616878",
+    "title": "고양창릉 84㎡ 7억원대…3기신도시 물량 이달 말 풀린다",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 정혜원 인턴기자 = 서울 집값 상승에 막힌 내 집 마련 수요가 3기 신도시로 몰리고 있다.",
+      "이달 3기 신도시 공공분양 물량이 본격적으로 풀리는 가운데 인천계양·남양주왕숙·고양창릉 등 핵심 지구를 중심으로 청약 경쟁이 한층 치열해질 전망이다.",
+      "6일 국토교통부, 한국토지주택공사 등에 따르면 정부는 지난달 30일 인천계양과 남양주왕숙, 고양창릉 등 3기 신도시 핵심 지구를 포함한 3100가구의 공공분양주택 입주자 모집."
+    ],
+    "chips": [
+      "#부동산",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n4229bfea",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://www.asiae.co.kr/article/2026050603591996500",
+    "title": "앤스로픽, IPO 앞두고 금융 특화 AI 에이전트 출시",
+    "summary": [
+      "앤스로픽이 미국 월스트리트 공략을 위해 광범위한 금융 서비스 업무를 처리할 수 있는 인공지능(AI) 에이전트를 공개했다.",
+      "기업공개(IPO)를 앞두고 매출 확대 일환으로 풀이된다.",
+      "5일(현지시간) 블룸버그에 따르면 앤스로픽은 고객 미팅용 피치덱(pitch deck) 작성, 재무제표 검토, 컴플라이언스(준법 감시) 검토 사례 상신 등을 수행할 수 있는 AI 에이전트를 출시한다고 밝혔다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "nfc068e68",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "8분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151550",
     "title": "새벽배송 시간 제한, 소비자·소상공인 직격탄…건당 1000원 인상 불가피",
     "summary": [
@@ -284,78 +456,118 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne290c202",
+    "id": "naaf08d5c",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260506_0003617575",
-    "title": "트럼프 \"이란, 협상 원해…유가 인상은 핵무기 제거 위한 작은 대가\"",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260506005200079",
+    "title": "이란군 \"UAE 공격 안했다…대이란 공격 시 파괴적 보복\"",
     "summary": [
-      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 대통령은 5일(현지시간) 이란과 충돌을 평가 절하하면서 이란이 여전히 협상을 원하고 있다고 강조했다.",
-      "트럼프 대통령이 호르무즈 해협에서 제3국 선박을 빼내겠다는 구상을 발표한 후 미국과 이란은 휴전에도 군사적 대치 수위를 높여가고 있다.",
-      "가디언과 CNN 등에 따르면 트럼프 대통령은 이날 백악관에서 열린 행사 도중 '미국과 이란간 휴전 위반에 해당하는 요소가 무엇인가'라는 질문에 \"알게 될 것이."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1c34bf89",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/06/2026050316220685608",
-    "title": "[청계광장]싸움의 바다, '마레 벨리(Mare Belli)'가 온다",
-    "summary": [
-      "세계는 열린 바다에서 닫힌 바다로 회귀 수출로 성장한 한국,바닷길 중요성 망각 바다 지킨 이순신 장군 '칼의 정신' 필요 포르투갈 리스본의 테주강이 대서양 품에 안기는 벨렝 지구에는 범선 돛 모양의 거대한 '발견 기념비'가 서 있다.",
-      "뱃머리에는 15세기 초 해양 강국 포르투갈의 설계자 엔히크 왕자를 필두로, 희망봉을 돌아 인도 항로를 개척한 바스쿠 다 가마와 최초로 세계 일주를 감행한 마젤란 등이 대항해 시대의 파도를 가르듯 조각되어 있다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nc9233231",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/06/MZSDAYJWGEYDEYTGMY3TIZJWG4/",
-    "title": "\"손흥민도 '좋아요'\" 슈퍼컴, 기류 또 급선회! 토트넘 극적 생존→웨스트햄 강등…우승 전쟁 '충격' 요동, 아스널 '골득실차' 정상 등극",
-    "summary": [
-      "[스포츠조선 김성원 기자]잉글랜드 프리미어리그(EPL) 기류가 또 바뀌었다.",
-      "종착역이 목전인 2025~2026시즌 EPL이 또 한번 크게 요동쳤다.",
-      "35라운드의 희비는 극명하게 엇갈렸다."
-    ],
-    "chips": [
-      "#손흥민",
-      "#EPL"
-    ]
-  },
-  {
-    "id": "na7dee685",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/06/2026050601384873776",
-    "title": "\"내 탓이다\" 와이스 자책에도 美언론 직격탄! \"재앙의 상징\"이라며 맹비판→마이너 강등 예정",
-    "summary": [
-      "지난 시즌 한화 이글스를 한국시리즈로 이끌었던 '대전 예수' 라이언 와이스(30·휴스턴 애스트로스)가 메이저리그(MLB)의 높은 벽 앞에 막혔다.",
-      "득남의 기쁨을 뒤로하고 LA 다저스라는 강팀 상대로 마운드에 올랐으나, 돌아온 것은 현지 언론의 차가운 독설과 '마이너리그 강등'이라는 성적표였다.",
-      "와이스는 5일(한국시간) 미국 텍사스주 휴스턴에 위치한 다이킨 파크에서 열린 LA 다저스와의 홈경기에 스티븐 오커트에 이어 두 번째 투수로 등판해 사실상."
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란이 자국의 공격을 받았다는 아랍에미리트(UAE)의 발표를 거짓으로 규정하면서 이를 빌미로 한 공격이 있..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne5fdb908",
+    "id": "n516988eb",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260506001751071",
-    "title": "트럼프 \"호르무즈 한국 화물선 혼자 행동하다 공격당한 것\"(종합)",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260506003451079",
+    "title": "\"이란, 호르무즈 통과 선박 '새 해상 규제' 공식 도입\"(종합)",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 백나리 특파원 = 도널드 트럼프 미국 대통령은 5일(현지시간) 한국 화물선이 호르무즈 해협에서 단독으로 움직이다가 이..."
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란이 세계 해상 원유 수송량의 약 20%를 책임지는 호르무즈 해협에 대해 '사전 통행 허가제'를 골자로 ..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "na2ab87ae",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/international/us/2026/05/06/HUBQZ7F43FHP3A3OJMKXOPBJCM/",
+    "title": "美국무부 부장관 “한국 기업 우려 해소 위해 비자 제도 대대적 개편 중”",
+    "summary": [
+      "美국무부 부장관 “한국 기업 우려 해소 위해 비자 제도 대대적 개편 중”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n05d528f7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/05/06/MQYDANRQMIZGKMBQMJRTGMRVHE/",
+    "title": "'우주 아빠'는 울지 않는다…4.1이닝 95구 6자책 뭇매 뒤 전한 다짐 \"나는 더 잘할 수 있다\"",
+    "summary": [
+      "[스포츠조선 박상경 기자] 금쪽 같은 아들을 얻고 복귀했다.",
+      "라이언 와이스(휴스턴 애스트로스)는 5일(한국시각) 홈구장 다이킨파크에서 펼쳐진 LA 다저스전에서 팀이 0-1로 뒤지던 1회초 2사 만루에서 등판해 4⅓이닝 8안타(2홈런) 4볼넷 5탈삼진 7실점(6자책점)을 기록했다.",
+      "이날 휴스턴은 다저스에 3대8로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c58a2b3",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "49분 전",
+    "url": "https://www.asiae.co.kr/article/2026050603151086372",
+    "title": "트럼프 \"韓 화물선 해협서 혼자 행동하다 공격당한 것\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 5일(현지시간) 한국 화물선의 피격과 관련해 호르무즈 해협에서 단독으로 움직인 탓이라는 주장을 했다.",
+      "트럼프 대통령은 이날 백악관 행사에서 한국이 호르무즈 해협에서 43%의 석유를 조달한다고 말하면서 \"그런데 그들의 선박이 공격당했다.",
+      "그들은 선박의 대열에 없었고 혼자 행동하기로 한 것\"이라고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n390054d3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260506/133866961/1",
+    "title": "이란혁명수비대 “호르무즈 지정 회랑 이탈시 단호히 대응”",
+    "summary": [
+      "이란혁명수비대(IRGC) 해군은 5일(현지시간) 호르무즈 해협을 통항하는 선박을 향해 지정 항로를 이탈시 단호히 대응하겠다고 경고했다.이란혁명수비대 공식 매체인 세파뉴스와 CNN 등에 따르면 이란혁명수비대 해군은 이날 소셜미디어 엑스(X·옛 트위터)에 “지난 24시간 동안 테러리스트 미군은 지역 내 항행 질서와 안보를 해치는 위험한 행동을 저질렀다”며 “이는 호르무즈 해협 인근의 항행 안전을 위협하고 해당 지역의 상선, 유조선, 어선들에 피해를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n710cbe1a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260506003300087",
+    "title": "단전·치안악화에 들끓는 쿠바…4월 시위·항의만 1천100여건",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 전력난에 시달리고 있는 쿠바에서 4월 한 달간 1천100건이 넘는 반정부 시위와 불만 표출이 제기된 것..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n31832149",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260506/133866948/1",
+    "title": "트럼프 “이란, 협상 원해…유가 인상은 핵무기 제거 위한 작은 대가”",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 5일(현지시간) 이란과 충돌을 평가 절하하면서 이란이 여전히 협상을 원하고 있다고 강조했다.",
+      "트럼프 대통령이 호르무즈 해협에서 제3국 선박을 빼내겠다는 구상을 발표한 후 미국과 이란은 휴전에도 군사적 대치 수위를 높여가고 있다.가디언과 CNN 등에 따르면 트럼프 대통령은 이날 백악관에서 열린 행사 도중 ‘미국과 이란간 휴전 위반에 해당하는 요소가 무엇인가’라는 질문에 “알게 될 것이다.",
+      "내가 알려줄 것이기 때문”이라."
     ],
     "chips": [
       "#정치"
@@ -365,7 +577,7 @@ window.NEWS_DB = [
     "id": "nc2588727",
     "category": "사회",
     "source": "동아일보",
-    "time": "22분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260506/133866927/1",
     "title": "트럼프 “피격 한국 선박, 단독 행동 결정했다가 두들겨맞아”",
     "summary": [
@@ -377,160 +589,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4a9dde07",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/06/2026050512263663704",
-    "title": "'눈찌르기 하지 마!' 김경문 짜증 섞인 불호령? '대반전' 진실 공개→사실은 이랬다",
-    "summary": [
-      "한화 이글스의 수장인 김경문(68) 감독이 문현빈(22)을 향해 보여줬던 행동 하나로 설왕설래가 일었다.",
-      "이른바 '눈 찌르기' 동작.",
-      "팬들은 충분히 오해를 살 만한 행동이라 했지만, 정작 문현빈은 \"전혀 아니었다\"고 강조했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n501d7e84",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/06/GA2GEZDGGNTDIYTBMUZTQNZXHA/",
-    "title": "이래서 어린이날 ‘도박 리스크’ 감수했나…2군도 못 뛰었는데 복귀전 미친 존재감→롯데 대반격 시작된다",
-    "summary": [
-      "[OSEN=수원, 이후광 기자] 논란 속 복귀였지만, 존재감은 강렬했다.출장 저이 징계로 2군 경기조차 뛰지 못했던 도박 3인방이 복귀전에서 맹활약하며 팀 분위기를 단숨에 끌어올렸다.",
-      "하위권을 전전하고 있는 롯데의 흐름이 반전될 전망이다.",
-      "프로야구 롯데 자이언츠 김태형 감독은 5일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 KT 위즈와의 어린."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n1fa19993",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/06/MM2WENBRHBRTMMJWGVQWKZTDGA/",
-    "title": "트럼프 “호르무즈 韓화물선, 단독으로 움직이다 피격”",
-    "summary": [
-      "지난 4일 호르무즈 해협에서 발생한 한국 HMM 소속 화물선 ‘나무호’ 폭발 사고와 관련, 도널드 트럼프 미국 대통령이 “(나무호가) 단독으로 움직이다가 이란의 공격을 받았다”고 5일(현지시각) 주장했다.",
-      "트럼프 대통령은 이날 백악관 행사에서 한국이 호르무즈 해협을 통해 석유 43%를 조달한다고 언급한 뒤 “그들의 선박이 공격당했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n98b8d7ca",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260506000900071",
-    "title": "美, '이란이 韓화물선 공격' 기정사실화하며 거듭 韓 기여 요구",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 도널드 트럼프 행정부가 연일 호르무즈 해협 경색 해소에 한국이 일정한 역할을 담당하라고 촉구하고 있다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd66dd2fe",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260506002200072",
-    "title": "미토스에 놀랐나…\"백악관, AI 모델 사전 검토 추진\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 인공지능(AI) 비규제 기조를 유지해 온 미국 도널드 트럼프 행정부가 새 AI 모델 공개 전 정부가 이를 사..."
-    ],
-    "chips": [
-      "#AI",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nbd568ee2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "48분 전",
-    "url": "https://www.chosun.com/international/us/2026/05/06/ODHHB4IN3RGYJKMF7DQ65XYTUQ/",
-    "title": "트럼프 “호르무즈 한국 화물선, 단독 행동하다 공격당한 것”",
-    "summary": [
-      "트럼프 “호르무즈 한국 화물선, 단독 행동하다 공격당한 것”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00098576",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "51분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/06/2026050522291124283",
-    "title": "'레전드 선수 출신→유명 방송인' 명예 와르르, 충격 '성범죄 의혹' 연속 폭로... 상세 증언 '우수수'",
-    "summary": [
-      "미국프로풋볼(NFL)의 전설적인 수비수이자 유명 방송인이 충격적인 성범죄 스캔들에 휩싸였다.",
-      "마르셀루스 와일리(51)가 대학교 시절 제기된 의혹에 이어, 미성년자 성범죄 및 직장 동료 성폭행 등 추가 폭로에 휩싸였다.",
-      "영국 매체 '데일리 메일'은 5일(한국시간) \"와일리가 뉴욕에서 4명의 여성으로부터 성폭행 혐의로 추가 고소를 당했다\"며 \"이번 소송은 2023년 제기된 강간 혐의보다 훨씬 구체적이고 광범위한 범죄 내용을 담고 있다\"고 보도했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n0d64a8ad",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "51분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260506002100098",
-    "title": "튀르키예 야권 거물, EU수장 옥중 비판 \"중·러와 비교, 부적절\"",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 투옥 중인 튀르키예 야권 유력 인사인 에크렘 이마모을루 전 이스탄불 시장이 튀르키예를 중국, 러시아와 비교..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd820574f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260506_0003617569",
-    "title": "美 3월 구인 687만건…\"안정적이나 이란戰 파장 불가피\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미국 3월 구인 건수가 686만6000건으로 집계됐다.",
-      "미국 노동부는 이날 공개한 구인·이직보고서(JOLTS)에서 3월 구인 건수가 686만6000건으로 전월 대비 5만6000건 감소했다고 밝혔다.",
-      "구인율은 4.1%으로 전월 대비 0.1%p 감소했다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n264bd296",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260506_0003617571",
-    "title": "[속보]트럼프 \"피격 한국 선박, 단독 운항했다가 두들겨맞아\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n05903c76",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026050571681",
     "title": "與, 광주 광산을에 임문영 전략공천 유력",
     "summary": [
@@ -541,92 +603,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5338c1ed",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260505/133865392/2",
-    "title": "AI 칩 품귀에… 애플, 라이벌 삼성에 협력 타진",
+    "id": "na1c8c062",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3시간 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/05/06/DR7TMH2FZBGXZA6JODDX6ZODGI/",
+    "title": "데뷔작부터 타임 100대 필독서 선정 “여성폭력에 대한 분노, 호러로 배출”",
     "summary": [
-      "애플이 아이폰과 아이패드 등 자사 정보기술(IT) 기기에 탑재하는 프로세서 칩 생산 파트너로 삼성전자와 인텔을 검토하는 것으로 알려졌다.",
-      "인공지능(AI)발 반도체 품귀에 대응하고 대만 TSMC에 절대적으로 의존하는 공급망을 다변화하기 위한 목적으로 분석된다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nc663783b",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260505/133865409/2",
-    "title": "[알립니다]창조적 파괴 시대, 혁신금융의 길",
-    "summary": [
-      "저출산과 고령화로 인한 저성장 고착화, 중동 정세의 파고가 불러온 고유가, 고환율의 격랑 속에서 한국 경제는 전례 없는 복합 위기에 직면해 있습니다.",
-      "이제 금융은 단순한 자금 공급자를 넘어 위기를 돌파하고 성장의 대전환점을 마련할 혁신 금융의 역동성을 발휘해야 합니다.동아일보와 채널A는 ‘창조적 파괴의 시대, 혁신금융의 길’을 주제로 ‘2026 동아국제금융포럼’을 개최합니다.",
-      "올해는 창조적 파괴로 이끄는 지속 가능한 성장을 연구해 2025년 노."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n07122771",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260505/133865413/2",
-    "title": "“삼성전자 파업땐 노사 모두 설 자리 잃어” 이사회 의장 호소",
-    "summary": [
-      "삼성전자 노조가 21일부터 18일간 파업 시행을 예고한 가운데, 신제윤 삼성전자 이사회 의장(사진)이 사내 임직원들에게 “파업 시 국가 경제에 심각한 악영향을 끼치게 될 것”이라며 원만한 해결을 촉구했다.",
-      "신 의장은 5일 사내게시판을 통해 “최근 회사의 상황으로 심려를 끼쳐 주주와 고객은 물론 많은 국민들께 송구하다”며 “파업이 시작되면 노사 모두가 설 자리를 잃게 될 것”이라고 우려했다.",
-      "신 의장은 “국가 기반 산업인 반도체 사업은 타이밍과."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "na346fd4e",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026050571631",
-    "title": "한인 운영 美헤지펀드 파산…6억달러 투자금 행방 묘연",
-    "summary": [
-      "한인 운영 美헤지펀드 파산…6억달러 투자금 행방 묘연."
+      "데뷔작부터 타임 100대 필독서 선정 “여성폭력에 대한 분노, 호러로 배출”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n71d18d26",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/202605057141i",
-    "title": "혼하이, AI서버 수요로 4월에도 매출 30% 증가",
+    "id": "n55675a15",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "3시간 전",
+    "url": "https://www.chosun.com/economy/real_estate/2026/05/06/HJ6VNXYMEFH4RNL2LTSVMDXZQA/",
+    "title": "민간 참여 공공주택까지 中企제품 의무화 되나",
     "summary": [
-      "혼하이, AI서버 수요로 4월에도 매출 30% 증가."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ne62862c8",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026042169331",
-    "title": "송진웅 에스비비테크 대표 \"로봇관절 핵심부품으로 2030년 1000억\"",
-    "summary": [
-      "송진웅 에스비비테크 대표 \"로봇관절 핵심부품으로 2030년 1000억\"."
+      "민간 참여 공공주택까지 中企제품 의무화 되나."
     ],
     "chips": [
       "#뉴스"
@@ -639,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "부동산",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
