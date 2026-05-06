@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-06 12:23:54
+// 마지막 업데이트: 2026-05-06 15:22:15
 window.NEWS_DB = [
   {
     "id": "n75e90822",
     "category": "IT",
     "source": "조선일보",
-    "time": "6시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTVQa1VsbjZ6TW1vSTJ5ek1sSXVYX1hPNE5xaG90TGM1a1FXU2tqVVhkdk1NdFMxaTFHZFFQTEh5NEhTYmRaN1poT0pFTFVhRG92OUhZTEVTN0pyMU9KSTFtQ19FTnY3WUo2X3o5cnREYkw5eDBjXzM0NzJVOUhVcjVQdw?oc=5",
     "title": "엔비디아 빈자리 화웨이가 채운다...반도체부터 AI 모델까지 자립 강화",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
-    "time": "7시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV24zQjliQUJfa1l1Qlk5S001RWltWDRFMEt2cXItbGlPM1BzNnRfU1BNU1V0YlJJMFJ4WUI5ZDRodGk5aHRhMk11UVpHaWx2Uk1ycWhFbXR5cnlPZERaeVcyOFV1MG5Idlh4VUtvc25Tb3ZiTU96eTd3SEYzOWNEWFoxTk1HUko4Ylk5RzZn?oc=5",
     "title": "안양 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "n2bf16291",
     "category": "IT",
     "source": "레디앙",
-    "time": "9시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SazZycndfUWtOU25jVWF5TXVYSDQ0UTRxbWJJZW85T243VFZFVW04bTlobzg1ZV9FcFN5RUdPbndpYWhMSl9udUw4UXkzaW9Cd0NMMU5YSE1hMlRxb0lJWFRxaC1LQjJ5?oc=5",
     "title": "엔비디아, 중국서 ‘스마트카’로 돌파구 모색...AI 규제 속 사업 축 전환",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "na6ca5cd2",
     "category": "IT",
     "source": "더구루",
-    "time": "10시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaNTRPOTZQNm9pYmpmakRZak1EVVgyMVZkc0xBa2NuVjJuRTVGLXBFdG03VjhSOEp2SUVlbzVuYnJJbmVydFo1TE5KenhLZ181MGcxazN1RzRuNUVaODhpSl9FSQ?oc=5",
     "title": "엔비디아 파인만, 블랙웰 대비 전력 반도체 비용 17배 증가 전망",
     "summary": [
@@ -111,21 +111,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7aed1cf1",
-    "category": "부동산",
-    "source": "리얼캐스트",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWXh3MEhBenVCb1I5NTNLa2FVWTdPSG9MYlh1YlpMQVNEQXlDdTdIUlBpMkk4SDBMbldqdDU5ejN6OWdEQkhsMlpqdnZDNEpVX1FZbE02R1NrbmFRRGh3bzItMl9DbVpB0gFsQVVfeXFMTWFpTF8xUHdYam9qb3JXalkzRzc2bE54VG9zUEltd1N2THBaZ3pRb185d2o1MTlvaXF6di01bURqZ1FrTFNvQTY2UV9hV3NkUENleW5ndjQzT2FYVk9EM2p0YnVNd0N2dkdvLXg2?oc=5",
-    "title": "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동",
-    "summary": [
-      "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동 리얼캐스트."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "nbe7cf66c",
     "category": "사회",
     "source": "투데이경제",
@@ -142,20 +127,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf83cb7d8",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fSEpyaHRyZ19Ec0p2aUc0SkZSWFhLYjFoMEc2SElybXNtREw1UnNZY05sN3hBdzNYaXpWRldkVjE5MlQxbGlWMTlsRFEtQUVqY05YZGtxRG93aU9BamJwWmU4ZW9LeUw5VUVrTg?oc=5",
-    "title": "한국-인도 스타트업 인재·기술 교류 속도 낸다",
-    "summary": [
-      "한국-인도 스타트업 인재·기술 교류 속도 낸다 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n64476ff1",
     "category": "IT",
     "source": "머니투데이",
@@ -167,21 +138,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nc04378e2",
-    "category": "부동산",
-    "source": "뉴스1",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KcF9VWW9lUmlHWHZIUUZmZkNNbXJEWlVnYW84RzhXUHRqZ3V1UVJLRjNLSWgweFVYMWg3T3UxSFp3Q1pxbnRtVlFDYVcwdWhpQ1F3U25uU0JLMzA?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
-    "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 뉴스1."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -241,6 +197,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "76일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
     "id": "n759c2467",
     "category": "IT",
     "source": "Chosunbiz",
@@ -282,6 +253,35 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "n13cdbe9c",
+    "category": "부동산",
+    "source": "시사저널e",
+    "time": "127일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
+    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
+    "summary": [
+      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n0fd44a05",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "139일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
+    "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
+    "summary": [
+      "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\" 조선일보."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
     ]
   },
   {
@@ -365,281 +365,271 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3c87f237",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/world/2026/05/06/2026050621072317383",
-    "title": "월드컵 104경기 다 보면 7천만원 준다…美 '역대급 알바' 들썩",
-    "summary": [
-      "2026 FIFA 월드컵 전 경기를 시청하고 그 대가로 약 7300만원을 받는 이른바 '꿈의 일자리'가 등장했다.",
-      "6일 로이터 통신과 UPI통신 등에 따르면 폭스 스포츠는 구인 플랫폼 인디드와 함께 '월드컵 최고 관람자(Chief World Cup Watcher)'를 공개 모집 중이다.",
-      "최종 선발인원은 1명으로 다음달 11일부터 오는 7월19일까지 미국·캐나다·멕시코에서 열리는 월드컵 전 경기(총 104경기)를 모두 시청하는 임무를 맡는다."
-    ],
-    "chips": [
-      "#채용",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n4c9cc6cd",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260506_0003619226",
-    "title": "수원 KT위즈파크 외부 분리수거장 화재…경기 한때 중단",
-    "summary": [
-      "[수원=뉴시스] 변근아 기자 = 6일 오후 8시20분께 경기 수원시 장안구 KT위즈파크 외부 분리수거장에서 불이 났다.",
-      "신고를 받고 출동한 소방당국은 장비 11대와 인력 30명을 투입해 20여분 만에 불길을 잡았다.",
-      "이 불로 다친 사람은 없으나 관중석 등이 연기에 휩싸이며 경기가 한때 중단됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb168ab1e",
-    "category": "스포츠",
+    "id": "n86a3b2f4",
+    "category": "IT",
     "source": "조선일보",
     "time": "2분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/06/PJMRH3TZRBBF7LTSIE67QFG4MA/",
-    "title": "KT-롯데전 열린 수원 구장, 쓰레기 분리 수거장 화재로 23분 중단",
+    "url": "https://www.chosun.com/opinion/editorial/2026/05/07/FOKXPXAEUVERPGDDCHECPL7C6I/",
+    "title": "[사설] 파죽지세 코스피 7000 돌파, ‘반도체 쏠림’이 숙제",
     "summary": [
-      "KT-롯데전 열린 수원 구장, 쓰레기 분리 수거장 화재로 23분 중단."
+      "[사설] 파죽지세 코스피 7000 돌파, ‘반도체 쏠림’이 숙제."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n4edf68e3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/07/HFSDIMBUGBSDEYRRGBTDENLDHE/",
+    "title": "안성재, '와인 바꿔치기' 사과 1시간만에 유튜브 업로드 \"이 와중에..\" '싫어요' 폭격[핫피플]",
+    "summary": [
+      "[OSEN=김나연 기자] 미쉐린 2스타 레스토랑 '모수 서울'을 운영중인 안성재 셰프가 '와인 바꿔치기' 논란 속에도 유튜브 영상 업로드를 이어가 여론의 뭇매를 맞고 있다.6일 오후 안성재가 운영하는 '셰프 안성재' 채널에는 \"출출한 밤에 추천하는 야식 메뉴 4가지ㅣ안성재거덩요\"라는 제목의 영상이 업로드 됐다.",
+      "제작진은 영상 설명을 통해 \"금일 예정되었던."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n109b785c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/06/MQ4DAMZRHAYWEZRTGM2TINBSGI/",
-    "title": "'잠실 빅보이' 화려하게 복귀하다...이재원 투런포+송찬의 솔로포+임찬규 1실점, LG 또또 이겼다. 두산 2연패 [잠실 리뷰]",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스가 두산 베어스를 꺾고 2연승을 거뒀다.",
-      "LG는 6일 서울 잠실구장에서 열린 2026 KBO리그 두산과 경기에서 6-1로 승리했다.",
-      "이날 1군에 콜업된 이재원이 선제 투런 홈런을 터뜨리며 4타수 2안타 2타점을 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nba16676e",
+    "id": "na18d63c0",
     "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/05/06/SZPH2QJFT5BPXM37MU445CDE5Y/",
-    "title": "[단독]부산 북구 3선 출신 정형근, 한동훈 후원회장 맡기로...장동혁은 박민식 개소식 ‘부산行’",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260506184351081",
+    "title": "프랑스, 지중해 핵항모 홍해로 이동…호르무즈 개방 대비(종합)",
     "summary": [
-      "[단독]부산 북구 3선 출신 정형근, 한동훈 후원회장 맡기로...장동혁은 박민식 개소식 ‘부산行’."
+      "(파리=연합뉴스) 송진원 특파원 = 프랑스가 이란 전쟁이 끝난 후 호르무즈 해협 항행의 자유를 지원하기 위해 핵 추진 항공모함을 홍해로 이동 중..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n945645c6",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/06/2026050615503599026",
-    "title": "'이재원 3년 만에 홈런+송찬의 7호포' LG, 두산 6-1로 꺾고 3연승 질주 [잠실 현장리뷰]",
-    "summary": [
-      "LG 트윈스가 그토록 바라던 우타 거포 유망주들의 장타에 힘입어 두산 베어스를 제압했다.",
-      "LG는 6일 서울 잠실야구장에서 열린 2026 신한 SOL KBO리그 정규시즌 홈 경기에서 두산에 6-1로 승리했다.",
-      "이로써 LG는 두산에 위닝시리즈를 확보하고 3연승을 달리며 21승 11패로 1위 KT 위즈(22승 11패)를 0.5경기 차로 추격했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n803af38e",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/06/2026050620565062729",
-    "title": "\"그땐 입사 쉬웠죠?\" 30년근속 비아냥에 '울컥'…\"피바람 불었다\"",
-    "summary": [
-      "'대기업 30년 장기근속'의 의미를 두고 세대 간 인식 차이가 드러났다.",
-      "6일 한 온라인 커뮤니티에는 '대기업 30년 다닌 게 대단한 건가요?'란 제목의 글이 올라왔다.",
-      "작성자 A씨는 \"솔직히 예전에는 대기업 들어가기도 쉽고 잘 자르지도 않았지 않느냐\"며 \"아는 분 중에 메이저 대기업을 30년 정도 다녔다고 하는 분이 있는데, 입사 난이도로 보면 자랑할 정도는 아니지 않느냐\"고 적었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b172c5f",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260506_0003619207",
-    "title": "외부 화재로 연기 유입…수원 롯데-KT전 7회 23분간 경기 중단",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 야구장 외부에서 발생한 화재로 경기가 지연되는 돌발 상황이 발생했다.",
-      "6일 수원 KT위즈파크에서 벌어진 2026 신한 쏠 KBO리그 롯데 자이언츠와 KT 위즈의 경기는 7회 약 23분간 중단됐다.",
-      "롯데가 6-1로 앞서던 이날 경기 7회초 무사 2루 나승엽의 타석에 경기장 우측 외야에서 연기가 흘러 들어오기 시작했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd74a854f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/06/GA4WGNBXGAZTINDGMQ2DENTFGA/",
-    "title": "‘35개월’ 오승환子, 아빠에 완벽 투구..야구 DNA 물려받았다 “기특+대견” (‘슈돌’)[종합]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘슈퍼맨이 돌아왔다’ 오승환의 아들이 언어 천재 면모를 드러냈다.6일 방송된 KBS 2TV ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’)에서는 ‘레전드 마무리 투수’ 오승환이 생후 35개월 아들 서준이와 함께 일상을 공개했다.이날 아들 서준이를 최초 공개한 오승환은 “겉모습은 100% 저를 닮았다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n802ad713",
+    "id": "n3ef2b6b0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260506_0003619222",
-    "title": "이효리, 자연美 '끝판왕'…요가 화보로 또 레전드 경신",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260506_0003618623",
+    "title": "\"중1 딸 구석구석 씻기는 남편, 성추행인가요\"…커뮤니티 발칵",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 이효리가 요가 화보를 공개했다.",
-      "이효리의 소속사 안테나는 6일 소셜미디어에 \"이효리가 전하는 요가는 우리의 매일의 일상 속에 함께 존재한다.",
-      "이효리와 함께한 B브랜드 두 번째 캠페인이 공개됐다\"는 글과 함께 여러 장의 사진을 게재했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n91844f17",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260506_0003618782",
-    "title": "\"알바 대신 벌통 50개\"…'꿀' 부업으로 등록금 번 美 대학생",
-    "summary": [
-      "[서울=뉴시스]김수빈 인턴 기자 = 아르바이트 대신 양봉 사업을 운영해 학비를 마련한 미국 대학생의 사연이 전해졌다.",
-      "지난 5일 인도 NDTV에 따르면, 미국 펜실베이니아 채텀대생 앤서니 온도(23)는 양봉 사업 수익으로 학비를 충당하고 있다.",
-      "지속가능경영을 전공하는 온도는 현재 약 50개의 벌통을 관리하고 있으며, 연 2회 꿀을 수확해 지역 카페와 상점 등에 판매하고 있다."
+      "[서울=뉴시스]허준희 인턴 기자 = 중학교 1학년 딸의 목욕을 직접 시키는 남편의 행동을 두고 온라인상에서 거센 논란이 일고 있다.",
+      "최근 한 온라인 커뮤니티에는 중학생 딸 목욕 시키기를 고집하는 남편의 태도가 성추행에 해당하는지 묻는 글이 게시됐다.",
+      "작성자 A씨는 \"이혼까지 불사할 일일까요?\"라며 네티즌들에게 조언을 구했다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n8f45be49",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://www.asiae.co.kr/article/2026050621150790516",
-    "title": "고양시, 고양도시관리공사 '소규모주택 정비지원기구' 국토부서 최종 승인",
-    "summary": [
-      "경기 고양특례시(시장 이동환)는 고양도시관리공사가 국토교통부로부터 '빈집 및 소규모주택정비에 관한 특례법' 제50조에 따른 '소규모주택 정비지원기구'로 최종 승인·고시돼, 소규모정비사업 추진에 속도를 낸다고 6일 밝혔다.",
-      "고양시는 지난 1월 28일 승인 요청서를 국토교통부에 제출했고 경기도와 국토부의 검토를 거쳐, 약 3개월 만인 지난 4월 23일 국토부 고시를 통해 최종 승인됐다.",
-      "이는 기초지자체 산하 도시공사가 소."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7683ee61",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/06/2026050620234350490",
-    "title": "최명길 \"♥김한길, 생방송 대시…첫 통화에 '나한테 시집와요'\"",
-    "summary": [
-      "배우 최명길이 남편 김한길과의 러브스토리를 공개했다.",
-      "6일 방송된 KBS1 예능 프로그램 '황신혜의 같이 삽시다'에는 배우 황신혜와 33년 우정을 이어온 배우 최명길이 출연했다.",
-      "이날 방송에서 최명길은 남편 김한길과의 첫 만남에 대해 \"방송국에서 처음 만났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1887dfac",
+    "id": "nc097b6d4",
     "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260506/133874298/1",
-    "title": "볼보코리아, 오는 12일 ‘XC90 블랙에디션’ 출시… B6·T8 총 55대 한정 판매",
-    "summary": [
-      "볼보자동차코리아가 플래그십 SUV ‘XC90’ 한정판 모델을 선보인다.볼보코리아는 오는 12일 브랜드 공식 온라인 숍(디지털 숍)을 통해 한정판 ‘XC90 블랙에디션(Black Edition)’을 판매한다고 6일 밝혔다.",
-      "오전 10시부터 총 55대 한정된 수량만 판매 예정으로 예약 완료 시 판매가 종료되는 방식이다.XC90은 지난 2002년 처음 선보인 대형 SUV다.",
-      "2014년까지 1세대 모델이 팔렸고 현행 모델은 2015년 출시된 2세대의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29cc7edf",
-    "category": "경제",
-    "source": "아시아경제",
+    "source": "뉴시스",
     "time": "12분 전",
-    "url": "https://www.asiae.co.kr/article/2026050621113986059",
-    "title": "[속보]트럼프 \"이란 합의 거부시 폭격 재개…합의하면 봉쇄해제\"",
+    "url": "https://www.newsis.com/view/NISX20260506_0003619215",
+    "title": "'건강상 아형 휴식' 김희철, 근황 전했다",
     "summary": [
-      "[속보]트럼프 \"이란 합의 거부시 폭격 재개…합의하면 봉쇄해제\"."
+      "[서울=뉴시스] 남정현 기자 = 그룹 슈퍼주니어의 김희철이 근황을 전했다.",
+      "김희철은 6일 소셜미디어에 라면 이모지 함께 여러 장의 사진을 공개했다.",
+      "사진 속 김희철은 카메라를 가까이 둔 채 음식에 집중한 모습으로 특유의 꾸밈없는 일상을 전했다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n346bab56",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://www.asiae.co.kr/article/2026050621105082961",
-    "title": "김보라 후보, ‘안성 2030 비전’ 선포…“혁신 완성 위대한 안성시대 열 것”",
-    "summary": [
-      "김보라 경기 안성시장 후보(더불어민주당)가 6일 자신의 선거사무소에서 언론인 대상 '2030 안성비전 발표회'를 열고, 안성의 미래 지도를 완성할 청사진을 전격 발표했다.",
-      "김 후보는 이날 정책 기조 발표를 통해 지난 6년 시정을 각각 '혁신 설계(민선 7기)'와 '혁신 실천(민선 8기)'의 과정으로 정의했다.그는 \"그동안 설계하고 실천해 온 대형 사업들을 차질 없이 매듭지어 시민들의 일상 속에 온전한 결실을 돌려드려야 할 때\"."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5268c405",
+    "id": "n4b578f30",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260506154151081",
-    "title": "프랑스 해운사 소속 선박, 호르무즈서 피격…승무원 부상(종합)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260507000800075",
+    "title": "'24시간 뉴스 채널' CNN 설립자 테드 터너 별세…향년 87세",
     "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 세계 3위 해운사인 프랑스의 CMA CGM은 6일(현지시간) 자사 선박 한 척이 전날 오후 호르무즈 해협을 ..."
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 세계 최초 24시간 뉴스 전문 케이블 네트워크 CNN을 세운 미디어 사업가 테드 터너가 별세했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na074eb55",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260506/133874162/1",
-    "title": "이정후, 어린이날 맞아 선행…장애아동 위해 1000만원 기부",
+    "id": "n5b3f4b17",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260507_0003619260",
+    "title": "[속보] CNN 창업자 테드 터너 별세…향년 87세",
     "summary": [
-      "메이저리그(MLB)에서 뛰는 이정후(28·샌프란시스코 자이언츠)가 어린이날을 맞아 장애어린이를 위한 나눔을 실천했다.푸르메재단은 6일 “이정후가 장애어린이 재활치료 사업에 1000만 원을 기부했다”고 밝혔다.2019년부터 8년째 이어진 나눔 활동으로, 이정후는 매년 어린이날에 장애아동을 위해 선행을 펼쳤다.이정후는 2022년 푸르메재단 고액기부자모임인 ‘더미라클스’의 38번째 회원으로도 이름을 올렸다.",
-      "재단에 기부한 금액은 총 1억3500만 원."
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 kjdragon@newsis.com."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nb9dc6a94",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260506_0003619221",
+    "title": "수영, 父 실명 고백…\"15년 투병, 거의 시력 잃어\"",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 소녀시대 수영이 망막색소변성증을 앓고 있는 부친의 시력 상태를 언급했다.",
+      "6일 방송된 tvN 예능 '유 퀴즈 온 더 블럭'에는 소녀시대 보컬 유닛 '태티서'에 대항하기 위해 결성된 '효리수'의 효연, 유리, 수영이 출연했다.",
+      "이날 수영은 멤버들에게 고마웠던 순간에 대해 고백했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n00672a67",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260506184200005",
+    "title": "베네치아비엔날레 한국관 공개…침으로 혈을 뚫고 둥지로 보듬다",
+    "summary": [
+      "(베네치아=연합뉴스) 박의래 기자 = 이탈리아 베네치아 자르디니 전시장 내 한국관.",
+      "외부부터 내부까지 황동색 관이 박혀 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n185593f1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260507000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na976f21b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/202605069972i",
+    "title": "美,\"EU의 협정 비준지연\"비난…자동차 관세 25% 부과 가능성 높아져",
+    "summary": [
+      "美,\"EU의 협정 비준지연\"비난…자동차 관세 25% 부과 가능성 높아져."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf251758d",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/202605069997i",
+    "title": "\"미국-이란 종전 합의 임박\"…더 달리는 반도체 [빈난새의 개장전요것만]",
+    "summary": [
+      "\"미국-이란 종전 합의 임박\"…더 달리는 반도체 [빈난새의 개장전요것만]."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n371893bd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260506/133874815/1",
+    "title": "전화·화상회의 특화된 헤드폰 ‘이볼브3 85’ 써보니… 카페소음도 사무실처럼 조용하게",
+    "summary": [
+      "재택근무와 사무실 출근이 혼재된 하이브리드 업무 환경이 일상으로 자리 잡으면서, 직장인들에게 헤드셋은 업무 생산성을 결정짓는 핵심 도구가 됐다.",
+      "화상 회의 중 들리는 집안의 생활 소음이나 카페의 웅성거림은 단순히 개인의 불편을 넘어 팀 전체의 소통 효율을 떨어뜨리는 요인이 되기도 한다.덴마크 글로벌 오디오 브랜드 자브라(Jabra)가 최근 출시한 ‘이볼브3 85(Evolve3 85)’는 이러한 시대적 요구를 반영한 프리미엄 헤드셋이다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n1e25341d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260506/133874763/2",
+    "title": "‘CNN 설립자’ 테드 터너 사망…향년 87세",
+    "summary": [
+      "CNN 설립자로 유명한 테드 터너가 사망했다.",
+      "향년 87세미국 CNN, 뉴욕타임스(NYT) 등은 6일(현지 시간) 터너의 가족을 인용해 테드 터너가 플로리다주의 자택에서 눈을 감았다고 전했다.",
+      "터너는 2018년 뇌 질환 투병 중으로 알려진 바 있다.미국 오하이오주 출신의 사업가다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbc908992",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "31분 전",
+    "url": "https://www.hankyung.com/article/2026050699601",
+    "title": "교육부, 한양대 재무감사…설립자 회계 유용 의혹",
+    "summary": [
+      "교육부, 한양대 재무감사…설립자 회계 유용 의혹."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n2bdaad2c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/06/N6Z4QZTMKJHK7BRMYO63RD3O3E/",
+    "title": "‘세계 최초 24시간 뉴스’ CNN 창립자 테드 터너 별세",
+    "summary": [
+      "‘세계 최초 24시간 뉴스’ CNN 창립자 테드 터너 별세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n969cb81e",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "44분 전",
+    "url": "https://www.hankyung.com/article/202605069995i",
+    "title": "유가 하락·기업 실적 개선…美증시 이틀 연속 최고치",
+    "summary": [
+      "유가 하락·기업 실적 개선…美증시 이틀 연속 최고치."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6548b123",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "52분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260506/133874099/2",
+    "title": "[사설]1년 새 3배로 뛴 코스피… ‘반도체 편중’ ‘변동성 과잉’ 극복이 숙제",
+    "summary": [
+      "코스피가 ‘꿈의 고지’ 7,000대에 올랐다.",
+      "삼성전자, SK하이닉스 ‘반도체 투 톱’이 견인한 코스피 시가총액도 13개월 만에 3.2배가 됐다.",
+      "천정부지로 치솟는 주가에 투자자들은 환호하지만, 조만간 정점을 찍고 하락할 수 있다는 불안감도 동시에 커지고 있다."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   }
 ];
@@ -649,18 +639,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
+    "tag": "반도체",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
