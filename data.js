@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-06 15:22:15
+// 마지막 업데이트: 2026-05-06 17:22:02
 window.NEWS_DB = [
   {
     "id": "n75e90822",
     "category": "IT",
     "source": "조선일보",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTVQa1VsbjZ6TW1vSTJ5ek1sSXVYX1hPNE5xaG90TGM1a1FXU2tqVVhkdk1NdFMxaTFHZFFQTEh5NEhTYmRaN1poT0pFTFVhRG92OUhZTEVTN0pyMU9KSTFtQ19FTnY3WUo2X3o5cnREYkw5eDBjXzM0NzJVOUhVcjVQdw?oc=5",
     "title": "엔비디아 빈자리 화웨이가 채운다...반도체부터 AI 모델까지 자립 강화",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV24zQjliQUJfa1l1Qlk5S001RWltWDRFMEt2cXItbGlPM1BzNnRfU1BNU1V0YlJJMFJ4WUI5ZDRodGk5aHRhMk11UVpHaWx2Uk1ycWhFbXR5cnlPZERaeVcyOFV1MG5Idlh4VUtvc25Tb3ZiTU96eTd3SEYzOWNEWFoxTk1HUko4Ylk5RzZn?oc=5",
     "title": "안양 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "n2bf16291",
     "category": "IT",
     "source": "레디앙",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SazZycndfUWtOU25jVWF5TXVYSDQ0UTRxbWJJZW85T243VFZFVW04bTlobzg1ZV9FcFN5RUdPbndpYWhMSl9udUw4UXkzaW9Cd0NMMU5YSE1hMlRxb0lJWFRxaC1LQjJ5?oc=5",
     "title": "엔비디아, 중국서 ‘스마트카’로 돌파구 모색...AI 규제 속 사업 축 전환",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "na6ca5cd2",
     "category": "IT",
     "source": "더구루",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaNTRPOTZQNm9pYmpmakRZak1EVVgyMVZkc0xBa2NuVjJuRTVGLXBFdG03VjhSOEp2SUVlbzVuYnJJbmVydFo1TE5KenhLZ181MGcxazN1RzRuNUVaODhpSl9FSQ?oc=5",
     "title": "엔비디아 파인만, 블랙웰 대비 전력 반도체 비용 17배 증가 전망",
     "summary": [
@@ -141,6 +141,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0a7d03c9",
+    "category": "경제",
+    "source": "매일경제",
+    "time": "26일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SU3hHdUFFbXpfcXhqQVRPOUpNS2JaZXdVT0o4UnJCcFNvZEViZldia1JDWWt5WVBDemVab1J4RVg3akJrSFV2X0Z6MUFUX0NJMHNOWQ?oc=5",
+    "title": "한은 총재 “현재 환율은…외국인 주식 매도와 중동 사태가 큰 영향”",
+    "summary": [
+      "한은 총재 “현재 환율은…외국인 주식 매도와 중동 사태가 큰 영향” 매일경제."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "nce5c746a",
     "category": "IT",
     "source": "전자신문",
@@ -180,20 +194,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n15f5f447",
-    "category": "경제",
-    "source": "지디넷코리아",
-    "time": "63일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
-    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
-    "summary": [
-      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -333,10 +333,104 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd08b7a76",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260507002700108",
+    "title": "종전 합의 기류에 이스라엘 촉각…\"모든 시나리오 대비\"",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 이스라엘은 미국과 이란이 전쟁 종식을 위한 합의에 근접했다는 관측에 촉각을 기울이면서 만일의 사태에 대비..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncbc47e81",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/07/2026050623254669169",
+    "title": "\"가방에 돈다발 마구 쑤셔 넣더니...\" 호주 최대 경마장 턴 60대 '덜미', 연루 의혹 직원이 12명이나!",
+    "summary": [
+      "호주 최고의 경마 클럽 직원이 경마장 금고에서 거액의 현금을 훔친 혐의로 경찰에 붙잡혔다.",
+      "영국 '데일리 메일'은 6일(한국시간) \"호주 터프 클럽(ATC) 소속 60대 직원이 로열 랜드윅 경마장 금고에서 2만 2000달러(3200만원)를 훔친 혐의로 체포돼 기소됐다\"고 보도했다.",
+      "사건은 지난달 28일 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6158f49f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://www.asiae.co.kr/article/2026050702091544786",
+    "title": "계엄의 겨울 지나 '해방공간'으로…베니스비엔날레 한국관 개막",
+    "summary": [
+      "베니스 자르디니의 한국관이 하나의 전시장이 아니라 '몸'이자 '공동의 피난처'로 다시 열렸다.",
+      "올해 베니스비엔날레 한국관은 해방 이후의 역사, 2024년 겨울의 계엄과 광장, 제주4·3과 5·18의 기억을 한 공간 안으로 끌어들인다.",
+      "국가관이라는 제도적 무대 위에서 한국관이 던진 질문은 단순하다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd3f95d08",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/07/2026050701213686771",
+    "title": "'화재로 23분간 중단 후' 나승엽은 첫 공을 그냥 때렸다→쐐기 적시타 '승부 끝' [어제 야구 이 장면]",
+    "summary": [
+      "5월 6일 롯데 8-1 KT (수원) 수원 KT위즈파크에 난데 없이 연기가 들이닥쳤다.",
+      "6-1로 앞선 롯데의 공격 무사 2루, 나승엽을 상대로 KT 투수 주권이 볼카운트 1-1에서 3구째를 던지기 직전이었다.",
+      "오른쪽 외야 인근에서 갑자기 연기가 유입됐다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf9348c3d",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/07/2026050623442475686",
+    "title": "\"로메로 대체자는 김민재\" 초대박 EPL 이적설 떴다... 토트넘 관심 폭발, 뉴캐슬까지 영입전",
+    "summary": [
+      "'괴물 수비수' 김민재(30·바이에른 뮌헨)를 두고 잉글랜드 프리미어리그(EPL) 클럽들이 러브콜을 보내고 있다.",
+      "영국 코트오프사이드는 6일(한국시간) \"토트넘과 뉴캐슬이 김민재 영입에 관심을 보이고 있다\"면서 \"김민재는 올 여름 이적시장에서 매각될 가능성이 있다.",
+      "토트넘, 뉴캐슬, 두 EPL 클럽들이 가장 적극적인 관심을 보이는 팀들로 꼽힌다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n3dfb78b8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/07/GZSTKYRSGUYDAM3CGAZTKNRTG4/",
+    "title": "'퓨처스 폭격 듀오' 이재원 먼저 터졌다! → 이제 한동희 차례다",
+    "summary": [
+      "[스포츠조선 한동훈 기자] 2026시즌을 앞두고 이재원(LG) 한동희(롯데)에 대한 기대감은 엄청났다.",
+      "개막 직후 성적표는 둘 모두 실망스러웠다.",
+      "고전 끝에 이재원이 먼저 슬럼프에서 깨어나는 모양새다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n87d72e8f",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "18분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151603",
     "title": "카카오페이, \"스테이블코인 발행·유통 '투트랙'으로 시장 선점할 것\"",
     "summary": [
@@ -351,7 +445,7 @@ window.NEWS_DB = [
     "id": "nfc2f08bf",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "19분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151602",
     "title": "카카오페이, 'AI 금융' 선도한다...국내외 AI 결제 인프라 공략",
     "summary": [
@@ -365,271 +459,181 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n86a3b2f4",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/05/07/FOKXPXAEUVERPGDDCHECPL7C6I/",
-    "title": "[사설] 파죽지세 코스피 7000 돌파, ‘반도체 쏠림’이 숙제",
+    "id": "nb5fa2f9c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/07/2026050621413567477",
+    "title": "'무려 상금 716억 쓸어 담은' 女 세계 랭킹 1위 작심발언 \"수익 구조 불공평... 보이콧 불사할 것\"",
     "summary": [
-      "[사설] 파죽지세 코스피 7000 돌파, ‘반도체 쏠림’이 숙제."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n4edf68e3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/07/HFSDIMBUGBSDEYRRGBTDENLDHE/",
-    "title": "안성재, '와인 바꿔치기' 사과 1시간만에 유튜브 업로드 \"이 와중에..\" '싫어요' 폭격[핫피플]",
-    "summary": [
-      "[OSEN=김나연 기자] 미쉐린 2스타 레스토랑 '모수 서울'을 운영중인 안성재 셰프가 '와인 바꿔치기' 논란 속에도 유튜브 영상 업로드를 이어가 여론의 뭇매를 맞고 있다.6일 오후 안성재가 운영하는 '셰프 안성재' 채널에는 \"출출한 밤에 추천하는 야식 메뉴 4가지ㅣ안성재거덩요\"라는 제목의 영상이 업로드 됐다.",
-      "제작진은 영상 설명을 통해 \"금일 예정되었던."
+      "여자 테니스 세계 랭킹 1위의 작심 발언이다.",
+      "아리나 사발렌카(27·벨라루스)가 메이저 대회의 상금 배분 방식에 대해 목소리를 높이며 대회 보이콧 가능성까지 언급했다.",
+      "영국 매체 'BBC'는 6일(한국시간) \"이탈리아 오픈을 앞둔 사발렌카가 상금 및 수익 배분에 대한 불만을 표했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na18d63c0",
+    "id": "n9b9a7fb2",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260506184351081",
-    "title": "프랑스, 지중해 핵항모 홍해로 이동…호르무즈 개방 대비(종합)",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260507000851075",
+    "title": "'24시간 뉴스' CNN 설립자 테드 터너 별세…\"사업가보단 모험가\"(종합)",
     "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 프랑스가 이란 전쟁이 끝난 후 호르무즈 해협 항행의 자유를 지원하기 위해 핵 추진 항공모함을 홍해로 이동 중..."
+      "(로스앤젤레스 워싱턴=연합뉴스) 김경윤 백나리 특파원 = 세계 최초로 24시간 뉴스 전문 케이블 네트워크 CNN을 세운 미디어 사업가 테드 터너..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3ef2b6b0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260506_0003618623",
-    "title": "\"중1 딸 구석구석 씻기는 남편, 성추행인가요\"…커뮤니티 발칵",
+    "id": "na260c575",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "34분 전",
+    "url": "https://www.asiae.co.kr/article/2026050701473836579",
+    "title": "로봇도 오계를 받을 수 있을까…조계사서 열린 이색 수계식",
     "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 중학교 1학년 딸의 목욕을 직접 시키는 남편의 행동을 두고 온라인상에서 거센 논란이 일고 있다.",
-      "최근 한 온라인 커뮤니티에는 중학생 딸 목욕 시키기를 고집하는 남편의 태도가 성추행에 해당하는지 묻는 글이 게시됐다.",
-      "작성자 A씨는 \"이혼까지 불사할 일일까요?\"라며 네티즌들에게 조언을 구했다."
+      "가사를 두른 로봇이 합장했다.",
+      "스님의 질문에는 \"예, 않겠습니다\"라고 답했다.",
+      "사람에게 대들지 않고, 기만하지 않고, 과충전하지 않겠다는 '로봇 오계'도 받았다."
     ],
     "chips": [
-      "#교육"
+      "#전기차"
     ]
   },
   {
-    "id": "nc097b6d4",
+    "id": "n2a2a42b0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260506_0003619215",
-    "title": "'건강상 아형 휴식' 김희철, 근황 전했다",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20260507_0003619265",
+    "title": "美 CNN 창립자, ‘루이체 치매’ 투병 테드 터너 별세…향년 87세(종합)",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 그룹 슈퍼주니어의 김희철이 근황을 전했다.",
-      "김희철은 6일 소셜미디어에 라면 이모지 함께 여러 장의 사진을 공개했다.",
-      "사진 속 김희철은 카메라를 가까이 둔 채 음식에 집중한 모습으로 특유의 꾸밈없는 일상을 전했다."
+      "[서울=뉴시스] 구자룡 기자 = 美 CNN 창립자이자 케이블 TV 뉴스 개척자인 테드 터너가 87세로 별세했다고 CNN 등 미 언론이 6일 보도했다.",
+      "1980년 CNN을 설립해 TV 뉴스에 혁명을 일으킨 미디어계의 혁신가이자 자선사업가인 테드 터너가 6일(현지 시각) 가족들이 지켜보는 가운데 평화롭게 세상을 떠났다고 터너 엔터프라이즈가 보도자료를 통해 밝혔다고 CNN은 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc306f0f9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "53분 전",
+    "url": "https://www.newsis.com/view/NISX20260507_0003619264",
+    "title": "트럼프 \"이란과 합의 가능성 높아…내주 방중 전 가능성\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국과 이란이 한달간의 휴전과 협상 끝에 합의에 이를 수 있을 것이란 관측이 제기되는 가운데, 도널드 트럼프 미국 대통령은 6일(현지 시간) 내주 예정된 중국 방문 이전에 합의가 마무리될 가능성이 있다고 전망했다.",
+      "트럼프 대통령은 이날 PBS와 통화에서 이란과의 합의 타결을 낙관하냐는 질문에 \"그렇게 생각하지만 예전에도 그랬던 적이 있어서 지켜봐야할 것이다\"면서도 \"다시 합의를 성사시킬 가능성이 매우 높다고."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9c45bb97",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "59분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260507002100079",
+    "title": "이집트서도 K푸드 인기 확인…직접 만들고 맛도 보고",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 주이집트 한국대사관은 6일(현지시간) 이집트 카이로에서 한·아프리카 재단 및 한국식품산업협회와 공동으로 K..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb7946bb",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026050699631",
+    "title": "유가 폭등이 끌어올린 물가…최고가격제 없었다면 4% 육박",
+    "summary": [
+      "유가 폭등이 끌어올린 물가…최고가격제 없었다면 4% 육박."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne49e66d9",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260507001900071",
+    "title": "美 '관세키맨' 상무장관, '엡스타인 의혹'으로 청문회 또 출석",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 하워드 러트닉 미국 상무부 장관이 6일(현지시간) '엡스타인 의혹'으로 연방하원 감독위원회의 비공개 청문회..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba41fef8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260506_0003619022",
+    "title": "\"아침·낮 기온차 16도\"…'이 질환' 특히 조심하세요",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 7일 일교차가 16도에 달할 것으로 예보된 가운데 급성심근경색, 고지혈증 등 심혈관 질환에 각별한 주의가 필요하다.",
+      "일교차가 커지면 혈관이 수축과 이완을 빠르게 반복하면서 심장에 부담이 커지기 때문이다.",
+      "이날 의료계에 따르면 아침, 저녁으로 불어오는 찬공기에 노출된 우리 몸은 체열 발산을 막으려 하고, 교감신경계가 자극을 받으면서, 자율신경계 균형이 깨지게 된다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n4b578f30",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260507000800075",
-    "title": "'24시간 뉴스 채널' CNN 설립자 테드 터너 별세…향년 87세",
+    "id": "n07c68e3c",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://www.asiae.co.kr/article/2026050616093471041",
+    "title": "'몸값 오른' 함정우, 큰 무대에 뜬다",
     "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 세계 최초 24시간 뉴스 전문 케이블 네트워크 CNN을 세운 미디어 사업가 테드 터너가 별세했다."
+      "그는 7일(현지시간) 미국 워싱턴DC의 트럼프 내셔널 골프클럽에서 열리는 LIV 골프 버지니아(총상금 3000만달러)에 출전한다.",
+      "사우디아라비아 국부펀드(PIF)가 내년부터 지원을 중단한다는 소식이 전해진 LIV 골프는 어수선한 상황이지만 올해까지 정상적인 리그를 운영한다.",
+      "함정우가 바로 한국프로골프(KPGA) 투어에서 통산 4승을 쌓은 선수다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5b3f4b17",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260507_0003619260",
-    "title": "[속보] CNN 창업자 테드 터너 별세…향년 87세",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 kjdragon@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb9dc6a94",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260506_0003619221",
-    "title": "수영, 父 실명 고백…\"15년 투병, 거의 시력 잃어\"",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 소녀시대 수영이 망막색소변성증을 앓고 있는 부친의 시력 상태를 언급했다.",
-      "6일 방송된 tvN 예능 '유 퀴즈 온 더 블럭'에는 소녀시대 보컬 유닛 '태티서'에 대항하기 위해 결성된 '효리수'의 효연, 유리, 수영이 출연했다.",
-      "이날 수영은 멤버들에게 고마웠던 순간에 대해 고백했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00672a67",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260506184200005",
-    "title": "베네치아비엔날레 한국관 공개…침으로 혈을 뚫고 둥지로 보듬다",
-    "summary": [
-      "(베네치아=연합뉴스) 박의래 기자 = 이탈리아 베네치아 자르디니 전시장 내 한국관.",
-      "외부부터 내부까지 황동색 관이 박혀 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n185593f1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260507000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na976f21b",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/202605069972i",
-    "title": "美,\"EU의 협정 비준지연\"비난…자동차 관세 25% 부과 가능성 높아져",
-    "summary": [
-      "美,\"EU의 협정 비준지연\"비난…자동차 관세 25% 부과 가능성 높아져."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf251758d",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/202605069997i",
-    "title": "\"미국-이란 종전 합의 임박\"…더 달리는 반도체 [빈난새의 개장전요것만]",
-    "summary": [
-      "\"미국-이란 종전 합의 임박\"…더 달리는 반도체 [빈난새의 개장전요것만]."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n371893bd",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "28분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260506/133874815/1",
-    "title": "전화·화상회의 특화된 헤드폰 ‘이볼브3 85’ 써보니… 카페소음도 사무실처럼 조용하게",
-    "summary": [
-      "재택근무와 사무실 출근이 혼재된 하이브리드 업무 환경이 일상으로 자리 잡으면서, 직장인들에게 헤드셋은 업무 생산성을 결정짓는 핵심 도구가 됐다.",
-      "화상 회의 중 들리는 집안의 생활 소음이나 카페의 웅성거림은 단순히 개인의 불편을 넘어 팀 전체의 소통 효율을 떨어뜨리는 요인이 되기도 한다.덴마크 글로벌 오디오 브랜드 자브라(Jabra)가 최근 출시한 ‘이볼브3 85(Evolve3 85)’는 이러한 시대적 요구를 반영한 프리미엄 헤드셋이다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n1e25341d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "31분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260506/133874763/2",
-    "title": "‘CNN 설립자’ 테드 터너 사망…향년 87세",
-    "summary": [
-      "CNN 설립자로 유명한 테드 터너가 사망했다.",
-      "향년 87세미국 CNN, 뉴욕타임스(NYT) 등은 6일(현지 시간) 터너의 가족을 인용해 테드 터너가 플로리다주의 자택에서 눈을 감았다고 전했다.",
-      "터너는 2018년 뇌 질환 투병 중으로 알려진 바 있다.미국 오하이오주 출신의 사업가다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc908992",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "31분 전",
-    "url": "https://www.hankyung.com/article/2026050699601",
-    "title": "교육부, 한양대 재무감사…설립자 회계 유용 의혹",
-    "summary": [
-      "교육부, 한양대 재무감사…설립자 회계 유용 의혹."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n2bdaad2c",
+    "id": "nbcd98264",
     "category": "사회",
     "source": "조선일보",
-    "time": "36분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/06/N6Z4QZTMKJHK7BRMYO63RD3O3E/",
-    "title": "‘세계 최초 24시간 뉴스’ CNN 창립자 테드 터너 별세",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/05/07/RUKHPENNMJBAXFQW3YDIJ35URA/",
+    "title": "순천서 “따까리 할라믄 공무원” 구미선 “박정희 일찍 죽어 발전”… 與 또 말실수",
     "summary": [
-      "‘세계 최초 24시간 뉴스’ CNN 창립자 테드 터너 별세."
+      "순천서 “따까리 할라믄 공무원” 구미선 “박정희 일찍 죽어 발전”… 與 또 말실수."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n969cb81e",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "44분 전",
-    "url": "https://www.hankyung.com/article/202605069995i",
-    "title": "유가 하락·기업 실적 개선…美증시 이틀 연속 최고치",
+    "id": "n90eb24b8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/national_general/2026/05/07/GNBPJASDQBEENEBCIPIG46R35I/",
+    "title": "‘김건희 유죄’ 선고한 2심 판사, 법원서 숨진채 발견",
     "summary": [
-      "유가 하락·기업 실적 개선…美증시 이틀 연속 최고치."
+      "‘김건희 유죄’ 선고한 2심 판사, 법원서 숨진채 발견."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n6548b123",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "52분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260506/133874099/2",
-    "title": "[사설]1년 새 3배로 뛴 코스피… ‘반도체 편중’ ‘변동성 과잉’ 극복이 숙제",
-    "summary": [
-      "코스피가 ‘꿈의 고지’ 7,000대에 올랐다.",
-      "삼성전자, SK하이닉스 ‘반도체 투 톱’이 견인한 코스피 시가총액도 13개월 만에 3.2배가 됐다.",
-      "천정부지로 치솟는 주가에 투자자들은 환호하지만, 조만간 정점을 찍고 하락할 수 있다는 불안감도 동시에 커지고 있다."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   }
 ];
@@ -639,18 +643,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
