@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-07 13:27:07
+// 마지막 업데이트: 2026-05-07 15:58:42
 window.NEWS_DB = [
   {
     "id": "n8d4afb23",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wVDhPdE5yRlBYc3NZdEJCTFUzV0ZIUnpkX2lOdzRYV0I4TVRXdF9vY2R1d0ZsZkJzNlFmcXhaTEp3dDNCQmNUalN2bVh4WVNqcU9pX3c3c1lXMy1GQ2syNDZ3S1o1VlV3aHhFSE5nLW5Ja2M?oc=5",
     "title": "'전기' 대신 '빛' 선택한 엔비디아, 삼성전자·SK하이닉스 '광반도체' 시장 진출 '속도'",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "n6dd61e2d",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "6시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RS1V0S1U2MGJOOWRsczdVRHhFN2JtVHFvQTRrMWY1Y1Y2RXJ6UnAwbnhQMHY4c3VhYkRHNktJekxyN0Q4VFVLem1hdWsxNHZGUmpKZHN1S3FWSWhf?oc=5",
     "title": "[반도체 랠리, 어디까지] \"엔비디아 없이도 AI는 돌아간다\"…추론 국면이 바꾼 판도",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "nd59c4f15",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "11시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xNkNaVmtQelhxVHZkaWdFaFhmTURTRkp1QkV6UFhuUko0TUNnbXQ3N0E5ZGFOSFdNR0xjSzFOT1I1ZFlKYzJOSDJSdmhkYXM?oc=5",
     "title": "삼성전자 50만원·SK하이닉스 300만원…증권가 눈높이 더 높아졌다",
     "summary": [
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "n0800cad8",
     "category": "스포츠",
     "source": "한스경제",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yMVdvZi1ydWtCeV9EMXNPNFliLS1rQzA1aTlCbkE0SmpERUE5NzlIM1doMEJzVmZwQ1RpVENzblRFakp5ZnhKRlc1ZHVIVjZ6ZjBGd0wwTllCVjFiLTZqejU0b2tRWDBDQXJxTnRFd9IBb0FVX3lxTE0yMVdvZi1ydWtCeV9EMXNPNFliLS1rQzA1aTlCbkE0SmpERUE5NzlIM1doMEJzVmZwQ1RpVENzblRFakp5ZnhKRlc1ZHVIVjZ6ZjBGd0wwTllCVjFiLTZqejU0b2tRWDBDQXJxTnRFdw?oc=5",
     "title": "국내야구, 4월 5주 차 스포츠 관심도 1위 유지",
     "summary": [
@@ -154,6 +154,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "nc04378e2",
+    "category": "부동산",
+    "source": "뉴스1",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KcF9VWW9lUmlHWHZIUUZmZkNNbXJEWlVnYW84RzhXUHRqZ3V1UVJLRjNLSWgweFVYMWg3T3UxSFp3Q1pxbnRtVlFDYVcwdWhpQ1F3U25uU0JLMzA?oc=5",
+    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "summary": [
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 뉴스1."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -258,20 +273,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13cdbe9c",
-    "category": "부동산",
-    "source": "시사저널e",
-    "time": "128일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
-    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
-    "summary": [
-      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n0fd44a05",
     "category": "IT",
     "source": "조선일보",
@@ -368,275 +369,277 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n91213519",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026050722264608823",
-    "title": "보스턴 연은 총재 \"FOMC '완화 편향' 삭제 의견에 동의\"",
+    "id": "n1f4b4e1c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/05/08/AZACVWDNZFBMTJKOPYQIC2J7NI/",
+    "title": "野 “온갖 위헌 악법 밀어붙인 與, 개헌은 협조하라니”",
     "summary": [
-      "수전 콜린스 보스턴 연방준비은행(연은) 총재는 7일(현지시간) 4월 연방공개시장위원회(FOMC) 성명서에서 '완화 편향'(금리 인하 성향) 표현 삭제를 주장했던 3명의 위원 의견에 동의한다고 밝혔다.",
-      "콜린스 총재는 이날 블룸버그와 인터뷰에서 금리 동결 결정을 \"강력히 지지한다\"면서도 \"금리 인하를 재개할 것임을 암시한 성명서 문구 삭제를 주장한 위원의 견해에 동의한다\"고 말했다.",
-      "성명서에 인하 암시하는 '추가 조정' 표."
+      "野 “온갖 위헌 악법 밀어붙인 與, 개헌은 협조하라니”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd1eca4b1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/05/08/LQV6ZMPFT5A5RCKQ6NKI6MHFQA/",
+    "title": "친일재산귀속법·농지법, 비쟁점 법안 116건 통과",
+    "summary": [
+      "친일재산귀속법·농지법, 비쟁점 법안 116건 통과."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n3c864d5d",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/politics/election2026/2026/05/08/AWYN4SK22VE37P5K7DPVLRRRY4/",
+    "title": "정원오 “吳, 말로만 주택 공급” 오세훈 “鄭 되면 부동산 지옥”",
+    "summary": [
+      "정원오 “吳, 말로만 주택 공급” 오세훈 “鄭 되면 부동산 지옥”."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n2f35ea05",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/05/08/CI4Y4TXLS5H7LCGWBEEDDUOHAY/",
+    "title": "정진석 “당 결속 해친다면 출마 접겠다”",
+    "summary": [
+      "정진석 “당 결속 해친다면 출마 접겠다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne8561fd2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260508000900085",
+    "title": "크루즈선 한타바이러스 확진 5건으로 늘어…확산 우려",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 대서양 항해 중 한타바이러스 집단 감염이 발생한 크루즈선 MV 혼디우스에서 확진 사례가 7일(현지시간) 5건..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n57e2fb83",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260508001500071",
+    "title": "美, '이란 지원' 이라크 고위당국자·친이란 민병대 제재",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미국과 이란 간의 종전 협상이 이어지는 가운데 미국이 이란을 겨냥한 추가 제재에 나섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne2dde307",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260508001400081",
+    "title": "EU 검찰, 프랑스 극우정당의 EU 자금 유용 의혹 수사",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 유럽연합(EU) 검찰이 프랑스 극우 정당 국민연합(RN)의 EU 자금 유용 의혹에 대해 수사에 나섰다고 AF..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nabd2fb1f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260508_0003621029",
+    "title": "교황청 \"美와 평화 노력 논의\"…'트럼프-교황' 갈등 속 관계 회복 나서",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 교황청이 7일(현지 시간) 마코 루비오 미국 국무장관과 레오 14세 교황의 회담에서 \"평화를 위해 끊임없이 노력할 필요성\"이 주요 의제로 논의됐다고 밝혔다.",
+      "이번 루비오 장관의 로마 방문은 도널드 트럼프 미국 대통령이 미국 출신인 레오 14세 교황을 공개적으로 비판한 이후 경색된 관계를 복원하려는 차원에서 이뤄진 것으로 해석된다.",
+      "AP통신과 CNN 등 외신에 따르면 루비오 장관은 이날 레오 14세 교황과 교황청 국."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nef9a993b",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260507/133881537/2",
+    "title": "‘중저신용 대출’ 인터넷銀도 고신용자에 대출 쏠려",
+    "summary": [
+      "정부가 중·저신용자를 포용하지 못하는 금융권 신용대출 관행에 대해 지적한 가운데 은행권 전반에서 고신용 쏠림이 심각한 것으로 나타났다.",
+      "특히 허가 당시 ‘중금리 대출 확대’를 설립 취지로 내세운 인터넷 전문은행의 중·저신용자 대출 비중이 여전히 30% 수준에 머물렀다.",
+      "시중은행 역시 중견기업 이상을 다니며 착실하게 월급을 받는 정도의 고신용자 위주 대출이 여전했다."
     ],
     "chips": [
       "#금리"
     ]
   },
   {
-    "id": "nd3d5fbba",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026050722261804708",
-    "title": "화천군, 화천 파로호배 전국카누대회…수상 스포츠 시즌 개막",
+    "id": "n2775b67c",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260507/133881552/2",
+    "title": "‘스몰 럭셔리’ 붐 타고… 호텔 망고빙수 13만원",
     "summary": [
-      "제25회 화천 파로호배 전국카누경기대회가 8일부터 10일까지 사흘간 북한강 화천호 카누 경기장에서 개최된다.",
-      "'물의 나라'로 불리는 화천지역에서 올해 처음 열리는 전국 단위 수상 스포츠 대회다.",
-      "이에 앞서 7일에는 2026년 카누 스프린트 청소년 대표 선발전이 같은 장소에서 치러졌다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ned3da80e",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260507_0003620915",
-    "title": "[KBO 내일의 선발투수]5월8일(금)",
-    "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 5월8일(금)> ▲잠실(오후 6시30분) SSG (앤서니 베니지아노) - (웨스 벤자민) 두산 ▲사직(오후 6시30분) KIA (황동하) - (나균안) 롯데 ▲창원(오후 6시30분) 삼성 (장찬희) - (목지훈) NC ▲고척(오후 6시30분) KT (오원석) - (안우진) 키움 ▲대전(오후 6시30분) LG (송승기) - (박준영) 한화."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc7ae8fb3",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260507_0003620976",
-    "title": "'박지훈 8회 역전타' 두산, LG 꺾고 연패 탈출…'19안타' 한화, KIA 제압(종합)",
-    "summary": [
-      "[서울=뉴시스]김희준 문채현 기자 = 프로야구 두산 베어스가 8회 박지훈의 역전 결승타에 힘입어 '잠실 더비' 3연패를 막았다.",
-      "두산은 7일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 원정 경기에서 LG 트윈스에 3-2 역전승을 거뒀다.",
-      "LG 선발 앤더스 톨허스트의 위력투에 막혀 경기 내내 끌려가던 두산은 경기 막판 타격 집중력을 발휘하며 단숨에 경기를 뒤집었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na24f4c2c",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://www.asiae.co.kr/article/2026050722224100090",
-    "title": "화성시, 병점역 광장에 '야외 갤러리' 조성…'도심의 숨결' 조각전 개최",
-    "summary": [
-      "경기 화성특례시 시민들의 일상이 오가는 병점역 앞 광장이 거대한 야외 갤러리로 변신한다.",
-      "화성특례시는 5월 7일부터 10월 9일까지 약 5개월간 병점역 광장 일원에서 '화성시 공공미술 프로젝트-병점역 아트스퀘어 야외조각전 도심의 숨결'을 개최한다고 밝혔다.",
-      "이번 전시는 삭막한 도심 공간에 예술적 생명력을 불어넣고, 시민들이 일상 속에서 자연스럽게 현대 조각 작품을 감상할 수 있도록 기획됐다."
+      "여름철 특급호텔 대표 상품인 애플망고 빙수 가격이 올해도 인상됐다.",
+      "7일 호텔업계에 따르면 시그니엘 서울은 79층 ‘더 라운지’에서 판매하는 애플망고 빙수 (사진)가격을 올해부터 13만5000원으로 높였다.",
+      "지난해 13만 원에서 5000원 인상한 것이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n05b34787",
+    "id": "nbe97a153",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260507/133881554/2",
+    "title": "“韓美日 ‘전성비-가성비’ AI 메모리 통합칩 공동 개발해야”",
+    "summary": [
+      "한국과 미국, 일본이 메모리 반도체와 에너지 등 인공지능(AI) 시대 필수 분야에서 공동 연구개발(R&D) 기반을 만들자는 주장이 나왔다.",
+      "대한상공회의소와 한미협회는 7일 서울 중구 대한상의회관에서 ‘제6회 한미 산업협력 콘퍼런스’를 열고 3국 경제·산업 전문가들이 모여 협력을 논의하는 자리를 마련했다.",
+      "이날 모인 전문가들은 글로벌 AI 경쟁 시대에 한미일 3국이 공동 대응에 나서야 한다고 강조했다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n39ff9172",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260507/133881565/2",
+    "title": "“50만 전자” “300만 닉스” 목표가 줄상향… 코스피 7500 눈앞",
+    "summary": [
+      "직장인 이종민 씨(37)는 2년째 보유 중인 평균 매수단가 8만 원대의 삼성전자 주식을 언제쯤 팔아야 할지 고민 중이다.",
+      "이 씨는 “수익률이 수백 %에 달하지만, 팔고 난 뒤 주가가 더 오르면 많이 아쉬울 것 같다”고 했다.",
+      "공무원 김정연(가명·40) 씨는 매일 아침 SK하이닉스 차트를 보며 ‘이제라도 들어가야 하나’ 생각한다."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n83dac971",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "36분 전",
+    "url": "https://www.asiae.co.kr/article/2026050800220498464",
+    "title": "윤병태 \"나주 영산포의 부활…이제 다시 시작\"",
+    "summary": [
+      "윤병태 더불어민주당 나주시장 후보가 영강·영산·이창동을 통합해 '영산포읍'으로 환원할 수 있는 법적 근거를 담은 '지방자치법' 개정안의 국회 본회의 통과에 대해 \"영산포 재도약의 역사적 전환점\"이라고 평가했다.",
+      "윤 후보는 7일 자신의 페이스북을 통해 \"찬란했던 영산포의 번영과 자존을 되찾을 뜻깊은 계기다\"며 \"오랜 시간 영산포읍 전환을 위해 힘을 모아준 주민 여러분께 감사와 축하를 드린다\"고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd5d98314",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/07/2026050717191769963",
-    "title": "슈퍼팀 위력 폭발, '슈퍼스타 사령탑' 이상민 KCC 감독 \"나도 너무 긴장했는데...\" [고양 현장]",
+    "time": "36분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/08/2026050717290613130",
+    "title": "'손흥민 슈팅 0개→풀타임 혹사' 0-4 대패에 변명일색, LAFC 감독 \"품격 지키는 게 남자, 그런데...\"",
     "summary": [
-      "부산KCC가 적지에서 열린 2차전까지 집어삼키며 우승을 향한 7부 능선을 넘었다.",
-      "1차전 승리에 안주하지 않고 화력쇼를 폭발한 KCC는 정규리그 6위 팀 최초의 챔피언결정전 우승이라는 대기록에 한 발짝 더 다가섰다.",
-      "KCC는 7일 오후 7시 고양 소노 아레나에서 열린 2025~2026 LG전자 프로농구 챔피언결정전(7전 4선승제) 2차전 원정 경기에서 고양 소노를 96-78로 제압하고 시리즈 전적 2승 무패를 기록했다."
+      "해발 2670m 멕시코 고지대에서 경기를 치른 손흥민(34·LAFC)이 단 하나의 슈팅도 기록하지 못한 채 최하 평점을 받으며 고개를 숙였다.",
+      "팀은 4골 차 완패를 당하며 결승 진출이 좌절됐지만, 마크 도스 산토스 LAFC 감독은 경기 후 인터뷰에서 패배의 원인보다는 상대 벤치를 비난하는 등 변명 섞인 태도를 보였다.",
+      "LAFC는 7일(한국시간) 멕시코 톨루카의 에스타디오 네메시오 디에스에서 열린 2026 북중미카리브축구연맹(CONCACAF) 챔."
     ],
     "chips": [
-      "#뉴스"
+      "#손흥민"
     ]
   },
   {
-    "id": "nf8ee4de5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/07/GZRTKZRUMMYWINZUHA4DCYZVGE/",
-    "title": "‘지옥의 인천 원정 마지막은 승리’ 12안타 1홈런 폭발한 NC, SSG 10-5 대파…시리즈 스윕 저지 [인천 리뷰]",
-    "summary": [
-      "[OSEN=인천, 길준영 기자] 프로야구 NC 다이노스가 시리즈 스윕패를 저지하며 주중 3연전을 마무리했다.",
-      "NC는 7일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에서 10-5로 승리했다.",
-      "3연전 첫 2경기에서 연장 11회 무승부와 끝내기 패를 당하며 1무 1패를 기록한 NC는 김주원(유격수) 한석."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n901d948d",
+    "id": "nc68e9433",
     "category": "경제",
     "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/economy/2026/05/07/2026050722192570351",
-    "title": "특검, 김관영 전북도지사 내란방조 '혐의없음' 결론",
+    "time": "38분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/08/2026050800045865551",
+    "title": "집에서 쫓겨나 남편 '모텔살이'…아내는 아이들 앞에서 \"개XX\" 폭언",
     "summary": [
-      "김관영 전북도지사가 12·3 비상계엄 관련 내란방조 혐의를 벗었다.",
-      "2차 종합특검은 \"김관영 전북지사의 내란방조 혐의에 대해 '혐의없음'으로 불기소 처분을 했다\"고 7일 밝혔다.",
-      "김 지사는 2024년 12월3일 도청과 도내 8개 시군 청사 출입을 전면 통제·폐쇄하라는 지시를 내리면서 내란을 방조했다는 혐의를 받았다."
+      "아이들 앞에서 남편에게 욕설과 막말을 퍼붓는 '중독부부' 아내의 모습에 출연진이 경악했다.",
+      "7일 방송된 JTBC 예능 프로그램 '이혼숙려캠프'에서는 21기 마지막 부부인 '중독 부부'가 공개됐다.",
+      "이날 방송에서 남편은 아내가 집에서 쫓아내 모텔에서 지내고 있었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nce98f117",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/05/07/CWQJDBNM3VAPNGU2HA6RDDZWNY/",
-    "title": "종합특검, ‘내란 방조 혐의’ 김관영 전북도지사 불기소",
-    "summary": [
-      "종합특검, ‘내란 방조 혐의’ 김관영 전북도지사 불기소."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35826db3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/07/MRQTEMJUGJSTSOJXHE3TCYJVMU/",
-    "title": "덱스, 염정아 과거 사진 보더니...\"우리 누나 미모 살벌한 거 봐라\" 감탄 ('산지직송') [핫피플]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박근희 기자] '언니네 산지직송 in 칼라페’ 배우 염정아의 과거 사진이 공개되자 덱스가 감탄을 금치 못했다.7일 전파를 탄 tvN '언니네 산지직송 in 칼라페'에서는 필리핀의 1만 평 규모 농장을 찾은 멤버들의 수확 미션이 그려졌다.김혜윤은 염정아에게 이시언을 처음 뵙는 거냐고 물었고, 이에 염정아는 “응."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf911827",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://www.asiae.co.kr/article/2026050722191792906",
-    "title": "화성시, 시도78호선 비봉지구 연결 램프 우선 개통…\"비봉교차로 상습 정체 숨통\"",
-    "summary": [
-      "경기 화성특례시가 비봉지구 일대의 상습 교통 정체와 안전 문제를 해소하기 위해 '시도78호선 야목교차로~지방도313호선 접속부 직결 연결 램프 구간'을 지난 4일 오후 4시 우선 개통했다고 7일 밝혔다.",
-      "이번에 개통된 구간은 효행구 비봉면 구포리 일원에 위치한 직결 연결 램프 구간(Ramp-A, 0.5㎞)이다.",
-      "그동안 비봉교차로 일대는 비봉지구 신규 입주에 따른 교통량 증가로 출퇴근 시간대 상습 정체가 발생해 왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n71ee6025",
+    "id": "na179a75f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260507_0003620974",
-    "title": "미 민주 상원의원들, 이스라엘의 '허울좋은' 공격 사전통보 비판…'불법'",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260507_0003621021",
+    "title": "WHO \"크루즈선 한타바이러스 8건 확인\"…각국 추적 비상",
     "summary": [
-      "[베이루트(레바논)=AP/뉴시스] 김재영 기자 = 미국 민주당 소속의 상원의원 12명은 중부군사령부에 이스라엘이 레바논 공격 시 활용하고 있는 '철수가 꼭 필요한 지대 통보 및 대피 요구'와 관련하여 미국이 이 일방적 선언을 이스라엘과 사전 조율하고 또 이란 공격에도 적용하고 있는지 여부를 묻고 답변을 요구했다.",
-      "그러면서 질의 서한에 서명한 의원들은 이 같은 관행은 공격 사전 통보라는 미명 아래 불법 공격을 정당화하는 행위이며 나아가 국제법 위."
+      "[서울=뉴시스]박미선 기자 = 세계보건기구(WHO)가 7일(현지 시간) 크루즈선 'MV 혼디우스'과 관련해 확진 3건, 의심 5건 등 총 8건의 감염 사례가 확인됐다고 밝혔다.",
+      "각국 보건당국은 감염 확산을 막기 위해 접촉자 추적과 대응에 나서고 있다.",
+      "CNN에 따르면 선박 운항사 오션와이드 익스페디션은 중증 환자 2명이 선박에서 긴급 후송돼 네덜란드에서 치료를 받고 있다고 전했다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "nd908b4ac",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260507186800007",
-    "title": "가뿐한 2연승 이끈 KCC 이상민 감독 \"이제 홈에서 축배 들겠다\"",
-    "summary": [
-      "(고양=연합뉴스) 오명언 기자 = \"두 경기에서 이겼으니 이제 홈에서 축배를 들 수 있게 하겠습니다.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba2b6399",
+    "id": "na7fbfffd",
     "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260508000400109",
+    "title": "멜로니, 오르반 꺾은 헝가리 차기 총리와 회동…\"양국관계 견고\"",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 조르자 멜로니 이탈리아 총리가 7일(현지시간) 헝가리 차기 총리인 머저르 페테르 티서당 대표와 만나 현안에 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n06b4bf61",
+    "category": "경제",
     "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260507_0003620980",
-    "title": "광주시의회 \"5·18 헌법 수록 개헌안 무산 국힘 규탄\"",
+    "time": "43분 전",
+    "url": "https://www.newsis.com/view/NISX20260507_0003619434",
+    "title": "\"트레이너와 낯 뜨거운 대화\"…외도 숨기려 '세컨폰' 쓴 아내와 이혼하려면",
     "summary": [
-      "[광주=뉴시스] 송창헌 기자 = 더불어민주당 소속 광주시의원들은 7일 \"5·18 헌법 전문 수록 개헌안을 무산시킨 국민의힘의 반역사적, 반민주적 만행에 140만 시민의 이름으로 강력히 규탄한다\"고 밝혔다.",
-      "민주당 의원들은 성명을 통해 5·18 정신을 헌법 전문에 수록하기 위한 헌법 개정안 발의 투표에 국힘 의원들이 집단 불참한데 대해 \"민주주의의 숭고한 역사를 헌법에 새기고자 했던 국민적 열망을 무참히 짓밟았다\"며 이같이 비판했다."
+      "[서울=뉴시스]김수빈 인턴 기자 = 아내가 동네 헬스 트레이너와의 외도와 주식 투자로 인한 손실을 숨기기 위해 휴대폰 두 개를 사용하고 있었다는 사연이 전해졌다.",
+      "7일 YTN 라디오 '조인섭 변호사의 상담소'에는 7살 아이를 둔 결혼 8년 차 남성 A씨의 사연이 올라왔다.",
+      "A씨는 현재 방송사 카메라 감독으로 일하고 있으며, 아내는 프리랜서 번역가로 재택근무를 하고 있다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79b86a78",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260507186400109",
-    "title": "\"우크라 종전 협상 대표, 마이애미서 美대표와 회동\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 우크라이나 종전 협상단 대표가 미국 대표단을 만나기 위해 마이애미에 도착했다고 AP통신이 현지 소식통을 인용..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na3a44a91",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/07/2026050721270717834",
-    "title": "'키움에 싹쓸이 설욕' 박진만 대만족 \"원태인, 에이스 모습으로 돌아왔다! 최고였다→제구 운영 모두\"",
-    "summary": [
-      "삼성 라이온즈가 안방에서 지난 4월 3연전 스윕의 굴욕을 완벽하게 되갚아주며 4연승의 신바람을 냈다.",
-      "박진만(50) 삼성 감독 역시 7이닝 무실점으로 잘 던진 시즌 첫 승을 거둔 원태인(26)을 향해 엄지를 치켜세웠다.",
-      "삼성은 2일 대구 삼성라이온즈파크에서 열린 '2026 신한 SOL KBO리그' 키움 히어로즈와의 주중 3연전 마지막 경기에서 6-0으로 승리했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n6caf44f3",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260507179900007",
-    "title": "[프로야구] 8일 선발투수",
-    "summary": [
-      "[프로야구] 8일 선발투수."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nfacba904",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260507179800007",
-    "title": "[프로야구 중간순위] 7일",
-    "summary": [
-      "[프로야구 중간순위] 7일."
-    ],
-    "chips": [
-      "#KBO"
+      "#정치"
     ]
   }
 ];
@@ -646,20 +649,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
