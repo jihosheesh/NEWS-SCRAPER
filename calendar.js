@@ -4,45 +4,39 @@ function getKwScores() {
   catch { return {}; }
 }
 
-// ---------- 이슈 더미 데이터 (날짜별) ----------
-// 실제로는 AI가 각 날짜의 기사를 분석해서 이슈 단위로 묶어주는 데이터
-const issueData = {
-  '2026-04-01': [
-    { category: 'IT', title: 'MS, OpenAI와 추가 투자 협상', summary: '클라우드 독점 공급 연장을 두고 100억 달러 규모의 추가 투자를 논의 중. GPT-5 학습 인프라 확보가 핵심 쟁점.', chips: ['#AI', '#MS', '#OpenAI'] },
-    { category: '경제', title: '美 3월 CPI 3.1% 상승', summary: '예상치 상회. 연준 6월 금리 인하 기대감 후퇴. 달러 강세로 원/달러 환율 급등.', chips: ['#금리', '#환율', '#미국경제'] }
-  ],
-  '2026-04-05': [
-    { category: '부동산', title: '서울 전셋값 9주 연속 상승', summary: '강남 3구 중심으로 상승폭 확대. 입주 물량 감소가 주요 원인으로 분석.', chips: ['#부동산', '#전세'] }
-  ],
-  '2026-04-08': [
-    { category: 'IT', title: '엔비디아 차기 GPU "루빈" 공개', summary: 'HBM4 채택 확정, TSMC 2nm 공정으로 제조. 2026년 4분기 양산 예정.', chips: ['#반도체', '#엔비디아', '#HBM4'] },
-    { category: '스포츠', title: '손흥민, 시즌 20호골 달성', summary: '프리미어리그 득점 순위 3위로 올라섰고, 토트넘의 챔피언스리그 진출 가능성을 높임.', chips: ['#손흥민', '#EPL'] }
-  ],
-  '2026-04-10': [
-    { category: '사회', title: 'AI 기본법 국회 본회의 통과', summary: '생성형 AI 표시 의무, 고위험 AI 영향평가 도입. 2027년 1월 시행 예정.', chips: ['#AI규제', '#정책'] }
-  ],
-  '2026-04-12': [
-    { category: '경제', title: '삼성전자, 1분기 영업이익 9.3조', summary: 'HBM 매출 호조로 어닝 서프라이즈. 반도체 부문이 전체 영업이익의 70% 차지.', chips: ['#삼성전자', '#반도체', '#실적'] }
-  ],
-  '2026-04-15': [
-    { category: 'IT', title: 'OpenAI, GPT-5 출시 임박', summary: '6월 공개 예정. 추론 능력 2배 향상, 에이전트 기능 전면 강화.', chips: ['#AI', '#OpenAI', '#GPT5'] },
-    { category: '경제', title: 'SK하이닉스 HBM4 양산 돌입', summary: '엔비디아 단독 공급 유력. 2026년 HBM 시장 점유율 60% 돌파 전망.', chips: ['#반도체', '#HBM4'] },
-    { category: '부동산', title: '서울 전셋값 10주 연속 상승', summary: '공급 부족 지속. 하반기 추가 상승 예상.', chips: ['#부동산', '#전세'] }
-  ],
-  '2026-04-18': [
-    { category: '사회', title: '전국 교사 1만 명 집회', summary: '교권 보호 강화 법안 통과 촉구. 교육부 후속 대책 발표 예정.', chips: ['#교육', '#사회'] }
-  ],
-  '2026-04-22': [
-    { category: 'IT', title: 'Apple, AI 탑재 M5 칩 발표', summary: '신경망 엔진 성능 3배 향상. 맥북 프로 신제품에 먼저 탑재.', chips: ['#AI', '#Apple', '#M5'] }
-  ],
-  '2026-04-25': [
-    { category: '경제', title: '한은 기준금리 2.75% 동결', summary: '5회 연속 동결. 물가 안정세 확인 후 인하 시점 저울질.', chips: ['#금리', '#한은'] },
-    { category: '스포츠', title: 'KBO 개막 3연전 전석 매진', summary: '야구 열기 재점화. 2026 시즌 총 관중 1,000만 돌파 기대.', chips: ['#KBO', '#야구'] }
-  ]
-};
+// ---------- 이슈 데이터 — NEWS_DB에서 동적 생성 ----------
+function relTimeToDate(timeStr) {
+  const now = new Date();
+  if (!timeStr || timeStr === '방금 전') return new Date(now);
+  const m = timeStr.match(/(\d+)분 전/);   if (m) { const d = new Date(now); d.setMinutes(d.getMinutes() - +m[1]); return d; }
+  const h = timeStr.match(/(\d+)시간 전/); if (h) { const d = new Date(now); d.setHours(d.getHours() - +h[1]);     return d; }
+  const dy = timeStr.match(/(\d+)일 전/);  if (dy){ const d = new Date(now); d.setDate(d.getDate() - +dy[1]);       return d; }
+  return new Date(now);
+}
+
+function buildIssueData() {
+  const result = {};
+  (window.NEWS_DB || []).forEach(article => {
+    const date = relTimeToDate(article.time);
+    const key  = `${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}-${String(date.getDate()).padStart(2,'0')}`;
+    if (!result[key]) result[key] = [];
+    const summary = Array.isArray(article.summary) ? article.summary[0] || '' : article.summary || '';
+    result[key].push({
+      category: article.category || '기타',
+      title:    article.title,
+      summary,
+      chips:    article.chips || [],
+      url:      article.url || '',
+    });
+  });
+  return result;
+}
+
+const issueData = buildIssueData();
 
 // ---------- 상태 ----------
-let viewDate = new Date(2026, 3, 1); // 2026년 4월
+const _now = new Date();
+let viewDate = new Date(_now.getFullYear(), _now.getMonth(), 1); // 현재 월
 let activeFilter = 'all';
 
 const CATEGORIES = ['all', 'IT', '경제', '사회', '부동산', '스포츠'];
@@ -83,7 +77,8 @@ function renderGrid() {
   const lastDate = new Date(year, month + 1, 0).getDate();
   const startDow = new Date(year, month, 1).getDay();
   const DOW_KO  = ['일','월','화','수','목','금','토'];
-  const TODAY   = '2026-04-15';
+  const _t = new Date();
+  const TODAY = `${_t.getFullYear()}-${String(_t.getMonth()+1).padStart(2,'0')}-${String(_t.getDate()).padStart(2,'0')}`;
 
   // 주차 배열 계산 (일~토 기준)
   const weeks = [];
@@ -151,7 +146,7 @@ function renderGrid() {
                   <span class="week-cat cat-${issue.category}">${issue.category}</span>
                   <div class="week-chips">${chips}</div>
                 </div>
-                <div class="week-issue-title">${issue.title}</div>
+                <div class="week-issue-title">${issue.url ? `<a href="${issue.url}" target="_blank" rel="noopener">${issue.title}</a>` : issue.title}</div>
                 <div class="week-issue-summary">${issue.summary}</div>
               </div>`;
       });
