@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-08 15:13:42
+// 마지막 업데이트: 2026-05-08 17:01:36
 window.NEWS_DB = [
   {
     "id": "n971123d8",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TdkVTajdfQXVybE1tWGNMTk5paGtlRDl5TUlYSmwwSnFXQjI3Um5ZSnF0ejM5bUJuUTc4RkNlNkZ5a1lHQW9jbzhJd2NOQ1J2bHgtbTZFd0RSVDMzMEEtQkFsV3J5d2F1a0pFbE5OMy14Tms?oc=5",
     "title": "블룸버그 \"중국 알리바바도 엔비디아 밀반입 반도체 고객\", 태국 통해 우회 의혹",
     "summary": [
@@ -17,10 +17,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n95b263ad",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1doR2E2QXpoZFZPY21qZ0tpZnAyak91UTliNzhJaDIyaGhOR2E5cllLaE9EbUZZMkF0Vm02V05VaW1lclVQbWNCWkJ6Si1famtjeDhDcmJ3c25yN2RIRzc1YWd5UjhfamZxaGN1b01ZTGhhbFVzU3ZUNnI2dWF4dEo3N3UzVkY0RW43OGhVMm01UjYtaTFDZUdiQ1lGQdIBsgFBVV95cUxOakhaODdaOFh4Ynp0ZVpub1AxY0RsV0hMOTlINW94YlhpT0N1Q0dULUNRTlZKMzI4dUg1anhqNTdEZnhjVkFNQTVoZTEwd2tkM2ZjcUt6bHlhdnlZeXZWOVd6TlZFXy1nMDI2LWd6dWliS2JYazBtY3JOVXBaejVmbWcyOE5NcUJVMkpQWVN4MUpSUEtVMTBMSWd4X0MtbWVUdkFrRE03RVE1dVFsNXJiZjNR?oc=5",
+    "title": "[줌인] 中에 최신칩 안 준다는 젠슨 황… 엔비디아, 對中 AI 반도체 전략 우왕좌왕 - 조선비즈",
+    "summary": [
+      "[줌인] 中에 최신칩 안 준다는 젠슨 황… 엔비디아, 對中 AI 반도체 전략 우왕좌왕 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n8b4fd239",
     "category": "IT",
     "source": "인포스탁데일리",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MbVA5OVRtTGZiVTU5T3NSbjVYeF9iN1NpM3VWMnZrUzR2T04yOEJVYnBhNTJUWTREemJBWVdyMXFCcl9jQ0dQbWhiWHN2WlJlM0kyRFZoUDFYaWFpbnU4anFOSXZOZjFFbUphWlBVbUFHRTRVRnc?oc=5",
     "title": "엔비디아-IREN 파트너십 훈풍, 국내 전력 설비 테마 웃었다",
     "summary": [
@@ -31,11 +47,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd59c4f15",
+    "id": "n27559d73",
     "category": "IT",
     "source": "v.daum.net",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xNkNaVmtQelhxVHZkaWdFaFhmTURTRkp1QkV6UFhuUko0TUNnbXQ3N0E5ZGFOSFdNR0xjSzFOT1I1ZFlKYzJOSDJSdmhkYXM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OVXI3b1ExUEptMG9ldGgtZGNEclUyT1FaOGxKZUtpVnJPUWFiNkxvZExqX3U3cTdPNS1aS2RFVHlOVHRkZ2c?oc=5",
     "title": "삼성전자 50만원·SK하이닉스 300만원…증권가 눈높이 더 높아졌다",
     "summary": [
       "삼성전자 50만원·SK하이닉스 300만원…증권가 눈높이 더 높아졌다 v.daum.net."
@@ -57,22 +73,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n75e90822",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTVQa1VsbjZ6TW1vSTJ5ek1sSXVYX1hPNE5xaG90TGM1a1FXU2tqVVhkdk1NdFMxaTFHZFFQTEh5NEhTYmRaN1poT0pFTFVhRG92OUhZTEVTN0pyMU9KSTFtQ19FTnY3WUo2X3o5cnREYkw5eDBjXzM0NzJVOUhVcjVQdw?oc=5",
-    "title": "엔비디아 빈자리 화웨이가 채운다...반도체부터 AI 모델까지 자립 강화",
-    "summary": [
-      "엔비디아 빈자리 화웨이가 채운다...반도체부터 AI 모델까지 자립 강화 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -330,10 +330,56 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n60d7edc8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260508_0003621729",
+    "title": "부산시설공단, 시민참여 SNS 이벤트…5월의 순간을 담다",
+    "summary": [
+      "[부산=뉴시스]김민지 기자 = 부산시설공단은 31일까지 사회관계망서비스(SNS)를 통한 시민참여 이벤트 '5월의 순간을 담다'를 운영한다고 9일 밝혔다.",
+      "참여 희망자는 공단이 운영하는 공원, 터미널 등에서 진행되는 문화 행사 현장을 찾아 사진을 찍은 뒤 개인 SNS에 지정된 해시태그와 게시하면 된다.",
+      "이후 이를 공단 공식 인스타그램 또는 페이스북 메시지를 통해 인터넷 주소(URL)을 제출하면 참가 완료다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbf47e17c",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/05/09/GQZTQODEHE4TGOLEGYZGEM3EHE/",
+    "title": "\"군대에 상금 17억 기부한대!\" 우크라 테니스 영웅, 소문에 입 열었다...알고 보니 '가짜 뉴스' \"난 그런 발언한 적 없다\"",
+    "summary": [
+      "[OSEN=고성환 기자] '우크라이나 테니스 영웅' 마르타 코스튜크(24)가 가라앉지 않는 가짜 뉴스에 입을 열었다.'스포츠 키다'는 7일(이하 한국시간) \"코스튜크가 118만 달러(약 17억 3400만 원)가 넘는 마드리드 오픈 상금을 전액 기부할 것이란 허위 정보가 퍼진 뒤 직접 경고 메시지를 전했다\"라고 보도했다.2002년생 코스튜크는 지난 3일 스페."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7eacf597",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/09/2026050900514251637",
+    "title": "'와' 쳤다 하면 홈런-홈런-홈런-홈런! KBO 최초 역사였다! 7300만원 KIA 단기 알바, 15억원 ML 외인 쫓아내나",
+    "summary": [
+      "쳤다 하면 홈런인 게 심상치 않다 했다.",
+      "KIA 타이거즈 외국인 타자 아데를린 로드리게스(35)가 KBO 리그 입성 4일 만에 역사에 이름을 남겼다.",
+      "아데를린은 8일 부산 사직야구장에서 열린 2026 신한 SOL KBO리그 정규시즌 롯데 자이언츠와 방문경기에서 5번 및 지명타자로 선발 출장해 5타수 1안타(1홈런) 3타점 1득점으로 KIA의 8-2 승리를 이끌었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nb59cace6",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "18분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151698",
     "title": "[카드뉴스] LG CNS가 만드는 다음 시대는 '로봇 전환(RX)'.. 휴머노이드와 피지컬 AI에 집중하는 이유",
     "summary": [
@@ -349,7 +395,7 @@ window.NEWS_DB = [
     "id": "n8358d4b4",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "18분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151699",
     "title": "정부, 가상자산 과세 의지 굳건...야당·업계선 \"시장 위축될라\" 우려",
     "summary": [
@@ -362,273 +408,226 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n805a695d",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151696",
-    "title": "창사 첫 분기매출 1000억 달성한 헥토이노베이션...핀테크·헬스케어 성장 통했다",
-    "summary": [
-      "헥토이노베이션이 전 사업 부문의 고른 성장세에 힘입어 창사 첫 분기매출 1000억원을 달성했다.",
-      "IT 서비스와 핀테크, 헬스케어 사업이 안정적인 성장을 기록하며 외형 확대와 수익성 개선을 함께 이뤄냈다는 평가다.",
-      "헥토이노베이션은 올해 1분기 매출액이 1123억원을 기록해 전년 동기 대비 25.4% 증가했다고 8일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n45f10a8d",
+    "id": "n19ea297d",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260508_0003622542",
-    "title": "'장찬희 데뷔 첫 선발승' 삼성, NC 꺾고 5연승 질주…SSG, '김재환 더비' 승리(종합)",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260509/133889381/2",
+    "title": "‘빛고을 더비’ 명품 투수전 끝에 광주일고 16강 진출",
     "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 삼성 라이온즈가 '슈퍼 루키' 장찬희의 호투를 앞세워 5연승을 내달렸다.",
-      "삼성은 8일 창원 NC파크에서 펼쳐진 2026 신한 쏠 KBO리그 NC 다이노스와의 경기에서 4-3으로 승리를 거뒀다.",
-      "5연승을 질주한 삼성은 19승 1무 14패를 기록해 역시 이날 승리를 거둔 SSG 랜더스와 공동 3위를 유지했다."
+      "광주제일고가 ‘명품 투수전’ 끝에 지역 라이벌 광주진흥고를 꺾고 황금사자기 16강에 안착했다.",
+      "광주제일고는 8일 서울 목동야구장에서 열린 제80회 황금사자기 전국고교야구대회 겸 주말리그 왕중왕전 2회전에서 이후찬-윤수형-박찬민 등 3명의 투수가 2-0 영봉승을 합작했다.",
+      "선발투수 이후찬이 2이닝을, 두 번째 투수 윤수형이 4와 3분의 1이닝을 무실점으로 막은 가운데 ‘에이스’ 박찬민이 1-0으로 앞선 7회초 1사 주자 없는 상황에서 마운드에 올."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n2247b0c7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260508_0003622573",
-    "title": "박정민·문가영·현빈·박보영, 나란히 최우수 연기상 수상",
-    "summary": [
-      "[서울=뉴시스]강주희 기자 = 배우 박정민이 올해 백상예술대상에서 남자 최우수 연기상을 수상하며 '무관의 제왕'에서 벗어났다.",
-      "8일 서울 강남구 코엑스에서 열린 제62회 백상예술대상 시상식에서 박정민은 영화 부문 최우수 연기상을 받았다.",
-      "박정민은 \"'얼굴'에서 1인 2역을 했다\"며 \"앉아서 상 받으면 뭐라고 할까 이야기를 했었는데 당연히 받을 줄 모르고 와서 아무것도 준비된 게 없다\"고 말문을 열었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n517ac7ee",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260508_0003621212",
-    "title": "\"45세 맞아?\"…11㎏ 감량 신봉선, 슬림한 몸매 과시",
-    "summary": [
-      "[서울=뉴시스]정우영 인턴 기자 = 코미디언 신봉선(45)이 다이어트 후 근황을 전했다.",
-      "최근 신봉선은 자신의 인스타그램 스토리에 \"마법의 거울 앞에서\"라는 짧은 멘트와 함께 헬스장에서 찍은 거울샷을 올렸다.",
-      "사진에서 신봉선은 남색 쇼츠 레깅스와 검은색 민소매 티셔츠를 입고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb5ae9f12",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260508_0003621184",
-    "title": "\"10년 동안 8억 보냈는데 '돈 버는 기계' 취급\"…'기러기 아빠'의 이혼 결심",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 오랫동안 '기러기 아빠'로 지냈지만 돈 버는 기계 취급을 받자 이혼을 결심한 남편의 사연이 전해졌다.",
-      "8일 YTN 라디오 '조인섭 변호사의 상담소'는 50대 가장 A씨의 사연을 소개했다.",
-      "A씨는 딸과 아내가 미국으로 유학을 떠나면서 10년 넘게 기러기 아빠로 생활했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nedca07b1",
+    "id": "nd81d4322",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/09/MUYWMY3GGM3DKZBQG5RTENTEHE/",
-    "title": "슈퍼스타 손흥민도 해발 2670m의 악명 높은 고지대에서는 속수무책이었다",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260509/133889378/2",
+    "title": "남녀복식 모두 일본이 휩쓸었다",
     "summary": [
-      "[OSEN=서정환 기자] LAFC 에이스 손흥민(34, LAFC)이 단 한 번의 슈팅도 기록하지 못한 채 침묵했다.LAFC는 7일(한국시간) 멕시코 톨루카의 에스타디오 네메시오 디에스에서 열린 2026 CONCACAF 챔피언스컵 준결승 2차전에서 데포르티보 톨루카에 0-4로 대패했다.",
-      "1차전 2-1 승리를 지키지 못한 LAFC는 합산스코어 2-5로 역전 탈."
+      "‘전국대회’가 ‘국제대회’로 발돋움하려면 외국 선수(팀)가 우승을 차지하는 데 익숙해져야 한다.",
+      "한국 소프트테니스(정구) 최고 권위를 자랑하는 동아일보기 전국소프트테니스대회는 이 단계를 지나고 있다.",
+      "일본 실업팀 와타큐에서 뛰는 호시노 유지(29)-기타노 아쓰키(24) 조는 8일 경북 문경국제소프트테니스장에서 열린 제104회 동아일보기 대회 일반부 남자 복식 결승전에서 문경시청의 김기효(35)-문대용(33) 조를 풀세트 접전 끝에 4-3으로 이."
     ],
     "chips": [
-      "#손흥민"
+      "#고용"
     ]
   },
   {
-    "id": "n5bdc6b89",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/05/09/GQ2DKZLEGUYGKMJQGQ2WMOBZGM/",
-    "title": "'中 몰래귀화' 린샤오쥔, “중국 선택 후회 없다?” SNS 발언에 현지 반응 폭발",
-    "summary": [
-      "[OSEN=우충원 기자] 린샤오쥔(임효준)이 다시 한번 자신의 과거와 현재를 돌아봤다.",
-      "한국을 떠나 중국 국가대표로 새 출발한 뒤 숱한 논란과 시선을 견뎌낸 그는 “고통이 오히려 자신을 더 강하게 만들었다”고 강조했다.린샤오쥔은 지난 7일 자신의 SNS를 통해 장문의 중국어 메시지를 공개했다.그는 “내 경력은 극심한 어려움으로 가득했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3fafff19",
+    "id": "nf4a127ac",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/09/GAYDEZBXGRSGENZVMJRTQOBQHA/",
-    "title": "안효섭,’레드카펫 밟는 진우’ [O! STAR 숏폼]",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260509/133889376/2",
+    "title": "김문환 “윙백의 역습 침투, 내 주특기”",
     "summary": [
-      "[OSEN=이대선 기자] 8일 오후 서울 삼성동 코엑스에서 ‘제62회 백상예술대상’ 시상식이 진행됐다.여덟 번째 호흡을 맞추는 3명의 MC 신동엽·수지·박보검이 올해도 시상식 진행을 맡았다.",
-      "영화 부문에선 ‘왕과 사는 남자’(감독 장항준)와 ‘어쩔수가없다’(감독 박찬욱)가 치열하게 경쟁을 벌이고, 방송 부문에서도 여러 쟁쟁한 후보들이 수상 여부를 두고 각."
+      "“나도 언젠가 저 무대에 설 수 있을까?” 독일에서 열린 2006 국제축구연맹(FIFA) 월드컵을 TV로 지켜보던 11세 축구 소년 김문환(31·대전·사진)의 꿈은 16년 뒤 현실이 됐다.",
+      "김문환은 2022 카타르 월드컵에서 한국이 치른 모든 경기에서 풀타임을 소화하며 16강 진출에 힘을 보탰다.",
+      "하지만 인생 첫 월드컵을 마친 뒤에도 그의 마음속엔 ‘아직 보여줄 것이 많다’는 아쉬움이 남아 있었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na79f796c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260509000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4296b6ad",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/05/09/MJ664JS6JJHTLLIMAUJW3UKA3M/",
-    "title": "[사설] ‘송전선은 기피 시설 아닌 지역 경제 탯줄’ 인식 전환을",
-    "summary": [
-      "[사설] ‘송전선은 기피 시설 아닌 지역 경제 탯줄’ 인식 전환을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1e8f9426",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260508176900071",
-    "title": "트럼프, 이란전쟁 와중 '5월 8일은 2차대전 승전일' 다시 선포",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령이 나치 독일의 항복일인 5월 8일을 '2차대전 승전기념일'로 재차 선포했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7785207f",
+    "id": "n92e1b834",
     "category": "사회",
     "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260508/133889908/2",
-    "title": "동대문구서 셔틀버스 전신주 충돌…운전자 “감기약 먹었다”",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/People/article/all/20260509/133889405/2",
+    "title": "“러브버그 올해도 대발생 가능성… 전쟁 시작”",
     "summary": [
-      "8일 오후 서울 동대문구에서 체육센터 셔틀버스가 전신주를 들이받아 5명이 경상을 입고 병원으로 옮겨졌다.",
-      "셔틀버스 운전자는 한 달 동안 감기약을 복용하고 있었다는 취지로 진술한 것으로 알려졌다.이날 오후 5시 10분경 동대문구 장안동의 한 도로에서 셔틀버스가 전신주를 들이받았다.",
-      "셔틀버스에는 어린이 13명을 포함해 30여 명이 탑승하고 있었던 것으로 조사됐다.이 사고로 5명이 병원으로 옮겨진 것으로 파악됐다."
+      "올해도 지난해처럼 대발생할 가능성이 충분합니다.” 6일 오전 인천 계양산 중턱에서 김동건 삼육대 환경생태연구소장이 바닥의 낙엽을 걷어내자 시커먼 애벌레 수십 마리가 한꺼번에 모습을 드러냈다.",
+      "여름철 수도권 곳곳을 뒤덮으며 시민 불편을 키우는 ‘러브버그’(붉은등우단털파리) 유충이었다.",
+      "서울시와 인천시는 6, 7일에 걸쳐 도심 산 일대에 러브버그 친환경 방제 작업을 실시했다고 8일 밝혔다."
     ],
     "chips": [
-      "#의료"
+      "#환경"
     ]
   },
   {
-    "id": "n7f3332c7",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260508177000072",
-    "title": "고유가 부담에 美 소비자심리 또 역대 최저",
+    "id": "n175ee384",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/sports/volleyball/2026/05/09/MZRTOYJXHAZWGYLBGE4WGOBZMU/",
+    "title": "\"범실 많았다\" 日 명장이 바라본 IBK기업은행 현실…지옥 훈련 예고? \"공과 사는 구분하면서\"",
     "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 5월 미국 소비자들의 경제 심리가 중동 긴장에 따른 유가 상승과 인플레이션 우려로 또 다시 사상 최저 수준으..."
+      "[스포츠조선 이종서 기자] \"범실이 너무 많았다.\" IBK기업은행은 2025~2026시즌 봄 배구 진출에 탈락한 뒤 일본 여자 대표팀 감독 출신 마나베 마사요시 감독을 신임 감독으로 선임했다.",
+      "2026 프로배구 트라이아웃이 열린 체코 프라하.",
+      "6명의 여자부 감독이 한 명도 빠짐없이 첫날 메디컬 테스트부터 경기장을 찾았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc81445c4",
+    "id": "n28ecadc2",
     "category": "사회",
     "source": "연합뉴스",
     "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260508176300001",
-    "title": "국힘 '정진석 불출마' 공주·부여·청양 보선 3인 경선",
+    "url": "https://www.yna.co.kr/view/AKR20260509002000071",
+    "title": "美버지니아주 대법, 선거구 개편안에 제동…민주당 타격",
     "summary": [
-      "(서울=연합뉴스) 김연정 이율립 기자 = 국민의힘은 8일 정진석 전 대통령 비서실장이 불출마를 선언한 충남 공주·부여·청양 보궐선거 후보 선출을..."
+      "(워싱턴=연합뉴스) 조준형 특파원 = 미국 버지니아주 대법원은 8일(현지시간) 민주당에 유리하게 만들어진 버지니아주 연방 하원 선거구 재획정안을..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n3ef26f2f",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260508176200098",
-    "title": "EU \"항공권 이미 구입한 승객에 유류할증료 추가 안돼\"",
+    "id": "n80917405",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "33분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/09/2026050901254220663",
+    "title": "아폴로 달착륙 때 미확인 물체 포착…미 정부, UFO 기밀자료 공개",
     "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 중동 전쟁으로 인한 에너지 가격 급등과 항공유 부족 사태로 유럽 항공사들이 타격을 입고 있지만, 이를 구실..."
+      "미국 정부가 8일(현지시간) '미확인 비행물체(UFO) 파일'을 대거 공개했다.",
+      "다만 UFO의 존재를 공식 확인한 것이 아니라 존재 여부를 최종적으로 판단할 수 없는 자료다.",
+      "미 국방부(전쟁부)는 이날 홈페이지에 '미확인 이상현상'(UAP·Unidentified Anomalous Phenomena) 관련 파일 161건과 사진 자료를 게시했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb3c873db",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260509001900082",
+    "title": "독일 가정폭력범도 전자발찌 채운다",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 독일 당국이 여성 상대 폭력을 줄이기 위해 가정폭력 사범에도 위치추적 전자발찌를 채우기로 했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n48e2cfe0",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260508175800001",
-    "title": "김용범 \"반도체 호황에 역대급 세수 예고…재정정책 유연해야\"",
-    "summary": [
-      "(서울=연합뉴스) 설승은 기자 = 김용범 청와대 정책실장은 8일 반도체 사이클로 향후 2년간 역대급 초과 세수가 예상된다면서 세입 추계 등 재정..."
-    ],
-    "chips": [
-      "#반도체",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n5650d8fd",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "43분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260508/133889449/2",
-    "title": "[사설]美 법원 트럼프 관세 또 제동… 더 거친 ‘301조 보복’ 대비해야",
-    "summary": [
-      "도널드 트럼프 정부가 올해 2월 미국 연방대법원으로부터 위법 판결을 받은 상호관세를 대체하기 위해 동원했던 ‘10% 글로벌 관세’가 다시 법원의 무효 판결을 받았다.",
-      "다만 판결이 적용되는 범위가 적고, 미국 정부도 1심 판단에 항소할 방침이어서 당장 우리 수출기업에 미치는 영향은 크지 않다.",
-      "오히려 ‘무역법 301’조를 근거로 따로 진행 중인 미국의 보복관세 위협이 더 거칠어질 가능성이 적지 않다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "neb545b4d",
+    "id": "n116112c4",
     "category": "사회",
-    "source": "동아일보",
-    "time": "46분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260508/133889453/2",
-    "title": "[사설]디올백 종결 전 尹-권익위 간부 만남… ‘여사권익위’였나",
+    "source": "뉴시스",
+    "time": "42분 전",
+    "url": "https://www.newsis.com/view/NISX20260508_0003622543",
+    "title": "백상예술대상에 '왕사남' 유해진·'김부장' 류승룡(종합)",
     "summary": [
-      "국민권익위원회 정상화 추진 태스크포스(TF)가 2024년 김건희 여사의 ‘디올백’ 수수 사건 조사 과정에서 정승윤 당시 부위원장 겸 사무처장과 윤석열 전 대통령이 용산 관저에서 만난 사실을 확인했다고 8일 발표했다.",
-      "권익위가 그해 6월 ‘청탁금지법 위반 사항 없음’으로 결론짓기 3개월 전이다.",
-      "정 전 부위원장은 당시 사건 처리를 지연하고, 권익위의 전원위원회 회의 전 이 사건을 종결하기로 미리 결론을 내렸다고 한다."
+      "[서울=뉴시스]강주희 기자 = 올해 백상예술대상의 영예는 배우 유해진과 류승룡에게 돌아갔다.",
+      "8일 서울 강남구 코엑스에서 열린 제62회 백상예술대상 시상식에서 유해진은 영화 '왕과 사는 남자'로 영화 부문 대상을, 류승룡은 JTBC 드라마 '서울 자가에 대기업 다니는 김부장 이야기' 방송 부문 대상을 각각 거머쥐었다.",
+      "단종의 유배 생활을 그린 영화 '왕과 사는 남자'는 누적 관객 수 1680만명을 돌파하며 역대 관객 수 위에 오른 작품이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3944b8dd",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "44분 전",
+    "url": "https://www.hankyung.com/article/202605095219H",
+    "title": "[포토+] 임윤아, '블랙을 입어도 빛이 나~' (백상예술대상)",
+    "summary": [
+      "[포토+] 임윤아, '블랙을 입어도 빛이 나~' (백상예술대상)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbf787b54",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "45분 전",
+    "url": "https://www.hankyung.com/article/202605095218H",
+    "title": "[포토+] 손예진, '할 말을 잃게 만드는 예쁨' (백상예술대상)",
+    "summary": [
+      "[포토+] 손예진, '할 말을 잃게 만드는 예쁨' (백상예술대상)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc23fba9",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "46분 전",
+    "url": "https://www.hankyung.com/article/202605095217H",
+    "title": "[포토+] 명세빈, '세월이 흘러도 변함없는 아름다움' (백상예술대상)",
+    "summary": [
+      "[포토+] 명세빈, '세월이 흘러도 변함없는 아름다움' (백상예술대상)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n54e407c5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/202605095216H",
+    "title": "[포토+] 전미도, '우아함 물씬~' (백상예술대상)",
+    "summary": [
+      "[포토+] 전미도, '우아함 물씬~' (백상예술대상)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d66eb47",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "50분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/09/2026050821261861312",
+    "title": "'무려 2년 반' 모델과 불륜 인정한 '역대 최강' 테니스 스타, 현역 은퇴 선언→아내 언급 \"항상 곁에서 지켜줬는데...\"",
+    "summary": [
+      "일본 역대 최고의 테니스 스타가 파란만장했던 20년 프로 생활을 뒤로하고 라켓을 내려놓는다.",
+      "불륜 스캔들로 일본 열도를 충격에 빠뜨렸던 니시코리 게이(36)가 1년 만에 은퇴를 선언했다.",
+      "일본 매체 '포스트세븐'은 9일 \"니시코리가 558위까지 급락한 세계 랭킹과 만신창이가 된 몸 상태를 이기지 못하고 마지막 결단을 내렸다\"며 \"그는 2026시즌을 끝으로 현역 은퇴를 선언했다\"고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d97cc13",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "52분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260508141051085",
+    "title": "영국 지방선거에서 우익당 돌풍…집권 노동당 참패(종합)",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국 지방선거에서 우익 성향 신생 정당 영국개혁당이 돌풍을 일으키고 키어 스타머 총리가 이끄는 중도좌파 집권..."
     ],
     "chips": [
       "#정치"
@@ -641,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "고용",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
