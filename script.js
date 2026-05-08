@@ -83,6 +83,17 @@ function bumpKeywordScores(chips, delta) {
 
 let interests = loadInterests();
 
+// ---------- 키워드 강조 ----------
+function _highlightKeywords(container, keywords) {
+  if (!keywords || !keywords.length) return;
+  const escaped = keywords.map(k => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  const regex = new RegExp(`(${escaped.join('|')})`, 'gi');
+  container.querySelectorAll('.card-title, .news-summary li').forEach(el => {
+    if (el.querySelector('a')) return; // 링크 있는 요소 스킵
+    el.innerHTML = el.textContent.replace(regex, '<mark class="kw-highlight">$1</mark>');
+  });
+}
+
 // ---------- 뉴스 렌더 ----------
 let currentNewsData = [];
 let showingAll      = false;
@@ -107,6 +118,9 @@ function renderNews() {
   list.innerHTML = banner + currentNewsData.map((n, i) =>
     window.buildNewsCard(n, i, !!interests[n.id])
   ).join('');
+
+  // 관심 키워드 강조 표시
+  _highlightKeywords(list, loadUserKeywords());
 
   window.bindCardFlip(list);
 

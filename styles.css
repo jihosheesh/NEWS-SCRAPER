@@ -693,6 +693,16 @@ a { color: inherit; text-decoration: none; }
   50%       { opacity: .4; transform: scale(.7); }
 }
 
+/* ---------- 키워드 강조 ---------- */
+mark.kw-highlight {
+  background: rgba(255, 210, 0, 0.28);
+  border-radius: 3px;
+  padding: 0 2px;
+  color: inherit;
+  font-weight: 700;
+  font-style: normal;
+}
+
 /* ---------- 키워드 폴백 배너 (카드 위 한 줄) ---------- */
 .kw-fallback-banner {
   display: flex;
