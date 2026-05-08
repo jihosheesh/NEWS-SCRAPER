@@ -126,6 +126,10 @@ function getChips(text, extraChip) {
 
 function toSentences(desc, title) {
   if (!desc || desc.length < 15) return [title + '.'];
+  // Google News RSS description은 "제목 언론사명" 형태 — 제목과 거의 같으면 제목만 반환
+  const cd = desc.replace(/\s+/g, '').toLowerCase();
+  const ct = title.replace(/\s+/g, '').toLowerCase();
+  if (cd.startsWith(ct.slice(0, 12)) || ct.startsWith(cd.slice(0, 12))) return [title + '.'];
   const parts = desc.split(/(?<=[.!?])\s+|\n+/);
   const result = [];
   for (const p of parts) {
