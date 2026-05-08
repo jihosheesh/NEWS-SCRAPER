@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-08 19:03:19
+// 마지막 업데이트: 2026-05-08 20:45:28
 window.NEWS_DB = [
   {
     "id": "n971123d8",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TdkVTajdfQXVybE1tWGNMTk5paGtlRDl5TUlYSmwwSnFXQjI3Um5ZSnF0ejM5bUJuUTc4RkNlNkZ5a1lHQW9jbzhJd2NOQ1J2bHgtbTZFd0RSVDMzMEEtQkFsV3J5d2F1a0pFbE5OMy14Tms?oc=5",
     "title": "블룸버그 \"중국 알리바바도 엔비디아 밀반입 반도체 고객\", 태국 통해 우회 의혹",
     "summary": [
@@ -17,26 +17,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n95b263ad",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "13시간 전",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1doR2E2QXpoZFZPY21qZ0tpZnAyak91UTliNzhJaDIyaGhOR2E5cllLaE9EbUZZMkF0Vm02V05VaW1lclVQbWNCWkJ6Si1famtjeDhDcmJ3c25yN2RIRzc1YWd5UjhfamZxaGN1b01ZTGhhbFVzU3ZUNnI2dWF4dEo3N3UzVkY0RW43OGhVMm01UjYtaTFDZUdiQ1lGQdIBsgFBVV95cUxOakhaODdaOFh4Ynp0ZVpub1AxY0RsV0hMOTlINW94YlhpT0N1Q0dULUNRTlZKMzI4dUg1anhqNTdEZnhjVkFNQTVoZTEwd2tkM2ZjcUt6bHlhdnlZeXZWOVd6TlZFXy1nMDI2LWd6dWliS2JYazBtY3JOVXBaejVmbWcyOE5NcUJVMkpQWVN4MUpSUEtVMTBMSWd4X0MtbWVUdkFrRE03RVE1dVFsNXJiZjNR?oc=5",
-    "title": "[줌인] 中에 최신칩 안 준다는 젠슨 황… 엔비디아, 對中 AI 반도체 전략 우왕좌왕 - 조선비즈",
-    "summary": [
-      "[줌인] 中에 최신칩 안 준다는 젠슨 황… 엔비디아, 對中 AI 반도체 전략 우왕좌왕 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n8b4fd239",
     "category": "IT",
     "source": "인포스탁데일리",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MbVA5OVRtTGZiVTU5T3NSbjVYeF9iN1NpM3VWMnZrUzR2T04yOEJVYnBhNTJUWTREemJBWVdyMXFCcl9jQ0dQbWhiWHN2WlJlM0kyRFZoUDFYaWFpbnU4anFOSXZOZjFFbUphWlBVbUFHRTRVRnc?oc=5",
     "title": "엔비디아-IREN 파트너십 훈풍, 국내 전력 설비 테마 웃었다",
     "summary": [
@@ -62,17 +46,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0800cad8",
-    "category": "스포츠",
-    "source": "한스경제",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yMVdvZi1ydWtCeV9EMXNPNFliLS1rQzA1aTlCbkE0SmpERUE5NzlIM1doMEJzVmZwQ1RpVENzblRFakp5ZnhKRlc1ZHVIVjZ6ZjBGd0wwTllCVjFiLTZqejU0b2tRWDBDQXJxTnRFd9IBb0FVX3lxTE0yMVdvZi1ydWtCeV9EMXNPNFliLS1rQzA1aTlCbkE0SmpERUE5NzlIM1doMEJzVmZwQ1RpVENzblRFakp5ZnhKRlc1ZHVIVjZ6ZjBGd0wwTllCVjFiLTZqejU0b2tRWDBDQXJxTnRFdw?oc=5",
-    "title": "국내야구, 4월 5주 차 스포츠 관심도 1위 유지",
+    "id": "n75e90822",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTVQa1VsbjZ6TW1vSTJ5ek1sSXVYX1hPNE5xaG90TGM1a1FXU2tqVVhkdk1NdFMxaTFHZFFQTEh5NEhTYmRaN1poT0pFTFVhRG92OUhZTEVTN0pyMU9KSTFtQ19FTnY3WUo2X3o5cnREYkw5eDBjXzM0NzJVOUhVcjVQdw?oc=5",
+    "title": "엔비디아 빈자리 화웨이가 채운다...반도체부터 AI 모델까지 자립 강화",
     "summary": [
-      "국내야구, 4월 5주 차 스포츠 관심도 1위 유지 한스경제."
+      "엔비디아 빈자리 화웨이가 채운다...반도체부터 AI 모델까지 자립 강화 조선일보."
     ],
     "chips": [
-      "#KBO"
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -313,16 +299,284 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n513e021a",
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "217일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "summary": [
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf1205208",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/09/2026050821050148519",
+    "title": "'이강인 어쩌나' 월드컵 준비마저 꼬인다, 챔스 철저한 외면→홍명보호 '지각 합류'",
+    "summary": [
+      "파리 생제르맹(PSG·프랑스) 이강인(24)이 웃지도, 울지도 못하는 상황이 됐다.",
+      "소속팀 PSG의 유럽축구연맹(UEFA) 챔피언스리그(UCL) 결승 진출로 또 하나의 우승 타이틀을 커리어에 새길 기회가 생겼지만, 정작 이강인은 UCL에선 철저한 외면을 받고 있기 때문이다.",
+      "이 여파로 2026 국제축구연맹(FIFA) 북중미 월드컵 준비도 차질이 불가피해진 상황이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n956c9fb0",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/09/2026050809202652655",
+    "title": "광주 여고생 살해 20대 체포 및 구속…사과문 쓴 안성재[이주의 픽]",
+    "summary": [
+      "한 주간 온라인을 뜨겁게 달궜던 이슈를 알아봅니다.",
+      "광주 여고생 살인 사건 피의자인 20대 남성 장모씨가 지난 5일 오전 11시24분쯤 경찰에 긴급 체포됐다.",
+      "그가 범행을 저지른 지 약 11시간 만이었다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n344eaaa8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260509006900065",
+    "title": "백령도서 불법조업 중국어선 2척 나포…중국인 선원 1명 심정지",
+    "summary": [
+      "(인천=연합뉴스) 홍현기 기자 = 서해 최북단 인천 백령도 해상에서 불법으로 조업한 중국어선 2척이 해양경찰에 나포됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0d122d33",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/09/MZSDIYZVHFQWINBYMQ4TCMRYHA/",
+    "title": "신동엽에 치이고, 기안84에 또 치였다…그 표정 나온 김원훈의 ‘삼고초려’ [핫피플]",
+    "summary": [
+      "[OSEN=장우영 기자] 2년 연속 후보에 그치면 수상과는 인연을 맺지 못했다.",
+      "김원훈의 ‘그 표정’이 2년 연속 ‘백상예술대상’의 신스틸러가 된 가운데 그의 삼고초려가 성공할지 주목된다.김원훈은 8일 서울 강남구 코엑스 D홀에서 신동엽과 수지, 박보검의 진행으로 ‘제62회 백상예술대상 with 구찌’에서 남자 예능상 후보에 이름을 올렸다.김원훈의 ‘백상예."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85142621",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/09/DRPI5OJ2HJFBLNG7ET5FZHEFUY/",
+    "title": "전통 떡메로 친 ‘쑥 인절미’ 한 개 770원, 설탕 안 쓰고 돼지감자와 콩으로 단맛",
+    "summary": [
+      "전통 떡메로 친 ‘쑥 인절미’ 한 개 770원, 설탕 안 쓰고 돼지감자와 콩으로 단맛."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8678e426",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/09/XJZKMNWW6RAQFJ6WM3OPLXVORM/",
+    "title": "나라에서 깎아준다, 이달 안 챙기면 손해 보는 생활비 절약 꿀팁 6가지",
+    "summary": [
+      "나라에서 깎아준다, 이달 안 챙기면 손해 보는 생활비 절약 꿀팁 6가지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9f7afeaa",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/09/MI3WEYZYGZRGEZBXMY2DCYZVME/",
+    "title": "'메시 38살인데' 아르헨티나, 여전히 '월드컵 파워랭킹 1위' 평가...\"우승 후보 0순위\"",
+    "summary": [
+      "[OSEN=정승우 기자] 디펜딩 챔피언 아르헨티나가 다시 한 번 세계 정상에 가장 가까운 팀으로 평가받았다.",
+      "리오넬 메시(인터 마이애미)를 앞세운 아르헨티나는 2026 북중미 월드컵 우승 후보 1위에 이름을 올렸다.'포포투'는 지난 6일(이하 한국시간) 2026 국제축구연맹(FIFA) 북중미 월드컵 개막을 앞두고 주요 국가들의 파워랭킹 톱10을 공개했다.매."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73b92f18",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260508_0003622426",
-    "title": "대구·경북, 맑고 큰 일교차…낮 최고 20~25도",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260509_0003622589",
+    "title": "즉위 1년 맞이한 교황 \"통치 책임자들 깨우쳐주시길\" 전쟁 비판",
     "summary": [
-      "[대구=뉴시스] 이상제 기자 = 토요일인 9일 대구와 경상북도는 대체로 맑고 일교차가 클 것으로 예상된다.",
-      "대구지방기상청은 이날 \"내륙을 중심으로 낮과 밤의 기온차가 15~20도로 크겠다\"고 예보했다.",
-      "대구(군위 제외), 경산, 포항에는 건조주의보가 발효 중이다."
+      "[서울=뉴시스] 김예진 기자 = 즉위 1주년을 맞이한 레오 14세 교황은 세계에서 벌어지고 있는 전쟁을 비판하며 정치 지도자들에 평화를 위한 행동을 촉구했다.",
+      "8일(현지 시간) AP통신, 바티칸뉴스 등에 따르면 그는 이날 즉위 1주년을 맞이해 이탈리아 폼페이에서 연설을 하며 세계 곳곳에서 계속되고 있는 수많은 전쟁을 언급했다.",
+      "그는 정치·경제적 차원뿐 아니라 영적·종교적 차원의 새로운 헌신이 필요하다고 강조했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0c1c88e9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260508_0003621579",
+    "title": "'하시5' 이번엔 '메기녀' 등장",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = '하트시그널5'에 새로운 여자 입주자가 등장해 지각변동을 예고했다.",
+      "12일 오후 10시 방송되는 채널A '하트시그널5' 5회에서는 입주자 7인 박우열·김성민·김서원·정준현·김민주·정규리·강유경이 첫 데이트 후 더욱 복잡한 감정에 빠져든다.",
+      "마지막 입주자인 '메기녀'도 '시그널 하우스'에 입주한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a61d3a2",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "31분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/09/2026050823495022583",
+    "title": "다음날 낮 경긴데 '자정 25분 전'에 끝났다! 5시간 5분 대혈투 이겨낸 LG 구성원에 사령탑도 감사인사 \"포기 않고 응원해준 덕분이다\"",
+    "summary": [
+      "LG 트윈스 염경엽(58) 감독이 5시간 5분에 달하는 대혈투 끝에 얻은 승리의 기쁨을 구성원 모두와 함께하려 했다.",
+      "LG는 8일 대전한화생명볼파크에서 열린 2026 신한 SOL KBO리그 정규시즌 방문경기에서 한화 이글스를 9-8로 꺾었다.",
+      "이로써 22승 12패가 된 LG는 1위 KT 위즈(23승 11패)와 승차를 1경기 차로 좁혔다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4fb9bd80",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260507155700063",
+    "title": "[인터뷰] 김태흠 \"충남 성장 기반 다져…이제는 성과 완성할 시간\"",
+    "summary": [
+      "(홍성=연합뉴스) 김준범 기자 = 국민의힘 김태흠 충남지사 후보는 9일 \"지난 4년간 정체돼 있던 충남의 성장 기반을 다진 만큼 이제는 성과를 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n36dd0571",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260507151400063",
+    "title": "[인터뷰] 박수현 \"국정 경험·정부 교섭력으로 충남 미래 전략 완성\"",
+    "summary": [
+      "(홍성=연합뉴스) 김준범 기자 = 더불어민주당 박수현 충남지사 후보는 9일 \"국정 설계 경험과 중앙정부와의 교섭력을 바탕으로 충남의 미래를 책임..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6134c70b",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "35분 전",
+    "url": "https://www.mt.co.kr/estate/2026/05/09/2026050815410041160",
+    "title": "\"주말 무료 콘서트 어때요\"…서래섬 봄결찬란 피크닉 콘서트 진행",
+    "summary": [
+      "봄 날씨가 완연한 5월의 주말 반포한강공원에서 피크닉 콘서트가 이어진다.",
+      "9일 서울시에 따르면 이번 주말 반포한강공원 서래섬에서는 매일 오후 2~8시 '2026 한강 서래섬 피크닉 콘서트-봄결찬란'이 열린다.",
+      "이번 콘서트는 노을을 배경으로 한 음악 공연과 체험 프로그램이 결합한 도심형 피크닉 축제로 꾸며진다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7eafb74d",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260509006300072",
+    "title": "고용 호조·반도체 랠리에 S&P500·나스닥 또 최고치",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 8일(현지시간) 미국 뉴욕증시의 스탠더드앤드푸어스(S&amp;P) 500 지수와 나스닥 종합지수가 또 다시 ..."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n99748c1f",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "36분 전",
+    "url": "https://www.newsis.com/view/NISX20260509_0003622590",
+    "title": "[속보]뉴욕증시, 고용지표·이란 종전 타결 기대에 상승 마감",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 aci27@newsis.com."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "nd336fb31",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "44분 전",
+    "url": "https://www.newsis.com/view/NISX20260508_0003622382",
+    "title": "맑고 포근한 인천, 큰 일교차에 강풍까지…미세먼지 좋음",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 토요일인 9일 인천은 일교차가 10도 이상 크고 바람이 강하게 불겠다.",
+      "하늘은 중국 상하이 부근에서 남해안으로 이동하는 고기압의 영향을 받아 대체로 맑겠다.",
+      "수도권기상청은 이날 \"아침 최저기온은 10도, 낮 최고기온은 21도 내외의 분포를 보이겠다\"며 \"기온은 평년보다 비슷하거나 조금 낮겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4155f62f",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260509005600072",
+    "title": "국제유가, 호르무즈 긴장에 상승… 브렌트유 1.2%↑",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 호르무즈 해협 인근에서 무력 충돌이 재개되면서 8일(현지시간) 국제유가가 다시 상승했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5d38a0d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260509/133890000/1",
+    "title": "진도 해상서 21t급 통발어선 화재…승선원 10명 전원 구조",
+    "summary": [
+      "전남 진도 해상에서 10명이 탄 어선에서 화재가 발생했으나 해경의 긴급구조 협조 요청을 받은 인근 선단선에 의해 전원 구조됐다.9일 목포해양경찰서에 따르면 이날 0시12분께 진도군 눌옥도 서방 11.1㎞ 해상에서 21t급 근해통발어선에서 화재가 발생했다는 신고가 접수됐다.어선에는 내국인 5명과 인도네시아 4명, 베트남 1명 등 모두 10명이 타고 있었다.화재 선박 선장으로부터 신고를 접수한 해경은 항공기와 서해특수구조대를 비롯한 가용세력을 현장."
     ],
     "chips": [
       "#뉴스"
@@ -332,7 +586,7 @@ window.NEWS_DB = [
     "id": "nfd4d0d41",
     "category": "경제",
     "source": "아시아경제",
-    "time": "2분 전",
+    "time": "1시간 전",
     "url": "https://www.asiae.co.kr/article/2026050823334660592",
     "title": "김용범 \"코스피 7500, 낡은 눈금으론 설명 못 해…이젠 1만도 현실 가능한 경로\"",
     "summary": [
@@ -345,26 +599,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7ffe8490",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/estate/2026/05/09/2026050815390532871",
-    "title": "양도세 중과 피할 마지막 기회…\"오늘 구청 열어요\" 토허제 신청 접수",
-    "summary": [
-      "국토교통부는 다주택자 양도세 중과 유예가 인정되는 마지막 날인 9일(토요일)에도 서울 각 자치구와 경기도 시·구청에서 토지거래허가 신청을 접수한다고 밝혔다.",
-      "거래 당사자는 이날 오전 9시부터 오후 6시까지 접수처를 방문해 관련 서류를 제출하면 된다.",
-      "양도세 중과 유예 종료 막판 매매 계약과 허가 절차 수요가 집중될 것을 예상한 결정이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ndf9c22e7",
     "category": "경제",
     "source": "한국경제",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202605095287H",
     "title": "[포토+] 최유리, '러블리 미소' (백상예술대상)",
     "summary": [
@@ -378,250 +616,11 @@ window.NEWS_DB = [
     "id": "nb342a584",
     "category": "경제",
     "source": "한국경제",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202605095286H",
     "title": "[포토+] 신시아, '깨물어주고 싶은 깜찍함' (백상예술대상)",
     "summary": [
       "[포토+] 신시아, '깨물어주고 싶은 깜찍함' (백상예술대상)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3673379c",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/202605095285H",
-    "title": "[포토+] 배나라, '멋짐 가득한 모습' (백상예술대상)",
-    "summary": [
-      "[포토+] 배나라, '멋짐 가득한 모습' (백상예술대상)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44554ac8",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/202605095284H",
-    "title": "[포토+] 이이담, '우아한 모습으로 등장' (백상예술대상)",
-    "summary": [
-      "[포토+] 이이담, '우아한 모습으로 등장' (백상예술대상)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f13acaa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260509_0003622588",
-    "title": "진도 해상서 21t급 통발어선 화재…승선원 10명 전원 구조",
-    "summary": [
-      "[목포=뉴시스] 박상수 기자 = 전남 진도 해상에서 10명이 탄 어선에서 화재가 발생했으나 해경의 긴급구조 협조 요청을 받은 인근 선단선에 의해 전원 구조됐다.",
-      "9일 목포해양경찰서에 따르면 이날 0시12분께 진도군 눌옥도 서방 11.1㎞ 해상에서 21t급 근해통발어선에서 화재가 발생했다는 신고가 접수됐다.",
-      "어선에는 내국인 5명과 인도네시아 4명, 베트남 1명 등 모두 10명이 타고 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e20786f",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260509/133889997/1",
-    "title": "유희관 “송지효 짝사랑…지예은 좋아한 적 없어”",
-    "summary": [
-      "야구선수 출신 유희관이 배우 송지효를 향한 호감을 드러낸다.",
-      "오는 10일 오후 6시 10분 방송되는 SBS TV ‘런닝맨’에는 멜로망스 김민석, 배우 채원빈, 유희관이 게스트로 출연해 ‘골드 스틸러 : 금고를 털어라’ 레이스를 펼친다.이날 방송에서 유희관은 등장과 동시에 출연진 지예은과의 과거 인연에 대해 “좋아한 적 없다”고 해명한다.",
-      "이어 그는 송지효를 향한 오랜 짝사랑을 고백하며 적극적인 태도를 보인다.유희관은 송지효와 함께 김민석이 부르."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n39a01d9e",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260509/133889994/1",
-    "title": "男탁구 1위 왕추친 떨게 한 오준성 “피 튀긴 승부 잡았더라면…또 기회 올 것”",
-    "summary": [
-      "남자 탁구 세계랭킹 1위 왕추친(중국)을 상대로 분패한 오준성(한국거래소)이 “다음 기회를 노리겠다”며 설욕을 다짐했다.오준성은 8일(한국 시간) 영국 런던의 OVO 아레나 웸블리에서 열린 2026 국제탁구연맹(ITTF) 세계탁구선수권대회 단체전 남자부 중국과의 8강에서 매치 점수 0-3으로 패한 뒤 “1매치에서 왕추친과 피 튀기는 승부를 했지만, 잡아줬다면 2, 3매치 주자에게 힘을 더 줄 수 있었을 것이다.",
-      "아쉽게 막판에 점수를 따지 못해."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb0764dc4",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/09/2026050903432189747",
-    "title": "배나라, 펀런 중 산 복권 당첨…전현무 \"1/N 달라\" 얼마길래?",
-    "summary": [
-      "배나라가 '펀런' 중 구매한 복권이 1만원에 당첨됐다.",
-      "전현무는 당첨 전 약속한 1/N을 곧장 언급하며 \"2500원 달라\"고 요구해 웃음을 안겼다.",
-      "8일 방영된 MBC '나 혼자 산다' 646회에서는 전현무가 박지현, 도운, 배나라와 함께 동해 목호항에서 '펀런'을 즐기는 모습이 공개됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n81a39500",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260509/133889991/1",
-    "title": "고현정 “다이어트 아냐, 먹는 게 무서워”…응급 수술 후 건강 위기 고백",
-    "summary": [
-      "배우 고현정(55)이 과거 응급 수술과 최근 다시 겪은 건강 위기 상황을 고백하며, 자신을 둘러싼 무리한 다이어트 의혹에 대해 해명했다.",
-      "야윈 모습에 대해 그는 “다이어트를 하는 게 아니라 먹는 것 자체가 무섭다”며 그간의 상황을 털어놨다.",
-      "7일 공개된 유튜브 채널 ‘걍밍경’에서 고현정은 그동안 알려지지 않았던 건강 상태와 이로 인해 달라진 식습관에 대해 솔직하게 밝혔다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n298ba14c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260509004600087",
-    "title": "성적은 바닥인데 월드컵으로 학기 단축?…뿔난 멕시코 학부모",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 2026 북중미 월드컵을 한 달 앞두고 멕시코 정부가 방학을 일찍 앞당기겠다고 발표하자, 교육단체들과 ..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n75d44bf4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260509/133889988/1",
-    "title": "트럼프, UFO·UAP 美정부 자료 첫 공개…아폴로 촬영 사진 포함",
-    "summary": [
-      "도널드 트럼프 미국 행정부가 8일(현지시간) 미확인비행물체(UFO)와 미확인 이상 현상(UAP)에 관한 정부 자료 첫 공개분을 내놨다.미 국방부(전쟁부)는 이날 성명을 통해 “UAP 관련 미공개 자료를 대통령 지시에 따른 ‘UAP 조우 사례 대통령 공개·보고 시스템’(PURSUE)의 첫 공개분으로 공개한다”고 밝혔다.국방부에 따르면 이번 자료 공개는 백악관과 국가정보국장실(ODNI), 에너지부, 전 영역 이상현상해결실(AARO), 미 항공우주국."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb84c86b1",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260509004700072",
-    "title": "트럼프 행정부, 美무역법원 '10% 글로벌 관세' 제동에 항소",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 도널드 트럼프 미국 행정부가 '10% 글로벌 관세'에 제동을 건 연방통상법원(CIT) 판결에 불복해 즉각 항..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n2ee24c5d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260509004500071",
-    "title": "美 '한타바이러스 크루즈' 탑승 자국민 귀환 항공기 준비",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 국무부는 8일(현지시간) 한타바이러스 감염 환자가 여럿 나온 대서양 크루즈선에 탑승한 자국민 귀환을 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n80790cd3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260509004200054",
-    "title": "진도 앞바다서 어선 화재…승선원 10명 모두 구조",
-    "summary": [
-      "(진도=연합뉴스) 정다움 기자 = 9일 0시 12분께 전남 진도군 눌옥도 인근에서 21t급 근해통발 어선에서 불이 났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5b98ca5d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260509_0003622586",
-    "title": "트럼프 \"러·우, 9~11일 휴전하고 1000명씩 포로교환\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 러시아와 우크라이나가 사흘간 휴전하고 대규모 포로교환을 단행하는데 합의했다고 도널드 트럼프 미국 대통령이 8일(현지 시간) 발표했다.",
-      "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 \"러시아와 우크라이나간 5월 9일, 10일 그리고 11일 사흘 동안 휴전이 이뤄질 예정이라고 발표하게 돼 기쁘다\"고 밝혔다.",
-      "트럼프 대통령은 이번 휴전 기간이 \"러시아에서 승전일 축하행사가 열리고, 우크라이나에서도 마찬가지인."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n742c925d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/09/GIYDCZDBGVQWGMBXMIZTEMJYMI/",
-    "title": "“어떻게든 5이닝만 채우자 했는데...\" 장찬희, 온 힘 다해 데뷔 첫 QS 달성 [오!쎈 창원]",
-    "summary": [
-      "[OSEN=창원, 손찬익 기자] 프로야구 삼성 라이온즈의 ‘슈퍼 루키’ 장찬희가 데뷔 첫 퀄리티스타트를 달성하며 시즌 3승째를 거뒀다.",
-      "장찬희는 지난 8일 창원NC파크에서 열린 NC 다이노스와의 원정 경기에 선발 등판, 6이닝 4피안타 3볼넷 2탈삼진 1실점으로 잘 던졌다.",
-      "마무리 김재윤은 9회 세 타자를 꽁꽁 묶으며 역대 6번째 개인 통산 200세이브 고."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n3aa884a7",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260509004100002",
-    "title": "달러-원, 위험 선호 재확산에 오름폭 축소…1,462.30원 마감",
-    "summary": [
-      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 상승폭을 줄이며 1,460원대 초반에서 장을 닫았다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "nd903fa24",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "33분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/09/2026050903204625158",
-    "title": "전현무, 펀런 '1㎞ 26분'에 완주 \"지렁이보다 느린 것 같아\" 폭소",
-    "summary": [
-      "전현무가 GPS로 고래 모양을 그리는 '펀런'에 도전해 12.62km를 5시간 35분 만에 완주했다.",
-      "8일 방영된 MBC '나 혼자 산다' 646회에서는 전현무가 박지현, 도운, 배나라와 함께 동해 목호항에서 '펀런'을 즐기는 모습이 공개됐다.",
-      "이날 전현무는 GPS 지도에 고래 모양이 그려지는 러닝 루트를 직접 짜고 박지현, 도운, 배나라와 함께 먹고 놀며 코스를 완주했다."
     ],
     "chips": [
       "#뉴스"
@@ -634,20 +633,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "고용",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
