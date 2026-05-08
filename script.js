@@ -2,7 +2,7 @@
 // Cloudflare Worker API URL
 // 배포 후 실제 URL로 교체: https://newshot-api.{계정명}.workers.dev
 // ──────────────────────────────────────────────────────────────
-const NEWSHOT_API = '';   // ← 배포 완료 후 이 곳에 Worker URL 입력
+const NEWSHOT_API = 'https://newshot-api.jiho-shin99.workers.dev';   // Cloudflare Worker URL
 
 // ---------- 관심 키워드 ----------
 const KEYWORDS_KEY      = 'newshot_user_keywords';

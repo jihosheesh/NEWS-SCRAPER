@@ -151,6 +151,10 @@ function htmlDecode(s) {
     .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ');
 }
 
+function stripHtml(s) {
+  return s.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
+}
+
 // ────────────────────────────────────────────────────────────────
 // RSS XML 파싱
 // ────────────────────────────────────────────────────────────────
@@ -167,8 +171,8 @@ function parseItems(xml) {
 function processItem(itemXml, defaultCat, keyword, kwChip) {
   // 제목 정제
   let title = extractTag(itemXml, 'title')
-    .replace(/\s*-\s*[\w\s가-힣·]{2,25}$/u, '')  // " - 언론사명" 제거
-    .replace(/[◆■●◇□][^]*/u, '')                  // 구분자 이후 제거
+    .replace(/\s*-\s*[\w\s가-힣·|.·]{2,35}$/u, '')  // " - 언론사명" 제거 (|. 포함)
+    .replace(/[◆■●◇□][^]*/u, '')                     // 구분자 이후 제거
     .trim();
 
   const link = extractTag(itemXml, 'link') || extractTag(itemXml, 'guid');
@@ -176,7 +180,7 @@ function processItem(itemXml, defaultCat, keyword, kwChip) {
   if (/^\[(포토|영상|화보|사진)\]/.test(title)) return null;
 
   // 설명 정제 (▲◆ 이후 타기사 티저 제거)
-  const rawDesc = extractTag(itemXml, 'description');
+  const rawDesc = stripHtml(extractTag(itemXml, 'description'));  // HTML 태그 제거
   const desc = rawDesc.split(/\s{0,3}[▲◆■●◇]\s/u)[0].slice(0, 250);
 
   const source   = itemXml.match(/<source[^>]*>([\s\S]*?)<\/source>/)?.[1]?.trim() || 'Google뉴스';
