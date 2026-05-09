@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-09 15:40:57
+// 마지막 업데이트: 2026-05-09 16:41:10
 window.NEWS_DB = [
   {
     "id": "nb6ddeb2c",
@@ -197,6 +197,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "79일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
     "id": "n759c2467",
     "category": "IT",
     "source": "Chosunbiz",
@@ -227,32 +242,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4e566404",
-    "category": "부동산",
-    "source": "한국경제",
+    "id": "nf7aebd8b",
+    "category": "경제",
+    "source": "스트레이트뉴스",
     "time": "110일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZDJjVkdNel9WZ3RDNWFsU3JaYzRDNmN6ZjktOU5hUlAtWEY3MUV4TTVGUy1rQ05CTFVBWV9lR2pxai1ULW9Nd2lrZzAxNjMwZ1h5ZHpBV1Y4UdIBVEFVX3lxTE1NWk5tXzdDNmp3R09IMG1rT2xqMFVfSWlyZU1yTmJMVTdRUXU4SWV5MWx3bzJlWk1fQ1FmcHU2SmZVdXdNM3dvSTVUTmJLcDNSaDN6cg?oc=5",
-    "title": "\"2개월 만에 2억 날렸다\"…내집 마련 실패한 40대 가장 '멘붕' [돈앤톡]",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
+    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
     "summary": [
-      "\"2개월 만에 2억 날렸다\"…내집 마련 실패한 40대 가장 '멘붕' [돈앤톡] 한국경제."
+      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n0f008420",
-    "category": "경제",
-    "source": "한겨레",
-    "time": "115일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGNFNVYUVMN0g3RGcwT1BXUzhvZ1B6VjQ2Y1poNHpZUHEtR3Z2RmVlSEZZN01waGNETEtxTXh2NEpjMTZ5emFtNGsxTEdDSnQ2cy1QTS1DVDh3cXBwRFFwZjFfQ1J3UThUcXE1R2tDN203Zw?oc=5",
-    "title": "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도",
-    "summary": [
-      "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도 한겨레."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
     ]
   },
   {
@@ -315,10 +315,182 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne67bd3d4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/10/GUZTIMTEGE3DAZLGME3GEZLDGY/",
+    "title": "\"국내선수 쓰는 게 낫다\" 日 투수 향한 사령탑 작심 발언…'1호 퇴출'의 시간 가까워지나",
+    "summary": [
+      "[부산=스포츠조선 이종서 기자] 결국 롯데 자이언츠의 첫 아시아쿼터 선수는 실패로 끝나는 것일까.",
+      "롯데는 9일 부산 사직구장에서 열린 KIA 타이거즈와의 홈 경기를 앞두고 아시아쿼터 선수 쿄야마 마사야(28)를 1군 엔트리에서 제외했다.",
+      "쿄야마는 영입 당시 최고 구속 155㎞를 던지는 등 우완 파이어볼러로 기대를 받았다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na5d9b8dd",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/10/2026050922195448950",
+    "title": "홍명보호 진짜 희소식! \"통증 없다\" 이재성, 시즌아웃 전망 털고 훈련 복귀... 예상보다 일찍 돌아온다",
+    "summary": [
+      "2026 국제축구연맹(FIFA) 북중미 월드컵을 앞둔 한국 축구대표팀에 큰 희소식이 전해졌다.",
+      "'홍명보호의 살림꾼' 이재성(34·마인츠)이 예상보다 일찍 부상 복귀할 예정이다.",
+      "독일 빌트는 9일(한국시간) \"마인츠의 스타 이재성이 돌아왔다\"면서 \"이재성의 시즌 아웃은 틀린 얘기다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8cc0c146",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/10/MVSWKYTBGZSDKNJWHAYWIMZYMQ/",
+    "title": "야구 예능 스타→2군 폭격→1군 현실의 벽→첫 홈런 \"이 순간이 왔구나 생각이...\" [잠실 현장]",
+    "summary": [
+      "[잠실=스포츠조선 김용 기자] \"이 순간이 왔구나 생각했어요.\" 두산 베어스 김원형 감독은 9일 잠실 SSG 랜더스전을 앞두고 주전 포수이자 간판 스타 양의지에 대한 걱정을 드러냈다.",
+      "최근 극심한 부진으로 인해 이날 시즌 개막 후 처음 선발 제외했다.",
+      "김 감독은 \"10일 경기까지 쉬게 해주고 싶다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nad2d88a0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/10/GVTGEZRYMRRDOOBZMZSTONZZMU/",
+    "title": "신기록 행진 멈춘 날, KIA 복덩이 대체 외인은 웃었다…\"드디어 세리머니 했어요\"",
+    "summary": [
+      "[부산=스포츠조선 이종서 기자] 역사적인 홈런 행진이 멈춘 날.",
+      "그러나 의미있는 한 장면을 만들 수 있었다.",
+      "아데를린 로드리게스(35·KIA 타이거즈)는 9일 부산 사직구장에서 열린 롯데 자이언츠와의 원정경기에서 8회말 주자 1,3루에서 김원중을 상대로 좌전 안타를 때려냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ec7aa40",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260509_0003622980",
+    "title": "이스라엘·헤즈볼라, 휴전 중에도 교전 계속…레바논서 18명 사망(종합)",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 이스라엘과 레바논 무장 정파 헤즈볼라가 휴전 중에도 교전을 이어가고 있다.",
+      "9일(현지 시간) 아랍권 매체 알자지라에 따르면 이스라엘군은 이날 레바논 전역에서 여러 차례 공습을 감행해 아이 등을 포함해 최소 18명이 사망했다.",
+      "이날 이스라엘 방위군(IDF) 소속 포병대가 레바논 남부 도시와 마을의 목표물을 타격했으며, IDF는 이후 국경 지역 내 레바논 남부 여러 마을에 대피 경보를 발령해 공습이 임박했음을 알렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nafe6215a",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "39분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/10/2026050914464752357",
+    "title": "'충격' EPL 최고 유망주가 '갑자기' 제외 이유 \"미성년자 부적절 연락 확인...\" 조사 착수",
+    "summary": [
+      "잉글랜드 프리미어리그(EPL) 구단 핵심 수비수가 명단 제외된 충격적인 이유가 공개됐다.",
+      "AFC본머스 수비수 알렉스 히메네스(21)가 미성년자에게 부적절한 메시지를 보냈다는 의혹에 휘말리며 구단 자체 조사를 받게 됐다.",
+      "영국 매체 '데일리 메일'은 8일(한국시간) \"본머스가 15세 여학생에게 부적절한 게시물을 보냈다는 의혹이 제기된 히메네스에 대해 조사에 착수했다\"고 보도했다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n653bd2a3",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260509_0003622753",
+    "title": "\"미국인 입장료는 40만원\"…멕시코 클럽 '바가지 요금' 이유는",
+    "summary": [
+      "[서울=뉴시스]정우영 인턴 기자 = 멕시코의 한 나이트클럽이 미국인에게만 약 300달러(약 43만원)에 달하는 입장료를 부과해 논란이 되고 있다.",
+      "다른 국가 시민은 20달러( 약 2만9290원), 멕시코와 라틴아메리카인은 단돈 14달러(약 2만503원)만 내면 되는 것과 대조적이다.",
+      "6일(현지시각) 영국 가디언 등 외신에 따르면 최근 멕시코시티 로마 노르테 지역에 위치한 나이트클럽 '클럽 재팬(Club Japan)'은 인스타그램을 통해 이 같은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n35c61364",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260508_0003621520",
+    "title": "턱걸이 1만 2412개 '세계 신기록'…\"친구에게 지기 싫어서\"",
+    "summary": [
+      "[서울=뉴시스]서영은 인턴 기자 = 미국의 한 22세 청년이 24시간 동안 1만 2000개가 넘는 턱걸이를 성공하며 세계 신기록을 세웠다.",
+      "지난 5일(현지시각) 피플 등에 따르면, 버지니아주 해리슨버그 출신의 사비에르 딜러드(22)는 지난 2일 오전 10시부터 다음 날 오전 10시까지 진행된 도전에서 총 1만 2412개의 턱걸이를 해냈다.",
+      "이는 지난 1월 멕시코의 엔리케 사파타가 세운 기존 세계 기록인 1만 2345개보다 67개나 많다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1d5c4385",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260508_0003621857",
+    "title": "\"소화불량인줄 알았는데\"…조용히 찾아온 '이 암'",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 최근 단순 소화불량인줄 알고 넘겼다가 뒤늦게 암 진단을 받는 사례가 있어 의료계가 주의를 당부했다.",
+      "특히 '담낭암'은 초기 증상이 거의 없어 '침묵의 암'으로 불리는데, 발견 시 암이 많이 진행된 경우가 많아 관리의 중요성이 커지고 있다.",
+      "10일 의료계에 따르면 담낭암은 초기 증상이 없다가 진행되면서 담즙 배출에 문제가 생겨 소화불량, 속 더부룩함, 오른쪽 윗배 불편감 정도로 나타난다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n185c3489",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "41분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/10/MY2TQZTGGE3GIMTCGY3DQYLBGI/",
+    "title": "몸무게 3kg 빠지고 유니폼 흙투성이 됐지만 이겨서 행복한 전병우 [오!쎈 창원]",
+    "summary": [
+      "[OSEN=창원, 손찬익 기자] 프로야구 삼성 라이온즈 내야수 전병우가 몸을 아끼지 않는 투혼으로 팀의 6연승을 이끌었다.전병우는 지난 9일 창원NC파크에서 열린 NC 다이노스와의 원정 경기에서 승부를 결정짓는 2타점 2루타를 터뜨리는 등 4타수 2안타 2타점 1득점으로 활약하며 팀의 5-4 승리를 견인했다.이날 6번 3루수로 선발 출장한 전병우는 2회 무."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n31194315",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "57분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260510000400005",
+    "title": "개막식도 황금사자상도 없이…베네치아 비엔날레 대중 공개 시작",
+    "summary": [
+      "(베네치아=연합뉴스) 박의래 기자 = 전 세계 현대미술 축제인 제61회 베네치아 비엔날레가 9일(현지시간) 공식 개막해 대중에 공개됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nf7130ed1",
     "category": "사회",
     "source": "테크M",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151706",
     "title": "\"사후조정, '초기업노조' 대신 '전삼노'가 맡아야\"...삼성전자 노조 내홍 '확전'",
     "summary": [
@@ -334,7 +506,7 @@ window.NEWS_DB = [
     "id": "nf59c73de",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/10/2026050911534436587",
     "title": "\"이건 다 최준용 때문\" 허훈, 애정 넘치는 저격 \"4차전은 하드캐리 해줘야\" [부산 현장]",
     "summary": [
@@ -347,56 +519,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4688ddb0",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/volleyball/2026/05/10/G5TGCNJRMQ4DGMTGMVSWCOJUGQ/",
-    "title": "\"왜 1순위인지 증명했다\" 하루에 모든 걸 쏟았다…부키리치, V-리그 복귀 청신호",
-    "summary": [
-      "[OSEN=홍지수 기자] 반야 부키리치(세르비아)가 왜 이번 트라이아웃 ‘1순위 후보’로 꼽히는지 스스로 증명한 하루였다.2026 KOVO 외국인선수 트라이아웃이 연습경기를 시작으로 본격적인 경쟁에 돌입했다.",
-      "체코 프라하 UNYP 아레나에서 첫날 간단한 체력 측정을 마친 선수들은 트라이아웃 둘째 날인 8일(현지시간)부터 실전에 가까운 연습경기를 치르며 기량."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e715115",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/10/GY3GGNTEHBSWIM3DGA3WCMBXGA/",
-    "title": "이연, 아이유 미담 전했다..집 초대·비싼 선물도 모자라 “나 만날 땐 돈 쓰지 말라고”(전참시)[종합]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 이연이 아이유와의 절친 케미스트리를 자랑했다.9일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 최강희, 이연이 출연했다.이연은 아이유와 동반 화보 촬영을 위해 이동했다.",
-      "아이유 옆에 나란히 선 이연은 “지은 선배가 정말 뽀얗고 하얗다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf1578925",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260510_0003622986",
-    "title": "호르무즈 막히자…이란, 카스피해 통해 러시아와 뒷거래",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 미국과의 전쟁으로 호르무즈 해협이 봉쇄되자, 카스피해가 이란의 새로운 물자 수송로 역할을 하고 있다고 뉴욕타임스(NYT)가 8일(현지 시간) 소식통을 인용해 보도했다.",
-      "보도에 따르면 러시아는 주로 호르무즈 해협을 통해 이란에 물자를 공급해 왔지만, 미군의 봉쇄로 항로가 차단되자 카스피해를 대체 항로로 적극 활용하고 있는 것으로 전해졌다.",
-      "서방의 제재와 전쟁이라는 공통분모를 가진 이란과 러시아 사이의 핵심 무역 통."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
     "id": "n2906354d",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/10/2026050917571742012",
     "title": "'와' 한화 진짜 복 받았다! 23세 포수가 OPS 리그 톱10 눈앞이라니... 1G 3안타 치고도 활활 \"4안타 못 쳐봤다, 해보겠다\" [대전 현장]",
     "summary": [
@@ -412,7 +538,7 @@ window.NEWS_DB = [
     "id": "n2482ae86",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260510000300071",
     "title": "미군 \"대이란 해상봉쇄로 상선 58척 회항·4척 무력화\"",
     "summary": [
@@ -423,26 +549,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nafa1e230",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/10/MZRDENJZMQYDKM3CGRTDONDGME/",
-    "title": "7⅓이닝 2실점인데, '사직 스쿠발'에게 뭘 더 바라야 했나…'불펜 불신' 무리수의 잔인한 결말 [오!쎈 부산]",
-    "summary": [
-      "[OSEN=부산, 조형래 기자] 좌완 에이스는 완벽투를 펼치고도 웃을 수 없었다.",
-      "롯데 자이언츠 김진욱이 퀄리티스타트 플러스의 피칭을 펼치고도 패전 투수가 됐다.",
-      "롯데 벤치의 판다니 결과적으로 안 좋은 방향으로 흘렀다.김진욱은 9일 부산 사직구장에서 열린 프로야구 정규시즌 KIA 타이거즈와의 경기에 선발 등판해 7⅓이닝 5피안타(1피홈런) 2볼넷 5탈삼진."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n4084f8e3",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "31분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260510000200009",
     "title": "이란 매체, 호르무즈 해저케이블 사용료 징수 제안",
     "summary": [
@@ -456,7 +566,7 @@ window.NEWS_DB = [
     "id": "nba0f0e81",
     "category": "사회",
     "source": "아시아경제",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.asiae.co.kr/article/2026050922290081617",
     "title": "[6.3선거]민주 광주시당, 후보 104명 확정…여성 48%",
     "summary": [
@@ -469,24 +579,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n777677e7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "39분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260510/133890792/1",
-    "title": "이스라엘·헤즈볼라, 휴전 중에도 교전 지속…IDF 레바논 남부 타격",
-    "summary": [
-      "이스라엘과 레바논 무장 정파 헤즈볼라가 휴전 중에도 교전을 이어가고 있다.9일(현지 시간) 레바논 국영 통신(NNA)에 따르면 이날 이스라엘 방위군(IDF) 소속 포병대가 레바논 남부 도시와 마을의 목표물을 타격했으며, IDF는 이후 국경 지역 내 레바논 남부 여러 마을에 대피 경보를 발령해 공습이 임박했음을 알렸다.레바논 언론은 이날 베이루트 남부 해안 고속도로에서 차량 2대가 공격받았다고 보도했다.이들 차량은 이스라엘 국경에서 북쪽으로 약."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7004636e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260510000100011",
     "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
@@ -498,72 +594,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7b162d5c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260510_0003622984",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-    "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n163a1358",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260509_0003622976",
-    "title": "래퍼 육지담, 성형외과 상담실장 됐다",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 래퍼 육지담이 성형외과 상담실장으로 전업한 근황을 알렸다.",
-      "육지담은 9일 자신의 소셜 미디어에 \"안녕하세요.",
-      "병아리 실장입니다\"라는 글과 영상을 게재했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2ad6fb03",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260509_0003622960",
-    "title": "김영옥, 집에 도둑 2번 들어 \"집 한 채 값 털려\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 배우 김영옥이 과거 두 차례의 대규모 절도 피해 사실을 털어놓았다.",
-      "김영옥은 지난 9일 방송된 JTBC 토크 예능물 '아는 형님'에서 큰 도둑을 맞았다고 밝혔다.",
-      "김영옥은 이날 방송에서 김영옥은 MBC 드라마 '갯마을'에 출연하던 시기, 평창동에 주택을 마련하고 가산을 모으던 중 첫 번째 대형 절도 사건을 겪었다고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74c8149e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260509050100109",
-    "title": "헝가리 머저르 총리 취임…'유럽의 트럼프' 오르반 퇴장",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 16년 만에 정권 교체에 성공한 머저르 페테르 헝가리 신임 총리가 9일(현지시간) 취임했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n4fba1bc5",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151705",
     "title": "[글로벌] 브로드컴·오픈AI, 24조원 규모 자체 AI 칩 개발 자금 조달 난항",
     "summary": [
@@ -579,7 +613,7 @@ window.NEWS_DB = [
     "id": "n0c0984ca",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151704",
     "title": "[글로벌] 엔비디아, AI 데이터센터 개발사 IREN에 최대 2조9000억원 투자",
     "summary": [
@@ -595,7 +629,7 @@ window.NEWS_DB = [
     "id": "n122d45b3",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151703",
     "title": "[글로벌] 첫 외부투자 나선 딥시크, 몸값 한 달 만에 29조→65조원",
     "summary": [
@@ -607,35 +641,6 @@ window.NEWS_DB = [
       "#AI",
       "#스타트업"
     ]
-  },
-  {
-    "id": "n064e528a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260509/133890785/1",
-    "title": "캣츠아이, 美 ‘아메리칸 뮤직 어워즈’ 무대 오른다",
-    "summary": [
-      "‘K-팝 최대 기획사’ 하이브(HYBE) 글로벌 걸그룹 ‘캣츠아이(KATSEYE)’가 미국 대중음악 시상식 ‘아메리칸 뮤직 어워즈(American Music Awards)’ 무대에 오른다.9일 소속사 하이브-게펜레코드에 따르면, 캣츠아이는 오는 25일(현지시간) 미국 라스베이거스 MGM 그랜드 가든 아레나(MGM Grand Garden Arena)에서 열리는 제52회 아메리칸 뮤직 어워즈 시상식에서 공연한다.",
-      "‘아메리칸 뮤직 어워즈’는 ‘빌보드."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc64e2b2b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/09/S4LORCBAMVCNBL5VFI256NO66E/",
-    "title": "“해수면 붙어 떼지어 이동”…美군함 괴롭히는 이란 ‘모기 함대’",
-    "summary": [
-      "“해수면 붙어 떼지어 이동”…美군함 괴롭히는 이란 ‘모기 함대’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -644,18 +649,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "엔비디아",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "KBO",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "엔비디아",
     "mentions": "1680건",
     "trend": "+155%"
   }
