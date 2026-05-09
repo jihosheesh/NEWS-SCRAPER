@@ -1,6 +1,37 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-09 17:41:11
+// 마지막 업데이트: 2026-05-09 18:43:55
 window.NEWS_DB = [
+  {
+    "id": "nb6ddeb2c",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2NDRiUDI1am94WkZqTThyeEUyT1RvWndkN0ZvV2RSR3lBTlNFWjluTjhFTjM5ODVWdTBjQW9lNGFlY0RuaTZjXzBtWkI0Qk9uclBXaVFUMDZkYjNWT1B4alNXb3dlSEJabzhESUhBbjc4NjA?oc=5",
+    "title": "메모리반도체 주가 '랠리' 뒤 증권가 시선 다시 엔비디아에 집중, \"기업가치 재평가 잠재력\"",
+    "summary": [
+      "메모리반도체 주가 '랠리' 뒤 증권가 시선 다시 엔비디아에 집중, \"기업가치 재평가 잠재력\" 비즈니스포스트."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nd6ea8ea3",
+    "category": "IT",
+    "source": "오피니언뉴스",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQeG9OZmlLM0ZMZDU1RUhsVG9pTE51ZWpaWklSRzY3Y1ZrVnZ4NGhfcllJUTFETEZQTDRYX0IwUWZselE4dHBRUEFiV2k0QmJhOXhLVnhGZzNPVFhTcWpBbnhJMU9zaE5kNHdmQmlSNVFoQQ?oc=5",
+    "title": "엔비디아 독주와 中 견제 위해…\"한미일 'AI 반도체' 동맹 필요\"",
+    "summary": [
+      "엔비디아 독주와 中 견제 위해…\"한미일 'AI 반도체' 동맹 필요\" 오피니언뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nd59c4f15",
     "category": "IT",
@@ -31,6 +62,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n75e90822",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTVQa1VsbjZ6TW1vSTJ5ek1sSXVYX1hPNE5xaG90TGM1a1FXU2tqVVhkdk1NdFMxaTFHZFFQTEh5NEhTYmRaN1poT0pFTFVhRG92OUhZTEVTN0pyMU9KSTFtQ19FTnY3WUo2X3o5cnREYkw5eDBjXzM0NzJVOUhVcjVQdw?oc=5",
+    "title": "엔비디아 빈자리 화웨이가 채운다...반도체부터 AI 모델까지 자립 강화",
+    "summary": [
+      "엔비디아 빈자리 화웨이가 채운다...반도체부터 AI 모델까지 자립 강화 조선일보."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -51,7 +98,7 @@ window.NEWS_DB = [
     "id": "n2970703c",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
     "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
     "summary": [
@@ -61,20 +108,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n97194ff6",
-    "category": "경제",
-    "source": "이데일리TV",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKWXY5NU9nZ3BFMWN6MHlwUEZEMXZXcDFlOWpIeElaVmROZC1pcWFsaFR4N00yd19nRFhUUlpiQlRucVY4TXRjNXJhczBqMmdLQWdUNjJGb2tFRDQyNklZMWpjWXFaOXgyUEx2OElZVzNjdHRHQzdzUHR1cw?oc=5",
-    "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
-    "summary": [
-      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리TV."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -91,6 +124,20 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "ndb209651",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2ZPYUdqZzlDeTZ1MUlocGIwazNHcThRT2VaQm8zR1FvTFNnYVcyM1U0bTRYWEh4cUlTUzNyTFh6X25sUE5zTHZNRmt5Z2phWV9QakVvazhfRzVyT2ppNHItV1lIdUJwU2w2d0U5N0NJMllrdUxUZjNHcHUtaU9DaldIcGxyaFHSAZsBQVVfeXFMUDlmS2hsN3lfTlZTdGo5aWJoWXJicXltWGhqeElZVHVHUmctUUVJMnFOODZoZGhPeFhMTW5GMnJGU2dRUXEwNV9yYkZ6V2dzbDhyb05oZ01oZVprVC04QzZsYjNsN1UxS0VyWnRiOEV2UmtMcXF4eDNpTllobjdoUFJRY2tKOTM5dm1KU3dzTm9xWmNnVkRreC1QdlE?oc=5",
+    "title": "[단독] 창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈",
+    "summary": [
+      "[단독] 창업 2년된 ‘K로봇 스타트업’ 홀리데이, 1500억 투자유치… 유니콘 등극 눈앞 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -195,6 +242,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf7aebd8b",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "110일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
+    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
+    "summary": [
+      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n0f008420",
     "category": "경제",
     "source": "한겨레",
@@ -221,21 +282,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
-    ]
-  },
-  {
-    "id": "n0fd44a05",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "142일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
-    "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
-    "summary": [
-      "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\" 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
     ]
   },
   {
@@ -269,26 +315,175 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n03c60d8b",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/10/2026051002340789574",
-    "title": "'아형 고정' 김신영, 출연료 협상 만족? \"장학금 타결 잘됐다\"",
+    "id": "nbd81cd61",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260510001000075",
+    "title": "'대중교통 불모지' LA 지하철 일부연장…예산·화석에 65년 걸려",
     "summary": [
-      "김신영이 '아는 형님' 새 고정 멤버로 합류한 가운데 출연료 협상에 대한 만족감을 드러냈다.",
-      "9일 방영된 JTBC '아는 형님' 528회에서는 김희철의 휴식 소식과 함께 김신영의 새 고정 합류가 공개됐다.",
-      "이날 서장훈은 \"공지 사항이 있다."
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = '대중교통 불모지'로 불리는 미국 캘리포니아주 로스앤젤레스(LA)에 65년간 숙원사업이었던 지하철 구..."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90994cf2",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/10/2026051000390576867",
+    "title": "\"너 형한테 따라잡힌다?\" 한마디에 홈런 쾅! 한화가 누리는 노시환 효과, KBO 최고 유망주 장타 본능까지 일깨운다",
+    "summary": [
+      "노시환(26)이 살아나자 한화 이글스가 춤을 춘다.",
+      "그 가운데에는 KBO 최고 유망주 중 하나인 문현빈(22)도 있었다.",
+      "문현빈은 9일 대전한화생명볼파크에서 열린 2026 신한 SOL KBO리그 정규시즌 LG 트윈스와 홈경기에서 3번 타자 및 좌익수로 선발 출장해 5타수 2안타(1홈런) 3타점 1득점 1삼진을 기록, 한화의 11-3 승리를 이끌었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n587d50c9",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/10/2026051000314566867",
+    "title": "'이럴수가' 다저스·양키스보다 더 잘하는 팀 있다? 무려 91년 만에 10연승 2번, 컵스 기세 보소! 日투타 핵심 대단하네",
+    "summary": [
+      "'우주 군단' LA 다저스도, '전통의 강호' 뉴욕 양키스도 아니다.",
+      "2026시즌 메이저리그 초반을 지배하고 있는 주인공은 '좌완 투수' 이마나가 쇼타(33)와 외야수 스즈키 세이야(32) 등 '일본인 투타 핵심'이 버티고 있는 시카고 컵스다.",
+      "컵스는 9일(한국시간) 미국 텍사스주 알링턴에 위치한 글로브 라이프 필드에서 열린 텍사스 레인저스와 '2026 메이저리그(MLB)' 원정경기서 7-1로 완승을 거뒀다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n416454c1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/10/MM3DMZLGHAZDANTBMQ4GGNBVGU/",
+    "title": "'김민재 선발 45분+케인 PK 실출+올리세 결승골' 바이에른, 볼프스부르크 1-0 제압...리그 27승 승점 86점 적립",
+    "summary": [
+      "[OSEN=정승우 기자] 김민재(30)가 선발 출전한 바이에른 뮌헨이 마이클 올리세의 결승골을 앞세워 볼프스부르크를 꺾었다.",
+      "김민재는 전반전 안정적인 수비를 펼친 뒤 후반 시작과 함께 교체됐다.바이에른은 10일(한국시간) 독일 볼프스부르크의 폭스바겐 아레나에서 열린 2025-2026시즌 분데스리가 33라운드 원정 경기에서 볼프스부르크를 1-0으로 제압했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f5e0d30",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260510_0003622992",
+    "title": "美 \"대이란 해상봉쇄 이행으로 상선 58척 회항·4척 무력화\"",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 미국은 이란을 겨냥한 해상 봉쇄 작전으로 현재까지 상선 58척을 회항시키고 4척을 무력화했다고 9일(현지 시간) 밝혔다.",
+      "중동 지역 미군 군사 작전을 총괄하는 중부사령부(CENTCOM)는 이날 소셜미디어 엑스(X·옛 트위터)를 통해 \"미 해군의 해상 봉쇄는 계속해서 전면적으로 이행되고 있다\"고 밝혔다.",
+      "이어 \"4월 13일 이후 이날까지 상선 58척의 항로를 돌리고 4척을 무력화해 이들 선박의 이란 항구 출입을 막."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n878530bd",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/10/2026051003193143536",
+    "title": "'고졸' 사미자, '서울대' 이순재와 출연료 비교에 상처 \"아직도 사무쳐\"",
+    "summary": [
+      "배우 사미자가 과거 학력 때문에 출연료 인상을 거절당했던 상처를 털어놨다.",
+      "당시 사미자는 이순재와의 출연료 차이를 언급했다가 \"서울대 나온 사람과 어떻게 똑같이 주냐\"는 말을 들었다며 \"아직도 머릿속에 맴돈다\"고 고백했다.",
+      "9일 방영된 JTBC '아는 형님' 528회에서는 원로 배우 김영옥, 사미자, 남능미가 출연해 입담을 뽐냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04f6ac2f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/10/2026050917115078306",
+    "title": "'두산을 구하다' 결정적 다이빙 캐치 펼친 정수빈, 월간 캡스플레이 첫 수상 영광",
+    "summary": [
+      "역시 '수비' 하면 정수빈(36)이다.",
+      "한국야구위원회(KBO)에 따르면 2026 신한 SOL KBO 리그 월간 캡스플레이의 첫 번째 수상자로 두산 베어스의 베테랑 외야수 정수빈이 선정됐다.",
+      "올해 신설된 '월간 캡스플레이'는 팀 승리에 기여한 결정적인 호수비를 펼친 선수를 선정하는 시상이다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na97ef5c2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "43분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/05/10/3N4CAVX2HFAGBJ7RL46CHDESCM/",
+    "title": "여권의 내란 몰이용 개헌, 야당만 결집시켰다",
+    "summary": [
+      "여권의 내란 몰이용 개헌, 야당만 결집시켰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neb6ca795",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "43분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/05/10/TIJDWNQ4YRDBXNC74F7N7ZHH44/",
+    "title": "“입장료 50원, 골고루 구경 700원”… 응답하라 1973 어린이대공원",
+    "summary": [
+      "“입장료 50원, 골고루 구경 700원”… 응답하라 1973 어린이대공원."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1fada6f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "43분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/10/NDWLE6UTEJABNL4ERAXZ2QETRE/",
+    "title": "“골칫덩이로 떠오른 이란 초강경파, 종전 협상 저지 이끌어”",
+    "summary": [
+      "“골칫덩이로 떠오른 이란 초강경파, 종전 협상 저지 이끌어”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63876da6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "58분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260510000900072",
+    "title": "미, 중·러 거부권 우려에 안보리 '호르무즈 결의안' 수정",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국이 이란의 호르무즈 해협 봉쇄 위협에 대응하기 위해 추진 중인 유엔 안전보장이사회(안보리) 결의안 초안을..."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n3e994d28",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260510_0003622991",
     "title": "헝가리 머저르 총리 공식 취임…오르반 16년 집권 종식",
     "summary": [
@@ -301,89 +496,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naa727251",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/05/10/G5SGCOJSGM4GMNBRMQ4TIYJVGM/",
-    "title": "이정후 살아났는데 시즌 포기했나…‘ML 29위’ SF, 'GG 2회' 포수 트레이드→유망주+지명권 받았다 [공식 발표]",
-    "summary": [
-      "[OSEN=길준영 기자] 샌프란시스코 자이언츠가 주전 포수 패트릭 베일리(27)를 트레이드했다.",
-      "메이저리그 공식매체 MLB.com은 10일(한국시간) “버스터 포지는 2024년 9월 샌프란시스코 자이언츠 야구운영부문 사장으로 취임한 이래로 여러 차례 과감한 결정을 내렸다.",
-      "이번에는 한 때 자신의 후계자로 여겨진 포수를 트레이드하는 충격적인 행보를 보였다”며."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nf58eeefb",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/10/2026050915002513008",
-    "title": "KIA 타이거즈, 3~4월 '10홈런 폭발' 김도영 및 '4승 ERA 1.64' 올러 'MVP' 선정",
-    "summary": [
-      "KIA 타이거즈가 3~4월 자체 MVP로 김도영과 올러를 각각 선정했다.",
-      "먼저 내야수 김도영이 키스코에서 시상하는 3~4월 월간 MVP에 선정됐다.",
-      "김도영은 3월과 4월 28경기에 출전해 27안타 10홈런 27타점 타율 0.255 OPS(출루율+장타율) 0.950의 성적으로 활약했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8eb4324",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/10/2026051000553958631",
-    "title": "'충격' 11억팔 유망주 몰락, 고작 150만원에 불법 이민 운반→美 퇴출 위기 \"재활 중 돈 필요했다\"",
-    "summary": [
-      "샌디에이고 파드리스의 '핵심 유망주'로 평가받는 멕시코 출신 우완 투수 움베르토 크루즈(20)가 미국 내 불법 체류자 운반에 가담했다가 체포돼 사실상 미국 야구계에서 퇴출당할 위기에 처했다.",
-      "샌디에이고 유니온-트리뷴 등 미국의 복수 매체들이 9일(한국시간) 일제히 보도한 바에 따르면 크루즈는 미등록 이민자를 가로질러 운반한 혐의(미등록 외국인 운송 방조)에 대해 유죄를 받았다.",
-      "현지 매체들이 입수한 애리조나 연방 법원 기록에 따르면 이번 사건으."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne9cdd080",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "29분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/10/MNSDIOLEGY3DKYLGME3DQMDBMI/",
-    "title": "미군, 호르무즈서 대이란 봉쇄…“선박 4척 무력화”",
-    "summary": [
-      "미군이 이란을 겨냥한 해상 봉쇄 작전으로 현재까지 상선 수십 척의 항로를 돌리고 일부 선박을 무력화했다고 발표했다.",
-      "중동 지역을 담당하는 미 중부사령부(CENTCOM)는 9일(현지 시각) 소셜미디어 엑스(X)를 통해 “지난 4월 13일 이후 이란 항구로의 입출항을 막기 위해 상선 58척의 항로를 변경시키고 4척을 무력화했다”고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd2483d72",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/10/G4ZTEOBVMZRDIZTBGY2WEY3BGY/",
-    "title": "“양의지 선배님, 하루만 더 쉬세요” 3년 만에 데뷔 첫 홈런, 두산 포수 고민 덜었다 [오!쎈 잠실]",
-    "summary": [
-      "[OSEN=잠실, 길준영 기자] 프로야구 두산 베어스 윤준호(26)가 데뷔 첫 홈런을 터뜨렸다.",
-      "윤준호는 9일 서울 잠실구장에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에 8번 포수로 선발출장해 1타수 1안타 1홈런 2타점 1득점 2볼넷을 기록했다.",
-      "2회말 선두타자로 나선 윤준호는 볼넷으로 출루했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nebce33d7",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "31분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260509047251098",
     "title": "한타바이러스 크루즈선, 10일 카나리아 제도에…주민 반발(종합)",
     "summary": [
@@ -394,26 +510,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndc5fc3d9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/10/MQYGGNJSMZSGKM3EG5SDGMTEGI/",
-    "title": "\"당연한 일\" 큰 형님이 거친 숨을 몰아쉬는데… 안 뛸 수가 없다, 6연승 단독 3위 우연이 아니다",
-    "summary": [
-      "[스포츠조선 정현석 기자]삼성 라이온즈가 파죽의 6연승으로 SSG랜더스를 밀어내고 단독 3위로 올라섰다.",
-      "삼성은 9일 창원NC파크에서 열린 NC 다이노스전에서 막판 집중력 속에 5대4로 이틀 연속 한점 차 승리로 짜릿한 연승을 달렸다.",
-      "그 중심에 '큰 형님' 최형우(43)가 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na9d82dcb",
     "category": "사회",
     "source": "뉴시스",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260508_0003621468",
     "title": "\"집에서도 필수\"…50대 엄정화, 기미·잡티 막는 '무결점 피부' 비결은?",
     "summary": [
@@ -429,7 +529,7 @@ window.NEWS_DB = [
     "id": "nad7853f3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260509_0003622636",
     "title": "안선영, 선명한 복근 자랑…몸매 유지하는 운동 루틴, 뭐길래?",
     "summary": [
@@ -442,42 +542,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n57312488",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "45분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/10/2026051000305968547",
-    "title": "'충격적 패배' 女 최강이 男 U-14 팀에 무너졌다 \"아직 운전대도 못 잡는 청소년들인데...\"",
-    "summary": [
-      "대학 여자축구 강호가 14세 미만(U-14) 소년 팀과의 연습 경기에서 패배하며 미국 내 스포츠 성별 자격 논란에 다시 불을 지폈다.",
-      "엘리트 성인 여성 선수들이 아직 운전면허조차 딸 수 없는 청소년들에게 무너지자 미국 전역도 큰 충격을 받은 듯하다.",
-      "미국 매체 '시애틀 레드'는 9일(한국시간) \"워싱턴대 여자 축구팀이 지난주 14세 이하 소년 팀과의 스크림리지에서 패배했다\"며 \"아직 운전대를 잡을 나이도 되지 않은 아이들에게 경기를 내준 것\"이."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb5ffe2de",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "58분 전",
-    "url": "https://www.newsis.com/view/NISX20260510_0003622988",
-    "title": "佛 이어 英군함도 중동으로 이동…종전 후 호르무즈 개방 대비",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 영군 해군 함정이 호르무즈 해협의 항행 자유 지원을 위해 중동 지역에 배치된다.",
-      "AFP 통신 등 외신에 따르면 영국 국방부는 9일(현지 시간) 호르무즈 해협에서 다국적 해상 보호 임무 채비를 갖추고자 영국 해군의 구축함 'HMS 드래곤'을 중동에 파견할 예정이라고 밝혔다.",
-      "영국 국방부 대변인은 \"HMS 드래곤의 사전 배치는 영국과 프랑스가 주도하는 다국적 연합의 일원으로, 여건이 허락하는 대로 호르무즈 해협의 안."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n31194315",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260510000400005",
     "title": "개막식도 황금사자상도 없이…베네치아 비엔날레 대중 공개 시작",
     "summary": [
@@ -491,7 +559,7 @@ window.NEWS_DB = [
     "id": "nf7130ed1",
     "category": "사회",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151706",
     "title": "\"사후조정, '초기업노조' 대신 '전삼노'가 맡아야\"...삼성전자 노조 내홍 '확전'",
     "summary": [
@@ -504,38 +572,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2482ae86",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260510000300071",
-    "title": "미군 \"대이란 해상봉쇄로 상선 58척 회항·4척 무력화\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미군은 이란을 겨냥한 해상 봉쇄를 통해 지금까지 상선 58척을 회항시키고 4척을 무력화했다고 9일(현지시간..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4084f8e3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260510000200009",
-    "title": "이란 매체, 호르무즈 해저케이블 사용료 징수 제안",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 이란 매체가 호르무즈 해협 해저를 지나는 인터넷 케이블에 사용료를 부과하자는 제안을 내놨다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nba0f0e81",
     "category": "사회",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.asiae.co.kr/article/2026050922290081617",
     "title": "[6.3선거]민주 광주시당, 후보 104명 확정…여성 48%",
     "summary": [
@@ -551,7 +591,7 @@ window.NEWS_DB = [
     "id": "n777677e7",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260510/133890792/1",
     "title": "이스라엘·헤즈볼라, 휴전 중에도 교전 지속…IDF 레바논 남부 타격",
     "summary": [
@@ -565,7 +605,7 @@ window.NEWS_DB = [
     "id": "n4fba1bc5",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151705",
     "title": "[글로벌] 브로드컴·오픈AI, 24조원 규모 자체 AI 칩 개발 자금 조달 난항",
     "summary": [
@@ -581,7 +621,7 @@ window.NEWS_DB = [
     "id": "n0c0984ca",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151704",
     "title": "[글로벌] 엔비디아, AI 데이터센터 개발사 IREN에 최대 2조9000억원 투자",
     "summary": [
@@ -592,52 +632,6 @@ window.NEWS_DB = [
       "#AI",
       "#엔비디아"
     ]
-  },
-  {
-    "id": "n122d45b3",
-    "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151703",
-    "title": "[글로벌] 첫 외부투자 나선 딥시크, 몸값 한 달 만에 29조→65조원",
-    "summary": [
-      "중국의 대표 인공지능(AI )스타트업 딥시크가 설립 후 처음으로 외부투자 유치에 나섰습니다.",
-      "중국 정부의 국책 펀드가 투자를 이끌 것으로 추정되는 가운데, 기업가치는 450억달러(약 65조원)로 평가받고 있습니다.지난 7일 파이낸셜타임스(FT) 등 외신에 따르면 딥시크는 외부 벤처캐피털(VC)을 통한 첫 자금 조달을 논의 중입니다.",
-      "투자 논의 과정에서 딥시크의 잠재 기업가치는 한달 만에 200억달러(약 29조원)에서 450억달러(약 65조원)로."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n064e528a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260509/133890785/1",
-    "title": "캣츠아이, 美 ‘아메리칸 뮤직 어워즈’ 무대 오른다",
-    "summary": [
-      "‘K-팝 최대 기획사’ 하이브(HYBE) 글로벌 걸그룹 ‘캣츠아이(KATSEYE)’가 미국 대중음악 시상식 ‘아메리칸 뮤직 어워즈(American Music Awards)’ 무대에 오른다.9일 소속사 하이브-게펜레코드에 따르면, 캣츠아이는 오는 25일(현지시간) 미국 라스베이거스 MGM 그랜드 가든 아레나(MGM Grand Garden Arena)에서 열리는 제52회 아메리칸 뮤직 어워즈 시상식에서 공연한다.",
-      "‘아메리칸 뮤직 어워즈’는 ‘빌보드."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb30d3b9c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260509/133890782/1",
-    "title": "트럼프 “휴전 연장 기대”…러 “합의까진 갈 길 멀어”",
-    "summary": [
-      "러시아는 9일(현지 시간) 미국이 우크라이나 전쟁을 종식하고자 평화협정을 서둘러 체결하려 하고 있지만, 쟁점은 매우 복잡하고, 협상이 사실상 중단된 상태라며 “합의에 도달하기까지 아직 갈 길이 멀다”고 밝혔다.드미트리 페스코프 크렘린궁 대변인은 이날 러시아 베스티와의 인터뷰에서 “우크라이나 문제 해결은 매우 복잡하다”며 협정 체결은 “세부 사항이 많아 긴 여정이 될 것”이라고 말했다.유리 우샤코프 크렘린궁 외교정책보좌관도 “종전 협상은 현재 중."
-    ],
-    "chips": [
-      "#정책"
-    ]
   }
 ];
 
@@ -646,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
+    "tag": "엔비디아",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "스타트업",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
