@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-10 17:41:55
+// 마지막 업데이트: 2026-05-10 18:45:24
 window.NEWS_DB = [
   {
     "id": "nb827dc79",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VjlmSmdkcGdqZU9IX3ZQY2Q3d3hVeF90TjdnamlQMHU2OTNfdERqam5kcUV4bjZKdHpVUGxBQ0RQaHVtTzJnTEFkLWN4ZjZodEpKWW9HRWlPd9IBXkFVX3lxTFBJTFNJaWthaWNLRzVMMXhwLTViYjMtU2duRHZCWFpzdjlQZWV6UTVVSmdWak4tcVJDWU44R3B2eEgxTnZldjhOa29QcjlwelVrR2x4aUt4UVcybDhTTWc?oc=5",
     "title": "공장 하나 없는 엔비디아는 어떻게 AI반도체의 제왕이 됐나 [글로벌 리포트]",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n41646aed",
     "category": "IT",
     "source": "매일경제 마켓",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBucm9VaTNxMGhTZmZ3bGR5ZkxHT1JHUXpPQWM0aDJKN25aaE9jcTcxRzd3Y055bXZZVzNrYW5HWG1WWWptSU1DYktidDFNdVVZNkE?oc=5",
     "title": "AI 패권 최강자, 반도체냐 하이퍼스케일러냐 엔비디아 vs 구글 시총1위 대결",
     "summary": [
@@ -84,7 +84,7 @@ window.NEWS_DB = [
     "id": "n2970703c",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
     "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
     "summary": [
@@ -138,22 +138,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "ne8fc1a48",
-    "category": "IT",
-    "source": "beSUCCESS",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rMGhVc1lBXzdzMFctc0NjRDdTdmdZT2s0cl8yUzVGRUFQemdRMFQyeXl0MENOZDZwZGhkV0lZQ2JVNU9mclE?oc=5",
-    "title": "경기혁신센터-아이티센 그룹, ‘2026 유니콘 브릿지’ 추진…AI·Web3 스타트업 모집",
-    "summary": [
-      "경기혁신센터-아이티센 그룹, ‘2026 유니콘 브릿지’ 추진…AI·Web3 스타트업 모집 beSUCCESS."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업",
-      "#채용"
     ]
   },
   {
@@ -213,21 +197,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "80일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
     "id": "n759c2467",
     "category": "IT",
     "source": "Chosunbiz",
@@ -258,20 +227,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13368a59",
-    "category": "사회",
-    "source": "브릿지경제",
-    "time": "94일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jMmZjeU5pbDFPRkVZU2dNcUxUdUxYY0UzaVM1endCUnlpY25YVjd5QjI1LUVuNTlFNHFvYW1wWVhpZFRVN2QyZ050b3FCbmU4Q1ctVl9uVFEwUQ?oc=5",
-    "title": "파주시, ‘종합 취업지원 체계’ 강화…AI 교육·현장 채용으로 고용안정 나서",
+    "id": "n4e566404",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "111일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZDJjVkdNel9WZ3RDNWFsU3JaYzRDNmN6ZjktOU5hUlAtWEY3MUV4TTVGUy1rQ05CTFVBWV9lR2pxai1ULW9Nd2lrZzAxNjMwZ1h5ZHpBV1Y4UdIBVEFVX3lxTE1NWk5tXzdDNmp3R09IMG1rT2xqMFVfSWlyZU1yTmJMVTdRUXU4SWV5MWx3bzJlWk1fQ1FmcHU2SmZVdXdNM3dvSTVUTmJLcDNSaDN6cg?oc=5",
+    "title": "\"2개월 만에 2억 날렸다\"…내집 마련 실패한 40대 가장 '멘붕' [돈앤톡]",
     "summary": [
-      "파주시, ‘종합 취업지원 체계’ 강화…AI 교육·현장 채용으로 고용안정 나서 브릿지경제."
+      "\"2개월 만에 2억 날렸다\"…내집 마련 실패한 40대 가장 '멘붕' [돈앤톡] 한국경제."
     ],
     "chips": [
-      "#AI",
-      "#채용",
-      "#취업",
-      "#고용"
+      "#뉴스"
     ]
   },
   {
@@ -304,6 +270,36 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0fd44a05",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "143일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
+    "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
+    "summary": [
+      "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\" 조선일보."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "191일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -319,41 +315,205 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf3ed1132",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/11/2026051102245771209",
-    "title": "'결벽' 이동휘, 손님 화장실 사용법까지 관리? \"마동석·유재석은 예외\"",
+    "id": "n371d507a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260511/133895576/1",
+    "title": "알츠하이머병 예방법은 달걀 섭취? 美 연구진 분석",
     "summary": [
-      "배우 이동휘가 집에 손님이 와도 로비에서 만날 정도로 철저한 청결 습관을 공개했다.",
-      "10일 방송된 SBS '미운 우리 새끼' 494회에서는 배우 이동휘가 게스트로 출연해 입담을 뽐냈다.",
-      "이날 신동엽은 이동휘에 대해 \"천만 영화를 세 번이나 해냈다."
+      "달걀이 치매를 일으키는 가장 흔한 퇴행성 뇌질환 알츠하이머병 예방에 도움을 줄 수 있다는 연구 결과가 나왔다.",
+      "지난 7일 영국 데일리 메일에 따르면 미국 캘리포니아 로마린다 대학교 연구진은 달걀 섭취량이 많을수록 알츠하이머병 발병 위험이 단계적으로 낮아지는 경향을 관찰했다.연구진은 약 4만명의 성인을 대상으로 15년 동안 추적 관찰하는 대규모 장기 프로젝트를 진행했다.",
+      "달걀 섭취량과 알츠하이머병 발병률의 상관관계를 분석했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n93d61359",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/11/MVSDGNJVMVSTCODGMY2DEMZUGE/",
+    "title": "\"레알 마드리드와 접촉한 적 없다\"며 신중한 무리뉴와 다른 'HERE WE GO'의 확신 \"무리뉴는 '예스'라고 말할 준비가 돼 있다\"",
+    "summary": [
+      "[스포츠조선 노주환 기자]\"무리뉴 감독은 오케이를 할 준비가 돼 있다.\" 유럽 축구 이적 전문가 파브리지오 로마노는 포르투갈 출신 명장 조제 무리뉴 감독(현 벤피카)의 레알 마드리드 복귀를 강력하게 점치고 있다.",
+      "그는 10일(한국시각) 자신의 SNS를 통해 \"벤피카가 구단이 무리뉴 감독이 잔류하기 원하고 있다.",
+      "새로운 계약을 제안할 예정이라고 한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n79d943c8",
+    "id": "nbf39df37",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/11/G44WGODGMVRDEZBRGZSGGYZRGM/",
-    "title": "'아스날은 우승, 토트넘은 잔류 가까이!' 아스날, 웨스트햄 원정서 1-0 진땀승...트로사르 결승골로 승점 79점→우승 8부 능선 넘었다",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051102252538066",
+    "title": "美충격 폭로! \"SF, 이정후 1246억원 고액 잔여 연봉 털어내고 싶어해\" 시즌 벌써 포기 조짐",
     "summary": [
-      "[OSEN=정승우 기자] 아스날이 우승 경쟁의 불씨를 살렸다.아스날은 11일(한국시간) 영국 런던의 런던 스타디움에서 열린 2025-2026시즌 프리미어리그 36라운드 웨스트햄 유나이티드 원정 경기에서 1-0으로 승리했다.이 승리로 아스날은 선두 경쟁에서 물러서지 않았다.",
-      "전날 맨체스터 시티가 브렌트포드를 3-0으로 꺾은 상황에서 반드시 승리가 필요했던 아."
+      "미국 메이저리그(MLB) 샌프란시스코 자이언츠가 팀의 핵심이자 거액의 계약을 맺은 이정후(27)를 비롯한 고액 연봉자들을 정리하고 싶어 한다는 충격적인 현지 폭로가 나왔다.",
+      "부진한 성적으로 인해 '최악의 팀'이라는 비판 속에 샌프란시스코가 결국 시즌을 포기하고 '리셋' 버튼을 누르기 시작했다는 분석이다.",
+      "미국 USA 투데이가 11일(한국시간) 보도한 바에 따르면 샌프란시스코 자이언츠는 최근 심각한 성적 부진과 고착화된 노쇠화 문제를 해결하기 위."
     ],
     "chips": [
-      "#EPL"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne1eb2e30",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051012050153581",
+    "title": "\"우~\" 도대체 김재환을 향한 두산 팬들 야유는 언제까지? \"괜찮다고 본인은 그러지만 괜찮겠는가\"",
+    "summary": [
+      "두산 베어스의 프랜차이즈 스타로 남을 것만 같았던 그의 이적.",
+      "그리고 그의 첫 친정팀 방문 경기.",
+      "그를 맞이한 건 박수보다 상상 이상의 야유였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndbcc9736",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260511002300071",
+    "title": "[속보] 백악관 \"트럼프-시진핑, 현지시간 14일 오전 베이징서 회담\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n67f17025",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260511_0003623530",
+    "title": "[속보]美당국자 \"트럼프, 13일 저녁 베이징 도착…14~15일 시진핑 회담\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n37da9905",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "41분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/05/11/HAYDQOJVMI4DKYZVMVSTMN3BMM/",
+    "title": "일본 신났다! 美매체, 무라카미 이어 오카모토 AL 신인왕 투표 경쟁 가능성 제기",
+    "summary": [
+      "[스포츠조선 박상경 기자] 무라카미 무네타카(시카고 화이트삭스)에 이어 오카모토 가즈마(토론토 블루제이스)의 아메리칸리그 신인왕 가능성이 제기됐다.",
+      "미국 야후스포츠의 조던 슈스터먼은 10일(한국시각) 오카모토를 향해 '특별한 재능을 가진 선수'라고 전했다.",
+      "그는 \"오카모토는 개막 후 18경기를 치른 시점에서 OPS(출루율+장타율)가 0.553까지 떨어졌었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f235dc3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260511_0003623526",
+    "title": "미군 배치 취소된 독일 \"토마호크라도…\" 구매 추진",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 독일이 도널드 트럼프 미 대통령과 갈등을 빚은 후 미국 토마호크 순항미사일 구매를 다시 추진하고 있다고 파이낸셜타임스(FT)가 10일(현지 시간) 보도했다.",
+      "미 국방부가 독일 내 미사일 배치 계획을 철회하면서 대(對)러시아 억제력에 공백이 생기는 데 따른 것이다.",
+      "FT에 따르면 독일 정부는 토마호크 미사일과 타이폰 지상 발사 시스템을 함께 구매하는 방안을 추진 중이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd6efee9f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "42분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051023563219083",
+    "title": "'경기 막판 4골 융단폭격' 한국 U-17, 베트남에 4-1 짜릿한 대역전승",
+    "summary": [
+      "한국 17세 이하(U-17) 축구 대표팀이 경기 막판 4골을 퍼부으며 베트남에 짜릿한 역전승을 거뒀다.",
+      "김현준 감독이 이끄는 U-17 대표팀은 11일 오전 1시(한국시간) 사우디아라비아 제다의 킹 압둘라 스포츠 시티 피치 퓨처 C에서 열린 베트남과의 '2026 U-17 아시안컵' C조 조별리그 2차전에서 2-0으로 승리했다.",
+      "총 16개 팀이 참가하는 이번 대회는 4개 팀씩 4개 조로 나뉘어 조별리그를 치른 뒤 각 조 상위 2팀이 8강 토너먼트에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90988ecc",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "45분 전",
+    "url": "https://www.chosun.com/culture-life/2026/05/11/VGQU5XZ56ZBE5HVRMCA4ME73JA/",
+    "title": "손수건, 진짜 남자는 남을 위해 준비한다",
+    "summary": [
+      "손수건, 진짜 남자는 남을 위해 준비한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b1d17cd",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260511001800091",
+    "title": "AI 기업 투자자가 된 엔비디아…올해만 58조원 쏟아부어",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 칩 1위 기업인 엔비디아가 AI 기업 투자사 역할까지 자처하고 있는 것으로 나타났다."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n35c5450c",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "56분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/11/2026051102394372005",
+    "title": "이동휘, 700만원 '노숙자룩' 해명…\"방송 이후에 못 입어\" 왜?",
+    "summary": [
+      "배우 이동휘가 화제를 모은 '노숙자 패션'의 진실을 밝혔다.",
+      "700만원대로 알려진 해당 의상은 약 100만원 대의 명품 옷으로 현재 이동휘는 옷이 방송에 나간 이후 못 입고 있다는 사연도 털어놨다.",
+      "10일 방영된 SBS '미운 우리 새끼' 494회에서는 배우 이동휘가 게스트로 출연해 남다른 패션 철학을 공개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3aecb99c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "59분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260511001700087",
+    "title": "베네수-가이아나 영토분쟁 격화…고유가 속 석유 이권 놓고 충돌",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 중동전쟁으로 촉발된 고유가 행진 속에 석유 매장지 에세퀴보 지역을 두고 베네수엘라와 가이아나의 영토분쟁..."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n38a2cc36",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260511001600071",
     "title": "美에너지장관, 이란과 '핵금지'없는 잠정합의 \"가능성 있다\"",
     "summary": [
@@ -364,58 +524,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n50719e31",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "24분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051011133552521",
-    "title": "'불펜 투수 선발행+0B2S 투수교체' 예측 불가 한화 마운드, 마침내 정상화되나 '개점휴업' 외인 1군 동행 [대전 현장]",
-    "summary": [
-      "선발 투수들의 잇따른 부상으로 예측 불가능한 운영이 나왔던 한화 이글스 마운드가 마침내 정상화될 조짐을 보인다.",
-      "한화 김경문 감독은 10일 대전한화생명볼파크에서 열린 2026 신한 SOL KBO리그 정규시즌 LG 트윈스와 홈경기를 앞두고 \"화이트가 오늘(10일)부터 합류했다.",
-      "그동안 우리와 너무 오래 떨어져 있었다\"고 외국인 투수 오웬 화이트(27)의 1군 동행 소식을 알렸다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n071a7524",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "40분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051020175290984",
-    "title": "'안면 피투성이→통한의 대역전패' 日 사상 최초 꿈, 8번째 도전마저 실패 \"정말 끈질긴 선수였는데...\"",
-    "summary": [
-      "일본 격투기 역사상 최초의 UFC 챔피언 탄생은 끝내 이뤄지지 않았다.",
-      "'격투가 왕자' 랭킹 3위 타이라 타츠로(26·일본)가 조슈아 반(24·미국)의 펀치 세례에 쓰러지자, 일본 현지 팬들은 아쉬움과 함께 세계 최정상 무대의 높은 벽을 실감한다는 반응을 쏟아냈다.",
-      "타이라는 10일(한국시간) 미국 뉴저지주 뉴어크 프루덴셜 센터에서 개최된 'UFC 328' 코메인 이벤트 플라이급 타이틀전에서 챔피언 반에게 5라운드 1분 32초 만에 TKO로 패했."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb1bb2d95",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "41분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/11/2026051014200822315",
-    "title": "[사설]'속도전' 하겠다던 공급대책의 공회전",
-    "summary": [
-      "정부가 1·29 대책을 통해 도심 6만 가구 신속 공급을 공언한 지 100일이 지났지만 속도는 기대에 미치지 못하고 있다.",
-      "핵심 사업들은 이해관계 조정과 절차 지연에 막혀 진전이 더디고, 매매와 임대 시장 모두에서 매물 감소와 가격 상승이 동시에 나타나고 있다.",
-      "도심 핵심 부지는 구조적 제약이 분명해진 모습이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7ba947e5",
     "category": "사회",
     "source": "뉴시스",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260509_0003622656",
     "title": "가정폭력범에게도 전자발찌 채우는 나라는",
     "summary": [
@@ -428,88 +540,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4f25a0cd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "46분 전",
-    "url": "https://www.newsis.com/view/NISX20260511_0003623525",
-    "title": "英, 한타바이러스 감염 의심 자국민 위해 공수부대 투입",
-    "summary": [
-      "[서울=뉴시스]신정원 기자 = 영국이 크루즈선 한타바이러스 감염 의심 자국민을 돕기 위해 공수부대를 투입했다.",
-      "BBC에 따르면 영국 국방부는 10일(현지 시간) \"영국군 의무병들이 한타바이러스 감염 의심 영국인 남성을 돕기 위해 대서양 외딴섬 트리스탄다쿠냐섬에 낙하산을 타고 긴급 투입됐다\"고 밝혔다.",
-      "영국군은 제16공중강습여단 공수부대원 6명과 의료진 2명을 낙하산으로 투입했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n86d579af",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "51분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/11/MI2DSM3EMUYTSN3CMNQTEMBSME/",
-    "title": "문승원-김민-이로운-노경은-조병현 6이닝 무실점, 필승조 투입한 총력전에도 충격 2연패 [오!쎈 잠실]",
-    "summary": [
-      "[OSEN=잠실, 길준영 기자] 프로야구 SSG 랜더스가 주말 3연전 마지막 경기에서 총력전을 펼쳤지만 위닝시리즈를 내주고 말았다.",
-      "SSG는 10일 서울 잠실구장에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 두산 베어스와의 경기에서 1-3으로 패했다.",
-      "SSG 이숭용 감독은 이날 경기에 앞서 일찌감치 총력전을 선언했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n4f5718e5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "56분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260511001500085",
-    "title": "\"독일, 美와 갈등 속 '재고압박' 토마호크 구매 재추진\"",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 미국이 토마호크 순항 미사일 운용 부대를 독일에 배치하려던 계획을 철회하면서 독일이 토마호크를 직접 구매하려..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n73429dea",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/11/ME4DQMZUGRSDKNZQMM3DCMJVGI/",
-    "title": "\"스친 걸로 봤다\" 악! 끝내기 사구? VR이 없네...투수도 놀랐지만 \"안 맞긴 했다\"",
-    "summary": [
-      "[고척=스포츠조선 정현석 기자]\"스친 걸로 봤다.\" 끝내기 몸에 맞는 공이 될 뻔했던 상황.",
-      "KT 위즈 베테랑 투수 우규민이 가슴을 쓸어내렸다.",
-      "우규민은 6-6이던 10회말 1사 만루의 절체절명의 끝내기로 패할 수 있는 상황에 마운드에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n363000f7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/volleyball/2026/05/11/GIZTKZLCMI3GCNRYMU4GCNDCG4/",
-    "title": "'챔프전 직전 방출' 콧수염 외인, 전체 1순위로 돌아왔다…새얼굴 3명·재계약 3명 [공식발표]",
-    "summary": [
-      "[스포츠조선 이종서 기자] V-리그 남자부 외국인선수가 모두 정해졌다.",
-      "한국배구연맹(이하 KOVO)은 10일(이하 한국시각) 남자부 외국인선수 트라이아웃 결과를 발표했다.",
-      "지난 시즌 역순으로 순위 추첨 구슬수가 정해진 가운데 OK저축은행(30개)이 삼성화재(35개)를 제치고 전체 1순위 선택권을 얻었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nd2cf6859",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260511/133895508/1",
     "title": "이번엔 노로바이러스…크루즈서 115명 집단 감염",
     "summary": [
@@ -520,40 +554,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8fca22aa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260511000800071",
-    "title": "美유엔대사 \"트럼프, 이란공격재개前 외교에 최대기회 주고있어\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 마이크 왈츠 유엔 주재 미국대사는 10일(현지시간) 도널드 트럼프 미국 대통령이 이란에 대한 공격 재개 카..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nefcf7727",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260508_0003622518",
-    "title": "\"소변은 건강 척도\"…'스마트 기저귀' 탄생한 사연[같이의 가치]",
-    "summary": [
-      "[서울=뉴시스] 권혁진 기자 = 아기가 소변을 보면 기저귀가 영양 상태와 건강 이상 신호를 감지해 부모에게 알려준다.",
-      "탄탄한 제조 인프라와 혁신 기술이 만나 영화 속에서나 가능해 보이는 일을 현실로 구현하는데 성공했다.",
-      "이른바 유한킴벌리와 앰플리의 '스마트 기저귀 프로젝트'다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "n529e7e72",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260511/133895483/1",
     "title": "혼두이스호 스페인 국적 탑승자들, 하선후 테네리페 공항 이륙…마드리드행",
     "summary": [
@@ -568,7 +572,7 @@ window.NEWS_DB = [
     "id": "n504f89a0",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260511/133895480/1",
     "title": "차예련♥주상욱, 콜로세움 앞에서 손잡고…로맨틱 ‘투샷’",
     "summary": [
@@ -581,28 +585,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nddd8eadb",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260511/133895475/1",
-    "title": "‘여자농구 FA 최대어’ 박지수, KB와 1차 협상 결렬",
-    "summary": [
-      "여자프로농구 자유계약선수(FA) 최대어 박지수가 1차 협상에서 계약이 불발됐다.한국여자농구연맹(WKBL)이 10일 공시한 2026 FA 1차 협상 결과에 따르면, 박지수를 비롯해 김진영, 윤예빈, 이혜미, 김예진 등 5명이 미계약자로 남았다.2025-26시즌 통합 우승을 달성한 청주 KB스타즈는 이채은(3년 1억5000만 원), 이윤미(1년 5000만 원), 김민정(1년 4000만 원)과 재계약했지만 핵심 선수인 ‘슈터’ 강이슬을 놓쳤다.강이슬."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7d27ccd",
+    "id": "nc9a1bce8",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260511000700085",
-    "title": "英 웨일스 의회에 한국계 첫 입성…영국개혁당 조슈아 김",
+    "source": "조선일보",
+    "time": "3시간 전",
+    "url": "https://www.chosun.com/national/nie/japanese/2026/05/11/HE2VOSTNSRAC7KSV25BMSLV2SM/",
+    "title": "[입에 착착 붙는 일본어] 정말 싫다, 딱 질색이다",
     "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국 웨일스 자치 의회에 한국계로는 처음으로 조슈아 김(한국명 김승균) 의원이 입성했다."
+      "[입에 착착 붙는 일본어] 정말 싫다, 딱 질색이다."
     ],
     "chips": [
       "#뉴스"
@@ -612,7 +602,7 @@ window.NEWS_DB = [
     "id": "n50b94e47",
     "category": "사회",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202605106853i",
     "title": "'포괄임금제' 시대, 기업들의 생존 전략 [지평의 노동 Insight]",
     "summary": [
@@ -626,7 +616,7 @@ window.NEWS_DB = [
     "id": "n837bfab4",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026051068491",
     "title": "\"이란, 美종전안에 답변\"…양국 협상 급물살 타나",
     "summary": [
@@ -643,8 +633,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
@@ -654,7 +644,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "엔비디아",
     "mentions": "1550건",
     "trend": "+135%"
   }
