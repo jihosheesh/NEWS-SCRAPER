@@ -1,6 +1,22 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-10 07:56:11
+// 마지막 업데이트: 2026-05-10 09:23:08
 window.NEWS_DB = [
+  {
+    "id": "n41646aed",
+    "category": "IT",
+    "source": "매일경제 마켓",
+    "time": "52분 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBucm9VaTNxMGhTZmZ3bGR5ZkxHT1JHUXpPQWM0aDJKN25aaE9jcTcxRzd3Y055bXZZVzNrYW5HWG1WWWptSU1DYktidDFNdVVZNkE?oc=5",
+    "title": "AI 패권 최강자, 반도체냐 하이퍼스케일러냐 엔비디아 vs 구글 시총1위 대결",
+    "summary": [
+      "AI 패권 최강자, 반도체냐 하이퍼스케일러냐 엔비디아 vs 구글 시총1위 대결 매일경제 마켓."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nb6ddeb2c",
     "category": "IT",
@@ -12,22 +28,6 @@ window.NEWS_DB = [
       "메모리반도체 주가 '랠리' 뒤 증권가 시선 다시 엔비디아에 집중, \"기업가치 재평가 잠재력\" 비즈니스포스트."
     ],
     "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nd6ea8ea3",
-    "category": "IT",
-    "source": "오피니언뉴스",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQeG9OZmlLM0ZMZDU1RUhsVG9pTE51ZWpaWklSRzY3Y1ZrVnZ4NGhfcllJUTFETEZQTDRYX0IwUWZselE4dHBRUEFiV2k0QmJhOXhLVnhGZzNPVFhTcWpBbnhJMU9zaE5kNHdmQmlSNVFoQQ?oc=5",
-    "title": "엔비디아 독주와 中 견제 위해…\"한미일 'AI 반도체' 동맹 필요\"",
-    "summary": [
-      "엔비디아 독주와 中 견제 위해…\"한미일 'AI 반도체' 동맹 필요\" 오피니언뉴스."
-    ],
-    "chips": [
-      "#AI",
       "#반도체",
       "#엔비디아"
     ]
@@ -172,7 +172,7 @@ window.NEWS_DB = [
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "62일 전",
+    "time": "63일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
     "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
@@ -186,7 +186,7 @@ window.NEWS_DB = [
     "id": "n15f5f447",
     "category": "경제",
     "source": "지디넷코리아",
-    "time": "66일 전",
+    "time": "67일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
     "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
     "summary": [
@@ -200,7 +200,7 @@ window.NEWS_DB = [
     "id": "nbc92ef7c",
     "category": "부동산",
     "source": "한국부동산뉴스",
-    "time": "79일 전",
+    "time": "80일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
     "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
     "summary": [
@@ -215,7 +215,7 @@ window.NEWS_DB = [
     "id": "n759c2467",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "85일 전",
+    "time": "86일 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
     "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
     "summary": [
@@ -230,7 +230,7 @@ window.NEWS_DB = [
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "86일 전",
+    "time": "87일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
     "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
@@ -245,7 +245,7 @@ window.NEWS_DB = [
     "id": "n0f008420",
     "category": "경제",
     "source": "한겨레",
-    "time": "115일 전",
+    "time": "116일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGNFNVYUVMN0g3RGcwT1BXUzhvZ1B6VjQ2Y1poNHpZUHEtR3Z2RmVlSEZZN01waGNETEtxTXh2NEpjMTZ5emFtNGsxTEdDSnQ2cy1QTS1DVDh3cXBwRFFwZjFfQ1J3UThUcXE1R2tDN203Zw?oc=5",
     "title": "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도",
     "summary": [
@@ -260,7 +260,7 @@ window.NEWS_DB = [
     "id": "n13cdbe9c",
     "category": "부동산",
     "source": "시사저널e",
-    "time": "130일 전",
+    "time": "131일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
     "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
     "summary": [
@@ -274,7 +274,7 @@ window.NEWS_DB = [
     "id": "n0fd44a05",
     "category": "IT",
     "source": "조선일보",
-    "time": "142일 전",
+    "time": "143일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
     "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
     "summary": [
@@ -332,319 +332,313 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne62ad830",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151707",
-    "title": "[써봤다] 가방은 가볍게, 성능은 묵직하게...스냅드래곤 X2 엘리트 익스트림 품은 '젠북 A16'",
+    "id": "nb20c98dd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260510_0003623405",
+    "title": "구미과학관, 4·5월 문화행사에 1만명 몰려…\"체험기회 제공\"",
     "summary": [
-      "매일 노트북을 쓰는 입장에서, 이상적인 제품은 무엇일까.",
-      "화면은 크고, 무게는 가볍고, 성능은 확실했으면 좋겠다.",
-      "오래 쓴다고 보면 인공지능(AI) 성능도 받쳐줘야 한다."
+      "[구미=뉴시스] 박홍식 기자 = 경북 구미과학관 봄 과학문화 행사에 1만명이 찾은 것으로 나타났다.",
+      "구미과학관은 4월 과학의 달과 5월 가정의 달을 맞아 개최한 문화 행사에 어린이와 시민 등 가족 단위 방문객 1만여 명이 다녀갔다고 10일 밝혔다.",
+      "'구미가 땡기는 사이언스 페스티벌'과 사이언스 매직쇼, 과학 체험부스를 운영해 방문객들에게 풍성한 체험 기회를 제공했다."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "ndb448b39",
+    "id": "ndb5a6285",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/10/2026051016215447179",
-    "title": "한화 박준영 KBO 45년 새 역사 썼다! 육성선수 최초 데뷔전 선발승! LG에 9-3 완승 [대전 현장리뷰]",
-    "summary": [
-      "한화 이글스가 선발 투수 박준영(24)의 호투와 폭발적인 타선에 힘입어 LG 트윈스를 이틀 연속 제압했다.",
-      "한화는 10일 대전한화생명볼파크에서 열린 2026 신한 SOL KBO리그 정규시즌 홈경기에서 LG에 9-3으로 승리했다.",
-      "시즌 18번째 1만 7000명의 만원관중이 모인 가운데, 한화는 LG에 2승 1패 위닝시리즈를 확정하고 16승 20패로 5할 승률에 한 발 더 다가섰다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na541fb70",
-    "category": "스포츠",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/10/G4ZDOYRSGI3GKNRWMZRTCNBUGA/",
-    "title": "'홈팀 두산도 축하했다' 또 하나의 역사 쓴 최정...KBO리그 최초, 통산 1만 타석 기록 [잠실 현장]",
+    "url": "https://www.newsis.com/view/NISX20260510_0003623322",
+    "title": "5년 만에 국내대회 우승한 김효주 \"이젠 US여자오픈에 집중\"(종합)",
     "summary": [
-      "[잠실=스포츠조선 김용 기자] 역대 최초 통산 1만 타석 달성! SSG 랜더스 최정이 또 하나의 이정표를 세웠다.",
-      "최정은 10일 잠실구장에서 열린 두산 베어스전에 3번-3루수로 선발 출전했다.",
-      "그리고 5회 세 번째 타석에 들어섰다."
+      "[서울=뉴시스]안경남 기자 = 여자 골프 세계랭킹 3위 김효주가 5년 만에 국내 대회 정상에 올랐다.",
+      "김효주는 10일 경기도 용인의 수원 컨트리클럽 뉴코스(파72)에서 열린 NH투자증권 레이디스 챔피언십(총상금 10억원) 최종 라운드에서 버디 3개, 보기 2개를 묶어 1언더파 17타를 쳤다.",
+      "이로써 최종 합계 9언더파 207타를 기록, 박현경(8언더파 208타)을 1타 차로 제치고 우승했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n53786471",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260510/133892436/1",
+    "title": "‘이애주 춤 아카이브’ 온라인 공개…생애 기록-공연-인터뷰 등 담겨",
+    "summary": [
+      "국가무형문화재 승무 보유자였으며, 고 한성준과 수제자 한영숙의 뒤를 이어 전통 승무의 맥을 지킨 인물로 평가받는 ‘춤꾼’ 이애주(1947~2021)의 기록을 디지털로 열람할 수 있는 ‘이애주 춤 아카이브’가 공개됐다.이애주문화재단은 7일 서울 종로구 예술가의집에서 ‘이애주 춤 아카이브’ 온라인 개관을 기념해 학술 행사 ‘디지털 아카이브로 잇는 춤의 기록, 시대의 기억’을 개최했다.재단이 2022년부터 추진해 온라인으로 공개한 ‘이애주 춤 아카이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6e259864",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260510_0003623395",
+    "title": "[부고]차용현(뉴시스 경남취재본부 부장)씨 모친상",
+    "summary": [
+      "▲이점순 씨 별세, 차용현(뉴시스 경남취재본부 부장) 씨 모친상 = 10일, 남해병원 장례식장 301호(백호실), 발인 12일 오전 7시20분."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ndc092b12",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/10/2026051017304365068",
+    "title": "\"제가 좀 많이 밝습니다\" KBO 최초 역사에도 생글생글! 한화 박준영, 부담감도 즐겼다 \"진짜 많이 떨리고 무서웠는데...\" [대전 현장]",
+    "summary": [
+      "\"제가 좀 많이 밝습니다.\" 한화 이글스 박준영(24)이 데뷔전부터 KBO리그 역사에 자신의 이름을 새겨넣고 떨리는 마음을 숨기지 못했다.",
+      "박준영은 10일 대전한화생명볼파크에서 열린 2026 신한 SOL KBO리그 정규시즌 홈경기에 선발 등판해 5이닝 3피안타 3볼넷 2탈삼진 무실점으로 한화의 9-3 승리를 이끌고 데뷔전에서 승리 투수가 됐다.",
+      "KBO리그 역대 36번째 데뷔전 선발승으로, 육성선수 출신으로는 박준영이 최초였다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n3dca0312",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260510_0003623340",
-    "title": "[6·3구미]김장호 \"청년이 꿈 이루는 창업 성공시대 열겠다\"",
-    "summary": [
-      "[구미=뉴시스] 박홍식 기자 = 김장호(57·국민의힘) 경북 구미시장 예비후보는 10일 '청년의 꿈을 이루는 창업 성공시대'를 위한 공약을 내놨다.",
-      "김 예비후보는 \"청년들이 양질의 일자리를 찾아 정든 고향을 떠나는 문제가 지속되는 한, 저출산과 성장 동력 상실이라는 악순환의 고리는 절대 끊을 수 없다\"고 밝혔다.",
-      "그러면서 \"청년들이 구미에서 기회를 찾고 정착할 수 있도록 다양한 정책을 추진하겠다\"고 말했다."
-    ],
-    "chips": [
-      "#정책",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n958266cf",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/10/2026051016517278923",
-    "title": "'살림남' 김재중, 입양 가족사 고백…\"친아빠 용서할 그릇 안 돼\"",
-    "summary": [
-      "'살림하는 남자들 시즌2' 김재중이 타쿠야에게 경험담 녹인 현실 조언을 건넸다.",
-      "지난 9일 방송한 KBS 2TV 예능 '살림하는 남자들 시즌2'(이하 '살림남')에서는 김재중이 타쿠야의 일상을 점검하기 위해 나서는 모습이 그려졌다.",
-      "이날 방송은 닐슨코리아 전국 기준 시청률 5.1%를 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n818cf588",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/regional/2026/05/10/RH6QEG7HL5E4DMEKC4PDACSTWE/",
-    "title": "부산 한국남부발전 LNG발전소서 화재",
-    "summary": [
-      "부산 한국남부발전 LNG발전소서 화재."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9fcfc032",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260510_0003623337",
-    "title": "유정복, 2차 선거대책위 인선…\"황우여·유필우 합류\"",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 유정복 국민의힘 인천시장 예비후보가 10일 유 예비후보 선거대책위원회인 '정복캠프' 2차 인선을 발표하고 본격적인 6·3지방선거 준비 체제에 돌입했다.",
-      "2차 선대위에는 황우여 전 사회부총리 겸 교육부 장관을 비롯해 유필우 전 민주당 국회의원 등이 합류하는 용광로 선대위를 구성했다는 평가다.",
-      "선대위는 이달 12일 오후 2시 미추홀구 인천시민공원역 인근에 위치한 정복캠프에서 캠프 개소식을 개최한다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc353519b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/10/GQYTGMBRGA3TEZDBMIZTIZRZGA/",
-    "title": "이이경, '독일女 사생활 논란' 6개월만 SNS 재개..송해나와 마라톤 근황",
-    "summary": [
-      "[OSEN=하수정 기자] 이이경이 멈춰있던 SNS를 6개월만에 깨웠다.배우 이이경은 9일 \"생애 첫 마라톤 나솔런! 행복했어요!♥\"라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속에는 이이경이 '나는솔로' 마라톤 대회에 참가한 모습이 담겨 있다.",
-      "이이경은 10km를 성공적으로 완주한 메달을 들고 인증샷을 남겼고, '나는솔로' 출연진을 비롯해 MC."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbe746d9d",
+    "id": "n518077f1",
     "category": "스포츠",
-    "source": "동아일보",
+    "source": "뉴시스",
     "time": "7분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260510/133891407/1",
-    "title": "2학년 에이스 한규민의 대전고, ‘좌타니’ 하현승 버틴 우승 후보 부산고 격파 대이변[제80회 황금사자기]",
+    "url": "https://www.newsis.com/view/NISX20260510_0003623399",
+    "title": "화성 자원순환시설에서 불…3명 대피",
     "summary": [
-      "프로야구 10개 팀 스카우트 중 6개 팀이 우승 후보로 예상했던 부산고가 16강에서 탈락했다.",
-      "‘절대 1강’으로 평가받던 부산고를 무너뜨린 건 대전고였다.대전고는 10일 서울 목동야구장에서 열린 제80회 황금사자기 전국고교야구대회 겸 주말리그 왕중왕전 16강전 2학년 에이스 한규민의 호투 등을 앞세워 2-1로 승리했다.",
-      "대전고는 3일 1회전에서는 ‘디펜딩 챔피언’ 성남고를 연장 10회 승부치기 끝에 5-4로 꺾는 등 창단 첫 우승을 향해 한 걸."
+      "[화성=뉴시스] 변근아 기자 = 10일 오후 4시37분께 경기 화성시 만세구 향남읍의 한 자원순환 시설에서 불이 났다.",
+      "화재 당시 현장에 있던 3명은 자력으로 대피했다.",
+      "별도 확인된 인명피해는 없다."
     ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n92fd7214",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260510_0003623338",
-    "title": "하정우, 선거사무소 개소…\"AI로 부산 북구 다시 출발\"",
-    "summary": [
-      "[부산=뉴시스]김민지 기자 = 6·3 지방선거 때 치러지는 부산 북구갑 국회의원 보궐선거의 출마자 더불어민주당 하정우 후보가 10일 선거 캠프를 공식 출범했다.",
-      "하 후보는 이날 오후 3시 부산 북구 조은빌딩 3층에서 선거사무소 개소식을 열었다.",
-      "민주당 전재수 부산시장 후보가 현장을 직접 찾았고, 공동명예선대위원장을 맡은 김영춘 전 해양수산부 장관과 김영진 의원(경기 수원시병) 등도 자리했다."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne9f4af8f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260510/133892682/1",
-    "title": "‘한국어 수업’하는 해외 초중교 2777곳…4년 새 54% 급증",
-    "summary": [
-      "한국 가요와 음식 등 ‘K컬쳐’에 대한 관심이 높아지면서 한국어를 배우는 외국 학생들이 늘고 있다.",
-      "해외 학교에서 한국어를 배우는 외국 학생은 23만 명을 넘어섰다.",
-      "10일 국회 교육위원회 소속 김문수 더불어민주당 의원이 교육부에서 제출받은 ‘한국어반 개설 해외 학교’ 자료에 따르면 한국어반을 운영 중인 해외 초·중등학교는 2021년 1806곳에서 지난해 2777곳으로 4년 만에 971곳(53.8%) 늘었다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc4d2ac91",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260510036000504",
-    "title": "[북한단신] 해외동포청년축하단 귀국",
-    "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n030cc050",
+    "id": "n2e3ab74b",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://www.asiae.co.kr/article/2026051018151294394",
+    "title": "전쟁 유가 상승 영향…사우디 아람코 1분기 순이익 26%↑",
+    "summary": [
+      "사우디아라비아 국영 석유기업 아람코의 올해 1분기 순이익이 중동 전쟁에 따른 유가 상승 영향 등으로 급증했다.10일(현지시간) AFP 등 주요 외신에 따르면 아람코는 올해 1분기 순이익이 1201억3000만 사우디리얄(약 320억2000만달러)로 집계됐다.",
+      "이는 지난해 같은 기간 956억8000만리얄(약 255억달러)보다 25.6% 증가한 수치다.",
+      "아람코는 사우디 증권거래소 공시에서 \"매출 증가는 원유 판매량 증가와 원유 가격 상승, 정제·화."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n49e7d0ff",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260510_0003623317",
-    "title": "'살목지' 300만명 넘겼다…이상민 감독 \"상상도 못 한 일\"",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/10/MU2GCNRUGY2GEZJXGE4DEMDCMQ/",
+    "title": "'와 드디어 웃었다' 박세웅, 감격의 첫 승…롯데, KIA 잡고 2연패 탈출 [부산 리뷰]",
     "summary": [
-      "[서울=뉴시스]강주희 기자 = 영화 '살목지'가 300만 관객 고지를 밟았다.",
-      "10일 영화관입장권 통합전산망에 따르면 '살목지'는 이날 오후 누적 관객 수 300만169명을 기록했다.",
-      "앞서 '살목지'는 지난 4일 268만 관객을 동원한 '곤지암'(2018)을 제치고 역대 한국 공포영화 흥행 2위에 올랐다."
+      "[부산=스포츠조선 이종서 기자] 롯데 자이언츠 박세웅(31)이 7경기 만에 첫 승을 거뒀다.",
+      "롯데는 10일 부산 사직구장에서 열린 KIA 타이거즈와의 홈 경기에서 7대3으로 승리했다.",
+      "롯데는 2연패에서 탈출하며 시즌 전적 14승1무20패를 기록했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb1e92bd2",
-    "category": "IT",
-    "source": "머니투데이",
+    "id": "n8618c9a0",
+    "category": "스포츠",
+    "source": "아시아경제",
     "time": "11분 전",
-    "url": "https://www.mt.co.kr/industry/2026/05/10/2026050319492553021",
-    "title": "살고 싶은 곳 만들자 '17조' 투자 왔다…TSMC, 독일 찍은 이유",
+    "url": "https://www.asiae.co.kr/article/2026051018112987844",
+    "title": "김효주, 4년 7개월 만에 우승…\"US여자오픈 준비\"",
     "summary": [
-      "[산업전환 돌파구, 독일에서 찾다]반도체 특구 성공법①학교·보육..정주 여건을 잡아라 인공지능(AI) 전환(AX)·녹색 전환(GX)으로 요약되는 산업 변환기이자 '경제안보'로 대표되는 지경학적 전략이 주목받는 시대다.",
-      "전통 제조업 강국인 독일은 어떻게 돌파구를 모색하고 있는지 그 과정에서 한국에 주는 시사점이 무엇인지 들여다봤다.",
-      "독일 남동부 작센주 주도(州都) 드레스덴 인근 아우토반 13호선(A13)을 달리다 드레스덴 공항 인근에 이르자 지평."
+      "세계랭킹 3위 김효주가 한국여자프로골프(KLPGA) 투어에서 4년 7개월 만에 정상에 올랐다.",
+      "김효주는 10일 경기도 용인시 수원 컨트리클럽 뉴코스(파72·6762야드)에서 열린 NH투자증권 레이디스 챔피언십(총상금 10억원) 최종 3라운드에서 버디 3개와 보기 2개를 묶었다.",
+      "1언더파 71타를 친 김효주는 최종 합계 9언더파 207타로 우승했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n403621c2",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://www.asiae.co.kr/article/2026051018011577477",
+    "title": "민형배 ‘전남광주 대전환 선대위’ 출범…“압도적 성장 이루겠다”",
+    "summary": [
+      "더불어민주당 민형배 전남광주통합특별시장 후보가 10일 선거대책위원회를 출범시키고 본격적인 본선 체제에 돌입했다.",
+      "정청래 대표를 비롯한 광주·전남 지역 국회의원들과 시민사회 인사들이 대거 참석한 가운데, 민 후보는 \"압도적 성장, 더 큰 전남광주\"를 내세우며 AI·반도체·미래산업 중심의 통합특별시 구상을 강조했다.",
+      "민 후보는 이날 오후 광주 민심캠프 사무소에서 '전남광주 대전환 선거대책위원회' 출범식을 열었다."
     ],
     "chips": [
       "#AI",
       "#반도체",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n361aae6c",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://www.asiae.co.kr/article/2026051016421449321",
-    "title": "\"한국어 배우자\"…해외 한국어반 4년새 50% 이상 늘었다",
-    "summary": [
-      "전 세계에서 한국어를 배우려는 수요가 빠르게 늘면서 한국어반을 운영하는 해외 초·중·고교가 최근 4년 새 50% 넘게 증가한 것으로 나타났다.",
-      "연합뉴스는 10일 국회 교육위원회 소속 김문수 더불어민주당 의원이 교육부로부터 제출받은 자료를 인용, 지난해 말 기준 한국어반을 운영 중인 해외 학교는 총 2777곳으로 집계됐다고 보도했다.",
-      "이는 전년보다 9.9% 늘어난 수치다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n614caf3f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260510022651001",
-    "title": "與 정원오 \"방한 관광객 '3천만 시대' 열겠다\"…관광특구 신설(종합)",
-    "summary": [
-      "(서울=연합뉴스) 박재하 기자 = 더불어민주당 정원오 서울시장 후보는 10일 방한 관광객 3천만 시대를 열기 위한 글로벌 관광특구를 신설하겠다고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na9b1a53b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260510037300051",
-    "title": "부산 사하구 발전소서 큰불…검은 연기 뒤덮어",
-    "summary": [
-      "(부산=연합뉴스) 손형주 기자 = 10일 오후 3시 53분께 부산 사하구 감천동 부산 천연가스 발전본부에서 불이 났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n52c145df",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://www.asiae.co.kr/article/2026051016420645273",
-    "title": "김정관, 美상무·OMB·에너지부 연쇄 회동…'한미 조선동맹' 실행기구 띄웠다",
-    "summary": [
-      "김정관 산업통상부 장관이 미국 워싱턴 D.C.를 찾아 미국 정부 핵심 인사들과 잇달아 회동하며 조선·에너지·원전 분야를 축으로 한 대미 전략 협력 강화에 나섰다.",
-      "특히 한미 양국은 미국 내 조선 협력 전진기지 역할을 할 '한미 조선협력센터' 설립에 합의하면서, 양국 간 조선산업 협력이 단순 기술 교류를 넘어 공동 투자·생산 협력 단계로 확대되는 모습이다.",
-      "김 장관은 5월 6일부터 9일(현지시간)까지 미국 워싱턴 D.C.를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29291a2d",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/10/2026051016240160973",
-    "title": "하정우 \"부산 북구 발전시킬 무적함대 출항…제 AI 역량 모두 쏟겠다\"",
-    "summary": [
-      "[the300] 하정우 더불어민주당 부산북구갑 후보가 \"북구의 미래를 위해 제가 가진 AI(인공지능) 전문성을 모두 쏟아붓겠다\"며 \"이재명-전재수-하정우로 이어지는 북구 발전의 무적함대를 통해 예산과 제도, 사람을 연결해 북구의 시간을 앞당기겠다\"고 밝혔다.",
-      "하 후보는 10일 부산 북구 선거사무소 개소식에서 \"전재수 (민주당 부산시장 후보) 후원회장님께서 닦아오신 길 위에서 저 하정우가 재수 형님이 시작한 일을 마무리하고 미래 산업과 AI의 실."
-    ],
-    "chips": [
-      "#AI",
       "#정치"
     ]
   },
   {
-    "id": "nc9911ac9",
+    "id": "nf739139e",
     "category": "사회",
     "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260510/133892743/1",
-    "title": "“이스라엘, 이라크 사막에 ‘비밀기지’…이란 공습 지원용”",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260510/133893969/2",
+    "title": "이번엔 카리브해 크루즈선서 집단감염…한타 이어 노로바이러스",
     "summary": [
-      "이스라엘이 이란과의 전쟁 중 이라크 서부 사막에 비밀 군사기지를 구축해 운용해온 것으로 알려졌다.",
-      "이 비밀기지는 이란 공습을 지원하기 위한 물류 거점 및 특수부대의 전진기지로 활용됐다는 분석이 나온다.",
-      "9일 월스트리트저널(WSJ)에 따르면 이스라엘은 올 2월 이란과의 전쟁이 발발하기 전 이라크 서부 사막 지역에 비밀기지를 만들었다."
+      "카리브해 크루즈선에서 노로바이러스 집단감염이 발생했다고 미국 NBC 뉴스가 보도했다.",
+      "대서양 크루즈선에서 한타바이러스 집단감염이 발생한 데 이어 항해 중인 크루즈선에서 또 집단감염이 발생한 것이다.10일(현지 시간) NBC 뉴스에 따르면 카리브해를 항해하는 커리비언 프린세스호에서 승객 102명, 선원 13명이 노로바이러스에 감염됐다.",
+      "주요 증상은 구토와 설사인 것으로 파악됐다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nd504146f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/10/G4YWCNJZMVSTGZRUMFSGCMJUGM/",
+    "title": "‘연매출 30억’ 양준혁, 방어 사업 전 폐업 수두룩..“월세만 1500만원” (‘사당귀’)",
+    "summary": [
+      "[OSEN=김채연 기자] 야구선수 출신 방송인 양준혁이 방어 사업으로 연매출 30억 원의 방신으로 거듭난 가운데, 과거 사업 실패를 겪은 바 있다고 고백했다.10일 오후 방송된 KBS 2TV ‘사장님 귀는 당나귀 귀’에는 오랜만에 방어 양식장이 아닌 야구장에 나온 양준혁의 모습이 전파를 탔다.이날 양준혁은 어버이날을 맞이해 아내, 딸과 함께 장모님의 집을."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n487ce4b4",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/estate/2026/05/10/2026051014004332781",
+    "title": "서울 매물 7만건 붕괴…공급 공백에 전월세 시장 '흔들'",
+    "summary": [
+      "[1.29 대책 100일 점검…결국 문제는 공급] 1·29 공급대책이 속도를 내지 못하는 사이 서울 임대차 시장 불안이 커지고 있다.",
+      "다주택자 양도소득세 중과 재개로 전세를 공급하던 기존 주택 물량이 줄어드는 데다 신규 입주 물량까지 급감하면서 전세의 월세화와 임대료 상승세가 빨라지고 있다는 분석이다.",
+      "10일 부동산 플랫폼 아실에 따르면 지난 7일 기준 서울 아파트 매물은 6만9554건으로 집계됐다."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "nb4f69b1f",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/estate/2026/05/10/2026051013490165190",
+    "title": "김윤덕 \"공급 속도전\" 강조했지만…용산·태릉 곳곳 제동",
+    "summary": [
+      "[1.29 대책 100일 점검…결국 문제는 공급] 김윤덕 국토교통부 장관이 \"과천·태릉 공급을 그 어느 때보다 빠르게 추진하겠다\"며 공급 속도전을 강조하고 있지만 정작 1·29 공급대책 핵심 부지들은 여전히 초기 단계에 머물러 있는 것으로 나타났다.",
+      "정부는 후속 입법과 범정부 협업까지 강조하고 있지만 용산·태릉·과천 등 핵심 사업지는 이해관계 충돌과 행정 절차 등에 막혀 사업 속도를 내지 못하는 모습이다.",
+      "10일 관계 부처와 부동산업계에 따르면."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n09b701e0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/10/GY3GKNBTGJSTSMDDMEYDKNTBGI/",
+    "title": "'김재환 시리즈' 승자는 친정이었다...두산, SSG에 2연승 '위닝 시리즈 장식' [잠실 현장]",
+    "summary": [
+      "[잠실=스포츠조선 김용 기자] 두산 베어스가 '김재환 시리즈'에서 위닝 시리즈를 달성했다.",
+      "두산은 10일 잠실구장에서 열린 SSG 랜더스와의 주말 3연전 마지막 경기에서 선발 잭 로그의 6⅓이닝 1실점 역투와 박준순의 쐐기 홈런포 등을 앞세워 3대1로 이겼다.",
+      "17승1무19패가 되며 다시 5할 고지 정복을 노려볼 수 있게 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7202afd",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "19분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/05/10/MYKZUWY4DJA6LO2YMYTRZQUWUI/",
+    "title": "WSJ “반도체랠리, 닷컴버블 때와 달리 이익기반…과열은 경계해야”",
+    "summary": [
+      "WSJ “반도체랠리, 닷컴버블 때와 달리 이익기반…과열은 경계해야”."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n6ff3ed53",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260510041800009",
+    "title": "이스라엘, '휴전' 중 레바논 맹공…어린이 4명 등 22명 사망",
+    "summary": [
+      "(서울=연합뉴스) 임화섭 기자 = '휴전'이 발효 중임에도 불구하고 9일(현지시간) 이스라엘의 공격으로 어린이 4명을 포함해 최소 22명이 레바..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nefed4812",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/industry/2026/05/10/2026051017524784299",
+    "title": "삼성 교섭 앞두고 노조 내 갈등…\"전사 차원 성과급은 내년에\"",
+    "summary": [
+      "삼성 과반노조, 사후조정서 전사 성과급 교섭 요구 사실상 거부 삼성전자 노사 협상이 정부 중재 아래 재개되는 가운데 성과급 배분 방식을 둘러싼 노조 내부 갈등도 격화하고 있다.",
+      "반도체(DS) 중심의 과반 노조가 전사 차원의 이익 배분 요구를 사실상 내년 교섭으로 넘기면서 DX(디바이스경험) 부문 노조의 반발이 커지는 분위기다.",
+      "초기업노동조합 삼성전자 지부(초기업노조)는 10일 공문을 통해 DX부문 중심의 동행노조가 전사 차원 이익 배분을 사후조."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n6e3ab1ea",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260510041900007",
+    "title": "KBO리그 25번째 끝내기 만루포…키움 안치홍 \"고의볼넷 예상해\"",
+    "summary": [
+      "(서울=연합뉴스) 이대호 기자 = 프로야구 키움 히어로즈의 5연패를 끊은 주인공은 베테랑 안치홍(35)이었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n485b6701",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260510013851009",
+    "title": "카타르 LNG 수출 재개…파키스탄행 선박 호르무즈 해협 지나(종합)",
+    "summary": [
+      "(서울=연합뉴스) 김승욱 오수진 기자 = 카타르산 액화천연가스(LNG)를 실은 운반선이 이란의 승인을 받고 호르무즈 해협을 통과해 파키스탄으로 ..."
+    ],
+    "chips": [
+      "#수출"
     ]
   }
 ];
@@ -654,18 +648,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "KBO",
     "mentions": "1680건",
     "trend": "+155%"
   }
