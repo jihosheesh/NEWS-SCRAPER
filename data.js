@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-10 16:42:03
+// 마지막 업데이트: 2026-05-10 17:41:55
 window.NEWS_DB = [
   {
     "id": "nb827dc79",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VjlmSmdkcGdqZU9IX3ZQY2Q3d3hVeF90TjdnamlQMHU2OTNfdERqam5kcUV4bjZKdHpVUGxBQ0RQaHVtTzJnTEFkLWN4ZjZodEpKWW9HRWlPd9IBXkFVX3lxTFBJTFNJaWthaWNLRzVMMXhwLTViYjMtU2duRHZCWFpzdjlQZWV6UTVVSmdWak4tcVJDWU44R3B2eEgxTnZldjhOa29QcjlwelVrR2x4aUt4UVcybDhTTWc?oc=5",
     "title": "공장 하나 없는 엔비디아는 어떻게 AI반도체의 제왕이 됐나 [글로벌 리포트]",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n41646aed",
     "category": "IT",
     "source": "매일경제 마켓",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBucm9VaTNxMGhTZmZ3bGR5ZkxHT1JHUXpPQWM0aDJKN25aaE9jcTcxRzd3Y055bXZZVzNrYW5HWG1WWWptSU1DYktidDFNdVVZNkE?oc=5",
     "title": "AI 패권 최강자, 반도체냐 하이퍼스케일러냐 엔비디아 vs 구글 시총1위 대결",
     "summary": [
@@ -141,6 +141,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne8fc1a48",
+    "category": "IT",
+    "source": "beSUCCESS",
+    "time": "25일 전",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rMGhVc1lBXzdzMFctc0NjRDdTdmdZT2s0cl8yUzVGRUFQemdRMFQyeXl0MENOZDZwZGhkV0lZQ2JVNU9mclE?oc=5",
+    "title": "경기혁신센터-아이티센 그룹, ‘2026 유니콘 브릿지’ 추진…AI·Web3 스타트업 모집",
+    "summary": [
+      "경기혁신센터-아이티센 그룹, ‘2026 유니콘 브릿지’ 추진…AI·Web3 스타트업 모집 beSUCCESS."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
     "id": "nce5c746a",
     "category": "IT",
     "source": "전자신문",
@@ -242,6 +258,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13368a59",
+    "category": "사회",
+    "source": "브릿지경제",
+    "time": "94일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jMmZjeU5pbDFPRkVZU2dNcUxUdUxYY0UzaVM1endCUnlpY25YVjd5QjI1LUVuNTlFNHFvYW1wWVhpZFRVN2QyZ050b3FCbmU4Q1ctVl9uVFEwUQ?oc=5",
+    "title": "파주시, ‘종합 취업지원 체계’ 강화…AI 교육·현장 채용으로 고용안정 나서",
+    "summary": [
+      "파주시, ‘종합 취업지원 체계’ 강화…AI 교육·현장 채용으로 고용안정 나서 브릿지경제."
+    ],
+    "chips": [
+      "#AI",
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n0f008420",
     "category": "경제",
     "source": "한겨레",
@@ -271,36 +304,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0fd44a05",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "143일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
-    "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
-    "summary": [
-      "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\" 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "내 손안에 서울",
-    "time": "191일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
-    "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -316,16 +319,171 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n297656f7",
-    "category": "사회",
+    "id": "nf3ed1132",
+    "category": "경제",
     "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051100100819116",
-    "title": "940만 섹시 리포터, '리버풀 최악 GK' 카리우스와 '득남' 모습 공개... \"승격→둘째 탄생, 미녀 아내까지 최고의 해\"",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/11/2026051102245771209",
+    "title": "'결벽' 이동휘, 손님 화장실 사용법까지 관리? \"마동석·유재석은 예외\"",
     "summary": [
-      "전 리버풀 골키퍼 로리스 카리우스(32·샬케04)와 유명 스포츠 리포터 딜레타 레오타(34) 부부가 둘째를 낳았다.",
-      "영국 '더선'은 10일(현지시간) \"레오타와 카리우스가 둘째 아들 레오나르도를 출산했다\"고 보도했다.",
-      "이들 부부는 침대 위에서 첫째 딸, 그리고 갓 태어난 아들과 함께 다정하게 포즈를 취한 모습을 인스타그램에 공개했다."
+      "배우 이동휘가 집에 손님이 와도 로비에서 만날 정도로 철저한 청결 습관을 공개했다.",
+      "10일 방송된 SBS '미운 우리 새끼' 494회에서는 배우 이동휘가 게스트로 출연해 입담을 뽐냈다.",
+      "이날 신동엽은 이동휘에 대해 \"천만 영화를 세 번이나 해냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n79d943c8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/11/G44WGODGMVRDEZBRGZSGGYZRGM/",
+    "title": "'아스날은 우승, 토트넘은 잔류 가까이!' 아스날, 웨스트햄 원정서 1-0 진땀승...트로사르 결승골로 승점 79점→우승 8부 능선 넘었다",
+    "summary": [
+      "[OSEN=정승우 기자] 아스날이 우승 경쟁의 불씨를 살렸다.아스날은 11일(한국시간) 영국 런던의 런던 스타디움에서 열린 2025-2026시즌 프리미어리그 36라운드 웨스트햄 유나이티드 원정 경기에서 1-0으로 승리했다.이 승리로 아스날은 선두 경쟁에서 물러서지 않았다.",
+      "전날 맨체스터 시티가 브렌트포드를 3-0으로 꺾은 상황에서 반드시 승리가 필요했던 아."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n38a2cc36",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260511001600071",
+    "title": "美에너지장관, 이란과 '핵금지'없는 잠정합의 \"가능성 있다\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 크리스 라이트 미국 에너지부 장관은 10일(현지시간) 미국이 이란과 이란의 핵무기 프로그램을 금지하는 내용..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50719e31",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "24분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051011133552521",
+    "title": "'불펜 투수 선발행+0B2S 투수교체' 예측 불가 한화 마운드, 마침내 정상화되나 '개점휴업' 외인 1군 동행 [대전 현장]",
+    "summary": [
+      "선발 투수들의 잇따른 부상으로 예측 불가능한 운영이 나왔던 한화 이글스 마운드가 마침내 정상화될 조짐을 보인다.",
+      "한화 김경문 감독은 10일 대전한화생명볼파크에서 열린 2026 신한 SOL KBO리그 정규시즌 LG 트윈스와 홈경기를 앞두고 \"화이트가 오늘(10일)부터 합류했다.",
+      "그동안 우리와 너무 오래 떨어져 있었다\"고 외국인 투수 오웬 화이트(27)의 1군 동행 소식을 알렸다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n071a7524",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "40분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051020175290984",
+    "title": "'안면 피투성이→통한의 대역전패' 日 사상 최초 꿈, 8번째 도전마저 실패 \"정말 끈질긴 선수였는데...\"",
+    "summary": [
+      "일본 격투기 역사상 최초의 UFC 챔피언 탄생은 끝내 이뤄지지 않았다.",
+      "'격투가 왕자' 랭킹 3위 타이라 타츠로(26·일본)가 조슈아 반(24·미국)의 펀치 세례에 쓰러지자, 일본 현지 팬들은 아쉬움과 함께 세계 최정상 무대의 높은 벽을 실감한다는 반응을 쏟아냈다.",
+      "타이라는 10일(한국시간) 미국 뉴저지주 뉴어크 프루덴셜 센터에서 개최된 'UFC 328' 코메인 이벤트 플라이급 타이틀전에서 챔피언 반에게 5라운드 1분 32초 만에 TKO로 패했."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1bb2d95",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "41분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/05/11/2026051014200822315",
+    "title": "[사설]'속도전' 하겠다던 공급대책의 공회전",
+    "summary": [
+      "정부가 1·29 대책을 통해 도심 6만 가구 신속 공급을 공언한 지 100일이 지났지만 속도는 기대에 미치지 못하고 있다.",
+      "핵심 사업들은 이해관계 조정과 절차 지연에 막혀 진전이 더디고, 매매와 임대 시장 모두에서 매물 감소와 가격 상승이 동시에 나타나고 있다.",
+      "도심 핵심 부지는 구조적 제약이 분명해진 모습이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ba947e5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260509_0003622656",
+    "title": "가정폭력범에게도 전자발찌 채우는 나라는",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 독일에서 가정폭력 범죄자도 전자발찌를 착용하도록 하는 법안이 통과됐다.",
+      "8일(현지시각) 독일 ZDF방송은 독일 연방의회가 가정폭력 가해자에게도 전자발찌 착용을 명령할 수 있게 폭력방지법을 개정했다고 보도했다.",
+      "독일 법원은 가정폭력범을 대상으로 6개월 동안 전자발찌 착용을 명령할 수 있게 됐다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n4f25a0cd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "46분 전",
+    "url": "https://www.newsis.com/view/NISX20260511_0003623525",
+    "title": "英, 한타바이러스 감염 의심 자국민 위해 공수부대 투입",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 영국이 크루즈선 한타바이러스 감염 의심 자국민을 돕기 위해 공수부대를 투입했다.",
+      "BBC에 따르면 영국 국방부는 10일(현지 시간) \"영국군 의무병들이 한타바이러스 감염 의심 영국인 남성을 돕기 위해 대서양 외딴섬 트리스탄다쿠냐섬에 낙하산을 타고 긴급 투입됐다\"고 밝혔다.",
+      "영국군은 제16공중강습여단 공수부대원 6명과 의료진 2명을 낙하산으로 투입했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n86d579af",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "51분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/11/MI2DSM3EMUYTSN3CMNQTEMBSME/",
+    "title": "문승원-김민-이로운-노경은-조병현 6이닝 무실점, 필승조 투입한 총력전에도 충격 2연패 [오!쎈 잠실]",
+    "summary": [
+      "[OSEN=잠실, 길준영 기자] 프로야구 SSG 랜더스가 주말 3연전 마지막 경기에서 총력전을 펼쳤지만 위닝시리즈를 내주고 말았다.",
+      "SSG는 10일 서울 잠실구장에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 두산 베어스와의 경기에서 1-3으로 패했다.",
+      "SSG 이숭용 감독은 이날 경기에 앞서 일찌감치 총력전을 선언했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4f5718e5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260511001500085",
+    "title": "\"독일, 美와 갈등 속 '재고압박' 토마호크 구매 재추진\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 미국이 토마호크 순항 미사일 운용 부대를 독일에 배치하려던 계획을 철회하면서 독일이 토마호크를 직접 구매하려..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73429dea",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/11/ME4DQMZUGRSDKNZQMM3DCMJVGI/",
+    "title": "\"스친 걸로 봤다\" 악! 끝내기 사구? VR이 없네...투수도 놀랐지만 \"안 맞긴 했다\"",
+    "summary": [
+      "[고척=스포츠조선 정현석 기자]\"스친 걸로 봤다.\" 끝내기 몸에 맞는 공이 될 뻔했던 상황.",
+      "KT 위즈 베테랑 투수 우규민이 가슴을 쓸어내렸다.",
+      "우규민은 6-6이던 10회말 1사 만루의 절체절명의 끝내기로 패할 수 있는 상황에 마운드에 올랐다."
     ],
     "chips": [
       "#뉴스"
@@ -335,7 +493,7 @@ window.NEWS_DB = [
     "id": "n363000f7",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/volleyball/2026/05/11/GIZTKZLCMI3GCNRYMU4GCNDCG4/",
     "title": "'챔프전 직전 방출' 콧수염 외인, 전체 1순위로 돌아왔다…새얼굴 3명·재계약 3명 [공식발표]",
     "summary": [
@@ -348,73 +506,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n651e7a31",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051012050548940",
-    "title": "\"박찬호 말도 안 되는 수비력 보여주고 있다, 저만 보면 자꾸 칭찬해달라며...\" 두산 FA 투자 진짜 잘했네 '사령탑은 그저 흐뭇하다'",
-    "summary": [
-      "올 시즌을 앞두고 두산 베어스가 80억원을 투자하며 프리에이전트(FA)로 영입한 주인공.",
-      "바로 두산 내야진을 이끌고 있는 박찬호(31)다.",
-      "사령탑인 김원형 두산 감독은 10일 잠실구장에서 열린 SSG 랜더스와 홈 경기를 앞두고 박찬호에 대한 이야기가 나오자 취재진을 향해 \"박찬호 칭찬 좀 해주셨으면 한다\"고 입을 뗐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6f6f219a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/11/GNTGENTCMIZTEYRSMMYWIMTGG4/",
-    "title": "'걸개에 야유까지' 이정효도 '2부 지옥'에 빠졌다...올 시즌 K리그2도 '전쟁터'다",
-    "summary": [
-      "[스포츠조선 박찬준 기자]\"정신 차려, 수원!\" 9일 수원월드컵경기장에서 열린 수원 삼성과 대구FC의 '하나은행 K리그2 2026' 11라운드에서 울려퍼진 소리였다.",
-      "0대0으로 경기가 끝이 나자 수원 서포터스석에서는 '간절하긴 하냐', '투혼없이 승격 없다', '베짱이를 위한 응원은 없다'는 걸개가 펼쳐졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n849586a9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/05/11/GM3TGOBTHAZGIMRSMNRTQMZWGY/",
-    "title": "김하성 복귀 임박 희소식! 그런데 경쟁자 트레이드 하라고? 무슨 소리야",
-    "summary": [
-      "[스포츠조선 나유리 기자]김하성의 빅리그 복귀가 임박했다.",
-      "장타까지 터지면서 풀타임 유격수를 소화했다.",
-      "다만 현지 언론에서는 미리 대안도 찾아놔야 한다는 이야기가 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc61f95ee",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/11/GA2TMY3DMU4DENRRMQ3WIM3BG4/",
-    "title": "'양김' 이을 좌완 라이벌인데, 김진욱-이의리 그래프 엇갈린다...AG 걸린 운명의 시즌, 어떤 결말 기다릴까",
-    "summary": [
-      "[OSEN=부산, 조형래 기자] “자극을 받지 않을까요.”이범호 KIA 타이거즈 감독은 10일 부산 사직구장에서 열리는 프로야구 정규시즌 롯데 자이언츠와의 경기를 앞두고 이날 선발 등판하는 이의리의 피칭을 기대했다.",
-      "올해 이의리는 올 시즌 7경기 1승 3패 평균자책점 8.53의 성적에 그치고 있었다.",
-      "시속 150km를 넘나드는 강속구를 뿌리지만 고질적인 제."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nd2cf6859",
     "category": "사회",
     "source": "동아일보",
-    "time": "34분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260511/133895508/1",
     "title": "이번엔 노로바이러스…크루즈서 115명 집단 감염",
     "summary": [
@@ -428,7 +523,7 @@ window.NEWS_DB = [
     "id": "n8fca22aa",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "35분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260511000800071",
     "title": "美유엔대사 \"트럼프, 이란공격재개前 외교에 최대기회 주고있어\"",
     "summary": [
@@ -442,7 +537,7 @@ window.NEWS_DB = [
     "id": "nefcf7727",
     "category": "사회",
     "source": "뉴시스",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260508_0003622518",
     "title": "\"소변은 건강 척도\"…'스마트 기저귀' 탄생한 사연[같이의 가치]",
     "summary": [
@@ -458,7 +553,7 @@ window.NEWS_DB = [
     "id": "n529e7e72",
     "category": "사회",
     "source": "동아일보",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260511/133895483/1",
     "title": "혼두이스호 스페인 국적 탑승자들, 하선후 테네리페 공항 이륙…마드리드행",
     "summary": [
@@ -473,7 +568,7 @@ window.NEWS_DB = [
     "id": "n504f89a0",
     "category": "사회",
     "source": "동아일보",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260511/133895480/1",
     "title": "차예련♥주상욱, 콜로세움 앞에서 손잡고…로맨틱 ‘투샷’",
     "summary": [
@@ -489,7 +584,7 @@ window.NEWS_DB = [
     "id": "nddd8eadb",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260511/133895475/1",
     "title": "‘여자농구 FA 최대어’ 박지수, KB와 1차 협상 결렬",
     "summary": [
@@ -503,7 +598,7 @@ window.NEWS_DB = [
     "id": "ne7d27ccd",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260511000700085",
     "title": "英 웨일스 의회에 한국계 첫 입성…영국개혁당 조슈아 김",
     "summary": [
@@ -514,102 +609,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncfe28afe",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260510_0003623158",
-    "title": "\"사돈이랑 뷔페 가더니\"…어버이날 '양가 차별' 따진 시모에 며느리 '울컥'",
-    "summary": [
-      "[서울=뉴시스]서영은 인턴 기자 = 어버이날을 맞아 양가에 동일한 선물을 보냈음에도 불구하고, 평소 친정 부모님과 자주 왕래한다는 이유로 시어머니와 갈등을 빚은 며느리의 사연이 화제다.",
-      "9일 한 온라인 커뮤니티에는 '친정 시댁 차별이라고 화내시는 시어머니'라는 제목의 글이 올라왔다.",
-      "결혼 1년 차 신혼부부라고 밝힌 작성자 A씨는 어버이날 직후 시어머니로부터 \"너는 왜 친정과 시댁을 차별하느냐\"는 전화를 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n21360bfc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260511_0003623522",
-    "title": "안규백, 美 워싱턴 입성…내일 한미 국방장관 회담",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 취임 후 첫 방미길에 오른 안규백 국방부 장관이 10일(현지 시간) 오전 워싱턴DC에 도착했다.",
-      "안 장관은 이날 워싱턴DC 인근 덜레스국제공항을 통해 미국에 입국했다.",
-      "안 장관은 오는 13일까지 3박4일간 머무르며 미측과 전시작전통제권(전작권) 전환과 핵추진잠수함 도입 등 한미 간 핵심 안보 사안을 논의할 계획이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1363a0a3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051023185891145",
-    "title": "전·현직 WWE 미녀 레슬러, 아찔한 '캔디 비키니' 파격 노출... \"부상도 못 말린 섹시美\"",
-    "summary": [
-      "WWE 스타 재즈민 닉스와 아드리아나 리조가 커플 비키니를 공개해 팬심을 뜨겁게 달궜다.",
-      "영국 '더선'은 10일(현지시간) \"두 레슬러가 인스타그램에 관능적인 커플 비키니 모습을 올리며 팬들을 열광하게 했다\"고 보도했다.",
-      "공개된 사진에 따르면 닉스와 리조는 '캔디 스트라이프' 무늬의 비키니를 맞춰 입고 카메라 앞에서 매력을 뽐냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7bb1d10",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260511000500071",
-    "title": "안규백 국방장관 美도착…11일 美국방과 회담서 전작권 등 논의",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 안규백 국방부 장관이 피트 헤그세스 미국 국방부(전쟁부) 장관과의 회담을 위해 10일(현지시간) 미국 워싱..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne6fe9cb6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260511000400087",
-    "title": "일주일도 안돼 이웃동네서 '또'…콜롬비아 탄광 폭발 4명 사망",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 최근 탄광 폭발로 9명이 숨진 콜롬비아에서 불과 일주일도 되지 않아 유사한 광산 사고가 발생해 광부 4..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n12eef12b",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/11/2026051010172373929",
-    "title": "이택근 이후 9년 만에 나온 히어로즈 끝내기 만루포! 안치홍 \"연패 기간 너무 힘들었는데...\"",
-    "summary": [
-      "키움 히어로즈 '베테랑 내야수' 안치홍(36)이 팀을 절망의 늪에서 구해냈다.",
-      "9년 전 넥센 히어로즈 시절 이택근(46·은퇴)이 기록했던 영광의 끝내기 만루 홈런 순간을 재현하며 팀의 연패를 끊어내는 극적인 드라마를 썼다.",
-      "키움 히어로즈는 10일 서울 고척스카이돔에서 열린 '2026 신한 SOL KBO리그' KT 위즈와의 홈 경기에서 안치홍의 끝내기 만루 홈런에 힘입어 5-1 승리를 거뒀다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n50b94e47",
     "category": "사회",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202605106853i",
     "title": "'포괄임금제' 시대, 기업들의 생존 전략 [지평의 노동 Insight]",
     "summary": [
@@ -623,7 +626,7 @@ window.NEWS_DB = [
     "id": "n837bfab4",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026051068491",
     "title": "\"이란, 美종전안에 답변\"…양국 협상 급물살 타나",
     "summary": [
@@ -640,8 +643,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
