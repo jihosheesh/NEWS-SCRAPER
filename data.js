@@ -1,28 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-11 13:37:26
+// 마지막 업데이트: 2026-05-11 16:24:09
 window.NEWS_DB = [
-  {
-    "id": "nac4fc0a1",
-    "category": "IT",
-    "source": "초이스스탁",
-    "time": "4시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XTVdpS01hTkowMjBBeUJVWkI2blFJdzBqV3lBbnMyM2FhbmVPNWF6ZFZKdElQZzJGZ2ExZlV5MlJCWjVXdjd2TXBNQU5ZTkctd25FVTg1dUlzNWhLVk85NkdWM0dVUDg?oc=5",
-    "title": "엔비디아 칩 수출에 '전자발찌' 단다…美 하원, AI 반도체 위치추적 의무화 법안 추진",
-    "summary": [
-      "엔비디아 칩 수출에 '전자발찌' 단다…美 하원, AI 반도체 위치추적 의무화 법안 추진 초이스스탁."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#정책"
-    ]
-  },
   {
     "id": "nd69efaf7",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KbDhWX1VVWGlUcFFTUXNqYzViNGN2WWRNTVpkZlNrYnNoUk9VS29HWkhhZkluT3dDVGpJT2l4b01lOGFYZ0w1ZzBlMzVmV01PTVBuVlVYcmFaalVBNk9vNUo4MVZjMVRvT2JOQnROU1pNNVk?oc=5",
     "title": "'반도체부터 AI 모델 제미나이까지' 알파벳 AI 전 영역에 사업 구축 평가, \"엔비디아 시총 추월 가시권\"",
     "summary": [
@@ -38,7 +21,7 @@ window.NEWS_DB = [
     "id": "neeb79ef5",
     "category": "IT",
     "source": "전자신문",
-    "time": "15시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RS1FlYzdacjVDcGtXT0xzTHZPQkRhaUF5Smh1dmhCU3FSY1lWX3RseWVRUk9mWk54dlRYSy1TTnFyUFVSdzNadTJPeWRsdw?oc=5",
     "title": "엔비디아, AI 투자 '큰손' 부상… 올해만 58조 투입",
     "summary": [
@@ -46,6 +29,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nb827dc79",
+    "category": "IT",
+    "source": "파이낸셜뉴스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VjlmSmdkcGdqZU9IX3ZQY2Q3d3hVeF90TjdnamlQMHU2OTNfdERqam5kcUV4bjZKdHpVUGxBQ0RQaHVtTzJnTEFkLWN4ZjZodEpKWW9HRWlPd9IBXkFVX3lxTFBJTFNJaWthaWNLRzVMMXhwLTViYjMtU2duRHZCWFpzdjlQZWV6UTVVSmdWak4tcVJDWU44R3B2eEgxTnZldjhOa29QcjlwelVrR2x4aUt4UVcybDhTTWc?oc=5",
+    "title": "공장 하나 없는 엔비디아는 어떻게 AI반도체의 제왕이 됐나 [글로벌 리포트]",
+    "summary": [
+      "공장 하나 없는 엔비디아는 어떻게 AI반도체의 제왕이 됐나 [글로벌 리포트] 파이낸셜뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -112,17 +111,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n97194ff6",
-    "category": "경제",
-    "source": "이데일리TV",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKWXY5NU9nZ3BFMWN6MHlwUEZEMXZXcDFlOWpIeElaVmROZC1pcWFsaFR4N00yd19nRFhUUlpiQlRucVY4TXRjNXJhczBqMmdLQWdUNjJGb2tFRDQyNklZMWpjWXFaOXgyUEx2OElZVzNjdHRHQzdzUHR1cw?oc=5",
-    "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
+    "id": "nca4f291e",
+    "category": "스포츠",
+    "source": "한스경제",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QR0tWWVFXUnZqQ0tHLVBWaFJ0a196bmNmU09NbVBHS0FFRnpIT2E5TjVTdmRLeFhmSmJPOEJNSEYxMGV2WTN5UWIzb2FTMUtwdkRPZGlwbU5qT2xadmw5cnMzSDN1TkRZajE00gFvQVVfeXFMUEp6XzFmRDRtWEpSWmtyRUNVdGVBOUg3TDFNc3JsUjdQSEJDNXVUU3Z3TkpKd25Gd1R3alVXRjZFQ1l4M3ZqNndjU1JWNlNsNzBRWmtuVk5lU0pRSG1pcjFhRjRBNm9YYTVKVjBMRzk4?oc=5",
+    "title": "국내야구, 4월 4주 차에도 스포츠 관심도 정상… 점유율 55%",
     "summary": [
-      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리TV."
+      "국내야구, 4월 4주 차에도 스포츠 관심도 정상… 점유율 55% 한스경제."
     ],
     "chips": [
-      "#환율"
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7aed1cf1",
+    "category": "부동산",
+    "source": "리얼캐스트",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWXh3MEhBenVCb1I5NTNLa2FVWTdPSG9MYlh1YlpMQVNEQXlDdTdIUlBpMkk4SDBMbldqdDU5ejN6OWdEQkhsMlpqdnZDNEpVX1FZbE02R1NrbmFRRGh3bzItMl9DbVpB0gFsQVVfeXFMTWFpTF8xUHdYam9qb3JXalkzRzc2bE54VG9zUEltd1N2THBaZ3pRb185d2o1MTlvaXF6di01bURqZ1FrTFNvQTY2UV9hV3NkUENleW5ndjQzT2FYVk9EM2p0YnVNd0N2dkdvLXg2?oc=5",
+    "title": "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동",
+    "summary": [
+      "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동 리얼캐스트."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -156,20 +170,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "40일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
@@ -195,21 +195,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "81일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -260,6 +245,34 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1fe1df06",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "102일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlFQbmQyRlI5aUxXeUpoUTZyWU9fMDBMY1J0QnRqVUZMNHRRRzVCbTlwTmQzeWQ0NWRwcmZ1OVo3a0hNamRRSWx3M1VVZEVMTzktR2I1U0lvd1FCd0l0NFEyOVh2OC02MjdYWTk5VFo3WFZHQU5zRXp4ZVdyeEozNTZfYw?oc=5",
+    "title": "\"야구가 4대스포츠 최고 흥행인데 연봉이…\" 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정",
+    "summary": [
+      "\"야구가 4대스포츠 최고 흥행인데 연봉이…\" 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정 조선일보."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf7aebd8b",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "112일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
+    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
+    "summary": [
+      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n0f008420",
     "category": "경제",
     "source": "한겨레",
@@ -304,21 +317,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5de3a708",
-    "category": "스포츠",
-    "source": "매일경제",
-    "time": "220일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
-    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
-    "summary": [
-      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
     "id": "n65f61cba",
     "category": "경제",
     "source": "테크M",
@@ -351,302 +349,288 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n997d7704",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151734",
-    "title": "시장 평균보다 3배 빠른 성장...컬리, 1Q 어닝 서프라이즈로 IPO 로드맵 구체화",
+    "id": "n87a2b7f2",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/12/2026051201160189440",
+    "title": "윤정수 \"'♥원진서'가 질투한다\" 폭로…이영자 \"걔 병이다\" 돌직구",
     "summary": [
-      "컬리가 올해 1분기 사상 최대 실적을 달성하며 성장은 물론 수익성까지 모두 잡은 성적표를 내놓았습니다.",
-      "컬리는 11일 공시를 통해 2026년 1분기 연결 기준 매출 7457억원, 영업이익 242억원을 기록했다고 밝혔습니다.",
-      "이는 전년 동기 대비 매출은 28.4% 증가한 수치이며, 영업이익은 무려 1277% 성장했습니다.이는 지난해 전체 영업이익의 2배에 육박하는 성과로 유통가 게임 체인저임을 입증한 결과물입니다 ."
+      "이영자가 윤정수 아내 원진서의 질투심 언급에 거침없는 입담을 터뜨렸다.",
+      "11일 방영된 tvN '남겨서 뭐하게' 42회에서는 윤정수가 게스트로 출연해 이영자, 박세리와 식사를 하며 근황을 나눴다.",
+      "이날 박세리가 숯불 위에서 양념 주꾸미를 정성스럽게 굽자 윤정수는 감탄하며 \"이런 거 하시는 걸 즐기시는 것 같다\"고 말을 걸었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7a6168f0",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151730",
-    "title": "'검색' 네이버 vs '대화' 카카오...AI 수익화 승부수",
+    "id": "n14e45df5",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://www.asiae.co.kr/article/2026051201211314031",
+    "title": "美 4월 기존주택 판매 0.2%↑…성수기에도 정체",
     "summary": [
-      "네이버와 카카오가 본격적으로 인공지능(AI) 수익화에 나서기 위해 각기 다른 전략을 취하고 있어 주목된다.네이버는 검색을 중심으로 버티컬 AI 에이전트를 연결, 로컬 내 네이버 AI 생태계를 구축한다는 전략인 반면, 카카오는 대국민 서비스인 카카오톡에 AI를 결합해 대화를 통한 AI 대중화를 실현시키겠다는 입장이다.",
-      "네이버와 카카오가 내놓은 각기 다른 AI 수익화 청사진 가운데 어떤 전략이 이용자들의 선택을 받을지 주목된다."
+      "미국의 4월 주택 판매량이 정체 상태를 보이며 부진한 흐름을 이어갔다.",
+      "11일(현지시간) 전미부동산중개인협회(NAR)에 따르면 4월 미 기존 주택 판매는 402만건(계절조정 연율 환산 기준)으로 집계됐다.",
+      "이는 다우존스가 집계한 전문가 전망치 410만건을 밑도는 수치이며, 9개월 만에 최저 수준이었던 3월 대비 0.2% 증가하는 데 그쳤다."
     ],
     "chips": [
-      "#AI",
-      "#네이버",
-      "#카카오"
+      "#부동산"
     ]
   },
   {
-    "id": "n47be3ab5",
-    "category": "경제",
-    "source": "머니투데이",
+    "id": "n13327f70",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/11/2026051122052263057",
-    "title": "배기성, 자연임신 도전하다 돌발성 난청…\"두 달째인데 아직도\"",
+    "url": "https://www.newsis.com/view/NISX20260512_0003625144",
+    "title": "트럼프 \"호르무즈 해방작전 재개 검토…더 강력조치 취할수도\"",
     "summary": [
-      "가수 배기성이 자연 임신을 도전하다가 돌발성 난청이 생겼다고 털어놨다.",
-      "11일 방송된 tvN STORY '남겨서 뭐하게'에는 윤정수가 '맛선자'로 20년 넘게 인연을 이어온 절친 배기성을 초대해 이야기를 나누는 모습이 그려졌다.",
-      "배기성은 '내 생에 봄날은'을 부르며 등장해 출연자들과 가게 손님들에게 떼창을 요구해 웃음을 자아냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n829df604",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/11/2026051121342119249",
-    "title": "또 탄핵안 받은 필리핀 두테르테 부통령…상원 심판 남았다",
-    "summary": [
-      "필리핀 하원이 11일(현지시간) 공금 유용 등의 혐의를 받고있는 사라 두테르테 부통령에 대한 탄핵소추안을 통과시켰다.",
-      "페르디난드 마르코스 대통령의 라이벌이자 차기 대권 주자인 두테르테 부통령은 탄핵 위기에 놓였다.",
-      "이날 로이터통신에 따르면 이번 탄핵 소추안은 전체 318명의 하원 의원 중 255명의 찬성을 얻었다."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 11일(현지 시간) 호르무즈 해협에 발이 묶인 상선의 탈출을 돕는 '프로젝트 프리덤(해방 프로젝트)' 작전을 재개하는 방안을 고려 중이라고 밝혔다.",
+      "전날 이란이 내놓은 협상안에 불만을 표한데 이어 압박 조치를 시사한 것이다.",
+      "미 폭스뉴스는 이날 트럼프 대통령이 전화인터뷰에서 \"단기간에 그쳤던 프로젝트 프리덤을 재개하는 방안을 검토 중이라며, 이번에는 호르무즈 해협을 통과하는 선박."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nba41390b",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260511_0003625106",
-    "title": "\"MBK파트너스, 日 알루미늄 3위 기업 아르테미라 인수\"",
+    "id": "n0dace756",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512001200085",
+    "title": "지방선거 참패 후폭풍…노동당 내 반란 직면한 스타머",
     "summary": [
-      "[서울=뉴시스]고재은 기자 = MBK파트너스가 일본 3위 대형 알루미늄 업체 아르테미라 홀딩스(アルテミラ·ホールディングス)를 인수한다고 11일 니혼게이자이신문(닛케이)가 보도했다.",
-      "보도에 따르면 MBK파트너스는 아르테미라를 부채 포함 1300억엔 규모(1조2100여억원)에 인수하기로 했다.",
-      "최근 일본 외환관리법에 따른 사전 심사 승인도 받았다."
+      "(런던=연합뉴스) 김지연 특파원 = 키어 스타머 영국 총리가 지방선거 참패 후에도 총리직을 유지하겠다고 선언했으나 당내 반란이 쉽게 가라앉지는 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0667bbbc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260512_0003625146",
+    "title": "[속보]트럼프 \"이란과 휴전 허술…생명 유지 장치 의존 상태\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 jeko@newsis.com."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9006d1f0",
+    "id": "n9ee85bfd",
     "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512001151071",
+    "title": "트럼프 \"휴전 유지되고 있지만 가장 약한 상태…연명장치 의존\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 11일(현지시간) 이란과의 휴전이 유지되고 있다면서도 상태가 가장 약한 상태라..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8b8c3fcc",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/11/GI2DQMLCGAYDOMJVMU4TENRQGQ/",
-    "title": "김국진, 인순이 남편과 도플갱어..♥강수지도 깜짝 “남 같지 않은 분위기”(조선의 사랑꾼)[순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 김국진과 인순이의 남편이 도플갱어 비주얼로 놀라움을 자아냈다.11일 방송된 TV조선 ‘조선의 사랑꾼’에서는 인순이, 박경배 부부의 근황이 공개되었다.인순이, 박경배 부부는 강수지, 김국진과 부부 골프 대항전을 치르기로 했다.",
-      "인순이와 강수지는 박경배와 김국진이 너무나도 닮은 도플갱어라고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd39367d1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260511164800051",
-    "title": "남극 장보고기지 대원, 흉기로 동료위협…국내 이송돼 경찰 수사",
-    "summary": [
-      "(부산=연합뉴스) 이영재 기자 = 남극 장보고과학기지에서 한 대원이 흉기로 다른 대원들을 위협한 사건이 발생해 경찰이 수사 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n070c03b4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260511_0003625115",
-    "title": "제주 해수욕장서 北김정은 사진 발견…\"먼 바다서 떠내려 온 듯\"",
-    "summary": [
-      "[제주=뉴시스]오영재 기자 = 제주 해수욕장에서 북한 김정은 국무위원장 사진 등이 발견됐으나 대공 혐의점은 없는 것으로 나타났다.",
-      "11일 제주경찰청 등에 따르면 이날 오후 5시쯤 제주시 조천읍 함덕해수욕장에서 '김정은 사진에 인공기 그림이 있는 물품이 있다'는 내용의 신고가 접수됐다.",
-      "경찰, 해경 등 유관기관은 현장에서 해당 물품을 수거해 대공 혐의점 조사에 착수했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n84f09e2a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260511_0003625111",
-    "title": "군산 폐기물처리장에서 불…인명피해 없어",
-    "summary": [
-      "[군산=뉴시스]강경호 기자 = 11일 오후 4시37분께 전북 군산시 내초동의 폐기물처리장 선별동 건물에서 불이 나 40분여 만에 진화됐다.",
-      "이 불로 다친 사람은 없었지만 선별동 건물 일부(50㎡)와 내부에 있던 크레인 기계 및 폐기물 등이 불에 타 2300여만원(소방서 추산)의 재산피해가 발생했다.",
-      "소방당국은 정확한 화재 원인을 조사 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne049ec38",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/economy/2026/05/11/2026051122031587048",
-    "title": "삼성전자 노사, 중노위 사후조정 첫날 평행선…성과급 상한폐지 이견",
-    "summary": [
-      "오는 21일 예고된 삼성전자 노조의 총파업을 앞두고 노사 양측이 정부 중재로 마련된 첫날 사후조정 테이블에 앉았으나 이견을 좁히지 못했다.",
-      "노사 양측은 성과급 상한제 폐지와 영업이익 15% 성과급 지급 등을 놓고 대립하는 것으로 알려졌다.",
-      "중앙노동위원회는 11일 정부세종청사 제1조정회의실에서 열린 삼성전자 2026년 임금협약 체결을 위한 1차 사후조정회의가 종료됐다고 밝혔다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n7db86dd5",
-    "category": "사회",
-    "source": "연합뉴스",
     "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260511164600530",
-    "title": "삼성전자 노사, 사후조정 첫날 회의 종료…12일 재개",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/12/HA2TQMJUGYYDSYTEGY3DAMZZMY/",
+    "title": "\"아스널의 우승 VS 웨스트햄의 강등?\" 역대 최악의 VAR, 올시즌 운명을 가를 大혼돈의 4분11초",
     "summary": [
-      "(서울=연합뉴스) 옥성구 기자 = 삼성전자 노사가 오는 21일로 예정된 총파업을 앞두고, 사후조정 절차에 들어간 첫날인 11일 11시간 30분 ..."
+      "[스포츠조선 전영지 기자]'런던 스타디움에서 잉글랜드 프리미어리그(EPL) 역사상 가장 중대한 VAR 판정이 4분11초간 이어졌다.' 영국 BBC는 11일 선두 아스널이 웨스트햄을 1대0으로 이긴 후 후반 추가시간 진행된 VAR 판독 장면을 이렇게 묘사했다.",
+      "'EPL 역사상 가장 중대한 VAR 판정이 4분 11초간 이어졌으며, 이 시간은 마치 영겁처럼 느."
     ],
     "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n5a977974",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/12/2026051200595496272",
+    "title": "\"입술이 아플 정도\" 윤정수, '♥원진서'와 하루 50번 뽀뽀 고백",
+    "summary": [
+      "개그맨 윤정수가 아내 원진서와의 달달한 신혼 생활을 공개했다.",
+      "11일 방영된 tvN '남겨서 뭐하게' 42회에서는 윤정수가 게스트로 출연해 이영자, 박세리와 식사를 하며 근황을 전했다.",
+      "이날 박세리는 윤정수에게 \"원진서와 결혼하기 전 얼마나 사귀신 거예요?\"라고 물었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n89850dd3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512001000098",
+    "title": "유대인 수집가가 강탈당한 명화, 나치 친위대 후손 집에",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 1940년 나치의 침공을 피해 네덜란드에서 탈출하던 중 숨진 유대인 수집가에게서 강탈한 명화가 수십년째 악..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na58a1047",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/12/2026051116213250269",
+    "title": "신성한 탁구대 밟은 中 '동메달 루마니아는 무개념, 우린 금메달이니까!' 역대급 내로남불",
+    "summary": [
+      "신성해야 할 탁구대 위를 선수들이 기쁨에 못이겨 올라가는 장면.",
+      "한 번은 '무개념'이라며 몰매를 맞았고, 한 번은 '패기'라며 추앙받는다.",
+      "세계 탁구계가 중국의 유례없는 '이중잣대'와 내로남불 행태에 분노하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee28b133",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260511_0003624690",
+    "title": "'주방의 살인자' 조리흄…\"요리 후 꼭 환기하세요\"",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 과거에는 흡연만 하지 않으면 폐암을 피할 수 있다고 인식했지만 최근 의학의 발전으로 일상 속에서 폐 건강을 위협하는 여러 요소들이 속속 드러나고 있다.",
+      "이준석 분당서울대병원 심장혈관흉부외과 교수의 도움말로 일상 속 폐암 요소를 알아보고, 폐암을 확인하는 검진 방법을 살펴본다.",
+      "12일 의료계에 따르면 초미세먼지는 폐에 염증을 일으키고 유전자 돌연변이를 유발해 폐암으로 악화시킨다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n05566d3c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/G5TGIOBXMIYGGYTBGIYGENTGGE/",
+    "title": "강예원, 앞트임 복원 수술에 만족 “이게 내 얼굴인데..사람들 못 알아봐”(깡예원)",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 배우 강예원이 앞트임 복원 수술 후 만족한다는 반응을 보였다.지난 11일 채널 ‘깡예원’에는 ‘앞트임 복원 비하인드 드디어 다 풉니다’라는 영상이 게재됐다.이날 강예원은 찐친과 식사를 하며 이야기를 나누었다.",
+      "강예원은 “나 얘 때문에 그거 하게 된 것이다.",
+      "네 덕분에 눈 앞트임 복원”이라며 성형."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbeb55033",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/05/12/OFNLVLOTN5CBFNVPTEXIDFFENQ/",
+    "title": "피격 일주일 지난 뒤… 靑 “강력 규탄”",
+    "summary": [
+      "피격 일주일 지난 뒤… 靑 “강력 규탄”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2816fd45",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/05/12/R3N6ZHJ3SJANHGWUE2O2BOR7GE/",
+    "title": "삼성전자 노조 요구대로면, 반도체 직원 3년간 26억 성과급",
+    "summary": [
+      "삼성전자 노조 요구대로면, 반도체 직원 3년간 26억 성과급."
+    ],
+    "chips": [
+      "#반도체",
       "#삼성전자"
     ]
   },
   {
-    "id": "nf33cc9c8",
+    "id": "n23c3a233",
     "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/11/HEYTOYJUHA4DAMJQGM2DMMRVGQ/",
-    "title": "리아킴,’마이클 잭슨 빙의’ [O! STAR 숏폼]",
-    "summary": [
-      "[OSEN=이대선 기자] 11일 오후 서울 강남구 메가박스 코엑스에서 영화 '마이클' VIP 시사회 포토월 행사가 열렸다.리아킴이 포토타임을 하고 있다.",
-      "2026.05.11 /sunday@osen.co.kr[사진] 지형준 기자 /jpnews@osen.co.kr."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n697e427a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/11/Y7PVEMWR3ZENFE4YTLERIVZZP4/",
-    "title": "네타냐후 “이란 우라늄 제거할 때까지 전쟁 안 끝나”",
-    "summary": [
-      "네타냐후 “이란 우라늄 제거할 때까지 전쟁 안 끝나”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7a613b80",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260511164300081",
-    "title": "\"너무 예의가 없네\"…케냐서 청중에 호통친 마크롱",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = '아프리카 전진' 정상회의 참석차 케냐를 방문 중인 에마뉘엘 마크롱 프랑스 대통령이 한 행사장에서 시끄럽게 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n15eea366",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260511/133902288/1",
-    "title": "英총리 사퇴 거부에도 정치 불안정 계속…장기 국채금리 ↑",
-    "summary": [
-      "영국 여당 노동당의 지방선거 참패로 사퇴 압박을 받는 키어 스타머 총리가 11일(현지시간) 연설을 통해 사퇴 의사가 없음을 밝혔다.",
-      "그러나 총리직을 둘러싼 불확실성이 해소되지 않으면서 장기 영국 국채 손실이 커졌다.로이터통신에 따르면 가격과 반대로 움직이는 국채 30년물 금리는 이날 스타머 총리의 연설 후 전일 대비 9bp(0.09%) 상승한 5.656%를 기록했다.",
-      "이는 연설 전에도 5bp 상승한 상태였다."
-    ],
-    "chips": [
-      "#금리",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbb7bb841",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/11/2026051121573120690",
-    "title": "'상조업체 폐업 대응' 할부거래법 개정안 정무위 소위 통과",
-    "summary": [
-      "[the300] 상조업체 등 선불식 할부거래업자가 선수금을 받아놓고 폐업할 경우 소비자 피해를 막기 위한 대응책을 제도화하는 내용의 할부거래법 개정안이 국회 정무위원회 소위원회를 통과했다.",
-      "정무위 법안심사2소위원회는 11일 이같은 내용이 담긴 '할부거래에 관한 법률 일부개정법률안'을 의결했다.",
-      "개정안은 선불식 할부거래업자의 기습 폐업이나 등록취소 등이 발생할 경우 배상받지 못하는 소비자 피해를 막기 위해 선수금을 보호하고 관리·감독하는 체계를."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd3992fa5",
-    "category": "경제",
     "source": "뉴시스",
     "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260511_0003625102",
-    "title": "국제 유가, 상승세 약해져…브렌트유 배럴당 104달러 대",
+    "url": "https://www.newsis.com/view/NISX20260512_0003625142",
+    "title": "안규백 \"한반도 방위 주도 노력\"…美국방 \"진정한 방위분담 실천\"(종합)",
     "summary": [
-      "[서울=뉴시스] 김재영 기자 = 국제 유가가 11일 새 주를 시작하면서 전주의 하락세 대신 상승세로 돌았으나 시간이 지나며 힘이 약해지는 모습이다.",
-      "도널드 트럼프 미 대통령이 10일(일) 미국 종전안에 대한 이란의 응답에 용납 불가라고 말해 호르무즈해협 봉쇄 및 석유 공급차질이 계속될 조짐을 보이자 유가는 상당한 상승세로 본격적인 장을 시작했다.",
-      "국제 기준유인 브렌트유의 6월 선물가는 직전 영업일인 8일(금) 배럴당 101.29달러로 마감해 주."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8164db10",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "34분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260511/133901684/1",
-    "title": "서울 주택공급 오세훈때 줄었다?…숫자 맞지만 ‘박원순탓’ 무시못해",
-    "summary": [
-      "6·3 지방선거 핵심 승부처인 서울시장 선거에서 부동산 정책을 두고 더불어민주당 정원오 후보와 국민의힘 오세훈 후보 간 공방이 거듭되고 있다.",
-      "부동산 이슈가 서울시장 선거의 판세를 가를 핵심 쟁점으로 떠오르면서 부동산 공급과 도시 개발 등을 두고 엇갈린 주장이 쏟아지고 있는 것.",
-      "양측은 부동산 정책 미비점에 대해선 서로 상대 진영을 탓하지만 전문가들은 보수, 진보 진영이 정권과 서울시장을 번갈아 차지한 만큼 어느 한쪽 만의 책임으로 돌리긴 어렵."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n14502388",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "34분 전",
-    "url": "https://www.asiae.co.kr/article/2026051122022279871",
-    "title": "가격은 구매자가 정한다…화성 지역작가 '0원 경매'",
-    "summary": [
-      "서울옥션은 화성시문화관광재단과 함께 지역 예술인 지원 경매 '제로베이스×화성'을 오는 20일 개최한다고 11일 밝혔다.",
-      "'제로베이스'는 작품 시작가를 0원으로 두고 구매자가 가격을 정하는 방식의 경매다.",
-      "작품 구매 진입장벽을 낮추고 신진·지역 작가의 시장 접근성을 넓히는 데 초점을 맞췄다."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 11일(현지 시간)열린 한미 국방장관회담에서 안규백 국방장관은 \"우리도 (미국의 기조에) 발맞춰 국방비 증액을 통해 핵심 국가 국방 역량을 확보해 우리 주도의 한반도 방위를 실현할 수 있도록 최선의 노력을 다하고 있다\"고 강조했다.",
+      "안 장관은 이날 미국 워싱턴DC 인근 미 국방부 청사에서 열린 한미 국방장관 모두발언에서 \"피트 헤그세스 장관이 취임 후 지금까지 힘을 통한 평화라는 기치 아래 미군의 전사 정신을."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nbd4b094c",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "29분 전",
+    "url": "https://www.asiae.co.kr/article/2026051200542103940",
+    "title": "트럼프 \"해방 프로젝트 더 큰 규모로 재개 검토 중\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 11일(현지시간) 호르무즈 해협에 발이 묶인 상선들의 탈출을 유도하는 '해방 프로젝트'(프로젝트 프리덤·Project Freedom)의 재개를 검토하고 있다고 밝혔다.",
+      "이날 트럼프 대통령은 폭스뉴스와 인터뷰에서 해방 프로젝트를 이전보다 더 큰 규모로 다시 시작하는 방안을 검토 중이라고 말했다.",
+      "다만 최종 결정은 내리지 않았다고 덧붙였다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n44821f99",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512001100071",
+    "title": "[속보] 트럼프 \"이란전 휴전 가장 약한 상태…연명장치 의존\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb94ac723",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "34분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260512/133902603/1",
+    "title": "英 스타머 총리, 지선 참패에 사퇴 거부…“물러나지 않는 것도 책임”",
+    "summary": [
+      "영국 지방선거에서 참패한 키어 스타머 영국 총리가 11일(현지 시간) 책임을 통감한다면서도 사임 요구는 재차 거부했다.BBC, 뉴욕타임스(NYT) 등에 따르면 스타머 총리는 이날 런던에서 열린 기자회견에서 “지난주 선거 결과가 매우 고통스러웠다”며 “책임감을 느끼지만, 단순히 결과에 대한 책임만 지는 것은 아니다”라고 밝혔다.그는 “물러나지 않는 것 또한 저의 책임”이라며 지도부 교체는 국가에 혼란을 초래할 것이라고 강조했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n93c621cd",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "42분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/12/2026051117061239896",
+    "title": "'도대체 왜' 손흥민 미드필더 배치→'10경기 0골' 이토록 부진하는데... 감독은 변명 일색 \"역사상 가장 힘든 순간\"",
+    "summary": [
+      "또 손흥민(34)을 또 풀타임 기용하고도 기록적인 대패를 당했다.",
+      "계속된 부진에도 마크 도스 산토스 LAFC 감독은 패배의 원인을 살인적인 일정을 꼽고 있다.",
+      "LAFC는 11일 오전 10시(한국시간) 미국 로스앤젤레스 BMO 스타디움에서 열린 2026 미국프로축구(MLS) 12라운드 홈경기에서 휴스턴 다이너모에 1-4로 처참하게 무너졌다."
+    ],
+    "chips": [
+      "#손흥민"
     ]
   }
 ];
@@ -662,14 +646,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
