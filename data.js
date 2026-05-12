@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-12 18:30:41
+// 마지막 업데이트: 2026-05-12 20:25:32
 window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준지 회복 [부동산360]",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n932035ab",
     "category": "IT",
     "source": "이로운넷",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkbUdETFZzbGZJVTJ2bTBYZ2ZhUHlLQWFnX1lCUmZHRnpacGNNSy1jR1FHeVJndVpEZ0hFbjFxQVlUT1E1VjljaVdOcHgyRnVhUEZCcldJRXRySVh6dVNaWEY2cmM1QQ?oc=5",
     "title": "북미 전력망 교체기 도래…엔비디아, 전력 거물 '이튼'과 손잡고 AI 팩토리 가속화",
     "summary": [
@@ -78,20 +78,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndb0c0e9e",
-    "category": "스포츠",
-    "source": "한스경제",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QWjBhM2cxUzR2czJvTjBJNF9USUdFWmtXenFKQmQ0MFNrbGRtYUR1VC1ZTW44VnE0YnJ0cnhTWjMwNzByVEVxYWY1YlFZM1J4MF91dExXaG1lYnZ3RVFVUHJjUDVJSklKaUMw0gFvQVVfeXFMTTIxV29mLXJ1a0J5X0Qxc080WWItLWtDMDVpOUJuQTRKakRFQTk3OUgzV2gwQnNWZnBDVGlUQ3NuVEVqSnlmeEpGVzVkdUhWNnpmMEZ3TDBOWUJWMWItNmp6NTRva1FYMENBcnFOdEV3?oc=5",
-    "title": "국내야구, 4월 5주 차 스포츠 관심도 1위 유지",
-    "summary": [
-      "국내야구, 4월 5주 차 스포츠 관심도 1위 유지 한스경제."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -106,6 +92,20 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nba668fc0",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "13일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -157,17 +157,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nce5c746a",
-    "category": "IT",
-    "source": "전자신문",
-    "time": "40일 전",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnWmRZVmxBeXZBVjEzS3RCcnJiNGNORTFHMDFmR3dBNkVBanE1LVJwejlSQ2x6TGEwRXZNRHFnQktaUjNLOXRzQUJVU2NZUQ?oc=5",
-    "title": "“글로벌로 나가야 유니콘”…투자업계 “K-스타트업 범주 넓혀 해외 창업도 지원해야”",
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "41일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "“글로벌로 나가야 유니콘”…투자업계 “K-스타트업 범주 넓혀 해외 창업도 지원해야” 전자신문."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
-      "#스타트업"
+      "#KBO"
     ]
   },
   {
@@ -196,21 +196,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "82일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -288,6 +273,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13cdbe9c",
+    "category": "부동산",
+    "source": "시사저널e",
+    "time": "133일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
+    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
+    "summary": [
+      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "n0fd44a05",
     "category": "IT",
     "source": "조선일보",
@@ -318,320 +317,312 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6e87a82c",
+    "id": "nf522365a",
     "category": "경제",
     "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/stock/2026/05/13/2026051217500988457",
-    "title": "중동 전쟁에 '흔들'...\"건설주? 이 '두 곳' 보세요\" 전문가 콕 집었다[부꾸미]",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/economy/2026/05/13/2026051214571519522",
+    "title": "중기부, 중동전쟁 피해 수출 中企 점검…긴급경영안정자금 2500억원 투입",
     "summary": [
-      "박세라 신영증권 연구원② 중동 전쟁 리스크가 재부각되면서 국내 증시에서 건설주가 하락하고 있다.",
-      "중동 재건 모멘텀이 약화된 탓이다.",
-      "앞으로 건설주 사이에서 주가 편차가 나타날 가능성이 있는 만큼 옥석 가리기에 나서야 한다는 조언이 나왔다."
+      "중소벤처기업부가 중동전쟁으로 피해를 보고 있는 중소기업에 긴급경영안전자금을 투입하는 등 수출 지원에 나서고 있다.",
+      "노용석 중기부 제1차관은 12일 충청북도 진천군에 소재한 플라스틱 첨가제 제조 기업인 페스웰㈜(페스웰)를 방문해 중동전쟁으로 인한 수출 애로 및 현장 상황을 점검하고 지원방안을 논의했다.",
+      "페스웰은 수입에 의존하던 플라스틱 첨가제 아마이드(유채유, 팜유 등에서 추출한 순식물성 지방산을 원료로 한 제품)의 국산화에 성공해 2016년부터."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6d73f5d8",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/economy/2026/05/13/2026051303112176711",
-    "title": "정부 조정에도 삼성 노사 '최종 결렬'... 연 40조 원 시스템 리스크 현실로",
-    "summary": [
-      "대한민국 반도체 산업의 명운을 가를 삼성전자 노사 갈등이 정부의 적극적인 조정 노력에도 끝내 파국을 맞았다.",
-      "가동 중단 시 일일 1조원에 달하는 경제적 손실이 예고된 상황에서 정부의 조정안을 최종 거부함에 따라 글로벌 공급망 대란과 K-반도체 경쟁력 약화라는 최악의 시나리오가 현실화할 것이란 우려가 나온다.",
-      "13일 고용노동부 중앙노동위원회에서 열린 삼성전사 노사의 사후조정은 '결렬'로 끝났다."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n4efb8013",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/13/GA3TIOBUGAYGIMZUMMZGKYZWGI/",
-    "title": "첫 완봉 후유증인가, 5실점 패→4실점 패→5실점 패...언터처블 선동열 방어율 어디로 갔나 [오!쎈 광주]",
-    "summary": [
-      "[OSEN=광주, 이선호 기자] 완봉 후유증인가.",
-      "KIA 타이거즈 외국인 투수 아담 올러(31)가 완봉승을 따낸 이후 급격히 흔들리고 있다.",
-      "12일 광주-기아 챔피언스필드에서 열린 2026 프로야구 두산 베어스와의 경기에 선발등판했으나 6이닝 6피안타(1홈런) 1볼넷 5실점을 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8eb9a1fb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260513003000075",
-    "title": "美소도시 시장, 中불법요원 활동 혐의에 사임…친중 콘텐츠 유포",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 캘리포니아주(州)의 한 소도시 시장이 중국 정부의 불법 요원으로 일한 사실이 발각돼 사임했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n177e0263",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/national/labor/2026/05/13/AXBAOIBEERC2BH6A77X4VF74SM/",
-    "title": "삼성전자 노조, 중노위 조정안 거부…사후조정 최종 결렬",
-    "summary": [
-      "삼성전자 노조, 중노위 조정안 거부…사후조정 최종 결렬."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "ne4e2f0bf",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/economy/2026/05/13/2026051222150253286",
-    "title": "정부 중재에도 삼성전자 임금협상 결렬…긴급조정권 발동하나",
-    "summary": [
-      "정부 중재에도 불구하고 삼성전자 노사 간 임금협상이 결렬되면서 긴급조정권 발동 가능성이 거론된다.",
-      "노동조합의 쟁의가 국민경제를 심각하게 해칠 우려가 있는 경우 정부가 강제적으로 파업을 중단시키고 조정하는 절차다.",
-      "13일 고용노동부에 따르면 '노동조합 및 노동관계조정법'(노동조합법) 76조는 정부의 긴급조정 권한을 규정했다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n004d7083",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260513002900071",
-    "title": "美국방, 韓사드 일부반출 계획됐던 것이냐 묻자 \"그렇다\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 피트 헤그세스 미국 국방부(전쟁부) 장관은 미국이 이란과의 전쟁을 시작한 뒤 한국에 배치된 고고도미사일방어..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndeae8a0f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260513_0003626861",
-    "title": "삼성전자 노사, 사후조정 최종 결렬…노조 \"조정안 납득 어려워\"",
-    "summary": [
-      "[서울·세종=뉴시스]이지용 이수정 기자 = 삼성전자 노사가 성과급 산정 방식을 놓고 지난 11일부터 이틀 넘게 사후조정 절차를 진행했지만 결국 합의를 하지 못했다.",
-      "최승호 초기업노조 위원장은 13일 오전 2시53분 정부세종청사 중앙노동위원회(중노위)에서 열린 2차 사후조정이 끝난 뒤 취재진을 만나 \"(중노위) 조정안은 요구했던 것보다 오히려 퇴보됐으며, 노조는 최종 결렬을 선언했다\"고 말했다.",
-      "최 위원장은 \"성과급 상한 폐지 투명화·제도화 요구."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n8b7d6e26",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/industry/2026/05/13/2026051303095881673",
-    "title": "삼성전자 노조, 사후조정 결렬 선언…\"조정안 오히려 퇴보\"",
-    "summary": [
-      "초기업노조 삼성전자지부(초기업노조)이 정부의 중재로 지난 11일부터 진행된 사후조정에서 최종 결렬을 13일 선언했다.",
-      "노조는 \"노사 간 이견이 좁혀지지 않아 조정안을 요청했다\"며 \"조정안은 12시간 가까이 기다려서 나온 결과\"라고 설명했다.",
-      "특히 노조는 \"조정안은 오히려 퇴보한 안건\"이라고 강조했다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n536ee251",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260513_0003626873",
-    "title": "[속보]트럼프 \"시진핑과 이란 문제 길게 논의할것…도움은 필요없어\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne448878c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512049600003",
-    "title": "[일지] 삼성전자 2026년 임금협상 사후조정 결렬",
-    "summary": [
-      "(서울=연합뉴스) 김민지 기자 = 삼성전자 노사가 지난해 말부터 진행해온 '2026년 임금협상'이 사후조정절차에도 불구하고 결렬됐다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nf47ed858",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260513003100079",
-    "title": "이란, 트럼프 방문 앞둔 중국에 영구종전 등 입장 대변 요청",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 도널드 트럼프 미국 대통령의 방중을 앞두고 이란이 전쟁 종식 등 자국의 입장을 대변해 줄 것을 중국에 전달..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n27e684c5",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260513/133910428/1",
-    "title": "美상원, 케빈 워시 연준 이사 인준…곧 의장 인준도 진행할 듯",
-    "summary": [
-      "미국 상원이 케빈 워시 연방준비제도(Fed) 의장 지명자를 연준 이사로 인준해 제롬 파월 의장의 후임으로 취임할 수 있는 길을 열었다.AFP통신에 따르면 상원은 12일(현지시간) 51대45로 워시의 14년 임기 이사직 인준안을 가결했다.이는 전날 상원이 연준 이사직 인준을 위한 ‘절차 표결’을 49대44로 가결한 데 따른 것이다.상원은 오는 15일 임기가 끝나는 파월의 뒤를 이어 워시를 연준 의장으로 인준하는 안건을 별도로 표결에 부칠 예정이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne577bbf4",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "25분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/05/13/CC67RJGWIFCJBHVSZWXIFKALC4/",
-    "title": "삼성전자 노조, 사후조정서 최종 결렬 선언",
-    "summary": [
-      "삼성전자 노조, 사후조정서 최종 결렬 선언."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n72c300c0",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/13/QHGWXZLPQFBJFHFDEZZ2XQF4YE/",
-    "title": "성큼 다가온 ‘워시 시대’…인플레 우려 속 금리 향방은",
-    "summary": [
-      "성큼 다가온 ‘워시 시대’…인플레 우려 속 금리 향방은."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n067c38d1",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "31분 전",
-    "url": "https://www.asiae.co.kr/article/2026051302585141584",
-    "title": "美 항소법원, '글로벌 관세 무효' 1심 효력 일시정지",
-    "summary": [
-      "미국 법원이 도널드 트럼프 행정부의 글로벌 관세에 제동을 건 하급심 판단의 효력을 일시 중단하면서 관세 정책을 둘러싼 법정 공방이 새 국면에 접어들었다.",
-      "12일(현지시간) 미 연방 순회항소법원은 트럼프 행정부가 무역법 122조를 근거로 부과한 10% 글로벌 관세가 위법하다고 본 하급심 판결의 효력을 잠정 정지했다.",
-      "이에 따라 해당 관세는 항소심 판단이 나올 때까지 일단 유지될 전망이다."
-    ],
-    "chips": [
-      "#정책",
+      "#스타트업",
       "#수출"
     ]
   },
   {
-    "id": "nf3bf9aaf",
+    "id": "n64307ae6",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "34분 전",
-    "url": "https://www.asiae.co.kr/article/2026051302555037406",
-    "title": "민음사 북클럽 회원 전화번호 유출…\"끝까지 책임지고 수습\"",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260513/133910533/1",
+    "title": "김성수 “엄마 다시 결혼해도 되겠어”…이승철도 감탄",
     "summary": [
-      "출판사 민음사가 문자 발송 과정에서 민음북클럽 회원 142명의 휴대전화 번호를 다른 회원들에게 잘못 전송한 데 대해 사과하고 보상 절차에 나섰다.",
-      "12일 민음사에 따르면 이번 사고는 전날 오후 5시께 민음북클럽 회원을 대상으로 행사 관련 홈페이지 포인트 서비스 중단 안내 문자를 보내는 과정에서 발생했다.",
-      "작업 실수로 회원 142명의 휴대전화 번호가 문자 내용에 포함됐고, 해당 문자는 멤버십 회원 약 4000명에게 발송됐다."
+      "배우 김성수가 80세 어머니를 방송에서 처음 공개한다.오는 14일 오후 10시 방송되는 채널A 예능물 ‘요즘 남자 라이프-신랑수업2’에서는 김성수가 어머니와 함께 포천 산정호수에서 데이트를 하는 모습이 그려진다.김성수는 데이트에 앞서 20년 지기 헤어·메이크업 스태프의 도움을 받아 어머니를 꾸며준다.김성수의 어머니는 동안 외모와 김성수를 닮은 모습으로 출연진의 감탄을 자아낸다.",
+      "이승철은 “어머니가 너무 젊고 고우시다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0187840e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260513_0003626869",
-    "title": "美상원, 워시 연준 의장 후보자 인준…이사회 의결 남아",
+    "id": "n8e71d3a4",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/13/2026051223352325600",
+    "title": "지예은, 공개연애 후 달라진 모습 \"참해져…♥바타 애칭은 '자기'\"",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장 후보자에 대한 인준안이 12일(현지 시간) 미 상원을 통과했다.",
-      "CNBC에 따르면 미 상원은 이날 워시 후보자에 대한 인준안 전체표결을 진행해 찬성 51표, 반대 45표로 가결했다.",
-      "연준 이사회 의결까지 거치면 임명을 위한 절차가 모두 완료된다."
+      "배우 지예은이 댄서 바타(본명 김태현)와 열애 후 달라진 모습을 보였다.",
+      "지난 12일 방송된 SBS '동상이몽 시즌2-너는 내 운명'에서는 지예은이 게스트로 출연했다.",
+      "방송에서 서장훈은 지예은에게 \"배성재가 나온다고 해서 지예은이 한달음에 달려왔는데 배성재는 없고 김다영이 있어서 당황했냐\"고 장난스럽게 물었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd30a035d",
+    "id": "n53f70565",
     "category": "사회",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/13/2026051219450581744",
+    "title": "김용범 띄운 '국민배당금', 李 '국민소득'으로 부푸나...도발적 격문 꺼냈다",
+    "summary": [
+      "[김용범 '국민배당금제' 제안] (下) ━'잔인한 금융' 이어 '국민배당금'…김용범의 '도발적 격문'━ 이재명 정부의 정책 콘트롤타워인 김용범 청와대 정책실장이 소셜미디어(SNS)에서 연일 '도발적 격문'으로 '정책 애드벌룬(Trial balloon)'을 띄우고 있다.",
+      "이재명 대통령의 정책 구상과 아젠다(의제)를 '보론'(더하는 말)의 형태로 풀어 내 국민 여론을 수렴하려는 시도로 읽히지만 정치권과 시장에 미치는 파장을 고려해 메시지 관리에 신."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n83b7603f",
+    "category": "스포츠",
     "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260512_0003626750",
-    "title": "[속보]삼성전자 노사, 이틀 걸친 사후조정 최종 결렬",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260512_0003626543",
+    "title": "김준호 아들·랄랄 딸, 삼합 잘 먹네…\"먹방계 양대 산맥\"",
+    "summary": [
+      "[서울=뉴시스]전재경 기자 = 전 펜싱선수 김준호의 아들 정우와 크리에이터 랄랄의 딸 서빈이 다시 만난다.",
+      "13일 오후 8시30분 방송되는 KBS 2TV 예능물 '슈퍼맨이 돌아왔다' 621회는 '지금, 만나러 갑니다' 편으로 꾸며진다.",
+      "이날 방송에서는 앞서 '먹짱 베이비' 조합으로 화제를 모았던 35개월 정우와 21개월 서빈이 재회한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4156097a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/04/23/FBBTBS4CVBB3BIISJDFBKAMOVU/",
+    "title": "아침마다 줄줄 흐르는 콧물, 괴로운 ‘꽃가루 비염’ 코에 툭 넣어 치료",
+    "summary": [
+      "아침마다 줄줄 흐르는 콧물, 괴로운 ‘꽃가루 비염’ 코에 툭 넣어 치료."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb06ab334",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/13/2026051305130795943",
+    "title": "미국서도 반도체주 매도…S&P·나스닥 숨고르기[뉴욕마감]",
+    "summary": [
+      "뉴욕증시 주요지수가 12일(현지시간) 뚜렷한 방향성을 잡지 못한 채 혼조 마감했다.",
+      "최근 급등한 반도체주 차익실현 매도세가 기술주와 대형주 주가를 끌어내렸다.",
+      "이날 뉴욕증권거래소에서 S&P500지수는 전장보다 11.88포인트(0.16%) 하락한 7400.96에, 기술주 중심의 나스닥종합지수는 185.92포인트(0.71%) 내린 2만6088.20에 각각 마감했다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "necd4e5b5",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260513005500091",
+    "title": "올트먼 \"머스크, 오픈AI 지분 90% 요구…경영권 세습도 주장\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 샘 올트먼 오픈AI 최고경영자(CEO)는 일론 머스크 테슬라 CEO가 오픈AI 영리화를 지지했으며 지..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "ned571ea0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/13/BN3MYQZDGRCCBAVGIQOOK5X6GY/",
+    "title": "‘밀가루 제로’ 국산 팥과 돼지감자로 맛 낸 쫄깃한 찰보리빵, 한 개 630원 초특가",
+    "summary": [
+      "‘밀가루 제로’ 국산 팥과 돼지감자로 맛 낸 쫄깃한 찰보리빵, 한 개 630원 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd96cbdbf",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/13/OXNWRH5RKVEJ3LU5DH2QLYLHE4/",
+    "title": "끝나지 않는 이란전…국제 유가 4% 상승",
+    "summary": [
+      "끝나지 않는 이란전…국제 유가 4% 상승."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff1d3219",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260513005600072",
+    "title": "뉴욕증시, 인플레 우려·반도체 매도에 혼조마감…나스닥 0.7%↓",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 인플레이션 우려가 고조된 가운데 최근 가파르게 오른 반도체 종목의 차익실현 매도세가 나오면서 뉴욕증시..."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "ne4aca490",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/13/3ROPTDGS7FDPTM72GR5ADSZHOA/",
+    "title": "중량의 절반이 고기 건더기, 두 달 만에 23만개 팔린 이혜정 도가니탕 4000원 초특가",
+    "summary": [
+      "중량의 절반이 고기 건더기, 두 달 만에 23만개 팔린 이혜정 도가니탕 4000원 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf30ba6ff",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260513/133910520/1",
+    "title": "쿠웨이트 “이란 혁명수비대 침투…무장대원 4명 체포”",
+    "summary": [
+      "쿠웨이트가 이란 이슬람혁명수비대(IRGC) 소속 무장 인력의 자국 영토 침투를 주장하며 중동 걸프 지역의 군사적 긴장이 다시 고조되고 있다.12일(현지 시간) AP통신에 따르면 쿠웨이트 내무부는 지난 1일 무장한 혁명수비대원들이 임대한 어선을 이용해 페르시아만의 전략적 요충지인 부비얀섬에 상륙했다고 밝혔다.",
+      "쿠웨이트 군과의 교전 과정에서 군인 1명이 부상을 입었으며, 혁명수비대원 4명이 체포되고 2명은 도주한 것으로 전해졌다.쿠웨이트 당국은 공."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n96e008f6",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260513_0003626879",
+    "title": "[속보]뉴욕증시 혼조세 마감…다우 강보합·나스닥 0.7% 하락",
     "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n170214fd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260512_0003626629",
+    "title": "[오늘의 주요일정]식품의약품안전처(5월13일 수요일)",
+    "summary": [
+      "[서울=뉴시스] ◇처장 ▲14:00 정책이음 열린마당 ◇차장 ▲통상일정."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "na76ece19",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260511117000056",
+    "title": "[인터뷰] 문성유 \"위기의 제주 경제 살릴 '경제 도지사' 될 것\"",
+    "summary": [
+      "(제주=연합뉴스) 전지혜 기자 = 국민의힘 문성유 제주도지사 후보는 13일 \"이번 선택은 누가 실제로 제주를 바꿀 수 있느냐 하는 문제\"라며 \"..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf4c4a982",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512036300056",
+    "title": "[인터뷰] 위성곤 \"정부와 협력해 제주 변화 책임지고 성과 내겠다\"",
+    "summary": [
+      "(제주=연합뉴스) 고성식 기자 = 6·3 지방선거를 3주 앞둔 13일 더불어민주당 위성곤 제주도지사 후보는 \"중앙정부와 협력하고, 국비를 확보하..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nff91594a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "55분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260513/133909140/2",
+    "title": "“45년간 역사적 상흔 화폭에 남들 뭐라해도 내 존재방식, 그동안 고생 위로받는 기분”",
+    "summary": [
+      "“45년 작가 인생에서 제대로 주목받아 본 건 처음입니다.",
+      "주변에선 ‘아직도 똑같은 거 그리고 있냐.",
+      "캔버스가 아깝다’고도 했죠."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5dc5c2f4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "55분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260513/133909138/2",
+    "title": "사상 첫 유엔서 ‘승려 인턴’ 근무 고우 스님… “수행이 세상과 어떻게 맞닿을까 항상 고민”",
+    "summary": [
+      "“늘 한 가지 질문이 마음속에 있었어요.",
+      "‘수행은 세상과 어떻게 맞닿을 수 있을까’ 하는….” 1월부터 미국 뉴욕 유엔 본부 글로벌소통국(DGC) 교육홍보과에서 인턴으로 근무하고 있는 고우 스님은 8일 ‘승려가 왜 유엔 근무를 지원했느냐’라는 물음에 이렇게 답했다.",
+      "2010년 출가한 고우 스님은 현재 대한불교조계종(총무원장 진우 스님) 뉴욕 대관음사 주지를 맡고 있으며, 지난해 뉴욕 컬럼비아대(인권학 학사)를 졸업한 재원."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n414ffcc5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "58분 전",
+    "url": "https://www.hankyung.com/article/202605132159i",
+    "title": "삼성전자 노사 사후조정 결렬...21일 총파업 '눈 앞'",
+    "summary": [
+      "삼성전자 노사 사후조정 결렬...21일 총파업 '눈 앞'."
+    ],
     "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "n2ffd34e1",
-    "category": "IT",
-    "source": "테크M",
-    "time": "47분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151772",
-    "title": "[카드뉴스] 네이버 '검색 AI' vs. 카카오 '카톡 AI'...AI 수익화 두고 벌어지는 플랫폼 전쟁 주목하라",
-    "summary": [
-      "AI 경쟁의 중심이 바뀌고 있다.",
-      "누가 더 똑똑한 AI를 만들었느냐가 아니라, 누가 사용자의 시간을 더 오래 붙잡고 생활 안으로 더 깊게 들어가느냐가 중요해졌다.",
-      "그리고 지금 네이버와 카카오는 완전히 다른 방식으로 AI 생태계를 키우기 시작했다.네이버는 검색을 AI로 바꾸고, 카카오는 카카오톡 대화를 AI로 확장한다."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버",
-      "#카카오"
-    ]
-  },
-  {
-    "id": "na3b354fe",
+    "id": "nd3b64fd0",
     "category": "경제",
-    "source": "동아일보",
-    "time": "56분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260513/133910385/1",
-    "title": "美항소법원, ‘트럼프 10% 글로벌 관세 위법’ 하급심 판결 효력정지",
+    "source": "연합뉴스(경제)",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260513004700072",
+    "title": "국제유가, 이란 협상 기대감 약화에 상승…WTI 100달러 위로",
     "summary": [
-      "미국 항소법원이 전 세계 교역국에 부과한 도널드 트럼프 미국 대통령의 10% ‘글로벌 관세’가 위법이라는 국제무역법원 판결의 효력을 정지시켰다.로이터통신에 따르면 미 항소법원은 12일(현지시간) 국제무역법원 판결 효력을 일시적으로 중단해 해당 판결로 관세 유예 조치를 받았던 3개 수입업체에 대한 관세가 계속 적용되도록 했다.앞서 국제무역법원은 지난 7일 트럼프 대통령의 글로벌 관세가 1974년 무역법에 근거할 때 정당화될 수 없다고 판결했다.이."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란 간 종전협상 타결 전망이 약화되면서 12일(현지시간) 국제 유가가 3% 넘게 상승했다."
     ],
     "chips": [
-      "#수출",
-      "#정치"
+      "#뉴스"
     ]
   }
 ];
@@ -641,20 +632,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "삼성전자",
-    "mentions": "2070건",
-    "trend": "+215%"
-  },
-  {
-    "rank": 3,
     "tag": "AI",
     "mentions": "1810건",
     "trend": "+175%"
+  },
+  {
+    "rank": 3,
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
