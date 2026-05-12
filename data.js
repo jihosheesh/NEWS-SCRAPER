@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-12 13:53:02
+// 마지막 업데이트: 2026-05-12 16:13:12
 window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "11시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준지 회복 [부동산360]",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n932035ab",
     "category": "IT",
     "source": "이로운넷",
-    "time": "13시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkbUdETFZzbGZJVTJ2bTBYZ2ZhUHlLQWFnX1lCUmZHRnpacGNNSy1jR1FHeVJndVpEZ0hFbjFxQVlUT1E1VjljaVdOcHgyRnVhUEZCcldJRXRySVh6dVNaWEY2cmM1QQ?oc=5",
     "title": "북미 전력망 교체기 도래…엔비디아, 전력 거물 '이튼'과 손잡고 AI 팩토리 가속화",
     "summary": [
@@ -78,6 +78,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd59c4f15",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xNkNaVmtQelhxVHZkaWdFaFhmTURTRkp1QkV6UFhuUko0TUNnbXQ3N0E5ZGFOSFdNR0xjSzFOT1I1ZFlKYzJOSDJSdmhkYXM?oc=5",
+    "title": "삼성전자 50만원·SK하이닉스 300만원…증권가 눈높이 더 높아졌다",
+    "summary": [
+      "삼성전자 50만원·SK하이닉스 300만원…증권가 눈높이 더 높아졌다 v.daum.net."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -95,20 +110,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc4b0f988",
-    "category": "IT",
-    "source": "쿠키뉴스",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
-    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
+    "id": "nef4b12c1",
+    "category": "경제",
+    "source": "이데일리",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzdSZFFxUnJRaDU0aF9yN1oyMUVlWDlqQ0ROLXR3UFktYmp5Zm0xVHBoaHZOcXNzeFMxeHpyRG9mLVF3ay1rMVVyTm9jY29XNkt5aTBsUTF0R1ZHTS1uQlpQRjZiSDBVbkM4dW92WTZaejNoLU9CbWdvZURZd3JVcw?oc=5",
+    "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리."
     ],
     "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
+      "#환율"
     ]
   },
   {
@@ -157,6 +169,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "41일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
@@ -182,6 +208,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "82일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -230,20 +271,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1fe1df06",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "103일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlFQbmQyRlI5aUxXeUpoUTZyWU9fMDBMY1J0QnRqVUZMNHRRRzVCbTlwTmQzeWQ0NWRwcmZ1OVo3a0hNamRRSWx3M1VVZEVMTzktR2I1U0lvd1FCd0l0NFEyOVh2OC02MjdYWTk5VFo3WFZHQU5zRXp4ZVdyeEozNTZfYw?oc=5",
-    "title": "\"야구가 4대스포츠 최고 흥행인데 연봉이…\" 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정",
-    "summary": [
-      "\"야구가 4대스포츠 최고 흥행인데 연봉이…\" 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정 조선일보."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nf7aebd8b",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -255,35 +282,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n0f008420",
-    "category": "경제",
-    "source": "한겨레",
-    "time": "118일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGNFNVYUVMN0g3RGcwT1BXUzhvZ1B6VjQ2Y1poNHpZUHEtR3Z2RmVlSEZZN01waGNETEtxTXh2NEpjMTZ5emFtNGsxTEdDSnQ2cy1QTS1DVDh3cXBwRFFwZjFfQ1J3UThUcXE1R2tDN203Zw?oc=5",
-    "title": "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도",
-    "summary": [
-      "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도 한겨레."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n13cdbe9c",
-    "category": "부동산",
-    "source": "시사저널e",
-    "time": "133일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
-    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
-    "summary": [
-      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -383,257 +381,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n56439284",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512186452072",
-    "title": "고유가에 美 4월 소비자물가 전년대비 3.8%↑…3년만에 최대(종합)",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국의 지난달 소비자물가지수(CPI) 연간 상승률이 3년 만에 최고치를 기록했다.",
-      "이란 전쟁 여파로 에너지 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f1b212a",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/12/2026051222332741507",
-    "title": "월 1000만원 버는 남편…5남매 키우는 아내에 \"네가 벌어 써\"",
-    "summary": [
-      "한 달에 1000만원을 버는 남편이 5남매를 키우는 아내의 커피값 지출에도 눈치를 준다는 사연이 전해졌다.",
-      "12일 방송된 tvN STORY '이호선 상담소'에는 8개월 쌍둥이를 포함해 5남매를 육아 중인 아내가 고민을 털어놓는 모습이 담겼다.",
-      "아내는 월수입 1000만원이 넘는 고소득자인 남편이 경제권을 쥐고 경제적 상황을 전혀 공유하지 않는다고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n417e9223",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512189700007",
-    "title": "K리그 득점 선두 이호재의 당당한 자신감 \"월드컵 명단도 기대\"",
-    "summary": [
-      "(인천=연합뉴스) 오명언 기자 = K리그1 득점 공동 선두로 올라선 이호재(포항 스틸러스)가 2026 월드컵 최종 명단 발표를 앞두고 당찬 자신..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c3e3ad2",
+    "id": "nb95339ff",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/12/2026051222264092565",
-    "title": "'12년 만에 8연승' 일궈낸 박진만, '만루포' 전병우 극찬! \"이제 팀에 없어선 안 될 선수→앞으로도 큰 자신감되길\"",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/13/2026051300024483503",
+    "title": "\"세계서 가장 예쁜 스포츠 스타\" 위엄... 英 육상 여신, 아찔 크롭톱 자태에 전 세계 '초토화'",
     "summary": [
-      "삼성 라이온즈가 2014시즌 이후 무려 12년 만의 8연승이라는 대기록을 작성하며 리그 단독 2위로 우뚝 섰다.",
-      "승부처에서 터진 전병우의 짜릿한 만루 홈런이 잠실 밤하늘을 수놓았다.",
-      "박진만(50) 감독이 이끄는 삼성은 12일 서울 송파구에 위치한 잠실구장에서 열린 '2026 신한 SOL KBO리그' LG 트윈스와의 원정 경기에서 전병우의 그랜드슬램을 포함해 타선이 막판 폭발하며 9-1 대승을 거뒀다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ndf9820ac",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026051220981",
-    "title": "전쟁發 고유가 충격파 계속…美 4월 물가 3년 만에 최고",
-    "summary": [
-      "전쟁發 고유가 충격파 계속…美 4월 물가 3년 만에 최고."
+      "영국 육상 간판 스타 킬리 호지킨슨(24)이 화려한 일상을 공개하자 팬들이 열광했다.",
+      "영국 '더선'은 12일(한국시간) \"호지킨슨이 인스타그램에 올린 사진 한 장에 팬들이 '세계에서 가장 예쁜 스포츠 스타'라며 열광했다\"고 보도했다.",
+      "공개된 사진에서 호지킨슨은 크롭톱 차림으로 소파에 앉아 탄탄한 복근과 여유로운 매력을 뽐냈다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n076de558",
+    "id": "nc0fe29da",
     "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/MI4DSNRYMQZGMYTFGEZTIODFMU/",
-    "title": "‘바타♥’ 지예은, 열애 인정 후 달라진 분위기 “자중하고 있어”(동상이몽2)[순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 지예은이 연애 후 조금은 달라진 분위기를 풍겼다.12일 방송된 SBS ‘동상이몽2 - 너는 내 운명’(이하 동상이몽2)에서는 배성재, 김다영 부부의 신혼 일상이 그려졌다.특별 손님으로 지예은이 출연했다.",
-      "김구라는 지예은의 열애를 언급했다.",
-      "지예은은 최근 댄서 바타와의 연애를 인정해 화제를 모았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neda5cd61",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512188400109",
-    "title": "한타바이러스 사망자와 같은 비행기…이탈리아 남성 격리 중 증상",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 한타바이러스 사망자와 같은 항공기에 탔다가 격리 조치된 이탈리아 남성이 바이러스 감염 증상을 보여 병원으로 ..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd9ebab81",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512189600009",
-    "title": "뉴욕증시, 4월 CPI·미-이란 갈등 반영하며 하락 출발",
-    "summary": [
-      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 미국 4월 소비자물가지수(CPI) 결과, 미국과 이란 간의 갈등 양상에..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ff2d6e2",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "14분 전",
-    "url": "https://www.hankyung.com/article/2026051220797",
-    "title": "윤석열 부친 살고, 김만배 누나가 산 연희동 주택…경매 넘어갔다",
-    "summary": [
-      "윤석열 부친 살고, 김만배 누나가 산 연희동 주택…경매 넘어갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c8ddd46",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/MY4DAZRVGRRWIMZRHBQTONJUGM/",
-    "title": "'모솔男' 맹꽁이, 과거 연애 고백 \"약속 까먹고 축구 갔다 헤어져\" ('돌싱N모솔') [순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 모솔남 맹꽁이가 과거 연애가 왜 끝났는지 털어놓았다.",
-      "12일 방송된 MBC에브리원·E채널 예능 프로그램 '돌싱N모솔' 5회에서는 맹꽁이와 카멜리아, 서울쥐와의 2대1 데이트 현장이 공개된 가운데 맹꽁이가 과거 연애를 고백해 눈길을 끌었다.",
-      "이날 카멜리아와 서울쥐는 \"2명의 선택을 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n53afee1d",
-    "category": "경제",
     "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260512_0003626549",
+    "title": "\"당뇨병 원샷 해결\"…'이 약' 세계 최초 임상 개시",
+    "summary": [
+      "[서울=뉴시스]황재희 기자 = 당뇨·비만 치료제에 사용되는 GLP-1(글루카곤 유사 펩타이드-1)을 체내에서 생성하도록 하는 유전자치료제 임상시험이 세계 최초로 진행된다.",
+      "13일 한국바이오협회 바이오경제연구센터 및 미국 제약전문매체 바이오스페이스에 따르면, 미국 바이오 기업 프랙틸 헬스(Fractyl Health)는 세계 최초 GLP-1 유전자치료제 임상을 네덜란드에서 개시한다.",
+      "프랙틸 헬스는 비만 및 제2형 당뇨병(T2D)에 대한 치료법 개발."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4845edcc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512166751085",
+    "title": "벼랑 끝 몰린 스타머 영국 총리…노동당 분열, 차관 잇단 사임(종합)",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 키어 스타머 영국 총리가 12일(현지시간) 자진 사퇴는 안 한다고 선언했으나 일부 차관들이 잇달아 퇴진을 요..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3bd2c11",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512185651009",
+    "title": "쿠웨이트 \"이란 혁명수비대 침투조와 교전…4명 체포\"(종합)",
+    "summary": [
+      "(서울=연합뉴스) 강훈상 기자 = 쿠웨이트군이 해안으로 침투한 이란 이슬람혁명수비대원 4명을 체포했다고 쿠웨이트 국영 KUNA통신이 12일(현지..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n60d6b1b5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/international/us/2026/05/13/4MYYIR5LDBFJFFRYQ4JNW5T564/",
+    "title": "美, 극비 ‘핵잠 위치’ 공개하며 이란에 경고",
+    "summary": [
+      "美, 극비 ‘핵잠 위치’ 공개하며 이란에 경고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ebb5c66",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/05/13/S6Y2AKHPAVH6RO2VY3LR5MLV6I/",
+    "title": "반도체 이익 ‘국민 배당’ 띄운 김용범",
+    "summary": [
+      "반도체 이익 ‘국민 배당’ 띄운 김용범."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "na0a81925",
+    "category": "사회",
+    "source": "조선일보",
     "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260512_0003626839",
-    "title": "[속보]뉴욕증시, 미·이란 긴장 고조에 일제 하락 출발…나스닥 0.7%↓",
+    "url": "https://www.chosun.com/national/court_law/2026/05/13/G6PAVAFEFRGCNIWZWG3YTWZNNU/",
+    "title": "대검, 박상용 검사 ‘정직 2개월’ 징계 청구",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = ◎공감언론 뉴시스 lje@newsis.com."
+      "대검, 박상용 검사 ‘정직 2개월’ 징계 청구."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0354b776",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260512_0003626670",
-    "title": "[KBO 내일의 선발투수]5월13일(수)",
+    "id": "n49ac1e24",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/economy/real_estate/2026/05/13/G26CTXJU6JDLFIOD3ULIWIVDG4/",
+    "title": "비거주 1주택자의 ‘세 낀 집’… 정부는 ‘일단 팔아라’ 압박",
     "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 5월13일(수)> ▲잠실(오후 6시30분) 삼성 (원태인) - (앤더스 톨허스트) LG ▲사직(오후 6시30분) NC (커티스 테일러) - (제레미 비슬리) 롯데 ▲수원(오후 6시30분) SSG (타케다 쇼타) - (케일럽 보쉴리) KT ▲광주(오후 6시30분) 두산 (최준호) - (양현종) KIA ▲고척(오후 6시30분) 한화 (윌켈 에르난데스) - (박정훈) 키움."
+      "비거주 1주택자의 ‘세 낀 집’… 정부는 ‘일단 팔아라’ 압박."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n7543e916",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260512_0003626826",
-    "title": "'전병우 결승 만루포' 삼성, 12년 만에 8연승…한화, 키움 완파(종합)",
-    "summary": [
-      "[서울=뉴시스]김희준 문채현 기자 = 프로야구 삼성 라이온즈가 매서운 뒷심을 선보이며 12년 만에 8연승을 질주했다.",
-      "삼성은 12일 잠실구장에서 펼쳐진 2026 신한 쏠 KBO리그 LG 트윈스와의 경기에서 8회 터진 전병우의 결승 만루포에 힘입어 9-1로 완승을 거뒀다.",
-      "파죽의 8연승을 질주한 삼성은 시즌 22승(1무 14패)째를 수확, 3연패에 빠진 LG(22승 15패)를 3위로 끌어내리고 2위로 올라섰다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb8588bc6",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260512/133909904/1",
-    "title": "‘노시환 만루포’ 한화, 11-5로 키움 완파…류현진, 한미 통산 199승",
-    "summary": [
-      "프로야구 한화 이글스가 노시환의 만루포, 류현진의 역투에 힘입어 3연승에 성공했다.한화는 12일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 원정 경기에서 키움 히어로즈를 11-5로 완파했다.3연승에 성공한 한화는 시즌 17승(20패)째를 쌓고 공동 6위로 올라섰다.",
-      "반면 최하위 키움(13승 1무 24패)은 직전 경기 끝내기 승리 상승세를 잇지 못했다.한국 야구의 살아있는 전설 류현진은 5이닝 3피안타 3실점으로 시즌 4승(2패)째를."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5b637976",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "33분 전",
-    "url": "https://www.newsis.com/view/NISX20260512_0003626674",
-    "title": "[KBO 오늘의 경기 결과]5월12일(화)",
-    "summary": [
-      "[서울=뉴시스] [KBO]오늘의 경기 결과<2026년 5월12일(화)> ▲삼성 9 - 1 LG(잠실) 승 배찬승 패 장현식 ▲NC 8 - 1 롯데(사직) 승 라일리 톰슨 패 엘빈 로드리게스 ▲SSG 5 - 1 KT(수원) 승 김건우 패 맷 사우어 ▲두산 5 - 1 KIA(광주) 승 최승용 패 아담 올러 ▲한화 11 - 5 키움(고척) 승 류현진 패 배동현."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne70e4171",
+    "id": "n37765283",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "33분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/12/2026051221555676358",
-    "title": "트럼프 \"쿠바가 도움 요청…대화할 것\"",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260513_0003626860",
+    "title": "크렘린궁 \"우크라이나 결정 내리면 전쟁 끝날 수 있어\"",
     "summary": [
-      "도널드 트럼프 미국 대통령이 12일(현지시간) 쿠바가 도움을 요청하고 있다며 대화하겠다고 밝혔다.",
-      "구체적인 내용은 언급하지 않았다.",
-      "트럼프 대통령은 트루스소셜을 통해 \"공화당에서도 쿠바 문제를 제대로 이야기한 사람이 없었다\"면서 \"쿠바는 실패한 국가이며 오직 한 방향, 즉 몰락으로만 가고 있다\"고 적었다."
+      "[서울=뉴시스] 이재은 기자 = 러시아 크렘린궁이 우크라이나가 필요한 결정을 내릴 경우 전쟁은 언제든 종료될 수 있다고 12일(현지 시간) 밝혔다.",
+      "다만 러시아는 미국이 제안한 3일간의 휴전 종료 이후에도 군사 작전을 계속 이어가겠다는 입장을 재확인했다.",
+      "AP에 따르면 크렘린궁 드미트리 페스코프 대변인은 브리핑에서 \"키이우는 내려야 할 결정들을 잘 알고 있다\"며 \"우크라이나가 책임 있는 결정을 내리는 즉시 분쟁은 끝날 수 있다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85f79550",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260513/133910286/1",
+    "title": "‘하이닉스 2만원대 매수’ 전원주, 스태프들에게 용돈 쾌척",
+    "summary": [
+      "연예계 대표 ‘재테크 고수’이자 ‘짠순이’로 통하는 배우 전원주(87)가 투병 후 달라진 인생관을 전했다.12일 유튜브 채널 ‘전원주인공’에 업로드된 ‘전원주 한강뷰 아들 집 최초 공개’라는 제목의 영상에서 전원주가 최근 빙판길 낙상으로 인한 고관절 골절 수술을 이겨내고 두 달 만에 복귀하는 모습이 그려졌다.",
+      "눈길을 끈 것은 현장 스태프들에게 1인당 10만 원씩 용돈을 건네는 ‘통 큰’ 면모였다.전원주는 “가만히 누워있을 때 이러다 가버리면 나."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a032934",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260513/133910281/1",
+    "title": "“친부모가 생전 평생 일군 상가인데”…계모 ‘1.5배’ 상속에 자녀들 ‘분통’",
+    "summary": [
+      "친어머니와 아버지가 평생 일궈온 상가 건물을 두고, 사후 재혼한 배우자와 상속 갈등을 빚고 있는 자녀들의 사연에 대해 법조계 조언이 나왔다.12일 YTN 라디오 ‘조인섭 변호사의 상담소’에는 돌아가신 아버지의 상속 재산을 두고 새어머니와 분쟁 중인 자녀 A씨의 사례가 소개됐다.",
+      "사연자 A씨의 아버지는 평생 부동산 임대업에 종사하며 친어머니와 함께 수십 년간 상가 건물 한 채를 일궈왔다.",
+      "8년 전 어머니가 돌아가신 뒤 재혼한 아버지는 최근 지병으."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n1886b473",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260513/133910279/1",
+    "title": "푸틴 “올해 말 가장 강력한 신형 핵미사일 ‘사르마트’ 배치”",
+    "summary": [
+      "블라디미르 푸틴 러시아 대통령이 올해 말에 핵탄두 탑재가 가능한 대륙간 탄도미사일인 ‘사르마트’를 배치할 것이라고 밝혔다.로이터통신에 따르면 푸틴 대통령은 12일(현지시간) TV 연설을 통해 미사일에 탑재되는 탄두의 위력이 서방의 동급 탄두보다 4배 이상 강력하며 사거리는 3만 5000㎞를 초과한다고 말했다.그는 “이 미사일은 현재 및 미래의 모든 미사일 방어 체계를 뚫을 수 있는 능력을 갖추고 있다”고 강조했다.이날 러시아 국영 방송은 세르게."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n6df3481e",
+    "id": "n64fd5fb2",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "33분 전",
-    "url": "https://www.mt.co.kr/economy/2026/05/12/2026051211094990637",
-    "title": "\"세 아이 키우며 소상공인으로의 삶은?\"…출산·육아 사회안전망 모색",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260513/133910276/1",
+    "title": "서경석 “중2 딸과 대화, 임진왜란 수준”",
     "summary": [
-      "중소벤처기업부가 여성·청년 소상공인이 출산·육아와 생업을 병행하며 겪는 돌봄 공백과 경영 애로를 해소하기 위한 사회안전망 모색에 나선다.",
-      "한성숙 중기부 장관은 12일 오후서울 마포구의 한 카페에서 이런 소상공인들의 애로를 청취하기 위해 소상공인 사회안전망 시리즈 1차 간담회인 '여성·청년 소상공인 출산·육아 관련 간담회'를 개최했다.",
-      "이번 간담회는 그동안 모성보호 제도에서 상대적으로 소외돼 온 소상공인의 출산·육아로 인한 영업 공백과 소득 감소."
+      "방송인 서경석이 유쾌한 입담을 뽐낸다.",
+      "13일 오후 10시30분 방송되는 MBC TV 예능물 ‘라디오스타’는 ‘스승의 날 열혈사제들’ 특집으로 꾸며진다.",
+      "서경석을 비롯해 최태성, 김성은, 황민호가 출연한다.서경석은 공인중개사시험 합격 이후 한국사능력검정시험에 도전하게 된 계기를 털어놓는다.그는 한국사 강사 최태성의 강의를 반복해 들으며 공부했다고 밝힌다."
     ],
     "chips": [
-      "#스타트업"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6948c266",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512190800071",
+    "title": "美볼티모어 키브리지 붕괴사고 낸 선박 운용사 형사기소",
+    "summary": [
+      "(워싱턴=연합뉴스) 조준형 특파원 = 2024년 미국 메릴랜드주 볼티모어의 대형 교량 키브리지 붕괴 사고를 일으킨 컨테이너선 운용사가 미국 연방..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncefbcb86",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "44분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/13/2026051213484172805",
+    "title": "\"가장 큰 충격, 가짜 뉴스인 줄\" GG 포수 트레이드에 日 경악, 선수도 \"억울하다\"",
+    "summary": [
+      "일본프로야구(NPB)가 충격적인 트레이드로 발칵 뒤집혔다.",
+      "풀카운트 등 일본 매체에 따르면 DeNA 베이스타즈는 12일 포수 야마모토 유다이(28)를 소프트뱅크 호크스로 보내고 투수 오가타 슈토(27)와 내야수 이노우에 토모야(23)를 받는 1:2 트레이드를 단행했다.",
+      "이번 트레이드가 이례적이라 평가 받는 이유는 야마모토가 DeNA의 주전 포수이기 때문이다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nbe6ae5e1",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "48분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/13/2026051300192327672",
+    "title": "미, 이란전쟁에 43조원 지출…2주만에 6조원 늘어",
+    "summary": [
+      "[미국-이란 전쟁] 미국 도널드 트럼프 행정부가 이란전쟁에서 지출한 비용이 290억달러(약 43조원)에 달한다고 12일(현지시간) 밝혔다.",
+      "제이 허스트 미 국방부(전쟁부) 회계감사관(차관)은 이날 미 연방의회 하원 세출위원회 국방소위의 예산 청문회에서 이같이 밝혔다.",
+      "지난달 29일 하원 군사위 청문회에서 전쟁 비용 추산치를 250억달러로 밝힌 지 2주만에 40억달러(약 6조원)가 늘어난 셈이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n350964b6",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "49분 전",
+    "url": "https://www.newsis.com/view/NISX20260513_0003626859",
+    "title": "美국방부 \"이란 전쟁에 43조원 사용\"…2주새 6조원 증가",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 국방부가 두달반 가량 이어지고 있는 이란 전쟁에 투입된 비용이 약 43조원으로 추산된다고 12일(현지 시간) 밝혔다.",
+      "줄스 허스트 미 국방부 재무담당 차관대행은 이날 미 하원 세출위원회 청문회에서 관련 질의에 \"합동참모본부 참모진과 회계감사팀은 추정지를 지속 검토하고 있으며 현재로서는 290억달러(약 43조2216억원)에 더 가깝다고 보고있다\"고 답했다.",
+      "허스트 차관대행은 지난달 29일 하원 군사위 청문."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -643,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "3240건",
+    "trend": "+395%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "부동산",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
