@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-12 16:13:12
+// 마지막 업데이트: 2026-05-12 18:30:41
 window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준지 회복 [부동산360]",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n932035ab",
     "category": "IT",
     "source": "이로운넷",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkbUdETFZzbGZJVTJ2bTBYZ2ZhUHlLQWFnX1lCUmZHRnpacGNNSy1jR1FHeVJndVpEZ0hFbjFxQVlUT1E1VjljaVdOcHgyRnVhUEZCcldJRXRySVh6dVNaWEY2cmM1QQ?oc=5",
     "title": "북미 전력망 교체기 도래…엔비디아, 전력 거물 '이튼'과 손잡고 AI 팩토리 가속화",
     "summary": [
@@ -78,18 +78,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd59c4f15",
-    "category": "IT",
-    "source": "v.daum.net",
+    "id": "ndb0c0e9e",
+    "category": "스포츠",
+    "source": "한스경제",
     "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xNkNaVmtQelhxVHZkaWdFaFhmTURTRkp1QkV6UFhuUko0TUNnbXQ3N0E5ZGFOSFdNR0xjSzFOT1I1ZFlKYzJOSDJSdmhkYXM?oc=5",
-    "title": "삼성전자 50만원·SK하이닉스 300만원…증권가 눈높이 더 높아졌다",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QWjBhM2cxUzR2czJvTjBJNF9USUdFWmtXenFKQmQ0MFNrbGRtYUR1VC1ZTW44VnE0YnJ0cnhTWjMwNzByVEVxYWY1YlFZM1J4MF91dExXaG1lYnZ3RVFVUHJjUDVJSklKaUMw0gFvQVVfeXFMTTIxV29mLXJ1a0J5X0Qxc080WWItLWtDMDVpOUJuQTRKakRFQTk3OUgzV2gwQnNWZnBDVGlUQ3NuVEVqSnlmeEpGVzVkdUhWNnpmMEZ3TDBOWUJWMWItNmp6NTRva1FYMENBcnFOdEV3?oc=5",
+    "title": "국내야구, 4월 5주 차 스포츠 관심도 1위 유지",
     "summary": [
-      "삼성전자 50만원·SK하이닉스 300만원…증권가 눈높이 더 높아졌다 v.daum.net."
+      "국내야구, 4월 5주 차 스포츠 관심도 1위 유지 한스경제."
     ],
     "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
+      "#KBO"
     ]
   },
   {
@@ -110,17 +109,20 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef4b12c1",
-    "category": "경제",
-    "source": "이데일리",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzdSZFFxUnJRaDU0aF9yN1oyMUVlWDlqQ0ROLXR3UFktYmp5Zm0xVHBoaHZOcXNzeFMxeHpyRG9mLVF3ay1rMVVyTm9jY29XNkt5aTBsUTF0R1ZHTS1uQlpQRjZiSDBVbkM4dW92WTZaejNoLU9CbWdvZURZd3JVcw?oc=5",
-    "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
+    "id": "nc4b0f988",
+    "category": "IT",
+    "source": "쿠키뉴스",
+    "time": "20일 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
+    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
     ],
     "chips": [
-      "#환율"
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -166,20 +168,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "41일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -285,6 +273,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0f008420",
+    "category": "경제",
+    "source": "한겨레",
+    "time": "118일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGNFNVYUVMN0g3RGcwT1BXUzhvZ1B6VjQ2Y1poNHpZUHEtR3Z2RmVlSEZZN01waGNETEtxTXh2NEpjMTZ5emFtNGsxTEdDSnQ2cy1QTS1DVDh3cXBwRFFwZjFfQ1J3UThUcXE1R2tDN203Zw?oc=5",
+    "title": "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도",
+    "summary": [
+      "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도 한겨레."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
     "id": "n0fd44a05",
     "category": "IT",
     "source": "조선일보",
@@ -315,10 +318,294 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6e87a82c",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/stock/2026/05/13/2026051217500988457",
+    "title": "중동 전쟁에 '흔들'...\"건설주? 이 '두 곳' 보세요\" 전문가 콕 집었다[부꾸미]",
+    "summary": [
+      "박세라 신영증권 연구원② 중동 전쟁 리스크가 재부각되면서 국내 증시에서 건설주가 하락하고 있다.",
+      "중동 재건 모멘텀이 약화된 탓이다.",
+      "앞으로 건설주 사이에서 주가 편차가 나타날 가능성이 있는 만큼 옥석 가리기에 나서야 한다는 조언이 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d73f5d8",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/economy/2026/05/13/2026051303112176711",
+    "title": "정부 조정에도 삼성 노사 '최종 결렬'... 연 40조 원 시스템 리스크 현실로",
+    "summary": [
+      "대한민국 반도체 산업의 명운을 가를 삼성전자 노사 갈등이 정부의 적극적인 조정 노력에도 끝내 파국을 맞았다.",
+      "가동 중단 시 일일 1조원에 달하는 경제적 손실이 예고된 상황에서 정부의 조정안을 최종 거부함에 따라 글로벌 공급망 대란과 K-반도체 경쟁력 약화라는 최악의 시나리오가 현실화할 것이란 우려가 나온다.",
+      "13일 고용노동부 중앙노동위원회에서 열린 삼성전사 노사의 사후조정은 '결렬'로 끝났다."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n4efb8013",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/13/GA3TIOBUGAYGIMZUMMZGKYZWGI/",
+    "title": "첫 완봉 후유증인가, 5실점 패→4실점 패→5실점 패...언터처블 선동열 방어율 어디로 갔나 [오!쎈 광주]",
+    "summary": [
+      "[OSEN=광주, 이선호 기자] 완봉 후유증인가.",
+      "KIA 타이거즈 외국인 투수 아담 올러(31)가 완봉승을 따낸 이후 급격히 흔들리고 있다.",
+      "12일 광주-기아 챔피언스필드에서 열린 2026 프로야구 두산 베어스와의 경기에 선발등판했으나 6이닝 6피안타(1홈런) 1볼넷 5실점을 기록했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8eb9a1fb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260513003000075",
+    "title": "美소도시 시장, 中불법요원 활동 혐의에 사임…친중 콘텐츠 유포",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 캘리포니아주(州)의 한 소도시 시장이 중국 정부의 불법 요원으로 일한 사실이 발각돼 사임했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n177e0263",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/national/labor/2026/05/13/AXBAOIBEERC2BH6A77X4VF74SM/",
+    "title": "삼성전자 노조, 중노위 조정안 거부…사후조정 최종 결렬",
+    "summary": [
+      "삼성전자 노조, 중노위 조정안 거부…사후조정 최종 결렬."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "ne4e2f0bf",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/economy/2026/05/13/2026051222150253286",
+    "title": "정부 중재에도 삼성전자 임금협상 결렬…긴급조정권 발동하나",
+    "summary": [
+      "정부 중재에도 불구하고 삼성전자 노사 간 임금협상이 결렬되면서 긴급조정권 발동 가능성이 거론된다.",
+      "노동조합의 쟁의가 국민경제를 심각하게 해칠 우려가 있는 경우 정부가 강제적으로 파업을 중단시키고 조정하는 절차다.",
+      "13일 고용노동부에 따르면 '노동조합 및 노동관계조정법'(노동조합법) 76조는 정부의 긴급조정 권한을 규정했다."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n004d7083",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260513002900071",
+    "title": "美국방, 韓사드 일부반출 계획됐던 것이냐 묻자 \"그렇다\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 피트 헤그세스 미국 국방부(전쟁부) 장관은 미국이 이란과의 전쟁을 시작한 뒤 한국에 배치된 고고도미사일방어..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndeae8a0f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260513_0003626861",
+    "title": "삼성전자 노사, 사후조정 최종 결렬…노조 \"조정안 납득 어려워\"",
+    "summary": [
+      "[서울·세종=뉴시스]이지용 이수정 기자 = 삼성전자 노사가 성과급 산정 방식을 놓고 지난 11일부터 이틀 넘게 사후조정 절차를 진행했지만 결국 합의를 하지 못했다.",
+      "최승호 초기업노조 위원장은 13일 오전 2시53분 정부세종청사 중앙노동위원회(중노위)에서 열린 2차 사후조정이 끝난 뒤 취재진을 만나 \"(중노위) 조정안은 요구했던 것보다 오히려 퇴보됐으며, 노조는 최종 결렬을 선언했다\"고 말했다.",
+      "최 위원장은 \"성과급 상한 폐지 투명화·제도화 요구."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n8b7d6e26",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/industry/2026/05/13/2026051303095881673",
+    "title": "삼성전자 노조, 사후조정 결렬 선언…\"조정안 오히려 퇴보\"",
+    "summary": [
+      "초기업노조 삼성전자지부(초기업노조)이 정부의 중재로 지난 11일부터 진행된 사후조정에서 최종 결렬을 13일 선언했다.",
+      "노조는 \"노사 간 이견이 좁혀지지 않아 조정안을 요청했다\"며 \"조정안은 12시간 가까이 기다려서 나온 결과\"라고 설명했다.",
+      "특히 노조는 \"조정안은 오히려 퇴보한 안건\"이라고 강조했다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n536ee251",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260513_0003626873",
+    "title": "[속보]트럼프 \"시진핑과 이란 문제 길게 논의할것…도움은 필요없어\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne448878c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512049600003",
+    "title": "[일지] 삼성전자 2026년 임금협상 사후조정 결렬",
+    "summary": [
+      "(서울=연합뉴스) 김민지 기자 = 삼성전자 노사가 지난해 말부터 진행해온 '2026년 임금협상'이 사후조정절차에도 불구하고 결렬됐다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nf47ed858",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260513003100079",
+    "title": "이란, 트럼프 방문 앞둔 중국에 영구종전 등 입장 대변 요청",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 도널드 트럼프 미국 대통령의 방중을 앞두고 이란이 전쟁 종식 등 자국의 입장을 대변해 줄 것을 중국에 전달..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n27e684c5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260513/133910428/1",
+    "title": "美상원, 케빈 워시 연준 이사 인준…곧 의장 인준도 진행할 듯",
+    "summary": [
+      "미국 상원이 케빈 워시 연방준비제도(Fed) 의장 지명자를 연준 이사로 인준해 제롬 파월 의장의 후임으로 취임할 수 있는 길을 열었다.AFP통신에 따르면 상원은 12일(현지시간) 51대45로 워시의 14년 임기 이사직 인준안을 가결했다.이는 전날 상원이 연준 이사직 인준을 위한 ‘절차 표결’을 49대44로 가결한 데 따른 것이다.상원은 오는 15일 임기가 끝나는 파월의 뒤를 이어 워시를 연준 의장으로 인준하는 안건을 별도로 표결에 부칠 예정이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne577bbf4",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "25분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/05/13/CC67RJGWIFCJBHVSZWXIFKALC4/",
+    "title": "삼성전자 노조, 사후조정서 최종 결렬 선언",
+    "summary": [
+      "삼성전자 노조, 사후조정서 최종 결렬 선언."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n72c300c0",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/13/QHGWXZLPQFBJFHFDEZZ2XQF4YE/",
+    "title": "성큼 다가온 ‘워시 시대’…인플레 우려 속 금리 향방은",
+    "summary": [
+      "성큼 다가온 ‘워시 시대’…인플레 우려 속 금리 향방은."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n067c38d1",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "31분 전",
+    "url": "https://www.asiae.co.kr/article/2026051302585141584",
+    "title": "美 항소법원, '글로벌 관세 무효' 1심 효력 일시정지",
+    "summary": [
+      "미국 법원이 도널드 트럼프 행정부의 글로벌 관세에 제동을 건 하급심 판단의 효력을 일시 중단하면서 관세 정책을 둘러싼 법정 공방이 새 국면에 접어들었다.",
+      "12일(현지시간) 미 연방 순회항소법원은 트럼프 행정부가 무역법 122조를 근거로 부과한 10% 글로벌 관세가 위법하다고 본 하급심 판결의 효력을 잠정 정지했다.",
+      "이에 따라 해당 관세는 항소심 판단이 나올 때까지 일단 유지될 전망이다."
+    ],
+    "chips": [
+      "#정책",
+      "#수출"
+    ]
+  },
+  {
+    "id": "nf3bf9aaf",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "34분 전",
+    "url": "https://www.asiae.co.kr/article/2026051302555037406",
+    "title": "민음사 북클럽 회원 전화번호 유출…\"끝까지 책임지고 수습\"",
+    "summary": [
+      "출판사 민음사가 문자 발송 과정에서 민음북클럽 회원 142명의 휴대전화 번호를 다른 회원들에게 잘못 전송한 데 대해 사과하고 보상 절차에 나섰다.",
+      "12일 민음사에 따르면 이번 사고는 전날 오후 5시께 민음북클럽 회원을 대상으로 행사 관련 홈페이지 포인트 서비스 중단 안내 문자를 보내는 과정에서 발생했다.",
+      "작업 실수로 회원 142명의 휴대전화 번호가 문자 내용에 포함됐고, 해당 문자는 멤버십 회원 약 4000명에게 발송됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0187840e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "35분 전",
+    "url": "https://www.newsis.com/view/NISX20260513_0003626869",
+    "title": "美상원, 워시 연준 의장 후보자 인준…이사회 의결 남아",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장 후보자에 대한 인준안이 12일(현지 시간) 미 상원을 통과했다.",
+      "CNBC에 따르면 미 상원은 이날 워시 후보자에 대한 인준안 전체표결을 진행해 찬성 51표, 반대 45표로 가결했다.",
+      "연준 이사회 의결까지 거치면 임명을 위한 절차가 모두 완료된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd30a035d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "35분 전",
+    "url": "https://www.newsis.com/view/NISX20260512_0003626750",
+    "title": "[속보]삼성전자 노사, 이틀 걸친 사후조정 최종 결렬",
+    "summary": [],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "n2ffd34e1",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "47분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151772",
     "title": "[카드뉴스] 네이버 '검색 AI' vs. 카카오 '카톡 AI'...AI 수익화 두고 벌어지는 플랫폼 전쟁 주목하라",
     "summary": [
@@ -333,306 +620,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb680c57e",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151776",
-    "title": "위메이드맥스, 1Q 매출 327억원...신작으로 반등 노린다",
-    "summary": [
-      "위메이드맥스가 신작 '미드나잇워커스' 출시 효과에도 주요 지식재산권(IP)의 매출 안정화로 인해 아쉬운 성적표를 받아들었다.",
-      "위메이드맥스는 나이트 크로우 IP 기반 후속 다중접속역할수행게임(MMORPG), 수집형 RPG '노아' 등 신작으로 실적 반등을 노린다.위메이드맥스는 올해 1분기 연결기준 매출 327억원을 기록했다고 12일 공시했다.",
-      "전분기와 비교하면 7% 상승했지만, 전년동기대비 30.6% 감소한 수치다.사업부문별로 살펴보면 라이선스."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41f1a193",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151775",
-    "title": "3개 분기 연속 흑자 달성한 위메이드...신작 20종·中 공략으로 성장 드라이브",
-    "summary": [
-      "위메이드가 박관호 창업주 복귀 이후 안정적인 내실 경영을 이어가며 1분기에 흑자 기조를 이어갔다.",
-      "게임과 라이선스, 블록체인 사업이 고르게 성과를 달성하며 실적이 안정화 된 모습이다.",
-      "MMORPG와 캐주얼, 서브컬처 등 다양한 장르 신작 총 20여 종을 준비하며 중장기 성장 전략에도 속도를 내고있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n86cf19a6",
-    "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151773",
-    "title": "KT \"연간 영업익 1.5조원 목표...정부 추진 요금제, 매출 악영향 '미미'\"(종합)",
-    "summary": [
-      "KT가 2026년 1분기 성적을 공개했다.",
-      "KT는 박윤영 대표와 김영섭 전 대표 교체를 두고 벌어진 혼란으로 지난 1분기 정상 운영을 하지 못했다.",
-      "경쟁사에 비해 조직개편과 인사가 늦었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb95339ff",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/13/2026051300024483503",
-    "title": "\"세계서 가장 예쁜 스포츠 스타\" 위엄... 英 육상 여신, 아찔 크롭톱 자태에 전 세계 '초토화'",
-    "summary": [
-      "영국 육상 간판 스타 킬리 호지킨슨(24)이 화려한 일상을 공개하자 팬들이 열광했다.",
-      "영국 '더선'은 12일(한국시간) \"호지킨슨이 인스타그램에 올린 사진 한 장에 팬들이 '세계에서 가장 예쁜 스포츠 스타'라며 열광했다\"고 보도했다.",
-      "공개된 사진에서 호지킨슨은 크롭톱 차림으로 소파에 앉아 탄탄한 복근과 여유로운 매력을 뽐냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0fe29da",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260512_0003626549",
-    "title": "\"당뇨병 원샷 해결\"…'이 약' 세계 최초 임상 개시",
-    "summary": [
-      "[서울=뉴시스]황재희 기자 = 당뇨·비만 치료제에 사용되는 GLP-1(글루카곤 유사 펩타이드-1)을 체내에서 생성하도록 하는 유전자치료제 임상시험이 세계 최초로 진행된다.",
-      "13일 한국바이오협회 바이오경제연구센터 및 미국 제약전문매체 바이오스페이스에 따르면, 미국 바이오 기업 프랙틸 헬스(Fractyl Health)는 세계 최초 GLP-1 유전자치료제 임상을 네덜란드에서 개시한다.",
-      "프랙틸 헬스는 비만 및 제2형 당뇨병(T2D)에 대한 치료법 개발."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4845edcc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512166751085",
-    "title": "벼랑 끝 몰린 스타머 영국 총리…노동당 분열, 차관 잇단 사임(종합)",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 키어 스타머 영국 총리가 12일(현지시간) 자진 사퇴는 안 한다고 선언했으나 일부 차관들이 잇달아 퇴진을 요..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3bd2c11",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512185651009",
-    "title": "쿠웨이트 \"이란 혁명수비대 침투조와 교전…4명 체포\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 쿠웨이트군이 해안으로 침투한 이란 이슬람혁명수비대원 4명을 체포했다고 쿠웨이트 국영 KUNA통신이 12일(현지..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n60d6b1b5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/international/us/2026/05/13/4MYYIR5LDBFJFFRYQ4JNW5T564/",
-    "title": "美, 극비 ‘핵잠 위치’ 공개하며 이란에 경고",
-    "summary": [
-      "美, 극비 ‘핵잠 위치’ 공개하며 이란에 경고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ebb5c66",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/05/13/S6Y2AKHPAVH6RO2VY3LR5MLV6I/",
-    "title": "반도체 이익 ‘국민 배당’ 띄운 김용범",
-    "summary": [
-      "반도체 이익 ‘국민 배당’ 띄운 김용범."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "na0a81925",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/05/13/G6PAVAFEFRGCNIWZWG3YTWZNNU/",
-    "title": "대검, 박상용 검사 ‘정직 2개월’ 징계 청구",
-    "summary": [
-      "대검, 박상용 검사 ‘정직 2개월’ 징계 청구."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n49ac1e24",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/economy/real_estate/2026/05/13/G26CTXJU6JDLFIOD3ULIWIVDG4/",
-    "title": "비거주 1주택자의 ‘세 낀 집’… 정부는 ‘일단 팔아라’ 압박",
-    "summary": [
-      "비거주 1주택자의 ‘세 낀 집’… 정부는 ‘일단 팔아라’ 압박."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37765283",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260513_0003626860",
-    "title": "크렘린궁 \"우크라이나 결정 내리면 전쟁 끝날 수 있어\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 러시아 크렘린궁이 우크라이나가 필요한 결정을 내릴 경우 전쟁은 언제든 종료될 수 있다고 12일(현지 시간) 밝혔다.",
-      "다만 러시아는 미국이 제안한 3일간의 휴전 종료 이후에도 군사 작전을 계속 이어가겠다는 입장을 재확인했다.",
-      "AP에 따르면 크렘린궁 드미트리 페스코프 대변인은 브리핑에서 \"키이우는 내려야 할 결정들을 잘 알고 있다\"며 \"우크라이나가 책임 있는 결정을 내리는 즉시 분쟁은 끝날 수 있다\"고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85f79550",
-    "category": "사회",
+    "id": "na3b354fe",
+    "category": "경제",
     "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260513/133910286/1",
-    "title": "‘하이닉스 2만원대 매수’ 전원주, 스태프들에게 용돈 쾌척",
+    "time": "56분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260513/133910385/1",
+    "title": "美항소법원, ‘트럼프 10% 글로벌 관세 위법’ 하급심 판결 효력정지",
     "summary": [
-      "연예계 대표 ‘재테크 고수’이자 ‘짠순이’로 통하는 배우 전원주(87)가 투병 후 달라진 인생관을 전했다.12일 유튜브 채널 ‘전원주인공’에 업로드된 ‘전원주 한강뷰 아들 집 최초 공개’라는 제목의 영상에서 전원주가 최근 빙판길 낙상으로 인한 고관절 골절 수술을 이겨내고 두 달 만에 복귀하는 모습이 그려졌다.",
-      "눈길을 끈 것은 현장 스태프들에게 1인당 10만 원씩 용돈을 건네는 ‘통 큰’ 면모였다.전원주는 “가만히 누워있을 때 이러다 가버리면 나."
+      "미국 항소법원이 전 세계 교역국에 부과한 도널드 트럼프 미국 대통령의 10% ‘글로벌 관세’가 위법이라는 국제무역법원 판결의 효력을 정지시켰다.로이터통신에 따르면 미 항소법원은 12일(현지시간) 국제무역법원 판결 효력을 일시적으로 중단해 해당 판결로 관세 유예 조치를 받았던 3개 수입업체에 대한 관세가 계속 적용되도록 했다.앞서 국제무역법원은 지난 7일 트럼프 대통령의 글로벌 관세가 1974년 무역법에 근거할 때 정당화될 수 없다고 판결했다.이."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a032934",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260513/133910281/1",
-    "title": "“친부모가 생전 평생 일군 상가인데”…계모 ‘1.5배’ 상속에 자녀들 ‘분통’",
-    "summary": [
-      "친어머니와 아버지가 평생 일궈온 상가 건물을 두고, 사후 재혼한 배우자와 상속 갈등을 빚고 있는 자녀들의 사연에 대해 법조계 조언이 나왔다.12일 YTN 라디오 ‘조인섭 변호사의 상담소’에는 돌아가신 아버지의 상속 재산을 두고 새어머니와 분쟁 중인 자녀 A씨의 사례가 소개됐다.",
-      "사연자 A씨의 아버지는 평생 부동산 임대업에 종사하며 친어머니와 함께 수십 년간 상가 건물 한 채를 일궈왔다.",
-      "8년 전 어머니가 돌아가신 뒤 재혼한 아버지는 최근 지병으."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n1886b473",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260513/133910279/1",
-    "title": "푸틴 “올해 말 가장 강력한 신형 핵미사일 ‘사르마트’ 배치”",
-    "summary": [
-      "블라디미르 푸틴 러시아 대통령이 올해 말에 핵탄두 탑재가 가능한 대륙간 탄도미사일인 ‘사르마트’를 배치할 것이라고 밝혔다.로이터통신에 따르면 푸틴 대통령은 12일(현지시간) TV 연설을 통해 미사일에 탑재되는 탄두의 위력이 서방의 동급 탄두보다 4배 이상 강력하며 사거리는 3만 5000㎞를 초과한다고 말했다.그는 “이 미사일은 현재 및 미래의 모든 미사일 방어 체계를 뚫을 수 있는 능력을 갖추고 있다”고 강조했다.이날 러시아 국영 방송은 세르게."
-    ],
-    "chips": [
+      "#수출",
       "#정치"
-    ]
-  },
-  {
-    "id": "n64fd5fb2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260513/133910276/1",
-    "title": "서경석 “중2 딸과 대화, 임진왜란 수준”",
-    "summary": [
-      "방송인 서경석이 유쾌한 입담을 뽐낸다.",
-      "13일 오후 10시30분 방송되는 MBC TV 예능물 ‘라디오스타’는 ‘스승의 날 열혈사제들’ 특집으로 꾸며진다.",
-      "서경석을 비롯해 최태성, 김성은, 황민호가 출연한다.서경석은 공인중개사시험 합격 이후 한국사능력검정시험에 도전하게 된 계기를 털어놓는다.그는 한국사 강사 최태성의 강의를 반복해 들으며 공부했다고 밝힌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6948c266",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512190800071",
-    "title": "美볼티모어 키브리지 붕괴사고 낸 선박 운용사 형사기소",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 2024년 미국 메릴랜드주 볼티모어의 대형 교량 키브리지 붕괴 사고를 일으킨 컨테이너선 운용사가 미국 연방..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncefbcb86",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "44분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/13/2026051213484172805",
-    "title": "\"가장 큰 충격, 가짜 뉴스인 줄\" GG 포수 트레이드에 日 경악, 선수도 \"억울하다\"",
-    "summary": [
-      "일본프로야구(NPB)가 충격적인 트레이드로 발칵 뒤집혔다.",
-      "풀카운트 등 일본 매체에 따르면 DeNA 베이스타즈는 12일 포수 야마모토 유다이(28)를 소프트뱅크 호크스로 보내고 투수 오가타 슈토(27)와 내야수 이노우에 토모야(23)를 받는 1:2 트레이드를 단행했다.",
-      "이번 트레이드가 이례적이라 평가 받는 이유는 야마모토가 DeNA의 주전 포수이기 때문이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nbe6ae5e1",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "48분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/13/2026051300192327672",
-    "title": "미, 이란전쟁에 43조원 지출…2주만에 6조원 늘어",
-    "summary": [
-      "[미국-이란 전쟁] 미국 도널드 트럼프 행정부가 이란전쟁에서 지출한 비용이 290억달러(약 43조원)에 달한다고 12일(현지시간) 밝혔다.",
-      "제이 허스트 미 국방부(전쟁부) 회계감사관(차관)은 이날 미 연방의회 하원 세출위원회 국방소위의 예산 청문회에서 이같이 밝혔다.",
-      "지난달 29일 하원 군사위 청문회에서 전쟁 비용 추산치를 250억달러로 밝힌 지 2주만에 40억달러(약 6조원)가 늘어난 셈이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n350964b6",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "49분 전",
-    "url": "https://www.newsis.com/view/NISX20260513_0003626859",
-    "title": "美국방부 \"이란 전쟁에 43조원 사용\"…2주새 6조원 증가",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 국방부가 두달반 가량 이어지고 있는 이란 전쟁에 투입된 비용이 약 43조원으로 추산된다고 12일(현지 시간) 밝혔다.",
-      "줄스 허스트 미 국방부 재무담당 차관대행은 이날 미 하원 세출위원회 청문회에서 관련 질의에 \"합동참모본부 참모진과 회계감사팀은 추정지를 지속 검토하고 있으며 현재로서는 290억달러(약 43조2216억원)에 더 가깝다고 보고있다\"고 답했다.",
-      "허스트 차관대행은 지난달 29일 하원 군사위 청문."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -642,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3240건",
-    "trend": "+395%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "삼성전자",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
