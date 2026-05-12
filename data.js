@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-12 11:12:12
+// 마지막 업데이트: 2026-05-12 13:53:02
 window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준지 회복 [부동산360]",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n932035ab",
     "category": "IT",
     "source": "이로운넷",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkbUdETFZzbGZJVTJ2bTBYZ2ZhUHlLQWFnX1lCUmZHRnpacGNNSy1jR1FHeVJndVpEZ0hFbjFxQVlUT1E1VjljaVdOcHgyRnVhUEZCcldJRXRySVh6dVNaWEY2cmM1QQ?oc=5",
     "title": "북미 전력망 교체기 도래…엔비디아, 전력 거물 '이튼'과 손잡고 AI 팩토리 가속화",
     "summary": [
@@ -64,14 +64,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6838382f",
+    "id": "nfe6aa1f4",
     "category": "IT",
     "source": "한국경제",
     "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WSG1sTHVhbDV3WVhWVU9RR0FVVExackRkMWhvTFBUY05QTkpZdkt6ZWZITE1zYTNsd0gzWjJKV3N4SkdJWjJuVXVtYjVQU1lzaV9FVk9kR3FaZ9IBVEFVX3lxTE9LdTJ2Rjg1YXNrVV91SjZWOC1NY2s4SmpDV2ptWHM1ZEp1bVhLODZuUVR5QU9PQ0ltM1pXeWtEb01idWxudV9DT2lOSUFqSE5fMVpDSg?oc=5",
-    "title": "삼성, 메모리 증설 총력…슈퍼사이클 이어간다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90OVRPWVJwRy1IbDJYWHJyV2dNNTJMM2swTzJRQ1ZqdUhIUm1sSk9sVlBlZkNobXA3V01RUzc2Y2hEbDMwNWNQOXlXZ2hNaTFsLTdsYzRMTkVfQdIBVEFVX3lxTFAweENTQXk3SFBxbzRTZHo1NF9NUDJxVG1zTTlvVzExSW5IYWRrMlRHZ0xBLVdWNG5aaFdodzZWY1RuWE1NQ0RsNWlBLUQ2QWxyMFpRLQ?oc=5",
+    "title": "적자 15조였는데 \"없어서 못 팔아\"…삼성 '초강수'",
     "summary": [
-      "삼성, 메모리 증설 총력…슈퍼사이클 이어간다 한국경제."
+      "적자 15조였는데 \"없어서 못 팔아\"…삼성 '초강수' 한국경제."
     ],
     "chips": [
       "#뉴스"
@@ -92,36 +92,6 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n2970703c",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
-    "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
-    "summary": [
-      "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게? 글로벌이코노믹."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nef4b12c1",
-    "category": "경제",
-    "source": "이데일리",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzdSZFFxUnJRaDU0aF9yN1oyMUVlWDlqQ0ROLXR3UFktYmp5Zm0xVHBoaHZOcXNzeFMxeHpyRG9mLVF3ay1rMVVyTm9jY29XNkt5aTBsUTF0R1ZHTS1uQlpQRjZiSDBVbkM4dW92WTZaejNoLU9CbWdvZURZd3JVcw?oc=5",
-    "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
-    "summary": [
-      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -215,6 +185,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n759c2467",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "88일 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
+    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
+    "summary": [
+      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nb04cef68",
     "category": "사회",
     "source": "경기일보",
@@ -270,6 +255,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f008420",
+    "category": "경제",
+    "source": "한겨레",
+    "time": "118일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGNFNVYUVMN0g3RGcwT1BXUzhvZ1B6VjQ2Y1poNHpZUHEtR3Z2RmVlSEZZN01waGNETEtxTXh2NEpjMTZ5emFtNGsxTEdDSnQ2cy1QTS1DVDh3cXBwRFFwZjFfQ1J3UThUcXE1R2tDN203Zw?oc=5",
+    "title": "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도",
+    "summary": [
+      "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도 한겨레."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -383,256 +383,257 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb32d5bab",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260512_0003626781",
-    "title": "[속보]대검 감찰위, 법무부에 박상용 검사 '정직' 징계 청구",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd4304a9d",
+    "id": "n56439284",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://www.asiae.co.kr/article/2026051220052929656",
-    "title": "불기 2570년 봉축 연등탑 점등식",
+    "source": "연합뉴스",
+    "time": "2분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512186452072",
+    "title": "고유가에 美 4월 소비자물가 전년대비 3.8%↑…3년만에 최대(종합)",
     "summary": [
-      "전북 무주군은 불기 2570년 부처님 오신 날을 기념하는 봉축 연등탑 점등식을 거행했다.",
-      "12일 군청 앞 분수 광장에서 열린 행사는 무주군 발전과 군민 평안을 기원하기 위해 마련됐으며, 노창환 무주군수 권한대행과 원통사 진일 스님(봉축위원장)을 비롯한 관내 주요 사찰 주지 스님, 신도, 주민 등 300여 명이 참석했다.행사는 ▲연꽃 무용(식전 공연) ▲삼귀의례 ▲반야심경 봉독 ▲점등식 ▲탑돌이 순으로 진행됐다."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국의 지난달 소비자물가지수(CPI) 연간 상승률이 3년 만에 최고치를 기록했다.",
+      "이란 전쟁 여파로 에너지 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n33d38d31",
+    "id": "n3f1b212a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/12/2026051222332741507",
+    "title": "월 1000만원 버는 남편…5남매 키우는 아내에 \"네가 벌어 써\"",
+    "summary": [
+      "한 달에 1000만원을 버는 남편이 5남매를 키우는 아내의 커피값 지출에도 눈치를 준다는 사연이 전해졌다.",
+      "12일 방송된 tvN STORY '이호선 상담소'에는 8개월 쌍둥이를 포함해 5남매를 육아 중인 아내가 고민을 털어놓는 모습이 담겼다.",
+      "아내는 월수입 1000만원이 넘는 고소득자인 남편이 경제권을 쥐고 경제적 상황을 전혀 공유하지 않는다고 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n417e9223",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512180600007",
-    "title": "방한하는 북한 여자축구 내고향, 경유 훈련지 중국 베이징 도착",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512189700007",
+    "title": "K리그 득점 선두 이호재의 당당한 자신감 \"월드컵 명단도 기대\"",
     "summary": [
-      "(서울=연합뉴스) 안홍석 기자 = 수원에서 수원FC 위민과 맞붙는 북한 내고향여자축구단이 경유 훈련지인 중국 베이징에 도착했다."
+      "(인천=연합뉴스) 오명언 기자 = K리그1 득점 공동 선두로 올라선 이호재(포항 스틸러스)가 2026 월드컵 최종 명단 발표를 앞두고 당찬 자신..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n90825515",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://www.asiae.co.kr/article/2026051220071033022",
-    "title": "정청래 \"호남은 민주주의 뿌리…특별한 보상 해야\"",
-    "summary": [
-      "정청래 더불어민주당 대표가 12일 전남 강진에서 열린 더불어민주당 전남·광주·전북 공천자대회에서 \"호남은 대한민국 민주주의를 위해 특별한 희생을 해왔다\"며 \"국가가 이제는 특별한 보상으로 답해야 할 때다\"고 강조했다.",
-      "인사말을 위해 무대에 선 정 대표는 자신을 '강진 사위, 호남 사위 당대표'라고 소개한 뒤 \"1980년 5·18 광주가 없었다면 1987년 6월 항쟁도 없었고 지금의 헌법도 없었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne89a9370",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512153352008",
-    "title": "'유가상승'에 국고채 금리 급등…3년·10년물 30개월만 최고(종합2보)",
-    "summary": [
-      "(서울=연합뉴스) 김태종 기자 = 12일 국고채 금리가 유가 상승 등의 영향으로 일제히 큰 폭으로 상승 마감했다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n1be8cd9d",
+    "id": "n3c3e3ad2",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/12/2026051220030967636",
-    "title": "[한번에쓱] 이 총알같은 꼬마를 누가 막아! '5회초 적시타가 3루타 그리고 희생플라이때 득점까지' 정준재",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/12/2026051222264092565",
+    "title": "'12년 만에 8연승' 일궈낸 박진만, '만루포' 전병우 극찬! \"이제 팀에 없어선 안 될 선수→앞으로도 큰 자신감되길\"",
     "summary": [
-      "타격감이 물이 오른 정준재가 12일 위즈파크에서 2026KBO리그 KT위즈와 SSG랜더스 경기 3회초 적시타에 이어 5회초 3루타를 터트리며 타점을 올렸다.",
-      "이어 최정의 얕은 플라이때 과감하게 홈을 파고들어 득점에 성공한 정준재.",
-      "타격감이 물이 오른 정준재가 12일 위즈파크에서 2026KBO리그 KT위즈와 SSG랜더스 경기 3회초 적시타에 이어 5회초 3루타를 터트리며 타점을 올렸다."
+      "삼성 라이온즈가 2014시즌 이후 무려 12년 만의 8연승이라는 대기록을 작성하며 리그 단독 2위로 우뚝 섰다.",
+      "승부처에서 터진 전병우의 짜릿한 만루 홈런이 잠실 밤하늘을 수놓았다.",
+      "박진만(50) 감독이 이끄는 삼성은 12일 서울 송파구에 위치한 잠실구장에서 열린 '2026 신한 SOL KBO리그' LG 트윈스와의 원정 경기에서 전병우의 그랜드슬램을 포함해 타선이 막판 폭발하며 9-1 대승을 거뒀다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n9f79935d",
+    "id": "ndf9820ac",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/12/2026051219593347587",
-    "title": "포항서 여중생 '집단폭행' 신고…20명이 둘러싸고 욕설에 침까지",
+    "source": "한국경제",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026051220981",
+    "title": "전쟁發 고유가 충격파 계속…美 4월 물가 3년 만에 최고",
     "summary": [
-      "경북 포항시에서 10대 여학생이 집단 폭행을 당했다는 신고가 접수돼 경찰이 수사에 나섰다.",
-      "12일 포항남부경찰서에 따르면 여중생 2명이 지난 7일 오후 5시쯤 포항 남구 한 건물 옥상에서 또래 남녀 학생 약 20명에게 집단 폭행을 당했다고 112 신고했다.",
-      "이들은 평소 알고 지내던 동급생을 만나러 약속 장소에 갔다가 또래 무리에게 1시간40분가량 폭행을 당한 것으로 전해졌다."
+      "전쟁發 고유가 충격파 계속…美 4월 물가 3년 만에 최고."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbffc1101",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/stock/2026/05/12/2026051218127052112",
-    "title": "[급등수사본부] 연 3만 대 규모 로봇 생산공장 건설 계획 '현대모비스' vs 국내 주파수 재할당 이슈 따른 수혜 '이노인스트루먼트'",
-    "summary": [
-      "▶ 진행 - 정은서 앵커 ▶ 출연 - 임광빈 MTNW 어드바이저 권해영 MTNW 어드바이저 ▶▶▶ 급등주 CSI ▶ 임광빈 추천주 - 현대모비스(012330) - 연 3만 대 규모 로봇 생산공장 건설 계획 - 로봇의 근육(액추에이터) 내재화 선봉장 - 2028년 액추에이터 완전 국산화 양산 목표 - 로봇 몸통· 관절 핵심 액추에이터 30종 개발 중 - 목표가 700,000원 손절가 450,000원 ▶▶▶ 급등주 프로파일링 ▶ 권해영 추천주 -."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2bc3c491",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/05/12/GZRWCY3FGVTDMOBVGRTGGYJTGA/",
-    "title": "IMM PE, 국내 1위 다이아몬드 공구 기업 ‘이화다이아몬드공업’ 인수",
-    "summary": [
-      "IMM프라이빗에쿼티(IMM PE)가 다이아몬드 공구 기업 이화다이아몬드공업을 인수한다.",
-      "12일 투자은행(IB) 업계에 따르면 IMM PE는 이화다이아몬드공업 창업주 측과 주식매매계약(SPA)을 체결했다.",
-      "이화다이아몬드공업은 1975년 설립된 국내 1위 다이아몬드 공구 기업이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89a99c97",
+    "id": "n076de558",
     "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260512/133906527/1",
-    "title": "오월어머니집, 스탠퍼드 교직원들과 간담회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/MI4DSNRYMQZGMYTFGEZTIODFMU/",
+    "title": "‘바타♥’ 지예은, 열애 인정 후 달라진 분위기 “자중하고 있어”(동상이몽2)[순간포착]",
     "summary": [
-      "대니얼 스나이더 미국 스탠퍼드대 동아시아학과 교수 등 교직원 25명이 11일 광주 ‘오월어머니집’을 찾아 간담회를 가졌다.",
-      "오월어머니집은 1980년 5·18민주화운동 당시 가족을 잃은 어머니와 부인들이 모여 만든 단체다.12일 오월어머니집에 따르면 스나이더 교수는 “정치적 역경을 이겨낸 한국 시민의 용기가 어디서 유래했고 1980년 5·18민주화운동 이후 유가족의 삶은 어떠했는지 오래전부터 알고 싶었다”며 “한국 특파원으로 근무한 적이 있는 아."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 지예은이 연애 후 조금은 달라진 분위기를 풍겼다.12일 방송된 SBS ‘동상이몽2 - 너는 내 운명’(이하 동상이몽2)에서는 배성재, 김다영 부부의 신혼 일상이 그려졌다.특별 손님으로 지예은이 출연했다.",
+      "김구라는 지예은의 열애를 언급했다.",
+      "지예은은 최근 댄서 바타와의 연애를 인정해 화제를 모았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neda5cd61",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512188400109",
+    "title": "한타바이러스 사망자와 같은 비행기…이탈리아 남성 격리 중 증상",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 한타바이러스 사망자와 같은 항공기에 탔다가 격리 조치된 이탈리아 남성이 바이러스 감염 증상을 보여 병원으로 ..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd9ebab81",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260512189600009",
+    "title": "뉴욕증시, 4월 CPI·미-이란 갈등 반영하며 하락 출발",
+    "summary": [
+      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 미국 4월 소비자물가지수(CPI) 결과, 미국과 이란 간의 갈등 양상에..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ff2d6e2",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/2026051220797",
+    "title": "윤석열 부친 살고, 김만배 누나가 산 연희동 주택…경매 넘어갔다",
+    "summary": [
+      "윤석열 부친 살고, 김만배 누나가 산 연희동 주택…경매 넘어갔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c8ddd46",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/MY4DAZRVGRRWIMZRHBQTONJUGM/",
+    "title": "'모솔男' 맹꽁이, 과거 연애 고백 \"약속 까먹고 축구 갔다 헤어져\" ('돌싱N모솔') [순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 모솔남 맹꽁이가 과거 연애가 왜 끝났는지 털어놓았다.",
+      "12일 방송된 MBC에브리원·E채널 예능 프로그램 '돌싱N모솔' 5회에서는 맹꽁이와 카멜리아, 서울쥐와의 2대1 데이트 현장이 공개된 가운데 맹꽁이가 과거 연애를 고백해 눈길을 끌었다.",
+      "이날 카멜리아와 서울쥐는 \"2명의 선택을 받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n53afee1d",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260512_0003626839",
+    "title": "[속보]뉴욕증시, 미·이란 긴장 고조에 일제 하락 출발…나스닥 0.7%↓",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = ◎공감언론 뉴시스 lje@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0354b776",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260512_0003626670",
+    "title": "[KBO 내일의 선발투수]5월13일(수)",
+    "summary": [
+      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 5월13일(수)> ▲잠실(오후 6시30분) 삼성 (원태인) - (앤더스 톨허스트) LG ▲사직(오후 6시30분) NC (커티스 테일러) - (제레미 비슬리) 롯데 ▲수원(오후 6시30분) SSG (타케다 쇼타) - (케일럽 보쉴리) KT ▲광주(오후 6시30분) 두산 (최준호) - (양현종) KIA ▲고척(오후 6시30분) 한화 (윌켈 에르난데스) - (박정훈) 키움."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7543e916",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260512_0003626826",
+    "title": "'전병우 결승 만루포' 삼성, 12년 만에 8연승…한화, 키움 완파(종합)",
+    "summary": [
+      "[서울=뉴시스]김희준 문채현 기자 = 프로야구 삼성 라이온즈가 매서운 뒷심을 선보이며 12년 만에 8연승을 질주했다.",
+      "삼성은 12일 잠실구장에서 펼쳐진 2026 신한 쏠 KBO리그 LG 트윈스와의 경기에서 8회 터진 전병우의 결승 만루포에 힘입어 9-1로 완승을 거뒀다.",
+      "파죽의 8연승을 질주한 삼성은 시즌 22승(1무 14패)째를 수확, 3연패에 빠진 LG(22승 15패)를 3위로 끌어내리고 2위로 올라섰다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb8588bc6",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260512/133909904/1",
+    "title": "‘노시환 만루포’ 한화, 11-5로 키움 완파…류현진, 한미 통산 199승",
+    "summary": [
+      "프로야구 한화 이글스가 노시환의 만루포, 류현진의 역투에 힘입어 3연승에 성공했다.한화는 12일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 원정 경기에서 키움 히어로즈를 11-5로 완파했다.3연승에 성공한 한화는 시즌 17승(20패)째를 쌓고 공동 6위로 올라섰다.",
+      "반면 최하위 키움(13승 1무 24패)은 직전 경기 끝내기 승리 상승세를 잇지 못했다.한국 야구의 살아있는 전설 류현진은 5이닝 3피안타 3실점으로 시즌 4승(2패)째를."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5b637976",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260512_0003626674",
+    "title": "[KBO 오늘의 경기 결과]5월12일(화)",
+    "summary": [
+      "[서울=뉴시스] [KBO]오늘의 경기 결과<2026년 5월12일(화)> ▲삼성 9 - 1 LG(잠실) 승 배찬승 패 장현식 ▲NC 8 - 1 롯데(사직) 승 라일리 톰슨 패 엘빈 로드리게스 ▲SSG 5 - 1 KT(수원) 승 김건우 패 맷 사우어 ▲두산 5 - 1 KIA(광주) 승 최승용 패 아담 올러 ▲한화 11 - 5 키움(고척) 승 류현진 패 배동현."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne70e4171",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "33분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/12/2026051221555676358",
+    "title": "트럼프 \"쿠바가 도움 요청…대화할 것\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 12일(현지시간) 쿠바가 도움을 요청하고 있다며 대화하겠다고 밝혔다.",
+      "구체적인 내용은 언급하지 않았다.",
+      "트럼프 대통령은 트루스소셜을 통해 \"공화당에서도 쿠바 문제를 제대로 이야기한 사람이 없었다\"면서 \"쿠바는 실패한 국가이며 오직 한 방향, 즉 몰락으로만 가고 있다\"고 적었다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nffae4a61",
+    "id": "n6df3481e",
     "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260512/133906364/1",
-    "title": "개인정보 대규모 유출 반복땐 매출 최대 10% 과징금 부과",
+    "source": "머니투데이",
+    "time": "33분 전",
+    "url": "https://www.mt.co.kr/economy/2026/05/12/2026051211094990637",
+    "title": "\"세 아이 키우며 소상공인으로의 삶은?\"…출산·육아 사회안전망 모색",
     "summary": [
-      "대규모 개인정보 유출 사고를 반복하는 기업에 앞으로 매출액의 최대 10%에 달하는 ‘징벌적 과징금’이 부과된다.",
-      "개인정보보호위원회(개인정보위)는 12일 국무회의에서 이 같은 내용을 담은 ‘예방 중심 개인정보 관리체계 전환 계획’을 보고했다고 밝혔다.",
-      "과징금 법령은 9월 11일부터 본격 시행된다.개인정보위는 고의·중과실로 3년 내 반복 사고를 내거나 1000만 명 이상의 대규모 피해를 발생시킨 기업에 대해 전체 매출액의 최대 10%까지 과징금을."
+      "중소벤처기업부가 여성·청년 소상공인이 출산·육아와 생업을 병행하며 겪는 돌봄 공백과 경영 애로를 해소하기 위한 사회안전망 모색에 나선다.",
+      "한성숙 중기부 장관은 12일 오후서울 마포구의 한 카페에서 이런 소상공인들의 애로를 청취하기 위해 소상공인 사회안전망 시리즈 1차 간담회인 '여성·청년 소상공인 출산·육아 관련 간담회'를 개최했다.",
+      "이번 간담회는 그동안 모성보호 제도에서 상대적으로 소외돼 온 소상공인의 출산·육아로 인한 영업 공백과 소득 감소."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n91b2b9e1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/12/MZQWIZJSGNSDCOLEGMYWIMJRGY/",
-    "title": "\"지역과 함께 간다\" NC, 경남 전역 농촌 봉사 10번째…동행 가치 이어간다",
-    "summary": [
-      "[OSEN=홍지수 기자] NC 다이노스가 지역사회와의 상생을 위한 의미 있는 발걸음을 이어 갔다.NC는 12일 NH농협은행 경남본부, 경남FC와 함께 경남 창원시 의창구 동읍 용전리에서 ‘2026 아름다운 동행 농심천심 농촌일손돕기’ 활동을 진행했다.이날 행사에는 권동현 NH농협은행 경남본부장, 손성욱 NC 다이노스 경영본부장, 이흥실 경남FC 대표이사를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na8888572",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://www.asiae.co.kr/article/2026051220044421654",
-    "title": "“100㎞ 도전으로 희망 잇는다”…인제군, ‘옥스팜 트레일워커’ 개최",
-    "summary": [
-      "강원도 인제군은 국제구호개발기구 옥스팜 코리아(대표 지경영)과 함께 오는 16부터 17일까지 이틀간 인제군 일대에서 세계적인 기부 프로젝트 '2026 옥스팜 트레일워커'를 개최한다.",
-      "옥스팜 트레일워커는 4명이 한 팀을 이뤄 100㎞를 38시간 이내에 완주하는 도전형 기부 행사다.",
-      "순위와 기록을 놓고 경쟁하는 대회가 아닌, 순수하게 기부를 목적으로 팀원들과 극한의 경험을 공유하는 뜻깊은 행사인 만큼 참가자들 사이에서는 '인."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4497d011",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260512_0003626774",
-    "title": "민음사, 전화번호 노출 독자에 연 회원비 전액 환불…\"미숙함 인정\"",
-    "summary": [
-      "[서울=뉴시스]한이재 기자 = 민음사가 민음북클럽 142명의 전화번호가 유출된 데 대해 사과하고 피해 독자에 연간 회원 가입비 전액을 환불하는 보상책을 내놨다.",
-      "12일 민음사는 민음사 출판 그룹 누리집을 통해 '개인정보 유출 사고에 대한 사과 및 보상 대책 안내'를 공지했다.",
-      "전날인 11일 오후 5시께 민음북클럽 회원들을 대상으로 행사 관련 홈페이지 포인트 서비스 중단 안내 문자를 발송하는 과정에서 142명의 전화번호가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n656ea4ca",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260512_0003626777",
-    "title": "[올댓차이나] 대만 증시, 美 증시 강세에 이틀째 상승 마감…0.26%↑",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 대만 타이베이 증시는 12일 전날 뉴욕 증시 강세로 투자심리를 유지하면서 반도체 관련주를 중심으로 매수 선행, 2거래일째 상승 마감했다.",
-      "자취안(加權) 지수는 이날 전일 대비 108.26 포인트, 0.26% 올라간 4만1898.32로 폐장했다.",
-      "4만1880.66으로 개장한 지수는 4만1471.57~4만2253.42 사이를 등락했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nb0b495a7",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260512_0003626776",
-    "title": "[인사]국토교통부",
-    "summary": [
-      "[서울=뉴시스] 홍찬선 기자 = ◇실장급 인사 ▲주택토지실장 김영국 ◎공감언론 뉴시스 mania@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb5a58f9f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512162500004",
-    "title": "[날씨] 내일 전국 흐리다 맑아져…강원 산지 오후 빗방울",
-    "summary": [
-      "(서울=연합뉴스) 유한주 기자 = 수요일인 13일은 전국이 대체로 흐리다가 오전부터 차차 맑아지겠다."
-    ],
-    "chips": [
-      "#뉴스"
+      "#스타트업"
     ]
   }
 ];
@@ -642,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3240건",
-    "trend": "+395%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "KBO",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
