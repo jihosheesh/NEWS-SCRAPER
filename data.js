@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-13 14:05:14
+// 마지막 업데이트: 2026-05-13 17:08:10
 window.NEWS_DB = [
+  {
+    "id": "n75a5d89d",
+    "category": "IT",
+    "source": "디지털투데이",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81aDNRMnh1bS1iQjBTZWQ0V3oxT0Z6dFUzTkFFWFZ1Z3VOcTNPSE1icjg0T2tmZnoxOTFSRE41M0NKd2l5dDZwLWVKazZySWxaQmlOMHkyZzlmQS1Jek16SlpfZzIyLW5zNWVxZkk5RTJGVjg?oc=5",
+    "title": "엔비디아 AI 칩 풀리나…미중 정상회담에 쏠린 시장의 눈",
+    "summary": [
+      "엔비디아 AI 칩 풀리나…미중 정상회담에 쏠린 시장의 눈 디지털투데이."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n2e48b942",
     "category": "IT",
     "source": "레디앙",
-    "time": "10시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5odWVOTkx6WlQzUmxDdVJGQlN1TTlNdm5EamlTZk5wd3U5UG9UVXV0MXZkMjE3X2NXdGdiRm5oY2ZlVlBiYThjQ1BqdUY2a0RqckhTamk1MkM2bEZITmpqaGdxcU5YV042?oc=5",
     "title": "엔비디아, AI 반도체 공급망 장악 가속...장기 계약 확대에 업계 긴장 고조",
     "summary": [
@@ -21,7 +36,7 @@ window.NEWS_DB = [
     "id": "n96425e7c",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hUThLS25aY0hYSndzWlZLRk5TM21rbkN6cEItcW9aMTZJNlhSYnU0WFN6cTNRRzBlYlVhNUR4cjlHUjZpZHp4ME5YTXphUG1vNlIyWVRzQ1JNQnp6SHJlZ0ZMbkcxUkpHWUVUWHo4WnRnejA?oc=5",
     "title": "엔비디아 실적 발표에서 '메모리반도체 비용' 주목, 삼성전자 SK하이닉스 수혜 더 커진다",
     "summary": [
@@ -50,22 +65,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb827dc79",
-    "category": "IT",
-    "source": "파이낸셜뉴스",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VjlmSmdkcGdqZU9IX3ZQY2Q3d3hVeF90TjdnamlQMHU2OTNfdERqam5kcUV4bjZKdHpVUGxBQ0RQaHVtTzJnTEFkLWN4ZjZodEpKWW9HRWlPd9IBXkFVX3lxTFBJTFNJaWthaWNLRzVMMXhwLTViYjMtU2duRHZCWFpzdjlQZWV6UTVVSmdWak4tcVJDWU44R3B2eEgxTnZldjhOa29QcjlwelVrR2x4aUt4UVcybDhTTWc?oc=5",
-    "title": "공장 하나 없는 엔비디아는 어떻게 AI반도체의 제왕이 됐나 [글로벌 리포트]",
-    "summary": [
-      "공장 하나 없는 엔비디아는 어떻게 AI반도체의 제왕이 됐나 [글로벌 리포트] 파이낸셜뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -83,18 +82,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2970703c",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
-    "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
+    "id": "nef4b12c1",
+    "category": "경제",
+    "source": "이데일리",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzdSZFFxUnJRaDU0aF9yN1oyMUVlWDlqQ0ROLXR3UFktYmp5Zm0xVHBoaHZOcXNzeFMxeHpyRG9mLVF3ay1rMVVyTm9jY29XNkt5aTBsUTF0R1ZHTS1uQlpQRjZiSDBVbkM4dW92WTZaejNoLU9CbWdvZURZd3JVcw?oc=5",
+    "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
     "summary": [
-      "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게? 글로벌이코노믹."
+      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "ne248c225",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "20일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YM0VzU250Rjk0ZjQ4eDZ2bFBheGV3Z3VrYW1hb0VUd1p5SzVsZURnR3AtUTJhU1BicHNadFVyZGhvd1RPTkhaZTdqM3EyTUNzSGR3TnB5dXJWR03SAWBBVV95cUxOSlZ1aFh5T3pjSHNXTVY0TlQyZ1prZE5MbWtVM3VEZnJXbm53XzQzeGxnLVJ3Y1gxNE9GRnFpdTd5OGFlTGtBa1ZwRFBkRXdkeXMxNFI3UVQ2R1cxNkpCQWM?oc=5",
+    "title": "'귀한 몸' SK하이닉스, 파운드리 1위 TSMC와 격차 더 벌렸다",
+    "summary": [
+      "'귀한 몸' SK하이닉스, 파운드리 1위 TSMC와 격차 더 벌렸다 연합뉴스."
     ],
     "chips": [
       "#반도체",
-      "#엔비디아",
       "#SK하이닉스"
     ]
   },
@@ -218,6 +230,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb04cef68",
+    "category": "사회",
+    "source": "경기일보",
+    "time": "89일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
+    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
+    "summary": [
+      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -247,21 +274,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0f008420",
-    "category": "경제",
-    "source": "한겨레",
-    "time": "119일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGNFNVYUVMN0g3RGcwT1BXUzhvZ1B6VjQ2Y1poNHpZUHEtR3Z2RmVlSEZZN01waGNETEtxTXh2NEpjMTZ5emFtNGsxTEdDSnQ2cy1QTS1DVDh3cXBwRFFwZjFfQ1J3UThUcXE1R2tDN203Zw?oc=5",
-    "title": "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도",
-    "summary": [
-      "고환율 대책 안 먹혀, 또 1480원 코앞…금리 인상 필요성 주장도 한겨레."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
     "id": "n13cdbe9c",
     "category": "부동산",
     "source": "시사저널e",
@@ -288,21 +300,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "서울특별시",
-    "time": "194일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
-    "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -387,261 +384,270 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nadd5a84d",
+    "id": "nc02b7dcd",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/05/14/2026051210455122391",
+    "title": "[딥 포인트] 전월세난, 성실한 '흙수저'가 최대 피해자",
+    "summary": [
+      "잇단 부동산 규제 전세 품귀,월세 급등 일하는 청년층 내집 마련 '사다리' 끊겨 역차별 받는 한국판 '헨리' 는 억울하다 \"요즘은 집도 안보고 계약을 합니다.",
+      "전세 매물이 없으니 먼저 입금 하지않으면 선수를 빼앗기기 때문이죠.\" 한 부동산 유튜버는 최근 전세를 구하는 젊은층 사이에서 이른바 '노 룩(No Look)' 계약이 유행하고 있다고 했다.",
+      "서울 전월세 시장이 불안하다."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세",
+      "#정책"
+    ]
+  },
+  {
+    "id": "na1f52ed1",
     "category": "경제",
     "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/13/2026051322515581001",
-    "title": "은퇴 후에도 '월 1000만원' 번다...'뉴 논스톱' 김민식 PD가 밝힌 비결",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/05/14/2026051308391616098",
+    "title": "[청계광장]삼전 파업, 황금알 낳는 거위의 배를 가르나",
     "summary": [
-      "'뉴 논스톱', '내조의 여왕' 등을 연출한 김민식 PD가 은퇴 후 월 1000만원을 번다고 밝혔다.",
-      "13일 방송된 tvN '유 퀴즈 온 더 블럭'에는 김민식 PD가 출연해 이야기를 나누는 모습이 그려졌다.",
-      "김 PD는 \"코로나 터지고 다들 어려울 때 회사에서 대규모 구조조정을 했는데 오래 일한다고 더 잘할 자신이 없어서 나왔다\"며 \"회사 후배들을 만나서 제가 사려고 지갑을 꺼내면 후배들이 말린다."
+      "노조 지나친 요구는 다른 영역 이익 침해 산업 생태계 타격, 사회 '공유가치' 파괴 미래에 투자안하면 성과급도 없어질 것 최근 삼성전자 초기업노조가 사상 초유의 총파업을 예고하며 대한민국 경제에 거대한 먹구름이 드리우고 있다.",
+      "노조는 영업이익의 15% 성과급 제도화와 OPI(초과이익성과급) 상한 폐지 등을 요구하며, 이것이 근로자의 정당한 보상이라고 주장한다.",
+      "그러나 글로벌 기술 패권 경쟁이 한 치 앞을 내다볼 수 없는 생존 게임이 된 지금,."
     ],
     "chips": [
-      "#뉴스"
+      "#삼성전자"
     ]
   },
   {
-    "id": "naa145f2a",
+    "id": "n576473ad",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/13/MVTGMNDFGI4WMZJZMY2TSZDFHA/",
-    "title": "김형근 선방쇼에 혀 내두른 정정용 감독 \"선방 아니었더라면 득점할 수 있었을텐데...\"[현장 기자회견]",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/05/14/MMZDQMLFMFTDMYTFGA2DGZBSGI/",
+    "title": "日 몬스터는 차원이 다르네... 이노우에, IBF 올해의 남자 선수상 받는다…세계 복싱이 또 인정",
     "summary": [
-      "[부천=스포츠조선 박찬준 기자]\"형근이 선방 아니었으면 득점했을텐데….\" 정정용 전북 현대 감독의 아쉬움이었다.",
-      "전북이 또 다시 부천 징크스를 넘지 못했다.",
-      "전북은 13일 부천종합운동장에서 열린 부천과의 '하나은행 K리그1 2026' 14라운드에서 0대0으로 비겼다."
+      "[OSEN=이인환 기자] ‘몬스터’ 이노우에 나오야가 다시 세계 복싱의 중심에 섰다.",
+      "일본 복싱 최대 빅매치를 끝낸 뒤 이번에는 국제복싱연맹(IBF)의 공식 시상대에 오른다.미국 복싱 전문매체 ‘복싱신’은 13일(한국시간) “이노우에와 케이티 테일러가 베트남에서 열리는 IBF 연례 시상식에서 수상자로 선정됐다”고 전했다.",
+      "보도에 따르면 IBF는 오는 27일."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd2f150fe",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/13/GZSDMNRZG5SGMNLBG43TOMBQHA/",
-    "title": "정희, 영식·정숙 다대일 데이트에 내내 묵묵부답···이이경 \"애 같은 면이 있어\"('나는솔로')",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘나는 솔로’ 정희가 영식, 정숙과 함께 나가는 데이트에 답답함을 느꼈다.13일 방영된 SBS 예능 ‘나는 SOLO - 나는 솔로’(이하 ‘나는 솔로’)에서는 영식을 선택한 정숙, 정희의 데이트가 시작되었다.",
-      "정희는 “난 원래 오늘 데이트에서 상철 선택하려고 했는데 내 마음의 1위여."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n66a21091",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260513_0003628518",
-    "title": "트럼프, 베이징서 2박3일 방중 돌입…내일 시진핑 회담(종합)[미중정상회담 D-1]",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 13일(현지 시간) 오후 중국 베이징에 도착하면서 2박3일간 방중 일정에 돌입했다.",
-      "시진핑 중국 국가주석과는 내일부터 이틀간 여러차례 회담할 계획이다.",
-      "백악관동동취재단에 따르면 트럼프 대통령과 참모들이 탑승한 전용기 에어포스원은 이날 오후 7시50분께 중국 베이징의 수도 국제공항에 착륙했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncdc08e0b",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260513_0003628519",
-    "title": "뉴욕증시, 美 도매물가 상승·반도체 랠리에 혼조 출발",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 뉴욕증시가 13일(현지시간) 시장 예상을 웃돈 미국 4월 생산자물가지수(PPI) 발표와 반도체 랠리 재점화가 맞물려 혼조세로 출발했다.",
-      "CNBC에 따르면 이날 오전 9시44분 기준 다우존스30산업평균지수(DJIA)는 전장 대비 269.16(0.54%)포인트 하락한 4만9491.40에 거래됐다.",
-      "스탠더드앤드푸어스(S&P) 500 지수는 10.48포인트(0.14%) 내린 7390.48, 기술주 중심의 나스닥 지수는."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n37522a51",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://www.asiae.co.kr/article/2026051322573519772",
-    "title": "[뉴욕증시]4월 PPI도 급등…혼조세로 출발",
-    "summary": [
-      "미국의 4월 생산자물가지수(PPI)도 예상치를 크게 상회하면서 13일(현지시간) 미국의 3대 지수는 혼조세로 출발했다.",
-      "이란 전쟁으로 인해 기업들이 부담하는 원가가 올라가면서 소비자 물가에 전가될 수 있다는 우려에 투자심리가 위축된 것으로 해석된다.",
-      "홈트레이딩시스템(HTS)에 따르면 오전 9시42분 기준 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 297.68포인트(0.59%) 하락한 4만9463.88을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6bcc15ad",
+    "id": "n4a3eb4d8",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260513179700071",
-    "title": "\"대만 건드리지마\"…주미中대사관 미중회담前 4대 금지선 거론",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260514001700109",
+    "title": "우크라 '서쪽 끝' 타격한 러…동유럽 '화들짝'",
     "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 회담을 앞두고 주미중국대사관이 대만 문제를 비롯한 '4..."
+      "(로마=연합뉴스) 민경락 특파원 = 러시아가 13일(현지시간) 동부 유럽과 가까운 우크라이나 서쪽 국경까지 타격하면서 긴장감이 높아지고 있다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n67f6decb",
+    "id": "n35062f02",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/13/MVSTINZVGA4WCMJUHAYGCZDBMY/",
-    "title": "낙동강더비 첫 승...\"효과적 피칭으로 중요한 역할\" 김태형은 왜 외인 에이스 아닌 5점 차 등판 투수를 칭찬했나 [오!쎈 부산]",
-    "summary": [
-      "[OSEN=부산, 조형래 기자] 프로야구 롯데 자이언츠가 올 시즌 낙동강 더비 첫 승을 신고했다.",
-      "김태형 감독이 이끄는 롯데는 13일 부산 사직구장에서 열린 프로야구 정규시즌 NC 다이노스와의 경기에서 10-5로 승리를 거뒀다.",
-      "이로써 롯데는 15승 21패 1무를 마크했다.롯데는 2회말 2사 1,2루에서 손호영의 2타점 2루타로 기선을 제압했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n24b048e5",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260513179900009",
-    "title": "뉴욕증시, 뜨거운 4월 PPI 반영하며 혼조 출발",
-    "summary": [
-      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 미국 4월 생산자물가지수(PPI) 결과를 소화하며 혼조세로 출발했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n367fb5e9",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260513_0003628513",
-    "title": "'데뷔 첫 SV' LG 손주영 \"마무리투수 책임감 있어야…제대로 해보겠다\"",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 마무리 투수로 변신한 프로야구 LG 트윈스 손주영이 데뷔 첫 세이브(SV)를 수확했다.",
-      "손주영은 13일 잠실구장에서 열린 2026 신한 쏠 KBO리그 삼성 라이온즈와의 경기에 9회 등판해 1이닝 무피안타 무사사구 1탈삼진 무실점으로 호투했다.",
-      "그는 팀이 5-3으로 앞선 9회말 등판해 1이닝을 실점 없이 막아내며 세이브를 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd07620da",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260513179500007",
-    "title": "'역대급 선방쇼' 부천 GK 김형근 \"엄청나게 슈팅이 날아왔어요\"",
-    "summary": [
-      "(부천=연합뉴스) 이영호 기자 = \"경기 끝나고 갈레고가 제 골키퍼 장갑을 부적처럼 벽에 붙여 놓자고 했어요.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7a24654f",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260513_0003628502",
-    "title": "첫 챔프전 우승에 삼부자 MVP까지…KCC 허훈 \"결과로 증명해 기뻐\"",
-    "summary": [
-      "[고양=뉴시스] 하근수 기자 = 생애 첫 프로농구 챔피언결정전 우승과 아버지 허재 전 농구대표팀 감독, 형 허웅에 이어 플레이오프(PO) 최우수선수(MVP) 수상까지 겹경사를 누린 부산 KCC 허훈이 결과로 증명했다며 기뻐했다.",
-      "허훈은 13일 고양소노아레나에서 KCC의 우승으로 막을 내린 2025~2026시즌 LG전자 프로농구 챔피언결정전(7전4승제) 종료 후 MVP로 선정됐다.",
-      "지난해 5월 자유계약(FA)으로 KCC에 입단한 허훈은 봄 농구."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n954d7b69",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260513179100007",
-    "title": "생애 첫 우승컵 거머쥔 허훈 \"꿈 이뤄 행복…결과로 증명했다\"",
-    "summary": [
-      "(고양=연합뉴스) 오명언 기자 = 리그 최고의 별들이 모인 프로농구 '슈퍼팀' 부산 KCC에서도 가장 밝게 빛난 별은 '야전사령관' 허훈이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc740feb4",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "21분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/13/2026051318345592904",
-    "title": "온몸으로 전북 슈팅 막아낸 김형근→사령탑도 뭉클했다 \"이겼을 때보다 더 감동\" [부천 현장]",
-    "summary": [
-      "\"가장 기억에 남는 무승부가 될 것 같다.\" 부천FC 골키퍼 김형근이 온몸을 내던지는 '미친 선방쇼'를 펼쳤다.",
-      "베테랑의 투혼에 사령탑도 뭉클했다.",
-      "이영민 감독이 이끄는 부천은 13일 부천종합운동장에서 열린 하나은행 K리그1 2026 14라운드 전북현대와 홈경기에서 0-0으로 비겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n166cdedf",
-    "category": "스포츠",
-    "source": "머니투데이",
     "time": "23분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/13/2026051322395090806",
-    "title": "[한번에쓱]우승에 거의 다 왔다! '이제 곧 우리가 챔피언이지' 환호하는 허훈과 선수들",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/14/MJRWCNBUHE4TGYJUMVRWMNBRMQ/",
+    "title": "삼성 14일 선발, 왜 갑자기 이승현→양창섭으로 변경했나...\"왼쪽 발가락 밑부분 물집\" [오!쎈 잠실]",
     "summary": [
-      "MVP 허훈이 3일 고양체육관에서 열린 LG전자 2025-2026 프로농구 챔피언결정전 고양소노와 부산KCC 5차전에서 승리가 확실시되며 우승을 예상하며 선수들과 환호하고 있다.."
+      "[OSEN=잠실, 홍지수 기자] 프로야구 삼성 라이온즈가 9연승에 실패했다.",
+      "3연전 마지막 날에는 선발 카드도 바뀌었다.삼성은 13일 잠실구장에서 열린 2026 신한은행 SOL Bank KBO리그 LG 트윈스와 원정 경기에서 3-5로 패했다.",
+      "선발 등판한 원태인이 6이닝 4실점으로 패전을 안았다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n0afa3e14",
+    "id": "n8c3b7eb5",
     "category": "사회",
-    "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260513/133914688/1",
-    "title": "“본사 사업매각 저지” 자회사서 파업…현대모비스 ‘노봉법 몸살’",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260514001000109",
+    "title": "러시아, 드론 800대 동원해 우크라 대규모 공격…사상자 속출",
     "summary": [
-      "현대모비스의 램프 사업 매각에 자회사 노조들이 반발하고 나서며 갈등이 격화되고 있다.현대모비스 자회사인 현대IHL 노동조합 조합원 700여 명은 13일 오후 2시 서울 강남구 테헤란로 현대모비스 사옥 앞에서 램프사업부 매각 저지를 위한 결의대회를 열었다.",
-      "현대모비스가 올해 1월 램프사업부를 글로벌 자동차 부품기업인 ‘OP모빌리티’에 매각하기로 결정하자 이 회사 노조는 받아들일 수 없다며 지난달 27일부터 전면 파업을 벌이고 있다."
+      "(로마=연합뉴스) 민경락 특파원 = 우크라이나가 12일(현지시간) 러시아의 대규모 드론 공격을 받아 사상자가 속출한 것으로 나타났다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8ea75e89",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "40분 전",
-    "url": "https://www.hankyung.com/article/202605134827i",
-    "title": "美, 4월 도매물가 전월대비 1.4% 상승…4년 만에 최고치",
+    "id": "nc26076ba",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/sports/football/2026/05/14/GEZDIYRWMQ2WKNLCMFSTOZLBMI/",
+    "title": "'전북전 미친 선방쇼' 야신 못지 않았던 김형근 \"커리어 최고의 경기이자 가장 힘들었던 경기\"",
     "summary": [
-      "美, 4월 도매물가 전월대비 1.4% 상승…4년 만에 최고치."
+      "[부천=스포츠조선 박찬준 기자]\"이런 경기를 다 해보네요.\" 미친 선방쇼를 펼친 부천FC의 골키퍼 김형근의 미소였다.",
+      "부천은 13일 부천종합운동장에서 열린 전북과의 '하나은행 K리그1 2026' 14라운드에서 0대0으로 비겼다.",
+      "전반 2분 바사니가 퇴장당하는 절제절명의 위기 속 부천의 집중력은 더욱 빛났다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n21a44b11",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260514001200081",
+    "title": "\"해외순방 중 부인에 얼굴 맞은 마크롱…이란 출신 여배우 때문\"",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 에마뉘엘 마크롱 프랑스 대통령의 부인이 지난해 5월 베트남 공항에 도착해 남편의 얼굴을 손으로 때린 배경엔 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n95e7c9b4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260514001600085",
+    "title": "'영국 우파 돌풍' 패라지, 100억원 미신고 의혹에 의회 조사",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국 지지율 1위인 우익 성향 영국개혁당의 나이절 패라지 대표가 암호화폐 투자자로부터 받은 500만 파운드(..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8b108418",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "43분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/14/2026051400492790231",
+    "title": "'한 이닝 23분간 12타자 49구 8실점 난타' 왜 타케다를 바꾸지 않았을까",
+    "summary": [
+      "13일 수원 KT위즈파크에서 열린 SSG 랜더스와 KT 위즈의 경기.",
+      "SSG 선발 투수 타케다(33)는 2회말 2사 후 극도의 난조를 보이며 무려 8점을 허용했다.",
+      "그러나 투수 교체는 없었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0039b4bc",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "49분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/14/2026051319154641320",
+    "title": "\"퓨처스 등판 없다\" 든든한 19세 아기사자, 1군 등록 즉시 선발 재투입! '물집 불운' 좌완도 덕분에 천천히 돌아온다",
+    "summary": [
+      "신인답지 않은 침착함으로 주목받는 '아기 사자' 장찬희(19)가 삼성 라이온즈의 여유 있는 선발 운영을 돕고 있다.",
+      "삼성 박진만 감독은 13일 잠실 LG 트윈스전을 앞두고 \"좌완 이승현 선수가 원래 14일 선발로 등판 예정이었다.",
+      "하지만 퓨처스 경기에서 왼쪽 발에 불편함이 있어 양창섭이 대신 선발로 나서게 됐다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n930432e0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260514_0003628535",
+    "title": "\"대만 무기판매 지연 말라\" 美민주, 중국간 트럼프에 서한",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미중 정상회담에서 대만 문제가 주요 의제로 다뤄질 예정인 가운데, 미국 민주당 의원들은 대만 무기 판매를 지연해서는 안 된다고 도널드 트럼프 대통령 압박에 나섰다.",
+      "13일(현지 시간) 미국 더힐에 따르면 로 카나(캘리포니아) 하원 중국공산당 특별위원회 간사, 짐 하임스(코네티컷) 하원 상설 정보위원회 간사, 애덤 스미스(워싱턴) 하원 군사위원회 간사, 그레그 믹스(뉴욕) 하원 외교위원회 간사 등 민주당 하원의."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne1741b5d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260513_0003628015",
+    "title": "3명 중 1명꼴 '이 질환'…\"방치시 심각한 합병증\"",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 2024년 기준 국내 고혈압 환자수는 760만5577명에 달한다.",
+      "30세 이상 국민 10명 중 3명은 고혈압 환자다.",
+      "고혈압은 흔하게 나타나지만 까다로운 질환이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2fcf0e51",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260514_0003628531",
+    "title": "日 총리, 내달 G7 정상회의 전 영국·이탈리아 방문 조율",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 다카이치 사나에(高市早苗) 일본 총리가 다음달 15~17일 프랑스에서 열리는 주요 7개국(G7) 정상회의 참석에 앞서 영국과 이탈리아를 방문해 정상회담을 하는 방향으로 일정을 조율하고 있다고 일본뉴스네트워크(NNN)가 13일 보도했다.",
+      "일본 총리가 유럽을 방문하는 것은 2024년 7월 기시다 후미오 전 총리(岸田文雄)가 독일을 찾은 이후 처음이다.",
+      "일본 정부 관계자는 NNN에 \"G7 정상회의에 맞춰 프랑스 외 다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n520be107",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026051348721",
+    "title": "새 주인 찾는 배민, 네이버·우버에 의향 타진",
+    "summary": [
+      "새 주인 찾는 배민, 네이버·우버에 의향 타진."
+    ],
+    "chips": [
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n49e2b715",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260513/133903875/1",
+    "title": "[Campus&]‘200만닉스’ 시대, 반도체 인재의 요람은 한양대… ‘채용 보장·압도적 경쟁률’로 증명",
+    "summary": [
+      "글로벌 반도체 시장이 유례없는 초호황기를 맞이한 가운데, 한양대(총장 이기정)가 대한민국 반도체 인재 양성의 ‘실전 기지’로서 독보적인 존재감을 드러내고 있다.",
+      "한양대는 급증하는 첨단 산업인력 수요에 발맞춰 수십 년간 다져온 지·산·학 협력 노하우를 집약, 반도체와 인공지능(AI) 분야에서 기업 현장에 즉시 투입 가능한 ‘준비된 혁신 인재’를 배출하며 산업계의 찬사를 받고 있다.",
+      "특히 대기업과의 강력한 파트너십을 기반으로 단순한 지식 전달을 넘."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n16a40f37",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260513/133917459/2",
+    "title": "KDI “올 성장률 1.9→2.5%, 반도체가 중동악재 덮어”",
+    "summary": [
+      "한국개발연구원(KDI)이 올해 한국 경제성장률 전망치를 1.9%에서 2.5%로 높였다.",
+      "기존 전망치 발표 후 3개월 만이다.",
+      "JP모건, 씨티, 노무라 등 세계 주요 투자은행(IB)들도 잇달아 한국 성장률 전망치를 상향 조정하고 있다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#수출"
     ]
   }
 ];
@@ -650,15 +656,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
