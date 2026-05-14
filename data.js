@@ -1,48 +1,63 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-14 09:26:46
+// 마지막 업데이트: 2026-05-14 11:43:53
 window.NEWS_DB = [
+  {
+    "id": "n57195cf2",
+    "category": "IT",
+    "source": "진일보",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJUjRWVGV3b2RHa2t0RjBrNkRleUlUbFJ2UHd5eURFWDdlaEZldUx1MVVxX0ZNMDRiR3JVcmNBREFwcW5lckZ1bDBBcUdvQk1zUjdZdVlndk91OElBWWlOdWRuWFlRMnVRbzRDeUtvdw?oc=5",
+    "title": "미국, 중국 알리바바 등에 엔비디아 고성능 AI반도체 판매 승인",
+    "summary": [
+      "미국, 중국 알리바바 등에 엔비디아 고성능 AI반도체 판매 승인 진일보."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n9b3e5188",
+    "category": "IT",
+    "source": "전자신문",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhY05CLU8xcFozWWtDc1dWeTlaNEdyR3V0OVBMWmJEVVluUGRWX0FiMmUzekZibGxIT0hhbUxtaVBqRnNhU0JCenk5WFpJUQ?oc=5",
+    "title": "美, 中 기업 10곳에 엔비디아 고성능 AI 반도체 'H200' 구매 라이선스 발급",
+    "summary": [
+      "美, 中 기업 10곳에 엔비디아 고성능 AI 반도체 'H200' 구매 라이선스 발급 전자신문."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nea7c0abb",
+    "category": "스포츠",
+    "source": "한스경제",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rMlQ2X0toSU82ZjltR3RGeHRCNlpRRWxDc01ZalZnR1BEZllhb0xXaWlJWm5saFBwcG1heGxkMFk3aW5WOXBjZjRXc3hXRTBrcXM5U1VxazR3U0R1Qlc5bnFuTlhUNm5RUW1iSFYtVdIBb0FVX3lxTE9rMlQ2X0toSU82ZjltR3RGeHRCNlpRRWxDc01ZalZnR1BEZllhb0xXaWlJWm5saFBwcG1heGxkMFk3aW5WOXBjZjRXc3hXRTBrcXM5U1VxazR3U0R1Qlc5bnFuTlhUNm5RUW1iSFYtVQ?oc=5",
+    "title": "국내야구, 5월 1주 차 스포츠 관심도 1위 유지",
+    "summary": [
+      "국내야구, 5월 1주 차 스포츠 관심도 1위 유지 한스경제."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
   {
     "id": "nb905c808",
     "category": "IT",
     "source": "조세일보",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MODhxeDhwRVNKakh6X2QyZ3pETGw1bW5DbHdGQ0Mta1pRQjk4aDNXeFJYeGJWczAtWjVKSktRaTdJOFowQ1ZHWGZWR1JRM3JjNUVHc2JRWmswNTF0YXdj?oc=5",
     "title": "美, 中10개 기업에 엔비디아 H200 판매승인…실제 공급은 '0건'",
     "summary": [
       "美, 中10개 기업에 엔비디아 H200 판매승인…실제 공급은 '0건' 조세일보."
     ],
     "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n8ca8457c",
-    "category": "IT",
-    "source": "레디앙",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UZXlKR3RRM0hxSndlMUM3NWJWdmRQRGVpRjNCMFlhWGROcEozVWZISFdlVHpwSlRfWnBpNnhBbXdYWFlNdDlzR1dVbFQtYVotTVpEdGdiSkFuaEU4MW95R0pXR3RTMTVH?oc=5",
-    "title": "엔비디아 목표주가 줄상향...월가 “AI 투자 사이클 아직 끝나지 않았다”",
-    "summary": [
-      "엔비디아 목표주가 줄상향...월가 “AI 투자 사이클 아직 끝나지 않았다” 레디앙."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "ne92b1199",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVTdKWl95TGVTWXBmMUFoQjg2YmJMSFE1QVUxZDRTNU0xR0Rsd1pFZEJ6NnlOYlNOcy1lV0YwZ2pwTFY3SzFTSlk0cE5TVzVFMzI3N3hLZzFrZDVSU2dyMtIBeEFVX3lxTE0xSldBcl9kdE9uODAtVHlaQmhDckJVUFUzanBEckpXWklWc1FFVS0tVmpKcGx1eWhLUkFVQllFM3gzejBxR3NPOFgySG03QXE5bVV0bE5DbGdaSnJyQUh2Rzh1ajBaUHpZYWJvbXBZeTEtREpjYnJrMQ?oc=5",
-    "title": "엔비디아 시총 5.5조달러 돌파…AI 반도체 광풍 어디까지",
-    "summary": [
-      "엔비디아 시총 5.5조달러 돌파…AI 반도체 광풍 어디까지 뉴시스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
       "#엔비디아"
     ]
   },
@@ -62,21 +77,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5df9ff06",
-    "category": "사회",
-    "source": "v.daum.net",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8waVVpWUdfbUEyVVBTVHBNWkw4NzhKdVNrRFFfekRjc2FIelFPVHBoUk1GZkdielh0NnoxNW5VckdZYTBFYXc?oc=5",
-    "title": "대구 장애인 취업박람회…기업 28곳 참여 현장채용 면접·구직상담",
-    "summary": [
-      "대구 장애인 취업박람회…기업 28곳 참여 현장채용 면접·구직상담 v.daum.net."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -91,6 +91,20 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nba668fc0",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -156,34 +170,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nce5c746a",
-    "category": "IT",
-    "source": "전자신문",
-    "time": "42일 전",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnWmRZVmxBeXZBVjEzS3RCcnJiNGNORTFHMDFmR3dBNkVBanE1LVJwejlSQ2x6TGEwRXZNRHFnQktaUjNLOXRzQUJVU2NZUQ?oc=5",
-    "title": "“글로벌로 나가야 유니콘”…투자업계 “K-스타트업 범주 넓혀 해외 창업도 지원해야”",
-    "summary": [
-      "“글로벌로 나가야 유니콘”…투자업계 “K-스타트업 범주 넓혀 해외 창업도 지원해야” 전자신문."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "43일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
@@ -209,6 +195,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "nb04cef68",
+    "category": "사회",
+    "source": "경기일보",
+    "time": "90일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
+    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
+    "summary": [
+      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
     ]
   },
   {
@@ -315,325 +316,336 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0bc2981b",
+    "id": "n7853bfc2",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151811",
-    "title": "[다시, 웨스테로스로] '왕좌의 게임' 이어 '솔: 인챈트'까지...넷마블, 신작 러시 이어간다",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151858",
+    "title": "'200만닉스'에 활짝 웃은 SK스퀘어...1Q 영업이익 8조2000억 '사상 최대'",
     "summary": [
-      "넷마블이 '양과 질'이라는 두 마리 토끼를 모두 잡으며 2분기 신작 공세에 나선다.",
-      "먼저 '왕좌의 게임: 킹스로드' 아시아 버전 출시에 이어 기대작 '솔: 인챈트'가 상반기 내 출시를 앞두고 있다.",
-      "하반기에도 로그라이크부터 협동 액션, 수집형 RPG까지 각기 다른 장르와 플랫폼의 신작을 출시한다."
+      "SK스퀘어가 SK하이닉스 지분법 이익과 포트폴리오 성과에 힘입어 분기 기준 사상 최대 실적을 달성했다.",
+      "SK스퀘어는 올해 1분기 영업이익이 8조2783억원을 기록해 전년 동기 대비 400% 증가했다고 14일 밝혔다.",
+      "순이익 역시 8조3747억원을 기록해 419% 증가했다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#반도체",
+      "#SK하이닉스"
     ]
   },
   {
-    "id": "n3837ed28",
+    "id": "nee2a4178",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151807",
-    "title": "[다시, 웨스테로스로] 새롭게 태어난 '왕좌의 게임'...얼리 액세스와 비교해보니",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151856",
+    "title": "데이터·AI로 성장세 '굳건' 티맵, 1Q 매출 622억원...전년 대비 4.3%↑",
     "summary": [
-      "넷마블의 오픈월드 액션 역할수행게임(RPG) '왕좌의 게임: 킹스로드' 아시아 지역 PC버전 선공개는 단순한 로컬라이제이션(지역화)로 보기는 어렵다.",
-      "비즈니스모델(BM)부터 다채로운 멀티 콘텐츠, 무기 교체 시스템까지 핵심 구조를 변화시켜 '환골탈태'한 수준이기 때문이다.'확률형 아이템' 제외...BM 갈아엎었다넷마블은 지난해 5월 북미·유럽 시장에 왕좌의 게임: 킹스로드를 얼리 액세스(앞서 해보기)로 출시했다.",
-      "출시 당시 왕좌의 게임: 킹스로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3681d93f",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151802",
-    "title": "[다시, 웨스테로스로] '왕좌의 게임' 속 핵심 격전지 구현...액션 RPG로 亞 시장 공략 '승부수'",
-    "summary": [
-      "넷마블이 글로벌 흥행 IP를 앞세워 액션 RPG 시장 공략에 나선다.",
-      "워너브라더스 인터랙티브 엔터테인먼트 산하 HBO의 공식 라이선스를 획득해 개발한 '왕좌의 게임: 킹스로드'를 통해서다.",
-      "드라마의 세계관을 중심으로 한 게임 플레이를 통해 재미를 제공하며 원작 팬들과 게이머를 동시에 잡겠다는 전략이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c1f2edc",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151848",
-    "title": "[카드뉴스] 인텔의 새로운 승부수, AI까지 돌리는 '현실형 고성능 PC' 시장 정조준한다",
-    "summary": [
-      "예전 PC 시장은 단순했다.",
-      "누가 더 높은 프레임을 뽑고, 더 강한 성능을 보여주느냐가 핵심이었다.",
-      "하지만, AI 작업이 늘어나고, 영상 편집과 로컬 AI 추론까지 중요해지면서 PC의 역할 자체가 바뀌기 시작했다.이에 발맞춰 인텔은 성능과 가격 경쟁력을 동시에 갖춘 데스크톱 중앙처리장치(CPU)와 전문가용 그래픽처리장치(GPU) 신제품을 앞세워 고성능 PC 시장 공략에 나선다."
+      "티맵모빌리티가 방대한 데이터와 인공지능(AI) 중심 사업 확대를 바탕으로 실적 성장세를 이끌어 냈다.",
+      "수익성에 힘입어 신규 사업을 지속 확대, 지속가능한 성장세를 유지해 나갈 예정이다.",
+      "티맵모빌리티는 올해 1분기 매출액이 622억원을 기록해 전년 동기 대비 4.3% 성장했다고 14일 밝혔다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n2070a237",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260514_0003630184",
-    "title": "정원오 '무소득 1주택자' 재산세 감면 공약…\"조세 형평성 측면 긍정적\"",
+    "id": "n2d8daa91",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151857",
+    "title": "PC·콘솔 신작 5종 띄우는 라인게임즈...장르·플랫폼 다각화 전략 베일 벗었다",
     "summary": [
-      "[서울=뉴시스]이종성 기자 = 정원오 더불어민주당 서울시장 후보가 소득 없는 1주택 고령층을 위한 재산세 감면 카드를 꺼내 들었다.",
-      "공시가격 상승으로 인한 세 부담을 완화해 은퇴 세대의 주거 안정을 돕겠다는 취지로, 전문가들 사이에서 조세 형평성 차원에서 시의적절하다는 평가가 나온다.",
-      "정 후보는 지난 13일 오전 국회 소통관에서 기자회견을 열고 \"서울시 25개 구청장 후보들과 뜻을 모아, 공시가격 상승으로 늘어난 올해 재산세 증가분을 한시적으로."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n551e8cb1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260514_0003630171",
-    "title": "'300억대 사기 혐의' 차가원, 첫 피의자 조사…노머스 맞고발(종합)",
-    "summary": [
-      "[서울=뉴시스]신유림 기자 = 경찰이 최근 300억원대 사기 혐의로 피소된 차가원 피아크그룹 회장 겸 원헌드레드 대표를 피의자 신분으로 불러 조사했다.",
-      "차 대표 측은 팬 플랫폼 기업 노머스 경영진에 대해 맞고발에 나섰다.",
-      "14일 뉴시스 취재를 종합하면 서울경찰청 금융범죄수사대는 특정경제범죄가중처벌법상 사기 등 혐의를 받는 차 대표를 지난 6일과 7일 연이틀 불러 조사했다."
+      "라인게임즈가 차세대 게임 라인업을 대거 공개하며 유저 공략에 나섰다.",
+      "모바일 중심이었던 사업구조를 재편해 PC와 콘솔 영역까지 확장하고 장르와 플랫폼의 다변화를 본격적으로 추진하겠다는 전략이다.",
+      "라인게임즈는 14일 공식 유튜브 채널을 통해 신작 쇼케이스 '라인 게임즈 비욘드'를 개최하고 신작 타이틀 5종의 세부 정보를 공개했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n915fbae9",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/14/2026051418144016278",
-    "title": "'매니저 갑질·주사이모 의혹' 박나래, 어제 3차 경찰 조사",
+    "id": "n5ee4461f",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151855",
+    "title": "역대급 분기 성적표 달성한 넥슨...아크 레이더스, 대형 업데이트 예고(종합)",
     "summary": [
-      "경찰이 불법 의료 시술 의혹 등 논란에 휩싸인 방송인 박나래씨에 대한 3차 조사를 진행했다.",
-      "14일 서울 강남경찰서는 박 씨가 전날 오후 1시쯤 의료법 위반과 특정경제범죄법 횡령 혐의를 소명하고자 경찰에 출석했다고 밝혔다.",
-      "박씨는 지난 2월과 3월 두 차례에 걸쳐 이미 조사를 받은 바 있다."
+      "넥슨이 역대 최대 분기 실적을 기록했다.",
+      "특히 '메이플 키우기', '메이플스토리 월드' 등 메이플스토리 프랜차이즈와 '아크 레이더스'의 흥행에 힘입어 서구권에서의 매출 성장이 두드러졌다.",
+      "던전앤파이터 프랜차이즈는 매출 하락을 피하지 못했으나, 올해 하반기 이용자들에게 신선함을 줄 수 있는 업데이트로 본격적으로 반등에 나선다는 계획이다.아크 레이더스, 460만장 더 팔았다...메이플 키우기·월드 선전넥슨은 올해 1분기 매출액이 전년동기대비 34%."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf23f45e3",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://www.asiae.co.kr/article/2026051420425524085",
+    "title": "이권재 \"아이와 엄마가 행복한 도시 만들겠다\"…출산·보육 공약 발표",
+    "summary": [
+      "이권재 경기 오산시장 후보(국민의힘)가 공공산후조리원 설립과 보육 인프라 확충, 어린이집 지원 강화를 포함한 '출산·보육 공약'을 발표했다.",
+      "저출생 대응과 함께 아이 키우기 좋은 환경을 조성해 정주 여건을 개선하겠다는 구상이다.",
+      "이 후보는 \"출산과 보육은 개인의 문제가 아니라 도시의 미래를 좌우하는 핵심 정책\"이라며 \"부담은 줄이고, 돌봄과 교육 환경은 높이는 실질적인 지원을 확대하겠다\"고 밝혔다."
+    ],
+    "chips": [
+      "#정책",
+      "#교육",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n2cb9af90",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260514/133923655/1",
+    "title": "에이스 없는 마지막 승부…대전고 vs 충암고, 황금사자기 결승 격돌[제80회 황금사자기]",
+    "summary": [
+      "‘해결사’ 한대화도 해결하지 못한 일이었다.",
+      "‘대성불패’ 구대성도 황금사자기에서는 팀 패배를 막지 못했다.",
+      "대전고 야구부 후배들이 이 내로라하는 선배들도 해내지 못했던 일을 해냈다.대전고는 14일 서울 목동야구장에서 열린 제80회 황금사자기 전국고교야구대회 겸 주말리그 왕중왕전 준결승에서 강릉고에 4-2 승리를 거뒀다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nca74de3a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260514179600073",
+    "title": "\"日다카이치, 미중 정상회담 후 트럼프와 조기 통화 추진\"",
+    "summary": [
+      "(도쿄=연합뉴스) 경수현 특파원 = 일본 정부가 14일 시작된 미중 정상회담 뒤 다카이치 사나에 총리와 도널드 트럼프 미국 대통령 간에 조기에 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfd879633",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260514_0003630264",
+    "title": "경남도, 철도 기반 남부권 광역관광 협력 본격화",
+    "summary": [
+      "[진주=뉴시스]홍정명 기자 = 경남도는 14일 진주시 K-기업가정신센터에서 문화체육관광부, 남부권 4개 시·도, 한국철도공사(코레일)와 '남도 기차둘레길 사업 활성화를 위한 업무협약'을 체결했다고 밝혔다.",
+      "앞서 경남도 주관 '2026년 제2차 남부권 광역관광협의체 정례회의'에는 문체부 지역관광개발과장, 부산·광주·울산·전남·경남 등 남부권 5개 시도 관광부서 과장, 코레일 여행플랫폼처장, 경상남도관광재단 대표이사 등 45명이 참석했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf0f70db3",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/14/2026051420051081987",
+    "title": "시진핑 \"MAGA 함께 가자\"·트럼프 \"친구 시진핑, 9월 백악관 오라\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 14일(현지시간) 시진핑 중국 국가주석과의 국빈 만찬에서 시 주석을 '친구'라고 부르며 오는 9월 미국으로 초청하겠다고 밝혔다.",
+      "블룸버그 등 외신에 따르면 트럼프 대통령은 이날 만찬 연설에서 \"우리는 중국 대표단과 매우 긍정적이고 생산적인 대화와 회의를 가졌다\"고 밝혔다.",
+      "트럼프 대통령은 미중 관계를 \"세계 역사상 가장 중대한 관계 중 하나\"라고 규정하며 역사적 유대감을 강조했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n052dfca8",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/14/2026051420343826116",
+    "title": "이재명 대통령, 연말 시행 'GMO 완전표시제' 사전 준비 당부",
+    "summary": [
+      "[the300] 이재명 대통령이 올해 말 시행 예정인 GMO(유전자변형식품) 완전표시제가 국민들에게 잘 알려질 수 있도록 사전 준비를 꼼꼼하게 할 것을 주문했다.",
+      "강유정 청와대 수석대변인은 14일 청와대 수석보좌관 회의 후 서면브리핑을 내고 \"이 대통령이 국산 콩 가격이 수입 콩 가격의 3배에 이른다는 보고를 받았다\"며 이같이 밝혔다.",
+      "GMO 완전표시제는 제조·가공 후 GMO 성분이 남아있지 않아도 GMO 원재료 사용 여부에 따라 표시토록 한."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8c84bd25",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260514179200009",
+    "title": "\"中, 美소고기 공장 수백곳 수출 승인했다가 다시 중단\"",
+    "summary": [
+      "(서울=연합뉴스) 권숙희 기자 = 미중 정상회담이 열린 14일 중국 당국이 미국의 소고기 수출업체 수백 곳에 대해 1년여 만에 수출 자격을 부여..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "ncf18f4a7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/14/MNSWMOLBGE2DKZBXGBSTKMZTMQ/",
+    "title": "\"역대급 플리마켓 열었다\"...채정안, 호주서 '200만 원' 주고 산 명품까지 투척 [순간포착]",
+    "summary": [
+      "[OSEN=박근희 기자] 배우 채정안이 자신의 애장품을 아낌없이 내놓는 역대급 플리마켓을 개최했다.14일 오후 유튜브 채널 ‘채정안TV’에는 ‘여배우 채정안의 옷장털이 플.E.마.켓 오픈 명품이 7만원?! 실화예요? 수줍은 내향형들에게 아낌없이 주는 현장’이라는 제목의 영상이 게재됐다.평소 연예계 대표 패셔니스타로 알려진 채정안은 이날 다양한 의류는 물론,."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7229c429",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260514088251001",
+    "title": "유승민 손잡은 오세훈…劉 \"서울 지키는 게 중요\" 吳 \"천군만마\"(종합)",
+    "summary": [
+      "(서울=연합뉴스) 이정현 김준태 기자 = 국민의힘 오세훈 서울시장 후보는 6·3 지방선거 공식 후보등록 첫날인 14일 유승민 전 의원과 종로구 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7259b19a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260514178300009",
+    "title": "[미중정상회담] 美재무 \"中, 호르무즈 개방에 할수 있는일 할 것\"",
+    "summary": [
+      "(서울=연합뉴스) 오수진 기자 = 스콧 베선트 미국 재무장관은 14일 \"중국이 호르무즈 해협 재개방을 위해 할 수 있는 일을 할 것\"이라며 우회..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfec6dc33",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260514_0003630256",
+    "title": "부산대 女화장실에 남성 침입해 훔쳐보다 도주…경찰 수사",
+    "summary": [
+      "[부산=뉴시스]진민현 기자 = 부산대학교의 한 건물 내 여자화장실에 남성이 몰래 들어가 여성을 훔쳐보다가 도주하는 사건이 발생, 경찰이 수사에 나섰다.",
+      "14일 부산대와 금정경찰서에 따르면 지난 13일 낮 12시22분께 금정구 부산대 음악관 4층 여자화장실에 정체불명의 남성이 몰래 들어가 여성을 훔쳐보다가 달아났다.",
+      "피해 학생의 신고를 받은 대학 측이 CCTV영상을 확인한 결과, 도주한 사람은 남성으로 확인됐다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nf1e84af9",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260514_0003630266",
+    "title": "이 대통령, 농작물 수급 변동성에 \"데이터 관리로 도움 될 수 없는지 검토하라\"",
+    "summary": [
+      "[서울=뉴시스]김경록 기자 = 이재명 대통령은 14일 청와대 참모진으로부터 농작물 수급 변동성이 크다는 점을 보고받고 \"통계를 넘어선 데이터 관리로 현장에 도움이 될 수 없는지 검토하라\"고 지시했다.",
+      "강유정 청와대 수석대변인은 서면 브리핑을 통해 이날 오후 열린 제33차 수석·보좌관회의에서 이 대통령이 'AI를 활용한 차세대 농수산업 대전환'에 대해 보고 받고 농작물의 수급이 폭락하거나 폭등하는 경우가 있음을 짚으며 이같이 지시했다고 밝혔다."
+    ],
+    "chips": [
+      "#AI",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n211379f2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260514_0003629767",
+    "title": "[6·3정읍]민주당 이학수 \"행복한 보육·교육 환경에 역량 집중\"",
+    "summary": [
+      "[정읍=뉴시스] 김종효 기자 = 제9회 전국동시지방선거 전북 정읍시장선거에 출마하는 민주당 이학수 후보가 지역발전 정책공약으로 '보육·교육' 분야에 대한 세부 공약 내용을 발표했다.",
+      "14일 이학수 후보는 \"민선 8기 동안 아이 키우기 어려운 정읍의 현실을 극복하기 위해 의료·돌봄·생활 인프라 확충에 집중해 왔다\"며 \"민선 9기에도 아이와 부모 모두가 행복한 보육·교육 환경 조성에 정책 역량을 집중하겠다\"고 말했다.",
+      "덧붙여 \"소아외래진료센터와 어."
+    ],
+    "chips": [
+      "#정책",
+      "#정치",
+      "#교육",
       "#의료"
     ]
   },
   {
-    "id": "n08805e73",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260514_0003630040",
-    "title": "中외교부 \"美, 대만문제 신중해야\"…시진핑 언급 재차 강조",
-    "summary": [
-      "[베이징=뉴시스]박정규 특파원 = 시진핑 중국 국가주석이 14일 도널드 트럼프 미국 대통령에게 대만 문제를 신중히 처리해야 한다고 언급한 가운데 중국 외교부가 이 같은 입장을 재차 강조했다.",
-      "궈자쿤 중국 외교부 대변인은 이날 정례브리핑에서 대만 문제와 관련한 질문에 미·중 정상회담에서 시 주석의 발언을 다시 한 번 되풀이했다.",
-      "궈 대변인은 \"시 주석은 대만 문제가 중·미 관계에서 가장 중요한 문제라고 강조했다\"며 \"잘 처리하면 양국 관계는 전반."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9d309a77",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260514_0003630190",
-    "title": "구미시, 스마트 농업 육성 시동…\"중장기 전략 세운다\"",
-    "summary": [
-      "[구미=뉴시스] 박홍식 기자 = 경북 구미시가 스마트 농업 육성을 위해 힘을 모은다.",
-      "구미시는 선산출장소 회의실에서 '스마트농업 육성계획(2026~2030년) 수립 용역 보고회'를 개최했다고 14일 밝혔다.",
-      "정부의 제1차 스마트농업 육성 기본계획(2025~2029년)에 대응해 구미형 스마트농업 발전 전략 마련에 중점을 뒀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n25d07409",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/05/14/2026051416035792375",
-    "title": "'엄빠' 뚱뚱하면 자녀도 뚱뚱, 사실일까…비만 가족, 다이어트 전략은",
-    "summary": [
-      "[정심교의 내몸읽기] 남편이 뚱뚱하면 아내도 뚱뚱하고, 부모가 비만하면 자녀도 비만해질 확률이 높을까.",
-      "이런 '가족 비만화'를 입증할 만한 연구결과가 나와 눈길을 끈다.",
-      "최근 '퍼블릭 헬스(Public Health)'에 실린 연구결과에 따르면 인도에서 약 63만 가구를 분석했더니, 전체 가구의 10%는 한 가구 내 모든 성인이 비만이었고, 약 20%에선 모든 성인이 과체중 상태인 '집단적 패턴'이 관찰됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naeaee075",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260514169800062",
-    "title": "청년 1천55명 우상호 지지 선언…성수고 교장단 등 김진태 지지",
-    "summary": [
-      "(춘천=연합뉴스) 이재현 기자 = 6·3 지방선거 공식 후보 등록 첫날인 13일 후보 등록을 마친 여야 강원도지사 후보들은 지지세 확산에 사활을..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na0d9eab8",
+    "id": "n9defa07b",
     "category": "사회",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/05/14/IFTWSG2RTVCULLSGUQP6B2G2NI/",
-    "title": "서울시, 지방선거 앞두고 불법 현수막 집중 점검",
-    "summary": [
-      "서울시, 지방선거 앞두고 불법 현수막 집중 점검."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n07def566",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260514/133924963/2",
-    "title": "매크로 돌려 야구표 1000장 넘게 예매…4300만 원 챙긴 40대 덜미",
-    "summary": [
-      "매크로 프로그램으로 프로야구 경기 입장권을 대량 예매한 뒤 웃돈을 붙여 되판 40대 남성이 경찰에 적발됐다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc0e15c64",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260514/133924577/2",
-    "title": "‘프렌즈’ 챈들러 역 매튜 페리에 마약 넘긴 중간책, 징역 2년 선고",
-    "summary": [
-      "‘프렌즈’ 주연 매튜 페리에게 치사량의 케타민을 공급한 마약 상담가 에릭 플레밍 씨가 미국 법원에서 징역 2년의 실형을 선고받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc84444e0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/14/2026051417274698237",
-    "title": "\"표 못 구해 난리인데\"…LG전자, 프로야구 단체관람 매너 논란",
-    "summary": [
-      "LG전자 직원들의 잠실야구장 단체 관람을 둘러싸고 관람 매너 논란이 불거졌다.",
-      "지난 13일 SNS(소셜미디어)에는 이날 서울 송파구 잠실야구장에서 열린 LG 트윈스와 삼성 라이온즈 경기와 관련한 사진과 목격담이 잇따라 올라왔다.",
-      "이날 한 누리꾼이 공개한 영상에는 외야 관람석 상당수가 비어 있었고, 일부 좌석에는 인쇄물이 붙어 있어 야구팬들의 궁금증을 자아냈다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n21cfdd3e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/05/14/O6LXH3CMHRGEZKDINIBPU5VTC4/",
-    "title": "경남지사 선거 본격 레이스… 후보 3인 첫날 등록 완료",
-    "summary": [
-      "경남지사 선거 본격 레이스… 후보 3인 첫날 등록 완료."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4a3049b0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260514166400109",
-    "title": "'돈세탁 혐의' 최측근 구금…\"젤렌스키 정치적 타격\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 우크라이나 법원이 자금 세탁 혐의로 재판에 넘겨진 볼로디미르 젤렌스키 대통령의 최측근에 구금 명령을 내렸다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2269824c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/14/MNSDCNJTMM3DGYZQGIZTKYLDME/",
-    "title": "무리뉴 감독 영입 초읽기, 레알 마드리드 페레스 회장 인터뷰 \"홀란(이적설), 그에 대해서는 의견을 밝히지 않겠다\"",
-    "summary": [
-      "[스포츠조선 노주환 기자]\"우리는 늘 최고의 선수를 영입해왔다.",
-      "(홀란)의견을 밝히지 않겠다.\" 스페인 최고 명문 레알 마드리드를 이끌고 있는 플로렌티노 페레스 회장이 이번 여름 '득점 머신' 엘링 홀란(맨체스터 시티)의 레알 마드리드 이적설과 관련해 입을 열었다.",
-      "'의견을 밝히지 않겠다'고 한 발언이 더 큰 추측으로 이어지고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc1cdfcda",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260514167600104",
-    "title": "브릭스 외무장관 회의 인도서 개최…이란, '美 규탄' 동참 촉구",
-    "summary": [
-      "(자카르타=연합뉴스) 손현규 특파원 = 중국과 러시아가 주도하는 비(非)서방 신흥경제국 연합체인 브릭스(BRICS) 회원국 외무장관들이 인도에서..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n68d9aedb",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260514/133926125/1",
-    "title": "27년간 아이들 가르친 퇴직 교사, 사랑의열매에 1억 원 기부",
-    "summary": [
-      "사랑의열매 사회복지공동모금회는 27년간의 교직 생활을 마친 전직 초등교사 홍은경 씨(63·사진)가 1억 원을 기부했다고 14일 밝혔다.",
-      "홍 씨는 “1억 원 기부를 목표로 10년간 준비해 왔다”며 “기부를 하고 나니 숙제를 마친 기분이다.",
-      "A+를 받은 것처럼 벅차고 행복하다”고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne54518ec",
-    "category": "사회",
-    "source": "머니투데이",
     "time": "9분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/14/2026051417560783910",
-    "title": "백악관 \"미중 정상, '호르무즈 해협 열어둬야' 한목소리\"",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/14/GFRGGZTFGA4DMNRVGQZGIMRYGY/",
+    "title": "태양, 숱한 '상탈' 이유? \"스타일리스트가 바지만 갖고 와\" ('에픽카세')",
     "summary": [
-      "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 14일 회담에서 호르무즈 해협이 개방돼야 한다는 데 의견을 같이했다고 백악관이 밝혔다.",
-      "14일 로이터에 따르면 백악관은 이날 중국 베이징에서 열린 미중 정상회담과 관련해 두 정상이 에너지의 자유로운 흐름을 위해 호르무즈 해협이 개방돼야 한다는 데 동의했다고 밝혔다.",
-      "또한 이란이 핵무기를 보유해선 안 된다는 데에도 동의했다고 했다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 빅뱅 태양이 상의 탈의의 이유를 밝혔다.",
+      "14일 유튜브 채널 '에픽카세'에는 '태양을 놀리는 방법'이라는 제목의 영상이 게재됐다.",
+      "이날 에픽하이 멤버들은 각자 타블로는 대성, 투컷은 지드래곤, 미쓰라진은 태양으로 코스프레한 채 태양을 반겨 웃음을 주었다.타블로는 태양을 반기면서 \"조금 실망인 게."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na624376c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://www.asiae.co.kr/article/2026051420212197007",
+    "title": "이란 매체 \"중국 선박, 호르무즈 해협 통항하기 시작\"",
+    "summary": [
+      "일부 중국 관련 선박이 이란의 허가를 받아 호르무즈 해협을 통과하기 시작했다고 이란 매체가 보도했다.",
+      "미국과 중국의 정상회담이 열린 시점에 이란이 우방국인 중국에 통항을 허용하면서 호르무즈 해협을 둘러싼 외교전도 본격화하는 모습이다.이란 파르스 통신은 14일 관련 소식통을 인용해 \"이란 당국의 결정에 따라 전날 밤부터 일부 중국 선박이 호르무즈 해협을 통항하기 시작했다\"고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n61568055",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/future/2026/05/14/2026051414563559905",
+    "title": "\"AI 신약개발 역량 강화\"…유니바, 국책 연구과제 주관기관 선정",
+    "summary": [
+      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] AI(인공지능) 기술 기업 유니바가 과학기술정보통신부가 추진하는 'AIx바이오 혁신연구거점 조성 시범사업'에서 경북대학교 컨소시엄의 세부 주관기관에 선정됐다고 14일 밝혔다.",
+      "이 사업은 AI 기반 신약 개발 역량 강화를 통해 디지털 바이오 전환을 선도하기 위해 추진되는 국책 프로젝트다.",
+      "유니바는 오는 2030년 12월까지 5."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n40e4baad",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/14/2026051420215768007",
+    "title": "\"응원 매너 좀\"…프로야구 인기에 한화VS키움 팬들 신경전",
+    "summary": [
+      "프로야구 한화 이글스와 키움 히어로즈의 경기가 열린 고척스카이돔 관중석에 한화 팬들을 향해 매너를 지켜달라는 안내문이 붙어 논란이다.",
+      "키움 히어로즈는 구단이 붙인 게 아니라며 수거했다고 설명했다.",
+      "14일 온라인 커뮤니티 등에 따르면 고척스카이돔 키움 응원석 쪽에 '이곳은 히어로즈 홈 응원석입니다."
+    ],
+    "chips": [
+      "#KBO"
     ]
   }
 ];
@@ -642,19 +654,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "정치",
     "mentions": "1680건",
     "trend": "+155%"
   }
