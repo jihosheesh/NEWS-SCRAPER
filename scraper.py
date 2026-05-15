@@ -23,7 +23,9 @@ import re
 import os
 import hashlib
 from datetime import datetime, timezone
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from bs4 import BeautifulSoup
+import trafilatura
 
 # ────────────────────────────────────────────────────────────────
 # 설정
@@ -249,6 +251,68 @@ def to_sentences(text, n=3):
     return result[:n]
 
 
+# 저작권 문구, 기자 서명 패턴 제거용
+_COPY_PAT = re.compile(
+    r'저작권자\s*[©ⓒ]\s*.{0,40}무단.{0,20}금지\.?|'
+    r'[가-힣]+\s+기자\s+[a-zA-Z0-9@.\-]+|'
+    r'\([가-힣\s]+=\s*[가-힣]+\s*기자\)|'
+    r'ⓒ\s*[가-힣A-Za-z\s&]+\.|'
+    r'무단\s*전재.*?재배포\s*금지\.?'
+)
+
+def _fetch_body_text(url):
+    """기사 URL → 본문 텍스트 (trafilatura). 실패 시 빈 문자열."""
+    try:
+        downloaded = trafilatura.fetch_url(url, timeout=7)
+        if not downloaded:
+            return ''
+        text = trafilatura.extract(
+            downloaded,
+            include_comments=False,
+            include_tables=False,
+            favor_precision=True,
+            no_fallback=False,
+        )
+        if not text:
+            return ''
+        # 저작권·기자서명 제거
+        text = _COPY_PAT.sub('', text)
+        return re.sub(r'\s+', ' ', text).strip()
+    except Exception:
+        return ''
+
+
+def _enrich_body(article):
+    """summary가 빈약한 기사의 본문을 직접 가져와 요약 강화."""
+    # 이미 2문장 이상이면 스킵 (RSS 단계에서 충분히 확보된 경우)
+    if len(article.get('summary', [])) >= 2:
+        return article
+    body = _fetch_body_text(article.get('url', ''))
+    if not body or len(body) < 60:
+        return article
+    sents = to_sentences(body, n=4)
+    if sents:
+        article['summary'] = sents
+    return article
+
+
+def _enrich_articles(articles):
+    """병렬(8 스레드)로 기사 본문 추출 후 summary 강화."""
+    print(f'\n[본문 추출] {len(articles)}건 병렬 처리 중...')
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        futures = {ex.submit(_enrich_body, a): i for i, a in enumerate(articles)}
+        result  = [None] * len(articles)
+        for fut in as_completed(futures):
+            idx = futures[fut]
+            try:
+                result[idx] = fut.result()
+            except Exception:
+                result[idx] = articles[idx]
+    enriched = sum(1 for a in result if len(a.get('summary', [])) >= 2)
+    print(f'[본문 추출] 완료 — {enriched}/{len(articles)}건 요약 강화')
+    return result
+
+
 def classify_cat(title, desc, default):
     """제목+설명 키워드 빈도로 카테고리 분류"""
     text = title + ' ' + desc
@@ -406,7 +470,12 @@ def scrape():
     for a in combined:
         a.pop('_kw', None)
 
-    return combined[:MAX_TOTAL]
+    final = combined[:MAX_TOTAL]
+
+    # 본문 직접 추출로 summary 강화 (빈약한 Google News RSS 기사 대상)
+    final = _enrich_articles(final)
+
+    return final
 
 
 # ────────────────────────────────────────────────────────────────

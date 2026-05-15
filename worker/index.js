@@ -115,10 +115,9 @@ function getChips(text, extraChip) {
 
 function toSentences(desc, title) {
   if (!desc || desc.length < 15) return [title + '.'];
-  // 제목과 설명이 거의 같으면 제목만 반환
-  const cd = desc.replace(/\s+/g, '').toLowerCase();
-  const ct = title.replace(/\s+/g, '').toLowerCase();
-  if (cd.startsWith(ct.slice(0, 12)) || ct.startsWith(cd.slice(0, 12))) return [title + '.'];
+  // 네이버 description이 title보다 25자 이상 길어야 실제 내용 존재
+  // 짧으면 "제목+출처" 패턴으로 간주하고 title만 반환
+  if (desc.length <= title.length + 25) return [title + '.'];
 
   const parts = desc.split(/(?<=[.!?])\s+|\n+/);
   const result = [];

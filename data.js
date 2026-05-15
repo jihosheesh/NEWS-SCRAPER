@@ -714,6 +714,7 @@ window.buildNewsCard = function(n, i, liked) {
           <span class="time">${n.time}</span>
         </div>
         <h3 class="news-title">${n.title}</h3>
+        <ul class="news-summary">${n.summary.slice(0,2).map(s => `<li>${s}</li>`).join('')}</ul>
         <div class="news-footer">
           <div class="chips">${chips}</div>
           <button class="like-btn${liked ? ' active' : ''}" data-idx="${i}" aria-label="좋아요">
