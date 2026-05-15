@@ -714,7 +714,6 @@ window.buildNewsCard = function(n, i, liked) {
           <span class="time">${n.time}</span>
         </div>
         <h3 class="news-title">${n.title}</h3>
-        <ul class="news-summary">${n.summary.map(s => `<li>${s}</li>`).join('')}</ul>
         <div class="news-footer">
           <div class="chips">${chips}</div>
           <button class="like-btn${liked ? ' active' : ''}" data-idx="${i}" aria-label="좋아요">
@@ -724,6 +723,7 @@ window.buildNewsCard = function(n, i, liked) {
             </svg>
           </button>
         </div>
+        <p class="card-flip-hint">탭하여 핵심 내용 보기 →</p>
       </div>
       <div class="card-back">
         <div class="card-img" style="background:${g.bg}">
@@ -735,21 +735,21 @@ window.buildNewsCard = function(n, i, liked) {
             </svg>
           </button>
         </div>
-        <a class="card-read-btn" href="${n.url || '#'}" target="_blank" rel="noopener noreferrer">
-          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-            <polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
-          </svg>
-          뉴스 본문 보기
-        </a>
         <div class="card-body">
           <h3 class="card-back-title">${n.title}</h3>
+          <div class="card-section-label">📌 핵심 내용</div>
           <ul class="card-back-list">${n.summary.map(s => `<li>${s}</li>`).join('')}</ul>
           <div class="card-back-meta">
             <span class="source">${n.source}</span><span class="dot"></span><span class="time">${n.time}</span>
           </div>
-          <div class="chips" style="margin-top:6px">${chips}</div>
-          <p class="card-tap-hint">탭하여 닫기</p>
+          <div class="chips" style="margin-top:8px">${chips}</div>
+          <a class="card-read-btn" href="${n.url || '#'}" target="_blank" rel="noopener noreferrer">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+              <polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+            뉴스 본문 보기
+          </a>
         </div>
       </div>
     </article>

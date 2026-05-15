@@ -221,7 +221,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 .card-img {
-  height: 118px;
+  height: 88px;
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
@@ -254,12 +254,27 @@ a { color: inherit; text-decoration: none; }
 .card-close:hover { background: rgba(0,0,0,0.6); }
 
 .card-body {
-  padding: 14px 16px 16px;
+  padding: 16px 16px 20px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
 }
-/* 뉴스 본문 보기 버튼 */
+
+/* 핵심 내용 섹션 레이블 */
+.card-section-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  text-transform: uppercase;
+  opacity: 0.9;
+  padding: 6px 10px;
+  background: rgba(var(--accent-rgb, 99,102,241), 0.1);
+  border-radius: 6px;
+  border-left: 3px solid var(--accent);
+}
+
+/* 뉴스 본문 보기 버튼 — 뒷면 하단 */
 .card-read-btn {
   display: flex;
   align-items: center;
@@ -271,23 +286,16 @@ a { color: inherit; text-decoration: none; }
   font-size: 13px;
   font-weight: 600;
   letter-spacing: 0.01em;
+  border-radius: 10px;
   transition: opacity .15s;
-  flex-shrink: 0;
+  margin-top: 4px;
 }
 .card-read-btn:hover { opacity: 0.88; }
 
-.card-tap-hint {
-  font-size: 11px;
-  color: var(--text-mute);
-  text-align: center;
-  opacity: 0.45;
-  padding-top: 6px;
-  letter-spacing: 0.02em;
-}
 .card-back-title {
   font-size: 15.5px;
   font-weight: 700;
-  line-height: 1.4;
+  line-height: 1.45;
   letter-spacing: -0.01em;
 }
 .card-back-text {
@@ -301,22 +309,22 @@ a { color: inherit; text-decoration: none; }
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 7px;
+  gap: 10px;
 }
 .card-back-list li {
-  font-size: 13px;
+  font-size: 13.5px;
   color: var(--text-sub);
-  line-height: 1.6;
-  padding-left: 14px;
+  line-height: 1.65;
+  padding-left: 18px;
   position: relative;
 }
 .card-back-list li::before {
-  content: '•';
+  content: '▸';
   position: absolute;
   left: 0;
   color: var(--accent);
-  font-size: 14px;
-  line-height: 1.45;
+  font-size: 13px;
+  line-height: 1.6;
 }
 .card-back-meta {
   display: flex;
@@ -357,6 +365,19 @@ a { color: inherit; text-decoration: none; }
   line-height: 1.4;
   margin-bottom: 10px;
   letter-spacing: -0.01em;
+}
+
+/* 앞면 하단 힌트 */
+.card-flip-hint {
+  font-size: 11px;
+  color: var(--text-mute);
+  opacity: 0.5;
+  margin-top: 10px;
+  text-align: right;
+  letter-spacing: 0.02em;
+}
+.news-card:not(.flipped) .card-front:hover .card-flip-hint {
+  opacity: 0.85;
 }
 
 .news-summary {
