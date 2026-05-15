@@ -263,7 +263,29 @@ _COPY_PAT = re.compile(
 def _fetch_body_text(url):
     """기사 URL → 본문 텍스트 (trafilatura). 실패 시 빈 문자열."""
     try:
-        downloaded = trafilatura.fetch_url(url, timeout=7)
+        # Google News 리다이렉트 URL → 실제 기사 URL로 먼저 변환
+        if 'news.google.com' in url:
+            try:
+                r = requests.get(url, headers=HEADERS, timeout=8, allow_redirects=True)
+                real_url = r.url
+                # 여전히 google.com이면 HTML에서 canonical URL 시도
+                if 'google.com' in real_url:
+                    soup = BeautifulSoup(r.text, 'html.parser')
+                    canon = soup.find('link', rel='canonical')
+                    if canon and canon.get('href') and 'google.com' not in canon['href']:
+                        real_url = canon['href']
+                    else:
+                        # c= 파라미터에서 URL 추출 시도
+                        m = re.search(r'url=(https?://[^&"\']+)', r.text)
+                        if m:
+                            from urllib.parse import unquote
+                            real_url = unquote(m.group(1))
+                if 'google.com' not in real_url:
+                    url = real_url
+            except Exception:
+                pass  # 리다이렉트 실패 시 원본 URL로 계속
+
+        downloaded = trafilatura.fetch_url(url, timeout=10)
         if not downloaded:
             return ''
         text = trafilatura.extract(
@@ -284,14 +306,14 @@ def _fetch_body_text(url):
 
 def _enrich_body(article):
     """summary가 빈약한 기사의 본문을 직접 가져와 요약 강화."""
-    # 이미 2문장 이상이면 스킵 (RSS 단계에서 충분히 확보된 경우)
-    if len(article.get('summary', [])) >= 2:
+    # 이미 3문장 이상이면 스킵 (RSS 단계에서 충분히 확보된 경우)
+    if len(article.get('summary', [])) >= 3:
         return article
     body = _fetch_body_text(article.get('url', ''))
-    if not body or len(body) < 60:
+    if not body or len(body) < 80:
         return article
     sents = to_sentences(body, n=6)
-    if sents:
+    if len(sents) >= 2:
         article['summary'] = sents
     return article
 
