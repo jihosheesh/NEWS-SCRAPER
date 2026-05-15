@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-15 13:29:07
+// 마지막 업데이트: 2026-05-15 15:56:26
 window.NEWS_DB = [
   {
     "id": "n8e35c9b3",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "5시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRWNsRUlCZFg1LWdxZG1hNWlSWFZjaDN2UFFGTXM3cmRJdmtQelB2cUlBMGl0LVNYeTEwS1pvOTFCdEw1ZTJXaEk0VzNrdThIYkhKZUl4Y3R2RzlvRlNsV2gydDdBcVFwOWxFemZyNlg4SGM?oc=5",
     "title": "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\"",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n8781e79c",
     "category": "IT",
     "source": "경향신문",
-    "time": "6시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
     "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n76cd35a4",
     "category": "경제",
     "source": "이코노미트리뷴",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCVVU1ZnBoUzFRSHAtaTUxaUVEN0ZCQW9WVG12bVRHQnJOSzd4Y0pueEZPNkhGd0JCWEt4U3ZMcjdXU3FWeGlneDhrNzd2UmNQdHlxbDFHWmlLdEhMenRVQUhVRVVOd3d3d1lKajdMd1poSi1CWmJv?oc=5",
     "title": "국채금리 4.18%·환율 1500원 턱밑…코스피 8000선 돌파 후 급락",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n93646d6a",
     "category": "IT",
     "source": "레디앙",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82UlcxS3RaeXotQTlnaE5SOTNnbEtGand6NmdYZW9LYzFkbE0yZ1M4SUItbkk0Sk94Tk56aHRMS1JPcjE3NVNicGV3R09lVnotUWtLZFVxTXpEX2Z1TVBGN2lzcEs5TzAt?oc=5",
     "title": "美, 엔비디아 H200 중국 판매 일부 허용...AI 반도체 패권 경쟁 새 국면",
     "summary": [
@@ -67,7 +67,7 @@ window.NEWS_DB = [
     "id": "ne880c824",
     "category": "IT",
     "source": "전국뉴스",
-    "time": "10시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLM2c5Tl9KdVUxSkNXdDVhcTRjeWp3SnBPakg3UnMzRnlzb3F2ajFteFBlZkp0ZDVBakhGeGRGWFZkNUYxZjV0b3hEM01WN1RCUWE1RHdqNUlobWJORW51VXpVRWtudUxTUnBtWkhyQmU?oc=5",
     "title": "[전남벤처도약발사대]한국산업은행·포스코홀딩스, 전남서 벤처생태계 협력 강화…“지역 스타트업 유니콘 도약 지원”",
     "summary": [
@@ -121,6 +121,20 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nba668fc0",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -286,21 +300,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0fd44a05",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "148일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
-    "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
-    "summary": [
-      "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\" 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nb36dbf94",
     "category": "사회",
     "source": "서울특별시",
@@ -382,266 +381,252 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n151d7b24",
+    "id": "nb51126da",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003632058",
-    "title": "이란 외무 \"미국 못 믿어…대화 계속하자는 메시지는 받아\"",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/05/16/MVCXOLGUKRGW3FNXXPILOHKAHA/",
+    "title": "“호황기 파격 보상 원하면, 불황기 저임금·대량해고 받아들여야”",
     "summary": [
-      "[서울=뉴시스] 신효령 기자 = 아바스 아라그치 이란 외무장관이 미국에 대한 강한 불신을 드러내면서도 외교적 해법의 필요성을 강조했다.",
-      "미국과 이란이 핵 프로그램과 호르무즈 해협 통항 문제를 놓고 대치하는 가운데, 미국 측으로부터 대화를 이어가자는 메시지를 받았다고도 밝혔다.",
-      "인도 일간 타임스오브인디아(TOI)는 15일(현지시간) 아라그치 장관이 인도 뉴델리에서 열린 기자회견에서 미국으로부터 협상 지속을 희망한다는 메시지를 받았다고 보도했다."
+      "“호황기 파격 보상 원하면, 불황기 저임금·대량해고 받아들여야”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n50117c26",
+    "id": "n4ff30acb",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "조선일보",
     "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260515196900053",
-    "title": "[기초의원 후보 명단] 경북-2(끝)",
+    "url": "https://www.chosun.com/economy/tech_it/2026/05/16/3XYGTQO3IJCTZKEN26ZQFAP3XM/",
+    "title": "“임원은 불황 때도 3880억 성과급… 우리만 희생해야 하나”",
     "summary": [
-      "※ 정당명 약칭 : 더불어민주당 = 민 / 국민의힘 = 국 / 조국혁신당 = 혁 / 진보당 = 진 / 개혁신당 = 신 / 기본소득 = 기 / 사..."
+      "“임원은 불황 때도 3880억 성과급… 우리만 희생해야 하나”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na6e50973",
+    "id": "neba177f3",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260515194900053",
-    "title": "[후보등록] 대구·경북 51개 선거구 후보 70명 무투표 당선",
-    "summary": [
-      "(대구=연합뉴스) 최수호 기자 = 6·3 전국동시지방선거 후보 등록 마감 결과 대구·경북(TK) 지역 전체 출마자 가운데 70명이 무투표 당선됐..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1f0b5359",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003632064",
-    "title": "'팀 내 홈런 선두' 한화 문현빈 \"나는 형들보다 안타를 더 많이 칠 것\"",
-    "summary": [
-      "[수원=뉴시스]문채현 기자 = 프로야구 한화 이글스의 문현빈이 팀 내 홈런 1위 자리를 되찾았다.",
-      "그럼에도 문현빈은 형들과 홈런 경쟁을 하지 않겠다며 다른 노선을 선언했다.",
-      "문현빈은 15일 수원 KT위즈파크에서 열린 2026 신한 쏠 KBO리그 한화 이글스와의 원정 경기에 3번 타자 좌익수로 선발 출전해 4타수 2안타 1홈런 2타점 1득점을 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n2eb6c24a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260515195000054",
-    "title": "[기초비례 후보 명단] 광주",
-    "summary": [
-      "※ 정당명 약칭 : 더불어민주당 = 민 / 국민의힘 = 국 / 조국혁신당 = 혁 / 진보당 = 진 / 개혁신당 = 신 / 정의당 = 정 / 무소..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd39abd4f",
-    "category": "스포츠",
-    "source": "연합뉴스",
+    "source": "조선일보",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260512177253007",
-    "title": "[프로야구] 16일 선발투수",
+    "url": "https://www.chosun.com/economy/economy_general/2026/05/16/EDAES65UMBCSFCIDJ6F2EW56QY/",
+    "title": "대장주에 쏠린 잔치… 기업으로 들어가는 돈줄은 막혔다",
     "summary": [
-      "[프로야구] 16일 선발투수."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc312ff19",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260514_0003630033",
-    "title": "[6·3지선]전남 기초의회 후보 4명 세금체납…최고액 4448만원",
-    "summary": [
-      "[광주=뉴시스] 류형근 기자 = 6·3지방선거 후보 등록이 마감된 가운데 광주와 전남지역 출마자 775명 중 4명이 세금을 체납한 것으로 나타났다.",
-      "15일 중앙선거관리위원회 후보자 등록정보에 따르면 제9회 전국동시지방선거에는 총 775명이 후보 등록했으며 이 중 전남지역 구·시·군의회의원(기초) 출마자 4명이 세금을 체납 한 것으로 확인됐다.",
-      "장흥군가선거구에 출마한 무소속의 김익만 후보는 총 4448만7000원을 납부하지 않아 가장 많은 세금."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne51d65aa",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/15/G4ZWGMDDGAZDSN3FGRSDKOBUMM/",
-    "title": "8회말 만루 홈런 동점→9회초 밀어내기 결승점...'손주영 무사 1,2루 막고 세이브' LG, SSG에 8-7 승리 [인천 리뷰]",
-    "summary": [
-      "[OSEN=문학, 한용섭 기자] 프로야구 LG 트윈스가 SSG 랜더스 상대로 승리했다.",
-      "LG는 15일 인천 SSG랜더스필드에서 열린 2026 KBO리그 SSG와 경기에서 8-7 한 점 차 승리를 거뒀다.",
-      "LG 선발 치리노스는 5이닝 4피안타 1볼넷 1탈삼진 3실점(2자책)을 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n1ac06df3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/15/GQYDMNRQMQ4TMNJUGY2DKZBYGU/",
-    "title": "\"우승하면 쿠싱도 반지 만들어주세요\" 류현진 한마디…고별전서 세이브까지, 아름다운 마지막 인사 나누다 [오!쎈 수원]",
-    "summary": [
-      "[OSEN=수원, 조은혜 기자] 프로야구 한화 이글스 잭 쿠싱이 마지막 등판에서 세이브를 작성하며 유종의 미를 거두고 팀을 떠난다.김경문 감독이 이끄는 한화는 15일 수원 케이티위즈파크에서 열린 2026 신한 SOL KBO리그 KT와의 원정경기에서 5-3으로 승리했다.",
-      "이날 승리로 한화는 시즌 전적 19승21패를 만들었다.",
-      "반면 2연패에 빠진 KT는 24승."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n525d9851",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/G43TKMTDGNQWKNRTMYZTCMBVME/",
-    "title": "박지현 \"데뷔 전 홍어 6만여 마리 손질‥母 힘드시니까\" ('전현무계획3') [핫피플]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 박지현이 과거 수산물 도매업을 했다고 밝혔다.",
-      "15일 방송된 MBN 예능 '전현무계획3' 31회에서는 전현무, 곽튜브와 함께 먹친구로 나선 트로트 가수 박지현의 모습이 담겼다.",
-      "이들은 강원도 삼척의 수산시장으로 향하며 대화를 나눴다."
+      "대장주에 쏠린 잔치… 기업으로 들어가는 돈줄은 막혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncd8b33ba",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003632078",
-    "title": "[6·3오산]개혁신당 송진영 \"조용호·전도현 단일화는 정치적 야합\"",
+    "id": "nf1f032b6",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/05/16/HTMZHC5WLVAYTFRNOFIG34SRRA/",
+    "title": "영끌 대출 받고 퇴직연금 넣고… 외국인이 내던진 주식 다 받는 개미",
     "summary": [
-      "[오산=뉴시스] 정숭환 기자 = 오는 6·3 전국동시지방선거 오산시장 선거가 더불어민주당 조용호, 국민의힘 이권재, 개혁신당 송진영 후보 간 3파전으로 재편된 가운데 송 후보는 조국혁신당 전도현 후보와 조 후보와의 단일화를 비판하고 나섰다.",
-      "앞서 조국혁신당 전도현 예비후보는 15일 후보사퇴 후 조 후보 지지를 선언했다.",
-      "송 후보는 이날 오후 성명을 통해 \"특정 이념이나 정책적 공감대 없이 특정 후보 반대와 기득권 수호를 목적으로 이뤄진 후보 단."
+      "영끌 대출 받고 퇴직연금 넣고… 외국인이 내던진 주식 다 받는 개미."
     ],
     "chips": [
-      "#정책",
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n4a94c9e3",
+    "id": "nf261e0f1",
     "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260515/133933975/1",
-    "title": "‘미코’ 출신 장윤정, 명문대 딸 졸업 영상 공개",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632116",
+    "title": "[6·3지선]광주·전남 단체장·교육감 후보 평균 재산 12.7억…최고 261억",
     "summary": [
-      "미스코리아 출신 방송인 장윤정이 미국 대학을 졸업한 딸의 모습을 공개했다.",
-      "장윤정은 지난달 유튜브 채널 ‘70년생 장윤정’에 미국 유학 중인 첫째 딸의 졸업식을 방문하는 영상을 올렸다.장윤정은 영상에서 둘째 딸과 함께 미국 시애틀을 찾았다.",
-      "그는 큰딸을 만나 “졸업 축하해”라고 인사했다.장윤정은 첫째 딸이 다니는 워싱턴대학교 캠퍼스도 둘러봤다."
+      "[광주=뉴시스]박기웅 기자 = 6·3지방선거 출마 후보자 가운데 화순군수 선거에 도전하는 무소속 김회수 후보가 261억원대의 재산을 신고해 최고 자산가로 나타났다.",
+      "광역·기초 자치단체장과 교육감 후보들의 평균 재산은 12억7500만원 수준인 것으로 집계됐다.",
+      "15일 중앙선거관리위원회 선거통계시스템에 따르면 전남광주통합특별시 시장과 교육감, 기초자치단체장 후보 82명의 신고 재산 총액은 1045억5699만8000원이다."
     ],
     "chips": [
+      "#정치",
       "#교육"
     ]
   },
   {
-    "id": "n03247e44",
+    "id": "ne43aa5c5",
     "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/GIZDCYRXGAYDAYTFMZRDIZRQGY/",
-    "title": "하주연도 깜짝..서인영 \"남자친구 있다\" 쏘쿨한 솔직 고백 ('안녕하셈요')",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632115",
+    "title": "6·3 재보선 후보 최다 재산 신고는 김용남, 128억원…기초비례 후보에 1000억대 자산가도(종합)",
     "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 쥬얼리 출신 서인영이 깜짝 열애 사실을 고백해 눈길을 끌었다.15일 유튜브 채널 ‘안녕하셈요’에는 ‘쥬얼리 하주연이 개과천선 서인영 출연 안 한 이유 | 독신의 삶’이라는 제목의 영상이 공개됐다.이날 영상에서는 현재 연예계 활동보다 일반 직장인 생활에 가까운 삶을 살고 있는 하주연의 근황이."
+      "[서울=뉴시스] 김난영 김지훈 우지은 조기용 기자 = 6·3 지방선거 광역단체장 후보 중 최다 재산 신고자는 오세훈 국민의힘 서울시장 후보로 나타났다.",
+      "지방선거와 동시에 치러지는 국회의원 재보선 후보 중에서는 경기 평택을에 출마한 김용남 민주당 후보가 127억7049만 원을 신고해 가장 많았다.",
+      "이밖에 기초비례 후보자 중 1000억 원대 자산가도 있어 눈길을 끌었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne080bf7a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516000500099",
+    "title": "민주콩고서 또다시 에볼라 발병…\"사망자 발생\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)에서 에볼라 발병이 또다시 확인됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n555f13dd",
+    "id": "n14235d40",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516000700057",
+    "title": "[후보등록] 울산 10명 중 4명꼴 전과 보유…최다 11건도",
+    "summary": [
+      "(울산=연합뉴스) 장지현 기자 = 6·3 지방선거에 출마한 울산지역 후보자의 10명 중 4명은 전과가 있는 것으로 확인됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n94b00b15",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516000400061",
+    "title": "[후보등록] '77세 최고령·19세 최연소'…경기 지방선거 이색 후보들",
+    "summary": [
+      "(수원=연합뉴스) 최해민 기자 = 제9회 전국동시지방선거 후보 등록이 15일 마감된 가운데 경기지역 선거에 출마한 이색 후보들의 면면이 유권자들..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n63492846",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516000600057",
+    "title": "[후보등록] 울산 출마자 재산 최고액 120억원…최저는 -5억원",
+    "summary": [
+      "(울산=연합뉴스) 장지현 기자 = 6·3 지방선거 후보 등록 마감 결과 울산지역 시장, 교육감, 기초단체장, 광역·기초의원 선거 출마자 총 18..."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n16bb5d6a",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260515202000072",
+    "title": "미 국채금리, 워시 연준의장 취임 앞두고 급등세…30년물 5.1%",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 제롬 파월 미 연방준비제도(Fed·연준) 의장이 15일(현지시간) 의장직 임기를 종료하고 케빈 워시 차기 의..."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n14de67da",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260516/133934196/1",
+    "title": "中 왕이 “시진핑, 트럼프 초청 수락…올가을 미국 국빈 방문”",
+    "summary": [
+      "시진핑 중국 국가주석이 도널드 트럼프 미국 대통령의 미국 방문 초청을 수락하고 올가을 미국을 국빈 방문할 예정이라고 중국 관영 신화통신이 15일 보도했다.신화통신은 왕이 중국 외교부장의 정상회담 관련 언론 브리핑을 인용해 시 주석이 트럼프 대통령의 초청에 따라 올해 가을 미국을 방문할 예정이라고 전했다.",
+      "다만 구체적인 일정은 공개하지 않았다.트럼프 대통령은 전날 베이징에서 열린 국빈 만찬에서 건배사를 통해 시 주석과 부인 펑리위안 여사에게 9월."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9be386e7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260516/133934185/1",
+    "title": "전국 대부분 낮 30도 이상…온열질환 유의",
+    "summary": [
+      "토요일인 16일은 내륙을 중심으로 낮과 밤의 기온차가 크겠다.",
+      "전국 대부분 지역에서 낮 기온이 30도 이상으로 올라 덥겠다.",
+      "기상청은 “일부 지역에서는 최고체감온도가 31도 안팎으로 올라 덥겠다”며 “온열질환, 식중독 예방을 위해 각별히 유의하기 바란다”고 밝혔다.체감온도는 기온에 습도의 영향이 더해져 사람이 느끼는 더위를 정량적으로 나타낸 온도로, 습도 약 55%를 기준으로 습도가 10% 증감함에 따라 체감 온도가 약 1도 증감한다.당분간 전."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f41f0d1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260516/133934182/1",
+    "title": "“이혼했다” 거짓말에 속아 상간녀 소송까지…“남성에 구상권 청구 가능”",
+    "summary": [
+      "이혼했다는 상대 남성의 거짓말에 속아 교제했다가 상간녀 소송을 당하고 거액의 위자료를 혼자 부담하게 된 여성이 남성을 상대로 손해를 배상받을 수 있다는 법조계 조언이 나왔다.15일 YTN 라디오 ‘조인섭 변호사의 상담소’에는 제약회사 영업사원으로 소개하고 아내와는 따로산 지 오래됐다는 유부남과 만나다 상간녀 소송을 당한 사연자 A씨의 사례가 소개됐다.사연에 따르면 A씨는 “이혼한 것이나 다름없다”는 남자의 말을 믿고 교제를 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n69a6c814",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260516/133934179/1",
+    "title": "당진 국도서 트랙터·SUV 등 4대 사고…5명 다쳐 이송",
+    "summary": [
+      "15일 오후 9시 6분께 충남 당진 합덕읍 성동리 성동교차로 인근 32번 국도에서 스포츠유틸리티차량(SUV) 등 3대가 추돌했다.당진경찰서 등에 따르면 이 사고로 50대 여성 등 5명이 경상을 입고 병원에 이송됐으나 다행히 큰 부상은 아닌 것으로 전해졌다.조사 결과 2차로에서 주행 중인 SUV가 앞서가던 트랙터를 들이받은 뒤 1차로로 밀려난 트랙터를 뒤따라오던 그랜저가 추돌하면서 3중 추돌사고로 이어졌다.또 뒤이어 오던 소형 SUV가 사고 현장."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n191da26c",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/15/2026051519494875415",
-    "title": "'7:3→만루포 일격→밀어내기 재역전' 1점 차 손주영이 지켰다, 'SSG에 4연승' LG 단독 2위 도약 [인천 현장리뷰]",
+    "time": "41분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051521484975446",
+    "title": "\"역시 입 조심해야 돼요\" 내가 1위! 말하자마자 홈런-홈런-홈런, 한화 문현빈도 형들이 무섭다",
     "summary": [
-      "LG 트윈스가 극적인 승리로 SSG 랜더스전 4전 전승 강세를 이어갔다.",
-      "새 마무리 손주영이 완벽한 투구로 팀 승리를 지켜냈다.",
-      "LG는 15일 인천 SSG랜더스필드에서 열린 SSG 랜더스와 2026 신한 SOL KBO리그 방문경기에서 9회초 밀어내기 볼넷으로 8-7 신승을 거뒀다."
+      "\"역시 (사람은) 입을 조심해야 해요.\" 짜릿한 역전 투런으로 한화 이글스를 이끈 문현빈(22)이 더 펄펄 나는 형들의 활약에 두 손 두 발을 다 들었다.",
+      "문현빈은 15일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 정규시즌 KT 위즈와 방문경기에서 3번 타자 및 좌익수로 선발 출장해 4타수 2안타(1홈런) 2타점 1득점 1삼진으로 한화의 5-3 승리를 이끌었다.",
+      "KT가 11안타, 한화가 8안타로 타격전이 펼쳐진 가운데 중심 타선의."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nd9348240",
+    "id": "n80e838dd",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/15/2026051521482289164",
-    "title": "트럼프 방중 후 미일 정상 통화…다카이치 \"흔들림 없는 동행 확인\"",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632111",
+    "title": "[6·3지선]후보등록 명단-서울 자치구청장",
     "summary": [
-      "다카이치 사나에 일본 총리가 도널드 트럼프 미국 대통령으로 부터 중국과의 정상회담에 대해 상세한 설명을 들었다고 밝혔다.",
-      "15일 일본 지지통신 등에 따르면 다카이치 총리는 이날 트럼프 대통령과 통화한 뒤 총리 관저에서 기자들과 만나 \"트럼프 대통령이 대화 내용을 공개하지 않는다는 전제로 자신의 중국 방문에 대해 상세히 설명했다\"고 밝혔다.",
-      "다카이치 총리는 이번 통화를 통해 \"흔들림 없는 미일 동맹을 확인할 수 있었다\"고 말했다."
+      "[서울=뉴시스] 박대로 기자 = *이름(정당·성별·나이·재산·병역·현 체납액·전과 순), 더불어민주당-민/국민의힘-국/조국혁신당-조/개혁신당-혁/진보당-진/정의당-정/기본소득당-기/무소속-무 <서울 자치구청장> ◇종로구 ▲유찬종(민·66·40억6021만원·군필·0·0) ▲정문헌(국·60·26억2526만원·군필·0·0) ◇중구 ▲이동현(민·34·11억3032만원·군필·0·0) ▲김길성(국·60·9억4085만원·미필·0·0) ▲길기영(혁·65·38."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb3d62eaa",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://www.asiae.co.kr/article/2026051522092213009",
-    "title": "경남선관위, '수강료 대납 혐의' 입후보예정자 검찰 고발",
-    "summary": [
-      "경남선거관리위원회가 제9회 전국동시지방선거와 관련해 수강료를 대납한 혐의를 받는 입후보 예정자를 지난 14일 검찰에 고발했다고 밝혔다.",
-      "경남선관위에 따르면 입후보예정자 A 씨는 지난해 9월 중순께 선거구민인 수강생 3명의 지역문화 강좌 수강료를 대신 내 준 혐의를 받는다.",
-      "공직선거법은 후보자가 되고자 하는 자는 당해 선거구 안에 있는 자나 기관, 단체, 시설에 기부행위를 할 수 없다고 규정하고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4c8fadbd",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/15/2026051521593570388",
-    "title": "환자와 부적절한 관계로 임신까지…영국 간호사 징역형",
-    "summary": [
-      "자신이 근무하던 병원의 정신과 환자와 부적절한 성관계를 맺고 임신까지 한 영국의 30대 간호사가 실형을 선고받았다.",
-      "지난 13일(현지시각) 데일리메일에 따르면 영국 브리스틀 형사법원은 정신질환을 앓고 있는 환자와 성적 행위를 한 혐의 등으로 기소된 전직 간호사 리디아 메이 그린(30)에게 징역 2년 4개월을 선고했다.",
-      "사건은 2021년으로 거슬러 올라간다."
-    ],
-    "chips": [
-      "#의료"
+      "#뉴스"
     ]
   }
 ];
@@ -650,21 +635,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "KBO",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
