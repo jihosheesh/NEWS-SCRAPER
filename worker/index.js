@@ -125,7 +125,7 @@ function toSentences(desc, title) {
     const s = p.trim();
     if (s.length < 15) continue;
     result.push(s.endsWith('.') || s.endsWith('!') || s.endsWith('?') ? s : s + '.');
-    if (result.length >= 3) break;
+    if (result.length >= 5) break;
   }
   if (!result.length) {
     const chunk = desc.slice(0, 150).replace(/\s+\S+$/, '');

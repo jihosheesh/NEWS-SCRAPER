@@ -290,7 +290,7 @@ def _enrich_body(article):
     body = _fetch_body_text(article.get('url', ''))
     if not body or len(body) < 60:
         return article
-    sents = to_sentences(body, n=4)
+    sents = to_sentences(body, n=6)
     if sents:
         article['summary'] = sents
     return article
