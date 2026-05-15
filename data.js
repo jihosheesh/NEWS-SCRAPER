@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-15 17:22:37
+// 마지막 업데이트: 2026-05-15 18:29:34
 window.NEWS_DB = [
   {
     "id": "n8e35c9b3",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRWNsRUlCZFg1LWdxZG1hNWlSWFZjaDN2UFFGTXM3cmRJdmtQelB2cUlBMGl0LVNYeTEwS1pvOTFCdEw1ZTJXaEk0VzNrdThIYkhKZUl4Y3R2RzlvRlNsV2gydDdBcVFwOWxFemZyNlg4SGM?oc=5",
     "title": "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\"",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n7c5c07a7",
     "category": "경제",
     "source": "프리진경제",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
     "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n8781e79c",
     "category": "IT",
     "source": "경향신문",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
     "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n76cd35a4",
     "category": "경제",
     "source": "이코노미트리뷴",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCVVU1ZnBoUzFRSHAtaTUxaUVEN0ZCQW9WVG12bVRHQnJOSzd4Y0pueEZPNkhGd0JCWEt4U3ZMcjdXU3FWeGlneDhrNzd2UmNQdHlxbDFHWmlLdEhMenRVQUhVRVVOd3d3d1lKajdMd1poSi1CWmJv?oc=5",
     "title": "국채금리 4.18%·환율 1500원 턱밑…코스피 8000선 돌파 후 급락",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "n93646d6a",
     "category": "IT",
     "source": "레디앙",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82UlcxS3RaeXotQTlnaE5SOTNnbEtGand6NmdYZW9LYzFkbE0yZ1M4SUItbkk0Sk94Tk56aHRMS1JPcjE3NVNicGV3R09lVnotUWtLZFVxTXpEX2Z1TVBGN2lzcEs5TzAt?oc=5",
     "title": "美, 엔비디아 H200 중국 판매 일부 허용...AI 반도체 패권 경쟁 새 국면",
     "summary": [
@@ -81,7 +81,7 @@ window.NEWS_DB = [
     "id": "ne880c824",
     "category": "IT",
     "source": "전국뉴스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLM2c5Tl9KdVUxSkNXdDVhcTRjeWp3SnBPakg3UnMzRnlzb3F2ajFteFBlZkp0ZDVBakhGeGRGWFZkNUYxZjV0b3hEM01WN1RCUWE1RHdqNUlobWJORW51VXpVRWtudUxTUnBtWkhyQmU?oc=5",
     "title": "[전남벤처도약발사대]한국산업은행·포스코홀딩스, 전남서 벤처생태계 협력 강화…“지역 스타트업 유니콘 도약 지원”",
     "summary": [
@@ -315,10 +315,84 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8eb83986",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516003200002",
+    "title": "달러-원, 美 주가지수 낙폭 축소에 상승분 일부 반납…1,497.50원 마감",
+    "summary": [
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 오름폭을 소폭 좁히며 1,490원대 후반에서 장을 마쳤다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "n84434b7a",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632124",
+    "title": "美에너지장관 \"중국의 미국산 원유 수입 늘어날 것\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미중 정상회담에서 중국의 미국산 원유 수입 확대가 논의된 것으로 알려진 가운데, 크리스 라이트 미국 에너지부 장관은 15일(현지 시간) 중국의 미국산 원유 수입이 늘어날 것이라고 밝혔다.",
+      "라이트 장관은 이날 CNBC인터뷰에서 \"전세계적으로 중국은 현재 세계 최대의 원유 및 천연가스 수입국이고, 따라서 (미중간) 자연스럽게 에너지 교역이 이뤄지고 있다\"며 \"앞으로 중국의 미국산 석유 수입이 증가할 것으로 예상한."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "n19181d57",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516000551099",
+    "title": "민주콩고·우간다서 또 에볼라 발병…\"사망자 발생\"(종합)",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)과 우간다에서 에볼라 발병이 또다시 확인됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8fe5213e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516002800075",
+    "title": "반유대주의 공격 늘자 X도 테러·혐오 콘텐츠 단속 강화",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 최근 영국에서 반(反)유대주의 범죄가 발생한 가운데 사회관계망서비스(SNS) 책임론이 불거지자 엑스(..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n76f4d577",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632122",
+    "title": "앤트로픽, '1349조원 몸값'으로 45조원 투자 유치",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 인공지능(AI) 스타트업 앤트로픽이 기업공개(IPO)를 앞두고 기업가치 9000억 달러(약 1348조6000억 원) 기준으로 300억 달러(약 44조9500억 원) 이상의 신규 투자 유치에 나섰다고 15일(현지 시간) 월스트리트저널(WSJ)이 보도했다.",
+      "이번 투자 유치는 그리녹스 캐피털, 세쿼이아 캐피털, 드래고니어, 알티미터 캐피털 등이 공동 주도하고 있는 것으로 알려졌다.",
+      "한 관계자는 \"아직 거래가 최종 마무리."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nf22ddfee",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "28분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151894",
     "title": "반도체산업협회 \"삼성전자 파업, 반도체 생태계 악영향...협상해야\"",
     "summary": [
@@ -333,10 +407,38 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc069b38b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/05/16/BLDNDMCYJFD5NJP6S2MZEDQBXE/",
+    "title": "소셜미디어 부작용과 ‘보이지 않는 비용'",
+    "summary": [
+      "소셜미디어 부작용과 ‘보이지 않는 비용'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n546344ac",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/international/2026/05/16/E3TSJHRNNJDDJNRCXZ7RXGYLMI/",
+    "title": "2500만년 호수 바닥이 내는 잠수함 소리… 바이칼 호수의 하룻밤",
+    "summary": [
+      "2500만년 호수 바닥이 내는 잠수함 소리… 바이칼 호수의 하룻밤."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n7208b889",
     "category": "경제",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "29분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151893",
     "title": "빗썸, 크립토 윈터에도 분기이익 달성...이용자 보호·비용 최적화 집중",
     "summary": [
@@ -349,10 +451,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na123452e",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "45분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/16/2026051602325650442",
+    "title": "\"방송 24년 차인데… \"김신영, 매니저 없이 홀로 스케줄 다니는 이유?",
+    "summary": [
+      "김신영이 매니저 없이 홀로 라디오 스케줄을 소화했다.",
+      "15일 방영된 MBC '나 혼자 산다' 647회에서는 김신영의 일상이 공개됐다.",
+      "이날 김신영은 15년째 진행 중인 라디오 프로그램으로 하루를 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n72fce265",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "50분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151891",
     "title": "\"100조원 손해 싫으면 45조원 성과급 달라\"...삼성전자 노조, 대화 거부 '지속'(종합)",
     "summary": [
@@ -365,10 +483,41 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9e0f4a28",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "59분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260516/133934256/1",
+    "title": "조이, 애견 미용사 자격증 도전…“연예인 못하게 된다면?”",
+    "summary": [
+      "레드벨벳 조이가 애견 미용사 자격증에 도전했다.15일 오후 방송된 MBC 예능 프로그램 ‘나 혼자 산다’에서는 조이의 일상이 담겼다.조이가 “올해 큰 도전을 앞두고 있다, 공부를 열심히 해야 한다”라고 밝히며 천호동 문구완구거리를 찾아 공부에 필요한 다양한 물건들을 구매하는 모습으로 시선을 모았다.이어 조이가 향한 곳은 애견 미용학원.",
+      "조이는 “여기는 애견 미용사 자격증을 따기 위해 공부하고 배우는 곳이다”라며 2개월째 학원에서 배우는 중이라고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9bd10145",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260516/133934251/1",
+    "title": "“손끝 저리고 화끈거려요”…혹시 ‘이 질환’ 신호?",
+    "summary": [
+      "손발 저림은 누구나 한 번쯤 경험하는 흔한 증상이다.",
+      "그런데 증상이 반복되거나 지속된다면 혈액순환 문제로만 여겨서는 안 된다.",
+      "특히 양쪽 발끝이나 손끝의 저림이나 화끈거림, 감각저하가 서서히 진행된다면 ‘말초신경병증’을 의심해 볼 수 있다.16일 의료계에 따르면 말초신경병증은 여러 원인에 의해 말초신경이 손상되는 상태를 말한다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
     "id": "n2d28f62e",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151890",
     "title": "두나무, 1Q 매출 전년比 54.6% 감소...\"경기 둔화 영향\"",
     "summary": [
@@ -381,24 +530,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08d587af",
-    "category": "IT",
+    "id": "nb3bb5b53",
+    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516002300091",
-    "title": "앤트로픽 기업가치 1천350조원…석달만에 또 2.4배로 ↑",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516002400009",
+    "title": "아르헨의 특이한 개 입양 캠페인…\"월드컵앨범속 선수는 유기견\"",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 모델 클로드 개발사 앤트로픽의 몸값이 3개월 만에 또 2.4배 뛰었다."
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나 북부 살타주에서 2026 북중미 월드컵 스티커 앨범을 패러디한 유기견 입양 캠페인이 화..."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
     "id": "na8f459d2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260515_0003632000",
     "title": "제주4·3부터 광주의 빛까지…강요배 “가슴이 뛴다” 60년 회고전",
     "summary": [
@@ -414,7 +563,7 @@ window.NEWS_DB = [
     "id": "n5a625f61",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260515_0003631746",
     "title": "해운대구, 어린이 대상 강의+탐방 프로그램 운영",
     "summary": [
@@ -427,85 +576,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n740f6185",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632119",
-    "title": "中 왕이 \"미·중, '전략적 안정' 합의한 역사적 회담\"…가을엔 시진핑 방미",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 중국 정부가 이번 미·중 정상회담을 \"역사적 회담\"으로 규정하며 최대 성과로 '중미 건설적 전략 안정 관계' 구축 합의를 꼽았다.",
-      "대만 문제에서는 미국이 대만 독립을 지지해서는 안 된다고 압박했고, 경제·무역 분야에서는 관세 인하와 협력 확대 성과를 강조했다.",
-      "15일 중국 관영 신화통신에 따르면 왕이 중국 외교부장은 도널드 트럼프 미국 대통령의 방중 종료 후 진행한 브리핑에서 이번 정상회담이 \"양국 정상이 심도 있."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2a408803",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516002200071",
-    "title": "트럼프 \"시진핑과 '대만 무기판매' 구체 논의\" 발언 파장",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령이 15일(현지시간) 미국의 대만에 대한 무기 판매와 관련, 시진핑 중국 국가주석..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7e7eff34",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/16/HBXTMN3X6JEV7N67NWGADM22MA/",
-    "title": "왕이 “시진핑, 올가을 미국 국빈 방문”",
-    "summary": [
-      "왕이 “시진핑, 올가을 미국 국빈 방문”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1ac06df3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/15/GQYDMNRQMQ4TMNJUGY2DKZBYGU/",
-    "title": "\"우승하면 쿠싱도 반지 만들어주세요\" 류현진 한마디…고별전서 세이브까지, 아름다운 마지막 인사 나누다 [오!쎈 수원]",
-    "summary": [
-      "[OSEN=수원, 조은혜 기자] 프로야구 한화 이글스 잭 쿠싱이 마지막 등판에서 세이브를 작성하며 유종의 미를 거두고 팀을 떠난다.김경문 감독이 이끄는 한화는 15일 수원 케이티위즈파크에서 열린 2026 신한 SOL KBO리그 KT와의 원정경기에서 5-3으로 승리했다.",
-      "이날 승리로 한화는 시즌 전적 19승21패를 만들었다.",
-      "반면 2연패에 빠진 KT는 24승."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8a84447d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "36분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/16/2BHL5VUJV5FZ3EZG355IUCN53Q/",
-    "title": "닉슨부터 트럼프까지... 미국과 거래로 국력 키워온 중국",
-    "summary": [
-      "닉슨부터 트럼프까지... 미국과 거래로 국력 키워온 중국."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na4e03c2a",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/16/2026051518565053512",
     "title": "'무려 145kg' 거구를 휙 던졌다! '265kg 파워' 역대급 괴수 \"근육이 피부를 뚫고 나올 기세\"",
     "summary": [
@@ -521,7 +595,7 @@ window.NEWS_DB = [
     "id": "ndfb3c725",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "42분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260516/133933689/2",
     "title": "대전고 첫 우승 vs 충암고 4번째 왕관, 1번타자에 달렸다",
     "summary": [
@@ -539,7 +613,7 @@ window.NEWS_DB = [
     "id": "nba5af310",
     "category": "사회",
     "source": "동아일보",
-    "time": "42분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260516/133934036/2",
     "title": "트럼프-시진핑, 치킨게임 막고 ‘무역휴전’ 유지",
     "summary": [
@@ -553,87 +627,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd5f0e747",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "42분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260516/133934034/2",
-    "title": "[단독]삼성 파업 위기… 정부 ‘긴급조정권 발동’ 물밑작업 속도",
-    "summary": [
-      "삼성전자 노조 총파업의 전운이 짙어지면서 정부가 최후 수단인 ‘긴급조정권’ 발동을 위한 물밑 작업에 속도를 내고 있다.",
-      "고용노동부는 긴급조정권을 발동할 경우 위법 논란을 피할 수 있는 행사 시기를 본격 검토하고 나섰다.",
-      "15일 정부와 노동계에 따르면 노동부는 21일로 예고된 삼성전자 노조 파업이 현실화할 경우에 대비해 긴급조정권 행사 시기를 검토하고 있다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#고용"
-    ]
-  },
-  {
-    "id": "ne068a65c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "42분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260516/133933679/2",
-    "title": "홍명보 머릿속엔 K리거 몇 명이나 있을까",
-    "summary": [
-      "지난해 프로축구 K리그1(1부) ‘최고의 별’ 이동경(29·울산)이 2026 북중미 월드컵 한국 축구 대표팀 최종 명단에 이름을 올릴 수 있을까.",
-      "대한축구협회는 16일 오후 4시 서울 KT 광화문 빌딩 웨스트 온마당에서 이번 대회에 참가할 선수 26명을 발표한다.",
-      "지난 시즌 13골 12도움을 기록하며 K리그1 최우수선수(MVP)로 뽑혔던 이동경은 홍명보 감독(57·사진) 부임 이후 대표팀에서 꾸준히 부름을 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8b431433",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "50분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516001800071",
-    "title": "美전문가 \"트럼프방중 경제성과 기대이하…미중관계 관리엔 안도\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 정상회담 결과에 대해 미국 전문가들은 15일(현지시간)..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncc86aaba",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "58분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632114",
-    "title": "중동 전쟁發 인플레 공포…글로벌 국채·증시 동반 흔들",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 중동 전쟁 장기화로 에너지 가격이 오르고 물가 불안이 커지면서 전 세계 채권 시장과 증시가 동시에 흔들리고 있다.",
-      "15일(현지 시간) 파이낸셜타임스(FT)에 따르면 미국 30년물 국채 금리는 이날 0.11%p(포인트) 상승한 5.12%를 기록했다.",
-      "미국 정부는 이번 주 30년 만기 국채를 5% 금리로 발행했는데, 2007년 이후 처음이다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n3efd4883",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260515141951109",
-    "title": "러, 우크라 도심 맹폭에 27명 사망…젤렌스키 \"응징할 것\"(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 러시아가 우크라이나 후방 도심에 1천500대가 넘는 드론·미사일을 쏟아부으면서 민간인이 사상자가 속출했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n12a98d1b",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/16/2026051522574252413",
     "title": "'깜짝 비정상 벌크업' 女 최강 론다 로우지, 드디어 역대급 복귀전→소신발언 \"대전료 너무 적다... 내가 은퇴한 이유\"",
     "summary": [
@@ -652,8 +649,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
@@ -663,7 +660,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "채용",
     "mentions": "1550건",
     "trend": "+135%"
   }
