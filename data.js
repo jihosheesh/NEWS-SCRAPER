@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-15 09:38:55
+// 마지막 업데이트: 2026-05-15 11:47:28
 window.NEWS_DB = [
   {
     "id": "n8e35c9b3",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "1시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRWNsRUlCZFg1LWdxZG1hNWlSWFZjaDN2UFFGTXM3cmRJdmtQelB2cUlBMGl0LVNYeTEwS1pvOTFCdEw1ZTJXaEk0VzNrdThIYkhKZUl4Y3R2RzlvRlNsV2gydDdBcVFwOWxFemZyNlg4SGM?oc=5",
     "title": "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\"",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n8781e79c",
     "category": "IT",
     "source": "경향신문",
-    "time": "2시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
     "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n76cd35a4",
     "category": "경제",
     "source": "이코노미트리뷴",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCVVU1ZnBoUzFRSHAtaTUxaUVEN0ZCQW9WVG12bVRHQnJOSzd4Y0pueEZPNkhGd0JCWEt4U3ZMcjdXU3FWeGlneDhrNzd2UmNQdHlxbDFHWmlLdEhMenRVQUhVRVVOd3d3d1lKajdMd1poSi1CWmJv?oc=5",
     "title": "국채금리 4.18%·환율 1500원 턱밑…코스피 8000선 돌파 후 급락",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n93646d6a",
     "category": "IT",
     "source": "레디앙",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82UlcxS3RaeXotQTlnaE5SOTNnbEtGand6NmdYZW9LYzFkbE0yZ1M4SUItbkk0Sk94Tk56aHRMS1JPcjE3NVNicGV3R09lVnotUWtLZFVxTXpEX2Z1TVBGN2lzcEs5TzAt?oc=5",
     "title": "美, 엔비디아 H200 중국 판매 일부 허용...AI 반도체 패권 경쟁 새 국면",
     "summary": [
@@ -67,7 +67,7 @@ window.NEWS_DB = [
     "id": "ne880c824",
     "category": "IT",
     "source": "전국뉴스",
-    "time": "6시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLM2c5Tl9KdVUxSkNXdDVhcTRjeWp3SnBPakg3UnMzRnlzb3F2ajFteFBlZkp0ZDVBakhGeGRGWFZkNUYxZjV0b3hEM01WN1RCUWE1RHdqNUlobWJORW51VXpVRWtudUxTUnBtWkhyQmU?oc=5",
     "title": "[전남벤처도약발사대]한국산업은행·포스코홀딩스, 전남서 벤처생태계 협력 강화…“지역 스타트업 유니콘 도약 지원”",
     "summary": [
@@ -316,6 +316,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf22ddfee",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151894",
+    "title": "반도체산업협회 \"삼성전자 파업, 반도체 생태계 악영향...협상해야\"",
+    "summary": [
+      "반도체 업계도 삼성전자 노동조합에 '대화'를 촉구했다.",
+      "'파업'은 삼성전자뿐 아니라 반도체 산업 생태계 전체에 악영향을 끼칠 것이라고 우려했다.",
+      "업계는 파업 전후 최대 100조원 피해를 예견했다.15일 한국반도체산업협회(KSIA)는 '한국 반도체 산업 생태계 우려에 대한 반도체 업계 입장문'을 발표했다.삼성그룹 초기업노동조합 삼성전자 지부(초기업노조)는 오는 21일부터 6월7일까지 파업 예정이다."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#고용"
+    ]
+  },
+  {
     "id": "n7208b889",
     "category": "경제",
     "source": "테크M",
@@ -364,209 +382,91 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf38cbe96",
-    "category": "IT",
-    "source": "테크M",
+    "id": "n685b2d45",
+    "category": "경제",
+    "source": "머니투데이",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151879",
-    "title": "[카드뉴스] \"무서운데 왜 계속 하게 되지?\".. 크래프톤 '서브노티카2' 전 세계 기대작 된 이유",
+    "url": "https://www.mt.co.kr/finance/2026/05/15/2026051520121138052",
+    "title": "금융지주 3사 \"SEC 정책 위험요인 기재, 미국 공시 특성상 관행\"",
     "summary": [
-      "깊은 바다를 혼자 탐험해야 했던 공포 게임이 돌아왔다.",
-      "그런데 이번엔 조금 다르다.",
-      "전작이 ‘혼자 살아남는 공포’였다면, 서브노티카2는 최대 4명이 함께 심해를 탐험할 수 있는 협동 플레이를 추가했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85263489",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631914",
-    "title": "구윤철 \"IMF, 韓 재정확장 적절하다고 평가…근거없는 위기론 끝내야\"",
-    "summary": [
-      "[세종=뉴시스]박광온 기자 = 구윤철 경제부총리 겸 재정경제부 장관이 국제통화기금(IMF)이 한국의 정부부채에 대해 지속가능하다는 평가를 유지하고 있다며, 국내 일각의 '재정위기론'에 정면 반박했다.",
-      "구윤철 부총리는 15일 자신의 소셜미디어(SNS)에 '정부부채와 재정정책 기조에 관한 근거 없는 주장은 이제 끝내야 합니다'라는 제목의 글을 올리고 이같이 밝혔다.",
-      "앞서 줄리 코잭 IMF 대변인은 지난 14일(현지시간) 워싱턴DC IMF 본부에서."
+      "3사 공동 입장자료 \"생산적·포용금융에 깊이 공감…정책에 자발적으로 참여 중\" 국내 주요 금융지주 3사가 미국 증권거래위원회(SEC)에 제출하는 연차보고서(Form 20-F)에 '생산적금융·포용금융 확대에 따른 건전성 영향 가능성'을 위험요인으로 기재한 것을 두고 논란이 일자, 3사가 공동 입장자료를 내고 해명에 나섰다.",
+      "KB·신한·우리금융지주는 15일 저녁 '미 SEC 연차보고서의 위험 요인 기재 관련 금융지주 3사 입장' 자료를 배포하고 \"."
     ],
     "chips": [
       "#정책"
     ]
   },
   {
-    "id": "n846a76cb",
-    "category": "스포츠",
+    "id": "n8d3a2eed",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631903",
-    "title": "방신실·홍정민 등 KLPGA 두산 매치플레이 16강행…이예원·박현경 탈락",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 방신실이 한국여자프로골프(KLPGA) 투어 데뷔 후 처음으로 매치플레이 대회 16강에 올랐다.",
-      "방신실은 15일 강원 춘천의 라데나 골프클럽 네이처·가든 코스(파72)에서 열린 KLPGA 투어 두산 매치플레이(총상금 10억원) 조별리그 3라운드에서 김민솔을 만나 2홀 남기고 3홀 차로 앞서며 승리를 따냈다.",
-      "조별리그 3전 전승을 달성한 방신실은 승점 3을 획득하며 4조 1위를 수성, 16강 진출에 성공했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n97efc63e",
-    "category": "IT",
-    "source": "조선비즈IT",
     "time": "1분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/05/15/HBX4CHQWCRC6PO5ZKN4M4RAKL4/",
-    "title": "딥엑스, 울트라리틱스와 파트너십 체결… “지능형 반도체 확산 계기”",
+    "url": "https://www.newsis.com/view/NISX20260515_0003632025",
+    "title": "\"울고 보채서\" 한 살 아들 살해한 친부…2심도 징역20년(종합)",
     "summary": [
-      "딥엑스, 울트라리틱스와 파트너십 체결… “지능형 반도체 확산 계기”."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n58496001",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/15/GI2TCMLEGJSTMY3GGM2WEOBRGE/",
-    "title": "'슈퍼캐치 전문 트중박' 그런데 오늘 왜 라인업에 없나 \"안좋네\"[인천 현장]",
-    "summary": [
-      "[인천=스포츠조선 나유리 기자]LG 트윈스 박해민이 하루 결장한다.",
-      "LG는 15일 인천 SSG랜더스필드에서 SSG 랜더스와 원정 주말 3연전 맞대결을 펼친다.",
-      "LG는 요니 치리노스가 선발 투수로 등판하고, SSG 단기 대체 외국인 투수 히라모토 긴지로를 상대한다."
+      "[인천=뉴시스] 이루비 기자 = 인천에서 한살배기 아들을 폭행하고 학대해 숨지게 한 혐의로 재판에 넘겨진 30대 친부가 항소심에서도 중형을 선고받았다.",
+      "서울고법 인천원외재판부 형사2부(부장판사 이정민)는 15일 항소심 선고공판에서 아동학대범죄의 처벌 등에 관한 특례법 위반(아동학대살해) 등 혐의로 구속 기소된 친부 A(33)씨에게 원심과 같이 징역 20년을 선고했다.",
+      "항소심 재판부는 또 A씨에게 80시간의 아동학대 치료 프로그램 이수와 아동 관."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9856d5ab",
-    "category": "IT",
+    "id": "nafd18b1a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260515036251001",
+    "title": "국힘, 李대통령 시장 방문에 \"선거개입은 탄핵사유…법적조치\"(종합)",
+    "summary": [
+      "(서울=연합뉴스) 조다운 기자 = 국민의힘 송언석 공동선대위원장은 15일 이재명 대통령이 최근 울산 남목마성시장, 성남 모란시장 등을 방문하는 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne092a8a8",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631908",
-    "title": "해양경찰청, 해양오염 대응 역량 강화 나서",
-    "summary": [
-      "[인천=뉴시스] 이루비 기자 = 해양경찰청은 15일 인천 연수구 송도국제도서관 국제아트홀에서 '전국 해양오염방제 워크숍'을 개최했다고 밝혔다.",
-      "이번 워크숍은 급변하는 해양환경 변화에 효과적으로 대응하고 본청과 지방 소속기관 간 정책 추진 방향을 공유함으로써 현장 대응 역량을 강화하고자 마련됐다.",
-      "해양경찰청 해양오염방제국은 올해 중점 과제로 추진 중인 ▲복합 해양오염사고 대응체계 강화 ▲인공지능(AI) 기반 방제지원시스템 구축 ▲친환경 방제장비."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n9f225742",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/GBSTEOJTGA4TKNZXMFSWEMBQME/",
-    "title": "홍경민, 카페에서 때아닌 갑론을박? \"왜 나한테만 이런 일이..\"",
-    "summary": [
-      "[OSEN=김수형 기자] 가수 홍경민이 주문한 ‘아포가토’ 한 잔에 예상치 못한 충격(?)을 받으며 웃픈 상황을 공개했다.홍경민은 14일 자신의 SNS를 통해 “아니… 내가 잘못 알고 있는 거야… 뭐야…”라며 황당한 심경을 털어놨다.이어 “아포가토라는 게 원래 이렇게 커피에 아이스크림이 둥둥 떠다니는 거야…? 아이스크림에 커피 살짝 부어주는 거 아니었어?”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne3699877",
-    "category": "IT",
-    "source": "한국경제",
     "time": "5분 전",
-    "url": "https://www.hankyung.com/article/2026051599421",
-    "title": "\"이제는 AI 효율전쟁…한국 기업들에 기회 충분하다\"",
+    "url": "https://www.newsis.com/view/NISX20260515_0003632017",
+    "title": "폭력적 행동까지…'도파민 중독'에 빠진 초3 금쪽이",
     "summary": [
-      "\"이제는 AI 효율전쟁…한국 기업들에 기회 충분하다\"."
+      "[서울=뉴시스] 남정현 기자 = '도파민 중독'에 빠진 초3 금쪽이가 오은영 박사를 찾았다.",
+      "15일 오후 9시 방송되는 채널A '요즘 육아 - 금쪽같은 내 새끼'에는 10세, 7세 두 형제를 키우는 부부가 출연한다.",
+      "초등학교 3학년인 금쪽이는 감정이 한 번 폭발하면 전혀 제어가 되지 않고, 최근에는 폭력적인 행동까지 보인다고 한다."
     ],
     "chips": [
-      "#AI"
+      "#교육"
     ]
   },
   {
-    "id": "n9f9fd4b0",
-    "category": "IT",
-    "source": "한국경제",
+    "id": "n664c5069",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.hankyung.com/article/202605150002i",
-    "title": "\"성과장려금 규모 이견\"...카카오페이 노사 조정 결렬",
+    "url": "https://www.yna.co.kr/view/AKR20260515179200057",
+    "title": "울산남구선관위, 당내 경선 여론조사 거짓응답 유도 행위 고발",
     "summary": [
-      "\"성과장려금 규모 이견\"...카카오페이 노사 조정 결렬."
+      "(울산=연합뉴스) 김근주 기자 = 울산남구선거관리위원회는 제9회 전국동시지방선거와 관련해 모 정당 구청장 당내 경선 여론조사에서 당원들에게 거짓..."
     ],
     "chips": [
-      "#카카오"
+      "#정치"
     ]
   },
   {
-    "id": "n6c1cd221",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260515165900002",
-    "title": "교보생명, 1분기 순이익 4천587억원…작년 대비 60.7%↑",
-    "summary": [
-      "(서울=연합뉴스) 강수련 기자 = 교보생명은 올해 1분기 연결 기준 당기순이익이 4천587억원(지배기업 소유주 지분)으로 작년 동기 대비 60...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n97045482",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/2026051599401",
-    "title": "K제조업 토대 위에서 쑥쑥 성장하는 로봇·우주·SMR",
-    "summary": [
-      "K제조업 토대 위에서 쑥쑥 성장하는 로봇·우주·SMR."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n02e1e89d",
+    "id": "na2bc67a5",
     "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/GAZDMODBMFSGMMZRMIZTEYRYGE/",
-    "title": "김선태, \"구독 취소\" 댓글 폭격 이유…'장카설유' 설윤 만나 손하트",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003632016",
+    "title": "노동장관, 내일 삼성 경영진 회동…총파업 앞두고 대화 총력(종합)",
     "summary": [
-      "[OSEN=장우영 기자] 전 ‘충주맨’ 김선태가 4세대 아이돌 비주얼 멤버와 만났다.김선태는 15일 자신의 SNS에 “설윤 님과 함께”라는 글과 사진을 게재했다.공개된 사진 속 김선태는 엔믹스 설윤을 만나 포즈를 취하고 있다.",
-      "‘모든 것을 홍보한다’는 표어 아래 유튜브 채널을 운영하고 있는 김선태가 아이돌을 만나 어떤 프로젝트를 펼쳤을지 주목된다.김선태가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ned0a868b",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026051599391",
-    "title": "최용호 \"AI·로봇 기반 엔터테크로 'K컬처 격' 높일 것\"",
-    "summary": [
-      "최용호 \"AI·로봇 기반 엔터테크로 'K컬처 격' 높일 것\"."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n632a585d",
-    "category": "사회",
-    "source": "조선비즈IT",
-    "time": "9분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/05/15/TZLRKUGJGNEGXMFP6S2TE3XTA4/",
-    "title": "삼성전자 사장단·고용노동부 장관, 노조 찾아 입장 청취… 교섭 재개는 ‘불투명’",
-    "summary": [
-      "삼성전자 사장단·고용노동부 장관, 노조 찾아 입장 청취… 교섭 재개는 ‘불투명’."
+      "[서울=뉴시스] 구무서 박나리 박정영 기자 = 김영훈 고용노동부 장관이 16일 삼성 경영진과 회동에 나선다.",
+      "삼성전자 노조 총파업을 앞두고 대화에 총력을 기울이는 모양새다.",
+      "15일 뉴시스 취재를 종합하면 김 장관은 16일 사측과 면담을 가진다."
     ],
     "chips": [
       "#삼성전자",
@@ -574,44 +474,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nefa43177",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260515164900063",
-    "title": "스승의 날이면 뭐하나…전교조 충남지부, 교육활동 보호 촉구",
-    "summary": [
-      "(홍성=연합뉴스) 이주형 기자 = 15일 제45회 스승의 날을 맞아 전국교직원노동조합(전교조) 충남지부가 교권 보호를 촉구했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n4a8b2171",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260515165500003",
-    "title": "HD현대중공업, 'KDDX 영업비밀 공개금지' 가처분 기각에 항고",
-    "summary": [
-      "(서울=연합뉴스) 홍규빈 기자 = HD현대중공업이 한국형 차기 구축함(KDDX) 기본 설계 자료를 경쟁업체인 한화오션에 공개하지 말라며 낸 가처..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nabc983f1",
+    "id": "nd82393d6",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003630895",
-    "title": "[6·3대전]성광진 \"혁신교육 펀드, 출시 5일만에 목표액 5억 달성\"",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003631924",
+    "title": "6·3 지방선거 전북, 지사·교육감·시군단체장 후보자 현황",
     "summary": [
-      "[대전=뉴시스]유순상 기자 = 성광진 6·3 대전시교육감 선거 후보가 출시한 '혁신교육 펀드'가 5일만에 목표액을 달성했다.",
-      "15일 성 후보 캠프에 따르면 지난 11일 출시한 '성광진 혁신교육 펀드'가 시민들의 자발적인 참여 속에 5억원을 모았다.",
-      "이번 펀드는 시민들이 직접 동참해 만들어낸 '시민 참여형'이라 주목을 받았다."
+      "[전주=뉴시스]최정규 기자 =."
     ],
     "chips": [
       "#정치",
@@ -619,20 +489,154 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n887a4116",
+    "id": "nfde559f4",
     "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260515/133932509/1",
-    "title": "삼성 노조 “사측 교섭위원 교체하라”",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/05/15/XMNG2IFSEFHKFE5KXMFWUHC7NU/",
+    "title": "‘김범석 쿠팡 동일인 지정’, 법원이 직권으로 7월까지 효력 정지",
     "summary": [
-      "삼성전자 초기업노동조합 삼성지부(이하 초기업노조)는 15일 “삼성전자 사측의 교섭위원을 교체하라”고 요구했다.",
-      "초기업노조는 이날 김영훈 고용노동부 장관을 비롯한 고용부 관계자들과 면담을 가졌다고 밝혔다.",
-      "초기업노조는 “김 장관은 노조의 입장을 깊이 공감해줬고 조합의 뜻을 사측에 분명히 전달하겠다고 했다”고 전했다."
+      "‘김범석 쿠팡 동일인 지정’, 법원이 직권으로 7월까지 효력 정지."
     ],
     "chips": [
-      "#삼성전자",
-      "#고용"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c94f321",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260515179100065",
+    "title": "[후보등록] 인천 지방선거 후보 324명 등록…평균 1.7대 1",
+    "summary": [
+      "(인천=연합뉴스) 홍현기 기자 = 6·3 지방선거 후보 등록을 마감한 15일 인천에서는 시장과 군수·구청장, 시교육감, 지방의원 후보로 모두 3..."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nb509eb75",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://www.asiae.co.kr/article/2026051520374056814",
+    "title": "국힘 신중양 거창군의원 후보 선거사무소 개소",
+    "summary": [
+      "국민의힘 거창군의원 가 선거구 신중양 후보가 15일 오후 5시 30분 선거사무소 개소식을 열고 본격적인 선거전에 돌입했다.",
+      "이날 개소식에는 국민의힘 관계자와 당원, 지역 주민 등이 참석해 신중양 후보의 출마를 축하하며 지방선거 승리를 위한 결의를 다졌다.",
+      "신중양 후보는 인사말에서 \"바쁜 일정 속에서도 개소식에 참석해 주신 내빈과 당원동지, 군민 여러분께 깊이 감사드린다\"며 \"오늘 이 자리는 단순한 선거사무소 개소를."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n608f1d0f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/15/2026051519481085745",
+    "title": "'FA 최대어' 박지수 잔류, 이제 미체결은 '단 한 명'... 김예진 3차 협상 돌입",
+    "summary": [
+      "자유계약선수(FA) 시장 최대어가 원소속팀에 잔류한 가운데, 이제 WKBL에서 협상을 기다리는 선수는 단 한 명 남았다.",
+      "WKBL은 15일 2026년 FA 2차 협상 결과를 공시했다.",
+      "이번 발표에서 가장 눈길을 끈 대목은 역시 박지수의 KB스타즈 재계약이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb8f3da6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260515178800009",
+    "title": "이란 외무 \"미국 못믿어…대화 계속하자는 메시지는 받아\"",
+    "summary": [
+      "(서울=연합뉴스) 강훈상 기자 = 아바스 아라그치 이란 외무장관은 미국을 믿을 수 없다면서도 외교만이 해법이라고 강조했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6183f837",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260515/133933496/1",
+    "title": "‘파리 金’ 사격 오예진, 25m 권총서 18년 만에 한국신기록 달성",
+    "summary": [
+      "2024 파리 올림픽 금메달리스트 오예진(IBK기업은행)이 제2회 IBK기업은행장배 전국사격대회에서 18년 만에 한국 신기록을 작성했다.오예진은 지난 14일 청주종합사격장에서 열린 대회 여자 일반부 25m 권총 본선에서 595점을 쏴 한국 신기록을 경신했다.이는 2008년 최금란이 세운 종전 기록(594점)을 18년 만에 1점 뛰어넘은 신기록이다.또한 2023년 리듬 상완(인도)이 아제르바이잔 바쿠 월드컵에서 세운 세계 기록(595점)과 타이를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1ecbf6c2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260515/133933499/1",
+    "title": "[속보]트럼프 “대만 방어 여부, 시진핑이 물었지만 답변 안했다”",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 시진핑 중국 국가주석과의 핵심 논의 사안이었던 대만 문제에 대해 “대만에 분쟁이 있다고 생각하지 않는다”고 말했다.",
+      "‘하나의 중국’을 주장하는 중국의 심기를 건들지 않기 위한 발언으로 해석된다.",
+      "트럼프 대통령은 또 이란의 핵물질 생산을 20년간 중단하는 것에 대해 “충분하지만, 확실한 보증이 있어야 한다”고 말했다.트럼프 대통령은 15일 중국 방문 후 미국으로 돌아가는 전용기에서 ‘대만을 방어할 것인가’라는 질문에."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n57c1869f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/15/MQ2TSNZXGM2WEMBQMY3TMNJYGQ/",
+    "title": "비거리 140m, 괴력의 홈런포...박동원, 개막전 이후 48일 만에 홈런 터졌다",
+    "summary": [
+      "[OSEN=문학, 한용섭 기자] 프로야구 LG 트윈스 박동원이 비거리 140m의 초대형 홈런포를 터뜨렸다.",
+      "박동원은 15일 인천 SSG랜더스필드에서 열린 SSG 랜더스와 경기에 6번 포수로 선발 출장했다.박동원은 0-0 동점인 2회 선두타자로 나와 우전 안타로 출루했고, 이후 문정빈의 우월 2루타로 3루까지 진루했다.",
+      "이재원의 중전 적시타로 선취점을 올렸다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8dac567b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/opinion/manmulsang/2026/05/15/AZUG2F5GRJGGFKUTSKTIJ574HE/",
+    "title": "[만물상] 중난하이 ‘화무십일홍’",
+    "summary": [
+      "[만물상] 중난하이 ‘화무십일홍’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf7511eca",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://www.asiae.co.kr/article/2026051520283038134",
+    "title": "연차 내고 프로필에 '파업', \"삼성 망한 듯\"… 내부 분위기 흉흉",
+    "summary": [
+      "삼성전자 노사가 성과급을 둘러싼 이견을 좁히지 못한 채 평행선을 달리면서 창사 이래 최대 규모로 예고된 총파업이 임박하고 있다.",
+      "정부와 사측의 대화 재개 요청에도 불구하고 노동조합은 '입장 변화 없이는 협상 불가' 방침을 고수하고 있어 긴장감이 고조되는 모습이다.",
+      "내부에서는 \"회사가 무너진 것 같다\"는 자조 섞인 반응까지 나오며 조직 분위기 역시 심상치 않은 흐름을 보이고 있다."
+    ],
+    "chips": [
+      "#삼성전자"
     ]
   }
 ];
@@ -642,20 +646,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "삼성전자",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
