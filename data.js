@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-15 15:56:26
+// 마지막 업데이트: 2026-05-15 17:22:37
 window.NEWS_DB = [
   {
     "id": "n8e35c9b3",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRWNsRUlCZFg1LWdxZG1hNWlSWFZjaDN2UFFGTXM3cmRJdmtQelB2cUlBMGl0LVNYeTEwS1pvOTFCdEw1ZTJXaEk0VzNrdThIYkhKZUl4Y3R2RzlvRlNsV2gydDdBcVFwOWxFemZyNlg4SGM?oc=5",
     "title": "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\"",
     "summary": [
@@ -18,10 +18,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n7c5c07a7",
+    "category": "경제",
+    "source": "프리진경제",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
+    "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
+    "summary": [
+      "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정 프리진경제."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "n8781e79c",
     "category": "IT",
     "source": "경향신문",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
     "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
     "summary": [
@@ -36,7 +50,7 @@ window.NEWS_DB = [
     "id": "n76cd35a4",
     "category": "경제",
     "source": "이코노미트리뷴",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCVVU1ZnBoUzFRSHAtaTUxaUVEN0ZCQW9WVG12bVRHQnJOSzd4Y0pueEZPNkhGd0JCWEt4U3ZMcjdXU3FWeGlneDhrNzd2UmNQdHlxbDFHWmlLdEhMenRVQUhVRVVOd3d3d1lKajdMd1poSi1CWmJv?oc=5",
     "title": "국채금리 4.18%·환율 1500원 턱밑…코스피 8000선 돌파 후 급락",
     "summary": [
@@ -51,7 +65,7 @@ window.NEWS_DB = [
     "id": "n93646d6a",
     "category": "IT",
     "source": "레디앙",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82UlcxS3RaeXotQTlnaE5SOTNnbEtGand6NmdYZW9LYzFkbE0yZ1M4SUItbkk0Sk94Tk56aHRMS1JPcjE3NVNicGV3R09lVnotUWtLZFVxTXpEX2Z1TVBGN2lzcEs5TzAt?oc=5",
     "title": "美, 엔비디아 H200 중국 판매 일부 허용...AI 반도체 패권 경쟁 새 국면",
     "summary": [
@@ -67,7 +81,7 @@ window.NEWS_DB = [
     "id": "ne880c824",
     "category": "IT",
     "source": "전국뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLM2c5Tl9KdVUxSkNXdDVhcTRjeWp3SnBPakg3UnMzRnlzb3F2ajFteFBlZkp0ZDVBakhGeGRGWFZkNUYxZjV0b3hEM01WN1RCUWE1RHdqNUlobWJORW51VXpVRWtudUxTUnBtWkhyQmU?oc=5",
     "title": "[전남벤처도약발사대]한국산업은행·포스코홀딩스, 전남서 벤처생태계 협력 강화…“지역 스타트업 유니콘 도약 지원”",
     "summary": [
@@ -272,20 +286,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf7aebd8b",
-    "category": "경제",
-    "source": "스트레이트뉴스",
-    "time": "116일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
-    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
-    "summary": [
-      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n13cdbe9c",
     "category": "부동산",
     "source": "시사저널e",
@@ -302,12 +302,12 @@ window.NEWS_DB = [
   {
     "id": "nb36dbf94",
     "category": "사회",
-    "source": "서울특별시",
+    "source": "내 손안에 서울",
     "time": "196일 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
     "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
     "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
     ],
     "chips": [
       "#취업",
@@ -381,249 +381,265 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb51126da",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/05/16/MVCXOLGUKRGW3FNXXPILOHKAHA/",
-    "title": "“호황기 파격 보상 원하면, 불황기 저임금·대량해고 받아들여야”",
-    "summary": [
-      "“호황기 파격 보상 원하면, 불황기 저임금·대량해고 받아들여야”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ff30acb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/05/16/3XYGTQO3IJCTZKEN26ZQFAP3XM/",
-    "title": "“임원은 불황 때도 3880억 성과급… 우리만 희생해야 하나”",
-    "summary": [
-      "“임원은 불황 때도 3880억 성과급… 우리만 희생해야 하나”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neba177f3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/05/16/EDAES65UMBCSFCIDJ6F2EW56QY/",
-    "title": "대장주에 쏠린 잔치… 기업으로 들어가는 돈줄은 막혔다",
-    "summary": [
-      "대장주에 쏠린 잔치… 기업으로 들어가는 돈줄은 막혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf1f032b6",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/05/16/HTMZHC5WLVAYTFRNOFIG34SRRA/",
-    "title": "영끌 대출 받고 퇴직연금 넣고… 외국인이 내던진 주식 다 받는 개미",
-    "summary": [
-      "영끌 대출 받고 퇴직연금 넣고… 외국인이 내던진 주식 다 받는 개미."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf261e0f1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632116",
-    "title": "[6·3지선]광주·전남 단체장·교육감 후보 평균 재산 12.7억…최고 261억",
-    "summary": [
-      "[광주=뉴시스]박기웅 기자 = 6·3지방선거 출마 후보자 가운데 화순군수 선거에 도전하는 무소속 김회수 후보가 261억원대의 재산을 신고해 최고 자산가로 나타났다.",
-      "광역·기초 자치단체장과 교육감 후보들의 평균 재산은 12억7500만원 수준인 것으로 집계됐다.",
-      "15일 중앙선거관리위원회 선거통계시스템에 따르면 전남광주통합특별시 시장과 교육감, 기초자치단체장 후보 82명의 신고 재산 총액은 1045억5699만8000원이다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne43aa5c5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632115",
-    "title": "6·3 재보선 후보 최다 재산 신고는 김용남, 128억원…기초비례 후보에 1000억대 자산가도(종합)",
-    "summary": [
-      "[서울=뉴시스] 김난영 김지훈 우지은 조기용 기자 = 6·3 지방선거 광역단체장 후보 중 최다 재산 신고자는 오세훈 국민의힘 서울시장 후보로 나타났다.",
-      "지방선거와 동시에 치러지는 국회의원 재보선 후보 중에서는 경기 평택을에 출마한 김용남 민주당 후보가 127억7049만 원을 신고해 가장 많았다.",
-      "이밖에 기초비례 후보자 중 1000억 원대 자산가도 있어 눈길을 끌었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne080bf7a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516000500099",
-    "title": "민주콩고서 또다시 에볼라 발병…\"사망자 발생\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)에서 에볼라 발병이 또다시 확인됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n14235d40",
-    "category": "사회",
+    "id": "n08d587af",
+    "category": "IT",
     "source": "연합뉴스",
     "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516000700057",
-    "title": "[후보등록] 울산 10명 중 4명꼴 전과 보유…최다 11건도",
+    "url": "https://www.yna.co.kr/view/AKR20260516002300091",
+    "title": "앤트로픽 기업가치 1천350조원…석달만에 또 2.4배로 ↑",
     "summary": [
-      "(울산=연합뉴스) 장지현 기자 = 6·3 지방선거에 출마한 울산지역 후보자의 10명 중 4명은 전과가 있는 것으로 확인됐다."
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 모델 클로드 개발사 앤트로픽의 몸값이 3개월 만에 또 2.4배 뛰었다."
     ],
     "chips": [
-      "#정치"
+      "#AI"
     ]
   },
   {
-    "id": "n94b00b15",
+    "id": "na8f459d2",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516000400061",
-    "title": "[후보등록] '77세 최고령·19세 최연소'…경기 지방선거 이색 후보들",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003632000",
+    "title": "제주4·3부터 광주의 빛까지…강요배 “가슴이 뛴다” 60년 회고전",
     "summary": [
-      "(수원=연합뉴스) 최해민 기자 = 제9회 전국동시지방선거 후보 등록이 15일 마감된 가운데 경기지역 선거에 출마한 이색 후보들의 면면이 유권자들..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n63492846",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516000600057",
-    "title": "[후보등록] 울산 출마자 재산 최고액 120억원…최저는 -5억원",
-    "summary": [
-      "(울산=연합뉴스) 장지현 기자 = 6·3 지방선거 후보 등록 마감 결과 울산지역 시장, 교육감, 기초단체장, 광역·기초의원 선거 출마자 총 18..."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n16bb5d6a",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260515202000072",
-    "title": "미 국채금리, 워시 연준의장 취임 앞두고 급등세…30년물 5.1%",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 제롬 파월 미 연방준비제도(Fed·연준) 의장이 15일(현지시간) 의장직 임기를 종료하고 케빈 워시 차기 의..."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n14de67da",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260516/133934196/1",
-    "title": "中 왕이 “시진핑, 트럼프 초청 수락…올가을 미국 국빈 방문”",
-    "summary": [
-      "시진핑 중국 국가주석이 도널드 트럼프 미국 대통령의 미국 방문 초청을 수락하고 올가을 미국을 국빈 방문할 예정이라고 중국 관영 신화통신이 15일 보도했다.신화통신은 왕이 중국 외교부장의 정상회담 관련 언론 브리핑을 인용해 시 주석이 트럼프 대통령의 초청에 따라 올해 가을 미국을 방문할 예정이라고 전했다.",
-      "다만 구체적인 일정은 공개하지 않았다.트럼프 대통령은 전날 베이징에서 열린 국빈 만찬에서 건배사를 통해 시 주석과 부인 펑리위안 여사에게 9월."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9be386e7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "38분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260516/133934185/1",
-    "title": "전국 대부분 낮 30도 이상…온열질환 유의",
-    "summary": [
-      "토요일인 16일은 내륙을 중심으로 낮과 밤의 기온차가 크겠다.",
-      "전국 대부분 지역에서 낮 기온이 30도 이상으로 올라 덥겠다.",
-      "기상청은 “일부 지역에서는 최고체감온도가 31도 안팎으로 올라 덥겠다”며 “온열질환, 식중독 예방을 위해 각별히 유의하기 바란다”고 밝혔다.체감온도는 기온에 습도의 영향이 더해져 사람이 느끼는 더위를 정량적으로 나타낸 온도로, 습도 약 55%를 기준으로 습도가 10% 증감함에 따라 체감 온도가 약 1도 증감한다.당분간 전."
+      "[서울=뉴시스] 박현주 미술전문 기자 = 민중미술 1세대 작가 강요배의 그림 앞에서는 풍경도 역사가 된다.",
+      "붉게 뒤엉킨 파동, 폭풍처럼 휘몰아치는 붓질, 어둠 속에서 터져 나오는 빛.",
+      "광주시립미술관 민주인권평화전 ‘강요배: 시간을 품다’는 제주4·3의 기억부터 인간과 자연의 시간까지, 작가가 60년간 통과해온 역사의 층위를 거대한 회화 공간으로 펼쳐낸다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0f41f0d1",
+    "id": "n5a625f61",
     "category": "사회",
-    "source": "동아일보",
-    "time": "38분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260516/133934182/1",
-    "title": "“이혼했다” 거짓말에 속아 상간녀 소송까지…“남성에 구상권 청구 가능”",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003631746",
+    "title": "해운대구, 어린이 대상 강의+탐방 프로그램 운영",
     "summary": [
-      "이혼했다는 상대 남성의 거짓말에 속아 교제했다가 상간녀 소송을 당하고 거액의 위자료를 혼자 부담하게 된 여성이 남성을 상대로 손해를 배상받을 수 있다는 법조계 조언이 나왔다.15일 YTN 라디오 ‘조인섭 변호사의 상담소’에는 제약회사 영업사원으로 소개하고 아내와는 따로산 지 오래됐다는 유부남과 만나다 상간녀 소송을 당한 사연자 A씨의 사례가 소개됐다.사연에 따르면 A씨는 “이혼한 것이나 다름없다”는 남자의 말을 믿고 교제를 시작했다."
+      "[부산=뉴시스]김민지 기자 = 부산 해운대구는 어린이를 대상으로 강의와 현장 탐방이 결합한 체험 프로그램을 운영한다고 16일 밝혔다.",
+      "'합천-글에 취하고 지혜에 머물다'를 주제로 6월13~21일 총 3차례에 걸쳐 시행된다.",
+      "총 두 차례 사전 강의와 한 차례 경남 합천군 일대 탐방으로 구성된다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n740f6185",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632119",
+    "title": "中 왕이 \"미·중, '전략적 안정' 합의한 역사적 회담\"…가을엔 시진핑 방미",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 중국 정부가 이번 미·중 정상회담을 \"역사적 회담\"으로 규정하며 최대 성과로 '중미 건설적 전략 안정 관계' 구축 합의를 꼽았다.",
+      "대만 문제에서는 미국이 대만 독립을 지지해서는 안 된다고 압박했고, 경제·무역 분야에서는 관세 인하와 협력 확대 성과를 강조했다.",
+      "15일 중국 관영 신화통신에 따르면 왕이 중국 외교부장은 도널드 트럼프 미국 대통령의 방중 종료 후 진행한 브리핑에서 이번 정상회담이 \"양국 정상이 심도 있."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2a408803",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516002200071",
+    "title": "트럼프 \"시진핑과 '대만 무기판매' 구체 논의\" 발언 파장",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령이 15일(현지시간) 미국의 대만에 대한 무기 판매와 관련, 시진핑 중국 국가주석..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7e7eff34",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/16/HBXTMN3X6JEV7N67NWGADM22MA/",
+    "title": "왕이 “시진핑, 올가을 미국 국빈 방문”",
+    "summary": [
+      "왕이 “시진핑, 올가을 미국 국빈 방문”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n69a6c814",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "39분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260516/133934179/1",
-    "title": "당진 국도서 트랙터·SUV 등 4대 사고…5명 다쳐 이송",
-    "summary": [
-      "15일 오후 9시 6분께 충남 당진 합덕읍 성동리 성동교차로 인근 32번 국도에서 스포츠유틸리티차량(SUV) 등 3대가 추돌했다.당진경찰서 등에 따르면 이 사고로 50대 여성 등 5명이 경상을 입고 병원에 이송됐으나 다행히 큰 부상은 아닌 것으로 전해졌다.조사 결과 2차로에서 주행 중인 SUV가 앞서가던 트랙터를 들이받은 뒤 1차로로 밀려난 트랙터를 뒤따라오던 그랜저가 추돌하면서 3중 추돌사고로 이어졌다.또 뒤이어 오던 소형 SUV가 사고 현장."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n191da26c",
+    "id": "n1ac06df3",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "41분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051521484975446",
-    "title": "\"역시 입 조심해야 돼요\" 내가 1위! 말하자마자 홈런-홈런-홈런, 한화 문현빈도 형들이 무섭다",
+    "source": "조선일보",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/15/GQYDMNRQMQ4TMNJUGY2DKZBYGU/",
+    "title": "\"우승하면 쿠싱도 반지 만들어주세요\" 류현진 한마디…고별전서 세이브까지, 아름다운 마지막 인사 나누다 [오!쎈 수원]",
     "summary": [
-      "\"역시 (사람은) 입을 조심해야 해요.\" 짜릿한 역전 투런으로 한화 이글스를 이끈 문현빈(22)이 더 펄펄 나는 형들의 활약에 두 손 두 발을 다 들었다.",
-      "문현빈은 15일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 정규시즌 KT 위즈와 방문경기에서 3번 타자 및 좌익수로 선발 출장해 4타수 2안타(1홈런) 2타점 1득점 1삼진으로 한화의 5-3 승리를 이끌었다.",
-      "KT가 11안타, 한화가 8안타로 타격전이 펼쳐진 가운데 중심 타선의."
+      "[OSEN=수원, 조은혜 기자] 프로야구 한화 이글스 잭 쿠싱이 마지막 등판에서 세이브를 작성하며 유종의 미를 거두고 팀을 떠난다.김경문 감독이 이끄는 한화는 15일 수원 케이티위즈파크에서 열린 2026 신한 SOL KBO리그 KT와의 원정경기에서 5-3으로 승리했다.",
+      "이날 승리로 한화는 시즌 전적 19승21패를 만들었다.",
+      "반면 2연패에 빠진 KT는 24승."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n80e838dd",
+    "id": "n8a84447d",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632111",
-    "title": "[6·3지선]후보등록 명단-서울 자치구청장",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/16/2BHL5VUJV5FZ3EZG355IUCN53Q/",
+    "title": "닉슨부터 트럼프까지... 미국과 거래로 국력 키워온 중국",
     "summary": [
-      "[서울=뉴시스] 박대로 기자 = *이름(정당·성별·나이·재산·병역·현 체납액·전과 순), 더불어민주당-민/국민의힘-국/조국혁신당-조/개혁신당-혁/진보당-진/정의당-정/기본소득당-기/무소속-무 <서울 자치구청장> ◇종로구 ▲유찬종(민·66·40억6021만원·군필·0·0) ▲정문헌(국·60·26억2526만원·군필·0·0) ◇중구 ▲이동현(민·34·11억3032만원·군필·0·0) ▲김길성(국·60·9억4085만원·미필·0·0) ▲길기영(혁·65·38."
+      "닉슨부터 트럼프까지... 미국과 거래로 국력 키워온 중국."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na4e03c2a",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "39분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051518565053512",
+    "title": "'무려 145kg' 거구를 휙 던졌다! '265kg 파워' 역대급 괴수 \"근육이 피부를 뚫고 나올 기세\"",
+    "summary": [
+      "역대 최고 수준의 괴력이다.",
+      "복부 근력 265kg이라는 경이로운 수치를 기록한 22세 신예 스모 선수의 비현실적인 근육질 몸매가 큰 화제를 모으고 있다.",
+      "'아메바타임스'는 15일 보도를 통해 최근 프로 무대에 데뷔한 오오모리의 압도적인 신체 조건과 근력을 집중 조명했다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "ndfb3c725",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260516/133933689/2",
+    "title": "대전고 첫 우승 vs 충암고 4번째 왕관, 1번타자에 달렸다",
+    "summary": [
+      "승률 100%와 100%가 맞붙는다.",
+      "두 학교의 무패 기록 가운데 하나는 반드시 깨진다.",
+      "대전고와 충암고가 16일 오후 1시 서울 목동야구장에서 맞붙는 제80회 황금사자기 전국고교야구대회 겸 주말리그 왕중왕전 결승전 이야기다."
+    ],
+    "chips": [
+      "#KBO",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nba5af310",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260516/133934036/2",
+    "title": "트럼프-시진핑, 치킨게임 막고 ‘무역휴전’ 유지",
+    "summary": [
+      "도널드 트럼프 미국 대통령의 2박 3일간 중국 국빈 방문 일정이 15일 마무리됐다.",
+      "2017년 11월 이후 8년 6개월 만에 중국을 찾은 트럼프 대통령은 시진핑(習近平) 중국 국가주석과 여섯 차례 만나 대만 문제, 이란 전쟁, 무역 갈등 등 양국 핵심 현안을 논의했다.",
+      "이를 통해 두 정상은 지난해 트럼프 2기 행정부 출범 후 관세전쟁 등으로 한동안 ‘치킨 게임’ 양상으로 치달았던 양국 관계를 일단 ‘안정화’ 수준으로 계속 관리하는 데 합의한 것."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd5f0e747",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260516/133934034/2",
+    "title": "[단독]삼성 파업 위기… 정부 ‘긴급조정권 발동’ 물밑작업 속도",
+    "summary": [
+      "삼성전자 노조 총파업의 전운이 짙어지면서 정부가 최후 수단인 ‘긴급조정권’ 발동을 위한 물밑 작업에 속도를 내고 있다.",
+      "고용노동부는 긴급조정권을 발동할 경우 위법 논란을 피할 수 있는 행사 시기를 본격 검토하고 나섰다.",
+      "15일 정부와 노동계에 따르면 노동부는 21일로 예고된 삼성전자 노조 파업이 현실화할 경우에 대비해 긴급조정권 행사 시기를 검토하고 있다."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#고용"
+    ]
+  },
+  {
+    "id": "ne068a65c",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260516/133933679/2",
+    "title": "홍명보 머릿속엔 K리거 몇 명이나 있을까",
+    "summary": [
+      "지난해 프로축구 K리그1(1부) ‘최고의 별’ 이동경(29·울산)이 2026 북중미 월드컵 한국 축구 대표팀 최종 명단에 이름을 올릴 수 있을까.",
+      "대한축구협회는 16일 오후 4시 서울 KT 광화문 빌딩 웨스트 온마당에서 이번 대회에 참가할 선수 26명을 발표한다.",
+      "지난 시즌 13골 12도움을 기록하며 K리그1 최우수선수(MVP)로 뽑혔던 이동경은 홍명보 감독(57·사진) 부임 이후 대표팀에서 꾸준히 부름을 받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8b431433",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516001800071",
+    "title": "美전문가 \"트럼프방중 경제성과 기대이하…미중관계 관리엔 안도\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 정상회담 결과에 대해 미국 전문가들은 15일(현지시간)..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ncc86aaba",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "58분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632114",
+    "title": "중동 전쟁發 인플레 공포…글로벌 국채·증시 동반 흔들",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 중동 전쟁 장기화로 에너지 가격이 오르고 물가 불안이 커지면서 전 세계 채권 시장과 증시가 동시에 흔들리고 있다.",
+      "15일(현지 시간) 파이낸셜타임스(FT)에 따르면 미국 30년물 국채 금리는 이날 0.11%p(포인트) 상승한 5.12%를 기록했다.",
+      "미국 정부는 이번 주 30년 만기 국채를 5% 금리로 발행했는데, 2007년 이후 처음이다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n3efd4883",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260515141951109",
+    "title": "러, 우크라 도심 맹폭에 27명 사망…젤렌스키 \"응징할 것\"(종합)",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 러시아가 우크라이나 후방 도심에 1천500대가 넘는 드론·미사일을 쏟아부으면서 민간인이 사상자가 속출했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n12a98d1b",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051522574252413",
+    "title": "'깜짝 비정상 벌크업' 女 최강 론다 로우지, 드디어 역대급 복귀전→소신발언 \"대전료 너무 적다... 내가 은퇴한 이유\"",
+    "summary": [
+      "약물 논란도 개의치 않는다.",
+      "여성 격투기의 최강으로 군림했던 론다 로우지(39)가 10년 만에 옥타곤으로 돌아오며 격투기 판을 뒤흔들겠다는 야심 찬 포부를 드러냈다.",
+      "로우지는 오는 17일(한국시간) 미국 로스앤젤레스 인튜이트 돔에서 또 다른 격투기 전설 지나 카라노(44)와 페더급 맞대결을 치른다."
     ],
     "chips": [
       "#뉴스"
@@ -636,18 +652,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "정치",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   }
