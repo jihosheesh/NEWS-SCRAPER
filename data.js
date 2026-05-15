@@ -1,11 +1,28 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-15 18:29:34
+// 마지막 업데이트: 2026-05-15 19:30:38
 window.NEWS_DB = [
+  {
+    "id": "nac4fc0a1",
+    "category": "IT",
+    "source": "초이스스탁",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XTVdpS01hTkowMjBBeUJVWkI2blFJdzBqV3lBbnMyM2FhbmVPNWF6ZFZKdElQZzJGZ2ExZlV5MlJCWjVXdjd2TXBNQU5ZTkctd25FVTg1dUlzNWhLVk85NkdWM0dVUDg?oc=5",
+    "title": "엔비디아 칩 수출에 '전자발찌' 단다…美 하원, AI 반도체 위치추적 의무화 법안 추진",
+    "summary": [
+      "엔비디아 칩 수출에 '전자발찌' 단다…美 하원, AI 반도체 위치추적 의무화 법안 추진 초이스스탁."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#정책"
+    ]
+  },
   {
     "id": "n8e35c9b3",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRWNsRUlCZFg1LWdxZG1hNWlSWFZjaDN2UFFGTXM3cmRJdmtQelB2cUlBMGl0LVNYeTEwS1pvOTFCdEw1ZTJXaEk0VzNrdThIYkhKZUl4Y3R2RzlvRlNsV2gydDdBcVFwOWxFemZyNlg4SGM?oc=5",
     "title": "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\"",
     "summary": [
@@ -18,39 +35,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7c5c07a7",
-    "category": "경제",
-    "source": "프리진경제",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
-    "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
-    "summary": [
-      "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정 프리진경제."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n8781e79c",
-    "category": "IT",
-    "source": "경향신문",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
-    "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
-    "summary": [
-      "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호 경향신문."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n76cd35a4",
     "category": "경제",
     "source": "이코노미트리뷴",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCVVU1ZnBoUzFRSHAtaTUxaUVEN0ZCQW9WVG12bVRHQnJOSzd4Y0pueEZPNkhGd0JCWEt4U3ZMcjdXU3FWeGlneDhrNzd2UmNQdHlxbDFHWmlLdEhMenRVQUhVRVVOd3d3d1lKajdMd1poSi1CWmJv?oc=5",
     "title": "국채금리 4.18%·환율 1500원 턱밑…코스피 8000선 돌파 후 급락",
     "summary": [
@@ -65,7 +53,7 @@ window.NEWS_DB = [
     "id": "n93646d6a",
     "category": "IT",
     "source": "레디앙",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82UlcxS3RaeXotQTlnaE5SOTNnbEtGand6NmdYZW9LYzFkbE0yZ1M4SUItbkk0Sk94Tk56aHRMS1JPcjE3NVNicGV3R09lVnotUWtLZFVxTXpEX2Z1TVBGN2lzcEs5TzAt?oc=5",
     "title": "美, 엔비디아 H200 중국 판매 일부 허용...AI 반도체 패권 경쟁 새 국면",
     "summary": [
@@ -81,7 +69,7 @@ window.NEWS_DB = [
     "id": "ne880c824",
     "category": "IT",
     "source": "전국뉴스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLM2c5Tl9KdVUxSkNXdDVhcTRjeWp3SnBPakg3UnMzRnlzb3F2ajFteFBlZkp0ZDVBakhGeGRGWFZkNUYxZjV0b3hEM01WN1RCUWE1RHdqNUlobWJORW51VXpVRWtudUxTUnBtWkhyQmU?oc=5",
     "title": "[전남벤처도약발사대]한국산업은행·포스코홀딩스, 전남서 벤처생태계 협력 강화…“지역 스타트업 유니콘 도약 지원”",
     "summary": [
@@ -135,20 +123,6 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "nba668fc0",
-    "category": "IT",
-    "source": "한국방송뉴스",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -286,6 +260,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf7aebd8b",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "116일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
+    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
+    "summary": [
+      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n13cdbe9c",
     "category": "부동산",
     "source": "시사저널e",
@@ -297,6 +285,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
+    ]
+  },
+  {
+    "id": "n0fd44a05",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "148일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
+    "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
+    "summary": [
+      "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\" 조선일보."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
     ]
   },
   {
@@ -315,84 +318,239 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8eb83986",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516003200002",
-    "title": "달러-원, 美 주가지수 낙폭 축소에 상승분 일부 반납…1,497.50원 마감",
+    "id": "n20aedda7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/MY4TQNJYGY2DENZRGU3TQZBQG4/",
+    "title": "'금손' 김신영, 감에 의존한 셀프 이발 \"처음에는 애견 이발기 썼다가 낭패\" ('나혼산') [순간포착]",
     "summary": [
-      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 오름폭을 소폭 좁히며 1,490원대 후반에서 장을 마쳤다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 김신영이 10년 째 셀프 이발 중이라고 알려 놀라움을 자아냈다.",
+      "15일 방송된 MBC 예능 '나 혼자 산다'(이하 '나혼산') 647회에서는 김신영의 하루가 그려져 눈길을 끌었다.",
+      "이날 김신영은 후두염을 앓는 채로 라디오 일정을 소화하고 집으로 돌아왔다."
     ],
     "chips": [
-      "#환율"
+      "#뉴스"
     ]
   },
   {
-    "id": "n84434b7a",
+    "id": "ne7732ce0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/16/MYZGCODGGU4DON3GMMZGEYJZMQ/",
+    "title": "'끝내기 아쉬움→엔트리 말소' 하주석, 복귀 기회 언제 찾아올까…2군서 안타 치고 도루까지 '반등 준비'",
+    "summary": [
+      "[OSEN=수원, 조은혜 기자] 프로야구 한화 이글스 하주석은 언제 다시 기회를 잡을 수 있을까.하주석은 15일 서산구장에서 열린 2026 메디힐 KBO 퓨처스리그 삼성 라이온즈와의 경기에서 3번타자 겸 2루수로 선발 출전해 4타수 1안타 1타점 1득점 1도루를 기록했다.이날 하주석은 삼성 선발 최예한 상대 이도훈이 번트 안타 후 폭투로 진루한 1사 주자."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf6baac06",
     "category": "부동산",
     "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632124",
-    "title": "美에너지장관 \"중국의 미국산 원유 수입 늘어날 것\"",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003631390",
+    "title": "\"아랫집 베란다 요리에 빨래까지 냄새 배\"…공동주택 에티켓 논란",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미중 정상회담에서 중국의 미국산 원유 수입 확대가 논의된 것으로 알려진 가운데, 크리스 라이트 미국 에너지부 장관은 15일(현지 시간) 중국의 미국산 원유 수입이 늘어날 것이라고 밝혔다.",
-      "라이트 장관은 이날 CNBC인터뷰에서 \"전세계적으로 중국은 현재 세계 최대의 원유 및 천연가스 수입국이고, 따라서 (미중간) 자연스럽게 에너지 교역이 이뤄지고 있다\"며 \"앞으로 중국의 미국산 석유 수입이 증가할 것으로 예상한."
+      "[서울=뉴시스]김혜경 기자, 염지윤 인턴기자 = 아파트 베란다 조리를 둘러싼 층간 갈등이 온라인에서 화제가 되고 있다.",
+      "한 누리꾼이 아랫집 음식 냄새로 고통받고 있다는 사연을 공개하면서 공동주택 에티켓 논쟁으로 번지고 있다.",
+      "지난 12일 한 온라인 커뮤니티에 \"안방 음식 냄새 때문에 미치겠다\"는 제목의 글이 올라왔다."
     ],
     "chips": [
-      "#전세"
+      "#부동산"
     ]
   },
   {
-    "id": "n19181d57",
+    "id": "naa21ad0d",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516000551099",
-    "title": "민주콩고·우간다서 또 에볼라 발병…\"사망자 발생\"(종합)",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)과 우간다에서 에볼라 발병이 또다시 확인됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8fe5213e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516002800075",
-    "title": "반유대주의 공격 늘자 X도 테러·혐오 콘텐츠 단속 강화",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 최근 영국에서 반(反)유대주의 범죄가 발생한 가운데 사회관계망서비스(SNS) 책임론이 불거지자 엑스(..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n76f4d577",
-    "category": "IT",
     "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632122",
-    "title": "앤트로픽, '1349조원 몸값'으로 45조원 투자 유치",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632127",
+    "title": "이스라엘·레바논, 휴전 45일 연장…美 중재 협상 이어간다",
     "summary": [
-      "[서울=뉴시스]박미선 기자 = 인공지능(AI) 스타트업 앤트로픽이 기업공개(IPO)를 앞두고 기업가치 9000억 달러(약 1348조6000억 원) 기준으로 300억 달러(약 44조9500억 원) 이상의 신규 투자 유치에 나섰다고 15일(현지 시간) 월스트리트저널(WSJ)이 보도했다.",
-      "이번 투자 유치는 그리녹스 캐피털, 세쿼이아 캐피털, 드래고니어, 알티미터 캐피털 등이 공동 주도하고 있는 것으로 알려졌다.",
-      "한 관계자는 \"아직 거래가 최종 마무리."
+      "[서울=뉴시스]박미선 기자 = 이스라엘과 레바논 간 휴전이 45일 연장됐다.",
+      "15일(현지 시간) AP통신, CNN에 따르면 미 국무부는 워싱턴에서 14~15일 이틀간 진행된 양국 간 회담 결과, 당초 17일 종료 예정이었던 휴전을 45일 추가 연장하기로 합의했다고 밝혔다.",
+      "토 피곳 미 국무부 대변인은 소셜미디어를 통해 \"최근 진행된 이스라엘과 레바논 간 회담은 매우 생산적이었다\"며 \"휴전 연장은 일요일부터 발효된다\"고 설명했다."
     ],
     "chips": [
-      "#AI",
-      "#스타트업"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd99062ee",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003631888",
+    "title": "대구 낮 최고 33도 무더위…경북 내륙 15도 큰 일교차",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 토요일인 16일 대구와 경상북도는 대체로 맑고 일교차가 클 것으로 예상된다.",
+      "대구지방기상청은 이날 \"당분간 대구와 경북내륙을 중심으로 낮 기온이 30도 이상으로 올라 덥겠다\"고 예보했다.",
+      "아침 최저기온은 10~16도(평년 8~14도), 낮 최고기온은 24~33도(평년 21~26도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n81cdd019",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003632094",
+    "title": "이다희 \"3년 만난 연인 이별 통보에 붙잡아 다시 만나\"",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 배우 이다희가 장기 연애 경험을 고백했다.",
+      "15일 방송한 tvN '구기동 프렌즈'에서 이다희는 연애 프로그램을 보던 중 장도연과 경수진에게 \"마음고생에서 살 빠져 본 적 있냐\"고 물었다.",
+      "이어 \"나는 있다\"고 털어놨다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n61f9bc67",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/05/16/GQ2WIYLFGI2DGMDDHE3DEZTEGA/",
+    "title": "[데스크 칼럼] 선거 끝나면 바꿔야 할 유통 규제",
+    "summary": [
+      "이재명 정부 출범 후 1년 만에 치러지는 첫 전국 단위 선거인 6·3 지방선거가 코앞으로 다가왔다.",
+      "선거를 앞두고 정치권이 유권자 눈치를 보느라 처리를 미뤄둔 법안도 적지 않다.",
+      "대표적인 사례가 유통산업발전법이다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nec99f257",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "33분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/16/2026051603511138219",
+    "title": "조이 \"연예인 못 하게 되면 어떡하지\"…애견 미용 자격증 도전",
+    "summary": [
+      "레드벨벳 조이가 애견 미용 자격증에 도전 중이다.",
+      "15일 방영된 MBC '나 혼자 산다' 647회에서는 애견 미용 자격증을 준비 중인 레드벨벳 조이의 일상이 공개됐다.",
+      "이날 조이는 \"드라마 촬영이 끝나자마자 애견 미용 학원을 다니기 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8308e064",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/sports/football/2026/05/16/MNSWCY3EGNTGMMJWGE2WGMTBG4/",
+    "title": "\"몇 년 뒤 대표팀 제안 오면? 당연히 생각 있지\" 이정효가 韓 축구 이끄는 날 올까...\"유럽 도전 원한다, 가까운 日이라도\"",
+    "summary": [
+      "[OSEN=고성환 기자] 언제가 이정효 감독이 대한민국 축구대표팀을 지휘하는 모습을 볼 수 있을까.",
+      "수원 삼성의 '명가 재건'에 집중하고 있는 그가 미래에는 대표팀 감독 자리에도 관심이 있다고 밝혔다.이정효 감독의 절친이자 국가대표 공격수 출신 안정환이 운영하는 유튜브 채널 '안정환 19'는 15일 \"국가대표 감독보다 원하는 것 수원 삼성 이정효 후반전 이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf116568a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516004400091",
+    "title": "오픈AI, 브록먼 사장이 직접 제품 담당…인프라-제품 통합 전략",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 챗GPT 개발사 오픈AI가 인공지능(AI) 모델과 제품 전략을 통합하는 방향으로 조직을 재편했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nb9d77d01",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516004300099",
+    "title": "나이지리아서 무장괴한 잇단 학교 공격…학생 수십명 납치",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 나이지리아 북부와 남부에서 15일(현지시간) 무장괴한의 학교 공격으로 학생 등이 잇따라 납치됐다고 A..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ncfbc9bfc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516004200079",
+    "title": "눈가리고 모욕, 모스크에 방화…'예루살렘의 날' 정착민 폭력",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘이 1967년 동예루살렘을 장악하고 병합한 것을 기념하는 '예루살렘의 날'에 팔레스타인 요르단강 서..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb277899a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516004000071",
+    "title": "美 \"이스라엘-레바논, 휴전 45일 추가 연장 합의\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 조준형 특파원 = 이스라엘과 레바논이 지난달 중순부터 이어지고 있는 휴전을 45일 더 연장하는 데 합의했다고 미국 국무부가 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n060411b5",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "54분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/16/2026051603310694740",
+    "title": "김신영, 집에서 바리캉 이발까지 척척 \"혼자 머리 민 지 10년\"",
+    "summary": [
+      "김신영이 10년 차 셀프 이발 실력을 공개했다.",
+      "15일 방영된 MBC '나 혼자 산다' 647회에서는 김신영의 일상이 공개됐다.",
+      "이날 김신영은 라디오 일정을 마치고 집으로 돌아온 뒤 이발 기계, 미용보를 꺼내 직접 뒷머리를 깎기 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8b27e895",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "57분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051601080689505",
+    "title": "'MLB 201홈런' 42세 터너 깜짝 고백 \"한국행 타진했었다→류현진에 연락해봤지만...\"",
+    "summary": [
+      "메이저리그(MLB) 통산 2회 올스타이자 월드시리즈 우승 주역인 메이저리그 커리어 201홈런이라는 누적 기록을 갖고 있는 내야수 저스틴 터너(42·멕시코 리그 티후아나 토로스)가 이번 시즌을 앞두고 류현진(39·한화 이글스)을 통해 KBO 리그 무대의 문을 두드렸던 것으로 밝혀졌다.",
+      "미국 스포츠 전문 매체 '디 애슬레틱'은 16일(한국시간) 멕시코 리그(LMB) 티후아나 토로스에서 활약 중인 터너와의 단독 인터뷰를 공개하며, 그가 현역 연장을."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
     "id": "nf22ddfee",
     "category": "사회",
     "source": "테크M",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151894",
     "title": "반도체산업협회 \"삼성전자 파업, 반도체 생태계 악영향...협상해야\"",
     "summary": [
@@ -407,38 +565,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc069b38b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "29분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/05/16/BLDNDMCYJFD5NJP6S2MZEDQBXE/",
-    "title": "소셜미디어 부작용과 ‘보이지 않는 비용'",
-    "summary": [
-      "소셜미디어 부작용과 ‘보이지 않는 비용'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n546344ac",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "29분 전",
-    "url": "https://www.chosun.com/international/2026/05/16/E3TSJHRNNJDDJNRCXZ7RXGYLMI/",
-    "title": "2500만년 호수 바닥이 내는 잠수함 소리… 바이칼 호수의 하룻밤",
-    "summary": [
-      "2500만년 호수 바닥이 내는 잠수함 소리… 바이칼 호수의 하룻밤."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7208b889",
     "category": "경제",
     "source": "테크M",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151893",
     "title": "빗썸, 크립토 윈터에도 분기이익 달성...이용자 보호·비용 최적화 집중",
     "summary": [
@@ -454,7 +584,7 @@ window.NEWS_DB = [
     "id": "na123452e",
     "category": "경제",
     "source": "머니투데이",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/entertainment/2026/05/16/2026051602325650442",
     "title": "\"방송 24년 차인데… \"김신영, 매니저 없이 홀로 스케줄 다니는 이유?",
     "summary": [
@@ -470,7 +600,7 @@ window.NEWS_DB = [
     "id": "n72fce265",
     "category": "사회",
     "source": "테크M",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151891",
     "title": "\"100조원 손해 싫으면 45조원 성과급 달라\"...삼성전자 노조, 대화 거부 '지속'(종합)",
     "summary": [
@@ -486,7 +616,7 @@ window.NEWS_DB = [
     "id": "n9e0f4a28",
     "category": "사회",
     "source": "동아일보",
-    "time": "59분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260516/133934256/1",
     "title": "조이, 애견 미용사 자격증 도전…“연예인 못하게 된다면?”",
     "summary": [
@@ -501,7 +631,7 @@ window.NEWS_DB = [
     "id": "n9bd10145",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260516/133934251/1",
     "title": "“손끝 저리고 화끈거려요”…혹시 ‘이 질환’ 신호?",
     "summary": [
@@ -512,135 +642,6 @@ window.NEWS_DB = [
     "chips": [
       "#의료"
     ]
-  },
-  {
-    "id": "n2d28f62e",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151890",
-    "title": "두나무, 1Q 매출 전년比 54.6% 감소...\"경기 둔화 영향\"",
-    "summary": [
-      "가상자산거래소 업비트 운영사 두나무가 올해 1분기 아쉬운 성적표를 받아들었다.",
-      "글로벌 경기 둔화로 인해 가상자산 거래량이 줄면서, 주요 수익원인 거래소 수수료도 함께 줄어들었기 때문이다.두나무는 올해 1분기 연결 기준 매출액이 2346억원으로 전년동기대비 54.6% 감소했다고 15일 공시했다.",
-      "영업이익은 전년동기대비 77.8% 줄어든 880억원을 기록했다.사업부문별로 살펴보면 업비트 등에서 발생하는 수수료 매출이 2287억원으로, 전체 매출의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb3bb5b53",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516002400009",
-    "title": "아르헨의 특이한 개 입양 캠페인…\"월드컵앨범속 선수는 유기견\"",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나 북부 살타주에서 2026 북중미 월드컵 스티커 앨범을 패러디한 유기견 입양 캠페인이 화..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na8f459d2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003632000",
-    "title": "제주4·3부터 광주의 빛까지…강요배 “가슴이 뛴다” 60년 회고전",
-    "summary": [
-      "[서울=뉴시스] 박현주 미술전문 기자 = 민중미술 1세대 작가 강요배의 그림 앞에서는 풍경도 역사가 된다.",
-      "붉게 뒤엉킨 파동, 폭풍처럼 휘몰아치는 붓질, 어둠 속에서 터져 나오는 빛.",
-      "광주시립미술관 민주인권평화전 ‘강요배: 시간을 품다’는 제주4·3의 기억부터 인간과 자연의 시간까지, 작가가 60년간 통과해온 역사의 층위를 거대한 회화 공간으로 펼쳐낸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a625f61",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631746",
-    "title": "해운대구, 어린이 대상 강의+탐방 프로그램 운영",
-    "summary": [
-      "[부산=뉴시스]김민지 기자 = 부산 해운대구는 어린이를 대상으로 강의와 현장 탐방이 결합한 체험 프로그램을 운영한다고 16일 밝혔다.",
-      "'합천-글에 취하고 지혜에 머물다'를 주제로 6월13~21일 총 3차례에 걸쳐 시행된다.",
-      "총 두 차례 사전 강의와 한 차례 경남 합천군 일대 탐방으로 구성된다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "na4e03c2a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051518565053512",
-    "title": "'무려 145kg' 거구를 휙 던졌다! '265kg 파워' 역대급 괴수 \"근육이 피부를 뚫고 나올 기세\"",
-    "summary": [
-      "역대 최고 수준의 괴력이다.",
-      "복부 근력 265kg이라는 경이로운 수치를 기록한 22세 신예 스모 선수의 비현실적인 근육질 몸매가 큰 화제를 모으고 있다.",
-      "'아메바타임스'는 15일 보도를 통해 최근 프로 무대에 데뷔한 오오모리의 압도적인 신체 조건과 근력을 집중 조명했다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "ndfb3c725",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260516/133933689/2",
-    "title": "대전고 첫 우승 vs 충암고 4번째 왕관, 1번타자에 달렸다",
-    "summary": [
-      "승률 100%와 100%가 맞붙는다.",
-      "두 학교의 무패 기록 가운데 하나는 반드시 깨진다.",
-      "대전고와 충암고가 16일 오후 1시 서울 목동야구장에서 맞붙는 제80회 황금사자기 전국고교야구대회 겸 주말리그 왕중왕전 결승전 이야기다."
-    ],
-    "chips": [
-      "#KBO",
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nba5af310",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260516/133934036/2",
-    "title": "트럼프-시진핑, 치킨게임 막고 ‘무역휴전’ 유지",
-    "summary": [
-      "도널드 트럼프 미국 대통령의 2박 3일간 중국 국빈 방문 일정이 15일 마무리됐다.",
-      "2017년 11월 이후 8년 6개월 만에 중국을 찾은 트럼프 대통령은 시진핑(習近平) 중국 국가주석과 여섯 차례 만나 대만 문제, 이란 전쟁, 무역 갈등 등 양국 핵심 현안을 논의했다.",
-      "이를 통해 두 정상은 지난해 트럼프 2기 행정부 출범 후 관세전쟁 등으로 한동안 ‘치킨 게임’ 양상으로 치달았던 양국 관계를 일단 ‘안정화’ 수준으로 계속 관리하는 데 합의한 것."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n12a98d1b",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051522574252413",
-    "title": "'깜짝 비정상 벌크업' 女 최강 론다 로우지, 드디어 역대급 복귀전→소신발언 \"대전료 너무 적다... 내가 은퇴한 이유\"",
-    "summary": [
-      "약물 논란도 개의치 않는다.",
-      "여성 격투기의 최강으로 군림했던 론다 로우지(39)가 10년 만에 옥타곤으로 돌아오며 격투기 판을 뒤흔들겠다는 야심 찬 포부를 드러냈다.",
-      "로우지는 오는 17일(한국시간) 미국 로스앤젤레스 인튜이트 돔에서 또 다른 격투기 전설 지나 카라노(44)와 페더급 맞대결을 치른다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -649,18 +650,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
