@@ -1,42 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-16 05:03:29
+// 마지막 업데이트: 2026-05-16 06:43:45
 window.NEWS_DB = [
-  {
-    "id": "nc58b2e7d",
-    "category": "IT",
-    "source": "위키리크스한국",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NOFRVS3hCUEJmSnJkQVZzLXBnRmFIeElVT2xGMnlzazZXbS10RUlzeGFJd3hqVnZ0R3RxQ1hKb21HWGRPN2wzYmtHbTdNS2wtcDZJUWFDamhNLTVWUlBkNjU1YkJKMEQwOUVVYUhoZw?oc=5",
-    "title": "[인공지능 줌인] 자국산 AI 칩 개발에 박차를 가하고 있는 중국에 엔비디아가 복귀하면?",
-    "summary": [
-      "[인공지능 줌인] 자국산 AI 칩 개발에 박차를 가하고 있는 중국에 엔비디아가 복귀하면? 위키리크스한국."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n8e35c9b3",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "21시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRWNsRUlCZFg1LWdxZG1hNWlSWFZjaDN2UFFGTXM3cmRJdmtQelB2cUlBMGl0LVNYeTEwS1pvOTFCdEw1ZTJXaEk0VzNrdThIYkhKZUl4Y3R2RzlvRlNsV2gydDdBcVFwOWxFemZyNlg4SGM?oc=5",
-    "title": "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\"",
-    "summary": [
-      "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\" 비즈니스포스트."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#수출"
-    ]
-  },
   {
     "id": "n7c5c07a7",
     "category": "경제",
     "source": "프리진경제",
-    "time": "21시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
     "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
     "summary": [
@@ -44,21 +13,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "n8781e79c",
-    "category": "IT",
-    "source": "경향신문",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
-    "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
-    "summary": [
-      "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호 경향신문."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -151,35 +105,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n325c11bb",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEVtV09LTVc1QzFLdlBOdUVFQUgzNmtlUzhSb3lJM1hKNnYxVlhtSXptc0gxTVlacERuWDhYNm04MkVqQzNZeVk4NVJWZk5DS2lrRmF5YjliRy1rVXprTnl5aE9kSTNkLWdMMDhHa015OUxwdEhxZ2pSRmdWQTNvUlRkenM5UHlVVXhMMQ?oc=5",
-    "title": "[경제포커스] 삼성전자 노사에 필요한 2등 마인드",
-    "summary": [
-      "[경제포커스] 삼성전자 노사에 필요한 2등 마인드 조선일보."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "ne248c225",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YM0VzU250Rjk0ZjQ4eDZ2bFBheGV3Z3VrYW1hb0VUd1p5SzVsZURnR3AtUTJhU1BicHNadFVyZGhvd1RPTkhaZTdqM3EyTUNzSGR3TnB5dXJWR03SAWBBVV95cUxOSlZ1aFh5T3pjSHNXTVY0TlQyZ1prZE5MbWtVM3VEZnJXbm53XzQzeGxnLVJ3Y1gxNE9GRnFpdTd5OGFlTGtBa1ZwRFBkRXdkeXMxNFI3UVQ2R1cxNkpCQWM?oc=5",
-    "title": "'귀한 몸' SK하이닉스, 파운드리 1위 TSMC와 격차 더 벌렸다",
-    "summary": [
-      "'귀한 몸' SK하이닉스, 파운드리 1위 TSMC와 격차 더 벌렸다 연합뉴스."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "nc4b0f988",
     "category": "IT",
     "source": "kukinews.com",
@@ -227,6 +152,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na3d37f8f",
+    "category": "IT",
+    "source": "지디넷코리아",
+    "time": "65일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVJIdW42c2NuWTBtVDhMWEZjT2ttdWRBNmhraDlsOG1DR3JpajNrY0RfSkhVSjduUEpRWFBpUUhtOWN3eXIxZjZmM01odVR6TGpoNmhn?oc=5",
+    "title": "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략",
+    "summary": [
+      "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략 지디넷코리아."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
@@ -252,6 +191,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "n759c2467",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "91일 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
+    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
+    "summary": [
+      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
     ]
   },
   {
@@ -377,267 +331,309 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na751ddbf",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "2분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/05/16/24JU2LNRXRHRDPTFT6XRUW23OA/",
-    "title": "로이터 “삼성전자, 메모리 600%·파운드리 최대 100% 성과급 제안”",
+    "id": "n9127a642",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/16/2026051615280163113",
+    "title": "이상민 1심 7년→2심 9년 \"엄중 처벌 필요\"…연기된 윤석열 2심 영향",
     "summary": [
-      "로이터 “삼성전자, 메모리 600%·파운드리 최대 100% 성과급 제안”."
+      "[이번주 주요재판] 이번주 선고가 이뤄진 재판 중에서는 12·3 비상계엄 이후 내란 관련 혐의로 기소된 이상민 전 행정안전부 장관의 2심에 관심이 모였다.",
+      "이 전 장관은 1심에서 징역 7년을 선고받았는데, 2심에선 이보다 2년 늘어난 징역 9년을 선고받았다.",
+      "지난 7일 2심에서 한덕수 전 국무총리가 1심 23년보다 8년 적은 15년을 선고받은 것과 대조됐다."
     ],
     "chips": [
-      "#반도체",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na7d2ac23",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632329",
+    "title": "고개 숙인 이재용 삼성전자 회장, 이재용 삼성전자 회장 \"지혜롭게 힘모아야, 비바람 제가 맞을 것\" [뉴시스Pic]",
+    "summary": [
+      "[서울=뉴시스]정병혁 이지용 기자 = 이재용 삼성전자 회장이 16일 해외출장을 마치고 서울 강서구 서울김포비즈니스항공센터로 귀국했다.",
+      "검은색 정장을 입고 굳은 표정으로 공항을 나온 이 회장은 노조 사태에 대한 입장문을 꺼내 읽었다.",
+      "이번 사태와 관련해 처음으로 직접 입을 연 것이다."
+    ],
+    "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "n8f9c629e",
+    "id": "ne96ff50a",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260514_0003629686",
-    "title": "\"톱스타 모셔라\"…건기식 광고모델 경쟁 뜨겁다",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632304",
+    "title": "추자현, ♥우효광과 변함없는 애정…폭풍 성장 아들 공개",
     "summary": [
-      "[서울=뉴시스]송종호 기자 = 최근 건강기능식품 업체들이 스타 연예인을 공격적으로 모델로 선정하고 있다.",
-      "이는 시장의 경쟁이 치열한 가운데 고객 인지도 향상과 브랜드 이미지 제고를 위해서다.",
-      "16일 관련업계에 따르면 유산균 브랜드 비피오(BIFIO)는 조여정 배우를 전속 모델로 발탁했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "naeb6d117",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/stock/2026/05/16/2026051516325323656",
-    "title": "연금 부자가 되기 위해 꼭 알아야 할 절세 팁",
-    "summary": [
-      "[싱글파이어 머니쇼④]이동후 삼성자산운용 ETF투자솔루션팀 팀장 주식 투자로 경제적 자유를 이뤄내고 싶은 투자자들이 한 자리에 모였다.",
-      "15일 코엑스에서 열린 머니투데이 '싱글파이어 머니쇼'에는 투자 성공을 꿈꾸는 참석자 450여명으로 북적였다.",
-      "머니투데이가 만드는 경제·재테크·라이프스타일 유튜브 채널 '싱글파이어'에서 주식 투자 성공 사례와 비법 등을 공개해 인기를 끌었던 주인공들이 그들만의 노하우와 투자 전략을 이들과 공유했다."
+      "[서울=뉴시스] 이종희 기자 = 배우 추자현이 남편 우효광, 아들 바다와 함께한 일상을 공개했다.",
+      "추자현은 최근 자신의 중국 소셜미디어 계정에 \"집에 돌아 오니 모두가 함께\"라는 제목의 영상을 게재했다.",
+      "영상에는 일정으로 인해 2주간 가족과 떨어져 있던 추자현이 마트에서 장을 보고 집으로 돌아가는 모습이 담겼다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n30bde5e8",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/future/2026/05/16/2026051517150069405",
-    "title": "'연 1000회 K팝 로봇 콘서트'… 2천만 한류 관광 시대 열 랜드마크 떴다",
-    "summary": [
-      "갤럭시코퍼레이션, 고덕동에 '갤럭시 로봇파크' 개관 [이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] \"로봇아레나에서 하루 3번, 많게는 6번까지 K팝 공연을 합니다.",
-      "1년이면 1000번이 넘죠.",
-      "여기서 시작해서 로봇 콘서트 월드투어까지 갈 겁니다.\" 15일 오후 서울 강동구 고덕동 '갤럭시 로봇파크'에서 열린 기자간담회에서 최용호 갤럭시코퍼레이션 대표가 K팝 로봇 상설공연."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nb2d9e6de",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260515/133930179/1",
-    "title": "월정사의 봄, 비천상 여인과 함께 ‘달을 쓿다’ [전승훈 기자의 아트로드]",
-    "summary": [
-      "“달이 왜 반달이 되는지 아시는지요.",
-      "하늘이 꼭 껴안아 줬기 때문입니다.",
-      "달이 왜 보름달이 되는지 아시는지요."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8961ab88",
+    "id": "n02c02853",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631932",
-    "title": "객석에서 바(barre)앞으로…'직접 하는 발레'에 빠진 MZ",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632326",
+    "title": "6·3 지방선거 광역단체장 후보 54명 중 전과 21명…군미필 12명",
     "summary": [
-      "[서울=뉴시스] 최희정 기자 = 공연장에서 발레를 감상하던 직장인들이 이제는 직접 바(barre)를 잡기 시작했다.",
-      "고상하고 거리감 있는 예술로 여겨졌던 발레가 20~40대의 일상 속 취미로 자리 잡는 분위기다.",
-      "서울시발레단을 운영하는 세종문화회관이 기획한 성인 취미 발레 프로그램 '그랑 발레데이'는 지난 4월 30일 첫 유료 수업 예매를 시작하자마자 1분 만에 저녁반 정원 50명이 마감됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7c8ee43",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631416",
-    "title": "'더샵송도그란테르' 등 4991가구 분양예정[분양캘린더]",
-    "summary": [
-      "[서울=뉴시스]정진형 기자 = 5월 셋째 주 전국 8개 단지 총 4991가구가 분양을 시작한다.",
-      "이중 일반분양은 3448가구 규모다.",
-      "16일 부동산R114에 따르면, 청약일정은 인천 연수구 송도동 '더샵송도그란테르', 인천 남동구 구월동 '힐스테이트구월아트파크', 충북 청주시 지북동 '청주한양립스더벨루체' 등에서 진행된다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nc18ac3bd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631336",
-    "title": "기아에 밀린 현대차, 반격 카드 통했다…'더 뉴 그랜저' 첫날 1만대 계약",
-    "summary": [
-      "[서울=뉴시스]김민성 기자 = 현대자동차가 '더 뉴 그랜저'를 앞세워 내수 판매 반등에 나선다.",
-      "지난달 국내 판매와 생산에서 모두 기아에 밀렸지만, 주력 세단인 그랜저 부분변경 모델이 출시 첫날 1만대가 넘는 계약을 기록하면서 분위기 전환의 계기를 마련했다는 평가다.",
-      "16일 현대차에 따르면 '더 뉴 그랜저'는 출시 첫날 총 1만277대의 계약을 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd71b8271",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/16/2026051613597256643",
-    "title": "'모자무싸' 구교환, 감독 데뷔 앞두고 업보 청산 스타트",
-    "summary": [
-      "‘모두가 자신의 무가치함과 싸우고 있다’에서 영화감독 데뷔를 앞둔 구교환이 과거 자신이 쌓아놓은 업보들과 정면대결을 시작한다.",
-      "JTBC 토일드라마 ‘모두가 자신의 무가치함과 싸우고 있다’(연출 차영훈, 극본 박해영, 제작 스튜디오 피닉스·SLL·스튜디오 플로우, 이하 ‘모자무싸’)의 황동만(구교환)은 반려묘 ‘요름이’의 갑작스러운 수술비를 마련하기 위해 사채에 손을 댔다.",
-      "그 후로 ‘업자’라 저장된 이에게 빚 독촉 전화를 받으며 불안한 나날을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4b90d899",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/05/16/VY6EPMA4Y5BWRGFIKI5YI4YZNM/",
-    "title": "[2026 칸 영화제] 연상호 ‘군체’ 시사회 첫 반응은 “대학살 액션은 볼만, 진부하고 알맹이 없어”",
-    "summary": [
-      "[2026 칸 영화제] 연상호 ‘군체’ 시사회 첫 반응은 “대학살 액션은 볼만, 진부하고 알맹이 없어”."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "na797aa57",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516036100007",
-    "title": "이정후, 애슬레틱스전 5타수 1안타…시즌 타율 0.265",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 샌프란시스코 자이언츠의 이정후가 두 경기 연속 안타 행진을 이어갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n633d7790",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://www.asiae.co.kr/article/2026051417231902145",
-    "title": "'1만피' 여의도 예측 나왔다…\"AI 쏠림 지속\"[주末머니]",
-    "summary": [
-      "KB증권이 국내 증권사 중 처음으로 코스피 지수가 1만을 넘을 것이라는 전망을 내놓았다.",
-      "반도체·전력·우주·로봇 등 인공지능(AI) 관련주 중심으로 쏠림 현상은 지속될 것이라고 분석했다.",
-      "16 증권업계에 따르면 KB증권은 올해 코스피 목표 지수를 7500에서 1만500으로 40% 상향 조정했다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n43af1c82",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://www.asiae.co.kr/article/2026051613520195319",
-    "title": "승용차가 스포츠센터 유리창 깨고 수영장 추락…2명 부상",
-    "summary": [
-      "16일 오전 10시 20분께 경남 밀양시 하남읍 하남스포츠센터에서 70대 여성 A씨가 몰던 승용차가 건물 1층 유리창을 들이받고 내부로 돌진한 뒤 지하 수영장으로 추락했다.",
-      "차량은 수영장 안으로 떨어진 뒤 뒤집혔으며, 당시 수영 중이던 이용객들이 곧바로 운전자 구조에 나섰다.",
-      "현장 목격자는 \"수영하던 남성들이 물속에 가라앉은 차량에서 운전자를 꺼냈고, 이후 강사가 심폐소생술을 실시했다\"고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n26681fa9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/HAZDEN3GMZTDCN3DGZRTMOLGME/",
-    "title": "이현이, '사립초 입학' 아들 수업 태도에 '충격'..\"선생님 등돌리고 앉아\"",
-    "summary": [
-      "[OSEN=김나연 기자] 방송인 이현이가 아들의 수업 태도에 충격을 받았던 경험을 털어놨다.15일 '여의도 육퇴클럽' 채널에는 \"아들 엄마가 뭘 알아? 딸 안 키워봤으면 절대 모름 (반박 환영)\"이라는 제목의 영상이 업로드 됐다.이날 영상에는 결혼 13년차 개그우먼 김미려와 14년차 이현이가 출연해 \"우리 아이 사회생활\"을 주제로 이야기를 나눴다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne1cb8589",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260516/133934758/1",
-    "title": "조국 “6·3서 당선 후 민주진보진영 연대·통합 주도할 것”",
-    "summary": [
-      "조국 조국혁신당 경기 ‘평택을’ 국회의원 재선거 후보는 16일 “(6·3 재선거에서) 당선되고 난 뒤 민주진보진영의 연대와 통합을 제가 주도적으로 하겠다”며 합당 추진을 시사했다.",
-      "조 후보는 이날 오후 경기 평택 선거사무소에서 기자회견을 열고 이같이 밝혔다.",
-      "조 후보는 “조국혁신당은 (과거) 민주당의 합당 제안을 받은 뒤 당무위 의결을 통해 조국혁신당의 비전과 가치를 존중하는 전제하에서 합당 문제에 대한 판단을 당대표에게 위임했다”며 “연대와."
+      "[서울=뉴시스]김지훈 전상우 기자 = 6·3 지방선거 광역단체장 후보 38%가 전과 기록을 가지고 있는 것으로 나타났다.",
+      "16일 중앙선거관리위원회에 다르면 지난 14~15일 양일간 광역단체장 후보로 등록한 54명 중 21명이 전과 기록을 신고했다.",
+      "양정무 국민의힘 전북특별자치도지사 후보와 김현욱 국민연합 경기도지사 후보가 각 9회의 전과 기록을 신고해 가장 많았다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0f83f987",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516035900051",
-    "title": "[부고] 최종욱(주미한국대사관 해양수산관)씨 부친상",
+    "id": "nbbe2ef9c",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://www.asiae.co.kr/article/2026051615411294517",
+    "title": "중국, 미국 향해 \"남의 손발 묶지 말라…中美 공존 가능\"",
     "summary": [
-      "[부고] 최종욱(주미한국대사관 해양수산관)씨 부친상."
+      "중국이 최근 미중 정상회담을 계기로 제시한 '건설적 전략 안정 관계'를 다시 꺼내 들며 미국을 향해 대중(對中) 견제 중단과 대만 문제 불개입을 거듭 요구했다.",
+      "중국공산당 기관지인 인민일보는 16일 국제 현안 관련 자국 입장을 설명하는 논평 '종소리'를 통해 \"건설적 전략 안정은 경쟁에도 정도가 있는 양성적 안정이어야 한다\"고 밝혔다.",
+      "또 \"강대국 간 경쟁은 피하기 어렵지만, 제로섬 게임이나 승패를 가르는 '권투 경기'가."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n95354e6a",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "21분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/16/2026051613417240429",
-    "title": "'멋진 신세계' 임지연, 정의의 악녀 등판! 김두한 빙의 코믹 액션 차력쇼",
+    "id": "n166d467e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632323",
+    "title": "청주 낭성면 야산 불…0.5㏊ 소실",
     "summary": [
-      "‘멋진 신세계’ 임지연이 장희빈에 이어 '야인시대' 김두한에 빙의돼 역대급 코믹 차력쇼를 펼친다.",
-      "SBS 금토드라마 ‘멋진 신세계'(연출 한태섭, 극본 강현주)는 희대의 조선 악녀 영혼이 씌어 ‘악질’ 해진 무명배우 신서리와 자본주의가 낳은 괴물이라 불리는 악질 재벌 차세계의 일촉즉발 전쟁 같은 로맨스 코미디 드라마.",
-      "지난 3화 시청률이 최고 6.7%, 전국 5.8%, 수도권 5.7%를 기록, 자체 최고 시청률 경신과 함께 전회차 대비 또 한번."
+      "[청주=뉴시스] 서주영 기자 = 16일 오후 1시52분께 충북 청주시 상당구 낭성면 야산에서 불이 났다.",
+      "산림당국은 헬기 4대와 인력 100여명을 투입해 50여분 만에 진화했다.",
+      "이 불로 산림 0.5㏊가 소실됐다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "na4c80279",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/05/16/DN2BK2JPJRBXBCRLRVXTYQ4FGQ/",
+    "title": "정원오 “보수 품격 배우라” 오세훈 “선거 품격은 토론” 설전",
+    "summary": [
+      "정원오 “보수 품격 배우라” 오세훈 “선거 품격은 토론” 설전."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd39bc1ec",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/national/welfare-medical/2026/05/16/ERBGIQCHSNF77CJGVNJJ6ZNBFE/",
+    "title": "소아청소년병원협회 “아티반 등 소아약 반복 품절…진료차질 우려”",
+    "summary": [
+      "소아청소년병원협회 “아티반 등 소아약 반복 품절…진료차질 우려”."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n53e25516",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://www.asiae.co.kr/article/2026051615353287829",
+    "title": "이재용 '성과급 갈등'에 첫 대국민 사과…\"지혜롭게 힘 모아야 할 때\"(종합)",
+    "summary": [
+      "이재용 삼성전자 회장이 사내 성과급 갈등 사태에 대해 \"매서운 비바람은 제가 맞고 다 제 탓으로 돌리겠다\"며 처음으로 사과의 뜻을 밝혔다.",
+      "노사 간 합의가 이뤄지지 않은 채 오는 21일 총파업 가능성이 높아지자 사태를 진정시키기 위해 직접 조치에 나선 것으로 보인다.",
+      "이 회장은 16일 오후 서울 김포비즈니스항공센터(SGBAC)에서 일본 출장을 마치고 귀국하며 취재진과 만나 \"지금은 지혜롭게 힘을 모아 한 방향으로 나아가야."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n74770e93",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://www.asiae.co.kr/article/2026051615262676529",
+    "title": "홍준표 \"정원오 사건, 내 돼지발정제 사건 생각나…정책 대결해야\"",
+    "summary": [
+      "홍준표 전 대구시장이 서울시장 선거가 정책대결이 아닌 네거티브전으로 흐르고 있다며 아쉬움을 내비쳤다.",
+      "15일 홍 전 시장은 자신의 사회관계망서비스(SNS)에 서울시장 선거와 관련해 \"50여년 전 내가 하지도 않은 '하숙집 돼지 발정제' 사건을 드루킹을 이용해 덮어씌워 문재인 대선을 치렀듯이 30여년 전 모호한 사건을 선거의 쟁점으로 삼아 서울시장 선거를 하는 것을 보니 참 아쉽다는 생각을 지울 수 없다\"고 적었다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n839f3f52",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051614433395501",
+    "title": "대전 유강현 선봉, 서울은 후이즈·안데르손 투톱... 선발 라인업 발표 [대전 현장]",
+    "summary": [
+      "프로축구 K리그1 대전하나시티즌과 FC서울의 선발 라인업이 공개됐다.",
+      "대전과 서울은 16일 오후 4시 30분 대전월드컵경기장에서 열리는 하나은행 K리그1 2026 15라운드에서 격돌한다.",
+      "대전은 유강현을 필두로 루빅손과 서진수, 주앙빅토르가 2선에 포진하는 4-2-3-1 전형을 가동한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a3f945e",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051614504722563",
+    "title": "'이럴수가' 초대형 2루수 1군서 갑자기 사라졌다→뜻밖에 '부상 대형 악재' 사령탑도 안타까움 \"전조 증상도 없었는데...\" [잠실 현장]",
+    "summary": [
+      "두산 베어스는 물론, 한국 야구를 대표하는 초대형 2루수로 성장을 거듭하고 있는 '프로 2년 차' 박준순(20)이 뜻하지 않은 부상으로 잠시 쉬어간다.",
+      "두산은 16일 오후 5시 서울 잠실야구장에서 롯데 자이언츠를 상대로 2026 신한 SOL KBO 리그 정규시즌 홈 경기를 치른다.",
+      "이날 두산은 정수빈(중견수), 박찬호(유격수), 손아섭(지명타자), 카메론(우익수), 양의지(포수), 김민석(좌익수), 박지훈(3루수), 오명진(2루수) ,강승호(1."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nfd0b3b66",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://www.asiae.co.kr/article/2026051615305580879",
+    "title": "이현재 후보 \"2027년까지 덕풍시장 전선 지중화 완료…하머니 혜택도 확대\"",
+    "summary": [
+      "이현재 하남시장 후보는 지난 15일 관내 전통시장, 골목상권 상인회 대표들과 간담회를 갖고 전통시장 및 골목상권 활성화를 위한 구체적인 해법 모색에 나섰다.",
+      "이날 간담회에는 신장·덕풍·석바대·수산물전통시장 및 장리단길 상인회 대표들이 참석해 다양한 정책을 제안했다.",
+      "이 후보는 모두 발언을 통해 \"신장시장 주변 전선 지중화를 완료한 데 이어 남한고, 덕풍시장까지 원도심 전선 지중화를 단계적으로 완료해 시민들이."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n26bf474d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516041500527",
+    "title": "경기 남부·중부권 오존주의보 해제…동부권은 오존주의보 유지",
+    "summary": [
+      "(수원=연합뉴스) 경기 남부·중부권 16개 시에 내려진 오존주의보가 16일 오후 3시 해제됐다고 환경부 한국환경공단이 전했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nae4f2639",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260516/133934668/1",
+    "title": "충암고, 대전고 돌풍 잠재우다…결승전 승률 100% 이어가며 10-4 승리, 통산 4번째 우승[황금사자기]",
+    "summary": [
+      "투수전에서도, 타격전에서도, 수비전에서도, 응원전에서도 완승이었다.",
+      "충암고가 그랜드슬램에 도전하던 대전고의 돌풍을 막아서고 통산 네 번째 황금사자기를 펄럭였다.",
+      "충암고는 16일 서울 목동야구장에서 열린 제80회 황금사자기 전국고교야구대회 겸 주말리그 왕중왕전 결승전에서 대전고를 장단 11안타로 두들기고 10-4 승리를 거뒀다.황금사자기 결승에 오르기만 하면 모두 우승했던 충암고는 이날도 황금사자기 결승전 승률 100% 기록을 이어갔다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd82ffb7e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516041600527",
+    "title": "경남 남해 오존주의보 발령…하동은 오존주의보 유지",
+    "summary": [
+      "(창원=연합뉴스) 16일 오후 3시를 기해 경남 남해에 오존주의보가 내려졌다고 환경부 한국환경공단이 전했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "ndd37e05e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516041700527",
+    "title": "전남 순천·광양 오존주의보 발령…여수는 오존주의보 유지",
+    "summary": [
+      "(광주=연합뉴스) 16일 오후 3시를 기해 전남 순천·광양에 오존주의보가 내려졌다고 환경부 한국환경공단이 전했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n73dee1dd",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/16/2026051615273467143",
+    "title": "자기 머리카락 넣고 버럭...'음식값 4만4300원' 먹튀→벌금 50만원",
+    "summary": [
+      "술값을 내지 않을 요량으로 음식에 자기 머리카락을 집어넣은 30대 여성이 벌금형을 선고받았다.",
+      "16일 뉴시스에 따르면 인천지법 형사1단독 이창경 부장판사는 사기 혐의로 기소된 A씨(34)에게 벌금 50만원을 선고했다.",
+      "A씨는 지난해 7월14일 인천 부평구 한 요리주점에서 \"음식에서 머리카락이 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n37bcb219",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516041800527",
+    "title": "충남 당진 오존주의보 해제",
+    "summary": [
+      "(대전=연합뉴스) 충남 당진에 내려진 오존주의보가 16일 오후 3시 해제됐다고 환경부 한국환경공단이 전했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n168fd66a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/national/labor/2026/05/16/BJS3AYUO3RCCFA2DQW6SGKQAPQ/",
+    "title": "노동장관, 삼성전자 경영진 1시간 면담...“대화 적극 나서달라”",
+    "summary": [
+      "노동장관, 삼성전자 경영진 1시간 면담...“대화 적극 나서달라”."
+    ],
+    "chips": [
+      "#삼성전자"
     ]
   }
 ];
@@ -647,18 +643,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
