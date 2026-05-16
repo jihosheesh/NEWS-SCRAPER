@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-16 19:24:10
+// 마지막 업데이트: 2026-05-16 20:14:24
 window.NEWS_DB = [
   {
     "id": "n8e35c9b3",
@@ -15,20 +15,6 @@ window.NEWS_DB = [
       "#AI",
       "#엔비디아",
       "#수출"
-    ]
-  },
-  {
-    "id": "n7c5c07a7",
-    "category": "경제",
-    "source": "프리진경제",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
-    "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
-    "summary": [
-      "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정 프리진경제."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -121,6 +107,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2970703c",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
+    "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
+    "summary": [
+      "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게? 글로벌이코노믹."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -199,20 +201,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na3d37f8f",
-    "category": "IT",
-    "source": "지디넷코리아",
-    "time": "66일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVJIdW42c2NuWTBtVDhMWEZjT2ttdWRBNmhraDlsOG1DR3JpajNrY0RfSkhVSjduUEpRWFBpUUhtOWN3eXIxZjZmM01odVR6TGpoNmhn?oc=5",
-    "title": "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략",
-    "summary": [
-      "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략 지디넷코리아."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
@@ -286,6 +274,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf7aebd8b",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "117일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
+    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
+    "summary": [
+      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n13cdbe9c",
     "category": "부동산",
     "source": "시사저널e",
@@ -315,160 +317,188 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nec3152c4",
+    "id": "nc2950ac2",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260517002300091",
-    "title": "크루즈선 탔던 캐나다인, 한타바이러스 잠정 양성 판정",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 크루즈선 MV 혼디우스호에 탑승했던 캐나다인 1명이 한타바이러스 양성 판정을 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d793ba3",
-    "category": "스포츠",
     "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/17/MJTDKNLGG4ZDAMZSG5RWMMZUMU/",
-    "title": "'충격! 주급 40% 삭감 동의' '우등 이적생' 래시포드 희생 간절하다, 맨체스터 유나이티드→FC바르셀로나 완전이적 강력 희망",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/money/2026/05/17/3MNEMLVZOJHQFPTWYQBDURV5SY/",
+    "title": "복잡한 것 빼고 딱 필요한 기능만 담은 스마트워치, 2만원대 특별 할인",
     "summary": [
-      "[스포츠조선 노주환 기자]'우등 이적생' 마커스 래시포드가 FC바르셀로나로의 완전 이적을 강하게 원하고 있다.",
-      "자신의 주급을 40%까지 삭감하는 데 동의한 것으로 알려졌다.",
-      "그는 원 소속팀 맨체스터 유나이티드로 돌아갈 마음이 없는 상황이다."
+      "복잡한 것 빼고 딱 필요한 기능만 담은 스마트워치, 2만원대 특별 할인."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbefaa2bc",
+    "id": "n7f9793e7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/international/us/2026/05/17/R2SXFYLLU5GCBDWFUWXTTNHPFA/",
+    "title": "강경화 대사, ‘한반도 종전선언’ 주장 美의원 만나 “평화 구축 방안 논의”",
+    "summary": [
+      "강경화 대사, ‘한반도 종전선언’ 주장 美의원 만나 “평화 구축 방안 논의”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3fcce3c6",
     "category": "사회",
     "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260517_0003632528",
-    "title": "美 최신 항모 제럴드 포드호 11개월 배치후 귀항",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632172",
+    "title": "차들 씽씽 달리는데…주유소 가려고 '편도 5차선' 무리한 후진",
     "summary": [
-      "[서울=뉴시스] 문예성 기자 = 미국 해군의 최신예 항공모함 제럴드 R.",
-      "포드호가 약 11개월간의 장기 배치를 마치고 버지니아주로 귀항했다.",
-      "이 항모는 이란 전쟁과 니콜라스 마두로 베네수엘라 대통령 체포 작전 등에 투입되며 베트남전 이후 최장기간 작전 배치 기록을 세웠다."
+      "[서울=뉴시스]정우영 인턴 기자 = 편도 5차선 도로 한복판에서 주유소에 진입하기 위해 무리하게 후진을 시도한 SUV 차량이 포착돼 논란이 일고 있다.",
+      "15일 JTBC '사건반장'에 따르면 지난 10일 오후 5시30분께 경기도 수원시의 한 도로에서 차들이 빠르게 오가는 와중에 위험천만하게 후진을 하는 SUV 차량이 목격됐다.",
+      "당시 이 차량은 고가도로로 빠지는 길목에 위치한 주유소에 들어가기 위해 후진을 하며 무리하게 차선 변경을 시도한 것으로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n346ae0aa",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/17/2026051623402411663",
+    "title": "\"4년 전 1경기가 전부\" 日도 놀란 이기혁 깜짝 승선... 홍명보 감독도 높이 평가한 '멀티 능력'",
+    "summary": [
+      "프로축구 강원FC 수비수 이기혁(26·강원FC)이 2026 국제축구연맹(FIFA) 북중미 월드컵 최종명단에 깜짝 발탁됐다.",
+      "일본 언론도 이를 조명했다.",
+      "홍명보 한국 축구대표팀 감독은 16일 서울 종로구 KT 광화문 빌딩 웨스트 온마당에서 기자회견을 열고 2026 북중미 월드컵에 나설 26인의 최종 명단을 발표했다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n62a2a5a0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632423",
+    "title": "일요일 인천, 낮 동안 더위 이어져…새벽 만조 주의",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 17일 인천은 낮 최고기온이 30도에 육박하고, 달의 인력이 강해 해수면 높이가 높아지겠다.",
+      "하늘은 서해상에 위치한 고기압의 영향을 받아 대체로 맑겠다.",
+      "수도권기상청은 \"아침 최저기온은 15도, 낮 최고기온은 27도 내외의 분포를 보이겠다\"며 \"내일까지 낮 기온이 크게 올라 덥겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8ecc68c9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003631133",
+    "title": "암유발 유전자 수천개…\"유일한 예방 물질 이것\"[인터뷰]",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = \"현재까지 밝혀진 물질 가운데 암을 예방할 수 있는 물질은 비타민 B3가 유일합니다.\" 국내 사망 원인 1위는 암이다.",
+      "암을 유발하는 유전자는 수천가지지만, 암을 예방하는 유전자는 50여개에 불과하다.",
+      "이 가운데 현재까지 밝혀진 암을 억제하는 물질은 비타민 B3 뿐이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n95af3863",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516056300001",
+    "title": "與 지도부, 5·18 하루 앞두고 광주 집결…전북 표심 지원도",
+    "summary": [
+      "(서울=연합뉴스) 최주성 기자 = 제46주년 5·18 광주민주화운동 기념일을 하루 앞둔 17일 더불어민주당 정청래 총괄상임선대위원장과 한병도 상..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbf174ce6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260517_0003632524",
+    "title": "문상훈, 실제 강사 제의 받았다…\"살 빼고 공부하면 된다고\"",
+    "summary": [
+      "[서울=뉴시스] 이종희 기자 = 코미디언 문상훈이 인터넷 강의 업체에서 강사 제의를 받았다고 밝혔다.",
+      "16일 방송된 MBC '전지적 참견 시점'에는 문상훈이 출연했다.",
+      "이날 문상훈은 강사 연기로 실제 오해 받았던 일화를 공개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb06d5fcd",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/15/O5IWF42DWJFH3NKRSTQVZGTQ7I/",
+    "title": "중량의 절반이 고기 건더기, 두 달 만에 23만개 팔린 이혜정 도가니탕 4000원 초특가",
+    "summary": [
+      "중량의 절반이 고기 건더기, 두 달 만에 23만개 팔린 이혜정 도가니탕 4000원 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naa674b54",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260517002900071",
+    "title": "트럼프의 '배신자 응징' 또 성공할까…루이지애나 공화경선 주목",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 16일(현지시간) 과거 자신에 대한 탄핵에 찬성표를 던졌던 빌 캐시디 연방 상..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nf82cbe99",
-    "category": "사회",
-    "source": "뉴시스",
+    "id": "nc6969368",
+    "category": "경제",
+    "source": "연합뉴스",
     "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632506",
-    "title": "대구·경북, 맑고 큰 일교차…아침 12도·한낮 34도",
+    "url": "https://www.yna.co.kr/view/AKR20260517002600091",
+    "title": "워시 美연준 차기의장, 취임 앞서 쿠팡주식 매각…이사직도 사임",
     "summary": [
-      "[대구=뉴시스] 이상제 기자 = 일요일인 17일 대구와 경상북도는 대체로 맑고 일교차가 클 것으로 예상된다.",
-      "대구지방기상청은 이날 \"당분간 대구, 경북 대부분 지역에서 낮 기온이 30도 이상으로 오르겠고, 일부 지역에서는 최고체감온도가 31도 안팎으로 올라 덥겠다\"고 예보했다.",
-      "아침 최저기온은 12~18도(평년 8~14도), 낮 최고기온은 26~34도(평년 21~26도)로 예측된다."
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 차기 의장이 취임 전 쿠팡 모기업인 쿠팡아이앤씨(Inc.·..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n698f7b3f",
+    "id": "n3f5e76b3",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "연합뉴스",
     "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631570",
-    "title": "음주, 60개 이상 질병과 연관…\"금주 시 일부 건강 손상 회복 가능\"",
+    "url": "https://www.yna.co.kr/view/AKR20260517002800056",
+    "title": "제주, 맑고 일교차 커…\"건강관리 유의\"",
     "summary": [
-      "[서울=뉴시스]김혜경 기자, 박재연 인턴기자 = 음주가 60가지 이상의 질병과 연관돼 있으며 금주나 절주를 통해 일부 건강 손상은 회복될 수 있다는 세계보건기구(WHO) 연구 결과가 나왔다.",
-      "14일(현지 시간) 영국 데일리메일에 따르면 WHO 연구진은 음주와 관련된 질병 부담을 종합 분석한 결과, 음주가 60개 이상의 질병과 연관돼 있으며 여러 질병을 직접적으로 유발하는 것으로 나타났다.",
-      "또한 음주량을 줄이거나 중단할 경우 일부 건강 피해는 개."
+      "(제주=연합뉴스) 박지호 기자 = 일요일인 17일 제주는 맑고, 큰 일교차를 보이겠다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n4fbba362",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260517002400098",
-    "title": "이탈리아서 차량돌진에 8명 다쳐…\"아프리카계, 고의 돌진인 듯\"",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 이탈리아 북부 도시에서 16일(현지시간) 승용차가 인도로 돌진해 보행자 8명이 다쳤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9a75fa4e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "51분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/17/RJ44JPDEGNHHFM2HC3GRIBXPSU/",
-    "title": "‘월가의 저승사자’, 세계 최대 자산운용사 블랙록 정조준",
-    "summary": [
-      "‘월가의 저승사자’, 세계 최대 자산운용사 블랙록 정조준."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc8e32398",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260517002100071",
-    "title": "'제한적 성과' 안고 귀국한 트럼프…이란전 돌파구 찾기도 난제",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 중국 국빈방문 일정을 마치고 귀국했지만, 기대했던 수준의 대중(對中) 성과나 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne688d651",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/17/HFTDAOLCMIZTKYZQMI3WMNJXG4/",
-    "title": "\"또 우승이다\" 세메뇨 '뒷꿈치' 결승골 폭발! 맨체스터 시티 '더블' 달성, 첼시 1-0 격파..리그 역전 우승만 남았다",
-    "summary": [
-      "[스포츠조선 노주환 기자]펩 과르디올라 감독의 맨체스터 시티가 '더블'을 달성했다.",
-      "리그컵(카라바오컵)에 이어 FA컵 정상에 올랐다.",
-      "맨시티는 16일(한국시각) 영국 런던 웸블리 스타디움에서 벌어진 첼시와의 2025~2026시즌 잉글랜드 FA컵 결승서 세메뇨의 결승골로 1대0 승리하며 우승을 차지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndc20fea0",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260517001900091",
-    "title": "테슬라, 로봇택시 사고 17건 경위 공개…원격조종중 사고 포함",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 테슬라가 미국 텍사스주 오스틴에서 발생한 로봇택시(자율주행 택시) 사고 17건의 세부 내용을 공개했다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n3987e32c",
     "category": "IT",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.asiae.co.kr/article/2026051703013350266",
     "title": "10만 연등 물결에 로봇 스님까지…전통과 AI가 함께 걸은 종로",
     "summary": [
@@ -478,38 +508,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "n832aaa48",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/2026/05/17/6SHKLQYQQFF7ZFY2RB2FVYWK5M/",
-    "title": "앤디 워홀과 함께 비빔밥? 뮌헨 미술관 식당 K-푸드 바람",
-    "summary": [
-      "뮌헨 여행의 목표는 늘 바이에른 국립 오페라극장이다.",
-      "독일 최고 수준의 오페라가 올라가는 이 극장에 오기 위해 서울부터 14시간 비행기를 탄다.",
-      "저녁마다 오페라를 보기 위해선 체력을 아껴야 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba5620f1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260517_0003632526",
-    "title": "트럼프 \"이란 합의 안하면 매우 힘든 시간\"…방중후 강경 경고",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 도널드 트럼프 미국 대통령이 이란을 향해 미국과의 합의에 응하지 않을 경우 \"매우 나쁜 시간을 맞게 될 것\"이라며 다시 한번 강경 경고를 내놨다.",
-      "트럼프 대통령은 16일(현지 시간) 프랑스 BFM TV와의 전화 인터뷰에서 \"만약 이란이 합의하지 않는다면 매우 힘든 시간을 겪게 될 것\"이라며 \"그들은 합의를 하는 편이 나을 것\"이라고 경고했다.",
-      "트럼프 대통령은 또 이란과의 합의 가능성에 대해 \"전혀 알 수 없다\"고."
-    ],
-    "chips": [
-      "#정치"
     ]
   },
   {
@@ -531,7 +529,7 @@ window.NEWS_DB = [
     "id": "ne8eb2ddf",
     "category": "사회",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151903",
     "title": "이재용 삼성전자 회장, 노사 협상 물꼬 텄다...18일 사후조정 재개(종합)",
     "summary": [
@@ -547,7 +545,7 @@ window.NEWS_DB = [
     "id": "ne5246f15",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/17/2026051623310465749",
     "title": "\"전신 30% 화상과 맞바꾼 사랑\" 불타는 건물로 뛰어든 19살 축구선수, 시상식서 '영광의 흉터' 드러냈다",
     "summary": [
@@ -563,7 +561,7 @@ window.NEWS_DB = [
     "id": "nae782a68",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/17/2026051700483110585",
     "title": "'무려 3000억 벌었는데' UFC 최고 악동 맥그리거, '드디어' 5년 만의 복귀전 성사 확정적 \"세기의 라이벌과 빅뱅\"",
     "summary": [
@@ -576,26 +574,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb92b13b0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/17/2026051700055781174",
-    "title": "日 열도 녹인 미모! 시구하자 선수들도 반했다! 노기자카46 출신 아이돌, 핑크 글러브 끼고 팬들 심장에 '스트라이크'",
-    "summary": [
-      "아이돌 그룹 '노기자카46' 전 멤버이자 배우인 쿠보 시오리(25)가 화려한 시구로 일본 야구 팬들을 매료시켰다.",
-      "일본 매체 '풀카운트'는 16일 \"쿠보가 라쿠텐 모바일 최강 파크에서 열린 라쿠텐 골든이글스와 소프트뱅크 호크스의 경기에 시구자로 나서 멋진 노바운드 투구를 선보였다\"고 전했다.",
-      "매체는 \"쿠보는 분홍색 글러브를 끼고 등번호 24번이 새겨진 '서드 유니폼 2026'을 입은 채 마운드에 올랐다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n53d41d86",
     "category": "사회",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151902",
     "title": "개미들의 반격...18일 '삼성전자 파업 긴급조정권 행사' 국민신문고 청원",
     "summary": [
@@ -611,7 +593,7 @@ window.NEWS_DB = [
     "id": "n764a92b2",
     "category": "사회",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151901",
     "title": "이재용 삼성전자 회장 \"고객·국민께 사과...힘 모아 한 방향으로 갈 때\"",
     "summary": [
@@ -627,11 +609,25 @@ window.NEWS_DB = [
     "id": "n92c29949",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026051609417",
     "title": "'어머니의 나라' 국가대표로 뛴다…꿈 이룬 '혼혈 태극전사'",
     "summary": [
       "'어머니의 나라' 국가대표로 뛴다…꿈 이룬 '혼혈 태극전사'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n64af3432",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "6시간 전",
+    "url": "https://www.hankyung.com/article/202605160997i",
+    "title": "\"별점 4.9의 배신\"…가짜 리뷰가 무너뜨리는 시장의 신뢰 [현민석의 페어플레이]",
+    "summary": [
+      "\"별점 4.9의 배신\"…가짜 리뷰가 무너뜨리는 시장의 신뢰 [현민석의 페어플레이]."
     ],
     "chips": [
       "#뉴스"
@@ -644,8 +640,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -655,7 +651,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "엔비디아",
     "mentions": "1420건",
     "trend": "+115%"
   }
