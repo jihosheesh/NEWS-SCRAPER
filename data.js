@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-16 01:33:29
+// 마지막 업데이트: 2026-05-16 03:01:39
 window.NEWS_DB = [
+  {
+    "id": "nc58b2e7d",
+    "category": "IT",
+    "source": "위키리크스한국",
+    "time": "5시간 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NOFRVS3hCUEJmSnJkQVZzLXBnRmFIeElVT2xGMnlzazZXbS10RUlzeGFJd3hqVnZ0R3RxQ1hKb21HWGRPN2wzYmtHbTdNS2wtcDZJUWFDamhNLTVWUlBkNjU1YkJKMEQwOUVVYUhoZw?oc=5",
+    "title": "[인공지능 줌인] 자국산 AI 칩 개발에 박차를 가하고 있는 중국에 엔비디아가 복귀하면?",
+    "summary": [
+      "[인공지능 줌인] 자국산 AI 칩 개발에 박차를 가하고 있는 중국에 엔비디아가 복귀하면? 위키리크스한국."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n8e35c9b3",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "17시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRWNsRUlCZFg1LWdxZG1hNWlSWFZjaDN2UFFGTXM3cmRJdmtQelB2cUlBMGl0LVNYeTEwS1pvOTFCdEw1ZTJXaEk0VzNrdThIYkhKZUl4Y3R2RzlvRlNsV2gydDdBcVFwOWxFemZyNlg4SGM?oc=5",
     "title": "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\"",
     "summary": [
@@ -18,10 +33,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n7c5c07a7",
+    "category": "경제",
+    "source": "프리진경제",
+    "time": "19시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
+    "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
+    "summary": [
+      "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정 프리진경제."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "n8781e79c",
     "category": "IT",
     "source": "경향신문",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
     "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
     "summary": [
@@ -36,7 +65,7 @@ window.NEWS_DB = [
     "id": "n76cd35a4",
     "category": "경제",
     "source": "이코노미트리뷴",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCVVU1ZnBoUzFRSHAtaTUxaUVEN0ZCQW9WVG12bVRHQnJOSzd4Y0pueEZPNkhGd0JCWEt4U3ZMcjdXU3FWeGlneDhrNzd2UmNQdHlxbDFHWmlLdEhMenRVQUhVRVVOd3d3d1lKajdMd1poSi1CWmJv?oc=5",
     "title": "국채금리 4.18%·환율 1500원 턱밑…코스피 8000선 돌파 후 급락",
     "summary": [
@@ -51,7 +80,7 @@ window.NEWS_DB = [
     "id": "ne880c824",
     "category": "IT",
     "source": "전국뉴스",
-    "time": "22시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLM2c5Tl9KdVUxSkNXdDVhcTRjeWp3SnBPakg3UnMzRnlzb3F2ajFteFBlZkp0ZDVBakhGeGRGWFZkNUYxZjV0b3hEM01WN1RCUWE1RHdqNUlobWJORW51VXpVRWtudUxTUnBtWkhyQmU?oc=5",
     "title": "[전남벤처도약발사대]한국산업은행·포스코홀딩스, 전남서 벤처생태계 협력 강화…“지역 스타트업 유니콘 도약 지원”",
     "summary": [
@@ -59,22 +88,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n755986be",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnOGRkOFFNcFVKdktQOVJKSjFmSG9KNlpRRHpJd0Yzems1ejJXWXBMd19CNnZ3QXhpQkRERHVMM3BHZTZFQjdhc0lfUVB6Q1U?oc=5",
-    "title": "미국, 중국 알리바바 등에 엔비디아 고성능 AI반도체 판매 승인",
-    "summary": [
-      "미국, 중국 알리바바 등에 엔비디아 고성능 AI반도체 판매 승인 v.daum.net."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -95,7 +108,7 @@ window.NEWS_DB = [
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준지 회복 [부동산360]",
     "summary": [
@@ -169,12 +182,12 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "쿠키뉴스",
+    "source": "kukinews.com",
     "time": "23일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
     ],
     "chips": [
       "#AI",
@@ -197,6 +210,20 @@ window.NEWS_DB = [
       "#AI",
       "#스타트업",
       "#채용"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "44일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -258,20 +285,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf7aebd8b",
-    "category": "경제",
-    "source": "스트레이트뉴스",
-    "time": "116일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
-    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
-    "summary": [
-      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n13cdbe9c",
     "category": "부동산",
     "source": "시사저널e",
@@ -301,330 +314,324 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5de3a708",
-    "category": "스포츠",
-    "source": "매일경제",
-    "time": "224일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
-    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "id": "na033e739",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/stock/2026/05/16/2026051515413548950",
+    "title": "\"융프라우 신라면 같은 종목을 찾아라\"",
     "summary": [
-      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+      "[싱글파이어 머니쇼③] 손주부 '하반기 미국 주식시장 전망 및 유망 종목 분석' 주식 투자로 경제적 자유를 이뤄내고 싶은 투자자들이 한 자리에 모였다.",
+      "15일 코엑스에서 열린 머니투데이 '싱글파이어 머니쇼'에는 투자 성공을 꿈꾸는 참석자 450여명으로 북적였다.",
+      "머니투데이가 만드는 경제·재테크·라이프스타일 유튜브 채널 '싱글파이어'에서 주식 투자 성공 사례와 비법 등을 공개해 인기를 끌었던 주인공들이 그들만의 노하우와 투자 전략을 이들과 공유했."
     ],
     "chips": [
-      "#손흥민",
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "nee8d702b",
+    "id": "n5d68477f",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003631980",
+    "title": "AI 반도체 '초과 이익' 논쟁에…주주들은 속탄다[한국에 무슨 일이④]",
+    "summary": [
+      "[서울=뉴시스]이지민 기자 = 인공지능(AI) 반도체 산업이 초호황을 맞으며 기업들의 이익 배분 논의에 불이 붙었지만, 주주들은 불편한 기색이 역력하다.",
+      "논쟁을 촉발한 삼성전자 노사 간 성과급 갈등은 주가 리스크로 번지는 가운데, 일각에선 노조가 요구하는 '성과급 산정 기준 명문화'가 주주권 침해로 이어질 수 있다는 우려가 나온다.",
+      "16일 업계에 따르면 삼성전자 주주단체는 최근 노사 임금 교섭과 쟁의 행위 전반에 대한 법적 대응을 예고했다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "ndc9534e3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003631904",
+    "title": "명품·리뉴얼 경쟁 속 팝업 등 체험형 플랫폼 진화[미소 찾은 백화점②",
+    "summary": [
+      "[서울=뉴시스]오제일 기자 = 백화점 3사의 1분기 역대급 매출 신장은 꾸준한 투자와 변화가 이끌었다는 평가가 많다.",
+      "백화점이 단순 물건을 사는 공간에서 경험을 소비하는 플랫폼으로 진화하면서 고객의 발길을 끌었다는 것이다.",
+      "16일 업계에 따르면 최근 백화점들의 경쟁은 고객을 얼마나 오래 머물게 하느냐에 포커싱이 맞춰져 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb7e300fb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260515_0003631850",
+    "title": "삼성전자 총파업 초읽기…\"대화로 풀자\"던 정부서도 '긴급조정' 기류 확산",
+    "summary": [
+      "[서울=뉴시스]남주현 기자 = 삼성전자 노사 협상이 접점을 찾지 못한 채 장기 대치 국면으로 접어들면서 정부 내에서 긴급조정권 발동 가능성을 둘러싼 기류 변화가 감지되고 있다.",
+      "그동안 정부는 자율적 노사 협상을 통한 해결에 무게를 두며 신중한 태도를 유지해왔다.",
+      "하지만 노조가 교섭 중단과 파업 강행 의지를 공식화하면서 정부 안팎에서는 긴급조정권 발동이 불가피하다는 분위기가 힘을 얻고 있다."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nfa59825c",
     "category": "부동산",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632186",
-    "title": "노홍철 \"피습 당해 압구정 현대 50평대 이사…4억 하락\"",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260514_0003630216",
+    "title": "인천의 '강남'…대형 공원 품은 '더샵 송도 그란테르' 가보니[르포]",
     "summary": [
-      "[서울=뉴시스] 이종희 기자 = 방송인 노홍철이 집값 하락 경험을 고백했다.",
-      "15일 유튜브 채널 '노홍철'에는 '노홍철 깜짝 놀란 요즘 청년들 현실적인 월세살이'라는 제목의 영상이 공개됐다.",
-      "영상에서 노홍철은 과거 압구정 현대아파트로 이사한 후 괴한으로부터 피습을 당했던 일을 언급했다."
+      "[서울=뉴시스] 강세훈 기자, 이수안 인턴기자 = 한낮 기온이 30도 안팎으로 오르며 초여름 더위가 이어졌던 지난 14일.",
+      "포스코이앤씨가 공급하는 '더샵 송도 그란테르' 견본주택 앞은 온종일 긴 대기 줄이 이어지면 활기를 띠었다.",
+      "더샵 송도 그란테르는 인천의 강남으로 불리는 송도국제도시의 국제업무단지(IBD) 마지막 주거 단지다."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
     ]
   },
   {
-    "id": "nfa45dd9f",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260516/133934554/2",
-    "title": "트럼프, 주식 투자 ‘늑장 신고’로 수차례 과태료…MS·아마존 거래",
+    "id": "n65a14621",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://www.asiae.co.kr/article/2026051611584794497",
+    "title": "후보 등록 뒤 첫 주말…여야 지도부, 유세 지원 매진",
     "summary": [
-      "도널드 트럼프 미국 대통령이 수천만 달러에 달하는 주식 거래 내역을 여러 차례 늦게 신고해 과태료를 부과받았다고 15일(현지 시간) 미국 워싱턴포스트(WP)가 보도했다.이날 WP는 미국 정부윤리국(OGE)이 공개한 자료를 인용해 트럼프 대통령이 지난 2월 마이크로소프트와 아마존 주식을 각각 500만 달러에서 2500만 달러 사이로 매각했고, 3월에는 두 회사의 주식을 수백만 달러가량 매입했다고 밝혔다.트럼프 대통령은 해당 주식 거래 내역을 늦게."
+      "6·3 지방선거와 재·보궐 선거 후보 등록을 마친 뒤 첫 주말을 맞은 양당 지도부는 민심잡기 총력전에 나섰다.1박 2일 일정으로 제주도 현장 일정을 소화하고 있는 정청래 더불어민주당 대표는 16일 오전 제주 서부두 어시장을 찾아 경매를 참관한 뒤 수산 종사자들과 간담회를 열고 애로사항을 청취했다.",
+      "이날 오후엔 경기 평택을로 이동해 김용남 후보 선거사무소 개소식에 참석해 지지층 결집에 나설 계획이다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n784b45e0",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631543",
-    "title": "\"슬세권·GTX 기대감\"…'힐스테이트 구월아트파크' 가보니[르포]",
-    "summary": [
-      "[서울=뉴시스] 강세훈 기자, 전성은 인턴기자 = 인천1호선 예술회관역 6번 출구를 나오자 공사 중인 '힐스테이트 구월아트파크' 현장이 바로 눈에 들어왔다.",
-      "횡단보도 하나만 건너면 닿을 정도로 가까워 역세권 입지를 내세울만 하다.",
-      "지난 15일 문을 연 견본주택은 개관 첫 날부터 신혼부부부터 중·장년층까지 다양한 연령대의 관람객들로 북적였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf5e1e4f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/16/MFRDKY3GGZRTCNRQMNTGINJZGY/",
-    "title": "'와르르 주저앉은' 리버풀 지켜본 캐러거, \"정신적으로 나약해...창피하다\" 맹비난",
-    "summary": [
-      "[OSEN=정승우 기자] 리버풀의 처참한 붕괴에 구단 레전드 제이미 캐러거(48)도 폭발했다.",
-      "알렉시스 맥 알리스터의 행동에는 \"창피하다\"라고 직격했고, 팀 전체를 향해서는 \"정신적·육체적으로 약하다\"라고 강하게 비판했다.영국 '데일리 메일'은 16일(한국시간) \"캐러거가 아스톤 빌라전 참패 뒤 리버풀 선수단과 아르네 슬롯 감독 체제를 강하게 비판했다\"라고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1147fd51",
+    "id": "n4201e7aa",
     "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/MRSDEYJZMRRDQZBVMJQTANDBG4/",
-    "title": "금요일 출근 후 사라진 딸..범인은 동료 직원의 오빠 (용감한 형사들5)",
-    "summary": [
-      "[OSEN=최이정 기자] 돈에 눈이 멀어 상상을 초월하는 잔혹한 범행을 저지른 범인들의 추악한 민낯이 드러나 안방극장을 충격과 분노로 물들였다.지난 15일 오후 9시 50분 방송된 티캐스트 E채널 ‘용감한 형사들5’ 8회에서는 강원 고성경찰서 강승완 경위와 과학수사대(KCSI) 윤외출 전 경무관, 김진수 경관이 출연해 등골을 오싹하게 만든 실제 수사 일지를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3963a77d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/05/16/GI4GMNBUGQ2TCNBTHE2GIMBWGE/",
-    "title": "키키, 데뷔 첫 팬콘서트 D-DAY…250224배 더 즐기는 법",
-    "summary": [
-      "[OSEN=장우영 기자] ‘젠지미(Gen Z美)’ 그룹 키키(KiiiKiii : 지유, 이솔, 수이, 하음, 키야)가 데뷔 첫 팬콘서트를 개최하는 가운데 더 재미있게 즐길 수 있는 포인트를 전했다.키키는 16일과 17일, 양일간 서울 블루스퀘어 우리WON뱅킹홀에서 데뷔 첫 팬콘서트 2026 키키 팬 콘서트 ‘키키 페스티벌(KiiiKiii FesTiiival."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nddcea6fe",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051609534153443",
-    "title": "울산 웨일즈, 월간 MVP 시상식 개최... 3월 남호·노강민→4월 김서원·고효준 수상 \"선수단 동기부여 강화한다\"",
-    "summary": [
-      "울산 웨일즈가 홈팬들 앞에서 창단 첫 월간 MVP를 선정하며 선수단의 사기를 북돋웠다.",
-      "울산 웨일즈는 지난 15일 울산 문수야구장에서 열린 NC 다이노스와의 홈경기에 앞서 '3·4월 팀 월간 MVP 시상식'을 개최했다고 밝혔다.",
-      "이번 시상식에서는 팀의 창단 초반 상승세를 이끈 투수와 야수 총 4명이 수상의 영예를 안았으며, 수상자들에게는 각각 30만 원의 포상금이 지급됐다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n58741dfa",
-    "category": "IT",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516024200091",
-    "title": "\"집 사기 위한 저축계확 짜줘\"…챗GPT, 미국서 재무설계 서비스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516031200005",
+    "title": "엔하이픈 '바이트미'·'스위트 베놈', 스포티파이 5억·2억 재생",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 오픈AI가 챗GPT에 실제 금융 데이터를 활용한 개인 재무설계 기능을 도입했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n3798904d",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/16/2026051610201296937",
-    "title": "\"치와와 팔아라\" 요구 거절했더니…개집 통째로 훔쳐 간 남성",
-    "summary": [
-      "단독주택 마당에 있던 반려견들을 철장째 훔쳐 달아난 남성이 경찰에 붙잡혔다.",
-      "지난 14일 JTBC '사건반장'에 따르면 경기 시흥시 한 단독주택에서 치와와 2마리를 키우는 제보자 A씨는 최근 강아지들이 답답해하는 것 같아 넓은 마당에 철망을 설치해 종종 바람을 쐬게 했다고 밝혔다.",
-      "그러던 지난 6일 한 남성이 찾아와 \"강아지 1마리를 팔라\"고 요구했다고 한다."
+      "(서울=연합뉴스) 이태수 기자 = 그룹 엔하이픈의 '바이트 미'(Bite Me)와 '스위트 베놈'(Sweet Venom)이 세계 최대 음원 플랫..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6b142e5e",
+    "id": "na2682e33",
     "category": "스포츠",
     "source": "조선일보",
     "time": "9분 전",
-    "url": "https://www.chosun.com/sports/golf/2026/05/16/IGLTEWEMUNCE5HIXZWM6BP4LWM/",
-    "title": "고진영, 3년 만에 LPGA 우승 도전 ... 크로거 퀸시티 챔피언십 2R 선두",
+    "url": "https://www.chosun.com/politics/assembly/2026/05/16/2IYJ25E2MRETHMR7VEEF3YFZQI/",
+    "title": "정원오 “15분 스포츠 생활권 조성” 체육 공약 발표",
     "summary": [
-      "고진영, 3년 만에 LPGA 우승 도전 ... 크로거 퀸시티 챔피언십 2R 선두."
+      "정원오 “15분 스포츠 생활권 조성” 체육 공약 발표."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n77af8835",
+    "id": "n5cc5e811",
     "category": "사회",
-    "source": "머니투데이",
+    "source": "조선일보",
     "time": "10분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/16/2026051609584014786",
-    "title": "오세훈 재산 73억 신고, 광역단체장 1위…재보선 김용남 128억 '최다'",
+    "url": "https://www.chosun.com/economy/economy_general/2026/05/16/MMYWEMDGGA4GCNZYMZSWKNRRG4/",
+    "title": "정원오 측 “GTX-A 삼성역 구간 부실시공…국토부, 서울시 감사 착수”",
     "summary": [
-      "6·3 지방선거 후보자 재산 공개 결과 오세훈 서울시장 후보의 신고 재산이 73억원 수준으로 광역단체장 후보 가운데 가장 많았다.",
-      "국회의원 재보궐선거에서는 김용남 후보가 127억원을 신고해 최고액을 기록했다.",
-      "일부 기초의원 후보 중에는 1000억원대 자산가도 포함되며 후보 간 재산 격차가 두드러졌다."
+      "정원오 더불어민주당 서울시장 후보 측이 16일 “GTX(광역급행철도)-A 삼성역 구간 시공 과정에서 부실시공이 드러났다”며 “오세훈 후보가 해명해야 한다”고 밝혔다.",
+      "김형남 정원오 후보 선거대책위원회 상임선대위원장 겸 대변인은 이날 논평을 내고 “(부실시공이 드러난)해당 구간은 국가철도공단으로부터 서울시가 위탁받아 시공하고 있다”며 이같이 말했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nfdddeb40",
+    "id": "n6c46b64a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/16/MMYGCYZXMQ2DIZRUGAYGGNTEG4/",
+    "title": "“매일 잘 던져야 한다” LG 20억 외인 투수, 생존 미션 1단계 통과…송구 실책 없었더라면 QS 가능",
+    "summary": [
+      "[OSEN=문학, 한용섭 기자] “매일 잘 던져야 한다”프로야구 LG 트윈스 외국인 투수 요니 치리노스가 생존을 위한 1단계는 통과했다.",
+      "그러나 매 경기 투구 내용에 따라 팬들의 방출 여론을 느끼게 될 것이다.",
+      "치니로스는 15일 인천 SSG랜더스필드에서 열린 SSG 랜더스와 경기에 선발 투수로 등판했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n643bd980",
     "category": "사회",
     "source": "연합뉴스",
     "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516014700704",
-    "title": "'이왕 사는 거 기세 좋게' 쓴 '독설' 작가…사토 아이코 별세",
+    "url": "https://www.yna.co.kr/view/AKR20260516030400054",
+    "title": "\"오월정신 잊지 않겠습니다\"…5·18 앞둔 주말 광주 추모 열기",
     "summary": [
-      "(서울=연합뉴스) 이충원 기자 = 93세 때 펴낸 책 '90세, 뭐가 경사라는 거야'에 담은 독설과 애교로 연간 베스트셀러 1위에 오른 일본 작..."
+      "(광주=연합뉴스) 정다움 김혜인 기자 = \"오월 정신을 잊지 않겠다는 다짐을 행동으로 옮기려고 왔습니다.\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd7319e58",
-    "category": "스포츠",
-    "source": "동아일보",
+    "id": "n3a582569",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "12분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260516/133934551/1",
-    "title": "정원오, 체육 공약 발표…“15분 스포츠 생활권 조성”",
+    "url": "https://www.yna.co.kr/view/AKR20260516029000001",
+    "title": "정원오 \"누구나 집 가까이서 운동\"…'15분 스포츠 생활권' 공약",
     "summary": [
-      "정원오 더불어민주당 서울시장 후보가 16일 서울시민에 ‘15분 스포츠 생활권’을 제공하는 체육 공약을 발표했다.",
-      "주거 지역 가까이에 시민구장·생활형 야외체육공간 등을 조성하고, 맞춤형 스포츠 복지를 강화한다는 것이 골자다.정 후보 캠프는 이날 보도자료를 통해 이같은 내용의 ‘스포츠 서울 공약’을 제시했다.",
-      "이번 공약은 ▲생활체육 인프라 구축 ▲누구나 함께 누리는 ‘생활체육 복지’ 실현 ▲글로벌 스포츠 도시로 육성 등 3대 방향으로 추진된다.체육."
+      "(서울=연합뉴스) 김정진 기자 = 더불어민주당 정원오 서울시장 후보는 6·3 지방선거 후보 등록 마감 후 첫 주말인 16일 '15분 스포츠 생활..."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "nbc63adad",
+    "id": "n2c12757c",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260515049900052",
-    "title": "의령서 경남 발달장애인 축구대회…22개팀 230명 참가",
-    "summary": [
-      "(의령=연합뉴스) 박영민 기자 = 경남 의령군은 의령 사랑의집 주최로 부림공설운동장에서 '제12회 경남도 발달장애인 축구대회'가 열렸다고 16일..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f4575f5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632200",
-    "title": "청주시, 봉명동 빈집 매입→경로당 신축…'도시재생' 성과",
-    "summary": [
-      "[청주=뉴시스] 임선우 기자 = 충북 청주도심에 방치됐던 빈집이 지역 어르신들의 사랑방으로 거듭났다.",
-      "시는 도내 1호 빈집 정비 신축 경로당인 봉명골 경로당을 준공했다고 16일 밝혔다.",
-      "흥덕구 봉명 1동에 방치됐던 빈집을 매입해 철거한 뒤 건축면적 100㎡ 규모의 새 건물을 지었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9b9bb870",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516024100061",
-    "title": "'1천800억 부당대출' 새마을금고, 수사 중 200억 추가대출 의혹",
-    "summary": [
-      "(수원=연합뉴스) 김솔 기자 = 1천800억원대의 부당 대출을 일으킨 혐의로 기소된 새마을금고 임직원과 부동산 개발업자가 관련 혐의에 대한 경찰..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n80a55979",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260516/133934548/1",
-    "title": "부정맥 허위 진단 사기 친 30대 보험설계사 징역 3년",
-    "summary": [
-      "고객들에게 허위로 부정맥 진단을 받는 방법을 알려주고 보험금을 받게 한 혐의로 기소된 30대 보험설계사가 실형을 선고받았다.16일 법조계에 따르면 부산지법 형사6단독 김민지 판사는 보험사기방지 특별법 위반 혐의로 기소된 A 씨(30대)에게 징역 3년을 선고했다.A 씨는 2022년부터 지난해까지 고객들에게 허위로 부정맥 진단을 받는 방법을 알려주고 보험금을 청구하게 한 뒤 이들이 타낸 보험금 일부를 수수료로 챙긴 혐의로 기소됐다.A 씨의 범행으로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf986946f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260516/133934545/1",
-    "title": "“사람은 아니지만 실례 좀”…美호텔 화장실 들어가 문 닫은 흑곰",
-    "summary": [
-      "미국의 한 호텔 공용 화장실에 거대한 야생 곰이 들어가 스스로 문을 잠근 사건이 화제다.",
-      "지난 11일(현지시각) 미국 폭스뉴스 등에 따르면 최근 테네시주 개틀린버그 시내의 한 호텔에서 몸무게가 무려 250㎏(550파운드)에 달하는 거대한 흑곰 한 마리가 화장실에 갇히는 소동이 벌어졌다.사건은 이날 새벽 2시 33분쯤 호텔 직원이 야외 공용 화장실로 들어간 흑곰이 안에서 문을 잠그는 모습을 목격하고 경찰에 신고하면서 시작됐다.현장에 출동한 개틀린."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n10b1dcfc",
-    "category": "경제",
     "source": "머니투데이",
-    "time": "29분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/16/2026051610037290920",
-    "title": "'나혼산' 김신영, 보양식 먹방에 최고 시청률 6.3%...단짠단짝 보양식 코스 화제 [종합]",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051611192110147",
+    "title": "'10년 만의 UFC 3연승 도전' 최두호, 계체 통과 완료→'코리안 킬러' 산토스 사냥 나선다",
     "summary": [
-      "‘나 혼자 산다’ 김신영이 또다시 시청자들을 열광시키며 박나래의 빈자리를 완벽히 메웠다.",
-      "지난 15일 방송된 MBC ‘나 혼자 산다’(연출 허항, 강지희, 김진경, 문기영, 정지운)에서는 김신영의 라디오 방송 퇴근 후 ‘집순이 루틴’과 조이가 ‘애견 미용사 자격증’에 도전하는 모습이 공개됐다.",
-      "김신영은 이날 방송에서 후두염으로 아픈 와중에도 셀프 이발과 욕실 청소 루틴을 지키고, ‘단짠단짠’ 보양식 코스를 만들어 먹으며 ‘나에 대한 책임’을 다."
+      "'코리안 슈퍼보이' 최두호(35)가 드디어 복귀전을 위한 모든 준비를 끝마쳤다.",
+      "2016년 이후 10년 만에 3연승이 걸린 경기에 나선다.",
+      "최두호는 16일(한국시간) 미국 네바다주 라스베이거스 메타 에이펙스에서 열린 'UFC 파이트 나이트: 앨런 vs 코스타' 공식 계체량에서 66.2kg을 기록, 페더급 일반 경기 한계 체중(65.8kg, 체중계 오차 0.45kg 허용)을 무사히 통과했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7ea829b1",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "33분 전",
-    "url": "https://www.hankyung.com/article/202605150227i",
-    "title": "GS25서 500만원 '中 로봇개' 팔렸다…\"반려용 인기 많아\" [영상]",
+    "id": "nb1cc8949",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260516/133934659/1",
+    "title": "[속보] 6·3 지방선거서 기초단체장 3명·지방의원 510명 무투표 당선",
     "summary": [
-      "GS25서 500만원 '中 로봇개' 팔렸다…\"반려용 인기 많아\" [영상]."
+      "[속보] 6·3 지방선거서 기초단체장 3명·지방의원 510명 무투표 당선."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9d7f0ab3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516030800005",
+    "title": "캣츠아이, 美 디지털 시상식 웨비 어워드 2관왕",
+    "summary": [
+      "(서울=연합뉴스) 이태수 기자 = 하이브의 한미 합작 걸그룹 캣츠아이가 미국 디지털 시상식 '웨비 어워드'(The Webby Award)에서 2..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nab86bfab",
+    "id": "n4ed353ff",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://www.asiae.co.kr/article/2026051611455271191",
+    "title": "바이에른방송교향악단 2년만에 내한…'봄의 제전'·'부활' 등 연주",
+    "summary": [
+      "독일 뮌헨을 대표하는 세계적인 오케스트라 바이에른방송교향악단(BRSO)이 2년 만에 다시 한국을 찾는다.",
+      "BRSO가 상임지휘자 사이먼 래틀 경과 함께 내한해 오는 11월12~13일 예술의전당 콘서트홀에서 공연한다고 공연기획사 빈체로가 밝혔다.",
+      "BRSO는 2024년 사이먼 래틀 경과 함께 내한해 피아니스트 조성진과 협연 무대를 선보였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbfee6583",
     "category": "경제",
     "source": "한국경제",
-    "time": "38분 전",
-    "url": "https://www.hankyung.com/article/2026051605727",
-    "title": "노홍철 \"테러 당한 뒤 압구정 현대 50평대 샀는데…4억 하락\"",
+    "time": "17분 전",
+    "url": "https://www.hankyung.com/article/202605159258g",
+    "title": "안 그래도 더운데 여길 가?…요즘 한국인 몰리는 '의외의 여행지'",
     "summary": [
-      "노홍철 \"테러 당한 뒤 압구정 현대 50평대 샀는데…4억 하락\"."
+      "안 그래도 더운데 여길 가?…요즘 한국인 몰리는 '의외의 여행지'."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n8e4da804",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260516/133934650/2",
+    "title": "삼성전자 “쟁의행위, 직원 자유의사에 따라 결정돼야”…내부 공지",
+    "summary": [
+      "삼성전자 노조가 21일부터 총파업에 들어갈 예정인 가운데, 사측은 “쟁의행위 참여 여부는 직원 개개인의 자유로운 의사에 따라 결정돼야 한다”며 내부 동요를 진정시키기 위한 메시지를 내놨다.16일 업계에 따르면 삼성전자의 반도체 사업을 담당하는 디바이스솔루션(DS) 부문은 최근 각 부서장에게 메일을 보내 “쟁의행위와 관련 부서원 간 다양한 의견이 오가는 과정에서 일부 직원이 심리적 부담을 호소하는 경우가 발생하고 있다”고 밝혔다.이어 “쟁의행위."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n86453bbd",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/stock/2026/05/16/2026051608207035605",
+    "title": "[고래사냥] '두산로보틱스·주성엔지니어링·코윈테크·성우! 내일장 고래 종목은?!",
+    "summary": [
+      "▶▶▶ 싹쓰리 Up&Down 두산로보틱스-엔비디아 협력 논의, 대세는 '피지컬 AI'? - 두산로보틱스-엔비디아, AI·로보틱스 생태계 접목 - 두산로보틱스, 피지컬 AI·북미 시장 확대 기대감 - 세아메카닉스-두산로보틱스, AI 로봇 디버링 솔루션 개발 - 세아메카닉스, 피지컬 AI 제조 혁신 가속화 ▶▶▶ 명품투자 POINT 외국인 이달 로봇주 '집중 매수'… 같이 담아볼까? - 보스턴다이내믹스 美 IPO 기대감 '훈풍' - LG그룹주 일제."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n393a8125",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://www.asiae.co.kr/article/2026051611364651478",
+    "title": "'개미 토핑 디저트' 미슐랭 2스타 레스토랑 대표 재판행",
+    "summary": [
+      "식용 가능 곤충이 아닌 개미를 요리에 활용한 유명 레스토랑 대표가 재판에 넘겨졌다.",
+      "16일 법조계에 따르면 서울서부지검은 강남구 신사동 레스토랑 법인과 대표 A씨를 최근 식품위생법 위반 혐의로 기소했다.",
+      "미슐랭 2스타를 받은 이 레스토랑은 여전히 영업하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n66d37b48",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "22분 전",
+    "url": "https://www.asiae.co.kr/article/2026051611391555514",
+    "title": "미·중 정상회담 직후…中, 美 '호르무즈 결의안' 반대",
+    "summary": [
+      "중국이 미국이 추진 중인 호르무즈 해협 봉쇄 규탄 유엔 안전보장이사회 결의안에 반대 입장을 나타냈다.",
+      "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 정상회담 직후 나온 발언이라는 점에서 주목된다.",
+      "15일(현지시간) 로이터통신에 따르면 푸충 주유엔 중국대사는 이날 유엔 전문 온라인 매체 패스블루와의 인터뷰에서 미국이 추진하는 호르무즈 결의안에 대해 \"우리는 해당 내용이 적절하다고 생각하지 않으며 시기적으."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -634,18 +641,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
+    "tag": "삼성전자",
     "mentions": "1550건",
     "trend": "+135%"
   }
