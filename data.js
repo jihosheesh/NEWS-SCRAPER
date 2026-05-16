@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-16 07:35:37
+// 마지막 업데이트: 2026-05-16 08:33:02
 window.NEWS_DB = [
   {
     "id": "nc58b2e7d",
     "category": "IT",
     "source": "위키리크스한국",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NOFRVS3hCUEJmSnJkQVZzLXBnRmFIeElVT2xGMnlzazZXbS10RUlzeGFJd3hqVnZ0R3RxQ1hKb21HWGRPN2wzYmtHbTdNS2wtcDZJUWFDamhNLTVWUlBkNjU1YkJKMEQwOUVVYUhoZw?oc=5",
     "title": "[인공지능 줌인] 자국산 AI 칩 개발에 박차를 가하고 있는 중국에 엔비디아가 복귀하면?",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n8e35c9b3",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRWNsRUlCZFg1LWdxZG1hNWlSWFZjaDN2UFFGTXM3cmRJdmtQelB2cUlBMGl0LVNYeTEwS1pvOTFCdEw1ZTJXaEk0VzNrdThIYkhKZUl4Y3R2RzlvRlNsV2gydDdBcVFwOWxFemZyNlg4SGM?oc=5",
     "title": "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\"",
     "summary": [
@@ -107,22 +107,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2970703c",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
-    "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
-    "summary": [
-      "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게? 글로벌이코노믹."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -143,7 +127,7 @@ window.NEWS_DB = [
     "id": "nba668fc0",
     "category": "IT",
     "source": "한국방송뉴스",
-    "time": "16일 전",
+    "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -151,20 +135,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n325c11bb",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEVtV09LTVc1QzFLdlBOdUVFQUgzNmtlUzhSb3lJM1hKNnYxVlhtSXptc0gxTVlacERuWDhYNm04MkVqQzNZeVk4NVJWZk5DS2lrRmF5YjliRy1rVXprTnl5aE9kSTNkLWdMMDhHa015OUxwdEhxZ2pSRmdWQTNvUlRkenM5UHlVVXhMMQ?oc=5",
-    "title": "[경제포커스] 삼성전자 노사에 필요한 2등 마인드",
-    "summary": [
-      "[경제포커스] 삼성전자 노사에 필요한 2등 마인드 조선일보."
-    ],
-    "chips": [
-      "#삼성전자"
     ]
   },
   {
@@ -215,10 +185,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na3d37f8f",
+    "category": "IT",
+    "source": "지디넷코리아",
+    "time": "66일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVJIdW42c2NuWTBtVDhMWEZjT2ttdWRBNmhraDlsOG1DR3JpajNrY0RfSkhVSjduUEpRWFBpUUhtOWN3eXIxZjZmM01odVR6TGpoNmhn?oc=5",
+    "title": "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략",
+    "summary": [
+      "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략 지디넷코리아."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "68일 전",
+    "time": "69일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
     "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
@@ -232,7 +216,7 @@ window.NEWS_DB = [
     "id": "n15f5f447",
     "category": "경제",
     "source": "지디넷코리아",
-    "time": "72일 전",
+    "time": "73일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
     "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
     "summary": [
@@ -243,10 +227,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n759c2467",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "92일 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
+    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
+    "summary": [
+      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nb04cef68",
     "category": "사회",
     "source": "경기일보",
-    "time": "91일 전",
+    "time": "92일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
     "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
     "summary": [
@@ -261,7 +260,7 @@ window.NEWS_DB = [
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "92일 전",
+    "time": "93일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
     "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
@@ -276,7 +275,7 @@ window.NEWS_DB = [
     "id": "nf7aebd8b",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "116일 전",
+    "time": "117일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
     "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
     "summary": [
@@ -290,7 +289,7 @@ window.NEWS_DB = [
     "id": "n13cdbe9c",
     "category": "부동산",
     "source": "시사저널e",
-    "time": "136일 전",
+    "time": "137일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
     "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
     "summary": [
@@ -313,6 +312,38 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "ne8eb2ddf",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151903",
+    "title": "이재용 삼성전자 회장, 노사 협상 물꼬 텄다...18일 사후조정 재개(종합)",
+    "summary": [
+      "삼성전자 노동조합이 협상에 복귀한다.",
+      "삼성그룹 초기업노동조합 삼성전자 지부(초기업노조)는 오는 18일 정부와 회사가 마련한 협상장 등판을 예고했다.이재용 삼성전자 회장의 대국민 사과가 물꼬를 텄다.",
+      "삼성전자는 사측 교섭위원을 교체했다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n53d41d86",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=151902",
+    "title": "개미들의 반격...18일 '삼성전자 파업 긴급조정권 행사' 국민신문고 청원",
+    "summary": [
+      "삼성전자 노동조합의 파업 예고에 소액주주가 실력 행사에 나섰다.",
+      "삼성그룹 초기업노동조합 삼성전자 지부(초기업노조)는 오는 21일부터 6월7일까지 파업 예정이다.",
+      "▲영업이익 15% 성과급 재원 활용 ▲성과급 상한 폐지 등을 주장했다."
+    ],
+    "chips": [
+      "#삼성전자"
     ]
   },
   {
@@ -349,293 +380,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9152830b",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151899",
-    "title": "[글로벌] 오픈AI·애플 균열...챗GPT 홀대에 법적 대응 검토",
-    "summary": [
-      "오픈AI가 애플을 상대로 법적 대응에 나서는 방안을 검토 중입니다.",
-      "아이폰 등 애플 기기에 챗GPT를 접목하는 제휴를 맺었지만, 애플이 충분한 노력을 기울이지 않았다는 이유입니다.지난 14일(현지시간) 블룸버그는 복수의 소식통을 인용해 오픈AI가 외부 로펌을 선임하고 애플에 대한 소송 가능성 등 법적 대응 방안을 검토하고 있다고 보도했습니다.양사의 협력은 2024년 6월 애플이 자체 AI 시스템 '애플 인텔리전스'를 공개하면서 시작됐습니다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ncc651733",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151898",
-    "title": "[글로벌] MS 'MDASH' 공개...AI 에이전트 100개로 보안 취약점 잡는다",
-    "summary": [
-      "마이크로소프트(MS)가 100개 이상의 AI 에이전트를 동원해 소프트웨어 보안 취약점을 찾아내는 시스템을 공개하며 AI 보안 경쟁에 불을 지폈습니다.지난 12일(현지시간) MS는 자사 보안 블로그를 통해 '멀티모델 에이전틱 스캐닝 하네스(MDASH)' 시스템을 공개하고, 이를 소수 고객 대상 비공개 프리뷰로 테스트 중이라고 밝혔습니다.",
-      "하나의 AI 모델에 의존하는 방식과 달리 100개 이상의 특화 에이전트가 서로 검증하고 반론하는 '토론 구조'."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n24005bae",
-    "category": "사회",
+    "id": "n5669e7bf",
+    "category": "스포츠",
     "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026051616344974004",
-    "title": "삼성전자, 사측 대표 교섭위원 전격 교체…오는 18일 노사 협상 재개(종합)",
-    "summary": [
-      "삼성전자가 사측 대표교섭위원을 전격 교체하면서 다시 한번 대화의 물꼬를 텄다.",
-      "노조가 예고한 총파업이 닷새 앞으로 다가온 가운데 오는 18일 예정된 삼성전자 노사의 추가 교섭 일정이 분수령이 될 전망이다.",
-      "16일 최승호 삼성그룹 초기업노동조합 삼성전자지부(이하 초기업노조) 위원장은 이날 \"사측대표교섭위원은 여명구 피플팀장으로 교체됐다\"며 \"다만, 교섭 과정 이해도를 위해 김형로 부사장도 발언 없이 조정에 참여하."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n1416a97c",
-    "category": "사회",
-    "source": "조선일보",
     "time": "2분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/05/16/3AVT5TWGZVGCZA5RE3SI4PADCM/",
-    "title": "삼성전자 노사 대화 재개… 사측 대표교섭위원 교체",
+    "url": "https://www.asiae.co.kr/article/2026051617304438203",
+    "title": "박관열 후보 “광주 변화 시민 열망 하나로”…직통캠프 출범",
     "summary": [
-      "삼성전자 노사 대화 재개… 사측 대표교섭위원 교체."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nb236d104",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632354",
-    "title": "與 \"김관영 '피해자 코스프레' 중단해야…전북도민 앞세워 민주당 공격\"",
-    "summary": [
-      "[서울=뉴시스]권신혁 기자 = 더불어민주당이 16일 '돈봉투 의혹'으로 당에서 제명된 뒤 무소속으로 출마한 김관영 후보(현 전북도지사)를 두고 \"전북도민을 앞세워 민주당을 공격하고 있다\"며 \"'피해자 코스프레'를 중단해야 한다\"고 했다.",
-      "강준현 민주당 수석대변인은 이날 서면브리핑에서 \"피해자 코스프레에 나선 김관영 후보, 적반하장도 유분수\"라며 이같이 말했다.",
-      "강 수석대변인은 \"김관영 후보 측이 민주당의 정당한 당 기강 확립 조치를 두고 '암행."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0e5b89b6",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/16/2026051616190958679",
-    "title": "조국, 평택 선거사무소 개소…\"민주 진영 연대 주도·지역발전 총력\"",
-    "summary": [
-      "조국 조국혁신당 경기 평택을 국회의원 재선거 후보가 16일 선거사무소를 열고 본격적인 표심 공략에 나섰다.",
-      "조 후보는 민주진보 진영의 연대와 통합을 주도하겠다는 포부를 밝혔다.",
-      "조 후보는 이날 경기 평택시 안중읍에 마련된 선거사무소 '진심꾹캠프' 개소식 및 기자회견에서 본인을 \"민주진보 진영의 적자\"라고 지칭하며 향후 민주진보 진영 재편에서의 역할을 강조했다."
+      "더불어민주당 광주시장 박관열 후보가 '본선 승리'를 다짐하며 본격적인 선거 체제에 돌입했다.",
+      "박 후보는 16일 '직통캠프 발대식'을 개최하고 광주시의 새로운 변화를 위한 선거대책위원회 출범을 공식 선언했다.",
+      "이번 직통캠프 선거대책위원회에는 광주 발전을 위해 헌신해 온 각계 인사들이 대거 함께했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nd9b0a84b",
+    "id": "ne70be857",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/16/PIL5XZ4Q3NB43CLFVG5TQJ3P2U/",
-    "title": "푸틴, 시진핑 초청으로 19~20일 중국 국빈 방문",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260515/133928786/2",
+    "title": "“길가 쓰레기봉투에 슬쩍 넣었을 뿐인데” 해외선 90만원 과태료…한국은?",
     "summary": [
-      "푸틴, 시진핑 초청으로 19~20일 중국 국빈 방문."
+      "영국에서 길가 종량제봉투 안에 담배꽁초를 넣은 남성이 약 90만원 과태료를 받았다가 취소된 사례가 논란이 되고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nea1eb87c",
+    "id": "n14f8d89f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632378",
+    "title": "정원오 측 \"'감사의 정원' 라운딩 참여 오세훈, 선거법 위반 소지 다분\"",
+    "summary": [
+      "[서울=뉴시스] 한재혁 기자 = 정원오 더불어민주당 서울시장 후보 캠프는 16일 오세훈 국민의힘 서울시장 후보가 감사의정원 준공식에 참석해 축사 등을 한 것을 두고 \"선거법 위반 혐의가 다분하다\"며 해명을 요구했다.",
+      "김형남 정 후보 선대위 상임선대위원장 겸 대변인은 이날 논평을 내고 \"오세훈 후보는 (준공식에서) 사실상 서울시장의 역할을 수행한 것이나 다름없다\"고 했다.",
+      "김 대변인은 \"서울시는 오 후보를 내빈으로 초대한 적이 없다고 하지만, 오."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3ad49abb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516047400060",
+    "title": "포천 글램핑장 수영장서 3살 남아 물에 빠져 중태",
+    "summary": [
+      "(포천=연합뉴스) 심민규 기자 = 16일 오전 11시 44분께 경기 포천시 영북면의 한 글램핑장 수영장에서 3살 남아 A군이 물에 빠지는 사고가..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndcbbb8f0",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516041200007",
-    "title": "'혼혈 파이터' 카스트로프, 어머니 나라 대표해 월드컵 출격",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516037752007",
+    "title": "'7타점' 한화 강백호 \"수천번 섰던 수원 타석…기분 이상해\"(종합2보)",
     "summary": [
-      "(서울=연합뉴스) 안홍석 기자 = 옌스 카스트로프(묀헨글라트바흐)가 '어머니의 나라' 한국을 대표해 2026 북중미 월드컵에 나선다."
+      "(수원=연합뉴스) 이대호 기자 = 프로야구 한화 이글스의 '거포' 강백호가 자신이 가장 익숙했던 수원 팬들 앞에서 연타석 3점포를 포함한 맹타를..."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nf871adcb",
+    "id": "n72880966",
     "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://www.asiae.co.kr/article/2026051416464186026",
+    "title": "[주末머니]MSCI 5월 정기변경서 3종목 편출된 이유 보니",
+    "summary": [
+      "모건스탠리캐피털인터내셔널(MSCI) 5월 정기 리뷰 결과 MSCI 한국 지수 구성 종목에서 한진칼, HD현대마린솔루션, SK바이오팜이 제외되면서 구성 종목수가 기존 80개에서 77개로 줄어들게 됐다.",
+      "당분간 눈에 띄는 종목수 변동은 없을 것이란 전망이 나온다.",
+      "앞서 지난 12일(현지시간) MSCI는 5월 정기 리뷰 결과를 발표하고 한국 지수 구성 종목을 이같이 조정했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n76c31ee0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632363",
+    "title": "\"주먹밥 나누고 헌혈 외치고\"…되살아난 46년 전 오월 대동정신",
+    "summary": [
+      "[광주=뉴시스]이현행 기자 = \"주먹밥 하나에도 서로를 살리려 했던 광주의 마음이 담겨 있는 것 같아요.\" 5·18민주화운동 46주기를 이틀 앞둔 16일 오후 광주 동구 금남로와 민주광장 일대는 1980년 오월 광주를 지탱했던 '대동정신'으로 다시 채워졌다.",
+      "'민주의밤' 행사 열린 금남로 일대 시민난장 체험 부스에는 학생과 시민들의 발길이 이어졌다.",
+      "계엄군의 총탄 속에서도 서로를 살리기 위해 헌혈을 독려하고, 음식을 나눠 먹고, 시민군 차량을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbaed5710",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516047600527",
+    "title": "전남 여수 오존주의보 해제…광양은 오존주의보 유지",
+    "summary": [
+      "(광주=연합뉴스) 전남 여수에 내려진 오존주의보가 16일 오후 5시 해제됐다고 환경부 한국환경공단이 전했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n9034ba55",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260516045500004",
+    "title": "\"동성혼 인정·성별인정법 제정하라\" 성소수자인권단체 집회",
+    "summary": [
+      "(서울=연합뉴스) 조현영 기자 = 성소수자 인권단체들이 '국제성소수자혐오반대의날'(5월 17일)을 하루 앞둔 16일 서울 광화문에 모여 성별인정..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncceefaf4",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632296",
+    "title": "강백호, 친정팀 KT에 2홈런 7타점 맹폭…한화, 10-5 승리로 3연승",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 프로야구 한화 이글스가 거포 강백호의 폭발적인 타격을 앞세워 KT 위즈를 무너뜨렸다.",
+      "한화는 16일 수원 KT위즈파크에서 열린 2026 신한 쏠 KBO리그 KT와의 경기에서 10-5로 이겼다.",
+      "이틀 연속 KT를 제압한 한화(20승 21패)는 3연승 행진을 벌였다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5ea8cce5",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260516_0003632325",
+    "title": "FIFA 북중미월드컵 곧 개막인데…\"호텔 객실 텅텅 비었다\"",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 미국, 캐나다, 멕시코가 공동으로 개최하는 2026 FIFA 월드컵 개막이 한 달도 남지 않았지만, 현지 호텔 객실은 예상보다 한산한 분위기다.",
+      "15일(현지시각) 미국 뉴욕포스트는 월드컵 개최 도시의 호텔 예약률이 지난해 같은 시기보다 낮은 수준을 기록하고 있다고 보도했다.",
+      "일각에선 호텔 업계가 현장 관람 팬 수요를 지나치게 낙관적으로 예상했다는 지적이 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad2efac0",
+    "category": "IT",
     "source": "머니투데이",
     "time": "6분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/16/2026051615573634455",
-    "title": "\"두려웠다\" 강준우, 눈물의 득남 소식…690g 고비 넘긴 '기적'",
+    "url": "https://www.mt.co.kr/industry/2026/05/16/2026051616234753291",
+    "title": "삼성 파업 사태, '대화'로 전격 전환…정부 뛰고 이재용 나섰다",
     "summary": [
-      "육중완밴드 멤버 강준우가 득남 소식을 뒤늦게 알렸다.",
-      "강준우는 16일 자신의 SNS(소셜미디어)를 통해 \"좋은 일이 있어 여러분께 축하받고 싶은 마음에 글을 쓴다\"며 \"4월16일 저희 아들 강우주가 세상에 태어났다\"고 밝혔다.",
-      "강준우는 \"25주, 690g의 아주 작은 초극소미숙아로 태어나 초반에 큰 고비가 있었지만 지금은 신생아중환자실 인큐베이터에서 무럭무럭 자라 몸무게가 1kg을 넘겼다\"며 \"사실 저는 지금까지 이 이야기를 쉽게 꺼내지 못했다."
+      "(종합) 천문학적 성과급을 놓고 극단으로 치닫던 삼성전자 노사 갈등이 대화 국면으로 전격 전환했다.",
+      "국가 경제를 떠받치고 있는 반도체 생산라인의 파업만은 막아야 한다는 절박함을 바탕으로 정부가 움직였고 이재용 삼성전자 회장이 고개를 숙였다.",
+      "경영진이 총출동해 노조에 먼저 손을 내밀면서 간신히 대화의 장을 다시 마련한 모양새다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n420b5519",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://www.asiae.co.kr/article/2026051616273870598",
-    "title": "이란 해커, 美 주유소 시스템 노렸나…\"해킹 배후 의심\"",
-    "summary": [
-      "미국 여러 주(州) 주유소의 연료 저장탱크 시스템이 해킹당한 사건 배후로 이란 해커 조직이 지목됐다.",
-      "미국 정보당국은 최근 이란의 사이버 공격이 한층 공격적으로 변하고 있다고 보고 있다.",
-      "15일(현지시간) CNN에 따르면 미국 수사당국은 최근 발생한 주유소 연료 저장탱크 시스템 침입 사건의 배후에 이란 해커 조직이 있는 것으로 의심하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n400a699a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516044900527",
-    "title": "전남 순천 오존주의보 해제…여수·광양은 오존주의보 유지",
-    "summary": [
-      "(광주=연합뉴스) 전남 순천에 내려진 오존주의보가 16일 오후 4시 해제됐다고 환경부 한국환경공단이 전했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n62cf7351",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260516044800527",
-    "title": "경기 남부권 5개 시 오존주의보 발령…동부권은 오존주의보 유지",
-    "summary": [
-      "(수원=연합뉴스) 16일 오후 4시를 기해 경기 남부권 5개 시에 오존주의보가 내려졌다고 환경부 한국환경공단이 전했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n62f71648",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/16/2026051616074764898",
-    "title": "김부겸 \"삼성 파업땐 대구 300개 협력사 직격…고위급 중재 채널 가동\"",
-    "summary": [
-      "김부겸 더불어민주당 대구시장 후보가 삼성전자 총파업 예고와 관련해 노사의 '상생 대타협'과 정부의 적극적 중재를 촉구했다.",
-      "중동발 경제 위기 상황에서 파업이 현실화할 경우 대구·경북 지역 협력업체에도 타격이 올 수 있다며 노사 양측의 타협을 요청했다.",
-      "김 후보는 16일 오후 대구 선거사무소(희망캠프)에서 긴급 기자회견을 열고 \"지금 삼성전자 총파업 예고에 국민의 마음은 타들어 가고 있다\"며 이같이 밝혔다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n629dac07",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260515174100007",
-    "title": "'A매치 단 1경기' 이기혁 월드컵 간다…홍명보호 파격 발탁",
-    "summary": [
-      "(서울=연합뉴스) 오명언 기자 = 프로축구 K리그1 강원FC의 왼발잡이 '멀티 센터백' 이기혁(25)이 홍명보호에 '깜짝 발탁'돼 월드컵 무대에..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n364c6774",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260516/133934841/2",
-    "title": "중학생 아들 ‘욕설’에 손으로 엉덩이 때렸다고…경찰, 父 입건 조사",
-    "summary": [
-      "40대 아버지가 용돈 문제로 갈등을 빚던 중학생 아들의 엉덩이를 손으로 때린 혐의로 경찰 수사를 받고 있다.",
-      "사건 뒤 아들이 아버지를 신고한 것으로 알려졌다.경기 분당경찰서는 16일 아동복지법 위반 혐의로 40대 남성을 입건해 조사 중이라고 밝혔다.이 남성은 1일 오전 10시경 경기 성남시 분당구 구미동에 있는 주거지에서 중학생 아들의 엉덩이 부위를 손으로 수 회 때렸다.이 남성은 아들이 “왜 용돈을 주지 않느냐”고 욕설하는 등 격한 언행을 보."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb60577cf",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632349",
-    "title": "손흥민 4번째 월드컵 간다…K리그 수비수 이기혁 '깜짝 발탁'(2보)",
-    "summary": [
-      "[서울=뉴시스]안경남 기자 = 한국 축구 '캡틴' 손흥민(LAFC)이 개인 통산 4번째 월드컵 무대를 밟는다.",
-      "홍명보 감독은 16일 서울 광화문 KT 온마당에서 2026 국제축구연맹(FIFA) 북중미 월드컵에 나설 26명의 태극전사 명단을 발표하면서 손흥민 등 해외파 주축 선수들을 포함했다.",
-      "이로써 손흥민은 2014년 브라질, 2018년 러시아, 2022 카타르 대회에 이어 생애 4번째 월드컵 도전에 나서게 됐다."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n2754250a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260516_0003632352",
-    "title": "밀양서 70대 여성 몰던 차량, 스포츠센터 수영장 추락",
-    "summary": [
-      "[밀양=뉴시스] 안지율 기자 = 16일 오전 경남 밀양시 하남읍 하남스포츠센터에서 70대 여성이 몰던 승용차가 건물 1층 유리창을 들이받고 지하 수영장으로 추락하는 사고가 발생했다.",
-      "차량은 수영장 안으로 뒤집힌 채 떨어졌으며, 운전자는 수영장에 있던 회원들에 의해 구조됐다.",
-      "사고는 오전 10시20분께 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n12733113",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/economy/2026/05/16/2026051616094138047",
-    "title": "삼성전자 노조 \"18일 사측과 교섭재개…이재용 회장 사과 확인했다\"",
-    "summary": [
-      "사측대표교섭위원 여명구 DS부문 피플팀장으로 교체…\"16일 오후에 미팅 진행\" 최승호 초기업노조 삼성전자지부 위원장이 \"월요일(18일) 중앙노동위원회에서 사측과 교섭을 재개하겠다\"고 16일 밝혔다.",
-      "노조는 사측 대표 교섭위원 교체 사실도 알리면서 바로 미팅을 진행하기로 했다.",
-      "최 위원장은 \"(이재용) 회장님의 사과내용을 확인했고 신뢰회복의 시간이 걸릴 수 있겠지만 함께 갈 수 있도록 (사측에서) 이번 교섭부터 노력해주면 좋겠다\"며 이 같이 말했."
-    ],
-    "chips": [
+      "#반도체",
       "#삼성전자"
     ]
   },
   {
-    "id": "n2221e03e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260516/133934816/2",
-    "title": "李 “중대 범죄” 언급한 ‘사적 보복’ 20대男 붙잡혀",
+    "id": "n319a6e39",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://www.asiae.co.kr/article/2026051617255332290",
+    "title": "현근택 후보 \"용인시민 일상에 '소확행' 드릴 것\"…민심 청취 잰 걸음",
     "summary": [
-      "인천에서 사주를 받고 남의 집 현관문에 페인트칠을 하는 등 일명 ‘보복 대행’ 범죄를 저지른 20대 남성이 경찰에 붙잡혔다.",
-      "이재명 대통령이 ‘사적 보복대행’의 예시로 언급한 사건이다.인천 서부경찰서는 16일 재물손괴, 주거침입 등의 혐의로 20대 남성을 검거해 조사 중이라고 밝혔다.이 남성은 13일 오전 5시 30분경 인천 서구 청라동에 있는 한 아파트 현관문 앞에 페인트칠을 하고 계란 등 음식물을 뿌린 혐의를 받는다.경찰은 남성이 30대 피."
+      "현근택 더불어민주당 용인시장 후보가 16일 후보 등록 후 맞은 첫 주말 동안 용인시 곳곳을 방문하며 현장의 생생한 목소리를 듣는 '민심 청취 투어'에 나섰다.",
+      "현근택 용인시장 후보는 이날 아침 일찍부터 생활체육 행사, 지역축제 등 다양한 일정을 소화하며 시민들과 직접 소통하는 데 집중했다.",
+      "현근택 용인시장 후보는 \"어르신들의 체육 활동부터 영유아 보육, 다문화에 이르기까지 시민들의 삶과 밀접한 현장을 직접 둘러볼."
     ],
     "chips": [
-      "#부동산",
-      "#정치"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1a26eae9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/16/GA3GGMJSG5TDIOJZGA3DCYZYMI/",
+    "title": "한화 드디어 1선발 왔다! 이런 투수가 6주 없었다니…화이트, 6⅓이닝 4K 1자책점 완벽 복귀전 [오!쎈 수원]",
+    "summary": [
+      "[OSEN=수원, 조은혜 기자] 프로야구 한화 이글스 오웬 화이트가 부상 복귀전에서 호투를 펼치고 KBO 첫 승을 달성했다.",
+      "화이트는 16일 수원 케이티위즈파크에서 열린 2026 신한 SOL KBO리그 KT 위즈와의 원정경기에선 선발투수로 등판, 6⅓이닝 3피안타 1사사구 4탈삼진 2실점(1자책점) 퀄리티스타트로 호투하고 KBO 데뷔 첫 승을 올렸다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n6f8d0c55",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/16/2026051615341629612",
+    "title": "'A매치 단 1경기→월드컵 멤버' 이기혁 대반전, 홍명보 감독 '깜짝 발탁' 이유는 \"직접 경기를 봤는데...\" [광화문 현장]",
+    "summary": [
+      "2026 국제축구연맹(FIFA) 북중미월드컵 본선 무대를 누빌 26인의 태극전사 최종 명단의 가장 큰 반전이자 파격적인 선택은 단연 강원FC의 핵심 멀티플레이어 이기혁(25)의 전격 발탁이었다.",
+      "홍명보 축구대표팀 감독은 16일 오후 4시 서울 종로구 KT 광화문 빌딩 웨스트 온마당에서 기자회견을 열고 월드컵 최종 엔트리를 전격 공개했다.",
+      "이번 명단은 지난 2년 동안 이어진 치열한 옥석 가리기의 최종 결과물이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6dc57cdd",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/16/GAZTGZBZGE2TCYZVHBRDOZLEMI/",
+    "title": "'친정에 비수' 강백호 멀티포→7타점 먹방쇼! 'QS' 화이트 첫 승, 한화 3연승 질주…KT 시즌 첫 3연패 [수원 리뷰]",
+    "summary": [
+      "[OSEN=수원, 조은혜 기자] 프로야구 한화 이글스가 뜨거운 방망이를 앞세워 KT 위즈에게 시즌 첫 3연패를 안겼다.김경문 감독이 이끄는 한화는 16일 수원 케이티위즈파크에서 열린 2026 신한 SOL KBO리그 KT와의 원정경기에서 10-5 대승을 거뒀다.",
+      "이날 승리로 3연승을 달린 한화는 시즌 20승(21패) 고지를 밟으면서 5할 승률을 눈앞에 뒀다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nbe13ee29",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "12분 전",
+    "url": "https://www.hankyung.com/article/202605043213i",
+    "title": "\"노키아처럼 망한다\"던 애플, AI 강자로 급부상하는 이유는 [김인엽의 AI 프런티어]",
+    "summary": [
+      "\"노키아처럼 망한다\"던 애플, AI 강자로 급부상하는 이유는 [김인엽의 AI 프런티어]."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -651,12 +651,12 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
+    "tag": "KBO",
     "mentions": "1810건",
     "trend": "+175%"
   }
