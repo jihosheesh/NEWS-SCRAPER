@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-16 17:20:05
+// 마지막 업데이트: 2026-05-16 18:16:22
 window.NEWS_DB = [
   {
     "id": "n8e35c9b3",
@@ -76,14 +76,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n755986be",
+    "id": "n9722c905",
     "category": "IT",
-    "source": "v.daum.net",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnOGRkOFFNcFVKdktQOVJKSjFmSG9KNlpRRHpJd0Yzems1ejJXWXBMd19CNnZ3QXhpQkRERHVMM3BHZTZFQjdhc0lfUVB6Q1U?oc=5",
-    "title": "미국, 중국 알리바바 등에 엔비디아 고성능 AI반도체 판매 승인",
+    "source": "뉴스1",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13S04yaHdER0RkemZxcHoxa2Iwdmxld2NhcS1oWl9nZWtLVWNqZG96MHNhUVVXdmtGMGZWRkNWdGNzU3NiaWU4Ymp1SW9vMVRwOHlwNThVUi1tZnp5NDdvb0s4N09oc2RROGxBWQ?oc=5",
+    "title": "엔비디아 시총 5.7조달러 돌파…AI 반도체 랠리에 美 기술주 질주",
     "summary": [
-      "미국, 중국 알리바바 등에 엔비디아 고성능 AI반도체 판매 승인 v.daum.net."
+      "엔비디아 시총 5.7조달러 돌파…AI 반도체 랠리에 美 기술주 질주 뉴스1."
     ],
     "chips": [
       "#AI",
@@ -315,10 +315,129 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndc20fea0",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260517001900091",
+    "title": "테슬라, 로봇택시 사고 17건 경위 공개…원격조종중 사고 포함",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 테슬라가 미국 텍사스주 오스틴에서 발생한 로봇택시(자율주행 택시) 사고 17건의 세부 내용을 공개했다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3987e32c",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://www.asiae.co.kr/article/2026051703013350266",
+    "title": "10만 연등 물결에 로봇 스님까지…전통과 AI가 함께 걸은 종로",
+    "summary": [
+      "법복을 입은 로봇 스님들이 10만 연등 앞에 섰다.",
+      "전통 장엄과 인공지능(AI), 시민의 손불등이 한 행렬 안에서 서울 종로의 밤을 밝혔다.",
+      "불기 2570년 부처님오신날을 앞두고 열린 '2026 연등회' 연등행렬이 16일 오후 서울 종로 일대에서 펼쳐졌다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n7430ae2e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/05/17/NDMAG6C63BHQJBZVIQQBDDROCA/",
+    "title": "‘버뮤다 세탁’ 거친 中 해외 투자… 목표는 ‘수익’ 아닌 ‘기술 흡수’",
+    "summary": [
+      "‘버뮤다 세탁’ 거친 中 해외 투자… 목표는 ‘수익’ 아닌 ‘기술 흡수’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n49b2405f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/05/14/5332UXUODJEXNMDAIXJ7LWWW6Y/",
+    "title": "혼다 충격으로 본 위기의 일본 자동차 산업",
+    "summary": [
+      "혼다 충격으로 본 위기의 일본 자동차 산업."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n832aaa48",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/culture-life/2026/05/17/6SHKLQYQQFF7ZFY2RB2FVYWK5M/",
+    "title": "앤디 워홀과 함께 비빔밥? 뮌헨 미술관 식당 K-푸드 바람",
+    "summary": [
+      "뮌헨 여행의 목표는 늘 바이에른 국립 오페라극장이다.",
+      "독일 최고 수준의 오페라가 올라가는 이 극장에 오기 위해 서울부터 14시간 비행기를 탄다.",
+      "저녁마다 오페라를 보기 위해선 체력을 아껴야 한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1fc570d1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/05/17/ZJLAF2DTP5CFPK6Y2T7JQEUZCY/",
+    "title": "경제 상식 계속 뒤집는 靑…이재명式 호텔 경제학 재탕인가",
+    "summary": [
+      "경제 상식 계속 뒤집는 靑…이재명式 호텔 경제학 재탕인가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba5620f1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260517_0003632526",
+    "title": "트럼프 \"이란 합의 안하면 매우 힘든 시간\"…방중후 강경 경고",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 도널드 트럼프 미국 대통령이 이란을 향해 미국과의 합의에 응하지 않을 경우 \"매우 나쁜 시간을 맞게 될 것\"이라며 다시 한번 강경 경고를 내놨다.",
+      "트럼프 대통령은 16일(현지 시간) 프랑스 BFM TV와의 전화 인터뷰에서 \"만약 이란이 합의하지 않는다면 매우 힘든 시간을 겪게 될 것\"이라며 \"그들은 합의를 하는 편이 나을 것\"이라고 경고했다.",
+      "트럼프 대통령은 또 이란과의 합의 가능성에 대해 \"전혀 알 수 없다\"고."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n60ae4918",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "54분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/17/2026051618075420525",
+    "title": "'도대체 왜' 월드컵 직전 102위·100위와 평가전 치를까, 홍명보 감독 \"더 좋은 상대 만날 수 있었다\" [광화문 현장]",
+    "summary": [
+      "대한축구협회가 2026 국제축구연맹(FIFA) 북중미월드컵 본선 직전 트리니다드토바고, 엘살바도르와의 최종 평가전 2연전 일정을 확정 발표한 가운데, 홍명보 대한민국 축구대표팀 감독이 아쉬움을 나타내는 여론에 대해 현실적인 고충과 솔직한 심경을 털어놓았다.",
+      "홍명보 감독은 16일 오후 4시 서울 종로구 KT 광화문 빌딩 웨스트 온마당에서 열린 최종 엔트리 발표 기자회견에서 월드컵 직전 100위권대 약팀들과 매치업에 아쉬움이 남는다는 질문에 현실적."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n13cbdeb1",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260517001500098",
     "title": "좌초끝 넓은 바다 향했던 독일 '국민 고래', 끝내 폐사",
     "summary": [
@@ -332,7 +451,7 @@ window.NEWS_DB = [
     "id": "n32945d51",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260517001200091",
     "title": "억만장자 애크먼, 구글 팔고 MS에 베팅…\"AI·클라우드 저평가\"",
     "summary": [
@@ -343,42 +462,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne688d651",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/17/HFTDAOLCMIZTKYZQMI3WMNJXG4/",
-    "title": "\"또 우승이다\" 세메뇨 '뒷꿈치' 결승골 폭발! 맨체스터 시티 '더블' 달성, 첼시 1-0 격파..리그 역전 우승만 남았다",
-    "summary": [
-      "[스포츠조선 노주환 기자]펩 과르디올라 감독의 맨체스터 시티가 '더블'을 달성했다.",
-      "리그컵(카라바오컵)에 이어 FA컵 정상에 올랐다.",
-      "맨시티는 16일(한국시각) 영국 런던 웸블리 스타디움에서 벌어진 첼시와의 2025~2026시즌 잉글랜드 FA컵 결승서 세메뇨의 결승골로 1대0 승리하며 우승을 차지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09571f03",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/05/17/GRRWEYLCGJTDIZBWMRRWENBYGA/",
-    "title": "현커 된 박정민 출판사 김이사♥침착맨 김총무, 달달 백허그…럽스타 포착",
-    "summary": [
-      "[스포츠조선 조민정 기자] 배우 박정민의 출판사 직원으로 알려진 김아영 이사가 공개 연애 후 달달한 근황을 전했다.",
-      "김아영 이사는 16일 자신의 SNS에 \"머릿결 보호 선언 5년 만의 염색\"이라는 글과 함께 여러 장의 사진을 게재했다.",
-      "공개된 사진 속 김아영 이사는 긴 생머리에 한층 밝아진 헤어 컬러로 눈길을 끌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ne8eb2ddf",
     "category": "사회",
     "source": "테크M",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151903",
     "title": "이재용 삼성전자 회장, 노사 협상 물꼬 텄다...18일 사후조정 재개(종합)",
     "summary": [
@@ -394,7 +481,7 @@ window.NEWS_DB = [
     "id": "ne5246f15",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/17/2026051623310465749",
     "title": "\"전신 30% 화상과 맞바꾼 사랑\" 불타는 건물로 뛰어든 19살 축구선수, 시상식서 '영광의 흉터' 드러냈다",
     "summary": [
@@ -410,7 +497,7 @@ window.NEWS_DB = [
     "id": "n3c865131",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260515_0003631432",
     "title": "\"대충 하려다 지옥 봤다\" 박재범, 여름 대비 고강도 루틴에 녹다운",
     "summary": [
@@ -426,7 +513,7 @@ window.NEWS_DB = [
     "id": "nae782a68",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/17/2026051700483110585",
     "title": "'무려 3000억 벌었는데' UFC 최고 악동 맥그리거, '드디어' 5년 만의 복귀전 성사 확정적 \"세기의 라이벌과 빅뱅\"",
     "summary": [
@@ -442,7 +529,7 @@ window.NEWS_DB = [
     "id": "n43687da2",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260517001300064",
     "title": "청주서 승용차·오토바이 충돌…1명 사망·음주 운전자 체포",
     "summary": [
@@ -453,26 +540,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naeb4104f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/17/MUYTKZRTMIZTCYLDGBTDQZDBMQ/",
-    "title": "징계로 30G 쉰 선수 맞아? 안타-적시타-적시타-볼넷-동점홈런→타율 5할 돌파…ML이 탐낸 이유 있었다",
-    "summary": [
-      "[OSEN=잠실, 이후광 기자] 징계로 퓨처스리그도 뛰지 못한 선수가 맞나 싶다.",
-      "경기는 내줬지만, 롯데는 대신 5할타자를 얻었다.",
-      "프로야구 롯데 자이언츠 내야수 나승엽은 16일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 두산 베어스와의 시즌 5차전에 4번 1루수로 선발 출전해 4타수 4안타(1홈런) 4타점 1볼넷 2득점 원맨쇼를 펼쳤다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n94d6ab17",
     "category": "사회",
     "source": "뉴시스",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260517_0003632523",
     "title": "교황 레오 14세, 9월 25∼28일 프랑스 공식 방문",
     "summary": [
@@ -485,24 +556,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na76caeed",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260517000900072",
-    "title": "'헤지펀드 대부' 달리오 \"美신뢰 하락…中중심 조공체제 형성중\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 헤지펀드인 브리지워터 어소시에이츠(이하 브리지워터)의 창업자 레이 달리오는 16일(현지시간) 미국 동맹국 사..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb92b13b0",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/17/2026051700055781174",
     "title": "日 열도 녹인 미모! 시구하자 선수들도 반했다! 노기자카46 출신 아이돌, 핑크 글러브 끼고 팬들 심장에 '스트라이크'",
     "summary": [
@@ -518,7 +575,7 @@ window.NEWS_DB = [
     "id": "n661b77fc",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260515_0003631377",
     "title": "탈모·흉터 없는 피부재생…\"태아 피부서 실마리\"",
     "summary": [
@@ -534,7 +591,7 @@ window.NEWS_DB = [
     "id": "n53d41d86",
     "category": "사회",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151902",
     "title": "개미들의 반격...18일 '삼성전자 파업 긴급조정권 행사' 국민신문고 청원",
     "summary": [
@@ -547,43 +604,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd9af6e6d",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631943",
-    "title": "부산창경, 전국 스타트업에 투자 유치 지원",
-    "summary": [
-      "[부산=뉴시스] 이아름 기자 = 부산창조경제혁신센터(부산창경센터)는 내달 3일까지 유망 스타트업의 투자 유치와 성장을 지원하는 'BOUNCE PIE 배치' 프로그램에 참여할 기업을 모집한다고 17일 밝혔다.",
-      "이 프로그램은 중소벤처기업부가 주최하고 부산창경센터가 주관하는 것으로, 성공적인 투자 라운드 진입을 목표로 하는 스타트업을 지원한다.",
-      "신청 대상은 전국의 창업 7년 미만 투자 유치 희망 스타트업이다."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
-    "id": "ne99f71e8",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/17/2026051619254755856",
-    "title": "'2010년생 맞아?' 日 여고생 파이터 '데뷔전 완승'... 무려 30세 베테랑이 쉴새 없이 얻어맞다니",
-    "summary": [
-      "일본 격투기계에 2010년생 초신성이 등장했다.",
-      "단 한 번의 프로 데뷔전으로 열도를 발캅 뒤집어놓은 최연소 여고생 파이터가 그 주인공이다.",
-      "일본 매체 '닛칸스포츠' 등은 16일 \"최근 중학교를 갓 졸업한 15세의 최연소 여자 킥복서 유나가 폭발적인 안면 앞차기를 앞세운 공격적인 경기로 프로 데뷔전에서 완승을 거뒀다\"고 집중 조명했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
     "id": "n764a92b2",
     "category": "사회",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151901",
     "title": "이재용 삼성전자 회장 \"고객·국민께 사과...힘 모아 한 방향으로 갈 때\"",
     "summary": [
@@ -596,42 +620,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n426fc2f7",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2시간 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/17/HEZDAMRWGQYWMMTEHE3WGMTEMQ/",
-    "title": "이상훈, 장난감 박물관 대박났다..10억 투자 곧 청산? “입장객 7배 증가”",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘전지적 참견 시점’ 이상훈이 방송 후 입장객 수가 7배나 증가했다고 밝혔다.16일 방송된 MBC 예능 ‘전지적 참견 시점’(이하 ‘전참시’)에서는 ‘장난감계 유재석’ 이상훈과 ‘빠더너스’ 문상훈이 등장했다.이날 홍현희는 이상훈에게 “방송 나가고 어떘는지, 왜냐면 덕후들 반응이 엄청나다고 하던데."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n92c29949",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026051609417",
     "title": "'어머니의 나라' 국가대표로 뛴다…꿈 이룬 '혼혈 태극전사'",
     "summary": [
       "'어머니의 나라' 국가대표로 뛴다…꿈 이룬 '혼혈 태극전사'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n64af3432",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/202605160997i",
-    "title": "\"별점 4.9의 배신\"…가짜 리뷰가 무너뜨리는 시장의 신뢰 [현민석의 페어플레이]",
-    "summary": [
-      "\"별점 4.9의 배신\"…가짜 리뷰가 무너뜨리는 시장의 신뢰 [현민석의 페어플레이]."
     ],
     "chips": [
       "#뉴스"
@@ -644,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
