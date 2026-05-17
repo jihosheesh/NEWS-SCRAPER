@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-17 17:20:40
+// 마지막 업데이트: 2026-05-17 18:19:14
 window.NEWS_DB = [
   {
     "id": "nf749e7d1",
     "category": "IT",
     "source": "조선일보",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYy1icmR4WXYza2M0Ti1UdEdzRWYyTDhFUWQ5WVppWkpQVFROUjhCdDNES085ajNjRVk0QkNNQTE3c204c3NlZXloX29vZVpRV29nSFpmcGRXanBINnh5eTY4VV9SZ3lxNEh2YWJibktRelk3Z2ltUDV1VllHX0NCUDZ6WQ?oc=5",
     "title": "미중 정상회담에도 반도체는 노딜...엔비디아 빈자리 공략하는 中 기업",
     "summary": [
@@ -14,22 +14,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n8e35c9b3",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRWNsRUlCZFg1LWdxZG1hNWlSWFZjaDN2UFFGTXM3cmRJdmtQelB2cUlBMGl0LVNYeTEwS1pvOTFCdEw1ZTJXaEk0VzNrdThIYkhKZUl4Y3R2RzlvRlNsV2gydDdBcVFwOWxFemZyNlg4SGM?oc=5",
-    "title": "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\"",
-    "summary": [
-      "엔비디아 H200 중국 수출 잠재력에 투자기관 주목, \"미국의 AI 플랫폼 영향력 강화\" 비즈니스포스트."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#수출"
     ]
   },
   {
@@ -44,6 +28,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "n8781e79c",
+    "category": "IT",
+    "source": "경향신문",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
+    "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
+    "summary": [
+      "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호 경향신문."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
     ]
   },
   {
@@ -316,10 +315,172 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n158b6517",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260518001500071",
+    "title": "美 \"中, 2028년까지 매년 25조원 美농산물 구매…미중무역위 설립\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 백악관은 17일(현지시간) 중국의 미국 농산물 대량 구매 등을 골자로 하는 미중정상회담 결과 팩트시트를 발..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n4a0d9df3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260518_0003633110",
+    "title": "트럼프, 네타냐후와 30분 통화 후 \"이란, 지체하면 남는것 없을것\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 미중 정상회담을 마친 도널드 트럼프 미국 대통령이 이스라엘과 접촉하며 이란에 대한 군사적 압박을 다시 강화하기 시작했다.",
+      "트럼프 대통령은 17일(현지 시간) 소셜미디어 트루스소셜에 \"이란에게는 시간이 얼마 남지 않았고, 그들은 빨리 움직이는 게 좋을 것\"이라며 \"그렇지 않으면 그들에게 남는 것은 아무 것도 없을 것\"이라고 적었다.",
+      "그러면서 \"시간이 핵심(TIME IS OF THE ESSENCE)\"이라고 강조했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc42d8e2c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260517_0003632787",
+    "title": "\"샌드위치 100개 딱 걸렸어!\"…미 공항서 밀수품 찾고 '달콤한 보상'",
+    "summary": [
+      "[서울=뉴시스]서영은 인턴 기자 = 미국 국제공항에서 수하물에 숨겨 오려던 돼지고기 샌드위치 100개가 비글 탐지견의 활약으로 적발됐다.",
+      "지난 14일(현지시각) 워싱턴포스트(WP) 등에 따르면 미국 미네아폴리스-세인트폴 국제공항에서 미 국토안보부 세관국경보호국(CBP) 소속 탐지견이 승객의 더플백 두 개에 가득 차 있던 불법 물품을 발견했다.",
+      "세관 당국 관계자가 해당 수하물을 열어 정밀 수색을 벌인 결과, 비행기에서 내린 승객 2명의 가방 안에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n493bc713",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/05/18/BK3SCRFUHZED3M6PB63GMYDMHM/",
+    "title": "딸깍 딸깍, 오늘도 부장님은 손톱을 깎는다",
+    "summary": [
+      "딸깍 딸깍, 오늘도 부장님은 손톱을 깎는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n16f093ef",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/culture-life/travel/2026/05/18/K2RSBSNRCZEONBBETDHHFEFD6E/",
+    "title": "‘월드 베스트 호텔’ 1위 카펠라 방콕, 정말 세계 최고일까",
+    "summary": [
+      "‘월드 베스트 호텔’ 1위 카펠라 방콕, 정말 세계 최고일까."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a7d5f3f",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/05/18/HZKJSKXGRNBFVKU7BLBXWIQ7Q4/",
+    "title": "증시가 선거를 좌우한다…오르면 여당이, 내리면 야당이 유리",
+    "summary": [
+      "증시가 선거를 좌우한다…오르면 여당이, 내리면 야당이 유리."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbe987de3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/national/2026/05/18/EHM3QNNSY5ASVKYZJZMMKCZRDM/",
+    "title": "[굿모닝 멤버십] 세계 1위 호텔이 10층 높이 건물을 고집한 이유",
+    "summary": [
+      "[굿모닝 멤버십] 세계 1위 호텔이 10층 높이 건물을 고집한 이유."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n79419f93",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260518001200075",
+    "title": "게이츠 재단, 마지막 마이크로소프트 주식까지 전량 매각",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 세계적인 부호 빌 게이츠가 세운 자선·연구지원 단체인 게이츠 재단이 주요 자산이었던 마이크로소프트 주..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nce07cc82",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260518000352071",
+    "title": "백악관 \"트럼프-시진핑, 북한 비핵화 공동목표 확인\"(종합2보)",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령이 지난 14∼15일 중국을 방문했을 때 시진핑 중국 국가주석과 북한 비핵화 목표..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ncc7790f9",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "40분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/18/2026051802314064511",
+    "title": "전소민 \"술 마시면 전 남친에게 전화\"…번호 바꿔달라 사정한 사연은?",
+    "summary": [
+      "전소민이 술에 취하면 전 남자친구에게 연락하던 과거를 솔직하게 털어놨다.",
+      "17일 방영된 SBS '미운 우리 새끼' 495회에서는 배우 전소민이 게스트로 출연해 입담을 뽐냈다.",
+      "이날 신동엽은 \"전소민 씨 예전 술버릇이 전 남친한테 연락하는 거였다\"며 \"한 번은 헤어진 남자친구에게 전화해서 전화번호를 바꾸라고 사정한 적이 있다\"고 폭로했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n187cca89",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "58분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/18/2026051802123171556",
+    "title": "한혜진, 김재욱과 과거 썸? \"20대 때 사귀자 했으면 만났지\" 고백",
+    "summary": [
+      "한혜진이 김재욱과의 과거 썸 의혹에 솔직하게 인정했다.",
+      "17일 방영된 SBS '미운 우리 새끼' 495회에서는 모델 송해나가 집에 한혜진을 초대해 식사하는 모습이 그려졌다.",
+      "이날 송해나는 한혜진에게 \"언니 약간 김재욱 오빠랑 썸 있지 않았냐."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nf811a3b0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260518_0003633109",
     "title": "美 \"트럼프-시진핑, '한반도 비핵화' 계속 추진 동의\"",
     "summary": [
@@ -335,7 +496,7 @@ window.NEWS_DB = [
     "id": "n67a9480e",
     "category": "경제",
     "source": "머니투데이",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/entertainment/2026/05/18/2026051801551481204",
     "title": "한혜진, 31기 경수 보더니 관심? \"잘생겨도 성격 개차반이면…\"",
     "summary": [
@@ -351,7 +512,7 @@ window.NEWS_DB = [
     "id": "n38fb2c53",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260518001100071",
     "title": "트럼프 \"이란, 서둘러 움직이지 않으면 아무것도 남지 않을 것\"",
     "summary": [
@@ -362,41 +523,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64066226",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260518001000072",
-    "title": "'기밀정보'로 베팅했나…美당국, 예측시장 거래 조사 확대",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 정치권과 군 내부의 미공개 정보를 활용한 베팅 의혹이 잇따르면서 미 사법·규제당국이 분주히 움직이고 있..."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n649f6b73",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/18/GI4TEZTEMFSGMZJTGVRTAZJXMI/",
-    "title": "\"8월에 만날 내딸아, 아빠 이렇게 멋있는 사람이야\" 슬럼프+치욕 이겨낸 새삶…48억 외야수의 진심 [인터뷰]",
-    "summary": [
-      "[수원=스포츠조선 김영록 기자] \"지나간 과거에 얽매이지 않고 빨리 잊으려고 노력한다.\" 생애 최악의 한해를 보냈다.",
-      "계약은 했지만, 아직 시작도 안했는데 '예비 먹튀'라는 상습 비난에도 직면했다.",
-      "굴욕은 딛고 일어서기 위한 초석이었을 뿐이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nd34859b1",
     "category": "IT",
     "source": "머니투데이",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/opinion/2026/05/18/2026051711121882022",
     "title": "미토스, '지능형 에이전틱 방어'로 막아야[투데이 窓/홍진배]",
     "summary": [
@@ -409,63 +539,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n314f6040",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/18/2026051717494376978",
-    "title": "[사설]초과세수, 미래 위한 투자에 사용해야",
-    "summary": [
-      "메모리 반도체 초호황으로 올해 국세수입이 2년 전 대비 100조원 넘게 증가할 전망이다.",
-      "이는 한국에 찾아온 절호의 기회다.",
-      "향후 한국 경제의 향방은 초과세수를 AI(인공지능)·첨단산업 인프라에 투자하느냐 아니면 일회성 예산으로 소진하느냐에 달렸다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n1d7133a8",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/18/2026051315404629339",
-    "title": "퇴직연금 위험자산 한도 폐지해야[MT시평/이병건]",
-    "summary": [
-      "삼성전자와 하이닉스 중심의 반도체 주식 주도로 주식시장이 상승하면서 반도체 주식에 대한 관심이 높다.",
-      "ETF투자도 반도체에 집중되고 있어, 운용사들이 앞다퉈 반도체 ETF를 출시하고 있다.",
-      "그런데 '000채권혼합50'과 같은 상품들이 있다."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "ne089ba11",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/18/GQ3DKNJVGVSTIZJXGE2TKYJQGY/",
-    "title": "“오늘은 유독 공이 잘 맞았다” 박재현의 미친 하루…데뷔 첫 5안타 폭발 [오!쎈 대구]",
-    "summary": [
-      "[OSEN=대구, 손찬익 기자] “매번 같은 느낌으로 스윙했는데 오늘은 유독 공이 잘 맞았다고 생각한다”.",
-      "'신들린 타격감'이라는 표현이 잘 어울리는 경기였다.",
-      "프로야구 KIA 타이거즈 외야수 박재현이 데뷔 첫 한 경기 5안타를 때려내며 팀 승리를 이끌었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "na21be935",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260517_0003632813",
     "title": "셔츠 목 부분 '누런 얼룩' 바로 지운다…30년 세탁 전문가 비법",
     "summary": [
@@ -478,87 +555,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n421e5795",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "46분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/18/GUZGEYRQGE3TSYTBMU4WENJTG4/",
-    "title": "'민재야, 나 어떡해' 독일팬들은 레전드의 귀환을 원치 않는다...'노이어 복귀 옳은 일일까?' 설문 결과 '반대 50%'",
-    "summary": [
-      "[스포츠조선 박찬준 기자]마누엘 노이어의 국가대표 복귀에 대한 독일 내 여론은 썩 좋지 않다.",
-      "독일 스카이스포츠는 '노이어가 월드컵에 나서는 것은 옳은 결정일까'라는 설문을 진행했다.",
-      "무려 11만명이 참여한 가운데, 정확히 5만5000명이 찬성과 반대로 나뉘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n818a204f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "47분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/05/18/G42TAZLDHAZGCZRSGZQTGYJXME/",
-    "title": "\"실망했다\" 이러다 한국 올지도 모르겠네, 1년 전 ML 타점 1위였는데…이정후 옛 동료, FA 미아 신세 끝에 멕시코행 왜?",
-    "summary": [
-      "[OSEN=이상학 객원기자] 작년 이맘때 샌프란시스코 자이언츠에서 가장 뜨거운 타자는 윌머 플로레스(34)였다.",
-      "지난해 5월17일(이하 한국시간) 애슬레틱스전에서 홈런 3방 포함 8타점을 올리며 ‘인생 경기’를 펼쳤다.",
-      "당시까지 44경기 41타점으로 애런 저지(뉴욕 양키스)와 함께 양대리그 통틀어 타점 1위."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb728bc0b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260518000600081",
-    "title": "하비에르 바르뎀, 트럼프·푸틴·네타냐후 비판…\"유해 남성성\"",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 스페인 출신 세계적 배우 하비에르 바르뎀이 도널드 트럼프 미국 대통령, 블라디미르 푸틴 러시아 대통령, 베냐..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2992bd8b",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260515_0003631925",
-    "title": "\"190억 투자 유치\"…AWS와 날아오른 K-스타트업[같이의 가치]",
-    "summary": [
-      "[서울=뉴시스]강은정 기자 = 잠재력을 가진 수험생이 일타 강사를 만나 꿈을 이루듯, 글로벌 파트너와 함께 세계 무대로 도약한 K-스타트업이 있다.",
-      "물류 테크 스타트업 콜로세움코퍼레이션은 아마존웹서비스(AWS)의 도움을 받아 190억원 상당의 국내외 투자 유치에 성공하고 두 자릿수 신규 채용도 이뤄냈다.",
-      "이 같은 성과의 배경에는 중소벤처기업부(중기부)의 '어라운드엑스(AroundX·글로벌 기업 협업)가 있다."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
-    "id": "n8a801850",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260517045351109",
-    "title": "키이우 때리자 모스크바 십중포화…도심 난타전 '악화일로'(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 러시아가 우크라이나 수도 키이우를 맹폭하자 우크라이나가 러시아 수도 모스크바를 겨냥한 대규모 보복 공격을 감..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nc70b4627",
     "category": "사회",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026051721451",
     "title": "李대통령, 트럼프 통화…\"美·中, 한반도 문제 건설적 협의\"",
     "summary": [
@@ -569,25 +569,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne4f76079",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260517_0003633102",
-    "title": "라이칭더 \"美 대만 무기판매, 인태 안보 핵심…中 '병탄' 거부\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 시진핑 중국 국가주석과 '대만 무기 판매' 문제를 논의했다고 밝힌 가운데, 라이칭더 대만 총통이 \"대만-미국 안보 협력과 무기 판매는 지역 평화·안정을 유지하는 핵심 요소\"라는 입장을 냈다.",
-      "라이 총통은 17일(현지 시간) 페이스북에 \"중국이 무력에 의한 대만 병합을 포기하지 않고 지속적으로 군사력을 확장해 양안 현상을 변경하려는 상황에서, 미국이 대만에 무기를 계속 판매하고 안보 협."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nfca411dc",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026051721211",
     "title": "한전이 운영하는 UAE원전…드론 1대 공격받아 화재",
     "summary": [
@@ -601,7 +586,7 @@ window.NEWS_DB = [
     "id": "n087d8028",
     "category": "경제",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260518/133940375/1",
     "title": "美무역대표 “트럼프-시진핑, ‘한반도 비핵화’ 목표에 동의”",
     "summary": [
@@ -618,7 +603,7 @@ window.NEWS_DB = [
     "id": "neb9661a6",
     "category": "부동산",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260517/133938852/2",
     "title": "서울 매매-전월세 가격 ‘동반 상승’… 경기까지 번져",
     "summary": [
@@ -634,7 +619,7 @@ window.NEWS_DB = [
     "id": "n1bae3424",
     "category": "IT",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260517/133938848/2",
     "title": "[알립니다]AI 대전환 시대… 새로운 기회 맞는 에너지-건설산업",
     "summary": [
@@ -653,21 +638,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "정치",
     "mentions": "1810건",
     "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
