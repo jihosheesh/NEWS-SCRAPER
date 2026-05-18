@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-18 17:42:15
+// 마지막 업데이트: 2026-05-18 18:33:03
 window.NEWS_DB = [
   {
     "id": "ne716768c",
     "category": "스포츠",
     "source": "네이트",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ncURrblRZa0IyaURpWnNpOFV4WEhzbVhPaTJfYnB2NmFodV9nc3I4Tl81SjZlZjdRLTAyekFybHVkTEZHYlFRQ2VpLVJka0FXeEg0?oc=5",
     "title": "야구 없는 월요일 KBO 1군 10명 사라졌다→'이두근 미세 염좌' 안우진 깜짝 말소…삼성, '70억 우완' 2군행 결단",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
     "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nf001d72c",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1acHJ0aUFWcFBRQzQ4VHNzWi1hTjBweUdqdEVkT1d2NWEwQm5KaUxlZ1UwUGZnN0MwcFNldnZOcmF3ZHNVSTFsWHNoUkJhU2hRUUlHei1ESnZwdkdrcHB5X2Z3UTBtS1JxaTJ0cENadmNjRm8?oc=5",
     "title": "스페이스X 상장에 엔비디아 '우주산업 수혜주' 부각, AI 반도체 잠재수요 강력",
     "summary": [
@@ -77,6 +77,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8781e79c",
+    "category": "IT",
+    "source": "경향신문",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
+    "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
+    "summary": [
+      "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호 경향신문."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n76cd35a4",
     "category": "경제",
     "source": "이코노미트리뷴",
@@ -103,22 +118,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n755986be",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnOGRkOFFNcFVKdktQOVJKSjFmSG9KNlpRRHpJd0Yzems1ejJXWXBMd19CNnZ3QXhpQkRERHVMM3BHZTZFQjdhc0lfUVB6Q1U?oc=5",
-    "title": "미국, 중국 알리바바 등에 엔비디아 고성능 AI반도체 판매 승인",
-    "summary": [
-      "미국, 중국 알리바바 등에 엔비디아 고성능 AI반도체 판매 승인 v.daum.net."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -242,6 +241,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "88일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
     "id": "nb04cef68",
     "category": "사회",
     "source": "경기일보",
@@ -269,20 +283,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
-    ]
-  },
-  {
-    "id": "n13cdbe9c",
-    "category": "부동산",
-    "source": "시사저널e",
-    "time": "139일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
-    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
-    "summary": [
-      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -332,10 +332,181 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2ef4f76b",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519004300072",
+    "title": "AI 붐에 美전력업계도 지각변동…100조원대 인수합병",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 인공지능(AI) 확산으로 전력 수요가 급증하면서 미국 전력업계에서도 재편이 가속화하고 있다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nbe4ad114",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519004400079",
+    "title": "IAEA \"드론 공격받은 바라카 원전 3호기, 외부 전력 복구\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 드론 공격으로 인해 외부 전력 공급이 끊겼던 아랍에미리트(UAE) 바라카 원자력 발전소 3호기의 외부 전력..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n848167ff",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519004200072",
+    "title": "트럼프, 이란의 최신 종전안에 실망 \"어떤 양보도 안 할 것\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미국 대통령은 18일(현지시간) 이란이 내놓은 최신 종전안에 대해 실망감을 드러내며 이란에 대..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1165e806",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260519_0003634840",
+    "title": "방미 박윤주 외교1차관 \"한미 팩트시트 이행 협의 단계\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 박윤주 외교부 1차관이 도널드 트럼프 미국 행정부와 한국의 핵추진잠수함(핵잠) 도입과 한미 원자력협정개정 등 양국 현안을 논의하기 위해 18일(현지 시간) 미국을 방문했다.",
+      "박 차관은 이날 미국 워싱턴DC 인근 덜레스국제공항으로 입국하며 특파원들과 만나 \"한미간 제반 이슈들을 점검하고 협의하기 위해 왔다\"며 \"여러 지역 정세에 많은 변화가 있기 때문에 지역적인 문제나 글로벌한 문제에 있어서도 의견을 교환하기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naf4c7c10",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260518164651099",
+    "title": "에볼라 확산 공포…민주콩고·우간다서 사망자 100명 넘어(종합)",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)과 우간다에서 에볼라 관련 사망자가 100명이 넘으며 확산 우려가 커..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n03f5ea42",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/culture-life/travel/2026/05/19/UWGG6ADN2ND5VFUHQYI52HARTI/",
+    "title": "쑨원·장제스·주윤발 단골… 홍콩서 가장 오래된 ‘진짜 원조’ 식당",
+    "summary": [
+      "쑨원·장제스·주윤발 단골… 홍콩서 가장 오래된 ‘진짜 원조’ 식당."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb799af00",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/international/japan/2026/05/19/KZI2DMXCNJHTNE5YSWPP7SZMIA/",
+    "title": "트럼프는 싫지만 미국은 좋다… 일본인의 ‘본심’이 만들 미래",
+    "summary": [
+      "트럼프는 싫지만 미국은 좋다… 일본인의 ‘본심’이 만들 미래."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5af45ee5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/19/UGP2Y3JDZNHGBBVOOR4UQSFMME/",
+    "title": "트럼프 2기 정부 국정 지지율 최저치 기록…이란전 반대 64%",
+    "summary": [
+      "트럼프 2기 정부 국정 지지율 최저치 기록…이란전 반대 64%."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf75948ce",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260519_0003634842",
+    "title": "美 재무부 \"에너지 취약국에 러시아산 원유 30일간 거래 허가\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 미국 재무부는 18일(현지시간) 에너지 취약성이 큰 국가들에게 해상에 발이 묶여 있는 러시아산 원유를 거래할 수 있도록 30일간 임시 일반 면허를 발급한다고 밝혔다.",
+      "스콧 베선트 재무장관은 이날 소셜미디어 엑스(X·옛 트위터)에 \"재무부는 가장 취약한 국가들이 현재 해상에 발이 묶인 러시아산 원유에 일시적으로 접근하도록 30일간 임시 일반 면허를 발급한다\"고 밝혔다.",
+      "이어 \"이번 연장은 추가적인 유연성을 제공하기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2e0bd607",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "41분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260519/133948306/1",
+    "title": "“백악관, 이란 최신 종전안 불충분하다고 판단” 액시오스",
+    "summary": [
+      "미국 백악관은 이란이 제시한 새로운 종전안에 대해 의미 있는 진전이 아니며 합의를 이끌어내기에는 불충분하다고 보고 있다고 액시오스가 18일(현지시간) 미국 고위 당국자를 인용해 보도했다.고위 당국자는 “중재국인 파키스탄을 거쳐 전날 밤 미국에 전달된 이란의 새로운 종전안은 이전 제안과 비교할 때 보여주기식 상징적인 수준의 진전만을 담고 있다”고 평가했다.새 종전안에는 이란이 핵무기를 추구하지 않겠다는 약속에 관한 문구가 더 많이 포함돼 있지만."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n55185723",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519003300091",
+    "title": "앤트로픽, G20 금융당국에 'AI 사이버위협' 브리핑…FSB 요청",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 이른바 '미토스 충격'으로 불리는 인공지능(AI)발 사이버 위협의 중심에 선 앤트로픽이 글로벌 금융시..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n75c7272e",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "55분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519003400071",
+    "title": "美 \"에너지 취약국들에 해상 러시아산 원유 30일간 거래 허가\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 재무부가 현재 해상에서 발이 묶여 있는 러시아산 원유에 대해 특정 국가들이 거래할 수 있도록 30일간..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "na77627f6",
     "category": "스포츠",
     "source": "테크M",
-    "time": "4분 전",
+    "time": "55분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151952",
     "title": "\"중계 넘어 구단주로\"...SOOP, AI페퍼스 품고 스포츠 비즈니스 '스파이크'",
     "summary": [
@@ -348,86 +519,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n875b9d27",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260519003100087",
-    "title": "'멕시코 태권도 전설' 문대원 사범 별세…향년 83세",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 멕시코에 태권도를 전해 '멕시코 태권도의 전설'로 통하는 문대원 대사범(El Gran Maestro)이..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4730f3cf",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/05/19/ME4TMM3CMZSTOOBUMY4GIYLCMY/",
-    "title": "'감독과 공개 불화 → 방출 → 라이벌팀 이적' KIA 우승 멤버, 운명의 장난인가",
-    "summary": [
-      "[스포츠조선 나유리 기자]이게 무슨 운명의 장난인가.",
-      "작년 월드시리즈에서 상대했던 팀의 유니폼을 입게 됐다.",
-      "인생은 예상치 못한 방향으로 흘러간다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3bde34fc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260519_0003634838",
-    "title": "\"백악관, 이란 최신 종전안 불충분하다고 판단\" 액시오스",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미국 백악관은 이란이 제시한 새로운 종전안에 대해 의미 있는 진전이 아니며 합의를 이끌어내기에는 불충분하다고 보고 있다고 액시오스가 18일(현지시간) 미국 고위 당국자를 인용해 보도했다.",
-      "고위 당국자는 \"중재국인 파키스탄을 거쳐 전날 밤 미국에 전달된 이란의 새로운 종전안은 이전 제안과 비교할 때 보여주기식 상징적인 수준의 진전만을 담고 있다\"고 평가했다.",
-      "새 종전안에는 이란이 핵무기를 추구하지 않겠다는 약속에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ccb4ae4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260519003000071",
-    "title": "케빈 워시 차기 연준 의장 22일 백악관서 취임식",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 차기 의장이 이번 주 취임한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4e3c076b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://www.asiae.co.kr/article/2026051902203042408",
-    "title": "트럼프 지지율 37%…재집권 이후 최저",
-    "summary": [
-      "도널드 트럼프 미국 대통령의 국정 지지율이 재집권 후 최저 수준으로 떨어진 것으로 나타났다.",
-      "이란 전쟁이 예상보다 길어지면서 인플레이션 우려가 커지자 여론이 악화한 것으로 풀이된다.",
-      "18일(현지시간) 뉴욕타임스(NYT)가 시에나대와 함께 발표한 여론조사 결과에 따르면 트럼프 대통령의 직무 수행 지지율은 37%로 집계됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nbc010afc",
     "category": "경제",
     "source": "동아일보",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260519/133948294/1",
     "title": "“이란, 새 종전안 美에 전달…美, 원유 제재 협상 중 유예 수용”",
     "summary": [
@@ -442,7 +537,7 @@ window.NEWS_DB = [
     "id": "nacd93b15",
     "category": "사회",
     "source": "동아일보",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260519/133948291/1",
     "title": "“하루 30장씩 사진 보낸다”…시아버지 연락 폭탄에 며느리 ‘한숨’",
     "summary": [
@@ -456,7 +551,7 @@ window.NEWS_DB = [
     "id": "n2c9f9748",
     "category": "사회",
     "source": "동아일보",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260519/133948288/1",
     "title": "“노숙자 탑승 불가” 버스회사 지침…“냄새 이틀 동안 안 빠져”",
     "summary": [
@@ -468,27 +563,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n80d4480f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260519/133948285/1",
-    "title": "푸틴·시진핑, 20일 정상회담…“다극 세계 질서 공동 선언”",
-    "summary": [
-      "블라디미르 푸틴 러시아 대통령과 시진핑(習近平) 중국 국가주석이 20일 정상회담을 한다고 러시아 타스통신이 18일(현지시간) 유리 우샤코프 크렘린궁 외교정책보좌관을 인용해 보도했다.",
-      "푸틴 대통령은 19~20일 중국을 국빈 방문한다.우샤코프 보좌관에 따르면 푸틴 대통령은 19일 오후 중국 베이징에 도착할 예정이다.",
-      "그는 왕이(王毅) 중국공산당 중앙외사판공실 주임 겸 외교부장의 영접을 받은 뒤 중국 국빈 영빈관인 댜오위타이(釣魚臺·조어대)로 이동할."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
     "id": "n32df94fd",
     "category": "사회",
     "source": "테크M",
-    "time": "32분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151951",
     "title": "삼성전자 \"초기업노조, 법원 판결 '완전히 호도' 평상시 근무 유지해야\"...법원 주문 공개(종합)",
     "summary": [
@@ -501,42 +579,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6ecd2b61",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "36분 전",
-    "url": "https://www.asiae.co.kr/article/2026051902054538018",
-    "title": "美 30년 주담대 금리 6.49%…인플레 우려에 다시 ↑",
-    "summary": [
-      "이란 전쟁 이후 인플레이션 우려가 확대되며 미국 국채 금리가 오르자 주택담보대출(주담대) 금리도 상승세를 보이고 있다.",
-      "18일(현지시간) 미 월스트리트저널(WSJ)이 인용한 금리정보업체 뱅크레이트에 따르면 이날 기준 미국의 30년 만기 고정금리 주담 평균금리는 6.49%로 한 주 전보다 0.04%포인트 올랐다.",
-      "이는 미국 중앙은행인 연방준비제도(Fed)가 3연속 기준금리 인하에 나서기 시작한 지난해 9월과 유사한 금리 수준이다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nba79ad69",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/19/MJSDQMLCGFRDAYJVGBQTSY3EMM/",
-    "title": "트럼프 만난 中 시진핑, 20일 푸틴과 정상회담… 전략적 관계 강화 전망",
-    "summary": [
-      "블라디미르 푸틴 러시아 대통령이 시진핑 중국 국가주석과 오는 20일 정상회담에 나선다.",
-      "19일 러시아 관영 타스통신 등에 따르면 크렘린궁은 이날 푸틴 대통령이 중국을 찾아 20일 시 주석이 개최하는 환영 행사에 참석한 뒤 비공개로 회담할 예정이라고 전했다.",
-      "구체적으로 19일 저녁 베이징에 도착해 왕이 중국 외교부장의 영접을 받은 뒤 댜오위타이 국빈관으로 이."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n96627696",
     "category": "IT",
     "source": "테크M",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151950",
     "title": "[카드뉴스] ICT 기업들, AI 주도권 경쟁 시작.. SKT·KT·LG 이들이 노리는 미래 먹거리는 무엇일까?",
     "summary": [
@@ -553,7 +599,7 @@ window.NEWS_DB = [
     "id": "n6213f083",
     "category": "사회",
     "source": "머니투데이",
-    "time": "42분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/opinion/2026/05/19/2026051813424679663",
     "title": "AI 시대, 교육학자가 두려워하는 것[청계광장/배상훈]",
     "summary": [
@@ -570,7 +616,7 @@ window.NEWS_DB = [
     "id": "n558296ad",
     "category": "경제",
     "source": "머니투데이",
-    "time": "42분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/opinion/2026/05/19/2026051817485641956",
     "title": "[사설]美국채 19년만 최고치가 한국에 보낸 경고",
     "summary": [
@@ -583,67 +629,6 @@ window.NEWS_DB = [
       "#정책",
       "#정치"
     ]
-  },
-  {
-    "id": "ndee858fd",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "42분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/19/2026051816563199185",
-    "title": "전 국민의 창업 DNA를 깨운 '모두의 창업'[투데이 窓/최재홍]",
-    "summary": [
-      "신청자 6만명 넘어 역대급 창업 열풍 2030 청년층 주도, AI 기술 접목 많아 시니어의 숙련된 현장경험도 반영돼야 중소벤처기업부가 주관한 '모두의 창업' 프로젝트는 단순한 지원 사업을 넘어 대한민국에 전례 없는 창업 열풍을 불러일으키고 있다.",
-      "접수 마감 결과, 최종 신청자 6만 명이 넘는 기록으로 역대 정부 공모전 중 가장 많은 지원자가 몰리는 대기록을 세웠다.",
-      "이는 대한민국이 '국가 창업 시대'로 진입했음을 상징적으로 보여준다는 생각이다."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nc6cff9f1",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "42분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/19/2026051809584898858",
-    "title": "국제 채권시장이 느끼는 불안[MT시평/오건영]",
-    "summary": [
-      "최근 투자자들과 대화를 나누다보면 전쟁이 끝나지도 않았는데 금융 시장이 너무나 뜨거운 것이 생소하다는 얘기를 듣곤 한다.",
-      "물론 주식 시장에서는 코스피가 8000선에 달하는 등 뜨거운 모습을 보이는 것은 사실이지만 금융 시장의 중요한 축 중 하나인 채권 시장의 분위기는 사뭇 다르다.",
-      "채권 금리가 고공행진을 하고 있는데 지난 해 2.5% 가까이 하락했던 한국 국고 10년 금리는 현재 4.2%를 넘어섰다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n2551de60",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260519002800075",
-    "title": "美 콜로라도서 한타바이러스 확진자 사망…크루즈 감염과 무관",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 콜로라도주(州)에서 대서양 크루즈선 집단 감염과 무관한 한타바이러스 확진자가 사망했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6aa34c4b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "51분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260519002400072",
-    "title": "\"트럼프 지지율 37%, 재집권 후 최저…64% '이란전쟁 잘못'\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 도널드 트럼프 미국 대통령의 국정 지지율이 재집권 후 최저 수준으로 떨어진 것으로 나타났다."
-    ],
-    "chips": [
-      "#정치"
-    ]
   }
 ];
 
@@ -651,21 +636,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "삼성전자",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
