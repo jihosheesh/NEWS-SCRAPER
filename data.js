@@ -1,25 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-18 18:33:03
+// 마지막 업데이트: 2026-05-18 19:31:46
 window.NEWS_DB = [
   {
-    "id": "ne716768c",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ncURrblRZa0IyaURpWnNpOFV4WEhzbVhPaTJfYnB2NmFodV9nc3I4Tl81SjZlZjdRLTAyekFybHVkTEZHYlFRQ2VpLVJka0FXeEg0?oc=5",
-    "title": "야구 없는 월요일 KBO 1군 10명 사라졌다→'이두근 미세 염좌' 안우진 깜짝 말소…삼성, '70억 우완' 2군행 결단",
+    "id": "n432a17ac",
+    "category": "IT",
+    "source": "초이스스탁",
+    "time": "25분 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FaTN2NXVxZ3licU1jcnRkYUUwYkFmYnVsb0dGVjhOZUlrTnBWOXFZZ0t4UU9uV2ZMeEdZckh1TWNPMHJKTXhUdGg1elU4QndHWndsS3dBWXJUMGVPSlp2RlNsTE1FTU0?oc=5",
+    "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
     "summary": [
-      "야구 없는 월요일 KBO 1군 10명 사라졌다→'이두근 미세 염좌' 안우진 깜짝 말소…삼성, '70억 우완' 2군행 결단 네이트."
+      "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고 초이스스탁."
     ],
     "chips": [
-      "#KBO"
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
     "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
     "summary": [
@@ -35,7 +37,7 @@ window.NEWS_DB = [
     "id": "nf001d72c",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1acHJ0aUFWcFBRQzQ4VHNzWi1hTjBweUdqdEVkT1d2NWEwQm5KaUxlZ1UwUGZnN0MwcFNldnZOcmF3ZHNVSTFsWHNoUkJhU2hRUUlHei1ESnZwdkdrcHB5X2Z3UTBtS1JxaTJ0cENadmNjRm8?oc=5",
     "title": "스페이스X 상장에 엔비디아 '우주산업 수혜주' 부각, AI 반도체 잠재수요 강력",
     "summary": [
@@ -74,21 +76,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "n8781e79c",
-    "category": "IT",
-    "source": "경향신문",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
-    "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
-    "summary": [
-      "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호 경향신문."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -150,17 +137,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd59c4f15",
+    "id": "n2970703c",
     "category": "IT",
-    "source": "v.daum.net",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xNkNaVmtQelhxVHZkaWdFaFhmTURTRkp1QkV6UFhuUko0TUNnbXQ3N0E5ZGFOSFdNR0xjSzFOT1I1ZFlKYzJOSDJSdmhkYXM?oc=5",
-    "title": "삼성전자 50만원·SK하이닉스 300만원…증권가 눈높이 더 높아졌다",
+    "source": "글로벌이코노믹",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
+    "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
     "summary": [
-      "삼성전자 50만원·SK하이닉스 300만원…증권가 눈높이 더 높아졌다 v.daum.net."
+      "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게? 글로벌이코노믹."
     ],
     "chips": [
-      "#삼성전자",
+      "#반도체",
+      "#엔비디아",
       "#SK하이닉스"
     ]
   },
@@ -227,6 +215,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "47일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n15f5f447",
     "category": "경제",
     "source": "지디넷코리아",
@@ -238,21 +240,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "88일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -283,6 +270,20 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
+    ]
+  },
+  {
+    "id": "n13cdbe9c",
+    "category": "부동산",
+    "source": "시사저널e",
+    "time": "139일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
+    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
+    "summary": [
+      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -332,139 +333,288 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2ef4f76b",
+    "id": "n65739bde",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260519004300072",
-    "title": "AI 붐에 美전력업계도 지각변동…100조원대 인수합병",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/tech/2026/05/19/2026051810525616173",
+    "title": "AIDC 특별법 통과했지만…LNG 특례 빠진 반쪽 해법",
     "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 인공지능(AI) 확산으로 전력 수요가 급증하면서 미국 전력업계에서도 재편이 가속화하고 있다."
+      "[MT리포트 - 데이터센터 '삼중고'] ④가장 중요한 전력 공급 계획 부족 AI 산업의 핵심 인프라인 데이터센터가 전력·제도·입법 삼중고에 빠졌다.",
+      "데이터센터 전력 신청의 71%가 수도권에 몰렸지만, 수도권에 데이터센터 짓기는 하늘의 별따기다.",
+      "해당 심사는 법정 고시도 없이 2년째 시범 운영 중이다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "nbe4ad114",
+    "id": "n5d837dc3",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260519004400079",
-    "title": "IAEA \"드론 공격받은 바라카 원전 3호기, 외부 전력 복구\"",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/19/2026051822282564083",
+    "title": "알레르기 며느리 \"강아지 방에 둬요\"…시아버지 \"네가 들어가\"",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 드론 공격으로 인해 외부 전력 공급이 끊겼던 아랍에미리트(UAE) 바라카 원자력 발전소 3호기의 외부 전력..."
+      "우울감 시아버지, 반려견 입양 후 활기 어디든 함께…보양식에 생일상까지 며느리 알레르기에도 \"네가 들어가\" 시아버지가 며느리와 손녀보다 반려견을 더 아끼는 것 같아 서운하다는 사연이 전해졌다.",
+      "지난 18일 JTBC '사건반장'에서는 시아버지가 반려견에게 지나치게 애정을 쏟아 서운함을 느낀다는 40대 여성 A씨의 사연이 소개됐다.",
+      "A씨에 따르면 남편과 결혼한 지 얼마 지나지 않아 시어머니가 세상을 떠났고, 이후 시아버지는 큰 외로움을 느꼈다고 한."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n848167ff",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260519004200072",
-    "title": "트럼프, 이란의 최신 종전안에 실망 \"어떤 양보도 안 할 것\"",
+    "id": "nf4765324",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260518_0003634609",
+    "title": "[오늘의 주요일정]제주(5월19일 화요일)",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미국 대통령은 18일(현지시간) 이란이 내놓은 최신 종전안에 대해 실망감을 드러내며 이란에 대..."
+      "[제주=뉴시스] ▲오전 10시, 중동상황에 따른 대응상황 점검회의, 재난안전대책본부 상황실 ▲오전 10시, 민주노총 제주본부 교육정책 기자회견, 제주도의회 도민카페 ▲오전 10시, 서귀포시 안덕면 4·3희생자 위령제, 제주4·3안덕평화공원 ▲오전 10시, 제16회 제주도체육회장기 전도그라운드골프대회 개회식, 서귀포시 효돈축구장 ▲오전 10시30분, 여연회 보자기에 색을 잇다, 여연 in 제주 첫 정기전, 도바나 티하우스 ▲오후 2시, 로컬기업."
+    ],
+    "chips": [
+      "#정책",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n702d6386",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/stock/2026/05/19/2026051820032088510",
+    "title": "美 국채금리 뛰는데 굳이 코스피?… 외인들 발 뺀다",
+    "summary": [
+      "환차손 위험, 韓주식 매력 반감 18일 미국 국채금리가 연중 최고치를 기록한 가운데 외국인투자자들이 코스피 시장에서 3조6000억원 넘는 규모로 주식을 매도했다.",
+      "미국·이스라엘-이란 전쟁 여파로 미국 장기금리가 치솟고 원/달러 환율은 상승하면서 외국인들이 국내 주식을 내다 판 것이란 분석이 나온다.",
+      "달러 표시 안전자산인 미 국채의 수익률(금리)이 높아진 상황에서 원화 표시 위험자산인 한국 주식은 환차손 위험에 노출됐기 때문이다."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
+    "id": "nc9ab5017",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260519/133948313/1",
+    "title": "트럼프 “내일로 예정된 이란 공격 중단 지시…합의 불발시 대규모 공격”",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 오는 19일(현지시간) 미군이 이란을 공격할 예정이었지만 사우디아라비아 등 중동 국가들의 보류 요청에 따라 중단하라고 지시했다고 18일 밝혔다.트럼프 대통령은 이날 소셜미디어 트루스소셜에 “카타르 군주 타밈 빈 하마드 알사니, 사우디아라비아 왕세자 무함마드 빈 살만 알사우드, 아랍에미리트 대통령 무함마드 빈 자이드 알나하얀이 내게 내일로 예정돼 있던 이란에 대한 우리의 군사 공격을 보류해 달라고 요청했다”고 밝혔다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n1165e806",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260519_0003634840",
-    "title": "방미 박윤주 외교1차관 \"한미 팩트시트 이행 협의 단계\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 박윤주 외교부 1차관이 도널드 트럼프 미국 행정부와 한국의 핵추진잠수함(핵잠) 도입과 한미 원자력협정개정 등 양국 현안을 논의하기 위해 18일(현지 시간) 미국을 방문했다.",
-      "박 차관은 이날 미국 워싱턴DC 인근 덜레스국제공항으로 입국하며 특파원들과 만나 \"한미간 제반 이슈들을 점검하고 협의하기 위해 왔다\"며 \"여러 지역 정세에 많은 변화가 있기 때문에 지역적인 문제나 글로벌한 문제에 있어서도 의견을 교환하기."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naf4c7c10",
+    "id": "n7c32d9fc",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260518164651099",
-    "title": "에볼라 확산 공포…민주콩고·우간다서 사망자 100명 넘어(종합)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519006800071",
+    "title": "트럼프 \"내일로 예정된 이란 공격 하지 말라고 軍에 지시\"",
     "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)과 우간다에서 에볼라 관련 사망자가 100명이 넘으며 확산 우려가 커..."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 18일(현지시간) 피트 헤그세스 미 국방부(전쟁부) 장관과 댄 케인 합참의장,..."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n03f5ea42",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/culture-life/travel/2026/05/19/UWGG6ADN2ND5VFUHQYI52HARTI/",
-    "title": "쑨원·장제스·주윤발 단골… 홍콩서 가장 오래된 ‘진짜 원조’ 식당",
+    "id": "n9a1be769",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/tech/2026/05/19/2026051810330948364",
+    "title": "데이터센터 운명 쥔 전력계통영향평가, 2년째 '미완 운영'",
     "summary": [
-      "쑨원·장제스·주윤발 단골… 홍콩서 가장 오래된 ‘진짜 원조’ 식당."
+      "[MT리포트 - 데이터센터 '삼중고'] ③ AI 산업의 핵심 인프라인 데이터센터가 전력·제도·입법 삼중고에 빠졌다.",
+      "데이터센터 전력 신청의 71%가 수도권에 몰렸지만, 수도권에 데이터센터 짓기는 하늘의 별따기다.",
+      "해당 심사는 법정 고시도 없이 2년째 시범 운영 중이다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "nb799af00",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/international/japan/2026/05/19/KZI2DMXCNJHTNE5YSWPP7SZMIA/",
-    "title": "트럼프는 싫지만 미국은 좋다… 일본인의 ‘본심’이 만들 미래",
-    "summary": [
-      "트럼프는 싫지만 미국은 좋다… 일본인의 ‘본심’이 만들 미래."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5af45ee5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "37분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/19/UGP2Y3JDZNHGBBVOOR4UQSFMME/",
-    "title": "트럼프 2기 정부 국정 지지율 최저치 기록…이란전 반대 64%",
-    "summary": [
-      "트럼프 2기 정부 국정 지지율 최저치 기록…이란전 반대 64%."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf75948ce",
+    "id": "n240e36ed",
     "category": "사회",
     "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20260519_0003634842",
-    "title": "美 재무부 \"에너지 취약국에 러시아산 원유 30일간 거래 허가\"",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260519_0003634834",
+    "title": "이요원, 아들 사진 공개…\"이목구비가 날 많이 닮아\"",
     "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미국 재무부는 18일(현지시간) 에너지 취약성이 큰 국가들에게 해상에 발이 묶여 있는 러시아산 원유를 거래할 수 있도록 30일간 임시 일반 면허를 발급한다고 밝혔다.",
-      "스콧 베선트 재무장관은 이날 소셜미디어 엑스(X·옛 트위터)에 \"재무부는 가장 취약한 국가들이 현재 해상에 발이 묶인 러시아산 원유에 일시적으로 접근하도록 30일간 임시 일반 면허를 발급한다\"고 밝혔다.",
-      "이어 \"이번 연장은 추가적인 유연성을 제공하기."
+      "[서울=뉴시스]강주희 기자 = 배우 이요원이 아들을 공개했다.",
+      "18일 방송된 SBS 예능 프로그램 '아니 근데 진짜!'에는 배우 강소라, 이요원이 게스트로 출연했다.",
+      "이날 이요원은 \"아들이 저를 많이 닮았다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n899e1e90",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/19/MJTGIMRRMIZDEMJSMQ4TCZBQHA/",
+    "title": "'서울대' 서경석 \"과거 시험'기계'→개그맨도 바로 합격해\" ('남겨서 뭐하게')",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 서경석이 과거 자신이 '시험기계'였다고 너스레를 떨었다.",
+      "18일 방송된 tvN STORY ‘남겨서 뭐하게’에는 이영자와 박세리가 서울대 출신 손님 서경석을 샤로수길에서 만나 눈길을 끌었다.이날 서경석은 \"아버지 사업이 초등학교 때까지만 해도 잘 됐었다.",
+      "그래서 3층짜리 단독주택에 살고 그."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n94632422",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519005800087",
+    "title": "멕시코·우루과이, '경제난' 쿠바에 쌀·분유등 물자 지원",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 사상 최악의 경제난과 전력난에 처한 쿠바를 돕기 위해 멕시코와 우루과이가 보낸 물자가 18일(현지시간)..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne219e89d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260519_0003634839",
+    "title": "\"트럼프 국정 지지율 37%…2기 출범 이후 최저\" NYT·시에나대",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 대통령의 국정 지지율이 2기 행정부 출범 이후 최저치를 기록했다.",
+      "뉴욕타임스(NYT)와 시에나대학교가 지난 11~15일(현지시간) 미국 등록 유권자 1507명을 대상으로 실시해 18일 발표한 공동 여론조사(표본오차 ±2.8%p)에 따르면, 트럼프 대통령의 직무 수행을 지지한다는 응답은 37%에 그쳤다.",
+      "국정 운영을 지지하지 않는다는 응답은 59%로 집계됐다."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n262a45ef",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519005700075",
+    "title": "머스크 \"10년 뒤엔 자율주행 보편화…인간 운전 드문 일 될 것\"",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 일론 머스크 테슬라 최고경영자(CEO)가 인공지능(AI)을 활용한 자율주행 기술과 관련한 장밋빛 전망..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n846e2125",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "24분 전",
+    "url": "https://www.asiae.co.kr/article/2026051904073454828",
+    "title": "트럼프 \"이란에 어떤 양보도 안 해…곧 무슨 일 일어날지 알 것\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 18일(현지시간) 이란의 최신 종전 협상안에 대해 실망감을 드러내며 이란에 대한 어떠한 양보에도 \"수용할 생각이 없다(not open)\"고 밝혔다.",
+      "트럼프 대통령은 이날 뉴욕포스트와의 전화 인터뷰에서 \"이란은 곧 무슨 일이 일어날지 알고 있다\"며 이같이 말했다.",
+      "트럼프 대통령은 지난 15일 이란의 우라늄 농축을 20년간 중단하는 방안이라면 수용할 수 있다고 언급한 것과 관련한 질문을 받자 말을 끊."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n181b5067",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/sports/football/2026/05/19/MM2GGZRWGE2DINZUMQ2WCYTDHE/",
+    "title": "\"日 중원 스쿼드, 얼마나 단단한 거야!\" '첫 경기 격돌' 네덜란드 경계 폭발…'러브콜 연발' 사노 코다이 OUT '관심 만발'",
+    "summary": [
+      "[스포츠조선 김가을 기자]네덜란드 언론이 일본을 경계했다.",
+      "모리야스 하지메 감독이 이끄는 일본 축구 A대표팀은 네덜란드(6월 15일)-튀니지(21일)-스웨덴(26일)과 2026년 북중미월드컵 조별리그 F조에서 격돌한다.",
+      "모리야스 감독은 지난 15일 최종 명단을 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n09e53b90",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "38분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/19/GMZTEN3EGVRDSNLDMZRWIODCME/",
+    "title": "오마이걸 미미 \"마지막 연애 이후 15년간 만화책으로 대리 만족\" ('아근진') [순간포착] /어저께",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 미미가 17살에 한 연애가 처음이자 마지막이라고 밝혔다.",
+      "18일 방송된 SBS 예능 프로그램 '아니 근데 진짜!'(이하 '아근진')에는 빌리의 츠키, 오마이걸의 미미, 코미디언 김지유가 출연해 4MC 탁재훈, 이상민, 이수지, 카이와 만났다.이날 미미는 연애를 하느냐는 질문을 듣자 \"저는 17."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na98a5cf0",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "53분 전",
+    "url": "https://www.asiae.co.kr/article/2026051903375150237",
+    "title": "美 재무장관 \"러시아산 원유 30일 한시 거래 허가\"",
+    "summary": [
+      "미 재무부가 러시아산 원유 일부에 대해 한시적으로 공급을 허용하는 조치에 나섰다.",
+      "스콧 베선트 미 재무장관은 18일(현지시간) 엑스(옛 트위터)에 \"현재 해상에 발이 묶여 있는 러시아산 원유에 대해, 가장 취약한 국가들이 일시적으로 접근할 수 있도록 30일간의 한시적 일반 허가(general license)를 발급한다\"고 밝혔다.",
+      "그는 \"일반 허가는 실물 원유 시장을 안정시키고, 에너지 취약도가 높은 국가들에 원유 공급이 이뤄지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n933d301a",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "55분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519005100002",
+    "title": "달러-원, 이란 종전 협상 기대로 낙폭 확대…급등 후 숨고르기",
+    "summary": [
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 하락폭을 넓히며 1,490원대 초반에 마감했다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "n65d059d8",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://www.asiae.co.kr/article/2026051903250946498",
+    "title": "머스크 소송 만장일치 기각…오픈AI, IPO '청신호'",
+    "summary": [
+      "일론 머스크 테슬라 최고경영자(CEO)가 샘 올트먼 최고경영자(CEO)와 오픈AI를 상대로 제기한 소송에서 사실상 완패했다.",
+      "미국 법원이 \"소송 제기 시한이 지났다\"며 청구를 기각하면서다.",
+      "기업공개(IPO)를 추진 중인 오픈AI는 법적 리스크에서 벗어나게 됐다."
+    ],
+    "chips": [
+      "#AI"
     ]
   },
   {
     "id": "n2e0bd607",
     "category": "사회",
     "source": "동아일보",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260519/133948306/1",
     "title": "“백악관, 이란 최신 종전안 불충분하다고 판단” 액시오스",
     "summary": [
@@ -478,7 +628,7 @@ window.NEWS_DB = [
     "id": "n55185723",
     "category": "IT",
     "source": "연합뉴스(경제)",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260519003300091",
     "title": "앤트로픽, G20 금융당국에 'AI 사이버위협' 브리핑…FSB 요청",
     "summary": [
@@ -487,148 +637,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
-  },
-  {
-    "id": "n75c7272e",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "55분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260519003400071",
-    "title": "美 \"에너지 취약국들에 해상 러시아산 원유 30일간 거래 허가\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 재무부가 현재 해상에서 발이 묶여 있는 러시아산 원유에 대해 특정 국가들이 거래할 수 있도록 30일간..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na77627f6",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "55분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151952",
-    "title": "\"중계 넘어 구단주로\"...SOOP, AI페퍼스 품고 스포츠 비즈니스 '스파이크'",
-    "summary": [
-      "SOOP이 온라인을 넘어 오프라인 스포츠 현장으로 직접 뛰어듭니다.",
-      "SOOP은 18일 최근 위기를 겪고 있던 AI페퍼스 여자 프로배구단 인수를 결정하며 스포츠 비즈니스 영토를 본격적으로 확장하기 시작했습니다.",
-      "단순한 중계권 확보를 넘어 직접 구단을 운영하며 새로운 성장 동력을 확보하겠다는 의도로 풀이됩니다.중계권 너머 직접 운영까지...SOOP이 그리는 스포츠 생태계의 나침반SOOP은 그동안 다양한 종목에서 협회 및 연맹과 긴밀히 협력하며 스포."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nbc010afc",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260519/133948294/1",
-    "title": "“이란, 새 종전안 美에 전달…美, 원유 제재 협상 중 유예 수용”",
-    "summary": [
-      "도널드 트럼프 미국 행정부가 이란과 협상 기간 동안 대(對)이란 원유 수출 제재를 일시적으로 유예하기로 했다고 이란 반관영 타스님뉴스가 18일(현지시간) 대미 협상단과 가까운 소식통을 인용해 보도했다.",
-      "이는 이란의 주요 요구사항 중 하나다.이 소식통은 타스님에 “미국 측이 이전 문안들과 달리 새 문안에서는 협상 기간 동안 이란의 원유 수출 제재를 유예하기로 수용했다”고 말했다.이란이 중재국인 파키스탄을 통해 14개항으로 구성된 새 종전안을 미국."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nacd93b15",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260519/133948291/1",
-    "title": "“하루 30장씩 사진 보낸다”…시아버지 연락 폭탄에 며느리 ‘한숨’",
-    "summary": [
-      "시아버지가 셀카와 일상 사진 등을 매일 수십 장씩 보내 스트레스를 받고 있다는 며느리의 사연이 전해졌다.최근 직장인 익명 커뮤니티 블라인드에는 ‘시아버지한테 매일 자기 일상 사진 20장 이상 받는 사람 나 말고 또 있나’라는 제목의 글이 올라왔다.자신을 공무원이라고 밝힌 작성자 A씨는 “사이가 좋은 게 아니다”라며 “남편과 시아버지 사이도 좋지 않다”고 말문을 열었다.A씨에 따르면 시아버지는 매일 적게는 10장, 많게는 30장에 가까운 사진과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2c9f9748",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260519/133948288/1",
-    "title": "“노숙자 탑승 불가” 버스회사 지침…“냄새 이틀 동안 안 빠져”",
-    "summary": [
-      "한 고속버스 회사가 ‘노숙자 탑승 불가’ 지침을 내린 가운데 네티즌들 사이에서 다양한 반응이 오가고 있다.17일 보배드림에는 ‘고속버스 회사가 참다참다 올린 공지’라는 글이 올라왔다.글 작성자 A씨는 한 고속버스 회사 내 공지사항을 첨부했다.",
-      "‘노숙자 탑승 불가 안내’라고 적힌 공지문에는 노숙자로 보이는 인물의 사진과 “악취로 인하여 고객이 휴게소에서 다른 차로 갈아탐”, “승차 시도 시 검표 사원이나 사무실 직원 연락하여 탑승 저지 요청”이라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n32df94fd",
-    "category": "사회",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151951",
-    "title": "삼성전자 \"초기업노조, 법원 판결 '완전히 호도' 평상시 근무 유지해야\"...법원 주문 공개(종합)",
-    "summary": [
-      "삼성전자가 법무법인을 통해 18일 법원의 '위법 쟁의행위 금지 가처분' 일부 인용 판결 주문을 공개하고 삼성그룹 초기업노동조합 삼성전자 지부(초기업노조)가 법원 판결을 곡해하고 있다고 비판했다.법원은 이날 삼성전자가 제기한 위법 쟁의행위 금지 가처분 일부 인용을 결정했다.",
-      "'보안 작업'과 '안전보호시설' 업무 정상 수행을 명기했다.",
-      "그러나 초기업노조 법률대리인은 이에 대해 법원이 '주말 또는 연휴' 인력만 근무하면 된다고 주장했다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n96627696",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151950",
-    "title": "[카드뉴스] ICT 기업들, AI 주도권 경쟁 시작.. SKT·KT·LG 이들이 노리는 미래 먹거리는 무엇일까?",
-    "summary": [
-      "AI 경쟁이 다시 시작됐다.",
-      "그런데 생각보다 방향이 완전히 다르다.",
-      "누군가는 국방 AI를 만들고, 누군가는 공공기관을 공략하며, 누군가는 해외에 AI 서비스를 수출한다."
-    ],
-    "chips": [
-      "#AI",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n6213f083",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/19/2026051813424679663",
-    "title": "AI 시대, 교육학자가 두려워하는 것[청계광장/배상훈]",
-    "summary": [
-      "과거 교육방식 한계, '파괴적 혁신' 요구 AI에 의존하면 사고밀도, 학습능력 저하 AI윤리·부작용 등 고려,교육 재설계해야 비싼 등록금을 내면서 대학에 꼭 다녀야 하나요.",
-      "생성형 AI를 활용해서 공부하고 공모전 포스터 디자인부터 진로 탐색까지 한다는 어느 대학생이 건넨 말이다.",
-      "세상에 흩어져 있는 지식과 정보를 실시간으로 모으고 분석해 주는 AI를 경험하면서 대학에 다닐 필요가 있는지를 다시 생각하게 됐다고 한다."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n558296ad",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/19/2026051817485641956",
-    "title": "[사설]美국채 19년만 최고치가 한국에 보낸 경고",
-    "summary": [
-      "케빈 워시의 미국 연방준비제도(Fed·연준) 의장 취임을 앞두고 미국 통화 정책의 향방에 관심이 쏠린다.",
-      "워시는 연준의 금리인하를 압박해온 도널드 트럼프 미국 대통령이 지명했다.",
-      "하지만, 이란 전쟁 발발 후 에너지 가격 상승이 물가를 끌어올리면서 금리인하에 나서기에는 부담이 커졌다."
-    ],
-    "chips": [
-      "#금리",
-      "#정책",
-      "#정치"
-    ]
   }
 ];
 
@@ -636,21 +644,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
-  },
-  {
-    "rank": 2,
     "tag": "AI",
     "mentions": "2070건",
     "trend": "+215%"
   },
   {
+    "rank": 2,
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
+  },
+  {
     "rank": 3,
-    "tag": "삼성전자",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
