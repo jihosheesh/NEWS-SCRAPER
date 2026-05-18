@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-18 15:02:54
+// 마지막 업데이트: 2026-05-18 16:55:53
 window.NEWS_DB = [
   {
     "id": "ne716768c",
     "category": "스포츠",
     "source": "네이트",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ncURrblRZa0IyaURpWnNpOFV4WEhzbVhPaTJfYnB2NmFodV9nc3I4Tl81SjZlZjdRLTAyekFybHVkTEZHYlFRQ2VpLVJka0FXeEg0?oc=5",
     "title": "야구 없는 월요일 KBO 1군 10명 사라졌다→'이두근 미세 염좌' 안우진 깜짝 말소…삼성, '70억 우완' 2군행 결단",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
     "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nf001d72c",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1acHJ0aUFWcFBRQzQ4VHNzWi1hTjBweUdqdEVkT1d2NWEwQm5KaUxlZ1UwUGZnN0MwcFNldnZOcmF3ZHNVSTFsWHNoUkJhU2hRUUlHei1ESnZwdkdrcHB5X2Z3UTBtS1JxaTJ0cENadmNjRm8?oc=5",
     "title": "스페이스X 상장에 엔비디아 '우주산업 수혜주' 부각, AI 반도체 잠재수요 강력",
     "summary": [
@@ -77,6 +77,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8781e79c",
+    "category": "IT",
+    "source": "경향신문",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTTdXcUZWUzhMc1RTNkJlcVFGRHhtTUtvcVVvQ3oxOHhoQ2ZzZ3VWZDZWemJ0Y25aSTdMaEV5TUlUNVpoNWpTcGY1c3pSV0xVNi1FbVZ0dlJWQdIBX0FVX3lxTE5jV0VYc2hFVW9PTUgzc3RMMFJ5SGtfMVdrbExXZmNEN19iTXlpby1YYUktMlFxTVFrUDkzeHM4aFRFNDhhQ2VPX1RVMVhMTWVrVmZVQ1R3Yk5NSThUS1Aw?oc=5",
+    "title": "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호",
+    "summary": [
+      "엔비디아 대항마 세레브라스 상장 첫날 주가 폭등…‘IPO 대어’ AI 기업들에도 청신호 경향신문."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n76cd35a4",
     "category": "경제",
     "source": "이코노미트리뷴",
@@ -106,22 +121,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n755986be",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnOGRkOFFNcFVKdktQOVJKSjFmSG9KNlpRRHpJd0Yzems1ejJXWXBMd19CNnZ3QXhpQkRERHVMM3BHZTZFQjdhc0lfUVB6Q1U?oc=5",
-    "title": "미국, 중국 알리바바 등에 엔비디아 고성능 AI반도체 판매 승인",
-    "summary": [
-      "미국, 중국 알리바바 등에 엔비디아 고성능 AI반도체 판매 승인 v.daum.net."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nea7c0abb",
     "category": "스포츠",
     "source": "한스경제",
@@ -148,6 +147,22 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "n2970703c",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
+    "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
+    "summary": [
+      "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게? 글로벌이코노믹."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아",
+      "#SK하이닉스"
     ]
   },
   {
@@ -182,6 +197,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n325c11bb",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "25일 전",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEVtV09LTVc1QzFLdlBOdUVFQUgzNmtlUzhSb3lJM1hKNnYxVlhtSXptc0gxTVlacERuWDhYNm04MkVqQzNZeVk4NVJWZk5DS2lrRmF5YjliRy1rVXprTnl5aE9kSTNkLWdMMDhHa015OUxwdEhxZ2pSRmdWQTNvUlRkenM5UHlVVXhMMQ?oc=5",
+    "title": "[경제포커스] 삼성전자 노사에 필요한 2등 마인드",
+    "summary": [
+      "[경제포커스] 삼성전자 노사에 필요한 2등 마인드 조선일보."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "nc4b0f988",
     "category": "IT",
     "source": "kukinews.com",
@@ -199,20 +228,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na3d37f8f",
-    "category": "IT",
-    "source": "지디넷코리아",
-    "time": "68일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVJIdW42c2NuWTBtVDhMWEZjT2ttdWRBNmhraDlsOG1DR3JpajNrY0RfSkhVSjduUEpRWFBpUUhtOWN3eXIxZjZmM01odVR6TGpoNmhn?oc=5",
-    "title": "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략",
-    "summary": [
-      "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략 지디넷코리아."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "n15f5f447",
     "category": "경제",
     "source": "지디넷코리아",
@@ -224,21 +239,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "n759c2467",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "94일 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
-    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
-    "summary": [
-      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
     ]
   },
   {
@@ -381,265 +381,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne192f4cd",
+    "id": "nb4f283d2",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/19/2026051817034534929",
-    "title": "'올림픽 메달까지 팔 정도로...' 몰락했던 수영 황제, 연봉 4500만원 코치로 새 출발... \"너무 행복\"",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/19/2026051900201585699",
+    "title": "미토마 없으니 쿠보 '원맨팀' 전락→日 충격의 월드컵 예상 스쿼드, 월클 단 1명",
     "summary": [
-      "'수영 황제'로 불렸던 라이언 록티(43)가 대학교 수영 코치로 새 출발한다.",
-      "이는 초라한 후퇴가 아니다.",
-      "우울증과 약물, 이혼 등 긴 터널을 지난 록티는 \"드디어 행복감을 느낀다\"고 고백했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nde90d419",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260518_0003634757",
-    "title": "흰 벽 뒤집은 김동희·우한나…일민미술관 ‘오프 더 화이트’",
-    "summary": [
-      "[서울=뉴시스] 박현주 미술전문 기자 = 미술관은 작품을 보여주는 중립 공간일까.",
-      "일민미술관 ‘오프 더 화이트: 주름과 망루’는 그 익숙한 믿음에 균열을 낸다.",
-      "흰 벽과 조명, 진열과 보관의 규칙까지, 평소 보이지 않던 미술관의 구조 자체를 전시장 위로 끌어올렸다."
+      "일본 축구대표팀의 2026 국제축구연맹(FIFA) 북중미 월드컵 최종명단이 공개된 가운데, 해외 언론이 일본의 전력을 조명했다.",
+      "하지만 미토마 카오루(29·브라이턴)의 부상 여파가 확실히 커 보인다.",
+      "세계적인 축구 콘텐츠 채널 스코어90은 19일(한국시간) 2026 북중미 월드컵에서 활약할 일본의 베스트11을 예상했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1ab8ff8a",
-    "category": "사회",
+    "id": "n439a4c14",
+    "category": "경제",
     "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260518_0003634575",
-    "title": "전지현도 빠진 복싱의 매력…\"행동 자체가 젊어진다\"",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260519_0003634836",
+    "title": "트럼프, 국세청 상대 15조원 소송 취하…법무부, 2.6조원 '보상' 기금 조성",
     "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 배우 전지현이 예능 프로그램에 출연해 자신의 체력 관리 비결을 전하며 민첩성 향상과 전신 단련에 효과적인 복싱을 소개했다.",
-      "지난 16일 유튜브 채널 '뜬뜬'의 웹예능 '핑계고’'에 출연한 전지현은 복싱을 취미로 삼고 있다고 전했다.",
-      "유재석이 \"액션 신을 하는 배우들은 복싱을 무조건 하더라\"고 말하자, 전지현은 \"복싱은 상대의 반응을 보고 민첩하게 움직여야 하는 운동이라 너무 좋다\"며 고개를 끄덕였다."
+      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 대통령이 18일(현지시간) 납세 기록 유출을 이유로 국세청(IRS)을 상대로 제기했던 100억 달러(약 14조9540억원) 소송을 취하했다.",
+      "AP통신과 뉴욕타임스(NYT) 등에 따르면 트럼프 대통령과 장남인 트럼프 주니어, 차남인 에릭 트럼프, 가족 회사인 '트럼프 오가니제이션'은 국세청을 상대로 제기한 100억 달러 규모의 소송 취하서를 마이애미 연방법원에 제출했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n609de443",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/19/2026051900282577535",
+    "title": "'돌부처' 오승환, '불꽃야구' 뜬다…부처님오신날 등판 예고",
+    "summary": [
+      "돌부처 마무리투수 오승환이 '불꽃야구'에 합류한다.",
+      "18일 유튜브 채널 'C1 STUDIO'에서 공개된 '불꽃야구2' 3화에서는 불꽃파이터즈와 연천미라클의 경기 후 오승환의 등장이 예고됐다.",
+      "이날 방송 말미 정용검 캐스터는 \"이제는 완벽하게 막아줄 투수가 필요하다\"고 말하며 새로운 투수의 등장을 암시했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n2def57c1",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260519/133948241/1",
+    "title": "일본 언론, 北 내고향축구단에 ‘뜨거운 관심’…공항 입국부터 취재",
+    "summary": [
+      "수원FC위민과 내고향축구단의 여자클럽축구 남북대결을 향한 관심이 뜨겁다.",
+      "국내외신을 합쳐 125명의 기자가 현장을 찾을 예정이다.",
+      "수원FC위민과 내고향축구단은 20일 오후 7시 수원FC 홈구장 수원종합운동장에서 2025-26 아시아축구연맹(AFC) 여자챔피언스리그(AWCL) 4강전을 치른다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfb693e2e",
+    "id": "n41b0a054",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260518_0003634451",
-    "title": "\"백밀가루 대신 통밀\"…신애라의 초간단 건강 빵 레시피",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519002200071",
+    "title": "외교1차관 美입국…핵잠 등 한미간 안보이슈 총괄 점검·협의",
     "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 배우 신애라가 자신 만의 건강 빵 레시피를 공유했다.",
-      "16일 신애라는 자신의 유튜브 채널에 '드디어 초간단 건강한 빵 레시피 공유해요'라는 제목의 영상을 업로드했다.",
-      "영상 속 신애라는 자신을 빵순이라 밝히며 \"사실 빵 안에는 밀가루, 버터, 우유 들어가고 요즘에는 방부제, 보존제 등이 많이 들어간다."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 한국과 미국 간 민감하고 중요한 안보 현안이 산적한 가운데 박윤주 외교부 1차관이 18일(현지시간) 양국간..."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n46901f77",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/19/2026051815041742503",
+    "title": "\"돈 때문에 복귀했다고? 절대 아니다\"→그런데 '1초당 무려 2억' 벌었다... '약물 논란' 론다 로우지 '역대급 잭팟'",
+    "summary": [
+      "단 17초 만에 끝난 복귀전이었지만, 그야말로 역대급 돈잔치였다.",
+      "격투기 무대로 돌아와 화제를 모았던 론다 로우지(39)가 복귀전에서 초당 무려 2억 원에 육박하는 거액을 쓸어 담았다.",
+      "격투기 전문 매체 '블러디 엘보우'는 18일(한국시간) \"복귀전을 돈벌이 수단이 아니라고 부인했던 로우지가 실제로는 링 위에서 싸운 시간 동안 초당 거의 13만 달러(약 1억 9500만 원)를 벌어들였다\"고 집중 조명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne6ac4563",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://www.asiae.co.kr/article/2026051901435134087",
+    "title": "이란, 새 종전안 미국에 전달…美 \"협상 타결에 충분치 않아\"",
+    "summary": [
+      "도널드 트럼프 미국 행정부는 이란의 최신 종전안에 대해 \"충분하지 않다\"며 부정적인 입장을 보였다.",
+      "핵심 쟁점인 우라늄 농축 중단과 고농축 우라늄 처리 문제에서 양측의 입장 차가 여전한 가운데 트럼프 대통령은 이란 공격 재개 여부를 논의하기 위한 최고위 안보회의를 소집할 예정인 것으로 알려졌다.",
+      "백악관은 18일(현지시간) 이란의 최신 종전안을 \"의미 있는 진전으로 보기 어렵고 협상 타결에 충분하지 않다\"고 판단하고."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbe211183",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519001900079",
+    "title": "이란 혁명수비대, 호르무즈 해저 광케이블 통제 시사",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협을 봉쇄한 이란 혁명수비대(IRGC)가 해협을 통과하는 해저 인터넷 광케이블에 대해 허가제를 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9cccb84c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/19/MMZGENJUMVSDQOJYMM2DGNLBHE/",
+    "title": "삼성 SSG KIA 두산 NC 롯데 보고있나? → 울산 나가, 퓨처스 삼성전 7이닝 11K 폭격",
+    "summary": [
+      "[스포츠조선 한동훈 기자] 울산 웨일즈 일본인 투수 나가 타이세이(27)가 퓨처스리그를 폭격하며 1군의 관심을 받고 있다.",
+      "KBO리그 여러 구단이 아시아쿼터 투수 때문에 고민이다.",
+      "나가를 비롯한 울산 외국인투수들의 활약이 더 돋보이는 이유다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n545e18b0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/19/MQZTAZBYGY4GKNJVMQYDQYRVGU/",
+    "title": "美 악시오스, 이란 ‘협상 순항’ 관측 반박… “백악관, 종전안 불충분 평가”",
+    "summary": [
+      "미국이 이란의 최신 종전안에 대해 합의 불충분 평가를 내렸다는 보도가 나왔다.",
+      "앞서 미국과 이란 간 종전 물밑 협상이 순항하고 있다는 관측이 나온 것과 대조된다.",
+      "미국 매체 악시오스 18일(현지 시각) “백악관은 이란의 최신 종전안이 의미 있는 진전이라고 보기 어려우며, 합의하기에 충분치 않다는 판단을 하고 있다”고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd78ccd04",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/19/GY4WCMJQGE4DKZJTMRTDSMBSGY/",
+    "title": "\"런던 시민이면 제발 웨스트햄 응원하세요\" 토트넘 서운하겠네…시장님까지 등판, 대체 무슨 일?",
+    "summary": [
+      "[스포츠조선 박상경 기자] 웨스트햄 유나이티드가 챔피언십(2부리그)으로 강등되면 런던 시민들의 세금 부담이 늘어날 수 있다고 영국 BBC가 18일(한국시각) 전했다.",
+      "이유는 런던시가 웨스트햄에 장기 임대한 런던스타디움 계역 조건 때문.",
+      "웨스트햄은 보리스 존슨 전 시장 시절이던 2012년 런던스타디움 99년 임대 계약에 사인했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naba35a8b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/19/GUZGMNRWGYYTQMRXME2WCNRVGA/",
+    "title": "'19피안타 16실점 악몽' 충격이 그렇게 컸다, 3명 한꺼번에 짐 쌌다",
+    "summary": [
+      "[스포츠조선 나유리 기자]19피안타 16실점 대패의 충격.",
+      "결국 투수 3명이 1군 엔트리에서 말소됐다.",
+      "삼성 라이온즈는 휴식일이었던 18일 3명의 투수를 1군 엔트리에서 제외했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n11e3ff40",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519001500079",
+    "title": "이스라엘-헤즈볼라 무력충돌로 사망자 3천명 넘어서",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘과 친이란 무장 정파 헤즈볼라 간의 무력 충돌로 인해 레바논에서 발생한 사망자 수가 3천명을 넘어섰..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73e69880",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260518165651108",
+    "title": "푸틴·시진핑 20일 정상회담…\"트럼프 방중과 연관 없어\"(종합)",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 19∼20일(현지시간) 중국을 국빈 방문하는 블라디미르 푸틴 러시아 대통령과 시진핑 중국 국가주석의 정상..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne3f82095",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "47분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/19/2026051822055189187",
+    "title": "'호날두 약혼녀' 조지나, 파격 '백발 변신' 칸 영화제서 시선 강탈... 9년 동거→70억 청혼→북중미 월드컵 후 '결혼'",
+    "summary": [
+      "축구 스타 크리스티아누 호날두(41·알 나스르)의 약혼녀 조지나 로드리게스(32)가 칸 영화제에서 파격적인 백발을 선보였다.",
+      "영국 '더선'은 17일(현지시간) 조지나가 프랑스에서 열린 제79회 칸 영화제 '케어링 우먼 인 모션 어워즈'에 참석해 새로운 스타일을 공개했다고 전했다.",
+      "이날 조지나는 기존의 어두운 머리색 대신 백발로 염색한 헤어스타일에 검은색 수트와 연파랑 재킷을 매치해 색다른 매력을 뽐냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n66a86d7e",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "52분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260519/133948196/1",
+    "title": "보령 죽정동 아파트단지서 8세 여아 SUV에 치여 숨져",
+    "summary": [
+      "18일 오후 5시55분께 충남 보령시 죽정동의 한 아파트단지 안에서 여자아이가 SUV 차량에 치여 숨졌다.보령소방서 등에 따르면 해당 시각 A(8)양 부모가 “아이가 차에 치였다”고 신고했다.구급대는 현장에서 중상을 입은 A양을 확인하고 헬기로 병원에 이송했지만 끝내 숨졌다.사고는 여성 운전자가 몰던 SUV가 주행 중 아이를 미처 보지 못하고 역과한 것으로 파악됐다.경찰 관계자는 “음주나 무면허는 아니”라며 “운전자를 교통사고처리특례법 위반으로."
+    ],
+    "chips": [
+      "#부동산",
       "#의료"
     ]
   },
   {
-    "id": "n3232df44",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260518_0003633462",
-    "title": "\"CG 아니야?\" 나나 역대급 S라인 자태…비결은 공복에 먹는 이것?",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 걸그룹 애프터스쿨 출신 배우 나나가 비현실적인 비키니 자태로 온라인을 뜨겁게 달구고 있다.",
-      "나나는 최근 자신의 SNS 계정을 통해 특별한 멘트 없이 근황을 담은 사진 한 장을 게재했다.",
-      "공개된 사진 속 나나는 푸른 하늘과 탁 트인 바다를 배경으로 야외 수영장 난간에 서서 포즈를 취하고 있는 모습이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b92f7fe",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/19/2026051814023317127",
-    "title": "\"아이 더 낳고 싶어\" 女최강 파이터, 17초 만에 압승→남편에 키스하며 폭탄 고백! 은퇴 '재차' 강조한 론다 로우지",
-    "summary": [
-      "\"이제 아이를 더 갖고 싶다.\" 전 세계를 호령했던 종합격투기(MMA)의 ' 여제' 론다 로우지(39)가 옥타곤을 영원히 떠난다.",
-      "10년 만의 복귀전을 단 17초 만에 끝내버린 직후, 남편과 뜨거운 키스를 나누며 남긴 화끈한 은퇴 선언이다.",
-      "로우지는 17일(한국시간) 미국 캘리포니아주 잉글우드의 인튜이트 돔에서 열린 제이크 폴의 '모스트 밸류어블 프로모션(MVP)' 첫 MMA 대회 메인이벤트(여성 페더급)에서 동시대의 라이벌 지나 카라노(44)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n20832546",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/18/MVQTKZBWMMYTCMDBGU3DQZLEMY/",
-    "title": "“원유 수출 제재 면제는 동의”… 이란, 새 종전안 美에 전달",
-    "summary": [
-      "미국과 이란 간 종전 물밑 협상이 순항하고 있다는 보도가 나왔다.",
-      "18일(현지 시각) 이란 타스님뉴스는 미국과 이란 협상단 소식통을 인용, “이란이 14개 조항으로 된 새 종전안을 중재국 파키스탄을 통해 미국 측에 전달했다”고 보도했다.",
-      "이란은 당초 미국에 제시했던 기존 제안을 일부 수정, 새 종전안에 원유 수출 제재 해제와 협상 기간 신뢰 구축 집중 등을."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nda34a2dd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/05/18/EFQHVTDFHVAMTLFGNWNPCKSDFM/",
-    "title": "[한삼희의 환경칼럼] 기후 극단 시나리오가 폐기됐다",
-    "summary": [
-      "[한삼희의 환경칼럼] 기후 극단 시나리오가 폐기됐다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n72e19a5d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260518164300081",
-    "title": "196번 통행료 안 내려고 꼼수…프랑스 판사 파면 위기",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 프랑스의 한 판사가 고속도로 통행료를 내지 않으려 꼼수를 썼다가 파면될 상황에 처했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n945ea005",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/18/GFRDIOBQGM3TAZTFMQ3WMYJWMY/",
-    "title": "美 뉴욕증시 3대 지수 장 초반 강세…유가 하락 호재로",
-    "summary": [
-      "미국 뉴욕증시 3대 지수가 장 초반 일제히 강세를 나타냈다.",
-      "18일(현지 시각) 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수는 이날 4만9481.04로 출발해 오전 10시 현재 전장보다 132.81포인트(0.27%) 오른 4만9658.98을 나타냈다.",
-      "같은 시각 스탠더드앤드푸어스(S&P)500지수는 전장보다 14.02포인트(0.19%) 상승한 742."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf43a977b",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260518/133948107/2",
-    "title": "카카오 노사, 조정 연장…본사 파업 위기 일단 넘겨",
-    "summary": [
-      "성과급 지급 등을 두고 갈등을 빚은 카카오와 노조가 18일 경기지방노동위원회(이하 경기지노위)에서 열린 조정 절차에서 조정 기일을 연장했다.",
-      "당장 사상 첫 본사 파업 위기는 넘겼지만 주요 계열사 조정은 줄줄이 결렬되며 연쇄 파업의 불씨는 남아 있다.정보기술(IT) 업계에 따르면 카카오 노사는 이날 상호 동의하에 조정 기일을 연장했다.",
-      "이에 따라 2차 조정회의는 27일에 열릴 예정이다."
-    ],
-    "chips": [
-      "#카카오"
-    ]
-  },
-  {
-    "id": "n4b15b430",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260518166500071",
-    "title": "법원 우회 합의 꿍꿍이?…트럼프, 국세청 상대 15조 소송 취하",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령이 납세 기록 유출을 문제 삼아 국세청(IRS)을 상대로 제기했던 100억 달러(..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n51164805",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260518138051109",
-    "title": "드론·미사일 쏟아부은 러…흑해 수출항 선박 연쇄 피격(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 러시아가 연일 평소의 2∼3배를 웃도는 드론·미사일을 우크라이나에 쏟아붓고 있다.",
-      "우크라이나는 이례적으로 수..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nbb08ca41",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260518164900108",
-    "title": "러·벨라루스 연합 핵훈련…\"핵탄두 운반·사용 준비\"",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 러시아와 벨라루스는 18일(현지시간) 핵 전략자산과 관련한 연합 군사훈련에 돌입했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n05f6f737",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "37분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260518231956",
-    "title": "CJ그룹 여성 임직원 개인정보 텔레그램 유출…\"수사 의뢰\"",
-    "summary": [
-      "[지디넷코리아]CJ그룹 여성 임직원의 개인정보가 텔레그램 채널을 통해 유출된 것으로 확인돼 회사 측이 경위 파악과 함께 수사기관 신고 절차에 착수했다.허민회 CJ그룹 경영지원 대표는 18일 관련 보도가 나간 후 사내 게시판을 통해 “그룹 일부 임직원의 개인정보가 외부 SNS 채널에 유출된 사실이 확인됐다”며 “이로 인해 불안과 고통을 겪고 있는 임직원 여러분께 깊이 사과드린다”고 밝혔다.회사 측에 따르면 현재까지 확인된 유출 정보는 약 330여."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5d28fc9a",
+    "id": "n09dcaa78",
     "category": "사회",
     "source": "동아일보",
-    "time": "38분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260518/133947638/2",
-    "title": "[사설]이재명 “경영권 존중” 법원 “조업 계속”… 노조가 선 넘지 말란 뜻",
+    "time": "52분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260519/133948193/1",
+    "title": "조나단 “韓 귀화시험 결과 기다리는 중”",
     "summary": [
-      "삼성전자 노사가 정부 중재로 성과급 협상 사후조정 절차를 18일 재개했다.",
-      "노조가 예고한 21일 총파업을 앞두고 19일까지 이틀간 막판 타결에 나선 것이다.",
-      "이재명 대통령은 이날 소셜미디어에 올린 글에서 “기업만큼 노동도 존중되어야 하고, 노동권만큼 기업경영권도 존중되어야 한다”라는 점을 강조했다."
+      "방송인 조나단이 한국 귀화 시험을 마치고 최종 결과를 기다리고 있다고 밝혔다.조나단은 18일 업로드된 유튜브 채널 ‘요정재형’에 출연해 “귀화 시험은 이미 다 끝냈고 지금은 결과를 기다리는 중”이라며 가족관계증명서 발급 등 만만치 않았던 실생활 밀착형 시험 난도를 언급했다.특유의 유머 스타일인 ‘암살 개그’에 대한 철학도 털어놨다.",
+      "학창 시절 주변의 지나친 조심성을 깨기 위해 먼저 농담을 던지기 시작했다는 그는 이를 “서로 넘지 말아야 할 선과."
     ],
     "chips": [
-      "#삼성전자",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n66eee142",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "41분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260518/133947643/2",
-    "title": "[사설]99% 선량한 이웃의 권리 뺏는 1%의 병적인 악성 민원",
-    "summary": [
-      "동아일보 취재팀이 전북 A 초등학교에서 악성 민원을 반복하던 학부모 1명이 학교 공동체를 어떻게 황폐화시켰는지 615일간의 과정을 추적했다.",
-      "그 실상이 가히 충격적이다.",
-      "2024년 6월 학부모 김모 씨는 간식으로 ‘오예스’를 준 교사에게 “불량식품 주지 말라”며 항의했다."
-    ],
-    "chips": [
-      "#교육"
+      "#뉴스"
     ]
   }
 ];
@@ -649,8 +648,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
@@ -660,9 +659,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
