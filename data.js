@@ -1,18 +1,17 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-19 17:45:16
+// 마지막 업데이트: 2026-05-19 18:33:32
 window.NEWS_DB = [
   {
-    "id": "n4cf6a23a",
+    "id": "n0ede3c90",
     "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFB0UWZuV0JuWElsZUw4NUM1LXpNSnY3aHZEVTFUSlVaZ3FRZmFkdUxlWFk0UlA4Q1JLV2ZVRlRFX0xUR0JqMENHU2QxRmx2YzlETmMzYjJaX2dTc0U1UHRlS1JVQk9xWXNiNW53ckNuZWVQcURSZEdTVHlYeDB6MnRtTllZR3Fp?oc=5",
-    "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
+    "source": "비즈니스포스트",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzk4RmNqWFBKZjZVeVI3MVFERl9qY184MTBPU3JWM1dQbTA5M2ozYi1JQk96OUp0WEMyTnF6VUxtU25DMG1MSGVGZFNGZl92R1o0VFlyYWNNdEZUYjVYdU5nNU9nZUZtUVdKYldSNjgyNFE?oc=5",
+    "title": "반도체주 하락에 엔비디아 실적 발표가 '최후의 보루', \"시장 눈높이 맞추긴 쉽지 않아\"",
     "summary": [
-      "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고 글로벌이코노믹."
+      "반도체주 하락에 엔비디아 실적 발표가 '최후의 보루', \"시장 눈높이 맞추긴 쉽지 않아\" 비즈니스포스트."
     ],
     "chips": [
-      "#AI",
       "#반도체",
       "#엔비디아"
     ]
@@ -48,19 +47,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf001d72c",
+    "id": "na6d17756",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "글로벌이코노믹",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1acHJ0aUFWcFBRQzQ4VHNzWi1hTjBweUdqdEVkT1d2NWEwQm5KaUxlZ1UwUGZnN0MwcFNldnZOcmF3ZHNVSTFsWHNoUkJhU2hRUUlHei1ESnZwdkdrcHB5X2Z3UTBtS1JxaTJ0cENadmNjRm8?oc=5",
-    "title": "스페이스X 상장에 엔비디아 '우주산업 수혜주' 부각, AI 반도체 잠재수요 강력",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFZUWENSLXV2NUU3NXlHdWsyNU5yRVBVd25TSk5SUzNYZE1hZ1c4dF9qUGhkdzBQdnZodURzWWV2SU5jS2N5UmZoWFlZU2hqaDVXbEg5V1pfMEl6UXJ0X2s1NGJDUEtTMzIzZFQzb3FCSnhCNnpHeVdhLVU3ZUtJbGY3dkpIYzA?oc=5",
+    "title": "엔비디아 없이 벽 넘은 중국… 국내 반도체 '수출 전선' 비상령",
     "summary": [
-      "스페이스X 상장에 엔비디아 '우주산업 수혜주' 부각, AI 반도체 잠재수요 강력 비즈니스포스트."
+      "엔비디아 없이 벽 넘은 중국… 국내 반도체 '수출 전선' 비상령 글로벌이코노믹."
     ],
     "chips": [
-      "#AI",
       "#반도체",
-      "#엔비디아"
+      "#엔비디아",
+      "#수출"
     ]
   },
   {
@@ -137,20 +136,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6838382f",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WSG1sTHVhbDV3WVhWVU9RR0FVVExackRkMWhvTFBUY05QTkpZdkt6ZWZITE1zYTNsd0gzWjJKV3N4SkdJWjJuVXVtYjVQU1lzaV9FVk9kR3FaZ9IBVEFVX3lxTE9LdTJ2Rjg1YXNrVV91SjZWOC1NY2s4SmpDV2ptWHM1ZEp1bVhLODZuUVR5QU9PQ0ltM1pXeWtEb01idWxudV9DT2lOSUFqSE5fMVpDSg?oc=5",
-    "title": "삼성, 메모리 증설 총력…슈퍼사이클 이어간다",
-    "summary": [
-      "삼성, 메모리 증설 총력…슈퍼사이클 이어간다 한국경제."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -168,48 +153,45 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nba668fc0",
+    "id": "nce5c746a",
     "category": "IT",
-    "source": "한국방송뉴스",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "source": "전자신문",
+    "time": "47일 전",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnWmRZVmxBeXZBVjEzS3RCcnJiNGNORTFHMDFmR3dBNkVBanE1LVJwejlSQ2x6TGEwRXZNRHFnQktaUjNLOXRzQUJVU2NZUQ?oc=5",
+    "title": "“글로벌로 나가야 유니콘”…투자업계 “K-스타트업 범주 넓혀 해외 창업도 지원해야”",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+      "“글로벌로 나가야 유니콘”…투자업계 “K-스타트업 범주 넓혀 해외 창업도 지원해야” 전자신문."
     ],
     "chips": [
       "#스타트업"
     ]
   },
   {
-    "id": "n325c11bb",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEVtV09LTVc1QzFLdlBOdUVFQUgzNmtlUzhSb3lJM1hKNnYxVlhtSXptc0gxTVlacERuWDhYNm04MkVqQzNZeVk4NVJWZk5DS2lrRmF5YjliRy1rVXprTnl5aE9kSTNkLWdMMDhHa015OUxwdEhxZ2pSRmdWQTNvUlRkenM5UHlVVXhMMQ?oc=5",
-    "title": "[경제포커스] 삼성전자 노사에 필요한 2등 마인드",
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "48일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "[경제포커스] 삼성전자 노사에 필요한 2등 마인드 조선일보."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
-      "#삼성전자"
+      "#KBO"
     ]
   },
   {
-    "id": "nc4b0f988",
+    "id": "na3d37f8f",
     "category": "IT",
-    "source": "kukinews.com",
-    "time": "27일 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
-    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
+    "source": "지디넷코리아",
+    "time": "69일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVJIdW42c2NuWTBtVDhMWEZjT2ttdWRBNmhraDlsOG1DR3JpajNrY0RfSkhVSjduUEpRWFBpUUhtOWN3eXIxZjZmM01odVR6TGpoNmhn?oc=5",
+    "title": "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
+      "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략 지디넷코리아."
     ],
     "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
+      "#반도체"
     ]
   },
   {
@@ -238,6 +220,38 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "n759c2467",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "95일 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
+    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
+    "summary": [
+      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "neecf7f49",
+    "category": "IT",
+    "source": "인베스트조선",
+    "time": "95일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenJjd2J2QWRweGVSMmpnMERtaFA5WkFESjVyc2RVZG1HSTVTNWw1Q1NqNVp6OWtQRklOTHBNa2RLdm1GVFEwcW1JNXIzMWVMWkthSnpOWS1TcG5rS2J6QVgyVnRDc2xZLXQzRndsZ2FCMF96YnQ2T0cyX0tiOElzcm9qdw?oc=5",
+    "title": "엔비디아 공급 둘러싼 삼성전자-SK하이닉스의 HBM 경쟁 2막",
+    "summary": [
+      "엔비디아 공급 둘러싼 삼성전자-SK하이닉스의 HBM 경쟁 2막 인베스트조선."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -300,21 +314,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5de3a708",
-    "category": "스포츠",
-    "source": "매일경제",
-    "time": "228일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
-    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
-    "summary": [
-      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
     "id": "n49348e4d",
     "category": "IT",
     "source": "테크M",
@@ -331,308 +330,307 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8fcc1a3a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/20/GVRDONBTHFSDSZLCGBRDMYJWMU/",
-    "title": "\"(김)민재 형과 훈련하는 것 자체가 설렘\"→\"많이 배우고 와!\" 홍명보호 '깜짝' 훈련 파트너의 기대감→'따뜻한' 응원",
-    "summary": [
-      "[스포츠조선 김가을 기자]홍명보 국가대표팀 감독은 2026년 북중미월드컵 최종엔트리를 발표하며 세 명의 선수를 추가로 '콜업'했다.",
-      "2001년생 수비수 조위제, 2004년생 미드필더 강상윤(이상 전북), 2006년생 골키퍼 윤기욱(서울)이다.",
-      "이들은 훈련 파트너로 태극전사와 '깜짝' 동행한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n25cb195e",
-    "category": "사회",
-    "source": "테크M",
-    "time": "9분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151990",
-    "title": "삼성전자 직원, '초기업노조 반대' 확산...대표 교섭 중단 '가처분 신청' 이어 '노동부 진정'",
-    "summary": [
-      "삼성전자 디바이스경험(DX)부문 직원들이 삼성그룹 초기업노동조합 삼성전자 지부(초기업노조)의 삼성전자 임금단체협상 중단 가처분 신청에 이어 고용노동부에 초기업노조의 임단협이 절차적 정당성이 없다고 진정을 제기했다.초기업노조의 ▲영업이익 15% 성과급 재원 활용 ▲성과급 상한 폐지에 기반한 성과급 ▲투명화 ▲상한 폐지 ▲제도화 고수와 부문 70%와 사업부 30% 성과급 배분 주장이 제 발등을 찍은 모양새다.19일 업계에 따르면 '삼성전자 직원 권."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n14300bf5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/20/MEZTSZRXMU3DMMRVMU2DAYJUGE/",
-    "title": "홈런-홈런-홈런! \"생애 첫 경험, 말로 표현못한 기쁨\" 김호령의 뜨거운 감격…\"박재현 불방망이 자극됐다\" [인터뷰]",
-    "summary": [
-      "[광주=스포츠조선 김영록 기자] \"생애 처음이라 그런지 너무 기분좋다.",
-      "뭐라 말로 표현이 안된다.\" KIA 타이거즈 김호령이 생애 첫 연타석 홈런에 이어 하루 3홈런의 감격을 만끽했다.",
-      "김호령은 19일 광주 기아챔피언스필드에서 열린 LG 트윈스전에서 4회, 7회, 8회 잇따라 홈런포를 가동하며 팀의 14대0 대승을 이끌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc469263",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/05/20/HFSTIZLCMFQTINRYGVRWMOLFMM/",
-    "title": "김혜성 강심장에 감탄 \"난이도 높은 수비였는데…\" 베츠도 박수 짝짝, 그런데 왜 논란의 대상됐나",
-    "summary": [
-      "[OSEN=이상학 객원기자] 김혜성(27·LA 다저스)의 존재감이 공수 양면에서 나날이 높아지고 있다.",
-      "난이도 높은 포구와 대담한 선택에 무키 베츠도 박수를 아끼지 않았다.",
-      "김혜성은 지난 19일(이하 한국시간) 미국 캘리포니아주 샌디에이고 펫코파크에서 치러진 2026 메이저리그 샌디에이고 파드리스와의 원정경기에 9번 타자 2루수로 선발 출장, 2타수 1안타."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc98fb0cb",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/20/GI2WCM3FMMYGKNBRGEZDKYLDME/",
-    "title": "\"생각 안할 수 없었다\"...'홈런 제로' 리틀 이대호를 옥죈 부담, 이제 훌훌 털었다 [오!쎈 대전]",
-    "summary": [
-      "[OSEN=대전, 조형래 기자] 롯데 자이언츠 내야수 한동희가 데뷔 첫 3경기 연속 홈런을 쏘아 올렸다.한동희는 19일 대전 한화생명볼파크에서 열린 프로야구 정규시즌 한화 이글스와의 경기, 5번 3루수로 선발 출장해 3타수 1안타(1홈런) 1타점 2득점 활약으로 팀의 6-4 역전승을 이끌었다.",
-      "한동희는 3-4로 추격을 이어가던 8회초 선두타자로 등장해윤산흠."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n461a71c5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260520001952530",
-    "title": "삼성전자 노사, 쟁점 하나 두고 '평행선'…오전 10시 최종 담판(종합2보)",
-    "summary": [
-      "(서울·세종=연합뉴스) 조성흠 한혜원 옥성구 강태우 기자 = 삼성전자 노사가 총파업 이틀 전인 19일 진행한 중앙노동위원회(이하 중노위) 2차 ..."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n8fce58ba",
+    "id": "n0a9446f3",
     "category": "경제",
-    "source": "테크M",
-    "time": "28분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=151988",
-    "title": "해외사업 포석 마련하는 두나무...이사회 개편부터 조직 강화까지",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/20/2026052003190388402",
+    "title": "박위 \"대소변, 송지은 도움 안 받는다\"…간병인 오해 정면 반박",
     "summary": [
-      "국내 가상자산거래소 업비트 운영사 두나무가 해외로의 사업 확장을 위한 포석을 마련하고 있다.",
-      "박현중 두나무 글로벌협력 총괄을 사내이사로 선임하며 이사회 내 글로벌 역량을 강화한다.",
-      "두나무는 최근 최원석 전 BC카드 대표를 글로벌 사업총괄로 영입하고, 베트남을 비롯한 해외 시장의 문을 적극 두드리고 있다.4년만에 신규 사내이사 선임...글로벌 사업 비중두나무는 오는 28일 강남 모처에서 임시주주총회를 열고 ▲정관 변경의 건 ▲자기주식 보유 및 처."
+      "박위가 아내 송지은을 '간병인'으로 보는 일부 시선에 직접 입을 열었다.",
+      "19일 방영된 SBS '동상이몽 2 - 너는 내 운명' 439회에서는 박위, 송지은 부부가 출연해 결혼 후 불거진 근거 없는 추측을 정면으로 반박했다.",
+      "이날 박위는 송지은을 간병인처럼 바라보는 일부 대중의 시선에 대해 \"일상 모든 생활에 일회용 소변줄이 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "neafbc3fa",
+    "id": "n77a4f031",
     "category": "사회",
     "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/20/2026052002064326459",
-    "title": "송지은, '무료 간병인 고용' 댓글에 충격 \"'♥박위' 다 혼자서 잘해\"",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/20/2026052003243321231",
+    "title": "EU 철강 관세 50％로 2배 인상…무관세 쿼터 절반 축소",
     "summary": [
-      "송지은이 남편 박위를 둘러싼 '간병인' 오해에 솔직한 생각을 밝혔다.",
-      "19일 방영된 SBS '동상이몽 2 - 너는 내 운명' 439회에서는 박위, 송지은 부부의 일상이 공개된 가운데 송지은이 악성 댓글에 대한 입장을 전했다.",
-      "이날 공개된 영상에서 박위는 휠체어를 탄 상태에서도 옷을 직접 갈아입는 등 일상 대부분을 스스로 해내는 모습을 보였다."
+      "유럽의회가 19일(현지시간) 철강제품 관세를 25％에서 50％로 2배 인상하고 무관세 수입 할당량은 절반으로 줄이는 법안을 최종 의결했다고 AFP통신이 보도했다.",
+      "값싼 중국산 철강 유입에 대응해 유럽 철강산업을 보호하기 위한 조치지만 한국 철강산업에도 영향이 적잖을 것으로 보인다.",
+      "법안을 606대 16의 압도적 표 차이로 승인됐다."
     ],
     "chips": [
-      "#고용"
+      "#정책"
     ]
   },
   {
-    "id": "nc9c39efb",
+    "id": "n76e04744",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003636620",
-    "title": "트럼프 “이란 공격 직전 보류, 2∼3일 제한된 기간만”",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520005000085",
+    "title": "패션업체 망고 창업주 산행중 추락사…아들 안디치 부회장 체포",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 대통령은 19일 “이란 공격 직전까지 갔다가 페르시아만 국가들의 요청으로 보류했다”며 회담을 계속하기 위해 최소 2~3일 정도 제한된 기간만 미뤄진 것이라고 말했다.",
-      "트럼프 대통령은 이날 백악관 연회장 건설 현장을 기자들에게 안내하는 자리에서 “월요일(18일) 공격 결정까지 한 시간 밖에 안 남은 상황에서 걸프 국가들이 파키스탄이 중재한 평화 협상에 진전이 있다고 말했다”고 공격 보류 배경을 설명했."
+      "(런던=연합뉴스) 김지연 특파원 = 2024년 12월 스페인 패션 기업 망고의 창업주 이사크 안디치(사망 당시 71세) 회장이 산에서 추락사한 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6e8b5b1c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520005100099",
+    "title": "수단 반군 장악 지역 시장서 드론 공격에 28명 사망",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 4년째 내전 중인 수단의 반군 장악 지역 시장에서 드론 공격이 벌어져 28명이 숨지고 23명 이상 다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb7ddc346",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519181251079",
+    "title": "이스라엘군, 가자 구호선단에 발포…\"실탄은 안쐈다\"(종합)",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘군이 가자지구로 향하던 국제 구호선단을 나포하는 과정에서 선박을 향해 총격을 가했다고 로이터 통신이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0545e972",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/20/2026052003070296462",
+    "title": "공격 결정 1시간 전 멈췄다…트럼프 \"주말에 이란 다시 칠 수도\"",
+    "summary": [
+      "[미국-이란 전쟁] 도널드 트럼프 대통령이 19일(현지시간) 이란과 협상이 진전되지 않을 경우 수일 안에 이란을 다시 공격할 수 있다고 경고했다.",
+      "트럼프 대통령은 이날 백악관에서 취재진을 만나 걸프지역 우방국 정상들의 요청으로 이란 공격을 잠정 보류한 것이라고 거듭 주장하면서 이같이 밝혔다.",
+      "트럼프 대통령은 \"(걸프국 정상들이) 2∼3일 정도만 줄 수 있느냐고 요청했다\"며 \"나는 이틀이나 사흘, 아마도 금요일, 토요일, 일요일, 아니면 다음주."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nf437a6d0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003636621",
-    "title": "[속보] '총파업 D-1' 삼성전자 사측 \"20일까지 협상 끝내도록 최선\"",
+    "id": "nc43a585a",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260520/133956044/1",
+    "title": "구글, I/O서 ‘제미나이 3.5’ 공개…“속도 4배·가격 절반”",
     "summary": [
-      "[서울 ·세종=뉴시스]이지용 이수정 기자 = ◎공감언론 뉴시스 leejy5223@newsis.com, crystal@newsis.com."
+      "구글이 19일(현지 시간) 미국 캘리포니아주 마운틴뷰 쇼어라인 앰피시어터에서 연례 개발자 회의(I/O)를 열고 에이전트 기능을 크게 강화한 차세대 제미나이 모델을 공개했다.한때 구글은 오픈AI와 앤트로픽 등 글로벌 인공지능(AI) 시장을 주도하는 스타트업들과의 경쟁에서 초기 주도권을 잃었다는 평가를 받았지만, 이날 경쟁사 대비 압도적 가격과 속도 경쟁력을 자랑하는 새로운 ‘제미나이 3.5’ 공개를 통해 쫓아가는 AI가 아닌 리드하는 AI로 태세."
     ],
     "chips": [
-      "#삼성전자"
+      "#AI",
+      "#스타트업"
     ]
   },
   {
-    "id": "n44c7720c",
-    "category": "IT",
+    "id": "n990dab20",
+    "category": "사회",
     "source": "머니투데이",
-    "time": "45분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/20/2026051909294524890",
-    "title": "인공지능 전환을 위한 개인정보 보호[MT시평/장항배]",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/20/2026052002550321685",
+    "title": "박위, 휠체어 타고 분리수거도 거뜬 \"대한민국 남편 된 느낌\"",
     "summary": [
-      "디지털 전환(DX)이 데이터를 축적하는 시대였다면, 인공지능 전환(AX)은 그 데이터를 '지능'으로 바꾸는 시대다.",
-      "이제 데이터는 더 이상 창고에 잠자는 자산이 아니다.",
-      "AI를 통해 끊임없이 학습·추론되며 새로운 가치를 창출하는 살아 있는 자원이 됐다."
+      "박위가 휠체어를 타고 혼자 분리수거를 해내는 일상을 공개했다.",
+      "19일 방영된 SBS '동상이몽 2 - 너는 내 운명' 439회에서는 박위, 송지은 부부가 출연해 일상을 공개했다.",
+      "이날 박위는 사고 직후 몸 상태에 대해 \"감이 좀 안 오실 수도 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4aeaf13c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260519172451082",
+    "title": "나토, 에스토니아 영공 넘어간 우크라 드론 격추(종합)",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 우크라이나가 러시아를 향해 날린 드론이 에스토니아 영공으로 넘어갔다가 격추됐다고 에스토니아 ERR방송 등이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na72fdf4b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/international/us/2026/05/20/RUOLM557KRAZDHYZSG7RFVJBKU/",
+    "title": "트럼프, 이란 공격 보류에 “이틀에서 다음주 초까지 일정 기간만”",
+    "summary": [
+      "트럼프, 이란 공격 보류에 “이틀에서 다음주 초까지 일정 기간만”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n328cbc14",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003636619",
+    "title": "세계 빅4 회계법인, 감사인보다 AI 전문가 더 채용",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 세계 4대 회계법인이 지난해 감사인보다 인공지능(AI) 전문가 채용 공고를 더 많이 냈으며 이는 AI가 회계법인을 어떻게 변화시키고 있는지를 보여주는 것이라고 파이낸셜 타임스(FT)가 19일 분석했다.",
+      "FT에 따르면 딜로이트, EY, KPMG, PwC 등 영어권 4대 회계법인의 지난해 채용 공고 중 AI 관련 기술이 필요한 직무가 거의 7%를 차지했다.",
+      "이는 머신러닝 엔지니어부터 AI 에이전트를 활용해 작업을 자."
+    ],
+    "chips": [
+      "#AI",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n9ea9e659",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/20/GRSWKNZRME4TEY3BMRQWCMBTMQ/",
+    "title": "'다승선두' 에이스 출격 → 1아웃만에 '김도영 헤드샷' 퇴장이라니…황당한 LG, 포효한 KIA [광주리포트]",
+    "summary": [
+      "[광주=스포츠조선 김영록 기자] 팀을 대표하는 외국인 에이스들의 진검승부가 예상됐다.",
+      "하지만 현실은 허무한 '퇴장'이었다.",
+      "19일 광주 기아챔피언스필드."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n656a8be3",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/05/20/BDCUM2LGUFH7JFFMVVYKEVPCDM/",
+    "title": "삼성·구글의 ‘스마트 글라스’ 공개… AI가 번역·일정 관리·길 안내 척척",
+    "summary": [
+      "삼성·구글의 ‘스마트 글라스’ 공개… AI가 번역·일정 관리·길 안내 척척."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "na0f74196",
+    "id": "na6f129ea",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "45분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/20/2026051909252928422",
-    "title": "무가치함과 싸우는 美, 순교 꿈꾸는 이란[투데이窓/김중식]",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/05/20/GVTDOMRZMNRTOM3FGAZDGYZYHA/",
+    "title": "\"아니 그걸 왜\"…김혜성 동점 막은 LAD 3루 코치 향한 맹비난, 결국 로버츠까지 등판 \"결정 지지\"",
     "summary": [
-      "트럼프 \"문명이 사라질 것\" 협박하지만 이란에선 죽음을 패배 아닌 순교로 인식 혁명수비대 안 무너지면 이란 전복안돼 \"마른 가지로 자기 몸과 마음에 바람을 들이는 저 은사시나무는, 박해받는 순교자 같다.",
-      "그러나 다시 보면 저 은사시나무는, 박해받고 싶어하는 순교자 같다.\"(황지우, '서풍(西風) 앞에서' 전문) 광주민주화운동 이후 '살아남은 자'의 부채의식을 표현한 작품이다.",
-      "시의 주제는 \"모든 인간은 자신의 무가치함과 싸운다\"쯤 되지 않을까."
+      "[스포츠조선 박상경 기자] 동점 내지 역전을 노릴 수 있었던 1점 승부 패배 여파가 만만치 않다.",
+      "LA 다저스가 19일(한국시각) 샌디에이고 파드리스에 0대1로 진 뒤, 다저스 3루 코치 디노 에벨에게 맹비난이 쏟아지고 있다.",
+      "동점으로 이어질 수 있었던 상황에서 판단미스를 했다는 게 그 이유다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n29dc485e",
+    "id": "nabe82a86",
     "category": "사회",
-    "source": "머니투데이",
+    "source": "뉴시스",
     "time": "45분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/20/2026051816031494196",
-    "title": "87체제와 97체제의 충돌, 27체제로 넘어가야[청계광장/이정식]",
+    "url": "https://www.newsis.com/view/NISX20260520_0003636622",
+    "title": "중노위원장 \"오늘 한 가지 쟁점 합의시 삼전 총파업 유예될 것\"(종합)",
     "summary": [
-      "87년 노동자대투쟁 대기업노조 힘세져 97년 외환위기 정리해고,비정규직 확산 연대·책임,공정 배분 새 노사관계 절실 460만 주주, 1,700여 협력사, 수만 명의 하청 노동자가 숨죽여 지켜보는 가운데, 삼성전자 노사의 협상이 끝내 타결되지 않을 경우 예고된 총파업에 대해 정부가 긴급조정권 발동 가능성을 공개적으로 시사했다.",
-      "이번 사태는 단순한 기업 분쟁을 넘어, 한국 노사관계가 어떤 체제로 전환할 것인가를 묻는 분기점이 되고 있다."
+      "[서울·세종=뉴시스]박정영 이수정 기자 = 예고된 총파업이 하루 앞으로 다가왔지만 삼성전자 노사는 결론을 내지 못했다.",
+      "박수근 중노위원장은 아직 합의되지 못한 한 가지 쟁점과 관련해 \"그게 정리되면 (삼성전자 노조가) 총파업을 그 시간만큼 유예할 것\"이라고 밝혔다.",
+      "중노위에 따르면 지난 19일 오전 10시에 시작된 2차 사후조정 이틀차 회의는 다음날인 20일 오전 0시 30분에 정회했다."
     ],
     "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "nd98af066",
-    "category": "사회",
-    "source": "연합뉴스",
+    "id": "n5d0daec1",
+    "category": "IT",
+    "source": "한경IT",
     "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260520003800527",
-    "title": "제주도산지에 호우주의보",
+    "url": "https://www.hankyung.com/article/202605207447i",
+    "title": "비디오·일정관리·업무 한번에…'슈퍼앱' 진화한 구글 제미나이[구글 I/O 2026]",
     "summary": [
-      "(제주=연합뉴스) 기상청은 20일 오전 2시를 기해 제주도 산지에 호우주의보를 발효한다고 밝혔다."
+      "비디오·일정관리·업무 한번에…'슈퍼앱' 진화한 구글 제미나이[구글 I/O 2026]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1673a85a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "56분 전",
-    "url": "https://www.hankyung.com/article/2026051974141",
-    "title": "아침 10시부터 마라톤 협상…'성과급 제도화·상한 폐지' 놓고 격론",
+    "id": "n60fab18a",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "47분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260519/133954029/2",
+    "title": "‘안경 속 비서’ 삼성 AI글라스, 동시통역도 척척",
     "summary": [
-      "아침 10시부터 마라톤 협상…'성과급 제도화·상한 폐지' 놓고 격론."
+      "삼성전자와 구글이 협업해 개발한 인공지능(AI) 글라스가 19일(현지 시간) 베일을 벗었다.",
+      "삼성의 정밀한 하드웨어 기술과 구글의 개인화된 AI 서비스는 물론이고 젠틀몬스터와 워비파커 등 글로벌 아이웨어 브랜드의 디자인이 더해져 가볍고 세련된 일반 패션안경 같은 형태로 구현됐다.",
+      "메타의 스마트글라스가 인기를 끈 데다 삼성과 구글까지 뛰어들면서 AI 기반 스마트글라스(이하 AI 글라스) 시장이 스마트폰의 뒤를 이은 차세대 ‘핵심 전장’으로 부상하."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf9766ba",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "56분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003636618",
-    "title": "김영훈 장관도 나서…\"삼성전자 노사, 한 가지 쟁점 불일치\"",
-    "summary": [
-      "[서울·세종=뉴시스]박정영 이수정 기자 = 김영훈 고용노동부 장관까지 나섰지만 삼성전자 노사는 입장 차이를 좁히지 했다.",
-      "박수근 중앙노동위원회 위원장은 \"한 가지 쟁점에 대해서 노사 의견이 일치하지 않았다\"고 말했다.",
-      "20일 중앙노동위원회에 따르면 19일 오전 10시에 시작된 2차 사후조정 이틀차 회의는 다음날인 20일 오전 0시 30분에 정회했다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n5c5a809f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003636611",
-    "title": "WHO “에볼라, 예상보다 빠르게 확산될 수도” 경고",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 세계보건기구(WHO)는 에볼라 발병이 당초 예상보다 빠르게 확산될 수 있다고 경고했다고 BBC가 19일 보도했다.",
-      "WHO 앤 안시아 박사는 BBC와의 인터뷰에서 “이번 발병 사태를 조사하면 할수록 감염 사례가 다른 지역으로 확산되었다는 사실이 더욱 분명해지고 있다”고 말했다.",
-      "런던에 본부를 둔 MRC 세계 감염병 분석 센터가 18일 발표한 모델링 결과에 따르면 이미 1000건 이상 사례가 발생했을 가능성을 배제할."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "na22c8e33",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260520003200082",
-    "title": "나토 사령관 \"미군 감축해도 유럽 방위에 지장 없다\"",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 알렉서스 그린케위치 북대서양조약기구(NATO·나토) 유럽연합군 최고사령관은 19일(현지시간) 독일 주둔 미..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4a1c2408",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260520001951530",
-    "title": "삼전노사 한가지 쟁점 일치 못해…정회 후 오전 10시 재개(종합)",
-    "summary": [
-      "(서울·세종=연합뉴스) 조성흠 한혜원 옥성구 강태우 기자 = 성과급 지급 기준을 두고 첨예하게 대립해 온 삼성전자 노사가 중앙노동위원회(중노위)..."
-    ],
-    "chips": [
+      "#AI",
       "#삼성전자"
     ]
   },
   {
-    "id": "n8fec16ae",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://www.asiae.co.kr/article/2026052001274670219",
-    "title": "미 무역대표부, 9월 G20 무역장관회의 개최",
+    "id": "n2d676276",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/202605196762g",
+    "title": "\"폰은 주머니에\"…삼성·구글 AI 안경 '보고 듣고 다 해준다'",
     "summary": [
-      "미국 무역대표부(USTR)는 오는 9월 주요 20개국(G20) 무역 장관 회의를 개최한다고 19일(현지시간) 밝혔다.",
-      "USTR은 9월 30일부터 10월 1일까지 미국 위스콘신주 밀워키에서 제이미슨 그리어 USTR 대표 주재로 G20 무역장관회의가 열린다고 밝혔다.",
-      "USTR에 따르면 이번 회의에서는 G20 무역 장관들이 모여 강제 노동 근절과 최혜국 대우(MFN) 원칙 개정, 식량 무역의 무기화 대응, 구조적 과잉생산 문제 등에 대해 논의할 예정."
+      "\"폰은 주머니에\"…삼성·구글 AI 안경 '보고 듣고 다 해준다'."
     ],
     "chips": [
-      "#수출"
+      "#AI"
+    ]
+  },
+  {
+    "id": "n02f78175",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/2026052074301",
+    "title": "삼성·구글·젠틀몬스터 '스마트글래스 동맹'",
+    "summary": [
+      "삼성·구글·젠틀몬스터 '스마트글래스 동맹'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n71e5299b",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "48분 전",
+    "url": "https://www.newsis.com/view/NISX20260519_0003635876",
+    "title": "\"메뉴판 보면 우리말로 읽어주는 안경\"…베일 벗은 삼성 'AI 글라스'",
+    "summary": [
+      "[서울=뉴시스]심지혜 기자 = #해외에서 길을 걷다 카페를 찾거나 메뉴판을 번역할 때 일일이 스마트폰을 꺼내 화면을 볼 필요가 없어질 전망이다.",
+      "인공지능(AI) 안경이 사용자가 보고 있는 상황을 인식해 길 안내와 번역, 메시지 확인 등을 음성으로 도와주는 방식이다.",
+      "삼성전자가 구글과 손잡고 올 하반기 '인공지능(AI) 안경' 첫 제품을 내놓는다."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자"
     ]
   }
 ];
@@ -642,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "삼성전자",
+    "tag": "AI",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   }
