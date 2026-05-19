@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-19 14:03:22
+// 마지막 업데이트: 2026-05-19 16:06:09
 window.NEWS_DB = [
   {
     "id": "n4cf6a23a",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "19시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFB0UWZuV0JuWElsZUw4NUM1LXpNSnY3aHZEVTFUSlVaZ3FRZmFkdUxlWFk0UlA4Q1JLV2ZVRlRFX0xUR0JqMENHU2QxRmx2YzlETmMzYjJaX2dTc0U1UHRlS1JVQk9xWXNiNW53ckNuZWVQcURSZEdTVHlYeDB6MnRtTllZR3Fp?oc=5",
     "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
     "summary": [
@@ -67,7 +67,7 @@ window.NEWS_DB = [
     "id": "n6ebc4296",
     "category": "IT",
     "source": "조선일보",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHE4dEhLRzVNdkRSclVQUnRjWWtiY2ZhTFUyb3lPdjV2UDlqWUFfMm1zRlRMMXlsQ2JFb3hNVE1lcVFtS21EbjZvZUEya0tKbUFBV2ZsX2hiNmdlR1VRRGlXYXpQZTc2dEpOUW5tcWRVMG55Q0xkYW01VHpUb214NVN6WQ?oc=5",
     "title": "美·中 정상회담에도 ‘반도체 노딜’… 中 “엔비디아 대신 중국산 칩 쓸 것”",
     "summary": [
@@ -199,20 +199,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na3d37f8f",
-    "category": "IT",
-    "source": "지디넷코리아",
-    "time": "69일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVJIdW42c2NuWTBtVDhMWEZjT2ttdWRBNmhraDlsOG1DR3JpajNrY0RfSkhVSjduUEpRWFBpUUhtOWN3eXIxZjZmM01odVR6TGpoNmhn?oc=5",
-    "title": "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략",
-    "summary": [
-      "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략 지디넷코리아."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
@@ -256,18 +242,20 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb04cef68",
-    "category": "사회",
-    "source": "경기일보",
+    "id": "neecf7f49",
+    "category": "IT",
+    "source": "인베스트조선",
     "time": "95일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
-    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenJjd2J2QWRweGVSMmpnMERtaFA5WkFESjVyc2RVZG1HSTVTNWw1Q1NqNVp6OWtQRklOTHBNa2RLdm1GVFEwcW1JNXIzMWVMWkthSnpOWS1TcG5rS2J6QVgyVnRDc2xZLXQzRndsZ2FCMF96YnQ2T0cyX0tiOElzcm9qdw?oc=5",
+    "title": "엔비디아 공급 둘러싼 삼성전자-SK하이닉스의 HBM 경쟁 2막",
     "summary": [
-      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
+      "엔비디아 공급 둘러싼 삼성전자-SK하이닉스의 HBM 경쟁 2막 인베스트조선."
     ],
     "chips": [
-      "#채용",
-      "#취업"
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -312,6 +300,21 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#스타트업"
+    ]
+  },
+  {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "내 손안에 서울",
+    "time": "200일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -362,10 +365,183 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n732b4189",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://www.asiae.co.kr/article/2026052001025849862",
+    "title": "[속보] 삼성전자 사후조정 20일 오전 10시 재개…노조 \"밤샘 대기\"",
+    "summary": [
+      "삼성전자 사후조정 20일 오전 10시 재개…노조 \"밤샘 대기\"."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n034d1ce5",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/20/2026051918334824560",
+    "title": "'빙상 여제' 아찔한 일탈, 남친 제이크 폴도 반할 '드레스 자태'... 팬들 환호 \"레이르담 입었던 유니폼 3억 팔릴 만\"",
+    "summary": [
+      "유튜버 겸 복서 제이크 폴(29)의 약혼녀 유타 레이르담(28)이 파격적인 의상으로 격투기 대회장을 달궜다.",
+      "영국 '더선'은 19일(한국시간) \"레이르담이 론다 로우지의 종합격투기(MMA) 복귀전이 열린 미국 캘리포니아주 인튜이트 돔에 노브라 드레스를 입고 등장해 팬들의 시선을 사로잡았다\"고 전했다.",
+      "이날 행사는 폴이 이끄는 '모스트 밸류어블 프로모션(MVP)'이 주최하고 넷플릭스가 생중계했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc8db8b23",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260519_0003636358",
+    "title": "\"발가락 사이가 찌릿\"…'이것' 방치하면 만성통증",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 걸을 때 발가락 사이가 찌릿한 경우 대수롭지 않게 넘긴다며 만성 통증으로 고생할 수 있어 주의가 필요하다.",
+      "오래 걸은 후 발생하는 피로감 때문이 아닌 발가락 사이 신경이 눌린 '지간신경종'이 원인일 수 있기 때문이다.",
+      "20일 의료계에 따르면 지간신경종은 쉽게 말하면 발 앞쪽에서 신경이 눌려 생기는 신경통이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n6e0bacde",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/05/20/MRQTOMTFHFSDIOBXGNTDMZRXMQ/",
+    "title": "‘타율 0.053’ 김하성 입지 초비상! 美 인내심 끝내 폭발했다 “KIM 재계약은 실수, 유격수 고민 전혀 해결 못해”",
+    "summary": [
+      "[OSEN=이후광 기자] ‘어썸킴’ 김하성(애틀랜타 브레이브스)의 어썸하지 못한 타격에 미국 현지의 시선이 싸늘하게 바뀌고 있다.",
+      "미 프로스포츠 팬 칼럼니스트 사이트 ‘팬사이디드’에서 애틀랜타 브레이브스 소식을 다루는 ‘하우스 댓 행크 빌트(HTHB)’는 19일(이하 한국시간) “김하성의 기대 이하 복귀로 인해 애틀랜타의 오프시즌 고민이 다시 수면 위로 떠."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0128f4d5",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://www.asiae.co.kr/article/2026051922325005981",
+    "title": "마스터스 챔피언 왓슨, 천안에 뜬다…한국오픈 출격",
+    "summary": [
+      "마스터스 챔피언 버바 왓슨(미국)이 천안에 뜬다.",
+      "그는 21일 충남 천안의 우정힐스 컨트리클럽(파71)에서 열리는 코오롱 제68회 한국오픈에 출전한다.",
+      "코오롱과 대한골프협회(KGA)가 공동 주최하는 내셔널 타이틀 대회다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n654d6114",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520002100003",
+    "title": "[속보] 삼전 노조위원장 \"다음 사후조정 위해 중노위서 밤샘 대기\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1930152a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "8분 전",
+    "url": "https://www.hankyung.com/article/202605207434i",
+    "title": "[속보] \"삼성전자 노사 2차 사후조정 정회…오전 10시 재개\"",
+    "summary": [
+      "[속보] \"삼성전자 노사 2차 사후조정 정회…오전 10시 재개\"."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n941fca3b",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520002000072",
+    "title": "잭슨 폴록 '넘버7A' 2천700억원에 낙찰…역대 경매가 4위",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 추상표현주의의 거장 잭슨 폴록의 작품이 뉴욕 크리스티 경매에서 1억8천만달러가 넘는 가격에 팔렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c2ba349",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520001900530",
+    "title": "삼성전자 노사 사후조정 진통…정회 후 오전 10시 재개",
+    "summary": [
+      "(서울·세종=연합뉴스) 한혜원 옥성구 강태우 기자 = 성과급 지급 기준을 두고 첨예하게 대립해 온 삼성전자 노사가 중앙노동위원회(중노위) 2차 ..."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "ne1f681db",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/economy/2026/05/20/2026051921461246451",
+    "title": "[속보]최승호 삼전 노조위원장 \"20일 오전 10시 협상 재개…중노위서 대기할 것\"",
+    "summary": [
+      "20일 최승호 초기업노조 삼성전자지부 위원장...."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n020667ad",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003636609",
+    "title": "[속보] 삼성전자 노사, 사후조정 2차회의 종료…20일 오전 10시 재개",
+    "summary": [
+      "[서울·세종=뉴시스]이지용 이수정 기자 = · ◎공감언론 뉴시스 leejy5223@newsis.com, crystal@newsis.com."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nab5dc6fa",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/05/20/5BTCUM3SOZBZVK45WKR7S4XSFM/",
+    "title": "전쟁·AI… 글로벌 리더들 ‘대변혁의 시대’를 논하다",
+    "summary": [
+      "전쟁·AI… 글로벌 리더들 ‘대변혁의 시대’를 논하다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "n78266106",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "12분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=151986",
     "title": "크래프톤, 14억 인도 시장 뚫은 비결은...\"철저한 현지화가 'BGMI' 성공의 핵심\"",
     "summary": [
@@ -378,260 +554,75 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0e636318",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260519/133955353/2",
-    "title": "누구나 원하는 삶[정덕현의 그 영화 이 대사]〈107〉",
-    "summary": [
-      "누구나 이런 삶을 원해.”－데이비드 프랭클 ‘악마는 프라다를 입는다’‘최고의 기회는 달콤한 지옥에서 완성된다.’ 2006년 개봉한 영화 ‘악마는 프라다를 입는다’ 포스터에는 ‘달콤한 지옥’이라는 표현이 등장한다.",
-      "여기서 지옥이란 최고의 패션 매거진 런웨이에 입사했지만, 악마 같은 편집장 미란다(메릴 스트립 분)를 만나게 된 앤드리아(앤 해서웨이 분)의 상황을 뜻한다.",
-      "야근은 기본이고 퇴근 후에도 휴대전화는 끊임없이 울려댄다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n285bf946",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260519/133955322/2",
-    "title": "[고양이 눈]“드루와, 드루와!”",
-    "summary": [
-      "멋진 자세로 테니스 라켓을 쥐고 공을 기다립니다.",
-      "옆에 선 작은 그림자도 이미 준비를 마친 듯합니다.",
-      "파워 포핸드를 보여줄 일만 남았네요.―서울 강동구 ‘스포츠 맛의 거리’에서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1866799f",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260519/133955074/2",
-    "title": "금융 골드러시 시대, 월가에 ‘곡괭이’를 팔다… 독점 정보 유통망 설계[이준만의 세상을 바꾼 기업가]",
-    "summary": [
-      "《5월 6일 코스피가 사상 처음으로 7,000 선을 넘어섰다.",
-      "올해 2월 6,000 선을 돌파한 지 불과 70여 일 만이다.",
-      "시가총액은 6000조 원을 넘어 한국 증시는 시총 기준 세계 최상위권으로 급부상했다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n980f5ed4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260519/133955071/2",
-    "title": "세상에 하나뿐인 ‘내 마음의 옷’[정도언의 마음의 지도]",
-    "summary": [
-      "마음은 ‘기성복’이 아니고 ‘맞춤복’입니다.",
-      "사람 사이에 똑같은 마음이 존재하지 않기 때문입니다.",
-      "정신분석가는 기성복 공장장이 아니고 맞춤복 재단사입니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1564091d",
+    "id": "nf3fbbd7d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260519_0003636590",
-    "title": "삼성전자 '최후 담판' 중노위 예상 결정 시한 지나…계속 협상",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003636606",
+    "title": "[속보]삼성전자 노사, 입장 차 못 좁혀…오전 10시 재협상키로",
     "summary": [
-      "[서울=뉴시스]이지용 남주현 기자 = 삼성전자 노사 간 2차 사후조정이 중앙노동위원회(중노위)의 당초 조정안 제시 시한을 훌쩍 넘기며 협상이 계속되고 있다.",
-      "19일 재계와 중노위에 따르면, 노사는 이날 오전부터 정부세종청사에서 비공개 사후조정 회의를 이어가고 있다.",
-      "당초 박수근 중노위원장은 \"늦어도 19일 밤 10시30분 전 합의 또는 조정으로 결론을 내겠다\"고 밝혔지만 오후 10시 50분 현재 공식적인 결과물이 나오지 않은 상태다."
+      "[서울=뉴시스]박정영 기자 = ◎공감언론 뉴시스 us06037@newsis.com."
     ],
     "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "nb0927c6e",
-    "category": "스포츠",
+    "id": "nbcf01e7c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260520/133955923/1",
+    "title": "[속보]삼성전자 노사, 20일 오전 조정 재개…파업 하루 남았다",
+    "summary": [
+      "삼성전자 노사가 총파업 예고일을 하루 앞 둔 20일 새벽까지 2차 사후 조정을 이어갔지만 결론을 내지 못하고 대화를 이어가기로 했다.",
+      "노조가 예고한 총파업 시작일(21일)을 불과 하루 앞 둔 시점에 양측이 입장을 좁힐 수 있을지 관심이 쏠린다.20일 밤 0시 50분경 중앙노동위원회(중노위)에 따르면 노사는 이날 오전 10시 2차 사후조정을 위한 대화를 재개하기로 했다.",
+      "최승호 삼성그룹 초기업노조 삼성전자지부 위원장은 이날 오전 1시 가까이 협상."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nff09eafd",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://www.asiae.co.kr/article/2026052000524243581",
+    "title": "[속보] 삼성전자 노사, 결국 협상 연기…20일 오전 10시 재개",
+    "summary": [
+      "삼성전자 노사, 결국 협상 연기…20일 오전 10시 재개."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n0372768d",
+    "category": "사회",
     "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/19/2026051919550356634",
-    "title": "[한번에쓱] 가위바위보 승부는? '승부는 원점으로' 3회말 솔로홈런 터트린 페라자",
-    "summary": [
-      "한화 2번타자 페라자가 19일 대전한화생명볼파크에서 열리는 2026KBO리그 한화이글스와 롯데자이언츠 경기 3회말 동점 솔로홈런을 터트린 후 홈인하고 있다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n88c09543",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/19/MI2DMZLDHEYWMMDFGBTDSMBWGE/",
-    "title": "'김웅빈이 끝냈다!' 국대 마무리 무너뜨린 최하위 반란, 끝내기 재역전극[고척 리뷰]",
-    "summary": [
-      "[고척=스포츠조선 나유리 기자]키움 히어로즈가 김웅빈의 홈런으로 끝내기 승리를 챙겼다.",
-      "키움은 19일 고척스카이돔에서 열린 SSG 랜더스와의 시즌 4차전 맞대결에서 7대6으로 승리했다.",
-      "이날 승리로 최하위 키움은 최근 2연승을 달리며 꼴찌 탈출의 희망을 살렸고, 다 잡은 승리를 놓친 4위 SSG는 최근 2연패에 빠졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85761236",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/19/HA2TKNBZMFTDEZTFHFTDOZDBHE/",
-    "title": "김준호, ‘시험관 시술’ ♥김지민 두고 “아내를 끊어야 하나” 몹쓸 망언(동상이몽2)[순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 김지민의 남편인 개그맨 김준호가 망언으로 비난을 받았다.19일 방송된 SBS ‘동상이몽2 - 너는 내 운명’(이하 동상이몽2)에는 박위, 송지은 부부가 출연했다.김준호는 결혼 후 금연, 금주 약속을 잘 지키고 있냐는 질문에 “정확하게 연초는 안 피운다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf24eeba9",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260519_0003636589",
-    "title": "키움 김웅빈 데뷔 첫 끝내기 작렬…설종진 감독 \"만점 활약\"",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 키움 히어로즈가 김웅빈의 끝내기 홈런에 힘입어 2연승을 내달렸다.",
-      "사령탑은 호쾌한 홈런포로 경기를 끝낸 김웅빈을 치켜세웠다.",
-      "키움은 19일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 SSG 랜더스와의 경기에서 7-6으로 이겼다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ncac358d1",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/202605197380i",
-    "title": "EU,국방·AI등 핵심 분야에서 전회원국 FDI 심사 의무화",
-    "summary": [
-      "EU,국방·AI등 핵심 분야에서 전회원국 FDI 심사 의무화."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nbf1ac82d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/19/QCAHL43WWRBTDKUFQSAIJLTTLY/",
-    "title": "“아픈 역사 떠올리게 한 마케팅” 외신도 스타벅스 ‘탱크데이’ 논란 보도",
-    "summary": [
-      "“아픈 역사 떠올리게 한 마케팅” 외신도 스타벅스 ‘탱크데이’ 논란 보도."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfac4fe85",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260519093251005",
-    "title": "'대군부인' 역사왜곡 논란에 감독 이어 작가도 사과 \"고증 부족\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 장진리 고가혜 기자 = MBC 드라마 '21세기 대군부인'이 역사 왜곡 논란에 휘말린 가운데 주연 배우와 감독에 이어 극본을 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nac31576f",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260519_0003636584",
-    "title": "檢, 알에프세미 전현직 대표 구속영장…2차전지 테마 주가조작 혐의",
-    "summary": [
-      "[서울=뉴시스]이지영 이태성 기자 = 검찰이 '2차전지 산업에 진출하겠다'는 허위 호재성 기사를 퍼뜨려 주가를 조작한 혐의를 받는 코스닥 상장사 알에프세미 전현직 대표에 대해 구속영장을 청구했다.",
-      "19일 법조계에 따르면 서울남부지검 금융증권범죄합동수사부(부장검사 신동환)는 전날 반도체 소자 제조 기업 알에프세미의 전직 대표 A씨와 현 대표 B씨 등 3명에 대해 자본시장법상 사기적 부정거래 혐의로 구속영장을 청구했다.",
-      "검찰은 지난 3월 말부터 이."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nf6720486",
-    "category": "사회",
-    "source": "뉴시스",
     "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260519_0003636588",
-    "title": "[속보] 삼성전자 2차 사후조정, 중노위 종료 예상 시한 넘겨…계속 협의 중",
+    "url": "https://www.mt.co.kr/economy/2026/05/20/2026052000420646872",
+    "title": "[속보]중앙노동위 \"삼성전자 임금협상 정회…20일 오전 10시 재개\"",
     "summary": [
-      "[서울=뉴시스]남주현 이지용 기자 = ◎공감언론 뉴시스 njh32@newsis.com, leejy5223@newsis.com."
+      "20일 중앙노동위원회...."
     ],
     "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "nfa683c78",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/19/2026051922214165227",
-    "title": "\"아직 안 끝났다\"던 네이마르, 극적으로 월드컵 간다…4회 연속 출전",
+    "id": "nb7ce4e6d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260520/133955919/1",
+    "title": "[속보]삼성전자 노사, 20일 오전 10시 대화 재개 예정…파업 D-1",
     "summary": [
-      "네이마르(산투스)가 브라질 축구대표팀 최종 엔트리에 극적으로 포함되며 개인 통산 4번째 월드컵 무대를 밟게 됐다.",
-      "브라질축구협회는 19일(한국시간) 2026 북중미 월드컵에 참가할 26인의 최종명단을 발표했다.",
-      "여기에는 네이마르도 포함됐다."
+      "[속보]삼성전자 노사, 20일 오전 10시 대화 재개 예정…파업 D-1."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n17264bec",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "19분 전",
-    "url": "https://www.hankyung.com/article/2026051973877",
-    "title": "시진핑 최측근 딩쉐샹, 러 부총리 접견…\"협력 분야 확대\"",
-    "summary": [
-      "시진핑 최측근 딩쉐샹, 러 부총리 접견…\"협력 분야 확대\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n22e4af5b",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026051973867",
-    "title": "복수심에 눈멀어…'사제총기' 아들 살해 60대, 2심서도 무기징역",
-    "summary": [
-      "복수심에 눈멀어…'사제총기' 아들 살해 60대, 2심서도 무기징역."
-    ],
-    "chips": [
-      "#뉴스"
+      "#삼성전자"
     ]
   }
 ];
@@ -640,13 +631,13 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "tag": "삼성전자",
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "뉴스",
     "mentions": "1810건",
     "trend": "+175%"
   },
