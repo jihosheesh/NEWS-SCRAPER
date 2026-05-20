@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-20 19:43:37
+// 마지막 업데이트: 2026-05-20 20:41:00
 window.NEWS_DB = [
   {
     "id": "n531a7bc3",
     "category": "IT",
     "source": "뉴시스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UbjU1d0RKbTdzZGUxam1YbzdTUFkwMTAyOTlYR2l1bkRhRTZVOWNYbnRQemw3aDFuWjRhYkJ1VjJMYWQ0cTBHRFF3d0VRY3dUdlotMDhueEw3UVBPc3hXedIBeEFVX3lxTE9EMDN3akxCc3R3bzFVYm5JUDdGaFBraU0wNmU0TDBFUU5WeFhDbFh6a2JkdFVLSEU1dGlVN21NTDJWQmRnRVhjTnlWZWZYVVpGYTJBWEdIS1hvZHdOLXAtZ1d6aVFodlY2LXBlalJUcERfTEpkLUxaMw?oc=5",
     "title": "145곳에 자금 뿌린 엔비디아, 21일 오전 실적 발표…AI 동향 풍향계",
     "summary": [
@@ -17,10 +17,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd6d3ee0b",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbFUyVjZHbTVvTTVBdkRJOEhGRjRSTGxXdGpJdVE2NnNKaWV2cHQxbGNUNjktVWk0Tlo5NEtxaGxRdWZJV0NGTWs0amtrZHNzWnZ1YkRvMjVweFdZRXBITEllb2FFZDA4VmhJNw?oc=5",
+    "title": "'APEC 스타트업 얼라이언스' 출범…회원국 교류·협력 추진",
+    "summary": [
+      "'APEC 스타트업 얼라이언스' 출범…회원국 교류·협력 추진 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n931ee8e9",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zbkk0TGlLbjhKNTlfUTdjNV9jcVNHUldIekJhajlSM2FNdklJS3FxNDkzQzFiM0JFMXctUGNTNTB3N2xwREE3UmV5b29ya3dNTFBpdWtyZk1RX1Job3hzdGpTSEd3cmdCTldpUnlCNjNJVlk?oc=5",
     "title": "엔비디아에 악재로 떠오르는 메모리반도체 물량 부족, \"차세대 AI칩 공급에 변수\"",
     "summary": [
@@ -36,7 +50,7 @@ window.NEWS_DB = [
     "id": "n34eebad0",
     "category": "IT",
     "source": "한국경제",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YR3k4Rm5FaG1YZE52bThaUVFRaEVjeEtfZ0Q3QTdPVW9iY1RIMHdkYnVVckJ3QVFoNE44RHpDd3FIaWRIWGJwVDUwV3hXU1cyUWdNMm0ta1dwd9IBVEFVX3lxTE11Qk9tM0ZIRU5GLUpYeG5mS1NHYjFyWFg5azNQeHMwaThxc0ZqTU1vY0U2VC1lOUhFenZuX19JUXQzckJIVjF2ZUV6OGVJSWdlZ2h3Rw?oc=5",
     "title": "'엔비디아' 실적에 달렸다…'AI 반도체'의 운명은?",
     "summary": [
@@ -108,20 +122,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne880c824",
-    "category": "IT",
-    "source": "전국뉴스",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLM2c5Tl9KdVUxSkNXdDVhcTRjeWp3SnBPakg3UnMzRnlzb3F2ajFteFBlZkp0ZDVBakhGeGRGWFZkNUYxZjV0b3hEM01WN1RCUWE1RHdqNUlobWJORW51VXpVRWtudUxTUnBtWkhyQmU?oc=5",
-    "title": "[전남벤처도약발사대]한국산업은행·포스코홀딩스, 전남서 벤처생태계 협력 강화…“지역 스타트업 유니콘 도약 지원”",
-    "summary": [
-      "[전남벤처도약발사대]한국산업은행·포스코홀딩스, 전남서 벤처생태계 협력 강화…“지역 스타트업 유니콘 도약 지원” 전국뉴스."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -154,14 +154,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n06cf46f8",
+    "id": "nbf280c57",
     "category": "IT",
-    "source": "fetv.co.kr",
-    "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94T0FwTExTMkdoR2cxb1UwVy1oRXprZU92V1lpUVZIY0N3UFhveFE3cWNpVWl4N3FtZVBZQlByV1phMjlQYy1EQ1hzOVAwc20xNklTcG5GeUZQNHlfQjR3TXdHb1l1SUs1?oc=5",
-    "title": "[반도체 强대强] ⑤삼성전자, 종합반도체 시험대 '파운드리' 수익성 과제",
+    "source": "시사저널e",
+    "time": "20일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWWWF4am9aLTV6cjBDLUd3WFlmSVZadWtPN2JSaHlSRTgxcWRKUXNhTDBhdkozSUVlRFFUVkNSalBUc3g1Wl96eVZwSDNRUjRjelpxbnFiWlBwUS1Xdi1xamd3SlFHYnpldFgwRmhTYlFmQdIBdkFVX3lxTE5FTVRNQ0FCMEM2REFBMFlaa2tJd2JVRmFIXzBjZVVkd19JTGxXcTdDV21OTEQxQVI3OFcxU3ZWMllNS3BoWE1pMjJnUV9WQUhnNW1UbUV1TTJ5N0F0aXprOEhnTDJYbnBfUHZveXZNek9Nc0I4SHc?oc=5",
+    "title": "삼성전자 범용 D램 상승세 속 HBM 캐파 더 키운다",
     "summary": [
-      "[반도체 强대强] ⑤삼성전자, 종합반도체 시험대 '파운드리' 수익성 과제 fetv.co.kr."
+      "삼성전자 범용 D램 상승세 속 HBM 캐파 더 키운다 시사저널e."
     ],
     "chips": [
       "#반도체",
@@ -331,63 +331,266 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne5b3f872",
-    "category": "스포츠",
+    "id": "n407ee56a",
+    "category": "IT",
     "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/21/2026052023115941882",
-    "title": "\"헬스장 안 가도 된다\"…일상 속 청소·경보, 사망 위험 낮춘다",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/industry/2026/05/21/2026052013573052502",
+    "title": "현대차 글로벌 공장, 잘 나가는 곳 따로 있었다…희비 가른 '중국차'",
     "summary": [
-      "청소, 계단 오르기 등 일상에서 신체 활동을 조금만 늘려도 건강에 긍정적인 영향을 줄 수 있다는 연구 결과가 나왔다.",
-      "18일(현지 시간) BBC에 따르면 빠르게 걷기나 자전거 타기, 계단 오르기 같은 중간 강도의 운동을 하루 5분 정도만 추가해도 조기 사망 위험을 낮추는 데 도움이 되는 것으로 나타났다.",
-      "울프 에켈룬드 노르웨이 스포츠대학 교수는 \"매우 짧은 시간의 활동 증가만으로도 건강에 의미 있는 변화가 생길 수 있다\"며 \"하루 5분의 움직임."
+      "현대자동차 글로벌 공장 판매 실적이 미국·인도와 나머지 지역으로 뚜렷하게 갈리고 있다.",
+      "중국산 저가 차량의 직접적인 경쟁 압력이 제한된 미국·인도에서는 판매 호조가 이어진 가운데 중국 전기차 공세가 거센 동남아와 중국 현지에서는 감소하는 양상이다.",
+      "20일 자동차업계에 따르면 현대차 인도법인(HMI) 판매는 올해 1~4월 27만3885대를 기록해 전년 동기(25만2424대) 대비 8.5% 증가했다."
     ],
     "chips": [
-      "#교육",
-      "#의료"
+      "#전기차"
     ]
   },
   {
-    "id": "n655718d4",
+    "id": "n62d82d80",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521007900071",
-    "title": "트럼프 \"美, 쿠바 해방하고 있어…긴장 고조는 없을 것\"",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260521_0003638445",
+    "title": "추미애, 의왕 공영차고지서 선거운동 시작…\"100점 맞고 싶다\"",
     "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 20일(현지시간) 자신의 행정부가 쿠바에 대한 경제적 압박과 이 나라의 막후 ..."
+      "[수원=뉴시스] 박상욱 이병희 기자 = \"경기도민들의 기대를 수용하기 위해 100점 맞고 싶습니다.",
+      "완벽하게 승리해서 경기도를 확 바꾸겠습니다.\" 21일 0시 의왕 월암공영차고지에서 6·3 지방선거 공식 선거운동을 시작한 추미애 더불어민주당 경기도지사 후보는 \"경기도의 교통, 주거, 일자리, 돌봄, 규제 문제를 합리적으로 풀기 위해 31개 시군 후보가 모두 당선돼야 한다.",
+      "그래야 차질 없이 어디서나 골고루 경기 발전을 이루고 대전환을 해낼 수."
+    ],
+    "chips": [
+      "#정책",
+      "#고용",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n548d2496",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/21/2026052105250219124",
+    "title": "트럼프 \"미국이 쿠바 해방하고 있다\"…전 대통령 살인 혐의 기소",
+    "summary": [
+      "도널드 트럼프 행정부가 20일(현지시간) 라울 카스트로 전 쿠바 대통령을 30년 전 민간 항공기 격추 사건으로 기소했다.",
+      "트럼프 대통령은 미국이 쿠바를 해방하고 있다고 주장했다.",
+      "로이터통신 등에 따르면 트럼프 행정부는 94세인 카스트로 전 대통령에게 미국인 살해 공모, 살인 등 혐의를 적용해 재판에 넘겼다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n621956d4",
+    "id": "nff2f61d8",
     "category": "경제",
     "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/21/2026052104210032045",
-    "title": "영숙, 경수 데이트서 \"진짜 1등은 나…내가 너라면 순자 안 만나\" 견제",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/21/2026052105141639913",
+    "title": "\"역사왜곡 파장\"…'유퀴즈' 공승연, 21세기 대군부인 발언 통편집",
     "summary": [
-      "영숙이 경수와의 슈퍼데이트에서 순자를 향한 견제를 드러냈다.",
-      "20일 방영된 SBS Plus '나는 솔로' 254회에서는 영숙이 옥순, 정희에게 옷과 액세서리까지 빌리며 데이트에 나선 가운데 경수에게 순자와의 관계를 언급하며 적극적으로 마음을 흔드는 모습이 그려졌다.",
-      "이날 순자에게서 경수를 뺏기로 마음먹은 영숙은 옥순과 정희에게 옷, 부츠, 귀걸이까지 빌리며 데이트 준비에 공을 들였다."
+      "배우 공승연이 '유 퀴즈 온 더 블럭'에 출연한 가운데, 최근 열연을 펼친 드라마 '21세기 대군 부인'에 대한 언급은 한마디도 하지 않았다.",
+      "역사 왜곡 논란에 휩싸이면서 관련 내용이 모두 편집돼서다.",
+      "지난 20일 방송된 tvN '유 퀴즈 온 더 블럭'(이하 '유퀴즈')에는 공승연이 게스트로 출연했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd4a26285",
+    "id": "n2a5c70c0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521009000034",
+    "title": "전국 곳곳 비 이어져…강한 바람 주의하세요",
+    "summary": [
+      "(서울=연합뉴스) 정지수 기자 = 목요일인 21일 전국 대부분 지역에 비가 계속되겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc36da0ab",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260521_0003638463",
+    "title": "[속보] 엔비디아. 800억 달러 자사주 매입…분기 배당금 0.25%로 인상",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 jwshin@newsis.com."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n9c768142",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521009800091",
+    "title": "엔비디아, 분기 매출 816억 달러…12분기 연속 신기록 경신",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 세계 시가총액 1위 기업 엔비디아는 회계연도 1분기(2∼4월) 매출이 816억2천만 달러를 기록해 1..."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n5c550d90",
     "category": "사회",
     "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/21/2026052022391743797",
-    "title": "\"여름휴가 태국 가려고 했는데\" 무비자 혜택 축소…한국도 영향?",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/21/2026052105122829329",
+    "title": "\"노후 대비용으로 아이 낳자\"...'딩크' 신혼부부의 고민 '와글와글'",
     "summary": [
-      "외국인 범죄·불법 체류 증가 원인 韓 포함 주요국 관광객 영향 가능성 태국 정부가 외국인 범죄와 불법 체류 문제를 이유로 무비자 입국 제도를 대폭 손질한다.",
-      "19일(현지 시간) BBC와 가디언 등 외신에 따르면, 태국 정부는 30일 이상 체류하려는 외국인에게 비자 발급을 의무화하는 방안을 승인했다.",
-      "새 제도는 왕실 관보 게재 후 15일 이내 시행될 예정이다."
+      "'노후 대비용'으로 출산을 고민 중이라는 결혼 2년 차 신혼 부부의 사연이 화제다.",
+      "21일 한 온라인 커뮤니티에는 '내 노후를 생각하면 애가 필요한데'란 제목의 글이 올라왔다.",
+      "작성자 A씨는 \"남편과 신혼생활을 재밌게 보내는 중인데 솔직히 아이가 필요한가 싶다\"며 \"둘 다 취미가 많아 해외여행을 가고 운동을 하며 지내다 보면 시간이 어떻게 가는지 모른다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ff8ef77",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003638401",
+    "title": "비 \"김태희 눈물 숏폼에 '육아 안 도와주냐' 전화 쏟아져\"",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 가수 겸 배우 비(정지훈)가 아내 김태희의 눈물로 불거진 '독박육아' 오해에 대해 억울함을 토로했다.",
+      "20일 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'에는 비가 게스트로 출연했다.",
+      "이날 유재석은 최근 김태희가 출연했던 사실을 언급하며 방송을 봤는지 물어봤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32d14a9f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003638293",
+    "title": "[오늘의 주요일정]국토교통부(5월21일 목요일)",
+    "summary": [
+      "[서울=뉴시스] 홍찬선 기자 = ◇장관 ▲별도일정 없음 ◇1차관 ▲15:00 국토연구원 정책협의회(세종, 비공개) ◇2차관 ▲별도일정 없음 ◇대도시권광역교통위원장 ▲14:00 모두의카드 운영사 현장방문(안양, 비공개) ◎공감언론 뉴시스 mania@newsis.com."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n53c81a35",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/economy/money/2026/05/21/XOFB6W4NJZBHFGUHI655UUCINE/",
+    "title": "배재규 “버텨라, 버티는 자가 돈을 번다. 지금은 20년 메가트렌드의 초입”",
+    "summary": [
+      "배재규 “버텨라, 버티는 자가 돈을 번다. 지금은 20년 메가트렌드의 초입”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6367e628",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/20/6BYZQ4UI2NDPFNDO6ZK6NPMQIQ/",
+    "title": "툭 넣어 끓이면 미역국이 뚝딱, 1년만에 10만봉 대박 3번 씻어 건조한 완도 미역",
+    "summary": [
+      "툭 넣어 끓이면 미역국이 뚝딱, 1년만에 10만봉 대박 3번 씻어 건조한 완도 미역."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3fabb7e2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/21/4GO422I4V5GMLCUFJJKY7IHJJU/",
+    "title": "샤워하면서도 쓸 수 있는 3만원대 방수 전기 면도기",
+    "summary": [
+      "샤워하면서도 쓸 수 있는 3만원대 방수 전기 면도기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb95f7883",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/international/us/2026/05/21/T6MMHJYAHFAZVOX5AHEZSKSPTM/",
+    "title": "안보 합의 반년 만에 ‘킥오프’ 회의 한다는 韓美… “가장 큰 외교 성과” 자평",
+    "summary": [
+      "안보 합의 반년 만에 ‘킥오프’ 회의 한다는 韓美… “가장 큰 외교 성과” 자평."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n18f00dfa",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520194052071",
+    "title": "트럼프 \"시진핑·푸틴 회담 좋은 일…대만 총통과 대화할 것\"(종합2보)",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 20일(현지시간) 시진핑 중국 국가주석과 블라디미르 푸틴 러시아 대통령의 회담..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6a7e70f0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521008300087",
+    "title": "'사면초가' 볼리비아 대통령, 개각으로 반정부 시위 정면 돌파",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 대규모 반정부 시위와 경제 위기로 퇴진 압박을 받는 로드리고 파스 볼리비아 대통령이 정국 돌파구를 마련..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3954489f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "43분 전",
+    "url": "https://www.hankyung.com/article/202605210271i",
+    "title": "트럼프 \"쿠바를 해방하고 있다.. 긴장 고조될 일은 없을 것\"",
+    "summary": [
+      "트럼프 \"쿠바를 해방하고 있다.. 긴장 고조될 일은 없을 것\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf56184c9",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "57분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521008100072",
+    "title": "\"이란협상 최종단계\" 트럼프에 국제유가 뚝…WTI 100달러 아래로",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 20일(현지시간) 미국과 이란 간 종전 협상에 대한 기대감이 커지면서 국제유가가 급락했다."
     ],
     "chips": [
       "#뉴스"
@@ -397,7 +600,7 @@ window.NEWS_DB = [
     "id": "n7c94e42c",
     "category": "부동산",
     "source": "동아일보",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260521/133964029/2",
     "title": "정원오 “오세훈, 공약 안지켜 전월세난” 吳 “李정부가 부동산 지옥 만들어”",
     "summary": [
@@ -413,7 +616,7 @@ window.NEWS_DB = [
     "id": "n56e1f6a0",
     "category": "부동산",
     "source": "동아일보",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260521/133964031/2",
     "title": "전재수 1호공약 “부산에 4대 해양산업벨트”… 박형준 “30세에 1억, 청년 자산 형성 지원”",
     "summary": [
@@ -424,225 +627,6 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
-  },
-  {
-    "id": "n02aa4eb1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260521/133964033/2",
-    "title": "불법선거 감시한다며 안심투표委 만든 국힘",
-    "summary": [
-      "국민의힘이 6·3 지방선거와 관련해 불법·관권선거를 감시하겠다며 ‘공명선거 안심투표위원회’를 설치해 운영한다.",
-      "보수 지지층 일각에서 ‘부정선거’를 우려해 투표장에 가지 않는 것을 방지하고 투표를 독려하기 위한 차원으로 풀이된다.",
-      "국민의힘 중앙선거대책위원회 박성훈 공보단장은 20일 “(부정선거) 논리에 동조하지 않지만 국민의힘 지지층에서 투표 관리에 대한 불안감이 있는 게 사실”이라며 이같이 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n65f13627",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260521/133964611/2",
-    "title": "삼성전자 파업 직전 유보… 성과급 잠정 합의",
-    "summary": [
-      "삼성전자 노사가 파업 직전 임금협약 잠정합의안을 마련했다.",
-      "지난해 12월 16일 노사가 본교섭을 시작한 지 156일 만에 사상 초유의 반도체 파업 위기를 일단 넘긴 것이다.",
-      "최대 쟁점이었던 적자 사업부 성과급은 1년간 수억 원대 자사주로 지급하기로 했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n40baa254",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638160",
-    "title": "[오늘의 주요일정]제주(5월21일 목요일)",
-    "summary": [
-      "[제주=뉴시스] ▲오전 9시, 2027년 도시 취약지역 생활여건 개조사업 현장평가, 화북동 동마을회관 ▲오전 10시, 2026 지방선거 성평등정책 제안 기자회견, 제주도의회 도민카페 ▲오전 10시, 제주보건소 세계금연의 날 기념 아동흡연예방 인형극, 제주학생문화원 대극장 ▲오전 10시, 딘 헤스 대령 제11주기 추모행사, 제주 항공우주박물관 ▲오전 11시, 민주노총 제주본부 정의당 지방선거 정책협약식, 제주도의회 도민카페 ▲오후 2시, 강정천."
-    ],
-    "chips": [
-      "#정책",
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nb74301ea",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521007600071",
-    "title": "내쳐진 여당의원의 표결 복수…트럼프 '승자의 저주' 빠지나",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령이 11월 중간선거를 앞두고 치러진 공화당 예비선거에서 현직 의원을 잇따라 몰아내..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n523c8558",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260521_0003638451",
-    "title": "\"트럼프, 네타냐후에 '종전후 30일간 협상' 의향서 추진 설명\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 우선 종전에 합의한 뒤 주요 현안에 대해서는 30일간 협상을 진행하는 방안을 이스라엘에 설명했다고 미국 액시오스가 20일(현지 시간) 보도했다.",
-      "매체는 지난 19일 밤 트럼프 대통령과 베냐민 네타냐후 이스라엘 총리가 긴 통화를 진행했다며 이같이 전했다.",
-      "통화 내용을 공유받은 소식통에 따르면 트럼프 대통령은 네타냐후 총리에게 중재국들이 우선 종전에 공식 서명한 뒤 이란 핵 프로그램이."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n579556a1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/sports/golf/2026/05/21/MM3DIODEMM4DCNZRHA3DOY3GMM/",
-    "title": "\"K바베큐와 제주, 잊지 못할 것\" 5년만의 귀환 CJ컵의 추억, 켑카 대어 낚을까 \"퍼팅 연습만 했다. 셰플러, 김시우와 즐기겠다\"[더 CJ컵 바이런 넬슨]",
-    "summary": [
-      "[댈러스=스포츠조선 정현석 기자]'메이저 대회 사냥꾼' 브룩스 켑카(36·미국)가 한국에 대한 추억과 다시 찾은 골프에 대한 열정을 고백했다.",
-      "2021년 더 CJ컵 서밋 이후 5년 만에 돌아온 PGA 투어 '더 CJ컵 바이런 넬슨'에서의 활약을 다짐했다.",
-      "켑카는 대회 개막을 하루 앞둔 20일(현지시각), 미국 텍사스주 매키니의 TPC 크레이그 랜치에서 공식."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb983dc61",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/finance/2026/05/21/2026052020031773674",
-    "title": "멍들기 전에 '보험' 드는 교사들",
-    "summary": [
-      "교권침해담보 가입 1만명 육박 업계도 '블루오션' 상품개발 ↑ 학부모와 학생에 의한 교육활동 침해사례가 증가하면서 교사가 직접 법적 배상책임 등을 보장받을 수 있는 보험상품을 찾는 사례도 늘고 있다.",
-      "20일 하나손해보험에 따르면 교권침해 피해와 법률비용 손해를 보장하는 '하나더교직원안심보험'에서 교권침해피해 담보 가입자 수가 이날 기준 9312명으로 파악됐다.",
-      "보통 교원들을 위한 보험은 교원이 학교시설이나 학교업무와 관련한 업무수행으로 생긴 사."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nfb316b05",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521007100072",
-    "title": "美명문대도 '학점 인플레' 골치…하버드대 A학점 비율 제한 도입",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 명문대 하버드대가 고질적인 '학점 인플레이션'을 잡기 위해 학부 과정의 A학점 비율을 제한하는 정책을 ..."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n186e2dd6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "36분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003637612",
-    "title": "\"아이는 노후 대비용?\"…신혼부부의 출산 고민에 갑론을박",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 김동원 인턴기자 = 온라인 커뮤니티에 한 신혼부부의 출산 고민 글이 올라오면서 아이를 '노후 대비 수단'으로 보는 인식이 적절한지를 두고 논란이 커지고 있다.",
-      "지난 19일 온라인 커뮤니티 '네이트판'에는 '내 노후를 생각하면 애가 필요한데'라는 제목의 게시물이 올라왔다.",
-      "해당 글 작성자 A씨는 결혼 2년 차로 남편과 취미 생활과 여행을 즐기며 만족스러운 신혼 생활을 보내고 있다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d31049b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638154",
-    "title": "대구·경북, 대체로 흐리고 비…아침 13도·한낮 26도",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 목요일인 21일 대구와 경상북도는 대체로 흐리고 비가 내리는 곳이 있을 것으로 예상된다.",
-      "대구지방기상청은 이날 \"대구와 경북, 울릉도·독도에 밤까지 비가 오겠다\"며 \"오전부터 오후 사이 소강상태를 보이는 곳도 있겠다\"고 예보했다.",
-      "예상 강수량은 경북북부동해안과 경북북동산지 30~80㎜, 대구와 그 밖의 경북 20~60㎜다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc83f8351",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521006900072",
-    "title": "美연준 다수위원 \"인플레 2% 계속 웃돌면 금리인상 적절\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 지난달 28∼29일(현지시간) 열린 미국 중앙은행의 통화정책 회의에서 다수 위원은 물가 상승률이 목표 수준을..."
-    ],
-    "chips": [
-      "#금리",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nc4820064",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "45분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/21/ICGYSSYZJFHHPHVP42FA5747LI/",
-    "title": "강력한 월가 규제 ‘도드-프랭크 법’ 이끈 바니 프랭크 전 의원 별세",
-    "summary": [
-      "강력한 월가 규제 ‘도드-프랭크 법’ 이끈 바니 프랭크 전 의원 별세."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n5208b08c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "49분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/05/21/GMZDGMZUMEYGKNDFGM3DQYTFHE/",
-    "title": "[오피셜]피겨 이해인, 美 이동→새 시즌 쇼트프로그램 완성…안무가 리쇼와 처음 협업",
-    "summary": [
-      "[스포츠조선 김가을 기자]대한민국 피겨 기대주 이해인(21·고려대)이 새 시즌 준비에 나섰다.",
-      "이해인의 매니지먼트사인 디제이매니지먼트는 20일 '이해인이 2026년 밀라노-코르티나 동계올림픽을 마치고 국내에서 치러진 각종 행사를 마무리했다.",
-      "미국으로 이동해 새 시즌 준비를 시작했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n10d7ecdc",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "54분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152030",
-    "title": "\"3인칭 메타 적응 끝났다\"...크래프톤, PGS 서킷2 개막",
-    "summary": [
-      "크래프톤이 전 세계 배틀그라운드 이스포츠 강자들이 모이는 글로벌 대회 2026 펍지 글로벌 시리즈(PGS) 서킷2의 막을 올립니다.",
-      "이번 대회는 세 개의 시리즈가 하나의 서킷으로 연결되는 독특한 방식으로 운영되며, 20일부터 3주간의 대장정에 돌입합니다.",
-      "최종 시리즈인 PG 6에서 이번 서킷2의 최종 우승팀이 가려질 예정입니다.총상금 50만달러와 연말 최상위 대회인 펍지 글로벌 챔피언십(PGC) 진출 포인트를 두고 펼쳐지는 이번 대회에는 글로벌."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -650,15 +634,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "정치",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
