@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-20 17:00:45
+// 마지막 업데이트: 2026-05-20 18:01:57
 window.NEWS_DB = [
   {
     "id": "n931ee8e9",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zbkk0TGlLbjhKNTlfUTdjNV9jcVNHUldIekJhajlSM2FNdklJS3FxNDkzQzFiM0JFMXctUGNTNTB3N2xwREE3UmV5b29ya3dNTFBpdWtyZk1RX1Job3hzdGpTSEd3cmdCTldpUnlCNjNJVlk?oc=5",
     "title": "엔비디아에 메모리반도체 물량 부족 악재로 거론, \"차세대 AI칩 공급에 변수\"",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n34eebad0",
     "category": "IT",
     "source": "한국경제",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YR3k4Rm5FaG1YZE52bThaUVFRaEVjeEtfZ0Q3QTdPVW9iY1RIMHdkYnVVckJ3QVFoNE44RHpDd3FIaWRIWGJwVDUwV3hXU1cyUWdNMm0ta1dwd9IBVEFVX3lxTE11Qk9tM0ZIRU5GLUpYeG5mS1NHYjFyWFg5azNQeHMwaThxc0ZqTU1vY0U2VC1lOUhFenZuX19JUXQzckJIVjF2ZUV6OGVJSWdlZ2h3Rw?oc=5",
     "title": "'엔비디아' 실적에 달렸다…'AI 반도체'의 운명은?",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "n63095947",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYThnUEM4TEN1R0o1VWVoeHhORThFWVpwVmlsY3hYeDM4ZTFFeXVjVllsSHl6M1lEbXktajBNRTJhN0hlYklHaWZuM0VjVHczSVYzVGp2WnBKQlc4S0Y5XzQ3T0hQMnpqRVRnT0NWM0NrNmx2eTI0Q3ZPZ1hfZTNPV2NLUWZtU0tH?oc=5",
     "title": "엔비디아 빗장 풀자 중국은 AMD 불렀다…한국 HBM ‘운명의 판 재편’",
     "summary": [
@@ -91,20 +91,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n98221228",
-    "category": "경제",
-    "source": "한겨레",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bHllbG1kZmFXbmpVaHZZM3Z4cUV6enJmcUhzR1U0ckF4WUNpYlg5YlNPaXBsMzEzaEwyZW1YcVN1TnlxQTRET0hNU0pUdlhyb3QxMklYbXprVHl1LWlUV01qY0c5eTgyb3BwNGxmYUZJQQ?oc=5",
-    "title": "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감",
-    "summary": [
-      "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감 한겨레."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   },
   {
@@ -256,6 +242,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n15f5f447",
+    "category": "경제",
+    "source": "지디넷코리아",
+    "time": "77일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
+    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
+    "summary": [
+      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "nb04cef68",
     "category": "사회",
     "source": "경기일보",
@@ -379,10 +379,204 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6037fc33",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/21/2026052100293840984",
+    "title": "'31기' 경수, 슈데권 번복에…영숙 결국 \"나한테 써야지\" 폭발",
+    "summary": [
+      "31기 경수가 영숙에게 쓰려던 슈퍼데이트권을 번복하자 영숙이 배신감을 드러냈다.",
+      "20일 방영된 SBS Plus '나는 솔로' 254회에서는 순자가 스트레스성 위경련으로 병원에 실려간 뒤 경수가 영숙과의 데이트 약속을 철회하려 하며 갈등이 폭발하는 모습이 그려졌다.",
+      "이날 경수는 순자가 스트레스성 위경련으로 앰뷸런스를 타고 병원으로 향하자 영숙에게 쓰려던 슈퍼데이트권을 철회하겠다고 밝혔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n619e5c80",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://www.asiae.co.kr/article/2026052102504832926",
+    "title": "주한미국 대사 후보 \"한국 내 미국 기업, 한국 기업과 동등 대우 받아야\"",
+    "summary": [
+      "미셸 스틸(70) 주한 미국 대사 후보자는 20일(현지시간) 한국 내 미국 기업에 대한 '동등한 대우'를 강조하며 쿠팡 등 미국 기업들이 차별받지 않도록 챙기겠다고 밝혔다.",
+      "스틸 후보자는 이날 워싱턴DC의 미 연방 상원 외교위원회의 인사청문회에서 쿠팡 등 미국 기업이 한국에서 차별받지 않도록 해달라는 일부 의원의 요청에 \"챙겨보겠다\"고 밝혔다.",
+      "그는 지난해 한미 정상 간 통상·안보 합의 내용이 담긴 조인트 팩트 시트(공동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4f9f9a2c",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521004800085",
+    "title": "영국, 걸프 6개국과 FTA 협상 타결…G7 중 처음",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국은 20일(현지시간) 걸프 지역 6개국 협력체인 걸프협력회의(GCC)와 자유무역협정(FTA) 협상을 마무..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n21038507",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/international/us/2026/05/21/RMODBQOPD5CQ7BSACGKE5KNZ4M/",
+    "title": "美, 쿠바 독립기념일에 정권 정조준… “불량국가 용납 안 돼, 새 관계 준비”",
+    "summary": [
+      "美, 쿠바 독립기념일에 정권 정조준… “불량국가 용납 안 돼, 새 관계 준비”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6ff1e55",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/21/2026052020074166976",
+    "title": "'김민재·황인범 출전 불투명' 韓 월드컵 체코전 예상 선발 라인업 공개",
+    "summary": [
+      "미국 전문 분석 업체가 대한민국 축구 국가대표팀의 2026 국제축구연맹(FIFA) 북중미 월드컵 첫 경기 예상 선발 라인업을 공개했다.",
+      "전체적으로 대표팀 주전급 선수들이 이름을 올린 가운데, 다만 수비와 중원의 핵심인 김민재(바이에른 뮌헨)와 황인범(페예노르트)의 출전 여부는 불투명하다고 덧붙였다.",
+      "미국 매체 로토와이어는 20일(한국시간) 2026 FIFA 북중미 월드컵 조별리그 1차전 예상 선발 라인업을 공개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0ee1acd0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/21/MU4GIY3GMIYWEZRWMQZDCMLEMQ/",
+    "title": "아스널 미쳤다! 22년 긴 기다림 끝, EPL 우승→벌써 타이틀 방어 착수…입 떡 벌어지는 다음 시즌 베스트 11",
+    "summary": [
+      "[스포츠조선 김성원 기자]무려 22년 만의 기다림 끝에 잉글랜드 프리미어리그(EPL) 정상에 등극한 아스널이 벌써 타이틀을 방어하기 위해 움직이고 있다.",
+      "아스널은 2위 맨시티가 20일(이하 한국시간) 본머스와 1대1로 비기면서 우승이 확정됐다.",
+      "1위 아스널(승점 82)과 맨시티(승점 78)의 승점 차가 4점으로 벌어지면서 25일 열릴 리그 최종전 결과와 상."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n0c293d4b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521004500071",
+    "title": "미군 \"美해상봉쇄 돌파시도한 이란 유조선 승선·저지\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 대(對)이란 전쟁 및 해상봉쇄를 수행하고 있는 미군 중부사령부는 20일(현지시간) 봉쇄를 돌파하려 한 이란..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56e15388",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521004400091",
+    "title": "\"오픈AI, 이르면 22일 IPO 신청서…9월 상장 목표\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 챗GPT 개발사 오픈AI가 기업공개(IPO)를 위한 초기 서류를 이르면 이번 주 중에 증권시장 당국에..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nbc408126",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "31분 전",
+    "url": "https://www.asiae.co.kr/article/2026052009175836167",
+    "title": "이종욱 박사 서거 20주기, WHO서 6개국 공동 추모",
+    "summary": [
+      "보건복지부는 한국인 최초의 국제기구 수장이자 제6대 세계보건기구(WHO) 사무총장이었던 고(故) 이종욱 박사의 서거 20주기 추모식이 20일 오후(현지시각) 스위스 제네바 WHO 본부에서 열렸다고 밝혔다.",
+      "이번 추모식은 복지부와 한국국제보건의료재단(KOFIH)이 주관하고 한국·중국·에티오피아·라오스·스리랑카·탄자니아 등 6개국 보건부가 공동 주최했다.",
+      "공식 명칭은 '이종욱 박사의 유산을 기리며: 20년간의 글로벌 보건 형."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n89981f2a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003637298",
+    "title": "故이종욱 전 사무총장 20주기…WHO서 추모식 개최",
+    "summary": [
+      "[세종=뉴시스] 강진아 기자 = 제6대 세계보건기구(WHO) 사무총장으로 한국인 최초 국제기구 수장에 오른 고(故) 이종욱 박사의 서거 20주기 추모식이 WHO 본부에서 개최됐다.",
+      "보건복지부는 20일(현지시각) 제79차 세계보건총회(WHA)가 열리고 있는 스위스 제네바의 WHO 본부에서 한국·중국·에티오피아·라오스·스리랑카·탄자니아 6개국 보건부 공동 주최로 추모식이 열렸다고 21일 밝혔다.",
+      "'이종욱 박사의 유산을 기리며: 20년간의 글로벌 보."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf94f5a8d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520194051071",
+    "title": "트럼프 \"시진핑·푸틴 회담 좋은 일…대만 총통과 대화할 것\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 20일(현지시간) 시진핑 중국 국가주석과 블라디미르 푸틴 러시아 대통령의 회담..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc0b51437",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/21/LW33XO267JB5JJM64C4FERUSUE/",
+    "title": "미셸 스틸 주한美대사 청문회…공화당 의원 “내 딸도 BTS 팬”",
+    "summary": [
+      "미셸 스틸 주한美대사 청문회…공화당 의원 “내 딸도 BTS 팬”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na3e2820a",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202605210223i",
+    "title": "에어비앤비, 렌트카부터 공항픽업까지 '원스톱 서비스'로 진화",
+    "summary": [
+      "에어비앤비, 렌트카부터 공항픽업까지 '원스톱 서비스'로 진화."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "na8454718",
     "category": "사회",
     "source": "머니투데이",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/opinion/2026/05/21/2026052011251781745",
     "title": "신 자본주의, 사회적가치 기반 일자리[MT시평/박양수]",
     "summary": [
@@ -401,7 +595,7 @@ window.NEWS_DB = [
     "id": "n250dadf0",
     "category": "IT",
     "source": "머니투데이",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/opinion/2026/05/21/2026052018123332060",
     "title": "[사설]삼성전자 성과급 갈등이 몰고온 후폭풍",
     "summary": [
@@ -415,42 +609,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n934c0392",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/21/2026052011193721600",
-    "title": "[강기택의 딥포인트]방산이라는 이름의 성장산업",
-    "summary": [
-      "전쟁경제 시대, 무기수출 세계 4위 K-방산, 수출·공급망의 주축 부상 민관총력, 캐나다 잠수함 수주하길 한화그룹이 자산 기준 재계 5위로 올라선 것은 하나의 사건이다.",
-      "재계 지형이 바뀌고 있다는 점도 관전포인트겠지만 그게 다는 아니다.",
-      "분쟁이 일상화된 '전쟁경제'의 시대로 들어섰다는 점이다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n14ce5303",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/21/2026052016554146710",
-    "title": "'中 스파이 위협→PTSD 은퇴→올림픽 金' 21세 인간승리, 그런데 \"중국계라서 자랑스럽다\"... 도대체 왜 이런 발언했나",
-    "summary": [
-      "중국 공산당 정권의 집요한 스파이 공작과 위협이라는 거대한 시련을 극복하고 올림픽 영웅이 된 알리사 리우(21·미국)가 자신의 정체성을 담백하게 털어놨다.",
-      "미국 매체 'ABC7'은 최근 고향인 베이 아레나로 돌아와 '스타즈 온 아이스' 투어 무대에 서는 리우와 인터뷰를 보도했다.",
-      "리우는 지난 동계올림픽 피겨스케이팅에서 단체전 우승을 포함해 2관왕에 오르며 미국 여성 선수로는 2002년 사라 휴즈 이후 최초로 올림픽 단식 금메달을 목에 걸었고,."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n45070c2c",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260521_0003638437",
     "title": "정원오, 동서울우편집중국서 선거운동 개시…\"박빙 선거, 매순간 절실하게\"",
     "summary": [
@@ -463,72 +625,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd699d5f5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260520192652079",
-    "title": "무릎 꿇리고 머리 박고…이스라엘, 가자구호선 활동가 학대 논란(종합2보)",
-    "summary": [
-      "(카이로·런던=연합뉴스) 김상훈 김지연 특파원 = 이스라엘이 동지중해에서 나포한 가자지구 구호선단의 활동가들을 마치 현행범처럼 거칠게 다룬 사실..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n623c98db",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/21/MMYTEZJYMQZDKMDFGIZDKYTGGU/",
-    "title": "맹비난 퍼부은 사람들에게? 한동희는 말을 아꼈다 → \"144경기 끝나야 나오는 것\" [대전 현장]",
-    "summary": [
-      "[대전=스포츠조선 한동훈 기자] 롯데 자이언츠 우타거포 한동희가 3경기 연속 대포를 폭발하며 그간 부진을 해소했다.",
-      "한동희는 19일 대전 한화전 3-4로 끌려가던 8회초 극적인 동점 솔로 홈런을 작렬했다.",
-      "롯데는 기세를 몰아 6대4 역전승을 거뒀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4282d44e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/21/GMZDKMJUGI3WCY3BGA3DIY3DMY/",
-    "title": "설마! 신인왕에 골글 파란까지? '동반부진→동반반등' 무려 15년 '양강 체제' 올해는 깨지나?",
-    "summary": [
-      "[스포츠조선 정현석 기자]2011년부터 포수 골든글러브는 양의지(두산) 강민호(삼성) 단 두 선수만의 독과점 영역이었다.",
-      "무려 15년, 긴 세월 동안 두 베테랑 포수가 팀을 옮겨가며 천하를 양분해왔다.",
-      "롯데 강민호가 2011년 부터 3년 연속, 두산 양의지가 바통을 이어받아 2014년 부터 3년 연속 골든글러브 포수에 이름을 올렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n87715d15",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/21/MU4GEMRRMY2WKOBWMUZGINZXG4/",
-    "title": "\"쉬는 게 능사가 아니다\" 10G 최하위, 사령탑 결국 '2단계' 돌입…외인도 예외 없던 '호텔 스윙'",
-    "summary": [
-      "[잠실=스포츠조선 이종서 기자] \"2단계라고 생각하면 됩니다.\" NC 다이노스 선수들은 지난 19일 잠실 두산 베어스전에서 3대9로 패배한 뒤 호텔에서 다시 모였다.",
-      "세미나를 할 수 있는 공간에 타자들은 방망이를 들고 하나 둘씩 나왔다.",
-      "주장 박민우를 비롯해 외국인타자 맷 데이비슨까지 예외는 없었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7dae50f1",
     "category": "사회",
     "source": "뉴시스",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260521_0003638436",
     "title": "트럼프 \"쿠바 불량정권 용납못해\"…국무장관은 스페인어 연설",
     "summary": [
@@ -539,111 +639,6 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
-  },
-  {
-    "id": "nd90393fe",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260521_0003638446",
-    "title": "[속보] \"오픈AI, 이르면 22일 IPO 신청…9월 상장 목표\"-WSJ",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 jwshin@newsis.com."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nf2682b5d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "33분 전",
-    "url": "https://www.newsis.com/view/NISX20260521_0003638442",
-    "title": "정청래, '정원오 지원'으로 공식 선거운동 개시…\"서울 반드시 탈환\"",
-    "summary": [
-      "[서울=뉴시스] 김난영 권신혁 기자 = 정청래 더불어민주당 대표 겸 6·3 지방선거 총괄상임선대위원장이 21일 서울을 시작으로 공식 선거운동을 개시했다.",
-      "정 대표는 공식 선거운동 첫날인 이날 오전 0시 서울 광진구 동서울우편집중국을 찾아 정원오 서울시장 후보 지원에 나섰다.",
-      "그는 첫 지원지로 서울을 택한 이유에 관해 \"오세훈의 서울을 이제 끝내야 한다\"고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndcce741e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521003000527",
-    "title": "강원 태백에 호우주의보 해제…남부산지 등 3곳 호우주의보 유지",
-    "summary": [
-      "(춘천=연합뉴스) 기상청은 태백에 발령했던 호우주의보를 21일 오전 1시 10분을 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n898cc7cd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521002500072",
-    "title": "삼성전자 파업 보류에 외신도 속보…\"글로벌 공급망 우려 완화\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 삼성전자 노사가 20일 임금협상안에 잠정 합의하고 파업 계획을 보류하자, 주요 외신들도 관련 소식을 긴급 속..."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n10adb338",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "48분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521000201003",
-    "title": "삼성전자 메모리 1인당 6억원 받는다…적자 사업부도 최소 1.6억(종합)",
-    "summary": [
-      "(서울=연합뉴스) 임성호 강태우 기자 = 삼성전자 노사가 사업성과의 10%대를 성과급 재원으로 고정하는 파격적 보상안에 합의하면서 반도체(DS)..."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nbd6395e6",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "59분 전",
-    "url": "https://www.hankyung.com/article/202605210229i",
-    "title": "암호화폐소유자들 \"납치,도난 공포\"…물리적보안이 초미의 관심사로",
-    "summary": [
-      "암호화폐소유자들 \"납치,도난 공포\"…물리적보안이 초미의 관심사로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7f2784cf",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260521/133964662/1",
-    "title": "“영업익 12%, 현금 아닌 삼성전자 자사주 지급” 노사 한발씩 양보",
-    "summary": [
-      "삼성전자 노사가 총파업일인 21일을 한 시간 앞두고 잠정 합의안을 도출하면서 사상 초유의 반도체 생산 셧다운 위기를 피했다.",
-      "18일부터 50시간 넘는 마라톤 협상 끝에 20일 오전 한때 교섭 불성립으로 파국 위기를 맞았으나, 김영훈 고용노동부 장관의 긴급 중재로 재개된 심야 교섭에서 접점을 찾았다.",
-      "156일간 이어진 노사의 벼랑 끝 대치는 일단 봉합 수순에 들어갔지만, 성과급 배분을 둘러싸고 폭발한 사내 ‘노노(勞勞) 갈등’은 조직 문화에 무거."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#고용"
-    ]
   }
 ];
 
@@ -651,21 +646,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
