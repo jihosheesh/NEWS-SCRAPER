@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-20 15:02:14
+// 마지막 업데이트: 2026-05-20 17:00:45
 window.NEWS_DB = [
   {
     "id": "n931ee8e9",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zbkk0TGlLbjhKNTlfUTdjNV9jcVNHUldIekJhajlSM2FNdklJS3FxNDkzQzFiM0JFMXctUGNTNTB3N2xwREE3UmV5b29ya3dNTFBpdWtyZk1RX1Job3hzdGpTSEd3cmdCTldpUnlCNjNJVlk?oc=5",
     "title": "엔비디아에 메모리반도체 물량 부족 악재로 거론, \"차세대 AI칩 공급에 변수\"",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n34eebad0",
     "category": "IT",
     "source": "한국경제",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YR3k4Rm5FaG1YZE52bThaUVFRaEVjeEtfZ0Q3QTdPVW9iY1RIMHdkYnVVckJ3QVFoNE44RHpDd3FIaWRIWGJwVDUwV3hXU1cyUWdNMm0ta1dwd9IBVEFVX3lxTE11Qk9tM0ZIRU5GLUpYeG5mS1NHYjFyWFg5azNQeHMwaThxc0ZqTU1vY0U2VC1lOUhFenZuX19JUXQzckJIVjF2ZUV6OGVJSWdlZ2h3Rw?oc=5",
     "title": "'엔비디아' 실적에 달렸다…'AI 반도체'의 운명은?",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "n63095947",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYThnUEM4TEN1R0o1VWVoeHhORThFWVpwVmlsY3hYeDM4ZTFFeXVjVllsSHl6M1lEbXktajBNRTJhN0hlYklHaWZuM0VjVHczSVYzVGp2WnBKQlc4S0Y5XzQ3T0hQMnpqRVRnT0NWM0NrNmx2eTI0Q3ZPZ1hfZTNPV2NLUWZtU0tH?oc=5",
     "title": "엔비디아 빗장 풀자 중국은 AMD 불렀다…한국 HBM ‘운명의 판 재편’",
     "summary": [
@@ -91,6 +91,20 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n98221228",
+    "category": "경제",
+    "source": "한겨레",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bHllbG1kZmFXbmpVaHZZM3Z4cUV6enJmcUhzR1U0ckF4WUNpYlg5YlNPaXBsMzEzaEwyZW1YcVN1TnlxQTRET0hNU0pUdlhyb3QxMklYbXprVHl1LWlUV01qY0c5eTgyb3BwNGxmYUZJQQ?oc=5",
+    "title": "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감",
+    "summary": [
+      "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감 한겨레."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -154,32 +168,63 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf055352b",
+    "id": "n06cf46f8",
     "category": "IT",
-    "source": "지디넷코리아",
-    "time": "21일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWjFuN1NnOW9oWlBpQkVXRUpxSTFMOFVock9JSzRXc3dGNWhWM3F4em5hQlhSclBqWmFqcHVMVVBLSzN5YktjOEVrczdKMjBGM0RnclZB?oc=5",
-    "title": "중기부, 모태펀드 1.8조원 투입…AI·딥테크 '유니콘' 키운다",
+    "source": "fetv.co.kr",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94T0FwTExTMkdoR2cxb1UwVy1oRXprZU92V1lpUVZIY0N3UFhveFE3cWNpVWl4N3FtZVBZQlByV1phMjlQYy1EQ1hzOVAwc20xNklTcG5GeUZQNHlfQjR3TXdHb1l1SUs1?oc=5",
+    "title": "[반도체 强대强] ⑤삼성전자, 종합반도체 시험대 '파운드리' 수익성 과제",
     "summary": [
-      "중기부, 모태펀드 1.8조원 투입…AI·딥테크 '유니콘' 키운다 지디넷코리아."
+      "[반도체 强대强] ⑤삼성전자, 종합반도체 시험대 '파운드리' 수익성 과제 fetv.co.kr."
     ],
     "chips": [
-      "#AI",
-      "#스타트업"
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
-    "id": "ne3b485bd",
-    "category": "경제",
-    "source": "한겨레",
-    "time": "40일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CS0Z5VWNMOEk5cnFlTmxxSXlzUjUwUnltT0Q3MkJPcW44aTh0cjl2NFpBbHdTR3g1a0VmVEpxM085Y0xuM1dLcjFIajNkbUYwOHhJMkdNd1ZtaGlWSmNqYmpIV0habzA?oc=5",
-    "title": "한은, 기준금리 연 2.50% 동결…7차례 연속",
+    "id": "n325c11bb",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "27일 전",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEVtV09LTVc1QzFLdlBOdUVFQUgzNmtlUzhSb3lJM1hKNnYxVlhtSXptc0gxTVlacERuWDhYNm04MkVqQzNZeVk4NVJWZk5DS2lrRmF5YjliRy1rVXprTnl5aE9kSTNkLWdMMDhHa015OUxwdEhxZ2pSRmdWQTNvUlRkenM5UHlVVXhMMQ?oc=5",
+    "title": "[경제포커스] 삼성전자 노사에 필요한 2등 마인드",
     "summary": [
-      "한은, 기준금리 연 2.50% 동결…7차례 연속 한겨레."
+      "[경제포커스] 삼성전자 노사에 필요한 2등 마인드 조선일보."
     ],
     "chips": [
-      "#금리"
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nc4b0f988",
+    "category": "IT",
+    "source": "쿠키뉴스",
+    "time": "28일 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
+    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
+    "summary": [
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nce5c746a",
+    "category": "IT",
+    "source": "전자신문",
+    "time": "48일 전",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnWmRZVmxBeXZBVjEzS3RCcnJiNGNORTFHMDFmR3dBNkVBanE1LVJwejlSQ2x6TGEwRXZNRHFnQktaUjNLOXRzQUJVU2NZUQ?oc=5",
+    "title": "“글로벌로 나가야 유니콘”…투자업계 “K-스타트업 범주 넓혀 해외 창업도 지원해야”",
+    "summary": [
+      "“글로벌로 나가야 유니콘”…투자업계 “K-스타트업 범주 넓혀 해외 창업도 지원해야” 전자신문."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -197,20 +242,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na3d37f8f",
-    "category": "IT",
-    "source": "지디넷코리아",
-    "time": "70일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVJIdW42c2NuWTBtVDhMWEZjT2ttdWRBNmhraDlsOG1DR3JpajNrY0RfSkhVSjduUEpRWFBpUUhtOWN3eXIxZjZmM01odVR6TGpoNmhn?oc=5",
-    "title": "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략",
-    "summary": [
-      "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략 지디넷코리아."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
@@ -222,38 +253,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n759c2467",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "96일 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
-    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
-    "summary": [
-      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "neecf7f49",
-    "category": "IT",
-    "source": "인베스트조선",
-    "time": "96일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenJjd2J2QWRweGVSMmpnMERtaFA5WkFESjVyc2RVZG1HSTVTNWw1Q1NqNVp6OWtQRklOTHBNa2RLdm1GVFEwcW1JNXIzMWVMWkthSnpOWS1TcG5rS2J6QVgyVnRDc2xZLXQzRndsZ2FCMF96YnQ2T0cyX0tiOElzcm9qdw?oc=5",
-    "title": "엔비디아 공급 둘러싼 삼성전자-SK하이닉스의 HBM 경쟁 2막",
-    "summary": [
-      "엔비디아 공급 둘러싼 삼성전자-SK하이닉스의 HBM 경쟁 2막 인베스트조선."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -380,269 +379,268 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n03ddca05",
+    "id": "na8454718",
     "category": "사회",
-    "source": "아시아경제",
+    "source": "머니투데이",
     "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026052100013376061",
-    "title": "트럼프 \"이란전 서두르지 않아…시진핑·푸틴 회담 좋은 일\"",
+    "url": "https://www.mt.co.kr/opinion/2026/05/21/2026052011251781745",
+    "title": "신 자본주의, 사회적가치 기반 일자리[MT시평/박양수]",
     "summary": [
-      "도널드 트럼프 미국 대통령이 이란 군사작전 재개 가능성을 다시 열어두면서도 중국·러시아 정상 회담에 대해서는 \"좋은 일\"이라고 평가했다.",
-      "대만 문제와 관련해서는 라이칭더 대만 총통과의 통화 가능성을 시사해 미·중 긴장을 자극할 수 있다는 관측도 나온다.",
-      "트럼프 대통령은 20일(현지시간) 백악관에서 취재진과 만나 최근 이란 공습 잠정 보류 결정과 관련해 \"중간선거 때문에 전쟁 해결을 서두르는 것 아니냐\"는 질문에."
+      "기후위기, 양극화, AI 확산.",
+      "오늘날 세계 경제가 직면한 문제들은 기존 자본주의 시스템만으로 해결하기 어려운 수준에 이르렀다.",
+      "글로벌 경제는 지금 '무엇을 성장으로 볼 것인가'라는 근본적 질문 앞에 서 있다."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#고용",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n250dadf0",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/opinion/2026/05/21/2026052018123332060",
+    "title": "[사설]삼성전자 성과급 갈등이 몰고온 후폭풍",
+    "summary": [
+      "삼성전자 노조의 '영업이익 15%' 성과급 요구를 둘러싼 노사 협상은 한국 기업과 정부에 큰 과제를 안겨주었다.",
+      "삼전 외에 기아와 LG유플러스(30%), 삼성바이오로직스(20%) 등 대기업 노조의 '영업이익 N%' 성과급 요구가 쏟아지는 등 성과급 제도화를 위한 산통은 이제 시작이다.",
+      "이런 가운데, 중국 최대 D램 업체 창신메모리(CXMT)는 순이익이 17배 폭증했다고 발표해 한국 반도체 산업에 경종을 울리고 있다."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n934c0392",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/opinion/2026/05/21/2026052011193721600",
+    "title": "[강기택의 딥포인트]방산이라는 이름의 성장산업",
+    "summary": [
+      "전쟁경제 시대, 무기수출 세계 4위 K-방산, 수출·공급망의 주축 부상 민관총력, 캐나다 잠수함 수주하길 한화그룹이 자산 기준 재계 5위로 올라선 것은 하나의 사건이다.",
+      "재계 지형이 바뀌고 있다는 점도 관전포인트겠지만 그게 다는 아니다.",
+      "분쟁이 일상화된 '전쟁경제'의 시대로 들어섰다는 점이다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n14ce5303",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/21/2026052016554146710",
+    "title": "'中 스파이 위협→PTSD 은퇴→올림픽 金' 21세 인간승리, 그런데 \"중국계라서 자랑스럽다\"... 도대체 왜 이런 발언했나",
+    "summary": [
+      "중국 공산당 정권의 집요한 스파이 공작과 위협이라는 거대한 시련을 극복하고 올림픽 영웅이 된 알리사 리우(21·미국)가 자신의 정체성을 담백하게 털어놨다.",
+      "미국 매체 'ABC7'은 최근 고향인 베이 아레나로 돌아와 '스타즈 온 아이스' 투어 무대에 서는 리우와 인터뷰를 보도했다.",
+      "리우는 지난 동계올림픽 피겨스케이팅에서 단체전 우승을 포함해 2관왕에 오르며 미국 여성 선수로는 2002년 사라 휴즈 이후 최초로 올림픽 단식 금메달을 목에 걸었고,."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n45070c2c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260521_0003638437",
+    "title": "정원오, 동서울우편집중국서 선거운동 개시…\"박빙 선거, 매순간 절실하게\"",
+    "summary": [
+      "[서울=뉴시스] 한재혁 권신혁 기자 = 정원오 더불어민주당 서울시장 후보가 공식 선거운동 개시일인 21일 \"늘 박빙이라는 생각을 갖고 최선을 다하겠다\"며 첫 행보에 나섰다.",
+      "이날 오전 0시 서울 광진구 동서울우편집중국을 방문한 정 후보는 \"여론조사 상황과 무관하게 서울시장 선거는 아주 박빙일 것\"이라며 \"매 순간 최선을 다하고 절실하고 진실하게 임하고 있다\"고 했다.",
+      "푸른색 우체국 직원복을 착용한 정 후보는 이날 선거운동 지원에 나선 정청래 민."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n12db1dcc",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/21/2026052022193983596",
-    "title": "\"죄송하다\" 눈물 쏟은 지소연, PK 실축 연신 사과 \"변명하지 않겠다... 책임감 많이 느껴\" [수원 현장]",
+    "id": "nd699d5f5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520192652079",
+    "title": "무릎 꿇리고 머리 박고…이스라엘, 가자구호선 활동가 학대 논란(종합2보)",
     "summary": [
-      "결정적인 순간에 터진 페널티킥 실축에 대한민국 여자 축구의 전설 지소연(35·수원FC 위민)은 결국 참았던 눈물을 펑펑 쏟아냈다.",
-      "안방에서 전반전을 압도하고도 아쉬운 역전패를 당한 지소연은 모든 패배의 책임을 자신에게 돌리며 동료들과 홈팬들을 향해 고개를 숙였다.",
-      "수원FC 위민은 20일 오후 7시 수원종합운동장에서 열린 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL) 준결승전에서 내고향여자축구단(북한)에 1-2로 졌다."
+      "(카이로·런던=연합뉴스) 김상훈 김지연 특파원 = 이스라엘이 동지중해에서 나포한 가자지구 구호선단의 활동가들을 마치 현행범처럼 거칠게 다룬 사실..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na144a4b7",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/tech/2026/05/21/2026052017450684340",
-    "title": "노벨상 수상자와 '자연계 모방' AI 인공 단백질 만든 韓 과학자",
+    "id": "n623c98db",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/21/MMYTEZJYMQZDKMDFGIZDKYTGGU/",
+    "title": "맹비난 퍼부은 사람들에게? 한동희는 말을 아꼈다 → \"144경기 끝나야 나오는 것\" [대전 현장]",
     "summary": [
-      "이상민 포스텍 화학공학과 교수, 21일 국제 학술지 '네이처' 발표 2024년 노벨화학상 수상 데이비드 베이커 교수와 공동연구 AI로 '자연 모방' 인공 단백질 설계 성공 국내 연구팀이 2024년 노벨화학상 수상자인 데이비드 베이커 미국 워싱턴대 교수 연구팀과의 공동연구를 통해 자연계 속 단백질 구조의 원리를 AI로 재현했다.",
-      "과학기술정보통신부는 이상민 포스텍(포항공대) 화학공학과 교수가 AI를 활용해 대형 단백질 구조체를 설계했다고 21일 밝."
+      "[대전=스포츠조선 한동훈 기자] 롯데 자이언츠 우타거포 한동희가 3경기 연속 대포를 폭발하며 그간 부진을 해소했다.",
+      "한동희는 19일 대전 한화전 3-4로 끌려가던 8회초 극적인 동점 솔로 홈런을 작렬했다.",
+      "롯데는 기세를 몰아 6대4 역전승을 거뒀다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4282d44e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/21/GMZDKMJUGI3WCY3BGA3DIY3DMY/",
+    "title": "설마! 신인왕에 골글 파란까지? '동반부진→동반반등' 무려 15년 '양강 체제' 올해는 깨지나?",
+    "summary": [
+      "[스포츠조선 정현석 기자]2011년부터 포수 골든글러브는 양의지(두산) 강민호(삼성) 단 두 선수만의 독과점 영역이었다.",
+      "무려 15년, 긴 세월 동안 두 베테랑 포수가 팀을 옮겨가며 천하를 양분해왔다.",
+      "롯데 강민호가 2011년 부터 3년 연속, 두산 양의지가 바통을 이어받아 2014년 부터 3년 연속 골든글러브 포수에 이름을 올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n87715d15",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/21/MU4GEMRRMY2WKOBWMUZGINZXG4/",
+    "title": "\"쉬는 게 능사가 아니다\" 10G 최하위, 사령탑 결국 '2단계' 돌입…외인도 예외 없던 '호텔 스윙'",
+    "summary": [
+      "[잠실=스포츠조선 이종서 기자] \"2단계라고 생각하면 됩니다.\" NC 다이노스 선수들은 지난 19일 잠실 두산 베어스전에서 3대9로 패배한 뒤 호텔에서 다시 모였다.",
+      "세미나를 할 수 있는 공간에 타자들은 방망이를 들고 하나 둘씩 나왔다.",
+      "주장 박민우를 비롯해 외국인타자 맷 데이비슨까지 예외는 없었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7dae50f1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260521_0003638436",
+    "title": "트럼프 \"쿠바 불량정권 용납못해\"…국무장관은 스페인어 연설",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령은 쿠바 독립기념일인 20일(현지 시간) \"미국은 본토에서 불과 90마일(약 1.6㎞) 떨어진 곳에서 적대적 외국 군사·정보·테러 작전을 품어주는 불량 국가를 용납하지 않을 것이다\"고 강조했다.",
+      "트럼프 대통령은 이날 발표한 쿠바 독립기념일 성명에서 \"나의 의지는 확고하다\"며 이같이 밝혔다.",
+      "현 쿠바 정권을 신랄히 비판하며 쿠바 국민들이 자유를 되찾을 때까지 노력하겠다고 다짐했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd90393fe",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260521_0003638446",
+    "title": "[속보] \"오픈AI, 이르면 22일 IPO 신청…9월 상장 목표\"-WSJ",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 jwshin@newsis.com."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "nb86dc1f8",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://www.asiae.co.kr/article/2026052014302677041",
-    "title": "AI가 바이러스 조립 원리 풀었다…백신 실어 나를 '단백질 나노케이지' 개발[과학을읽다]",
-    "summary": [
-      "국내 연구진이 인공지능(AI)을 활용해 자연계 바이러스의 조립 원리를 재현한 대형 단백질 구조체를 설계하는 데 성공했다.",
-      "향후 백신과 유전자 치료제, 표적 약물을 실어 나르는 차세대 전달 플랫폼으로 활용될 수 있을 것이란 기대가 나온다.",
-      "과학기술정보통신부는 이상민 포항공과대학교 화학공학과 교수 연구팀이 데이비드 베이커(David Baker) 미국 워싱턴대학교 교수 연구팀과 공동으로 바이러스 유사 구조로 스스로 조립되는."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n0ce1358a",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638361",
-    "title": "공승연, 생활고 고백…\"월세 밀리고 통장 잔고 0원\"",
-    "summary": [
-      "[서울=뉴시스]강주희 기자 = 배우 공승연이 과거 생활고를 겪었다고 털어놨다.",
-      "20일 방송된 tvN 예능 프로그램 '유퀴즈 온 더 블럭'에는 공승연이 게스트로 출연했다.",
-      "이날 공승연은 SM엔터테인먼트에서 7년 동안 연습생 생활을 했지만 데뷔하지 못했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd231b924",
+    "id": "nf2682b5d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638334",
-    "title": "공승연, '쿠싱 증후군' 정연 투병에 눈물…\"동생 없어질까 무서웠다\"",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260521_0003638442",
+    "title": "정청래, '정원오 지원'으로 공식 선거운동 개시…\"서울 반드시 탈환\"",
     "summary": [
-      "[서울=뉴시스]강주희 기자 = 배우 공승연이 친동생이자 그룹 트와이스 멤버인 정연의 투병 생활을 떠올리며 눈물을 흘렸다.",
-      "20일 방송된 tvN 예능 프로그램 '유퀴즈 온 더 블럭'에는 공승연이 게스트로 출연해 세 자매의 우애를 전했다.",
-      "이날 방송에서는 막내인 정연의 인터뷰 영상이 공개됐다."
+      "[서울=뉴시스] 김난영 권신혁 기자 = 정청래 더불어민주당 대표 겸 6·3 지방선거 총괄상임선대위원장이 21일 서울을 시작으로 공식 선거운동을 개시했다.",
+      "정 대표는 공식 선거운동 첫날인 이날 오전 0시 서울 광진구 동서울우편집중국을 찾아 정원오 서울시장 후보 지원에 나섰다.",
+      "그는 첫 지원지로 서울을 택한 이유에 관해 \"오세훈의 서울을 이제 끝내야 한다\"고 했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n74214203",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638341",
-    "title": "전국 강하고 많은 비…서울·경기남부 60㎜[오늘날씨]",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 21일 목요일은 일부 수도권 지역에 호우특보가 발효되는 등 전국적으로 많은 비가 내리겠다.",
-      "기상청은 \"오늘까지 전국에 비가 내리겠고, 중부지방과 남해안, 지리산부근, 제주도산지·남부중산간을 중심으로 강하고 많은 비가 내리는 곳이 있겠다\"고 예보했다.",
-      "비는 수도권과 강원내륙을 중심으로 이날 오후에, 그 밖의 지역은 밤에 대부분 그치겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9d379489",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638106",
-    "title": "문근영 더 예뻐졌네 \"오랜만에 꽃단장\"",
-    "summary": [
-      "[서울=뉴시스]전재경 기자 = 배우 문근영이 변함없는 미모를 자랑했다.",
-      "문근영은 19일 소셜미디어에 \"오랜만에 꽃단장\"이라는 글과 함께 사진을 올렸다.",
-      "공개된 사진 속 문근영은 차량 안에서 검은색 의상을 입고 카메라를 바라보고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb90cecc8",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://www.asiae.co.kr/article/2026052023584270272",
-    "title": "삼성전자 노사 합의에 총파업 유보…\"1년간 적자사업부 배분 방식 유예\"",
-    "summary": [
-      "삼성전자 총파업을 하루 앞두고 김영훈 고용노동부 장관이 직접 중재한 끝에 노사가 극적으로 잠정 합의안 도출에 성공했다.",
-      "노조 측은 총파업을 유보하고 합의안을 노조원 투표에 부치기로 했다.",
-      "김 장관은 \"민주주의를 지지하는 것은 우리 앞에 놓인 공동 과제를 해결하는 대화의 힘을 믿기 때문\"이라며 \"노사 자율협의로 잠정 합의 이르게 돼 감사하다\"고 말했다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#고용"
-    ]
-  },
-  {
-    "id": "na3dc0dff",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/economy/2026/05/20/2026052023495932281",
-    "title": "[일지]삼성전자 노사 협상 극적 타결",
-    "summary": [
-      "삼성전자 노사가 총파업을 불과 2시간 앞두고 극적인 합의를 이끌어냈다.",
-      "20일 김영훈 고용노동부 장관 주재로 경기고용노동청에서 열린 삼성전자 노사 간 자율 협상에서 노사는 성과급 재원, 제도화, 부문별 배분 등 쟁점 사안 합의점 도출에 성공했다.",
-      "김영훈 고용노동부 장관은 노사 협상 타결 직후 브리핑에서 \"마지막까지 대화의 끈을 놓지 않고 노사 자율 교섭으로 잠정 합의에 이르게 됐다\"고 밝혔다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n0efdd92e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/20/GNSTMZJRHEZTCNZQG5SDEN3GGI/",
-    "title": "\"첫 월드컵 정말 영광\" '퇴장 공백' 카스트로프, 홍명보호 첫 합류…'훈련 소화' 이기혁, 고지대 '깨알' 폭로전",
-    "summary": [
-      "[스포츠조선 김성원 기자]외국 태생 첫 혼혈 국가대표인 옌스 카스트로프(묀헨글라트바흐)가 유럽에 머문 해외파 가운데 처음으로 홍명보호에 합류했다.",
-      "카스트로프는 20일(이하 한국시각) 미국 유타주 솔트레이크시티 유트 사커 필드에서 가진 첫 현지 적응 훈련에 참가했다.",
-      "그는 KFA TV를 통해 \"나의 첫 번째 월드컵을 대한민국과 함께 치르게 돼 정말 영광이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd2f9d70",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/20/GI3DSZJYG5RTMZJRMZRWEMJXGA/",
-    "title": "[단독]'여자축구 큰손' 미셸 강 리옹 회장, 수원FC 위민 vs 北 내고향 '亞4강' 맞대결 VIP 초대, '첫 직관' 관심집중[AWCL 현장]",
-    "summary": [
-      "[수원=스포츠조선 전영지 기자]'세계 여자축구계의 큰손' 미셸 강(한국명 강용미) 올랭피크 리옹 회장이 20일 남북 최강 여자축구 클럽 맞대결 현장을 직관할 예정이다.",
-      "박길영 감독이 이끄는 수원FC 위민은 20일 오후 7시 수원종합운동장에서 펼쳐질 아시아여자챔피언스리그(AWCL) 준결승에서 북한 최강 내고향여자축구단과 격돌한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb22f0cdb",
+    "id": "ndcce741e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260520195300001",
-    "title": "靑, 삼성전자 노사 잠정 합의에 \"국가 위한 대승적 결단 감사\"",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521003000527",
+    "title": "강원 태백에 호우주의보 해제…남부산지 등 3곳 호우주의보 유지",
     "summary": [
-      "(서울=연합뉴스) 황윤기 기자 = 청와대는 20일 삼성전자 노사의 임금협상 잠정 합의안 도출에 \"국가와 국민 모두를 위한 대승적 결단에 감사하다..."
+      "(춘천=연합뉴스) 기상청은 태백에 발령했던 호우주의보를 21일 오전 1시 10분을 기해 해제한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n898cc7cd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521002500072",
+    "title": "삼성전자 파업 보류에 외신도 속보…\"글로벌 공급망 우려 완화\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 삼성전자 노사가 20일 임금협상안에 잠정 합의하고 파업 계획을 보류하자, 주요 외신들도 관련 소식을 긴급 속..."
     ],
     "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "n601cbc8c",
+    "id": "n10adb338",
     "category": "IT",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/opinion/column/2026/05/20/S7RS74HCWVEHXDDY3QQ3NHQJRA/",
-    "title": "[양상훈 칼럼] 방위산업처럼 반도체도 파업권 없어야",
+    "source": "연합뉴스",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521000201003",
+    "title": "삼성전자 메모리 1인당 6억원 받는다…적자 사업부도 최소 1.6억(종합)",
     "summary": [
-      "[양상훈 칼럼] 방위산업처럼 반도체도 파업권 없어야."
+      "(서울=연합뉴스) 임성호 강태우 기자 = 삼성전자 노사가 사업성과의 10%대를 성과급 재원으로 고정하는 파격적 보상안에 합의하면서 반도체(DS)..."
     ],
     "chips": [
-      "#반도체"
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
-    "id": "n53279527",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/05/20/HE3TKZJWMNQTCYJSGM4DSMDDHA/",
-    "title": "\"이렇게 빨리 할 지 저도 몰랐어요\" 전격 FA 계약 변준형. 그가 밝힌 FA계약 비하인드 \"인덕이 형보다 더 빨리 할 걸\"",
+    "id": "nbd6395e6",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "59분 전",
+    "url": "https://www.hankyung.com/article/202605210229i",
+    "title": "암호화폐소유자들 \"납치,도난 공포\"…물리적보안이 초미의 관심사로",
     "summary": [
-      "[스포츠조선 류동혁 기자] \"FA 계약 1호가 안된 게 아쉽네요.\" 올 시즌 FA(자유계약선수) 최대어 변준형(30)은 원 소속구단 안양 정관장에 잔류했다.",
-      "정관장 프로농구단은 지난 20일 '변준형이 계약기간 3년, 연봉 8억에 FA 계약을 체결했다'고 공식 발표했다.",
-      "사실 변준형의 빠른 계약은 예상 밖이다."
+      "암호화폐소유자들 \"납치,도난 공포\"…물리적보안이 초미의 관심사로."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne2c8ff34",
+    "id": "n7f2784cf",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260520193900001",
-    "title": "與, 삼성전자 협상 극적 타결에 \"환영…대화로 해법 마련 의미\"",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260521/133964662/1",
+    "title": "“영업익 12%, 현금 아닌 삼성전자 자사주 지급” 노사 한발씩 양보",
     "summary": [
-      "(서울=연합뉴스) 오규진 기자 = 더불어민주당은 20일 삼성전자 노사간 협상이 총파업을 목전에 두고 극적 타결된 것에 대해 \"끝까지 대화의 끈을..."
+      "삼성전자 노사가 총파업일인 21일을 한 시간 앞두고 잠정 합의안을 도출하면서 사상 초유의 반도체 생산 셧다운 위기를 피했다.",
+      "18일부터 50시간 넘는 마라톤 협상 끝에 20일 오전 한때 교섭 불성립으로 파국 위기를 맞았으나, 김영훈 고용노동부 장관의 긴급 중재로 재개된 심야 교섭에서 접점을 찾았다.",
+      "156일간 이어진 노사의 벼랑 끝 대치는 일단 봉합 수순에 들어갔지만, 성과급 배분을 둘러싸고 폭발한 사내 ‘노노(勞勞) 갈등’은 조직 문화에 무거."
     ],
     "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n3bc28866",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://www.asiae.co.kr/article/2026052023533563210",
-    "title": "靑, 삼성전자 노사합의에 \"대승적 결단 감사\"",
-    "summary": [
-      "청와대가 20일 삼성전자 노사의 임금협상안 잠정 합의에 대해 \"국가와 국민 모두를 위한 노사의 대승적 결단에 감사하다\"는 입장을 표명했다.",
-      "청와대는 이날 언론 공지를 통해 \"끝까지 중재에 임해준 고용노동부 장관 등 정부 관계자들의 노력이 어우러진 결과로 평가한다\"며 이같이 밝혔다.",
-      "삼성전자는 이날 경기도 수원 경기고용노동청에서 임금협상에 착수했다."
-    ],
-    "chips": [
+      "#반도체",
       "#삼성전자",
       "#고용"
     ]
@@ -659,15 +657,15 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "삼성전자",
+    "mentions": "1940건",
+    "trend": "+195%"
   }
 ];
 // ====AUTO-GENERATED-END====
