@@ -1,26 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-20 12:02:17
+// 마지막 업데이트: 2026-05-20 13:51:03
 window.NEWS_DB = [
-  {
-    "id": "n531a7bc3",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UbjU1d0RKbTdzZGUxam1YbzdTUFkwMTAyOTlYR2l1bkRhRTZVOWNYbnRQemw3aDFuWjRhYkJ1VjJMYWQ0cTBHRFF3d0VRY3dUdlotMDhueEw3UVBPc3hXedIBeEFVX3lxTE9EMDN3akxCc3R3bzFVYm5JUDdGaFBraU0wNmU0TDBFUU5WeFhDbFh6a2JkdFVLSEU1dGlVN21NTDJWQmRnRVhjTnlWZWZYVVpGYTJBWEdIS1hvZHdOLXAtZ1d6aVFodlY2LXBlalJUcERfTEpkLUxaMw?oc=5",
-    "title": "145곳에 자금 뿌린 엔비디아, 21일 오전 실적 발표…AI 동향 풍향계",
-    "summary": [
-      "145곳에 자금 뿌린 엔비디아, 21일 오전 실적 발표…AI 동향 풍향계 뉴시스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
   {
     "id": "n931ee8e9",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zbkk0TGlLbjhKNTlfUTdjNV9jcVNHUldIekJhajlSM2FNdklJS3FxNDkzQzFiM0JFMXctUGNTNTB3N2xwREE3UmV5b29ya3dNTFBpdWtyZk1RX1Job3hzdGpTSEd3cmdCTldpUnlCNjNJVlk?oc=5",
     "title": "엔비디아에 메모리반도체 물량 부족 악재로 거론, \"차세대 AI칩 공급에 변수\"",
     "summary": [
@@ -36,7 +21,7 @@ window.NEWS_DB = [
     "id": "n34eebad0",
     "category": "IT",
     "source": "한국경제",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YR3k4Rm5FaG1YZE52bThaUVFRaEVjeEtfZ0Q3QTdPVW9iY1RIMHdkYnVVckJ3QVFoNE44RHpDd3FIaWRIWGJwVDUwV3hXU1cyUWdNMm0ta1dwd9IBVEFVX3lxTE11Qk9tM0ZIRU5GLUpYeG5mS1NHYjFyWFg5azNQeHMwaThxc0ZqTU1vY0U2VC1lOUhFenZuX19JUXQzckJIVjF2ZUV6OGVJSWdlZ2h3Rw?oc=5",
     "title": "'엔비디아' 실적에 달렸다…'AI 반도체'의 운명은?",
     "summary": [
@@ -44,6 +29,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n63095947",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "15시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYThnUEM4TEN1R0o1VWVoeHhORThFWVpwVmlsY3hYeDM4ZTFFeXVjVllsSHl6M1lEbXktajBNRTJhN0hlYklHaWZuM0VjVHczSVYzVGp2WnBKQlc4S0Y5XzQ3T0hQMnpqRVRnT0NWM0NrNmx2eTI0Q3ZPZ1hfZTNPV2NLUWZtU0tH?oc=5",
+    "title": "엔비디아 빗장 풀자 중국은 AMD 불렀다…한국 HBM ‘운명의 판 재편’",
+    "summary": [
+      "엔비디아 빗장 풀자 중국은 AMD 불렀다…한국 HBM ‘운명의 판 재편’ 글로벌이코노믹."
+    ],
+    "chips": [
       "#반도체",
       "#엔비디아"
     ]
@@ -215,6 +215,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne3b485bd",
+    "category": "경제",
+    "source": "한겨레",
+    "time": "40일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CS0Z5VWNMOEk5cnFlTmxxSXlzUjUwUnltT0Q3MkJPcW44aTh0cjl2NFpBbHdTR3g1a0VmVEpxM085Y0xuM1dLcjFIajNkbUYwOHhJMkdNd1ZtaGlWSmNqYmpIV0habzA?oc=5",
+    "title": "한은, 기준금리 연 2.50% 동결…7차례 연속",
+    "summary": [
+      "한은, 기준금리 연 2.50% 동결…7차례 연속 한겨레."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -240,20 +254,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n15f5f447",
-    "category": "경제",
-    "source": "지디넷코리아",
-    "time": "77일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
-    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
-    "summary": [
-      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -383,258 +383,251 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1fe32832",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/20/OD56SB4RPRGTZPI5SJEQUU3AA4/",
-    "title": "봄 폭우 속 펼쳐진 南北 여자축구 대결...승자는 북한 내고향축구단",
-    "summary": [
-      "봄 폭우 속 펼쳐진 南北 여자축구 대결...승자는 북한 내고향축구단."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n52ba9805",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260520186200007",
-    "title": "'PK 실축' 수원FC, 북한 내고향에 1-2 역전패…AWCL 결승행 불발",
-    "summary": [
-      "(수원=연합뉴스) 오명언 기자 = 한국에서는 처음으로 열린 남북 여자 축구 클럽 간 대결에서 수원FC위민이 북한 내고향여자축구단(이하 내고향)에..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n53835f5b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/regional/chungcheong/2026/05/20/PMDAMWANBZFEHHLRYLXVYT6ZRM/",
-    "title": "150만원 상당 행사 기념품 협찬… 충남지역 군수 후보자 고발",
-    "summary": [
-      "150만원 상당 행사 기념품 협찬… 충남지역 군수 후보자 고발."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3e2e1c83",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/05/20/7TCYJTKLEFFOLNJVQVA7KBDOVM/",
-    "title": "혼돈의 평택, 보수 단일화 꿈틀…유의동 “진지한 고민”",
-    "summary": [
-      "혼돈의 평택, 보수 단일화 꿈틀…유의동 “진지한 고민”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n456252e1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/20/GRSGKN3CGIZWENLGGYZTIMZUMU/",
-    "title": "공승연, 트와이스 정연 잡도리 공개에 당황 \"데뷔 티저 전날 눈 맞아\"('유퀴즈')",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘유퀴즈 온 더 블럭’ 배우 공승연이 동생 트와이스 정연의 등장에 당황했다.20일 방영된 tvN ‘유퀴즈 온 더 블럭’(이하 ‘유퀴즈’)에서는 무명 생활을 이겨낸 배우 공승연이 등장했다.",
-      "공승연은 세 자매로, 막내 동생은 유명한 트와이스 정연이다.정연은 “우리 언니 장난 아니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc02c7210",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/20/2026052014470775115",
-    "title": "'지소연 PK 실축' 수원FC 위민, 北 내고향에 1-2 뼈아픈 역전패... AWCL 4강 탈락 [수원 현장리뷰]",
-    "summary": [
-      "결정적인 순간 주장의 페널티킥 실축이 치명적이었다.",
-      "전반전 압도적인 경기력을 선보였던 수원FC 위민이 석패했다.",
-      "수원FC 위민(대한민국)은 20일 오후 7시 수원종합운동장에서 열린 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL) 준결승전에서 내고향여자축구단(북한)에 1-2로 졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1a126acc",
+    "id": "n7595677b",
     "category": "사회",
     "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260519_0003636552",
+    "title": "[속보]삼성전자 사측 \"상생 노사 문화 만드는 출발점 되도록 할 것\"",
+    "summary": [
+      "[서울=뉴시스]남주현 기자 = ◎공감언론 뉴시스 njh32@newsis.com."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n248339a9",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/economy/2026/05/20/2026052019562428890",
+    "title": "[속보]삼전노조 \"총파업 몇시간 앞 둔 시점서 잠정 합의안 도출\"",
+    "summary": [
+      "20일 최승호 초기업노조 삼성전자지부 위원장...."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nf9e42d22",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260519_0003636549",
+    "title": "[속보] 삼성전자 노사, 잠정 합의안 서명 진행",
+    "summary": [
+      "[서울=뉴시스]남주현 기자 = 소 ◎공감언론 뉴시스 njh32@newsis.com."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "na1bf1b9d",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003638367",
+    "title": "장대비 속 남북 축구 대결…공동응원단, 양팀 득점 찬스 때마다 환호·손뼉",
+    "summary": [
+      "[수원=뉴시스] 남빛나라 기자 = 남북 여자축구 클럽팀이 맞붙은 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL) 4강전은 비교적 차분한 분위기에서 치러졌다.",
+      "수원FC 위민과 북한 내고향여자축구단(내고향)은 20일 오후 7시 경기도 수원시 수원종합운동장에서 열린 2025-2026 AFC AWC 준결승전에 임했다.",
+      "경기 시작 전 양팀 선수들은 관례대로 하이파이브를 나눴다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naddc8d2a",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://www.asiae.co.kr/article/2026052022462609815",
+    "title": "[속보] 삼성전자 노사, 잠정 합의안 공식 서명",
+    "summary": [
+      "[속보] 삼성전자 노사, 잠정 합의안 공식 서명."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n9a868868",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003638228",
+    "title": "[속보]삼성전자 노조위원장 \"내부 갈등으로 심려끼쳐 국민께 송구\"",
+    "summary": [
+      "[서울·수원=뉴시스]이지용 고홍주 기자 = ◎공감언론 뉴시스 leejy5223@newsis.com, adelante@newsis.com."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n0bfda8c2",
+    "category": "사회",
+    "source": "머니투데이",
     "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638313",
-    "title": "[속보]AWCL 준결승 수원FC 위민 1-2 북한 내고향(후반 종료)",
+    "url": "https://www.mt.co.kr/economy/2026/05/20/2026052022261982083",
+    "title": "[속보]삼성전자 노사 성과급 잠정 합의 서명",
+    "summary": [
+      "20일 고용노동부 경기고용노동청...."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n6254ee12",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/20/2026052022344339729",
+    "title": "친구가 훔친 차 탔던 '촉법소년' 풀어줬더니…일주일 뒤 직접 절도",
+    "summary": [
+      "충남 천안에서 친구들과 차량을 훔쳤던 초등학생이 불과 일주일 만에 또 차를 훔쳐 타고 달아났다가 경찰에 붙잡혔다.",
+      "20일 뉴스1에 따르면 천안동남경찰서는 특수절도 및 도로교통법 위반(무면허운전) 혐의로 A군(12)과 B군(12)을 붙잡아 조사하고 있다.",
+      "A군은 이날 오전 6시30분쯤 천안시 동남구에서 B군 아버지 승용차를 훔쳐 당진까지 50여㎞를 운전한 혐의를 받는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n642cc864",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://www.asiae.co.kr/article/2026052022414302549",
+    "title": "통영선관위, 유권자에 '음식물 제공' 예비후보·선거사무장 고발",
+    "summary": [
+      "제9회 전국동시지방선거와 관련해 기부행위를 한 혐의를 받는 예비후보자와 선거사무장이 검찰에 고발됐다.",
+      "경남 통영시선거관리위원회는 예비후보자 A 씨와 선거사무장 B 씨를 기부행위를 한 혐의로 지난 18일 검찰에 고발했다고 밝혔다.",
+      "통영선관위에 따르면 A 씨와 B 씨는 5월 초 선거구민 모임에 참석해 선거운동을 하면서 20만원 상당의 음식물을 제공한 혐의를 받는다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1ada5f2b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260520/133964323/2",
+    "title": "[속보]삼전 노조 “총파업 유보…잠정합의안 찬반투표 실시”",
+    "summary": [
+      "삼성전자 노조가 파업 예고일인 21일을 하루 앞두고 총파업을 유보하고 노사 잠정 합의안을 투표에 부치기로 20일 결정했다.",
+      "삼성전자 노조는 이날 오후 투쟁 지침을 통해 “5월 21일~6월 7일 총파업은 추후 별도 지침 시까지 유보한다”며 “전 조합원은 5월 23일 오전 9시부터 28일 오전 10시까지 진행되는 2026년 임금협약 잠정합의안 찬반투표에 참여한다”고 전했다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nb9fd6040",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/20/2026052022235291947",
+    "title": "이란 최고지도자 \"공직자들, '테러 군대' 맞선 국민 위해 책임 다해야\"",
+    "summary": [
+      "[미국-이란 전쟁] '헬기 추락' 라이시 전 대통령 2주기 추모 성명, 미국과 이스라엘, '테러 군대'로 규정… \"공직자 책임 촉구 방식으로 이란 경제난 인정\" 모즈타바 하메네이 이란 최고지도자가 미국과 이스라엘을 '테러 군대'로 규정하고, 이들에 맞선 국민을 위해 정부 지도자와 관리들이 책임을 다할 것을 촉구했다.",
+      "20일(현지시간) 알자지라 등에 따르면 모즈타바는 이날 2024년 5월 헬기 추락 사고로 사망한 에브라힘 라이시 전 이란 대통령의."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6e36bfdf",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/20/HFSTOYZRHBSDMYJRMQ4GEODGMY/",
+    "title": "\"부모님 보니 알겠더라\"...이장우, 김제 마을 주민들이 밝힌 감동 '미담' ('시골마을 이장우3') [핫피플]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박근희 기자] '시골마을 이장우3’ 배우 이장우가 김제 죽산마을에서 주민들과 가슴 따뜻한 소통을 나눴다.20일 오후 MBC ‘시골마을 이장우3’ 마지막 회가 공개됐다.이장우는 김제 죽산마을의 사랑방을 깜짝 방문했다.",
+      "평소 남다른 요리 열정을 자랑해 온 이장우는 이날 마을의 파김치 명인들에게 직접 만든 요리를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n09ad445a",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260520/133964339/1",
+    "title": "남북대결서 PK 실축하고 펑펑 운 지소연 “동료들에게 미안했다”",
+    "summary": [
+      "한국 여자 축구 ‘전설’ 지소연이 WK리그 수원FC 위민을 이끌고 북한 내고향여자축구단에 설욕전을 벌였지만 페널티킥을 실축하며 눈물을 흘렸다.지소연은 20일 수원종합운동장에서 열린 내고향과의 2025~2026시즌 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL) 준결승전에서 선발 출전한 뒤 페널티킥을 놓쳤다.중앙 미드필더로 선발 출전한 지소연은 1-2로 끌려가던 후반 34분 전민지가 얻어낸 페널티킥으로 동점골을 터뜨릴 결정적인 기회를 잡았지만."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n935cda9c",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520191300007",
+    "title": "북한 내고향과 맞대결서 PK 실축한 지소연 \"변명의 여지 없다\"",
+    "summary": [
+      "(수원=연합뉴스) 오명언 기자 = 페널티킥 실축으로 북한 내고향여자축구단(이하 내고향)에 재역전할 기회를 놓친 수원FC 위민의 '베테랑' 지소연..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne446e69e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520191100003",
+    "title": "[2보] 삼성전자 노조 \"총파업 유보…잠정합의안 찬반투표\"",
+    "summary": [
+      "(서울=연합뉴스) 조성흠 한혜원 권준우 기자 = 삼성전자 노동조합이 총파업을 유보하고 노사 잠정 합의안을 투표에 부치기로 했다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n789966a7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520191200003",
+    "title": "[속보] 삼성 노조 \"5월22∼27일 임금협약 잠정합의안 찬반 투표\"",
     "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8118c335",
+    "id": "n772a811e",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638316",
-    "title": "신지, 결혼식 직후 단발로 싹둑…\"비련의 여주인공처럼\"",
-    "summary": [
-      "[서울=뉴시스]강주희 기자 = 그룹 코요태 신지가 단발머리로 변신한 과정을 공개했다.",
-      "신지는 20일 자신의 유튜브 채널에 '결혼하자마자 단발해 버린 신지 근황'이라는 제목의 영상을 올렸다.",
-      "영상에서 신지는 예식을 마친 후 곧바로 미용실로 향했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d4b0416",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260520/133963728/1",
-    "title": "‘이차전지 대장주’ 금양, 결국 상장폐지 결정",
-    "summary": [
-      "2023년 이차 전지 테마주 열풍을 주도했던 금양이 상장폐지 결정을 받았다.한국거래소는 20일 유가증권시장 상장공시위원회를 열어 금양의 상장폐지를 결정했다고 공시했다.부산에 본사를 둔 금양은 1978년 설립돼 발포제와 정밀화학 제품을 생산하다가 2020년대 이차 전지 분야에 진출했다.",
-      "이 회사의 홍보이사인 박순혁 씨는 이차 전지 사업을 적극적으로 홍보하고 관련 종목을 소개해 개미 투자자들 사이에서 ‘밧데리 아저씨’란 애칭으로 불렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n67c4f5ed",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260520185300001",
-    "title": "국힘, 李대통령 '네타냐후 체포영장' 언급에 \"경솔·외교 자해\"",
-    "summary": [
-      "(서울=연합뉴스) 권희원 기자 = 국민의힘은 20일 이재명 대통령이 베냐민 네타냐후 이스라엘 총리에게 발부된 국제형사재판소(ICC) 체포영장을 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8b39290b",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260520/133961025/1",
-    "title": "삼전 손실, 최악의 경우 100조…韓 반도체 파업에 中 웃는다",
-    "summary": [
-      "삼성전자 노사의 2차 사후조정까지 결렬되면서 파업으로 인한 천문학적 손실 우려가 커지고 있다.",
-      "한국 반도체 공급망에 대한 신뢰가 추락하고 그에 따른 경쟁사들의 반사 이익이 확대될 것이라는 지적이다.",
-      "특히 한국 반도체를 추격 중인 중국 기업들이 막대한 정부 지원과 값싼 제조원가를 앞세우는 상횡에서 삼성전자 파업이 현실화될 경우 새로운 공급망을 뚫는 기회가 될 것이란 전망도 나온다.●파업에 7087명 일해도 “생산차질 불가피”20일 반도체 업계에서."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n9afef5f8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638320",
-    "title": "\"배고픈데 밥 안 차려줘\"…비밀번호 바꾸고 문 잠근 남편",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 남편이 배고프다는 이유로 현관 비밀번호를 바꾸고 문을 열어주지 않는 등 보복성 행동을 가했다는 30대 여성의 사연이 알려져 온라인상에서 논란이 일고 있다.",
-      "지난 16일 한 온라인 커뮤니티에 따르면, 30대 후반의 결혼 8년 차 유부녀 A씨는 '남편의 태도가 상식적인지 궁금합니다'라는 제목의 글을 올리며 조언을 구했다.",
-      "A씨는 교대근무를 하는 남편이 야간근무 날 아침부터 술을 마시고 쉬는 사이, 며칠 전 미리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n38becf31",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638326",
-    "title": "이태원 트라우마로 숨진 상인 부친, 참사 유가족 단체에 기부",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 10·29 이태원 참사 당시 구조 활동에 참여한 뒤 트라우마에 시달리다가 숨진 이태원 지역 상인 백씨의 아버지가 '10·29 이태원 참사 유가족협의회(협의회)'에 기부금을 전달했다.",
-      "협의회 측은 백씨의 아버지가 최근 기부금을 보내왔다고 20일 밝혔다.",
-      "협의회 관계자는 \"백씨 아버지가 장례 기간 유가족분들이 많이 찾아줘서 협의회를 응원하는 마음으로 후원하고 싶다고 했다\"고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7f4722f",
-    "category": "경제",
     "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://www.asiae.co.kr/article/2026052020495561708",
-    "title": "\"시진핑, 이르면 다음주 북한 국빈 방문\"",
+    "time": "15분 전",
+    "url": "https://www.asiae.co.kr/article/2026052016264239591",
+    "title": "'모텔 출산 후 신생아 살해' 혐의 친모 구속 송치",
     "summary": [
-      "시진핑 중국 국가주석이 이르면 다음 주 북한을 국빈 방문할 것이라는 전망이 나온다.",
-      "20일(현지시간) 미국 시사주간 타임은 익명의 소식통을 인용해 이같이 전했다.",
-      "이 소식통은 시 주석의 국빈 방문 계획 진행을 전하면서 \"중국과 북한이 일본의 새로운 군국주의에 맞서 더욱 긴밀히 협력할 것\"이라고 설명했다."
+      "모텔 객실에서 아이를 낳은 뒤 숨지게 한 혐의를 받는 친모가 검찰에 넘겨졌다.서울 양천경찰서는 아동학대살해 혐의로 20대 A씨를 구속 송치했다고 20일 밝혔다.",
+      "경찰에 따르면 A씨는 지난 2월 서울 양천구의 한 모텔에서 아이를 낳은 뒤 숨지게 한 혐의를 받는다.",
+      "A씨는 당시 직접 119에 도움을 요청했던 것으로 조사됐다."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc0d1b84",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260520184600001",
-    "title": "유의동 \"고민 수준 높이고 있다\"…황교안과 단일화 가능성 시사",
-    "summary": [
-      "(서울=연합뉴스) 이정현 박수윤 기자 = 경기 평택을 국회의원 재선거에 출마한 국민의힘 유의동 후보는 20일 자유와혁신 황교안 후보와의 후보 단..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n37824f31",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/20/2026052020382891337",
-    "title": "\"복도서 벌레 키우는 이웃, 신고해도 나 몰라라\" 입주민 분통",
-    "summary": [
-      "한 공동주택 입주민이 공용 복도에서 벌레를 키운다는 사연이 전해져 공분을 사고 있다.",
-      "20일 한 온라인 커뮤니티 공식 SNS(소셜미디어)에는 \"바퀴벌레 복도에서 키우는 윗집 이웃\"이라는 제목 영상이 올라왔다.",
-      "영상에는 공용 복도 한쪽에 달걀판과 비닐봉지 등이 담긴 사육용 플라스틱 상자가 놓여 있고 그 안에 벌레 여러 마리가 기어다니는 모습이 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5f7cbfb9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "24분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260520/133960951/1",
-    "title": "사거리 명당에 ‘알박기’…선거철 또 불법 정당현수막 난립",
-    "summary": [
-      "“저 현수막 저기 걸려있으면 안돼요.",
-      "어린이보호구역 표지판 보이시죠?”19일 서울 중랑구 동원전통시장 앞 어린이보호구역에서 서울시 불법현수막 기동정비반의 이태회 반장이 전봇대에 걸린 정당 현수막을 가리키며 말했다.",
-      "어린이들은 현수막에 가려 신호등을 보지 못하거나 현수막 끈에 걸려 사고를 당할 위험이 커 현행법상 어린이보호구역 내 현수막 설치는 금지돼 있다."
-    ],
-    "chips": [
-      "#정치"
     ]
   }
 ];
@@ -643,21 +636,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "삼성전자",
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
