@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-20 09:02:57
+// 마지막 업데이트: 2026-05-20 10:59:52
 window.NEWS_DB = [
+  {
+    "id": "n531a7bc3",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UbjU1d0RKbTdzZGUxam1YbzdTUFkwMTAyOTlYR2l1bkRhRTZVOWNYbnRQemw3aDFuWjRhYkJ1VjJMYWQ0cTBHRFF3d0VRY3dUdlotMDhueEw3UVBPc3hXedIBeEFVX3lxTE9EMDN3akxCc3R3bzFVYm5JUDdGaFBraU0wNmU0TDBFUU5WeFhDbFh6a2JkdFVLSEU1dGlVN21NTDJWQmRnRVhjTnlWZWZYVVpGYTJBWEdIS1hvZHdOLXAtZ1d6aVFodlY2LXBlalJUcERfTEpkLUxaMw?oc=5",
+    "title": "145곳에 자금 뿌린 엔비디아, 21일 오전 실적 발표…AI 동향 풍향계",
+    "summary": [
+      "145곳에 자금 뿌린 엔비디아, 21일 오전 실적 발표…AI 동향 풍향계 뉴시스."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n931ee8e9",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zbkk0TGlLbjhKNTlfUTdjNV9jcVNHUldIekJhajlSM2FNdklJS3FxNDkzQzFiM0JFMXctUGNTNTB3N2xwREE3UmV5b29ya3dNTFBpdWtyZk1RX1Job3hzdGpTSEd3cmdCTldpUnlCNjNJVlk?oc=5",
     "title": "엔비디아에 메모리반도체 물량 부족 악재로 거론, \"차세대 AI칩 공급에 변수\"",
     "summary": [
@@ -21,7 +36,7 @@ window.NEWS_DB = [
     "id": "n34eebad0",
     "category": "IT",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YR3k4Rm5FaG1YZE52bThaUVFRaEVjeEtfZ0Q3QTdPVW9iY1RIMHdkYnVVckJ3QVFoNE44RHpDd3FIaWRIWGJwVDUwV3hXU1cyUWdNMm0ta1dwd9IBVEFVX3lxTE11Qk9tM0ZIRU5GLUpYeG5mS1NHYjFyWFg5azNQeHMwaThxc0ZqTU1vY0U2VC1lOUhFenZuX19JUXQzckJIVjF2ZUV6OGVJSWdlZ2h3Rw?oc=5",
     "title": "'엔비디아' 실적에 달렸다…'AI 반도체'의 운명은?",
     "summary": [
@@ -34,25 +49,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n63095947",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "10시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYThnUEM4TEN1R0o1VWVoeHhORThFWVpwVmlsY3hYeDM4ZTFFeXVjVllsSHl6M1lEbXktajBNRTJhN0hlYklHaWZuM0VjVHczSVYzVGp2WnBKQlc4S0Y5XzQ3T0hQMnpqRVRnT0NWM0NrNmx2eTI0Q3ZPZ1hfZTNPV2NLUWZtU0tH?oc=5",
-    "title": "엔비디아 빗장 풀자 중국은 AMD 불렀다…한국 HBM ‘운명의 판 재편’",
-    "summary": [
-      "엔비디아 빗장 풀자 중국은 AMD 불렀다…한국 HBM ‘운명의 판 재편’ 글로벌이코노믹."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "ne716768c",
     "category": "스포츠",
     "source": "네이트",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ncURrblRZa0IyaURpWnNpOFV4WEhzbVhPaTJfYnB2NmFodV9nc3I4Tl81SjZlZjdRLTAyekFybHVkTEZHYlFRQ2VpLVJka0FXeEg0?oc=5",
     "title": "야구 없는 월요일 KBO 1군 10명 사라졌다→'이두근 미세 염좌' 안우진 깜짝 말소…삼성, '70억 우완' 2군행 결단",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
     "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
     "summary": [
@@ -90,6 +90,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리",
+      "#환율"
+    ]
+  },
+  {
+    "id": "n7c5c07a7",
+    "category": "경제",
+    "source": "프리진경제",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
+    "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
+    "summary": [
+      "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정 프리진경제."
+    ],
+    "chips": [
       "#환율"
     ]
   },
@@ -137,6 +151,21 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nf055352b",
+    "category": "IT",
+    "source": "지디넷코리아",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWjFuN1NnOW9oWlBpQkVXRUpxSTFMOFVock9JSzRXc3dGNWhWM3F4em5hQlhSclBqWmFqcHVMVVBLSzN5YktjOEVrczdKMjBGM0RnclZB?oc=5",
+    "title": "중기부, 모태펀드 1.8조원 투입…AI·딥테크 '유니콘' 키운다",
+    "summary": [
+      "중기부, 모태펀드 1.8조원 투입…AI·딥테크 '유니콘' 키운다 지디넷코리아."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
     ]
   },
   {
@@ -200,20 +229,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nce5c746a",
-    "category": "IT",
-    "source": "전자신문",
-    "time": "48일 전",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnWmRZVmxBeXZBVjEzS3RCcnJiNGNORTFHMDFmR3dBNkVBanE1LVJwejlSQ2x6TGEwRXZNRHFnQktaUjNLOXRzQUJVU2NZUQ?oc=5",
-    "title": "“글로벌로 나가야 유니콘”…투자업계 “K-스타트업 범주 넓혀 해외 창업도 지원해야”",
-    "summary": [
-      "“글로벌로 나가야 유니콘”…투자업계 “K-스타트업 범주 넓혀 해외 창업도 지원해야” 전자신문."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -239,20 +254,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n15f5f447",
-    "category": "경제",
-    "source": "지디넷코리아",
-    "time": "77일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
-    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
-    "summary": [
-      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -315,6 +316,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0d5cbbcc",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152026",
+    "title": "구글, 제미나이 3.5로 에이전트 플랫폼 전환...25년 만의 검색 변화도",
+    "summary": [
+      "구글이 'I/O 2026'을 통해 에이전틱 시대의 시작을 알렸다.",
+      "일상으로 들어선 AI가 핵심 메시지다.",
+      "회사는 이를 뒷받침할 혁신을 대거 공개했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "n8fdcedcf",
     "category": "사회",
     "source": "테크M",
@@ -366,281 +383,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6c89556d",
+    "id": "n73b88832",
     "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152023",
-    "title": "[테크M 이슈] 7년 전 실수, 이미 사과하고 재단도 찾아갔다…무신사에겐 가혹한 '파묘'",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://www.asiae.co.kr/article/2026052019535593081",
+    "title": "\"손찌검 4번·머리채까지 잡혔다\"…국립수산과학원 연구원의 유서",
     "summary": [
-      "스타벅스 '탱크데이' 사태가 가라앉기도 전에 이재명 대통령이 20일 무신사의 7년 전 광고를 소환했다.",
-      "\"박종철 열사 고문치사 사건과 6월 민주항쟁을 모욕하고 조롱하는 광고\"라고 규정한 것이다.",
-      "그런데 무신사 입장에서는 억울한 면이 있다."
+      "해양수산부 국립수산과학원 산하 연구기관에서 근무하던 30대 연구원이 직장 내 괴롭힘을 호소하며 숨진 사건과 관련해 고용노동부가 기획 감독에 착수했다.",
+      "고인은 유서에서 상급자들의 폭언과 폭행, 부당한 대우를 반복적으로 겪었다고 주장한 것으로 전해졌다.",
+      "연합뉴스는 20일 대전지방고용노동청 광역노동기준감독과는 이날부터 국립수산과학원 산하 중앙내수면연구소에 대한 근로감독에 착수했다고 보도했다."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbe57719d",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/20/2026052016220268378",
-    "title": "\"韓건들면 패가망신\" 李대통령…이스라엘 총리 체포영장 초강수",
-    "summary": [
-      "[the300] 이재명 대통령이 베냐민 네타냐후 이스라엘 총리를 겨냥한 '체포영장'을 언급한 것은 우리 국민 나포에 대한 강력한 항의의 뜻으로 풀이된다.",
-      "이 대통령은 20일 청와대에서 열린 국무회의에서 한국인 활동가가 포함된 민간인 선박을 이스라엘이 나포한 데 대해 \"우리 국민을 잡아갔으니까 하는 이야기\"라며 \"항의해야 하는 것 아니냐\"라고 밝혔다.",
-      "가자지구 구호선단 측 홈페이지 및 소셜미디어(SNS)에 따르면 한국인 활동가 김동현씨가 탑승한."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n78f09999",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638214",
-    "title": "[6·3논산]오인환 \"청년이 떠나지 않는 도시 만들 것\"",
-    "summary": [
-      "[논산=뉴시스]곽상훈 기자 = 더불어민주당 오인환 논산시장 후보가 19일 오후 지역 내 청년 40여 명이 참석한 가운데 '청년 정책간담회 및 청년 임명장 수여식'을 가졌다.",
-      "이 자리에서 오 후보는 \"청년이 떠나지 않아도 되는 도시를 만들겠다\"며 지역 청년들의 주거, 일자리, 자립을 전폭적으로 지원하는 세부 공약을 내놨다.",
-      "청년과 신혼부부의 주거 안정을 도모하기 위해 10여년 째 유치권 행사로 공사가 중단된 아파트를 시 차원에서 사들여 '장기임대."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
       "#고용"
     ]
   },
   {
-    "id": "n7d7460ad",
+    "id": "n94bbc0a8",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026052018014952212",
-    "title": "춘천시, 시내버스 총파업 대비 비상수송대책 가동",
-    "summary": [
-      "강원도 춘천시가 시내버스 노사 임금협상 결렬에 따라 오는 21일 예고된 총파업 대응에 나섰다.",
-      "시에 따르면 춘천시민버스 노사는 20일 오후 강원지방노동위원회 사후조정 회의를 진행했으나 최종 합의에 이르지 못했다.",
-      "이에 따라 노조 측은 21일 하루 총파업에 돌입할 예정이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd126f32b",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260520/133962629/1",
-    "title": "잠실 사로잡은 렉서스 환대문화… 11년 만에 400만명이 ‘응답’",
-    "summary": [
-      "렉서스코리아는 20일 도심 속 체험형 문화 거점인 커넥트투(CONNECT TO)의 합산 이용자가 400만 명을 넘어섬에 따라 이를 기념하는 사은 행사를 개최했다고 밝혔다.지난 2014년 10월 서울 송파구 잠실 롯데월드몰 내에 둥지를 튼 이 공간은 인간과 모빌리티, 나아가 지역 공동체 간의 유기적 소통을 지향하며 출발했다.",
-      "단순한 신차 관람이나 주행 체험에 머무르지 않고, 브랜드 고유의 고객 환대 이념과 라이프스타일 트렌드를 공유하는 거점으로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5e63e06d",
-    "category": "경제",
     "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/20/2026052017423663977",
-    "title": "\"축의금 냈다\" 속여 답례금 17만원 챙긴 70대…결국 징역형 집유",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/20/2026052019234257610",
+    "title": "\"신중했던 李 대통령의 '납치' 비판…네타냐후 '외교 고립' 심화할 듯\"",
     "summary": [
-      "부산 한 예식장에서 하객인 척 답례금을 챙긴 70대 남성이 징역형 집행유예를 선고받았다.",
-      "20일 뉴시스와 뉴스1에 따르면, 부산지법 형사12단독 박병주 판사는 사기 혐의로 재판에 넘겨진 70대 A씨에게 징역 8개월에 집행유예 2년을 선고했다.",
-      "A씨는 지난해 6월 부산 부산진구의 한 결혼식장에서 축의금을 낸 하객처럼 행동하며 답례금 봉투를 받아 챙긴 혐의를 받는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n905f97b6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638213",
-    "title": "최휘영 장관 \"K-팝 공연장, 지방선거 후 지자체와 입지 협의\"",
-    "summary": [
-      "[서울=뉴시스]김주희 기자 = 최휘영 문화체육관광부 장관이 K-팝 공연장 건설과 관련해 6·3 지방선거 후 새로 구성되는 지방정부와 협의해 입지를 선정하겠다고 밝혔다.",
-      "최 장관은 20일 청와대에서 열린 국무회의에서 K-팝 공연장 확보에 대한 이재명 대통령의 질문에 \"새로 짓는 공연장은 지방정부가 새로 구성되면 협의해 선정하려고 한다\"고 답했다.",
-      "문체부는 K-팝 공연 수요에 비해 공연장이 부족하다고 보고, 5만석 규모와 2~3만석 규모로 나눠 확."
+      "이스라엘 매체, 李 대통령 '가자 구호선단 납치' 비판 보도… \"李 대통령 비판, '강경 발언 자제' 기존 입장 변경 시사\"… \"아시아 경제 대국 한국과 새로운 갈등으로 번질 수도\" 이스라엘 현지 언론이 이재명 대통령의 '한국인 탑승 가자 구호선단 납치' 비판 발언을 주요 뉴스로 다뤘다.",
+      "일부 매체는 이 대통령의 이번 비판이 한국과 이스라엘의 외교 갈등으로 번져 베냐민 네타냐후 이스라엘 총리의 외교적 고립 심화로 이어질 것이라고 경고했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nb90f0a47",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/kid/kid_nie/kid_upper-grades/2026/05/20/3VA2NIHFLVCGZK4V3CMXVCFEKA/",
-    "title": "ABS 도입한 MLB, 포수 역할 더 중요해졌대요!",
-    "summary": [
-      "ABS 도입한 MLB, 포수 역할 더 중요해졌대요!."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7797766c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/culture-life/performance-arts/2026/05/20/PW36ZR6HIVE3HMJGPWKB3T3FO4/",
-    "title": "발레리노 서민준, 美 ‘유스 아메리카 그랑프리’ 콩쿠르 대상",
-    "summary": [
-      "발레리노 서민준, 美 ‘유스 아메리카 그랑프리’ 콩쿠르 대상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb2acd3e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/20/2026052017344146621",
-    "title": "[내일 날씨] 전국 곳곳 비, 오후 그쳐…중부·남해안·제주 많은 비",
-    "summary": [
-      "목요일인 내일(21일) 전국에 비가 내리겠다.",
-      "20일 기상청에 따르면 이날 전국적으로 내리고 있는 비는 다음 날 오후까지 이어질 전망이다.",
-      "수도권과 강원내륙은 오후(12~18시)에, 그 밖의 전국은 밤(18~24시)에 대부분 그치겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nafb7b510",
+    "id": "na9e2e2a4",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/policy/2026/05/20/2026052015520363859",
-    "title": "\"휴머노이드 춤추고 무인로봇 진화\"…'K소방의 미래'가 눈 앞에",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://www.asiae.co.kr/article/2026052019542497939",
+    "title": "안민석, 후보직속 ‘경기교육대전환위’ 출범…“교육혁명 설계도 만든다”",
     "summary": [
-      "20일 국제소방안전박람회 개막-AI·무인소방 기술 총출동 '춤추는 로봇부터 무인 소방 로봇까지…' 20일 대구 엑스코에서 개막한 국내 최대 규모의 소방·안전 전문 전시회 국제소방안전박람회 현장은 시작부터 관람객들의 탄성을 자아냈다.",
-      "전시장 입구에서는 화재 탐지견이 꼬리를 흔들며 관람객 사이를 누볐고, 맞은편에서는 소방복을 입은 휴머노이드 로봇이 음악에 맞춰 춤을 췄다.",
-      "올해 박람회에는 소방·재난 대응 기업과 기관들이 대거 참여해 AI(인공지능)."
+      "안민석 경기도교육감 민주진보 단일후보가 후보 직속 '경기교육대전환위원회'를 공식 출범시키며 경기교육 혁신 구상을 본격화했다.",
+      "교권보호부터 AI교육, 대입개혁, 학생건강안전까지 아우르는 18개 위원회를 통해 향후 4년간 경기교육 정책의 청사진을 마련하겠다는 구상이다.",
+      "안 후보는 20일 캠프 사무소에서 열린 발대식에서 \"앞으로 4년 동안 경기교육을 어떻게 바꿀 것인지에 대한 정책과 비전의 설계도가 필요하다\"며 \"그 설."
     ],
     "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n74d042ab",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260520/133962480/2",
-    "title": "사망 사고 났던 제주 레이싱카트장, 또…9세 아이 혀 절단",
-    "summary": [
-      "초등학생이 제주에서 레이싱 카트를 타다가 사고로 혀가 잘렸다.20일 제주소방안전본부에 따르면 이날 오전 11시 8분경 제주 서귀포시 표선면에 있는 한 레이싱 카트장에서 카트를 타던 9세 초등학생이 이탈방지용 타이어에 부딪혔다는 신고가 119에 접수됐다.이 사고로 초등학생은 혀가 3~4㎝ 절단돼 병원으로 이송된 것으로 전해졌다.사고 당시 초등학생은 보호자와 카트를 같이 탄 것으로 알려졌다.",
-      "보호자가 카트를 운전하다 코스 경계에 놓인 이탈 방지 타."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n0edd60e3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003638001",
-    "title": "수채화 같은 풍경 [오늘의 한 컷]",
-    "summary": [
-      "[서울=뉴시스] 비가 내리는 20일 오전 인천 남동구 인천대공원에서 시민들이 꽃양귀비와 수레국화 핀 어울정원을 산책하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9a54e399",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260520_0003637557",
-    "title": "\"청소·계단 오르기도 운동\"…하루 5분만해도 조기 사망 위험 감소",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 윤혜림 인턴기자 = 일상생활 속 신체 활동량을 조금씩 늘리는 것만으로 장기적으로 건강에 도움이 될 수 있다는 연구 결과가 나왔다.",
-      "지난 18일(현지 시간) 영국 BBC는 빠르게 걷기, 자전거 타기, 계단 오르기 등 적당한 강도의 활동을 매일 5분씩만 해도 조기 사망의 약 10분의 1을 예방할 수 있다고 보도했다.",
-      "울프 에켈룬드 노르웨이 스포츠 대학(NIH) 신체 활동 및 건강학 교수는 \"하루 5분이라는 아주 작은 신."
-    ],
-    "chips": [
+      "#AI",
+      "#정책",
       "#교육",
       "#의료"
     ]
   },
   {
-    "id": "ne2f21836",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3분 전",
-    "url": "https://www.hankyung.com/article/2026052098121",
-    "title": "아마존웹서비스 \"2031년까지 한국에 12.6조 투자\"",
+    "id": "nbfe82431",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520091551001",
+    "title": "'공공의료기관 15년 의무복무' 국립의전원법 국무회의 통과(종합)",
     "summary": [
-      "아마존웹서비스 \"2031년까지 한국에 12.6조 투자\"."
+      "(서울=연합뉴스) 고동욱 설승은 기자 = 공공의료 분야에 종사할 의사를 양성하고, 해당 의사들은 면허 취득 후 15년간 공공의료 분야에서 의무 ..."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n93aac625",
+    "id": "n6489997c",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/20/MEYGKNTEG42TMYJVHAYTSNJRGU/",
-    "title": "'청소년 도박·아동 실종 예방 나선다' 서울 이랜드, 24일 홈경기서 '폴리스 데이' 개최!",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003638296",
+    "title": "전국 곳곳 호우주의보에…여객선·국립공원 등 통제",
     "summary": [
-      "[스포츠조선 박찬준 기자]서울 이랜드 FC가 서울양천경찰서와 손잡고 뜻깊은 홈경기를 준비한다.",
-      "서울 이랜드는 24일 오후 7시 목동운동장에서 열리는 성남 FC와의 '하나은행 K리그2 2026' 13라운드 홈경기를 '서울양천경찰서와 함께하는 폴리스 데이'로 꾸민다.",
-      "최근 청소년 사이버 도박과 아동 실종 문제가 사회적 이슈로 대두되고 있는 가운데 서울 이랜드는."
+      "[서울=뉴시스]박정영 기자 = 전국 곳곳 호우주의보로 중대본 1단계가 가동된 가운데, 여객선과 국립공원이 통제됐다.",
+      "20일 행정안전부 '중앙재난안전대책본부 호우 대처상황 보고'에 따르면 현재 전국에 10㎜ 내외의 비가 꾸준히 내리고 있으며 21일 오전과 오후 소강상태가 있을 것으로 예상된다.",
+      "앞서 행안부는 인천과 경기, 전남, 경남 등에 호우주의보가 발효됨에 따라 선제적 대응을 위해 이날 오후 4시30분을 기해 중대본 1단계를 가동했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nac845de5",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "4분 전",
-    "url": "https://www.hankyung.com/article/2026052098131",
-    "title": "'그린워싱' 차단하는 AI도 나왔다",
+    "id": "n2a358bac",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/20/2026052019440747592",
+    "title": "의식 잃은 남편 계좌서 12억 꺼냈다…\"생전 뜻\" 주장했으나 집유",
     "summary": [
-      "'그린워싱' 차단하는 AI도 나왔다."
+      "의식이 없는 상태에 빠진 재혼 남편의 계좌에서 12억원가량을 빼돌린 60대 아내가 징역형 집행유예를 선고받았다.",
+      "20일 뉴시스와 뉴스1에 따르면 수원지법 형사12부(박건창 부장판사)는 특정경제범죄 가중처벌법상 사기와 사문서위조 등의 혐의로 기소된 A씨에게 징역 2년에 집행유예 4년을 선고했다.",
+      "A씨는 2018년부터 함께 살던 B씨와 2021년 혼인신고를 했다."
     ],
     "chips": [
-      "#AI"
+      "#의료"
     ]
   },
   {
-    "id": "n3560fbaa",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "4분 전",
-    "url": "https://www.hankyung.com/article/2026052097331",
-    "title": "삼성전기 'AI반도체 소자' 美빅테크 뚫었다",
+    "id": "n63179633",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003638294",
+    "title": "외교부 \"韓유조선, 호르무즈 해협 통과\"…중동 전쟁 발발 후 처음",
     "summary": [
-      "삼성전기 'AI반도체 소자' 美빅테크 뚫었다."
+      "[서울=뉴시스] 유자비 기자 = 중동 전쟁 발발 이후 한국 유조선이 처음으로 호르무즈 해협을 통과했다.",
+      "외교부는 20일 \"우리 유조선 1척이 호르무즈 해협을 통과해 항행을 지속하고 있다\"라고 밝혔다.",
+      "해협을 통과한 유조선은 국적 선사 HMM의 초대형 원유운반선(VLCC) '유니버셜 위너호'다."
     ],
     "chips": [
-      "#AI",
-      "#반도체"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n862d7514",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/20/G4YDCMJUMU2DMYRXMRRGMOBTGU/",
+    "title": "장영란 딸, 지문검사서 ‘청각영재’ 결과 나왔다..“母처럼 예능하고파” (A급 장영란)[순간포착]",
+    "summary": [
+      "[OSEN=박하영 기자] 장영란, 한창 부부의 딸 지우가 장래희망을 고백했다.",
+      "20일 유튜브 채널 ‘A급 장영란’에는 ‘연예인 엄마 한의사 아빠 둔 장영란 아들딸이 물려받지 못한 충격적 재능?’이라는 제목의 영상이 게재됐다.이날 장영란은 어린이날을 맞아 지우, 준우와 함께 지문 검사를 진행했다.",
+      "그는 “과학적으로 목동에서 엄마들 사이에서 많이 이슈하는 게."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7580fa76",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/05/20/G5TDGYTDMNSDAOBUGY4DAMJQMQ/",
+    "title": "한양증권, 최대 연 3.4% 특판 RP 출시…500억 규모 판매",
+    "summary": [
+      "한양증권이 최대 연 3.4% 우대금리를 제공하는 특판 환매조건부채권(RP) 상품을 출시했다고 20일 밝혔다.",
+      "이번 상품의 총 판매 규모는 500억원이다.",
+      "이번 특판 RP는 최근 1년간 한양증권 RP 거래 이력이 없는 신규 고객과 기존 고객을 대상으로 판매된다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n4feb0837",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520182300008",
+    "title": "제룡전기, 애프터마켓서 10%대 급등",
+    "summary": [
+      "(서울=연합뉴스) 코스닥 상장사 제룡전기[033100]가 20일 애프터마켓에서 10%대 급등 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n02568ef7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/20/MRTDEMDFGQZTMOLGGNRGINJZMY/",
+    "title": "재산 압류→월드컵 낙마, 그래도 동료 응원한 아즈문…“행운을 빈다, 친구들”",
+    "summary": [
+      "[OSEN=이인환 기자] 사르다르 아즈문(31, 샤바브 알 아흘리)이 월드컵 무대에서 밀려났다.",
+      "정치적 논란 속에 대표팀 명단에서 빠졌지만, 그는 동료들을 향한 응원을 멈추지 않았다.미국 ‘워싱턴 포스트’는 20일(한국시간) “이란 대표팀에서 정치적 이유로 월드컵 명단에 들지 못한 아즈문이 소셜 미디어를 통해 대표팀 동료들을 응원했다”고 보도했다.이란 대표."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na0dc6224",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520096152004",
+    "title": "5·18 '탱크데이' 파장…정용진, 명예훼손으로 고발당해(종합)",
+    "summary": [
+      "(서울=연합뉴스) 한지은 유한주 기자 = 스타벅스코리아의 '탱크데이' 프로모션 논란과 관련해 정용진 신세계그룹 회장과 손정현 전 스타벅스코리아 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb227c689",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260520/133960013/1",
+    "title": "러시아-우크라 전쟁 격화 속 대서양동맹 약화 조짐",
+    "summary": [
+      "사흘간의 휴전이 끝나자마자 19일 러시아와 우크라이나가 고강도 공격을 주고받은 가운데, 미국과 유럽의 대서양동맹이 갈수록 약화되는 조짐이 나타나고 있다.",
+      "도널드 트럼프 미 행정부가 주독미군 감축 발표에 이어 전시 북대서양조약기구(NATO·나토) 동맹국들에 제공할 군사 지원 규모도 줄이기로 결정한 것.",
+      "이 같은 대서양동맹의 균열을 틈타 러시아는 나토 회원국에 대한 보복 공격 가능성을 시사하며 라트비아를 위협하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb5903694",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003638268",
+    "title": "[속보]AWCL 준결승 수원FC 위민 0-0 북한 내고향(전반 종료)",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c907827",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260520182000005",
+    "title": "'세계의 주인' 디렉터스컷어워즈 3관왕…유해진·박지훈 배우상",
+    "summary": [
+      "(서울=연합뉴스) 박원희 기자 = 윤가은 감독의 영화 '세계의 주인'이 올해 디렉터스컷 어워즈에서 3관왕을 차지했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb2bd6431",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/20/2026052019420037364",
+    "title": "대낮 여중생 폭행·납치 시도에 제주 '발칵'…60대 남성 긴급체포",
+    "summary": [
+      "대낮 제주에서 미성년자를 폭행하고 납치하려 한 60대 남성이 경찰에 붙잡혔다.",
+      "이 남성은 누범 기간에 범행을 저지른 것으로 나타났다.",
+      "20일 뉴스1·뉴시스에 따르면 제주동부경찰서는 미성년자약취 등 혐의로 60대 남성 A씨를 붙잡아 조사하고 있다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nf5af7aeb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260520_0003638288",
+    "title": "[6·3충남]민주·국힘 21일 출정식 '필승' 의지",
+    "summary": [
+      "[천안=뉴시스]최영민 기자 = 제 9회 전국동시지방선거(지선) 공식 선거운동이 21일 시작된다.",
+      "충남에서도 수부도시인 천안지역을 중심으로 본격 선거전이 펼쳐진다.",
+      "여당인 더불어민주당의 경우 오전 7시 30분 천안시 쌍용동 일봉산사거리 일원에서 박수현 충남도지사 후보, 장기수 천안시장 후보를 비롯한 시·도의원 후보들이 참여한 가운데 합동 출정식을 갖는다."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -650,20 +650,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
