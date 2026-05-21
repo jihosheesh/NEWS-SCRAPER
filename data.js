@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-21 16:05:05
+// 마지막 업데이트: 2026-05-21 17:40:01
 window.NEWS_DB = [
   {
     "id": "n17cbc59e",
     "category": "IT",
     "source": "IT조선",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05dzJNbkhKLVVya1pVVUExQmZvLU5pRXN2VEZLaDVzVThpYVhMamVlaEtvVlBaQm15OHBRZ1hSZzRsM0RkWnl4Ulc2a3hYUi1MV2h6U01zb3l3QVJHdmZyQmd5cnpqNHBaWTZadzNxTVbSAXRBVV95cUxQX0hDRThEQjBid3RGQkRzUnpRNzNsWEhWMTJ5NHliYmg4Rnd3ZGVLMFJBU2lWMEVjWHpETTZnRXF4YUJ0T25WNTdRQUVQTUk0Z2Y3cTd1RTNoUUtIMXdJRU03VE9PS045emZXenIwYnNJd0EySg?oc=5",
     "title": "中, 엔비디아 게임용칩 수입 금지… 화웨이 밀어주기",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n39284845",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85UGdveXJTWlVaSlZ0Z2pkVklvQWR6dUVMZVFYVlNBSk5GTTFBNWxrdVRYS0JETEhicFNnRGJqaHlXVkJWaG9fNFpEb2FxRmtUQmZKQkFDYjJZSlZrTFo1dzcyR0JPY3Z2ajVScw?oc=5",
     "title": "대구·대전·광주·울산서 글로벌 창업도시 첫 깃발 날린다",
     "summary": [
@@ -33,7 +33,7 @@ window.NEWS_DB = [
     "id": "na808957c",
     "category": "IT",
     "source": "Vietnam.vn",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWEdJWlhvS3NhWG41MVFRMTFrbkdaSlF2eGdoY01MUE9VUVVqYmtQZlZGT09QX3BuamQ4Wk9pRHFGUzRBcWN4YzBISVM4ZTdMZ2JVejNTYVFXZGtRRV8yMXVuaEV6TFBUMjNtSGR2RFN4VG93OUY0b3FXV3AwSE1TbE5zY2FvcWc4dXgyOE1CVUw?oc=5",
     "title": "인공지능 열풍이 사그라들 기미를 보이지 않으면서 엔비디아의 매출은 계속해서 기록을 경신하고 있습니다.",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "n184fdfa5",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YVndkeXFzNVhzLWxZbVZHSVROTkZBNmxiLTY1NE5haC1mUXplYWJ4ZEF5M1lFZXAtNzE4dDRrZ0E2Zi1aZnU5YkJNTEViY2V2ZnBOMjNLZ1llcVJKNDF2SmhpckI5QjBsQ1V4TUN3RFNybFU?oc=5",
     "title": "엔비디아 실적이 '인공지능 버블' 우려 불식, CPU와 피지컬 AI 잠재력에 증권가 주목",
     "summary": [
@@ -57,21 +57,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
     ]
   },
   {
@@ -105,20 +90,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne716768c",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ncURrblRZa0IyaURpWnNpOFV4WEhzbVhPaTJfYnB2NmFodV9nc3I4Tl81SjZlZjdRLTAyekFybHVkTEZHYlFRQ2VpLVJka0FXeEg0?oc=5",
-    "title": "야구 없는 월요일 KBO 1군 10명 사라졌다→'이두근 미세 염좌' 안우진 깜짝 말소…삼성, '70억 우완' 2군행 결단",
-    "summary": [
-      "야구 없는 월요일 KBO 1군 10명 사라졌다→'이두근 미세 염좌' 안우진 깜짝 말소…삼성, '70억 우완' 2군행 결단 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n76cd35a4",
     "category": "경제",
     "source": "이코노미트리뷴",
@@ -131,6 +102,20 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n3b29faae",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13MDVfMXVFdS1ndDZPT3Y4SWhyUU5ONVA3bXRacFFQU3lEdFJORVJkQklNNkxsMnJ5VV9FNGhuX0pNTGRTQmtWWW1rdVVvZUhTWVBiaEN3?oc=5",
+    "title": "식품업계, 월드컵 앞두고 축구·야구 등 스포츠팬덤 공략 나서",
+    "summary": [
+      "식품업계, 월드컵 앞두고 축구·야구 등 스포츠팬덤 공략 나서 매일경제."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -296,6 +281,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb04cef68",
+    "category": "사회",
+    "source": "경기일보",
+    "time": "97일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
+    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
+    "summary": [
+      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -343,10 +343,89 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfe3b960a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003640229",
+    "title": "독일 총리, EU에 우크라이나 '준회원' 지위 부여 제안",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 프리드리히 메르츠 독일 총리는 21일(현지 시간) 우크라이나의 유럽연합(EU) '준회원' 지위를 부여하자는 제안을 내놓았다.",
+      "우크라이나 종전 협상 진전 차원에서다.",
+      "AFP통신 등에 따르면 메르츠 총리는 이날 우르줄라 폰데어라이엔 EU 집행위원장, 안토니우 코스타 EU 정상회의 상임의장에게 서한을 보내 이같이 제안했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1a92982e",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/22/2026052202282666924",
+    "title": "비비 \"관객과 입술 뽀뽀도 한다\"…파격 팬서비스에 '문화 충격'",
+    "summary": [
+      "비비가 공연 중 관객들과 뽀뽀까지 하는 파격 팬서비스를 공개해 모두를 놀라게 했다.",
+      "21일 방영된 KBS2 '옥탑방의 문제아들' 315회에서는 비비와 양상국이 출연해 입담을 뽐냈다.",
+      "이날 송은이는 \"비비가 17개 도시 월드투어를 하고 왔다\"며 최근 글로벌 스타로 활약 중인 비비를 소개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n104035cc",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/22/MU3DOYRWMIYDGODFMUZDONBTHE/",
+    "title": "\"꿈속 상상이 현실로\" 마무리 변신한 손주영 → 얼굴 가득 환한 미소 \"LG 마무리 내꺼야!\" [인터뷰]",
+    "summary": [
+      "[광주=스포츠조선 김영록 기자] \"올해 포스트시즌까지 내가 마무리를 하고 싶다.",
+      "감독님께도 말씀드렸다.\" LG 트윈스 손주영(28)이 마무리 변신으로 들뜬 속내를 드러냈다.",
+      "손주영은 21일 광주 KIA 타이거즈전 8회말 2사 1,2루에서 등판, 4아웃을 책임지며 팀의 5대3 승리를 매조지했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb1e99e3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/22/MI4DOYTFMM2GMYJTMM2DKZDDGY/",
+    "title": "9회 1,2루 김도영 짜릿 삼진→나성범 적시타 맞고 동점위기...'4아웃 진땀 세이브' 손주영 \"선발 6이닝 보다 더 힘들다\"",
+    "summary": [
+      "[OSEN=광주, 이선호 기자] \"6이닝 던질 때 보다 더 힘들었다\".LG트윈스 임시 클로저 손주영(28)이 멀티이닝의 어려움을 느꼈다.",
+      "3점차에 등판해 아찔한 동점 위기까지 몰리면서 선발 6이닝보다 더 힘들다는 토로도 했다.",
+      "그럼에도 선발투수로 느낄 수 없었던 짜릿함을 즐기면서 포스트시즌까지 마무리를 하겠다는 희망을 보였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc899ff5",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522003500091",
+    "title": "\"'후발주자' MS, 앤트로픽에 자체 AI칩 공급 논의…첫 외부공급\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 반도체 개발의 후발주자로 지목됐던 마이크로소프트(MS)가 '클로드' 개발사 앤트로픽에..."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
     "id": "n80d61a77",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "14분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152068",
     "title": "\"내가 창가석 좋아하는 것도 알아?\"...'기억하는 AI'에 센드버드 부스 발길",
     "summary": [
@@ -359,10 +438,116 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc8ef8f47",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/22/2026052122035182836",
+    "title": "'월드컵 직전' 손흥민 작심발언 \"홍명보호 주장은 내가 맞지만... 축구는 팀 스포츠\"",
+    "summary": [
+      "과거 토트넘 홋스퍼의 전성기를 이끌며 유럽 무대를 누볐던 손흥민(34·LAFC)이 친정팀의 충격적인 강등 위기를 지켜보는 속상한 심경과 오는 국제축구연맹(FIFA) 북중미월드컵을 앞둔 심정을 솔직히 밝혔다.",
+      "미국 매체 'USA투데이'는 21일(한국시간) 손흥민과의 인터뷰를 집중 보도했다.",
+      "손흥민은 해당 매체를 통해 토트넘을 향한 변함없는 애정과 오는 2026 FIFA 북중미월드컵을 앞둔 각오를 전했다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n32a115df",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260521_0003640200",
+    "title": "이지혜 \"서지영도 내 눈치 많이 봤을 것\" 자책",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 혼성그룹 샵 출신 가수 이지혜가 과거 멤버 서지혜와의 불화를 언급했다.",
+      "21일 이지혜의 유튜브 채널에는 '이지혜 VS 서인영 처음 밝히는 20년전 이야기 하다 펑펑 운 이유는?'이라는 제목의 영상이 공개됐다.",
+      "이지혜는 과거를 회상하며 \"시간 지나면 뭐 그렇게 그랬을까 싶다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc28a8cdd",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/05/22/MI3WIZLEMZRDEZBVHAZDGMDDGA/",
+    "title": "김혜성 다시 생존 게임 시작되나, '한국계' GG 내야수 에드먼 복귀 초읽기…\"다음 주 마이너리그 재활 경기 가능\"",
+    "summary": [
+      "[OSEN=홍지수 기자] 부상으로 이탈했던 토미 에드먼이 복귀를 향한 마지막 단계에 돌입했다.LA 다저스 데이브 로버츠 감독은 21일(한국시간) 구단 소식을 통해 “에드먼이 이번 주말 애리조나로 이동해 라이브 BP(실전 타격 훈련)를 진행할 예정”이라며 “상태에 문제가 없다면 이르면 다음 주 마이너리그 재활 경기에 나설 수 있다”고 밝혔다.에드먼은 현재 복."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc80d73f7",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/22/2026052201505572954",
+    "title": "'도박 중독' 남편, 아내 앞 무릎 꿇고 삭발 \"말로는 못 믿을 테니\"",
+    "summary": [
+      "중독 부부 남편이 도박 근절을 약속하며 삭발까지 감행했다.",
+      "21일 방영된 JTBC '이혼 숙려 캠프' 87화에서는 중독 부부의 최종 조정이 진행됐다.",
+      "이날 부부는 최종 선택에서 이혼 대신 혼인을 유지하기로 결정했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3af76e7d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522003200072",
+    "title": "일라이릴리 \"차세대 비만약 임상결과 체중 28% 감량효과\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 제약사 일라이릴리가 개발 중인 차세대 비만치료제가 고도비만 환자를 대상으로 한 후기 임상시험에서 비만대..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2126e260",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522003100075",
+    "title": "테슬라, 중국에서도 자율주행 서비스 도입…인력 긴급채용",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 일론 머스크가 이끄는 전기차 기업 테슬라가 중국에서도 자율주행 서비스에 나선다."
+    ],
+    "chips": [
+      "#전기차",
+      "#채용"
+    ]
+  },
+  {
+    "id": "ne16ca8b3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/22/GY3DMMJSMM4DQNRXHA2WCNLBMI/",
+    "title": "'조기 교체, 큰 부상을 막았다' PSG 에이스 뎀벨레, 아스널과의 UCL 결승 출전 이상무! \"건강하다, 준비 완료\"",
+    "summary": [
+      "[스포츠조선 노주환 기자]\"나는 챔피언스리그 결승에서 경기할 준비가 돼 있다.\" 지난 19일(한국시각)파리FC와의 프랑스 리그1 원정 최종전, 전반 27분 다리를 절뚝이며 조기 교체된 파리생제르맹(PSG) 에이스 오스만 뎀벨레가 유럽챔피언스 결승전 출전에 강한 의지를 드러냈다.",
+      "자신의 몸 컨디션은 아무런 문제가 없고, 또 경기에 출전할 준비가 돼 있다는 것."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
     "id": "nc60e612f",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "32분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152066",
     "title": "[플레이엑스포 26] 하이브부터 네이버웹툰까지...B2B 기회의 땅",
     "summary": [
@@ -376,144 +561,72 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f057ffa",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/05/22/BK3WWWP2YBC3PM4GTMOWT7KNDA/",
-    "title": "인간이 승부수 던지려 할 때, AI 파트너는 냉정히 막아",
-    "summary": [
-      "인간이 승부수 던지려 할 때, AI 파트너는 냉정히 막아."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nd7264866",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/22/2026052115371976997",
-    "title": "\"살아있는 게 다행\" 백승호 동료 두크슈, 벤츠 몰고 만취 교통사고... \"술 먹고 음악 켜다가, 여성 2명 사상\"",
-    "summary": [
-      "잉글랜드 프로축구 버밍엄 시티 소속의 독일 국가대표 출신 공격수 마르빈 두크슈(32)가 음주운전 사고를 내 법원으로부터 거액의 벌금형과 면허정지 처분을 받았다.",
-      "영국 '더선'은 21일(한국시간) \"두크슈가 음주운전 중 차량 2대를 들이받아 승객을 다치게 한 혐의로 재판에 넘겨져 워릭셔 치안법원으로부터 벌금 1만 6155파운드(약 3268만원)를 선고받았다\"고 보도했다.",
-      "법원은 두크슈에게 14개월간의 운전면허 정지 처분도 함께 내렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n91624334",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260521_0003639467",
-    "title": "사은품이라며 준 만병통치약…\"당장 신고하세요\"",
-    "summary": [
-      "[서울=뉴시스]송종호 기자 = 건강 강좌나 휴지 무료 나눔 등을 미끼로 어른신을 모으는 홍보관, 이른바 '떴다방'을 통한 피해가 여전하다.",
-      "일정 기간만 임시 매장 형태로 운영하는 떴다방은 건강기능식품이나 의료기기 등을 시중보다 고가에 판매한다.",
-      "일부는 일반 식품을 건강기능식품으로, 공산품을 의료기기로 속여 파는 경우도 있어 각별한 주의가 필요하다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n791143fc",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/22/GEYTGNBSHBSGCZRYGU2GKYRZGM/",
-    "title": "서인영, 조민아 불화설 고백 \"결혼식 혼자 안 불렀다...내가 미안\" ('관종언니')[순간포착]",
-    "summary": [
-      "[OSEN=연휘선 기자] 걸그룹 쥬얼리 출신 가수 서인영이 전 멤버 조민아와의 불화설에 대해 직접 언급하며 미안함을 표했다.",
-      "지난 21일 유튜브 채널 '밉지 않은 관종언니'에서는 '이지혜 VS 서인영 처음 밝히는 20년전 이야기 하다 펑펑 운 이유는?'이라는 제목의 영상이 게재됐다.",
-      "영상에는 혼성그룹 샵 출신 가수 이지혜가 가요계 절친한 동생 서인영을 만나."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7d69ea8c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/22/GAZWCNBTGNRDEODGMIYDKMRXMY/",
-    "title": "'나솔사계' 25기 영자, 계약 위반으로 라이브 방송 불참[순간포착]",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘나는 SOLO, 그 후 사랑은 계속된다’ 25기 영자가 20기 영식과 최종 커플이 되었으나 라이브 방송에 불참해 시선을 끌었다.21일 방영한 ENA, SBS Plus 예능 ‘나는 SOLO, 그 후 사랑은 계속된다’(이하 ‘나솔사계’)에서는 최종 선택이 이뤄졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd89fe707",
+    "id": "nd051ed9c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260522001100108",
-    "title": "핵전력 과시한 푸틴 \"벨라루스와 연합 핵훈련 목표 달성\"",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522002800071",
+    "title": "美국무 \"이란, 호르무즈 통행료 추진하면 외교 합의 불가능\"",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 블라디미르 푸틴 러시아 대통령은 러시아와 벨라루스의 연합 핵훈련 목표가 완전히 달성됐다고 21일(현지시간..."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 마코 루비오 미국 국무장관은 21일(현지시간) 이란이 추진하는 호르무즈 해협 통행료 징수에 대해 \"그런 방..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n138ab381",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "38분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/22/2026052117251041928",
+    "title": "\"탭 안 쳤으면 뼈 부려졌다\" 상대도 인정, 女 최강 파이터 론다 로우지 '15초만 K.O'... 넷플릭스 역대 최고 시청 신기록",
+    "summary": [
+      "론다 로우지(39)의 10년 만의 복귀전이 전 세계 1700만명의 시청자를 끌어모으며 미국 종합격투기(MMA) 흥행 역사를 새로 썼다.",
+      "영국 BBC는 21일(한국시간) \"로우지가 지나 카라노를 꺾은 이번 대회가 넷플릭스 전 세계 최고 시청자 수 1700만명을 돌파하며 종전 기록인 900만 명을 가볍게 뛰어넘었다\"고 보도했다.",
+      "로우지는 17일(한국시간) 미국 캘리포니아주 잉글우드 인튜이트 돔에서 열린 제이크 폴의 '모스트 밸류어블 프로모션(MVP."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n807e30b6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003640226",
+    "title": "트럼프, 이란 호르무즈 통행료 어조 변화…\"지켜볼것\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 21일(현지 시간) 이란의 호르무즈 해협 통행료 징수와 관련해 \"지켜보자\"며 원하는 그림은 아니라고 밝혔다.",
+      "이란의 통행료 징수를 내버려두지 않겠다는 과거 발언에 비해서는 한층 누그러진 어조라 입장 변화가 주목된다.",
+      "트럼프 대통령은 이날 백악관 집무실에서 이란이 오만과 호르무즈 해협에 영구적인 통행료 부과 시스템을 구축하는 방안을 논의 중이라는 언론 보도에 대해 \"지켜보고 있고 그."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n731c1805",
+    "id": "n61175689",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260522000500109",
-    "title": "교황 \"무기로 평화 추구하는 시대…대화 외교로 돌아가야\"",
-    "summary": [
-      "(바티칸=연합뉴스) 민경락 특파원 = 레오 14세 교황은 21일(현지시간) \"대화를 촉진하고 합의를 모색하는 외교로 돌아가는 일이 시급하다\"고 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n71b50b6e",
-    "category": "경제",
     "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260521_0003640216",
-    "title": "이란 협상 우려에 국제유가 다시 상승…WTI 4.2%↑",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003640223",
+    "title": "크렘린궁 \"푸틴, 시진핑에 '이란 농축 우라늄' 러로 반출 제시\"",
     "summary": [
-      "[서울=뉴시스] 김예진 기자 = 국제유가는 21일(현지 시간) 원유 공급난과 이란 전쟁 협상 난항 우려에 상승하고 있다.",
-      "CNBC, 마켓워치에 따르면 이날 뉴욕상업거래소에서 미국 서부텍사스산원유(WTI) 7월물은 전 거래일 대비 4.2% 오른 배럴당 102.39달러를 기록했다.",
-      "글로벌 벤치마크인 브렌트유 7월물도 3.6% 상승한 배럴당 108.74달러에 거래됐다."
+      "[서울=뉴시스] 김예진 기자 = 시진핑 중국 국가주석은 블라디미르 푸틴 대통령에게 최근 도널드 트럼프 미국 대통령의 방중에 대한 내용을 공유했다고 러시아 크렘린궁이 21일(현지 시간) 발표했다.",
+      "타스통신에 따르면 드미트리 페스코프 크렘린궁 대변인은 이날 브리핑에서 푸틴 대통령과 시 주석의 비공식 차담회에서 이러한 내용이 다뤄졌냐는 질문에 \"물론\"이라며 \"매우 상세한 대화가 있었고, 그 내용도 포함됐다\"고 답했다.",
+      "트럼프 대통령은 지난 13~15."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89f6ceec",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260522000400079",
-    "title": "전쟁 직격탄 맞은 레바논 경제…\"올해 최소 7% 역성장\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘과 레바논 무장정파 헤즈볼라 간의 전쟁으로 올해 레바논 경제가 최소 7% 역성장하고, 피해 규모는 ..."
-    ],
-    "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
     "id": "n000f0b3c",
     "category": "경제",
     "source": "한국경제",
-    "time": "25분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202605222959i",
     "title": "스페이스X 6월 상장, 우주 투자 어떻게? [김현석의 퀵브리프]",
     "summary": [
@@ -521,111 +634,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nb54c6ab7",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260522/133972742/1",
-    "title": "‘김건희 만루포’ 키움, SSG와 3연전 싹쓸이…삼성, KT 꺾고 단독 선두",
-    "summary": [
-      "프로야구 키움 히어로즈가 에이스의 역투, 안방마님의 만루포를 앞세워 시즌 첫 4연승을 내달렸다.키움은 21일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 SSG 랜더스와의 홈 경기에서 6-0 승리를 따냈다.앞서 열린 SSG와의 시리즈 두 경기를 모두 짜릿한 끝내기 승리로 가져간 키움은 이날 경기 초반 터진 김건희의 만루포(시즌 4호)에 힘입어 일찌감치 승기를 잡았다.4연승에 성공한 키움은 시즌 19승(1무 26패)째를 쌓았다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb2ed925f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "31분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260522/133972739/1",
-    "title": "‘아들 5살’ 김용건, 벌써 팔순…황보라 “축하드려요”",
-    "summary": [
-      "배우 황보라가 시아버지인 배우 김용건의 팔순을 축하했다.황보라는 21일 소셜미디어에 “아부지 생신 축하드려요”라는 글과 함께 사진을 공개했다.사진 속 황보라는 아들을 품에 안고 김용건과 포즈를 취했다.공개된 또 다른 사진에는 ‘아버지 팔순을 진심으로 축하드립니다.",
-      "여든 해 아버지의 시간에 깊이 감사드립니다’라고 적힌 현수막이 담겼다.",
-      "황보라는 김용건의 아들이자 하정우의 동생인 김영훈(예명 차현우)과 10년간의 교제 끝에 2022년 결혼해 슬하에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n853a6ba4",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "31분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/22/2026052118195665387",
-    "title": "'드디어 나왔다' 2026 KBO 오피셜 컬렉션 카드 전격 출시→구매는 어디서? \"온라인도 가능\"",
-    "summary": [
-      "한국야구위원회(KBO)가 대원미디어와 함께 '2026 KBO 오피셜 컬렉션 카드'를 출시한다.",
-      "KBO는 21일 \"대원미디어는 다양한 TCG 및 스포츠 컬렉션 카드를 제작해온 콘텐츠 전문 기업\"이라면서 \"지난 2018년부터 KBO와 함께 공식 라이선스 카드 제품을 지속 선보이고 있다\"고 설명했다.",
-      "이어 \"지난해 출시된 '2025 KBO 오피셜 컬렉션 카드'는 총 420만 팩이 완판되며 팬들의 높은 관심을 받았다\"면서 \"이번에 출시되는 '2026."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n632cd2bc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260522000300081",
-    "title": "228명 숨진 항공참사…17년만에 에어프랑스·에어버스 과실치사 유죄",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 2009년 브라질 리우데자네이루에서 프랑스 파리로 향하던 여객기 추락 사고와 관련해 항공사와 항공기 제조업체..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7873f598",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260522/133972736/1",
-    "title": "서인영, 조민아와 갈등 고백 “결혼식 안 불러”",
-    "summary": [
-      "가수 서인영이 쥬얼리 멤버들과의 갈등에 대해 고백했다.21일 이지혜의 유튜브 채널에는 ‘쥬얼리 서인영 VS 샵 이지혜 그 시절 썰 풀다 펑펑 운 이유는?’이라는 제목의 영상이 게재됐다.서인영은 쥬얼리 멤버 중에 누구와 가장 심하게 싸웠냐는 질문에 “솔직히 말해서 (이)지현 언니랑 잘 안 맞았다.",
-      "그때는 언니가 왜 얼음공주처럼 저러지 싶었다”고 말했다.그는 “지금은 너무 친하고 통화하면 서로 걱정한다”면서도 “그런데 어렸을 때는 결이 안 맞았다”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8a7d1d7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260522/133972733/1",
-    "title": "[오늘날씨]오전부터 점차 맑아져…낮 최고기온 17~27도",
-    "summary": [
-      "금요일인 22일은 강원과 경북, 전남, 제주 등 전국 곳곳에서 빗방울 떨어지는 곳이 있겠다.기상청은 “새벽까지 강원동해안·산지와 경북북부동해안·북동산지에 비가 내리는 곳이 있겠다”며 “오전부터 오후 사이 제주도에 비가 내리는 곳이 있겠다”고 예보했다.새벽에 전남남해안과 경남권, 제주도에는 0.1㎜ 미만의 빗방울이 떨어지는 곳이 있겠고, 오후에 전남북서부에는 소나기가 내리는 곳이 있겠다.예상 강수량은 제주도 5㎜ 미만, 전남북서부(소나기) 5㎜."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f8c58b1",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "36분 전",
-    "url": "https://www.asiae.co.kr/article/2026052200282102871",
-    "title": "美 주간 신규 실업수당 청구 20만9000건…전주 대비 감소",
-    "summary": [
-      "미국의 지난주 신규 실업 수당 청구 건수가 한 주 전보다 감소한 것으로 나타났다.",
-      "미국 노동부는 지난주(5월 10~16일) 신규 실업수당 청구 건수가 20만9000건으로 전주 대비 1만2000건 감소했다고 21일(현지시간) 밝혔다.",
-      "이는 다우존스가 집계한 전문가 전망치 21만건을 밑도는 수치다."
-    ],
-    "chips": [
-      "#고용"
     ]
   }
 ];
@@ -635,8 +643,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
@@ -646,9 +654,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "채용",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
