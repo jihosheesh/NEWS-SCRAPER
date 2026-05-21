@@ -1,11 +1,43 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-21 05:22:51
+// 마지막 업데이트: 2026-05-21 07:12:01
 window.NEWS_DB = [
+  {
+    "id": "nb1dbef79",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "35분 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MbU9EamJybnE1Rzh1eUV4UnBJODJnMnltSFNjNzh5Y0VRcmZhSzFJWE5GWkhUbXNyRk5rX0VWYjNuUmR2YnV5X0hmT3dkOWM?oc=5",
+    "title": "[종합] 엔비디아가 다시 증명한 AI 반도체 수요…외신 \"둔화 우려 낮췄다\"",
+    "summary": [
+      "[종합] 엔비디아가 다시 증명한 AI 반도체 수요…외신 \"둔화 우려 낮췄다\" v.daum.net."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "summary": [
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
   {
     "id": "na808957c",
     "category": "IT",
     "source": "Vietnam.vn",
-    "time": "38분 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWEdJWlhvS3NhWG41MVFRMTFrbkdaSlF2eGdoY01MUE9VUVVqYmtQZlZGT09QX3BuamQ4Wk9pRHFGUzRBcWN4YzBISVM4ZTdMZ2JVejNTYVFXZGtRRV8yMXVuaEV6TFBUMjNtSGR2RFN4VG93OUY0b3FXV3AwSE1TbE5zY2FvcWc4dXgyOE1CVUw?oc=5",
     "title": "인공지능 열풍이 사그라들 기미를 보이지 않으면서 엔비디아의 매출은 계속해서 기록을 경신하고 있습니다.",
     "summary": [
@@ -20,7 +52,7 @@ window.NEWS_DB = [
     "id": "n184fdfa5",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YVndkeXFzNVhzLWxZbVZHSVROTkZBNmxiLTY1NE5haC1mUXplYWJ4ZEF5M1lFZXAtNzE4dDRrZ0E2Zi1aZnU5YkJNTEViY2V2ZnBOMjNLZ1llcVJKNDF2SmhpckI5QjBsQ1V4TUN3RFNybFU?oc=5",
     "title": "엔비디아 실적이 '인공지능 버블' 우려 불식, CPU와 피지컬 AI 잠재력에 증권가 주목",
     "summary": [
@@ -32,26 +64,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3207929c",
-    "category": "IT",
-    "source": "뉴스1",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhZTh6Qmp5NFJyckVqYVhNVEUtWlNNdDNpNGFOZHgzWVhDVHJOdzg0RWc5bGJoYVRtUG4tQlo3YlZGcm9JaUZITUl1X3ZzeUJ3MTN1QWpMSU8?oc=5",
-    "title": "엔비디아 실적 기대에 미국 반도체 급등…\"AI 낙관론\" 다시 주도",
-    "summary": [
-      "엔비디아 실적 기대에 미국 반도체 급등…\"AI 낙관론\" 다시 주도 뉴스1."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nd6d3ee0b",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbFUyVjZHbTVvTTVBdkRJOEhGRjRSTGxXdGpJdVE2NnNKaWV2cHQxbGNUNjktVWk0Tlo5NEtxaGxRdWZJV0NGTWs0amtrZHNzWnZ1YkRvMjVweFdZRXBITEllb2FFZDA4VmhJNw?oc=5",
     "title": "'APEC 스타트업 얼라이언스' 출범…회원국 교류·협력 추진",
     "summary": [
@@ -76,26 +92,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n02951820",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
-    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
-    "summary": [
-      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n76cd35a4",
     "category": "경제",
     "source": "이코노미트리뷴",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCVVU1ZnBoUzFRSHAtaTUxaUVEN0ZCQW9WVG12bVRHQnJOSzd4Y0pueEZPNkhGd0JCWEt4U3ZMcjdXU3FWeGlneDhrNzd2UmNQdHlxbDFHWmlLdEhMenRVQUhVRVVOd3d3d1lKajdMd1poSi1CWmJv?oc=5",
     "title": "국채금리 4.18%·환율 1500원 턱밑…코스피 8000선 돌파 후 급락",
     "summary": [
@@ -150,6 +150,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2970703c",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
+    "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
+    "summary": [
+      "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게? 글로벌이코노믹."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -167,14 +183,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neba26e25",
+    "id": "nf055352b",
     "category": "IT",
-    "source": "국민뉴스",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NVFBwZDRpS2ZXRVFGaTFlUF92emtlOVBCbkJKZWZtb09BNmpkckQzZmpDdGVjYURFZUFKZVpiMzB4dWZXam5zTw?oc=5",
-    "title": "경제대도약·AI 3대강국 주력 벤처·스타트업 창업 견인 1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "source": "지디넷코리아",
+    "time": "22일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWjFuN1NnOW9oWlBpQkVXRUpxSTFMOFVock9JSzRXc3dGNWhWM3F4em5hQlhSclBqWmFqcHVMVVBLSzN5YktjOEVrczdKMjBGM0RnclZB?oc=5",
+    "title": "중기부, 모태펀드 1.8조원 투입…AI·딥테크 '유니콘' 키운다",
     "summary": [
-      "경제대도약·AI 3대강국 주력 벤처·스타트업 창업 견인 1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 국민뉴스."
+      "중기부, 모태펀드 1.8조원 투입…AI·딥테크 '유니콘' 키운다 지디넷코리아."
     ],
     "chips": [
       "#AI",
@@ -182,27 +198,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc4b0f988",
-    "category": "IT",
-    "source": "쿠키뉴스",
-    "time": "28일 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
-    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "50일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
+      "#KBO"
     ]
   },
   {
     "id": "na3d37f8f",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "70일 전",
+    "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVJIdW42c2NuWTBtVDhMWEZjT2ttdWRBNmhraDlsOG1DR3JpajNrY0RfSkhVSjduUEpRWFBpUUhtOWN3eXIxZjZmM01odVR6TGpoNmhn?oc=5",
     "title": "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략",
     "summary": [
@@ -300,345 +313,329 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n490343d1",
-    "category": "스포츠",
-    "source": "미디어오늘",
-    "time": "189일 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ME9tQ2JRQWtiTUxTcTVVUHRPUVFhcXNDWFo0TnVSUm9ubWo2d0o0UTVOQ01iUW1tMlNYVG9JWjRMbl95c3MzVk5CNmJMUnNDRU02VGk4aTFXWU5QTlNkcHVwbW40Z3otVkxUaGd0cm8?oc=5",
-    "title": "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’",
-    "summary": [
-      "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’ 미디어오늘."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n53ae15c9",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152050",
-    "title": "은행권 해외사업 수익성 정체 속 하나은행 해외법인 순익 3배 급등 '눈길'",
-    "summary": [
-      "국내 은행들이 해외 영업망 확대에도 수익성 개선에는 속도를 내지 못하는 가운데 하나은행의 글로벌 부문 실적이 올해 1분기 큰 폭으로 개선돼 주목된다.",
-      "러시아 법인의 흑자 전환, 미국 법인의 고성장, 인도네시아 법인의 견조한 수익성이 맞물리며 해외 법인 순이익이 1년 전보다 3배 이상 늘었다.21일 금융감독원에 따르면 지난해 말 기준 국내은행 해외점포는 41개국 211개로 전년 말보다 4개 증가했다.",
-      "해외점포 총자산도 사무소를 제외한 현지법인·지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd2bf14b0",
+    "id": "n63fc74b7",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152035",
-    "title": "뻔한 유통 공식은 끝났다...여성 패션 플랫폼 키우는 '단독 상품'의 힘",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152057",
+    "title": "IT업계, 에이전틱 AI 전환 속도...제품 고도화에 사명 변경까지 '총력'",
     "summary": [
-      "최근 국내 여성 패션 플랫폼 시장이 한 단계 더 진화하는 모양새입니다.",
-      "단순히 수많은 브랜드를 모아놓고 가격 경쟁을 벌이던 시대는 지난 듯 한데요.",
-      "에이블리, 지그재그, 29CM 등 시장을 리드하는 플랫폼들이 약속이나 한 듯 '단독 상품'과 '자체 브랜드(PB)' 카테고리를 강화하고 나서 눈길을 끕니다."
+      "AI 활용 범위가 넓어지면서 IT업계가 에이전틱 AI 전환(AX)에 속도를 내고 있다.",
+      "AI가 사람의 지시를 받아 답변하는 보조 도구에서 업무 맥락을 이해하고 실행까지 돕는 운영 인프라로 진화하는 흐름이 관측된다.마이크로소프트는 21일 '프론티어 트랜스포메이션' 전략을 통해 글로벌 기업들의 AX 사례를 공개했다.",
+      "회사는 AI 도입의 가치 평가 기준이 시간 절감이나 생산성 향상을 넘어 주요 비즈니스 과정에서 측정할 수 있는 성과로 확장되고 있다고."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n9418a8e6",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152055",
+    "title": "[플레이엑스포 26] 그라비티·라인게임즈 등 집결..多 장르 신작 한자리에",
+    "summary": [
+      "수도권 최대 규모 게임 전시회 '플레이엑스포 2026'이 막을 올렸다.",
+      "플레이엑스포는 경기도가 주최하고 경기콘텐츠진흥원, 킨텍스가 공동으로 주관하는 수도권 최대 규모의 게임쇼다.",
+      "넥슨부터 그라비티, 사이게임즈, 라인게임즈, 컴투스홀딩스까지 국내·외 게임사들이 참가해 특색이 드러나는 부스를 꾸렸다.던파·이터널 리턴 등 대형 부스 눈길21일 오전 경기도 일산 킨텍스 제1전시장은 이른 시간부터 다수의 관람객들이 줄을 늘어섰다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4ec7cc41",
+    "id": "n619ce3c3",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152049",
-    "title": "공급망 보안 우려 커지나...깃허브도 해킹 사정권에",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152061",
+    "title": "[글로벌] 머스크, 오픈AI 소송 패소...IPO 최대 걸림돌 걷어낸 오픈AI",
     "summary": [
-      "1억5000만명 이상이 사용 중인 세계 최대 개발자 플랫폼 깃허브가 해킹 피해를 입었다.",
-      "내부 코드 저장소 약 3800개의 데이터 유출이 의심되는 상황이다.",
-      "일부 고객 정보가 포함됐을 가능성도 거론된다."
+      "일론 머스크가 오픈AI를 상대로 제기한 소송에서 패했습니다.",
+      "제소 기한을 넘겼다는 이유로 소송이 기각되면서, 올해 기업공개(IPO)를 앞둔 오픈AI는 주요 불확실성을 덜어내게 됐습니다.지난 18일(현지시간) 캘리포니아 북부연방지법 배심원단 9명은 만장일치로 머스크가 오픈AI를 상대로 제기한 민사 소송이 법정 시효를 넘겼다고 판단했습니다.",
+      "이본 곤잘레스 로저스 판사는 평결 직후 이를 받아들여 머스크 측 주장을 모두 기각했습니다.머스크는 2015년."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "n574b77b7",
-    "category": "스포츠",
+    "id": "n590473d4",
+    "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152045",
-    "title": "[플레이엑스포 26] 킨텍스에서 열린 모험가들의 축제...던파 VERSUS",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152060",
+    "title": "[글로벌] 앤트로픽 \"무허가 비상장주식 거래 무효\"...투자자 패닉",
     "summary": [
-      "넥슨의 대표 지식재산권(IP)인 '던전앤파이터'가 플레이엑스포 나들이에 나섰다.",
-      "신규 캐릭터 '제국기사'와 '여인파이터' 업데이트를 앞두고 오프라인 현장에서 모험가들을 만나기 위해서다.넥슨은 21일 경기도 일산 킨텍스에서 열리는 '2026 플레이엑스포'에서 오프라인 행사 '던전앤파이터 VERSUS'를 개최했다.",
-      "플레이엑스포는 경기도가 주최하고 경기콘텐츠진흥원, 킨텍스가 공동으로 주관하는 수도권 융복합 게임쇼다."
+      "앤트로픽이 자사 이사회 허가 없이 이뤄진 비상장주식 매입은 전면 무효라고 선언하며 혼란이 일고 있습니다.",
+      "인공지능(AI) 기업의 가치 급등과 함께 빠르게 커진 비상장주식 거래 시장에서 줄소송이 제기될 수 있다는 전망도 나옵니다.지난 18일(현지시간) 블룸버그에 따르면 앤트로픽은 홈페이지를 통해 포지글로벌, 오픈도어파트너스, 유니콘익스체인지 등 8개 비상장주식 유통 특수목적법인(SPV)을 거론하며 이를 통한 주식 거래는 무효라고 밝혔습니다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#스타트업"
     ]
   },
   {
-    "id": "n1864466e",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260521_0003639447",
-    "title": "익산시, 미륵사지 전국 승마대회 25일 개최",
-    "summary": [
-      "[익산=뉴시스]고석중 기자 = 전북자치도 익산시는 오는 25일과 29~31일 나흘간 '제1회 익산 미륵사지 전국 지구력 승마대회'를 개최한다고 21일 밝혔다.",
-      "전북도승마협회가 주최·주관하는 이번 대회는 익산시공공승마장과 금강변 승마길 일원에서 열리며, 엘리트 선수와 동호인 등 전국 승마인 200여 명이 참가한다.",
-      "대회 첫날인 25일에는 금강변 승마길에서 말과 기수가 장시간 호흡을 맞추며 코스를 완주하는 지구력 경기가 진행된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n46c96308",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026052114215004049",
-    "title": "신라대 대학일자리플러스센터, 전국 지역인재 7급 합격자 배출 ‘쾌거’",
-    "summary": [
-      "신라대학교(총장 허남식) 대학일자리플러스센터가 인사혁신처 주관 '전국 지역인재 7급 수습직원 선발시험'에서 최종 합격자를 배출하며 공직 진출의 요람으로서의 위상을 공고히 했다.",
-      "이번 성과는 대학 자체의 체계적인 맞춤형 역량 강화 프로그램과 밀착 지원이 만들어낸 값진 결실이라는 평가다.",
-      "전국 지역인재 7급 수습직원 선발제도는 지역별 인재의 균형 있는 공직 진출을 지원하고 공무원 인재 충원 경로를 다변화하기 위."
-    ],
-    "chips": [
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n33b18051",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260521_0003639440",
-    "title": "흉기 들고 길거리 배회 30대, 시민 신고로 긴급체포",
-    "summary": [
-      "[창원=뉴시스]강경국 기자 = 흉기를 들고 길거리를 배회하던 30대 남성이 경찰에 붙잡혔다.",
-      "경남 창원중부경찰서는 술에 취한 상태로 흉기를 들고 길거리와 건물 내부를 배회하던 A(30대)씨를 구속해 검찰에 송치했다고 21일 밝혔다.",
-      "A씨는 지난 16일 오후 9시께 성산구 한 빌딩 엘리베이터와 인근 도로에서 흉기를 갖고 배회하다 시민의 신고를 받고 출동한 경찰에 긴급체포됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e8709c5",
+    "id": "nd55b5076",
     "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260521_0003639310",
-    "title": "\"탁 찍으니 엌\"…스벅 논란에 '런닝맨' 故박종철 희화화 자막도 재소환",
+    "url": "https://www.newsis.com/view/NISX20260521_0003639548",
+    "title": "중·러 정상회담 미완의 2題…동해출해권·‘시베리아의 힘 2’",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 스타벅스코리아가 최근 마케팅 문구로 민주화 운동을 폄훼했다는 논란에 휩싸인 가운데, 과거 '런닝맨'에서 사용된 자막도 재조명되고 있다.",
-      "'런닝맨' 제작진은 과거 방송에서 '박종철 고문치사 사건'을 연상시키는 자막을 사용해 논란이 됐다.",
-      "21일 연예계에 따르면 SBS TV '런닝맨'의 2019년 6월2일 방송된 455회 '런닝구(9) 프로젝트-부담거래 레이스' 편에서 멤버들은 데뷔 9주년 첫 국내 팬미팅을 앞두고."
+      "[서울=뉴시스] 구자룡 기자 = 블라디미르 푸틴 러시아 대통령은 20일 시진핑 중국 국가주석과의 정상회담을 마친 뒤 가진 기자회견에서 양국 관계가 최고 수준에 이르렀다고 평가했다.",
+      "시 주석은 “중러는 신시대 전면적 전략 협력 동반자 관계를 발전시켜 왔다”고 말했다.",
+      "양국 정상은 회담 후 47쪽에 달하는 공동성명에도 서명했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n59286e87",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260521_0003639749",
+    "title": "원·달러 환율, 5거래일째 1500원대 이어가",
+    "summary": [
+      "[서울=뉴시스] 이정필 기자 = 원·달러 환율이 20일 서울 외환시장에서 전일 종가보다 0.7원 내린 1506.1원으로 주간 거래를 마쳤다.",
+      "이날 환율은 7.3원 내린 1499.5원으로 거래를 시작했다.",
+      "이후 하락폭을 줄이면서 1500원대로 올라선 뒤 장을 마감했다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "n786dc33c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260521_0003639704",
+    "title": "與, 유정복 배우자 '코인 해외 은닉' 의혹 관련 녹취 공개…\"강제수사해야\"",
+    "summary": [
+      "[서울=뉴시스]정금민 한재혁 기자 = 더불어민주당 인천 지역구 국회의원들이 '유정복 국민의힘 인천시장 후보 배우자 가상자산 재산신고 누락' 의혹과 관련한 녹취록을 공개하며 \"즉각 후보직에서 사퇴하라\"고 했다.",
+      "또 수사 당국을 향해 즉각적인 강제수사를 촉구했다.",
+      "노종면·박선원·이훈기·허종식 민주당 의원은 21일 국회에서 기자회견을 열고 \"유 후보 부부가 수만 개의 가상자산을 실질적으로 보유하고 있으면서도 공직자 재산 신고를 고의로 누락하고, 국내."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n81fec145",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://www.asiae.co.kr/article/2026052116023338596",
+    "title": "식약처, 공무원 특별성과 포상금 1억2500만원 지급",
+    "summary": [
+      "식품의약품안전처가 우수한 성과를 낸 임직원들에게 기관장 표창과 함께 포상금 1억2500만원을 수여했다.",
+      "식약처는 '제1회 특별성과 포상 수여식'을 열어 탁월한 성과를 낸 7개 사례를 선정하고 포상했다고 21일 밝혔다.",
+      "'공무원 특별성과 포상금 제도'는 통상적 수준을 뛰어넘는 성과를 낸 공무원에게 포상금을 지급하는 제도로, 공직사회의 성과 보상 체계를 혁신하고자 올해부터 범정부적으로 도입됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n78b30336",
+    "id": "n3a5aff50",
     "category": "경제",
     "source": "머니투데이",
     "time": "1분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/21/2026052114165140551",
-    "title": "김학래, 故 전유성 유언 공개…\"사망 전날 농담까지 했다\"",
+    "url": "https://www.mt.co.kr/stock/2026/05/21/2026052115583268473",
+    "title": "홈플러스, 김광일 부회장 이행보증 결정...메리츠 \"수용할 수 없는 제안\"",
     "summary": [
-      "개그맨 김학래가 고(故) 전유성의 유언을 언급했다.",
-      "지난 19일 유튜브 채널 '송승환의 원더풀 라이프'에는 김학래가 게스트로 출연해 이야기를 나누는 모습이 담긴 영상이 공개됐다.",
-      "영상에서 김학래는 \"전유성 선배의 죽음을 지켜보며 사람은 마지막이 엄청 중요하다는 것을 깨달았다\"고 말문을 열었다."
+      "메리츠금융그룹이 홈플러스에 운영자금 대출을 검토하고 있는 가운데 홈플러스는 이행 보증인으로 관리인인 김광일 MBK파트너스 부회장을 내세웠다.",
+      "반면 메리츠 측은 MBK파트너스와 김병주 MBK파트너스 회장이 나서야 한다고 반박했다.",
+      "홈플러스는 21일 \"슈퍼사업부문인 홈플러스 익스프레스(이하 익스프레스) 매각 대금이 6월 말에 유입됨에 따라 이 매각대금을 담보로 향후 약 한 달 동안 필요한 운영자금을 브릿지론으로 대출해줄 것을 메리츠에 다시 요청했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8578c227",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://www.asiae.co.kr/article/2026052114212900671",
-    "title": "개혁신당 선대위, 동탄서 출범…이준석 \"수도권 대안 정당 되겠다\"",
+    "id": "nfe923f44",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/estate/2026/05/21/2026052115040016567",
+    "title": "\"2억 공짜 아니었네\"…강남 재건축 수주전 달군 금융지원 논란",
     "summary": [
-      "개혁신당이 21일 경기 화성 동탄에서 중앙선거대책위원회 발대식을 열고 수도권 선거전에 본격 돌입했다.",
-      "이준석 총괄선대위원장은 삼성전자 노사 협상 타결을 계기로 경기 남부 반도체 클러스터 육성과 이공계 처우 개선을 핵심 의제로 제시하며 \"개혁신당이 수도권 유권자들의 확실한 대안 세력이 되겠다\"고 밝혔다.",
-      "이 위원장은 이날 전성균 화성시장 후보 선거사무소에서 열린 현장 중앙선대위원회의에서 \"삼성전자 노사 간 협."
+      "-목동·여의도 등 다른 재건축 단지서도 \"우리도 요구하자\" 확산 -\"공짜 돈 아닌 미래 수익 당겨쓰기\" 지적…금융비용 부담 논란 -관양현대 재건축 7000만원 지원 때도 연 9%대 금리 논란 발생 강남권 재건축 수주전에서 등장한 '조합원당 2억원 금융지원' 공약이 정비업계의 뜨거운 감자로 떠올랐다.",
+      "목동, 여의도 등 주요 재건축 단지 온라인 커뮤니티에서는 \"우리 단지도 시공사에 요구하자\"는 말까지 나돌고 있다.",
+      "반면 정비업계에서는 공짜는 절대."
+    ],
+    "chips": [
+      "#재건축",
+      "#금리"
+    ]
+  },
+  {
+    "id": "na412f041",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260521_0003639732",
+    "title": "대법 전합, HD현대중공업 하청 교섭 불허…노조 \"시대 역행\"(종합2보)",
+    "summary": [
+      "[서울=뉴시스]김정현 기자 = '노란봉투법' 시행 후 대법원이 약 8년간 결론을 내리지 않던 HD현대중공업 사내하청 단체교섭 분쟁에 대해 전원합의체를 열었으나, 노동조합의 교섭권을 인정하지 않았다.",
+      "노란봉투법 시행 전의 하청 교섭 요구에는 시행 전 법에 따른 법리를 따라야 한다고 본 것이다.",
+      "하청 노동조합들의 교섭 요구를 둘러싼 다른 법적 분쟁에서 원청 측에 유리한 결론이 내려질 가능성이 커졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec057769",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/stock/2026/05/21/2026052115435790277",
+    "title": "'영업이익 N%' 성과급 수용…디스카운트 주요 요인된 '노사갈등'",
+    "summary": [
+      "노사 간 갈등이 반도체 넘어 바이오, 자동차, IT, 조선으로 확산 조짐 삼성전자의 파업 리스크가 노조와 사측의 극적 타결로 일단락됐지만, 이번 사태를 계기로 노사 갈등이 코리아 디스카운트(한국 증시 저평가) 주요 요인으로 급부상했다.",
+      "글로벌 투자자들에게 국내 시장 투자를 망설이게 하는 요인이 될 수 있다는 분석이다.",
+      "21일 한국거래소(KRX)와 금융투자업계에 따르면 이달 들어 외국인 투자자들은 코스피 시장에서 약 39조원을 순매도했다."
     ],
     "chips": [
       "#반도체",
-      "#삼성전자",
-      "#정치"
+      "#삼성전자"
     ]
   },
   {
-    "id": "n1cdc8b9f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260521_0003639146",
-    "title": "\"아내는 골밀도, 남편은 전립선\"…대구 의료계, 중년부부 조언",
-    "summary": [
-      "[대구=뉴시스]정재익 기자 = 부부의 날인 21일을 맞아 중장년 부부의 갱년기 건강관리에 대한 관심이 커지고 있다.",
-      "특히 대구는 고령화 속도가 빠른 지역인 만큼 여성의 골다공증과 남성 전립선 질환 등 중년 이후 건강관리를 부부가 함께 챙겨야 한다는 조언이 나온다.",
-      "양창헌 한국건강관리협회 건강검진센터(대구) 원장은 \"갱년기 증상이나 배뇨 변화 등을 단순 노화로 여기고 방치하는 경우가 많다\"며 \"중장년 부부가 함께 건강 상태를 점검하고 생활 습관을."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n76d0ea84",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/economy/2026/05/21/2026052113373174775",
-    "title": "재경부 \"GVCM, 탄소크레딧 전환…새 성장동력 창출\"",
-    "summary": [
-      "허장 재정경제부 제2차관이 \"UNFCCC(유엔기후변화협약), GGGI(글로벌녹생성장기구)와 함께 추진 중인 GVCM(글로벌 자발적 탄소시장)을 통해 GCF(녹색기후기금)의 탄소 감축 실적을 탄소 크레딧으로 전환해 새로운 수익을 창출할 수 있다면 탄소 감축과 개발 재원 확보에 기여할 것\"이라고 말했다.",
-      "허 차관은 21일 서울 포시즌스 호텔에서 개최된 'GGGI-GCF 공동 컨퍼런스'에 참석해 \"'한국-GGGI-GCF' 협력을 강화한다면 기후위기."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n369fef4b",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://www.asiae.co.kr/article/2026052114134132489",
-    "title": "컴포즈커피, 이용자 몰래 포인트 소멸…방미통위, 시정조치 통보",
-    "summary": [
-      "방송미디어통신위원회(방미통위)가 컴포즈커피에 대해 전기통신사업법 위반 혐의로 시정조치안을 통보했다고 21일 밝혔다.",
-      "방미통위는 컴포즈커피 애플리케이션(앱) 및 무인 주문 기계 서비스를 제공하는 부가통신사업자 컴포즈커피의 전기통신사업법상 금지행위위반 관련 사실조사를 마무리했다.",
-      "조사에 따르면 컴포즈커피는 앱 개편 과정에서 기존 앱 서비스를 종료하고 커피를 마실 때마다 1개씩 적립해주는 일종의 포인트인 '스."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd9588420",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/21/2026052113060215831",
-    "title": "\"정말 죽을 줄 몰랐다\"…'장모 시신 캐리어 유기' 조재복, 살인 고의 부인",
-    "summary": [
-      "대구 '캐리어 시신' 사건 피의자인 26세 조재복이 첫 재판에서 \"장모를 죽일 생각이 없었다\"며 살인의 고의성을 부인했다.",
-      "21일 뉴스1에 따르면 대구지법은 이날 존속살해 등 혐의로 기소된 조재복의 첫 공판을 진행했다.",
-      "법원에 선 조재복은 '때리다가 장모에게서 이상 징후를 느끼지 못했느냐'는 재판장의 질문을 받고 \"아내에게 장모 상태를 확인해 달라고 했고, 아내가 '엄마가 숨을 안 순다'고 해 알게 됐다\"며 \"정말 죽을 줄 몰랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8a5fffd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521115400057",
-    "title": "[부고] 반웅규(울산CBS 보도팀장)씨 장모상",
-    "summary": [
-      "[부고] 반웅규(울산CBS 보도팀장)씨 장모상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4d9b5a73",
+    "id": "n6241f4cb",
     "category": "사회",
     "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260521/133967868/1",
-    "title": "워싱턴 기념구역에 초대형 아치?…트럼프, 의회 승인 없이 강행",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260521/133968155/1",
+    "title": "트럼프 “쿠바 해방하는 중”…베네수엘라 이어 정권교체 압박",
     "summary": [
-      "도널드 트럼프 미국 대통령이 추진 중인 워싱턴 D.C.",
-      "인근 250피트(약 76미터) 높이의 기념 아치 건설 계획과 관련해 의회 승인 여부를 놓고 법적·정치적 논쟁이 확산되고 있다.",
-      "트럼프 행정부는 과거 의회가 유사 설계안을 승인한 전례를 근거로 별도의 의회 승인이 필요하지 않다는 입장을 유지하고 있다.20일(현지 시간) 워싱턴포스트(WP)에 따르면 트럼프 행정부는 해당 아치를 워싱턴 D.C."
+      "미국이 석유 수입 제재에 이어 쿠바 앞바다인 카리브해에 핵추진 항모 전단을 배치해 군사적 긴장을 끌어올리고 있다.",
+      "같은 날 미국은 쿠바 혁명의 주역이자 막후 실세인 라울 카스트로 전 대통령(95)을 기소하며 쿠바에 대한 전방위 압박에 나섰다.20일 미군 남부사령부에 따르면 핵항모 니미츠함(CVN-68)과 구축함, 보급선 등으로 구성된 항모강습단이 카리브해에 배치됐다.",
+      "1975년 취역해 현역 최장수 항모인 니미츠 함은 노후화로 인해 올해 퇴역 예."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n48925a70",
+    "id": "nc2b71994",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521114300055",
-    "title": "농진청, 휴가철 대비 전국 농촌 체험장 등 991곳 안전 점검",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521129300053",
+    "title": "예상 깬 접전 대구달성군 보선…여야 후보, 민심 공략 총력",
     "summary": [
-      "(전주=연합뉴스) 김진방 기자 = 농촌진흥청은 여름 휴가철을 맞아 농촌 체험·관광 사업장 등 991곳을 대상으로 안전 점검에 나선다고 21일 밝..."
+      "(대구=연합뉴스) 윤관식 기자 = 대구 달성군 국회의원 보궐선거가 예상을 깨고 접전 양상으로 흐르면서 여야 후보 간 경쟁도 달아오르고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0cfe5a1f",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://www.asiae.co.kr/article/2026052116061767008",
+    "title": "\"사내부부면 대체 얼마\" \"의사인 나보다 잘 버네\"…삼성전자 성과급에 부러움 '폭발'",
+    "summary": [
+      "\"삼성전자 사내 부부면 집도 바로 사겠네.\", \"의사지만 솔직히 부럽다.\" 삼성전자 노사가 20일 합의한 성과급 지급안에 따라 반도체 사업을 맡는 디바이스솔루션(DS)부문 직원들이 1인당 최대 6억원 안팎의 성과급이 나올 수 있다는 계산이 나오자 직장인 사회가 술렁이고 있다.",
+      "성과급이 일반 직장인들의 생애소득을 뛰어넘는 수준인 만큼 다른 대기업 직원과 전문직 종사자들 사이에서도 부럽다는 반응이 쏟아지고 있다."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n506e8d5e",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521127351030",
+    "title": "농협, '중앙회장 직선제' 수용…감사위 신설에 \"중복규제\" 반대(종합)",
+    "summary": [
+      "(서울=연합뉴스) 한주홍 기자 = 농협중앙회는 21일 정부와 여당이 추진 중인 농협법 개정안의 핵심 쟁점이었던 중앙회장 직선제 전환을 전격 수용..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n592d203f",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521075251008",
+    "title": "삼성전자 노사 합의에 반도체·삼성그룹 ETF도 일제히 '불기둥'(종합)",
+    "summary": [
+      "(서울=연합뉴스) 고은지 기자 = 삼성전자[005930] 노사가 전날 임금협상안에 잠정 합의하고 파업 계획을 보류하면서 반도체와 삼성그룹에 집중..."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n578c56dd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260521/133969162/1",
+    "title": "구릿값 오르자…폐건물 돌면서 전선 훔쳐 판 40대 구속",
+    "summary": [
+      "폐건물 등지에서 몰래 전선을 잘라 훔쳐 내다 판 40대 남성이 경찰에 붙잡혔다.전북 무주경찰서는 특수절도 혐의로 A(40대)씨를 구속했다고 21일 밝혔다.A씨는 올해 1월부터 무주군 일대에서 폐건물 8곳 등을 돌며 도구를 이용해 건물 내 전선을 잘라 훔쳐간 혐의를 받고 있다.그는 체포 며칠 전 한 건물 내 광케이블을 자르려다 여의치 않아 자리를 떴고, 이후 광케이블이 잘렸다는 신호를 받은 통신업체 관계자가 건물로 가 이 사실을 파악하고 경찰에."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9418c312",
+    "id": "nac955fb3",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521109900017",
-    "title": "과기정통부, 한계도전 R&D 2기 PM 4명 선정",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521140500054",
+    "title": "현직경찰관, 음주운전 적발돼 직위해제",
     "summary": [
-      "(서울=연합뉴스) 조승한 기자 = 과학기술정보통신부는 21일 서울 종로구 포시즌스호텔에서 한계도전 연구개발(R&amp;D) 2기 책임 프로그램 ..."
+      "(광주=연합뉴스) 김혜인 기자 = 현직 경찰관이 음주운전을 하다 적발돼 직위에서 해제됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5f62e188",
+    "id": "nd30d7fe7",
     "category": "경제",
     "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/21/2026052113481129555",
-    "title": "[속보] 대법원 \"HD현대重, 하청노조 교섭의무 없어\"",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/thebio/2026/05/21/2026052115160690588",
+    "title": "K바이오 반등 열쇠는 '성과 고도화'…빅딜 후속 성과 하반기 줄대기",
     "summary": [
-      "=21일 대법원 전원합의체..."
+      "알테오젠·에이비엘바이오·올릭스 등 기존 기술수출 후속 임상 및 상업화 성적표 공개 앞둬 단순 기술수출 넘어 현금흐름 창출 기반 확보 기대…플랫폼 기업 기술 신뢰도 재평가 주목 국내 주요 바이오 기업들이 연내 앞서 성사시킨 대형 기술수출 관련 후속 성과를 내놓는다.",
+      "이들은 모두 글로벌 빅파마와 플랫폼 또는 핵심 파이프라인 기술이전에 성공한 기업들로, 바이오 업종 전반에 활기를 불어넣을 수 있을 수 있다는 기대감이 감지된다."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "n2afe54eb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260521096851004",
-    "title": "이스라엘서 석방된 김아현 활동가 22일 인천공항으로 귀국 예정(종합)",
+    "id": "n047e2047",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521072651008",
+    "title": "'7,800선 회복' 코스피 다시 달렸다…'8천피' 재탈환하나(종합)",
     "summary": [
-      "(서울=연합뉴스) 한지은 양수연 기자 = 이스라엘군에 나포됐다가 석방된 한국인 활동가 김아현(활동명 해초)씨가 태국을 거쳐 22일 귀국한다."
+      "(서울=연합뉴스) 황철환 기자 = 대망의 '8천피' 달성 직후부터 극도의 변동성을 보이며 한때 7,000선을 위협받던 코스피가 국내외에서 잇따른..."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "ne107149b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://www.asiae.co.kr/article/2026052114194289901",
-    "title": "거래소 노조, '금감원 출신 파생상품시장본부장 선임' 공익감사 청구",
-    "summary": [
-      "한국거래소 노동조합은 21일 경제정의실천시민연합(경실련), 부산경실련과 함께 거래소 파생상품시장본부장 선임 과정에 대한 공익감사 청구서를 감사원에 제출했다.",
-      "이들은 이날 종로구 감사원 앞에서 기자회견을 열고 감사원이 금융감독원(금감원) 고위직 출신 인사가 거래소 임원으로 선임되는 과정에서의 인사개입 의혹을 전면 조사할 것을 요구했다.",
-      "또한 인사혁신처가 거래소를 퇴직공직자 취업 심사 대상 기관으로 지정하지."
-    ],
-    "chips": [
-      "#취업"
     ]
   }
 ];
@@ -647,21 +644,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
