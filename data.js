@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-22 15:58:23
+// 마지막 업데이트: 2026-05-22 16:52:05
 window.NEWS_DB = [
   {
     "id": "na3957e8b",
     "category": "IT",
     "source": "위키트리",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zd0ZXSTFRTTFEVDB6b015U2lmOGpHNDY2RDMxWkRSdFZnbDN0SVo3YmpNU2tBQmRfT2xoWVFFNlRmejJ6czFGelFlRWg3VDZMSmhWMVhn?oc=5",
     "title": "엔비디아는 고작 3위…압도적 1위 기록한 '이 종목'",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nd3cf3b1a",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBR3REYWpMQ240c21NaGFNSGNDRENxcm5qWllCcXJpM1dneUhMOXZKLVhaaC0yLWVyLWtsd21IeWd4bXVZTDB2NWE2UnVuZ3RzOXNYUnpLN0RBdlFBaXVBS25wYldvOFpXX2VXcA?oc=5",
     "title": "엔비디아 깜짝실적…AI 투자 4조弗 간다",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nc0b12697",
     "category": "IT",
     "source": "시사저널e",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJYkhtUi1nSnhEa0ZHSm51TXpPLS1uLTVQdkpzcHRFN0lJblktTnRGV1ZQQnlKbHVuSUEtUnRYWmI4TThBOHR0cDByTVc4emNoQnk2NDljY0FmZHhja3lna1dNZmdrNGlVeWcxM2dJTERBUdIBdkFVX3lxTFAwQTE2TDN6Y1UwVGhUTmdTd19aRVlrWTI1eXdBZ3ItbVczZzVBMWFMRXM2X3o5anF6alAtMXJJdi1kakYyN0RoLVlUYkItckZMZ1hDQUZkRmM2bXYzUTBVWWQ1dm5aZEJoa29pZWduWnJwOU5Kd3c?oc=5",
     "title": "엔트로픽, MS 반도체 공급 협상···탈엔비디아 움직임 가속",
     "summary": [
@@ -121,17 +121,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7c5c07a7",
+    "id": "n98221228",
     "category": "경제",
-    "source": "프리진경제",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
-    "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
+    "source": "한겨레",
+    "time": "6일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bHllbG1kZmFXbmpVaHZZM3Z4cUV6enJmcUhzR1U0ckF4WUNpYlg5YlNPaXBsMzEzaEwyZW1YcVN1TnlxQTRET0hNU0pUdlhyb3QxMklYbXprVHl1LWlUV01qY0c5eTgyb3BwNGxmYUZJQQ?oc=5",
+    "title": "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감",
     "summary": [
-      "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정 프리진경제."
+      "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감 한겨레."
     ],
     "chips": [
-      "#환율"
+      "#뉴스"
     ]
   },
   {
@@ -150,22 +150,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2970703c",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
-    "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
-    "summary": [
-      "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게? 글로벌이코노믹."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -180,20 +164,6 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n64476ff1",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "33일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
-    "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -239,20 +209,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n15f5f447",
-    "category": "경제",
-    "source": "지디넷코리아",
-    "time": "79일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
-    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
-    "summary": [
-      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "n1e99985b",
     "category": "부동산",
     "source": "한국경제",
@@ -264,6 +220,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n759c2467",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "98일 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
+    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
+    "summary": [
+      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
     ]
   },
   {
@@ -312,6 +283,35 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0fd44a05",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "155일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
+    "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
+    "summary": [
+      "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\" 조선일보."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n41be81c1",
+    "category": "경제",
+    "source": "YTN",
+    "time": "194일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KUFFYTE53YzNGaGd6bEZwYTRYSE1sUFhlSkcwZmVhbWpFMV9yd0cySkRESWdsQVJBNU5IdVpzZFMwbEpaVVp1Z3hnYzEyYkljMXlPeURzYlZoU3B3MGc?oc=5",
+    "title": "코스피 석 달 동안 1,000p 올랐는데 환율 급등한 이유는?",
+    "summary": [
+      "코스피 석 달 동안 1,000p 올랐는데 환율 급등한 이유는? YTN."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "nef2c5435",
     "category": "IT",
     "source": "테크M",
@@ -331,7 +331,7 @@ window.NEWS_DB = [
     "id": "nc166b3b4",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "7분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152094",
     "title": "\"AI시대엔 '보안'이 '보험'\"...윤오준 前 국정원 3차장, 中企에 전한 제언은?",
     "summary": [
@@ -344,10 +344,88 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n473e3102",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260523/133979789/2",
+    "title": "“투표권NO” “배제NO” 삼성전자 勞勞 두 목소리",
+    "summary": [
+      "삼성전자 노조의 2026년 임금교섭 잠정합의안 찬반투표가 22일 시작됐지만 노사 합의 후폭풍이 계속되고 있다.",
+      "이번 협상을 주도한 삼성 초기업노동조합이 모바일·가전(DX)부문 위주의 삼성전자 동행노동조합(동행노조) 투표권을 박탈한 가운데 동행노조는 투표 강행 의사를 나타냈다.",
+      "삼성전자 내 ‘노노(勞勞)’ 갈등은 앞으로 법적 분쟁으로 이어질 것으로 전망된다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "neb61a549",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260523/133979799/2",
+    "title": "내일 부처님오신날… “마음은 평안으로, 세상은 화합으로”",
+    "summary": [
+      "불기 2570년 부처님오신날을 이틀 앞둔 22일 서울 종로구 조계사 대웅전 앞마당에 연등이 내걸린 가운데 신도들이 탑돌이를 하고 있다.",
+      "대한불교조계종은 24일 오전 10시 조계사를 비롯한 전국 사찰에서 봉축법요식을 연다.",
+      "올해 봉축표어는 ‘마음은 평안으로, 세상은 화합으로’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbbaa2ae1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260523/133979787/2",
+    "title": "주독미군 줄이는 트럼프… “폴란드 5000명 추가 파병”",
+    "summary": [
+      "21일(현지 시간) 도널드 트럼프 미국 대통령이 “미국이 폴란드에 추가로 병력 5000명을 보낼 것”이라고 밝혔다.",
+      "앞서 13일 미 국방부가 육군 4000명의 폴란드 배치를 돌연 취소한 지 8일 만에 이를 뒤집은 것이다.",
+      "트럼프 대통령은 21일 트루스소셜에 “내가 자랑스럽게 지지를 표명했던 카롤 나브로츠키가 성공적으로 당선돼 폴란드 대통령이 됐다”며 그와의 관계를 바탕으로 병력 파견 결정을 내렸다고 했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nacf1c0e7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260523/133979785/2",
+    "title": "국민참여성장펀드 판매 첫날, 10분만에 “완판”",
+    "summary": [
+      "정부가 국민들의 자금을 받아 첨단전략 산업에 투자하는 ‘국민참여형 국민성장펀드’(국민참여성장펀드) 판매 첫날 은행과 증권사 곳곳에서 완판 행렬이 이어졌다.",
+      "펀드의 손실을 정부 재정이 일부 떠안아 주는 데다 세제 혜택도 있어 가입자가 몰린 것으로 풀이된다.",
+      "금융위원회는 국민참여성장펀드를 출시한 첫날인 22일 하루 동안 총 5223억5000만 원어치가 판매됐다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a04fa80",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523000351098",
+    "title": "\"트럼프, 동맹국들에 실망\"…미 국무, 나토 분열 재차 경고(종합)",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 도널드 트럼프 미국 대통령은 중동 전쟁 지원에 미온적인 유럽 동맹국들에 실망했으며, 대서양 분열을 둘러싼 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n67430bf1",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "15분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152090",
     "title": "[기자수첩] 스타벅스, 파멸 아닌 쇄신을 위한 '최소한의 시간'을 주자",
     "summary": [
@@ -360,10 +438,55 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb5b8c494",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523000400109",
+    "title": "푸틴 \"학교 기숙사 피격 6명 사망\"…우크라 \"조작된 정보\"",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 블라디미르 푸틴 러시아 대통령은 22일(현지시간) 우크라이나가 점령지에 있는 기숙사를 공격해 학생들이 숨지고..."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "naa396719",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/football/2026/05/23/GQYDKZBQGI2DCMDBHFRGEOBWGM/",
+    "title": "홍명보호 합류 전 마지막 리그 경기 나서는 손흥민, 첫째는 부상 조심-둘째는 골",
+    "summary": [
+      "[스포츠조선 박찬준 기자]첫째는 부상 조심, 둘째는 골이다.",
+      "대한민국 '캡틴' 손흥민(LA FC)이 2026년 북중미월드컵 소집 전 마지막 리그 경기를 치른다.",
+      "LA FC는 25일(한국시각) 미국 캘리포니아주 LA의 BMO 스타디움에서 시애틀 사운더스와 2026년 미국 메이저리그사커(MLS) 15라운드를 치른다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "nb5d0bdd0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523002200087",
+    "title": "콜롬비아서 원주민 토지분쟁으로 6명 사망·100여명 부상",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 콜롬비아에서 나사족과 미사크족이 토지 소유권을 놓고 충돌해 최소 6명이 사망하고 100여명이 부상했다고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nb2d5e384",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "23분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152095",
     "title": "조만호 무신사 대표, 박종철센터 직접 찾아 사과…\"7년 전 과오, 잊지 않겠다\"",
     "summary": [
@@ -376,255 +499,135 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n339529eb",
-    "category": "부동산",
+    "id": "ned562e72",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/economy/real_estate/2026/05/23/P7AP56B6TJE2HIFXHCGB4TER6A/",
-    "title": "서울·경기 전월세 급등에 매입임대 6만6000호 공급",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/23/GQZGKMJTMIYTOMBWHA3DCYJYGU/",
+    "title": "‘잉글랜드 중앙수비 구멍 뚫리나?’ 해리 매과이어, 월드컵대표팀 최종 탈락",
     "summary": [
-      "서울·경기 전월세 급등에 매입임대 6만6000호 공급."
+      "[OSEN=서정환 기자] 해리 매과이어(33, 맨유)가 끝내 월드컵 무대를 밟지 못한다.",
+      "잉글랜드 대표팀 핵심 수비수였던 매과이어는 22일(한국시간) 자신의 사회관계망서비스를 통해 월드컵 최종 명단 탈락 사실을 직접 공개했다.그는 “이번 시즌 활약을 바탕으로 올여름 대표팀에서 중요한 역할을 할 수 있다고 자신했다”며 “이번 결정에 충격을 받았고 정말 큰 실."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbf61d1e6",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/national/welfare-medical/2026/05/23/MVBIOTNUTZAUVJVO2B3RCKJFIM/",
-    "title": "K화장품 수출, 美 제치고 세계 2위",
-    "summary": [
-      "K화장품 수출, 美 제치고 세계 2위."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n5d56237b",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/05/23/442SUUELCJDOVL3IJZO7AFDNKM/",
-    "title": "삼성전자, 5억 주택대출도 신설… ‘반도체 벨트’ 들썩",
-    "summary": [
-      "삼성전자, 5억 주택대출도 신설… ‘반도체 벨트’ 들썩."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n8148b56d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/weekend/2026/05/23/UFYXDAGUKNG3PK6TE25NFUIQQE/",
-    "title": "[바로잡습니다] 5월 9일 자 B1면 “저절로 향기 품고 내어 주는 꽃처럼… 법향 전하는 ‘꽃스님’입니다” 기사 중 외",
-    "summary": [
-      "[바로잡습니다] 5월 9일 자 B1면 “저절로 향기 품고 내어 주는 꽃처럼… 법향 전하는 ‘꽃스님’입니다” 기사 중 외."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndf01c2b8",
+    "id": "n0d7c1635",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523000800071",
-    "title": "\"트럼프행정부, 귀화 미국인 시민권박탈소송 변호사 보강\"",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523002100109",
+    "title": "총선 지고도 연정 구성 성공…얀사 슬로베니아 총리 복귀",
     "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 미국 도널드 트럼프 행정부가 귀화한 미국인 대상 시민권 박탈 소송을 담당하는 연방 법무부 전문 인력 보강을..."
+      "(로마=연합뉴스) 민경락 특파원 = 슬로베니아 의회가 민족주의 성향의 야네즈 얀샤 전 총리를 신임 총리로 선출했다고 AFP통신 등이 22일(현지..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nea28818b",
+    "id": "nceadcd36",
     "category": "사회",
     "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641746",
-    "title": "\"미·이란 합의 초안, 몇 시간 내 발표 가능성\"…중재단 이란행(종합)",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003641756",
+    "title": "케빈 워시 신임 연준 의장, 백악관 선서 후 공식 취임",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = 미국과 이란 간 종전 및 포괄 협상을 위한 중재 움직임이 본격화되는 가운데, 카타르 협상팀과 파키스탄 군 수뇌부가 잇따라 이란으로 향한 것으로 전해졌다.",
-      "타임오브이스라일(TOI)에 따르면 로이터 통신은 22일(현지 시간) 사안에 정통한 소식통을 인용해 카타르 협상팀이 미국과 협력 아래 이란과의 전쟁 종식 및 미해결 현안 논의를 위한 협상 타결을 목표로 이날 테헤란에 도착했다고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7b3fc447",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523000300098",
-    "title": "\"트럼프, 동맹국들에 실망\"…미 국무, 나토 분열 재차 경고",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 도널드 트럼프 미국 대통령은 중동 전쟁 지원에 미온적인 유럽 동맹국들에 실망했으며, 대서양 분열을 둘러싼 ..."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 케빈 워시 연방준비제도(Fed 연준) 신임 의장이 22일(현지 시간) 공식 취임했다.",
+      "워시 의장은 이날 백악관에서 개최된 취임식에서 클래런스 토머스 대법관 주재하에 취임 선서를 하고 임기를 시작했다.",
+      "워시 의장은 56세로 연준 11대 의장으로 4년간 임기를 수행할 예정이다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "neda9bc77",
+    "id": "n4ce657da",
     "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260523/133979978/2",
-    "title": "“팔·다리 잃고도 다시 운동 시작” 보디빌딩 무대 오른 30대 남성",
-    "summary": [
-      "교통사고로 한쪽 팔과 다리를 잃은 중국 남성이 꾸준한 재활과 운동 끝에 보디빌딩 대회 무대에 올라 많은 이들에게 감동을 주고 있다.20일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 10일 중국 산둥성 성도(省都)인 지난(济南)시에서 열린 보디빌딩 대회에 참가한 류신주(32)의 모습이 이목을 끌었다.",
-      "그는 10년 전 교통사고로 오른팔과 오른다리를 잃었다.",
-      "사고 이후 류신주는 한동안 삶의 의욕을 잃고 침대에 누워 휴대전화만 들여다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1ec6b572",
-    "category": "사회",
-    "source": "아시아경제",
+    "source": "조선일보",
     "time": "30분 전",
-    "url": "https://www.asiae.co.kr/article/2026052218181504439",
-    "title": "[6·3 선거]담양군수 여론조사…박종원·정철원 오차범위 내 접전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/23/GJRWKOBYGRTDKZDDGY4DEYRTGU/",
+    "title": "中 외교수장, 유엔·캐나다 연쇄 방문… 美 앞마당서 견제 외교전 본격화",
     "summary": [
-      "오는 6월 3일 치러지는 지방선거 담양군수 선거 여론조사에서 더불어민주당 박종원 후보와 조국혁신당 정철원 후보가 오차범위 내에서 접전을 벌이고 있다는 조사 결과가 나왔다.",
-      "정당 지지도는 더불어민주당이 60%대를 기록하며 강세를 보인 가운데, 유기적인 표심 흐름이 주목된다.",
-      "'중앙통신뉴스'와 '뉴스깜'이 공동 의뢰하고 여론조사전문기관 리서치뷰가 실시한 조사 결과에 따르면, 담양군수 후보 지지도는 박종원 후보 47.8."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc5d6eef4",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "33분 전",
-    "url": "https://www.hankyung.com/article/202605235111i",
-    "title": "'尹 관저이전 의혹' 김대기·윤재순 구속…2차 특검, 첫 신병 확보",
-    "summary": [
-      "'尹 관저이전 의혹' 김대기·윤재순 구속…2차 특검, 첫 신병 확보."
+      "중국이 유엔 안전보장이사회 순회 의장국 지위를 앞세워 미국 중심 국제질서 견제에 나선다.",
+      "왕이 중국 외교부장은 유엔 고위급 회의를 주재한 뒤 캐나다를 방문해 북미 우방국을 상대로도 외교적 접점을 넓힐 예정이다.",
+      "중국 외교부는 22일 왕이 중국공산당 중앙외사판공실 주임 겸 외교부장이 오는 26일 미국 뉴욕 유엔본부에서 열리는 안보리 고위급 회의를 주재한다고."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndf69ee9b",
+    "id": "n4b5116c6",
     "category": "사회",
-    "source": "동아일보",
-    "time": "35분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260523/133979964/1",
-    "title": "방탄소년단, 美 스탠퍼드 스타디움 태극기로 물들였다…15만2천명 열광",
-    "summary": [
-      "미국 스탠퍼드 스타디움이 태극기로 물들었다.22일 소속사 빅히트 뮤직(하이브)에 따르면, 방탄소년단은 지난 16~17일과 19일(이하 현지시간) 미국 스탠퍼드 스타디움(Stanford Stadium)에서 ‘BTS 월드 투어 ’아리랑‘ 인 스탠퍼드(WORLD TOUR ’ARIRANG‘ IN STANFORD)’를 개최하고 약 15만 2000여 관객과 만났다.",
-      "이번 공연은 티켓 오픈과 동시에 전석 매진됐고 뜨거운 성원에 힘입어 1회 공연이 추가됐다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n4c9cd6b8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "35분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260523/133979961/1",
-    "title": "권은빈, 소속사와 결별…연예계 은퇴 수순 밟나",
-    "summary": [
-      "그룹 CLC 출신 배우 권은빈이 소속사를 떠났다는 소식이 전해진 가운데 연예계를 은퇴하는 것이 아니냐는 추측이 나온다.",
-      "큐브엔터테인먼트는 22일 공식 소셜미디어를 통해 “소속 아티스트 권은빈과 오랜 논의 끝에 전속계약을 종료하게 됐다”고 밝혔다.이어 “10년간 함께하며 큐브엔터테인먼트를 대표하는 아티스트로 활동해 온 권은빈의 노고에 깊이 감사드리며, 새로운 길을 걸어가게 될 배우 권은빈의 앞날을 진심으로 응원하겠다”고 했다.이후 권은빈이 인터넷."
-    ],
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003641760",
+    "title": "[속보]케빈 워시 신임 연준 의장, 공식 취임…백악관서 선서",
+    "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2881bfa5",
+    "id": "n3ca9629e",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "37분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/23/2026052214393440455",
-    "title": "LG는 이정용 트레이드를 단 한 차례도 고려한 적이 없다!",
+    "time": "40분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/23/2026052221555884341",
+    "title": "\"내가 말해도 되겠어?\" 박병호 신중 코칭→이형종 감탄 \"먼저 물어주셔서 마음 열려\" 1군 복귀 후 타율 0.500 맹타",
     "summary": [
-      "LG 트윈스의 우완 투수 이정용(30)을 둘러싼 트레이드 루머는 아예 사실무근의 '설'에 불과했던 것으로 확인됐다.",
-      "LG 구단 내부적으로 이정용의 트레이드를 검토한 적은 단 한 차례도 없었다.",
-      "최근 야구계 일각과 온라인 커뮤니티 등을 중심으로 LG가 전력 보강을 위해 이정용을 카드로 활용한 트레이드를 추진하고 있다는 소문이 흘러나왔다."
+      "키움 히어로즈의 베테랑 외야수 '광토마' 이형종(37)이 친정팀 LG 트윈스를 상대로 3안타라는 맹타를 휘두르며 팀의 5연승 행진을 견인했다.",
+      "이형종의 완벽한 부활 뒤에는 '국민 거포' 박병호(40) 현 키움 히어로즈 잔류군 코치의 품격 있는 조언과 퓨처스(2군) 리그에서의 눈물겨운 노력이 있었다.",
+      "이형종은 22일 서울 잠실야구장에서 열린 LG 트윈스와의 '2026 신한 SOL KBO리그' 원정 경기에 5번 타자 겸 좌익수로 선발 출장해 4타수."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n50ae9d81",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "37분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/23/2026052222344784907",
-    "title": "[오피셜] \"당분간 쉰다\" 펩, 번아웃 고백→맨시티와 10년 동행 마침표... 구단은 동상으로 예우",
-    "summary": [
-      "잉글랜드 맨체스터 시티에 수많은 트로피를 안긴 세계적인 명장 펩 과르디올라 감독(55)이 10년 동행에 마침표를 찍는다.",
-      "맨시티는 22일(한국시간) 공식 홈페이지와 SNS를 통해 \"과르디올라 감독이 올 시즌 종료 후 팀을 떠난다\"고 발표했다.",
-      "과르디올라 감독은 작별 메시지를 통해 \"우리가 함께 얼마나 대단한 시간을 보냈는가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n65a420e7",
+    "id": "n8b2c2ff6",
     "category": "사회",
     "source": "뉴시스",
-    "time": "38분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641728",
-    "title": "[6·3함양]무소속 김재웅 수의계약 \"특혜 있다\" \"사실무근이다\"",
+    "time": "51분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641256",
+    "title": "\"아이 배꼽이 참외처럼 불룩해요\"…혹시 이 질환?[몸의경고]",
     "summary": [
-      "[함양=뉴시스] 서희원 기자 = 경남 함양군수 선거에 출마한 무소속 김재웅 후보는 22일 선거사무소에서 기자회견을 열고 현 군수인 국민의힘 진병영 후보를 겨냥해 수의계약 특혜 의혹을 제기했다.",
-      "김 후보는 \"어제 진 후보가 출정식에서 '특정인이나 특정 업체에 일감을 몰아준 사실이 없고 흑색선전이 난무 하다'고 주장했지만, 함양군이 공개한 공식 수의계약 자료를 직접 확인한 결과 상식을 벗어난 계약 편중 정황이 드러났다\"고 주장했다."
+      "[서울=뉴시스] 류난영 기자 = 아이의 배꼽이 불룩 튀어나와 있으면 단순히 참외 배꼽인줄 알고 가겹게 넘기기 쉽다.",
+      "하지만 배꼽이나 사타구니 부위가 불룩하게 튀어나오거나 배꼽에 혹이 난 것처럼 불룩하다면 소아 탈장을 의심해 봐야 한다.",
+      "소아탈장은 아이가 울거나 배에 힘을 줄 때 돌출이 심해지며, 자세를 바꾸면 다시 들어가는 양상을 보이기도한다."
     ],
     "chips": [
-      "#정치"
+      "#의료"
     ]
   },
   {
-    "id": "n2d66005d",
+    "id": "ndf5e15e1",
     "category": "사회",
-    "source": "동아일보",
-    "time": "41분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260523/133979945/1",
-    "title": "한혜진, 60㎏ 고백 후 폭풍 다이어트…“체지방 2㎏ 감량, 얼굴 달라져”",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003640631",
+    "title": "29~30일 교육문화박람회 '바다 놀이터'…전시·교육·놀이",
     "summary": [
-      "모델 한혜진이 60㎏ 몸무게를 고백한 이후 혹독한 다이어트에 돌입한 근황을 전하며 달라진 비주얼을 자랑했다.21일 한혜진의 공식 유튜브 채널에는 ‘모델 VS 개그우먼 누가 이길까?’라는 제목의 영상이 게재됐다.이날 영상에서 한혜진은 새로운 운동에 도전하는 설렘을 드러냈다.",
-      "그는 “내가 다니는 킥복싱 체육관에서 주짓수를 배울 것”이라며 주짓수 도복을 챙겼다.",
-      "그러나 이내 “근데 저기 (정)찬성이도 나온다네? 안 왔으면 좋겠는데”라며 종합격투기 선."
+      "[부산=뉴시스] 이아름 기자 = 국립해양박물관은 29~30일 해양교육문화박람회 '바다 놀이터'를 연다고 23일 밝혔다.",
+      "이번 박람회는 어린이와 가족 관람객이 전시와 교육, 놀이를 함께 즐길 수 있도록 기획됐다.",
+      "박물관 1층 어린이 놀이터에서는 아이들이 직접 조선통신사 갓을 제작한 뒤 전시를 관람하는 '오늘은 내가 조선의 외교관', 청화백자와 오동나무 상자 포장을 체험하는 '어린이 큐레이터 실습실' 등이 운영된다."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "naa2c7345",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "44분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003641751",
-    "title": "포든·매과이어·아놀드·파머 낙마…잉글랜드, 월드컵 최종 명단 발표",
+    "id": "n8eb545eb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/court_law/2026/05/23/TAHEG3MATNDARPSTJWBFWHLXAI/",
+    "title": "법무부 ‘제2 유승준’ 차단… 병역 미이행자 입국 막는다",
     "summary": [
-      "[서울=뉴시스]박윤서 기자 = '축구 종가' 잉글랜드가 2026 국제축구연맹(FIFA) 북중미 월드컵 최종 명단을 발표했다.",
-      "잉글랜드축구협회는 22일(한국 시간) 북중미 월드컵에 나설 26명의 최종 명단을 공개했다.",
-      "올 시즌 소속팀에서 부진했던 공격수 필 포든(맨체스터 시티), 콜 파머(첼시)와 베테랑 수비수 해리 매과이어(맨체스터 유나이티드), 부상으로 정상적으로 시즌을 소화하지 못했던 풀백 트렌트 알렉산더 아놀드(레알 마드리드) 등은 명단에."
+      "법무부 ‘제2 유승준’ 차단… 병역 미이행자 입국 막는다."
     ],
     "chips": [
       "#뉴스"
@@ -637,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "정치",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   }
