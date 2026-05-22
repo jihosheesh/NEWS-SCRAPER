@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-22 18:33:10
+// 마지막 업데이트: 2026-05-22 19:30:58
 window.NEWS_DB = [
   {
     "id": "na3957e8b",
     "category": "IT",
     "source": "위키트리",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zd0ZXSTFRTTFEVDB6b015U2lmOGpHNDY2RDMxWkRSdFZnbDN0SVo3YmpNU2tBQmRfT2xoWVFFNlRmejJ6czFGelFlRWg3VDZMSmhWMVhn?oc=5",
     "title": "엔비디아는 고작 3위…압도적 1위 기록한 '이 종목'",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nd3cf3b1a",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBR3REYWpMQ240c21NaGFNSGNDRENxcm5qWllCcXJpM1dneUhMOXZKLVhaaC0yLWVyLWtsd21IeWd4bXVZTDB2NWE2UnVuZ3RzOXNYUnpLN0RBdlFBaXVBS25wYldvOFpXX2VXcA?oc=5",
     "title": "엔비디아 깜짝실적…AI 투자 4조弗 간다",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nc0b12697",
     "category": "IT",
     "source": "시사저널e",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJYkhtUi1nSnhEa0ZHSm51TXpPLS1uLTVQdkpzcHRFN0lJblktTnRGV1ZQQnlKbHVuSUEtUnRYWmI4TThBOHR0cDByTVc4emNoQnk2NDljY0FmZHhja3lna1dNZmdrNGlVeWcxM2dJTERBUdIBdkFVX3lxTFAwQTE2TDN6Y1UwVGhUTmdTd19aRVlrWTI1eXdBZ3ItbVczZzVBMWFMRXM2X3o5anF6alAtMXJJdi1kakYyN0RoLVlUYkItckZMZ1hDQUZkRmM2bXYzUTBVWWQ1dm5aZEJoa29pZWduWnJwOU5Kd3c?oc=5",
     "title": "엔트로픽, MS 반도체 공급 협상···탈엔비디아 움직임 가속",
     "summary": [
@@ -121,17 +121,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n98221228",
+    "id": "n7c5c07a7",
     "category": "경제",
-    "source": "한겨레",
+    "source": "프리진경제",
     "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bHllbG1kZmFXbmpVaHZZM3Z4cUV6enJmcUhzR1U0ckF4WUNpYlg5YlNPaXBsMzEzaEwyZW1YcVN1TnlxQTRET0hNU0pUdlhyb3QxMklYbXprVHl1LWlUV01qY0c5eTgyb3BwNGxmYUZJQQ?oc=5",
-    "title": "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
+    "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
     "summary": [
-      "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감 한겨레."
+      "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정 프리진경제."
     ],
     "chips": [
-      "#뉴스"
+      "#환율"
     ]
   },
   {
@@ -180,20 +180,6 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n64476ff1",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "33일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
-    "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -299,6 +285,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0fd44a05",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "155일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
+    "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
+    "summary": [
+      "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\" 조선일보."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n41be81c1",
     "category": "경제",
     "source": "YTN",
@@ -329,12 +330,178 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n98573d83",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641125",
+    "title": "\"보물찾기 하자\"…어린 두 아들 눈 가린 숲에 버린 부모",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 염지윤 인턴기자 = 부모가 어린 두 형제를 숲속에 유기한 사건이 알려졌다.",
+      "부모는 아이들에게 보물찾기 놀이를 하자고 속인 뒤 눈을 가린 채 집에서 수천 킬로미 떨어진 숲에 남겨두고 떠난 것으로 전해졌다.",
+      "지난 21일(현지 시간) 뉴욕포스트에 따르면 3살과 5살 형제는 지난 19일 밤 포르투갈 몬테 노보 두 술의 한 도로를 헤매다 지나가던 부부에게 구조됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50463c7c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523004900099",
+    "title": "'반군 연합 공세' 말리서 무장단체 공격에 주민 등 25명 사망",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 이슬람 극단주의 무장세력과 분리주의 반군의 연합 공세를 겪고 있는 서아프리카 말리에서 또다시 무장단체..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n94ae2b39",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003641769",
+    "title": "美 소비심리 또 사상 최저…인플레 공포 재확산",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 미국 소비자들의 경제 심리가 또다시 사상 최저 수준으로 떨어졌다.",
+      "중동 긴장 고조에 따른 유가 상승과 고물가 부담이 겹치면서 향후 인플레이션 우려도 빠르게 커지고 있는 것으로 나타났다.",
+      "22일(현지 시간) 미시간대 소비자조사에 따르면 5월 소비자심리지수는 44.8로 집계됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na22cf4b7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523004700071",
+    "title": "트럼프, 장남 결혼식 불참키로…\"중요한 때 백악관에 있어야\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 22일(현지시간) 이번 주말 국외에서 열릴 예정인 장남 도널드 트럼프 주니어의..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2ca9d039",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523004500071",
+    "title": "美무역대표, 전면적 반도체 관세 \"적절시점에 부과…당장은 없어\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 제이미슨 그리어 미국 무역대표부(USTR) 대표는 22일(현지시간) 반도체에 대한 전면적인 품목관세 부과가..."
+    ],
+    "chips": [
+      "#반도체",
+      "#수출"
+    ]
+  },
+  {
+    "id": "n97b3712e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641080",
+    "title": "\"비만 치료제 위고비·마운자로, 암 확산 억제 효과 가능성\"",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 박재연 인턴기자 = 위고비, 마운자로 등 GLP-1 기반 체중 감량 약물이 일부 암의 확산을 늦출 수 있다는 연구 결과가 나왔다.",
+      "21일(현지 시간) 영국 데일리메일에 따르면 미국 클리블랜드 클리닉 연구진들은 암 진단을 받은 후 GLP-1 약물을 사용하기 시작한 환자들이 암의 확산을 늦출 수 있었다고 발표했다.",
+      "글루카곤 유사 펩타이드-1(GLP-1) 계열 약물은 제2형 당뇨병 치료제로 개발되었으나 체중 감소 효과가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndaf15f09",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260523/133980012/1",
+    "title": "워시 연준 의장, 공식 취임…트럼프 “진심으로 독립적이길”",
+    "summary": [
+      "케빈 워시 연방준비제도(Fed 연준) 신임 의장이 22일(현지 시간) 공식 취임했다.워시 의장은 이날 백악관에서 개최된 취임식에서 클래런스 토머스 대법관 주재하에 취임 선서를 하고 임기를 시작했다.워시 의장은 56세로 연준 11대 의장으로 4년간 임기를 수행할 예정이다.",
+      "도널드 트럼프 대통령은 올해 1월 워시 의장을 제롬 파월 전 의장 후임으로 지명했고, 미 상원은 지난 13일 인준안을 통과시켰다.",
+      "워시 의장은 지난 15일 파월 전 의장이 8년."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb6e5ad1e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "33분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260523/133980009/1",
+    "title": "털시 개버드 美 국가정보국장 사임…“남편 희귀암 투병 지원”",
+    "summary": [
+      "털시 개버드 미 국가정보국(DNI) 국장이 남편의 희귀 골암 투병을 돕기 위해 사임한다고 밝혔다.개버드 국장은 22일(현지 시간) 도널드 트럼프 미국 대통령에게 백악관 집무실 회의에서 직접 사의를 전달했으며, 마지막 근무일은 오는 6월 30일로 예정돼 있다고 폭스뉴스 디지털이 보도했다.폭스뉴스 디지털이 입수한 공식 사임서에서 개버드 국장은 “지난 1년 반 동안 보내준 신뢰와 국가정보국장실을 이끌 기회를 준 데 깊이 감사드린다”며 “안타깝게도 2."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6b48a452",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "41분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/23/MZQTENLFMI3DGMJYG4YWENLEGY/",
+    "title": "장도연X최다니엘, 결혼식 낭만 똑같아→그저 우연일까? ('구기동프렌즈') [순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 장도연과 배우 최다니엘의 결혼식 낭만이 겹쳐 눈길을 끌었다.",
+      "22일 방송된 tvN ‘구기동 프렌즈’에서는 장도연, 이다희, 안재현, 경수진이 카니를 집으로 초대해 유쾌한 시간을 보내는 모습이 그려졌다.",
+      "친분은 없지만 '구기동 프렌즈'의 초대에 응한 안무가 겸 방송인 카니는 프랑스 가정식."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2b55a917",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "49분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523004100108",
+    "title": "이란 \"美와 의견차, 핵문제 논의 안돼\"…합의 임박설 부인",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 에스마일 바가이 이란 외무부 대변인은 미국과의 종전 협상과 관련해 \"합의가 임박했다고 말할 수는 없다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf13954ac",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "52분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/23/MQ3TKYZSGBRTONZYHBSWCZLFGM/",
+    "title": "기안84 어머니, 취미 그림러인데 입이 '떡' \"미술 유전자 있네\" ('나혼산') [순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 웹툰 작가 출신 방송인 기안84 어머니의 그림 실력이 관심을 모았다.",
+      "22일 방송된 MBC 예능 '나 혼자 산다'(이하 '나혼산') 648회에서는 제주 본가를 찾은 기안84의 하루가 공개되어 눈길을 끌었다.이날 기안84는 \"어머니가 이사하신 지 4,5년 됐다\"며 본가를 소개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n35654d87",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
+    "time": "58분 전",
     "url": "https://www.newsis.com/view/NISX20260523_0003641768",
-    "title": "트럼프, 이란 합의 임박 관측 속 \"장남 결혼식 안 간다\"",
+    "title": "트럼프, 이란 합의임박 관측속 \"장남 결혼 안가\"…뉴저지행도 취소",
     "summary": [
       "[워싱턴=뉴시스] 이윤희 특파원 = 미국과 이란 간 종전 합의 타결이 임박했다는 관측이 제기되는 가운데, 도널드 트럼프 미국 대통령이 업무 때문에 주말 예정된 장남 결혼식에 불참한다고 22일(현지 시간) 밝혔다.",
       "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 \"내 아들 돈 주니어(도널드 트럼프 주니어)와 트럼프 일가의 새로운 일원이 될 예비 아내 베티나(앤더슨)와 매우 함께하고 싶지만 정부와 관련된 상황과 미국에 대한 내 사랑이 그것을."
@@ -344,38 +511,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd56a9a71",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523003900091",
-    "title": "메타, SNS 앱 물량공세 시동…저커버그 \"AI로 앱 50개 만들까?\"",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 페이스북·인스타그램 운영사 메타가 새로운 사회관계망서비스(SNS) 앱을 잇달아 선보이며 인공지능(AI..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n963e55c8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/national/weekend/2026/05/23/4IAUNZEXDBDDXCBF4WJLBQHGB4/",
-    "title": "ZARA에서 ‘갓’ 사는 시대",
-    "summary": [
-      "ZARA에서 ‘갓’ 사는 시대."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb58440fc",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260523003700072",
     "title": "'워시의 연준' 트럼프 기대에도 금리인하 단행 어려울듯",
     "summary": [
@@ -387,86 +526,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8c61f123",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/05/23/MQZWCZBUMVSTOZDCGY2DGNRUGA/",
-    "title": "[속보] '날벼락' 허리 통증 이정후, 부상자 명단 가능성...대체자 외야수, 트리플A 콜업",
-    "summary": [
-      "[OSEN=한용섭 기자] 메이저리그 샌프란시스코 자이언츠 이정후가 허리 통증 부상으로 계속 결장할 전망이다.",
-      "최악의 경우 부상자 명단에 오를 가능성도 있다.",
-      "샌프란시스코는 이정후 대체자로 트리플A에서 외야수를 콜업했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfcf35fa2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003641766",
-    "title": "털시 개버드 美 국가정보국장 사임…\"남편 희귀암 투병 지원\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 털시 개버드 미 국가정보국(DNI) 국장이 남편의 희귀 골암 투병을 돕기 위해 사임한다고 밝혔다.",
-      "개버드 국장은 22일(현지 시간) 도널드 트럼프 미국 대통령에게 백악관 집무실 회의에서 직접 사의를 전달했으며, 마지막 근무일은 오는 6월 30일로 예정돼 있다고 폭스뉴스 디지털이 보도했다.",
-      "폭스뉴스 디지털이 입수한 공식 사임서에서 개버드 국장은 \"지난 1년 반 동안 보내준 신뢰와 국가정보국장실을 이끌 기회를 준 데."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc2f52536",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/23/MMZTQMTEHBSDQM3CME2DMMBQGQ/",
-    "title": "“베이스 도는 게 어색했다” 19일 만에 손맛 본 디아즈, 이제 몰아치기 모드 ON! [오!쎈 부산]",
-    "summary": [
-      "[OSEN=부산, 손찬익 기자] “이상적인 스윙이 나왔다”는 말은 허언이 아니었다.",
-      "프로야구 삼성 라이온즈 외국인 타자 르윈 디아즈가 길었던 홈런 침묵을 깨고 부활의 신호탄을 쏘아 올렸다.디아즈는 지난 22일 사직구장에서 열린 롯데 자이언츠와의 원정 경기에 4번 1루수로 선발 출장해 시즌 6호 홈런을 터뜨렸다.",
-      "지난 3일 대구 한화 이글스전 이후 무려 19."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd172df8d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/05/23/7354GGZ53NB7TNRJEQWMMIQ2PE/",
-    "title": "한국을 상징하는 기업은?… 제품 흥행 넘어 국가 철학 공유해야",
-    "summary": [
-      "한국을 상징하는 기업은?… 제품 흥행 넘어 국가 철학 공유해야."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44384a75",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523003400087",
-    "title": "스페인어 배우며 마추픽추 보려 했는데…페루서 호주경관 추락사",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 페루의 유명 트레킹 코스인 '잉카트레일'을 걷던 50대 호주 관광객이 협곡으로 추락해 숨졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n97cb1ba8",
     "category": "경제",
     "source": "머니투데이",
-    "time": "35분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/entertainment/2026/05/23/2026052302534139969",
     "title": "'결혼 5년 차' 카니, 오는 9월 결혼식 예고 \"비욘세 작업 때문에 미뤄져\"",
     "summary": [
@@ -479,24 +542,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd88068c8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523003800099",
-    "title": "모로코 관광도시서 주거용 건물 붕괴로 15명 사망",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 모로코의 관광도시 페스에서 주거용 건물이 무너져 어린이 2명을 포함해 최소 15명이 숨지고 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n3f17cf16",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "55분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260523003300002",
     "title": "달러-원, 연준 금리 인상 가능성에 상승폭 약간 확대…1,517.40원 마감",
     "summary": [
@@ -511,7 +560,7 @@ window.NEWS_DB = [
     "id": "n3809f3af",
     "category": "경제",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/entertainment/2026/05/23/2026052302215835037",
     "title": "브라이언 \"솔로된 지 17년 차…결혼 커녕 연애 생각도 없어\" 고백",
     "summary": [
@@ -524,38 +573,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n363867b5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003641765",
-    "title": "[속보]폭스뉴스 \"털시 개버드 美 국가정보국장 사임\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n01269a57",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003641758",
-    "title": "37세 프랑스 전 총리 가브리엘 아탈, 내년 대선 출마 선언",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 가브리엘 아탈 전 프랑스 총리가 22일(현지 시간) 2027년 프랑스 대통령 선거 출마를 공식 선언했다.",
-      "에마뉘엘 마크롱 대통령 퇴임 이후 차기 권력을 둘러싼 경쟁이 본격화되는 가운데, 아탈은 극우 세력에 맞설 중도 진영의 핵심 주자로 부상하고 있다.",
-      "아나툴루 통신에 따르면 아탈은 이날 프랑스 남부 아베롱 지역의 무르드바레즈 마을에서 열린 행사에서 \"더 이상 이런 프랑스 정치를 견딜 수 없다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nc166b3b4",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152094",
     "title": "\"AI시대엔 '보안'이 '보험'\"...윤오준 前 국정원 3차장, 中企에 전한 제언은?",
     "summary": [
@@ -571,7 +592,7 @@ window.NEWS_DB = [
     "id": "n473e3102",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260523/133979789/2",
     "title": "“투표권NO” “배제NO” 삼성전자 勞勞 두 목소리",
     "summary": [
@@ -587,7 +608,7 @@ window.NEWS_DB = [
     "id": "neb61a549",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260523/133979799/2",
     "title": "내일 부처님오신날… “마음은 평안으로, 세상은 화합으로”",
     "summary": [
@@ -600,32 +621,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbbaa2ae1",
+    "id": "n67430bf1",
     "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260523/133979787/2",
-    "title": "주독미군 줄이는 트럼프… “폴란드 5000명 추가 파병”",
+    "source": "테크M",
+    "time": "2시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152090",
+    "title": "[기자수첩] 스타벅스, 파멸 아닌 쇄신을 위한 '최소한의 시간'을 주자",
     "summary": [
-      "21일(현지 시간) 도널드 트럼프 미국 대통령이 “미국이 폴란드에 추가로 병력 5000명을 보낼 것”이라고 밝혔다.",
-      "앞서 13일 미 국방부가 육군 4000명의 폴란드 배치를 돌연 취소한 지 8일 만에 이를 뒤집은 것이다.",
-      "트럼프 대통령은 21일 트루스소셜에 “내가 자랑스럽게 지지를 표명했던 카롤 나브로츠키가 성공적으로 당선돼 폴란드 대통령이 됐다”며 그와의 관계를 바탕으로 병력 파견 결정을 내렸다고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nacf1c0e7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260523/133979785/2",
-    "title": "국민참여성장펀드 판매 첫날, 10분만에 “완판”",
-    "summary": [
-      "정부가 국민들의 자금을 받아 첨단전략 산업에 투자하는 ‘국민참여형 국민성장펀드’(국민참여성장펀드) 판매 첫날 은행과 증권사 곳곳에서 완판 행렬이 이어졌다.",
-      "펀드의 손실을 정부 재정이 일부 떠안아 주는 데다 세제 혜택도 있어 가입자가 몰린 것으로 풀이된다.",
-      "금융위원회는 국민참여성장펀드를 출시한 첫날인 22일 하루 동안 총 5223억5000만 원어치가 판매됐다고 밝혔다."
+      "5·18 민주화운동 기념일에 맞물려 진행된 이른바 '탱크데이' 마케팅 논란은 결국 스타벅스 코리아의 수장이 하루아침에 지휘봉을 내려놓는 파국으로 이어졌다.",
+      "정용진 신세계그룹 회장이 격노와 함께 손정현 대표이사의 즉각 해임이라는 초강수를 내리면서다.",
+      "지금의 편안한 삶을 누리기 전에 일어난, 너무나 가슴 아픈 비극을 기리는 날에 '탱크'라는 단어를 전면에 내세우고, 박종철 열사 고문치사 사건을 연상시키는 문구까지 노출한 점은 분명 스타벅스의 뼈아픈."
     ],
     "chips": [
       "#뉴스"
@@ -638,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "정치",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
