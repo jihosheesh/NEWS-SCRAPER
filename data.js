@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-22 13:07:12
+// 마지막 업데이트: 2026-05-22 14:59:59
 window.NEWS_DB = [
   {
     "id": "na3957e8b",
     "category": "IT",
     "source": "위키트리",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zd0ZXSTFRTTFEVDB6b015U2lmOGpHNDY2RDMxWkRSdFZnbDN0SVo3YmpNU2tBQmRfT2xoWVFFNlRmejJ6czFGelFlRWg3VDZMSmhWMVhn?oc=5",
     "title": "엔비디아는 고작 3위…압도적 1위 기록한 '이 종목'",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nd3cf3b1a",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBR3REYWpMQ240c21NaGFNSGNDRENxcm5qWllCcXJpM1dneUhMOXZKLVhaaC0yLWVyLWtsd21IeWd4bXVZTDB2NWE2UnVuZ3RzOXNYUnpLN0RBdlFBaXVBS25wYldvOFpXX2VXcA?oc=5",
     "title": "엔비디아 깜짝실적…AI 투자 4조弗 간다",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nc0b12697",
     "category": "IT",
     "source": "시사저널e",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJYkhtUi1nSnhEa0ZHSm51TXpPLS1uLTVQdkpzcHRFN0lJblktTnRGV1ZQQnlKbHVuSUEtUnRYWmI4TThBOHR0cDByTVc4emNoQnk2NDljY0FmZHhja3lna1dNZmdrNGlVeWcxM2dJTERBUdIBdkFVX3lxTFAwQTE2TDN6Y1UwVGhUTmdTd19aRVlrWTI1eXdBZ3ItbVczZzVBMWFMRXM2X3o5anF6alAtMXJJdi1kakYyN0RoLVlUYkItckZMZ1hDQUZkRmM2bXYzUTBVWWQ1dm5aZEJoa29pZWduWnJwOU5Kd3c?oc=5",
     "title": "엔트로픽, MS 반도체 공급 협상···탈엔비디아 움직임 가속",
     "summary": [
@@ -225,6 +225,35 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n15f5f447",
+    "category": "경제",
+    "source": "지디넷코리아",
+    "time": "79일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
+    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
+    "summary": [
+      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "92일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -281,34 +310,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "n13cdbe9c",
-    "category": "부동산",
-    "source": "시사저널e",
-    "time": "143일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
-    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
-    "summary": [
-      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n41be81c1",
-    "category": "경제",
-    "source": "YTN",
-    "time": "194일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KUFFYTE53YzNGaGd6bEZwYTRYSE1sUFhlSkcwZmVhbWpFMV9yd0cySkRESWdsQVJBNU5IdVpzZFMwbEpaVVp1Z3hnYzEyYkljMXlPeURzYlZoU3B3MGc?oc=5",
-    "title": "코스피 석 달 동안 1,000p 올랐는데 환율 급등한 이유는?",
-    "summary": [
-      "코스피 석 달 동안 1,000p 올랐는데 환율 급등한 이유는? YTN."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -376,260 +377,260 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n311d8aca",
+    "id": "n2e3573a2",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "조선일보",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641708",
-    "title": "국힘 신동욱 최고위원, 한경호 진주시장 후보 지원유세",
+    "url": "https://www.chosun.com/international/international_general/2026/05/22/GA4GIYRXHBQTKNBZMVSDSM3GMM/",
+    "title": "사우디 매체 “미·이란 종전 합의안 초안 마련…발표 가능성” 보도",
     "summary": [
-      "[진주=뉴시스] 정경규 기자 = 국민의힘 신동욱 최고위원이 22일 오후 한경호 경남 진주시장 후보 지원유세를 위해 서부시장과 중앙시장·자유시장을 잇따라 방문하며 한 후보 지지유세를 펼쳤다.",
-      "신 최고위원은 \"지금 대한민국은 이재명 정권의 독주를 견제할 힘이 필요하다\"며 \"지역 발전을 위해서는 국회의원과 시장이 같은 당이돼야 중앙정부와 긴밀히 협력할 수 있고, 지역 예산 확보도 훨씬 수월해진다\"고 강조했다.",
-      "그러면서 \"진주선거가 복잡하다.시장 후보."
+      "미국과 이란이 종전 합의안 초안을 마련했고 몇 시간 내 합의에 이를 가능성이 있다는 사우디아라비아 국영 매체의 보도가 나왔다.",
+      "사우디아라비아 국영 방송 사우디아라비아 매체 알 아라비야는 22일(현지 시간) 미-이란 간 마련한 합의문 초안을 단독 입수했다고 보도했다.",
+      "이 보도에 따르면 미국과 이란의 합의문 초안에는 ▲모든 전선에서 즉각적, 포괄적, 무조건적."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0331ce97",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/22/MI3TSM3CHBSDKNBUHFQTKMTCMM/",
+    "title": "'44억 원 판매' 브라이언, 누적 매출액만 157억 비결은('전현무계획')[순간포착]",
+    "summary": [
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] '전현무계획3’ 플라이 투 더 스카이 브라이언이 자신만의 콘텐츠로 청소기 판매 라이브 커머스 1위의 신화를 썼다.22일 MBN, 채널S ‘전현무계획3’에서는 특별한 먹친구로 브라이언, 환희가 동반 출연했다.",
+      "'플라이 투 더 스카이'로 다시금 Y2K로 회자됨과 동시에 환희의 제 2의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf08aa20d",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522167700072",
+    "title": "美 소비자심리 또 사상 최저…인플레 우려에 3개월 연속 악화",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 이란 전쟁에 따른 유가 상승과 인플레이션 우려로 미국 소비자들의 경제 심리가 3개월 연속 하락, 사상 최저 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf3604200",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/22/QSQLA75Y7NBO7F33CTSYYQPS5I/",
+    "title": "“즉각적 휴전·호르무즈 개방... 美·이란 합의문 초안 곧 발표”",
+    "summary": [
+      "“즉각적 휴전·호르무즈 개방... 美·이란 합의문 초안 곧 발표”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2463ae80",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/22/2026052220253438191",
+    "title": "'관저 이전 특혜 의혹' 윤석열 정부 비서실 간부들 구속…김오진 기각",
+    "summary": [
+      "(상보) 윤석열 정부 출범 당시 대통령실 및 관저 이전 과정에서 예산을 불법 전용하는 데 관여했다는 혐의가 있는 김대기 전 비서실장과 윤재순 전 총무비서관이 구속됐다.",
+      "2차 종합특검(특별검사 권창영) 출범 이후 첫 피의자 신병 확보다.",
+      "부동식 서울중앙지법 영장전담 부장판사는 22일 직권남용권리행사방해 혐의를 받는 김 전 비서실장과 윤 전 비서관에 대해 구속영장을 발부했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n88971b96",
+    "id": "n214ec31b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641693",
-    "title": "[6·3경남]공교육 역할부터 특정후보 자녀 논문의혹까지…교육감 후보들 '설전'",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641387",
+    "title": "법원, '관저 이전 의혹' 김대기·윤재순 구속…김오진은 기각",
     "summary": [
-      "[창원=뉴시스] 김기진 기자 = 경남교육감 후보들간 공교육의 역할과 사교육 해법, 특목고 확대, 권순기 후보 자녀의 논문·연구 활동까지 도마에 올리며 치열하게 공방을 펼쳤다.",
-      "22일 MBC경남 초청 경남교육감 후보자 토론회에는 보수 진영의 권순기 전 경상국립대 총장과 진보 진영의 송영기 전 전국교직원노동조합 경남지부장, 범중도를 내세운 오인태 전 창원남정초 교장 등 3명이 참석했다.",
-      "이번 토론회는 여론조사 평균 지지율 5％ 이상 후보를 대상으로."
+      "[서울=뉴시스] 오정우 이윤석 기자 = 대통령실 관저 이전 과정에서 행정안전부에 예산을 불법적으로 전용하도록 지시한 혐의를 받는 김대기 전 대통령비서실장과 윤재순 전 대통령실 총무비서관이 구속됐다.",
+      "2차 종합특별검사팀이 출범 후 처음으로 신병을 확보한 것이다.",
+      "다만 김오진 전 국토교통부 1차관의 구속 영장은 기각됐다."
     ],
     "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n48d0b54c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522167600072",
+    "title": "캐나다 앨버타주, 분리독립 추진 찬반 투표 실시하기로",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 캐나다 앨버타주가 캐나다 연방으로부터 분리 독립을 추진할지 여부를 묻는 공개 투표를 실시한다고 캐나다 공영 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n11528bba",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522167500081",
+    "title": "'국가 행사 계약 비리 의혹' 프랑스 대통령실 압수수색",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 프랑스 수사 당국이 국가 행사 계약 비리 의혹 수사 차원에서 프랑스 대통령실인 엘리제궁을 압수수색했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8299963e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522167300004",
+    "title": "'관저이전 의혹' 김대기·윤재순 구속…종합특검 첫 신병확보",
+    "summary": [
+      "(서울=연합뉴스) 이밝음 기자 = 윤석열 정부 관저 이전 과정에서 예산을 불법 전용한 혐의를 받는 전직 대통령실 고위 관계자들이 22일 구속됐다..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n945d1a35",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260522/133979916/1",
+    "title": "[속보]‘尹관저 이전 의혹’ 김대기·윤재순 구속…김오진은 기각",
+    "summary": [
+      "‘尹관저 이전 의혹’ 김대기·윤재순 구속…김오진은 기각."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n48ed1268",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/22/2026052220100575696",
+    "title": "[속보]'관저 이전 특혜' 김대기·윤재순 구속영장 발부…김오진 기각",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb415d4bc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641743",
+    "title": "사우디 매체 \"미·이란 합의 초안 임박…휴전·제재 단계적 해제\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 파키스탄의 중재로 미국과 이란 간에 추진 중인 합의안의 최종 초안이 몇 시간 내 발표될 가능성이 있다고 사우디아라비아 매체 알 아라비야가 22일(현지 시간) 보도했다.",
+      "알 아라비야가 단독 입수했다고 밝힌 초안에는 육상·해상·공중을 포함한 모든 전선에서 즉각적이고 포괄적이며 무조건적인 휴전을 시행하는 내용이 담겼다.",
+      "또 양측은 군사·민간·경제 기반시설을 공격하지 않기로 상호 약속하고, 군사 작전과 언론전을 중단하는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04c00ad7",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260522/133979622/2",
+    "title": "[사설]반도체 슈퍼호황에 더 남아돌 교육교부금, 서둘러 손봐야",
+    "summary": [
+      "반도체 슈퍼호황으로 교육교부금이 대폭 늘어날 것으로 전망되는 가운데 최교진 교육부 장관이 “늘어난 세수에 대해선 합리적인 활용 방안을 고민할 수 있다”고 밝혔다.",
+      "최 장관은 “학생 수가 줄었으니 교육예산도 줄여야 한다는 주장에는 동의하기 어렵다”면서도 “고등교육 예산이 경제협력개발기구(OECD) 평균에 비해 낮은 만큼 함께 논의해야 한다”고 말했다.",
+      "유치원과 초중고 교육에만 쓸 수 있는 교육교부금을 대학 교육에도 쓸 수 있도록 재정 칸막이를 없."
+    ],
+    "chips": [
+      "#반도체",
       "#교육"
     ]
   },
   {
-    "id": "n181ca7b6",
-    "category": "경제",
+    "id": "n764a7f83",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260522/133979900/2",
+    "title": "WHO “민주콩고 에볼라 위험 ‘매우 높음’으로 상향”",
+    "summary": [
+      "세계보건기구(WHO)가 22일(현지 시간) 콩고민주공화국(민주콩고)에서 에볼라 바이러스가 급속히 확산하고 있다며 국가적 위험 수준을 ‘높음’에서 ‘매우 높음’으로 상향 조정했다.테워드로스 아드하놈 거브러여수스 WHO 사무총장은 이날 스위스 제네바에서 열린 세계보건총회(WHA) 브리핑에서 이같이 밝혔다.",
+      "에볼라 바이러스는 호흡기로 전파되지 않지만 감염자 혹은 사망자의 혈액, 체액 등에 직간접적으로 접촉하면 감염된다.",
+      "바이러스에 감염된 침팬지, 고."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n154e24b2",
+    "category": "사회",
     "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/22/2026052221462453051",
-    "title": "스벅 인증 후 \"뉴스 잘 모르는디\"…결국 뮤지컬 하차한 남배우",
+    "time": "32분 전",
+    "url": "https://www.mt.co.kr/living/2026/05/22/2026052223254451262",
+    "title": "화학안전, '서류관리'서 '현장 실행'으로 전환… AI 기반 예방체계 속도",
     "summary": [
-      "스타벅스코리아의 '탱크데이' 논란이 연일 지속되는 가운데 스타벅스를 찾은 사진을 올려 뭇매를 맞은 뮤지컬배우 정민찬(38)이 출연 중이던 뮤지컬에서 중도 하차했다.",
-      "뮤지컬 '디아길레프' 제작사 쇼플레이는 22일 SNS(소셜미디어)를 통해 \"니진스키 역 정민찬 배우가 제작사와 충분한 논의 끝에 공연에서 하차하게 됐다\"며 \"예정된 이벤트는 변경된 캐스팅으로 진행될 예정\"이라고 밝혔다.",
-      "제작사는 \"배우 관련 사안으로 심려를 끼친 점, 갑작스러운 결정."
+      "ENVEX 2026 설명회서 위험성평가·중소기업 지원·디지털 안전관리 집중 논의 화학사고 대부분 기본수칙 미준수서 발생… 예방 중심 실행력 강화해야 반복되는 화학사고와 중대재해를 계기로 국내 화학안전 관리체계가 '현장 실행형 예방관리' 중심으로 빠르게 전환되고 있다.",
+      "정부는 단순 법령 준수와 서류 중심 관리에서 벗어나 위험성평가 실효성 강화와 AI·디지털 기반 예방체계 구축 등 종합 안전관리 체계 고도화에 속도를 내고 있다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#환경"
     ]
   },
   {
-    "id": "nccf8fe99",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260522163000071",
-    "title": "美국무, 이란 종전협상에 \"약간의 진전…농축 우라늄 해결해야\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 마코 루비오 미국 국무부 장관은 22일(현지시간) 미국과 이란 간의 종전 협상에 약간의 진전이 있다고 밝혔..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd81ce81f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260522163200527",
-    "title": "동해남부먼바다 등 3곳 23일 0시 풍랑주의보 해제",
-    "summary": [
-      "(울산=연합뉴스) 기상청은 동해남부남쪽바깥먼바다·동해남부남쪽안쪽먼바다에 발령했던 풍랑주의보를 23일 0시를 기해 해제한다고 22일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19c6ee9f",
+    "id": "n4d2c1b21",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641550",
-    "title": "'이차전지 테마 주가조작' 알에프세미 전·현직 대표 구속(종합)",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260522/133979626/2",
+    "title": "[사설]“김수현 녹취는 AI 조작”… 엄벌 없인 ‘악마적 범죄’ 더 판칠 것",
     "summary": [
-      "[서울=뉴시스] 조성하 이태성 기자 = '이차전지 산업에 진출하겠다'는 호재성 허위 정보를 퍼뜨려 주가를 조작한 혐의를 받는 반도체 소자 제조업체의 전현직 대표가 구속됐다.",
-      "서울남부지법 황중연 영장전담 부장판사는 22일 오후 자본시장법 위반(사기적 부정거래) 혐의를 받는 코스닥 상장사 알에프세미 전 대표 구모씨와 현 대표 반모씨에 대한 구속영장을 발부했다.",
-      "황 부장판사는 \"증거인멸 우려가 있다\"며 영장 발부 사유를 설명했다."
+      "배우 김수현 씨가 고 김새론 씨와 미성년자 시절 교제했다는 의혹을 제기한 유튜버에 대해 검찰이 인공지능(AI)으로 조작된 증거를 앞세워 허위 사실을 유포했다며 구속영장을 청구했다.",
+      "‘가로세로연구소’ 김세의 대표는 지난해 5월 김새론 씨가 중학교 때부터 김수현 씨와 교제한 증거라면서 유족 측에게서 받은 김새론 씨의 음성 녹취를 공개했는데 이게 AI로 만든 가짜라고 판단한 것이다.",
+      "김새론 씨가 중학생이던 2016년 김수현 씨와 나눈 문자 대화라며."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n085d397f",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "35분 전",
+    "url": "https://www.asiae.co.kr/article/2026052223235943687",
+    "title": "'이차전지 테마' 주가조작…알에프세미 전현직 대표 구속",
+    "summary": [
+      "'이차전지 산업에 진출한다'는 취지의 호재성 허위 정보를 퍼뜨려 주가를 조작한 반도체 소자 제조업체의 전·현직 대표가 구속됐다.",
+      "황중연 서울남부지법 영장전담 부장판사는 22일 오후 자본시장법상 사기적 부정거래 혐의를 받는 코스닥 상장사 알에프세미 전 대표 구모씨와 현 대표 반모씨에 대해 \"증거를 인멸할 우려가 있다\"며 구속영장을 발부했다.",
+      "구씨는 기획재정부 차관보를 지낸 인사다."
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n165c2729",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260522135800051",
-    "title": "자율운항선박 비강제 국제기준 IMO 채택…국제 표준화 마련",
-    "summary": [
-      "(부산=연합뉴스) 박성제 기자 = 자율운항선박 도입과 관련한 국제 표준을 제시하는 비강제 국제기준이 국제해사기구(IMO)에서 승인됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naca52667",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260522163100527",
-    "title": "남해 동부 먼바다에 23일 0시 풍랑주의보 해제",
-    "summary": [
-      "(창원=연합뉴스) 기상청은 남해동부안쪽먼바다에 발령했던 풍랑주의보를 23일 0시를 기해 해제한다고 22일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6faeefa9",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641691",
-    "title": "'김호령 결승포' KIA, SSG 5연패 몰고 '단독 4위'…5-2 승리",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 공동 4위 간의 맞대결로 이목을 끌었던 경기에서 프로야구 KIA 타이거즈가 웃었다.",
-      "KIA는 22일 광주-기아 챔피언스필드에서 벌어진 2026 신한 쏠 KBO리그 SSG 랜더스와의 경기에서 5-2로 이겼다.",
-      "2연승을 내달린 KIA는 공동 딱지를 떼고 단독 4위가 됐다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n09403492",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/05/22/VJXBNUKDVRD4NFN27MC33VN56A/",
-    "title": "조국 편드는 친노·친문... 평택을 재선 여권 균열",
-    "summary": [
-      "조국 편드는 친노·친문... 평택을 재선 여권 균열."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n479b1a7e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/22/MEZGCMJSMYYTOMRTGA2GKMBTHA/",
-    "title": "LG 3안타로 이길 수 없다...'7-0 완승' 키움 5연승 질주, 김건희 또 결승타-로젠버그 4이닝 무실점 [잠실 리뷰]",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 키움 히어로즈가 LG 트윈스를 꺾고 5연승을 달렸다.키움은 22일 서울 잠실구장에서 열린 2026 KBO리그 LG와 경기에서 7-0으로 승리했다.",
-      "전날(21일) 만루 홈런을 터뜨린 김건희가 선제 결승타 포함 4타수 2안타 2타점, 이형종이 4타수 3안타 1타점 2득점으로 활약했다.",
-      "키움 선발 로젠버그는 투구 수 제한."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd1d36bde",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/22/2026052221442887396",
-    "title": "[한번에쓱]'7-4 승리 자축하는' 장성우, 박영현과 마법사들",
-    "summary": [
-      "KT 마무리 박영현이 22일 수원KT위즈파크에서 열리는 2026KBO리그 KT위즈와 NC다이노스 경기에서 승리한 후 장성우 포수와 하이파이브를 나누고 있다.",
-      "KT 선수들이 22일 수원KT위즈파크에서 열리는 2026KBO리그 KT위즈와 NC다이노스 경기에서 승리한 후 하이파이브를 나누고 있다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n27ae1118",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/22/2026052221313519160",
-    "title": "미국·이란 종전합의 근접했나…사우디 매체 \"호르무즈 개방 합의\"",
-    "summary": [
-      "[미국-이란 전쟁] 알아라비야 \"몇시간 내 발표, 미해결 사안 7일내 협상개시\" 미국과 이란이 종전 합의안 초안을 마련했으며 몇 시간 내 합의 타결을 발표할 가능성이 있다고 사우디아라비아 매체 알아라비야가 22일(현지시간) 보도했다.",
-      "알아라비야는 취재원들을 인용, 미국과 이란이 작성한 최종 협상안에 아라비아만(페르시아만)과 호르무즈 해협에서 항행 자유를 인정한다는 내용이 포함됐다고 보도했다.",
-      "매체는 \"미국과 이란은 모든 전선에서 즉각, 포괄적이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ae8386a",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260522058453530",
-    "title": "공무원노조도 동참…스타벅스 불매 공직사회 전반 확산(종합3보)",
-    "summary": [
-      "(서울=연합뉴스) 홍준석 기자 = 이른바 '탱크 데이'(Tank Day) 이벤트로 5·18 민주화운동 폄훼 논란에 휩싸인 스타벅스 상품을 불매하..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n561afdfa",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/22/LPA76K77EZB7BP7ZJ2R5RSGSPY/",
-    "title": "한화 아시아쿼터 좌완 투수 왕옌청, 다승 공동 선두",
-    "summary": [
-      "한화 아시아쿼터 좌완 투수 왕옌청, 다승 공동 선두."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nebb07326",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260522/133979572/2",
-    "title": "배우 김규리 자택 침입 40대 강도 구속…“도주 우려”",
-    "summary": [
-      "배우 김규리 씨의 자택에 침입해 금품을 훔치려 한 40대 남성이 22일 구속됐다.서울중앙지법 이종록 영장전담 부장판사는 이날 오후 강도상해 혐의를 받는 임모 씨에 대한 구속전피의자심문(영장실질심사)을 열어 “도망할 염려가 있다”며 구속영장을 발부했다.",
-      "임 씨는 20일 오후 9시경 김 씨 자택에 침입해 금품을 요구한 혐의를 받는다.",
-      "김 씨와 그와 함께 거주하던 여성은 임 씨의 감시가 소홀한 틈을 타 집에서 빠져나와 인근 상인에게 도움을 청했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c6b260d",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "26분 전",
-    "url": "https://www.mt.co.kr/culture/2026/05/22/2026052221322610524",
-    "title": "역사왜곡 논란 '대군부인', 결국 팝업스토어 조기 종료…후폭풍 여전",
-    "summary": [
-      "역사 왜곡 논란에 휩싸였던 MBC 드라마 '21세기 대군부인'이 결국 팝업스토어 운영을 조기 종료한다.",
-      "22일 팝업스토어 주최 측은 사전 예약자들에게 사과 안내문을 발송하고 운영 일정을 축소한다고 공지했다.",
-      "당초 팝업스토어는 지난 19일부터 28일까지 총 10일간 운영될 예정이었으나, 현장 운영상의 이유로 일정과 운영 방식이 변경됐다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -639,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "정치",
     "mentions": "1550건",
     "trend": "+135%"
   }
