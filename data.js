@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-22 09:02:12
+// 마지막 업데이트: 2026-05-22 10:59:16
 window.NEWS_DB = [
+  {
+    "id": "na3957e8b",
+    "category": "IT",
+    "source": "위키트리",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zd0ZXSTFRTTFEVDB6b015U2lmOGpHNDY2RDMxWkRSdFZnbDN0SVo3YmpNU2tBQmRfT2xoWVFFNlRmejJ6czFGelFlRWg3VDZMSmhWMVhn?oc=5",
+    "title": "엔비디아는 고작 3위…압도적 1위 기록한 '이 종목'",
+    "summary": [
+      "엔비디아는 고작 3위…압도적 1위 기록한 '이 종목' 위키트리."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nd3cf3b1a",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBR3REYWpMQ240c21NaGFNSGNDRENxcm5qWllCcXJpM1dneUhMOXZKLVhaaC0yLWVyLWtsd21IeWd4bXVZTDB2NWE2UnVuZ3RzOXNYUnpLN0RBdlFBaXVBS25wYldvOFpXX2VXcA?oc=5",
     "title": "엔비디아 깜짝실적…AI 투자 4조弗 간다",
     "summary": [
@@ -20,26 +34,11 @@ window.NEWS_DB = [
     "id": "nc0b12697",
     "category": "IT",
     "source": "시사저널e",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJYkhtUi1nSnhEa0ZHSm51TXpPLS1uLTVQdkpzcHRFN0lJblktTnRGV1ZQQnlKbHVuSUEtUnRYWmI4TThBOHR0cDByTVc4emNoQnk2NDljY0FmZHhja3lna1dNZmdrNGlVeWcxM2dJTERBUdIBdkFVX3lxTFAwQTE2TDN6Y1UwVGhUTmdTd19aRVlrWTI1eXdBZ3ItbVczZzVBMWFMRXM2X3o5anF6alAtMXJJdi1kakYyN0RoLVlUYkItckZMZ1hDQUZkRmM2bXYzUTBVWWQ1dm5aZEJoa29pZWduWnJwOU5Kd3c?oc=5",
     "title": "엔트로픽, MS 반도체 공급 협상···탈엔비디아 움직임 가속",
     "summary": [
       "엔트로픽, MS 반도체 공급 협상···탈엔비디아 움직임 가속 시사저널e."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nba3f8148",
-    "category": "IT",
-    "source": "매일경제 마켓",
-    "time": "13시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qcXZZWGY0Y01jdkpkTGlWcEN6VjdMcEh0VHJGdUxWS21wX0hfZlBuZlNGY3BwYW11S2tNeGZRSHpnRUlxR1poR1g1VHVXWUZ1TFE?oc=5",
-    "title": "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동",
-    "summary": [
-      "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동 매일경제 마켓."
     ],
     "chips": [
       "#반도체",
@@ -64,7 +63,7 @@ window.NEWS_DB = [
     "id": "nc92d59ae",
     "category": "IT",
     "source": "경기일보",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
     "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
     "summary": [
@@ -107,6 +106,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n98221228",
+    "category": "경제",
+    "source": "한겨레",
+    "time": "6일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bHllbG1kZmFXbmpVaHZZM3Z4cUV6enJmcUhzR1U0ckF4WUNpYlg5YlNPaXBsMzEzaEwyZW1YcVN1TnlxQTRET0hNU0pUdlhyb3QxMklYbXprVHl1LWlUV01qY0c5eTgyb3BwNGxmYUZJQQ?oc=5",
+    "title": "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감",
+    "summary": [
+      "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감 한겨레."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -119,22 +132,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n2970703c",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
-    "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
-    "summary": [
-      "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게? 글로벌이코노믹."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#SK하이닉스"
     ]
   },
   {
@@ -197,20 +194,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n15f5f447",
-    "category": "경제",
-    "source": "지디넷코리아",
-    "time": "79일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
-    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
-    "summary": [
-      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "n759c2467",
     "category": "IT",
     "source": "Chosunbiz",
@@ -222,6 +205,23 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "neecf7f49",
+    "category": "IT",
+    "source": "인베스트조선",
+    "time": "98일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenJjd2J2QWRweGVSMmpnMERtaFA5WkFESjVyc2RVZG1HSTVTNWw1Q1NqNVp6OWtQRklOTHBNa2RLdm1GVFEwcW1JNXIzMWVMWkthSnpOWS1TcG5rS2J6QVgyVnRDc2xZLXQzRndsZ2FCMF96YnQ2T0cyX0tiOElzcm9qdw?oc=5",
+    "title": "엔비디아 공급 둘러싼 삼성전자-SK하이닉스의 HBM 경쟁 2막",
+    "summary": [
+      "엔비디아 공급 둘러싼 삼성전자-SK하이닉스의 HBM 경쟁 2막 인베스트조선."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자",
       "#SK하이닉스"
     ]
   },
@@ -270,14 +270,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n925a8076",
+    "id": "n46f59f4d",
     "category": "스포츠",
-    "source": "sportschosun.com",
-    "time": "133일 전",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qNHVpaThSNm1PZ3BKWWlGc3NlWjB3NU91QzlDT2hQWTBrRnpXZTNXeEVxamhJYjhoQVNDWDRUWmRzRXZuc0RkMkhnN1ZHc1didjg1cmhZTmdBMThpNVpBY2VfNjN4aHgwazVOYXJ5VklsUGdzUFlTWG1ZT24wQdIBd0FVX3lxTE1KX1RyM3RVQ01wWFBNb2RyRV82N3p3dml6RVVHTmNlVVc0Z01QaEIwbGFESWtyMmlteHFwTmh6QjFOeXltTDZlM3NCNlZpZXRZSjBhNDhvcDE3ZzM3Y0NLNVpzRm45TTFwMkRmTWwyMmJhQnlrNWV3?oc=5",
-    "title": "'일본도 깜짝 놀랐다' 손흥민+메시 합치자 오타니의 야구 넘었다...미국 인기 스포츠 종목 3위 등극",
+    "source": "머니투데이",
+    "time": "140일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
+    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
     "summary": [
-      "'일본도 깜짝 놀랐다' 손흥민+메시 합치자 오타니의 야구 넘었다...미국 인기 스포츠 종목 3위 등극 sportschosun.com."
+      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#손흥민",
@@ -376,273 +376,268 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2acf939c",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026052217595346210",
-    "title": "광주·전남 통합특별시 첫 금고에 농협은행…광주은행은 2금고",
-    "summary": [
-      "오는 7월 출범하는 전남광주통합특별시의 첫 금고로 NH농협은행이 선정됐다.",
-      "광주은행은 2금고를 맡아 특별회계와 기금 회계를 관리한다.",
-      "광주시와 전남도는 22일 합동 금고지정심의위원회를 열어 통합특별시 출범 이후 올해 말까지 재정을 관리할 금고를 선정했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ec8c557",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://www.asiae.co.kr/article/2026052218010061452",
-    "title": "정명근 후보 “서부권 그린벨트 해제·77번 국도 확포장 신속 추진”",
-    "summary": [
-      "더불어민주당 정명근 화성특례시장 후보는 22일 오후 그린벨트 해제와 교통체증 해소를 위한 도로 개설 등을 요구하는 주민 및 노동조합 간부들과 잇따라 정책 간담회를 갖고 신속한 추진의지를 다졌다.",
-      "정명근 후보는 이날 선거캠프를 방문한 남양읍, 비봉면, 매송면 등지의 그린벨트 지역 이장들과 정책 간담회를 갖고 \"특례시의 권한이 확대돼 지역 현안해결에 한걸음 더 다가갈수 있게 됐다\"면서 \"주민들의 의견이 최대한 반영."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n968ef8a3",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://www.asiae.co.kr/article/2026052218004857025",
-    "title": "'구리역 하이니티 리버파크', 무순위 청약 흥행…10대1 경쟁률",
-    "summary": [
-      "경기도 구리시 수택동 일원에 들어서는 '구리역 하이니티 리버파크'의 무순위 청약에 1200명이 넘게 몰리며 흥행을 기록했다.",
-      "22일 한국부동산원청약홈에 따르면 구리역 하이니티 리버파크는 지난달 일부 부적격 등으로 발생한 잔여 가구에 대한 무순위 청약을 받은 결과 총 1239명이 신청한 것으로 나타났다.",
-      "최고경쟁률을 기록한 전용면적 59㎡B타입의 경우 30가구 모집에 300명이 몰리며 10대 1의 경쟁률을 기록했다."
-    ],
-    "chips": [
-      "#부동산",
-      "#채용"
-    ]
-  },
-  {
-    "id": "n7ee5495e",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://www.asiae.co.kr/article/2026052217295679669",
-    "title": "위고비·마운자로 맞은 암 환자, 예상 밖 효과에 '깜짝'",
-    "summary": [
-      "위고비나 마운자로 같은 GLP-1 계열 비만·당뇨병 치료제가 암 환자 치료 효과를 개선하는 효과가 있다는 연구 결과가 나왔다.",
-      "21일(현지시간) 미국 일간 월스트리트저널(WSJ)은 클리블랜드 클리닉 암 연구소 연구진이 주도한 연구 결과를 전했다.",
-      "연구진이 초기 암으로 진단받은 후 GLP-1 약물 복용을 시작한 1만 명 이상의 환자를 추적해 다른 당뇨병 치료제를 복용한 환자군과 질병 진행을 비교한 결과, GLP-1 복용군에서 암 전."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "needdcd58",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/22/2026052217260269343",
-    "title": "[내일 날씨] 전국 흐리고 곳곳 빗방울…미세먼지 '좋음'",
-    "summary": [
-      "토요일인 내일(23일)은 전국이 대체로 흐린 가운데 일부 지역에서 비가 내리겠다.",
-      "22일 기상청에 따르면 내일은 동해상에 위치한 고기압의 가장자리에 들겠으나 오전부터 낮 사이 북쪽을 지나는 약한 기압골의 영향을 받겠다.",
-      "새벽부터 오전 사이 부산·울산과 경북 동해안에 다시 비가 내리겠고, 강원 동해안을 제외한 전국 대부분 지역에 오전 중 가끔 빗방울이 떨어지는 곳이 있겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ac41499",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/future/2026/05/22/2026052214354333955",
-    "title": "엘디카본, 당진 폐타이어 순환시설 재가동…경영권 분쟁 일단락",
-    "summary": [
-      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] 폐타이어 재생 스타트업 엘디카본이 경영권 분쟁을 일단락하고 본격적인 시설 재가동에 들어갔다고 22일 밝혔다.",
-      "2017년 설립된 엘디카본은 폐타이어를 열분해해 카본블랙, 열분해오일 등 재생소재를 만드는 스타트업이다.",
-      "토요타의 CVC(기업형 벤처캐피탈) 우븐캐피탈, SKIPC(인천석유화학) 등에서 누적 650억원의 투자를 유치하."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nbc8f4c71",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641346",
-    "title": "조계사 수놓은 연등 [오늘의 한 컷]",
-    "summary": [
-      "[서울=뉴시스] 부처님오신날을 이틀 앞둔 22일 서울 종로구 조계사에서 관계자들이 연등을 달고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n45e0e0aa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003640807",
-    "title": "\"위험 신호입니다\"…콩팥이 보내는 일상 속 신호들",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 콩팥이 망가질 때 초기 증상이 뚜렷하지 않아 늦게 발견될 수 있지만 일상적인 신체 변화를 통해 위험 신호를 감지할 수 있다.",
-      "20일 유튜브 채널 '건나물TV'에 출연한 내과 전문의 구은희 원장은 콩팥에 이상이 발생했을 때의 대표적인 증상을 소개했다.",
-      "첫 번째는 신체 부종과 소변의 상태 변화다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35c83fa8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003640449",
-    "title": "\"혈당 스파이크의 원인\"…의사가 경고한 '아침 빵'의 위험성",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 가정의학과 전문의 이진복 원장이 아침에 먹는 '빵'의 문제점을 지적했다.",
-      "지난 18일 이 원장은 소셜미디어(SNS)에 '아침 빵의 위험성'이라는 제목의 영상을 올렸다.",
-      "이 원장은 아침에 흰빵을 구운 후 딸기잼을 발라 오렌지 주스와 함께 먹는 식단이 위험하다고 경고했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf6f73d1b",
+    "id": "n72b02531",
     "category": "사회",
     "source": "동아일보",
     "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260522/133977853/2",
-    "title": "산불=소나무 조림… 자생력 외면하는 환경영향평가 현주소",
+    "url": "https://www.donga.com/news/Society/article/all/20260522/133975959/1",
+    "title": "가자행 선박 탔던 한국인 활동가 귀국…“이스라엘군에 폭행당했다”",
     "summary": [
-      "기후위기와 생물다양성 훼손 문제가 심화되면서 국내 환경영향평가 제도 역시 생태계 기능과 회복력, 생태계서비스 가치까지 반영하는 방향으로 재설계돼야 한다는 목소리가 커지고 있다.최근 강원도 강릉에서 열린 사단법인 생태계조사평가협회(KASAE) 춘계학술대회 특별세션에서는 자연환경보전 정책의 밸류업 전략을 주제로 자연환경 진단·평가 체계 개편 필요성이 집중 논의됐다.이번 세션에서는 이현우 한국환경연구원 박사의 ‘생물다양성의 가치를 고려한 조사·평가체."
+      "구호 선박을 타고 팔레스타인 가자지구로 향하다 이스라엘군에 나포됐던 한국인 활동가 2명이 22일 귀국했다.",
+      "이들은 이스라엘군에 붙잡혀 구타를 당했다고 주장했다.",
+      "‘팔레스타인 해방을 위한 항해 한국본부(KFFP)’ 소속 활동가 김동현 씨와 김아현 씨는 이날 오전 6시 23분경 태국 방콕발 항공편을 통해 인천국제공항에 도착했다."
     ],
     "chips": [
-      "#정책",
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "n842b9a0e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641565",
-    "title": "삼성전자 잠정 합의안 투표율 첫날부터 절반 넘어…조합원들 '뜨거운 관심'",
+    "id": "na4c8e430",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/22/2026052219370427038",
+    "title": "\"아침마다 눈 붓고 계단 올라갈 때 숨차다면\"…신장이 보내는 경고",
     "summary": [
-      "[서울=뉴시스]이지용 기자 = 삼성전자 노조의 '2026년 임금·단체협약 잠정 합의안'에 대한 찬반투표 참여율이 첫날부터 50%를 훌쩍 넘겼다.",
-      "이번 합의안에 대한 조합원들의 관심이 매우 크다는 분석이다.",
-      "22일 업계에 따르면 이날 오후 5시30분 기준 초기업노동조합 삼성전자지부의 투표율은 57.40%다."
+      "신장은 이상이 생겨도 뚜렷한 증상이 나타나지 않는 경우가 많아 질환을 뒤늦게 발견할 가능성이 높지만, 일상 속 신체 변화를 통해 이상 신호를 조기에 감지할 수 있다는 전문가 조언이 나왔다.",
+      "━\"금방 숨차는 증상, 단순 피로와 혼동될 수도\"━ 지난 20일 유튜브 채널 '건나물TV'에 출연한 구은희 원장은 신장 기능 저하 시 나타날 수 있는 대표적인 증상을 소개했다.",
+      "먼저 대표적인 신호로는 신체 부종과 소변 상태의 변화를 꼽았다."
     ],
     "chips": [
-      "#삼성전자",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc6b346fa",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641660",
+    "title": "'계엄 옹호 메시지' 홍장원, 9시간 만에 조사 종료…\"특검 오해 있어\"(종합)",
+    "summary": [
+      "[서울=뉴시스]이윤석 권지원 박선정 오정우 기자 = '12·3 비상계엄 정당화 메시지' 의혹을 들여다보고 있는 2차종합특별검사팀(특별검사 권창영)이 홍장원 전 국가정보원 1차장을 불러 약 9시간 동안 조사했다.",
+      "홍 전 1차장은 22일 오전 과천 종합특검팀 사무실에 내란 중요임무종사 혐의 피의자 신분으로 출석해 조사를 받았다.",
+      "오후 7시께 조사를 마치고 나온 홍 전 차장은 \"아무래도 국정원 핵심 위치에 있다 보니 특검도 단단히 오해할 만한 사실이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n80cf2da1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641647",
+    "title": "美전문가들 \"법무부의 트럼프 세금 미납 조사 중단, 공정 세제에 대한 신뢰 해쳐\"",
+    "summary": [
+      "[뉴욕=AP/뉴시스] 유세진 기자 = 2016년 미 대선 토론에서 힐러리 클린턴이 도널드 트럼프에게 연방 세금을 거의 내지 않았다고 비난하자 트럼프는 \"그게 바로 내가 똑똑하다는 증거\"라고 응수했다.",
+      "그 논리에 따르면 트럼프는 지금 그 어느 때보다 똑똑하다고 할 수 있다.",
+      "미 국세청(IRS)은 19일 트럼프 대통령의 세금 납부에 대한 모든 조사를 중단하기로 했다."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nc157040b",
+    "id": "n37078c62",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522154700030",
+    "title": "스타벅스 \"현장 직원 비난 멈춰달라\"…전국 매장에 2차 사과문",
+    "summary": [
+      "(서울=연합뉴스) 김세린 기자 = 스타벅스코리아가 5·18 민주화운동 기념일에 진행한 프로모션 문구 논란과 관련해 매장에 2차 사과문을 게시하고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nab65e97c",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/movie/2026/05/22/GZSTQOJXG5STSZRUHEZTOYLCMI/",
-    "title": "에피소드컴퍼니 첫 투자작 '군체', 개봉날 20만 육박…압도적 박스오피스 오프닝",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/22/MEZGCZBWGFTGIZJUGAZDANBXGA/",
+    "title": "아파도 참고 뛰었는데, 충격적인 결과가...이제 터지나 했는데, 한동희 지독하게 안 풀리네",
     "summary": [
-      "[스포츠조선 안소윤 기자] 에피소드컴퍼니가 첫 투자작 '군체'로 화려한 흥행 오프닝을 기록했다.",
-      "21일 개봉과 동시에 박스오피스를 강타한 '군체'는 올해 한국영화 최고 흥행작 '왕과 사는 남자'의 오프닝 기록 11만 7792명을 가뿐히 뛰어넘으며, 에피소드컴퍼니의 투자·배급 사업 본격화에 청신호를 밝혔다.",
-      "여기에 6월 3일 개봉을 앞둔 두 번째 투자작 '와."
+      "[스포츠조선 김용 기자] 이제 터지나 했더니, 어떻게 이리 야구가 안 풀리냐.",
+      "롯데 자이언츠 한동희가 또 쓰러졌다.",
+      "롯데는 한동희가 병원 검진 결과 우측 옆구리 내복사근 근육 손상 소견을 받았다고 22일 알렸다."
+    ],
+    "chips": [
+      "#KBO",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n55bca8d2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641657",
+    "title": "\"1시간 넘게 혈관 못 찾아\"…사형 집행 1년 유예 된 美 사형수",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 미국 테네시주에서 사형 집행 의료진이 독극물 주입을 위한 정맥을 찾지 못해 사형 집행이 임시 중단되는 이례적인 일이 발생했다.",
+      "해당 사형수는 주지사로부터 1년간의 집행유예를 승인받고 목숨을 건졌다.",
+      "21일(현지시간) 뉴욕포스트 등 외신에 따르면 테네시주 교정국은 내슈빌 리버벤드 최고보안교도소에서 사형수 토니 카루더스(57)에 대한 사형을 집행하려 했으나 의료진이 적절한 정맥을 찾지 못해 집행을 전격 취소했다고."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "na3b2aec1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/national/incident/2026/05/22/6GS5TADT45FSXIGG6P3F5GXLWU/",
+    "title": "인천 간석역 선로 무단 침입한 남성, 경찰 추적 중",
+    "summary": [
+      "인천 간석역 선로 무단 침입한 남성, 경찰 추적 중."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n63094901",
+    "id": "ncba040ae",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/industry/2026/05/22/2026052212304911441",
-    "title": "비욘드오션, 친환경 부력체 기반 해파리 차단막 '코키퍼' 출시",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260522/133978374/1",
+    "title": "법원, 삼바 노조에 “핵심 공정 중단 지시하면 1회당 2000만원 지급해야”",
     "summary": [
-      "해양 전문기업 비욘드오션(BEYONDOCEAN, 대표 이종택)이 해파리 차단막 '코키퍼'을 출시했다고 22일 밝혔다.",
-      "'코키퍼'는 30L급 이상의 가로 연결이 가능한 친환경 인증 부력체 '코부기'로 제작됐다.",
-      "설치 환경에 따라 부력체 크기를 선택할 수 있다."
+      "삼성바이오로직스가 임금 인상 등을 두고 노사가 갈등을 겪고 있는 상황에서 노조의 쟁의를 일부 제한하는 법원의 판결이 나왔다.",
+      "22일 인천지법 민사21부(부장판사 유아람)는 삼성바이오로직스가 삼성그룹 초기업노동조합 삼성바이오로직스 상생지부를 상대로 낸 간접강제 신청을 일부 인용했다.",
+      "재판부는 “노조는 파업 기간 중 조합원들에게 마무리 핵심 공정을 중단하도록 지시하거나 지침을 배포해선 안 된다”며 이를 위반할 경우 위반 행위 1회당 2000만 원을."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "nd174bcc7",
+    "id": "nc016f997",
     "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260522/133977747/2",
-    "title": "독감으로 숨진 유치원 교사 사직서 위조한 40대 원장, 검찰 송치",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641661",
+    "title": "'악성 민원·과로' 제주 故현승준 순직교사 추모제…\"합당한 예우해야\"",
     "summary": [
-      "경기 부천시의 한 사립유치원 교사가 독감으로 고열에 시달리면서도 계속 출근하다 숨진 것과 관련해 원장이 검찰에 넘겨졌다.22일 부천 원미경찰서는 사문서 위조 및 행사 혐의로 유치원 원장을 불구속 입건해 검찰에 송치했다고 밝혔다.유치원 원장은 숨진 20대 교사의 사직서를 위조해 부천교육지원청에 제출한 혐의를 받는다.",
-      "해당 서류에는 교사가 자진 퇴직 의사를 밝혔다는 내용이 담긴 것으로 확인됐다.",
-      "서류에 적힌 사직일은 2월10일 자로, 교사가 숨지기."
+      "[제주=뉴시스]오영재 기자 = 악성 민원과 과중한 업무 등으로 순직한 제주 중학교 교사 故현승준 선생님의 1주기를 맞아 추모제가 열렸다.",
+      "전국교직원노동조합 제주지부, 교사유가족협의회, 새로운학교제주네트워크, 제주실천교육교사모임, 좋은교사운동제주모임 등 교원단체는 22일 오후 7시 제주도교육청 앞에서 현 교사 1주기 추모 문화제를 개최했다.",
+      "추모제는 추모의례, 추모공연, 경과보고, 추모사, 현장발언, 추모시, 추모의 시간 순으로 진행됐다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n1ec63834",
+    "id": "n0c2f3b47",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/22/MEZTCZRZMI4GEYLFHBRWMZDDGE/",
+    "title": "[오피셜]'매과이어-포든-파머-아놀드 탈락' 투헬의 잉글랜드 월드컵대표팀 최종 엔트리 파격 선발, 이반 토니-스펜스-스톤스-마이누 발탁",
+    "summary": [
+      "[스포츠조선 노주환 기자]북중미월드컵 본선에 출전할 잉글랜드 축구 대표팀의 최종 엔트리 26명이 공개됐다.",
+      "잉글랜드 축구협회가 22일(한국시각) 공식적으로 발표한 명단은 다소 충격적이다.",
+      "기존 유명 빅스타들이 줄줄이 탈락했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n054af04c",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522151700002",
+    "title": "DB손보, 미국 보험사 포테그라 인수 마무리 단계…국내 최초",
+    "summary": [
+      "(서울=연합뉴스) 강수련 기자 = DB손해보험[005830]은 22일 미국 특화보험사 포테그라의 지분 100% 인수 계약을 오는 30일 종결한다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7350a2fa",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://www.asiae.co.kr/article/2026052219463841939",
+    "title": "이란군 \"이틀째 하루 30척 이상 허가받고 호르무즈 해협 통과\"",
+    "summary": [
+      "이란 측이 자신들의 허가를 받고 호르무즈 해협을 통과한 선박이 하루 30척을 넘는다고 주장했다.",
+      "이란 이슬람혁명수비대 해군은 \"지난 24시간 동안 유조선, 컨테이너선, 기타 상선 등 35척이 호르무즈 해협을 통과했다\"고 22일(현지시간) 발표했다.",
+      "혁명수비대 해군은 전날 비슷한 시간대에도 \"지난 24시간 동안 31척이 호르무즈 해협을 지났다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n566bfd81",
     "category": "사회",
     "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260522/133977811/1",
-    "title": "다이소, 농협하나로마트 입점 추진… “농어촌 생활용품 판로 넓힌다”",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260522/133979047/2",
+    "title": "[속보]靑 “李 지시로 소방청장 감찰 착수”…개인 비위 추정",
     "summary": [
-      "농협하나로마트가 다이소 입점을 통해 농어촌 지역 주민의 생활용품 구매 편의 확대에 나선다.농협경제지주는 지난 21일 서울 중구 농협중앙회 본관에서 아성다이소와 농협하나로마트 경쟁력 강화 및 농어촌 주민 쇼핑 편의 제고를 위한 업무협약을 체결했다고 22일 밝혔다.이날 협약식에는 김주양 농업경제대표이사와 김기호 아성다이소 대표이사 등 관계자들이 참석했다.",
-      "양사는 이번 협약을 계기로 하나로마트 내 다이소 입점 확대, 신상품 개발, 상호 연계 금융 서."
+      "청와대가 김승룡 소방청장에 대한 감찰에 착수했다고 22일 밝혔다.청와대 강유정 수석대변인은 이날 오후 언론 공지를 통해 “이재명 대통령은 오늘 현 소방청장에 대한 즉각적인 진상 확인을 지시해 감찰에 착수했다”고 전했다.",
+      "감찰 사유는 개인 비위 때문으로 알려졌다.",
+      "다만 청와대는 이와 관련한 구체적 사항에 대해서는 공개하지 않고 있다.김 청장은 허석곤 전 청장이 비상계엄에 가담했다는 의혹으로 지난해 9월 직위해제된 뒤 6개월간 소방청장 직무를 대행."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "naa445031",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/22/2026052214290728411",
-    "title": "'병살-병살-병살-병살-병살' 이호준 감독, 속 쓰린 영봉패에도 선수단 격려했다 \"이런 경기도 있을 수 있다\" [수원 현장]",
-    "summary": [
-      "NC 다이노스 이호준(50) 감독이 전날(21일) 속 쓰린 영봉패에도 선수들을 격려했다.",
-      "이호준 감독은 22일 수원KT위즈파크에서 열릴 2026 신한 SOL KBO리그 정규시즌 KT 위즈와 방문경기를 앞두고 \"한 점도 못 뽑을 거라고 생각하지 못했기 때문에 많이 아쉽다.",
-      "어느 정도 잘 맞은 타구가 계속 정면으로 간 것도 있다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n37beca25",
+    "id": "n46f2d802",
     "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/05/22/MUZTAMDDGEYWCOBZMMYDGMRSMQ/",
-    "title": "LIG D&A, LIG정밀기술과 ‘금속 3D 프린팅’ 양산 체제 구축",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260522/133979026/2",
+    "title": "소파만 1억…장원영, 137억 한남동 고급빌라 내부 공개",
     "summary": [
-      "LIG디펜스앤에어로스페이스(LIG D&A)가 지난 4월 LIG정밀기술과 함께 금속 3D 프린팅 양산 시설인 ‘메탈 AM 센터(Metal AM Center)’를 구축했다고 22일 밝혔다.",
-      "LIG D&A는 이 시설에서 금속 3D프린팅 기술로 만든 구성품을 적극 활용하겠다는 계획이다.",
-      "금속 3D프린팅 기술은 3D프린터로 금속 부품을 설계하고 제작하는 기술을 말."
+      "그룹 아이브의 장원영이 137억 원에 매입한 고급 빌라 내부를 공개했다.",
+      "거실에 놓인 붉은색 소파 가격는 무려 1억 원이 넘는 것으로 알려졌다.장원영은 21일 인스타그램에 자택 거실에 있는 소파에 누워있는 사진을 올렸다.",
+      "붉은색의 소파는 거실의 절반가량을 차지한 모습이다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c42939d",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "20분 전",
+    "url": "https://www.asiae.co.kr/article/2026052219381130163",
+    "title": "“전곡항 밤하늘 수놓은 불꽃쇼”…화성 뱃놀이축제 화려한 개막",
+    "summary": [
+      "제16회 화성 뱃놀이 축제가 22일 전곡항 메인무대에서 화려한 개막식을 시작으로 4일간의 대항해를 시작했다.",
+      "올해 축제는 '놀이가 천배만배! 즐거움이 천배만배!'를 슬로건으로 내걸고 바다와 공연, 체험이 어우러진 참여형 해양축제로 꾸며졌다.",
+      "개막 첫날부터 전곡항 일대에는 가족 단위 관람객과 관광객들의 발길이 이어지며 축제 분위기가 뜨겁게 달아올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n40f97e29",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522152700004",
+    "title": "\"대통령 왜 이스라엘이 범죄국가인지 말해줘…기업들 제재해야\"",
+    "summary": [
+      "(서울=연합뉴스) 전재훈 기자 = 이스라엘에서 석방돼 22일 귀국한 활동가들이 이스라엘의 가자전쟁 등과 연루된 한국 기업을 제재하라고 촉구했다."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -652,14 +647,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
