@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-22 16:52:05
+// 마지막 업데이트: 2026-05-22 17:32:56
 window.NEWS_DB = [
   {
     "id": "na3957e8b",
     "category": "IT",
     "source": "위키트리",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zd0ZXSTFRTTFEVDB6b015U2lmOGpHNDY2RDMxWkRSdFZnbDN0SVo3YmpNU2tBQmRfT2xoWVFFNlRmejJ6czFGelFlRWg3VDZMSmhWMVhn?oc=5",
     "title": "엔비디아는 고작 3위…압도적 1위 기록한 '이 종목'",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nc0b12697",
     "category": "IT",
     "source": "시사저널e",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJYkhtUi1nSnhEa0ZHSm51TXpPLS1uLTVQdkpzcHRFN0lJblktTnRGV1ZQQnlKbHVuSUEtUnRYWmI4TThBOHR0cDByTVc4emNoQnk2NDljY0FmZHhja3lna1dNZmdrNGlVeWcxM2dJTERBUdIBdkFVX3lxTFAwQTE2TDN6Y1UwVGhUTmdTd19aRVlrWTI1eXdBZ3ItbVczZzVBMWFMRXM2X3o5anF6alAtMXJJdi1kakYyN0RoLVlUYkItckZMZ1hDQUZkRmM2bXYzUTBVWWQ1dm5aZEJoa29pZWduWnJwOU5Kd3c?oc=5",
     "title": "엔트로픽, MS 반도체 공급 협상···탈엔비디아 움직임 가속",
     "summary": [
@@ -121,17 +121,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n98221228",
+    "id": "n7c5c07a7",
     "category": "경제",
-    "source": "한겨레",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bHllbG1kZmFXbmpVaHZZM3Z4cUV6enJmcUhzR1U0ckF4WUNpYlg5YlNPaXBsMzEzaEwyZW1YcVN1TnlxQTRET0hNU0pUdlhyb3QxMklYbXprVHl1LWlUV01qY0c5eTgyb3BwNGxmYUZJQQ?oc=5",
-    "title": "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감",
+    "source": "프리진경제",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
+    "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
     "summary": [
-      "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감 한겨레."
+      "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정 프리진경제."
     ],
     "chips": [
-      "#뉴스"
+      "#환율"
     ]
   },
   {
@@ -150,6 +150,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2970703c",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWRHLU9vc1pzQmthQ3huNVA3ZVFYOTg4bTZ2ektXLVdJTVI5Z2hjXzZ0NUNLeTVhaHJ0U1dCTGIzTjZjd01saG5iX3Z2SExORlRWdjA1Y0N6UUpRbUtSWnozSlZiSkFfT2JfUEJ2R09mX0tEYk9YX0liU0plU3JlSXpvdzY1LXFy?oc=5",
+    "title": "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게?",
+    "summary": [
+      "삼성·SK하이닉스, HBM4 수주 전쟁… 엔비디아 '1조 달러 과실', 누구에게? 글로벌이코노믹."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -164,6 +180,20 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n64476ff1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "33일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "summary": [
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -209,32 +239,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1e99985b",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "86일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuUmJaY0wta2ZWSTcyYjNQaVQwSndNajhsSkhNUGpqQXJyNUFlQ0xGc1hrRS0yTHRLaXp0N1p0M0R5ZG1tek4xTElBODRJTWJvSWVvYUw3MG51d9IBVEFVX3lxTFB5bV9zYlFZX0pMQVRid3J2ejFiSjlQUWszQlNCUi1URTFsU3VTY1dfTl9QbjRvZERSZzRhXzQ1N0RTcVk3Y0pLdHVRb1BQNXZCOFFlUQ?oc=5",
-    "title": "\"봄 이사철 성큼…분양·급매·경매 선택 폭 넓어진다\"",
+    "id": "n15f5f447",
+    "category": "경제",
+    "source": "지디넷코리아",
+    "time": "79일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
+    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
     "summary": [
-      "\"봄 이사철 성큼…분양·급매·경매 선택 폭 넓어진다\" 한국경제."
+      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
     ],
     "chips": [
-      "#뉴스"
+      "#환율"
     ]
   },
   {
-    "id": "n759c2467",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "98일 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
-    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "92일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
     "summary": [
-      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
     ],
     "chips": [
-      "#반도체",
-      "#SK하이닉스"
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -283,35 +313,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0fd44a05",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "155일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
-    "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
-    "summary": [
-      "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\" 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n41be81c1",
-    "category": "경제",
-    "source": "YTN",
-    "time": "194일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KUFFYTE53YzNGaGd6bEZwYTRYSE1sUFhlSkcwZmVhbWpFMV9yd0cySkRESWdsQVJBNU5IdVpzZFMwbEpaVVp1Z3hnYzEyYkljMXlPeURzYlZoU3B3MGc?oc=5",
-    "title": "코스피 석 달 동안 1,000p 올랐는데 환율 급등한 이유는?",
-    "summary": [
-      "코스피 석 달 동안 1,000p 올랐는데 환율 급등한 이유는? YTN."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "nef2c5435",
     "category": "IT",
     "source": "테크M",
@@ -328,10 +329,159 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n3809f3af",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/23/2026052302215835037",
+    "title": "브라이언 \"솔로된 지 17년 차…결혼 커녕 연애 생각도 없어\" 고백",
+    "summary": [
+      "브라이언이 결혼 생각은 물론 연애 공백까지 솔직하게 털어놨다.",
+      "22일 방영된 MBN '전현무계획3'에서는 전현무와 곽준빈이 환희, 브라이언과 강릉에서 식사하는 모습이 그려졌다.",
+      "이날 전현무는 \"브라이언이 너무 반갑다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n363867b5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003641765",
+    "title": "[속보]폭스뉴스 \"털시 개버드 美 국가정보국장 사임\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n94cd04d0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/23/MVRDGMDDGNRTCNDCGNRGIYTEGQ/",
+    "title": "민주콩고 에볼라 확산… WHO “국가 위험 수준 ‘매우 높음’”",
+    "summary": [
+      "콩고민주공화국(민주콩고)에서 에볼라 바이러스 확산세가 커지자 세계보건기구(WHO)가 국가 차원의 위험 수준을 한 단계 더 높였다.",
+      "분쟁과 치안 불안으로 방역 대응이 늦어지고 있다는 우려도 나왔다.",
+      "테워드로스 아드하놈 거브러여수스 WHO 사무총장은 22일(현지 시각) 스위스 제네바에서 열린 브리핑에서 “에볼라 위험을 국가적 수준에서는 매우 높음, 지역적 수준."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n690325f3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523002900071",
+    "title": "[속보] 폭스뉴스 \"털시 개버드 미 국가정보국장 사임\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf13fddbd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523002700099",
+    "title": "\"지역사회 불신부터 해결해야\"…민주콩고 에볼라 방역 2중고",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)에서 에볼라가 연일 확산하는 가운데, 방역 당국이 바이러스뿐만 아니라..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n01269a57",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003641758",
+    "title": "37세 프랑스 전 총리 가브리엘 아탈, 내년 대선 출마 선언",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 가브리엘 아탈 전 프랑스 총리가 22일(현지 시간) 2027년 프랑스 대통령 선거 출마를 공식 선언했다.",
+      "에마뉘엘 마크롱 대통령 퇴임 이후 차기 권력을 둘러싼 경쟁이 본격화되는 가운데, 아탈은 극우 세력에 맞설 중도 진영의 핵심 주자로 부상하고 있다.",
+      "아나툴루 통신에 따르면 아탈은 이날 프랑스 남부 아베롱 지역의 무르드바레즈 마을에서 열린 행사에서 \"더 이상 이런 프랑스 정치를 견딜 수 없다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3c116c4c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003641762",
+    "title": "워시 연준 의장, 공식 취임…트럼프 \"진심 독립성 바래\"(종합)",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 케빈 워시 연방준비제도(Fed 연준) 신임 의장이 22일(현지 시간) 공식 취임했다.",
+      "워시 의장은 이날 백악관에서 개최된 취임식에서 클래런스 토머스 대법관 주재하에 취임 선서를 하고 임기를 시작했다.",
+      "워시 의장은 56세로 연준 11대 의장으로 4년간 임기를 수행할 예정이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4a302777",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641356",
+    "title": "\"로봇 없인 공장 멈춘다\" vs \"내 자리 뺏길라\"…현실로 닥친 '로봇 포비아' [휴먼AI④]",
+    "summary": [
+      "[서울=뉴시스]심지혜 기자 = \"대량 생산과 생산 현장 투입 시 고용 충격이 불 보듯 뻔하다.",
+      "노사 합의 없이 단 1대도 들어올 수 없다.\" 최근 국내 주요 제조 대기업 노동조합에서 터져 나오는 이 같은 경고는 휴머노이드 로봇 시대를 앞둔 산업 현장의 공포를 단적으로 보여준다.",
+      "인공지능(AI)이 온라인 세상을 넘어 현실의 기계와 로봇을 움직이고, 인간의 육체노동까지 대신하기 시작했다."
+    ],
+    "chips": [
+      "#AI",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n18c6a2b4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523001851071",
+    "title": "케빈 워시 연준 의장 취임…\"독립성\" 거론하며 \"개혁 지향\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 이유미 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 신임 의장이 22일(현지시간) 취임했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9629ecc",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "43분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/23/GIZTQMRXGMYGCYRUGY2TENDBGQ/",
+    "title": "임금 올랐지만 물가가 더 뛰었다… 日 실질임금 4년 연속 감소",
+    "summary": [
+      "일본 근로자들의 임금이 오르고도 물가 상승을 따라잡지 못한 것으로 나타났다.",
+      "지난해 일본의 실질임금은 4년 연속 줄었고, 올해 1분기 반등세도 중동 사태에 따른 유가 불안으로 이어질지 불투명하다는 분석이 나온다.",
+      "일본 후생노동성이 22일 발표한 근로통계조사 확정치에 따르면 지난해 종업원 5인 이상 기업의 근로자 1인당 실질임금은 전년보다 0.5% 감소했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nc166b3b4",
     "category": "IT",
     "source": "테크M",
-    "time": "7분 전",
+    "time": "48분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152094",
     "title": "\"AI시대엔 '보안'이 '보험'\"...윤오준 前 국정원 3차장, 中企에 전한 제언은?",
     "summary": [
@@ -347,7 +497,7 @@ window.NEWS_DB = [
     "id": "n473e3102",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
+    "time": "52분 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260523/133979789/2",
     "title": "“투표권NO” “배제NO” 삼성전자 勞勞 두 목소리",
     "summary": [
@@ -363,7 +513,7 @@ window.NEWS_DB = [
     "id": "neb61a549",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
+    "time": "52분 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260523/133979799/2",
     "title": "내일 부처님오신날… “마음은 평안으로, 세상은 화합으로”",
     "summary": [
@@ -379,7 +529,7 @@ window.NEWS_DB = [
     "id": "nbbaa2ae1",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
+    "time": "52분 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260523/133979787/2",
     "title": "주독미군 줄이는 트럼프… “폴란드 5000명 추가 파병”",
     "summary": [
@@ -395,7 +545,7 @@ window.NEWS_DB = [
     "id": "nacf1c0e7",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
+    "time": "52분 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260523/133979785/2",
     "title": "국민참여성장펀드 판매 첫날, 10분만에 “완판”",
     "summary": [
@@ -411,7 +561,7 @@ window.NEWS_DB = [
     "id": "n2a04fa80",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
+    "time": "53분 전",
     "url": "https://www.yna.co.kr/view/AKR20260523000351098",
     "title": "\"트럼프, 동맹국들에 실망\"…미 국무, 나토 분열 재차 경고(종합)",
     "summary": [
@@ -425,7 +575,7 @@ window.NEWS_DB = [
     "id": "n67430bf1",
     "category": "사회",
     "source": "테크M",
-    "time": "15분 전",
+    "time": "55분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152090",
     "title": "[기자수첩] 스타벅스, 파멸 아닌 쇄신을 위한 '최소한의 시간'을 주자",
     "summary": [
@@ -438,55 +588,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb5b8c494",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523000400109",
-    "title": "푸틴 \"학교 기숙사 피격 6명 사망\"…우크라 \"조작된 정보\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 블라디미르 푸틴 러시아 대통령은 22일(현지시간) 우크라이나가 점령지에 있는 기숙사를 공격해 학생들이 숨지고..."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "naa396719",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/23/GQYDKZBQGI2DCMDBHFRGEOBWGM/",
-    "title": "홍명보호 합류 전 마지막 리그 경기 나서는 손흥민, 첫째는 부상 조심-둘째는 골",
-    "summary": [
-      "[스포츠조선 박찬준 기자]첫째는 부상 조심, 둘째는 골이다.",
-      "대한민국 '캡틴' 손흥민(LA FC)이 2026년 북중미월드컵 소집 전 마지막 리그 경기를 치른다.",
-      "LA FC는 25일(한국시각) 미국 캘리포니아주 LA의 BMO 스타디움에서 시애틀 사운더스와 2026년 미국 메이저리그사커(MLS) 15라운드를 치른다."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "nb5d0bdd0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523002200087",
-    "title": "콜롬비아서 원주민 토지분쟁으로 6명 사망·100여명 부상",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 콜롬비아에서 나사족과 미사크족이 토지 소유권을 놓고 충돌해 최소 6명이 사망하고 100여명이 부상했다고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb2d5e384",
     "category": "사회",
     "source": "테크M",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152095",
     "title": "조만호 무신사 대표, 박종철센터 직접 찾아 사과…\"7년 전 과오, 잊지 않겠다\"",
     "summary": [
@@ -499,83 +604,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ned562e72",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/23/GQZGKMJTMIYTOMBWHA3DCYJYGU/",
-    "title": "‘잉글랜드 중앙수비 구멍 뚫리나?’ 해리 매과이어, 월드컵대표팀 최종 탈락",
-    "summary": [
-      "[OSEN=서정환 기자] 해리 매과이어(33, 맨유)가 끝내 월드컵 무대를 밟지 못한다.",
-      "잉글랜드 대표팀 핵심 수비수였던 매과이어는 22일(한국시간) 자신의 사회관계망서비스를 통해 월드컵 최종 명단 탈락 사실을 직접 공개했다.그는 “이번 시즌 활약을 바탕으로 올여름 대표팀에서 중요한 역할을 할 수 있다고 자신했다”며 “이번 결정에 충격을 받았고 정말 큰 실."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d7c1635",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523002100109",
-    "title": "총선 지고도 연정 구성 성공…얀사 슬로베니아 총리 복귀",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 슬로베니아 의회가 민족주의 성향의 야네즈 얀샤 전 총리를 신임 총리로 선출했다고 AFP통신 등이 22일(현지..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nceadcd36",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003641756",
-    "title": "케빈 워시 신임 연준 의장, 백악관 선서 후 공식 취임",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 케빈 워시 연방준비제도(Fed 연준) 신임 의장이 22일(현지 시간) 공식 취임했다.",
-      "워시 의장은 이날 백악관에서 개최된 취임식에서 클래런스 토머스 대법관 주재하에 취임 선서를 하고 임기를 시작했다.",
-      "워시 의장은 56세로 연준 11대 의장으로 4년간 임기를 수행할 예정이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4ce657da",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/23/GJRWKOBYGRTDKZDDGY4DEYRTGU/",
-    "title": "中 외교수장, 유엔·캐나다 연쇄 방문… 美 앞마당서 견제 외교전 본격화",
-    "summary": [
-      "중국이 유엔 안전보장이사회 순회 의장국 지위를 앞세워 미국 중심 국제질서 견제에 나선다.",
-      "왕이 중국 외교부장은 유엔 고위급 회의를 주재한 뒤 캐나다를 방문해 북미 우방국을 상대로도 외교적 접점을 넓힐 예정이다.",
-      "중국 외교부는 22일 왕이 중국공산당 중앙외사판공실 주임 겸 외교부장이 오는 26일 미국 뉴욕 유엔본부에서 열리는 안보리 고위급 회의를 주재한다고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4b5116c6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003641760",
-    "title": "[속보]케빈 워시 신임 연준 의장, 공식 취임…백악관서 선서",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n3ca9629e",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/23/2026052221555884341",
     "title": "\"내가 말해도 되겠어?\" 박병호 신중 코칭→이형종 감탄 \"먼저 물어주셔서 마음 열려\" 1군 복귀 후 타율 0.500 맹타",
     "summary": [
@@ -585,38 +617,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n8b2c2ff6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "51분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641256",
-    "title": "\"아이 배꼽이 참외처럼 불룩해요\"…혹시 이 질환?[몸의경고]",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 아이의 배꼽이 불룩 튀어나와 있으면 단순히 참외 배꼽인줄 알고 가겹게 넘기기 쉽다.",
-      "하지만 배꼽이나 사타구니 부위가 불룩하게 튀어나오거나 배꼽에 혹이 난 것처럼 불룩하다면 소아 탈장을 의심해 봐야 한다.",
-      "소아탈장은 아이가 울거나 배에 힘을 줄 때 돌출이 심해지며, 자세를 바꾸면 다시 들어가는 양상을 보이기도한다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ndf5e15e1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "52분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003640631",
-    "title": "29~30일 교육문화박람회 '바다 놀이터'…전시·교육·놀이",
-    "summary": [
-      "[부산=뉴시스] 이아름 기자 = 국립해양박물관은 29~30일 해양교육문화박람회 '바다 놀이터'를 연다고 23일 밝혔다.",
-      "이번 박람회는 어린이와 가족 관람객이 전시와 교육, 놀이를 함께 즐길 수 있도록 기획됐다.",
-      "박물관 1층 어린이 놀이터에서는 아이들이 직접 조선통신사 갓을 제작한 뒤 전시를 관람하는 '오늘은 내가 조선의 외교관', 청화백자와 오동나무 상자 포장을 체험하는 '어린이 큐레이터 실습실' 등이 운영된다."
-    ],
-    "chips": [
-      "#교육"
     ]
   },
   {
@@ -640,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "정치",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "엔비디아",
     "mentions": "1420건",
     "trend": "+115%"
   }
