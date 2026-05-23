@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-23 16:18:59
+// 마지막 업데이트: 2026-05-23 17:21:24
 window.NEWS_DB = [
   {
     "id": "nd3cf3b1a",
@@ -108,20 +108,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n98221228",
-    "category": "경제",
-    "source": "한겨레",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bHllbG1kZmFXbmpVaHZZM3Z4cUV6enJmcUhzR1U0ckF4WUNpYlg5YlNPaXBsMzEzaEwyZW1YcVN1TnlxQTRET0hNU0pUdlhyb3QxMklYbXprVHl1LWlUV01qY0c5eTgyb3BwNGxmYUZJQQ?oc=5",
-    "title": "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감",
-    "summary": [
-      "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감 한겨레."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -153,23 +139,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfde594d3",
-    "category": "사회",
-    "source": "네이버 프리미엄콘텐츠",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV24zQjliQUJfa1l1Qlk5S001RWltWDRFMEt2cXItbGlPM1BzNnRfU1BNU1V0YlJJMFJ4WUI5ZDRodGk5aHRhMk11UVpHaWx2Uk1ycWhFbXR5cnlPZERaeVcyOFV1MG5Idlh4VUtvc25Tb3ZiTU96eTd3SEYzOWNEWFoxTk1HUko4Ylk5RzZn?oc=5",
-    "title": "안양 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
-    "summary": [
-      "안양 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기 네이버 프리미엄콘텐츠."
-    ],
-    "chips": [
-      "#네이버",
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n64476ff1",
     "category": "IT",
     "source": "머니투데이",
@@ -184,20 +153,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "52일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "na3d37f8f",
     "category": "IT",
     "source": "지디넷코리아",
@@ -209,20 +164,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "ncbcb6c77",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "76일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -270,6 +211,34 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf7aebd8b",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "124일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
+    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
+    "summary": [
+      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e2059ec",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "143일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NVk92cFNiSmFqeng3OXVyRXdJMHBnelI0VktCRUxrWXR3QjVvUzFzengxb21Zb1M0SHRpRDA4LVpTSWR5SGd4Q3k1U08zdlVQREdIdWRoWVlNNFgz?oc=5",
+    "title": "[2025 스포츠 10대 뉴스] 프로야구 1200만 관중, 김연경 '라스트 댄스'",
+    "summary": [
+      "[2025 스포츠 10대 뉴스] 프로야구 1200만 관중, 김연경 '라스트 댄스' 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n13cdbe9c",
     "category": "부동산",
     "source": "시사저널e",
@@ -298,6 +267,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "204일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -313,29 +297,119 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9d294ed8",
+    "id": "n0ba94947",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/24/GNSDCYJXHA4WMNBZGQYDCMJUMY/",
-    "title": "\"우리가 타격 좋은 팀도 아니고\" 수비 그렇게 강조했는데 또…4연승 기세 실종, 이틀 연속 실책에 울었다 [오!쎈 대전]",
+    "source": "이투데이",
+    "time": "280일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeFVaZ2NxaEJNU3lfakx0VkJhbU5ZbWs4UWl0QU5TaDhZVlFCUGlfVE9jWXNlSGxQSE1ZVGJfLWwtaDhYbWV1a004UmNqN3N2T0t3cA?oc=5",
+    "title": "'2025 KBO 프로야구' 오늘(16일)의 경기 일정",
     "summary": [
-      "[OSEN=대전, 조은혜 기자] 디테일이 무너진 프로야구 두산 베어스가 4연승 후 2연패에 빠졌다.김원형 감독이 이끄는 두산은 23일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 한화 이글스와의 경기에서 2-5로 패하며 2연패에 빠졌다.",
-      "주말 시리즈 전까지 4연승을 내달리며 5할 승률을 달성했던 두산은 한화에게 이틀 연속 승리를 내주며 시."
+      "'2025 KBO 프로야구' 오늘(16일)의 경기 일정 이투데이."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "na271b4f0",
+    "id": "n52ff83a0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260524_0003642184",
+    "title": "트럼프 \"이란 협상 타결 확률 50%…이르면 24일 공격 여부 결정\"",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 도널드 트럼프 미국 대통령이 23일(현지 시간) 이란의 최신 협상안을 검토하기 위해 핵심 참모들과 회의를 열고, 이르면 24일 전쟁 재개 여부를 결정할 수 있다고 밝혔다.",
+      "미국과 이란이 전쟁 종식을 위한 양해각서(MOU) 체결 논의를 이어가는 가운데, 양측은 협상 진전 가능성을 시사하면서도 군사 대응 가능성을 동시에 경고했다.",
+      "트럼프 대통령은 이날 악시오스와의 인터뷰에서 이란과의 합의 가능성을 \"50 대 50 정도."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbdfd241b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/24/MIYTGZRTHEYTKZLCHEZDMNJRG4/",
+    "title": "트럼프 “이란 공습 재개 여부, 24일까지 결정”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 이란 공습 재개 여부를 오는 24일까지 결정할 것이라는 내용의 보도가 현지 매체에서 나왔다.",
+      "23일(현지 시각) 미국 인터넷매체 악시오스에 따르면 트럼프 대통령은 해당 매체 기자와의 전화 통화에서 트럼프 대통령은 “좋은 합의를 할지, 아니면 완전히 박살낼지(blow them to kingdom come) 가능성은 확실한 50대."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd2227623",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524001300071",
-    "title": "트럼프 \"이란과 합의할지, 공습 재개할지 50대 50\"<美매체>",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524001900075",
+    "title": "신기욱 스탠퍼드대 교수 \"정점에 오른 한국, 지속가능성이 과제\"",
+    "summary": [
+      "(스탠퍼드=연합뉴스) 김경윤 특파원 = \"한국은 현재 피크(정점)에 이르렀다고 볼 수 있어요.",
+      "문화적으로는 방탄소년단(BTS)이 있고, 삼성전자..."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#환경"
+    ]
+  },
+  {
+    "id": "na8e7a2df",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524001800082",
+    "title": "영국, EU 재가입 추진? \"프랑스 극우가 저지\"",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 영국 키어 스타머 정부의 정치적 위기가 유럽연합(EU) 재가입 논의로 번진 가운데 영국과 EU의 관계 개선..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc050189d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20260524_0003642182",
+    "title": "美·이란, '휴전 연장·종전 합의' 막판 조율…48시간 내 결론 가능성(종합)",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 미국과 이란이 전쟁 종식을 위한 양해각서(MOU) 체결과 휴전 방안을 놓고 48시간 내 최종 결론이 나올 수 있다는 관측이 제기됐다.",
+      "협상안에는 호르무즈 해협의 단계적 재개방과 이란 핵 프로그램 논의를 위한 틀이 포함된 것으로 알려지면서, 중동 긴장 완화 여부에 관심이 쏠린다.",
+      "23일(현지시간) 파이낸셜타임스(FT)와 AP통신 등에 따르면 미국과 이란은 현재 휴전을 60일 연장하고, 이후 30~60일 동안 협상안."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc324734a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524001351071",
+    "title": "트럼프 \"이란과 합의할지 공습재개할지 50대50…24일까지 결정\"(종합)",
     "summary": [
       "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 23일(현지시간) 이란과의 종전 합의가 급물살을 타고 있는 가운데 이란과 합의..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7086ae08",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524001500108",
+    "title": "젤렌스키 \"러, 키이우에 오레시니크 미사일 쏘려고 해\"",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 러시아가 극초음속 중거리 탄도미사일 '오레시니크'로 우크라이나를 ..."
     ],
     "chips": [
       "#정치"
@@ -345,7 +419,7 @@ window.NEWS_DB = [
     "id": "n1be997f0",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/24/2026052321183237147",
     "title": "'오버페이? 이런 효자 FA가 없다' 타율 1위도 코앞, '5월 타율 0.456' 최원준을 키운 건 믿음이었다",
     "summary": [
@@ -361,7 +435,7 @@ window.NEWS_DB = [
     "id": "nee0dfdb5",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260522_0003640651",
     "title": "부산과학관, 'N번째 과학' 특별강연 30일 개최",
     "summary": [
@@ -374,41 +448,12 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb2ba6f84",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "28분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/24/MVRGGNJZMI2WIZBRG5QWKZRYMM/",
-    "title": "우주소녀 다영, 소속사 속이고 미국행..덕분에 인생 달라졌다 \"솔로 데뷔하게 돼\"(전참시)[종합]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 다영이 혼신의 노력으로 솔로 데뷔를 할 수 있었다고 밝혔다.23일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 이주연, 다영이 출연했다.본부장은 “다영이가 찾아와서 앨범을 못 내서 힘이 빠진다고 하더라.",
-      "부모님한테 가서 쉬겠다고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc53cc55c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524000900071",
-    "title": "미군 \"호르무즈서 對이란 해상봉쇄로 6주간 100척 회항시켜\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미군이 호르무즈 해협에서 이란을 겨냥한 해상 봉쇄를 통해 지금까지 100척을 회항시켰다고 23일(현지시간)..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb7a3dedd",
     "category": "사회",
     "source": "조선일보",
-    "time": "36분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/international/international_general/2026/05/24/E5J46PCMKRFAZM32E2QJU3MZ2E/",
-    "title": "美 “조만간 종전 합의 발표할 수도 있어”",
+    "title": "美국무 “이란과 종전 합의... 이르면 오늘 발표할 수도”",
     "summary": [
       "마코 루비오 미국 국무장관은 23일(현지 시각) “이르면 오늘 이란과의 종전 협상 합의를 발표할 가능성이 있다”고 밝혔다.",
       "로이터, AFP 통신 등 보도에 따르면 루비오 장관은 이날 취재진에게 “늦은 오늘이든, 내일이든, 며칠 뒤든 우리가 뭔가를 발표할 가능성이 있다”고 말했다.",
@@ -419,24 +464,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na5851c58",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523052151061",
-    "title": "하남 망월동 다가구주택서 불…1명 사망·3명 자력 대피(종합)",
-    "summary": [
-      "(하남=연합뉴스) 이영주 기자 = 23일 오후 10시 45분께 경기도 하남시 망월동 한 다가구주택 3층에서 불이 났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n247ba171",
     "category": "사회",
     "source": "뉴시스",
-    "time": "48분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260523_0003642163",
     "title": "이현이, 두 아들 '학비 1000만원' 중대부초 보낸 이유…\"워킹맘이라\"",
     "summary": [
@@ -452,7 +483,7 @@ window.NEWS_DB = [
     "id": "n2505bedf",
     "category": "사회",
     "source": "테크M",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152107",
     "title": "경찰, 삼성전자 '고소·고발' 취하 불구 임직원 수사 지속...왜?",
     "summary": [
@@ -465,26 +496,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7ae2029c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "52분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003642178",
-    "title": "美·이란, '휴전 60일 연장·핵 협상' 막판 조율…중동 긴장 완화 기대",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 미국과 이란 간 휴전을 60일 연장하고 이란 핵 프로그램 협상의 틀을 마련하기 위한 중재 협상이 막판 조율 단계에 들어섰다고 파이낸셜타임스(FT)가 23일(현지시간) 보도했다.",
-      "FT는 협상에 정통한 소식통을 인용해, 협상안에는 호르무즈 해협의 단계적 재개방과 함께 이란이 보유한 고농축 우라늄 재고를 희석하거나 제3국에 넘기는 방안을 논의한다는 내용이 포함됐다고 보도했다.",
-      "미국은 이란 항만 봉쇄를 완화하고 대이란 제."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n97050670",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "57분 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/24/2026052318594995166",
     "title": "\"병살 못해 아쉬웠다\" 과연 염경엽이 인정한 LG 최고 강심장, 1사 만루 무실점 피칭에도 자책했다",
     "summary": [
@@ -500,7 +515,7 @@ window.NEWS_DB = [
     "id": "nced311c3",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152106",
     "title": "[위클리 IT템] 오랜 시간 검증받은 브랜드, 기념작으로 정체성 다시 꺼냈다",
     "summary": [
@@ -516,7 +531,7 @@ window.NEWS_DB = [
     "id": "nb8fcaf9e",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/24/2026052313523235239",
     "title": "\"부서진 턱뼈에 티타늄 박았다\" 제이크 폴, 죽다 살아나고도 광기의 '복귀 선언'... \"뼈야 붙으면 그만, 상대 널렸다\" 도발",
     "summary": [
@@ -532,7 +547,7 @@ window.NEWS_DB = [
     "id": "n4b4bb30f",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/24/2026052323281076412",
     "title": "\"왜 이제 말해?\" 팬들은 기다렸는데, 경기 직전 슈퍼스타 갑자기 결장... WNBA, 소속팀에 강력 경고",
     "summary": [
@@ -545,26 +560,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4301fa1f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003641896",
-    "title": "안은진, '10㎏ 감량' 비결은 낫토?…소박한 아침 식단 눈길",
-    "summary": [
-      "[서울=뉴시스]정우영 인턴 기자 = 배우 안은진이 군살 없는 완벽한 몸매의 비결을 공개했다.",
-      "18일 안은진은 자신의 인스타그램에 일상이 담긴 짧은 영상 하나를 게재했다.",
-      "공개된 영상에는 묽은 흰죽과 낫토, 달걀 한 알, 동치미 국물로 구성된 소박한 아침 식단이 담겨 눈길을 끌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n10d92c07",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260524/133980949/1",
     "title": "부산 사상구서 자기 몸에 불 붙여 상대 협박한 50대 남성 검거",
     "summary": [
@@ -579,7 +578,7 @@ window.NEWS_DB = [
     "id": "nd24adec1",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.asiae.co.kr/article/2026052323311181962",
     "title": "체육회 4개 종목단체 복싱·축구·당구·에어로빅힙합, 주광덕 후보 지지 선언",
     "summary": [
@@ -594,7 +593,7 @@ window.NEWS_DB = [
     "id": "n5043f72c",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.asiae.co.kr/article/2026052323223477012",
     "title": "화성 뱃놀이 축제 화려한 개막…전곡항 밤바다 수놓은 불꽃쇼 '장관'",
     "summary": [
@@ -610,7 +609,7 @@ window.NEWS_DB = [
     "id": "n62c585ee",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260523/133980917/1",
     "title": "이란 혁명수비대 “하루 새 선박 25척 호르무즈 통과”",
     "summary": [
@@ -625,7 +624,7 @@ window.NEWS_DB = [
     "id": "nb409a29b",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260523/133980914/1",
     "title": "‘흑백요리사’ 성우 남도형, 오늘 비연예인 연인과 결혼",
     "summary": [
@@ -642,18 +641,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   }
