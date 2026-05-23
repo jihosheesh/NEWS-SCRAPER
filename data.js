@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-23 12:16:19
+// 마지막 업데이트: 2026-05-23 13:30:03
 window.NEWS_DB = [
   {
     "id": "n9d6f0d14",
     "category": "IT",
     "source": "서울경제",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SdGNHNUt5UXF4MzV2LTIyNUZISnAxVVpPREJOYWxJLS16d2R4ZDRZUFgwcUtOemtFSGxWTURNQlFTc0ZhZzJ4VnhDYVcyUzZKQ3fSAVNBVV95cUxNeHhmcTV0ZVBNSUJxTzZNcHBXWmxHd3ljbTRfT0hYSW5RRUl4X0ZKanU1MDRmeWxZenBwZmpOQTRMaktXUERISmhUd2JYMjQ5enVEbw?oc=5",
     "title": "리벨리온 다음 ‘K-엔비디아’는…국민성장펀드 선택에 쏠린 눈",
     "summary": [
@@ -75,6 +75,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
@@ -103,20 +118,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n777a2ecd",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuZnFYbG5hZ0trWkVxdkI5cldUbTM2RlRmQjZjcFhWQjRQNkpyVVN5WHA4c04tZHo5bTRqc2ducFY0cVdJWXpYSm5iYzhIallWVmd1Tl9OTURaN1E5QUp3OQ?oc=5",
-    "title": "\"야구로 잇는다\" KBO, 도미니카와 협력 강화…문화·선수 교류 확대",
-    "summary": [
-      "\"야구로 잇는다\" KBO, 도미니카와 협력 강화…문화·선수 교류 확대 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -151,6 +152,38 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfde594d3",
+    "category": "사회",
+    "source": "네이버 프리미엄콘텐츠",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV24zQjliQUJfa1l1Qlk5S001RWltWDRFMEt2cXItbGlPM1BzNnRfU1BNU1V0YlJJMFJ4WUI5ZDRodGk5aHRhMk11UVpHaWx2Uk1ycWhFbXR5cnlPZERaeVcyOFV1MG5Idlh4VUtvc25Tb3ZiTU96eTd3SEYzOWNEWFoxTk1HUko4Ylk5RzZn?oc=5",
+    "title": "안양 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
+    "summary": [
+      "안양 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기 네이버 프리미엄콘텐츠."
+    ],
+    "chips": [
+      "#네이버",
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n7aed1cf1",
+    "category": "부동산",
+    "source": "리얼캐스트",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWXh3MEhBenVCb1I5NTNLa2FVWTdPSG9MYlh1YlpMQVNEQXlDdTdIUlBpMkk4SDBMbldqdDU5ejN6OWdEQkhsMlpqdnZDNEpVX1FZbE02R1NrbmFRRGh3bzItMl9DbVpB0gFsQVVfeXFMTWFpTF8xUHdYam9qb3JXalkzRzc2bE54VG9zUEltd1N2THBaZ3pRb185d2o1MTlvaXF6di01bURqZ1FrTFNvQTY2UV9hV3NkUENleW5ndjQzT2FYVk9EM2p0YnVNd0N2dkdvLXg2?oc=5",
+    "title": "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동",
+    "summary": [
+      "전세 줄고 집값 오르자… 서울 수요, 경기 인접지로 이동 리얼캐스트."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n64476ff1",
     "category": "IT",
     "source": "머니투데이",
@@ -162,6 +195,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "52일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -179,6 +226,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ncbcb6c77",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "76일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "summary": [
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n15f5f447",
     "category": "경제",
     "source": "지디넷코리아",
@@ -193,34 +254,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "94일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "id": "n8988be77",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "89일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "nb04cef68",
-    "category": "사회",
-    "source": "경기일보",
-    "time": "99일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
-    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
-    "summary": [
-      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
+      "#스타트업"
     ]
   },
   {
@@ -236,35 +280,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
-    ]
-  },
-  {
-    "id": "nb4e9ce67",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "114일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43c0lBUTduWFZhNkNKY1FuanUxLTl3UUZxVGVFaXI2YlZfLW9iOVRrdGtnaDNVRFE3YjZtMkRuSTV0Tkl3RlNOUlIxWWswYjgtS1lEeG5pZjh3U03SAWBBVV95cUxOaFRuVzFHS1ktaDl1MWpSd1YxT2tlcldST2dQQ3BUVk8yOXM5c21zRE81dWphNWJEVkJEMmlsN1lqSzRaeFp0N3kzUGtGa3V3Z0F5QXltVkRtdkt1YUVESnA?oc=5",
-    "title": "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집",
-    "summary": [
-      "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
-    "id": "n13cdbe9c",
-    "category": "부동산",
-    "source": "시사저널e",
-    "time": "144일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
-    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
-    "summary": [
-      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -290,21 +305,6 @@ window.NEWS_DB = [
     "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
     "summary": [
       "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n234a1f13",
-    "category": "스포츠",
-    "source": "서울Pn",
-    "time": "232일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kLUZybXJmdnZVMUJvSFloUXIwc3FmWUF4OUZ3NzdNd1o5T1lRN1pYcF8xSFplMTU3enhYU05xVFlxRnZwVkJOZjM4dHpxNTdFWklYMFdoM1BBbnpvTFotT1BEcVd0b2VpV0k2cTZR?oc=5",
-    "title": "추석 국내외 한국 선수들 파이팅!… KBO·MLB ‘가을 야구’, 손흥민 선발 예열, 프로농구 개막 등 핫게임",
-    "summary": [
-      "추석 국내외 한국 선수들 파이팅!… KBO·MLB ‘가을 야구’, 손흥민 선발 예열, 프로농구 개막 등 핫게임 서울Pn."
     ],
     "chips": [
       "#손흥민",
@@ -344,295 +344,291 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3631ac7b",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://www.asiae.co.kr/article/2026052321131654132",
-    "title": "李대통령, 北 내고향축구단 우승 축하…\"공은 둥글고 또 만나게 될 것\"",
+    "id": "n9acab3b4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003642165",
+    "title": "카타르 국왕, 트럼프 통화…\"이란전쟁 외교적 해결 지지\"",
     "summary": [
-      "이재명 대통령이 23일 북한 내고향여자축구단의 아시아축구연맹 여자 챔피언스리그 우승을 축하했다.",
-      "이 대통령은 이날 자신의 엑스(X·옛 트위터)에 \"공은 둥글고, 우리는 또다시 만나게 될 것\"이라며 \"선수 여러분의 다음 도전을 힘차게 응원하겠다\"고 밝혔다.",
-      "이 대통령은 \"챔피언스리그에서 펼쳐진 수준 높은 경기들은 아시아 여자 축구의 눈부신 발전과 역량을 전 세계에 분명히 보여줬다\"며 \"이번 대회가 승패를 넘어 아시아."
+      "[서울=뉴시스]신정원 기자 = 셰이크 타밈 빈 하마드 알사니 카타르 국왕이 23일(현지 시간) 도널드 트럼프 미국 대통령과 통화하고 이란 전쟁의 외교적 해결에 대해 논의했다고 알자지라가 보도했다.",
+      "카타르 외무부에 따르면 타밈 국왕은 중동 긴장 상황과 추가적인 갈등 고조를 막기 위해 파키스탄이 주도하는 외교적인 중재 노력에 대해 논의했다.",
+      "외무부는 성명에서 \"양측은 역내 긴장 완화와 안정 유지 방안을 검토했으며, 특히 미국과 이란 사이에서 진행."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n803235fd",
+    "id": "necd50afc",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003642059",
-    "title": "[KBO 내일의 선발투수]5월24일(일)",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/23/HE3WMYZXMVSWMNDFMYZDIOLBHE/",
+    "title": "100% 아닌데 3안타 2타점, 그런데도 웃지 못한 심우준 \"화이트 미안, 승리투수 만들어주고 싶었는데…\" [오!쎈 대전]",
     "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 5월24일(일)> ▲잠실(오후 2시) 키움 (박준현) - (송승기) LG ▲사직(오후 2시) 삼성 (양창섭) - (엘빈 로드리게스) 롯데 ▲광주(오후 2시) SSG (타케다 쇼타) - (아담 올러) KIA ▲수원(오후 2시) NC (라일리 톰슨) - (배제성) KT ▲대전(오후 2시) 두산 (최승용) - (류현진) 한화."
+      "[OSEN=대전, 조은혜 기자] 프로야구 한화 이글스가 이틀 연속 두산 베어스를 잡고 3연패 후 2연승에 성공했다.김경문 감독이 이끄는 한화는 23일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 두산과의 홈경기에서 5-2 승리했다.",
+      "전날에 이어 2연승에 성공한 한화는 위닝시리즈 확보에 성공, 시즌 전적 22승24패를 만들면서 공동 5위로."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "ne98411cc",
+    "id": "n25dbdc29",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003642154",
-    "title": "시민사회, 스타벅스 '5·18 탱크데이' 규탄…\"정용진 책임 물어야\"(종합)",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523050500108",
+    "title": "러 \"우크라 공격 받은 대학 기숙사 사망자 16명으로 늘어\"",
     "summary": [
-      "[서울=뉴시스]이다솜 기자 = 진보성향 시민단체들이 23일 서울 곳곳에서 '5·18 탱크데이' 논란과 관련해 스타벅스코리아와 정용진 신세계그룹 회장을 규탄하는 집회를 개최했다.",
-      "진보 성향 대학생 단체인 한국대학생진보연합(대진연)은 이날 오후 2시 서울 강남구 역삼동 스타벅스 코리아 본사 앞에서 '정용진 사퇴, 스타벅스 불매' 기자회견을 열고 \"심각한 역사 모독이자 패륜\"이라며 스타벅스 코리아의 이벤트를 비판했다.",
-      "대진연은 \"이 충격적인 사태는."
+      "(이스탄불=연합뉴스) 김동호 특파원 = 러시아는 우크라이나군의 공습 표적이 된 대학교의 사망자가 16명으로 늘었다고 23일(현지시간) 주장했다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nb2ae0a09",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003642146",
-    "title": "'장두성 결승타' 롯데, 선두 삼성 4연승 저지…KIA, SSG 6연패로 몰아(종합)",
-    "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 롯데 자이언츠가 단독 선두를 달리던 삼성 라이온즈의 4연승을 저지했다.",
-      "롯데는 23일 사직구장에서 펼쳐진 2026 신한 쏠 KBO리그 삼성과의 경기에서 접전 끝에 7-5로 진땀승을 거뒀다.",
-      "전날의 5-7 패배를 고스란히 되갚은 롯데는 19승 1무 25패를 기록하며 9위에서 8위로 올라섰다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na95c8ed5",
+    "id": "na1bd890b",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/23/GE2GIMDGGJTGGNRQMY3DGMZWMY/",
-    "title": "장나라, 어딜 봐서 40대 중반…나이도 안 먹는 뱀파이어 미모",
-    "summary": [
-      "[OSEN=장우영 기자] 배우 장나라가 40대 중반이 믿기지 않는 미모를 자랑했다.장나라는 23일 자신의 SNS에 “차은경입니당”이라는 글과 함께 ‘굿파트너2’ 촬영 중인 모습을 담은 사진을 공개했다.공개된 사진 속 장나라는 ‘굿파트너2’를 촬영 중이다.",
-      "야외 정원을 배경으로 포즈를 취하고 있는 장나라는 데뷔 시절과 다를 바 없는 맑고 깨끗한 피부 등 인형."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6a81f6b7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003642147",
-    "title": "\"도망가지 말고, 살아가요\"…체호프의 한국적 변주 '반야 아재'[객석에서]",
-    "summary": [
-      "[서울=뉴시스]김주희 기자 = \"나도 한땐 재능 있고 의욕이 넘쳤는데.",
-      "제대로만 했다면, 만해 한용운만큼은 했을 텐데….\" '바냐 아저씨'가 아니라 '반야 아재'다.",
-      "러시아의 대문호 안톤 체호프의 고전이 130여 년을 지나 한국에서 새로 태어났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na94f03ba",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523039851007",
-    "title": "kt, 다시 삼성과 공동 선두…SSG 6연패·NC 5연패(종합)",
-    "summary": [
-      "(서울·수원=연합뉴스) 장현구 김동한 기자 = kt wiz와 삼성 라이온즈가 다시 공동 선두가 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n47114bc8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/23/MFSTKMJSMJRDQNTCGY4WIMDDG4/",
-    "title": "장윤정, 카메라도 있는데..♥도경완에 버럭 “집에서 이런 대화하고 싶지 않아”(도장TV)",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 장윤정이 우울한 대화를 이끌어가는 도경완에게 버럭 했다.23일 채널 ‘도장TV’에는 ‘자기야 나 서운한 일 있어’라는 영상이 게재됐다.이날 도경완, 장윤정은 샤부샤부를 먹으며 대화를 했다.",
-      "장윤정은 “요새 장윤정이 떠난 '도장TV'가 좀 슬프냐”라고 물었다.",
-      "장윤정은 앞서 도경완과 '도장TV'에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb4b2161c",
-    "category": "스포츠",
     "source": "머니투데이",
     "time": "10분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/23/2026052320585220206",
-    "title": "'북측' 표현에 \"국호 제대로 불러\"…기자회견 박차고 나가 '파행'",
+    "url": "https://www.mt.co.kr/world/2026/05/23/2026052321180349840",
+    "title": "순식간에 사라진 미확인물체…미 국방부, UFO 자료 또 풀었다",
     "summary": [
-      "[the300]韓 기자, '북측 여자축구' 언급에…리유일 감독, 질문 제지 과거에도 '북한' 호칭에 발끈…\"국호는 조선민주주의인민공화국\" 북한 내고향여자축구단(내고향)의 리유일 감독이 '북측'이라는 호칭에 불만을 표하고 우승 기자회견을 일방적으로 끝내버렸다.",
-      "내고향은 23일 수원종합운동장에서 열린 도쿄 베르디 베렌자(일본)와 2025-26 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL) 결승전에서 1-0으로 승리, 우승을 차지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na3332523",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523048800001",
-    "title": "李대통령 \"4·16에 사이렌 이벤트, 패륜행위\"…스타벅스 또 직격",
-    "summary": [
-      "(서울=연합뉴스) 황윤기 기자 = 이재명 대통령은 23일 이른바 탱크데이 마케팅으로 비판을 받고 있는 스타벅스코리아가 2년 전 세월호 참사 10..."
+      "\"SF영화 속 워프 속도로 사라졌다.\" 도널드 트럼프 미국 행정부가 22일(현지시간) 미확인 비행물체(UFO)와 미확인 이상 현상(UAP) 관련 기밀 자료를 추가 공개했다.",
+      "뉴스1에 따르면 미 국방부(전쟁부)는 이날 홈페이지를 통해 \"'UAP 조우 공개 및 보고 시스템'(PURSUE)의 일환으로 2차 자료를 추가 공개했다\"고 밝혔다.",
+      "해당 사이트는 도널드 트럼프 대통령의 행정명령에 따라 지난 8일 개설됐다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n1b11a964",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/23/2026052320565084985",
-    "title": "\"22억 대박\" 1등 당첨자 13명…로또 1225회 행운의 번호는?",
+    "id": "nfa9c3f35",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/23/HE3TQNBXGFRDGMRZMQ3TCYJQMI/",
+    "title": "'급소 강타' 인생 최악의 고통 이겨낸, 눈물의 세이브 \"애기 둘 다 낳아 괜찮습니다\" [대전 현장]",
     "summary": [
-      "당첨번호 8·9·19·25·41·42…보너스 33 23일 진행된 제1225회 로또복권 추첨 결과 '8, 9, 19, 25, 41, 42'가 1등 당첨번호로 결정됐다.",
-      "2등 당첨자를 결정하는 보너스 번호는 '33'이다.",
-      "당첨 번호 6개를 모두 맞힌 1등 당첨자는 총 13명."
+      "[대전=스포츠조선 김용 기자] \"애기 둘 다 낳아서 괜찮습니다.",
+      "하하.\" 인생 최고의 고통을 느꼈을 순간에도, 한화 이글스 이민우는 승리를 지켜냈다.",
+      "이민우가 '눈물의 세이브'를 따냈다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf64389f2",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/23/2026052320314381935",
-    "title": "자신 몸에 불붙여 협박하다 중상…50대 남성 검거",
+    "id": "n4e2e6a64",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/23/HE3GMNBYGRSGKY3DMZRWMOLGGQ/",
+    "title": "\"독도→청산리 대장정\" 송일국, 김장훈과 역사 의식 함께해('김주하의 데이앤나잇')",
     "summary": [
-      "자신의 몸에 불을 붙여 피해자를 협박한 50대 남성이 경찰에 붙잡혔다.",
-      "23일 뉴시스에 따르면 부산 사상경찰서는 특수협박 혐의로 A씨를 불구속 입건해 조사하고 있다.",
-      "A씨는 이날 오전 9시10분쯤 사상구 한 거리에서 자신의 몸에 가연성 물질을 뿌린 뒤 불을 붙여 피해자를 협박한 혐의를 받는다."
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘김주하의 데이앤나잇’ 배우 송일국이 김장훈과 친하게 지내게 된 이유로 오로지 '역사'라는 점을 말했다.23일 방영한 MBN ‘김주하의 데이앤나잇’에서는 배우 송일국이 등장했다.",
+      "그는 청산리 장정이라는 국위 선양 사업을 이끄는데, 청산리대첩이 이뤄진 곳을 장정하며 역사 의식을 되새기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc589ad21",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003642160",
+    "title": "[부고]김종돈(서산신문 대표)씨 모친상",
+    "summary": [
+      "[서산=뉴시스] ▲김채봉씨 별세, 김종돈(서산신문 대표)씨 모친상=23일, 서산 우리요양병원 장례식장 2호실 백합, 발인 25일 오전 8시30분, 장지 인지희망공원."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n3d229530",
+    "id": "n08c89fd2",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://www.asiae.co.kr/article/2026052320524843577",
-    "title": "李대통령, 스벅 직격 \"세월호 추모일에 싸이렌 이벤트, 일베도 아니고\"",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003642153",
+    "title": "[6·3안동]이삼걸 선대위 \"권기창 측근 체포…꼬리 자르기 말라\"",
     "summary": [
-      "이재명 대통령이 23일 스타벅스가 세월호 참사 추모일인 지난달 16일 '싸이렌 이벤트'를 진행한 사실을 거론하며 \"일베보관소도 아니고 대기업 공식 행사라는데 더 할 말이 없다\"고 강하게 비판했다.",
-      "이 대통령은 이날 자신의 엑스(X·옛 트위터)에 더불어민주당 정진욱 국회의원의 사회관계망서비스(SNS) 게시글을 공유하며 이같이 밝혔다.",
-      "앞서 정 의원은 해당 글에서 \"(스타벅스가) 신화에서 노래로 배를 난파시키는 세이렌(사이."
+      "[안동=뉴시스] 김진호 기자 = 더불어민주당 이삼걸 경북 안동시장 후보 선거대책위원회는 23일 권기창 후보의 최측근으로 활동한 소통비서관 A씨 체포와 관련, 권 후보의 공식 사과와 입장 표명을 촉구했다.",
+      "이 후보 선대위는 이날 시청에서 기자회견을 열고 \"권기창 후보의 최측근으로 활동한 소통비서관 A씨가 지난 22일 밤 경찰에 전격 체포됐다\"며 \"상황을 매우 엄중하게 보고 있다\"고 밝혔다.",
+      "이어 \"경찰이 법원의 체포영장을 발부받아 자택 압수수색과."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nc5205f50",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://www.asiae.co.kr/article/2026052320545447694",
-    "title": "소액주주 액트 \"삼성전자 주주명부 확보\"…1.5% 지분 결집 나선다",
+    "id": "nb441c18e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003642155",
+    "title": "인천 계양구청장 후보자 현수막 무단 철거…경찰 수사",
     "summary": [
-      "소액주주 플랫폼 액트는 삼성전자에 대한 주주명부 열람·등사 청구가 회사 측에 의해 전격 수용됐다고 23일 밝혔다.",
-      "'대한민국 주주운동본부'는 주주명부를 확보할 시 공식 서한 발송을 시작으로 본격적인 공동행동에 돌입할 방침이다.",
-      "주주명부는 주식회사에서 주주의 성명, 주소, 보유 주식 수 등 주주에 관한 상세 정보를 기록하고 관리하는 법적 장부다."
+      "[인천=뉴시스] 이루비 기자 = 인천에서 6·3 지방선거에 출마한 후보자의 현수막이 무단 철거돼 경찰이 수사에 나섰다.",
+      "23일 국민의힘 이병택 인천 계양구청장 후보 측에 따르면 캠프 관계자는 전날 오후 9시께 계양구 임학지하차도사거리에 게시돼 있던 이 후보의 선거 현수막이 철거된 사실을 알게 됐다.",
+      "철거된 자리에는 더불어민주당 박찬대 인천시장 후보의 현수막이 설치돼 있었다."
     ],
     "chips": [
-      "#삼성전자"
+      "#정치"
     ]
   },
   {
-    "id": "n117cfbc9",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://www.asiae.co.kr/article/2026052320504139120",
-    "title": "1225회 로또 1등 '8, 9, 19, 25, 41, 42'",
+    "id": "n211e0415",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/05/23/ME2TEMTBG4ZDIYLDGAZGGYZYGY/",
+    "title": "'수입 1조 5000억' 메이웨더, 돈다발 자랑했는데...2600억 소송 나섰다! \"이건 정말 미쳤다\" 측근들 사기 혐의로 고소",
     "summary": [
-      "제1225회 로또복권 1등 당첨번호는 '8,9,19,25,41,42'이다.",
-      "로또복권 운영사 동행복권은 23일 이 같은 내용의 제1225회 로또복권 추첨 결과를 발표했다.",
-      "2등 보너스 번호는 '33'이다."
+      "'수입 1조 5000억' 메이웨더, 돈다발 자랑했는데...2600억 소송 나섰다! \"이건 정말 미쳤다\" 측근들 사기 혐의로 고소."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb0a743b6",
+    "id": "n88b408be",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "29분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/23/2026052320540874776",
+    "title": "\"본국 돌아가서 신청해라\"…미국 영주권 취득 까다로워진다",
+    "summary": [
+      "도널드 트럼프 미국 행정부가 앞으로 미국 영주권을 받으려면 본국에서 신청하도록 규정을 바꾼다.",
+      "23일 월스트리트저널(WSJ) 등에 따르면 미국 이민국(USCIS)은 22일(현지시간) 외국인이 영주권을 신청할 때 미국 밖에서 절차를 진행하도록 하는 방침을 발표했다.",
+      "그동안 미국 내에서 영주권을 신청할 수 있었으나 앞으로 고국에 있는 미국 영사관에서 신청해야 한다는 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n873a153a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523048700002",
-    "title": "1225회 로또 1등 13명…당첨금 각 22억3천만원(종합)",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523050000108",
+    "title": "이란 혁명수비대 \"지난 24시간 상선 25척 호르무즈 통과\"",
     "summary": [
-      "(서울=연합뉴스) 로또복권 운영사 동행복권은 제1225회 로또복권 추첨에서 '8, 9, 19, 25, 41, 42'가 1등 당첨번호로 뽑혔다고 ..."
+      "(이스탄불=연합뉴스) 김동호 특파원 = 이란 이슬람혁명수비대(IRGC)는 지난 24시간 동안 상선 25척이 호르무즈 해협을 통과했다고 23일(현..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na3b4e28e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "27분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/23/2026052319251379199",
-    "title": "'한복 입고 경복궁 투어까지' 한국-필리핀 소프트볼, K-문화로 하나됐다",
+    "id": "n17dc7116",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "37분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260523215230",
+    "title": "고낙준 개보위 국장 \"중기 대상 사전진단과 기술지원 확대\"",
     "summary": [
-      "한국과 필리핀의 소프트볼 국가대표 선수들이 한복으로 하나가 됐다.",
-      "대한야구소프트볼협회(KBSA)는 22일 \"필리핀 소프트볼 대표팀과 함께 진행한 '개도국 선수 초청 합동훈련'을 성공적으로 마무리했다\"고 밝혔다.",
-      "대한체육회가 주최하고 KBSA가 주관한 이번 사업은 국민체육진흥공단의 재정지원을 받아 추진됐다."
+      "[지디넷코리아]\"AI시대를 맞아 개인정보보호 체계를 사전 예방과 신뢰 기반으로 대전환하고 있습니다.\"고낙준 개인정보보호위원회 예방조정심의관(국장)은 22일 열린 '제 2회 중소기업 정보보안 세미나'에서 \"개인정보 유출과 침해 위협이 증가하고 있고 AI시대를 맞아 데이터 처리 환경이 변화하고 있다\"며 이 같이 밝혔다.이날 행사는 중소기업중앙회(K-BIZ)가 한국정보산업협회(KISIS)와 공동으로 개최했다.",
+      "작년에 이어 올해 두 번째로 열렸다.고."
+    ],
+    "chips": [
+      "#AI",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n4d79d9de",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260523/133980909/1",
+    "title": "한동훈 “박민식 찍는 건 하정우 찍는 것과 다름없어”",
+    "summary": [
+      "“박민식 국민의힘 후보를 찍는 것은 하정우 더불어민주당 후보를 찍는 것이나 다름없다.",
+      "이들은 저와 보수재건을 막는 공동체가 됐다” 한동훈 부산 북구갑 국회의원 무소속 후보가 23일 오후 부산 북구 덕천동 집중 유세 현장에서 이같이 밝히며 여야 후보들에 대한 공세 수위를 끌어올렸다.한 후보는 “제가 대한민국의 주적을 북한이라고 하니까 민주당이 정치검찰이라고 비판한다”며 “민주당이 할 말 없으면 하는 소리”라고 말했다.이어 “여기서 200m 떨어진."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3a982698",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260523/133980906/1",
+    "title": "세븐틴 도겸·승관, ‘서재페’ 첫날 무대 장악…감성 보컬",
+    "summary": [
+      "그룹 세븐틴(SEVENTEEN)의 메인 보컬 라인 도겸과 승관이 국내 대표 음악 축제인 ‘서울재즈페스티벌’ 무대를 성공적으로 마쳤다.도겸과 승관은 지난 22일 서울 송파구 올림픽공원 일대에서 개최된 ‘제18회 서울재즈페스티벌 2026’의 첫날 라인업에 이름을 올리고 무대에 올랐다.",
+      "이들은 자신들의 유닛 앨범 수록곡을 시작으로 개인 솔로곡, 세븐틴 보컬팀의 대표곡까지 아우르는 다채로운 구성으로 60분간의 공연을 이끌었다.공연이 진행된 KSPO 돔."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6ecac6e6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260523/133980903/1",
+    "title": "李대통령, 스벅 또 저격 “‘세월호 이벤트’ 패륜 행위…일베도 아니고”",
+    "summary": [
+      "이재명 대통령은 23일 스타벅스코리아의 5·18 민주화운동 관련 ‘탱크데이’ 논란에 이어 세월호 참사 추모일과 관련된 기업 이벤트 논란을 언급하며 스타벅스를 재차 비판했다.이 대통령은 이날 오후 엑스(X·구 트위터)에 글을 올려 “세월호 참사 추모일(4·16)에 사이렌 이벤트 개시라니… 제발 사실이 아니길 바란다”며 “인두겁을 쓰고서는 도저히 할 수 있는 일이 아니기 때문”이라고 밝혔다.이어 “일베보관소도 아니고 대기업 공식 행사라는데 더 할."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8d66322a",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260523/133980898/1",
+    "title": "리사, 막 찍어도 A컷…슬림 허리 라인에 완벽 몸매",
+    "summary": [
+      "그룹 블랙핑크의 리사가 완벽한 몸매를 뽐냈다.리사는 23일 자신의 인스타그램에 “골스(Goals)”라는 글과 사진 여러 장을 올렸다.사진 속 리사는 유니폼을 연상케 하는 의상을 입고 인형 같은 완벽한 몸매를 뽐내고 있다.",
+      "그는 잘록한 허리는 물론 군살 없는 긴 다리를 과시해 시선을 사로잡았다.한편 리사는 오는 12일(현지 시각) 미국 LA에서 열리는 2026 북중미 월드컵 개막식 무대에 오른다.",
+      "리사는 지난 22일 아니타, 레마기 참여한 싱글."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbe621374",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "42분 전",
+    "url": "https://www.mt.co.kr/industry/2026/05/23/2026052321350658960",
+    "title": "CJ, 직원정보 뜬 텔레그램 채널 거래의혹 수사의뢰…채널은 '폐쇄'",
+    "summary": [
+      "CJ그룹이 전·현직 여직원들의 개인정보가 담긴 텔레그램 단체 대화방의 소유권이 가상화폐로 거래된 정황이 발견됐다는 의혹이 제기된 후 이 사안에 대해 별도 경찰 수사를 의뢰한 것으로 확인됐다.",
+      "23일 CJ그룹은 개인정보 유출 피해자 약 330명에게 공지 메시지를 통해 전·현직 여직원들의 개인정보가 담긴 텔레그램 단체 대화방 채널 소유권을 가상화폐로 거래한 사건에 대해 경찰에 별도 수사를 의뢰했다고 밝혔다.",
+      "해당 텔레그램 채널은 경찰과의 협조를 통."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2f6f3050",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523049600007",
+    "title": "5월 타율 '0.414' kt 김민혁 \"투수 심리 배운 이후 제 스윙 해\"",
+    "summary": [
+      "(수원=연합뉴스) 김동한 기자 = 이달 들어 절정의 타격감을 뽐내는 프로야구 kt wiz 외야수 김민혁(30)의 비결은 '지피지기'다."
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n098264d5",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "37분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260523/133980845/1",
-    "title": "르세라핌, 정규 2집 발매 첫날 43만 장 돌파…블핑 이은 대기록",
-    "summary": [
-      "그룹 르세라핌(LE SSERAFIM)이 새 앨범 발매와 동시에 폭발적인 음반 판매량을 기록하며 화려한 컴백을 알렸다.르세라핌(김채원, 사쿠라, 허윤진, 카즈하, 홍은채)은 지난 22일 오후 1시 두 번째 정규 앨범 ‘’퓨어플로우‘ 파트원’(‘PUREFLOW’ pt.1)을 전 세계에 동시 공개했다.",
-      "국내 음반 판매량 집계 사이트 한터차트에 따르면, 이 앨범은 발매 당일에만 총 43만 5675장이 판매되며 일간 음반 차트 정상에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne8179992",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "37분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260523/133980842/1",
-    "title": "‘신지♥’ 문원, 신혼집 ‘11대 CCTV’ 해명 “전 집주인에 그대로 인수 받아”",
-    "summary": [
-      "가수 문원이 최근 방송을 통해 공개된 신혼집 내 다수의 CCTV 설치와 관련해 직접 설명에 나서며 항간의 오해를 불식시켰다.문원은 23일 자신의 SNS를 통해 “집 밖에 CCTV가 많은 것은 전 집주인분이 설치해 두신 것을 저희가 그대로 인수받았기 때문”이라며 “신지 씨의 안전을 위해 현재도 그대로 사용하고 있다”고 구체적인 배경을 밝혔다.",
-      "이어 “모든 분 감사하다, 행복한 주말 보내시라”며 밝은 인사를 덧붙였다.이번 해명은 지난 22일 방송된."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -642,20 +638,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
+    "tag": "정치",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
