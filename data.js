@@ -1,25 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-23 03:01:34
+// 마지막 업데이트: 2026-05-23 05:12:53
 window.NEWS_DB = [
-  {
-    "id": "na3957e8b",
-    "category": "IT",
-    "source": "위키트리",
-    "time": "17시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zd0ZXSTFRTTFEVDB6b015U2lmOGpHNDY2RDMxWkRSdFZnbDN0SVo3YmpNU2tBQmRfT2xoWVFFNlRmejJ6czFGelFlRWg3VDZMSmhWMVhn?oc=5",
-    "title": "엔비디아는 고작 3위…압도적 1위 기록한 '이 종목'",
-    "summary": [
-      "엔비디아는 고작 3위…압도적 1위 기록한 '이 종목' 위키트리."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
   {
     "id": "nd3cf3b1a",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBR3REYWpMQ240c21NaGFNSGNDRENxcm5qWllCcXJpM1dneUhMOXZKLVhaaC0yLWVyLWtsd21IeWd4bXVZTDB2NWE2UnVuZ3RzOXNYUnpLN0RBdlFBaXVBS25wYldvOFpXX2VXcA?oc=5",
     "title": "엔비디아 깜짝실적…AI 투자 4조弗 간다",
     "summary": [
@@ -64,7 +50,7 @@ window.NEWS_DB = [
     "id": "n39284845",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85UGdveXJTWlVaSlZ0Z2pkVklvQWR6dUVMZVFYVlNBSk5GTTFBNWxrdVRYS0JETEhicFNnRGJqaHlXVkJWaG9fNFpEb2FxRmtUQmZKQkFDYjJZSlZrTFo1dzcyR0JPY3Z2ajVScw?oc=5",
     "title": "대구·대전·광주·울산서 글로벌 창업도시 첫 깃발 날린다",
     "summary": [
@@ -87,6 +73,22 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#고용"
+    ]
+  },
+  {
+    "id": "n931ee8e9",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zbkk0TGlLbjhKNTlfUTdjNV9jcVNHUldIekJhajlSM2FNdklJS3FxNDkzQzFiM0JFMXctUGNTNTB3N2xwREE3UmV5b29ya3dNTFBpdWtyZk1RX1Job3hzdGpTSEd3cmdCTldpUnlCNjNJVlk?oc=5",
+    "title": "엔비디아에 악재로 떠오르는 메모리반도체 물량 부족, \"차세대 AI칩 공급에 변수\"",
+    "summary": [
+      "엔비디아에 악재로 떠오르는 메모리반도체 물량 부족, \"차세대 AI칩 공급에 변수\" 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -121,17 +123,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n98221228",
+    "id": "n7c5c07a7",
     "category": "경제",
-    "source": "한겨레",
+    "source": "프리진경제",
     "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bHllbG1kZmFXbmpVaHZZM3Z4cUV6enJmcUhzR1U0ckF4WUNpYlg5YlNPaXBsMzEzaEwyZW1YcVN1TnlxQTRET0hNU0pUdlhyb3QxMklYbXprVHl1LWlUV01qY0c5eTgyb3BwNGxmYUZJQQ?oc=5",
-    "title": "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
+    "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
     "summary": [
-      "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감 한겨레."
+      "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정 프리진경제."
     ],
     "chips": [
-      "#뉴스"
+      "#환율"
     ]
   },
   {
@@ -169,7 +171,7 @@ window.NEWS_DB = [
     "id": "nfde594d3",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
-    "time": "16일 전",
+    "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV24zQjliQUJfa1l1Qlk5S001RWltWDRFMEt2cXItbGlPM1BzNnRfU1BNU1V0YlJJMFJ4WUI5ZDRodGk5aHRhMk11UVpHaWx2Uk1ycWhFbXR5cnlPZERaeVcyOFV1MG5Idlh4VUtvc25Tb3ZiTU96eTd3SEYzOWNEWFoxTk1HUko4Ylk5RzZn?oc=5",
     "title": "안양 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
     "summary": [
@@ -180,20 +182,6 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n64476ff1",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "33일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
-    "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -284,18 +272,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n46f59f4d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "140일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
+    "id": "n0fd44a05",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "155일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
+    "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
     "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
+      "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\" 조선일보."
     ],
     "chips": [
-      "#손흥민",
-      "#KBO"
+      "#AI",
+      "#스타트업"
     ]
   },
   {
@@ -310,6 +298,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "231일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "summary": [
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
     ]
   },
   {
@@ -377,257 +380,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na871eba0",
-    "category": "IT",
-    "source": "머니투데이",
+    "id": "n70d63be7",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.mt.co.kr/future/2026/05/23/2026051308332852369",
-    "title": "한 번에 30잔 추출, 7초 제공…'탭커피' 초고속 카페 시대 연다",
+    "url": "https://www.newsis.com/view/NISX20260523_0003641967",
+    "title": "푸틴 “우크라, 학생 기숙사 공격 45명 사상”…보복 명령",
     "summary": [
-      "[스타트UP스토리]정세현 커피사피엔스 대표 [이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] \"커피 한 잔을 만드는 방식을 바꾸면 수익구조 자체를 바꿀 수 있습니다.\" 경기침체 장기화와 원두 가격, 인건비 상승, 여기에 업계 내 경쟁 심화까지 겹치면서 문을 닫는 커피전문점이 늘고 있다.",
-      "이런 상황 속에서 커피 프랜차이즈 브랜드 커피사피엔스의 정세현 대표는 카페 산업이 안고."
+      "[서울=뉴시스]이재준 기자 = 블라디미르 푸틴 러시아 대통령은 22일(현지시간) 우크라이나군이 러시아 점령지 내 학생 기숙사를 공격해 45명을 살상했다고 비난하며 보복 공격을 선언했다.",
+      "BBC와 알자지라, CNN에 따르면 푸틴 대통령은 이날 모스크바 크렘린궁 행사에서 우크라이나군이 러시아군 점령 루한스크 지역 스타로빌스크에 있는 학생 기숙사를 드론으로 공격해 6명이 숨지고 39명이 다쳤다고 밝혔다.",
+      "또한 15명은 여전히 실종 상태라고 전한 푸틴."
     ],
     "chips": [
-      "#스타트업"
+      "#정치"
     ]
   },
   {
-    "id": "n4868582d",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260522/133973677/1",
-    "title": "“예순이지만, 주말 조기축구서 25분 4경기도 가뿐”[양종구의 100세 시대 건강법]",
+    "id": "n49ba05c5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003641964",
+    "title": "금오공대, 그린 플로킹 데이 행사…\"대학가 환경 정화\"",
     "summary": [
-      "전남 나주에서 초등학교 때부터 축구선수로 활약했다.",
-      "중학교 2학년 때 집안 형편 때문에 선수 꿈을 접었다.",
-      "시골이다 보니 사실상 축구는 사치였다."
+      "[구미=뉴시스] 박홍식 기자 = 국립 금오공과대학교는 대학가 환경 정화를 위해 '그린 플로킹 데이(Green Ploking Day)'행사를 운영했다고 23일 밝혔다.",
+      "플로킹은 산책을 하며 길거리에 버려진 쓰레기를 줍는 친환경 운동이다.",
+      "금오공대 사회봉사센터(센터장 송지혜)는 교수, 직원, 학생의 자발적 참여를 통해 봉사 문화 확산을 위해 이 행사를 기획했다."
     ],
     "chips": [
       "#교육",
+      "#환경"
+    ]
+  },
+  {
+    "id": "ne35882a1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/05/23/FJZUHYKWRVEM5FM54W5KHAHN2M/",
+    "title": "“불안한 모습으로 폰만 만지작”…보이스피싱 수거책 잡은 은행원 촉",
+    "summary": [
+      "“불안한 모습으로 폰만 만지작”…보이스피싱 수거책 잡은 은행원 촉."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c95df88",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://www.asiae.co.kr/article/2026052313423780337",
+    "title": "\"솔직히 돈 아까웠다\"…1억 기부한 '충주맨' 김선태의 고백",
+    "summary": [
+      "\"솔직히 아깝다는 마음도 들었다.\" '충주맨'으로 알려진 김선태 전 충주시 주무관이 충주의료원에 1억원을 기부하며 털어놓은 말이다.",
+      "김선태는 지난 22일 자신의 유튜브 채널을 통해 기부 사실을 공개했다.",
+      "그는 \"누군가에게는 적은 돈일 수 있지만 저에게는 정말 큰돈\"이라며 \"막상 제 돈이 나간다고 생각하니 기부가 쉽지 않다는 걸 느꼈다\"고 말했다."
+    ],
+    "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n5a191c90",
+    "id": "nd23dbdcd",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641338",
-    "title": "필요한 보장만 쇼핑하듯 쏙쏙…삼성화재, 'The!심플한보장' 출시",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003641897",
+    "title": "제이제이 \"최악의 음식은 떡볶이…혈당 스파이크 주범\"",
     "summary": [
-      "[서울=뉴시스]권안나 기자 = 삼성화재가 필요한 보장만 골라 쇼핑하듯 간편하게 가입할 수 있는 보험 상품을 선보였다.",
-      "주제별 묶음 형태로 구성해 직관성과 편의성을 높인 것이 특징이다.",
-      "삼성화재는 다이렉트를 통해 ’The!심플한보장'을 출시했다고 22일 밝혔다."
+      "[서울=뉴시스]정우영 인턴 기자 = 인기 운동 유튜버 제이제이가 식단 관리 중 피해야 할 최악의 음식으로 떡볶이와 튀김을 꼽았다.",
+      "21일 제이제이의 유튜브 채널 '제이제이살롱드핏'에는 댄서 가비가 게스트로 출연해 자기관리에 관한 이야기를 나눴다.",
+      "제이제이는 탄수화물 민감도와 관련한 이야기를 하다가 \"최악은 떡볶이, 튀김\"이라고 말했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2b5c6063",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641228",
-    "title": "\"200시간 택배 분류하고 23kg 냉장고도 번쩍\"…'피지컬 AI' 눈앞 [휴먼AI①]",
+    "id": "n7b363019",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/23/2026052313421869991",
+    "title": "이재명 대통령, 盧 전 대통령 추도식 참석…국민통합 다짐",
     "summary": [
-      "[서울=뉴시스]오동현 기자 = #1.",
-      "사람이 휴머노이드 로봇과의 택배 분류 대결에서 이겼다.",
-      "1만2924개 대 1만2732개."
+      "[the300] 이재명 대통령이 취임 후 대통령 자격으로 처음으로 노무현 전 대통령의 서거 17주기 추도식에 참석했다.",
+      "청와대는 23일 \"이 대통령과 김혜경 여사는 오늘 오후 고 노무현 전 대통령 서거 17주기 추도식에 참석해 국민들과 함께 노 전 대통령의 업적과 생전의 뜻을 기리고 유족을 위로했다고 밝혔다.",
+      "이날 추도식은 '내 삶의 민주주의, 광장에서 마을로'를 주제로 '사람사는 세상 노무현재단'이 주최했다."
     ],
     "chips": [
-      "#AI",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4b6febf8",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://www.asiae.co.kr/article/2026052309154875873",
+    "title": "이재명 대통령, 盧 서거 17주기 추도식 참석",
+    "summary": [
+      "이재명 대통령과 김혜경 여사가 23일 고 노무현 전 대통령 서거 17주기 추도식에 참석했다.",
+      "청와대는 이날 이 대통령 내외가 경남 김해시 진영읍 봉하마을에서 엄수되는 추도식에 참석해 노 전 대통령의 업적과 생전의 뜻을 기리고 유족을 위로한다고 밝혔다.",
+      "청와대는 \"이 대통령이 추도사에서 노무현 전 대통령이 사랑한 국민과 나라를 반드시 지켜내겠다고 다짐할 예정\"이라며 \"공정, 균형, 포용, 인간 존중이 이루어지는 나라를."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n973fb79d",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/23/2026052314021823946",
+    "title": "[속보]이재명 대통령, 文 전 대통령 내외, 권양숙 여사와 盧 추도식 참석",
+    "summary": [
+      "[the300] 23일 경남 김해 봉하마을...."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb6d743ec",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/05/23/DEW2KSA43NHRHLSDIYVLWORLO4/",
+    "title": "李대통령, 노무현 전 대통령 17주기 추도식 참석",
+    "summary": [
+      "李대통령, 노무현 전 대통령 17주기 추도식 참석."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndbf0b231",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003641951",
+    "title": "이 대통령, 노무현 전 대통령 서거 17주기 추도식 참석",
+    "summary": [
+      "[서울=뉴시스] 김지은 기자 = 이재명 대통령이 23일 경남 김해시 진영읍 봉하마을에서 열린 노무현 전 대통령 서거 17주기 추도식에 참석했다.",
+      "이 대통령은 이날 오후 김혜경 여사와 함께 노 전 대통령 서거 17주기 추도식에 참석해 노 전 대통령의 업적과 생전의 뜻을 기리고 유족을 위로한다.",
+      "이날 추도식은 '내 삶의 민주주의, 광장에서 마을로'를 주제로 사람사는세상 노무현재단이 주최하며, 유족과 재단 임원, 참여정부 인사, 국회, 정당 대표,."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd504dfbc",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523031100053",
+    "title": "높은 구릿값에…아파트 소방노즐 1만1천여개 훔친 40대 검거",
+    "summary": [
+      "(대구=연합뉴스) 한무선 기자 = 경북 경주경찰서는 아파트 소화전에 있는 소방노즐을 상습으로 훔친 혐의(절도)로 40대 A씨를 검거했다고 23일..."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n5c31379a",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/23/2026052313364667077",
+    "title": "[속보]이재명 대통령, 고 노무현 전 대통령 추도식 참석",
+    "summary": [
+      "[the300] 23일 경남 김해 봉하마을...."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n41b33fbc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523030200001",
+    "title": "李대통령, 봉하마을서 노무현 前대통령 추도식 참석",
+    "summary": [
+      "(서울=연합뉴스) 황윤기 기자 = 이재명 대통령은 23일 배우자 김혜경 여사와 함께 경남 김해 봉하마을을 찾아 고(故) 노무현 전 대통령의 서거..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n579fd507",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://www.asiae.co.kr/article/2026052310190670716",
+    "title": "\"반복 추락사고 막자\"… 안전보건공단 부산본부, 재해예방협의회",
+    "summary": [
+      "안전보건공단 부산광역본부(본부장 정종득)는 지난 21일 벡스코 회의실에서 '2026년 상반기 건물관리업 재해예방 협의회'를 개최했다.",
+      "이번 협의회에는 안전보건공단과 고용노동부 부산청, 부산지역 10대 건물관리업체 관계자 등 30여명이 참석해 건물관리업종의 산업재해 예방과 안전문화 확산 방안을 논의했다.",
+      "건물관리업은 건물 외벽 청소와 시설 점검, 유지보수 과정에서 이동식 사다리와 고소작업이 빈번하게 이뤄지는 특성상."
+    ],
+    "chips": [
+      "#고용",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n078dcc1b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523029400017",
+    "title": "여의도서 피크민 블룸 행사…제작진 \"한강 매력 보여주고 싶어\"",
+    "summary": [
+      "(서울=연합뉴스) 김주환 기자 = \"여행하면 그 지역 사람들이 어떤 일상을 보내고 있는지 발견하는 것도 멋진 일이라고 생각합니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne072ea06",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://www.asiae.co.kr/article/2026052310243582405",
+    "title": "골목상권에 디지털 날개… 울산시, 소상공인 온라인 판로지원 거점 추진",
+    "summary": [
+      "울산 남구 삼산동에 지역 소상공인의 디지털 전환과 온라인 판로 확대를 지원하는 디지털상거래 전문시설 '소담스퀘어 울산'이 들어선다.",
+      "울산시는 중소벤처기업부와 한국중소벤처기업유통원이 주관한 '2026년 디지털상거래(커머스) 전문기관(소담스퀘어) 신규 설치' 공모사업에 최종 선정돼 국비 42억원을 확보했다.",
+      "여기에 시비 38억원을 더해 총사업비 80억 원 규모로 사업을 추진하며, 오는 11월 개소를 목표로 시설 조성과 장."
+    ],
+    "chips": [
       "#스타트업"
     ]
   },
   {
-    "id": "nb5781153",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003641900",
-    "title": "수요일까지 곳곳 비…주 후반 다시 초여름 날씨[다음주 날씨]",
-    "summary": [
-      "[서울=뉴시스]이다솜 기자 = 다음 주(25일~31일)은 월요일 낮부터 제주도를 시작으로 수요일까지 전국 곳곳에 비가 내리겠다.",
-      "주 후반에는 고기압의 영향으로 맑은 날씨가 이어지겠다.",
-      "23일 기상청에 따르면 월요일인 25일은 낮부터 제주도에 비가 시작돼 밤부터 전라권과 경남서부로 확대되겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na187f865",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003641905",
-    "title": "국힘, 김용남 '차명 대부업체 의혹'에 \"당선돼도 무효…사퇴하라\"",
-    "summary": [
-      "[서울=뉴시스]하지현 한재혁 기자 = 국민의힘은 23일 경기 평택을 국회의원 재선거에 출마한 김용남 더불어민주당 후보가 차명으로 대부업체를 운영했다는 의혹을 두고 \"당선무효가 될 수 있는 위법 사항\"이라며 후보직 사퇴를 촉구했다.",
-      "박성훈 수석대변인은 이날 논평에서 \"김 후보가 보좌진 폭행 논란도 모자라, 이번에는 타인 명의로 대부업체를 운영하며 서민들을 상대로 고리대금 이익을 챙겨왔다는 충격적인 정황이 폭로됐다\"고 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc5eef46f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/05/23/SDHEMNHJYBAHBIULJIK2UKGSWY/",
-    "title": "오픈런에 매진 항의 사태 ‘서울국제도서전’ 올해는",
-    "summary": [
-      "오픈런에 매진 항의 사태 ‘서울국제도서전’ 올해는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n72ef63f6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/23/MU4DOZDEGFRTCYLEGUYDKMZTMM/",
-    "title": "'1박2일' 하차 유선호, 작심 폭로 \"거짓말 버라이어티\"…제대로 뿔났다",
-    "summary": [
-      "<방송사에서 제공한 자료를 바탕으로 작성된 프리뷰 기사입니다.>[OSEN=장우영 기자] ‘1박2일’ 하차를 알린 유선호가 제작진에게 불만을 드러낸다.오는 24일 방송되는 KBS 2TV 예능프로그램 '1박 2일 시즌4'(이하 '1박 2일')에서는 경상남도 남해군에서 펼쳐지는 '남해 홀리데이' 첫 번째 이야기가 공개된다.'남해 홀리데이'라는 여행 콘셉트에 걸맞."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbe497c14",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/23/2026052311290457262",
-    "title": "김용남 \"盧 정신 이어받아\" 조국 \"단디할것\"…나란히 봉하마을행",
-    "summary": [
-      "[the300] 경기 평택을 국회의원 재선거에서 맞붙은 김용남 더불어민주당 후보와 조국 조국혁신당 후보가 노무현 전 대통령 17주기를 맞아 나란히 경남 김해 봉하마을을 찾는다.",
-      "김 후보는 \"노무현 정신을 이어받아 통합의 정치를 실현하겠다\"고 했고, 조 후보는 \"단디(확실히)할 것\"이라고 다짐했다.",
-      "김 후보는 23일 SNS(소셜미디어)에 \"노 전 대통령은 불가능을 알면서도 지역주의 타파라는 원칙을 외치며 늘 험지의 길을 마다하지 않았다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n118b869a",
-    "category": "사회",
+    "id": "n96561cdb",
+    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523027400054",
-    "title": "전남 소방, 발목부상 월출산 등산객 헬기 이송",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523030900007",
+    "title": "사격 대표팀, 2026 ISSF 뮌헨 월드컵 출전 차 출국",
     "summary": [
-      "(강진=연합뉴스) 정다움 기자 = 월출산 국립공원에서 발목 부상으로 고립된 등산객이 119구조대에 의해 구조됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f9343eb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/05/23/XW3KSPZKWZGR7LYWBMSEHBMWAU/",
-    "title": "盧17주기에... 與 “검찰개혁 완수” 野 “공소취소 반칙”",
-    "summary": [
-      "盧17주기에... 與 “검찰개혁 완수” 野 “공소취소 반칙”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0861094c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/05/23/YI55EJES7FCL5BQYXCPJS4EBGI/",
-    "title": "스타벅스 방문 인증샷 배우… 논란 일자 출연 중이던 뮤지컬 하차",
-    "summary": [
-      "스타벅스 방문 인증샷 배우… 논란 일자 출연 중이던 뮤지컬 하차."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6475814e",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/23/2026052311371083191",
-    "title": "팔·다리 잃고도 보디빌딩 대회 참가…\"넘어졌을 뿐 죽지 않았다\"",
-    "summary": [
-      "교통사고로 팔과 다리 일부를 잃은 중국 남성이 보디빌딩 대회 무대에 올랐다.",
-      "23일 홍콩 사우스차이나모닝포스트(SCMP), 중국 청년보 등에 따르면 류신주씨(32)는 최근 중국 산둥성 지난에서 열린 제20회 보디빌딩 대회에 체중 65㎏ 이하 부문에 참가했다.",
-      "그는 한쪽 팔과 한쪽 다리를 잃은 상태에서도 무대에 올라 완성도 높은 포즈를 선보였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n795cce9d",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/stock/2026/05/23/2026052217474321913",
-    "title": "총 '4.1조' 규모 삼전닉스 레버리지 온다…16종, 27일 상장",
-    "summary": [
-      "국내 시총 1, 2위 종목인 삼성전자와 SK하이닉스를 기초로 하는 단일종목 레버리지·인버스2X ETF(상장지수펀드)가 오는 27일 상장된다.",
-      "총 8개 자산운용사가 2씩 16종이며, 상장규모만 4조1000억원이 넘어간다.",
-      "ETF 역사상 처음으로 초기 설정규모가 조단위인 상품도 탄생했다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n4cc59602",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523026700062",
-    "title": "'우상호·김진태' 공식 선거운동 첫 주말 맞아 동해안 표심 공략",
-    "summary": [
-      "(춘천=연합뉴스) 류호준 기자 = 6·3 지방선거 공식 선거운동이 시작된 이후 첫 주말을 맞아 강원도지사 후보들이 동해안 지역을 중심으로 유세를..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na9789e0a",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523026900073",
-    "title": "글로벌 PF 대출 5년새 2배·'100조엔 돌파…'큰손'은 日메가뱅크",
-    "summary": [
-      "(도쿄=연합뉴스) 조성미 특파원 = 미중 갈등으로 촉발된 공급망 개편, 인공지능(AI)용 데이터센터 증설 수요 등에 힘입어 전 세계적으로 시행된..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n9a5e4c97",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523024900005",
-    "title": "하츠투하츠 '루드!', 스포티파이 1억 스트리밍",
-    "summary": [
-      "(서울=연합뉴스) 이태수 기자 = 걸그룹 하츠투하츠의 '루드!'(RUDE!)가 세계 최대 음원 플랫폼 스포티파이에서 1억 스트리밍을 돌파했다고 ..."
+      "(서울=연합뉴스) 김동한 기자 = 대한사격연맹은 국가대표팀이 2026 국제사격연맹(ISSF) 뮌헨 월드컵 출전을 위해 독일로 출국했다고 23일 ..."
     ],
     "chips": [
       "#뉴스"
@@ -639,19 +643,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "tag": "정치",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "뉴스",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "스타트업",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
