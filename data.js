@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-23 07:47:14
+// 마지막 업데이트: 2026-05-23 08:39:36
 window.NEWS_DB = [
   {
     "id": "nd3cf3b1a",
@@ -123,6 +123,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n7c5c07a7",
+    "category": "경제",
+    "source": "프리진경제",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WDRPdXlJSDNuanI5QVJhb0pOcy1jLXhqdWlyeWV2bFppRy1wVm0xdHBrZkZKM1Jza1d2UXIzanV0NGhWVGR4R3NnQi1Tb1AxYzNiME11aFNsb3I1NlZqdVNySjRlbloxVFRKTw?oc=5",
+    "title": "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정",
+    "summary": [
+      "국제금융시장 투자심리 회복세...원·달러 환율 하락하고 증권자금 유출도 진정 프리진경제."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -202,7 +216,7 @@ window.NEWS_DB = [
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "75일 전",
+    "time": "76일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
     "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
@@ -213,24 +227,25 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n15f5f447",
-    "category": "경제",
-    "source": "지디넷코리아",
-    "time": "79일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
-    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "93일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
     "summary": [
-      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
     ],
     "chips": [
-      "#환율"
+      "#부동산",
+      "#정책"
     ]
   },
   {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "99일 전",
+    "time": "100일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
     "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
@@ -245,7 +260,7 @@ window.NEWS_DB = [
     "id": "nb4e9ce67",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "113일 전",
+    "time": "114일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43c0lBUTduWFZhNkNKY1FuanUxLTl3UUZxVGVFaXI2YlZfLW9iOVRrdGtnaDNVRFE3YjZtMkRuSTV0Tkl3RlNOUlIxWWswYjgtS1lEeG5pZjh3U03SAWBBVV95cUxOaFRuVzFHS1ktaDl1MWpSd1YxT2tlcldST2dQQ3BUVk8yOXM5c21zRE81dWphNWJEVkJEMmlsN1lqSzRaeFp0N3kzUGtGa3V3Z0F5QXltVkRtdkt1YUVESnA?oc=5",
     "title": "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집",
     "summary": [
@@ -260,7 +275,7 @@ window.NEWS_DB = [
     "id": "n46f59f4d",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "140일 전",
+    "time": "141일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
     "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
     "summary": [
@@ -272,24 +287,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13cdbe9c",
-    "category": "부동산",
-    "source": "시사저널e",
-    "time": "143일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
-    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
-    "summary": [
-      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n0fd44a05",
     "category": "IT",
     "source": "조선일보",
-    "time": "155일 전",
+    "time": "156일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXk0WVNwbEtjNzlkNVh0ZVhNTTRfSWZiYm5SdFFOT0VLdENKcHVPVWZmUVJkdUUyNGVvMW1RWkw2dWJHZ3FEMndfaWFOY1Q2ZWJ5aXpDX3B1MmFpSmlrYkEydmp5YmRuVVNQRF9zckJ3b1hWaE04SXlZeklPcEdacndkU2ZJM0tM?oc=5",
     "title": "\"5년 내 AI·딥테크 스타트업 1만개, 유니콘·데카콘 50개 육성\"",
     "summary": [
@@ -304,7 +305,7 @@ window.NEWS_DB = [
     "id": "n41be81c1",
     "category": "경제",
     "source": "YTN",
-    "time": "194일 전",
+    "time": "195일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KUFFYTE53YzNGaGd6bEZwYTRYSE1sUFhlSkcwZmVhbWpFMV9yd0cySkRESWdsQVJBNU5IdVpzZFMwbEpaVVp1Z3hnYzEyYkljMXlPeURzYlZoU3B3MGc?oc=5",
     "title": "코스피 석 달 동안 1,000p 올랐는데 환율 급등한 이유는?",
     "summary": [
@@ -379,200 +380,123 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nce604abf",
-    "category": "스포츠",
-    "source": "머니투데이",
+    "id": "nd9f360c8",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/23/2026052312444380338",
-    "title": "'우승 좌절' 눈시울 붉어진 日감독 \"北 내고향, 챔피언 자격 충분\" [수원 현장]",
+    "url": "https://www.newsis.com/view/NISX20260523_0003642052",
+    "title": "故 설리 오빠, 김수현 또 저격…\"37분짜리 통화 녹취 있어\"",
     "summary": [
-      "2025-2026 아시아축구연맹(AFC) 여자 아시아 챔피언스리그(AWCL) 결승에서 북한 내고향여자축구단에 져 우승에 실패한 도쿄 베르디 벨레자의 구스노세 나오키 감독이 \"내고향이 승자다운 불굴의 정신력을 보여줬다\"며 패배를 인정했다.",
-      "구스노세 감독은 23일 수원종합운동장에서 열린 2025-2026 AWCL 결승전 내고향전 0-1 패배로 우승에 실패한 뒤 기자회견에서 \"내고향은 챔피언 자격이 충분하다고 생각한다\"고 말했다."
+      "[서울=뉴시스]강주희 기자 = 그룹 에프엑스 출신 고(故) 설리의 친오빠가 배우 김수현을 재차 저격했다.",
+      "22일 설리의 친오빠 최모씨는 사회관계망서비스(SNS)에 \"나한테는 37분짜리 동생 전 매니저와 통화한 녹취가 있음\"이라고 적었다.",
+      "이어 김수현과 또다른 인물들을 열거한 뒤 \"동생의 당시 좋지 못한 사생활 일부까지도 담겨 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0e9b6932",
-    "category": "사회",
+    "id": "n31b11f1b",
+    "category": "경제",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003642054",
-    "title": "진보 대학생 단체, '5·18 탱크데이' 스타벅스 규탄…\"심각한 역사 모독\"",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003642077",
+    "title": "제주도, 구제역 백신접종 청정지역 재인증 받았다",
     "summary": [
-      "[서울=뉴시스]이다솜 기자 = 진보 성향 대학생 단체인 한국대학생진보연합(대진연)이 23일 지난 5·18 민주화운동 기념일에 진행된 스타벅스 코리아의 '탱크데이' 이벤트를 규탄했다.",
-      "대진연은 이날 오후 2시 서울 강남구 역삼동 스타벅스 코리아 본사 앞에서 '정용진 사퇴, 스타벅스 불매' 기자회견을 열고 \"심각한 역사 모독이자 패륜\"이라며 스타벅스 코리아의 이벤트를 비판했다.",
-      "대진연은 \"이 충격적인 사태는 스타벅스의 수장 정용진 신세계그룹 회장."
+      "[제주=뉴시스]오영재 기자 = 제주도는 '구제역 청정지역' 국제 인증을 재차 받았다고 23일 밝혔다.",
+      "이번 재인증은 지난 18일부터 22일까지 프랑스 파리에서 열린 세계동물보건기구(WOAH) 제93차 총회에서 최종 확정됐다.",
+      "도내 한우·돼지 등 우제류 농가의 청정 지위가 2년 연속 국제적으로 공인되면서 축산물 수출 기반이 한층 단단해졌다고 도는 진단했다."
     ],
     "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n466ac2bc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523025351055",
-    "title": "노무현 전 대통령 17주기…전북지사 후보들 \"정신 계승\" 다짐(종합)",
-    "summary": [
-      "(전주=연합뉴스) 임채두 기자 = 노무현 전 대통령 서거 17주기인 23일 전북특별자치도지사 후보들은 \"고인의 숭고한 정신을 계승하겠다\"고 다짐..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7ae34ccc",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523039800007",
-    "title": "프로야구 LG, 3회 집중타로 키움 6연승 저지",
-    "summary": [
-      "(서울=연합뉴스) 장현구 기자 = 프로야구 LG 트윈스가 집중타를 터뜨려 키움 히어로즈의 6연승 도전을 막아섰다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n73ccd130",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003642041",
-    "title": "대구 터미널 정차 버스 화물칸서 '대형 뱀' 발견, 승객들 소동",
-    "summary": [
-      "[대구=뉴시스] 이은희 기자 = 대구의 한 고속버스터미널에 정차한 버스 화물칸에서 대형 뱀이 발견돼 승객들이 소동을 빚었다.",
-      "23일 소방 등에 따르면 이틀 전인 21일 오후 7시10분께 동대구에서 출발해 서대구고속버스터미널에 임시 정차한 시외버스 화물칸에서 여행 가방을 둘러싼 대형 뱀이 발견됐다.",
-      "택배 상자에 있다가 밖으로 나온 것으로 알려진 뱀은 신고를 받고 출동한 소방이 포획해 임시 보관 후, 북구청에 인계됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n358a20d4",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/23/2026052316341138551",
-    "title": "화성 빌라 화재로 20대 손자 사망…80대 할머니 얼굴 화상",
-    "summary": [
-      "23일 낮 12시 47분 경기 화성시 만세구 우정읍 조암리에 위치한 5층짜리 다가구주택 4층 세대에서 화재가 발생했다.",
-      "이에 따라 20대 남성 A씨가 심정지 상태로 소방 당국에 구조돼 인근 병원으로 옮겨졌으나 끝내 사망했다.",
-      "마찬가지로 4층 세대 거주자인 A씨의 할머니 B씨는 얼굴에 2도 화상을 입었다."
-    ],
-    "chips": [
+      "#수출",
       "#의료"
     ]
   },
   {
-    "id": "neb8f42c7",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523039600007",
-    "title": "[프로야구 잠실전적] LG 5-2 키움",
+    "id": "n6c0539b2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003642074",
+    "title": "[6·3충북]폭로에 고발에…선거운동 첫 주말 '진흙탕 공방'",
     "summary": [
-      "[프로야구 잠실전적] LG 5-2 키움."
+      "[청주=뉴시스] 이도근 기자 = 6.3 지방선거가 열흘 앞으로 다가온 가운데 충북 여야가 상대 후보의 공직선거법 위반 의혹을 제기하며 공방을 벌였다.",
+      "더불어민주당 충북도당은 23일 논평을 통해 자신의 개인사를 보도한 언론사를 고발한 국민의힘 김창규 제천시장 후보를 향해 \"고발보다 해명이 먼저\"라고 비판했다.",
+      "지역 정치권 등에 따르면 지역 한 언론사는 공식 선거운동이 시작한 지난 21일 김 후보 전 배우자와의 통화 녹취 내용을 인용해 김 후보의."
     ],
     "chips": [
-      "#KBO"
+      "#정치"
     ]
   },
   {
-    "id": "na93e27e9",
+    "id": "n3efda1fa",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/23/2026052316153919173",
-    "title": "한국서 우승한 북한팀…여자축구 '내고향', 日베르디 꺾고 아시아 최정상",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523042100504",
+    "title": "'내고향' 목놓아외친 공동응원단…선취점에 \"우리편이 넣었다\"",
     "summary": [
-      "(상보) 북한 내고향여자축구단(내고향)이 한국서 열린 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL)에서 우승했다.",
-      "내고향은 23일 수원종합운동장에서 도쿄 베르디벨라자(베르디)와 2025-26시즌 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL) 결승전을 치러 1-0으로 승리했다.",
-      "내고향은 우승 상금으로 100만달러(약 15억1900만원)을 수령하게 됐다."
+      "(수원=연합뉴스) 하채림 기자 = '평양 내고향여자축구단의 선전을 응원합니다', '평양 내고향여자축구단 여러분의 방문을 환영합니다'."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne90f4fd3",
+    "id": "nffb254be",
     "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/05/23/GNS6CMRSKJA3DA6TO7Y5UT72M4/",
+    "title": "“북측 여자 축구...” 질문에 “국호 제대로 불러라” 기자회견 박차고 나간 北내고향축구단",
+    "summary": [
+      "“북측 여자 축구...” 질문에 “국호 제대로 불러라” 기자회견 박차고 나간 北내고향축구단."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na1164a98",
+    "category": "사회",
     "source": "연합뉴스",
     "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523039300007",
-    "title": "'4연패' 이호준 NC 감독 \"불펜진 구성에 고민\"",
+    "url": "https://www.yna.co.kr/view/AKR20260523032351001",
+    "title": "김용남·조국, '盧 前 대통령 추도식'서 미묘한 '적자' 신경전(종합)",
     "summary": [
-      "(수원=연합뉴스) 김동한 기자 = 4연패 늪에 빠져 최하위로 내려간 프로야구 NC 다이노스가 구원 투수들의 부진과 부상에 따른 이탈로 불펜 구성..."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nbf29bfab",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003642053",
-    "title": "與 \"한동훈, 정치검사식 선동…선거를 이념 전쟁으로 몰아가\"",
-    "summary": [
-      "[서울=뉴시스] 한재혁 기자 = 더불어민주당은 23일 부산 북구갑 국회의원 보궐선거에 출마한 한동훈 무소속 후보를 향해 \"정치검사식 선동으로 사람 사는 세상을 짓밟고 있다\"고 했다.",
-      "박홍배 대변인은 이날 서면브리핑에서 \"한 후보가 부산 북구갑 보궐선거를 이분법적 이념전쟁으로 몰아가고 있다\"고 했다.",
-      "박 대변인은 \"'주적' 개념을 갖고 경쟁 후보를 몰아세우는 모습은 한 후보가 정치검사 시절 하던 프레임 씌우기에 지나지 않다\"고 했다."
+      "(김해·서울=연합뉴스) 서혜림 박수윤 최주성 기자 = 범여권 인사들이 총집결한 23일 고(故) 노무현 전 대통령 추도식에 경기 평택을 국회의원 ..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n672aa5fe",
-    "category": "스포츠",
-    "source": "머니투데이",
+    "id": "nca5f9752",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "8분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/23/2026052310590453991",
-    "title": "'파울플라이 포구 실책→2타점 적시타' 박동원 결자해지! LG, 5연승 키움 5-2 꺾고 3위 사수 [잠실 현장리뷰]",
+    "url": "https://www.newsis.com/view/NISX20260523_0003642075",
+    "title": "박근혜, 칠성시장 방문…추경호 캠프 \"시간 짧지만 파장 클 것\"",
     "summary": [
-      "LG 트윈스가 중심 타자들의 맹활약으로 키움 히어로즈를 꺾었다.",
-      "LG는 23일 서울 잠실야구장에서 열린 2026 신한 SOL KBO리그 정규시즌 홈경기에서 키움에 5-2로 승리했다.",
-      "이로써 전날 패배를 만회한 LG는 27승 19패로 KT 위즈(26승 1무 18패)를 잠시나마 제치고 2위로 올라섰다."
+      "[대구=뉴시스] 정창오 기자 = 박근혜 전 대통령이 23일 오후 국민의힘 추경호 대구시장 후보와 함께 대구 북구 전통시장인 칠성시장을 방문하자 시장 상인을 비롯한 대구시민들이 뜨거운 호응을 보였다.",
+      "추 후보 캠프 관계자는 박 전 대통령의 이번 방문에 대해 \"방문 시간은 짧았지만 대구시장 선거에 미칠 파장은 상당히 클 것\"이라고 기대감을 나타냈다.",
+      "박 전 대통령의 이날 시장 방문에는 이인선 대구시당위원장을 비롯해 주호영·김승수·권영진·김기웅·최은."
     ],
     "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n55ed9580",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003642040",
-    "title": "[6·3대전]허태정 '봉하마을·사찰로', 이장우 '시장·야구장으로'",
-    "summary": [
-      "[대전=뉴시스] 조명휘 기자 = 6·3지방선거 공식선거운동 첫 주말인 23일 더불어민주당 허태정 대전시장 후보는 노무현 대통령 서거 17주기를 맞아 봉하마을을 찾았고, 국민의힘 이장우 후보는 시장과 야구장 등을 돌며 집중유세를 펼쳤다.",
-      "양당 선대위에 따르면 허 후보는 아침 일찍 봉하마을을 찾았다.",
-      "허 후보는 노무현 정부시절 청와대 행정관 등으로 근무한 바 있다."
-    ],
-    "chips": [
-      "#KBO",
       "#정치"
     ]
   },
   {
-    "id": "n824e6879",
+    "id": "nc3958ee1",
     "category": "사회",
     "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://www.asiae.co.kr/article/2026052316351975305",
-    "title": "해남서 초당대 경비행기 추락…교관·학생 2명 중상",
+    "time": "10분 전",
+    "url": "https://www.asiae.co.kr/article/2026052317291026771",
+    "title": "해남서 교육용 경비행기 추락…교관·교육생 2명 중상(종합)",
     "summary": [
-      "23일 오후 3시 10분께 전남 해남군 문내면 인근 임야에서 경비행기가 추락했다.",
-      "이 사고로 경비행기에 탑승 중인 초당대학교 교관(20대)과 학생(20대)이 중상을 입어 인근 병원으로 옮겨졌다.",
-      "당국은 정확한 사고 경위 등을 조사 중이다."
+      "전남 해남 상공을 날던 교육용 경비행기가 추락해 교관과 교육생 등 2명이 다쳤다.",
+      "23일 전남소방본부 등에 따르면 이날 오후 3시 10분께 전남 해남군 문내면 석교리 인근 임야에 경비행기(DA40NG)가 추락했다.",
+      "이 사고로 경비행기에 탑승 중이던 교육생 20대 A씨와 교관 20대 B씨가 중상을 입어 소방당국에 의해 병원으로 옮겨졌다."
     ],
     "chips": [
       "#교육",
@@ -580,67 +504,141 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfc106eb2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://www.asiae.co.kr/article/2026052316262152516",
-    "title": "샤이니 故 종현이 그린 데프콘 초상화…중고 플랫폼에 120만원 매물",
-    "summary": [
-      "그룹 샤이니의 고(故) 종현이 직접 그린 그림이 중고 거래 플랫폼에 올라와 눈길을 끌고 있다.",
-      "23일 중고거래 플랫폼 당근에는 종현이 방송인 데프콘을 그린 초상화를 판매한다는 글이 게시됐다.",
-      "해당 그림은 2012년 방송된 주간 아이돌에서 종현이 직접 그린 작품으로, 판매가는 120만원이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n392f41c9",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://www.asiae.co.kr/article/2026052316311968708",
-    "title": "호르무즈 봉쇄 후 5척째 韓 유조선 홍해 통과…원유 국내 수송",
-    "summary": [
-      "중동 전쟁으로 호르무즈 해협이 봉쇄된 이후 다섯 번째 한국 선박이 우회 항로인 홍해를 거쳐 국내로 원유를 운송하게 됐다.",
-      "해양수산부는 23일 오후 4시 기준 다섯 번째 우리 선박이 홍해를 안전하게 통과해 국내로 원유를 수송하고 있다고 밝혔다.",
-      "우리 유조선의 홍해 통과는 지난달 중순 처음 이뤄졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc44d39dd",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/05/23/G5SDQY3EGAYGKMBVMI3TCZBYGM/",
-    "title": "李 “아파트 관리비 과다 징수는 불법”",
-    "summary": [
-      "이재명 대통령은 “아파트든 오피스텔이나 상가든 공동사용 건물에 대한 관리비 과다 징수는 이제 불법”이라고 밝혔다.",
-      "23일 이 대통령은 소셜미디어(SNS)에 국토교통부가 지난 21일 발표한 공동주택 관리비 제도개선 방안을 다룬 언론 기사를 소개하며 이같이 썼다.",
-      "이 대통령은 “누구든지 관리비 내역을 요구할 권리가 있다”며 “이제부터 대한민국에서는 모든 비정상."
-    ],
-    "chips": [
-      "#부동산",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nef929ed2",
+    "id": "ndabb6002",
     "category": "사회",
     "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://www.asiae.co.kr/article/2026052316285161267",
-    "title": "박근혜 선거판 등장에 반격나선 김부겸 캠프…\"보수결집하면 대구경제 살아나나\"",
+    "time": "14분 전",
+    "url": "https://www.asiae.co.kr/article/2026052317244422782",
+    "title": "\"美, 며칠 내 군사행동 재개 가능성…이스라엘 당국 대비 태세\"",
     "summary": [
-      "김부겸 더불어민주당 대구시장 측은 23일 박근혜 전 대통령이 추경호 국민의힘 대구시장 후보 지원 유세에 함께한 것과 관련해 \"보수가 결집을 하면 대구 경제가 다시 살아난다고 보냐\"고 되물었다.",
-      "백수범 캠프 대변인은 이날 입장문을 통해 \"무엇보다 박 전 대통령의 추경호 후보 지원은 추경호 후보 위기의식의 발로를 반영한다고 본다\"며 \"추 후보의 지금까지 유일한 선거전략은 '보수 결집'인데 그것도 여의치 않아 박 전 대통."
+      "이스라엘이 향후 며칠 내로 미국이 이란에 대한 공격을 재개할 가능성에 대비하고 있는 것으로 파악됐다.",
+      "23일(현지시간) 이스라엘 N12 방송에 따르면 이스라엘 안보당국은 도널드 트럼프 미국 대통령이 조만간 군사행동에 나설 가능성과 관련해 미국 측과 긴밀하게 협조하고 있다.",
+      "이스라엘 당국은 미국과 이란이 종전 합의에 도달하지 못해 군사 옵션이 발동되는 상황을 예상하고 있으며, 이에 따라 이스라엘군은 며칠 내 공격에."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "ncdd7589c",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://www.asiae.co.kr/article/2026052317234918518",
+    "title": "6·3지방선거, 선거인 4465만명…50대 가장 많고 20대 가장 적어",
+    "summary": [
+      "행정안전부는 제9회 전국동시지방선거의 선거인이 4464만9908명이라고 23일 밝혔다.",
+      "행정부는 선거인명부 확정일인 22일을 기준으로 내국인은 4440만9225명, 재외국민은 8만9151명, 외국인은 15만1532명이라고 발표했다.",
+      "이번 선거인수는 4년전 지방선거보다 34만6459명, 1년전 지난 대선보다는 25만8037명이 늘었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n59aab82b",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://www.asiae.co.kr/article/2026052116435789708",
+    "title": "\"코인, 가지고만 있어선 안 된다\"…DAT 기업의 생존전략[주末머니]",
+    "summary": [
+      "디지털자산전략(DAT) 시장의 경쟁 양상이 단순 노출 경쟁에서 운용 경쟁으로 바뀌었다는 분석이 나왔다.",
+      "이에 따라 운용 성과 등 DAT 기업의 지속 가능성을 살펴야 한다는 지적이다.",
+      "DAT란 무엇이고, 어떻게 바뀌고 있나23일 삼성증권은 '가상자산 DAT 기업, 뭐가 가장 좋을까'라는 보고서에서 DAT 시장이 노출에서 운용으로 바뀌었다고 진단했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n011959c7",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523038851007",
+    "title": "'아시아 女클럽축구 챔피언' 북한 내고향, 인공기 펼치고 환호(종합)",
+    "summary": [
+      "(수원=연합뉴스) 배진남 오명언 기자 = 아시아 여자 클럽축구 최강자 자리에 오른 북한 내고향여자축구단(이하 내고향)은 우승이 확정된 순간 기쁨..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6aee29b7",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/23/2026052317185650350",
+    "title": "文, 이재명 대통령에 \"국민성장펀드, 나도 가입해보려 했는데…\"",
+    "summary": [
+      "[the300] 문재인 전 대통령이 경남 봉하마을에서 이재명 대통령을 만나 최근 주가 상승 등 경제 회복을 위한 노력에 대해 높이 평가했다.",
+      "안귀령 청와대 부대변인은 23일 서면브리핑을 통해 \"이재명 대통령과 김혜경 여사는 오늘 오후 경남 김해 봉하마을에서 엄수된 고 노무현 전 대통령 서거 17주기 추도식 참석에 앞서 권양숙 여사와 환담을 가졌다\"며 이같이 전했다.",
+      "이날 봉하마을에는 이 대통령 부부와 문재인 전 대통령 부부 등이 한 자리에 모였."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9c3a98fd",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/23/2026052317207257234",
+    "title": "'모자무싸' 김동욱 특별출연, 성동일과 살벌 기싸움",
+    "summary": [
+      "김동욱이 '모두가 자신의 무가치함과 싸우고 있다'에 특별출연한다.",
+      "23일 오후 방송될 JTBC 토일드라마 '모두가 자신의 무가치함과 싸우고 있다'(이하 '모자무싸') 11회에서 소문으로만 파다했던 그 '후배'로 김동욱이 출연한다.",
+      "본 방송에 앞서 공개된 스틸에서는 앞서 방송에서 소문이 파다했던 후배(김동욱 분)와 노강식(성동일 분)의 대치 순간이 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbbacb2d5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523040000061",
+    "title": "지방선거 공식운동 첫 주말…전국 격전지 '표심 몰이' 후끈",
+    "summary": [
+      "(전국종합=연합뉴스) 6·3 지방선거 공식 선거운동 첫 주말인 23일 전국 주요 격전지에선 여야 후보들이 전통 시장과 도심 상권, 지역 축제장 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0f4c61e5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/2026052355467",
+    "title": "\"성과급 '날아가네 마네' 한다더라\"…스타벅스 직원 '울분'",
+    "summary": [
+      "\"성과급 '날아가네 마네' 한다더라\"…스타벅스 직원 '울분'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na54392e8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260523/133980660/1",
+    "title": "대구 터미널 정차 버스 화물칸서 ‘대형 뱀’ 발견, 승객들 소동",
+    "summary": [
+      "대구의 한 고속버스터미널에 정차한 버스 화물칸에서 대형 뱀이 발견돼 소동을 빚었던 일이 뒤늦게 알려졌다.",
+      "23일 소방당국 등에 따르면 21일 오후 7시 10분경 동대구에서 출발해 서대구고속버스터미널에 임시 정차한 시외버스 화물칸에서 여행 가방을 둘러싸고 있던 대형 뱀이 발견됐다.이 뱀은 택배 상자 안에 있다가 밖으로 나온 것으로 알려졌다.",
+      "신고를 받고 출동한 소방은 뱀을 포획해 임시 보관 후, 대국 북구청에 인계했다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -649,13 +647,13 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "KBO",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
+    "tag": "정치",
     "mentions": "1810건",
     "trend": "+175%"
   },
