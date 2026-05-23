@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-23 15:22:49
+// 마지막 업데이트: 2026-05-23 16:18:59
 window.NEWS_DB = [
   {
     "id": "nd3cf3b1a",
@@ -105,6 +105,20 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n98221228",
+    "category": "경제",
+    "source": "한겨레",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bHllbG1kZmFXbmpVaHZZM3Z4cUV6enJmcUhzR1U0ckF4WUNpYlg5YlNPaXBsMzEzaEwyZW1YcVN1TnlxQTRET0hNU0pUdlhyb3QxMklYbXprVHl1LWlUV01qY0c5eTgyb3BwNGxmYUZJQQ?oc=5",
+    "title": "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감",
+    "summary": [
+      "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감 한겨레."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -226,20 +240,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8988be77",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "89일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -255,17 +255,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf7aebd8b",
-    "category": "경제",
-    "source": "스트레이트뉴스",
-    "time": "124일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
-    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
+    "id": "nb4e9ce67",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "114일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43c0lBUTduWFZhNkNKY1FuanUxLTl3UUZxVGVFaXI2YlZfLW9iOVRrdGtnaDNVRFE3YjZtMkRuSTV0Tkl3RlNOUlIxWWswYjgtS1lEeG5pZjh3U03SAWBBVV95cUxOaFRuVzFHS1ktaDl1MWpSd1YxT2tlcldST2dQQ3BUVk8yOXM5c21zRE81dWphNWJEVkJEMmlsN1lqSzRaeFp0N3kzUGtGa3V3Z0F5QXltVkRtdkt1YUVESnA?oc=5",
+    "title": "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집",
     "summary": [
-      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
+      "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집 연합뉴스."
     ],
     "chips": [
-      "#뉴스"
+      "#스타트업",
+      "#채용"
     ]
   },
   {
@@ -312,10 +313,146 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9d294ed8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/24/GNSDCYJXHA4WMNBZGQYDCMJUMY/",
+    "title": "\"우리가 타격 좋은 팀도 아니고\" 수비 그렇게 강조했는데 또…4연승 기세 실종, 이틀 연속 실책에 울었다 [오!쎈 대전]",
+    "summary": [
+      "[OSEN=대전, 조은혜 기자] 디테일이 무너진 프로야구 두산 베어스가 4연승 후 2연패에 빠졌다.김원형 감독이 이끄는 두산은 23일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 한화 이글스와의 경기에서 2-5로 패하며 2연패에 빠졌다.",
+      "주말 시리즈 전까지 4연승을 내달리며 5할 승률을 달성했던 두산은 한화에게 이틀 연속 승리를 내주며 시."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na271b4f0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524001300071",
+    "title": "트럼프 \"이란과 합의할지, 공습 재개할지 50대 50\"<美매체>",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 23일(현지시간) 이란과의 종전 합의가 급물살을 타고 있는 가운데 이란과 합의..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1be997f0",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/24/2026052321183237147",
+    "title": "'오버페이? 이런 효자 FA가 없다' 타율 1위도 코앞, '5월 타율 0.456' 최원준을 키운 건 믿음이었다",
+    "summary": [
+      "오버페이라는 평가가 나왔지만 최원준(29·KT 위즈)을 이를 비웃듯 커리어 최고의 활약을 펼치고 있다.",
+      "계약 후 더욱 빛나는 모범 자유계약선수(FA)로 거듭나고 있다.",
+      "최원준은 23일 수원 KT위즈파크에서 열린 NC 다이노스와 2026 신한 SOL KBO리그 홈경기에 1번 타자 우익수로 선발 출전해 5타수 4안타 1타점 2득점 맹타를 휘두르며 10-5 승리를 이끌었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nee0dfdb5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003640651",
+    "title": "부산과학관, 'N번째 과학' 특별강연 30일 개최",
+    "summary": [
+      "[부산=뉴시스] 이아름 기자 = 국립부산과학관은 오는 30일 양진주 과학 일러스트레이터를 초청해 'N번째 과학' 특별 강연을 개최한다.",
+      "이번 강연은 어린이와 청소년들이 과학과 예술의 융합 분야를 체험할 수 있도록 기획됐다.",
+      "연사로 나서는 양진주 과학 일러스트레이터는 과학 콘텐츠 제작사 '사이언스 노트' 대표이자 전(前) 국가 연구사업단 연구원이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb2ba6f84",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/24/MVRGGNJZMI2WIZBRG5QWKZRYMM/",
+    "title": "우주소녀 다영, 소속사 속이고 미국행..덕분에 인생 달라졌다 \"솔로 데뷔하게 돼\"(전참시)[종합]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 다영이 혼신의 노력으로 솔로 데뷔를 할 수 있었다고 밝혔다.23일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 이주연, 다영이 출연했다.본부장은 “다영이가 찾아와서 앨범을 못 내서 힘이 빠진다고 하더라.",
+      "부모님한테 가서 쉬겠다고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc53cc55c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524000900071",
+    "title": "미군 \"호르무즈서 對이란 해상봉쇄로 6주간 100척 회항시켜\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미군이 호르무즈 해협에서 이란을 겨냥한 해상 봉쇄를 통해 지금까지 100척을 회항시켰다고 23일(현지시간)..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb7a3dedd",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/24/E5J46PCMKRFAZM32E2QJU3MZ2E/",
+    "title": "美 “조만간 종전 합의 발표할 수도 있어”",
+    "summary": [
+      "마코 루비오 미국 국무장관은 23일(현지 시각) “이르면 오늘 이란과의 종전 협상 합의를 발표할 가능성이 있다”고 밝혔다.",
+      "로이터, AFP 통신 등 보도에 따르면 루비오 장관은 이날 취재진에게 “늦은 오늘이든, 내일이든, 며칠 뒤든 우리가 뭔가를 발표할 가능성이 있다”고 말했다.",
+      "앞서 루비오 장관은 지난 22일 취재진에게 종전 협상을 두고, “몇몇 좋은 신."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5851c58",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260523052151061",
+    "title": "하남 망월동 다가구주택서 불…1명 사망·3명 자력 대피(종합)",
+    "summary": [
+      "(하남=연합뉴스) 이영주 기자 = 23일 오후 10시 45분께 경기도 하남시 망월동 한 다가구주택 3층에서 불이 났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n247ba171",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "48분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003642163",
+    "title": "이현이, 두 아들 '학비 1000만원' 중대부초 보낸 이유…\"워킹맘이라\"",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 모델 겸 방송인 이현이가 두 아들을 사립초등학교에 보내는 이유를 밝혔다.",
+      "23일 유튜브 채널 '워킹맘이현이'에는 '사춘기 앞둔 아들 때문에 광광 울 뻔한 사연은?'이라는 제목의 영상이 공개됐다.",
+      "영상에서 이현이는 남편과 함께 육아와 교육에 관한 이야기를 나눴다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
     "id": "n2505bedf",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "51분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152107",
     "title": "경찰, 삼성전자 '고소·고발' 취하 불구 임직원 수사 지속...왜?",
     "summary": [
@@ -328,10 +465,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n7ae2029c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260523_0003642178",
+    "title": "美·이란, '휴전 60일 연장·핵 협상' 막판 조율…중동 긴장 완화 기대",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 미국과 이란 간 휴전을 60일 연장하고 이란 핵 프로그램 협상의 틀을 마련하기 위한 중재 협상이 막판 조율 단계에 들어섰다고 파이낸셜타임스(FT)가 23일(현지시간) 보도했다.",
+      "FT는 협상에 정통한 소식통을 인용해, 협상안에는 호르무즈 해협의 단계적 재개방과 함께 이란이 보유한 고농축 우라늄 재고를 희석하거나 제3국에 넘기는 방안을 논의한다는 내용이 포함됐다고 보도했다.",
+      "미국은 이란 항만 봉쇄를 완화하고 대이란 제."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n97050670",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1분 전",
+    "time": "57분 전",
     "url": "https://www.mt.co.kr/sports/2026/05/24/2026052318594995166",
     "title": "\"병살 못해 아쉬웠다\" 과연 염경엽이 인정한 LG 최고 강심장, 1사 만루 무실점 피칭에도 자책했다",
     "summary": [
@@ -347,7 +500,7 @@ window.NEWS_DB = [
     "id": "nced311c3",
     "category": "IT",
     "source": "테크M",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152106",
     "title": "[위클리 IT템] 오랜 시간 검증받은 브랜드, 기념작으로 정체성 다시 꺼냈다",
     "summary": [
@@ -363,7 +516,7 @@ window.NEWS_DB = [
     "id": "nb8fcaf9e",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/24/2026052313523235239",
     "title": "\"부서진 턱뼈에 티타늄 박았다\" 제이크 폴, 죽다 살아나고도 광기의 '복귀 선언'... \"뼈야 붙으면 그만, 상대 널렸다\" 도발",
     "summary": [
@@ -376,26 +529,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n18057ab4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/05/24/MVSDQYRZMJSGIOJYGEZGKYRUMQ/",
-    "title": "한국 비하했던 前 한화 투수 '또 유리몸' 깨졌다, 고우석 콜업 기회였는데…대체 왜 외면받았나",
-    "summary": [
-      "[OSEN=이상학 객원기자] KBO리그 한화 이글스에서 방출된 뒤 한국을 비하하는 메시지를 남겼던 투수 버치 스미스(36·디트로이트 타이거스)가 또 부상자 명단에 올랐다.",
-      "디트로이트 산하 트리플A 톨리도 머드헨스 소속 한국인 투수 고우석(27)에겐 콜업 기회였지만 다른 투수에게 밀렸다.",
-      "디트로이트는 지난 23일(이하 한국시간) 오른쪽 어깨 염증이 있는 우완."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n4b4bb30f",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/24/2026052323281076412",
     "title": "\"왜 이제 말해?\" 팬들은 기다렸는데, 경기 직전 슈퍼스타 갑자기 결장... WNBA, 소속팀에 강력 경고",
     "summary": [
@@ -408,52 +545,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n88c75fc3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/24/GNQTONDFHEZTCZDFME3DAMRZGY/",
-    "title": "'볼볼볼볼볼볼볼→S 46.8%' 투구폼 수정 거부했는데, 영점 잡기 아직인가...김서현 2군에서도 헤맨다 [오!쎈 퓨처스]",
-    "summary": [
-      "[OSEN=조형래 기자] 지금의 투구폼으로 제구를 잡아보겠다면서 2군으로 내려온 프로야구 한화 이글스 김서현의 영점이 다시 흔들렸다.김서현은 23일 서산에서 열린 퓨처스리그 LG트윈스와의 경기에 2-5로 뒤진 9회초 등판해 1이닝 동안 32개의 공을 던지며 2피안타 2볼넷 1사구 2탈삼진 2실점을 기록했다.김서현의 퓨처스리그 5번째 등판."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n46ccfc0b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524000200071",
-    "title": "美-이란 종전협상 급물살…美 \"일부 진전\", 이란 \"의견차 좁혀\"",
-    "summary": [
-      "(워싱턴 이스탄불=연합뉴스) 박성민 김동호 특파원 = 미국과 이란 사이의 종전 협상이 주말인 23일(현지시간) 합의를 향해 급물살을 타고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb4b7967f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523052500087",
-    "title": "우루과이서 첫 안락사 시행…대상은 69세 말기암 환자",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 우루과이에서 말기암 환자를 대상으로 처음으로 안락사(존엄사)가 시행됐다고 현지 일간 엘옵세르바도르와 A..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n4301fa1f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260523_0003641896",
     "title": "안은진, '10㎏ 감량' 비결은 낫토?…소박한 아침 식단 눈길",
     "summary": [
@@ -466,59 +561,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8ed945c3",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/24/2026052319524855346",
-    "title": "\"기자랑 말 안 해!\" 인터뷰 거절했다가 1억 6천 벌금+신인 지명권 박탈... '다혈질' NHL 감독 돌발 행동",
-    "summary": [
-      "북미아이스하키리그(NHL)에서 이례적인 중징계가 나왔다.",
-      "경기 후 기자회견에 불참한 감독에게 거액의 벌금이 부과됐다.",
-      "구단은 드래프트 지명권까지 박탈당했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09c96d6b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641154",
-    "title": "하지원도 꽂힌 '소이라떼'…우유 말고 '이것' 넣었더니 단백질 충전에 딱",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 배우 하지원이 저당 두유를 활용한 '소이라떼' 레시피를 선보이며 건강 관리 비결을 공유했다.",
-      "지난 21일 유튜브 채널 '26학번 지원이요'를 통해 저당 두유로 소이라떼를 만드는 모습을 공개했다.",
-      "하지원은 소이라떼를 맛본 뒤 \"우유로 만들었을 때보다 가볍고 고소하다\"라며 \"두유만이 가진 특유의 풍미가 있다\"고 평가했다."
-    ],
-    "chips": [
-      "#전기차",
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne1a81cd8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641142",
-    "title": "부기 고민된다면?…송지효가 소개한 녹차 활용법",
-    "summary": [
-      "[서울=뉴시스]김수빈 인턴 기자 = 배우 송지효(44)가 녹차를 활용한 '부기차' 레시피를 선보였다.",
-      "지난 21일 송지효는 자신의 유튜브 채널을 통해 '청담샵 막내 송지효 씨의 하루'라는 제목의 영상을 공개했다.",
-      "영상에서 송지효는 메이크업숍 일일 아르바이트에 도전했고, 개그우먼 송은이와 김숙은 손님으로 방문했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n10d92c07",
     "category": "사회",
     "source": "동아일보",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260524/133980949/1",
     "title": "부산 사상구서 자기 몸에 불 붙여 상대 협박한 50대 남성 검거",
     "summary": [
@@ -530,55 +576,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13363294",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5fb23685",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260524_0003642180",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-    "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n33f31175",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523051551108",
-    "title": "이란 \"美와 의견차 좁혀…종전 MOU 확정 위해 노력 중\"(종합)",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 미국과 이란이 종전안 협상과 관련해 의견차를 좁히고 있다고 에스마일 바가이 이란 외무부 대변인이 23일(..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nd24adec1",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.asiae.co.kr/article/2026052323311181962",
     "title": "체육회 4개 종목단체 복싱·축구·당구·에어로빅힙합, 주광덕 후보 지지 선언",
     "summary": [
@@ -606,29 +607,29 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1ae3f0b7",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/05/23/KMGZCQYXAFDOZGJUEXJCTZKH2E/",
-    "title": "李대통령, 스타벅스 또 직격 “4·16에 사이렌 이벤트, 패륜행위”",
-    "summary": [
-      "李대통령, 스타벅스 또 직격 “4·16에 사이렌 이벤트, 패륜행위”."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n62c585ee",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260523/133980917/1",
     "title": "이란 혁명수비대 “하루 새 선박 25척 호르무즈 통과”",
     "summary": [
       "이란 혁명수비대(IRGC) 해군이 지난 24시간 동안 유조선과 컨테이너선 등 상선 25척이 자국의 승인과 보호 아래 호르무즈 해협을 통과했다고 밝혔다.23일(현지 시간) 이란 관영 IRNA 통신에 따르면 IRGC 해군은 성명을 통해 해당 선박들이 혁명수비대의 조율과 경비 지원 속에 전략 요충지인 호르무즈 해협을 안전하게 지났다고 설명했다.",
       "IRGC 해군은 “미국 테러리스트 군대의 공격 행위로 해협 내 불안정한 상황이 이어지고 있다”면서도 “호르."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb409a29b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2시간 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260523/133980914/1",
+    "title": "‘흑백요리사’ 성우 남도형, 오늘 비연예인 연인과 결혼",
+    "summary": [
+      "넷플릭스 ‘흑백요리사’ 시리즈로 알려진 성우 남도형(43)이 결혼했다.남도형은 23일 서울 종로구의 한 웨딩홀에서 비연예인 여성과 결혼식을 올렸다.신부는 지난해 MBC ‘전지적 참견 시점’에 함께 출연했던 매니저로 알려졌다.결혼식은 양가 부모님과 지인들만 참석한 가운데 비공개로 진행됐다.가수 임영웅을 비롯해 방송인 박경림, 유튜버 침착맨, 정지선 셰프 등이 참석해 두 사람을 축하했다.축가는 가수 테이가 불렀다.남도형은 KBS 성우극회 32기 출."
     ],
     "chips": [
       "#뉴스"
