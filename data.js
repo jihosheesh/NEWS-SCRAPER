@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-24 18:18:46
+// 마지막 업데이트: 2026-05-24 19:28:32
 window.NEWS_DB = [
   {
     "id": "nbd4d057c",
     "category": "IT",
     "source": "더퍼블릭",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YWUNrdU1JQmM2Z25uQXFDR1BvYzB6dG5NcG4xVFRsMGt4Q0dOQTFEM244dzJBRXhOSzVHUnRyeUhIcjd5TDk4WkpvcTg2cHdqd1N5dF9rVVVkT3h1ZUNtc1JDcXpLZkloZzRv0gFvQVVfeXFMUGlWelYyb2o4aUU0RDBYbG9QNkZEVzNCWWh1Y05ERkV2Q2ZDejVQNndBaGw2SVRuU25fSndIdlBNYUNzR2tFWC1YZ2syOUtIbTl3M3lTUUN1Nm9tbTJIVlFfZVpGQk5OVm9kMWNFZDdz?oc=5",
     "title": "한국청년회의소, ‘JCI 스케일업 펀드 1호’ 결성…벤처·유니콘 육성 나선다",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n160de6c8",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EY0t2ZTdqbkNqc0J0NGxKWlZYX1ZlYy1MN2tzYkEzTnJwd0dIUExYNGdaTnlqZ3dJYk9jekxOTDk2VzNpLXBoTlVQV2o5ZjZfOXFCeENaOTF2cGPSAWBBVV95cUxNbmhHb05yRUE4NG4wOFJfWGxkVTUwekNhWUZRNVBNSk93VGtiMi1yUk1BbFloSkhkN1htZkVDSFM2M1psb04zVVNhVFhVSzV3VlJBNy1OcVhlbW5OemRNeXM?oc=5",
     "title": "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동",
     "summary": [
@@ -91,20 +91,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7c07ac59",
-    "category": "IT",
-    "source": "매일경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iT2xvNW1EMkJpbmhBekJfMmp6RVJCVXM0RDN3by1tWDUweDJwR3dPbWo4NnNzNjRLelU5dHpSM0UxN2VQcHNISnlmUm83ZENubk5TeGln?oc=5",
-    "title": "“지난 1년 400% vs 800%”…앞으로 1년, 삼전·하이닉스 하나만 산다면",
-    "summary": [
-      "“지난 1년 400% vs 800%”…앞으로 1년, 삼전·하이닉스 하나만 산다면 매일경제."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nc92d59ae",
     "category": "IT",
     "source": "경기일보",
@@ -151,6 +137,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0af1fba5",
+    "category": "경제",
+    "source": "KB Think",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84VTZyUTVMWDF4LTE0UEN1TU4tUTVVSGVDQy00cnl1N1pmNHV4RVRZUVU1T2ZPNFBSNmNKN2NwOGZrUGRfdUdZcUZZbGlaNURTZW9DdENMTnJsM2FXZU5vMEotOEhBOGU3N1h1V1B2Yi14Zw?oc=5",
+    "title": "하나證 \"한은, 하반기 매파 스탠스로 환율 하락 유도할 것\"",
+    "summary": [
+      "하나證 \"한은, 하반기 매파 스탠스로 환율 하락 유도할 것\" KB Think."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "n2970703c",
     "category": "IT",
     "source": "글로벌이코노믹",
@@ -181,6 +181,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na3d37f8f",
+    "category": "IT",
+    "source": "지디넷코리아",
+    "time": "74일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVJIdW42c2NuWTBtVDhMWEZjT2ttdWRBNmhraDlsOG1DR3JpajNrY0RfSkhVSjduUEpRWFBpUUhtOWN3eXIxZjZmM01odVR6TGpoNmhn?oc=5",
+    "title": "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략",
+    "summary": [
+      "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략 지디넷코리아."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
@@ -192,20 +206,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n15f5f447",
-    "category": "경제",
-    "source": "지디넷코리아",
-    "time": "81일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVmVCNFpXOXBFYktDaVdfaW5iM053RWRadkZOaUJGaFJLTE83bDFuXzBGcl9UbmIyMzdvYWp6TktPRWxCQUF3bHRQVk1qYnhhM2F5S1F3?oc=5",
-    "title": "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치",
-    "summary": [
-      "중동발 악재에 코스피·환율 '출렁'…원·달러 3개월만에 최고치 지디넷코리아."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -310,10 +310,119 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n60e0e597",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525001400099",
+    "title": "나이지리아 한국문화원, 백범 김구 탄생 150주년 행사",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 주나이지리아 한국문화원(원장 전주호)이 올해 백범 김구 탄생 150주년을 맞아 기념행사를 열었다고 2..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n780bd1cf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260524_0003642542",
+    "title": "대구·경북 구름 많고 한때 빗방울…낮 최고 29도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 월요일인 25일 대구와 경상북도는 맑다가 아침부터 구름이 많아질 것으로 예상된다.",
+      "대구지방기상청은 이날 \"오전부터 오후까지 대구와 경북남부 일부 지역에 0.1㎜ 미만의 빗방울이 떨어지겠다\"고 예보했다.",
+      "아침 최저기온은 12~16도(평년 9~16도), 낮 최고기온은 23~29도(평년 22~28도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n048cc28a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/25/2026052503024652449",
+    "title": "허경환, 박성광 향한 서운함 폭로 \"내가 쟤를 어떻게 믿냐\" 분노까지",
+    "summary": [
+      "'마흔파이브' 재결합을 앞두고 허경환과 박성광 사이의 오래된 앙금이 터져 나왔다.",
+      "24일 방영된 SBS '미운 우리 새끼' 496회에서는 박성광이 허경환, 박영진, 김지호와 만난 가운데 허경환이 과거 박성광의 느린 답변과 무성의한 태도에 서운함을 드러내며 흔들린 우정을 고백했다.",
+      "이날 박영진은 \"우리는 마흔파이브로 데뷔했는데 3년은 박성광 때문에 못 했고, 또 2년은 허경환 때문에 못 했다\"며 두 사람을 향한 서운함을 꺼냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncadea458",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/25/MVQTIYJTGFSDCYLCGUZWIMTBGQ/",
+    "title": "\"진심으로 사과드립니다!\" '韓 U-23 대표팀 주포' 이영준, 거친 태클→레드카드 OUT '결국 고개 숙였다'",
+    "summary": [
+      "[스포츠조선 김가을 기자]이영준(그라스호퍼 클럽 취리히)이 결국 고개를 숙였다.",
+      "이영준은 23일(이하 한국시각) 개인 SNS(소셜네트워크서비스)를 통해 독일어로 '나의 독일어는 아직 완벽하지 않다.",
+      "하지만 시도해 보고 싶었다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb7218ab0",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "34분 전",
+    "url": "https://www.asiae.co.kr/article/2026052503540048573",
+    "title": "트럼프 \"미국 대표들에게 합의 서두르지 말라고 지시\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 24일(현지시간) 이란과 종전 협상을 진행 중인 미국 대표들에게 \"서둘러 합의에 도달하지 말라고 지시했다\"고 밝혔다.",
+      "트럼프 대통령은 이날 트루스소셜에 \"(이란과의) 협상은 질서 있고 건설적인 방식으로 진행되고 있다\"며 이같이 말했다.",
+      "트럼프 대통령은 \"시간이 우리 편이니, 거래를 서두르지 말라고 지시했다\"며 \"합의에 도달하고, 검증되고, 서명될 때까지 (호르무즈 해협) 봉쇄 조치는 전면적."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfafad9b0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20260525_0003642653",
+    "title": "\"마크롱, 벨라루스 대통령에 우크라 전쟁 휘말리지 말 것 경고\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 에마뉘엘 마크롱 프랑스 대통령과 알렉산드르 루카셴코 벨라루스 대통령이 24일(현지 시간) 통화를 가지고 유럽연합(EU) 등에 대해 논의했다.",
+      "RBC우크라이나, 우크라인스카프라우다 등에 따르면 양국 정상은 이날 전화 통화를 가지고 역내 현안, EU 및 양국 관계 등에 대해 협의했다.",
+      "특히 AFP통신은 마크롱 대통령이 루카셴코 대통령에게 러시아의 우크라이나 전쟁에 더 깊이 휘말리지 말라고 경고했다고 프랑스 대통령실."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2804b619",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "53분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/25/MFQTSYTDGFSGIYRVGEYWKYJRGI/",
+    "title": "\"앙리도, 덕배도 넘었다!\" '맨유 미친 머신' 브페, EPL 최종전 21AS 결국 성공! EPL 역대 최다도움 신기록!",
+    "summary": [
+      "브루노 페르난데스, 프리미어리그 단일 시즌 '21도움' 역사상 최다 신기록 달성 '맨유 캡틴' 브루노 페르난데스가 잉글랜드 프리미어리그(EPL) 최종전에서 역대 리그 단일 시즌 최다도움 신기록을 경신했다.",
+      "페르난데스는 25일 자정 EPL 최종 38라운드 브라이턴 원정 33분 코너킥 찬스에서 날선 킥으로 파트릭 도르구의 골을 도우며 기어이 대기록 달성에 성공."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
     "id": "n83c1e158",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "54분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152113",
     "title": "[e스포츠人] \"이영호 이기고 우승? 꿈만 같다\"...목숨 걸고 준비한 박상현의 진심",
     "summary": [
@@ -325,10 +434,54 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc1e31ca0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525001300071",
+    "title": "美당국자 \"호르무즈 개방·이란 농축 우라늄 폐기 원칙적 합의\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미국과 이란이 호르무즈 해협을 개방하고 이란이 보유한 고농축 우라늄을 폐기하는 데 원칙적으로 합의했다고 뉴..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc97c682a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525001200099",
+    "title": "'원정응원 난동' 세네갈 축구팬들, 사면받고 넉달만에 귀국",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 올해 1월 모로코에서 열린 아프리카 네이션스컵(AFCON) 결승전 경기장에서 난동을 부려 구속 수감됐..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na66845e9",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "55분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/25/2026052300190812901",
+    "title": "KBO 현역 팔로워 1위는 27만 거느린 '슈퍼스타' 김도영→류현진·구자욱·문동주 모두 제쳤다! 통합 1위는 이정후 [특집]",
+    "summary": [
+      "KBO 리그의 폭발적인 흥행 속에 그라운드를 누비는 현역 선수들의 인스타그램 팔로워 경쟁도 불을 뿜고 있다.",
+      "25일 현재 KBO 리그 현역 선수 가운데 인스타그램 팔로워 '대장'은 단연 KIA 타이거즈 내야수 김도영(23)과 한화 이글스 '몬스터' 류현진(39)의 2강 체제다.",
+      "주로 리그 최고의 인기 스타들인 젊은 선수들의 화력이 대선배들을 위협하는 모양새다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n1a56c633",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152112",
     "title": "[ASL 통신] \"저그 천하는 계속된다\"...박상현, '왕의 귀환' 막고 2연패 '대기록'",
     "summary": [
@@ -341,10 +494,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb93dc69d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/25/HBSGENLDGU4DQMRTMZTGIZTBGY/",
+    "title": "'승점 2점차, 데 제르비 매직' 팔리냐 결승골 폭발! 17위 토트넘 1부 생존, 에버턴 1-0 제압..18위 웨스트햄 2부 추락",
+    "summary": [
+      "[스포츠조선 노주환 기자]토트넘이 최종전에서 극적으로 프리미어리그에 잔류했다.",
+      "지난 4월 1일 토트넘 지휘봉을 잡은 '소방수' 로베르토 데 제르비 감독이 팀을 강등 위기에서 구해냈다.",
+      "반면 웨스트햄은 2부로 강등됐다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n26260442",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525001100009",
+    "title": "'축구의 신' 메시, '냅킨 계약' 소년에서 1조5천억원 갑부로",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = '축구의 신' 리오넬 메시(인터 마이애미)가 선수 연봉과 광고 수입을 넘어 투자·지분 참여 등으로..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nd73e9bb0",
     "category": "경제",
     "source": "머니투데이",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/entertainment/2026/05/25/2026052502572739712",
     "title": "김지호 \"박성광, 스타 소속사 가더니 스타병\"…동기들 갈등 폭로",
     "summary": [
@@ -357,56 +540,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncba5ad8b",
+    "id": "n52ce4a44",
     "category": "사회",
     "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/05/25/HKEHSID6M5ELFJ2LPFD2YR4YB4/",
-    "title": "지옥철 9호선에서 배운 리더십: 밀어붙이지 말고 흐름을 설계하라",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/education/2026/05/25/7F2J27JVXNDZTFQKIGCJSLSAUI/",
+    "title": "“아니, 근데요”를 “No, but…”이라고 했다가는…",
     "summary": [
-      "지옥철 9호선에서 배운 리더십: 밀어붙이지 말고 흐름을 설계하라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2bde1717",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/05/24/WMI4SIEVV5FUHGJMNKVKFHXUX4/",
-    "title": "유비·관우·장비의 화려한 데뷔전, 대흥산 기슭의 혈투",
-    "summary": [
-      "유비·관우·장비의 화려한 데뷔전, 대흥산 기슭의 혈투."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd42eb3c3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/05/25/SWADI2W6FVFSJNNGWC6HWT2B7I/",
-    "title": "나치·소련과 타협하지 않은 쿠벨리크…미국에서 ‘신세계’ 발견",
-    "summary": [
-      "나치·소련과 타협하지 않은 쿠벨리크…미국에서 ‘신세계’ 발견."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n58008f3e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/05/25/JU2ZROE27ZHFPPTOF5CHZLLBLA/",
-    "title": "통증은 발바닥에서 시작된다… 발바닥 코어 살리는 운동",
-    "summary": [
-      "통증은 발바닥에서 시작된다… 발바닥 코어 살리는 운동."
+      "“아니, 근데요”를 “No, but…”이라고 했다가는…."
     ],
     "chips": [
       "#뉴스"
@@ -416,7 +557,7 @@ window.NEWS_DB = [
     "id": "n96d9f35c",
     "category": "사회",
     "source": "뉴시스",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260525_0003642651",
     "title": "이란, 오만과 호르무즈 해협의 '자유 항행' 재개 논의",
     "summary": [
@@ -432,7 +573,7 @@ window.NEWS_DB = [
     "id": "n5c178036",
     "category": "부동산",
     "source": "동아일보",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260525/133984657/1",
     "title": "백악관, 이란 전쟁 끝나면 “1~2개월 내 전세계 정유시설, 원유 확보”",
     "summary": [
@@ -448,7 +589,7 @@ window.NEWS_DB = [
     "id": "n18e5140f",
     "category": "경제",
     "source": "머니투데이",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/entertainment/2026/05/25/2026052501252540631",
     "title": "\"나 때문에 망했다\" 박성광, 22기 '마흔파이브' 동기들 앞 사과",
     "summary": [
@@ -461,70 +602,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2747fd4f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525000900071",
-    "title": "美국방, 육사졸업식서 \"여러분들 손 묶지않겠다\" 현장 재량 강조",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 피트 헤그세스 미 국방부(전쟁부) 장관은 23일(현지시간) 미 육군 사관학교(웨스트포인트) 졸업식에서 전투..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ndf683103",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525000800091",
-    "title": "\"99년식 시빅 타다가 테슬라 산듯\"…캐나다 해군, 韓잠수함 호평",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = \"1999년식 혼다 시빅을 몰다가 신형 테슬라를 사는 것과 같습니다.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd7eaa126",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/25/2026052500431990531",
-    "title": "우와 '꽃미남' 스모 선수 등장에 \"모델 해라\" 팬들 들썩... 188cm·105kg '8등신' 완벽 비율에 \"완전 아이돌\"",
-    "summary": [
-      "일본 스모판에 모델 같은 비율과 외모를 자랑하는 188cm '꽃미남' 선수가 등장해 화제다.",
-      "일본 '아베마 타임스'는 24일 \"도쿄 료고쿠 국기관에서 열린 오즈모 5월 대회 마지막 날 늘씬한 체구의 스모 선수가 도효(스모판)에 올라 팬들의 뜨거운 시선을 받았다\"고 전했다.",
-      "화제의 주인공은 조니단(스모 6개 계급 중 하위 2번째) 서열 41번째 라이하야테다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n983e239c",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/25/2026052420395577462",
-    "title": "'3000억 벌고 복귀전' 맥그리거 '퇴물 논란', 45세 김동현과 스파링→\"너무 엉성한데...\" 굴욕 비판 세례 '우수수'",
-    "summary": [
-      "UFC 최고의 악동 코너 맥그리거(37·아일랜드)의 5년 만의 옥타곤 복귀전이 마침내 공식 확정됐다.",
-      "하지만 복귀 기쁨도 잠시, 최근 유출된 훈련 영상 속 처참한 경기력에 격투기 팬들의 냉소와 비난이 쏟아지고 있다.",
-      "영국 매체 '더 선'은 24(한국시간) \"UFC 복귀전을 앞둔 맥그리거의 스파링 영상이 온라인에 유출된 후 격투기 팬들로부터 잔혹한 조롱을 받고 있다\"고 조명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8857c2aa",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260525/133983979/2",
     "title": "서로 다른 언어로 하나의 이야기… 아비뇽에 울릴 ‘작별하지 않는다’",
     "summary": [
@@ -540,7 +621,7 @@ window.NEWS_DB = [
     "id": "naf3c3632",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260525/133983975/2",
     "title": "‘잡음’을 재료삼아, 진동으로 존재 연결",
     "summary": [
@@ -551,84 +632,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n994b29c0",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260525/133983973/2",
-    "title": "루마니아 문지우 감독, ‘피오르’로 생애 두 번째 황금종려상",
-    "summary": [
-      "제79회 칸 국제영화제에서 크리스티안 문지우 감독(루마니아)의 영화 ‘피오르’가 황금종려상을 받았다.",
-      "문지우 감독은 2007년 영화 ‘4개월, 2주, 그리고 2일’로 황금종려상을 받은 뒤 감독상, 각본상 등 칸에서만 4번째 수상이다.",
-      "23일(현지 시간) 프랑스 칸의 뤼미에르 대극장에서 열린 폐막식에서 ‘피오르’는 최고상인 황금종려상 수상작으로 호명됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc6738990",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152111",
-    "title": "외국인에 3040 남성까지...ASL 결승, 킨텍스서 콘텐츠 저력 입증",
-    "summary": [
-      "SOOP이 개최하는 '구글 플레이 ASL 시즌21' 대망의 결승전 현장이 몰려든 스타크래프트 팬들로 인산인해를 이뤘습니다.24일 오후 일산 킨텍스 '2026 플레이엑스포' 특설 무대에서 열린 이번 결승전은 공식 좌석에 앉지 못해 무대 뒤편과 통로까지 겹겹이 늘어선 팬들로 발 디딜 틈이 없어 눈길을 끌었습니다.현장 등록을 통해서라도 역사적인 매치를 눈에 담으려는 인파가 대거 몰리면서, 미처 입장하지 못한 수많은 팬이 스탠딩으로라도 경기를 관람하는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3ce29472",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525000600072",
-    "title": "\"이란 더 대담해질 것…\" 협상타결 임박에도 이·걸프국은 불안",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미·이란 간 종전을 위한 양해각서(MOU) 체결이 막바지 단계에 이르고 있는 가운데 이스라엘과 걸프 지역 아..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbe2474f7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641593",
-    "title": "제약사 특성살린 사회공헌…\"상생으로 돌아온다\"[같이의 가치]",
-    "summary": [
-      "[서울=뉴시스]송연주 기자 = 전문 강사로부터 저당·고단백 중심 레시피 교육을 받은 한미사이언스 직원들이 '건강도시락'을 만들어, 아동복지시설(명진들꽃사랑마을)에 전달했다.",
-      "제약바이오 기업 한미사이언스가 임직원 참여형 사회공헌 캠페인 'Hanmi Health&Hope'을 새롭게 기획해, 건강한 생활문화 확산에 나섰다.",
-      "이번 건강도시락 만들기는 Hanmi Health&Hope의 첫 프로그램이다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "na3a001e3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260525_0003642648",
-    "title": "네타냐후 \"이란, 핵무기 보유하지 못할 것\"(종합)",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 베냐민 네타냐후 이스라엘 총리는 24일(현지 시간) \"이란은 결코 핵무기를 보유하지 못할 것\"이라고 밝혔다.",
-      "CNN 등에 따르면 그는 이날 소셜미디어 엑스(X)를 통해 \"도널드 트럼프 미국 대통령과 마찬가지로 나의 정책도 변함없다\"며 이같이 말했다.",
-      "그는 \"나는 어젯밤 도널드 트럼프 대통령과 호르무즈 해협 재개방을 위한 양해각서와 이란 핵 프로그램에 대한 최종 합의를 향한 향후 협상에 대해 통화\"했다고 설명했다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
   }
 ];
 
@@ -637,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "엔비디아",
     "mentions": "1420건",
     "trend": "+115%"
   }
