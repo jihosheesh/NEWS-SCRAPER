@@ -1,6 +1,20 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-23 23:17:35
+// 마지막 업데이트: 2026-05-24 00:25:51
 window.NEWS_DB = [
+  {
+    "id": "nbd4d057c",
+    "category": "IT",
+    "source": "더퍼블릭",
+    "time": "47분 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YWUNrdU1JQmM2Z25uQXFDR1BvYzB6dG5NcG4xVFRsMGt4Q0dOQTFEM244dzJBRXhOSzVHUnRyeUhIcjd5TDk4WkpvcTg2cHdqd1N5dF9rVVVkT3h1ZUNtc1JDcXpLZkloZzRv0gFvQVVfeXFMUGlWelYyb2o4aUU0RDBYbG9QNkZEVzNCWWh1Y05ERkV2Q2ZDejVQNndBaGw2SVRuU25fSndIdlBNYUNzR2tFWC1YZ2syOUtIbTl3M3lTUUN1Nm9tbTJIVlFfZVpGQk5OVm9kMWNFZDdz?oc=5",
+    "title": "한국청년회의소, ‘JCI 스케일업 펀드 1호’ 결성…벤처·유니콘 육성 나선다",
+    "summary": [
+      "한국청년회의소, ‘JCI 스케일업 펀드 1호’ 결성…벤처·유니콘 육성 나선다 더퍼블릭."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
   {
     "id": "nd3cf3b1a",
     "category": "IT",
@@ -108,6 +122,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n98221228",
+    "category": "경제",
+    "source": "한겨레",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bHllbG1kZmFXbmpVaHZZM3Z4cUV6enJmcUhzR1U0ckF4WUNpYlg5YlNPaXBsMzEzaEwyZW1YcVN1TnlxQTRET0hNU0pUdlhyb3QxMklYbXprVHl1LWlUV01qY0c5eTgyb3BwNGxmYUZJQQ?oc=5",
+    "title": "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감",
+    "summary": [
+      "원-달러 10원 뛰고, 코스피 3900 넘었다가 1% 하락 마감 한겨레."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -139,45 +167,20 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef4b12c1",
-    "category": "경제",
-    "source": "이데일리",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzdSZFFxUnJRaDU0aF9yN1oyMUVlWDlqQ0ROLXR3UFktYmp5Zm0xVHBoaHZOcXNzeFMxeHpyRG9mLVF3ay1rMVVyTm9jY29XNkt5aTBsUTF0R1ZHTS1uQlpQRjZiSDBVbkM4dW92WTZaejNoLU9CbWdvZURZd3JVcw?oc=5",
-    "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
+    "id": "nfde594d3",
+    "category": "사회",
+    "source": "네이버 프리미엄콘텐츠",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV24zQjliQUJfa1l1Qlk5S001RWltWDRFMEt2cXItbGlPM1BzNnRfU1BNU1V0YlJJMFJ4WUI5ZDRodGk5aHRhMk11UVpHaWx2Uk1ycWhFbXR5cnlPZERaeVcyOFV1MG5Idlh4VUtvc25Tb3ZiTU96eTd3SEYzOWNEWFoxTk1HUko4Ylk5RzZn?oc=5",
+    "title": "안양 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
     "summary": [
-      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리."
+      "안양 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기 네이버 프리미엄콘텐츠."
     ],
     "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n64476ff1",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "34일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
-    "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "52일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
+      "#네이버",
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -192,20 +195,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "ncbcb6c77",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "76일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -237,22 +226,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "94일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -265,6 +238,20 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
+    ]
+  },
+  {
+    "id": "n4e2059ec",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "143일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NVk92cFNiSmFqeng3OXVyRXdJMHBnelI0VktCRUxrWXR3QjVvUzFzengxb21Zb1M0SHRpRDA4LVpTSWR5SGd4Q3k1U08zdlVQREdIdWRoWVlNNFgz?oc=5",
+    "title": "[2025 스포츠 10대 뉴스] 프로야구 1200만 관중, 김연경 '라스트 댄스'",
+    "summary": [
+      "[2025 스포츠 10대 뉴스] 프로야구 1200만 관중, 김연경 '라스트 댄스' 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -311,322 +298,337 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0c2c0c99",
+    "id": "n0ba94947",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/24/2026052408074592460",
-    "title": "北, '내고향' 축구단 아시아 여자클럽축구 승리 보도…\"인민에 고무적 힘\"",
+    "source": "이투데이",
+    "time": "280일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeFVaZ2NxaEJNU3lfakx0VkJhbU5ZbWs4UWl0QU5TaDhZVlFCUGlfVE9jWXNlSGxQSE1ZVGJfLWwtaDhYbWV1a004UmNqN3N2T0t3cA?oc=5",
+    "title": "'2025 KBO 프로야구' 오늘(16일)의 경기 일정",
     "summary": [
-      "북한이 아시아축구연맹(AFC) 여자챔피언스리그(AWCL) 결승전에서 북한 팀인 '내고향여자축구단'(이하 내고향팀)이 우승했다고 24일 밝혔다.",
-      "뉴스1에 따르면 이날 북한 노동당 기관지 노동신문은 \"내고향팀이 2025~2026년 아시아축구연맹 여자선수권보유자연맹전에서 1위를 하고 영예의 우승컵을 들어올렸다\"고 보도했다.",
-      "내고향팀은 지난 23일 수원종합운동장에서 진행된 AFC AWCL 결승전에서 도쿄 베르디를 1:0으로 꺾고 우승을 차지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ae55917",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260524_0003642215",
-    "title": "[속보] 우크라이나 키이우에서 폭발음 여러 차례 들려",
-    "summary": [
-      "[서울=뉴시스] 차미례 기자 = 우크라이나의 수도 키이우 시내에서 일요일인 24일 새벽(현지시간)에 여러 차례의 폭발음이 들렸다고 신화통신 등 외신들이 보도했다.",
-      "◎공감언론 뉴시스 cmr@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2ba9583e",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/24/2026052408102522236",
-    "title": "[속보] 백악관 인근서 총성…CNN \"2명 부상\"",
-    "summary": [
-      "23일(현지시간) CNN에 따르면 미국 워싱턴DC 백악관 인근에서 총격 사건이 발생해 2명이 다쳤다...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2458d6d",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/24/2026052408013520726",
-    "title": "트럼프 \"호르무즈 다시 개방\"… 이란 매체 \"해협 통제권, 우리가 관리\"",
-    "summary": [
-      "[미국-이란 전쟁]이란 혁명수비대 연계 매체 \"호르무즈, 이란이 관리\" 도널드 트럼프 미국 대통령이 이란과의 종전 협상이 진전이 있었다며 호르무즈 해협이 다시 개방될 것이라고 밝힌 가운데 이란 측은 호르무즈 해협 통제권이 이란에 의해 관리될 것이라고 주장했다.",
-      "트럼프 대통령은 23일(현지시간) SNS(소셜미디어) 트루스소셜을 통해 종전 협상 중재 역할을 자처한 파키스탄을 비롯해 사우디아라비아, 아랍에미리트(UAE), 카타르, 바레인, 요르단,."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n51815663",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/culture-life/k-culture/2026/05/24/U3OBH25NLZEHDGAWME2HZ7KNXI/",
-    "title": "졸리 딸 샤일로, 다영 뮤비에 댄서로 등장…“母 후광 원치 않아”",
-    "summary": [
-      "졸리 딸 샤일로, 다영 뮤비에 댄서로 등장…“母 후광 원치 않아”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc329013c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260524_0003642206",
-    "title": "이란대통령 \"국익보호 최선..못믿을 미 협상에 '최고 경계' 유지\"",
-    "summary": [
-      "[서울=뉴시스] 차미례 기자 = 이란의 마수드 페제시키안 대통령은 23일(현지시간) 테헤란에서 \"이란은 앞으로 미국과의 협상 과정에서 국가의 이익을 수호하기 위해 최고의 경계를 유지할 것\"이라고 밝혔다.",
-      "페제시키안 대통령은 이 날 방문한 파키스탄군의 아심 무니르 육군 참모총장을 맞아 회담을 하면서 미국의 거듭된 약속 위반과 종전교섭 회담 중 이란에 대한 공격, 이란 지도자들에 대한 표적 살인 등을 언급했다.",
-      "대통령은 그런 일로 인한 국민 대중의."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2c792804",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524008100061",
-    "title": "경찰, 망치로 무인점포서 200만원 훔쳐 간 남성 추적",
-    "summary": [
-      "(안산=연합뉴스) 김솔 기자 = 새벽 시간대 경기 안산시의 무인 인형뽑기방에서 한 남성이 지폐 교환기에 든 현금을 훔쳐 달아나는 사건이 발생해 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ccdbb60",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260523051000085",
-    "title": "영국 지자체 두번째 한인 부단체장 나왔다",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국 지방자치단체에서 한인으로는 역대 두 번째 부단체장이 탄생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13d8970d",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260524/133981105/1",
-    "title": "“커피 무료 선물이 도착했어요” 스팸 같은 마케팅에 ‘불안’",
-    "summary": [
-      "“[알림] 선물이 도착했어요”#30대 직장인 김수연(가명)씨는 최근 카카오톡 메시지를 하나 받았다.",
-      "신원을 알 수 없는 이가 보낸 ‘무료 아메리카노 이용권’이었다.",
-      "잘못 보낸 건 아닐까 하는 생각도 했지만 ‘받는 분 ○○회사 김수연’이라고 명확히 적혀 있었다."
-    ],
-    "chips": [
-      "#카카오"
-    ]
-  },
-  {
-    "id": "nad70f2b6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260524/133981098/1",
-    "title": "비타민C와 식이섬유 풍부한 참외",
-    "summary": [
-      "과거 참외는 무더운 여름철에만 먹을 수 있는 과일이었다.",
-      "하지만 요즘은 이른 봄부터 대형마트와 시장에서 노란 참외를 쉽게 만날 수 있다.",
-      "기온과 습도, 일조량을 안정적으로 관리하는 시설하우스 재배 기술이 발달하면서 참외 출하 시기도 빨라진 것이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00d3bd63",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260524/133981094/1",
-    "title": "검진, 많이 한다고 좋을까",
-    "summary": [
-      "올해도 국민건강보험공단(건보공단)의 수검 안내 문자메시지가 도착했다.",
-      "이 통지가 올 때마다 마음이 편치 않다.",
-      "“건강검진을 꼭 받아야 하나."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n17fb6edd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524008600004",
-    "title": "30년 넘은 서울대공원 리프트 철거뒤 1.7㎞ 곤돌라 설치 본궤도",
-    "summary": [
-      "(서울=연합뉴스) 김동규 기자 = 30년 넘게 서울대공원 방문객을 실어 나른 개방형 스카이 리프트를 철거하고 곤돌라를 설치하는 사업이 실시협약 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e59c01c",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/24/2026052408047218815",
-    "title": "'멋진 신세계' 임지연X허남준, 기습 첫 키스...자체 최고 10.5% [종합]",
-    "summary": [
-      "'멋진 신세계'의 임지연, 허남준이 기습 첫 키스를 하면서 본격적인 로맨스의 시작을 알렸다.",
-      "이에 시청률 10%를 돌파하며 흥행에 불을 붙였다.",
-      "지난 23일 방송된 SBS 금토드라마 '멋진 신세계' 6회에서는 신서리(임지연 분)와 차세계(허남준 분)가 짜릿한 첫 키스 엔딩을 장식했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na19b879d",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260524_0003642210",
-    "title": "원자재값·환율 급등에 '복합 인플레 충격'…소비자물가 3%대 경고음",
-    "summary": [
-      "[세종=뉴시스]박광온 기자 = 중동 전쟁 장기화가 한국 경제에 '복합 인플레이션 충격'으로 번지고 있다.",
-      "국제유가 급등과 원·달러 환율 상승이 동시에 나타나면서 물가 전반에 상방 압력이 커지는 흐름이다.",
-      "특히 단기 차익을 노린 투기성 외환 거래까지 가세하면서 고유가·고환율발(發) 물가 불안 경고음도 한층 커지고 있다."
-    ],
-    "chips": [
-      "#한은",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n67682d53",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260524_0003642213",
-    "title": "원안위, 경기도 방사선 장치 제조업체서 피폭 의심 조사 착수",
-    "summary": [
-      "[세종=뉴시스]김동현 기자 = 원자력안전위원회는 경기도 방사선 장치 제조업체로부터 피폭이 의심되는 보고를 받아 조사에 착수했다고 24일 밝혔다.",
-      "원안위에 따르면 지난 23일 오후 5시 40분께 경기도 소재 방사선발생장치 생산허가기관인 A업체로부터 방사선발생장치 내부에서 작업자가 정밀조정작업을 하는 도중 해당 장치가 약 30초정도 작동해 피폭이 의심된다는 보고를 받았다.",
-      "해당 장비는 수출용 결함을 검사하는 방사선발생장치로 국내에서 사용할 경우 원."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "neddecd55",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://www.asiae.co.kr/article/2026052214555741145",
-    "title": "[럭셔리월드]\"법카로 플렉스\"…직장인 최애 '회식 맛집' 호텔 뷔폐",
-    "summary": [
-      "\"호텔 뷔페는 평소 가격이 부담돼 쉽게 못 가잖아요.",
-      "그런데 부서회식으로 가면 너무 좋을 것 같아요.",
-      "회식은 일종의 '몸보신 데이' 아닌가요?\" 직장인 박모(29)씨는 최근 팀 회식 장소를 정하라는 부장님 말에 예상 밖의 장소를 추천했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e27c110",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260522138800052",
-    "title": "성매매 불법 촬영·아동 성 착취물 제작 30대, 징역 5년 8개월",
-    "summary": [
-      "(창원=연합뉴스) 정종호 기자 = 다수 여성과 성매매하는 장면을 촬영하고 아동·청소년 성 착취물까지 제작한 30대가 실형을 선고받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n794fc061",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://www.asiae.co.kr/article/2026052407474297681",
-    "title": "일본·영국·이탈리아 합작 전투기 개발 본격화…美 눈치 이겨낼까[시사쇼]",
-    "summary": [
-      "일본·영국·이탈리아 합작 전투기 개발 본격화…美 눈치 이겨낼까[시사쇼]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b0495ff",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://www.asiae.co.kr/article/2026052321502061816",
-    "title": "[이번주 IPO]5월 넷째 주 수요예측·청약 일정",
-    "summary": [
-      "이달(5월) 넷째 주에는 레몬헬스케어가 기관투자자 대상 수요예측을 진행한다.",
-      "피스피스스튜디오는 일반 청약을 앞두고 있다.",
-      "<수요예측> ◆레몬헬스케어= 2017년 설립된 레몬헬스케어는 병원, 환자, 보험사, 제약사, 핀테크 기업 등 다양한 이해관계자를 실시간으로 연결하는 B2B2C 의료데이터 중계 플랫폼 기업이다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nb322e33b",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://www.asiae.co.kr/article/2026052215110018082",
-    "title": "\"월 50만원 넣으면 최대 2255만원?\"…청년미래적금 따져보니 [혜택의 정석]",
-    "summary": [
-      "편집자주'아는 만큼 보이고, 아는 만큼 아낀다.' 정보가 넘쳐나는 시대지만 정작 나만 모르고 지나치는 것들이 많습니다.",
-      "[혜택의 정석]에서는 일상 속에서 알아두면 돈이 되고 모르면 손해 보는 유용한 소식들을 전합니다.",
-      "#서울에서 근무하는 20대 직장인 A씨는 월급날마다 저축 계획을 세우지만 생각만큼 돈을 모으기 쉽지 않다고 느낀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n11190956",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260524/133980961/1",
-    "title": "‘탱크 데이’→광주 방문→6연패…SSG 출범 첫 광주 싹쓸이 패 위기 [어제의 프로야구]",
-    "summary": [
-      "스타벅스코리아 ‘탱크 데이’ 이벤트가 형제 회사인 프로야구 팀 SSG의 광주 방문에도 영향을 끼친 걸까.SSG는 23일 광주 경기에서 안방 팀 KIA에 4-5로 역전패했다.5회초까지는 4-0으로 앞서가고 있었지만 4-2로 리드를 잡고 있던 8회말 3실점하며 결국 경기를 내줬다.이날 패배로 6연패 수렁에 빠진 SSG는 22승 1무 24패(승률 0.478)로 공동 5위에 머물렀다.스타벅스코리아는 5·18민주화운동 기념일인 18일 ‘탱크 데이’라는."
+      "'2025 KBO 프로야구' 오늘(16일)의 경기 일정 이투데이."
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "n4fbe1b6a",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/industry/2026/05/24/2026052409110789257",
+    "title": "최승호 삼성전자 노조위원장 \"다음달 재신임 투표…정계진출 생각 없어\"",
+    "summary": [
+      "최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장이 2026년 임금·단체협약 잠정 합의안 찬반 투표 결과 여부와 관계없이 위원장 재신임 투표를 다음달 중 진행하겠다고 밝혔다.",
+      "뉴스1에 따르면 최 위원장은 지난 23일 초기업노조 조합원들을 대상으로 한 공지를 통해 \"많은 연락이 왔는데 모두 답변을 드리지 못해서 죄송하고 제가 할 수 있는 것은 더 잘 (초기업노조를) 정비하는 것이 맞는다고 생각한다\"며 이같이 전했다.",
+      "최 위원장은 이어 \"다만 그조."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nbd56fbbf",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/24/2026052409162613461",
+    "title": "李대통령, '일베' 겨냥 \"조롱 방치·조장 사이트, 폐쇄 등 검토 필요\"",
+    "summary": [
+      "[the300] 이재명 대통령이 \"엄격한 조건 하에 조롱·혐오 표현에 대한 처벌, 징벌배상 및 일간베스트저장소처럼 조롱·혐오를 방치 조장하는 사이트 폐쇄, 징벌배상, 과징금 등 필요 조치를 허용하는 것에 대한 공론화와 실제 검토가 필요해 보인다\"고 밝혔다.",
+      "이 대통령은 24일 소셜미디어(SNS)에 \"'봉하마을서 일베 손가락질 사진 찍어'…조수진 노무현재단 이사 주장\"이라는 제목의 기사를 게재하며 이같이 적었다.",
+      "해당 기사에는 전날 열린 고(故)."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n86486a5a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260524/133981280/1",
+    "title": "[속보]李 “일베 등 혐오 방치 사이트 폐쇄 검토 지시”",
+    "summary": [
+      "李 “일베 등 혐오 방치 사이트 폐쇄 검토 지시”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd7a1e09a",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/living/2026/05/24/2026052408334156653",
+    "title": "탱크데이 후폭풍…스타벅스, 고객 돈 4500억 쌓였는데 환불은 '그림의 떡'",
+    "summary": [
+      "스타벅스코리아의 선불충전금(선불금) 규모가 최근 1년간 8% 증가하며 4200억원을 넘어선 것으로 나타났다.",
+      "24일 스타벅스코리아의 감사보고서에 따르면 지난해 12월 말 기준 스타벅스코리아의 선수금 잔액은 4275억6300만원이다.",
+      "이는 2024년(3950억8377만원) 대비 8.2% 증가한 수치다."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "nba726530",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260524_0003642226",
+    "title": "시흥시, 복지포인트 20만→30만원…가전제품에 사용한다",
+    "summary": [
+      "[시흥=뉴시스] 박석희 기자 = 경기 시흥시는 사회복지시설 종사자 804명에게 연 30만원의 복지포인트를 지급하는 등 지원 제도를 전면 개편했다고 24일 밝혔다.",
+      "시는 올해부터 복지포인트를 기존 20만원에서 30만원으로 인상해 지급한다.",
+      "총사업비는 약 23억6000만원 규모다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9125ee52",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260524_0003642251",
+    "title": "법요식·시장·공원…임태희·안민석, 부처님오신날 유세전",
+    "summary": [
+      "[수원=뉴시스] 박종대 기자 = 임태희·안민석 경기도교육감 후보가 24일 6·3지방선거를 열흘 앞두고 부처님오신날 연휴를 맞아 이른 아침부터 저녁까지 도내 곳곳을 누비며 도민 표심 잡기에 나섰다.",
+      "지난 23일에도 임 후보는 의왕·군포·안양·과천 등 경기남부를, 안 후보는 노무현 전 대통령 17주기 참배를 시작으로 안성·오산·수원을 잇따라 방문했다.",
+      "재선에 도전하는 임 후보는 이날 오전 7시30분 수원 광교산 등산로에서 시민들과 만나는 것을 시작."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n164248b1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260524/133981275/1",
+    "title": "‘부처님 오신 날’ 고속도로 혼잡…부산→서울 6시간20분",
+    "summary": [
+      "연휴 둘째 날이자 부처님 오신 날인 24일 일요일은 서울 방향 고속도로가 혼잡하겠다.한국도로공사에 따르면 이날 전국 고속도로 교통량은 515만대로 예상된다.",
+      "지방에서 수도권으로 진입하는 차량은 43만대, 수도권에서 지방으로 빠져나가는 차량은 40만대다.서울 방향은 오전 9~10시 시작한 정체가 오후 5~6시 절정에 도달할 것으로 예상된다.",
+      "이후 오후 11시~자정께 정체가 풀릴 것으로 점쳐진다.특히 서울방향 영동고속도로와 서울양양고속도로를 중심으."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n15395c95",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260524_0003642252",
+    "title": "세종 돈사 화재, 새끼돼지 450마리 폐사…1.5억 재산피해",
+    "summary": [
+      "[세종=뉴시스]김도현 기자 = 세종의 한 돈사에서 불이 나 1억5000만원 상당의 재산피해가 발생했다.",
+      "24일 세종소방본부 등에 따르면 이날 0시 55분께 세종시 금남면의 한 돈사에서 불이 났다.",
+      "소방당국은 장비 15대와 인력 33명을 투입해 약 1시간만에 진화했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6e9188ff",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260524/133981270/1",
+    "title": "李 “엄격한 조건 하에 조롱·혐오표현 처벌 검토 필요…‘일베’ 폐쇄 검토도”",
+    "summary": [
+      "이재명 대통령은 24일 “엄격한 조건 하에 조롱·혐오표현에 대한 처벌과 징벌배상, 일간베스트저장소(일베)처럼 조롱·혐오를 방치 조장하는 사이트 폐쇄, 징벌배상, 과징금 등 필요조치를 허용하는 (것에) 대한 공론화와 실제 검토가 필요해 보인다”고 밝혔다.이 대통령은 이날 오전 X(엑스·옛 트위터)에 글을 올려 “일베처럼 조롱 모욕으로 사회 분열 갈등을 조장하는데 대해 표현의 자유로 보호해야 한다는 주장과 처벌을 포함한 제재가 필요하다는 주장이 병."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8594b3cf",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "10분 전",
+    "url": "https://www.hankyung.com/article/2026052459237",
+    "title": "1년 새 동네 술집 3000곳 폐업…음주 줄이는 20대에 시장 '휘청'",
+    "summary": [
+      "1년 새 동네 술집 3000곳 폐업…음주 줄이는 20대에 시장 '휘청'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na783b4da",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260524_0003642220",
+    "title": "美 백악관 지척서 수십발 총성…용의자 검거, 트럼프 무사(종합)",
+    "summary": [
+      "[서울·워싱턴=뉴시스]고재은 기자, 이윤희 특파원 = 23일(현지 시간) 도널드 트럼프 미국 대통령이 머물고 있는 백악관 바로 인근에서 총격 사건이 발생했다.",
+      "용의자는 백악관을 향해 총을 발사했으나 비밀경호국 요원들에 의해 곧바로 진압됐고, 트럼프 대통령은 안전한 상태로 전해졌다.",
+      "미국 비밀경호국(SS)은 이날 소셜미디어(SNS) 엑스(X)에 \"(워싱턴DC) 17번가와 펜실베이니아 애비뉴 인근에서 총성이 들렸다는 신고를 접수했으며 현재 현장에."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n63abab12",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "12분 전",
+    "url": "https://www.hankyung.com/article/202605245736i",
+    "title": "'호주 박카스맨', PGA 시니어투어 첫 승...“브랜드 위상 더 높일 것”",
+    "summary": [
+      "'호주 박카스맨', PGA 시니어투어 첫 승...“브랜드 위상 더 높일 것”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2d2d304b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524007000009",
+    "title": "아프리카 에볼라 사망 200명 넘어…방역 구멍 속 10개국 확산",
+    "summary": [
+      "(서울=연합뉴스) 오수진 기자 = 에볼라 바이러스 진원지인 콩고민주공화국(민주콩고)에서 사망자가 200명을 넘었다고 AFP 통신이 23일(현지시..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfeb77911",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/05/24/HAYWENJSGM3TAYRVGNTDKNRTGE/",
+    "title": "르세라핌, ‘붐팔라’ 전세계서 뜨거운 인기…애플뮤직 글로벌 차트 진입",
+    "summary": [
+      "[OSEN=강서정 기자] 그룹 르세라핌(LE SSERAFIM)이 신곡 ‘BOOMPALA’(붐팔라)으로 전 세계 음악시장에서 뜨거운 관심을 받고 있다.",
+      "르세라핌의 정규 2집 ‘‘PUREFLOW’ pt.1’의 타이틀곡이 22일 자 애플뮤직 ‘오늘의 톱 100: 글로벌’에 46위로 진입했다.",
+      "지금까지 발매 당일 해당 차트에 이름을 올린 K-팝 그룹은 르세라핌을."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "n977f460e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522090300061",
+    "title": "경기지역 선거전 과열 양상…'선거법 위반' 고발 잇따라",
+    "summary": [
+      "(수원=연합뉴스) 이우성 최종호 김솔 기자 = 6·3 지방선거가 열흘 앞으로 다가온 가운데 경기지역에서 공직선거법 위반 혐의 고소·고발이 잇따르..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc2fdf9a4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522092500057",
+    "title": "울산 보건 당국 \"에볼라바이러스병 예방수칙 지켜야\"",
+    "summary": [
+      "(울산=연합뉴스) 장영은 기자 = 울산 울주군보건소는 아프리카 일부 국가의 에볼라바이러스병 집단 발생으로 인한 정부 위기경보 '관심' 단계 발령..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n1650ff3d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260522141600062",
+    "title": "춘천 고교생들, 美 세인트존스대서 고전 토론 배운다",
+    "summary": [
+      "(춘천=연합뉴스) 이상학 기자 = 강원 춘천지역 고등학생들이 미국 세인트존스대학에서 고전 읽기와 토론 중심의 '그레이트북스'(Great Book..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ne2b3e278",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/24/HFTDSZBXGI3TMM3EG5SWGNZSMQ/",
+    "title": "첫 승→첫 세이브→첫 홀드…LG 마운드 숨은 진주, 1사 만루 위기 막고 \"병살 처리 못해 아쉽다\"",
+    "summary": [
+      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스 김진수가 만루 위기 상황을 막아내며 팀 승리에 기여했다.",
+      "LG는 23일 잠실구장에서 열린 키움 히어로즈와 경기에서 5-2로 승리했다.",
+      "선발 임찬규가 6이닝 2실점 퀄리티 스타트로 제 몫을 했고, 7회 우강훈이 등판해 삼자범퇴로 끝냈다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc722741d",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260524/133981262/1",
+    "title": "칸 불발 나홍진 “개봉 전 완성도 최대한 끌어올리겠다”",
+    "summary": [
+      "나홍진 감독 새 영화 ‘호프’가 올해 칸영화제에서 상을 받지 못했다.",
+      "나 감독은 “개봉 전까지 남은 시간 작품의 완성도를 최대한 끌어올리는 데 집중하겠다”고 했다.나 감독은 23일(현지 시각) 프랑스 칸 뤼미에르대극장에서 열린 79회 칸영화제 폐막식이 끝난 뒤, 이 영화 투자·배급을 맡은 플러스엠엔터테인먼트를 통해 이렇게 말했다.",
+      "그는 “이번 칸영화제에서 받게 된 많은 비평가들과 언론 관계자들의 응원과 지지라는 값진 성과를 바탕 삼아 최선의 결."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n36e763dc",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/24/2026052409035378981",
+    "title": "美백악관 검문소 인근서 수십발 총성...\"용의자 검거, 트럼프 무사\"",
+    "summary": [
+      "미국 워싱턴DC 백악관 검문소 인근에서 23일(현지시간) 총격전이 벌어졌다.",
+      "총격전 당시 도널드 트럼프 미국 대통령이 백악관에 머물고 있었다.",
+      "미국 언론들은 트럼프 대통령이 무사하다고 전했다."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n20680e47",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/202605224193i",
+    "title": "퇴직 후 아파트 판 돈 '13억'…예금에 넣으면 세금 폭탄?",
+    "summary": [
+      "퇴직 후 아파트 판 돈 '13억'…예금에 넣으면 세금 폭탄?."
+    ],
+    "chips": [
+      "#부동산"
     ]
   }
 ];
@@ -636,20 +638,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
