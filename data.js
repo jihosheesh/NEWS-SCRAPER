@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-24 16:19:36
+// 마지막 업데이트: 2026-05-24 17:20:12
 window.NEWS_DB = [
   {
     "id": "nbd4d057c",
     "category": "IT",
     "source": "더퍼블릭",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YWUNrdU1JQmM2Z25uQXFDR1BvYzB6dG5NcG4xVFRsMGt4Q0dOQTFEM244dzJBRXhOSzVHUnRyeUhIcjd5TDk4WkpvcTg2cHdqd1N5dF9rVVVkT3h1ZUNtc1JDcXpLZkloZzRv0gFvQVVfeXFMUGlWelYyb2o4aUU0RDBYbG9QNkZEVzNCWWh1Y05ERkV2Q2ZDejVQNndBaGw2SVRuU25fSndIdlBNYUNzR2tFWC1YZ2syOUtIbTl3M3lTUUN1Nm9tbTJIVlFfZVpGQk5OVm9kMWNFZDdz?oc=5",
     "title": "한국청년회의소, ‘JCI 스케일업 펀드 1호’ 결성…벤처·유니콘 육성 나선다",
     "summary": [
@@ -105,6 +105,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
@@ -149,20 +164,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nef4b12c1",
-    "category": "경제",
-    "source": "이데일리",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzdSZFFxUnJRaDU0aF9yN1oyMUVlWDlqQ0ROLXR3UFktYmp5Zm0xVHBoaHZOcXNzeFMxeHpyRG9mLVF3ay1rMVVyTm9jY29XNkt5aTBsUTF0R1ZHTS1uQlpQRjZiSDBVbkM4dW92WTZaejNoLU9CbWdvZURZd3JVcw?oc=5",
-    "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
-    "summary": [
-      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -222,22 +223,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "95일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -265,6 +250,20 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nf7aebd8b",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "125일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
+    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
+    "summary": [
+      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -342,10 +341,196 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n043b1fc3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/25/MQ4DIMRRGRSWINRSMQZWGN3GMY/",
+    "title": "부처님 오신날, 데뷔 첫 완봉승...불굴의 오뚜기, 그 뒤에 '내조의 여왕' 있었다",
+    "summary": [
+      "[스포츠조선 정현석 기자]대체 선발의 안착과 성공.",
+      "출격 일자가 들쑥날쑥해 컨디션 맞추기가 어렵다.",
+      "기존 선발에 비해 벤치도 덜 관대하다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncce4a17c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/25/HBSDKNDFGYZGIOJTGJRTOZDFMY/",
+    "title": "백악관 인근 총격 사망 20대, 과거에도 백악관 진입 시도 전력",
+    "summary": [
+      "미국 백악관 인근에서 총격을 벌이다 숨진 20대 남성이 지난해부터 비밀경호국(SS)의 관리 대상에 올라 있었던 것으로 드러났다.",
+      "과거에도 백악관 주변 제한 구역에 접근하거나 진입 방법을 물어 경찰과 경호 당국에 여러 차례 제지된 전력이 있었다.",
+      "24일(현지 시각) CNN 등 미국 언론은 전날 워싱턴DC 백악관 인근 검문소에서 비밀경호국 요원의 대응 사격을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2747fd4f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525000900071",
+    "title": "美국방, 육사졸업식서 \"여러분들 손 묶지않겠다\" 현장 재량 강조",
+    "summary": [
+      "(워싱턴=연합뉴스) 조준형 특파원 = 피트 헤그세스 미 국방부(전쟁부) 장관은 23일(현지시간) 미 육군 사관학교(웨스트포인트) 졸업식에서 전투..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n5bcf7446",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260525_0003642650",
+    "title": "백악관, 이란 전쟁 끝나면 \"1~2개월 내 전세계 정유시설, 원유 확보\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 케빈 해싯 백악관 국가경제위원장은 24일(현지시간) 이란과의 전쟁이 끝나고 1~2개월 내에 전 세계에 필요한 원유가 충분히 공급될 것이라고 밝혔다.",
+      "그는 이날 CBS 방송의 '페이스더네이션' 프로그램에 출연해 미국과 이란의 종전 합의에 대해 언급하며 핵심은 \"(호르무즈) 해협이 다시 개방되면 유조선들이 돌아가기 시작할 것이고, 거의 즉시 정유시설들에 원유를 다시 채워 넣게 된다는 점\"이라고 밝혔다."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "ndf683103",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525000800091",
+    "title": "\"99년식 시빅 타다가 테슬라 산듯\"…캐나다 해군, 韓잠수함 호평",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = \"1999년식 혼다 시빅을 몰다가 신형 테슬라를 사는 것과 같습니다.\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd7eaa126",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/25/2026052500431990531",
+    "title": "우와 '꽃미남' 스모 선수 등장에 \"모델 해라\" 팬들 들썩... 188cm·105kg '8등신' 완벽 비율에 \"완전 아이돌\"",
+    "summary": [
+      "일본 스모판에 모델 같은 비율과 외모를 자랑하는 188cm '꽃미남' 선수가 등장해 화제다.",
+      "일본 '아베마 타임스'는 24일 \"도쿄 료고쿠 국기관에서 열린 오즈모 5월 대회 마지막 날 늘씬한 체구의 스모 선수가 도효(스모판)에 올라 팬들의 뜨거운 시선을 받았다\"고 전했다.",
+      "화제의 주인공은 조니단(스모 6개 계급 중 하위 2번째) 서열 41번째 라이하야테다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd6146cca",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "34분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/24/MQ3WIYRRHAZTSMDBMQYTEY3GGA/",
+    "title": "'9회 무사만루 위기→무실점 세이브' 류현진 200승 지키고 포효했다…\"대기록 동행할 수 있어서 영광\" [오!쎈 대전]",
+    "summary": [
+      "[OSEN=대전, 조은혜 기자] 프로야구 한화 이글스 박상원이 637일 만의 세이브로 류현진의 한미 통산 200승을 완성했다.김경문 감독이 이끄는 한화는 24일 대전 한화생명 볼파크에서 열린 두산과의 홈경기에서 5-2로 승리했다.",
+      "이날 승리로 두산전을 모두 쓸어담은 한화는 3연승으로 시즌 전적 23승24패를 만들고 단독 5위로 올라섰다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n983e239c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "38분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/25/2026052420395577462",
+    "title": "'3000억 벌고 복귀전' 맥그리거 '퇴물 논란', 45세 김동현과 스파링→\"너무 엉성한데...\" 굴욕 비판 세례 '우수수'",
+    "summary": [
+      "UFC 최고의 악동 코너 맥그리거(37·아일랜드)의 5년 만의 옥타곤 복귀전이 마침내 공식 확정됐다.",
+      "하지만 복귀 기쁨도 잠시, 최근 유출된 훈련 영상 속 처참한 경기력에 격투기 팬들의 냉소와 비난이 쏟아지고 있다.",
+      "영국 매체 '더 선'은 24(한국시간) \"UFC 복귀전을 앞둔 맥그리거의 스파링 영상이 온라인에 유출된 후 격투기 팬들로부터 잔혹한 조롱을 받고 있다\"고 조명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8857c2aa",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "40분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260525/133983979/2",
+    "title": "서로 다른 언어로 하나의 이야기… 아비뇽에 울릴 ‘작별하지 않는다’",
+    "summary": [
+      "해마다 7월이면 프랑스 남부의 오래된 도시 아비뇽엔 세계에서 수많은 공연 예술가와 평론가, 관객들이 몰려든다.",
+      "공연장은 물론이고 길거리와 학교 체육관까지 도시 전체를 무대로 바꾸는 ‘아비뇽 페스티벌’이 열리기 때문이다.아비뇽 페스티벌의 가장 상징적 공간인 ‘교황청 극장’에서 프랑스 배우 이자벨 위페르와 배우 이혜영이 무대에 올라 한강 작가의 소설 ‘작별하지 않는다’를 낭독한다면 어떨까.",
+      "올해 축제에선 이런 상상이 현실이 된다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "naf3c3632",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "40분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260525/133983975/2",
+    "title": "‘잡음’을 재료삼아, 진동으로 존재 연결",
+    "summary": [
+      "신경망처럼 복잡하게 얽혀 있는 삼나무 구조물.",
+      "화음도 불협화음도 아닌 여러 성부의 허밍이 전시실을 메웠다.",
+      "구조물 위에 걸터앉자, 허밍에 맞춰 변화하는 진동이 몸을 울렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n994b29c0",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "40분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260525/133983973/2",
+    "title": "루마니아 문지우 감독, ‘피오르’로 생애 두 번째 황금종려상",
+    "summary": [
+      "제79회 칸 국제영화제에서 크리스티안 문지우 감독(루마니아)의 영화 ‘피오르’가 황금종려상을 받았다.",
+      "문지우 감독은 2007년 영화 ‘4개월, 2주, 그리고 2일’로 황금종려상을 받은 뒤 감독상, 각본상 등 칸에서만 4번째 수상이다.",
+      "23일(현지 시간) 프랑스 칸의 뤼미에르 대극장에서 열린 폐막식에서 ‘피오르’는 최고상인 황금종려상 수상작으로 호명됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n96c3b9e8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "40분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260525/133983971/2",
+    "title": "‘박경리 문학 100년’ 학술대회, ‘토지’ 배경 하동서 연다",
+    "summary": [
+      "박경리 작가(1926∼2008·사진) 탄생 100주년을 맞아 소설 ‘토지’의 주요 배경인 경남 하동에서 기념 학술대회 ‘박경리 문학 100년: 삶, 작품, 기억의 확장’이 열린다.",
+      "29, 30일 개최되는 이번 학술대회에서는 박경리 문학 100년의 연구 성과를 점검하는 한편, 여성 서사와 해외 연구 동향 등 다양한 논의를 통해 문학의 현재와 미래에 대한 가능성을 모색한다.",
+      "박 작가는 1960, 70년대 발표한 장편소설 ‘시장과 전장’, ‘김약국의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nc6738990",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "48분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152111",
     "title": "외국인에 3040 남성까지...ASL 결승, 킨텍스서 콘텐츠 저력 입증",
     "summary": [
@@ -356,73 +541,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4266c859",
+    "id": "n3ce29472",
     "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/25/GA3DOY3FGZTDENZUGQZTCNRSGA/",
-    "title": "트럼프 경제참모 “호르무즈 열리면 원유 병목 1~2개월 내 해소”",
+    "source": "연합뉴스",
+    "time": "57분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525000600072",
+    "title": "\"이란 더 대담해질 것…\" 협상타결 임박에도 이·걸프국은 불안",
     "summary": [
-      "케빈 해싯 백악관 국가경제위원장이 호르무즈 해협이 다시 열리면 전 세계 정유시설의 원유 수급 차질이 길게 이어지지 않을 것이라고 밝혔다.",
-      "이란과의 전쟁이 끝나고 해협 통항이 재개될 경우 1~2개월 안에 필요한 물량이 공급될 수 있다는 설명이다.",
-      "해싯 위원장은 24일(현지 시각) CBS 방송 ‘페이스 더 네이션’에 출연해 호르무즈 해협 개방 이후 원유 공급."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미·이란 간 종전을 위한 양해각서(MOU) 체결이 막바지 단계에 이르고 있는 가운데 이스라엘과 걸프 지역 아..."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nccd3b68a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/05/25/MVQWGYLEMZRDINJVME3DKYZRMI/",
-    "title": "'이럴 수가' 440세이브, ML 역대 5위 마무리 전격 방출...\"명예의 전당 입성이 유력한 투수와 작별\"",
-    "summary": [
-      "[OSEN=한용섭 기자] 메이저리그 통산 440세이브 투수 크레이그 킴브렐(37)이 방출 됐다.",
-      "올 시즌 재기를 노렸으나 여의치 않는 상황이다.",
-      "뉴욕 메츠는 23일(이하 한국시간) 팀 내 유망주 2위이자, MLB 파이프라인 유망주 36위 투수 요나 통을 트리플A 시라큐스에서 콜업하면서, 베테랑 킴브렐을 방출 대기 명단에 올렸다.애틀랜타와 보스턴에서 마무리로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n97d81ac0",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/25/GAYDIMLFGUZTAM3GGBRDOYJXMQ/",
-    "title": "‘포수→1루수→외야수’ 한화 거포 유망주, 2루타-안타-안타-안타 '4안타' 폭발...한화 2군, 15점 뽑으며 30승 선착",
-    "summary": [
-      "[OSEN=한용섭 기자] 프로야구 한화 이글스 2년차 거포 유망주 한지윤(20)이 퓨처스리그에서 4안타 맹타를 터뜨렸다.",
-      "한지윤은 24일 서산구장에서 열린 2026 퓨처스리그 LG 트윈스와 경기에 4번 지명타자로 선발 출장해 5타수 4안타 2타점 3득점으로 활약했다.",
-      "한 경기 4안타는 프로에 들어와서 퓨처스리그에서도 처음이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n40b65b7c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/25/GIYGMMDBMJSTIZDGGQ3TANBTMI/",
-    "title": "오토바이 사더니 급 러브콜? BTS 정국, 한밤 중 SNS에 \"어떻게든 내게 닿아줘\"",
-    "summary": [
-      "[OSEN=김수형 기자] 그룹 정국이 바이크 사랑에 이어 이번에는 직접 영상 촬영·편집자를 찾는 깜짝 공개 모집(?)에 나섰다.최근 정국은 개인 SNS를 통해 \"in Las Vegas 23.",
-      "2026\"이라는 글과 함께 미국 라스베이거스에서 촬영한 브이로그 영상을 공개했다.특히 영상 속에는 짧지만 강렬한 오토바이 라이딩 장면도 담겨 눈길을 끌었다."
-    ],
-    "chips": [
-      "#채용"
     ]
   },
   {
     "id": "n1c77458c",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/25/2026052500113194132",
     "title": "\"어머나\" 스위프트, 남친 전광판에 뜨자 \"얼굴 가리고 웃음\"... 그러거나 말거나 'NFL 스타' 켈리, 맥주 먹고 '딥슬립'",
     "summary": [
@@ -438,7 +574,7 @@ window.NEWS_DB = [
     "id": "n433ef66d",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/25/2026052309332781998",
     "title": "'경쟁 사실상 끝났다' 윤곽 드러난 홍명보호 '월드컵 베스트11'",
     "summary": [
@@ -451,26 +587,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na3aca2c5",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/25/2026052413584457002",
-    "title": "8년 만의 만남→굴욕적 일방적 짝사랑, 北 내고향은 눈길 한 번 주지 않았다 [기획]",
-    "summary": [
-      "8년 만에 성사된 북한 선수단의 방남은 경색된 한반도 정세 속에서 냉랭한 남북관계의 현실만 재확인한 채 막을 내렸다.",
-      "안방에서 대회를 치른 한국 클럽은 유무형의 손해를 일방적으로 떠안아야 했고, 국민 세금을 바탕으로 꾸려진 국내 응원단은 북한 팀을 향해 맹목적인 짝사랑 응원을 보내고도 돌아온 것은 북한 선수단의 철저한 냉대와 오만한 거부뿐이었다.",
-      "가장 큰 피해자는 아시아 최강 자리를 놓고 공정하게 겨뤄야 했던 대한민국 소속의 수원FC 위민이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nbe2474f7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260522_0003641593",
     "title": "제약사 특성살린 사회공헌…\"상생으로 돌아온다\"[같이의 가치]",
     "summary": [
@@ -487,7 +607,7 @@ window.NEWS_DB = [
     "id": "na3a001e3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260525_0003642648",
     "title": "네타냐후 \"이란, 핵무기 보유하지 못할 것\"(종합)",
     "summary": [
@@ -504,7 +624,7 @@ window.NEWS_DB = [
     "id": "nbf156051",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260525000500009",
     "title": "아르헨, AI기반 국가정책 예측시스템 추진…\"국민감시 우려\"논란",
     "summary": [
@@ -514,125 +634,6 @@ window.NEWS_DB = [
       "#AI",
       "#정책"
     ]
-  },
-  {
-    "id": "n0e4dfbc7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003640682",
-    "title": "수산자원공단, 서해·남해본부장 공개모집…내달 5일까지",
-    "summary": [
-      "[부산=뉴시스] 이아름 기자 = 한국수산자원공단은 서해본부장과 남해본부장 등 2개 직위에 대한 공개 모집을 진행한다고 25일 밝혔다.",
-      "이번 공모는 공단 내부와 외부를 대상으로 진행된다.",
-      "경영 성과가 우수한 경우 총 5년 범위 내에서 1년 단위 연장 계약이 가능하다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n7ffc6cd3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260521_0003639441",
-    "title": "클래식·퓨전국악도, 뮤지컬도…을숙도문화회관 6월 공연",
-    "summary": [
-      "[부산=뉴시스]진민현 기자 = 부산 사하구 을숙도문화회관이 초여름 6월을 맞아 클래식과 퓨전 국악, 뮤지컬 갈라쇼 등 다양한 장르의 공연을 선보인다.",
-      "25일 부산 사하구청에 따르면 내달 9일 제89회 예술공감 '지브리와 함께하는 클래식' 공연이 열린다.",
-      "공연은 지브리 OST와 클래식 명곡을 영상·해설과 함께 즐길 수 있는 무대다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne66824b2",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525000400071",
-    "title": "백악관 \"전쟁 끝나면 한두달 내 전세계 정유시설이 원유 확보\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령의 경제 핵심참모인 케빈 해싯 백악관 국가경제위원장은 24일(현지시간) 이란과의 ..."
-    ],
-    "chips": [
-      "#전세",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n897543bd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525000300009",
-    "title": "이란·오만, 호르무즈 '자유항행 재개' 논의",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 사이드 바드르 빈 하마드 알부사이디 오만 외무장관이 24일(현지시간) 이란 외무부 대표단과 호르무즈 해협 통항..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n28f3cada",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524050851109",
-    "title": "프랑스, 벨라루스에 \"우크라 전쟁 개입 말라\" 경고(종합)",
-    "summary": [
-      "(로마 베를린=연합뉴스) 민경락 김계연 특파원 = 우크라이나 전쟁이 격화하는 가운데 에마뉘엘 마크롱 프랑스 대통령과 알렉산드르 루카셴코 벨라루스..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7894b4c5",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "42분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152110",
-    "title": "알고 보니 '개그계 스타 마니아'… 김원훈-조진세, ASL 결승 현장 포착",
-    "summary": [
-      "인기 스케치 코미디 채널 '숏박스'의 주역인 개그맨 김원훈과 조진세가 스타크래프트 e스포츠 현장에 모습을 드러냈습니다.김원훈과 조진세는 24일 오후 경기도 고양시 일산 킨텍스 제1전시장에서 열린 '구글 플레이 ASL 시즌21' 결승전 현장을 깜짝 방문해 팬들의 눈길을 사로잡았습니다.평소 연예계 안팎에서 스타크래프트에 대한 남다른 애정과 관심을 나타내며 직관을 즐겨왔던 두 사람은 이날 역시 현장을 찾아 열띤 응원을 보냈습니다.현장 관계자에 따르면."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n845e275a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "54분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/25/2026052422292258229",
-    "title": "\"저 화장실 너무 급해요\" 경기 도중 라켓 던지고 전력 질주... 심판도 당황한 돌발 상황",
-    "summary": [
-      "세계적인 테니스 대회인 프랑스 오픈에서 누구도 예상치 못한 돌발 상황이 벌어졌다.",
-      "영국 더선은 24일(한국시간) \"프랑스 테니스 선수 아르투르 게아(21)가 주심에게 '화장실에 가야 한다'고 말한 뒤 코트 밖으로 급히 뛰어갔다\"고 전했다.",
-      "이날 게아는 프랑스 파리 롤랑가로스에서 열린 대회 남자 단식 1회전에서 카렌 하차노프(러시아)와 맞붙었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc929f9ba",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026052465371",
-    "title": "김건희 수사 무마 의혹…이창수 前 지검장 입건",
-    "summary": [
-      "김건희 수사 무마 의혹…이창수 前 지검장 입건."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -641,8 +642,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -652,7 +653,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   }
