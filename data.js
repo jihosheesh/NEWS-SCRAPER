@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-24 13:30:22
+// 마지막 업데이트: 2026-05-24 14:29:32
 window.NEWS_DB = [
   {
     "id": "nbd4d057c",
     "category": "IT",
     "source": "더퍼블릭",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YWUNrdU1JQmM2Z25uQXFDR1BvYzB6dG5NcG4xVFRsMGt4Q0dOQTFEM244dzJBRXhOSzVHUnRyeUhIcjd5TDk4WkpvcTg2cHdqd1N5dF9rVVVkT3h1ZUNtc1JDcXpLZkloZzRv0gFvQVVfeXFMUGlWelYyb2o4aUU0RDBYbG9QNkZEVzNCWWh1Y05ERkV2Q2ZDejVQNndBaGw2SVRuU25fSndIdlBNYUNzR2tFWC1YZ2syOUtIbTl3M3lTUUN1Nm9tbTJIVlFfZVpGQk5OVm9kMWNFZDdz?oc=5",
     "title": "한국청년회의소, ‘JCI 스케일업 펀드 1호’ 결성…벤처·유니콘 육성 나선다",
     "summary": [
@@ -105,21 +105,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
-    ]
-  },
-  {
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
@@ -148,20 +133,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n0af1fba5",
-    "category": "경제",
-    "source": "KB Think",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84VTZyUTVMWDF4LTE0UEN1TU4tUTVVSGVDQy00cnl1N1pmNHV4RVRZUVU1T2ZPNFBSNmNKN2NwOGZrUGRfdUdZcUZZbGlaNURTZW9DdENMTnJsM2FXZU5vMEotOEhBOGU3N1h1V1B2Yi14Zw?oc=5",
-    "title": "하나證 \"한은, 하반기 매파 스탠스로 환율 하락 유도할 것\"",
-    "summary": [
-      "하나證 \"한은, 하반기 매파 스탠스로 환율 하락 유도할 것\" KB Think."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -237,18 +208,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "94일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "id": "nef414906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "95일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
+    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
     "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
     ],
     "chips": [
-      "#부동산",
-      "#정책"
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -279,6 +251,34 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nf7aebd8b",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "125일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
+    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
+    "summary": [
+      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n13cdbe9c",
+    "category": "부동산",
+    "source": "시사저널e",
+    "time": "145일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Q0thY25nakY0bTJDN0FsUUxOVTdOSlNnbVdoZ1JHdjlLS2dPZW40WUZDYlY5YzVaUjVsWjUyT1E4LXNYMkxWM2lhNTJLN1VHZ2F4Ymg1ODlxU0VCZUMyYnpmRnpWM0dFN2ctcTlvSlF0Z9IBdkFVX3lxTE5aSkZkTU85SU9RMG9INENqZmhYOGVaT3ZRazZUajM0RXpJaXk1bHkzdDFfN0VoaG03YnlyUWtlNm9JRzl5T0FhSkIzamk1eVVxRDFVRnA2WDBkTzg2bmpXVUM3YndpTjNLNnAxdllyNVFxRGVVaGc?oc=5",
+    "title": "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울",
+    "summary": [
+      "[2025 부동산 결산④ 공급] “지금 아니면 새 집 없다”···‘공급 공포’ 지배한 서울 시사저널e."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -370,266 +370,259 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n728bce0f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260524_0003642629",
-    "title": "김용남, 대부업체 의혹에 \"경영 관여나 수익·배당 없었다\"",
-    "summary": [
-      "[서울=뉴시스] 김난영 김윤영 기자 = 이른바 대부업체 소유 의혹에 휩싸인 김용남 더불어민주당 경기 평택을 국회의원 후보가 \"한 푼도 배당이나 수익을 받은 적이 없다\"고 주장했다.",
-      "김 후보는 24일 유튜브 라이브 방송을 통해 \"저에 관해 들어오는 공세들에 대한 명확한 입장을 말씀드리겠다\"며 이같이 말했다.",
-      "그는 해당 업체가 \"동생이 설립한 농업회사 법인 자회사로 있었던 업체\"라며 \"2020년경 동생이 너무 힘들고 법률적 쟁송도 있어 맡아 달라고."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4d39af2c",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://www.asiae.co.kr/article/2026052422253211807",
-    "title": "이권재 후보, 중동전쟁발 고유가 시대 대응 \"에너지 부담 덜고 민생 지키겠다\"",
-    "summary": [
-      "이권재 오산시장 후보(국민의힘)가 24일 중동전쟁 장기화에 따른 국제유가 상승과 물가 불안에 대응하기 위해 시민 생활 안정을 위한 '민생 에너지 지원 대책'을 발표했다.",
-      "이 후보는 \"중동발 고유가 상황은 단순한 기름값 상승을 넘어 교통비와 물류비 증가, 식료품 및 생필품 가격 인상으로 이어져 서민경제를 직접 압박하고 있다\"며 \"특히 냉·난방비 부담은 시민 건강과 직결되는 문제인 만큼 지방정부 차원의 선제적 대응이 필."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9f5d63a6",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/24/GRTDGN3BGAZDIM3FGEYTEYZWGI/",
-    "title": "'졌잘싸' 전경준 감독 \"이른 시간 퇴장으로 어려운 경기했다\"[현장 기자회견]",
-    "summary": [
-      "[목동=스포츠조선 박찬준 기자]\"이른 시간 퇴장으로 힘든 경기를 했다.\" 전경준 성남FC 감독의 아쉬움이었다.",
-      "성남은 24일 목동종합운동장에서 열린 서울 이랜드와의 '하나은행 K리그2 2026' 13라운드에서 1대3으로 패했다.",
-      "4경기 무패를 달리던 성남은 5경기 만에 패배의 쓴맛을 봤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74161204",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/24/2026052422140632648",
-    "title": "TSMC 직원들 \"삼성처럼 파업해야\"…성과급 여파 대만까지",
-    "summary": [
-      "대만 반도체 업체 TSMC 내부에서 성과급 삭감설이 퍼지면서 일부 직원들 사이에선 \"삼성처럼 파업해야 한다\"는 반응까지 나오고 있다고 대만 경제지 자유재경이 보도했다.",
-      "24일 관련업계에 따르면 TSMC는 올해 1분기 순이익이 전년 동기 대비 58% 증가한 5725억 대만달러(약 182억달러·약 26조8000억원)를 기록했다.",
-      "시장 전망치(5433억 대만달러)를 웃도는 수준이다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n0acb7616",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/24/2026052421405915209",
-    "title": "서산 자동차부품 공장 화재 12시간 만에 완진…1개동 소실",
-    "summary": [
-      "24일 충남 서산의 한 자동차부품 공장에서 불이 나 12시간여 만에 완전히 꺼졌다.",
-      "충남소방본부에 따르면 이날 오전 8시 54분쯤 서산 음암면의 한 자동차 범퍼 제조 공장에서 불이 났다.",
-      "소방 당국은 대응 1단계를 발령하 진화 인력 405명과 소방차 76대를 투입해 약 10시간 만인 오후 7시께 큰불을 잡았고 이후 1시간 35분 만에 완진했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n98874d81",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260524_0003642611",
-    "title": "김용범 \"고금리·고물가·고환율은 성공의 비용…韓 경제, 새 균형점 모색 과정\"",
-    "summary": [
-      "[서울=뉴시스]이인준 기자 = 김용범 청와대 정책실장은 24일 \"오늘의 고금리·고물가·고환율은 한국경제가 새로운 차원으로 도약하는 과정에서 불가피하게 수반되는 성공의 비용\"이라고 했다.",
-      "김 실장은 이날 저녁 페이스북에 글을 올려 \"금년 한국 경제는 물가상승분을 포함한 명목성장률이 10%에 육박하는 국면에 진입하고 있다.",
-      "반도체·AI 분야의 기업실적 폭발이 교역조건을 개선하고 수출단가를 끌어올리면서 기업이익, 임금, 자산가격이 동반 상승하는 흐름."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n38f2771b",
+    "id": "n77784892",
     "category": "사회",
     "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260524/133982648/1",
-    "title": "이재명 대통령, 일베 폐쇄 및 징벌배상 등 강력 조치 검토 지시",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260524/133984029/2",
+    "title": "[사설]‘불법 예산’ 관저 이전 김대기 구속… 파행은 이미 그때부터",
     "summary": [
-      "이재명 대통령은 24일 노무현 전 대통령 조롱 논란이 불거진 극우 성향 온라인 커뮤니티 ‘일간베스트 저장소’(일베)에 대해 사이트 폐쇄와 징벌배상, 과징금 등 필요한 조치 검토를 국무회의에서 지시하겠다고 밝혔다.",
-      "이 대통령이 특정 사이트 폐쇄를 언급한 것은 처음이다.",
-      "최근 스타벅스코리아의 ‘탱크 데이’ 등 5·18민주화운동과 세월호 참사에 대한 희화화 논란이 이어지자 정부 차원의 혐오, 차별, 조롱 표현 규제에 나선 것으로 풀이된다.6·3 지방."
+      "윤석열 정부 대통령 관저 이전 과정에서 불법으로 예산을 전용한 혐의로 김대기 전 대통령비서실장과 윤재순 전 총무비서관이 22일 구속됐다.",
+      "이들은 관저 이전 공사를 담당한 업체 21그램에 공사비를 지급하기 위해 그 업무와 무관한 행정안전부에서 약 28억 원의 예산을 불법으로 가져다 쓴 혐의를 받고 있다.",
+      "윤 전 대통령 당선 직후인 2022년 3월부터 본격화된 한남동 관저 이전은 최고 보안시설인 대통령 관저를 고치는 작업이었다."
     ],
     "chips": [
-      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "ne281de3c",
+    "id": "n4814bf7b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260524/133984027/2",
+    "title": "[사설]일자리 시장 진입조차 못 하는 ‘장백청’ 22년 만에 최대",
+    "summary": [
+      "회복세를 보이는 고용 지표 뒤에 가려진 ‘장기 실업’의 그림자가 짙어지고 있다.",
+      "구직 기간이 6개월을 넘긴 장기 실업자는 지난달 10만8000명으로, 1년 전보다 3만 명이나 늘었다.",
+      "특히 전체 실업자에서 장기 실업자가 차지하는 비중은 12.7%로, 2004년 이후 22년 만에 최고치로 치솟았다."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n2bffa884",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260524/133984011/2",
+    "title": "[김승련 칼럼]귀에 대고 달콤한 소리만 하는 정치",
+    "summary": [
+      "십수 년 전 미국에선 보스턴에서 태어난 C 학점 학생과 중국 상하이에서 태어난 A 학점 학생 가운데 어느 쪽의 삶이 더 나은지 묻던 때가 있었다.",
+      "1970년생 학생끼리 비교했을 때 ‘보스턴 C 학점이 낫다’는 응답에 이견이 없었다.",
+      "하지만 2000년생이라면 이야기가 달라진다."
+    ],
+    "chips": [
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n4b7dd579",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524051000007",
-    "title": "테니스 세계 15위 코스튜크, 프랑스오픈 1회전 통과",
-    "summary": [
-      "(서울=연합뉴스) 김동한 기자 = 마르타 코스튜크(15위·우크라이나)가 프랑스오픈 테니스 대회(총상금 6천172만3천유로·약 1천84억2천만원)..."
-    ],
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524052100071",
+    "title": "[속보] 트럼프, 이란과 협상 \"질서있고 건설적으로 진행중\"",
+    "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n99bee84b",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260524_0003642626",
-    "title": "선거운동 시작 후 첫 주말, 정원오-오세훈 GTX·행당7구역 설전 [뉴시스Pic]",
-    "summary": [
-      "[서울=뉴시스] 권창회 기자 = 정원오 더불어민주당 서울시장 후보와 오세훈 국민의힘 서울시장 후보가 연휴에도 GTX 삼성역 철근 누락과 재개발·재건축 문제를 두고 설전을 벌였다.",
-      "정 후보는 24일 광진구 어린이대공원 유세에서 GTX 삼성역 철근 누락 사태를 거론, \"현직 시장이 시장 또 하겠다고 나와 모든 시민이 걱정하는데 10일이 지났는데도 불구하고 현장에 가보지도 않고 있다\"고 했다.",
-      "그는 \"(오 후보가) 안전에 전혀 관심이 없다는 것\"이라."
-    ],
-    "chips": [
-      "#재건축",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4faedb17",
+    "id": "ndd336f25",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524050800109",
-    "title": "벨라루스 대통령, 마크롱과 전화…\"EU와 관계 논의\"",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524048751009",
+    "title": "\"트럼프, 네타냐후에 '이란 핵프로그램 완전 해체' 확약\"(종합)",
     "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 알렉산드르 루카셴코 벨라루스 대통령이 24일(현지시간) 에마뉘엘 마크롱 프랑스 대통령과 전화 통화로 현안을 ..."
+      "(서울=연합뉴스) 강훈상 기자 = 도널드 트럼프 미국 대통령이 23일(현지시간) 베냐민 네타냐후 이스라엘 총리에게 이란의 핵프로그램을 '완전히'..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n49f98e56",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260524_0003642619",
-    "title": "[6·3합천] 김윤철 상대 후보 공개적인 질문에 반박자료 제출…네거티브 공방",
-    "summary": [
-      "[합천=뉴시스] 서희원 기자 = 경남 합천군수 선거에 출마한 국민의힘 류순철 후보와 무소속 김윤철 후보 간 네거티브 공방이 6·3 지방선거를 앞두고 가열되고 있다.",
-      "치열한 양자 대결 구도로 경쟁을 벌이고 있는 가운데 국민의힘 류순철 후보가 24일 기자화견을 통해 공개적인 질문을 하자 이에 대해 무소속 김윤철 후보가 즉각 반박자료를 냈다.",
-      "현 군수인 무소속 김윤철 군수 후보는 반박자료를 통해 \"상대 후보에게 정중히 되묻고 싶다\"며 \"지금이라도 흑."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne1ff7297",
+    "id": "n86c16efb",
     "category": "사회",
     "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/national/incident/2026/05/24/MATLBTUSABGDHGJL74Q7GU2CFQ/",
-    "title": "조국 유세 현장서 선거사무원·경찰 폭행한 40대 유튜버 검거",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/2026/05/24/STO2D6AQ2FGI5GFQSLIF5G5AP4/",
+    "title": "유모차 끄는 홍상수·편안한 차림 김민희…목격담 또 나왔다",
     "summary": [
-      "조국 유세 현장서 선거사무원·경찰 폭행한 40대 유튜버 검거."
+      "유모차 끄는 홍상수·편안한 차림 김민희…목격담 또 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d734d60",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524052000071",
+    "title": "[속보] 트럼프 \"對이란협상 대표들에 합의 서두르지 말라 지시\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee465298",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260524/133984018/2",
+    "title": "수학·과학 외면하는 고교 교육[횡설수설/박중현]",
+    "summary": [
+      "인도공과대(IIT) 같은 최상위권 공대 진학을 원하는 인도 고교생들이 11, 12학년(한국의 고2, 고3에 해당) 때 집중적으로 배우는 과목이 미적분이다.",
+      "11학년에 미적분 기초를 시작해 12학년에는 수학과목 평가 비중의 40∼45%가 미적분 등 고등수학이다.",
+      "미국 빅테크 최고경영자(CEO)와 핵심 엔지니어 중에는 인도인들이 넘쳐난다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n99ad0e7e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/24/G43TMMBQHA3GKNRXMI3DANZZGI/",
+    "title": "허니컷, 곤잘레스, 터너, 이디어, 젠슨 여기에 폰세 와이스까지...한화의 정성, 낭만 한도 초과 [대전 현장]",
+    "summary": [
+      "[대전=스포츠조선 김용 기자] \"형님~\" 어떻게 이 축하 영상들을 다 받았을까.",
+      "한화 이글스의 정성이 '괴물' 류현진을 웃게 했다.",
+      "류현진은 24일 대전한화생명볼파크에서 열린 두산 베어스와의 3연전 마지막 경기에 선발 등판, 7이닝 2실점 호투를 하며 팀의 5대2 승리를 이끌었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n01fcba60",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/24/MZSGEOBSGQ3GEOJYGNSTIMRZMY/",
+    "title": "홍진경, 몸무게 강박 고백 “살로 거절당한 기억..죽을 때까지 시달릴 듯”",
+    "summary": [
+      "홍진경, 몸무게 강박 고백 “살로 거절당한 기억..죽을 때까지 시달릴 듯”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n422c5f62",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260524044600063",
+    "title": "세종시장 후보 토론서 '해수부 부산이전·조작기소 특검' 난타전",
+    "summary": [
+      "(세종=연합뉴스) 양영석 기자 = 6·3 지방선거를 열흘 앞두고 24일 진행된 마지막 TV 토론회에서 세종시장 여야 후보들이 해양수산부 부산 이..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nc0afce09",
+    "id": "nbac4e7ee",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260524_0003642617",
+    "title": "\"트럼프, 네타냐후와 통화서 '이란 핵프로그램 완전 해체' 약속\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 도널드 트럼프 미국 대통령은 베냐민 네타냐후 이스라엘 총리에게 이란 핵 프로그램의 '완전 해체'를 약속했다고 타임스오브이스라엘(TOI)이 24일(현지 시간) 보도했다.",
+      "매체는 이스라엘 고위 관리를 인용해 이같이 전했다.",
+      "이 관리는 트럼프 대통령이 전날 밤 네타냐후 총리와 통화에서 \"최종 합의는 이란의 핵 프로그램을 완전히 해체하는 방향이 될 것\"이라고 설명했다고 전했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n56acc382",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "29분 전",
+    "url": "https://www.asiae.co.kr/article/2026052422593223413",
+    "title": "김용범 \"고금리·고물가·고환율은 성공비용, 위기전조 아냐\"",
+    "summary": [
+      "김용범 청와대 정책실장은 24일 \"오늘의 고금리·고물가·고환율은 한국경제가 새로운 차원으로 도약하는 과정에서 불가피하게 수반되는 성공의 비용\"이라면서 \"위기의 전조가 아니라 도약의 마찰음\"이라고 강조했다.",
+      "부동산에 대해서는 공급 확대로는 충분치 않다면서 \"시장보다 더 빠르고 강하게 움직여야 한다\"는 뜻을 밝혔다.",
+      "김 실장은 이날 자신의 페이스북에 '성공의 비용'이라는 제목의 글에서 \"경제 전반의 가격체계가 한."
+    ],
+    "chips": [
+      "#부동산",
+      "#금리",
+      "#환율",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n57df8a02",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "35분 전",
+    "url": "https://www.asiae.co.kr/article/2026052422533319968",
+    "title": "IRGC \"24시간 동안 호르무즈에서 33척 선박 통행 허가\"",
+    "summary": [
+      "미국과 이란이 종전 협상 체결에 근접했다는 보도가 나오는 가운데 이란 이슬람혁명수비대(IRGC)가 호르무즈 해협에서 33척의 선박 통행을 허가했다.",
+      "24일(현지시간) 알자지라에 따르면 IRGC 해군은 \"24시간 동안 호르무즈 해협을 통해 최소 33척의 선박의 통행을 허가했다\"고 밝혔다.",
+      "해당 선박에는 유조선, 컨테이너선 및 기타 상업용 선박이 포함됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2eee404a",
     "category": "스포츠",
-    "source": "아시아경제",
-    "time": "27분 전",
-    "url": "https://www.asiae.co.kr/article/2026052422025507788",
-    "title": "주광덕·양향자, 남양주서 ‘원팀’ 선언…“5대 핵심사업 자족도시 대도약”",
+    "source": "머니투데이",
+    "time": "49분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/24/2026052420200064964",
+    "title": "'9년을 기다린 포효' 삼성 양창섭, 데뷔 첫 9이닝 완봉승! 33년 만의 구단 역사도 소환했다",
     "summary": [
-      "국민의힘 주광덕 남양주시장 후보와 양향자 경기도지사 후보가 경기 동북부 발전을 위해 손을 잡고 '원팀'을 선언했다.",
-      "두 후보는 24일 오후 6시 남양주에서 '경기 동북부 도약을 위한 공동약속'을 체결하고, 당원 및 시민들이 대거 참석한 가운데 압도적 승리를 위한 합동 집중유세를 펼쳤다.",
-      "이날 집중유세 현장에는 김선교 경기도당위원장, 조광한 국민의힘 최고위원, 유낙준(남양주갑)·조성대(남양주을) 당협위원장 등이 총출."
+      "삼성 라이온즈 우완 투수 양창섭(29)이 데뷔 9년 만에 고교 시절 모습을 재현하며 33년 만의 구단 역사도 소환했다.",
+      "양창섭은 24일 부산 사직야구장에서 열린 2026 신한 SOL KBO리그 정규시즌 롯데 자이언츠와 방문경기에 선발 등판해 9이닝 1피안타 무사사구 6탈삼진 무실점으로 삼성의 10-0 완승을 이끌었다.",
+      "올해 KBO 리그 두 번째 완봉승이다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n6e227794",
+    "id": "n47be57cc",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "39분 전",
-    "url": "https://www.asiae.co.kr/article/2026052421503800034",
-    "title": "이동환 고양시장 후보, 부처님오신날 봉축…덕양구 일대서 ‘집중유세’",
+    "source": "한국경제",
+    "time": "56분 전",
+    "url": "https://www.hankyung.com/article/2026052245716",
+    "title": "코스닥의 시간 오나…정책 기대·수급 폭발에 성장주 '들썩'",
     "summary": [
-      "이동환 고양시장 후보가 불기 2570년 부처님오신날이자 주말인 24일 덕양구 삼송동 일대에서 대규모 집중유세를 펼치며 주말 표심 잡기에 총력을 기울였다.",
-      "이동환 후보는 이날 오전 관내 주요 사찰에서 거행된 '부처님오신날'을 봉축하는 것으로 하루 일정을 시작했다.",
-      "이 후보는 지축동 흥국사 법요식에서 관불의식에 직접 참석하며 불자와 지역 주민들과 따뜻한 인사를 나누고 부처님의 자비와 상생의 정신을 되새겼다."
+      "코스닥의 시간 오나…정책 기대·수급 폭발에 성장주 '들썩'."
     ],
     "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
-    "id": "n43d75cd5",
+    "id": "n9913ecfa",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524050400052",
-    "title": "\"드라마 속 한 장면\"…K-불꽃쇼 함안낙화놀이에 5천800여명 환호",
+    "source": "뉴시스",
+    "time": "58분 전",
+    "url": "https://www.newsis.com/view/NISX20260524_0003642573",
+    "title": "'애둘 맘' 박한별, '관리끝판왕' 자태 자랑",
     "summary": [
-      "(함안=연합뉴스) 박영민 기자 = \"드라마의 한 장면 같아요.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb42d8b32",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260524042951009",
-    "title": "이란, '핵문제·호르무즈' 美 언론 보도와 이견(종합)",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 미국과 이란이 종전을 위한 양해각서(MOU) 체결에 근접했다는 보도가 양측에서 모두 나오지만 핵심 쟁점인 이란..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb17090e3",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "42분 전",
-    "url": "https://www.asiae.co.kr/article/2026052421473192484",
-    "title": "민경선 고양시장 후보, 부처님오신날 \"소통 통한 평안·화합 기원\"",
-    "summary": [
-      "더불어민주당 민경선 고양시장 후보는 불기 2570년(2026년) 부처님오신날을 맞아 고양시 곳곳의 사찰을 방문하고 봉축법요식에 참석했다.",
-      "오전 10시 길상사를 시작으로 여래사, 원각사, 금륜사 등 4곳의 사찰을 찾아 신도들과 인사를 나누고, 부처님 탄생을 축하하는 축사도 전했다.",
-      "스님들의 봉축사를 경청한 후에는 소망을 담아 매단 연꽃등 아래서 '멈춘 고양을 다시 뛰게' 만드는 지혜롭고 역량 있는 시장이 될 수 있길 기원하."
+      "[서울=뉴시스] 남정현 기자 = 배우 박한별이 여전한 미모를 자랑했다.",
+      "24일 박한별은 소셜미디어에 \"하얗게 불태웠다\"라는 글과 함께 태국 치앙마이에서 찍은 사진들을 공개했다.",
+      "사진 속 박한별은 검은색 수영복을 입고 수영장에서 여유로운 시간을 보내고 있다."
     ],
     "chips": [
       "#뉴스"
@@ -642,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
