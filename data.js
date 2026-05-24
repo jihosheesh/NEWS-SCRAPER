@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-24 17:20:12
+// 마지막 업데이트: 2026-05-24 18:18:46
 window.NEWS_DB = [
   {
     "id": "nbd4d057c",
     "category": "IT",
     "source": "더퍼블릭",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YWUNrdU1JQmM2Z25uQXFDR1BvYzB6dG5NcG4xVFRsMGt4Q0dOQTFEM244dzJBRXhOSzVHUnRyeUhIcjd5TDk4WkpvcTg2cHdqd1N5dF9rVVVkT3h1ZUNtc1JDcXpLZkloZzRv0gFvQVVfeXFMUGlWelYyb2o4aUU0RDBYbG9QNkZEVzNCWWh1Y05ERkV2Q2ZDejVQNndBaGw2SVRuU25fSndIdlBNYUNzR2tFWC1YZ2syOUtIbTl3M3lTUUN1Nm9tbTJIVlFfZVpGQk5OVm9kMWNFZDdz?oc=5",
     "title": "한국청년회의소, ‘JCI 스케일업 펀드 1호’ 결성…벤처·유니콘 육성 나선다",
     "summary": [
@@ -341,32 +341,120 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n043b1fc3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/25/MQ4DIMRRGRSWINRSMQZWGN3GMY/",
-    "title": "부처님 오신날, 데뷔 첫 완봉승...불굴의 오뚜기, 그 뒤에 '내조의 여왕' 있었다",
+    "id": "nd73e9bb0",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/25/2026052502572739712",
+    "title": "김지호 \"박성광, 스타 소속사 가더니 스타병\"…동기들 갈등 폭로",
     "summary": [
-      "[스포츠조선 정현석 기자]대체 선발의 안착과 성공.",
-      "출격 일자가 들쑥날쑥해 컨디션 맞추기가 어렵다.",
-      "기존 선발에 비해 벤치도 덜 관대하다."
+      "박성광이 대형 소속사 이적 후 '스타병'에 걸렸다는 동기들의 폭로에 진땀을 흘렸다.",
+      "24일 방영된 SBS '미운 우리 새끼' 496회에서는 박성광이 마흔파이브 재결합을 위해 허경환, 박영진, 김지호와 만난 가운데 과거 출연료와 스케줄 문제로 쌓였던 갈등이 다시 수면 위로 떠 올랐다.",
+      "이날 허경환은 과거 마흔파이브 활동 당시를 떠올리며 \"그때 성광이가 문제였는지 소속사의 문제였는지 모르겠다\"고 운을 뗐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncce4a17c",
+    "id": "ncba5ad8b",
     "category": "사회",
     "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/25/HBSDKNDFGYZGIOJTGJRTOZDFMY/",
-    "title": "백악관 인근 총격 사망 20대, 과거에도 백악관 진입 시도 전력",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/05/25/HKEHSID6M5ELFJ2LPFD2YR4YB4/",
+    "title": "지옥철 9호선에서 배운 리더십: 밀어붙이지 말고 흐름을 설계하라",
     "summary": [
-      "미국 백악관 인근에서 총격을 벌이다 숨진 20대 남성이 지난해부터 비밀경호국(SS)의 관리 대상에 올라 있었던 것으로 드러났다.",
-      "과거에도 백악관 주변 제한 구역에 접근하거나 진입 방법을 물어 경찰과 경호 당국에 여러 차례 제지된 전력이 있었다.",
-      "24일(현지 시각) CNN 등 미국 언론은 전날 워싱턴DC 백악관 인근 검문소에서 비밀경호국 요원의 대응 사격을."
+      "지옥철 9호선에서 배운 리더십: 밀어붙이지 말고 흐름을 설계하라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2bde1717",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/05/24/WMI4SIEVV5FUHGJMNKVKFHXUX4/",
+    "title": "유비·관우·장비의 화려한 데뷔전, 대흥산 기슭의 혈투",
+    "summary": [
+      "유비·관우·장비의 화려한 데뷔전, 대흥산 기슭의 혈투."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd42eb3c3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/05/25/SWADI2W6FVFSJNNGWC6HWT2B7I/",
+    "title": "나치·소련과 타협하지 않은 쿠벨리크…미국에서 ‘신세계’ 발견",
+    "summary": [
+      "나치·소련과 타협하지 않은 쿠벨리크…미국에서 ‘신세계’ 발견."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n58008f3e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/05/25/JU2ZROE27ZHFPPTOF5CHZLLBLA/",
+    "title": "통증은 발바닥에서 시작된다… 발바닥 코어 살리는 운동",
+    "summary": [
+      "통증은 발바닥에서 시작된다… 발바닥 코어 살리는 운동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n96d9f35c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260525_0003642651",
+    "title": "이란, 오만과 호르무즈 해협의 '자유 항행' 재개 논의",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 사이드 바드르 빈 하마드 알부사이디 오만 외무장관과 이란 측 대표단이 24일(현지 시간) 호르무즈 해협 항행 자유를 재개하는 방안에 대해 논의했다고 타임즈오브오만이 보도했다.",
+      "보도에 따르면 알부사이디 장관은 이날 오만을 방문 중인 카젬 가리바바디 이란 외무차관으로부터 아바스 아라그치 이란 외무장관의 메시지를 구두로 전달받았다.",
+      "매체는 메시지에 \"파키스탄의 중재 아래 진행 중인 이란·미국 간 대화와, 협상 성공을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c178036",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "37분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260525/133984657/1",
+    "title": "백악관, 이란 전쟁 끝나면 “1~2개월 내 전세계 정유시설, 원유 확보”",
+    "summary": [
+      "케빈 해싯 백악관 국가경제위원장은 24일(현지시간) 이란과의 전쟁이 끝나고 1~2개월 내에 전 세계에 필요한 원유가 충분히 공급될 것이라고 밝혔다.",
+      "그는 이날 CBS 방송의 ‘페이스더네이션’ 프로그램에 출연해 미국과 이란의 종전 합의에 대해 언급하며 핵심은 “(호르무즈) 해협이 다시 개방되면 유조선들이 돌아가기 시작할 것이고, 거의 즉시 정유시설들에 원유를 다시 채워 넣게 된다는 점”이라고 밝혔다.",
+      "그러면서 “유조선은 하루에 약 300해리(55."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "n18e5140f",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "37분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/25/2026052501252540631",
+    "title": "\"나 때문에 망했다\" 박성광, 22기 '마흔파이브' 동기들 앞 사과",
+    "summary": [
+      "박성광이 '마흔파이브' 재결합을 위해 22기 개그맨 동기들을 불러 모았지만 과거 활동 중 불거졌던 갈등이 다시 소환됐다.",
+      "24일 방영된 SBS '미운 우리 새끼' 496회에서는 박성광이 허경환, 박영진, 김지호와 '마흔파이브' 합체를 위한 자리를 마련했다.",
+      "이날 박성광은 '마흔파이브 데뷔 20주년'이라는 현수막까지 걸고 동기들을 초대해 \"내가 그때 미안했다."
     ],
     "chips": [
       "#뉴스"
@@ -376,7 +464,7 @@ window.NEWS_DB = [
     "id": "n2747fd4f",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260525000900071",
     "title": "美국방, 육사졸업식서 \"여러분들 손 묶지않겠다\" 현장 재량 강조",
     "summary": [
@@ -387,25 +475,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5bcf7446",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260525_0003642650",
-    "title": "백악관, 이란 전쟁 끝나면 \"1~2개월 내 전세계 정유시설, 원유 확보\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 케빈 해싯 백악관 국가경제위원장은 24일(현지시간) 이란과의 전쟁이 끝나고 1~2개월 내에 전 세계에 필요한 원유가 충분히 공급될 것이라고 밝혔다.",
-      "그는 이날 CBS 방송의 '페이스더네이션' 프로그램에 출연해 미국과 이란의 종전 합의에 대해 언급하며 핵심은 \"(호르무즈) 해협이 다시 개방되면 유조선들이 돌아가기 시작할 것이고, 거의 즉시 정유시설들에 원유를 다시 채워 넣게 된다는 점\"이라고 밝혔다."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
     "id": "ndf683103",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260525000800091",
     "title": "\"99년식 시빅 타다가 테슬라 산듯\"…캐나다 해군, 韓잠수함 호평",
     "summary": [
@@ -419,7 +492,7 @@ window.NEWS_DB = [
     "id": "nd7eaa126",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/25/2026052500431990531",
     "title": "우와 '꽃미남' 스모 선수 등장에 \"모델 해라\" 팬들 들썩... 188cm·105kg '8등신' 완벽 비율에 \"완전 아이돌\"",
     "summary": [
@@ -432,25 +505,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd6146cca",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "34분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/24/MQ3WIYRRHAZTSMDBMQYTEY3GGA/",
-    "title": "'9회 무사만루 위기→무실점 세이브' 류현진 200승 지키고 포효했다…\"대기록 동행할 수 있어서 영광\" [오!쎈 대전]",
-    "summary": [
-      "[OSEN=대전, 조은혜 기자] 프로야구 한화 이글스 박상원이 637일 만의 세이브로 류현진의 한미 통산 200승을 완성했다.김경문 감독이 이끄는 한화는 24일 대전 한화생명 볼파크에서 열린 두산과의 홈경기에서 5-2로 승리했다.",
-      "이날 승리로 두산전을 모두 쓸어담은 한화는 3연승으로 시즌 전적 23승24패를 만들고 단독 5위로 올라섰다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n983e239c",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/25/2026052420395577462",
     "title": "'3000억 벌고 복귀전' 맥그리거 '퇴물 논란', 45세 김동현과 스파링→\"너무 엉성한데...\" 굴욕 비판 세례 '우수수'",
     "summary": [
@@ -466,7 +524,7 @@ window.NEWS_DB = [
     "id": "n8857c2aa",
     "category": "사회",
     "source": "동아일보",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260525/133983979/2",
     "title": "서로 다른 언어로 하나의 이야기… 아비뇽에 울릴 ‘작별하지 않는다’",
     "summary": [
@@ -482,7 +540,7 @@ window.NEWS_DB = [
     "id": "naf3c3632",
     "category": "사회",
     "source": "동아일보",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260525/133983975/2",
     "title": "‘잡음’을 재료삼아, 진동으로 존재 연결",
     "summary": [
@@ -498,7 +556,7 @@ window.NEWS_DB = [
     "id": "n994b29c0",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260525/133983973/2",
     "title": "루마니아 문지우 감독, ‘피오르’로 생애 두 번째 황금종려상",
     "summary": [
@@ -511,26 +569,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n96c3b9e8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "40분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260525/133983971/2",
-    "title": "‘박경리 문학 100년’ 학술대회, ‘토지’ 배경 하동서 연다",
-    "summary": [
-      "박경리 작가(1926∼2008·사진) 탄생 100주년을 맞아 소설 ‘토지’의 주요 배경인 경남 하동에서 기념 학술대회 ‘박경리 문학 100년: 삶, 작품, 기억의 확장’이 열린다.",
-      "29, 30일 개최되는 이번 학술대회에서는 박경리 문학 100년의 연구 성과를 점검하는 한편, 여성 서사와 해외 연구 동향 등 다양한 논의를 통해 문학의 현재와 미래에 대한 가능성을 모색한다.",
-      "박 작가는 1960, 70년대 발표한 장편소설 ‘시장과 전장’, ‘김약국의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nc6738990",
     "category": "IT",
     "source": "테크M",
-    "time": "48분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152111",
     "title": "외국인에 3040 남성까지...ASL 결승, 킨텍스서 콘텐츠 저력 입증",
     "summary": [
@@ -544,7 +586,7 @@ window.NEWS_DB = [
     "id": "n3ce29472",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "57분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260525000600072",
     "title": "\"이란 더 대담해질 것…\" 협상타결 임박에도 이·걸프국은 불안",
     "summary": [
@@ -555,42 +597,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1c77458c",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/25/2026052500113194132",
-    "title": "\"어머나\" 스위프트, 남친 전광판에 뜨자 \"얼굴 가리고 웃음\"... 그러거나 말거나 'NFL 스타' 켈리, 맥주 먹고 '딥슬립'",
-    "summary": [
-      "'팝스타' 테일러 스위프트(37)가 미국 프로농구(NBA) 경기장 대형 전광판에 잡힌 약혼자 트래비스 켈시(37)의 돌발 행동에 얼굴을 붉혔다.",
-      "영국 '더선'은 24일(현지시간) \"스위프트와 켈시가 NBA 경기장을 찾은 가운데, 켈시가 맥주를 들이켜다 잠드는 모습이 카메라에 포착됐다\"고 전했다.",
-      "둘은 지난 23일 열린 뉴욕 닉스와 클리블랜드 캐벌리어스의 NBA 동부 컨퍼런스 결승 3차전을 관람했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n433ef66d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/25/2026052309332781998",
-    "title": "'경쟁 사실상 끝났다' 윤곽 드러난 홍명보호 '월드컵 베스트11'",
-    "summary": [
-      "2026 국제축구연맹(FIFA) 북중미 월드컵 개막이 보름여 앞으로 다가왔다.",
-      "이미 26명의 최종 엔트리를 발표한 홍명보호는 국내 출정식 없이 출국길에 올라 미국 솔트레이크시티에서 고지대 적응에 한창이다.",
-      "월드컵 개막이 다가오면서 대한민국 축구 국가대표팀 베스트11에 대한 관심도도 커지고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nbe2474f7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260522_0003641593",
     "title": "제약사 특성살린 사회공헌…\"상생으로 돌아온다\"[같이의 가치]",
     "summary": [
@@ -607,7 +617,7 @@ window.NEWS_DB = [
     "id": "na3a001e3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260525_0003642648",
     "title": "네타냐후 \"이란, 핵무기 보유하지 못할 것\"(종합)",
     "summary": [
@@ -619,21 +629,6 @@ window.NEWS_DB = [
       "#정책",
       "#정치"
     ]
-  },
-  {
-    "id": "nbf156051",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525000500009",
-    "title": "아르헨, AI기반 국가정책 예측시스템 추진…\"국민감시 우려\"논란",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나 정부가 인공지능(AI)을 활용해 사회 문제와 정책 효과를 예측·분석하는 '사회 디지털트..."
-    ],
-    "chips": [
-      "#AI",
-      "#정책"
-    ]
   }
 ];
 
@@ -642,8 +637,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "3110건",
+    "trend": "+375%"
   },
   {
     "rank": 2,
