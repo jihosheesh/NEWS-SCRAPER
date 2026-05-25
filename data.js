@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-25 16:02:18
+// 마지막 업데이트: 2026-05-25 17:31:27
 window.NEWS_DB = [
   {
     "id": "nc880125a",
     "category": "스포츠",
     "source": "네이트",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqSm94eVVXRTg1SzRaVVBlQW5TaW9PeDI0ZG5uSXVGcU5oY0dXa0lERmJsblpPWW9KQmtITDVfazMtU1ZGR1lEY3p0X1BDU3pOLUlLa19URnQ1U3lR?oc=5",
     "title": "'류현진 200승'은 이미 선동열·박찬호급…'손·차·박 논쟁'처럼 '선·박·류 논쟁'도 뜨거워진다",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nb1b11af5",
     "category": "IT",
     "source": "이뉴스투데이",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FMjFfTnk2eENrMzRaczgxYlRMamFTQjJiSklfU2h6MHQ2YVJxMWNZRGNWdXFfOGd1WkRXd2hLNHpqUmlhVDQyc09YT3RrTVNUTDJXOUdKSXhfNDhVVEktSFVZZzVmVFlKSFRxNkhtdzTSAXRBVV95cUxNaFF4dWtDVXJKMzRrVl9FX0Y3WEFFeG1DMzc1WjJxQlp0X3JRSTcyWDFMeEtUN0VFTjBtVWt3S3FKZzI3MzZnaDZ6SVcxM2NvVzhDaWZlYi1aajlEUWw3c1NaZjlkVm0yV2ZsTTB5YkFaRWhhaQ?oc=5",
     "title": "AI 반도체 전선 넓어진다···엔비디아 CPU, AMD 대만 생태계 추격",
     "summary": [
@@ -28,21 +28,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nd3cf3b1a",
-    "category": "IT",
-    "source": "mstoday.co.kr",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBR3REYWpMQ240c21NaGFNSGNDRENxcm5qWllCcXJpM1dneUhMOXZKLVhaaC0yLWVyLWtsd21IeWd4bXVZTDB2NWE2UnVuZ3RzOXNYUnpLN0RBdlFBaXVBS25wYldvOFpXX2VXcA?oc=5",
-    "title": "엔비디아 깜짝실적…AI 투자 4조弗 간다",
-    "summary": [
-      "엔비디아 깜짝실적…AI 투자 4조弗 간다 mstoday.co.kr."
-    ],
-    "chips": [
-      "#AI",
       "#엔비디아"
     ]
   },
@@ -57,6 +42,22 @@ window.NEWS_DB = [
       "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동 연합뉴스."
     ],
     "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nb1dbef79",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MbU9EamJybnE1Rzh1eUV4UnBJODJnMnltSFNjNzh5Y0VRcmZhSzFJWE5GWkhUbXNyRk5rX0VWYjNuUmR2YnV5X0hmT3dkOWM?oc=5",
+    "title": "[종합] 엔비디아가 다시 증명한 AI 반도체 수요…외신 \"둔화 우려 낮췄다\"",
+    "summary": [
+      "[종합] 엔비디아가 다시 증명한 AI 반도체 수요…외신 \"둔화 우려 낮췄다\" v.daum.net."
+    ],
+    "chips": [
+      "#AI",
       "#반도체",
       "#엔비디아"
     ]
@@ -167,14 +168,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n75c23649",
+    "id": "n64476ff1",
     "category": "IT",
-    "source": "한국방송뉴스",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "source": "머니투데이",
+    "time": "36일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#스타트업"
@@ -312,127 +313,287 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb28615fe",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526000800009",
-    "title": "이란 안보수장 \"전장에서도 외교에서도 후퇴는 없다\"",
+    "id": "ndb870563",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/26/GE3WKNDGHFSTGMJWGRTDINZWMM/",
+    "title": "국대 치어리더 차영현,’미모도 국대’ [O! SPORTS 숏폼]",
     "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 이란 최고국가안보회의의 모하마드 바게르 졸가드르 사무총장은 25일(현지시간) 미국에 대한 저항과 국민적 단합을..."
+      "[OSEN=잠실, 이대선 기자] 24일 서울 잠실야구장에서 2026 신한 SOL KBO리그 LG 트윈스와 키움 히어로즈의 경기가 열렸다.LG 치어리더 차영현이 응원을 하고 있다.",
+      "2026.05.24 /sunday@osen.co.kr."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ncb0b9300",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/05/26/GZRDKOBQMRQWGNJXMJRTKMRYMQ/",
+    "title": "타율 .118 \"김하성 포기하자\" 美 매체 혹평, 그런데 정작 지적한 건 타격이 아니었다",
+    "summary": [
+      "[스포츠조선 박상경 기자] 당연한 지적이기에 더 뼈아프다.",
+      "김하성(애틀랜타 브레이브스)의 부진을 우려하는 목소리가 높아지고 있다.",
+      "지난 13일(이하 한국시각) 시카고 컵스전에서 빅리그 콜업된 김하성은 25일 현재 타율 0.118(34타수 4안타)에 그치고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9095fc51",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/05/26/KKUVN7SQ2FBD3KA7NZUJLE324Y/",
-    "title": "서울·대구·충남… 격전지 7~8곳 됐다",
-    "summary": [
-      "서울·대구·충남… 격전지 7~8곳 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf16628b9",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/05/26/QO47XVRIYZGFRB4RW2JUPB6TNM/",
-    "title": "AI 시대… ‘고학력이 취업 유리’ 이젠 옛말",
-    "summary": [
-      "AI 시대… ‘고학력이 취업 유리’ 이젠 옛말."
-    ],
-    "chips": [
-      "#AI",
-      "#취업"
-    ]
-  },
-  {
-    "id": "n1239ca90",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/05/26/R7AEYTY7J5BVTNQOBOGJD2RYXY/",
-    "title": "4년 사귄 커플의 파혼사유, 성격 차이 아닌 ‘탄핵 찬반’",
-    "summary": [
-      "4년 사귄 커플의 파혼사유, 성격 차이 아닌 ‘탄핵 찬반’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n645ff147",
+    "id": "n54c0f80e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260526_0003643162",
-    "title": "UAE 민간 업체들, 이란 혁명수비대에 중국산 첨단 위성 장비 등 판매",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003643165",
+    "title": "이슬람 다섯 기둥 중 하나 ‘성지 순례(하지) 시작…25일부터 29일",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 파이낸셜타임스(FT)는 24일 이란 혁명수비대(IRGC)가 아랍에미리트(UAE)에 기반을 둔 조달 네트워크를 이용해 드론 프로그램과 관련된 중국산 첨단 위성 장비를 구매했다고 보도했다.",
-      "미국과 이스라엘의 공습에 대한 보복으로 이란이 UAE를 향해 미사일을 발사했는데 이 과정에서 UAE의 업체들이 IRGC에 공급한 장비가 사용된 것이다.",
-      "유출된 UAE 상업 계약 및 선적 기록에 따르면 이란 IRGC 항공우주군은 2."
+      "[서울=뉴시스] 구자룡 기자 = 사우디아라비아가 이란과 전쟁 중인 가운데 무슬림들이 의무적으로 행해야 하는 이슬람의 다섯 기둥 중 하나인 성지순례(하지)가 25일 메카와 메디나에서 시작됐다.",
+      "올해 하지는 25일부터 29일까지 진행될 예정으로 약 150만 명의 순례객이 참여할 예정이다.",
+      "사우디아라비아 순례 여권 담당관인 살레 빈 사드 알 무라바는 22일 해외에서 사우디아라비아로 입국한 순례객이 150만 명이 넘었다고 말했다고 AP 통신이 25일."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n20300e68",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/international/us/2026/05/26/GTGDQTFSVRD3ZIJJ73XXCPH2NM/",
-    "title": "‘핵 빠진 종전 협상’ 美서 반발 확산",
-    "summary": [
-      "‘핵 빠진 종전 협상’ 美서 반발 확산."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0476caac",
+    "id": "n54da8037",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526000400099",
-    "title": "한배 탔던 대통령·총리 '결별'…세네갈 정국 요동",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526001100072",
+    "title": "WSJ \"미·이란 협상 다시 교착…핵·제재 완화 이견\"",
     "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 서부 아프리카 세네갈에서 대통령이 총리를 해임하고 이틀 뒤 국회의장이 사임하는 등 정국이 요동치고 있..."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국과 이란 간 종전 협상이 핵 프로그램 제한과 제재 완화 문제를 둘러싼 이견으로 다시 교착 상태에 빠졌다고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne3bcf986",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "31분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/05/26/2026052509214478090",
+    "title": "[MT시평/김희성]태양광, '모듈' 아닌 '땅'과 '망'이 중요",
+    "summary": [
+      "지난 15년간 국내 재생에너지 시장의 주인공은 단연 태양광이었다.",
+      "정부가 풍력 등을 곁들인 '균형 잡힌' 목표를 제시해 왔음에도 시장의 선택은 늘 한쪽으로 기울었다.",
+      "매년 신규 설치되는 설비의 90% 이상을 태양광이 차지해 온 것은 결코 우연이 아니다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n4aacb323",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "31분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/05/26/2026052509263237828",
+    "title": "기술 주권 향한 마지막 퍼즐[청계광장/황호원]",
+    "summary": [
+      "한국, 독자 항공기엔진 개발 추진하지만 인증 소홀하면 사업 지연,추가비용 발생 설계 초기부터 철저한 인증절차 거쳐야 학생에게 시험은 어떤 의미인가? 시험이란 학업 과정에서 배운 지식과 능력을 객관적으로 평가받고, 책임있는 역할을 수행할 수 있는 자격과 신뢰를 인정받는 핵심 절차라 할 수 있다.",
+      "이는 의사가 국가시험을 통과해야 비로소 환자를 진료할 수 있고, 건축물도 준공검사를 통과하여야 사용할 수 있으며, 신약 개발도 임상실험 등의 절차를 통하."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n086f1a6f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/26/GEYTGMBTGMZDGYLBGA4GIYTFGA/",
+    "title": "[오피셜]대충격! 레알 없는 스페인 초유의 월드컵, '햄스트링 부상' 야말 'OK'…\"난 편견없어\" 바르셀로나는 8명, 북중미 최종엔트리 공개",
+    "summary": [
+      "[스포츠조선 김성원 기자]스페인의 거함 레알 마드리드가 사라졌다.",
+      "레알 마드리드 선수가 단 한 명도 없는 스페인의 2026년 북중미월드컵 최종엔트리가 공개됐다.",
+      "루이스 데 라 푸엔테 스페인 국가대표팀 감독은 25일(이하 한국시각) 26명의 최종엔트리를 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nabdbe90d",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "46분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/26/2026052519553787424",
+    "title": "\"조센징, 韓 못 믿겠다\" 쉴 새 없이 조롱한 日 회장, 일본 현지서도 '손절'... '충격 폭언' 얼마나 심각했으면",
+    "summary": [
+      "일본 현지에서도 손을 뗄 정도다.",
+      "기타노 다카히로 전 일본올림픽위원회(JOC) 부회장이 한국인 비하 폭언 파문으로 전격 사임한 가운데, JOC 수뇌부마저 유감을 표명했다.",
+      "일본 매체 '데일리'는 최근 하시모토 세이코 JOC 회장이 정례 기자회견을 통해 \"기타노 전 부회장이 사임한 것은 JOC에도 매우 유감스러운 일이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n427a0de8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "50분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/26/MY4GGOLBGFTDEZRXMM3DGY3FMU/",
+    "title": "'이탈리아 사령탑 돌려막기 연쇄이동' HERE WE GO 속보, 전 A대표팀 가투소→라치오 감독..사리 라치오→아탈란타 감독 이적",
+    "summary": [
+      "[스포츠조선 노주환 기자]이탈리아 세리에A에서 사령탑의 연쇄 이동이 시작됐다.",
+      "유럽 이적 전문가 파브리지오 로마노는 마우리시오 사리 감독이 아탈란타와 계약에 합의했다고 25일 전했다.",
+      "또 젠나로 가투소 감독이 라치오와 사령탑으로 2년 계약에 사인할 것이라고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n310a929b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "53분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525055151085",
+    "title": "펄펄 끓는 유럽…영국·프랑스서 가장 더운 5월 기록(종합)",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 유럽이 5월 때 이른 폭염을 겪고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned5a7c6f",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "57분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/26/2026052601121570071",
+    "title": "코인 6년 매달린 무직남, 40만원→1억4천만원 잭팟 후 추락…무슨 일?",
+    "summary": [
+      "코인 투자로 수차례 억대 수익을 냈지만 결국 전 재산을 잃은 고민남이 '무엇이든 물어보살'을 찾았다.",
+      "25일 방영된 KBS Joy '무엇이든 물어보살' 366회에서는 코인 투자로 거액을 잃은 32세 고민남이 출연했다.",
+      "이날 고민남은 \"현재 무직이다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n85d22806",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526000900009",
+    "title": "페루, 리마 등 10여개 지역 폭염 경보…\"늦가을인데 최고 36도\"",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 페루의 수도 리마를 포함한 해안·산악 지역에 평년보다 높은 고온 현상이 발생하면서 당국이 폭염 경..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfa232bb9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003643164",
+    "title": "갈리바프 의장 등 협상단 카타르행…휴전 60일 연장·호르무즈 재개방 최종 조율",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 미국과 이란간 휴전 협상 타결 기대감이 높아지는 가운데 이란 최고 협상단이 합의 도출을 위한 노력 강화의 일환으로 카타르로 향했다고 파이낸셜타임스(FT)가 25일 보도했다.",
+      "FT와 AP 통신 등 외신에 따르면 이란 수석 협상대표인 모하마드 바게르 갈리바프 국회의장 과 아바스 아라그치 외무장관 등은 이날 도하로 향했다.",
+      "갈리바프 의장은 이날 오전 선거에서 276표 중 235표를 얻어 의장에 재당선됐다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n041348ac",
+    "id": "nba076d60",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "21분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/26/2026052515260231267",
-    "title": "'또 의문사' 무려 500kg '번쩍' 22세 월드스타, 부엌에서 숨진 채 발견... \"경찰 조사 착수\"",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260526/133989688/1",
+    "title": "랄랄 4kg 감량 고백에…남편 “둘째 들어선 줄” 돌직구",
     "summary": [
-      "22세 유명 보디빌더가 자택에서 의문의 시신으로 발견돼 현지 경찰이 수사에 착수했다.",
-      "영국 매체 '더선'은 25일(한국시간) \"브라질의 유명 보디빌더이자 피트니스 인플루언서인 가브리엘 간리가 자신의 집 주방에서 숨진 채 발견되어 현지 경찰이 수사에 나섰다\"고 보도했다.",
-      "간리는 지난 23일 오전 브라질 상파울루에 위치한 자택 주방 바닥에 쓰러진 채 그의 친구에게 발견됐다."
+      "유튜버 랄랄이 가족들과 떠난 발리 여행에서 체중을 둘러싼 유쾌한 일상을 공개했다.지난 24일 유튜브 채널 ‘랄랄ralral’에는 ‘발리에서 생긴 일 구독자 이벤트’라는 제목의 영상이 게재됐다.",
+      "해당 영상에는 랄랄이 가족과 함께 발리로 여행을 떠난 모습이 담겼다.영상에서 랄랄은 딸 서빈이를 보며 “서빈이가 8개월 차 때 발리를 한 번 갔다 왔었는데, 저번에는 엄마가 안고 갔었는데 오늘은 이렇게 걸어가지고”라며 어느새 자라 할머니 손을 잡고 걷는."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n77274183",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260526/133989685/1",
+    "title": "‘48세’ 채정안 “발레로 숨은 키 찾아, 건강검진 때마다 커져”",
+    "summary": [
+      "배우 채정안이 취미로 시작한 발레의 효과를 톡톡히 봤다고 전했다.25일 유튜브 채널 ‘짠한형 신동엽’에는 배우 김동욱과 채정안이 게스트로 출연했다.이날 채정안은 실제로 보니 키가 크다는 정호철의 말에 “아직도 자라고 있다”고 말했다.이를 듣던 김동욱은 “190㎝ 조금 안 된다.",
+      "185㎝ 정도”라고 농담을 던졌다.채정안은 “건강검진을 할때마다 키가 조금씩 자란다.",
+      "발레를 해서다”며 발레의 효과를 설명했다.신동엽이 “어깨가 펴지면서”라고 거들자,."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n39446492",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525065951109",
+    "title": "\"외국인들 키이우 떠나야\"…러, 또 보복 공격 위협(종합)",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 러시아가 우크라이나 수도 키이우를 겨냥한 대규모 공습을 시작한다고 25일(현지시간) 러시아 관영 타스 통신이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63123e3b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260525_0003643129",
+    "title": "조용한 목수의 미학…최병훈, 신라호텔·조현화랑서 개인전",
+    "summary": [
+      "[서울=뉴시스] 박현주 미술전문 기자 = 나무와 돌이 서로 기대어 숨을 쉰다.",
+      "가구와 조각, 공예와 철학의 경계를 가로질러온 최병훈의 신작이 서울과 부산에서 공개된다.",
+      "서울 중구 서울신라호텔 아케이드와 부산 해운대 조현화랑은 오는 6월 4일부터 8월 2일까지 최병훈 개인전 ‘Lingering Silence’를 개최한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a1a4885",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260522_0003641422",
+    "title": "통증에 좋다던 '복대'…\"건강에 독 될수도 있어\"",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 70세 A씨는 조금만 걸어도 밀려오는 허리통증에 복대를 차고 생활해왔다.",
+      "복대가 허리를 단단하게 잡아준다는 느낌이 들었기 때문이다.",
+      "통증이 심하면 복대를 더 단단하게 조여 착용했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
     "id": "nf0d6047b",
     "category": "부동산",
     "source": "동아일보",
-    "time": "32분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260525/133988641/2",
     "title": "서울 압구정 ‘9조’ 재건축 문 활짝 열렸다",
     "summary": [
@@ -449,7 +610,7 @@ window.NEWS_DB = [
     "id": "ne10577e9",
     "category": "사회",
     "source": "동아일보",
-    "time": "32분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260525/133988658/2",
     "title": "사기-횡령 등 금융사고 6년간 1조 넘어",
     "summary": [
@@ -462,169 +623,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4afaaa40",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260525/133988656/2",
-    "title": "삼성전자, 중남미-중동-동남아 스마트폰 1위",
-    "summary": [
-      "삼성전자가 올 1분기(1∼3월) 중남미·중동·동남아 등 신흥국 시장에서 스마트폰 점유율 1위를 차지했다.",
-      "글로벌 수요 둔화와 메모리 원가 상승에도 제품 포트폴리오 다변화로 경쟁력을 입증했다는 평가가 나온다.",
-      "25일 시장조사업체 옴디아에 따르면 1분기 중남미 스마트폰 시장은 전년 동기 대비 3% 성장한 3480만 대를 기록했다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n711e5cab",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260525/133988613/2",
-    "title": "삼전닉스 레버리지 상품 내일 출시… 당국 “변동성 주의해야”",
-    "summary": [
-      "국내 ‘반도체 투톱’ 삼성전자와 SK하이닉스의 주가 흐름을 ±2배로 추종하는 단일종목 레버리지 상품 출시를 앞두고 투자자들의 관심이 쏠리고 있다.",
-      "단일종목 레버리지 상품에 투자하기 위해 의무로 이수해야 하는 사전교육 신청자가 10만 명을 넘어서는 등 벌써부터 투자 수요가 몰리는 분위기다.",
-      "금융당국은 주가 변동성이 큰 요즘 증시 상황으로 인해 투자자가 과도한 손해를 볼 가능성이 있다며 신중한 판단을 당부하고 있다."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n74232327",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526000300009",
-    "title": "사우디 메카서 '휴전중' 정기 성지순례 시작…방공망도 배치",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 이슬람 최고 성지인 사우디아라비아 메카와 메디나에서 25일(현지시간) 정기 성지순례(하지)가 공식적으로 시작됐..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nad5a2b30",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526000200071",
-    "title": "\"美법무부, 최근 백악관 인근 총격 '트럼프 암살시도' 규정\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 연방 법무부가 지난 23일(현지시간) 백악관 인근에서 발생한 총격 사건을 도널드 트럼프 미 대통령에 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf5a40b0f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "52분 전",
-    "url": "https://www.newsis.com/view/NISX20260525_0003643136",
-    "title": "김지희 작가, 日 히노마루 위스키와 아트 컬렉션 공개",
-    "summary": [
-      "[서울=뉴시스] 박현주 미술전문 기자 = 김지희 작가가 일본 200년 양조 명가 Kiuchi Brewery의 위스키 브랜드 ‘히노마루(Hinomaru)’와 협업한 하이엔드 위스키 컬렉션 ‘KIM JIHEE Collection’을 대만에서 공식 선보였다.",
-      "'지디 맥주'로 국내에도 알려진 브랜드다.",
-      "이번 컬렉션은 지난 22일 대만 Chief Whisky에서 출시했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb84ba5a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "53분 전",
-    "url": "https://www.newsis.com/view/NISX20260525_0003643157",
-    "title": "英 국방장관 탑승 전투기, 러 ‘전파방해 무방비’ 상태 3시간",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 영국 존 힐리 국방장관이 탑승한 전투기가 러시아의 전파 방해 공격에 무방비 상태에 놓였었다고 더 타임스 등 영국 언론이 25일 보도했다.",
-      "힐리 장관은 에스토니아에서 영국군을 방문하고 귀국중이었으며 이 항공기에는 보호 시스템이 전혀 설치되어 있지 않았다고 신문은 지적했다.",
-      "이 전투기는 러시아 국경 부근을 비행하던 중 신호 교란을 당했으며 배후에는 러시아가 있는 것으로 추정된다고 더 타임스는 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndfde8745",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "55분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/26/2026052516032528829",
-    "title": "'500kg' 죽은 말 밑에 6시간 깔렸던 기수, 끝내 사망... 아내가 발견하자 '창백한 팔' 내밀어 \"난 괜찮아\"",
-    "summary": [
-      "호주의 베테랑 기수 셰인 맥거번(67)이 불의의 승마 사고로 두 다리를 잃은 지 한 달 만에 끝내 숨을 거뒀다.",
-      "영국 '더선'은 지난 24일(한국시간) \"맥거번이 끔찍한 사고 이후 투병하다 혼수상태 속에서 결국 사망했다\"고 보도했다.",
-      "매체에 따르면 사고는 최근 호주 퀸즐랜드 훈련장에서 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n88d221f3",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/26/2026052517454580852",
-    "title": "\"한국도, 베트남도 불렀다\" 하지만 박항서 선택은 '태국'... 67세 나이를 잊은 새로운 도전",
-    "summary": [
-      "베트남 축구의 영웅으로 불리는 박항서 감독(67)이 나이를 잊은 새로운 도전에 나선다.",
-      "박항서 감독의 소속사 디제이매니지먼트 관계자는 25일 스타뉴스와 통화에서 박 감독의 칸차나부리 파워FC(태국) 감독 부임과 관련해 \"오래전부터 (칸차나부리의) 설득이 있었다\"고 전했다.",
-      "이어 소속사 관계자는 \"사전에 계속 이야기를 해온 상태였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nacb292e6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260525_0003642699",
-    "title": "\"첫 조카 고아원 보내냐\"…이혼한 아주버님 자녀 양육 강요받는 워킹맘",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 이혼한 아주버님의 아이를 대신 키우라는 시댁과 남편의 일방적인 요구로 깊은 갈등을 겪고 있는 한 맞벌이 워킹맘의 사연이 온라인상에서 화제를 모으고 있다.",
-      "지난 21일 한 온라인 커뮤니티에는 '시댁에서 조카양육을 권하는데 어떻게 잘 거절할까요?'라는 제목의 글이 게시됐다.",
-      "자신을 38개월 딸을 키우는 워킹맘이라 밝힌 작성자 A씨는 현재 주변의 도움을 받지 못한 채 사내 어린이집을 통해 아이를 키우고 있다고 밝히."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc56def35",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/society/2026/05/25/2026052523293385852",
-    "title": "후진하는 SUV에 보행자 깔려, 70대 사망…\"음주·약물 아냐\"",
-    "summary": [
-      "후진하는 SUV(스포츠유틸리티차)에 70대 보행자가 깔려 사망하는 사고가 발생했다.",
-      "25일 뉴시스는 이날 오후 7시9분쯤 서울 강북구 수유동의 한 골목길에서 후진하다가 70대 남성 B씨를 친 50대 여성 운전자 A씨를 서울 강북경찰서가 교통사고처리 특례법 위반 혐의로 입건했다고 보도했다.",
-      "A씨는 골목길에서 공사 현장 가림막을 맞닥뜨린 후 급하게 후진하다가 운전 미숙으로 사고를 낸 것으로 파악됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8eabe43c",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026052576607",
     "title": "프랑스 '교내 아동학대' 파문…'학교 6곳 중 1곳꼴' 의혹 조사",
     "summary": [
@@ -641,8 +643,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
