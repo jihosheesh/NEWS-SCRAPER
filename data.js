@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-25 17:31:27
+// 마지막 업데이트: 2026-05-25 18:30:18
 window.NEWS_DB = [
   {
     "id": "nc880125a",
     "category": "스포츠",
     "source": "네이트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqSm94eVVXRTg1SzRaVVBlQW5TaW9PeDI0ZG5uSXVGcU5oY0dXa0lERmJsblpPWW9KQmtITDVfazMtU1ZGR1lEY3p0X1BDU3pOLUlLa19URnQ1U3lR?oc=5",
     "title": "'류현진 200승'은 이미 선동열·박찬호급…'손·차·박 논쟁'처럼 '선·박·류 논쟁'도 뜨거워진다",
     "summary": [
@@ -32,6 +32,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd3cf3b1a",
+    "category": "IT",
+    "source": "mstoday.co.kr",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBR3REYWpMQ240c21NaGFNSGNDRENxcm5qWllCcXJpM1dneUhMOXZKLVhaaC0yLWVyLWtsd21IeWd4bXVZTDB2NWE2UnVuZ3RzOXNYUnpLN0RBdlFBaXVBS25wYldvOFpXX2VXcA?oc=5",
+    "title": "엔비디아 깜짝실적…AI 투자 4조弗 간다",
+    "summary": [
+      "엔비디아 깜짝실적…AI 투자 4조弗 간다 mstoday.co.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n160de6c8",
     "category": "IT",
     "source": "연합뉴스",
@@ -42,22 +57,6 @@ window.NEWS_DB = [
       "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동 연합뉴스."
     ],
     "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nb1dbef79",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MbU9EamJybnE1Rzh1eUV4UnBJODJnMnltSFNjNzh5Y0VRcmZhSzFJWE5GWkhUbXNyRk5rX0VWYjNuUmR2YnV5X0hmT3dkOWM?oc=5",
-    "title": "[종합] 엔비디아가 다시 증명한 AI 반도체 수요…외신 \"둔화 우려 낮췄다\"",
-    "summary": [
-      "[종합] 엔비디아가 다시 증명한 AI 반도체 수요…외신 \"둔화 우려 낮췄다\" v.daum.net."
-    ],
-    "chips": [
-      "#AI",
       "#반도체",
       "#엔비디아"
     ]
@@ -313,31 +312,195 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndb870563",
+    "id": "nc0fb913c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/26/2026052422555940772",
+    "title": "\"같이 믿고 버텨주시면...\" LG 캡틴 믿음 옳았다! '오지환-홍창기-신민재' 주간 타율 톱30에 반가운 이름",
+    "summary": [
+      "LG 트윈스 주장 박해민(36)이 극적인 승리 후 팬들을 향한 미안함과 동료들에 대한 믿음을 드러냈다.",
+      "박해민은 지난 24일 잠실 키움 히어로즈전에서 2번 타자 및 중견수로 선발 출장해 9회말 2사 1, 2루에서 우월 3점 홈런으로 LG의 6-4 승리를 이끌었다.",
+      "지난주 LG 소속 타자가 친 유일한 홈런이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n93f64e25",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003643167",
+    "title": "“美-이란, 핵 프로그램·제재 완화 난항으로 협상 교착”-WSJ",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 미국과 이란의 협상 진전으로 휴전 연장 및 호르무즈 해협 재개방에 대한 기대감이 높아지는 듯 했으나 다시 뒷걸음 형세가 나타나고 있다는 분석이다.",
+      "월스트리트저널(WSJ)은 25일 이란 핵 프로그램 및 제재 완화 협상이 난항을 보여 협상이 교착 상태에 빠지는 상황이라고 보도했다.",
+      "중재자들에 따르면 이란과의 전쟁을 종식시키기 위한 협상 진전이 25일 둔화됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6ccbabd5",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/26/GE3WKNDGHFSTGMJWGRTDINZWMM/",
-    "title": "국대 치어리더 차영현,’미모도 국대’ [O! SPORTS 숏폼]",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/26/MRRDENBVMY2TINLGMNRWENTCMQ/",
+    "title": "치어리더 이금주,’수원 단발 여신’ [O! SPORTS 숏폼]",
     "summary": [
-      "[OSEN=잠실, 이대선 기자] 24일 서울 잠실야구장에서 2026 신한 SOL KBO리그 LG 트윈스와 키움 히어로즈의 경기가 열렸다.LG 치어리더 차영현이 응원을 하고 있다.",
-      "2026.05.24 /sunday@osen.co.kr."
+      "[OSEN=수원, 이대선 기자] 22일 수원 KT위즈파크에서 2026 신한 SOL KBO리그 KT 위즈와 NC 다이노스의 경기가 열렸다.치어리더 이금주가 응원을 하고 있다.",
+      "2026.05.22 /sunday@osen.co.kr."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "ncb0b9300",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/05/26/GZRDKOBQMRQWGNJXMJRTKMRYMQ/",
-    "title": "타율 .118 \"김하성 포기하자\" 美 매체 혹평, 그런데 정작 지적한 건 타격이 아니었다",
+    "id": "nca023af1",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/26/2026052602520427105",
+    "title": "조권, '1일 1팩' 관리하는 재미로 산다…김응수 \"인생 고수다\" 맞장구",
     "summary": [
-      "[스포츠조선 박상경 기자] 당연한 지적이기에 더 뼈아프다.",
-      "김하성(애틀랜타 브레이브스)의 부진을 우려하는 목소리가 높아지고 있다.",
-      "지난 13일(이하 한국시각) 시카고 컵스전에서 빅리그 콜업된 김하성은 25일 현재 타율 0.118(34타수 4안타)에 그치고 있다."
+      "조권과 김응수가 남다른 자기관리 루틴을 공개했다.",
+      "25일 방영된 SBS '아니 근데 진짜' 17회에서는 김응수, 김동현, 조권이 출연해 근황을 전했다.",
+      "이날 이수지는 조권을 보며 \"완전 에겐남 스타일이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff1fa414",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526001500072",
+    "title": "멕시코, 이란 월드컵팀 베이스캠프 수용…\"美는 원치 않아\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 클라우디아 셰인바움 멕시코 대통령은 2026 북중미 월드컵 기간 이란 축구 국가대표팀의 멕시코 내 베이스캠프..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n084fad50",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "26분 전",
+    "url": "https://www.asiae.co.kr/article/2026052603040698527",
+    "title": "미-이란, 종전 협상 막판 암초…핵·동결자산 놓고 충돌",
+    "summary": [
+      "미국과 이란의 종전 협상이 막판 암초에 걸렸다.",
+      "양측이 전쟁 중단과 호르무즈 해협 재개방을 위한 양해각서(MOU) 체결을 추진하고 있지만, 핵 프로그램 처리와 동결자산 해제 시점, 호르무즈 해협 통제권 등과 관련해 이견을 좁히지 못하면서다.",
+      "도널드 트럼프 미국 대통령도 \"좋고 의미 있는 합의가 아니면 합의는 없다\"며 속도 조절에 나섰다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n61b176d5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526001600527",
+    "title": "제주도 산지에 호우경보…제주도 7곳 강풍주의보 유지",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 26일 오전 3시를 기해 제주도 산지에 호우경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4655cb5a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525065751071",
+    "title": "내부반발봉착 트럼프 이란에 요구높이나…아브라함협정 '강매'도(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 조준형 박성민 백나리 특파원 = 개전 3개월이 임박한 미국-이란 전쟁이 합의 도출을 앞두고 막판 치열한 신경전 국면을 보내고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb6095cd3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/national/education/2026/05/26/Z6INY4CKPVAQTIKYBK7NILMMTE/",
+    "title": "유튜브는 몇 시간 보는 아이… 책은 왜 10분도 힘들까요",
+    "summary": [
+      "유튜브는 몇 시간 보는 아이… 책은 왜 10분도 힘들까요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncbba57d6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/05/26/7YSX5CGPEJGXFI3DYWMRMWF7UY/",
+    "title": "가르치지 않고 이야기하기… NHK ‘일요 미술관’의 장수 비결",
+    "summary": [
+      "가르치지 않고 이야기하기… NHK ‘일요 미술관’의 장수 비결."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n41c3c319",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "38분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/26/2026052602442594368",
+    "title": "김응수, 38세 조권에 결혼 조언? \"여자 얻으려면 재력 모아야\"",
+    "summary": [
+      "조권이 결혼과 연애 고민을 털어놓자 김응수가 현실적인 조언을 건넸다.",
+      "25일 방영된 SBS '아니 근데 진짜' 17회에서는 김응수, 김동현, 조권이 출연해 근황을 전했다.",
+      "이날 탁재훈은 조권에게 \"이제 결혼할 나이 아니냐."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neac4c6dd",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526001400085",
+    "title": "스웨덴서 자율주행 버스 운행 시작 1시간만에 사고",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 스웨덴 고센버그(예테보리)에서 자율주행 버스가 25일(현지시간) 승객을 태우고 운행을 시작한 지 1시간 만에..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfa2ff4aa",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "52분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/26/2026052602314670911",
+    "title": "김동현 \"정관수술하고 왔더니 임신 테스트기 두 줄…넷째는 아들\"",
+    "summary": [
+      "김동현이 정관수술 직전 넷째를 임신한 비하인드를 공개했다.",
+      "25일 방영된 SBS '아니 근데 진짜' 17회에서는 김응수, 김동현, 조권이 출연해 근황을 전했다.",
+      "이날 김동현은 최근 아내의 넷째 임신 소식을 알리며 출연진들의 축하를 받았다."
     ],
     "chips": [
       "#뉴스"
@@ -347,7 +510,7 @@ window.NEWS_DB = [
     "id": "n54c0f80e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260526_0003643165",
     "title": "이슬람 다섯 기둥 중 하나 ‘성지 순례(하지) 시작…25일부터 29일",
     "summary": [
@@ -360,147 +523,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n54da8037",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526001100072",
-    "title": "WSJ \"미·이란 협상 다시 교착…핵·제재 완화 이견\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국과 이란 간 종전 협상이 핵 프로그램 제한과 제재 완화 문제를 둘러싼 이견으로 다시 교착 상태에 빠졌다고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne3bcf986",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "31분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/26/2026052509214478090",
-    "title": "[MT시평/김희성]태양광, '모듈' 아닌 '땅'과 '망'이 중요",
-    "summary": [
-      "지난 15년간 국내 재생에너지 시장의 주인공은 단연 태양광이었다.",
-      "정부가 풍력 등을 곁들인 '균형 잡힌' 목표를 제시해 왔음에도 시장의 선택은 늘 한쪽으로 기울었다.",
-      "매년 신규 설치되는 설비의 90% 이상을 태양광이 차지해 온 것은 결코 우연이 아니다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n4aacb323",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "31분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/05/26/2026052509263237828",
-    "title": "기술 주권 향한 마지막 퍼즐[청계광장/황호원]",
-    "summary": [
-      "한국, 독자 항공기엔진 개발 추진하지만 인증 소홀하면 사업 지연,추가비용 발생 설계 초기부터 철저한 인증절차 거쳐야 학생에게 시험은 어떤 의미인가? 시험이란 학업 과정에서 배운 지식과 능력을 객관적으로 평가받고, 책임있는 역할을 수행할 수 있는 자격과 신뢰를 인정받는 핵심 절차라 할 수 있다.",
-      "이는 의사가 국가시험을 통과해야 비로소 환자를 진료할 수 있고, 건축물도 준공검사를 통과하여야 사용할 수 있으며, 신약 개발도 임상실험 등의 절차를 통하."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n086f1a6f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/26/GEYTGMBTGMZDGYLBGA4GIYTFGA/",
-    "title": "[오피셜]대충격! 레알 없는 스페인 초유의 월드컵, '햄스트링 부상' 야말 'OK'…\"난 편견없어\" 바르셀로나는 8명, 북중미 최종엔트리 공개",
-    "summary": [
-      "[스포츠조선 김성원 기자]스페인의 거함 레알 마드리드가 사라졌다.",
-      "레알 마드리드 선수가 단 한 명도 없는 스페인의 2026년 북중미월드컵 최종엔트리가 공개됐다.",
-      "루이스 데 라 푸엔테 스페인 국가대표팀 감독은 25일(이하 한국시각) 26명의 최종엔트리를 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nabdbe90d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "46분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/26/2026052519553787424",
-    "title": "\"조센징, 韓 못 믿겠다\" 쉴 새 없이 조롱한 日 회장, 일본 현지서도 '손절'... '충격 폭언' 얼마나 심각했으면",
-    "summary": [
-      "일본 현지에서도 손을 뗄 정도다.",
-      "기타노 다카히로 전 일본올림픽위원회(JOC) 부회장이 한국인 비하 폭언 파문으로 전격 사임한 가운데, JOC 수뇌부마저 유감을 표명했다.",
-      "일본 매체 '데일리'는 최근 하시모토 세이코 JOC 회장이 정례 기자회견을 통해 \"기타노 전 부회장이 사임한 것은 JOC에도 매우 유감스러운 일이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n427a0de8",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "50분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/26/MY4GGOLBGFTDEZRXMM3DGY3FMU/",
-    "title": "'이탈리아 사령탑 돌려막기 연쇄이동' HERE WE GO 속보, 전 A대표팀 가투소→라치오 감독..사리 라치오→아탈란타 감독 이적",
-    "summary": [
-      "[스포츠조선 노주환 기자]이탈리아 세리에A에서 사령탑의 연쇄 이동이 시작됐다.",
-      "유럽 이적 전문가 파브리지오 로마노는 마우리시오 사리 감독이 아탈란타와 계약에 합의했다고 25일 전했다.",
-      "또 젠나로 가투소 감독이 라치오와 사령탑으로 2년 계약에 사인할 것이라고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n310a929b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "53분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525055151085",
-    "title": "펄펄 끓는 유럽…영국·프랑스서 가장 더운 5월 기록(종합)",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 유럽이 5월 때 이른 폭염을 겪고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ned5a7c6f",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "57분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/26/2026052601121570071",
-    "title": "코인 6년 매달린 무직남, 40만원→1억4천만원 잭팟 후 추락…무슨 일?",
-    "summary": [
-      "코인 투자로 수차례 억대 수익을 냈지만 결국 전 재산을 잃은 고민남이 '무엇이든 물어보살'을 찾았다.",
-      "25일 방영된 KBS Joy '무엇이든 물어보살' 366회에서는 코인 투자로 거액을 잃은 32세 고민남이 출연했다.",
-      "이날 고민남은 \"현재 무직이다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n85d22806",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526000900009",
-    "title": "페루, 리마 등 10여개 지역 폭염 경보…\"늦가을인데 최고 36도\"",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 페루의 수도 리마를 포함한 해안·산악 지역에 평년보다 높은 고온 현상이 발생하면서 당국이 폭염 경..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nfa232bb9",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260526_0003643164",
     "title": "갈리바프 의장 등 협상단 카타르행…휴전 60일 연장·호르무즈 재개방 최종 조율",
     "summary": [
@@ -516,7 +542,7 @@ window.NEWS_DB = [
     "id": "nba076d60",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260526/133989688/1",
     "title": "랄랄 4kg 감량 고백에…남편 “둘째 들어선 줄” 돌직구",
     "summary": [
@@ -531,7 +557,7 @@ window.NEWS_DB = [
     "id": "n77274183",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260526/133989685/1",
     "title": "‘48세’ 채정안 “발레로 숨은 키 찾아, 건강검진 때마다 커져”",
     "summary": [
@@ -544,24 +570,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n39446492",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525065951109",
-    "title": "\"외국인들 키이우 떠나야\"…러, 또 보복 공격 위협(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 러시아가 우크라이나 수도 키이우를 겨냥한 대규모 공습을 시작한다고 25일(현지시간) 러시아 관영 타스 통신이..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n63123e3b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260525_0003643129",
     "title": "조용한 목수의 미학…최병훈, 신라호텔·조현화랑서 개인전",
     "summary": [
@@ -574,26 +586,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7a1a4885",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641422",
-    "title": "통증에 좋다던 '복대'…\"건강에 독 될수도 있어\"",
+    "id": "n0ae6e30c",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "2시간 전",
+    "url": "https://www.chosun.com/economy/real_estate/2026/05/26/VXGUHYOIDJGUZKOGR2TMUUCWZQ/",
+    "title": "[알립니다] ‘부동산 트렌드쇼’ 온라인 사전 등록 받습니다",
     "summary": [
-      "[서울=뉴시스]송종호 기자 = 70세 A씨는 조금만 걸어도 밀려오는 허리통증에 복대를 차고 생활해왔다.",
-      "복대가 허리를 단단하게 잡아준다는 느낌이 들었기 때문이다.",
-      "통증이 심하면 복대를 더 단단하게 조여 착용했다."
+      "[알립니다] ‘부동산 트렌드쇼’ 온라인 사전 등록 받습니다."
     ],
     "chips": [
-      "#의료"
+      "#부동산"
     ]
   },
   {
     "id": "nf0d6047b",
     "category": "부동산",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260525/133988641/2",
     "title": "서울 압구정 ‘9조’ 재건축 문 활짝 열렸다",
     "summary": [
@@ -610,7 +620,7 @@ window.NEWS_DB = [
     "id": "ne10577e9",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260525/133988658/2",
     "title": "사기-횡령 등 금융사고 6년간 1조 넘어",
     "summary": [
@@ -621,20 +631,6 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
-  },
-  {
-    "id": "n8eabe43c",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026052576607",
-    "title": "프랑스 '교내 아동학대' 파문…'학교 6곳 중 1곳꼴' 의혹 조사",
-    "summary": [
-      "프랑스 '교내 아동학대' 파문…'학교 6곳 중 1곳꼴' 의혹 조사."
-    ],
-    "chips": [
-      "#교육"
-    ]
   }
 ];
 
@@ -643,20 +639,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "부동산",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
