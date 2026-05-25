@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-25 18:30:18
+// 마지막 업데이트: 2026-05-25 19:30:29
 window.NEWS_DB = [
+  {
+    "id": "n53d73ed0",
+    "category": "IT",
+    "source": "christiandaily.co.kr",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84MTkwOVczNlhEc2VUYzF4WGhVZWdLSUMtVXNTTTdUQVZYbVF2eDBmS3hsLURpeUtkSFJxbnZwYmhRZjZxLVFKUWVacC0xeElweFduMEZYSdIBXEFVX3lxTFBCeXU1ZlM1bURQYjVIMTFCcWpkMjd5MHRacTZ0SWNlbUdCVU83YklLVFZZcjdyV1VUb3poLUlQUVdnamIzS1g5eThsV0FETFdKTEhtM0JMYzJmWTFF?oc=5",
+    "title": "해외 투자기관은 왜 한국 반도체를 다시 보나…삼성전자·SK하이닉스 전망 분석",
+    "summary": [
+      "해외 투자기관은 왜 한국 반도체를 다시 보나…삼성전자·SK하이닉스 전망 분석 christiandaily.co.kr."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
   {
     "id": "nc880125a",
     "category": "스포츠",
     "source": "네이트",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqSm94eVVXRTg1SzRaVVBlQW5TaW9PeDI0ZG5uSXVGcU5oY0dXa0lERmJsblpPWW9KQmtITDVfazMtU1ZGR1lEY3p0X1BDU3pOLUlLa19URnQ1U3lR?oc=5",
     "title": "'류현진 200승'은 이미 선동열·박찬호급…'손·차·박 논쟁'처럼 '선·박·류 논쟁'도 뜨거워진다",
     "summary": [
@@ -19,7 +35,7 @@ window.NEWS_DB = [
     "id": "nb1b11af5",
     "category": "IT",
     "source": "이뉴스투데이",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FMjFfTnk2eENrMzRaczgxYlRMamFTQjJiSklfU2h6MHQ2YVJxMWNZRGNWdXFfOGd1WkRXd2hLNHpqUmlhVDQyc09YT3RrTVNUTDJXOUdKSXhfNDhVVEktSFVZZzVmVFlKSFRxNkhtdzTSAXRBVV95cUxNaFF4dWtDVXJKMzRrVl9FX0Y3WEFFeG1DMzc1WjJxQlp0X3JRSTcyWDFMeEtUN0VFTjBtVWt3S3FKZzI3MzZnaDZ6SVcxM2NvVzhDaWZlYi1aajlEUWw3c1NaZjlkVm0yV2ZsTTB5YkFaRWhhaQ?oc=5",
     "title": "AI 반도체 전선 넓어진다···엔비디아 CPU, AMD 대만 생태계 추격",
     "summary": [
@@ -50,7 +66,7 @@ window.NEWS_DB = [
     "id": "n160de6c8",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EY0t2ZTdqbkNqc0J0NGxKWlZYX1ZlYy1MN2tzYkEzTnJwd0dIUExYNGdaTnlqZ3dJYk9jekxOTDk2VzNpLXBoTlVQV2o5ZjZfOXFCeENaOTF2cGPSAWBBVV95cUxNbmhHb05yRUE4NG4wOFJfWGxkVTUwekNhWUZRNVBNSk93VGtiMi1yUk1BbFloSkhkN1htZkVDSFM2M1psb04zVVNhVFhVSzV3VlJBNy1OcVhlbW5OemRNeXM?oc=5",
     "title": "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동",
     "summary": [
@@ -224,21 +240,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n759c2467",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "101일 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNHSmtDaV9TN2RnUFZILWJxU2p0Tm9HdmRtZTRsLUFkaWJ6S0IyRWtZazlMRDVWUU1lOFZib0tfYThublItZXdZTUNtVm5QSTQ2TUJ5SlBnOFRhSHJyV1lsdktxejF4Y2psTGhyZHlHN0JWc0tKbm1TS0wyTWw2bzdn0gGWAUFVX3lxTE9tYVY0MG5zOHJ4ZFBqN2FhbkVJbTZ3b281bEFjb3hyc0xCV0ZxR2tOWXh1eWpvajRLOEFBY0RZa0F4V2xBTHY2UmZidlVTREFQVTNYSXoxSk41SmdOSkxaREVYSFc2S3JFdWtFQXd1MXo1NkxueUYxNkpRNFVQS0NlbE5hX0pqbGM0LWZVSk5saHp1bGlrZw?oc=5",
-    "title": "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈",
-    "summary": [
-      "[비즈톡톡] “HBM 1등의 고민”… SK하이닉스, 파운드리 외주·D램 세대 전환 리스크 부상 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -312,26 +313,152 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc0fb913c",
+    "id": "n985b28f1",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://www.asiae.co.kr/article/2026052604263405700",
+    "title": "\"종전 후 유가 하락해도 美 10년물 금리 안 떨어질 것\"",
+    "summary": [
+      "이란 전쟁이 끝나고 국제유가가 안정돼도 금리가 쉽게 내려가지 않을 수 있다는 분석이 나왔다.",
+      "시장에서 인플레이션 우려보다 미국의 재정 부담과 인공지능(AI) 투자 붐, 중립금리 상승 가능성 등 구조적 요인을 장기금리에 더 민감하게 반영하고 있어서다.",
+      "기대 인플레이션 변화 없어…실질금리 오르며 채권금리 ↑25일(현지시간) 블룸버그통신에 따르면 최근 미국 국채금리 상승은 기대 인플레이션(BEI)보다 실질금리(real yie."
+    ],
+    "chips": [
+      "#AI",
+      "#금리"
+    ]
+  },
+  {
+    "id": "nabcfc334",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/26/2026052422555940772",
-    "title": "\"같이 믿고 버텨주시면...\" LG 캡틴 믿음 옳았다! '오지환-홍창기-신민재' 주간 타율 톱30에 반가운 이름",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/26/2026052603533852329",
+    "title": "日야구계 발칵! 이승엽팀 감독, '딸 폭행 혐의'로 긴급 체포 후 석방→알콜 검출 \"욱해서 그랬다\" 해명에도 구단은 경질 검토",
     "summary": [
-      "LG 트윈스 주장 박해민(36)이 극적인 승리 후 팬들을 향한 미안함과 동료들에 대한 믿음을 드러냈다.",
-      "박해민은 지난 24일 잠실 키움 히어로즈전에서 2번 타자 및 중견수로 선발 출장해 9회말 2사 1, 2루에서 우월 3점 홈런으로 LG의 6-4 승리를 이끌었다.",
-      "지난주 LG 소속 타자가 친 유일한 홈런이었다."
+      "일본프로야구(NPB) 현역 사령탑이 현행범으로 체포되는 사상 초유의 사태가 발생해 열도가 뒤집어졌다.",
+      "이승엽(50)이 타격코치로 활동하고 있는 요미우리 자이언츠 아베 신노스케(47) 감독이 딸을 폭행한 혐의로 전격 체포됐다 석방되면서 구단이 경질을 포함한 중징계 검토에 착수했다.",
+      "일본 스포니치 아넥스 등 복수 언론들에 따르면 아베 감독은 지난 25일 오후 7시 10분쯤 도쿄 시부야구 자택에서 18세 장녀를 폭행한 혐의로 현행범 체포됐다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n426930b1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526002200099",
+    "title": "네타냐후 \"이스라엘군에 헤즈볼라 상대 공세 강화 지시\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 베냐민 네타냐후 이스라엘 총리가 25일(현지시간) 이스라엘군에 레바논의 친이란 무장정파 헤즈볼라를 겨..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n7bdfaa85",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/26/2026052519415780870",
+    "title": "K잠수함 탄 加해군 \"신형 테슬라 산 느낌\"",
+    "summary": [
+      "'60조' 수주전 앞두고 성능 홍보 캐나다, 내달 최종 사업자 선정 \"1999년식 혼다 시빅을 타다 최신형 테슬라를 산 느낌이다.\" 캐나다 해군 소속 제이크 딕슨 하사가 한국 해군의 디젤잠수함 '도산안창호함'(SS-III· 3000톤급·사진)에 탑승한 뒤 내놓은 평가다.",
+      "도산안창호함은 캐나다와 연합협력훈련을 위해 지난 23일 캐나다 서부 빅토리아 에스퀴몰트 기지에 입항했다.",
+      "지난 3월25일 경남 진해 군항을 떠나 괌, 하와이를 거쳐 약 1만40."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nae443eaa",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/tech/2026/05/26/2026052519512416423",
+    "title": "5분만에 1700석 매진… \"K로켓 보러왔어요\" 뜨거운 열기",
+    "summary": [
+      "우주항공의 날 맞아 특별 개방 전남 고흥 나로우주센터 북적 \"우리나라 우주기술의 정수를 보고 싶었습니다.\" 우주를 향한 국민적 관심이 뜨겁다.",
+      "25일 한국항공우주연구원(이하 항우연)에 따르면 5월27일 '우주항공의 날'을 앞두고 나로우주센터를 특별개방한 가운데 현장프로그램에 시민 1716명이 몰려 예약 시작 5분 만에 '전석 매진'을 기록했다.",
+      "전남 고흥군에 위치한 나로우주센터는 한국 우주개발의 전초기지다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda572be4",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/industry/2026/05/26/2026052519553063867",
+    "title": "\"반도체 6억, 우린 600만원?\" DX 불만에도...삼전 합의안 '가결' 무게",
+    "summary": [
+      "잠정합의안 찬반 결과 내일 공개 노조 투표율 86%…상당수 DS 성과급 이견 DX, 집단부결 운동 동행노조, 효력정지 가처분 신청 당분간 내부 후유증 지속 불가피 삼성전자 노동조합의 임금협상 잠정합의안에 대한 찬반투표 결과가 오는 27일 공개된다.",
+      "투표율이 86%를 넘어선 가운데 투표 참여자의 상당수가 특별경영성과급을 받는 DS(디바이스솔루션)부문 소속인 만큼 가결 가능성에 무게가 실린다.",
+      "다만 성과급 격차를 둘러싼 이견이 가라앉지 않으면서 내."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n4ee3fd07",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260525_0003643039",
+    "title": "대구·경북 화요일 오전부터 비…낮 최고기온 23~27도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 화요일인 26일 대구와 경상북도는 흐리고 비가 내릴 것으로 예상된다.",
+      "대구지방기상청은 이날 \"오전부터 대구와 경북에 20~80㎜의 비가 오겠다\"고 예보했다.",
+      "아침 최저기온은 16~19도(평년 9~16도), 낮 최고기온은 23~27도(평년 22~28도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n77f5457d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525034000005",
+    "title": "오늘 '아메리칸 뮤직 어워즈'…BTS, 두 번째 대상 도전",
+    "summary": [
+      "(서울=연합뉴스) 김선우 기자 = 그룹 방탄소년단(BTS)이 25일(현지시간) 오후 5시 미국 라스베이거스 MGM 그랜드 가든 아레나에서 열리는..."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nf92cb7cf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "35분 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003643168",
+    "title": "러 “키이우 군수산업·지휘소 조직적 공격, 공관원 등 외국인 떠나라”",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 러시아는 25일 우크라이나가 러시아가 점령중인 동부 루한스크에 대한 공격에 대응해 키이우의 군수산업 시설에 대한 공습을 감행한다고 밝혔다고 국영 타스 통신이 보도했다.",
+      "러시아 외무부는 이날 우크라이나군의 루간스크 스타로벨스크 공격이 더 이상 참을 수 없는 지경에 이르렀다며 이같이 경고했다.",
+      "이 지역은 전쟁 초기부터 러시아가 점령한 곳으로 스타로벨스크 사범대학 기숙사와 인접 건물이 공격을 받아 어린이들을 포함한 2."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
     "id": "n93f64e25",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260526_0003643167",
     "title": "“美-이란, 핵 프로그램·제재 완화 난항으로 협상 교착”-WSJ",
     "summary": [
@@ -344,41 +471,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6ccbabd5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/26/MRRDENBVMY2TINLGMNRWENTCMQ/",
-    "title": "치어리더 이금주,’수원 단발 여신’ [O! SPORTS 숏폼]",
-    "summary": [
-      "[OSEN=수원, 이대선 기자] 22일 수원 KT위즈파크에서 2026 신한 SOL KBO리그 KT 위즈와 NC 다이노스의 경기가 열렸다.치어리더 이금주가 응원을 하고 있다.",
-      "2026.05.22 /sunday@osen.co.kr."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nca023af1",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "21분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/26/2026052602520427105",
-    "title": "조권, '1일 1팩' 관리하는 재미로 산다…김응수 \"인생 고수다\" 맞장구",
-    "summary": [
-      "조권과 김응수가 남다른 자기관리 루틴을 공개했다.",
-      "25일 방영된 SBS '아니 근데 진짜' 17회에서는 김응수, 김동현, 조권이 출연해 근황을 전했다.",
-      "이날 이수지는 조권을 보며 \"완전 에겐남 스타일이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nff1fa414",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260526001500072",
     "title": "멕시코, 이란 월드컵팀 베이스캠프 수용…\"美는 원치 않아\"",
     "summary": [
@@ -392,7 +488,7 @@ window.NEWS_DB = [
     "id": "n084fad50",
     "category": "사회",
     "source": "아시아경제",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.asiae.co.kr/article/2026052603040698527",
     "title": "미-이란, 종전 협상 막판 암초…핵·동결자산 놓고 충돌",
     "summary": [
@@ -408,7 +504,7 @@ window.NEWS_DB = [
     "id": "n61b176d5",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260526001600527",
     "title": "제주도 산지에 호우경보…제주도 7곳 강풍주의보 유지",
     "summary": [
@@ -419,98 +515,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4655cb5a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525065751071",
-    "title": "내부반발봉착 트럼프 이란에 요구높이나…아브라함협정 '강매'도(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 박성민 백나리 특파원 = 개전 3개월이 임박한 미국-이란 전쟁이 합의 도출을 앞두고 막판 치열한 신경전 국면을 보내고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb6095cd3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/national/education/2026/05/26/Z6INY4CKPVAQTIKYBK7NILMMTE/",
-    "title": "유튜브는 몇 시간 보는 아이… 책은 왜 10분도 힘들까요",
-    "summary": [
-      "유튜브는 몇 시간 보는 아이… 책은 왜 10분도 힘들까요."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncbba57d6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/05/26/7YSX5CGPEJGXFI3DYWMRMWF7UY/",
-    "title": "가르치지 않고 이야기하기… NHK ‘일요 미술관’의 장수 비결",
-    "summary": [
-      "가르치지 않고 이야기하기… NHK ‘일요 미술관’의 장수 비결."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41c3c319",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "38분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/26/2026052602442594368",
-    "title": "김응수, 38세 조권에 결혼 조언? \"여자 얻으려면 재력 모아야\"",
-    "summary": [
-      "조권이 결혼과 연애 고민을 털어놓자 김응수가 현실적인 조언을 건넸다.",
-      "25일 방영된 SBS '아니 근데 진짜' 17회에서는 김응수, 김동현, 조권이 출연해 근황을 전했다.",
-      "이날 탁재훈은 조권에게 \"이제 결혼할 나이 아니냐."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neac4c6dd",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526001400085",
-    "title": "스웨덴서 자율주행 버스 운행 시작 1시간만에 사고",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 스웨덴 고센버그(예테보리)에서 자율주행 버스가 25일(현지시간) 승객을 태우고 운행을 시작한 지 1시간 만에..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfa2ff4aa",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "52분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/26/2026052602314670911",
-    "title": "김동현 \"정관수술하고 왔더니 임신 테스트기 두 줄…넷째는 아들\"",
-    "summary": [
-      "김동현이 정관수술 직전 넷째를 임신한 비하인드를 공개했다.",
-      "25일 방영된 SBS '아니 근데 진짜' 17회에서는 김응수, 김동현, 조권이 출연해 근황을 전했다.",
-      "이날 김동현은 최근 아내의 넷째 임신 소식을 알리며 출연진들의 축하를 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n54c0f80e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260526_0003643165",
     "title": "이슬람 다섯 기둥 중 하나 ‘성지 순례(하지) 시작…25일부터 29일",
     "summary": [
@@ -523,26 +531,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfa232bb9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260526_0003643164",
-    "title": "갈리바프 의장 등 협상단 카타르행…휴전 60일 연장·호르무즈 재개방 최종 조율",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 미국과 이란간 휴전 협상 타결 기대감이 높아지는 가운데 이란 최고 협상단이 합의 도출을 위한 노력 강화의 일환으로 카타르로 향했다고 파이낸셜타임스(FT)가 25일 보도했다.",
-      "FT와 AP 통신 등 외신에 따르면 이란 수석 협상대표인 모하마드 바게르 갈리바프 국회의장 과 아바스 아라그치 외무장관 등은 이날 도하로 향했다.",
-      "갈리바프 의장은 이날 오전 선거에서 276표 중 235표를 얻어 의장에 재당선됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nba076d60",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260526/133989688/1",
     "title": "랄랄 4kg 감량 고백에…남편 “둘째 들어선 줄” 돌직구",
     "summary": [
@@ -557,7 +549,7 @@ window.NEWS_DB = [
     "id": "n77274183",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260526/133989685/1",
     "title": "‘48세’ 채정안 “발레로 숨은 키 찾아, 건강검진 때마다 커져”",
     "summary": [
@@ -570,40 +562,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n63123e3b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260525_0003643129",
-    "title": "조용한 목수의 미학…최병훈, 신라호텔·조현화랑서 개인전",
-    "summary": [
-      "[서울=뉴시스] 박현주 미술전문 기자 = 나무와 돌이 서로 기대어 숨을 쉰다.",
-      "가구와 조각, 공예와 철학의 경계를 가로질러온 최병훈의 신작이 서울과 부산에서 공개된다.",
-      "서울 중구 서울신라호텔 아케이드와 부산 해운대 조현화랑은 오는 6월 4일부터 8월 2일까지 최병훈 개인전 ‘Lingering Silence’를 개최한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ae6e30c",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "2시간 전",
-    "url": "https://www.chosun.com/economy/real_estate/2026/05/26/VXGUHYOIDJGUZKOGR2TMUUCWZQ/",
-    "title": "[알립니다] ‘부동산 트렌드쇼’ 온라인 사전 등록 받습니다",
-    "summary": [
-      "[알립니다] ‘부동산 트렌드쇼’ 온라인 사전 등록 받습니다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nf0d6047b",
     "category": "부동산",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260525/133988641/2",
     "title": "서울 압구정 ‘9조’ 재건축 문 활짝 열렸다",
     "summary": [
@@ -620,7 +582,7 @@ window.NEWS_DB = [
     "id": "ne10577e9",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260525/133988658/2",
     "title": "사기-횡령 등 금융사고 6년간 1조 넘어",
     "summary": [
@@ -631,6 +593,48 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
+  },
+  {
+    "id": "n96b7fa27",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4시간 전",
+    "url": "https://www.chosun.com/special/special_section/2026/05/26/I6JXLBWXFNG7PDRAASM3ZTWWOY/",
+    "title": "스테이블코인 결제·NFT 특허… “고객 자산 지킨다”",
+    "summary": [
+      "스테이블코인 결제·NFT 특허… “고객 자산 지킨다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1d2d27c8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4시간 전",
+    "url": "https://www.chosun.com/special/special_section/2026/05/26/2LWAPVE7URDCRMMJWCGLRYBALY/",
+    "title": "내달 홍콩 푸투증권과 외국인 통합계좌 서비스 선보여",
+    "summary": [
+      "내달 홍콩 푸투증권과 외국인 통합계좌 서비스 선보여."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na1ee11e9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4시간 전",
+    "url": "https://www.chosun.com/special/special_section/2026/05/26/HWVBB5TMN5AMDKGGUA6B2CDW3Y/",
+    "title": "‘디폴트옵션 전용 펀드’ 업계 1위… 2위와 2배 격차",
+    "summary": [
+      "‘디폴트옵션 전용 펀드’ 업계 1위… 2위와 2배 격차."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
   }
 ];
 
@@ -639,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "엔비디아",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
