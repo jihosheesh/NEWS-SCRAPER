@@ -1,19 +1,32 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-25 03:03:19
+// 마지막 업데이트: 2026-05-25 05:29:48
 window.NEWS_DB = [
   {
-    "id": "nb1b11af5",
-    "category": "IT",
-    "source": "이뉴스투데이",
-    "time": "1시간 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FMjFfTnk2eENrMzRaczgxYlRMamFTQjJiSklfU2h6MHQ2YVJxMWNZRGNWdXFfOGd1WkRXd2hLNHpqUmlhVDQyc09YT3RrTVNUTDJXOUdKSXhfNDhVVEktSFVZZzVmVFlKSFRxNkhtdzTSAXRBVV95cUxNaFF4dWtDVXJKMzRrVl9FX0Y3WEFFeG1DMzc1WjJxQlp0X3JRSTcyWDFMeEtUN0VFTjBtVWt3S3FKZzI3MzZnaDZ6SVcxM2NvVzhDaWZlYi1aajlEUWw3c1NaZjlkVm0yV2ZsTTB5YkFaRWhhaQ?oc=5",
-    "title": "AI 반도체 전선 넓어진다···엔비디아 CPU, AMD 대만 생태계 추격",
+    "id": "nc880125a",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqSm94eVVXRTg1SzRaVVBlQW5TaW9PeDI0ZG5uSXVGcU5oY0dXa0lERmJsblpPWW9KQmtITDVfazMtU1ZGR1lEY3p0X1BDU3pOLUlLa19URnQ1U3lR?oc=5",
+    "title": "'류현진 200승'은 이미 선동열·박찬호급…'손·차·박 논쟁'처럼 '선·박·류 논쟁'도 뜨거워진다",
     "summary": [
-      "AI 반도체 전선 넓어진다···엔비디아 CPU, AMD 대만 생태계 추격 이뉴스투데이."
+      "'류현진 200승'은 이미 선동열·박찬호급…'손·차·박 논쟁'처럼 '선·박·류 논쟁'도 뜨거워진다 네이트."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd3cf3b1a",
+    "category": "IT",
+    "source": "mstoday.co.kr",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBR3REYWpMQ240c21NaGFNSGNDRENxcm5qWllCcXJpM1dneUhMOXZKLVhaaC0yLWVyLWtsd21IeWd4bXVZTDB2NWE2UnVuZ3RzOXNYUnpLN0RBdlFBaXVBS25wYldvOFpXX2VXcA?oc=5",
+    "title": "엔비디아 깜짝실적…AI 투자 4조弗 간다",
+    "summary": [
+      "엔비디아 깜짝실적…AI 투자 4조弗 간다 mstoday.co.kr."
     ],
     "chips": [
       "#AI",
-      "#반도체",
       "#엔비디아"
     ]
   },
@@ -67,7 +80,7 @@ window.NEWS_DB = [
     "id": "n39284845",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85UGdveXJTWlVaSlZ0Z2pkVklvQWR6dUVMZVFYVlNBSk5GTTFBNWxrdVRYS0JETEhicFNnRGJqaHlXVkJWaG9fNFpEb2FxRmtUQmZKQkFDYjJZSlZrTFo1dzcyR0JPY3Z2ajVScw?oc=5",
     "title": "대구·대전·광주·울산서 글로벌 창업도시 첫 깃발 날린다",
     "summary": [
@@ -75,6 +88,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
     ]
   },
   {
@@ -109,6 +137,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6838382f",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WSG1sTHVhbDV3WVhWVU9RR0FVVExackRkMWhvTFBUY05QTkpZdkt6ZWZITE1zYTNsd0gzWjJKV3N4SkdJWjJuVXVtYjVQU1lzaV9FVk9kR3FaZ9IBVEFVX3lxTE9LdTJ2Rjg1YXNrVV91SjZWOC1NY2s4SmpDV2ptWHM1ZEp1bVhLODZuUVR5QU9PQ0ltM1pXeWtEb01idWxudV9DT2lOSUFqSE5fMVpDSg?oc=5",
+    "title": "삼성, 메모리 증설 총력…슈퍼사이클 이어간다",
+    "summary": [
+      "삼성, 메모리 증설 총력…슈퍼사이클 이어간다 한국경제."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n2970703c",
     "category": "IT",
     "source": "글로벌이코노믹",
@@ -135,21 +177,6 @@ window.NEWS_DB = [
       "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리."
     ],
     "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n7f9297c0",
-    "category": "경제",
-    "source": "월요신문",
-    "time": "24일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sWXgtRzd6ZmJOTmQ4T213c0F3d0FhM1FHckJvaDFFZWloWDM1MEh1Ukc0SEduV1ZRc3I4ek5nOUhoR09mN1dZX2tDcnQtamNvRjhiODBnMTJ1RnF4WWxsX0UtSkQ5Qk5vTlE?oc=5",
-    "title": "한국은행 순이익 최고치·국민연금 운용수익 증가...高환율의 양면",
-    "summary": [
-      "한국은행 순이익 최고치·국민연금 운용수익 증가...高환율의 양면 월요신문."
-    ],
-    "chips": [
-      "#한은",
       "#환율"
     ]
   },
@@ -183,34 +210,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na3d37f8f",
-    "category": "IT",
-    "source": "지디넷코리아",
-    "time": "74일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVJIdW42c2NuWTBtVDhMWEZjT2ttdWRBNmhraDlsOG1DR3JpajNrY0RfSkhVSjduUEpRWFBpUUhtOWN3eXIxZjZmM01odVR6TGpoNmhn?oc=5",
-    "title": "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략",
-    "summary": [
-      "다이가 다르다...삼성·SK, 차세대 HBM '두뇌' 로직다이서 엇갈린 전략 지디넷코리아."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "ncbcb6c77",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "77일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n15f5f447",
     "category": "경제",
     "source": "지디넷코리아",
@@ -236,22 +235,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "95일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -285,18 +268,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n925a8076",
-    "category": "스포츠",
-    "source": "sportschosun.com",
-    "time": "135일 전",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qNHVpaThSNm1PZ3BKWWlGc3NlWjB3NU91QzlDT2hQWTBrRnpXZTNXeEVxamhJYjhoQVNDWDRUWmRzRXZuc0RkMkhnN1ZHc1didjg1cmhZTmdBMThpNVpBY2VfNjN4aHgwazVOYXJ5VklsUGdzUFlTWG1ZT24wQdIBd0FVX3lxTE1KX1RyM3RVQ01wWFBNb2RyRV82N3p3dml6RVVHTmNlVVc0Z01QaEIwbGFESWtyMmlteHFwTmh6QjFOeXltTDZlM3NCNlZpZXRZSjBhNDhvcDE3ZzM3Y0NLNVpzRm45TTFwMkRmTWwyMmJhQnlrNWV3?oc=5",
-    "title": "'일본도 깜짝 놀랐다' 손흥민+메시 합치자 오타니의 야구 넘었다...미국 인기 스포츠 종목 3위 등극",
+    "id": "nf7aebd8b",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "125일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
+    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
     "summary": [
-      "'일본도 깜짝 놀랐다' 손흥민+메시 합치자 오타니의 야구 넘었다...미국 인기 스포츠 종목 3위 등극 sportschosun.com."
+      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
     ],
     "chips": [
-      "#손흥민",
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
@@ -311,6 +293,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n0ba94947",
+    "category": "스포츠",
+    "source": "이투데이",
+    "time": "281일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeFVaZ2NxaEJNU3lfakx0VkJhbU5ZbWs4UWl0QU5TaDhZVlFCUGlfVE9jWXNlSGxQSE1ZVGJfLWwtaDhYbWV1a004UmNqN3N2T0t3cA?oc=5",
+    "title": "'2025 KBO 프로야구' 오늘(16일)의 경기 일정",
+    "summary": [
+      "'2025 KBO 프로야구' 오늘(16일)의 경기 일정 이투데이."
+    ],
+    "chips": [
       "#KBO"
     ]
   },
@@ -346,306 +342,295 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3a8e0383",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026052216365450005",
-    "title": "\"스쿨존 교통사고 막자\"…146억 투입하고 단속 강화·신고제 운영",
-    "summary": [
-      "정부는 어린이 보호구역(스쿨존) 내 교통사고를 막기 위해 불법주정차 등 현장 단속과 홍보를 강화한다.",
-      "재난안전특별교부세 146억2000만원을 투입해 보도와 교통안전시설도 확충하기로 했다.행정안전부는 어린이가 안전하게 통학할 수 있는 환경을 만들기 위해 관계기관과 함께 마련한 '스쿨존 내 교통사고 예방대책'을 25일 발표했다.",
-      "정부는 1995년 스쿨존 제도를 도입하고 다양한 안전 대책을 추진해왔다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nbcbc3708",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "n922a4062",
+    "category": "IT",
+    "source": "조선비즈IT",
     "time": "1분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260525/133985741/1",
-    "title": "美中, 정상회담 후 긴장 재점화…中, 서해 등에 100척 이상 선박 배치",
+    "url": "https://biz.chosun.com/it-science/ict/2026/05/25/LPE6WOC6VVEIXEVZPMXZKAHPPE/",
+    "title": "“우리도 삼성처럼 파업하자”… TSMC까지 번진 성과급 불만",
     "summary": [
-      "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 정상회담이 끝나기 무섭게 또다시 양국 간 긴장감이 고조되고 있다.",
-      "AFP 통신 등에 따르면, 우자오셰 대만 국가안전회의(NSC) 비서장은 23일(현지시간) 소셜미디어 엑스(X)를 통해 지도와 함께 “중국이 미국과의 정상회담 직후 며칠 동안 제1도련선 주변에 100척이 넘는 선박을 배치했다”고 밝혔다.",
-      "이어 “이 지역에서 현상을 파괴하고 지역 평화와 안정을 위협하는 유일한 문제는 중국”이라고 비."
+      "“우리도 삼성처럼 파업하자”… TSMC까지 번진 성과급 불만."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n3d6818ef",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260525/133985738/1",
-    "title": "법무부, ‘고문·조작’ 검사 서훈 취소 검토…전수조사 착수",
-    "summary": [
-      "법무부가 과거 독재정권 아래에서 고문과 간첩 조작으로 정부 포상을 받은 검사들의 서훈을 취소하기 위한 첫 전면 조사에 착수했다.25일 국회 법제사법위원회 소속 박은정 조국혁신당 의원실에 따르면 법무부는 1955~1971년 검사와 검찰 수사관들에게 수여된 훈·포장과 표창 2만여 개의 공적 사유에 대한 전수조사에 지난달 착수했다.법무부는 답변서에서 “정부포상 취소 추진 방안에 대해 행정안전부와 두 차례 회의를 진행해 검사 출신 서훈자에 대한 조사를."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n212ee817",
+    "id": "nd3096042",
     "category": "사회",
     "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/25/2026052511503379381",
-    "title": "유의동 \"'뉴이재명' 김용남, 국회의원 되겠다면서 고리대부업…고발할 것\"",
-    "summary": [
-      "[the300] 유의동 국민의힘 경기 평택을 국회의원 재선거 후보가 차명 대부업 운영 의혹 등으로 논란에 휩싸인 김용남 더불어민주당 경기 평택을 국회의원 재선거 후보를 형사 고발하겠다고 밝혔다.",
-      "유 후보는 25일 오전 서울 여의도 국민의힘 중앙당사에서 기자회견을 열고 \"국민의힘 법률위원장 명의로 곧 김 후보를 고발할 예정\"이라고 밝혔다.",
-      "유 후보는 \"김 후보는 자신이 지분 90%를 보유한 농업회사법인을 통해 대부 업체를 운영한 정황과 대부 업체."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n94b1295b",
-    "category": "사회",
-    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260522_0003641453",
-    "title": "韓, 폐플라스틱→항공유 전환 기술 '특허출원 급증'",
+    "url": "https://www.mt.co.kr/politics/2026/05/25/2026052512021455547",
+    "title": "'김관영 때리기' 사활 건 與 지도부...전북 선거에 당권 걸렸다",
     "summary": [
-      "[대전=뉴시스] 김양수 기자 = 미국-이란전쟁 여파로 항공유가 가파르게 상승하는 가운데 친환경 대체연료인 지속가능항공유(SAF) 기술선점을 위한 우리나라의 특허출원이 최근 크게 늘고 있는 것으로 나타났다.",
-      "지식재산처는 최근 5년간(2019년~2023년) 선진 5개 지식재산기관(IP)에 출원된 폐플라스틱 활용 항공유 특허 2036건을 분석한 결과, 한국인 출원이 7.6배 급증하며 연평균 증가율 2위(66.1%)를 기록했다고 25일 밝혔다."
+      "[the300] 정청래 \"이 대통령 지지한다면 이원택 전북지사 뽑아달라\" 각 세우는 김관영...\"내가 당선되면 정청래 대표 사퇴해야\" 6·3 전국동시지방선거를 9일 앞두고 더불어민주당의 전통 텃밭인 전북도지사 선거가 김관영 무소속 후보의 선전으로 혼전 양상을 띄고 있다.",
+      "이번 선거 결과가 차기 당권 경쟁에 결정적인 영향을 미칠 것이라는 전망이 나오는 가운데 민주당 지도부는 김 후보에 대한 견제 수위를 높이는 모습이다, 25일 CBS가 한국사회여."
     ],
     "chips": [
-      "#환경"
+      "#정치"
     ]
   },
   {
-    "id": "nca34ee69",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260525_0003642850",
-    "title": "[6·3부산]민주당 \"한동훈 쉼터, 사실상 선거사무소\"",
-    "summary": [
-      "[부산=뉴시스]원동화 기자 = 더불어민주당이 부산 북구갑 보궐선거에 출마한 한동훈 무소속 후보의 '자원봉사 쉼터'를 두고 사실상 선거사무소 역할을 했다는 의혹을 제기하며 선거관리위원회의 조사를 촉구했다.",
-      "민주당 부산시당은 25일 논평을 통해 \"한동훈 후보는 팬덤 뒤로 숨지 말라\"며 \"해당 공간이 사실상 비공식 선거조직의 거점이었는지 명확히 밝혀야 한다\"고 비판했다.",
-      "시당은 \"선관위는 지난달 '도토리 쉼터' 논란 당시 이미 '자원봉사자 교육 및."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb520a816",
+    "id": "n179b6330",
     "category": "사회",
     "source": "동아일보",
     "time": "3분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260525/133985730/1",
-    "title": "이세희, 둘째 언니 미모 어느 정도길래…“허경환과 소개팅 주선할 뻔”",
+    "url": "https://www.donga.com/news/Politics/article/all/20260525/133986437/1",
+    "title": "한동훈 “보수재건 동참 국힘 후보 선전을”…박민식 “단일화 확고부동 없다”",
     "summary": [
-      "배우 이세희가 코미디언 허경환과의 인연을 언급했다.24일 방송된 SBS 예능 프로그램 ‘미운 우리 새끼’에는 이세희가 스페셜 MC로 출연해 가족에 대한 이야기를 전했다.이날 서장훈은 “이세희가 셋째다.",
-      "둘째 언니가 미인으로 유명했는데 ‘미우새’ 아들과 소개팅을 할 뻔 했다더라”고 말문을 열었다.이세희는 “소개팅을 할 뻔한 건 아니다.",
-      "예전에 촬영장에서 선배님을 만났는데 제가 언니를 자랑하고 싶은 마음에 사진을 보여드린 적 있다”고 해명했다.이어."
+      "6·3 지방선거와 함께 치러지는 부산 북갑 보궐선거가 3자 구도로 치러지는 가운데 무소속 한동훈 후보가 국민의힘 후보들을 향해 “더욱 힘내서 선전하시라”며 손을 내밀었다.",
+      "국민의힘 장동혁 대표 지도부와 날카롭게 각을 세워 온 한 후보가 국민의힘 지지층을 끌어안으며 범보수 연대 분위기 조성에 나선 것이란 분석이 나왔다.한 후보는 24일 부처님오신날을 맞아 부산 사상구 운수사를 찾은 뒤 기자들과 만나 “헌법과 사실과 상식에 기반한 보수 재건을 바라."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n611e8a2e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260525_0003642904",
+    "title": "울산시장 단일화 중단 공방…與 \"왜곡 정황\", 진보당 \"김상욱 책임\"(종합)",
+    "summary": [
+      "[서울=뉴시스]정금민 신재현 기자 = 더불어민주당·진보당 울산시장 후보 단일화 경선 여론조사가 공정성 문제 제기로 파행 위기를 맞은 가운데, 양측의 책임공방이 거세지고 있다.",
+      "앞서 양당은 지난 23~24일 100% 여론조사를 통한 경선 방식에 합의했고 24일 결과 발표가 예정돼 있었지만 김상욱 민주당 울산시장 후보 측이 '역선택' 문제를 제기해 중단됐다.",
+      "이에 따라 단일화를 위해 진행한 여론조사 2곳 중 민주당이 실시한 여론조사만 중단되고, 진."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc9ddef7a",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "3분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260525101829",
-    "title": "LG전자 \"올레드 TV, 글로벌 14개국 소비자매체 평가서 1위\"",
-    "summary": [
-      "[지디넷코리아]LG전자는 LG 올레드 TV가 전 세계 14개국 주요 소비자매체 TV 성능 평가에서 최고점을 받았다고 25일 밝혔다.최근 미국 소비자매체 '컨슈머리포트'는 70형 이상, 65형, 55~60형, 46~52형에서 LG 올레드 TV에 최고점을 부여했다.",
-      "LG전자는 \"65형 올레드 에보 AI 제품은 인상적인 HDR(High Dynamic Range) 성능과 넓은 시야각, 밝은 공간에서도 유지되는 뛰어난 화질과 사운드로 호평을 받았다\"고."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nb9bb7610",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/05/25/2026052510200864618",
-    "title": "직장 휴직자 유예 건보료, 분할 납부 횟수 10회→12회로 확대",
-    "summary": [
-      "복지부, 6~7월 '소확신' 과제 5개 선정 휴직 등으로 납부가 유예된 건강보험료를 앞으로 12차례에 걸쳐 분할 납부할 수 있게 된다.",
-      "소아·청소년 건강증진 프로그램인 '건강한 돌봄놀이터'는 초등학교 4학년까지 참여 대상을 확대한다.",
-      "보건복지부는 이런 내용을 포함해 오는 6~7월 중 시행 예정인 보건의료 분야 '소확신'(소소하지만 확실한 혁신행정) 과제 5건을 25일 선정·발표했다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n08de8ce7",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/stock/2026/05/25/2026052501013150041",
-    "title": "'삼전·닉스 2배 ETF' 투자자 10만명 우르르…\"'손실도 2배' 주의\"",
-    "summary": [
-      "오는 27일 상장을 앞둔 삼성전자·SK하이닉스 단일종목 레버리지 ETF(상장지수펀드)에 예비투자자 10만명이 몰리는 등 시장의 관심이 높아지고 있다.",
-      "금융당국은 하루에만 최대 60% 손실이 가능한 고위험 상품인 만큼 상품구조와 투자위험을 명확히 이해하고 투자해야 한다고 주의를 당부했다.",
-      "25일 금융당국에 따르면 지난달 28일부터 이달 21일까지 단일종목 레버리지 ETF 상품 관련 심화교육을 신청한 예비투자자는 10만명에 달했다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n27439d6c",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/policy/2026/05/25/2026052215155854993",
-    "title": "성평등가족부, 변화하는 사회 속 '가족관계 교육' 포럼 개최",
-    "summary": [
-      "성평등가족부는 한국건강가정진흥원과 공동으로 26일 오후 2시 서울지방조달청 PPS홀에서 '가족관계 교육(부모교육) 활성화 포럼'을 개최한다.",
-      "포럼에는 한국가족센터협회 소속 지회장과 가족교육 전문가, 관계기관 담당자 등이 참석해 가족교육 현장의 과제와 개선 방안을 함께 논의할 예정이다.",
-      "원민경 성평등부 장관은 행사에 앞서 전국 가족센터 현장 관계자들과 만나 현장소통 간담회를 갖고 가족서비스 운영 과정에서의 애로사항과 제도 개선 필요 사항을 직접."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "na22c1442",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://www.asiae.co.kr/article/2026052510063936196",
-    "title": "셀아이콘랩 \"생체막 투과 플랫폼으로 역노화 시장까지 뚫는다\"",
-    "summary": [
-      "눈앞까지 다가온 주삿바늘의 공포.",
-      "황반변성 환자가 치료 과정에서 감당해야 하는 가혹한 현실이다.",
-      "안구는 약물 침투가 어려운 기관이어서 안구 내 직접 주사가 유일한 치료법이다 보니 환자 이탈률은 40%에 달한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9284ee7c",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://www.asiae.co.kr/article/2026052423242333023",
-    "title": "중기부, 대·중소기업 기술사업화 R&D 공고…총 100억 지원",
-    "summary": [
-      "중소벤처기업부가 총 100억원 규모의 대·중소기업 협력 기반 기술 사업화 R&D(연구·개발)를 지원한다.",
-      "공급·수요 기업 간 기술성숙도 간극을 줄이기 위해 기획부터 시장 진출까지 기술 사업화 전 주기를 지원한다.",
-      "중기부는 중소기업의 기술사업화 촉진을 위해 '2026년 민관공동기술사업화 R&D 3차 시행계획'을 공고한다고 25일 밝혔다."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n86161215",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://www.asiae.co.kr/article/2026052421105782624",
-    "title": "‘청렴한 중진공 AI+ 숏폼 공모전’ 개최",
-    "summary": [
-      "중소벤처기업진흥공단은 전 국민을 대상으로 '청렴한 중진공 AI+ 숏폼 공모전'을 개최한다고 25일 밝혔다.",
-      "이번 공모전은 생성형 인공지능(AI) 기술을 활용해 중진공의 청렴 문화를 대내외에 확산하기 위해 마련됐다.",
-      "공모 주제는 ▲공정한 정책자금 지원을 위한 '제3자 부당개입 근절에 앞장서는 중진공' ▲국민이 신뢰할 수 있는 보조금 집행을 통해 '건전한 공공재정에 기여하는 중진공' ▲데이터·AI 기반 내부통제로 '스마트."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n2a49bcc9",
+    "id": "n5bbeac6d",
     "category": "사회",
     "source": "동아일보",
     "time": "3분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260522/133952290/2",
-    "title": "“수지·제니도 입었다”…올여름 출근룩은 카프리팬츠에 스틸레토힐 [요즘소비]",
+    "url": "https://www.donga.com/news/Inter/article/all/20260525/133986362/1",
+    "title": "“왜 전쟁했나” 공화당서도 비판…트럼프 “이란 협상 아직 안 끝나”",
     "summary": [
-      "카프리팬츠가 올여름 2030 여성 출근룩으로 떠오르고 있다.",
-      "패션 플랫폼에서 카프리팬츠 매출과 검색량이 급증하면서 스틸레토힐·슬링백 등 함께 매치하는 신발도 주목받고 있다."
+      "최근 이란과의 종전 합의가 임박했다고 주장해 온 도널드 트럼프 미국 대통령이 24일(현지 시간) “아직 아무도 협상 내용을 알지 못하고 완전히 마무리되지도 않았다”며 속도 조절에 나섰다.",
+      "이란과의 섣부른 종전 합의가 전쟁 취지를 무색케하고 있단 공화당 내 비판이 이어진 데 따른 것이다.트럼프 대통령은 이날 자신의 트루스소셜을 통해 “나는 버락 오바마 전 대통령처럼 이란에 막대한 현금을 주고 핵무기 개발의 길을 열어준 그런 협상이 아닌 제대로 된."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2808fdc6",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260525_0003642864",
+    "title": "메시, MLS 필라델피아전서 부상 교체…\"선수 보호 예방 차원\"",
+    "summary": [
+      "[서울=뉴시스]안경남 기자 = 2026 북중미 월드컵에서 라스트 댄스에 나서는 '축구의 신' 리오넬 메시(38·인터마이애미)가 소속팀 경기 도중 부상으로 교체됐다.",
+      "메시는 25일(한국 시간) 미국 플로리다주 마이애미의 NU 스타디움에서 열린 2026 미국프로축구 메이저리그사커(MLS) 정규리그 필라델피아와의 홈 경기에서 4-4로 맞선 후반 28분 마테오 실베티와 교체됐다.",
+      "이날 선발 출전한 메시는 팀이 0-2로 뒤지던 전반 13분 헤르만 베르테."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0046500d",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260525_0003642780",
-    "title": "네이처스팜, 약국 건기식 할인 막았다…최소 75곳에 불이익",
+    "id": "ne07e3e31",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/25/GJSDOMZUMM3DKMJQGVRWMYZQGU/",
+    "title": "최희, 대만여행 갔다가 논란에 휩싸였다 “아이한테 밀크티 안 줘”",
     "summary": [
-      "[세종=뉴시스]여동준 기자 = 공정거래위원회가 약국에 공급하는 건강기능식품 판매가격을 지정하고 할인판매를 통제한 네이처스팜을 제재했다.",
-      "공정위는 25일 네이처스팜 주식회사가 자사 건강기능식품의 판매가격을 지정하고 약국에 이를 준수하도록 강제한 행위에 대해 향후 행위금지명령과 통지명령 등 시정명령을 부과했다고 밝혔다.",
-      "네이처스팜은 약국을 통해서만 제품을 유통하는 건강기능식품 판매업체다."
+      "[OSEN=강서정 기자] 방송인 최희가 가족과 대만 여행을 갔다가 생각지 못한 논란에 휩싸였다.",
+      "최희는 이번 연휴에 가족과 함께 대만 여행을 떠났다.",
+      "그는 “1일 1밀크티”라며 대만의 대표 음료인 밀크티를 마시는 모습을 공개했다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n3480c070",
+    "id": "n84e60d42",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260523_0003641757",
-    "title": "\"건강보험료 분할 납부 개선\"…복지부, 소확신 과제 추진",
-    "summary": [
-      "[세종=뉴시스] 강진아 기자 = 보건복지부가 건강보험료 분할납부 제도 기준을 완화하고 아동기 비만 예방을 위한 돌봄놀이터 대상을 확대하는 사업을 추진한다.",
-      "복지부는 6~7월 보건의료 분야 '소확신(소소하지만 확실한 혁신행정)' 과제 5건을 선정했다고 25일 밝혔다.",
-      "이번에 선정된 과제는 ▲국민건강보험 보험료 분할납부 제도 개선 ▲건강한 돌봄놀이터 대상 확대 ▲장애인 건강관리 의뢰·회송 연계 강화 ▲한약사 보수교육 면제 신청 간소화 ▲한약사 면허."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6cff742b",
-    "category": "사회",
-    "source": "연합뉴스",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525030400004",
-    "title": "연휴 마지막 날 귀경 정체 본격화…부산→서울 6시간10분 예상",
+    "url": "https://www.newsis.com/view/NISX20260525_0003642910",
+    "title": "구미 금오산서 몰입독서 프로그램 '리딩파티' 운영",
     "summary": [
-      "(서울=연합뉴스) 유한주 기자 = 부처님오신날 연휴 마지막 날인 25일 전국 주요 고속도로에 귀경 차량이 몰리며 서울 방향을 중심으로 정체가 이..."
+      "[구미=뉴시스] 박홍식 기자 = 경북 구미시립중앙도서관은 오는 26일과 30일 금오산 스토리팟에서 '구미 리딩파티'를 운영한다.",
+      "리딩파티는 각자 읽고 싶은 책을 가져와 같은 공간에서 함께 읽고, 독서 경험을 나누는 독서 모임형 프로그램이다.",
+      "2023년 뉴욕에서 시작된 새로운 독서문화 흐름이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb5099ae0",
+    "id": "n930b4e94",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260525030600062",
-    "title": "평창 진부 산불…헬기 2대 등 투입해 30분만에 진화",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260525_0003642913",
+    "title": "경북 안동 녹전면 산불 49분 만에 주불 진화",
     "summary": [
-      "(평창=연합뉴스) 이재현 기자 = 25일 오전 10시 51분께 강원 평창군 진부면 동산리 인근 사유림에서 산불이 났으나 30여분 만에 꺼졌다."
+      "[안동=뉴시스] 김정화 기자 = 경북 안동시 녹전면에서 발생한 산불이 40여분 만에 진화됐다.",
+      "25일 산림청 중앙사고수습본부에 따르면 이날 낮 12시29분께 안동시 녹전면 신평리 일원에서 산불이 발생했다.",
+      "산불진화헬기 6대와 산불진화차량 26대, 진화인력 81명을 투입해 오후 1시18분께 주불 진화를 완료했다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n74322ae9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/25/G5SGMZJZMRTDCNLEGJRDCZRXGU/",
+    "title": "ML 안갔으면 이미 250승? 무의미한 상상도 의미있게 만드는 '영구결번 예약자'",
+    "summary": [
+      "[스포츠조선 나유리 기자]그때 메이저리그에 안갔다면 대체 지금 몇승일까.",
+      "이런 의미없는 상상도 결론이 궁금해지게 만드는 류현진이다.",
+      "한화 이글스 류현진이 한미 통산 200승 달성에 성공했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n3e5a4eda",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/25/2026052514112649515",
+    "title": "귀가 늦다며 흉기 휘두른 여친, 다른 이성과 연락한다며 목조른 남친",
+    "summary": [
+      "늦게 집에 왔다는 이유로 다투다 흉기를 들고 남자친구를 폭행한 30대 여성이 실형을 선고받았다.",
+      "25일 뉴시스에 따르면 최근 대전지법 형사3단독은 특수상해와 특수폭행, 폭행치상 혐의로 기소된 A씨(38·여)에게 징역 6개월을 선고했다.",
+      "재물손괴, 폭행 혐의로 재판에 넘겨진 남자친구 B씨(38)에게는 징역 4개월에 집행유예 1년을 선고했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd117e49a",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/25/2026052512212413220",
+    "title": "단일화 '골든타임' 사흘…보수·진보 모두 셈법 꼬이며 곳곳서 파열음",
+    "summary": [
+      "[the300] 6.3 전국동시지방선거·국회의원 재보궐선거의 단일화 '골든타임'이 단 사흘밖에 남지 않았다.",
+      "사전투표 전날인 28일이 데드라인이지만 진척을 보였던 울산시장 선거를 비롯해 경기 평택을·부산 북구갑 선거에서도 후보들 간 셈법을 달리하며 연대 가능성이 줄어든 모습이다.",
+      "김상욱 더불어민주당 울산시장 후보는 25일 YTN 라디오 '장성철의 뉴스명당' 인터뷰에서 김종훈 진보당 후보와의 단일화 경선을 중단한 배경에 대해 \"국민의힘을 지지하는."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1def1b5f",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525036700007",
+    "title": "대한테니스협회 디비전리그, 24일 강원 강릉서 개막",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 대한테니스협회가 올해로 5년째를 맞는 2026 테니스 스포츠클럽 디비전리그가 강원 강릉시 강릉테니스장에서 24..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n842dc729",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/25/2026052514042629303",
+    "title": "'올림픽 본선 정조준' 김은중호, 첫 소집 명단 확정... '스타상' 정마호·손승민 발탁 [공식발표]",
+    "summary": [
+      "2028 LA 올림픽 본선 진출을 목표로 하는 남자 올림픽 축구대표팀이 코리아풋볼파크에서 첫 발을 내딛는다.",
+      "대한축구협회는 25일 김은중 감독이 이끄는 올림픽 대표팀(U-21)이 오는 6월 1일부터 9일까지 천안 코리아풋볼파크에서 국내 소집 훈련을 진행한다고 발표했다.",
+      "이번 소집은 국제축구연맹(FIFA) A매치 기간을 활용해 주요 선수들을 점검하고 대표팀의 전술적 기틀을 다지기 위해 마련됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbc2f8106",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260525/133986227/1",
+    "title": "자해·자살로 응급실 찾은 1020, 14명 중 1명 두 달 내 재시도",
+    "summary": [
+      "자살이나 자해로 응급실에 내원한 10~20대 14명 중 1명은 두 달 안에 재시도로 다시 응급실을 찾는 것으로 나타났다.",
+      "특히 여성과 사회적으로 고립된 청년층에서 재시도 위험이 커 맞춤형 정신건강 지원과 지역사회 연계가 필요하다는 지적이 나온다.·25일 대한의학회지(JKMS)에 실린 연구에 따르면 김태한 서울보라매병원 응급의학과 교수 연구팀은 2015~2022년 서울 내 권역정신응급의료센터를 방문한 24세 이하 자살 시도 및 자해 환자 1445."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n0a915408",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525035700061",
+    "title": "수원시장 후보들 \"민생 회복\" 한목소리…방법론으로 차별화",
+    "summary": [
+      "(수원=연합뉴스) 최종호 기자 = 6·3 지방선거가 9일 앞으로 다가온 가운데 전국 최대 규모 기초지방자치단체인 경기 수원시에서는 민생 회복이 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7f93d4c3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260525035900057",
+    "title": "울주군수 유세현장서 여야 운동원 마찰…경찰 사실관계 조사",
+    "summary": [
+      "(울산=연합뉴스) 김근주 기자 = 6·3 지방선거 울산 울주군수 유세 현장에서 발생한 여야 후보 선거운동원 간 실랑이가 고소로 이어지면서 경찰이..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n240d033a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260525/133986111/1",
+    "title": "스벅 불매운동, 카드사에도 불똥…“전용 카드 해지 등 예의주시”",
+    "summary": [
+      "‘탱크데이’ 마케팅이 불매운동으로 확산하면서 스타벅스와 제휴를 맺은 카드사들에도 불똥이 튀고 있다.",
+      "25일 금융권에 따르면 신한카드는 올 상반기(1~6월) 중 스타벅스 제휴 카드를 출시할 예정이었으나 내부 시스템 점검과 함께 이번 사태 여파를 고려해 출시 시점을 재검토하기로 했다.",
+      "지난달 ‘스타트래블 우리카드’를, 지난해 ‘스타벅스 삼성카드’를 내놓은 우리카드와 삼성카드도 해당 카드의 해지 움직임이 본격화될 지 등 상황을 예의주시하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb79858a9",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://www.asiae.co.kr/article/2026052514155484131",
+    "title": "육영수 여사 생가 찾은 박근혜…\"약속한 것 지킨다는 믿음 줘야\"",
+    "summary": [
+      "박근혜 전 대통령이 6·3 지방선거 국면에서 대구에 이어 충청권까지 찾으며 활동 반경을 넓히고 있다.",
+      "접전 양상으로 흘러가는 지방선거 국면에서 보수층을 결집시키기 위한 행보로 풀이된다.",
+      "25일 정치권에 따르면 박 전 대통령은 이날 오전 충북 옥천을 찾아 모친인 육영수 여사의 생가를 방문했다."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -655,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
+    "mentions": "2850건",
+    "trend": "+335%"
+  },
+  {
+    "rank": 2,
+    "tag": "정치",
     "mentions": "1810건",
     "trend": "+175%"
   },
   {
-    "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
-  },
-  {
     "rank": 3,
-    "tag": "스타트업",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "엔비디아",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
