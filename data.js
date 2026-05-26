@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-26 01:36:10
+// 마지막 업데이트: 2026-05-26 03:02:18
 window.NEWS_DB = [
+  {
+    "id": "n8d915b17",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnSzhxSVFfVTZhYktUQjlwbnBVcmsxWWZVc29NeXJBQU9say1XOGZYT242MlBfdm9iTkJDNDUtVlZ6c2FjS0otcUxNcTJOTDlkd2FKSEotdHR4WnfSAWBBVV95cUxQT21YWFdMNGkzTmhVZnMzSHRKMTRDZVhhTUpkbHpkXzBpSEVFeXRfX3R1cEV1cF9Pd2NLRDVrdEZQS18wZGtwTm9hRVp1X19GRzJOdjBGOVYxa05UbHFaS3g?oc=5",
+    "title": "카카오페이증권, RIA 5만좌…엔비디아·테슬라 팔고 삼전닉스 매수",
+    "summary": [
+      "카카오페이증권, RIA 5만좌…엔비디아·테슬라 팔고 삼전닉스 매수 연합뉴스."
+    ],
+    "chips": [
+      "#엔비디아",
+      "#카카오"
+    ]
+  },
   {
     "id": "n53d73ed0",
     "category": "IT",
     "source": "christiandaily.co.kr",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84MTkwOVczNlhEc2VUYzF4WGhVZWdLSUMtVXNTTTdUQVZYbVF2eDBmS3hsLURpeUtkSFJxbnZwYmhRZjZxLVFKUWVacC0xeElweFduMEZYSdIBXEFVX3lxTFBCeXU1ZlM1bURQYjVIMTFCcWpkMjd5MHRacTZ0SWNlbUdCVU83YklLVFZZcjdyV1VUb3poLUlQUVdnamIzS1g5eThsV0FETFdKTEhtM0JMYzJmWTFF?oc=5",
     "title": "해외 투자기관은 왜 한국 반도체를 다시 보나…삼성전자·SK하이닉스 전망 분석",
     "summary": [
@@ -18,17 +33,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc880125a",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "23시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqSm94eVVXRTg1SzRaVVBlQW5TaW9PeDI0ZG5uSXVGcU5oY0dXa0lERmJsblpPWW9KQmtITDVfazMtU1ZGR1lEY3p0X1BDU3pOLUlLa19URnQ1U3lR?oc=5",
-    "title": "'류현진 200승'은 이미 선동열·박찬호급…'손·차·박 논쟁'처럼 '선·박·류 논쟁'도 뜨거워진다",
+    "id": "nb1b11af5",
+    "category": "IT",
+    "source": "이뉴스투데이",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FMjFfTnk2eENrMzRaczgxYlRMamFTQjJiSklfU2h6MHQ2YVJxMWNZRGNWdXFfOGd1WkRXd2hLNHpqUmlhVDQyc09YT3RrTVNUTDJXOUdKSXhfNDhVVEktSFVZZzVmVFlKSFRxNkhtdzTSAXRBVV95cUxNaFF4dWtDVXJKMzRrVl9FX0Y3WEFFeG1DMzc1WjJxQlp0X3JRSTcyWDFMeEtUN0VFTjBtVWt3S3FKZzI3MzZnaDZ6SVcxM2NvVzhDaWZlYi1aajlEUWw3c1NaZjlkVm0yV2ZsTTB5YkFaRWhhaQ?oc=5",
+    "title": "AI 반도체 전선 넓어진다···엔비디아 CPU, AMD 대만 생태계 추격",
     "summary": [
-      "'류현진 200승'은 이미 선동열·박찬호급…'손·차·박 논쟁'처럼 '선·박·류 논쟁'도 뜨거워진다 네이트."
+      "AI 반도체 전선 넓어진다···엔비디아 CPU, AMD 대만 생태계 추격 이뉴스투데이."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -43,37 +60,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n160de6c8",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EY0t2ZTdqbkNqc0J0NGxKWlZYX1ZlYy1MN2tzYkEzTnJwd0dIUExYNGdaTnlqZ3dJYk9jekxOTDk2VzNpLXBoTlVQV2o5ZjZfOXFCeENaOTF2cGPSAWBBVV95cUxNbmhHb05yRUE4NG4wOFJfWGxkVTUwekNhWUZRNVBNSk93VGtiMi1yUk1BbFloSkhkN1htZkVDSFM2M1psb04zVVNhVFhVSzV3VlJBNy1OcVhlbW5OemRNeXM?oc=5",
-    "title": "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동",
-    "summary": [
-      "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동 연합뉴스."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nb1dbef79",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MbU9EamJybnE1Rzh1eUV4UnBJODJnMnltSFNjNzh5Y0VRcmZhSzFJWE5GWkhUbXNyRk5rX0VWYjNuUmR2YnV5X0hmT3dkOWM?oc=5",
-    "title": "[종합] 엔비디아가 다시 증명한 AI 반도체 수요…외신 \"둔화 우려 낮췄다\"",
-    "summary": [
-      "[종합] 엔비디아가 다시 증명한 AI 반도체 수요…외신 \"둔화 우려 낮췄다\" v.daum.net."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
       "#엔비디아"
     ]
   },
@@ -169,17 +155,59 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64476ff1",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "36일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "id": "nef4b12c1",
+    "category": "경제",
+    "source": "이데일리",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzdSZFFxUnJRaDU0aF9yN1oyMUVlWDlqQ0ROLXR3UFktYmp5Zm0xVHBoaHZOcXNzeFMxeHpyRG9mLVF3ay1rMVVyTm9jY29XNkt5aTBsUTF0R1ZHTS1uQlpQRjZiSDBVbkM4dW92WTZaejNoLU9CbWdvZURZd3JVcw?oc=5",
+    "title": "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대",
     "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+      "코스피 최고치와 인상 시그널에 하락…원·달러 환율, 보름 만에 1460원대 이데일리."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "n75c23649",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "26일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "54일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ncbcb6c77",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "78일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "summary": [
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -270,20 +298,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n41be81c1",
-    "category": "경제",
-    "source": "YTN",
-    "time": "197일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KUFFYTE53YzNGaGd6bEZwYTRYSE1sUFhlSkcwZmVhbWpFMV9yd0cySkRESWdsQVJBNU5IdVpzZFMwbEpaVVp1Z3hnYzEyYkljMXlPeURzYlZoU3B3MGc?oc=5",
-    "title": "코스피 석 달 동안 1,000p 올랐는데 환율 급등한 이유는?",
-    "summary": [
-      "코스피 석 달 동안 1,000p 올랐는데 환율 급등한 이유는? YTN."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -299,132 +313,94 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0ba94947",
-    "category": "스포츠",
-    "source": "이투데이",
-    "time": "282일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeFVaZ2NxaEJNU3lfakx0VkJhbU5ZbWs4UWl0QU5TaDhZVlFCUGlfVE9jWXNlSGxQSE1ZVGJfLWwtaDhYbWV1a004UmNqN3N2T0t3cA?oc=5",
-    "title": "'2025 KBO 프로야구' 오늘(16일)의 경기 일정",
-    "summary": [
-      "'2025 KBO 프로야구' 오늘(16일)의 경기 일정 이투데이."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n434b0be3",
+    "id": "n788fd7c0",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152126",
-    "title": "코스피 8103 돌파, 또 역사 썼다…삼전·하이닉스 고공행진 언제까지",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152134",
+    "title": "\"코인 매매만으론 살아남기 어렵다\"…거래소의 진화, 플랫폼에서 인프라로",
     "summary": [
-      "코스피가 26일 장중 8103.69(+3.26%)를 돌파하며 또 한 번 사상 최고치를 경신했다.",
-      "지난 15일 8000선을 처음 터치한 이후 단기 조정을 거쳐 다시 고점을 갱신하는 흐름이다.",
-      "이번에도 삼성전자와 SK하이닉스가 앞장섰다."
+      "디지털자산(코인) 거래소의 생존 공식이 바뀌고 있다.",
+      "빠른 체결 속도, 낮은 수수료, 풍부한 유동성이라는 전통적인 경쟁 요소만으로는 차별화가 어려워졌다.",
+      "지금 살아남는 거래소들은 공통점이 있다."
     ],
     "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
+      "#AI"
     ]
   },
   {
-    "id": "n8f47eece",
+    "id": "n489ac245",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152125",
-    "title": "\"불매운동에 매출 감소 심각하지만\"...스타벅스, 충전금 환불 카드 '만지작'",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152133",
+    "title": "연간 흑자 자신한 김동훈 NHN클라우드...\"글로벌 AI 인프라 제공해 日 진출 속도\"",
     "summary": [
-      "스타벅스 코리아가 '5·18 마케팅 사태'의 파장으로 심각한 매출 감소와 함께 회원 탈퇴 및 환불 요구라는 거센 역풍을 맞고 있는 것으로 확인됐습니다.26일 서울 강남구 조선팰리스 호텔에서 진행된 기자회견에서 신세계그룹은 \"최근 사태로 인해 매출에 심각한 타격을 받고 있는 것은 사실\"이라면서도 \"지금은 매출 회복 보다는 상처 입으신 분들의 정신적인 회복을 최우선으로 생각하고 있다\"고 덧붙였습니다.",
-      "'5·18 마케팅 사태' 논란 직후 온라인 커뮤."
+      "NHN클라우드가 차세대 AI 풀스택 브랜드 '팩토리엑스(FactoryX)'를 앞세워 AI 인프라 시장 공략에 속도를 낸다.",
+      "GPU 수급과 데이터센터 확장, 공공사업 경쟁력을 기반으로 글로벌 하이퍼스케일러와 정면 승부에 나서겠다는 전략이다.",
+      "특히 올해 말에는 꾸준한 실적 성장을 바탕으로 연간 흑자 전환도 자신했다.김동훈 NHN클라우드 대표는 26일 서울 중구 더플라자호텔 서울에서 열린 기자간담회에 참석해 \"글로벌 수준의 AI 인프라를 제공할 수."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n8acac7eb",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152132",
+    "title": "\"1Q 역대 최대 매출\"…'국가대표 쇼핑 1번지' 롯데백화점, K관광 효자로",
+    "summary": [
+      "롯데쇼핑이 올해 1분기 시장 기대치를 가뿐히 넘는 어닝서프라이즈를 기록했다.",
+      "연결 기준 영업이익 2529억원으로 전년 동기 대비 70.6% 급증했다.",
+      "매출은 3조5816억원으로 3.6% 늘었고 당기순이익은 1439억원으로 694.1% 폭증했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned12c475",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152131",
+    "title": "마통 금리 연 7% 시대, 빚투는 멈추지 않는다…대출 잔액 '41조' 경고등",
+    "summary": [
+      "시중은행의 마이너스통장(신용한도대출) 금리가 연 7%까지 치솟았지만, 사상 최고치를 갈아치운 증시 호황에 빚내서 주식에 투자하는 '빚투(빚내서 투자)' 수요는 멈추지 않고 있다.",
+      "5대 은행 마이너스통장 대출 잔액이 41조를 돌파한 가운데 고금리 이자폭탄을 향한 경고음이 커지고 있다.26일 전국은행연합회 공시에 따르면 3월 케이뱅크와 토스뱅크의 마이너스통장 대출금리(신규취급액 기준)는 연 5.90%, 5.69%를 기록하며 연 6%에 육박했다.5대."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n4b89801e",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "1분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260526094327",
+    "title": "전남 장성 지역사랑상품권도 우체국 체크카드로 쓰세요",
+    "summary": [
+      "[지디넷코리아]우정사업본부는 전남 장성군 지역사랑상품권을 이용할 수 있는 우체국 체크카드를 27일 출시한다고 밝혔다.장성사랑카드는 충전 금액이 부족한 경우에도 계좌 잔액 범위 내에서 체크카드 결제가 가능하다.",
+      "각종 캐시백과 할인도 제공된다.지역사랑상품권은 해당 지역 우체국 창구를 비롯해 우체국예금 홈페이지, 우체국 스마트뱅킹 앱, 지역사랑상품권 통합 플랫폼 ‘chak’ 앱을 통해 충전할 수 있다.충전된 상품권은 지역 내 가맹점에서 현금처럼 사용."
     ],
     "chips": [
       "#전기차"
     ]
   },
   {
-    "id": "n6a042fb0",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152123",
-    "title": "'과거의 영광을 다시 한 번' 썸에이지...신작 2종 출시해 글로벌 시장 다시 뛴다",
-    "summary": [
-      "신작 부재로 침체기를 겪었던 썸에이지가 올해를 반등의 원년으로 삼고 신작 2종 출시를 준비하고 있다.",
-      "모회사인 네시삼십삼분 IP를 기반으로 한 후속 프로젝트와 신규 장르 라인업을 순차적으로 선보이며 게임사업 회복에 속도를 내고 있다.",
-      "썸에이지는 올해 '팔라독 인벤라이즈'와 '프로젝트 RB'의 출시를 확정하고 신작 라인업 가동에 돌입했다고 26일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n17d87eff",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152120",
-    "title": "[크립토 브리핑] 美·이란 종전 교착...비트코인 횡보세",
-    "summary": [
-      "미국과 이란 간 종전 협상이 타결을 코앞에 두고 교착 상태에 빠진 가운데 비트코인 가격이 횡보세를 보이고 있다.",
-      "비트코인 가격은 종전 기대 속 1억1700만원까지 상승했으나 이날 다시 1억1600만원대로 내려왔다.26일 글로벌 가상자산 시황중계 사이트 코인마켓캡에 따르면 이날 오전 9시 10분 기준 비트코인 가격은 전일 동시간 대비 0.26% 하락한 1억1683만원을 기록했다.",
-      "알트코인도 횡보세를 보이고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44a5324d",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026052610350547223",
-    "title": "삼성전자, 폴란드 대규모 주거단지에 '고효율 히트펌프 솔루션' 공급",
-    "summary": [
-      "삼성전자가 폴란드에 조성되는 대규모 다세대 주택단지에 친환경·고효율 히트펌프 솔루션과 인공지능(AI) 기반의 통합 빌딩 관리 시스템을 대규모로 공급하며 유럽 B2B(기업 간 거래) 시장 공략에 속도를 낸다.",
-      "삼성전자는 폴란드의 대표 에너지 공급업체 '에코파크(Ekopark)'가 주도하는 주거단지 조성 프로젝트에 고효율 히트펌프 솔루션과 B2B 통합 제어 플랫폼인 '스마트싱스 프로(SmartThings Pro)'를 공급한다고 26일 밝혔다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n6d158203",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026052610270802452",
-    "title": "코스피 8100 돌파…30만전자·200만닉스 시대 열렸다",
-    "summary": [
-      "미국과 이란의 종전 기대감에 코스피가 장 중 8100을 돌파하며 사상 최고치를 새로 썼다.",
-      "삼성전자는 30만원, SK하이닉스는 200만원을 각각 뛰어넘으며 코스피 급등을 견인했다.",
-      "반도체부터 전력기기, 로보틱스 등 인공지능(AI) 관련 산업 전반의 실적 개선이 예상되면서 연내 코스피 1만포인트 달성도 충분히 가능하다는 전망이다.중동 긴장 완화에 코스피 최초 8100돌파26일 코스피는 전 거래일 대비 2.84% 오른 8070.91에 개장한."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n6556ea14",
-    "category": "스포츠",
+    "id": "nd8625bee",
+    "category": "경제",
     "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/policy/2026/05/26/2026052609542559536",
-    "title": "\"내 손으로 유니콘 발굴\"…경기도, 창업 공모 'G스타' 도민평가단 모집",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/economy/2026/05/26/2026052610000561009",
+    "title": "中企 해외 진출 거점, GBC에 입주하세요…최대 3년 임차료 지원",
     "summary": [
-      "경기도와 경기도경제과학진흥원(이하 경과원)이 다음달 11일까지 '2026년 경기 창업 공모(G스타 오디션) 예비·초기리그' 결선 심사에 참여할 도민평가단 10명을 모집한다고 26일 밝혔다.",
-      "이 대회는 우수 아이템을 보유한 도내 예비 창업자 및 3년 이내 초기 스타트업을 발굴하는 경진대회다.",
-      "올해는 총 558개 팀이 지원해 186대 1의 경쟁률을 기록했으며, 서류와 발표 평가를 거친 10개 팀이 결선 무대에 올랐다."
+      "중소벤처기업부가 전 세계 14개국에 있는 글로벌비즈니스센터를 통해 해외 진출 희망 중소·벤처기업을 위한 지원에 나선다.",
+      "중기부와 중소벤처기업진흥공단(중진공)은 27일 해외 진출을 희망하는 중소기업의 안정적인 현지 안착을 위해 글로벌비즈니스센터(GBC)의 입주기업을 모집한다고 26일 밝혔다.",
+      "GBC는 중소·벤처기업의 해외 진출 종합 지원 거점으로 현재 전 세계 14개국 22개 주요 도시에 설치돼있다."
     ],
     "chips": [
       "#스타트업",
@@ -432,220 +408,242 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n68788f25",
+    "id": "n5049b443",
     "category": "IT",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://www.asiae.co.kr/article/2026052609250043555",
-    "title": "“노션 안에서 개발 한번에”…노션, 개발자용 플랫폼 공개",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/26/2026052609104794518",
+    "title": "지능형 피싱 늘어나…경찰청, 전 직원 해킹 이메일 대응훈련",
     "summary": [
-      "글로벌 협업툴 기업 노션이 외부 시스템을 오가지 않고 인공지능(AI) 비서(에이전트)로 업무를 자동화할 수 있는 개발자용 플랫폼을 공개했다.26일 노션은 서울 성동구에서 기자간담회를 열고 '노션 디벨로퍼 플랫폼'을 공개했다.",
-      "지난 2월 공개한 팀 협업에 최적화된 커스텀 에이전트에 이어 추가한 기능으로, 개발자와 에이전트가 다양한 기능을 구축할 수 있는 플랫폼이다.",
-      "사용자들이 외부 시스템을 오가지 않고 노션 내에서."
+      "경찰청이 사이버 위협에 대응하기 위해 전국 경찰관서 직원들 대상으로 해킹 전자우편 대응훈련에 나선다.",
+      "경찰청은 오는 28일부터 다음 달 24일까지 전국 경찰관서 전 직원을 대상으로 '2026년 해킹 전자우편 대응훈련'을 실시한다고 26일 밝혔다.",
+      "이번 훈련은 지능형 사이버 공격이 늘어남에 따라 대응 역량을 강화하기 위해 마련됐다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n690d7fb8",
-    "category": "IT",
-    "source": "동아일보",
+    "id": "na2ae4664",
+    "category": "사회",
+    "source": "머니투데이",
     "time": "2분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260526/133991205/1",
-    "title": "李대통령 “약육강식 현실 맞서 국방력 한층 강화…AI·드론·핵잠 도입 속도”",
+    "url": "https://www.mt.co.kr/finance/2026/05/26/2026052610154367957",
+    "title": "국내 금융사·연기금, 사모대출 55.9조 투자..정부 \"관리 가능하다\"",
     "summary": [
-      "이재명 대통령은 26일 “평화가 전제되지 않는 성장은 사상누각에 지나지 않는다”라며 “스스로를 지킬 역량이 이미 충분하지만 각자도생과 약육강식의 냉엄한 국제 현실에 맞서서 국방력을 한층 강화해야 하겠다”고 말했다.이 대통령은 이날 오전 청와대에서 제23회 국무회의 겸 제10차 비상경제점검회의를 주재, “튼튼한 안보는 글로벌 초격차 경제 강국으로 도약하기 위한 핵심적인 토대”라며 이같이 밝혔다.이 대통령은 국방력 강화 방안에 대해 “미래형 첨단."
+      "금융사 30.5조원, 연기금 30.5조원 총자산 대비 0.42% \"리스크 관리 가능 수준\" 부실우려 큰 IT 업종 비중 14.8%로 글로벌사 41%대비 낮은 수준 미국발 사모대출 투자 부실 우려가 확산하고 있는 가운데 국내 금융회사와 연기금이 총 55조9000억원을 해외 사모대출에 투자한 것으로 파악됐다.",
+      "보험사·상호금융·증권사·은행 등 금융권이 30조5000억원, 국민연금·한국투자공사 등 연기금이 25조4000억원을 각각 투자했다."
     ],
     "chips": [
-      "#AI",
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n17d7e848",
-    "category": "IT",
-    "source": "뉴시스",
+    "id": "n39a6e280",
+    "category": "스포츠",
+    "source": "머니투데이",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260526_0003643703",
-    "title": "배재대 정보보안학전공 '캡스톤디자인 논문대회' 대상",
+    "url": "https://www.mt.co.kr/finance/2026/05/26/2026052610104892450",
+    "title": "장금상선·SK해운·호반·동국제강, '주채무계열' 신규 편입",
     "summary": [
-      "[대전=뉴시스]유순상 기자 = 배재대학교는 정보보안학전공 학생들이 국립목포대에서 열린 지역연계 산학협력 우수성과 공유 및 캡스톤디자인 논문 경진대회'에서 대상과 최우수상을 차지했다고 26일 밝혔다.",
-      "충북대 라이즈(RISE)사업단, 동서대 4단계 BK21 사업단 등이 참가한 가운데 '지·산·관·학 연계 AI 기술과 실감 콘텐츠 미래 워크숍'과 함께 열렸다.",
-      "정보보안학과 이당찬씨는 'OWASP ZAP API 기반 웹 보안 취약점 자동화 진단 및 사."
+      "금감원, 2026년 42곳 선정… 유진·이랜드·애경 등 3곳 제외 대출이 많아 재무안정성 평가를 받아야 하는 '주채무계열' 기업군에 올해 42곳이 선정됐다.",
+      "장금상선과 SK해운, 호반, 동국제강 등 4개 계열이 신규 편입됐고 유진, 이랜드, 애경 등 3개 계열은 제외되면서 지난해보다 1곳 늘었다.",
+      "26일 금융감독원은 이같은 내용의 '2026년 주채무계열 선정 결과'를 발표했다."
     ],
     "chips": [
-      "#AI",
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n62e43a99",
+    "id": "n1ac03b81",
     "category": "사회",
     "source": "아시아경제",
     "time": "2분 전",
-    "url": "https://www.asiae.co.kr/article/2026052610333130615",
-    "title": "풍력협회, '2026 해상풍력 공급망 컨퍼런스·전시회' 개최",
+    "url": "https://www.asiae.co.kr/article/2026052611385718194",
+    "title": "국내 금융권 등 해외 사모대출 56조…당국 \"시스템 리스크 가능성 낮아\"",
     "summary": [
-      "한국풍력산업협회는 '2026 해상풍력 공급망 컨퍼런스 전시회'를 오는 6월 16일부터 17일까지 이틀간 여수세계박람회장에서 개최한다고 26일 밝혔다.",
-      "이번 행사는 풍력협회와 전라남도청이 공동 주최하고 풍력협회가 주관한다.",
-      "기후에너지환경부와 한국에너지공단은 후원기관으로 참여한다."
+      "미국발 사모대출 부실에 대한 우려가 지속되고 있는 가운데 국내 금융권과 연기금 등이 투자한 해외 사모대출 규모가 약 56조원에 이르는 것으로 나타났다.",
+      "정부는 국내 기관들의 투자 자산 내 관련 비중이 낮고, 글로벌 시장의 위협요인으로 지목된 IT 업종 편중이나 환매 리스크도 크지 않은 만큼 국내 금융권의 위험 노출 수준은 제한적이라고 분석했다.",
+      "26일 금융위원회·금융감독원·재정경제부 등이 올해 2월 말 기준으로 전."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbe2a6a7e",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://www.asiae.co.kr/article/2026052611340396492",
+    "title": "中企 해외 진출 거점 '글로벌비즈니스센터' 입주기업 모집",
+    "summary": [
+      "중소벤처기업부는 해외 진출을 희망하는 중소기업의 안정적인 현지 안착을 위해 글로벌비즈니스센터(GBC)의 입주기업을 모집한다고 26일 밝혔다.",
+      "GBC는 중소·벤처기업의 해외 진출 종합 지원 거점으로, 현재 전 세계 14개국 22개 주요 도시에 설치돼 있다.",
+      "현지 사무공간 제공부터 해외시장 맞춤형 사업화 프로그램까지 다각적인 지원을 제공한다.GBC 입주기업에는 독립 사무공간과 공용 회의실이 제공되며, 비입주기업에도 개방형."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n18b5f3df",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://www.asiae.co.kr/article/2026052611333787084",
+    "title": "저녁 장사 많은 자영업자 숨통 틔운다…전기요금 선택권 확대",
+    "summary": [
+      "정부가 시간대별 요금제 개편에 따른 소상공인 부담을 줄이기 위해 소규모 자영업자 대상 전기요금 선택권 확대에 나선다.",
+      "저녁 시간대 전력 사용이 많은 일부 업종의 우려를 반영해 시간대별 요금 외에 단일요금도 선택할 수 있도록 하고, 향후 6개월간은 한국전력공사가 자동으로 더 저렴한 요금을 적용해주는 방식이다.",
+      "이원주 기후부 에너지전환정책실장은 26일 브리핑에서 \"정부와 한전은 전기위원회 서면 심의를 거쳐 오는 6."
+    ],
+    "chips": [
+      "#정책",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n2f6d766a",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://www.asiae.co.kr/article/2026052611032972797",
+    "title": "금감원, 올해 주채무계열 42곳 선정…장금상선·SK해운·호반·동국제강 신규 편입",
+    "summary": [
+      "금융감독원이 올해 주채무계열로 42개 계열기업군을 선정했다.",
+      "지난해보다 1곳 늘어난 규모로 장금상선·SK해운·호반·동국제강 등 4개 계열이 새로 편입됐고 유진·이랜드·애경 등 3개 계열은 제외됐다.금감원은 26일 2025년 말 기준 총차입금이 2조5569억원 이상이고 은행권 신용공여 잔액이 1조5032억원 이상인 42개 계열기업군을 2026년 주채무계열로 선정했다고 밝혔다.",
+      "주채무계열은 총차입금과 은행권 신용공여 규모가 일."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n26becf1b",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003643839",
+    "title": "한은금융망에 국제 기준 적용된다…국제금융전문표준 도입",
+    "summary": [
+      "[서울=뉴시스]김래현 기자 = 한국은행이 26일 한은금융망 핵심 자금 이체 업무에 국제금융전문표준(ISO 20022)을 도입했다고 밝혔다.",
+      "국제금융전문표준(ISO 20022)은 국제표준화기구(ISO)가 정한 금융통신전문 관련 국제 표준이다.",
+      "지급 결제와 증권, 카드, 무역 금융, 외환 업무 등에 사용된다."
+    ],
+    "chips": [
+      "#한은",
+      "#수출"
+    ]
+  },
+  {
+    "id": "nd9b0481a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003643848",
+    "title": "전기료 '낮↓·밤↑' 저녁 영업 자영업자 부담 늘어날라…단일요금제 마련",
+    "summary": [
+      "[세종=뉴시스]손차민 기자 = 다음 달부터 주점·숙박업소 등 저녁 시간대 영업하는 자영업자를 위한 새 전기요금제가 나온다.",
+      "정부가 태양광 폭증에 따라 전기요금을 낮 시간엔 낮추고 밤 시간엔 올리면서 야간 영업 업종의 부담이 커질 수 있다는 우려가 나와서다.",
+      "전기요금제가 복잡해지며 어떤 요금이 유리한지 고객이 직접 따질 필요 없이, 한국전력공사가 사용 패턴을 대신 분석해 오는 12월부터 더 유리한 요금제를 신청 없이 자동으로 적용해준다."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "n807e022a",
+    "id": "nb0765d73",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260526_0003643694",
-    "title": "이 대통령 \"동남권 공공기관·기업 추가이전 신속 추진…투자 이어가야\"",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003643445",
+    "title": "신임 사무관 313명 입교…16주간 공직 기본교육 진행",
     "summary": [
-      "[서울=뉴시스]조재완 김경록 기자 = 이재명 대통령은 26일 \"동남권을 세계적 해양 경제권으로 도약시키기 위해 오래전부터 검토됐던 다른 공공기관이나 기업의 추가 이전도 신속히 추진해야겠다\"고 말했다.",
-      "이 대통령은 이날 오전 청와대에서 제23회 국무회의 겸 제10차 비상경제점검회의를 열고 \"해수부에 이어 HMM도 이전이 확정됐다\"며 이같이 말했다.",
-      "이 대통령은 \"국제질서 급변, 공급망 재편 가속으로 글로벌 해양주도권 선점이 어느 때보다 중요한 과."
+      "[세종=뉴시스]성소의 기자 = 5급 공개경쟁채용시험에 합격한 신임 사무관 313명이 16주간 공직에 입문하기 위한 교육을 받는다.",
+      "국가공무원인재개발원은 26일 제71기 신임관리자과정 입교식을 열고 본격적인 교육에 들어갔다고 밝혔다.",
+      "교육생들은 이날 국립대전현충원 참배도 진행했다."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2e8360cb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260526_0003643352",
-    "title": "\"지방선거 쟁점화\"…日언론, 스타벅스 '5·18 탱크데이' 주목",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 스타벅스코리아의 '5·18 탱크데이' 이벤트 논란을 일본 주요 매체들이 잇따라 보도하고 있다.",
-      "지지통신은 26일 \"한국 스타벅스의 판촉 행사가 5·18 민주화운동을 조롱하는 것처럼 받아들여지고 있다\"며 대표이사 해임과 회사의 사과에도 불구하고 상품 구매를 거부하는 움직임이 이어지는 분위기를 소개했다.",
-      "비판 여론이 소셜미디어(SNS)를 통해 순식간에 퍼져나가면서 초기 진화에 실패했다는 분석도 내놨다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n231ab14c",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/26/2026052609264329245",
-    "title": "기상 직후 '이것' 먹는다?…전문의 \"흡연·음주만큼 위험\" 경고",
-    "summary": [
-      "그룹 오마이걸 미미의 충격적인 식습관에 내과 전문의 우창윤이 우려를 표했다.",
-      "지난 25일 공개된 넷플릭스 예능 '만학도 지씨'에는 내분비내과 전문의 우창윤이 출연해 미미, 지석진과 최근 화두로 떠오른 '웰에이징'에 대해 이야기를 나눴다.",
-      "이날 방송에서 우창윤은 \"예전에는 '안티에이징'이라고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f3db93d",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/policy/2026/05/26/2026052609461387155",
-    "title": "\"외국인 환자도 믿고 찾는다\"…주안나누리병원 국제진료 확대",
-    "summary": [
-      "CIS 국가 중심 외국인 환자 1만4000명 돌파…맞춤형 의료서비스 고도화 다국어 의료통역·코디네이터 서포터즈 출범 의료통역부터 진료 안내까지 '원스톱 국제진료 체계' 구축 주안나누리병원이 외국인 환자를 위한 국제진료 서비스를 한층 강화하며 글로벌 의료시장 공략에 속도를 낸다.",
-      "주안나누리병원은 지난 22일 병원 3층 나누리홀에서 외국어 의료통역사와 국제의료 코디네이터를 대상으로 팸러닝 행사를 열고 '국제진료 서포터즈 발대식'을 개최했다고 26일."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n0762bd9b",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/industry/2026/05/26/2026052610232284352",
-    "title": "LG, '취준생' 청년 1000명에 신입사원 수준 실무 훈련 제공",
-    "summary": [
-      "LG가 청년 직무 교육 프로그램 '렛츠 그로우 위드 엘지'(Let's Grow with LG)를 신설하고 청년 1000명에게 직업훈련을 제공한다고 26일 밝혔다.",
-      "이 프로그램은 산업통상부와 고용노동부가 추진하는 'K-뉴딜 아카데미'의 일환이다.",
-      "'K-뉴딜 아카데미'는 청년이 선호하는 대기업 등이 주도적으로 직업능력개발 프로그램을 제공해 청년의 역량 향상과 자신감 회복을 지원하는 사업이다."
-    ],
-    "chips": [
-      "#취업",
-      "#고용",
+      "#재건축",
+      "#채용",
       "#교육"
     ]
   },
   {
-    "id": "na192df18",
-    "category": "스포츠",
+    "id": "n1f0909ee",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260526_0003643681",
-    "title": "환자 모니터링 판 키운다…GE헬스케어·ACK '맞손'",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003643845",
+    "title": "금융사·연기금 해외 사모대출 '56조원'…정부 \"위험 관리 가능한 수준\"",
     "summary": [
-      "[서울=뉴시스]송종호 기자 = GE헬스케어가 국내 실시간 환자 모니터링 시장을 판을 키운다.",
-      "GE헬스케어 코리아는 ACK와 경기도 고양시 ACK 본사에서 EMR 인터페이스 기반 실시간 환자 모니터링 솔루션 개발 협력을 위한 업무협약(MOU)을 체결했다고 26일 밝혔다.",
-      "협약식에는 조선주 ACK 대표, 황태호 상무, 김윤호 이사와 김용덕 GE헬스케어코리아 대표, 이흥기 환자케어솔루션 사업부 총괄(전무) 등 양사의 주요 관계자가 참석했다."
+      "[서울=뉴시스] 최홍 기자 = 국내 금융회사와 주요 연기금·공제회의 해외 사모대출 투자 규모가 약 56조원에 달하는 것으로 나타났다.",
+      "이 가운데 보험사의 투자액은 20조원을 넘어서며 개별 업권 중 가장 큰 비중을 차지했다.",
+      "다만, 정부는 총자산 대비 투자 비중이 낮고 부실 우려가 큰 업종으로 쏠림이 적어 리스크 관리가 충분히 가능한 수준이라고 평가했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n61c015d2",
+    "id": "n95105828",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/05/26/6MRBRT37BJCAJMSC7V32T3JRYQ/",
+    "title": "‘신용 부실 뇌관’ 해외 사모 대출...금융권·연기금 투자 규모 50조원 넘어",
+    "summary": [
+      "‘신용 부실 뇌관’ 해외 사모 대출...금융권·연기금 투자 규모 50조원 넘어."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n86877b6f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/05/26/G7S2KBON4ZAAZNL7GYGJUGVK3Y/",
+    "title": "[단독] “날 무시해?” 칼 2자루 챙겨간 현대차 공장 직원...법원 “해고 정당”",
+    "summary": [
+      "[단독] “날 무시해?” 칼 2자루 챙겨간 현대차 공장 직원...법원 “해고 정당”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n54515fb9",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/K-TECH Global Leaders/article/all/20260526/133991927/1",
+    "title": "다시 앞서가는 SK하이닉스, 발열 잡는 ‘iHBM’ 기술 공개… “HBM5 등 차세대 제품에 적용”",
+    "summary": [
+      "SK하이닉스가 발열을 획기적으로 낮춘 메모리 설루션 ‘iHBM’ 기술을 26일 공개했다.",
+      "HBM(고대역폭 메모리, High Bandwidth Memory) 패키지에 일체형 냉각 요소 ‘ICE(Integrated Cooling Elements)’를 적용한 기술이라고 소개했다.",
+      "ICE는 전기가 통하지 않지만 열 전도가 높은 실리콘 소재를 활용해 HBM 패키지 내부에 추가적인 열 배출 경로를 형성하는 냉각 요소다."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n352d3b83",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526057100001",
-    "title": "李대통령 \"중동전쟁 이후 상황 선제 대비…재정 적극적 역할\"",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526075500001",
+    "title": "'2차 데드라인' 임박…국민의힘·개혁신당 연대 물 건너가나",
     "summary": [
-      "(서울=연합뉴스) 임형섭 설승은 기자 = 이재명 대통령은 26일 \"중동 전쟁 이후의 상황 변화에 대해 선제적으로 대비해야 한다\"고 말했다."
+      "(서울=연합뉴스) 박수윤 조다운 노선웅 기자 = 더불어민주당의 독주를 저지하기 위한 국민의힘과 개혁신당의 6·3 지방선거 연대 논의가 별다른 진..."
     ],
     "chips": [
       "#정치"
-    ]
-  },
-  {
-    "id": "n42ee86bf",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526059000017",
-    "title": "한국, 부산 개최 아시아물리올림피아드서 금 8개 획득",
-    "summary": [
-      "(서울=연합뉴스) 조승한 기자 = 과학기술정보통신부와 한국과학창의재단은 17~25일 부산에서 열린 제26회 아시아물리올림피아드(APhO)에서 한..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7d4fb84b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526054100009",
-    "title": "'중동발 연료난' 스리랑카, 2개월 전부터 러·중 연료 수입 협상",
-    "summary": [
-      "(서울=연합뉴스) 유창엽 기자 = 연료 일체를 수입에 의존해 중동전쟁 영향을 상대적으로 더 많이 받는 스리랑카가 러시아와 중국으로부터 연료를 수..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n406daa67",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "4분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/05/26/J5EBX7OSAVFXRFOVBYYRM6ZTJY/",
-    "title": "지니언스, 4조7000억원 양자 보안 시장 진출",
-    "summary": [
-      "지니언스, 4조7000억원 양자 보안 시장 진출."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -660,15 +658,15 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
