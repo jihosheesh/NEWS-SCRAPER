@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-26 15:17:24
+// 마지막 업데이트: 2026-05-26 15:18:45
 window.NEWS_DB = [
   {
     "id": "nf834cc9a",
@@ -350,10 +350,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8f4974b2",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260527/133997999/1",
+    "title": "전국 곳곳 비…남해안·제주 최대 100㎜ 폭우",
+    "summary": [
+      "수요일인 27일은 전국 대부분 지역에 비가 내리는 가운데 남해안과 제주도를 중심으로 강한 비와 돌풍, 천둥·번개가 이어지겠다.기상청은 “오전 사이 전국 대부분 지역에 비가 내리겠고 전남과 경상권, 제주도는 늦은 오후까지 비가 내리겠다”고 예보했다.예상 강수량은 ▲서울·인천·경기·서해5도 10~60㎜ ▲강원 내륙 10~60㎜ ▲강원 산지·동해안 5~20㎜ ▲대전·세종·충남·충북 10~60㎜ ▲광주·전남 30~80㎜ ▲전북 10~60㎜ ▲부산·울산."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6cd647a0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260527/133997996/1",
+    "title": "전남편 언급 황정음 “짐 빼가라고 문 열어놔…고맙다”",
+    "summary": [
+      "배우 황정음이 전 남편을 간접 언급하며 이혼 당시 에피소드를 얘기했다.황정음은 26일 자신의 유튜브 채널에서 새로 이사한 집을 공개했다.제작진은 거실을 둘러보다가 오래된 듯한 식탁을 발견하고 “이 식탁은 전에 쓰던 거냐”고 물었다.황정음은 “쓰던 거다.",
+      "이것도 거의 한 10년 됐을 거다.",
+      "신혼 때 산 거다”고 했다.제작진은 “집에 있는 것들이 다 신혼 때 산 가구냐”고 물었다.그러자 황정음은 “맞아."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n1ab6bfdd",
     "category": "사회",
     "source": "동아일보",
-    "time": "방금 전",
+    "time": "2분 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260527/133997991/1",
     "title": "28개월 딸과 키즈카페 이민정 “마운자로보다 효과 좋아”",
     "summary": [
@@ -369,7 +399,7 @@ window.NEWS_DB = [
     "id": "n63aeaaf9",
     "category": "사회",
     "source": "동아일보",
-    "time": "1분 전",
+    "time": "2분 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260527/133997986/1",
     "title": "54세 고소영 “내 원래 말투인데 앵앵 거린다고 하더라”",
     "summary": [
@@ -382,41 +412,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5d1a1078",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260527/133997983/1",
-    "title": "박준금의 ‘43㎏’ 유지법…60대에 방부제 미모 유지하는 비결은?",
-    "summary": [
-      "배우 박준금(64)이 탄산음료와 라면을 멀리하고 철저한 소식 습관을 유지하며 43㎏의 몸무게와 건강을 지켜내는 비결을 공개했다.지난 21일 유튜브 채널 ‘엄지원 Umjeewon’에 출연한 박준금은 몸무게 43㎏을 유지하는 비결로 철저한 식단 관리를 꼽았다.",
-      "그는 “중요한 광고 촬영이 잡히면 열흘 전부터 당근 김밥만 먹을 정도로 소식한다”라며 열량이 낮고 포만감이 좋은 ‘당근 김밥’을 말하며 날씬한 몸매의 이면에 숨겨진 노력을 전했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n3180bcc3",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260527/133997980/1",
-    "title": "미자, 4일 만에 3㎏ 감량 성공…“김치, 짠 음식 끊었다”",
-    "summary": [
-      "코미디언 미자(41)가 다이어트에 돌입한 근황을 전했다.25일 미자는 자신의 소셜미디어(SNS) 계정을 통해 체중 현황을 밝혔다.",
-      "지난 21일 다이어트를 선언했던 그는 4일 만에 약 3㎏을 감량하는 데 성공했다.앞서 미자는 “결혼 전 리즈 모습을 다시 찾고 싶다”면서 다이어트 의지를 드러냈다.",
-      "그는 “1주일에 4~5번은 새벽에 야식을 먹었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n90d4b126",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "3분 전",
+    "time": "4분 전",
     "url": "https://www.yna.co.kr/view/AKR20260526166551098",
     "title": "벨기에서 스쿨버스-기차 충돌 비극…학생 등 최소 4명 사망(종합)",
     "summary": [
@@ -430,7 +429,7 @@ window.NEWS_DB = [
     "id": "nfbab2fc7",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "6분 전",
+    "time": "7분 전",
     "url": "https://www.mt.co.kr/sports/2026/05/27/2026052620024785066",
     "title": "\"만화 찢고 나왔다\" 테니스 여신, 아찔한 해설가 변신에 팬들 영광... \"은퇴 후 피클볼 치더니 결국 돌아왔다\"",
     "summary": [
@@ -446,7 +445,7 @@ window.NEWS_DB = [
     "id": "n98fef038",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "7분 전",
+    "time": "8분 전",
     "url": "https://www.chosun.com/sports/baseball/2026/05/27/GA4DIMRTGY3TMYJQHE4TKM3FGU/",
     "title": "'한화 최초' 예비역 독수리, 2루 구도 정리하나…달감독 예의주시 \"중계 많이 봤어, 전보다 많이 늘었다\"",
     "summary": [
@@ -462,7 +461,7 @@ window.NEWS_DB = [
     "id": "n719fe0f8",
     "category": "사회",
     "source": "조선일보",
-    "time": "7분 전",
+    "time": "8분 전",
     "url": "https://www.chosun.com/opinion/editorial/2026/05/27/2NI6HHHDFNF3TMEQECPIY5JROY/",
     "title": "[사설] 보수·중도층 56% “나를 대표하는 정당 없다”",
     "summary": [
@@ -476,7 +475,7 @@ window.NEWS_DB = [
     "id": "n5d9557cd",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
+    "time": "8분 전",
     "url": "https://www.yna.co.kr/view/AKR20260526179000109",
     "title": "푸틴, 카자흐스탄 간다…석유 수송 확대 등 논의",
     "summary": [
@@ -490,7 +489,7 @@ window.NEWS_DB = [
     "id": "n48e3d465",
     "category": "IT",
     "source": "테크M",
-    "time": "10분 전",
+    "time": "11분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152141",
     "title": "300배 빨라진 공격에 \"미토스 위협 본질은 자동화...'AI 경찰' 필요해\"",
     "summary": [
@@ -505,7 +504,7 @@ window.NEWS_DB = [
     "id": "nb8a511d1",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
+    "time": "14분 전",
     "url": "https://www.newsis.com/view/NISX20260526_0003643584",
     "title": "\"애 무릎 까졌다고 유치원 초토화\"…'스윗한' 남편의 소름 돋는 반전",
     "summary": [
@@ -521,7 +520,7 @@ window.NEWS_DB = [
     "id": "nf5b03cfd",
     "category": "경제",
     "source": "뉴시스",
-    "time": "13분 전",
+    "time": "15분 전",
     "url": "https://www.newsis.com/view/NISX20260527_0003644886",
     "title": "이스라엘, 기준금리 3.75%로 0.25%P 인하…\"이란전쟁 이후 경기회복 조짐\"",
     "summary": [
@@ -537,7 +536,7 @@ window.NEWS_DB = [
     "id": "n5c1d12b2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
+    "time": "15분 전",
     "url": "https://www.newsis.com/view/NISX20260526_0003644411",
     "title": "가난 탈출하려 택한 '상향혼'…\"혹독한 대가 있다\" 현실 고백 눈길",
     "summary": [
@@ -553,7 +552,7 @@ window.NEWS_DB = [
     "id": "n1d224cf7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "15분 전",
+    "time": "16분 전",
     "url": "https://www.newsis.com/view/NISX20260526_0003644286",
     "title": "한그루의 동안 비결? …'이거' 받더니 \"바로 얼굴 리프팅\"",
     "summary": [
@@ -569,7 +568,7 @@ window.NEWS_DB = [
     "id": "n658c7476",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
+    "time": "17분 전",
     "url": "https://www.yna.co.kr/view/AKR20260526179400071",
     "title": "쿼드 외교장관 공동성명…\"'北 완전한 비핵화' 의지 재확인\"",
     "summary": [
@@ -583,7 +582,7 @@ window.NEWS_DB = [
     "id": "nb0ab7a81",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
+    "time": "17분 전",
     "url": "https://www.yna.co.kr/view/AKR20260527000200527",
     "title": "경남 창원에 호우주의보…거제 등 4곳 호우주의보 유지",
     "summary": [
@@ -597,7 +596,7 @@ window.NEWS_DB = [
     "id": "nd8b3ada4",
     "category": "IT",
     "source": "아시아경제",
-    "time": "17분 전",
+    "time": "18분 전",
     "url": "https://www.asiae.co.kr/article/2026052616232714885",
     "title": "\"AI도 의식 있나\" 논쟁 확산…IBS \"과학적 판단 기준부터 다시 점검해야\"[과학을읽다]",
     "summary": [
@@ -613,7 +612,7 @@ window.NEWS_DB = [
     "id": "nb9149798",
     "category": "부동산",
     "source": "머니투데이",
-    "time": "20분 전",
+    "time": "21분 전",
     "url": "https://www.mt.co.kr/society/2026/05/26/2026052623093659023",
     "title": "\"술 마시지 마\" 잔소리에…아내 머리에 스프레이 뿌리고 불 붙였다",
     "summary": [
@@ -629,7 +628,7 @@ window.NEWS_DB = [
     "id": "nbd699548",
     "category": "사회",
     "source": "조선일보",
-    "time": "22분 전",
+    "time": "23분 전",
     "url": "https://www.chosun.com/opinion/column/2026/05/26/TA32CHHWPZCQTCI4QTUVJL5ADU/",
     "title": "[선우정 칼럼] 삼전닉스 프롤레타리아 혁명",
     "summary": [
@@ -646,8 +645,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
