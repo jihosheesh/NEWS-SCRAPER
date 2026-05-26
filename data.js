@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-26 12:53:33
+// 마지막 업데이트: 2026-05-26 14:00:19
 window.NEWS_DB = [
   {
     "id": "n305375ed",
     "category": "IT",
     "source": "아주경제",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aRHlDM2xqd1BCdDJFRzhGUzl4TGJZYi1yNWZpVTZOeFZaYW1Scllzanp6LUo2dlMyOUNCUEJVMkZoODV2V0tTdjQ2M0R2RDM0cWNZMFFQM21jUdIBWEFVX3lxTE44ZFB3d2pQMEJBeWxyaFgzb08xVzBNc1NaSGVBNzNHMGp1b04zS1FzMWxxcjdUNWxBSnNXaFkwQ2xKcnpWSWMxTVM5NnB4MHhMbnQ0OThObEo?oc=5",
     "title": "[NNA] 대만 반도체, 엔비디아 베라로 새로운 도약",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "ne4a9411d",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CN1gwaE1jbG5MN1p1MTMyTUhXZm9VU2NLQ2UyTHNMbXVlQU16ZHFiQTU5WTgxdGJtWkNYb1hLN3hDeU1MV1poRm5MamJJSkNMYmh0akVlTGF3TEQyUXNXcm45WVVDekdVdXlablhoY01kVGs?oc=5",
     "title": "미국과 정상회담 뒤 중국 AI 반도체 '자신감' 과시, 화웨이로 엔비디아 대체 속도 붙어",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n12183c09",
     "category": "경제",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiUmswa3F1c3dvSkFDQi0tdTFoVGlXX1Iyc1c4YVYxb0d1eWpWVFFYQW9oazRhTFRNUG8yd1o1MldsWXd6dG5qUEJlaGptY2NBX1d3eHlyeUpFMENCTEpCaFBJeGR4NDZZbTk0VDZVTQ?oc=5",
     "title": "[박혜린 기자의 내돈내굴①] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유",
     "summary": [
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "n6e6a3ec4",
     "category": "경제",
     "source": "헤럴드경제",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9menVHNFhQazBTT0M3dlpUZWFkTHY5X1FaNWxTQXprWTkxcE8zSlRpb0RnSjdfa1dpTWhseEwxemhtWGlBTTh6SVZGNVNVM3JqTGRUZUtn?oc=5",
     "title": "美국채 금리 쇼크에 원화 요동…‘환율 1500원 뉴노멀’ 굳어지나 [코스피 8100 돌파]",
     "summary": [
@@ -68,7 +68,7 @@ window.NEWS_DB = [
     "id": "n53d73ed0",
     "category": "IT",
     "source": "christiandaily.co.kr",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84MTkwOVczNlhEc2VUYzF4WGhVZWdLSUMtVXNTTTdUQVZYbVF2eDBmS3hsLURpeUtkSFJxbnZwYmhRZjZxLVFKUWVacC0xeElweFduMEZYSdIBXEFVX3lxTFBCeXU1ZlM1bURQYjVIMTFCcWpkMjd5MHRacTZ0SWNlbUdCVU83YklLVFZZcjdyV1VUb3poLUlQUVdnamIzS1g5eThsV0FETFdKTEhtM0JMYzJmWTFF?oc=5",
     "title": "해외 투자기관은 왜 한국 반도체를 다시 보나…삼성전자·SK하이닉스 전망 분석",
     "summary": [
@@ -81,16 +81,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n160de6c8",
+    "id": "nb1dbef79",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EY0t2ZTdqbkNqc0J0NGxKWlZYX1ZlYy1MN2tzYkEzTnJwd0dIUExYNGdaTnlqZ3dJYk9jekxOTDk2VzNpLXBoTlVQV2o5ZjZfOXFCeENaOTF2cGPSAWBBVV95cUxNbmhHb05yRUE4NG4wOFJfWGxkVTUwekNhWUZRNVBNSk93VGtiMi1yUk1BbFloSkhkN1htZkVDSFM2M1psb04zVVNhVFhVSzV3VlJBNy1OcVhlbW5OemRNeXM?oc=5",
-    "title": "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동",
+    "source": "v.daum.net",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MbU9EamJybnE1Rzh1eUV4UnBJODJnMnltSFNjNzh5Y0VRcmZhSzFJWE5GWkhUbXNyRk5rX0VWYjNuUmR2YnV5X0hmT3dkOWM?oc=5",
+    "title": "[종합] 엔비디아가 다시 증명한 AI 반도체 수요…외신 \"둔화 우려 낮췄다\"",
     "summary": [
-      "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동 연합뉴스."
+      "[종합] 엔비디아가 다시 증명한 AI 반도체 수요…외신 \"둔화 우려 낮췄다\" v.daum.net."
     ],
     "chips": [
+      "#AI",
       "#반도체",
       "#엔비디아"
     ]
@@ -380,264 +381,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n76643d95",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/26/2026052621101618490",
-    "title": "'요로결석 수술' 김보미, 간호사들 저격 \"왜 이렇게 불친절할까\"",
+    "id": "ne77d69ff",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526130351104",
+    "title": "쿼드, 호르무즈사태 계기 인태 해양안보 공동감시 추진…中견제(종합)",
     "summary": [
-      "최근 요로결석으로 수술받았던 배우 김보미가 일부 불친절한 간호사들을 저격했다.",
-      "26일 김보미는 자신의 인스타그램에 \"수술한 곳이 아파서 병원 왔는데 창구에 있는 간호사 쌤들은 왜 이렇게 불친절할까.",
-      "하, 정말\"이라는 글과 함께 한 장의 사진을 게재했다."
+      "(워싱턴·자카르타=연합뉴스) 홍정규 손현규 특파원 = 미국·일본·인도·호주가 인도·태평양에서 항행의 자유와 안전을 확보하기 위한 공동 해양 감시..."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n0b5a1db3",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://www.asiae.co.kr/article/2026052621475584235",
-    "title": "이준석 “개혁신당 벽보를 중국어로 조작 유포…공유자도 고발”",
-    "summary": [
-      "6·3 지방선거를 앞두고 중국어로 된 개혁신당 허위 벽보가 온라인상에 유포되자 개혁신당이 법적 조치에 나섰다.",
-      "이준석 개혁신당 총괄선거대책위원장은 26일 페이스북을 통해 \"개혁신당 후보자의 벽보를 인공지능(AI)에 집어넣어 중국어로 바꾼 다음 '후보자가 벽보를 중국어로 뿌린다'는 허위 사실을 게시한 자와 이를 공유 등으로 유포한 자 전원을 즉시 선거관리위원회에 고발 조치했다\"고 밝혔다.",
-      "이 위원장이 함께 공유한 사."
-    ],
+    "id": "n464dc1a2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526176800063",
+    "title": "[속보] 코레일 \"서소문 사고 서울시 복구 작업 상당 시간 소요될 듯\"",
+    "summary": [],
     "chips": [
-      "#AI",
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n528b9cc7",
+    "id": "n5c04c872",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/kid/kid_history/2026/05/27/ULTD2VXYFNAPDKFXI4PFKKG4GQ/",
+    "title": "트럼프가 이란 다음으로 노리는 쿠바, 49년 독재로 국민 4명 중 1명은 저녁 굶어요",
+    "summary": [
+      "트럼프가 이란 다음으로 노리는 쿠바, 49년 독재로 국민 4명 중 1명은 저녁 굶어요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c302615",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260526_0003644800",
-    "title": "LG, 롯데에 2-1 강우콜드 승리…선두 삼성과 승차 지워",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/26/G5RGIMRWMRQTIMDGGIZDIY3FG4/",
+    "title": "'90년생 야구천재' 허경민&김상수 4안타 4타점 합작+최원준 2홈런 → 보쉴리 7이닝 무실점 쾌투…KT, 두산에 6대0 완승 [잠실리뷰]",
     "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 LG 트윈스가 롯데 자이언츠를 잡고 선두 삼성 라이온즈와의 승차를 지웠다.",
-      "LG는 26일 부산 사직구장에서 열린 2026 신한 쏠 KBO리그 롯데와의 경기에서 2-1, 7회 강우콜드 게임 승리를 거뒀다.",
-      "2위 LG(29승 19패·승률 0.604)는 3연승을 내달리면서 이날 우천 취소로 경기를 치르지 않은 1위 삼성(28승 1무 18패·승률 0.609)과 승차가 사라졌다."
+      "[잠실=스포츠조선 김영록 기자] KT 위즈가 베테랑들의 활약을 앞세워 두산 베어스 상대로 승리를 따냈다.",
+      "두산은 시즌 첫 4연패에 빠졌다.",
+      "KT는 26일 잠실구장에서 열린 두산과의 주중시리즈 1차전에서 선발 케일럽 보쉴리의 7이닝 무실점 호투와 고비 때마다 터진 허경민-김상수의 적시타, 최원준의 홈런 2개를 앞세워 6대0 완승을 거뒀다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n82cf4b66",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/26/HAYDEMBYGY4TIZRWGIZTMOJZMI/",
-    "title": "'같은 북런던인데' 한쪽은 우승, 한쪽은 잔류...'원수' 아스널-토트넘, 한 클럽서 '다른 의미+같은 파티'",
-    "summary": [
-      "[스포츠조선 박찬준 기자]'북런던 라이벌' 아스널과 토트넘이 다른 의미의 파티를 벌였다.",
-      "26일(한국시각) 영국 더선은 '아스널 선수들이 우승 파티를 즐기던 중 토트넘 선수들과 마주쳤다'고 보도했다.",
-      "아스널은 마침내 무관의 한을 풀었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd054cc1",
+    "id": "n2c0bbbd2",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526173200004",
-    "title": "60년 도심 잇던 서소문고가, 상처 남긴 채 역사 속으로",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526175700081",
+    "title": "\"극우 이스라엘 장관의 구호선단 활동가 조롱은 국내 정치용\"",
     "summary": [
-      "(서울=연합뉴스) 정준영 황재하 기자 = 26일 오후 철거작업 도중 슬라브가 무너진 서울 서소문고가차도는 60년 전인 1966년 세워진 고가차도..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b013704",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/26/HFSDOMZXGE4DANLBMVRDEZTDHA/",
-    "title": "'ERA 2.17' 명품신예, 허무하게 무너졌다! 투심&슬라이더 집공략 적중…6회도 못채우고 강판 [잠실리포트]",
-    "summary": [
-      "[잠실=스포츠조선 김영록 기자] 두산 베어스가 자랑하는 신예 에이스가 허무하게 무너졌다.",
-      "KT 위즈의 집중분석에 완벽히 당했다.",
-      "두산 최민석은 26일 잠실구장에서 열린 KT 위즈전에 선발등판, 5이닝 5실점으로 무너졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n78c6720a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/26/EVSRP2F4S5EGTPVAFQMZ6BCWMM/",
-    "title": "폭우에 사라진 페라자 진기명기 득점…한화-NC전 우천 노게임",
-    "summary": [
-      "폭우에 사라진 페라자 진기명기 득점…한화-NC전 우천 노게임."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ef4b846",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526173100007",
-    "title": "이현중, 나가사키 창단 첫 B.리그 우승 앞장…PO MVP 등극",
-    "summary": [
-      "(요코하마=연합뉴스) 최송아 기자 = 한국 농구의 '에이스' 이현중이 일본프로농구 나가사키 벨카의 창단 첫 B.리그 우승에 앞장서며 플레이오프 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n67218690",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/26/2026052621042598510",
-    "title": "5만원짜리 방이 300만원?…참다못한 BTS \"진짜 적당히들 합시다\"",
-    "summary": [
-      "다음달 열리는 그룹 방탄소년단(BTS)의 부산 공연을 앞두고 숙박업소들의 바가지요금 논란이 커지자 BTS가 직접 이 문제를 언급하며 \"적당히 하자\"고 일침을 가했다.",
-      "BTS는 25일(현지시간) 미국 라스베이거스에서 열린 '2026 아메리칸뮤직어워즈' 시상식 참석 후 팬플랫폼 위버스를 통해 팬들과 실시간 소통하며 최근 불거진 부산 숙박업소 바가지요금 논란을 언급했다.",
-      "BTS 리더 RM은 \"이 자리를 빌려서 꼭 하고 싶었던 말이 있다\"며 \"부산 숙."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n7a319aa7",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/2026052602877",
-    "title": "'10만명' 피해 홍수 최전선서 도왔는데…네티즌, '금귀걸이'만 봤다",
-    "summary": [
-      "'10만명' 피해 홍수 최전선서 도왔는데…네티즌, '금귀걸이'만 봤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b257129",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260526/133997625/2",
-    "title": "부산 공연 앞둔 BTS “적당히들 하셨으면”…무슨 일?",
-    "summary": [
-      "방탄소년단(BTS)이 다음 달 부산 공연을 앞두고 일부 숙박업소 요금이 급등한 것과 관련해 직접 자제를 요청했다.BTS는 25일(현지 시간) 미국에서 열린 어메리칸 뮤직 어워즈(AMA) 시상식 참석 후 팬 플랫폼 위버스를 통해 팬들과 실시간 소통을 진행했다.",
-      "BTS는 이날 AMA에서 ‘올해의 아티스트’를 비롯해 ‘올해의 여름 노래’, ‘베스트 남성 K팝 아티스트’ 등 주요 부문을 수상했다.이날 리더 RM은 “이번 부산 공연을 앞두고 숙박업소 관."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nfe7adab3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526123752001",
-    "title": "여야대표, 서소문사고에 유세 올스톱…鄭·吳 \"구조·수습 우선\"(종합2보)",
-    "summary": [
-      "(서울=연합뉴스) 박수윤 안정훈 이율립 정연솔 기자 = 여야는 서울 서대문구 서소문 고가차도가 붕괴한 26일 오후 선거 운동을 일제히 중단하고 ..."
+      "(파리=연합뉴스) 송진원 특파원 = 주프랑스 이스라엘 대사는 프랑스가 팔레스타인 가자지구 구호선단 활동가들을 학대·조롱했다는 논란을 일으킨 이타..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nd389e9a3",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "19분 전",
-    "url": "https://www.asiae.co.kr/article/2026052621335576540",
-    "title": "국민성장펀드 '흥행'…이틀 만에 97.5% 소진",
+    "id": "ne8e31c13",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/26/GU2GKZDFMZRDKZDEGBSGGMTGG4/",
+    "title": "2연속 미친 수비 → 펜스 직격 2루타 → 명품 슬라이딩까지…36세 '4할타자' 못하는게 없다 [잠실현장]",
     "summary": [
-      "국민참여형 국민성장펀드가 출시 이틀 만에 전체 판매 물량의 97.5%가 소진됐다.",
-      "26일 금융위원회에 따르면 이날 오후 5시 기준 국민참여성장펀드를 판매한 은행 10곳의 온·오프라인 물량과 증권사 15곳의 온라인 물량이 모두 완판됐다.",
-      "국민참여성장펀드는 지난 22일 출시 첫날 전체 물량의 87%가 판매된 데 이어 연휴 직후인 이날까지 누적 판매율 97.5%(약 5850억원)를 기록했다."
+      "[잠실=스포츠조선 김영록 기자] KT 위즈 허경민이 미친 플레이의 연속으로 팀에게 선취점을 안겼다.",
+      "허경민은 26일 잠실구장에서 열린 두산 베어스전에서 공수에 걸친 맹활약으로 이강철 KT 감독을 기쁘게 했다.",
+      "경기전 만난 이강철 감독은 '허경민 타격감이 한껏 올라왔다'는 말에 \"(허)경민이하고 (김)상수가 정말 잘해주고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nba1d3376",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260526173000085",
-    "title": "UKMTO \"오만 앞바다 유조선, 외부 폭발 신고\"",
+    "id": "nc473db13",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260526/133997737/1",
+    "title": "‘김수현 명예훼손 혐의’ 가세연 김세의 구속…法 “증거 인멸·도망 염려”",
     "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 호르무즈 해협을 둘러싼 긴장이 이어지는 가운데 영국해사무역기구(UKMTO)는 26일(현지시간) 오만 앞바다에..."
+      "고 김새론 씨가 미성년자 시절부터 배우 김수현 씨와 교제했다는 등 허위사실을 유포한 혐의를 받는 가로세로연구소 김세의 대표가 26일 구속됐다.",
+      "서울중앙지법 부동식 영장전담 부장판사는 성폭력범죄의 처벌 등에 관한 특례법 위반(카메라 등 이용 촬영·반포 등)과 명예훼손·협박·강요미수 등의 혐의를 받는 김 대표에 대해 “증거인멸 및 도망할 염려가 있다”며 구속 영장을 발부했다.",
+      "김 대표는 지난해 유튜브 등을 통해 김새론 씨가 미성년자인 15세 때부터."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e314a40",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "11분 전",
+    "url": "https://www.hankyung.com/article/2026052603361",
+    "title": "美와 협상중인 이란, 240억弗 동결자산 해제 요구",
+    "summary": [
+      "美와 협상중인 이란, 240억弗 동결자산 해제 요구."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8f4597ec",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003644866",
+    "title": "'6경기 만에 장타' KIA 김도영 \"감이 안 좋다는 사실 자체를 부정했었다\"",
+    "summary": [
+      "[서울=뉴시스]문채현 기자 = 프로야구 KIA 타이거즈 김도영이 오랜만에 장타를 폭발했다.",
+      "몸 상태를 완벽하게 끌어올린 그는 이제 타격감까지 정상 궤도에 올려놓고자 한다.",
+      "김도영은 26일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 키움 히어로즈와의 경기에 3번 타자 3루수로 선발 출전해 4타수 2안타 3타점으로 활약했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nfd281192",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003644687",
+    "title": "KISIA, 보안 기업 해외 진출 지원…수출통제·인증 대응 전략 공유",
+    "summary": [
+      "[서울=뉴시스]윤정민 기자 = 한국정보보호산업협회(KISIA)가 국내 보안 기업의 해외 진출을 지원하기 위해 전략물자 수출통제와 해외 인증 대응 방안을 공유했다.",
+      "KISIA는 무역안보관리원과 함께 지난 21일 경기 판교 정보보호 클러스터에서 '2026년 정보보호 기업을 위한 전략물자 수출통제 및 해외인증 합동 세미나'를 개최했다고 26일 밝혔다.",
+      "이번 세미나는 전략물자 수출입고시 개정과 글로벌 공급망 재편에 따라 국가별 수출통제가 강화되는 흐름."
     ],
     "chips": [
       "#수출"
     ]
   },
   {
-    "id": "n5ff11a39",
-    "category": "사회",
+    "id": "n8e529e24",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260526/133997759/1",
+    "title": "6이닝 노히트로 데뷔 첫 승…KIA 김태형 “선발로서 충분히 어필한 것 같다”",
+    "summary": [
+      "데뷔 2년 만에 첫 승리를 따냈다.",
+      "동시에 개인 최고 성적까지 작성했다.",
+      "프로야구 KIA 타이거즈의 2년 차 신인 김태형이 선발로서 자신의 가능성을 맘껏 뽐냈다.김태형은 26일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 키움 히어로즈와의 경기에 선발 등판해 6이닝 무피안타 2사사구 6탈삼진 무실점 완벽투를 펼쳤다.그리고 KIA가 이날 경기를 5-2 승리로 마치며 김태형은 데뷔 첫 승을 거뒀다.‘노히트’로 데뷔 첫 승을 가져간 사례는."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n2ee3dcd8",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/26/2026052622311595776",
+    "title": "\"나 죽으면 누가 돌봐\"...쌍둥이 형 간병하다 살해→극단 시도",
+    "summary": [
+      "50대 남성 구속 오랜 기간 간병해 온 쌍둥이 형을 살해한 뒤 스스로 목숨을 끊으려 한 50대 남성이 경찰에 구속됐다.",
+      "26일 뉴스1에 따르면 경기 오산경찰서는 살인 혐의로 50대 남성 A씨를 구속했다고 밝혔다.",
+      "A씨는 지난 22일 오전 3시30분쯤 오산시 소재 빌라에서 쌍둥이 형인 50대 남성 B씨에게 흉기를 휘둘러 살해한 혐의를 받는다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8317c00a",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://www.asiae.co.kr/article/2026052622434629520",
+    "title": "김진태 후보 \"우상호 후보, 데이터센터 공약 거짓말 아니면 명의 도용”",
+    "summary": [
+      "김진태 강원특별자치도지사 후보(국민의힘)가 선거 막판 판세에 자신감을 드러내며 \"답은 이미 나와 있다\"고 강조했다.",
+      "동시에 상대 후보 측의 강릉 데이터센터 유치 주장에 대해 \"거짓말 아니면 명의 도용\"이라고 직격하며 공세 수위를 높였다.",
+      "김 후보는 26일 강원도청 브리핑룸에서 열린 정례 기자간담회에서 \"최선을 다해 정책과 공약을 보여드렸다\"며 \"최근 여론조사가 오차범위 내로 진입했고 현장에서도 상승세를 확실히 체."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc22aa8c4",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260526176200009",
+    "title": "뉴욕증시, 美-이란 종전 합의 기대감에 상승 출발",
+    "summary": [
+      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 미국과 이란의 종전 합의 기대감이 고조되면서 상승 출발했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf78fc558",
+    "category": "IT",
     "source": "뉴시스",
     "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260526_0003644841",
-    "title": "부정 선거 의혹에 돔구장 공약까지…신용한·김영환 토론회서 날선 공방",
+    "url": "https://www.newsis.com/view/NISX20260526_0003644861",
+    "title": "[올댓차이나] 中 스마트폰 샤오미 1분기 순익 43%↓…메모리 반도체 가격 상승·전기차 투자 부담",
     "summary": [
-      "[청주=뉴시스] 이도근 기자 = 6.3 지방선거 충북지사 선거에 출마한 더불어민주당 신용한 후보, 국민의힘 김영환 후보가 26일 CJB청주방송에서 진행된 법정 TV 토론회에서 날선 공방을 벌였다.",
-      "이날 지역 현안과 핵심 공약은 물론 서로에게 제기된 각종 의혹 등과 관련해 설전이 오갔다.",
-      "김 후보는 자신의 주도권 토론에서 \"잘못하면 이번 선거가 어려운 상황이 올 수 있다\"며 신 후보를 향해 \"최근 문제가 된 이강일(민주당·청주상당) 의원의 원샷앱."
+      "[서울=뉴시스]이재준 기자 = 중국 최대 스마트폰 기업 샤오미(小米科技)가 올해 1~3월 1분기에 메모리 반도체 가격 급등과 전기차 사업 투자 부담으로 순익이 절반 가까이 급감하는 등 시장 예상치를 밑도는 부진한 실적을 기록했다.",
+      "이에 샤오미는 대규모 자사주 매입 계획을 내놓으며 투자심리 안정에 나섰다.",
+      "거형망과 홍콩경제일보, 재신망(財新網)에 따르면 샤오미는 26일 발표한 2026년 1분기 실적에서 조정 후 순이익이 60억7200만 위안(약."
     ],
     "chips": [
-      "#정치"
+      "#반도체",
+      "#전기차"
     ]
   },
   {
-    "id": "nc814be8d",
-    "category": "사회",
+    "id": "n5d1ac24c",
+    "category": "경제",
     "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260526_0003644870",
+    "title": "[속보] 뉴욕 증시, 매수세로 상승 출발···다우 0.28%↑ 나스닥 0.91%↑",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 미국 뉴욕 증시는 26일 투자심리 유지로 매수세가 유입하면서 오름세를 이어간 채 개장했다.",
+      "뉴욕증권거래소(NYSE)에서 다우존스 산업지수는 이날 오전 9시31분 시점에 지난 22일 대비 140.41 포인트, 0.28% 올라간 5만720.11을 기록했다.",
+      "스탠더드 앤드 푸어스(S&P) 500 지수는 전장보다 41.19 포인트, 0.55% 오른 7514.66으로 거래됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n613ec0a5",
+    "category": "경제",
+    "source": "한국경제",
     "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260526_0003644725",
-    "title": "[6·3경남]박완수 후보, 밀양·의령·함안·창녕 발전전략 발표",
+    "url": "https://www.hankyung.com/article/2026052603247",
+    "title": "예능 '진짜 사나이'도 발칵…\"탁 치면 억\" 자막 재조명",
     "summary": [
-      "[밀양=뉴시스] 안지율 기자 = 6·3 지방선거 국민의힘 박완수 경남도지사 후보가 밀양·의령·함안·창녕을 아우르는 내륙권 발전전략을 내놓았다.",
-      "박 후보는 산업·농업·문화·교통을 연결하는 내륙 성장벨트로 육성해 경남의 새로운 도약축을 만들겠다는 구상이다.",
-      "박 후보는 26일 \"밀양·의령·함안·창녕은 경남의 산업, 농업, 문화, 교통을 연결하는 내륙 성장벨트\"라며 \"각 지역의 고유한 강점을 살려 경남의 새로운 도약축으로 만들겠다\"고 밝혔다."
+      "예능 '진짜 사나이'도 발칵…\"탁 치면 억\" 자막 재조명."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n131218c0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260526_0003644842",
-    "title": "[6·3거창]민주 최창열, 무소속 이홍기·김일수·구인모 장날 민심 공략",
-    "summary": [
-      "[거창=뉴시스] 서희원 기자 = 제9회 전국동시지방선거를 일주일여 앞둔 26일 경남 거창 5일장을 맞아 여당과 무소속 후보들이 장날 민심 잡기에 총출동했다.",
-      "보수터밭인 거창지역은 국민의힘 무공천 지역으로 치열한 경쟁을 펼치고 있는 가운데 민주당 후보가 공격적인 유세를 펼치고 있다.",
-      "이날 더불어민주당 김경수 경남도지사 후보와 서영교 국회의원, 최창열 거창군수 후보, 도·군의원 후보 등은 거창 대동로터리에서 합동 거리유세를 펼쳤다."
-    ],
-    "chips": [
-      "#채용",
-      "#정치"
+      "#뉴스"
     ]
   }
 ];
@@ -647,18 +645,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "정치",
+    "tag": "KBO",
     "mentions": "1680건",
     "trend": "+155%"
   }
