@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-27 11:08:48
+// 마지막 업데이트: 2026-05-27 13:02:05
 window.NEWS_DB = [
   {
     "id": "n4052e62f",
     "category": "IT",
     "source": "이로운경제TV",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGckk0YkxKTTA2cE81S0pfTGpPTWRHTWxKOUd1VVRyUGVkRHdNbExUYWlLYjJmTTRXejRnYUVOM3NuaDVQajg2STVMTTdkU2ZBT1RybDlfZmQyVXhQUGJTNXprTXczRDA?oc=5",
     "title": "엔비디아 독주 흔든다…퀄컴·구글·인텔 AI 반도체 총공세",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n1a25f504",
     "category": "경제",
     "source": "마켓인",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KM1A2UlB1aWxvNHl3RTNpTzItS19rbFlkT2EzMWZYR3BqNTJfcWlZM0tpcHdGTk1OelB6bWxlSW85OXdCWlBTYVdLaVhVdjAtcHVyUHhQZEhmZjYtUWllVG96RmZfcDlWckdVMVBOekFlb0U?oc=5",
     "title": "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합)",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "neab4c7bd",
     "category": "IT",
     "source": "블루밍비트",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ObU53dGtPOWNsZWpsZHZfX0t0MjB4YXFoay0zbndwaU42YmFsbzJUMWRwQ2U3ZnJSM2dYam1qZVBlRjVFd0FCT3c4aDQ5c1RY?oc=5",
     "title": "\"엔비디아 비켜\" 독주 체제에 반기…AI 반도체 경쟁 불붙었다",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n4654c9cf",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVZYTFU0VmZOZzExd2xHZVJ2UkVFb1d0WVB6SGx0MHRHdmZEMHlOT091cmNZOFFwME9CeTdiZWNHdU1Nc0stZ3VzYUxPcUJqcWNLcEFFX1M0YWRHX0V3Zy1fZTdCZlJfMlpUMXFOaGV0dktDbHhuWXRGVldoQXhYbUxwMmdHWWNjd1loWHRB?oc=5",
     "title": "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
     "summary": [
@@ -69,7 +69,7 @@ window.NEWS_DB = [
     "id": "n178e8a6b",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "22시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ERFV2Y21pXzdPWnhMT2w0ZjkySW5jT2FWVlR4ZlFrYWxXbDFMcndCNmNzb1pjcEdYSzhRcTdESVdUMjMxSGl4Y2VlbFN5Z29OQ0twS2x6WkVkc1A2bkJMM9IBYEFVX3lxTE5ERFV2Y21pXzdPWnhMT2w0ZjkySW5jT2FWVlR4ZlFrYWxXbDFMcndCNmNzb1pjcEdYSzhRcTdESVdUMjMxSGl4Y2VlbFN5Z29OQ0twS2x6WkVkc1A2bkJMMw?oc=5",
     "title": "종전·삼전닉스 기대에…코스피 8,000선 최고치",
     "summary": [
@@ -215,6 +215,34 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "56일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ncbcb6c77",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "80일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "summary": [
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n8988be77",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -259,20 +287,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n16a1d0f1",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "145일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5acE4xOGFDRU5ZNGZ6VHFUZ21JV1h1LVBXb1Y5TDlTaDZtM1RCWE9hNUcyVy10TGtoSW5jQ0p0VUw2TW90LWRReFRtY1BkeXRVbm90eXdMSUIzTHVY?oc=5",
-    "title": "올림픽·WBC·월드컵·AG '4계절이 축제'…2026년 스포츠 빅이벤트 캘린더",
-    "summary": [
-      "올림픽·WBC·월드컵·AG '4계절이 축제'…2026년 스포츠 빅이벤트 캘린더 네이트."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -288,17 +302,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0ba94947",
-    "category": "스포츠",
-    "source": "이투데이",
-    "time": "284일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeFVaZ2NxaEJNU3lfakx0VkJhbU5ZbWs4UWl0QU5TaDhZVlFCUGlfVE9jWXNlSGxQSE1ZVGJfLWwtaDhYbWV1a004UmNqN3N2T0t3cA?oc=5",
-    "title": "'2025 KBO 프로야구' 오늘(16일)의 경기 일정",
+    "id": "na049b3c5",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152176",
+    "title": "\"도입 준비에만 1만 시간\"...LG CNS, '피지컬웍스'로 RX 진입장벽 허문다",
     "summary": [
-      "'2025 KBO 프로야구' 오늘(16일)의 경기 일정 이투데이."
+      "LG CNS가 피지컬 AI 플랫폼 '피지컬웍스'를 앞세워 산업 현장의 휴머노이드 도입을 가속화 할 전망이다.",
+      "로봇 도입에 요구되는 초창기 진입장벽을 낮춰 시장의 변화를 앞당긴다는 구상이다.손동신 LG CNS 퓨처로보틱스랩 위원은 27일 'LG CNS AX 페어 2026'을 통해 '휴머노이드 도입의 성패를 가르는 플랫폼 전략'을 소개했다.서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 행사에 참석한 그는 \"올해는 산업 현장에 휴머노이드가."
     ],
     "chips": [
-      "#KBO"
+      "#AI"
     ]
   },
   {
@@ -354,295 +369,274 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n23a42249",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152172",
-    "title": "'카카오톡 개편' 여파에...홍민택 카카오 CPO 물러난다",
+    "id": "n89106b06",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://www.asiae.co.kr/article/2026052721554181496",
+    "title": "중국과 달 경쟁 불붙자…NASA, 30조원 달기지 프로젝트 공개",
     "summary": [
-      "카카오톡 개편을 주도했던 홍민택 카카오 최고제품책임자(CPO)가 회사를 떠난다.",
-      "지난해 2월 카카오에 합류해 이른바 '카카오톡 빅뱅 프로젝트'라는 카카오톡 개편 작업을 진행했지만 이에 따른 이용자들의 반발이 이어진 결과로 풀이된다.",
-      "27일 업계에 따르면 홍민택 카카오 CPO가 퇴사 절차를 밟고 있다."
+      "미국 항공우주국(NASA)이 2032년까지 달에 장기 거주가 가능한 기지를 세우는 계획을 공개했다.",
+      "중국과의 달 탐사 경쟁이 치열해지는 가운데 민간 우주기업과 손잡고 유인 달 착륙과 달 기지 구축에 속도를 내겠다는 구상이다.",
+      "26일(현지시간) 미국 워싱턴포스트 등에 따르면 NASA는 이날 워싱턴DC에서 기자회견을 열고 2032년까지 약 200억달러(약 30조원)를 투입하는 달 기지 건설 계획을 발표했다."
     ],
     "chips": [
-      "#카카오"
+      "#뉴스"
     ]
   },
   {
-    "id": "n288aa6da",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/27/2026052719503440347",
-    "title": "\"웨스트햄 운 없었다고? 강등될 만했어!\" 루니 맹비난에도... 구단, 누누 감독 안 자르고 \"유임 확정\"",
-    "summary": [
-      "잉글랜드 프리미어리그(EPL)에서 강등된 웨스트햄이 누누 에스피리투 산투(52) 감독을 유임했다.",
-      "웨스트햄 27일(한국시간) 다음 시즌 잉글랜드 챔피언십(2부 리그) 강등에도 불구하고 감독 교체 없이 누누 감독 체제를 이어가기로 했다고 공식 발표했다.",
-      "웨스트햄은 지난 25일 2025~2026시즌 EPL 38라운드 최종전에서 리즈 유나이티드를 3-0으로 완파했다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n14fed6cf",
+    "id": "nce4d339f",
     "category": "사회",
-    "source": "동아일보",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/05/27/XP2MZL7JONHK7A5G4DIK4QBDKM/",
+    "title": "한은, BIS 디지털화폐 실험 ‘프로젝트 아고라’ 실거래 시험 운영 참여",
+    "summary": [
+      "한은, BIS 디지털화폐 실험 ‘프로젝트 아고라’ 실거래 시험 운영 참여."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0248b1a5",
+    "category": "경제",
+    "source": "머니투데이",
     "time": "4분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260527/134002538/1",
-    "title": "LG마곡센터 협력업체 직원이 흉기 휘둘러 2명 중상…본사와 업무 갈등",
+    "url": "https://www.mt.co.kr/world/2026/05/27/2026052721220051498",
+    "title": "스페이스X, 美 국방부 스타링크 이용요금 높였다",
     "summary": [
-      "서울 강서구 LG전자 마곡업무센터에서 협력업체 직원이 흉기를 휘둘러 LG전자 본사 직원 2명이 다쳤다.",
-      "협력업체 직원은 도주 중 경찰에 긴급체포됐다.",
-      "27일 서울 강서경찰서 등에 따르면 이날 오전 11시 18분경 강서구 LG전자 마곡 업무단지인 사이언스파크 2층에서 “남성 두 명이 칼에 찔린 채 쓰러져 있다”는 신고가 접수됐다."
+      "스페이스X \"자폭 드론 서비스만큼 더 돈 내야\" 다음달 상장을 앞둔 스페이스X가 미 국방부(전쟁부)에 자사의 우주 인터넷 서비스인 '스타링크' 이용 요금을 높여달라고 요구했다고 로이터통신이 26일(현지시간) 보도했다.",
+      "로이터통신에 따르면 스페이스X 경영진은 미군이 이란을 상대로 군사 작전을 시작한 지 불과 몇 주 만에 국방부 관계자들을 만나 자사의 위성 와이파이 네트워크 접속에 더 많은 비용을 지불해야 한다고 요구했다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "nd579a157",
-    "category": "경제",
+    "id": "n28f2c63d",
+    "category": "사회",
     "source": "머니투데이",
     "time": "5분 전",
-    "url": "https://www.mt.co.kr/finance/2026/05/27/2026052719341029556",
-    "title": "국민성장펀드 6000억 중 잔여물량 '단 29억'..\"흥행 대박났다\"",
+    "url": "https://www.mt.co.kr/society/2026/05/27/2026052721365277523",
+    "title": "한밤중 중앙선 넘나든 전동킥보드…'픽' 쓰러진 남성 \"회식 후 탔다\"",
     "summary": [
-      "국민참여형 국민성장펀드의 잔여물량이 총 6000억원 중에서 29억원만 남았다.",
-      "판매 사흘만에 99.5% 소진돼 사실상 완판이다.",
-      "금융위원회는 22일 오후 5시 기준으로 국민성장펀드가 모집금액 6000억원 중에서 5971억원이 판매돼 소진율 99.5%를 기록했다고 밝혔다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n7989c5e7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260527/134005346/2",
-    "title": "[속보] 주한이란대사 “모두 부인…개입한 것 없어”",
-    "summary": [
-      "사이드 쿠제치 사이드 쿠제치 주한이란대사가 27일 대한민국 외교부가 호르무즈 해협에서 HMM ‘나무호’를 공격한 미상 비행체를 “이란에서 개발된 ‘누르’ 계열 대함미사일일 가능성이 높은 것으로 결론 내렸다”고 밝힌 데 대해 “이란은 이 문제와 관련해 모두 부인하고 있으며 절대로 개입한 것이 없다”고 밝혔다.쿠제치 대사는 이날 서울 종로구 외교부 청사에 초치된 후 청사를 빠져나가며 취재진과 만나 “이란이슬람공화국은 모든 선박들이 안전하게 호르무즈."
+      "한밤중에 술에 취한 채 전동킥보드를 타고 중앙선을 넘나든 남성이 경찰에 붙잡혔다.",
+      "27일 경찰청 공식 유튜브에는 '전동킥보드 난폭운전의 결말'이라는 제목의 영상이 올라왔다.",
+      "지난달 24일 광주의 한 도로에서 야간 순찰 중인 경찰차 앞에 중앙선을 넘나들며 갈지자 운전을 하고 있는 전동킥보드 한 대가 나타났다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2fd09306",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260527_0003646477",
-    "title": "주한이란대사, 나무호 조사 결과에 \"모두 부인…개입 없어\"(종합)",
-    "summary": [
-      "[서울=뉴시스] 유자비 기자 = 정부가 호르무즈 해협 내에서 나무호를 타격한 비행체가 이란산 대함미사일일 가능성이 높다고 밝힌 가운데, 주한이란대사는 27일 이란이 공격하지 않았다고 부인했다.",
-      "사이드 쿠제치 주한이란대사는 이날 외교부 청사에서 박윤주 외교부 1차관과의 면담을 마친 뒤 기자들과 만나 \"개인적으로 한국 선박에 발생한 피해에 대해선 유감의 말씀을 드리고 싶다\"라면서도 \"이란에선 이 문제에 대해 모두 부인하고, 절대 개입한 것이 없다\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n87c9cac6",
-    "category": "경제",
-    "source": "동아일보",
+    "id": "n67378fcb",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260527/134004573/1",
-    "title": "학자금-생활비 저리대출 받아 주식 사…투자 동아리 10배 북적",
+    "url": "https://www.yna.co.kr/view/AKR20260525032152007",
+    "title": "[프로야구] 28일 선발투수",
     "summary": [
-      "대학원생 황모 씨(25)는 지난해와 올해 각각 200만 원씩 총 400만 원을 한국장학재단 생활비 대출로 빌렸다.",
-      "생활비가 부족해서가 아니라 주식 투자 자금을 마련하기 위해서다.",
-      "황 씨는 27일 “투자를 위한 시드머니를 조금이라도 늘리기 위해 대출을 고민하던 중 학자금 대출 금리가 워낙 낮아 생활비 대출을 받게 됐다”고 말했다.‘코스피 8000 시대’가 열리면서 2030 젊은층 사이에서 학자금 대출까지 받아 주식 투자에 나서는 사례가 늘고 있다."
+      "[프로야구] 28일 선발투수."
     ],
     "chips": [
-      "#금리",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne7dac6b6",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260521167755007",
+    "title": "[프로야구 중간순위] 27일",
+    "summary": [
+      "[프로야구 중간순위] 27일."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc5f692b5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/27/GBQTKYJZGM2WKNRVG4ZDMZJRHE/",
+    "title": "타블로 심은데 타블로 난다…딸 하루, 아빠 따라 美 스탠퍼드 갈까 [Oh!쎈 이슈]",
+    "summary": [
+      "[OSEN=장우영 기자] ‘힐링소녀’로 불리며 많은 사랑을 받은 에픽하이 타블로의 딸 하루가 SAT를 준비하고 있다고 알려져 관심을 모은다.",
+      "미국 명문 스탠퍼드 대학교를 나온 타블로의 길을 따라갈지 주목된다.26일 타블로의 유튜브 채널에는 ‘전투력 2000% 상승하는 우주최강 플레이리스트’라는 제목의 영상이 공개됐다.영상에서 타블로는 시험, 면접, 공연 등."
+    ],
+    "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n52c0a55c",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://www.asiae.co.kr/article/2026052720014573785",
-    "title": "주한이란대사 \"나무호 피격 개입 안 해\"…韓 조사 결과 부인(종합)",
-    "summary": [
-      "사이드 쿠제치 주한이란대사는 HMM 나무호 피격 사건과 관련해 \"이란은 이 문제에 전혀 개입하지 않았다\"며 한국 정부의 조사 결과를 부인했다.",
-      "쿠제치 대사는 27일 서울 종로구 외교부 청사에서 박윤주 외교부 1차관과 약 40분간 면담한 뒤 취재진과 만나 \"이란에서는 이 사안에 대해 모두 부인하고 있다\"며 \"절대 개입한 적이 없다\"고 말했다.",
-      "다만 그는 \"개인적으로 한국 선박에 발생한 피해에 대해 유감을 표한다\"고 했다.한국."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf9569ac6",
+    "id": "neb41db7d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260527_0003646479",
-    "title": "무자료 석유 90만ℓ 유통한 주유소 업자 불구속 송치",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260527_0003646516",
+    "title": "이란 인터넷, 90일 만에 먹통 벗어났으나 메시지 등 제한 많아",
     "summary": [
-      "[청주=뉴시스] 연현철 기자 = 충북경찰청은 무자료 유류를 유통한 혐의(석유 및 석유대체연료 사업법 위반)로 A씨를 불구속 송치했다고 27일 밝혔다.",
-      "청주에서 주유소를 운영하는 A씨는 지난해 10월부터 4개월여간 13억원 상당의 무자료 유류 90만ℓ를 판매한 혐의를 받고 있다.",
-      "무자료 유류는 세금계산서 등 거래 증빙 없이 유통되는 석유류다."
+      "[서울=뉴시스] 김재영 기자 = 미국과 이스라엘의 기습 공격 직후부터 거의 90일 동안 이란 정부에 의해 봉쇄되었던 이란 국내 인터넷이 26일 부분적으로 열렸으나 많은 제한 조치가 가해지고 있다.",
+      "인터넷 모니터 그룹인 넷블록스는 27일 이란 인터넷 연결성이 24시간 유지되고 있다면서도 메시지 보내기, 앱 스토어 등에 새로운 제한이 세워졌다고 말했다.",
+      "또 서비스가 아주 심하게 사전 필터링되고 있다는 것이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf8ac9279",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260527142100004",
-    "title": "[날씨] 전국 곳곳 비오고 흐리다 오후부터 차차 그쳐",
-    "summary": [
-      "(서울=연합뉴스) 조현영 기자 = 목요일인 28일은 전국 곳곳에 비가 내리다가 오후부터 차차 그치면서 맑아지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na9fdcb57",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260527121051004",
-    "title": "\"안전진단 권위자 박사님이 어쩌다\"…서소문사고 빈소 눈물바다(종합)",
-    "summary": [
-      "(서울=연합뉴스) 조현영 김채린 윤민혁 정지수 기자 = \"안전진단 업계의 큰 별이 지셨죠.",
-      "어제는 정말 눈물이 나더라고요…\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e7464a2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260527162100003",
-    "title": "[인사] 산업통상부",
-    "summary": [
-      "[인사] 산업통상부."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n765d6e56",
+    "id": "n09d81d4d",
     "category": "사회",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/27/HA4WGZTGGBSWCMDBME2DOMTDGA/",
-    "title": "‘싱글 10년 차’ 양정아, ‘같이삽시다’ 합류..“독립 준비 중 제안 받아” [순간포착]",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/27/Q47DPVWXFZHGHEP2XFUE2KP4KU/",
+    "title": "LG, 롯데에 1-6 뒤지다 8-6 역전승...30승 선착",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘황신혜의 같이 삽시다’ 양정아와 신계숙이 황신혜와 함께 같이 살이에 동참했다.27일 방송된 KBS 1TV ‘황신혜의 같이 삽시다’에서는 새 식구로 양정아와 신계숙이 등장했다.이날 황신혜와 함께 할 새로운 식구로 배우 양정아와 중식 셰프 양정아가 등장했다.",
-      "싱글 10년 차 양정아는 “저는 평생."
+      "LG, 롯데에 1-6 뒤지다 8-6 역전승...30승 선착."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0f488eeb",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://www.asiae.co.kr/article/2026052719511959353",
-    "title": "\"세계 최약체 통화 등극\" 일본 뒤집어지는 분석 나왔다…\"엔화가 리라화보다 약해\"",
+    "id": "n772ce83f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260527_0003646510",
+    "title": "[6·3성남]신상진 측 \"김병욱 재건축 공공기여금 주장 사실 왜곡\" 반박",
     "summary": [
-      "일본 엔화가 주요국 통화 중 가장 약세를 보이고 있다는 분석이 나와 이목이 쏠린다.",
-      "만성적인 달러 대비 약세를 보이는 튀르키예 리라화보다도 실질 구매력이 낮아졌다는 주장이 제기됐다.",
-      "니혼게이자신문(닛케이)은 26일(현지시간) 로빈 브룩스 미국 브루킹스연구소 선임 연구원의 엔화 분석을 소개했다."
+      "[성남=뉴시스] 신정훈 기자 = 신상진 국민의힘 성남시장 후보 측이 27일 김병욱 더불어민주당 후보의 분당 재건축 공공기여금 관련 주장에 대해 \"사실과 다른 내용\"이라고 반박했다.",
+      "신상진 후보 측은 이날 입장문을 내고 \"김 후보의 주장은 재건축 사업 구조에 대한 이해 부족을 드러낸 것이거나 선거를 앞둔 정치적 선동에 불과하다\"고 주장했다.",
+      "앞서 김병욱 후보는 이날 기자회견에서 성남시의 '2035 노후계획도시정비기본계획'과 관련해 공공기여금이 과."
     ],
     "chips": [
-      "#뉴스"
+      "#재건축",
+      "#정치"
     ]
   },
   {
-    "id": "nedface12",
+    "id": "n8e835802",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260527167200007",
+    "title": "[프로야구 부산전적] LG 8-6 롯데",
+    "summary": [
+      "[프로야구 부산전적] LG 8-6 롯데."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n0f19c933",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260527166900007",
+    "title": "[프로야구 창원전적] NC 6-4 한화",
+    "summary": [
+      "[프로야구 창원전적] NC 6-4 한화."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n61532e14",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/27/2026052716320415759",
+    "title": "'0:1→1:1→1:2→3:2→3:4→4:4' 혈투 끝낸 NC 권희동, 마수걸이 결승포로 한화 6-4 제압 [창원 현장리뷰]",
+    "summary": [
+      "치고 받는 혈투가 펼쳐졌다.",
+      "긴 승부에 마침표를 찍은 건 권희동(36·NC 다이노스)의 시즌 첫 홈런포였다.",
+      "NC는 27일 창원 NC파크에서 열린 한화 이글스와 2026 신한 SOL KBO리그 홈경기에서 6-4로 이겼다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n92255944",
     "category": "사회",
     "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260527/134005274/1",
-    "title": "“서소문 고가, 침하 발견 직후 지지대 설치하고 조사했어야”",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260527/134005705/1",
+    "title": "태안 앞바다서 고무보트 밀입국 시도… 中 반체제 인사 해경에 적발",
     "summary": [
-      "서울 서대문구 서소문 고가차도 철거 현장에서 발생한 사고 원인과 관련해 27일 전문가들은 상판(슬래브) 절단 등의 작업으로 거더(받침보)의 균형이 무너져 갑작스럽게 붕괴가 일어났을 가능성이 있다고 지적했다.",
-      "또 2.9cm의 침하가 발견된 시점에 지지대 같은 안전조치를 하거나 안전진단 시 추락방지용 장구를 갖췄다면 사고 피해를 줄일 수 있었을 것이라는 진단도 나왔다.",
-      "경찰과 고용노동부는 사고 원인 파악과 함께 산업안전보건법, 중대재해처벌법 위반."
+      "중국 반체제 인사가 고무보트를 타고 한국 영해로 밀입국하다 태안 앞바다에서 경찰에 적발된 것으로 확인됐다.뉴욕타임스(NYT)와 CNN 등에 따르면 중국 인권운동가 둥광핑(董廣平·68)이 타고 있던 고무보트가 25일 오후 9시 36분 태안 서격비도 북서쪽 약 18㎞ 지점에서 인근 어선에 의해 발견됐다.",
+      "해경은 그를 체포해 신진항으로 압송한 뒤 출입국관리법 위반 혐의로 입건했다.그는 중국공산당에 반대해 정치 개혁과 인권 개선을 촉구해 온 반체제 인."
     ],
     "chips": [
-      "#고용",
-      "#의료"
+      "#정치"
     ]
   },
   {
-    "id": "n5533993a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/27/MI2WKZRXGBRWINRRGA4TINTEMU/",
-    "title": "신지, ‘문원♥’ 허세에 급발진 팩폭...\"뻥 치시네, 결혼식에서 그렇게 울어놓고\" ('어떠신지') [핫피플]",
+    "id": "nc0a90127",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "19분 전",
+    "url": "https://www.asiae.co.kr/article/2026052721423963274",
+    "title": "[내일날씨]전국 곳곳 비 내리다 오후부터 그쳐",
     "summary": [
-      "[OSEN=박근희 기자] 가수 신지가 남편 문원의 귀여운 허세를 칼같이 차단했다.25일 오후 유튜브 채널 ‘어떠신지?!?’에는 '“다음엔 안 하면 안 될까..?” 남편의 솥뚜껑 로망실현'이라는 제목의 영상이 게재됐다.",
-      "문원은 집 야외 마당에 자리를 잡고 야심 차게 솥뚜껑 요리를 시작했다.",
-      "문원은 \"다음엔 좀 더 큰 걸로 해야곘다\"라며 남다른 포부를 밝혔다."
+      "목요일인 28일은 전국 곳곳에 비가 내리다가 오후부터 차차 그치며 맑아지겠다.",
+      "낮 기온은 최고 30도까지 오르며 다소 덥겠다.기상청에 따르면 새벽부터 낮 사이 수도권과 전라권, 경상권 내륙, 제주도 등을 중심으로 비가 내리겠다.",
+      "예상 강수량은 수도권과 강원도, 충청권, 전라권, 대구·경북 내륙이 5㎜ 안팎, 경남 내륙과 제주도는 5㎜ 미만이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4b12c359",
-    "category": "사회",
+    "id": "n3626dab5",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/living/2026/05/27/2026052721382795694",
+    "title": "티쁠쁠, 무압박 노브라 티셔츠 브랜드 론칭",
+    "summary": [
+      "6월 1일 공식 출시, 편안함·패션성 결합한 여성 웨어 제안 패션 디렉터 출신 이윤수가 여성들을 위한 무압박 노브라 티셔츠 브랜드 '티쁠쁠(T++)'을 오는 6월 1일 공식 론칭한다.",
+      "티쁠쁠은 유방암 투병 경험을 바탕으로 탄생한 브랜드로, 브라의 압박감 없이 보다 자유롭고 편안한 일상을 제안하는 데 초점을 맞췄다.",
+      "25년 이상 국내외 패션 매거진에서 활동한 이윤수 브랜드 디렉터는 기존 노브라 티셔츠가 속옷이나 운동복 스타일에 머무르는 경우가 많."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n21909009",
+    "category": "스포츠",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260527_0003646345",
-    "title": "포항 보조사업 '허위 견적' 의혹…지난해 실적보고서도 제출안해",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260527_0003646465",
+    "title": "삼성, SSG 8연패 몰아넣고 선두 수성…후라도, 7이닝 1실점",
     "summary": [
-      "[포항=뉴시스]안병철 기자 = 경북 포항시의 보조사업인 '해월 최시형 선생 기념사업'과 관련해 허위 견적서를 통한 보조금 수령 의혹이 제기된 가운데 해당 사업 수행 단체가 사업 정산조차 마무리하지 못한 것으로 드러났다.",
-      "사업 주최 단체인 A연구소는 2025년 추진한 '해월 최시형 선생 기념사업'과 관련한 보조금 실적보고서를 사업 종료 후 5개월이 지나도록 포항시에 제출하지 않고 있다.",
-      "해당 사업은 총사업비 5050만원 규모로 도비 1200만원,."
+      "[서울=뉴시스]문채현 기자 = 프로야구 삼성 라이온즈가 SSG 랜더스를 8연패로 몰아넣고 선두 자리를 사수했다.",
+      "삼성은 27일 인천 SSG랜더스필드에서 열린 2026 신한 쏠 KBO리그 원정 경기에서 SSG를 4-1로 꺾었다.",
+      "연승에 성공한 삼성은 시즌 29승(1무 18패)째를 쌓고 리그 선두 자리를 유지했다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n0e82d7de",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260527_0003646472",
-    "title": "라오스 동굴서 8일간 갇혀있던 주민 5명 구조대와 만나",
+    "id": "n4d32eeaf",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "27분 전",
+    "url": "https://www.asiae.co.kr/article/2026052721305353693",
+    "title": "中 세계 최초 '우주 임신 실험'…인공 배아 보냈다",
     "summary": [
-      "[방콕=AP/뉴시스] 김재영 기자 = 라오스에서 동굴에 들어갔다가 홍수로 나오지 못해 8일 째 실종 상태였던 마을 주민 7명 중 5명이 생존해 구조대와 만났다고 27일 구조대가 말했다.",
-      "2명은 계속 실종 상태로 구조대가 수색을 계속하고 있다.",
-      "중부 사이솜분주 마을 주민들은 19일 동굴에 들어간 뒤 폭우로 인한 홍수 때문에 입구가 막혀 나오지 못했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e5d954f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/27/GI4DQNBXGUZTGYLGMJSTSMRWGI/",
-    "title": "서인영 \"싸이 강남스타일, 원래 내 파트···지금이라면 가능\"('개과천선 서인영')[순간포착]",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] '개과천선 서인영’ 가수 서인영이 '강남스타일' 노래 비하인드를 전했다.27일 서인영 유튜브에서는 ‘서인영의 진짜 모든 것을 아는 25년 인생절친 ‘모모’ 최초공개(+퀸가비, 가발 쓰고 놀던 그 친구’)에서는 서인영이 가수이자 유튜버로 팬페스타에서 남다른 인기를 입증했다."
+      "중국이 '인공 인간배아'를 우주로 보냈다.",
+      "우주 공간의 미세중력이 배아에 어떤 영향을 미치는지 분석하기 위한 것으로, 장기 우주 거주 시대를 대비한 프로젝트로 알려졌다.",
+      "26일(현지시간) 미국 과학 매체 '사이언티픽 아메리칸'은 중국과학원(CAS)이 세계 최초로 인공 인간배아를 우주로 보내는 실험을 진행했다고 보도했다."
     ],
     "chips": [
       "#뉴스"
@@ -655,20 +649,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "KBO",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
