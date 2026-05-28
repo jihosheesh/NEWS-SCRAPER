@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-28 11:10:58
+// 마지막 업데이트: 2026-05-28 13:06:07
 window.NEWS_DB = [
   {
     "id": "nded9ee91",
     "category": "IT",
     "source": "CBC뉴스",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qTDBlY05KWGlXQ3JCRFlONi04andORXo1Sm00U1o5RkhyVjhfRTRZLXJBdU5MLVJmTWJ2TlA3dmhia1lwSVJPVWw0R2pja0RLb3hqV0tBMTZsNHpqcVpDMkE1M2ItZnRo?oc=5",
     "title": "엔비디아 젠슨 황 방한 확정…국내 반도체 업계 만난다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nbe9af22c",
     "category": "경제",
     "source": "이코노미사이언스",
-    "time": "2시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkWGdFTWdoeWtVRkN5b0owX3FQdHZ5bWo4aFRWZXNBTi1MaEU2VG5FT0pRcU1jeU1xa18wT2tIWW5WaC1DVUJNbDBraTVxYnFyRmlEVUpvQzN1Vzd1U3MxeTJkLTJ2YUNBUlM5VGc5TQ?oc=5",
     "title": "8200선 밀린 코스피 …한은 ‘매파적 동결’에 국민연금 170조 리밸런싱 부담까지",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nfef93c58",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RdmFVSXd5T0ZaMm42dlZzY3pmMlBfU1ROSWxGeDBxeVUzeExtUHJhTnJ3eG1xRHlwbXgybzEyaWhXMFlsUEdYREFRc3Ixeno3THpxeml3?oc=5",
     "title": "[현장] 엔비디아 독주 맞서는 국산 NPU…'추론·피지컬 AI'로 승부수",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n37646dcf",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "n013a12c3",
     "category": "IT",
     "source": "경향신문",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNm9wcXdDSXVlTkNGR2FkWTZSbkcwa0FhRFVKNVBJbzRRSi1hODVueV9lUW14VnQxOFZWa1pVQ193VGc3SWlYSDY3VGIwa200OHJzTFJJUnNhZ9IBX0FVX3lxTE4zRzdOVjdoTXZ4NGNwWl9GR1dmbDBuTWlIRXZRUDRWeks1RzVQLUprN3phM01ZMy1OZnUydHpVUHJ6QlFVT081OE03YjlNOE9wUzdsdjhGdGw5d2N4VjN3?oc=5",
     "title": "엔비디아도 1500억달러 투자…‘AI 반도체 공급망 허브’ 입지 굳히는 대만",
     "summary": [
@@ -111,7 +111,7 @@ window.NEWS_DB = [
     "id": "n178e8a6b",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ERFV2Y21pXzdPWnhMT2w0ZjkySW5jT2FWVlR4ZlFrYWxXbDFMcndCNmNzb1pjcEdYSzhRcTdESVdUMjMxSGl4Y2VlbFN5Z29OQ0twS2x6WkVkc1A2bkJMM9IBYEFVX3lxTE5ERFV2Y21pXzdPWnhMT2w0ZjkySW5jT2FWVlR4ZlFrYWxXbDFMcndCNmNzb1pjcEdYSzhRcTdESVdUMjMxSGl4Y2VlbFN5Z29OQ0twS2x6WkVkc1A2bkJMMw?oc=5",
     "title": "종전·삼전닉스 기대에…코스피 8,000선 최고치",
     "summary": [
@@ -135,6 +135,20 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n74a3a37f",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9COThlcXlHY0ljX0d3aTJUR1JaYkpwWmFGOV9jX3NuZTllNHNmNGdDSFM4OW5GRnEwVm80T09BM0N3TEpqczhKbHg4M2RnZkZZZFRkSXoyWnBPeFFVSGljYg?oc=5",
+    "title": "KBO·MLB 통산 200승 축하받는 류현진",
+    "summary": [
+      "KBO·MLB 통산 200승 축하받는 류현진 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -239,20 +253,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "ncbcb6c77",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "81일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -379,253 +379,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndf006155",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260528_0003648251",
-    "title": "[속보]미군 \"이란, 쿠웨이트에 미사일 발사…취약한 휴전에 도전\"",
+    "id": "n8bb7dc87",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://www.asiae.co.kr/article/2026052822054051660",
+    "title": "이동환 고양시장 후보 \"4년 내 자족도시 만들겠다\" 지지호소",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 dbtpwls@newsis.com."
+      "이동환 고양시장 후보(국민의힘)가 28일 오후 화정역 일대에서 집중유세를 열고 경제자유구역 지정과 기업 유치, 교통혁명 완성을 위한 재선 필요성을 강조했다.",
+      "이날 유세에는 국민의힘 김성태 전 원내대표와 영화배우 한태일·정미애 등이 참석해 이동환 후보에 대한 집중 지원 유세를 벌였다.",
+      "중앙당 차원에서 지지 연설에 나선 김성태 전 원내대표는 \"국민의힘에는 좋은 지방행정가들이 많지만, 그중에서도 이동환 후보는 참 좋."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3e260e40",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260528_0003647959",
-    "title": "[6·3 여수]시장 후보 TV토론…'시민배당·버스무료' 등 공방",
+    "id": "n30456067",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/05/28/QEF2Z5YXTZAC5OUP5BQZLWP5UI/",
+    "title": "미 4월 개인소비지출 물가 3.8% 상승",
     "summary": [
-      "[여수=뉴시스] 김석훈 기자 = 6·3 지방선거 사전 투표일을 하루 앞두고 28일 여수MBC에서 열린 여수시장 후보자 토론회에서 더불어민주당 서영학 후보와 조국혁신당 명창환 후보가 석유화학 위기에 따른 여수국가산단 산업 재편, 여수 관광 쇄신, 여수세계섬박람회 개최 등을 놓고 공방을 벌였다.",
-      "특히 행정안전부 이태원 참사 지원단장 근무시절 역할과 음주 운전 벌금 300만원, 민주당 경선과정의 당원 명부 유출, 시장 경선 후보자의 시의원 전략공천,."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb1020a8f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260528_0003648236",
-    "title": "경찰, '서소문 고가차도 붕괴' 사고 전후 현장 CCTV 확보",
-    "summary": [
-      "[서울=뉴시스]이다솜 기자 = 경찰이 지난 26일 서울 서대문구 미근동 서소문 고가차도 철거현장에서 발생한 붕괴 사건과 관련해 사고 전후 CC(폐쇄회로)TV를 확보했다.",
-      "28일 경찰에 따르면 서울경찰청 광역수사범죄수사대는 서울시로부터 사고 발생 지점 인근 CCTV에 녹화된 영상을 임의제출 형식으로 확보했다.",
-      "경찰이 확보한 영상에는 붕괴사고 전후 현장 모습이 담긴 것으로 전해졌다."
+      "미 4월 개인소비지출 물가 3.8% 상승."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8b8d984b",
+    "id": "n00351bd1",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260528_0003648243",
-    "title": "정청래 \"김상욱 단일후보 등록 다행…진보당과 손잡고 부울경 승리\"",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://www.asiae.co.kr/article/2026052822005441775",
+    "title": "도쿄전력, 후쿠시마 원전 2호기 핵연료봉 내달 반출",
     "summary": [
-      "[서울·구미=뉴시스]권신혁 한재혁 기자 = 정청래 더불어민주당 총괄상임선대위원장이 28일 \"김상욱 후보가 민주·진보 단일후보로 등록하게 돼 다행스러운 일\"이라며 \"진보당과 손잡고 부울경에서 반드시 파란 바람으로 승리할 것\"이라고 밝혔다.",
-      "정청래 위원장은 이날 오후 경북 구미시장 후보 지원유세를 마친 후 기자들과 만나 진보당과 진행한 단일화 여론조사 결과를 두고 이같이 말했다.",
-      "정 위원장은 \"울산 뿐 아니라 부울경, 대구·경북 선거에도 좋은 영향."
+      "일본 도쿄전력이 2011년 동일본 대지진 당시 사고가 난 후쿠시마 제1원전 2호기 수조에 남아 있던 핵연료봉 615개를 다음 달부터 꺼내기로 했다.",
+      "사고 이후 14년 넘게 임시 설비로 냉각해 온 연료봉을 원전 부지 안의 별도 냉각 시설로 옮기는 작업이다.",
+      "도쿄전력은 28일 보도자료를 통해 2호기의 사용 후 핵연료 제거 작업을 다음 달 시작해 2028년도까지 완료하는 것을 목표로 한다고 밝혔다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbe5754c2",
-    "category": "사회",
+    "id": "n6ee1ef52",
+    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260528179700005",
-    "title": "최휘영 장관 \"일본으로 도망친 '뉴토끼' 운영자 끝까지 추적\"",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260527165851007",
+    "title": "[프로야구 잠실전적] kt 11-3 두산",
     "summary": [
-      "(서울=연합뉴스) 임순현 기자 = 최휘영 문화체육관광부 장관이 저작권 침해 범죄에 대해 국내외를 가리지 않고 \"끝까지 추적해 검거하겠다\"는 각오..."
+      "[프로야구 잠실전적] kt 11-3 두산."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4d71001e",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/policy/2026/05/28/2026052821532114388",
+    "title": "서소문 고가 철거...28일 2호선 홍대입구~을지로입구 막차 1시간 단축",
+    "summary": [
+      "서울 서소문 고가차도 철거 공사 재개 영향으로 28일 2호선 홍대입구역과 을지로입구역 구간 사이 마지막 열차 운행 시간이 1시간 앞당겨져 밤 12시 운행이 종료된다.",
+      "서울교통공사는 이날 \"철거 작업이 이뤄지는 지점의 지하에 2호선 지하 터널이 있어 안전을 위해 마지막 열차의 시간을 1시간 앞당기게 됐다\"고 밝혔다.",
+      "조기 종료하는 세부 구간은 △홍대입구 △신촌 △이대 △아현 △충정로 △시청 △을지로입구역이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n87570605",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "n9646afec",
+    "category": "스포츠",
+    "source": "뉴시스",
     "time": "8분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260528/134009652/1",
-    "title": "美, 이틀만에 이란 공습 재개 …트럼프 “협상 진행 안되면 끝장낼 수도”",
+    "url": "https://www.newsis.com/view/NISX20260528_0003648248",
+    "title": "'힐리어드 4안타 4타점' KT, 두산 11-3 완파…2위 LG 0.5경기차 추격",
     "summary": [
-      "미국과 이란의 종전을 위한 양해각서(MOU) 체결을 두고 막판 줄다리기가 팽팽한 가운데 미국이 이란에 대한 군사 압박을 거듭하고 있다.",
-      "27일(현지 시간) 로이터통신과 폭스뉴스 등에 따르면 이날 미군은 이란의 드론을 요격했고, 군사 시설을 공습했다.",
-      "이에 이란 혁명수비대는 미군의 공격을 ‘침략’으로 규정하며 보복에 나섰다고 28일 밝혔다."
+      "[서울=뉴시스]박윤서 기자 = 프로야구 KT 위즈가 두산 베어스를 제압하고 2위 LG 트윈스의 뒤를 바짝 쫓았다.",
+      "KT는 28일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 두산과의 경기에서 11-3으로 이겼다.",
+      "전날 두산전 0-5 패배를 설욕한 3위 KT(29승 1무 20패)는 2위 LG(30승 20패)와 승차를 0.5경기 차로 좁혔다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc55c2d5b",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/28/2026052815152015257",
+    "title": "'159㎞ 곽빈을 이겼다!' 살아난 고영표, 51일 만의 7전8기 감격승... '8회 6득점' KT도 두산에 11-3 완승 [잠실 현장리뷰]",
+    "summary": [
+      "살아남는 자가 강한 자라는 걸 '고퀄스' 고영표(35·KT 위즈)가 보여줬다.",
+      "고영표가 곽빈을 내세운 두산 베어스를 제압했다.",
+      "KT는 28일 서울 잠실야구장에서 열릴 2026 신한 SOL KBO리그 정규시즌 방문경기에서 두산에 11-3으로 승리했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "neb1db259",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/football/2026/05/28/HFSDSOLCMVRTKMBZMQ4GMNBUGE/",
+    "title": "[공식발표]'눈물이 난다' 日 열도 폭풍 오열…'부상 OUT' 미나미노 8번→구보, 미토마 7번→다나카 '감동 등번호' 배정",
+    "summary": [
+      "[스포츠조선 김가을 기자]일본 축구대표팀의 등번호가 공개됐다.",
+      "일본은 2026년 북중미월드컵을 앞두고 있다.",
+      "조별리그 F조에서 네덜란드(6월 15일 오전 5시)-튀니지(21일 오후 1시)-스웨덴(26일 오전 8시·이상 한국시각)과 격돌한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4e926a67",
+    "id": "n504ae04d",
     "category": "사회",
     "source": "조선일보",
     "time": "9분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/05/28/GNTDMNZQMEZWGYRVGA2GGMLEGY/",
-    "title": "국토부 “서울시, 2.9㎝ 단차 발생 미보고… 철도안전법 위반 여부 조사”",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/GNRGKZJQGRTGEYZYGA3TSZLBGE/",
+    "title": "“워터밤 불러줘야지” 서인영, 뱃살 모자이크 지우고 자신감 폭발",
     "summary": [
-      "국토교통부는 서소문 고가차도 붕괴 사고와 관련해 서울시와 시공사가 사고 전 교량 상부의 2.9㎝ 단차를 발견하고도 한국철도공사(코레일) 등 관계기관에 즉시 보고해야 하는 의무를 위반했다고 보고 관련 법령 위반 여부를 철저히 조사하겠다고 28일 밝혔다.",
-      "국토부는 이날 보도 참고자료를 통해 “서소문 고가차도 철거작업 과정을 철저히 조사해 철도안전법령과 안전수칙."
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 서인영이 워터밤 무대를 향한 솔직한 욕심과 함께 인간미 넘치는 근황으로 눈길을 끌었다.최근 서인영은 자신의 유튜브 채널 ‘개과천선 서인영’을 통해 미국 여행 브이로그와 이태원 데이트 영상을 공개하며 팬들과 소통했다.미국 쇼핑 하울 영상에서 서인영은 직접 사온 옷들을 소개하며 “이게 미국룩이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2419d67e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260528167100004",
-    "title": "[날씨] 오후부터 전국에 맑은 하늘…낮 최고 28도",
-    "summary": [
-      "(서울=연합뉴스) 이의진 기자 = 금요일인 29일은 전국이 대체로 맑고 낮 기온도 23∼28도로 평년과 비슷하겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb505bb6d",
+    "id": "nd7a4ad0e",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/MFSTCMTBGE3DIZJYGE4WGMBWMI/",
-    "title": "'안정환♥' 이혜원, 美 뉴욕대 딸 졸업 공개 \"언제 이렇게 커서\"",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/28/GAYDSMZWGRQTEMRZGNSWENLGMY/",
+    "title": "8회 6득점 대폭발! 1-2→11-3 마법사 군단의 짜릿한 대역전쇼 [잠실 리뷰]",
     "summary": [
-      "[OSEN=오세진 기자] 전 축구 선수 아내 이혜원이 딸 안리원과 남편 안정환과 함께 찍은 사진을 공개했다.28일 이혜원은 자신의 소셜 계정에 여러 장의 사진을 공개했다.",
-      "이날 이혜원과 안리원은 비슷한 느낌으로 코디를 맞추었는데, 졸업 가운 속 안리원은 어머니 이혜원과 화이트 미니 원피스를 입어 성숙해진 느낌을 자아냈다.이헤원은 \"꼬마가 언제 이렇게 커서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nab90681c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/GA2DIOJWGY4GCMBZGI4WCMTCMY/",
-    "title": "안선영, 늦둥이 임신설에 해명 \"갱년기 여성, 사진 무작정 퍼갔다\"",
-    "summary": [
-      "[OSEN=오세진 기자] 방송인 겸 사업가 안선영이 때 아닌 늦둥이 임신설에 입을 열었다.28일 안선영은 자신의 소셜 계정에 여러 장의 사진을 공개했다.",
-      "의류를 직접 컨택해서 판매하며 자신의 쇼핑 과정도 공개했던 안선영.",
-      "안선영은 H라인의 스커트나 플레어라인 스커트를 입으며 자신만의 스타일링을 뽐냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00c009c6",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/28/G5SDINRSME3TIMLDMU4DEMJUGI/",
-    "title": "‘와’ 평일인데 미쳤다! 4위 KIA vs 10위 키움, 사흘 연속 1만6000석 매진 달성 [오!쎈 고척]",
-    "summary": [
-      "[OSEN=고척, 이후광 기자] 프로야구 키움 히어로즈가 인기구단 KIA 타이거즈를 맞아 주중 3연전이 모두 매진되는 티켓파워를 과시했다.",
-      "키움 히어로즈는 28일 서울 고척스카이돔에서 열린 2026 신한 SOL KBO리그 KIA 타이거즈와의 시즌 6차전이 매진됐다.",
-      "홈팀 키움 관계자에 따르면 경기 개시(오후 6시 30분) 후 1시간 1분이 지난 오후 7시."
+      "[OSEN=손찬익 기자] 프로야구 KT 위즈가 짜릿한 역전 드라마를 연출했다.",
+      "KT는 28일 잠실구장에서 열린 두산 베어스와의 원정 경기에서 11-3으로 이겼다.",
+      "고영표를 선발 투수로 내세운 KT는 우익수 최원준-지명타자 김현수-2루수 김상수-중견수 샘 힐리어드-3루수 허경민-좌익수 김민혁-1루수 류현인-포수 한승택-유격수 권동진으로 타순을 짰다.두산의 선."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nede39770",
+    "id": "n0adec6fe",
     "category": "사회",
     "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260528186600062",
+    "title": "강원 우상호·김진태, 사전투표 전 마지막 TV 토론서도 '난타전'",
+    "summary": [
+      "(춘천=연합뉴스) 이재현 기자 = 6·3 지방선거에서 맞대결하는 더불어민주당 우상호 후보와 국민의힘 김진태 후보는 28일 사전 투표를 앞둔 마지..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3f5599d9",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260528179600053",
-    "title": "대구교육감 후보들, TV토론서 IB교육 둘러싸고 논쟁",
+    "url": "https://www.newsis.com/view/NISX20260528_0003648288",
+    "title": "울산 북구청장 후보 TV토론, 공모사업 성과·공짜 공약 놓고 격돌",
     "summary": [
-      "(대구=연합뉴스) 이덕기 기자 = 6·3 지방선거 대구시교육감 선거 후보자들이 TV토론회에서 IB교육(질문.토론중심 교육) 등을 두고 열띤 논쟁..."
+      "[울산=뉴시스] 박수지 기자 = 6·3 지방선거 울산 북구청장 후보들이 28일 TV토론회에서 상대의 약점을 날카롭게 파고들며 정면충돌했다.",
+      "울산시선거방송토론위원회가 이날 개최한 후보자토론회에는 더불어민주당 이동권 후보와 국민의힘 박천동 후보가 참석했다.",
+      "이동권 후보는 주도권 토론에서 박 후보가 성과로 내세운 '1000억원 규모 공모 사업 예산'의 허실을 지적했다."
     ],
     "chips": [
-      "#정치",
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "nf45a8698",
+    "id": "n9c66c5b6",
     "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260528/134012074/1",
-    "title": "개인정보위, 과기부에 “휴대전화 개통때 안면인증 제도 개선 권고”",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260528184600081",
+    "title": "이탈리아서 \"수돗물 달라\" 손님 소송…대법 \"식당, 제공 의무 없어\"",
     "summary": [
-      "개인정보보호위원회가 휴대전화 개통 과정에서 시범 실시 중인 안면인증 제도에 대해 개인정보 침해 우려가 있다며 과학기술정보통신부에 제도 개선을 권고했다.개인정보위는 28일 제10회 전체회의를 열고 휴대전화 개통 시 안면인증 제도와 관련해 과기정통부에 개선권고를 의결했다고 밝혔다.",
-      "과기정통부는 정부 합동 ‘보이스피싱 근절 종합대책’의 일환으로 지난해 12월 23일부터 이동통신 3사와 알뜰폰사를 대상으로 안면인증 제도를 시범 운영 중이다."
+      "(파리=연합뉴스) 송진원 특파원 = 이탈리아 식당이나 호텔에서 손님들에게 수돗물을 제공해야 할 법적 의무는 없다는 이탈리아 대법원의 판결이 나왔..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "naaa5b69b",
+    "id": "ncea99981",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260528178900003",
-    "title": "포스코 '협력직원 직고용' 갈등에 행정지도…파업 위기 넘겨",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260528_0003648289",
+    "title": "지하철 2호선 홍대입구~을지로입구 막차 1시간 조기 종료",
     "summary": [
-      "(서울=연합뉴스) 장보인 기자 = 포스코 노조가 사측의 협력사 직원 직고용 결정에 반발해 쟁의권을 확보하려 했으나 불발됐다."
+      "[서울=뉴시스]최현호 기자 = 서울교통공사는 서소문 고가차도 잔여 구조물 철거 작업 영향으로 28일 지하철 2호선 홍대입구역~을지로입구역 구간 막차 운행을 1시간 앞당긴다고 밝혔다.",
+      "대상 구간은 홍대입구역, 신촌역, 이대역, 아현역, 충정로역, 시청역, 을지로입구역 등 7개역이다.",
+      "해당 구간 역사는 29일 0시에 영업을 종료한다."
     ],
     "chips": [
-      "#고용"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbc1bef82",
-    "category": "스포츠",
-    "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260528177400003",
-    "title": "성대 야구장 부지 민참사업 우협대상자에 현대건설 컨소시엄",
+    "id": "ncf0141f3",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/28/2026052821503460433",
+    "title": "[속보] 미국 PCE 전년 대비 3.8% 상승, 2년11개월만에 최고",
     "summary": [
-      "(서울=연합뉴스) 임기창 기자 = 서울 도봉구 성균관대 야구장 부지의 민간참여 공공주택 건설사업 우선협상대상자로 현대건설 컨소시엄이 선정됐다고 ..."
+      "28일(현지시간) 미국 상무부 발표...."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n96c56e92",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260527167251007",
+    "title": "[프로야구 부산전적] 롯데 8-5 LG",
+    "summary": [
+      "[프로야구 부산전적] 롯데 8-5 LG."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n76d84dd9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260528/134011902/1",
-    "title": "고무보트로 서해안 도착 中 반체제 인사 “캐나다 망명 원해”",
+    "id": "n1f37b01c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://www.asiae.co.kr/article/2026052821494631599",
+    "title": "미군 \"쿠웨이트로 미사일 발사한 주체는 이란…모두 요격\"",
     "summary": [
-      "충남 태안 앞바다를 통해 밀입국하려 한 혐의로 체포된 중국 반체제 인사 둥광핑(68·董廣平)에 대한 구속영장이 법원에서 기각됐다.28일 대전지법 서산지원 석지성 영장전담 판사는 출입국관리법 위반 혐의를 받는 둥광핑의 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “도망하거나 증거를 인멸할 우려가 있다고 보기 어렵다”며 영장을 기각했다.둥광핑은 25일 오후 9시 36분경 충남 태안군 서격비도 북서방 10해리(약 18㎞) 해상에서 고무보트를 타고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0808067e",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260528177300004",
-    "title": "[2보] 서소문 고가차도 철거 재개 승인…붕괴사고 이틀 만",
-    "summary": [
-      "(서울=연합뉴스) 황재하 옥성구 기자 = 상판이 무너져 6명의 사상자를 낸 서소문 고가차도 철거 공사가 사고 이틀 만인 28일 오후 재개될 것으..."
+      "미국 중부사령부가 현지시간 28일 엑스(X·옛 트위터)를 통해 \"이란이 쿠웨이트를 향해 탄도미사일 1발을 발사했고, 쿠웨이트 군이 이를 성공적으로 요격했다\"고 발표했다.",
+      "중부사령부는 또 \"이번 탄도미사일 발사는 이란군이 호르무즈 해협 안팎에서 자폭 드론 공격을 잇달아 감행한 이후 실시됐다\"면서 \"이 드론들은 모두 격추됐다\"고 밝혔다.",
+      "그러면서 \"미 중부사령부와 역내 파트너들은 이란의 정당화될 수 없는 침략에서 우리."
     ],
     "chips": [
       "#뉴스"
@@ -638,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "KBO",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
