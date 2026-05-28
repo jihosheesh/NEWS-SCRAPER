@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-28 13:06:07
+// 마지막 업데이트: 2026-05-28 15:04:15
 window.NEWS_DB = [
   {
     "id": "nded9ee91",
     "category": "IT",
     "source": "CBC뉴스",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qTDBlY05KWGlXQ3JCRFlONi04andORXo1Sm00U1o5RkhyVjhfRTRZLXJBdU5MLVJmTWJ2TlA3dmhia1lwSVJPVWw0R2pja0RLb3hqV0tBMTZsNHpqcVpDMkE1M2ItZnRo?oc=5",
     "title": "엔비디아 젠슨 황 방한 확정…국내 반도체 업계 만난다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nbe9af22c",
     "category": "경제",
     "source": "이코노미사이언스",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkWGdFTWdoeWtVRkN5b0owX3FQdHZ5bWo4aFRWZXNBTi1MaEU2VG5FT0pRcU1jeU1xa18wT2tIWW5WaC1DVUJNbDBraTVxYnFyRmlEVUpvQzN1Vzd1U3MxeTJkLTJ2YUNBUlM5VGc5TQ?oc=5",
     "title": "8200선 밀린 코스피 …한은 ‘매파적 동결’에 국민연금 170조 리밸런싱 부담까지",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nfef93c58",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RdmFVSXd5T0ZaMm42dlZzY3pmMlBfU1ROSWxGeDBxeVUzeExtUHJhTnJ3eG1xRHlwbXgybzEyaWhXMFlsUEdYREFRc3Ixeno3THpxeml3?oc=5",
     "title": "[현장] 엔비디아 독주 맞서는 국산 NPU…'추론·피지컬 AI'로 승부수",
     "summary": [
@@ -46,14 +46,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n37646dcf",
+    "id": "n21d1500d",
     "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "source": "머니투데이",
+    "time": "9시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VVmZjQUtRa3BqUng5MnJtdExfX18tb0pLN1VyNEwwX2p4RW1HdTl5bmllWkVwTzQ4UWxPNFlMSFhKODJlend4V3VaZi1Fay1IOWNLZTNoelBZOEExZi1YM1VyOXlRbTNzS3fSAW9BVV95cUxOVUFfeEtOaklFeHNHY3JRbVhXNDVNTVdtOE5QVjFRT1hLS2ltVmY5d29id195bnFxSXoySHFKdXM4VUQyN1RZWS01b3BFeXJJWGZBNXVIdk5CbkFobmIyZ3JpQXhxQU9KZ2FLN0pTdTg?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#스타트업"
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "n013a12c3",
     "category": "IT",
     "source": "경향신문",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNm9wcXdDSXVlTkNGR2FkWTZSbkcwa0FhRFVKNVBJbzRRSi1hODVueV9lUW14VnQxOFZWa1pVQ193VGc3SWlYSDY3VGIwa200OHJzTFJJUnNhZ9IBX0FVX3lxTE4zRzdOVjdoTXZ4NGNwWl9GR1dmbDBuTWlIRXZRUDRWeks1RzVQLUprN3phM01ZMy1OZnUydHpVUHJ6QlFVT081OE03YjlNOE9wUzdsdjhGdGw5d2N4VjN3?oc=5",
     "title": "엔비디아도 1500억달러 투자…‘AI 반도체 공급망 허브’ 입지 굳히는 대만",
     "summary": [
@@ -138,17 +138,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n74a3a37f",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9COThlcXlHY0ljX0d3aTJUR1JaYkpwWmFGOV9jX3NuZTllNHNmNGdDSFM4OW5GRnEwVm80T09BM0N3TEpqczhKbHg4M2RnZkZZZFRkSXoyWnBPeFFVSGljYg?oc=5",
-    "title": "KBO·MLB 통산 200승 축하받는 류현진",
+    "id": "n39284845",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85UGdveXJTWlVaSlZ0Z2pkVklvQWR6dUVMZVFYVlNBSk5GTTFBNWxrdVRYS0JETEhicFNnRGJqaHlXVkJWaG9fNFpEb2FxRmtUQmZKQkFDYjJZSlZrTFo1dzcyR0JPY3Z2ajVScw?oc=5",
+    "title": "대구·대전·광주·울산서 글로벌 창업도시 첫 깃발 날린다",
     "summary": [
-      "KBO·MLB 통산 200승 축하받는 류현진 네이트."
+      "대구·대전·광주·울산서 글로벌 창업도시 첫 깃발 날린다 유니콘팩토리."
     ],
     "chips": [
-      "#KBO"
+      "#스타트업"
     ]
   },
   {
@@ -214,20 +214,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n75c23649",
-    "category": "IT",
-    "source": "한국방송뉴스",
-    "time": "29일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -253,6 +239,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
+    ]
+  },
+  {
+    "id": "ncbcb6c77",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "81일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "summary": [
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -379,261 +379,267 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8bb7dc87",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://www.asiae.co.kr/article/2026052822054051660",
-    "title": "이동환 고양시장 후보 \"4년 내 자족도시 만들겠다\" 지지호소",
+    "id": "n51be7e0e",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260528_0003647846",
+    "title": "일본 배구선수, 대마 소지 혐의로 체포…즉각 국가대표 말소",
     "summary": [
-      "이동환 고양시장 후보(국민의힘)가 28일 오후 화정역 일대에서 집중유세를 열고 경제자유구역 지정과 기업 유치, 교통혁명 완성을 위한 재선 필요성을 강조했다.",
-      "이날 유세에는 국민의힘 김성태 전 원내대표와 영화배우 한태일·정미애 등이 참석해 이동환 후보에 대한 집중 지원 유세를 벌였다.",
-      "중앙당 차원에서 지지 연설에 나선 김성태 전 원내대표는 \"국민의힘에는 좋은 지방행정가들이 많지만, 그중에서도 이동환 후보는 참 좋."
+      "[서울=뉴시스]박윤서 인턴 기자 = 일본 배구 국가대표 선수가 대마를 소지해 경찰에 체포된 것으로 전해졌다.",
+      "일본 TV아사히 등에 따르면 27일 저녁 경시청이 배구선수 사토 슌이치로를 대마 소지 혐의로 체포했다.",
+      "사토는 일본 도쿄 이타바시구 오야마초의 파친코점에서 건조 대마를 소지한 혐의를 받고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n30456067",
-    "category": "경제",
-    "source": "조선일보",
+    "id": "n560a7199",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260528_0003647681",
+    "title": "전소미의 다이어트 강박 고백 \"스트레스 많이 받으면 안 돼\"",
+    "summary": [
+      "[서울=뉴시스]박윤서 인턴 기자 = 아이오아이 전소미가 다이어트 강박이 있었다고 고백했다.",
+      "27일 유튜브 '권또또'에는 '자려고 누웠는데 갑자기 사랑 이야기'라는 제목의 영상이 올라왔다.",
+      "영상에서 댄서 권또또는 \"아이오아이가 컴백을 하기로 했다\"며 댄서 활동을 했을 때 친했던 청하, 유연정, 전소미를 초대했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6646b4e9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260528_0003646857",
+    "title": "'20대 시절 그대로'…채연의 머리숱 비결은 '검은콩'?",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 가수 채연(47)이 머리숱 유지의 비결로 '검은콩'을 언급했다.",
+      "27일 SBS 러브FM '유민상의 배고픈 라디오'에 출연한 채연은 \"매일 밥에 검은콩을 넣어서 먹는다\"고 밝혔다.",
+      "채연은 \"지금 아직 흰머리도 안 난다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n6bc9dfc7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260527_0003645854",
+    "title": "황정음이 매일 챙겨먹는 '요거트+꿀'…실제 효과는",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 배우 황정음이 지난 26일 자신의 유튜브 채널에 업로드된 영상에서 평소 요거트를 즐겨 먹는다고 밝혔다.",
+      "황정음이 즐겨먹는 요거트는 다양한 건강 효능이 있다.",
+      "요거트에 함유된 프로바이오틱스는 장내 환경을 개선해 염증 완화와 복부지방 감소에도 영향을 준다."
+    ],
+    "chips": [
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "na3ed8ab1",
+    "category": "사회",
+    "source": "동아일보",
     "time": "3분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/05/28/QEF2Z5YXTZAC5OUP5BQZLWP5UI/",
-    "title": "미 4월 개인소비지출 물가 3.8% 상승",
+    "url": "https://www.donga.com/news/Culture/article/all/20260529/134013693/1",
+    "title": "에스파, 세상이 ‘신맛’ 레몬을 던진다면…갈아마시는 ‘쇠콤달콤’ 카타르시스",
     "summary": [
-      "미 4월 개인소비지출 물가 3.8% 상승."
+      "한 번의 거대한 성공은 우연이나 기세로 설명할 수 있지만, 거듭되는 성취는 오직 스스로를 증명해 낸 자만이 얻을 수 있는 정당한 결과다.화려한 가상 세계의 콘셉트 뒤에 숨지 않고, 단단한 목소리와 압도적인 퍼포먼스로 자신들만의 철학적 서사를 구축해 온 초신성 걸그룹 ‘에스파(aespa)’가 고유의 미학인 ‘쇠맛’을 넘어 짜릿하고 통쾌한 ‘신맛’을 품고 돌아왔다.28일 오후 서울 송파구에서 열린 에스파 정규 2집 ‘레모네이드(LEMONADE)’."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n00351bd1",
+    "id": "na4ddde2a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/05/29/M237PPXB3VHA3IGL64S477FBYU/",
+    "title": "[사설] 우리 화물선 침몰했을 수도, 왜 이란과 이스라엘 대응이 다른가",
+    "summary": [
+      "[사설] 우리 화물선 침몰했을 수도, 왜 이란과 이스라엘 대응이 다른가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff5ae4a4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260528/134013688/1",
+    "title": "‘극내향인’ 엄태구, 수줍은 깜짝 고백 “말 많아져…로커 도전하고파”",
+    "summary": [
+      "배우 엄태구가 ‘와일드 씽’ 이후 생긴 바람에 대해 깜짝 고백했다.",
+      "28일 서울 종로구 삼청동의 한 카페에서는 영화 ‘와일드 씽’(감독 손재곤) 주연 엄태구의 인터뷰가 진행됐다.‘와일드 씽’은 한때 가요계를 휩쓸었지만 예기치 못한 사건으로 하루아침에 해체된 혼성 댄스 그룹 트라이앵글이 20년 만에 다시 무대에 오르며 벌어지는 이야기를 담은 코미디 영화다.",
+      "‘달콤, 살벌한 연인’(2006) ‘이층의 악당’(2010) ‘해치지 않아’(2020) 손."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6ac54a3e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260528/134013685/1",
+    "title": "르세라핌 무대에 등장한 DJ 박명수…“컬래버 너무 행복”",
+    "summary": [
+      "그룹 르세라핌과 박명수가 대학 축제에서 컬래버레이션 무대를 꾸몄다.",
+      "박명수는 28일 자신의 인스타그램에 르세라핌 멤버들과 함께 찍은 사진을 공개하며 “르세라핌과 콜라보, Dj gpark 너무 행복했어요, 경희대 파이팅”이라는 글과 사진을 올렸다.사진 속 박명수는 르세라핌 멤버들과 함께 서 미소를 짓고 있는 모습이다.",
+      "르세라핌 멤버들은 무대 의상을 입고 박명수와 유쾌한 포즈를 취하고 있다.앞서 박명수는 지난 27일 경희대학교 국제캠퍼스에서 진행된."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nf5dc5e72",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260528/134013681/1",
+    "title": "샘 킴, 이탈리아 주방 막내 취업…“뭘 해야 할지 몰라”",
+    "summary": [
+      "셰프 샘 킴이 이탈리아 현지 주방에서 위기를 맞는다.28일 오후 8시40분 방송되는 tvN 예능물 ‘언더커버 셰프’ 2회에서는 해외 현지 주방에 막내로 위장 취업한 샘 킴, 정지선, 권성준의 첫 영업기가 공개된다.지난 방송에서 세 사람은 각각 전직 농부, 복싱 선수, 야구 선수로 신분을 숨기고 현지 주방에 들어갔다.",
+      "2회에서는 이들이 본격적으로 주방 막내 업무와 첫 영업에 나선다.샘 킴은 이탈리아 파르마의 100년 넘은 전통 레스토랑에 막내로."
+    ],
+    "chips": [
+      "#KBO",
+      "#취업"
+    ]
+  },
+  {
+    "id": "ncfc39665",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/28/GQ3TMYJSGE3GMYZYGYYDMODGMM/",
+    "title": "리버풀-첼시-레알 마드리드 NO…'토트넘 남는다!' 미키 판 더 펜 '긍정 신호', 로베르토 데 제르비 '희소식'",
+    "summary": [
+      "[스포츠조선 김가을 기자]토트넘이 웃는다.",
+      "미키 판 더 펜(토트넘)의 잔류 가능성에 '긍정 신호'가 켜졌다.",
+      "토트넘의 소식을 주로 전하는 투더레인앤드백은 28일(이하 한국시각) '토트넘에서의 미래에 대한 판 더 펜의 입장이 드러났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4cd2b40d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/GZSGMMRWGZQWGNDGMIZGENBQMY/",
+    "title": "김준호♥김지민, 1인 25만 원 VIP 데이트 \"소원은‥아기 천사 찾아오길\" ('준호지민')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 부부 김준호,김지민이 한정식 집에서 소원을 빌었다.",
+      "28일 유튜브 채널 '준호 지민'에는 '관종과 사는 여자[여행 브이로그 EP.수원]'이라는 제목의 영상이 게재됐다.",
+      "영상 속 두 사람은 수원에서 즐거운 시간을 보냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n06101f8e",
     "category": "사회",
     "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://www.asiae.co.kr/article/2026052822005441775",
-    "title": "도쿄전력, 후쿠시마 원전 2호기 핵연료봉 내달 반출",
+    "time": "14분 전",
+    "url": "https://www.asiae.co.kr/article/2026052823494345476",
+    "title": "오세훈 \"GTX-A 삼성역 철근누락, 뉴스 보고 인지…완벽 보완 가능\"",
     "summary": [
-      "일본 도쿄전력이 2011년 동일본 대지진 당시 사고가 난 후쿠시마 제1원전 2호기 수조에 남아 있던 핵연료봉 615개를 다음 달부터 꺼내기로 했다.",
-      "사고 이후 14년 넘게 임시 설비로 냉각해 온 연료봉을 원전 부지 안의 별도 냉각 시설로 옮기는 작업이다.",
-      "도쿄전력은 28일 보도자료를 통해 2호기의 사용 후 핵연료 제거 작업을 다음 달 시작해 2028년도까지 완료하는 것을 목표로 한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ee1ef52",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260527165851007",
-    "title": "[프로야구 잠실전적] kt 11-3 두산",
-    "summary": [
-      "[프로야구 잠실전적] kt 11-3 두산."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n4d71001e",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/policy/2026/05/28/2026052821532114388",
-    "title": "서소문 고가 철거...28일 2호선 홍대입구~을지로입구 막차 1시간 단축",
-    "summary": [
-      "서울 서소문 고가차도 철거 공사 재개 영향으로 28일 2호선 홍대입구역과 을지로입구역 구간 사이 마지막 열차 운행 시간이 1시간 앞당겨져 밤 12시 운행이 종료된다.",
-      "서울교통공사는 이날 \"철거 작업이 이뤄지는 지점의 지하에 2호선 지하 터널이 있어 안전을 위해 마지막 열차의 시간을 1시간 앞당기게 됐다\"고 밝혔다.",
-      "조기 종료하는 세부 구간은 △홍대입구 △신촌 △이대 △아현 △충정로 △시청 △을지로입구역이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9646afec",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260528_0003648248",
-    "title": "'힐리어드 4안타 4타점' KT, 두산 11-3 완파…2위 LG 0.5경기차 추격",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 KT 위즈가 두산 베어스를 제압하고 2위 LG 트윈스의 뒤를 바짝 쫓았다.",
-      "KT는 28일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 두산과의 경기에서 11-3으로 이겼다.",
-      "전날 두산전 0-5 패배를 설욕한 3위 KT(29승 1무 20패)는 2위 LG(30승 20패)와 승차를 0.5경기 차로 좁혔다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc55c2d5b",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/28/2026052815152015257",
-    "title": "'159㎞ 곽빈을 이겼다!' 살아난 고영표, 51일 만의 7전8기 감격승... '8회 6득점' KT도 두산에 11-3 완승 [잠실 현장리뷰]",
-    "summary": [
-      "살아남는 자가 강한 자라는 걸 '고퀄스' 고영표(35·KT 위즈)가 보여줬다.",
-      "고영표가 곽빈을 내세운 두산 베어스를 제압했다.",
-      "KT는 28일 서울 잠실야구장에서 열릴 2026 신한 SOL KBO리그 정규시즌 방문경기에서 두산에 11-3으로 승리했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "neb1db259",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/28/HFSDSOLCMVRTKMBZMQ4GMNBUGE/",
-    "title": "[공식발표]'눈물이 난다' 日 열도 폭풍 오열…'부상 OUT' 미나미노 8번→구보, 미토마 7번→다나카 '감동 등번호' 배정",
-    "summary": [
-      "[스포츠조선 김가을 기자]일본 축구대표팀의 등번호가 공개됐다.",
-      "일본은 2026년 북중미월드컵을 앞두고 있다.",
-      "조별리그 F조에서 네덜란드(6월 15일 오전 5시)-튀니지(21일 오후 1시)-스웨덴(26일 오전 8시·이상 한국시각)과 격돌한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n504ae04d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/GNRGKZJQGRTGEYZYGA3TSZLBGE/",
-    "title": "“워터밤 불러줘야지” 서인영, 뱃살 모자이크 지우고 자신감 폭발",
-    "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 서인영이 워터밤 무대를 향한 솔직한 욕심과 함께 인간미 넘치는 근황으로 눈길을 끌었다.최근 서인영은 자신의 유튜브 채널 ‘개과천선 서인영’을 통해 미국 여행 브이로그와 이태원 데이트 영상을 공개하며 팬들과 소통했다.미국 쇼핑 하울 영상에서 서인영은 직접 사온 옷들을 소개하며 “이게 미국룩이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd7a4ad0e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/28/GAYDSMZWGRQTEMRZGNSWENLGMY/",
-    "title": "8회 6득점 대폭발! 1-2→11-3 마법사 군단의 짜릿한 대역전쇼 [잠실 리뷰]",
-    "summary": [
-      "[OSEN=손찬익 기자] 프로야구 KT 위즈가 짜릿한 역전 드라마를 연출했다.",
-      "KT는 28일 잠실구장에서 열린 두산 베어스와의 원정 경기에서 11-3으로 이겼다.",
-      "고영표를 선발 투수로 내세운 KT는 우익수 최원준-지명타자 김현수-2루수 김상수-중견수 샘 힐리어드-3루수 허경민-좌익수 김민혁-1루수 류현인-포수 한승택-유격수 권동진으로 타순을 짰다.두산의 선."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n0adec6fe",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260528186600062",
-    "title": "강원 우상호·김진태, 사전투표 전 마지막 TV 토론서도 '난타전'",
-    "summary": [
-      "(춘천=연합뉴스) 이재현 기자 = 6·3 지방선거에서 맞대결하는 더불어민주당 우상호 후보와 국민의힘 김진태 후보는 28일 사전 투표를 앞둔 마지..."
+      "오세훈 국민의힘 서울시장 후보는 28일 수도권광역급행철도(GTX)-A 삼성역 출근 누락사건 관련 의혹에 대해 \"보고받지 못했다.",
+      "직무 정지 상태에서 선거운동을 시작했고, 사후에 뉴스를 보고 알았다\"면서 \"지금이라도 완벽히 보완이 가능해서 걱정할 일은 아니다\"라고 했다.",
+      "오 후보는 이날 오후 서울시 선거방송토론위원회가 주최한 제9회 전국동시지방선거 서울시장 후보 초청 토론회에 참석해 '서울시가 GTX-A 삼성역 출근 누락."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n3f5599d9",
+    "id": "nbb5786ad",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260528_0003648288",
-    "title": "울산 북구청장 후보 TV토론, 공모사업 성과·공짜 공약 놓고 격돌",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260528183851004",
+    "title": "2호선 홍대입구∼을지로입구 28일 막차 단축·29일 첫차 지연(종합)",
     "summary": [
-      "[울산=뉴시스] 박수지 기자 = 6·3 지방선거 울산 북구청장 후보들이 28일 TV토론회에서 상대의 약점을 날카롭게 파고들며 정면충돌했다.",
-      "울산시선거방송토론위원회가 이날 개최한 후보자토론회에는 더불어민주당 이동권 후보와 국민의힘 박천동 후보가 참석했다.",
-      "이동권 후보는 주도권 토론에서 박 후보가 성과로 내세운 '1000억원 규모 공모 사업 예산'의 허실을 지적했다."
+      "(서울=연합뉴스) 황재하 기자 = 서울교통공사는 최근 붕괴 사고가 발생한 서소문 고가차도 철거 공사 재개에 따라 28일 2호선 홍대입구역∼을지로..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne91b16ad",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/politics/election2026/2026/05/28/EXW2PNDI5BDL5KFISJT5FKBSYM/",
+    "title": "처음이자 마지막 서울시장 TV토론...鄭 “10년 심판론” 吳 “세계 도시 완성”",
+    "summary": [
+      "처음이자 마지막 서울시장 TV토론...鄭 “10년 심판론” 吳 “세계 도시 완성”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n48740a83",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://www.asiae.co.kr/article/2026052822531687834",
+    "title": "박정임 창원시장 후보 \"기득권 거대 양당 정치 끝내야 … 단일화 안 해\"",
+    "summary": [
+      "무소속 박정임 경남 창원특례시장 후보가 거대 양당 정치 구도를 비판하며 7가지 창원 발전 전략을 발표했다.",
+      "박 후보는 28일 시청 프레스센터에서 기자회견을 열고 \"창원시장 후보 TV 토론회는 위기를 극복할 진지한 비전도 고통받는 시민을 위한 따뜻한 민생 대책도 없는, 오직 상대방을 흠집 내는 네거티브 공방만 난무했다\"며 \"기득권 거대 양당 정치가 보여주는 난투극 카르텔 토론장\"이라고 비판했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n9c66c5b6",
+    "id": "n7ee906e5",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260528184600081",
-    "title": "이탈리아서 \"수돗물 달라\" 손님 소송…대법 \"식당, 제공 의무 없어\"",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 이탈리아 식당이나 호텔에서 손님들에게 수돗물을 제공해야 할 법적 의무는 없다는 이탈리아 대법원의 판결이 나왔..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncea99981",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260528_0003648289",
-    "title": "지하철 2호선 홍대입구~을지로입구 막차 1시간 조기 종료",
-    "summary": [
-      "[서울=뉴시스]최현호 기자 = 서울교통공사는 서소문 고가차도 잔여 구조물 철거 작업 영향으로 28일 지하철 2호선 홍대입구역~을지로입구역 구간 막차 운행을 1시간 앞당긴다고 밝혔다.",
-      "대상 구간은 홍대입구역, 신촌역, 이대역, 아현역, 충정로역, 시청역, 을지로입구역 등 7개역이다.",
-      "해당 구간 역사는 29일 0시에 영업을 종료한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncf0141f3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/28/2026052821503460433",
-    "title": "[속보] 미국 PCE 전년 대비 3.8% 상승, 2년11개월만에 최고",
-    "summary": [
-      "28일(현지시간) 미국 상무부 발표...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n96c56e92",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260527167251007",
-    "title": "[프로야구 부산전적] 롯데 8-5 LG",
-    "summary": [
-      "[프로야구 부산전적] 롯데 8-5 LG."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n1f37b01c",
-    "category": "경제",
     "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://www.asiae.co.kr/article/2026052821494631599",
-    "title": "미군 \"쿠웨이트로 미사일 발사한 주체는 이란…모두 요격\"",
+    "time": "22분 전",
+    "url": "https://www.asiae.co.kr/article/2026052823192606376",
+    "title": "경남도, 지방선거 투표소 최종 점검 … \"소중한 한 표, 차질 없이 행사되게\"",
     "summary": [
-      "미국 중부사령부가 현지시간 28일 엑스(X·옛 트위터)를 통해 \"이란이 쿠웨이트를 향해 탄도미사일 1발을 발사했고, 쿠웨이트 군이 이를 성공적으로 요격했다\"고 발표했다.",
-      "중부사령부는 또 \"이번 탄도미사일 발사는 이란군이 호르무즈 해협 안팎에서 자폭 드론 공격을 잇달아 감행한 이후 실시됐다\"면서 \"이 드론들은 모두 격추됐다\"고 밝혔다.",
-      "그러면서 \"미 중부사령부와 역내 파트너들은 이란의 정당화될 수 없는 침략에서 우리."
+      "박일웅 경남도지사 권한대행이 제9대 전국동시지방선거 사전투표일을 하루 앞둔 28일 도내 사전투표소 준비 상황 점검에 나섰다.",
+      "박 권한대행은 창원시 성산구 중앙동 행정복지센터에 마련된 중앙동 사전투표소에서 사전투표 준비상황을 보고받고 투표 절차, 기표소 및 투표함 설치 상태, 유권자 이동 동선, 장애인 및 노약자 편의시설 등을 두루 살폈다.",
+      "이어 투표소 안전 관리 체계와 질서유지 요원 배치 상황, 투표소 보안 관리."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
+    ]
+  },
+  {
+    "id": "n28cc3402",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "22분 전",
+    "url": "https://www.asiae.co.kr/article/2026052823394024891",
+    "title": "2026지선 사전투표 D-1 … 경남선관위원장, 투표소 준비상황 점검",
+    "summary": [
+      "제9회 전국동시지방선거 사전투표일을 하루 앞둔 28일 이영훈 경남선거관리위원회 위원장이 관내 사전투표소를 찾아 사전투표 준비상황을 챙겼다.",
+      "이 경남선관위 위원장은 이날 창원시 마산합포구 합포동행정복지센터에서 점검용 모의투표용지를 사전투표함에 넣어보며 최종 모의시험에 나섰다.",
+      "또 사전투표 안전관리 현황을 확인하고 사전투표관리원 등 투표사무 관계자들을 격려했다."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -643,20 +649,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1940건",
-    "trend": "+195%"
-  },
-  {
-    "rank": 3,
     "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
+  },
+  {
+    "rank": 3,
+    "tag": "엔비디아",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
