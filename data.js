@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-28 15:04:15
+// 마지막 업데이트: 2026-05-28 17:11:59
 window.NEWS_DB = [
   {
     "id": "nded9ee91",
     "category": "IT",
     "source": "CBC뉴스",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qTDBlY05KWGlXQ3JCRFlONi04andORXo1Sm00U1o5RkhyVjhfRTRZLXJBdU5MLVJmTWJ2TlA3dmhia1lwSVJPVWw0R2pja0RLb3hqV0tBMTZsNHpqcVpDMkE1M2ItZnRo?oc=5",
     "title": "엔비디아 젠슨 황 방한 확정…국내 반도체 업계 만난다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nbe9af22c",
     "category": "경제",
     "source": "이코노미사이언스",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkWGdFTWdoeWtVRkN5b0owX3FQdHZ5bWo4aFRWZXNBTi1MaEU2VG5FT0pRcU1jeU1xa18wT2tIWW5WaC1DVUJNbDBraTVxYnFyRmlEVUpvQzN1Vzd1U3MxeTJkLTJ2YUNBUlM5VGc5TQ?oc=5",
     "title": "8200선 밀린 코스피 …한은 ‘매파적 동결’에 국민연금 170조 리밸런싱 부담까지",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nfef93c58",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RdmFVSXd5T0ZaMm42dlZzY3pmMlBfU1ROSWxGeDBxeVUzeExtUHJhTnJ3eG1xRHlwbXgybzEyaWhXMFlsUEdYREFRc3Ixeno3THpxeml3?oc=5",
     "title": "[현장] 엔비디아 독주 맞서는 국산 NPU…'추론·피지컬 AI'로 승부수",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n21d1500d",
     "category": "IT",
     "source": "머니투데이",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VVmZjQUtRa3BqUng5MnJtdExfX18tb0pLN1VyNEwwX2p4RW1HdTl5bmllWkVwTzQ4UWxPNFlMSFhKODJlend4V3VaZi1Fay1IOWNLZTNoelBZOEExZi1YM1VyOXlRbTNzS3fSAW9BVV95cUxOVUFfeEtOaklFeHNHY3JRbVhXNDVNTVdtOE5QVjFRT1hLS2ltVmY5d29id195bnFxSXoySHFKdXM4VUQyN1RZWS01b3BFeXJJWGZBNXVIdk5CbkFobmIyZ3JpQXhxQU9KZ2FLN0pTdTg?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이",
     "summary": [
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "n013a12c3",
     "category": "IT",
     "source": "경향신문",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNm9wcXdDSXVlTkNGR2FkWTZSbkcwa0FhRFVKNVBJbzRRSi1hODVueV9lUW14VnQxOFZWa1pVQ193VGc3SWlYSDY3VGIwa200OHJzTFJJUnNhZ9IBX0FVX3lxTE4zRzdOVjdoTXZ4NGNwWl9GR1dmbDBuTWlIRXZRUDRWeks1RzVQLUprN3phM01ZMy1OZnUydHpVUHJ6QlFVT081OE03YjlNOE9wUzdsdjhGdGw5d2N4VjN3?oc=5",
     "title": "엔비디아도 1500억달러 투자…‘AI 반도체 공급망 허브’ 입지 굳히는 대만",
     "summary": [
@@ -125,7 +125,7 @@ window.NEWS_DB = [
     "id": "n53d73ed0",
     "category": "IT",
     "source": "christiandaily.co.kr",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84MTkwOVczNlhEc2VUYzF4WGhVZWdLSUMtVXNTTTdUQVZYbVF2eDBmS3hsLURpeUtkSFJxbnZwYmhRZjZxLVFKUWVacC0xeElweFduMEZYSdIBXEFVX3lxTFBCeXU1ZlM1bURQYjVIMTFCcWpkMjd5MHRacTZ0SWNlbUdCVU83YklLVFZZcjdyV1VUb3poLUlQUVdnamIzS1g5eThsV0FETFdKTEhtM0JMYzJmWTFF?oc=5",
     "title": "해외 투자기관은 왜 한국 반도체를 다시 보나…삼성전자·SK하이닉스 전망 분석",
     "summary": [
@@ -135,20 +135,6 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n39284845",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85UGdveXJTWlVaSlZ0Z2pkVklvQWR6dUVMZVFYVlNBSk5GTTFBNWxrdVRYS0JETEhicFNnRGJqaHlXVkJWaG9fNFpEb2FxRmtUQmZKQkFDYjJZSlZrTFo1dzcyR0JPY3Z2ajVScw?oc=5",
-    "title": "대구·대전·광주·울산서 글로벌 창업도시 첫 깃발 날린다",
-    "summary": [
-      "대구·대전·광주·울산서 글로벌 창업도시 첫 깃발 날린다 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -211,6 +197,20 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n75c23649",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "29일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -348,10 +348,58 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndf5d4f5f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260528_0003647620",
+    "title": "'혐오 그림'의 역설…일반 담배 경고할수록 전자담배로 눈 돌린다",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 미국 워싱턴 주립대 연구팀이 담뱃갑 포장지 경고 그림이 전자담배 흡연을 부추길 수 있다는 연구를 발표했다.",
+      "연구팀은 네 개의 실험을 통해 담뱃값 건강 경고 노출이 소비자들의 실제 흡연 위험 판단에 미치는 영향을 분석했다.",
+      "또 참여자들에게 일반 담뱃갑과 폐 손상·질병 사진 등이 포함된 그래픽 경고 담뱃갑을 각각 노출한 후 전자담배에 대한 위험 인식과 구매·사용 의도를 조사한 것으로 알려졌다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ne2aff88f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/29/GA3DCMBQMFSDCZTDGJTDQMTCMI/",
+    "title": "2027년도 美국방예산법 초안에 주한미군 규모 유지 조항 강화",
+    "summary": [
+      "미국 연방 하원에 마련된 2027회계연도(2026년 10월~2027년 9월) 국방수권법안(NDAA·국방예산법안) 초안에 주한미군의 현재 규모 유지 관련 내용이 강화된 것으로 파악됐다.",
+      "28일(현지 시각) 정치권에 따르면 마이크 로저스 미 하원 군사위원회 위원장(앨라배마·공화정)이 최근 내놓은 내년도 국방수권법안 초안(CHAIRMAN’S MARK)에는 20."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n21b324f1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/industry/2026/05/29/2026052901412440405",
+    "title": "최태원 \"AI 어떻게 접목할지, 새 각도에서 보는 사람이 미래 인재\"",
+    "summary": [
+      "최태원 SK그룹 회장은 \"인간을 잘 이해하고 AI를 어떻게 접목할지 새로운 각도에서 바라보는 사람이 진짜 미래 핵심 인재\"라고 밝혔다, 최 회장은 28일 KBS가 방송한 '인재전쟁2 3부 최태원의 대답'을 통해 \"기성세대가 다소 불편하더라도 다음 세대를 위해 우리 사회 시스템이 AI 시대에 맞춰 빠르게 적응하도록 돕는 것이 미래 대한민국을 위해 꼭 필요한 일\"이라며 이같이 말했다.",
+      "최 회장은 자격증 하나로 평생을 보장받는 시대가 저물 수 있다면."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "ne4bb7385",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "12분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152211",
     "title": "하나금융, 취약계층·소상공인에 3조 푼다...2000억 규모 연체채권도 소각",
     "summary": [
@@ -363,10 +411,27 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfd0365f5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260529_0003648345",
+    "title": "정원오·오세훈 난타전…정 \"오세훈 때문에 주거난\" 오 \"박원순이 제초제 뿌린 것 원상복구\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 김지훈 김난영 권신혁 조기용 기자 = 6·3 서울시장 선거 정원오 더불어민주당 후보와 오세훈 국민의힘 후보는 28일 밤 중앙선거관리위원회 주관으로 진행된 서울시장 후보자 토론회에서 주거난 등 부동산 문제, GTX 삼성역 철근 누락 등을 놓고 난타전을 벌였다.",
+      "정 후보는 주도권 토론에서 오 후보를 겨냥해 포문을 열었다.",
+      "그는 \"오 후보는 현재의 주거난이 전임 시장 탓, 정부 탓이라고 하는데 시장 때 했던 약속만 지켰으면 주거 문제."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치"
+    ]
+  },
+  {
     "id": "nf0e0a2ee",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "16분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152207",
     "title": "삼성증권마저 두나무 주주 합류...카카오는 계열사까지 지분 매각",
     "summary": [
@@ -379,264 +444,202 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n51be7e0e",
+    "id": "nf6b56fe7",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260528_0003647846",
-    "title": "일본 배구선수, 대마 소지 혐의로 체포…즉각 국가대표 말소",
-    "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 일본 배구 국가대표 선수가 대마를 소지해 경찰에 체포된 것으로 전해졌다.",
-      "일본 TV아사히 등에 따르면 27일 저녁 경시청이 배구선수 사토 슌이치로를 대마 소지 혐의로 체포했다.",
-      "사토는 일본 도쿄 이타바시구 오야마초의 파친코점에서 건조 대마를 소지한 혐의를 받고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n560a7199",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260528_0003647681",
-    "title": "전소미의 다이어트 강박 고백 \"스트레스 많이 받으면 안 돼\"",
-    "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 아이오아이 전소미가 다이어트 강박이 있었다고 고백했다.",
-      "27일 유튜브 '권또또'에는 '자려고 누웠는데 갑자기 사랑 이야기'라는 제목의 영상이 올라왔다.",
-      "영상에서 댄서 권또또는 \"아이오아이가 컴백을 하기로 했다\"며 댄서 활동을 했을 때 친했던 청하, 유연정, 전소미를 초대했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6646b4e9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260528_0003646857",
-    "title": "'20대 시절 그대로'…채연의 머리숱 비결은 '검은콩'?",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 가수 채연(47)이 머리숱 유지의 비결로 '검은콩'을 언급했다.",
-      "27일 SBS 러브FM '유민상의 배고픈 라디오'에 출연한 채연은 \"매일 밥에 검은콩을 넣어서 먹는다\"고 밝혔다.",
-      "채연은 \"지금 아직 흰머리도 안 난다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6bc9dfc7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260527_0003645854",
-    "title": "황정음이 매일 챙겨먹는 '요거트+꿀'…실제 효과는",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 배우 황정음이 지난 26일 자신의 유튜브 채널에 업로드된 영상에서 평소 요거트를 즐겨 먹는다고 밝혔다.",
-      "황정음이 즐겨먹는 요거트는 다양한 건강 효능이 있다.",
-      "요거트에 함유된 프로바이오틱스는 장내 환경을 개선해 염증 완화와 복부지방 감소에도 영향을 준다."
-    ],
-    "chips": [
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "na3ed8ab1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260529/134013693/1",
-    "title": "에스파, 세상이 ‘신맛’ 레몬을 던진다면…갈아마시는 ‘쇠콤달콤’ 카타르시스",
-    "summary": [
-      "한 번의 거대한 성공은 우연이나 기세로 설명할 수 있지만, 거듭되는 성취는 오직 스스로를 증명해 낸 자만이 얻을 수 있는 정당한 결과다.화려한 가상 세계의 콘셉트 뒤에 숨지 않고, 단단한 목소리와 압도적인 퍼포먼스로 자신들만의 철학적 서사를 구축해 온 초신성 걸그룹 ‘에스파(aespa)’가 고유의 미학인 ‘쇠맛’을 넘어 짜릿하고 통쾌한 ‘신맛’을 품고 돌아왔다.28일 오후 서울 송파구에서 열린 에스파 정규 2집 ‘레모네이드(LEMONADE)’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na4ddde2a",
-    "category": "사회",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/05/29/M237PPXB3VHA3IGL64S477FBYU/",
-    "title": "[사설] 우리 화물선 침몰했을 수도, 왜 이란과 이스라엘 대응이 다른가",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/29/GQYGCY3FGRSTOZBSGE2DQYZYHE/",
+    "title": "'월드컵 발탁에 펑펑 울었는데' 네이마르 날벼락...부상으로 MRI 검진→첫 훈련 불참 \"파나마·이집트전 모두 결장 가능성 크다\"",
     "summary": [
-      "[사설] 우리 화물선 침몰했을 수도, 왜 이란과 이스라엘 대응이 다른가."
+      "[OSEN=고성환 기자] 네이마르(34, 산투스)가 마음껏 '라스트 댄스'를 펼칠 수 있을까.",
+      "그가 브라질 대표팀 최종 명단에 포함되며 월드컵 출전 기회를 손에 넣었지만, 부상으로 낙마 가능성이 제기되고 있다.글로벌 매체 'ESPN'은 28일(이하 한국시간) \"네이마르가 추가 검진을 위해 브라질 대표팀의 첫 월드컵 훈련에 불참했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nff5ae4a4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260528/134013688/1",
-    "title": "‘극내향인’ 엄태구, 수줍은 깜짝 고백 “말 많아져…로커 도전하고파”",
+    "id": "n9a699581",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "18분 전",
+    "url": "https://www.hankyung.com/article/2026052954707",
+    "title": "吳심판론 대 吳성과론…서울시장 TV토론 난타전 [종합]",
     "summary": [
-      "배우 엄태구가 ‘와일드 씽’ 이후 생긴 바람에 대해 깜짝 고백했다.",
-      "28일 서울 종로구 삼청동의 한 카페에서는 영화 ‘와일드 씽’(감독 손재곤) 주연 엄태구의 인터뷰가 진행됐다.‘와일드 씽’은 한때 가요계를 휩쓸었지만 예기치 못한 사건으로 하루아침에 해체된 혼성 댄스 그룹 트라이앵글이 20년 만에 다시 무대에 오르며 벌어지는 이야기를 담은 코미디 영화다.",
-      "‘달콤, 살벌한 연인’(2006) ‘이층의 악당’(2010) ‘해치지 않아’(2020) 손."
+      "吳심판론 대 吳성과론…서울시장 TV토론 난타전 [종합]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6ac54a3e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260528/134013685/1",
-    "title": "르세라핌 무대에 등장한 DJ 박명수…“컬래버 너무 행복”",
+    "id": "n7e8b2d9f",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/29/2026052820373151134",
+    "title": "'약물도 허용' 151억원 걸린 도전이 온다, 목표는 '볼트 100m 세계기록'",
     "summary": [
-      "그룹 르세라핌과 박명수가 대학 축제에서 컬래버레이션 무대를 꾸몄다.",
-      "박명수는 28일 자신의 인스타그램에 르세라핌 멤버들과 함께 찍은 사진을 공개하며 “르세라핌과 콜라보, Dj gpark 너무 행복했어요, 경희대 파이팅”이라는 글과 사진을 올렸다.사진 속 박명수는 르세라핌 멤버들과 함께 서 미소를 짓고 있는 모습이다.",
-      "르세라핌 멤버들은 무대 의상을 입고 박명수와 유쾌한 포즈를 취하고 있다.앞서 박명수는 지난 27일 경희대학교 국제캠퍼스에서 진행된."
+      "'과학의 힘으로 인간의 한계를 시험한다'는 취지로 기획돼 약물·기술 도핑 등을 모두 허용하는 인핸스드 게임(Enhanced Games)에서 무려 1000만 달러(약 151억원)를 내건 도전 과제가 나왔다.",
+      "목표는 우사인 볼트(자메이카·은퇴)가 세웠던 육상 남자 100m 세계기록(9초58) 경신이다.",
+      "인핸드스 게임 주최 측은 28일(한국시간) 홈페이지를 통해 \"누구라도 볼트의 기록을 경신하면 즉시 1000만 달러의 상금을 지급할 것\"이라고 밝혔다."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6b873b8f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/29/2026052817050643655",
+    "title": "'박지성 절친'의 한숨 \"유령 빌딩에 돈 다 날릴 뻔\" 퍼디난드, 후배들에 \"사기 조심해\" 경고... \"축구판에 피라냐 득실\"",
+    "summary": [
+      "은퇴 후 성공적인 사업가로 변신한 맨체스터 유나이티드 전설 리오 퍼디난드(47)가 후배들에게 \"사기를 조심하라\"고 경고했다.",
+      "영국 '데일리 메일'은 27일(현지시간) \"퍼디난드가 두바이로 이주한 뒤 팟캐스트 운영과 각종 투자 성공으로 맨유 시절 최고 주급을 받던 때보다 두 배 가까운 돈을 벌어들이고 있다\"고 보도했다.",
+      "퍼디난드는 최근 스포츠계 거물들을 다루는 팟캐스트 '더 롱 플레이'에 출연했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0d8a262c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/05/29/HE2TAOBUMY2GGNRZGIZGMY3GG4/",
+    "title": "'PSG가 아스널에 대승한다' 맨유 레전드 에브라의 '용감한' UCL 결승 예상..\"아스널이 '버스를 세운다면' PSG가 박살낼 수 있다\"",
+    "summary": [
+      "[스포츠조선 노주환 기자]맨체스터 유나이티드의 레전드이자 박지성의 절친인 파트리스 에브라가 오는 31일 오전 1시(한국시각) 열리는 유럽챔피언스리그 결승전에서 파리생제르맹(PSG)이 아스널을 파괴할 수도 있다고 예상했다.",
+      "접전이 아니라 압도적으로 박살낼 수 있다는 것이다.",
+      "'빅이어'를 놓고 두 팀은 헝가리 부다페스트에서 단판승부로 대결한다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n49523bf3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260528189951082",
+    "title": "스위스서 이슬람 극단주의자 칼부림…3명 부상(종합)",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 28일(현지시간) 스위스 기차역에서 칼부림 사건이 발생해 3명이 다쳤다.",
+      "체포된 용의자는 이슬람 극단주의자..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf0e00725",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260529_0003648340",
+    "title": "정원오·오세훈, GTX 철근누락 공방…\"안전불감증\" vs \"선거소재 삼아\"",
+    "summary": [
+      "[서울=뉴시스] 김난영 권신혁 조기용 기자 = 정원오 더불어민주당 서울시장 후보와 오세훈 국민의힘 후보가 GTX 삼성역 철근 누락을 두고 상호 공방을 벌였다.",
+      "정 후보는 28일부터 진행된 중앙선관위 주최 서울시장 후보 TV토론에서 GTX 삼성역 철근 누락을 거론, 오 후보에게 \"이것이 일반적인 부실시공인가, 중대한 부실시공인가\"라고 물었다.",
+      "그는 \"오 시장의 서울시 담당 본부장은 이것을 거의 6개월 동안 보고도 안 했다\"고 했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n46004ad6",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "42분 전",
+    "url": "https://www.asiae.co.kr/article/2026052901285102095",
+    "title": "정원오 \"세금이 아깝지 않은 정책 실현\"…오세훈 \"이재명 정권 견제할 발판 남겨달라\"",
+    "summary": [
+      "서울시장 TV토론에서 정원오 더불어민주당 후보는 세금이 아깝지 않은 시정, 오세훈 국민의힘 후보는 최소한의 견제를 언급하며 지지를 호소했다.",
+      "김정철 개혁신당 후보와 권영국 정의당 후보는 소수정당의 한계 등을 토로해 눈길을 끌었다.",
+      "29일 서울시 선거방송토론위원회 주최로 열린 서울시장 후보자 토론회에서 김 후보는 \"제3지대 정당 후보로 나와서 기회가 많이 없었기 때문에 부득이 정책에 집중하지 못했다\"며 \"정책토론."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd810c29a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "43분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260529002200071",
+    "title": "내년판 美국방예산법 초안에 주한미군 규모 유지 조항 강화",
+    "summary": [
+      "(워싱턴=연합뉴스) 조준형 특파원 = 미국 연방 하원에서 마련된 2027회계연도(2026년 10월~2027년 9월) 국방수권법안(NDAA·국방예..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n5943555a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "49분 전",
+    "url": "https://www.newsis.com/view/NISX20260529_0003648337",
+    "title": "네타냐후, 휴전 합의 무시…\"가자 점령지 70%로 확대 지시\"",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 베냐민 네타냐후 이스라엘 총리가 휴전 합의를 무시하고 군에 가자지구 영토의 70%를 장악하라고 명령했다고 외신이 28일(현지 시간) 보도했다.",
+      "이스라엘 채널12에 따르면 네타냐후 총리는 이날 요르단강 서안 이스라엘 정착촌에서 열린 한 행사에서 \"우리는 현재 하마스를 압박하고 있으며 가자지구 영토의 60%를 통제하고 있다\"고 말했다.",
+      "이어 그는 기존 휴전 합의에 따라 이스라엘군이 통제하던 가자지구 영토는 50% 수준."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9e5ae08d",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "50분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/29/2026052901021416176",
+    "title": "정원오 \"세금 아깝지 않은 시정\" vs 오세훈 \"李 정부 오만 독주 견제\"",
+    "summary": [
+      "[the300] 서울시장 후보 TV토론회에 나선 정원오 더불어민주당 후보와 오세훈 국민의힘 후보가 마지막까지 서로를 향한 견제를 이어갔다.",
+      "정 후보는 오 후보의 시장 재임 시절 실정을 겨냥한 듯 \"세금이 아깝지 않은 정책을 실현하겠다\"고 강조했고 오 후보는 시정 경험을 강조하며 \"이재명 정권의 오만과 독주를 막아야 한다\"고 지지자 결집을 호소했다.",
+      "정 후보는 29일 서울시장 후보 TV 토론회 마무리 발언에서 \"시장이 되면 토론회 참석한 세 후보."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nd2627cbb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "53분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260529001800081",
+    "title": "일도 공부도 안하는 청년 100만명…영국 '잃어버린 세대' 경고",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 영국에서 취업이나 교육에 참여하지 않는 청년 인구가 100만명을 넘어서 '잃어버린 세대'를 양산할 위험에 처..."
+    ],
+    "chips": [
+      "#취업",
       "#교육"
     ]
   },
   {
-    "id": "nf5dc5e72",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260528/134013681/1",
-    "title": "샘 킴, 이탈리아 주방 막내 취업…“뭘 해야 할지 몰라”",
-    "summary": [
-      "셰프 샘 킴이 이탈리아 현지 주방에서 위기를 맞는다.28일 오후 8시40분 방송되는 tvN 예능물 ‘언더커버 셰프’ 2회에서는 해외 현지 주방에 막내로 위장 취업한 샘 킴, 정지선, 권성준의 첫 영업기가 공개된다.지난 방송에서 세 사람은 각각 전직 농부, 복싱 선수, 야구 선수로 신분을 숨기고 현지 주방에 들어갔다.",
-      "2회에서는 이들이 본격적으로 주방 막내 업무와 첫 영업에 나선다.샘 킴은 이탈리아 파르마의 100년 넘은 전통 레스토랑에 막내로."
-    ],
-    "chips": [
-      "#KBO",
-      "#취업"
-    ]
-  },
-  {
-    "id": "ncfc39665",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/28/GQ3TMYJSGE3GMYZYGYYDMODGMM/",
-    "title": "리버풀-첼시-레알 마드리드 NO…'토트넘 남는다!' 미키 판 더 펜 '긍정 신호', 로베르토 데 제르비 '희소식'",
-    "summary": [
-      "[스포츠조선 김가을 기자]토트넘이 웃는다.",
-      "미키 판 더 펜(토트넘)의 잔류 가능성에 '긍정 신호'가 켜졌다.",
-      "토트넘의 소식을 주로 전하는 투더레인앤드백은 28일(이하 한국시각) '토트넘에서의 미래에 대한 판 더 펜의 입장이 드러났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4cd2b40d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/GZSGMMRWGZQWGNDGMIZGENBQMY/",
-    "title": "김준호♥김지민, 1인 25만 원 VIP 데이트 \"소원은‥아기 천사 찾아오길\" ('준호지민')",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 부부 김준호,김지민이 한정식 집에서 소원을 빌었다.",
-      "28일 유튜브 채널 '준호 지민'에는 '관종과 사는 여자[여행 브이로그 EP.수원]'이라는 제목의 영상이 게재됐다.",
-      "영상 속 두 사람은 수원에서 즐거운 시간을 보냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n06101f8e",
+    "id": "nf5d335ee",
     "category": "사회",
     "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://www.asiae.co.kr/article/2026052823494345476",
-    "title": "오세훈 \"GTX-A 삼성역 철근누락, 뉴스 보고 인지…완벽 보완 가능\"",
+    "time": "1시간 전",
+    "url": "https://www.asiae.co.kr/article/2026052901083695483",
+    "title": "GTX-A 삼성역 철근누락에 鄭 \"중대 부실시공\" 吳 \"완벽 보강\"",
     "summary": [
-      "오세훈 국민의힘 서울시장 후보는 28일 수도권광역급행철도(GTX)-A 삼성역 출근 누락사건 관련 의혹에 대해 \"보고받지 못했다.",
-      "직무 정지 상태에서 선거운동을 시작했고, 사후에 뉴스를 보고 알았다\"면서 \"지금이라도 완벽히 보완이 가능해서 걱정할 일은 아니다\"라고 했다.",
-      "오 후보는 이날 오후 서울시 선거방송토론위원회가 주최한 제9회 전국동시지방선거 서울시장 후보 초청 토론회에 참석해 '서울시가 GTX-A 삼성역 출근 누락."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbb5786ad",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260528183851004",
-    "title": "2호선 홍대입구∼을지로입구 28일 막차 단축·29일 첫차 지연(종합)",
-    "summary": [
-      "(서울=연합뉴스) 황재하 기자 = 서울교통공사는 최근 붕괴 사고가 발생한 서소문 고가차도 철거 공사 재개에 따라 28일 2호선 홍대입구역∼을지로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne91b16ad",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/05/28/EXW2PNDI5BDL5KFISJT5FKBSYM/",
-    "title": "처음이자 마지막 서울시장 TV토론...鄭 “10년 심판론” 吳 “세계 도시 완성”",
-    "summary": [
-      "처음이자 마지막 서울시장 TV토론...鄭 “10년 심판론” 吳 “세계 도시 완성”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n48740a83",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://www.asiae.co.kr/article/2026052822531687834",
-    "title": "박정임 창원시장 후보 \"기득권 거대 양당 정치 끝내야 … 단일화 안 해\"",
-    "summary": [
-      "무소속 박정임 경남 창원특례시장 후보가 거대 양당 정치 구도를 비판하며 7가지 창원 발전 전략을 발표했다.",
-      "박 후보는 28일 시청 프레스센터에서 기자회견을 열고 \"창원시장 후보 TV 토론회는 위기를 극복할 진지한 비전도 고통받는 시민을 위한 따뜻한 민생 대책도 없는, 오직 상대방을 흠집 내는 네거티브 공방만 난무했다\"며 \"기득권 거대 양당 정치가 보여주는 난투극 카르텔 토론장\"이라고 비판했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7ee906e5",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://www.asiae.co.kr/article/2026052823192606376",
-    "title": "경남도, 지방선거 투표소 최종 점검 … \"소중한 한 표, 차질 없이 행사되게\"",
-    "summary": [
-      "박일웅 경남도지사 권한대행이 제9대 전국동시지방선거 사전투표일을 하루 앞둔 28일 도내 사전투표소 준비 상황 점검에 나섰다.",
-      "박 권한대행은 창원시 성산구 중앙동 행정복지센터에 마련된 중앙동 사전투표소에서 사전투표 준비상황을 보고받고 투표 절차, 기표소 및 투표함 설치 상태, 유권자 이동 동선, 장애인 및 노약자 편의시설 등을 두루 살폈다.",
-      "이어 투표소 안전 관리 체계와 질서유지 요원 배치 상황, 투표소 보안 관리."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n28cc3402",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://www.asiae.co.kr/article/2026052823394024891",
-    "title": "2026지선 사전투표 D-1 … 경남선관위원장, 투표소 준비상황 점검",
-    "summary": [
-      "제9회 전국동시지방선거 사전투표일을 하루 앞둔 28일 이영훈 경남선거관리위원회 위원장이 관내 사전투표소를 찾아 사전투표 준비상황을 챙겼다.",
-      "이 경남선관위 위원장은 이날 창원시 마산합포구 합포동행정복지센터에서 점검용 모의투표용지를 사전투표함에 넣어보며 최종 모의시험에 나섰다.",
-      "또 사전투표 안전관리 현황을 확인하고 사전투표관리원 등 투표사무 관계자들을 격려했다."
+      "주요 서울시장 후보들이 '수도권광역급행철도(GTX)-A 삼성역 철근누락 사건'을 두고 오세훈 시장 책임론 공방을 이어갔다.",
+      "정원오 더불어민주당 후보는 \"중대한 부실시공\"이라고 비판했지만, 오세훈 국민의힘 후보는 \"상응하는 완벽한 보강 조치를 한 상태\"라고 반박했다.",
+      "정 후보는 29일 오전 서울시 선거방송토론위원회가 주최한 제9회 전국동시지방선거 서울시장 후보 초청 토론회에 참석해 \"서울시의 2025년 산업재해 사망자는."
     ],
     "chips": [
       "#정치"
@@ -649,8 +652,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
@@ -660,9 +663,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
