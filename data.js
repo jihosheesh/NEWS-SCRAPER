@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-29 12:57:37
+// 마지막 업데이트: 2026-05-29 14:06:47
 window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -20,11 +20,11 @@ window.NEWS_DB = [
     "id": "nbf65e391",
     "category": "IT",
     "source": "ESG경제",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwV2ozTmJKcl9OX0ZJbmdpaF9iVjBZeExHd28tOFRONUlwX2s3bWs0M2F0NU9id0RHWDZpNFZfRlFIcmg3WVdOTUpIODRjejVlNFRhRm1DVUZJZ3lOUmRyVGdHR2xKNWJ3Q2JMMw?oc=5",
-    "title": "삼성전자, 앤트로픽에 전략적 투자...실적부진 파운드리 부활 신호탄 쏠까",
+    "title": "삼성전자, 앤트로픽에 전략적 투자...파운드리 부활 신호탄 쏠까",
     "summary": [
-      "삼성전자, 앤트로픽에 전략적 투자...실적부진 파운드리 부활 신호탄 쏠까 ESG경제."
+      "삼성전자, 앤트로픽에 전략적 투자...파운드리 부활 신호탄 쏠까 ESG경제."
     ],
     "chips": [
       "#반도체",
@@ -32,10 +32,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nafaefea0",
+    "category": "IT",
+    "source": "직썰",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hTzVpUWpDWWJyWkMtZWJmSVpRMF8zSmRxVEJwWDR1NXAzb3BqX1FwMGFfcUtkNmJZSHIyUGdKQnlLZzV6OW9tYWo5SFNFWFR4T0NUc094V3c4UHREMkVhSHhibm04X2RC0gFsQVVfeXFMTUVGckVVajBTRmM1eVp5TWNsOXdJV2ZzOVgxV2lRNGpoUWNUY3Z3Y3BzLVN0SzBYTnQwYjRXWkFvRXNnb1dsYjF0alR1dU5ObTV2TWdyN2FQcm0tcWNwSDVaNjNBTnRaVDZtd3Jf?oc=5",
+    "title": "삼성전자·SK하이닉스, 앤트로픽 투자…AI 인프라 협력 확대",
+    "summary": [
+      "삼성전자·SK하이닉스, 앤트로픽 투자…AI 인프라 협력 확대 직썰."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nf713d853",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBVkEzY3M0MHlQMmFXaFlmVGVLOFhCZ2FWVFhSaWtRTGJyNFBaOWtQMkcyQzVPQkhDWW1TRThfUnA2c2hKclVmTWpDbGZYTTh3SVBuc1lMTkp5UE9pNkRLV1hiTWpQaFJpSU1XcW1Nb2x5bTA?oc=5",
     "title": "'삼성전자 파운드리 고객사' 그로크 대규모 투자 유치, 엔비디아와 협업에 맞춰 구조 재편",
     "summary": [
@@ -51,7 +67,7 @@ window.NEWS_DB = [
     "id": "n55d092f9",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QajlVY2JtZl9JeklaSzV0Tk1kZXlYSlhJNENOMEJSLWZRZ2dLOHViQ3dHVWQ3Nk9DaWNiZ0phcEhuNHpnOXdBd2E2WmJ4UnhWNy1wUHEtNWNUckFQU2JSMdIBYEFVX3lxTE1QajlVY2JtZl9JeklaSzV0Tk1kZXlYSlhJNENOMEJSLWZRZ2dLOHViQ3dHVWQ3Nk9DaWNiZ0phcEhuNHpnOXdBd2E2WmJ4UnhWNy1wUHEtNWNUckFQU2JSMQ?oc=5",
     "title": "삼성·SK, 앤트로픽에 전략적 투자…삼성은 AI칩 수주(종합)",
     "summary": [
@@ -59,36 +75,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "n27202b82",
-    "category": "IT",
-    "source": "테크M",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TdVJIYnJmWUdRYWI4Q0Y5NHhyNHg4LVhzZjZyUjA0VXRXdjFHd3hUalNhUnNBVkxTaThfWDlFSkF6amU4anhtZ1NqbVdjUFMzQUNXczBCT2gzRGVaZHNHNFhMT2NyZ9IBakFVX3lxTE1pa0pFTU9YeEtLbEV2Y2MzUFU2c3A1OWlCb3AxWWFxWnJXV1BpYWVrZ0J1M0NFUWtEVHYtVWlFb2kyYU51NGludEFWR3FWWVRaVG9UT3dHbnoxMGhFeVluLXV4cXZxalk0Z0E?oc=5",
-    "title": "HBM 경쟁 '장군멍군'...SK하이닉스 'iHBM' 개발 vs 삼성전자 'HBM4E' 샘플 출하",
-    "summary": [
-      "HBM 경쟁 '장군멍군'...SK하이닉스 'iHBM' 개발 vs 삼성전자 'HBM4E' 샘플 출하 테크M."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n548bb3f9",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ydUtua2g5YjF4MU8tMW1xY25QYjJET3RKUmdMa3FXN29VVTNBNUlyYkw3b19CUnJIS2Vuekc5LTZJSUhRX3duU0VidDRaelgzbHByWF9UenlCTkRFRVE4Y9IBYEFVX3lxTE1ydUtua2g5YjF4MU8tMW1xY25QYjJET3RKUmdMa3FXN29VVTNBNUlyYkw3b19CUnJIS2Vuekc5LTZJSUhRX3duU0VidDRaelgzbHByWF9UenlCTkRFRVE4Yw?oc=5",
-    "title": "[퇴근길머니] 코스피 장중 8,000선 아래로…연내 '금리인상' 신호탄",
-    "summary": [
-      "[퇴근길머니] 코스피 장중 8,000선 아래로…연내 '금리인상' 신호탄 연합뉴스."
-    ],
-    "chips": [
-      "#금리"
     ]
   },
   {
@@ -167,6 +153,20 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n178e8a6b",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ERFV2Y21pXzdPWnhMT2w0ZjkySW5jT2FWVlR4ZlFrYWxXbDFMcndCNmNzb1pjcEdYSzhRcTdESVdUMjMxSGl4Y2VlbFN5Z29OQ0twS2x6WkVkc1A2bkJMM9IBYEFVX3lxTE5ERFV2Y21pXzdPWnhMT2w0ZjkySW5jT2FWVlR4ZlFrYWxXbDFMcndCNmNzb1pjcEdYSzhRcTdESVdUMjMxSGl4Y2VlbFN5Z29OQ0twS2x6WkVkc1A2bkJMMw?oc=5",
+    "title": "종전·삼전닉스 기대에…코스피 8,000선 최고치",
+    "summary": [
+      "종전·삼전닉스 기대에…코스피 8,000선 최고치 연합뉴스."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -380,253 +380,250 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0077aa24",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026052921231147106",
-    "title": "\"불장에 내 주식만 박살? 아니었네\"…韓증시 종목 82%는 하락",
-    "summary": [
-      "국내 증시가 연일 사상 최고치 행진을 이어가고 있지만, 시장 내부를 들여다보면 '상승장'이라는 표현이 무색한 모습이다.",
-      "지수 상승을 이끄는 소수를 제외하고 대부분 종목이 하락세인 데다 체감 경기는 오히려 악화하고 있다는 평가가 나온다.",
-      "'삼전·하이닉스'로 쏠린 자금…대다수 종목 하락한국거래소에 따르면 최근 한 달간 코스피·코스닥 상장 종목 2764개 가운데 2276개(82.3%)가 하락한 것으로 집계됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6f1aa5d6",
+    "id": "nb66d9d32",
     "category": "사회",
     "source": "동아일보",
     "time": "3분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260529/134019864/2",
-    "title": "강기정 광주시장 “스타벅스, 전국 매장 문 닫고 역사 교육해야”",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260529/134019566/2",
+    "title": "지복[박연준의 토요일은 시가 좋아]〈44〉",
     "summary": [
-      "강기정 광주시장이 스타벅스 코리아의 ‘5·18 탱크데이’ 논란과 관련해 정용진 신세계그룹 회장에게 전국 매장 영업을 중단하고 역사 교육을 할 것을 촉구했다.강 시장은 29일 자신의 페이스북에 “2018년 미국 스타벅스는 인종차별 논란 직후 한나절 동안 미국 내 8000여 개 매장의 영업을 중단하고 직원 교육을 실시했다”며 “막대한 매출 손실을 감수하고 차별 방지 교육을 실시해 기업의 윤리적 기준을 세운 것”이라고 했다.이어 “2026년 한국 스."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ndb756066",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026052921524578875",
-    "title": "[속보]서울시 \"서소문 고가 철거 완료\"…내일 경의선 운행 재개",
-    "summary": [
-      "[속보]서울시 \"서소문 고가 철거 완료\"…내일 경의선 운행 재개."
+      "나는 가끔 부끄러워 구석진 바위에 머리를 박고 싶을 때가 있다 대개는 애매함에서 오는 것이다 흐리고 느린 마음은 두꺼비집 같아서 스스로 무너진다 (중략) 그리하여 나는 비 오는 날에도 꽃에 물을 주고 싶고 풀을 뽑고 싶고 매일 내 잡초를 뽑기 위해 일기를 쓴다 그러다가 이 풀도 어여쁘다 이것이 꽃일지도 모르지 나를 향해 귀 기울이는 빛과 함께 가만히 키워보고 싶다는 생각도 해보는 것이다 나는 내 정원에 오랜 장마에도 무너지지 않을 부끄러운 바위."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne9e67108",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/05/29/RM5D24ORJNEQVGYAFOBTVLNQMU/",
-    "title": "전재수·하정우 함께 사전투표장에…한동훈 “혼자 못하나”",
-    "summary": [
-      "전재수·하정우 함께 사전투표장에…한동훈 “혼자 못하나”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n21110ec7",
-    "category": "스포츠",
+    "id": "n83e703ae",
+    "category": "부동산",
     "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260529/134019857/1",
-    "title": "‘또 졌다’ SSG, 한화에 3-4로 석패해 10연패 수렁…‘홈런 2방’ 한화, 2연승",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260529/134019978/2",
+    "title": "영등포 문래동 아파트서 불…주민들 옥상 대피·70대 주민 화상",
     "summary": [
-      "프로야구 SSG 랜더스가 한화 이글스에 1점차 석패를 당하면서 10연패의 수렁에 빠졌다.",
-      "SSG는 29일 대전 한화생명볼파크에서 벌어진 2026 신한 쏠 KBO리그 한화 이글스와의 원정 경기에서 3-4로 석패했다.",
-      "지난 17일 인천 LG 트윈스전부터 이날까지 10경기를 내리 진 SSG는 22승 1무 28패를 기록해 7위에 머물렀다."
+      "서울 영등포구 문래동의 한 아파트에서 불이 나 주민들이 긴급 대피하는 소동이 벌어졌다.소방 당국에 따르면 29일 오후 4시 18분경 영등포구 문래동의 18층짜리 아파트 5층 세대에서 화재가 발생했다.이 불로 70대 남성 거주자 1명이 경미한 화상을 입었으며, 주민 18명은 옥상 등으로 대피했다.신고를 받고 출동한 소방 당국은 차량 26대와 인력 85명을 투입해 진화 작업에 나섰고, 화재 발생 약 52분 만인 오후 5시 10분경 불을 완전히 껐다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n84c10707",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260529_0003648835",
+    "title": "행안차관, 관외 사전투표지 이송현장 점검…\"보안 철저\"",
+    "summary": [
+      "[서울=뉴시스] 강지은 기자 = 김민재 행정안전부 차관은 6·3 지방선거 사전투표 첫날인 29일 밤 서울 중구에 위치한 서울중앙우체국을 방문해 관외 사전투표지 우편 이송 현장을 직접 점검했다.",
+      "이번 점검은 유권자들의 소중한 한 표가 담긴 관외 사전투표지가 관할 선거관리위원회로 안전하게 이송되는지 확인하기 위해 마련됐다.",
+      "선거일 당일 투표하기 어려운 유권자는 별도의 신고 없이 선거일 전 5일부터 이틀간인 이날과 내일 전국 읍·면·동에 설치된 사전."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndb3229ac",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260529/134019974/1",
+    "title": "영등포 문래동 아파트서 불…70대 경상·주민 18명 옥상 대피",
+    "summary": [
+      "29일 오후 4시18분께 서울 영등포구 문래동 18층짜리 아파트 5층에서 불이 났다.신고를 받고 출동한 소방 당국은 차량 26대와 인력 85명을 투입해 화재 발생 약 52분만인 오후 5시10분께 불을 완전히 껐다.이 불로 70대 남성 거주자 1명이 경미한 화상을 입었고, 주민 18명은 옥상 등으로 대피했다.소방 당국은 정확한 화재 원인과 재산 피해 규모를 조사 중이다.[서울=뉴시스]."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n0d1b1051",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/29/2026052922143891130",
+    "title": "'와' 한화, 이래서 FA 투자에 쏟아부었구나! '100억 투런포+50억 9회 2사 후 결정적 호수비' 허인서 데뷔 첫 10홈런만큼 빛났다... SSG 충격의 창단 첫 10연패",
+    "summary": [
+      "한화 이글스가 SSG 랜더스를 10연패의 늪에 빠트리며 5할 승률을 회복했다.",
+      "특히 이글스의 안방마님으로 성장한 허인서는 데뷔 4시즌 만에 개인 첫 두 자릿수 홈런 고지를 밟았다.",
+      "여기에 프리에이전트(FA)를 통해 영입한 주인공들도 결정적인 순간 자신의 몫을 완벽하게 수행했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nade6a58b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260529/134019854/1",
-    "title": "“노숙자 사냥 원했다”…시신 훼손 혐의 美 20대, 경찰 대치 끝 사망",
-    "summary": [
-      "노숙자를 살해한 뒤 시신을 훼손한 혐의를 받던 20대 남성이 경찰 특수기동대(SWAT)와 대치 끝에 경찰 총격으로 사망했다.지난 28일(현지 시간) 피플 등 외신에 따르면 미국 켄터키주 루이빌 경찰은 마이클 흐리스토프(21)가 노숙자 마이클 하워드 살해 사건과 관련해 살인과 시신 훼손, 폭행 혐의로 기소된 뒤 체포 과정에서 숨졌다고 밝혔다.경찰은 지난해 12월 루이빌 지역 온라인 커뮤니티에 “노숙자를 노리는 연쇄살인범이 있다”는 내용의 게시글이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n61abb11c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260529171500009",
-    "title": "\"미·이란 종전 MOU 조항 최근 며칠새 변경돼\"<이란 매체>",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 미국과 이란이 협상 중인 종전을 위한 양해각서(MOU)의 조항이 최근 며칠 새 변경됐다고 29일(현지시간) 이..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0366bca8",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260529/134019851/1",
-    "title": "“경비 아저씨가 왜 90도 인사를”…중학생 글에 공감 ‘확산’",
-    "summary": [
-      "아파트 경비원들이 주민들에게 90도로 인사하도록 한 관행을 두고 한 학생이 문제를 제기한 글이 온라인에서 공감을 얻고 있다.최근 여러 온라인 커뮤니티와 SNS에는 자신을 한 아파트 거주 학생이라고 소개한 A 씨의 글이 확산됐다.A 씨는 “아침마다 지하 2층 주차장을 지나 지하철역으로 가는데 얼마 전부터 경비 아저씨들이 통로 앞에서 주민들에게 90도로 인사를 하기 시작했다”고 밝혔다.이어 “그분들보다 한참 어린 제가 허리를 숙여 인사를 받는 게."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n2124686b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260529_0003649859",
-    "title": "굿·갓·꾼으로 풀어낸 K팝…국립국악원, 남미 한국문화원 순회전",
-    "summary": [
-      "[서울=뉴시스] 최희정 기자 = 한국전통음악을 조명하는 전시가 남미에서 열린다.",
-      "국립국악원 국악박물관이 오는 8월5일까지 주아르헨티나 한국문화원에서 순회전 'K팝, 한국전통음악을 만나다'를 개최한다고 29일 밝혔다.",
-      "이번 전시는 지난해 나이지리아, 남아프리카공화국 등 아프리카 권역 한국문화원에서 첫선을 보였던 순회전시로, K팝을 비롯한 다양한 K-콘텐츠 속 한국 전통음악의 요소를 조명한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f08b398",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260529_0003649907",
-    "title": "아마존 베이조스 '블루 오리진' 로켓 폭발에…머스크 \"로켓 만들기 어려워\"",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 아마존 창업자 제프 베이조스가 설립한 우주기업 '블루 오리진'의 대형 로켓 뉴 글렌(New Glenn)이 연소 시험 중 폭발한 가운데, 경쟁사인 일론 머스크가 \"로켓은 어렵다\"는 짧은 반응을 남기며 화제가 되고 있다.",
-      "29일(현지시간) 머스크는 X(옛 트위터)에서 극우 성향 매체 'Visegrad 24'가 게시한 \"케이프 커내버럴 발사대에서 발생한 블루 오리진 뉴 글렌 로켓의 대형 폭발은 제프 베이조스에게 큰."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na414917a",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026052921324368862",
-    "title": "[6·3선거]전북 사전투표 1일차 19.39%…전국 평균 웃돌아",
-    "summary": [
-      "제9회 전국동시지방선거 사전투표 첫날인 29일, 전북지역 투표율이 19.39%를 기록하며 전국 평균(11.6%)을 크게 웃돌았다.",
-      "29일 중앙선거관리위원회에 따르면 이날 오전 6시부터 오후 6시까지 진행된 사전투표에서 전북 전체 선거인 수 150만8954명 가운데 29만2803명이 투표를 마쳤다.",
-      "이는 제8회 지방선거 사전투표 첫날(13.31%)보다 6.08%포인트 상승한 수치다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1a34a638",
+    "id": "n6f163635",
     "category": "경제",
     "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/29/2026052921311097736",
-    "title": "콩고 에볼라 확진자 중 첫 완치자 나와…감염 땐 최대 절반 사망",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/29/2026052922190814095",
+    "title": "김장훈 \"기내 흡연 반성, 수갑 안 채운 형사들 감사…또 기부할 것\"",
     "summary": [
-      "확진 125명, 확진 사망자 17명 WHO(세계보건기구)는 최근 콩고민주공화국에서 발생한 에볼라 유행의 감염자 중 첫 번째 확진 회복 사례가 나왔다고 29일(현지시간) 밝혔다.",
-      "뉴스1 등에 따르면 AFP통신은 아나이스 레강드 WHO 바이러스성출혈열팀 기술관은 취재진에게 “(지난) 27일 환자가 회복해 병원을 떠나 지역사회로 퇴원했다”며 “두 차례 음성 판정을 거친 뒤 치료센터에서 퇴원한 첫 사례”라고 했다.",
-      "이어 \"아직 실험실 확진을 받지 않은."
+      "가수 김장훈이 과거 기내 흡연 논란에 대해 다시 한번 사과하며 반성하는 모습을 보였다.",
+      "지난 28일 공개된 유튜브 채널 '고나리자'에는 김장훈이 거짓말 탐지기 검사를 하는 모습이 담겼다.",
+      "영상에서 김장훈은 기내 흡연에 대한 이야기가 나오자 \"(당시 승무원분들께) 너무너무 죄송했다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbd1a6d62",
+    "id": "n47c518d0",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260529_0003649925",
+    "title": "이현중, 일본 B.리그 시즌 베스트5·아시아특별상 수상",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 나가사키 벨카의 일본프로농구 B.리그 우승에 앞장선 한국 남자 농구의 간판 이현중이 리그 베스트5에 선정되고 '아시아쿼터 선수상'도 품에 안았다.",
+      "이현중은 29일 일본 도쿄에서 열린 2025~2026시즌 B.리그 시상식에서 베스트5 중 한 명으로 선정됐다.",
+      "이현중은 팀 동료 스탠리 존슨, 도미나가 게이세이(홋카이도), 재럿 컬버(센다이), D.J.뉴빌(우쓰노미야)과 함께 베스트5로 뽑혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73e73ce3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260529175100063",
+    "title": "코레일 \"30일 행신-서울역 KTX운행 재개…31일 모든운행 정상화\"",
+    "summary": [
+      "(대전=연합뉴스) 이재림 기자 = 코레일은 서울 서소문 고가차도 주요 부분 철거에 맞춰 30일 첫 차부터 사고 구간 운행을 재개하는 것을 목표로..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n449716f5",
     "category": "사회",
     "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/05/29/KH6ED4M4VBC37MWYWULTR3FY4Y/",
-    "title": "선관위 “李대통령 무효표 아냐”... 장동혁 “이래서 국민이 선관위 안 믿는 것”",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/national/incident/2026/05/29/74PJM2JIRJBGDG5VUZF543OMFM/",
+    "title": "의정부 도로서 싱크홀 발생... 지나던 차량 3대 피해",
     "summary": [
-      "선관위 “李대통령 무효표 아냐”... 장동혁 “이래서 국민이 선관위 안 믿는 것”."
+      "의정부 도로서 싱크홀 발생... 지나던 차량 3대 피해."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n84fd9ad2",
+    "id": "ne6122368",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260529170700098",
-    "title": "\"여러분이 우리 영웅\"…브뤼셀서 한국전 참전용사 위로 행사",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260529175300072",
+    "title": "美 뉴욕시∼뉴저지주 통근열차 구간서 화재…출근길 혼란",
     "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = \"76년 전 목숨을 걸고 낯선 나라를 위해 싸운 여러분의 용기와 헌신 없이는 오늘의 대한민국은 존재하지 않..."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 29일(현지시간) 새벽 미국 뉴욕 맨해튼에서 지하 선로에 있던 정비용 열차에서 불이 나 작업자 5명이 다치고..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3a7b1afc",
+    "id": "n6e3c0ef5",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260529_0003649896",
-    "title": "\"상주가 빈소 비워도 되나\"…장례식 '퇴근' 두고 형제 갈등",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260529174700081",
+    "title": "표현의 자유 vs 러시아 선전…프랑스 흔드는 러시아 논객",
     "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 최근 변화하는 장례문화를 두고 가족 간에 벌어진 갈등 사연이 알려지며 누리꾼들 사이에서 갑론을박이 벌어지고 있다.",
-      "지난 28일 JTBC '사건반장'에 따르면, 50대 여성 제보자 A씨는 얼마 전 오랜 투병 끝에 세상을 떠난 어머니의 장례를 치르다 형제들과 크게 부딪혔다.",
-      "2남 2녀 중 셋째인 A씨는 자녀들이 모두 장성한 성인인 만큼, 낮에는 다 함께 조문객을 맞이하고 밤에는 형제들이 교대로 빈소를 지킬 것으로."
+      "(파리=연합뉴스) 송진원 특파원 = 러시아 국영 뉴스채널 RT의 프랑스 지사 전 대표가 프랑스 주요 매체에 잇따라 출연하며 친러시아 메시지를 전..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne6711076",
+    "id": "nd8d7a0e0",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/29/2026052920590463214",
+    "title": "[비하인드] '5대5 훈련도 못할 상황인데...' 6년 만에 고려대 잡은 동국대, '프로 선배들' 숨은 지원 있었다",
+    "summary": [
+      "동국대가 6년 만에 고려대를 잡았다.",
+      "대학농구 강호를 상대로 거둔 20점 차 대승이었다.",
+      "더 의미 있는 건 승리까지의 과정이었다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n27114e18",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260529174900009",
+    "title": "뉴욕증시, 美-이란 합의 기대에 상승 출발",
+    "summary": [
+      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 미국과 이란의 종전 합의 기대감에 상승 출발했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfcba0385",
     "category": "부동산",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260529170500060",
-    "title": "의정부 아파트 앞 도로서 땅꺼짐…차량 3대 파손",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/national/incident/2026/05/29/CFAFWLJA3BA6TI5CWFRZILMUHI/",
+    "title": "충북 음성 아파트서 방화한 20대 긴급 체포",
     "summary": [
-      "(의정부=연합뉴스) 심민규 기자 = 29일 오후 8시 20분께 경기 의정부시 신곡동의 한 아파트 앞 도로에서 땅꺼짐 현상이 발생했다."
+      "충북 음성 아파트서 방화한 20대 긴급 체포."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "na7e7f504",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "27분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/29/2026052921212322229",
-    "title": "\"김규리 집, 방송 보고 찾아가\"...자택 침입 강도·폭행범 구속 송치",
+    "id": "n5f65a222",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260529_0003649924",
+    "title": "[속보] 뉴욕증시, 美·이란 종전 기대감에 상승 출발…다우 0.33%↑",
     "summary": [
-      "강도상해 등 혐의 배우 김규리씨 자택에 침입해 강도 행각을 벌인 40대 남성이 구속 상태로 검찰에 넘겨졌다.",
-      "29일 뉴스1 등에 따르면 서울 종로경찰서는 이날 오전 강도상해 등 혐의를 받는 40대 남성 임모씨를 서울중앙지검에 구속 송치했다.",
-      "임씨는 지난 20일 오후 9시쯤 종로구 북촌한옥마을 소재 김씨 자택에 무단 침입해 금품을 요구한 혐의를 받는다."
+      "[서울=뉴시스] ◎공감언론 뉴시스 ksk@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d51fd8e",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "36분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/29/2026052922253792044",
+    "title": "'전 거래처 관계자 폭행'…호카 前 국내총판 대표 구속 기각",
+    "summary": [
+      "런닝화 브랜드 호카(HOKA)의 국내 총판을 담당했던 조이웍스엔코의 조성환 전 대표가 구속을 면했다.",
+      "29일 서울동부지법 서범준 부장판사는 구속 전 피의자 심문(영장실질심사)를 진행한 뒤 \"(조 전 대표가) 증거를 인멸하거나 도주할 우려가 없다\"라며 구속영장을 기각했다.",
+      "조 전 대표는 지난해 12월 서울 성동구 성수동의 한 폐교회 건물로 전 거래처 대표와 직원을 폭행한 혐의를 받는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na35cae07",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/2026052976767",
+    "title": "루마니아, 드론 공격에 러시아 총영사관 폐쇄…러 \"과도 반응\"",
+    "summary": [
+      "루마니아, 드론 공격에 러시아 총영사관 폐쇄…러 \"과도 반응\"."
     ],
     "chips": [
       "#뉴스"
@@ -639,18 +636,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "부동산",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
