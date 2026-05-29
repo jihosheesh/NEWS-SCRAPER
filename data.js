@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-29 20:45:18
+// 마지막 업데이트: 2026-05-29 21:33:09
 window.NEWS_DB = [
   {
     "id": "na664b902",
     "category": "IT",
     "source": "뉴시스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10TkpQUDI2S0Jkc2ZVWW5reVM2ZkQzWDg0Y1VkcWxNUkU5Yi1ubWVKd1BIelp5N2JLSzBrOFJTMHRjeVhPdmZmNTdNSjdZb1ZGaTQxNk9iUVRtdTdKVmdtWdIBeEFVX3lxTE1rSktRX25DTjBEZlFUSVUxUFFEdTJSU3BpOV9oeUY3RlJOUFJyUjRtLUEwREJMTGlMRkZfMlpFMUtXbjBOMExnRFRZeGNCMkRJTHVPd1ZKbnk5a25OT2I5b1o2QXlfdU9PWno0aWNIdTZPbzhSM3Z1LQ?oc=5",
     "title": "젠슨 황 방한 기대감에 AI주 폭등…코스피 또 사상 최고치",
     "summary": [
@@ -31,17 +31,20 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8bf4f996",
-    "category": "부동산",
-    "source": "데일리안",
+    "id": "nc3c3e382",
+    "category": "IT",
+    "source": "IT조선",
     "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtYXVpZ1R2Y1BaMzlXb3Z0TGZ6eFJwQnN3cl9OdDdQRWRYN19XWGF3eFpGQmw0blE5eEotOEV5SVdENTE2NklfWjkyWEhtbjVrSk81MXhB0gGmAkFVX3lxTE5kczlWWmNkcnBLd0xpSVZVQ0JaOGRRX1ZmaW9sVjFZdTlxbXZxNHRQcGdvcWlYRTdRa052UWlGemVkNmtkZGZSSWpJWGNXRkU2NXNQTW94bzFicEZXS3ZiNVNQd1ZKNXRqWXRLSktWV1d0MjJTOHNZeXd2YWpRZW8xMmtnLXQ0WTRoS3N0dEptMEppXzJ5WkFSelFqMEJBMng4YktENWFkYUpYQmwwWWpyNDJvNWRQeTZvNUY3b1VMcC1Jc25rVkkxRGhpcnY5NENEaTI3aW1MNmtOdG5qOXNub2pPcDVINW1OWVcyemdxSFpycWF0UGVwNmpJNXlCNTM2ZFVFSjBQdHBYSmNTVm1rbmZPR2hqVno1VHVKU2oyODl0TWZFUQ?oc=5",
-    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zZnNkZFAySHB5TVhBQUZDMndxeks4eThVbm4tVHVYQ0FoVDJadENsQWVQSWFhNkdvZmhCU3RUaFNrSVpjQkU3TjV5RzFXT0tOc1ZYeHVGWVBRWk1IT0ZSVHE2am5TUlhURUNYZkJLa2PSAXRBVV95cUxPRkIwNkVFZHRyU2NWZERoQ1RiRk5ZWTZFNmxGSGE4eC1nLW0zNkVGZ1NOc0c3enljZTNQdkxyZ2VhRU1lNDJjY0FPMTI2QUhxSkt1eFJ3T1dLYUJNZ0VpNzREQWc2WHBjQjZoVmNRalZkaXVBMQ?oc=5",
+    "title": "삼성전자·SK하이닉스, 엔트로픽 투자 참여… ‘AI 반도체’ 협력 확대",
     "summary": [
-      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+      "삼성전자·SK하이닉스, 엔트로픽 투자 참여… ‘AI 반도체’ 협력 확대 IT조선."
     ],
     "chips": [
-      "#부동산"
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -57,22 +60,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "nafaefea0",
-    "category": "IT",
-    "source": "직썰",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hTzVpUWpDWWJyWkMtZWJmSVpRMF8zSmRxVEJwWDR1NXAzb3BqX1FwMGFfcUtkNmJZSHIyUGdKQnlLZzV6OW9tYWo5SFNFWFR4T0NUc094V3c4UHREMkVhSHhibm04X2RC0gFsQVVfeXFMTUVGckVVajBTRmM1eVp5TWNsOXdJV2ZzOVgxV2lRNGpoUWNUY3Z3Y3BzLVN0SzBYTnQwYjRXWkFvRXNnb1dsYjF0alR1dU5ObTV2TWdyN2FQcm0tcWNwSDVaNjNBTnRaVDZtd3Jf?oc=5",
-    "title": "삼성전자·SK하이닉스, 앤트로픽 투자…AI 인프라 협력 확대",
-    "summary": [
-      "삼성전자·SK하이닉스, 앤트로픽 투자…AI 인프라 협력 확대 직썰."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -154,7 +141,7 @@ window.NEWS_DB = [
     "id": "n4654c9cf",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVZYTFU0VmZOZzExd2xHZVJ2UkVFb1d0WVB6SGx0MHRHdmZEMHlOT091cmNZOFFwME9CeTdiZWNHdU1Nc0stZ3VzYUxPcUJqcWNLcEFFX1M0YWRHX0V3Zy1fZTdCZlJfMlpUMXFOaGV0dktDbHhuWXRGVldoQXhYbUxwMmdHWWNjd1loWHRB?oc=5",
     "title": "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
     "summary": [
@@ -230,20 +217,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3b29faae",
-    "category": "스포츠",
-    "source": "매일경제",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13MDVfMXVFdS1ndDZPT3Y4SWhyUU5ONVA3bXRacFFQU3lEdFJORVJkQklNNkxsMnJ5VV9FNGhuX0pNTGRTQmtWWW1rdVVvZUhTWVBiaEN3?oc=5",
-    "title": "식품업계, 월드컵 앞두고 축구·야구 등 스포츠팬덤 공략 나서",
-    "summary": [
-      "식품업계, 월드컵 앞두고 축구·야구 등 스포츠팬덤 공략 나서 매일경제."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -256,6 +229,20 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "58일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -301,6 +288,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "99일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -316,321 +318,314 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n93508101",
+    "id": "n7be4dee5",
     "category": "경제",
-    "source": "뉴시스",
+    "source": "머니투데이",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003649973",
-    "title": "뉴욕증시, 종전 합의 낙관론에 상승 마감…3대 지수 최고치 경신",
+    "url": "https://www.mt.co.kr/society/2026/05/30/2026052908143962453",
+    "title": "아이돌 대신 '학생이 주인공'…학생 부스·공연 늘리는 대학들",
     "summary": [
-      "[서울=뉴시스] 권성근 기자 = 뉴욕증시는 미국과 이란의 종전 합의 기대감에 3대 주가지수가 모두 사상 최고치로 마감했다.",
-      "29일(현지 시간) 마켓워치, CNBC에 따르면 이날 뉴욕증권거래소(NYSE)에서 우량주 중심의 다우존스30 산업평균 지수는 전장 대비 363.49포인트(0.72%) 오른 5만1032.46에 거래를 마쳤다.",
-      "대형주 위주인 스탠더드앤드푸어스(S&P) 500 지수는 16.43포인트(0.22%) 상승한 7580.06에 장을 마감."
+      "[기획]대학 축제의 가격표④ 대학 축제가 바뀌고 있다.",
+      "주인공은 학생에서 '아이돌'로 재판된 지 오래다.",
+      "섭외 경쟁으로 수억원대로 뛴 섭외비를 메우기 위해 캠퍼스 곳곳은 기업 홍보 부스로 채워진다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n08e2c467",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/30/2026052918554520308",
+    "title": "'유시우→이다은 전부 이겼다!' 주니어 박가현, 2026 AG 韓 탁구 국대 막차 탑승",
+    "summary": [
+      "주니어 신분의 박가현(대한항공)이 2026 아이치-나고야 아시안게임 국가대표팀 막차를 탔다.",
+      "대한탁구협회는 29일 진천국가대표선수촌에서 2026 아이치·나고야 아시안게임 및 아시아탁구선수권대회 파견 국가대표 선발전 2차 토너먼트를 개최했다.",
+      "이날 선발전에는 지난 20일 열린 1차 토너먼트 통과자들과 자동 선발자를 제외한 국가대표 1군 선수들이 참가해 마지막 남은 대표 자리를 놓고 경쟁했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4d566dbd",
-    "category": "스포츠",
+    "id": "n6f10f6d0",
+    "category": "경제",
     "source": "머니투데이",
     "time": "2분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/30/2026053005240285871",
-    "title": "\"살아났는데 또 다쳤다\" LG 정말 왜 이러나! 박동원 부상→우승 멤버도 어깨 잡고 떠났다",
+    "url": "https://www.mt.co.kr/society/2026/05/30/2026052923101234443",
+    "title": "\"김선태, 공짜로 중고차 넘겨\" 차 안엔 기저귀...아픈 딸 둔 가장 울렸다",
     "summary": [
-      "LG 트윈스에 부상 악재가 끊이지 않는다.",
-      "부산에서는 주전 포수 박동원(36)이 다치더니 이번에는 '우승 필승조' 백승현(31)마저 어깨를 부여잡았다.",
-      "LG 구단 관계자는 29일 \"백승현 선수가 오른쪽 어깨 통증으로 병원 검진 예정이다."
+      "'충주맨' 김선태 전 주무관이 아픈 아이를 키우는 젊은 가장에게 잊지 못할 선물과 감동을 선사했다.",
+      "29일 유튜브 채널 '김선태'에는 충주시청 전 주무관이었던 김선태가 지난 10년 동안 자신의 발이 되어주며 수많은 추억을 함께 쌓아온 개인 차량을 처분하기 위해 직접 플랫폼에 매각 의뢰를 진행하는 모습이 담겼다.",
+      "그는 자신의 차량이 공개된 이후 주변에서 '수출용이다', ' 오래된 차라 팔지 못할 것이다'라는 식의 짓궂은 댓글이 많이 달렸다는 사실."
     ],
     "chips": [
-      "#의료"
+      "#수출"
     ]
   },
   {
-    "id": "n2e0a6959",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/30/2026052918492233815",
-    "title": "'24세 결혼→은퇴→55세 우승' 韓 최초 마스터스 위너, 강릉 세계선수권 나선다 \"탁구는 내 인생... 즐겁게 잘하겠다\"",
-    "summary": [
-      "한국 최초 세계마스터즈탁구선수권대회 우승자 방정화(57) 씨가 강릉으로 오는 탁구 동호인들을 환영했다.",
-      "방정화 씨는 6일부터 열리는 2026 XIOM 강릉 세계마스터즈탁구선수권대회에서 55~59세부 단식과 선수 출신 동호인인 하정희 씨와 함께 여자복식에 출전한다.",
-      "세계마스터즈탁구선수권은 탁구를 사랑하는 이들이 국적을 넘어 함께 어울리는 생활체육의 축제 같은 무대다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naaefcad5",
+    "id": "n251e5d14",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "뉴시스",
     "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530007100071",
-    "title": "美버지니아서 버스-승용차 충돌사고…5명 사망·34명 부상",
+    "url": "https://www.newsis.com/view/NISX20260530_0003649983",
+    "title": "충북 대체로 맑음…낮 최고 30도",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 29일(현지시간) 미국 버지니아주의 고속도로에서 버스 한 대가 승용차 6대를 들이받는 사고로 5명이 사망하..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naa876c1a",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530006251072",
-    "title": "美증시 3대지수, 종전협상 승인 앞두고 최고치…다우 0.7%↑(종합)",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미국 대통령이 미국과 이란 간 종전을 위한 양해각서(MOU)와 관련한 최종 결정을 앞둔 가운데..."
+      "[청주=뉴시스] 서주영 기자 = 6·3 지방선거 사전투표 둘째 날인 30일 충북은 대체로 맑겠다.",
+      "청주기상지청에 따르면 오전 6시 현재 기온은 청주 16.5도, 충주 12.3도, 추풍령 14도, 제천 11.7도, 보은 11도 등이다.",
+      "낮 최고기온은 28~30도로 전날(24.7~28도)보다 높겠다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "na49a2494",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/30/2026052916114667191",
-    "title": "\"김준호, 부부 통장 사적으로 써\" 김지민과 갈등...법적 문제될까?",
-    "summary": [
-      "방송인 김지민이 남편인 김준호의 소비 습관을 두고 \"카드를 뺏어야 할 것 같다\"고 말한 방송 장면이 화제가 되면서 부부 공동자금을 혼자서 사용하는 행위가 법적으로 문제가 될 수 있는지 관심이 쏠린다.",
-      "최근 두 사람의 유튜브 채널 '준호 지민'에는 김준호, 김지민 부부가 수원 화성 데이트를 마친 뒤 한식당에서 식사하는 영상이 공개됐다.",
-      "이 영상에서 김지민은 \"내 통장 중에 놀고 있는 게 있어서 생활비 반반해서 공동 통장으로 만들었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n480c15c1",
+    "id": "ndd5b3b15",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260529166200004",
-    "title": "서소문고가 안전계획서 보니…\"도면과 다르게 절단, 붕괴위험 키워\"",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003649978",
+    "title": "부산, 대체로 맑고 더운 날씨…낮 최고기온 29도",
     "summary": [
-      "(서울=연합뉴스) 한지은 조현영 양수연 기자 = 서울 서소문 고가차도 철거 공사의 안전관리계획서를 본 전문가들은 계획·시공 전반에 의문을 제기했..."
+      "[부산=뉴시스]김민지 기자 = 30일 부산 지역은 대체로 맑은 날씨가 되겠다고 부산기상청은 예보했다.",
+      "낮 최고기온은 29도, 31일 아침 최저기온은 19도다.",
+      "이날부터 다음 달 1일까지 부산은 최고 체감온도가 31도 안팎으로 오르며 더울 것으로 예상됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n036e8bef",
+    "id": "naa62bc02",
     "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/05/30/EBDKTRUZZFEWTLMRQGXV2YUX6E/",
-    "title": "‘밀가루 0%’ 어육·두부로 속 채운 조봉창 명인 어육바, 1개 650원 초특가 공구",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003649975",
+    "title": "전북 낮 26~29도 맑음…자외선 강해 주의해야",
     "summary": [
-      "‘밀가루 0%’ 어육·두부로 속 채운 조봉창 명인 어육바, 1개 650원 초특가 공구."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8fb4618d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/05/30/A4LHD6EKMNAIJPUN3WCWPXPKYM/",
-    "title": "경복궁 무료, 예술의전당 공연 5000원.. 65세 이상 문화 혜택 총정리",
-    "summary": [
-      "경복궁 무료, 예술의전당 공연 5000원.. 65세 이상 문화 혜택 총정리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n10332cc1",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/world/2026/05/30/2026053005260838154",
-    "title": "종전 기대감·실적 개선…쌍두마차에 3대 지수 사상 최고치[뉴욕마감]",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 29일(현지시간) 이란과 종전을 위한 양해각서(MOU)를 두고 최종 결정을 위한 회의를 한다고 공개적으로 밝힌 가운데 뉴욕증시 3대 지수가 모두 사상 최고치로 마감했다.",
-      "이날 뉴욕증권거래소에서 S&P500지수는 전장보다 16.43포인트(0.22%) 오른 7580.06에, 기술주 중심의 나스닥종합지수는 55.15포인트(0.20%) 상승한 2만6972.62에 각각 마감했다.",
-      "다우존스30산업평균지수는 전장보다 363.49."
+      "[전북=뉴시스]고석중 기자 = 제9회 전국동시지방선거 사전투표 마지막 날인 30일 토요일 전북자치도 하늘은 고기압의 영향을 받아 대체로 맑겠다.",
+      "아침까지 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 안개가 짙게 끼는 곳이 있어 교통안전에 각별한 주의가 요구된다.",
+      "아침 최저기온은 11~14도로 전날보다 1~2도 낮다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n81322435",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530006500091",
-    "title": "메타 AI학습용 직원 추적 도구, EU 개인정보 규정 위반 논란",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 메타가 인공지능(AI) 모델 학습을 위해 직원들의 컴퓨터 사용기록을 추적하는 도구가 유럽연합(EU)의..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n8000c50e",
-    "category": "경제",
+    "id": "n086ee4e4",
+    "category": "스포츠",
     "source": "뉴시스",
-    "time": "38분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003649972",
-    "title": "[속보] 뉴욕증시, 美·이란 종전 합의 낙관론에 상승 마감",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003649974",
+    "title": "경기남부 낮 최고 30도 안팎 더위…\"건강관리 유의\"",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 ksk@newsis.com."
+      "[수원=뉴시스] 변근아 기자 = 30일 경기남부 지역은 낮 기온이 30도 안팎으로 올라 덥겠다.",
+      "수도권기상청에 따르면 이날은 서해상에서 동쪽으로 이동하는 고기압의 영향을 받겠다.",
+      "하늘은 대체로 맑고 낮 기온이 30도 내외로 오르며 더운 날씨가 예상된다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne71429fa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "44분 전",
-    "url": "https://www.newsis.com/view/NISX20260529_0003649677",
-    "title": "토요일 인천, 낮 최고 28도…당분간 더위 이어져",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 30일 인천은 낮 최고기온이 28도까지 오르는 지역이 있고, 평년보다 덥겠다.",
-      "하늘은 서해상에서 동쪽으로 이동하는 고기압의 영향을 받아 대체로 맑겠다.",
-      "수도권기상청은 \"아침 최저기온은 16도, 낮 최고기온은 26도 내외의 분포를 보이겠다\"며 \"당분간 기온이 올라 더운 날씨가 이어지겠다\"고 예보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na317529d",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "44분 전",
-    "url": "https://www.newsis.com/view/NISX20260529_0003649612",
-    "title": "표창받은 의료AI 전문가 \"규제 넘어야 글로벌 선도\"",
-    "summary": [
-      "[서울=뉴시스]송종호 기자 = \"인허가와 규제 대응은 단순히 국경을 넘기 위한 서류 심사가 아닙니다.",
-      "국산 선진 의료 기술이 글로벌 시장의 '필수 운영형 인프라'로 안착하기 위한 과정이라고 생각합니다.\" 박혜이 코어라인소프트 규제혁신실 이사는 지난 29일 열린 '제19회 의료기기의 날' 기념식에서 국무총리표창을 수상하며 이같이 밝혔다.",
-      "올해 기념식에서 의료 인공지능(AI) 업계 종사자 중 정부 포상을 받은 이는 박 이사가 유일하다."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
       "#의료"
     ]
   },
   {
-    "id": "n2ddccaf3",
+    "id": "nd447d661",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530005400072",
-    "title": "국제유가, 트럼프 종전협상 최종결정 앞두고 하락…브렌트 2%↓",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/30/GA2DKNBWGM3DKZTFG5SDMYLDMY/",
+    "title": "임지연, 맞선녀 등장에..허남준 밀어냈다 “넌 절대 아냐” (‘멋진 신세계’)[순간포착]",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미 대통령이 미국과 이란 간 종전을 위한 양해각서(MOU)와 관련한 최종 결정을 앞두고 있다고..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5957f835",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260530/134020184/1",
-    "title": "공원 땅 파보니 필로폰 “3600명 분량”…밀반입 일당 검거",
-    "summary": [
-      "충북경찰청이 경기도 소재 공원 땅속에 은닉된 필로폰을 적발하고 이를 밀반입·유통한 일당 8명을 검거했다.지난 28일 유튜브 대한민국 경찰청 채널에는 ‘하다하다 여기까지 숨긴다고?’라는 제목의 영상이 게재됐다.",
-      "해당 영상에는 수사관들이 공원 내 마약 은닉 장소를 수색하는 장면이 담겼다.",
-      "당시 압수된 필로폰은 108g으로 약 3600명이 동시 투약할 수 있는 양인 것으로 알려졌다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘멋진 신세계’ 임지연이 허남준을 밀어냈다.29일 방송된 SBS 금토드라마 ‘멋진 신세계’ 7회에서는 신서리(임지연 분)가 차세계(허남준 분)을 밀어내는 모습이 그려졌다.이날 모창그룹의 외동딸인 모태희(채서안 분)는 신서리를 찾아가 “차세계 씨랑 나, 결혼할 사이”라며 “어차피 데리고 놀 여자는."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8e5019a4",
+    "id": "n2edade83",
     "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260530/134020180/1",
-    "title": "이란 외무장관 “美 과도한 요구 중단해야 최종 합의 가능”",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530009800072",
+    "title": "유니버설뮤직, '월가 큰손' 애크먼의 인수 제안 거절",
     "summary": [
-      "아바스 아라그치 이란 외무부 장관은 미국과 이란 간 종전 합의는 미국이 “과도를 요구”를 철회해야 가능하다고 밝혔다.이란 외무부에 따르면 아라그치 장관은 29일(현지 시간) 사이드 바드르 빈 하마드 알부사이디 오만 외무장관과의 통화에서 이같이 말했다.아라그치 장관은 “최종 합의 도달은 과도한 요구와 변덕스럽고 모순된 입장을 고수하는 미국 측 태도를 끝내는 데 달려 있다”고 주장했다.오만은 그간 파키스탄, 카타르 등과 함께 미국과 이란 간 핵 협."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 세계 최대 음반사인 유니버설 뮤직 그룹(UMG)이 미국 억만장자 투자자 빌 애크먼 측의 인수 제안을 거절했다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n22ac9ce8",
-    "category": "IT",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152246",
-    "title": "스마트폰 안 팔려도 계속 낸다...샤오미가 한국 시장 포기 못하는 이유",
+    "id": "ne0fa27bc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530008000063",
+    "title": "[속보] 행신역 출발 KTX, '붕괴 사고' 나흘만에 서소문 구간 처음 통과",
     "summary": [
-      "샤오미가 한국 스마트폰 시장 공략을 이어가고 있다.",
-      "삼성전자와 애플의 양강 구도가 굳어진 시장에서 의미 있는 점유율을 확보하기는 쉽지 않지만, 신제품 투입을 멈추지 않는 모습이다.플래그십 카메라 성능 '샤오미 17T' 출격 샤오미코리아는 29일 플래그십 스마트폰 '샤오미 17T'를 국내 공식 출시하고 사전예약을 시작한다고 밝혔다.신제품은 라이카 5배 망원 카메라, 최대 120배 AI 울트라 줌, '라이카 라이브 모먼트' 기능 등을 탑재한 카메라."
+      "walden@yna.co.kr (끝)."
     ],
     "chips": [
-      "#AI",
-      "#삼성전자"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf9d22345",
+    "id": "n74e54f6e",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530003500002",
-    "title": "달러-원, 최종 결정 준비하는 트럼프에 오름폭 축소…1,504.70원 마감",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/30/2026052910512272093",
+    "title": "정용진 회장, '탱크데이' 대국민 사과…서소문 고가차도 붕괴[이주의 픽]",
     "summary": [
-      "(뉴욕=연합인포맥스) 진정호 특파원 = 도널드 트럼프 미국 대통령이 미국과 이란의 종전 양해각서(MOU)를 두고 최종 결정에 들어갈 것이라고 밝..."
+      "한 주간 온라인을 뜨겁게 달궜던 이슈를 알아봅니다.",
+      "첫 번째는 '5·18 탱크데이' 마케팅 데이에 대한 정용진 신세계그룹 회장의 대국민 사과다.",
+      "정 회장은 지난 26일 서울 강남구 조선팰리스호텔에서 대국민 사과 기자회견을 열고 \"이번 스타벅스코리아의 부적절한 마케팅으로 인해, 많은 분들께서 깊은 아픔과 분노를 느끼셨다는 사실을 매우 무겁게 받아들이고 있다\"고 말하며 고개를 숙였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n65f9d4f9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260530/134020211/1",
+    "title": "트럼프 주재 상황실 회의 종료…“종전협상 최종결정 못 내려”",
+    "summary": [
+      "도널드 트럼프 미국 대통령 주재로 29일(현지 시간) 백악관 상황실에서 ‘종전 협상 최종 결정’을 위한 회의가 열렸으나 결론에는 도달하지 못한 것으로 전해졌다.뉴욕타임스(NYT)는 이날 내부 논의에 정통한 행정부 관계자를 인용 “회의가 약 2시간 동안 진행되었으나, 대통령은 이란과의 합의에 대해 어떤 결정도 내리지 않았다”고 전했다.이 관계자는 “행정부는 미국과 이란이 합의에 근접했다고 보고 있지만, 이란 동결 자금 해제 등 일부 사안은 여전히."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nbb636380",
-    "category": "IT",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152244",
-    "title": "'겹경사' 맞은 코인원...VASP 갱신 수리, 한투·OKX 투자 유치",
+    "id": "n31987b46",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260530/134020208/1",
+    "title": "“아내보다 젊은 여직원…꽉 조인 옷은 몸매 봐달라는 것” 공무원글 ‘뭇매’",
     "summary": [
-      "국내 가상자산거래소 코인원이 '겹경사'를 맞았다.",
-      "약 2년을 기다린 가상자산사업자(VASP) 갱신에 성공하고, 금융위원회 금융정보분석원(FIU)의 '영업 일부정지' 효력도 정지되면서 한숨 돌렸다.",
-      "한국투자증권과 오케이엑스(OKX)벤처스로부터 전략적 지분투자를 유치하는 데 성공했다.코인원, 한투·OKX·컴투스홀딩스와 전략적 투자 계약코인원은 29일 한국투자증권, OKX벤처스, 컴투스홀딩스와 전략적 지분투자 계약 체결식을 진행했다고 밝혔다."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n213c872e",
-    "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152243",
-    "title": "[카드뉴스] 2030은 왜 백화점 대신 '올다무'로 갈까?.. 무신사는 뷰티까지 진출? '유통공식'이 바뀌었다",
-    "summary": [
-      "주말 홍대·성수·명동 풍경이 달라졌다.",
-      "예전처럼 백화점 한 곳에서 끝나는 쇼핑이 아니다.",
-      "올리브영에서 뷰티템을 고르고, 다이소에서 생활용품을 담고, 무신사에서 옷을 입어보는 동선이 되었다."
+      "“출산 후 살찌고 주름 생긴 아내를 보면 설레지 않는다.이래서 남자들이 밖으로 눈을 돌리는 건가 싶다“결혼 3년 차라는 한 공무원의 푸념에 비난이 쏟아지고 있다.",
+      "해당 공무원은 쏟아지는 비판에도 ”타이트한 옷 입고 출근하면 몸매를 봐달라는 것 아니냐“는 성희롱적 발언까지 해 비난 수위를 가중시켰다.최근 직장인 익명 커뮤니티 블라인드를 통해 공무원 A 씨는 결혼한 아내와 직장 젊은 여직원의 외모를 비교하며 애정이 식을 수밖에 없다는 내용의 글을."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a93cb41",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260530/134020205/1",
+    "title": "이유 없이 행인 욕설하며 뒤쫓은 50대, 징역 6개월 실형",
+    "summary": [
+      "이유 없이 행인을 뒤쫓고 욕설하며 이를 말리는 사람을 폭행한 50대가 실형을 선고받았다.30일 지역 법조계에 따르면 대전지법 형사11단독 김지영 판사는 경범죄 처벌법 위반, 폭행, 공무집행방해 혐의로 기소된 A(53)씨에게 징역 6개월과 벌금 10만원을 선고했다.A씨는 지난 2024년 1월19일 오후 11시 55분께 대전 중구의 한 도로에서 길을 걸어가던 B(34·여)씨 일행을 발견하고 아무런 이유 없이 “왜 웃느냐”며 욕설하고 일행이 도망가자."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7381bd90",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530009600063",
+    "title": "대전·세종·충남, 대체로 맑아…낮 최고기온 26∼30도",
+    "summary": [
+      "(세종=연합뉴스) 양영석 기자 = 30일 대전, 세종, 충남은 대체로 맑고 낮 기온이 30도까지 오르겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb75cfbfc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260529135700062",
+    "title": "식당 손님 불법 촬영·여학우 딥페이크 제작한 20대 징역 3년",
+    "summary": [
+      "(춘천=연합뉴스) 박영서 기자 = 아르바이트로 근무하던 식당에서 외모가 마음에 드는 여성 손님이 오면 화장실에 따라가 몰래 촬영하고 여학우들의 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a5ceafe",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "32분 전",
+    "url": "https://www.hankyung.com/article/202605297728i",
+    "title": "“외식보다 낫다”…집에서 먹는 랍스터 지금 사야 하는 이유 [프라이스&]",
+    "summary": [
+      "“외식보다 낫다”…집에서 먹는 랍스터 지금 사야 하는 이유 [프라이스&]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n348fa63a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "32분 전",
+    "url": "https://www.hankyung.com/article/2026052974481",
+    "title": "'버핏 공식'도 무너졌다…'파죽지세' 코스피 상승률 세계 1위",
+    "summary": [
+      "'버핏 공식'도 무너졌다…'파죽지세' 코스피 상승률 세계 1위."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neeb3f182",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260529114300060",
+    "title": "파주 임진각 민방위 대피소, 다목적 문화예술공간으로 활용",
+    "summary": [
+      "(파주=연합뉴스) 노승혁 기자 = 경기 파주시와 파주문화재단은 임진각 민방위 정부 지원 대피시설을 미술전시관, 문화공연장 등 다목적 문화예술공간..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf93a1f41",
+    "category": "스포츠",
+    "source": "조선비즈IT",
+    "time": "32분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/05/30/CWYDPG5A3JDSVAXQURITE6WRLU/",
+    "title": "‘지스타’ 외면한 부산시장 후보들… e스포츠만 있고 게임산업 공약은 실종",
+    "summary": [
+      "‘지스타’ 외면한 부산시장 후보들… e스포츠만 있고 게임산업 공약은 실종."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83753191",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260529156900003",
+    "title": "[부동산캘린더] 내주 경기 김포 호반써밋풍무Ⅱ 등 2천437가구 분양",
+    "summary": [
+      "(서울=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 2천437가구가 공급된다."
+    ],
+    "chips": [
+      "#부동산"
     ]
   }
 ];
@@ -640,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
