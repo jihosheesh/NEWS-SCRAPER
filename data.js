@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-30 05:15:13
+// 마지막 업데이트: 2026-05-30 06:56:37
 window.NEWS_DB = [
   {
     "id": "na664b902",
     "category": "IT",
     "source": "뉴시스",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10TkpQUDI2S0Jkc2ZVWW5reVM2ZkQzWDg0Y1VkcWxNUkU5Yi1ubWVKd1BIelp5N2JLSzBrOFJTMHRjeVhPdmZmNTdNSjdZb1ZGaTQxNk9iUVRtdTdKVmdtWdIBeEFVX3lxTE1rSktRX25DTjBEZlFUSVUxUFFEdTJSU3BpOV9oeUY3RlJOUFJyUjRtLUEwREJMTGlMRkZfMlpFMUtXbjBOMExnRFRZeGNCMkRJTHVPd1ZKbnk5a25OT2I5b1o2QXlfdU9PWno0aWNIdTZPbzhSM3Z1LQ?oc=5",
     "title": "젠슨 황 방한 기대감에 AI주 폭등…코스피 또 사상 최고치",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nc3c3e382",
     "category": "IT",
     "source": "IT조선",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zZnNkZFAySHB5TVhBQUZDMndxeks4eThVbm4tVHVYQ0FoVDJadENsQWVQSWFhNkdvZmhCU3RUaFNrSVpjQkU3TjV5RzFXT0tOc1ZYeHVGWVBRWk1IT0ZSVHE2am5TUlhURUNYZkJLa2PSAXRBVV95cUxPRkIwNkVFZHRyU2NWZERoQ1RiRk5ZWTZFNmxGSGE4eC1nLW0zNkVGZ1NOc0c3enljZTNQdkxyZ2VhRU1lNDJjY0FPMTI2QUhxSkt1eFJ3T1dLYUJNZ0VpNzREQWc2WHBjQjZoVmNRalZkaXVBMQ?oc=5",
     "title": "삼성전자·SK하이닉스, 엔트로픽 투자 참여… ‘AI 반도체’ 협력 확대",
     "summary": [
@@ -48,18 +48,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbf65e391",
+    "id": "nafaefea0",
     "category": "IT",
-    "source": "ESG경제",
-    "time": "21시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwV2ozTmJKcl9OX0ZJbmdpaF9iVjBZeExHd28tOFRONUlwX2s3bWs0M2F0NU9id0RHWDZpNFZfRlFIcmg3WVdOTUpIODRjejVlNFRhRm1DVUZJZ3lOUmRyVGdHR2xKNWJ3Q2JMMw?oc=5",
-    "title": "삼성전자, 앤트로픽에 전략적 투자...파운드리 부활 신호탄 쏠까",
+    "source": "직썰",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hTzVpUWpDWWJyWkMtZWJmSVpRMF8zSmRxVEJwWDR1NXAzb3BqX1FwMGFfcUtkNmJZSHIyUGdKQnlLZzV6OW9tYWo5SFNFWFR4T0NUc094V3c4UHREMkVhSHhibm04X2RC0gFsQVVfeXFMTUVGckVVajBTRmM1eVp5TWNsOXdJV2ZzOVgxV2lRNGpoUWNUY3Z3Y3BzLVN0SzBYTnQwYjRXWkFvRXNnb1dsYjF0alR1dU5ObTV2TWdyN2FQcm0tcWNwSDVaNjNBTnRaVDZtd3Jf?oc=5",
+    "title": "삼성전자·SK하이닉스, 앤트로픽 투자…AI 인프라 협력 확대",
     "summary": [
-      "삼성전자, 앤트로픽에 전략적 투자...파운드리 부활 신호탄 쏠까 ESG경제."
+      "삼성전자·SK하이닉스, 앤트로픽 투자…AI 인프라 협력 확대 직썰."
     ],
     "chips": [
-      "#반도체",
-      "#삼성전자"
+      "#AI",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -94,7 +95,7 @@ window.NEWS_DB = [
     "id": "n21d1500d",
     "category": "IT",
     "source": "머니투데이",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VVmZjQUtRa3BqUng5MnJtdExfX18tb0pLN1VyNEwwX2p4RW1HdTl5bmllWkVwTzQ4UWxPNFlMSFhKODJlend4V3VaZi1Fay1IOWNLZTNoelBZOEExZi1YM1VyOXlRbTNzS3fSAW9BVV95cUxOVUFfeEtOaklFeHNHY3JRbVhXNDVNTVdtOE5QVjFRT1hLS2ltVmY5d29id195bnFxSXoySHFKdXM4VUQyN1RZWS01b3BFeXJJWGZBNXVIdk5CbkFobmIyZ3JpQXhxQU9KZ2FLN0pTdTg?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이",
     "summary": [
@@ -108,7 +109,7 @@ window.NEWS_DB = [
     "id": "n013a12c3",
     "category": "IT",
     "source": "경향신문",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNm9wcXdDSXVlTkNGR2FkWTZSbkcwa0FhRFVKNVBJbzRRSi1hODVueV9lUW14VnQxOFZWa1pVQ193VGc3SWlYSDY3VGIwa200OHJzTFJJUnNhZ9IBX0FVX3lxTE4zRzdOVjdoTXZ4NGNwWl9GR1dmbDBuTWlIRXZRUDRWeks1RzVQLUprN3phM01ZMy1OZnUydHpVUHJ6QlFVT081OE03YjlNOE9wUzdsdjhGdGw5d2N4VjN3?oc=5",
     "title": "엔비디아도 1500억달러 투자…‘AI 반도체 공급망 허브’ 입지 굳히는 대만",
     "summary": [
@@ -139,7 +140,7 @@ window.NEWS_DB = [
     "id": "ndc7289a2",
     "category": "IT",
     "source": "한국경제",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HRTlqVnVPN3BpZGNxZ2IzOGpOQjF5VXBHdnVNN29henNVWG1FYWhCUzlja3c5aUItZ3NJbk10UmJsSjY0c2JwdXMzdTVmbzgyY1RCeUU0ckVwUdIBVEFVX3lxTE5CQUJWM29pdzExRWY2eTVtN25TajNYTWVqUThuR2NUVndUcEM3cWxnUzJONGFfMk41b194MGc2bUNzWlRjVW5GWWZyQjV6S1ZoNEw4Sg?oc=5",
     "title": "\"엔비디아 비켜\" 독주 체제에 반기…AI 반도체 경쟁 불붙었다",
     "summary": [
@@ -377,264 +378,265 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nda7431c2",
+    "id": "n19beb835",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/30/2026053015264119079",
+    "title": "'620일 만의 7번타자' 디아즈 기막힌 효과→연타석 홈런 '펑펑' [대구 현장]",
+    "summary": [
+      "삼성 라이온즈 디아즈(30)가 620일 만에 출장한 7번 타순에서 연타석 홈런을 터뜨렸다.",
+      "타순 조정이 기막힌 효과를 낳았다.",
+      "디아즈는 30일 대구 삼성라이온즈파크에서 열린 두산 베어스와 경기에서 3회와 4회 연달아 대포를 쏘아올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n607ef2d1",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026053015510815477",
+    "title": "박완수 경남지사 후보, 사전투표 … \"성공한 도정, 현명하게 선택해 주실 것\"",
+    "summary": [
+      "박완수 국민의힘 경남도지사 후보가 제9회 전국동시지방선거 사전투표 둘째 날인 30일 창원시 성산구 반송동 행정복지센터에 마련된 사전투표소에서 투표했다.",
+      "박 후보는 \"이번 선거는 경남이 다시 과거의 실패한 도정으로 되돌아갈 것인지, 지난 4년간 도민과 함께 만들어 온 성공한 도정을 계속 이어갈 것인지를 결정하는 중요한 선택\"이라고 강조했다.",
+      "이어 \"전임 지사인 김경수 후보의 실패한 도정을 선택할 것인지 박완수의 성."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb5f81218",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003650132",
-    "title": "룰라 \"브라질, 어린아이 취급 말라\"…美 테러조직 지정에 반발",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650141",
+    "title": "\"3주간 물·커피만\"…박지현, 시한부 연기 위해 '극한 금식'",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = 루이스 이나시우 룰라 다 시우바 브라질 대통령이 브라질 범죄조직 2곳을 외국 테러조직으로 지정하기로 한 미국 정부의 결정에 반발하며 브라질은 자체적으로 조직범죄 문제를 해결할 것이라고 밝혔다.",
-      "신화통신에 따르면 룰라 대통령은 29일(현지 시간) 브라질 세르지페주에서 열린 행사에서 미국의 조치와 관련해 \"우리는 어린아이 취급이나 바나나 공화국처럼 취급받는 것을 거부한다\"고 말했다.",
-      "그는 마코 루비오 미국 국무장관이."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne9f186ec",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026053013204316053",
-    "title": "[6·3선거] 사전투표 둘째날 낮 12시 전남 전국 1위…광주 4위",
-    "summary": [
-      "6·3 지방선거 사전투표 둘째 날인 30일 낮 12시 기준 전남이 전국 최고 투표율을 이어가고 있다.",
-      "광주도 전국에서 상위권을 유지하며 전남광주통합특별시 첫 선거에 대한 높은 관심을 나타내고 있다.30일 중앙선거관리위원회 선거통계시스템에 따르면 이날 낮 12시 기준 전남 사전투표율은 29.86%로 전국 17개 시·도 가운데 1위를 기록했다.",
-      "전남 전체 유권자 155만8,206명 가운데 46만5,330명이 투표에 참여했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n80fcdcef",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260530/134020824/1",
-    "title": "강남, ‘포켓몬 카드’에 5000만원 썼다 “최악의 남편”",
-    "summary": [
-      "가수 겸 방송인 강남이 유튜브 콘텐츠 촬영 중 포켓몬 카드 구매에 5000만 원을 지출했다.지난 28일 유튜브 채널 ‘동네친구 강나미’에는 강남이 포켓몬 카드 수집을 위해 일본 아키하바라를 방문한 영상이 게재됐다.영상에서 강남은 수백만 원대 랜덤 카드 뽑기 상품을 비롯해 1300만 원 상당의 피카츄 카드 등을 잇달아 결제했다.",
-      "330만 원에 구매한 카드 상품에서 120만 원 가치의 카드가 나오는 등 손해를 보기도 했으나 구매를 이어갔다.하루 동."
+      "[서울=뉴시스]정우영 인턴 기자 = 배우 박지현이 시한부 캐릭터를 소화하기 위해 3주간 물과 커피만 마시며 극한의 금식을 감행했던 일화를 공개했다.",
+      "박지현은 27일 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'에서 백상예술대상 작품상을 받은 드라마 '은중과 상현'의 비하인드 스토리를 전했다.",
+      "극 중 말기 암 선고를 받은 시한부 환자 '상현' 역을 맡았던 그는 캐릭터의 고통과 죽음에 가까워지기 위해 혹독한 체중 감량을 감행했다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n64531a6d",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026053013473639025",
-    "title": "[현장]완도 '팽팽한 신경전'…민주당 지도부 총출동에 무소속 '맞불'",
-    "summary": [
-      "6·3 지방선거 사전투표 이틀째인 30일, 더불어민주당 지도부가 전폭적인 지원에 나선 전남 완도군수 선거 현장은 텃밭 사수를 위한 여당의 '원팀 총력전'과 공천 과정에 반발해 탈당한 무소속 후보의 '심판론'이 정면충돌하며 뜨겁게 달아올랐다.",
-      "주말을 맞아 정청래 당 대표를 비롯한 중앙당 지도부가 대거 집결한 완도 오일장터는 주말 표심을 잡으려는 선거 열기만큼이나 후보 진영 간의 팽팽한 신경전이 이어지며 일촉즉발의."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n990de51d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260530/134020820/1",
-    "title": "‘韓 단검 발언’ 주한미군사령관 “관점 변화 설명한 것…맥락 맞게 이해해야”",
-    "summary": [
-      "최근 한국이 중국을 겨눈 ‘단검’(dagger)과 같다는 발언으로 논란이 된 제이비어 브런슨 주한미군사령관이 30일(현지시간) “작전 환경을 설명하고자 한 것”이었다며 발언의 맥락에서 벗어나 해석됐다고 해명했다.브런슨 사령관은 이날 싱가포르에서 열린 아시아안보회의(샹그릴라 대화)에서 피트 헤그세스 미 국방장관의 연설이 끝나고 이어진 질의응답에서 이같이 말했다.이 자리에서 왕둥 베이징대 국제학부 교수는 “브런슨 사령관의 발언이 트럼프 행정부의 공."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n0ce2be64",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260530/134020815/1",
-    "title": "운동회를 어쩌나?…54% “늘리길” vs 9% “줄이길”",
-    "summary": [
-      "초등학생 자녀를 둔 학부모 절반 이상이 지금보다 운동회가 확대되길 바란다는 조사 결과가 나왔다.",
-      "30일 영어교육 기업 윤선생이 이달 19일부터 일주일간 초등 자녀가 있는 학부모 665명을 대상으로 진행한 설문조사에 따르면 ‘운동회가 지금보다 확대됐으면 좋겠다’는 비율이 53.2%를 차지했다.",
-      "‘현재 수준이 적당하다’와 ‘축소되길 희망한다’는 각각 37.6%, 9.2%였다.학부모들은 운동회가 확대되길 바라는 가장 큰 이유(복수 응답)로 ‘협동심·."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne276f827",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260530/134020812/1",
-    "title": "마마무, 3년8개월 만에 완전체 컴백…‘포워드’",
-    "summary": [
-      "그룹 ‘마마무(MAMAMOO)’가 약 3년 8개월 만에 완전체로 컴백한다.30일 팀 소속사 알비더블유(RBW)에 따르면, 마마무는 오는 6월4일 오후 6시 스페셜 싱글 ‘포워드(4WARD)’를 발매한다.이번 싱글은 지난 2022년 10월 발매한 ‘마이크 온(MIC ON)’ 이후 처음 선보이는 완전체 신보다.",
-      "네 멤버를 상징하는 숫자 ‘4’와 전진을 뜻하는 ‘포워드(FORWARD)’를 결합해, 다시 하나로 뭉쳐 새로운 여정을 나아가겠다는 의미를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na472ef2a",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026053014043460074",
-    "title": "[6·3선거]명현관, 해남 화원오일장서 민주당 '원팀' 지지 호소",
-    "summary": [
-      "더불어민주당 명현관 해남군수 후보가 사전투표 마지막 날인 30일 화원오일장을 찾아 대규모 기업 유치와 산업 인프라 구축을 골자로 한 '해남 산업 지도 대개조' 청사진을 발표하며 막판 표심 굳히기에 나섰다.",
-      "명 후보는 대기업 유치를 청년 일자리 및 교육 혁신과 연계해 지방소멸 위기를 극복하고 해남을 '대한민국 으뜸 지자체'로 도약시키겠다는 포부를 밝혔다.",
-      "이날 현장 유세에는 김성일 전남광주통합특별시의원 후보를 비."
-    ],
-    "chips": [
-      "#고용",
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n9a6504f6",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003650153",
-    "title": "압구정5구역 시공사에 현대건설 선정…'현대 타운' 조성 본격화",
-    "summary": [
-      "[서울=뉴시스]정유선 기자 = 압구정 5구역 재건축사업 수주전에서 현대건설이 DL이앤씨를 누르고 시공사로 선정됐다.",
-      "현대건설은 압구정2·3구역에 이어 5구역까지 시공권을 따내면서 압구정 일대를 현대 브랜드 타운으로 조성하겠다는 구상에 힘을 싣게 됐다.",
-      "30일 정비업계에 따르면 압구정 5구역 조합은 이날 서울 강남구 압구정고등학교에서 총회를 열고 투표를 진행한 결과 현대건설을 시공사로 선정했다."
-    ],
-    "chips": [
-      "#재건축",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc7649963",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026053013553956173",
-    "title": "\"나도 하버드 고소하겠다\"…코난 오브라이언, 트럼프 직격",
-    "summary": [
-      "유명 코미디언 코난 오브라이언이 모교인 하버드대 졸업식 축사에서 도널드 트럼프 미국 행정부를 조롱했다.",
-      "28일(현지시간) 미 폭스뉴스에 따르면 오브라이언은 이날 미국 매사추세츠주 케임브리지 하버드대 제375회 졸업식의 축사를 맡았다.",
-      "오브라이언은 \"하버드가 직면한 가장 큰 문제는 아마도 연방 정부가 대학을 상대로 소송을 제기하고 있다는 점일 것\"이라며 \"나는 이 소송에 반대하지 않을 뿐만 아니라 동참한다고 발표."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nf4743a1f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003650156",
-    "title": "경기 사전투표율, 오후 2시 '16.3%'…지난 지선보다 높다",
-    "summary": [
-      "[수원=뉴시스] 변근아 기자 = 제9회 전국동시지방선거 경기지역 사전투표율이 30일 오후 2시 기준 16.3%를 기록하고 있다.",
-      "중앙선거관리위원회에 따르면 이날 오후 2시 기준 경기지역 유권자 1187만8997명 중 193만5999명이 투표해 16.3%의 투표율을 기록했다.",
-      "2022년 6·1지방선거 사전투표 둘째날 오후 2시 누적 기준 사전투표율인 14.92%보다 1.38%포인트(p) 높다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9ed48924",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003650155",
-    "title": "민주·혁신당, 평택을서 적통경쟁…\"조국, 가짜 민주당\" vs \"가짜는 김용남\"",
-    "summary": [
-      "[서울=뉴시스] 김난영 기자 = 더불어민주당과 조국혁신당이 다자 구도로 국회의원 재선거를 치르는 경기 평택을에서 민주 진영 후보 자리를 두고 적통 경쟁을 벌이고 있다.",
-      "서로 상대 진영 후보를 '가짜'로 칭하며 주도권을 두고 다투는 모습이다.",
-      "조승래 민주당 총괄선대본부장은 30일 오전 평택을 김용남 후보 사무소에서 본부장단회의를 열고 김 후보를 \"이재명 대통령이 선택하고 민주당이 공천한 후보\"라며 \"이것이 진짜 민주당 후보\"라고 칭했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n94895b1b",
+    "id": "naaf07715",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/30/2026053014071132446",
-    "title": "[속보]사전투표 2일차 오후2시 18.61% …2022년 대비 2.24%p↑",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026053015522919973",
+    "title": "최현덕 후보 “지하철 9호선 ‘본선 최우선’…조기착공·적기개통 실현할 것”",
     "summary": [
-      "[the300] 30일 선관위...."
+      "더불어민주당 최현덕 남양주시장 후보가 주민들의 최대 현안인 지하철 9호선 연장사업과 관련해 \"본선 최우선 진행을 원칙으로 조기착공과 적기개통을 반드시 실현하겠다\"고 밝혔다.",
+      "현재 추진 중인 강동·하남·남양주선(9호선 연장)은 다산신도시 지금지구 내 945정거장(가칭)을 포함해 기본계획이 승인된 상태로 추진되고 있다.",
+      "주민들은 오랜 기간 출퇴근 교통난 해소와 선교통 후개발 약속 이행을 위해 9호선 조기착공과 적기."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n07cd15c8",
+    "id": "na8027b9c",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530038600001",
-    "title": "지선 둘째날 사전투표율 오후 2시 18.61%…유권자 800만명 참여",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650204",
+    "title": "안규백, 필리핀·노르웨이 국방장관과 회담…\"북핵, 역내 안보에 중대 위협\"",
     "summary": [
-      "(서울=연합뉴스) 최주성 기자 = 중앙선거관리위원회는 제9회 전국동시지방선거 사전투표 둘째 날인 30일 오후 2시 현재 투표율이 18.61%로 ..."
+      "[서울=뉴시스] 박준호 기자 = 제23차 아시아안보회의(샹그릴라 대화) 참석차 싱가포르를 방문 중인 안규백 국방부장관은 30일(현지시간) 길베르토 테어도로 필리핀 국방장관과 회담을 갖고, 역내 정세와 양국 국방·방산협력 발전방안을 논의했다고 국방부가 이날 밝혔다.",
+      "안 장관은 이날 오전 회담에서 필리핀 군 현대화 사업에 참여하는 한국 기업에 대한 관심을 당부하고, 양국 간 방산협력 확대에 기반한 필리핀 안보역량 강화에 대한 기여 의지를 강조했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc1984796",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650173",
+    "title": "홍콩서 K-경마·K-컬처 알렸다…교류경주로 문화외교 확대",
+    "summary": [
+      "[세종=뉴시스]임소현 기자 = 한국마사회가 해외 경마 선진국과의 교류경주를 계기로 K-컬처를 알리는 문화교류 확대에 나서고 있다.",
+      "마사회는 해외 파트너 국가와 진행하는 친선 교류경주가 한국 경마뿐 아니라 한국 문화를 소개하는 플랫폼 역할을 하고 있다고 30일 밝혔다.",
+      "지난달 29일 홍콩의 해피밸리 경마장에서 열린 'KRA 트로피(Trophy) 교류경주'에서는 한국을 주제로 한 다양한 부대행사가 진행됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n345d99db",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026053015494611048",
+    "title": "\"31일 첫차부터 모든 열차 정상운행\"…코레일, 밤샘 복구 총력전",
+    "summary": [
+      "서울 서소문 고가차도 붕괴 사고 여파로 차질을 빚었던 열차 운행이 31일부터 모두 정상 운행된다.",
+      "코레일은 \"모든 가용 자원을 동원해 사고 복구를 마치고 내일부터 모든 열차를 정상 운행한다고\"고 30일 밝혔다.",
+      "철도당국은 서울시에서 서소문 철거 공사를 마침에 따라 전철주 철거·신설과 전차선 가선, 케이블 포설 및 신호 설비 설치, 궤도 손상 여부 확인과 선로 점검 등 철도 시설물을 밤샘 복구하는 한편 작업차량(모터카."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na52f1c32",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026052815174868061",
+    "title": "강해지기 위해 유럽이 뭉친다…수혜 업종은[주末머니]",
+    "summary": [
+      "최근 유럽이 미국의 안보 공약 변화와 에너지 공급망 변동성에 대비해 구조적 자강 노력을 본격화하면서 주식, 채권, 외환 등 금융시장 전반에 걸칠 파급 효과에 관심이 쏠리고 있다.",
+      "메리츠증권에 따르면 유럽은 단순한 정치적 선언 단계였던 '전략적 자율성'을 넘어 국방지출 확대, 에너지 자립, 자본시장 통합, 유럽연합(EU) 장기예산 증액 등을 통해 실제 조달과 금융, 산업 구조를 바꾸는 실질적인 조치에 돌입했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0dede09f",
+    "id": "n8f2d0cd0",
     "category": "사회",
     "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530038300001",
-    "title": "장동혁 \"대통령이 대놓고 선거운동\"…강원서 정부 심판론 호소",
+    "url": "https://www.yna.co.kr/view/AKR20260530044700062",
+    "title": "정선 전시장 화재 1시간 30분 만에 꺼져…인명피해 없어",
     "summary": [
-      "(서울=연합뉴스) 권희원 기자 = 국민의힘 장동혁 상임선거대책위원장은 사전투표 마지막날인 30일 격전지인 강원 춘천을 찾아 이재명 정권 심판론을..."
+      "(정선=연합뉴스) 강태현 기자 = 30일 오후 1시 33분께 강원 정선군 고한읍 고한리 한 전시장에서 불이 나 약 1시간 30분 만에 진화됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n98718252",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650200",
+    "title": "정원오 캠프 \"정치 관련 오픈채팅방서 후보에 신변 위협…경찰, 캠프 확인 방문\"",
+    "summary": [
+      "[서울=뉴시스]신재현 기자 = 경찰이 정원오 더불어민주당 서울시장 후보에 대한 신변 위협 신고를 받고 정 후보 캠프를 방문했다.",
+      "정 후보 캠프는 30일 언론 공지를 통해 \"전날 오후 5시께 캠프 사무실을 방문한 태평파출소 경찰관들로부터 '정원오 후보 신변 위협 관련해 신고가 됐다'는 사실을 전달 받았다\"고 밝혔다.",
+      "캠프에 따르면 한 카카오톡 정치 토론 관련 오픈채팅방에 '정원오 씨 칼 한 방 놔 드려야겠네'라는 메시지가 올라왔다."
+    ],
+    "chips": [
+      "#카카오",
+      "#정치"
+    ]
+  },
+  {
+    "id": "na269efdd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530029151057",
+    "title": "[사전투표] 30도 더위에 땀방울 훔치며…울산 투표열기 '후끈'(종합)",
+    "summary": [
+      "(울산=연합뉴스) 장지현 허광무 기자 = 6·3 지방선거 사전투표 둘째 날이자 주말인 30일 울산에서는 낮 최고 30도가 넘는 더위 속에서도 오..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n3e5560e0",
+    "id": "n4c2cce26",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/30/2026053015344961033",
+    "title": "민주 \"고무적\" 국힘 \"분노 표출\"…사전투표율 상승세 놓고 동상이몽",
+    "summary": [
+      "[the300] 여야가 6.3 전국동시지방선거 및 국회의원 재·보궐선거 사전투표 둘째 날인 30일, 높은 투표율을 놓고 서로 자신들에게 유리하게 해석했다.",
+      "강준현 더불어민주당 수석대변인은 이날 오전 국회에서 기자들과 만나 \"그동안의 지선과 대선, 총선 과정을 보면 사전투표율이 높을수록 저희 당은 고무적으로 생각한다\"며 \"그만큼 국민께서 관심이 많다는 증거\"라고 말했다.",
+      "이날 오후 3시 기준 전국 투표율은 19.77%(누적 기준)를 기록했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n63b61bfc",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/politics/2026/05/30/2026053015415169262",
+    "title": "정원오 캠프 \"신변 위협 글 신고…경찰, 캠프 찾아 확인\"",
+    "summary": [
+      "[the300] 정원오 더불어민주당 서울시장 후보를 향한 신변 위협 글이 온라인 오픈채팅방에 게시된 것과 관련해 경찰이 정 후보의 신변 확인을 위해 캠프를 찾았던 것으로 확인됐다.",
+      "30일 정 후보 측에 따르면 경찰은 전날(29일) 오후 5시께 서울 중구의 정 후보 선거사무소를 방문했다.",
+      "경찰은 정 후보 측에 \"신변 위협 관련해 신고가 됐다\"고 전달했다."
+    ],
+    "chips": [
+      "#카카오",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nab302736",
     "category": "사회",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/30/MJQTMYZVMY4TMNTBHAYDCYJZGU/",
-    "title": "허남준, 임지연에 ‘도포 플러팅’…300년 전 애틋 빗속 데이트 ('멋진 신세계')",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/05/30/GU2WMMBSG42GIM3FG43GMNRRME/",
+    "title": "정원오 “높은 투표율은 오세훈 심판하려는 시민 의지”",
     "summary": [
-      "[OSEN=최이정 기자] 배우 허남준이 300년 전 조선 시대에서도 포기를 모르는 직진남의 매력을 폭발시킨다.",
-      "현생의 '슈트 방패'에 이어 전생의 '도포 플러팅'으로 설렘 도파민을 예고했다.30일 SBS 금토드라마 ‘멋진 신세계’(연출 한태섭, 김현우/극본 강현주/제작 스튜디오S, 길픽쳐스) 측은 이날 오후 9시 50분 본 방송을 앞두고 하급나인 임지연과."
+      "정원오 더불어민주당 서울시장 후보는 30일 높은 사전 투표율에 대해 “무능한 오 후보의 10년을 평가하고 심판하려는 시민 의지와 새로운 리더십에 대한 기대와 희망이 반영된 것”이라고 평가했다.",
+      "정 후보는 이날 서울 광진구 자양 전통시장 도보 유세 뒤 취재진과 만나 오 후보 측의 댓글팀 운영 의혹을 언급하며 “그동안 비방이 조직적으로 이뤄지고 있다는 느낌이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5cb5106b",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530038700003",
-    "title": "'1.5조원' 압구정5구역 재건축 시공사에 현대건설",
+    "id": "n67411b9f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/30/HEZDEOBVMQ4DIOBYGZRGEZBYGY/",
+    "title": "이범호 결단 내렸다. '2이닝 6실점' 이의리 하루만에 2군행...홍민규도 1군 말소",
     "summary": [
-      "(서울=연합뉴스) 임기창 기자 = 현대건설[000720]과 DL이앤씨[375500]가 치열한 2파전을 벌인 서울 강남구 압구정5구역 재건축 수주..."
+      "[OSEN=잠실, 한용섭 기자] 프로야구 KIA 타이거즈 좌완 투수 이의리가 실망스런 투구를 보이고 곧바로 2군으로 내려갔다.KIA는 30일 잠실구장에서 LG와 경기에 앞서 1군 엔트리를 조정했다.",
+      "이의리, 홍민규가 2군으로 내려갔고, 김건국과 김현수가 1군에 콜업됐다.KIA는 이날 LG전에 박재현(좌익수) 김선빈(2루수) 김도영(3루수) 아데를린(지명타자."
     ],
     "chips": [
-      "#재건축"
+      "#KBO"
+    ]
+  },
+  {
+    "id": "naeaa48af",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530042751063",
+    "title": "코레일 \"31일부터 모든 열차 정상 운행\"",
+    "summary": [
+      "(대전=연합뉴스) 양영석 기자 = 서울 서소문 고가차도 붕괴 사고 여파로 차질을 빚었던 열차 운행이 31일부터 모두 정상 운행된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na89dadf5",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530044300007",
+    "title": "MLB 홈런 선두 무라카미, 병살 피하려다 허벅지 부상",
+    "summary": [
+      "(서울=연합뉴스) 천병혁 기자 = 미국프로야구 메이저리그(MLB)에서 올 시즌 돌풍을 일으키고 있는 일본인 강타자 무라카미 무네타카(시카고 화이..."
+    ],
+    "chips": [
+      "#KBO"
     ]
   }
 ];
@@ -643,19 +645,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "정치",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "뉴스",
+    "tag": "정치",
     "mentions": "1680건",
     "trend": "+155%"
   }
