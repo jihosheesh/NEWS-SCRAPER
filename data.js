@@ -1,6 +1,23 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-30 13:30:24
+// 마지막 업데이트: 2026-05-30 14:30:33
 window.NEWS_DB = [
+  {
+    "id": "nc4b0f988",
+    "category": "IT",
+    "source": "쿠키뉴스",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
+    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
+    "summary": [
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
@@ -17,18 +34,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbf65e391",
-    "category": "IT",
-    "source": "ESG경제",
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwV2ozTmJKcl9OX0ZJbmdpaF9iVjBZeExHd28tOFRONUlwX2s3bWs0M2F0NU9id0RHWDZpNFZfRlFIcmg3WVdOTUpIODRjejVlNFRhRm1DVUZJZ3lOUmRyVGdHR2xKNWJ3Q2JMMw?oc=5",
-    "title": "삼성전자, 앤트로픽에 전략적 투자...파운드리 부활 신호탄 쏠까",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
     "summary": [
-      "삼성전자, 앤트로픽에 전략적 투자...파운드리 부활 신호탄 쏠까 ESG경제."
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
     ],
     "chips": [
-      "#반도체",
-      "#삼성전자"
+      "#부동산"
     ]
   },
   {
@@ -286,21 +302,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "100일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -316,14 +317,209 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9b37d279",
+    "id": "n2d3418fb",
     "category": "사회",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/movie/2026/05/30/HG7MUQQ4MZH5TO5EH3SARCNX2A/",
-    "title": "연상호 ‘군체’, 300만 관객 돌파…“올해 개봉작 중 가장 빨라”",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/30/MYYTKNBWHBSTEZDEMMZTGYTBG4/",
+    "title": "헤어디자이너 된 이지현, 국가고시 8번 떨어져..“도망가고 싶었다” (‘동치미’)[순간포착]",
     "summary": [
-      "연상호 ‘군체’, 300만 관객 돌파…“올해 개봉작 중 가장 빨라”."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘동치미’ 이지현이 헤어 디자이너로 변신한 근황을 전했다.",
+      "30일 방송된 MBN ‘속풀이쇼 동치미’에서는 ‘네가 왜 행복하지 않은 줄 알아?’ 주제로 고명환, 홍경민, 이지현이 등장했다.최근 헤어 디자이너로 변신한 이지현은 “제가 과천의 한 샵에서 마케팅 원장이 됐다”라고 근황을 전했다.이지현은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc139e0b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530063500009",
+    "title": "카타르 \"한시적 호르무즈 통행료는 협상할 만\"",
+    "summary": [
+      "(서울=연합뉴스) 강훈상 기자 = 호르무즈 해협 재개를 위해 '한시적인' 통행료 징수는 협상할 만하다는 카타르 측의 언급이 나왔다고 블룸버그 통..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5502eb25",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/football/2026/05/30/HEZWIN3DMIZGCYZVGAYWGNBXME/",
+    "title": "'정신차려 수원' 고개 숙인 박건하 감독 \"홈에서 이기지 못해 죄송...장점 찾기 어려운 경기였다\"[현장인터뷰]",
+    "summary": [
+      "[OSEN=수원종합운동장, 고성환 기자] 박건하 수원FC 감독이 부진한 경기력에 대해 사과했다.수원FC와 성남FC는 30일 오후 7시 수원종합운동장에서 열린 하나은행 K리그2 2026 14라운드 맞대결에서 0-0으로 비겼다.",
+      "수원FC는 6승 4무 3패(승점 22)로 6위에 머물렀고, 성남은 3승 7무 3패(승점 16)로 9위에 자리했다.지난 라운드 패배의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1bb32ca0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260530/134021255/1",
+    "title": "美재무 “호르무즈 통행료 관계없이…이란과 거래 금지”",
+    "summary": [
+      "미국 재무부가 29일(현지 시간) 통행료 지급 여부와 관계없이 호르무즈 해협의 안전 통항을 위해 이란과 거래하는 행위는 금지된다고 밝혔다.미 재무부 산하 해외자산통제국(OFAC)은 이날 이란 제재 관련 설명을 갱신하며 “(대금) 지불 여부와 관계 없이, 미국인은 이란 정부로부터 안전 통항 보장 관련 서비스 등을 받는 것이 금지된다”고 적었다.이는 비록 호르무즈 해협 통행 대가를 지급하지 않더라도, 이란 측과 안전 통항 보증 혹은 서비스 등에 합."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6e609613",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/30/MM3GCMJTHFSDONZRGVRTGOLCHE/",
+    "title": "‘소림사 CEO’로 불린 前 주지, 600억대 횡령 혐의로 징역 24년 선고",
+    "summary": [
+      "중국 쿵후의 발원지로 알려진 소림사의 전 주지가 비리 혐의로 징역 24년형을 선고받았다.",
+      "30일 중국 신화통신과 로이터통신, 홍콩 성도일보 등에 따르면, 중국 중부 허난성 신샹시 중급인민법원은 전 소림사 주지 류잉청(옛 법명 스융신)에게 직무상 횡령 및 자금 유용, 뇌물 수수·공여 등 혐의로 징역 24년 및 벌금 350만위안(약 7억8000만원)을 전날 선."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4f01edbc",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/30/GA2DONRZG44WKMBSMY3WGNBVHE/",
+    "title": "허남준, 썸 타자마자 전생 기억했다..임지연에 “강단심, 너 누구야”(멋진 신세계)[종합]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] '멋진 신세계' 허남준이 임지연의 정체를 알았다.30일 방송된 SBS 금토드라마 ‘멋진 신세계’에서는 300년 전을 기억해 낸 차세계(허남준 분)의 모습이 그려졌다.신서리(임지연 분)는 스캔들에 휘말린 차세계를 위기로부터 구해줬다.",
+      "두 사람은 한강에서 라면을 먹으며 시간을 보냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbcf3c1cc",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "27분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/30/2026053018414545296",
+    "title": "라이터 들고 다니며 곳곳에 불 질렀다...아파트 방화 20대 구속영장",
+    "summary": [
+      "경찰이 자신이 살고 있는 아파트 곳곳에 불을 낸 혐의를 받는 20대 여성에 대해 구속영장을 신청했다.",
+      "30일 뉴스1에 따르면 충북 음성경찰서는 현주 건조물 방화 혐의를 받는 20대 여성 A씨에 대해 구속영장을 신청했다고 밝혔다.",
+      "A씨는 전날 오후 7시19분쯤 음성군 음성읍 평곡리의 한 아파트 18층 아파트 계단을 비롯해 여러 층에 라이터로 불을 지른 혐의가 있다."
+    ],
+    "chips": [
+      "#부동산",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n49cfb7ac",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "29분 전",
+    "url": "https://view.asiae.co.kr/article/2026053023004955926",
+    "title": "이상일 후보, 용인 전역 누비며 막판 총력전…\"시민 곁에서 미래 지키겠다\"",
+    "summary": [
+      "이상일 용인특례시장 후보(국민의힘)가 6·3 지방선거를 앞둔 마지막 주말, 용인 전역을 누비며 민심 잡기에 총력을 기울였다.",
+      "수지구와 처인구, 기흥구를 잇달아 방문해 시민들과 직접 소통한 데 이어 어린이 행사에도 참석하며 생활 밀착형 행보를 이어갔다.",
+      "이 후보는 30일 수지구 수지체육공원 일대에서 거리 인사를 하며 시민들과 만났다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na962e6bc",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "29분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/30/2026053019561224530",
+    "title": "\"내 고양이 납치했다\" 택배기사 황당 절도...미국서 벌어진 일",
+    "summary": [
+      "미국 캘리포니아주에서 한 아마존 배송 기사가 가정집의 현관문 앞에 있던 반려묘를 납치한 장면이 포착됐다.",
+      "28일(현지시각) 뉴욕포스트에 따르면 브렌다 윌슨은 지난 14일 베이커즈필드의 자택에서 아마존 배송기사가 자신의 반려묘 '주니'를 훔쳐갔다고 주장했다.",
+      "그가 공개한 링(Ring) 카메라 영상에는 아마존 조끼를 입은 남성이 집 앞에 택배 상자를 내려놓은 후 현관 앞에 있던 고양이를 한 손으로 들어올리는 모습이 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3172c806",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530054651084",
+    "title": "미국·영국·호주, 오커스 수중드론 공동 개발한다(종합)",
+    "summary": [
+      "(하노이·워싱턴=연합뉴스) 박진형 홍정규 특파원 = 미국·영국·호주가 안보동맹 오커스(AUKUS)의 일환으로 무인잠수정(UUV) 개발 협력에 나..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb882ef6c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260530/134021252/1",
+    "title": "이재명 대통령 ‘투표지 노출’ 논란에…중앙선관위원장도 고발당해",
+    "summary": [
+      "보수 성향 시민단체가 이재명 대통령의 사전투표 과정에서 발생한 ‘투표지 노출’ 논란과 관련해 노태악 중앙선거관리위원장 등 선관위 관계자들을 경찰에 고발했다.서민민생대책위원회(서민위)는 노 위원장과 김창모 서울시선관위원장, 류연중 종로구선관위원장을 직권남용과 직무유기 혐의로 서울경찰청에 고발했다고 30일 밝혔다.서민위는 이 대통령이 전날 사전투표소에서 기표한 투표지를 들고 기표소 밖으로 나와 선거사무원에게 기표 상태를 문의한 행위가 공직선거법상."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1dcc6f1b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260530/134021247/1",
+    "title": "1226회 로또 1등 ‘4, 6, 13, 17, 26, 28’…보너스 ‘41’",
+    "summary": [
+      "30일 제1225회 동행복권 로또 추첨 결과 4, 6, 13, 17, 26, 28이 1등 당첨 번호로 결정됐다.",
+      "2등 보너스 번호는 41이다.6개 번호를 모두 맞춘 1등 당첨자는 10명이다.",
+      "각각 28억1523만113원을 받는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n70c74d30",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "53분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260530/134021244/1",
+    "title": "日총리, 납북 피해자 집회서 “김정은과 대화할 용의 있다”",
+    "summary": [
+      "다카이치 사나에 일본 총리가 일본인 납북 피해자의 귀환을 촉구하는 집회에서 김정은 북한 국무위원장의 정상회담 등 모든 선택지를 배제하지 않겠다고 밝혔다.일본 지지통신, 아사히신문 등에 따르면 다카이치 총리는 30일 일본 도쿄 지요다구에서 열린 ‘모든 납북 피해자의 즉시 일괄 귀환을 요구하는 국민대집회’에 참석해 “내 대에서 어떻게든 돌파구를 열어 납치 문제를 해결하겠다”며 이같이 말했다.다카이치 총리는 “용기 있는 한 걸음을 김정은 위원장과 함."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n757469c2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530058451054",
+    "title": "목포 조선소서 불…2시간 만에 초진(종합)",
+    "summary": [
+      "(목포=연합뉴스) 장덕종 기자 = 30일 오후 7시 9분께 전남 목포시 연산동 한 조선소에서 불이 났다."
     ],
     "chips": [
       "#뉴스"
@@ -333,7 +529,7 @@ window.NEWS_DB = [
     "id": "n719fd058",
     "category": "사회",
     "source": "아시아경제",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026053022211345804",
     "title": "전진선 후보 \"임기 중 양평군 종합 추모문화공원 설치 추진\" 공약 발표",
     "summary": [
@@ -345,42 +541,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne48ae325",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/football/2026/05/30/MQ3DIOBSHFSDMOLDMIZTAYJSMI/",
-    "title": "[K리그2 리뷰]루안 결승골 폭발! 김포FC, 파죽의 3연승→4위 도약..수원FC-성남 0-0 무승부",
-    "summary": [
-      "[스포츠조선 노주환 기자]김포FC가 파죽의 3연승을 질주했다.",
-      "원정에서 김해FC를 제물로 삼았다.",
-      "고정운 감독이 이끈 김포는 30일 김해종합운동장에서 벌어진 김해와의 '하나은행 K리그2 2026' 13라운드 원정 경기서 루안의 결승골로 2대1 승리했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2200901d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/05/30/GE3WCMLEGE4WKYRSME4TIMBWGQ/",
-    "title": "이억원 금융위원장 “국민참여성장펀드 2차분 준비해 출시”",
-    "summary": [
-      "이억원 금융위원장이 출시 닷새 만에 완판된 국민참여형 국민성장펀드(이하 국민참여성장펀드)를 추가 공급하겠다고 밝혔다.",
-      "이 위원장은 이날 공개된 유튜브 채널 삼프로TV 출연 영상에서 “처음으로 말씀드리는 건데 (국민참여성장펀드) 2차분을 준비해서 출시하도록 하겠다”고 말했다.",
-      "그는 다만 “규모와 시기는 좀 더 고민해서 구체적인 사항을 추가로 말씀드리겠다”고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n19db038e",
     "category": "부동산",
     "source": "연합뉴스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260530055551063",
     "title": "대전세종충남 합계 사전투표율 22.97%…4년 전보다 2.72%p↑(종합)",
     "summary": [
@@ -392,52 +556,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n21e25ae3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/30/MZSDEOBTME3GIY3CMMZGMZRXMY/",
-    "title": "정준하, 최코디와 16년 만에 재회..\"바쁘게 살다보니\" 불화설 종식 (하와수)",
-    "summary": [
-      "[OSEN=지민경 기자] 방송인 정준하가 최코디와 16년 만에 재회했다.30일 유튜브 채널 하와수에는 '“독침수거!” 16년 만에 다시 만난 최코디 & 정실장을 모셨습니다' 영상이 게재됐다.이날 제작진은 박명수와 정준하 모르게 과거 '무한도전'을 통해 얼굴을 알린 정석권 실장과 최종훈 코디를 섭외해 박명수와 정준하를 깜짝 놀라게 했다.특히 최코디와 약 16."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc19ff5ed",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530062900053",
-    "title": "[사전투표] 대구 투표율 18.65％ 전국 최저치…경북 22.42％",
-    "summary": [
-      "(대구=연합뉴스) 김현태 기자 = 제9회 전국동시지방선거 대구 사전투표율이 전국 최저치를 기록했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf24a37f8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530060600099",
-    "title": "친서방 기우는 아르메니아 때리는 푸틴",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 러시아가 친서방 행보를 보이는 아르메니아 정부를 연일 압박하는 가운데, 이번엔 아르메니아 주재 자국 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nf456c4fc",
     "category": "경제",
     "source": "아시아경제",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026053022133441220",
     "title": "이동환 후보, 원팀 유세·상권 회복·덕은 현안 챙기기…막판 표심 공략",
     "summary": [
@@ -450,24 +572,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7e1e8a2c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530062600052",
-    "title": "울산 한 백화점서 연기 발생 신고로 대피 소동…\"화재 아냐\"",
-    "summary": [
-      "(울산=연합뉴스) 정종호 기자 = 30일 오후 7시 57분께 울산 남구 한 백화점에서 연기가 난다는 신고가 119에 접수됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n5636baa5",
     "category": "사회",
     "source": "머니투데이",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/world/2026/05/30/2026053022052179808",
     "title": "로켓 '뉴글렌' 폭발에 \"최소 6개월 차질\"…블루오리진 우주사업 '암초'",
     "summary": [
@@ -483,7 +591,7 @@ window.NEWS_DB = [
     "id": "n6cb12f30",
     "category": "경제",
     "source": "머니투데이",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/society/2026/05/30/2026053022065171123",
     "title": "목포 조선소 화재, 2시간 만에 진화…인명 피해 없어",
     "summary": [
@@ -499,7 +607,7 @@ window.NEWS_DB = [
     "id": "n0d519a90",
     "category": "사회",
     "source": "뉴시스",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260530_0003650368",
     "title": "완주 천등산 암벽 등반 하던 40대, 8m 높이서 추락해 중상",
     "summary": [
@@ -515,7 +623,7 @@ window.NEWS_DB = [
     "id": "neea094c7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260530_0003650367",
     "title": "[6·3경남]4인의 교육감 후보들…유세장에서 유튜브까지 '지지 호소'",
     "summary": [
@@ -528,117 +636,6 @@ window.NEWS_DB = [
       "#정치",
       "#교육"
     ]
-  },
-  {
-    "id": "n8d3fe776",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "31분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260530/134021241/1",
-    "title": "지방선거 D-4 정청래 텃밭단속…장동혁은 李대통령 맹공",
-    "summary": [
-      "6·3 지방선거를 나흘 앞두고 여야 지도부가 텃밭 단속과 대여 공세에 각각 주말을 할애했다.",
-      "정청래 더불어민주당 총괄상임선대위원장은 호남에서 집토끼 표심에 호소했고, 장동혁 국민의힘 상임선대위원장은 이재명 대통령을 맹공했다.정청래 위원장은 30일 전남 완도·진도·장흥·순천 등을 돌며 민주당 지지층의 무소속 이탈 방지에 힘을 쏟았다.",
-      "그는 완도 유세에서 “이재명 대통령을 도와드린다는 차원에서, 힘을 실어드린다는 마음으로 민주당 후보를 찍어달라”고."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3efda736",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003650359",
-    "title": "블루오리진 우주사업 '암초'…뉴글렌 폭발에 \"최소 6개월 차질\" 전망",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 아마존 창업자 제프 베이조스가 설립한 항공우주기업 블루오리진의 차세대 대형 로켓 '뉴 글렌(New Glenn)'이 엔진 시험 도중 폭발하면서 발사대가 심각한 손상을 입었다.",
-      "업계에서는 발사 재개까지 최소 수개월이 걸릴 것으로 보고 있으며, 아마존의 위성 인터넷 사업과 미국 항공우주국(NASA)의 달 탐사 계획에도 차질이 우려된다.",
-      "30일(현지 시간) 야후파이낸스에 따르면 사고는 다음 주 예정된 뉴글렌 발사를 앞두고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79cfc500",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "34분 전",
-    "url": "https://www.hankyung.com/article/2026053083197",
-    "title": "한일 해군 수색구조훈련, 9년 만에 부활…내달 7일 실시",
-    "summary": [
-      "한일 해군 수색구조훈련, 9년 만에 부활…내달 7일 실시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n06d8b6a3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "34분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/30/2026053021485442209",
-    "title": "'MC몽과 前 동업' 차가원…\"내가 입 열면 엔터 판 뒤집어져\"",
-    "summary": [
-      "MBC 'PD수첩'이 가수 MC몽과 차가원 원헌드레드 레이블 회장에 대한 의혹을 다룬다.",
-      "지난 29일 MBC 'PD수첩' 측은 내달 2일 방송되는 'MC몽과 회장님의 K팝 영업 비밀' 편의 예고 영상을 공개했다.",
-      "영상에는 최근 소속 아티스트 미정산 논란이 불거졌던 원헌드레드 레이블에 대한 업계 관계자들의 인터뷰가 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2501287e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003650361",
-    "title": "목포 조선소 불 초기 진화…인명피해 없어(종합)",
-    "summary": [
-      "[목포=뉴시스]이현행 기자 = 30일 오후 7시9분께 전남 목포시 연산동 한 조선소에서 불이 나 2시간24분 만에 초기 진화됐다.",
-      "이 불로 조선소 건물 3동이 소실된 것으로 알려졌다.",
-      "불은 조선소 건물 내 근해 어망 선박에서 최초 발화된 것으로 추정되고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb5acfde4",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "35분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/30/2026053021315179774",
-    "title": "\"국방·방산 협력 확대\"…안규백, 필리핀·노르웨이·네덜란드 국방장관과 회담",
-    "summary": [
-      "[the300] 안규백 국방부 장관이 제23차 아시아안보회의(샹그릴라 대화) 참석차 싱가포르를 방문해 필리핀, 노르웨이, 네덜란드 국방부 장관과 연이어 만나 정책 공조 의지를 다졌다.",
-      "국방부에 따르면 안규백 국방부 장관은 30일(현지시간) 길베르토 테어도로 필리핀 국방부 장관과 회담을 열고 역내 정세와 양국 간 국방·방산 협력 발전 방안을 논의했다.",
-      "안 장관은 이날 오전 회담에서 필리핀군 현대화 사업에 참여하는 한국 기업에 대한 관심을 당부하며."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "na2d953a4",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "51분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260530/134021234/1",
-    "title": "엔비디아, AI PC 시장 본격 진출…첫 윈도우 PC 공개 임박",
-    "summary": [
-      "인공지능(AI) 반도체 시장의 절대 강자로 떠오른 엔비디아가 PC 시장 공략에 본격적으로 나선다.",
-      "엔비디아가 자사 칩을 주 프로세서(CPU)로 탑재한 첫 윈도우 PC를 공개할 것으로 알려지면서 수십 년간 인텔과 AMD가 주도해온 PC 시장의 판도 변화 가능성에 관심이 쏠린다.30일(현지 시간) 악시오스는 복수의 소식통을 인용해 엔비디아와 마이크로소프트가 다음 주 대만에서 열리는 컴퓨텍스와 미국 샌프란시스코에서 개최되는 빌드 개발자 콘퍼런스에서."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
   }
 ];
 
@@ -647,18 +644,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
