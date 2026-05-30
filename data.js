@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-29 23:27:14
+// 마지막 업데이트: 2026-05-30 00:27:35
 window.NEWS_DB = [
   {
     "id": "na664b902",
     "category": "IT",
     "source": "뉴시스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10TkpQUDI2S0Jkc2ZVWW5reVM2ZkQzWDg0Y1VkcWxNUkU5Yi1ubWVKd1BIelp5N2JLSzBrOFJTMHRjeVhPdmZmNTdNSjdZb1ZGaTQxNk9iUVRtdTdKVmdtWdIBeEFVX3lxTE1rSktRX25DTjBEZlFUSVUxUFFEdTJSU3BpOV9oeUY3RlJOUFJyUjRtLUEwREJMTGlMRkZfMlpFMUtXbjBOMExnRFRZeGNCMkRJTHVPd1ZKbnk5a25OT2I5b1o2QXlfdU9PWno0aWNIdTZPbzhSM3Z1LQ?oc=5",
     "title": "젠슨 황 방한 기대감에 AI주 폭등…코스피 또 사상 최고치",
     "summary": [
@@ -16,10 +16,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbdb91502",
+    "category": "IT",
+    "source": "데일리머니",
+    "time": "15시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzVkdneE9NaTZWd1FqcnVRakQ4VVRWaUhBZXRIeUp6aElvU2IweU55U1FvenIwRThrRVptQUM4TTRkZWR0amt4RXN3VDJrOEUtR0RFRVY5SmxKYjE5Wk5jMFBNbUw5Z1ZOVkVtcVoxSlpPQkk?oc=5",
+    "title": "삼성전자, 앤트로픽 전격 투자…HBM·파운드리 ‘쌍끌이 부활’ 시동 => TSMC 동맹 균열 내나 => 삼성전자, 앤트로픽 투자로 빅테크 수주 발판",
+    "summary": [
+      "삼성전자, 앤트로픽 전격 투자…HBM·파운드리 ‘쌍끌이 부활’ 시동 => TSMC 동맹 균열 내나 => 삼성전자, 앤트로픽 투자로 빅테크 수주 발판 데일리머니."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -34,7 +49,7 @@ window.NEWS_DB = [
     "id": "nc3c3e382",
     "category": "IT",
     "source": "IT조선",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zZnNkZFAySHB5TVhBQUZDMndxeks4eThVbm4tVHVYQ0FoVDJadENsQWVQSWFhNkdvZmhCU3RUaFNrSVpjQkU3TjV5RzFXT0tOc1ZYeHVGWVBRWk1IT0ZSVHE2am5TUlhURUNYZkJLa2PSAXRBVV95cUxPRkIwNkVFZHRyU2NWZERoQ1RiRk5ZWTZFNmxGSGE4eC1nLW0zNkVGZ1NOc0c3enljZTNQdkxyZ2VhRU1lNDJjY0FPMTI2QUhxSkt1eFJ3T1dLYUJNZ0VpNzREQWc2WHBjQjZoVmNRalZkaXVBMQ?oc=5",
     "title": "삼성전자·SK하이닉스, 엔트로픽 투자 참여… ‘AI 반도체’ 협력 확대",
     "summary": [
@@ -51,7 +66,7 @@ window.NEWS_DB = [
     "id": "nbf65e391",
     "category": "IT",
     "source": "ESG경제",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwV2ozTmJKcl9OX0ZJbmdpaF9iVjBZeExHd28tOFRONUlwX2s3bWs0M2F0NU9id0RHWDZpNFZfRlFIcmg3WVdOTUpIODRjejVlNFRhRm1DVUZJZ3lOUmRyVGdHR2xKNWJ3Q2JMMw?oc=5",
     "title": "삼성전자, 앤트로픽에 전략적 투자...파운드리 부활 신호탄 쏠까",
     "summary": [
@@ -60,20 +75,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n55d092f9",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QajlVY2JtZl9JeklaSzV0Tk1kZXlYSlhJNENOMEJSLWZRZ2dLOHViQ3dHVWQ3Nk9DaWNiZ0phcEhuNHpnOXdBd2E2WmJ4UnhWNy1wUHEtNWNUckFQU2JSMdIBYEFVX3lxTE1QajlVY2JtZl9JeklaSzV0Tk1kZXlYSlhJNENOMEJSLWZRZ2dLOHViQ3dHVWQ3Nk9DaWNiZ0phcEhuNHpnOXdBd2E2WmJ4UnhWNy1wUHEtNWNUckFQU2JSMQ?oc=5",
-    "title": "삼성·SK, 앤트로픽에 전략적 투자…삼성은 AI칩 수주(종합)",
-    "summary": [
-      "삼성·SK, 앤트로픽에 전략적 투자…삼성은 AI칩 수주(종합) 연합뉴스."
-    ],
-    "chips": [
-      "#AI"
     ]
   },
   {
@@ -175,7 +176,7 @@ window.NEWS_DB = [
     "id": "n35b9d663",
     "category": "경제",
     "source": "KB Think",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
     "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
     "summary": [
@@ -381,264 +382,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n82737877",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260530/134020334/1",
-    "title": "미, 중국 신화통신 특파원 추방",
-    "summary": [
-      "미국 정부가 중국 관영 신화사 통신 소속으로 미국에서 근무하는 중국 국적자의 비자를 취소했다.",
-      "중국 정부가 미 뉴욕타임스(NYT) 특파원을 추방하기로 한 결정에 대한 맞대응 조치다.사안에 정통한 관계자는 비자가 취소됐다고 확인했다.",
-      "국무부 당국자도 비자를 취소할 계획이 있었다고 확인했다.이번 조치는 중국이 NYT 중국 특파원 비비안 왕을 추방한 데 따른 것이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne36d7384",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260529_0003649639",
-    "title": "경북 출생아수·출산율·혼인 등 지난해보다 모두 상승",
-    "summary": [
-      "[안동=뉴시스] 류상현 기자 = 지난 1/4분기 경북도의 출생아 수, 합계출산율, 혼인 등이 지난해 같은 기간보다 모두 상승했다.",
-      "30일 국가데이터처에 따르면 지난 1/4분기 경북의 출생아 수는 2910명으로 지난해 같은 기간 2668명보다 242명(9.1%) 늘었다.",
-      "특히 3월 한 달 동안의 출생아 수는 964명으로 지난해 3월 845명보다 119명으로 14.1% 많았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n499be27d",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003650002",
-    "title": "미 법원, 트럼프 \"반무기화 기금\" 무효 판결 잇달아",
-    "summary": [
-      "[워싱턴=AP/뉴시스] 강영진 기자 = 미 연방 법원이 29일(현지시각) 도널드 트럼프 미 대통령이 법무부와 합의해 설치키로 한 17억7600만 달러 규모의 이른바 “반무기화 기금”의 집행을 중단하도록 명령했다.",
-      "미 버지니아주 알렉산드리아 연방지방법원 레오니 브링케마 판사는 \"반 무기화 기금\"의 집행을 막는 자신의 명령을 유지할지에 관한 변론 기일을 다음달 12일로 지정했다.",
-      "해당 기금 창설은 현재 여러 건의 소송에 맞닥트려 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n740d6e42",
+    "id": "n284dacd1",
     "category": "사회",
     "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/30/PHDD4WE5CNCKXK2XJDCY7DYEUM/",
-    "title": "백악관 “트럼프, 자신의 레드라인에 만족하는 합의만 할 것”…최종 판단 미뤄",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/30/Q7VPNU5ZRFFWBDKGXVOOOCKUZI/",
+    "title": "美국방부, 백악관 UFC 관람할 장병 모집 중... “비용은 본인 부담”",
     "summary": [
-      "도널드 트럼프 미국 대통령이 이란과의 종전 협상과 관련한 최종 판단을 미뤘다.",
-      "백악관은 트럼프 대통령이 미국의 국익과 자신의 핵심 조건을 충족하는 합의만 수용할 것이라고 밝혔다.",
-      "백악관 관계자는 29일(현지 시각) 트럼프 대통령이 백악관 상황실에서 국가안보팀과 진행한 이란 관련 회의 결과를 묻는 질의에 “트럼프 대통령은 미국에 이익이 되고 자신의 레드라인."
+      "美국방부, 백악관 UFC 관람할 장병 모집 중... “비용은 본인 부담”."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "ne84de234",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650032",
+    "title": "둘째날 지방선거 사전투표율은?…제주 오전 9시 '13.6%'",
+    "summary": [
+      "[제주=뉴시스] 우장호 기자 = 제9회 전국동시지방선거 사전투표 둘째날인 30일 오전 9시 제주지역 현 누적 투표율은 13.63%로 집계됐다.",
+      "중앙선거관리위원회에 따르면 전날부터 진행된 사전투표에서 제주도 전체 유권자 56만5350명 가운데 7만7050명이 투표를 마쳤다.",
+      "2022년 제8회 지방선거 사전투표 동시간대 투표율(12.40%)과 비교해 1.23%포인트(p) 높은 수치다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n809b1915",
-    "category": "스포츠",
+    "id": "n255fd7cc",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026053009251402523",
+    "title": "지방선거 사전투표 둘째날…오전 9시 투표율 13.35%",
+    "summary": [
+      "제9회 전국동시지방선거 사전투표 둘째 날인 오전 9시 기준 투표율이 13.35%로 집계됐다.",
+      "30일 중앙선거관리위원회에 따르면 전날 오전 6시부터 이날까지 전체 유권자 4464만9908명 중 595만9952명이 사전투표를 마치면서 투표율이 13.35%를 기록했다.",
+      "이는 제8회 지방선거 동시간대 사전투표율(11.81%)보다 1.54%포인트 높은 수치다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb7e7d658",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/economy/science/2026/05/30/W4QC6LCTARCTBG2OIHCVW2UD2E/",
+    "title": "[부음] 홍정우(하고하우스·마뗑킴 대표이사)씨 아들상",
+    "summary": [
+      "[부음] 홍정우(하고하우스·마뗑킴 대표이사)씨 아들상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n761934fe",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650033",
+    "title": "5월 마지막 토요일 고속도로 곳곳 정체…서울→부산 5시간10분",
+    "summary": [
+      "[서울=뉴시스] 조성하 기자 = 5월 마지막 토요일인 30일은 전국적으로 맑고 따뜻한 날씨가 이어지며 평소보다 교통량이 소폭 늘어날 것으로 보인다.",
+      "한국도로공사에 따르면 이날 전국 고속도로 교통량은 570만대로 예상된다.",
+      "수도권에서 지방으로 빠져나가는 차량은 46만대, 지방에서 수도권으로 진입하는 차량은 47만대가 될 것으로 보인다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n66dddd27",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260530/134020396/1",
+    "title": "李 대통령 “투표 포기, 내 삶과 공동체 해치는 그들 편드는 것”",
+    "summary": [
+      "이재명 대통령은 제9회 전국동시지방선거 사전투표 둘째 날인 30일 “투표를 포기하는 것은 나와 가족의 미래를 포기하는 것과 같다”며 투표권 행사를 독려했다.이 대통령은 이날 X(옛 트위터)에 ‘꼭 투표합시다’라는 제목의 글을 올리며 “투표는 민주주의의 생명줄”이라고 강조했다.",
+      "이 대통령은 “투표 포기는 중립이 아니라 내 삶과 공동체를 해치는 그들을 편드는 것”이라고 강조했다.이 대통령은 전날 김혜경 여사와 함께 서울 종로구 삼청동 주민센터에서."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n340b3c00",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/30/MFSTMZBYGNSTAZBTMMZDCOLGGE/",
+    "title": "'이지훈♥' 아야네, '유난' 사과 후..'무염' 이어 확고한 육아관 \"TV 처음보여줘\"",
+    "summary": [
+      "[OSEN=김나연 기자] 가수 겸 뮤지컬배우 이지훈의 아내 아야네가 확고한 육아관을 전했다.28일 아야네는 자신의 소셜 계정에 \"우리 루희 화요일에 잘 퇴원했습니다! DM으로, 댓글로, 물어봐주시는 분들이 많아 피드로 루희 소식 전해요\"라고 딸 루희가 건강을 회복한 근황을 전했다.그는 \"퇴원하고나서도 아직 전염성이 있을 순 있어 2,3일동안은 어디 안 나가."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n33a1ca06",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/thebio/2026/05/30/2026052911470424825",
+    "title": "\"결심만 몇년째…올해도 못 끊어\" 반복된 금연 실패, '이것' 때문?",
+    "summary": [
+      "고령화시대의 건강관리 '건(健)테크' (256) 흡연 머니투데이가 고령화 시대의 건강관리 '건(健)테크'를 연재합니다.",
+      "100세 고령화 시대 건강관리 팁을 전달하겠습니다.",
+      "흡연은 전신 건강을 무너뜨리는 대표적인 위험 요인이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ne8e7a9d3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/30/MRSDEMZYGM2DSYRRGI2DKMJWGQ/",
+    "title": "지상렬, ♥신보람 얻었지만 '살림남' 퇴출 위기…절친 김구라마저 '외면'",
+    "summary": [
+      "<방송사에서 제공한 자료를 바탕으로 작성된 프리뷰 기사입니다.>[OSEN=장우영 기자] ‘살림하는 남자들 시즌2’ 지상렬은 자신의 자리를 지킬 수 있을까.30일 방송되는 KBS2 ‘살림하는 남자들 시즌2’(이하 살림남)에서는 지상렬의 ‘살림남 고정 출연’ 적합성을 두고 법정 공방이 펼쳐진다.김장훈, 김용명은 지상렬를 고소한다.",
+      "피고인 신분으로 재판장에 나타."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n36fb8875",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650027",
+    "title": "오세훈, '88시간 무한 책임 유세' 돌입…\"사즉생 각오로 무한한 책임 증명할 것\"",
+    "summary": [
+      "[서울=뉴시스] 전상우 기자 = 오세훈 국민의힘 서울시장 후보는 30일 선거운동 종료 시점까지 '88시간의 무한 책임 유세'에 돌입한다고 밝혔다.",
+      "오 후보는 사전투표 이틀째인 이날 오전 8시를 시작으로 선거운동이 끝나는 다음 달 2일 자정까지 남은 88시간 동안 서울 전역을 누비며 총력 유세를 펼치겠다는 계획이다.",
+      "이에 대해 오 후보 캠프 측은 \"숫자 '88'을 옆으로 눕히면 끝없이 이어지는 무한대 기호가 되듯 남은 선거운동 기간 서울시민의 삶."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7d6f5b95",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260529_0003649786",
+    "title": "지선 둘째날 사전투표율, 오전 9시 대전 12.41%·세종 14.39%·충남 13.17%",
+    "summary": [
+      "[대전=뉴시스] 김양수 기자 = 30일 제9회 전국동시지방선거 사전투표 이틀째를 맞아 대전·세종·충남 317개 사전투표소에서 순조롭게 투표가 진행 중이다.",
+      "이날 오전 9시 기준 대전은 유권자 125만891명 중15만5262명이 사전투표를 마쳐 12.41%의 투표율을 기록했다.",
+      "또 세종은 30만9134명 중 4만4496명이 투표장을 다녀가 14.39%를, 충남은 185만7239명 중 24만4618명이 투표해 13.17%를 각각 기록 중이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb59986c7",
+    "category": "IT",
     "source": "아시아경제",
     "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026052710521967659",
-    "title": "빵순이·빵돌이 가득한 韓…\"주요국 중 식빵 가격 가장 높아\"",
+    "url": "https://view.asiae.co.kr/article/2026053009195198591",
+    "title": "[뉴욕증시]중동 종전·AI 랠리' 더블 호재에 일제히 사상 최고치…다우 0.72%↑",
     "summary": [
-      "# 생식빵 전문 브랜드 이지화이트브레드는 올해 1월 1호 직영점을 오픈한 이후 창업 문의가 이어지고 있다고 한다.",
-      "5월 현재 3개 매장이 오픈했으며 다음 달까지 서울, 경기, 충청에 6개 매장을 추가할 예정이다.",
-      "6월 이후 연내에 수도권을 비롯해 부산, 경남권까지 13개 매장 오픈 일정이 확정됐다."
+      "미국과 이란 간의 종전 협상 타결이 임박했다는 소식과 인공지능(AI) 시장에 대한 낙관론이 다시 불붙으면서 뉴욕증시 3대 지수가 또다시 사상 최고치를 경신했다.",
+      "29일(현지시간) 뉴욕증권거래소(NYSE)에서 다우존스30 산업평균지수는 전장보다 363.49포인트(0.72%) 오른 5만1032.46에 마감하며 5만1000선을 돌파했다.",
+      "스탠더드앤드푸어스(S&P) 500 지수는 전장보다 16.43포인트(0.22%) 상승한 7580.06에, 기술주 중."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "n8097f239",
+    "id": "n24c42112",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260529_0003649825",
-    "title": "전북 2일차 오전 8시 사전투표 20.98%…지난 지선보다 6.52%↑",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026053009192494353",
+    "title": "백악관 \"트럼프, 美 이익·레드라인 충족 합의만 할 것\"",
     "summary": [
-      "[정읍=뉴시스] 김종효 기자 = 제9회 전국동시지방선거 사전투표 이틀째인 30일 오전 8시, 전북 지역 투표율은 20.98%를 나타내고 있다.",
-      "도내 전체 선거인수 150만8954명 중 31만6789명이 투표를 마쳤다.",
-      "지난 2022년 지방선거의 이틀차 같은 시간 투표율 14.42%보다 6.52%가 높게 집계되고 있다."
+      "미국 백악관은 29일(현지시간) 도널드 트럼프 대통령이 이란과 협상하더라도 \"미국에 이익이 되고 그의 레드라인을 만족시키는 합의만 할 것\"이라고 밝혔다.",
+      "백악관 당국자는 이날 트럼프 대통령이 백악관 상황실에서 고위 안보팀과 진행한 이란 협상 관련 회의 결과에 대해 이같이 답했다.",
+      "이 당국자는 \"이란은 결코 핵무기를 보유할 수 없다\"고 강조했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n2bfb471a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/30/GAYDMYZVMEZDIZJUG44DGNJWGY/",
-    "title": "정신 나갔나? 한때 '최고의 윙어' 스털링, '약물 운전' 혐의로 체포",
-    "summary": [
-      "[OSEN=정승우 기자] 한때 잉글랜드 대표팀의 핵심 공격수로 활약했던 라힘 스털링(31)이 약물 운전 혐의로 경찰에 체포됐다.영국 '더 선'은 30일(한국시간) \"전 잉글랜드 국가대표 라힘 스털링이 람보르기니를 몰다 사고를 낸 뒤 약물 운전 혐의로 체포됐다\"라고 보도했다.보도에 따르면 사고는 지난 29일 오전 9시께 영국 햄프셔 지역 M3 고속도로에서 발."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf870ea2b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/30/HFRTQZLFMU2WGOJRMEZWGMZRMI/",
-    "title": "'더 스카웃' 확 달라진 뮤즈 16인…'도파민 폭발' 본격 경연 시작",
-    "summary": [
-      "<방송사에서 제공한 자료를 바탕으로 작성된 리뷰 기사입니다.>[OSEN=장우영 기자] ‘THE SCOUT : 다시 태어나는 별’ 16인의 뮤즈들이 놀라운 변신을 보여준 가운데 첫 번째 경연이 시작됐다.지난 29일 방송된 EAN 성장형 음악 프로젝트 ‘THE SCOUT : 다시 태어나는 별’(이하 더 스카웃)에서는 2차 경연 ‘REMAKE MYSELF’라는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n642f66cf",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003650010",
-    "title": "\"한 표라도 더\"…광주·전남 후보들, 마지막 주말 대격돌",
-    "summary": [
-      "[광주=뉴시스] 송창헌 박기웅 기자 = 6·3 지방선거 사전투표 이틀째이자 본선거 전 마지막 주말을 맞아 전남광주통합특별시장 여야 후보들을 비롯해 통합교육감, 광주 광산을 보궐선거, 기초단체장과 지방의원 후보자들이 일제히 막판 표심 공략에 나섰다.",
-      "새벽 인사부터 전통시장, 대형 상가 집중 유세까지 유동인구가 많은 승부처를 중심으로 사활을 건 표심 잡기에 나설 예정이다.",
-      "초대 전남광주통합특별시장 후보들은 광주와 전남을 구석구석을 오가며 광폭 행보."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nf9286e8a",
+    "id": "n4139fc7a",
     "category": "경제",
     "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/05/30/2026053008187270380",
-    "title": "'멋진 신세계' 임지연, 철벽 끝에 허남준 향한 ♥각성…순간 최고 10.7% [종합]",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/05/30/2026053009187268646",
+    "title": "유선호, '1박 2일' 마지막 촬영서 끝내 눈물…딘딘 \"넌 최고의 막내\"",
     "summary": [
-      "'멋진 신세계'가 시청률과 로맨스 도파민을 동시에 잡았다.",
-      "지난 29일 방송한 SBS 금토드라마 '멋진 신세계' 7화는 전국 시청률 9.4%, 순간 최고 10.7%를 기록하며 동시간대 1위에 올랐다.",
-      "앞서 방송된 6화 역시 전국 시청률 9.4%를 기록한 데 이어 2회 연속 9%대 시청률을 유지하며 안정적인 흥행 흐름을 이어갔다."
+      "유선호가 '1박 2일' 마지막 녹화에서 멤버들과 제작진에게 작별 인사를 전한다.",
+      "오는 31일 방송하는 KBS 2TV 예능프로그램 '1박 2일 시즌4'에서는 경상남도 남해군에서 진행된 '남해 홀리데이' 두 번째 이야기가 공개된다.",
+      "이번 여행은 유선호가 '1박 2일' 멤버로 함께한 마지막 녹화다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nee85fbac",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/30/2026053008072653224",
-    "title": "팀타율 0.232·팀 ERA 5.34·득실차 -2인데 7승 3패 실화인가→차포 떼고도 '염갈량 버티기 야구' 감탄 나온다!",
-    "summary": [
-      "야구는 흔히 '기록의 스포츠'라고 불린다.",
-      "타율이 높고 평균자책점이 낮을수록 승리할 확률이 비약적으로 상승한다는 것이 야구계의 당연한 상식으로 통한다.",
-      "하지만 이번 시즌 LG 트윈스는 이러한 야구계의 오랜 공식과 수학적 확률을 정면으로 거스르는 기묘한 '이기는 야구'를 선보이고 있다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nf9eba290",
+    "id": "n2528ebdb",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260529089500052",
-    "title": "경남도, 대학 인재양성체계 사업 차등 지원…19개 캠퍼스 평가",
+    "source": "한국경제",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026052969507",
+    "title": "\"1박2일 부산 가는데 100만원 쓸 판\"…바가지요금에 '분통' [김수영의 연계소문]",
     "summary": [
-      "(창원=연합뉴스) 이정훈 기자 = 경남도는 지난해부터 시작한 '지역성장 인재양성체계'(앵커) 사업을 평가해 성과에 맞춰 각 대학에 예산을 차등 ..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n6baaf2df",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260529070000052",
-    "title": "'텅 빈 함안역' 살리기…함안군수 후보들 역세권 개발 공약 경쟁",
-    "summary": [
-      "(함안=연합뉴스) 박영민 기자 = KTX 정차가 중단된 뒤 10년 넘게 제 기능을 찾지 못한 경남 함안역 활성화 문제가 6·3 지방선거 함안군수..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n37105fdc",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/30/2026053007461366880",
-    "title": "서소문 사고로 멈췄던 경의선·KTX 운행 재개…내일 정상화 전망",
-    "summary": [
-      "서울 서소문 고가차도 붕괴 사고 여파로 차질을 빚었던 경의선 열차 운행이 사고 나흘 만인 30일 재개됐다.",
-      "30일 뉴시스에 따르면 한국철도공사(코레일)는 경의선 서울~문산 구간 전동열차가 이날 오전 6시부로 정상 운행한다고 밝혔다.",
-      "행신~서울·용산 구간의 KTX와 강릉·중앙선 KTX-이음의 서울~청량리 구간도 정상 운행을 시작했다."
+      "\"1박2일 부산 가는데 100만원 쓸 판\"…바가지요금에 '분통' [김수영의 연계소문]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf2a335fe",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260530017400007",
-    "title": "홍명보, 트리니다드전 \"카스트로프 선발\" 예고…황인범은 교체로",
-    "summary": [
-      "(헤리먼[미국 유타주]=연합뉴스) 안홍석 기자 = 미뤄지던 '혼혈 태극전사' 옌스 카스트로프(묀헨글라트바흐)의 홍명보호 윙백 테스트가 드디어 이..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d583bbb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260529089800052",
-    "title": "창원시, 6월 한 달간 환경교육주간 운영…줍깅·반딧불이 체험",
-    "summary": [
-      "(창원=연합뉴스) 김선경 기자 = 경남 창원시는 환경의 날(6월 5일)을 맞아 6월 한 달간 '제4회 환경교육주간'을 운영한다고 30일 밝혔다."
-    ],
-    "chips": [
-      "#교육",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n6820edcf",
+    "id": "n8398118d",
     "category": "사회",
     "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/list/article/all/20260530/134020299/1",
-    "title": "용인 땅 투자 설왕설래… 평택을 재보선 후보들 재산·재테크 뜯어보니",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260530/134020380/1",
+    "title": "李대통령 “투표 포기, 중립 아닌 공동체 해치는 그들 편 드는 것”",
     "summary": [
-      "6·3 지방선거와 함께 치르는 국회의원 재보궐선거에서 경기 평택을은 후보들의 재산과 재테크 이슈를 둘러싼 설왕설래 탓에 관심 지역구로 떠올랐다.평택을에서는 더불어민주당 김용남 후보와 국민의힘 유의동 후보, 조국혁신당 조국 후보가 접전을 펼치고 있다.",
-      "여론조사 전문 업체 한국갤럽이 5월 22일 내놓은 여론조사 결과를 보면 김용남 후보 30%, 유의동 후보 23%, 조국 후보 25% 순으로 오차범위 내 각축전을 벌이고 있다."
+      "이재명 대통령은 30일 “투표 포기는 중립이 아니라 내 삶과 공동체를 해치는 그들을 편드는 것”이라고 했다.이 대통령은 6·3 지방선거 사전투표 둘째 날인 이날 엑스(X·구 트위터)를 통해 “꼭 투표하자”며 이같이 밝혔다.이 대통령은 “투표는 민주주의의 생명줄”이라며 “투표를 포기하는 것은 나와 가족의 미래를 포기하는 것과 같다”고 투표 참여를 거듭 독려했다.앞서 이 대통령은 전날(29일) 서울 종로구 삼청동주민센터 사전투표소를 찾아 김혜경 여."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n83ae2aae",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260530/134020377/1",
+    "title": "로제 ‘아파트’, 英 싱글차트 재진입…BTS ‘아리랑’ 앨범차트 10주 연속 톱40",
+    "summary": [
+      "K-팝 간판 걸그룹 ‘블랙핑크’ 멤버 겸 솔로가수 로제(Rosé)와 미국 팝스타 브루노 마스(Bruno Mars)의 협업곡 ‘아파트(APT.)’가 영국 오피셜 싱글 차트 톱100에서 여전히 강력한 뒷심을 발휘하고 있다.",
+      "29일(이하 현지시간) 오피셜 차트에 따르면, 로제·마스 ‘아파트’는 오피셜 싱글차트 톱100 최신 차트(5월29일~6월4일)에 90위로 재진입했다.해당 차트 최고 순위 2위를 찍은 이 곡은 이번 주까지 이 차트에 통산 68주째."
+    ],
+    "chips": [
+      "#부동산"
     ]
   }
 ];
@@ -648,20 +647,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
