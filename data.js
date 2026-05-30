@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-30 16:20:41
+// 마지막 업데이트: 2026-05-30 17:22:56
 window.NEWS_DB = [
+  {
+    "id": "ne2208e3a",
+    "category": "부동산",
+    "source": "프라임경제",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc0UzWmJweS1lNEZoWnc2WEtHbFhzcjZLWmlXLWJ3ZlUwV2xDUm02a1FiajU0NFFjcGh6NGRuUngtUXNuRnBSMWdaR3haLXowWWloeXZuS3RER2F6dTNBOXdrNzF1TE9ya2F2dQ?oc=5",
+    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
+    "summary": [
+      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
   {
     "id": "nc4b0f988",
     "category": "IT",
     "source": "쿠키뉴스",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
@@ -64,22 +78,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf713d853",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBVkEzY3M0MHlQMmFXaFlmVGVLOFhCZ2FWVFhSaWtRTGJyNFBaOWtQMkcyQzVPQkhDWW1TRThfUnA2c2hKclVmTWpDbGZYTTh3SVBuc1lMTkp5UE9pNkRLV1hiTWpQaFJpSU1XcW1Nb2x5bTA?oc=5",
-    "title": "'삼성전자 파운드리 고객사' 그로크 대규모 투자 유치, 엔비디아와 협업에 맞춰 구조 재편",
-    "summary": [
-      "'삼성전자 파운드리 고객사' 그로크 대규모 투자 유치, 엔비디아와 협업에 맞춰 구조 재편 비즈니스포스트."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "n55d092f9",
     "category": "IT",
     "source": "연합뉴스",
@@ -122,22 +120,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n013a12c3",
-    "category": "IT",
-    "source": "경향신문",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNm9wcXdDSXVlTkNGR2FkWTZSbkcwa0FhRFVKNVBJbzRRSi1hODVueV9lUW14VnQxOFZWa1pVQ193VGc3SWlYSDY3VGIwa200OHJzTFJJUnNhZ9IBX0FVX3lxTE4zRzdOVjdoTXZ4NGNwWl9GR1dmbDBuTWlIRXZRUDRWeks1RzVQLUprN3phM01ZMy1OZnUydHpVUHJ6QlFVT081OE03YjlNOE9wUzdsdjhGdGw5d2N4VjN3?oc=5",
-    "title": "엔비디아도 1500억달러 투자…‘AI 반도체 공급망 허브’ 입지 굳히는 대만",
-    "summary": [
-      "엔비디아도 1500억달러 투자…‘AI 반도체 공급망 허브’ 입지 굳히는 대만 경향신문."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n1a25f504",
     "category": "경제",
     "source": "마켓인",
@@ -150,22 +132,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "ndc7289a2",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HRTlqVnVPN3BpZGNxZ2IzOGpOQjF5VXBHdnVNN29henNVWG1FYWhCUzlja3c5aUItZ3NJbk10UmJsSjY0c2JwdXMzdTVmbzgyY1RCeUU0ckVwUdIBVEFVX3lxTE5CQUJWM29pdzExRWY2eTVtN25TajNYTWVqUThuR2NUVndUcEM3cWxnUzJONGFfMk41b194MGc2bUNzWlRjVW5GWWZyQjV6S1ZoNEw4Sg?oc=5",
-    "title": "\"엔비디아 비켜\" 독주 체제에 반기…AI 반도체 경쟁 불붙었다",
-    "summary": [
-      "\"엔비디아 비켜\" 독주 체제에 반기…AI 반도체 경쟁 불붙었다 한국경제."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -302,41 +268,57 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "107일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n8fbc80c0",
-    "category": "스포츠",
+    "id": "n331f3c83",
+    "category": "사회",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/31/MNRGKMZSGY4DKOJXGRQWIMZVMI/",
-    "title": "\"TMT 여권 압수\" 폰세·문동주 모처럼 웃었다…수술대 오른 '한화 KS 주역' 눈물의 재회",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/05/31/MQZDEMLFGAZDAOLFMQ2TINZSG4/",
+    "title": "美국방 “對이란 해상 봉쇄 유지…필요시 군사개입 재개”",
     "summary": [
-      "[스포츠조선 이종서 기자] 한화 이글스의 한국시리즈를 이끌었던 둘이 다시 만났다.",
-      "코디 폰세(32·토론토 블루제이스)는 30일(이하 한국시각) 자신의 SNS에 문동주(23·한화 이글스)와 함께 찍은 사진을 올렸다.",
-      "사진에는 대한민국 여권을 든 손과 함께 환하게 웃고 있는 문동주의 모습이 담겼다."
+      "피트 헤그세스 미국 국방부(전쟁부) 장관이 이란에 대한 해상 봉쇄가 유지되고 있으며, 종전 협상이 결렬될 경우 군사 개입을 재개할 준비가 돼 있다고 30일(현지 시각) 밝혔다.",
+      "미 국방부에 따르면 헤그세스 장관은 이날 싱가포르에서 열린 제23차 아시아안보회의(샹그릴라 대화)를 마친 뒤 현지 미국 대사관에서 기자회견을 열고 이같이 말했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n5e1a25e2",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "38분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/31/2026053023234334856",
+    "title": "'대단하네' LG 마침내 단독 1위 등극!→염갈량이 곧바로 떠올린 건... 그리고 팬들 향한 감사 인사까지",
+    "summary": [
+      "LG 트윈스가 KIA 타이거즈와 주말 시리즈 두 경기를 가져가며 위닝시리즈를 예약했다.",
+      "리그 순위도 단독 1위로 올라선 가운데, 사령탑은 특별히 타격코치를 떠올렸다.",
+      "LG는 30일 오후 서울 잠실야구장에서 펼쳐진 KIA와 2026 신한 SOL KBO 리그 정규시즌 홈경기에서 3-1로 승리했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nbef2ddf2",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/05/31/GRRTENJVGU4TKY3DG42DIOBQMQ/",
+    "title": "'버티기인데 1위' LG, 천군만마 온다. 문보경 1안타 1볼넷-문성주 2안타...이재원 송찬의 문정빈, 1명은 2군행이다",
+    "summary": [
+      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스 '문문 듀오'가 부상에서 회복, 재활 경기에 처음으로 출장했다.LG는 30일 이천 LG챔피언스파크에서 2026 퓨처스리그 상무와 경기를 치렀다.",
+      "문성주는 2번 좌익수, 문보경은 3번 지명타자로 선발 출장했다.문성주는 옆구리 부상으로 지난 1일 부상자 명단에 올랐다.",
+      "문보경은 지난 5일 어린이날 두산전에서."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "neb22bf6b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260531_0003650399",
     "title": "카타르 측 \"호르무즈 해협 '임시 요금'은 협상 가능\"",
     "summary": [
@@ -348,42 +330,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5d61c9ab",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/31/HBSTIM3BHA3GEY3GMQ4DGNDFMQ/",
-    "title": "'슬롯 경질→후임 속전속결' HERE WE GO 독점! 리버풀 새 감독=안도니 이라올라..'경영진 오직 그 만을 원한다'",
-    "summary": [
-      "[스포츠조선 노주환 기자]스페인 출신 젊은 명장으로 급부상한 안도니 이라올라(44)가 EPL 명문 리버풀의 새 감독이 될 것 같다.",
-      "30일(한국시각) 리버풀 구단이 전격 경질한 네덜란드 출신 아르네 슬롯 감독의 후임이다.",
-      "유럽 축구 이적 전문가 파브리지오 로마노는 이날 자신의 SNS를 통해 '안도니 이라올라가 슬롯 다음으로 리버풀의 새 감독이 될 것이다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n4fc09eb3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/31/MNSTKNZTGBSDQYTCMM4DSMJQGI/",
-    "title": "‘어떻게 이런 일이’ 이틀 연속 역전 만루포 허용, 24년 만에 또 불명예 충격…뼈아픈 2연패→1위 내주고 3위 추락하다",
-    "summary": [
-      "[OSEN=이후광 기자] 승승장구하던 사자군단이 이틀 연속 역전 만루홈런에 울었다.",
-      "프로야구 삼성 라이온즈는 30일 대구 삼성라이온즈파크에서 열린 2026 신한 SOL KBO리그 두산 베어스와의 시즌 8번째 맞대결에서 7-8로 패했다.",
-      "삼성은 전날에 이어 연이틀 역전패를 당하며 3연승 뒤 2연패에 빠졌다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "naa6c7309",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260531000300082",
     "title": "\"영국 축구 스타 스털링, 약물운전 혐의 체포\"",
     "summary": [
@@ -394,25 +344,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9c3cbd4c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/31/ME2DSMRYGY2TMMDGGNTDMYZSMY/",
-    "title": "양상국, 알고 보니 공황장애도 겪었다 “사람들이 다 욕하는 것 같다고”(전참시)[핫피플]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 양상국이 '태도 논란' 이후 마음고생을 했다고 밝혔다.30일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 양상국이 게스트로 출연했다.양상국은 오랜만에 만난 친구들에게 속내를 털어놨다.",
-      "그는 “요즘 심적인 그런 게 있었다”라고 말했고 친구들은 “강하게 해서 뜬 건 알겠는데 다른 걸 봐도."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8e8d3378",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/31/2026053014005899565",
     "title": "'ML 50홈런' 키움 새 외인, 대박 냄새 '솔솔' 데뷔전부터 멀티히트 폭발! 득점권 타율 1.000",
     "summary": [
@@ -429,7 +364,7 @@ window.NEWS_DB = [
     "id": "n3c42d9c2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260529_0003648973",
     "title": "전자담배는 괜찮다?…\"잘못된 생각에 폐 망친다\"",
     "summary": [
@@ -445,7 +380,7 @@ window.NEWS_DB = [
     "id": "n8b3fec5b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260529_0003649575",
     "title": "권진규 아틀리에 20년…예술가의 공간은 어떻게 살아남았나",
     "summary": [
@@ -461,7 +396,7 @@ window.NEWS_DB = [
     "id": "n798327a2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260529_0003649218",
     "title": "내달 6~11일 'KoCACA아트페스티벌'…예술인 2천명 온다",
     "summary": [
@@ -477,7 +412,7 @@ window.NEWS_DB = [
     "id": "n4f470490",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260531000400071",
     "title": "美국방 \"對이란 철통봉쇄 유지…필요시 군사개입 재개 준비\"",
     "summary": [
@@ -491,7 +426,7 @@ window.NEWS_DB = [
     "id": "n3a482989",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/31/2026053021073163072",
     "title": "'또' 월드클래스 추태, 18세 상대로 이토록 뻔뻔하다니... '무려 2억 5천' 테니스장 드레스쇼 '재차 논란'",
     "summary": [
@@ -507,7 +442,7 @@ window.NEWS_DB = [
     "id": "n53befc5a",
     "category": "부동산",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202605308337i",
     "title": "삼성물산, 신반포 19·25차 재건축 수주...정비사업 '3조 클럽' 진입",
     "summary": [
@@ -521,7 +456,7 @@ window.NEWS_DB = [
     "id": "n6ad70823",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260531000100011",
     "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
@@ -536,7 +471,7 @@ window.NEWS_DB = [
     "id": "naa51bca4",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/31/2026053023362395708",
     "title": "'이강인 벤치' PSG·아스널, 챔피언스리그 결승 라인업 공개... '사상 최초 빅이어vs2연속 우승'",
     "summary": [
@@ -552,7 +487,7 @@ window.NEWS_DB = [
     "id": "nbd4ae746",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260530063600082",
     "title": "유로화 도입 5개월 만에…불가리아 재정 경고등",
     "summary": [
@@ -563,26 +498,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n499ac7b0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/30/2026053022515875428",
-    "title": "'충격' 리버풀 깜짝 경질 오피셜, 'EPL 우승' 슬롯 감독 떠난다... \"후임 이미 정했다\"",
-    "summary": [
-      "잉글랜드 프리미어리그(EPL)의 리버풀이 아르네 슬롯 감독과 동행을 전격 종료했다.",
-      "리버풀은 30일(한국시간) 공식 채널을 통해 \"슬롯 감독이 감독직에서 물러나기로 확정했다\"며 \"현재 후임 감독 선임 프로세스가 진행 중이다\"라고 공식 발표했다.",
-      "첫 시즌만에 리버풀에 EPL 우승 트로피를 안겼던 슬롯 감독은 2025~2026 부진 끝에 경질 칼날을 피하지 못했다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
     "id": "n452e031c",
     "category": "IT",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202605308332i",
     "title": "[KIW 2026 다시보기 영상] 하워드 막스 \"AI 경쟁, 이런 기업이 승자가 된다\"",
     "summary": [
@@ -596,7 +515,7 @@ window.NEWS_DB = [
     "id": "n1bb32ca0",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260530/134021255/1",
     "title": "美재무 “호르무즈 통행료 관계없이…이란과 거래 금지”",
     "summary": [
@@ -610,7 +529,7 @@ window.NEWS_DB = [
     "id": "n49cfb7ac",
     "category": "사회",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://view.asiae.co.kr/article/2026053023004955926",
     "title": "이상일 후보, 용인 전역 누비며 막판 총력전…\"시민 곁에서 미래 지키겠다\"",
     "summary": [
@@ -626,7 +545,7 @@ window.NEWS_DB = [
     "id": "nb882ef6c",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260530/134021252/1",
     "title": "이재명 대통령 ‘투표지 노출’ 논란에…중앙선관위원장도 고발당해",
     "summary": [
@@ -634,6 +553,81 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n1dcc6f1b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260530/134021247/1",
+    "title": "1226회 로또 1등 ‘4, 6, 13, 17, 26, 28’…보너스 ‘41’",
+    "summary": [
+      "30일 제1225회 동행복권 로또 추첨 결과 4, 6, 13, 17, 26, 28이 1등 당첨 번호로 결정됐다.",
+      "2등 보너스 번호는 41이다.6개 번호를 모두 맞춘 1등 당첨자는 10명이다.",
+      "각각 28억1523만113원을 받는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n70c74d30",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260530/134021244/1",
+    "title": "日총리, 납북 피해자 집회서 “김정은과 대화할 용의 있다”",
+    "summary": [
+      "다카이치 사나에 일본 총리가 일본인 납북 피해자의 귀환을 촉구하는 집회에서 김정은 북한 국무위원장의 정상회담 등 모든 선택지를 배제하지 않겠다고 밝혔다.일본 지지통신, 아사히신문 등에 따르면 다카이치 총리는 30일 일본 도쿄 지요다구에서 열린 ‘모든 납북 피해자의 즉시 일괄 귀환을 요구하는 국민대집회’에 참석해 “내 대에서 어떻게든 돌파구를 열어 납치 문제를 해결하겠다”며 이같이 말했다.다카이치 총리는 “용기 있는 한 걸음을 김정은 위원장과 함."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n719fd058",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "4시간 전",
+    "url": "https://view.asiae.co.kr/article/2026053022211345804",
+    "title": "전진선 후보 \"임기 중 양평군 종합 추모문화공원 설치 추진\" 공약 발표",
+    "summary": [
+      "전진선 양평군수 후보(국민의힘)가 군민의 생애 마지막까지 책임지는 품격 있는 복지정책 실현을 위해 '임기 중 양평군 종합 추모문화공원 설치 추진'을 민선 9기 핵심 공약으로 제시했다.",
+      "전진선 후보는 \"양평군민들이 현재 화장시설 부족으로 인해 원주, 성남, 춘천, 인제, 속초 등 타 지역으로 원정 화장을 가야 하는 현실 속에서 시간적·경제적 부담과 큰 불편을 겪고 있다\"며 \"이제는 군민의 존엄한 마지막 길까지 지역사회가."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nf456c4fc",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4시간 전",
+    "url": "https://view.asiae.co.kr/article/2026053022133441220",
+    "title": "이동환 후보, 원팀 유세·상권 회복·덕은 현안 챙기기…막판 표심 공략",
+    "summary": [
+      "이동환 고양시장 후보(국민의힘)가 본투표를 사흘 앞둔 30일 집중 유세와 정책토론회, 지역 축제 현장을 잇달아 찾으며 막판 표심 공략에 나섰다.",
+      "당내 화합을 강조하는 '원팀 유세'부터 지역 상권 활성화 방안 제시, 덕은지구 현안 챙기기까지 이어진 강행군을 통해 지지세 결집에 총력을 기울이는 모습이다.",
+      "이 후보는 이날 오후 능곡지하차도 사거리에서 대규모 집중유세를 열고 지지층 결집에 나섰다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n79cfc500",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "4시간 전",
+    "url": "https://www.hankyung.com/article/2026053083197",
+    "title": "한일 해군 수색구조훈련, 9년 만에 부활…내달 7일 실시",
+    "summary": [
+      "한일 해군 수색구조훈련, 9년 만에 부활…내달 7일 실시."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -643,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
