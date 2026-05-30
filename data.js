@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-30 19:29:16
+// 마지막 업데이트: 2026-05-30 20:20:47
 window.NEWS_DB = [
   {
     "id": "ne2208e3a",
@@ -94,17 +94,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n55d092f9",
+    "id": "nb37924e1",
     "category": "IT",
     "source": "연합뉴스",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QajlVY2JtZl9JeklaSzV0Tk1kZXlYSlhJNENOMEJSLWZRZ2dLOHViQ3dHVWQ3Nk9DaWNiZ0phcEhuNHpnOXdBd2E2WmJ4UnhWNy1wUHEtNWNUckFQU2JSMdIBYEFVX3lxTE1QajlVY2JtZl9JeklaSzV0Tk1kZXlYSlhJNENOMEJSLWZRZ2dLOHViQ3dHVWQ3Nk9DaWNiZ0phcEhuNHpnOXdBd2E2WmJ4UnhWNy1wUHEtNWNUckFQU2JSMQ?oc=5",
-    "title": "삼성·SK, 앤트로픽에 전략적 투자…삼성은 AI칩 수주(종합)",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aMkNtUVQ0aGFXUUlNd1AyOGJ0NmhfVTlPYlVwTTc5TXU2V0s3SXc2bjZPRG8zcVRMVGxORVVyTnA2aHFiVXh2QVFYMXlJaW1lU0xLdVpIN0U5VHPSAWBBVV95cUxQRmVLSEdySlBycWU4NkE4cUVDMHQ0T0lfNDQzcXcxWWd0YnMybk5oSzdWM0dxdDFtVXdfeUh1V2haangxVVJKaWRYbDJQY0lRUVNlSkg3Qk9pSVFSOUZSUzc?oc=5",
+    "title": "삼성전자, 앤트로픽 칩 수주 전망…파운드리 부활 시동",
     "summary": [
-      "삼성·SK, 앤트로픽에 전략적 투자…삼성은 AI칩 수주(종합) 연합뉴스."
+      "삼성전자, 앤트로픽 칩 수주 전망…파운드리 부활 시동 연합뉴스."
     ],
     "chips": [
-      "#AI"
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
@@ -260,34 +261,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "59일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n06ab1d3a",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "83일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEk?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nbc27bc5a",
     "category": "IT",
     "source": "연합뉴스",
@@ -316,14 +289,164 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nccd19e85",
+    "id": "n4e2059ec",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531002500007",
-    "title": "PSG, 아스널 승부차기로 꺾고 UCL 2연패…'우승 복' 터진 이강인",
+    "source": "네이트",
+    "time": "150일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NVk92cFNiSmFqeng3OXVyRXdJMHBnelI0VktCRUxrWXR3QjVvUzFzengxb21Zb1M0SHRpRDA4LVpTSWR5SGd4Q3k1U08zdlVQREdIdWRoWVlNNFgz?oc=5",
+    "title": "[2025 스포츠 10대 뉴스] 프로야구 1200만 관중, 김연경 '라스트 댄스'",
     "summary": [
-      "(서울=연합뉴스) 안홍석 기자 = 이강인이 뛰는 프랑스 프로축구 파리 생제르맹(PSG)이 아스널(잉글랜드)을 승부차기 혈투 끝에 물리치고 유럽 ..."
+      "[2025 스포츠 10대 뉴스] 프로야구 1200만 관중, 김연경 '라스트 댄스' 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n0ba94947",
+    "category": "스포츠",
+    "source": "이투데이",
+    "time": "287일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeFVaZ2NxaEJNU3lfakx0VkJhbU5ZbWs4UWl0QU5TaDhZVlFCUGlfVE9jWXNlSGxQSE1ZVGJfLWwtaDhYbWV1a004UmNqN3N2T0t3cA?oc=5",
+    "title": "'2025 KBO 프로야구' 오늘(16일)의 경기 일정",
+    "summary": [
+      "'2025 KBO 프로야구' 오늘(16일)의 경기 일정 이투데이."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n52ae5931",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260531002700072",
+    "title": "美 6조원 체납에 中도 지급 지연…유엔, 8월 현금고갈 위기",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 유엔 기본 재정의 42%를 분담하는 미국과 중국의 분담금 미납 및 지급 지연이 맞물리며 유엔이 오는 8월 심..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n501f10e0",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/31/2026053023365883840",
+    "title": "'2연속 UCL 결승 출전 실패' 이강인, 또 벤치에서 우승 지켜봤다... 유럽 트로피 '무려 11개째'",
+    "summary": [
+      "파리 생제르맹(PSG)이 유럽 정상을 지켜내며 역사적인 대업을 달성했지만, 대한민국 국가대표 미드필더 이강인(24)의 결승전 출전은 불발됐다.",
+      "지난해에 이어 올해도 결승전 피치를 밟지 못하면서 2시즌 연속 결승전 결장이라는 아쉬움을 삼켰다.",
+      "PSG는 31일(한국시간) 헝가리 부다페스트의 푸스카스 아레나에서 열린 유럽축구연맹(UEFA) 챔피언스리그(UCL) 결승전에서 승부차기 혈투 끝에(1-1·PSO 4-3) 아스널을 제압했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n71b90b88",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650273",
+    "title": "일요일 인천 낮 최고기온 29도…하늘 맑아",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 31일 인천은 낮 기온이 30도 가깝게 오르면서 덥겠다.",
+      "하늘은 서해상에서 동쪽으로 이동하는 고기압의 영향을 받아 대체로 맑겠다.",
+      "소도권기상청은 \"아침 최저기온은 17도, 낮 최고기온은 27도 내외의 분포를 보이겠다\"며 \"아침 사이 가시거리 1km 미만의 안개가 끼는 곳이 있겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf56045d3",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650256",
+    "title": "일요일 경기남부는 덥다, 한낮 31도까지…온열질환 주의",
+    "summary": [
+      "[수원=뉴시스] 박상욱 기자 = 5월의 마지막날이자 일요일인 31일 경기 남부지역은 낮 기온이 30도 안팎까지 오르는 등 덥겠다.",
+      "수도권기상청에 따르면 이날 아침 최저 기온은 수원 16도 등 13~17도, 낮 최고 기온은 수원 29도 등 26~31도로 평년과 비슷하거나 높겠다.",
+      "기상청 관계자는 \"당분간 낮 기온이 올라 온열 질환 발생 가능성이 높다\"며 \"야외 활동과 외출 시 건강 관리에 주의가 요구된다\"고 말했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n9a53abc4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650246",
+    "title": "일요일 제주 맑음, 한낮 27도 초여름…미세먼지는 '보통'",
+    "summary": [
+      "[제주=뉴시스] 우장호 기자 = 일요일인 31일 제주 지역은 대체로 맑은 날씨를 보이겠다.",
+      "제주기상청은 이날 \"제주도는 서해상에서 동쪽으로 이동하는 고기압의 영향을 받아 맑겠다\"고 예보했다.",
+      "아침 최저기온은 17~20도(평년 15~17도), 낮 최고기온은 27도 안팎(평년 22~24도)의 분포를 보일 것으로 전망된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd76fb33b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260530_0003650176",
+    "title": "지질학자, 위험한 직업?…\"영화 등장하면 3명 중 1명 결말 못 봐\" 이색 연구결과",
+    "summary": [
+      "[서울=뉴시스]정우영 인턴 기자 = 영화 속 지질학자들은 대부분 정의로운 인물로 그려지지만, 높은 확률로 결말을 보지 못하고 사망한다는 이색 연구 결과가 나왔다.",
+      "최근 스웨덴 예테보리대 연구팀은 공식 홈페이지에 지난 15년간 지질학자가 등장하는 장편 영화 141편을 추적·분석한 연구 결과를 발표했다.",
+      "이번 연구를 이끈 에릭 스투르켈 예테보리대 응용지구물리학 교수는 \"스크린 속에서 지질학자는 매우 위험한 직업\"이라며 \"영화에 나오는 지질학자 3명."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n497427da",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530062700001",
+    "title": "장동혁, 오늘 서울 돌며 투표 독려…송언석은 吳와 집중 유세",
+    "summary": [
+      "(서울=연합뉴스) 권희원 기자 = 국민의힘 장동혁 상임선거대책위원장은 6·3 지방선거를 사흘 앞둔 31일 서울을 돌며 투표 독려에 나선다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4d8dab05",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260530059600001",
+    "title": "정청래, 오늘 전남 찍고 중원으로…한병도는 경기 표심 공략",
+    "summary": [
+      "(서울=연합뉴스) 최평천 기자 = 더불어민주당 정청래 총괄상임선거대책위원장은 6·3 지방선거 및 국회의원 재·보궐선거를 사흘 앞둔 31일 전남과..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n43529de8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260531002300099",
+    "title": "\"우크라 드론, 자포리자 원전 공격\"…러-우 공격 지속",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 러시아가 점령하고 있는 자포리자 원자력발전소가 우크라이나의 드론 공격을 받았다고 러시아 국영 원자력기..."
     ],
     "chips": [
       "#뉴스"
@@ -333,7 +456,7 @@ window.NEWS_DB = [
     "id": "n28006b9e",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/31/2026053023365410843",
     "title": "'구단 사상 최초' PSG 2연속 챔피언스리그 우승, 아스널 승부차기 끝에 제압... '이강인 출전 불발'",
     "summary": [
@@ -346,58 +469,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3eb65479",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003650215",
-    "title": "초고속 인터넷 도입 '26년' 됐는데…와이파이 찾아 캠핑장 전전하는 英 마을",
-    "summary": [
-      "[서울=뉴시스]정우영 인턴 기자 = 영국에 초고속 인터넷이 도입된 지 26년이 지났지만, 여전히 인터넷이 터지지 않아 고립된 한 시골 마을의 사연이 전해졌다.",
-      "29일(현지시간) 영국 데일리메일에 따르면 영국 햄프셔주 뉴포레스트 국립공원에 위치한 인구 500명 규모의 마을 '갓스힐(Godshill)' 주민들은 무려 14년째 인터넷 설치를 요구하며 정부와 싸움을 벌이고 있다.",
-      "영국은 지난 2000년 초고속 인터넷을 처음 도입해 현재 전체 가구의 9."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n793fb2e1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260530_0003650345",
-    "title": "대구·경북, 맑고 무더위 이어져…아침 13도·한낮 33도",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 일요일인 31일 대구와 경상북도는 대체로 맑고 더울 것으로 예상된다.",
-      "대구지방기상청은 이날 \"대구와 경북남부를 중심으로 최고 체감온도가 31도 안팎으로 올라 덥겠다\"고 예보했다.",
-      "아침 최저기온은 13~20도(평년 9~16도), 낮 최고기온은 29~33도(평년 22~28도)로 예측된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n11651abd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650407",
-    "title": "美日국방 회담, 미사일 공동개발 합의…난세이 지역 방위 강화도",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 미국과 일본 국방장관이 30일(현지 시간) 양자회담을 갖고 미사일 공동 개발 및 생산 방안 등을 논의했다.",
-      "일본 니혼게이자이신문(닛케이), 지지통신 등에 따르면 고이즈미 신지로 방위상은 이날 싱가포르에서 열린 아시아 안보회의(샹그릴라 대화)에서 피트 헤그세스 미 국방부 장관과 약 1시간 동안 회담했다.",
-      "양국은 중거리 공대공 미사일(AMRAAM)과 신형 요격미사일 'SM3 블록2A '등의 공동 개발을 가속화하기로 했."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n0cbd50ba",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "55분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/31/2026053014004442292",
     "title": "'실책→문책성 교체' 19세 유격수, 36세 '주장' 위로에 참았던 눈물 '펑펑' 쏟았다",
     "summary": [
@@ -410,40 +485,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd2b04a93",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531002000075",
-    "title": "美건국 250주년 공연, 가수들 보이콧…트럼프 \"내가 대신하겠다\"",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 건국 250주년을 기념해 워싱턴 DC에서 열리는 '프리덤 250' 콘서트가 도널드 트럼프 행정부..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ec7dfbc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650406",
-    "title": "오만 \"호르무즈 해협 서쪽서 기뢰 의심 부유물 발견\"",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 오만 해상보안센터(MSC)가 30일(현지 시간) 호르무즈 해협 내 자국 영해에서 기뢰로 의심되는 부유물을 발견했다며 주의를 당부했다.",
-      "MSC는 소셜미디어(SNS) 엑스(X)를 통해 \"호르무즈 해협 서쪽 오만 영해에서 기뢰로 의심되는 부유물을 목격했다\"며 \"모든 선원과 어부, 선박은 항해 시 각별한 주의를 기울여 달라\"고 밝혔다.",
-      "이어 \"모든 해상 이용자는 의심스러운 물체로부터 안전거리를 유지하고 즉시 관련 당국에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n95527f06",
     "category": "경제",
     "source": "조선일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.chosun.com/culture-life/culture_general/2026/05/31/4NY6GJQBZVB2BMYD5LWZAT67YM/",
     "title": "자장면 35원, 설농탕 30원… 물가가 그랬던 시절",
     "summary": [
@@ -457,7 +502,7 @@ window.NEWS_DB = [
     "id": "nd377b417",
     "category": "사회",
     "source": "조선일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.chosun.com/culture-life/2026/05/31/AIZOA7W7P5EOVBKS4KKYXXC4ZE/",
     "title": "100년 전 윤심덕과 김영환이 노래하던 도쿄음악학교 주악당을 가다",
     "summary": [
@@ -473,7 +518,7 @@ window.NEWS_DB = [
     "id": "n858cdd59",
     "category": "사회",
     "source": "조선일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.chosun.com/culture-life/book/2026/05/31/XYDWEV2PW5GPJG55URRED6ETGU/",
     "title": "“스토리텔링은 인간이 만든 연약하고도 유일한 방패”",
     "summary": [
@@ -487,7 +532,7 @@ window.NEWS_DB = [
     "id": "ncafc26a4",
     "category": "사회",
     "source": "조선일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.chosun.com/politics/politics_general/2026/05/31/DKU54QAUXRGFDOJQROSPPSDS6A/",
     "title": "투표율 낮아야 좋다던 국힘 “청년들 제발 투표하세요”",
     "summary": [
@@ -498,24 +543,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3c2e9d48",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531001900071",
-    "title": "트럼프, 케네디센터 판결 거듭 비난…\"판사 아내 급진좌파 인사\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 30일(현지시간) 워싱턴 DC의 대표적 공연장인 케네디센터에 자신의 이름을 붙..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n5e1a25e2",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.mt.co.kr/sports/2026/05/31/2026053023234334856",
     "title": "'대단하네' LG 마침내 단독 1위 등극!→염갈량이 곧바로 떠올린 건... 그리고 팬들 향한 감사 인사까지",
     "summary": [
@@ -528,41 +559,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naa6c7309",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "3시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531000300082",
-    "title": "\"영국 축구 스타 스털링, 약물운전 혐의 체포\"",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 한때 잉글랜드 축구대표팀 측면 공격을 책임졌던 래힘 스털링(31·페예노르트)이 약물을 복용하고 운전한 혐의..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8e8d3378",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/05/31/2026053014005899565",
-    "title": "'ML 50홈런' 키움 새 외인, 대박 냄새 '솔솔' 데뷔전부터 멀티히트 폭발! 득점권 타율 1.000",
-    "summary": [
-      "키움 히어로즈 새 외국인 타자 케스턴 히우라(30)가 강렬한 첫인상을 남기며 KBO 리그 무대에 화려하게 데뷔했다.",
-      "무엇보다 득점권 상황서 안타를 쳤다는 것이 긍정적이었다.",
-      "키움은 30일 서울 고척스카이돔에서 열린 '2026 신한 SOL KBO리그' KT 위즈와의 홈경기를 앞두고 히우라를 전격 1군에 등록했다."
-    ],
-    "chips": [
-      "#KBO",
-      "#취업"
-    ]
-  },
-  {
     "id": "n53befc5a",
     "category": "부동산",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/202605308337i",
     "title": "삼성물산, 신반포 19·25차 재건축 수주...정비사업 '3조 클럽' 진입",
     "summary": [
@@ -590,7 +590,7 @@ window.NEWS_DB = [
     "id": "n1bb32ca0",
     "category": "사회",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260530/134021255/1",
     "title": "美재무 “호르무즈 통행료 관계없이…이란과 거래 금지”",
     "summary": [
@@ -601,10 +601,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n49cfb7ac",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "6시간 전",
+    "url": "https://view.asiae.co.kr/article/2026053023004955926",
+    "title": "이상일 후보, 용인 전역 누비며 막판 총력전…\"시민 곁에서 미래 지키겠다\"",
+    "summary": [
+      "이상일 용인특례시장 후보(국민의힘)가 6·3 지방선거를 앞둔 마지막 주말, 용인 전역을 누비며 민심 잡기에 총력을 기울였다.",
+      "수지구와 처인구, 기흥구를 잇달아 방문해 시민들과 직접 소통한 데 이어 어린이 행사에도 참석하며 생활 밀착형 행보를 이어갔다.",
+      "이 후보는 30일 수지구 수지체육공원 일대에서 거리 인사를 하며 시민들과 만났다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nb882ef6c",
     "category": "사회",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260530/134021252/1",
     "title": "이재명 대통령 ‘투표지 노출’ 논란에…중앙선관위원장도 고발당해",
     "summary": [
@@ -612,22 +628,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#정치"
-    ]
-  },
-  {
-    "id": "n1dcc6f1b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260530/134021247/1",
-    "title": "1226회 로또 1등 ‘4, 6, 13, 17, 26, 28’…보너스 ‘41’",
-    "summary": [
-      "30일 제1225회 동행복권 로또 추첨 결과 4, 6, 13, 17, 26, 28이 1등 당첨 번호로 결정됐다.",
-      "2등 보너스 번호는 41이다.6개 번호를 모두 맞춘 1등 당첨자는 10명이다.",
-      "각각 28억1523만113원을 받는다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -637,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
