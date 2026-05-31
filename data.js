@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-31 16:24:33
+// 마지막 업데이트: 2026-05-31 17:22:46
 window.NEWS_DB = [
   {
     "id": "nf215ab24",
     "category": "IT",
     "source": "조선일보",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjYtTk5raXNidl9HMXoxSmxvZXZJTDQ0anpHaUtRSTR2V3U4OEE3MkJsS2NOdGV4NTVkM19jVlFEclJ2ZVhRLXZ2MjdrV1dsbHlOZmJxMDA1LVhRWWRTUEhMQTI5YWNqOXRCOUM4T1NUSW45SXJkSWFCSWFsSWE4Nk5FNA?oc=5",
     "title": "엔비디아, PC 칩까지...GPU뿐 아니라 CPU·소비자 시장까지 독식 야심",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "na0f523e8",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
     "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nc6196063",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvUkVCaGE5TFlpY01VMzFpNEJFamk2NXhNZ29EQnVHQllBRnlnT1E1V0p5SGxBV19lVDQ1dFM5RDlPak50aTM5b0N2TDM?oc=5",
     "title": "삼성·SK, 美앤트로픽에 조단위 투자…HBM 이어 AI칩 협력",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n8e14885d",
     "category": "IT",
     "source": "부산일보",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81UlJoUzdvUGppajNlU2ZudW1MS1J6R19oMGZqZk9sWEs2eGxBbjhsQ3E0aE5yZ1lsSEJTVWtTazlUQ3FfbXVBXzBnVGxXRUtZaXM5UkNYRGdGdmF0bGhYVzdCTFI3LTd4SzBaY0NFYkdwMXUw?oc=5",
     "title": "‘제2의 깐부회동’ 예고에 국내 관련 업계 ‘들썩’",
     "summary": [
@@ -242,6 +242,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n75c23649",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "32일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -284,20 +298,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8988be77",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "97일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -313,25 +313,195 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0ad905c7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/01/GE3TSNJZGUYWGZRSMU2DKMDFGQ/",
-    "title": "'홍명보호 첫 상대' 체코, 코소보 2-1 제압...한국전 앞두고 예열 완료",
+    "id": "n133d852e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260601000900087",
+    "title": "페루 대선 결선투표 일주일 앞…좌·우 후보 '박빙'",
     "summary": [
-      "[OSEN=이인환 기자] 한국의 월드컵 조별리그 첫 상대 체코가 코소보를 꺾고 분위기를 끌어올렸다.체코는 31일(한국시간) 체코 프라하의 에페트 아레나에서 열린 코소보와 평가전에서 2-1로 승리했다.체코는 2026 북중미 월드컵 A조에서 한국, 멕시코, 남아프리카공화국과 한 조에 속해 있다.",
-      "한국은 오는 11일 열리는 멕세키 과달라하라에서 열리는 조별리그."
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 우파 후지모리의 3전 4기냐, 처음 도전하는 좌파 산체스의 집권이냐."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n367347a4",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260601000800072",
+    "title": "마이크론 '1조달러' 진입에 美서도 AI 거품논란 재점화",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 삼성전자, SK하이닉스 주가가 가파른 랠리를 지속하는 가운데 미국에서도 경쟁사인 마이크론 테크놀로지가 이례적..."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n379a9e6b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/01/GAYGIZRRG44TIZTEMYZTOMTBGE/",
+    "title": "'월드컵 우승 도전' 자신감? 日, 본선 전까지 연습경기 안한다…모리야스 감독이 밝힌 이유는",
+    "summary": [
+      "[스포츠조선 박상경 기자] 월드컵 우승을 목표로 내건 팀의 자신감일까.",
+      "일본 대표팀이 북중미 현지에서 연습 경기 없이 2026 북중미월드컵 본선을 준비한다고 스포츠호치가 31일 전했다.",
+      "모리야스 하지메 일본 대표팀 감독은 이날 도쿄국립경기장에서 자긴 아이슬란드와의 친선 경기(1대0 승)를 마친 뒤 가진 기자회견에서 \"피지컬 코치를 중심으로 스태프 간 세심한."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3d5a37a8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/01/MU4TKZDBGFQTGNZUGBSDSMDCGQ/",
+    "title": "\"1년 남았지만 구단과 얘기하고 싶다\" 나폴리에서 즐겁지 않은 '맨시티 레전드' 데 브라위너 '작별' 암시..\"(감독) 말대로 된 게 없다\"",
+    "summary": [
+      "[스포츠조선 노주환 기자]벨기에 국가대표 미드필더 케빈 데 브라위너(나폴리)가 나폴리와의 작별을 암시하는 코멘트를 했다.",
+      "또 그는 최근 나폴리와 결별한 안토니오 콘테 감독에 대해 불만을 공개적으로 드러냈다.",
+      "콘테 감독은 계약 기간을 1년 남기고 최근 상호 합의로 나폴리를 먼저 떠났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n22f015dd",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026060102095002911",
+    "title": "美 재무장관 \"호르무즈 개방·HEU 확보·핵보유 금지가 임무완수\"",
+    "summary": [
+      "스콧 베선트 미국 재무부 장관은 31일(현지시간) 이란과의 종전 협상과 관련해 호르무즈 해협 개방, 고농축 우라늄(HEU) 확보, 이란의 핵무기 보유 금지를 미국의 핵심 목표로 재확인했다.",
+      "베선트 장관은 이날 폭스뉴스 인터뷰에서 \"임무 완수(finish the job)란 호르무즈 해협이 개방되게 하고, 우리가 고농축 우라늄을 확보하며, 이란이 핵무기를 갖지 않게 하는 것을 의미한다\"고 밝혔다.",
+      "이는 도널드 트럼프 미국 대통령이 이."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n050e4b32",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260601_0003650932",
+    "title": "이란 정부 \"전쟁 위협 여전\"…군 경계태세 유지 강조",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 이란 정부가 미국과의 종전협상이 진행되고 있음에도 전쟁 위험이 완전히 해소되지 않았다며 군이 여전히 경계태세를 유지하고 있다고 밝혔다.",
+      "31일(현지시간) 이란 국영 IRNA 통신에 따르면 파테메 모하제라니 정부 대변인은 이날 국영 TV 프로그램에 출연해 \"전쟁의 그림자는 여전히 존재하며 우리 군은 여전히 방아쇠 위에 손을 올려놓고 있다\"고 말했다.",
+      "모하제라니 대변인은 현재 미국과 진행 중인 종전협상과 호르무즈 해."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n26b869a0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650737",
+    "title": "중국, 저출산 해소 위해 '콘돔 기업 때리기'…시장 1위 '듀렉스' 직격탄",
+    "summary": [
+      "[서울=뉴시스]서영은 인턴 기자 = 중국 정부가 출산 장려 정책을 펼치면서, 세계 최대 콘돔 브랜드인 '듀렉스(Durex)’가 현지 시장에서 큰 타격을 입고 있다.",
+      "수십 년간 유지되어 온 세제 혜택이 폐지된 데다 온라인 마케팅 규제까지 전방위로 강화된 영향이다.",
+      "지난달 30일(현지시간) 영국 파이낸셜타임스(FT)는 투자은행 제프리스의 분석을 인용해 영국 생활용품 기업 레킷 산하의 콘돔 브랜드 듀렉스의 올해 1분기 중국 내 매출이 전년 동기 대비."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n7f9843d9",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/06/01/HFSGCOBXGJTDAMJVGU3GGNZQHA/",
+    "title": "월러 연준 이사 “스테이블코인 확산은 美 통화정책 영향력 강화”",
+    "summary": [
+      "스테이블코인(Stablecoin·달러 등 법정 화폐나 특정 자산의 가치에 연동되도록 설계된 가상 자산)의 전 세계적 확산이 미국 중앙은행인 연방준비제도(Fed·Federal Reserve System)의 통화정책 영향력을 강화할 수 있다는 연준 고위 인사의 진단이 제기됐다.",
+      "31일(현지 시각) 크리스토퍼 월러 연준 이사는 크로아티아 두브로브니크에서 열린 콘."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n8d91074a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "37분 전",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650789",
+    "title": "\"체격 커서 못 타요\" 롤러코스터 거부당한 140㎏ 엄마…1년 만에 63㎏ 감량",
+    "summary": [
+      "[서울=뉴시스]서영은 인턴 기자 = 놀이공원에서 \"체격이 너무 커 탈 수 없다\"며 롤러코스터 탑승을 거부당했던 세 아이의 엄마가 1년 만에 무려 63㎏(140파운드)을 감량하며 제2의 인생을 찾은 사연이 화제다.",
+      "최근 미국 연예 매체 피플은 영국 타인위어주 선덜랜드에 거주하는 에스테틱숍 운영자 다니엘 맥길(36)의 드라마틱한 다이어트 성공기를 소개했다.",
+      "한때 체중이 140㎏(308파운드)에 육박했던 다니엘은 지난 2016년 깊은 유대감을 가졌던."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n228e9600",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "53분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/01/MEZTAMBVGEYDSMBSGIYGEMBUMM/",
+    "title": "욕이 절로 나왔다, 평생 수입 10% 갖다 바쳐야 하는데…야구라도 잘해야지, 드디어 첫 홈런 \"푹 잘 수 있겠네\"",
+    "summary": [
+      "[OSEN=이상학 객원기자] 그래도 5월이 끝나기 전에 나왔다.",
+      "극심한 홈런 가뭄에 시달렸던 ‘약물 홈런왕’ 페르난도 타티스 주니어(27·샌디에이고 파드리스)가 마침내 손맛을 봤다.",
+      "타티스 주니어는 지난달 31일(이하 한국시간) 미국 워싱턴 D.C."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nefe0102e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260601000600009",
+    "title": "월드컵열기 달아오르는 아르헨서 '짝퉁' 대표팀 유니폼 판매↑",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = \"가격 때문에 정품 유니폼은 사기 어려워서 도매 시장에 와서 짝퉁 유니폼을 장만했다.\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63f8984b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260601000500071",
+    "title": "트럼프 \"백악관 연회장에 워싱턴 지킬 드론시설…소송 기각돼야\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 31일(현지시간) 백악관 연회장 건설을 막기 위해 제기된 소송과 관련해 연회장..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n46ca9611",
     "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260601_0003650931",
     "title": "이란 협상대표 \"실질적 성과 없으면 美와 합의 없다\"",
     "summary": [
@@ -344,74 +514,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb31b97b1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/01/GM3TGNBVGQ2DEN3CMRTDOZJVME/",
-    "title": "이 무슨 잔인한 운명의 장난이냐...12연패와 8연패 팀이 만난다, 설마 또 스윕이 나온다면",
-    "summary": [
-      "[스포츠조선 김용 기자] 이 무슨 잔인한 운명의 장난이냐.",
-      "설마 이 대결에서 한 팀의 일방적 결과가 나올까.",
-      "SSG 랜더스와 키움 히어로즈와 관계된 모든 사람들은 최근 죽을 맛일 것이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n11ce4752",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/01/MJSWKNRYMEYTEZJTGNRTSNJYGM/",
-    "title": "김하성 결국 '300억 벤치맨' 전락? 경쟁자 펄펄…ATL 감독 의미심장 발언 \"이렇게 치면 못 빼지\"",
-    "summary": [
-      "[스포츠조선 박상경 기자] 결국 김하성(애틀랜타 브레이브스)의 시간은 여기까지인 걸까.",
-      "미국 스포팅뉴스는 31일(한국시각) '애틀랜타의 월트 와이스 감독이 최근 호르헤 마테오의 활약을 거론하며 김하성의 미래에 대한 의미심장한 발언을 했다'고 전했다.",
-      "와이스 감독은 이날 그레이트 아메리칸 볼파크에서 펼쳐진 신시내티 레즈전에서 5대2로 이긴 뒤 마테오의 최근."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n730b781e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/01/MNSDMZTCMNRWIZRSMFTGEOLGMI/",
-    "title": "롯데 선발 ERA '1등→4등'까지 내려왔다.. → 방망이 도대체 언제 터져요",
-    "summary": [
-      "[스포츠조선 한동훈 기자] 최후의 보루가 흔들린다.",
-      "선발투수가 가장 중요하다지만 선발투수만 가지고 버티는 것도 한계가 있다.",
-      "결국 타선이 터져야 투수들도 여유가 생긴다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1c2360ce",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260529_0003648433",
-    "title": "\"살빼려 주사 맞았는데 심한 복통\"…'이 질환' 주의",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 위고비와 마운자로는 식후 우리 몸에서 분비되는 장 호르몬을 모방한 약물이다.",
-      "위고비는 GLP-1 단일 수용체에 작용하며, 마운자로는 GLP-1과 GIP 두 가지 수용체에 동시에 작용한다.",
-      "이들 호르몬은 뇌의 시상하부에 영향을 미쳐 포만감을 높이고 식욕을 억제한다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "n424cf6eb",
     "category": "사회",
     "source": "머니투데이",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/06/01/2026053121260558251",
     "title": "'충격' 회장도 포기했던 문제아, 이번엔 2살 친딸 데리고 도주 행각 \"이런 일 한두 번도 아니고...\"",
     "summary": [
@@ -424,40 +530,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf026ed3c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650927",
-    "title": "IAEA \"자포리자 원전 터빈 건물 드론 공격 피해 확인\"",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 국제원자력기구(IAEA)가 최근 드론 공격을 받은 우크라이나 자포리자 원자력발전소 내 터빈 건물에서 피해 흔적을 확인했다고 밝혔다.",
-      "다만 방사능 수치 상승 등 방사선 누출 징후는 발견되지 않은 것으로 전해졌다.",
-      "지난 31일(현지시간) IAEA는 성명을 통해 \"현장에 파견된 IAEA 조사팀이 이날 오전 자포리자 원전 내 터빈 건물 외부에서 피해 흔적을 확인했다\"고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a00773f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601000300071",
-    "title": "美재무 \"호르무즈 개방·HEU확보·핵보유 금지 이뤄야 임무완수\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 스콧 베선트 미국 재무부 장관은 31일(현지시간) 이란의 종전 협상에서 미국의 요구 조건과 관련해 호르무즈..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n06c1a805",
     "category": "사회",
     "source": "동아일보",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260601/134026241/1",
     "title": "씨야 응원한 뷔 “선배님들 다시 뭉쳐…정말 팬이다”",
     "summary": [
@@ -472,7 +548,7 @@ window.NEWS_DB = [
     "id": "n655f5f46",
     "category": "사회",
     "source": "동아일보",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260601/134026238/1",
     "title": "신인 아이돌, ‘일베 의혹’ 제기에 “사실 아냐”",
     "summary": [
@@ -486,7 +562,7 @@ window.NEWS_DB = [
     "id": "nb24f426c",
     "category": "부동산",
     "source": "동아일보",
-    "time": "54분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260531/134024807/2",
     "title": "경기 ‘삼전닉스 셔세권’ 집값, 서울보다 더 올랐다",
     "summary": [
@@ -505,7 +581,7 @@ window.NEWS_DB = [
     "id": "nbca288d0",
     "category": "IT",
     "source": "동아일보",
-    "time": "54분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260531/134024825/2",
     "title": "“AI 프런티어 모델 도전… 美-中과 같은 수준으로”",
     "summary": [
@@ -521,7 +597,7 @@ window.NEWS_DB = [
     "id": "n967ddb79",
     "category": "경제",
     "source": "머니투데이",
-    "time": "54분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/culture/2026/06/01/2026053123051168178",
     "title": "'연장 끝 우승' 호아킨 니만, \"어릴 때부터 꿈꿔온 장면\"... 디섐보의 크러셔스 단체전 10승 [LIV 골프 코리아]",
     "summary": [
@@ -534,40 +610,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n38eca7b2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601000200009",
-    "title": "94세 아르헨 노벨평화상 수상자, 밀레이 정부 규탄 단식 예고",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = \"우리는 굶주림을 고발하기 위해 단식하고, 생명을 지키기 위해 모이며, 희망을 지탱하기 위해 기도..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0728a6bd",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650776",
-    "title": "'떡볶이에 아이스크림까지' 김연경 겪은 혈당 스파이크…예방법은?",
-    "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 배구 국가대표 출신 김연경이 '혈당 스파이크'를 언급해 눈길을 끌었다.",
-      "혈당 스파이크를 예방하기 위해서 피해야 할 음식이 몇 가지 있다.",
-      "지난달 28일 배구 국가대표 출신 김연경이 운영하는 유튜브 '식빵언니 김연경'에는 '스파이크 때림."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n62d63818",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/06/01/2026053122101227567",
     "title": "이택근 작심발언 \"히어로즈는 대체 무슨 야구를 하고 싶은 것인가\"",
     "summary": [
@@ -583,7 +629,7 @@ window.NEWS_DB = [
     "id": "ncaf6444a",
     "category": "IT",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202605319315i",
     "title": "AI 챗봇은 친구인가, 상담자인가 [강민주의 디지털 법률 Insight]",
     "summary": [
@@ -593,49 +639,6 @@ window.NEWS_DB = [
       "#AI",
       "#채용"
     ]
-  },
-  {
-    "id": "nf2a63a76",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2984a35b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531058200087",
-    "title": "콜롬비아 대선 투표, 전국 1만3천개 투표소서 시작",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 차기 콜롬비아 대통령을 뽑는 투표가 31일(현지시간) 전국에서 일제히 시작됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncd5a6f51",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531057500072",
-    "title": "월러 연준이사 \"스테이블코인, 美통화정책 영향력 확대할 것\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 스테이블코인의 전 세계적 확산이 미국 중앙은행인 연방준비제도(Fed·연준)의 통화정책 영향력을 증폭시킬 수 ..."
-    ],
-    "chips": [
-      "#정책"
-    ]
   }
 ];
 
@@ -644,14 +647,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
