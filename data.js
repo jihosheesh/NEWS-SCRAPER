@@ -1,11 +1,41 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-31 09:58:15
+// 마지막 업데이트: 2026-05-31 10:45:14
 window.NEWS_DB = [
+  {
+    "id": "nf215ab24",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjYtTk5raXNidl9HMXoxSmxvZXZJTDQ0anpHaUtRSTR2V3U4OEE3MkJsS2NOdGV4NTVkM19jVlFEclJ2ZVhRLXZ2MjdrV1dsbHlOZmJxMDA1LVhRWWRTUEhMQTI5YWNqOXRCOUM4T1NUSW45SXJkSWFCSWFsSWE4Nk5FNA?oc=5",
+    "title": "엔비디아, PC 칩까지...GPU뿐 아니라 CPU·소비자 시장까지 독식 야심",
+    "summary": [
+      "엔비디아, PC 칩까지...GPU뿐 아니라 CPU·소비자 시장까지 독식 야심 조선일보."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n20a3c251",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RMUNkcVRLTHNRYXh2U1VHOTlWNEhkc2U1UW9UN19iaXJlS05ldlNXMFotUHpNTDd1aUJVNE1QMHFvY3dmUzR3bnBHVVZfS1RQc2hqbWVWMW5aUdIBVEFVX3lxTE5MVGdFTG0xcHNVTk5RMEJ1RmpMSGtuLW5GLTZPbWlGTjZOZFJBWHl5eU5lNTN2MjhYMV91Qi1qMXE0NXE3XzRCdFNUUEVNczVVUXNURw?oc=5",
+    "title": "\"엔비디아도 대만 없인 안 된다\"…AI 반도체 목줄 쥔 노하우",
+    "summary": [
+      "\"엔비디아도 대만 없인 안 된다\"…AI 반도체 목줄 쥔 노하우 한국경제."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "na0f523e8",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
     "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
     "summary": [
@@ -20,7 +50,7 @@ window.NEWS_DB = [
     "id": "nc6196063",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvUkVCaGE5TFlpY01VMzFpNEJFamk2NXhNZ29EQnVHQllBRnlnT1E1V0p5SGxBV19lVDQ1dFM5RDlPak50aTM5b0N2TDM?oc=5",
     "title": "삼성·SK, 美앤트로픽에 조단위 투자…HBM 이어 AI칩 협력",
     "summary": [
@@ -35,7 +65,7 @@ window.NEWS_DB = [
     "id": "n8e14885d",
     "category": "IT",
     "source": "부산일보",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81UlJoUzdvUGppajNlU2ZudW1MS1J6R19oMGZqZk9sWEs2eGxBbjhsQ3E0aE5yZ1lsSEJTVWtTazlUQ3FfbXVBXzBnVGxXRUtZaXM5UkNYRGdGdmF0bGhYVzdCTFI3LTd4SzBaY0NFYkdwMXUw?oc=5",
     "title": "‘제2의 깐부회동’ 예고에 국내 관련 업계 ‘들썩’",
     "summary": [
@@ -46,25 +76,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nedc48f06",
-    "category": "IT",
-    "source": "IT조선",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zekNEVEFpVVlOQ0N1aHp5a0xxZmllYWZNV2NZM2xIRm1mdlJOV1VpeVNuM0lvUkRJZ0FGYkFyb1lZZVFNTWVHWlhvUFd4bllESVZMdEhLQThKd1M1TmsyeTNPTkR5UUNveE1zSkRNRDDSAXRBVV95cUxNQVotbHRfY05xV1FqcnZNaXNsRDNaZ2xUdEhzRlh2bzdsVk5YcDZPV3JuU2ZQeC1fYkZSdTlOZElsQ2JjOVcyTEdaR2c5by1zS3JMWlo0WVRJU3M1Skl4M0dvQzA4ZUdkdzU1LUZUbUFmR0JTTg?oc=5",
-    "title": "‘피지컬 AI·차세대 기판’ 장착한 LG, 엔비디아 동맹 전면에",
-    "summary": [
-      "‘피지컬 AI·차세대 기판’ 장착한 LG, 엔비디아 동맹 전면에 IT조선."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "ne2208e3a",
     "category": "부동산",
     "source": "프라임경제",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc0UzWmJweS1lNEZoWnc2WEtHbFhzcjZLWmlXLWJ3ZlUwV2xDUm02a1FiajU0NFFjcGh6NGRuUngtUXNuRnBSMWdaR3haLXowWWloeXZuS3RER2F6dTNBOXdrNzF1TE9ya2F2dQ?oc=5",
     "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
     "summary": [
@@ -107,6 +122,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "summary": [
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "n548bb3f9",
     "category": "경제",
     "source": "연합뉴스",
@@ -132,22 +161,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n013a12c3",
-    "category": "IT",
-    "source": "경향신문",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNm9wcXdDSXVlTkNGR2FkWTZSbkcwa0FhRFVKNVBJbzRRSi1hODVueV9lUW14VnQxOFZWa1pVQ193VGc3SWlYSDY3VGIwa200OHJzTFJJUnNhZ9IBX0FVX3lxTE4zRzdOVjdoTXZ4NGNwWl9GR1dmbDBuTWlIRXZRUDRWeks1RzVQLUprN3phM01ZMy1OZnUydHpVUHJ6QlFVT081OE03YjlNOE9wUzdsdjhGdGw5d2N4VjN3?oc=5",
-    "title": "엔비디아도 1500억달러 투자…‘AI 반도체 공급망 허브’ 입지 굳히는 대만",
-    "summary": [
-      "엔비디아도 1500억달러 투자…‘AI 반도체 공급망 허브’ 입지 굳히는 대만 경향신문."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -299,339 +312,330 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "108일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n3a229352",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026053118555304073",
-    "title": "송영한, 아쉽다 톱 10 진입…개인 최고 성적 공동 12위",
-    "summary": [
-      "송영한이 아쉽게 톱 10에 진입하지 못했다.",
-      "그는 31일 부산 아시아드 컨트리클럽(파70)에서 열린 LIV 골프 코리아(총상금 3000만달러) 4라운드에서 버디 5개와 보기 2개를 엮어 3언더파 67타를 작성했다.",
-      "최종 합계 6언더파 274타를 기록한 송영한은 브랜든 그레이스(남아공) 등과 함께 공동 12위로 대회를 마쳤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0cc09140",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650850",
-    "title": "[속보] 강훈식, 31일 캐나다 출국…\"에너지·자원, 공급망, 첨단산업 협력 성과 최선\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3bb484e3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650844",
-    "title": "[6·3예천]윤동춘 \"국립의대 신설·종합병원 유치\"…5대 약속 제시",
-    "summary": [
-      "[예천=뉴시스] 김진호 기자 = 윤동춘 더불어민주당 경북 예천군수 후보가 의료·복지·청년정책 등을 담은 '5대 약속'을 발표하며 지지를 호소했다.",
-      "윤 후보는 31일 선거운동 메시지를 통해 \"군민의 생명과 건강은 당연한 권리\"라며 국립 의과대학 신설과 종합병원 유치를 추진하겠다고 밝혔다.",
-      "그는 \"치료를 위해 먼 지역으로 이동하지 않아도 되는 의료환경을 만들고 군민 건강을 책임지는 기반을 구축하겠다\"고 말했다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치",
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n8fc06a7d",
+    "id": "ne0e35cb8",
     "category": "사회",
     "source": "뉴시스",
     "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650848",
-    "title": "[6·3전북]김관영 도지사후보 \"불법선거 감시단 대폭 강화 운영\"",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650865",
+    "title": "정청래, 사전투표율 최고치에 \"민주당에 유리하다 생각\"",
     "summary": [
-      "[전주=뉴시스] 김종효 기자 = 제9회 전국동시지방선거 전북도지사선거에 출마한 무소속 김관영 후보가 불법선거행위 감시단을 대폭 보강해 선거일인 내달 3일까지 운영한다고 31일 밝혔다.",
-      "김 후보 선거대책위원회는 \"최근 민주당 도당의 엽기적 일탈행위가 상식을 초월하고 있다는 판단 아래 예측 불가한 불법행위가 자행될 수도 있다는 정보를 입수했기 때문\"이라고 감시단 강화 운영의 이유를 전했다.",
-      "이에 따라 선대위는 선거법 담당 전문 변호사를 단장으로 1."
+      "[서울=뉴시스] 이창환 기자 = 정청래 더불어민주당 총괄상임선거대책위원장은 31일 6·3 지방선거 사전투표율이 역대 최고인 23.51%를 기록한 데 대해 \"지금 대한민국의 가장 큰 시대정신은 이재명 정부 성공 아니겠나.",
+      "이재명 정부에 힘을 실어줘야되겠다고 생각하는 분들이 대거 투표장에 나왔다고 생각하고 민주당에 불리하지 않다\"고 했다.",
+      "정 위원장은 이날 오후 신용한 충북지사·하유정 충북 보은군수 후보 지원 유세 이후 기자들과 만나 '지방선거 사."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n3b074c01",
+    "id": "nc178f21d",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650847",
-    "title": "[6·3강원] [D-2] 우상호·김진태 후보…6.1일 오전 홍천 유세 “격돌”",
-    "summary": [
-      "[춘천=뉴시스]서백 기자 = 6·3지선 D-3일을 앞둔 31일 더불어민주당 우상호 강원도지사 후보는 고성군에서, 국민의힘 김진태 강원특별자치도지사 후보는 춘천과 강릉에서 영동권 표심잡기에 나선 가운데 내일 오전 두 호보 모두 홍천 유세에서 치열한 선거전을 예고하고 있다.",
-      "이날 더불어민주당 우상호 강원도지사 후보는 고성 토성면 하나로마트 앞을 시작으로 연이어 고성 일대를 돌며 군민들에게 지지를 호소했다.",
-      "우 후보는 이날 고성 발전 구상으로 세 가."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n61a85319",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/05/31/ME4TSN3FGM2TEMJRMJSDCNJUGQ/",
-    "title": "'금맥 또 터졌다' 안세영, 싱가포르오픈 2년만에 정상 탈환…'일본 라이벌' 야마구치 완파 '3연속 金·金·金', 상대전적 4연승",
-    "summary": [
-      "[스포츠조선 최만식 기자]'셔틀콕 여제' 안세영(24·삼성생명)이 싱가포르오픈 정상을 2년 만에 탈환했다.",
-      "아시아개인선수권대회(4월), 제31회 세계여자단체선수권대회(우버컵·5월)에 이어 국제대회 3회 연속 우승이고, 올 시즌 들어 6번째 금메달이다.",
-      "세계랭킹 1위 안세영은 31일 싱가포르 인도어 스타디움에서 벌어진 '2026 싱가포르오픈배드민턴선수권대회(."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n25607694",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/politics/2026/05/31/2026053117210767926",
-    "title": "강훈식 비서실장, 캐나다 출국…60조 잠수함 수주전 막판 총력",
-    "summary": [
-      "[the300]강 실장, SNS에 \"실질적 성과 거두도록 최선\" 강훈식 대통령비서실장이 전략경제협력 대통령 특사 자격으로 캐나다로 출국했다.",
-      "약 60조원에 달하는 캐나다 잠수함 프로젝트(CPSP·Canadian Patrol Submarine Project) 수주를 위해 민관이 원팀이 돼 막판 총력을 기울이는 모습이다.",
-      "강 실장은 31일 자신의 SNS(소셜미디어) 인스타그램에 \"전략경제협력 대통령 특사로 캐나다로 출국한다\"며 \"이번 특사단에는 산."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n26f9b997",
-    "category": "스포츠",
     "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/05/31/G43DANDEHAYDAMJRHAZGGODGMY/",
-    "title": "9회 2사 만루 밀어내기, 손주영 진땀 세이브, LG 3연승 신바람, 1위 지켰다. 오스틴 투런포+톨허스트 7승…KIA 6연승 후 3연패 '충격' [잠실 리뷰]",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/31/G5RDQZJRHBRTEZBUGI4TQOJQHA/",
+    "title": "‘관리의 여신’ 채정안, 48세 안 믿기는 미모+늘씬 몸매..“맛있는 거 먹고 힐링 목표”",
     "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스가 KIA 타이거즈 상대로 3연전 싹쓸이 승리하며 1위 자리를 지켰다.",
-      "LG는 31일 잠실구장에서 열린 2026 KBO리그 KIA와 경기에서 5-3으로 승리했다.",
-      "선발투수 톨허스트는 6이닝 5피안타 5탈삼진 무사사구 1실점으로 시즌 7승째을 거뒀다."
+      "[OSEN=박하영 기자] 배우 채정안이 늘씬한 몸매를 자랑했다.31일 채정안은 자신의 계정에 “상하이 트위스트 여행.",
+      "수영 많이 하고 맛있는 거 먹고 힐링하기가 목표 (여행 목표를 몸으로 말하기는 덤)”이라는 글과 함께 여러 장의 사진을 게재했다.사진 속 채정안은 상하이 여행 중 여유로운 일상을 전했다.",
+      "한쪽 머리를 땋은 채 브라톱에 레깅스 반바지를 입고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n09da0813",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/31/GI4DGZRRGZTGKOJTMI3TQN3GGU/",
+    "title": "\"전교회장에 통번역 시험까지\"…이윤진, 아들 다을이 근황에 '자식농사 대박' [핫피플]",
+    "summary": [
+      "[OSEN=김수형 기자] 통역사 겸 방송인 이윤진이 아들 다을 군의 성장한 근황을 공개해 눈길을 끌고 있다.이윤진은 최근 자신의 SNS를 통해 \"다을이 지난 두 달 엄마랑 공부하느라 고생 많았어\"라는 글과 함께 사진을 게재했다.공개된 사진에는 아들 다을 군이 통번역 시험 수험표를 들고 환하게 웃고 있는 모습이 담겼다.",
+      "통역사로 활동 중인 엄마의 뒤를 이어."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n737ca9ff",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/31/2026053115491198734",
+    "title": "43세 최형우 또 '역대 최초' 금자탑→\"개인 기록 생각은 정말 없다\" [대구 현장]",
+    "summary": [
+      "삼성 라이온즈 최형우(43)가 또 하나의 금자탑을 세웠다.",
+      "KBO리그 역대 최초 1000장타 달성이다.",
+      "최형우는 31일 대구 삼성라이온즈파크에서 열린 두산 베어스와 경기에 4번타자 좌익수로 선발 출장해 2-2 동점이던 3회말 2사 2루에서 상대 선발 최민석으로부터 우익수쪽 1타점 2루타를 때렸다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n204e3edb",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026053118501800583",
-    "title": "전쟁이 바꾼 韓 원유 수입 지도…중동 줄고 미국 늘고",
-    "summary": [
-      "중동 전쟁 장기화와 호르무즈 해협 봉쇄 우려가 현실화하면서 한국의 원유 수입 지도가 빠르게 바뀌고 있다.",
-      "수십 년간 이어진 '중동 중심' 조달 구조가 흔들리면서 미국과 아프리카 등 비중동산 원유 비중이 사상 처음으로 절반을 넘어섰다.",
-      "국제유가보다 공급망 안정성이 중요해지는 경제안보 시대가 본격화하고 있다는 분석이 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf7d3a6a9",
+    "id": "n7e6f487e",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531048800007",
-    "title": "9회초 2사 만루서 진땀 흘린 LG 손주영 \"마무리는 올해까지만…\"",
-    "summary": [
-      "(서울=연합뉴스) 김동한 기자 = \"마무리 투수는 올해만 하고 그만하겠습니다.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d600409",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/202605319225i",
-    "title": "[단독]가온전선, 메타 이어 구글·아마존서 AI데이터센터 부품 수주",
-    "summary": [
-      "[단독]가온전선, 메타 이어 구글·아마존서 AI데이터센터 부품 수주."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "na5588cc2",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026053191011",
-    "title": "삼성전기 담은 ETF 강세…반도체주 '고공행진' 계속",
-    "summary": [
-      "삼성전기 담은 ETF 강세…반도체주 '고공행진' 계속."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n4ad51889",
-    "category": "스포츠",
-    "source": "조선일보",
     "time": "10분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/05/31/MFSWEMJSMJRTOYTEMYYGIMJTHE/",
-    "title": "한국 2차전 상대 '개최국' 멕시코, 7경기 무패…강하지만 틈은 보였다",
+    "url": "https://www.yna.co.kr/view/AKR20260531051400007",
+    "title": "부산서 우승한 LIV 골프 니만 \"가장 감격스러워\"",
     "summary": [
-      "[OSEN=이인환 기자] 결과는 승리였지만 내용은 완벽하지 않았다.",
-      "한국의 월드컵 조별리그 2차전 상대 멕시코가 호주를 꺾고 무패 흐름을 이어갔다.",
-      "다만 본선에서 공략할 틈도 함께 보였다.멕시코는 31일(한국시간) 미국 캘리포니아주 패서디나 로즈볼에서 열린 호주와 평가전에서 1-0으로 승리했다."
+      "(부산=연합뉴스) 김경윤 기자 = 한국에서 우여곡절 끝에 LIV 골프 시즌 첫 승을 거둔 호아킨 니만(칠레)은 \"지금까지 거둔 우승의 순간 중 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfcdedcb5",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531048400007",
-    "title": "송영한, LIV 골프 코리아 공동 12위…연장전 끝에 니만 우승",
-    "summary": [
-      "(부산=연합뉴스) 김경윤 기자 = 송영한이 안방에서 열린 LIV 골프에서 개인 최고 성적인 공동 12위에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6291e617",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026053118352193586",
-    "title": "\"내가 소득 상위 30%?\" 고유가 지원금 이의 신청 폭주",
-    "summary": [
-      "정부가 2차 고유가 피해지원금 지급을 시작한 뒤 열흘간 접수한 이의신청이 13만건을 넘어선 것으로 나타났다.",
-      "31일 행정안전부에 따르면 지난 18일부터 27일까지 접수된 2차 고유가 피해지원금 관련 이의신청은 약 13만4000건으로 이 중 10만6000건은 처리가 끝났고, 9만3000건에 대해서는 이의신청이 받아들여졌다.",
-      "이의신청 사유 중 가장 큰 비중을 차지한 것은 '취약계층 자격 변동'으로 약 4만6000건(34.6%)이 이에 해당했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89f41f02",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "14분 전",
-    "url": "https://www.hankyung.com/article/2026053190861",
-    "title": "메디아나 \"의료기기 넘어 AI 플랫폼으로 성장\"",
-    "summary": [
-      "메디아나 \"의료기기 넘어 AI 플랫폼으로 성장\"."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n489a7ee7",
+    "id": "n2d1d2d8c",
     "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/2026053190881",
-    "title": "\"히트펌프 잡자\"…보일러·에어콘 업계 격돌",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/31/GY3TAMBXGE4WEYZQMUYTANTBME/",
+    "title": "이영자, 주식 대신 '이것' 저점매수 \"하나에 2천만 원 될 때까지\" ('이영자TV')",
     "summary": [
-      "\"히트펌프 잡자\"…보일러·에어콘 업계 격돌."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 이영자가 수공예품 쇼핑을 마쳤다.",
+      "31일 유튜브 채널 '이영자TV'에는 '명품백 대신 선택한 것들, 이영자가 알려주는 취향으로 돈 버는 법'이라는 제목의 영상이 게재됐다.",
+      "이날 이영자는 다양한 수공예품을 판매하는 핸드메이드 마켓을 방문해 눈길을 끌었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n22dbf70a",
+    "id": "nd842ef34",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260531/134025233/2",
+    "title": "“이란, 중국 무기로 美 F-15E 전투기 격추했을 가능성 높아”",
+    "summary": [
+      "이란이 지난달 미국 공군 F-15E 전투기를 격추할 때 중국산 무기를 사용했을 가능성이 높다는 외신 보도가 나왔다.30일(현지 시간) 미국 NBC뉴스는 소식통 3명을 인용해 “지난 4월 이란 남서부 상공에서 격추돼 위험천만한 구조 작전을 벌이게 된 F-15 전투기는 중국제 휴대용 지대공 미사일에 피격됐을 가능성이 높다”고 전했다.보도에 따르면 F-15E는 당시 길이 약 2m, 무게 약 18㎏ 수준인 휴대용 지대공 유도 미사일 시스템 ‘맨패즈’(."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndaff31f1",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531048100527",
-    "title": "전남 광양 오존주의보 해제",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260531041551001",
+    "title": "국힘, 마지막 주말 서울서 총력전…張·宋·吳 개별 유세(종합)",
     "summary": [
-      "(광주=연합뉴스) 전남 광양에 내려진 오존주의보가 31일 오후 6시 해제됐다고 환경부 한국환경공단이 전했다."
+      "(서울=연합뉴스) 이정현 이율립 기자 = 국민의힘은 6·3 지방선거 전 마지막 주말인 31일 서울과 수도권 표심 잡기에 총력을 기울였다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5bfcb5e5",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/31/2026053117200352760",
+    "title": "\"아스널 시간 끌다 주심한테 찍혔다\" 나스리, 작심 발언 \"벌 받은 것\"... '우승' PSG는 칭찬 \"비로소 전설 됐다\"",
+    "summary": [
+      "전 아스널 미드필더 사미르 나스리(39)가 아스널의 패배 원인을 심판 판정으로 지목했다.",
+      "심판이 전반전 아스널의 시간 끌기에 앙심을 품고 후반전에 의도적으로 불리한 판정을 내렸다는 주장이다.",
+      "영국 '더선'은 31일(한국시간) \"나스리가 프랑스 방송 '카날 플러스'에 출연해 심판 판정을 강도 높게 비판했다\"고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8cb90dda",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260531021852001",
+    "title": "정원오, 吳에 \"정쟁 일삼는 시장…李대통령 발목 잡을 것\"(종합2보)",
+    "summary": [
+      "(서울=연합뉴스) 김정진 오규진 기자 = 더불어민주당 정원오 서울시장 후보는 6·3 지방선거를 사흘 앞둔 31일 현역인 국민의힘 오세훈 후보를 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbd332c4b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260531050300527",
+    "title": "경북 경주 오존주의보 해제",
+    "summary": [
+      "(대구=연합뉴스) 경북 경주에 내려진 오존주의보가 31일 오후 7시 해제됐다고 환경부 한국환경공단이 전했다."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "n751e5917",
+    "id": "n2353894b",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531035951057",
-    "title": "행사장 방문·거리 유세…울산 후보들 막바지 표심 잡기 주력(종합)",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650840",
+    "title": "샹글릴라 회의서 미 우방들 '분열의 억지력 약화' 경고하면서 단합 촉구",
     "summary": [
-      "(울산=연합뉴스) 김용태 기자 = 6·3 지방선거를 사흘 앞둔 31일 울산시장·울산시교육감 후보들은 본 투표 전 마지막 휴일을 맞아 고등학교 총..."
+      "[싱가포르=AP/뉴시스] 김재영 기자 = 31일 싱가포르 최고위 국방관계자 국제회의에서 미국 우방들은 미국이 비록 전통적 우호국들에 대해 어느 때보다 비판적이지만 안보 위협이 지역을 초월하고 있어 협력이 어느 때보다 중요하다고 강조했다.",
+      "미국의 도널드 트럼프 대통령은 나토(북대서양조약기구)에 대해 매우 가혹하다고 할 수 있다.",
+      "이 싱가포르 샹글릴라 회의에서 전날 미국의 피트 헤그세스 국방장관은 유럽 우방들이 국방에 충분한 예산을 쓰지 않는다고."
     ],
     "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc50db8ed",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650855",
+    "title": "[6·3전북]이원택·민형배·위성곤 \"호남·제주 초광역 메가시티 한뜻\"",
+    "summary": [
+      "[전주=뉴시스] 김종효 기자 = 제9회 전국동시지방선거 광역단체장선거에 민주당으로 출마한 호남·제주지역 3명의 후보가 수도권 '일극체제'에 대응해 비수도권의 새로운 성장축을 형성함으로써 국가균형발전을 실현하기 위한 호남·제주 초광역 메가시티 조성에 뜻을 모았다.",
+      "31일 전주 모래내시장에서는 이원택 전북도지사후보, 민형배 전남광주통합시장후보, 위성곤 제주도지사후보가 한자리에 모여 정책협약과 함께 전북과 전남광주, 제주를 잇는 초광역 협력체계 구축."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n220d3d9b",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650804",
+    "title": "[6·3대전]허태정 \"야구장 증설\" vs 이장우 \"계룡스파텔 사수\"",
+    "summary": [
+      "[대전=뉴시스] 조명휘 기자 = 6·3지방선거 본 투표 사흘을 앞둔 31일 여야 대전시장 후보들이 일제히 집중유세를 열면서 치열한 득표전을 펼쳤다.",
+      "더불어민주당 허태정 후보는 이날 프로야구 낮 경기가 열린 한화생명볼파크에서 박정현·박용갑·장철민 국회의원과 함께 집중유세를 벌이고 시정 탈환을 위해 표를 몰아줄 것을 호소했다.",
+      "특히 자신이 민선7기 시장 재임때 설계 단계에서 구상한 야구장 좌석이 이장우 시장 민선 8기에 3000석가량 줄었다고 비판."
+    ],
+    "chips": [
+      "#KBO",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc2551328",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260531/134024492/1",
+    "title": "‘톱티어 비자’ 교수-연구원까지 확대…과학기술 인재 국내 유치 나선다",
+    "summary": [
+      "정부가 첨단산업 분야의 해외 최우수 인재에게 발급했던 ‘톱티어(Top-Tier) 비자’ 대상을 과학기술 분야 교수와 연구원까지 넓힌다.",
+      "세계 최정상급 과학기술 인재의 국내 유치를 확대하기 위해서다.31일 법무부와 과학기술정보통신부는 6월부터 톱티어 비자 제도를 과학기술 분야의 교수 및 연구 인력까지 확대 시행한다고 밝혔다.",
+      "기존엔 해당 비자가 인공지능(AI), 반도체, 바이오 등 첨단산업 분야 기업에 고용된 인력을 대상으로 발급됐지만 이를 과학."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n7f188f17",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026053119194821805",
+    "title": "강훈식, 전략경제협력 특사로 캐나다行…60조 잠수함 수주 총력",
+    "summary": [
+      "강훈식 대통령 비서실장이 31일 이재명 대통령의 전략경제협력 특사 자격으로 캐나다 출장길에 올랐다.",
+      "중동사태 장기화로 글로벌 에너지·공급망 불안이 커지는 가운데 자원 부국인 캐나다와 에너지·핵심 광물·첨단산업 분야의 전략적 협력을 확대하기 위한 행보다.",
+      "특히 60조 원 규모 캐나다가 추진 중인 차세대 잠수함 사업(CPSP) 수주 발표를 앞두고 막판 총력전에 나섰다는 관측도 나온다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "naffad99d",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260531049700001",
+    "title": "강훈식, 캐나다 출국…\"에너지·공급망·첨단산업 협력 확대\"",
+    "summary": [
+      "(서울=연합뉴스) 고동욱 기자 = 강훈식 대통령 비서실장이 31일 이재명 대통령의 전략경제협력 특사 자격으로 캐나다로 출국했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf85ba53a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260531/134023356/1",
+    "title": "트럼프, 종전 MOU 승인 거부…“양보성 합의” 비판에 수정 지시",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 지난달 29일 워싱턴 백악관 회의에서 미국과 이란 당국자들이 잠정 합의한 종전을 위한 양해각서(MOU) 초안을 승인하지 않았다고 뉴욕타임스(NYT) 등이 보도했다.",
+      "이란의 핵 능력 억제, 미국이 동결 중인 대(對)이란 자산의 해제 관련 합의 내용이 미국 입장에서 충분하지 않다고 판단해 이란 측에 수정을 요구했다는 것이다.",
+      "MOU 초안에는 두 나라 간 휴전 60일 연장, 핵 협상 개시, 호르무즈 해협 개방 등의 내용이."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd54f3dde",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "27분 전",
+    "url": "https://www.mt.co.kr/sports/2026/05/31/2026053118591473745",
+    "title": "'총액 5억' 여자프로농구 연봉 '퀸' 주인공은... '1억 이상 총 29명'",
+    "summary": [
+      "국보 센터 박지수(28·청주KB스타즈) 여자프로농구 최고 연봉 퀸 자리에 올랐다.",
+      "WKBL은 31일 17시까지 진행된 2026~2027 선수 등록 결과를 발표했다.",
+      "연맹에 따르면 신인과 아시아쿼터 선수를 제외한 등록 선수는 총 81명으로 집계됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na066659f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "27분 전",
+    "url": "https://www.mt.co.kr/society/2026/05/31/2026053119122857757",
+    "title": "한남대교서 70대 남성 투신 사망…한강 버스 한때 지연",
+    "summary": [
+      "서울 한남대교에서 70대 남성이 투신해 한강 버스 운행이 한때 지연됐다.",
+      "31일 뉴시스에 따르면 서울 용산소방서는 이날 오후 1시45분쯤 70대 남성 A씨가 한남대교에서 한강으로 투신했다고 밝혔다.",
+      "반포 수난구조대가 A씨를 구조해 인근 압구정 선착장으로 옮겨 심폐소생술을 실시했지만 끝내 숨졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3db08c3b",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "34분 전",
+    "url": "https://view.asiae.co.kr/article/2026053118041476591",
+    "title": "[6·3선거]광주·전남 첫 교육수장…'법적 고발전'·'리스크 공방'",
+    "summary": [
+      "초대 전남광주통합특별시 교육감 선거가 3일 앞으로 다가온 가운데, 후보 간 정책 경쟁이 선거 막판 '법적 고발전'과 '리스크 공방'으로 치달으며 부동층 표심이 요동치고 있다.",
+      "특히 세 후보가 약속이나 한 듯 '연 120만원 학생 수당'을 핵심 카드로 꺼내 들었지만, 정작 천문학적인 예산 확보 방안에 대한 냉정한 검증은 실종된 채 서로를 향한 네거티브 비방전만 사법당국으로 번지는 양상이다.'연 120만 원' 수당은 한목소리…."
+    ],
+    "chips": [
+      "#정책",
       "#정치",
       "#교육"
-    ]
-  },
-  {
-    "id": "nba73f672",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "24분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/31/2026053118275469969",
-    "title": "'안면부 다쳐 병원행' 또래에 집단 폭행당한 여중생…경찰 수사",
-    "summary": [
-      "광주에서 여중생이 또래에게 집단 폭행을 당했다는 신고가 접수돼 경찰이 수사에 나섰다.",
-      "31일 뉴스1에 따르면 광주 광산경찰서는 28일 저녁 광주 서구 금호동의 한 카페 인근 지하 주차장에서 여중생 A양(15)이 폭행당했다는 신고를 받았다.",
-      "안면부를 다친 채 병원을 찾은 A양을 보고 병원 관계자가 경찰에 신고한 것으로 알려졌다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne1b37193",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "26분 전",
-    "url": "https://www.mt.co.kr/society/2026/05/31/2026053118250164035",
-    "title": "\"가족 주민번호 가져오면 더 줄게\"…마약 4700회 공급 의사 구속 기소",
-    "summary": [
-      "서울 강남구에서 피부시술의원을 운영하며 5년간 총 18만ml에 달하는 프로포폴을 4700회에 걸쳐 중독자들에게 투약해준 의사 A씨가 구속상태로 재판에 넘겨졌다.",
-      "서울중앙지검 강력범죄수사부(부장검사 소창범) 의료용 마약 전문수사팀은 50대 소아청소년과 전문의 A씨를 마약류 관리에 관한 법률 위반(향정) 등 혐의로 구속기소 했다고 31일 밝혔다.",
-      "범행에 가담한 의원 실장 등 병원 직원 6명과 프로포폴 투약자 5명도 마약류관리법 위반 혐의로 불구속기."
-    ],
-    "chips": [
-      "#의료"
     ]
   }
 ];
@@ -641,14 +645,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "정치",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
