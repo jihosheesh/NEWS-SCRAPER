@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-31 22:19:48
+// 마지막 업데이트: 2026-05-31 23:21:58
 window.NEWS_DB = [
   {
     "id": "nf90d9a92",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEgzTU5QX3N2TmMzYV82WlQzR2QxVXNaN3llS3dQSDl3ZWlnNEItWWp2dG5KVHpoYWFFSE5oaXdnMzh0d2E1Mmw1VHJZaUVBVTJqd3lCWE1LOHRCVEtyLU0xTUpOQ1l1c0xvVUJja1g5TUZtY3ZrN0dKa2dOZFFjcG83UFM2WjZ6?oc=5",
     "title": "美, 엔비디아·AMD AI 반도체 해외 중국 법인 수출 전격 차단",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "n444551a6",
     "category": "IT",
     "source": "포인트데일리",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81OEY4dlY3YmJLNFBucDBnUUNERUluSzNfbFZMbllCYVN0bHNhUk13UHZWb0oxZTVIS3o2YlJiTGIxQ1VmQlcxamYxcDZxUWxEZ0ZRd0NGckZyNnpYcWRObDNiQUM2X1dwbzJMNklrXzLSAXRBVV95cUxOSUZTV1ROX0RsSGRBX2k5SmxVMS1LaGRZQ3BtVkhNR1EtVVo5SDVBMjBmZnhldml4d3FOV2laX19WOVF2WkVkYzM4cjhSOVlDSzdFX1pINkoxRmVEZlh2VHUxdk9JTmZrWnk2TXJsVVpiRTdJag?oc=5",
     "title": "[출근길 포인트] ‘AI 반도체 독점’ 엔비디아, PC CPU 시장까지 넘보나",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "n07b02078",
     "category": "IT",
     "source": "조선일보",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3E0MG5sYzdqem9jTVBDRGFmY29QTDRyYzRqbVBEZmdSU0E0VXBnZW9hQURFTkY4WllvYkZJTnkwZHFSZE84aU00S0FBQ1hnUVFYclpDZGdJR2hnMWhZSVdtSUlMUEJGTV8tR2o1Z1NNTWRaTjgzREFCNGd0aGdYZU9Ibw?oc=5",
     "title": "엔비디아, PC칩 시장 진출… AI 생태계 넓힌다",
     "summary": [
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "na0f523e8",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
     "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
     "summary": [
@@ -68,7 +68,7 @@ window.NEWS_DB = [
     "id": "nc6196063",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvUkVCaGE5TFlpY01VMzFpNEJFamk2NXhNZ29EQnVHQllBRnlnT1E1V0p5SGxBV19lVDQ1dFM5RDlPak50aTM5b0N2TDM?oc=5",
     "title": "삼성·SK, 美앤트로픽에 조단위 투자…HBM 이어 AI칩 협력",
     "summary": [
@@ -123,6 +123,20 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "summary": [
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -305,339 +319,329 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "108일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n57ab1cc8",
-    "category": "스포츠",
+    "id": "n1c0a6f86",
+    "category": "사회",
     "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026060107173593879",
-    "title": "경기도, 이륜자동차 소음·불법개조 집중단속",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026060108210535863",
+    "title": "HLB바이오스텝 자회사, 환경부 화학물질 유해성시험자료 생산사업 수주",
     "summary": [
-      "경기도가 이륜자동차 불법행위 단속에 나선다.",
-      "경기도는 오는 6월4일부터 29일까지 도 전역에서 이륜자동차 소음 및 불법 개조 행위에 대한 일제 단속을 실시한다고 1일 밝혔다.",
-      "이번 단속은 '경기도 이륜자동차 소음관리계획(2025~2029년)'에 따른 것이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na1719f95",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/01/2026060106554036189",
-    "title": "\"오른손으로 휴대폰 만져\" 딱지 뗀 경찰...운전자는 오른손 장애",
-    "summary": [
-      "미국 플로리다주에서 경찰이 오른손이 없는 여성에게 '운전 중 오른손으로 휴대전화를 만졌다'는 이유로 범칙금을 부과한 사연이 전해져 논란이 일었다.",
-      "28일(현지시각) 미국 CBS 등에 따르면 플로리다주 레이크워스에 거주하는 케이슬린 토머스(36)는 지난 2월 운전을 하다가 팜비치 카운터 보안관실 소속 경찰관으로부터 정차 요청을 받았다.",
-      "경찰관은 토머스의 차로 다가와 \"운전 중 오른손으로 휴대전화를 들고 조작하는 모습을 봤다\"고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9a9c302b",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026060107135556660",
-    "title": "경기도, 24세 청년에 분기당 25만원 '청년기본소득' 1일부터 접수",
-    "summary": [
-      "경기도가 1일부터 24세 청년에게 분기별 25만 원씩, 연 최대 100만원을 지역화폐로 지급하는 '청년기본소득' 2분기 접수에 들어갔다.",
-      "2분기 신청 대상은 4월1일 기준 24세(2001년 4월2일~2002년 4월1일 출생) 청년이다.",
-      "신청일 현재 경기도에 주민등록을 두고 3년 이상 연속 거주하거나 합산 거주기간이 10년 이상이어야 하며, 외국인과 거주불명자, 성남시, 고양시 거주 청년은 대상에서 제외된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c65f6c4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/01/EAQU7WHJLNHRZCBDAQAKJ4LLME/",
-    "title": "조유민, 발바닥 전치 8주 부상에 월드컵 낙마... 조위제 대체 발탁",
-    "summary": [
-      "조유민, 발바닥 전치 8주 부상에 월드컵 낙마... 조위제 대체 발탁."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncc531efa",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260601/134026400/2",
-    "title": "“휴대폰 보지 않아 살았다”…인도로 돌진한 차량 가까스로 피해 (영상)",
-    "summary": [
-      "중국의 한 남성이 인도로 돌진하는 차량을 극적으로 피하는 장면이 CCTV에 포착됐다.",
-      "지난달 31일 엑스(X·옛 트위터)에는 중국 광둥성에서 갑자기 인도로 돌진하는 차량을 간발의 차로 피하는 남성의 영상이 올라왔다.영상에는 이 남성이 차량과 구조물 사이의 좁은 틈으로 몸을 피해 가까스로 화를 면한 뒤, 이내 다리에 힘이 풀린 듯 자리에 주저앉는 모습이 담겼다.해당 영상을 접한 현지 누리꾼들은 “휴대폰을 보면서 걷지 않은 덕분”이라며 가슴을 쓸어."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n32e18015",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260601_0003650944",
-    "title": "이란 반정부 매체, 페제시키안 사임설 제기…이란 정부, 즉각 부인",
-    "summary": [
-      "[서울=뉴시스]신정원 기자 = 마수드 페제시키안 이란 대통령이 이슬람혁명수비대(IRGC) 지휘부와의 권력 갈등으로 사임 의사를 밝혔다는 보도가 나왔다.",
-      "다만 이는 단일 소식통을 인용한 이란 반정부 매체의 보도로, 이란 정부 측은 사임설을 즉각 부인했다.",
-      "이란 반체제 매체 이란 인터내셔널은 31일(현지 시간) 소식통을 인용해 페제시키안 대통령이 이날 모즈타바 하메네이 최고지도자에게 공식 사임서를 제출했다고 보도했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8b9f9aeb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/01/MFRWIOJWGZQWMZTFMY2DGYRYGU/",
-    "title": "에이핑크 탈퇴 홍유경, 엄마 된다…결혼 3년만에 임신 “꺄아아아”[전문]",
-    "summary": [
-      "[OSEN=강서정 기자] 그룹 에이핑크 출신 홍유경이 임신 소식을 전했다.",
-      "홍유경은 지난달 31일 “여러분 제 뱃속에 예쁜 아가가 찾아왔습니다 꺄아아아.",
-      "그 동안 말씀드리고 싶어 입이 너무 근질근질 거렸지만..! 어느덧 16주차 안정기에 접어들어 드디어 임밍아웃을 할 수 있게 되었습니다”라고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c5f74ea",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601008500004",
-    "title": "종로구, 북촌 한옥체험업 관리방안 검토…\"주민 정주권 보호\"",
-    "summary": [
-      "(서울=연합뉴스) 정준영 기자 = 서울 종로구는 북촌 내 급증하는 한옥체험업에 따른 주민 불편을 줄이고 정주환경을 보호하기 위해 북촌 지구단위계..."
+      "HLB바이오스텝 자회사 HLB바이오코드가 국비임상시험관리기준(GLP) 기반 화학물질 독성시험 수행 역량을 인정받았다.",
+      "1일 HLB바이오코드는 환경부가 주관하는 '2026년 화학물질 유해성시험자료 생산사업' 과제 계약을 체결하고, 약 30억원 규모의 사업을 수주했다고 밝혔다.",
+      "이 사업은 국내 화학물질 안전관리 체계를 강화하고, 화학물질 등록·평가 제도에 필요한 유해성시험자료를 생산하기 위한 국가사업으로, HLB바이오코드와."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "nac6a60f2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260601_0003650971",
-    "title": "인천 사료 저장탱크 폭발…옥수수 10t 소실",
+    "id": "n45751c7a",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026060108204431461",
+    "title": "무주산골영화제 4일 개막…27개국 90편 상영",
     "summary": [
-      "[인천=뉴시스] 전예준 기자 = 인천 사료공장 저장탱크가 폭발하면서 옥수수 약 10t이 소실됐다.",
-      "1일 인천소방본부에 따르면 전날 오전 7시51분께 중구 사료 제조공장에서 옥수수 저장탱크 상판이 터졌다는 신고가 접수됐다.",
-      "이 사고로 저장탱크가 일부 파손됐고, 옥수수 10t이 소실됐다."
+      "제14회 무주산골영화제가 오는 4일부터 8일까지 닷새간 무주군 일대에서 열린다.",
+      "올해는 27개국 90편과 함께 공연·전시·체험·키즈 프로그램을 선보인다.",
+      "개막식은 4일 오후 7시 무주등나무운동장에서 펼쳐진다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9aea1d58",
-    "category": "사회",
+    "id": "n021122b0",
+    "category": "경제",
     "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/01/2026060105105219198",
-    "title": "종전 협상 안갯속...이란 \"자체 수정안 준비중, 결렬시 대비도 완료\"",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/stock/2026/06/01/2026060108154220780",
+    "title": "한미약품, 릴리에 1.9조 규모 기술 수출…계약금만 1129억",
     "summary": [
-      "이란 의회 \"핵 문제와 관련해 어떤 약속도 한 적 없어\" 도널드 트럼프 미국 대통령이 이란과의 협상에서 추가 양보를 요구하는 수정안을 전달한 것으로 알려진 가운데 이란도 자체 수정안을 준비중이란 보도가 나왔다.",
-      "31일(현지시간) 이란 혁명수비대(IRGC) 계열 반관영 타스님 통신은 소식통을 인용해 이란이 미국과의 회담에서 양해각서(MOU) 초안에 자국 요구를 담은 수정안을 적용할 것이라고 보도했다.",
-      "해당 소식통은 \"(양측 간의) 텍스트(초안)."
+      "한미약품이 글로벌 제약사 일라이 릴리와 GLP-2(글루카곤유사펩타이드-2) 신약 후보물질 '소네페글루타이드(Sonefpeglutide)' 기술이전 계약을 맺었다고 1일 공시했다.",
+      "계약 규모는 최대 12억6000만달러(약 1조8973억원)이다.",
+      "소네페글루타이드는 한미약품의 지속형 바이오의약품 플랫폼 기술인 랩스커버리((LAPSCOVERY) )가 적용된 신약 후보물질이다."
     ],
     "chips": [
-      "#정치"
+      "#수출"
     ]
   },
   {
-    "id": "n5dddf7a1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/01/HBQTAY3EGAZDOMRTGJRDQYRTGY/",
-    "title": "도대체 왜? 치명적 '급발진' → 8년만의 '월간 46안타' 대기록 도전 물거품…'싱글벙글' 더그아웃이 한순간에 얼어붙었다 [고척포커스]",
+    "id": "n98d7cacf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260601_0003651041",
+    "title": "'쿨탠다드' 입은 선풍기…무신사 스탠다드, 홈 시장 공략 강화",
     "summary": [
-      "[고척=스포츠조선 김영록 기자] \"이 안타로, 주루사만 나오지 않는다면…\" 대체 왜 뛰었을까.",
-      "KBO리그 전체로 따져도 8년만의 대기록 도전이 허무하게 무산됐다.",
-      "생애 최고의 한달을 보내던 동료는 도전할 기회조차 놓쳐버렸다."
+      "[서울=뉴시스]권민지 기자 = 무신사 스탠다드가 여름 대표 상품인 '쿨탠다드'를 홈 카테고리로 확장하며 라이프스타일 시장 공략에 나섰다.",
+      "무신사 스탠다드는 무신사 스탠다드 홈을 통해 '쿨탠다드' 선풍기 6종을 새롭게 출시한다고 1일 밝혔다.",
+      "쿨탠다드는 무신사 스탠다드 냉감 의류 컬렉션이다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n9d1ecf43",
+    "id": "n8d295469",
     "category": "경제",
     "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026052815354006554",
-    "title": "\"명품 가격 한국이 더 싸다\"…고환율 효과, 외국인 VIP 몰린다",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026060108161664710",
+    "title": "롯데온, 7일까지 여름 패션 '썸머블프'…최대 93% 할인",
     "summary": [
-      "\"같은 브랜드, 동일 모델인데 한국이 더 저렴하네요.\" 최근 결혼기념일을 맞아 한국을 찾은 중국인 관광객 류양(34) 씨는 이번 여행에서 결혼기념일 선물로 평소 눈여겨봤던 하이주얼리 반클리프아펠의 목걸이 빈티지 알함브라를 구매했다.",
-      "중국 현지에서는 3만3200위안(지난달 27일 환율 기준 약 735만원)에 판매되는데, 한국에서는 680만원으로 50만원 이상 저렴하다.",
-      "여기에 백화점이 외국인 고객 대상으로 진행하는 상품권 프로."
+      "롯데쇼핑의 e커머스 플랫폼 롯데온은 오는 7일까지 일주일간 패션 할인 행사 '썸머블프'를 진행한다고 1일 밝혔다.",
+      "이번 행사는 매년 빨라지는 여름 시작을 대비해 급증한 여름 패션 수요를 겨냥했다.",
+      "롯데온은 '단 7일간의 패션 빅세일'을 테마로 여름 필수 아이템과 시즌 인기 브랜드 상품을 집중 운영한다."
     ],
     "chips": [
-      "#환율"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb7fbd073",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260601_0003650966",
-    "title": "[오늘의 주요일정]강원(6월1일 월요일)",
+    "id": "nde035432",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026060108164368630",
+    "title": "'구조적 변화 없이' 배터리·연료전지 성능 향상",
     "summary": [
-      "[춘천=뉴시스] ▲오전10시30분, 춘천의병 합동추념식, 강원항일애국선열추모탑 ▲오전11시, 2026년 의암공 박걸남 장군 제례, 춘천 박걸남 장군 묘역 ▲오후2시, 평창군 농촌공간 정책심의회, 군청 소회의실."
+      "'구조적 변화 없이' 촉매 주변 전기장을 활용해 배터리와 수소연료전지 등의 전기 생산 효율을 높이는 기술이 고안됐다.",
+      "흡사 '요리 도구 자체는 그대로 활용하면서 주방 환경을 조절해 요리의 맛을 살리는' 방식으로, 주변 온도·공기 흐름을 정교하게 조절해 음식이 잘 익도록 하는 게 핵심이다.",
+      "KAIST는 화학과 황승준 교수팀과 서울대 화학부 류재윤 교수팀이 배터리·연료전지 내부에서 전기를 만드는 핵심 반응의 효율을 높."
     ],
     "chips": [
-      "#정책"
+      "#AI",
+      "#전기차",
+      "#환경"
     ]
   },
   {
-    "id": "n1d37c5f2",
+    "id": "n7ef3d134",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260601_0003650943",
-    "title": "WHO \"대증치료로 에볼라 5명 완치…바로 병원 찾으면 회복 가능\"",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/stock/2026/06/01/2026060108089614979",
+    "title": "[더벨]엔알비, 대한건축학회와 미래 인재 양성 맞손",
     "summary": [
-      "[서울=뉴시스] 김승민 기자 = 에볼라 바이러스가 확산하고 있는 아프리카 콩고민주공화국(민주콩고)을 방문한 테드로스 아드하놈 거브러여수스 세계보건기구(WHO) 사무총장이 5명 완치 사례를 발표했다.",
-      "그러면서 증상 발생 초기 의료시설을 찾으면 치료가 가능하다고 강조했다.",
-      "AP통신에 따르면 거브러여수스 총장은 31일(현지 시간) 민주콩고 동부 이투리주(州) 부니아에서 열린 에볼라 치료센터 개소식에 참석해 \"오늘 4명이 퇴원할 예정이며, 이틀 전 1."
+      "더벨'머니투데이 thebell'에 출고된 기사입니다.",
+      "모듈러 1호 상장기업 엔알비가 사단법인 대한건축학회와 함께 OSC 및 모듈러 건축 분야의 미래 인재를 양성한다.",
+      "엔알비는 대한건축학회가 주관하는 '제1회 대한건축학회 대학생 모듈러 설계 공모전(가칭)'을 후원할 예정이라고 1일 밝혔다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ned2cb763",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260601/134026576/1",
+    "title": "홍명보호 북중미 월드컵 첫 상대 체코, 최종 명단 26명 확정",
+    "summary": [
+      "홍명보호의 2026 북중미 월드컵 조별리그 첫 상대인 체코가 최종 명단 26명을 확정했다.체코축구협회는 1일(한국 시간) 홈페이지를 통해 북중미 월드컵에 출전할 26명의 최종 명단을 발표했다.미로슬라프 쿠베크 체코 감독은 지난달 21일 29명의 예비 명단을 발표했다.그리고 이날 체코 프라하에서 치른 코소보와의 평가전에서 2-1 승리한 뒤 최종 명단을 확정했다.26명의 최종 명단 중 17명은 자국 리그에서 뛰는 선수로 구성됐다.특히 17명의 자국."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n063cf07f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/stock/2026/06/01/2026060108029652444",
+    "title": "[더벨]흑자전환 와이씨켐, 신규 라인업 상업 생산 돌입",
+    "summary": [
+      "더벨'머니투데이 thebell'에 출고된 기사입니다.",
+      "와이씨켐이 신규 제품군이 상업 생산 절차에 들어간 덕분에 흑자전환에 성공했다.",
+      "기업공개(IPO) 당시부터 공을 들인 극자외선(EUV) 노광 공정용 린스가 본격적으로 매출에 기여하기 시작한 데다 하반기에는 글로벌 고객사와 공동 개발한 고선택비 폴리실리콘 슬러리의 양산도 예정돼 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n991d8ae7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260601/134026569/1",
+    "title": "‘입원실 남녀 구별 의무 폐지’ 논란에…복지부 “현행 유지”",
+    "summary": [
+      "보건복지부가 입원실 남녀 구별 의무를 삭제하는 내용의 의료법 시행규칙 개정안을 입법예고한 이후 논란이 일자 관련 규정을 현행대로 유지하기로 했다.복지부는 1일 의료법 시행규칙 개정안 입법예고(5월 27일~7월 6일) 기간 중 제기된 의견을 반영해 입원실 남녀 구별 규정을 현행대로 유지하는 수정안을 마련했다고 밝혔다.수정안에 따르면 입원실은 기존과 같이 남녀별로 구별해 운영해야 한다.",
+      "다만 중환자실과 부부 또는 가족 등이 함께 사용하는 2인실의."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n500a6e95",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531048000371",
-    "title": "가나 117만평에 'K-테크타운'…로렌스 의장 \"아프리카 혁신엔진\"",
+    "id": "n0a143052",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260601_0003650972",
+    "title": "페제시키안 대통령 사임설…이란 정부 측, 즉각 부인(종합)",
     "summary": [
-      "(서울=연합뉴스) 성도현 기자 = \"아프리카는 제품을 소비하는 시장에 머물지 않습니다.",
-      "가나에 한국 기업을 전폭적으로 지원할 'K-테크타운'(K..."
+      "[서울=뉴시스]신정원 기자 = 마수드 페제시키안 이란 대통령이 이슬람혁명수비대(IRGC) 지휘부와의 권력 갈등 속에서 사임 의사를 밝혔다는 보도가 나왔다.",
+      "다만 이는 단일 소식통을 인용한 이란 반정부 매체의 보도로, 이란 정부 측은 사임설을 즉각 부인했다.",
+      "이란 반체제 매체 이란인터내셔널은 31일(현지 시간) 소식통을 인용해 페제시키안 대통령이 이날 모즈타바 하메네이 최고지도자에게 공식 사임서를 제출했다고 보도했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n107e3c27",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026052814244629127",
-    "title": "[Bio Story]③이상훈 에이비엘바이오 대표 \"단기 주가부양? 본질가치 제고가 답\"",
-    "summary": [
-      "국내 바이오 투자 시장이 자금 경색으로 극심한 한파를 겪고 있는 가운데, 이상훈 에이비엘바이오 대표는 철저한 임상 차별화 전략과 경영진의 책임 있는 사업 추진만이 바이오텍의 생존을 담보할 수 있다고 제언했다.",
-      "지난달 26일 서울 강남구 본사에서 가진 본지 인터뷰에서다.",
-      "그는 \"기업의 성패가 단기적인 주가 부양이나 맹목적인 상장에 있는 것이 아니라, 파이프라인의 본질적인 질적 가치 제고에 달려 있다\"고 지적했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n40449f3f",
+    "id": "n863aff67",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531055900099",
-    "title": "모잠비크 장관 \"韓, 전략적 파트너…LNG·광물 협력 확대 기대\"",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260601018600051",
+    "title": "부산시선관위 \"사전투표 보관 상황 언제든지 열람 가능\"",
     "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = \"한국 기업과 투자자, 기관들이 풍부한 천연자원, 전략적 위치, 젊은 인구 구조, 그리고 높은 장기 ..."
+      "(부산=연합뉴스) 오수희 기자 = 부산시 선거관리위원회는 16개 구·군 선관위가 관내 사전 투표함과 우편 투표함을 CCTV가 설치된 장소에 선거..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n34a7fe83",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260601017400008",
+    "title": "[마켓뷰] '사상 최고치' 코스피, '9천피' 도전 여부 주목",
+    "summary": [
+      "(서울=연합뉴스) 김유아 기자 = 코스피가 지난주 사상 최고 기록을 갈아치우며 '9천피'를 향해 질주하는 가운데, 1일 이런 기세를 이어갈지에 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf173476a",
+    "id": "n342abda8",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601008200072",
-    "title": "호르무즈 봉쇄에도 하루 3척꼴 미군지시 받으며 해협 통과",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/stock/2026/06/01/2026052917479650009",
+    "title": "[더벨]아이씨티케이, STK 2026 참가 양자보안 라인업 공개",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 이란의 호르무즈 해협 봉쇄 속에 최근 3주간 약 70척의 선박이 자동식별장치(AIS)를 끈 채 미군의 지시를..."
+      "더벨'머니투데이 thebell'에 출고된 기사입니다.",
+      "양자 보안 팹리스 기업 아이씨티케이(ICTK)가 다음달 10일부터 12일까지 서울 코엑스에서 열리는 ‘스마트테크 코리아 2026(STK 2026)’에 참가해 하드웨어 기반의 최첨단 보안 솔루션 라인업을 선보인다고 29일 밝혔다.",
+      "‘스마트테크 코리아 2026’은 AI, IoT, 로봇, 스마트 제조 등 ICT 기술의 최신 트렌드를 조망하는 국내 최대 규모의 산업 전시회다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n4b38fe83",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260528138100898",
-    "title": "튀니지 외교장관 \"한국은 신뢰 파트너…아프리카로 다각화해야\"",
+    "id": "n230ff7a6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260601018500030",
+    "title": "29CM, 상반기 최대 쇼핑 행사 '이구위크'…\"최대 83% 할인\"",
     "summary": [
-      "(서울=연합뉴스) 박성진 기자 = 모하메드 알리 나프티 튀니지 외교장관이 1일 자신이 대사로 근무했던 서울에서 열린 한-아프리카 외교장관회의 참..."
+      "(서울=연합뉴스) 구정모 기자 = 무신사가 운영하는 편집숍 29CM(이십구센티미터)는 오는 11일까지 상반기 최대 쇼핑 행사인 '이구위크(29 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncf828974",
+    "id": "ne3212628",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260529074400898",
-    "title": "한-아프리카 외교장관회의 오늘 개막…50개국·4개국제기구 집결",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260601_0003651037",
+    "title": "쏠리드윈텍, 군 위성 통합 PBL 사업 수주…514억 규모",
     "summary": [
-      "(서울=연합뉴스) 박성진 기자 = 한국 정부가 대규모로 주최하는 한-아프리카 외교장관회의가 1일 오전 개막한다."
+      "[서울=뉴시스] 김경택 기자 = 쏠리드 방위산업 전문 자회사 쏠리드윈텍은 군 위성통신체계(ANASIS) 및 전군위성방공경보체계(SAWS)의 운용 유지를 위한 통합 성과기반군수지원(PBL) 사업 계약을 체결했다고 29일 밝혔다.",
+      "계약 총액은 약 514억원으로 계약 기간은 5년이다.",
+      "회사 측에 따르면 PBL(Performance Based Logistics)은 첨단 군 장비의 안정적 운용을 위해 민간 전문업체에 정비·조달 관리를 위탁하고 성과(가동."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7e93455c",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/economy/2026/06/01/2026053122442884389",
-    "title": "사회연대임금 '동상이몽'…\"정규직만 독식 안돼\" vs \"근로의욕 꺾어\"",
+    "id": "nb069d348",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260601_0003651031",
+    "title": "팸텍, 산업용 로봇 전문기업 TIS 인수",
     "summary": [
-      "반도체가 쏘아올린 사회연대임금 논란(下) ━\"초과이익 공유? 누가 남들보다 열심히 일하겠나...근로 의욕 떨어질 것\"━ 재계는 김영훈 고용노동부 장관이 제안한 '사회연대임금'에 대해 현실화 가능성이 낮고 시장경제 원리에도 맞지 않는다고 지적했다.",
-      "자칫 시행을 강행할 경우 근로 의욕을 떨어뜨려 경제 전반에 악영향을 미칠 것이란 지적이다.",
-      "김 장관은 지난 27일 기자간담회에서 \"대기업의 초과이익을 어떻게 사회적으로 재분배할 것인지에 대해 한국형 사."
+      "[서울=뉴시스] 김경택 기자 = 자동화 장비 전문기업 팸텍은 산업용 로봇 전문기업 티아이에스(TIS)의 지분 100%를 인수하고 반도체 공정 자동화 장비 사업을 확대한다고 1일 밝혔다.",
+      "회사 측에 따르면 이번 인수로 팸텍은 티아이에스가 축적해 온 산업용 로봇, 특히 반도체 제조·후공정에 필수적인 '웨이퍼 트랜스퍼 로봇(Wafer Transfer Robot)' 기반 기술과 전문 인력을 단숨에 추가로 확보하게 됐다.",
+      "팸텍은 단순 지분 인수를 넘어."
     ],
     "chips": [
-      "#반도체",
-      "#고용"
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n10bea116",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260601/134026562/1",
+    "title": "네타냐후 “보포르 점령, 중대 전환점”…베이루트로 전선확장 추진",
+    "summary": [
+      "베냐민 네타냐후 이스라엘 총리가 레바논 남부 군사 거점 보포르(Beaufort) 요새 점령을 자축하며 전선 추가 확장을 모색하기 시작했다.",
+      "미국이 제한했던 베이루트 공습을 재개하려는 것으로 보인다.CBS에 따르면 네타냐후 총리는 31일(현지 시간) 보포르 요새 점령 발표 후 공개된 영상 성명을 통해 “보포르 요새 점령은 우리가 추진하는 정책의 중대한 전환점”이라고 밝혔다.그는 “우리는 단결된 모습으로, 결연한 의지와 그 어느 때보다 강한 힘을."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "ne5a18601",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260601015900007",
+    "title": "[PGA 최종순위] 찰스 슈와브 챌린지",
+    "summary": [
+      "[PGA 최종순위] 찰스 슈와브 챌린지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0ab76670",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260601/134026555/1",
+    "title": "BTS, 완전체로 맞는 데뷔 13주년…페스타 타임 테이블 공개",
+    "summary": [
+      "그룹 방탄소년단(BTS)이 완전체로 맞이하는 데뷔 13주년 축제의 서막을 열었다.방탄소년단은 1일 0시 팀 공식 계정을 통해 ‘2026 BTS 페스타’의 타임 테이블을 올렸다.",
+      "‘BTS 페스타’는 이들의 데뷔일인 6월 13일을 기념해 약 2주간 온·오프라인에서 팬들과 함께 즐기는 축제다.",
+      "올해는 오프라인 공연을 비롯해 다채로운 온라인 콘텐츠가 유기적으로 연결돼 펼쳐질 예정이다.올해 축제의 타이틀은 ‘13(B)TS’로 명명됐다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nc1898cbf",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/06/01/HAYWMMRYG4ZGKMRVMJRTGY3FGE/",
+    "title": "빽가 \"아티스트병 걸려 코요태 탈퇴 통보, 금융치료로 완치\"",
+    "summary": [
+      "[스포츠조선 백지은 기자] 그룹 코요태 빽가가 팀을 탈퇴할 뻔 했던 일화를 공개했다.",
+      "5월 31일 방송된 MBC '소라와 진경'에는 �喚“� 게스트로 출연했다.",
+      "�喚〈� \"제가 코요태 활동하기 전 2년 정도 모델 활동을 했었다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -647,14 +651,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
