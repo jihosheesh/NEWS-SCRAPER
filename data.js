@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-31 13:31:08
+// 마지막 업데이트: 2026-05-31 14:31:26
 window.NEWS_DB = [
   {
     "id": "nf215ab24",
     "category": "IT",
     "source": "조선일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjYtTk5raXNidl9HMXoxSmxvZXZJTDQ0anpHaUtRSTR2V3U4OEE3MkJsS2NOdGV4NTVkM19jVlFEclJ2ZVhRLXZ2MjdrV1dsbHlOZmJxMDA1LVhRWWRTUEhMQTI5YWNqOXRCOUM4T1NUSW45SXJkSWFCSWFsSWE4Nk5FNA?oc=5",
     "title": "엔비디아, PC 칩까지...GPU뿐 아니라 CPU·소비자 시장까지 독식 야심",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n20a3c251",
     "category": "IT",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RMUNkcVRLTHNRYXh2U1VHOTlWNEhkc2U1UW9UN19iaXJlS05ldlNXMFotUHpNTDd1aUJVNE1QMHFvY3dmUzR3bnBHVVZfS1RQc2hqbWVWMW5aUdIBVEFVX3lxTE5MVGdFTG0xcHNVTk5RMEJ1RmpMSGtuLW5GLTZPbWlGTjZOZFJBWHl5eU5lNTN2MjhYMV91Qi1qMXE0NXE3XzRCdFNUUEVNczVVUXNURw?oc=5",
     "title": "\"엔비디아도 대만 없인 안 된다\"…AI 반도체 목줄 쥔 노하우",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "na0f523e8",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
     "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "nc6196063",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvUkVCaGE5TFlpY01VMzFpNEJFamk2NXhNZ29EQnVHQllBRnlnT1E1V0p5SGxBV19lVDQ1dFM5RDlPak50aTM5b0N2TDM?oc=5",
     "title": "삼성·SK, 美앤트로픽에 조단위 투자…HBM 이어 AI칩 협력",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "n8e14885d",
     "category": "IT",
     "source": "부산일보",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81UlJoUzdvUGppajNlU2ZudW1MS1J6R19oMGZqZk9sWEs2eGxBbjhsQ3E0aE5yZ1lsSEJTVWtTazlUQ3FfbXVBXzBnVGxXRUtZaXM5UkNYRGdGdmF0bGhYVzdCTFI3LTd4SzBaY0NFYkdwMXUw?oc=5",
     "title": "‘제2의 깐부회동’ 예고에 국내 관련 업계 ‘들썩’",
     "summary": [
@@ -122,20 +122,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n22f32cb1",
-    "category": "부동산",
-    "source": "데일리안",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
-    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
-    "summary": [
-      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n27044a56",
     "category": "사회",
     "source": "브런치",
@@ -149,6 +135,20 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n548bb3f9",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ydUtua2g5YjF4MU8tMW1xY25QYjJET3RKUmdMa3FXN29VVTNBNUlyYkw3b19CUnJIS2Vuekc5LTZJSUhRX3duU0VidDRaelgzbHByWF9UenlCTkRFRVE4Y9IBYEFVX3lxTE1ydUtua2g5YjF4MU8tMW1xY25QYjJET3RKUmdMa3FXN29VVTNBNUlyYkw3b19CUnJIS2Vuekc5LTZJSUhRX3duU0VidDRaelgzbHByWF9UenlCTkRFRVE4Yw?oc=5",
+    "title": "[퇴근길머니] 코스피 장중 8,000선 아래로…연내 '금리인상' 신호탄",
+    "summary": [
+      "[퇴근길머니] 코스피 장중 8,000선 아래로…연내 '금리인상' 신호탄 연합뉴스."
+    ],
+    "chips": [
+      "#금리"
     ]
   },
   {
@@ -212,20 +212,6 @@ window.NEWS_DB = [
       "#SK하이닉스",
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n35b9d663",
-    "category": "경제",
-    "source": "KB Think",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
-    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
-    "summary": [
-      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   },
   {
@@ -315,10 +301,276 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "108일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
+    "id": "n1af59c7d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260531/134025732/2",
+    "title": "[사설]사전투표 역대 최고… ‘부정선거 음모론’ 심판한 유권자들",
+    "summary": [
+      "6·3 지방선거의 사전투표율이 역대 지방선거 중 최고치를 기록했다.",
+      "지난달 29일과 30일 진행된 사전투표 투표율은 23.51%로 4년 전 지방선거보다 2.89%포인트 올랐다.",
+      "전체 유권자 약 4465만 명 가운데 1049만8411명이 이미 투표에 참여한 것이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nddac46e2",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260531/134025736/2",
+    "title": "[사설]해외 교수·연구원도 ‘톱티어 비자’… 두뇌 유치 더 과감해야",
+    "summary": [
+      "정부가 세계 최정상급 과학기술 인재를 적극 유치하기 위해 6월부터 ‘톱티어 비자’ 제도를 확대 시행한다.",
+      "지금까지는 반도체, 인공지능(AI) 등 8대 첨단산업 취업 인력에게만 내줬지만, 앞으로는 석학급 대학교수와 연구원까지 폭넓게 적용하기로 했다.",
+      "수상, 논문, 사업화, 경력 등의 조건 중 하나 이상을 갖춘 연구자와 그 가족에게 취업에 제한이 없는 거주 비자를 부여하고 출입국 우대카드를 발급한다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#취업",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nad20ec52",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260531/134025734/2",
+    "title": "[사설]5월 신용대출 2.6조 급증… 고금리에 ‘빚투’는 위험천만",
+    "summary": [
+      "주요 시중은행들이 5월에 빌려준 개인 신용대출 잔액이 5년여 만에 가장 큰 폭으로 불어났다.",
+      "정부의 통제로 집을 사기 위한 가계대출은 둔화됐는데, 그 대신 주식시장에 투자하기 위해 신용대출을 받은 이들이 늘었기 때문이다.",
+      "주요국 중앙은행들이 조만간 금리 인상에 본격적으로 나설 것으로 예상되는 상황에서 주가까지 흔들릴 경우 빚을 감당하지 못한 이들이 개인파산을 맞는 등 사회적 충격이 작지 않을 것이다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nf77227aa",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/31/GZSDQOLFHA2TCNTGGRSTMMTGGY/",
+    "title": "최진혁, 윤시윤 전 과거 연애 '썰'에 기함 \"뺨 안 맞은 게 다행\" ('미우새') [순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 최진혁이 윤시윤의 전 연인과의 에피소드를 듣고 기함했다.",
+      "31일 방송된 SBS ‘미운 우리 새끼’(이하 '미우새')에는 뮤지컬 연습을 마치고 휴식 시간을 갖는 배우 류수영, 최진혁, 윤시윤의 모습이 담겨 눈길을 끌었다.",
+      "이날 유일한 기혼자인 류수영은 연애하려면 사진을 잘 찍어줘야 한다며 요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf810f71a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260531/134025790/2",
+    "title": "[천광암 칼럼]노동 장관의 ‘위험한 불장난’",
+    "summary": [
+      "김영훈 고용노동부 장관이 “대기업의 초과이익을 어떻게 사회적으로 재분배할 것인가를 두고 한국형 사회연대임금의 가능성을 모색하는 긴급 토론을 열겠다”고 최근 밝혔다.",
+      "당초 일정을 1일로 못 박았으나 돌연 계획을 바꿔 “각계의 보다 다양한 의견 수렴을 위해 개최 일정을 다시 조율 중”이라고 한다.",
+      "김 장관이 말한 ‘사회연대임금’은 1950년대 스웨덴에서 처음 시행된 아이디어다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n1146b661",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650917",
+    "title": "CNN \"이란, 지하 미사일기지 입구 69곳 중 50곳 복구\"",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 미국과 이스라엘의 집중 공습으로 타격을 입었던 이란이 지하 미사일 기지 복구 작업을 빠르게 진행하면서 장거리 미사일 전력을 상당 부분 회복하고 있는 것으로 나타났다.",
+      "30일(현지 시간) 미국 CNN은 위성사진 분석 결과를 인용해 이란이 공습으로 매몰됐던 지하 미사일 기지 출입구를 잇달아 복구하고 있으며, 이는 미국과 이스라엘의 공습 전략이 가진 한계를 보여준다고 보도했다.",
+      "보도에 따르면 이란은 미국과 이스라엘의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndecdfb8c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/special/boutique/boutique-fashion/2026/05/31/ZXAPPDDMV5GSPCEHRDJGKWQQHY/",
+    "title": "스포츠와 케이팝 협업은 계속된다! 나이키 X BTS, 나이키 X 지드래곤, 솔로몬 X 지수",
+    "summary": [
+      "스포츠와 케이팝 협업은 계속된다! 나이키 X BTS, 나이키 X 지드래곤, 솔로몬 X 지수."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n77c9dc31",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://view.asiae.co.kr/article/2026053123095982526",
+    "title": "월러 Fed 이사 \"스테이블코인 확산되면 美 통화정책 영향력 더 커져\"",
+    "summary": [
+      "크리스토퍼 월러 연방준비제도(Fed) 이사가 스테이블코인 확산이 미국 통화정책의 글로벌 영향력을 더욱 확대할 수 있다고 주장했다.",
+      "31일(현지시간) 블룸버그통신에 따르며 월러 이사는 크로아티아 두브로브니크에서 열린 행사에서 \"스테이블코인을 채택하는 국가들은 사실상 고정환율제와 비슷한 상황에 놓이게 된다\"며 \"미국의 통화정책 비용을 그대로 수입하게 되는 만큼 미국 통화정책의 영향력이 더 넓은 지역으로 확산될 것."
+    ],
+    "chips": [
+      "#환율",
+      "#정책"
+    ]
+  },
+  {
+    "id": "ncb95d0ee",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260531056900079",
+    "title": "IAEA \"자포리자 원전 터빈 건물, 드론 피격…방사능 수치 정상\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 국제원자력기구(IAEA)는 31일(현지시간) 드론 공격을 받은 우크라이나 자포리자 원자력 발전소 내 터빈 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne450d0ba",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260531056800085",
+    "title": "\"영국 왕실, 앤드루 무역특사 시절 의혹 6년 전 알았다\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국 왕실이 왕자 칭호를 박탈당한 앤드루 마운트배튼 윈저가 무역 특사 시절 기밀정보를 유출하는 등 부적절한 ..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n2170f29f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650922",
+    "title": "국힘, '기표 내역 SNS 공개' 이해식 민주당 의원 경찰 고발",
+    "summary": [
+      "[서울=뉴시스]김지훈 기자 = 국민의힘은 SNS에 자신이 기표한 투표 내역을 공개한 이해식 더불어민주당 의원을 31일 경찰에 고발했다.",
+      "국민의힘 클린선거본부는 이날 이 의원에 대한 공직선거법 위반 혐의로 고발장을 서울 강동경찰서에 제출했다고 밝혔다.",
+      "클린선거본부는 \"이 의원은 사전투표를 마친 후 자신의 SNS를 통해 자신이 기표한 투표 내역을 불특정 다수에게 공개, 공직선거법 제167조를 위반했다\"라며 \"다수의 팔로워를 보유한 공인이자 현직 국."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndd352220",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650921",
+    "title": "[6·3경남]송영기 vs 권순기…'공무원 선거개입 의혹 영상' 두고 공방",
+    "summary": [
+      "[창원=뉴시스] 김기진 기자 = 오는 6·3 제9회 전국동시지방선거를 앞두고 송영기 경남교육감 후보 선거대책본부(이하 선대본부)는 31일 권순기 후보 측이 문제 삼은 '공무원 선거개입 의혹' 영상에 대해 공식 입장을 밝히며 강하게 비판했다.",
+      "선대본부에 따르면, 지난 4월 21일 송 후보는 창원 롯데캐슬 포레스트 아파트 입주민들의 요청으로 M초등학교 통학로 안전 문제를 현장 점검했다.",
+      "가파른 경사와 산을 넘어야 하는 등굣길 등 저학년 아이들의 안."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n087ca5f5",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "31분 전",
+    "url": "https://www.mt.co.kr/world/2026/05/31/2026053122331497535",
+    "title": "PSG 우승 축제가 폭력 사태로…프랑스 파리서 780명 체포·1명 사망",
+    "summary": [
+      "프랑스 유명 프로축구팀 파리생제르맹(PSG)이 유럽축구연맹(UEFA) 챔피언스리그에서 우승하자 거리로 쏟아진 팬들로 인해 파리 도심에서는 폭동이 벌어졌다.",
+      "이 사태로 수백명이 체포됐고 사망 사고까지 발생했다.",
+      "31일(현지시간) 프랑스24 등에 따르면 전날 PSG는 아스널을 꺾고 챔피언스리그 정상에 오른 뒤 전국 곳곳에서 응원단과 경찰 간 충돌이 벌어졌고 780명이 체포됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2bfade61",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260531032451004",
+    "title": "경찰, 서소문 고가도로 붕괴 전 '의사결정 구조' 규명에 집중(종합)",
+    "summary": [
+      "(서울=연합뉴스) 윤민혁 양수연 기자 = 서울 서소문 고가차도 붕괴 사고를 수사 중인 경찰이 붕괴 전후 이뤄진 공사 관계자들의 의사결정 구조를 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe072b79",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "53분 전",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650919",
+    "title": "입원실 남녀 구별 폐지 논란에…복지부 \"현행 유지할 것\"",
+    "summary": [
+      "[서울=뉴시스] 구무서 기자 = 보건복지부가 입원실 남녀 구별 의무 폐지 논란이 불거지자 현행 규정을 유지하겠다고 밝혔다.",
+      "복지부는 31일 오후 보도설명자료를 통해 \"입원실 남녀 구별 규정은 현행대로 유지하고 단서 규정을 추가해 중환자실, 부부나 가족 등이 2인실을 사용하는 경우에 예외를 인정하겠다\"고 말했다.",
+      "앞서 복지부는 병원 입원실의 성별 구별 의무 내용이 담긴 의료법 시행규칙 일부개정령안을 입법예고한다고 밝힌 바 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nbe364a33",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260531024652009",
+    "title": "PSG 챔스리그 우승에 프랑스 전역서 난동…780명 체포(종합2보)",
+    "summary": [
+      "(서울·파리=연합뉴스) 곽민서 기자 송진원 특파원 = 프랑스 프로축구 파리 생제르맹(PSG)이 유럽축구연맹(UEFA) 챔피언스리그(UCL)에서 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n7fcbe386",
     "category": "경제",
     "source": "머니투데이",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/society/2026/05/31/2026053122150517041",
     "title": "서울 신도림 자동차 판금 공장서 화재…2시간만 완진",
     "summary": [
@@ -331,26 +583,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1914abf2",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650909",
-    "title": "[올댓차이나]중국 5월 제조업 PMI 50…3개월 만에 최저치",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 중국의 5월 공식 제조업 구매관리자지수(PMI)가 3개월 만에 최저 수준으로 내려앉았다.",
-      "대기업은 확장세를 유지했지만 중소기업 경기 부진이 두드러졌고, 해외 수요 둔화에 따른 신규 수출 주문 감소도 확인됐다.",
-      "31일 중국 국가통계국에 따르면 5월 제조업 PMI는 50.0으로 집계됐다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
     "id": "n4027605a",
     "category": "경제",
     "source": "머니투데이",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/world/2026/05/31/2026053122020787490",
     "title": "\"69개 중 50개 다시 열렸다\"…이란 지하 미사일 기지, 대거 재가동",
     "summary": [
@@ -363,135 +599,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne436c26c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/31/GE4DCNZXHBSDKNLBGU3TAZRYGA/",
-    "title": "라미란, 과거 하루 네 탕 뛰었다..“아침에 드라마→중간 영화→다시 드라마” (주말연석극)[순간포착]",
-    "summary": [
-      "[OSEN=박하영 기자] 배우 라미란이 하루에 촬영 4탕 뛴 적이 있다고 밝혀 놀라움을 안겼다.",
-      "31일 유튜브 채널 ‘유연석의 주말연석극’에는 ‘“라떼는 말이야(?)” 유바리토크바리’라는 제목의 영상이 게재됐다.이날 유연석은 “누나 시작은 학교 다니다가 이제 공연부터 쭉 시작한 거 아니냐”라고 물었다.",
-      "라미란은 “공연을 오래 했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "na28163bc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650907",
-    "title": "한·아프리카 고위관리회의 개최…\"핵심광물·공급망 실질협력 도약\"",
-    "summary": [
-      "[서울=뉴시스] 유자비 기자 = 외교부는 31일 서울에서 정의혜 차관보와 베티 오사포 멘사 가나 외교부 디아스포라 국장의 공동 주재로 2026 '한-아프리카 고위관리회의(SOM)'를 개최했다고 밝혔다.",
-      "가나는 올해 아프리카 연합(AU) 제1부의장국으로, 이번 한-아프리카 고위관리회의에 참석하는 아프리카 대표단 측을 대표해 공동 주재했다.",
-      "정 차관보는 개회사에서 \"최근 중동 전쟁 등으로 심화된 복합적 글로벌 도전에 직면해 한국과 아프리카가 그 어."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0075182d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650911",
-    "title": "서울 신도림 자동차 판금공장 화재 2시간 만에 완진…2명 대피(종합)",
-    "summary": [
-      "[서울=뉴시스]이다솜 기자 = 31일 오후 7시24분께 서울 구로구 신도림동의 한 자동차 판금공장에서 불이 났다.",
-      "신고를 받고 출동한 소방 당국은 차량 37대, 인원 121명을 동원해 화재 발생 약 2시간 만인 오후 9시14분께 완진에 성공했다.",
-      "이 화재로 2명이 자력 대피했으며 인명 피해나 부상자는 없는 것으로 확인됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n38655beb",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260531/134025856/1",
-    "title": "영어 안 늘어 고민인 손태영 “다시 태어나면 열심히”",
-    "summary": [
-      "배우 손태영이 영어를 배우는 게 쉽지가 않다고 했다.",
-      "손태영은 현재 아이들과 함께 미국 뉴저지에서 살고 있다.손태영은 31일 자신의 유튜브 채널에서 지인인 영어선생님을 만나 데이트 하는 모습을 보여줬다.영어선생님은 “영어가 정말 쉽지 않고 잘 늘지 않는다.",
-      "그런데 계속 써야 한다”고 말했다.손태영은 “자주 써야 하는데 뉴저지 커뮤니티에 한국 분들이 많아서 안 써도 살 수 있다”고 했다.그러면서도 “그런데 아이들 학교에 가거나 이러면 영어가 필요."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n614287ad",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260531/134025851/1",
-    "title": "‘미우새’ 60대 꽃미모 박준금…“연애할 마음 항상 열려 있다” 솔직 고백",
-    "summary": [
-      "배우 박준금이 연애에 대한 열린 마음을 고백해 눈길을 끌었다.31일 오후 방송된 SBS 예능 프로그램 ‘미운 우리 새끼’에서는 배우 박준금의 럭셔리 하우스가 최초 공개됐다.이날 허경환, 탁재훈, 최진혁은 박준금의 집을 방문해 집들이를 즐겼다.",
-      "대화를 나누던 중 허경환은 박준금의 20대 시절 사진을 꺼내 보이며 “너무 예쁘다, 남자들 꽤나 울렸겠다”고 감탄했다.이에 탁재훈은 “요즘도 대시하는 남자들이 있냐”고 물었고, 박준금은 의미심장한 미소로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4e2d0f48",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/05/31/GAZDCNBZGFQTANRQMIYTMODEMY/",
-    "title": "‘58세’ 이소라, 관리 비결 뭐길래?..민 킴 “주름이 없어” 감탄 (‘소라와 진경’)[핫피플]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘소라와 진경’ 이소라가 주름 없는 피부를 자랑했다.",
-      "31일 방송된 MBC ‘소라와 진경’에서는 이소라와 홍진경이 오디션을 마치고 글로벌 메이크업 아티스트 민 킴을 만나는 모습이 그려졌다.이날 이소라와 홍진경은 파리 밤문화를 즐길 수 있는 메이크업을 해달라고 요청했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6942a3d2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "28분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260531/134025831/1",
-    "title": "與 양천구청장 후보, 아기에 “뽀뽀”…‘오빠’ 이어 ‘뽀뽀’ 논란",
-    "summary": [
-      "더불어민주당 정원오 서울시장 후보와 유세에 나선 우형찬 서울 양천구청장 후보가 정 후보 품에 안긴 아기에게 뽀뽀를 하라는 취지로 말해 논란이 일고 있다.",
-      "국민의힘은 민주당 정청래 대표와 하정우 부산 북갑 국회의원 보궐선거 후보가 초교생 여아에게 ‘오빠’라고 불러보라 했던 논란을 재소환하며 “오빠 강요에 이은 뽀뽀 강요”라며 맹공을 퍼부었고 우 후보는 결국 사과했다.우 후보는 31일 서울 양천구 목동 파리공원 유세 현장에서 아기를 안은 정 후보."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc1d1d11c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/05/31/GY2TKYRTHFRGGMJQHA2DAMRZGU/",
-    "title": "CNN “이란, 지하 미사일 터널 입구 69개 중 50개 복구”",
-    "summary": [
-      "미국과 이스라엘의 집중 공격을 받았던 이란의 지하 미사일 시설 터널 입구 69개 중 50개가 다시 복구된 것으로 나타났다.",
-      "30일(현지 시각) 미국 CNN 방송은 자체 위성사진 분석 결과 이란의 지하 미사일 시설의 터널 입구 69개 중 50개가 다시 개방된 것으로 확인됐다고 보도했다.",
-      "미국과 이스라엘은 전쟁 기간 이란의 장거리 미사일 전력을 무력화하기 위."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na0fcc861",
     "category": "경제",
     "source": "아시아경제",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026053121530671102",
     "title": "CNN \"이란, 지하 미사일 기지 대부분 복구\"",
     "summary": [
@@ -504,26 +615,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndf3cc83a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260531_0003650902",
-    "title": "경남도, 월간 먹거리·명소 홍보 '경남픽' 6월 5선 공개",
-    "summary": [
-      "[창원=뉴시스]홍정명 기자 = 경남도는 '월간 경남픽(Pick)'의 6월 소재로 '함양 양파' '밀양 초동연가길' '남해 마늘' '진주 정원박람회' '창녕 산토끼밥상' 5개 소재가 선정됐다고 31일 밝혔다.",
-      "'월간 경남픽'은 경남만의 특색 있는 먹거리와 특산물, 명소 등을 시의성 있게 알리기 위해 경상남도 홍보협의회 참여 기관이 협력해 추진하는 월간 홍보 프로젝트다.",
-      "지난 5월에는 창원 미더덕, 거제 정글빵, 통영 박경리기념관 등을 소개해 호응."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2c24f0a4",
     "category": "IT",
     "source": "아시아경제",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026053121451167349",
     "title": "네이버클라우드, 국방 AI 전담 조직 신설…김유원 대표가 맡는다",
     "summary": [
@@ -537,102 +632,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4fed2266",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531053951004",
-    "title": "신도림 자동차 판금 공장 불 2시간만 완진…인명피해 없어(종합)",
-    "summary": [
-      "(서울=연합뉴스) 양수연 기자 = 31일 오후 7시 24분께 서울 신도림의 자동차 판금 공장에서 불이 났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na5d9d90f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260531/134025229/1",
-    "title": "국힘, “1번만 찍었다” 공개한 이해식 고발…선관위 “위반 아냐”",
-    "summary": [
-      "국민의힘이 더불어민주당 정원오 서울시장 후보 캠프에서 총괄선대본부장을 맡고 있는 이해식 의원을 공직선거법상 투표의 비밀침해죄 혐의로 경찰에 고발했다.",
-      "이 의원은 29일 6·3 지방선거 사전투표를 마친 뒤 페이스북에 “1번만 내리찍었다”며 민주당 후보에게 투표했다는 사실을 공개했다.",
-      "국민의힘 중앙선거대책위원회 산하 클린선거본부(위원장 곽규택 의원)는 31일 “이 의원이 사전투표를 마친 후 자신의 SNS를 통해 자신이 기표한 투표 내역을 불특정 다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb4e000a5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "54분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531055300504",
-    "title": "\"한국-아프리카, 글로벌 도전에 상호연대로 대응해야\"",
-    "summary": [
-      "(서울=연합뉴스) 김지헌 기자 = 첫 번째 한-아프리카 외교장관회의 개최를 알리는 고위급 회의가 31일 서울에서 열렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "naffbff3d",
     "category": "경제",
     "source": "한국경제",
-    "time": "57분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026053193117",
     "title": "CNN \"이란, 휴전 후 예상보다 빠르게 미사일 능력 복구\"",
     "summary": [
       "CNN \"이란, 휴전 후 예상보다 빠르게 미사일 능력 복구\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nca101901",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "59분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260531055200007",
-    "title": "일본 축구, 북중미 월드컵 출정식서 아이슬란드에 1-0 승리",
-    "summary": [
-      "(서울=연합뉴스) 이영호 기자 = 일본 축구 대표팀이 2026 북중미 월드컵 출정식에서 아이슬란드를 꺾었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb4cbbec",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026053082547",
-    "title": "'프듀' 출신 아이돌 정은우, 강남 성형외과 실장 됐다",
-    "summary": [
-      "'프듀' 출신 아이돌 정은우, 강남 성형외과 실장 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na8c23d18",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/society/2026/05/31/2026053121100691095",
-    "title": "\"페이커 할머니 살해\" 협박에 \"일원역 흉기 난동\"…같은 사람? 경찰 수사",
-    "summary": [
-      "프로게이머 '페이커'(본명 이상혁)의 조모를 살해하겠다는 협박 글이 온라인 커뮤니티에 게시돼 경찰이 수사에 나섰다.",
-      "31일 뉴시스에 따르면 서울 도봉경찰서는 온라인 커뮤니티에 흉기 난동 예고 글을 게시한 작성자를 추적 중이다.",
-      "경찰에 따르면 앞서 30일 오후 11시쯤 한 온라인 커뮤니티에 \"페이커의 할머니를 살해하겠다\"는 글이 게시됐다."
     ],
     "chips": [
       "#뉴스"
@@ -645,20 +652,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
