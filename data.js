@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-05-31 17:22:46
+// 마지막 업데이트: 2026-05-31 18:21:16
 window.NEWS_DB = [
   {
     "id": "nf215ab24",
     "category": "IT",
     "source": "조선일보",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjYtTk5raXNidl9HMXoxSmxvZXZJTDQ0anpHaUtRSTR2V3U4OEE3MkJsS2NOdGV4NTVkM19jVlFEclJ2ZVhRLXZ2MjdrV1dsbHlOZmJxMDA1LVhRWWRTUEhMQTI5YWNqOXRCOUM4T1NUSW45SXJkSWFCSWFsSWE4Nk5FNA?oc=5",
     "title": "엔비디아, PC 칩까지...GPU뿐 아니라 CPU·소비자 시장까지 독식 야심",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "na0f523e8",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
     "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nc6196063",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvUkVCaGE5TFlpY01VMzFpNEJFamk2NXhNZ29EQnVHQllBRnlnT1E1V0p5SGxBV19lVDQ1dFM5RDlPak50aTM5b0N2TDM?oc=5",
     "title": "삼성·SK, 美앤트로픽에 조단위 투자…HBM 이어 AI칩 협력",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n8e14885d",
     "category": "IT",
     "source": "부산일보",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81UlJoUzdvUGppajNlU2ZudW1MS1J6R19oMGZqZk9sWEs2eGxBbjhsQ3E0aE5yZ1lsSEJTVWtTazlUQ3FfbXVBXzBnVGxXRUtZaXM5UkNYRGdGdmF0bGhYVzdCTFI3LTd4SzBaY0NFYkdwMXUw?oc=5",
     "title": "‘제2의 깐부회동’ 예고에 국내 관련 업계 ‘들썩’",
     "summary": [
@@ -242,20 +242,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n75c23649",
-    "category": "IT",
-    "source": "한국방송뉴스",
-    "time": "32일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -298,6 +284,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8988be77",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "97일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -313,10 +313,145 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc2aaf943",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/01/HA2WKNBWMMZDGNTFMI3TCOBWGI/",
+    "title": "'그릴리시 때보다 돈 더 줄 수 있다' 맨체스터 시티 '하이재킹', 잉글랜드 국대 모건 로저스 영입전 참전!..'아스널에 밀릴 수 없다'",
+    "summary": [
+      "[스포츠조선 노주환 기자]EPL 부자 구단 맨체스터 시티가 잉글랜드 국가대표 모건 로저스(애스턴 빌라) 영입전에 뛰어들었다.",
+      "아스널이 로저스 영입 레이스에서 가장 앞서 나갔지만 맨시티가 참가하면서 로저스의 몸값이 치솟고 있다고 한다.",
+      "맨시티의 경우 구단 이적료 신기록을 갈아치울 자세라고 한다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n9b0e8056",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260601001200009",
+    "title": "K-문화 열풍에도 아르헨국민 韓보다 日 더 찾아…한국의 2.3배",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = K-팝과 한국 드라마를 중심으로 한 한류 열풍이 아르헨티나에서 확산하고 있지만, 실제 관광 수요에..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n72e4cff0",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026060103062706770",
+    "title": "트럼프, 백악관 연회장 중단 소송 비판…\"드론으로 워싱턴 방어\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 31일(현지시간) 백악관 연회장 건설을 둘러싼 법적 분쟁과 관련해 해당 시설이 국가 안보를 위한 드론 방어 거점 역할을 하게 될 것이라며 공사 중단을 요구하는 소송을 비판했다.",
+      "트럼프 대통령은 이날 트루스소셜에 \"백악관 연회장의 드론포트(DronePort)는 아마도 세계에서 가장 정교한 시설이 될 것\"이라며 \"이 시설은 앞으로 오랫동안 미국의 수도 워싱턴D.C를 안전하게 지킬 것\"이라고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne9d6f8dc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260601_0003650933",
+    "title": "베선트 \"트럼프, 이란 합의 반드시 이행시킬 것\"",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 스콧 베선트 미국 재무장관이 도널드 트럼프 대통령이 이란과의 합의가 성사될 경우 군사적·경제적 수단을 동원해 합의 이행을 강제할 것이라고 경고했다.",
+      "베선트 장관은 지난 31일(현지 시간) 폭스뉴스와의 인터뷰에서 \"트럼프 대통령이 합의에 동의한다면 이를 반드시 이행하도록 만들 것\"이라며 \"군사적으로도, 경제적으로도 그렇게 할 것\"이라고 밝혔다.",
+      "그는 \"이란이 페르시아만 주변 국가들을 공격한 것이 전략적 실수였다\"고."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n47416747",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/06/01/VL4HFSNRNFFNVD6BL3EOOQYW7E/",
+    "title": "[11화] 유비·관우·장비를 향한 십상시의 덫",
+    "summary": [
+      "[11화] 유비·관우·장비를 향한 십상시의 덫."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne9a999e0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/culture-life/travel/2026/06/01/OM3H4OOE5FELDEKYHTDQ7V4QQU/",
+    "title": "안도 다다오가 디자인한 일본 최초의 W호텔",
+    "summary": [
+      "안도 다다오가 디자인한 일본 최초의 W호텔."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2035e5e7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/national/2026/06/01/5UGX45ZLENBE3OAPCSEF6M4XRU/",
+    "title": "[굿모닝 멤버십] 반세기 만에 부활한 일본 ‘노래찻집’",
+    "summary": [
+      "[굿모닝 멤버십] 반세기 만에 부활한 일본 ‘노래찻집’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n594432ea",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "36분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/01/2026053113271079874",
+    "title": "'충격의 3연패' KIA '퇴출' 또 고민한다, 사령탑 \"심사숙고하겠다, 일단 중요한 건...\"",
+    "summary": [
+      "최근 과감하게 아시아쿼터 내야수 제리드 데일(26)의 퇴출을 결정한 KIA 타이거즈.",
+      "그리고 또 한 번 선택의 시간이 다가오고 있다.",
+      "KIA의 '기존 외국인 타자'인 해럴드 카스트로(33)와 '부상 대체 외국인 타자'인 아데를린 로드리게스(35)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n858ea10d",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "57분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/06/01/2026052816341889003",
+    "title": "중국의 속도, 어떻게 읽을 것인가[MT시평/윤종석]",
+    "summary": [
+      "\"우리에겐 꿈이 없었다.\" 영화 '비트'의 대사에 열광하던 시절이 있었다.",
+      "그러나 돌이켜보면 우리에겐 꿈이 있었다.",
+      "1996년, 대학에 처음 들어갔을 때, 나는 과학과 기술로 한국과 세계에 기여할 수 있으리라 믿었다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
     "id": "n133d852e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260601000900087",
     "title": "페루 대선 결선투표 일주일 앞…좌·우 후보 '박빙'",
     "summary": [
@@ -330,7 +465,7 @@ window.NEWS_DB = [
     "id": "n367347a4",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260601000800072",
     "title": "마이크론 '1조달러' 진입에 美서도 AI 거품논란 재점화",
     "summary": [
@@ -343,42 +478,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n379a9e6b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/01/GAYGIZRRG44TIZTEMYZTOMTBGE/",
-    "title": "'월드컵 우승 도전' 자신감? 日, 본선 전까지 연습경기 안한다…모리야스 감독이 밝힌 이유는",
-    "summary": [
-      "[스포츠조선 박상경 기자] 월드컵 우승을 목표로 내건 팀의 자신감일까.",
-      "일본 대표팀이 북중미 현지에서 연습 경기 없이 2026 북중미월드컵 본선을 준비한다고 스포츠호치가 31일 전했다.",
-      "모리야스 하지메 일본 대표팀 감독은 이날 도쿄국립경기장에서 자긴 아이슬란드와의 친선 경기(1대0 승)를 마친 뒤 가진 기자회견에서 \"피지컬 코치를 중심으로 스태프 간 세심한."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3d5a37a8",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/01/MU4TKZDBGFQTGNZUGBSDSMDCGQ/",
-    "title": "\"1년 남았지만 구단과 얘기하고 싶다\" 나폴리에서 즐겁지 않은 '맨시티 레전드' 데 브라위너 '작별' 암시..\"(감독) 말대로 된 게 없다\"",
-    "summary": [
-      "[스포츠조선 노주환 기자]벨기에 국가대표 미드필더 케빈 데 브라위너(나폴리)가 나폴리와의 작별을 암시하는 코멘트를 했다.",
-      "또 그는 최근 나폴리와 결별한 안토니오 콘테 감독에 대해 불만을 공개적으로 드러냈다.",
-      "콘테 감독은 계약 기간을 1년 남기고 최근 상호 합의로 나폴리를 먼저 떠났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n22f015dd",
     "category": "사회",
     "source": "아시아경제",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026060102095002911",
     "title": "美 재무장관 \"호르무즈 개방·HEU 확보·핵보유 금지가 임무완수\"",
     "summary": [
@@ -394,7 +497,7 @@ window.NEWS_DB = [
     "id": "n050e4b32",
     "category": "사회",
     "source": "뉴시스",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260601_0003650932",
     "title": "이란 정부 \"전쟁 위협 여전\"…군 경계태세 유지 강조",
     "summary": [
@@ -410,7 +513,7 @@ window.NEWS_DB = [
     "id": "n26b869a0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260531_0003650737",
     "title": "중국, 저출산 해소 위해 '콘돔 기업 때리기'…시장 1위 '듀렉스' 직격탄",
     "summary": [
@@ -423,25 +526,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7f9843d9",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/06/01/HFSGCOBXGJTDAMJVGU3GGNZQHA/",
-    "title": "월러 연준 이사 “스테이블코인 확산은 美 통화정책 영향력 강화”",
-    "summary": [
-      "스테이블코인(Stablecoin·달러 등 법정 화폐나 특정 자산의 가치에 연동되도록 설계된 가상 자산)의 전 세계적 확산이 미국 중앙은행인 연방준비제도(Fed·Federal Reserve System)의 통화정책 영향력을 강화할 수 있다는 연준 고위 인사의 진단이 제기됐다.",
-      "31일(현지 시각) 크리스토퍼 월러 연준 이사는 크로아티아 두브로브니크에서 열린 콘."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
     "id": "n8d91074a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260531_0003650789",
     "title": "\"체격 커서 못 타요\" 롤러코스터 거부당한 140㎏ 엄마…1년 만에 63㎏ 감량",
     "summary": [
@@ -454,26 +542,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n228e9600",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "53분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/01/MEZTAMBVGEYDSMBSGIYGEMBUMM/",
-    "title": "욕이 절로 나왔다, 평생 수입 10% 갖다 바쳐야 하는데…야구라도 잘해야지, 드디어 첫 홈런 \"푹 잘 수 있겠네\"",
-    "summary": [
-      "[OSEN=이상학 객원기자] 그래도 5월이 끝나기 전에 나왔다.",
-      "극심한 홈런 가뭄에 시달렸던 ‘약물 홈런왕’ 페르난도 타티스 주니어(27·샌디에이고 파드리스)가 마침내 손맛을 봤다.",
-      "타티스 주니어는 지난달 31일(이하 한국시간) 미국 워싱턴 D.C."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nefe0102e",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "54분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260601000600009",
     "title": "월드컵열기 달아오르는 아르헨서 '짝퉁' 대표팀 유니폼 판매↑",
     "summary": [
@@ -484,40 +556,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n63f8984b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601000500071",
-    "title": "트럼프 \"백악관 연회장에 워싱턴 지킬 드론시설…소송 기각돼야\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 31일(현지시간) 백악관 연회장 건설을 막기 위해 제기된 소송과 관련해 연회장..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n46ca9611",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260601_0003650931",
-    "title": "이란 협상대표 \"실질적 성과 없으면 美와 합의 없다\"",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 이란 협상단 대표인 모하마드 바게르 갈리바프 국회의장이 미국과의 협상과 관련해 실질적인 성과가 보장되지 않는 한 어떠한 합의도 수용하지 않겠다는 입장을 밝혔다.",
-      "지난 31일(현지 시간) 알자지라 등에 따르면 갈리바프 의장은 이날 화상으로 열린 의회 회의에서 \"이란 국민의 권리가 보장된다는 확실한 근거가 없는 한 미국과의 분쟁을 끝내기 위한 어떠한 합의도 받아들일 수 없다\"고 밝혔다.",
-      "그는 \"적의 말과 약속은 신뢰."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n424cf6eb",
     "category": "사회",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/06/01/2026053121260558251",
     "title": "'충격' 회장도 포기했던 문제아, 이번엔 2살 친딸 데리고 도주 행각 \"이런 일 한두 번도 아니고...\"",
     "summary": [
@@ -533,7 +575,7 @@ window.NEWS_DB = [
     "id": "n06c1a805",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260601/134026241/1",
     "title": "씨야 응원한 뷔 “선배님들 다시 뭉쳐…정말 팬이다”",
     "summary": [
@@ -548,7 +590,7 @@ window.NEWS_DB = [
     "id": "n655f5f46",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260601/134026238/1",
     "title": "신인 아이돌, ‘일베 의혹’ 제기에 “사실 아냐”",
     "summary": [
@@ -562,7 +604,7 @@ window.NEWS_DB = [
     "id": "nb24f426c",
     "category": "부동산",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260531/134024807/2",
     "title": "경기 ‘삼전닉스 셔세권’ 집값, 서울보다 더 올랐다",
     "summary": [
@@ -581,7 +623,7 @@ window.NEWS_DB = [
     "id": "nbca288d0",
     "category": "IT",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260531/134024825/2",
     "title": "“AI 프런티어 모델 도전… 美-中과 같은 수준으로”",
     "summary": [
@@ -592,53 +634,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
-  },
-  {
-    "id": "n967ddb79",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/culture/2026/06/01/2026053123051168178",
-    "title": "'연장 끝 우승' 호아킨 니만, \"어릴 때부터 꿈꿔온 장면\"... 디섐보의 크러셔스 단체전 10승 [LIV 골프 코리아]",
-    "summary": [
-      "호아킨 니만(28·칠레)이 리브(LIV) 골프 코리아(총상금 3000만 달러)에서 연장 접전 끝에 우승을 차지했다.",
-      "니만은 31일 부산 아시아드 컨트리클럽(파70)에서 열린 대회 최종 4라운드에서 버디 4개와 보기 한 개를 묶어 3언더파 67타를 적어냈다.",
-      "최종 합계 12언더파 268타를 기록해 테일러 구치(미국)와 동타를 이룬 니만은 18번 홀(파4)에서 진행된 연장 첫 홀에서 버디를 잡아 우승을 확정했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n62d63818",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/01/2026053122101227567",
-    "title": "이택근 작심발언 \"히어로즈는 대체 무슨 야구를 하고 싶은 것인가\"",
-    "summary": [
-      "\"대체 어떤 야구를 하고 싶은 건지 묻고 싶다.\" 키움 히어로즈의 '레전드'이자 전 국가대표 외야수 이택근(46)이 연패에 빠진 친정팀 키움을 향해 쓴소리를 쏟아냈다.",
-      "묵묵히 팀을 응원해 온 팬들의 목소리를 대변해 구단의 명확한 방향성 설정을 촉구하는 '작심발언'을 터트린 것이다.",
-      "이택근은 지난 5월 31일 자신의 유튜브 채널 '택근브이로그'를 통해 \"5연승 이후 다시 긴 연패에 빠진 키움의 모습을 보며 많은 생각을 하게 됐다\"면서 \"강팀의 조."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ncaf6444a",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/202605319315i",
-    "title": "AI 챗봇은 친구인가, 상담자인가 [강민주의 디지털 법률 Insight]",
-    "summary": [
-      "AI 챗봇은 친구인가, 상담자인가 [강민주의 디지털 법률 Insight]."
-    ],
-    "chips": [
-      "#AI",
-      "#채용"
-    ]
   }
 ];
 
@@ -647,14 +642,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
