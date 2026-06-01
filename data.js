@@ -1,74 +1,58 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-01 07:38:26
+// 마지막 업데이트: 2026-06-01 09:46:04
 window.NEWS_DB = [
   {
-    "id": "nc728492a",
+    "id": "n64cbaf15",
     "category": "IT",
-    "source": "조선일보",
+    "source": "인공지능신문",
     "time": "1시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZtaTdXU09OeHp4cnpoOXhldFZqNUctWWtUMllUSUo4TEVFNjVUVFNlNHdXa18wM1NDT3VncjZGSUNhMDc2MEdaRVJWYzg5RTdvOGlBZFZVa3FjdzFqVHhCRXJ0UDJCVktXYnZlUkNlUzFBMDhpM0xMTVBLV1Z2bDAtdw?oc=5",
-    "title": "SKT-SK하이닉스, 반도체 공장에 디지털 트윈 적용…엔비디아 GTC서 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lRElfNXFvbWs2Tm51UUVhQWg2Nk1OUmZFcXo2aHRmVmpMbzVldUlMdDE5TVRWeGJhalhCeGp4YnN0cnQ0eUNSdmdYSGk3dHF4cHYxMWVZZkZmMUxXYTN2Zm0zbTE4ODQ?oc=5",
+    "title": "엔비디아, TSMC 첨단 팹에 AI 전면 도입…반도체 설계·제조 혁신 가속",
     "summary": [
-      "SKT-SK하이닉스, 반도체 공장에 디지털 트윈 적용…엔비디아 GTC서 공개 조선일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nb75df936",
-    "category": "IT",
-    "source": "CEO스코어데일리",
-    "time": "2시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwT2RER3lqaEM4VzNHTkQtQ2xXc0R1cjYzZ1h4OXEtYUxZbDNNcG9WYUx4eC1TOEMzQmhYNnBPakpYY1hqWmJHUDRST2dzY2NLNWVfOXU1MlVQX2kybXZMQ2p6Q1lpb3M?oc=5",
-    "title": "젠슨 황 “베라 루빈 생산 중… 삼성·SK 메모리 탑재”",
-    "summary": [
-      "젠슨 황 “베라 루빈 생산 중… 삼성·SK 메모리 탑재” CEO스코어데일리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf90d9a92",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "10시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEgzTU5QX3N2TmMzYV82WlQzR2QxVXNaN3llS3dQSDl3ZWlnNEItWWp2dG5KVHpoYWFFSE5oaXdnMzh0d2E1Mmw1VHJZaUVBVTJqd3lCWE1LOHRCVEtyLU0xTUpOQ1l1c0xvVUJja1g5TUZtY3ZrN0dKa2dOZFFjcG83UFM2WjZ6?oc=5",
-    "title": "美, 엔비디아·AMD AI 반도체 해외 중국 법인 수출 전격 차단",
-    "summary": [
-      "美, 엔비디아·AMD AI 반도체 해외 중국 법인 수출 전격 차단 글로벌이코노믹."
+      "엔비디아, TSMC 첨단 팹에 AI 전면 도입…반도체 설계·제조 혁신 가속 인공지능신문."
     ],
     "chips": [
       "#AI",
       "#반도체",
-      "#엔비디아",
-      "#수출"
+      "#엔비디아"
     ]
   },
   {
-    "id": "n9146b454",
+    "id": "ndd8676bb",
     "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGpJS21ONExBNVhxU3pmejV0SVk3SGp5cTQ1cGdYX0xEUTNDZU55YjJpMHlfMHlPclZ6cS1hMGNmTVZoaGZoV2lqWmJDN0NySGNESW5iakFKWDZQV2FRYWVfNWlkY3JBbElacE5aRFZtWlI4SHhuM1pYb3lPRE05enVwdWs1Zw?oc=5",
-    "title": "\"엔비디아 요구 맞춘 곳은 삼성전자가 유일\"…HBM4E로 드러난 기술 경쟁력",
+    "source": "ebn.co.kr",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84M2JsUlU1SzNISS1lbUE1SWlUMkdTRnRjYU81YnF1MFJPSlpJT0pmV2N6WGdOWWdwT2RBOURIOGRJLUtvYTBoMExjMUtvaDB3ekpNSHJpOEstQkNJelJOSVU0UzFLNktS?oc=5",
+    "title": "엔비디아, AI PC 시장 본격 진출…인텔 독점 구도 흔든다",
     "summary": [
-      "\"엔비디아 요구 맞춘 곳은 삼성전자가 유일\"…HBM4E로 드러난 기술 경쟁력 글로벌이코노믹."
+      "엔비디아, AI PC 시장 본격 진출…인텔 독점 구도 흔든다 ebn.co.kr."
     ],
     "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n7515457b",
+    "category": "IT",
+    "source": "녹색경제신문",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lMXpfUHlHRXFPVmRaODJEeEg1eVR5NmZac05JSXEyOGo0cnUwRWtyelZ0SkV0Mk9uU29oZGp3NEt4RjdRX3J1bGFQYTNkbFBmNGVKQ3NZc2hyMEJnQmJ5eUpnRk1NbG5C?oc=5",
+    "title": "TSMC, AI로 반도체 공장 돌린다…엔비디아와 제조 협력 확대",
+    "summary": [
+      "TSMC, AI로 반도체 공장 돌린다…엔비디아와 제조 협력 확대 녹색경제신문."
+    ],
+    "chips": [
+      "#AI",
       "#반도체",
-      "#엔비디아",
-      "#삼성전자"
+      "#엔비디아"
     ]
   },
   {
     "id": "na0f523e8",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
     "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
     "summary": [
@@ -128,7 +112,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -153,6 +137,21 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nb37924e1",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aMkNtUVQ0aGFXUUlNd1AyOGJ0NmhfVTlPYlVwTTc5TXU2V0s3SXc2bjZPRG8zcVRMVGxORVVyTnA2aHFiVXh2QVFYMXlJaW1lU0xLdVpIN0U5VHPSAWBBVV95cUxQRmVLSEdySlBycWU4NkE4cUVDMHQ0T0lfNDQzcXcxWWd0YnMybk5oSzdWM0dxdDFtVXdfeUh1V2haangxVVJKaWRYbDJQY0lRUVNlSkg3Qk9pSVFSOUZSUzc?oc=5",
+    "title": "삼성전자, 앤트로픽 칩 수주 전망…파운드리 부활 시동",
+    "summary": [
+      "삼성전자, 앤트로픽 칩 수주 전망…파운드리 부활 시동 연합뉴스."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
@@ -279,7 +278,7 @@ window.NEWS_DB = [
     "id": "ncbcb6c77",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "84일 전",
+    "time": "85일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
     "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
@@ -293,7 +292,7 @@ window.NEWS_DB = [
     "id": "nbc27bc5a",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "95일 전",
+    "time": "96일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
     "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
     "summary": [
@@ -307,7 +306,7 @@ window.NEWS_DB = [
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "108일 전",
+    "time": "109일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
     "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
@@ -316,6 +315,56 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
+    ]
+  },
+  {
+    "id": "n186c959e",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152285",
+    "title": "전통 금융권이 가상자산거래소 지분 경쟁에 나선 이유는?",
+    "summary": [
+      "국내 금융권이 가상자산거래소 지분 확보 경쟁에 뛰어들었다.",
+      "미래에셋그룹이 코빗 최대주주 지위를 확보한 데 이어 하나은행, 한화투자증권, 삼성증권이 연이어 두나무 지분을 매입했고, 한국투자증권도 코인원의 주요 주주로 올라섰다.토큰증권(ST)과 원화 스테이블코인 등 디지털자산(가상자산)이 제도권으로 편입되면서, 미래 금융 인프라 주도권을 선점하기 위한 조치로 풀이된다.전통 금융권, 두나무·코인원·코빗 투자1일 가상자산업계에 따르면 삼성증권과 하나은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d4289ad",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152284",
+    "title": "컴퓨텍스에 등장한 '네이버클라우드'...젠슨 황, 韓 지역 파트너 언급",
+    "summary": [
+      "엔비디아가 AI 팩토리 생태계에서 네이버클라우드를 한국 시장 주요 파트너로 언급해 주목된다.젠슨 황 엔비디아 최고경영자(CEO)는 1일 대만 타이베이에서 열린 '엔비디아 GTC 타이페이 2026' 기조연설을 통해 네이버클라우드를 한국 지역 AI 클라우드 사업자로 소개했다.",
+      "코어위브와 네비우스, 엔스케일 등 엔비디아 인프라를 기반으로 성장한 AI 클라우드 기업들을 언급하는 과정에서 네이버클라우드를 함께 거론한 것.생태계 역할 분담 측면에서 엔비디."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "ndc4b92d4",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152283",
+    "title": "[테크M 리포트] '젠슨 황 만남'에 네이버 주가 '급등'...AI 동맹 '굳건'",
+    "summary": [
+      "젠슨 황 엔비디아 대표가 방한해 이해진 네이버 의장과 만나고 1784 사옥을 방문할 가능성이 커지면서 네이버 주가가 급상승했다.",
+      "양사 대표는 회동에서 피지컬 인공지능(AI)과 소버린AI, AI 인프라 등 폭넓은 방향을 논의할 것으로 전망된다.",
+      "1일 한국거래소에 따르면 이날 네이버 주가는 27만1500원으로 마감했다."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#네이버"
     ]
   },
   {
@@ -333,314 +382,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne8a2e211",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152281",
-    "title": "네이버, '피지컬AI' 본격 공략...드론 기업 '유비파이' 투자",
+    "id": "n81e91f8e",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026060118283169030",
+    "title": "고령문화관광재단-GKL사회공헌재단, '지역상생 볼런투어' 성료",
     "summary": [
-      "네이버가 자율주행과 로보틱스에 이어 드론까지 확보하며 피지컬 인공지능(AI) 분야를 본격적으로 강화하고 있다.1일 네이버는 피지컬AI 기술력 확보를 위해 유비파이에 투자했다고 밝혔다.",
-      "유비파이는 드론 군집비행 기술 및 자율비행 플랫폼 전문기업이다.",
-      "설립 초기부터 해외 시장을 적극 공략해 성장세를 키워왔다."
+      "고령문화관광재단은 GKL사회공헌재단, 고령군종합자원봉사센터와 함께 지난 5월 30~31일 고령군 일원에서 관광업계 종사자와 관광 전공 대학생을 대상으로 'GKL 지역 상생 볼런투어'를 운영했다고 1일 밝혔다.",
+      "이번 프로그램은 관광과 봉사를 결합한 사회공헌형 관광 모델로, 참가자들은 개실마을에 머물며 농가 일손돕기와 환경정비 활동에 참여했다.",
+      "또한 대가야박물관, 지산동 고분군, 가얏고마을 등을 방문해 고령의 역사·문화."
     ],
     "chips": [
-      "#AI",
-      "#네이버",
-      "#수출"
+      "#교육",
+      "#환경"
     ]
   },
   {
-    "id": "nf946226f",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152276",
-    "title": "\"먼저 구매 돕는다\" 네이버 커머스, '에이전틱 쇼핑'으로 판 바꾼다",
+    "id": "n46e9df45",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026060118132937845",
+    "title": "구미교육지원청, 통합교육 역량 강화 연수",
     "summary": [
-      "네이버가 인공지능(AI) 쇼핑 애플리케이션인 '네이버플러스 스토어(네플스)' 내 쇼핑 AI 에이전트를 고도화해 차별화된 쇼핑 경험을 제공할 방침이다.",
-      "고객의 구매이력과 찜·장바구니 목록 등을 분석해 먼저 쇼핑을 제안하는 에이전틱AI 형식으로, 검색 중심 쇼핑에서 탐색·실행 중심 쇼핑으로 변화해 커머스 내 입지를 고도화하겠다는 전략이다.",
-      "먼저 쇼핑 제안하는 '에이전틱 AI 쇼핑'1일 네이버는 네플스 내 쇼핑 AI에이전트를 고도화했다고 밝혔다."
+      "경북 구미교육지원청(교육장 민병도)은 지난 5월 29일 경북서부권역 유·초·중·고등학교 교(원)장 230여명을 대상으로 특수(통합)교육 역량 강화를 위한 연수회를 개최했다고 밝혔다.",
+      "이번 연수는 '다양성 이해를 통한 통합교육의 실행'을 주제로 마련됐으며, 학교 현장에서 다양한 학생들과 함께 성장하는 포용적 교육 환경 조성을 위한 실질적인 방안을 모색하는 데 초점을 맞췄다.",
+      "연수에서는 김신애 경상북도장애인권옹호기관."
     ],
     "chips": [
-      "#AI",
-      "#네이버"
+      "#교육",
+      "#환경"
     ]
   },
   {
-    "id": "nf955a295",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152275",
-    "title": "휴머노이드 1대에 2000만원...中 유니트리 IPO 파장 '촉각'",
+    "id": "n500f3e14",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260601_0003651565",
+    "title": "[기자수첩] \"'연두색 번호판'의 취지 지켜야\"…수억대 슈퍼카 오너의 자격",
     "summary": [
-      "휴머노이드 로봇 기업 유니트리 로보틱스가 기업공개(IPO) 절차에 돌입하면서 산업 현장에 미칠 파장에 시장의 이목이 쏠린다.중국 관영매체 글로벌 타임스에 따르면 상하이 증권거래소(SSE) 상장심사위원회는 1일 상장심의회의를 열고 유니트리의 과창판 IPO 신청을 심사한다.",
-      "과창판은 상하이증권거래소가 운영하는 과학기술 기업 전용 시장이다.",
-      "유니트리는 지난 3월 20일 상하이증권거래소에 IPO를 신청했다."
+      "[서울=뉴시스] 류인선 기자 = \"연두색 번호판이 처음엔 어색했지만, 요즘은 최고급차의 외장색과 어울리는 포인트로 꼽히기도 합니다.\" (수입차 업체 한 딜러) 주말인 지난달 30일 오후 경기도의 한 대형 쇼핑몰에 최저가 2억4000만원의 회색 슈퍼카 한 대가 진입했다.",
+      "법인 차량임을 보여주는 연두색 번호판이 눈에 띄었다.",
+      "이 차량은 높이 10㎝ 안팎의 과속방지턱을 아슬아슬하게 넘을 정도로 지상고가 낮았는데, 화려한 외양이 주변의 시선을 한데 모."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n59d1089c",
+    "id": "n20ead2f1",
     "category": "경제",
     "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026060116373931842",
-    "title": "현대차 5월 32만5473대 판매…전년 比 7.7% ↓",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026060118024702179",
+    "title": "성주군, ‘모여라 백세각, 문화한마당’ 독립운동 정신 되새겨",
     "summary": [
-      "협력사 부품 수급 차질 등 영향으로 현대자동차의 5월 판매량이 하락했다.",
-      "현대자동차는 2026년 5월 국내 4만5364대, 해외 28만109대 등 전 세계 시장에서 전년 동월 대비 7.7% 감소한 총 32만5473대를 판매했다고 1일 밝혔다.",
-      "국내 시장에선 전년 동월 대비 23.1% 감소한 4만5364대를 판매했다."
+      "경북 성주군은 지난 30일 백세각에서 개최한 '모여라 백세각, 문화한마당' 행사를 성황리에 마무리했다고 1일 밝혔다.",
+      "국가유산청 국가유산활용사업의 일환으로 열린 이번 행사에는 군민과 외국인 관광객 등 150여 명이 참석해 성주 지역 독립운동의 역사와 의미를 함께 되새기는 시간을 가졌다.",
+      "행사에서는 정우락 교수가 '성주와 파리장서 운동 이야기'를 주제로 강연을 진행했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7d2ab722",
+    "id": "n76426372",
     "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260601/134029727/1",
-    "title": "첫 투표 나서는 18세 유권자 19만 명…고3 후보도 출마",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026060118402895984",
+    "title": "검·경, 한화 대전공장 참사 전담 수사팀 구성…내일 합동 정밀감식",
     "summary": [
-      "6·3 지방선거에서 처음 투표하는 만 18세 청소년이 약 20만 명인 것으로 나타났다.1일 교육부에 따르면 교육행정 정보시스템인 나이스(NEIS)에 등록된 인적·학적 사항을 기준으로 6·3 선거에 참여하는 청소년 유권자는 19만5907명으로 집계됐다.",
-      "다만 이는 실제 선거인 명부와 일부 다를 수 있다.공직선거법과 민법에 따라 선거일 다음 날까지 만 18세가 되는 경우 투표권이 부여된다.",
-      "이번 선거에서는 고3 학생(학교 밖 청소년 포함) 중 20."
+      "한화에어로스페이스 대전사업장에서 근로자 7명이 숨지거나 다친 대형 폭발 참사와 관련해 검찰과 경찰이 각각 대규모 전담 수사팀을 꾸리고 본격적인 원인 규명에 착수했다.1일 대전지검은 전영우 형사4부 부장검사를 팀장으로 검사 3명, 수사관 6명 등 총 10명 규모의 전담팀을 구성했다고 발표했다.",
+      "대전지검은 \"경찰 및 노동청 등 유관기관과 전방위적으로 협력해 사고 원인과 책임 소재를 철저히 밝혀내겠다\"며 \"이와 함께 신."
     ],
     "chips": [
-      "#정치",
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n71a35a65",
+    "id": "n8516dbde",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260601_0003652296",
-    "title": "한화에어로 노조 \"죽음 방치하고 용인\"…진상규명 촉구",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260601_0003652511",
+    "title": "선거구민에 금전제공…군수선거 후보 배우자 등 2명 고발",
     "summary": [
-      "[대전=뉴시스]김도현 기자 = 한화에어로스페이스 대전 사업장에서 5명의 사망자가 발생한 가운데 노조가 철저한 진상 규명을 촉구했다.",
-      "한화에어로스페이스 노조 허록 위원장은 1일 오후 4시 대전 유성구 외삼동 한화에어로스페이스 대전 사업장 앞에서 \"비슷한 장소에서 같은 방식의 사고가 반복되는 것은 충분히 예견된 일임에도 이번 사고는 죽음을 방치하고 용인하는 것\"이라고 성명을 내어 목소리를 높였다.",
-      "허 위원장은 \"과거 2018년과 2019년 비슷한."
+      "[천안=뉴시스] 조명휘 기자 = 충남선거관리위원회(충남선관위)는 제9회 전국동시지방선거(지선)와 관련해 선거구민에게 기부행위를 한 혐의로 군수선거 후보 배우자 등 2명을 검찰에 고발했다고 1일 밝혔다.",
+      "충남선관위에 따르면 군수선거 후보의 배우자인 A씨와 그의 동생 B씨는 선거구민에게 금전을 제공한 혐의를 받고 있다.",
+      "선거구민 C씨도 기부행위가 제한되는 사람으로부터 금전을 제공받은 혐의로 과태료가 부과될 예정이다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n320cb8ef",
+    "id": "nf89cb847",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260601_0003652189",
-    "title": "[AD]'현대차 아틀라스', 월드컵 무대 향한 도전 캠페인…\"축구로 로보틱스 미래 제시\"",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/06/01/MVRWMNLBME3DINRYGY4GKZBRHE/",
+    "title": "SK, 정승일 前 한전 사장 영입…지주사 미래성장담당 사장 임명",
     "summary": [
-      "현대자동차가 휴머노이드 로봇 '아틀라스'를 앞세운 FIFA 월드컵 2026 캠페인을 공개하며 차세대 피지컬 인공지능(AI) 기술력을 선보였다.",
-      "현대자동차는 FIFA 월드컵 2026 공식 파트너로서 보스턴다이나믹스의 휴머노이드 로봇 아틀라스가 축구 동작을 학습하는 과정을 담은 '스쿨 오브 풋볼(School of Football)' 캠페인 영상을 공개했다고 1일 밝혔다.",
-      "이번 캠페인은 현대차의 월드컵 캠페인 '미래는 지금 여기서부터(Next Sta."
+      "SK그룹은 정승일 전 한국전력공사 사장을 SK그룹의 지주사인 SK㈜ 미래성장 담당 사장 겸 SK하이닉스 에너지TF(태스크포스) 사장으로 임명했다고 1일 발표했다.",
+      "정 전 사장은 올해 초 SK하이닉스 고문에 선임된 후 약 반년 만에 SK㈜와 SK하이닉스의 사장으로 낙점받았다.",
+      "정 전 사장은 1965년생으로 산업통상자원부 에너지자원실장과 차관, 한국가스공사."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n2c66f81b",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/01/2026060118245275130",
+    "title": "'라 마시아 핏줄' 이승우, 다시 마이크 잡는다... '바르셀로나 vs 리버풀' 레전드 매치 특별 해설위원 합류",
+    "summary": [
+      "이승우(28·전북 현대)가 '친정' 바르셀로나의 레전드들 위해 마이크를 잡는다.",
+      "바르셀로나와 리버풀 레전드들이 맞붙는 '2026 챔피언스 임팩트 인 서울'이 오는 6월 6일 오후 6시 서울월드컵경기장에서 펼쳐진다.",
+      "주최사 올리브크리에이티브는 1일 \"이승우가 이날 SBS 생중계 특별 해설위원으로 나선다\"고 발혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc9a3ff0",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "7분 전",
+    "url": "https://www.hankyung.com/article/2026060115501",
+    "title": "부산시 '명문 향토기업' 33곳 선정",
+    "summary": [
+      "부산시 '명문 향토기업' 33곳 선정."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nade36440",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "7분 전",
+    "url": "https://www.hankyung.com/article/202606011485i",
+    "title": "특검, '尹 체포 저지' 박종준 전 경호처장 1심 징역 7년 구형",
+    "summary": [
+      "특검, '尹 체포 저지' 박종준 전 경호처장 1심 징역 7년 구형."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1c475a8d",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "7분 전",
+    "url": "https://www.hankyung.com/article/202606019332i",
+    "title": "러우 전쟁에서 현대전 배운 북한…韓 대드론 방어 비상",
+    "summary": [
+      "러우 전쟁에서 현대전 배운 북한…韓 대드론 방어 비상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0a158d13",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/industry/2026/06/01/2026060116533353709",
+    "title": "픽케어, 반려동물 맞춤형 AI 정보 플랫폼 출시",
+    "summary": [
+      "AI(인공지능) 기반의 반려동물 정보 플랫폼 기업 픽케어(대표 강수민)가 반려동물 보호자 맞춤형 AI 정보 제공 서비스를 출시했다고 1일 밝혔다.",
+      "픽케어는 반려동물의 품종·나이·생활 습관 등 기본 프로필과 대화 맥락을 AI로 분석, △질환 정보 △생활관리 △사료 및 간식 선택 △오프라인 서비스 등의 정보를 제공하는 플랫폼이다.",
+      "보호자와의 대화가 쌓일수록 반려동물의 상황을 더 구체적으로 반영하는 구조다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n593117b8",
+    "id": "n3853e7e1",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260601_0003651637",
-    "title": "부안군, 2박3일 체류형 '생애편집여행' 마무리…창작형 관광 연계",
+    "source": "한국경제",
+    "time": "7분 전",
+    "url": "https://www.hankyung.com/article/2026060115491",
+    "title": "\"경남 먹여살리는 K원전 중소·중견기업에 맞춤 처방\"",
     "summary": [
-      "[부안=뉴시스]고석중 기자 = 전북자치도 부안군은 주식회사 시고르청춘과 공동 기획한 2박3일 체류형 관광 프로그램 '생애편집여행' 운영을 마무리했다고 1일 밝혔다.",
-      "'영감의 부안' 시리즈의 첫 프로젝트인 이번 행사는 참가자들이 부안 우덕마을에 머물며 지역 자원을 체험하고 기록하는 창작 연계형 여행으로 진행됐다.",
-      "프로그램 기간 참가자들은 우덕문화기록관, 향교마을, 파란 곳간 등 주요 로컬 공간을 방문해 지역에 정착한 주민들과 교류하는 시간을 가졌."
+      "\"경남 먹여살리는 K원전 중소·중견기업에 맞춤 처방\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7c1cfca3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/01/2026060115165914179",
-    "title": "\"MC몽, 차가원과 VVIP 게임룸 드나들어\"…엇갈린 PD수첩 주장",
-    "summary": [
-      "'PD수첩'이 가수 MC몽(신동현)과 차가원 피아크그룹 회장의 도박 스캔들 실체를 공개한다고 밝혔다.",
-      "오는 2일 방송되는 MBC 'PD수첩'에서는 연예기획사 원헌드레드 차가원 회장의 영업비밀을 파헤친다.",
-      "지난 3월 원헌드레드레이블은 소속 그룹 더보이즈가 \"몇 달간 정산금을 지급받지 못했다\"며 전속계약효력정지가처분 신청을 하면서 구설에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6bad6d0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260601_0003652290",
-    "title": "\"바이오혁신에 전주기 지원\"…특구재단·바이오협회 맞손",
-    "summary": [
-      "[대전=뉴시스] 김양수 기자 = 연구개발특구진흥재단은 1일 재단 회의실에서 한국바이오협회와 '특구내 바이오산업 혁신성장 및 기술사업화 활성화를 위한 업무협약'을 체결했다.",
-      "앞서 두 기관은 바이오기업의 해외시장 개척지원과 투자유치에서 지속 협력을 해왔으며 이번 협약은 상호 협력 범위를 구체화하고 확대하기 위해 이뤄졌다.",
-      "협약을 통해 특구재단과 협회는 특구내 유망 바이오기업의 글로벌 진출과 투자유치를 공동 지원하고 대·중견기업과 연계한 바이오분야."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n63fe2617",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/01/2026060115595991605",
-    "title": "노동부, 한화에어로스페이스 폭발 사고 '전담수사팀' 구성",
-    "summary": [
-      "(종합) 고용노동부가 한화에어로스페이스 대전 사업장 폭발 사고 관련해 전담 수사팀을 구성했다.",
-      "김영훈 노동부 장관은 1일 대전 소재 한화에어로스페이스 사업장 폭발 사고 관련해 류현철 산업안전보건본부장을 현장에 급파하고 신속한 사고수습을 긴급 지시했다.",
-      "이에 따라 노동부 본부와 대전지방고용노동청에 각각 중앙산업재해수습본부, 지역산업재해수습본부를 구성했다."
-    ],
-    "chips": [
-      "#고용",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n08bfdc9d",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260601/134029868/1",
-    "title": "“노조가 먼저 ‘생존 전략’ 고민”…도요타 노조가 ‘N% 분배’에 젖은 韓노조에 주는 교훈",
-    "summary": [
-      "최근 국내에서는 ‘이익의 N%’를 성과급으로 분배해달라는 대기업 노조의 요구가 잇따르는 반면 글로벌 완성차 1위 기업인 일본 도요타자동차 노조는 오히려 생존을 고민하며 ‘생산성 향상’을 노사 간 의제로 제시한 것으로 나타났다.",
-      "한국경영자총협회는 1일 ‘도요타 노사관계의 시사점’ 보고서를 내고 도요타 노사가 올해 총 4차례 노사협의회를 열어 머리를 맞대고 기업의 생존방안을 함께 논의했다고 밝혔다.",
-      "그러면서 “우리나라 노조는 노사의 윈윈을 위한 장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne8d3d362",
+    "id": "n7d55d919",
     "category": "사회",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/06/01/C2YDJZIVJRCXDJ7XAA54AIJPKI/",
-    "title": "종합특검 “尹, 2023년 11월부터 비상계엄 준비 정황 확인”",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/06/01/MLHGGBJ55ZH63L6IGTGGEJKMSU/",
+    "title": "한화 김승연 “유명 달리한 직원 최선 예우...특별 TF 구성”",
     "summary": [
-      "종합특검 “尹, 2023년 11월부터 비상계엄 준비 정황 확인”."
+      "한화 김승연 “유명 달리한 직원 최선 예우...특별 TF 구성”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n612c072b",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601134800008",
-    "title": "[표] 코스피 지수선물·옵션 시세표(1일)-2",
+    "id": "nbf6d60c0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260601_0003652514",
+    "title": "'성관계 거부' 여친 폭행·협박한 20대…징역형 집유",
     "summary": [
-      "◇개별주식선물(기초자산 기준 시총 상위 100개) (단위:원,계약)."
+      "[서울=뉴시스]이다솜 기자 = 성관계를 거부했다는 이유로 여자친구를 폭행하고 협박해 상해를 입힌 20대 남성이 징역형 집행유예를 선고받았다.",
+      "1일 법조계에 따르면 서울남부지법 형사8단독(판사 송한도)은 지난 4월 29일 상해 및 특수협박 혐의로 기소된 김모(28)씨에게 징역 2년에 집행유예 3년을 선고했다.",
+      "김씨는 지난해 12월 6일 술에 취해 서울 강서구 자택에 귀가한 후 여자친구이자 피해자인 B씨에게 성관계를 요구한 뒤 이를 거부당하자 격분."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na5e419bc",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601134400030",
-    "title": "농식품부, 조류인플루엔자 경보 '관심' 하향…'평시 방역' 전환",
+    "id": "nbf2a1752",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260601_0003652495",
+    "title": "'5명 사망' 한화에어로 폭발참사, 원인규명…2일 합동감식",
     "summary": [
-      "(서울=연합뉴스) 김세린 기자 = 농림축산식품부는 고병원성 조류인플루엔자(AI) 발생 위험도가 낮아짐에 따라 위기경보를 '주의'에서 '관심' 단..."
+      "[대전=뉴시스]김도현 기자 = 사망자 5명 등 7명의 사상자를 낸 한화에어로스페이스 대전 사업장 폭발 사고 원인을 규명하기 위해 경찰 등 기관이 합동 감식에 나선다.",
+      "대전경찰청은 2일 오전 10시 대전 유성구 외삼동 한화에어로스페이스 대전 사업장 폭발 현장에서 원인 규명을 위한 합동 감식을 실시한다고 1일 밝혔다.",
+      "이번 감식에는 경찰을 비롯해 소방당국, 국립과학수사연구원(국과수), 안전보건공단 등 유관 기관이 참여해 정밀 감식을 벌일 예정이다."
     ],
     "chips": [
-      "#AI",
       "#의료"
     ]
   },
   {
-    "id": "n0231ebdf",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601134700008",
-    "title": "[표] 코스피 지수선물·옵션 시세표(1일)-1",
-    "summary": [
-      "◇주가지수선물 (단위:포인트,계약)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9df942c2",
+    "id": "nc0aa8fe0",
     "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260601/134029824/1",
-    "title": "관세청, 지난해 6월~올 4월 마약류 3233㎏ 적발",
-    "summary": [
-      "지난해 6월부터 올해 4월까지 세관 당국에 적발된 마약류가 3.2t에 달하는 것으로 나타났다.",
-      "이종욱 관세청장은 1일 정부대전청사에서 현 정부 출범 1년간 관세행정 분야에서 거둔 성과를 발표하며 이같이 밝혔다.",
-      "관세청이 지난해 6월부터 올 4월까지 국경 단계에서 적발한 마약류는 총 1181건, 3233㎏ 규모다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf43f39e9",
-    "category": "경제",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601135400008",
-    "title": "이엔에프테크놀로지, 애프터마켓서 10%대 급등",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260601098251063",
+    "title": "검찰·경찰, 한화에어로스페이스 폭발 사고 전담 수사팀 구성(종합)",
     "summary": [
-      "(서울=연합뉴스) 코스닥 상장사 이엔에프테크놀로지[102710]가 1일 애프터마켓에서 10%대 급등 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4484bd70",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026060116303207988",
-    "title": "\"요구 많다\" 임신한 아내 폭행한 30대 남편…벌금 700만원",
-    "summary": [
-      "요구가 많다는 이유로 임신 중인 배우자를 폭행한 남편이 벌금형을 선고받았다.",
-      "1일 연합뉴스에 따르면 춘천지법 형사2부(김성래 부장판사)는 상해, 특수협박, 특수재물손괴, 재물손괴, 폭행 혐의로 기소된 A씨(33)에게 원심과 같은 벌금 700만원을 선고했다고 밝혔다.",
-      "A씨는 2023년 8월 임신 중인 아내 B씨가 요구가 많다는 이유 등으로 말다툼을 하던 중 화가 나 폭행을 가했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na500bd01",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260601133900008",
-    "title": "다산솔루에타, 32억원 제3자배정 유상증자",
-    "summary": [
-      "(서울=연합뉴스) 코스닥 상장사 다산솔루에타[154040]는 운영자금 등 약 32억원을 조달하고자 제3자배정 유상증자를 결정했다고 1일 공시했다..."
+      "(대전=연합뉴스) 김소연 기자 = 7명의 사상자가 발생한 한화에어로스페이스 대전공장 폭발 사고와 관련해 검찰과 경찰이 전담 수사팀을 꾸리고 집중..."
     ],
     "chips": [
       "#뉴스"
@@ -653,14 +649,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
