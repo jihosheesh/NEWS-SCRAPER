@@ -1,11 +1,41 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-02 19:09:17
+// 마지막 업데이트: 2026-06-02 21:00:16
 window.NEWS_DB = [
+  {
+    "id": "n010f58ad",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "39분 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjJCbTBvXzJvNFIwNms1VnFzNmx0M0hWSE9naG1FbXdRdUZCU3dEUmg1SEpaTzBUeUhBblh0UHE2bkJLWThyNV9JZVRMalM4QldQT2g0Vl9OUHA4M3d1cGcwRG1lakFyRGtSUC1wUDdpVWdEMzB4NkVDT0F0dFczbEkxVGtiWWYt?oc=5",
+    "title": "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속",
+    "summary": [
+      "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속 글로벌이코노믹."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nf7aff249",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "5시간 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGZyV25BNGY2T0NvNElRckI5bnZtcU94RzNPOHh2TkVVdTlmVzVqWVIxM0tzZEZuWlZLLTVfMXpreF9qMzh4bkZDclVBak16TDJZN1UzT2lYb0JjNXhTMm5PX2s1WnFhMEtOSGVGaUs2R2RMVWlOUFVTd0FSSXlXa1VyZw?oc=5",
+    "title": "젠슨 황 \"메모리 부족 지속\"… 최태원 \"5년 내 생산 능력 2배 확대\"",
+    "summary": [
+      "젠슨 황 \"메모리 부족 지속\"… 최태원 \"5년 내 생산 능력 2배 확대\" 조선일보."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
   {
     "id": "n70cb7884",
     "category": "사회",
     "source": "투데이경제",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
     "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
     "summary": [
@@ -17,14 +47,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5b16fdfe",
+    "id": "n38022242",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "10시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0pTME40YURudGhfd1FYdVlNQVFmQ05hZWlCUnd1bG1KcUY5cHJ5ckY5UW9TNkVMUUNKMzh4RWpuODlaRkdsbWZOS3MzVjZocWhQZW8ybGtrLWppbl8yalppR2FKTzc3ZFdpdVFmbFViYmdzREx6amsySG1hc3NqOS1B?oc=5",
-    "title": "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0pTME40YURudGhfd1FYdVlNQVFmQ05hZWlCUnd1bG1KcUY5cHJ5ckY5UW9TNkVMUUNKMzh4RWpuODlaRkdsbWZOS3MzVjZocWhQZW8ybGtrLWppbl8yalppR2FKTzc3ZFdpdVFmbFViYmdzREx6amsySG1hc3NqOS1B0gGWAUFVX3lxTE1aMWZ5eHRUTDI0MjlVbFQtUHpWQndoVzZ6VktVa29ySkJlODAzd3A1UnY2YnZ6dm03MzhXMFYtMkRmQjRNeW5iYkNvUDhtTENrRWlIa0VubjBCeDZ5eS1TazM1bkhhVUNfcmRVR3FIQmQxNFRoUFhMMV9UYzF1NlJPYkphOVhWLWF5QXgwYjN3WkVZTEhGdw?oc=5",
+    "title": "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈",
     "summary": [
-      "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 Chosunbiz."
+      "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#반도체",
@@ -36,7 +66,7 @@ window.NEWS_DB = [
     "id": "ncc63267a",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WTjBJMHRibW5zWU9MNDF4YzI1WU1aMXBhVHVBTGQ3R0xSakNlU0JYMnZUZGRhbWtPOEtTaThIbHZqUFVpRFJlWFg4dm5FMjhBTGpnREJZMHAzWWQ2bXItN2JJY0laYlFzWXNkdkVKX0F6Wnc?oc=5",
     "title": "엔비디아 젠슨 황 삼성전자 반도체 성과급 '긍정 평가', 노사 갈등 길어지면 AI 공급망 차질 우려 반영",
     "summary": [
@@ -50,25 +80,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n569ecf59",
-    "category": "IT",
-    "source": "한스경제",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ldTVSTUNwR0FXdUxiVEFHZmdpZjFoVkVuOVcwQ0h3VmNJblBOeFJLTkszWVlnQlhkNVhpak9HeFhtVmlmNXUwZjY3UjgzdEN4cE9rUlM2Vnp5clNBX04zVWlqQkRNRHNKNkNR0gFvQVVfeXFMTlZ4SWs1cm9RWFRhNzdsTW1IUzJ1cGpldmFCNDhDWjQ1MnZ5Um40dktwWDZfREVqdWZGdlV3X2pMcXZRYk43dHMzYzVfSF8tSm9RR3pydHRIOEh4V2VoT2h2Z2hHak05NWtmd1VIUnFr?oc=5",
-    "title": "반도체 다음은 '로봇'…엔비디아가 LG에 꽂힌 이유",
-    "summary": [
-      "반도체 다음은 '로봇'…엔비디아가 LG에 꽂힌 이유 한스경제."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "na51ce02d",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LaFJiaVhMOVg4RmU3ZUdELWJZQldVcVNNalNXTnNiQVpiM3Z1V1AtdFY4QWNCZ2M0bUthYnRWb0xjMUFvQkhYZm1CaW9OV0tQaVY5TWVKd0RCaU1pdlNhTWp3YlNYR0dI?oc=5",
     "title": "삼성전자·하이닉스, HBM4 베이스다이 경쟁…메모리에서 '파운드리 전쟁'으로",
     "summary": [
@@ -80,24 +95,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf215ab24",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjYtTk5raXNidl9HMXoxSmxvZXZJTDQ0anpHaUtRSTR2V3U4OEE3MkJsS2NOdGV4NTVkM19jVlFEclJ2ZVhRLXZ2MjdrV1dsbHlOZmJxMDA1LVhRWWRTUEhMQTI5YWNqOXRCOUM4T1NUSW45SXJkSWFCSWFsSWE4Nk5FNA?oc=5",
-    "title": "엔비디아, PC 칩까지...GPU뿐 아니라 CPU·소비자 시장까지 독식 야심",
-    "summary": [
-      "엔비디아, PC 칩까지...GPU뿐 아니라 CPU·소비자 시장까지 독식 야심 조선일보."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n120ef4f4",
     "category": "경제",
     "source": "jabon.co.kr",
-    "time": "19시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iNXYzdE0ya09tLXJESmhRR1QyMXU5YWJPMHRQMGNIMFRGd1QxVU9HWXdfYXNmVnF5b1o5blBYMWtzdGM4QW1uVUdISWJzR3pGdW5kQWUyYmZqWXhiMFZkZUNjVUtBbXc?oc=5",
     "title": "한은 매파에 국고채 일제 상승, 환율 장중 18원 급등락",
     "summary": [
@@ -256,17 +257,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc27bc5a",
+    "id": "n75c23649",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "97일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
-    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
+    "source": "한국방송뉴스",
+    "time": "34일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "62일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -295,20 +310,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n490343d1",
-    "category": "스포츠",
-    "source": "미디어오늘",
-    "time": "202일 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ME9tQ2JRQWtiTUxTcTVVUHRPUVFhcXNDWFo0TnVSUm9ubWo2d0o0UTVOQ01iUW1tMlNYVG9JWjRMbl95c3MzVk5CNmJMUnNDRU02VGk4aTFXWU5QTlNkcHVwbW40Z3otVkxUaGd0cm8?oc=5",
-    "title": "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’",
-    "summary": [
-      "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’ 미디어오늘."
-    ],
-    "chips": [
       "#KBO"
     ]
   },
@@ -345,285 +346,291 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nafcf50bb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260602_0003654080",
-    "title": "\"최고 33도 무더위\"…대구·경북 일부 최대 20㎜ 소나기",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 수요일인 3일 대구와 경상북도는 구름이 많은 가운데 일부 지역에 비가 내릴 것으로 예상된다.",
-      "대구지방기상청은 이날 \"오후부터 저녁 사이 대구와 경북내륙, 경북북동산지 일부 지역에 소나기가 내리겠다\"고 예보했다.",
-      "예상 강수량은 5~20㎜다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na8b80334",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/03/2026060219250925565",
-    "title": "배찬승 솔직 고백 \"AG 가면 정말 좋겠지만, 더 잘해야 해→제가 할 것만 한다면...\"",
-    "summary": [
-      "삼성 라이온즈 좌완 불펜 배찬승(19)이 오는 9월 열리는 아시안게임(AG)을 향한 솔직한 심경과 함께 마운드 위에서의 단단한 각오를 전했다.",
-      "박진만(50) 감독의 든든한 지원사격 속에 무서운 성장세를 보이고 있는 배찬승은 신인답지 않은 대범함과 유쾌함을 뽐내며 평정심을 유지하면서 시즌을 치르고 있다고 했다.",
-      "박진만 감독은 2일 NC 다이노스전을 앞두고 기자들과 만난 자리에서 유격수 이재현과 좌완 불펜 배찬승에 대해 \"아시안게임에 갔으면 하는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd79ab9a4",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603005400002",
-    "title": "달러-원, 삐걱대는 종전 협상에 경계심…1,520원선 '바짝'",
-    "summary": [
-      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 상승폭을 더 늘리며 1,520원 선에 바짝 다가선 채 장을 마쳤다..."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "ne7459bdd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654285",
-    "title": "\"총격으로 중단 백악관 기자단 만찬 내달 24일 다시 개최\"",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 총격 사건으로 중단됐던 미국 백악관 기자단 만찬 행사가 내달 다시 개최된다.",
-      "CNN, 워싱턴포스트(WP) 등 현지 언론에 따르면 CBS방송 소속 웨이지아 장 백악관 출입기자협회장은 2일(현지 시간) 회원들에게 보낸 이메일에서 \"오는 7월 24일 금요일 워싱턴DC에서 또 다른 만찬을 개최할 것임을 발표하게 되어 자랑스럽다\"고 말했다.",
-      "장 회장은 만찬 일정 재조정에 대해 \"자동으로 내려진 것은 아니다\"라며 \"신중한."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neda8550d",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/03/2026060303474775576",
-    "title": "美 \"301조 조사 결과 곧 발표\"…한국 등 70개국 관세 사정권",
-    "summary": [
-      "미국 무역대표부(USTR)가 한국을 포함해 수십개국을 상대로 실시한 무역법 301조 조사 결과가 수주 안에 발표된다.",
-      "조사 결과에 따라 한국에 미칠 관세 등의 영향이 적잖을 수 있다는 전망이다.",
-      "제이미슨 그리어 USTR 대표는 2일(현지시간) CNBC 방송에 출연해 연방대법원의 상호관세 위법 판결로 생긴 관세 공백을 대체하는 방안에 대한 질문을 받고 \"각국의 특정 불공정 무역관행에 대해 70개국 이상을 조사하고 있다\"며 \"앞으로 몇주 안에 결과."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n1d067773",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603005000079",
-    "title": "이라크 \"송유관 통한 석유 수출 3배 이상으로 확대 계획\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이라크가 향후 2개월여 안에 송유관을 통한 원유 수출량을 현재 하루 22만 배럴에서 77만 배럴로 3배 이..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nd80af484",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603004900087",
-    "title": "멕시코·캐나다 \"북미자유무역협정 16년 연장 제안\"",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국·멕시코·캐나다 무역협정(USMCA) 개정 문제를 미국과 논의 중인 멕시코와 캐나다가 협정을 16년..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "ne6d24ccb",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/03/2026060303355498091",
-    "title": "박시은, 떠난 딸 태은이 떠올리며 눈물 \"초음파실, 아직도 무서워\"",
-    "summary": [
-      "진태현, 박시은 부부가 결혼 11주년을 맞아 세상을 떠난 딸 태은이를 향한 그리움을 전했다.",
-      "2일 방영된 SBS '동상이몽 2 - 너는 내 운명' 441회에서는 배우 진태현, 박시은 부부가 결혼 11주년을 맞아 지난 시간을 돌아보는 모습이 공개됐다.",
-      "이날 박시은이 \"11년 동안 정말 많은 일이 있었다\"고 운을 떼자 진태현은 \"가족들이 너무 확장됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne83cd0b3",
+    "id": "n20fc6652",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603004500091",
-    "title": "MS, 첫 추론모델 등 자체 AI 7종 공개…'오픈AI 의존 축소' 가속",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603007251072",
+    "title": "뉴욕증시, AI 낙관론 지속에 3대지수 최고치 마감…다우 0.5%↑(종합)",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 마이크로소프트(MS)가 자체 개발 인공지능(AI) 모델 7종을 한꺼번에 선보이며 오픈AI 의존을 줄이..."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 중동 정세 불확실성에도 불구하고 인공지능(AI) 관련 업종의 강세 흐름이 지속되면서 2일(현지시간) 뉴욕증시..."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "na45ef04c",
+    "id": "n784ad69f",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260602152900002",
+    "title": "보이스피싱 줄었다는데…1년간 5대 은행 계좌 지급정지 15만건",
+    "summary": [
+      "(서울=연합뉴스) 임지우 기자 = 1년간 5대 은행에서 범죄에 연루된 계좌를 지급정지한 사례가 15만건에 육박했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6b4658cd",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/03/2026060302551143312",
-    "title": "박시은, '성인만 입양' 시선에 입 열었다 \"여러 조건 때문에 무산\"",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/03/2026060222262541888",
+    "title": "삼성 박승규 간곡한 호소 \"올스타전 꼭 가고 싶습니다, 그 이유는...\"",
     "summary": [
-      "진태현, 박시은 부부가 '성인만 입양한다'는 일부 시선에 대해 직접 해명했다.",
-      "2일 방영된 SBS '동상이몽 2 - 너는 내 운명' 441회에서는 배우 진태현, 박시은 부부가 2024년부터 가족으로 함께한 경기도청 마라토너 한지혜 선수를 공개했다.",
-      "이날 두 사람은 자신들을 둘러싼 '성인 입양' 관련 의문에 정면으로 답했다."
+      "삼성 라이온즈 외야수 박승규(26)가 데뷔 첫 올스타전 출전을 향한 간절한 바람을 전했다.",
+      "단순히 팬들의 인기를 만끽하기 위함이 아니다.",
+      "어린 시절 야구 선수의 꿈을 심어줬던 무대에 직접 서서 자신을 응원해 준 팬들에게 잊지 못할 추억을 선물하고 싶다는 진심 어린 이유에서다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nec19950f",
+    "id": "n811894bb",
     "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/premium/2026/06/03/RHBJH4GV6VBKLJYSXBL3DHPXOI/",
-    "title": "전노협과 임수경에 묻힌 ‘거리의 도살자’… 8명 죽인 연쇄살인마",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603008500034",
+    "title": "낮 최고 32도 더운 선거일…오후 곳곳 소나기",
     "summary": [
-      "전노협과 임수경에 묻힌 ‘거리의 도살자’… 8명 죽인 연쇄살인마."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3689396",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/06/03/N2CMFEEWVBAPDIKRWI7TUTU6DE/",
-    "title": "[13화] “살 길이 없사옵니다”… 바짝 엎드린 환관들의 속내",
-    "summary": [
-      "[13화] “살 길이 없사옵니다”… 바짝 엎드린 환관들의 속내."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na2f87611",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/medical/2026/06/03/65XR5MPGBRH3BE7NGUB3E4LW3Y/",
-    "title": "’53kg 소식좌 그녀‘에게 찾아온 지방간… 주말 식단이 주범이었다",
-    "summary": [
-      "’53kg 소식좌 그녀‘에게 찾아온 지방간… 주말 식단이 주범이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbb856cbe",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260602_0003652907",
-    "title": "\"이별 때 거절하더니 금값 오르자 돌변\"…2년 후 커플링 값 달라는 전 남친",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 헤어진 지 2년 된 전 남자친구에게 커플링 값을 돌려달라는 연락을 받은 사연이 온라인에서 화제가 되고 있다.",
-      "지난 1일 온라인 커뮤니티에는 관련 내용과 메신저 캡처본이 올라왔다.",
-      "게시자에 따르면 2년 전 헤어진 전 남자친구가 당시 함께 맞춘 커플링 값을 돌려달라는 연락을 보내와 당황스러웠다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd34d7c3a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654283",
-    "title": "트럼프 \"미·이란 협상중단은 거짓…오늘까지도 대화 계속\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 2일(현지 시간) \"이란과 미국이 대화를 중단했다는 며칠전 가짜뉴스 보도들은 거짓이며 잘못된 정보\"라고 강조했다.",
-      "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 이같이 밝힌 뒤 \"우리 대화는 4일전에도, 3일전에도, 이틀 전에도, 하루전에도 그리고 오늘도 계속 이어져왔다\"고 주장했다.",
-      "그는 \"대화가 어디로 이어질지는 누구도 알 수 없지만 제가 이란에 말한 것처럼 이제 어떤."
+      "(서울=연합뉴스) 조현영 기자 = 전국동시지방선거일이자 수요일인 3일은 낮 기온이 30도 이상으로 올라 덥겠다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nf1a248b9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260603/134039892/1",
-    "title": "‘6월의 신부’ 문채원, 순백의 드레스 입고 환한 미소",
+    "id": "n51673a6d",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260602148800002",
+    "title": "원화코인 컨소시엄 급물살…은행권·핀테크 이합집산",
     "summary": [
-      "배우 문채원이 이달 결혼을 앞두고 웨딩화보를 공개했다.문채원은 2일 자신의 사회관계망서비스(SNS)에 하트 이모티콘과 함께 사진 여러 장을 공개했다.사진 속 문채원은 순백의 웨딩드레스를 입고 단아하면서도 우아한 분위기를 자아냈다.문채원은 지난 4월 소속사를 통해 결혼 소식을 알렸다.",
-      "예비 신랑은 비연예인이다.소속사는 “결혼식은 가족과 가까운 친지들을 모시고 비공개로 진행한다”며 “문채원의 새로운 출발에 따뜻한 축복을 보내달라”고 말했다.2007."
+      "(서울=연합뉴스) 한지훈 박수현 기자 = 원화 스테이블코인 발행·유통을 위한 사업자 간의 이합집산이 차츰 윤곽을 드러내고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nae166073",
+    "id": "nc232ce1b",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260603/134039887/1",
-    "title": "같은 빌라 이웃 부녀 둔기로 무차별 폭행한 60대 검거",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/03/GQZTCMTBGBQTQOBZGQ2TMOJRGM/",
+    "title": "韓 초대박! 이강인, 결국 로마노까지 떴다...PSG와 결별 가능성 “더 뛰기 위해 떠날 수 있다”",
     "summary": [
-      "같은 빌라에 사는 이웃 부녀를 둔기로 무차별 폭행한 60대 남성이 경찰에 붙잡혔다.경기 남양주남부경찰서는 살인미수 혐의로 A 씨를 붙잡아 조사 중이라고 2일 밝혔다.A 씨는 이날 오후 8시 40분쯤 남양주시 화도읍 한 빌라에서 이웃인 50대 여성 B 씨와 80대 남성 C 씨를 둔기로 때려 중상을 입힌 혐의를 받는다.부녀 관계인 피해자들은 머리 등을 크게 다쳐 인근 병원으로 옮겨졌다.A 씨는 술에 취해 집에 가던 중 빌라 현관에서 B 씨와 말다툼."
+      "[OSEN=이인환 기자] 이강인(25, 파리 생제르맹)의 여름이 심상치 않다.",
+      "유럽 정상에 오른 직후에도 이적설은 사라지지 않았다.파리 생제르맹(PSG)은 2025-2026시즌 유럽축구연맹(UEFA) 챔피언스리그 결승에서 아스널과 1-1로 비긴 뒤 승부차기에서 4-3으로 이기며 대회 2연패에 성공했다.",
+      "루이스 엔리케 감독 체제에서 다시 한 번 유럽 정상에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n794a3b80",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260602152000002",
+    "title": "내일 차기 여신금융협회장 윤곽…업권 출신 유력 거론",
+    "summary": [
+      "(서울=연합뉴스) 김지연 기자 = 카드사와 캐피탈사 등 여신업계를 대변하는 여신금융협회 차기 수장이 오는 4일 결정된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5087d2af",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/03/ME4TQZRZHFTDQNTFMNQWCMRXMQ/",
+    "title": "진태현, 갑상선암 수술 후 회복 중인데..“세상이 내게 스트레스 줘”(동상이몽2)[순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 진태현이 갑상선암 투병 후 건강한 근황을 전했다.2일 방송된 SBS ‘동상이몽2 - 너는 내 운명’(이하 동상이몽2)에 진태현, 박시은 부부가 출연했다.박시은, 진태현은 병원을 찾았다.",
+      "1년 전 갑상선암 수술을 받은 진태현이 추적검사를 하기 위해 찾은 것.박시은은 진태현을 괴롭히는 것이 스트레스."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "ne53f8936",
+    "id": "nb1d2268e",
     "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260603/134039884/1",
-    "title": "차가원 “MC몽 성매매 제보 받고 업무 배제…우려했던 상황”",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260602_0003653090",
+    "title": "'서소문' 등 잇단 참사…광역 단체장 후보들 '재난안전' 공약은",
     "summary": [
-      "차가원 피아크그룹 회장 겸 원헌드레드레이블 대표가 과거 동업자였던 가수 MC몽의 성매매 논란과 업무 배제 과정을 밝혔다.2일 MBC 시사 프로그램 ‘PD수첩’은 ‘MC몽과 회장님의 K팝 영업비밀’이라는 주제로, 차 회장과 MC몽을 둘러싼 각종 의혹들을 다뤘다.이날 차 회장은 인터뷰에서 엔터테인먼트 사업에 뛰어들면서 이어진 MC몽과의 인연에 대해 밝혔다.그는 “거창한 이유는 없었다.",
-      "MC몽을 지인으로 알게 됐고, 그 분이 회사에 전 투자자가 빠지."
+      "[서울=뉴시스] 강지은 기자 = 6명의 사상자를 낸 서울 서소문 고가차도 붕괴사고 등 최근 일상 속 안전에 대한 시민들의 불안감이 커지면서 6·3 지방선거 광역 자치단체장 후보들의 재난안전 공약에도 관심이 쏠린다.",
+      "16개 광역 단체장 가운데 서울시장 등 주요 접전지 후보들의 공약집과 기자회견 등을 바탕으로 관련 내용을 정리해봤다.",
+      "3일 이번 지방선거의 최대 승부처인 서울시장 선거는 수도권광역급행철도(GTX)-A노선 삼성역 구간 철근 누락 사태,."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n65b25c07",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654292",
+    "title": "뉴욕증시, '이란 협상·AI 낙관론'에 일제 상승 마감…다우 0,45%↑",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 뉴욕 증시는 2일(현지 시간) 인공지능(AI) 투자 열풍과 중동 전쟁 종식 기대감에 사상 최고치를 경신하며 상승세로 장을 마감했다.",
+      "S&P500지수는 사상 처음으로 7600선을 돌파하며 9거래일 연속 상승세를 이어갔다.",
+      "지난해 5월 이후 최장 랠리다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nf586b048",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/03/GQYGCMBUGE4WEYTDMQ3TCOJSGM/",
+    "title": "이재욱, 과자 3일동안 먹는다?..소식좌 해명 “촬영 때문 자제” (밥은영)[순간포착]",
+    "summary": [
+      "[OSEN=박하영 기자] 배우 이재욱이 소식좌가 아니라고 해명했다.",
+      "2일 유튜브 채널 ‘밥은영’에는 ‘너는 군대행 나는 신행 이등병 이재욱이 마지막으로 먹고 간 음식’이라는 제목의 영상이 게재됐다.이날 박은영은 요리하던 중 “재욱 씨에 대해 좀 알아봤는데 맛동산 하나를 3일 동안 먹었다고 하던데”라고 물었다.이재욱은 “아니 제가 작정하고 먹으면 다 먹을 수."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8f52481e",
+    "id": "nfc14ea25",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260602_0003653901",
+    "title": "서울시교육감 선거 D-데이…본투표 참여 후보는 누구?",
+    "summary": [
+      "[서울=뉴시스]정예빈 기자 = 사전투표 첫날6·3 지방선거 본투표 날인 3일 서울시교육감 후보들도 저마다 투표소를 찾아 한 표를 행사한다.",
+      "이번 서울시교육감 선거는 보수·진보 양 진영 모두 단일화에 실패하며 '8파전'으로 치러진다.",
+      "보수 진영에서는 김영배·류수노·윤호상·조전혁 후보가, 진보 진영에서는 정근식·한만중·홍제남 후보가, 중도 진영에서는 이학인 후보가 시민들의 선택을 기다리고 있다."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n9da45ffa",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/03/2026060305365032517",
+    "title": "젠슨황이 찍자 주가 33% 급등…AI가 이끈 사상 최고치[뉴욕마감]",
+    "summary": [
+      "뉴욕증시 주요지수가 2일(현지시간) 인공지능(AI) 투자 열풍과 이란전쟁 종식 기대에 힘입어 또다시 사상 최고치를 경신했다.",
+      "S&P500지수는 사상 처음으로 7600선을 돌파했다.",
+      "이날 뉴욕증권거래소에서 S&P500지수는 9.82포인트(0.13%) 오른 7609.78에, 기술주 중심의 나스닥종합지수는 7.09포인트(0.03%) 상승한 2만7093.90에 각각 마감했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nf283c251",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "29분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/03/2026060215144022205",
+    "title": "\"장동혁 오지마\"서 \"박근혜 결집\"까지…국민의힘 '각자도생' 선거전",
+    "summary": [
+      "[the300] 국민의힘에 6·3 전국동시지방선거는 '중앙당 없는 선거'에 가까웠다.",
+      "장동혁 대표의 리더십은 선거 초반부터 당내 갈등의 소재가 됐고, 일부 후보들은 중앙당의 엄호보다 거리두기로 활로를 찾으려 했다.",
+      "결국 선거 막바지 이명박·박근혜 전 대통령을 유세장으로 불러내 보수 결집에 마지막 기대를 걸고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "neb9d6bd6",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260602_0003654133",
+    "title": "젠슨 황의 말말말 \"韓·대만 모두 특별…SK하이닉스의 성공 자랑스러워\"",
+    "summary": [
+      "[서울=뉴시스]박나리 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 최근 대만 타이베이에서 열린 컴퓨텍스 현장에서 한국 기업들과의 협력 확대 의지를 거듭 드러냈다.",
+      "고대역폭메모리(HBM)를 비롯한 AI 반도체 공급망 협력부터 로보틱스, AI 팩토리, 엔비디아 개발자 콘퍼런스 GTC(연례 엔비디아 AI 콘퍼런스) 서울 개최 가능성까지 한국과 관련한 주요 발언을 잇달아 내놨다.",
+      "◆\"한국은 특별하다\"…GTC 서울 개최 가능성도 열어둬 2일 업계에."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nabf0fd9b",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260603/134039881/1",
-    "title": "이스라엘·레바논, 美 중재 속 워싱턴 휴전 협상 재개",
+    "time": "34분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260603/134039918/1",
+    "title": "“이사 왔으니 쇠젓가락 11세트 보내달라”…어느 ‘배민 거지’ 황당 요청",
     "summary": [
-      "이스라엘과 레바논 정부간 고위급 휴전 협상이 2일(현지 시간) 미 국무부에서 재개됐다.CNN과 타임스오브이스라엘에 따르면 이스라엘과 레바논 정부 대표단은 이날 미국 워싱턴DC 국무부에서 미국 중재로 협상을 진행 중이다.예키엘 라이터 주미 이스라엘 대사와 나다 하마데 모아와드 주미 레바논 대사가 각국 대표로 참석했다.",
-      "미국에서는 마이크 니덤 백악관 국가안보부보좌관, 댄 홀러 국무부 장관 보좌관, 마이크 허커비 주이스라엘 대사가 중재 역할을 맡았다."
+      "배달 전문 식당을 운영하는 한 자영업자가 “서비스로 쇠젓가락을 달라”는 황당한 요청을 받았다며 영수증을 공개해 해당 고객이 비난받고 있다.지난 1일 자동차 커뮤니티 보배드림에는 ‘3년 동안 장사하면서 이런 요청 사항은 처음입니다’라는 제목의 글이 올라왔다.자신을 30대 자영업자라고 소개한 A 씨는 “포장·배달 위주로 장사한 지 어느덧 3년이 다 돼 간다.",
+      "장사하면서 사람을 당황하게 만드는 요청 사항은 많이 받아봤지만 이런 경우는 처음”이라고 밝."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5aae3c84",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "35분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260603/134039915/1",
+    "title": "키오스크 앞 쩔쩔매던 노부부 도왔더니…영화관 VIP가 된 ‘사연’ 화제",
+    "summary": [
+      "디지털 기기 사용에 애를 먹고 있던 노부부에게 베푼 작은 친절이 뜻밖의 보답으로 돌아왔다.1일 한 온라인 커뮤니티에는 “CGV 키오스크 발권기 앞에서 헤매고 있는 노부부를 도와드린 이후”에 대한 내용의 글이 올라왔다.사연에 따르면 지난해 A 씨는 영화를 보기 위해 CGV를 찾았다가 키오스크 사용에 어려움을 겪던 노부부를 발견해 직접 글을 써가며 티켓 발권을 도왔다.A 씨에 따르면 노부부는 뒤에 줄을 선 사람들에게 연신 양해를 구하며 발권을 시도."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f43250d",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "43분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/03/2026060215494235629",
+    "title": "장난삼아 \"투표 한 번 더?\"…선거날 이 행동 했다간 '전과자' 된다",
+    "summary": [
+      "6·3 지방선거 투표 과정에서 장난이나 호기심으로 한 행동이 형사처벌로 이어질 수 있어 주의가 필요하다.",
+      "가장 대표적인 사례는 중복투표 시도다.",
+      "사전투표를 마친 유권자는 본투표일에 다시 투표할 수 없다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n22d521ac",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260603/134039023/4",
+    "title": "[오늘의 운세/6월 3일]",
+    "summary": [
+      "[오늘의 운세/6월 3일]."
     ],
     "chips": [
       "#뉴스"
@@ -636,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
