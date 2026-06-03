@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-03 17:37:48
+// 마지막 업데이트: 2026-06-03 19:14:38
 window.NEWS_DB = [
   {
     "id": "nce4e0ce0",
     "category": "IT",
     "source": "한국경제",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTdIBVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTQ?oc=5",
     "title": "\"AI 시대의 데이터 병목…추론 특화 칩이 해결사\"",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "ne110559f",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwM1lxY2QxazI0TVI1VFdkR2ExeHB2WkUwT3IwUTkwdUpzNW9oR3REejFwUk52aDJ2cXpaUWU3blZWYlRuc0xjT3RiVUd3UGFqMUlWOTdsM3BEdHNWbk9aMWVBNkM3X1E?oc=5",
     "title": "엔비디아 의존 낮추는 MS… 한국 반도체 공급망 재편 신호탄",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n010f58ad",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjJCbTBvXzJvNFIwNms1VnFzNmx0M0hWSE9naG1FbXdRdUZCU3dEUmg1SEpaTzBUeUhBblh0UHE2bkJLWThyNV9JZVRMalM4QldQT2g0Vl9OUHA4M3d1cGcwRG1lakFyRGtSUC1wUDdpVWdEMzB4NkVDT0F0dFczbEkxVGtiWWYt?oc=5",
     "title": "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속",
     "summary": [
@@ -224,20 +224,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n00c2ed38",
+    "id": "n35b9d663",
     "category": "경제",
-    "source": "비즈니스포스트",
+    "source": "KB Think",
     "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81RldwenFscGVxbmtVNXB3UmxIZndtYThpLThIUDMzNUN6M3ozZE5aVUd6TTVQSnc0ZjZyLUZzbDhNdUpPNTg4bl9oQjdmeXRNUVR4SVNsbGhqVWE2N05qZGxVbXNJQmlMOE00WGhvOVZtRGs?oc=5",
-    "title": "[박혜린 기자의 내돈내굴] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
+    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
     "summary": [
-      "[박혜린 기자의 내돈내굴] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유 비즈니스포스트."
+      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
     ],
     "chips": [
-      "#삼성전자",
-      "#SK하이닉스",
-      "#금리",
-      "#환율"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "14일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
     ]
   },
   {
@@ -280,21 +292,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n1e3b72e2",
-    "category": "사회",
-    "source": "매일경제 마켓",
-    "time": "113일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
-    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
-    "summary": [
-      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -342,102 +339,256 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb811869e",
+    "id": "n86c70447",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003655010",
-    "title": "[당선인 인터뷰]조지훈 전주시장 \"바꿔야 산다는 명령 받들겠다\"",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260604_0003655462",
+    "title": "[당선인 인터뷰] 이광재 국회의원 \"하남을 행복하게 만들겠다\"",
     "summary": [
-      "[전주=뉴시스] 윤난슬 기자 = \"전주를 바꿔야 산다는 시민 여러분의 간절한 외침을 가슴 깊이 새기겠습니다.\" 더불어민주당 조지훈 후보가 71%가 넘는 압도적인 득표율로 제9회 전국동시지방선거 전주시장 선거에서 승리하며 향후 4년간 전주시정을 이끌게 됐다.",
-      "4일 중앙선거관리위원회 개표 현황에 따르면 조 당선인은 유효 투표 중 15만1970표(70.72%)를 얻어 4만7637표(22.16％)를 획득한 진보당 강성희 후보를 크게 앞섰다."
+      "[하남=뉴시스]이호진 기자 = 경기 하남시갑 국회의원 보궐선거에 출마한 더불어민주당 이광재 후보의 당선이 확정됐다.",
+      "이 당선인은 4일 개표율 99.7%를 기록한 오전 3시50분 기준 4만4093표(49.67%)를 얻어 2위인 국민의힘 이용 후보(4만2730표)를 따돌리고 당선을 확정지었다.",
+      "하남에 둥지를 틀며 국회의원으로 복귀하게 된 이 당선인은 “뒤늦은 출발이었음에도 따뜻하게 제 손을 잡아주신 하남시민 여러분께 감사드린다”며 인사를 전했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "na13684e5",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260604/134046000/1",
-    "title": "[속보]전재수, 부산시장 당선 유력",
+    "id": "nea95d7b9",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654954",
+    "title": "\"상급지 아파트서 월 50만원 생활\"…'월세 더 내야 하나' 직장인 갑론을박",
     "summary": [
-      "6·3 지방선거 부산시장 선거에서 더불어민주당 전재수 후보의 당선이 유력한 것으로 나타났다.4일 중앙선거관리위원회에 따르면 이날 오전 2시 35분 기준(개표율 89.65%) 전 후보는 과반인 50.6%의 득표율을 기록하며 선두를 굳혔다.",
-      "국민의힘 박형준 후보의 득표율은 47.84%다."
+      "[서울=뉴시스]김혜경 기자 = 서울에서 직장 생활을 하는 30대 여성이 친구 집에 시세보다 훨씬 저렴한 비용으로 거주하고 있는 사연을 공개하며 \"내가 염치없는 것인지 모르겠다\"고 고민을 털어놨다.",
+      "지난 2일 한 온라인 커뮤니티에는 '친구한테 월세 줘야 하나요? 제가 염치 없는 건가 해서'라는 제목의 글이 올라왔다.",
+      "작성자 A씨는 지방 출신으로 대학 진학 이후 10년 넘게 서울에서 자취 생활을 해왔다고 밝혔다."
+    ],
+    "chips": [
+      "#부동산",
+      "#교육"
+    ]
+  },
+  {
+    "id": "ncb326798",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604027300054",
+    "title": "[6·3 지선] 전남광주기초단체장 5곳, 1천표 안팎 '초박빙' 승부",
+    "summary": [
+      "(광주·무안=연합뉴스) 박철홍 기자 = 6·3 지방선거 전남광주 기초단체장 선거에서 일부 군 지역은 막판까지 손에 땀을 쥐게 하는 초박빙 승부가..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n1b08cd93",
+    "id": "n79101601",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654499",
-    "title": "[프로필]김석준 부산교육감 당선인…첫 4선 교육감",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026060404084980016",
+    "title": "경기 평택을, 범여권 분열에 국힘 유의동 4선 고지",
     "summary": [
-      "[부산=뉴시스] 이아름 기자 = 김석준 부산시교육감 당선인은 진보 성향 교육인이다.",
-      "이번 선거에서 당선되면서 전국 최초 4선 교육감이 됐다.",
-      "다만 김 당선인은 전교조 통일학교 해직교사 특별 채용을 지시한 혐의로 1심에서 징역형 집행유예를 선고받았다."
+      "3일 치러진 경기 평택시을 국회의원 재선거에서 유의동 국민의힘 후보가 범여권 후보들을 꺾고 4선 고지에 오르게 됐다.",
+      "4일 중앙선거관리위원회에 따르면 이날 오전 4시 기준 개표율이 98.25%인 가운데 유 후보는 김용남 더불어민주당 후보, 조국 조국혁신당 후보를 제치고 34.64%(3만2814표)의 득표율로 1위를 달리고 있다.",
+      "김 후보와 조 후보는 패배를 인정했다."
     ],
     "chips": [
-      "#채용",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n907c4395",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604027000053",
+    "title": "[6·3 지선] 대구시교육감, 보수 성향 강은희 후보 3선 당선",
+    "summary": [
+      "(대구=연합뉴스) 김선형 기자 = 제9회 전국동시지방선거 대구시교육감 선거에서 보수 성향인 강은희 후보가 당선됐다."
+    ],
+    "chips": [
       "#정치",
       "#교육"
     ]
   },
   {
-    "id": "nd0af3d2d",
+    "id": "nb14f4205",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655367",
-    "title": "[속보]인천 서구청장, 구재용 '당선'…52.64%(개표율 94.51%)",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1d761fab",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655365",
-    "title": "[속보]인천 검단구청장, 김진규 '당선'…65.6%(개표율 85.98%)",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n59a224e8",
-    "category": "스포츠",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/04/MYZGMOLBGA3WMMRQMMZDKMTDMI/",
-    "title": "'고개 숙인 감독' 냅다 뛰었다가 3루 황당 아웃 → KIA 추격에 찬물",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/04/MJTDSYZRG5QWEZLDGBTDEMRYGQ/",
+    "title": "우상호 강원지사 후보 당선…김진태 “도민 선택 겸허히 받아들여”",
     "summary": [
-      "[스포츠조선 나유리 기자]단독 선택이었을까.",
-      "냅다 뛰었지만 결과는 아웃이었다.",
-      "KIA 타이거즈가 분위기를 이어가지 못하고 졌다."
+      "우상호 더불어민주당 강원지사 후보가 6·3 지방선거에서 당선됐다.",
+      "4일 중앙선거관리위원회에 따르면 우 후보는 개표율 90.97%를 기록한 강원지사 선거에서 51.43%를 득표했다.",
+      "김진태 국민의힘 후보의 득표율은 48.56%다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7067235f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604022751063",
+    "title": "[6·3 지선] 더불어민주당 조상호 후보, 세종시장 당선(종합)",
+    "summary": [
+      "(세종=연합뉴스) 양영석 기자 = 제9회 전국동시지방선거 세종시장 선거에서 더불어민주당 조상호 후보가 당선됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n85216da2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260604_0003655193",
+    "title": "정명근 재선 확정 \"시민선택 틀리지 않았음 증명할 것\"",
+    "summary": [
+      "[화성=뉴시스] 문영호 기자 = 6·3 지방선거 경기 화성시장 선거 개표가 진행 중인 가운데, 더불어민주당 정명근 후보가 당선을 확정지었다.",
+      "4일 중앙선거관리위원회 개표 결과를 살펴보면 오전 4시 현재 화성시장 선거 개표율은 80.82%다.",
+      "더불어민주당 정명근 후보가 21만6456표(59.10%), 국민의힘 박태경 후보가 12만5372표(34.23%), 개혁신당 전성균 후보가 2만4369표(6.65%)를 획득, 정명근 후보의 당선이 확실해졌다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nebf952cb",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604025500061",
+    "title": "[인터뷰] 이상일 용인시장 당선인 \"용인시민의 위대한 승리\"",
+    "summary": [
+      "(용인=연합뉴스) 김광호 기자 = 경기 용인시장 선거에서 국민의힘 이상일 후보가 4일 당선되며 용인시 첫 재선 민선시장 타이틀을 거머쥐었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc2488a74",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260604_0003655461",
+    "title": "중앙선관위 \"투표용지 부족, 선거연기·재선거 사유 아니다\"",
+    "summary": [
+      "[서울·과천=뉴시스] 김난영 김윤영 기자 = 중앙선관위가 6·3 지방선거 일부 선거구 투표용지 부족 사태에 관해 \"공직선거법에 따른 선거의 연기나 재선거 사유에 해당하지 않는다\"고 밝혔다.",
+      "선관위는 4일 새벽 과천 청사에서 위원 회의를 진행한 후 입장문을 내고 이같이 밝혔다.",
+      "선관위는 \"따라서 현재 진행되는 개표를 중단하는 것은 불가하다\"고 했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nac454b45",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260604/134046282/1",
+    "title": "[속보]선관위 “개표 중단 불가…선거 연기-재선거 사유 아냐”",
+    "summary": [
+      "중앙선거관리위원회가 4일 투표용지 부족 사태 이후 국민의힘 등이 요구한 개표 중단 요청에 대해 “현재 진행되는 개표를 중단하는 것은 불가하다”고 밝혔다.",
+      "중앙선관위는 또 투표용지 부족으로 발생한 이번 사안이 선거 연기나 재선거 사유에 해당하지 않는다고 판단했다.",
+      "중앙선관위는 이날 자정 투표용지 부족 사태에 대응하기 위한 긴급회의를 열고 난 뒤 입장문을 통해 이같이 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n268ede58",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "15분 전",
+    "url": "https://www.hankyung.com/article/2026060458071",
+    "title": "범여권 분열에…유의동 막판 역전",
+    "summary": [
+      "범여권 분열에…유의동 막판 역전."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n966cd0b8",
+    "id": "n2a36e0c1",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604017100062",
-    "title": "[6·3 지선] 김동일 철원군수 당선인 \"사람 중심 정책 실천할 것\"",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/politics/election2026/2026/06/04/6VG6LOT5LBCOVMEZXY4EZZF3MI/",
+    "title": "[속보] 선관위 “투표용지 부족 사태, 재선거 사유 아냐... 개표 중단 불가”",
     "summary": [
-      "(철원=연합뉴스) 양지웅 기자 = 현직 군수의 3선 연임 제한으로 무주공산으로 치러진 강원 철원군수 선거에서 국민의힘 김동일 후보가 군민들의 선..."
+      "[속보] 선관위 “투표용지 부족 사태, 재선거 사유 아냐... 개표 중단 불가”."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7c3e42f8",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603077400065",
+    "title": "[6·3 지선] 인천시, 4년 만에 또 수장 교체…시정 대변화 예고",
+    "summary": [
+      "(인천=연합뉴스) 신민재 기자 = 6·3 지방선거에서 인천시장에 출마한 더불어민주당 박찬대 후보가 당선되면서 다음 달 출범하는 민선 9기 시정부..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na63c0258",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/2026060458101",
+    "title": "'무소속 반란' 한동훈 원내 입성",
+    "summary": [
+      "'무소속 반란' 한동훈 원내 입성."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3126eb64",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026060354491",
+    "title": "달라진 부산 민심, 전재수 택했다",
+    "summary": [
+      "달라진 부산 민심, 전재수 택했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5006d09c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "23분 전",
+    "url": "https://view.asiae.co.kr/article/2026060403512376796",
+    "title": "美 재무장관 \"인플레 급등은 일시적 현상\"…Fed 진단 반박",
+    "summary": [
+      "스콧 베선트 미국 재무장관은 3일(현지시간) 이란 전쟁 여파로 급등한 물가가 \"단기적인 일시 현상(short-term blip)\"이라며 시장의 우려를 일축했다.",
+      "이날 파이낸셜타임스(FT)에 따르면 베선트 장관은 상원 재무위원회 청문회에 출석해 트럼프 대통령의 경제 정책을 옹호하며 \"인플레이션을 제외하면 경제 지표는 매우 강하다\"고 말했다.",
+      "그는 \"인플레이션은 단기적인 일시 현상에 불과할 것으로 본다\"며 \"강한 경제를 위한 모든."
     ],
     "chips": [
       "#정책",
@@ -445,177 +596,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1088784c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604017500064",
-    "title": "[6·3 지선] 더불어민주당 신용한 후보, 충북지사 당선 확실",
-    "summary": [
-      "(청주=연합뉴스) 전창해 기자 = 6·3 지방선거에서 더불어민주당 신용한 후보의 충북지사 당선이 확실시된다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n92b47309",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603082000053",
-    "title": "[6·3 지선] '암 투병' 공개했던 이철우…경북도지사 3선 고지 올랐다",
-    "summary": [
-      "(안동=연합뉴스) 이승형 기자 = '암 투병' 우려를 털어낸 이철우 경북도지사 당선인이 보수 텃밭 경북에서 3선 고지에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na86efc80",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/04/HE2TOYRVMI3DMOBUMIYTEMZWGY/",
-    "title": "한달간 45안타 → 하루 쉬고 또 4안타 폭풍…'48억 저점매수 초대박' 최원준 \"타격왕? 그런 목표에 쫓기지 않아\" [인터뷰]",
-    "summary": [
-      "[수원=스포츠조선 김영록 기자] 올해는 정말 다르다.",
-      "FA로이드도 아니고, FA 이적 직후 잠재력이 대폭발했다.",
-      "KT 위즈 최원준이 그 주인공이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n65116c55",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604016800091",
-    "title": "메타도 기업용 AI 에이전트 출시…MS·구글에 도전장",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 메타가 기업용 인공지능(AI) 에이전트를 선보이며 마이크로소프트(MS)와 구글 등이 각축을 벌이는 기..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n19a7ac08",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/06/04/RPY36ORW65BJNA2WOIU4SBPXSE/",
-    "title": "[속보] 국힘 추경호, 대구시장 당선 유력...민주 김부겸 낙선인사",
-    "summary": [
-      "[속보] 국힘 추경호, 대구시장 당선 유력...민주 김부겸 낙선인사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4a103d49",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260604/134045940/1",
-    "title": "[속보]평택을 유의동 당선 확실…민주-조국 분열에 어부지리",
-    "summary": [
-      "6·3 지방선거와 함께 치러진 경기 평택을 국회의원 재선거에서 국민의힘 유의동 후보의 당선이 확실시되고 있다.",
-      "4일 중앙선거관리위원회에 따르면 이날 오전 2시 20분 기준 평택을에서 개표가 87.26% 진행된 가운데 34.27% 득표율을 기록하고 있다.",
-      "더불어민주당 김용남 후보는 29.15%, 조국혁신당 조국 후보는 27.70%에 머물고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc9d56bd8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/06/04/ZUSAZPTVYNERHMMLL5ZYWQB5QQ/",
-    "title": "[속보] 부산 북갑 한동훈 당선...평택을 유의동 당선 확실",
-    "summary": [
-      "[속보] 부산 북갑 한동훈 당선...평택을 유의동 당선 확실."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5981eeb3",
+    "id": "n521b8971",
     "category": "경제",
     "source": "한국경제",
-    "time": "31분 전",
-    "url": "https://www.hankyung.com/article/2026060456797",
-    "title": "정의당 \"음모론자에 최악 빌미 제공…노태악 사퇴하라\"",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026060457771",
+    "title": "피말렸던 대구…추경호 진땀승",
     "summary": [
-      "정의당 \"음모론자에 최악 빌미 제공…노태악 사퇴하라\"."
+      "피말렸던 대구…추경호 진땀승."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfd5f9b16",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "32분 전",
-    "url": "https://www.hankyung.com/article/2026060456847",
-    "title": "[속보] 한동훈, 부산북갑 국회의원 보선 당선 [MBC]",
-    "summary": [
-      "[속보] 한동훈, 부산북갑 국회의원 보선 당선 [MBC]."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0845388c",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "35분 전",
-    "url": "https://www.hankyung.com/article/2026060455937",
-    "title": "'부산 북구갑' 한동훈 당선…하정우에 대역전극",
-    "summary": [
-      "'부산 북구갑' 한동훈 당선…하정우에 대역전극."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n40da263f",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "38분 전",
-    "url": "https://www.hankyung.com/article/2026060455691",
-    "title": "이원택, 김관영과 접전 끝 승기",
-    "summary": [
-      "이원택, 김관영과 접전 끝 승기."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c690143",
+    "id": "nc75f780e",
     "category": "사회",
     "source": "아시아경제",
-    "time": "41분 전",
-    "url": "https://view.asiae.co.kr/article/2026060401561111419",
-    "title": "경찰 기동대까지 투입, 인파 수백명 몰려 투표함 반출 저지…잠실7동 투표소 4시간째 대치",
+    "time": "38분 전",
+    "url": "https://view.asiae.co.kr/article/2026060403360568183",
+    "title": "이란, 쿠웨이트 공항 타격으로 1명 사망",
     "summary": [
-      "제9회 전국동시지방선거 본투표가 이뤄진 3일 투표용지 부족에 따른 투표 중단 사태로 투표함 반출이 저지되고 있는 서울 송파구 잠실7동 제2투표소에서 밤새 격렬한 대치가 이어지고 있다.",
-      "인파가 수백명씩 몰리면서 경찰은 질서 유지를 위해 기동대 수십명을 현장에 투입했다.",
-      "경찰 등에 따르면 4일 0시30분께 전후로 서울 송파구 잠실7동 제2투표소에 기동대 수십명이 투입됐다."
+      "미국과 이란이 종전 협상을 이어가는 가운데 이란이 쿠웨이트와 바레인을 향해 대규모 미사일·드론 공격을 단행하면서 중동 긴장이 다시 고조되고 있다.",
+      "3일(현지시간) 월스트리트저널(WSJ)에 따르면 이란은 쿠웨이트 정부는 이날 새벽 이란의 공습으로 인해 탄도미사일 13발과 드론 17대를 상대했다고 밝혔다.",
+      "이에 따라 국제공항 운영이 일시 중단됐다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   }
 ];
@@ -624,21 +631,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "tag": "정치",
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "정치",
+    "tag": "뉴스",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
