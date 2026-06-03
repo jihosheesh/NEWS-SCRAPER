@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-03 15:31:28
+// 마지막 업데이트: 2026-06-03 17:37:48
 window.NEWS_DB = [
   {
     "id": "nce4e0ce0",
     "category": "IT",
     "source": "한국경제",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTdIBVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTQ?oc=5",
     "title": "\"AI 시대의 데이터 병목…추론 특화 칩이 해결사\"",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "ne110559f",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwM1lxY2QxazI0TVI1VFdkR2ExeHB2WkUwT3IwUTkwdUpzNW9oR3REejFwUk52aDJ2cXpaUWU3blZWYlRuc0xjT3RiVUd3UGFqMUlWOTdsM3BEdHNWbk9aMWVBNkM3X1E?oc=5",
     "title": "엔비디아 의존 낮추는 MS… 한국 반도체 공급망 재편 신호탄",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n010f58ad",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "19시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjJCbTBvXzJvNFIwNms1VnFzNmx0M0hWSE9naG1FbXdRdUZCU3dEUmg1SEpaTzBUeUhBblh0UHE2bkJLWThyNV9JZVRMalM4QldQT2g0Vl9OUHA4M3d1cGcwRG1lakFyRGtSUC1wUDdpVWdEMzB4NkVDT0F0dFczbEkxVGtiWWYt?oc=5",
     "title": "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속",
     "summary": [
@@ -196,6 +196,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf5e411c3",
+    "category": "부동산",
+    "source": "시사저널",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01U0FIUE9UX2Vqem5FTk56T2xVT0JZa3E4MThXUzFzenhmMkpoS1dZRFJvYjJHYXZLbzhqR3AxTHBQVFhpTGdSOHdrb0RHY0lIb0hfM2dmTWNHUngzbktFQ194QWstSGtTUDc1TlVaSdIBc0FVX3lxTFBJcnZERUJjc0xnZzNwUVd2YlYzWk5sMmNzMms4a0kyVFpTQnNRZDJ2aW1KeDRtZXF2b0RPb0hmd0tCWFF4WC0xdWlPcFhaTzdZdThRWUI4SGNDLVZfc2I3UXhkN0VhWmxySUpZeU85WDNjek0?oc=5",
+    "title": "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설",
+    "summary": [
+      "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설 시사저널."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
     "id": "n4324c5c4",
     "category": "부동산",
     "source": "Chosunbiz",
@@ -210,48 +224,20 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n039a53c8",
+    "id": "n00c2ed38",
     "category": "경제",
-    "source": "조선일보",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEcyd3RySjdPelJIanpZNlF1N2xBM3h6VFFaRnloZm9Zai1DQUhQVE9yWHJXNlRkVDd6bnlJbGlLcHhkN0ZZeHRyRFBZRklZWlZwVmVQdTVHR3UtdWtPMk04bUhKeVU5WDdqN2tDZHZDc3R2VndtQUxBcWRMQjgzVlVyNXZGSEdNLS1ma3FR?oc=5",
-    "title": "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은?",
+    "source": "비즈니스포스트",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81RldwenFscGVxbmtVNXB3UmxIZndtYThpLThIUDMzNUN6M3ozZE5aVUd6TTVQSnc0ZjZyLUZzbDhNdUpPNTg4bl9oQjdmeXRNUVR4SVNsbGhqVWE2N05qZGxVbXNJQmlMOE00WGhvOVZtRGs?oc=5",
+    "title": "[박혜린 기자의 내돈내굴] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유",
     "summary": [
-      "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은? 조선일보."
+      "[박혜린 기자의 내돈내굴] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유 비즈니스포스트."
     ],
     "chips": [
+      "#삼성전자",
+      "#SK하이닉스",
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "14일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n5a1617c5",
-    "category": "부동산",
-    "source": "헤럴드경제",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
-    "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
     ]
   },
   {
@@ -297,6 +283,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1e3b72e2",
+    "category": "사회",
+    "source": "매일경제 마켓",
+    "time": "113일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
+    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
+    "summary": [
+      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n46f59f4d",
     "category": "스포츠",
     "source": "머니투데이",
@@ -309,6 +310,20 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n7d2a7223",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152336",
+    "title": "[부고] 양선제(LG 홍보브랜드팀 책임)씨 부친상",
+    "summary": [
+      "▲양승섭씨 별세, 양미영씨 남편상, 양선제(LG 홍보브랜드팀 책임)·양지연씨 부친상, 송나영씨 시부상, 김태권씨 장인상=3일 오전 5시, 전북 익산 한솔장례식장 1호실, 장지 익산 하늘공원 정수원."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -327,310 +342,280 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb11df69b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026060323582592070",
-    "title": "[6·3선거]\"중단없는 곡성 발전\" 조상래 곡성군수 재선 성공",
-    "summary": [
-      "6월 3일 치러진 지방선거에서 더불어민주당 조상래 곡성군수 후보가 군민들의 압도적인 지지를 받으며 재선에 성공했다.",
-      "조 당선인은 당선 직후 소감문을 통해 \"지난 1년 6개월 동안 추진해 온 사업들을 멈추지 않고 이어가겠다\"며 곡성의 중단 없는 발전과 화합을 향한 강한 의지를 피력했다.",
-      "조상래 곡성군수 당선인은 3일 당선 소감문을 통해 \"군민 여러분의 압도적인 지지와 성원으로 다시 한번 곡성군수 당선이라는 고귀한 영."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n14b2fd03",
+    "id": "nb811869e",
     "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655211",
-    "title": "최승준 정선군수 당선…국힘 최철규 꺾고 4선 대기록",
+    "url": "https://www.newsis.com/view/NISX20260603_0003655010",
+    "title": "[당선인 인터뷰]조지훈 전주시장 \"바꿔야 산다는 명령 받들겠다\"",
     "summary": [
-      "[정선=뉴시스]홍춘봉 기자 = 더불어민주당 최승준 정선군수 후보가 제9회 전국동시지방선거에서 당선을 확정 지으며, 도내 최초로 '기초자치단체장 징검다리 4선'의 주인공이 됐다.",
-      "3일 오후 11시 30분 개표가 99.8%에 달한 가운데, 최승준 후보는 1만2036표를 획득해 51.25%의 득표율을 기록하며 국민의힘 최철규 후보 1만 247표(45.9%)보다 1789표를 앞서며 당선을 확정지었다.",
-      "최승준 당선인은 \"다시 한번 정선군정을 맡겨주신 군."
+      "[전주=뉴시스] 윤난슬 기자 = \"전주를 바꿔야 산다는 시민 여러분의 간절한 외침을 가슴 깊이 새기겠습니다.\" 더불어민주당 조지훈 후보가 71%가 넘는 압도적인 득표율로 제9회 전국동시지방선거 전주시장 선거에서 승리하며 향후 4년간 전주시정을 이끌게 됐다.",
+      "4일 중앙선거관리위원회 개표 현황에 따르면 조 당선인은 유효 투표 중 15만1970표(70.72%)를 얻어 4만7637표(22.16％)를 획득한 진보당 강성희 후보를 크게 앞섰다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n2f8904d1",
+    "id": "na13684e5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260604/134046000/1",
+    "title": "[속보]전재수, 부산시장 당선 유력",
+    "summary": [
+      "6·3 지방선거 부산시장 선거에서 더불어민주당 전재수 후보의 당선이 유력한 것으로 나타났다.4일 중앙선거관리위원회에 따르면 이날 오전 2시 35분 기준(개표율 89.65%) 전 후보는 과반인 50.6%의 득표율을 기록하며 선두를 굳혔다.",
+      "국민의힘 박형준 후보의 득표율은 47.84%다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1b08cd93",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654499",
+    "title": "[프로필]김석준 부산교육감 당선인…첫 4선 교육감",
+    "summary": [
+      "[부산=뉴시스] 이아름 기자 = 김석준 부산시교육감 당선인은 진보 성향 교육인이다.",
+      "이번 선거에서 당선되면서 전국 최초 4선 교육감이 됐다.",
+      "다만 김 당선인은 전교조 통일학교 해직교사 특별 채용을 지시한 혐의로 1심에서 징역형 집행유예를 선고받았다."
+    ],
+    "chips": [
+      "#채용",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nd0af3d2d",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655241",
-    "title": "[당선인 인터뷰]김진열 군위군수 \"미래 100년의 길 흔들림 없이 추진\"",
-    "summary": [
-      "[대구=뉴시스] 정창오 기자 = 김진열 국민의힘 군위군수 후보가 3일 오후 11시 55분 현재 개표 상황에서 78.76%를 득표해 당선이 확정됐다.",
-      "김 당선인은 당선 인사를 통해 \"이번 승리는 김진열 개인의 승리가 아니라 군위군민 모두의 승리\"라며 \"끝까지 믿고 지지해주신 군민 여러분께 깊이 감사드린다\"고 밝혔다.",
-      "이어 \"선거 과정에서 서로 다른 의견도 있었지만 이제는 군위의 미래를 위해 하나가 되어야 할 시간\"이라며 \"갈등을 넘어 모두가 하나."
-    ],
+    "url": "https://www.newsis.com/view/NISX20260604_0003655367",
+    "title": "[속보]인천 서구청장, 구재용 '당선'…52.64%(개표율 94.51%)",
+    "summary": [],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n5b0ec8d6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655236",
-    "title": "충남 공주·부여·청양 보선 민주당 김영빈 당선 유력(KBS)",
-    "summary": [
-      "[서울=뉴시스]김지훈 기자 = 6·3 국회의원 재보궐선거 충남 공주·부여·청양 선거에서 김영빈 더불어민주당 후보의 당선이 유력해졌다.",
-      "김 후보는 4일 오전 0시18분 현재 34.48%의 개표율을 보이고 있는 상황에서 52.07%의 득표율을 기록해 41.36%를 득표한 윤용근 국민의힘 후보에게 10.71%포인트(p) 앞서고 있다.",
-      "3위는 김혁종 무소속 후보 3.07%, 4위는 이은창 개혁신당 후보 1.87%, 5위는 무소속 정연상 후보 1.60%."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na22f6cd2",
+    "id": "n1d761fab",
     "category": "사회",
     "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654926",
-    "title": "[화제의 당선인]'공천 배제' 강진원, 무소속 옷 입고 '징검다리 4선'",
-    "summary": [
-      "[광주=뉴시스] 배상현 기자 = 6·3지방선거 강진군수에서 무소속 강진원 후보의 당선이 사실상 확정됐다.",
-      "4일 중앙선거관리위원회 선거통계 시스템 개표 결과에 따르면 이날 0시 14분 현재(개표율 53.50%) 강 후보가 6869표 (60.11% )를 득표해 4558표(39.88% )에 그친 더불어민주당 차영수 후보에 앞서고 있다.",
-      "강 후보는 우여곡절 끝에 더불어민주당 텃밭에서 무소속 옷을 입고 '징검다리 4선'에 성공했다."
-    ],
+    "url": "https://www.newsis.com/view/NISX20260604_0003655365",
+    "title": "[속보]인천 검단구청장, 김진규 '당선'…65.6%(개표율 85.98%)",
+    "summary": [],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "na828f66b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604002300052",
-    "title": "[6·3 지선] '9급 공무원에서 군수까지' 국힘 성낙인, 창녕군수 재선",
-    "summary": [
-      "(창녕=연합뉴스) 이준영 기자 = 6·3 지방선거 경남 창녕군수 선거에서 국민의힘 성낙인 후보가 더불어민주당 주윤식 후보를 누르고 당선했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n706090e5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604000800056",
-    "title": "[인터뷰] 김성범 서귀포 국회의원 당선인 \"서귀포 달라졌다는 평가받겠다\"",
-    "summary": [
-      "(서귀포=연합뉴스) 백나용 기자 = 제주 서귀포시 국회의원 보궐선거에서 당선된 더불어민주당 김성범(58) 당선인은 4일 \"결과로 보답하겠다\"며 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf5856691",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604002600065",
-    "title": "[6·3 지선] 인천 연수갑 송영길 당선 유력…6선 고지 코앞",
-    "summary": [
-      "(인천=연합뉴스) 최은지 기자 = 6·3 지방선거와 함께 치러진 인천 연수갑 국회의원 보궐선거에서 더불어민주당 송영길 후보의 당선이 유력하다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc8632681",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603090051001",
-    "title": "[6·3 지선] 靑 \"선관위, 책임있는 조치해야…상황 엄정히 주시\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 임형섭 설승은 기자 = 청와대는 6·3 지방선거 본투표일인 3일 일부 투표소에서 투표용지 부족 사태가 발생한 것과 관련해 \"중..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7003a478",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260604/134045358/1",
-    "title": "[속보]국회의원 재보선 14곳 잠정투표율 60.9% 기록",
-    "summary": [
-      "[속보]국회의원 재보선 14곳 잠정투표율 60.9% 기록."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8cdff0b6",
+    "id": "n59a224e8",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/04/GU3TKNRVGI2GMYZXMY3GCNJXGQ/",
-    "title": "오타니, MVP보다 사이영상이 더 어렵다 “투타 모두 최정상급, 4년 연속 MVP 막을 수 없어”",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/04/MYZGMOLBGA3WMMRQMMZDKMTDMI/",
+    "title": "'고개 숙인 감독' 냅다 뛰었다가 3루 황당 아웃 → KIA 추격에 찬물",
     "summary": [
-      "[OSEN=길준영 기자] LA 다저스 오타니 쇼헤이(31)의 4년 연속 MVP 수상이 유력해 보인다.",
-      "메이저리그 공식매체 MLB.com은 3일(한국시간) “2026년 내셔널리그 MVP는 확실한 유력 후보가 있다”면서 2026시즌 MVP 모의 투표 결과를 공개했다.",
-      "35명의 전문가가 투표에 참가했다."
+      "[스포츠조선 나유리 기자]단독 선택이었을까.",
+      "냅다 뛰었지만 결과는 아웃이었다.",
+      "KIA 타이거즈가 분위기를 이어가지 못하고 졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n639ff628",
+    "id": "n966cd0b8",
     "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/06/04/GUZDCNLDGY2DIYTEGY3DKOBRGE/",
-    "title": "조상호 세종시장 후보 당선 유력…“李대통령과 행정수도 만들라는 결정”",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604017100062",
+    "title": "[6·3 지선] 김동일 철원군수 당선인 \"사람 중심 정책 실천할 것\"",
     "summary": [
-      "조상호 더불어민주당 세종시장 후보가 6·3 지방선거에서 당선이 유력하다.",
-      "조 후보는 4일 오전 12시 5분 개표율 35.21% 기준 56.86%를 득표해 최민호(39.90%) 국민의힘 후보를 앞서고 있다.",
-      "조 후보는 당선이 유력해진 뒤 “일 잘하는 이재명 대통령과 함께 온전한 행정수도 세종을 만들라는 세종시민들의 위대한 결정이라고 생각한다”며 “경쟁했던 후."
+      "(철원=연합뉴스) 양지웅 기자 = 현직 군수의 3선 연임 제한으로 무주공산으로 치러진 강원 철원군수 선거에서 국민의힘 김동일 후보가 군민들의 선..."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1088784c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604017500064",
+    "title": "[6·3 지선] 더불어민주당 신용한 후보, 충북지사 당선 확실",
+    "summary": [
+      "(청주=연합뉴스) 전창해 기자 = 6·3 지방선거에서 더불어민주당 신용한 후보의 충북지사 당선이 확실시된다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nb9fb3e33",
+    "id": "n92b47309",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603082000053",
+    "title": "[6·3 지선] '암 투병' 공개했던 이철우…경북도지사 3선 고지 올랐다",
+    "summary": [
+      "(안동=연합뉴스) 이승형 기자 = '암 투병' 우려를 털어낸 이철우 경북도지사 당선인이 보수 텃밭 경북에서 3선 고지에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na86efc80",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/04/HE2TOYRVMI3DMOBUMIYTEMZWGY/",
+    "title": "한달간 45안타 → 하루 쉬고 또 4안타 폭풍…'48억 저점매수 초대박' 최원준 \"타격왕? 그런 목표에 쫓기지 않아\" [인터뷰]",
+    "summary": [
+      "[수원=스포츠조선 김영록 기자] 올해는 정말 다르다.",
+      "FA로이드도 아니고, FA 이적 직후 잠재력이 대폭발했다.",
+      "KT 위즈 최원준이 그 주인공이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n65116c55",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604016800091",
+    "title": "메타도 기업용 AI 에이전트 출시…MS·구글에 도전장",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 메타가 기업용 인공지능(AI) 에이전트를 선보이며 마이크로소프트(MS)와 구글 등이 각축을 벌이는 기..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n19a7ac08",
     "category": "사회",
     "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/politics/election2026/2026/06/04/RPY36ORW65BJNA2WOIU4SBPXSE/",
+    "title": "[속보] 국힘 추경호, 대구시장 당선 유력...민주 김부겸 낙선인사",
+    "summary": [
+      "[속보] 국힘 추경호, 대구시장 당선 유력...민주 김부겸 낙선인사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a103d49",
+    "category": "사회",
+    "source": "동아일보",
     "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/04/GY4WIOBVG5RDIMZQHBQTEZRTGU/",
-    "title": "윤보미, ♥라도와 결혼 후 일상 전했다..“내가 사랑하는 시간”",
+    "url": "https://www.donga.com/news/Politics/article/all/20260604/134045940/1",
+    "title": "[속보]평택을 유의동 당선 확실…민주-조국 분열에 어부지리",
     "summary": [
-      "[OSEN=박하영 기자] 그룹 에이핑크 멤버 윤보미가 결혼 후 일상을 전했다.",
-      "4일 윤보미는 “내가 사랑하는 시간”이라는 글과 함께 여러 장의 사진을 게재했다.사진 속 윤보미는 반려견과 함께 즐거운 시간을 보내고 있는 근황을 전했다.",
-      "그는 긴 바지에 민소매를 입고 헤어밴드와 선글라스를 착용해 편안한 외출룩을 선보였다.반려견을 끌어안거나 개모차를 끌고 달리는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n28bbd4a5",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026060400173928694",
-    "title": "뉴욕 연은 총재 \"인플레 상방 위험 커져…'완화 편향' 수정 이유 없어\"",
-    "summary": [
-      "존 윌리엄스 뉴욕 연방준비은행(연은) 총재는 3일(현지시간) 이란 전쟁 여파로 에너지 가격이 급등하면서 인플레이션 상방 위험이 커졌다고 진단했다.",
-      "다만 현재 금리 수준은 적절하다며 중립적인 매파적 입장을 드러냈다.",
-      "이날 윌리엄스 총재는 야후파이낸스와 인터뷰에서 '현재 인플레이션 전망을 고려할 때 정책성명서의 완화(easing) 편향은 유지해야 하나, 삭제해야 하나'라는 질문에 \"현재 통화정책은 정확히 적절한 위치에."
-    ],
-    "chips": [
-      "#금리",
-      "#정책"
-    ]
-  },
-  {
-    "id": "na7923c16",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "19분 전",
-    "url": "https://view.asiae.co.kr/article/2026060400112220941",
-    "title": "6·3 지방선거, 민주당 대구서도 앞서가…국회의원 선거에서도 대부분 우세(종합)",
-    "summary": [
-      "6·3 지방선거 개표의 3분의 1이 진행된 가운데 더불어민주당이 경북·경남을 제외한 모든 지역에서 앞서가고 있다.",
-      "국회의원 재 ·보궐선거에서도 민주당은 대구 달성군을 제외한 모든 선거구에서 1위를 차지하고 있다.",
-      "3일 오후 11시40분 개표율이 32.9%인 가운데 민주당은 대구, 부산 등 격전지에서 앞서고 있다."
+      "6·3 지방선거와 함께 치러진 경기 평택을 국회의원 재선거에서 국민의힘 유의동 후보의 당선이 확실시되고 있다.",
+      "4일 중앙선거관리위원회에 따르면 이날 오전 2시 20분 기준 평택을에서 개표가 87.26% 진행된 가운데 34.27% 득표율을 기록하고 있다.",
+      "더불어민주당 김용남 후보는 29.15%, 조국혁신당 조국 후보는 27.70%에 머물고 있다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n8690d79c",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://view.asiae.co.kr/article/2026060323501785442",
-    "title": "'부정선거' 외치며 투표소 봉쇄된 잠실 7동…주민 대치 이어져",
-    "summary": [
-      "투표용지 부족 사태가 발생한 서울 송파구 잠실7동 제2투표소에서 주민들이 투표함 반출 저지에 나서면서 현장 혼란이 밤늦도록 이어지고 있다.",
-      "3일 오후 11시가 넘은 시점 잠실7동 제2투표소가 설치된 경로당 앞에는 200명에 가까운 주민이 건물 정문과 후문 주변에 집결한 채 투표함 반출 여부를 주시하고 있다.",
-      "주민들은 '부정선거' '원천 무효' '선관위 해체' 등 구호를 외치며 용지 부족 사태에 강하게 항의했다.주민들은 투표."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9ca1bafd",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "21분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/04/2026060320010922761",
-    "title": "이강인 '바뀐 등번호'로 월드컵 간다, 18번 대신 '19번' 완전 정착",
-    "summary": [
-      "이강인(25·파리 생제르맹)이 등번호 18번이 아닌 19번을 달고 2026 국제축구연맹(FIFA) 북중미 월드컵 무대를 누비게 됐다.",
-      "이강인은 과거 18번을 달고 생애 첫 월드컵 무대에 나섰으나, 지난해 10월 바꾼 등번호를 달고 생애 두 번째 월드컵에 나선다.",
-      "이강인의 북중미 월드컵 등번호는 3일(한국시간) FIFA가 공개한 48개 본선 참가팀 선수 명단을 통해 공개됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2ff4c6aa",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/04/2026060400070516534",
-    "title": "[속보]인천 연수갑, 6선 도전 민주당 송영길 '당선 유력'",
-    "summary": [
-      "[the300] 4일 중앙선거관리위원회 선거통계시스템...."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne7ad6f0a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "25분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260604/134045309/1",
-    "title": "[속보]6·3지방선거 잠정투표율 61.0%…4년 전보다 10.1%P 높아",
-    "summary": [
-      "6·3 지방선거 최종 투표율이 60%대를 넘어섰다.",
-      "역대 지방선거 중 두 번째로 높은 투표율이다.3일 중앙선거관리위원회에 따르면 이번 제9회 전국동시지방선거 최종 투표율은 오후 11시 44분경 기준 61.0%로 잠정 집계됐다.지방선거 최종 투표율이 60%를 넘긴 것은 이번이 세 번째다.",
-      "1995년 제1회 지방선거 투표율(68.4%) 다음으로 높았던 2018년 제7회 지선 때의 60.2%를 0.8%포인트 웃돌았다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7b7d0714",
+    "id": "nc9d56bd8",
     "category": "사회",
     "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/06/04/HLKC6OJ45JB47G3E6HXPC5EIOY/",
-    "title": "민주당 이원택, 전북지사 당선 유력…민주당 텃밭서 ‘1번’ 힘 증명",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/politics/election2026/2026/06/04/ZUSAZPTVYNERHMMLL5ZYWQB5QQ/",
+    "title": "[속보] 부산 북갑 한동훈 당선...평택을 유의동 당선 확실",
     "summary": [
-      "민주당 이원택, 전북지사 당선 유력…민주당 텃밭서 ‘1번’ 힘 증명."
+      "[속보] 부산 북갑 한동훈 당선...평택을 유의동 당선 확실."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n5981eeb3",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "31분 전",
+    "url": "https://www.hankyung.com/article/2026060456797",
+    "title": "정의당 \"음모론자에 최악 빌미 제공…노태악 사퇴하라\"",
+    "summary": [
+      "정의당 \"음모론자에 최악 빌미 제공…노태악 사퇴하라\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd5f9b16",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "32분 전",
+    "url": "https://www.hankyung.com/article/2026060456847",
+    "title": "[속보] 한동훈, 부산북갑 국회의원 보선 당선 [MBC]",
+    "summary": [
+      "[속보] 한동훈, 부산북갑 국회의원 보선 당선 [MBC]."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0845388c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "35분 전",
+    "url": "https://www.hankyung.com/article/2026060455937",
+    "title": "'부산 북구갑' 한동훈 당선…하정우에 대역전극",
+    "summary": [
+      "'부산 북구갑' 한동훈 당선…하정우에 대역전극."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n40da263f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "38분 전",
+    "url": "https://www.hankyung.com/article/2026060455691",
+    "title": "이원택, 김관영과 접전 끝 승기",
+    "summary": [
+      "이원택, 김관영과 접전 끝 승기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9c690143",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "41분 전",
+    "url": "https://view.asiae.co.kr/article/2026060401561111419",
+    "title": "경찰 기동대까지 투입, 인파 수백명 몰려 투표함 반출 저지…잠실7동 투표소 4시간째 대치",
+    "summary": [
+      "제9회 전국동시지방선거 본투표가 이뤄진 3일 투표용지 부족에 따른 투표 중단 사태로 투표함 반출이 저지되고 있는 서울 송파구 잠실7동 제2투표소에서 밤새 격렬한 대치가 이어지고 있다.",
+      "인파가 수백명씩 몰리면서 경찰은 질서 유지를 위해 기동대 수십명을 현장에 투입했다.",
+      "경찰 등에 따르면 4일 0시30분께 전후로 서울 송파구 잠실7동 제2투표소에 기동대 수십명이 투입됐다."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -639,21 +624,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "정치",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "tag": "뉴스",
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정치",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "뉴스",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
