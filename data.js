@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-03 13:29:18
+// 마지막 업데이트: 2026-06-03 15:31:28
 window.NEWS_DB = [
   {
     "id": "nce4e0ce0",
     "category": "IT",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTdIBVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTQ?oc=5",
     "title": "\"AI 시대의 데이터 병목…추론 특화 칩이 해결사\"",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "ne110559f",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwM1lxY2QxazI0TVI1VFdkR2ExeHB2WkUwT3IwUTkwdUpzNW9oR3REejFwUk52aDJ2cXpaUWU3blZWYlRuc0xjT3RiVUd3UGFqMUlWOTdsM3BEdHNWbk9aMWVBNkM3X1E?oc=5",
     "title": "엔비디아 의존 낮추는 MS… 한국 반도체 공급망 재편 신호탄",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n010f58ad",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "17시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjJCbTBvXzJvNFIwNms1VnFzNmx0M0hWSE9naG1FbXdRdUZCU3dEUmg1SEpaTzBUeUhBblh0UHE2bkJLWThyNV9JZVRMalM4QldQT2g0Vl9OUHA4M3d1cGcwRG1lakFyRGtSUC1wUDdpVWdEMzB4NkVDT0F0dFczbEkxVGtiWWYt?oc=5",
     "title": "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속",
     "summary": [
@@ -196,31 +196,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf5e411c3",
+    "id": "n4324c5c4",
     "category": "부동산",
-    "source": "시사저널",
+    "source": "Chosunbiz",
     "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01U0FIUE9UX2Vqem5FTk56T2xVT0JZa3E4MThXUzFzenhmMkpoS1dZRFJvYjJHYXZLbzhqR3AxTHBQVFhpTGdSOHdrb0RHY0lIb0hfM2dmTWNHUngzbktFQ194QWstSGtTUDc1TlVaSdIBc0FVX3lxTFBJcnZERUJjc0xnZzNwUVd2YlYzWk5sMmNzMms4a0kyVFpTQnNRZDJ2aW1KeDRtZXF2b0RPb0hmd0tCWFF4WC0xdWlPcFhaTzdZdThRWUI4SGNDLVZfc2I3UXhkN0VhWmxySUpZeU85WDNjek0?oc=5",
-    "title": "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkticmh3N2tXTGo4a2JTNjQtazBsUEhkTGFYVnoxMmRTVk5LYlAwMnhxcW43d0NKVlBvcjlhUGdnMlY4RHJaZ0pKT0N3SVpGVFJ1ZFJXc09pY3lrZU1mRkc5b3dTU3FtZ3d6bWZneDJ4VzVFM01ER1ZTV3pYRkFXckxadE0zbTE2b0c0TFg4c3hwcVAyb0hZZdIBrAFBVV95cUxQQmJ1RjVPOVZ6N3plS0xLZ1BWeVVNTnV4ZHB5WlBzWVlFeXpRU0M2cWJITU5uT0x5YklqWWZvMUhLRmVsOWotU3A2R2FreE1hWlpBR3dlWlNSNEF1a1FrWngyLWVoTFl3aHFBNm5WeUxySDBaWWsxNUxLUDhzTDRVYTVROTd5SWNyT3NfQ2NNa1Rva1NPZHhtUlZ1dnBwY2JBNGhZVG5uR0V3Umhu?oc=5",
+    "title": "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈",
     "summary": [
-      "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설 시사저널."
+      "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#전세"
     ]
   },
   {
-    "id": "n35b9d663",
+    "id": "n039a53c8",
     "category": "경제",
-    "source": "KB Think",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
-    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
+    "source": "조선일보",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEcyd3RySjdPelJIanpZNlF1N2xBM3h6VFFaRnloZm9Zai1DQUhQVE9yWHJXNlRkVDd6bnlJbGlLcHhkN0ZZeHRyRFBZRklZWlZwVmVQdTVHR3UtdWtPMk04bUhKeVU5WDdqN2tDZHZDc3R2VndtQUxBcWRMQjgzVlVyNXZGSEdNLS1ma3FR?oc=5",
+    "title": "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은?",
     "summary": [
-      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
+      "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은? 조선일보."
     ],
     "chips": [
-      "#뉴스"
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -326,297 +327,307 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n61e9685f",
-    "category": "IT",
-    "source": "테크M",
+    "id": "nb11df69b",
+    "category": "사회",
+    "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152331",
-    "title": "[테크M 트렌드] 애플 '맥북 네오' 인기에 보급형 시장 흔들...반격 채비 나선 윈도 노트북",
+    "url": "https://view.asiae.co.kr/article/2026060323582592070",
+    "title": "[6·3선거]\"중단없는 곡성 발전\" 조상래 곡성군수 재선 성공",
     "summary": [
-      "애플 '맥북 네오'가 보급형 노트북 시장의 판도를 흔들고 있다.",
-      "그동안 100만원대 이하 가격대는 보급형 윈도 노트북과 크롬북이 주도하던 영역이었지만, 애플이 99만원짜리 맥북을 내놓으면서 판도가 달라지는 모습이다.심상치 않은 맥북 네오 인기맥북 네오는 애플이 지난 3월 공개한 보급형 맥북이다.",
-      "미국 기준 가격은 599달러(국내 출고가 99만원)부터, 교육용 가격은 499달러(국내 출고가 85만원)부터 시작한다."
+      "6월 3일 치러진 지방선거에서 더불어민주당 조상래 곡성군수 후보가 군민들의 압도적인 지지를 받으며 재선에 성공했다.",
+      "조 당선인은 당선 직후 소감문을 통해 \"지난 1년 6개월 동안 추진해 온 사업들을 멈추지 않고 이어가겠다\"며 곡성의 중단 없는 발전과 화합을 향한 강한 의지를 피력했다.",
+      "조상래 곡성군수 당선인은 3일 당선 소감문을 통해 \"군민 여러분의 압도적인 지지와 성원으로 다시 한번 곡성군수 당선이라는 고귀한 영."
     ],
     "chips": [
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "n1df7abfd",
+    "id": "n14b2fd03",
     "category": "사회",
-    "source": "머니투데이",
+    "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/03/2026060322270069034",
-    "title": "[속보]대구 달성 국회의원 보궐, 이진숙 당선 유력",
+    "url": "https://www.newsis.com/view/NISX20260604_0003655211",
+    "title": "최승준 정선군수 당선…국힘 최철규 꺾고 4선 대기록",
     "summary": [
-      "[6·3지방선거] 3일..."
+      "[정선=뉴시스]홍춘봉 기자 = 더불어민주당 최승준 정선군수 후보가 제9회 전국동시지방선거에서 당선을 확정 지으며, 도내 최초로 '기초자치단체장 징검다리 4선'의 주인공이 됐다.",
+      "3일 오후 11시 30분 개표가 99.8%에 달한 가운데, 최승준 후보는 1만2036표를 획득해 51.25%의 득표율을 기록하며 국민의힘 최철규 후보 1만 247표(45.9%)보다 1789표를 앞서며 당선을 확정지었다.",
+      "최승준 당선인은 \"다시 한번 정선군정을 맡겨주신 군."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n1b6172a1",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/03/2026060322253880436",
-    "title": "[속보]제주 위성곤 후보·전남광주 민형배 후보, 당선 유력",
-    "summary": [
-      "[the300][6.3지방선거] 3일 전국동시지방선거 개표 상황...."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6d04d601",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/03/2026060322254675663",
-    "title": "[속보]경북도지사, 이철우 국민의힘 후보 당선 유력",
-    "summary": [
-      "[6·3지방선거] 3일 선거관리위원..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nfda97c2f",
+    "id": "n2f8904d1",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003655087",
-    "title": "민주당 \"선관위 투표 관리 부실 유감… 반드시 책임 물을 것\" [뉴시스Pic]",
+    "url": "https://www.newsis.com/view/NISX20260604_0003655241",
+    "title": "[당선인 인터뷰]김진열 군위군수 \"미래 100년의 길 흔들림 없이 추진\"",
     "summary": [
-      "[서울=뉴시스] 류현주 이영환 김금보 김난영 신재현 기자 = 더불어민주당이 3일 국민의힘의 6·3 지방선거 개표 중단 및 재투표 주장을 \"일고의 가치가 없다\"고 일축했다.",
-      "조승래 민주당 총괄선거대책본부장은 이날 국회 상황실에서 브리핑을 열고 이같이 말했다.",
-      "다만 \"선거관리위원회의 투표 관리 부실에 대해 강력하게 유감의 뜻을 표한다\"고 했다."
+      "[대구=뉴시스] 정창오 기자 = 김진열 국민의힘 군위군수 후보가 3일 오후 11시 55분 현재 개표 상황에서 78.76%를 득표해 당선이 확정됐다.",
+      "김 당선인은 당선 인사를 통해 \"이번 승리는 김진열 개인의 승리가 아니라 군위군민 모두의 승리\"라며 \"끝까지 믿고 지지해주신 군민 여러분께 깊이 감사드린다\"고 밝혔다.",
+      "이어 \"선거 과정에서 서로 다른 의견도 있었지만 이제는 군위의 미래를 위해 하나가 되어야 할 시간\"이라며 \"갈등을 넘어 모두가 하나."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nf1b5bc34",
+    "id": "n5b0ec8d6",
     "category": "사회",
-    "source": "머니투데이",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260604_0003655236",
+    "title": "충남 공주·부여·청양 보선 민주당 김영빈 당선 유력(KBS)",
+    "summary": [
+      "[서울=뉴시스]김지훈 기자 = 6·3 국회의원 재보궐선거 충남 공주·부여·청양 선거에서 김영빈 더불어민주당 후보의 당선이 유력해졌다.",
+      "김 후보는 4일 오전 0시18분 현재 34.48%의 개표율을 보이고 있는 상황에서 52.07%의 득표율을 기록해 41.36%를 득표한 윤용근 국민의힘 후보에게 10.71%포인트(p) 앞서고 있다.",
+      "3위는 김혁종 무소속 후보 3.07%, 4위는 이은창 개혁신당 후보 1.87%, 5위는 무소속 정연상 후보 1.60%."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na22f6cd2",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/03/2026060322065125516",
-    "title": "민주당 \"서울, 개표 중단·재선거 일고의 가치도 없다\"",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654926",
+    "title": "[화제의 당선인]'공천 배제' 강진원, 무소속 옷 입고 '징검다리 4선'",
     "summary": [
-      "[the300][6.3지방선거] 더불어민주당이 서울 일부 지역에서 투표용지 부족 사태가 발생한 데 대해 중앙선거관리위원회에 강한 유감을 표하면서도 국민의힘의 개표 중단 및 재투표 주장엔 \"일고의 가치가 없다\"고 반박했다.",
-      "조승래 사무총장은 3일 국회에서 기자들을 만나 \"먼저 선관위의 표 관리 부실에 강력하게 유감의 뜻을 표한다\"며 이같이 밝혔다.",
-      "조 사무총장은 \"이는 사과 정도로 넘어갈 문제가 아니고 부실한 선거관리에 반드시 책임을 물을 것\"이."
+      "[광주=뉴시스] 배상현 기자 = 6·3지방선거 강진군수에서 무소속 강진원 후보의 당선이 사실상 확정됐다.",
+      "4일 중앙선거관리위원회 선거통계 시스템 개표 결과에 따르면 이날 0시 14분 현재(개표율 53.50%) 강 후보가 6869표 (60.11% )를 득표해 4558표(39.88% )에 그친 더불어민주당 차영수 후보에 앞서고 있다.",
+      "강 후보는 우여곡절 끝에 더불어민주당 텃밭에서 무소속 옷을 입고 '징검다리 4선'에 성공했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nd2d8dd87",
+    "id": "na828f66b",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603089000001",
-    "title": "[속보] 靑, 투표지 부족 사태에 \"선관위가 대응해야 할 문제\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n832f04d3",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260603/134044942/1",
-    "title": "[속보]靑 “투표용지 부족, 선관위가 대응해야 할 문제다”",
-    "summary": [
-      "[속보]靑 “투표용지 부족, 선관위가 대응해야 할 문제”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n04ebd99d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003655081",
-    "title": "[속보]靑, 지방선거 투표용지 부족사태에 \"선관위가 대응해야 할 문제\"",
-    "summary": [
-      "[서울=뉴시스]김경록 기자 = ◎공감언론 뉴시스 knockrok@newsis.com."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n54a47b37",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603088900054",
-    "title": "[6·3 지선] 전남광주통합교육감 김대중 후보 당선 유력",
-    "summary": [
-      "(광주=연합뉴스) 장아름 기자 = 6·3 지방선거 전남광주통합특별시 교육감에 김대중 후보의 당선이 유력하다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne3522227",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603086700001",
-    "title": "오세훈 \"투표 못마친 지역 先조치 전까지 서울 개표 중단해야\"",
-    "summary": [
-      "(서울=연합뉴스) 김연정 김준태 기자 = 국민의힘 오세훈 서울시장 후보는 3일 서울 일부 지역 투표소에서 빚어진 투표용지 부족 사태와 관련, 중..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb4f43d58",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/06/03/GYOVHQGHWRAURN5XRZELZROXNU/",
-    "title": "초대 전남광주시장에 민주당 민형배 당선 유력… “지역 주도 압도적 성장”",
-    "summary": [
-      "초대 전남광주시장에 민주당 민형배 당선 유력… “지역 주도 압도적 성장”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8f4dc214",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260603/134044934/1",
-    "title": "목포서 중복투표 사례 확인…선관위 “조사 뒤 조치 방침”",
-    "summary": [
-      "6·3전국동시지방선거에서 전남 목포의 한 선거구민이 중복 투표한 것으로 확인돼 선거관리위원회가 경위 파악에 나섰다.3일 전남선거관리위원회에 따르면 이날 목포시 한 투표소에서 사전투표를 마친 유권자가 본투표에도 참여한 사실이 확인됐다.투표소 관리 사무원이 목포시선관위에 해당 유권자의 중복 투표 사실을 알린 것으로 전해졌다.선관위 관계자는 “선거인 명부 관리를 비롯한 투표 절차 전반에 대해 살펴보고 있다.",
-      "중복 투표 사례로 최종 판명되면 필요한 조."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5c2012c2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603088100054",
-    "title": "[6·3 지선] 광주 광산을 임문영 선두…선거사무소 안도·기대",
-    "summary": [
-      "(광주=연합뉴스) 김혜인 기자 = 광주 광산을 국회의원 선거에서 더불어민주당 임문영 후보가 개표 초반 경쟁 후보들을 크게 앞서 나가자 선거사무소..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6057e9ce",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026060322205258480",
-    "title": "6·3 지선 22시 개표율 13.2%…민주, 경북·경남 빼고 광역단체장 앞서가",
-    "summary": [
-      "개표 초반 6·3지방선거 광역단체장에서 더불어민주당 후보가 14곳에서 앞서는 것으로 나타났다.",
-      "국민의힘은 경북과 경남 두 곳에서 앞서고 있다.",
-      "3일 오후 10시 전국 개표율 13.19%인 가운데 민주당이 광역단체장 선거에서 앞서고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n91ad51d4",
-    "category": "사회",
-    "source": "뉴시스",
     "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003655071",
-    "title": "출구조사 격차에…조전혁 \"후보의 역량이 부족했다\"",
+    "url": "https://www.yna.co.kr/view/AKR20260604002300052",
+    "title": "[6·3 지선] '9급 공무원에서 군수까지' 국힘 성낙인, 창녕군수 재선",
     "summary": [
-      "[서울=뉴시스] 구무서 기자 = 제9회 전국동시지방선거에서 서울시교육감 후보로 나선 조전혁 후보가 초반부터 벌어진 큰 격차에 사실상 승복 메시지를 내놨다.",
-      "조 후보는 3일 오후 9시30분께 서울 종로구 소재 자신의 선거 사무실을 찾아 지지자들에게 \"짧은 시간이었지만 여러분과 열악한 환경에서 멋지게 해냈다고 생각한다.",
-      "후보의 역량이 부족했다는 생각이 든다\"고 말했다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육",
-      "#환경"
-    ]
-  },
-  {
-    "id": "nea02c32a",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026060322195354655",
-    "title": "민주 \"개표중단·재투표 일고 가치 없어…선관위 반드시 책임\"",
-    "summary": [
-      "더불어민주당이 3일 제9회 전국동시지방선거에서 투표지 부족 사태로 개표 중단과 재투표를 요구하는 국민의힘에 \"일고의 가치가 없다\"고 일축했다.",
-      "민주당 총괄선거대책본부장을 맡은 조승래 사무총장은 이날 오후 국회의원회관 대회의실에 마련된 개표상황실에서 기자들과 만나 \"이(투표지 부족) 문제는 사과로 넘어갈 문제가 아니다.",
-      "부실한 선거관리에 대해서는 반드시 (선거관리위원회에) 책임을 물을 것\"이라면서도 \"현재 국."
+      "(창녕=연합뉴스) 이준영 기자 = 6·3 지방선거 경남 창녕군수 선거에서 국민의힘 성낙인 후보가 더불어민주당 주윤식 후보를 누르고 당선했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nafc93e64",
+    "id": "n706090e5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604000800056",
+    "title": "[인터뷰] 김성범 서귀포 국회의원 당선인 \"서귀포 달라졌다는 평가받겠다\"",
+    "summary": [
+      "(서귀포=연합뉴스) 백나용 기자 = 제주 서귀포시 국회의원 보궐선거에서 당선된 더불어민주당 김성범(58) 당선인은 4일 \"결과로 보답하겠다\"며 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf5856691",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604002600065",
+    "title": "[6·3 지선] 인천 연수갑 송영길 당선 유력…6선 고지 코앞",
+    "summary": [
+      "(인천=연합뉴스) 최은지 기자 = 6·3 지방선거와 함께 치러진 인천 연수갑 국회의원 보궐선거에서 더불어민주당 송영길 후보의 당선이 유력하다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc8632681",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603090051001",
+    "title": "[6·3 지선] 靑 \"선관위, 책임있는 조치해야…상황 엄정히 주시\"(종합)",
+    "summary": [
+      "(서울=연합뉴스) 임형섭 설승은 기자 = 청와대는 6·3 지방선거 본투표일인 3일 일부 투표소에서 투표용지 부족 사태가 발생한 것과 관련해 \"중..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7003a478",
     "category": "사회",
     "source": "동아일보",
     "time": "11분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260603/134044929/1",
-    "title": "[속보] 3선 도전 이철우, 경북도지사 당선 유력",
+    "url": "https://www.donga.com/news/Politics/article/all/20260604/134045358/1",
+    "title": "[속보]국회의원 재보선 14곳 잠정투표율 60.9% 기록",
     "summary": [
-      "[속보] 3선 도전 이철우, 경북도지사 당선 유력."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n231b3a20",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/06/03/MI2DOODEGAYGMNRTGI3WKOJRMQ/",
-    "title": "개혁신당 “서울시장 개표 중지해야…지역선관위가 판단할 문제 아냐”",
-    "summary": [
-      "이준석 개혁신당 대표도 서울시장 선거 개표 중지를 요구했다.",
-      "이 대표는 3일 페이스북에 글을 올려 “이번에 서울시장 선거및 각급선거에서 발생한 투표용지 부족문제는 가볍게 다룰 문제가 아니다”라며 “투표용지를 적게 인쇄한 것이 지침에 따른 것인지 지역별 선관위의 자체적 판단인지는 국회에서 나중에 엄중하게 다뤄야 하고, 그 전에 개표절차를 중지해야 한다”고 했."
+      "[속보]국회의원 재보선 14곳 잠정투표율 60.9% 기록."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "ne939ca49",
+    "id": "n8cdff0b6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/04/GU3TKNRVGI2GMYZXMY3GCNJXGQ/",
+    "title": "오타니, MVP보다 사이영상이 더 어렵다 “투타 모두 최정상급, 4년 연속 MVP 막을 수 없어”",
+    "summary": [
+      "[OSEN=길준영 기자] LA 다저스 오타니 쇼헤이(31)의 4년 연속 MVP 수상이 유력해 보인다.",
+      "메이저리그 공식매체 MLB.com은 3일(한국시간) “2026년 내셔널리그 MVP는 확실한 유력 후보가 있다”면서 2026시즌 MVP 모의 투표 결과를 공개했다.",
+      "35명의 전문가가 투표에 참가했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n639ff628",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/04/GUZDCNLDGY2DIYTEGY3DKOBRGE/",
+    "title": "조상호 세종시장 후보 당선 유력…“李대통령과 행정수도 만들라는 결정”",
+    "summary": [
+      "조상호 더불어민주당 세종시장 후보가 6·3 지방선거에서 당선이 유력하다.",
+      "조 후보는 4일 오전 12시 5분 개표율 35.21% 기준 56.86%를 득표해 최민호(39.90%) 국민의힘 후보를 앞서고 있다.",
+      "조 후보는 당선이 유력해진 뒤 “일 잘하는 이재명 대통령과 함께 온전한 행정수도 세종을 만들라는 세종시민들의 위대한 결정이라고 생각한다”며 “경쟁했던 후."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb9fb3e33",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/04/GY4WIOBVG5RDIMZQHBQTEZRTGU/",
+    "title": "윤보미, ♥라도와 결혼 후 일상 전했다..“내가 사랑하는 시간”",
+    "summary": [
+      "[OSEN=박하영 기자] 그룹 에이핑크 멤버 윤보미가 결혼 후 일상을 전했다.",
+      "4일 윤보미는 “내가 사랑하는 시간”이라는 글과 함께 여러 장의 사진을 게재했다.사진 속 윤보미는 반려견과 함께 즐거운 시간을 보내고 있는 근황을 전했다.",
+      "그는 긴 바지에 민소매를 입고 헤어밴드와 선글라스를 착용해 편안한 외출룩을 선보였다.반려견을 끌어안거나 개모차를 끌고 달리는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n28bbd4a5",
     "category": "경제",
     "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026060322130442665",
-    "title": "오세훈, 개표 중단 촉구…\"참정권 침해받아선 안돼\"",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026060400173928694",
+    "title": "뉴욕 연은 총재 \"인플레 상방 위험 커져…'완화 편향' 수정 이유 없어\"",
     "summary": [
-      "오세훈 국민의힘 서울시장 후보가 3일 \"투표지 부족으로 투표를 하지 못한 지역의 선조치가 완료되기 전까지 개표는 중단돼야 한다\"고 촉구했다.",
-      "오 후보는 이날 \"아직 투표가 진행 중인 지역이 있다.",
-      "투표를 하지 못하고 돌아간 분도 있다고 한다\"며 \"단 한 사람이라도 시민들의 참정권이 침해받는 일이 있어서는 안 된다\"고 밝혔다."
+      "존 윌리엄스 뉴욕 연방준비은행(연은) 총재는 3일(현지시간) 이란 전쟁 여파로 에너지 가격이 급등하면서 인플레이션 상방 위험이 커졌다고 진단했다.",
+      "다만 현재 금리 수준은 적절하다며 중립적인 매파적 입장을 드러냈다.",
+      "이날 윌리엄스 총재는 야후파이낸스와 인터뷰에서 '현재 인플레이션 전망을 고려할 때 정책성명서의 완화(easing) 편향은 유지해야 하나, 삭제해야 하나'라는 질문에 \"현재 통화정책은 정확히 적절한 위치에."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "na7923c16",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "19분 전",
+    "url": "https://view.asiae.co.kr/article/2026060400112220941",
+    "title": "6·3 지방선거, 민주당 대구서도 앞서가…국회의원 선거에서도 대부분 우세(종합)",
+    "summary": [
+      "6·3 지방선거 개표의 3분의 1이 진행된 가운데 더불어민주당이 경북·경남을 제외한 모든 지역에서 앞서가고 있다.",
+      "국회의원 재 ·보궐선거에서도 민주당은 대구 달성군을 제외한 모든 선거구에서 1위를 차지하고 있다.",
+      "3일 오후 11시40분 개표율이 32.9%인 가운데 민주당은 대구, 부산 등 격전지에서 앞서고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8690d79c",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://view.asiae.co.kr/article/2026060323501785442",
+    "title": "'부정선거' 외치며 투표소 봉쇄된 잠실 7동…주민 대치 이어져",
+    "summary": [
+      "투표용지 부족 사태가 발생한 서울 송파구 잠실7동 제2투표소에서 주민들이 투표함 반출 저지에 나서면서 현장 혼란이 밤늦도록 이어지고 있다.",
+      "3일 오후 11시가 넘은 시점 잠실7동 제2투표소가 설치된 경로당 앞에는 200명에 가까운 주민이 건물 정문과 후문 주변에 집결한 채 투표함 반출 여부를 주시하고 있다.",
+      "주민들은 '부정선거' '원천 무효' '선관위 해체' 등 구호를 외치며 용지 부족 사태에 강하게 항의했다.주민들은 투표."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9ca1bafd",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/04/2026060320010922761",
+    "title": "이강인 '바뀐 등번호'로 월드컵 간다, 18번 대신 '19번' 완전 정착",
+    "summary": [
+      "이강인(25·파리 생제르맹)이 등번호 18번이 아닌 19번을 달고 2026 국제축구연맹(FIFA) 북중미 월드컵 무대를 누비게 됐다.",
+      "이강인은 과거 18번을 달고 생애 첫 월드컵 무대에 나섰으나, 지난해 10월 바꾼 등번호를 달고 생애 두 번째 월드컵에 나선다.",
+      "이강인의 북중미 월드컵 등번호는 3일(한국시간) FIFA가 공개한 48개 본선 참가팀 선수 명단을 통해 공개됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ff4c6aa",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/04/2026060400070516534",
+    "title": "[속보]인천 연수갑, 6선 도전 민주당 송영길 '당선 유력'",
+    "summary": [
+      "[the300] 4일 중앙선거관리위원회 선거통계시스템...."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne7ad6f0a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "25분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260604/134045309/1",
+    "title": "[속보]6·3지방선거 잠정투표율 61.0%…4년 전보다 10.1%P 높아",
+    "summary": [
+      "6·3 지방선거 최종 투표율이 60%대를 넘어섰다.",
+      "역대 지방선거 중 두 번째로 높은 투표율이다.3일 중앙선거관리위원회에 따르면 이번 제9회 전국동시지방선거 최종 투표율은 오후 11시 44분경 기준 61.0%로 잠정 집계됐다.지방선거 최종 투표율이 60%를 넘긴 것은 이번이 세 번째다.",
+      "1995년 제1회 지방선거 투표율(68.4%) 다음으로 높았던 2018년 제7회 지선 때의 60.2%를 0.8%포인트 웃돌았다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7b7d0714",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/politics/election2026/2026/06/04/HLKC6OJ45JB47G3E6HXPC5EIOY/",
+    "title": "민주당 이원택, 전북지사 당선 유력…민주당 텃밭서 ‘1번’ 힘 증명",
+    "summary": [
+      "민주당 이원택, 전북지사 당선 유력…민주당 텃밭서 ‘1번’ 힘 증명."
     ],
     "chips": [
       "#뉴스"
@@ -629,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "정치",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "뉴스",
     "mentions": "1550건",
     "trend": "+135%"
   }
