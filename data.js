@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-03 05:36:00
+// 마지막 업데이트: 2026-06-03 07:35:39
 window.NEWS_DB = [
   {
     "id": "ne110559f",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwM1lxY2QxazI0TVI1VFdkR2ExeHB2WkUwT3IwUTkwdUpzNW9oR3REejFwUk52aDJ2cXpaUWU3blZWYlRuc0xjT3RiVUd3UGFqMUlWOTdsM3BEdHNWbk9aMWVBNkM3X1E?oc=5",
     "title": "엔비디아 의존 낮추는 MS… 한국 반도체 공급망 재편 신호탄",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n010f58ad",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjJCbTBvXzJvNFIwNms1VnFzNmx0M0hWSE9naG1FbXdRdUZCU3dEUmg1SEpaTzBUeUhBblh0UHE2bkJLWThyNV9JZVRMalM4QldQT2g0Vl9OUHA4M3d1cGcwRG1lakFyRGtSUC1wUDdpVWdEMzB4NkVDT0F0dFczbEkxVGtiWWYt?oc=5",
     "title": "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nf7aff249",
     "category": "IT",
     "source": "조선일보",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGZyV25BNGY2T0NvNElRckI5bnZtcU94RzNPOHh2TkVVdTlmVzVqWVIxM0tzZEZuWlZLLTVfMXpreF9qMzh4bkZDclVBak16TDJZN1UzT2lYb0JjNXhTMm5PX2s1WnFhMEtOSGVGaUs2R2RMVWlOUFVTd0FSSXlXa1VyZw?oc=5",
     "title": "젠슨 황 \"메모리 부족 지속\"… 최태원 \"5년 내 생산 능력 2배 확대\"",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n70cb7884",
     "category": "사회",
     "source": "투데이경제",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
     "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "n38022242",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0pTME40YURudGhfd1FYdVlNQVFmQ05hZWlCUnd1bG1KcUY5cHJ5ckY5UW9TNkVMUUNKMzh4RWpuODlaRkdsbWZOS3MzVjZocWhQZW8ybGtrLWppbl8yalppR2FKTzc3ZFdpdVFmbFViYmdzREx6amsySG1hc3NqOS1B0gGWAUFVX3lxTE1aMWZ5eHRUTDI0MjlVbFQtUHpWQndoVzZ6VktVa29ySkJlODAzd3A1UnY2YnZ6dm03MzhXMFYtMkRmQjRNeW5iYkNvUDhtTENrRWlIa0VubjBCeDZ5eS1TazM1bkhhVUNfcmRVR3FIQmQxNFRoUFhMMV9UYzF1NlJPYkphOVhWLWF5QXgwYjN3WkVZTEhGdw?oc=5",
     "title": "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈",
     "summary": [
@@ -81,7 +81,7 @@ window.NEWS_DB = [
     "id": "na51ce02d",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LaFJiaVhMOVg4RmU3ZUdELWJZQldVcVNNalNXTnNiQVpiM3Z1V1AtdFY4QWNCZ2M0bUthYnRWb0xjMUFvQkhYZm1CaW9OV0tQaVY5TWVKd0RCaU1pdlNhTWp3YlNYR0dI?oc=5",
     "title": "삼성전자·하이닉스, HBM4 베이스다이 경쟁…메모리에서 '파운드리 전쟁'으로",
     "summary": [
@@ -167,6 +167,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "summary": [
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "n27044a56",
     "category": "사회",
     "source": "브런치",
@@ -186,7 +200,7 @@ window.NEWS_DB = [
     "id": "n21d1500d",
     "category": "IT",
     "source": "머니투데이",
-    "time": "5일 전",
+    "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VVmZjQUtRa3BqUng5MnJtdExfX18tb0pLN1VyNEwwX2p4RW1HdTl5bmllWkVwTzQ4UWxPNFlMSFhKODJlend4V3VaZi1Fay1IOWNLZTNoelBZOEExZi1YM1VyOXlRbTNzS3fSAW9BVV95cUxOVUFfeEtOaklFeHNHY3JRbVhXNDVNTVdtOE5QVjFRT1hLS2ltVmY5d29id195bnFxSXoySHFKdXM4VUQyN1RZWS01b3BFeXJJWGZBNXVIdk5CbkFobmIyZ3JpQXhxQU9KZ2FLN0pTdTg?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이",
     "summary": [
@@ -194,20 +208,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nf5e411c3",
-    "category": "부동산",
-    "source": "시사저널",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01U0FIUE9UX2Vqem5FTk56T2xVT0JZa3E4MThXUzFzenhmMkpoS1dZRFJvYjJHYXZLbzhqR3AxTHBQVFhpTGdSOHdrb0RHY0lIb0hfM2dmTWNHUngzbktFQ194QWstSGtTUDc1TlVaSdIBc0FVX3lxTFBJcnZERUJjc0xnZzNwUVd2YlYzWk5sMmNzMms4a0kyVFpTQnNRZDJ2aW1KeDRtZXF2b0RPb0hmd0tCWFF4WC0xdWlPcFhaTzdZdThRWUI4SGNDLVZfc2I3UXhkN0VhWmxySUpZeU85WDNjek0?oc=5",
-    "title": "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설",
-    "summary": [
-      "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설 시사저널."
-    ],
-    "chips": [
-      "#전세"
     ]
   },
   {
@@ -243,7 +243,7 @@ window.NEWS_DB = [
     "id": "nc92d59ae",
     "category": "IT",
     "source": "경기일보",
-    "time": "13일 전",
+    "time": "14일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
     "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
     "summary": [
@@ -258,7 +258,7 @@ window.NEWS_DB = [
     "id": "n75c23649",
     "category": "IT",
     "source": "한국방송뉴스",
-    "time": "34일 전",
+    "time": "35일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -266,20 +266,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "62일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -308,6 +294,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n490343d1",
+    "category": "스포츠",
+    "source": "미디어오늘",
+    "time": "202일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ME9tQ2JRQWtiTUxTcTVVUHRPUVFhcXNDWFo0TnVSUm9ubWo2d0o0UTVOQ01iUW1tMlNYVG9JWjRMbl95c3MzVk5CNmJMUnNDRU02VGk4aTFXWU5QTlNkcHVwbW40Z3otVkxUaGd0cm8?oc=5",
+    "title": "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’",
+    "summary": [
+      "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’ 미디어오늘."
+    ],
+    "chips": [
       "#KBO"
     ]
   },
@@ -376,107 +376,233 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne0304812",
+    "id": "na2eac969",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654579",
-    "title": "\"부정투표다\" 진주 투표소서 소란 피운 60대, 경찰 조사",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/world/2026/06/03/2026060316055652842",
+    "title": "중동 곳곳에서 폭발음…미-이란, 60일 휴전 연장 가능할까",
     "summary": [
-      "[진주=뉴시스] 정경규 기자 = 6·3 지방선거 본 투표일인 3일 경남 진주의 한 투표소에서 60대 A씨가 '부정투표'라며 소란을 피우다 공직선거법 방해 혐의로 경찰의 조사를 받고 있다.",
-      "경찰에 따르면 A씨는 이날 오전 11시 8분께 동성동 중앙동행정복지센터 투표소에서 '부정투표'라며 10여분간 소란을 피우다 신고를 받고 경찰이 현장에 도착하자 골든 튤립호텔 방향으로 달아나다 선관위 직원에게 붙잡혔다.",
-      "경찰은 A씨를 공직선거법 방해 혐의로 붙잡."
+      "[미국-이란 전쟁] 종전 협상 교착 속 무력 충돌 지속… \"중동 내 미군 기지 타격\"vs\"이란 미사일·드론 모두 요격\", 쿠웨이트 \"이란 공격으로 부상자 발생·항공편 운항 중단\" 미국과 이란의 종전 협상이 교착 상태에 빠진 가운데 군사적 충돌이 반복되고 있다.",
+      "도널드 트럼프 미국 대통령은 '이란의 종전 협상 중단 선언'을 \"가짜 뉴스\"라고 지적하며 중재국을 통한 협상이 계속되고 있다며 종전 합의 기대를 키운다.",
+      "하지만 '자위적 차원'을 앞세운."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n824dc8e6",
+    "id": "n29369006",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260603/134041457/1",
+    "title": "안보 업무 경험 없는 빌 풀트, 美 정보수장 대행 논란[지금, 이 사람]",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 최근 사의를 표명한 털시 개버드 국가정보국(DNI) 국장의 대행으로 안보 업무 경험이 전혀 없는 빌 풀트(38·사진) 연방주택금융청(FHFA) 청장을 2일 임명했다.",
+      "그를 상원 인준이 필요한 DNI 국장으로 만들겠다는 속내도 내비쳤다.DNI는 2001년 9·11 테러 이후 미국이 정보전 실패를 되풀이하지 않기 위해 중앙정보국(CIA), 국가안보국(NSA), 연방수사국(FBI) 등 18개 정보기관을 총괄하기 위해 만든."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nebe59582",
     "category": "사회",
     "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260603/134041310/1",
-    "title": "티빙, 회원 개인정보 유출…“동일계정 비번 변경 권장”",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260603/134040901/1",
+    "title": "‘군체’ 좀비들을 피해 탈출하라! 영화관·영화IP 활용한 공연 국내 첫 시도",
     "summary": [
-      "국내 온라인동영상서비스(OTT) ‘티빙’에서 회원 개인정보 유출 사고가 발생했다.티빙은 3일 “전날 신원 미상의 해커가 개인정보가 저장된 데이터베이스(DB)에 접속해 개인정보 파일을 외부로 전송했다”고 밝혔다.",
-      "유출된 개인정보는 회원 아이디(ID)와 이름, 생년월일, 성별, 휴대전화 번호, 이메일, 환불 계좌번호, 비밀번호, 연계정보(CI), 중복가입확인정보(DI) 등이다.",
-      "티빙 측은 이와 관련해 “주민등록번호와 결제 관련 유효 정보는 유출되지."
+      "“밖에…, 밖에!”2일 서울 구로구 롯데시네마 신대방.",
+      "상영관에 20여 명이 모여있는데 누군가 거친 숨을 몰아쉬며 불쑥 들어와 외쳤다.",
+      "“밖에 사람이 아닌 것들이 있어요!” 상영관 문밖에선 그르렁대는 소리가 들리는데…."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb754302a",
+    "id": "n8fde2a77",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/03/2026060313185424983",
+    "title": "'7:4→7:8' 충격 역전패 당한 패장 \"어쩔 수 없죠→가장 강한 투수라 8회에 냈다, 초구 변화구를...\"",
+    "summary": [
+      "NC 다이노스가 6월 첫 경기부터 3점 차 리드를 지키지 못하며 뼈아픈 역전패를 당한 가운데 이호준(50) NC 감독이 전날(2일) 경기를 복기하며 아쉬움을 곱씹었다.",
+      "NC는 2일 대구 삼성라이온즈파크에서 열린 삼성 라이온즈와의 원정 경기에서 8회초까지 7-4로 앞서가며 승기를 잡은 듯했으나, 8회말 불펜이 급격히 무너지며 마지막 순간 웃지 못했다.",
+      "셋업맨 임지민이 선두타자 르윈 디아즈에게 2루타를 내준 데 이어, 1사 후 전병우에게 안타를 허."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1de87b80",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/03/2026060315580026067",
+    "title": "왜 'ERA 10점대' 전격 선발로 낙점했나, 사령탑이 이유 밝혔다... '10G 타율 0.324 손아섭 2번 출격' [잠실 현장]",
+    "summary": [
+      "두산 베어스가 위닝시리즈를 확정하기 위해 나선다.",
+      "두산은 3일 오후 5시 서울 잠실야구장에서 한화 이글스를 상대로 2026 신한 SOL KBO 리그 정규시즌 홈경기를 치른다.",
+      "두산은 26승 1무 28패를 마크하며 리그 6위에 자리하고 있다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd5efd16f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026060316304955007",
+    "title": "머스크의 스페이스X, 아람코 넘나…750억달러 IPO 추진",
+    "summary": [
+      "일론 머스크가 이끄는 미국 항공우주기업 스페이스X가 기업공개(IPO)를 통해 1조7500억달러, 우리 돈 약 2600조원대 기업가치에 도전한다.",
+      "계획대로 상장이 성사되면 세계 증시 역사상 최대 규모 IPO 기록을 새로 쓰게 된다.",
+      "2일(현지시간) 월스트리트저널(WSJ)에 따르면 스페이스X는 나스닥 상장을 앞두고 주당 공모가를 135달러로 정하는 방안을 추진하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n414bdb05",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654583",
-    "title": "이 대통령 \"'유능하고 충직한 일꾼 뽑자'는 말, 특정 진영 유리한 선거운동 아냐\"",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654693",
+    "title": "구리·남양주·하남 오후 4시 투표율, 지난 지선 최종 추월",
     "summary": [
-      "[서울=뉴시스] 김지은 기자 = 이재명 대통령은 3일 \"'유능하고 충직한 일꾼을 뽑자.",
-      "정치를 포기한 결과는 가장 저질스런 인간에게 지배당하는 것'이라는 말은 특정한 후보나 진영을 유리하게 하는 선거운동일 수 없다\"고 밝혔다.",
-      "이 대통령은 6·3 지방선거 당일인 이날 오후 X(옛 트위터)에 올린 글에서 \"'착하게 살아야 한다."
+      "[남양주=뉴시스]이호진 기자 = 제9회 전국동시지방선거(지선) 경기동부 일부지역 투표율이 오후 4시 기준 지난 지방선거 최종 투표율을 넘어섰다.",
+      "3일 중앙선거관리위원회에 따르면 이날 오후 4시 기준 투표율은 구리시 54.3%, 남양주시 50.7%, 하남시 56.0%, 가평군 57.8%, 양평군 58.3%를 기록 중이다.",
+      "구리시와 남양주시, 하남시의 경우 오후 4시를 기준으로 지난 8회 전국동시지방선거 최종 투표율을 이미 추월했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n98583f95",
-    "category": "스포츠",
-    "source": "조선일보",
+    "id": "nac300360",
+    "category": "사회",
+    "source": "아시아경제",
     "time": "6분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/03/GE4GEZDEMQ2TQZRUMRQWGY3GMM/",
-    "title": "스포츠토토, 2026년 북중미월드컵 '얼리버드 이벤트'…건전한 스포츠 응원 문화 확산",
+    "url": "https://view.asiae.co.kr/article/2026060316001814058",
+    "title": "100년 은행나무에 제초제 뿌린 환기미술관 결국 사과",
     "summary": [
-      "서울올림픽기념국민체육진흥공단이 발행하는 체육진흥투표권 스포츠토토의 수탁사업자 한국스포츠레저㈜가 10일까지 공식 인터넷 발매 사이트 베트맨을 통해 '2026 북중미 축구대회 얼리버드 이벤트'를 진행한다.",
-      "이번 이벤트는 12일(이하 한국시각) 개막하는 2026년 북중미월드컵을 앞두고 스포츠팬들의 관심과 참여를 높이고, 건전한 스포츠 응원 문화 확산을 위해 마련."
+      "서울 종로구 부암동 환기미술관이 수령 100년 이상으로 추정되는 은행나무에 제초제를 주입한 사실을 인정하고 공식 사과했다.",
+      "그러나 주민들과 환경단체는 사과문에 제초제 사용 경위와 복구 대책, 피해 회복 방안 등이 구체적으로 담기지 않았다며 추가 조치를 요구하고 있다.",
+      "환기미술관은 최근 홈페이지에 올린 사과문을 통해 \"은행나무와 관련해 부암동 주민과 환기미술관을 아끼는 분들께 심려를 끼쳐드린 점 깊이 사과드린다."
     ],
     "chips": [
-      "#뉴스"
+      "#환경"
     ]
   },
   {
-    "id": "n1deff583",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603043900007",
-    "title": "'동성애 혐오 구호' 멕시코에 FIFA 벌금은 정당…CAS 제소 기각",
-    "summary": [
-      "(서울=연합뉴스) 배진남 기자 = 팬들이 상대 팀 선수들을 향해 동성애 혐오성 구호를 외친 데 책임을 물어 국제축구연맹(FIFA)이 멕시코축구협..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9cc1ff37",
+    "id": "n832b5a2b",
     "category": "사회",
     "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603043800062",
-    "title": "[6·3 지선] '투표하고 독려하고'…속초 후보 마지막까지 분주",
+    "url": "https://www.yna.co.kr/view/AKR20260603048751009",
+    "title": "이란 드론에 쿠웨이트공항 또 멈췄다…인명·시설 피해(종합)",
     "summary": [
-      "(속초=연합뉴스) 류호준 기자 = 제9회 전국동시지방선거 본 투표일인 3일 강원 속초시장 후보들은 투표에 참여하거나 독려하며 마지막까지 지지를 ..."
+      "(서울·이스탄불=연합뉴스) 고일환 기자 김동호 특파원 = 이란의 드론 공습으로 쿠웨이트 국제공항의 운영이 중단됐다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf6f71b31",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026060314291124308",
-    "title": "인텔 CEO \"AI 에이전트 확산에 CPU 중요성 커져…기업들 공급 요청 쇄도\"",
+    "id": "n0529adf6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/03/MY4GEMBZGYYTQMBTGQYDMMJSG4/",
+    "title": "고작 '이것' 때문에? → 역대급 ERA 0.82 오타니, 사이영상 어려운 기막힌 이유는",
     "summary": [
-      "미국 반도체 기업 인텔의 립부 탄 최고경영자(CEO)가 인공지능(AI) 에이전트 확산으로 중앙처리장치(CPU)의 중요성이 다시 커지고 있다고 강조했다.",
-      "최근에는 CPU 물량 확보를 위해 글로벌 기업 최고경영자들의 직접적인 요청도 이어지고 있다고 밝혔다.",
-      "3일 연합뉴스와 외신 등에 따르면 탄 CEO는 전날 대만 타이베이에서 열린 글로벌 정보기술(IT) 전시회 컴퓨텍스 기조연설에서 \"CPU의 중요성이 점점 높아지고 있다\"고 말했다."
+      "[스포츠조선 한동훈 기자] LA 다저스 슈퍼스타 오타니 쇼헤이가 이번 시즌 투수로 압도적인 성적을 거두고 있다.",
+      "생애 첫 사이영상 도전 이야기가 나온다.",
+      "하지만 실제로 경쟁자들을 이기기에는 명확한 한계가 존재한다는 분석이 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n944500df",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/economy/2026/06/03/2026060314285128007",
+    "title": "속도 내던 최고가격제 출구전략…국제 유가 반등에 제동 걸리나",
+    "summary": [
+      "시행 3개월 차를 맞은 석유제품 최고가격제 출구전략을 두고 정부의 고심이 깊어지고 있다.",
+      "국내 기름값이 하향 안정화되며 제도 종료에 속도를 내는 분위기였으나 최근 종전 협상 결렬 우려로 국제 유가가 반등하면서 변수로 작용하고 있기 때문이다.",
+      "국내 석유제품 가격은 진정세를 보이고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n458daf70",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654651",
+    "title": "닛케이지수, 반도체주 강세에 최고치 경신…6만8000선 돌파 마감",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 일본 도쿄증시에서 닛케이225지수(닛케이평균주가)가 사상 최초로 6만8000선을 돌파하며 상승 마감했다.",
+      "3일 니혼게이자이신문(닛케이)에 따르면 닛케이지수는 이날 전 거래일 대비 1667.89포인트(2.50%) 상승한 6만8402.13에 장을 마감했다.",
+      "JPX 닛케이 인덱스 400지수는 전 거래일 대비 679.22포인트(1.91%) 오른 3만6330.01로 거래를 마쳤다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n939c6f7a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603055100007",
+    "title": "수영 결승전 10명이 뛴다…세계수영연맹, 출전 기회 확대 실험",
+    "summary": [
+      "(서울=연합뉴스) 이대호 기자 = 세계수영연맹(World Aquatics)이 세계선수권대회 결승전 레인을 기존 8개에서 10개로 늘리고 와일드카..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na244928d",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026060315474483700",
+    "title": "열차 지붕에 올라탄 10대들…美 '지하철 서핑' 유행에 모방범죄 우려",
+    "summary": [
+      "미국에서 지하철 지붕 위에 올라가는 이른바 '지하철 서핑'이 10대 사이에서 유행하면서 모방 범죄 우려가 커지고 있다.",
+      "미국 뉴욕포스트 등 외신은 1일(현지시간) 지난 2년간 10대들을 중심으로 지하철 서핑 사고가 급증하며 사망자가 속출하고 있다고 전했다.",
+      "뉴욕경찰청과 광역교통공사(MTA) 데이터에 따르면 지하철 서핑 사망자는 2024년 7명, 2025년 5명으로 집계됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf75b825",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603029751073",
+    "title": "닛케이지수, 사상 첫 68,000 돌파…키옥시아, 한때 日시총 2위(종합)",
+    "summary": [
+      "(도쿄=연합뉴스) 조성미 특파원 = 일본 증시 대표 주가지수인 닛케이225평균주가(닛케이지수)가 인공지능(AI)과 반도체 관련 주가 상승에 힘입..."
     ],
     "chips": [
       "#AI",
@@ -484,154 +610,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1932efd8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654585",
-    "title": "여야, 6·3 지방선거 투표 독려…민주 \"내란 청산\" 국힘 \"李 폭주 견제\"",
-    "summary": [
-      "[서울=뉴시스]하지현 정금민 한재혁 우지은 기자 = 여야가 6·3 지방선거 및 국회의원 재·보궐선거 본투표일인 3일 유권자들에게 투표 참여를 독려하며 마지막 지지를 호소했다.",
-      "더불어민주당은 '내란 청산'을 앞세워 이재명 정부에 힘을 실어달라고 당부했고, 국민의힘은 '공소취소 특검법 저지' 등 이재명 정부 견제를 위해 투표에 참여해달라고 강조했다.",
-      "정청래 민주당 총괄상임선거대책위원장은 이날 오전 국회에서 열린 중앙선대위 회의에서 \"오늘 우리가 행."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3de9528b",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260603/134041320/1",
-    "title": "화재·추락·안전모 미착용까지 감지…AI CCTV 도입하는 기업들",
-    "summary": [
-      "“인공지능(AI) 폐쇄회로(CC)TV를 쓰기 전에는 매 순간, 모든 공간이 허점이었어요.”지난달 26일 경기 화성시 공장에서 만난 유재민 유창하이텍 전무이사의 말이다.",
-      "유창하이텍은 다양한 화학물질을 배합해 폴리우레탄을 생산하는 회사다.",
-      "이날 방문한 유창하이텍 화성 공장에는 취급 주의가 필요한 화학물질이 다량 저장돼 있고 중장비도 수시로 오가고 있었다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n3c1e6381",
+    "id": "nab62cb3e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603044300527",
-    "title": "전남 광양 오존주의보 발령",
-    "summary": [
-      "(광주=연합뉴스) 3일 오후 2시를 기해 전남 광양에 오존주의보가 내려졌다고 환경부 한국환경공단이 전했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n0f5b6315",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026060313590299058",
-    "title": "티빙, 회원 개인정보 유출 사고…\"해커가 DB 접속\"",
-    "summary": [
-      "CJ ENM의 온라인 동영상 서비스(OTT) 티빙에서 회원 개인정보 유출 사고가 발생했다.",
-      "티빙은 3일 홈페이지와 애플리케이션(앱)에 '개인정보 유출 사고 안내' 팝업 공지문을 게재했다.",
-      "전날 이용자들의 개인정보를 저장하는 데이터베이스(DB)에 비인가된 접근으로 인해 회원 개인정보가 유출된 정황을 확인했다는 내용이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2fa92857",
-    "category": "스포츠",
-    "source": "뉴시스",
     "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654545",
-    "title": "'전설' 펠레 1958년 월드컵 결승 유니폼, 경매에 나온다",
+    "url": "https://www.yna.co.kr/view/AKR20260603049451063",
+    "title": "한화에어로 폭발 사망자 합동분향소 유성구청에…5일부터 조문(종합)",
     "summary": [
-      "[서울=뉴시스] 김진엽 기자 = '브라질 축구 황제' 고(故) 펠레가 지난 1958년 국제축구연맹(FIFA) 스웨덴 월드컵 결승전에서 입었던 유니폼이 경매에 나올 예정이다.",
-      "세계적인 경매 회사 '소더비'는 2일(현지 시간) \"펠레가 1958년 월드컵 결승전에서 우승을 확정할 때 착용한 유니폼이 온라인 경매에 나온다\"고 알렸다.",
-      "영국 매체 '가디언'은 600만 달러(약 91억원) 이상에 낙찰될 거로 예상했다."
+      "(대전=연합뉴스) 김소연 기자 = 한화에어로스페이스 대전사업장 폭발 사고 사망자를 추모하는 합동분향소가 마련된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2c740adb",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026060313533095994",
-    "title": "마트 화장실 아기의자에 뾰족한 나사못 2개가…\"실수냐 고의냐\"",
-    "summary": [
-      "대형마트 화장실 내 비치된 아기용 의자 위에 나사가 세워져 있단 목격담이 나와 네티즌들 사이에서 고의성 여부를 두고 논쟁이 일고 있다.",
-      "지난 2일 온라인커뮤니티 '보배드림'엔 '천안 유아용 의자에 누가 나사를 올려놨습니다'라는 제목의 글이 올라왔다.",
-      "글을 쓴 A씨는 \"이마트 트레이더스 화장실에서 아기들이 앉는 유아용 의자 위에 피스(나사)가 있었고 제가 발견해서 바로 치웠다\"며 \"만약 아이가 앉았다면 다칠 수도 있었."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3d47f854",
-    "category": "사회",
+    "id": "na6a080a8",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/06/03/CEZ2UYMIOZAJLOUPX2UBGSGBNQ/",
-    "title": "목발 짚고, 자녀 손잡고… 서해 최북단 백령도 주민들도 ‘한 표’",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/03/3HXDCYP6AVAOPK3S6N3OR2L3LA/",
+    "title": "외야수 머리 맞고 홈런? ... 메이저리그에서 역대급 실책 나왔다",
     "summary": [
-      "목발 짚고, 자녀 손잡고… 서해 최북단 백령도 주민들도 ‘한 표’."
+      "외야수 머리 맞고 홈런? ... 메이저리그에서 역대급 실책 나왔다."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n79f39aad",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260603/134041226/1",
-    "title": "‘푸바오 동생’ 쌍둥이 판다도 떠난다…올겨울 中 귀환 준비",
-    "summary": [
-      "국내에서 태어난 첫 쌍둥이 자이언트 판다인 루이바오와 후이바오가 올해 겨울 중국으로 돌아갈 것으로 보인다.‘푸바오 할부지’로 널리 알려진 강철원 에버랜드 사육사는 1일 공개된 유튜브 채널 ‘말하는동물원 뿌빠TV’를 통해 “루이바오와 후이바오는 힘들지 않게 보내주기 위해 올겨울쯤 이동을 준비할까 생각하고 있다”고 말했다.",
-      "강 사육사는 “루이바오와 후이바오도 세 살이 돼 내년 초가 되면 번식 행동 관련해서 호르몬 변화가 있을 것”이라며 “푸바오도."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbbe024f0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603043600064",
-    "title": "[6·3 지선] \"투표용지 중복 교부\" 충북 투표 관련 신고 6건",
-    "summary": [
-      "(청주=연합뉴스) 박건영 이성민 기자 = 제9회 전국동시지방선거 투표일인 3일 청주의 한 투표소에서 유권자에게 투표용지가 중복으로 한 장 더 교..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf84facbe",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260603/134041521/1",
-    "title": "지방선거 오후 2시 투표율 48.9%…동시간대 역대 최고",
-    "summary": [
-      "중앙선거관리위원회는 3일 오후 2시 기준 제9회 전국동시지방선거 투표율이 48.9%로 집계됐다고 밝혔다.전체 유권자 4464만9908명 가운데 2183만3284명이 투표권을 행사했다.해당 투표율에는 지난달 29∼30일 실시된 사전투표(투표율 23.51%)와 몸이 불편한 유권자가 우편으로 투표권을 행사한 ‘거소투표’ 결과도 반영됐다.이는 시간대별 투표율을 집계하기 시작한 제2회 지방선거(1998년) 이후 역대 지선 중 같은 시간대 최고 투표율이다."
-    ],
-    "chips": [
-      "#정치"
     ]
   }
 ];
@@ -641,20 +644,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
