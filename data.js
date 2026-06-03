@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-03 01:52:04
+// 마지막 업데이트: 2026-06-03 03:04:23
 window.NEWS_DB = [
   {
     "id": "n99d83ff7",
     "category": "IT",
     "source": "경향신문",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TUWx3T1JXWDF3TXo4MmozSnBZb2poWTcyM0JGN0dHTTdDdmhwUGhOME5xamE2TS0zV3hoWmY0TjgyRWM0bG1ud05lSWdqSzFNaDA5MkZsbi1jd9IBX0FVX3lxTE1ubkZOMzhfaGc4RnYwN3FFZTdpYlNQcWtBT3RSZ253T001T2pSWlBFRi1HS3FmVzdvaEhNS0M4RmpBMi1PdDdBeHZLbThqbFZaODA4dXBpN05nWTh5SXdB?oc=5",
     "title": "젠슨 황도 픽한 ‘K로보틱스’···2차 깐부회동 앞두고 국내 피지컬 AI 산업 ‘들썩’",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n010f58ad",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjJCbTBvXzJvNFIwNms1VnFzNmx0M0hWSE9naG1FbXdRdUZCU3dEUmg1SEpaTzBUeUhBblh0UHE2bkJLWThyNV9JZVRMalM4QldQT2g0Vl9OUHA4M3d1cGcwRG1lakFyRGtSUC1wUDdpVWdEMzB4NkVDT0F0dFczbEkxVGtiWWYt?oc=5",
     "title": "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nf7aff249",
     "category": "IT",
     "source": "조선일보",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGZyV25BNGY2T0NvNElRckI5bnZtcU94RzNPOHh2TkVVdTlmVzVqWVIxM0tzZEZuWlZLLTVfMXpreF9qMzh4bkZDclVBak16TDJZN1UzT2lYb0JjNXhTMm5PX2s1WnFhMEtOSGVGaUs2R2RMVWlOUFVTd0FSSXlXa1VyZw?oc=5",
     "title": "젠슨 황 \"메모리 부족 지속\"… 최태원 \"5년 내 생산 능력 2배 확대\"",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n70cb7884",
     "category": "사회",
     "source": "투데이경제",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
     "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n38022242",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0pTME40YURudGhfd1FYdVlNQVFmQ05hZWlCUnd1bG1KcUY5cHJ5ckY5UW9TNkVMUUNKMzh4RWpuODlaRkdsbWZOS3MzVjZocWhQZW8ybGtrLWppbl8yalppR2FKTzc3ZFdpdVFmbFViYmdzREx6amsySG1hc3NqOS1B0gGWAUFVX3lxTE1aMWZ5eHRUTDI0MjlVbFQtUHpWQndoVzZ6VktVa29ySkJlODAzd3A1UnY2YnZ6dm03MzhXMFYtMkRmQjRNeW5iYkNvUDhtTENrRWlIa0VubjBCeDZ5eS1TazM1bkhhVUNfcmRVR3FIQmQxNFRoUFhMMV9UYzF1NlJPYkphOVhWLWF5QXgwYjN3WkVZTEhGdw?oc=5",
     "title": "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈",
     "summary": [
@@ -80,7 +80,7 @@ window.NEWS_DB = [
     "id": "na51ce02d",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LaFJiaVhMOVg4RmU3ZUdELWJZQldVcVNNalNXTnNiQVpiM3Z1V1AtdFY4QWNCZ2M0bUthYnRWb0xjMUFvQkhYZm1CaW9OV0tQaVY5TWVKd0RCaU1pdlNhTWp3YlNYR0dI?oc=5",
     "title": "삼성전자·하이닉스, HBM4 베이스다이 경쟁…메모리에서 '파운드리 전쟁'으로",
     "summary": [
@@ -254,6 +254,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n75c23649",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "34일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -265,20 +279,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbc27bc5a",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "97일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
-    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
-    "summary": [
-      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -308,6 +308,38 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n1d39b1a7",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152330",
+    "title": "[테크M 이슈] 앤트로픽 IPO·알파벳 유상증자...'쩐의 전쟁'이 된 AI 경쟁",
+    "summary": [
+      "AI 경쟁이 기술력 싸움을 넘어 자본력 싸움으로 번지고 있다.",
+      "챗GPT 대항마로 꼽히는 클로드 개발사 앤트로픽이 기업공개(IPO) 절차에 들어간 가운데, 구글 모회사 알파벳은 AI 인프라 확충을 위해 최대 800억달러 규모의 주식 발행 계획을 내놨다.생성형 AI 시장의 주도권을 잡기 위해 빅테크와 AI 스타트업 모두 천문학적인 자금을 끌어모으는 '쩐의 전쟁'에 들어선 모습이다.3일 외신에 따르면 앤트로픽은 지난 1일(현지시간) 미국 증권거래위원."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n567be4ed",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152328",
+    "title": "MS, '빌드 2026'서 AI 에이전트 플랫폼 공개...\"엣지부터 클라우드까지 개발 환경 확장\"",
+    "summary": [
+      "마이크로소프트가 AI 에이전트 개발과 운영을 지원하는 플랫폼 전략을 전면에 내세웠다.",
+      "기업 내부 데이터와 웹 정보를 연결하는 새로운 인텔리전스 계층을 공개하고, 로컬 PC부터 클라우드까지 이어지는 풀스택 개발 환경을 확대하며 AI 에이전트 생태계 주도권 강화에 나섰다.마이크로소프트는 3일 '빌드 2026'을 개최하고 AI 에이전트와 애플리케이션을 보다 유연하고 안전하게 개발·운영할 수 있도록 지원하는 플랫폼 업데이트를 발표했다.사티아 나델라 마."
+    ],
+    "chips": [
+      "#AI",
+      "#환경"
     ]
   },
   {
@@ -346,286 +378,257 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na5bcae56",
+    "id": "nd945ac98",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/03/2026060311334140032",
+    "title": "정원오 \"서울의 미래 결정되는 날…'검증된 후보'에게 투표해 달라\"",
+    "summary": [
+      "[6.3 지방선거] 정원오 더불어민주당 서울시장 후보가 6·3지방선거 본투표일인 3일 \"검증된 후보 정원오가 확실한 서울의 변화를 이끌겠다\"며 지지를 호소했다.",
+      "정 후보는 이날 SNS(소셜미디어)에 올린 글과 영상을 통해 \"오늘은 서울의 미래가 결정되는 날\"이라며 이같이 밝혔다.",
+      "그는 \"보다 안전한 서울을 만들기 위해서는 약속을 지키는 서울시장이 필요하다\"며 \"일 잘하는 정원오에게 꼭 투표해 달라\"고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n61a800ad",
     "category": "스포츠",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/06/03/MNQTCNRSGVSTEMZTMZRDMZBRGQ/",
-    "title": "\"'무한도전' 재결합 없다\"…박명수, 무도키즈 울린 선언",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654402",
+    "title": "'52년 만의 월드컵' 콩고민주공화국, 에볼라에 평가전 취소",
     "summary": [
-      "[스포츠조선 백지은 기자] 개그맨 박명수가 MBC '무한도전'에 대한 입장을 밝혔다.",
-      "2일 유튜브 채널 '신여성'에는 '험한 곳을 찾아와버렸네;; 명수 신여성 나들이(?)(명수 짝사랑 썰, 코디 차 선물, 무도 재결합)'이라는 제목의 영상이 공개됐다.",
-      "이날 박명수는 조혜련 이경실 이선민 등과 함께 대화를 나눴다."
+      "[서울=뉴시스] 김진엽 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵을 통해 52년 만에 월드컵 본선 무대를 앞둔 콩고민주공화국이 에볼라 바이러스 때문에 칠레 축구 대표팀과의 친선 경기를 소화하지 못했다.",
+      "영국 매체 '가디언'은 3일(한국 시간) \"스페인 당국은 에볼라 확산 우려로 콩고민주공화국과 칠레의 친선 경기를 취소했다\"고 보도했다.",
+      "매체에 따르면 스페인 남부 라 리네아 데 라 콘셉시온의 후안 프랑코 시장은 오는 9일 예정된 콩고."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndea7a911",
+    "id": "n9884c61f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654457",
-    "title": "정청래 \"권력은 총구 아닌 투표서 나와…단 한 표가 당선자 바꿔\"",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654508",
+    "title": "국힘 \"李 대통령, 선거 당일에도 선거 개입…유권자 표로 심판할 것\"(종합)",
     "summary": [
-      "[서울=뉴시스]정금민 한재혁 이소헌 기자 = 정청래 더불어민주당 총괄상임선대위원장이 6·3 지방선거 본투표일인 3일 \"우리 역사가 증명하듯 투표는 총알보다 강하다.",
-      "권력은 총구에서 나오지 않고, 투표소에서 나온다\"며 적극적인 투표권 행사를 독려했다.",
-      "정 위원장은 이날 국회에서 열린 중앙선대위회의에서 \"오늘은 나라의 주인인 국민이 우리 지역의 내일과 대한민국의 미래를 결정하는 날\"이라며 이같이 말했다."
+      "[서울=뉴시스]하지현 우지은 기자 = 국민의힘은 이재명 대통령이 제9회 전국동시지방선거일인 3일 '최악의 저질들에게 지배당하지 않기 위해 투표하셨나'라는 글을 게시한 것을 두고 \"선거 당일에도 저질 편 가르기와 선거 개입을 하고 있다\"고 했다.",
+      "장동혁 상임선거대책위원장은 이날 페이스북에 \"부처님 눈에는 부처님만 보인다더니, '저질' 눈에는 '저질'만 보이는 모양\"이라며 \"이쯤 되면 플라톤이 무덤에서 뛰쳐나와 이재명 멱살 잡고 흔들겠다\"고 했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0f573eb7",
+    "id": "n0cb13ab2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654450",
-    "title": "\"태풍·호우 피해예방\"…제주소방, 안전대책 추진",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260602_0003653292",
+    "title": "\"올 여름은 오싹하게\"…청호나이스, '브랜드위크'",
     "summary": [
-      "[제주=뉴시스]오영재 기자 = 여름철 태풍과 집중호우 등 자연재해에 앞서 소방당국이 피해 예방을 위한 안전대책을 추진한다.",
-      "제주소방안전본부는 오는 10월15일까지 여름철 극한호우와 태풍, 폭염 등 자연재난에 선제적으로 대응하기 위해 '여름철 소방안전대책'을 추진한다고 3일 밝혔다.",
-      "이번 안전대책은 기후변화로 짧은 시간에 많은 비가 쏟아지는 극한호우와 강력 태풍 발생이 증가함에 따라 도민의 생명과 재산 피해를 최소화하기 위한 마련됐다."
+      "[서울=뉴시스]강은정 기자 = 청호나이스는 이달 7일까지 '브랜드위크' 기획전을 열고 다양한 혜택을 제공한다고 3일 밝혔다.",
+      "6월 무더위를 맞아 진행되는 이번 기획전은 정수기, 공기청정기, 비데 같은 청호 나이스 제품으로 고객들이 여름을 시원하게 보낼 수 있도록 돕고자 추진됐다.",
+      "특히 올해 출시한 얼음정수기 '더엠(The M)'을 포함한 주요 제품 구매 시 최대 15개월 렌탈료를 50% 할인한다."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "n36d8292f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654438",
-    "title": "오세훈 \"서울의 미래와 대한민국 균형 지켜달라\" 투표 참여 호소",
-    "summary": [
-      "[서울=뉴시스]하지현 기자 = 오세훈 국민의힘 서울시장 후보는 제9회 전국동시지방선거일인 3일 \"서울의 미래와 대한민국의 균형을 지켜달라\"며 서울 시민들에게 투표에 참여해 줄 것을 호소했다.",
-      "오 후보는 이날 페이스북에 \"시민 여러분의 소중한 선택을 겸허히 기다리겠다\"며 \"여러분이 (투표에) 참여하셔야 서울을 지키고, 균형 잡힌 대한민국의 상식이 이긴다\"고 밝혔다.",
-      "그는 \"오늘 여러분의 그 한 걸음이 무엇보다 소중하다\"며 \"한쪽이 모든 것을 차지."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0a6a9fbc",
+    "id": "n4c11b7a4",
     "category": "IT",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/06/03/HEYGCZLBG43DKM3CMVRDEZTEME/",
-    "title": "MS, 차세대 양자칩 ‘마요라나 2′ 공개",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/finance/2026/06/03/2026060217260542488",
+    "title": "실손보험 적자 2조원 육박..'로봇수술' 종합병원 타간 보험금 급증",
     "summary": [
-      "마이크로소프트(MS)가 차세대 양자 컴퓨팅 인공지능(AI) 칩 ‘마요라나(Majorana) 2’를 공개했다.",
-      "MS는 이를 기반으로 2029년까지 상업적으로 활용 가능한 양자컴퓨터를 선보인다는 계획이다.",
-      "MS는 2일(현지시각) 미국 샌프란시스코 포트메이슨 센터에서 개최한 연례 개발자회의 ‘빌드’에서 이전 제품보다 큐비트(qubit) 수명을 평균 20초 수준으."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nf76e4467",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/06/03/MQZGGMJZGM2DSZLDG43DIYRZGY/",
-    "title": "조폭 출신 BJ, 라이브 방송 중 교통사고로 사망 \"시청자 150명 접속\"",
-    "summary": [
-      "[스포츠조선 백지은 기자] 조폭 출신 BJ A씨가 라이브 방송 중 교통사고로 사망했다.",
-      "3일 뉴스1에 따르면 A씨는 2일 오후 1시 30분쯤 경북 상주시 낙동면 성동리 대구에서 상주 방향으로 가는 25번 국도에서 3.5톤 화물차에 치이는 사고를 당했다.",
-      "이 사고로 A씨와 자전거를 에스코트하던 SUV 운전자 B씨 또한 중상을 입었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7caaf945",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654449",
-    "title": "선거 관련 112신고 88건…투표방해·소란 최다[6·3지방선거]",
-    "summary": [
-      "[서울=뉴시스]최은수 기자 = 제9회 전국동시지방선거 본투표가 시작된 3일 오전 전국에서 선거 관련 112신고 88건이 접수된 것으로 집계됐다.",
-      "경찰청에 따르면 이날 오전 6시부터 오전 9시까지 접수된 선거 관련 112신고는 총 88건이다.",
-      "유형별로는 투표방해·소란 신고가 14건으로 가장 많았다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n34288f23",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260603/134040768/1",
-    "title": "고개 숙인 손재일 대표…한화에어로 대전 폭발사고 유가족 접견",
-    "summary": [
-      "손재일 한화에어로스페이스 대표가 한화에어로 대전공장 폭발 사고 희생자들의 유족을 만나 사과하고 요구사항 등을 청취했다.3일 오전 9시 40분쯤 손 대표는 대전 유성구 선병원 장례식장을 찾아 10여명의 유가족을 만났다.",
-      "이날 신원이 확인된 희생자 5명의 시신은 이곳에 임시로 안치됐다.회색 작업복을 입은 손 대표는 굳은 표정으로 유족들의 의중을 청취하고 앞으로의 상황 등을 설명했다.",
-      "테이블에 둘러앉은 유족들은 침통한 표정이었고, 일부 유족은 피곤한."
+      "병의원 의료비를 보장하는 실손의료보험에서 지난해 1조8700억원의 적자가 났다.",
+      "도수치료 등 근골격계 질환으로 지급된 보험금이 2조7000억원으로 전체 보험금의 15.8%를 차지했다.",
+      "특히 로봇수술 등 고액비급여 의료비가 급증해 상급종합병원에 지급된 실손보험금이 대폭 늘었다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n99fcb3cd",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603032200007",
-    "title": "월드컵 빛낼 '넘버 7 자존심 경쟁'…손흥민·호날두·비니시우스",
+    "id": "nbbfddaa8",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/economy/2026/06/03/2026060209230874194",
+    "title": "하자 이유로 하도급대금 미지급한 세화학원…공정위, 시정명령",
     "summary": [
-      "(서울=연합뉴스) 이영호 기자 = 현대 축구에서 등번호는 단순히 포지션을 정의하는 의미를 넘어 스타플레이어들의 상징이 됐다."
+      "하자가 있다는 이유로 하도급대금 잔금을 지급하지 않은 학교법인 세화학원이 공정거래위원회로부터 제재를 받았다.",
+      "공정위는 세화학원의 하도급법 위반 행위에 대해 시정명령을 결정했다고 3일 밝혔다.",
+      "세화학원은 경상북도 포항시에 위치한 세화고등학교를 설립·운영하고 있는 법인이다."
     ],
     "chips": [
-      "#손흥민"
+      "#교육"
     ]
   },
   {
-    "id": "n044a8846",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603032100007",
-    "title": "샌디에이고 송성문, 3타수 무안타…2경기 연속 침묵",
+    "id": "n0423d37a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/economy/2026/06/03/2026060208335240538",
+    "title": "공사대금 현금으로 100% 받고 하청업체엔 현금 안준 시티건설",
     "summary": [
-      "(서울=연합뉴스) 김동한 기자 = 2경기 연속 선발 출전한 송성문(샌디에이고 파드리스)이 무안타 침묵을 이어갔다."
+      "수급사업자에 계약서를 최대 310일 지연 발급한 시티건설이 공정거래위원회로부터 제재를 받았다.",
+      "시티건설은 발주자로부터 100% 현금으로 공사대금을 받고도 수급사업자에겐 이에 못미치는 비율로 하도급대금을 현금 지급하기도 했다.",
+      "공정위는 시티건설의 하도급법 위반 행위에 대해 시정명령과 함께 과징금 3800만원 부과를 결정했다고 3일 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6180e3a7",
+    "id": "ne9e62f24",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603031600001",
-    "title": "정청래 \"충직한 일꾼 뽑는 선거…주권 포기 말고 투표해달라\"",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260603/134041059/2",
+    "title": "지방선거 관련 112 신고 88건…투표 방해·소란 신고가 최다",
     "summary": [
-      "(서울=연합뉴스) 김남권 안정훈 기자 = 더불어민주당 정청래 총괄 상임선거대책위원장은 6·3 지방선거 본투표일인 3일 \"투표 참여로 민주주의의 ..."
+      "제9회 전국동시지방선거일인 3일 오전 9시 기준 전국에서 접수된 선거 관련 112 신고가 88건으로 나타났다.경찰청에 따르면 이날 투표가 시작된 오전 6시부터 3시간동안 접수된 선거 관련 112 신고는 모두 88건으로 집계됐다.",
+      "유형별로는 투표 방해나 투표소 내 소란 관련 신고가 14건으로 가장 많았다.",
+      "교통 불편 신고는 3건이었으며, 오인 신고 등을 포함한 기타 신고는 71건으로 집계됐다.경찰은 이날 오전 6시부터 개표 종료 시까지 전국 경찰."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nd1e73cdb",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/202606034383i",
-    "title": "사업자대출로 집 사는 '꼼수' 막는다…사후점검 기준 1억→5000만원",
+    "id": "n931f1cf6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260602_0003654159",
+    "title": "지난해 지자체 5급 이상 여성 공무원 첫 1만명 넘었다",
     "summary": [
-      "사업자대출로 집 사는 '꼼수' 막는다…사후점검 기준 1억→5000만원."
+      "[서울=뉴시스] 강지은 기자 = 지난해 전국 지방자치단체 5급 이상 여성 공무원이 처음으로 1만명을 돌파한 것으로 나타났다.",
+      "육아·돌봄 등 휴직 인원도 10% 가까이 증가했다.",
+      "행정안전부는 3일 이러한 내용을 골자로 하는 '2025년 지자체 공무원 인사 통계'를 발표했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n049856a2",
+    "id": "nc0be1308",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260603/134041047/1",
+    "title": "이정후, 밀워키전 교체 출전해 적시타 생산…10경기 연속 안타",
+    "summary": [
+      "최근 타격감 상승세를 그리던 이정후(샌프란시스코 자이언츠)가 교체 출전에도 안타 생산에 성공했다.이정후는 3일(한국 시간) 미국 위스콘신주 밀워키의 아메리칸 패밀리 필드에서 열린 2026 메이저리그(MLB) 밀워키 브루어스와의 경기 8회 교체 출전해 1타수 1안타 1타점을 기록했다.",
+      "지난달 19일 애리조나 다이아몬드백스전에서 허리 근육통을 느낀 뒤 교체돼 부상자명단에 다녀온 이정후는 복귀 후 타격감을 제대로 끌어올렸다.지난달 30일 콜로라도 로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n09d80843",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/People/article/all/20260603/134040763/1",
+    "title": "[인사]국토교통부",
+    "summary": [
+      "◇국토교통부 △기획조정실장 김헌정 △새만금개발청 차장 남영우."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc1f7c37",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/03/MNTDCNRUMY4TENRYMRQTGNJYGY/",
+    "title": "\"에볼라 공포'에 결국…\" 스페인 시장, 콩고-칠레 평가전 '전격 취소' 명령...콩고,52년만의 본선행 직후 최악의 상황",
+    "summary": [
+      "[스포츠조선 전영지 기자]2026년 북중미월드컵을 앞두고 스페인에서 열릴 예정이던 민주콩고(DR콩고)와 칠레의 최종 평가전이 콩고 내 에볼라 바이러스 확산 우려로 인해 결국 취소됐다.",
+      "스페인 카디스주의 국경 도시 라리네아 데 라 콘셉시온의 후안 프랑코 시장은 시민 안전이 최우선이라는 판단에 따라 9일로 예정됐던 양국간 평가전 개최를 금지하는 행정 명령(법령."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n15373a3d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603036500057",
+    "title": "[6·3 지선] \"후보 잘못 찍어\" 투표용지 찢고 유출 시도…선관위 조사",
+    "summary": [
+      "(울산=연합뉴스) 김근주 장지현 기자 = 제9회 전국동시지방선거 본 투표일인 3일 울산에서 유권자가 투표용지를 훼손하거나 대기 줄이 너무 길다며..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0f2ac05f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/politics/election2026/2026/06/03/YLBD6EMFP5HXZLXXQ4CDLZL5HI/",
+    "title": "정원오 “안전한 서울 만들겠다” 오세훈 “서울의 미래 지키겠다”",
+    "summary": [
+      "정원오 “안전한 서울 만들겠다” 오세훈 “서울의 미래 지키겠다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n667db55e",
     "category": "IT",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026060310392587135",
-    "title": "키옥시아, 장중 시총 日 2위까지 치솟아…닛케이지수도 첫 6만8000선 돌파",
-    "summary": [
-      "일본 낸드플래시 제조업체 키옥시아가 인공지능(AI) 투자 확대 수혜 기대감 속에 급등하며 장중 한때 일본 증시 시가총액 2위에 올랐다.",
-      "AI 관련 종목으로 자금이 몰리면서 닛케이225지수 역시 사상 처음으로 장중 6만8000선을 넘어섰다.",
-      "3일 오전 도쿄 증시에서 키옥시아 주가는 전 거래일보다 약 7% 오른 8만3140엔까지 상승했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nefe80d23",
-    "category": "사회",
     "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603031800053",
-    "title": "[6·3 지선] 박근혜 전 대통령, 대구서 투표…\"한 표 반드시 행사해야\"",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603037100003",
+    "title": "삼성중공업, '바다 위 데이터센터' FDC 공략…글로벌 협력 확대",
     "summary": [
-      "(대구=연합뉴스) 윤관식 기자 = 박근혜 전 대통령이 제9회 전국동시지방선거 투표일인 3일 대구 달성군 유가읍 제3투표소에서 한표를 행사했다."
+      "(서울=연합뉴스) 홍규빈 기자 = 삼성중공업이 '바다 위의 데이터센터'로 불리는 부유식 데이터센터(FDC) 시장 공략에 나섰다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n41ca5ea4",
+    "id": "nb46d0df3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/international/us/2026/06/03/DL3JV6M6AJG3JMKBXPEUZJMVAY/",
+    "title": "美 “한국 등 60國, 강제 노동 관련 조치 불이행… 10% 추가 관세 제안”",
+    "summary": [
+      "美 “한국 등 60國, 강제 노동 관련 조치 불이행… 10% 추가 관세 제안”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n64bf5e1c",
     "category": "경제",
     "source": "한국경제",
-    "time": "13분 전",
-    "url": "https://www.hankyung.com/article/2026060343957",
-    "title": "李 \"최악 저질에 지배 안 당해야\"…정성호 \"나쁜 일꾼 안 돼\"",
+    "time": "10분 전",
+    "url": "https://www.hankyung.com/article/2026060344817",
+    "title": "'알라딘'·'미녀와 야수' 명곡 부른 피보 브라이슨 별세…향년 75세",
     "summary": [
-      "李 \"최악 저질에 지배 안 당해야\"…정성호 \"나쁜 일꾼 안 돼\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1811836c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260603/134040727/1",
-    "title": "윤이나, 美 매체 선정 US 여자오픈 주목할 선수…“그린 적중률 최고”",
-    "summary": [
-      "윤이나(23·솔레어)가 가장 권위 있는 여자골프대회인 US 여자오픈에서 주목해야 할 선수 중 한 명으로 이름을 올렸다.미국 골프전문지 골프다이제스트는 3일(이하 한국시간) US 여자오픈에서 주목해야 할 선수 10명을 선정했다.이 명단에는 ‘세계랭킹 1·2위’ 넬리 코다(미국)와 지노 티띠꾼(태국)을 비롯해 윤이나, 리디아 고(뉴질랜드), 인뤄닝(중국), 해너 그린(호주), 야마시타 미유(일본), 훌리아 로페스 라미레스(스페인), 알리센 코르푸즈."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc62a4864",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260603/134040724/1",
-    "title": "“선거 끝난줄”…투표소 안내 현수막 20개 뜯은 60대",
-    "summary": [
-      "경기 의정부시에서 투표소 안내 현수막 20개를 뜯은 60대 남성이 경찰에 붙잡혔다.경기 의정부경찰서는 재물손괴, 절도, 공직선거법 위반 혐의로 60대 남성 A씨를 붙잡아 조사 중이라고 3일 밝혔다.A씨는 지난달 30일 저녁부터 지난 2일까지 의정부 지역 내 투표소 인근에 걸려 있는 5m 크기의 안내 현수막 20개를 뜯은 혐의를 받는다.경찰 조사에서 A씨는 “사전투표가 끝나 불법 현수막이라고 생각해 수거했고, 동사무소에 갖다줬다”고 진술한 것으로."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7928c743",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260603/134040719/1",
-    "title": "이하늘, 에픽하이 폭행설에 “싸움하면 내가 진다”",
-    "summary": [
-      "그룹 ‘DJ DOC’ 이하늘이 에픽하이 폭행설에 대해 해명했다.최근 유튜브 채널 ‘이하늘의 별의별말’에서는 ‘에픽하이를 왜 때렸냐고?’라는 제목의 영상이 공개됐다.영상에서 이하늘은 ‘에픽하이는 왜 때렸냐’는 질문에 “가짜뉴스다.",
-      "DJ DOC가 에픽하이를 왜 때리냐.",
-      "가짜뉴스 보고 선동 당한 것”이라고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n24f010d0",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "18분 전",
-    "url": "https://www.hankyung.com/article/2026060343867",
-    "title": "출구조사 이번에도 '족집게'?…오후 6시 지상파 3사 공개",
-    "summary": [
-      "출구조사 이번에도 '족집게'?…오후 6시 지상파 3사 공개."
+      "'알라딘'·'미녀와 야수' 명곡 부른 피보 브라이슨 별세…향년 75세."
     ],
     "chips": [
       "#뉴스"
@@ -638,8 +641,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
@@ -649,9 +652,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
