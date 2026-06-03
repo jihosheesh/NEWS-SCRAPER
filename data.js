@@ -1,12 +1,12 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-03 19:14:38
+// 마지막 업데이트: 2026-06-03 21:00:54
 window.NEWS_DB = [
   {
-    "id": "nce4e0ce0",
+    "id": "n6b707623",
     "category": "IT",
     "source": "한국경제",
-    "time": "9시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTdIBVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTQ?oc=5",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SmNHX3JWZ0hERTJUMS10d1ZzZXhQckJwY1F0MGxyS2xVTEhsMjRQNXBHNjI5V21SQy16ZEM5bmtnU3QtUFk3UWFRbHdndVB3MlExbDd0NlFOQdIBVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTQ?oc=5",
     "title": "\"AI 시대의 데이터 병목…추론 특화 칩이 해결사\"",
     "summary": [
       "\"AI 시대의 데이터 병목…추론 특화 칩이 해결사\" 한국경제."
@@ -19,29 +19,13 @@ window.NEWS_DB = [
     "id": "ne110559f",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwM1lxY2QxazI0TVI1VFdkR2ExeHB2WkUwT3IwUTkwdUpzNW9oR3REejFwUk52aDJ2cXpaUWU3blZWYlRuc0xjT3RiVUd3UGFqMUlWOTdsM3BEdHNWbk9aMWVBNkM3X1E?oc=5",
     "title": "엔비디아 의존 낮추는 MS… 한국 반도체 공급망 재편 신호탄",
     "summary": [
       "엔비디아 의존 낮추는 MS… 한국 반도체 공급망 재편 신호탄 초이스스탁."
     ],
     "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n010f58ad",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjJCbTBvXzJvNFIwNms1VnFzNmx0M0hWSE9naG1FbXdRdUZCU3dEUmg1SEpaTzBUeUhBblh0UHE2bkJLWThyNV9JZVRMalM4QldQT2g0Vl9OUHA4M3d1cGcwRG1lakFyRGtSUC1wUDdpVWdEMzB4NkVDT0F0dFczbEkxVGtiWWYt?oc=5",
-    "title": "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속",
-    "summary": [
-      "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속 글로벌이코노믹."
-    ],
-    "chips": [
-      "#AI",
       "#반도체",
       "#엔비디아"
     ]
@@ -88,6 +72,23 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "nf90d9a92",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEgzTU5QX3N2TmMzYV82WlQzR2QxVXNaN3llS3dQSDl3ZWlnNEItWWp2dG5KVHpoYWFFSE5oaXdnMzh0d2E1Mmw1VHJZaUVBVTJqd3lCWE1LOHRCVEtyLU0xTUpOQ1l1c0xvVUJja1g5TUZtY3ZrN0dKa2dOZFFjcG83UFM2WjZ6?oc=5",
+    "title": "美, 엔비디아·AMD AI 반도체 해외 중국 법인 수출 전격 차단",
+    "summary": [
+      "美, 엔비디아·AMD AI 반도체 해외 중국 법인 수출 전격 차단 글로벌이코노믹."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#수출"
     ]
   },
   {
@@ -210,20 +211,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4324c5c4",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkticmh3N2tXTGo4a2JTNjQtazBsUEhkTGFYVnoxMmRTVk5LYlAwMnhxcW43d0NKVlBvcjlhUGdnMlY4RHJaZ0pKT0N3SVpGVFJ1ZFJXc09pY3lrZU1mRkc5b3dTU3FtZ3d6bWZneDJ4VzVFM01ER1ZTV3pYRkFXckxadE0zbTE2b0c0TFg4c3hwcVAyb0hZZdIBrAFBVV95cUxQQmJ1RjVPOVZ6N3plS0xLZ1BWeVVNTnV4ZHB5WlBzWVlFeXpRU0M2cWJITU5uT0x5YklqWWZvMUhLRmVsOWotU3A2R2FreE1hWlpBR3dlWlNSNEF1a1FrWngyLWVoTFl3aHFBNm5WeUxySDBaWWsxNUxLUDhzTDRVYTVROTd5SWNyT3NfQ2NNa1Rva1NPZHhtUlZ1dnBwY2JBNGhZVG5uR0V3Umhu?oc=5",
-    "title": "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈",
-    "summary": [
-      "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
     "id": "n35b9d663",
     "category": "경제",
     "source": "KB Think",
@@ -238,18 +225,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "14일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "id": "n5a1617c5",
+    "category": "부동산",
+    "source": "헤럴드경제",
+    "time": "22일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
-      "#반도체",
-      "#고용"
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -295,6 +282,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1e3b72e2",
+    "category": "사회",
+    "source": "매일경제 마켓",
+    "time": "113일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
+    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
+    "summary": [
+      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n46f59f4d",
     "category": "스포츠",
     "source": "머니투데이",
@@ -324,302 +326,299 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3e91cf0e",
-    "category": "사회",
-    "source": "테크M",
+    "id": "n0cd32a6f",
+    "category": "경제",
+    "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152332",
-    "title": "'개인정보 유출' 티빙에 민관합동조사단 파견...최주희 대표 \"책임 다할 것\"",
+    "url": "https://view.asiae.co.kr/article/2026060323085593751",
+    "title": "신세계百 센텀시티, BTS 부산 공연 맞춰 공식 팝업 오픈",
     "summary": [
-      "신원 미상의 해커가 티빙 데이터베이스(DB)에 접속해 이용자들의 개인정보 파일을 외부로 전송한 사건과 관련해 최주희 티빙 대표이사가 사과했다.정부가 민관합동조사단을 꾸려 해당 사건 조사에 착수하면서 발빠른 대응에 나선 것으로 풀이된다.",
-      "조사단은 현재 티빙에 파견돼 현장조사를 진행 중이다.최주희 티빙 대표는 3일 오후 \"이번 개인정보 유출 사고로 이용자 여러분께 큰 심려를 끼쳐 드린 점, 진심으로 사과드린다\"고 밝혔다.최 대표는 \"티빙은 외부의."
+      "신세계백화점이 방탄소년단(BTS) 월드투어 부산 공연(6월 12~13일)을 앞두고 신세계 센텀시티에서 공식 팝업스토어를 선보인다고 4일 밝혔다.",
+      "이번 팝업은 신세계백화점과 하이브가 함께 마련한 행사로, 오는 5일부터 14일까지 센텀시티 지하 1층 이벤트홀과 지하 2층 하이퍼스테이지에서 진행된다.",
+      "앞서 신세계 본점에서도 BTS 컴백 공연과 연계한 팝업을 운영한 바 있다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n28cbfccb",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026060216404964156",
+    "title": "[클릭 e종목]스트리밍 부문 성장도 가시화…넷플릭스 말고 눈여겨볼 종목은",
+    "summary": [
+      "디즈니가 지적재산권(IP) 기반 강력한 레버리지 효과와 장기적인 이익 성장 가능성을 바탕으로 투자 매력이 충분하다는 평가가 나왔다.",
+      "4일 황지원 IM증권 연구원은 \"디즈니는 소비자에게 콘텐츠를 제공하는 스트리밍 플랫폼(DTC) 부문이 올해 2분기 사상 첫 두자릿수 영업이익률을 기록하며 적자를 벗어났다\"며 \"연간 영업이익률 가이던스도 10% 이상으로 제시된 가운데 압도적인 콘텐츠 경쟁력과 가격 결정력을 기반으로 스트리."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n86c70447",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655462",
-    "title": "[당선인 인터뷰] 이광재 국회의원 \"하남을 행복하게 만들겠다\"",
-    "summary": [
-      "[하남=뉴시스]이호진 기자 = 경기 하남시갑 국회의원 보궐선거에 출마한 더불어민주당 이광재 후보의 당선이 확정됐다.",
-      "이 당선인은 4일 개표율 99.7%를 기록한 오전 3시50분 기준 4만4093표(49.67%)를 얻어 2위인 국민의힘 이용 후보(4만2730표)를 따돌리고 당선을 확정지었다.",
-      "하남에 둥지를 틀며 국회의원으로 복귀하게 된 이 당선인은 “뒤늦은 출발이었음에도 따뜻하게 제 손을 잡아주신 하남시민 여러분께 감사드린다”며 인사를 전했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nea95d7b9",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654954",
-    "title": "\"상급지 아파트서 월 50만원 생활\"…'월세 더 내야 하나' 직장인 갑론을박",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 서울에서 직장 생활을 하는 30대 여성이 친구 집에 시세보다 훨씬 저렴한 비용으로 거주하고 있는 사연을 공개하며 \"내가 염치없는 것인지 모르겠다\"고 고민을 털어놨다.",
-      "지난 2일 한 온라인 커뮤니티에는 '친구한테 월세 줘야 하나요? 제가 염치 없는 건가 해서'라는 제목의 글이 올라왔다.",
-      "작성자 A씨는 지방 출신으로 대학 진학 이후 10년 넘게 서울에서 자취 생활을 해왔다고 밝혔다."
-    ],
-    "chips": [
-      "#부동산",
-      "#교육"
-    ]
-  },
-  {
-    "id": "ncb326798",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604027300054",
-    "title": "[6·3 지선] 전남광주기초단체장 5곳, 1천표 안팎 '초박빙' 승부",
-    "summary": [
-      "(광주·무안=연합뉴스) 박철홍 기자 = 6·3 지방선거 전남광주 기초단체장 선거에서 일부 군 지역은 막판까지 손에 땀을 쥐게 하는 초박빙 승부가..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n79101601",
+    "id": "ne1fcbd80",
     "category": "사회",
     "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026060404084980016",
-    "title": "경기 평택을, 범여권 분열에 국힘 유의동 4선 고지",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026060216305820241",
+    "title": "대법 \"5·18 피해자 가족 '정신적 손해' 국가가 배상해야…소멸시효 안 끝나\"",
     "summary": [
-      "3일 치러진 경기 평택시을 국회의원 재선거에서 유의동 국민의힘 후보가 범여권 후보들을 꺾고 4선 고지에 오르게 됐다.",
-      "4일 중앙선거관리위원회에 따르면 이날 오전 4시 기준 개표율이 98.25%인 가운데 유 후보는 김용남 더불어민주당 후보, 조국 조국혁신당 후보를 제치고 34.64%(3만2814표)의 득표율로 1위를 달리고 있다.",
-      "김 후보와 조 후보는 패배를 인정했다."
+      "5·18 민주화운동 당시 계엄군의 폭력으로 피해를 본 당사자와 그 가족들의 국가 대상 정신적 손해배상 위자료 청구권 소멸시효가 지나지 않았다는 대법원 판결이 나왔다.",
+      "4일 법조계에 따르면 대법원 3부(주심 엄상필 대법관)는 5·18 민주화운동 피해자와 유족들이 국가를 상대로 낸 손해배상 청구 소송에서 원심의 원고 일부 패소 판결을 깨고 사건을 광주고등법원으로 돌려보냈다.",
+      "이번 사건은 5·18 당시 계엄군에 의한 피해자."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nde3f7456",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026060215585155002",
+    "title": "\"국민연금 외환스와프 등에…\" 5월 외환보유액 8.8억달러 감소",
+    "summary": [
+      "지난달 우리나라 외환보유액이 9억달러 가까이 감소한 것으로 나타났다.",
+      "국민연금과의 외환스와프 등 시장 안정화 조치 영향에 외환보유액이 줄어들었다는 분석이다.",
+      "4일 한국은행에 따르면 올해 5월 말 기준 우리나라 외환보유액은 4269억9000만달러로 전월 말(4278억8000만달러) 대비 8억8000만달러 줄었다."
+    ],
+    "chips": [
+      "#한은"
+    ]
+  },
+  {
+    "id": "n626a60b2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260604_0003655380",
+    "title": "[오늘의주요일정]사회(6월4일 목요일)",
+    "summary": [
+      "[서울=뉴시스] ▲오전 5시30분 건설노조 서경북부지부, 상봉동 더샵 퍼스트월드 공사현장 1게이트 앞, 노조원 고용 촉구 ▲오전 7시30분 국민연대, 미아동 미아사거리 와이스퀘어 앞 인도, 낙하산 공천 규탄 ▲오전 8시30분 전국택배노조, 남대문로5가 연세세브란스 빌딩, 급지 체계 변경 규탄 ▲오전 9시 금속노조 율곡지회, 삼성동 도심공항타워 앞, 회사 매각 반대 ▲오전 9시 전장연, 관철동 보신각 앞 인도, 교통약자이동권 보장법 제정 촉구 ▲."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n41af0792",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654951",
+    "title": "민선9기 추미애 경기도정은…\"복원할 것은 복원, 확충할 것은 확대\"",
+    "summary": [
+      "[수원=뉴시스] 박상욱 이병희 기자 = 6·3지방선거에서 추미애 더불어민주당 후보가 경기도지사에 당선되면서 민선9기 도정에도 크고 작은 변화가 예상된다.",
+      "4일 중앙선거관리위원회에 제출된 경기도지사 후보 공약집을 보면 추 후보는 '수도권 30분 출근 대전환'을 1호 공약으로 내세웠다.",
+      "경기도민에게 교통은 단순히 이동 문제가 아니라 삶의 질 문제라는 설명이다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n907c4395",
+    "id": "n80dc018e",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604027000053",
-    "title": "[6·3 지선] 대구시교육감, 보수 성향 강은희 후보 3선 당선",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260604_0003655303",
+    "title": "[오늘의 주요일정]충북(6월4일 목요일)",
     "summary": [
-      "(대구=연합뉴스) 김선형 기자 = 제9회 전국동시지방선거 대구시교육감 선거에서 보수 성향인 강은희 후보가 당선됐다."
+      "[충북=뉴시스] ▲오전 9시30분, 북벽 테마공원 산란장 조성 체험행사, 단양북벽물고기정원 ▲오전 10시, 진천군 6월 안전캠페인, 진천읍 시가지 일원 ▲오전 10시, 옥천군행정동우회 환경정화 자연보호 캠페인, 금강유원지 ▲오전 11시, 9회 전국동시지방선거 당선증 교부식, 영동군청 대회의실 ▲오전 11시, 진천읍 주민자치위원회 월례회의, 읍행정복지센터 대회의실 ▲오전 11시, 충주시 이통장협의회 정기회의, 충주시청 중회의실 ▲오전 11시, 제."
     ],
     "chips": [
       "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n8f0101b8",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003655127",
+    "title": "중국 손아귀 벗어나나…美·日·獨, 희토류 의존 낮춘 자석·전기차 모터 만든다",
+    "summary": [
+      "[서울=뉴시스] 박영환 기자 = 중국이 장악한 희토류 공급망 의존을 낮추려는 미국·독일·일본 기업들의 대체 기술 경쟁이 속도를 내고 있다.",
+      "희토류를 쓰지 않는 자석, 자석 자체를 없앤 전기차 모터, 중국이 장악한 디스프로슘·터븀 같은 중희토류를 뺀 자석이 상용화 문턱에 들어섰다.",
+      "미국 월스트리트저널(WSJ)은 2일(현지시간) 중국이 희토류 공급망을 압박 수단으로 쓰는 상황에서 일부 기업들이 희토류 사용을 줄이거나 대체하는 기술을 개발하고 있다고."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n6630d70a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/04/2026060405423134829",
+    "title": "위고비·마운자로 없이 100㎏ 뺐다...\"가벼운 산책부터\" 습관의 힘",
+    "summary": [
+      "위고비·마운자로 등 비만 치료제에 대한 관심이 높아진 가운데, 약물이나 의학적 수술의 도움 없이 체중을 약 100㎏ 감량한 미국 여성이 화제다.",
+      "최근 영국 매체 더선에 따르면 미국에 거주하는 리아 호프는 지난 3년 간 약 100㎏을 감량했다.",
+      "리아는 수술이나 체중 감량 약물의 도움 없이 오로지 생활 습관 개선으로만 감량에 성공했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n53c80f99",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260604/134046389/1",
+    "title": "송영길, 인천 연수갑 당선…‘6선’으로 원내 복귀",
+    "summary": [
+      "송영길 더불어민주당 후보가 3일 실시된 인천 연수갑 국회의원 보궐선거에서 당선돼 6선의 고지에 오르게 됐다.송 당선인은 4일 오전 5시 43분 기준 개표가 92.70% 진행된 가운데 50.63%(4만7020표)를 얻어 박종진 국민의힘 후보(39.63%·3만6801표), 정승연 개혁신당 후보(9.72%·9032표)를 제쳤다.연수갑은 박찬대 인천시장 후보가 지방선거 출마를 위해 의원직을 사퇴하면서 보궐선거가 열리게 된 곳이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n798b77e3",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/04/2026060216392441475",
+    "title": "회생제도 최고 전문가 \"사모펀드 회생 신청, 주체가 아닌 투자구조가 문제\"",
+    "summary": [
+      "[로펌톡톡]김상규 법무법인 로백스 대표변호사 사회에 변화가 생기면 법이 바뀝니다.",
+      "그래서 사회 변화의 최전선에는 로펌이 있습니다.",
+      "발 빠르게 사회 변화를 읽고 법과 제도의 문제를 고민하는 로펌들의 이야기를 들어봅니다 \"우리 경제에서 사모펀드 역할이 중요해지는 만큼 회생 신청이 늘어나는 건 자연스러운 현상입니다."
+    ],
+    "chips": [
+      "#금리",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n4d17f820",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/04/2026060405402476331",
+    "title": "카리나, 또 '색깔 논란'...'빨간 점퍼' 1년만에 '파란 민소매'",
+    "summary": [
+      "그룹 에스파 카리나(26·본명 유지민)가 지방선거를 하루 앞두고 SNS(소셜미디어)에 올렸던 사진이 화제다.",
+      "카리나는 지난 2일 자신의 SNS에 \"이렇게 뛰어오면 어떻게 도망갈 건지 MBTI랑 알려줘\"라는 글과 함께 사진 여러 장을 올렸다.",
+      "사진 속 카리나는 선명한 파란색 민소매 상의를 입고 포즈를 취하고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4f1f4fc2",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/04/2026060405492359407",
+    "title": "중동 긴장 재고조…유가·채권금리 상승, 증시 하락[뉴욕마감]",
+    "summary": [
+      "미국과 이란의 종전 협상이 교착 상태에 빠지고 무력 공방이 다시 이어지면서 3일(현지시간) 뉴욕증시 3대 지수가 하락했다.",
+      "이날 뉴욕증권거래소에서 S&P500지수는 전장보다 56.10포인트(0.74%) 하락한 7553.68에, 기술주 중심의 나스닥종합지수는 239.93포인트(0.89%) 내린 2만6853.98에 각각 마감했다.",
+      "다우존스30 산업평균지수는 전장보다 620.72포인트(1.21%) 떨어진 5만687.07에 거래를 마쳤다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n14c4b829",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604013251063",
+    "title": "[속보] 더불어민주당 전은수, 충남 아산을 보궐선거 당선",
+    "summary": [],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1df65236",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604036200057",
+    "title": "[기초비례 당선인 명단] 울산",
+    "summary": [
+      "※ 정당명 약칭 : 더불어민주당 = 민 / 국민의힘 = 국 / 진보당 = 진."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbd36e79a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604035600064",
+    "title": "[기초단체장 당선인 명단] 충북",
+    "summary": [
+      "※ 정당명 약칭 : 더불어민주당 = 민 / 국민의힘 = 국."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda47337b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604037600063",
+    "title": "[속보] 오석진, 대전시교육감 당선",
+    "summary": [],
+    "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nb14f4205",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/06/04/MJTDSYZRG5QWEZLDGBTDEMRYGQ/",
-    "title": "우상호 강원지사 후보 당선…김진태 “도민 선택 겸허히 받아들여”",
-    "summary": [
-      "우상호 더불어민주당 강원지사 후보가 6·3 지방선거에서 당선됐다.",
-      "4일 중앙선거관리위원회에 따르면 우 후보는 개표율 90.97%를 기록한 강원지사 선거에서 51.43%를 득표했다.",
-      "김진태 국민의힘 후보의 득표율은 48.56%다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7067235f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604022751063",
-    "title": "[6·3 지선] 더불어민주당 조상호 후보, 세종시장 당선(종합)",
-    "summary": [
-      "(세종=연합뉴스) 양영석 기자 = 제9회 전국동시지방선거 세종시장 선거에서 더불어민주당 조상호 후보가 당선됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n85216da2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655193",
-    "title": "정명근 재선 확정 \"시민선택 틀리지 않았음 증명할 것\"",
-    "summary": [
-      "[화성=뉴시스] 문영호 기자 = 6·3 지방선거 경기 화성시장 선거 개표가 진행 중인 가운데, 더불어민주당 정명근 후보가 당선을 확정지었다.",
-      "4일 중앙선거관리위원회 개표 결과를 살펴보면 오전 4시 현재 화성시장 선거 개표율은 80.82%다.",
-      "더불어민주당 정명근 후보가 21만6456표(59.10%), 국민의힘 박태경 후보가 12만5372표(34.23%), 개혁신당 전성균 후보가 2만4369표(6.65%)를 획득, 정명근 후보의 당선이 확실해졌다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nebf952cb",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604025500061",
-    "title": "[인터뷰] 이상일 용인시장 당선인 \"용인시민의 위대한 승리\"",
-    "summary": [
-      "(용인=연합뉴스) 김광호 기자 = 경기 용인시장 선거에서 국민의힘 이상일 후보가 4일 당선되며 용인시 첫 재선 민선시장 타이틀을 거머쥐었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc2488a74",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655461",
-    "title": "중앙선관위 \"투표용지 부족, 선거연기·재선거 사유 아니다\"",
-    "summary": [
-      "[서울·과천=뉴시스] 김난영 김윤영 기자 = 중앙선관위가 6·3 지방선거 일부 선거구 투표용지 부족 사태에 관해 \"공직선거법에 따른 선거의 연기나 재선거 사유에 해당하지 않는다\"고 밝혔다.",
-      "선관위는 4일 새벽 과천 청사에서 위원 회의를 진행한 후 입장문을 내고 이같이 밝혔다.",
-      "선관위는 \"따라서 현재 진행되는 개표를 중단하는 것은 불가하다\"고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nac454b45",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260604/134046282/1",
-    "title": "[속보]선관위 “개표 중단 불가…선거 연기-재선거 사유 아냐”",
-    "summary": [
-      "중앙선거관리위원회가 4일 투표용지 부족 사태 이후 국민의힘 등이 요구한 개표 중단 요청에 대해 “현재 진행되는 개표를 중단하는 것은 불가하다”고 밝혔다.",
-      "중앙선관위는 또 투표용지 부족으로 발생한 이번 사안이 선거 연기나 재선거 사유에 해당하지 않는다고 판단했다.",
-      "중앙선관위는 이날 자정 투표용지 부족 사태에 대응하기 위한 긴급회의를 열고 난 뒤 입장문을 통해 이같이 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n268ede58",
+    "id": "n87ebaaee",
     "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/2026060458071",
-    "title": "범여권 분열에…유의동 막판 역전",
-    "summary": [
-      "범여권 분열에…유의동 막판 역전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2a36e0c1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/06/04/6VG6LOT5LBCOVMEZXY4EZZF3MI/",
-    "title": "[속보] 선관위 “투표용지 부족 사태, 재선거 사유 아냐... 개표 중단 불가”",
-    "summary": [
-      "[속보] 선관위 “투표용지 부족 사태, 재선거 사유 아냐... 개표 중단 불가”."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7c3e42f8",
-    "category": "사회",
     "source": "연합뉴스(경제)",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603077400065",
-    "title": "[6·3 지선] 인천시, 4년 만에 또 수장 교체…시정 대변화 예고",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604033351072",
+    "title": "중동긴장 재고조에 美 주식·채권 동반하락하고 유가 상승(종합)",
     "summary": [
-      "(인천=연합뉴스) 신민재 기자 = 6·3 지방선거에서 인천시장에 출마한 더불어민주당 박찬대 후보가 당선되면서 다음 달 출범하는 민선 9기 시정부..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na63c0258",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "19분 전",
-    "url": "https://www.hankyung.com/article/2026060458101",
-    "title": "'무소속 반란' 한동훈 원내 입성",
-    "summary": [
-      "'무소속 반란' 한동훈 원내 입성."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란 간 종전 협상이 진전을 보이지 못하는 가운데 무력 공방이 다시 이어지면서 3일(현지시간) 뉴욕증..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3126eb64",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/2026060354491",
-    "title": "달라진 부산 민심, 전재수 택했다",
+    "id": "nc604bfd4",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603053800017",
+    "title": "젠슨 황, 나흘간 한국서 광폭 행보…총수·스타트업 만난다",
     "summary": [
-      "달라진 부산 민심, 전재수 택했다."
+      "(서울=연합뉴스) 한상용 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 이르면 4일 저녁 한국에 입국해 나흘간 한국 AI 생태계를 훑으며 종횡..."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#엔비디아",
+      "#스타트업"
     ]
   },
   {
-    "id": "n5006d09c",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026060403512376796",
-    "title": "美 재무장관 \"인플레 급등은 일시적 현상\"…Fed 진단 반박",
-    "summary": [
-      "스콧 베선트 미국 재무장관은 3일(현지시간) 이란 전쟁 여파로 급등한 물가가 \"단기적인 일시 현상(short-term blip)\"이라며 시장의 우려를 일축했다.",
-      "이날 파이낸셜타임스(FT)에 따르면 베선트 장관은 상원 재무위원회 청문회에 출석해 트럼프 대통령의 경제 정책을 옹호하며 \"인플레이션을 제외하면 경제 지표는 매우 강하다\"고 말했다.",
-      "그는 \"인플레이션은 단기적인 일시 현상에 불과할 것으로 본다\"며 \"강한 경제를 위한 모든."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n521b8971",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "25분 전",
-    "url": "https://www.hankyung.com/article/2026060457771",
-    "title": "피말렸던 대구…추경호 진땀승",
-    "summary": [
-      "피말렸던 대구…추경호 진땀승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc75f780e",
+    "id": "n04af51fd",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "38분 전",
-    "url": "https://view.asiae.co.kr/article/2026060403360568183",
-    "title": "이란, 쿠웨이트 공항 타격으로 1명 사망",
+    "source": "조선일보",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/06/04/LPY6FIGONVDKFKVZWJQ3JYDFSM/",
+    "title": "오직 12가지 국내산 천연재료만 썼다, 김봉찬 명인 약선 연잎밥 한 그릇 2700원 초특가",
     "summary": [
-      "미국과 이란이 종전 협상을 이어가는 가운데 이란이 쿠웨이트와 바레인을 향해 대규모 미사일·드론 공격을 단행하면서 중동 긴장이 다시 고조되고 있다.",
-      "3일(현지시간) 월스트리트저널(WSJ)에 따르면 이란은 쿠웨이트 정부는 이날 새벽 이란의 공습으로 인해 탄도미사일 13발과 드론 17대를 상대했다고 밝혔다.",
-      "이에 따라 국제공항 운영이 일시 중단됐다."
+      "오직 12가지 국내산 천연재료만 썼다, 김봉찬 명인 약선 연잎밥 한 그릇 2700원 초특가."
     ],
     "chips": [
       "#뉴스"
@@ -631,21 +630,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "정치",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
