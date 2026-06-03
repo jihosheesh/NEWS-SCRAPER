@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-03 21:00:54
+// 마지막 업데이트: 2026-06-03 22:41:44
 window.NEWS_DB = [
   {
     "id": "n6b707623",
     "category": "IT",
     "source": "한국경제",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SmNHX3JWZ0hERTJUMS10d1ZzZXhQckJwY1F0MGxyS2xVTEhsMjRQNXBHNjI5V21SQy16ZEM5bmtnU3QtUFk3UWFRbHdndVB3MlExbDd0NlFOQdIBVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTQ?oc=5",
     "title": "\"AI 시대의 데이터 병목…추론 특화 칩이 해결사\"",
     "summary": [
@@ -16,16 +16,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne110559f",
+    "id": "n010f58ad",
     "category": "IT",
-    "source": "초이스스탁",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwM1lxY2QxazI0TVI1VFdkR2ExeHB2WkUwT3IwUTkwdUpzNW9oR3REejFwUk52aDJ2cXpaUWU3blZWYlRuc0xjT3RiVUd3UGFqMUlWOTdsM3BEdHNWbk9aMWVBNkM3X1E?oc=5",
-    "title": "엔비디아 의존 낮추는 MS… 한국 반도체 공급망 재편 신호탄",
+    "source": "글로벌이코노믹",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjJCbTBvXzJvNFIwNms1VnFzNmx0M0hWSE9naG1FbXdRdUZCU3dEUmg1SEpaTzBUeUhBblh0UHE2bkJLWThyNV9JZVRMalM4QldQT2g0Vl9OUHA4M3d1cGcwRG1lakFyRGtSUC1wUDdpVWdEMzB4NkVDT0F0dFczbEkxVGtiWWYt?oc=5",
+    "title": "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속",
     "summary": [
-      "엔비디아 의존 낮추는 MS… 한국 반도체 공급망 재편 신호탄 초이스스탁."
+      "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속 글로벌이코노믹."
     ],
     "chips": [
+      "#AI",
       "#반도체",
       "#엔비디아"
     ]
@@ -43,6 +44,22 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n38022242",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0pTME40YURudGhfd1FYdVlNQVFmQ05hZWlCUnd1bG1KcUY5cHJ5ckY5UW9TNkVMUUNKMzh4RWpuODlaRkdsbWZOS3MzVjZocWhQZW8ybGtrLWppbl8yalppR2FKTzc3ZFdpdVFmbFViYmdzREx6amsySG1hc3NqOS1B0gGWAUFVX3lxTE1aMWZ5eHRUTDI0MjlVbFQtUHpWQndoVzZ6VktVa29ySkJlODAzd3A1UnY2YnZ6dm03MzhXMFYtMkRmQjRNeW5iYkNvUDhtTENrRWlIa0VubjBCeDZ5eS1TazM1bkhhVUNfcmRVR3FIQmQxNFRoUFhMMV9UYzF1NlJPYkphOVhWLWF5QXgwYjN3WkVZTEhGdw?oc=5",
+    "title": "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈",
+    "summary": [
+      "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -75,35 +92,20 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf90d9a92",
+    "id": "n40a9ac2b",
     "category": "IT",
-    "source": "글로벌이코노믹",
+    "source": "초이스스탁",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEgzTU5QX3N2TmMzYV82WlQzR2QxVXNaN3llS3dQSDl3ZWlnNEItWWp2dG5KVHpoYWFFSE5oaXdnMzh0d2E1Mmw1VHJZaUVBVTJqd3lCWE1LOHRCVEtyLU0xTUpOQ1l1c0xvVUJja1g5TUZtY3ZrN0dKa2dOZFFjcG83UFM2WjZ6?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Y1VYUzV2RzY3OHlnZGs2Rm5UUTQ5c2ZMN3BjNkxjRk1ENkV2Z3FUbXNzdVBBNDVGTzNNTU5oMWVoOHpVWUV0WUthc2o2OWRGcFJhZlJmci1MdHZ5by0wd0lKUTJtMEU?oc=5",
     "title": "美, 엔비디아·AMD AI 반도체 해외 중국 법인 수출 전격 차단",
     "summary": [
-      "美, 엔비디아·AMD AI 반도체 해외 중국 법인 수출 전격 차단 글로벌이코노믹."
+      "美, 엔비디아·AMD AI 반도체 해외 중국 법인 수출 전격 차단 초이스스탁."
     ],
     "chips": [
       "#AI",
       "#반도체",
       "#엔비디아",
       "#수출"
-    ]
-  },
-  {
-    "id": "na0f523e8",
-    "category": "IT",
-    "source": "이코노미트리뷴",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
-    "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
-    "summary": [
-      "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는 이코노미트리뷴."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -141,7 +143,7 @@ window.NEWS_DB = [
     "id": "nb3bb73fa",
     "category": "경제",
     "source": "헤럴드경제",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
     "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
     "summary": [
@@ -164,6 +166,20 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "summary": [
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -197,20 +213,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf5e411c3",
-    "category": "부동산",
-    "source": "시사저널",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01U0FIUE9UX2Vqem5FTk56T2xVT0JZa3E4MThXUzFzenhmMkpoS1dZRFJvYjJHYXZLbzhqR3AxTHBQVFhpTGdSOHdrb0RHY0lIb0hfM2dmTWNHUngzbktFQ194QWstSGtTUDc1TlVaSdIBc0FVX3lxTFBJcnZERUJjc0xnZzNwUVd2YlYzWk5sMmNzMms4a0kyVFpTQnNRZDJ2aW1KeDRtZXF2b0RPb0hmd0tCWFF4WC0xdWlPcFhaTzdZdThRWUI4SGNDLVZfc2I3UXhkN0VhWmxySUpZeU85WDNjek0?oc=5",
-    "title": "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설",
-    "summary": [
-      "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설 시사저널."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
     "id": "n35b9d663",
     "category": "경제",
     "source": "KB Think",
@@ -240,17 +242,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n75c23649",
+    "id": "n98a572df",
     "category": "IT",
-    "source": "한국방송뉴스",
+    "source": "대한민국 정책브리핑",
     "time": "35일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
     ],
     "chips": [
-      "#스타트업"
+      "#스타트업",
+      "#정책"
     ]
   },
   {
@@ -326,241 +329,181 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0cd32a6f",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026060323085593751",
-    "title": "신세계百 센텀시티, BTS 부산 공연 맞춰 공식 팝업 오픈",
-    "summary": [
-      "신세계백화점이 방탄소년단(BTS) 월드투어 부산 공연(6월 12~13일)을 앞두고 신세계 센텀시티에서 공식 팝업스토어를 선보인다고 4일 밝혔다.",
-      "이번 팝업은 신세계백화점과 하이브가 함께 마련한 행사로, 오는 5일부터 14일까지 센텀시티 지하 1층 이벤트홀과 지하 2층 하이퍼스테이지에서 진행된다.",
-      "앞서 신세계 본점에서도 BTS 컴백 공연과 연계한 팝업을 운영한 바 있다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n28cbfccb",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026060216404964156",
-    "title": "[클릭 e종목]스트리밍 부문 성장도 가시화…넷플릭스 말고 눈여겨볼 종목은",
-    "summary": [
-      "디즈니가 지적재산권(IP) 기반 강력한 레버리지 효과와 장기적인 이익 성장 가능성을 바탕으로 투자 매력이 충분하다는 평가가 나왔다.",
-      "4일 황지원 IM증권 연구원은 \"디즈니는 소비자에게 콘텐츠를 제공하는 스트리밍 플랫폼(DTC) 부문이 올해 2분기 사상 첫 두자릿수 영업이익률을 기록하며 적자를 벗어났다\"며 \"연간 영업이익률 가이던스도 10% 이상으로 제시된 가운데 압도적인 콘텐츠 경쟁력과 가격 결정력을 기반으로 스트리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne1fcbd80",
+    "id": "n2ee85647",
     "category": "사회",
     "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026060216305820241",
-    "title": "대법 \"5·18 피해자 가족 '정신적 손해' 국가가 배상해야…소멸시효 안 끝나\"",
+    "url": "https://view.asiae.co.kr/article/2026060407411265989",
+    "title": "백영현 포천시장 재선 성공…“화합·통합으로 더 강한 포천 만들겠다”",
     "summary": [
-      "5·18 민주화운동 당시 계엄군의 폭력으로 피해를 본 당사자와 그 가족들의 국가 대상 정신적 손해배상 위자료 청구권 소멸시효가 지나지 않았다는 대법원 판결이 나왔다.",
-      "4일 법조계에 따르면 대법원 3부(주심 엄상필 대법관)는 5·18 민주화운동 피해자와 유족들이 국가를 상대로 낸 손해배상 청구 소송에서 원심의 원고 일부 패소 판결을 깨고 사건을 광주고등법원으로 돌려보냈다.",
-      "이번 사건은 5·18 당시 계엄군에 의한 피해자."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nde3f7456",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026060215585155002",
-    "title": "\"국민연금 외환스와프 등에…\" 5월 외환보유액 8.8억달러 감소",
-    "summary": [
-      "지난달 우리나라 외환보유액이 9억달러 가까이 감소한 것으로 나타났다.",
-      "국민연금과의 외환스와프 등 시장 안정화 조치 영향에 외환보유액이 줄어들었다는 분석이다.",
-      "4일 한국은행에 따르면 올해 5월 말 기준 우리나라 외환보유액은 4269억9000만달러로 전월 말(4278억8000만달러) 대비 8억8000만달러 줄었다."
-    ],
-    "chips": [
-      "#한은"
-    ]
-  },
-  {
-    "id": "n626a60b2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655380",
-    "title": "[오늘의주요일정]사회(6월4일 목요일)",
-    "summary": [
-      "[서울=뉴시스] ▲오전 5시30분 건설노조 서경북부지부, 상봉동 더샵 퍼스트월드 공사현장 1게이트 앞, 노조원 고용 촉구 ▲오전 7시30분 국민연대, 미아동 미아사거리 와이스퀘어 앞 인도, 낙하산 공천 규탄 ▲오전 8시30분 전국택배노조, 남대문로5가 연세세브란스 빌딩, 급지 체계 변경 규탄 ▲오전 9시 금속노조 율곡지회, 삼성동 도심공항타워 앞, 회사 매각 반대 ▲오전 9시 전장연, 관철동 보신각 앞 인도, 교통약자이동권 보장법 제정 촉구 ▲."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n41af0792",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654951",
-    "title": "민선9기 추미애 경기도정은…\"복원할 것은 복원, 확충할 것은 확대\"",
-    "summary": [
-      "[수원=뉴시스] 박상욱 이병희 기자 = 6·3지방선거에서 추미애 더불어민주당 후보가 경기도지사에 당선되면서 민선9기 도정에도 크고 작은 변화가 예상된다.",
-      "4일 중앙선거관리위원회에 제출된 경기도지사 후보 공약집을 보면 추 후보는 '수도권 30분 출근 대전환'을 1호 공약으로 내세웠다.",
-      "경기도민에게 교통은 단순히 이동 문제가 아니라 삶의 질 문제라는 설명이다."
+      "제9회 전국동시지방선거에서 승리하며 재선에 성공한 백영현 국민의힘 포천시장 당선인은 시민 통합과 포천 발전을 위한 책임 있는 시정을 약속했다.",
+      "백 당선인은 4일 발표한 당선 소감문을 통해 \"저에게 보내주신 믿음과 성원에 진심으로 감사드린다\"며 \"오늘의 영광은 결코 저 개인의 것이 아니라 성장하는 포천의 미래를 만들고자 한마음으로 뜻을 모아주신 시민 여러분 모두의 승리\"라고 말했다.",
+      "이어 \"이번 결과는 포천의 더."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n80dc018e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655303",
-    "title": "[오늘의 주요일정]충북(6월4일 목요일)",
-    "summary": [
-      "[충북=뉴시스] ▲오전 9시30분, 북벽 테마공원 산란장 조성 체험행사, 단양북벽물고기정원 ▲오전 10시, 진천군 6월 안전캠페인, 진천읍 시가지 일원 ▲오전 10시, 옥천군행정동우회 환경정화 자연보호 캠페인, 금강유원지 ▲오전 11시, 9회 전국동시지방선거 당선증 교부식, 영동군청 대회의실 ▲오전 11시, 진천읍 주민자치위원회 월례회의, 읍행정복지센터 대회의실 ▲오전 11시, 충주시 이통장협의회 정기회의, 충주시청 중회의실 ▲오전 11시, 제."
-    ],
-    "chips": [
-      "#정치",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n8f0101b8",
+    "id": "n5587d9c4",
     "category": "IT",
-    "source": "뉴시스",
+    "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003655127",
-    "title": "중국 손아귀 벗어나나…美·日·獨, 희토류 의존 낮춘 자석·전기차 모터 만든다",
+    "url": "https://view.asiae.co.kr/article/2026060407404461107",
+    "title": "한투 \"하반기 코스피 1만1000 찍는다…목표치 상향\"",
     "summary": [
-      "[서울=뉴시스] 박영환 기자 = 중국이 장악한 희토류 공급망 의존을 낮추려는 미국·독일·일본 기업들의 대체 기술 경쟁이 속도를 내고 있다.",
-      "희토류를 쓰지 않는 자석, 자석 자체를 없앤 전기차 모터, 중국이 장악한 디스프로슘·터븀 같은 중희토류를 뺀 자석이 상용화 문턱에 들어섰다.",
-      "미국 월스트리트저널(WSJ)은 2일(현지시간) 중국이 희토류 공급망을 압박 수단으로 쓰는 상황에서 일부 기업들이 희토류 사용을 줄이거나 대체하는 기술을 개발하고 있다고."
+      "한국투자증권이 하반기 코스피 목표치 상단을 1만1000까지 높였다.",
+      "김대준 한국투자증권 연구원은 4일 보고서에서 \"하반기 코스피 상단을 기존 9250에서 1만1000으로 상향조정한다\"며 \"지수 상단은 현재보다 10% 높은 주당순이익(EPS)에 주가수익비율(PER) 9.5배를 결합한 수치\"라고 밝혔다.",
+      "김 연구원은 \"전망 조정 근거는 기업 실적에 있다\"며 \"슈퍼사이클에 올라탄 반도체가 막대한 이익을 창출하며 지수 상승을 지지하고 있다."
     ],
     "chips": [
-      "#전기차"
+      "#반도체"
     ]
   },
   {
-    "id": "n6630d70a",
-    "category": "경제",
-    "source": "머니투데이",
+    "id": "n98527fad",
+    "category": "사회",
+    "source": "아시아경제",
     "time": "2분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/04/2026060405423134829",
-    "title": "위고비·마운자로 없이 100㎏ 뺐다...\"가벼운 산책부터\" 습관의 힘",
+    "url": "https://view.asiae.co.kr/article/2026060407391351880",
+    "title": "김미경 은평구청장 후보 당선…'서울 최초 여성 3선 구청장'",
     "summary": [
-      "위고비·마운자로 등 비만 치료제에 대한 관심이 높아진 가운데, 약물이나 의학적 수술의 도움 없이 체중을 약 100㎏ 감량한 미국 여성이 화제다.",
-      "최근 영국 매체 더선에 따르면 미국에 거주하는 리아 호프는 지난 3년 간 약 100㎏을 감량했다.",
-      "리아는 수술이나 체중 감량 약물의 도움 없이 오로지 생활 습관 개선으로만 감량에 성공했다."
+      "더불어민주당 김미경 은평구청장 후보가 4일 득표율 61.16%(개표마감)로 당선을 확정 지었다.",
+      "이로써 김 후보는 서울시 최초 여성 3선 기초단체장에 오르며, 25개 자치구 중 득표율 2위를 기록했다.당선이 유력해진 이날 선거캠프에는 지지자들이 몰려들어 발 디딜 틈 없이 붐볐다.",
+      "무대에 오른 김 후보는 “4년 더 은평을 위해 일할 수 있게 해준 구민들과 선대위, 당원들께 머리 숙여 감사드린다”고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0c15abef",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260602_0003653975",
+    "title": "'3선 관록' 국힘 유의동 평택을 당선…수도권 의석 탈환 의미",
+    "summary": [
+      "[서울=뉴시스]한은진 기자 = 6·3 경기 평택을 국회의원 재선거가 유의동 국민의힘 당선인의 승리로 마무리됐다.",
+      "유 당선인의 승리로 국민의힘은 단순한 의석수 1석이 아니라 수도권에서 의석을 추가했다는 의미도 갖게 됐다.",
+      "3선 의원을 지낸 유 당선인은 지난 2024년 22대 총선에서 고배를 마셨으나, 이번 재선거를 통해 자신의 정치적 고향인 평택을에서 화려하게 부활하며 4선 중진 반열에 올랐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfd1b7ec4",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003655158",
+    "title": "민주당 전북 사수, 한숨 돌린 정청래…8월 전대 뇌관은 여전",
+    "summary": [
+      "[서울=뉴시스] 김난영 기자 = 전북지사 선거에서 4일 더불어민주당이 승리하며 정청래 대표도 '안방 패배'라는 최악의 시나리오를 면했다.",
+      "다만 선거 과정에서 불거진 친청(친정청래)·반청(반정청래) 구도는 8월 전당대회를 앞두고 뇌관으로 남았다.",
+      "당초 전북은 민주당 텃밭인 호남권인 만큼 이번 선거에서 접전지와는 거리가 멀었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n433105ab",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/politics/election2026/2026/06/04/LXX7LTTLF5HWLDEPPZTESJ3ZEI/",
+    "title": "‘무소속’ 김관영 낙선 “결과 존중…전북의 열망 가슴에 품겠다”",
+    "summary": [
+      "‘무소속’ 김관영 낙선 “결과 존중…전북의 열망 가슴에 품겠다”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n53c80f99",
+    "id": "n2c78dadb",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026060407364147973",
+    "title": "경기해양수산자원硏, 어린 쭈꾸미 3만마리 서해안 방류",
+    "summary": [
+      "경기도해양수산자원연구소가 자체 인공 부화한 어린 주꾸미 3만 마리를 이달 4일부터 18일까지 화성·안산 연안에 방류한다.",
+      "이번에 방류하는 어린 주꾸미는 경기만에서 어획한 어미 주꾸미의 산란을 유도해 생산한 개체다.",
+      "연구소는 올해 4월 말부터 어미 주꾸미를 관리하며 산란을 유도했고, 산란된 알을 인공 부화시킨 뒤 초기 먹이 공급 과정을 거쳐 전체 길이 1cm 크기까지 성장시켰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf97ff331",
     "category": "사회",
-    "source": "동아일보",
+    "source": "머니투데이",
     "time": "5분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260604/134046389/1",
-    "title": "송영길, 인천 연수갑 당선…‘6선’으로 원내 복귀",
+    "url": "https://www.mt.co.kr/politics/2026/06/04/2026060407224210730",
+    "title": "오세훈, 개표 시작 13시간만 정원오에 역전...0.4%P차 초접전",
     "summary": [
-      "송영길 더불어민주당 후보가 3일 실시된 인천 연수갑 국회의원 보궐선거에서 당선돼 6선의 고지에 오르게 됐다.송 당선인은 4일 오전 5시 43분 기준 개표가 92.70% 진행된 가운데 50.63%(4만7020표)를 얻어 박종진 국민의힘 후보(39.63%·3만6801표), 정승연 개혁신당 후보(9.72%·9032표)를 제쳤다.연수갑은 박찬대 인천시장 후보가 지방선거 출마를 위해 의원직을 사퇴하면서 보궐선거가 열리게 된 곳이다."
+      "[the300][6.3 지방선거](상보) 밤새 접전을 펼치던 서울시장 선거가 개표 시작 13시간 만에 뒤집혔다.",
+      "4일 중앙선거관리위원회에 따르면 개표가 93.84% 진행된 이날 오전 7시 17분 기준 오세훈 국민의힘 후보가 48.66%의 득표율로 정원오 더불어민주당 후보(48.62%)를 역전했다.",
+      "두 후보간 표차는 2069표(0.4%p)다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n798b77e3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/04/2026060216392441475",
-    "title": "회생제도 최고 전문가 \"사모펀드 회생 신청, 주체가 아닌 투자구조가 문제\"",
-    "summary": [
-      "[로펌톡톡]김상규 법무법인 로백스 대표변호사 사회에 변화가 생기면 법이 바뀝니다.",
-      "그래서 사회 변화의 최전선에는 로펌이 있습니다.",
-      "발 빠르게 사회 변화를 읽고 법과 제도의 문제를 고민하는 로펌들의 이야기를 들어봅니다 \"우리 경제에서 사모펀드 역할이 중요해지는 만큼 회생 신청이 늘어나는 건 자연스러운 현상입니다."
-    ],
-    "chips": [
-      "#금리",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n4d17f820",
+    "id": "nfd76cffe",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/04/2026060405402476331",
-    "title": "카리나, 또 '색깔 논란'...'빨간 점퍼' 1년만에 '파란 민소매'",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260604_0003655600",
+    "title": "[속보]인천시교육감, 도성훈 '당선'…36.32%(개표율 99.74%)",
     "summary": [
-      "그룹 에스파 카리나(26·본명 유지민)가 지방선거를 하루 앞두고 SNS(소셜미디어)에 올렸던 사진이 화제다.",
-      "카리나는 지난 2일 자신의 SNS에 \"이렇게 뛰어오면 어떻게 도망갈 건지 MBTI랑 알려줘\"라는 글과 함께 사진 여러 장을 올렸다.",
-      "사진 속 카리나는 선명한 파란색 민소매 상의를 입고 포즈를 취하고 있다."
+      "[인천=뉴시스] 김지현 기자 = ◎공감언론 뉴시스 kjh@newsis.com."
     ],
     "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n1e7a7f98",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260604_0003655595",
+    "title": "차기총리 후보 강훈식·정성호·한성숙 압축…이 대통령 막판 고심",
+    "summary": [
+      "[서울=뉴시스] 김지은 조재완 기자 = 이재명 대통령이 김민석 국무총리의 후임으로 강훈식 대통령비서실장과 정성호 법무부 장관, 한성숙 중소벤처기업부 장관 3명 후보로 압축하고 막판 고심 중인 것으로 4일 전해졌다.",
+      "청와대와 더불어민주당에 따르면 김 총리가 조만간 사의를 표할 예정으로 차기 총리 자리에 이들 3명을 놓고 검증이 진행되고 있는 것으로 알려졌다.",
+      "김 총리는 민주당 당대표를 뽑는 전당대회 출마 준비를 위해 이달 중으로 총리직에서 사퇴할."
+    ],
+    "chips": [
+      "#스타트업",
       "#정치"
     ]
   },
   {
-    "id": "n4f1f4fc2",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/04/2026060405492359407",
-    "title": "중동 긴장 재고조…유가·채권금리 상승, 증시 하락[뉴욕마감]",
-    "summary": [
-      "미국과 이란의 종전 협상이 교착 상태에 빠지고 무력 공방이 다시 이어지면서 3일(현지시간) 뉴욕증시 3대 지수가 하락했다.",
-      "이날 뉴욕증권거래소에서 S&P500지수는 전장보다 56.10포인트(0.74%) 하락한 7553.68에, 기술주 중심의 나스닥종합지수는 239.93포인트(0.89%) 내린 2만6853.98에 각각 마감했다.",
-      "다우존스30 산업평균지수는 전장보다 620.72포인트(1.21%) 떨어진 5만687.07에 거래를 마쳤다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n14c4b829",
+    "id": "nc18dd3c3",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604013251063",
-    "title": "[속보] 더불어민주당 전은수, 충남 아산을 보궐선거 당선",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604052500063",
+    "title": "[표] 세종교육감 후보별 득표 현황(최종)",
     "summary": [],
     "chips": [
-      "#정치"
+      "#교육"
     ]
   },
   {
-    "id": "n1df65236",
+    "id": "n634075d8",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604036200057",
-    "title": "[기초비례 당선인 명단] 울산",
-    "summary": [
-      "※ 정당명 약칭 : 더불어민주당 = 민 / 국민의힘 = 국 / 진보당 = 진."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd36e79a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604035600064",
-    "title": "[기초단체장 당선인 명단] 충북",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604051100063",
+    "title": "[광역의원 당선인 명단] 충남",
     "summary": [
       "※ 정당명 약칭 : 더불어민주당 = 민 / 국민의힘 = 국."
     ],
@@ -569,59 +512,118 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nda47337b",
+    "id": "n925992a1",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604047900011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 07:30."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nac2d8794",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604037600063",
-    "title": "[속보] 오석진, 대전시교육감 당선",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603096851063",
+    "title": "[표] 대전시장 후보별 득표 현황(최종)",
     "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne1b7cd38",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/04/2026060407185020653",
+    "title": "한다감 \"50살 전 셋째까지 욕심…기네스북 도전\"",
+    "summary": [
+      "배우 한다감이 50살 전 셋째 출산에 도전하겠다고 밝혔다.",
+      "지난 3일 방송된 KBS 2TV '슈퍼맨이 돌아왔다'에는 한다감의 일상이 공개됐다.",
+      "한다감은 \"44살 때 아이를 갖고 싶다고 생각했다\"며 \"2~3년 동안 열심히 준비했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nab9c82aa",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/04/2026060407064432844",
+    "title": "재택 중 4시간 연락 두절된 팀원…지적하니 \"꼰대세요?\" 적반하장",
+    "summary": [
+      "재택근무 도중 4시간 동안 연락이 닿지 않은 팀원을 질책했더니 오히려 '꼰대냐'는 소리를 들었다는 팀장 사연이 전해졌다.",
+      "최근 한 직장인 익명 온라인 커뮤니티엔 한 기업 브랜딩 마케팅팀에서 일하는 A씨 글이 올라왔다.",
+      "A씨는 \"재택근무 시작하면서 팀원들에게 '눈앞에 안 보이는 만큼 메신저 대답 바로바로 해라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n255b4205",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260604/134046468/2",
+    "title": "[속보]오세훈, 정원오에 역전…서울시장 0.06%P차 초접전",
+    "summary": [
+      "초접전이 이어지고 있는 6·3 지방선거 서울시장 선거에서 국민의힘 오세훈 후보가 더불어민주당 정원오 후보에 앞서기 시작했다.두 후보 간 격차는 한때 10%포인트 이상 벌어지기도 했지만 4일 오전 7시 16분경 개표율이 93.90%를 기록한 시점에서 오 후보의 우세로 바뀌었다.중앙선거관리위원회에 따르면 개표율 93.90%인 상황에서 정 후보가 238만 8836표(48.61%)를 득표하고 있고, 오 후보는 239만 1512표(48.67%)의 표를."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na65fe741",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/politics/election2026/2026/06/04/B2CABFYT6BF5DB7UVDIDGEFZKE/",
+    "title": "[속보] 오세훈, 정원오에 역전... 서울 끝까지 모른다",
+    "summary": [
+      "[속보] 오세훈, 정원오에 역전... 서울 끝까지 모른다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32845e6c",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260528107500898",
+    "title": "[우분투칼럼] 아프리카 원자력 시장의 기회…한국이 주목할 이유",
+    "summary": [
+      "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다.",
+      "우분투 칼럼에는 인류 ..."
+    ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n87ebaaee",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604033351072",
-    "title": "중동긴장 재고조에 美 주식·채권 동반하락하고 유가 상승(종합)",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란 간 종전 협상이 진전을 보이지 못하는 가운데 무력 공방이 다시 이어지면서 3일(현지시간) 뉴욕증..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc604bfd4",
+    "id": "n52ff0878",
     "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603053800017",
-    "title": "젠슨 황, 나흘간 한국서 광폭 행보…총수·스타트업 만난다",
+    "source": "한국경제",
+    "time": "52분 전",
+    "url": "https://www.hankyung.com/article/2026060460697",
+    "title": "젠슨 황, 4일 방한 전망…AI·로봇 협력 논의 본격화",
     "summary": [
-      "(서울=연합뉴스) 한상용 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 이르면 4일 저녁 한국에 입국해 나흘간 한국 AI 생태계를 훑으며 종횡..."
+      "젠슨 황, 4일 방한 전망…AI·로봇 협력 논의 본격화."
     ],
     "chips": [
-      "#AI",
-      "#엔비디아",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n04af51fd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/06/04/LPY6FIGONVDKFKVZWJQ3JYDFSM/",
-    "title": "오직 12가지 국내산 천연재료만 썼다, 김봉찬 명인 약선 연잎밥 한 그릇 2700원 초특가",
-    "summary": [
-      "오직 12가지 국내산 천연재료만 썼다, 김봉찬 명인 약선 연잎밥 한 그릇 2700원 초특가."
-    ],
-    "chips": [
-      "#뉴스"
+      "#AI"
     ]
   }
 ];
@@ -631,20 +633,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "정치",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
