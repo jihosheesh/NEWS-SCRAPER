@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-03 09:32:45
+// 마지막 업데이트: 2026-06-03 11:34:56
 window.NEWS_DB = [
+  {
+    "id": "n6b707623",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SmNHX3JWZ0hERTJUMS10d1ZzZXhQckJwY1F0MGxyS2xVTEhsMjRQNXBHNjI5V21SQy16ZEM5bmtnU3QtUFk3UWFRbHdndVB3MlExbDd0NlFOQdIBVEFVX3lxTE03WHpOb1hRQXpoV3l2SXI3d1NJM3JYN01zaEVtU1dET1BYcjdGc0dTZmMyQXhLTmlJSTNnUmNRM3hJRmNES0drRF9RQTdFTHRHODFMTQ?oc=5",
+    "title": "\"AI 시대의 데이터 병목…추론 특화 칩이 해결사\"",
+    "summary": [
+      "\"AI 시대의 데이터 병목…추론 특화 칩이 해결사\" 한국경제."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
   {
     "id": "ne110559f",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwM1lxY2QxazI0TVI1VFdkR2ExeHB2WkUwT3IwUTkwdUpzNW9oR3REejFwUk52aDJ2cXpaUWU3blZWYlRuc0xjT3RiVUd3UGFqMUlWOTdsM3BEdHNWbk9aMWVBNkM3X1E?oc=5",
     "title": "엔비디아 의존 낮추는 MS… 한국 반도체 공급망 재편 신호탄",
     "summary": [
@@ -20,7 +34,7 @@ window.NEWS_DB = [
     "id": "n010f58ad",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjJCbTBvXzJvNFIwNms1VnFzNmx0M0hWSE9naG1FbXdRdUZCU3dEUmg1SEpaTzBUeUhBblh0UHE2bkJLWThyNV9JZVRMalM4QldQT2g0Vl9OUHA4M3d1cGcwRG1lakFyRGtSUC1wUDdpVWdEMzB4NkVDT0F0dFczbEkxVGtiWWYt?oc=5",
     "title": "엔비디아 없는 중국 AI…자율주행·반도체 국산화 가속",
     "summary": [
@@ -33,24 +47,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf7aff249",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "17시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGZyV25BNGY2T0NvNElRckI5bnZtcU94RzNPOHh2TkVVdTlmVzVqWVIxM0tzZEZuWlZLLTVfMXpreF9qMzh4bkZDclVBak16TDJZN1UzT2lYb0JjNXhTMm5PX2s1WnFhMEtOSGVGaUs2R2RMVWlOUFVTd0FSSXlXa1VyZw?oc=5",
-    "title": "젠슨 황 \"메모리 부족 지속\"… 최태원 \"5년 내 생산 능력 2배 확대\"",
-    "summary": [
-      "젠슨 황 \"메모리 부족 지속\"… 최태원 \"5년 내 생산 능력 2배 확대\" 조선일보."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n70cb7884",
     "category": "사회",
     "source": "투데이경제",
-    "time": "22시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
     "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
     "summary": [
@@ -109,7 +109,7 @@ window.NEWS_DB = [
     "id": "ne2208e3a",
     "category": "부동산",
     "source": "프라임경제",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc0UzWmJweS1lNEZoWnc2WEtHbFhzcjZLWmlXLWJ3ZlUwV2xDUm02a1FiajU0NFFjcGh6NGRuUngtUXNuRnBSMWdaR3haLXowWWloeXZuS3RER2F6dTNBOXdrNzF1TE9ya2F2dQ?oc=5",
     "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
     "summary": [
@@ -166,20 +166,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n22f32cb1",
-    "category": "부동산",
-    "source": "데일리안",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
-    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
-    "summary": [
-      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n27044a56",
     "category": "사회",
     "source": "브런치",
@@ -210,14 +196,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4324c5c4",
+    "id": "nf5e411c3",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "시사저널",
     "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkticmh3N2tXTGo4a2JTNjQtazBsUEhkTGFYVnoxMmRTVk5LYlAwMnhxcW43d0NKVlBvcjlhUGdnMlY4RHJaZ0pKT0N3SVpGVFJ1ZFJXc09pY3lrZU1mRkc5b3dTU3FtZ3d6bWZneDJ4VzVFM01ER1ZTV3pYRkFXckxadE0zbTE2b0c0TFg4c3hwcVAyb0hZZdIBrAFBVV95cUxQQmJ1RjVPOVZ6N3plS0xLZ1BWeVVNTnV4ZHB5WlBzWVlFeXpRU0M2cWJITU5uT0x5YklqWWZvMUhLRmVsOWotU3A2R2FreE1hWlpBR3dlWlNSNEF1a1FrWngyLWVoTFl3aHFBNm5WeUxySDBaWWsxNUxLUDhzTDRVYTVROTd5SWNyT3NfQ2NNa1Rva1NPZHhtUlZ1dnBwY2JBNGhZVG5uR0V3Umhu?oc=5",
-    "title": "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01U0FIUE9UX2Vqem5FTk56T2xVT0JZa3E4MThXUzFzenhmMkpoS1dZRFJvYjJHYXZLbzhqR3AxTHBQVFhpTGdSOHdrb0RHY0lIb0hfM2dmTWNHUngzbktFQ194QWstSGtTUDc1TlVaSdIBc0FVX3lxTFBJcnZERUJjc0xnZzNwUVd2YlYzWk5sMmNzMms4a0kyVFpTQnNRZDJ2aW1KeDRtZXF2b0RPb0hmd0tCWFF4WC0xdWlPcFhaTzdZdThRWUI4SGNDLVZfc2I3UXhkN0VhWmxySUpZeU85WDNjek0?oc=5",
+    "title": "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설",
     "summary": [
-      "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈 Chosunbiz."
+      "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설 시사저널."
     ],
     "chips": [
       "#전세"
@@ -241,20 +227,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n39284845",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85UGdveXJTWlVaSlZ0Z2pkVklvQWR6dUVMZVFYVlNBSk5GTTFBNWxrdVRYS0JETEhicFNnRGJqaHlXVkJWaG9fNFpEb2FxRmtUQmZKQkFDYjJZSlZrTFo1dzcyR0JPY3Z2ajVScw?oc=5",
-    "title": "대구·대전·광주·울산서 글로벌 창업도시 첫 깃발 날린다",
-    "summary": [
-      "대구·대전·광주·울산서 글로벌 창업도시 첫 깃발 날린다 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nc92d59ae",
     "category": "IT",
     "source": "경기일보",
@@ -267,6 +239,35 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#고용"
+    ]
+  },
+  {
+    "id": "n5a1617c5",
+    "category": "부동산",
+    "source": "헤럴드경제",
+    "time": "22일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "n75c23649",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "35일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVkNRajNlUGhHdHJMSlJHYkVYbjRkdlltb2VUS0RDMU1ITzRuZTBJRmd0MnkxWmtXNzIxYXp1X3N2UHNlaHRReXp5YlpnSzd5NXY0c1E2Q2thM29JS09HNQ?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -313,6 +314,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n3e91cf0e",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152332",
+    "title": "'개인정보 유출' 티빙에 민관합동조사단 파견...최주희 대표 \"책임 다할 것\"",
+    "summary": [
+      "신원 미상의 해커가 티빙 데이터베이스(DB)에 접속해 이용자들의 개인정보 파일을 외부로 전송한 사건과 관련해 최주희 티빙 대표이사가 사과했다.정부가 민관합동조사단을 꾸려 해당 사건 조사에 착수하면서 발빠른 대응에 나선 것으로 풀이된다.",
+      "조사단은 현재 티빙에 파견돼 현장조사를 진행 중이다.최주희 티빙 대표는 3일 오후 \"이번 개인정보 유출 사고로 이용자 여러분께 큰 심려를 끼쳐 드린 점, 진심으로 사과드린다\"고 밝혔다.최 대표는 \"티빙은 외부의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n61e9685f",
     "category": "IT",
     "source": "테크M",
@@ -345,10 +361,41 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6788bcbc",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260603/134044236/1",
+    "title": "‘역대급 흥행’ 프로야구, 역대 최소 275경기 만에 500만 관중",
+    "summary": [
+      "프로야구가 역대 최소 경기 500만 관중을 달성했다.한국야구위원회(KBO)는 3일 열린 잠실, 인천, 수원, 대구, 광주 경기에서 총 10만5441명이 입장하며 누적 관중 504만1891명을 기록했다고 밝혔다.이로써 KBO리그는 역대 최소 275경기 만에 500만 관중을 넘어섰다.",
+      "종전 500만 관중 최소 경기 기록은 지난해 작성된 294경기였지만, 1년 만에 19경기를 줄였다.지난해 역대 최다 관중 1231만2519명을 모은 프로야구는 올해."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5ce4183c",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654721",
+    "title": "'오태곤 끝내기 희생타' SSG, 키움에 5-4 역전승…13연패 수렁 탈출",
+    "summary": [
+      "[서울=뉴시스]문채현 기자 = 프로야구 SSG 랜더스가 길었던 연패의 늪을 드디어 벗어났다.",
+      "SSG의 연패 기록은 13경기에서 멈췄다.",
+      "SSG는 3일 인천 SSG랜더스필드에서 열린 2026 신한 쏠 KBO리그 홈 경기에서 키움 히어로즈를 5-4로 꺾었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n1d39b1a7",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "3분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152330",
     "title": "[테크M 이슈] 앤트로픽 IPO·알파벳 유상증자...'쩐의 전쟁'이 된 AI 경쟁",
     "summary": [
@@ -361,264 +408,234 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n567be4ed",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152328",
-    "title": "MS, '빌드 2026'서 AI 에이전트 플랫폼 공개...\"엣지부터 클라우드까지 개발 환경 확장\"",
+    "id": "n4962ea33",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654967",
+    "title": "중앙선관위 \"서울 12개 투표소 용지 부족해 즉시 이송…개표는 그대로 진행\"(종합)",
     "summary": [
-      "마이크로소프트가 AI 에이전트 개발과 운영을 지원하는 플랫폼 전략을 전면에 내세웠다.",
-      "기업 내부 데이터와 웹 정보를 연결하는 새로운 인텔리전스 계층을 공개하고, 로컬 PC부터 클라우드까지 이어지는 풀스택 개발 환경을 확대하며 AI 에이전트 생태계 주도권 강화에 나섰다.마이크로소프트는 3일 '빌드 2026'을 개최하고 AI 에이전트와 애플리케이션을 보다 유연하고 안전하게 개발·운영할 수 있도록 지원하는 플랫폼 업데이트를 발표했다.사티아 나델라 마."
+      "[서울·과천=뉴시스]하지현 김윤영 기자 = 중앙선거관리위원회(중앙선관위)는 제9회 전국동시지방선거 본투표일인 3일 서울 송파·강남·광진구의 6개동 12개 투표소에서 투표용지 부족 사태가 발생했다고 인정했다.",
+      "허철훈 중앙선관위 사무총장은 이날 경기 과천시 중앙선관위를 항의 방문한 신동욱 국민의힘 의원과의 면담에서 \"일부 지역에서 많은 국민 여러분께 불편과 심려를 끼쳐드렸다.",
+      "선관위 신뢰를 훼손시킨 점에 대해 깊이 사과드린다\"고 했다."
     ],
     "chips": [
-      "#AI",
-      "#환경"
+      "#정치"
     ]
   },
   {
-    "id": "n37060c86",
+    "id": "n7ce70c91",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654824",
-    "title": "[속보]대구교육감 강은희 51.5% vs 임성무 29.5%…방송3사 출구조사",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026060320302190951",
+    "title": "진보교육감 대거 당선전망…출구조사 진보 9곳·보수 3곳·경합 4곳 앞",
     "summary": [
-      "[대구=뉴시스] 박준 기자 = ◎공감언론 뉴시스 june@newsis.com."
+      "6·3 지방선거와 함께 치러진 전국 교육감 선거에서 진보 성향 후보들이 대거 당선될 가능성이 점쳐진다.",
+      "KBS·MBC·SBS 방송 3사가 이날 오후 6시 투표 종료 직후 발표한 출구조사에 따르면 16개 시·도 가운데 진보 후보가 9곳에서 우세하고, 오차범위 안팎의 접전 지역 4곳에서도 진보 후보가 앞서는 것으로 나타났다.",
+      "보수 후보가 우세한 곳은 3곳에 그쳤다."
     ],
     "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ndebb1735",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654708",
-    "title": "산토리니 골목에 '유골' 뿌린 관광객에 그리스 발칵",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 세계적인 휴양지 그리스 산토리니에서 한 외국인 관광객이 주거지 골목길에 유골을 뿌리는 황당한 일이 벌어졌다.",
-      "지난 1일(현지 시간) 미국 뉴욕포스트에 따르면 최근 소셜네트워크서비스(SNS)를 통해 산토리니 북부 오이아 지구에서 촬영된 한 관광객 일행의 영상이 퍼지며 논란이 일고 있다.",
-      "영상 속 한 관광객이 밥 말리의 히트곡을 부르며 산토리니의 좁은 자갈길 골목을 건너며 하얀 가루를 길바닥에 마구 뿌렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7edfc776",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654819",
-    "title": "'정근식 1위' 출구조사에 박수·환호…\"시민들께 감사\"",
-    "summary": [
-      "[서울=뉴시스]정예빈 구무서 기자 = 서울시교육감 선거 방송 3사(KBS·MBC·SBS) 공동 출구조사에서 진보 진영 정근식 후보의 예측 득표율이 보수 진영 조전혁 후보를 17.8%포인트(p) 앞선다는 결과가 발표되자 정 후보 캠프 개표 상황실이 박수와 환호성으로 들썩였다.",
-      "방송3사 출구조사 예측 득표율은 정 후보 39.0%, 2위 조전혁 후보 21.2%였다.",
-      "정 후보는 오후 5시 48분께 캠프 개표 상황실에 도착해 선거대책위원장·정책위원장 등."
-    ],
-    "chips": [
-      "#정책",
       "#정치",
       "#교육"
     ]
   },
   {
-    "id": "nec1f60e8",
+    "id": "n392ff04e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260603/134044232/1",
+    "title": "광주·전남 무투표 당선도 ‘싹쓸이’…80명 중 79명 민주당",
+    "summary": [
+      "6·3지방선거 광주·전남지역에서 440명의 당선자가 결정되는 가운데 이 중 기초단체장 2명 등 총 80명이 치열한 선거전을 거치지 않고 무투표 당선됐다.",
+      "반면 이번 선거에서도 무투표 당선인은 후보 알리기가 제한됐으며 ‘특정 정당 독식 폐해’가 여전해 공직선거법 개정이 시급하다는 목소리다.",
+      "3일 중앙선거관리위원회 통계시스템에 따르면 광주전남지역에서는 이날 개표를 통해 통합특별시장 1명, 통합시교육감 1명, 광주·전남 시·구·군 기초단체장 27명,."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n179652d1",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260603_0003654823",
-    "title": "[속보]대구시장 김부겸 49.7% vs 추경호 49.2%…JTBC 예측조사",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654969",
+    "title": "충북 최종 투표율 59.6%…지난 지선보다 9%p↑",
     "summary": [
-      "[대구=뉴시스] 정창오 기자 = JTBC가 3일 오후 발표한 6·3 지방선거와 국회의원 재보궐선거 출구조사 결과에서 김부겸 더불어민주당 대구시장 후보가 49.7%, 추경호 국민의힘 후보가 추 후보 49.2%의 득표를 할 것으로 예측됐다.",
-      "지상파 방송 3사(KBS·MBC·SBS)와 한국방송협회가 주관하는 출구조사 결과에서는 김 후보는 49.1%, 추 후보가 49.9%를 득표할 것으로 예측됐다."
+      "[청주=뉴시스] 연현철 기자 = 9회 전국동시지방선거 충북지역 최종 투표율은 59.6%를 기록했다.",
+      "3일 중앙선거관리위원회 선거통계시스템에 따르면 이날 오후 6시 기준 도내 유권자 139만6588명 중 83만2612명이 투표에 참여했다.",
+      "충북 투표율은 전국 잠정 투표율 60.9%보다 1.3%포인트(p) 낮다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n2a603b04",
+    "id": "n532e4779",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/03/2026060314212533020",
+    "title": "8회 '에레디아 극적 동점포'→'캡틴' 오태곤이 결국 끝냈다, SSG 13연패 탈출 [인천 현장리뷰]",
+    "summary": [
+      "연이은 호수비가 펼쳐졌고 하늘도 돕는 듯 행운 섞인 장면이 연이어 나왔다.",
+      "내내 끌려가던 SSG 랜더스가 끝내 기회를 살렸다.",
+      "경기 막판 연이어 극적인 상황을 연출하며 지긋지긋했던 연패를 끊어냈다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na399f918",
     "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260603077300704",
+    "title": "[쇼츠] 폴란드에 핵무기 배치?…\"미, 유럽에 핵 자산 확대 검토\"",
+    "summary": [
+      "(서울=연합뉴스) 미국이 핵무기 운용 자산을 유럽의 북대서양조약기구(NATO) 동맹국들에 추가로 배치하는 방안을 극비리에 논의 중인 것으로 알려..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf661434f",
+    "category": "IT",
     "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260603/134043412/1",
-    "title": "부산 북갑 하정우-한동훈, 경기 평택을 김용남-유의동-조국 ‘피 말리는 접전’",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260603/134044229/1",
+    "title": "한 곳 막아도 또 뚫는다?…AI 웜, 노트북·프린터·카메라까지 스스로 공격",
     "summary": [
-      "6·3 지방선거와 함께 치러진 국회의원 재보궐 선거의 최대 관심 지역인 부산 북구갑과 경기 평택을에서 여야, 무소속 후보가 피말리는 접전을 벌인다는 출구조사 결과가 나왔다."
+      "인공지능(AI)이 보안 취약점을 스스로 찾아내고, 기기마다 다른 공격법을 짜며 퍼지는 컴퓨터 웜 시제품이 실험용 네트워크에서 작동한 것으로 나타났다.미국의 뉴욕타임스(NYT)는 2일 캐나다 토론토대 연구진이 이미 알려진 보안 취약점을 겨냥해 빠르게 확산할 수 있는 AI 기반 컴퓨터 웜의 가능성을 시제품 실험으로 확인했다고 보도했다.컴퓨터 웜은 일반 바이러스와 달리 사용자가 파일을 열거나 실행하지 않아도 컴퓨터에서 컴퓨터로 스스로 퍼지는 악성 프."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nea37fc64",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "6분 전",
+    "url": "https://www.hankyung.com/article/2026060350891",
+    "title": "골드만, 코스피 목표치 9000 → 1만2000",
+    "summary": [
+      "골드만, 코스피 목표치 9000 → 1만2000."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n834b26ad",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260603_0003654964",
+    "title": "\"2시간째 기다렸다\"…투표용지 동난 송파 투표소, 일부 유권자 발길 돌려(종합)[6·3지방선거]",
+    "summary": [
+      "[서울=뉴시스]최은수 기자, 조수원 기자 = 6·3 지방선거 본투표가 마감된 3일 서울 송파구 등 일부 자치구 투표소에서는 투표용지 부족으로 유권자들이 2시간 넘게 대기하는 혼란이 빚어졌다.",
+      "일부 주민들은 장시간 대기 끝에 투표를 포기하고 돌아간 사례도 있었다.",
+      "투표 현장에서는 \"설명도 안내도 없었다\"는 불만이 쏟아졌다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nfabeb073",
-    "category": "사회",
+    "id": "nddd02d64",
+    "category": "스포츠",
     "source": "연합뉴스",
     "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603066000001",
-    "title": "[표] 방송 3사 국회의원 재·보궐선거 출구조사 결과",
-    "summary": [],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf553beb0",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/2026060349057",
-    "title": "[속보] 경북교육감 임종식 45.0%·김상중 34.1%…방송3사 출구조사",
+    "url": "https://www.yna.co.kr/view/AKR20260603077600007",
+    "title": "[프로야구 인천전적] SSG 5-4 키움",
     "summary": [
-      "[속보] 경북교육감 임종식 45.0%·김상중 34.1%…방송3사 출구조사."
+      "[프로야구 인천전적] SSG 5-4 키움."
     ],
     "chips": [
-      "#교육"
+      "#KBO"
     ]
   },
   {
-    "id": "n4caae3c8",
-    "category": "사회",
-    "source": "연합뉴스",
+    "id": "n56cf86e6",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603065500001",
-    "title": "[표] 6·3 지방선거 방송 3사 출구조사 결과",
-    "summary": [],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n369a8b6d",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/2026060349047",
-    "title": "[속보] 대구교육감 강은희 51.5%·임성무 29.5%…방송3사 출구조사",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/03/TZR4HJF7LNE2PPQNH4LTGKDFUQ/",
+    "title": "KIA 김도영, 6경기 만에 시즌 15호포 폭발…홈런 단독 선두 탈환",
     "summary": [
-      "[속보] 대구교육감 강은희 51.5%·임성무 29.5%…방송3사 출구조사."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nca1aded8",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026060349037",
-    "title": "[속보] 우상호 51.3%·김진태 48.7%…방송3사 출구조사",
-    "summary": [
-      "[속보] 우상호 51.3%·김진태 48.7%…방송3사 출구조사."
+      "KIA 김도영, 6경기 만에 시즌 15호포 폭발…홈런 단독 선두 탈환."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne004af60",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026060349017",
-    "title": "[속보] 윤건영 45.7%·김성근 40.3%…방송3사 출구조사",
+    "id": "nb953a7c7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/03/GI2TONRTMZQTQYTFMJSDEZDEMQ/",
+    "title": "\"나야, 국대 에이스\" 의심하지 말지어다. '춤추는 마구' 고영표 → 7이닝 책임졌다…마지막 1아웃 '아쉽네' [수원리포트]",
     "summary": [
-      "[속보] 윤건영 45.7%·김성근 40.3%…방송3사 출구조사."
+      "[수원=스포츠조선 김영록 기자] 전날 올해 최다 안타(17개), 홈런 4개를 몰아친 활화산 타선.",
+      "하지만 전성기를 되찾은듯한 KT 위즈 고영표의 '마구'는 무시무시했다.",
+      "고영표는 3일 수원 KT위즈파크에서 열린 LG 트윈스와의 주중시리즈 2차전에 선발등판, 7이닝 2실점으로 상대 타선을 꽁꽁 묶었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n56874867",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603063500001",
-    "title": "지방선거 광역단체장, 민주 10곳·국힘 1곳 승리…5곳 경합[JTBC 예측조사]",
+    "id": "n1ebdc847",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/03/MIYWGZTEGVRGGOJXMFRGGMRYGQ/",
+    "title": "드디어 끝났다! 오태곤 끝내기 희생플라이, SSG 13연패 탈출…불펜 총력전 통했다 [인천 리뷰]",
     "summary": [
-      "(서울=연합뉴스) 이슬기 기자 = 6·3 지방선거의 16개 광역단체장 선거에 대한 JTBC 예측조사 결과 더불어민주당은 서울을 비롯한 10곳, ..."
+      "[OSEN=인천, 길준영 기자] 프로야구 SSG 랜더스가 극적인 끝내기 승리로 13연패에서 탈출했다.",
+      "SSG는 3일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 키움 히어로즈와의 경기에서 5-4 끝내기 승리를 거뒀다.",
+      "이날 승리로 마침내 길었던 13연패가 끝났다."
     ],
     "chips": [
-      "#정치"
+      "#KBO"
     ]
   },
   {
-    "id": "n5d6bf8ec",
+    "id": "nd7d38d05",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260603065300009",
-    "title": "트럼프 상호관세 대체 '301조 관세' 윤곽…韓 '15%' 지키기 사활",
-    "summary": [
-      "(서울=연합뉴스) 김아람 기자 = 미국 도널드 트럼프 행정부가 연방대법원의 위법 판결로 무력화된 상호관세를 대체할 새로운 관세 체계 도입을 서두..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndd9da3c1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260603/134043357/1",
-    "title": "정원오 51.4 오세훈 46.0…전재수 50.2 박형준 48.3…김부겸 49.1 추경호 49.9",
-    "summary": [
-      "3일 치러진 6·3 지방선거 및 재보궐 선거 결과 서울시장 선거에서 더불어민주당 정원오 후보가 국민의힘 오세훈 후보를 다소 앞선다는 지상파 출구조사 결과가 나왔다.",
-      "부산시장은 전재수 민주당 후보와 국민의힘 박형준 후보가, 대구시장은 민주당 김부겸 후보와 국민의힘 추경호 후보가 접전을 벌일 것으로 예측됐다.",
-      "●서울시장, 정원오가 오세훈 다소 앞서이날 오후 6시 발표된 방송3사(KBS, MBC, SBS) 출구조사 결과에 따르면 민주당 정원오 후보는."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n98d5f071",
-    "category": "경제",
     "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026060318202139401",
-    "title": "[속보]대구시장 추경호 49.9% 김부겸 49.1%…지상파 3사 출구조사",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026060319114057673",
+    "title": "티빙 회원정보 유출에 정부 합동조사…\"피해보상 사칭 문자 주의\"",
     "summary": [
-      "[속보]대구시장 추경호 49.9% 김부겸 49.1%…지상파 3사 출구조사."
+      "과학기술정보통신부가 온라인동영상서비스(OTT) 티빙의 회원정보 유출 사고를 중대한 침해사고로 보고 민관합동조사단을 꾸려 조사에 나섰다.",
+      "3일 과학기술정보통신부는 티빙 회원정보 유출 사고의 피해 현황과 사고 원인 등을 조사하기 위해 3일 민관합동조사단을 구성하고 조사에 착수했다고 밝혔다.",
+      "티빙은 지난 1일 침해사고를 신고했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne2c87ccb",
+    "id": "na1c96da0",
     "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260603/134043346/1",
-    "title": "격앙된 국힘 “끝까지 투표해달라”…민주당 “강한 유감”",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026060320244975222",
+    "title": "김영록 전남도지사, 정청래 정면 비판…\"호남 외면 책임져야\"",
     "summary": [
-      "제9회 전국동시지방선거 본투표가 실시된 3일 서울 송파구 일대에서 투표용지가 부족해 유권자들이 대기하거나, 투표를 못 하고 집에 돌아가는 사태가 발생하면서 국민의힘이 “있을 수 없는 일이 발생했다”며 격앙된 반응이 나오고 있다.더불어민주당에서도 중앙선거관리위원회에 “강한 유감을 표명한다”는 입장을 내놨다.",
-      "국민의힘 오세훈 서울시장 후보 측 캠프는 이날 “선관위에 강력히 경고한다.",
-      "이런 식으로 유권자의 참정권을 침해하는 것은 결코 용납할 수 없다."
+      "김영록 전라남도지사가 제9회 전국동시지방선거 투표 종료 직후 정청래 더불어민주당 대표를 향해 강도 높은 비판을 쏟아내는 글을 게시해 세간의 관심을 끌고 있다.",
+      "김 지사는 3일 오후 6시 투표 종료 직후 자신의 페이스북을 통해 \"이 시간만 기다렸다\"며 \"바로 이 시각부터 정청래를 당대표에서 끌어내기 위해 내 모든 것을 바치겠다\"고 밝혔다.김 지사는 이번 선거 과정에서 불거진 '호남 소외론'에 대한 입장도 밝혔다."
     ],
     "chips": [
       "#정치"
-    ]
-  },
-  {
-    "id": "n6f935641",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026060318181031840",
-    "title": "[속보]부산시장 전재수 50.2% 박형준 48.3%…지상파 3사 출구조사",
-    "summary": [
-      "[속보]부산시장 전재수 50.2% 박형준 48.3%…지상파 3사 출구조사."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -627,21 +644,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
+    "tag": "KBO",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
