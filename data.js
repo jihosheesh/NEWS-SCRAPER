@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-04 20:40:32
+// 마지막 업데이트: 2026-06-04 21:31:25
 window.NEWS_DB = [
+  {
+    "id": "n2469bd9f",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lS2dkeVlfTzh3YzM3ZmRuelJOVDdtM0tYSWkyN21LN2s5bFVPMnppMXpVajd1ZjN5cTEwWE44Q19iQWlHZmlqV1h6UzZNZm12UFhHSTA2VjM4UdIBVEFVX3lxTE1vbklwREZfREVpMXBvU3d4aENOemY2enMwVlV2dzd3UUNDeG5PdHNkUnFZNUpBaWFuaXV4dDhjb2psc3E5RTRKaGNZRHVVTDRqZm1xaA?oc=5",
+    "title": "\"엔비디아 의존 줄여라\"…K-AI칩 생태계 커진다",
+    "summary": [
+      "\"엔비디아 의존 줄여라\"…K-AI칩 생태계 커진다 한국경제."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n43ee8875",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80bV9oWVRQLWh4cUVqdFAteV8ydEpoSndqVUdhQkZEQ3FHM09LcG5IcGp4REJDVXJsaGZtWFFhUjlUYmhIV01RejlQdjZ1M2dwNTFKRDktNFc2ZnVNczFsUjdfVjloQldzbkUxdkc4c9IBc0FVX3lxTE9jRldwcGZrZ2o3ZGplVGN3dENPblFWY0xZMllKVWY1U2wxNmNKNFFzQm5HREc3NUZtVzFGaDVXY1RXVFVzRmVGbU5ZQWtDTjVXUklBbWZSNDdsdkkxYmpvR2pTZHFzaDI2LUtNcXdtY1IwMGM?oc=5",
     "title": "공급망의 SK하이닉스 vs. 통합 기술의 삼성전자…HBM 패권 경쟁 새 국면",
     "summary": [
@@ -19,25 +34,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb9d37a20",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNam1KZ29JWi1kbzlfMHBQcFVJZTlhQ3ZqZURrRGI5WmNGMG9yWkRXNnoxaHl5YmNfcG9qLW9uM3BPUE9oLUdnbU1GN2ZmRE9JVTVpb2g5VWM4YXZ5SllhcUFiRGNOTWdoeXE4ZNIBckFVX3lxTE56Vk1KMHZNMXBsNHN0TXBzRlpKbW9MOU9vSXNpOHluLWZBaWFTa0k4UHBHNjZqS3dBN18xaWM5dFljRm42aFdCSURLUUtoRHV6bzVMN0h1VmhFQkVsY2UtbU92aVlMZWwwVzZ3NWZ2OUV4dw?oc=5",
-    "title": "최태원, 엔비디아·TSMC·폭스콘 수장과 연쇄 회동…AI 동맹 넓힌다 - 머니투데이",
-    "summary": [
-      "최태원, 엔비디아·TSMC·폭스콘 수장과 연쇄 회동…AI 동맹 넓힌다 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n5cae89cd",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMElabXNNb3RKeTd1TnJMR3R1VnczV2xfWDhpaEhaci1GYWFrRFhtdERHckhvc0FoNGVPcHZIdTdPRDI1WEhPdVVBY0tiOUZWT2FQX1duQTdleFNGdVpBSFBRUVdtaGpCSl9XY3JUVFhpYm1aNVY2Tlo5RFFpX2x4MXBB0gGWAUFVX3lxTFBHYWpENE1LWEJKRkRzMFJUdmZvVEZ6UU9LU3VVMHpaalhVWUZqOWVBVGpYNGkzM1hONGpqNThjTlFVQVAwSGxtUXJwSkVMTWpXNlBXX3l1R2ZjR0dtUkhnZTNBMWc2SGhOQy1oQm5Pb2RJNlB2SmpVaTBJTUo0eVpBQ1BVdDZPM1FnOWR5YTY1RjQ5TGQ4Zw?oc=5",
     "title": "배경훈 부총리 “국산 AI 반도체, 해외서 3000만달러 수출… 엔비디아 버금가는 기술력” - 조선비즈",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "nbcccb229",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iOXlZN21icV9VY1RyYnN6MHg0VnV6cjZMRUJHY0ZocUxyVVVFVlpBR2dwdDV0UWdzanJsMVdqendMeENNbTZzNnMwb3UtdE1MNG1ibkJya0dYRkHSAWBBVV95cUxOMHliOEItM3NyRkt6elAwYnE5cGJRd1kzai1ab3A4TVZWNzJvUi1jdFQ4ZmVraG5KajhCMDROSE1pWDNfRTR2YjJvMkViMUN4aTBpc3F5OEdxUTdjVy1fUy0?oc=5",
     "title": "국산 AI반도체 400여억 수출…배경훈 \"엔비디아급 기술력\"(종합)",
     "summary": [
@@ -80,22 +80,6 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n38022242",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0pTME40YURudGhfd1FYdVlNQVFmQ05hZWlCUnd1bG1KcUY5cHJ5ckY5UW9TNkVMUUNKMzh4RWpuODlaRkdsbWZOS3MzVjZocWhQZW8ybGtrLWppbl8yalppR2FKTzc3ZFdpdVFmbFViYmdzREx6amsySG1hc3NqOS1B0gGWAUFVX3lxTE1aMWZ5eHRUTDI0MjlVbFQtUHpWQndoVzZ6VktVa29ySkJlODAzd3A1UnY2YnZ6dm03MzhXMFYtMkRmQjRNeW5iYkNvUDhtTENrRWlIa0VubjBCeDZ5eS1TazM1bkhhVUNfcmRVR3FIQmQxNFRoUFhMMV9UYzF1NlJPYkphOVhWLWF5QXgwYjN3WkVZTEhGdw?oc=5",
-    "title": "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈",
-    "summary": [
-      "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -128,6 +112,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na0f523e8",
+    "category": "IT",
+    "source": "이코노미트리뷴",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
+    "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
+    "summary": [
+      "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는 이코노미트리뷴."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "ne2208e3a",
     "category": "부동산",
     "source": "프라임경제",
@@ -139,6 +138,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
+    ]
+  },
+  {
+    "id": "nb3bb73fa",
+    "category": "경제",
+    "source": "헤럴드경제",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
+    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
+    "summary": [
+      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
+    ],
+    "chips": [
+      "#환율"
     ]
   },
   {
@@ -154,22 +167,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "n27044a56",
-    "category": "사회",
-    "source": "브런치",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBta2tFd082ZU1RSmtGUGVwclA5VmR5ZVJXb3lXcEZKMDJLYVlRb0RzQm1CYlV0bVBsaXFoX09uWlBxZVVoQTVNdVQwRQ?oc=5",
-    "title": "서울시 강서구 일자리 지원센터 취업 채용정보 구인구직",
-    "summary": [
-      "서울시 강서구 일자리 지원센터 취업 채용정보 구인구직 브런치."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -215,38 +212,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n00c2ed38",
-    "category": "경제",
-    "source": "비즈니스포스트",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81RldwenFscGVxbmtVNXB3UmxIZndtYThpLThIUDMzNUN6M3ozZE5aVUd6TTVQSnc0ZjZyLUZzbDhNdUpPNTg4bl9oQjdmeXRNUVR4SVNsbGhqVWE2N05qZGxVbXNJQmlMOE00WGhvOVZtRGs?oc=5",
-    "title": "[박혜린 기자의 내돈내굴] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유",
-    "summary": [
-      "[박혜린 기자의 내돈내굴] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유 비즈니스포스트."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스",
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
-    ]
-  },
-  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -277,20 +242,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "64일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n8988be77",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -305,14 +256,58 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n46f59f4d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "153일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
+    "id": "n1e3b72e2",
+    "category": "사회",
+    "source": "매일경제 마켓",
+    "time": "114일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
+    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
     "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
+      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n490343d1",
+    "category": "스포츠",
+    "source": "미디어오늘",
+    "time": "204일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ME9tQ2JRQWtiTUxTcTVVUHRPUVFhcXNDWFo0TnVSUm9ubWo2d0o0UTVOQ01iUW1tMlNYVG9JWjRMbl95c3MzVk5CNmJMUnNDRU02VGk4aTFXWU5QTlNkcHVwbW40Z3otVkxUaGd0cm8?oc=5",
+    "title": "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’",
+    "summary": [
+      "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’ 미디어오늘."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "216일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nf6a727df",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "244일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzeFVaOUFLdVp2WVFFMXdkVzhHWFdGajd1S3otdm81enJlN1dQNkVPakE0TExHbzNyU2M5S1FIaXpvV2t3UFhIQThjUUlkcGtBbjVKYXhiRkctS25i?oc=5",
+    "title": "추석 국내외 한국 선수들 파이팅!…KBO·MLB '가을 야구', 손흥민 선발 예열, 프로농구 개막 등 핫게임",
+    "summary": [
+      "추석 국내외 한국 선수들 파이팅!…KBO·MLB '가을 야구', 손흥민 선발 예열, 프로농구 개막 등 핫게임 네이트."
     ],
     "chips": [
       "#손흥민",
@@ -320,317 +315,325 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1399b6c2",
+    "id": "nc1422dc0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003657097",
-    "title": "[속보]美 재무부, 쿠바 대통령 제재…軍·혁명수비委도 제재 포함",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260531_0003650920",
+    "title": "남윤영 센터장 \"정신건강, 국가 정책 근간 될 통계 필요\"[인터뷰]",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 ironn108@newsis.com."
+      "[서울=뉴시스] 강진아 기자 = \"암 통계처럼 체계적인 정신건강 통계가 필요해요.",
+      "국가 정책의 근거가 될 수 있는 정신건강 통계 정보 시스템을 만들어야 하죠.\" 지난 4월부터 국립정신건강센터를 새롭게 이끌고 있는 남윤영 센터장은 임기 내 과제로 정신건강 통계 시스템 마련을 손꼽았다.",
+      "중증 정신질환이나 비자의 입원 등 각각의 통계는 있지만, 정책적 의사 결정의 근거가 될 수 있는 통합적 자료가 없다고 아쉬워했다."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8fb1aeba",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/economy/money/2026/06/05/KURCTRSUEBA5TK2C2HJEJBNGAQ/",
-    "title": "‘한국의 마사 스튜어트’ 강주은, 최민수와 최악의 위기 때 가장 먼저 한 일",
-    "summary": [
-      "‘한국의 마사 스튜어트’ 강주은, 최민수와 최악의 위기 때 가장 먼저 한 일."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndedcee08",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/05/HAYDAOLEGZQTENJXMFQWIMBSGU/",
-    "title": "서인영, 워터밤 한껏 기대했는데...\"연락 안 와, 준비한 옷 비비한테 팔 것\" ('개과천선')",
-    "summary": [
-      "[OSEN=박근희 기자] 가수 서인영이 여름의 상징인 '워터밤' 축제를 앞두고 연락이 오지 않는다고 밝혔다.3일 오후 유튜브 채널 ‘개과천선 서인영’에는 '백수 서인영의 혀빨기부터 다이어트식단까지 오전루틴 싹다공개 (+욕실템,향수,잠옷공개)'라는 제목의 영상이 게재됐다.제작진은 서인영을 만나 \"워터밤에서 연락이 없다는 소문이\"라며 질문했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74a5a48b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/05/MNQTQMZYGJRGENDBHBRTKMRUGY/",
-    "title": "‘미쳤다’ 이정후 새 역사 창조! 안타-2루타-안타 3안타 폭발→12경기 연속 안타 ‘개인 신기록 해냈다’",
-    "summary": [
-      "[OSEN=이후광 기자] ‘바람의 손자’ 이정후(샌프란시스코 자이언츠)가 메이저리그 개인 연속 안타 신기록을 달성했다.",
-      "이정후는 5일(이하 한국시간) 미국 위스콘신주 밀워키 아메리칸 패밀리 필드에서 펼쳐진 2026 메이저리그 밀워키 브루어스와의 원정 4연전 4차전에 5번 우익수로 선발 출전했다.",
-      "첫 타석부터 안타를 신고했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5d284558",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605005200071",
-    "title": "[속보] 美재무부, 쿠바 대통령에 제재 부과",
-    "summary": [],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n94a85e4c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260605/134053957/1",
-    "title": "“5년 만난 6살 연상 여친, 결혼 안 하면 무책임?”…30대男 고민에 갑론을박",
-    "summary": [
-      "5년간 교제한 6살 연상 여자친구와 결혼 문제를 둘러싼 30대 남성의 고민 글이 온라인에서 논쟁을 불러일으키고 있다.",
-      "4일 직장인 온라인 커뮤니티에는 “25살 때 만난 6살 연상 여친과 5년째 교제 중인데 이제 와서 결혼하지 않으면 무책임 한 것이냐”는 취지의 글이 올라왔다.글쓴이 A씨(30)는 “25살 때 동호회에서 만나 자연스럽게 사귀게 됐고 지금까지 5년을 만났다”며 “연애는 좋지만 결혼은 아직 생각이 없다”고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncacc4721",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605005100065",
-    "title": "외국인 노동자 상습폭행 혐의 섬유공장 대표 구속영장 기각",
-    "summary": [
-      "(인천=연합뉴스) 홍현기 기자 = 외국인 노동자들을 상습 폭행한 혐의를 받는 업체 대표의 구속영장이 법원에서 기각됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n626f17c5",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604182200003",
-    "title": "젠슨 황 오늘 최태원·정의선·구광모·이해진과 '삼소회동'",
-    "summary": [
-      "(서울=연합뉴스) 조성흠 김보경 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 7개월 만에 한국을 다시 찾아 국내 주요 기업 총수들과 서울의 ..."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n871fd1b2",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003656292",
-    "title": "\"제발 더 만들어줘\" 젠슨 황의 간청…SK하이닉스·삼성전자, HBM 공급 '속도'",
-    "summary": [
-      "[서울=뉴시스]박나리 기자 = \"제발 더 많이 만들어 달라.",
-      "(Please make more.)\" 젠슨 황 엔비디아 최고경영자(CEO)가 SK하이닉스의 차세대 고대역폭메모리(HBM) 웨이퍼에 남긴 말이다.",
-      "인공지능(AI) 반도체 수요가 급증하면서 HBM을 비롯한 핵심 메모리 공급 확보전이 한층 치열해지고 있다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n3c80daee",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003656942",
-    "title": "수능 실전 6월 모의평가 마무리…향후 대입 대비 어떻게",
-    "summary": [
-      "[세종=뉴시스]용윤신 기자 = 6월 대학수학능력시험(수능) 모의평가가 마무리된 가운데 향후 대학입시를 준비하기 위한 학습 방안이 화두로 떠올랐다.",
-      "입시전문가들은 이번 모의평가 결과에 따라 희망이나 절망에 빠지기보다는 수능 점수 향상의 발판으로 삼아야 한다고 입을 모았다.",
-      "5일 입시업계 평가를 종합하면 지난 4일 치러진 6월 모의평가는 주요 영역은 전반적으로 작년 수능 대비 쉬웠던 것으로 평가된다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nf224dd2e",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003656946",
-    "title": "[오늘의 주요일정]해양수산부(6월5일 금요일)",
-    "summary": [
-      "[서울=뉴시스] ◇장관 ▲10:00 항만국 조치협정 발효 10주년 행사(제주) ▲10:40 어선원 안전·보건 전진대회(제주) ▲14:20 여객선 전기차 화재 대응훈련 및 해양안전 TF 제2차 전체 회의(제주)."
-    ],
-    "chips": [
-      "#전기차",
+      "#정책",
       "#의료"
     ]
   },
   {
-    "id": "n50de442d",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260605/134053954/1",
-    "title": "‘투표용지 부족’ 잠실 투표소 대치 30시간째…침묵시위 이어가",
-    "summary": [
-      "초유의 투표용지 부족 사태가 발생한 서울 송파구 잠실7동 제2투표소에서 투표함 이송을 막는 시위대가 30시간이 넘도록 투표소 인근을 점거 중이다.",
-      "시위 참석자들은 민원이 잇따라 접수되면 해산 조치가 이뤄질 수 있다고 보고 침묵시위를 이어가고 있다.5일 오전 4시께에도 투표소 정문과 후문 등 인근에는 보수 성향 유튜버와 시민들이 모여 투표함 반출을 막고 있다.",
-      "이 투표소에서 3일 오후 10시께 투표가 종료된 뒤 30시간이 지난 시점이다.앞서 이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nde901d2d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260605/134053949/1",
-    "title": "“돈 벌려고 지원했습니다”…신입 자소서 ‘솔직 vs 무례’ 논쟁",
-    "summary": [
-      "“솔직히 돈 벌려고 지원했습니다.”한 중소기업 채용 담당자가 실제 자기소개서에서 본 첫 소제목이라며 온라인에 공유한 내용이 직장인 커뮤니티에서 화제를 모으고 있다.최근 한 온라인 커뮤니티에는 ‘이런 자소서는 살면서 처음 보네요’라는 제목의 글이 올라왔다.작성자 A씨는 “작은 회사라 팀원들과 함께 자소서를 검토한다”며 “1차 스코어링을 하던 중 처음부터 강한 인상을 준 지원서를 봤다”고 말했다.해당 지원서의 첫 소제목은 “솔직히 돈 벌려고 지원했."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n96640bf8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260605/134053945/1",
-    "title": "‘편스토랑’ 에녹 “父 위암 말기 판정, 닥치는 대로 일했다”",
-    "summary": [
-      "‘신상출시 편스토랑’ 가수 에녹이 가장으로 가족의 생계를 책임지기 위해 치열하게 일했던 때를 전했다.지난 4일 오후 8시 30분에 방송된 KBS2 예능 프로그램 ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 심수봉을 위해 뭉친 편셰프 손태진과 에녹, 진원의 모습이 담겼다.이날 손태진이 이모할머니인 심수봉의 전국투어 콘서트 응원 도시락 만들기에 도전했다.",
-      "손태진은 50인분의 조공 도시락을 준비하기 위해 가수 에녹과 사촌 동생인 리베란테의 진원에게."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n65446502",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605004800072",
-    "title": "뉴욕증시, 반도체 랠리 숨고르기 속 혼조 마감…마이크론 8%↓",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 4일(현지시간) 최근 증시 랠리를 주도해온 반도체 업종이 약세를 보인 가운데 금융·헬스케어 업종이 강세를 띠..."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n77c9efe2",
+    "id": "nc83246ba",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "28분 전",
-    "url": "https://view.asiae.co.kr/article/2026060505112775845",
-    "title": "[속보]뉴욕증시 혼조 마감…다우 1.71% ↑",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260605/134054008/1",
+    "title": "호르무즈 봉쇄에 놀란 산유국들…바닷길 대신 송유관·철도 늘린다",
     "summary": [
-      "28일(현지시간) 미국의 3대 지수는 혼조세로 마쳤다.",
-      "다우지수는 사상 최고치를 경신했다.",
-      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 1.73% 오르며 마감했다."
+      "이란전으로 호르무즈 해협이 실제로 막힐 수 있다는 우려가 커지면서 걸프 산유국들이 바닷길을 피해 석유를 내보낼 새 수출망 구축에 속도를 내고 있다.미국 월스트리트저널(WSJ)은 3일(현지시간) 사우디아라비아와 아랍에미리트(UAE), 이라크 등 걸프 산유국들이 송유관과 철도, 에너지 저장시설에 수십억 달러를 투입하며 호르무즈 해협 우회망을 만들고 있다고 보도했다.호르무즈 해협은 오랫동안 페르시아만 원유 수출의 핵심 길목이었다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nffb43ced",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260605/134054005/2",
+    "title": "美 재무부, 쿠바 대통령 부부·카스트로 일가에 제재 부과",
+    "summary": [
+      "미국 정부가 미겔 디아스카넬 쿠바 대통령과 그의 배우자, 카스트로 일가 핵심 인사들을 제재 명단에 올리며 쿠바 지도부에 대한 압박을 강화했다.미 재무부는 4일(현지시간) 갱신한 특별제재대상자(SDN·Specially Designated Nationals) 명단을 통해 미겔 디아스카넬 쿠바 대통령을 쿠바 관련 행정명령에 따라 제재 대상으로 지정했다고 밝혔다.",
+      "제재 대상에는 디아스카넬 대통령의 배우자인 리스 쿠에스타 페라사도 포함됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n079df916",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260605/134054002/1",
+    "title": "트럼프, 연이틀 이란 모즈타바 언급…“만나면 영광”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 연일 아야톨라 모즈타바 하메네이 이란 최고지도자를 만날 의향이 있음을 내비쳤다.트럼프 대통령은 4일(현지 시간) 백악관 집무실에서 취재진 질문에 “만나는 것을 원하는 것은 아니다”면서도 “그를 만나게 된다면 영광일 것이다”고 답했다.이어 “우리가 합의할 수 있을지 지켜보길 원하고 만약 타결된다면 그를 만나는 것도 가능하다.",
+      "미국에서 만남이 이뤄질 수도 있냐는 물음에는 “만남에 대해 많이 듣."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n872f8269",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657108",
+    "title": "충주 주택 화재로 6200만원 재산피해…인명피해 없어",
+    "summary": [
+      "[충주=뉴시스] 연현철 기자 = 5일 오전 0시43분께 충북 충주시 금가면 문산리의 한 주택에서 불이 났다.",
+      "불은 주택 내부(70㎡)와 가재도구 등을 모두 태워 소방서 추산 6200만원의 재산피해를 낸 뒤 1시간여 만에 꺼졌다.",
+      "경찰과 소방당국은 정확한 화재 원인을 조사 중이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1cfff3cf",
+    "id": "n91748867",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260605/134053998/1",
+    "title": "고소영·장동건 16세 아들, 키 185㎝ 넘었다",
+    "summary": [
+      "배우 고소영이 남편 장동건의 옷을 입게 된 유쾌한 비하인드를 공개했다.고소영은 지난 4일 자신의 유튜브 채널에 게시한 영상에서 최근 폭풍 성장한 아들의 근황과 함께 남편의 옷을 소화하게 된 사연을 전했다.이날 영상에서 선명한 빨강 입고 등장한 고소영은 제작진이 의상을 칭찬하자 “이거 신랑(장동건) 옷”이라고 밝혔다.그는 “결혼 전에 입었던 옷들을 아들에게 주려고 다 놔뒀는데, 아들이 갑자기 벌크업이 돼서 키가 185㎝를 넘고 어깨가 넓어졌다”며."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n557fd5fb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657110",
+    "title": "레바논-이스라엘 휴전 합의 헤즈볼라 거부로 무산",
+    "summary": [
+      "[서울=뉴시스] 강영진 기자 = 미국의 중재로 이스라엘과 레바논이 휴전에 합의한 뒤 몇 시간 만인 4일(현지시각) 헤즈볼라가 휴전 합의 준수는 이스라엘에 대한 항복이나 다름없다며 거부했다고 미 뉴욕타임스(NYT)가 보도했다.",
+      "NYT는 이에 따라 휴전 합의는 레바논의 상황에 거의 아무런 영향도 미치지 못했으며 이스라엘이 레바논 남부를 공습했고 헤즈볼라는 이스라엘군을 향해 로켓을 발사했다고 전했다.",
+      "레바논 정부는 헤즈볼라에 대한 통제권이 거의 없으."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nef9b37e3",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026060506272910012",
+    "title": "前주한 미 대사들 \"이재명 정부 반미 아냐…한미동맹 가치 잘 이해\"",
+    "summary": [
+      "전직 주한 미국대사들이 이재명 정부를 '반미·친중'으로 규정하는 일부 시각에 선을 그었다.",
+      "이들은 이 대통령이 한미동맹의 중요성을 충분히 이해하고 있으며, 대중 정책 역시 '친중 노선'이라기보다 '외교적 균형'을 맞추려는 시도에 가깝다고 평가했다.",
+      "필립 골드버그 전 주한대사는 4일(현지시각) 한미경제연구소(KEI)가 주최한 세미나에서 \"이 대통령이 급진 좌파나 공산주의자라는 이야기가 나오는데, 나는 그런 인상을 받지."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd6a400cc",
     "category": "사회",
     "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/05/67VIDFU36FHBFIJJWI6IMELGTQ/",
-    "title": "임기 시작하자마자 韓 대통령 백악관 초청… 위기에도 유머 로널드 레이건",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/05/MZSTOMJSMRQTGNRVG5SDEZDFGM/",
+    "title": "'예비 엄마' 고우리, 개념 학부모 될까‥\"모기 민원? 이해 안 돼\" ('Go!우리')",
     "summary": [
-      "레이건은 대선에서 카터를 이기고 제40대 대통령에 당선했다.",
-      "선거인단 수 489 대 49의 압승이었다.",
-      "임기 시작하는 1981년 1월 20일 69세349일로 역대 최고령 대통령이었다."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 그룹 레인보우 고우리가 극성 학부모가 이해되지 않는다고 털어놓았다.",
+      "지난 3일 유튜브 채널 ‘Go! 우리’에는 ‘고우리 할머니의 임신과 출산 썰’이라는 제목의 영상이 게재됐다.",
+      "이날 고우리는 친정 식구들과 함께 다정한 시간을 보내 눈길을 끌었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n23e5286c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026060415593341155",
+    "title": "소비력 커진 5060…카드사들, 시니어 맞춤 카드 승부",
+    "summary": [
+      "초고령사회 진입으로 시니어 금융시장의 중요성이 커지면서 카드사들이 관련 상품 경쟁에 속도를 내고 있다.",
+      "소비 여력과 디지털 활용 능력을 갖춘 시니어 세대가 핵심 고객층으로 부상하자 카드사들은 건강·여가·자산관리 수요를 반영한 전용 카드 출시를 확대하는 모습이다.",
+      "5일 금융권에 따르면 최근 신한카드는 신한은행과 함께 시니어 고객 특화 카드 '쏠메이트 체크카드'를 출시했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n0c769628",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/05/GNSWCNDGMY2WINRUGNTDSYZYHA/",
+    "title": "최정윤, 재혼 후 행복도 활짝...가족여행 떠난 훈훈한 일상 눈길 [핫피플]",
+    "summary": [
+      "[OSEN=김수형 기자]배우 최정윤이 딸과 함께한 첫 해외 가족여행을 공개하며 훈훈함을 안겼다.",
+      "이혼의 아픔을 딛고 재혼 후 한층 밝아진 근황까지 전해지며 응원이 이어지고 있다.최정윤은 최근 자신의 SNS를 통해 \"첫 해외 가족여행.",
+      "코타키나발루 수트라하버 리조트에서의 시간들\"이라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속 최정윤은 말레이시아."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b3c7776",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605007900055",
+    "title": "전북 대체로 흐리고 약한 빗방울…낮 기온 23∼26도",
+    "summary": [
+      "(전주=연합뉴스) 임채두 기자 = 5일 전북은 대체로 흐리고 약한 빗방울이 떨어지겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4100d59f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605007800063",
+    "title": "대전·충남 아침까지 곳에 따라 빗방울…낮 최고기온 23∼26도",
+    "summary": [
+      "(세종=연합뉴스) 양영석 기자 = 5일 대전·세종·충남은 구름 많다가 오전부터 대체로 맑겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n824cd558",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/05/HFSWMYRQMY3WEMRUMM3DIYJQG4/",
+    "title": "\"연예인인데 이 정도 당연\" 안선영, 2억 원대 스포츠카로 한강 나타나 '눈길' ('이중생활')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 안선영이 고급 스포츠카를 공개했다.",
+      "4일 유튜브 채널 '안선영의 이중생활'에는 '잊혀진 연예인 안선영.",
+      "과연 무슨 차를 탈까?'라는 제목의 영상이 게재됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc47906c3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/05/HBSDIMTBMJSDQN3DGI4TQNLBHA/",
+    "title": "\"무조건 빠지는 줄\" 국민유격수도 인정, 살빼고 영역확장→땀으로 지워낸 수비약점, 터질 일만 남은 폭발 직전의 7년차 내야수, 오늘의 피자가 내일의 추억으로…",
+    "summary": [
+      "[대구=스포츠조선 정현석 기자]삼성 라이온즈 내야수 양우현이 지각 홈런턱을 쐈다.",
+      "양우현은 4일 대구 라이온즈파크에서 열린 NC 다이노스전에 앞서 선수단에 피자 30판을 돌렸다.",
+      "지난 5월8일 창원 NC전 데뷔 첫 홈런을 기념한 한턱."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd5108359",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605007400053",
+    "title": "대구·경북 차차 맑아져…낮 최고기온 23∼30",
+    "summary": [
+      "(대구=연합뉴스) 황수빈 기자 = 5일 대구와 경북은 가끔 구름이 많다가 차차 맑아지겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n197b5ea3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657109",
+    "title": "美 재무부, 쿠바 대통령 제재…軍·혁명수비委도 제재 포함",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 미국 재무부가 4일(현지시간) 미겔 디아스‑카넬 쿠바 대통령을 '특별 제재 대상자(SDN)' 명단에 등재했다.",
+      "미 재무부는 이날 갱신한 SDN 명단에 1960년 4월20일 쿠바 산타클라라에 태어난 쿠바 국적 미겔 디아스‑카넬 베르무데스를 쿠바 관련 행정명령(EO 14404)에 따라 제재 명단에 공식 등재했다고 밝혔다.",
+      "미겔 대통령은 2018년부터 쿠바 대통령직을 수행하고 있다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n76adf49b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026060504381271037",
-    "title": "美 국무, 쿠웨이트 외무장관 만나 이란의 공항 공격 규탄",
-    "summary": [
-      "마코 루비오 미국 국무부 장관은 4일(현지시간) 셰이크 자라 알사바 쿠웨이트 외무부 장관과 만나 이란 전쟁 관련 상황을 논의했다.",
-      "이날 국무부에 따르면 루비오 장관은 워싱턴D.C 국무부 청사에서 알사바 장관과 회담을 갖고 쿠웨이트의 안보와 이란의 핵무기 보유 금지, 호르무즈 해협에서의 항행의 자유에 대한 미국의 확고한 의지를 확인했다.",
-      "루비오 장관은 또 쿠웨이트 국제공항과 쿠웨이트 내 다른 지역을 겨냥한 이란의 \"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n92fa554c",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605003800002",
-    "title": "달러-원, 외환당국 '말발' 도통 안 먹힌다…1,540원선까지 확대",
-    "summary": [
-      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 상승폭을 확대하며 1,530원 선 위에서 거래를 마쳤다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n79c16213",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605003600072",
-    "title": "국제유가, 이스라엘·레바논 휴전합의에 반락…WTI 3%↓",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 무력 충돌을 지속해 온 이스라엘과 레바논이 휴전 이행에 전격 합의하면서 4일(현지시간) 국제 유가가 하락했다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndce61509",
+    "id": "n8569a9bb",
     "category": "사회",
     "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://view.asiae.co.kr/article/2026060503300867089",
-    "title": "헤즈볼라 휴전 거부…종전 협상 최대 걸림돌 된 '레바논'",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026060506165500266",
+    "title": "美, 쿠바 대통령 일가 제재…트럼프 \"쿠바는 실패한 국가\"",
     "summary": [
-      "미국과 이란의 종전 협상이 막판 진통을 겪고 있다.",
-      "이란이 협상 진전이 없다고 밝힌 가운데 친이란 무장정파 헤즈볼라가 미국이 중재한 이스라엘-레바논 휴전을 거부하면서 협상 타결 전망이 다시 불투명해졌다.",
-      "4일(현지시간) 블룸버그통신에 따르면 도널드 트럼프 미국 대통령은 이란과의 휴전 협상이 \"최종 단계(final stages)\"에 진입했다고 밝혔다."
+      "미국이 미겔 디아스카넬 쿠바 대통령과 배우자 등에 대해 제재를 단행했다.",
+      "도널드 트럼프 미국 대통령은 이번 조치가 정권 붕괴를 목표하는 것은 아니라면서도 쿠바를 '실패한 국가'(failed nation)라고 규정했다.",
+      "미 재무부는 4일(현지시간) 미겔 디아스카넬 쿠바 대통령과 배우자, 라울 카스트로 전 대통령의 아들 및 손자 등을 제재 명단에 올렸다."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n0aa0d5fe",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605007300052",
+    "title": "부산·울산·경남 가끔 구름 많아…일부 아침 안개",
+    "summary": [
+      "(창원=연합뉴스) 박정헌 기자 = 금요일인 5일 부산·울산·경남은 가끔 구름이 많겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n18127b68",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "19분 전",
+    "url": "https://view.asiae.co.kr/article/2026060414395627891",
+    "title": "[부의승계]인탑스①기업가치 제고 안하면서…저평가 틈타 지분 매입하는 오너 2세",
+    "summary": [
+      "코스닥 상장사 인탑스의 주가 저평가 상태가 장기간 지속되면서 주주들의 불만이 고조되고 있다.",
+      "실적이 급증하고 로봇 등 성장산업에 진출하고 있음에도 적극적인 주주가치 제고 방안을 내놓지 않고 있다는 지적이다.",
+      "이런 상황에서 오너 2세는 꾸준히 지분을 매입하고 있는 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nddc9164f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "29분 전",
+    "url": "https://www.hankyung.com/article/202606058456g",
+    "title": "버팔로 트레이스, 신세계 강남서 팝업…한정 에디션 선보여",
+    "summary": [
+      "버팔로 트레이스, 신세계 강남서 팝업…한정 에디션 선보여."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -640,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
