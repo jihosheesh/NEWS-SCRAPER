@@ -1,15 +1,32 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-04 16:07:19
+// 마지막 업데이트: 2026-06-04 17:51:37
 window.NEWS_DB = [
   {
-    "id": "nb9d37a20",
+    "id": "n5a1c78c5",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNam1KZ29JWi1kbzlfMHBQcFVJZTlhQ3ZqZURrRGI5WmNGMG9yWkRXNnoxaHl5YmNfcG9qLW9uM3BPUE9oLUdnbU1GN2ZmRE9JVTVpb2g5VWM4YXZ5SllhcUFiRGNOTWdoeXE4ZNIBckFVX3lxTE56Vk1KMHZNMXBsNHN0TXBzRlpKbW9MOU9vSXNpOHluLWZBaWFTa0k4UHBHNjZqS3dBN18xaWM5dFljRm42aFdCSURLUUtoRHV6bzVMN0h1VmhFQkVsY2UtbU92aVlMZWwwVzZ3NWZ2OUV4dw?oc=5",
-    "title": "최태원, 엔비디아·TSMC·폭스콘 수장과 연쇄 회동…AI 동맹 넓힌다 - 머니투데이",
+    "source": "뉴스퀘스트",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jRldwcGZrZ2o3ZGplVGN3dENPblFWY0xZMllKVWY1U2wxNmNKNFFzQm5HREc3NUZtVzFGaDVXY1RXVFVzRmVGbU5ZQWtDTjVXUklBbWZSNDdsdkkxYmpvR2pTZHFzaDI2LUtNcXdtY1IwMGPSAXNBVV95cUxPY0ZXcHBma2dqN2RqZVRjd3RDT25RVmNMWTJZSlVmNVNsMTZjSjRRc0JuR0RHNzVGbVcxRmg1V2NUV1RVc0ZlRm1OWUFrQ041V1JJQW1mUjQ3bHZJMWJqb0dqU2Rxc2gyNi1LTXF3bWNSMDBj?oc=5",
+    "title": "공급망의 SK하이닉스 vs. 통합 기술의 삼성전자…HBM 패권 경쟁 새 국면",
     "summary": [
-      "최태원, 엔비디아·TSMC·폭스콘 수장과 연쇄 회동…AI 동맹 넓힌다 - 머니투데이 머니투데이."
+      "공급망의 SK하이닉스 vs.",
+      "통합 기술의 삼성전자…HBM 패권 경쟁 새 국면 뉴스퀘스트."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n2469bd9f",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "9시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lS2dkeVlfTzh3YzM3ZmRuelJOVDdtM0tYSWkyN21LN2s5bFVPMnppMXpVajd1ZjN5cTEwWE44Q19iQWlHZmlqV1h6UzZNZm12UFhHSTA2VjM4UdIBVEFVX3lxTE1vbklwREZfREVpMXBvU3d4aENOemY2enMwVlV2dzd3UUNDeG5PdHNkUnFZNUpBaWFuaXV4dDhjb2psc3E5RTRKaGNZRHVVTDRqZm1xaA?oc=5",
+    "title": "\"엔비디아 의존 줄여라\"…K-AI칩 생태계 커진다",
+    "summary": [
+      "\"엔비디아 의존 줄여라\"…K-AI칩 생태계 커진다 한국경제."
     ],
     "chips": [
       "#AI",
@@ -20,7 +37,7 @@ window.NEWS_DB = [
     "id": "n5cae89cd",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMElabXNNb3RKeTd1TnJMR3R1VnczV2xfWDhpaEhaci1GYWFrRFhtdERHckhvc0FoNGVPcHZIdTdPRDI1WEhPdVVBY0tiOUZWT2FQX1duQTdleFNGdVpBSFBRUVdtaGpCSl9XY3JUVFhpYm1aNVY2Tlo5RFFpX2x4MXBB0gGWAUFVX3lxTFBHYWpENE1LWEJKRkRzMFJUdmZvVEZ6UU9LU3VVMHpaalhVWUZqOWVBVGpYNGkzM1hONGpqNThjTlFVQVAwSGxtUXJwSkVMTWpXNlBXX3l1R2ZjR0dtUkhnZTNBMWc2SGhOQy1oQm5Pb2RJNlB2SmpVaTBJTUo0eVpBQ1BVdDZPM1FnOWR5YTY1RjQ5TGQ4Zw?oc=5",
     "title": "배경훈 부총리 “국산 AI 반도체, 해외서 3000만달러 수출… 엔비디아 버금가는 기술력” - 조선비즈",
     "summary": [
@@ -37,7 +54,7 @@ window.NEWS_DB = [
     "id": "nbcccb229",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iOXlZN21icV9VY1RyYnN6MHg0VnV6cjZMRUJHY0ZocUxyVVVFVlpBR2dwdDV0UWdzanJsMVdqendMeENNbTZzNnMwb3UtdE1MNG1ibkJya0dYRkHSAWBBVV95cUxOMHliOEItM3NyRkt6elAwYnE5cGJRd1kzai1ab3A4TVZWNzJvUi1jdFQ4ZmVraG5KajhCMDROSE1pWDNfRTR2YjJvMkViMUN4aTBpc3F5OEdxUTdjVy1fUy0?oc=5",
     "title": "국산 AI반도체 400여억 수출…배경훈 \"엔비디아급 기술력\"(종합)",
     "summary": [
@@ -108,21 +125,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "na0f523e8",
-    "category": "IT",
-    "source": "이코노미트리뷴",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
-    "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
-    "summary": [
-      "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는 이코노미트리뷴."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -213,17 +215,20 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n35b9d663",
+    "id": "n00c2ed38",
     "category": "경제",
-    "source": "KB Think",
+    "source": "비즈니스포스트",
     "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
-    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81RldwenFscGVxbmtVNXB3UmxIZndtYThpLThIUDMzNUN6M3ozZE5aVUd6TTVQSnc0ZjZyLUZzbDhNdUpPNTg4bl9oQjdmeXRNUVR4SVNsbGhqVWE2N05qZGxVbXNJQmlMOE00WGhvOVZtRGs?oc=5",
+    "title": "[박혜린 기자의 내돈내굴] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유",
     "summary": [
-      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
+      "[박혜린 기자의 내돈내굴] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유 비즈니스포스트."
     ],
     "chips": [
-      "#뉴스"
+      "#삼성전자",
+      "#SK하이닉스",
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -363,10 +368,41 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0e74f9ba",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/05/G5RTCOBWGQ2TGNLCMFRGIYZXMQ/",
+    "title": "'아직 더 지켜봐야 하나' 김서현 멀티이닝 소화, KKK 무실점은 했는데…사사구 3개는 숙제",
+    "summary": [
+      "[OSEN=조은혜 기자] 프로야구 한화 이글스 김서현이 퓨처스리그 등판에서 멀티이닝을 소화해 무실점을 기록했다.",
+      "결과는 나쁘지 않았지만 내용에는 아쉬움이 남았다.김서현은 4일 충남 서산구장에서 열린 2026 메디힐 KBO 퓨처스리그 상무야구단과의 홈경기에서 한화의 세 번째 투수로 등판해 2이닝 2피안타 3사사구 3탈삼진 무실점을 기록했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n0d61d0ac",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/05/2026060502305993217",
+    "title": "육상코치부터 캐나다 가이드까지…'나솔사계' 솔로녀 정체 공개",
+    "summary": [
+      "짝 출신 솔로녀들의 자기소개가 공개된 가운데 캐나다 밴쿠버 거주 투어가이드부터 전직 육상선수까지 다채로운 이력과 솔직한 이상형이 눈길을 끌었다.",
+      "4일 방영된 SBS Plus '나는 SOLO, 그 후 사랑은 계속된다(나솔사계)'에서는 과거 연애 프로그램 '짝' 출연자 출신 솔로녀들의 자기소개가 공개됐다.",
+      "먼저 여자 1호는 1985년생, 41세라고 자신을 소개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "naf697506",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "21분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152371",
     "title": "젠슨 황 이어 앤트로픽도 찾는다...'AI 기술력'에 거물들 몰리는 네이버",
     "summary": [
@@ -381,259 +417,231 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nff235064",
+    "id": "n20730b53",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/05/ME4TGNTFGRSWKYLBMJSTSOJVGA/",
-    "title": "“쏘니 월드컵 32강 가면 LA에서 경기할 수 있다!” 손흥민 응원에 진심인 LAFC",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/05/HFQWGOBUMRSDSZBVGEYTKZLDMY/",
+    "title": "LG 1위 지킨 홍창기의 동점타, “5타수 5삼진 먹는다는 생각 갖고 타석에 들어갔는데 신기하게 안타가 나왔다” [오!쎈 수원]",
     "summary": [
-      "[OSEN=서정환 기자] 손흥민(34·LAFC)의 LAFC가 한국대표팀을 응원한다.",
-      "LAFC는 “손흥민이 대한민국 대표팀 주장으로 네 번째 월드컵 무대에 나선다.",
-      "MLS 어떤 구단보다 많은 4명의 선수를 월드컵에 보내지만 중심에는 손흥민이 있다”고 강조했다.한국은 북중미 월드컵 조별리그 A조에서 체코, 멕시코, 남아프리카공화국과 맞붙는다."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n1d54100e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/05/2026060423122859385",
-    "title": "\"카메라 꺼지면 마약·폭음\" 리얼리티쇼 스캔들 폭로한 '19금' 女 인플루언서 \"남친 복싱 경기 구경 가야지\" 시선 강탈 예고",
-    "summary": [
-      "독일 리얼리티 TV 프로그램 촬영 현장의 마약과 알코올 남용 실태를 폭로해 거센 파장을 일으켰던 유명 '온리팬스' 모델 안토니아 로트(26)가 남자친구이자 복서 올리버 깅켈(28)의 경기를 위해 공개석상에 나선다.",
-      "영국 '더선'은 4일(한국시간) \"TV쇼의 마약 스캔들을 수면 위로 끌어올린 안토니아가 오는 6일 열리는 '페임 파이팅 대 미스핏츠 복싱' 크로스 프로모션 대회에 출전하는 깅켈을 응원하기 위해 경기장을 찾는다\"고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4aee5bdb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003656702",
-    "title": "\"너무 더워\" 빵빵 튼 에어컨…급성심근경색 '주의'",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 연일 낮 최고기온이 30도를 넘어서는 폭염이 이어지고 있다.",
-      "이런 날씨에는 땀을 자주 흘려 탈수 증상까지 더해지면서 혈액 점도가 높아져 일명 피떡, '혈전'이 발생하기 쉬워 급성심근경색에 노출되기 쉽다.",
-      "심근경색과 같은 심혈관질환은 기온이 떨어져 혈관이 수축되는 겨울철에만 조심해야 한다고 생각하기 쉽지만 실제로는 여름철 환자가 더 많은 만큼 고령자와 만성질환자의 경우 각별한 주의가 필요하다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n55af278b",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003656643",
-    "title": "\"셀카 한 장으로 지문 유출?\"…AI 지문 해킹, '공포 vs 과장'",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 소셜미디어(SNS)에서 손가락으로 브이(V) 포즈를 취한 셀카 한 장만으로도 지문이 유출될 수 있다는 주장이 퍼지면서 보안 우려가 커지고 있다.",
-      "일부 AI 및 보안 전문가들은 실제로 위험이 존재할 수 있다고 경고하는 반면, 다른 전문가들은 \"스파이 영화 수준의 과장된 공포\"라며 가능성을 낮게 보고 있다.",
-      "3일(현지 시간) 뉴욕포스트는 지문 유출 논란의 시작이 중국 방송에서 공개된 한 보안 시연 영상이라고 보도했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n5f0ea453",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604181451081",
-    "title": "'페르세폴리스' 작가 사트라피 별세…\"자유를 사랑한 예술가\"(종합)",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 자전적 그래픽 소설 '페르세폴리스'로 유명한 이란 출신 작가이자 영화감독 마르잔 사트라피가 56세의 나이로 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n18373e14",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026060413021488793",
-    "title": "새로운 골프 축제 vs 그들만의 잔치…'LIV 골프 독자 생존 가능성'",
-    "summary": [
-      "LIV 골프에 대한 평가가 엇갈리고 있다.",
-      "새로운 골프 축제의 장을 열었다는 호평과 함께 돈잔치에 불과한 '그들만의 투어'라는 쓴소리도 나오고 있다.",
-      "지난달 31일 부산 아시아드 컨트리클럽(파70)에서 끝난 LIV 골프 코리아에서도 이 모습이 그대로 드러났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e2660ae",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/05/MYYTEOLBGJSTMNZXHBRDANZVGE/",
-    "title": "'한화전 2승1무' 두산, 5할 복귀 보인다…김원형 감독 \"두 번 중단 악조건 속에서도 선수들이 끝까지 집중\" [오!쎈 잠실]",
-    "summary": [
-      "[OSEN=잠실, 조은혜 기자] 프로야구 두산 베어스가 한화 이글스와의 3연전을 2승1패로 마무리했다.김원형 감독이 이끄는 한화는 4일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 한화 이글스와의 홈경기에서 3-1로 승리했다.",
-      "이날 승리로 위닝시리즈를 챙긴 두산은 시즌 전적 27승28패2무를 만들고 5할 복귀를 눈앞에 뒀다.선발 잭로그가 4이닝."
+      "[OSEN=수원, 홍지수 기자] 프로야구 LG 트윈스가 상대 실책을 놓치지 않는 집중력을 앞세워 선두 자리를 굳게 지켰다.LG는 4일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 KT 위즈와 원정 경기에서 7-5로 승리했다.",
+      "시즌 35승 21패를 기록한 LG는 단독 선두를 유지했고, 33승 22패 1무의 KT는 선두 추격 기회를 살리지 못했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n183d70d9",
+    "id": "n0ab782c8",
     "category": "사회",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/05/MU2GINRYMJQWIOJZGA2WEOLFGM/",
+    "title": "\"우리의 첫 번째 영입은 무리뉴 & 코나테\" 페레스 레알 회장, 직접 밝혔다",
+    "summary": [
+      "[OSEN=정승우 기자] 플로렌티노 페레스(79) 레알 마드리드 회장이 조세 무리뉴(62) 감독 복귀와 이브라히마 코나테(27) 영입을 차기 프로젝트의 핵심으로 내세웠다.스페인 '아스'는 4일(한국시간) 레알 마드리드 회장 선거를 앞둔 페레스 회장과의 인터뷰를 공개했다.",
+      "페레스는 재선에 성공할 경우 대대적인 전력 보강과 함께 무리뉴 감독 선임을 추진하겠다고."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n96df8921",
+    "category": "경제",
     "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003657080",
-    "title": "푸틴 측근 \"미·러, 5일 베링해협 해저터널 협정 체결 예정\"",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657084",
+    "title": "美 30년 만기 주택 대출 금리 6.48%…전주比 0.05%p ↓",
     "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미국과 러시아가 양국 영토를 연결하는 베링해협 해저터널 설계를 계속하기 위한 협정이 곧 체결될 것이라고 러시아 측이 밝혔다.",
-      "타스통신 등에 따르면 키릴 드미트리예프 러시아 대통령 대외 투자·경제 협력 부문 특별 대표 겸 러시아직접투자기금(RDIF) 최고경영자(CEO)는 4일(현지시간) 상트페테르부르크 국제경제포럼(SPIEF)에서 러시아 매체 즈베즈다에 이같이 밝혔다.",
-      "그는 \"터널과 관련해 내일 소식이 있을 것\"이."
+      "[서울=뉴시스] 이재우 기자 = 미국 장기 주택담보대출(모기지) 평균 금리가 소폭 하락했다.",
+      "AP통신에 따르면 미국 국책 담보대출업체인 프레디맥은 4일(현지시간) 발표한 주간 모기지 시장 조사(PMMS)에서 기준 지표인 30년 만기 고정 모기지 금리가 평균 6.48%로 전주 6.53% 대비 0.05%포인트 하락했다고 밝혔다.",
+      "30년 만기 모기지 금리는 이란 전쟁 장기화로 국제 유가가 상승하면서 오름세를 보이고 있다."
     ],
     "chips": [
-      "#정치"
+      "#금리"
     ]
   },
   {
-    "id": "n09bd88a4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/politics/election2026/2026/06/06/UKRVNW2RJBB4PCKTGHC753GNK4/",
-    "title": "국힘서 터져나온 장동혁 사퇴론… 張은 “희망 불씨 지켜냈다”",
-    "summary": [
-      "국힘서 터져나온 장동혁 사퇴론… 張은 “희망 불씨 지켜냈다”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6440aad7",
-    "category": "사회",
+    "id": "n6e289068",
+    "category": "경제",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605000600071",
-    "title": "\"평양 김일성광장 공사 정황…시진핑 방북 준비 가능성\"",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605001800085",
+    "title": "주영대사 \"찰스3세, 방산 등 한영 간 산업협력·무역에 관심\"",
     "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 북한 수도 평양 한복판의 김일성광장에서 공사가 진행되고 있는 정황이 있으며 시진핑 중국 국가주석의 방북 가..."
+      "(런던=연합뉴스) 김지연 특파원 = 찰스 3세 영국 국왕이 한국과 영국의 방위산업을 비롯한 산업 협력과 무역 증진에 대한 관심과 희망을 표시했다..."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "n5673a7ae",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604200600099",
-    "title": "소말리아 대통령 임기 연장 놓고…정부군·야권 무력충돌",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 소말리아 수도 모가디슈에서 정부군과 야권 지지 민병대가 무력 충돌하면서 긴장이 고조되고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7454163b",
-    "category": "사회",
+    "id": "naec8987d",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/national/education/2026/06/05/3SCMXJEOPFEIZOZD3GPR6IROEQ/",
-    "title": "폭행·음주운전… 교육감 당선인 3명이 전과자",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/05/MJRTQMLDMMYGCZJZMQ4DIOLEGU/",
+    "title": "\"한국 문화는 지시받고 하는데…\" KBO 타격 1등은 다르다, 이정후 보고 감탄 또 감탄한 SF 해설가들 왜?",
     "summary": [
-      "폭행·음주운전… 교육감 당선인 3명이 전과자."
+      "[OSEN=이상학 객원기자] KBO리그 통산 타율 1위(.340)에 빛나는 이정후(27·샌프란시스코 자이언츠)가 메이저리그 3할 타자로 거듭났다.",
+      "샌프란시스코 올스타 출신 해설가들도 이정후의 활약에 연신 감탄했다.",
+      "이정후는 지난 4일(이하 한국시간) 미국 위스콘신주 밀워키 아메리칸패밀리필드에서 치러진 2026 메이저리그 밀워키 브루어스와의 원정경기에 5번."
     ],
     "chips": [
-      "#교육"
+      "#KBO"
     ]
   },
   {
-    "id": "n3e014043",
+    "id": "nef21c0b1",
     "category": "경제",
     "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/05/2026060417302496198",
-    "title": "\"얼굴에 소금 뿌리더라\" 에녹, 시한부 父 위해 생계 알바 '고백'",
+    "time": "41분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/05/2026060501362077327",
+    "title": "\"캐리어 안 들어줘서 탈락\"…'나솔♥짝' 첫인상 선택에 '희비'",
     "summary": [
-      "트로트 가수 에녹이 위암 말기 판정을 받은 아버지와 가족의 생계를 책임졌던 힘겨운 시절을 고백했다.",
-      "4일 방영된 KBS2 '신상출시 편스토랑' 325회에서 트로트 가수 손태진, 진원, 에녹이 출연해 진솔한 이야기를 나눴다.",
-      "이날 손태진은 에녹에게 \"형 부모님께 효도한 지 오래되지 않았냐\"고 묻자 에녹은 힘들었던 과거를 떠올렸다."
+      "17기 영수와 여자 4호가 첫인상 쌍방 선택에 성공한 반면 12기 영철은 유일하게 선택을 받지 못하며 희비가 엇갈렸다.",
+      "4일 방영된 SBS Plus '나는 SOLO, 그 후 사랑은 계속된다(나솔사계)'에서는 과거 연애 프로그램 '짝' 출연 여성들과 '나는 솔로' 출연 남성들의 첫인상 선택 결과가 공개됐다.",
+      "이날 여성 출연자들은 종을 치는 방식으로 첫인상 선택을 진행했다."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "na028993d",
+    "id": "n18444386",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605001700099",
+    "title": "민주콩고, 에볼라 확진자 증가 속 장례 규제 반발 커져",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)과 우간다에서 에볼라 확진자가 계속 증가하는 가운데, 방역 당국의 장..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n75e421df",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "45분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/05/2026060502004425981",
+    "title": "블랙스톤도 사모대출펀드 환매 5%로 제한…월가 건전성 우려 지속",
+    "summary": [
+      "글로벌 사모대출 시장을 둘러싼 건전성 우려가 가중되는 가운데 월가의 대표적 투자운용사인 블랙스톤이 사모대출펀드 환매를 제한하고 나섰다.",
+      "블랙스톤은 4일(현지시간) 투자자 서한을 통해 자사의 대표 사모대출 펀드(BCRED)와 관련, 올해 2분기 중 전체 펀드 지분의 약 10%에 달하는 환매 요청이 접수됐지만 내부 규정에 따라 환매 상한을 5%로 제한했다고 밝혔다.",
+      "블랙스톤은 지난 1분기 BCRED 펀드 지분의 7.9% 수준이었던 환매 요청에 대해."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc792ff23",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "33분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/05/2026060500104631574",
-    "title": "두산 살린 '슈퍼 캐치' 박치국 \"스퀴즈 번트 생각하고 있었다\" [잠실 현장]",
+    "time": "50분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/05/2026060422363329220",
+    "title": "\"네 전 약혼녀에게 DM 보냈거든?\" 불륜→파혼남 복서 향해 '막장 도발쇼'... 코치와 입맞춤 합성 사진도 유포",
     "summary": [
-      "\"스퀴즈를 생각하고 있었다.\" 두산 투수 박치국(28)이 '슈퍼 캐치'로 팀 승리를 지켜낸 소감을 전했다.",
-      "박치국은 4일 서울 잠실구장에서 열린 한화 이글스와 경기에서 3-1로 승리한 뒤 구단을 통해 \"타이트한 상황에 등판했기 때문에 무엇보다 주자를 내보내지 말고 큰 것만 안 맞으면 된다고 생각했다.",
-      "무조건 막아야 팀이 이길 수 있다는 생각밖에 없었다\"고 말했다."
+      "두 복서가 맞대결을 앞두고 치열한 장외 심리전을 벌이고 있다.",
+      "둘의 갈등 중심에는 알렉스 페트로비치의 전 약혼녀이자 유명 인플루언서인 바네사 느와투가 있다.",
+      "영국 '더선'은 2일(현지시간) \"페트로비치와 체이스 드무어가 경기 전부터 전 연인을 둘러싼 감정싸움이 격화하고 있다\"고 보도했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n05a109ac",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "34분 전",
-    "url": "https://www.hankyung.com/article/2026060483761",
-    "title": "미래에셋, 5일부터 스페이스X 공모주 청약",
+    "id": "n8d4351f3",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657079",
+    "title": "국제 유가, 트럼프 이란戰 확전 자제 시사에 하락세…브렌트유 3% ↓",
     "summary": [
-      "미래에셋, 5일부터 스페이스X 공모주 청약."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba807602",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "35분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/05/2026060500230561901",
-    "title": "외신 \"6·3 지방선거, 이대통령 리더십 확인…서울 패배는 타격\"",
-    "summary": [
-      "6·3 지방선거에서 더불어민주당이 전국 16개 광역단체장 중 12곳을 휩쓴 데 대해 주요 외신들은 이재명 대통령의 높은 지지율이 여당 승리의 견인차 역할을 했다고 분석했다.",
-      "다만 최대 격전지인 서울시장 선거를 야당인 국민의힘에 내어주면서 여당의 완전한 승리 기세는 다소 퇴색했다는 평가도 함께 나왔다.",
-      "뉴욕타임스(NYT)는 4일(현지시간) \"이번 선거는 이 대통령의 리더십에 대한 국민투표로 여겨졌다\"며 \"이 대통령은 1년 전 취임한 이후 실용 외."
+      "[서울=뉴시스] 이재우 기자 = 국제 유가가 4일(현지시간) 도널드 트럼프 미국 대통령이 이란과 전면전을 다시 시작하는 데 소극적이라는 보도 이후 3% 안팎 하락했다.",
+      "CNBC에 따르면 이날 낮 12시41분 서부텍사스산중질유(WTI) 7월물 선물 가격은 배럴당 92.59달러로 전 거래일 대비 3.43달러(3.57%) 하락했다.",
+      "국제 유가의 기준인 브렌트유 8월물 선물도 배럴당 94.85달러로 같은 기간 2.96달러(3.03%) 떨어졌다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n3d2ba3a1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604200300108",
-    "title": "\"미·러, 베링해협 '푸틴-트럼프' 터널 협정 체결 예정\"",
+    "id": "n86cb8e67",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657082",
+    "title": "'페르세폴리스' 작가 사트라피 별세…이란 여성·인권 대변",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 미국과 러시아가 양국 영토를 잇는 베링해협 해저터널 설계를 위한 협정을 곧 체결한다고 러시아 매체 즈베즈..."
+      "[서울=뉴시스] 이재우 기자 = 1979년 이란 혁명 이후 이란 여성이 받은 억압을 다룬 자전적 그래픽 소설 '페르세폴리스'로 유명한 이란계 프랑스 작가이자 영화감독 마르잔 사트라피가 56세로 사망했다고 4일 AP통신 등이 보도했다.",
+      "사트라피 측근은 AFP통신에 \"사트라피가 남편이자 ‘평생의 사랑’이었던 (스웨덴 출신 영화 감독이자 배우였던) 마티아스 리파의 사망 이후 1년여 만에 슬픔 속에서 세상을 떠났다\"고 전했다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nef2b14ea",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605001500082",
+    "title": "AI 붐에 밀려난 독일차…포르쉐 지주사 DAX지수서 퇴출",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 독일 자동차업체 폭스바겐과 포르쉐 지주회사가 주가 하락으로 독일 증시 우량주를 모은 닥스(DAX) 지수에서..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n8d4ee37a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605001300071",
+    "title": "전직 주한美대사들 \"李정부가 反美? 동의못해…한미동맹가치 이해\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 전직 주한미국대사들이 4일(현지시간) 이재명 정부가 '강경 좌파' 성향이며 미국보다 중국에 기울어있다는 월..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1ad0e349",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260605/134053827/1",
+    "title": "美 볼턴, 퇴임 후 기밀 정보 보관 혐의 인정…벌금 200만달러 낼 듯",
+    "summary": [
+      "존 볼턴 전 백악관 국가안보보좌관이 4일(현지시간) 퇴임 후 기밀 정보를 보관한 혐의에 대해 유죄를 인정하는데 합의했다고 MS NOW가 보도했다.볼턴 전 보좌관은 연방 검찰과 형량 거래에서 단일 혐의에 대해 유죄를 인정하는 대신 최대 60개월의 징역형과 225만달러 벌금형에 처해질 수 있는 것으로 알려졌다.",
+      "볼턴 전 보좌관이 유죄를 인정한 기밀 정보는 그의 개인 일기 형태의 기록에 포함돼 있었던 것으로 전해졌다.CNN도 볼턴 전 보좌관이 국가안."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c1a9098",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260605/134053821/1",
+    "title": "“셀카 한 장으로 지문 유출?”…AI 지문 해킹, ‘공포 vs 과장’",
+    "summary": [
+      "소셜미디어(SNS)에서 손가락으로 브이(V) 포즈를 취한 셀카 한 장만으로도 지문이 유출될 수 있다는 주장이 퍼지면서 보안 우려가 커지고 있다.",
+      "일부 AI 및 보안 전문가들은 실제로 위험이 존재할 수 있다고 경고하는 반면, 다른 전문가들은 “스파이 영화 수준의 과장된 공포”라며 가능성을 낮게 보고 있다.3일(현지 시간) 뉴욕포스트는 지문 유출 논란의 시작이 중국 방송에서 공개된 한 보안 시연 영상이라고 보도했다.",
+      "해당 영상에서는 금융 전문가 리."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -643,20 +651,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
