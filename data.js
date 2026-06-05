@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-05 18:36:11
+// 마지막 업데이트: 2026-06-05 19:32:46
 window.NEWS_DB = [
   {
     "id": "n08478446",
     "category": "IT",
     "source": "굿모닝베트남미디어",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQmFsNnFfVzQ3akNyMHdTbHBlUHkzdWZENUNhTkZrX18zN2NqcXhWa1lPT1g3R0RBY3UxVWNwWjY2T0N6NHFUcjBCcWpxdFB1MFlvR2lTSk82Uk15QlFLSFZoS29idEdKd0pfVkZXTmI?oc=5",
     "title": "[산업·AI] 젠슨 황 엔비디아 CEO, 한국 공략 강화…“AI·반도체·로봇 협력 확대”",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nc3609b09",
     "category": "사회",
     "source": "브런치",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NDMyV3FJOVJzMUxNRXFOY3NYZ1ZIX0diNXVxNXRQUFRHZ0JyS0otb25zT3R3SGhEOUZaYWxaYlBEanZXWDhZSTYzcDU4TW82NmdZ?oc=5",
     "title": "중장년 지원금 신청 (재취업,고용,채용,일자리,취업)",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "n4fb4270f",
     "category": "IT",
     "source": "마켓인",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zQ3Z0X0t6TWdDYS1VWUhicnR5bTM3b3E5eXdocncxQ3lhRnhJRUFOUnd0TUlzZ0JLdEluZzlrSGhFOXBZSlRlTDFYS3NWRlhxdlU4Z3VDYTFxaFBGM1lJOGg2T3h0MWEwZE03b0daRlVVajA?oc=5",
     "title": "“반도체 우려 과도…SOCAMM 축소는 수요 둔화 아닌 공급 부족”",
     "summary": [
@@ -140,20 +140,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3bb73fa",
-    "category": "경제",
-    "source": "헤럴드경제",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
-    "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -212,6 +198,37 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n4654c9cf",
+    "category": "사회",
+    "source": "네이버 프리미엄콘텐츠",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVZYTFU0VmZOZzExd2xHZVJ2UkVFb1d0WVB6SGx0MHRHdmZEMHlOT091cmNZOFFwME9CeTdiZWNHdU1Nc0stZ3VzYUxPcUJqcWNLcEFFX1M0YWRHX0V3Zy1fZTdCZlJfMlpUMXFOaGV0dktDbHhuWXRGVldoQXhYbUxwMmdHWWNjd1loWHRB?oc=5",
+    "title": "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
+    "summary": [
+      "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기 네이버 프리미엄콘텐츠."
+    ],
+    "chips": [
+      "#네이버",
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n35b9d663",
+    "category": "경제",
+    "source": "KB Think",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
+    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
+    "summary": [
+      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n00c2ed38",
     "category": "경제",
     "source": "비즈니스포스트",
@@ -226,21 +243,6 @@ window.NEWS_DB = [
       "#SK하이닉스",
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
     ]
   },
   {
@@ -335,10 +337,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n60993f9b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658607",
+    "title": "이란 최고지도자 군사고문 “240억 달러 동결 자산 해제가 협상 관건”",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 미국과 이란간 평화 협상은 도널드 트럼프 행정부가 동결된 이란 자산 240억 달러(약 37조 4100억원)를 해제하는데 동의하는지 여부에 달려 있다고 이란 최고 지도자의 군사고문이 5일(현지 시각) CNN과의 인터뷰에서 밝혔다.",
+      "아야톨라 모즈타바 하메네이 최고지도자의 군사고문인 모흐센 레자이는 테헤란에서 CNN과 가진 단독 인터뷰에서 이같이 밝혔다.",
+      "레자이 고문은 “협상이 교착 상태에 빠졌고 트럼프 대통령이 타개."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbcd3f1c8",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606005100072",
+    "title": "국제유가, 중동 긴장완화 기대감에 하락…WTI 2.7%↓",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란 간 긴장 완화 기대감에 5일(현지시간) 국제유가가 하락했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n32008004",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "23분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152398",
     "title": "[기자수첩] 재미에는 '효율'이 없다",
     "summary": [
@@ -351,10 +383,89 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb8bc97b7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657669",
+    "title": "\"1억3000만원으로 키 8㎝ 연장, 후회 없다\"…'사지연장술' 받은 美 변호사",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 미국의 한 변호사가 키를 175㎝에서 183㎝로 늘리기 위해 사지연장술을 받았다.",
+      "지난 3일(현지시간) 영국 메트로는 미국 마이애미에 거주하는 변호사 휴고 라미레즈가 수술을 통해 키를 늘렸고, 추후 190㎝가 되기 위해 두 번째 수술까지 받을 예정이라고 보도했다.",
+      "라미레즈는 직장에서 느껴지는 시선 때문에 수술을 결심했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04f16e16",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003658343",
+    "title": "대구·경북 낮 최고 30도 안팎 무더위…미세먼지 '좋음'",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 현충일이자 토요일인 6일 대구와 경상북도는 대체로 맑다가 오전부터 가끔 구름이 많아질 것으로 예상된다.",
+      "대구지방기상청은 이날 \"낮 기온이 30도 안팎으로 올라 덥겠고, 낮과 밤의 일교차가 15도 안팎으로 크겠다\"고 예보했다.",
+      "아침 최저기온은 10~15도(평년 11~17도), 낮 최고기온은 24~30도(평년 22~29도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5809a6e4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "32분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/06/GU3WIYJUMNSWMMJVGUYDGOJUHA/",
+    "title": "[데스크 칼럼] 현실화되는 파업만능주의",
+    "summary": [
+      "노란봉투법(노동조합 및 노동관계조정법 개정안) 논의가 처음 시작된 2022년, 경영계에선 노란봉투법이 도입되면 파업이 급증할 것이란 우려가 많았다.",
+      "법안은 윤석열 정부에서 두 차례 폐기된 후 세 번째 시도에 국회를 통과했고 올해 3월 10일부터 시행됐다.",
+      "법안 논의 과정에서 나왔던 우려는 삼성전자를 시작으로 점점 현실이 되는 모습이다."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n935b1e02",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606004500002",
+    "title": "달러-원, 美 반도체주 급락에 공포 전이…1,560원선도 뚫렸다",
+    "summary": [
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 또다시 급등하며 1,560원 선에 육박했다."
+    ],
+    "chips": [
+      "#반도체",
+      "#환율"
+    ]
+  },
+  {
+    "id": "ne3fa436b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "57분 전",
+    "url": "https://www.chosun.com/video_photo/2026/06/06/KURMTWQP2JAPRNJ3ZALLVRXGDU/",
+    "title": "[더 한장] “재선거” 외치는 새벽의 올림픽공원 가보니",
+    "summary": [
+      "[더 한장] “재선거” 외치는 새벽의 올림픽공원 가보니."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n5a06d3bc",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260606004000071",
     "title": "美, 한국에 1천650억원 규모 합동직격탄 수출 승인 결정",
     "summary": [
@@ -368,7 +479,7 @@ window.NEWS_DB = [
     "id": "ne872cb1f",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/baseball/2026/06/06/GU2DEYTEGQYDAN3EGFQWCNTFMY/",
     "title": "‘과학으로 설명 불가’ 퇴출 위기→효자 외인타자 우뚝, 여름 대활약 예고했다 “날씨가 뜨거워질수록 타구 멀리 뻗는다”",
     "summary": [
@@ -384,7 +495,7 @@ window.NEWS_DB = [
     "id": "n73697cc8",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260606_0003658606",
     "title": "발칸 소국 몬테네그로, 2028년 28번째 EU 회원국 가능성",
     "summary": [
@@ -400,7 +511,7 @@ window.NEWS_DB = [
     "id": "n250ddbae",
     "category": "부동산",
     "source": "연합뉴스",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260606003600072",
     "title": "트럼프, 정보조직 '칼질' 맡기려 비전문측근 정보수장 발탁했나",
     "summary": [
@@ -411,97 +522,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n510b24ef",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606003900091",
-    "title": "비트코인 한때 6만달러선 무너져…트럼프 2기 당선 후 처음",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 가상화폐 시가총액 1위 종목인 비트코인 가격이 한때 6만 달러 아래로 떨어졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1832fef6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658603",
-    "title": "美전문가들 \"시진핑 방북, 북러 협력 심화 견제 의도\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 시진핑 중국 국가주석이 7년 만에 북한을 국빈방문하기로 한 배경에는 심화되는 북러관계를 견제하기 위한 계산이 깔려있다고 미국 전문가들은 분석했다.",
-      "빅터 차 전략국제문제연구소(CSIS) 한국 석좌는 5일(현지 시간) CSIS 팟캐스트 '캐피털 케이블'에서 시 주석의 방북에 대해 \"이는 중국이 남북관계에서 중요한 역할을 하려는 것이고, 거기에 더해 아마도 중국이 인식하기에 러시아가 북한과 하고있는 것을 견제하려는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6df15fea",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606003300071",
-    "title": "모즈타바 최측근 \"트럼프가 37조 동결 해제로 협상교착 풀어야\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 아야톨라 세예드 모즈타바 하메네이 이란 최고지도자의 군사고문인 모흐센 레자이는 5일(현지시간) 미국과 이란..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2a4e36ce",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "36분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003658191",
-    "title": "\"나는 닉스의 팬\"…트럼프, 현직 美 대통령 최초 'NBA 파이널' 직관 예고",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 도널드 트럼프 미국 대통령이 현직 미국 대통령 최초로 미국프로농구(NBA) 파이널 경기를 관람할 예정이다.",
-      "5일(현지시간) 미국 AP통신은 트럼프 대통령이 뉴욕 닉스 구단주 제임스 돌란의 초청을 받아 다음 주 매디슨 스퀘어 가든에서 열리는 '2025~2026시즌 NBA 파이널' 경기 3차전 및 4차전 관람을 고려 중이라고 보도했다.",
-      "2025~2026시즌 NBA 파이널에는 뉴욕 닉스와 샌안토니오 스퍼스가 진출했."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc44f324a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "36분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/06/WC73BOP23NGO7IH7M5OOWZNYI4/",
-    "title": "속초에서 블라디보스토크까지 23시간… ‘마지막 연결선’을 타다",
-    "summary": [
-      "속초에서 블라디보스토크까지 23시간… ‘마지막 연결선’을 타다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c41e4ae",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "36분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/06/JBM2D5CNARA4DO22ZK3FK5H7TQ/",
-    "title": "박완서가 쓴 노년의 연애, “정욕 없는 사랑은 겉멋일 뿐”",
-    "summary": [
-      "박완서가 쓴 노년의 연애, “정욕 없는 사랑은 겉멋일 뿐”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n58f085fb",
     "category": "사회",
     "source": "조선일보",
-    "time": "36분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/culture-life/food-taste/2026/06/06/PU4CO3W465D7DM7HS56PY3JY2A/",
     "title": "제주도에서 홋카이도 최북단까지… ‘인생 우니’를 찾아서",
     "summary": [
@@ -509,22 +533,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n67dceea8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "57분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658605",
-    "title": "러, 아르메니아 친서방 방지 고심…7일 총선 앞두고 대량 허위 정보 유포",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 중앙아시아 아르메니아의 7일 총선을 앞두고 러시아가 허위 정보를 대량으로 유포하며 선거에 개입하고 있다고 뉴욕타임스(NYT)가 5일 보도했다.",
-      "이는 점차 친서방으로 기울고 있는 아르메니아에 대한 영향력을 유지하려는 노력의 일부다.",
-      "보도에 따르면 크렘린궁 및 정보기관과 연계된 단체들은 2018년부터 집권 중인 니콜 파시냔 총리(51) 정부의 친서방 노선을 막기 위해 총선을 앞두고 이례적으로 강력한 공개적 및 비공개."
-    ],
-    "chips": [
-      "#정치"
     ]
   },
   {
@@ -548,7 +556,7 @@ window.NEWS_DB = [
     "id": "nd2d7c638",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260605158351002",
     "title": "환율, 강달러에 한때 1,560원도 넘었다…금융위기 이후 최고(종합)",
     "summary": [
@@ -562,7 +570,7 @@ window.NEWS_DB = [
     "id": "n7b20a386",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260606/134060547/1",
     "title": "美국방부→전쟁부 개명 공식화되나…하원 군사위 통과",
     "summary": [
@@ -578,7 +586,7 @@ window.NEWS_DB = [
     "id": "n33eea204",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260606/134060544/1",
     "title": "레바논 대통령 “레바논은 이란의 것 아니다” 이례적 강력 비판",
     "summary": [
@@ -594,7 +602,7 @@ window.NEWS_DB = [
     "id": "nd2605e68",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260606/134060541/1",
     "title": "푸틴, 젤렌스키 공개 서한 통해 요청한 대면 회담 거부 “의미없어”",
     "summary": [
@@ -606,26 +614,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nadd8c5af",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/06/2026060601000423133",
-    "title": "'의문 사망' 16세 女축구 유망주, 경찰 추격 피하다 오토바이 참변... \"순찰차가 뒤서 박았다\" 증언에도 \"단순 미행일 뿐\"",
-    "summary": [
-      "16세 유망주 여자 축구선수가 오토바이를 타던 중 경찰의 추격을 받다 트럭과 충돌해 사망하는 비극적인 사고가 발생했다.",
-      "영국 '더선'은 5일(현지시간) \"아르헨티나 출신의 축구선수 과달루페 루드밀라 로사노가 코르도바 지역에서 경찰에 쫓기던 중 오토바이 충돌 사고로 치명상을 입고 세상을 떠났다\"고 보도했다.",
-      "매체에 따르면 사고 당시 오토바이에는 14세, 15세 동승자 두 명도 함께 타고 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n0e5587d8",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260606/134059948/2",
     "title": "긴장속 설레는 과달라하라… 현지인 “손흥민-이강인 좋아”",
     "summary": [
@@ -636,6 +628,22 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민"
     ]
+  },
+  {
+    "id": "nb3dc9573",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "2시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152395",
+    "title": "홍대 PC방에서 '페이커' 만난 젠슨 황 \"韓, 내게 특별한 나라\"",
+    "summary": [
+      "\"한국은 e스포츠의 탄생지입니다.",
+      "e스포츠를 만들었고, e스포츠를 관전하는 문화도 만들어냈죠.",
+      "한국은 오랫동안 제 마음속에 특별한 곳이었고, 엔비디아에게도 매우 중요한 나라였습니다."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
   }
 ];
 
@@ -643,9 +651,9 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "정치",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
@@ -655,7 +663,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "정치",
+    "tag": "뉴스",
     "mentions": "1680건",
     "trend": "+155%"
   }
