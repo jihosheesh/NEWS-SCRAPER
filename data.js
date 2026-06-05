@@ -1,25 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-05 16:47:10
+// 마지막 업데이트: 2026-06-05 17:35:17
 window.NEWS_DB = [
-  {
-    "id": "nc3df04c8",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YX1ZJR1Zwa2NVMXROMlo4YUtUZzRTRVpBT1VRVVV6bHNuQmZQRzN5WUdxekxVZFB4Uk1hWW5SeW9hcFkxZGtxYk8zaEtVZXpuWnRXdmljbkZjNl9m?oc=5",
-    "title": "삼성 승리 이끈 박승규의 슈퍼캐치, 5월 프로야구 최고 수비 선정",
-    "summary": [
-      "삼성 승리 이끈 박승규의 슈퍼캐치, 5월 프로야구 최고 수비 선정 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
   {
     "id": "n08478446",
     "category": "IT",
     "source": "굿모닝베트남미디어",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQmFsNnFfVzQ3akNyMHdTbHBlUHkzdWZENUNhTkZrX18zN2NqcXhWa1lPT1g3R0RBY3UxVWNwWjY2T0N6NHFUcjBCcWpxdFB1MFlvR2lTSk82Uk15QlFLSFZoS29idEdKd0pfVkZXTmI?oc=5",
     "title": "[산업·AI] 젠슨 황 엔비디아 CEO, 한국 공략 강화…“AI·반도체·로봇 협력 확대”",
     "summary": [
@@ -35,7 +21,7 @@ window.NEWS_DB = [
     "id": "nc3609b09",
     "category": "사회",
     "source": "브런치",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NDMyV3FJOVJzMUxNRXFOY3NYZ1ZIX0diNXVxNXRQUFRHZ0JyS0otb25zT3R3SGhEOUZaYWxaYlBEanZXWDhZSTYzcDU4TW82NmdZ?oc=5",
     "title": "중장년 지원금 신청 (재취업,고용,채용,일자리,취업)",
     "summary": [
@@ -51,7 +37,7 @@ window.NEWS_DB = [
     "id": "n4fb4270f",
     "category": "IT",
     "source": "마켓인",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zQ3Z0X0t6TWdDYS1VWUhicnR5bTM3b3E5eXdocncxQ3lhRnhJRUFOUnd0TUlzZ0JLdEluZzlrSGhFOXBZSlRlTDFYS3NWRlhxdlU4Z3VDYTFxaFBGM1lJOGg2T3h0MWEwZE03b0daRlVVajA?oc=5",
     "title": "“반도체 우려 과도…SOCAMM 축소는 수요 둔화 아닌 공급 부족”",
     "summary": [
@@ -59,20 +45,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "nd8de71f7",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PMnJUTkZ3N0pFelJ3UE1CUGctVlllYTdWZHpNU29xNUE2T2xsMnktT2RaU2RNczYwNVNGZlB1bS05RWloMzRCaWJDckFrMjhKdWVCZENlenI5VHVK?oc=5",
-    "title": "월드컵 코앞인데 야구 관람?…체코, 한국과 정반대 분위기",
-    "summary": [
-      "월드컵 코앞인데 야구 관람?…체코, 한국과 정반대 분위기 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -182,6 +154,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb9bdfdfb",
+    "category": "스포츠",
+    "source": "푸드투데이",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
+    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
+    "summary": [
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
     "id": "n21d1500d",
     "category": "IT",
     "source": "머니투데이",
@@ -210,20 +197,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4654c9cf",
-    "category": "사회",
-    "source": "네이버 프리미엄콘텐츠",
+    "id": "n4324c5c4",
+    "category": "부동산",
+    "source": "Chosunbiz",
     "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVZYTFU0VmZOZzExd2xHZVJ2UkVFb1d0WVB6SGx0MHRHdmZEMHlOT091cmNZOFFwME9CeTdiZWNHdU1Nc0stZ3VzYUxPcUJqcWNLcEFFX1M0YWRHX0V3Zy1fZTdCZlJfMlpUMXFOaGV0dktDbHhuWXRGVldoQXhYbUxwMmdHWWNjd1loWHRB?oc=5",
-    "title": "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkticmh3N2tXTGo4a2JTNjQtazBsUEhkTGFYVnoxMmRTVk5LYlAwMnhxcW43d0NKVlBvcjlhUGdnMlY4RHJaZ0pKT0N3SVpGVFJ1ZFJXc09pY3lrZU1mRkc5b3dTU3FtZ3d6bWZneDJ4VzVFM01ER1ZTV3pYRkFXckxadE0zbTE2b0c0TFg4c3hwcVAyb0hZZdIBrAFBVV95cUxQQmJ1RjVPOVZ6N3plS0xLZ1BWeVVNTnV4ZHB5WlBzWVlFeXpRU0M2cWJITU5uT0x5YklqWWZvMUhLRmVsOWotU3A2R2FreE1hWlpBR3dlWlNSNEF1a1FrWngyLWVoTFl3aHFBNm5WeUxySDBaWWsxNUxLUDhzTDRVYTVROTd5SWNyT3NfQ2NNa1Rva1NPZHhtUlZ1dnBwY2JBNGhZVG5uR0V3Umhu?oc=5",
+    "title": "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈",
     "summary": [
-      "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기 네이버 프리미엄콘텐츠."
+      "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈 Chosunbiz."
     ],
     "chips": [
-      "#네이버",
-      "#채용",
-      "#취업",
-      "#고용"
+      "#전세"
     ]
   },
   {
@@ -258,18 +242,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5a1617c5",
-    "category": "부동산",
-    "source": "헤럴드경제",
-    "time": "24일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
     ],
     "chips": [
-      "#부동산",
-      "#전세"
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "65일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -287,30 +285,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0075d66f",
+    "id": "nb4e9ce67",
     "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "111일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0ZEFKQVEtRlUxTG03Mi1FVEhIdjEzR1c1c3FPQzFXQTQ4US1MVjN3cEw3U1NpcG5MSE5xd0JwNl9nQVlOc3ZwWmFQaHB5NGpfZklLMHdVcDA4Ym5BRWRJd2hEQS1KOWVOdjFEQg?oc=5",
-    "title": "벤처투자 열기 달아오른다...'1조 몸값' 유니콘도 속속 등장",
+    "source": "연합뉴스",
+    "time": "127일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43c0lBUTduWFZhNkNKY1FuanUxLTl3UUZxVGVFaXI2YlZfLW9iOVRrdGtnaDNVRFE3YjZtMkRuSTV0Tkl3RlNOUlIxWWswYjgtS1lEeG5pZjh3U03SAWBBVV95cUxOaFRuVzFHS1ktaDl1MWpSd1YxT2tlcldST2dQQ3BUVk8yOXM5c21zRE81dWphNWJEVkJEMmlsN1lqSzRaeFp0N3kzUGtGa3V3Z0F5QXltVkRtdkt1YUVESnA?oc=5",
+    "title": "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집",
     "summary": [
-      "벤처투자 열기 달아오른다...'1조 몸값' 유니콘도 속속 등장 유니콘팩토리."
+      "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집 연합뉴스."
     ],
     "chips": [
-      "#스타트업"
+      "#스타트업",
+      "#채용"
     ]
   },
   {
-    "id": "n23874b78",
+    "id": "n46f59f4d",
     "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "127일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yNFU3WXJfOU9qYk83RUFjM0VEbFk5UjF4QUphMnFNdGpOM2VRM1RPblk1Y28tV29FOTBpemt6UWtoX0RvN0FWTjVYZ2xDUE0?oc=5",
-    "title": "“야구가 4대스포츠 최고 흥행인데 연봉이…” 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정",
+    "source": "머니투데이",
+    "time": "154일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
+    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
     "summary": [
-      "“야구가 4대스포츠 최고 흥행인데 연봉이…” 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정 v.daum.net."
+      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
     ],
     "chips": [
+      "#손흥민",
       "#KBO"
     ]
   },
@@ -352,7 +352,7 @@ window.NEWS_DB = [
     "id": "n5ae216be",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152397",
     "title": "KB금융, 중기·소상공인 지원에 100억 투입...\"지속가능 성장에 기여\"",
     "summary": [
@@ -366,10 +366,177 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd2d7c638",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605158351002",
+    "title": "환율, 강달러에 한때 1,560원도 넘었다…금융위기 이후 최고(종합)",
+    "summary": [
+      "(서울·뉴욕=연합뉴스) 이도흔 기자 이지헌 특파원 = 원/달러 환율이 17년 만에 장중 달러당 1,560원선을 돌파했다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "n58c0d085",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606002700091",
+    "title": "ISS 공기누출로 우주비행사들 2시간 동안 대피",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 국제우주정거장(ISS)에서 공기 누출 현상이 악화하면서 우주비행사들이 긴급 대피했다가 복귀했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9e76fb5e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/06/MY3DEOBRG5QTEZBYG44DKNDBMU/",
+    "title": "삼성 스카우트팀이 발굴한 11R의 기적…138번 육성 선수, 울산 상대로 6이닝 1실점 KKKKK→전날 1회 8실점 충격 씻었다 [오!쎈 퓨처스]",
+    "summary": [
+      "[OSEN=손찬익 기자] 전날 1회에만 8점을 내주며 무너졌던 프로야구 삼성 라이온즈 퓨처스팀이 하루 만에 완벽한 설욕에 성공했다.",
+      "그 중심에는 삼성 스카우트팀이 발굴한 ‘숨은 원석’ 박주영(투수)이 있었다.삼성 퓨처스팀은 지난 5일 울산 웨일즈를 상대로 7-1 승리를 거뒀다.",
+      "지난 4일 울산에 7-11로 패하며 고개를 숙였던 삼성은 선발 박주영의 호투와."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7b20a386",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260606/134060547/1",
+    "title": "美국방부→전쟁부 개명 공식화되나…하원 군사위 통과",
+    "summary": [
+      "미국 국방부 명칭을 전쟁부(Department of War)로 변경하겠다는 도널드 트럼프 행정부 조치가 처음으로 미 의회 상임위에서 가결됐다.5일(현지 시간) 미국 폴리티코 등에 따르면 미 하원 군사위원회는 전날 밤 국방부 명칭 변경이 포함된 2027회계연도 국방수권법안을 통과시켰다.",
+      "해당 조항 수정안은 친트럼프 성향으로 평가되는 로니 잭슨(공화·텍사스) 의원이 발의했으며 찬성 29표, 반대 27표로로 반영이 결정됐다.트럼프 대통령은 지난해 9."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n33eea204",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260606/134060544/1",
+    "title": "레바논 대통령 “레바논은 이란의 것 아니다” 이례적 강력 비판",
+    "summary": [
+      "조셉 아운 레바논 대통령은 5일 이란의 지원을 받는 시아파 무장단체 헤즈볼라의 지도자 나임 카셈이 레바논 국민을 대표하지 않는다고 공개적으로 비판했다.",
+      "이는 카셈이 레바논과 이스라엘간의 휴전 협정을 거부한 지 하루 만이다.",
+      "아운 대통령은 이날 베이루트 대통령궁에서 가진 CNN 크리스티안 아만푸어와의 인터뷰에서 카셈을 직접적으로 언급하며 “레바논 국민은 당신의 국민이 아니다”고 말했다.카셈은 하루 전 레바논-이스라엘 회담을 ‘항복’이라고 비난하며."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd2605e68",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260606/134060541/1",
+    "title": "푸틴, 젤렌스키 공개 서한 통해 요청한 대면 회담 거부 “의미없어”",
+    "summary": [
+      "블라디미르 푸틴 러시아 대통령은 5일(현지 시각) 볼로디미르 젤렌스키 우크라이나 대통령이 공개 서한을 통해 제안한 대면 협상을 거부하며 “아무 의미가 없다”고 말했다.4일 공개된 서한은 러시아가 2022년 2월 우크라이나에 대한 전면 침공을 시작한 뒤 젤렌스키 대통령이 푸틴 대통령에게 직접 보낸 첫 공개 메시지다.",
+      "푸틴 대통령은 이날 29회 상트페테르부르크 국제경제포럼(SPIEF) 연설에서 젤렌스키 대통령이 회담을 제안한 공개 서한을 “무례하다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7933e5c1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/06/GI2GCYZRMY3GMMDFGM2DEYRQHA/",
+    "title": "'크루피 보다 아클리우슈 또는 디오망데' 아스널이 'EPL 10대 최다득점자' 영입 기회를 잡았다..PSG 영입 방향 선회",
+    "summary": [
+      "[스포츠조선 노주환 기자]유럽 챔피언 파리생제르맹(PSG)가 본머스 영건 엘리 주니어 크루피(20)에 대한 관심을 접은 것으로 알려졌다.",
+      "그러면서 EPL 챔피언 아스널에 영입할 기회가 돌아가고 있다고 유럽 매체가 전했다.",
+      "크루피는 지난 2025~2026시즌 본머스에서 프리미어리그 33경기에 출전해 13골을 기록하며 전 유럽의 주목을 한몸에 받았다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n13024dfe",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606002500085",
+    "title": "영국 연구진, AI로 설계한 백신 개발중…\"1상 임상시험 완료\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국 연구진이 인공지능(AI)을 이용해 설계한 백신을 처음으로 임상시험했다고 밝혔다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nc0f89c47",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606002300071",
+    "title": "美, '시진핑 방북'에 \"미중 정상, '北비핵화' 공동목표 재확인\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 송상호 특파원 = 미국 도널드 트럼프 행정부는 시진핑 중국 국가주석이 오는 8∼9일 북한을 국빈 방문하는 것과 관련,..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncacef617",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "35분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003658257",
+    "title": "수도권 상한제 단지 경쟁률 18.5대1, 일반 단지의 2.5배",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자 = 올해 수도권 분양가상한제 적용 단지의 청약 경쟁률이 일반 단지보다 2.5배 이상 높은 것으로 나타났다.",
+      "아파트 분양가 상승세가 이어지는 가운데 상대적으로 가격 부담이 낮은 '상한제 단지'로 수요가 몰리는 모습이다.",
+      "6일 주택도시보증공사에 따르면 올해 4월 기준 수도권 민간아파트 3.3㎡당 평균 분양가격은 3470만원으로 전년 동월(2888만원) 대비 약 20.2% 상승했다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n4f0f1173",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "35분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003658183",
+    "title": "부산 수영구, 21일 금난새 초청 '책 읽어주는 음악회'",
+    "summary": [
+      "[부산=뉴시스]김민지 기자 = 부산 수영구는 21일 오후 2시 수영구도서관 지하 1층 강당에서 '금난새와 함께하는 책 읽어주는 음악회' 행사를 연다고 6일 밝혔다.",
+      "이는 지휘자 금난새가 자신의 아버지와 함께 발간한 책 '아버지와 아들의 교향곡'을 바탕으로 진행된다.",
+      "책에 담긴 이야기와 함께 반도네온과 첼로, 기타가 어우러진 3중주의 앙상블 연주가 펼쳐질 예정이다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
     "id": "n8572d695",
     "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
+    "time": "54분 전",
     "url": "https://www.newsis.com/view/NISX20260605_0003657970",
     "title": "마릴린 먼로 100주년 경매…'빛바랜 속옷 1000만원' 역시 세기의 아이콘",
     "summary": [
@@ -385,7 +552,7 @@ window.NEWS_DB = [
     "id": "n0e5587d8",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "7분 전",
+    "time": "55분 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260606/134059948/2",
     "title": "긴장속 설레는 과달라하라… 현지인 “손흥민-이강인 좋아”",
     "summary": [
@@ -398,58 +565,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5590f457",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260606/134059943/2",
-    "title": "韓 속한 A조 멕시코-체코, 나란히 최종 평가전 승리",
-    "summary": [
-      "한국 축구 대표팀이 2026 북중미 월드컵 A조에서 상대하는 체코와 멕시코가 5일 마지막 ‘모의고사’에서 각각 승리했다.",
-      "한국이 12일 조별리그 1차전에서 맞붙는 체코는 이날 미국 뉴저지주에서 열린 과테말라와의 평가전에서 3-1 승리를 거뒀다.",
-      "국제축구연맹(FIFA) 랭킹 41위(경기 전 기준)인 체코는 1일 코소보(78위)를 2-1로 꺾은 데 이어 이날 과테말라(96위)를 상대로 2연승을 거두면서 본선 준비를 마쳤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne47a3ea1",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260606/134059941/2",
-    "title": "세계 1위 佛, 코트디부아르에 1-2 역전패",
-    "summary": [
-      "2026 북중미 월드컵 우승 후보 프랑스가 다크호스 코트디부아르에 일격을 당했다.",
-      "국제축구연맹(FIFA) 랭킹 1위(경기 전 기준) 프랑스는 5일 열린 코트디부아르(34위)와의 안방 평가전에서 1-2로 졌다.",
-      "프랑스는 전반 45분 라얀 셰르키(맨체스터시티)가 오른발 슈팅으로 선제골을 터뜨렸지만 후반전 들어 수비 조직력이 흔들리면서 역전패를 당했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n88148b36",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260606/134059939/2",
-    "title": "[스포츠 단신]이정후, 12경기 연속안타… MLB 진출후 최장",
-    "summary": [
-      "‘바람의 손자’ 이정후(28·샌프란시스코·사진)가 12경기 연속 안타 행진을 이어갔다.",
-      "미국프로야구 메이저리그(MLB) 진출 이후 최장 기록이다.",
-      "이정후는 팀이 12-9로 이긴 5일 밀워키 방문경기에 5번 타자 우익수로 선발 출전해 5타수 4안타 1타점을 남겼다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nb3dc9573",
     "category": "스포츠",
     "source": "테크M",
-    "time": "8분 전",
+    "time": "56분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152395",
     "title": "홍대 PC방에서 '페이커' 만난 젠슨 황 \"韓, 내게 특별한 나라\"",
     "summary": [
@@ -462,182 +581,61 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4f3b96e4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658602",
-    "title": "푸틴, 젤렌스키 공개 서한 통해 요청한 대면 회담 거부 “의미없어”",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 블라디미르 푸틴 러시아 대통령은 5일(현지 시각) 볼로디미르 젤렌스키 우크라이나 대통령이 공개 서한을 통해 제안한 대면 협상을 거부하며 “아무 의미가 없다”고 말했다.",
-      "4일 공개된 서한은 러시아가 2022년 2월 우크라이나에 대한 전면 침공을 시작한 뒤 젤렌스키 대통령이 푸틴 대통령에게 직접 보낸 첫 공개 메시지다.",
-      "푸틴 대통령은 이날 29회 상트페테르부르크 국제경제포럼(SPIEF) 연설에서 젤렌스키 대통령이 회."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n14cedfc0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606001700108",
-    "title": "푸틴 \"젤렌스키 서한 무례, 만남 무의미…러군 계속하라\"",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 블라디미르 푸틴 러시아 대통령은 5일(현지시간) 직접 만나 종전안을 논의하자는 볼로디미르 젤렌스키 우크라..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n43a58956",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/06/2026060600282045330",
-    "title": "\"대체 얼마나 예쁘길래\" EPL 스타, 월드컵 탈락 후 '세젤예' 약혼녀와 초호화 휴가 즐기자 \"진정한 승리자\"",
-    "summary": [
-      "노팅엄 포레스트 미드필더 모건 깁스 화이트(26)가 잉글랜드 국가대표팀 2026 북중미 월드컵 명단 탈락의 아픔을 뒤로하고 약혼녀와 달콤한 휴가를 즐기고 있다.",
-      "영국 '더선'은 5일(한국시간) \"깁스 화이트가 '세상에서 가장 예쁜 여자'로 불리는 약혼녀와 휴가를 보내며 월드컵 출전 불발의 아쉬움을 달래고 있다\"고 보도했다.",
-      "깁스 화이트는 올 시즌 잉글랜드 프리미어리그(EPL)에서 미드필더임에도 15골을 터뜨리며 맹활약했다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n50acb7e4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/06/G5STQYJUGY2DIY3BMEYTGMZZGE/",
-    "title": "'충격! 김민재 팀 동료였다' HERE WE GO 속보! 레알 마드리드 페레즈 회장의 1억5000만유로 월클 픽 주인공, 프랑스 국대 마이클 올리세..뮌헨 구단 \"2억유로라도 안 팔아\"",
-    "summary": [
-      "[스포츠조선 노주환 기자]며칠 후 다시 스페인 거함 레알 마드리드의 회장에 당선될 가능성이 높은 플로렌티노 페레즈 회장이 프랑스 국가대표 공격수 마이클 올리세(바이에른 뮌헨)를 영입하기로 점찍은 것으로 알려졌다.",
-      "페레즈 회장은 올리세 영입에 무려 이적료 1억5000만유로를 공식 제안할 예정이라고 한다.",
-      "유럽 축구 이적 전문가 파브리지오 로마노는 5일(한국시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4c0383e5",
+    "id": "n6794ba7b",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658598",
-    "title": "트럼프, 5월 고용 증가에 \"주가 올라야…인플레 아냐\"",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026060502691",
+    "title": "미친 듯이 파는 외국인…증시·환율 '검은 금요일'",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 지난달 미국 비농업 분야 일자리 숫자가 예상보다 큰폭 늘었음에도 뉴욕증시가 하락세를 보이자, 도널드 트럼프 미 대통령은 주가가 상승해야 한다고 불만을 드러냈다.",
-      "트럼프 대통령은 5일(현지 시간) 소셜미디어(SNS) 트루스소셜에 \"방금 발표된 것처럼 훌륭한 고용 보고서가 나왔으니 주식 시장은 하락할게 아니라 상승해야 한다\"며 \"200년동안 그래왔다\"고 적었다.",
-      "이어 \"성장이 꼭 인플레이션(물가상승)을 의미하는."
+      "미친 듯이 파는 외국인…증시·환율 '검은 금요일'."
     ],
     "chips": [
-      "#고용",
-      "#정치"
+      "#환율"
     ]
   },
   {
-    "id": "nb8b09d1f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606001500087",
-    "title": "'탑건 매버릭' 배우 제임스 핸디, LA자택서 피습 사망",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 영화 '쥬만지'와 '탑건 매버릭' 등에 출연했던 할리우드 배우 제임스 핸디(81)가 흉기에 찔려 숨졌다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne467b5a4",
+    "id": "n3b9685bd",
     "category": "사회",
     "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/opinion/palmyeonbong/2026/06/06/FWNEWJSGBRAVNMUM2UD5JAZKKA/",
-    "title": "[팔면봉] 6·3 선거 통해 2030 民心이 던진 명확한 메시지. 외",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/06/06/D6J6DKB7V5DJRFN5L4DYNXQZDA/",
+    "title": "차기 대표로 김민석 미는 친명계 “정청래 연임 막아야”",
     "summary": [
-      "[팔면봉] 6·3 선거 통해 2030 民心이 던진 명확한 메시지. 외."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbdd25360",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606001300085",
-    "title": "WTO \"중동전쟁에도 세계 무역 호조…둔화 시작 조짐도\"",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 올해 상반기 세계 상품 무역이 중동 전쟁에도 호조를 이어갔으나 둔화가 시작됐을 조짐도 보인다고 세계무역기구(..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nc1524abb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658596",
-    "title": "[속보] 푸틴, 젤렌스키 공개 서한으로 요청한 대면 회담 '거부'",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 kjdragon@newsis.com."
+      "차기 대표로 김민석 미는 친명계 “정청래 연임 막아야”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3bad3ea0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "44분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/06/2026060600192213410",
-    "title": "\"내일은 또 무슨 옷 입지?\" 무명 女 미녀 선수, '협찬 0개'로 프랑스 오픈 결승행→전 세계 열광 \"숙박만 겨우 구해서...\"",
+    "id": "n13606e15",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606060532i",
+    "title": "금리 급등에 반도체·소형주 와르르...엔비디아 메모리 축소 진실은 [빈난새의 개장전요것만]",
     "summary": [
-      "폴란드 출신 테니스 선수 마야 흐발린스카(24)가 스폰서가 없어 매 경기 다른 옷을 입었다는 당당한 고백에 팬들이 뜨거운 찬사를 보내고 있다.",
-      "영국 '더선'은 5일(현지시간) \"흐발린스카가 기적을 일으키며 프랑스 오픈 결승에 진출했다\"며 \"그의 돌풍뿐만 아니라 대회 의상과 관련한 유쾌한 인터뷰가 팬들의 큰 사랑을 받고 있다\"고 전했다.",
-      "흐발린스카는 프랑스 오픈에서 지난달 18일 첫 예선 경기를 시작으로 연일 이변을 연출하고 있다."
+      "금리 급등에 반도체·소형주 와르르...엔비디아 메모리 축소 진실은 [빈난새의 개장전요것만]."
     ],
     "chips": [
-      "#뉴스"
+      "#반도체",
+      "#엔비디아",
+      "#금리"
     ]
   },
   {
-    "id": "na54912d2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606000800098",
-    "title": "독·프 정상 \"EU 확대, 속도 내야\"…가입절차 간소화 등 제안",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)의 쌍두마차인 독일과 프랑스 정상이 EU의 확장 절차에 속도를 낼 것을 요구했다고 dpa 통..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na3256d1f",
-    "category": "사회",
+    "id": "n3294e8c3",
+    "category": "IT",
     "source": "조선일보",
-    "time": "50분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/06/06/FMMML2M2Z5BO3DVXIZQKJ736SY/",
-    "title": "이념보다 이슈… 서울 2030, 절반 넘게 野 찍었다",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/06/06/5W44HKFNMRG77ITAAT6DLHH2GU/",
+    "title": "진료 때 보호자 안심시키기… 교실서 학생 불안 읽어내기… AI는 못하는 ‘연결 노동’",
     "summary": [
-      "이념보다 이슈… 서울 2030, 절반 넘게 野 찍었다."
+      "진료 때 보호자 안심시키기… 교실서 학생 불안 읽어내기… AI는 못하는 ‘연결 노동’."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   }
 ];
@@ -646,21 +644,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "엔비디아",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
