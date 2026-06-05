@@ -1,26 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-04 23:24:27
+// 마지막 업데이트: 2026-06-05 00:30:34
 window.NEWS_DB = [
-  {
-    "id": "n2469bd9f",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "14시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lS2dkeVlfTzh3YzM3ZmRuelJOVDdtM0tYSWkyN21LN2s5bFVPMnppMXpVajd1ZjN5cTEwWE44Q19iQWlHZmlqV1h6UzZNZm12UFhHSTA2VjM4UdIBVEFVX3lxTE1vbklwREZfREVpMXBvU3d4aENOemY2enMwVlV2dzd3UUNDeG5PdHNkUnFZNUpBaWFuaXV4dDhjb2psc3E5RTRKaGNZRHVVTDRqZm1xaA?oc=5",
-    "title": "\"엔비디아 의존 줄여라\"…K-AI칩 생태계 커진다",
-    "summary": [
-      "\"엔비디아 의존 줄여라\"…K-AI칩 생태계 커진다 한국경제."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
   {
     "id": "n43ee8875",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80bV9oWVRQLWh4cUVqdFAteV8ydEpoSndqVUdhQkZEQ3FHM09LcG5IcGp4REJDVXJsaGZtWFFhUjlUYmhIV01RejlQdjZ1M2dwNTFKRDktNFc2ZnVNczFsUjdfVjloQldzbkUxdkc4c9IBc0FVX3lxTE9jRldwcGZrZ2o3ZGplVGN3dENPblFWY0xZMllKVWY1U2wxNmNKNFFzQm5HREc3NUZtVzFGaDVXY1RXVFVzRmVGbU5ZQWtDTjVXUklBbWZSNDdsdkkxYmpvR2pTZHFzaDI2LUtNcXdtY1IwMGM?oc=5",
     "title": "공급망의 SK하이닉스 vs. 통합 기술의 삼성전자…HBM 패권 경쟁 새 국면",
     "summary": [
@@ -34,10 +19,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb9d37a20",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "16시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNam1KZ29JWi1kbzlfMHBQcFVJZTlhQ3ZqZURrRGI5WmNGMG9yWkRXNnoxaHl5YmNfcG9qLW9uM3BPUE9oLUdnbU1GN2ZmRE9JVTVpb2g5VWM4YXZ5SllhcUFiRGNOTWdoeXE4ZNIBckFVX3lxTE56Vk1KMHZNMXBsNHN0TXBzRlpKbW9MOU9vSXNpOHluLWZBaWFTa0k4UHBHNjZqS3dBN18xaWM5dFljRm42aFdCSURLUUtoRHV6bzVMN0h1VmhFQkVsY2UtbU92aVlMZWwwVzZ3NWZ2OUV4dw?oc=5",
+    "title": "최태원, 엔비디아·TSMC·폭스콘 수장과 연쇄 회동…AI 동맹 넓힌다 - 머니투데이",
+    "summary": [
+      "최태원, 엔비디아·TSMC·폭스콘 수장과 연쇄 회동…AI 동맹 넓힌다 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n5cae89cd",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMElabXNNb3RKeTd1TnJMR3R1VnczV2xfWDhpaEhaci1GYWFrRFhtdERHckhvc0FoNGVPcHZIdTdPRDI1WEhPdVVBY0tiOUZWT2FQX1duQTdleFNGdVpBSFBRUVdtaGpCSl9XY3JUVFhpYm1aNVY2Tlo5RFFpX2x4MXBB0gGWAUFVX3lxTFBHYWpENE1LWEJKRkRzMFJUdmZvVEZ6UU9LU3VVMHpaalhVWUZqOWVBVGpYNGkzM1hONGpqNThjTlFVQVAwSGxtUXJwSkVMTWpXNlBXX3l1R2ZjR0dtUkhnZTNBMWc2SGhOQy1oQm5Pb2RJNlB2SmpVaTBJTUo0eVpBQ1BVdDZPM1FnOWR5YTY1RjQ5TGQ4Zw?oc=5",
     "title": "배경훈 부총리 “국산 AI 반도체, 해외서 3000만달러 수출… 엔비디아 버금가는 기술력” - 조선비즈",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "nbcccb229",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iOXlZN21icV9VY1RyYnN6MHg0VnV6cjZMRUJHY0ZocUxyVVVFVlpBR2dwdDV0UWdzanJsMVdqendMeENNbTZzNnMwb3UtdE1MNG1ibkJya0dYRkHSAWBBVV95cUxOMHliOEItM3NyRkt6elAwYnE5cGJRd1kzai1ab3A4TVZWNzJvUi1jdFQ4ZmVraG5KajhCMDROSE1pWDNfRTR2YjJvMkViMUN4aTBpc3F5OEdxUTdjVy1fUy0?oc=5",
     "title": "국산 AI반도체 400여억 수출…배경훈 \"엔비디아급 기술력\"(종합)",
     "summary": [
@@ -83,6 +83,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n38022242",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0pTME40YURudGhfd1FYdVlNQVFmQ05hZWlCUnd1bG1KcUY5cHJ5ckY5UW9TNkVMUUNKMzh4RWpuODlaRkdsbWZOS3MzVjZocWhQZW8ybGtrLWppbl8yalppR2FKTzc3ZFdpdVFmbFViYmdzREx6amsySG1hc3NqOS1B0gGWAUFVX3lxTE1aMWZ5eHRUTDI0MjlVbFQtUHpWQndoVzZ6VktVa29ySkJlODAzd3A1UnY2YnZ6dm03MzhXMFYtMkRmQjRNeW5iYkNvUDhtTENrRWlIa0VubjBCeDZ5eS1TazM1bkhhVUNfcmRVR3FIQmQxNFRoUFhMMV9UYzF1NlJPYkphOVhWLWF5QXgwYjN3WkVZTEhGdw?oc=5",
+    "title": "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈",
+    "summary": [
+      "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "na51ce02d",
     "category": "IT",
     "source": "녹색경제신문",
@@ -101,7 +117,7 @@ window.NEWS_DB = [
     "id": "n120ef4f4",
     "category": "경제",
     "source": "jabon.co.kr",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iNXYzdE0ya09tLXJESmhRR1QyMXU5YWJPMHRQMGNIMFRGd1QxVU9HWXdfYXNmVnF5b1o5blBYMWtzdGM4QW1uVUdISWJzR3pGdW5kQWUyYmZqWXhiMFZkZUNjVUtBbXc?oc=5",
     "title": "한은 매파에 국고채 일제 상승, 환율 장중 18원 급등락",
     "summary": [
@@ -109,21 +125,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "na0f523e8",
-    "category": "IT",
-    "source": "이코노미트리뷴",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
-    "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
-    "summary": [
-      "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는 이코노미트리뷴."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -173,7 +174,7 @@ window.NEWS_DB = [
     "id": "n27044a56",
     "category": "사회",
     "source": "브런치",
-    "time": "6일 전",
+    "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBta2tFd082ZU1RSmtGUGVwclA5VmR5ZVJXb3lXcEZKMDJLYVlRb0RzQm1CYlV0bVBsaXFoX09uWlBxZVVoQTVNdVQwRQ?oc=5",
     "title": "서울시 강서구 일자리 지원센터 취업 채용정보 구인구직",
     "summary": [
@@ -214,18 +215,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n00c2ed38",
+    "id": "n039a53c8",
     "category": "경제",
-    "source": "비즈니스포스트",
+    "source": "조선일보",
     "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81RldwenFscGVxbmtVNXB3UmxIZndtYThpLThIUDMzNUN6M3ozZE5aVUd6TTVQSnc0ZjZyLUZzbDhNdUpPNTg4bl9oQjdmeXRNUVR4SVNsbGhqVWE2N05qZGxVbXNJQmlMOE00WGhvOVZtRGs?oc=5",
-    "title": "[박혜린 기자의 내돈내굴] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEcyd3RySjdPelJIanpZNlF1N2xBM3h6VFFaRnloZm9Zai1DQUhQVE9yWHJXNlRkVDd6bnlJbGlLcHhkN0ZZeHRyRFBZRklZWlZwVmVQdTVHR3UtdWtPMk04bUhKeVU5WDdqN2tDZHZDc3R2VndtQUxBcWRMQjgzVlVyNXZGSEdNLS1ma3FR?oc=5",
+    "title": "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은?",
     "summary": [
-      "[박혜린 기자의 내돈내굴] \"삼성전자 SK하이닉스 주식 지금이라도 살까요?\" 금리·환율 공부해야 하는 이유 비즈니스포스트."
+      "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은? 조선일보."
     ],
     "chips": [
-      "#삼성전자",
-      "#SK하이닉스",
       "#금리",
       "#환율"
     ]
@@ -319,313 +318,318 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf577f370",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026060508234957572",
-    "title": "[클릭 e종목]\"에이텀, 국내 유일 '평판형 트랜스'로 AI 데이터센터 게임 체인저로 부상\"",
+    "id": "n4bd55dcc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657374",
+    "title": "세계가 인정한 남해 죽방렴, 관광명소로 한 걸음 더",
     "summary": [
-      "소형 변압기 전문기업 에이텀이 국내 유일의 평판형 트랜스(Transformer) 기술을 앞세워 AI 데이터센터와 전기차 시장의 핵심 부품 기업으로 부상하고 있다.",
-      "기존 코일형 트랜스의 한계를 뛰어넘는 자동화·소형화 기술력을 확보하면서 글로벌 공급망 재편 국면 속 새로운 수혜 기업으로 주목받는 모습이다.",
-      "나승두 SK증권 연구원은 \"에이텀이 보유한 국내 유일 평판형 트랜스 기술은 다양한 산업 내 트랜스 분야에서 완벽한 게임."
+      "[남해=뉴시스] 차용현 기자 = 경남 남해군이 세계중요농업유산인 지족해협 죽방렴의 명소화 콘텐츠 구축사업을 완료했다.",
+      "5일 남해군에 따르면 이번 사업은 죽방렴의 역사·문화·관광 가치를 널리 알리고 지족 일대 관광 활성화를 위해 추진됐으며, 홍보영상 제작과 사진 명소 발굴에 중점을 뒀다.",
+      "남해군 홈페이지에는 기다림과 흐름 사이, 죽방렴의 시간’을 주제로 한 기획전 페이지를 개설해 어민 인터뷰와 여행 콘텐츠, 사진작가 작품 등을 선보이고 있다."
     ],
     "chips": [
-      "#AI",
-      "#전기차"
+      "#뉴스"
     ]
   },
   {
-    "id": "neac4787b",
+    "id": "n06e1e48a",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026060509280149880",
+    "title": "'잠실7동 투표함' 35시간 만에 반출…시위대 몸싸움도",
+    "summary": [
+      "경찰이 제9회 전국동시지방선거 투표용지 부족 사태로 시위대가 몰린 서울 송파구 잠실7동 제2투표소에 기동대를 투입해 남은 투표함 2개를 반출했다.",
+      "투표가 종료된 지 약 35시간 만이다.",
+      "이 투표함에 대한 개표가 완료돼야 오세훈 서울시장 후보 등의 당선이 법적으로 확정된다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n12fa6b11",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657262",
+    "title": "'군체' 500만 도전…'와일드 씽' 100만 가능할까",
+    "summary": [
+      "[서울=뉴시스] 손정빈 기자 = 영화 '군체'가 개봉 3주차 주말 500만 관객에 도전한다.",
+      "'와일드 씽'은 공개 첫 주 100만 관객을 노린다.",
+      "'군체'는 4일 7만9930명(영화진흥위원회 기준)이 봐 보름 연속 박스오피스 1위를 유지했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d6074c7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657376",
+    "title": "신영증권, 1조원 규모 자사주 소각에 13%↑",
+    "summary": [
+      "[서울=뉴시스] 김경택 기자 = 신영증권이 1조원 규모의 자사주 소각에 나선다는 소식에 13% 넘게 오르고 있다.",
+      "5일 오전 9시25분 현재 신영증권은 전일 대비 2만5600원(13.59%) 오른 21만4000원에 거래되고 있다.",
+      "장중에는 18% 가까이 급등하기도 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb159bc03",
     "category": "스포츠",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026060508225250957",
-    "title": "수원시, 수돗물 안전성 등 알릴 서포터즈 20명 뽑는다",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/06/05/MQ2TEMZVMZSDGYLGGU2DMNLCMY/",
+    "title": "\"황선우-김우민 호주 수영 국대선발전 출전?\" 시드니로 亞게임 실전 훈련 위해 출국",
     "summary": [
-      "경기 수원시가 수돗물의 안전성과 상수도 사업을 시민에게 알릴 '수돗물 서포터즈' 20명을 모집한다.",
-      "수원시는 이달 10일부터 24일까지 상수도 정책과 수돗물 관련 정보를 홍보하는 시민 참여 프로그램 수돗물 서포터즈를 공모한다고 5일 밝혔다.",
-      "선발된 서포터즈는 7월부터 8월까지 활동한다."
+      "[스포츠조선 전영지 기자]'대한민국 수영 황금세대' 황선우, 김우민(이상 강원특별자치도청) 등 경영 국가대표팀이 아이치·나고야아시안게임을 앞두고 호주 시드니 2차 전지훈련을 떠났다.",
+      "대한수영연맹(회장 정창훈)은 '김효열 총감독의 인솔 아래 2024년 파리올림픽 남자 자유형 400m 동메달리스트 김우민을 필두로 황선우, 김영범, 양재훈,윤지환(이상 강원특별자."
     ],
     "chips": [
-      "#정책",
-      "#채용"
+      "#뉴스"
     ]
   },
   {
-    "id": "n124dc28e",
+    "id": "nf47c06e9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/27/HOTCOTVB35ADNJUIV5X2EML7MY/",
+    "title": "48~60도 2도 간격 웨지 최저가 입고, 1+1 7만원대 초특가",
+    "summary": [
+      "48~60도 2도 간격 웨지 최저가 입고, 1+1 7만원대 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nabfa6201",
     "category": "사회",
     "source": "아시아경제",
     "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026060508205842782",
-    "title": "안산시, 제6기 지역사회보장계획 수립 방향 교육·추진상황 공유",
+    "url": "https://view.asiae.co.kr/article/2026060509204970828",
+    "title": "日 정부 \"2040년대까지 원전 최대 5기 개축\"…전체 원전의 20%",
     "summary": [
-      "경기 안산시(시장 이민근)는 지난 4일 시청 제1회의실에서 제6기(2027~2030년) 안산시지역사회보장계획의 체계적인 수립을 위해 경기복지재단과 함께 '찾아가는 지역사회보장계획 교육'을 실시하고 추진상황을 공유했다고 5일 밝혔다.",
-      "이번 교육은 제6기 안산시지역사회보장계획 수립 추진단, 관계 공무원, 안산미래연구원 연구진 등 20여 명이 참석한 가운데 진행됐다.",
-      "참석자들은 제6기 계획의 주요 내용을 이해하고, 계획 수립."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc012a38e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003657177",
-    "title": "삼표그룹, 폐작업복·안전조끼 업사이클링 캠페인 실시",
-    "summary": [
-      "[서울=뉴시스] 박성환 기자 = 삼표그룹이 '환경의 날'을 맞아 폐작업복과 안전조끼를 재활용한 업사이클링 캠페인을 진행한다.",
-      "삼표그룹은 전 계열사 사업장에서 수거한 폐작업복과 안전조끼를 활용해 업사이클링 제품을 제작하는 '삼표 Re-Use 캠페인'을 전개한다고 5일 밝혔다.",
-      "이번 캠페인은 현장에서 사용 후 수명을 다한 작업복과 안전조끼를 새로운 제품으로 재탄생시키는 자원순환 활동이다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n0a67aa99",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026060508191831628",
-    "title": "경기도, 환경분야 공익제보 집중 운영…6월18일까지",
-    "summary": [
-      "경기도가 환경분야 공익침해행위 집중 신고를 받는다.",
-      "경기도는 5일 '환경의 날'을 맞아 이날부터 오는 18일까지 환경 분야 공익침해행위 집중 신고 기간을 운영한다고 밝혔다.",
-      "이번 집중 신고 기간은 '경기도 공익제보 핫라인'에 대한 도민의 관심을 높이고, 환경 분야 공익제보를 활성화하기 위해 마련됐다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n674c7c7c",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605021500002",
-    "title": "구윤철 \"금융외환시장 변동성 확대·민생물가에 각별한 경각심\"",
-    "summary": [
-      "(세종=연합뉴스) 이세원 기자 = 구윤철 부총리 겸 재정경제부 장관은 5일 \"금융·외환시장의 변동성이 확대되고 민생 물가가 어려운 점에는 각별히..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7476b55",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "5분 전",
-    "url": "https://www.hankyung.com/article/202606058649i",
-    "title": "핫도그·쿠키 식단, 치매 위험 58% 높였다",
-    "summary": [
-      "핫도그·쿠키 식단, 치매 위험 58% 높였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5e6996a9",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "5분 전",
-    "url": "https://www.hankyung.com/article/202606058635i",
-    "title": "이란 원유 수출 6년 만에 최저…미 해상봉쇄 직격탄",
-    "summary": [
-      "이란 원유 수출 6년 만에 최저…미 해상봉쇄 직격탄."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n40199ec4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260605/134054183/2",
-    "title": "바코드는 찍는 척만…무인매장 18차례 턴 상습 절도범 검거(영상)",
-    "summary": [
-      "서울의 한 무인매장에서 바코드를 찍는 시늉만 한 채 물건을 훔쳐 온 상습 절도범이 경찰에 붙잡혔다.4일 경찰청 유튜브에 따르면 서울 구로경찰서는 무인점포에서 18차례 물건을 훔친 피의자를 검거해 수사 중이라고 밝혔다.경찰이 공개한 CCTV 영상을 보면 피의자는 지난 4월 서울 구로구의 한 무인매장을 찾아 물건을 가득 고른 뒤 계산대로 이동했다.",
-      "그는 키오스크에서 바코드를 스캔하는 것처럼 행동했지만 실제 결제는 하지 않은 채 물건을 들고 매장을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na55a4269",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "6분 전",
-    "url": "https://www.hankyung.com/article/202606058559g",
-    "title": "\"안경에 말을 걸었더니…\" 무신사 성수에 뜬 '메타 AI 글래스'",
-    "summary": [
-      "\"안경에 말을 걸었더니…\" 무신사 성수에 뜬 '메타 AI 글래스'."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nea954524",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/06/05/L5W3RSZFOBCVPAUQCTQAJGEJ6Q/",
-    "title": "정부, ‘장성 첨단 데이터센터’ 지방재정 투자심사 면제...28년 오픈 추진 속도 낸다",
-    "summary": [
-      "정부, ‘장성 첨단 데이터센터’ 지방재정 투자심사 면제...28년 오픈 추진 속도 낸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n106403d5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604190400005",
-    "title": "박래현·김기창·박생광, 세 거장이 일군 한국 채색화 정점",
-    "summary": [
-      "(서울=연합뉴스) 박의래 기자 = 우향 박래현(1920∼1976)과 운보 김기창(1913∼2001), 내고 박생광(1904∼1985) 등 한국 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n93efee49",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/05/MVSGGZJUMI4TGY3DG42DGYJRGU/",
-    "title": "\"선행도 함께했는데\"...한지민♥최정훈, 눈물 한 장면에 결별설 '억측' [핫피플]",
-    "summary": [
-      "[OSEN=김수형 기자]배우 한지민과 밴드 잔나비 보컬 최정훈 커플이 나란히 선행을 실천한 가운데, 최근 최정훈의 무대 위 눈물을 두고 일부 온라인에서 제기된 결별설에 팬들이 \"지나친 억측\"이라며 우려를 나타냈다.최근 한 온라인 커뮤니티에는 '대학교 축제에서 눈물 흘리는 잔나비 최정훈'이라는 제목의 영상이 확산됐다.공개된 영상 속 최정훈은 공연 도중 코끝이."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb89bbd58",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/05/MUYDGYJQMYZTIZLBGRSGMYTCGE/",
-    "title": "\"모두의 어머니처럼 살겠다\" 이효리, 시험관 거부 속..훈훈한 부녀보며 '뭉클' [핫피플]",
-    "summary": [
-      "[OSEN=김수형 기자] \"모두의 어머니 처럼살겠다\"던 가수 이효리.",
-      "그리고 이상순이 한 가족의 모습을 바라보며 2세에 대한 솔직한 마음을 털어놔 뭉클함을 안겼다.지난 2일 공개된 넷플릭스 예능 '유재석 캠프'에서는 숙박객들과 함께 시간을 보내는 이효리, 이상순 부부의 모습이 그려졌다.이날 이효리는 \"재석이 오빠 캠프에 손님처럼 오니까 마음이 너무 편안하다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f73cf52",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/2026060586397",
-    "title": "김수현 측, 김세의 구속 송치에 \"법과 증거에 따른 엄정한 판단 감사\" [공식]",
-    "summary": [
-      "김수현 측, 김세의 구속 송치에 \"법과 증거에 따른 엄정한 판단 감사\" [공식]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n53e515fc",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003657190",
-    "title": "[속보]경찰, 잠실7동 투표소 인파 해산 시도중…시위대, 스크럼 짜고 버텨",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n275a1281",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/05/HAYGCYZYGRTDGOJQMZRDGZRSGI/",
-    "title": "송은이, 김숙 몰래 썸남 만들었나‥미모의 男작가에 한밤중 연락 \"자니?\" ('김숙TV')",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 송은이가 김숙을 위해 박천휴 작가와 통화했다.",
-      "4일 유튜브 채널 '김숙TV'에는 '제주 쑥하우스 최초공개 느좋 갬성으로 셀프 인테리어 해봐쑥!'라는 제목의 영상이 게재됐다.",
-      "이날 김숙과 송은이는 이케아를 찾아 실내 인테리어 제품들을 구경했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b858170",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003657180",
-    "title": "강원도, 임산부 6491명에게 친환경 농산물 꾸러미 지원한다",
-    "summary": [
-      "[춘천=뉴시스]서백 기자 = 강원특별자치도는 저출산 대응과 친환경 농산물 소비 확대를 위해 ‘2026년 임산부 친환경 농산물 지원 사업’을 추진한다고 5일 밝혔다.",
-      "이번 사업은 도내 임산부 6491명을 대상으로 1인당 24만원(자부담 4만8000원) 상당의 친환경 농산물 꾸러미를 지원하는 사업이다.",
-      "당초 지원 규모는 4400명이었으나, 국비를 추가 확보하면서 2091명이 늘어난 총 6491명으로 확대됐다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "ne8bf4914",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605020300008",
-    "title": "IBK투자 \"EU 산업가속화법안에 한국 2차전지 반사이익 전망\"",
-    "summary": [
-      "(서울=연합뉴스) 황철환 기자 = 유럽연합(EU)이 제조업 경쟁력 강화를 목표로 추진 중인 산업가속화법안(IAA)이 중국산 배터리 사용을 억제하..."
-    ],
-    "chips": [
-      "#정책",
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n902356c7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605016200009",
-    "title": "샌프란시스코 연은 총재 \"어느 방향이든 대응 준비돼 있다\"",
-    "summary": [
-      "(서울=연합뉴스) 주종국 기자 = 메리 데일리 미국 샌프란시스코 연방준비은행(연은) 총재는 현재 통화 정책은 적절한 수준에 있으며, 경제 불확실..."
+      "일본 정부가 오는 2040년대까지 노후화된 원자력발전소를 최대 5기 교체한다.",
+      "원전 규모는 최대 550만㎾로 기존 일본 원전의 약 20%에 해당한다.",
+      "니혼게이자이신문(닛케이)에 따르면 일본 경제산업성은 5일 종합자원에너지조사회 소위원회에서 이 같은 내용을 담은 원자력 정책 관련 개정안을 제시할 예정이다."
     ],
     "chips": [
       "#정책"
     ]
   },
   {
-    "id": "ne77c08a5",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003657181",
-    "title": "케이옥션, 80억 규모 자사주 소각 결정",
+    "id": "neb59e360",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260605/134054522/1",
+    "title": "‘공항 출국 태도 논란’ 휩싸인 장원영…“오해·억측” vs “겸손해야”",
     "summary": [
-      "[서울=뉴시스] 김경택 기자 = 미술품 경매 대표 기업 케이옥션은 기존에 취득해 보유하고 있던 80억원 규모의 자사주 전량을 1개월 이내에 전면 소각하기로 결정했다고 5일 밝혔다.",
-      "회사 측에 따르면 소각 주식수는 보통주 134만920주로, 전체 발행 주식 총수의 약 4.92%에 해당한다.",
-      "케이옥션은 단순한 자사주 매입을 넘어 실질적인 유통 주식 수 감소로 이어지는 소각을 속도감 있게 진행해 주당 가치를 극대화하고 주주들에게 직접적인 혜택이 돌아."
+      "그룹 아이브 장원영의 공항 출국 태도가 포착되면서 논란에 휩싸였다.장원영은 최근 해외 일정 참석차 김포국제공항을 통해 출국했다.",
+      "당시 모자와 마스크를 쓰고 얼굴을 가리고 나섰던 가운데, 최근 온라인 커뮤니티를 통해 출국 당시 모습이 담긴 영상이 공개됐다.해당 영상에는 출국을 위해 신분 확인을 받는 장원영의 뒷모습이 담겼다.",
+      "모자와 마스크를 쓰고 있던 장원영은 여권으로 신분 확인을 하는 직원을 보며 눈만 살짝 드러냈고, 직원이 마스크를 더 내리라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n30248de3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/entertainments/movie/2026/06/05/HBRWKY3EMIZDCYRUMRSGKZRSGA/",
+    "title": "[공식] \"우윳빛깔 최성곤 보러 가자\"…'와일드 씽' 오정세X손재곤 감독, 2주 차 무대인사 출격",
+    "summary": [
+      "[스포츠조선 안소윤 기자] 영화 '와일드 씽'이 개봉 2주차 6월 13일(토) 무대인사를 확정했다.",
+      "13일 진행되는 무대인사에는 킹 받는 중독성으로 '니가 좋아' 신드롬을 일으키고 있는 최성곤 역의 오정세와 독보적인 코믹 연출력을 선보인 손재곤 감독이 참석한다.",
+      "이들은 롯데시네마 월드타워, 메가박스 코엑스, CGV 용산아이파크몰을 차례로 방문해 관객들에게."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfefaf105",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026060508380073202",
+    "title": "中 \"미국 '강제 노동' 핑계로 한 무역 규제 반대\" 연일 반발",
+    "summary": [
+      "중국 정부가 강제 노동을 빌미로 중국과 한국 등 60개 경제권에 추가 관세를 부과하겠다는 미국 규제 조치에 연일 강력히 반발했다.",
+      "신화통신 등 현지 매체에 따르면 허융첸 중국 상무부 대변인은 4일(현지시간) 기자회견에서 \"미국의 무역법 301조 조사에 대한 중국의 입장에는 변함이 없다\"며 \"중국은 강제 노동을 핑계로 중국에 가해지는 일련의 무역 규제를 포함해 모든 형태의 일방적인 제한 조치에 반대한다\"고 말했다."
+    ],
+    "chips": [
+      "#정책",
+      "#수출"
+    ]
+  },
+  {
+    "id": "na9ea641e",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026060509260037086",
+    "title": "구다이글로벌, 서울아산병원 1억원 기부…취약계층 여성 환자 지원",
+    "summary": [
+      "글로벌 뷰티 플랫폼 기업 구다이글로벌이 취약계층 여성 환자의 치료비 지원을 위해 서울아산병원에 1억원을 기부했다.",
+      "서울아산병원은 최근 구다이글로벌이 경제적 어려움을 겪는 여성 환자들의 치료비 지원을 위해 1억원을 후원했다고 5일 밝혔다.",
+      "구다이글로벌은 조선미녀, 티르티르, 스킨1004, 라운드랩 등 K-뷰티 브랜드를 운영하고 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd5385b93",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "4분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/05/JBKYVULWDFCYTLEQN4F7DZPQB4/",
+    "title": "젠슨 황, 홍대서 총수들과 삼겹살 회동 예정",
+    "summary": [
+      "젠슨 황, 홍대서 총수들과 삼겹살 회동 예정."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8f4dbf4a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657347",
+    "title": "좌회전 시내버스·직진 승용차 충돌…80대 운전자 심정지",
+    "summary": [
+      "[경주=뉴시스] 이은희 기자 = 지난 4일 오후 6시22분께 경북 경주시 감포읍 팔조리에서 시내버스와 승용차가 충돌했다.",
+      "교차로에서 좌회전하던 시내버스와 직진 중인 승용차가 부딪치면서 80대 K5 운전자가 심정지 상태로 병원에 이송됐다.",
+      "경찰은 정확한 사고 경위를 조사 중이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n12b4c8db",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605028100371",
+    "title": "월드비전-아시아산림협력기구, '산림 기반 기후행동 협력' MOU",
+    "summary": [
+      "(서울=연합뉴스) 정아란 기자 = 국제구호개발 비정부기구(NGO)인 월드비전은 지난 3일(현지시간) 타지키스탄 두샨베에서 아시아산림협력기구(AF..."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n3469361c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605030700030",
+    "title": "시그니엘 서울·부산. '브랜드 페스타' 개최…최대 20% 할인",
+    "summary": [
+      "(서울=연합뉴스) 이상서 기자 = 롯데호텔앤리조트는 시그니엘 서울과 부산이 여름 휴가철을 앞두고 공식 홈페이지보다 최대 20% 할인한 '시그니엘..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n029c62ad",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605033900055",
+    "title": "이학수 정읍시장 \"재정 혁신 성과 바탕으로 더 큰 발전 이끌자\"",
+    "summary": [
+      "(정읍=연합뉴스) 김동철 기자 = 재선에 성공한 이학수 전북 정읍시장이 5일 민선 8기 성과를 바탕으로 시민 체감형 행정과 시정 발전에 박차를 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a642be8",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605034400008",
+    "title": "[특징주] 은행주, 코스피 급락 속 '방어주'로 선전",
+    "summary": [
+      "(서울=연합뉴스) 임은진 기자 = 코스피가 5일 장 초반 크게 하락하는 가운데 은행주가 '방어주'로서 선전하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3fe54c86",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260605/134054502/1",
+    "title": "루브르박물관도 반한 ‘전통 한지’…서경덕·소이현, 홍보 영상 제작",
+    "summary": [
+      "서경덕 성신여대 교수가 배우 소이현과 문화유산 전통 한지 알리기에 나섰다.서 교수는 ‘세계를 빛낼 우리 문화유산 전통 한지’를 주제로 한 다국어 영상을 제작해 공개했다고 5일 밝혔다.전주문화재단과 공동으로 제작한 이 영상은 약 4분 분량으로, 한국어와 영어 버전으로 각각 제작됐다.이 영상은 우리 민족의 삶과 함께한 한지의 뛰어난 강도와 통기성, 그리고 탁월한 보존성을 소개했다.특히 최근 프랑스 루브르 박물관을 비롯한 세계 주요 문화재 복원 현장."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n97f88cd8",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260605/134054496/1",
+    "title": "“출구조사보다 낫네”…폴리마켓, 韓 지선 ‘이 지역’ 빼고 다 맞혔다",
+    "summary": [
+      "블록체인 기반 예측시장 플랫폼 폴리마켓(Polymarket)이 6·3 지방선거 광역단체장 선거 결과를 대체로 정확하게 맞혔지만, 최대 관심 지역이었던 서울시장과 전북지사 선거만 예측이 빗나간 것으로 나타났다.이는 부산·대구·전북·강원 등 4곳은 경합지역으로 분류하고 민주당이 서울(정원오)과 경기(추미애), 인천(박찬대), 경남(김경수), 울산(김상욱), 대전(허태정), 세종(조상호), 충남(박수현), 충북(신용한), 제주(위성곤)에서 우세할 것."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4a0f09fd",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605034000008",
+    "title": "[특징주] 삼전·닉스, 장초반 급락…각각 6%·8%대 하락세",
+    "summary": [
+      "(서울=연합뉴스) 황철환 기자 = 삼성전자[005930]와 SK하이닉스[000660]가 5일 장 초반 각각 6%와 8%대의 낙폭을 보인다."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n9c939cbc",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260605/134054482/1",
+    "title": "랄랄 “딸 서빈이 턱 봉합수술 해…영구치 안 날 수도”",
+    "summary": [
+      "유튜버 겸 방송인 랄랄이 딸이 얼굴을 다쳐 수술을 했다고 말했다.랄랄은 4일 인스타그램에 “서빈이 어제 구급차 타고 성형외과 가서 턱 봉합했다”고 했다.이어 “이가 빠져서 경과를 지켜봐야 할 것 같다.",
+      "서빈이는 다행히 잘 버텨주고 있다”고 말했다.또 “도움 주신 모든 분들 감사하다”고 했다.랄랄은 구체적인 사고 경위를 공개하진 않았다.",
+      "다만 턱을 봉합하고 이가 빠졌다는 것으로 보아 입과 턱 주위를 부딪힌 거로 추측된다.랄랄은 “치과에서 영구치가."
     ],
     "chips": [
       "#뉴스"
@@ -638,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "삼성전자",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
