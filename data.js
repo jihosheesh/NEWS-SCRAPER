@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-05 21:29:52
+// 마지막 업데이트: 2026-06-05 22:24:25
 window.NEWS_DB = [
   {
     "id": "n8396f59b",
     "category": "IT",
     "source": "인더뉴스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uTGRPU0NiR1I4aE9QMHRUX3J1dmxqTkdpV2JZMzR0MWljRk00azJpVWo2d2tCajFNcWxHZTNrbUIyOGlYZUhhTVNvTW1PQk5HbEZpd2NTTjZ2MnB5TTV0TUtvUHA?oc=5",
     "title": "젠슨 황 “한국에 4개 사업 가져왔다”…엔비디아發 AI 특수 기대감↑",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n08478446",
     "category": "IT",
     "source": "굿모닝베트남미디어",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQmFsNnFfVzQ3akNyMHdTbHBlUHkzdWZENUNhTkZrX18zN2NqcXhWa1lPT1g3R0RBY3UxVWNwWjY2T0N6NHFUcjBCcWpxdFB1MFlvR2lTSk82Uk15QlFLSFZoS29idEdKd0pfVkZXTmI?oc=5",
     "title": "[산업·AI] 젠슨 황 엔비디아 CEO, 한국 공략 강화…“AI·반도체·로봇 협력 확대”",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nc3609b09",
     "category": "사회",
     "source": "브런치",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NDMyV3FJOVJzMUxNRXFOY3NYZ1ZIX0diNXVxNXRQUFRHZ0JyS0otb25zT3R3SGhEOUZaYWxaYlBEanZXWDhZSTYzcDU4TW82NmdZ?oc=5",
     "title": "중장년 지원금 신청 (재취업,고용,채용,일자리,취업)",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n4fb4270f",
     "category": "IT",
     "source": "마켓인",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zQ3Z0X0t6TWdDYS1VWUhicnR5bTM3b3E5eXdocncxQ3lhRnhJRUFOUnd0TUlzZ0JLdEluZzlrSGhFOXBZSlRlTDFYS3NWRlhxdlU4Z3VDYTFxaFBGM1lJOGg2T3h0MWEwZE03b0daRlVVajA?oc=5",
     "title": "“반도체 우려 과도…SOCAMM 축소는 수요 둔화 아닌 공급 부족”",
     "summary": [
@@ -138,20 +138,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3bb73fa",
-    "category": "경제",
-    "source": "헤럴드경제",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
-    "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -164,6 +150,20 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n37646dcf",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "summary": [
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -243,6 +243,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n64476ff1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "47일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "summary": [
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -254,6 +268,35 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nb4e9ce67",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "127일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43c0lBUTduWFZhNkNKY1FuanUxLTl3UUZxVGVFaXI2YlZfLW9iOVRrdGtnaDNVRFE3YjZtMkRuSTV0Tkl3RlNOUlIxWWswYjgtS1lEeG5pZjh3U03SAWBBVV95cUxOaFRuVzFHS1ktaDl1MWpSd1YxT2tlcldST2dQQ3BUVk8yOXM5c21zRE81dWphNWJEVkJEMmlsN1lqSzRaeFp0N3kzUGtGa3V3Z0F5QXltVkRtdkt1YUVESnA?oc=5",
+    "title": "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집",
+    "summary": [
+      "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집 연합뉴스."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
+    "id": "nf7aebd8b",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "137일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZEt4b2tfejZsa0xDQkZoZkhuR2RlODYzOW1jNDMwclNlZXdFbDhLSU5IdDNKRVhxMkNFYmxRVkdmMVV6b0JKQ0E4MXFmZzNZTWoydUNRbWViTWJ5UUNiTDExOG1XM2FQS2d2Y2duRXd4X3fSAXdBVV95cUxPWFlCS251MExFTkdMYWFQbmpnOWxRLWFMZWNqbExaUUJvZU9tVGtDV1p0NFZZZGhTTW5RN0NMNWNTRFlFLWJzdDFIUDR3Xzd0OTZvS19UdUVsMzVPRFFkYlpWdTlMYUdreENwc3ViTnVhQmpMb2RYWQ?oc=5",
+    "title": "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은",
+    "summary": [
+      "29일 새해 첫 美 연준 FOMC 결과에 '시선집증'…한국 영향은 스트레이트뉴스."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -272,375 +315,321 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncdeb82ed",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/MI3DKMJRGA3TOOLCGRQTIYRWGE/",
-    "title": "전현무, 옥자연 취미 '복·붙'한 김대호에 정색 \"진짜 소름 돋아\" ('나혼산') [순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 전현무가 김대호의 취미를 의심했다.",
-      "5일 방송된 MBC 예능 '나 혼자 산다'(이하 '나혼산') 650회에서는 '대호랜드'를 만드는 김대호의 일상이 그려져 눈길을 끌었다.이날 김대호는 집에 실내 암장을 만들기 위해 주민센터에서 공구를 빌리고, 철물점에서 긴 못을 사며 관심을 모았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3fcdb395",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606009300053",
-    "title": "문경 시장 내 상가서 불…1명 사망, 1명 경상",
-    "summary": [
-      "(문경=연합뉴스) 손대성 기자 = 6일 오전 3시 36분께 경북 문경시 점촌동 중앙시장 내 3층 규모 상가건물의 옥탑에서 불이 났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb23824cb",
+    "id": "ndd5767c4",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658617",
-    "title": "영국 총리실, 밴스 미 부통령 발언 규탄",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657741",
+    "title": "이번주 국회에는 무슨 일이? [뉴시스국회토pic]",
     "summary": [
-      "[런던=AP/뉴시스] 강영진 기자 = 키어 스타머 영국 총리실이 5일(현지시각) JD 밴스 미 부통령의 발언을 규탄했다.",
-      "밴스는 칼에 찔려 죽어가면서도 수갑이 채워진 채 숨진 한 대학생의 죽음을 이민자 탓으로 돌렸다.",
-      "지난해 12월 사우샘프턴에서 헨리 노왁(18)이 빌럼 디그와(23)가 휘두른 흉기에 찔려 숨졌다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n2e7827dc",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606006500007",
-    "title": "앤서니 김, LIV 골프 안달루시아 2R에서 3타 줄여 선두 추격",
-    "summary": [
-      "(서울=연합뉴스) 최태용 기자 = 재미교포 앤서니 김이 LIV 골프 안달루시아(총상금 3천만달러) 대회 둘째 날 선두 추격을 시작했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naba56fcd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/MUYDEMLDGA2DIYZZGE3TGYZQMQ/",
-    "title": "'멋진 신세계' 허남준, 또 엔딩 레전드...웹소설 남주가 현실에 나타났다 [핫피플]",
-    "summary": [
-      "[OSEN=연휘선 기자] 로맨스 소설에서 글로 보고 상상만 하던 장면을 연기로 그럴싸하다 못해 멋지게 살려낸다.",
-      "'멋진 신세계'의 허남준이 또 한번 레전드 엔딩 장면으로 현실판 웹소설 남자주인공으로 드라마 팬들을 열광시켰다.",
-      "지난 5일 밤 방송된 SBS 금토드라마 '멋진 신세계' 9회에서는 차세계(허남준 분)가 신서리(강단심, 임지연 분)에게 키스하며 또."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n264197c4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/economy/smb-venture/2026/06/06/MYYDANRQHEZDOMRVHEZDKODCGQ/",
-    "title": "실적 악화, 과징금 이어 투표용지 부족까지…한솔제지·무림페이퍼 주가 ‘뚝’",
-    "summary": [
-      "국내 제지업계 투톱인 한솔제지와 무림페이퍼의 주가가 연일 하락하고 있다.",
-      "중동전쟁발 실적 악화와 공정거래위원회 과징금 부과에 이어 6·3 지방선거 과정에서 불거진 ‘투표용지 부족 사태’까지 겹치면서 투자심리가 위축된 것으로 풀이된다.",
-      "한솔제지 주가는 지난 5일 종가 기준 6400원을 기록했다."
+      "[서울=뉴시스]김근수 기자 = 6월 1일부터~6월 5일까지 국회 이슈를 사진으로 풀어본다.",
+      "[뉴시스국회토pic]은 국회에서 일어난 중요 이슈를 사진으로 풀어보는 '이번주 국회에는 무슨 일이?'로 매주 토요일 여러분을 찾아 갑니다.",
+      "◆출구조사 시청하는 정청래 더불어민주당 대표와 당직자들 ◆출구조사 지켜보는 장동혁 국민의힘 대표와 당직자들 ◆초유의 투표용지 부족 사태 ◆투표용지 부족 사태로 긴급 기자회견하는 장동혁 국민의힘 대표 ◆시계 쳐다보는 정."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n8cff0529",
-    "category": "IT",
-    "source": "테크M",
-    "time": "13분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152399",
-    "title": "'깐부'에 이어 '형님'...젠슨 황 \"고 코리아! SK·LG·네이버 치어스!\"",
-    "summary": [
-      "\"한국은 매우 바빠질 겁니다.",
-      "우리는 한국에 AI R&D(연구)를 위한 매우 중요한 연구센터도 건설하고 있죠.\"젠슨 황 엔비디아 CEO가 5일 오후 홍대입구역 인근 삼겹살 전문점 '형님 저요'를 나오면서 \"한국을 위한 선물은 네 개의 사업 기회다.",
-      "베라 루빈, 베라, (지포스)RTX 스파크, 그리고 우리의 젯슨이다\"라면서 이처럼 말했다.젠슨 황 CEO는 이날 최태원 SK그룹 회장, 구광모 LG그룹 회장, 이해진 네이버 의장과 '삼쏘(삼겹살+소주."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n91c8bcec",
+    "id": "n3fbcee96",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606008800064",
-    "title": "충북 대체로 맑고 무더위…낮 최고 27∼29도",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/GEZWINZRGU4TINDBGYYWKMRXG4/",
+    "title": "있지 채령, '뼈' 있는 조언 \"아이돌 하려면 학생 때부터 관리해야 해\" ('혜리') [순간포착]",
     "summary": [
-      "(청주=연합뉴스) 전창해 기자 = 현충일이자 토요일인 6일 충북은 대체로 맑고 무더운 날씨가 이어지겠다."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 그룹 ITZY(있지)의 채령이 초등학생 때부터 이미지 관리를 해왔다고 밝혔다.",
+      "5일 유튜브 채널 '혜리'에는 '프링글스를 잇는 먹부심..",
+      "치킨 한 마리와 고기쌈에 대하여'라는 제목의 영상이 게재됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n73d8499f",
-    "category": "스포츠",
+    "id": "n22b6b91d",
+    "category": "부동산",
     "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658608",
-    "title": "홍명보호 태극전사들, 결전의 땅 멕시코 과달라하라 입성",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657315",
+    "title": "\"10년 후 자율주행 등 기술 혁신으로 강남 집값 폭락?…천만에\"",
     "summary": [
-      "[과달라하라(멕시코)=뉴시스]안경남 기자 = 2026 북중미 월드컵에서 사상 첫 원정 8강에 도전하는 홍명보호 태극전사들이 결전지 멕시코 과달라하라에 입성했다.",
-      "홍명보 감독이 지휘하는 한국 축구대표팀은 현지 시간 5일 오후 2시50분경 멕시코 과달라하라 국제공항에 도착했다.",
-      "대표팀은 결전지이자 베이스캠프 장소인 과달라하라의 고지대 환경에 적응하고자 해발 1460m의 미국 솔트레이크시티에 사전캠프를 차리고 지난달 18일부터 훈련해왔다."
+      "[서울=뉴시스]박세은 인턴 기자 = 기술 혁신으로 주택 제조 원가와 공사비가 현재의 절반 수준으로 떨어지더라도 강남을 비롯한 대도시 핵심 지역의 집값은 폭락하지 않을 것이라는 분석이 나왔다.",
+      "미래 부동산의 가치는 건물의 물리적 조건이나 건축 비용이 아닌, 주변 인프라와의 연결성인 ‘가치 네트워크’와 신흥 자산가들의 자산 집중 현상에 의해 결정된다는 것이다.",
+      "지난 3일 유튜브 채널 '지식인사이드'에 출연한 홍익대학교 건축학부 유현준 교수와 카이스."
+    ],
+    "chips": [
+      "#부동산",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n02ce1c60",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605079900065",
+    "title": "투표용지 부족 없다더니 하루 뒤 사과한 인천선관위…신뢰 흔들",
+    "summary": [
+      "(인천=연합뉴스) 홍현기 기자 = 6·3 지방선거에서 투표용지 부족 사태를 일으키고 하루 뒤에야 경위 설명과 함께 공식 사과한 인천시선관위의 대..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "neec00ce2",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606012000007",
+    "title": "손흥민, 한국 선수 역대 두 번째로 'MLS 올스타 XI' 선정",
+    "summary": [
+      "(서울=연합뉴스) 이영호 기자 = 2026 북중미 월드컵을 앞둔 한국 축구 대표팀의 '캡틴' 손흥민(LAFC)이 2026 미국메이저리그사커(ML..."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n944d8a06",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606011800504",
+    "title": "北, '시진핑 방북' 주민들에게 알려…방문 사실만 간략히 보도",
+    "summary": [
+      "(서울=연합뉴스) 이은정 기자 = 북한이 오는 8∼9일로 예정된 시진핑 중국 국가주석의 방북 소식을 주민들에게도 알렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd0386494",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658620",
+    "title": "민주당 대전 기초의회도 장악…원구성 원만할까",
+    "summary": [
+      "[대전=뉴시스] 조명휘 기자 = 6·3지방선거 결과 대전시의회에 이어 각 자치구 기초의회도 민주당이 장악하면서 원활한 원구성 절차가 진행될 지 벌써부터 관심이다.",
+      "일부 기초의회는 여야 의석수가 같아 갈등이 우려되고, 의석 다수당 내에서도 자리싸움을 한 사례가 적지 않다는 점에서 원만한 사전조율 여부에 이목이 쏠린다.",
+      "6일 중앙선거관리위원회 선거통계시스템에 따르면 제9회 전국동시지방선거에서 5개 자치구 의회중 4개 의회는 더불어민주당이 다수당 위."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0432c9c6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658625",
+    "title": "에스파, 英 싱글차트 첫 진입…'레모네이드' 95위 데뷔",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 초신성 걸그룹 '에스파(aespa)'가 영국 오피셜 싱글 차트 톱100에 처음 진입했다.",
+      "오피셜 차트는 미국 빌보드와 함께 세계 양대 팝 차트로 통한다.",
+      "5일(이하 현지시간) 오피셜 차트에 따르면, 에스파 정규 2집 '레모네이드(LEMONADE)' 타이틀곡 '레모네이드'는 오피셜 싱글차트 톱100 최신 차트(5~11일)에 95위로 데뷔했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n25f4e0e0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/GRSDCNRVG4ZDIMTGMU4TMMZVGM/",
+    "title": "이지혜, ♥문재완 '변심' 폭로 \"내 유튜브 수입 알고 바뀌었다, 상사처럼 대해\" ('밉지않은 관종언니') [순간포착]",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 겸 방송인 이지혜가 달라진 남편의 태도를 언급해 웃음을 안겼다.",
+      "지난 4일 유튜브 채널 '밉지않은 관종언니'에는 '미국 사는 요리 유튜버 '푸디젠' 돈 벌려고 시작한 유튜브 1년 만에 66만 된 비법은?'이라는 제목의 영상이 게재됐다.이날 이지혜는 미국에서 활동 중인 푸드 크리에이터 푸디젠."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9b5742a4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/G5QWCNJSMMZGKMZSGA2TIZBWGA/",
+    "title": "김대호 \"고용 불안+건강 적신호→집 안에 클라이밍장 설치해 극복\" ('나혼산') [순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 김대호가 '대호랜드'를 만들며 맑은 광기를 보여 웃음을 안겼다.",
+      "5일 방송된 MBC 예능 '나 혼자 산다'(이하 '나혼산') 650회에서는 '대호랜드'를 만드는 김대호의 일상이 그려져 눈길을 끌었다.이날 주민센터에 들른 박경혜의 모습을 본 김대호는 \"주민센터 알아보면 저런 혜택이 되게 많."
+    ],
+    "chips": [
+      "#고용",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n33ce1113",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260529064500056",
+    "title": "[로컬의 재발견] '메밀밭의 카카오 로스터리'…제주 보롬왓의 글로벌 진화",
+    "summary": [
+      "(서귀포=연합뉴스) 박지호 기자 = 제주의 거친 바람을 견디며 새하얀 메밀꽃을 피워내던 서귀포시 표선면 성읍리의 중산간 들녘에 자리한 보롬왓이 ..."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n776fe23e",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/06/2026060600033510162",
+    "title": "\"외제차 마음 안들어 죽이고파\"…70대 노인 무차별 폭행한 남성",
+    "summary": [
+      "주차 시비로 70대 노인을 폭행한 50대 남성이 경찰에 형사 입건됐다.",
+      "남성은 피해자 측에 \"수입차를 타는 게 부럽기도 하고, 피해의식이 있었다\"며 선처를 구한 것으로 알려졌다.",
+      "JTBC '사건반장'은 5일 방송을 통해 주차 시비로 무차별적인 폭행을 당했다는 70대 A씨의 사연을 공개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85f0f0a5",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026060415334057209",
+    "title": "\"썸도 연애도 부담\"…Z세대 덮친 '짝사랑 불황' 현상[세계는Z금]",
+    "summary": [
+      "편집자주Z세대(1990년대 후반~2010년대 초반 출생자)는 빠르게 변화하는 시대 속에서 문화와 트렌드를 주도하며, 사회 전반에서 새로운 기준을 만들어가는 세대로 주목받고 있다.",
+      "[세계는Z금]에서는 전 세계 Z세대의 삶과 가치관을 조명하며, 그들이 어떻게 사회를 변화시키고 있는지를 들여다보고자 한다.",
+      "\"마지막으로 누군가를 좋아한 게 언제였는지 기억도 나지 않는다.\" 미국 Z세대 사이에서 이른바 '짝사랑 불황'(Crush Rece."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbe0da31a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/2026060606037",
+    "title": "'계엄 정당화 메시지' 지시 의혹…尹, 종합특검 첫 조사",
+    "summary": [
+      "'계엄 정당화 메시지' 지시 의혹…尹, 종합특검 첫 조사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6916af4c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/2026060605867",
+    "title": "원·달러 환율, 장중 1560원도 뚫어…금융위기 이후 최고치",
+    "summary": [
+      "원·달러 환율, 장중 1560원도 뚫어…금융위기 이후 최고치."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "n43286051",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/06/2026060509302141209",
+    "title": "[더영상] ①반려견 '질질' ②편의점 만취난동 ③평생 출입금지",
+    "summary": [
+      "한 주간 온라인을 달궜던 동영상들을 소개합니다.",
+      "[더영상] 첫 번째는 한 남성이 반려견을 강제로 끌고 다니며 나뭇가지로 때리는 영상입니다.",
+      "동물보호단체 라이프가 공개한 영상에는 지난 3일 오후 3시쯤 광주 서구 쌍촌동 한 거리에서 남성이 소형견을 학대하는 모습이 담겼습니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na850df59",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260604176000030",
+    "title": "[금주핫템] 노스페이스 '냉감 의류'·K2 '시원서커 반팔 셔츠 셋업'",
+    "summary": [
+      "[금주핫템] 노스페이스 '냉감 의류'·K2 '시원서커 반팔 셔츠 셋업'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c94575b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/2026060501651",
+    "title": "'아침부터 800명 줄섰다'…덕후들 성지 되더니 '잭팟' 터진 곳",
+    "summary": [
+      "'아침부터 800명 줄섰다'…덕후들 성지 되더니 '잭팟' 터진 곳."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0c155511",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605128000030",
+    "title": "[신상잇슈] 해태제과 '구운나초'·동서식품 '오레오오즈바' 2종",
+    "summary": [
+      "[신상잇슈] 해태제과 '구운나초'·동서식품 '오레오오즈바' 2종."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3aba4e81",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "24분 전",
+    "url": "https://www.mt.co.kr/living/2026/06/06/2026060515571465747",
+    "title": "\"3만원에 이게 돼?\" 러닝복·바람막이 사도 남아….'다이소 상품권' 돌풍",
+    "summary": [
+      "2022년 9월 첫 출시 이후 판매량 지속 증가...연령대별 인기 권종 차별화 #40대 A씨는 지인에게 선물 받은 3만원짜리 다이소 상품권(기프티카드)을 들고 매장을 찾았다.",
+      "5000원짜리 러닝복과 바람막이, 1000원~3000원짜리 화장품과 물티슈, 아이가 고른 장난감을 한 바구니에 가득 담아 계산대에서 결제하니 2만9500원이 나왔다.",
+      "남은 500원으로 산 친환경 쇼핑 봉투에 물건을 담았다."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "nce3a9e38",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606008600065",
-    "title": "인천 덕적도 해안가 절벽서 60대 관광객 추락사",
+    "id": "n61493ebd",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "24분 전",
+    "url": "https://www.mt.co.kr/culture/2026/06/06/2026060409043652780",
+    "title": "\"중국도 2조 쏟아붓는데\"…불편하고 먼 K테마파크, 갈 이유가 없다",
     "summary": [
-      "(인천=연합뉴스) 김상연 기자 = 인천 덕적도의 해안가 절벽에서 60대 여성이 갯바위로 떨어져 숨졌다."
+      "[위기의 한국 테마파크]⑤ 한국 테마파크 산업이 전환점에 섰다.",
+      "1976년 에버랜드의 전신 '자연농원' 개장 이후 50년 동안 성장해왔지만 최근 글로벌 경쟁에서 존재감이 약화하고 있다는 평가가 나온다.",
+      "글로벌 테마파크가 강력한 IP와 몰입형 콘텐츠로 진화하는 사이 국내 업체들은 여전히 어트랙션 중심 구조에 머물러 있다는 지적이다."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n388fa19d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658618",
-    "title": "'1300억 건물주' 장근석, '0.05% 블랙카드' 발급 거절 당해",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 배우 장근석이 상위 0.05%만 발급받는 고액 자산가 전용 '블랙카드'를 얻기 위해 세 차례 도전했던 일화를 고백했다.",
-      "장근석은 지난 5일 방송된 KBS 2TV 토크 예능물 '옥탑방의 문제아들'에 출연해 과거 '연예인병'을 앓았던 시절을 언급하며 이같이 밝혔다.",
-      "그는 과거 도쿄돔 단독 콘서트 성공 등 한류 스타로 활약하던 시절을 떠올리며 \"나 정도면 가질 수 있지 않나 싶어 카드사에 직접 전화했다\"고 털어놨다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n01c7f061",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003658562",
-    "title": "충북 대체로 맑음…낮 최고 26~29도",
-    "summary": [
-      "[청주=뉴시스] 연현철 기자 = 토요일인 6일 충북지역은 대체로 맑다가 밤부터 구름 많겠다.",
-      "청주기상지청에 따르면 이날 아침 최저기온은 10~15도로 전날보다 4~7도 낮다.",
-      "낮 최고기온은 26~29도로 전날보다 2~3도 높겠다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf69bcd11",
-    "category": "경제",
-    "source": "조선비즈IT",
-    "time": "29분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/06/BE22OBSYT5FFHEPNH5Y3V3GGWQ/",
-    "title": "‘기업가치 1조달러’ 앤트로픽 투자로 대박… SK텔레콤·아마존·줌 지분가치 껑충",
-    "summary": [
-      "‘기업가치 1조달러’ 앤트로픽 투자로 대박… SK텔레콤·아마존·줌 지분가치 껑충."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naf937520",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "29분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/06/B3JN4NKTQ5HFHAZD5VXISZZ32A/",
-    "title": "가격 올라도 재고 안 쌓는 ‘삼전닉스’… 메모리 초과이익과 한국 경제",
-    "summary": [
-      "2026년 미국 4대 하이퍼스케일러(대규모 데이터센터 운영 기업) 아마존웹서비스(AWS)·마이크로소프트(MS)·알파벳(구글)· 메타플랫폼이 쏟아붓는 7250억달러(약 1064조원) 규모의 인공지능(AI) 투자 붐이 한국 경제에 거대한 ‘AI 횡재’를 안겨주고 있다.",
-      "이로 인한 메모리 반도체(이하 메모리) 품귀로 삼성전자와 SK하이닉스의 2026년 영업이익."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nd640ce92",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605130200003",
-    "title": "[부동산캘린더] 내주 경기 화성 동탄2 공공분양 등 2천가구 공급",
-    "summary": [
-      "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 2천가구가 공급된다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n0e224d86",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606005751072",
-    "title": "美금리인상 기대강화에 주식·채권·금 동반급락…달러는 강세(종합)",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 고용시장 호조가 연방준비제도(Fed·연준)의 금리 인상 결정으로 이어질 것이란 예상이 확산하면서 5일..."
-    ],
-    "chips": [
-      "#금리",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n3891f0ea",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606005700072",
-    "title": "뉴욕증시, 연준 금리인상 전망에 힘실리자 급락…나스닥 4%↓",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 고용시장 호조가 연방준비제도(Fed·연준)의 금리 인상 결정으로 이어질 것이란 전망에 힘이 실리면서 ..."
-    ],
-    "chips": [
-      "#금리",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n78979f89",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260606/134060563/1",
-    "title": "“피곤 때문인 줄 알았는데”…뇌졸중 적신호 ‘이것’",
-    "summary": [
-      "갑자기 어지럽고 말이 잘 나오지 않거나 한쪽 눈이 흐려진다면 단순히 피곤해서가 뇌졸중이 보내는 위험 신호일 수 있다.6일 의료계에 따르면 뇌졸중은 뇌에 혈액을 공급하는 혈관에 문제가 생기는 질환이다.",
-      "뇌혈관이 막히는 뇌경색, 혈관이 터지는 뇌출혈으로 나뉜다.",
-      "두 경우 모두 빠르게 치료하지 않으묜 심각한 후유증이나 사망으로 이어질 수 있다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n50ea28ee",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260606/134060560/1",
-    "title": "트럼프, 5월 고용 증가에 “주가 올라야…인플레 아냐”",
-    "summary": [
-      "지난달 미국 비농업 분야 일자리 숫자가 예상보다 큰폭 늘었음에도 뉴욕증시가 하락세를 보이자, 도널드 트럼프 미 대통령은 주가가 상승해야 한다고 불만을 드러냈다.",
-      "트럼프 대통령은 5일(현지 시간) 소셜미디어(SNS) 트루스소셜에 “방금 발표된 것처럼 훌륭한 고용 보고서가 나왔으니 주식 시장은 하락할게 아니라 상승해야 한다”며 “200년동안 그래왔다”고 적었다.이어 “성장이 꼭 인플레이션(물가상승)을 의미하는 것이 아니다”며 “그렇지 않고서야 어떻."
-    ],
-    "chips": [
-      "#고용",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nabf185c1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260606/134060557/1",
-    "title": "이란 최고지도자 군사고문 “240억 달러 동결 자산 해제가 협상 관건”",
-    "summary": [
-      "미국과 이란간 평화 협상은 도널드 트럼프 행정부가 동결된 이란 자산 240억 달러(약 37조 4100억원)를 해제하는데 동의하는지 여부에 달려 있다고 이란 최고 지도자의 군사고문이 5일(현지 시각) CNN과의 인터뷰에서 밝혔다.아야톨라 모즈타바 하메네이 최고지도자의 군사고문인 모흐센 레자이는 테헤란에서 CNN과 가진 단독 인터뷰에서 이같이 밝혔다.",
-      "레자이 고문은 “협상이 교착 상태에 빠졌고 트럼프 대통령이 타개해야 한다”며 “이제 공은 트럼프."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3fc1c9f5",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606005300072",
-    "title": "국제금값, 美연준 금리인상 기대에 3%↓…올해 인상분 반납",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 고용시장 호조가 연방준비제도(Fed·연준)의 금리 인상 결정으로 이어질 것이란 기대감이 커지면서 5일..."
-    ],
-    "chips": [
-      "#금리",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n32008004",
-    "category": "사회",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152398",
-    "title": "[기자수첩] 재미에는 '효율'이 없다",
-    "summary": [
-      "\"프로젝트가 종료됐는데 옮길 곳이 없습니다.\"구로와 판교 곳곳에서 한숨 섞인 목소리가 들린다.",
-      "과거에는 프로젝트가 종료되더라도 이직 시장이 활발하게 움직였다.",
-      "개발자들은 비교적 빠르게 새로운 프로젝트를 찾아 자리를 옮겼다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n5ae216be",
-    "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152397",
-    "title": "KB금융, 중기·소상공인 지원에 100억 투입...\"지속가능 성장에 기여\"",
-    "summary": [
-      "KB금융그룹이 중소기업과 소상공인의 인공지능·녹색·안전 전환을 지원하기 위해 100억원을 출연한다.",
-      "정부가 금융권에 생산적 금융과 포용금융 확대를 주문하는 가운데, KB금융도 중소기업·소상공인 지원과 지역경제 활성화를 앞세워 정책 기조에 보폭을 맞추는 모습이다.KB금융은 5일 중소벤처기업부, 대·중소기업·농어업협력재단과 함께 상생협력기금 출연식을 열고 중소기업·소상공인을 위한 100억원 규모 상생협력사업을 추진한다고 밝혔다.KB금융은 인공지능."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n7b20a386",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260606/134060547/1",
-    "title": "美국방부→전쟁부 개명 공식화되나…하원 군사위 통과",
-    "summary": [
-      "미국 국방부 명칭을 전쟁부(Department of War)로 변경하겠다는 도널드 트럼프 행정부 조치가 처음으로 미 의회 상임위에서 가결됐다.5일(현지 시간) 미국 폴리티코 등에 따르면 미 하원 군사위원회는 전날 밤 국방부 명칭 변경이 포함된 2027회계연도 국방수권법안을 통과시켰다.",
-      "해당 조항 수정안은 친트럼프 성향으로 평가되는 로니 잭슨(공화·텍사스) 의원이 발의했으며 찬성 29표, 반대 27표로로 반영이 결정됐다.트럼프 대통령은 지난해 9."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
     ]
   }
 ];
@@ -650,20 +639,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "고용",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "고용",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
