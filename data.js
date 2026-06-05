@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-05 15:06:13
+// 마지막 업데이트: 2026-06-05 16:47:10
 window.NEWS_DB = [
+  {
+    "id": "nc3df04c8",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "7시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YX1ZJR1Zwa2NVMXROMlo4YUtUZzRTRVpBT1VRVVV6bHNuQmZQRzN5WUdxekxVZFB4Uk1hWW5SeW9hcFkxZGtxYk8zaEtVZXpuWnRXdmljbkZjNl9m?oc=5",
+    "title": "삼성 승리 이끈 박승규의 슈퍼캐치, 5월 프로야구 최고 수비 선정",
+    "summary": [
+      "삼성 승리 이끈 박승규의 슈퍼캐치, 5월 프로야구 최고 수비 선정 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
   {
     "id": "n08478446",
     "category": "IT",
     "source": "굿모닝베트남미디어",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQmFsNnFfVzQ3akNyMHdTbHBlUHkzdWZENUNhTkZrX18zN2NqcXhWa1lPT1g3R0RBY3UxVWNwWjY2T0N6NHFUcjBCcWpxdFB1MFlvR2lTSk82Uk15QlFLSFZoS29idEdKd0pfVkZXTmI?oc=5",
     "title": "[산업·AI] 젠슨 황 엔비디아 CEO, 한국 공략 강화…“AI·반도체·로봇 협력 확대”",
     "summary": [
@@ -18,10 +32,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc3609b09",
+    "category": "사회",
+    "source": "브런치",
+    "time": "14시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NDMyV3FJOVJzMUxNRXFOY3NYZ1ZIX0diNXVxNXRQUFRHZ0JyS0otb25zT3R3SGhEOUZaYWxaYlBEanZXWDhZSTYzcDU4TW82NmdZ?oc=5",
+    "title": "중장년 지원금 신청 (재취업,고용,채용,일자리,취업)",
+    "summary": [
+      "중장년 지원금 신청 (재취업,고용,채용,일자리,취업) 브런치."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n4fb4270f",
     "category": "IT",
     "source": "마켓인",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zQ3Z0X0t6TWdDYS1VWUhicnR5bTM3b3E5eXdocncxQ3lhRnhJRUFOUnd0TUlzZ0JLdEluZzlrSGhFOXBZSlRlTDFYS3NWRlhxdlU4Z3VDYTFxaFBGM1lJOGg2T3h0MWEwZE03b0daRlVVajA?oc=5",
     "title": "“반도체 우려 과도…SOCAMM 축소는 수요 둔화 아닌 공급 부족”",
     "summary": [
@@ -29,6 +59,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
+    ]
+  },
+  {
+    "id": "nd8de71f7",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PMnJUTkZ3N0pFelJ3UE1CUGctVlllYTdWZHpNU29xNUE2T2xsMnktT2RaU2RNczYwNVNGZlB1bS05RWloMzRCaWJDckFrMjhKdWVCZENlenI5VHVK?oc=5",
+    "title": "월드컵 코앞인데 야구 관람?…체코, 한국과 정반대 분위기",
+    "summary": [
+      "월드컵 코앞인데 야구 관람?…체코, 한국과 정반대 분위기 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -98,7 +142,7 @@ window.NEWS_DB = [
     "id": "na0f523e8",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "5일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
     "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
     "summary": [
@@ -138,37 +182,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb9bdfdfb",
-    "category": "스포츠",
-    "source": "푸드투데이",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
-    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
-    "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n27044a56",
-    "category": "사회",
-    "source": "브런치",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBta2tFd082ZU1RSmtGUGVwclA5VmR5ZVJXb3lXcEZKMDJLYVlRb0RzQm1CYlV0bVBsaXFoX09uWlBxZVVoQTVNdVQwRQ?oc=5",
-    "title": "서울시 강서구 일자리 지원센터 취업 채용정보 구인구직",
-    "summary": [
-      "서울시 강서구 일자리 지원센터 취업 채용정보 구인구직 브런치."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n21d1500d",
     "category": "IT",
     "source": "머니투데이",
@@ -183,17 +196,34 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4324c5c4",
+    "id": "nf5e411c3",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "시사저널",
     "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkticmh3N2tXTGo4a2JTNjQtazBsUEhkTGFYVnoxMmRTVk5LYlAwMnhxcW43d0NKVlBvcjlhUGdnMlY4RHJaZ0pKT0N3SVpGVFJ1ZFJXc09pY3lrZU1mRkc5b3dTU3FtZ3d6bWZneDJ4VzVFM01ER1ZTV3pYRkFXckxadE0zbTE2b0c0TFg4c3hwcVAyb0hZZdIBrAFBVV95cUxQQmJ1RjVPOVZ6N3plS0xLZ1BWeVVNTnV4ZHB5WlBzWVlFeXpRU0M2cWJITU5uT0x5YklqWWZvMUhLRmVsOWotU3A2R2FreE1hWlpBR3dlWlNSNEF1a1FrWngyLWVoTFl3aHFBNm5WeUxySDBaWWsxNUxLUDhzTDRVYTVROTd5SWNyT3NfQ2NNa1Rva1NPZHhtUlZ1dnBwY2JBNGhZVG5uR0V3Umhu?oc=5",
-    "title": "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01U0FIUE9UX2Vqem5FTk56T2xVT0JZa3E4MThXUzFzenhmMkpoS1dZRFJvYjJHYXZLbzhqR3AxTHBQVFhpTGdSOHdrb0RHY0lIb0hfM2dmTWNHUngzbktFQ194QWstSGtTUDc1TlVaSdIBc0FVX3lxTFBJcnZERUJjc0xnZzNwUVd2YlYzWk5sMmNzMms4a0kyVFpTQnNRZDJ2aW1KeDRtZXF2b0RPb0hmd0tCWFF4WC0xdWlPcFhaTzdZdThRWUI4SGNDLVZfc2I3UXhkN0VhWmxySUpZeU85WDNjek0?oc=5",
+    "title": "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설",
     "summary": [
-      "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈 Chosunbiz."
+      "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설 시사저널."
     ],
     "chips": [
       "#전세"
+    ]
+  },
+  {
+    "id": "n4654c9cf",
+    "category": "사회",
+    "source": "네이버 프리미엄콘텐츠",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVZYTFU0VmZOZzExd2xHZVJ2UkVFb1d0WVB6SGx0MHRHdmZEMHlOT091cmNZOFFwME9CeTdiZWNHdU1Nc0stZ3VzYUxPcUJqcWNLcEFFX1M0YWRHX0V3Zy1fZTdCZlJfMlpUMXFOaGV0dktDbHhuWXRGVldoQXhYbUxwMmdHWWNjd1loWHRB?oc=5",
+    "title": "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
+    "summary": [
+      "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기 네이버 프리미엄콘텐츠."
+    ],
+    "chips": [
+      "#네이버",
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -228,21 +258,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
-    ]
-  },
-  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -255,20 +270,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "65일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -286,32 +287,30 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb4e9ce67",
+    "id": "n0075d66f",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "127일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43c0lBUTduWFZhNkNKY1FuanUxLTl3UUZxVGVFaXI2YlZfLW9iOVRrdGtnaDNVRFE3YjZtMkRuSTV0Tkl3RlNOUlIxWWswYjgtS1lEeG5pZjh3U03SAWBBVV95cUxOaFRuVzFHS1ktaDl1MWpSd1YxT2tlcldST2dQQ3BUVk8yOXM5c21zRE81dWphNWJEVkJEMmlsN1lqSzRaeFp0N3kzUGtGa3V3Z0F5QXltVkRtdkt1YUVESnA?oc=5",
-    "title": "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집",
+    "source": "유니콘팩토리",
+    "time": "111일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0ZEFKQVEtRlUxTG03Mi1FVEhIdjEzR1c1c3FPQzFXQTQ4US1MVjN3cEw3U1NpcG5MSE5xd0JwNl9nQVlOc3ZwWmFQaHB5NGpfZklLMHdVcDA4Ym5BRWRJd2hEQS1KOWVOdjFEQg?oc=5",
+    "title": "벤처투자 열기 달아오른다...'1조 몸값' 유니콘도 속속 등장",
     "summary": [
-      "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집 연합뉴스."
+      "벤처투자 열기 달아오른다...'1조 몸값' 유니콘도 속속 등장 유니콘팩토리."
     ],
     "chips": [
-      "#스타트업",
-      "#채용"
+      "#스타트업"
     ]
   },
   {
-    "id": "n46f59f4d",
+    "id": "n23874b78",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "154일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
+    "source": "v.daum.net",
+    "time": "127일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yNFU3WXJfOU9qYk83RUFjM0VEbFk5UjF4QUphMnFNdGpOM2VRM1RPblk1Y28tV29FOTBpemt6UWtoX0RvN0FWTjVYZ2xDUE0?oc=5",
+    "title": "“야구가 4대스포츠 최고 흥행인데 연봉이…” 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정",
     "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
+      "“야구가 4대스포츠 최고 흥행인데 연봉이…” 양현종 건의에 KBO 응답했다! 2000→2400→2700→3000→3300 인상 확정 v.daum.net."
     ],
     "chips": [
-      "#손흥민",
       "#KBO"
     ]
   },
@@ -367,10 +366,90 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8572d695",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003657970",
+    "title": "마릴린 먼로 100주년 경매…'빛바랜 속옷 1000만원' 역시 세기의 아이콘",
+    "summary": [
+      "[서울=뉴시스]서영은 인턴 기자 = 마릴린 먼로의 탄생 100주년을 기념하는 대형 경매가 열렸다.",
+      "이번 경매에서는 그녀가 생전에 착용했던 가장 사적인 소장품을 차지하기 위한 입찰 경쟁이 화제다.",
+      "4일(현지시간) BBC와 캘리포니아포스트 등에 따르면 경매사 '줄리언스 옥션(Julien's Auctions)'과 영화 채널 TCM이 베버리힐즈 페닌슐라 호텔에서 '마릴린 100년' 경매를 진행 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e5587d8",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260606/134059948/2",
+    "title": "긴장속 설레는 과달라하라… 현지인 “손흥민-이강인 좋아”",
+    "summary": [
+      "붉게 물든 저녁 하늘 아래 화산처럼 솟아오른 경기장은 압도적 위용을 뽐내고 있었다.",
+      "분화구를 떠오르게 하는 도넛 형태의 지붕과 용암처럼 붉게 칠해진 관중석을 보고 있으니 그라운드의 뜨거운 열기와 함성이 하늘로 분출될 것 같은 느낌이 들었다.",
+      "해발 1600m 고지대에 자리한 멕시코 과달라하라 스타디움(4만8000석)은 프랑스 건축가 장마리 마소와 다니엘 푸제가 설계했다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n5590f457",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260606/134059943/2",
+    "title": "韓 속한 A조 멕시코-체코, 나란히 최종 평가전 승리",
+    "summary": [
+      "한국 축구 대표팀이 2026 북중미 월드컵 A조에서 상대하는 체코와 멕시코가 5일 마지막 ‘모의고사’에서 각각 승리했다.",
+      "한국이 12일 조별리그 1차전에서 맞붙는 체코는 이날 미국 뉴저지주에서 열린 과테말라와의 평가전에서 3-1 승리를 거뒀다.",
+      "국제축구연맹(FIFA) 랭킹 41위(경기 전 기준)인 체코는 1일 코소보(78위)를 2-1로 꺾은 데 이어 이날 과테말라(96위)를 상대로 2연승을 거두면서 본선 준비를 마쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne47a3ea1",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260606/134059941/2",
+    "title": "세계 1위 佛, 코트디부아르에 1-2 역전패",
+    "summary": [
+      "2026 북중미 월드컵 우승 후보 프랑스가 다크호스 코트디부아르에 일격을 당했다.",
+      "국제축구연맹(FIFA) 랭킹 1위(경기 전 기준) 프랑스는 5일 열린 코트디부아르(34위)와의 안방 평가전에서 1-2로 졌다.",
+      "프랑스는 전반 45분 라얀 셰르키(맨체스터시티)가 오른발 슈팅으로 선제골을 터뜨렸지만 후반전 들어 수비 조직력이 흔들리면서 역전패를 당했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n88148b36",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260606/134059939/2",
+    "title": "[스포츠 단신]이정후, 12경기 연속안타… MLB 진출후 최장",
+    "summary": [
+      "‘바람의 손자’ 이정후(28·샌프란시스코·사진)가 12경기 연속 안타 행진을 이어갔다.",
+      "미국프로야구 메이저리그(MLB) 진출 이후 최장 기록이다.",
+      "이정후는 팀이 12-9로 이긴 5일 밀워키 방문경기에 5번 타자 우익수로 선발 출전해 5타수 4안타 1타점을 남겼다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nb3dc9573",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "8분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152395",
     "title": "홍대 PC방에서 '페이커' 만난 젠슨 황 \"韓, 내게 특별한 나라\"",
     "summary": [
@@ -383,269 +462,182 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na9e1c7ca",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "방금 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260606/134060469/1",
-    "title": "‘152억 건물주’ 노홍철, 서울 집값에 깜짝…“18평 전세가 6억”",
-    "summary": [
-      "방송인 노홍철이 서울의 높은 전세가에 놀랐다.",
-      "4일 노홍철의 유튜브 채널에는 ‘노홍철 충격 받은 요즘 서울 신혼집 현실 (18평 쓰리룸)’이라는 제목의 영상이 공개됐다.",
-      "이날 노홍철은 유튜브 채널 PD의 신혼집을 찾았다."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
-    "id": "na7b3b81e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260606/134060466/1",
-    "title": "브아걸 제아, 18일 새 싱글 ‘로맨스’ 발매…파격 변신 예고",
-    "summary": [
-      "브아걸 제아가 솔로 가수로 컴백한다.4일 제아는 공식 SNS에 새 싱글 ‘로맨스’(ROMANCE) 발매 소식을 알렸다.",
-      "함께 공개된 사진 속 제아는 차창 너머로 카메라를 응시하며 강렬한 존재감을 드러냈다.",
-      "은은하게 빛나는 화이트톤 의상과 금발의 웨이브 헤어가 어우러져 화려하면서도 파격적인 비주얼로 눈길을 끌었다.오는 18일 오후 6시 ‘로맨스’ 발매와 함께 제아는 JTBC ‘아는 형님’에도 출격하며 컴백 열기를 이어간다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b557884",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260606/134060462/1",
-    "title": "‘채널십오야’ 카리나 “에스파 멤버들, 생각보다 관리 안 해”",
-    "summary": [
-      "카리나가 에스파의 식단 관리에 대해 밝혔다.5일 오후 공개된 유튜브 채널 ‘채널십오야’의 ‘나영석의 와글와글’에는 걸그룹 에스파가 출연한 가운데 나영석 PD가 “요즘 각자 꽂힌 음식 얘기해 달라”라고 물었다.이에 윈터가 “난 완전 마라샹궈”라고 답해 이목이 쏠렸다.",
-      "“근데 그런 건 활동할 때 (몸매 관리 등을 위해) 좀 자제해야 하지 않나? 어떠냐?”라며 궁금해했다.그러자 카리나가 입을 열었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c3cd461",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260606/134060459/1",
-    "title": "장미화, 5일 부친상 비보…슬픔 속 빈소 지키는 중",
-    "summary": [
-      "코미디언 장미화(55)가 부친상을 당했다.5일 뉴스1 취재 결과, 장미화의 부친은 고(故) 장상덕 씨가 이날 별세했다.고인의 빈소는 서울 광진구 능동로 건국대학교병원 장례식장 203호에 마련됐다.",
-      "장미화를 비롯한 유가족은 슬픔 속에 빈소를 지키는 중이다.",
-      "발인은 7일 오전 8시 30분이며 장지는 인천가족공원이다.한편 장미화는 1992년 KBS 제2회 대학개그제 대상을 수상하며 KBS 공채 9기 개그맨으도 데뷔했다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc189e696",
+    "id": "n4f3b96e4",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003657237",
-    "title": "\"외도 추궁하니 의처증?\"…가출한 아내에 이혼·양육비 청구 결과는",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658602",
+    "title": "푸틴, 젤렌스키 공개 서한 통해 요청한 대면 회담 거부 “의미없어”",
     "summary": [
-      "[서울=뉴시스]서영은 인턴 기자 = 외도 정황을 추궁받자 남편을 의처증으로 몰며 가출한 아내의 이혼 청구는 인정되기 어렵고 소송 중이라도 양육비 사전처분을 신청할 수 있다는 법조계 조언이 나왔다.",
-      "5일 YTN 라디오 '조인섭 변호사의 상담소'에는 무명 트롯 가수인 아내와 재혼 가정을 꾸린 사연자 A씨의 사연이 소개됐다.",
-      "A씨는 아내가 행사를 이유로 외박이 잦아지고 연락이 두절되는 날이 늘어나자 의심이 커졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nda5ada1e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/06/2026060521354175593",
-    "title": "'39세' 류현진, 실책도 이겨냈다 \"에이스 다운 피칭\"... 다승 공동 1위-ERA 2점대 우뚝 [부산 현장]",
-    "summary": [
-      "류현진(39·한화 이글스) 앞에서 롯데 자이언츠는 거인이 아니었다.",
-      "완벽한 킬러의 모습을 뽐낸 류현진을 앞세운 한화가 기분 좋은 승리를 챙겼다.",
-      "류현진은 5일 부산 사직야구장에서 열린 롯데 자이언츠와 2026 신한 SOL KBO리그 방문경기에 선발 등판해 6이닝 동안 86구를 던져 3피안타 무사사구 2탈삼진 2실점(비자책) 완벽투를 펼쳤다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n208bc21f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003656747",
-    "title": "\"매일 아침 연어 먹는다\"…82세 선우용여, '동안 비결' 레시피는",
-    "summary": [
-      "[서울=뉴시스]정우영 인턴 기자 = 배우 선우용여가 매일 아침마다 연어를 먹는다고 밝혔다.",
-      "3일 유튜브 채널 '순풍 선우용여'에는 '미슐랭 맛집부터 초호화 호텔까지 82세 선우용여 부산 당일치기'라는 제목의 영상이 올라왔다.",
-      "선우용여는 \"연어를 좋아해서 매일 아침마다 먹는다\"며 자신만의 특별한 연어 레시피를 소개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6738f4dd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260604_0003655923",
-    "title": "\"항산화에 다이어트 효과까지\"…정재형이 추천한 '쑥갓 샐러드'",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 가수 정재형(56)이 쑥갓 샐러드 레시피를 소개했다.",
-      "지난달 30일 정재형은 자신의 유튜브 채널에 '곧 여름이라 식단 시작하셨죠? 샐러드 레시피 하나 추가해 드립니다'라는 제목의 영상을 공개했다.",
-      "방송인 김태균(53)을 초대한 정재형은 직접 쑥갓 샐러드 등 여러 음식을 만들었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd377ce29",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003658567",
-    "title": "이란 해군, 호르무즈 통과 시도 美 구축함 공격 주장…미군 부인",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 이란 준관영 파르스 통신은 이란 해군이 호르무즈 해협을 통과하려던 미 구축함에 대해 미사일과 드론 공격을 가했다고 보도했으나 미국측은 부인했다.",
-      "파르스 통신은 “이란 해군이 가디르 미사일과 신형 공격용 드론 마르티드 다나이의 경고 사격을 가했으며 미 구축함 USS 트럭스턴과 USS 메이슨이 오만해를 벗어나 인도양으로 퇴각했다”고 주장했다.",
-      "미국은 자국 군함이 호르무즈 해협 진입을 시도하던 중 미사일에 피격됐다는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1be6c93d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/06/ME4GIN3CGY3WMMBSG4YTAYJWGQ/",
-    "title": "선발 1회 강판 문제없어, KS 때도 해봤잖아...불펜 8⅓이닝 1실점→극적인 역전승, 염갈량 \"불펜투수들 모두 칭찬하고 싶다\"",
-    "summary": [
-      "[OSEN=창원, 한용섭 기자] 프로야구 LG 트윈스가 또 역전승을 거두며 추격자들을 따돌렸다.",
-      "LG는 5일 창원 NC파크에서 열린 NC와 경기에서 5-4 역전승을 거뒀다.",
-      "2위 KT와 3위 삼성이 나란히 패배, 2위와 승차를 2.5경기 차이로 벌렸다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na2b09ebb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0afe15b0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/06/06/N2DYGZBRKFHZDHQSWZFDFHERE4/",
-    "title": "[사설] 조정식 새 국회의장, 폭주 말라는 선거 민심 받들길",
-    "summary": [
-      "[사설] 조정식 새 국회의장, 폭주 말라는 선거 민심 받들길."
+      "[서울=뉴시스] 구자룡 기자 = 블라디미르 푸틴 러시아 대통령은 5일(현지 시각) 볼로디미르 젤렌스키 우크라이나 대통령이 공개 서한을 통해 제안한 대면 협상을 거부하며 “아무 의미가 없다”고 말했다.",
+      "4일 공개된 서한은 러시아가 2022년 2월 우크라이나에 대한 전면 침공을 시작한 뒤 젤렌스키 대통령이 푸틴 대통령에게 직접 보낸 첫 공개 메시지다.",
+      "푸틴 대통령은 이날 29회 상트페테르부르크 국제경제포럼(SPIEF) 연설에서 젤렌스키 대통령이 회."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nee219eb0",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/living/2026/06/05/2026060523573895803",
-    "title": "형지I&C, 의류 기부 캠페인으로 자원순환 실천",
-    "summary": [
-      "환경의 날 맞아 고객·임직원 참여 확대, ESG 경영 강화 형지I&C의 여성복 브랜드 캐리스노트가 환경의 날을 맞아 의류 기부 캠페인 '리(Re):캐리스'를 성공적으로 마무리하며 자원순환 실천에 나섰다.",
-      "지난 4월 22일 지구의 날부터 45일간 진행된 이번 캠페인은 고객과 임직원이 함께 참여하는 의류 순환 프로그램으로, 지속가능한 패션 문화 확산을 목표로 추진됐다.",
-      "'리(Re):캐리스'는 고객이 더 이상 입지 않는 캐리스노트 의류를 매장에 기부."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n0850f9c5",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/living/2026/06/05/2026060523554729147",
-    "title": "형지I&C, 예작 인기 확산… 백화점 넘어 아울렛도 성장",
-    "summary": [
-      "선물 수요·기능성 셔츠 호조, 아울렛 매출 28% 증가 형지I&C의 셔츠 브랜드 예작(YEZAC)이 백화점에 이어 아울렛에서도 성장세를 이어가며 유통 채널 전반에서 판매 호조를 보이고 있다.",
-      "예작은 브랜드 리뉴얼과 앰배서더 마케팅 효과에 힘입어 실속형 소비층과 선물 수요를 동시에 끌어들이며 매출 확대에 성공했다.",
-      "여기에 이른 무더위로 기능성 셔츠와 스타일링 아이템에 대한 수요가 늘어난 것도 성장 배경으로 꼽힌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd5029a41",
+    "id": "n14cedfc0",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605073352007",
-    "title": "'세계 최강' 안세영, 초추웡 완파하고 인니오픈 4강 안착(종합2보)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606001700108",
+    "title": "푸틴 \"젤렌스키 서한 무례, 만남 무의미…러군 계속하라\"",
     "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 세계 여자 배드민턴 최강 안세영(삼성생명)이 메이저 대회인 인도네시아 오픈 4강에 안착했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfe73a034",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/living/2026/06/05/2026060523535032457",
-    "title": "테너 신지한, 유럽 무대 경험 담은 독창회 개최",
-    "summary": [
-      "6월 12일(금) 오후 7시 30분, 금호아트홀 연세서 한국가곡·오페라 아리아 선보여 유럽 주요 오페라 무대에서 활동해 온 테너 신지한이 오는 6월 12일 금호아트홀 연세에서 독창회를 열고 관객들과 만난다.",
-      "이번 공연은 귀국 후 두 번째 독창회로, 오페라 아리아와 예술가곡, 스페인 성악곡, 한국가곡을 아우르는 폭넓은 프로그램으로 구성됐다.",
-      "특정 작곡가나 시대에 국한하지 않고 다양한 국가와 시대를 대표하는 성악 작품들을 한 무대에서 선보이는 것이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9117f132",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/opinion/column/2026/06/05/3TXJSQ7AN5FCPABJTARWFRUKOE/",
-    "title": "[강천석 칼럼] 6·3 선거의 패배자들, 대통령·정청래·장동혁",
-    "summary": [
-      "[강천석 칼럼] 6·3 선거의 패배자들, 대통령·정청래·장동혁."
+      "(이스탄불=연합뉴스) 김동호 특파원 = 블라디미르 푸틴 러시아 대통령은 5일(현지시간) 직접 만나 종전안을 논의하자는 볼로디미르 젤렌스키 우크라..."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n43a58956",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/06/2026060600282045330",
+    "title": "\"대체 얼마나 예쁘길래\" EPL 스타, 월드컵 탈락 후 '세젤예' 약혼녀와 초호화 휴가 즐기자 \"진정한 승리자\"",
+    "summary": [
+      "노팅엄 포레스트 미드필더 모건 깁스 화이트(26)가 잉글랜드 국가대표팀 2026 북중미 월드컵 명단 탈락의 아픔을 뒤로하고 약혼녀와 달콤한 휴가를 즐기고 있다.",
+      "영국 '더선'은 5일(한국시간) \"깁스 화이트가 '세상에서 가장 예쁜 여자'로 불리는 약혼녀와 휴가를 보내며 월드컵 출전 불발의 아쉬움을 달래고 있다\"고 보도했다.",
+      "깁스 화이트는 올 시즌 잉글랜드 프리미어리그(EPL)에서 미드필더임에도 15골을 터뜨리며 맹활약했다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n50acb7e4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/06/G5STQYJUGY2DIY3BMEYTGMZZGE/",
+    "title": "'충격! 김민재 팀 동료였다' HERE WE GO 속보! 레알 마드리드 페레즈 회장의 1억5000만유로 월클 픽 주인공, 프랑스 국대 마이클 올리세..뮌헨 구단 \"2억유로라도 안 팔아\"",
+    "summary": [
+      "[스포츠조선 노주환 기자]며칠 후 다시 스페인 거함 레알 마드리드의 회장에 당선될 가능성이 높은 플로렌티노 페레즈 회장이 프랑스 국가대표 공격수 마이클 올리세(바이에른 뮌헨)를 영입하기로 점찍은 것으로 알려졌다.",
+      "페레즈 회장은 올리세 영입에 무려 이적료 1억5000만유로를 공식 제안할 예정이라고 한다.",
+      "유럽 축구 이적 전문가 파브리지오 로마노는 5일(한국시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c0383e5",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658598",
+    "title": "트럼프, 5월 고용 증가에 \"주가 올라야…인플레 아냐\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 지난달 미국 비농업 분야 일자리 숫자가 예상보다 큰폭 늘었음에도 뉴욕증시가 하락세를 보이자, 도널드 트럼프 미 대통령은 주가가 상승해야 한다고 불만을 드러냈다.",
+      "트럼프 대통령은 5일(현지 시간) 소셜미디어(SNS) 트루스소셜에 \"방금 발표된 것처럼 훌륭한 고용 보고서가 나왔으니 주식 시장은 하락할게 아니라 상승해야 한다\"며 \"200년동안 그래왔다\"고 적었다.",
+      "이어 \"성장이 꼭 인플레이션(물가상승)을 의미하는."
+    ],
+    "chips": [
+      "#고용",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb8b09d1f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606001500087",
+    "title": "'탑건 매버릭' 배우 제임스 핸디, LA자택서 피습 사망",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 영화 '쥬만지'와 '탑건 매버릭' 등에 출연했던 할리우드 배우 제임스 핸디(81)가 흉기에 찔려 숨졌다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne467b5a4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/opinion/palmyeonbong/2026/06/06/FWNEWJSGBRAVNMUM2UD5JAZKKA/",
+    "title": "[팔면봉] 6·3 선거 통해 2030 民心이 던진 명확한 메시지. 외",
+    "summary": [
+      "[팔면봉] 6·3 선거 통해 2030 民心이 던진 명확한 메시지. 외."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbdd25360",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606001300085",
+    "title": "WTO \"중동전쟁에도 세계 무역 호조…둔화 시작 조짐도\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 올해 상반기 세계 상품 무역이 중동 전쟁에도 호조를 이어갔으나 둔화가 시작됐을 조짐도 보인다고 세계무역기구(..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nc1524abb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658596",
+    "title": "[속보] 푸틴, 젤렌스키 공개 서한으로 요청한 대면 회담 '거부'",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 kjdragon@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3bad3ea0",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "44분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/06/2026060600192213410",
+    "title": "\"내일은 또 무슨 옷 입지?\" 무명 女 미녀 선수, '협찬 0개'로 프랑스 오픈 결승행→전 세계 열광 \"숙박만 겨우 구해서...\"",
+    "summary": [
+      "폴란드 출신 테니스 선수 마야 흐발린스카(24)가 스폰서가 없어 매 경기 다른 옷을 입었다는 당당한 고백에 팬들이 뜨거운 찬사를 보내고 있다.",
+      "영국 '더선'은 5일(현지시간) \"흐발린스카가 기적을 일으키며 프랑스 오픈 결승에 진출했다\"며 \"그의 돌풍뿐만 아니라 대회 의상과 관련한 유쾌한 인터뷰가 팬들의 큰 사랑을 받고 있다\"고 전했다.",
+      "흐발린스카는 프랑스 오픈에서 지난달 18일 첫 예선 경기를 시작으로 연일 이변을 연출하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na54912d2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606000800098",
+    "title": "독·프 정상 \"EU 확대, 속도 내야\"…가입절차 간소화 등 제안",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)의 쌍두마차인 독일과 프랑스 정상이 EU의 확장 절차에 속도를 낼 것을 요구했다고 dpa 통..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na3256d1f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "50분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/06/06/FMMML2M2Z5BO3DVXIZQKJ736SY/",
+    "title": "이념보다 이슈… 서울 2030, 절반 넘게 野 찍었다",
+    "summary": [
+      "이념보다 이슈… 서울 2030, 절반 넘게 野 찍었다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -655,20 +647,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
