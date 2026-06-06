@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-06 13:30:53
+// 마지막 업데이트: 2026-06-06 14:30:50
 window.NEWS_DB = [
   {
     "id": "nfa1c41a0",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
     "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
     "summary": [
@@ -185,14 +185,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf5e411c3",
+    "id": "n4324c5c4",
     "category": "부동산",
-    "source": "시사저널",
+    "source": "Chosunbiz",
     "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01U0FIUE9UX2Vqem5FTk56T2xVT0JZa3E4MThXUzFzenhmMkpoS1dZRFJvYjJHYXZLbzhqR3AxTHBQVFhpTGdSOHdrb0RHY0lIb0hfM2dmTWNHUngzbktFQ194QWstSGtTUDc1TlVaSdIBc0FVX3lxTFBJcnZERUJjc0xnZzNwUVd2YlYzWk5sMmNzMms4a0kyVFpTQnNRZDJ2aW1KeDRtZXF2b0RPb0hmd0tCWFF4WC0xdWlPcFhaTzdZdThRWUI4SGNDLVZfc2I3UXhkN0VhWmxySUpZeU85WDNjek0?oc=5",
-    "title": "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkticmh3N2tXTGo4a2JTNjQtazBsUEhkTGFYVnoxMmRTVk5LYlAwMnhxcW43d0NKVlBvcjlhUGdnMlY4RHJaZ0pKT0N3SVpGVFJ1ZFJXc09pY3lrZU1mRkc5b3dTU3FtZ3d6bWZneDJ4VzVFM01ER1ZTV3pYRkFXckxadE0zbTE2b0c0TFg4c3hwcVAyb0hZZdIBrAFBVV95cUxQQmJ1RjVPOVZ6N3plS0xLZ1BWeVVNTnV4ZHB5WlBzWVlFeXpRU0M2cWJITU5uT0x5YklqWWZvMUhLRmVsOWotU3A2R2FreE1hWlpBR3dlWlNSNEF1a1FrWngyLWVoTFl3aHFBNm5WeUxySDBaWWsxNUxLUDhzTDRVYTVROTd5SWNyT3NfQ2NNa1Rva1NPZHhtUlZ1dnBwY2JBNGhZVG5uR0V3Umhu?oc=5",
+    "title": "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈",
     "summary": [
-      "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설 시사저널."
+      "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#전세"
@@ -369,45 +369,176 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n04c8da1d",
+    "id": "n6a20aa07",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606049300108",
-    "title": "크렘린궁 \"김정은, 언제나 환영받는 손님\"",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260606/134061425/1",
+    "title": "“영국 항모 프린스오브웨일스호, 나토 훈련 앞두고 또 고장”",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 드미트리 페스코프 러시아 크렘린궁 대변인은 6일(현지시간) 김정은 북한 국무위원장에 대해 \"그는 언제나 ..."
+      "영국 해군 항공모함 HMS 프린스오브웨일스호가 북대서양조약기구(NATO·나토) 훈련을 앞두고 또 다시 고장이 났다고 텔레그래프, 가디언 등이 5일(현지 시간) 보도했다.",
+      "보도에 따르면 영국 국방부 관계자들은 “경미한 기술적인 문제”로 프린스오브웨일스호가 고장이 났다.",
+      "특히 프린스오브웨일스호는 러시아의 공격적 행위를 억제하고 해저 핵심 인프라를 보호하기 위한 나토 훈련을 앞두고 고장이 났다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc234f8e2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/06/GMYDMYJQGA4TGZDCMNTGINLDGA/",
-    "title": "1회 1실점 후 각성? 7이닝 88구 역투…사령탑도 인정, \"실점 이후 남은 이닝 완벽하게 막았다\" [오!쎈 잠실]",
+    "id": "n5c27e695",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606039451007",
+    "title": "10점차 뒤집고 대역전…안세영, 천위페이 꺾고 인니 오픈 결승행(종합)",
     "summary": [
-      "[OSEN=잠실, 홍지수 기자] 프로야구 두산 베어스가 4연승에 성공했다.",
-      "선발 최민석이 호투를 펼쳤다.두산은 6일 잠실야구장에서 열린 2026 신한 SOL KBO리그 키움 히어로즈와 홈경기에서 9-1 승리를 거뒀다.",
-      "선발 등판한 최민석이 호투를 펼쳤고, 타선은 손가락 물집 회복 후 돌아온 키움의 에이스 안우진을 무너뜨렸다.경기 후 김원형 감독은 \"선발 최."
+      "(서울=연합뉴스) 이대호 기자 = 배드민턴 여자 단식 세계 랭킹 1위 안세영(삼성생명)이 놀라운 뒷심을 발휘하며 시상대 꼭대기에 한 계단만을 남..."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n5817e67e",
+    "id": "n5408cf7a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260606/134061422/1",
+    "title": "尹측 “고성 지른 건 종합특검 측…검사 신문 시 조사 응하겠다 해”",
+    "summary": [
+      "윤석열 전 대통령 측이 2차 종합특별검사팀의 첫 소환 조사 과정에서 경찰의 조사를 거부한 것은 맞지만 고성을 지른 적은 없다고 밝혔다.윤 전 대통령 변호인단은 6일 조사를 마친 뒤 입장문을 통해 “일부 매체가 조사 과정에서 윤 전 대통령이 특검을 향해 고성을 지른 것처럼 보도하고 있으나 사실과 다르다”고 전했다.이어 “오전 조사 과정에서 고성을 지른 사람은 윤 전 대통령이 아니라 특검 측이었다”고 밝혔다.변호인단은 “특검 측은 검사 신분이 아닌."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4387ca67",
     "category": "사회",
     "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/GE2DIYZYMI4DSOBWMEZWGNLBME/",
-    "title": "이민우♥이아미, 늦은 신혼여행 떠났다..허니문 베이비 언급 “남동생 만들어 올지도”(살림남2)[핫피플]",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/MNSGIN3CGM3TIN3BHE4WKMZTGY/",
+    "title": "임지연♥허남준, 연애→뽀뽀까지 했지만···압수수색·역 회귀까지('멋진 신세계')[순간포착]",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 이민우의 어머니가 셋째를 바라는 마음을 드러냈다.6일 방송된 KBS 2TV ‘살림하는 남자들 시즌2’(이하 살림남2)에서는 신혼여행을 떠나는 이민우 부부의 모습이 그려졌다.이민우와 이아미가 뒤늦은 신혼여행을 떠났다.",
-      "이를 보던 이요원은 “저 때는 유럽 배낭여행이 유행이었다."
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘멋진 신세계’ 임지연과 허남준의 연애가 순풍에 돛을 단 듯했으나 위기는 금세 찾아왔다.6일 방영한 SBS 금토드라마 ‘멋진 신세계’(연출 한태섭, 극본 강현주, 제작 스튜디오S·길픽쳐스)에서는 신서리(임지연 분)와 차세계(허남준 분)의 연애가 시작되었으나 다디단 시간은 금세 끝이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na448ff04",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/GBQTMMRTGUZWEMJTHA3DONZSG4/",
+    "title": "유연석, 1억 원대 세컨드 카 마련해 '눈길' \"데일리로 타려고\" ('주말연석극')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 유연석이 세컨드 카를 공개했다.",
+      "6일 유튜브 채널 '주말연석극'에는 '내돈내산 테슬라 FSD 자율주행 총 리뷰'라는 제목의 영상이 게재됐다.",
+      "이날 유연석은 고민하다 최근 전기차를 마련했다고 알렸다.앞서 유연석은 부모님을 모시는 콘텐츠를 진행한 적 있다."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n99390baa",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606049900081",
+    "title": "노르망디 찾은 미 국방 \"유럽, 재래식 방위 먼저 책임져라\"",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 프랑스를 방문 중인 피트 헤그세스 미국 국방부(전쟁부) 장관은 6일(현지시간) \"유럽이 먼저 재래식 방위를 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nde695625",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/GVRDMZTCGNQWENLGMIZTQMRXGA/",
+    "title": "‘임신’ 이다해, ♥세븐 백허그에 심진화 음식 대접까지..사랑 가득 일상 “잊지 못해”",
+    "summary": [
+      "[OSEN=임혜영 기자] 배우 이다해가 심진화에게 식사 대접을 받았다.이다해는 6일 개인 채널에 “이 세상 태어나서 내가 먹어 본 꽃게찜 중 제일 맛있었던 ‘심진화표 간장꽃게찜’ 와..",
+      "또 먹고 싶다ㅠㅠ 우리 진화 언니 정말 사랑과 정성이 가득했던 이 생일상 겸 해븐이모상? 아무튼 잊지 못해 또 해줘 제발”이라는 글과 함께 여러 장의 사진을 게재했다.공개된."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c610640",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/GE2WGNDEMJSGMZTGMM2GCMZZGU/",
+    "title": "임지연, 다시 조선으로 돌아갔다···교통사고 후 허남준 몰락('멋진 신세계')[종합]",
+    "summary": [
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘멋진 신세계’ 임지연과 허남준이 사소한 갈등으로 멀어진 가운데 임지연과 윤주상이 식당 안에서 정체불명의 교통사고를 당했다.6일 방영한 SBS 금토드라마 ‘멋진 신세계’(연출 한태섭, 극본 강현주, 제작 스튜디오S·길픽쳐스)에서는 신서리(임지연 분)와 차세계(허남준 분)의 본격적인."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n37783570",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606050000004",
+    "title": "정성호 \"투표용지 부족 진상규명…부정선거 음모론은 용납안돼\"",
+    "summary": [
+      "(서울=연합뉴스) 이승연 기자 = 정성호 법무부 장관이 6·3 지방선거 투표용지 부족 사태에 대한 진상 규명을 촉구하는 동시에 이를 계기로 다시..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n87373b88",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606049800108",
+    "title": "하마스 인사 \"가자 거리서 총 안보일 것\"…무장해제는 선그어",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 팔레스타인 무장정파 하마스의 고위 관계자는 가자지구에서 무기 사용을 자제하겠다면서도 완전히 무장해제할 뜻..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2017fe71",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "42분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/06/2026060622333480851",
+    "title": "\"역세권이 비싼 이유\"…물리학 박사가 밝힌 '핵폭발 생존법' 깜짝",
+    "summary": [
+      "물리학 박사 채승병 교수가 핵폭발에서 생존할 수 있는 방법에 대해 밝혔다.",
+      "이를 들은 방송인 이수근은 \"그래서 역세권이 비싼 것\"이라며 농담했다.",
+      "6일 JTBC '아는 형님' 532회 방송은 현충일 특집으로 꾸려졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c67c33b",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "45분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260606/134061420/1",
+    "title": "FIFA, 월드컵 차출 구단에 5536억원 보상…지난 대회보다 70% 증가",
+    "summary": [
+      "국제축구연맹(FIFA)이 2026 북중미 월드컵에 출전하는 선수들의 소속 팀에 3억5500만달러(약 5536억원) 규모의 보상금을 지급한다.FIFA는 6일(한국시간) 홈페이지를 통해 “획기적인 클럽 혜택 프로그램을 공개한다”면서 보상금 지급 액수와 방법을 공개했다.FIFA는 월드컵 기간 선수들이 소속 클럽팀을 떠나 월드컵 기간에 차출되는 만큼, 각 소속 팀에 ‘보상금’을 지원한다.",
+      "지난 2010 남아공 대회부터 처음 시작됐다.이번 대회는 참가국."
     ],
     "chips": [
       "#뉴스"
@@ -417,7 +548,7 @@ window.NEWS_DB = [
     "id": "nc60ab469",
     "category": "사회",
     "source": "동아일보",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260606/134061415/1",
     "title": "김빈우, 운전 중 춤·전방 미주시…영상 삭제 후 “왜 남 미워하는데 에너지 쓸까”",
     "summary": [
@@ -429,54 +560,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n57e4a3f2",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260606/134061412/1",
-    "title": "시위대, 35시간째 개표소 봉쇄…선관위 직원들 무사 대피",
-    "summary": [
-      "투표용지 부족 사태로 촉발된 서울 송파구 개표소 봉쇄 시위가 이틀째 이어지고 있다.",
-      "봉쇄 뒤 두번째 밤이 깊었지만 시위 참가자들은 오히려 더 결집하는 모양새다.",
-      "다만 내부에 갇혀있던 선거관리위원회 직원들은 모두 개표소를 빠져나간 것으로 확인됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n251b4492",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260606/134061409/1",
-    "title": "러 국영 석유회사 CEO “호르무즈 봉쇄 최대 수혜자는 미국”",
-    "summary": [
-      "러시아 국영 최대 석유기업 로스네프트의 이고르 세친 최고경영자(CEO)는 6일(현지 시간) 호르무즈 해협 폐쇄의 가장 큰 수혜자는 미국 에너지 기업들이라고 주장했다.미 경제 매체 CNBC 등 외신에 따르면 세친 CEO는 이날 러시아 상트페테르부르크 국제경제포럼(SPIEF) 토론자로 나와 “호르무즈 해협 폐쇄는 미국에 유리하도록 세계 에너지 시장 규제를 재편하려는 시도”라며 “해협 봉쇄를 위한 조처는 이란을 겨냥한 것이었으나, 전 세계에 역효과를."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n01de8921",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260606/134061406/1",
-    "title": "“홍명보호, 남아공 꺾고 1승2무로 32강행”…미국 매체 예상",
-    "summary": [
-      "미국 매체가 한국 축구대표팀의 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 결과를 1승2무로 예상했다.‘ESPN’은 6일(한국시간) DTAI 분석 연구소 슈퍼컴퓨터를 활용해 본선 48개국 출전팀의 조별리그 성적을 예측했다.‘ESPN’은 한국을 포함해 멕시코, 체코, 남아공이 속한 A조에서는 멕시코가 2승 1무(승점 7점)로 조 1위, 한국이 1승2무(승점 5)점으로 조 2위를 차지할 것으로 내다봤다.구체적인 스코어로는 한국이 체코와는."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "nb5fc7804",
     "category": "경제",
     "source": "머니투데이",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/world/2026/06/06/2026060622034463356",
     "title": "넷플릭스 신화의 주역 '리드 헤이스팅스' 이사회 의장서 퇴임",
     "summary": [
@@ -489,24 +576,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n53964896",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/06/06/7XGZ5ZLY7VGEJBTWOM7LMYA2YI/",
-    "title": "정성호 “투표용지 부족 사태, 특검·국조 검토해야…부정선거론은 망상”",
-    "summary": [
-      "정성호 “투표용지 부족 사태, 특검·국조 검토해야…부정선거론은 망상”."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n681b5baa",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/06/06/2026060617540137746",
     "title": "'9경기 만에 패배' 차두리 감독 \"선수들 정말 잘 싸웠다, 마지막 순간 운이 수원 쪽으로 향했다\" [화성 현장]",
     "summary": [
@@ -519,24 +592,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nddedcab6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606049400052",
-    "title": "[부고] 박재근(경남매일 전무)씨 부인상",
-    "summary": [
-      "[부고] 박재근(경남매일 전무)씨 부인상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n63fa89d0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260606_0003658902",
     "title": "유노윤호, '창민아 생일 축하한다' 비화…\"냉랭한 분위기 풀려고\"",
     "summary": [
@@ -549,88 +608,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd2081709",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606049100081",
-    "title": "교황 \"양극화 부추기는 담론 멈춰야\"…스페인 방문",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 레오 14세 교황은 6일(현지시간) 유럽 내에서도 독실한 가톨릭 국가인 스페인을 찾아 \"양극화를 부채질하는 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na13002d1",
+    "id": "ndf4b0f72",
     "category": "사회",
     "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658924",
-    "title": "[부고]박재근(경남매일 전무·대기자)씨 부인상",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658893",
+    "title": "러 국영 석유회사 CEO \"호르무즈 봉쇄 최대 수혜자는 미국\"",
     "summary": [
-      "[창원=뉴시스] ▲임효빈씨 별세, 박재근(경남매일 전무·대기자·칼럼니스트)씨 부인상, 박준석·박혜리·박주현씨 모친상=6일, 창원특례시 의창구 창원한마음병원 장례식장 특실, 발인 8일 오전 8시."
+      "[서울=뉴시스] 권성근 기자 = 러시아 국영 최대 석유기업 로스네프트의 이고르 세친 최고경영자(CEO)는 6일(현지 시간) 호르무즈 해협 폐쇄의 가장 큰 수혜자는 미국 에너지 기업들이라고 주장했다.",
+      "미 경제 매체 CNBC 등 외신에 따르면 세친 CEO는 이날 러시아 상트페테르부르크 국제경제포럼(SPIEF) 토론자로 나와 \"호르무즈 해협 폐쇄는 미국에 유리하도록 세계 에너지 시장 규제를 재편하려는 시도\"라며 \"해협 봉쇄를 위한 조처는 이란을 겨냥."
     ],
     "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne310fad9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/HBSDCZRVGVRDAZBQG4YDIOLEMQ/",
-    "title": "이현이♥홍성기, 사립초 子 美 영어 캠프 합격 후기 밝혔다('워킹맘이현이')[종합]",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] '워킹맘이현이' 홍성기와 이현이 부부의 큰아들 윤서의 미국 캠프 합격 후기가 공개됐다.6일 이현이의 유튜브에서는 ‘이현이 아들 미국 영재 캠프 합격? 발품 팔아 모은 존스홉킨스 CTY 영어 캠프의 모든 것’이란 영상이 공개됐다.이현이는 “윤서가 영어 캠프를 가게 됐다."
-    ],
-    "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
     "id": "n4d4e6121",
     "category": "경제",
     "source": "머니투데이",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/world/2026/06/06/2026060621462256523",
     "title": "막힌 종전협상 물꼬 트나…파키스탄 내무장관 이란행",
     "summary": [
       "모신 라자 나크비 파키스탄 내무장관이 난항을 겪고 있는 미-이란 전쟁 종전 협상을 위해 이란 수도 테헤란을 방문한다.",
       "이란 반관영 메흐르 통신은 6일(현지시각) \"나크비 장관이 몇 시간 내 이란에 도착할 예정\"이라고 보도했다.",
       "메흐르 통신에 따르면 나크비 장관은 지난 4일과 5일 키르키스스탄에서 열린 상하이협력기구(SCO) 내무장관 회의에서도 에스칸다르 모메니 이란 내무장관과 두 차례 회동했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n165d0069",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606046551007",
-    "title": "이란 '선수만 비자 준' 미국에 격분…\"단장 등 10여명 거부당해\"(종합)",
-    "summary": [
-      "(과달라하라·이스탄불=연합뉴스) 오명언 기자 김동호 특파원 = 미국·이란 전쟁이 아직 마침표를 찍지 않은 상태에서 2026 북중미 월드컵에 출격..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n48e39a9a",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "43분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/06/2026060621431264455",
-    "title": "후진하던 덤프트럭에 깔린 80대 오토바이 운전자 사망",
-    "summary": [
-      "전북 부안군 한 농로에서 후진하던 덤프트럭에 깔린 80대 오토바이 운전자가 숨졌다.",
-      "6일 뉴스1에 따르면 이날 오전 9시33분쯤 부안군 부안읍 연곡마을 인근 농로에서 후진 중이던 덤프트럭이 오토바이를 들이받았다.",
-      "이 사고로 오토바이 운전자 80대 A씨가 덤프트럭에 깔려 사망했다."
     ],
     "chips": [
       "#뉴스"
@@ -643,8 +645,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
@@ -654,7 +656,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "삼성전자",
     "mentions": "1420건",
     "trend": "+115%"
   }
