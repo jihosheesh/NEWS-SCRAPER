@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-06 01:37:24
+// 마지막 업데이트: 2026-06-06 03:02:09
 window.NEWS_DB = [
+  {
+    "id": "nbc074ea0",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zY3ZGcjVjOGk3SGFUMnlraloyMXFnZG5tV1NEZkNFQmMxOHdmR2pnNFBFTXA3b2tTdzhFTFlmd2F2ZjZYd0VwRE9fTFlXWXEtT3lka3dpcS1vd9IBVEFVX3lxTE1wX0oxai1sOUNldExPUE92NG8xUEc0V0h6TmJlX2R1RnY4Vy1zRFhmcWtzem1lckkwZ2RNZ1RsRWpXbVNnNlcwYUFLYWhvZkRyb3pEaw?oc=5",
+    "title": "\"한국 정말 바빠질 것\"…젠슨 황이 꺼낸 '4가지 선물' 뭐길래",
+    "summary": [
+      "\"한국 정말 바빠질 것\"…젠슨 황이 꺼낸 '4가지 선물' 뭐길래 한국경제."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
   {
     "id": "n8396f59b",
     "category": "IT",
     "source": "인더뉴스",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uTGRPU0NiR1I4aE9QMHRUX3J1dmxqTkdpV2JZMzR0MWljRk00azJpVWo2d2tCajFNcWxHZTNrbUIyOGlYZUhhTVNvTW1PQk5HbEZpd2NTTjZ2MnB5TTV0TUtvUHA?oc=5",
     "title": "젠슨 황 “한국에 4개 사업 가져왔다”…엔비디아發 AI 특수 기대감↑",
     "summary": [
@@ -17,26 +31,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08478446",
-    "category": "IT",
-    "source": "굿모닝베트남미디어",
-    "time": "23시간 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQmFsNnFfVzQ3akNyMHdTbHBlUHkzdWZENUNhTkZrX18zN2NqcXhWa1lPT1g3R0RBY3UxVWNwWjY2T0N6NHFUcjBCcWpxdFB1MFlvR2lTSk82Uk15QlFLSFZoS29idEdKd0pfVkZXTmI?oc=5",
-    "title": "[산업·AI] 젠슨 황 엔비디아 CEO, 한국 공략 강화…“AI·반도체·로봇 협력 확대”",
-    "summary": [
-      "[산업·AI] 젠슨 황 엔비디아 CEO, 한국 공략 강화…“AI·반도체·로봇 협력 확대” 굿모닝베트남미디어."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nc3609b09",
     "category": "사회",
     "source": "브런치",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NDMyV3FJOVJzMUxNRXFOY3NYZ1ZIX0diNXVxNXRQUFRHZ0JyS0otb25zT3R3SGhEOUZaYWxaYlBEanZXWDhZSTYzcDU4TW82NmdZ?oc=5",
     "title": "중장년 지원금 신청 (재취업,고용,채용,일자리,취업)",
     "summary": [
@@ -52,7 +50,7 @@ window.NEWS_DB = [
     "id": "nbcccb229",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iOXlZN21icV9VY1RyYnN6MHg0VnV6cjZMRUJHY0ZocUxyVVVFVlpBR2dwdDV0UWdzanJsMVdqendMeENNbTZzNnMwb3UtdE1MNG1ibkJya0dYRkHSAWBBVV95cUxOMHliOEItM3NyRkt6elAwYnE5cGJRd1kzai1ab3A4TVZWNzJvUi1jdFQ4ZmVraG5KajhCMDROSE1pWDNfRTR2YjJvMkViMUN4aTBpc3F5OEdxUTdjVy1fUy0?oc=5",
     "title": "국산 AI반도체 400여억 수출…배경훈 \"엔비디아급 기술력\"(종합)",
     "summary": [
@@ -63,21 +61,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#수출"
-    ]
-  },
-  {
-    "id": "n70cb7884",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
-    "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -94,6 +77,21 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n70cb7884",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
+    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
+    "summary": [
+      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -167,6 +165,20 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n37646dcf",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "summary": [
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -248,6 +260,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n64476ff1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "47일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "summary": [
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -259,6 +285,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "n8988be77",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "102일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -339,296 +379,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n40cba7be",
-    "category": "스포츠",
+    "id": "nee8b1334",
+    "category": "IT",
     "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026060610295960249",
-    "title": "\"폭염 월드컵에 물장사\" 비판에 한발 물러선 FIFA…\"생수 한 병 가능\"",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026060511111644627",
+    "title": "의료 혁신에 보험업계 촉각…위험평가 고도화 과제 부상",
     "summary": [
-      "국제축구연맹(FIFA)이 2026 북중미 월드컵이 치러지는 경기장에 안전을 이유로 재사용 가능한 텀블러나 물병 반입을 금지했으나 거센 비판으로 개봉하지 않은 일회용 생수 1병을 반입할 수 있도록 했다.",
-      "6일 영국 BBC 등 외신은 \"재사용 할 수 있는 텀블러 반입 등의 금지 결정에 비판이 일자 FIFA는 월드컵 경기장에 밀봉된 일회용 물병을 가져올 수 있도록 허용한다고 밝혔다\"라고 보도했다.",
-      "최대 20온스(약 567㎖) 용량의 부드."
+      "인공지능(AI) 기반 진단기술과 비만치료제 등 의료 혁신이 빠르게 확산하면서 보험산업에 변화의 바람이 불고 있다.",
+      "질병의 조기 진단과 예방이 가능해지면서 주요 보험상품의 보장 구조와 보험금 지급 체계 전반에 대한 재설계 필요성이 커지고 있다는 분석이 나온다.",
+      "6일 보험업계에 따르면 AI 진단과 비만치료제, 유전자치료 등 의료 기술이 발전하면서 보험상품의 위험 평가와 보장 구조에도 변화가 예상되고 있다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#의료"
     ]
   },
   {
-    "id": "nb1162dfd",
+    "id": "n5b5349f9",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658716",
-    "title": "'양말.신다가 디스크 터진 강남'…'허리 통증 후 러닝' 금물",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260605/134055411/2",
+    "title": "“비 안 내려도 장마철” 교과서 장마는 잊어라…정의 재정립",
     "summary": [
-      "[서울=뉴시스] 김종민 기자 = 가수 강남이 최근 허리디스크 파열로 방송 촬영을 중단하고 시술을 받았다는 소식이 전해지면서 일상생활 속 척추 건강 관리에 대한 주의가 요구되고 있다.",
-      "강남은 최근 자신의 유튜브 채널을 통해 양말을 신다가 허리에 통증을 느꼈으며, 이후 통증을 완화하고자 러닝을 했다가 상태가 급격히 악화되었다고 밝혔다.",
-      "정밀 검사 결과 과거 방치했던 디스크가 다시 터지면서 발생한 물혹이 척추 신경을 강하게 누르고 있는 상태로 진단받."
+      "한국 기상학계가 약 2년간의 논의 끝에 ‘장마’의 개념을 재정립했다.",
+      "장마철은 단순히 ‘비가 내리는 기간’이 아니라 ‘비가 내리기 쉬운 대기 조건’ 이라는 학술적 정의다.",
+      "기후변화로 장마 양상이 다양해진 현실을 반영한 것이다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n297dc390",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260605/134055240/1",
+    "title": "‘1984 동마 챔피언’ 이홍열 “모르고 막 달리면 ‘독’ 됩니다”[양종구의 100세 시대 건강법]",
+    "summary": [
+      "1984년 제55회 동아마라톤에서 ‘마의 2시간 15분 벽’을 깨고 한국 남자 마라톤 최고 기록(2시간 14분 59초)을 세웠던 이홍열 한국스포츠지도사총연합회 회장(65)이 ‘국가대표 마라톤 비책 : 왜 당신의 러닝은 “독”이 되는가?’를 펴냈다.",
+      "그는 최근 전국적으로 러닝 붐이 일면서 잘못된 정보가 넘쳐나는 현실을 경계하며 “달리기는 쉬워 보이지만 정말 어려운 운동이다.",
+      "바르게 달려야 부상 없이 오래 달릴 수 있다”고 강조했다.이 회장이 가장."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n775f6044",
+    "id": "n9ff8af04",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658711",
-    "title": "청주시, 단재 신채호 기념관서 '의열단' 특별전시회",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003658307",
+    "title": "보세운송 신고제 놓고 물류업계 반발…관세청에 반기",
     "summary": [
-      "[청주=뉴시스] 임선우 기자 = 충북 청주시는 호국보훈의 달을 맞아 단재 신채호 기념관에서 독립기념관 전시상자 특별전를 개최한다고 6일 밝혔다.",
-      "7월30일까지 열리는 이번 특별전은 독립기념관이 추진하는 '2026 현충시설 협력망 사업'의 일환으로 마련됐다.",
-      "'의열단, 정의를 맹렬히 실행하다'를 주제로 의열단이 결성된 시대적 배경과 항일투쟁 활약상, 의열단 관련 자료 등을 소개한다."
+      "[서울=뉴시스] 홍찬선 기자 = 관세청이 올해부터 보세운송 차량신고제도를 본격 시행하면서 물류업계와 갈등을 빚고 있다.",
+      "물류업계는 단순 행정 절차상 실수까지 과태료 부과 대상에 포함돼 중소업체 부담이 과도하다고 반발하고 있으며, 일부에서는 법적 대응 가능성도 제기되고 있다.",
+      "6일 관세청 인천본부세관과 물류업계에 따르면 올해부터 보세운송 차량 신고 의무가 본격 적용되면서 일부 물류업체들이 미신고 또는 지연 신고를 이유로 과태료 부과 대상에 포함됐."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n48ca93b2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026060610251850456",
-    "title": "김규리 집 침입 강도, 서동주 스토킹 혐의로 재판 중 범행",
-    "summary": [
-      "배우 김규리의 자택에 침입해 강도 행각을 벌인 혐의로 구속된 40대 남성이 방송인 서동주를 상대로 스토킹과 주거침입 범행을 저질러 재판을 받던 도중이었다는 사실이 드러났다.",
-      "5일 MBN은 강도상해 혐의로 구속된 임모씨가 올해 초 서동주의 자택에 무단 침입을 시도하고 지속해서 연락하는 등 스토킹 범행을 저질러 재판에 넘겨진 상태였다고 단독 보도했다.",
-      "당시 임씨는 서동주에게 여러 차례 전화를 걸고 자택에 침입하려다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79444c12",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606023200001",
-    "title": "李대통령 \"배신 단죄해야 정의로운 통합…친일 부당재산 환수\"",
-    "summary": [
-      "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 현충일인 6일 \"공동체를 지킨 분들을 예우하는 것과 더불어 사리사욕으로 공동체를 배반한 이들을..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6ee2b453",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026060610175142149",
-    "title": "李대통령 \"특별한 희생에 특별한 보상…예우는 말이 아닌 실천으로\"",
-    "summary": [
-      "이재명 대통령이 6일 현충일을 맞아 \"모두를 위한 특별한 희생에는 반드시 그에 걸맞은 특별한 보상이 뒤따라야 한다\"며 \"예우와 보상은 말이 아닌 실천으로 하는 것\"이라고 밝혔다.",
-      "이 대통령은 이날 서울 동작구 국립서울현충원에서 열린 제71회 현충일 추념사에서 \"헌신에 대한 예우는 국가 공동체를 유지하고 앞으로 나아가게 하는 원동력\"이라며 이같이 말했다.",
-      "李 \"친일 반민족 행위자, 부당 축적 재산 환수\"이 대통령은 \"오."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n94d0676e",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606024500011",
-    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-    "summary": [
-      "[연합뉴스 이 시각 헤드라인] - 10:30."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n14035048",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003658251",
-    "title": "'탈원전 인사' 지원에 때 아닌 잡음…한수원 무슨 일?",
-    "summary": [
-      "[세종=뉴시스]이수정 기자 = 체코 신규 원전 수주를 계기로 해외 사업 확대에 나선 한국수력원자력의 비상임이사 공모에 '탈원전 인사'로 평가 받는 양이원영 전 국회의원이 지원한 것으로 알려지면서 내부 잡음이 일고 있다.",
-      "노조는 양 전 의원이 선임될 경우 원전 정책의 일관성과 수출 경쟁력이 훼손될 수 있다고 우려한다.",
-      "반면 일각에서는 선임 절차가 진행 중인 상황에서 특정 후보자를 공개적으로 비판하는 것은 적절하지 않다는 지적도 나온다."
-    ],
-    "chips": [
-      "#정책",
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9f501885",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606019751009",
-    "title": "호르무즈 긴장악화…이란 자폭드론 날리자 미군 즉각 대응(종합)",
-    "summary": [
-      "(서울=연합뉴스) 김승욱 기자 = 미군과 이란이 종전협상 교착 속에 호르무즈 해협에서 제한적인 군사행동을 되풀이했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd16b62dc",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260606/134060825/1",
-    "title": "[속보]李 “배신은 단죄해야…친일 반민족 행위자 재산 환수”",
-    "summary": [
-      "[속보]李 “배신은 단죄해야…친일 반민족 행위자 재산 환수”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nec2ca1e8",
+    "id": "n34780da2",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/06/06/MY2TIMJSHBQTGMZQGI2DQN3EHA/",
-    "title": "한일전 이어 한중전! 안세영·심유진 동반 승리하면 '꿈의 코리안 더비' 열린다",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658713",
+    "title": "김우리, 부정선거 주장 시위 동참…\"어른들이 미안하다\"",
     "summary": [
-      "[OSEN=정승우 기자] 한일전, 한중전을 넘어 사상 첫 인도네시아 오픈 여자 단식 '코리안 더비'가 성사될 수 있을까.세계랭킹 1위 안세영(삼성생명)과 세계랭킹 26위 심유진(인천국제공항)이 나란히 인도네시아 오픈 준결승 무대에 오르며 한국 배드민턴 팬들의 기대감을 키우고 있다.안세영과 심유진은 6일(한국시간) 인도네시아 자카르타 이스토라 세나얀에서 열리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neb5bd54b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606022200001",
-    "title": "[속보] 李대통령 \"반민족 행위 재산 부당축적에 책임 묻고 재발 방지\"",
-    "summary": [],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncfd14544",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026060609510413984",
-    "title": "[속보]이 대통령 \"친일 반민족 행위자 부당 재산, 조사·환수\"",
-    "summary": [
-      "[속보]이 대통령 \"친일 반민족 행위자 부당 재산, 조사·환수\"."
+      "[서울=뉴시스]강주희 기자 = 유명 스타일리스트 김우리가 부정선거 의혹을 주장하는 시위 현장을 찾았다.",
+      "김우리는 6일 자신의 사회관계망서비스(SNS)에 서울 송파구 올림픽공원 핸드볼경기장을 찾은 모습을 공개했다.",
+      "그는 \"모두가 젊은 청년들이다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n2f61d180",
+    "id": "nf228cac9",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658705",
-    "title": "[속보]이 대통령 \"군 장병·소방관·경찰·해양경찰·교도관 등 '제복 입은 시민' 마땅한 예우 다해야\"",
-    "summary": [],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb48fc349",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/06/06/5NI7QWVMF5HYDH2NPETEMY6VHI/",
-    "title": "美 ‘깜짝 고용’에 뉴욕증시 급락... 환율 1560원 돌파",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003658383",
+    "title": "토스인슈, 악성민원 대응 체계 구축…\"상담 환경 개선\"",
     "summary": [
-      "美 ‘깜짝 고용’에 뉴욕증시 급락... 환율 1560원 돌파."
+      "[서울=뉴시스]권안나 기자 = 법인보험대리점(GA) 토스인슈어런스가 보험설계사의 심리적 부담을 줄이고 안정적인 상담 환경을 조성하기 위해 블랙컨슈머 대응 제도를 도입했다.",
+      "상담 과정에서 발생하는 부적절한 언행 등에 대해 본사가 직접 대응하는 체계를 마련해 상담 품질 제고에 나선다는 방침이다 토스인슈어런스는 소속 보험설계사가 상담과 보장 설계에 집중할 수 있도록 '블랙컨슈머 대응 제도'를 마련해 시행한다고 6일 밝혔다."
     ],
     "chips": [
-      "#환율",
-      "#고용"
+      "#환경"
     ]
   },
   {
-    "id": "nf84c1113",
+    "id": "n055cfffc",
     "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260606/134060819/1",
-    "title": "오세훈 “투표용지 대란, 참정권 침해…특검·국정조사로 진상규명해야”",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260605_0003658233",
+    "title": "'스테파' 기무간 출연…전석 매진 화제작 '미메시스' 강동 온다",
     "summary": [
-      "오세훈 서울시장은 6일 “단 한 사람의 참정권도 침해받아서는 안 된다”며 “철저한 진상 규명과 선거관리위원회 해체 수준의 개혁을 촉구한다”고 밝혔다.앞서 지방선거 날인 지난 3일 서울 강남구·광진구·송파구 등 서울 시내 수십 곳의 투표소에서 투표용지가 부족해 투표가 중단되고, 수많은 시민이 참정권을 행사하지 못하거나 발을 동동 구르며 장시간 대기해야 하는 초유의 사태가 벌어졌다.이에 대해 오 시장은 이날 담화문을 통해 “민주주의의 근간인 선거."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n28fed02b",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "29분 전",
-    "url": "https://www.hankyung.com/article/2026060607537",
-    "title": "\"희생 잊지 않겠다\"…李대통령, 현충일 추념식 참석",
-    "summary": [
-      "\"희생 잊지 않겠다\"…李대통령, 현충일 추념식 참석."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4da0aa02",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260606/134060726/2",
-    "title": "김정은, 좌초됐던 강건호 항해 참관…주애, 전함에 같이 올랐다",
-    "summary": [
-      "김정은 북한 국무위원장이 5000t급 신형 구축함 ‘강건’호의 항해 시험을 참관하는 자리에 딸 주애를 데리고 참석했다.",
-      "강건호는 지난해 진수식 진행 당시 김 위원장의 눈앞에서 좌초된 그 배다.북한 노동신문은 6일 “김정은 동지께서 6월 4일 작전 수행 능력 평가시험공정에 착수한 조선인민군 해군 구축함 강건호를 방문하시고 함의 항해시험을 참관했다”라고 보도했다.",
-      "이날 항해시험에는 주애도 같이 승선했다.신문은 김 위원장이 강건호에 승선해 종합지휘소."
+      "[서울=뉴시스] 최희정 기자 = 엠넷 무용 경연 프로그램 '스테이지 파이터'로 이름을 알린 무용수 기무간이 서울시무용단의 대표 레퍼토리 '미메시스' 무대에 오른다.",
+      "강동문화재단은 오는 19~20일 강동아트센터 대국장 한강에서 '미메시스'를 공연한다고 밝혔다.",
+      "'미메시스'는 교방무, 한량무, 소고춤, 장검무, 살풀이, 승무, 무당춤, 태평무 등 한국 전통춤 8가지를 현대적 감각으로 재해석한 작품이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3264ddb1",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "36분 전",
-    "url": "https://www.hankyung.com/article/202605256557i",
-    "title": "\"직원 부탁에 실업급여 타게 해줬다가\"…400만원 '날벼락' [사장님 고충백서]",
+    "id": "n9477220e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606010251504",
+    "title": "김정은, '강건호' 항해시험 참관…\"해군무력으로 핵전쟁 억제\"(종합)",
     "summary": [
-      "\"직원 부탁에 실업급여 타게 해줬다가\"…400만원 '날벼락' [사장님 고충백서]."
+      "(서울=연합뉴스) 이은정 기자 = 김정은 북한 국무위원장이 지난해 진수식 도중 좌초했던 신형 5천t급 구축함 '강건호'의 항해시험을 참관하면서 ..."
     ],
     "chips": [
-      "#고용"
+      "#뉴스"
     ]
   },
   {
-    "id": "n8ab36b21",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "37분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605114300051",
-    "title": "부산 아파트값 보합…해운대·동래구는 약진",
+    "id": "nae96e954",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260606/134060940/1",
+    "title": "홍준표 “민주당 압승 못한 건 ‘공소취소 특검’ 때문”",
     "summary": [
-      "(부산=연합뉴스) 민영규 기자 = 부산지역 아파트 매매가격이 보합을 유지했다."
+      "홍준표 전 대구시장이 6·3 지방선거와 관련해 “민주당이 압승을 못한 것은 공소취소 특검 때문으로 보여진다”고 분석했다.홍 전 시장은 5일 소셜네트워크서비스(SNS)를 통해 “이미 국민의힘은 맞을 매를 다 맞고 선거를 시작했는데 느닷없이 공소취소 특검을 들고 나온 민주당에 국민들이 역반응한 것으로 보인다”며 이같이 전했다.이어 “그 복잡했던 슬롯머신사건도 주임검사 외 검사 5명이 두 달 걸려 했는데 한사람 잡기 위해 검사 200여명을 1년 이상."
     ],
     "chips": [
-      "#부동산"
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4369b9b7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260606/134060934/1",
+    "title": "尹, 종합특검 첫 소환 조사…‘계엄 정당화 메시지’ 지시 의혹",
+    "summary": [
+      "윤석열 전 대통령이 3대 특검 이후 남은 의혹을 수사하는 2차 종합특검팀(특별검사 권창영)에 출석했다.",
+      "2차 종합특검팀 출범 101일만의 첫 소환 조사다.윤 전 대통령은 6일 오전 9시 46분쯤 법무부 호송차를 타고 특검팀 사무실 지하 주차장으로 비공개 출석했다.당초 특검팀은 국민의 알 권리 보장을 위해 윤 전 대통령의 첫 출석 모습을 공개할 계획이었지만, 윤 전 대통령 측 변호인단이 ‘계구를 착용한 상태에선 언론 공개가 불가하다’는 입장을 밝."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n617d917a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/culture-life/performance-arts/2026/06/06/K2M2X3V32FF3LOCWHUCMB4LBOA/",
+    "title": "‘李캠프 출신 단장 임명' 움직임에… 국립발레단 단원 “직업발레단 경험 갖춘 인물이어야” 단체 입장문 발표",
+    "summary": [
+      "‘李캠프 출신 단장 임명' 움직임에… 국립발레단 단원 “직업발레단 경험 갖춘 인물이어야” 단체 입장문 발표."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1292337a",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026060611472125795",
+    "title": "[속보] 이란 \"쿠웨이트·바레인 미군기지에 탄도미사일 발사\"",
+    "summary": [
+      "[속보] 이란 \"쿠웨이트·바레인 미군기지에 탄도미사일 발사\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n817b410a",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026060611463921283",
+    "title": "[속보] 미군 \"호르무즈·걸프국들 겨냥한 이란 드론·미사일 요격\"",
+    "summary": [
+      "[속보] 미군 \"호르무즈·걸프국들 겨냥한 이란 드론·미사일 요격\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ac154f9",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026060611460717594",
+    "title": "[속보] 이란 \"호르무즈 '무허가 통항시도' 유조선 4척에 발포\"",
+    "summary": [
+      "[속보] 이란 \"호르무즈 '무허가 통항시도' 유조선 4척에 발포\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n11196ac3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606027300083",
+    "title": "中부주석, 푸틴 만나 \"상호 신뢰 다지고 실질 협력 확대\"",
+    "summary": [
+      "(베이징=연합뉴스) 한종구 특파원 = 한정 중국 국가부주석이 러시아에서 블라디미르 푸틴 대통령을 만나 정치적 상호 신뢰를 다지고 공정한 글로벌 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n10ec28f4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/06/CTZDVI44HFHDBLMZWMK7DPWVPU/",
+    "title": "미군, 이란 자폭 드론 격추… 호르무즈 해협 긴장 고조",
+    "summary": [
+      "미군, 이란 자폭 드론 격추… 호르무즈 해협 긴장 고조."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n294d7135",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605158200017",
+    "title": "[테크톡노트] 가상세계서 로봇 키운다…엔비디아 아이작 심",
+    "summary": [
+      "(서울=연합뉴스) 오지은 기자 = 실제 세계와 똑같은 가상 공간에서 인공지능(AI) 로봇을 훈련하는 플랫폼이 있다.",
+      "바로 엔비디아의 아이작 심(..."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
     ]
   }
 ];
@@ -638,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "삼성전자",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
