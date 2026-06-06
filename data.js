@@ -1,6 +1,22 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-06 19:29:52
+// 마지막 업데이트: 2026-06-06 20:23:45
 window.NEWS_DB = [
+  {
+    "id": "nfa1c41a0",
+    "category": "IT",
+    "source": "초이스스탁",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
+    "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
+    "summary": [
+      "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고 초이스스탁."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n08478446",
     "category": "IT",
@@ -48,22 +64,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#수출"
-    ]
-  },
-  {
-    "id": "n8c0897ea",
-    "category": "IT",
-    "source": "한경매거진&북",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WV3VoeENEZ3FNTHBTdm1PYzg5ZlZUUF95dFlYRnFBQ0pjeHdmdERTRWdYdHJXVWhmM0JwNVlwNk1SdC1MT0pKOEh5WnBDMnFKdUJEbl9oUE1HRmhZdXFfSF9vMWxxWEZCaHk0Sw?oc=5",
-    "title": "최태원, 엔비디아 이어 TSMC 회장 회동…AI 반도체 '삼각 동맹' 굳힌다",
-    "summary": [
-      "최태원, 엔비디아 이어 TSMC 회장 회동…AI 반도체 '삼각 동맹' 굳힌다 한경매거진&북."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -142,14 +142,43 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n37646dcf",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "id": "nb9bdfdfb",
+    "category": "스포츠",
+    "source": "푸드투데이",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
+    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "summary": [
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n21d1500d",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VVmZjQUtRa3BqUng5MnJtdExfX18tb0pLN1VyNEwwX2p4RW1HdTl5bmllWkVwTzQ4UWxPNFlMSFhKODJlend4V3VaZi1Fay1IOWNLZTNoelBZOEExZi1YM1VyOXlRbTNzS3fSAW9BVV95cUxOVUFfeEtOaklFeHNHY3JRbVhXNDVNTVdtOE5QVjFRT1hLS2ltVmY5d29id195bnFxSXoySHFKdXM4VUQyN1RZWS01b3BFeXJJWGZBNXVIdk5CbkFobmIyZ3JpQXhxQU9KZ2FLN0pTdTg?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이",
+    "summary": [
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#스타트업"
@@ -182,20 +211,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n1af71cc9",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QcUxOLV9saEZoM3Fsd0hmUkU1VmppNVRzSVRja3dwMUhmQUdFMHdVdDVGSjhMeHJBbGVVenYyR1Y4ejFzNnBCamg2V05xVEZXNmRhQWdaR0RpT0lpbTVreA?oc=5",
-    "title": "홈런 후 기뻐하는 카메론",
-    "summary": [
-      "홈런 후 기뻐하는 카메론 네이트."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   },
   {
@@ -247,46 +262,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0620d038",
+    "id": "n783ebe44",
     "category": "스포츠",
-    "source": "네이트",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDUmxJUERzU2VkYnNNVnVRdHNPbmM4OU1EZFd3YzFDVU94VExobW51a3VlYjBhQk80dVRZY2N4NnpwdXdNNmZOWUtMZnRMQk5YOFpyUUxRdkxCSmMy?oc=5",
-    "title": "스포츠토토 공식사이트 이벤트 '2026시즌 첫 응원의 시작! 축구 야구 개막 기념 벳머니 페스타' 5월17일 종료",
+    "source": "테크M",
+    "time": "66일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "스포츠토토 공식사이트 이벤트 '2026시즌 첫 응원의 시작! 축구 야구 개막 기념 벳머니 페스타' 5월17일 종료 네이트."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n64476ff1",
+    "id": "n8988be77",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "48일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "source": "연합뉴스TV",
+    "time": "103일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "114일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
     ]
   },
   {
@@ -305,24 +305,81 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0ba94947",
+    "id": "n46f59f4d",
     "category": "스포츠",
-    "source": "이투데이",
-    "time": "294일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeFVaZ2NxaEJNU3lfakx0VkJhbU5ZbWs4UWl0QU5TaDhZVlFCUGlfVE9jWXNlSGxQSE1ZVGJfLWwtaDhYbWV1a004UmNqN3N2T0t3cA?oc=5",
-    "title": "'2025 KBO 프로야구' 오늘(16일)의 경기 일정",
+    "source": "머니투데이",
+    "time": "155일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
+    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
     "summary": [
-      "'2025 KBO 프로야구' 오늘(16일)의 경기 일정 이투데이."
+      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
     ],
     "chips": [
+      "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "nfd3a0a72",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/politics/2026/06/07/LGF4JHIXGZCHFP5OO25PRJCRQY/",
+    "title": "생환한 오세훈·한동훈, 보수 재건 발 뗐다",
+    "summary": [
+      "생환한 오세훈·한동훈, 보수 재건 발 뗐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a158cca",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/politics/2026/06/07/MVQCBEADPBDXNGFUXAH6TDGOVY/",
+    "title": "개딸도 김어준도 소용 없었다... 상처만 남은 명청대전",
+    "summary": [
+      "개딸도 김어준도 소용 없었다... 상처만 남은 명청대전."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na7a226d2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/politics/2026/06/07/GSEJG25YANHKFCQ46DENZIR7WY/",
+    "title": "김부겸, 67일간의 라스트댄스… 대구에 ‘정치 서비스’ 씨뿌려",
+    "summary": [
+      "김부겸, 67일간의 라스트댄스… 대구에 ‘정치 서비스’ 씨뿌려."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb1dbd8f7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/06/07/FXE57SGP4BEBJKAI7FNOADJDPA/",
+    "title": "황금률 5cm 뒷굽·6중 충격 흡수 워킹화, 3만원대 조선몰 단독 특가",
+    "summary": [
+      "황금률 5cm 뒷굽·6중 충격 흡수 워킹화, 3만원대 조선몰 단독 특가."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "na16843e7",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "8분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152411",
     "title": "[가봤다] 연령·국적·팬덤 뛰어넘은 K팝 축제...위버스콘, 음악으로 하나 되는 '뉴토피아' 열다",
     "summary": [
@@ -335,16 +392,106 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5189d4cd",
+    "id": "nc0e14b7a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003658954",
-    "title": "스페인 방문한 교황 \"양극화 부채질하는 행위 멈춰야\"",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658941",
+    "title": "하루 \"암투병' 母 떠난 뒤 홀로 생계유지…쿠팡 일용직 알바해\"",
     "summary": [
-      "[서울=뉴시스] 김예진 기자 = 스페인을 방문한 레오 14세 교황은 6일(현지시간) \"양극화의 불길을 부채질하는 행위를 멈추라\"고 촉구했다.",
-      "AP통신, 카데나SER 등에 따르면 스페인 수도 마드리드에 도착한 그는 이같이 말했다.",
-      "\"오늘날에는 양극화의 불길을 부채질해 인기를 얻으려는 유혹이 줄어들기는커녕 오히려 커지고 있는 것처럼 보인다\"며 \"인간의 존엄성은 계속해서 침해받고 있다\"고 지적했다."
+      "[서울=뉴시스]강주희 기자 = 가수 하루가 가정사를 고백했다.",
+      "3일 방송된 MBN 토크쇼 '김주하의 데이앤나잇'에는 '무명전설' 톱 3 성리, 하루, 장한별이 출연했다.",
+      "이날 하루는 \"고등학교 1학년 때부터 어머니가 암 투병을 하셔서 스스로 해결해야 하고, 집안에 보탬이 돼야 해서 일을 빨리 시작했다\"고 말했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nc3a24367",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658876",
+    "title": "일요일 인천, 대체로 흐리고 밤부터 5㎜ 안팎 비",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 7일 인천은 대체로 흐리고 밤부터 비가 내리는 곳이 있겠다.",
+      "수도권기상청은 \"아침 최저기온은 19도, 낮 최고기온은 26도 내외의 분포를 보이겠다\"며 \"비가 내리는 곳에서는 가시거리가 짧아지거나 도로가 미끄러운 곳이 있겠다\"고 예보했다.",
+      "아침 최저기온은 강화군·옹진군 17도, 계양구·남동구·동구·미추홀구·부평구·서구·연수구·중구 19도로 전망된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n94b6f0b6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658940",
+    "title": "채연, 인기 대단했네…\"하루 8명 대시, 타이밍 순으로 만나\"",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 가수 채연이 과거 인기가 많았다고 밝혔다.",
+      "지난 3일 유튜브 채널 '노빠꾸탁재훈'에는 채연이 게스트로 출연한 영상이 공개됐다.",
+      "이날 탁재훈은 \"채연 씨가 남자를 먼저 꼬셔본 적이 없다고 하더라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2686ccec",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658939",
+    "title": "은지원, 신혼여행 아직도 못 가…\"'살림남' 2주 빼주면 갈 생각\"",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 가수 은지원이 신혼여행을 가지 못했다고 밝혔다.",
+      "6일 방송된 KBS 2TV 예능 프로그램 '살림하는 남자들 시즌2'에서는 대만으로 신혼여행을 떠난 이민우.",
+      "이아미 부부의 모습이 그려졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d805767",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607001400007",
+    "title": "시베리아에서 파리까지…19세에 메이저 챔피언 오른 안드레예바",
+    "summary": [
+      "(서울=연합뉴스) 안홍석 기자 = 시베리아의 작은 소녀가 꿈꿔온 무대에서 19세에 챔피언에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85dda1b9",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "52분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607003200007",
+    "title": "'홍명보호 첫 상대' 체코, 팬 응원 속 미국 베이스캠프 첫 훈련",
+    "summary": [
+      "(맨스필드[미국 텍사스주]=연합뉴스) 최송아 기자 = 2026 북중미 월드컵에 나서는 한국 축구 국가대표팀의 첫 상대인 체코가 팬들의 응원을 받..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1094dd46",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607003100072",
+    "title": "\"스페이스X, S&P 500지수 편입 2028년 이후 가능 전망\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 스페이스X가 다음 주 뉴욕증시에 상장되더라도 미 증시 대표지수인 스탠더드앤드푸어스(S&amp;P) 500 지..."
     ],
     "chips": [
       "#뉴스"
@@ -354,7 +501,7 @@ window.NEWS_DB = [
     "id": "nc68867ce",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260607003000091",
     "title": "월드컵 앞두고 LA 경기장 노조 파업결의…이민단속 등 우려",
     "summary": [
@@ -365,24 +512,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n922482fe",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607001300009",
-    "title": "노래로 거침없이 사회비판…아르헨 '록의 전설' 별세에 추모열기",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나에서 날카로운 사회 비판 메시지를 던지며 국민적 사랑을 받던 '록 음악의 전설'이 별세하..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n03bb9604",
     "category": "IT",
     "source": "테크M",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152410",
     "title": "\"응원봉 받고, 네컷 찍고, 공연 보고\"...위콘페, 위버스 속 팬 경험의 확장판",
     "summary": [
@@ -395,26 +528,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8619c476",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658914",
-    "title": "대구·경북, 흐리고 5~20㎜ 비…아침 13도·한낮 27도",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 일요일인 7일 대구와 경상북도는 대체로 흐리고 비가 내릴 것으로 예상된다.",
-      "대구지방기상청은 이날 \"오전부터 밤사이 대구와 경북, 울릉도·독도에 5~20㎜의 비가 오겠다\"고 예보했다.",
-      "아침 최저기온은 13~19도(평년 12~17도), 낮 최고기온은 21~27도(평년 22~29도)로 예측된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n3175f23b",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260607002400072",
     "title": "'은행규제 강화론자' 美연준 이사 \"규제완화 단기 흥분제 불과\"",
     "summary": [
@@ -425,78 +542,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8915b7eb",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "50분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/07/HEYDIZTBGQ4GCOLGGZQTAOBRMY/",
-    "title": "\"도망가는 피칭, 결과 안 좋다\" 문제 알면 뭐하나, 고쳐지지 않는데…볼볼볼볼 대참사, 신인이 면죄부는 아니다",
+    "id": "n8e4ddd43",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3시간 전",
+    "url": "https://view.asiae.co.kr/article/2026060701342990138",
+    "title": "\"용기·헌신 기억하겠습니다\" … 경남도, 제71회 현충일 추념식 엄수",
     "summary": [
-      "[OSEN=부산, 조형래 기자] 스스로도 문제를 알고 있었고 사령탑도 줄곧 지적했던 문제였다.",
-      "그러나 이 문제가 고쳐지지 않았다.",
-      "신인이라고 면죄부를 줄 수 없는 대참사의 빌미를 제공했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n3168e7d8",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/06/07/MYYWEMZUMUYWGYRVMFTDGMJTHA/",
-    "title": "경기종료 9.5초전 샌안토니오에 무슨 일이? 웸비 뼈아픈 패스실책→자유투 헌납. 샌안토니오, 104-105 패배. 뉴욕 닉스 파죽 2연승",
-    "summary": [
-      "[스포츠조선 류동혁 기자] 경기종료 9.5초를 남기고 샌안토니오 스퍼스는 너무나 뼈아픈 실책을 저질렀다.",
-      "뉴욕 닉스의 공격이 실패했다.",
-      "샌안토니오의 대역전극이 눈에 보이는 순간이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0dafd300",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003658953",
-    "title": "\"파키스탄 내무 테헤란 도착…이란 외무와 회담 예정\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 미국과 이란 간 종전 협상 중재국인 파키스탄의 모신 라자 나크비 내무장관이 6일(현지 시간) 이란 수도 테헤란에 도착했다고 CNN이 이란 반관영 타스님을 인용해 보도했다.",
-      "보도에 따르면 나크비 장관은 이번 파키스탄 방문 기간 중 아바스 아라그치 이란 외무장관과 회담할 예정이다.",
-      "CNN은 \"이번 협상은 미국·이란 전쟁 이후 파키스탄이 역내 중재자 역할을 자임하며 외교적 입지를 강화하려는 가운데 이뤄지는 새로운 협상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n98853465",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606049951081",
-    "title": "美국방, 노르망디 찾아 \"유럽이 재래식 방위 주된 책임 맡아야\"(종합)",
-    "summary": [
-      "(워싱턴·파리=연합뉴스) 홍정규 송진원 특파원 = 프랑스를 방문 중인 피트 헤그세스 미국 국방부(전쟁부) 장관은 6일(현지시간) 프랑스를 비롯한..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf36816e",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003658952",
-    "title": "FIFA, 월드컵 차출 구단에 5500억원 역대급 보상금 지급",
-    "summary": [
-      "[과달라하라(멕시코)=뉴시스]안경남 기자 = 국제축구연맹(FIFA)이 2026 북중미 월드컵에 선수를 차출해 준 전 세계 프로 구단들에 총 3억5000만 달러(약 5536억원) 규모의 역대급 보상금을 준다.",
-      "FIFA는 6일(현지 시간) 홈페이지를 통해 미국과 캐나다, 멕시코 3개국이 공동 개최하는 월드컵에 나서는 48개국 선수 1248명의 소속 구단 등을 대상으로 한 보상금 배분 계획을 확정, 발표했다.",
-      "클럽 보상금 제도는 2010년 남아프리카."
+      "\"나라를 위한 희생, 기억하고 이어가겠습니다.\" 경상남도가 6일 창원 충혼탑에서 '제71회 현충일 추념식'을 열고 순국선열과 호국영령의 정신을 기렸다.",
+      "경남도는 이날 오전 10시에 전국에 일제히 울린 추념 사이렌과 함께 추념식을 시작해 1분간 묵념했다.",
+      "이어 국민의례, 헌화와 분향, 추념사, 헌시 및 감사편지 낭독, 현충의 노래 제창 등으로 순국선열과 호국영령에 감사와 존경을 표했다."
     ],
     "chips": [
       "#뉴스"
@@ -506,7 +561,7 @@ window.NEWS_DB = [
     "id": "n600b8913",
     "category": "사회",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152404",
     "title": "[위클리 IT템] 하나만 잘하는 시대 끝났다...'멀티 모드' 게이밍 기기의 등장",
     "summary": [
@@ -522,7 +577,7 @@ window.NEWS_DB = [
     "id": "n858d21d7",
     "category": "사회",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260606/134061433/1",
     "title": "크렘린궁 “北김정은은 언제나 러에서 환영받는 손님”",
     "summary": [
@@ -538,7 +593,7 @@ window.NEWS_DB = [
     "id": "nd4de0ce7",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260606/134061428/1",
     "title": "이틀 넘긴 ‘잠실개표소 봉쇄’ 3만명 결집…밤샘 시위 전망",
     "summary": [
@@ -569,7 +624,7 @@ window.NEWS_DB = [
     "id": "n5408cf7a",
     "category": "사회",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260606/134061422/1",
     "title": "尹측 “고성 지른 건 종합특검 측…검사 신문 시 조사 응하겠다 해”",
     "summary": [
@@ -577,62 +632,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#정치"
-    ]
-  },
-  {
-    "id": "n53964896",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6시간 전",
-    "url": "https://www.chosun.com/national/court_law/2026/06/06/7XGZ5ZLY7VGEJBTWOM7LMYA2YI/",
-    "title": "정성호 “투표지 부족은 참정권 침해... 부정선거 음모론·과격시위는 단호 대응\"",
-    "summary": [
-      "정성호 “투표지 부족은 참정권 침해... 부정선거 음모론·과격시위는 단호 대응\"."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd671d1c3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "6시간 전",
-    "url": "https://www.hankyung.com/article/2026060610277",
-    "title": "제1227회 로또 1등 1·14·16·34·41·44…각 26억7000만원씩",
-    "summary": [
-      "제1227회 로또 1등 1·14·16·34·41·44…각 26억7000만원씩."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncffde054",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "6시간 전",
-    "url": "https://www.hankyung.com/article/2026060610267",
-    "title": "강수진 후임 인선 논란에…문체부장관 \"허황된 뜬소문\"",
-    "summary": [
-      "강수진 후임 인선 논란에…문체부장관 \"허황된 뜬소문\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na5ccafd5",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "8시간 전",
-    "url": "https://www.hankyung.com/article/202606048222g",
-    "title": "\"이 맛을 왜 이제 알았을까\"…2030, 커피 대신 '이것' 마신다 [박수림의 요즘 여기]",
-    "summary": [
-      "\"이 맛을 왜 이제 알았을까\"…2030, 커피 대신 '이것' 마신다 [박수림의 요즘 여기]."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -642,8 +641,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
