@@ -1,22 +1,6 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-06 17:25:34
+// 마지막 업데이트: 2026-06-06 18:23:49
 window.NEWS_DB = [
-  {
-    "id": "nfa1c41a0",
-    "category": "IT",
-    "source": "초이스스탁",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
-    "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
-    "summary": [
-      "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고 초이스스탁."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
   {
     "id": "n08478446",
     "category": "IT",
@@ -47,6 +31,37 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n4fb4270f",
+    "category": "IT",
+    "source": "마켓인",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zQ3Z0X0t6TWdDYS1VWUhicnR5bTM3b3E5eXdocncxQ3lhRnhJRUFOUnd0TUlzZ0JLdEluZzlrSGhFOXBZSlRlTDFYS3NWRlhxdlU4Z3VDYTFxaFBGM1lJOGg2T3h0MWEwZE03b0daRlVVajA?oc=5",
+    "title": "“반도체 우려 과도…SOCAMM 축소는 수요 둔화 아닌 공급 부족”",
+    "summary": [
+      "“반도체 우려 과도…SOCAMM 축소는 수요 둔화 아닌 공급 부족” 마켓인."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n43ee8875",
+    "category": "IT",
+    "source": "뉴스퀘스트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80bV9oWVRQLWh4cUVqdFAteV8ydEpoSndqVUdhQkZEQ3FHM09LcG5IcGp4REJDVXJsaGZtWFFhUjlUYmhIV01RejlQdjZ1M2dwNTFKRDktNFc2ZnVNczFsUjdfVjloQldzbkUxdkc4c9IBc0FVX3lxTE9jRldwcGZrZ2o3ZGplVGN3dENPblFWY0xZMllKVWY1U2wxNmNKNFFzQm5HREc3NUZtVzFGaDVXY1RXVFVzRmVGbU5ZQWtDTjVXUklBbWZSNDdsdkkxYmpvR2pTZHFzaDI2LUtNcXdtY1IwMGM?oc=5",
+    "title": "공급망의 SK하이닉스 vs. 통합 기술의 삼성전자…HBM 패권 경쟁 새 국면",
+    "summary": [
+      "공급망의 SK하이닉스 vs.",
+      "통합 기술의 삼성전자…HBM 패권 경쟁 새 국면 뉴스퀘스트."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -113,21 +128,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na0f523e8",
-    "category": "IT",
-    "source": "이코노미트리뷴",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
-    "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
-    "summary": [
-      "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는 이코노미트리뷴."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "ne2208e3a",
     "category": "부동산",
     "source": "프라임경제",
@@ -168,20 +168,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n4324c5c4",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkticmh3N2tXTGo4a2JTNjQtazBsUEhkTGFYVnoxMmRTVk5LYlAwMnhxcW43d0NKVlBvcjlhUGdnMlY4RHJaZ0pKT0N3SVpGVFJ1ZFJXc09pY3lrZU1mRkc5b3dTU3FtZ3d6bWZneDJ4VzVFM01ER1ZTV3pYRkFXckxadE0zbTE2b0c0TFg4c3hwcVAyb0hZZdIBrAFBVV95cUxQQmJ1RjVPOVZ6N3plS0xLZ1BWeVVNTnV4ZHB5WlBzWVlFeXpRU0M2cWJITU5uT0x5YklqWWZvMUhLRmVsOWotU3A2R2FreE1hWlpBR3dlWlNSNEF1a1FrWngyLWVoTFl3aHFBNm5WeUxySDBaWWsxNUxLUDhzTDRVYTVROTd5SWNyT3NfQ2NNa1Rva1NPZHhtUlZ1dnBwY2JBNGhZVG5uR0V3Umhu?oc=5",
-    "title": "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈",
-    "summary": [
-      "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#전세"
     ]
   },
   {
@@ -231,20 +217,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n35b9d663",
-    "category": "경제",
-    "source": "KB Think",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
-    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
-    "summary": [
-      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n00c2ed38",
     "category": "경제",
     "source": "비즈니스포스트",
@@ -259,6 +231,20 @@ window.NEWS_DB = [
       "#SK하이닉스",
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n35b9d663",
+    "category": "경제",
+    "source": "KB Think",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
+    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
+    "summary": [
+      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -287,6 +273,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "114일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
     ]
   },
   {
@@ -352,10 +353,147 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n3168e7d8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/06/07/MYYWEMZUMUYWGYRVMFTDGMJTHA/",
+    "title": "경기종료 9.5초전 샌안토니오에 무슨 일이? 웸비 뼈아픈 패스실책→자유투 헌납. 샌안토니오, 104-105 패배. 뉴욕 닉스 파죽 2연승",
+    "summary": [
+      "[스포츠조선 류동혁 기자] 경기종료 9.5초를 남기고 샌안토니오 스퍼스는 너무나 뼈아픈 실책을 저질렀다.",
+      "뉴욕 닉스의 공격이 실패했다.",
+      "샌안토니오의 대역전극이 눈에 보이는 순간이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0dafd300",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003658953",
+    "title": "\"파키스탄 내무 테헤란 도착…이란 외무와 회담 예정\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 미국과 이란 간 종전 협상 중재국인 파키스탄의 모신 라자 나크비 내무장관이 6일(현지 시간) 이란 수도 테헤란에 도착했다고 CNN이 이란 반관영 타스님을 인용해 보도했다.",
+      "보도에 따르면 나크비 장관은 이번 파키스탄 방문 기간 중 아바스 아라그치 이란 외무장관과 회담할 예정이다.",
+      "CNN은 \"이번 협상은 미국·이란 전쟁 이후 파키스탄이 역내 중재자 역할을 자임하며 외교적 입지를 강화하려는 가운데 이뤄지는 새로운 협상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e0d1e07",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/topclass/topclass_series/2026/06/07/WYM27ODH7VAFDOM4I6VFKLVD5Y/",
+    "title": "‘선도자’ 스페이스X와 ‘추격자’ 블루오리진",
+    "summary": [
+      "스페이스X의 상장 뉴스로 글로벌 시장이 들썩인다.",
+      "우주 산업의 독보적 1위 기업인 스페이스X의 행보로 관련 산업 전반이 재평가받는 분위기다.",
+      "세계경제포럼 추정에 따르면 우주 산업 규모는 2023년 6300억 달러(약 950조 원)에서 연평균 9.1% 성장해 2035년 1조 7900억 달러(약 2700조 원)에 이를 것으로 전망된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5a3153c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/06/07/76W2H252YBEYJPSY275TMBP7RI/",
+    "title": "한복에서 현대식 간호복까지… “조선 나이팅게일” 100년",
+    "summary": [
+      "한복에서 현대식 간호복까지… “조선 나이팅게일” 100년."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n98853465",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606049951081",
+    "title": "美국방, 노르망디 찾아 \"유럽이 재래식 방위 주된 책임 맡아야\"(종합)",
+    "summary": [
+      "(워싱턴·파리=연합뉴스) 홍정규 송진원 특파원 = 프랑스를 방문 중인 피트 헤그세스 미국 국방부(전쟁부) 장관은 6일(현지시간) 프랑스를 비롯한..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9e7d3962",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "31분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/07/2026060702163735980",
+    "title": "'2인 1조 총기 무장 군인 배치→카메라 꺼내지 마!' 홍명보호 '무려 2경기' 월드컵 무대... 삼엄한 경계 태세 [과달라하라 현장]",
+    "summary": [
+      "홍명보호가 2026 국제축구연맹(FIFA) 북중미월드컵 조별리그 1·2차전을 치를 격전지 멕시코 과달라하라의 에스타디오 아크론 경기장은 본선 개막을 눈앞에 두고 삼엄한 경비와 철저한 통제 속에 팽팽한 긴장감이 감돌고 있다.",
+      "현지 시간으로 6일 오전 방문한 에스타디오 아크론 입구를 비롯한 주요 길목 곳곳에는 실제 총기로 무장한 군인들이 2인 1조로 배치되어 삼엄한 경계 근무를 서고 있었다.",
+      "경기장 주변에 이토록 긴장감이 맴도는 이유는 최근 현지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne636f296",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607001800091",
+    "title": "[게시판] 주시애틀총영사관 이메일 소통·현장 간담회",
+    "summary": [
+      "[게시판] 주시애틀총영사관 이메일 소통·현장 간담회."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbf36816e",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "37분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003658952",
+    "title": "FIFA, 월드컵 차출 구단에 5500억원 역대급 보상금 지급",
+    "summary": [
+      "[과달라하라(멕시코)=뉴시스]안경남 기자 = 국제축구연맹(FIFA)이 2026 북중미 월드컵에 선수를 차출해 준 전 세계 프로 구단들에 총 3억5000만 달러(약 5536억원) 규모의 역대급 보상금을 준다.",
+      "FIFA는 6일(현지 시간) 홈페이지를 통해 미국과 캐나다, 멕시코 3개국이 공동 개최하는 월드컵에 나서는 48개국 선수 1248명의 소속 구단 등을 대상으로 한 보상금 배분 계획을 확정, 발표했다.",
+      "클럽 보상금 제도는 2010년 남아프리카."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2bad54c1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003658950",
+    "title": "美헤그세스, 프랑스 노르망디 방문해 \"유럽, 재래식 방위 먼저 책임져야\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 피트 헤그세스 미국 국방부 장관은 6일(현지 시간) \"유럽은 스스로의 재래식 방위를 가장 먼저 책임져야 한다\" 유로뉴스, AP통신 등에 따르면 노르망디 상륙작전 상륙작전 82주년 기념행사에 참석하기 위해 프랑스를 방문한 헤그세스 장관은 이날 노르망디 미국인 묘지에서 연설하면서 이같이 말했다.",
+      "그는 카트린 보트랭 프랑스 국방장관 등이 참석한 이 자리에서 \"프랑스와 같은 동맹국들이 이 현실을 진지하게 받아들이고, 구."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n48dd5d33",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "6분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260607001200091",
     "title": "테슬라, 날아다니는 스포츠카 '로드스터' 공개 시연 또 연기",
     "summary": [
@@ -369,7 +507,7 @@ window.NEWS_DB = [
     "id": "nb79b12c5",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260605_0003657926",
     "title": "日 사슴에 올라타려고 시도한 여성…\"명백한 동물학대\" 비판 쇄도",
     "summary": [
@@ -382,72 +520,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nddf48494",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/07/GI3GGNBUMVTGCZRZGAZTCN3FGU/",
-    "title": "대박! 'ATM 이적 추진' 이강인, 최대 고비 넘겼다...\"449억이면 성사될 것\" 깜짝 이적료 공개, PSG도 협상 열려있다",
-    "summary": [
-      "[OSEN=고성환 기자] 마지막 장애물도 넘은 분위기다.",
-      "이강인(25)이 마침내 파리 생제르맹(PSG)을 떠나 아틀레티코 마드리드로 이적할 길이 열렸다.스페인 '마르카'는 5일(한국시간) \"이강인 영입은 딱이다.",
-      "PSG가 이강인이 아틀레티코에서 뛰고 싶어 한다는 점을 받아들이면서 그의 이적이 약 2500만 유로(약 449억 원) 수준에서 성사될 수 있다는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf176fd33",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "43분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/07/GY4TSMBQHAYGKNBQGMYDCZTDMQ/",
-    "title": "롯데 ‘이 선수’ 투구 봤으면 땅을 쳤을까…상무 전역→어깨 부상, 마침내 부활한 트레이드 복덩이 “부상 이후 쫓겼다”",
-    "summary": [
-      "[OSEN=인천, 이후광 기자] 프로야구 KT 위즈의 트레이드 복덩이가 어깨 부상을 털고 마침내 10승 투수의 면모를 되찾았다.",
-      "프로야구 KT 위즈는 6일 인천SSG랜더스필드에서 열린 2026 신한 SOL KBO리그 SSG 랜더스와의 시즌 8챠전에서 7-3으로 승리했다.",
-      "KT는 전날 패배 설욕과 함께 2연패에서 탈출하며 시즌 34승 1무 23패를 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne5945c4a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "44분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003658948",
-    "title": "하마스 측 \"가자 거리서 무기 없겠지만…무기 넘겨주진 않을 것\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 팔레스타인 무장 정파 하마스의 고위 간부는 무기 사용을 자제하겠다면서도 완전히 무장 해제하지는 않을 것이라고 6일(현지 시간)자 알자지라방송과의 인터뷰에서 밝혔다.",
-      "하마스 정치국 소속인 후삼 바드란은 \"가자행정국가위원회(NCAG)가 가자지구를 장악하게 되면 이 위원회가 보유한 공식 무기, 즉 팔레스타인 공식 경찰의 무기를 제외하고는 가자지구의 거리와 골목에서 눈에 띄는 무기가 없게 될 것\"이라고 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb4fdee5a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "46분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/07/MYZDQNTDMFRWGZLGMQ3GEYLGGA/",
-    "title": "\"미국, 이란축구팀 향한 의도적 차별\" 이란, 협회장 등 필수지원 인력 美비자 거부 초강력 비난[북중미월드컵]",
-    "summary": [
-      "[스포츠조선 전영지 기자]북중미월드컵에 출전하는 이란축구대표팀 선수들에 대한 비자 발급이 승인된 지 불과 몇 시간 만에, 이란 정부는 미국 정부가 대표팀 지원에 '필수적인' 지원 스태프들의 비자 발급을 거부했다고 맹비난하고 나섰다.",
-      "미국 당국은 16일 오전 10시(한국시각) 미국 로스앤젤레스 스타디움에서 펼쳐질 이란의 조별리그 G조 첫 경기 뉴질랜드전을 열."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8e4ddd43",
     "category": "경제",
     "source": "아시아경제",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026060701342990138",
     "title": "\"용기·헌신 기억하겠습니다\" … 경남도, 제71회 현충일 추념식 엄수",
     "summary": [
@@ -463,7 +539,7 @@ window.NEWS_DB = [
     "id": "nee7c3066",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260606014653004",
     "title": "잠실개표소 앞 시위 사흘째로…'2030 주축'(종합)",
     "summary": [
@@ -474,57 +550,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc8db7d80",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003658222",
-    "title": "부산 금정구, 예비창업자 육성 '글로컬 발효스쿨 4기' 모집",
-    "summary": [
-      "[부산=뉴시스]원동화 기자 = 부산 금정구는 남산로 상권 특화 F&B 상품 개발과 창업을 희망하는 예비창업자 및 창업자를 대상으로 '글로컬 발효스쿨 4기' 참여자를 오는 24일까지 모집한다고 7일 밝혔다.",
-      "글로컬 발효스쿨은 남산로 상권 활성화와 지역 특화 상품 발굴을 위해 운영되는 프로그램으로, 올해 4기 과정은 실제 상품 개발과 창업으로 연계할 수 있는 실전형 교육과정으로 구성됐다.",
-      "모집 대상은 발효빵과 디저트 등 남산로 상권 특화 F&B 상."
-    ],
-    "chips": [
-      "#채용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n4c0c4265",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003657615",
-    "title": "\"크면 살 빠진다?\"…소아비만, 합병증이 더 무섭다",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 소아·청소년 비만은 방치하면 고혈압과 당뇨병, 대사이상지방간 등 심각한 만성질환으로 이어질 수 있어 전문적인 치료가 무엇보다 중요하다.",
-      "경희대병원이 비만 원인과 위험요인을 종합적으로 평가해 맞춤형 치료를 하는 '소아청소년 비만·대사 클리닉'이 개소했다.",
-      "경희대병원은 소아·청소년 비만의 조기 진단과 체계적인 합병증 관리를 위한 '소아청소년 비만·대사 클리닉' 개소식을 개최하고 본격적인 전문 진료에 나선다고 7일 밝."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n0817e34f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607000600081",
-    "title": "에볼라 감염 미국 선교사, 독일 병원서 치료받고 퇴원",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 콩고민주공화국(DRC)에서 근무하다가 에볼라 바이러스에 감염된 미국인 의료선교사가 독일에서 치료받은 끝에 퇴..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "n600b8913",
     "category": "사회",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152404",
     "title": "[위클리 IT템] 하나만 잘하는 시대 끝났다...'멀티 모드' 게이밍 기기의 등장",
     "summary": [
@@ -537,24 +566,57 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n71567a30",
-    "category": "스포츠",
-    "source": "연합뉴스",
+    "id": "n6755cd5b",
+    "category": "경제",
+    "source": "머니투데이",
     "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607000500007",
-    "title": "[표] 최근 10년간 프랑스오픈 테니스 여자 단식 우승자",
+    "url": "https://www.mt.co.kr/sports/2026/06/07/2026060613210085691",
+    "title": "'실사판 춘리' 日 미녀 파이터, '역대급 백열각' 깜짝 공개→폭발적 반응 \"경이롭다... 믿기지 않는 수준\"",
     "summary": [
-      "[표] 최근 10년간 프랑스오픈 테니스 여자 단식 우승자."
+      "게임 캐릭터 춘리의 필살기를 그대로 재현한 듯한 발차기로 전 세계적인 신드롬을 일으키고 있는 일본의 무패 초신성 기무라 모나(22)가 상상을 초월하는 균형 감각이 담긴 훈련 영상을 공개해 또 한 번 지구촌 격투기 팬들을 충격에 빠트렸다.",
+      "일본 매체 '니시스포'의 최근 보도에 따르면, '실사판 춘리'라는 예명으로 폭발적인 인기를 누리고 있는 K-1 파이터 기무라가 개인 사회관계망서비스(SNS)에 올린 독특한 트레이닝 과정이 엄청난 화제를 모으고."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "neeb0d185",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "3시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/07/2026060617540569142",
+    "title": "칭찬에 인색한 이정효 감독, 화성전 극장승에 \"오늘만큼은 칭찬하고 싶다\" [화성 현장]",
+    "summary": [
+      "평소 팀이 승리해도 선수들을 향한 칭찬에 인색했던 이정효 수원 삼성 감독이 \"오늘은 감독으로서 선수들을 칭찬해주고 싶다\"며 화성FC전 승리 소감을 밝혔다.",
+      "이정효 감독은 6일 화성종합경기타운 주경기장에서 열린 하나은행 K리그2 2026 15라운드 화성전 2-1 승리 후 기자회견에서 \"양 팀 다 많은 팬분들 앞에서 정말 최선을 다해준 경기였다\"며 \"특히 우리 선수들을 칭찬해주고 싶다\"고 했다.",
+      "이 감독은 \"전반과 후반에 동료들이 턴오버한 것, 실."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf97bf0d5",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "3시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/07/2026060620593822625",
+    "title": "'타점왕 없이도' 돌아온 4번 노시환, 8회 동점타-9회 쐐기 투런 '타점쇼'... \"포기하지 않고 끝까지 집중해줬다\" [부산 현장]",
+    "summary": [
+      "타점왕 없이도 해낼 수 있다는 걸 보여줬다.",
+      "한화 이글스가 완전히 달라진 분위기를 뽐내며 짜릿한 역전승을 챙겼다.",
+      "한화는 6일 부산 사직야구장에서 열린 롯데 자이언츠와 2026 신한 SOL KBO리그 방문경기에서 8회초 동점 2타점 적시타와 9회초 쐐기 투런 홈런을 때려낸 노시환의 활약 속에 7-2 역전승을 거뒀다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n858d21d7",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260606/134061433/1",
     "title": "크렘린궁 “北김정은은 언제나 러에서 환영받는 손님”",
     "summary": [
@@ -570,7 +632,7 @@ window.NEWS_DB = [
     "id": "nd4de0ce7",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260606/134061428/1",
     "title": "이틀 넘긴 ‘잠실개표소 봉쇄’ 3만명 결집…밤샘 시위 전망",
     "summary": [
@@ -580,64 +642,6 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
-  },
-  {
-    "id": "n6a20aa07",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260606/134061425/1",
-    "title": "“영국 항모 프린스오브웨일스호, 나토 훈련 앞두고 또 고장”",
-    "summary": [
-      "영국 해군 항공모함 HMS 프린스오브웨일스호가 북대서양조약기구(NATO·나토) 훈련을 앞두고 또 다시 고장이 났다고 텔레그래프, 가디언 등이 5일(현지 시간) 보도했다.",
-      "보도에 따르면 영국 국방부 관계자들은 “경미한 기술적인 문제”로 프린스오브웨일스호가 고장이 났다.",
-      "특히 프린스오브웨일스호는 러시아의 공격적 행위를 억제하고 해저 핵심 인프라를 보호하기 위한 나토 훈련을 앞두고 고장이 났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5408cf7a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260606/134061422/1",
-    "title": "尹측 “고성 지른 건 종합특검 측…검사 신문 시 조사 응하겠다 해”",
-    "summary": [
-      "윤석열 전 대통령 측이 2차 종합특별검사팀의 첫 소환 조사 과정에서 경찰의 조사를 거부한 것은 맞지만 고성을 지른 적은 없다고 밝혔다.윤 전 대통령 변호인단은 6일 조사를 마친 뒤 입장문을 통해 “일부 매체가 조사 과정에서 윤 전 대통령이 특검을 향해 고성을 지른 것처럼 보도하고 있으나 사실과 다르다”고 전했다.이어 “오전 조사 과정에서 고성을 지른 사람은 윤 전 대통령이 아니라 특검 측이었다”고 밝혔다.변호인단은 “특검 측은 검사 신분이 아닌."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd671d1c3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/2026060610277",
-    "title": "제1227회 로또 1등 1·14·16·34·41·44…각 26억7000만원씩",
-    "summary": [
-      "제1227회 로또 1등 1·14·16·34·41·44…각 26억7000만원씩."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncffde054",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/2026060610267",
-    "title": "강수진 후임 인선 논란에…문체부장관 \"허황된 뜬소문\"",
-    "summary": [
-      "강수진 후임 인선 논란에…문체부장관 \"허황된 뜬소문\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -646,20 +650,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "삼성전자",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
