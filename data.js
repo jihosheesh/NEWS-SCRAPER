@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-06 21:21:38
+// 마지막 업데이트: 2026-06-06 22:21:39
 window.NEWS_DB = [
   {
     "id": "nfa1c41a0",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
     "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
     "summary": [
@@ -157,31 +157,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n22f32cb1",
-    "category": "부동산",
-    "source": "데일리안",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
-    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
-    "summary": [
-      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n21d1500d",
+    "id": "n37646dcf",
     "category": "IT",
-    "source": "머니투데이",
+    "source": "유니콘팩토리",
     "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VVmZjQUtRa3BqUng5MnJtdExfX18tb0pLN1VyNEwwX2p4RW1HdTl5bmllWkVwTzQ4UWxPNFlMSFhKODJlend4V3VaZi1Fay1IOWNLZTNoelBZOEExZi1YM1VyOXlRbTNzS3fSAW9BVV95cUxOVUFfeEtOaklFeHNHY3JRbVhXNDVNTVdtOE5QVjFRT1hLS2ltVmY5d29id195bnFxSXoySHFKdXM4VUQyN1RZWS01b3BFeXJJWGZBNXVIdk5CbkFobmIyZ3JpQXhxQU9KZ2FLN0pTdTg?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이 머니투데이."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n4324c5c4",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkticmh3N2tXTGo4a2JTNjQtazBsUEhkTGFYVnoxMmRTVk5LYlAwMnhxcW43d0NKVlBvcjlhUGdnMlY4RHJaZ0pKT0N3SVpGVFJ1ZFJXc09pY3lrZU1mRkc5b3dTU3FtZ3d6bWZneDJ4VzVFM01ER1ZTV3pYRkFXckxadE0zbTE2b0c0TFg4c3hwcVAyb0hZZdIBrAFBVV95cUxQQmJ1RjVPOVZ6N3plS0xLZ1BWeVVNTnV4ZHB5WlBzWVlFeXpRU0M2cWJITU5uT0x5YklqWWZvMUhLRmVsOWotU3A2R2FreE1hWlpBR3dlWlNSNEF1a1FrWngyLWVoTFl3aHFBNm5WeUxySDBaWWsxNUxLUDhzTDRVYTVROTd5SWNyT3NfQ2NNa1Rva1NPZHhtUlZ1dnBwY2JBNGhZVG5uR0V3Umhu?oc=5",
+    "title": "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈",
+    "summary": [
+      "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#전세"
     ]
   },
   {
@@ -217,7 +217,7 @@ window.NEWS_DB = [
     "id": "n4654c9cf",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
-    "time": "10일 전",
+    "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVZYTFU0VmZOZzExd2xHZVJ2UkVFb1d0WVB6SGx0MHRHdmZEMHlOT091cmNZOFFwME9CeTdiZWNHdU1Nc0stZ3VzYUxPcUJqcWNLcEFFX1M0YWRHX0V3Zy1fZTdCZlJfMlpUMXFOaGV0dktDbHhuWXRGVldoQXhYbUxwMmdHWWNjd1loWHRB?oc=5",
     "title": "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
     "summary": [
@@ -262,6 +262,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n64476ff1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "48일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "summary": [
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -273,20 +287,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n8988be77",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "103일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -320,314 +320,314 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4b9ed2ff",
+    "id": "n43da721e",
     "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003658964",
-    "title": "\"엄마는 김치녀\"…'하시4' 김지민, 비밀글 유출 일파만파",
+    "url": "https://www.newsis.com/view/NISX20260605_0003658398",
+    "title": "결혼부터 주거까지…'롬앤' 아이패밀리에스씨 가족 친화 경영[유통家화만사성]",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 채널A 연애 리얼리티물 '하트시그널4'(하시4) 출신 인플루언서 김지민이 자신의 비공개 소셜미디어 게시물 무단 유출 논란에 대해 사과했다.",
-      "김지민은 6일 자신의 소셜 미디어에 \"최근 개인적인 공간에서 작성된 게시물로 인해 심려를 끼쳐드린 점 진심으로 사과드린다\"며 고개를 숙였다.",
-      "앞서 온라인 커뮤니티에는 김지민이 소셜 미디어 '친한 친구' 기능을 통해 올린 비공개 게시물의 캡처본이 유포됐다."
+      "[서울=뉴시스]권민지 기자 = 색조 화장품 브랜드 '롬앤(rom&nd)' 운영사 아이패밀리에스씨가 결혼과 출산, 육아, 주거 지원까지 아우르는 가족친화 복지 제도를 확대해 임직원의 일·생활 균형 지원에 나서고 있다.",
+      "7일 업계에 따르면 아이패밀리에스씨는 임직원들이 생애주기별로 필요한 지원을 받을 수 있도록 다양한 사내 복지 제도를 마련하고 있다.",
+      "대표적으로 가족의 시작을 응원하는 웨딩 지원이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n550d0dc9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003658962",
-    "title": "\"근초고왕·왕인박사 만난다\"…익산시, 어린이 백제 역사탐방 운영",
-    "summary": [
-      "[익산=뉴시스]고석중 기자 = 전북특별자치도 익산시 백제문화체험관이 백제의 전성기를 이끈 왕과 문화를 꽃피운 인물을 만나보는 특별한 역사탐방 프로그램을 운영한다.",
-      "시는 오는 27일과 28일 양일간 문화가 있는 날과 연계한 참여형 역사교육인 '역사탐방-백제의 왕과 인물'을 개최한다.",
-      "이 프로그램은 초등학교 4~6학년을 대상으로 오는 10월까지 매월 마지막 주 토·일요일에 진행된다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n433d527e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003658965",
-    "title": "전북 낮 25~30도 흐림…오후 곳곳 5~20㎜ 비",
-    "summary": [
-      "[전북=뉴시스]고석중 기자 = 휴일인 7일 전북지역은 이동하는 저기압의 영향을 받아 가끔 구름이 많다가 오전부터 차차 흐려지겠다.",
-      "동부지역은 오전까지 0.1㎜ 미만의 빗방울이 떨어지겠고, 낮부터 늦은 밤 사이에는 5~20㎜의 비가 내리는 곳(전주·완주·무주·진안·장수·남원·임실·순창 등)이 있다.",
-      "아침 최저기온은 15~17도로 전날보다 3~6도 높다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n143d959b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605061300057",
-    "title": "게임 하는 초등생 아들 주먹으로 때린 50대 징역형 집행유예",
-    "summary": [
-      "(울산=연합뉴스) 김근주 기자 = 게임을 하는 초등학생 아들에게 화가 나 주먹으로 때린 아빠에게 징역형 집행유예가 선고됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00b7d925",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607005100504",
-    "title": "[속보] 北김여정 \"핵보유 지위 절대불퇴…어떤 위협도 용납안해\"",
-    "summary": [
-      "id@yna.co.kr (끝)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na808e40f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607004900055",
-    "title": "전북 흐리고 5~20mm 비…낮 최고 30도",
-    "summary": [
-      "(전주=연합뉴스) 최영수 기자 = 7일 전북은 흐리고 오후부터 동부권을 중심으로 비가 내리겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19394d02",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607004800063",
-    "title": "대전·세종·충남 흐리고 오후부터 비…낮 최고 29도",
-    "summary": [
-      "(대전=연합뉴스) 김준범 기자 = 일요일인 7일 대전과 세종, 충남은 대체로 흐리고 늦은 오후부터 비가 오는 곳이 있겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8476d306",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/07/HA3DSOJUGBTDMNDDGFRTONJYHA/",
-    "title": "공 끌어안고 쓰러진 41세 포수→21년 후배 투수에게 \"괜찮아, 붙어\"...연장 결승포보다 더 결정적이었던 순간",
-    "summary": [
-      "[대구=스포츠조선 정현석 기자]베테랑 포수의 가치.",
-      "삼성 라이온즈 강민호가 팀을 구했다.",
-      "공수에 걸친 묵직한 활약으로 팀을 3연패 늪에서 '멱살잡고' 끌어냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na5220cf4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658942",
-    "title": "게임한다고 초등생 아들 마구 때린 50대 징역형 집유",
-    "summary": [
-      "[울산=뉴시스] 안정섭 기자 = 게임을 하거나 잠버릇이 나쁘다는 이유로 초등학생 아들을 마구 폭행한 50대 남성이 징역형의 집행유예를 선고받았다.",
-      "울산지법 형사9단독 송인철 판사는 아동복지법 위반(아동학대) 등의 혐의로 재판에 넘겨진 50대 남성 A씨에게 징역 1년에 집행유예 2년을 선고했다고 7일 밝혔다.",
-      "재판부는 A씨에게 보호관찰을 받을 것과 각 40시간의 아동학대·스토킹범죄 재범 예방강의 수강, 3년간 아동 관련기관 취업 제한도 명령했다."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "n6f94408e",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606045700030",
-    "title": "한국 여름 더위에도 '가죽 재킷' 젠슨황…\"전투복·브랜드 구축\"",
-    "summary": [
-      "(서울=연합뉴스) 이상서 기자 = 검은색 반소매 티셔츠와 검은색 바지, 검은색 신발."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n91e41578",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/economy/market_trend/2026/06/07/GJSTOZJXGFRDMMLEG42TKM3GHE/",
-    "title": "[비즈톡톡] 이제 선거도 끝났으니… 가격 인상 카드 만지작 거리는 식품업계",
-    "summary": [
-      "6·3 지방 선거가 마무리되면서 식품 업계가 조심스레 소비자 가격 인상 카드를 만지작 거리고 있습니다.",
-      "중동 정세 불안이 지속되면서 국제 유가는 내릴 줄 모르고, 미 달러화 대비 환율이 1500원대로 올라 안착했다는 평가가 나올 정도이기 때문입니다.",
-      "식품사들은 원자재 가격 부담이 이만저만 한 것이 아니었지만, 정부의 강력한 물가 통제 탓에 울며 겨자 먹기로."
-    ],
-    "chips": [
-      "#환율",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd0fd3a53",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605109800530",
-    "title": "노동위 사건 4월까지 45% 급증…노란봉투법에 올해 3만건 전망",
-    "summary": [
-      "(서울=연합뉴스) 옥성구 기자 = 노란봉투법 시행으로 올해 4월까지 노동위원회 접수 사건이 1년 전보다 약 45% 급증한 것으로 나타났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8e639edf",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605139700002",
-    "title": "빗썸 오지급에 25억원·업비트 해킹에 7억9천만원 보상",
-    "summary": [
-      "(서울=연합뉴스) 박수현 기자 = 가상자산 거래소 빗썸이 지난 2월 발생한 비트코인 오(誤)지급 사고로 약 25억원을 보상한 것으로 확인됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f7de72e",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605120000505",
-    "title": "[소셜＋] \"여보, 얼마 주고 샀어?\"…AI가 불러온 '결혼생활 위기'",
-    "summary": [
-      "(서울=연합뉴스) 정풍기 인턴기자 = 인공지능(AI)이 사진만으로 제품 정보를 파악하고 시세를 추정하는 '디지털 감별사' 역할을 하면서 기혼자들..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n94045b0e",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "21분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/07/OW2WIFLU3ZCRRMWYREDQ6EKOT4/",
-    "title": "[르포] “용산은 쇠락했지만 광화는 건재”… ‘PC 강국’ 대만이 AI 서버 강국 된 비결",
-    "summary": [
-      "[르포] “용산은 쇠락했지만 광화는 건재”… ‘PC 강국’ 대만이 AI 서버 강국 된 비결."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n12efc7bf",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://view.asiae.co.kr/article/2026060519370436238",
-    "title": "신세계百, 강남점 와인셀라 개장 2주년 주류 축제",
-    "summary": [
-      "신세계백화점은 강남점 하우스오브신세계 와인셀라 개장 2주년을 맞아 6월 한 달간 다채로운 주류 축제를 선보인다고 7일 밝혔다.",
-      "우선 미국 컬트 와인 '본드(BOND)'의 앰베서더(홍보대사)이자 마스터 소믈리에인 맥스 캐스트가 직접 방한해 마스터클래스를 진행한다.",
-      "본드의 핵심인 테루아 포트폴리오 와인 5종을 마스터 소믈리에의 설명과 함께 시음하며 본드 와인을 만끽하는 시간을 가질 수 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nac89d030",
+    "id": "n447cf777",
     "category": "부동산",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/economy/realty/realestate_news/2026/06/07/MU4GKMRZG5RTONBZGI3GGMZTGU/",
-    "title": "미분양을 톱스타 전세로?…'지방 수협 대출' 동원한 한남동 집값 띄우기",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606025500003",
+    "title": "\"주택도시보증공사, 공기업 경영평가 23계단 상승해 1위\"",
     "summary": [
-      "한남동 초고가 빌라 개발한 차가원 회장 연예기획사 차려 소속 연예인 전세로 들여 분양가보다 비싼 보증금에 대출 주선까지 1단지는 100% 미분양…보증금 반환 두고 갈등 [땅집고] 부동산 디벨로퍼 겸 연예기획사 대표인 차가원 피아크그룹·원헌드레드레이블 회장이 소속 연예인들을 이용해 본인이 개발한 한남동 초호화 빌라 시세를 띄웠다는 의혹이 불거졌다."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
-    "id": "n8c339b2c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "51분 전",
-    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/06/07/7O7SDG3ZX5FRJLLLF647GRMFJQ/",
-    "title": "미국도 주목하기 시작한 ‘李 대통령 공소 취소’",
-    "summary": [
-      "미국도 주목하기 시작한 ‘李 대통령 공소 취소’."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na16843e7",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152411",
-    "title": "[가봤다] 연령·국적·팬덤 뛰어넘은 K팝 축제...위버스콘, 음악으로 하나 되는 '뉴토피아' 열다",
-    "summary": [
-      "푸른 잔디밭 위에는 돗자리를 편 관객들이 삼삼오오 모여 앉아 있었고, 공연이 시작되자 응원봉을 흔들며 노래를 따라 불렀다.",
-      "공연 중간에는 음식을 나눠 먹거나 노래에 맞춰 춤을 추고, 좋아하는 아티스트의 굿즈를 서로 공유하는 모습도 눈에 띄였다.",
-      "팬들의 스마트폰은 축제의 열기를 담기 위해 바쁘게 움직였다."
+      "(서울=연합뉴스) 임성호 기자 = 올해 공기업 경영평가에서 주택도시보증공사(HUG)가 순위가 급상승하며 종합 1위를 차지했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd2718b92",
+    "id": "nd8a89048",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605085900065",
+    "title": "선임병 업어치기로 어깨 장애…법원 \"보훈대상 등록거부는 위법\"",
+    "summary": [
+      "(인천=연합뉴스) 최은지 기자 = 선임병의 '업어치기'로 어깨를 심하게 다친 30대가 신청한 보훈대상자 등록을 거부한 보훈당국의 결정이 위법하다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd851d027",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003658974",
+    "title": "[속보]월드컵 경기 임박 LA경기장 노조, 전면파업에 96%찬성 투표",
+    "summary": [
+      "[서울=뉴시스] 차미례 기자 = 미국 캘리포니아주 로스앤젤레스(LA) 카운티 소재 소파이 스타디움 노조가 5일 실시한 파업 찬반 투표에서 2026년 FIFA 북중미 월드컵 경기가 11일로 임박했는데도 파업에 압도적인 96%의 찬성표를 던졌다고 6일(현지시간) 투표결과를 발표했다.",
+      "◎공감언론 뉴시스 cmr@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6148a309",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606071048i",
-    "title": "\"퇴직금 대신 중고 법인차 받았다\"…'퇴직금 회피 꼼수' 기승",
+    "time": "5분 전",
+    "url": "https://www.hankyung.com/article/2026060598297",
+    "title": "'금값 뛰고 은도 비싸지더니'…20대 '최애템' 된 뜻밖의 반지",
     "summary": [
-      "\"퇴직금 대신 중고 법인차 받았다\"…'퇴직금 회피 꼼수' 기승."
+      "'금값 뛰고 은도 비싸지더니'…20대 '최애템' 된 뜻밖의 반지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n03bb9604",
-    "category": "IT",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152410",
-    "title": "\"응원봉 받고, 네컷 찍고, 공연 보고\"...위콘페, 위버스 속 팬 경험의 확장판",
+    "id": "n32780d57",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/07/MJQTSZBWHA4WGYZVGEZGIMJWHE/",
+    "title": "노르망디 82주년 찾은 美 국방장관… “유럽 스스로 지켜라” 방위 무임승차 압박",
     "summary": [
-      "초여름 햇살이 감싼 88잔디마당에서는 팬들이 응원봉을 흔들며 공연을 기다리고 있다.",
-      "KSPO 돔 밖에서는 아티스트의 로고가 담긴 피켓을 들고 네 컷 사진을 남기거나 직접 만든 키링으로 아티스트의 이름을 담는 모습도 이어졌다.",
-      "'뉴토피아'를 주제로 열린 위버스콘 페스티벌(위콘페)에서 볼 수 있는 풍경이다."
+      "유럽의 안보 무임승차론을 제기해 온 미국 정부가 제2차 세계대전 노르망디 상륙작전 82주년을 맞아 프랑스를 찾은 자리에서 동맹국들에 방위비 증액과 병력 확충을 강하게 압박했다.",
+      "6일(현지시각) 로이터와 르몽드 등 주요 매체 보도를 종합하면, 이날 피트 헤그세스 미국 국방부 장관은 프랑스 콜빌쉬르메르에 있는 미군 묘지에서 열린 기념식에 참석해 동맹국이 유럽."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b1abb85",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605159500008",
+    "title": "올해 코스피 '시총 순위' 지각변동…'톱10' 중 7개 바뀌어",
+    "summary": [
+      "(서울=연합뉴스) 이민영 기자 = 올해 들어 국내 주식시장 대형주들의 주가 희비가 엇갈리면서 시가총액 상위권의 지각 변동이 큰 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neefa5849",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605065200003",
+    "title": "삼성전자, OLED TV 시장서 LG전자와 격차 6%포인트로 좁혀",
+    "summary": [
+      "(서울=연합뉴스) 김민지 기자 = LG전자가 주도하던 전 세계 유기발광다이오드(OLED) TV 시장에서 삼성전자가 가파른 성장세를 보이며 바짝 ..."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nd6ee7af6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/07/GYZGEMLCMFQTCOJRMNSWEMBXMY/",
+    "title": "한혜진, 이시언♥서지승 2세에 '슈퍼 싱글 사이즈' 침대 선물 \"중학생 때까지 써\" ('시언's쿨')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 모델 한혜진이 이시언,서지승 부부의 2세를 위해 통 큰 선물을 전했다.",
+      "6일 유튜브 채널 '시언's쿨'에는 '나 혼자 살던 이시언, 아빠가 되다..아들 태건이 태어난 날의 기록'이라는 제목의 영상이 게재됐다.이날 이시언은 태건(태명)이가 세상에 나오면 쓸 아기방을 처음으로 공개해 눈길을 끌었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90c0d0a4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/07/MQ2TIMBRMNTGCYZTMQ3GCM3GME/",
+    "title": "'건강이상설 해명' 한채영, 달라진 얼굴로 결혼 19주년…子가 벌써 13살",
+    "summary": [
+      "[OSEN=장우영 기자] 배우 한채영이 결혼 19주년을 자축하며 건강이상설을 지웠다.한채영은 7일 자신의 SNS 스토리에 이렇다 할 글 없이 결혼 19주년을 자축하는 사진을 공개했다.공개된 사진 속 한채영은 침대에 누워 결혼 19주년을 자축했다.",
+      "지난 2007년, 4살 연상의 사업가와 결혼한 한채영은 2013년 아들을 품에 안았다.올해로 결혼 19주년을 맞."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n4dd39d30",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/07/GE4GCNRYHFSWKZJZGJQTIOBRGM/",
+    "title": "KIA 퓨처스 8연승 구단 역사 새로 썼다...1군 승격 선수들 맹활약, 뿌듯한 진갑용 감독 \"육성의 결과물이다\"",
+    "summary": [
+      "[OSEN=광주, 이선호 기자] \"육성의 결과였다\".KIA타이거즈 퓨처스팀이 구단 역사를 새로 썼다.",
+      "지난 7일 울산 문수구장에서 열린 2026프로야구 퓨처스리그 울산 웨일스와의 경기를 6-0으로 완승했다.",
+      "전날 롯데자이언츠를 상대로 구단 자체 7연승 타이기록을 세우더니 기어이 최다 연승기록을 갈아치웠다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n9eca7979",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003658976",
+    "title": "시진핑 최측근 차이치 중앙당교 교장 겸임…“2인자로 위상 높아져”",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 중국공산당 서열 5위인 차이치(蔡奇) 정치국 상무위원 겸 중앙판공청 주임이 최고 간부 양성기관인 중앙당교(中央黨校) 교장을 겸직해 맡았다고 신화망과 중앙통신이 6일 보도했다.",
+      "매체에 따르면 전날 열린 중앙당교 2026년 봄학기 제2차 졸업식에 차이치 주임이 처음으로 중앙당교 교장 자격으로 참석해 수료생들에게 졸업증서를 수여했다.",
+      "이와 관련 성도일보(星島日報)는 전 정치국 위원 겸 당조직부장인 천시(陳希)가 중앙당교."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9710ab49",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605142200008",
+    "title": "올해 개인이 가장 많이 산 '최애' ETF는…SOL AI반도체TOP2+",
+    "summary": [
+      "(서울=연합뉴스) 김태종 기자 = 국내 상장지수펀드(ETF) 시장이 500조원 시대를 연 가운데 올해 개인 투자자들의 꾸준한 '러브콜'을 받으며..."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n09c59930",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003658975",
+    "title": "부산시, 삼락생태공원서 '시민 어울림 한마당' 개최",
+    "summary": [
+      "[부산=뉴시스] 이아름 기자 = 부산시는 7일 오전 사상구 삼락생태공원에서 새마을운동 제창 56주년 및 제16회 새마을의 날을 기념하는 '부산 시민 어울림 한마당'을 개최한다.",
+      "행사는 식전 공연을 시작으로 기념식, 시민참여 프로그램, 문화 공연 등으로 구성된다.",
+      "기념식에서는 지역사회 발전과 봉사활동에 기여한 새마을 지도자들에 대한 시상이 진행된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n655eeeb7",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026060515362314488",
+    "title": "\"숙박비 최대 7만원?\"…여름휴가 할인권 챙기는 법 [혜택의 정석]",
+    "summary": [
+      "편집자주'아는 만큼 보이고, 아는 만큼 아낀다.' 정보가 넘쳐나는 시대지만 정작 나만 모르고 지나치는 것들이 많습니다.",
+      "[혜택의 정석]에서는 일상 속에서 알아두면 돈이 되고 모르면 손해 보는 유용한 소식들을 전합니다.",
+      "#서울에서 근무하는 30대 직장인 A씨는 여름휴가 계획을 세우다 비용 부담을 느꼈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1dd64b86",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260607/134061469/1",
+    "title": "러시아군, 주말 13시간 동안 우크라 무인기 339대 격추",
+    "summary": [
+      "러시아 공군이 방공망을 통해서 주말 13시간 동안에 우크라이나 군의 고정익 방식 무인기(UAVs) ANFU 339대를 요격, 격추 시켰다고 6일(현지시간) 러 국방부가 공식 발표했다.",
+      "이 무인기들이 격추된 지역은 모스크바 지역을 비롯해서 12개 지역에 달하며, 흑해 해상에서도 격추되었다고 국방부 발표를 인용한 타스, 신화통신 등이 보도했다.",
+      "UAVs 무인기는 날개가 고정된 고정익 구조로 비행하며, 전진 이동에 의해 양력을 얻어 장거리· 장시간."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb39c1dd",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/2026060711267",
+    "title": "젠슨 황, 오늘 잠실구장 뜬다…두산 박정원과 시구·시타",
+    "summary": [
+      "젠슨 황, 오늘 잠실구장 뜬다…두산 박정원과 시구·시타."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd0180341",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026060415323950589",
+    "title": "냉장고, 전쟁, 그리고 '아박' [맛있는 이야기]",
+    "summary": [
+      "편집자주최초의 과자는 고대 메소포타미아 문명에서 발견됐다고 합니다.",
+      "과자는 인간 역사의 매 순간을 함께 해 온 셈이지요.",
+      "비스킷, 초콜릿, 아이스크림까지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n493e024d",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605155800030",
+    "title": "\"오늘 가장 싸\" 인상 랠리에 '포모'…백화점 명품 매출도 껑충",
+    "summary": [
+      "(서울=연합뉴스) 조민정 기자 = 주말 백화점 명품관 앞은 이른 아침부터 인산인해다.",
+      "캐리어를 끄는 외국인 관광객들과 '오픈런' 대열에 합류한 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n19d3a690",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260605127900061",
+    "title": "GH 공사채 2조3천억 정부 승인…광명시흥지구 등 5개 사업 탄력",
+    "summary": [
+      "(수원=연합뉴스) 최찬흥 기자 = 경기도와 경기주택도시공사(GH)는 광명시흥공공주택지구 등 GH가 시행하는 5개 개발 사업과 관련해 모두 2조3..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n41cb987c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "21분 전",
+    "url": "https://www.hankyung.com/article/202606060901i",
+    "title": "법전을 아무리 찾아봐도…회사법이라는 이름의 법률은 없다 [강진구의 회사법 뜨락]",
+    "summary": [
+      "법전을 아무리 찾아봐도…회사법이라는 이름의 법률은 없다 [강진구의 회사법 뜨락]."
     ],
     "chips": [
       "#뉴스"
@@ -640,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "3110건",
+    "trend": "+375%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "삼성전자",
     "mentions": "1550건",
     "trend": "+135%"
   }
