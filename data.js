@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-06 18:23:49
+// 마지막 업데이트: 2026-06-06 19:29:52
 window.NEWS_DB = [
   {
     "id": "n08478446",
@@ -34,37 +34,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4fb4270f",
-    "category": "IT",
-    "source": "마켓인",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zQ3Z0X0t6TWdDYS1VWUhicnR5bTM3b3E5eXdocncxQ3lhRnhJRUFOUnd0TUlzZ0JLdEluZzlrSGhFOXBZSlRlTDFYS3NWRlhxdlU4Z3VDYTFxaFBGM1lJOGg2T3h0MWEwZE03b0daRlVVajA?oc=5",
-    "title": "“반도체 우려 과도…SOCAMM 축소는 수요 둔화 아닌 공급 부족”",
-    "summary": [
-      "“반도체 우려 과도…SOCAMM 축소는 수요 둔화 아닌 공급 부족” 마켓인."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n43ee8875",
-    "category": "IT",
-    "source": "뉴스퀘스트",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80bV9oWVRQLWh4cUVqdFAteV8ydEpoSndqVUdhQkZEQ3FHM09LcG5IcGp4REJDVXJsaGZtWFFhUjlUYmhIV01RejlQdjZ1M2dwNTFKRDktNFc2ZnVNczFsUjdfVjloQldzbkUxdkc4c9IBc0FVX3lxTE9jRldwcGZrZ2o3ZGplVGN3dENPblFWY0xZMllKVWY1U2wxNmNKNFFzQm5HREc3NUZtVzFGaDVXY1RXVFVzRmVGbU5ZQWtDTjVXUklBbWZSNDdsdkkxYmpvR2pTZHFzaDI2LUtNcXdtY1IwMGM?oc=5",
-    "title": "공급망의 SK하이닉스 vs. 통합 기술의 삼성전자…HBM 패권 경쟁 새 국면",
-    "summary": [
-      "공급망의 SK하이닉스 vs.",
-      "통합 기술의 삼성전자…HBM 패권 경쟁 새 국면 뉴스퀘스트."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "nbcccb229",
     "category": "IT",
     "source": "연합뉴스",
@@ -79,6 +48,22 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#수출"
+    ]
+  },
+  {
+    "id": "n8c0897ea",
+    "category": "IT",
+    "source": "한경매거진&북",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WV3VoeENEZ3FNTHBTdm1PYzg5ZlZUUF95dFlYRnFBQ0pjeHdmdERTRWdYdHJXVWhmM0JwNVlwNk1SdC1MT0pKOEh5WnBDMnFKdUJEbl9oUE1HRmhZdXFfSF9vMWxxWEZCaHk0Sw?oc=5",
+    "title": "최태원, 엔비디아 이어 TSMC 회장 회동…AI 반도체 '삼각 동맹' 굳힌다",
+    "summary": [
+      "최태원, 엔비디아 이어 TSMC 회장 회동…AI 반도체 '삼각 동맹' 굳힌다 한경매거진&북."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -128,6 +113,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na0f523e8",
+    "category": "IT",
+    "source": "이코노미트리뷴",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
+    "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
+    "summary": [
+      "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는 이코노미트리뷴."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "ne2208e3a",
     "category": "부동산",
     "source": "프라임경제",
@@ -139,21 +139,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
-    ]
-  },
-  {
-    "id": "nb9bdfdfb",
-    "category": "스포츠",
-    "source": "푸드투데이",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
-    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
-    "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
     ]
   },
   {
@@ -200,6 +185,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1af71cc9",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QcUxOLV9saEZoM3Fsd0hmUkU1VmppNVRzSVRja3dwMUhmQUdFMHdVdDVGSjhMeHJBbGVVenYyR1Y4ejFzNnBCamg2V05xVEZXNmRhQWdaR0RpT0lpbTVreA?oc=5",
+    "title": "홈런 후 기뻐하는 카메론",
+    "summary": [
+      "홈런 후 기뻐하는 카메론 네이트."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n4654c9cf",
     "category": "사회",
     "source": "네이버 프리미엄콘텐츠",
@@ -214,6 +213,20 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n35b9d663",
+    "category": "경제",
+    "source": "KB Think",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
+    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
+    "summary": [
+      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -234,17 +247,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n35b9d663",
-    "category": "경제",
-    "source": "KB Think",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
-    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
+    "id": "n0620d038",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "25일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDUmxJUERzU2VkYnNNVnVRdHNPbmM4OU1EZFd3YzFDVU94VExobW51a3VlYjBhQk80dVRZY2N4NnpwdXdNNmZOWUtMZnRMQk5YOFpyUUxRdkxCSmMy?oc=5",
+    "title": "스포츠토토 공식사이트 이벤트 '2026시즌 첫 응원의 시작! 축구 야구 개막 기념 벳머니 페스타' 5월17일 종료",
     "summary": [
-      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
+      "스포츠토토 공식사이트 이벤트 '2026시즌 첫 응원의 시작! 축구 야구 개막 기념 벳머니 페스타' 5월17일 종료 네이트."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
@@ -259,20 +272,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "66일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -306,17 +305,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n46f59f4d",
+    "id": "n0ba94947",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "155일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
+    "source": "이투데이",
+    "time": "294일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeFVaZ2NxaEJNU3lfakx0VkJhbU5ZbWs4UWl0QU5TaDhZVlFCUGlfVE9jWXNlSGxQSE1ZVGJfLWwtaDhYbWV1a004UmNqN3N2T0t3cA?oc=5",
+    "title": "'2025 KBO 프로야구' 오늘(16일)의 경기 일정",
     "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
+      "'2025 KBO 프로야구' 오늘(16일)의 경기 일정 이투데이."
     ],
     "chips": [
-      "#손흥민",
       "#KBO"
     ]
   },
@@ -337,10 +335,54 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5189d4cd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003658954",
+    "title": "스페인 방문한 교황 \"양극화 부채질하는 행위 멈춰야\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 스페인을 방문한 레오 14세 교황은 6일(현지시간) \"양극화의 불길을 부채질하는 행위를 멈추라\"고 촉구했다.",
+      "AP통신, 카데나SER 등에 따르면 스페인 수도 마드리드에 도착한 그는 이같이 말했다.",
+      "\"오늘날에는 양극화의 불길을 부채질해 인기를 얻으려는 유혹이 줄어들기는커녕 오히려 커지고 있는 것처럼 보인다\"며 \"인간의 존엄성은 계속해서 침해받고 있다\"고 지적했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc68867ce",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607003000091",
+    "title": "월드컵 앞두고 LA 경기장 노조 파업결의…이민단속 등 우려",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 국제축구연맹(FIFA)의 북중미 월드컵 개막을 앞두고 미국 로스앤젤레스(LA) 인근 경기장 노동자들이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n922482fe",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607001300009",
+    "title": "노래로 거침없이 사회비판…아르헨 '록의 전설' 별세에 추모열기",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나에서 날카로운 사회 비판 메시지를 던지며 국민적 사랑을 받던 '록 음악의 전설'이 별세하..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n03bb9604",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "27분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152410",
     "title": "\"응원봉 받고, 네컷 찍고, 공연 보고\"...위콘페, 위버스 속 팬 경험의 확장판",
     "summary": [
@@ -353,10 +395,56 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8619c476",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658914",
+    "title": "대구·경북, 흐리고 5~20㎜ 비…아침 13도·한낮 27도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 일요일인 7일 대구와 경상북도는 대체로 흐리고 비가 내릴 것으로 예상된다.",
+      "대구지방기상청은 이날 \"오전부터 밤사이 대구와 경북, 울릉도·독도에 5~20㎜의 비가 오겠다\"고 예보했다.",
+      "아침 최저기온은 13~19도(평년 12~17도), 낮 최고기온은 21~27도(평년 22~29도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3175f23b",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607002400072",
+    "title": "'은행규제 강화론자' 美연준 이사 \"규제완화 단기 흥분제 불과\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 은행규제 강화론자인 미국 연방준비제도(Fed·연준)의 마이클 바 이사는 6일(현지시간) 도널드 트럼프 미 행..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n8915b7eb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "50분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/07/HEYDIZTBGQ4GCOLGGZQTAOBRMY/",
+    "title": "\"도망가는 피칭, 결과 안 좋다\" 문제 알면 뭐하나, 고쳐지지 않는데…볼볼볼볼 대참사, 신인이 면죄부는 아니다",
+    "summary": [
+      "[OSEN=부산, 조형래 기자] 스스로도 문제를 알고 있었고 사령탑도 줄곧 지적했던 문제였다.",
+      "그러나 이 문제가 고쳐지지 않았다.",
+      "신인이라고 면죄부를 줄 수 없는 대참사의 빌미를 제공했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n3168e7d8",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/basketball/2026/06/07/MYYWEMZUMUYWGYRVMFTDGMJTHA/",
     "title": "경기종료 9.5초전 샌안토니오에 무슨 일이? 웸비 뼈아픈 패스실책→자유투 헌납. 샌안토니오, 104-105 패배. 뉴욕 닉스 파죽 2연승",
     "summary": [
@@ -372,7 +460,7 @@ window.NEWS_DB = [
     "id": "n0dafd300",
     "category": "사회",
     "source": "뉴시스",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260607_0003658953",
     "title": "\"파키스탄 내무 테헤란 도착…이란 외무와 회담 예정\"",
     "summary": [
@@ -385,40 +473,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1e0d1e07",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/topclass/topclass_series/2026/06/07/WYM27ODH7VAFDOM4I6VFKLVD5Y/",
-    "title": "‘선도자’ 스페이스X와 ‘추격자’ 블루오리진",
-    "summary": [
-      "스페이스X의 상장 뉴스로 글로벌 시장이 들썩인다.",
-      "우주 산업의 독보적 1위 기업인 스페이스X의 행보로 관련 산업 전반이 재평가받는 분위기다.",
-      "세계경제포럼 추정에 따르면 우주 산업 규모는 2023년 6300억 달러(약 950조 원)에서 연평균 9.1% 성장해 2035년 1조 7900억 달러(약 2700조 원)에 이를 것으로 전망된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na5a3153c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/06/07/76W2H252YBEYJPSY275TMBP7RI/",
-    "title": "한복에서 현대식 간호복까지… “조선 나이팅게일” 100년",
-    "summary": [
-      "한복에서 현대식 간호복까지… “조선 나이팅게일” 100년."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n98853465",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260606049951081",
     "title": "美국방, 노르망디 찾아 \"유럽이 재래식 방위 주된 책임 맡아야\"(종합)",
     "summary": [
@@ -429,40 +487,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9e7d3962",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "31분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/07/2026060702163735980",
-    "title": "'2인 1조 총기 무장 군인 배치→카메라 꺼내지 마!' 홍명보호 '무려 2경기' 월드컵 무대... 삼엄한 경계 태세 [과달라하라 현장]",
-    "summary": [
-      "홍명보호가 2026 국제축구연맹(FIFA) 북중미월드컵 조별리그 1·2차전을 치를 격전지 멕시코 과달라하라의 에스타디오 아크론 경기장은 본선 개막을 눈앞에 두고 삼엄한 경비와 철저한 통제 속에 팽팽한 긴장감이 감돌고 있다.",
-      "현지 시간으로 6일 오전 방문한 에스타디오 아크론 입구를 비롯한 주요 길목 곳곳에는 실제 총기로 무장한 군인들이 2인 1조로 배치되어 삼엄한 경계 근무를 서고 있었다.",
-      "경기장 주변에 이토록 긴장감이 맴도는 이유는 최근 현지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne636f296",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607001800091",
-    "title": "[게시판] 주시애틀총영사관 이메일 소통·현장 간담회",
-    "summary": [
-      "[게시판] 주시애틀총영사관 이메일 소통·현장 간담회."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nbf36816e",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260607_0003658952",
     "title": "FIFA, 월드컵 차출 구단에 5500억원 역대급 보상금 지급",
     "summary": [
@@ -475,85 +503,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2bad54c1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003658950",
-    "title": "美헤그세스, 프랑스 노르망디 방문해 \"유럽, 재래식 방위 먼저 책임져야\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 피트 헤그세스 미국 국방부 장관은 6일(현지 시간) \"유럽은 스스로의 재래식 방위를 가장 먼저 책임져야 한다\" 유로뉴스, AP통신 등에 따르면 노르망디 상륙작전 상륙작전 82주년 기념행사에 참석하기 위해 프랑스를 방문한 헤그세스 장관은 이날 노르망디 미국인 묘지에서 연설하면서 이같이 말했다.",
-      "그는 카트린 보트랭 프랑스 국방장관 등이 참석한 이 자리에서 \"프랑스와 같은 동맹국들이 이 현실을 진지하게 받아들이고, 구."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n48dd5d33",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607001200091",
-    "title": "테슬라, 날아다니는 스포츠카 '로드스터' 공개 시연 또 연기",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 일론 머스크의 전기차 기업 테슬라가 여러 차례 출시를 미뤄온 차세대 스포츠카 '로드스터'의 공개 시연..."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "nb79b12c5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003657926",
-    "title": "日 사슴에 올라타려고 시도한 여성…\"명백한 동물학대\" 비판 쇄도",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 일본에서 사슴 위에 올라타려고 시도한 여성의 모습이 포착되면서 논란이 벌어졌다.",
-      "지난 3일(현지시간) 일본 제이캐스트뉴스는 소셜미디어(SNS)를 통해 나라현 나라공원으로 추정되는 장소에서 한 여성이 사슴 위에 앉으려 하는 모습이 담긴 영상이 확산됐다고 보도했다.",
-      "영상 속 여성은 사슴 위에 걸터앉아 타려고 시도했고, 한 남성이 그를 따라다니면서 \"할 수 있다\"고 부추겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8e4ddd43",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026060701342990138",
-    "title": "\"용기·헌신 기억하겠습니다\" … 경남도, 제71회 현충일 추념식 엄수",
-    "summary": [
-      "\"나라를 위한 희생, 기억하고 이어가겠습니다.\" 경상남도가 6일 창원 충혼탑에서 '제71회 현충일 추념식'을 열고 순국선열과 호국영령의 정신을 기렸다.",
-      "경남도는 이날 오전 10시에 전국에 일제히 울린 추념 사이렌과 함께 추념식을 시작해 1분간 묵념했다.",
-      "이어 국민의례, 헌화와 분향, 추념사, 헌시 및 감사편지 낭독, 현충의 노래 제창 등으로 순국선열과 호국영령에 감사와 존경을 표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nee7c3066",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606014653004",
-    "title": "잠실개표소 앞 시위 사흘째로…'2030 주축'(종합)",
-    "summary": [
-      "(서울=연합뉴스) 김채린 정지수 기자 = 투표지 부족 사태를 규탄하며 재선거를 요구하는 '잠실 개표소 봉쇄 시위'가 사흘 차에 들어섰다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n600b8913",
     "category": "사회",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152404",
     "title": "[위클리 IT템] 하나만 잘하는 시대 끝났다...'멀티 모드' 게이밍 기기의 등장",
     "summary": [
@@ -566,57 +519,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6755cd5b",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/07/2026060613210085691",
-    "title": "'실사판 춘리' 日 미녀 파이터, '역대급 백열각' 깜짝 공개→폭발적 반응 \"경이롭다... 믿기지 않는 수준\"",
-    "summary": [
-      "게임 캐릭터 춘리의 필살기를 그대로 재현한 듯한 발차기로 전 세계적인 신드롬을 일으키고 있는 일본의 무패 초신성 기무라 모나(22)가 상상을 초월하는 균형 감각이 담긴 훈련 영상을 공개해 또 한 번 지구촌 격투기 팬들을 충격에 빠트렸다.",
-      "일본 매체 '니시스포'의 최근 보도에 따르면, '실사판 춘리'라는 예명으로 폭발적인 인기를 누리고 있는 K-1 파이터 기무라가 개인 사회관계망서비스(SNS)에 올린 독특한 트레이닝 과정이 엄청난 화제를 모으고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neeb0d185",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/07/2026060617540569142",
-    "title": "칭찬에 인색한 이정효 감독, 화성전 극장승에 \"오늘만큼은 칭찬하고 싶다\" [화성 현장]",
-    "summary": [
-      "평소 팀이 승리해도 선수들을 향한 칭찬에 인색했던 이정효 수원 삼성 감독이 \"오늘은 감독으로서 선수들을 칭찬해주고 싶다\"며 화성FC전 승리 소감을 밝혔다.",
-      "이정효 감독은 6일 화성종합경기타운 주경기장에서 열린 하나은행 K리그2 2026 15라운드 화성전 2-1 승리 후 기자회견에서 \"양 팀 다 많은 팬분들 앞에서 정말 최선을 다해준 경기였다\"며 \"특히 우리 선수들을 칭찬해주고 싶다\"고 했다.",
-      "이 감독은 \"전반과 후반에 동료들이 턴오버한 것, 실."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf97bf0d5",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/07/2026060620593822625",
-    "title": "'타점왕 없이도' 돌아온 4번 노시환, 8회 동점타-9회 쐐기 투런 '타점쇼'... \"포기하지 않고 끝까지 집중해줬다\" [부산 현장]",
-    "summary": [
-      "타점왕 없이도 해낼 수 있다는 걸 보여줬다.",
-      "한화 이글스가 완전히 달라진 분위기를 뽐내며 짜릿한 역전승을 챙겼다.",
-      "한화는 6일 부산 사직야구장에서 열린 롯데 자이언츠와 2026 신한 SOL KBO리그 방문경기에서 8회초 동점 2타점 적시타와 9회초 쐐기 투런 홈런을 때려낸 노시환의 활약 속에 7-2 역전승을 거뒀다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n858d21d7",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260606/134061433/1",
     "title": "크렘린궁 “北김정은은 언제나 러에서 환영받는 손님”",
     "summary": [
@@ -632,7 +538,7 @@ window.NEWS_DB = [
     "id": "nd4de0ce7",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260606/134061428/1",
     "title": "이틀 넘긴 ‘잠실개표소 봉쇄’ 3만명 결집…밤샘 시위 전망",
     "summary": [
@@ -641,6 +547,92 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n6a20aa07",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260606/134061425/1",
+    "title": "“영국 항모 프린스오브웨일스호, 나토 훈련 앞두고 또 고장”",
+    "summary": [
+      "영국 해군 항공모함 HMS 프린스오브웨일스호가 북대서양조약기구(NATO·나토) 훈련을 앞두고 또 다시 고장이 났다고 텔레그래프, 가디언 등이 5일(현지 시간) 보도했다.",
+      "보도에 따르면 영국 국방부 관계자들은 “경미한 기술적인 문제”로 프린스오브웨일스호가 고장이 났다.",
+      "특히 프린스오브웨일스호는 러시아의 공격적 행위를 억제하고 해저 핵심 인프라를 보호하기 위한 나토 훈련을 앞두고 고장이 났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5408cf7a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260606/134061422/1",
+    "title": "尹측 “고성 지른 건 종합특검 측…검사 신문 시 조사 응하겠다 해”",
+    "summary": [
+      "윤석열 전 대통령 측이 2차 종합특별검사팀의 첫 소환 조사 과정에서 경찰의 조사를 거부한 것은 맞지만 고성을 지른 적은 없다고 밝혔다.윤 전 대통령 변호인단은 6일 조사를 마친 뒤 입장문을 통해 “일부 매체가 조사 과정에서 윤 전 대통령이 특검을 향해 고성을 지른 것처럼 보도하고 있으나 사실과 다르다”고 전했다.이어 “오전 조사 과정에서 고성을 지른 사람은 윤 전 대통령이 아니라 특검 측이었다”고 밝혔다.변호인단은 “특검 측은 검사 신분이 아닌."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n53964896",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6시간 전",
+    "url": "https://www.chosun.com/national/court_law/2026/06/06/7XGZ5ZLY7VGEJBTWOM7LMYA2YI/",
+    "title": "정성호 “투표지 부족은 참정권 침해... 부정선거 음모론·과격시위는 단호 대응\"",
+    "summary": [
+      "정성호 “투표지 부족은 참정권 침해... 부정선거 음모론·과격시위는 단호 대응\"."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd671d1c3",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "6시간 전",
+    "url": "https://www.hankyung.com/article/2026060610277",
+    "title": "제1227회 로또 1등 1·14·16·34·41·44…각 26억7000만원씩",
+    "summary": [
+      "제1227회 로또 1등 1·14·16·34·41·44…각 26억7000만원씩."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncffde054",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "6시간 전",
+    "url": "https://www.hankyung.com/article/2026060610267",
+    "title": "강수진 후임 인선 논란에…문체부장관 \"허황된 뜬소문\"",
+    "summary": [
+      "강수진 후임 인선 논란에…문체부장관 \"허황된 뜬소문\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5ccafd5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "8시간 전",
+    "url": "https://www.hankyung.com/article/202606048222g",
+    "title": "\"이 맛을 왜 이제 알았을까\"…2030, 커피 대신 '이것' 마신다 [박수림의 요즘 여기]",
+    "summary": [
+      "\"이 맛을 왜 이제 알았을까\"…2030, 커피 대신 '이것' 마신다 [박수림의 요즘 여기]."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -656,8 +648,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
