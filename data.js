@@ -1,12 +1,12 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-06 08:01:39
+// 마지막 업데이트: 2026-06-06 09:39:58
 window.NEWS_DB = [
   {
-    "id": "n8396f59b",
+    "id": "n5310b9a3",
     "category": "IT",
     "source": "인더뉴스",
-    "time": "17시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uTGRPU0NiR1I4aE9QMHRUX3J1dmxqTkdpV2JZMzR0MWljRk00azJpVWo2d2tCajFNcWxHZTNrbUIyOGlYZUhhTVNvTW1PQk5HbEZpd2NTTjZ2MnB5TTV0TUtvUHA?oc=5",
+    "time": "19시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZWlJ6cl84YXUxQTkwOURYbmowTUt2cGRpLUZlemllT1BzUUxJWlh5LWtTQ3FaQkQyckV6cEpoMWJ0Q0Fsd2daY2dVRGNoeXU2WUJwUzRKQ1JQU1RxN3Y0?oc=5",
     "title": "젠슨 황 “한국에 4개 사업 가져왔다”…엔비디아發 AI 특수 기대감↑",
     "summary": [
       "젠슨 황 “한국에 4개 사업 가져왔다”…엔비디아發 AI 특수 기대감↑ 인더뉴스."
@@ -30,22 +30,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "nc3609b09",
-    "category": "사회",
-    "source": "브런치",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NDMyV3FJOVJzMUxNRXFOY3NYZ1ZIX0diNXVxNXRQUFRHZ0JyS0otb25zT3R3SGhEOUZaYWxaYlBEanZXWDhZSTYzcDU4TW82NmdZ?oc=5",
-    "title": "중장년 지원금 신청 (재취업,고용,채용,일자리,취업)",
-    "summary": [
-      "중장년 지원금 신청 (재취업,고용,채용,일자리,취업) 브런치."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -79,21 +63,6 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n70cb7884",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
-    "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -144,7 +113,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "7일 전",
+    "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -153,6 +122,22 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n27044a56",
+    "category": "사회",
+    "source": "브런치",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBta2tFd082ZU1RSmtGUGVwclA5VmR5ZVJXb3lXcEZKMDJLYVlRb0RzQm1CYlV0bVBsaXFoX09uWlBxZVVoQTVNdVQwRQ?oc=5",
+    "title": "서울시 강서구 일자리 지원센터 취업 채용정보 구인구직",
+    "summary": [
+      "서울시 강서구 일자리 지원센터 취업 채용정보 구인구직 브런치."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -198,35 +183,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n039a53c8",
+    "id": "n1a25f504",
     "category": "경제",
-    "source": "조선일보",
+    "source": "마켓인",
     "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEcyd3RySjdPelJIanpZNlF1N2xBM3h6VFFaRnloZm9Zai1DQUhQVE9yWHJXNlRkVDd6bnlJbGlLcHhkN0ZZeHRyRFBZRklZWlZwVmVQdTVHR3UtdWtPMk04bUhKeVU5WDdqN2tDZHZDc3R2VndtQUxBcWRMQjgzVlVyNXZGSEdNLS1ma3FR?oc=5",
-    "title": "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은?",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KM1A2UlB1aWxvNHl3RTNpTzItS19rbFlkT2EzMWZYR3BqNTJfcWlZM0tpcHdGTk1OelB6bWxlSW85OXdCWlBTYVdLaVhVdjAtcHVyUHhQZEhmZjYtUWllVG96RmZfcDlWckdVMVBOekFlb0U?oc=5",
+    "title": "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합)",
     "summary": [
-      "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은? 조선일보."
+      "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합) 마켓인."
     ],
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n4654c9cf",
-    "category": "사회",
-    "source": "네이버 프리미엄콘텐츠",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVZYTFU0VmZOZzExd2xHZVJ2UkVFb1d0WVB6SGx0MHRHdmZEMHlOT091cmNZOFFwME9CeTdiZWNHdU1Nc0stZ3VzYUxPcUJqcWNLcEFFX1M0YWRHX0V3Zy1fZTdCZlJfMlpUMXFOaGV0dktDbHhuWXRGVldoQXhYbUxwMmdHWWNjd1loWHRB?oc=5",
-    "title": "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기",
-    "summary": [
-      "서울 관악구 워크넷 구인구직 일자리 알바 구인광고 채용공고 알아보기 네이버 프리미엄콘텐츠."
-    ],
-    "chips": [
-      "#네이버",
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -286,6 +254,37 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nef414906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "108일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
+    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "summary": [
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n1e3b72e2",
+    "category": "사회",
+    "source": "매일경제 마켓",
+    "time": "116일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
+    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
+    "summary": [
+      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -381,258 +380,260 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc2c6000a",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658840",
-    "title": "유재석·젠슨 황 만났다…웃음 가득한 '유퀴즈' 촬영",
-    "summary": [
-      "[서울=뉴시스]전재경 기자 = MC 유재석이 엔비디아 최고경영자(CEO) 젠슨 황을 만났다.",
-      "tvN '유 퀴즈 온 더 블럭' 측은 6일 공식 소셜미디어에 \"젠슨 황 유퀴즈, 실시간 촬영 완료\"라는 글과 함께 사진을 올렸다.",
-      "공개된 사진에는 MC 유재석과 젠슨 황이 마주 앉아 이야기를 나누는 모습이 담겼다."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n5ce9b79c",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/06/2026060616572069782",
-    "title": "[속보]尹, 종합특검 첫 소환조사 6시간반만에 종료…구치소 복귀",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2033efc7",
+    "id": "nb23ac512",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658851",
-    "title": "전소민, 양세찬에 뽀뽀 작전…런닝맨 멤버들 \"미쳤어\"",
-    "summary": [
-      "[서울=뉴시스]전재경 기자 = 배우 전소민이 '런닝맨'에서 예측하기 어려운 행동으로 웃음을 안긴다.",
-      "7일 오후 6시10분 방송되는 SBS TV 예능물 '런닝맨'에서는 투자 레이스 '나혼자 머니업'이 펼쳐진다.",
-      "멤버들은 매 라운드마다 달라지는 계절을 예측해 물건을 사고팔며 수익금을 늘려야 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0c881e25",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658857",
-    "title": "\"재선거\" 외치는 시위대 2만5000명…100m 옆선 K팝 축제 '북적'",
-    "summary": [
-      "[서울=뉴시스]이태성 기자 = 서울 송파구 올림픽공원 개표소 앞에서 재선거를 주장하는 시위가 이틀째 이어지는 가운데 불과 100여m 떨어진 체조경기장에서는 대형 음악축제 분위기가 무르익고 있다.",
-      "현재까지 별다른 안전사고는 발생하지 않았지만, 수만명 규모의 시위대와 공연 관람객이 한 공간에 몰리면서 안전 우려도 커지고 있다.",
-      "6일 뉴시스 취재를 종합하면 이날 오후 4시30분께 기준 개표소가 위치한 올림픽공원 핸드볼경기장 일대에는 2만5000여명의."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1cc35216",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/06/MZQTQMZVMZTGCN3DG42DENRRGY/",
-    "title": "'162km' 괴물투수 10K 호투쇼, 로버츠 감독 이례적 사과 왜? \"우리 기대가 너무 성급했다\"",
-    "summary": [
-      "[OSEN=조은혜 기자] LA 다저스 사사키 로키의 완벽투에 데이브 로버츠 감독이 아낌없는 찬사를 보냈다.다저스는 6일(이하 한국시간) 미국 캘리포니아주 로스앤젤레스의 유니클로필드 앳 다저스타디움에서 열린 2026 메이저리그 LA 에인절스와의 홈경기에서 프레디 프리먼의 끝내기 홈런을 앞세워 1-0 승리를 거뒀다.",
-      "이날 선발투수로 등판한 사사키는 7이닝 2피."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb7fdec8e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606041200004",
-    "title": "[속보] 종합특검, 윤석열 첫 피의자 조사 6시간 반만에 종료",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35b7cb98",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260606/134061218/1",
-    "title": "강릉 소돌해변 앞 해상서 2명 탄 카약 전복…1명 의식 없어",
-    "summary": [
-      "강원 강릉 바다에서 카약이 전복돼 2명이 출동한 해경에 의해 구조됐다.6일 강릉해양경찰서에 따르면 이날 오후 2시 9분쯤 강릉 소돌해변 앞 해상에서 카약이 전복돼 2명이 물에 빠졌다는 신고가 접수됐다슈트를 착용한 A 씨(30대)는 자력으로 물 밖으로 빠져나왔다.",
-      "또 구명조끼를 착용하지 않은 B 씨(40대)는 현장에 먼저 도착한 강릉해경 주문진파출소 연안구조정에서 경찰관이 즉시 입수 후 동력구조보트를 이용해 구조했다.구조된 익수자 가운데 B 씨는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ac5065e",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/06/2026060616330932673",
-    "title": "투표지 부족 사태…애꿎은 아이유 SNS 테러, 이동욱·유리도 피해",
-    "summary": [
-      "6·3 지방선거 투표용지 부족 사태 규탄 시위대가 가수 겸 배우 아이유 등 일부 연예인의 SNS(소셜미디어) 계정에 부정적 글을 남기고 있어 논란이다.",
-      "6일 아이유 인스타그램 게시물에는 \"왜 잠실 스타벅스 선결제는 안 하느냐\", \"민주주의를 위해 선거관리위원회 상대로 시위 중인데 선결제 안 해 주면 모순이다\" 등 비난 댓글이 달리고 있다.",
-      "앞서 아이유는 2024년 12월 윤석열 전 대통령 탄핵 시위 당시 집회에 참여한 시민들을 위해 인근 가게의."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nae4de178",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260606/134061215/1",
-    "title": "한동훈 “투표용지 부족 분노, 선관위 부실 선거 끝장내야”",
-    "summary": [
-      "한동훈 무소속 국회의원은 6일 최근 발생한 투표용지 부족 사태와 관련해 “이번 기회에 선거관리위원회 주도의 부실 선거를 끝장내야 한다”며 “선관위원 탄핵 추진과 국정조사, 특검을 통한 법적 책임도 검토해야 한다“고 주장했다.한 의원은 이날 현충일을 맞아 부산 남구 유엔기념공원을 찾아 참배한 뒤 기자들과 만나 ”당장 선관위를 없애는 것은 헌법 개정이 필요하기 때문에 어렵다고 하더라도 선관위의 권한과 의무를 최대한 명확하게 법에 규정해야 한다“고."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6bb9e77b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606041000053",
-    "title": "영덕서 물놀이하던 30대 남성 갯바위 고립…해경 구조",
-    "summary": [
-      "(영덕=연합뉴스) 손대성 기자 = 물놀이 중 갯바위에 고립된 30대 남성이 해경에 구조됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc16ca167",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/living/2026/06/06/2026060616341533122",
-    "title": "국제 식량 물가, 4개월 만에 소폭이지만 하락…곡물·육류·설탕은 상승",
-    "summary": [
-      "세계 식량 가격이 지난달 4개월 만에 하락한 것으로 집계됐다.",
-      "곡물과 육류, 설탕 가격은 상승했지만, 유지류와 유제품 등 가격이 하락한 영향이다.",
-      "국내 농축산물 물가도 전체 소비자 물가 상승률보다는 낮은 수준에서 형성됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n728f0098",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260606_0003658859",
-    "title": "이민근 \"자유·평화 가치 바탕, 성장하는 안산 만들 것\"",
-    "summary": [
-      "[안산=뉴시스] 문영호 기자 = 경기 안산시는 6일 제71회 현충일을 맞아 원곡공원 현충탑에서 추모식을 거행했다.",
-      "이날 추모식은 오전 10시 정각 추모 사이렌에 맞춘 묵념으로 시작, 헌화와 분향, 추념사, 헌시 낭송, 추모 공연과 현충일 노래 제창 순으로 진행됐다.",
-      "추모식 행사가 끝난 이후에는 시민들이 자유롭게 헌화·분향하며 순국선열과 호국영령의 숭고한 희생정신을 기렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n430713dd",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "13분 전",
-    "url": "https://www.hankyung.com/article/2026060609217",
-    "title": "김용범 \"코스피 8000·환율 1550원 시대…가보지 않은 과제\"",
-    "summary": [
-      "김용범 \"코스피 8000·환율 1550원 시대…가보지 않은 과제\"."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n93fb3eed",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/06/MNQTGODBGJSWINBRMI2WKYLBGI/",
-    "title": "빛바랜 11K, '생명 연장' 삼성 오러클린의 벼랑끝 역투…\"잘하고 있으니까\" 사령탑 기대에 부응 실패 [광주리포트]",
-    "summary": [
-      "[광주=스포츠조선 김영록 기자] 단기 대체 외국인 선수로 한국 땅을 밟았지만, 3개월째 생명 연장을 이어가고 있다.",
-      "삼성 라이온즈 잭 오러클린이 역투에도 아쉬운 패배를 안았다.",
-      "오러클린은 5일 광주 KIA 타이거즈전에 선발등판, 5이닝 4실점을 기록하며 시즌 3패(4승)째를 안았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n47440fc6",
-    "category": "IT",
     "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026060616432623002",
-    "title": "\"자본 유출 막자\"…중국, 해외투자 '빗장' 초강수",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026060515592760807",
+    "title": "[단독]회생·파산 전 신복위 채무조정 먼저 거친다…'채무조정 전치주의' 입법 추진",
     "summary": [
-      "중국이 인공지능(AI)·첨단기술·데이터 등의 해외 유출 차단을 위해 대외투자 규제 강화에 나섰다.",
-      "최근 중국 관영 신화통신에 따르면 중국 국무원은 이러한 내용을 담은 '대외투자에 관한 규정'을 공포하고 다음 달 1일부터 시행한다고 밝혔다.",
-      "34개 조항으로 구성된 새 규정은 기업이나 개인이 해외 투자 과정에서 국가가 제한한 상품·기술·서비스·데이터 등을 당국 허가 없이 해외로 이전하는 행위를 금지하고 있다."
+      "개인이 법원의 회생·파산 절차를 밟기 전 신용회복위원회 채무조정을 우선 거치도록 하는 내용의 입법이 추진된다.",
+      "신복위에 금융감독원 분쟁조정위원회와 유사한 합의제 기구를 신설하고 채무조정 대상을 개인 채무에서 법인 채무까지 확대하는 방안도 검토된다.",
+      "6일 금융권 및 정치권에 따르면 신복위와 서민금융진흥원은 국회와 협의해 이 같은 내용을 담은 금융기본권 지원법 제정을 추진 중이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9c94adbb",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260606/134061329/1",
+    "title": "황민현, 순정만화 찢고 나온 비주얼… 훈훈한 소년미 발산",
+    "summary": [
+      "가수 겸 배우 황민현이 훈훈한 비주얼로 팬들의 시선을 사로잡았다.황민현은 6일 자신의 사회관계망서비스(SNS) 계정에 여러 장의 사진을 올렸다.",
+      "사진 속 황민현은 화이트 니트와 데님 팬츠를 매치한 편안한 스타일링을 선보였다.특히 황민현은 노란 손 모양 소품을 들고 자연스러운 포즈를 취하며 특유의 청량한 분위기를 자아냈다.",
+      "작은 얼굴과 뚜렷한 이목구비, 훤칠한 비율이 돋보이며 마치 화보의 한 장면 같은 감탄을 자아냈다.한편 황민현은 2012년 그."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ec1e245",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606045000108",
+    "title": "막힌 미·이란 종전 협상…\"파키스탄 내무장관 이란행\"",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 미국과 이란 간 종전 협상을 중재하는 파키스탄의 모신 라자 나크비 내무장관이 6일(현지시간) 이란 수도 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb5388283",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/HA3TAZJXGE4GIYRWMEZDOMDDGI/",
+    "title": "'尹 내란 옹호' 김우리, 6.3 지방선거 재투표 시위 동참 \"좌우 싸움 아냐\" [Oh!쎈 이슈]",
+    "summary": [
+      "[OSEN=연휘선 기자] 스타일리스트 김우리가 6.3 지방선거의 투표용지 부족 사태를 두고 부정선거를 주장하며 시위에 동참해 이목을 끌었다.",
+      "김우리는 6일 새벽 1시께 개인 SNS를 통해 이날 서울시 송파구 방이동에 위치한 올림픽공원 핸드볼경기장 인근에서 진행된 6.3 지방선거에 대한 부정선거 및 재투표 촉구 시위에 참여했음을 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n540ef6eb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658884",
+    "title": "김정관 \"체코 원전 FSR 종결, 韓 원전 경쟁력 입증한 성과\"",
+    "summary": [
+      "[세종=뉴시스]박광온 기자 = 한국수력원자력이 체코 신규 원자력 발전소 건설 계약 관련 유럽연합(EU)의 역외보조금 규정(FSR) 예비검토를 통과한 것을 두고, 김정관 산업통상부 장관이 \"대한민국 원전 산업의 경쟁력이 기술력과 안전성, 사업관리 역량에 기반하고 있음을 보여주는 의미 있는 성과\"라고 자평했다.",
+      "김정관 장관은 6일 자신의 소셜미디어(SNS) 페이스북에 '체코 두코바니 원전 사업 FSR 조사가 종결됐다'는 제목의 글을 올려 이같이 밝."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n09096b3d",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658883",
+    "title": "오전부터 남부·제주 비…밤에는 중부로 확대[내일날씨]",
+    "summary": [
+      "[서울=뉴시스]이태성 기자 = 일요일인 7일은 전라동부와 경상권, 제주도에 비가 내리겠다.",
+      "중부지방은 밤부터 비가 내리기 시작해 8일 새벽까지 이어지겠다.",
+      "기상청은 \"7일 오전부터 경상권과 제주도, 오후부터 충청권남부내륙과 전라동부에 비가 내리다가 제주도는 오후에, 그 밖의 지역은 밤에 그치겠다\"며 \"7일 밤부터 8일 새벽 사이 중부지방에 비가 내리는 곳이 있겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4fab55bd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260606/134061324/1",
+    "title": "부안서 후진하던 덤프트럭에 깔린 80대 오토바이 운전자 숨져",
+    "summary": [
+      "6일 오전 9시 33분께 전북 부안군 부안읍 연곡마을 인근 농로에서 후진 중이던 덤프트럭이 오토바이를 들이받았다.이 사고로 오토바이 운전자 A 씨(80대)가 덤프트럭에 깔려 숨졌다.경찰은 주변 농로 옆 물길에서 진흙을 퍼내는 작업을 하던 덤프트럭 운전자 B 씨(50대)가 후진을 하다가 뒤에 있던 A 씨를 미처 발견하지 못하고 사고를 낸 것으로 보고 교통사고특례법상 치사 혐의로 입건해 정확한 사고 경위를 조사할 예정이다.(부안=뉴스1)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n89d45e9d",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260606/134061319/1",
+    "title": "8타 줄인 서교림, KLPGA 셀트리온 퀸즈 마스터즈 2R 공동 선두",
+    "summary": [
+      "서교림이 한국여자프로골프(KLPGA) 투어 셀트리온 퀸즈 마스터즈 둘째 날 선두 그룹으로 도약했다.서교림은 6일 강원 원주의 성문안CC(파72)에서 열린 대회 2라운드에서 보기 없이 버디만 8개를 낚고 8언더파 64타를 쳤다.중간 합계 11언더파 133타를 기록한 서교림은 전날보다 순위를 18계단 끌어올리며 김민선, 김수지와 함께 공동 선두 그룹을 형성했다.지난 4월 더 시에나 오픈에서 준우승, 지난달 E1 채리티 오픈에선 공동 3위에 오르며."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9cd03563",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606014652004",
+    "title": "잠실개표소 밖 이틀째 대치…선관위 직원들은 빠져나간 듯",
+    "summary": [
+      "(서울=연합뉴스) 김채린 정지수 기자 = 투표지 부족 사태를 규탄하며 재선거를 요구하는 '잠실 개표소 봉쇄 시위'가 이틀째 계속되고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9adc487f",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026060618223076299",
+    "title": "홍명보호 결전지 과달라하라 입성…체코도 美포트워스에 베이스캠프",
+    "summary": [
+      "2026 북중미 월드컵 조별리그 첫 경기에서 맞붙는 한국과 체코가 같은 날 나란히 베이스캠프에 입성하며 본격적인 결전 준비에 돌입했다.",
+      "홍명보 감독이 이끄는 한국 축구대표팀이 5일(현지시간) 오후 4시께 결전지인 멕시코 과달라하라의 더 웨스틴 과달라하라 호텔에 도착했다.",
+      "같은 날 미로슬라프 코우베크 감독이 이끄는 체코 대표팀도 미국 텍사스주 포트워스의 쉐라톤 호텔에 여장을 풀었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc6949c95",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/06/MY3TMMLCMU3TMM3EHE2WIYRVMQ/",
+    "title": "최고 159km 찍었지만…79개 던진 안우진, 1실점-1실점-4실점 와르르 조기 강판 [오!쎈 잠실]",
+    "summary": [
+      "[OSEN=잠실, 홍지수 기자] 프로야구 키움 히어로즈 ‘에이스’ 안우진이 복귀전에서 고전했다.안우진은 6일 잠실야구장에서 열린 두산 베어스와 2026 신한 SOL KBO리그 원정 경기에서 선발 등판해 3이닝 동안 9피안타 3탈삼진 1볼넷 6실점으로 무너졌다.",
+      "팀은 최하위 탈출이 급한 상황에서 연승은 커녕 4연패 위기다.",
+      "돌아온 안우진이 조기 강판됐다.안우."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd8c99e68",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260606/134061310/2",
+    "title": "콩가루 산 뒤 냉면 ‘맛점’…李대통령 부부, 강동 전통시장 깜짝 방문",
+    "summary": [
+      "이재명 대통령이 6일 서울 강동구 길동복조리시장을 예고 없이 ‘깜짝’ 방문해 민생 현장의 목소리를 청취했다.청와대 안귀령 부대변인에 따르면 이 대통령과 김혜경 여사는 이날 강동구 중앙보훈병원 위문을 마치고 인근의 길동복조리시장을 찾았다.이 대통령 부부가 시장 입구에 들어서자 주민들과 상인들은 “반갑습니다” “일 잘해주셔서 감사합니다” “건강 잘 챙기십시오” “최고예요”라며 반갑게 맞이했다고 안 부대변인은 전했다.이 대통령은 상인들에게 “오늘 장."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n610873c1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606044000001",
+    "title": "'黨복귀 임박' 金총리, 광주서 지선 평가 언급하며 \"혁신해야\"",
+    "summary": [
+      "(서울=연합뉴스) 설승은 기자 = 더불어민주당의 8월 전당대회를 앞두고 조만간 여의도로 복귀할 것으로 보이는 김민석 국무총리가 6·3 지방선거 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n595156a7",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658841",
+    "title": "젠슨 황 \"서울에 AI 기술센터 세운다\"…8일 현대차·LG '로보틱스 주도' 韓기업 릴레이 회동",
+    "summary": [
+      "[서울=뉴시스]박나리 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 서울에 인공지능(AI) 기술센터를 세우겠다는 구상을 밝힌 가운데, 국내 주요 기업들과 연쇄 회동에 나서며 AI 인프라 협력 확대에 속도를 낸다.",
+      "6일 업계에 따르면 황 CEO는 5일 저녁 서울 마포구 홍대입구 인근 식당에서 최태원 SK그룹 회장, 구광모 LG그룹 회장, 이해진 네이버 의장과 이른바 '삼쏘' 회동을 하며 \"한국에 AI 연구센터를 구축할 예정\"이라고 밝혔다."
     ],
     "chips": [
       "#AI",
-      "#정책"
+      "#엔비디아",
+      "#네이버"
     ]
   },
   {
-    "id": "n71b8d152",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260606/134061206/1",
-    "title": "“잠실 스벅 선결제해줘” 투표용지 사태에 아이유 SNS 불똥",
-    "summary": [
-      "가수 겸 배우 아이유가 또다시 정치 갈등의 표적이 됐다.",
-      "6·3 지방선거 투표용지 부족 사태와 관련해 재선거를 주장하는 시위대에게 빵과 커피 등을 선결제해달라는 무분별한 요구가 이어지면서다.6일 온라인 커뮤니티에는 아이유의 인스타그램 댓글창을 캡처한 게시물이 빠르게 확산됐다.",
-      "해당 게시물에는 “잠실에 스타벅스 선결제 해주세요”, “부정선거 때문에 잠실에 사람들 모였어요."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n572b6c1e",
-    "category": "사회",
+    "id": "n707a2291",
+    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260606040800004",
-    "title": "\"값진 희생과 헌신 잊지 않겠습니다\"…서울도서관 글판 새단장",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260606045200007",
+    "title": "김준형, KPGA 선수권대회 3R 단독 1위…공동 2위에 1타차",
     "summary": [
-      "(서울=연합뉴스) 김동규 기자 = 서울시는 호국보훈의 달을 맞아 서울도서관 외벽 대형 글판인 서울꿈새김판의 문구를 '값진 희생과 헌신, 잊지 않..."
+      "(서울=연합뉴스) 이영호 기자 = 김준형이 한국프로골프(KPGA) 투어 KPGA 선수권대회 3라운드에서 '깜짝 선두'로 나서며 생애 첫 우승의 ..."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n2cba9408",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026060609617",
+    "title": "서동주 \"김규리 자택 침입범, 검침원 사칭해 우리 집 들어와\"",
+    "summary": [
+      "서동주 \"김규리 자택 침입범, 검침원 사칭해 우리 집 들어와\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd148114e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658881",
+    "title": "권순기 경남교육감 당선인, 인수위 준비…\"미래 교육 초점\"",
+    "summary": [
+      "[창원=뉴시스] 김기진 기자 = 6·3 지방선거에서 상대 후보와 0.42%p 차이로 당선증을 거머 쥔 권순기 경남교육감 당선인이 인수위원회 가동 준비에 착수했다.",
+      "6일 경남교육청에 따르면 당선인은 '경남도교육감직인수위원회 조직 및 운영 등에 관한 조례'와 '지방교육자치에 관한 법률·시행령'에 근거해 인수위를 꾸릴 것으로 전망하고 있다.",
+      "보수 진영 단일화 후보로 나서 12년만의 보수 교육감 체제를 시작하게 될 권 당선인은 당선 직후 언론과의 인터."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
     ]
   }
 ];
@@ -642,8 +643,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
@@ -653,9 +654,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
