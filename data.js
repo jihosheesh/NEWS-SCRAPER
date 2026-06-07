@@ -1,11 +1,39 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-07 22:21:31
+// 마지막 업데이트: 2026-06-07 23:21:54
 window.NEWS_DB = [
+  {
+    "id": "n7627a76d",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51SFJ5N2pfRDk1bXFRUWRGbGNUM1FQWFlQOExrNlN2Mjd4NnUybjdoWVJIMVpCNE5wRlVkTzVsOVJJb3dpNmw4dXB6ODU0dk45QjdBWHJ2VmJleF9LYXg1TDVsSzNtQWVK?oc=5",
+    "title": "밝은 표정의 주장 손흥민",
+    "summary": [
+      "밝은 표정의 주장 손흥민 네이트."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n53da26a3",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBybWZiU21BQnVMbzkzLVRUdHl1R091T2dhdjF5SmVxYURxb3djbXpNaDRaWUNIX3I0THpkMzR0Ym10UzVCTkE3a1hMb3JSbU5RWmc1M1JmSlNZVHVmWGdNcFhXYnFxSEtn?oc=5",
+    "title": "스피드 뽐내는 손흥민 : 네이트 스포츠",
+    "summary": [
+      "스피드 뽐내는 손흥민 : 네이트 스포츠 네이트."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
   {
     "id": "n30228f3b",
     "category": "IT",
     "source": "CBC뉴스",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QS1FUX0VINkdxaWRockRNbTFTMlVRQ3M4V01BY0djZUhpclJrbllCWlJfLTh2cTFFa2RIQUgxQlBfNE1GakhkQmRydDBSaUlFa094dzlDcm9aR0JlTTN6clJ5XzZ6enBC?oc=5",
     "title": "젠슨 황, 두산 키움전 시구...두산로보틱스 등 눈길",
     "summary": [
@@ -19,7 +47,7 @@ window.NEWS_DB = [
     "id": "n255622f3",
     "category": "IT",
     "source": "thefairnews.co.kr",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tUmlXNWNIVnVuZkNzcm9WVXJYdmt6VmJOYk5HTTBCck54eVBhYzdaUmlPRnR2dm4xVVVYQlFtbk1MYUtLNW1hNFRrM2wtOVFmRG9iWFp3MW1fd25pWm1VNHdmNWg2ay1nT1RESXMyWnPSAXRBVV95cUxQT3h4Ul9tbi0zbHFUVFRvSGZwaHZlN2dLNEgxcF9idDBRQVBQcE5oRXJXanNhTTNzd2NiZWZGSlFnaUFmNlIwYURJVkJlV3lnTVFJWHdENkhTSlZZLVhVLXFFVG83T2pQaFJFQnBaUC03eGdkSw?oc=5",
     "title": "[하반기 증시 전망] ‘8500선 돌파’ 열쇠 쥔 K-반도체…HBM·파운드리 실적 가이드라인에 쏠린 눈",
     "summary": [
@@ -30,10 +58,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbda98a4b",
+    "category": "IT",
+    "source": "ebn.co.kr",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBINWtaTUd1Z1BzVjRBMjRVVVVmNHBDRnJaUnRiLTZEUkpGbkN1T1BRM2R4akJLcUwzUTJWb0NIVjVadWwxeDFFVWFfY21aRUgxb1ZmVHE3bFBtdEJOWmZvNklMYVdidGdY?oc=5",
+    "title": "엔비디아·SK, AI 반도체 동맹 확대하나...협력 청사진 주목",
+    "summary": [
+      "엔비디아·SK, AI 반도체 동맹 확대하나...협력 청사진 주목 ebn.co.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "nbf9f67e8",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWC1KTmtlcXhGQ3FhSWFlYkRBSkYzZFhEdU83WXZoNTFfdkh0ZGc5MHJKWkhQTG1UNEUtZVpPWHI4TEVXZXFYRm4wNVdOR2RaZ0lSU2dROHZYZ9IBXkFVX3lxTFAzLTdHdmQ1dktMcm1vakF3d2dZQ0hobUhwSWgtMDhaR2NQaDBGT0Foc3M4Q0NZVlg2ODhxRlhzSEs5WHA4eXRiSVpFa2lVeGE1SnN5U01ia05xS3FNSWc?oc=5",
     "title": "젠슨 황 '4가지 선물'… \"AI생태계 핵심축으로 한국 재입증\"[엔비디아 젠슨 황 방한]",
     "summary": [
@@ -57,22 +101,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "nfa1c41a0",
-    "category": "IT",
-    "source": "초이스스탁",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
-    "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
-    "summary": [
-      "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고 초이스스탁."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -257,34 +285,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "67일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n01f4c085",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "76일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
-    "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nb4e9ce67",
     "category": "IT",
     "source": "연합뉴스",
@@ -300,334 +300,344 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n46f59f4d",
+    "id": "n8b4e7b2d",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "156일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
+    "source": "매일경제",
+    "time": "340일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kRm9oQmZ4RV9RSVFBLWRUWGxDa1BaZUEtbng1Y0QzQ0hjYTFTdUJzSnlsUTJMbWVkTGx3SnAzQUQ2b1JkVlQyVDczZnpZMTh4MkNz?oc=5",
+    "title": "인기는 치솟는데 … 배구보다 연봉 적은 야구",
     "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
+      "인기는 치솟는데 … 배구보다 연봉 적은 야구 매일경제."
     ],
     "chips": [
-      "#손흥민",
       "#KBO"
     ]
   },
   {
-    "id": "ne5883c30",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/06/08/GIYTINJWGRSGENTDGE4DSMZVGM/",
-    "title": "2년 5000만 달러. LA레이커스와 르브론 윈-윈 계약. LA 타임스가 제시한 뉴딜.",
-    "summary": [
-      "[스포츠조선 류동혁 기자] 르브론 제임스에게 새로운 계약이 조건이 제시됐다.",
-      "소속팀 LA 레이커스와의 계약 조건이다.",
-      "결론부터 말하면 2년 5000만 달러다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n805ad795",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026060807181699395",
-    "title": "경기도미래세대재단, 가족과 함께하는 독도캠프 연다",
-    "summary": [
-      "경기도미래세대재단이 독도에 대한 올바른 이해를 높이고 가족 간 소통과 유대감을 강화하기 위해 '가족과 함께하는 독도캠프' 1~4차 참가자를 모집한다.",
-      "경기도청소년수련원에서 1박2일 일정으로 운영되는 이번 캠프는 1차 6월26~27일, 2차 7월17~18일, 3차 8월 14~15일, 4차 9월 11~12일에 열린다.",
-      "차수별로 50가족씩 총 200가족, 약 700명이 참여한다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "nc7a5c23f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003659519",
-    "title": "'군체' 3주 연속 주말 1위…다 왔다 500만명",
-    "summary": [
-      "[서울=뉴시스] 손정빈 기자 = 영화 '군체'가 3주 연속 주말 박스오피스 정상을 달렸다.",
-      "다만 흥행세는 다소 주춤해 500만 관객 고지를 밟진 못했다.",
-      "배우 강동원이 주연한 코미디 '와일드 씽'은 개봉 첫 주말 '군체'를 넘지 못하고 2위에 만족해야 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n425e1f64",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003659505",
-    "title": "\"20년 전 6만원 선이었는데\"…신봉선, 안 팔고 모은 금값 '폭등'",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 코미디언 신봉선이 과거 방송 활동과 시상식 부상으로 받은 금을 처분하지 않고 보관해 온 근황을 공개했다.",
-      "신봉선은 지난 5일 자신의 유튜브 채널 'ㄴ신봉선ㄱ'에 올린 영상에서 SBS 파워FM 감사패를 보던 중 \"신인 시절 퀴즈쇼 등에 나가면 황금열쇠를 줬는데, 아직 하나도 안 팔고 가지고 있다\"고 밝혔다.",
-      "이어 집에서 보관 중인 순금 자산을 직접 인증했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3fbe3693",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003659517",
-    "title": "부산시, 사회공헌장 수상 후보자 공모",
-    "summary": [
-      "[부산=뉴시스]백재현 기자 = 부산시가 오는 7월24일까지 제18회 부산광역시 사회공헌장 후보자를 공모한다고 8일 밝혔다.",
-      "'부산광역시 사회공헌장'은 지역 내 기부문화 활성화와 자원봉사 참여를 촉진하기 위해 매년 시상한다.",
-      "추천 대상은 올해 5월31일 기준 부산지역 사회공헌과 기부문화 발전에 이바지한 개인, 기관 또는 단체다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na53ad135",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026060807150989649",
-    "title": "경기도, 여론조사 패널 모집 이벤트 '풍성'",
-    "summary": [
-      "경기도가 온라인 여론조사 신규 패널 모집 이벤트를 진행한다.",
-      "경기도는 먼저 '신규 패널 모집 이벤트'를 오는 7월5일까지 진행한다.",
-      "기간 내 신규 가입한 패널 중 추첨을 통해 2000명에게 아이스크림 모바일 쿠폰을 제공한다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "ne384def7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003659513",
-    "title": "\"결정 번복만 수차례\"…'갈대 같은 시어머니'에 며느리 한숨",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 도무지 마음을 종잡을 수 없는 시어머니 때문에 고민이라는 한 며느리의 사연이 소개됐다.",
-      "지난 5일 방송된 JTBC '사건반장'에서는 결혼 5년 차 30대 여성 A씨의 사연이 공개됐다.",
-      "A씨는 대학 시절 캠퍼스 커플로 만난 남편과 결혼해 현재 네 살 된 쌍둥이 딸을 키우고 있다고 밝혔다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n24197e9d",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026060514403448220",
-    "title": "[단독]자사주 활용해 공매도 유도…정부 비웃는 '주가누르기' 의혹[부의승계]인탑스②",
-    "summary": [
-      "코스닥 상장사 인탑스가 교환사채(EB)에 주가 상승을 막는 콜옵션(매수청구권)을 붙여 사실상 공매도를 유도한 것으로 나타났다.",
-      "지난해 이재명 정부에서 국내증시 밸류업 방안으로 자사주 소각을 주문했는데, 오히려 자사주로 '주가누르기'를 하고 그 사이 오너 2세가 지분을 매입한 정황이 포착된 것이다.",
-      "8일 금융감독원 전자공시시스템에 따르면 인탑스는 지난해 10월 130억원 규모의 제1회차 교환사채(EB)를 발행했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbbbeebd7",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026060516361925747",
-    "title": "\"연봉을 그렇게 줬는데, 여섯달만에 또 나가?\" 정책자금 확대가 낳은 진풍경",
-    "summary": [
-      "정책자금 확대와 벤처투자 시장 회복 기대가 맞물리면서 벤처캐피털(VC) 인력 채용 시장이 들썩이고 있다.",
-      "신규 펀드 결성 기대는 커졌지만, 실제 투자 집행과 포트폴리오 관리를 맡을 즉시전력 인력(바로 일할 수 있는 사람)은 부족해지면서 투자 경험을 갖춘 경력 심사역의 몸값도 오르는 분위기다.\"정책자금 풀린다\" 기대에 채용시장 꿈틀8일 VC 업계에 따르면 지난해 말부터 정책자금 확대와 민간 투자 회복 기대가 커지면서 심."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책",
-      "#채용"
-    ]
-  },
-  {
-    "id": "n93e9218f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608011000009",
-    "title": "IATA \"항공업계 올해 순익 전망 반토막\"…중동전쟁·유가 직격",
-    "summary": [
-      "(서울=연합뉴스) 정주호 기자 = 글로벌 항공업계가 중동전쟁 여파에 따른 항공유 가격 폭등으로 올해 수익 전망을 절반 가까이 낮췄다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neaeadbf8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607015800371",
-    "title": "코이카 수뇌부 인선 동반 표류…'전략적 ODA' 차질 우려",
-    "summary": [
-      "(서울=연합뉴스) 성도현 기자 = 대한민국 공적개발원조(ODA) 핵심 시행기관인 한국국제협력단(KOICA·코이카) 수뇌부 인선이 상임이사에 이어..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na96abbce",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607039200004",
-    "title": "광주시립제2요양병원 폐업에 따른 해고…법원 \"부당해고 아냐\"",
-    "summary": [
-      "(서울=연합뉴스) 김빛나 기자 = 경영난으로 2023년 문닫은 광주시립제2요양병원 직원들에 대한 해고는 부당 해고에 해당하지 않는다는 법원 판단..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n05fc22db",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607048700001",
-    "title": "[오늘의 국회일정](8일·월)",
-    "summary": [
-      "[오늘의 국회일정](8일·월)."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf4ee682a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260605/134056667/2",
-    "title": "인벡터, DSD 자동화 기능 강화… 정기보고서 검토·수정까지",
-    "summary": [
-      "인벡터가 8일 정기보고서 검토 과정의 반복 업무를 줄이는 신규 기능을 선보였다.",
-      "문서 변환부터 검증, 수정까지 하나의 화면에서 처리할 수 있도록 기능을 고도화하면서 공시 업무 효율성 개선한 것이 특징이다.상장사는 분기·반기·사업연도마다 정기보고서를 제출해야 한다.",
-      "특히 재무제표 공시는 작성과 감사보고서 검토, DSD 변환, 제출 전 검증 등 복잡한 절차를 거친다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4dba6b4d",
+    "id": "na7624b3a",
     "category": "IT",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260608/134067099/2",
-    "title": "젠슨 황 “화사 무척 매력적…그녀의 음악 대단히 사랑해”",
+    "source": "조선비즈IT",
+    "time": "방금 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/08/QGGOGOHUIBB3ZCE3Y3YU3KTHWE/",
+    "title": "네이버, 엔비디아와 GW급 글로벌 AI 팩토리 구축... “사업 리스크·성과 공동 분담”",
     "summary": [
-      "방한한 젠슨 황 엔비디아 최고경영자(CEO)가 가수 화사의 음악을 좋아한다고 밝혔다.tvN 예능 프로그램 ‘유 퀴즈 온 더 블록’ 인스타그램에는 7일 “젠슨 황 샤라웃 투 화사! 박정민, 김남길 다음은 젠슨 황?”이라는 내용과 함께 예고 영상 한 편이 올라왔다.",
-      "공개된 영상에서 MC 유재석이 “평소에도 작업할 때 K팝을 많이 듣는다고 들었다.",
-      "진짜인가”라고 묻자 황 CEO는 “(케이팝 데몬 헌터스의) ‘골든’을 좋아하지 않는 사람이 어디 있겠느."
+      "네이버, 엔비디아와 GW급 글로벌 AI 팩토리 구축... “사업 리스크·성과 공동 분담”."
     ],
     "chips": [
+      "#AI",
+      "#엔비디아",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n87abd7d1",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/stock/2026/06/08/2026060808115636918",
+    "title": "오르비텍, 중수로 사용후핵연료 건식 운반·저장 용역 유자격공급자 등록",
+    "summary": [
+      "원자력 및 방사선 관련 솔루션 전문기업 오르비텍은 최근 중수로 사용후핵연료 건식 운반, 저장 용역 분야의 유자격공급자 등록을 완료했다고 8일 밝혔다.",
+      "이번 등록으로 오르비텍은 앞서 확보한 경수로 사용후핵연료 소내운반 용역 유자격공급자 자격에 이어 중수로 분야까지 사업 수행 자격을 확보했다.",
+      "이에 따라 국내 원전에서 발생하는 사용후핵연료의 운반 및 관련 안전성 검증 분야 전반으로 사업 영역을 확대할 수 있는 기반을 마련했다는 것이 회사의 설명이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0fc88eb0",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/industry/2026/06/08/2026060808130551006",
+    "title": "SK하이닉스, 엔비디아와 'AI 팩토리 메모리' 개발…신시장도 진출",
+    "summary": [
+      "(상보) SK그룹은 SK하이닉스가 엔비디아와 글로벌 AI 팩토리 구축을 위한 차세대 메모리를 공동 개발한다고 8일 밝혔다.",
+      "반도체 설계 및 제조를 가속화하는 장기 기술 파트너십 역시 강화한다.",
+      "젠슨 황(Jensen Huang) 엔비디아 창업자 겸 CEO는 \"AI 팩토리는 차세대 산업혁명의 엔진이고 첨단 메모리는 그 성능의 핵심\"이라며 \"SK하이닉스는 엔비디아의 AI 컴퓨팅 플랫폼을 위한 첨단 메모리 기술 제공에 있어 핵심적인 역할을 해온 뛰어난."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n806e7b52",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/08/GA3DINZRMFSTKMLEG43TGZBWMU/",
+    "title": "'디즈니 커플' 김환희♥최민우 결혼식 공개...초호화 하객 리스트 ('조선의 사랑꾼')",
+    "summary": [
+      "[OSEN=최이정 기자] 대한민국 뮤지컬계를 이끄는 스타들이 총출동했다.",
+      "그야말로 한 편의 대형 뮤지컬을 방불케 하는 ‘현실판 디즈니 커플’ 김환희, 최민우의 초호화 결혼식 현장이 전격 공개된다.8일 오후 10시 방송되는 TV CHOSUN 극사실주의 다큐 예능 ‘조선의 사랑꾼’에서는 지난 5월 백년가약을 맺은 ‘뮤지컬 배우 부부’ 김환희♥최민우의 낭만 가득."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n05d5d7f6",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003659590",
+    "title": "삼양컴텍, 국내 장갑차·수출형 K2 전차 장갑 양산 발주 확보",
+    "summary": [
+      "[서울=뉴시스] 김경택 기자 = 삼양컴텍은 국내 장갑차 부가장갑 양산 물량과 수출용 K2 전차 특수장갑 양산 발주를 확보하며 양산 물량 확보에 속도를 내고 있다고 8일 밝혔다.",
+      "회사 측에 따르면 삼양컴텍은 최근 현대로템으로부터 22억원 규모의 차륜형지휘소용 장갑차 부가장갑 발주를 확보했다.",
+      "이와 함께 한화에어로스페이스로부터 33억원 규모의 30㎜ 차륜형대공포 장갑차 부가장갑 발주를 확보했다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n4adbfab4",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/industry/2026/06/08/2026060808103082600",
+    "title": "SK하닉-엔비디아, 차세대 메모리 공동 개발 …장기 기술동맹 맺었다",
+    "summary": [
+      "차세대 AI 메모리 공동개발을 위한 장기 기술 파트너십 발표 SK하이닉스와 엔비디아가 차세대 AI(인공지능) 메모리 공동 개발과 반도체 설계·제조 혁신을 위한 장기 기술 동맹을 강화한다.",
+      "AI 팩토리 구축에 필요한 핵심 메모리를 함께 개발하고, AI를 활용한 반도체 개발·제조까지 협력 범위를 넓힌다.",
+      "SK하이닉스가 엔비디아와 글로벌 AI 팩토리 구축을 위한 차세대 메모리를 공동 개발하고, 반도체 설계와 제조를 가속하는 장기 기술 파트너십을 강화."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n091c1554",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003659580",
+    "title": "네이버-엔비디아, 韓 AI 인프라 동맹 확대…'기가와트급 AI 팩토리' 추진",
+    "summary": [
+      "[서울=뉴시스]윤정민 박나리 기자 = 네이버가 엔비디아와 손잡고 기가와트급 인공지능(AI) 인프라 구축에 나선다.",
+      "AI 데이터센터뿐만 아니라 학습·추론 인프라, 소버린 AI 모델, 피지컬 AI까지 아우르는 'AI 팩토리' 협력을 확대할 계획이다.",
+      "라즈 미르푸리 엔비디아 글로벌 AI 클라우드·인프라 에코시스템 부문 부사장은 8일 미디어 브리핑을 통해 \"엔비디아와 네이버는 엔비디아 DSX 플랫폼 기반으로 소버린 AI 인프라를 기가와트 규모로 확장한."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n60a83f26",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608010600017",
+    "title": "북한 도시 배경 '콜 오브 듀티' DMZ 모드 공개",
+    "summary": [
+      "(서울=연합뉴스) 김주환 기자 = 한국을 주무대로 전쟁을 다뤄 논란이 된 '콜 오브 듀티' 시리즈 차기작 '모던 워페어 4'가 가상의 북한 도시..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd148f790",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003659589",
+    "title": "\"응원복 넘어 일상복으로\"…무신사, 젠지 유니폼 단독 출시",
+    "summary": [
+      "[서울=뉴시스]권민지 기자 = 무신사가 글로벌 이스포츠 팬덤을 겨냥해 젠지 이스포츠(Gen.G Esports)와 협업한 유니폼 컬렉션을 선보인다.",
+      "무신사는 젠지 이스포츠의 '2026 공식 세컨드 유니폼 컬렉션'을 단독 출시한다고 8일 밝혔다.",
+      "해당 제품은 이날 오전 11시 한정판 발매 서비스 '무신사 드롭'을 통해 공개된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n67684ac6",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003659579",
+    "title": "[속보] SKT-엔비디아, '풀스택 AI 클라우드' 협력한다",
+    "summary": [
+      "[서울=뉴시스]심지혜 기자 = SK텔레콤은 엔비디아 DSX 플랫폼을 기반으로 칩부터 데이터센터 운영까지 아우르는 '풀스택(Full Stack) AI 클라우드' 협력을 추진한다고 8일 밝혔다.",
+      "이를 위해 양사는 AI 작업에 특화된 데이터센터인 ‘AI 팩토리’를 GW(기가와트)급 스케일을 목표로 확장해 나갈 예정이다.",
+      "엔비디아 DSX 플랫폼은 칩·시스템부터 인프라 소프트웨어·시설·파트너 기술까지 풀스택 전반에 걸쳐 AI 팩토리의 설계·구축·최적화."
+    ],
+    "chips": [
+      "#AI",
       "#엔비디아"
     ]
   },
   {
-    "id": "nb37cb066",
+    "id": "ndae35531",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608021800030",
+    "title": "삼성물산 패션, SSF샵서 상반기 최대 '스페셜 쇼핑위크' 진행",
+    "summary": [
+      "(서울=연합뉴스) 구정모 기자 = 삼성물산 패션부문은 오는 18일까지 온라인 쇼핑 플랫폼 SSF샵에서 상반기 최대 규모의 할인 행사인 '스페셜 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5ed5ba0c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/08/HFRWMMTDMI2GEMJTGBSTCOJVGI/",
+    "title": "'얼마면 되는 거야' 토트넘, 브라이턴 네덜란드 국대 판 헤케 영입 제안 또 거절당했다..이적료 7000만파운드 이상 불렀다",
+    "summary": [
+      "[스포츠조선 노주환 기자]프리미어리그에 극적으로 생존한 토트넘의 선수 보강 작업에 제동이 걸리고 있다.",
+      "그 주인공은 네덜란드 국가대표 수비수 얀 폴 판 헤케(브라이턴)다.",
+      "토트넘의 두 번째 제안을 브라이턴이 거부한 알려졌다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n1fc028bb",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608020000008",
+    "title": "[마켓뷰] 코스피, '美반도체 쇼크'에 변동성 확대되나",
+    "summary": [
+      "(서울=연합뉴스) 이민영 기자 = 코스피가 8일 뉴욕증시 급락과 중동 긴장 고조 등에 하방 압력을 받을 것으로 전망된다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n008e4c11",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608021400007",
+    "title": "구연우, 포르투갈 W50 테니스 정상…ITF 단식 통산 8번째 우승",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 구연우(207위·CJ제일제당)가 국제테니스연맹(ITF) 포르투갈 몬테모르오노보 국제여자테니스대회(W50) 단식..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n68ccf19b",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/industry/2026/06/08/2026060808083782581",
+    "title": "SKT, 엔비디아와 AIDC 판 키운다…2027년 한국 첫 가동",
+    "summary": [
+      "SK그룹은 SK텔레콤이 엔비디아와 함께 글로벌을 겨냥한 AI 인프라 구축에 나선다고 8일 발표했다.",
+      "양사는 엔비디아 DSX 플랫폼을 기반으로 칩부터 데이터센터 운영까지 아우르는 '풀스택(Full Stack) AI 클라우드' 협력을 추진하기로 했다.",
+      "이를 위해 양사는 AI 작업에 특화된 데이터센터인 'AI 팩토리'를 GW(기가와트)급 스케일을 목표로 확장해 나갈 예정이다."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nbe6ff334",
     "category": "사회",
     "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/08/4MFUA63XINHR3F5GPFTOYYY2T4/",
-    "title": "이스라엘군 “네타냐후 명령시 이란에 즉각 보복” 트럼프 “하지 마”",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/06/08/MIZGIMZRGE2DENBRG43DONLCGE/",
+    "title": "보이프렌드, 데뷔 15주년 활동 마무리…노련美·성숙美 빛난 무대 매너",
     "summary": [
-      "이스라엘군 “네타냐후 명령시 이란에 즉각 보복” 트럼프 “하지 마”."
+      "[OSEN=장우영 기자] 그룹 보이프렌드(BOYFRIEND)가 팬들과 함께 컴백 활동을 마무리했다.보이프렌드는 지난달 26일 여섯 번째 미니앨범 ‘Boyager 6(보이저)’를 발매하고 각종 음악 방송에서 타이틀곡 ‘밤하늘을 수놓던 우리 목소리’ 무대를 선보였다.약 9년 만에 음악 방송 무대에 오른 보이프렌드는 한층 성숙해진 음악적 감성과 안정적인 라이브,."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1acb88dd",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "45분 전",
-    "url": "https://www.hankyung.com/article/2026060820737",
-    "title": "[속보] 이스라엘군 \"명령 내려지는 즉시 이란에 강력한 타격\"",
-    "summary": [
-      "[속보] 이스라엘군 \"명령 내려지는 즉시 이란에 강력한 타격\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc2db1178",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "51분 전",
-    "url": "https://www.hankyung.com/article/2026060591256",
-    "title": "\"집주인이 월세 60만원 올려달래요\"…세입자 '속앓이' [돈앤톡]",
-    "summary": [
-      "\"집주인이 월세 60만원 올려달래요\"…세입자 '속앓이' [돈앤톡]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc76db6b3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "54분 전",
-    "url": "https://www.hankyung.com/article/2026060820657",
-    "title": "[속보] 시진핑 \"북중관계 발전에 강력한 동력 주입…친척처럼 오가겠다\"",
-    "summary": [
-      "[속보] 시진핑 \"북중관계 발전에 강력한 동력 주입…친척처럼 오가겠다\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e323eca",
+    "id": "n15dbfd13",
     "category": "사회",
     "source": "동아일보",
-    "time": "57분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260608/134067028/2",
-    "title": "트럼프 “이란과 곧 합의…미사일 쐈으니 돌아와 합의하라”",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260608/134067232/1",
+    "title": "이란, 이스라엘에 미사일 타격…트럼프 “이스라엘, 보복 말라”",
     "summary": [
-      "도널드 트럼프 미국 대통령은 7일(현지 시간) 이란의 이스라엘 공격이 협상에 도움되지 않는다면서도 합의가 가까워졌다고 내다봤다.",
-      "트럼프 대통령은 이날 폭스뉴스와의 인터뷰에서 “(이란의) 이번 공습은 외교적 노력을 복잡하게 만들 것”이라며 이같이 말했다.",
-      "그의 발언은 이란이 이스라엘을 향해 미사일 공격을 벌인 직후 나왔다."
+      "이란이 이스라엘 본토를 겨냥한 대규모 미사일 공격을 감행했다.",
+      "이스라엘이 레바논 베이루트 남부 외곽을 타격한 것에 대한 보복 조치다.",
+      "이란이 이스라엘 영토를 직접 공격한 것은 올해 4월 휴전 이후 처음이다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n6e5dfd1e",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026060820637",
-    "title": "[속보] 시진핑 \"북과 전략적 의사소통·협조 강화…국제질서 공동수호\"",
+    "id": "nfc89a0ff",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "11분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/08/K263DMIHAVF77LSZF5BCRAAD3U/",
+    "title": "엔비디아·SK하이닉스, 차세대 AI 메모리 공동개발 ‘장기 파트너십’ 체결",
     "summary": [
-      "[속보] 시진핑 \"북과 전략적 의사소통·협조 강화…국제질서 공동수호\"."
+      "엔비디아·SK하이닉스, 차세대 AI 메모리 공동개발 ‘장기 파트너십’ 체결."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nc48ea051",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608018800003",
+    "title": "LS일렉, '중동 전력시장 표준' 두바이 전력청 공인시험소 등록",
+    "summary": [
+      "(서울=연합뉴스) 임성호 기자 = LS일렉트릭은 자사 전력시험기술원(PT&amp;T)이 중동 최대 전력 기관인 아랍에미리트(UAE) 두바이 전력..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n744f5801",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "13분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/08/LOO45XDHPNAWBDDAJYIB2TJW2U/",
+    "title": "SKT, 엔비디아와 GW급 ‘AI 팩토리’ 짓는다… 2027년 한국서 첫 가동",
+    "summary": [
+      "SKT, 엔비디아와 GW급 ‘AI 팩토리’ 짓는다… 2027년 한국서 첫 가동."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nce3ded0a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/economy/smb-venture/2026/06/08/2Q63QMWFXRCMBMOVUCSQ2LSIII/",
+    "title": "중소기업 女 월급, 대기업 男의 ‘3분의 1’… 벌어지는 ‘임금 격차’",
+    "summary": [
+      "중소기업 女 월급, 대기업 男의 ‘3분의 1’… 벌어지는 ‘임금 격차’."
     ],
     "chips": [
       "#뉴스"
@@ -640,20 +650,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "채용",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "엔비디아",
+    "mentions": "2200건",
+    "trend": "+235%"
   }
 ];
 // ====AUTO-GENERATED-END====
