@@ -1,26 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-07 16:28:08
+// 마지막 업데이트: 2026-06-07 17:28:21
 window.NEWS_DB = [
-  {
-    "id": "n1d64a4bf",
-    "category": "IT",
-    "source": "Vietnam.vn",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV24zX1lYUXNpMWlfb2FJb3ZtM043VFVCM3JmSWZnS3VFdE5uTXhKN1VTY3diOTRDd3dINzZWa3VxelBVd280a3VOZTF5VXNKbGt1X0oyVFhQQkR2cFg1U2EwTTlvMVdFVE1Rb0pielhIdm5oc2czNjRQV3ROYWVqWlpjQ0Z2SzJJbU13LThyMlUyZjcwbllELWd3?oc=5",
-    "title": "한국은 엔비디아의 인공지능 야망에 있어 전략적 연결고리가 되었습니다.",
-    "summary": [
-      "한국은 엔비디아의 인공지능 야망에 있어 전략적 연결고리가 되었습니다."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
   {
     "id": "nbf9f67e8",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWC1KTmtlcXhGQ3FhSWFlYkRBSkYzZFhEdU83WXZoNTFfdkh0ZGc5MHJKWkhQTG1UNEUtZVpPWHI4TEVXZXFYRm4wNVdOR2RaZ0lSU2dROHZYZ9IBXkFVX3lxTFAzLTdHdmQ1dktMcm1vakF3d2dZQ0hobUhwSWgtMDhaR2NQaDBGT0Foc3M4Q0NZVlg2ODhxRlhzSEs5WHA4eXRiSVpFa2lVeGE1SnN5U01ia05xS3FNSWc?oc=5",
     "title": "젠슨 황 '4가지 선물'… \"AI생태계 핵심축으로 한국 재입증\"[엔비디아 젠슨 황 방한]",
     "summary": [
@@ -35,7 +20,7 @@ window.NEWS_DB = [
     "id": "n5dd41f6d",
     "category": "부동산",
     "source": "뉴스1",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UaTJKQk1hektMQWpzb0NLWk41X3paQ3JGRTZVUzBTbUpCczM1NG1tLVJaS3Nnb0hkQzNqbXBVX0IxbjBSaGwwZjVVYXBoUHhqX3FXallCSG5RaFJtcTdUd1pmNmw?oc=5",
     "title": "집값 뚝뚝 떨어지는데…\"전세금 1억2천만원 더 올려달라네요\"",
     "summary": [
@@ -44,6 +29,22 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "nfa1c41a0",
+    "category": "IT",
+    "source": "초이스스탁",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
+    "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
+    "summary": [
+      "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고 초이스스탁."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -143,20 +144,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n120ef4f4",
-    "category": "경제",
-    "source": "jabon.co.kr",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iNXYzdE0ya09tLXJESmhRR1QyMXU5YWJPMHRQMGNIMFRGd1QxVU9HWXdfYXNmVnF5b1o5blBYMWtzdGM4QW1uVUdISWJzR3pGdW5kQWUyYmZqWXhiMFZkZUNjVUtBbXc?oc=5",
-    "title": "한은 매파에 국고채 일제 상승, 환율 장중 18원 급등락",
-    "summary": [
-      "한은 매파에 국고채 일제 상승, 환율 장중 18원 급등락 jabon.co.kr."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "ne2208e3a",
     "category": "부동산",
     "source": "프라임경제",
@@ -171,29 +158,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb9bdfdfb",
-    "category": "스포츠",
-    "source": "푸드투데이",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
-    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
+    "id": "nb3bb73fa",
+    "category": "경제",
+    "source": "헤럴드경제",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
+    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
     ],
     "chips": [
-      "#손흥민",
-      "#KBO"
+      "#환율"
     ]
   },
   {
-    "id": "n37646dcf",
+    "id": "n21d1500d",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "머니투데이",
     "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VVmZjQUtRa3BqUng5MnJtdExfX18tb0pLN1VyNEwwX2p4RW1HdTl5bmllWkVwTzQ4UWxPNFlMSFhKODJlend4V3VaZi1Fay1IOWNLZTNoelBZOEExZi1YM1VyOXlRbTNzS3fSAW9BVV95cUxOVUFfeEtOaklFeHNHY3JRbVhXNDVNTVdtOE5QVjFRT1hLS2ltVmY5d29id195bnFxSXoySHFKdXM4VUQyN1RZWS01b3BFeXJJWGZBNXVIdk5CbkFobmIyZ3JpQXhxQU9KZ2FLN0pTdTg?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#스타트업"
@@ -261,20 +247,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64476ff1",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "49일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
-    "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -286,6 +258,34 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "ncbcb6c77",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "91일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "summary": [
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8988be77",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "104일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -319,10 +319,178 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n63d719ce",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/08/MI3TANZXMNQWMMJRGQ2DAYRWMI/",
+    "title": "\"TV 늦게 켰으면 잘못된 화면으로 봤을지도\" 1회 9득점 초전박살, 오타니→오타니, 다저스가 세운 기록",
+    "summary": [
+      "[OSEN=홍지수 기자] LA 다저스가 LA 에인절스를 초전박살냈다.다저스는 7일(이하 한국시간) 미국 캘리포니아주 로스앤젤레스에 위치한 유니클로 필드 앳 다저스타디움에서 열린 2026 메이저리그 LA 에인절스와 홈경기에서 9-2 승리를 거뒀다.이날 선발 등판한 야마모토 요시노부는 8이닝 2피안타 무사사구 4탈삼진 1실점 호투로 시즌 6승을 챙겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1781cc54",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/08/2026060800263057965",
+    "title": "'한화의 10년 내다본 선택' 그래서 더 쓰라렸던 시련, '타율 0.167→데뷔 첫 4안타' 오재원은 더 단단해졌다",
+    "summary": [
+      "개막전부터 3안타를 몰아쳤지만 다시 그 시간이 찾아오기까진 50경기를 더 거쳐야 했다.",
+      "신인 오재원(19·한화 이글스)이 이겨내기엔 힘겨운 시간이었다.",
+      "그러나 묵묵히 때를 기다렸고 결국 다시 한 번 자신의 잠재력을 널리 알렸다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n945deedf",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608001800071",
+    "title": "美국방 \"이란과 휴전 유지…좋은 합의 조만간 이뤄질 가능성 커\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 피트 헤그세스 미국 국방부(전쟁부) 장관은 7일(현지시간) 이란과의 종전 협상과 관련해 조만간 합의가 이뤄..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned4d9f46",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/08/2026060800564784328",
+    "title": "'어느새 네 번째 월드컵' 김승규 진심 \"축구 다시 할 수 있을까 고민했는데... 딸과 아내에게 최고의 선물 안기겠다\" [과달라하라 현장 일문일답]",
+    "summary": [
+      "커리어 사상 가장 무서웠던 부상의 암울한 터널을 뚫고 마침내 네 번째 월드컵 무대에 우뚝 선 김승규(36·FC도쿄)가 머나먼 결전지 멕시코 땅에서 갓 태어난 딸과 든든한 아내를 위한 다부진 각오를 드러냈다.",
+      "대한민국 축구 국가대표팀은 7일 오전 11시(현지시간) 멕시코 과달라하라의 베이스캠프 훈련장 치바스 바예 베르데에서 공식 훈련을 진행했다.",
+      "홍명보호는 지난 5일 과달라하라 입성 후 6일 국제축구연맹(FIFA) 주관 커뮤니티 트레이닝을 치른."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb27111be",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/08/GI3TAMZTGNSDINBQGQYTCMTBMQ/",
+    "title": "'토트넘이 지킬 수 있을까' 네덜란드 국대 판더펜, '레알' 무리뉴 픽 리스트에 올랐다..이적료 7500만파운드까지 상승+리버풀 맨유도 영입 희망",
+    "summary": [
+      "[스포츠조선 노주환 기자]스페인 거함 레알 마드리드와 조제 무리뉴 감독이 토트넘 센터백 미키 판더펜(25)을 영입 리스트에 올린 것으로 알려졌다.",
+      "레알 마드리드는 다음 시즌을 위한 스쿼드 보강 작업을 계속하고 있으며, 영국 매체는 네덜란드 국가대표 판더펜의 이름을 거명했다.",
+      "영국 매체 선데이 미러에 따르면 코나테와 덤프리스의 합류 이후 수비력을 더욱 강화하."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n86efdce9",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/08/2026060723263537128",
+    "title": "\"내 안의 악마가 깰 것 같아\" 음바페, 월드컵 '다시보기' 절대 거부한 이유... \"메시와 결승전 절대 안 봐\"",
+    "summary": [
+      "프랑스 축구대표팀의 간판 공격수 킬리안 음바페(28·레알 마드리드)가 2022 카타르 월드컵 결승전을 단 한 번도 다시 보지 않았다고 고백했다.",
+      "당시 패배 기억이 준 충격과 고통이 너무 크다는 이유다.",
+      "영국 '더선'은 7일(한국시간) \"음바페가 스포츠 플랫폼 '소라레'와 인터뷰에서 '카타르 월드컵 결승전을 다시 보면 내면의 악마가 깨어날 것 같다'고 고백했다\"고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n65a929d4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/08/GJRTQMJTGQ4WKYRXMZQTSODFG4/",
+    "title": "9회 무사 1·2루 끝내기 찬스에서 번트 실패, 10회 실책으로 결승점 허용...디테일 없는 롯데의 4연패 새드 엔딩 [오!쎈 부산]",
+    "summary": [
+      "[OSEN=부산, 조형래 기자] 한 번도 경기를 주도하지 못했다.",
+      "돌이켜보면 1회의 상황들이 아쉬울 수밖에 없다.",
+      "과연 롯데 자이언츠 입장에서는 1회 4실점까지 할 경기였는지, 그리고 이날 경기가 패배까지 이어질 경기였는지 곱씹어봐야 한다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb561f181",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608001600009",
+    "title": "[르포] \"팬데믹 때 '사랑의 불시착'을 보면서 K-드라마에 빠졌어요\"",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = \"팬데믹 때 우연히 '사랑의 불시착'을 봤는데, 그때부터 K-드라마 마니아가 됐죠.\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5938f260",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "25분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/08/2026060800490681164",
+    "title": "\"LEE, 계속 잘 치길!\" 이정후가 맹타 비결로 직접 언급한 '美 타격왕' 동료, 흐뭇하게 웃기만 한 이유",
+    "summary": [
+      "부상자 명단(IL)은 쉼표가 아닌 '성장의 발판'이었나.",
+      "샌프란시스코 자이언츠 이정후(28)가 메이저리그 최고의 교타자로 평가받는 동료 내야수 루이스 아라에즈(29)의 '영업비밀'을 흡수하며, 역대급 맹타를 휘두르고 있다.",
+      "현지 매체들은 이정후와 아라에즈의 훈훈한 브로맨스에 집중하는 모양새다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n07bcaade",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003659457",
+    "title": "\"젤렌스키, 첼시 前구단주까지 동원했지만…푸틴, 정상회담 거절\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 볼로디미르 젤렌스키 우크라이나 대통령이 러시아 신흥 재벌 로만 아브라모비치를 통해 블라디미르 푸틴 대통령과의 정상회담을 추진했지만 거절당한 것으로 전해졌다.",
+      "7일(현지 시간) 파이낸셜타임스(FT)는 복수의 소식통을 인용해 젤렌스키 대통령이 지난달 아브라모비치를 키이우로 초청, 푸틴 대통령에게 양자회담에 준비돼 있다는 뜻을 전달해달라고 요청했다고 보도했다.",
+      "아브라모비치는 푸틴 대통령에게 관련 내용을 전달했으나 거절당."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n57726083",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607055051071",
+    "title": "트럼프 \"이란과 합의불발시 타격한 뒤 고농축우라늄 회수\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 7일(현지시간) 이란과의 종전 협상이 타결될 경우 이란과 협력해 이란이 보유한..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n4bcfcc40",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "59분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152418",
     "title": "[테크M 이슈] PC방에서 그래픽카드 쏜 젠슨 황 CEO...장병규·김택진 만나 \"아이 러브 코리아\"",
     "summary": [
@@ -336,41 +504,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6b37ecae",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/08/GA2GCMZTMMYTGNZXMI3DIOBSGQ/",
-    "title": "6:0→6:6→7:6 짜릿한 끝내기로 기쁨 두 배...3연속 위닝 \"강팀 상대로 위닝 가져와 의미가 크다\"",
-    "summary": [
-      "[OSEN=창원, 한용섭 기자] 프로야구 NC 다이노스가 LG 트윈스에 끝내기 승리를 거두며 3연속 위닝시리즈를 이어갔다.",
-      "NC는 7일 창원 NC파크에서 열린 LG와 경기에서 9회말 최정원의 끝내기 안타로 승리했다.",
-      "LG와 3연전에서 첫 경기를 역전패했지만, 이틀 연속 승리하며 위닝에 성공했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n43e941b5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/08/GYZDAOBWMNSDENRTGZQTOZJWHA/",
-    "title": "'일본을 응원하는 건가' 中에서 연봉만 3000억 번 브라질 오스카, 日 월드컵 어웨이 유니폼 착용 큰 반향..'협찬은 아니겠지'",
-    "summary": [
-      "[스포츠조선 노주환 기자]브라질 국가대표를 지냈고, 중국 슈퍼리그를 통해 엄청난 부를 얻은 축구 스타 오스카가 일본 월드컵대표팀의 원정 유니폼을 입어 큰 화제를 모았다.",
-      "EPL 첼시, 중국 상하이 상강(현 하이강) 등에서 활약한 후 지난 4월에 선수 은퇴를 발표한 전 브라질 대표 미드필더 오스카가 북중미월드컵에서 일본 대표 선수들의 어웨이 유니폼을 착용한."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
     "id": "n2de43bb7",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260608001200007",
     "title": "잉글랜드 '득점 기계' 케인 \"내 커리어 통틀어 최고의 컨디션\"",
     "summary": [
@@ -381,40 +518,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf5546d85",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608001000087",
-    "title": "월드컵 앞두고 빛의 향연…멕시코 성당 수놓은 '미디어 파사드'",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 지난 6일(현지시간) 밤 2026 북중미 월드컵 경기가 열리는 과달라하라 사포판."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n63673574",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/08/GYZTQMRYGVSGKYRRHE3TQNLEGU/",
-    "title": "세상에 이럴수가, 코치가 엉덩이 두들겼다고 황당 아웃...선수들도 초당황, 기상천외 사건",
-    "summary": [
-      "[스포츠조선 김용 기자] 왜 거기서 엉덩이 터치를 해서...",
-      "정말 보기 드문 장면이 발생했다.",
-      "NC 다이노스가 끝내기 승을 거뒀기에 망정이지, 엄청난 후폭풍이 일어날 뻔 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n3898f454",
     "category": "사회",
     "source": "뉴시스",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260608_0003659450",
     "title": "이탈리아 국방 \"나토, 한국·일본 등 새로운 회원국 모색해야\"",
     "summary": [
@@ -427,24 +534,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n656d43e1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608000900082",
-    "title": "\"젤렌스키, 러 재벌 통해 푸틴에 정상회담 요청\"",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 지난달 러시아 재벌 로만 아브라모비치를 통해 블라디미르 푸틴 러시아..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n1ac2a8da",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260607_0003659248",
     "title": "'상상초월 물가' 월드컵…맥주 한 잔 '2만6000원'",
     "summary": [
@@ -457,56 +550,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n063b0b52",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608000800079",
-    "title": "\"호르무즈 통행 서비스료 징수 단계…선박당 150만~200만 달러\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이란이 호르무즈 해협을 통과하는 선박 1척당 평균 150만∼200만 달러(약 23억∼30억원)의 서비스 요..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30898d99",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "42분 전",
-    "url": "https://view.asiae.co.kr/article/2026060800453825203",
-    "title": "트럼프 \"금리 인하해야\"…워시 첫 FOMC 앞두고 압박",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 예상보다 강한 고용지표가 나왔다고 해서 연방준비제도(Fed)가 금리를 인상하는 것은 잘못된 판단이라고 주장했다.",
-      "다만 그는 케빈 워시 Fed 의장이 첫 연방공개시장위원회(FOMC) 회의를 앞둔 만큼 자신은 그의 결정에 영향을 주고 싶지 않다고 말했다.",
-      "트럼프 대통령은 7일(현지시간) 방송된 NBC와의 인터뷰에서 \"요즘은 좋은 경제지표가 나오면 시장이 금리 인상을 우려해 오히려 하락한다\"며 \"금리."
-    ],
-    "chips": [
-      "#금리",
-      "#고용",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc9f511c1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "55분 전",
-    "url": "https://www.chosun.com/economy/market_trend/2026/06/08/SIF2XTNXLRFYFBNAUFIWFHJOLA/",
-    "title": "[산업X파일] ‘호치’에서 ‘페포’로… 삼양 불닭면, 새 얼굴 내세우는 까닭은",
-    "summary": [
-      "[산업X파일] ‘호치’에서 ‘페포’로… 삼양 불닭면, 새 얼굴 내세우는 까닭은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7038657b",
     "category": "IT",
     "source": "테크M",
-    "time": "56분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152417",
     "title": "'택진이형'과 엔비디아의 오랜 인연...강남 PC방서 울려퍼진 \"TJ! TJ!\"",
     "summary": [
@@ -522,7 +569,7 @@ window.NEWS_DB = [
     "id": "n27c403eb",
     "category": "경제",
     "source": "동아일보",
-    "time": "58분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260607/134065169/2",
     "title": "스페이스X 상장 카운트다운… 국내 첫날 청약 완판",
     "summary": [
@@ -538,7 +585,7 @@ window.NEWS_DB = [
     "id": "n26ef399c",
     "category": "IT",
     "source": "동아일보",
-    "time": "58분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260607/134065184/2",
     "title": "스페이스X, 구글과 46조원대 AI데이터센터 ‘클라우드 임대 계약’",
     "summary": [
@@ -554,7 +601,7 @@ window.NEWS_DB = [
     "id": "nd5f690a9",
     "category": "부동산",
     "source": "동아일보",
-    "time": "58분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260607/134065250/2",
     "title": "더 팍팍해진 2030… 가구 소득 줄었는데, 월세는 뛰어 ‘허덕’",
     "summary": [
@@ -570,7 +617,7 @@ window.NEWS_DB = [
     "id": "nb83f5140",
     "category": "사회",
     "source": "동아일보",
-    "time": "58분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260607/134065243/2",
     "title": "“키위 케이크, 입안에서 살살 녹아요”",
     "summary": [
@@ -585,7 +632,7 @@ window.NEWS_DB = [
     "id": "n8ead1832",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260607_0003659446",
     "title": "이스라엘, 레바논 헤즈볼라 거점 공습…\"최소 11명 부상\"",
     "summary": [
@@ -596,56 +643,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n37214d45",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026060800044221237",
-    "title": "트럼프 \"합의 시 HEU 공동 폐기…결렬되면 군사행동\"",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 7일(현지시간) 종전 협상이 타결될 경우 이란과 협력해 이란이 보유한 고농축 우라늄(HEU)을 회수·폐기할 것이라고 밝혔다.",
-      "다만 합의가 결렬될 경우 군사행동을 통해 반출 후 폐기하겠다고 했다.",
-      "트럼프 대통령은 이날 방송된 NBC 방송 인터뷰에서 종전 협상의 주요 쟁점인 이란의 고농축 우라늄 처리 문제와 관련해 \"우리가 우호적인 관계를 맺기로 합의한다면 우리는 모두 함께 갈 것\"이라며 \"현."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n615011df",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659295",
-    "title": "흔들리는 강세장, ‘포모’와 ‘착각’ 경계하고 기본으로 돌아가야",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = 역대급 불장 속에서 최근 시장이 조정을 받자 투자자들의 멘탈 관리가 도마 위에 올랐다.",
-      "7일 구독자 34만 유튜브 채널 ‘미키피디아’의 운영자 미키 김 액트투벤처스 대표는 최근 영상을 통해 폭락장의 공포만큼이나 상승장의 소외감(FOMO)과 야망이 투자 판단을 흐리는 위험한 요소라고 지적하며, 이럴 때일수록 투자 원칙을 재점검해야 한다고 강조했다.",
-      "강세장에서 투자자들이 가장 흔하게 겪는 감정은 소외감이다."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "ned7ffe2c",
-    "category": "사회",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152416",
-    "title": "네이버 대표 출신 한성숙 중기부 장관, 국무총리 후보자 지명",
-    "summary": [
-      "한성숙 중소벤처기업부 장관이 신임 국무총리 후보자로 지명됐다.",
-      "한성숙 후보자는 이재명 정부에 장관으로 발탁되기 전까지 네이버에서 일해온 현장 전문가다.청와대는 7일 이재명 대통령이 한성숙 장관을 국무총리 후보자로 지명했다고 밝혔다.",
-      "한성숙 후보자는 1967년생으로 의정부여고와 숙명여대 영어영문학과를 졸업했다."
-    ],
-    "chips": [
-      "#스타트업",
-      "#네이버",
-      "#정치"
-    ]
   }
 ];
 
@@ -654,18 +651,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
