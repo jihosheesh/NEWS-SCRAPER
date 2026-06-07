@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-07 17:28:21
+// 마지막 업데이트: 2026-06-07 18:23:27
 window.NEWS_DB = [
   {
     "id": "nbf9f67e8",
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n5dd41f6d",
     "category": "부동산",
     "source": "뉴스1",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UaTJKQk1hektMQWpzb0NLWk41X3paQ3JGRTZVUzBTbUpCczM1NG1tLVJaS3Nnb0hkQzNqbXBVX0IxbjBSaGwwZjVVYXBoUHhqX3FXallCSG5RaFJtcTdUd1pmNmw?oc=5",
     "title": "집값 뚝뚝 떨어지는데…\"전세금 1억2천만원 더 올려달라네요\"",
     "summary": [
@@ -144,6 +144,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n120ef4f4",
+    "category": "경제",
+    "source": "jabon.co.kr",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iNXYzdE0ya09tLXJESmhRR1QyMXU5YWJPMHRQMGNIMFRGd1QxVU9HWXdfYXNmVnF5b1o5blBYMWtzdGM4QW1uVUdISWJzR3pGdW5kQWUyYmZqWXhiMFZkZUNjVUtBbXc?oc=5",
+    "title": "한은 매파에 국고채 일제 상승, 환율 장중 18원 급등락",
+    "summary": [
+      "한은 매파에 국고채 일제 상승, 환율 장중 18원 급등락 jabon.co.kr."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "ne2208e3a",
     "category": "부동산",
     "source": "프라임경제",
@@ -158,28 +172,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3bb73fa",
-    "category": "경제",
-    "source": "헤럴드경제",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
-    "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n21d1500d",
+    "id": "n37646dcf",
     "category": "IT",
-    "source": "머니투데이",
+    "source": "유니콘팩토리",
     "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VVmZjQUtRa3BqUng5MnJtdExfX18tb0pLN1VyNEwwX2p4RW1HdTl5bmllWkVwTzQ4UWxPNFlMSFhKODJlend4V3VaZi1Fay1IOWNLZTNoelBZOEExZi1YM1VyOXlRbTNzS3fSAW9BVV95cUxOVUFfeEtOaklFeHNHY3JRbVhXNDVNTVdtOE5QVjFRT1hLS2ltVmY5d29id195bnFxSXoySHFKdXM4VUQyN1RZWS01b3BFeXJJWGZBNXVIdk5CbkFobmIyZ3JpQXhxQU9KZ2FLN0pTdTg?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이 머니투데이."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -247,6 +247,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n64476ff1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "49일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "summary": [
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -261,31 +275,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncbcb6c77",
+    "id": "n01f4c085",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "91일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "source": "뉴시스",
+    "time": "76일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
     "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n8988be77",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "104일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -319,14 +319,200 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n63d719ce",
+    "id": "nb03d42c9",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/08/2026060803093986421",
+    "title": "'60세' 도지원, 여전히 캥거루족 근황 \"언니도 미혼…독립 포기\"",
+    "summary": [
+      "배우 도지원이 60세가 된 지금까지 단 한 번도 자취를 해본 적 없이 가족들과 함께 살고 있다고 밝혀 눈길을 끌었다.",
+      "7일 방영된 SBS '미운 우리 새끼' 498회에서는 배우 도지원이 스페셜 게스트로 출연해 솔직한 입담을 전했다.",
+      "이날 서장훈은 도지원을 소개하며 \"사실 미우새에 가장 잘 어울리는 인물\"이라며 \"아직도 어머니와 함께 사는 캥거루족이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf745e719",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/08/MI3TANZXMNQWMMJRGQ2DAYRWMI/",
-    "title": "\"TV 늦게 켰으면 잘못된 화면으로 봤을지도\" 1회 9득점 초전박살, 오타니→오타니, 다저스가 세운 기록",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/08/MZRDIZTCMEZDEZRQG4YTMYJQMQ/",
+    "title": "1862일 만의 부산 싹쓸이라니…\"모두 끝까지 최선 다했다\"",
     "summary": [
-      "[OSEN=홍지수 기자] LA 다저스가 LA 에인절스를 초전박살냈다.다저스는 7일(이하 한국시간) 미국 캘리포니아주 로스앤젤레스에 위치한 유니클로 필드 앳 다저스타디움에서 열린 2026 메이저리그 LA 에인절스와 홈경기에서 9-2 승리를 거뒀다.이날 선발 등판한 야마모토 요시노부는 8이닝 2피안타 무사사구 4탈삼진 1실점 호투로 시즌 6승을 챙겼다."
+      "[부산=스포츠조선 이종서 기자] 한화 이글스가 부산 원정을 승리로 가득 채웠다.",
+      "한화는 7일 부산 사직구장에서 열린 롯데 자이언츠와의 원정경기에서 9대8로 승리했다.",
+      "한화는 3연전을 모두 쓸어담으면서 시즌 30승(1무27패) 고지를 밟았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63673574",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/08/GYZTQMRYGVSGKYRRHE3TQNLEGU/",
+    "title": "세상에 이럴수가, 코치가 엉덩이 두들겼다고 황당 아웃...선수들도 초당황, 기상천외 사건",
+    "summary": [
+      "[스포츠조선 김용 기자] 왜 거기서 엉덩이 터치를 해서...",
+      "정말 보기 드문 장면이 발생했다.",
+      "NC 다이노스가 끝내기 승을 거뒀기에 망정이지, 엄청난 후폭풍이 일어날 뻔 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc400afdb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/07/HBSTEZBWGJRDENDEGI4DGNTBGM/",
+    "title": "ERA 2.55 재정비 완료…돌아온 1순위 좌완, 사령탑은 \"일단 3점까지 지켜본다\"",
+    "summary": [
+      "[부산=스포츠조선 이종서 기자] \"일단 3점까지는 지켜보겠다.\" 한화 이글스는 7일 부산 사직구장에서 롯데 자이언츠와 원정경기를 한다.",
+      "5일과 6일 경기를 모두 잡은 한화는 7일 선발투수로 황준서를 예고했다.",
+      "지난 2일 박준영(68번)이 선발로 나와 4일 휴식 등판도 할 수 있었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4cfc7530",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608002000009",
+    "title": "아르헨, 中서 통화스와프 연장 협상…반중 밀레이의 현실적 선택",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나 중앙은행(BCRA)의 산티아고 바우실리 총재가 오는 8월 만료되는 중국과의 통화스와프 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n373b5f59",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/08/2026060802550470040",
+    "title": "설운도, 이혼한 린에 위로 \"아픔 있었지만 타고난 가수\" 신곡 선물까지",
+    "summary": [
+      "가수 린이 설운도에게 직접 신곡 트로트 지도를 받은 가운데 설운도가 지난해 이혼한 린을 응원했다.",
+      "7일 방영된 SBS '미운 우리 새끼' 498회에서는 가수 린이 출연해 일상을 공개했다.",
+      "이날 린은 집에서 설운도가 작사, 작곡한 신곡 트로트를 연습하며 시간을 보냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne86b4249",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608002100072",
+    "title": "부탄 수도 팀부 인근서 규모 5.6 지진",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 7일 오후 11시 36분(현지시간) 부탄 수도 팀부 인근 지역에서 규모 5.6의 지진이 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n01ed1d29",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/culture-life/relion-academia/2026/06/08/YDZYPJIP4NG7BBF4O7BE5MJ6RQ/",
+    "title": "“곤(困)할 때는 침묵하라”… 패자를 일으켜 세우는 ‘불극송’의 미덕",
+    "summary": [
+      "“곤(困)할 때는 침묵하라”… 패자를 일으켜 세우는 ‘불극송’의 미덕."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nac722c59",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "38분 전",
+    "url": "https://view.asiae.co.kr/article/2026060802442433812",
+    "title": "美 국방 \"이란과 휴전 유지…합의 가능성 커\"",
+    "summary": [
+      "피트 헤그세스 미국 국방부 장관은 7일(현지시간) 이란과의 종전 협상과 관련해 조만간 합의가 이뤄질 가능성이 크다고 밝혔다.",
+      "이날 CNN에 따르면 헤그세스 장관은 제2차 세계대전 노르망디 상륙작전의 82주년 기념식 참석을 위해 방문했던 프랑스를 떠나기에 앞서 기자들과 만나 \"우리는 적극적으로 협상하고 있다\"고 말했다.",
+      "그는 최근 미국과 이란 간 제한적 무력 충돌이 이어진 것과 관련해 \"물론 휴전 상태가 맞다\"며 휴전이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n984ecb9d",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "46분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003659461",
+    "title": "OPEC+ 4개월 연속 증산에도…\"호르무즈 막혀 영향 제한적\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 석유수출국기구(OPEC)와 주요 산유국 협의체인 OPEC+가 4개월 연속 증산에 합의했다고 7일(현지 시간) 파이낸셜타임스(FT) 등이 보도했다.",
+      "OPEC+는 이날 회의를 열고 7월 생산량을 하루 18만8000배럴 늘리기로 결정했다.",
+      "6월 증산 폭과 동일한 규모로, 아랍에미리트(UAE) 탈퇴를 감안해 4~5월 증산 폭(하루 20만6000배럴)에서 하향 조정했다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n4a8ebf84",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608001900079",
+    "title": "이란 협상단장, \"軍 선택지 열려\" 베이루트 공습 보복 시사",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란의 종전 협상 대표단을 이끌었던 모하마드 바게르 갈리바프 의회 의장이 이스라엘의 레바논 수도 베이루트 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne0af1379",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003659191",
+    "title": "\"월드컵에서 이러면 어쩌지\" 악천후로 평가전 2시간 중단…날씨 변수",
+    "summary": [
+      "[서울=뉴시스]박윤서 인턴 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵 개막이 코앞으로 다가온 가운데 현지의 변덕스러운 날씨가 변수로 떠오르고 있다.",
+      "사우디아라비아는 6일(한국시간) 미국 오스틴에 위치한 Q2 스타디움에서 열린 친선경기에서 푸에르토리코를 3-0으로 제압했다.",
+      "이 경기는 악천후로 인해 두 시간 동안 중단됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6e90974b",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "53분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/08/2026060802240772039",
+    "title": "린, 이혼 후 일상 공개…화장실 바닥서 아침 식사? 서장훈 '경악'",
+    "summary": [
+      "가수 린이 화장실 바닥에서 아침 식사를 하고 뜨개질, 독서까지 즐기는 독특한 일상을 공개해 모두를 놀라게 했다.",
+      "7일 방영된 SBS '미운 우리 새끼' 498회에서는 가수 린이 출연해 혼자만의 일상을 공개했다.",
+      "이날 린은 아침에 일어나 꿀과 검은콩 등 간단한 간식을 챙긴 뒤 화장실로 향했다."
     ],
     "chips": [
       "#뉴스"
@@ -336,7 +522,7 @@ window.NEWS_DB = [
     "id": "n1781cc54",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/06/08/2026060800263057965",
     "title": "'한화의 10년 내다본 선택' 그래서 더 쓰라렸던 시련, '타율 0.167→데뷔 첫 4안타' 오재원은 더 단단해졌다",
     "summary": [
@@ -352,7 +538,7 @@ window.NEWS_DB = [
     "id": "n945deedf",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260608001800071",
     "title": "美국방 \"이란과 휴전 유지…좋은 합의 조만간 이뤄질 가능성 커\"",
     "summary": [
@@ -363,104 +549,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ned4d9f46",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/08/2026060800564784328",
-    "title": "'어느새 네 번째 월드컵' 김승규 진심 \"축구 다시 할 수 있을까 고민했는데... 딸과 아내에게 최고의 선물 안기겠다\" [과달라하라 현장 일문일답]",
-    "summary": [
-      "커리어 사상 가장 무서웠던 부상의 암울한 터널을 뚫고 마침내 네 번째 월드컵 무대에 우뚝 선 김승규(36·FC도쿄)가 머나먼 결전지 멕시코 땅에서 갓 태어난 딸과 든든한 아내를 위한 다부진 각오를 드러냈다.",
-      "대한민국 축구 국가대표팀은 7일 오전 11시(현지시간) 멕시코 과달라하라의 베이스캠프 훈련장 치바스 바예 베르데에서 공식 훈련을 진행했다.",
-      "홍명보호는 지난 5일 과달라하라 입성 후 6일 국제축구연맹(FIFA) 주관 커뮤니티 트레이닝을 치른."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb27111be",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/08/GI3TAMZTGNSDINBQGQYTCMTBMQ/",
-    "title": "'토트넘이 지킬 수 있을까' 네덜란드 국대 판더펜, '레알' 무리뉴 픽 리스트에 올랐다..이적료 7500만파운드까지 상승+리버풀 맨유도 영입 희망",
-    "summary": [
-      "[스포츠조선 노주환 기자]스페인 거함 레알 마드리드와 조제 무리뉴 감독이 토트넘 센터백 미키 판더펜(25)을 영입 리스트에 올린 것으로 알려졌다.",
-      "레알 마드리드는 다음 시즌을 위한 스쿼드 보강 작업을 계속하고 있으며, 영국 매체는 네덜란드 국가대표 판더펜의 이름을 거명했다.",
-      "영국 매체 선데이 미러에 따르면 코나테와 덤프리스의 합류 이후 수비력을 더욱 강화하."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n86efdce9",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/08/2026060723263537128",
-    "title": "\"내 안의 악마가 깰 것 같아\" 음바페, 월드컵 '다시보기' 절대 거부한 이유... \"메시와 결승전 절대 안 봐\"",
-    "summary": [
-      "프랑스 축구대표팀의 간판 공격수 킬리안 음바페(28·레알 마드리드)가 2022 카타르 월드컵 결승전을 단 한 번도 다시 보지 않았다고 고백했다.",
-      "당시 패배 기억이 준 충격과 고통이 너무 크다는 이유다.",
-      "영국 '더선'은 7일(한국시간) \"음바페가 스포츠 플랫폼 '소라레'와 인터뷰에서 '카타르 월드컵 결승전을 다시 보면 내면의 악마가 깨어날 것 같다'고 고백했다\"고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n65a929d4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/08/GJRTQMJTGQ4WKYRXMZQTSODFG4/",
-    "title": "9회 무사 1·2루 끝내기 찬스에서 번트 실패, 10회 실책으로 결승점 허용...디테일 없는 롯데의 4연패 새드 엔딩 [오!쎈 부산]",
-    "summary": [
-      "[OSEN=부산, 조형래 기자] 한 번도 경기를 주도하지 못했다.",
-      "돌이켜보면 1회의 상황들이 아쉬울 수밖에 없다.",
-      "과연 롯데 자이언츠 입장에서는 1회 4실점까지 할 경기였는지, 그리고 이날 경기가 패배까지 이어질 경기였는지 곱씹어봐야 한다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb561f181",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608001600009",
-    "title": "[르포] \"팬데믹 때 '사랑의 불시착'을 보면서 K-드라마에 빠졌어요\"",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = \"팬데믹 때 우연히 '사랑의 불시착'을 봤는데, 그때부터 K-드라마 마니아가 됐죠.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5938f260",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "25분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/08/2026060800490681164",
-    "title": "\"LEE, 계속 잘 치길!\" 이정후가 맹타 비결로 직접 언급한 '美 타격왕' 동료, 흐뭇하게 웃기만 한 이유",
-    "summary": [
-      "부상자 명단(IL)은 쉼표가 아닌 '성장의 발판'이었나.",
-      "샌프란시스코 자이언츠 이정후(28)가 메이저리그 최고의 교타자로 평가받는 동료 내야수 루이스 아라에즈(29)의 '영업비밀'을 흡수하며, 역대급 맹타를 휘두르고 있다.",
-      "현지 매체들은 이정후와 아라에즈의 훈훈한 브로맨스에 집중하는 모양새다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n07bcaade",
     "category": "사회",
     "source": "뉴시스",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260608_0003659457",
     "title": "\"젤렌스키, 첼시 前구단주까지 동원했지만…푸틴, 정상회담 거절\"",
     "summary": [
@@ -473,24 +565,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n57726083",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "51분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607055051071",
-    "title": "트럼프 \"이란과 합의불발시 타격한 뒤 고농축우라늄 회수\"(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 7일(현지시간) 이란과의 종전 협상이 타결될 경우 이란과 협력해 이란이 보유한..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n4bcfcc40",
     "category": "IT",
     "source": "테크M",
-    "time": "59분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152418",
     "title": "[테크M 이슈] PC방에서 그래픽카드 쏜 젠슨 황 CEO...장병규·김택진 만나 \"아이 러브 코리아\"",
     "summary": [
@@ -504,24 +582,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2de43bb7",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608001200007",
-    "title": "잉글랜드 '득점 기계' 케인 \"내 커리어 통틀어 최고의 컨디션\"",
-    "summary": [
-      "(과달라하라=연합뉴스) 오명언 기자 = 잉글랜드 축구대표팀의 '캡틴' 해리 케인(바이에른 뮌헨·32)이 2026 북중미 월드컵 본선 개막을 앞두..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n3898f454",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260608_0003659450",
     "title": "이탈리아 국방 \"나토, 한국·일본 등 새로운 회원국 모색해야\"",
     "summary": [
@@ -534,26 +598,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1ac2a8da",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659248",
-    "title": "'상상초월 물가' 월드컵…맥주 한 잔 '2만6000원'",
+    "id": "n30898d99",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2시간 전",
+    "url": "https://view.asiae.co.kr/article/2026060800453825203",
+    "title": "트럼프 \"금리 인하해야\"…워시 첫 FOMC 앞두고 압박",
     "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵 개막이 일주일도 남지 않은 가운데 경기장 내 높은 음료 가격으로 인해 참가국 국민들의 불만이 나오고 있다.",
-      "잉글랜드는 7일(한국시간) 미국 플로리다에 위치한 레이먼드 제임스 스타디움에서 열린 친선경기에서 뉴질랜드를 1-0으로 꺾었다.",
-      "잉글랜드는 돌아오는 11일 코스타리카와 두 번째 친선경기를 치른 뒤 본선에 돌입한다."
+      "도널드 트럼프 미국 대통령은 예상보다 강한 고용지표가 나왔다고 해서 연방준비제도(Fed)가 금리를 인상하는 것은 잘못된 판단이라고 주장했다.",
+      "다만 그는 케빈 워시 Fed 의장이 첫 연방공개시장위원회(FOMC) 회의를 앞둔 만큼 자신은 그의 결정에 영향을 주고 싶지 않다고 말했다.",
+      "트럼프 대통령은 7일(현지시간) 방송된 NBC와의 인터뷰에서 \"요즘은 좋은 경제지표가 나오면 시장이 금리 인상을 우려해 오히려 하락한다\"며 \"금리."
     ],
     "chips": [
-      "#뉴스"
+      "#금리",
+      "#고용",
+      "#정치"
     ]
   },
   {
     "id": "n7038657b",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152417",
     "title": "'택진이형'과 엔비디아의 오랜 인연...강남 PC방서 울려퍼진 \"TJ! TJ!\"",
     "summary": [
@@ -569,7 +635,7 @@ window.NEWS_DB = [
     "id": "n27c403eb",
     "category": "경제",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260607/134065169/2",
     "title": "스페이스X 상장 카운트다운… 국내 첫날 청약 완판",
     "summary": [
@@ -580,69 +646,6 @@ window.NEWS_DB = [
     "chips": [
       "#채용"
     ]
-  },
-  {
-    "id": "n26ef399c",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260607/134065184/2",
-    "title": "스페이스X, 구글과 46조원대 AI데이터센터 ‘클라우드 임대 계약’",
-    "summary": [
-      "글로벌 빅테크 구글이 일론 머스크의 스페이스X와 300억 달러(약 46조8000억 원) 규모의 초대형 컴퓨팅 파워 구매 계약을 맺었다.",
-      "스페이스X의 인공지능(AI) 데이터센터를 클라우드 형태로 빌려 쓰기로 한 것.",
-      "AI 시장 주도권을 거머쥐기 위한 빅테크들의 막대한 데이터센터 인프라 확보 경쟁이, 경쟁사끼리 서슴없이 인프라를 공유하는 ‘적과의 동침’으로 이어지는 모습이다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nd5f690a9",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260607/134065250/2",
-    "title": "더 팍팍해진 2030… 가구 소득 줄었는데, 월세는 뛰어 ‘허덕’",
-    "summary": [
-      "경기 화성시 전셋집에 사는 직장인 이상민 씨(32)는 전세 보증금을 마련하려고 받은 대출 원리금을 갚는 데 매달 약 50만 원을 쓰고 있다.",
-      "최근 회사 실적 악화로 성과급이 지난해보다 200만 원가량 줄었다.",
-      "이 씨는 “전세 대출 갚는 부담이 큰데 소득은 줄고 물가는 올라가 고민이 크다”고 말했다."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "nb83f5140",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260607/134065243/2",
-    "title": "“키위 케이크, 입안에서 살살 녹아요”",
-    "summary": [
-      "7일 서울 용산구 이마트 용산점 베이커리 매장에서 모델들이 ‘키위에 무너진 골드 키위 케이크(2만7980원)’와 ‘떠먹는 골드키위 케이크(8980원)’를 소개하고 있다.",
-      "신세계푸드는 4∼11월에 주로 수입되는 뉴질랜드산 골드키위를 활용해 디저트 신제품 2종을 선보였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ead1832",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659446",
-    "title": "이스라엘, 레바논 헤즈볼라 거점 공습…\"최소 11명 부상\"",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 이스라엘과 레바논이 미국 주재로 새 휴전에 합의한 가운데, 이스라엘이 7일(현지 시간) 레바논 수도 베이루트를 공습했다.",
-      "타임스오브이스라엘(TOI) 등에 따르면 베냐민 네타냐후 이스라엘 총리와 이스라엘 카츠 국방장관은 공동성명을 통해 베이루트 남부 교외 다히예 지역을 공격했다고 밝혔다.",
-      "다히예 지역은 친이란 무장정파 헤즈볼라의 핵심 거점으로 알려진 곳으로, 이스라엘 측은 헤즈볼라 지휘 본부를 타격했다고 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -651,8 +654,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
@@ -662,7 +665,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "엔비디아",
     "mentions": "1550건",
     "trend": "+135%"
   }
