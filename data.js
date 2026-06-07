@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-07 01:42:32
+// 마지막 업데이트: 2026-06-07 03:03:07
 window.NEWS_DB = [
   {
     "id": "n5dd41f6d",
     "category": "부동산",
     "source": "뉴스1",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UaTJKQk1hektMQWpzb0NLWk41X3paQ3JGRTZVUzBTbUpCczM1NG1tLVJaS3Nnb0hkQzNqbXBVX0IxbjBSaGwwZjVVYXBoUHhqX3FXallCSG5RaFJtcTdUd1pmNmw?oc=5",
     "title": "집값 뚝뚝 떨어지는데…\"전세금 1억2천만원 더 올려달라네요\"",
     "summary": [
@@ -17,10 +17,27 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n72c079e9",
+    "category": "IT",
+    "source": "쿠키뉴스",
+    "time": "8시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWnRFeWhHQ3QtcWRHY3NFLUxvQXpOMWpaNk1oRUV5bUgyOWRZYklETm5GdVp5OVZVMlBHcTFjMXdzZHdlRk5jaVF0RGsxYXh1emh6WFktOGpkbktGYkFnUmNPaw?oc=5",
+    "title": "국산 AI반도체, 460억원 수출 성과…과기부 “엔비디아급 기술력” 자신",
+    "summary": [
+      "국산 AI반도체, 460억원 수출 성과…과기부 “엔비디아급 기술력” 자신 쿠키뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#수출"
+    ]
+  },
+  {
     "id": "nfa1c41a0",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
     "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
     "summary": [
@@ -33,26 +50,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08478446",
-    "category": "IT",
-    "source": "굿모닝베트남미디어",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQmFsNnFfVzQ3akNyMHdTbHBlUHkzdWZENUNhTkZrX18zN2NqcXhWa1lPT1g3R0RBY3UxVWNwWjY2T0N6NHFUcjBCcWpxdFB1MFlvR2lTSk82Uk15QlFLSFZoS29idEdKd0pfVkZXTmI?oc=5",
-    "title": "[산업·AI] 젠슨 황 엔비디아 CEO, 한국 공략 강화…“AI·반도체·로봇 협력 확대”",
-    "summary": [
-      "[산업·AI] 젠슨 황 엔비디아 CEO, 한국 공략 강화…“AI·반도체·로봇 협력 확대” 굿모닝베트남미디어."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nc3609b09",
     "category": "사회",
     "source": "브런치",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NDMyV3FJOVJzMUxNRXFOY3NYZ1ZIX0diNXVxNXRQUFRHZ0JyS0otb25zT3R3SGhEOUZaYWxaYlBEanZXWDhZSTYzcDU4TW82NmdZ?oc=5",
     "title": "중장년 지원금 신청 (재취업,고용,채용,일자리,취업)",
     "summary": [
@@ -68,7 +69,7 @@ window.NEWS_DB = [
     "id": "nbcccb229",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iOXlZN21icV9VY1RyYnN6MHg0VnV6cjZMRUJHY0ZocUxyVVVFVlpBR2dwdDV0UWdzanJsMVdqendMeENNbTZzNnMwb3UtdE1MNG1ibkJya0dYRkHSAWBBVV95cUxOMHliOEItM3NyRkt6elAwYnE5cGJRd1kzai1ab3A4TVZWNzJvUi1jdFQ4ZmVraG5KajhCMDROSE1pWDNfRTR2YjJvMkViMUN4aTBpc3F5OEdxUTdjVy1fUy0?oc=5",
     "title": "국산 AI반도체 400여억 수출…배경훈 \"엔비디아급 기술력\"(종합)",
     "summary": [
@@ -157,6 +158,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb3bb73fa",
+    "category": "경제",
+    "source": "헤럴드경제",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
+    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
+    "summary": [
+      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -172,14 +187,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n21d1500d",
+    "id": "n37646dcf",
     "category": "IT",
-    "source": "머니투데이",
+    "source": "유니콘팩토리",
     "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VVmZjQUtRa3BqUng5MnJtdExfX18tb0pLN1VyNEwwX2p4RW1HdTl5bmllWkVwTzQ4UWxPNFlMSFhKODJlend4V3VaZi1Fay1IOWNLZTNoelBZOEExZi1YM1VyOXlRbTNzS3fSAW9BVV95cUxOVUFfeEtOaklFeHNHY3JRbVhXNDVNTVdtOE5QVjFRT1hLS2ltVmY5d29id195bnFxSXoySHFKdXM4VUQyN1RZWS01b3BFeXJJWGZBNXVIdk5CbkFobmIyZ3JpQXhxQU9KZ2FLN0pTdTg?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이 머니투데이."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -200,14 +215,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n039a53c8",
+    "id": "n1a25f504",
     "category": "경제",
-    "source": "조선일보",
+    "source": "마켓인",
     "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEcyd3RySjdPelJIanpZNlF1N2xBM3h6VFFaRnloZm9Zai1DQUhQVE9yWHJXNlRkVDd6bnlJbGlLcHhkN0ZZeHRyRFBZRklZWlZwVmVQdTVHR3UtdWtPMk04bUhKeVU5WDdqN2tDZHZDc3R2VndtQUxBcWRMQjgzVlVyNXZGSEdNLS1ma3FR?oc=5",
-    "title": "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은?",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KM1A2UlB1aWxvNHl3RTNpTzItS19rbFlkT2EzMWZYR3BqNTJfcWlZM0tpcHdGTk1OelB6bWxlSW85OXdCWlBTYVdLaVhVdjAtcHVyUHhQZEhmZjYtUWllVG96RmZfcDlWckdVMVBOekFlb0U?oc=5",
+    "title": "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합)",
     "summary": [
-      "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은? 조선일보."
+      "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합) 마켓인."
     ],
     "chips": [
       "#금리",
@@ -232,20 +247,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n35b9d663",
-    "category": "경제",
-    "source": "KB Think",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
-    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
-    "summary": [
-      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n00c2ed38",
     "category": "경제",
     "source": "비즈니스포스트",
@@ -263,6 +264,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n64476ff1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "48일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "summary": [
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -274,20 +289,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n8988be77",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "103일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -386,229 +387,34 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nea0f945e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659081",
-    "title": "\"자비와 상생의 빛 밝힌다\"…제4회 평화기원예술제",
-    "summary": [
-      "[서울=뉴시스]이수지 기자 = 한반도와 지역 평화와 안녕을 발원하고, 자비 나눔을 통해 상생의 가치를 실현하는 불교 문화 축제가 열린다.",
-      "양주불교사암연합회가 오는 12일 양주별산대 놀이마당에서 '제4회 양주시 평화기원예술제'를 봉행한다고 밝혔다.",
-      "이번 예술제는 연합회가 양주시민의 화합 도모와 발전과 번영을 부처님 전에 발원하려고 마련한 행사다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29e954ab",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659082",
-    "title": "반도체 훈풍에도 잠재성장률 하락…내년 첫 1.5% 붕괴 전망",
-    "summary": [
-      "[서울=뉴시스]권안나 기자 = 반도체 수출 호조에 힘입어 우리나라의 경제성장률 전망은 높아졌지만, 경제의 기초체력을 의미하는 잠재성장률은 지속 하락할 것이라는 경제협력개발기구(OECD) 분석이 나왔다.",
-      "특히 내년 4분기 잠재성장률은 관련 통계 집계 이후 처음으로 1.5%를 밑돌 것으로 전망됐다.",
-      "7일 OECD가 최근 공개한 한국 경제전망 보고서 세부 통계에 따르면 우리나라의 잠재성장률은 지난해 1.85%에서 올해 1.66%, 내년 1.52%로."
-    ],
-    "chips": [
-      "#반도체",
-      "#수출"
-    ]
-  },
-  {
-    "id": "nf87d3513",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026060710373493701",
-    "title": "포스코그룹, 23개국서 '글로벌 볼런티어 위크' 진행…임직원 2만4000명 참여",
-    "summary": [
-      "포스코그룹이 국내외 전 그룹사 임직원이 참여하는 연중 최대 규모 사회공헌 활동인 '2026 글로벌 볼런티어 위크(Global Volunteer Week)'를 지난 4일부터 9일간 진행한다고 7일 밝혔다.",
-      "글로벌 볼런티어 위크는 포스코그룹을 대표하는 사회공헌 프로그램으로, 매년 5~6월 특별 봉사주간을 지정해 국내외 23개국 약 2만4000명의 임직원이 참여하는 활동이다.",
-      "국가와 지역별 특성을 반영한 맞춤형 봉사를 실시하며 올해로 17년째를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n17392258",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/07/GA3WMN3GGU3TMOLFGZSTCOBYGA/",
-    "title": "[댈러스ON]\"나도 '쏘니' 팬이에요!\" 홍명보호 첫 상대 체코 '깜짝' 고백…경계 대상 1호 '단연' 캡틴 손흥민",
-    "summary": [
-      "[헬스(미국)=스포츠조선 김가을 기자]팬심(心)은 잠시 접어둬야 한다.",
-      "체코가 월드컵 '첫 상대' 홍명보호를 극도로 경계했다.",
-      "체코축구대표팀은 6일(이하 한국시각) 미국 텍사스주 맨스필드의 텍사스 헬스 맨스필드 스타디움에서 본격 훈련에 나섰다."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n9e80082d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659054",
-    "title": "군체, 박스오피스 1위 질주…500만 관객 목전",
-    "summary": [
-      "[서울=뉴시스] 이종희 기자 = 영화 '군체'가 박스오피스 1위를 유지하며 500만 관객에 다가섰다.",
-      "7일 영화관입장권 통합전산망에 따르면 '군체'는 전날 28만1926명이 관람해 박스오피스 1위를 지켰다.",
-      "누적 관객 수는 452만3309명으로 집계됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n04ec9be0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659070",
-    "title": "무대 바꿔 관객 넓힌다…'안동·김해 문화예술' 협력 확대",
-    "summary": [
-      "[안동=뉴시스] 김진호 기자 = 경북 안동시와 경남 김해시가 지역 공연예술 활성화를 위한 교류 사업을 본격 추진한다.",
-      "안동문화예술의전당은 지난해 김해문화의전당과 체결한 업무협약을 바탕으로 '지역 전문예술인 공연 교류 활성화 사업'을 추진한다고 7일 밝혔다.",
-      "이번 사업은 지역 공연단체들이 타 지역 공연장 무대에 설 수 있도록 지원해 활동 영역을 넓히고 공연 유통 기반을 확대하기 위해 마련됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85e1c5d9",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260607/134062060/1",
-    "title": "‘차상현호’ 여자 배구, AVC컵 첫 경기서 키르기스스탄 3-0 완파",
-    "summary": [
-      "여자 배구 대표팀이 2026 아시아배구연맹(AVC) 네이션스컵 첫 경기에서 기분 좋은 첫발을 내디뎠다.차상현 감독이 이끄는 한국은 6일(한국시간) 필리핀 캔던 시티에서 열린 대회 조별리그 A조 1차전에서 키르기스스탄을 세트스코어 3-0(25-7 25-5 25-7)으로 완파했다.차상현 감독은 ‘대표팀 사령탑 데뷔전’을 승리로 장식했다.",
-      "이날 한국은 한 수 아래의 키르기스스탄을 시종일관 압도했으며, 3세트 동안 단 19점밖에 주지 않았다.한국에선."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n616b4327",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607017200104",
-    "title": "印덮친 'Z세대 분노'…팔로워 2천200만 '바퀴벌레국민당' 첫시위",
-    "summary": [
-      "(자카르타=연합뉴스) 손현규 특파원 = 최근 인도에서 대법원장의 모욕적 발언을 계기로 출범한 Z세대(1995∼2007년생) 온라인 단체가 처음으..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2fbbd5b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026060710324385514",
-    "title": "OECD \"韓 잠재성장률 내년 1.5% 아래 전망\"",
-    "summary": [
-      "내년 우리나라 잠재성장률이 처음으로 1.5%를 하회할 것이라는 전망이 나왔다.",
-      "7일 경제협력개발기구(OECD)가 지난 3일 공개한 데이터에 따르면 한국의 잠재성장률은 지난해 1.85%에서 올해 1.66%로 0.19%포인트 떨어질 것으로 추정됐다.",
-      "내년에는 1.52%로 0.14%포인트 더 하락한 예상 수치가 나왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30893355",
+    "id": "na3c44a57",
     "category": "IT",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/202606061037i",
-    "title": "황승택 하나증권 센터장 \"장기투자한다면 AI 반도체·우주항공 유망\"",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/economy/2026/06/07/2026060515353734622",
+    "title": "AI 도입 3년, '주 1.5시간' 아꼈지만 생산성은 그대로",
     "summary": [
-      "황승택 하나증권 센터장 \"장기투자한다면 AI 반도체·우주항공 유망\"."
+      "생성형 인공지능(AI)이 빠르게 확산되며 업무 효율을 높이고 있지만, 아직 경제 전반의 생산성 향상으로는 이어지지 못하고 있다는 분석이 나왔다.",
+      "AI 활용으로 업무시간은 줄었지만 절감된 시간이 실제 생산 증가로 연결되지 않는 이른바 '생산성 단절' 현상이 나타나고 있다는 진단이다.",
+      "한국은행 조사국 고용연구팀이 8일 발표한 'AI 도입은 생산성을 높이는가? 초기 3년의 효과 분석' 보고서에 따르면 AI 사용 근로자는 업무시간이 평균 3.8% 감소."
     ],
     "chips": [
       "#AI",
-      "#반도체"
+      "#한은",
+      "#고용"
     ]
   },
   {
-    "id": "nfe767f69",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607018900054",
-    "title": "순천서 시내버스 등 차량 3대 충돌…8명 다쳐",
-    "summary": [
-      "(순천=연합뉴스) 정회성 기자 = 7일 오전 9시 25분께 전남 순천시 교량동 한 교차로 인근 도로에서 시내버스, 1t 화물차, 스포츠유틸리티차..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc78a3b13",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607017400011",
-    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-    "summary": [
-      "[연합뉴스 이 시각 헤드라인] - 10:30."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c13b05a",
+    "id": "nedf312ce",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260605126100051",
-    "title": "부산국악원, 유네스코 세계유산위 개최 기념 국악 공연",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/economy/2026/06/07/2026060710512748443",
+    "title": "중기부, '소상공인 정책 알림톡' 서비스 성과…신청 최대 1.7배 증가",
     "summary": [
-      "(부산=연합뉴스) 조정호 기자 = 국립부산국악원은 제48차 유네스코 세계유산위원회의 부산 개최를 기념해 국악 공연을 선보인다고 7일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n534d8aee",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/202606071311i",
-    "title": "\"학원비·생활비 부담 던다\"…BC카드, '마이태그' 할인 풍성",
-    "summary": [
-      "\"학원비·생활비 부담 던다\"…BC카드, '마이태그' 할인 풍성."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9dd0800f",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "19분 전",
-    "url": "https://view.asiae.co.kr/article/2026060710110848220",
-    "title": "\"고립감에 힘들어\"…청년 '퇴사 브이로그' 분석 결과",
-    "summary": [
-      "중소벤처기업연구원이 유튜브에 게시된 중소기업 퇴사 경험을 다룬 브이로그 영상을 분석한 결과를 내놨다.",
-      "7일 중소벤처기업연구원은 2020년 2월부터 지난 2월까지 유튜브에 올라온 중소기업 퇴사 경험을 담은 영상 314개에 담긴 텍스트 53만 594자를 텍스트마이닝 기법으로 분석한 결과를 발표했다.",
-      "이 보고서는 연구원의 '중소기업정책연구' 최신호에 실렸다."
+      "중소벤처기업부(중기부)의 소상공인 대상 정책 알림톡 서비스 신청건수가 성과를 내고 있다.",
+      "중기부는 7일 정부의 지원사업 정보를 직접 탐색하기 어려운 소상공인을 대상으로 맞춤형 정책 안내를 강화한 결과 지원사업 신청이 증가하는 성과를 거두고 있다고 밝혔다.",
+      "그동안 소상공인 정책 정보는 공고 중심으로 제공되어 생업에 바쁜 소상공인은 정책 내용을 충분히 확인하기 어려웠다."
     ],
     "chips": [
       "#스타트업",
@@ -616,33 +422,237 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n50463840",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "26분 전",
-    "url": "https://view.asiae.co.kr/article/2026060710160955766",
-    "title": "정명근 화성시장, 복귀 후 첫 행보는 ‘보훈’…제71회 현충일 추념식 거행",
+    "id": "n8fb65b52",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/policy/2026/06/07/2026060711213719468",
+    "title": "행안부, 햇빛소득마을 1차 공모 마감…129개 마을 신청",
     "summary": [
-      "경기 화성특례시(시장 정명근)가 지난 6일 제71회 현충일을 맞아 화산동 현충탑에서 순국선열과 호국영령의 숭고한 희생정신을 기리는 추념식을 거행했다.",
-      "특히 이번 추념식은 정명근 화성특례시장이 시정에 복귀한 후 맞이한 첫 공식 행사라는 점에서 눈길을 끌었다.",
-      "정 시장이 복귀 후 첫 행보로 '보훈'을 선택하면서 국가유공자와 보훈가족에 대한 명예를 높이겠다는 시의 강력한 의지를 재확인하는 계기가 됐다."
+      "행정안전부는 '2026년 1차 햇빛소득마을' 공모 접수 결과 전국 11개 시·도, 61개 시·군에서 총 129개 마을이 신청했다고 7일 밝혔다.",
+      "햇빛소득마을 사업은 주민이 참여하는 태양광 발전사업을 통해 발생한 수익을 마을 공동체와 주민에게 환원함으로써 지역경제 활성화를 도모하는 사업이다.",
+      "이번 1차 공모는 주민 참여도와 부지 확보, 자금 조달 등 사업 추진 준비가 갖춰진 마을을 우선 발굴하기 위해 추진됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "necb88b85",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260607/134062030/1",
-    "title": "“밀가루 백발에 가죽 재킷이면 나도 젠슨 황?”…중국 청년 패러디 화제",
+    "id": "nb256c5b3",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/industry/2026/06/07/2026060710280430187",
+    "title": "상의 제주포럼 내달 15일 개막…최태원 회장 직접 마이크 잡는다",
     "summary": [
-      "중국의 한 농촌 청년이 엔비디아(NVIDIA) 최고경영자(CEO) 젠슨 황을 흉내 낸 영상으로 소셜미디어에서 화제를 모으고 있다.지난 2일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP)와 중국 현지 매체 등에 따르면, 중국 랴오닝성 단둥시의 한 농촌 마을에 거주하는 양양(28)은 최근 숏폼 플랫폼에서 젠슨 황 CEO를 모방한 영상을 올리고 있다.그는 젠슨 황의 중국어 이름을 동북 지역 방언 억양으로 바꾼 ‘@huangyinxun’이라는 계정을."
+      "대한상공회의소가 다음 달 15일부터 18일까지 제주신라호텔에서 '제49회 대한상의 제주포럼'을 개최한다고 7일 밝혔다.",
+      "최태원 대한상의 회장이 직접 한국 경제 성장 전략을 주제로 특별대담에 나선다.",
+      "제주포럼은 1974년 '제1회 최고경영자대학'으로 시작된 국내 경제계 대표 하계 포럼이다."
     ],
     "chips": [
-      "#엔비디아"
+      "#교육"
+    ]
+  },
+  {
+    "id": "n022731cd",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026060711322872716",
+    "title": "'좀비채권' 추심 칼 뺀 금융당국…대부업자 등 10개사 3개월 현장검사",
+    "summary": [
+      "금융당국이 불법추심과 최고금리 위반, 불법사금융 연계 등 서민·취약계층을 대상으로 한 '약탈적 금융행위' 근절을 위해 3개월간 대부업자 등을 대상으로 일제 현장검사를 실시한다.",
+      "금융감독원은 오는 8일부터 8월 28일까지 약 3개월간 대부업자와 온라인대부중개사이트 약 10개사를 대상으로 일제 현장검사를 실시한다고 7일 밝혔다.",
+      "민원사항과 과거 검사이력 등을 종합적으로 고려해 검사대상을 선정하고, 주요 점검 분야별."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n9163af94",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026060711285168677",
+    "title": "'소상공인 정책 알림톡' 발송 후 사업 신청 최대 1.7배 증가",
+    "summary": [
+      "중소벤처기업부가 정부의 지원사업 정보를 직접 탐색하기 어려운 소상공인을 대상으로 맞춤형 정책 안내를 강화한 결과, 지원사업 신청이 증가하는 성과를 거두고 있다.",
+      "중기부는 지난 3월 20~40대 여성 소상공인 21만3000명을 대상으로 고용노동부의 '출산급여 지원사업' 안내 알림톡을 발송한 결과, 발송 직후 사업 신청 건수가 기존 대비 1.3배 이상 증가한 것으로 나타났다고 7일 밝혔다.",
+      "이 가운데 상대적으로 정보 검색에 시."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n05f1726f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026060711180949127",
+    "title": "'의사상자·보훈보상대상자' 특허심판 국선대리인 선임 지원",
+    "summary": [
+      "지식재산처 특허심판원은 의사상자와 보훈보상대상자가 지식재산 심판을 진행할 때 국선대리인을 무료로 선임할 수 있도록 '국선대리인 선임 및 운영에 관한 규칙(총리령)'을 개정한다고 7일 밝혔다.",
+      "국선대리인 제도는 지식재산권을 둘러싼 분쟁이 발생했을 때 심판 대리를 무료로 선임할 수 있게 지원한다.",
+      "다만 기존에는 기초생활보장수급자와 장애인, 중소기업, 청년 창업자, 국가유공자 등 이용 대상자가 한정됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ad259ad",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026060710283571251",
+    "title": "\"성장의 FLOW로\"…대한상의 제주포럼 다음달 15일 개막",
+    "summary": [
+      "지난해 경주에서 열렸던 대한상공회의소 제주포럼이 올해 다시 제주에서 열린다.",
+      "대한상의는 다음달 15일부터 18일까지 나흘간 제주 신라호텔에서 제49회 제주포럼을 개최한다고 7일 밝혔다.",
+      "제주포럼은 1974년 '제1회 최고경영자대학'으로 시작된 경제계 대표 하계 포럼이다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n22c443e4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260605/134049736/2",
+    "title": "“조개 캐다 갇혔다”…갯벌에 발 빠졌다면 ‘이렇게’ 빼야 [알쓸톡]",
+    "summary": [
+      "전북 부안 갯벌에서 밀물 직전 고립된 주민 2명이 극적으로 구조된 사건을 바탕으로, 성인 걸음보다 3배 빠른 밀물의 위험성과 갯벌 고립 시 활용할 수 있는 안전 탈출법 및 예방 수칙을 소개합니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n28a46c45",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003659098",
+    "title": "'햇빛소득마을' 1차 공모에 129곳 신청…\"3천개 목표 최선\"",
+    "summary": [
+      "[서울=뉴시스] 강지은 기자 = 행정안전부는 올해 1차 햇빛소득마을 선정 공고를 마감한 결과, 전국 11개 시·도 및 61개 시·군에서 총 129개 마을이 신청했다고 7일 밝혔다.",
+      "햇빛소득마을 사업은 주민이 참여하는 태양광 발전 사업을 통해 발생한 수익을 마을 공동체와 주민에게 환원함으로써 지역경제 활성화에 기여하기 위한 사업이다.",
+      "이번 1차 공모는 사업 추진에 필요한 주민 참여, 부지 확보, 자금 조달 등 준비도가 높은 마을을 우선 발굴하기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n14995305",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003659088",
+    "title": "정부, OECD 각료이사회서 韓 성장세 강조…\"개방·혁신 기반 성장협력\"",
+    "summary": [
+      "[세종=뉴시스]박광온 기자 = 재정경제부는 허장 2차관이 지난 3~4일(현지 시간) 프랑스 파리에서 열린 경제개발협력기구(OECD) 각료이사회에 참석했다고 7일 밝혔다.",
+      "허 차관은 이사화에서 회원국들과 글로벌 경제 현안을 논의하고, OECD 및 프랑스 경제당국 고위 관계자들과 양자 면담을 가졌다.",
+      "올해는 한국의 OECD 가입 30주년으로, 한국은 이번 각료이사회에서 부의장국을 맡아 의제 선정 등 주요 논의 과정을 주도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc24167cb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003659074",
+    "title": "韓·라이베리아, 정보교환·징수공조 MOU…역외탈세 대응 강화",
+    "summary": [
+      "[세종=뉴시스] 안호균 기자 = 한국이 라이베리아와 첫 국세청장 회의를 열고 해외 재산 도피와 역외탈세 대응을 위한 협력을 강화하기로 했다.",
+      "7일 국세청에 따르면 임광현 국세청장은 지난 5일 서울에서 제임스 도버 잘라 라이베리아 국세청장과 제1차 한·라이베리아 국세청장 회의를 열고 정보교환 및 징수공조 협력 체계 구축 방안에 대해 논의했다.",
+      "라이베리아는 선사들에게 신속한 등록 절차와 유연한 규제 체계 등을 적용해 전 세계 선사들이 가장 많이 이."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n9fc3511a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260606_0003658747",
+    "title": "'EDM 페스티벌', 자본주의 끝판왕…김은성 '월디페'는 어떻게 사람 중심이 됐나",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 천재들만이 살아남는 무대 위에서 자신의 한계를 가장 먼저, 그리고 뼈아프게 직시한 뮤지션이 있었다.",
+      "그는 마이크를 내려놓는 대신 수만 명의 심장 박동을 지휘하는 거대한 믹서를 잡았다.",
+      "아티스트로서의 실패를 담담히 승인한 그 빈자리에, 관객이라는 이름의 진정한 주인공을 세워 올리기 위해서였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na7cbb6f2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/science/2026/06/07/FYEV4GAXTRDNPEEA43VJEH3FNA/",
+    "title": "“그쪽 당 지지자면 안 만날래요” 반대 정당 지지하면 데이트도 피했다",
+    "summary": [
+      "“그쪽 당 지지자면 안 만날래요” 반대 정당 지지하면 데이트도 피했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3d8cb0d2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607022600104",
+    "title": "태국, '8천억대 세금 체납' 탁신 전 총리 파산 절차 검토 경고",
+    "summary": [
+      "(자카르타=연합뉴스) 손현규 특파원 = 태국 정부가 지난해 대법원판결에도 8천억원대 세금을 체납 중인 탁신 친나왓 전 총리를 상대로 파산 절차를..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n770956ec",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/07/ZZKHN77TFRH6LL4HZIBDKA2XNI/",
+    "title": "가계 이자 비용, 올해 증가 전환…하위 20%는 역대 최대",
+    "summary": [
+      "가계 이자 비용, 올해 증가 전환…하위 20%는 역대 최대."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfdc20602",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260607/134062465/1",
+    "title": "사하라 사막에서 트럭 고장으로 약 50명 갈증으로 사망",
+    "summary": [
+      "알제리에서 니제르로 이동하던 트럭이 사하라 사막 한가운데에서 고장나면서 탑승했던 승객 최소 49명이 뜨거운 열기와 물 부족으로 인해 집단 사망했다.",
+      "트럭에 탑승했던 인원 중 생존자는 단 두 명 뿐이었다.",
+      "생존자 2명이 관련 사실을 당국에 알렸지만 이미 다수 희생자들이 나온 상태였다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -652,18 +662,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
