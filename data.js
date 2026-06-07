@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-07 13:31:34
+// 마지막 업데이트: 2026-06-07 14:34:58
 window.NEWS_DB = [
   {
     "id": "n1d64a4bf",
     "category": "IT",
     "source": "Vietnam.vn",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV24zX1lYUXNpMWlfb2FJb3ZtM043VFVCM3JmSWZnS3VFdE5uTXhKN1VTY3diOTRDd3dINzZWa3VxelBVd280a3VOZTF5VXNKbGt1X0oyVFhQQkR2cFg1U2EwTTlvMVdFVE1Rb0pielhIdm5oc2czNjRQV3ROYWVqWlpjQ0Z2SzJJbU13LThyMlUyZjcwbllELWd3?oc=5",
     "title": "한국은 엔비디아의 인공지능 야망에 있어 전략적 연결고리가 되었습니다.",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nbf9f67e8",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWC1KTmtlcXhGQ3FhSWFlYkRBSkYzZFhEdU83WXZoNTFfdkh0ZGc5MHJKWkhQTG1UNEUtZVpPWHI4TEVXZXFYRm4wNVdOR2RaZ0lSU2dROHZYZ9IBXkFVX3lxTFAzLTdHdmQ1dktMcm1vakF3d2dZQ0hobUhwSWgtMDhaR2NQaDBGT0Foc3M4Q0NZVlg2ODhxRlhzSEs5WHA4eXRiSVpFa2lVeGE1SnN5U01ia05xS3FNSWc?oc=5",
     "title": "젠슨 황 '4가지 선물'… \"AI생태계 핵심축으로 한국 재입증\"[엔비디아 젠슨 황 방한]",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n5dd41f6d",
     "category": "부동산",
     "source": "뉴스1",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UaTJKQk1hektMQWpzb0NLWk41X3paQ3JGRTZVUzBTbUpCczM1NG1tLVJaS3Nnb0hkQzNqbXBVX0IxbjBSaGwwZjVVYXBoUHhqX3FXallCSG5RaFJtcTdUd1pmNmw?oc=5",
     "title": "집값 뚝뚝 떨어지는데…\"전세금 1억2천만원 더 올려달라네요\"",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n72c079e9",
     "category": "IT",
     "source": "쿠키뉴스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWnRFeWhHQ3QtcWRHY3NFLUxvQXpOMWpaNk1oRUV5bUgyOWRZYklETm5GdVp5OVZVMlBHcTFjMXdzZHdlRk5jaVF0RGsxYXh1emh6WFktOGpkbktGYkFnUmNPaw?oc=5",
     "title": "국산 AI반도체, 460억원 수출 성과…과기부 “엔비디아급 기술력” 자신",
     "summary": [
@@ -246,18 +246,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc92d59ae",
+    "id": "n98a572df",
     "category": "IT",
-    "source": "경기일보",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "source": "대한민국 정책브리핑",
+    "time": "39일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
     ],
     "chips": [
-      "#반도체",
-      "#고용"
+      "#스타트업",
+      "#정책"
     ]
   },
   {
@@ -289,17 +289,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8988be77",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "104일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQkoxdXhkOVBJNzZOUmRxZ28wV0tIQlZtUXBncmpKUGZNU2FWYVNLMEQ3OVBlSTBjcEpwTHRwc0g4eFVlZVpoNGk3TV92VDFrRDgwQ2taVmRCZXFZYnZJTEdpLVc?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "id": "n1e3b72e2",
+    "category": "사회",
+    "source": "매일경제 마켓",
+    "time": "117일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
+    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
     ],
     "chips": [
-      "#스타트업"
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -354,7 +355,7 @@ window.NEWS_DB = [
     "id": "ned7ffe2c",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152416",
     "title": "네이버 대표 출신 한성숙 중기부 장관, 국무총리 후보자 지명",
     "summary": [
@@ -369,279 +370,285 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n843c0f75",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026060722265294009",
-    "title": "미군 \"호르무즈 해상봉쇄로 지금까지 132척 회항·6척 무력화\"",
-    "summary": [
-      "미군은 호르무즈 해협 등에서의 해상 봉쇄 조치를 통해 지금까지 132척을 회상시켰다고 7일(현지시간) 밝혔다.",
-      "중동 지역 미군을 총괄하는 미 중부사령부(CENTCOM)는 이날 엑스(X)에서 \"6월 7일 기준으로 중부사령부는 (봉쇄) 조치 준수를 확고히 하고자 상선 132척을 회항시키고 6척을 무력화했다\"고 밝혔다.",
-      "지난 4월 7일 미국은 이란과 휴전 후 같은 달 13일부터 호르무즈 해협과 그 인근 해역에서 이란 항구를 드나드는 선박의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c05bb8f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/07/GEYTSY3EMRSWEOBSG5TDKMBQGU/",
-    "title": "찬란하게 빛난 김도영 \"왜 슈퍼스타인지 증명했다\" 꽃감독 극찬…그라운드를 지배했다 [광주승장]",
-    "summary": [
-      "[광주=스포츠조선 김영록 기자] \"김도영이 왜 슈퍼스타인지 보여준 경기였다.\" 3-3에서 앞서나가는 투런포, 6-6에서 결승 홈런.",
-      "고비 때마다 김도영이 찬란하게 빛났다.",
-      "KIA 타이거즈는 7일 광주 기아챔피언스필드에서 열린 삼성 라이온즈전에서 3시간 35분 혈투 끝에 7대6, 1점차 진땀승을 거뒀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba638de4",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659423",
-    "title": "젠슨 황 만난 최태원 회장 옆 정재헌 SKT 사장…'깐부회동' 왜 함께했나",
-    "summary": [
-      "[서울=뉴시스]박은비 기자 = 젠슨 황 엔비디아 최고경영자(CEO)이 최태원 SK 회장과 '깐부회동'하는 자리에 정재헌 SK텔레콤 사장이 동석해 그 배경에 관심이 쏠린다.",
-      "정 사장은 7일 오후 서울 강남구 깐부치킨 삼성점에서 최 회장과 함께 황 CEO를 만났다.",
-      "정 사장은 엔비디아 관계자들과 2시간여 치맥(치킨과 맥주)을 즐기고 귀가했다."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "na066fbe1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/07/DTKZ3LE3XZFXDLNOS27U3NG7NE/",
-    "title": "‘4연패 탈출’ 키움 설종진 감독 “알칸타라, 6이닝 완벽하게 책임졌다”",
-    "summary": [
-      "‘4연패 탈출’ 키움 설종진 감독 “알칸타라, 6이닝 완벽하게 책임졌다”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2a2670d8",
+    "id": "n714d3bb4",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659422",
-    "title": "안산 종이상자 제조 공장 화재, 대응 2단계 격상(종합)",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003659434",
+    "title": "레이베이, 낭만을 복원한 서사…리본으로 묶어낸 취약함의 연대",
     "summary": [
-      "[안산=뉴시스] 양효원 기자 = 7일 오후 9시5분께 경기 안산시 단원구 성곡동 한 종이상자 제조 공장에 불이 났다.",
-      "\"불이 났다\"는 목격자 신고를 받고 출동한 경기소방은 오후 9시10분 연소 확대 우려로 대응 1단계를 발령했다.",
-      "이어 진압 과정에서 불이 계속 인근 공장으로 번지자 오후 9시48분 대응 단계를 2단계로 격상했다."
+      "[고양=뉴시스]이재훈 기자 = 무대 위에서 펼쳐지는 것은 단순한 쇼가 아니었다.",
+      "그것은 긴 호흡으로 관객의 내면을 껴안고 서서히 공감하게 만드는 정교한 심리적 유기체이자, 음악으로 쓴 한 편의 문학이었다.",
+      "'그래미 어워즈' 2연속 수상에 빛나는 중국계 아이슬란드 싱어송라이터 겸 프로듀서 레이베이(Laufey)가 한국 팬들과 다시 만났다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1d47c55b",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "17분 전",
-    "url": "https://www.hankyung.com/article/2026060719447",
-    "title": "\"잠실 '선결제' 해줘!\" 요구에…박보영 \"타격 없다\" 대처",
-    "summary": [
-      "\"잠실 '선결제' 해줘!\" 요구에…박보영 \"타격 없다\" 대처."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb1327ef2",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659421",
-    "title": "천안시티 박진섭 감독 \"아쉽지만 충분히 가치 있는 1점\"",
-    "summary": [
-      "[천안=뉴시스]최영민 기자 = K리그2 천안시티FC(천안) 박진섭 감독이 아쉬운 경기였지만 충분히 가치 있는 승점 1점을 얻었다고 평가했다.",
-      "천안은 7일 천안종합운동장에서 열린 하나은행 K리그2 2026 15라운드 수원FC와 경기에서 두 골씩 주고받으며 2:2로 비겼다.",
-      "특히 이날 경기는 추가시간에 양 팀이 한 골씩 주고받으며 경기장을 들썩이게 만들어 더욱 눈길을 끌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfccba192",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607052851061",
-    "title": "안산 포장지 공장서 화재…소방 대응 2단계 상향(종합)",
-    "summary": [
-      "(안산=연합뉴스) 강영훈 기자 = 7일 오후 9시 5분께 경기도 안산시 단원구 성곡동 소재 포장지 공장에서 불이 나 소방당국이 대응 2단계를 발..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfddeac3f",
+    "id": "n0e7b23c0",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607053000505",
-    "title": "[부고] 이인재(전 한화임팩트 부사장)씨 부친상",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260607/134066430/2",
+    "title": "[사설]李 2년차 내각, 지금보다 장관들이 더 많이, 더 잘 보여야",
     "summary": [
-      "[부고] 이인재(전 한화임팩트 부사장)씨 부친상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5e92de90",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659412",
-    "title": "이란 의원, \"호르무즈해협 통행 선박에 최대 30억원 받아\"",
-    "summary": [
-      "[서울=뉴시스] 김재영 기자 = 이란의 허가로 호르무즈해협을 통과한 배들은 현재 평균 150만~200만 달러(30억 원)의 통행료를 내고 있다고 이란의 중진 국회의원이 말했다.",
-      "7일 CNN에 따르면 의회 예산기획위원회 소속 모센 잔제네 의원이 반관영 파르스 통신과 인터뷰에서 이 같은 규모의 통행료를 공개했다.",
-      "이란은 3월 4일부터 페르시아만과 오만만을 연결하는 호르무즈해협을 통제할 권리가 있다고 주장하며 1000척 이상의 배의 통행을 막았다."
+      "이재명 정부 집권 2년 차가 시작됐다.",
+      "첫해가 12·3 비상계엄 사태에 따른 혼란을 수습하고 개혁의 방향타를 잡는 시기였다면 이제부터는 국민이 체감할 수 있는 국정 성과로 답해야 한다.",
+      "총리와 각료, 청와대 참모 교체만으로 변화가 절로 오지 않는다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n3123b4b0",
+    "id": "nce09f818",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260607/134066434/2",
+    "title": "[사설]장동혁 대표, 더 버티려고 또 꼼수 쓰나",
+    "summary": [
+      "국민의힘 장동혁 대표가 7일 투표용지 부족 사태와 관련해 또다시 재선거를 주장하고 나섰다.",
+      "그러면서 “서울만의 문제가 아니다”라며 이번 지방선거 결과 자체를 부정하는 듯한 모습까지 보였다.",
+      "정작 국민의힘이 선거에서 참패한 다음 날인 4일 열린 국민의힘 의원총회에는 불참했던 장 대표다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n08da86f4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260607/134066432/2",
+    "title": "[사설]“사생활 침해만 사실적시 명예훼손 처벌”… 법 개정 나서라",
+    "summary": [
+      "법무부 산하 자문기구인 형사법개정특별위원회가 사실적시 명예훼손죄에 대해 ‘사생활에 관한 중대한 비밀을 침해한 경우’에만 처벌하는 쪽으로 법을 개정해야 한다고 의견을 모았다.",
+      "적용 범위를 대폭 축소해 과잉 처벌을 막아야 한다는 취지다.",
+      "그동안 법조계에서는 이 조항이 헌법상 표현의 자유를 지나치게 제약한다는 지적이 끊이지 않았다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n0f793295",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607036200005",
-    "title": "'영크크' 코르티스에 '원조 월드스타' 비까지…열기 가득 위콘페",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607054500072",
+    "title": "伊국방장관 \"나토, 韓·日·호주·브라질 등 회원국 확대해야\"",
     "summary": [
-      "(서울=연합뉴스) 이태수 기자 = 2026년 가요계 대세로 떠오른 '영크크'(영 크리에이터 크루) 코르티스부터 '원조 월드스타' 비까지 다양한 ..."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 귀도 크로세트 이탈리아 국방장관은 북대서양조약기구(NATO·나토)가 유럽과 북미 대륙을 넘어, 한국을 포함한..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n846f2d2a",
+    "id": "n1217583c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003659435",
+    "title": "트럼프 \"이란과 합의하면 HEU 협력해 폐기…불발 땐 미군이 제거\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 도널드 트럼프 미국 대통령이 이란과 종전에 합의한다면 미군이 이란과 협력해 고농축 우라늄(HEU)을 회수·폐기할 것이라고 밝혔다.",
+      "합의가 불발할 경우 이란의 군사력을 더욱 약화시켜 미군이 자체적으로 안전하게 HEU를 회수하겠다고 말했다.",
+      "트럼프 대통령은 7일(현지 시간) NBC뉴스 '밋 더 프레시' 인터뷰에서 \"만약 우리가 우호적인 관계를 유지하는 합의에 도달한다면 모두 함께 움직일 것이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nac8d5100",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260607/134066586/3",
+    "title": "[김승련 칼럼]계엄에 망가진 野, ‘공소취소’에 시험 든 與",
+    "summary": [
+      "국민의힘은 이번 지선에서 광역단체장 기준 ‘12 대 4’로 참패했다고 평가받지만, 민심 지형을 보여주는 숫자가 더 있다.",
+      "광역단체장 기준 두 정당 후보 16명씩이 얻은 총 득표수 비율로, 51% 대 42%였다.",
+      "1년 전 대선 때 이재명(49%), 김문수(41%) 후보가 얻은 지지율과 흡사하다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9745a425",
     "category": "경제",
-    "source": "한국경제",
-    "time": "32분 전",
-    "url": "https://www.hankyung.com/article/2026060719437",
-    "title": "[속보] 안산 성곡동 공장서 화재…대응 1단계 발령",
+    "source": "아시아경제",
+    "time": "23분 전",
+    "url": "https://view.asiae.co.kr/article/2026060723113002433",
+    "title": "구다이글로벌, CJ올리브영 출신 구창근 공동대표 선임…글로벌 유통 강화",
     "summary": [
-      "[속보] 안산 성곡동 공장서 화재…대응 1단계 발령."
+      "글로벌 뷰티기업 구다이글로벌이 구창근 신임 공동대표이사를 선임했다고 7일 밝혔다.",
+      "구 신임 대표는 삼성증권 애널리스트 출신으로 CJ그룹에 합류한 뒤 그룹 사업전략 관리와 함께 CJ푸드빌, CJ올리브영, CJ ENM 대표이사를 역임한 유통·플랫폼 분야 전문 경영인이다.",
+      "CJ푸드빌 대표 재임 당시에는 생산 기반 강화와 투썸플레이스 분리·성장을 주도하며 멀티 브랜드 사업 구조 최적화 역량을 인정받았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n382d669d",
+    "id": "n0d9a3ae8",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "25분 전",
+    "url": "https://www.mt.co.kr/economy/2026/06/07/2026060723025357355",
+    "title": "李대통령, 내일 선관위 뺀 4부 요인 회동…\"투표용지 부족사태 철저 규명\"",
+    "summary": [
+      "6·3 지방선거 투표용지 부족사태의 여파가 커지는 가운데 이재명 대통령이 오는 8일 4부 요인과 만남을 갖는다.",
+      "선거관리위원회에 대한 견제와 감시 필요성 등이 논의될 것이란 전망이다.",
+      "청와대는 8일 오후 청와대에서 4부 요인이 회동할 예정이라고 7일 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0ad210e6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/07/HA4DEMBTGEYDAODCG42GCYRTHE/",
+    "title": "이소라, 최종 합격 속 속내 고백..“홍진경과 20년 관계 끊어졌는데” (‘소라와 진경’)[순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘소라와 진경’ 이소라와 홍진경이 합격의 기쁨을 만끽했다.",
+      "7일 방송된 MBC 예능 ‘소라와 진경’에서는 이소라와 홍진경이 최종 합격 문자를 받은 모습이 그려졌다.이날 두 사람은 수차례 피팅 오디션 끝에 최종 합격 문자를 받고 기쁨을 만끽했다.",
+      "서둘러 집으로 가는 차 안, 이소라는 “난 아까 베."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb889aa13",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260607054300082",
+    "title": "OPEC＋, 호르무즈 봉쇄후 4번째 원유 증산 합의",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 석유수출국기구(OPEC)와 주요 산유국 모임인 OPEC＋ 소속 7개국이 4개월 연속 석유 생산량 목표 확대..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n5f6c806d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/07/GEYTGY3DHE4GGMBRGAZWCNZSGQ/",
+    "title": "'충격의 역전패' 김도균 감독 \"감독을 계속해야 하나 생각이 들 정도의 결과\"[현장 기자회견]",
+    "summary": [
+      "[목동=스포츠조선 박찬준 기자]\"감독을 계속해야 하나 하는 생각이 들 정도의 결과였다.\" 김도균 서울 이랜드 감독의 분노였다.",
+      "서울 이랜드는 7일 목동종합운동장에서 열린 충북청주와의 '하나은행 K리그2 2026' 15라운드에서 막판 두 골을 내주며 1대2로 역전패를 당했다.",
+      "3경기 무패 행진을 멈춘 이랜드는 3위를 지키는데 만족해야 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5d21459c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003659440",
+    "title": "이 대통령, 내일 4부 요인 회동…선관위 투표용지 부족 사태 논의",
+    "summary": [
+      "[서울=뉴시스]조재완 기자 = 이재명 대통령은 오는 8일 조정식 국회의장과 조희대 대법원장, 김상환 헌법재판소장 등과 청와대에서 4부 요인 회동을 갖고 6·3 지방선거 투표용지 부족 사태에 대해 논의한다.",
+      "청와대 관계자는 7일 \"독립적 헌법기관인 선관위가 일차적 책임을 져야 하지만, 대통령이 국가원수로서 책임 있게 대응한다는 취지\"라며 \"국회와 대법원, 헌재가 각각의 역할이 있기 때문에 문제 해결을 위해 협의할 것\"이라고 설명했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na885260d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003659437",
+    "title": "무소속 김윤철 당선인 \"행정 연속과 조직 안정\" 통했다",
+    "summary": [
+      "[합천=뉴시스] 서희원 기자 = 보수 텃밭에서 국민의힘 후보를 누른 무소속 김윤철 경남 합천군수 당선인이 군민들에게 \"행정의 연속성과 조직 안정성\"을 강조한 것이 당선에 도움이 됐다.",
+      "김 당선인은 여당 후보 없이 국민의힘 후보와 양자 대결로 치러진 6·3 지방선거선거에서 국민의힘을 탈당한 현직 군수인 무소속 김윤철 후보가 피 말리는 접전 끝에 재선에 성공했다.",
+      "이번 선거에서 김 당선인은 1만3409표(50.46％)를 얻어 1만3162표(49.5."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nda9239dc",
     "category": "스포츠",
     "source": "조선일보",
     "time": "34분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/07/GA4WMNJSGNRTENDDMQ3GENLGMM/",
-    "title": "'1m99 장신 공격수 보유' 대놓고 피지컬 자랑하는 체코…홍명보 감독도 경계 \"피지컬, 신장 차 극복해야 한다\"",
+    "url": "https://www.chosun.com/sports/football/2026/06/07/MVTDEZBTMVQTGOJTME4TOOJSGE/",
+    "title": "'14경기만의 첫 승' 루이 퀸타 감독 \"한국에서 받은 선물 중 가장 뜻깊은 선물\"[현장 기자회견]",
     "summary": [
-      "'1m99 장신 공격수 보유' 대놓고 피지컬 자랑하는 체코…홍명보 감독도 경계 \"피지컬, 신장 차 극복해야 한다\"."
+      "[목동=스포츠조선 박찬준 기자]\"한국에서 와서 받은 가장 뜻깊은 선물이었다.\" 루이 퀸타 충북청주 감독의 미소였다.",
+      "충북청주가 마침내 첫 승을 거뒀다.",
+      "충북청주는 7일 목동종합운동장에서 열린 서울 이랜드와의 '하나은행 K리그2 2026' 15라운드에서 추가시간 터진 가르시아의 극장골로 2대1 역전승을 거뒀다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n82b9ca59",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "36분 전",
-    "url": "https://www.hankyung.com/article/2026060719347",
-    "title": "'러브샷'한 젠슨 황과 최태원…\"이제 진짜 깐부됐다\"",
-    "summary": [
-      "'러브샷'한 젠슨 황과 최태원…\"이제 진짜 깐부됐다\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1ed7552d",
+    "id": "n0d042c31",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607052700071",
-    "title": "미군 \"대이란 해상봉쇄로 지금까지 132척 회항·6척 무력화\"",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/07/GIZGCYRTMYZDENLDGNQWGYLFGM/",
+    "title": "홍진경, 파리서 임상효·장윤주와 같이 살았다..“집에 갇힌 적도” (‘소라와 진경’)[순간포착]",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미군은 이란을 겨냥한 호르무즈 해협 등에서의 해상 봉쇄 조치를 통해 지금까지 132척을 회상시켰다고 7일(..."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘소라와 진경’ 홍진경이 과거 살았던 집을 찾았다.7일 방송된 MBC 예능 ‘소라와 진경’에서는 피팅 오디션에 임하는 이소라와 홍진경의 모습이 그려졌다.이날 런웨이까지 가는 최종 단계인 피팅 오디션에 참석한 두 사람은 여러 의상을 피팅하고 워킹을 반복했다.",
+      "큰 신발에도 당황하지 않고 침착하게 워."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncf52d2bc",
-    "category": "IT",
+    "id": "n4296282f",
+    "category": "사회",
     "source": "아시아경제",
-    "time": "45분 전",
-    "url": "https://view.asiae.co.kr/article/2026060721455487518",
-    "title": "젠슨 황, 내일 SK와 협력안 공개…크래프톤·엔씨·현대차·두산 찍고 '깜짝 선물' 예고(종합)",
+    "time": "48분 전",
+    "url": "https://view.asiae.co.kr/article/2026060722464598673",
+    "title": "초유의 '투표용지 사태'…李대통령, 8일 '4부 요인' 만난다",
     "summary": [
-      "4박5일 간의 방한 일정을 이어가고 있는 젠슨 황 엔비디아 최고경영자(CEO)가 방한 3일차인 7일에도 PC방, 야구장, 치킨집 등을 휩쓸며 종횡무진하고 있다.",
-      "그는 이날 크래프톤·엔씨 등 게임사와 협력 범위를 확대하기로 한 데 이어, 정의선 현대차그룹 회장, 박정원 두산그룹 회장과 회동해 로보틱스 분야 협력 확대 가능성을 시사했다.",
-      "저녁에는 최태원 SK그룹 회장과 '깐부 회동'을 통해 SK하이닉스와도 \"올해 하반기와 내년에."
+      "이재명 대통령은 8일 오후 청와대에서 4부 요인 회동을 할 예정이라고 청와대가 전했다.",
+      "공석인 선거관리위원장을 제외하고 조정식 국회의장, 김민석 국무총리, 김상환 헌법재판소장, 조희대 대법원장이 참석 대상이다.",
+      "조 국회의장의 선출을 계기로 마련된 자리로 보이지만 최근 '투표용지 사태'로 파문이 커지고 있는 선관위 문제를 논의하는 자리가 될 전망이다."
     ],
     "chips": [
-      "#엔비디아",
-      "#SK하이닉스",
-      "#KBO"
+      "#정치"
     ]
   },
   {
-    "id": "n66faff6e",
+    "id": "n7f2b0414",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "50분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260607/134066438/1",
-    "title": "‘김도영 멀티포’ KIA, 삼성 제압…한화, 롯데 4연패 몰고 3연승",
-    "summary": [
-      "프로야구 KIA 타이거즈가 간판타자 김도영의 맹활약에 힘입어 주말 3연전 위닝 시리즈를 기록했다.KIA는 7일 광주 기아 챔피언스필드에서 열린 2026 신한 SOL KBO리그 삼성 라이온즈와의 홈경기에서 7-6으로 이겼다.주말 3연전 2승 1패 우위를 점한 KIA는 시즌 전적 32승1무27패로 4위를 유지했다.",
-      "3위 삼성(33승1무24패)와의 격차는 2게임으로 줄였다.KIA 승리의 일등 공신은 김도영이었다.",
-      "김도영은 이날 5타수 4안타(2홈런)."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n7becfda3",
-    "category": "IT",
-    "source": "아시아경제",
+    "source": "머니투데이",
     "time": "53분 전",
-    "url": "https://view.asiae.co.kr/article/2026060721380077762",
-    "title": "치맥·냉면 먹고 호두과자 선물받고…'젠슨 황 효과'에 웃는 외식업계",
+    "url": "https://www.mt.co.kr/sports/2026/06/07/2026060721022623704",
+    "title": "'충북청주에 역전패' 김도균 감독, 뼈아픈 일침 \"승격? '감독 계속해야 하나' 생각 들 정도 경기력\" [목동 현장]",
     "summary": [
-      "\"치맥보다 좋은 것은 없다(Nothing is better than 치맥).\" 7일 서울 잠실야구장 마운드에 오른 젠슨 황 엔비디아 최고경영자(CEO)는 한국 야구팬들에게 이같이 말했다.",
-      "시구를 마친 뒤 관중석에서 치킨을 먹었고, 저녁에는 최태원 SK그룹 회장과 함께 '치맥 회동'에 나섰다.",
-      "방한 기간 그는 냉면과 삼계탕, 칼국수 등 한국 음식점을 잇달아 찾았다."
+      "뼈아픈 역전패를 당한 김도균(49) 서울이랜드 감독이 선수단을 향해 일침을 가했다.",
+      "서울이랜드는 7일 오후 7시 30분 목동종합운동장에서 열린 충북청주와의 '하나은행 K리그2 2026' 15라운드 홈 경기에서 1-2로 역전패했다.",
+      "이날 이겼다면 수원 삼성(승점 29)을 제치고 2위로 올라설 수 있었던 서울이랜드는 승점 26(8승2무5패)로 3위를 유지했다."
     ],
     "chips": [
-      "#AI",
-      "#엔비디아",
-      "#KBO"
+      "#뉴스"
     ]
   }
 ];
@@ -650,21 +657,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "정치",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "엔비디아",
+    "tag": "뉴스",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "엔비디아",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
