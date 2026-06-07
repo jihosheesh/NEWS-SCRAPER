@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-07 15:28:51
+// 마지막 업데이트: 2026-06-07 16:28:08
 window.NEWS_DB = [
   {
     "id": "n1d64a4bf",
     "category": "IT",
     "source": "Vietnam.vn",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV24zX1lYUXNpMWlfb2FJb3ZtM043VFVCM3JmSWZnS3VFdE5uTXhKN1VTY3diOTRDd3dINzZWa3VxelBVd280a3VOZTF5VXNKbGt1X0oyVFhQQkR2cFg1U2EwTTlvMVdFVE1Rb0pielhIdm5oc2czNjRQV3ROYWVqWlpjQ0Z2SzJJbU13LThyMlUyZjcwbllELWd3?oc=5",
     "title": "한국은 엔비디아의 인공지능 야망에 있어 전략적 연결고리가 되었습니다.",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n5dd41f6d",
     "category": "부동산",
     "source": "뉴스1",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UaTJKQk1hektMQWpzb0NLWk41X3paQ3JGRTZVUzBTbUpCczM1NG1tLVJaS3Nnb0hkQzNqbXBVX0IxbjBSaGwwZjVVYXBoUHhqX3FXallCSG5RaFJtcTdUd1pmNmw?oc=5",
     "title": "집값 뚝뚝 떨어지는데…\"전세금 1억2천만원 더 올려달라네요\"",
     "summary": [
@@ -44,23 +44,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n72c079e9",
-    "category": "IT",
-    "source": "쿠키뉴스",
-    "time": "20시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWnRFeWhHQ3QtcWRHY3NFLUxvQXpOMWpaNk1oRUV5bUgyOWRZYklETm5GdVp5OVZVMlBHcTFjMXdzZHdlRk5jaVF0RGsxYXh1emh6WFktOGpkbktGYkFnUmNPaw?oc=5",
-    "title": "국산 AI반도체, 460억원 수출 성과…과기부 “엔비디아급 기술력” 자신",
-    "summary": [
-      "국산 AI반도체, 460억원 수출 성과…과기부 “엔비디아급 기술력” 자신 쿠키뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#수출"
     ]
   },
   {
@@ -97,10 +80,27 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbcccb229",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iOXlZN21icV9VY1RyYnN6MHg0VnV6cjZMRUJHY0ZocUxyVVVFVlpBR2dwdDV0UWdzanJsMVdqendMeENNbTZzNnMwb3UtdE1MNG1ibkJya0dYRkHSAWBBVV95cUxOMHliOEItM3NyRkt6elAwYnE5cGJRd1kzai1ab3A4TVZWNzJvUi1jdFQ4ZmVraG5KajhCMDROSE1pWDNfRTR2YjJvMkViMUN4aTBpc3F5OEdxUTdjVy1fUy0?oc=5",
+    "title": "국산 AI반도체 400여억 수출…배경훈 \"엔비디아급 기술력\"(종합)",
+    "summary": [
+      "국산 AI반도체 400여억 수출…배경훈 \"엔비디아급 기술력\"(종합) 연합뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#수출"
+    ]
+  },
+  {
     "id": "n38022242",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0pTME40YURudGhfd1FYdVlNQVFmQ05hZWlCUnd1bG1KcUY5cHJ5ckY5UW9TNkVMUUNKMzh4RWpuODlaRkdsbWZOS3MzVjZocWhQZW8ybGtrLWppbl8yalppR2FKTzc3ZFdpdVFmbFViYmdzREx6amsySG1hc3NqOS1B0gGWAUFVX3lxTE1aMWZ5eHRUTDI0MjlVbFQtUHpWQndoVzZ6VktVa29ySkJlODAzd3A1UnY2YnZ6dm03MzhXMFYtMkRmQjRNeW5iYkNvUDhtTENrRWlIa0VubjBCeDZ5eS1TazM1bkhhVUNfcmRVR3FIQmQxNFRoUFhMMV9UYzF1NlJPYkphOVhWLWF5QXgwYjN3WkVZTEhGdw?oc=5",
     "title": "HBM5 꺼낸 삼성전자, 시장 우위 강조한 SK하이닉스… 컴퓨텍스 2026서 HBM 주도권 경쟁 - 조선비즈",
     "summary": [
@@ -336,10 +336,177 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6b37ecae",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/08/GA2GCMZTMMYTGNZXMI3DIOBSGQ/",
+    "title": "6:0→6:6→7:6 짜릿한 끝내기로 기쁨 두 배...3연속 위닝 \"강팀 상대로 위닝 가져와 의미가 크다\"",
+    "summary": [
+      "[OSEN=창원, 한용섭 기자] 프로야구 NC 다이노스가 LG 트윈스에 끝내기 승리를 거두며 3연속 위닝시리즈를 이어갔다.",
+      "NC는 7일 창원 NC파크에서 열린 LG와 경기에서 9회말 최정원의 끝내기 안타로 승리했다.",
+      "LG와 3연전에서 첫 경기를 역전패했지만, 이틀 연속 승리하며 위닝에 성공했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n43e941b5",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/08/GYZDAOBWMNSDENRTGZQTOZJWHA/",
+    "title": "'일본을 응원하는 건가' 中에서 연봉만 3000억 번 브라질 오스카, 日 월드컵 어웨이 유니폼 착용 큰 반향..'협찬은 아니겠지'",
+    "summary": [
+      "[스포츠조선 노주환 기자]브라질 국가대표를 지냈고, 중국 슈퍼리그를 통해 엄청난 부를 얻은 축구 스타 오스카가 일본 월드컵대표팀의 원정 유니폼을 입어 큰 화제를 모았다.",
+      "EPL 첼시, 중국 상하이 상강(현 하이강) 등에서 활약한 후 지난 4월에 선수 은퇴를 발표한 전 브라질 대표 미드필더 오스카가 북중미월드컵에서 일본 대표 선수들의 어웨이 유니폼을 착용한."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n2de43bb7",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608001200007",
+    "title": "잉글랜드 '득점 기계' 케인 \"내 커리어 통틀어 최고의 컨디션\"",
+    "summary": [
+      "(과달라하라=연합뉴스) 오명언 기자 = 잉글랜드 축구대표팀의 '캡틴' 해리 케인(바이에른 뮌헨·32)이 2026 북중미 월드컵 본선 개막을 앞두..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5546d85",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608001000087",
+    "title": "월드컵 앞두고 빛의 향연…멕시코 성당 수놓은 '미디어 파사드'",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 지난 6일(현지시간) 밤 2026 북중미 월드컵 경기가 열리는 과달라하라 사포판."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63673574",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/08/GYZTQMRYGVSGKYRRHE3TQNLEGU/",
+    "title": "세상에 이럴수가, 코치가 엉덩이 두들겼다고 황당 아웃...선수들도 초당황, 기상천외 사건",
+    "summary": [
+      "[스포츠조선 김용 기자] 왜 거기서 엉덩이 터치를 해서...",
+      "정말 보기 드문 장면이 발생했다.",
+      "NC 다이노스가 끝내기 승을 거뒀기에 망정이지, 엄청난 후폭풍이 일어날 뻔 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3898f454",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003659450",
+    "title": "이탈리아 국방 \"나토, 한국·일본 등 새로운 회원국 모색해야\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 이탈리아 국방장관이 북대서양조약기구(NATO·나토)가 유럽과 북미를 넘어 한국, 일본 등 새로운 회원국을 찾아야 한다고 밝혔다.",
+      "귀도 크로세토 이탈리아 국방장관은 지난 5일 뉴욕타임스(NYT) 인터뷰에서 \"세계가 변화했기 때문에 나토는 유럽과 북미 대륙을 넘어 한국·일본·호주·브라질·인도 같은 새로운 회원국을 모색해야 한다\"고 주장했다.",
+      "크로세토 장관은 \"나토는 세계 일부 지역에 안전과 안정을 제공하고자 만들어졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n656d43e1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608000900082",
+    "title": "\"젤렌스키, 러 재벌 통해 푸틴에 정상회담 요청\"",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 지난달 러시아 재벌 로만 아브라모비치를 통해 블라디미르 푸틴 러시아..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1ac2a8da",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260607_0003659248",
+    "title": "'상상초월 물가' 월드컵…맥주 한 잔 '2만6000원'",
+    "summary": [
+      "[서울=뉴시스]박윤서 인턴 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵 개막이 일주일도 남지 않은 가운데 경기장 내 높은 음료 가격으로 인해 참가국 국민들의 불만이 나오고 있다.",
+      "잉글랜드는 7일(한국시간) 미국 플로리다에 위치한 레이먼드 제임스 스타디움에서 열린 친선경기에서 뉴질랜드를 1-0으로 꺾었다.",
+      "잉글랜드는 돌아오는 11일 코스타리카와 두 번째 친선경기를 치른 뒤 본선에 돌입한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n063b0b52",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608000800079",
+    "title": "\"호르무즈 통행 서비스료 징수 단계…선박당 150만~200만 달러\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란이 호르무즈 해협을 통과하는 선박 1척당 평균 150만∼200만 달러(약 23억∼30억원)의 서비스 요..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n30898d99",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "42분 전",
+    "url": "https://view.asiae.co.kr/article/2026060800453825203",
+    "title": "트럼프 \"금리 인하해야\"…워시 첫 FOMC 앞두고 압박",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 예상보다 강한 고용지표가 나왔다고 해서 연방준비제도(Fed)가 금리를 인상하는 것은 잘못된 판단이라고 주장했다.",
+      "다만 그는 케빈 워시 Fed 의장이 첫 연방공개시장위원회(FOMC) 회의를 앞둔 만큼 자신은 그의 결정에 영향을 주고 싶지 않다고 말했다.",
+      "트럼프 대통령은 7일(현지시간) 방송된 NBC와의 인터뷰에서 \"요즘은 좋은 경제지표가 나오면 시장이 금리 인상을 우려해 오히려 하락한다\"며 \"금리."
+    ],
+    "chips": [
+      "#금리",
+      "#고용",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc9f511c1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "55분 전",
+    "url": "https://www.chosun.com/economy/market_trend/2026/06/08/SIF2XTNXLRFYFBNAUFIWFHJOLA/",
+    "title": "[산업X파일] ‘호치’에서 ‘페포’로… 삼양 불닭면, 새 얼굴 내세우는 까닭은",
+    "summary": [
+      "[산업X파일] ‘호치’에서 ‘페포’로… 삼양 불닭면, 새 얼굴 내세우는 까닭은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n7038657b",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "56분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152417",
     "title": "'택진이형'과 엔비디아의 오랜 인연...강남 PC방서 울려퍼진 \"TJ! TJ!\"",
     "summary": [
@@ -352,10 +519,73 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n27c403eb",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "58분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260607/134065169/2",
+    "title": "스페이스X 상장 카운트다운… 국내 첫날 청약 완판",
+    "summary": [
+      "세계 기업공개(IPO) 사상 최대인 750억 달러(약 117조 원) 규모의 스페이스X 상장이 12일로 다가온 가운데, 국내 공모주 청약이 8일 마무리된다.",
+      "국내에선 일정 수준 소득 및 자산을 갖춘 전문 투자자를 대상으로 한 청약이 5일 시작돼 8일 끝난다.",
+      "첫날 3억 달러(약 4700억 원) 모집이 불과 몇 분 만에 마감될 정도로 관심이 높았다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n26ef399c",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "58분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260607/134065184/2",
+    "title": "스페이스X, 구글과 46조원대 AI데이터센터 ‘클라우드 임대 계약’",
+    "summary": [
+      "글로벌 빅테크 구글이 일론 머스크의 스페이스X와 300억 달러(약 46조8000억 원) 규모의 초대형 컴퓨팅 파워 구매 계약을 맺었다.",
+      "스페이스X의 인공지능(AI) 데이터센터를 클라우드 형태로 빌려 쓰기로 한 것.",
+      "AI 시장 주도권을 거머쥐기 위한 빅테크들의 막대한 데이터센터 인프라 확보 경쟁이, 경쟁사끼리 서슴없이 인프라를 공유하는 ‘적과의 동침’으로 이어지는 모습이다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nd5f690a9",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "58분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260607/134065250/2",
+    "title": "더 팍팍해진 2030… 가구 소득 줄었는데, 월세는 뛰어 ‘허덕’",
+    "summary": [
+      "경기 화성시 전셋집에 사는 직장인 이상민 씨(32)는 전세 보증금을 마련하려고 받은 대출 원리금을 갚는 데 매달 약 50만 원을 쓰고 있다.",
+      "최근 회사 실적 악화로 성과급이 지난해보다 200만 원가량 줄었다.",
+      "이 씨는 “전세 대출 갚는 부담이 큰데 소득은 줄고 물가는 올라가 고민이 크다”고 말했다."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "nb83f5140",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "58분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260607/134065243/2",
+    "title": "“키위 케이크, 입안에서 살살 녹아요”",
+    "summary": [
+      "7일 서울 용산구 이마트 용산점 베이커리 매장에서 모델들이 ‘키위에 무너진 골드 키위 케이크(2만7980원)’와 ‘떠먹는 골드키위 케이크(8980원)’를 소개하고 있다.",
+      "신세계푸드는 4∼11월에 주로 수입되는 뉴질랜드산 골드키위를 활용해 디저트 신제품 2종을 선보였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n8ead1832",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260607_0003659446",
     "title": "이스라엘, 레바논 헤즈볼라 거점 공습…\"최소 11명 부상\"",
     "summary": [
@@ -368,112 +598,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf650af1d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/06/08/BZXSCV35ZBBPLFPBA644AUIB6I/",
-    "title": "[사설] 참정권 침해에 맞선 2030, 그들의 분노에 귀 기울여야",
-    "summary": [
-      "[사설] 참정권 침해에 맞선 2030, 그들의 분노에 귀 기울여야."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nec724b4f",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608000200087",
-    "title": "이란축구대표팀, 월드컵 베이스캠프 멕시코 도착…담금질 시작",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 2026 북중미 월드컵 참가를 앞둔 이란 축구대표팀이 7일(현지시간) 베이스캠프가 차려진 멕시코에 도착..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4930434f",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/08/2026060723452661688",
-    "title": "\"월드컵 여신의 두 얼굴\" 사진 1장 때문에 '화장품 모델 광고' 잘렸다 \"동물 사체서 엽총 들고...\"",
-    "summary": [
-      "월드컵에서 화려한 외모로 스타덤에 올라 유명 화장품 모델로도 발탁됐던 벨기에 여성이 동물 사냥 사진 한 장 때문에 계약을 잃었던 사연이 재조명되고 있다.",
-      "영국 '더선'은 6일(한국시간) \"2014 브라질 월드컵 당시 관중석에서 포착돼 스타덤에 올랐던 악셀 데스피겔라에르(28)가 논란의 총기 게시물 탓에 '로레알'과의 모델 계약을 잃었다\"고 보도했다.",
-      "당시 10대 소녀였던 악셀은 대회 16강 벨기에 대 미국전에서 붉은 악마 뿔 머리띠와 얼굴 페인."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neab6e49d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/international/us/2026/06/08/EBBEADWRDZGJ7O7HBNQG36TIYI/",
-    "title": "트럼프, 이란과 합의 불발 시 “타격한 뒤 고농축우라늄 회수할 것”",
-    "summary": [
-      "트럼프, 이란과 합의 불발 시 “타격한 뒤 고농축우라늄 회수할 것”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n65a929d4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/08/GJRTQMJTGQ4WKYRXMZQTSODFG4/",
-    "title": "10회 무사 1·2루 끝내기 찬스에서 번트 실패, 11회 실책으로 결승점 허용...디테일 없는 롯데의 4연패 새드 엔딩 [오!쎈 부산]",
-    "summary": [
-      "[OSEN=부산, 조형래 기자] 한 번도 경기를 주도하지 못했다.",
-      "돌이켜보면 1회의 상황들이 아쉬울 수밖에 없다.",
-      "과연 롯데 자이언츠 입장에서는 1회 4실점까지 할 경기였는지, 그리고 이날 경기가 패배까지 이어질 경기였는지 곱씹어봐야 한다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n46570ad3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/opinion/palmyeonbong/2026/06/08/H64HGM3FZZFTPAMNJMPGYUWX4A/",
-    "title": "[팔면봉] 여당 “개헌해서라도 선관위 견제받게 하겠다”. 외",
-    "summary": [
-      "[팔면봉] 여당 “개헌해서라도 선관위 견제받게 하겠다”. 외."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na81ac0df",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607052551079",
-    "title": "이스라엘, '트럼프 만류'에도 레바논 수도 베이루트 공습(종합)",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘군이 7일(현지시간) 레바논 수도 베이루트를 공습했다고 일간 타임스오브이스라엘 등 현지 언론이 보도..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n37214d45",
     "category": "사회",
     "source": "아시아경제",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026060800044221237",
     "title": "트럼프 \"합의 시 HEU 공동 폐기…결렬되면 군사행동\"",
     "summary": [
@@ -489,7 +617,7 @@ window.NEWS_DB = [
     "id": "n615011df",
     "category": "사회",
     "source": "뉴시스",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260607_0003659295",
     "title": "흔들리는 강세장, ‘포모’와 ‘착각’ 경계하고 기본으로 돌아가야",
     "summary": [
@@ -502,119 +630,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncc4d7835",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "26분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/08/2026060701403628823",
-    "title": "'우승 세리머니를 강아지 안고?' 코트 위에선 새 여왕, 밖에선 19세 소녀... 안드레예바 반전 매력 화제",
-    "summary": [
-      "새로운 테니스 여왕이 탄생한 순간, 우승 트로피만큼 눈길을 끈 장면이 있었다.",
-      "미라 안드레예바(19·러시아)가 세계적인 테니스 대회 프랑스오픈 정상에 오른 뒤 강아지와 함께 우승의 기쁨을 나눴다.",
-      "안드레예바는 6일(한국시간) 프랑스 파리 롤랑가로스에서 열린 2026 프랑스오픈 여자 단식 결승에서 폴란드의 마야 흐발린스카(25)를 2-0(6-3 6-2)으로 꺾고 우승을 차지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3264f5c5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659079",
-    "title": "문가영이 지인한테도 선물하는 '이것' 뭘까?…눈에 올리니 '꿀잠' 솔솔",
-    "summary": [
-      "[서울=뉴시스]서영은 인턴 기자 = 배우 문가영이 평소 생각이 많아 쉽게 잠들지 못하는 고충을 토로하며, 자신만의 숙면 비결로 수면 안대를 꼽았다.",
-      "지난 4일 유튜브 채널 'W KOREA'에는 '목소리만 들어도 잠 오는 현상을 뭐라고 하죠? 문가영의 첫 ASMR! 잠들기 전 듣기 좋은 조곤조곤 근황 이야기'라는 제목의 영상이 게재됐다.",
-      "해당 영상에서 문가영은 평소 자주 사용하는 아이템들을 소개하며 자신의 수면 습관을 공개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n03a99893",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260607_0003659302",
-    "title": "\"반도체 다음은 피지컬 AI\"…KB증권 팀장의 하반기 주도주 전략",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = 국내 주식시장이 대형 반도체 종목으로만 자금이 쏠리는 극심한 차별화 장세를 보이는 가운데, 향후 시장을 이끌 포스트 주도주로 '피지컬 AI(로봇)' 섹터가 주목받고 있다.",
-      "7일 227만 구독자 유튜브 채널 '신사임당'에 출연한 민재기 KB증권 팀장은 빅테크 기업들의 천문학적인 AI 인프라 투자가 궁극적으로는 인간의 삶과 밀접한 '피지컬 AI'와 휴머노이드 로봇 영역으로 확장될 것이라고 내다봤다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n2205ccfa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na99c9378",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "31분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260607/134066753/1",
-    "title": "지구상 가장 고급스러운 SUV… 12기통 ‘롤스로이스 컬리넌’ 타보니",
-    "summary": [
-      "롤스로이스 브랜드 역사에서 컬리넌이 가지는 의미는 상당하다.",
-      "지난 2018년 처음 모습을 드러냈을 당시 브랜드 최초의 스포츠유틸리티차량(SUV) 모델이라는 점에서 전통적인 자산가들의 우려 섞인 시선도 존재했으나 시장의 반응은 성공적이었다.",
-      "컬리넌은 전 세계 시장에서 브랜드의 판매 실적을 견인한 것은 물론, 구매자의 평균 연령층을 기존 56세에서 43세로 낮추는 계기를 마련했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n93d377bf",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260607055200098",
-    "title": "하마스 연계 의혹 팔레스타인 남성, 그리스서 체포…\"테러 획책\"",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 팔레스타인 무장단체 하마스의 조직원으로 의심되는 팔레스타인 남성이 그리스 크레타섬에서 체포됐다고 AP통신 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6fe95cb2",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "39분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/07/2026060711190787535",
-    "title": "'상상 그 이상' 손흥민 인기 이 정도라니, 어떻게 '지구 반대편' 6살 어린이~40살 어머니 팬心까지 사로잡았나 [과달라하라 현장]",
-    "summary": [
-      "홍명보호의 에이스이자 주장 손흥민(LAFC)을 향한 멕시코 현지 팬들의 뜨거운 함성이 과달라하라 전역을 세차게 물들였다.",
-      "지구 반대편 멕시코 내에서 손흥민의 존재감과 인기는 그야말로 상상 그 이상이었다.",
-      "홍명보 감독이 이끄는 대한민국 축구 국가대표팀은 6일 오후 3시부터 4시 30분 경(현지시간)까지 멕시코 과달라하라의 베이스캠프 훈련장 치바스 바예 베르데에서 국제축구연맹(FIFA) 주관 커뮤니티 트레이닝을 진행했다."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
     "id": "ned7ffe2c",
     "category": "사회",
     "source": "테크M",
-    "time": "55분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152416",
     "title": "네이버 대표 출신 한성숙 중기부 장관, 국무총리 후보자 지명",
     "summary": [
@@ -627,22 +646,6 @@ window.NEWS_DB = [
       "#네이버",
       "#정치"
     ]
-  },
-  {
-    "id": "n0e7b23c0",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "58분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260607/134066430/2",
-    "title": "[사설]李 2년차 내각, 지금보다 장관들이 더 많이, 더 잘 보여야",
-    "summary": [
-      "이재명 정부 집권 2년 차가 시작됐다.",
-      "첫해가 12·3 비상계엄 사태에 따른 혼란을 수습하고 개혁의 방향타를 잡는 시기였다면 이제부터는 국민이 체감할 수 있는 국정 성과로 답해야 한다.",
-      "총리와 각료, 청와대 참모 교체만으로 변화가 절로 오지 않는다."
-    ],
-    "chips": [
-      "#정치"
-    ]
   }
 ];
 
@@ -651,18 +654,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "엔비디아",
     "mentions": "1550건",
     "trend": "+135%"
   }
