@@ -1,11 +1,41 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-08 11:34:20
+// 마지막 업데이트: 2026-06-08 13:22:49
 window.NEWS_DB = [
+  {
+    "id": "na542b62c",
+    "category": "IT",
+    "source": "디일렉",
+    "time": "6분 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SaDI5bE9sZnh1SThySXR6c3FONU1OdExTelJLS1JMdzZ5Vk1KcDZwYjVmcEdwUHI4LUZEREVzZDdEU0ljcmgwRjg0b3JQQmszMHptOEdrQTFUWEFqRW5mOGUyYWR1UQ?oc=5",
+    "title": "젠슨 황 만난 전영현 삼성전자 부회장 \"HBM4·파운드리 등 협력\"",
+    "summary": [
+      "젠슨 황 만난 전영현 삼성전자 부회장 \"HBM4·파운드리 등 협력\" 디일렉."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nde027b88",
+    "category": "IT",
+    "source": "녹색경제신문",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Xd1RTbjdoY3hrdnBnWkpDNlNyVnFXdWtyTGJ3THRqYWtNNTNnRzh4SVhlMXhfV242WWx2ZEljeTNoSGN1VVRxcDF0N2VnRFZEbHdnRGJydnE0N2ZvelpPRk5pWDFrd1dk?oc=5",
+    "title": "삼성·엔비디아, 반도체 공동개발 논의…전영현 \"지금껏 가장 좋은 대화\"",
+    "summary": [
+      "삼성·엔비디아, 반도체 공동개발 논의…전영현 \"지금껏 가장 좋은 대화\" 녹색경제신문."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nc18ecebf",
     "category": "IT",
     "source": "조선일보",
-    "time": "39분 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmdXNk5pNHUzVzdYZjF6eWplelZlZ0NDU3c1WUQ4bVhWWUpTaE1Za3hUb2d4emgyaE84QTJ4MFdjQW9NQ2ItLXJNaHVJNm1JN1FJNi1adDFWdUZMVHFQNUQ5dnViUHo4MG5ndWZiU19zdW1qV3ZJUk1sekJVRUI0MGJDVQ?oc=5",
     "title": "젠슨 황 만난 삼성 전영현 \"HBM·파운드리 협력 논의\"",
     "summary": [
@@ -16,41 +46,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n21270e96",
-    "category": "IT",
-    "source": "테크M",
-    "time": "41분 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DTEFfNjF3TUxNQ2F5TmxrT2J2cDBlUjlBcjdvRENyNmdWV21EQmk0OXB0WGcwb0RKeUVIdTlCYktJZUcxUGhoSk9odFdwWTIzSHQ2YnVBR2ZXeWVyM0NWRm1Sd0dWZ9IBakFVX3lxTE9FUjlQd25waHdUeTZKUXBFSGduckRJOG43LUExeDZvbEJXaFVWZ0o3TFRZNmhzWEoyNDE1bEJhWjFGVmFSNW1fSmI1VkZYMjROZ1JYQ2NWWld3cGQ5eFIxanF4MGpqdVlIaXc?oc=5",
-    "title": "전영현 삼성전자 대표 '엔비디아와 HBM4·파운드리 논의...결과로 보여주겠다'",
-    "summary": [
-      "전영현 삼성전자 대표 '엔비디아와 HBM4·파운드리 논의...결과로 보여주겠다' 테크M."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n31af3cbd",
-    "category": "경제",
-    "source": "에너지경제신문",
-    "time": "1시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
-    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
-    "summary": [
-      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
     "id": "n13b4af19",
     "category": "사회",
     "source": "대학IN",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
     "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
     "summary": [
@@ -67,7 +66,7 @@ window.NEWS_DB = [
     "id": "nfa1c41a0",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
     "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
     "summary": [
@@ -80,11 +79,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9dd88f4d",
+    "id": "nd8354e7f",
     "category": "IT",
     "source": "시사저널e",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMXhOQm1aSW1uMERiS2ZpRGF2ckVNd2RGektBdm8zaHVMeS11aWNyX1c1b0phM1k4bVNERFdpOUpjMEg5SnlpN1Q1d3MxTy04YkwwSW5qN1JOdzJERnN2Q3I3QlpQbEppUUE3d3dVOF9lZ9IBdkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXc?oc=5",
+    "time": "9시간 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXfSAXZBVV95cUxPdkx4dzBQTlREMUxrNlowdUFzRHN1UVB4aXVvX19OVUZSNWM3UU9Nb3Vnakszblc5enB2cVdJX2o4bEVjR2lqQmt6WFJvbEhtZHZDaDNQNk9pcHNMMFRvcU5Jb2ptZG5ST3FRZ0dybjNidWE0NTF3?oc=5",
     "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
     "summary": [
       "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까 시사저널e."
@@ -95,26 +94,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n763cb5e6",
-    "category": "IT",
-    "source": "한겨레",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83eHVrUUdyTHFPR3lhTVJOMHpYaG15MUhTaXV1RjYtZV8zeExJM21nWTk1MDVod2lCYW5EMlBPUkVUY18zMmliRjdqTkdmVE16M2dTOGRLazhCeGlxTlZaXzU2VE51VTZ0TkVqS0JNLXZFUQ?oc=5",
-    "title": "SK하이닉스·엔비디아 ‘AI 차세대 메모리’ 공동 개발한다",
-    "summary": [
-      "SK하이닉스·엔비디아 ‘AI 차세대 메모리’ 공동 개발한다 한겨레."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "n0bb0417f",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xOFgtREF3cE5OSVhka0xSOFF2Y3o4WXJ5SkVzdW9HMlJENzhTUkZ3dDFsaWtSX19Ra21aNUg2akhZTGJjNktNMTA4MlpLTDRhNWptRUJrelo1bzh4R0kxd9IBYEFVX3lxTE1xOFgtREF3cE5OSVhka0xSOFF2Y3o4WXJ5SkVzdW9HMlJENzhTUkZ3dDFsaWtSX19Ra21aNUg2akhZTGJjNktNMTA4MlpLTDRhNWptRUJrelo1bzh4R0kxdw?oc=5",
     "title": "SK하이닉스, 엔비디아와 AI팩토리용 차세대 메모리 공동개발",
     "summary": [
@@ -130,7 +113,7 @@ window.NEWS_DB = [
     "id": "nc9995611",
     "category": "경제",
     "source": "v.daum.net",
-    "time": "15시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tNVpGcVFEUmZodXVCMUVMY3RwTk1aTVEtVTFId0djNlFHY2pDNDFsVTNfQ2dOMG51Mkh1SHZmNm1mYklnYWc?oc=5",
     "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
     "summary": [
@@ -230,6 +213,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n039a53c8",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEcyd3RySjdPelJIanpZNlF1N2xBM3h6VFFaRnloZm9Zai1DQUhQVE9yWHJXNlRkVDd6bnlJbGlLcHhkN0ZZeHRyRFBZRklZWlZwVmVQdTVHR3UtdWtPMk04bUhKeVU5WDdqN2tDZHZDc3R2VndtQUxBcWRMQjgzVlVyNXZGSEdNLS1ma3FR?oc=5",
+    "title": "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은?",
+    "summary": [
+      "물가·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은? 조선일보."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
     "id": "n00c2ed38",
     "category": "경제",
     "source": "비즈니스포스트",
@@ -319,6 +317,41 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd202cff3",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152452",
+    "title": "젠슨 황 CEO \"향후 5년간 수천억달러가 한국으로 유입될 것\"",
+    "summary": [
+      "\"향후 5년간 수천억달러의 수익이 한국으로 유입될 것이라고 전망합니다.",
+      "그것이 우리의 선물이고, 우리의 파트너십입니다.\"젠슨 황 엔비디아 최고경영자(CEO)가 8일 서울 신라호텔 영빈관에서 열린 '코리아 AI 에코시스템 리셉션'을 마치고 나와 \"계약이 체결된 상태라 자세히 말씀드릴 수는 없지만, 한국에 엄청난 규모의 사업을 가져왔다는 것만 말씀드릴 수 있다\"면서 이처럼 말했다.젠슨 황 CEO는 이날 서린빌딩에서 최태원 SK 회장, 구광모 LG."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n10aa367a",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152451",
+    "title": "전영현 삼성전자 대표 \"엔비디아와 HBM4·파운드리 논의...결과로 보여주겠다\"",
+    "summary": [
+      "전영현 삼성전자 대표도 젠슨 황 엔비디아 최고경영자(CEO)를 만났다.",
+      "메모리반도체 공급과 파운드리(위탁생산) 확대 등을 논의했다.",
+      "삼성전자는 엔비디아를 두고 메모리는 SK하이닉스 파운드리는 TSMC를 추격해야 하는 입장이다.8일 전 대표는 서울 중구 서울신라호텔에서 황 CEO 등 엔비디아 경영진과 사업 협력을 의논했다.전 대표는 \"오랫동안 협력했는데 오늘 가장 좋은 얘기를 나눴다\"라며 \"단기적으로는 6세대 고대역폭메모리(HBM) HBM4와 파."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "n5762ea4d",
     "category": "IT",
     "source": "테크M",
@@ -354,16 +387,156 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc34f736d",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152448",
-    "title": "[카드뉴스] 젠슨 황이 한국 기업 총수들을 하루 만에 다 만난 이유.. 엔비디아 'AI 공장'이 시작됐다",
+    "id": "n3c6c65ea",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/08/2026060822053943897",
+    "title": "이스라엘도 이란 공격 중단하기로…\"트럼프 요청 따른 것\"",
     "summary": [
-      "주말엔 시민들과 치킨을 나눠주던 젠슨 황이, 월요일엔 한국 재계 총수들을 연쇄 방문했다.",
-      "SK, LG, 네이버, 현대차, 삼성까지 하루 만에 이어진 회동.",
-      "단순한 친목이나 투자 논의가 아니었다."
+      "이스라엘이 도널드 트럼프 미국 대통령 요청에 따라 이란에 대한 공격을 중단하기로 했다.",
+      "로이터통신, 이스라엘 매체 채널12는 8일(현지시간) 소식통을 인용해 이스라엘이 이 같이 결정했다고 보도했다.",
+      "다만 이스라엘은 친이란 무장정파 헤즈볼라가 이스라엘을 공격할 경우 레바논 베이루트 남부 교외를 공습할 것이라고 경고했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n16d8141e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003661168",
+    "title": "시진핑·김정은, 만찬서 \"중요한 합의 이뤄\" 한 목소리(종합)",
+    "summary": [
+      "[베이징·서울=뉴시스]박정규 특파원, 문예성 기자 = 시진핑 중국 국가주석과 김정은 북한 국무위원장이 8일 정상회담 뒤 \"중요한 합의를 이뤘다\"며 양국 관계 심화에 대한 기대감을 표했다.",
+      "중국 관영 신화통신에 따르면 시 주석과 부인 펑리위안 여사는 이날 오후 평양 목란관에서 김 위원장과 부인 리설주 여사가 주최한 환영만찬에 참석했다.",
+      "만찬에서 시 주석은 \"올해는 '중·조선(북한) 우호협력상호원조조약'이 체결된 지 65주년으로 중·조 관계는 새로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b6f261e",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/08/2026060821344362249",
+    "title": "\"술 취해 치고받고 싸워\"…마마무 휘인, 화사와 주먹다짐한 사연",
+    "summary": [
+      "그룹 마마무 화사와 휘인이 만취한 상태에서 몸싸움을 벌인 적이 있다고 고백했다.",
+      "8일 유튜브 채널 '짠한형 신동엽'에는 마마무가 출연해 다양한 이야기를 털어놨다.",
+      "이 영상에서 화사와 휘인은 중1 때 처음 만나 절친이 된 계기를 전했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n536f9d45",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/living/2026/06/08/2026060822155081437",
+    "title": "롱샴, 제레미 스콧 협업 20주년 기념 디지털 콘텐츠 공개",
+    "summary": [
+      "첫 협업 '텔레폰 백' 모티브 모바일 월페이퍼 선보여 프랑스 럭셔리 패션 하우스 롱샴이 미국 패션 디자이너 제레미 스콧과의 협업 20주년을 기념해 특별 모바일 월페이퍼를 공개했다.",
+      "이번 콘텐츠는 지난 20년간 이어온 양측의 창의적인 협업을 기념하기 위해 마련됐다.",
+      "롱샴과 제레미 스콧이 함께 구축해 온 독창적인 디자인 세계를 일상 속에서 경험할 수 있도록 기획한 디지털 프로젝트다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n17999484",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/living/2026/06/08/2026060822131632572",
+    "title": "클룩, 이스타항공과 손잡고 일본 여행 특가전 연다",
+    "summary": [
+      "8월 30일까지 항공·호텔 할인 진행, 주요 일본 노선 혜택 확대 글로벌 여행 플랫폼 클룩(Klook)이 이스타항공과 함께 일본 항공권과 호텔을 할인하는 특별 프로모션을 오는 8월 30일까지 진행한다.",
+      "이번 프로모션은 여름 휴가철을 맞아 일본 여행 수요가 늘어나는 가운데 여행객들의 비용 부담을 낮추기 위해 마련됐다.",
+      "클룩은 일본 주요 도시 호텔 할인 혜택을 제공하고, 이스타항공은 주요 노선 특가 항공권을 선보인다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc57e5fe",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/08/HAZDMYRZGNSTEMJQGNRTMNJZGQ/",
+    "title": "이지혜, 첫 성형은 父 때문..코 성형 전후 사진 공개 “콧대 있어야 도도하다고”(남겨서 뭐하게)[순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 가수 이지혜가 첫 번째 성형을 아버지 덕에 하게 되었다고 밝혔다.8일 방송된 tvN STORY ‘남겨서 뭐하게’에는 이지혜가 출연했다.47살이라는 이지혜는 동안 미모라는 칭찬을 듣자 “자기 관리(를 한 덕분이다).",
+      "최근까지는 성형을 끊었다가..”라고 말했다.",
+      "이지혜는 최근 인중축소술, 리프팅 등."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8cdc9abc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003660914",
+    "title": "제니·스트레이 키즈·캣츠아이, K-팝 뉴욕 여름 점령…'더 거버너스 볼'",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 미국 뉴욕의 대표 여름 음악 축제 '더 거버너스 볼 뮤직 페스티벌 2026(The Governors Ball Music Festival 2026)'이 K-팝의 새로운 이정표가 됐다.",
+      "K-팝 아티스트가 축제의 라인업 한구석을 채우는 것을 넘어, 당당히 간판 출연자인 헤드라이너로 나서는 시대가 도래했다.",
+      "6일(이하 현지시간) 헤드라이너로 나선 스트레이 키즈(Stray Kids·스키즈)는 악천후로 인한 일정 변경에도 굴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6feca6eb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608114952009",
+    "title": "김일성광장서 시진핑 환영행사…北의장대, \"건강 기원\" 외쳐(종합2보)",
+    "summary": [
+      "(서울=연합뉴스) 차병섭 기자 = 김정은 북한 국무위원장이 1박 2일간의 방북 일정을 위해 8일(현지시간) 평양에 도착한 시진핑 중국 국가주석을..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n7a3e89eb",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260608/134073749/2",
+    "title": "시진핑 “김정은과 중요한 공감대…北 목표 순조롭게 완수하길”",
+    "summary": [
+      "북한을 국빈 방문한 시진핑 중국 국가주석이 8일 북중 정상회담을 마치고 김정은 북한 국무위원장이 주최한 환영 만찬에 참석했다.중국 관영 신화통신에 따르면 시 주석과 부인 펑리위안 여사가 이날 만찬이 열리는 평양 목란관으로 차를 타고 이동할 때 민족의상을 입은 시민들이 도로 양옆에 서서 환영했다.오후 7시경 시 주석 부부가 목란관에 도착하자 김 위원장과 부인 리설주가 직접 맞이했다.",
+      "양측은 친선 기념사진을 촬영했다.신화통신은 “목란관 연회장은 등."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2166f9a9",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003661178",
+    "title": "젠슨 황과 러브샷한 배경훈 부총리 “쇼만 하지 말고 투자도 해달라 했다\"(종합)",
+    "summary": [
+      "[서울=뉴시스]심지혜 박은비 윤현성 기자 = \"엔비디아도 한국에서 쇼(SHOW)만 하지 말고 투자도 해달라고 했다.\" 배경훈 부총리 겸 과학기술정보통신부 장관은 8일 엔비디아가 개최한 AI 테크센터 리셉션에서 젠슨 황 엔비디아 최고경영자(CEO)의 요청으로 무대에 올라 이같이 말했다.",
+      "한국에서 SK그룹과 현대자동차, 네이버 등과 만나 그래픽처리장치(GPU) 공급을 비롯해 AI 팩토리 구축 등에 관한 협약하는 등 잇따른 행보를 보인 가운데 엔비디."
     ],
     "chips": [
       "#AI",
@@ -372,281 +545,114 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nec00e59f",
+    "id": "n9184eb96",
     "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152447",
-    "title": "BHSN, 계약 사후 관리까지 책임지는 AI 솔루션 '앨리비 큐' 첫선",
-    "summary": [
-      "계약서 관리의 사각지대로 꼽혀 온 '체결 이후' 문제를 AI로 해결하는 서비스가 등장했다.법무·계약 AI 전문기업 BHSN은 8일 AI 기반 계약 관리 솔루션 '앨리비 큐(Alibi Q)'를 출시했다.",
-      "계약서 보관에 그치던 기존 서비스와 달리, 계약 체결 이후 발생하는 지급·갱신·통지·검수 등 후속 업무를 자동으로 추적·관리한다는 점에서 주목받고 있다.많은 기업들이 계약서를 이메일, 공유 폴더, 개인 PC 등에 나눠 보관하고 있다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n59d25144",
-    "category": "경제",
     "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026060820295741937",
-    "title": "[속보] 이란군 \"이스라엘 대응 작전 중단…목적 달성\"",
+    "time": "24분 전",
+    "url": "https://view.asiae.co.kr/article/2026060821412590683",
+    "title": "젠슨 황 \"한국은 독보적인 위치…차세대 AI 시대 기회 반드시 잡아야\"",
     "summary": [
-      "이란군 \"이스라엘 대응 작전 중단…목적 달성\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4d560af7",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026060820290637794",
-    "title": "트럼프 \"이스라엘·이란 교전 중단해야\"…확전 차단 촉구",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 8일(현지시간) 이스라엘과 이란을 향해 즉각적인 교전 중단을 촉구했다.",
-      "그는 \"이스라엘과 이란은 즉각 '사격'을 멈춰야 한다\"고 밝히며 충돌 확산을 경고했다.",
-      "트럼프 대통령은 이날 트루스소셜에 짧은 글을 올려 양측 모두 추가 확전을 자제해야 한다는 입장을 분명히 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n132eee0d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/08/MJRWIMBUGY2DMMRXHAYWGYRYMQ/",
-    "title": "\"인도네시아 축구,자카르타 사랑하는 마음으로 왔다\" 신태용 감독 '페르시자 자카르타' 지휘봉 잡았다[오피셜]",
-    "summary": [
-      "[스포츠조선 전영지 기자]신태용 감독이 인도네시아 페르시자 자카르타 지휘봉을 잡았다.",
-      "인도네시아 1부리그 전통의 구단 페르시자 자카르타는 8일(한국시각) 공식 소셜 네트워크 서비스(SNS)를 통해 신태용 감독 선임을 공식 발표했다.",
-      "신태용 감독님'이라는 한국어 메시지에 '자카르타는 당신을 이미 기다리고 있다'라는 제하에 선임 오피셜 영상을 공."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ea3c433",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/national/regional/honam/2026/06/08/EUVGBNRM4VCYLK2AMVE4IPRV7Y/",
-    "title": "우리는 왜 소속되기를 두려워하면서도 갈구하는가",
-    "summary": [
-      "우리는 왜 소속되기를 두려워하면서도 갈구하는가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naef74611",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/People/article/all/20260608/134073150/1",
-    "title": "응급구조사 꿈꾸던 故이채원 양, 명예소방관증 받는다",
-    "summary": [
-      "광주 도심에서 흉기에 피살된 여고생 이채원 양(17)의 유족에게 지역 소방관들이 자체 제작한 명예소방관증을 전달한다.8일 광주소방본부와 전국공무원노동조합 소방본부 광주지역본부에 따르면 노조는 이 양의 49재 추모식이 열리는 21일 유족에게 명예소방관증과 위촉장을 전달할 예정이다.",
-      "생전에 응급구조사를 꿈꿨던 이 양을 추모하기 위해서다.",
-      "문성오 광주소방지부장은 “안타까운 사연에 마음 아파하는 조합원들이 많아 그 뜻을 모아 이 양을 추모하고 유족을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n40ee6096",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003661137",
-    "title": "완주군 공사현장서 40대 작업자, 끼임 사고로 사망",
-    "summary": [
-      "[완주=뉴시스]강경호 기자 = 8일 오전 11시4분께 전북 완주군 삼례읍의 한 공사현장에서 용접 작업자 A(40대)씨가 굴착기와 작업용 붐대 사이에 몸이 끼었다.",
-      "이 사고로 A씨는 현장에서 숨진 채 발견됐다.",
-      "경찰은 정확한 사고 경위를 조사 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc5353dee",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260608/134072843/1",
-    "title": "아워홈 용인공장서 또 근로자 끼임 사고…50대 심정지 이송",
-    "summary": [
-      "식품기업 아워홈 용인공장에서 50대 하청업체 근로자 1명이 끼임 사고를 당해 중태에 빠졌다.",
-      "지난해 4월 같은 공장에서 30대 근로자가 기계에 끼어 숨진 지 1년 2개월 만에 비슷한 사고가 재발했다.8일 아워홈과 경기 용인동부경찰서 등에 따르면 이날 오후 2시 50분경 경기 용인시 처인구 남사읍 아워홈 용인2공장 4층 어묵꼬치 포장 작업장에서 근로자 황모 씨(54)가 컨베이어 벨트에 목 부위가 끼이는 사고를 당했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e4f6eb6",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003661136",
-    "title": "반도체·AI 등 대학 첨단분야 입학 정원 내년 434명 증원",
-    "summary": [
-      "[서울=뉴시스] 구무서 기자 = 교육부가 반도체와 인공지능(AI) 등 첨단분야 입학 정원을 내년에 434명 늘린다.",
-      "8일 국회 교육위원회 소속 김용태 국민의힘 의원이 교육부로부터 제출 받은 자료에 따르면 2027학년도 첨단분야 정원 순증은 434명이다.",
-      "지역별로 보면 수도권 8개교 12개 학과 175명, 비수도권 9개교, 19개 학과 259명 등이다."
+      "\"제조업과 중공업, 전자공학, 소프트웨어와 인공지능(AI)이 하나로 연합하고 융합되어 로보틱스로 나아가야 합니다.",
+      "한국은 이 모든 분야에서 세계 최고 수준입니다.",
+      "그것이 바로 제가 여기 있는 이유입니다.\"젠슨 황 엔비디아 최고경영자(CEO)는 8일 저녁 서울 중구 신라호텔에서 비공개 간담회 '코리아 AI 에코시스템 리셉션' 직후 상기된 상태로 기자들과 만나 한국의 독보적인 위치를 강조했다."
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#정치",
-      "#교육"
+      "#엔비디아"
     ]
   },
   {
-    "id": "n83eec38c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608176500084",
-    "title": "필리핀 남부 규모 7.8 강진 사망자 32명으로 늘어",
-    "summary": [
-      "(하노이=연합뉴스) 박진형 특파원 = 8일(현지시간) 필리핀 남부를 강타한 규모 7.8의 강진에 따른 사망자가 최소 32명으로 늘어났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ac4aefe",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260608/134070809/1",
-    "title": "공항서 시진핑 직접 맞이한 김정은…최고 수준의 의전",
-    "summary": [
-      "‘조중(북-중) 두 나라 인민들 사이의 불패의 친선단결 만세.’8일 북한 평양 순안공항에 한국어와 중국어로 이 같은 환영문구가 쓰인 빨간색 대형 현수막이 걸렸다.",
-      "시진핑(習近平) 중국 국가주석 일행을 맞이하기 위한 레드카펫도 깔렸다.",
-      "이날 낮 12시 10분경 시 주석과 부인 펑리위안(彭麗媛) 여사가 전용기에서 내리자 김정은 북한 국무위원장과 부인 리설주가 박수를 치며 두 사람을 맞았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n765f2e90",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003661135",
-    "title": "[경남소식]강태영 농협은행장, 경상국립대서 특강 등",
-    "summary": [
-      "[창원=뉴시스] 김기진 기자 = NH농협은행은 강태영 은행장이 8일 경상국립대를 방문하여 농업생명과학대 학생 300여명을 대상으로 특강을 했다고 밝혔다.",
-      "강 은행장은 농업생명과학대 학생들을 대상으로 협동조합의 의미와 사회적 역할, 농협의 역사와 가치에 대해 설명하였으며 100% 국내자본으로 운영되는 농협의 특수성과 역할에 대해서도 소개했다.",
-      "이와 함께, 강 은행장은 사원으로 입사해 은행장이 되기까지의 과정을 들려주며 특히 끊임없이 도전하고 협력."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7b7ce984",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608173951083",
-    "title": "시진핑 \"북중, 외교·법·군대 교류 강화해야…우호 계승 원해\"(종합)",
-    "summary": [
-      "(베이징·서울=연합뉴스) 한종구 김현정 정성조 특파원 권숙희 기자 = 시진핑 중국 국가주석이 8일 김정은 북한 국무위원장과 정상회담을 갖고 외교..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n27cd8ee5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/08/GTC763I7GVABJK6JZF2KW7MZBY/",
-    "title": "시진핑 “通商 전면 재개통”... 김정은 “中 핵심 이익 수호”",
-    "summary": [
-      "시진핑 “通商 전면 재개통”... 김정은 “中 핵심 이익 수호”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc592ca2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260608/134069797/1",
-    "title": "타이거 우즈 전성기 압도하는 코르다 “화장실 긍정 루틴 덕분”",
-    "summary": [
-      "“올해부터 화장실 거울에 ‘긍정의 말’을 적은 포스트잇을 붙여놨다.",
-      "그렇게 마음을 다잡다 보면 정말로 한주 내내 좋은 생각만 하게 된다.”여자 골프 세계 랭킹 1위 넬리 코르다(28·미국)는 미국여자프로골프(LPGA)투어 메이저대회 US여자오픈 3라운드를 공동 선두로 마친 뒤 이렇게 말했다.",
-      "2024년 7승을 쓸어 담았던 코르다는 지난해엔 무관에 그쳤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc7988bff",
+    "id": "nfd43e0a1",
     "category": "사회",
     "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026060820110619980",
-    "title": "경남교육청 '건강장애학생 학습지원센터' 개소 … \"치료 후 학교 복귀 도울 것\"",
+    "time": "24분 전",
+    "url": "https://view.asiae.co.kr/article/2026060821582413290",
+    "title": "선관위 “투표용지 부족 140개 투표소 추가 송부”…조사 착수",
     "summary": [
-      "경남교육청 '건강장애학생 학습지원센터'가 8일 문을 열고 건강장애학생을 위한 본격적인 지원에 나섰다.",
-      "경남교육청은 장애인 등에 대한 특수교육법 제15조 제1항에 따라 선정된 특수교육대상자로, 건강장애가 있어 3개월 이상의 장기 입원 또는 통원 치료 등으로 학교생활과 학업 수행에 어려움이 있는 학생을 위해 이곳을 마련했다.",
-      "센터는 창원시 마산회원구 내서중학교 별관 1~2층을 재단장해 조성됐다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne153c829",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608176400004",
-    "title": "[게시판] 차용호 법무부 출입국본부장, 美 세관국경보호청 면담",
-    "summary": [
-      "[게시판] 차용호 법무부 출입국본부장, 美 세관국경보호청 면담."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6dbb9c1b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026060820044607303",
-    "title": "\"뭉치면 총기 자체 생산할 수 있다\"…잠실 시위 SNS 댓글에 경찰도 '예의주시'",
-    "summary": [
-      "6·3 지방선거 투표용지 부족 사태를 규탄하는 '잠실 개표소 봉쇄 시위'가 이어지는 가운데 온라인상에 '총기를 생산하자'는 취지의 글이 올라와 경찰이 분석에 나섰다.",
-      "8일 연합뉴스에 따르면 사회관계망서비스(SNS)에 올라온 문제의 댓글에는 \"저희가 뭉치면 총기를 자체 생산할 수 있다.",
-      "무력으로 진압당하거나 큰 물리적 피해를 볼 경우 최후의 보루로 만들어놓아야 한다\"는 내용이 담겼다."
+      "중앙선거관리위원회는 8일 6·3 지방선거 본투표 당시 전국 140개 투표소에 투표용지를 추가 송부했다고 밝혔다.",
+      "투표용지 부족 가능성에 따라 사전에 보충 물량을 보낸 것으로, 전체 1만4288개 투표소 중 140개가 대상이었다.",
+      "이는 지난 5일 발표보다 73개 늘어난 수치다."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n3991d564",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608178200009",
+    "title": "7년만에 평양 찾은 시진핑, '외교·국방·경제 수장' 총동원",
+    "summary": [
+      "(베이징·서울=연합뉴스) 정성조 특파원 권숙희 기자 = 시진핑 중국 국가주석이 7년 만에 북한을 국빈 방문한 가운데 수행단 면면에도 이목이 쏠렸..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d23f3a6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003661161",
+    "title": "[경남소식]부울경축협조합장협의회, 축경대표 직선제 제안 등",
+    "summary": [
+      "[창원=뉴시스] 김기진 기자 = 8일 경남 하동축협에서 열린 2026년도 제3차부산울산경남축협조합장협의회에서는 현행 간선제 형태의 축산경제대표선거를 전국축협조합장들이 참여하는 직선제 형태로 변경하자는 의견이 나왔다.",
+      "현행 농협경제지주 축산경제 대표이사 선거는 임원추천위원회를 구성하는데 전국의 139명 축협조합장 중 품목조합 7명, 지역조합 13명 등 총 20명으로 구성한다.",
+      "임추위는 구두 또는 서면으로 구성원 3명 이상의 추천을 받은 인사를 후."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbb9ba196",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "28분 전",
+    "url": "https://view.asiae.co.kr/article/2026060821542606819",
+    "title": "[속보] 시진핑 \"북중, 새로운 역사적 출발점…중요 합의 이뤄\"",
+    "summary": [
+      "시진핑 \"북중, 새로운 역사적 출발점…중요 합의 이뤄\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1ab9ef16",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "32분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260608214342",
+    "title": "젠슨 황 \"SK하이닉스 캐파 2배 확대로는 불충분\"",
+    "summary": [
+      "[지디넷코리아]젠슨 황 엔비디아 최고경영자(CEO)가 SK하이닉스의 장기 생산능력 확대 계획에 대해 \"충분치 않다\"고 말했다.",
+      "앞서 최태원 SK그룹 회장은 \"앞으로 5년 안에 전체 웨이퍼 생산능력을 2배로 늘릴 것\"이라고 말한 바 있다.",
+      "8일 젠슨 황 CEO는 서울 중구 신라호텔에서 열린 '코리아 AI 에코시스템 리셉션' 후 기자들과 만나 \"(SK하이닉스 계획은) 충분치 않다고 생각한다\"며 \"우리는 스마트(smart)해져야 한다."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n683241bc",
+    "category": "스포츠",
+    "source": "ZDNet Korea",
+    "time": "33분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260608214915",
+    "title": "시몬스, 판교 현대백화점 팝업 열고 프리미엄 침대 시장 공략",
+    "summary": [
+      "[지디넷코리아]시몬스(대표 안정호)가 현대백화점 판교점 7층에 팝업스토어를 열고 8층에 자리한 기존 스토어와 시너지를 낸다.",
+      "서울·경기 등 광역 상권 프리미엄 침대 시장 수요를 적극 선점한다는 계획이다.8일 시몬스에 따르면, 현대백화점 판교점은 지난해 처음 연 매출 2조원대에 진입하며 전국 백화점 매출 상위권을 유지하고 있다.",
+      "현대백화점 전체 점포 가운데 가장 많은 명품 브랜드 96개가 입점해 있는 것은 물론 신혼부부 및 예비부부, 가족 단위."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -655,21 +661,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "엔비디아",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   }
 ];
 // ====AUTO-GENERATED-END====
