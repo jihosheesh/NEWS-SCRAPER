@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-08 17:04:01
+// 마지막 업데이트: 2026-06-08 18:46:13
 window.NEWS_DB = [
   {
     "id": "na542b62c",
     "category": "IT",
     "source": "디일렉",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SaDI5bE9sZnh1SThySXR6c3FONU1OdExTelJLS1JMdzZ5Vk1KcDZwYjVmcEdwUHI4LUZEREVzZDdEU0ljcmgwRjg0b3JQQmszMHptOEdrQTFUWEFqRW5mOGUyYWR1UQ?oc=5",
     "title": "젠슨 황 만난 전영현 삼성전자 부회장 \"HBM4·파운드리 등 협력\"",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nde027b88",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Xd1RTbjdoY3hrdnBnWkpDNlNyVnFXdWtyTGJ3THRqYWtNNTNnRzh4SVhlMXhfV242WWx2ZEljeTNoSGN1VVRxcDF0N2VnRFZEbHdnRGJydnE0N2ZvelpPRk5pWDFrd1dk?oc=5",
     "title": "삼성·엔비디아, 반도체 공동개발 논의…전영현 \"지금껏 가장 좋은 대화\"",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nc18ecebf",
     "category": "IT",
     "source": "조선일보",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmdXNk5pNHUzVzdYZjF6eWplelZlZ0NDU3c1WUQ4bVhWWUpTaE1Za3hUb2d4emgyaE84QTJ4MFdjQW9NQ2ItLXJNaHVJNm1JN1FJNi1adDFWdUZMVHFQNUQ5dnViUHo4MG5ndWZiU19zdW1qV3ZJUk1sekJVRUI0MGJDVQ?oc=5",
     "title": "젠슨 황 만난 삼성 전영현 \"HBM·파운드리 협력 논의\"",
     "summary": [
@@ -46,10 +46,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n31af3cbd",
+    "category": "경제",
+    "source": "에너지경제신문",
+    "time": "9시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
+    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
+    "summary": [
+      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
     "id": "n13b4af19",
     "category": "사회",
     "source": "대학IN",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
     "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
     "summary": [
@@ -66,7 +81,7 @@ window.NEWS_DB = [
     "id": "nfa1c41a0",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
     "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
     "summary": [
@@ -79,11 +94,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd8354e7f",
+    "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXfSAXZBVV95cUxPdkx4dzBQTlREMUxrNlowdUFzRHN1UVB4aXVvX19OVUZSNWM3UU9Nb3Vnakszblc5enB2cVdJX2o4bEVjR2lqQmt6WFJvbEhtZHZDaDNQNk9pcHNMMFRvcU5Jb2ptZG5ST3FRZ0dybjNidWE0NTF3?oc=5",
+    "time": "14시간 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMXhOQm1aSW1uMERiS2ZpRGF2ckVNd2RGektBdm8zaHVMeS11aWNyX1c1b0phM1k4bVNERFdpOUpjMEg5SnlpN1Q1d3MxTy04YkwwSW5qN1JOdzJERnN2Q3I3QlpQbEppUUE3d3dVOF9lZ9IBdkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXc?oc=5",
     "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
     "summary": [
       "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까 시사저널e."
@@ -97,7 +112,7 @@ window.NEWS_DB = [
     "id": "n0bb0417f",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "17시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xOFgtREF3cE5OSVhka0xSOFF2Y3o4WXJ5SkVzdW9HMlJENzhTUkZ3dDFsaWtSX19Ra21aNUg2akhZTGJjNktNMTA4MlpLTDRhNWptRUJrelo1bzh4R0kxd9IBYEFVX3lxTE1xOFgtREF3cE5OSVhka0xSOFF2Y3o4WXJ5SkVzdW9HMlJENzhTUkZ3dDFsaWtSX19Ra21aNUg2akhZTGJjNktNMTA4MlpLTDRhNWptRUJrelo1bzh4R0kxdw?oc=5",
     "title": "SK하이닉스, 엔비디아와 AI팩토리용 차세대 메모리 공동개발",
     "summary": [
@@ -170,20 +185,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3bb73fa",
-    "category": "경제",
-    "source": "헤럴드경제",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
-    "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "n37646dcf",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -212,21 +213,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a25f504",
-    "category": "경제",
-    "source": "마켓인",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KM1A2UlB1aWxvNHl3RTNpTzItS19rbFlkT2EzMWZYR3BqNTJfcWlZM0tpcHdGTk1OelB6bWxlSW85OXdCWlBTYVdLaVhVdjAtcHVyUHhQZEhmZjYtUWllVG96RmZfcDlWckdVMVBOekFlb0U?oc=5",
-    "title": "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합)",
-    "summary": [
-      "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합) 마켓인."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
     "id": "n00c2ed38",
     "category": "경제",
     "source": "비즈니스포스트",
@@ -241,6 +227,20 @@ window.NEWS_DB = [
       "#SK하이닉스",
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n35b9d663",
+    "category": "경제",
+    "source": "KB Think",
+    "time": "13일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZGhQQnFDSi1DdDdmVUtEemxBT18yeWhIbWZrUWJKX2dYUzlRMXQ4NmdLNDlGdW1yaXdFaGNSa0NqTkFqYXBiZzJDRU5uQk8zZnpZQmUzOVBLWmE3Y2lOSHJn?oc=5",
+    "title": "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기",
+    "summary": [
+      "외인에 흔들리는 원화, 주식 매도와 WGBI 유입 줄다리기 KB Think."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -351,10 +351,129 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ncae8944b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260609_0003661226",
+    "title": "외신 \"북중 협력 확대…서방 맞서 중국 중심 단결 전선 구축 시도\"",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 시진핑 중국 국가주석과 김정은 북한 국무위원장이 8일 정상회담 뒤 \"중요한 합의를 이뤘다\"며 양국 관계 심화에 대한 기대감을 표한 가운데 외신은 양국이 이번 회담을 계기로 관계를 격상하는 한편, 서방에 맞서 중국 중심의 단일 전선을 구축하려 한다고 평가했다.",
+      "AP통신은 8일(현지 시간) 김 위원장과 시 주석이 평양 회담을 통해 협력 심화 의지를 강조했다면서 북한과 중국 모두 미국과의 대치 속에 전통적인 동맹 관계."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndff31dbb",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609004300072",
+    "title": "美 법원 \"전문직비자 10만달러 수수료는 위법\" 판단",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 도널드 트럼프 행정부가 전문직 비자인 H-1B 신청 수수료를 10만 달러(약 1억5천만원)로 인상한 것..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n70924f33",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609004200085",
+    "title": "영국박물관, 42년만에 한국 특별전…런던서 만나는 이건희컬렉션",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 고(故) 이건희 삼성 선대 회장의 기증품을 모은 국외 순회전이 오는 10월 영국 런던에서 이어진다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne452cfb8",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026060903315569168",
+    "title": "이란·이스라엘, 확전 자제 속 휴전 협상 지속",
+    "summary": [
+      "이란과 이스라엘이 최근 교전 이후 추가 확전을 자제하겠다는 입장을 내놓았다.",
+      "다만 양측 모두 상대방의 추가 공격 시 강력 대응을 예고해 긴장감은 여전하다.",
+      "8일(현지시간) 블룸버그통신에 따르면 이란은 이스라엘에 대한 군사작전을 종료한다고 발표했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbf876361",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609003800071",
+    "title": "美 \"알리바바·BYD·바이두, 中인민군 지원기업\"…불이익 예고",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 국방부(전쟁부)가 중국의 빅테크 기업 알리바바와 바이두, 전기차 제조업체 비야디(BYD) 등을 '중국..."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n4f8119f9",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "22분 전",
+    "url": "https://view.asiae.co.kr/article/2026060903240265017",
+    "title": "네타냐후 총리 \"이란 공습 중단…이스라엘 피습 시 강력 대응\"",
+    "summary": [
+      "베냐민 네타냐후 이스라엘 총리는 8일(현지시간) 이란에 대한 공습을 당분간 중단한다고 밝혔다.",
+      "다만 이스라엘에 대한 공격이 재개되면 강력하게 대응하겠다고 덧붙였다.",
+      "네타냐후 총리는 이날 영상 메시지를 통해 \"이스라엘이 베이루트에 있는 헤즈볼라를 보복 타격한 후, 이란이 헤즈볼라를 지원하기 위해 이스라엘을 공격했다\"며 \"나는 이스라엘군에 이란 전역의 군사 및 경제 시설을 타격할 것을 지시했다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8240ff03",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609004000530",
+    "title": "쿠바 피나르델리오 서북서쪽 바다서 규모 6.1 지진 발생",
+    "summary": [
+      "(서울=연합뉴스) 9일 오전 3시 0분 25초(한국시간) 쿠바 피나르델리오 서북서쪽 154km 해역에서 규모 6.1의 지진이 발생했다고 기상청이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff6d4b63",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260609/134074214/1",
+    "title": "“연애 때 찍어준 사진이 프로필?”…데이팅 앱에서 남편 발견한 아내",
+    "summary": [
+      "남편이 몰래 데이팅 앱에서 활동하는 정황을 포착했다는 여성의 사연이 화제가 됐다.지난 1일 한 온라인 커뮤니티에 ‘친구가 데이팅 앱에서 제 남편을 찾았습니다’라는 제목의 글이 올라왔다.",
+      "남편과 3년 동안 연애한 후 1년 전 결혼했다고 밝힌 작성자 A씨는 “절친한테 캡처 사진 몇 장을 받고 머리가 하얘졌다”고 하소연했다.A씨는 친구로부터 데이팅 앱을 캡처한 사진을 받았다.",
+      "그는 “(사진 속 주인공은) 내 남편이었다”면서 “본인 얼굴이 다 나온 사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n5762ea4d",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "28분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152450",
     "title": "\"GO 네이버!\" 네이버·엔비디아, AI 모델·인프라·로보틱스 '3각 동맹' 가속",
     "summary": [
@@ -368,10 +487,66 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n60df2248",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/06/09/GBQEV7IADVG2ZEKALDSBJZ2RQI/",
+    "title": "[17화] “수염 없는 자는 모조리 베어라!”",
+    "summary": [
+      "[17화] “수염 없는 자는 모조리 베어라!”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n182b038a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/international/china/2026/06/09/FY7575YVNREHXJ4KP4DOEII2ZI/",
+    "title": "“중국이 미국 추월한다” 10년 전 예측은 왜 틀렸나",
+    "summary": [
+      "“중국이 미국 추월한다” 10년 전 예측은 왜 틀렸나."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na13f5820",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/06/09/NZZXCYT7G5EX3D4NGHMXMHX23I/",
+    "title": "[10화] 사선 위의 비즈니스",
+    "summary": [
+      "[10화] 사선 위의 비즈니스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n142dc04a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/national/education/2026/06/04/XGGIEMDZ35E3DEXLREPGVPB7KE/",
+    "title": "초등 3학년 지우가 갑자기 말수를 줄인 이유",
+    "summary": [
+      "초등 3학년 지우가 갑자기 말수를 줄인 이유."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ncda2fa2f",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "59분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152449",
     "title": "네이버클라우드·삼성SDS·엘리스그룹, 2조원 규모 GPU 확보 나선다",
     "summary": [
@@ -386,10 +561,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n189dbe1e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260609/134074199/1",
+    "title": "[날씨]선선한 기온, 낮 최고기온 21~29도 …동쪽 지역 소나기",
+    "summary": [
+      "9일 화요일 오후 동쪽 지역을 중심으로 소나기가 내리면서 더위가 주춤하겠다.기상청은 “이날 오후에 강원남부내륙·강원산지와 경북북동산지에 소나기가 내리는 곳이 있겠다”고 예보했다.소나기에 의한 예상 강수량은 ▲강원남부내륙·산지 5㎜ 안팎 ▲경북북동산지 5㎜ 안팎이다.소나기가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠다.",
+      "우박이 떨어지는 곳도 있겠으니, 시설물 관리와 안전사고에 유의해야겠다.또 소나기 특성상 같은 지역 내에서도 강수."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4feb7902",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260609/134074196/1",
+    "title": "네타냐후 “이란 공습 일시 중단…공격 재개하면 강경대응” 경고",
+    "summary": [
+      "베냐민 네타냐후 이스라엘 총리는 8일(현지 시간) “이란에 대한 공습을 일시 중단하겠다”면서도 이란과 그 추종 세력인 레바논 무장 정파 헤즈볼라와의 싸움은 끝난 것이 아니라며 이란이 이스라엘에 대한 공격을 재개하면 “강경 대응하겠다”고 경고했다.이스라엘 일간 타임스오브라엘(TOI)에 따르면 네타냐후 총리는 이날 공개된 대국민 영상 메시지에서 이같이 말했다.",
+      "이번 연설은 이란과 이스라엘이 전날 공방을 벌인 이후 네타냐후 총리의 첫 공개 발언으로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n8a965605",
     "category": "IT",
     "source": "뉴시스",
-    "time": "1분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260608_0003660636",
     "title": "'블랙 먼데이' 급락한 반도체 주가…김대호 박사 \"지표 확인 우선\"",
     "summary": [
@@ -405,7 +610,7 @@ window.NEWS_DB = [
     "id": "n66b8d9a3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260608_0003659661",
     "title": "\"남편 눈치 못 챘지?\" 메시지 촬영한 남편…법조계 \"증거 수집 방식 주의\"",
     "summary": [
@@ -418,44 +623,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5b31ca9a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003661224",
-    "title": "네타냐후 \"이란 공습 일시 중단…공격 재개하면 강경대응\" 경고",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 베냐민 네타냐후 이스라엘 총리는 8일(현지 시간) \"이란에 대한 공습을 일시 중단하겠다\"면서도 이란과 그 추종 세력인 레바논 무장 정파 헤즈볼라와의 싸움은 끝난 것이 아니라며 이란이 이스라엘에 대한 공격을 재개하면 \"강경 대응하겠다\"고 경고했다.",
-      "이스라엘 일간 타임스오브라엘(TOI)에 따르면 네타냐후 총리는 이날 공개된 대국민 영상 메시지에서 이같이 말했다.",
-      "이번 연설은 이란과 이스라엘이 전날 공방을 벌인 이후."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3e0ee90b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "46분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003659662",
-    "title": "\"부동산, 급격한 기조 변화 없을 것\"…송희구 작가의 하반기 전망",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 부동산 베스트셀러 저자인 송희구 작가가 지방선거 이후에도 부동산 시장의 급격한 기조 변화는 없을 것이라고 전망했다.",
-      "지난 7일 유튜브 채널 '부읽남TV_내집마련부터건물주까지'에 출연한 송 작가는 \"과거 사례를 비추어 볼 때 선거 이후 시장이 드라마틱하게 변하지는 않았다\"며 이번에도 기존의 흐름이 유지될 가능성이 높다고 분석했다.",
-      "송 작가는 현 정부의 부동산 규제 카드가 이미 대부분 소진되었기 때문에, 추가적인."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
     "id": "n7756455f",
     "category": "사회",
     "source": "동아일보",
-    "time": "54분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260609/134074123/1",
     "title": "“오른쪽 윗배가 아파요”…그냥 넘기면 위험한 이유",
     "summary": [
@@ -466,181 +637,6 @@ window.NEWS_DB = [
     "chips": [
       "#의료"
     ]
-  },
-  {
-    "id": "n67b0b7ea",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "57분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260609002000079",
-    "title": "네타냐후 \"이란 공습 당분간 중단… 공격 재개시 강경 대응\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 베냐민 네타냐후 이스라엘 총리는 8일(현지시간) 이란에 대한 공습을 당분간 중단한다면서, 그러나 이스라엘에..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf292b9b3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608145751061",
-    "title": "이화영 \"표적 수사\" vs 검찰 \"명백한 위증\"…국참 첫날 격돌(종합)",
-    "summary": [
-      "(수원=연합뉴스) 권준우 기자 = 이화영 전 경기도 평화부지사의 이른바 '검사실 술파티 의혹' 위증 등 사건의 유무죄를 가르는 국민참여재판 8일..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n51872400",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260609001700082",
-    "title": "\"프랑스·독일·스페인, 차세대 전투기 공동개발 무산\"",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 프랑스·독일·스페인이 추진해온 차세대 전투기 공동개발 사업이 지분과 사양을 둘러싼 다툼 끝에 무산됐다고 로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36832012",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/06/09/GIQSPC5CDZCH5OV3SQAQV5D4ZY/",
-    "title": "“4일 7시16분 서울 운명 바뀌어… 국힘, 거친 중도 바다로 갈건가… 강성층 갇힌 유튜브당 될건가”",
-    "summary": [
-      "“4일 7시16분 서울 운명 바뀌어… 국힘, 거친 중도 바다로 갈건가… 강성층 갇힌 유튜브당 될건가”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd21f4307",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260609001400087",
-    "title": "미국 봉쇄에도 멕시코·벨리즈, 쿠바에 구호품 전달",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국이 쿠바에 대한 봉쇄를 강화해 나가고 있는 가운데 멕시코와 벨리즈가 공동으로 마련한 구호물자가 7일..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndcebe9b1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/international/us/2026/06/09/HZE7XJRDNRBVDCHBOX3QR5HSDU/",
-    "title": "‘월드컵 시작 전 종전’ 트럼프 구상 물 건너가나",
-    "summary": [
-      "‘월드컵 시작 전 종전’ 트럼프 구상 물 건너가나."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf8ba0355",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/09/5Q5XHU3G25GIHF4L3YFG3XEIIQ/",
-    "title": "전설이 되려는 에이스, 새 역사 쓰고픈 19세",
-    "summary": [
-      "전설이 되려는 에이스, 새 역사 쓰고픈 19세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ba191fa",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260609/134074092/1",
-    "title": "“너 때문에 기회 잃었다”…‘포모’ 온 남편 원망에 무릎 꿇고 빈 아내",
-    "summary": [
-      "최근 수도권 부동산 가격 상승과 주식 시장 호황 속에서 투자 기회를 놓쳤다는 상실감, 이른바 ‘포모(FOMO)’로 인해 신혼 생활이 위기에 처했다는 사연이 전해져 안타까움을 자아내고 있다.8일 직장인 익명 커뮤니티 ‘블라인드’에는 ‘남편 FOMO 너무 힘들어요’라는 제목의 글이 올라왔다.신혼 6개월 차 글쓴이 A씨는 “신혼집을 구할 당시 저는 기존에 구매해 뒀던 주택이 있어 목돈이 묶여있는 상황이었고, 남편이 주택을 하나 더 마련해 남편 집에서."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nfa76dfa7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260609/134074089/1",
-    "title": "시어머니 핸드폰에 연결된 ‘홈캠’…6개월 몰래 봤다",
-    "summary": [
-      "시어머니가 집 내부 CCTV를 통해 부부의 사생활과 자녀의 일상을 지켜보고 있었다는 사실을 알게 된 여성의 사연이 전해졌다.최근 익명 온라인 커뮤니티에는 ‘아기 방 CCTV 나 몰래 6개월 간 보고 계셨던 시어머니’라는 제목의 글이 올라왔다.작성자 A씨는 아침에 시어머니로부터 급히 전화를 받았다고 한다.",
-      "전화를 받으니 시어머니는 “남편을 바꾸라”했고, 남편에게는 “A씨 안 들리게 받아라”라고 말했다.",
-      "A씨는 이 상황을 스피커 폰 기능을 통해 다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb38ce8e9",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606094465i",
-    "title": "더인포메이션 \"구글,텐서칩 인텔서 3백만개 이상 생산 계획\"",
-    "summary": [
-      "더인포메이션 \"구글,텐서칩 인텔서 3백만개 이상 생산 계획\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9001f54b",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260608/134072941/2",
-    "title": "반도체-로봇-데이터센터까지 ‘엔비디아 동맹’",
-    "summary": [
-      "젠슨 황 엔비디아 최고경영자(CEO)가 전북 새만금에 미국 실리콘밸리처럼 ‘인공지능(AI) 밸리’를 조성하는 데 힘을 보태겠다고 밝혔다.",
-      "친환경 전력과 부지 확보까지 가능한 한국을 피지컬 AI 시대의 전초 기지로 삼겠다는 포석이다.",
-      "황 CEO는 3박 4일의 방한 일정을 마무리하는 8일 SK, 현대차, LG, 네이버 등 국내 주요 기업 사옥들을 전방위로 방문하면서 반도체, 로봇, 데이터센터 인프라에 이르는 한국 주요 기업들을 엔비디아 생태계 안으."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n4fb8d0d2",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026060844467",
-    "title": "'용지 부족 투표 중단' 투표소…부산·대구·경기서도 확인 '총 26곳'",
-    "summary": [
-      "'용지 부족 투표 중단' 투표소…부산·대구·경기서도 확인 '총 26곳'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -649,20 +645,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "엔비디아",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
