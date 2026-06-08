@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-08 20:44:38
+// 마지막 업데이트: 2026-06-08 21:35:35
 window.NEWS_DB = [
   {
     "id": "na542b62c",
     "category": "IT",
     "source": "디일렉",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SaDI5bE9sZnh1SThySXR6c3FONU1OdExTelJLS1JMdzZ5Vk1KcDZwYjVmcEdwUHI4LUZEREVzZDdEU0ljcmgwRjg0b3JQQmszMHptOEdrQTFUWEFqRW5mOGUyYWR1UQ?oc=5",
     "title": "젠슨 황 만난 전영현 삼성전자 부회장 \"HBM4·파운드리 등 협력\"",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nde027b88",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Xd1RTbjdoY3hrdnBnWkpDNlNyVnFXdWtyTGJ3THRqYWtNNTNnRzh4SVhlMXhfV242WWx2ZEljeTNoSGN1VVRxcDF0N2VnRFZEbHdnRGJydnE0N2ZvelpPRk5pWDFrd1dk?oc=5",
     "title": "삼성·엔비디아, 반도체 공동개발 논의…전영현 \"지금껏 가장 좋은 대화\"",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nc18ecebf",
     "category": "IT",
     "source": "조선일보",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmdXNk5pNHUzVzdYZjF6eWplelZlZ0NDU3c1WUQ4bVhWWUpTaE1Za3hUb2d4emgyaE84QTJ4MFdjQW9NQ2ItLXJNaHVJNm1JN1FJNi1adDFWdUZMVHFQNUQ5dnViUHo4MG5ndWZiU19zdW1qV3ZJUk1sekJVRUI0MGJDVQ?oc=5",
     "title": "젠슨 황 만난 삼성 전영현 \"HBM·파운드리 협력 논의\"",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n13b4af19",
     "category": "사회",
     "source": "대학IN",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
     "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
     "summary": [
@@ -81,7 +81,7 @@ window.NEWS_DB = [
     "id": "nfa1c41a0",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
     "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
     "summary": [
@@ -97,7 +97,7 @@ window.NEWS_DB = [
     "id": "nd8354e7f",
     "category": "IT",
     "source": "시사저널e",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXfSAXZBVV95cUxPdkx4dzBQTlREMUxrNlowdUFzRHN1UVB4aXVvX19OVUZSNWM3UU9Nb3Vnakszblc5enB2cVdJX2o4bEVjR2lqQmt6WFJvbEhtZHZDaDNQNk9pcHNMMFRvcU5Jb2ptZG5ST3FRZ0dybjNidWE0NTF3?oc=5",
     "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
     "summary": [
@@ -137,6 +137,21 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n5dd41f6d",
+    "category": "부동산",
+    "source": "뉴스1",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UaTJKQk1hektMQWpzb0NLWk41X3paQ3JGRTZVUzBTbUpCczM1NG1tLVJaS3Nnb0hkQzNqbXBVX0IxbjBSaGwwZjVVYXBoUHhqX3FXallCSG5RaFJtcTdUd1pmNmw?oc=5",
+    "title": "집값 뚝뚝 떨어지는데…\"전세금 1억2천만원 더 올려달라네요\"",
+    "summary": [
+      "집값 뚝뚝 떨어지는데…\"전세금 1억2천만원 더 올려달라네요\" 뉴스1."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -185,6 +200,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n37646dcf",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "summary": [
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nf5e411c3",
     "category": "부동산",
     "source": "시사저널",
@@ -216,18 +245,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n269e2609",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "27일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "40일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
     ],
     "chips": [
-      "#부동산",
-      "#전세"
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n64476ff1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "50일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "summary": [
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -290,107 +333,61 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n70696226",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/09/GBSGGMDFMU3GMN3FGIZWIODEME/",
-    "title": "D-2, 동기생의 충격적 AG 승선 불발, 마이너스 시험대, 이제는 증명의 시간",
-    "summary": [
-      "[스포츠조선 정현석 기자]삼성 라이온즈 내야수 이재현의 대표팀 승선 여부가 관심을 모으고 있다.",
-      "이재현은 오는 9월 일본에서 열리는 제20회 아이치-나고야 아시안게임의 대표팀 발탁이 유력한 후보 중 하나.",
-      "하지만 마지막 통과 의례가 있다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne4a4e67d",
-    "category": "사회",
-    "source": "조선일보",
+    "id": "ne943b2ff",
+    "category": "경제",
+    "source": "머니투데이",
     "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/09/HBRDEMLGGI2TOYRWGBSGCMRYGU/",
-    "title": "‘최민우♥’ 김환희, 父 병수발들며 목욕까지 시킨 효녀였다 “신부 입장 같이 하고팠는데”(조선의 사랑꾼)[순간포착]",
+    "url": "https://www.mt.co.kr/society/2026/06/09/2026060906013722814",
+    "title": "\"전국으로 확대해 달라\"…6000원으로 '문콕' 해결, 만족도 99% 수직주차선",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 김환희가 먼저 떠난 아버지를 그리워했다.8일 방송된 TV조선 ‘조선의 사랑꾼’에서는 뮤지컬 배우 김환희, 최민우의 결혼식이 공개되었다.김환희는 결혼을 앞두고 가족들과 호캉스를 했다고 밝혔다.",
-      "그는 “결혼 전에 그 기분을 내보자 싶었다.",
-      "그 호텔이 아버지가 돌아가시기 전에 병원에."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n5b2ad9f1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260609/134074315/1",
-    "title": "“액운 낀다고 난리”…숨진 절친 조문했다가 예비 신부와 싸운 사연",
-    "summary": [
-      "친구 장례식장 방문을 두고 예비 신부와 갈등을 겪었다는 한 남성의 사연이 온라인에서 화제가 됐다.최근 직장인 익명 커뮤니티 블라인드에는 ‘결혼 앞두고 장례식장 가는 거 어떻게 생각하냐’는 제목의 글이 올라왔다.작성자 A씨는 “결혼을 4개월 앞두고 친한 친구가 세상을 떠났다”며 “나한테는 참 소중한 사람이라 장례식장에 다녀왔다”고 밝혔다.",
-      "이어 “안 그래도 슬프고 괴롭고 힘든 상황인데 어머니와 여자친구가 둘 다 난리”라며 “결국 두 사람과 모두."
+      "온라인에서 충남 공주시가 도입한 '수직주차선'에 대한 호평이 잇따르고 있다.",
+      "수직 주차선은 바닥 주차선을 후방 시설물의 일정 높이까지 수직으로 연장해 도색한 입체형 주차유도선이다.",
+      "9일 한 온라인 커뮤니티에서 공주시의 수직주차선에 대해 \"진짜 좋은 아이디어다\", \"고속도로 색상 유도선만큼 좋은 아이디어가 많이 나와 편리한 세상이 됐으면 좋겠다\", \"아이디어 낸 사람을 포상해야 한다\"는 평가가 이어졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncc2790b7",
+    "id": "nc45b9ac6",
     "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608097900546",
+    "title": "[인&아웃] 한국 증시의 '민낯'",
+    "summary": [
+      "(서울=연합뉴스) 김종우 선임기자 = 예상대로 8일은 블랙 먼데이였다.",
+      "\"주가는 오를 때 계단이지만, 떨어질 땐 엘리베이터\"라는 증시 격언이 현..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2afdef2c",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609006600007",
+    "title": "[월드컵] '15분도 안 돼' 체코 훈련 전면 비공개…한국전 준비 박차",
+    "summary": [
+      "(맨스필드[미국 텍사스주]=연합뉴스) 최송아 기자 = 2026 북중미 월드컵 홍명보호의 첫 상대인 체코 축구 대표팀이 훈련장 문을 완전히 걸어 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf161524",
+    "category": "IT",
     "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/09/2026060905230722030",
-    "title": "\"공개 연애하지 마\"…조현영, '전남친' 알렉스 간접 언급에 당황",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/industry/2026/06/09/2026060820353864118",
+    "title": "총수들 잇달아 만난 젠슨 황…방한 내내 '깐부 외교'",
     "summary": [
-      "그룹 레인보우 출신 가수 조현영이 과거 공개 열애를 했던 가수 알렉스를 간접적으로 언급했다.",
-      "지난 2일 유튜브 채널 '그냥 조현영'에는 '선 씨게 넘은 패밀리 어택'이라는 제목의 영상이 올라왔다.",
-      "해당 영상은 유튜브 채널 '피식대학'의 '긁' 콘텐츠를 패러디한 영상이다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n82a67274",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003661232",
-    "title": "뉴욕증시, 반도체주 반등·이란 대이스라엘 공격 중단 속 혼조 마감",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 뉴욕증시는 8일(현지 시간) 이란이 이스라엘에 대한 공격을 멈춘 가운데 반도체 주 반등 속에 혼조세로 장을 마감했다.",
-      "마켓워치, CNBC에 따르면 이날 뉴욕증권거래소(NYSE)에서 우량주 중심의 다우존스 30 산업평균 지수는 전장 대비 80.77포인트(0.16%) 하락한 5만786.01에 거래를 마쳤다.",
-      "반면 스탠더드앤드푸어스(S&P) 500 지수는 21.99포인트(0.30%) 상승한 7405.73에 장을 마감했."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "ncfed1513",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260609007600071",
-    "title": "美상원 유권자법 발목에 트럼프 발끈…\"의사규칙 담당관 잘라야\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령이 8일(현지시간) 자신이 역점을 둔 '투표자격보호법'(SAVE America A..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n28aadbc8",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608178500017",
-    "title": "[젠슨황 방한] ③ 젠슨 황이 남긴 선물과 숙제…한국 AI 무엇 얻었나",
-    "summary": [
-      "(서울=연합뉴스) 권하영 기자 = 젠슨 황 엔비디아 최고경영자(CEO)의 닷새간 방한은 한국 인공지능(AI) 산업의 가능성과 한계를 동시에 드러..."
+      "[젠슨 황, 그룹 총수 릴레이 미팅](하) ━'진짜 깐부' 인증한 젠슨 황-최태원..이달 들어서만 다섯번 만나━ \"SK와 오랜 파트너십, 우정을 이어왔다.\" \"우리의 파트너십은 앞으로 계속 커질 것이다.\" 젠슨 황 엔비디아 최고경영자(CEO)와 최태원 SK그룹 회장이 두 사람간 우정과 파트너십을 한층 공고히했다.",
+      "이달 들어서만 다섯차례 만나며 진정한 '브로맨스'를 과시했다.",
+      "두 사람의 만남은 인공지능(AI) 기가팩토리 구축과 차세대 메모리 공동."
     ],
     "chips": [
       "#AI",
@@ -398,250 +395,248 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n303df95e",
+    "id": "n373a2659",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608175800017",
-    "title": "[젠슨황 방한] ② 삼겹살·야구·게임…한국서 찾은 '피지컬 AI 동맹'",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026060816053144997",
+    "title": "미끄러져도 치명상…불난데 기름 붓는 '삼전닉스 레버리지 ETF'",
     "summary": [
-      "(서울=연합뉴스) 한상용 기자 = 젠슨 황 엔비디아 최고경영자(CEO)의 4박 5일간의 방한은 삼겹살 회동, 야구장 시구, 페이커와 만남 등으로..."
+      "지난달 27일 단일종목(삼성전자·SK하이닉스) 레버리지 ETF가 한국 ETF 시장 개설 이후 최대 규모(4조3000억원)로 상장됐다.",
+      "상장 직후 거래대금이 역대 최대치를 갈아치울 만큼 자금이 몰리고 있는 가운데, 레버리지 특유의 변동성 증폭 구조가 시장 전체의 출렁임을 키우고 있다는 우려의 목소리가 커지고 있다.",
+      "전문가들은 변동성에 휩쓸리기보다 기업 실적에 기반한 냉정한 판단이 필요하다고 조언한다."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n663d8544",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003660815",
+    "title": "李-새 시도지사 첫 만남 언제?…중앙지방협력회의 주목",
+    "summary": [
+      "[세종=뉴시스]성소의 기자 = 6·3 지방선거를 통해 선출된 민선 9기 시도지사들과 이재명 대통령의 첫 공식 만남이 이르면 올해 3분기 중 이뤄질 전망이다.",
+      "9일 행정안전부에 따르면 이 대통령이 주재하는 중앙지방협력회의는 올해 3분기 개최를 목표로 준비 중이다.",
+      "중앙지방협력회의는 대통령을 비롯해 시도지사, 지방 4대 협의체 대표, 국무총리, 관계부처 장관 등이 참석하는 중앙·지방 간 최고 의사결정기구다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4ad9dffb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003660941",
+    "title": "李 \"公기관 지방 이전 몰아서\"…발전 5사, 통폐합 논의 급물살 타나",
+    "summary": [
+      "[세종=뉴시스]손차민 기자 = 이재명 대통령이 공공기관 지방 이전 과정에서 유사한 기능을 하는 기관들을 한데 모으겠다는 구상을 밝히면서, 공공기관 개편 논의가 급물살을 탈 전망이다.",
+      "특히 이달 발전 공기업 5사(동서·서부·중부·남동·남부발전) 통폐합 연구용역의 중간 결과 발표를 앞두고 있는 만큼, 발전 공기업 개편 방향과 통합 본사 후보지에도 관심이 모아진다.",
+      "9일 정부에 따르면 이 대통령은 지난 8일 취임 1주년 기자간담회에서 \"공기업 지방."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9f88d864",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026060945507",
+    "title": "SK하이닉스 임단협 이달 개시…\"내외부 상황 고려해 잘 대처하자\"",
+    "summary": [
+      "SK하이닉스 임단협 이달 개시…\"내외부 상황 고려해 잘 대처하자\"."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n5d31d9b4",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/09/2026060906013513187",
+    "title": "인텔, 구글 TPU 300만개 만든다…주가 11% 급등",
+    "summary": [
+      "인텔이 구글의 인공지능(AI) 반도체 생산 물량을 대규모 수주했단 소식에 8일(현지시간) 주가가 두자릿수 급등했다.",
+      "이날 미국 IT 전문 매체 디인포메이션은 사안에 정통한 복수의 소식통을 인용해 구글이 2028년 텐서처리장치(TPU) 300만개 이상을 인텔에 맡기기로 했다고 보도했다.",
+      "구글은 수개월간 인텔의 기술을 테스트한 끝에 이 같은 결정을 내린 것으로 전해졌다."
     ],
     "chips": [
       "#AI",
-      "#엔비디아",
-      "#KBO"
+      "#반도체"
     ]
   },
   {
-    "id": "ne2263a7b",
-    "category": "IT",
+    "id": "n1e1a8534",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608174600003",
-    "title": "[젠슨황 방한] ① 젠슨황은 왜 한국을 찾았나…\"AI 패권의 핵심 거점\"",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609011100053",
+    "title": "대구·경북 대체로 맑고 오후 일부지역 소나기…낮 최고 30도",
     "summary": [
-      "(서울=연합뉴스) 조성흠 기자 = \"한국은 인공지능(AI)에 투자할 수 있는 훌륭한 기회이자 위대한 미래\"."
+      "(대구=연합뉴스) 최수호 기자 = 9일 대구·경북은 대체로 맑은 가운데 오후 들어 일부 지역에 소나기가 내리겠다."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "na3eb57ed",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/09/2026060905275178403",
-    "title": "\"시리야, 월드컵 한국표 어떻게 구해?\"…제미나이 품은 아이폰 공개",
+    "id": "nab92a922",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609010700064",
+    "title": "충북 대체로 맑아…낮 최고 28도",
     "summary": [
-      "애플이 음성비서 '시리'에 구글 인공지능(AI) 챗봇 제미나이를 기반으로 AI 기능을 통합한 '시리AI'를 8일(현지시간) 공개했다.",
-      "시리AI는 스마트폰 화면에 표시된 내용이나 이미지를 인식하고 이전 대화 내용이나 사진, 이메일 등의 맥락을 바탕으로 인터넷 검색을 통한 외부 정보 등을 활용해 답변하는 기능을 갖췄다.",
-      "이를테면 2026 북중미 월드컵에서 한국 국가대표팀 경기가 언제인지, 관람권은 어떻게 구할 수 있는지를 물으면 경기일정과 함께 관."
+      "(청주=연합뉴스) 김형우 기자 = 충북은 9일 대체로 맑겠다."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "n4b291904",
+    "id": "naac1f856",
     "category": "경제",
     "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/09/2026060905152019643",
-    "title": "\"친구가 데이팅앱서 제 남편을 봤습니다\"…신혼 2년차 아내 '멘붕'",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/09/2026060822561361351",
+    "title": "18년 만에 차디찬 냉동고 벗어난 어머니…아들은 목놓아 울었다 [오따뉴]",
     "summary": [
-      "결혼 2년차에 다른 이성과의 만남을 목적으로 하는 '데이팅앱'에서 남편의 프로필을 발견했다는 여성의 사연이 화제다.",
-      "9일 한 온라인 커뮤니티에는 '친구가 데이팅앱에서 제 남편을 찾았습니다'란 제목의 글이 올라왔다.",
-      "작성자 A씨는 \"방금 절친한테 카톡으로 캡처 사진 몇 장을 받고 머리가 하얘졌다\"며 \"친구가 결혼하고 싶다고 소개팅과 앱을 하다가 너무 낯익은 얼굴을 보고 기겁해 저에게 바로 캡처해 보냈다\"고 운을 뗐다."
+      "우리가 사는 세상은 아직 따뜻합니다.",
+      "[오따뉴 : 오늘의따뜻한뉴스]를 통해 그 온기와 감동을 만나보세요.",
+      "\"어머니 유골함 처리 방법을 잘 모르겠어요\" 최근 서울 강남경찰서 논현1파출소에 전화벨이 울렸다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3ed4e7b5",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/09/2026060905132687517",
-    "title": "6개월간 '아기방 홈캠' 몰래 본 시모...\"싸우고 스킨십도 했는데\" 소름",
-    "summary": [
-      "아기 방에 설치한 CCTV를 시어머니가 6개월 동안 몰래 지켜보고 있었다는 사실을 알게 돼 충격이라는 여성의 사연이 전해졌다.",
-      "최근 직장인 익명 커뮤니티 블라인드에는 '아기 방 CCTV 나 몰래 6개월간 보고 계셨던 시어머니'라는 제목의 글이 올라왔다.",
-      "작성자 A씨는 어느 날 아침 시어머니에게 다급한 전화를 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nee0b45a1",
+    "id": "n895bcc7b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003661108",
-    "title": "최저임금 오늘 4차 회의…'배달라이더' 적용 논의 계속",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260609_0003661241",
+    "title": "부산, 아침부터 맑은 날씨…낮 최고기온 24도",
     "summary": [
-      "[세종=뉴시스] 고홍주 기자 = 내년도 적용 최저임금을 심의하는 최저임금위원회(최임위)가 네 번째 회의를 열고 택배기사·배달라이더 등 특수고용직(특고)·플랫폼노동자에 대한 적용 확대 논의를 이어간다.",
-      "최임위는 9일 오후 정부세종청사에서 제4차 전원회의를 개최한다.",
-      "이날 회의에서는 지난 회의에서와 마찬가지로 '도급근로자'에 대한 최저임금 적용 여부가 논의될 예정이다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n7b2fec29",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260605_0003657680",
-    "title": "[오늘의 주요일정]국토교통부(6월9일 화요일)",
-    "summary": [
-      "[서울=뉴시스] ◇장관 ▲국외출장(중국) ◇1차관 ▲10:30 국무회의(서울) ◇2차관 ▲10:30 도로공사 휴게소 현장점검(용인) ◇대도시권광역교통위원장 ▲통상일정."
+      "[부산=뉴시스] 하경민 기자 = 9일 부산지역은 구름 많다가 아침부터 맑은 날씨가 이어질 것으로 부산기상청은 예보했다.",
+      "이날 낮 최고기온은 24도, 10일 아침 최저기온은 17도로 예상됐다.",
+      "오전까지 해안에는 너울에 의한 높은 물결이 백사장으로 강하게 밀려오거나 갯바위 및 방파제를 넘는 곳이 있을 것으로 부산기상청은 내다봤다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n11e9b238",
+    "id": "n5f731387",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003660830",
-    "title": "[오늘의 주요일정]해양수산부(6월9일 화요일)",
-    "summary": [
-      "[서울=뉴시스]정진형 기자 = ◇장관 ▲10:00 2026 해양주간 개회식(부산) ▲10:00 국무회의(서울) ◎공감언론 뉴시스 formation@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndbc917a6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/06/09/2HIYGIKXIBGOJPOCCCAK5SP4IM/",
-    "title": "황금률 5cm 뒷굽·6중 충격 흡수 워킹화, 3만원대 조선몰 단독 특가",
-    "summary": [
-      "황금률 5cm 뒷굽·6중 충격 흡수 워킹화, 3만원대 조선몰 단독 특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3535f8cc",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/medical/2026/06/09/PEOOPET53RHARINXYGL3RUOWXA/",
-    "title": "[함영준의 마음PT] 장성한 딸을 보내며 부모는 또 한 번 성장한다",
-    "summary": [
-      "[함영준의 마음PT] 장성한 딸을 보내며 부모는 또 한 번 성장한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd36008a2",
-    "category": "스포츠",
     "source": "아시아경제",
     "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026060905292301162",
-    "title": "닉스 응원 나선 트럼프…뉴욕에서 중간선거 시험대",
+    "url": "https://view.asiae.co.kr/article/2026060906195853376",
+    "title": "美 법원, 전문직 비자 수수료 10만달러 인상에 제동",
     "summary": [
-      "도널드 트럼프 미국 대통령이 53년 만의 우승을 눈앞에 둔 뉴욕 닉스의 홈 경기장을 찾는다.",
-      "미국프로농구(NBA) 파이널 무대에 대통령이 등장하면서 중간선거를 앞둔 외연 확장 행보라는 해석도 나온다.",
-      "8일(현지시간) 뉴욕타임스(NYT), 블룸버그통신 등에 따르면 트럼프 대통령은 뉴욕 맨해튼 매디슨스퀘어가든(MSG)에서 열리는 NBA 파이널 3차전 뉴욕 닉스와 샌안토니오 스퍼스의 경기를 관람한다."
+      "미국 법원이 트럼프 행정부의 전문직 비자 수수료 인상 조치에 제동을 걸었다.",
+      "전문직 취업비자인 H-1B 신청 수수료를 10만달러로 올린 것은 의회 승인 없이 부과한 세금에 해당한다는 판단이다.",
+      "8일(현지시간) 월스트리트저널(WSJ) 등 외신에 따르면 매사추세츠 연방법원의 리오 소로킨 판사는 캘리포니아주 등 민주당 소속 20개주 법무장관이 제기한 소송에서 트럼프 행정부의 H-1B 비자 수수료 인상 조치가 위법하다고 판단했다."
     ],
     "chips": [
-      "#정치"
+      "#취업"
     ]
   },
   {
-    "id": "n168d0710",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026060905243894493",
-    "title": "트럼프 이름 붙였다가 결국 철거…美 케네디센터, 법원 명령에 삭제 착수",
-    "summary": [
-      "미국 워싱턴D.C.의 케네디센터가 센터 명칭에 추가했던 도널드 트럼프 대통령의 이름을 삭제하기 시작했다.",
-      "법원이 의회 승인 없이 명칭을 바꾼 것은 위법하다고 판단한 데 따른 조치다.",
-      "8일(현지시간) 워싱턴포스트(WP)에 따르면 케네디센터는 공식 웹사이트와 유튜브 페이지에서 트럼프 대통령의 이름을 삭제했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc0dc623c",
+    "id": "n0fc8cc29",
     "category": "경제",
     "source": "아시아경제",
-    "time": "35분 전",
-    "url": "https://view.asiae.co.kr/article/2026060905092287266",
-    "title": "메이저 대회 4위 전인지, 세계랭킹 97위→43위",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026060814194276959",
+    "title": "[클릭 e종목]\"이마트, 복합개발 성장 주목…목표가 유지\"",
     "summary": [
-      "'플라잉 덤보' 전인지가 세계랭킹 43위로 올라섰다.",
-      "그는 8일(현지시간) 공식 발표된 여자 골프 주간 세계랭킹에서 2.02점을 받아 지난주 97위에서 무려 54계단이나 도약했다.",
-      "전날 미국 캘리포니아주 퍼시픽 팰리세이즈의 리비에라 컨트리클럽(파71)에서 열린 제81회 US여자오픈(총상금 1250만달러)에서 4위에 올라 랭킹 포인트를 획득했다."
+      "이마트가 본업 펀더멘털(기초체력) 회복과 더불어 자회사 신세계프라퍼티의 가파른 복합개발 성장세를 통해 기업가치를 끌어올리고 있다는 분석이 나왔다.9일 IBK투자증권에 따르면 전날 남성현 연구원은 이마트에 대해 \"중장기적으로 핵심 사업부는 신세계프라퍼티가 될 가능성이 높다\"며 투자의견 매수와 목표주가 12만원을 유지했다.",
+      "이마트는 과거 쇼핑몰 중심에서 테마파크, 워터파크, 스타필드, 골프장, 호텔·리조트, 공동주."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n06a8284f",
+    "id": "n8e2c5173",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260608_0003661067",
+    "title": "밥먹고 나니 '텅장'…장애인 엥겔지수, 6년 연속 상승세",
+    "summary": [
+      "[서울=뉴시스] 구무서 기자 = 저소득과 가계빈곤 등을 나타내는 엥겔지수가 장애인 가구의 경우 비교적 높은 36.4%에 달하는 것으로 나타났다.",
+      "9일 한국장애인개발원 장애인삶 패널데이터 이용 안내서에 따르면 전체 지출 중 식료품비가 차지하는 비율인 엥겔지수는 2024년 기준 36.4%다.",
+      "전체 지출은 221만원인데 외식을 포함한 식료품비는 80만5000원이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92567e6c",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608156800030",
+    "title": "4월 방한객 소비액 1조3천억원 '역대 최대'…전년비 54.6% 증가",
+    "summary": [
+      "(서울=연합뉴스) 이상서 기자 = 올해 4월 한국을 찾은 외국인 관광객이 지출한 금액이 역대 최대인 1조3천억원을 넘어선 것으로 집계됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n741b214b",
     "category": "IT",
     "source": "아시아경제",
-    "time": "36분 전",
-    "url": "https://view.asiae.co.kr/article/2026060905080983067",
-    "title": "[속보]이란-이스라엘 공격 중단…뉴욕증시 혼조 마감",
+    "time": "24분 전",
+    "url": "https://view.asiae.co.kr/article/2026060906104540879",
+    "title": "[뉴욕증시]반도체 반등…S&P500·나스닥 상승 마감",
     "summary": [
-      "이란과 이스라엘이 공격을 중단하기로 결정했다는 소식에 힘입어 반도체 업종이 반등하며 8일(현지시간) 미국의 3대 지수는 혼조세로 마쳤다.",
-      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 0.16% 내리며 마감했다.",
-      "대형주 중심의 S&P500지수는 0.30% 상승했고, 기술주 중심의 나스닥지수는 0.86% 올라 장을 마무리했다."
+      "미국과 이스라엘이 공격을 중단한다고 밝힌 가운데 반도체 업종이 반등에 성공하면서 8일(현지시간) 미국의 3대 지수는 혼조세로 마감했다.",
+      "뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 80.77포인트(0.16%) 내린 5만0786.01에 마쳤다.",
+      "대형주 중심의 S&P500지수는 21.99포인트(0.30%) 상승한 7405.73, 기술주 중심의 나스닥지수는 220.231포인트(0.86%) 오른 2만5929.663에."
     ],
     "chips": [
       "#반도체"
     ]
   },
   {
-    "id": "n10aa367a",
-    "category": "IT",
-    "source": "테크M",
-    "time": "51분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152451",
-    "title": "전영현 삼성전자 대표 \"엔비디아와 HBM4·파운드리 논의...결과로 보여주겠다\"",
-    "summary": [
-      "전영현 삼성전자 대표도 젠슨 황 엔비디아 최고경영자(CEO)를 만났다.",
-      "메모리반도체 공급과 파운드리(위탁생산) 확대 등을 논의했다.",
-      "삼성전자는 엔비디아를 두고 메모리는 SK하이닉스 파운드리는 TSMC를 추격해야 하는 입장이다.8일 전 대표는 서울 중구 서울신라호텔에서 황 CEO 등 엔비디아 경영진과 사업 협력을 의논했다.전 대표는 \"오랫동안 협력했는데 오늘 가장 좋은 얘기를 나눴다\"라며 \"단기적으로는 6세대 고대역폭메모리(HBM) HBM4와 파."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n69e8714d",
+    "id": "n2ebba98a",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260609005800072",
-    "title": "급등했던 국제유가, 이-이란 교전 중단에 1% 안팎 상승 마감",
+    "source": "한국경제",
+    "time": "28분 전",
+    "url": "https://www.hankyung.com/article/202606083190g",
+    "title": "마이바흐 타던 젠슨황이 선택한 '국산차 끝판왕'…의전차 바뀐 이유",
     "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 8일(현지시간) 이란과 이스라엘의 무력 충돌 영향으로 장 중 한때 5% 이상 급등했던 국제유가가 양국의 상호..."
+      "마이바흐 타던 젠슨황이 선택한 '국산차 끝판왕'…의전차 바뀐 이유."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "na6eb895e",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260608125100003",
+    "title": "전세사기 피해자 3만9천명 넘어…피해 인정률 60.4%",
+    "summary": [
+      "(세종=연합뉴스) 오진송 기자 = 국토교통부는 5월 전세사기 피해지원위원회 전체회의를 3차례 열어 618건을 전세사기 피해자 등으로 최종 가결했..."
+    ],
+    "chips": [
+      "#전세"
     ]
   }
 ];
@@ -651,20 +646,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "엔비디아",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
