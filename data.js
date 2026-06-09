@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-09 17:39:20
+// 마지막 업데이트: 2026-06-09 18:40:33
 window.NEWS_DB = [
   {
     "id": "ne6b65319",
     "category": "IT",
     "source": "Korea IT Times",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94aHhlU3UyMld3T3RtdzhKZXZ0TFFnRjdleTQ1QzJkV2VZNE9mVFhuYktUemdJRnlpcXI4ZV9IaFpCRzQ4My1Ra1gtcnUyUDJQc3d6U2NNeEcxQkx4bkEyM2VnWEVheFdqd3NlZk8wLVM?oc=5",
     "title": "전영현-젠슨 황 회동… 삼성전자, 엔비디아 AI 공급망 핵심 축 노린다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nc378ea82",
     "category": "IT",
     "source": "IT조선",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnT3BhUkZzekJ1OTUzY2gzVjhLZ3JsNVFCMzVmXzBhTEh2TFViRU9wcDdrUDBMRWhfcTJUcGtuYWdWNHQ1N1B0TnZYMkZUUlZ0YzI2N2xtd3l3YklDVjBmTjgwdEVzVERVYlYxdzQ3eVfSAXRBVV95cUxNMzBjeDFCRGxEaHlZZ0IxU2w5WU1WSkQ1VnVidmxJcHNtWG9FY2c0RDV6cnBmYkV0SEVGMWRvYkgyVUxaMV9EbHBBbFp6VmhNRWc3TEVlQUZ4dTBjekwtXzQtVVdNMVROWWZveXM5cUtMX0lNMQ?oc=5",
     "title": "젠슨 황 만난 삼성 전영현 “HBM·파운드리 등 협력 논의”",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n72c079e9",
     "category": "IT",
     "source": "쿠키뉴스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWnRFeWhHQ3QtcWRHY3NFLUxvQXpOMWpaNk1oRUV5bUgyOWRZYklETm5GdVp5OVZVMlBHcTFjMXdzZHdlRk5jaVF0RGsxYXh1emh6WFktOGpkbktGYkFnUmNPaw?oc=5",
     "title": "국산 AI반도체, 460억원 수출 성과…과기부 “엔비디아급 기술력” 자신",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "na266de34",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzZEQwYjFPZE9QLU5wYUM2Vjl3VjdDd2s5dkR4eWdiWENPS2J1RF90Wjluc1lFWmhFVWVqOXJxcTF6UEFvUzNHR3pkVQ?oc=5",
     "title": "SK엔 \"2030년 캐파 2배도 부족\"…삼성엔 \"HBM·파운드리 협력\"",
     "summary": [
@@ -123,22 +123,6 @@ window.NEWS_DB = [
       "#AI",
       "#엔비디아",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nc3609b09",
-    "category": "사회",
-    "source": "브런치",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NDMyV3FJOVJzMUxNRXFOY3NYZ1ZIX0diNXVxNXRQUFRHZ0JyS0otb25zT3R3SGhEOUZaYWxaYlBEanZXWDhZSTYzcDU4TW82NmdZ?oc=5",
-    "title": "중장년 지원금 신청 (재취업,고용,채용,일자리,취업)",
-    "summary": [
-      "중장년 지원금 신청 (재취업,고용,채용,일자리,취업) 브런치."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -225,6 +209,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "20일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
     ]
   },
   {
@@ -315,10 +314,172 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne151d8b5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610004300530",
+    "title": "\"울산 북구 동북동쪽 바다서 규모 2.9 지진…피해 없을듯\"",
+    "summary": [
+      "(서울=연합뉴스) 10일 오전 3시 16분 57초 울산 북구 동북동쪽 24km 해역에서 규모 2.9의 지진이 발생했다고 기상청이 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nca01cba0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260609_0003661390",
+    "title": "\"신나게 흔들면 살 쏙\"…서인영, 40대 나이 무색한 '아침 줌바댄스' 효과",
+    "summary": [
+      "[서울=뉴시스]김수빈 인턴 기자 = 가수 서인영(41)이 아침 운동으로 줌바댄스를 추천했다.",
+      "지난 4일 구독자 약 82만명을 보유한 유튜브 채널 '개과천선 서인영'에는 '서인영이 아침부터 리얼로 사용하는 찐템들 싹 다 공개'라는 제목의 영상이 올라왔다.",
+      "서인영은 \"아침 운동으로 줌바댄스를 한다\"며 \"신나게 움직이면 살이 잘 빠진다\"고 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbc3c2cab",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/economy/real_estate/2026/06/10/PBE56GTPRBB4XEHEFSCEE46UAU/",
+    "title": "분당의 3배… 동탄 실수요자라면 대체 어디부터 봐야 하나",
+    "summary": [
+      "분당의 3배… 동탄 실수요자라면 대체 어디부터 봐야 하나."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb06da3c3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/06/10/5D6OFZBDHJHPPLJMK6TK3DZNIQ/",
+    "title": "발 디딜 때마다 무릎 손상… 충격 줄여주는 2분 루틴",
+    "summary": [
+      "발 디딜 때마다 무릎 손상… 충격 줄여주는 2분 루틴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8c1eb7b1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/economy/money/2026/06/10/73DW5OYDDJBFNJP2HJX6Q6ZQRY/",
+    "title": "대기업 은퇴 후 7년…경제적 자유를 가져다준 실제 투자 포트폴리오 공개",
+    "summary": [
+      "대기업 은퇴 후 7년…경제적 자유를 가져다준 실제 투자 포트폴리오 공개."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n513a3ded",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/10/VZF62L5Q3ZHFFE6QYQRF52VQ3U/",
+    "title": "英 투자은행이 꼽은 월드컵 우승 후보는?",
+    "summary": [
+      "英 투자은행이 꼽은 월드컵 우승 후보는?."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1a86dcd1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "46분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003662916",
+    "title": "벨기에 동포 만난 이 대통령 \"韓 세계 문화 중심국가로…자랑스러운 대한민국 만들 것\"",
+    "summary": [
+      "[브뤼셀·서울=뉴시스] 김지은 김경록 기자 = 유럽 순방길에 오른 이재명 대통령이 9일(현지시간) 첫 방문지인 벨기에 브뤼셀에서 교민들과 만나 \"대한민국에 대한 평가가 아주 짧은 시간 극적으로 바뀌었다\"며 \"자랑스러운 대한민국을 만드는 게 여러분들에게 도움 되는 길이 아닐까 생각한다\"고 밝혔다.",
+      "이 대통령은 이날 오후 브뤼셀의 한 호텔에서 열린 현지 동포들과의 만찬 간담회로 9박10일 순방 일정을 시작했다.",
+      "이 대통령은 \"본국의 위상이나 세계에."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9eaae470",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610003900001",
+    "title": "벨기에 교민 만난 李대통령 \"격변에 걱정…더 나은 韓 보여줄것\"",
+    "summary": [
+      "(브뤼셀=연합뉴스) 임형섭 고동욱 기자 = 벨기에를 방문 중인 이재명 대통령은 9일(현지시간) 브뤼셀 시내 한 호텔에서 현지 교민들과 만찬 간담..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "naf3fbd22",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "49분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003662920",
+    "title": "이란 \"美, 약속 어기면 우리 방식대로 대응\"…헬기 격추에 긴장 재고조",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 대미 협상을 이끄는 모하마드 바게르 갈리바프 이란 의회 의장이 미국을 향해 합의를 어길 경우 강경 대응에 나설 것이라고 경고했다.",
+      "도널드 트럼프 미국 대통령이 이란의 미군 아파치 공격헬기 격추에 대한 대응 방침을 밝힌 가운데, 양국 간 긴장이 다시 고조되는 모습이다.",
+      "9일(현지 시간) CNN에 따르면 갈리바프 의장은 이날 엑스(X)에 올린 글에서 \"우리는 외교의 언어를 선호하지만, 다른 언어는 훨씬 더 유창하게 구."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n07a7d529",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "58분 전",
+    "url": "https://view.asiae.co.kr/article/2026061002413036050",
+    "title": "트럼프, 이란에 보복 경고…\"미군 아파치 격추됐다\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 이란이 호르무즈 해협 상공을 순찰하던 미군 아파치 공격헬기를 격추했다고 주장하며 보복을 경고했다.",
+      "미국과 이란이 종전 협상 막바지 조율을 이어가는 가운데 군사적 긴장이 다시 고조되고 있다.",
+      "트럼프 대통령은 9일(현지시간) 자신의 사회관계망서비스(SNS) 트루스소셜에 \"이란이 미군 아파치 헬기를 격추했다\"며 \"조종사 2명은 무사하며 부상도 없지만, 미국은 반드시 이번 공격에 대응해야 한다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc4438a6b",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610003600087",
+    "title": "[월드컵] 교통대란 우려에…멕시코시티 개막일 '재택근무령'",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 멕시코 수도 멕시코시티에 근무하는 연방 공무원들이 2026 북중미 월드컵이 개막하는 11일(현지시간) ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ne88c0302",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260610_0003662919",
     "title": "트럼프 \"이란, 美 아파치 헬기 격추\"…보복 시사",
     "summary": [
@@ -331,46 +492,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9ccb54d0",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/10/ME4DSMLEMY2DQYZRGQZDGMTCG4/",
-    "title": "경악! 한국인이 ML 타격 2위 실화? 이정후 전국구 스타 급부상, 美 “LEE 연속 안타 행진, SF 넘어 미국이 주목한다”",
-    "summary": [
-      "[OSEN=이후광 기자] 한국인이 메이저리그 전체 타격 2위라니.",
-      "‘바람의 손자’ 이정후(샌프란시스코 자이언츠)가 16경기 연속 안타를 앞세워 그 어려운 걸 해냈다.",
-      "이정후는 9일(이하 한국시간) 미국 캘리포니아주 샌프란시스코 오라클파크에서 열린 2026 메이저리그 워싱턴 내셔널스와의 홈경기에 5번 우익수로 선발 출전해 5타수 4안타 2득점 맹활약했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n16c0ac97",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003662917",
-    "title": "호르무즈 해협서 추락한 미군 헬기…무인 수상정이 구조",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 미군 공격헬기가 9일(현지 시간) 새벽 호르무즈 해협 인근에서 추락했으나 무인 수상정이 승무원 2명을 구조했다.",
-      "AP통신 등에 따르면 미 중부사령부(CENTCOM) 팀 호킨스 대변인은 길이 약 7.3m(24피트)의 무인 수상정이 물에 빠진 조종사 2명을 발견해 약 2시간 만에 구조했다고 밝혔다.",
-      "구조된 승무원들은 현재 치료를 받고 있으며 상태는 안정적인 것으로 전해졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc121ddbf",
-    "category": "사회",
+    "id": "nd1bc06c2",
+    "category": "IT",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610003000075",
-    "title": "美NASA '아르테미스 3호' 임무에 첫 유럽인 우주비행사 참여",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610003200091",
+    "title": "구글, 제미나이3.5 기반 번역 모델 출시…70여 언어 동시통역",
     "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국이 반세기만의 유인 달 탐사를 위해 진행 중인 '아르테미스'(Artemis) 프로젝트에 처음으로 ..."
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 구글이 70여 가지 언어를 실시간 통역할 수 있는 번역 모델을 내놨다."
     ],
     "chips": [
       "#뉴스"
@@ -380,7 +509,7 @@ window.NEWS_DB = [
     "id": "nfe4cebf4",
     "category": "스포츠",
     "source": "테크M",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152490",
     "title": "우리은행, 런던서 '원화 투자 교두보' 쐐기 박았다",
     "summary": [
@@ -395,7 +524,7 @@ window.NEWS_DB = [
     "id": "n32f36b5f",
     "category": "IT",
     "source": "테크M",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152489",
     "title": "최태원 SK 회장, 한일 '빅텐트' 제안...\"에너지·AI 협력 '윈윈'\"",
     "summary": [
@@ -409,10 +538,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1b4ab8e2",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026061002225624452",
+    "title": "美 에너지장관 \"호르무즈 통과 선박 의미있게 증가 중\"",
+    "summary": [
+      "크리스 라이트 미국 에너지부 장관은 9일(현지시간) 호르무즈 해협을 통과하는 선박 수가 \"매우 의미 있게 증가하고 있다\"고 말했다.",
+      "라이트 장관은 이날 워싱턴DC에서 열린 미국 싱크탱크 애틀랜틱 카운슬이 주최한 '2026 글로벌 에너지 포럼'에 참석해 호르무즈 해협 통항량이 1~2주 전과 비교해 어떤 상황인지를 묻자 이같이 밝혔다.",
+      "라이트 장관은 이란 전쟁 후 호르무즈 해협 차단으로 인한 에너지 공급 충격에도 국제 유가가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ndafa62b3",
     "category": "사회",
     "source": "테크M",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152487",
     "title": "인증은 받았는데 데이터는 줄줄...티빙·CU 해킹에 ISMS 논란 재점화",
     "summary": [
@@ -425,26 +570,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nffa39d9b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/10/HBRDMODEMI3WCZDBG44TOOLGGI/",
-    "title": "구자욱이 배트를 던졌다...'ABS 탓? 활용?' 140㎞도 안되는 공, 삼성 강타자들 얼어붙은 이유 \"S존 상단 적극 공략\"",
-    "summary": [
-      "[수원=스포츠조선 정현석 기자]'고퀄스' 고영표(KT 위즈)가 완벽하게 부활했다.",
-      "고영표는 9일 수원 KT위즈파크에서 열린 삼성 라이온즈전에 선발 등판, 6이닝 4안타 무4사구 6탈삼진 1실점으로 5대2 승리를 이끌었다.",
-      "3경기 연속 퀄리티스타트로 3연승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n16d476d6",
     "category": "스포츠",
     "source": "테크M",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152486",
     "title": "[카드뉴스] 캐논·니콘 천하였는데.. '소니 알파'가 카메라 시장 판을 뒤집은 이유는 무엇일까",
     "summary": [
@@ -457,72 +586,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2e3bd846",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003661401",
-    "title": "병 잡으려다 병 걸린다? 방사능 범벅인 줄 모르고 받는 '이 검사'의 공포",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 건강검진센터들이 수십 가지 항목과 고가의 패키지 상품들을 소개하는 가운데, 과한 건강검진의 위험성을 경고하는 전문가의 목소리가 나왔다.",
-      "지난 8일, 구독자 277만 명을 보유한 유튜브 채널 '신사임당'에는 '죽음으로 이끄는 건강검진 1위 \"이 검사\"는 제발 피하세요 방사능 범벅입니다!'라는 제목의 영상이 게재됐다.",
-      "해당 영상에 출연한 김현수내과의원 줄기세포센터의 강형창 원장은 \"모든 검사는 이득과 실을 계산해."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n3aa70902",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "29분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/10/GZSGEYJRMU2WEYTCGZSGIMBYG4/",
-    "title": "“흐름상 굉장히 중요한 경기, 임찬규·박해민 활약 칭찬해” 염경엽 감독, 2연패 탈출에 활짝 웃었다",
-    "summary": [
-      "[OSEN=잠실, 길준영 기자] 프로야구 LG 트윈스가 투타조화를 이루며 2연패에서 탈출했다.",
-      "LG는 9일 서울 잠실구장에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에서 8-2 승리를 거두고 2연패를 끊었다.",
-      "LG 타선은 9안타를 몰아쳤다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nde637462",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610002800071",
-    "title": "트럼프 \"이란이 호르무즈 순찰하던 美헬기 격추…반드시 대응\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 9일(현지시간) 호르무즈 해협 상공을 비행하다 추락한 미군 아파치 헬기가 이란..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2dcc9c18",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "37분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/10/GM3GEMZZME4TAYLGGY2WMODFMI/",
-    "title": "음바페도, 해리 케인도 아니다! 세대교체 본격화 북중미월드컵 선수랭킹. 1위는 PSG의 에이스, 2위는 스페인 신성이었다",
-    "summary": [
-      "[스포츠조선 류동혁 기자] 킬리안 음바페도, 해리 케인도 아니었다.",
-      "2026년 북중미월드컵 최고의 선수는 PSG의 에이스 윙어 우스만 뎀벨레(프랑스)였다.",
-      "미국 ESPN은 9일(한국시각) 2026년 북중미월드컵 선수랭킹 톱 50을 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ncd7839d3",
     "category": "사회",
     "source": "한국경제",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202606106890i",
     "title": "李대통령, 브뤼셀 도착…10일 벨기에·EU와 정상회담",
     "summary": [
@@ -533,44 +600,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na8d9c3fa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610002600082",
-    "title": "독일 방산업계, 차세대 전투기 독자개발 추진",
+    "id": "n02ddb05e",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "2시간 전",
+    "url": "https://view.asiae.co.kr/article/2026060922402690696",
+    "title": "신유진, 드림 투어 첫 우승…\"아직도 실감이 나지 않는다\"",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 독일·프랑스·스페인의 차세대 전투기 공동개발 사업이 무산된 가운데 독일 방산업체들이 새 전투기 프로젝트를 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne85d9d5d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "48분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260609152251109",
-    "title": "'에너지난' 크림반도 계속 때리는 우크라…약한 고리 노렸나(종합)",
-    "summary": [
-      "(로마·이스탄불=연합뉴스) 민경락 김동호 특파원 = 최근 전장에서 '우위'를 보이고 있다는 평가를 받는 우크라이나가 러시아가 실효 지배 중인 크..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n55a8356e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "48분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003662914",
-    "title": "휴전 속 이스라엘 공습…이란 방공부대원 2명 사망",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 이스라엘의 공습으로 이란 방공부대 소속 대원 2명이 사망했다고 이란 매체가 보도했다.",
-      "9일(현지 시간) CNN에 따르면 이란 국영방송 IRIB는 사망한 대원들은 \"국가 영공 방어 임무를 수행하던 중\" 숨졌다고 전했다.",
-      "반관영 파르스통신은 이번 공격으로 테헤란시청 소속 직원 1명도 사망했다고 전했다."
+      "신유진이 한국여자프로골프(KLPGA) 드림(2부) 투어에서 첫 승을 올렸다.",
+      "그는 9일 강원도 평창군 휘닉스 컨트리클럽(파71·6378야드)에서 열린 휘닉스CC 드림 투어 9차전(총상금 7000만원)에서 2라운드가 짙은 안개로 취소됨에 따라 1라운드 성적만으로 우승을 차지했다.",
+      "신유진은 1라운드에서 10언더파 61타로 5타 차 선두에 올랐다."
     ],
     "chips": [
       "#뉴스"
@@ -580,7 +619,7 @@ window.NEWS_DB = [
     "id": "nd926e256",
     "category": "IT",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026060968301",
     "title": "中, 2조위안 투입해 AI 인프라 통합한다",
     "summary": [
@@ -588,51 +627,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "n3d5eb4f4",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026060968261",
-    "title": "'D램 1위' 삼성, 점유율 더 늘었다",
-    "summary": [
-      "'D램 1위' 삼성, 점유율 더 늘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n58f9c096",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260609/134080025/2",
-    "title": "전월세난에… 청년 1인가구 겨냥 공유주거 시장 커진다",
-    "summary": [
-      "최근 전월세 가격이 오르고 청년층 1인 가구 주거 수요가 늘면서 이를 타깃으로 한 공유주거시설 개발이 서울 곳곳에서 추진되고 있다.",
-      "매입형 민간임대주택 사업이 규제 강화와 세제 변화로 주춤한 사이 공유주거 기업과 대형 자산운용사 등이 ‘임대형 기숙사’ 형태의 주거시설 공급에 나서고 있다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nc337cc89",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260609/134080035/2",
-    "title": "코스피 8000 회복… ‘8% 급락’ 하루만에 ‘8% 급등’ 널뛰기 장세",
-    "summary": [
-      "코스피가 전날 8% 넘게 급락한 지 하루 만에 역대 최대 폭으로 상승하며 종가 기준 8,000 선을 다시 회복했다.",
-      "코스피가 널뛰기 장세를 보이며 ‘한국형 공포지수’로 불리는 코스피200 변동성지수(VKOSPI)는 집계가 시작된 이후 사상 최고치를 나타냈다.",
-      "9일 코스피는 전 거래일 대비 612.52포인트(8.18%) 오른 8,096.93에 거래를 마쳤다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -647,15 +641,15 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
