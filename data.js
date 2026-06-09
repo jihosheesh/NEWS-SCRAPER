@@ -1,27 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-09 13:50:36
+// 마지막 업데이트: 2026-06-09 16:06:57
 window.NEWS_DB = [
-  {
-    "id": "nc55212cd",
-    "category": "IT",
-    "source": "데일리팝",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oUnRFdTRrbXowNUpTZTd5YWs3NEJpVVZkR1BsSk95VUNfdUU4d1djcVl1RDNWNFVZZGVvcC1sNlNIR3Y2N1RHRFl1ZlVRZUt6QjhFUjlIRjNuUGFYZFU5N1lTWmNockNp?oc=5",
-    "title": "[뉴스줌인] 2026 메모리 전쟁…삼성전자·SK하이닉스, 'HBM4' 주도권 경쟁",
-    "summary": [
-      "[뉴스줌인] 2026 메모리 전쟁…삼성전자·SK하이닉스, 'HBM4' 주도권 경쟁 데일리팝."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
   {
     "id": "ne6b65319",
     "category": "IT",
     "source": "Korea IT Times",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94aHhlU3UyMld3T3RtdzhKZXZ0TFFnRjdleTQ1QzJkV2VZNE9mVFhuYktUemdJRnlpcXI4ZV9IaFpCRzQ4My1Ra1gtcnUyUDJQc3d6U2NNeEcxQkx4bkEyM2VnWEVheFdqd3NlZk8wLVM?oc=5",
     "title": "전영현-젠슨 황 회동… 삼성전자, 엔비디아 AI 공급망 핵심 축 노린다",
     "summary": [
@@ -37,7 +21,7 @@ window.NEWS_DB = [
     "id": "nc378ea82",
     "category": "IT",
     "source": "IT조선",
-    "time": "13시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnT3BhUkZzekJ1OTUzY2gzVjhLZ3JsNVFCMzVmXzBhTEh2TFViRU9wcDdrUDBMRWhfcTJUcGtuYWdWNHQ1N1B0TnZYMkZUUlZ0YzI2N2xtd3l3YklDVjBmTjgwdEVzVERVYlYxdzQ3eVfSAXRBVV95cUxNMzBjeDFCRGxEaHlZZ0IxU2w5WU1WSkQ1VnVidmxJcHNtWG9FY2c0RDV6cnBmYkV0SEVGMWRvYkgyVUxaMV9EbHBBbFp6VmhNRWc3TEVlQUZ4dTBjekwtXzQtVVdNMVROWWZveXM5cUtMX0lNMQ?oc=5",
     "title": "젠슨 황 만난 삼성 전영현 “HBM·파운드리 등 협력 논의”",
     "summary": [
@@ -51,7 +35,7 @@ window.NEWS_DB = [
     "id": "n72c079e9",
     "category": "IT",
     "source": "쿠키뉴스",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWnRFeWhHQ3QtcWRHY3NFLUxvQXpOMWpaNk1oRUV5bUgyOWRZYklETm5GdVp5OVZVMlBHcTFjMXdzZHdlRk5jaVF0RGsxYXh1emh6WFktOGpkbktGYkFnUmNPaw?oc=5",
     "title": "국산 AI반도체, 460억원 수출 성과…과기부 “엔비디아급 기술력” 자신",
     "summary": [
@@ -68,7 +52,7 @@ window.NEWS_DB = [
     "id": "na266de34",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "15시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzZEQwYjFPZE9QLU5wYUM2Vjl3VjdDd2s5dkR4eWdiWENPS2J1RF90Wjluc1lFWmhFVWVqOXJxcTF6UEFvUzNHR3pkVQ?oc=5",
     "title": "SK엔 \"2030년 캐파 2배도 부족\"…삼성엔 \"HBM·파운드리 협력\"",
     "summary": [
@@ -108,6 +92,21 @@ window.NEWS_DB = [
       "#취업",
       "#고용",
       "#교육"
+    ]
+  },
+  {
+    "id": "nd8354e7f",
+    "category": "IT",
+    "source": "시사저널e",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXfSAXZBVV95cUxPdkx4dzBQTlREMUxrNlowdUFzRHN1UVB4aXVvX19OVUZSNWM3UU9Nb3Vnakszblc5enB2cVdJX2o4bEVjR2lqQmt6WFJvbEhtZHZDaDNQNk9pcHNMMFRvcU5Jb2ptZG5ST3FRZ0dybjNidWE0NTF3?oc=5",
+    "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
+    "summary": [
+      "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까 시사저널e."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
@@ -228,6 +227,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n269e2609",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "28일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
@@ -240,6 +254,20 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
+    ]
+  },
+  {
+    "id": "n64476ff1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "51일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "summary": [
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -268,36 +296,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "117일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
-    "id": "nb4e9ce67",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "131일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43c0lBUTduWFZhNkNKY1FuanUxLTl3UUZxVGVFaXI2YlZfLW9iOVRrdGtnaDNVRFE3YjZtMkRuSTV0Tkl3RlNOUlIxWWswYjgtS1lEeG5pZjh3U03SAWBBVV95cUxOaFRuVzFHS1ktaDl1MWpSd1YxT2tlcldST2dQQ3BUVk8yOXM5c21zRE81dWphNWJEVkJEMmlsN1lqSzRaeFp0N3kzUGtGa3V3Z0F5QXltVkRtdkt1YUVESnA?oc=5",
-    "title": "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집",
-    "summary": [
-      "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
     ]
   },
   {
@@ -380,256 +378,256 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0b1abd2d",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026060922473398122",
-    "title": "李대통령 \"1Q '실질 GNI' 증가율 사상 최고…모두의 성장으로 이어지게 할 것\"",
+    "id": "n8befaf98",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260609_0003661350",
+    "title": "\"결혼 전엔 자주 갔는데\" 혼자 해외여행 가겠다는 아내…이기적인 행동일까",
     "summary": [
-      "이재명 대통령은 9일 올해 1분기 실질 국민총소득(GNI) 증가율이 통계 작성 이후 최고치를 기록한 것과 관련해 \"대한민국 경제의 도약이 국민 모두의 성장으로 이어질 수 있도록 최선을 다하겠다\"고 밝혔다.",
-      "이 대통령은 이날 페이스북에 한국은행이 발표한 국민소득 통계를 언급하며 \"국민들의 실질 구매력을 보여주는 실질 GNI 성장률이 1분기에 전기 대비 9.2%를 기록했다\"며 \"1960년 이 통계를 만들기 시작한 이후 사상 최고치."
+      "[서울=뉴시스]이지우 인턴 기자 = 결혼 후 배우자를 두고 홀로 해외여행을 떠나는 문제를 두고 온라인상에서 뜨거운 설전이 벌어졌다.",
+      "여행 성향의 차이로 시작된 부부간의 갈등이 시댁으로까지 번지며 누리꾼들 사이에서도 의견이 팽팽하게 대립하는 모양새다.",
+      "지난 5일 한 온라인 커뮤니티에 '결혼하면 혼자 여행도 못 가나요? 혼자 해외여행 간다니까 안 된답니다'라는 제목의 글이 올라왔다."
     ],
     "chips": [
-      "#한은",
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nfd198a67",
+    "id": "n4c82021d",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "뉴시스",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260609172000073",
-    "title": "남성 후계자 1명뿐인 日왕실…여성 왕족 결혼 후 신분 유지 추진",
+    "url": "https://www.newsis.com/view/NISX20260609_0003662215",
+    "title": "술도 안마시는데 내가 간암?…원인은 '이것' 때문",
     "summary": [
-      "(도쿄=연합뉴스) 이도연 특파원 = 일본에서 왕실 구성원 확보를 위한 '황실전범' 개정 논의가 활발한 가운데 일본 의회가 여성 왕족이 결혼 후에..."
+      "[서울=뉴시스] 류난영 기자 = 간암 진단을 받으면 많은 환자들이 가장 먼저 \"술을 많이 마신 것이 원인이었을까?\"라는 의문을 갖는다.",
+      "과도한 음주가 주요 위험요인 중 하나인 것은 사실이지만, 술을 거의 마시지 않는 사람에게도 발생할 수 있다.",
+      "10일 국가암정보센터에 따르면 간암은 국내 암 사망 원인 2위를 차지하는 암이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb57ee7c8",
+    "id": "n02ddb05e",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026060922402690696",
+    "title": "신유진, 드림 투어 첫 우승…\"아직도 실감이 나지 않는다\"",
+    "summary": [
+      "신유진이 한국여자프로골프(KLPGA) 드림(2부) 투어에서 첫 승을 올렸다.",
+      "그는 9일 강원도 평창군 휘닉스 컨트리클럽(파71·6378야드)에서 열린 휘닉스CC 드림 투어 9차전(총상금 7000만원)에서 2라운드가 짙은 안개로 취소됨에 따라 1라운드 성적만으로 우승을 차지했다.",
+      "신유진은 1라운드에서 10언더파 61타로 5타 차 선두에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfec4c76e",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003662892",
-    "title": "'개표소 시위' 송파경찰서장 사의…\"근무기간 최선 다할것\"(종합)",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/06/10/YPKSG4NCQFEQTN3FAPQDME3PKE/",
+    "title": "송파 51%, 옹진은 100%… ‘엿장수 투표용지’",
     "summary": [
-      "[서울=뉴시스]이태성 기자 = 6·3 지방선거에서 투표용지 부족 사태가 발생한 서울 송파구에서 연일 투표소·개표소 봉쇄 시위가 이어지는 가운데 지역을 관할하는 경찰서장이 지병 악화로 사의를 표명했다.",
-      "이에 따라 서울경찰청 공공안전차장이 현장을 맡기로 했다.",
-      "9일 경찰청에 따르면 오상택 서울 송파경찰서장(경무관)은 이날 면직을 신청했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndb379f7e",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260609173500007",
-    "title": "김도영, 시즌 19호 홈런 폭발…2연승 KIA, 1게임 차 3위 추격(종합)",
-    "summary": [
-      "(서울·수원=연합뉴스) 천병혁 이대호 김동한 기자 = 김도영의 홈런포를 앞세운 KIA 타이거즈가 상위권 추격에 박차를 가했다."
+      "송파 51%, 옹진은 100%… ‘엿장수 투표용지’."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne33219ae",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003662870",
-    "title": "특출나지 않은 임찬규가 쓴 LG 새 역사…\"행복하다 생각하면 나아갈 수 있어\"",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 프로야구 LG 트윈스의 임찬규는 결코 낭만만 좇지 않았다.",
-      "냉정한 현실 속에서도 묵묵히 버티며 스스로를 더 다그친 그는 결국 LG 프랜차이즈 최다 탈삼진이라는 역사를 써냈다.",
-      "임찬규는 9일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 SSG 랜더스와의 홈 경기에 선발 등판해 5이닝 4피안타 1실점 호투를 펼쳐 시즌 6승(1패)째를 따냈다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n6c8eb891",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260608096351007",
-    "title": "[프로야구] 10일 선발투수",
-    "summary": [
-      "[프로야구] 10일 선발투수."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8d6d91c6",
+    "id": "nada15898",
     "category": "IT",
     "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/09/4YTHVGRTX5B6FHITWWPII2BBAI/",
-    "title": "‘신의 건축가’ 가우디 100주기, 사그라다 파밀리아 준공식 “AI·드론까지 총동원”",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/06/10/PTPB6VHQZ5G23IOSUMYPGQAN3M/",
+    "title": "삼성·SK, 전남·충남에 반도체 공장 검토",
     "summary": [
-      "‘신의 건축가’ 가우디 100주기, 사그라다 파밀리아 준공식 “AI·드론까지 총동원”."
+      "삼성·SK, 전남·충남에 반도체 공장 검토."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nd3085edb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/06/10/QY5C3PZKBBHWNHEIDXM5ZMSN3M/",
+    "title": "세계서 가장 큰 ‘월드컵 벽화’… 기네스 기록 인증",
+    "summary": [
+      "세계서 가장 큰 ‘월드컵 벽화’… 기네스 기록 인증."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n524e1b3e",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260609_0003661431",
+    "title": "\"반도체 꺾일 때 받쳐줄 수비수 필요\"…지금 배당주 사모으는 이유",
+    "summary": [
+      "[서울=뉴시스]서영은 인턴 기자 = 최근 국내외 증시의 변동성이 확대되면서 자산 안정성을 확보하기 위해 성장주 중심의 포트폴리오를 배당주로 일부 전환해야 한다는 전문가 조언이 나왔다.",
+      "8일 구독자 178만명의 유튜브 '부읽남TV_내집마련부터건물주까지'에 출연한 15년차 배당주 투자자 김채성 리치노마드 대표는 최근 IT 및 반도체 중심의 성장주 장세를 진단하고, 이에 따른 배당주 투자 전략과 자산 배분 방안을 제시했다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n95db6837",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/06/10/ZNWJX3ZO4JGTTHYFLWDTHWP4VA/",
+    "title": "張 “전국 재선거해야” 당내 “사퇴론 물타기”",
+    "summary": [
+      "張 “전국 재선거해야” 당내 “사퇴론 물타기”."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7968a4dc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610001100001",
+    "title": "李대통령 \"농어촌기본소득, 지속화하고 금액높이면 효과 있을것\"",
+    "summary": [
+      "(브뤼셀=연합뉴스) 임형섭 고동욱 기자 = 벨기에를 방문한 이재명 대통령은 9일(현지시간) \"농어촌 기본소득을 2년 한시 (사업으로) 도입했는데..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf4401405",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260609_0003662904",
+    "title": "프랑스·영국 등 5개국, 이스라엘 극우 재무장관 제재…입국 금지 조치도",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 프랑스·영국·캐나다·호주·노르웨이 5개국이 팔레스타인인에 대한 폭력과 인권 침해를 이유로 이스라엘의 극우 성향 재무장관 베잘렐 스모트리치와 요르단강 서안 정착민 세력을 대상으로 제재를 발표했다.",
+      "이스라엘은 이를 \"수치스러운 조치\"라고 반발했다.",
+      "9일(현지 시간) CNN 등 외신에 따르면 장노엘 바로 프랑스 외무장관은 이날 5개국 공동 서한을 통해 이스라엘 정착민들이 폭력을 이용해 \"팔레스타인인을 강제로 내쫓고 재산."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd926e256",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/2026060968301",
+    "title": "中, 2조위안 투입해 AI 인프라 통합한다",
+    "summary": [
+      "中, 2조위안 투입해 AI 인프라 통합한다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "nf0f0c222",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260604182454007",
-    "title": "[프로야구 중간순위] 9일",
-    "summary": [
-      "[프로야구 중간순위] 9일."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n30918b43",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260609/134081251/2",
-    "title": "李 “빨리 잡아달라” 요청 3개월만에…필리핀 한인 납치·살해범 체포",
-    "summary": [
-      "2016년 필리핀에서 한인 사업가 고(故) 지익주 씨를 납치·살해한 현지 경찰이 도주 끝에 9일(현지 시간) 체포됐다.외교부에 따르면 이날 오전 5시 15분경 필리핀 마닐라에서 지 씨 살해 사건 주범 중 한 명이자 전직 필리핀 경찰청 마약단속국 팀장인 라파엘 둠라오가 필리핀 경찰에게 검거됐다.둠라오는 2016년 10월 하급 경찰관 두 명과 함께 마닐라 인근 앙헬레스에 있는 지 씨 자택에서 지 씨를 납치해 경찰청 마약단속국 주차장으로 데려가 살해."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36243c76",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026060922311783983",
-    "title": "'새 떼' 충돌 여객기, 진해만 불시착 … 창원해경, 실전 같은 훈련",
-    "summary": [
-      "9일 경남 창원시 진해구 하늘을 날던 여객기가 새 떼와 충돌해 진해만 저도 인근 해상에 불시착했다.",
-      "착륙을 위해 낮게 날던 여객기는 하늘에서 새 떼와 맞닥뜨렸고 그대로 충돌해 진해만 해상에 긴급 착수했다.",
-      "이는 경남 창원해양경찰서와 남해지방해양경찰청이 이날 진해만 해상에서 함께 펼친 유관 기관 합동 수난 대비 기본훈련 내용이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e506e92",
+    "id": "n3d5eb4f4",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003662887",
-    "title": "[속보] 뉴욕증시, 일제 상승 출발…나스닥 0.7%↑",
+    "source": "한국경제",
+    "time": "27분 전",
+    "url": "https://www.hankyung.com/article/2026060968261",
+    "title": "'D램 1위' 삼성, 점유율 더 늘었다",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 only@newsis.com."
+      "'D램 1위' 삼성, 점유율 더 늘었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n76a77298",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026060968247",
-    "title": "삼성전자·SK하이닉스 반도체 공장, 호남에 들어오나",
+    "id": "nd025a58a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609175400108",
+    "title": "\"차량 충돌로 침수된 이스탄불 해저터널, 안정성 문제없어\"",
     "summary": [
-      "삼성전자·SK하이닉스 반도체 공장, 호남에 들어오나."
+      "(이스탄불=연합뉴스) 김동호 특파원 = 차량 충돌로 소화전이 파손되면서 터널 내부가 침수됐던 튀르키예 이스탄불 유라시아해저터널 사고와 관련해 터..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8187f3ad",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609172151081",
+    "title": "영국·프랑스 등 6개국, 이스라엘 극우 장관 등 입국 금지(종합)",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 프랑스와 영국, 캐나다 등이 9일(현지시간) 요르단강 서안에서 이스라엘인들이 팔레스타인인을 상대로 자행하는 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n58f9c096",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "36분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260609/134080025/2",
+    "title": "전월세난에… 청년 1인가구 겨냥 공유주거 시장 커진다",
+    "summary": [
+      "최근 전월세 가격이 오르고 청년층 1인 가구 주거 수요가 늘면서 이를 타깃으로 한 공유주거시설 개발이 서울 곳곳에서 추진되고 있다.",
+      "매입형 민간임대주택 사업이 규제 강화와 세제 변화로 주춤한 사이 공유주거 기업과 대형 자산운용사 등이 ‘임대형 기숙사’ 형태의 주거시설 공급에 나서고 있다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nc337cc89",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "36분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260609/134080035/2",
+    "title": "코스피 8000 회복… ‘8% 급락’ 하루만에 ‘8% 급등’ 널뛰기 장세",
+    "summary": [
+      "코스피가 전날 8% 넘게 급락한 지 하루 만에 역대 최대 폭으로 상승하며 종가 기준 8,000 선을 다시 회복했다.",
+      "코스피가 널뛰기 장세를 보이며 ‘한국형 공포지수’로 불리는 코스피200 변동성지수(VKOSPI)는 집계가 시작된 이후 사상 최고치를 나타냈다.",
+      "9일 코스피는 전 거래일 대비 612.52포인트(8.18%) 오른 8,096.93에 거래를 마쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74cd1a41",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "36분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260609/134079942/2",
+    "title": "1분기 1.8% ‘깜짝 성장’… ‘명목 증가율’ 10% 넘어 50년만에 최대",
+    "summary": [
+      "올해 1분기(1∼3월) 한국의 실질 국내총생산(GDP)이 전 분기 대비 1.8% 증가해 2개월 전 발표된 속보치보다도 0.1%포인트 높아지며 ‘깜짝 성장’한 것으로 나타났다.",
+      "기업의 수출 가격 상승 등이 반영된 명목 GDP의 전 분기 대비 성장률은 10.5%로 반도체 수출 호조에 힘입어 1976년 1분기 이후 50년 만에 최대치를 기록했다.",
+      "다만 지난해 1인당 국민총소득(GNI)은 12년째 3만 달러대에 머물러 대만과 일본보다 뒤처졌다."
     ],
     "chips": [
       "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n65ab1eb3",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003662789",
-    "title": "[KBO 오늘의 경기 결과]6월9일(화)",
-    "summary": [
-      "[서울=뉴시스] [KBO]오늘의 경기 결과<2026년 6월9일(화)> ▲SSG 2 - 8 LG(잠실) 패 김민준 승 임찬규 ▲두산 6 - 5 롯데(사직) 승 곽빈 패 나균안 ▲삼성 2 - 5 KT(수원) 패 최원태 승 고영표 ▲KIA 6 - 4 한화(대전) 승 황동하 패 왕옌청 ▲NC 6 - 7 키움(고척) 패 류진욱 승 카나쿠보 유토."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n6a176d9d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/2026060968257",
-    "title": "4·19 소환한 최태성 강사…\"백주대낮 참정권 침해\" 일침",
-    "summary": [
-      "4·19 소환한 최태성 강사…\"백주대낮 참정권 침해\" 일침."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb0f5fe84",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "26분 전",
-    "url": "https://view.asiae.co.kr/article/2026060918281065863",
-    "title": "김신 완도군수 당선자 인수위 공식 출범…'민선 9기' 밑그림 그린다",
-    "summary": [
-      "김신 완도군수 당선자의 새로운 군정 밑그림을 그릴 '민선 9기 완도군수직 인수위원회'가 9일 공식 출범식을 갖고 본격 활동에 돌입했다.",
-      "이번 인수위원회는 민선 9기 군정의 안정적인 출범을 지원하는 한편, 완도군의 현황 점검과 정책 방향 설정을 통해 새로운 미래 비전을 구체화하기 위해 구성됐다.",
-      "인수위를 이끌 위원장에는 지역소멸, 기본소득, 지역경제 분야의 전문가로 알려진 고두갑 목포대학교 경영대학원장이 임명됐다."
-    ],
-    "chips": [
-      "#정책",
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne0767f05",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "28분 전",
-    "url": "https://view.asiae.co.kr/article/2026060918544694242",
-    "title": "\"광주·전남 교육 통합\"…김대중 'K-교육특별시 준비위' 10일 출범",
-    "summary": [
-      "김대중 전남·광주 통합특별시교육감 당선인의 교육감직 인수를 위한 'K-교육특별시 준비위원회'가 10일 닻을 올린다.",
-      "준비위원회(이하 준비위)는 이날 오후 2시 광주시교육청 교육연수원 3층 준비위 본부에서 공식 출범식을 개최한다고 밝혔다.",
-      "출범식에는 김대중 당선인과 김경범 위원장을 비롯한 12명의 준비위원이 참석하며, 통합교육청의 비전을 담은 현판식과 위촉장 수여식이 함께 진행될 예정이다.준비위는 광주와 전남 양."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n924a815a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "33분 전",
-    "url": "https://www.hankyung.com/article/2026060968067",
-    "title": "\"꿈에서 들은 숫자 썼을 뿐인데\"…2억8000만원 잭팟 터진 女",
-    "summary": [
-      "\"꿈에서 들은 숫자 썼을 뿐인데\"…2억8000만원 잭팟 터진 女."
-    ],
-    "chips": [
-      "#뉴스"
+      "#수출"
     ]
   }
 ];
@@ -639,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
