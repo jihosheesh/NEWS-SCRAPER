@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-09 21:32:30
+// 마지막 업데이트: 2026-06-09 22:29:44
 window.NEWS_DB = [
   {
     "id": "na266de34",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzZEQwYjFPZE9QLU5wYUM2Vjl3VjdDd2s5dkR4eWdiWENPS2J1RF90Wjluc1lFWmhFVWVqOXJxcTF6UEFvUzNHR3pkVQ?oc=5",
     "title": "SK엔 \"2030년 캐파 2배도 부족\"…삼성엔 \"HBM·파운드리 협력\"",
     "summary": [
@@ -63,22 +63,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfa1c41a0",
-    "category": "IT",
-    "source": "초이스스탁",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZ29oUXBhR1RjNlc5VFZzUl9JQ0pWbXBJczB1N2JaaHdrLTdhS09vbnhsUzZGVTB6R0JyUEhsVEdNMDFqc1QyQy1wbWs0cXJwTTZ5d3FRV19oVEtndUQ0Qk9R?oc=5",
-    "title": "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고",
-    "summary": [
-      "“마이크론, 제2 엔비디아 아냐”…AI 반도체 열풍 속 월가 경고 초이스스탁."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nd8354e7f",
     "category": "IT",
     "source": "시사저널e",
@@ -110,14 +94,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0bb0417f",
+    "id": "n763cb5e6",
     "category": "IT",
-    "source": "연합뉴스",
+    "source": "한겨레",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xOFgtREF3cE5OSVhka0xSOFF2Y3o4WXJ5SkVzdW9HMlJENzhTUkZ3dDFsaWtSX19Ra21aNUg2akhZTGJjNktNMTA4MlpLTDRhNWptRUJrelo1bzh4R0kxd9IBYEFVX3lxTE1xOFgtREF3cE5OSVhka0xSOFF2Y3o4WXJ5SkVzdW9HMlJENzhTUkZ3dDFsaWtSX19Ra21aNUg2akhZTGJjNktNMTA4MlpLTDRhNWptRUJrelo1bzh4R0kxdw?oc=5",
-    "title": "SK하이닉스, 엔비디아와 AI팩토리용 차세대 메모리 공동개발",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83eHVrUUdyTHFPR3lhTVJOMHpYaG15MUhTaXV1RjYtZV8zeExJM21nWTk1MDVod2lCYW5EMlBPUkVUY18zMmliRjdqTkdmVE16M2dTOGRLazhCeGlxTlZaXzU2VE51VTZ0TkVqS0JNLXZFUQ?oc=5",
+    "title": "SK하이닉스·엔비디아 ‘AI 차세대 메모리’ 공동 개발한다",
     "summary": [
-      "SK하이닉스, 엔비디아와 AI팩토리용 차세대 메모리 공동개발 연합뉴스."
+      "SK하이닉스·엔비디아 ‘AI 차세대 메모리’ 공동 개발한다 한겨레."
     ],
     "chips": [
       "#AI",
@@ -126,19 +110,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc3609b09",
-    "category": "사회",
-    "source": "브런치",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NDMyV3FJOVJzMUxNRXFOY3NYZ1ZIX0diNXVxNXRQUFRHZ0JyS0otb25zT3R3SGhEOUZaYWxaYlBEanZXWDhZSTYzcDU4TW82NmdZ?oc=5",
-    "title": "중장년 지원금 신청 (재취업,고용,채용,일자리,취업)",
+    "id": "nd8725981",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ObXRxRThNS0dtTlpxZFdyWTRLenF1U0pLMHFpckR3NHRVVk9vWkYtZFR2eXBkdTBOQ1E3MjZ6c3d4S2ZDZTl6RVg2Tm1zdUs2TTVCRGdGNVlDYV9VMmxuNUpuVVItVnJkNFMzWtIBckFVX3lxTE1KSkxVS3pVSVMzLUExRU5HbHdPMU11WEgwS1ZLTXhKdTRzNjZCb2Q0Nm5Hc093c21kYzVLY0N1cWNJTzczaHloa3RjQVRxMnJ0Qm84RENCalFIQ3JtT25YRUg4UURPMDBWNWRqV2pFdVplZw?oc=5",
+    "title": "SK하이닉스·엔비디아 'AI팩토리 동맹'...차세대 메모리 공동 개발 - 머니투데이",
     "summary": [
-      "중장년 지원금 신청 (재취업,고용,채용,일자리,취업) 브런치."
+      "SK하이닉스·엔비디아 'AI팩토리 동맹'...차세대 메모리 공동 개발 - 머니투데이 머니투데이."
     ],
     "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
+      "#AI",
+      "#엔비디아",
+      "#SK하이닉스"
     ]
   },
   {
@@ -171,14 +155,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n37646dcf",
+    "id": "n21d1500d",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "머니투데이",
     "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VVmZjQUtRa3BqUng5MnJtdExfX18tb0pLN1VyNEwwX2p4RW1HdTl5bmllWkVwTzQ4UWxPNFlMSFhKODJlend4V3VaZi1Fay1IOWNLZTNoelBZOEExZi1YM1VyOXlRbTNzS3fSAW9BVV95cUxOVUFfeEtOaklFeHNHY3JRbVhXNDVNTVdtOE5QVjFRT1hLS2ltVmY5d29id195bnFxSXoySHFKdXM4VUQyN1RZWS01b3BFeXJJWGZBNXVIdk5CbkFobmIyZ3JpQXhxQU9KZ2FLN0pTdTg?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#스타트업"
@@ -228,6 +212,51 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf50abdf5",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "20일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ua3pzdkRobnNvVkRPazZkbkNBMDNmRjFzMGROSFNzcHB0MEN4UG16OUNaVDd1ZTludko1YXVmeWNucHVicko4aDZWbWE0Rm5HM1FmTHlkRXZSblZhLUV5QzNGTmNpaDBlYnJQWQ?oc=5",
+    "title": "\"AI·뷰티·콘텐츠 스타트업 모였다\"…홍대앞 대규모 창업거점 개소",
+    "summary": [
+      "\"AI·뷰티·콘텐츠 스타트업 모였다\"…홍대앞 대규모 창업거점 개소 유니콘팩토리."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "20일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n269e2609",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "28일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
@@ -240,20 +269,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
-    ]
-  },
-  {
-    "id": "n64476ff1",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "51일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
-    "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -285,21 +300,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "117일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
     "id": "n46f59f4d",
     "category": "스포츠",
     "source": "머니투데이",
@@ -315,329 +315,322 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na1c25164",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026060915004764969",
-    "title": "[퇴직연금 투자전략]⑦\"연금투자는 '시간을 활용한 투자'…자산 쏠림 없어야\"",
-    "summary": [
-      "\"연금투자는 '맞히는 투자'가 아니라 '시간을 활용한 투자'여야 합니다.",
-      "고점 우려 장세에서 연금 전략의 기본 원칙은 타이밍 전략이 아니라 자산배분 전략이 중요합니다\" 송상은 KB그룹 연금그룹장은 최근 아시아경제와의 인터뷰에서 퇴직연금 투자 전략에 대해 이같이 강조했다.",
-      "송 그룹장은 \"한 곳에 올인하는 전략은 연금의 구조와 불일치한다\"면서 \"연금은 일시금이 아니라 분할 납입 장기 운용 상품이기 때문\"이라고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc61f3cc1",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026060921221850866",
-    "title": "하나증권 \"하이브·SM·JYP·YG 목표주가 동시에 하향\"",
-    "summary": [
-      "하나증권이 하이브, 에스엠(SM), JYP Ent, 와이지엔터테인먼트 등 대형 기획사 4사의 목표주가를 동시에 하향조정했다.",
-      "하나증권은 10일 '엔터테인먼트, 이 가격은 못 참겠다' 보고서를 통해 \"현재 주가와 목표 주가와의 괴리가 높아 기획사 4사 모두 목표주가를 하향한다\"고 밝혔다.",
-      "하이브의 목표주가는 기존 40만원에서 35만원으로, SM의 목표주가는 14만원에서 12만4000원으로 낮췄다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd63cd0da",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026060913471065844",
-    "title": "AI학과 우후죽순 신설…커리큘럼은 '현재진행형'",
-    "summary": [
-      "AI학과, AI융합학과, AI대학원에 이어 AI대학까지.",
-      "미국, 중국에 이어 한국 대학가에도 'AI 간판' 경쟁이 본격화하고 있지만 AI 교육의 방향성 확립과 실효성 있는 커리큘럼 마련에 한계가 드러나고 있다.",
-      "10일 교육·과학계에 따르면 한국과학기술원(KAIST)은 AI대학 설립을 추진하고 있고, 대구경북과학기술원(DGIST)은 학부 AI학과 신설을 준비 중이다."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n158eaeae",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003662657",
-    "title": "K조선, 올 수주 목표 60% 넘게 채웠다…연간 목표 달성 '청신호'",
-    "summary": [
-      "[서울=뉴시스]이창훈 기자 = 국내 조선 업계가 올해 수주 목표의 60%를 돌파하며 지난해에 이어 올해도 무난하게 연간 수주 목표를 달성할 전망이다.",
-      "기존에 확보한 최소 3년 치 이상의 일감을 바탕으로 고부가 선박 위주의 선별 수주를 이어간 영향으로 풀이된다.",
-      "10일 업계에 따르면 HD한국조선해양은 이날 현재까지 올해 총 125척(144억1000만 달러)을 수주했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4c5bbfa9",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260608_0003660018",
-    "title": "\"AI데이터센터에 한국 철강 필요\"…50% 관세에도 대미 수출 증가세",
-    "summary": [
-      "[세종=뉴시스]김동현 기자 = 인공지능(AI) 데이터센터 건설 붐이 우리나라 철강 수출에 호재가 될 수 있다는 전망이 나온다.",
-      "중국발 공급 과잉과 미국·유럽연합(EU)의 고관세로 어려움을 겪고 있는 상황에서 우리나라 철강 수출이 재점화될 수 있다는 기대감이 커진다.",
-      "미국의 경우 지난달 철강 수출이 큰 폭의 증가세를 보인 것으로 나타났다."
-    ],
-    "chips": [
-      "#AI",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n688f94d9",
+    "id": "n34e37c05",
     "category": "사회",
-    "source": "조선일보",
+    "source": "아시아경제",
     "time": "3분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/10/GYYWCMRWMFSDOOJUMJTDINBWGA/",
-    "title": "\"어머니보다 빨리 오셨다\" 윤정수, '모친상 1등 출석' 임하룡 의리에 감동 ('임하룡쇼') [순간포착]",
+    "url": "https://view.asiae.co.kr/article/2026061007261839084",
+    "title": "경기도, 임산부 친환경농산물 지원에 115억 투입",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 윤정수가 임하룡에게 고마움을 표했다.",
-      "지난 5일 유튜브 채널 ‘임하룡쇼’에는 '새신랑의 싱글벙글 라이프 | EP73.윤정수 | 임하룡쇼'라는 제목의 영상이 게재됐다.이날 윤정수는 “하룡 선배님께 지금까지도 잊지 못할 만큼 정말 감사한 일이 있다”며 “지난 2016년 어머니가 돌아가셨을."
+      "경기도가 임산부와 출산 산모의 건강 증진을 위해 올해도 '임산부 친환경농산물 지원사업'을 추진한다.",
+      "경기도는 총사업비 115억원을 투입해 도내 31개 시군 임산부 및 산모 4만8000명에게 1인당 연간 24만원 상당의 친환경농산물을 지원할 계획이다.",
+      "지원 대상은 신청일 현재 임신 중이거나 2025년 1월 1일 이후 출산한 산모다."
+    ],
+    "chips": [
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nab97958b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003662964",
+    "title": "진주시, '진양호 독서교실·여름 책놀이' 프로그램 운영",
+    "summary": [
+      "[진주=뉴시스] 정경규 기자 = \"무더운 여름, 북 카페에서 책을 읽으며 즐거운 시간 보내세요.\" 경남 진주시는 6월~8월까지 3회에 걸쳐 진양호 아천 북카페에서 성인과 어린이, 청소년을 대상으로 '진양호 독서교실-여름 책놀이' 프로그램을 운영한다고 10일 밝혔다.",
+      "시는 이번 프로그램은 진양호의 아름다운 풍경 속에서 독서의 즐거움을 경험하고 서로의 생각과 감정을 나누며 공감과 배려의 가치를 배우는 시간으로 마련됐다.",
+      "또한 독서토론과 그림책 활동."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4a8f97c9",
+    "id": "ncca25559",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003662971",
+    "title": "부산시, 제42회 자랑스러운 시민상 후보자 추천 접수",
+    "summary": [
+      "[부산=뉴시스]백재현 기자 = 부산시가 10일부터 오는 7월24일까지 '제42회 자랑스러운 시민상' 후보자를 추천받는다.",
+      "1985년 제정된 자랑스런 시민상은 부산을 빛내고 주위의 어려운 이웃을 위해 헌신·봉사한 시민에게 수여하는 상이다.",
+      "지금까지 총 270명이 수상했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90e66f56",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026060908060435921",
+    "title": "'수익률 최고 848%'…'반도체 원조' 한투운용 ACE ETF 독보적 성과 눈길",
+    "summary": [
+      "인공지능(AI) 열풍이 거세지면서 반도체 투자 트렌드도 한 단계 진화하고 있다.",
+      "과거에는 범용 그래픽처리장치(GPU) 중심의 '학습' 단계가 시장을 주도했다면, 최근에는 고대역폭메모리(HBM)와 맞춤형 반도체(ASIC), 설계 및 소부장(소재·부품·장비) 등 성장 축이 전방위로 넓어지는 추세다.",
+      "특정 종목 하나에 집중하기보다 산업 생태계 전체를 아우르는 입체적인 포트폴리오가 필수가 된 이유다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n11a8ef27",
     "category": "사회",
     "source": "연합뉴스",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610011900071",
-    "title": "美사회보장기금 재정악화 가속…이민자 감소·감세정책등 영향",
+    "url": "https://www.yna.co.kr/view/AKR20260610017100071",
+    "title": "美국방, 10일 쿠바 관타나모기지 방문…군사적 압박 의도 관측",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국의 노령자 등을 위한 사회보장기금 고갈 시기가 이민자 감소와 감세 정책 등의 영향으로 당초 예상보다 앞..."
+      "(워싱턴=연합뉴스) 백나리 특파원 = 피트 헤그세스 미 국방부 장관이 10일(현지시간) 쿠바의 관타나모만을 방문한다고 미 국방부가 9일 밝혔다."
     ],
     "chips": [
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "n85d1d63b",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/industry/2026/06/10/2026061006213884885",
-    "title": "삼성, 美 유전자 분석장비 기업 1대 주주로…미래 정밀 의료시장 공략",
+    "id": "ncbc02476",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026061007220833662",
+    "title": "[단독]국민성장펀드, 야월 해상풍력에 3000억 투자…국산 풍력 공급망 키운다",
     "summary": [
-      "삼성전자, 1억 7500만 달러 투자로 엘리먼트 지분 확대(상보) 삼성전자가 미국 유전자 분석 장비 기업 '엘리먼트 바이오사이언스(Element Biosciences, 이하 엘리먼트)'에 전략적 투자자로 참여해 1대 주주 지위에 올랐다.",
-      "삼성전자는 10일(한국 시각) 엘리먼트의 '시리즈 E' 투자에 참여해 1억7500만달러(2667억원) 규모의 추가 지분 투자를 집행했다고 밝혔다.",
-      "앞서 삼성전자는 2024년 7월 엘리먼트의 '시리즈 D' 투자에."
+      "정부가 국민성장펀드를 통해 국내 최대 규모의 국산 풍력 프로젝트인 전남 영광 야월 해상풍력 발전사업에 투자한다.",
+      "투자 규모는 3000억원 안팎이 될 전망이다.",
+      "유럽·중국 등 외산 장비 의존도가 높은 해상풍력 시장에서 국산 터빈과 기자재 사용을 확대해 국내 풍력 생태계를 육성하고, 장기적으로 글로벌 공급망 진입을 뒷받침하겠다는 구상이다."
     ],
     "chips": [
-      "#삼성전자",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4f74480a",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026061007220329509",
+    "title": "경기도, 9월 인니·말련 '할랄 수출상담회'…참가기업 10곳 모집",
+    "summary": [
+      "경기도가 아세안 할란 수출 상담회에 참가할 기업을 모집한다.",
+      "경기도는 오는 9월7일부터 12일까지 인도네시아 자카르타와 말레이시아 쿠알라룸푸르에서 개최되는 '2026 경기도 비관세장벽 대응 아세안(할랄) 수출상담회'에 참가할 중소기업 10곳을 오는 7월7일까지 신청을 받는다고 10일 밝혔다.",
+      "인도네시아와 말레이시아는 세계 최대 규모의 할랄 소비시장이다."
+    ],
+    "chips": [
+      "#수출",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n1c94782e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610005051071",
+    "title": "\"핵보유 인정받길 원한 김정은, 中의 비핵화 침묵 통해 뜻이뤄\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 송상호 특파원 = 시진핑 중국 국가주석과 김정은 북한 국무위원장의 지난 8일(현지시간) 평양 정상회담 결과와 관련해 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf35acd70",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/10/GJRTGMBVMU2DIOLGHE4DCNJSMI/",
+    "title": "문희준, 소율에 불만 쏟아내더니 “다시 태어나면 나랑 결혼 안 하길”(동상이몽2)[Oh!쎈 예고]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 문희준, 소율 부부가 근황을 전했다.9일 방송된 SBS ‘동상이몽2 - 너는 내 운명’(이하 동상이몽2) 말미에는 다음 주 예고편이 공개되었다.예고편에서는 문희준, 소율 부부의 근황이 공개되었다.",
+      "결혼 10년차가 된 이들 부부.",
+      "어느덧 훌쩍 큰 두 아이를 둔 이들 부부는 의외로 투닥거리는 모습을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a566fb5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003662966",
+    "title": "[속보]이란 혁명수비대 \"美 목표물 향해 미사일·드론 발사\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naf3167fd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609077900065",
+    "title": "인천 덕적도 차도선, 내년 운항 중단 예고…적자 누적에 경영난",
+    "summary": [
+      "(인천=연합뉴스) 황정환 기자 = 인천항에서 덕적도를 오가는 차도선이 내년부터 운항이 중단될 상황에 놓였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n47ecd639",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003662934",
+    "title": "美 하원, '한·미·일 3자 협력법안' 통과…의회 간 연례 대화 제도화",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 미국 하원이 8일(현지 시간) 한국·미국·일본 의회 간 공식 협의체를 구축하는 초당적 법안을 통과시켰다.",
+      "법안은 안보와 경제, 첨단기술, 공중보건 등 다양한 분야에서 3국 의회 차원의 협력을 제도화하는 내용을 담고 있다.",
+      "이번에 하원을 통과한 '한·미·일 3자 협력법안(H.R.3429)'은 아미 베라 민주당 하원의원(캘리포니아)이 지난해 5월 발의한 법안으로, 한국 국회와 미국 의회, 일본 국회 간 연례 의회 간."
+    ],
+    "chips": [
+      "#정책",
+      "#정치",
       "#의료"
     ]
   },
   {
-    "id": "n932d9abc",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026060915404408921",
-    "title": "[부의승계]인탑스③IBK·코스닥벤처펀드가 EB 인수…투자 이유는",
-    "summary": [
-      "코스닥 상장사 인탑스가 발행한 교환사채(EB)의 메인 인수자는 IBK캐피탈과 교보증권이 함께 만든 펀드로 확인됐다.",
-      "IBK캐피탈은 인탑스의 자회사 인탑스인베스트먼트와 여러 펀드를 함께 운영하고 있는 파트너다.",
-      "또 다른 투자자들은 '코스닥벤처펀드'를 통해 인탑스 EB를 인수한 것으로 나타났다."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n40b2e8d0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/10/GRTDON3BGMZDAMJZGMYDKNLGGE/",
-    "title": "NCT 도영의 위엄...형 공명 \"가족서열 1위 대표님\" 차 선물 '스케일' 감탄 ('살롱드립2') [어저께V]",
-    "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 배우 공명이 친동생인 NCT 도영에게 자동차를 선물받은 일화를 공개하며 남다른 형제애를 자랑했다.9일 유튜브 채널 '살롱드립'에는 '오늘도 겁 많은 두 치와와는 영역싸움을 합니다 | EP.143 진선규 공명'이라는 제목의 영상이 공개됐다.이날 공명은 영화 '극한직업'으로 인연을 맺은 배우 진."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na29ded4d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610012400055",
-    "title": "전북 대체로 맑아…낮 최고기온 24∼28도",
-    "summary": [
-      "(전주=연합뉴스) 백도인 기자 = 수요일인 10일 전북은 대체로 맑겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n47ca62ed",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/2026061069757",
-    "title": "[속보] 미군 \"자위권 차원에서 이란에 공습 개시…헬기 격추에 대응\"",
-    "summary": [
-      "[속보] 미군 \"자위권 차원에서 이란에 공습 개시…헬기 격추에 대응\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0405b929",
+    "id": "naa2ddb0c",
     "category": "사회",
     "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260610/134081795/2",
-    "title": "홀로 산행 떠난 60대 남성, 이틀만에 계곡서 숨진 채 발견",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260610/134081801/2",
+    "title": "[속보]미군 “아파치 헬기 격추에 보복, 이란 공습”…해안 도시 폭발음",
     "summary": [
-      "지리산으로 산행을 떠났던 60대 남성이 계곡에서 숨진 채 발견됐다.10일 경남 산청경찰서에 따르면 경남 김해에 거주하는 60대 남성은 6일 오전 7시경 지리산을 다녀오겠다며 집을 나섰다.",
-      "하지만 아내는 남편이 하루가 지나도 귀가하지 않자 이튿날인 7일 경찰에 신고했다.",
-      "신고를 접수한 경찰은 소방, 국립공원공단 직원 등과 함께 수색 작업을 벌인 끝에 8일 오후 2시 11분경 삼장면 일원 계곡에서 숨져 있는 남성을 발견했다."
+      "미군은 이란이 미 육군 헬기를 격추한 데 대응으로 자위적 타격에 나섰다고 9일(현지 시간) 밝혔다.중동을 관할하는 미군 중부사령부(CENTCOM)는 이날 X(엑스·옛 트위터)에 “오늘 오후 5시(미국 동부시간 기준) 아파치 헬기를 격추된 데 대한 대응으로 이란을 상대로 자위적 타격을 개시했다”며 “이번 작전은 정당한 이유 없는 이란의 공격 행위에 대한 비례적 대응”이라고 올렸다.",
+      "앞서 전날 오만 해안 인근에서 아파치 헬기가 이란의 드론 공격을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc1f9be33",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003662938",
-    "title": "[대구·경북 조간 헤드라인]",
+    "id": "n55bc169b",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609023300546",
+    "title": "[머니톡스] 수출 초호황인데 역설적인 환율…'글로벌'의 부메랑",
     "summary": [
-      "[대구=뉴시스] ▲경북도민일보 = 이철우 \"李대통령, 지방선거 때 TK통합 약속 지켜라\" ▲경북신문 = 道·포스텍, 하버드·MIT와 손잡고 양자 글로벌 거점 연다 ▲경북일보 = 대구 청년 노동자 감소율 '전국 1위' ▲경상매일신문 = 공기업·반도체 호남 드라이브…균형발전 기대한 TK 긴장 고조 ▲대구신문 = 秋, 시정 파악 착수 대구를 다시 짠다 ▲대구일보 = 이철우 \"선거 끝나자마자 TK 통합 어렵다? 약속 저버려\" ▲매일신문 = 참정권 침해."
+      "(서울=연합뉴스) 윤선희 선임기자 = ＃ 1980년대 중후반 저달러·저유가·저금리의 3저 호황 당시에는 자동차와 가전, 섬유와 같은 수출기업들이..."
     ],
     "chips": [
-      "#반도체",
-      "#정치"
+      "#금리",
+      "#환율",
+      "#수출"
     ]
   },
   {
-    "id": "nadc3b31a",
+    "id": "n598942a1",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003662940",
-    "title": "충북 맑다가 구름 많아…북부지역 최대 20㎜ 비",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260610/134081880/1",
+    "title": "[속보] 미군 “자위권 차원에서 이란에 공습 개시…헬기 격추에 대응”",
     "summary": [
-      "[청주=뉴시스] 서주영 기자 = 수요일인 10일 충북은 맑다가 오후에 가끔 구름 많겠다.",
-      "청주기상지청에 따르면 이날 오후 북부 지역을 중심으로 5~20㎜ 비가 내리는 곳이 있겠다.",
-      "오전 6시 현재 기온은 청주 18.6도, 충주 15.8도, 추풍령 15.8도, 제천 13.1도, 보은 13.3도 등이다."
+      "[속보] 미군 “자위권 차원에서 이란에 공습 개시…헬기 격추에 대응”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3093c75b",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/10/GBSWENZTHAYDMOBVHFSDKMJUGI/",
-    "title": "\"사람이 이상해졌어\" 박미선, 무심한 ♥이봉원 변하자 '반신반의' ('귀한 가족') [순간포착]",
+    "id": "n1932de1c",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260610/134081637/1",
+    "title": "임찬규 “올해 야구 못하면 예능 찍었다고 욕 먹는다” → LG 역대 최다 탈삼진 1위 등극 + 최근 6연승 현실로 [어제의 프로야구]",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 박미선이 이봉원에 감동했다.",
-      "9일 방송된 MBN 예능 프로그램 '남의 집 귀한 가족'(이하 '귀한 가족)에는 다시 돌아온 박미선, 이봉원 부부의 모습이 그려져 눈길을 끌었다.",
-      "이날 이봉원이 시간을 내 천안을 찾은 박미선을 위해 '미선 힐링 데이'를 기획했다."
+      "시작은 이여상(개명 후 이로운·42·당시 한화)의 헛스윙이었다.이로부터 15년이 흘러 김재환(38·SSG)의 헛스윙과 함께 역사가 됐다.이제 LG 유니폼을 입고 삼진을 가장 많이 잡아낸 선수는 ‘낭만 투수’ 임찬규(34)다.임찬규는 9일 프로야구 잠실 안방경기 3회초에 김재환을 상대로 통산 1446번째 삼진을 잡아냈다.",
+      "그러면서 전신 MBC 시절부터 통산 탈삼진 1445개를 남기고 유니폼을 벗은 ‘노송’ 김용수(66)를 넘어섰다."
     ],
     "chips": [
-      "#AI"
+      "#KBO"
     ]
   },
   {
-    "id": "n4f24cd7e",
+    "id": "n07836748",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260609/134077997/2",
+    "title": "“아이스크림 무섭더라”…고준희가 6~7㎏ 찐 뒤 바꾼 습관[바디플랜]",
+    "summary": [
+      "배우 고준희가 과거 자기 전 아이스크림을 매일 먹다가 체중이 6~7㎏ 늘었다고 밝혔다.",
+      "아이스크림은 당류와 지방이 함께 들어 있어 자주 먹거나 한 번에 많은 양을 먹으면 체중 관리에 부담이 될 수 있다.",
+      "최근 저당·제로 아이스크림도 인기를 끌고 있지만, 제품에 따라 열량과 포화지방 함량은 일반 아이스크림과 비슷할 수 있어 확인이 필요하다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5f81ecc6",
     "category": "경제",
     "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/2026061069617",
-    "title": "美헬기 추락에 트럼프 보복 예고…휴전 국면 다시 흔들리나",
+    "time": "44분 전",
+    "url": "https://www.hankyung.com/article/2026061069947",
+    "title": "[속보] 美 헬기추락 보복…이란 시릭섬 등 호르무즈 곳곳 폭음 [로이터]",
     "summary": [
-      "美헬기 추락에 트럼프 보복 예고…휴전 국면 다시 흔들리나."
+      "[속보] 美 헬기추락 보복…이란 시릭섬 등 호르무즈 곳곳 폭음 [로이터]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf7ddcf5f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610011600062",
-    "title": "강원 오후 들어 비 소식…최대 30㎜ 예보",
-    "summary": [
-      "(춘천=연합뉴스) 양지웅 기자 = 수요일인 10일 강원지역은 대체로 흐린 가운데 저녁까지 내륙·산지와 중·북부 동해안에 비가 내리는 곳이 있겠다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n27b41e8a",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/10/2026061006043164065",
-    "title": "\"이혼남이니 반포 최고가 아파트 딸 명의로 사줘\"...예비 장모의 황당 요구",
-    "summary": [
-      "예비 장모로부터 '재산 검증' 서류 제출과, 서울 강남의 초고가 아파트 구입해 줄 것을 요구받았다는 남성의 사연이 화제다.",
-      "10일 한 온라인 커뮤니티에 '예비 장모가 요구한 재산검증서류인데, 이거 결혼 맞습니까?'란 제목의 글이 올라왔다.",
-      "작성자 A씨는 \"지난해에 선을 본 여성의 어머니로부터 황당함을 넘어 모멸감이 드는 요구를 받았다\"며 \"일정 기간 교제를 거쳐 여성과 결혼을 약속하고 나서 생긴 일\"이라고 말했다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n0de7bab2",
+    "id": "n0036dde0",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/10/2026052913444181702",
-    "title": "유족회장 \"남북이 모두 버린 6·10만세운동…독립에 좌우 없다\"",
+    "source": "연합뉴스(경제)",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610013300003",
+    "title": "삼성전자, 미국 DNA분석장비기업 추가 투자해 1대주주 지위",
     "summary": [
-      "[6·10 만세운동 100주년]⑥ 1926년 6월 10일 순종의 인산일을 기해 거리에 울려 퍼진 대한독립만세의 함성이 올해로 100주년을 맞는다.",
-      "6·10 만세운동은 3·1운동, 광주학생항일운동과 함께 일제강점기 3대 항일운동으로 꼽히지만 오랫동안 '이념의 벽'에 가려 그 역사적 의미가 충분히 조명되지 못했다.",
-      "머니투데이는 '6·10 만세운동 100주년'을 앞두고 조선총독부 경무국 사료를 심층 분석해 당시 항일투쟁의 성격과 역사적 의미를 짚어본."
+      "(서울=연합뉴스) 조성흠 기자 = 삼성전자가 미국 유전자 분석 장비 기업 엘리먼트 바이오사이언스(이하 엘리먼트)에 전략적 투자자(SI)로 참여해..."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n66c98c67",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "53분 전",
+    "url": "https://www.hankyung.com/article/2026061069797",
+    "title": "'年2000억 청구' 도수치료 손본다…정부 \"건보 재정 절감\"",
+    "summary": [
+      "'年2000억 청구' 도수치료 손본다…정부 \"건보 재정 절감\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd54dbf4b",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/10/2026061005481886251",
-    "title": "앤트로픽, 미토스급 AI모델 '페이블5' 출시…안전장치 도입",
+    "id": "n991bb181",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609070800003",
+    "title": "LG전자, 미국 컨슈머리포트 '신뢰받는 세탁 가전' 최상위 평가",
     "summary": [
-      "미국 인공지능(AI) 스타트업 앤트로픽이 최상위 인공지능(AI) 모델인 '미토스'급 성능을 갖춘 신형 모델 '클로드 페이블 5'를 일반에 출시했다.",
-      "9일(현지시간) 월스트리트저널(WSJ) 등 주요 외신에 따르면 이번에 공개된 페이블 5는 악용 우려로 일반 공개가 제한됐던 미토스의 강력한 연산 및 추론 능력을 안전하게 활용할 수 있도록 설계된 게 특징이다.",
-      "생물·화학 무기 개발이나 소프트웨어 취약점 악용과 같은 고위험 영역의 프롬프트가 입력될 경."
+      "(서울=연합뉴스) 임성호 기자 = LG전자가 미국 주요 매체에서 세탁 가전과 냉장고로 제품 경쟁력을 인정받았다."
     ],
     "chips": [
-      "#AI",
-      "#스타트업"
+      "#뉴스"
     ]
   }
 ];
@@ -647,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
-  },
-  {
-    "rank": 3,
     "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
+  },
+  {
+    "rank": 3,
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
