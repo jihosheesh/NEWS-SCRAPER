@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-09 16:06:57
+// 마지막 업데이트: 2026-06-09 17:39:20
 window.NEWS_DB = [
   {
     "id": "ne6b65319",
     "category": "IT",
     "source": "Korea IT Times",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94aHhlU3UyMld3T3RtdzhKZXZ0TFFnRjdleTQ1QzJkV2VZNE9mVFhuYktUemdJRnlpcXI4ZV9IaFpCRzQ4My1Ra1gtcnUyUDJQc3d6U2NNeEcxQkx4bkEyM2VnWEVheFdqd3NlZk8wLVM?oc=5",
     "title": "전영현-젠슨 황 회동… 삼성전자, 엔비디아 AI 공급망 핵심 축 노린다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nc378ea82",
     "category": "IT",
     "source": "IT조선",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnT3BhUkZzekJ1OTUzY2gzVjhLZ3JsNVFCMzVmXzBhTEh2TFViRU9wcDdrUDBMRWhfcTJUcGtuYWdWNHQ1N1B0TnZYMkZUUlZ0YzI2N2xtd3l3YklDVjBmTjgwdEVzVERVYlYxdzQ3eVfSAXRBVV95cUxNMzBjeDFCRGxEaHlZZ0IxU2w5WU1WSkQ1VnVidmxJcHNtWG9FY2c0RDV6cnBmYkV0SEVGMWRvYkgyVUxaMV9EbHBBbFp6VmhNRWc3TEVlQUZ4dTBjekwtXzQtVVdNMVROWWZveXM5cUtMX0lNMQ?oc=5",
     "title": "젠슨 황 만난 삼성 전영현 “HBM·파운드리 등 협력 논의”",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n72c079e9",
     "category": "IT",
     "source": "쿠키뉴스",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWnRFeWhHQ3QtcWRHY3NFLUxvQXpOMWpaNk1oRUV5bUgyOWRZYklETm5GdVp5OVZVMlBHcTFjMXdzZHdlRk5jaVF0RGsxYXh1emh6WFktOGpkbktGYkFnUmNPaw?oc=5",
     "title": "국산 AI반도체, 460억원 수출 성과…과기부 “엔비디아급 기술력” 자신",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "na266de34",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzZEQwYjFPZE9QLU5wYUM2Vjl3VjdDd2s5dkR4eWdiWENPS2J1RF90Wjluc1lFWmhFVWVqOXJxcTF6UEFvUzNHR3pkVQ?oc=5",
     "title": "SK엔 \"2030년 캐파 2배도 부족\"…삼성엔 \"HBM·파운드리 협력\"",
     "summary": [
@@ -123,6 +123,22 @@ window.NEWS_DB = [
       "#AI",
       "#엔비디아",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nc3609b09",
+    "category": "사회",
+    "source": "브런치",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NDMyV3FJOVJzMUxNRXFOY3NYZ1ZIX0diNXVxNXRQUFRHZ0JyS0otb25zT3R3SGhEOUZaYWxaYlBEanZXWDhZSTYzcDU4TW82NmdZ?oc=5",
+    "title": "중장년 지원금 신청 (재취업,고용,채용,일자리,취업)",
+    "summary": [
+      "중장년 지원금 신청 (재취업,고용,채용,일자리,취업) 브런치."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -209,21 +225,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
     ]
   },
   {
@@ -314,10 +315,72 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne88c0302",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003662919",
+    "title": "트럼프 \"이란, 美 아파치 헬기 격추\"…보복 시사",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 도널드 트럼프 미국 대통령이 호르무즈 해협 인근에서 추락한 미 육군 아파치 공격헬기가 이란에 의해 격추됐다며 보복 방침을 밝혔다.",
+      "9일(현지 시간) CNN에 따르면 트럼프 대통령은 소셜미디어를 통해 \"위대한 미군으로부터 어젯밤 이란이 호르무즈 해협 상공을 순찰하던 우리의 최첨단 아파치 헬기 한 대를 격추했다는 보고를 받았다\"고 밝혔다.",
+      "그는 \"조종사 2명이 탑승하고 있었지만 모두 무사하며 부상도 없다\"면서도 \"그럼."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9ccb54d0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/10/ME4DSMLEMY2DQYZRGQZDGMTCG4/",
+    "title": "경악! 한국인이 ML 타격 2위 실화? 이정후 전국구 스타 급부상, 美 “LEE 연속 안타 행진, SF 넘어 미국이 주목한다”",
+    "summary": [
+      "[OSEN=이후광 기자] 한국인이 메이저리그 전체 타격 2위라니.",
+      "‘바람의 손자’ 이정후(샌프란시스코 자이언츠)가 16경기 연속 안타를 앞세워 그 어려운 걸 해냈다.",
+      "이정후는 9일(이하 한국시간) 미국 캘리포니아주 샌프란시스코 오라클파크에서 열린 2026 메이저리그 워싱턴 내셔널스와의 홈경기에 5번 우익수로 선발 출전해 5타수 4안타 2득점 맹활약했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n16c0ac97",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003662917",
+    "title": "호르무즈 해협서 추락한 미군 헬기…무인 수상정이 구조",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 미군 공격헬기가 9일(현지 시간) 새벽 호르무즈 해협 인근에서 추락했으나 무인 수상정이 승무원 2명을 구조했다.",
+      "AP통신 등에 따르면 미 중부사령부(CENTCOM) 팀 호킨스 대변인은 길이 약 7.3m(24피트)의 무인 수상정이 물에 빠진 조종사 2명을 발견해 약 2시간 만에 구조했다고 밝혔다.",
+      "구조된 승무원들은 현재 치료를 받고 있으며 상태는 안정적인 것으로 전해졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc121ddbf",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610003000075",
+    "title": "美NASA '아르테미스 3호' 임무에 첫 유럽인 우주비행사 참여",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국이 반세기만의 유인 달 탐사를 위해 진행 중인 '아르테미스'(Artemis) 프로젝트에 처음으로 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nfe4cebf4",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "14분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152490",
     "title": "우리은행, 런던서 '원화 투자 교두보' 쐐기 박았다",
     "summary": [
@@ -332,7 +395,7 @@ window.NEWS_DB = [
     "id": "n32f36b5f",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "14분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152489",
     "title": "최태원 SK 회장, 한일 '빅텐트' 제안...\"에너지·AI 협력 '윈윈'\"",
     "summary": [
@@ -349,7 +412,7 @@ window.NEWS_DB = [
     "id": "ndafa62b3",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "18분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152487",
     "title": "인증은 받았는데 데이터는 줄줄...티빙·CU 해킹에 ISMS 논란 재점화",
     "summary": [
@@ -362,10 +425,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nffa39d9b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/10/HBRDMODEMI3WCZDBG44TOOLGGI/",
+    "title": "구자욱이 배트를 던졌다...'ABS 탓? 활용?' 140㎞도 안되는 공, 삼성 강타자들 얼어붙은 이유 \"S존 상단 적극 공략\"",
+    "summary": [
+      "[수원=스포츠조선 정현석 기자]'고퀄스' 고영표(KT 위즈)가 완벽하게 부활했다.",
+      "고영표는 9일 수원 KT위즈파크에서 열린 삼성 라이온즈전에 선발 등판, 6이닝 4안타 무4사구 6탈삼진 1실점으로 5대2 승리를 이끌었다.",
+      "3경기 연속 퀄리티스타트로 3연승."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n16d476d6",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "25분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152486",
     "title": "[카드뉴스] 캐논·니콘 천하였는데.. '소니 알파'가 카메라 시장 판을 뒤집은 이유는 무엇일까",
     "summary": [
@@ -378,149 +457,120 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8befaf98",
+    "id": "n2e3bd846",
     "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003661350",
-    "title": "\"결혼 전엔 자주 갔는데\" 혼자 해외여행 가겠다는 아내…이기적인 행동일까",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260609_0003661401",
+    "title": "병 잡으려다 병 걸린다? 방사능 범벅인 줄 모르고 받는 '이 검사'의 공포",
     "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 결혼 후 배우자를 두고 홀로 해외여행을 떠나는 문제를 두고 온라인상에서 뜨거운 설전이 벌어졌다.",
-      "여행 성향의 차이로 시작된 부부간의 갈등이 시댁으로까지 번지며 누리꾼들 사이에서도 의견이 팽팽하게 대립하는 모양새다.",
-      "지난 5일 한 온라인 커뮤니티에 '결혼하면 혼자 여행도 못 가나요? 혼자 해외여행 간다니까 안 된답니다'라는 제목의 글이 올라왔다."
+      "[서울=뉴시스]허준희 인턴 기자 = 건강검진센터들이 수십 가지 항목과 고가의 패키지 상품들을 소개하는 가운데, 과한 건강검진의 위험성을 경고하는 전문가의 목소리가 나왔다.",
+      "지난 8일, 구독자 277만 명을 보유한 유튜브 채널 '신사임당'에는 '죽음으로 이끄는 건강검진 1위 \"이 검사\"는 제발 피하세요 방사능 범벅입니다!'라는 제목의 영상이 게재됐다.",
+      "해당 영상에 출연한 김현수내과의원 줄기세포센터의 강형창 원장은 \"모든 검사는 이득과 실을 계산해."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n4c82021d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003662215",
-    "title": "술도 안마시는데 내가 간암?…원인은 '이것' 때문",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 간암 진단을 받으면 많은 환자들이 가장 먼저 \"술을 많이 마신 것이 원인이었을까?\"라는 의문을 갖는다.",
-      "과도한 음주가 주요 위험요인 중 하나인 것은 사실이지만, 술을 거의 마시지 않는 사람에게도 발생할 수 있다.",
-      "10일 국가암정보센터에 따르면 간암은 국내 암 사망 원인 2위를 차지하는 암이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n02ddb05e",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026060922402690696",
-    "title": "신유진, 드림 투어 첫 우승…\"아직도 실감이 나지 않는다\"",
-    "summary": [
-      "신유진이 한국여자프로골프(KLPGA) 드림(2부) 투어에서 첫 승을 올렸다.",
-      "그는 9일 강원도 평창군 휘닉스 컨트리클럽(파71·6378야드)에서 열린 휘닉스CC 드림 투어 9차전(총상금 7000만원)에서 2라운드가 짙은 안개로 취소됨에 따라 1라운드 성적만으로 우승을 차지했다.",
-      "신유진은 1라운드에서 10언더파 61타로 5타 차 선두에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfec4c76e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/06/10/YPKSG4NCQFEQTN3FAPQDME3PKE/",
-    "title": "송파 51%, 옹진은 100%… ‘엿장수 투표용지’",
-    "summary": [
-      "송파 51%, 옹진은 100%… ‘엿장수 투표용지’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nada15898",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/06/10/PTPB6VHQZ5G23IOSUMYPGQAN3M/",
-    "title": "삼성·SK, 전남·충남에 반도체 공장 검토",
-    "summary": [
-      "삼성·SK, 전남·충남에 반도체 공장 검토."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nd3085edb",
+    "id": "n3aa70902",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/06/10/QY5C3PZKBBHWNHEIDXM5ZMSN3M/",
-    "title": "세계서 가장 큰 ‘월드컵 벽화’… 기네스 기록 인증",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/10/GZSGEYJRMU2WEYTCGZSGIMBYG4/",
+    "title": "“흐름상 굉장히 중요한 경기, 임찬규·박해민 활약 칭찬해” 염경엽 감독, 2연패 탈출에 활짝 웃었다",
     "summary": [
-      "세계서 가장 큰 ‘월드컵 벽화’… 기네스 기록 인증."
+      "[OSEN=잠실, 길준영 기자] 프로야구 LG 트윈스가 투타조화를 이루며 2연패에서 탈출했다.",
+      "LG는 9일 서울 잠실구장에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에서 8-2 승리를 거두고 2연패를 끊었다.",
+      "LG 타선은 9안타를 몰아쳤다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n524e1b3e",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003661431",
-    "title": "\"반도체 꺾일 때 받쳐줄 수비수 필요\"…지금 배당주 사모으는 이유",
-    "summary": [
-      "[서울=뉴시스]서영은 인턴 기자 = 최근 국내외 증시의 변동성이 확대되면서 자산 안정성을 확보하기 위해 성장주 중심의 포트폴리오를 배당주로 일부 전환해야 한다는 전문가 조언이 나왔다.",
-      "8일 구독자 178만명의 유튜브 '부읽남TV_내집마련부터건물주까지'에 출연한 15년차 배당주 투자자 김채성 리치노마드 대표는 최근 IT 및 반도체 중심의 성장주 장세를 진단하고, 이에 따른 배당주 투자 전략과 자산 배분 방안을 제시했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n95db6837",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/06/10/ZNWJX3ZO4JGTTHYFLWDTHWP4VA/",
-    "title": "張 “전국 재선거해야” 당내 “사퇴론 물타기”",
-    "summary": [
-      "張 “전국 재선거해야” 당내 “사퇴론 물타기”."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7968a4dc",
+    "id": "nde637462",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610001100001",
-    "title": "李대통령 \"농어촌기본소득, 지속화하고 금액높이면 효과 있을것\"",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610002800071",
+    "title": "트럼프 \"이란이 호르무즈 순찰하던 美헬기 격추…반드시 대응\"",
     "summary": [
-      "(브뤼셀=연합뉴스) 임형섭 고동욱 기자 = 벨기에를 방문한 이재명 대통령은 9일(현지시간) \"농어촌 기본소득을 2년 한시 (사업으로) 도입했는데..."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 9일(현지시간) 호르무즈 해협 상공을 비행하다 추락한 미군 아파치 헬기가 이란..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nf4401405",
+    "id": "n2dcc9c18",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/10/GM3GEMZZME4TAYLGGY2WMODFMI/",
+    "title": "음바페도, 해리 케인도 아니다! 세대교체 본격화 북중미월드컵 선수랭킹. 1위는 PSG의 에이스, 2위는 스페인 신성이었다",
+    "summary": [
+      "[스포츠조선 류동혁 기자] 킬리안 음바페도, 해리 케인도 아니었다.",
+      "2026년 북중미월드컵 최고의 선수는 PSG의 에이스 윙어 우스만 뎀벨레(프랑스)였다.",
+      "미국 ESPN은 9일(한국시각) 2026년 북중미월드컵 선수랭킹 톱 50을 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncd7839d3",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "37분 전",
+    "url": "https://www.hankyung.com/article/202606106890i",
+    "title": "李대통령, 브뤼셀 도착…10일 벨기에·EU와 정상회담",
+    "summary": [
+      "李대통령, 브뤼셀 도착…10일 벨기에·EU와 정상회담."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na8d9c3fa",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610002600082",
+    "title": "독일 방산업계, 차세대 전투기 독자개발 추진",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 독일·프랑스·스페인의 차세대 전투기 공동개발 사업이 무산된 가운데 독일 방산업체들이 새 전투기 프로젝트를 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne85d9d5d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260609152251109",
+    "title": "'에너지난' 크림반도 계속 때리는 우크라…약한 고리 노렸나(종합)",
+    "summary": [
+      "(로마·이스탄불=연합뉴스) 민경락 김동호 특파원 = 최근 전장에서 '우위'를 보이고 있다는 평가를 받는 우크라이나가 러시아가 실효 지배 중인 크..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n55a8356e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003662904",
-    "title": "프랑스·영국 등 5개국, 이스라엘 극우 재무장관 제재…입국 금지 조치도",
+    "time": "48분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003662914",
+    "title": "휴전 속 이스라엘 공습…이란 방공부대원 2명 사망",
     "summary": [
-      "[서울=뉴시스]박미선 기자 = 프랑스·영국·캐나다·호주·노르웨이 5개국이 팔레스타인인에 대한 폭력과 인권 침해를 이유로 이스라엘의 극우 성향 재무장관 베잘렐 스모트리치와 요르단강 서안 정착민 세력을 대상으로 제재를 발표했다.",
-      "이스라엘은 이를 \"수치스러운 조치\"라고 반발했다.",
-      "9일(현지 시간) CNN 등 외신에 따르면 장노엘 바로 프랑스 외무장관은 이날 5개국 공동 서한을 통해 이스라엘 정착민들이 폭력을 이용해 \"팔레스타인인을 강제로 내쫓고 재산."
+      "[서울=뉴시스]박미선 기자 = 이스라엘의 공습으로 이란 방공부대 소속 대원 2명이 사망했다고 이란 매체가 보도했다.",
+      "9일(현지 시간) CNN에 따르면 이란 국영방송 IRIB는 사망한 대원들은 \"국가 영공 방어 임무를 수행하던 중\" 숨졌다고 전했다.",
+      "반관영 파르스통신은 이번 공격으로 테헤란시청 소속 직원 1명도 사망했다고 전했다."
     ],
     "chips": [
       "#뉴스"
@@ -530,7 +580,7 @@ window.NEWS_DB = [
     "id": "nd926e256",
     "category": "IT",
     "source": "한국경제",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026060968301",
     "title": "中, 2조위안 투입해 AI 인프라 통합한다",
     "summary": [
@@ -544,7 +594,7 @@ window.NEWS_DB = [
     "id": "n3d5eb4f4",
     "category": "경제",
     "source": "한국경제",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026060968261",
     "title": "'D램 1위' 삼성, 점유율 더 늘었다",
     "summary": [
@@ -555,38 +605,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd025a58a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260609175400108",
-    "title": "\"차량 충돌로 침수된 이스탄불 해저터널, 안정성 문제없어\"",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 차량 충돌로 소화전이 파손되면서 터널 내부가 침수됐던 튀르키예 이스탄불 유라시아해저터널 사고와 관련해 터..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8187f3ad",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260609172151081",
-    "title": "영국·프랑스 등 6개국, 이스라엘 극우 장관 등 입국 금지(종합)",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 프랑스와 영국, 캐나다 등이 9일(현지시간) 요르단강 서안에서 이스라엘인들이 팔레스타인인을 상대로 자행하는 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n58f9c096",
     "category": "부동산",
     "source": "동아일보",
-    "time": "36분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260609/134080025/2",
     "title": "전월세난에… 청년 1인가구 겨냥 공유주거 시장 커진다",
     "summary": [
@@ -601,7 +623,7 @@ window.NEWS_DB = [
     "id": "nc337cc89",
     "category": "경제",
     "source": "동아일보",
-    "time": "36분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260609/134080035/2",
     "title": "코스피 8000 회복… ‘8% 급락’ 하루만에 ‘8% 급등’ 널뛰기 장세",
     "summary": [
@@ -611,23 +633,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n74cd1a41",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "36분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260609/134079942/2",
-    "title": "1분기 1.8% ‘깜짝 성장’… ‘명목 증가율’ 10% 넘어 50년만에 최대",
-    "summary": [
-      "올해 1분기(1∼3월) 한국의 실질 국내총생산(GDP)이 전 분기 대비 1.8% 증가해 2개월 전 발표된 속보치보다도 0.1%포인트 높아지며 ‘깜짝 성장’한 것으로 나타났다.",
-      "기업의 수출 가격 상승 등이 반영된 명목 GDP의 전 분기 대비 성장률은 10.5%로 반도체 수출 호조에 힘입어 1976년 1분기 이후 50년 만에 최대치를 기록했다.",
-      "다만 지난해 1인당 국민총소득(GNI)은 12년째 3만 달러대에 머물러 대만과 일본보다 뒤처졌다."
-    ],
-    "chips": [
-      "#반도체",
-      "#수출"
     ]
   }
 ];
@@ -642,13 +647,13 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
