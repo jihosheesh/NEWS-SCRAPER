@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-09 18:40:33
+// 마지막 업데이트: 2026-06-09 19:40:03
 window.NEWS_DB = [
   {
     "id": "ne6b65319",
     "category": "IT",
     "source": "Korea IT Times",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94aHhlU3UyMld3T3RtdzhKZXZ0TFFnRjdleTQ1QzJkV2VZNE9mVFhuYktUemdJRnlpcXI4ZV9IaFpCRzQ4My1Ra1gtcnUyUDJQc3d6U2NNeEcxQkx4bkEyM2VnWEVheFdqd3NlZk8wLVM?oc=5",
     "title": "전영현-젠슨 황 회동… 삼성전자, 엔비디아 AI 공급망 핵심 축 노린다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nc378ea82",
     "category": "IT",
     "source": "IT조선",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnT3BhUkZzekJ1OTUzY2gzVjhLZ3JsNVFCMzVmXzBhTEh2TFViRU9wcDdrUDBMRWhfcTJUcGtuYWdWNHQ1N1B0TnZYMkZUUlZ0YzI2N2xtd3l3YklDVjBmTjgwdEVzVERVYlYxdzQ3eVfSAXRBVV95cUxNMzBjeDFCRGxEaHlZZ0IxU2w5WU1WSkQ1VnVidmxJcHNtWG9FY2c0RDV6cnBmYkV0SEVGMWRvYkgyVUxaMV9EbHBBbFp6VmhNRWc3TEVlQUZ4dTBjekwtXzQtVVdNMVROWWZveXM5cUtMX0lNMQ?oc=5",
     "title": "젠슨 황 만난 삼성 전영현 “HBM·파운드리 등 협력 논의”",
     "summary": [
@@ -32,27 +32,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n72c079e9",
-    "category": "IT",
-    "source": "쿠키뉴스",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWnRFeWhHQ3QtcWRHY3NFLUxvQXpOMWpaNk1oRUV5bUgyOWRZYklETm5GdVp5OVZVMlBHcTFjMXdzZHdlRk5jaVF0RGsxYXh1emh6WFktOGpkbktGYkFnUmNPaw?oc=5",
-    "title": "국산 AI반도체, 460억원 수출 성과…과기부 “엔비디아급 기술력” 자신",
-    "summary": [
-      "국산 AI반도체, 460억원 수출 성과…과기부 “엔비디아급 기술력” 자신 쿠키뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#수출"
-    ]
-  },
-  {
     "id": "na266de34",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzZEQwYjFPZE9QLU5wYUM2Vjl3VjdDd2s5dkR4eWdiWENPS2J1RF90Wjluc1lFWmhFVWVqOXJxcTF6UEFvUzNHR3pkVQ?oc=5",
     "title": "SK엔 \"2030년 캐파 2배도 부족\"…삼성엔 \"HBM·파운드리 협력\"",
     "summary": [
@@ -95,11 +78,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd8354e7f",
+    "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXfSAXZBVV95cUxPdkx4dzBQTlREMUxrNlowdUFzRHN1UVB4aXVvX19OVUZSNWM3UU9Nb3Vnakszblc5enB2cVdJX2o4bEVjR2lqQmt6WFJvbEhtZHZDaDNQNk9pcHNMMFRvcU5Jb2ptZG5ST3FRZ0dybjNidWE0NTF3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMXhOQm1aSW1uMERiS2ZpRGF2ckVNd2RGektBdm8zaHVMeS11aWNyX1c1b0phM1k4bVNERFdpOUpjMEg5SnlpN1Q1d3MxTy04YkwwSW5qN1JOdzJERnN2Q3I3QlpQbEppUUE3d3dVOF9lZ9IBdkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXc?oc=5",
     "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
     "summary": [
       "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까 시사저널e."
@@ -107,6 +90,22 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "n7b4d122f",
+    "category": "IT",
+    "source": "에너지경제신문",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzYm95VXZKOWFfRS1USzdkczhVejk3M3FpR3NpMXJUUlN4SDIyU3JhN2JlaDRhdWpCZEQta1RNWDgtWTRKOWZ0cktieXBNdktXUWIwQ25xT3E1XzA?oc=5",
+    "title": "SK “엔비디아와 미래 AI팩토리 만든다”…반도체 넘어 ‘AI 인프라 동맹’",
+    "summary": [
+      "SK “엔비디아와 미래 AI팩토리 만든다”…반도체 넘어 ‘AI 인프라 동맹’ 에너지경제신문."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -212,6 +211,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc880125a",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqSm94eVVXRTg1SzRaVVBlQW5TaW9PeDI0ZG5uSXVGcU5oY0dXa0lERmJsblpPWW9KQmtITDVfazMtU1ZGR1lEY3p0X1BDU3pOLUlLa19URnQ1U3lR?oc=5",
+    "title": "'류현진 200승'은 이미 선동열·박찬호급…'손·차·박 논쟁'처럼 '선·박·류 논쟁'도 뜨거워진다",
+    "summary": [
+      "'류현진 200승'은 이미 선동열·박찬호급…'손·차·박 논쟁'처럼 '선·박·류 논쟁'도 뜨거워진다 네이트."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nc92d59ae",
     "category": "IT",
     "source": "경기일보",
@@ -271,67 +284,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
+    "id": "n3a74f57a",
     "category": "스포츠",
-    "source": "테크M",
-    "time": "69일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "source": "네이트",
+    "time": "85일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yamZvekF4dWZFVU96ZTliM185OTlwa01IZmhCSnBXSHhmNmtYclBvOWRXc2xlS18yWk44ZDVNSzYtQUVvRlhDLTFDTkwwUElUYU51UG5jczY0NjBo?oc=5",
+    "title": "中축구 닮아가는 韓야구…\"국내서 왕노릇, 힘든 해외도전 하겠나\" [뒤로가는 K스포츠]",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "中축구 닮아가는 韓야구…\"국내서 왕노릇, 힘든 해외도전 하겠나\" [뒤로가는 K스포츠] 네이트."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "ncbcb6c77",
+    "id": "n0ba94947",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "93일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "source": "이투데이",
+    "time": "297일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeFVaZ2NxaEJNU3lfakx0VkJhbU5ZbWs4UWl0QU5TaDhZVlFCUGlfVE9jWXNlSGxQSE1ZVGJfLWwtaDhYbWV1a004UmNqN3N2T0t3cA?oc=5",
+    "title": "'2025 KBO 프로야구' 오늘(16일)의 경기 일정",
     "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+      "'2025 KBO 프로야구' 오늘(16일)의 경기 일정 이투데이."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n46f59f4d",
+    "id": "n653eb32e",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "158일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260610/134081775/1",
+    "title": "LG, 8-2로 SSG 완파하고 선두 수성…임찬규, 구단 ‘최다 K’ 신기록",
     "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
+      "프로야구 LG 트윈스가 토종 선발의 힘을 앞세워 연패를 끊고 선두 질주를 이어갔다.LG는 9일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 홈 경기에서 SSG 랜더스를 8-2로 꺾었다.연패를 끊은 LG는 시즌 37승 23패를 기록, 선두 수성에 성공했다.",
+      "반면 SSG는 상승세를 잇지 못하며 26승 1무 33패를 기록하고 8위에 머물렀다.LG의 토종 에이스 임찬규는 이날 공 98개를 던져 5이닝 4피안타 1실점 호투를 펼치고 시즌 6승(1."
     ],
     "chips": [
-      "#손흥민",
       "#KBO"
     ]
   },
   {
-    "id": "ne151d8b5",
+    "id": "n03d7aff6",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610004300530",
-    "title": "\"울산 북구 동북동쪽 바다서 규모 2.9 지진…피해 없을듯\"",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/06/10/ETUGLMGFNVEVDIIZQRNF6T4FXQ/",
+    "title": "李대통령 “농어촌 기본소득, 영구도입하고 금액 높이면 효과 클것”",
     "summary": [
-      "(서울=연합뉴스) 10일 오전 3시 16분 57초 울산 북구 동북동쪽 24km 해역에서 규모 2.9의 지진이 발생했다고 기상청이 밝혔다."
+      "李대통령 “농어촌 기본소득, 영구도입하고 금액 높이면 효과 클것”."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n78ea1db3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/10/GJSDMOJSGA4WKYLDGVRWKMBZGE/",
+    "title": "'잠실 홈런왕 살아있네' 폴대 위로 사라진 타구, 너무 잘 맞아 손해 본 김재환...오스틴도 놀란 초대형 파울 홈런",
+    "summary": [
+      "[잠실=스포츠조선 박재만 기자] 너무 잘 맞은 타구가 오히려 독이 됐다.",
+      "SSG 랜더스 4번 타자 김재환이 잠실구장 우측 폴대를 한참 넘어가는 초대형 타구를 날렸지만, 비디오 판독 끝에 원심을 뒤집지 못하고 원심 파울이 유지되자 아쉬움을 삼켰다.",
+      "김재환은 타격 직후 홈런을 확신했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "nc7b79815",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260610/134081286/2",
+    "title": "中 ‘반미 핵심축’ 된 北 “전략적 협조 새 이정표”",
+    "summary": [
+      "7년 만에 이뤄진 시진핑(習近平) 중국 국가주석의 방북을 계기로 북-중 관계는 ‘전통적 우호 관계’에서 ‘전략적 파트너’로 한 단계 격상했다는 평가가 나온다.",
+      "8일 정상회담에서 김정은 북한 국무위원장과 시 주석은 북-중 관계를 “새로운 정세 변화에 맞춰 새로운 시대적 함의를 담은 관계”로 발전시켜 가는 데 합의했다.",
+      "단순히 기존의 혈맹 관계를 넘어 미국 주도의 국제질서에 함께 맞서겠다는 협력적 연대를 구축한 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83d52dd6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260610/134081284/2",
+    "title": "[단독]중앙선관위 ‘투표용지 인쇄 감축’ 회의 한번 없었다",
+    "summary": [
+      "중앙선거관리위원회가 6·3 지방선거를 앞두고 투표용지 최소 인쇄 기준을 유권자의 60%에서 50%로 낮추면서 공식 회의록도 남기지 않은 채 내부 결재만으로 규정을 확정한 것으로 드러났다.",
+      "9일 국민의힘 송언석 의원이 중앙선관위로부터 제출받은 자료에 따르면 중앙선관위는 지난해 12월 10일 ‘제9회 지방선거 종합관리지침’을 하달하면서 투표용지 인쇄 매수의 하한 기준을 종전(60%)보다 축소한 50%로 규정했다.",
+      "이는 같은 달 24일 ‘공직선거 절."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n031d2082",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260610/134081282/2",
+    "title": "광장서 하늘 보며 트레드밀… “젊게 사는 ‘웰니스’ 배웠어요”",
+    "summary": [
+      "“나이는 정말 숫자에 불과합니다.",
+      "제 나이가 일흔이 넘었는데, 오늘은 스무 살은 젊어진 기분이에요.” 9일 오후 서울 중구 서울광장에 설치된 7m 높이의 인공 암벽(클라이밍)을 단 55초 만에 완등한 김교영 씨(71)는 안전 장비를 벗으며 환하게 웃었다.",
+      "이날 클라이밍을 처음 체험해봤다는 김 씨는 완등 직후 “아직 포기할 때가 아니라 ‘하면 된다’는 자신감을 얻게 됐다”며 웃었다.‘2026 서울헬스쇼―도심 속 건강 축제’가 9일 막을 올렸다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n410f1667",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260609_0003662710",
+    "title": "[오늘의 주요일정]제주(6월10일 수요일)",
+    "summary": [
+      "[제주=뉴시스] ▲오전 9시, 제주보건소 찾아가는 구강보건실, 제주남초등학교 ▲오전 9시30분, 2026년 제2차 읍면동 맞춤형복지 컨설팅, 제주연구원 3층 대강당 ▲오전 9시50분, 제주도립 제주예술단 찾아가는 연주회, 제주영지학교 ▲오전 10시, 제15회 6.25전쟁 호국영웅 등 합동 추념식, 신산공원 ▲오전 10시, 제449회 제주도의회(임시회) 보건복지안전·문화관광체육위원회 회의, 제주도의회 각 상임위 회의실 ▲오전 10시30분, 202."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nae3db849",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/international/us/2026/06/10/EN6KOCAXU5EUJLQAGHRS2LULXU/",
+    "title": "트럼프 “이란이 호르무즈 순찰 美헬기 격추”… 보복 조치 예고",
+    "summary": [
+      "트럼프 “이란이 호르무즈 순찰 美헬기 격추”… 보복 조치 예고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a0f809e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003662922",
+    "title": "트럼프 \"이란이 아파치 격추, 반드시 대응\"…이란 \"호르무즈 떠나라\"(종합)",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 도널드 트럼프 미국 대통령이 이란이 호르무즈 해협 인근에서 미군 아파치 공격헬기를 격추했다고 주장하며 대응 방침을 시사했다.",
+      "이란도 강경 대응 가능성을 경고하면서 가까스로 유지되고 있는 휴전 체제가 다시 흔들리는 모습이다.",
+      "9일(현지 시간) 월스트리트저널(WSJ)에 따르면 트럼프 대통령은 트루스소셜에 \"위대한 미군으로부터 어젯밤 이란이 호르무즈 해협 상공을 순찰하던 우리의 최첨단 아파치 헬기 한 대를 격추했다는 보."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n052069a8",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610005400091",
+    "title": "드디어 일반에 공개된 미토스급 AI모델…앤트로픽, 페이블5 출시",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 기업공개(IPO)를 앞둔 앤트로픽이 그간 공개를 미뤄왔던 최상위급 '미토스' 수준의 인공지능(AI) ..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n36d2b415",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610005200098",
+    "title": "EU, 왓츠앱에 \"경쟁사 AI챗봇 닷새내 무료 접근 허용해야\"",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)이 미국 빅테크 메타의 메신저 서비스인 왓츠앱에 경쟁 AI 챗봇의 무료 접근을 닷새 안에 허..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n165c7bc4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "37분 전",
+    "url": "https://www.newsis.com/view/NISX20260609_0003662693",
+    "title": "수요일 대구·경북, 대체로 맑음…아침 12도·한낮 30도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 수요일인 10일 대구와 경상북도는 대체로 맑을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"대구·경북은 대체로 맑고, 중국 중부지방에서 남동쪽으로 이동하는 고기압의 가장자리에 들겠다\"고 예보했다.",
+      "아침 최저기온은 12~17도(평년 12~18도), 낮 최고기온은 25~30도(평년 23~29도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbc1af15e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610005000071",
+    "title": "美전문가 \"비핵화 빠진 회담…中은 美견제, 北은 핵보유국 부각\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 송상호 특파원 = 시진핑 중국 국가주석과 김정은 북한 국무위원장의 지난 8일(현지시간) 평양 정상회담 결과와 관련해 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8c78fb9a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/10/MEZDOOJRGI3WCNJYGQ4TANTFGY/",
+    "title": "\"이게 월드컵 수준이야!\" 일본 확실한 '1승 제물'인가…'확신 없다' 네덜란드 연이은 굴욕에 전 세계 '비난 폭발'",
+    "summary": [
+      "[스포츠조선 김가을 기자]네덜란드의 굴욕이다.",
+      "로날드 쿠만 네덜란드 월드컵대표팀 감독이 이끄는 네덜란드 축구대표팀은 2026년 북중미월드컵을 앞두고 경기력 논란에 휩싸였다.",
+      "네덜란드는 월드컵을 앞두고 가진 친선 경기에서 연달아 진땀을 흘렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6617bbd7",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "53분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610004900002",
+    "title": "달러-원, 증시 급락에 위험 회피 반영…1,532.70원 마감",
+    "summary": [
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 낙폭을 대거 축소했다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "nca01cba0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260609_0003661390",
     "title": "\"신나게 흔들면 살 쏙\"…서인영, 40대 나이 무색한 '아침 줌바댄스' 효과",
     "summary": [
@@ -344,112 +554,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc3c2cab",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/economy/real_estate/2026/06/10/PBE56GTPRBB4XEHEFSCEE46UAU/",
-    "title": "분당의 3배… 동탄 실수요자라면 대체 어디부터 봐야 하나",
-    "summary": [
-      "분당의 3배… 동탄 실수요자라면 대체 어디부터 봐야 하나."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb06da3c3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/06/10/5D6OFZBDHJHPPLJMK6TK3DZNIQ/",
-    "title": "발 디딜 때마다 무릎 손상… 충격 줄여주는 2분 루틴",
-    "summary": [
-      "발 디딜 때마다 무릎 손상… 충격 줄여주는 2분 루틴."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8c1eb7b1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/economy/money/2026/06/10/73DW5OYDDJBFNJP2HJX6Q6ZQRY/",
-    "title": "대기업 은퇴 후 7년…경제적 자유를 가져다준 실제 투자 포트폴리오 공개",
-    "summary": [
-      "대기업 은퇴 후 7년…경제적 자유를 가져다준 실제 투자 포트폴리오 공개."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n513a3ded",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/10/VZF62L5Q3ZHFFE6QYQRF52VQ3U/",
-    "title": "英 투자은행이 꼽은 월드컵 우승 후보는?",
-    "summary": [
-      "英 투자은행이 꼽은 월드컵 우승 후보는?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1a86dcd1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "46분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003662916",
-    "title": "벨기에 동포 만난 이 대통령 \"韓 세계 문화 중심국가로…자랑스러운 대한민국 만들 것\"",
-    "summary": [
-      "[브뤼셀·서울=뉴시스] 김지은 김경록 기자 = 유럽 순방길에 오른 이재명 대통령이 9일(현지시간) 첫 방문지인 벨기에 브뤼셀에서 교민들과 만나 \"대한민국에 대한 평가가 아주 짧은 시간 극적으로 바뀌었다\"며 \"자랑스러운 대한민국을 만드는 게 여러분들에게 도움 되는 길이 아닐까 생각한다\"고 밝혔다.",
-      "이 대통령은 이날 오후 브뤼셀의 한 호텔에서 열린 현지 동포들과의 만찬 간담회로 9박10일 순방 일정을 시작했다.",
-      "이 대통령은 \"본국의 위상이나 세계에."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9eaae470",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610003900001",
-    "title": "벨기에 교민 만난 李대통령 \"격변에 걱정…더 나은 韓 보여줄것\"",
-    "summary": [
-      "(브뤼셀=연합뉴스) 임형섭 고동욱 기자 = 벨기에를 방문 중인 이재명 대통령은 9일(현지시간) 브뤼셀 시내 한 호텔에서 현지 교민들과 만찬 간담..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "naf3fbd22",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "49분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003662920",
-    "title": "이란 \"美, 약속 어기면 우리 방식대로 대응\"…헬기 격추에 긴장 재고조",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 대미 협상을 이끄는 모하마드 바게르 갈리바프 이란 의회 의장이 미국을 향해 합의를 어길 경우 강경 대응에 나설 것이라고 경고했다.",
-      "도널드 트럼프 미국 대통령이 이란의 미군 아파치 공격헬기 격추에 대한 대응 방침을 밝힌 가운데, 양국 간 긴장이 다시 고조되는 모습이다.",
-      "9일(현지 시간) CNN에 따르면 갈리바프 의장은 이날 엑스(X)에 올린 글에서 \"우리는 외교의 언어를 선호하지만, 다른 언어는 훨씬 더 유창하게 구."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n07a7d529",
     "category": "사회",
     "source": "아시아경제",
-    "time": "58분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026061002413036050",
     "title": "트럼프, 이란에 보복 경고…\"미군 아파치 격추됐다\"",
     "summary": [
@@ -462,54 +570,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc4438a6b",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610003600087",
-    "title": "[월드컵] 교통대란 우려에…멕시코시티 개막일 '재택근무령'",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 멕시코 수도 멕시코시티에 근무하는 연방 공무원들이 2026 북중미 월드컵이 개막하는 11일(현지시간) ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne88c0302",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003662919",
-    "title": "트럼프 \"이란, 美 아파치 헬기 격추\"…보복 시사",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 도널드 트럼프 미국 대통령이 호르무즈 해협 인근에서 추락한 미 육군 아파치 공격헬기가 이란에 의해 격추됐다며 보복 방침을 밝혔다.",
-      "9일(현지 시간) CNN에 따르면 트럼프 대통령은 소셜미디어를 통해 \"위대한 미군으로부터 어젯밤 이란이 호르무즈 해협 상공을 순찰하던 우리의 최첨단 아파치 헬기 한 대를 격추했다는 보고를 받았다\"고 밝혔다.",
-      "그는 \"조종사 2명이 탑승하고 있었지만 모두 무사하며 부상도 없다\"면서도 \"그럼."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd1bc06c2",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610003200091",
-    "title": "구글, 제미나이3.5 기반 번역 모델 출시…70여 언어 동시통역",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 구글이 70여 가지 언어를 실시간 통역할 수 있는 번역 모델을 내놨다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nfe4cebf4",
     "category": "스포츠",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152490",
     "title": "우리은행, 런던서 '원화 투자 교두보' 쐐기 박았다",
     "summary": [
@@ -524,7 +588,7 @@ window.NEWS_DB = [
     "id": "n32f36b5f",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152489",
     "title": "최태원 SK 회장, 한일 '빅텐트' 제안...\"에너지·AI 협력 '윈윈'\"",
     "summary": [
@@ -541,7 +605,7 @@ window.NEWS_DB = [
     "id": "n1b4ab8e2",
     "category": "경제",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026061002225624452",
     "title": "美 에너지장관 \"호르무즈 통과 선박 의미있게 증가 중\"",
     "summary": [
@@ -557,7 +621,7 @@ window.NEWS_DB = [
     "id": "ndafa62b3",
     "category": "사회",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152487",
     "title": "인증은 받았는데 데이터는 줄줄...티빙·CU 해킹에 ISMS 논란 재점화",
     "summary": [
@@ -568,66 +632,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n16d476d6",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152486",
-    "title": "[카드뉴스] 캐논·니콘 천하였는데.. '소니 알파'가 카메라 시장 판을 뒤집은 이유는 무엇일까",
-    "summary": [
-      "지금은 당연하게 느껴지지만, 20년 전만 해도 소니는 카메라 시장의 '주인공'이 아니었습니다.",
-      "DSLR 시대는 캐논과 니콘의 세상이었고, 소니는 전자회사 이미지가 더 강했죠.",
-      "알파7 시리즈는 풀프레임 미러리스의 기준이 됐고, 스포츠·영상·크리에이터 시장까지 영향력을 넓혔습니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncd7839d3",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606106890i",
-    "title": "李대통령, 브뤼셀 도착…10일 벨기에·EU와 정상회담",
-    "summary": [
-      "李대통령, 브뤼셀 도착…10일 벨기에·EU와 정상회담."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n02ddb05e",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://view.asiae.co.kr/article/2026060922402690696",
-    "title": "신유진, 드림 투어 첫 우승…\"아직도 실감이 나지 않는다\"",
-    "summary": [
-      "신유진이 한국여자프로골프(KLPGA) 드림(2부) 투어에서 첫 승을 올렸다.",
-      "그는 9일 강원도 평창군 휘닉스 컨트리클럽(파71·6378야드)에서 열린 휘닉스CC 드림 투어 9차전(총상금 7000만원)에서 2라운드가 짙은 안개로 취소됨에 따라 1라운드 성적만으로 우승을 차지했다.",
-      "신유진은 1라운드에서 10언더파 61타로 5타 차 선두에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd926e256",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026060968301",
-    "title": "中, 2조위안 투입해 AI 인프라 통합한다",
-    "summary": [
-      "中, 2조위안 투입해 AI 인프라 통합한다."
-    ],
-    "chips": [
-      "#AI"
-    ]
   }
 ];
 
@@ -636,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "정치",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   }
