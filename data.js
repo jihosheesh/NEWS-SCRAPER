@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-10 13:02:40
+// 마지막 업데이트: 2026-06-10 15:02:13
 window.NEWS_DB = [
   {
     "id": "n12ca2e79",
     "category": "스포츠",
     "source": "네이트",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
     "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
     "summary": [
@@ -16,11 +16,26 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6aa493e4",
+    "id": "n3699a49a",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "7시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1meUNwTjVJWFFuQVRzVjdvalpfMWZwYVNQMlUtamNDRXI0UmhvLVJPdWowU2lHeVVoQjBRSW9sVjV2YVRic2Q5Yk9pdi1IdzRpNm50LTZCMnZ2ZGtlbGN0Y3Bzc3ExLXNMYmxwNlBqVUk0eDA?oc=5",
+    "title": "[젠슨 황 이펙트⑥] LG화학 포트폴리오 전환 구명줄 엔비디아, 김동춘 반도체·로봇 소재로 활로",
+    "summary": [
+      "[젠슨 황 이펙트⑥] LG화학 포트폴리오 전환 구명줄 엔비디아, 김동춘 반도체·로봇 소재로 활로 비즈니스포스트."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nee8dec91",
     "category": "스포츠",
     "source": "네이트",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mc0xpMXB1dG5CQkIwZGV0TE9vVm4tb2VwSGdvY1Z4bEF0djNIX3BybXJMTHpGZkhiUjdQWmpJdTc2QjRJdXRrVWpFcERSdjE0X3dzVjhnbHhLT3dx?oc=5",
+    "time": "8시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ON0tzc0hGMm1iZnJNSDZPOWVVRVkyRW9MWXU3ckFPNnE4RXBSa2VOMzlULXdiU3htX2Q4Wk9yZ3cySUdHVk5XRlZveTMzeFVYREo1VE5DblZndlo5?oc=5",
     "title": "KBO 사무국, 아시안게임 야구 대표팀 명단 발표 생중계",
     "summary": [
       "KBO 사무국, 아시안게임 야구 대표팀 명단 발표 생중계 네이트."
@@ -30,10 +45,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd2f59220",
+    "category": "IT",
+    "source": "데일리안",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRzlrQzNzOElYcWVwRHFmaG1oY1RwWWllaXhPNzVlLUJmV3FlRE9HX2NjZkwwRmVuQXNtaU5vMTd2N3ZsTVBJa3J6OXBlLVdUdlpVdHFQbWp3MjFtRkFlcVNYVHFrQWNsYk0zSDJJU1paTkljSlA0bEVScktTbGxOYzMwQWM3TWoydjgtc0hFY25jeUhubFQzQXlWd244ZjlKLWoxdWhtdEt3d3dMMDFvbHRoWm80dUdsQUNpNmJtLW5INU1NdF9rdU5ZdXFUS2tweE1CTUtJdEtrYjY5bHhGeWhRWUt3MlpOLTZ0RjhmdmZlay1paldrVE9Gb9IB-wFBVV95cUxNRzlrQzNzOElYcWVwRHFmaG1oY1RwWWllaXhPNzVlLUJmV3FlRE9HX2NjZkwwRmVuQXNtaU5vMTd2N3ZsTVBJa3J6OXBlLVdUdlpVdHFQbWp3MjFtRkFlcVNYVHFrQWNsYk0zSDJJU1paTkljSlA0bEVScktTbGxOYzMwQWM3TWoydjgtc0hFY25jeUhubFQzQXlWd244ZjlKLWoxdWhtdEt3d3dMMDFvbHRoWm80dUdsQUNpNmJtLW5INU1NdF9rdU5ZdXFUS2tweE1CTUtJdEtrYjY5bHhGeWhRWUt3MlpOLTZ0RjhmdmZlay1paldrVE9Gbw?oc=5",
+    "title": "HBM 공급전서 맞춤형 개발로…삼성·SK, 엔비디아 협력 주목",
+    "summary": [
+      "HBM 공급전서 맞춤형 개발로…삼성·SK, 엔비디아 협력 주목 데일리안."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n4089d874",
     "category": "IT",
     "source": "더팩트",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWjhlQ0pmMm11NndWR19UQmZTbHZFXzBMeklraGpETGh1V0FOMmpsT0VrZHd2VTZZNE9jNkNQc21kY1piRTk0QU9KQnprbzFxRnZSYWdOWndrUdIBVEFVX3lxTE1PYnotSzlwdTRWYjBocFpVbVFlVFlmcmFBdXJHbmZkVlBLV19SZVBkLXVGR1pGdnM2TXJrZ0lET01NU2dzVVNaRUpkWnd5eDlUdXJDeQ?oc=5",
     "title": "젠슨 황이 띄운 AI 전쟁…은행권 '생산적 금융'도 반도체로 간다",
     "summary": [
@@ -48,7 +78,7 @@ window.NEWS_DB = [
     "id": "n1fb61718",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lQXZ6d0xKNDl5ZGxhV2xXbkthaGdQVThCdUpjcFVwOG9CVm14Njk0UXROY2RGZEJrWnAwT0xYSnZBR3BXem5HbEVvVl9iZ05MSlpLYUwwazA1WDkxamxid9IBYEFVX3lxTE1lQXZ6d0xKNDl5ZGxhV2xXbkthaGdQVThCdUpjcFVwOG9CVm14Njk0UXROY2RGZEJrWnAwT0xYSnZBR3BXem5HbEVvVl9iZ05MSlpLYUwwazA1WDkxamxidw?oc=5",
     "title": "[머니톡스] 수출 초호황인데 역설적인 환율…'글로벌'의 부메랑",
     "summary": [
@@ -77,7 +107,7 @@ window.NEWS_DB = [
     "id": "na542b62c",
     "category": "IT",
     "source": "디일렉",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SaDI5bE9sZnh1SThySXR6c3FONU1OdExTelJLS1JMdzZ5Vk1KcDZwYjVmcEdwUHI4LUZEREVzZDdEU0ljcmgwRjg0b3JQQmszMHptOEdrQTFUWEFqRW5mOGUyYWR1UQ?oc=5",
     "title": "젠슨 황 만난 전영현 삼성전자 부회장 \"HBM4·파운드리 등 협력\"",
     "summary": [
@@ -121,21 +151,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd8354e7f",
-    "category": "IT",
-    "source": "시사저널e",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXfSAXZBVV95cUxPdkx4dzBQTlREMUxrNlowdUFzRHN1UVB4aXVvX19OVUZSNWM3UU9Nb3Vnakszblc5enB2cVdJX2o4bEVjR2lqQmt6WFJvbEhtZHZDaDNQNk9pcHNMMFRvcU5Jb2ptZG5ST3FRZ0dybjNidWE0NTF3?oc=5",
-    "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
-    "summary": [
-      "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까 시사저널e."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "n7b4d122f",
     "category": "IT",
     "source": "에너지경제신문",
@@ -149,36 +164,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n0bb0417f",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xOFgtREF3cE5OSVhka0xSOFF2Y3o4WXJ5SkVzdW9HMlJENzhTUkZ3dDFsaWtSX19Ra21aNUg2akhZTGJjNktNMTA4MlpLTDRhNWptRUJrelo1bzh4R0kxd9IBYEFVX3lxTE1xOFgtREF3cE5OSVhka0xSOFF2Y3o4WXJ5SkVzdW9HMlJENzhTUkZ3dDFsaWtSX19Ra21aNUg2akhZTGJjNktNMTA4MlpLTDRhNWptRUJrelo1bzh4R0kxdw?oc=5",
-    "title": "SK하이닉스, 엔비디아와 AI팩토리용 차세대 메모리 공동개발",
-    "summary": [
-      "SK하이닉스, 엔비디아와 AI팩토리용 차세대 메모리 공동개발 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "ne2208e3a",
-    "category": "부동산",
-    "source": "프라임경제",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc0UzWmJweS1lNEZoWnc2WEtHbFhzcjZLWmlXLWJ3ZlUwV2xDUm02a1FiajU0NFFjcGh6NGRuUngtUXNuRnBSMWdaR3haLXowWWloeXZuS3RER2F6dTNBOXdrNzF1TE9ya2F2dQ?oc=5",
-    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
-    "summary": [
-      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -224,6 +209,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
@@ -240,14 +240,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5a1617c5",
+    "id": "n269e2609",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "v.daum.net",
     "time": "29일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
     ],
     "chips": [
       "#부동산",
@@ -270,18 +270,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1e3b72e2",
-    "category": "사회",
-    "source": "매일경제 마켓",
-    "time": "120일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
-    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
+    "id": "ncbcb6c77",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "94일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
-      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
     ],
     "chips": [
-      "#취업",
-      "#고용"
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "118일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
     ]
   },
   {
@@ -365,279 +379,270 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nae085302",
+    "id": "n53117732",
     "category": "스포츠",
-    "source": "뉴시스",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/11/2026061015252831915",
+    "title": "'이럴수가' KT, 11일 삼성전 선발로 '아쿼 불펜' 스기모토 예고! '시즌 첫 선발 등판→오러클린과 맞대결",
+    "summary": [
+      "그야말로 파격적인 선발 매치업이 성사됐다.",
+      "KT 위즈가 팀의 '아시아 쿼터' 불펜 투수 스기모토 코우키(26)를 데뷔 첫 선발 마운드에 올린다.",
+      "상대는 삼성 라이온즈의 좌완 외국인 투수 잭 오러클린이(26)다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n3ac04d99",
+    "category": "사회",
+    "source": "아시아경제",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664533",
-    "title": "'화이트 호투·문현빈 홈런' 한화, KIA에 4-3 진땀승…1경기차 추격",
+    "url": "https://view.asiae.co.kr/article/2026061100003612314",
+    "title": "韓·EU \"북러 불법 군사협력 강력 규탄\"…철강·CBAM 통상현안도 논의",
     "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 한화 이글스가 외국인 투수 오웬 화이트의 역투에 힘입어 KIA 타이거즈의 뒤를 바짝 쫓았다.",
-      "한화는 10일 대전 한화생명볼파크에서 열린 2026 신한 쏠 KBO리그 KIA와의 경기에서 4-3으로 이겼다.",
-      "이날 승리로 5위 한화(31승 1무 28패)는 4위 KIA(33승 1무 28패)와의 승차를 다시 1경기로 좁혔다."
+      "한국과 유럽연합(EU)이 러시아와 북한 간 불법적 군사협력을 강하게 규탄하고, 북한을 핵보유국으로 인정할 수 없다는 입장을 공동성명에 명시했다.",
+      "벨기에를 방문 중인 이재명 대통령은 10일(현지시간) 브뤼셀 EU이사회 본부에서 안토니우 코스타 EU 정상회의 상임의장, 우르줄라 폰데어라이엔 EU 집행위원장과 정상회담을 갖고 안보·경제·기후 협력 등을 담은 공동성명을 채택했다.",
+      "이번 공동성명은 러시아의 우크라이나 침략."
     ],
     "chips": [
-      "#KBO"
+      "#정치",
+      "#환경"
     ]
   },
   {
-    "id": "nc759285c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664566",
-    "title": "부산 해운대구 호텔 객실서 불…20여 명 긴급 대피",
+    "id": "na6d6fe37",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/tech/2026/06/11/2026061015213652050",
+    "title": "우리 몸속 '희대의 암살자' 아고넛, 너는 누구냐 [3분 곰국]",
     "summary": [
-      "[부산=뉴시스]원동화 기자 = 10일 오후 8시28분께 부산 해운대구의 한 호텔 11층 객실에서 불이 났다.",
-      "이 불로 호텔 투숙객 20여 명이 긴급 대피했다.",
-      "불은 다행히 스프링클러가 작동해 10여 분 만에 진화됐다."
+      "[3분 곰국] '정보 암살자' 아고넛 단백질 원리 처음 밝혀 김빛내리 IBS RNA연구단장·노성훈 서울대 생명과학부 교수 11일 국제 학술지 '네이처' 발표 곰국과 논문의 공통점은 전문가들이 오랜 시간 공들여 내놓는 결과라는 점입니다.",
+      "누구나 간편하게 즐길 수 있도록 포장한 게 '3분 요리'라면, 누구나 쉽고 재미있게 읽을 수 있도록 정리한 게 '3분 곰국(거꾸로 읽어보세요)'입니다.",
+      "웹툰 '곰국 요정'(인스타그램 계정 @gomgooki) 으로."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0c318ad7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664567",
-    "title": "수원지검 성남지청서 사건관계인 음독…경찰 조사",
+    "id": "n731be160",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026061017032776413",
+    "title": "유전자 사냥꾼 '아고넛'의 탄생 순간 포착…김빛내리 연구팀, 활성화 원리 첫 규명[과학을읽다]",
     "summary": [
-      "[성남=뉴시스] 양효원 기자 = 경기 성남시 수정구 수원지검 성남지청에서 30대 사건관계인이 음독해 병원에 옮겨지는 사건이 발생했다.",
-      "10일 경찰 등에 따르면 A씨는 이날 오후 1시께 수원지검 성남지청 야외 민원인 쉼터에서 약물을 다량으로 복용한 뒤 의식을 잃었다.",
-      "그는 목격자 신고를 받고 출동한 소방당국에 의해 병원에 옮겨졌다."
+      "알츠하이머병과 대사질환의 원인이 되는 유전자를 찾아 침묵시키는 세포 속 '유전자 사냥꾼' 아고넛(Argonaute).",
+      "김빛내리 기초과학연구원(IBS) RNA 연구단 연구진이 이 단백질이 탄생해 활성화되는 과정을 세계 최초로 규명했다.",
+      "수십 년간 베일에 싸여 있던 유전자 조절 메커니즘의 핵심 퍼즐이 맞춰지면서 차세대 리보핵산(RNA) 치료제 개발에도 새로운 전기가 마련될 전망이다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nb2c82b2e",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/10/2026061021280324029",
-    "title": "말다툼 끝에 여자친구 밀쳤는데 사망…30대 남성 징역 3년",
+    "id": "n87e7c448",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664565",
+    "title": "오후부터 곳곳 소나기…돌풍·천둥·우박 주의[오늘날씨]",
     "summary": [
-      "여자친구와 길거리에서 다투다 여성을 밀쳐 숨지게 한 30대 남성이 징역 3년을 선고받았다.",
-      "10일 뉴시스에 따르면 대구지법은 이날 상해치사 혐의로 기소된 30대 남성 A씨에게 징역 3년을 선고했다.",
-      "A씨는 지난해 12월14일 오전 1시20분쯤 30대 여성 B씨의 어깨 부위를 강하게 밀쳐 넘어뜨린 혐의로 재판에 넘겨졌다."
+      "[서울=뉴시스]신유림 기자 = 목요일인 11일은 오후부터 전국 곳곳에 소나기가 내리겠다.",
+      "일부 지역에서는 돌풍과 함께 천둥·번개가 치고 우박도 떨어지겠다.",
+      "기상청은 \"중부지방과 경북권은 대체로 구름이 많겠고, 그 밖의 지역은 대체로 맑겠다\"고 예보했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n138bdb56",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026061021331602901",
-    "title": "X 앱, 구글 스토어서 '청소년 이용불가' 됐다…등급 상향",
-    "summary": [
-      "구글 플레이스토어에서 사회관계망서비스(SNS) X(옛 트위터)의 이용 등급이 '청소년 이용불가'로 상향 조정된 것으로 확인됐다.",
-      "10일 정보기술(IT) 업계에 따르면 구글 플레이스토어 내 X 앱의 이용 등급은 최근 기존 '만 16세 이상'에서 '청소년 이용불가'로 변경됐다.",
-      "구글 플레이스토어의 X 앱 정보에는 이용 등급 항목에 '19세'와 함께 '청소년 이용불가'라는 문구가 표시돼 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf80866a0",
+    "id": "na103780e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664557",
-    "title": "천안 성거읍 폐기물업체 화재…근로자 3명 대피, 현재 진화 중",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664555",
+    "title": "허남준 \"상탈? 연기보다 더 중요…차기작에서도 벗는다\"",
     "summary": [
-      "[천안=뉴시스]최영민 기자 = 10일 오후 8시20분께 충남 천안시 성거읍 오목리의 한 폐기물 처리업체에서 화재가 발생했다.",
-      "천안서북소방서 등에 따르면 이 시각 현재 5층 규모의 폐기물 처리시설에 적재됐던 폐기물이 타면서 다량의 연기가 발생하고 있으며 이 시각 현재 진화 중이다.",
-      "다행히 내부에서 작업 중이던 근로자 3명은 대피해 인명 피해는 없는 것으로 파악되고 있다."
+      "[서울=뉴시스]강주희 기자 = 배우 허남준이 상의 탈의에 대한 솔직한 생각을 밝혔다.",
+      "10일 유튜브 채널 '유튜브하지영'에는 SBS 금토드라마 '멋진 신세계'에 출연 중인 허남준이 게스트로 출연했다.",
+      "이날 허남준은 '멋진 신세계' 흥행에 대해 \"잘될 거라 생각했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n92ecf4cc",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610174600007",
-    "title": "kt, 삼성 따돌리고 2위 유지…사우어 6이닝 2실점",
-    "summary": [
-      "(수원=연합뉴스) 김동한 기자 = 프로야구 kt wiz가 외국인 선발 투수 맷 사우어의 6이닝 2실점 호투를 앞세워 승리했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na6c1134e",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610174400003",
-    "title": "한화솔루션 유상증자, 세차례 정정 끝 2.4조→1.7조 확정",
-    "summary": [
-      "(서울=연합뉴스) 조성흠 기자 = 한화솔루션의 유상증자가 세 차례에 걸친 정정 끝에 2조4천억원에서 1조7천억원으로 규모를 축소해 금융감독원 문..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3d1deaf8",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026061021302492597",
-    "title": "유럽인 10명 중 1명만 \"미국은 동맹\"…신뢰도 반토막",
-    "summary": [
-      "유럽인 10명 중 1명만 미국을 동맹국으로 인식한다는 조사 결과가 나왔다.",
-      "관련 응답은 지난해 11월 22%에서 최근 11%로 반토막 났다.",
-      "연합뉴스는 10일(현지시간) 영국 일간 가디언을 인용해 유럽외교협회(ECFR)가 지난달 유럽 15개국 성인 1만9481명을 대상으로 실시한 여론조사에서 이 같은 결과가 나왔다고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na4b41b0a",
+    "id": "n9a58a6e5",
     "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/economy/real_estate/2026/06/10/GQYGMZDEGQYWKMLFGRTDMOLEGQ/",
-    "title": "레미콘 노사 잠정합의안 부결…휴업 장기화될 듯",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664538",
+    "title": "양정아, 병상 누운 母 생각에 오열…\"5분이라도 눈 마주쳤으면\"",
     "summary": [
-      "레미콘 운송단가를 회당 8만원으로 인상하는 내용의 노사 잠정합의안이 조합원 찬반투표에서 부결됐다.",
-      "이에 따라 수도권 건설 현장에 레미콘 공급 차질이 이어질 전망이다.",
-      "10일 건설업계에 따르면 노조가 전날 사측과 마련한 잠정합의안에 대해 조합원 찬반투표를 실시한 결과, 조합원 68.3%가 반대표를 던지며 합의안이 최종 부결됐다."
+      "[서울=뉴시스]강주희 기자 = 배우 양정아가 병상에 누운 어머니를 떠올리며 눈물을 흘렸다.",
+      "10일 방송된 KBS 2TV 예능 프로그램 '황신혜의 같이 삽시다'에선 배우 황신혜, 양정아, 중식 셰프 신계숙의 포천 한집살이가 펼쳐졌다.",
+      "이날 양정아는 \"엄마랑 5분 만이라도 눈을 마주치고 엄마가 내 이름을 불러주고 같이 대화를 하는 게 소원\"이라며 눈물로 가족사를 고백했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n21de7a7f",
+    "id": "nebc64e9d",
     "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/06/10/VLD6AQ4HF5CHDHLZEUOJ4EVEJ4/",
-    "title": "검찰 “북한 환심 사기 위해 직권남용” VS 이화영 “혐의 부인”...국민참여재판 3일차 공방 계속",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003663766",
+    "title": "\"알츠하이머 치료제 족집게 설계\"…김빛내리 교수, '유전자 사냥꾼' 비밀 풀었다",
     "summary": [
-      "검찰 “북한 환심 사기 위해 직권남용” VS 이화영 “혐의 부인”...국민참여재판 3일차 공방 계속."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5b5c9e69",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260610/134088663/2",
-    "title": "폐암 투병 이혜영 “곳곳에 수술 흉터…이겨내고 세상 나올 것”",
-    "summary": [
-      "배우 이혜영이 10일 폐암 투병 생활을 공개했다.이혜영은 이날 인스타그램에 “오랜만이다.",
-      "제가 이렇게 다시 나올 수 있을지 몰랐죠”라며 “암 투병을 했던 5년을 지나오면서 많은 것이 사라졌고, 많은 것이 새로 생겼다”고 밝혔다.그는 “그동안 제가 배운 건 하나다.",
-      "건강하다는 것 자체가 행복하다는 것”이라며 “오늘 뭘 먹었는지, 어디를 걸었는지, 무엇에 웃었는지, 예전엔 당연하게 여겼던 것들이 지금은 전부 다 감사하다”고 했다.그러면서 “또 다른."
+      "[서울=뉴시스]심지혜 기자 = 특정 유전자가 과도하게 발현돼 생기는 대사질환, 알츠하이머 등 난치성 질환을 겨냥한 RNA 치료제를 더 정밀하게 설계할 수 있는 길이 열릴 전망이다.",
+      "질병 원인 유전자의 발현을 억제하는 'RNA 치료제'가 세포 안에서 어떻게 조립되고 작동하는지 그 전 과정을 세계 최초로 밝혀낸 결과다.",
+      "과학기술정보통신부는 기초과학연구원(IBS) RNA 연구단 김빛내리 단장과 서울대 생명과학부 노성훈 교수 공동 연구팀이 유전자 발현."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n6a06e256",
+    "id": "n1f71de09",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026061021470022061",
-    "title": "고유가에 美 5월 CPI 전년比 4.2%↑…3년1개월만 최대(상보)",
+    "source": "한국경제",
+    "time": "5분 전",
+    "url": "https://www.hankyung.com/article/2026061093747",
+    "title": "젠슨 황 \"훌륭한 리더 둔 삼전·현대차·SK는 매우 행운\"",
     "summary": [
-      "미국 노동부 노동통계국이 5월 미국의 소비자물가지수(CPI)가 전년 동월 대비 4.2% 상승했다고 10일(현지시간) 밝혔다.",
-      "다우존스가 집계한 전문가 전망에는 부합했으나, 2023년 4월(4.9%) 이후 3년 1개월 만에 가장 높은 수치다.",
-      "전월 대비로는 0.5% 올라 이 역시 전망에 부합했다."
+      "젠슨 황 \"훌륭한 리더 둔 삼전·현대차·SK는 매우 행운\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n207e2305",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/10/2026061015253299129",
-    "title": "'이재현 추격의 3점포도 무소용' 삼성 3연패 수렁→KT, 2연승+위닝시리즈 달성 [수원 현장리뷰]",
-    "summary": [
-      "KT 위즈가 삼성 라이온즈를 3연패로 몰아넣었다.",
-      "KT는 10일 수원KT위즈파크에서 열린 삼성과 '2026 신한 SOL KBO리그' 홈 경기서 4-3으로 이겼다.",
-      "4-0으로 앞서다 7회 3점을 내주긴 했지만 추격을 잘 뿌리쳤다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na3195bf2",
+    "id": "n5bdb4caf",
     "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260610/134088674/1",
-    "title": "李대통령, EU 상임의장에 “축구 사랑하신다 들어”…SNS로 친근 메시지",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610179100004",
+    "title": "'개표소 봉쇄' 시위 엿새째 밤…부정선거 주장 인사들 한자리에",
     "summary": [
-      "이재명 대통령이 10일(현지시간) 유럽연합(EU)과의 정상회담을 앞두고 정상들의 취미와 성향을 소개하며 기대감을 표했다.이 대통령은 이날 자신의 엑스(X·구 트위터)를 통해 “복잡한 국제정세 속에서 대한민국과 EU가 신뢰와 연대를 굳건히 하며, 함께 더 나은 해법과 미래를 만들어갈 수 있도록 최선을 다하고 오겠다”고 밝혔다.이어 안토니우 코스타 EU 정상회의 상임의장을 향해 “축구를 무척 사랑하신다고 들었다”며 “각자 맡은 포지션은 다르지만 결."
+      "(서울=연합뉴스) 양수연 정지수 기자 = 6·3 지방선거 투표용지 부족 사태로 빚어진 '잠실 개표소 봉쇄 시위' 엿새째 밤에도 인파가 모였다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0997aac5",
+    "id": "n0fd7e379",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026061023534100342",
+    "title": "李대통령, 벨기에 국왕 면담…\"한반도 평화공존 지지 요청\"",
+    "summary": [
+      "벨기에를 방문 중인 이재명 대통령이 10일(현지시간) 필립 벨기에 국왕을 만나 한반도 평화공존 정책에 대한 지지를 요청했다.",
+      "한·벨기에 수교 125주년을 맞아 이뤄진 이번 면담에서 양측은 6·25전쟁 참전으로 맺어진 역사적 연대를 되새기고, 양국 관계를 인적·경제적 교류로 넓혀가자는 데 뜻을 모았다.",
+      "청와대에 따르면 이 대통령은 이날 브뤼셀 왕궁에서 필립 국왕과 면담하고 \"벨기에 통합의 상징인 국왕과 처음 만나게 돼."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n59dd2144",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026061023531596659",
+    "title": "[뉴욕증시]CPI 3년 만에 최고…S&P500·나스닥 상승",
+    "summary": [
+      "미국의 5월 소비자물가지수(CPI)가 3년 만에 최고치를 기록한 가운데 스페이스X 상장을 앞두고 반도체 매도세가 이어지면서 10일(현지시간) 뉴욕증시 3대 지수는 혼조세를 보이고 있다.",
+      "뉴욕증권거래소(NYSE)에서 오전 10시 25분 현재 다우존스30산업평균지수(다우지수)는 전 거래일보다 198.76포인트(0.39%) 하락한 5만0637.35를 가리키고 있다.",
+      "대형주 중심의 S&P500지수는 1.73포인트(0.02%) 오른 7388.38, 기술."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "na116ee02",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/10/MQYGENRRMM2GMOJVGFSGINBUHE/",
+    "title": "李대통령·벨기에 총리, “반도체 발전 혜택 함께”",
+    "summary": [
+      "벨기에를 방문 중인 이재명 대통령이 10일(현지시각) 브뤼셀에서 바르트 더 베버르 벨기에 총리와 정상회담을 했다.",
+      "이재명 정부 출범 이후 벨기에 정상과의 첫 만남이다.",
+      "이날 강유정 청와대 수석대변인에 따르면 양 정상은 회담에서 양국 관계 발전 방안과 주요 지역의 국제정세 등에 대해 의견을 나눴다."
+    ],
+    "chips": [
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n00e4093d",
     "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/10/MM3DQNJSMNSDCNTEMYZTAZTEGY/",
+    "title": "LG는 복도 많지..'연타석포+역전 만루홈런' 5타점 원맨쇼, 제 자랑할 만도 한데...소감은 오직 '동료 칭찬' 뿐, 인성까지 갑 복덩이 최고외인의 강력 존재감",
+    "summary": [
+      "[잠실=스포츠조선 정현석 기자]LG 트윈스 외국인 타자 오스틴 딘이 괴력의 홈런포 두 방으로 승부를 뒤집으며 잠실벌을 열광의 도가니로 몰아넣었다.",
+      "하지만 경기 후 남긴 소감은 자신의 활약에 대한 자랑이 아니었다.",
+      "오직 동료들을 향한 찬사와 고마움 뿐이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n52fe485a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610179000109",
+    "title": "이탈리아, '무연 담배 광고' 필립모리스에 과징금 123억원",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 이탈리아 경쟁당국이 소비자 오해를 불러일으킬 수 있는 광고를 한 글로벌 담배회사 필립모리스에 거액의 과징금을..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n402b4dbe",
+    "category": "사회",
     "source": "연합뉴스",
     "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610174500007",
-    "title": "롯데 김태형 감독, '5전 6기' 끝에 역대 7번째 800승 고지",
+    "url": "https://www.yna.co.kr/view/AKR20260610179200079",
+    "title": "IAEA 이사회, 이란에 '농축 우라늄 재고 신고' 촉구 결의",
     "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 프로야구 롯데 자이언츠가 5연패에서 벗어났다."
+      "(카이로=연합뉴스) 김상훈 특파원 = 국제원자력기구(IAEA) 35개국 이사회가 10일(현지시간) 이란을 향해 농축 우라늄 재고를 신고하고 사찰..."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbcccd9a7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260610/134088671/1",
-    "title": "샤니 대구공장 끼임 사고 발생…노조 “구조적 문제 살펴야”",
-    "summary": [
-      "10일 오전 대구 달성군 논공읍의 SPC그룹 샤니 대구공장에서 40대 외국인 여성 노동자 A 씨가 작업 중 오른팔이 기계에 끼이는 사고를 당해 병원으로 옮겨졌다.전국화학섬유식품산업노동조합은 성명을 통해 “SPC 계열사에서는 산재 사고가 반복적으로 발생해 노사가 공동 합의문을 체결하고 재발 방지 대책을 마련했지만 사고가 계속되고 있다”며 “샤니는 특별교섭 요구를 즉각 수용하고 피해 노동자와 가족에게 사과하는 한편 성실하게 교섭에 임해야 한다”고."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n1d1aa991",
-    "category": "스포츠",
+    "id": "n113f234a",
+    "category": "경제",
     "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/10/2026061016450694756",
-    "title": "'이럴수가' 한화가 9회 1사 후 투수를 바꾸다니 '초강수' 결과는 대성공! KIA 상대 전날 패배 설욕 '짜릿한 한 점 차' 승리 [대전 현장리뷰]",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/living/2026/06/10/2026061023412389384",
+    "title": "드파운드, 대만 첫 팝업스토어… 중화권 공략 본격화",
     "summary": [
-      "한화 이글스가 대포 두 방을 앞세워 KIA 타이거즈를 제압, 전날(9일) 패배를 설욕하며 기분 좋게 웃었다.",
-      "이제 위닝시리즈의 주인공은 11일 경기에서 가려진다.",
-      "한화는 10일 대전 한화생명볼파크에서 펼쳐진 KIA와 2026 신한 SOL KBO 리그 정규시즌 홈 경기에서 4-3으로 승리했다."
+      "타이중 신광 미츠코시서 운영, 현지 고객 접점 확대 나서 하고하우스의 라이프스타일 브랜드 드파운드가 대만에서 첫 팝업스토어를 열고 중화권 시장 공략에 나선다.",
+      "이번 팝업스토어는 6월 12일부터 18일까지 대만 타이중 신광 미츠코시 백화점에서 진행된다.",
+      "일본 도쿄와 나고야에서 팝업스토어를 성공적으로 운영한 드파운드는 이번 행사를 통해 중화권 시장 내 브랜드 인지도를 확대한다는 계획이다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   }
 ];
@@ -652,15 +657,15 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "KBO",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
