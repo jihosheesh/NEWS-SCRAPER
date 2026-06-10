@@ -1,12 +1,12 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-10 09:09:53
+// 마지막 업데이트: 2026-06-10 11:12:53
 window.NEWS_DB = [
   {
-    "id": "nee8dec91",
+    "id": "n6aa493e4",
     "category": "스포츠",
     "source": "네이트",
-    "time": "2시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ON0tzc0hGMm1iZnJNSDZPOWVVRVkyRW9MWXU3ckFPNnE4RXBSa2VOMzlULXdiU3htX2Q4Wk9yZ3cySUdHVk5XRlZveTMzeFVYREo1VE5DblZndlo5?oc=5",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mc0xpMXB1dG5CQkIwZGV0TE9vVm4tb2VwSGdvY1Z4bEF0djNIX3BybXJMTHpGZkhiUjdQWmpJdTc2QjRJdXRrVWpFcERSdjE0X3dzVjhnbHhLT3dx?oc=5",
     "title": "KBO 사무국, 아시안게임 야구 대표팀 명단 발표 생중계",
     "summary": [
       "KBO 사무국, 아시안게임 야구 대표팀 명단 발표 생중계 네이트."
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n5b1b9ecb",
     "category": "스포츠",
     "source": "네이트",
-    "time": "2시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VUTA5bFlqN1BwUGQ2SGdZNEVfd1pEYTJ2ejJkbTRTSWxveWpHTWdHVDBWQVlYMEo0ZVdkRFVRWmtHSWxGY3dVN0FNcll5U19XeHFLX3NKdDEzUHBq?oc=5",
     "title": "KBO, 아시안게임 야구 대표팀 최종 명단 유튜브 생중계 공개",
     "summary": [
@@ -33,7 +33,7 @@ window.NEWS_DB = [
     "id": "nd2f59220",
     "category": "IT",
     "source": "데일리안",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRzlrQzNzOElYcWVwRHFmaG1oY1RwWWllaXhPNzVlLUJmV3FlRE9HX2NjZkwwRmVuQXNtaU5vMTd2N3ZsTVBJa3J6OXBlLVdUdlpVdHFQbWp3MjFtRkFlcVNYVHFrQWNsYk0zSDJJU1paTkljSlA0bEVScktTbGxOYzMwQWM3TWoydjgtc0hFY25jeUhubFQzQXlWd244ZjlKLWoxdWhtdEt3d3dMMDFvbHRoWm80dUdsQUNpNmJtLW5INU1NdF9rdU5ZdXFUS2tweE1CTUtJdEtrYjY5bHhGeWhRWUt3MlpOLTZ0RjhmdmZlay1paldrVE9Gb9IB-wFBVV95cUxNRzlrQzNzOElYcWVwRHFmaG1oY1RwWWllaXhPNzVlLUJmV3FlRE9HX2NjZkwwRmVuQXNtaU5vMTd2N3ZsTVBJa3J6OXBlLVdUdlpVdHFQbWp3MjFtRkFlcVNYVHFrQWNsYk0zSDJJU1paTkljSlA0bEVScktTbGxOYzMwQWM3TWoydjgtc0hFY25jeUhubFQzQXlWd244ZjlKLWoxdWhtdEt3d3dMMDFvbHRoWm80dUdsQUNpNmJtLW5INU1NdF9rdU5ZdXFUS2tweE1CTUtJdEtrYjY5bHhGeWhRWUt3MlpOLTZ0RjhmdmZlay1paldrVE9Gbw?oc=5",
     "title": "HBM 공급전서 맞춤형 개발로…삼성·SK, 엔비디아 협력 주목",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "n4089d874",
     "category": "IT",
     "source": "더팩트",
-    "time": "6시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWjhlQ0pmMm11NndWR19UQmZTbHZFXzBMeklraGpETGh1V0FOMmpsT0VrZHd2VTZZNE9jNkNQc21kY1piRTk0QU9KQnprbzFxRnZSYWdOWndrUdIBVEFVX3lxTE1PYnotSzlwdTRWYjBocFpVbVFlVFlmcmFBdXJHbmZkVlBLV19SZVBkLXVGR1pGdnM2TXJrZ0lET01NU2dzVVNaRUpkWnd5eDlUdXJDeQ?oc=5",
     "title": "젠슨 황이 띄운 AI 전쟁…은행권 '생산적 금융'도 반도체로 간다",
     "summary": [
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "n1fb61718",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lQXZ6d0xKNDl5ZGxhV2xXbkthaGdQVThCdUpjcFVwOG9CVm14Njk0UXROY2RGZEJrWnAwT0xYSnZBR3BXem5HbEVvVl9iZ05MSlpLYUwwazA1WDkxamxid9IBYEFVX3lxTE1lQXZ6d0xKNDl5ZGxhV2xXbkthaGdQVThCdUpjcFVwOG9CVm14Njk0UXROY2RGZEJrWnAwT0xYSnZBR3BXem5HbEVvVl9iZ05MSlpLYUwwazA1WDkxamxidw?oc=5",
     "title": "[머니톡스] 수출 초호황인데 역설적인 환율…'글로벌'의 부메랑",
     "summary": [
@@ -72,20 +72,6 @@ window.NEWS_DB = [
     "chips": [
       "#환율",
       "#수출"
-    ]
-  },
-  {
-    "id": "na266de34",
-    "category": "IT",
-    "source": "아이뉴스24",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzZEQwYjFPZE9QLU5wYUM2Vjl3VjdDd2s5dkR4eWdiWENPS2J1RF90Wjluc1lFWmhFVWVqOXJxcTF6UEFvUzNHR3pkVQ?oc=5",
-    "title": "SK엔 \"2030년 캐파 2배도 부족\"…삼성엔 \"HBM·파운드리 협력\"",
-    "summary": [
-      "SK엔 \"2030년 캐파 2배도 부족\"…삼성엔 \"HBM·파운드리 협력\" 아이뉴스24."
-    ],
-    "chips": [
-      "#반도체"
     ]
   },
   {
@@ -107,7 +93,7 @@ window.NEWS_DB = [
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
     "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
@@ -133,6 +119,21 @@ window.NEWS_DB = [
       "#취업",
       "#고용",
       "#교육"
+    ]
+  },
+  {
+    "id": "nd8354e7f",
+    "category": "IT",
+    "source": "시사저널e",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXfSAXZBVV95cUxPdkx4dzBQTlREMUxrNlowdUFzRHN1UVB4aXVvX19OVUZSNWM3UU9Nb3Vnakszblc5enB2cVdJX2o4bEVjR2lqQmt6WFJvbEhtZHZDaDNQNk9pcHNMMFRvcU5Jb2ptZG5ST3FRZ0dybjNidWE0NTF3?oc=5",
+    "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
+    "summary": [
+      "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까 시사저널e."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
@@ -165,21 +166,6 @@ window.NEWS_DB = [
       "#AI",
       "#엔비디아",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n70cb7884",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
-    "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -240,6 +226,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "summary": [
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n269e2609",
     "category": "부동산",
     "source": "v.daum.net",
@@ -267,20 +269,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "70일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -379,262 +367,280 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf08bb16b",
+    "id": "n778a0806",
     "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664444",
-    "title": "'여론조사비 대납' 오세훈, 지선 후 첫 재판…\"명태균 사기죄로 기소해야\"(종합)",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664480",
+    "title": "이혜영, 폐암 수술 흉터 공개…\"속상하지만 이겨낼 것\"",
     "summary": [
-      "[서울=뉴시스]이승주 이윤석 기자 = 오세훈 서울시장이 6·3 지방선거 이후 재개된 자신의 '여론조사비 대납' 의혹 재판에 출석하면서 \"민중기 특검(김건희 특검팀)의 목표대로 선거에 영향을 미치는 것은 지나갔다\"며, 명태균씨 등을 사기죄로 기소하라고 촉구했다.",
-      "오 시장은 10일 서울중앙지법 형사합의22부(부장판사 조형우) 심리로 열리는 자신의 정치자금법 위반 혐의 공판에 출석하며 \"조속하게 (명태균 일당) 사기범들을 기소를 해야 마땅하다\"고 밝."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n94ffec3c",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026061017520457784",
-    "title": "무주산골영화관, 10월까지 전 영화 1천 원 관람",
-    "summary": [
-      "전북 무주군민들이 올가을까지 영화 한 편을 1천 원에 즐길 수 있게 됐다.",
-      "무주산골영화관이 정부 지원사업에 선정되면서 기존보다 대폭 낮아진 가격으로 상영작을 제공하며 문화 향유 기회를 넓히고 있다.무주군은 오는 10월 31일까지 무주산골영화관에서 상영되는 모든 영화를 1천 원에 관람할 수 있다고 10일 밝혔다.",
-      "일반 관람료 7천 원보다 크게 낮아진 금액으로, 영화진흥위원회의 '국민 영화관람 활성화 지원사업' 선정에 따."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6328a17c",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061017315265482",
-    "title": "밝은안과21·초록우산 광주, '어린이 눈그림 공모전' 개최",
-    "summary": [
-      "밝은안과21병원은 초록우산 광주지역본부와 공동으로 '제18회 어린이 눈그림 공모전'을 개최한다고 10일 밝혔다.올해로 18회를 맞이한 '어린이 눈그림 공모전'은 아이들이 그림을 통해 눈 건강의 중요성을 알고 올바른 생활 습관을 기를 수 있도록 돕기 위해 마련됐다.",
-      "공모 주제는 '행복하고 건강한 생활과 눈'으로 어린이들이 눈에 대한 자신만의 생각을 자유롭게 그림으로 표현하면 된다.",
-      "공모 접수는 다음 달 7일까지 약 한 달."
+      "[서울=뉴시스]강주희 기자 = 방송인 이혜영이 폐암 수술 흉터를 공개하며 솔직한 심경을 전했다.",
+      "이혜영은 10일 자신의 사회관계망서비스(SNS)에 \"오랜만이죠.",
+      "제가 이렇게 다시 나올 수 있을지 몰랐다\"며 개인 유튜브 채널 개설 소식을 알렸다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nda9174f2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026061017424532684",
-    "title": "고창갯벌에서 만나는 철새의 세계…'버드왓쳐스 데이' 7월 개막",
-    "summary": [
-      "유네스코 세계자연유산인 고창갯벌의 생태적 가치를 체험할 수 있는 탐조 축제가 오는 7월 고창에서 열린다.",
-      "고창군은 7월 17일부터 18일까지 이틀간 고창군립체육관 일원에서 '2026 고창갯벌 버드왓쳐스 데이(Bird Watcher's Day)'를 개최한다고 10일 밝혔다.이번 행사는 국가유산청과 전북특별자치도, 고창군이 공동 주최하며, 고창갯벌이 지닌 생태적 중요성과 철새 서식지로서의 가치를 널리 알리기 위해 마련됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc93bc5ba",
+    "id": "n1199aead",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026061018045913114",
-    "title": "지지율 급락에 사과한 李대통령 \"국민께 죄송\"…청와대도 '낮은 자세·경청' 약속",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260610/134085970/1",
+    "title": "‘100세 시대’ 맞아 노후 자금 컨설팅, 간병보험 등 금융사 부스에도 발길 이어져",
     "summary": [
-      "이재명 대통령이 10일 국정 지지율 급락을 전한 여론조사 결과에 대해 \"국민 여러분 죄송하다\"며 자세를 낮췄다.",
-      "청와대는 이번 지지율 하락을 민생·경제 상황과 국정운영 전반에 대한 국민 평가가 복합적으로 반영된 결과로 보고 \"국민의 뜻을 겸허히 받아들이겠다\"고 했다.",
-      "이 대통령은 이날 엑스(X·옛 트위터)에 국정 지지율 하락 관련 기사를 공유하며 \"국민 여러분 죄송합니다."
+      "“왕년에는 훨씬 더 빨랐는데 나이가 들긴 했나 보네요.”10일 오후 서울 중구 서울광장에서 열린 ‘2026 서울헬스쇼-도심 속 건강축제’에 마련된 KB헬스케어 부스.",
+      "올해로 네 번째 헬스쇼에 참가한 김명수 씨(70)가 아쉬워하며 말했다.",
+      "이날 KB헬스케어의 ‘KB오케어 건강마켓’ 부스엔 무작위로 떨어지는 10개의 봉을 순발력 있게 잡아야 하는 ‘캐치 스틱’ 게임이 진행되고 있었다.KB헬스케어 유튜브를 구독하면 누구나 참여할 수 있는데, 이틀간."
     ],
     "chips": [
-      "#정치"
+      "#의료"
     ]
   },
   {
-    "id": "n5c097507",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/politics/blue_house/2026/06/10/W6GIVFCAJ5AVXA4KXOILWOPOWE/",
-    "title": "靑, 코스피 급락에 “지수 변화에 일희일비 않아”",
-    "summary": [
-      "靑, 코스피 급락에 “지수 변화에 일희일비 않아”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nacc0ee53",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/10/MYZDAYZUGVTDEMJRG4ZGCYTDMY/",
-    "title": "'광속 해결사' 리오스 드디어 출격, \"가장 터프한 상황에… 그래도 마무리는 손주영\"",
-    "summary": [
-      "[잠실=스포츠조선 정현석 기자]LG 트윈스 불펜 승부수 악셀 리오스가 출격한다.",
-      "LG는 10일 잠실 SSG전에 앞서 새 외국인 투수 리오스를 1군에 전격 등록하는 동시에, 불펜 자원 김강률을 2군으로 내려보냈다.",
-      "염경엽 LG 감독은 리오스를 단순한 추격조가 아닌, 팀에서 가장 중요한 순간을 책임질 '필승조 1번'으로 활용하겠다는 구상을 명확히 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n732fb697",
+    "id": "n9ab8cff0",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664442",
-    "title": "靑, 정청래 '정권은 짧다' 발언에 \"당무 관련 언급 적절하지 않아\"",
+    "url": "https://www.yna.co.kr/view/AKR20260610166100005",
+    "title": "루체른 심포니 지휘자 미하엘 잔데를링 \"한국, 집처럼 편안\"",
     "summary": [
-      "[브뤼셀=뉴시스] 김지은 기자 = 청와대는 10일 정청래 더불어민주당 대표가 6.3 지방선거 이후 첫 공개 최고위원회의에서 '국민은 영원하고 정권은 짧다'고 발언한 데 대해 \"당무와 관련해 언급하는 것은 적절하지 않다\"고 밝혔다.",
-      "청와대 관계자는 이날 벨기에 브뤼셀 현지 프레스센터에서 기자들과 만나 정 대표의 발언에 대한 청와대의 입장을 묻는 말에 이같이 말했다.",
-      "이 관계자는 이지은 민주당 대변인이 이 대통령을 윤석열 전 대통령에 빗대 전당대회."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n614fb9fd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664430",
-    "title": "밴드 '쿠바' 기타리스트 이정우(JW) 별세, 향년 55",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 기타리스트 이정우(JW)가 세상을 떠났다.",
-      "10일 가요계에 따르면, 이정우는 지난 5일 별세했다.",
-      "장례 절차를 마친 뒤 지난 7일 발인이 엄수됐다."
+      "(서울=연합뉴스) 조윤희 기자 = \"한국은 저와 오케스트라에 매우 특별한 곳입니다.",
+      "훌륭한 공연장과 열정적인 관객들이 있기 때문이죠.\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n81b8b1dc",
+    "id": "n4c0bb2f9",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026061020044504463",
+    "title": "[날씨]전국 대체로 맑음…오후 곳곳 소나기",
+    "summary": [
+      "11일은 구름이 끼는 중부지방과 경북권을 제외하면 대체로 맑은 날씨가 예보된다.",
+      "오후부터 저녁 사이 서울·경기내륙과 강원도, 충청권 내륙, 전북 북동부, 경남 북서 내륙, 경북 북부 내륙·북동 산지에는 소나기가 내리는 곳이 있겠다.",
+      "돌풍과 천둥·번개, 우박이 동반될 수 있어 주의가 필요하다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ec3a9fa",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610158500008",
-    "title": "'돈나무 언니' 캐시우드, NH투자 방문…전략적 협력 방안 논의",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610168900002",
+    "title": "증선위, 영풍·고려아연 감사인지정 등 조치…\"회계기준 위반\"",
     "summary": [
-      "(서울=연합뉴스) 김태종 기자 = '돈나무 언니'로 잘 알려진 캐시 우드 아크인베스트먼트(이하 ARK) 최고경영자(CEO)가 10일 NH투자증권..."
+      "(서울=연합뉴스) 배영경 기자 = 금융당국은 10일 영풍·고려아연[010130] 등이 회계처리기준을 위반했다며 감사인지정과 과징금 등 조치를 결..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne251b7b0",
+    "id": "n81d06267",
     "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/regional/chungcheong/2026/06/10/LPM6HK3JD5DUZA436NJNHXRW3A/",
-    "title": "고무보트 밀입국 혐의 中 인권운동가 둥광핑, 불구속 송치",
-    "summary": [
-      "고무보트 밀입국 혐의 中 인권운동가 둥광핑, 불구속 송치."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc607479",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260610/134087169/1",
-    "title": "장동혁, 한동훈 복당 문제에 “일관된 입장 변화된 것 없어”",
-    "summary": [
-      "장동혁 국민의힘 대표는 10일 신임 원내대표 선거 과정에서 한동훈 무소속 의원의 복당 문제가 주요 의제로 떠오른 것과 관련해 “입장에 변화된 것이 없다”며 사실상 한 의원에 복당에 선을 그었다.장 대표는 이날 오후 국회에서 열린 투표용지 부족 사태 관련 대학생 간담회를 마친 뒤 기자들과 만나 “복당에 관한 여러 절차가 있을 것이고, 그 과정에서 당대표가 해야 할 역할이 있을 것이다.",
-      "그 문제에 대해 지금까지 일관된 입장을 보여왔다”며 이같이 말."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nf27e6923",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260610/134087070/1",
-    "title": "한국 월드컵 대표팀 시장 가치=카타르 26위→북중미 33위…이번에도 16강 가능할까 [데이터 비키니]",
-    "summary": [
-      "“나는 돈가방이 골을 넣는 걸 본 적이 없다” ─ ‘플라잉 더치맨’ 요한 크라위프(1947~2016)2026 북중미 대회는 국제축구연맹(FIFA) 월드컵 역사상 가장 비싼 대회로 통합니다.선수 몸값도 마찬가지입니다.11일 축구 선수 이적 관련 내용을 전문으로 다루는 웹사이트 ‘트랜스퍼마르크트’에 따르면 이번 대회에 출전하는 48개 팀 선수 1247명 ‘시장 가치’(추정 이적료) 총액은 172억5722만 유로(약 30조4528억 원)에 달합니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n62b5dbc2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260610/134087139/2",
-    "title": "김민석, 해외 반도체 공장 검토 최태원에 “한국서 되게 할 방법 찾아야”",
-    "summary": [
-      "김민석 국무총리가 10일 최태원 SK그룹 회장이 새로운 반도체 공장입지와 관련해 해외 등의 가능성도 열어두겠다고 밝힌 것과 관련해 “‘한국에서 안 되면’이 아니라, ‘어떻게 한국에서 되게 할 것인가’를 갖고 기업과 정부, 정치가 성심성의껏 대화하고 노력해야 한다”고 말했다.",
-      "김 총리는 이날 오후 엑스(X·구 트위터)에 “용인 다음도 준비해야…韓서 안되면 해외 반도체 투자도 검토”라는 제목의 기사를 공유하며 이 같은 글을 게시했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndc754fb6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260610/134086134/2",
-    "title": "스타벅스, 中 이어 日서도 ‘지분 매각설’…IPO 가능성도 제기",
-    "summary": [
-      "스타벅스가 중국 사업 지분을 매각한 데 이어 일본 법인의 지분 매각도 검토하고 있는 것으로 알려졌다.10일(현지시간) 블룸버그통신에 따르면, 최근 스타벅스는 투자은행들과 일본 시장에 대한 대응 방향 등을 결정하는 비공개 논의를 진행했다.",
-      "일본은 매장 약 2100개를 보유한 스타벅스의 주요 시장 중 하나로, 대부분의 매장이 직영으로 운영되고 있다.스타벅스 일본 법인의 지분 매각 가치는 4000억~5000억 엔(약 3조8000억~4조7600억 원)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd86c56a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664384",
-    "title": "中, 조지아와 관계 격상…‘전면적 전략 동반자'로",
-    "summary": [
-      "[베이징=뉴시스]박정규 특파원 = 중국이 유럽과 아시아 사이에 위치한 국가인 조지아와 관계 격상을 선언했다.",
-      "10일 중국 관영 신화통신에 따르면 시진핑 중국 국가주석은 전날 미하일 카벨라슈빌리 조지아 대통령과 주고받은 양국 수교 34주년 축전을 통해 이 같은 내용을 공동 발표했다.",
-      "시 주석은 \"국제 정세가 어떻게 변하든 중국은 항상 전략적 높이와 장기적인 관점에서 중·조지아 관계를 바라보고 있다\"며 \"이 기회를 빌려 카벨라슈빌리 대통령과 함께."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9f5feab6",
-    "category": "IT",
     "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610152800004",
-    "title": "알에프세미 전·현직 대표 기소…이차전지 주가조작 '개미 피눈물'",
+    "url": "https://www.yna.co.kr/view/AKR20260610169000073",
+    "title": "'위안부 사죄 고노 담화' 日 고노 전 의원 별세",
     "summary": [
-      "(서울=연합뉴스) 김채린 기자 = 허위 공시로 주가를 조작하고 회사 자산을 빼돌린 혐의를 받는 반도체 소자 제조 업체 '알에프세미'의 전현직 대..."
+      "(도쿄=연합뉴스) 이도연 특파원 = 일제강점기 위안부 문제에 대해 사죄와 반성의 뜻을 나타낸 '고노 담화'를 발표했던 고노 요헤이 전 일본 중의..."
     ],
     "chips": [
-      "#반도체"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2de442e2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/10/HA3TCMJTMVQTEYTCGVRDIYRSMU/",
+    "title": "신지, 문원♥과의 '불화설'에 심경 고백...\"내가 안 행복해 보인다고?\" ('어떠신지') [핫피플]",
+    "summary": [
+      "[OSEN=박근희 기자] 가수 신지가 남편 문원과의 결혼 생활을 둘러싼 일부 대중의 시선에 대해 솔직한 속내를 털어놓았다.10일 오후 유튜브 채널 ‘어떠신지?!?’에는 ‘행복은 가까이에 있어..",
+      "집 근처에서 힐링 제대로 하고 왔습니다’라는 제목의 영상이 게재됐다.문원은 단어가 얼른 떠오르지 않는 듯 튜브를 구명조끼, 동그라미라고 설명하는 엉뚱한 말실수를 했."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd7c17b1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260610/134088085/1",
+    "title": "매일 뭐 볼까 헤매던 넷플릭스, ‘맞춤형 추천’ 강화로 탐색 고민 끝낸다",
+    "summary": [
+      "넷플릭스에 접속한 뒤 정작 뭘 볼지 몰라 홈 화면만 한참 훑어보다가 앱을 닫은 경험이 한 번쯤 있을 것이다.",
+      "콘텐츠는 넘쳐나지만 선택하지 못하는 아이러니다.",
+      "그런데 넷플릭스가 이러한 사용자 경험을 개선하기 위한 새로운 업데이트를 공개했다.넷플릭스는 10일 아시아태평양(APAC) 지역 미디어를 대상으로 ‘APAC 넷플릭스 프로덕트 & 테크놀로지 이노베이션 쇼케이스’를 열고, 모바일 경험, 콘텐츠 큐레이션 컬렉션, 게임 세 영역에 걸친 업데이트를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1bc6b39",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/06/10/TWIX6QM2SVCMXPVOSIWKTAFK2I/",
+    "title": "韓·벨기에 정상회담, 배터리·에너지 협력 강화키로",
+    "summary": [
+      "韓·벨기에 정상회담, 배터리·에너지 협력 강화키로."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n27611382",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026061020000100401",
+    "title": "이스라엘 여당 \"네타냐후 차기 총선 출마\"…'전시 총리' 은퇴설 일축",
+    "summary": [
+      "베냐민 네타냐후 이스라엘 총리가 차기 총선에 출마해 정권 연장을 노린다.",
+      "집권 리쿠드당은 미국의 정계 핵심 인사가 제기한 네타냐후 총리의 정계 은퇴 가능성을 정면으로 부인하며 확고한 선거 승리 의지를 다졌다.",
+      "10일(현지시간) 이스라엘 여당인 리쿠드당은 공식 성명을 통해 네타냐후 총리가 다가오는 선거 전면에 나설 것이며, 반드시 승리를 거두겠다는 입장을 표명했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2792f7e6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610154500004",
+    "title": "[날씨] 전국 대체로 맑다가 오후 곳곳 소나기…돌풍 주의",
+    "summary": [
+      "(서울=연합뉴스) 양수연 기자 = 목요일인 11일은 중부지방과 경북권에 구름이 많겠고, 그 밖의 지역은 대체로 맑겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nca485b76",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664517",
+    "title": "청년 로컬 관광 사업 발굴…관광두레 플러스 100개소 육성",
+    "summary": [
+      "[서울=뉴시스]김정환 관광전문 기자 = 문화체육관광부와 한국관광공사는 지역 관광 활성화를 위한 ‘2026 청년 관광두레 플러스 사업’에 참여할 신규 주민 사업체를 30일 오전 11시까지 모집한다.",
+      "‘관광두레’는 지역 주민이 주도적으로 관광 사업체를 창업하고 운영할 수 있도록 지원하는 사업이다.",
+      "2013년 시작해 지금까지 전국 152개 지역에서 총 1400여 주민 사업체를 발굴·육성했다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "nbc8bb204",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/10/HEYWCOJQGNSDGNRXHAZDMYJXGQ/",
+    "title": "양정아, 母 ‘허리 골절’로 건강 악화..“5분이라도 눈 마주치고파” 눈물 (‘같이삽시다’)",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘황신혜의 같이 삽시다’ 양정아가 어머니 생각에 눈물을 흘렸다.",
+      "10일 방송된 KBS 1TV ‘황신혜의 같이 삽시다’에서는 황신혜, 신계숙, 양정아가 가정사를 털어놓는 모습이 그려졌다.이날 양정아는 “나는 엄마랑 5분만이라도 눈 마주치고 내 이름 불러주고 평상시처럼 얘기하고 싶은 게 너무 소원”."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n49762521",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664481",
+    "title": "북아일랜드, 수단 체류자의 주민 흉기 공격에 폭력시위…방화",
+    "summary": [
+      "[벨파스트(북아일랜드)=AP/뉴시스] 김재영 기자 = 9이영국령 북아일랜드에서 주도 벨파스트 등 여러 지역에서 반 이민 폭력 시위가 펼치진 다음날인 10일 이를 초래했다고 할 수 있는 30세의 수단 남성이 벨파스트 법원에 출두할 예정이다.",
+      "이 남성은 주민을 칼로 찔러 중상을 입혀 살인 미수죄로 기소되어 있다.",
+      "9일 밤 마스크로 얼굴을 가린 여러 남자들이 이민자들 집으로 추정되는 주택에 불을 지르고 쓰레기통과 버스 한 대를 불 태웠으며 경찰에 돌."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n890f129e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664513",
+    "title": "음저협, 국악 꿈나무 진로 멘토링…후속 지원 지속",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 사단법인 한국음악저작권협회(회장 이시하·음저협)가 지난 8일 충주시문화회관에서 충주시 청소년우륵국악단을 대상으로 국악 진로 교육과 창작 멘토링을 진행했다.",
+      "이번 교육은 지난 3월 음저협이 전달한 기부금 3000만 원에 이은 후속 프로그램이다.",
+      "강연자로 나선 정성자 음저협 이사는 국악기 시연과 함께 진로 고민을 나눴다."
+    ],
+    "chips": [
+      "#교육",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nf959c903",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026061019554596114",
+    "title": "최현덕 남양주시장 당선인, 선대본 해단…'시민주권 시대' 본격 시동",
+    "summary": [
+      "제9회 전국동시지방선거에서 승리하며 민선 9기 남양주시장에 당선된 최현덕 당선인이 선거대책본부 해단식을 갖고 본격적인 시정 준비에 돌입했다.",
+      "최 당선인의 선거조직인 '열린캠프'는 10일 남양주 선거사무실에서 공식 해단식을 개최했다.",
+      "이날 행사에는 총괄선대위원장을 맡았던 최민희·김병주 국회의원을 비롯해 이경숙 시의원 등 공동선대위원장단, 경성석 총괄선대본부장, 캠프 관계자와 자원봉사자, 지지자 등 300여 명이."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5f4e5792",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260610/134088055/2",
+    "title": "아이비, 美브로드웨이 무대 선다…‘시카고’ 주연 발탁",
+    "summary": [
+      "가수 겸 뮤지컬 배우 아이비가 뮤지컬 ‘시카고’의 록시 하트 역으로 미국 뉴욕 브로드웨이 무대에 오른다.",
+      "한국에서 활동하는 배우가 브로드웨이 프로덕션의 주연으로 발탁되는 경우는 매우 이례적이다.9일(현지 시간) ‘시카고’ 측은 인스타그램을 통해 “세계 무대를 사로잡은 뮤지컬 스타이자 K팝 스타 아이비가 록시 하트로 무대에 오른다”고 밝혔다.아이비는 오는 8월 17일부터 9월 6일까지 미국 뉴욕 앰배서더 극장에서 열리는 ‘시카고’ 공연에 나선다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea97fc49",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "28분 전",
+    "url": "https://view.asiae.co.kr/article/2026061019442089955",
+    "title": "정덕영 양주시장 당선인, '양주대전환 시민주권 인수위' 출범",
+    "summary": [
+      "정덕영 양주시장 당선인이 민선 9기 시정 운영의 밑그림을 그릴 인수위원회 구성을 마무리하고 본격적인 활동에 돌입한다.",
+      "정 당선인은 10일 시장직 인수위원회 명칭을 '양주대전환 시민주권 인수위원회'로 확정하고 위원 구성 명단을 발표했다.",
+      "인수위는 오는 11일 오전 10시 출범식을 갖고 30일까지 20일간 활동한다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -644,20 +650,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
