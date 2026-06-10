@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-10 19:47:39
+// 마지막 업데이트: 2026-06-10 20:50:40
 window.NEWS_DB = [
   {
     "id": "n12ca2e79",
     "category": "스포츠",
     "source": "네이트",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
     "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n3699a49a",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1meUNwTjVJWFFuQVRzVjdvalpfMWZwYVNQMlUtamNDRXI0UmhvLVJPdWowU2lHeVVoQjBRSW9sVjV2YVRic2Q5Yk9pdi1IdzRpNm50LTZCMnZ2ZGtlbGN0Y3Bzc3ExLXNMYmxwNlBqVUk0eDA?oc=5",
     "title": "[젠슨 황 이펙트⑥] LG화학 포트폴리오 전환 구명줄 엔비디아, 김동춘 반도체·로봇 소재로 활로",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nee8dec91",
     "category": "스포츠",
     "source": "네이트",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ON0tzc0hGMm1iZnJNSDZPOWVVRVkyRW9MWXU3ckFPNnE4RXBSa2VOMzlULXdiU3htX2Q4Wk9yZ3cySUdHVk5XRlZveTMzeFVYREo1VE5DblZndlo5?oc=5",
     "title": "KBO 사무국, 아시안게임 야구 대표팀 명단 발표 생중계",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "nd2f59220",
     "category": "IT",
     "source": "데일리안",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRzlrQzNzOElYcWVwRHFmaG1oY1RwWWllaXhPNzVlLUJmV3FlRE9HX2NjZkwwRmVuQXNtaU5vMTd2N3ZsTVBJa3J6OXBlLVdUdlpVdHFQbWp3MjFtRkFlcVNYVHFrQWNsYk0zSDJJU1paTkljSlA0bEVScktTbGxOYzMwQWM3TWoydjgtc0hFY25jeUhubFQzQXlWd244ZjlKLWoxdWhtdEt3d3dMMDFvbHRoWm80dUdsQUNpNmJtLW5INU1NdF9rdU5ZdXFUS2tweE1CTUtJdEtrYjY5bHhGeWhRWUt3MlpOLTZ0RjhmdmZlay1paldrVE9Gb9IB-wFBVV95cUxNRzlrQzNzOElYcWVwRHFmaG1oY1RwWWllaXhPNzVlLUJmV3FlRE9HX2NjZkwwRmVuQXNtaU5vMTd2N3ZsTVBJa3J6OXBlLVdUdlpVdHFQbWp3MjFtRkFlcVNYVHFrQWNsYk0zSDJJU1paTkljSlA0bEVScktTbGxOYzMwQWM3TWoydjgtc0hFY25jeUhubFQzQXlWd244ZjlKLWoxdWhtdEt3d3dMMDFvbHRoWm80dUdsQUNpNmJtLW5INU1NdF9rdU5ZdXFUS2tweE1CTUtJdEtrYjY5bHhGeWhRWUt3MlpOLTZ0RjhmdmZlay1paldrVE9Gbw?oc=5",
     "title": "HBM 공급전서 맞춤형 개발로…삼성·SK, 엔비디아 협력 주목",
     "summary": [
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "n4089d874",
     "category": "IT",
     "source": "더팩트",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWjhlQ0pmMm11NndWR19UQmZTbHZFXzBMeklraGpETGh1V0FOMmpsT0VrZHd2VTZZNE9jNkNQc21kY1piRTk0QU9KQnprbzFxRnZSYWdOWndrUdIBVEFVX3lxTE1PYnotSzlwdTRWYjBocFpVbVFlVFlmcmFBdXJHbmZkVlBLV19SZVBkLXVGR1pGdnM2TXJrZ0lET01NU2dzVVNaRUpkWnd5eDlUdXJDeQ?oc=5",
     "title": "젠슨 황이 띄운 AI 전쟁…은행권 '생산적 금융'도 반도체로 간다",
     "summary": [
@@ -78,7 +78,7 @@ window.NEWS_DB = [
     "id": "n1fb61718",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lQXZ6d0xKNDl5ZGxhV2xXbkthaGdQVThCdUpjcFVwOG9CVm14Njk0UXROY2RGZEJrWnAwT0xYSnZBR3BXem5HbEVvVl9iZ05MSlpLYUwwazA1WDkxamxid9IBYEFVX3lxTE1lQXZ6d0xKNDl5ZGxhV2xXbkthaGdQVThCdUpjcFVwOG9CVm14Njk0UXROY2RGZEJrWnAwT0xYSnZBR3BXem5HbEVvVl9iZ05MSlpLYUwwazA1WDkxamxidw?oc=5",
     "title": "[머니톡스] 수출 초호황인데 역설적인 환율…'글로벌'의 부메랑",
     "summary": [
@@ -225,14 +225,29 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5a1617c5",
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n269e2609",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "v.daum.net",
     "time": "29일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
     ],
     "chips": [
       "#부동산",
@@ -284,21 +299,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1e3b72e2",
-    "category": "사회",
-    "source": "매일경제 마켓",
-    "time": "120일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
-    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
-    "summary": [
-      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nb4e9ce67",
     "category": "IT",
     "source": "연합뉴스",
@@ -314,10 +314,146 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1bb98e4e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003664646",
+    "title": "부산, 대체로 맑은 날씨…낮 최고기온 27도",
+    "summary": [
+      "[부산=뉴시스]김민지 기자 = 11일 부산 지역은 대체로 맑겠다고 부산기상청은 예보했다.",
+      "낮 최고기온은 27도, 12일 아침 최저기온은 18도다.",
+      "이날부터 12일까지 부산 해안에는 너울에 의한 높은 물결이 백사장으로 강하게 밀려와 갯바위나 방파제를 넘는 곳이 있을 것으로 예상됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6fc50fc1",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664307",
+    "title": "\"고객 문의 40% AI가 답변\" 유통가, AX 확산에 업무 방식 달라진다",
+    "summary": [
+      "[서울=뉴시스]권민지 기자 = 인공지능(AI)이 유통업계의 일하는 방식까지 바꾸고 있다.",
+      "기존에는 AI가 상품 추천이나 고객 응대 등 소비자 접점 중심으로 활용됐다면 최근에는 콘텐츠 제작, 매장 운영, 마케팅 관리 등 기업 내부 업무 전반으로 활용 범위가 넓어지는 모습이다.",
+      "특히 반복 업무를 AI가 대신 처리하고 데이터를 기반으로 의사결정을 지원하는 'AI 전환(AX·AI Transformation)'이 새로운 경쟁력으로 떠오르면서 유통 기업들."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "na3e122c6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611008300071",
+    "title": "美, 이란 무기조달 지원망 추가 제재…中·홍콩 기업 포함",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 10일(현지시간) 이란에 대한 추가 타격을 예고한 가운데, 트럼프 행정부가 이..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5cd210e4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003664635",
+    "title": "주니(JUNNY), 완벽한 '0'서 길어 올린 찬란한 찰나",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 슬픔의 밑바닥을 온전히 마주한 자만이 가장 투명한 환희를 발음할 수 있다.",
+      "한국계 캐나다 싱어송라이터 주니(30·JUNNY·김형준)의 음악적 궤적이 이를 증명한다.",
+      "지난해 발매한 정규 2집 '널(null)'에서 상실과 비움이라는 내면의 취약함을 남김없이 고백했던 그는, 모든 것을 덜어낸 그 '0'의 자리에서 역설적으로 가장 여유롭고 찬란한 찰나를 포착한 새 싱글 '헤븐 캔 웨이트(Heaven Can Wait)'를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63cfdfe8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003664645",
+    "title": "韓, 유럽 4개사에 2500억 투자 유치…디지털·공급망 협력 강화",
+    "summary": [
+      "[세종=뉴시스]김동현 기자 = 정부가 이재명 대통령의 유럽연합(EU) 방문을 계기로 유럽 소재 첨단기업의 대한국 투자를 유치하고, 양국간 타결된 디지털통상협정(DTA)에 공식서명하는 등 통상·투자·디지털 분야에서 주요 협력 성과를 도출했다.",
+      "먼저 산업통상부는 대한무역투자진흥공사(KOTRA)와 함께 '유럽지역 투자신고식' 및 '유럽투자가 라운드테이블'을 열고 유럽 기업의 한국 투자 확대와 미래 투자 협력 방향을 논의했다고 11일 밝혔다."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndcb79726",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610177500001",
+    "title": "李대통령, 로마 도착…오늘 한-이탈리아 정상회담",
+    "summary": [
+      "(로마=연합뉴스) 임형섭 고동욱 기자 = 이재명 대통령이 10일(현지시간) 유럽 순방의 두 번째 방문지인 이탈리아 로마에 도착했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb00c27c7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/11/MIYTINZSGU4WCOBVME3DEYLFHA/",
+    "title": "이민우 내리고 긴급투입, 삼진→삼진 완벽 첫 세이브...190cm 좌승사자, 마무리 체질인가 \"긴장해 더 잘 던진 것 같다\"",
+    "summary": [
+      "[OSEN=대전, 이선호 기자] \"갑자기 등판할 줄 몰랐다\".한화이글스 장신 좌완 승리조 조동욱(22)이 느닷없는 세이브를 낚았다.",
+      "11일 대전 한화생명 볼파크에서 열린 2026프로야구 KIA타이거즈와의 경기 9회에 등판해 아웃카운트 2개를 삭제하고 4-3 한 점 차를 지켰다.",
+      "팀의 4-3 승리를 이끌고 자신의 통산 3번째이자 시즌 첫 세이브를 따냈다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n44e87937",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611008200007",
+    "title": "[월드컵] 인판티노 \"심판 미국 입국 거부 유감이지만, 우린 왕이 아냐\"",
+    "summary": [
+      "(멕시코시티=연합뉴스) 최송아 기자 = 잔니 인판티노 국제축구연맹(FIFA) 회장은 2026 북중미 월드컵 개막을 앞두고 소말리아 출신 심판의 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nadbe98ed",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611008100071",
+    "title": "\"트럼프, 방산업체 대표들 주중 소집해 신속 무기증산 요구할듯\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령이 이번 주 후반 미국 내 방산업체 대표들을 소집해 회의할 예정이라고 미 NBC ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nd1ff8ffd",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "17분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152520",
     "title": "AWS·엔비디아가 픽한 회사...리얼월드, RLDX-1로 4조달러 시장 정조준",
     "summary": [
@@ -331,72 +467,101 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n11d40f91",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/11/JQ3KSIEIRVDHXKJLIZXO3VJGBQ/",
-    "title": "의회 불려 나온 빌 게이츠 “엡스타인에게 불륜 협박 받아”",
-    "summary": [
-      "의회 불려 나온 빌 게이츠 “엡스타인에게 불륜 협박 받아”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b641315",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/11/MQ2TQMZUG5TDCNBQGYYTANLCMM/",
-    "title": "다저스 시즌 중에 샴페인 축배를 들다니, 프리먼 3000안타 포기하나 \"계약 1년 남았고, 애도 넷이나 있어서…\"",
-    "summary": [
-      "[OSEN=이상학 객원기자] “500개 더 쳐야지.”LA 다저스 선수들은 지난 10일(이하 한국시간) 피츠버그 파이어리츠와의 원정경기를 12-3 대승으로 장식한 뒤 클럽하우스에서 샴페인 잔을 들었다.",
-      "시즌 중 이례적인 축배의 자리.",
-      "이날 개인 통산 2500안타를 달성한 프레디 프리먼(36)의 기록을 기념해 데이브 로버츠 다저스 감독이 건배 제의를 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n05c28e6f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260609_0003662097",
-    "title": "'핫 서머' 당당하게 즐기려면?…여름 바캉스 망치는 '등드름' 탈출법",
-    "summary": [
-      "[서울=뉴시스]서영은 인턴 기자 = 본격적인 여름 휴가철을 맞아 등 부위 여드름 때문에 노출을 꺼리는 이들의 고민도 깊어지고 있다.",
-      "이에 전문가들은 등 여드름이 얼굴보다 치료가 까다로운 만큼, 일상 속 올바른 세정 습관과 식단 관리를 반드시 병행해야 한다고 조언한다.",
-      "지난 6일(현지시간) 영국 데일리메일에 따르면, 영국 내 여드름 환자 2명 중 1명꼴로 등에도 여드름이 나는 것으로 조사됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na6d2918c",
+    "id": "nd6d87f81",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003664631",
-    "title": "美, 韓에 '암람' 중거리 공대공 미사일 70기 판매 승인",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/economy/money/2026/06/11/7CDYNBRWXVAZ3C7ZWXIMNICOYU/",
+    "title": "엔비디아로 4600% 수익률 40대 女 “비결? 그냥 안 팔았다”",
     "summary": [
-      "[서울=뉴시스]신정원 기자 = 미국 국무부는 10일(현지 시간) 한국에 AIM-120C-8 중거리 공대공 미사일 판매를 승인했다고 밝혔다.",
-      "총 비용은 2억9200만 달러(약 4445억원) 규모다.",
-      "미 국무부는 이 같은 내용의 해외 군사 판매 내역을 의회에 통보했다."
+      "엔비디아로 4600% 수익률 40대 女 “비결? 그냥 안 팔았다”."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nb6854949",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/06/11/PQDJFDQSHZETBOHCR54ZCUNKAY/",
+    "title": "귀에 꽂으면 상대 말소리와 TV 소리가 또렷하게 들리는 신기한 이어폰",
+    "summary": [
+      "귀에 꽂으면 상대 말소리와 TV 소리가 또렷하게 들리는 신기한 이어폰."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n27ea6953",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/11/GY2GINRUG5SWEMLFGI4TOOBZG4/",
+    "title": "뉴욕증시, 3대 지수 급락 마감… 중동 긴장 고조·기술주 투매 심화",
+    "summary": [
+      "뉴욕증시 3대 지수가 중동 지역 지정학적 긴장 고조와 인공지능(AI) 관련 기술주 투매 현상이 맞물리며 일제히 하락했다.",
+      "도널드 트럼프 대통령이 이란을 향해 강력한 추가 공격을 예고하자 국제 유가가 뛰었고, 이는 다시 인플레이션 우려를 자극하며 투자 심리를 얼어붙게 만들었다.",
+      "10일(현지시각) 뉴욕증권거래소에서 우량주 중심 다우존스30산업평균지수는 전 거래."
+    ],
+    "chips": [
+      "#AI",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nada45287",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "23분 전",
+    "url": "https://view.asiae.co.kr/article/2026061105265676897",
+    "title": "미국, 한국에 3억달러 규모 공대공 미사일 판매 승인",
+    "summary": [
+      "미국 정부가 한국에 중거리 공대공 미사일 등 2억9200만달러 규모의 무기 판매를 승인했다.",
+      "미 국무부는 10일(현지시간) 한국 정부가 요청한 AIM-120C-8 암람 공대공 미사일 70기와 암람 유도 섹션 2대에 대한 대외군사판매를 승인했다고 밝혔다.",
+      "AIM-120 암람은 전투기에서 발사하는 중거리 공대공 미사일이다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
+    "id": "n9ddcdea5",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "42분 전",
+    "url": "https://view.asiae.co.kr/article/2026061105083072632",
+    "title": "[속보]중동 긴장 고조·반도체 매도세에 일제히 하락 마감",
+    "summary": [
+      "미국과 이란의 긴장이 고조된 가운데 반도체 매도세가 지속되며 10일(현지시간) 미국의 3대 지수는 일제히 하락세로 마쳤다.",
+      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 01.87% 내리며 마감했다.",
+      "대형주 중심의 S&P500지수는 1.62%, 기술주 중심의 나스닥지수는 1.98% 하락해 장을 마무리했다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "na83fbe25",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611006700072",
+    "title": "미·이란 긴장 재고조에 국제유가 상승…WTI 2.1%↑",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 10일(현지시간) 미국과 이란 간 긴장이 다시 고조되면서 국제유가가 상승했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n10ccb961",
     "category": "사회",
     "source": "연합뉴스(경제)",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260611005900072",
     "title": "美 검찰, 2021년 트럼프 계좌 폐쇄한 주요 은행 수사",
     "summary": [
@@ -407,27 +572,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n86f7cd06",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/11/MYYDONLGGRSGKZBTMI4GGMZRGQ/",
-    "title": "[홍윤표의 휘뚜루마뚜루] ‘KBO 최초 포수 출신 KS MVP’ 장채근, ‘지리멸렬’ 대학야구연맹 회장 출사표…“무관심의 벽을 깨겠다”",
-    "summary": [
-      "KBO리그 최초로 포수 출신 한국시리즈 최우수선수(MVP)에 빛나는 장채근(62) 전 홍익대 야구부 감독이 대학야구 살리기에 발 벗고 나섰다.",
-      "행정 난맥을 겪고 있는 대학야구연맹 회장 선거에 뛰어든 것이다.한때 성인 야구 최고봉으로 선수들의 선망의 대상이었던 대학야구는 시나브로 쇠락의 길을 걸어 위상이 현저히 추락한 것은 물론 근년 들어 그 존재조차 희미해."
-    ],
-    "chips": [
-      "#KBO",
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
     "id": "n3ea9eba9",
     "category": "IT",
     "source": "동아일보",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260611/134087531/2",
     "title": "[인천판/게시판]인천 外",
     "summary": [
@@ -445,7 +593,7 @@ window.NEWS_DB = [
     "id": "nc382083c",
     "category": "사회",
     "source": "동아일보",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260611/134087468/2",
     "title": "쓰러진 노인-사고 현장… 우편 배달하다 생명 구했다",
     "summary": [
@@ -461,7 +609,7 @@ window.NEWS_DB = [
     "id": "n4c5fcb03",
     "category": "사회",
     "source": "동아일보",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260611/134087466/2",
     "title": "국립순천대, 中 선양에 첫 아카데미 연다",
     "summary": [
@@ -477,7 +625,7 @@ window.NEWS_DB = [
     "id": "n7a0604ca",
     "category": "사회",
     "source": "동아일보",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260611/134087462/2",
     "title": "명칭 논란 제주 ‘5·16로’… 도민 과반은 “현행 유지”",
     "summary": [
@@ -488,159 +636,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n0870cfbc",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664322",
-    "title": "몸집 123조원 키운 리츠…첫 회생절차에 시장 '술렁'",
-    "summary": [
-      "[서울=뉴시스] 변해정 기자 = 국내 부동산투자회사(리츠·REITs) 시장 자산 규모가 120조원을 돌파하며 가파른 성장세를 이어가고 있다.",
-      "다만 최근 상장 리츠인 제이알글로벌리츠가 기업회생절차를 신청하면서 시장 전반의 불안감도 커지고 있어 투자자 보호와 시장 안정화를 위한 제도 개선 요구가 나온다.",
-      "11일 리츠업계에 따르면 지난 4월 말 기준 국내 운용 리츠는 461개다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nfa64556d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664374",
-    "title": "[오늘의 주요일정]제주(6월11일 목요일)",
-    "summary": [
-      "[제주=뉴시스] ▲오전 10시, 제449회 제주도의회(임시회) 환경도시위원회 회의, 제주도의회 각 상임위 회의실 ▲오전 10시30분, 제주시 제2차 읍면동 지역사회보장협의체 위원장 네트워크 간담회, 제주시청 1별관 ▲오전 11시, 제2회 미식심포지엄, 한라컨벤션센터 ▲오전 11시, 제15회 제주농아인문화페스티벌 '울림', 탐라문화광장 ▲오전 11시, 소길리 로컬관광, 제주시 애월읍 소길리 일원 ▲낮 12시, 2026 제주시 동거부부 행복결혼식,."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "ne48a3922",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611006000081",
-    "title": "데뷔 40년…세계적 소프라노 조수미, 파리서 기념 콘서트",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 세계적인 소프라노 조수미가 데뷔 40주년을 기념해 10일(현지시간) 저녁 프랑스 파리에서 특별 콘서트를 열었..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ddffc93",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/11/HEZWIMRUG5TGIOLEGVSWMN3CMM/",
-    "title": "오스틴 홈런 2방으로 뒤집고, 리오스 압도적인 데뷔전...염갈량 \"리오스 KBO 첫 홀드 축하...오늘도 역전승 만든 선수들 칭찬해\"",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스가 다시 연승을 이어갔다.",
-      "LG는 10일 잠실구장에서 열린 SSG와 경기에서 8-6으로 승리했다.",
-      "경기 중반 3점 열세로 끌려가던 경기를 뒤집었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb465011d",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "48분 전",
-    "url": "https://view.asiae.co.kr/article/2026061103590168015",
-    "title": "트럼프 \"호르무즈 통과선박 지원 비밀작전…1억배럴 이상 공급\"",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 10일(현지시간) 지난달부터 호르무즈 해협에서 민간 선박의 안전 통항을 지원하는 비밀작전을 수행한 결과 대규모 원유를 전세계에 공급할 수 있었다고 밝혔다.",
-      "트럼프 대통령은 이날 트루스소셜에 \"지난달 나는 호르무즈 해협을 통과하는 유조선과 기타 상선을 지원하는 비밀 작전을 수행하라고 지시했다\"며 이같이 말했다.",
-      "그는 \"오늘 나는 이 노력의 결과 1억 배럴 이상의 석유가 해협을 통과해 공."
-    ],
-    "chips": [
-      "#전세",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nacc25953",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "53분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611005100091",
-    "title": "美법원, 'SNS중독' 메타·구글 재심청구 기각…90억원 배상 유지",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국 법원이 '청소년 SNS 중독' 소송에서 패소한 메타와 구글의 재심 청구를 기각했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n77392758",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "53분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611005300002",
-    "title": "달러-원, 예상 부합 CPI에 상승분 일부 반납…1,520.20원 마감",
-    "summary": [
-      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 상승폭을 축소했다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "nf964e8df",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152519",
-    "title": "은행권, AI 에이전트·블록체인으로 체질 바꾼다...AX·웹3 경쟁 본격화",
-    "summary": [
-      "모바일 앱 경쟁은 옛말이 됐다.",
-      "인공지능 전환(AX)으로 일하는 방식을 바꾸고, 웹3 기술로 금융 인프라를 새로 짜고 있다.",
-      "은행권의 디지털 혁신 경쟁이 새 국면에 접어든 모습이다.임직원 AX·웹3 전문가로 키운다신한은행은 지난 9일 서울 중구 본점에서 'AX·웹3 아카데미'를 공식 출범했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n238e3ca3",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152518",
-    "title": "P의 거짓·스텔라 블레이드, 닌텐도 스위치2로 즐긴다",
-    "summary": [
-      "국산 콘솔 게임 'P의 거짓'과 '스텔라 블레이드'가 닌텐도 스위치2로도 출시된다.",
-      "네오위즈는 닌텐도 온라인 쇼케이스 '닌텐도 다이렉트 2026'에서 P의 거짓의 닌텐도 스위치 2 버전 'P의 거짓: 컴플리트 에디션'을 출시한다고 10일 밝혔다.",
-      "P의 거짓: 컴플리트 에디션은 본편 P의 거짓과 다운로드 콘텐츠(DLC) 'P의 거짓: 서곡'이 함께 구성된 디지털 합본이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e22e11a",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026061102540060857",
-    "title": "트럼프 \"이란 더 강하게 공격할 것\"…이란 \"맞서겠다\"",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 10일(현지시간) 이란을 향해 군사적 압박 수위를 끌어올렸다.",
-      "이란도 굴복하지 않고 맞서며 긴장이 고조되는 모습이다.",
-      "트럼프 대통령은 이날 백악관에서 취재진과 만난 자리에서 \"오늘 이란을 더욱 강하게 다시 타격할 것\"이라고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
   }
 ];
 
@@ -649,20 +644,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
