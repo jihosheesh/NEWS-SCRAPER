@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-10 11:12:53
+// 마지막 업데이트: 2026-06-10 13:02:40
 window.NEWS_DB = [
+  {
+    "id": "n12ca2e79",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
+    "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
+    "summary": [
+      "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
   {
     "id": "n6aa493e4",
     "category": "스포츠",
     "source": "네이트",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mc0xpMXB1dG5CQkIwZGV0TE9vVm4tb2VwSGdvY1Z4bEF0djNIX3BybXJMTHpGZkhiUjdQWmpJdTc2QjRJdXRrVWpFcERSdjE0X3dzVjhnbHhLT3dx?oc=5",
     "title": "KBO 사무국, 아시안게임 야구 대표팀 명단 발표 생중계",
     "summary": [
@@ -16,39 +30,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5b1b9ecb",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "4시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VUTA5bFlqN1BwUGQ2SGdZNEVfd1pEYTJ2ejJkbTRTSWxveWpHTWdHVDBWQVlYMEo0ZVdkRFVRWmtHSWxGY3dVN0FNcll5U19XeHFLX3NKdDEzUHBq?oc=5",
-    "title": "KBO, 아시안게임 야구 대표팀 최종 명단 유튜브 생중계 공개",
-    "summary": [
-      "KBO, 아시안게임 야구 대표팀 최종 명단 유튜브 생중계 공개 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd2f59220",
-    "category": "IT",
-    "source": "데일리안",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRzlrQzNzOElYcWVwRHFmaG1oY1RwWWllaXhPNzVlLUJmV3FlRE9HX2NjZkwwRmVuQXNtaU5vMTd2N3ZsTVBJa3J6OXBlLVdUdlpVdHFQbWp3MjFtRkFlcVNYVHFrQWNsYk0zSDJJU1paTkljSlA0bEVScktTbGxOYzMwQWM3TWoydjgtc0hFY25jeUhubFQzQXlWd244ZjlKLWoxdWhtdEt3d3dMMDFvbHRoWm80dUdsQUNpNmJtLW5INU1NdF9rdU5ZdXFUS2tweE1CTUtJdEtrYjY5bHhGeWhRWUt3MlpOLTZ0RjhmdmZlay1paldrVE9Gb9IB-wFBVV95cUxNRzlrQzNzOElYcWVwRHFmaG1oY1RwWWllaXhPNzVlLUJmV3FlRE9HX2NjZkwwRmVuQXNtaU5vMTd2N3ZsTVBJa3J6OXBlLVdUdlpVdHFQbWp3MjFtRkFlcVNYVHFrQWNsYk0zSDJJU1paTkljSlA0bEVScktTbGxOYzMwQWM3TWoydjgtc0hFY25jeUhubFQzQXlWd244ZjlKLWoxdWhtdEt3d3dMMDFvbHRoWm80dUdsQUNpNmJtLW5INU1NdF9rdU5ZdXFUS2tweE1CTUtJdEtrYjY5bHhGeWhRWUt3MlpOLTZ0RjhmdmZlay1paldrVE9Gbw?oc=5",
-    "title": "HBM 공급전서 맞춤형 개발로…삼성·SK, 엔비디아 협력 주목",
-    "summary": [
-      "HBM 공급전서 맞춤형 개발로…삼성·SK, 엔비디아 협력 주목 데일리안."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n4089d874",
     "category": "IT",
     "source": "더팩트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWjhlQ0pmMm11NndWR19UQmZTbHZFXzBMeklraGpETGh1V0FOMmpsT0VrZHd2VTZZNE9jNkNQc21kY1piRTk0QU9KQnprbzFxRnZSYWdOWndrUdIBVEFVX3lxTE1PYnotSzlwdTRWYjBocFpVbVFlVFlmcmFBdXJHbmZkVlBLV19SZVBkLXVGR1pGdnM2TXJrZ0lET01NU2dzVVNaRUpkWnd5eDlUdXJDeQ?oc=5",
     "title": "젠슨 황이 띄운 AI 전쟁…은행권 '생산적 금융'도 반도체로 간다",
     "summary": [
@@ -63,7 +48,7 @@ window.NEWS_DB = [
     "id": "n1fb61718",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lQXZ6d0xKNDl5ZGxhV2xXbkthaGdQVThCdUpjcFVwOG9CVm14Njk0UXROY2RGZEJrWnAwT0xYSnZBR3BXem5HbEVvVl9iZ05MSlpLYUwwazA1WDkxamxid9IBYEFVX3lxTE1lQXZ6d0xKNDl5ZGxhV2xXbkthaGdQVThCdUpjcFVwOG9CVm14Njk0UXROY2RGZEJrWnAwT0xYSnZBR3BXem5HbEVvVl9iZ05MSlpLYUwwazA1WDkxamxidw?oc=5",
     "title": "[머니톡스] 수출 초호황인데 역설적인 환율…'글로벌'의 부메랑",
     "summary": [
@@ -72,6 +57,20 @@ window.NEWS_DB = [
     "chips": [
       "#환율",
       "#수출"
+    ]
+  },
+  {
+    "id": "na266de34",
+    "category": "IT",
+    "source": "아이뉴스24",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzZEQwYjFPZE9QLU5wYUM2Vjl3VjdDd2s5dkR4eWdiWENPS2J1RF90Wjluc1lFWmhFVWVqOXJxcTF6UEFvUzNHR3pkVQ?oc=5",
+    "title": "SK엔 \"2030년 캐파 2배도 부족\"…삼성엔 \"HBM·파운드리 협력\"",
+    "summary": [
+      "SK엔 \"2030년 캐파 2배도 부족\"…삼성엔 \"HBM·파운드리 협력\" 아이뉴스24."
+    ],
+    "chips": [
+      "#반도체"
     ]
   },
   {
@@ -137,19 +136,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n763cb5e6",
+    "id": "n7b4d122f",
     "category": "IT",
-    "source": "한겨레",
+    "source": "에너지경제신문",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83eHVrUUdyTHFPR3lhTVJOMHpYaG15MUhTaXV1RjYtZV8zeExJM21nWTk1MDVod2lCYW5EMlBPUkVUY18zMmliRjdqTkdmVE16M2dTOGRLazhCeGlxTlZaXzU2VE51VTZ0TkVqS0JNLXZFUQ?oc=5",
-    "title": "SK하이닉스·엔비디아 ‘AI 차세대 메모리’ 공동 개발한다",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzYm95VXZKOWFfRS1USzdkczhVejk3M3FpR3NpMXJUUlN4SDIyU3JhN2JlaDRhdWpCZEQta1RNWDgtWTRKOWZ0cktieXBNdktXUWIwQ25xT3E1XzA?oc=5",
+    "title": "SK “엔비디아와 미래 AI팩토리 만든다”…반도체 넘어 ‘AI 인프라 동맹’",
     "summary": [
-      "SK하이닉스·엔비디아 ‘AI 차세대 메모리’ 공동 개발한다 한겨레."
+      "SK “엔비디아와 미래 AI팩토리 만든다”…반도체 넘어 ‘AI 인프라 동맹’ 에너지경제신문."
     ],
     "chips": [
       "#AI",
-      "#엔비디아",
-      "#SK하이닉스"
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -166,6 +165,20 @@ window.NEWS_DB = [
       "#AI",
       "#엔비디아",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "ne2208e3a",
+    "category": "부동산",
+    "source": "프라임경제",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc0UzWmJweS1lNEZoWnc2WEtHbFhzcjZLWmlXLWJ3ZlUwV2xDUm02a1FiajU0NFFjcGh6NGRuUngtUXNuRnBSMWdaR3haLXowWWloeXZuS3RER2F6dTNBOXdrNzF1TE9ya2F2dQ?oc=5",
+    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
+    "summary": [
+      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -211,21 +224,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "21일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
-    ]
-  },
-  {
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
@@ -242,14 +240,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n269e2609",
+    "id": "n5a1617c5",
     "category": "부동산",
-    "source": "v.daum.net",
+    "source": "헤럴드경제",
     "time": "29일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
@@ -272,18 +270,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "118일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "id": "n1e3b72e2",
+    "category": "사회",
+    "source": "매일경제 마켓",
+    "time": "120일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
+    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
     ],
     "chips": [
-      "#부동산",
-      "#재건축"
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -299,6 +297,23 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
+    ]
+  },
+  {
+    "id": "nd1ff8ffd",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152520",
+    "title": "AWS·엔비디아가 픽한 회사...리얼월드, RLDX-1로 4조달러 시장 정조준",
+    "summary": [
+      "피지컬AI 스타트업 리얼월드가 로봇의 두뇌에 해당하는 로보틱스 파운데이션 모델(RFM) '리얼덱스(RLDX)-1'을 통해 제조, 물류, 서비스 분야 로봇 전환(RX)에 나선다.",
+      "한국 산업 현장에 축적된 작업 데이터를 피지컬AI 시장 경쟁력을 위한 핵심 자산으로 보고, 한국·일본·대만을 중심으로 동아시아 피지컬 AI 생태계를 넓히겠다는 구상이다.리얼월드는 10일 서울 강남구 라움아트센터에서 '덱스터리티 나이트 인 서울' 행사를 통해 '리얼덱스-1."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#스타트업"
     ]
   },
   {
@@ -350,297 +365,279 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n80649374",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152513",
-    "title": "상담부터 금융사기 예방까지...카카오뱅크, 'AI' 앞세워 혁신 금융 실현",
-    "summary": [
-      "혁신 금융 플랫폼을 목표로 하고 있는 카카오뱅크가 인공지능(AI)을 고객 서비스 전반으로 확대하고 있다.",
-      "투자정보 검색과 맞춤형 금융 상담은 물론, 금융사기 탐지 모델에도 이를 접목시켜 한층 더 편리한 금융 경험을 제공하고 있다.",
-      "대화형 AI 서비스, 500만 돌파...출시 1년 만10일 카카오뱅크는 대화형 AI 서비스 이용자가 출시 1년 만에 500만명을 넘어섰다고 밝혔다."
-    ],
-    "chips": [
-      "#AI",
-      "#카카오"
-    ]
-  },
-  {
-    "id": "n778a0806",
-    "category": "사회",
+    "id": "nae085302",
+    "category": "스포츠",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664480",
-    "title": "이혜영, 폐암 수술 흉터 공개…\"속상하지만 이겨낼 것\"",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664533",
+    "title": "'화이트 호투·문현빈 홈런' 한화, KIA에 4-3 진땀승…1경기차 추격",
     "summary": [
-      "[서울=뉴시스]강주희 기자 = 방송인 이혜영이 폐암 수술 흉터를 공개하며 솔직한 심경을 전했다.",
-      "이혜영은 10일 자신의 사회관계망서비스(SNS)에 \"오랜만이죠.",
-      "제가 이렇게 다시 나올 수 있을지 몰랐다\"며 개인 유튜브 채널 개설 소식을 알렸다."
+      "[서울=뉴시스]박윤서 기자 = 프로야구 한화 이글스가 외국인 투수 오웬 화이트의 역투에 힘입어 KIA 타이거즈의 뒤를 바짝 쫓았다.",
+      "한화는 10일 대전 한화생명볼파크에서 열린 2026 신한 쏠 KBO리그 KIA와의 경기에서 4-3으로 이겼다.",
+      "이날 승리로 5위 한화(31승 1무 28패)는 4위 KIA(33승 1무 28패)와의 승차를 다시 1경기로 좁혔다."
     ],
     "chips": [
-      "#의료"
+      "#KBO"
     ]
   },
   {
-    "id": "n1199aead",
+    "id": "nc759285c",
     "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260610/134085970/1",
-    "title": "‘100세 시대’ 맞아 노후 자금 컨설팅, 간병보험 등 금융사 부스에도 발길 이어져",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664566",
+    "title": "부산 해운대구 호텔 객실서 불…20여 명 긴급 대피",
     "summary": [
-      "“왕년에는 훨씬 더 빨랐는데 나이가 들긴 했나 보네요.”10일 오후 서울 중구 서울광장에서 열린 ‘2026 서울헬스쇼-도심 속 건강축제’에 마련된 KB헬스케어 부스.",
-      "올해로 네 번째 헬스쇼에 참가한 김명수 씨(70)가 아쉬워하며 말했다.",
-      "이날 KB헬스케어의 ‘KB오케어 건강마켓’ 부스엔 무작위로 떨어지는 10개의 봉을 순발력 있게 잡아야 하는 ‘캐치 스틱’ 게임이 진행되고 있었다.KB헬스케어 유튜브를 구독하면 누구나 참여할 수 있는데, 이틀간."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9ab8cff0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610166100005",
-    "title": "루체른 심포니 지휘자 미하엘 잔데를링 \"한국, 집처럼 편안\"",
-    "summary": [
-      "(서울=연합뉴스) 조윤희 기자 = \"한국은 저와 오케스트라에 매우 특별한 곳입니다.",
-      "훌륭한 공연장과 열정적인 관객들이 있기 때문이죠.\"."
+      "[부산=뉴시스]원동화 기자 = 10일 오후 8시28분께 부산 해운대구의 한 호텔 11층 객실에서 불이 났다.",
+      "이 불로 호텔 투숙객 20여 명이 긴급 대피했다.",
+      "불은 다행히 스프링클러가 작동해 10여 분 만에 진화됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4c0bb2f9",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026061020044504463",
-    "title": "[날씨]전국 대체로 맑음…오후 곳곳 소나기",
+    "id": "n0c318ad7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664567",
+    "title": "수원지검 성남지청서 사건관계인 음독…경찰 조사",
     "summary": [
-      "11일은 구름이 끼는 중부지방과 경북권을 제외하면 대체로 맑은 날씨가 예보된다.",
-      "오후부터 저녁 사이 서울·경기내륙과 강원도, 충청권 내륙, 전북 북동부, 경남 북서 내륙, 경북 북부 내륙·북동 산지에는 소나기가 내리는 곳이 있겠다.",
-      "돌풍과 천둥·번개, 우박이 동반될 수 있어 주의가 필요하다."
+      "[성남=뉴시스] 양효원 기자 = 경기 성남시 수정구 수원지검 성남지청에서 30대 사건관계인이 음독해 병원에 옮겨지는 사건이 발생했다.",
+      "10일 경찰 등에 따르면 A씨는 이날 오후 1시께 수원지검 성남지청 야외 민원인 쉼터에서 약물을 다량으로 복용한 뒤 의식을 잃었다.",
+      "그는 목격자 신고를 받고 출동한 소방당국에 의해 병원에 옮겨졌다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n7ec3a9fa",
+    "id": "nb2c82b2e",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610168900002",
-    "title": "증선위, 영풍·고려아연 감사인지정 등 조치…\"회계기준 위반\"",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/10/2026061021280324029",
+    "title": "말다툼 끝에 여자친구 밀쳤는데 사망…30대 남성 징역 3년",
     "summary": [
-      "(서울=연합뉴스) 배영경 기자 = 금융당국은 10일 영풍·고려아연[010130] 등이 회계처리기준을 위반했다며 감사인지정과 과징금 등 조치를 결..."
+      "여자친구와 길거리에서 다투다 여성을 밀쳐 숨지게 한 30대 남성이 징역 3년을 선고받았다.",
+      "10일 뉴시스에 따르면 대구지법은 이날 상해치사 혐의로 기소된 30대 남성 A씨에게 징역 3년을 선고했다.",
+      "A씨는 지난해 12월14일 오전 1시20분쯤 30대 여성 B씨의 어깨 부위를 강하게 밀쳐 넘어뜨린 혐의로 재판에 넘겨졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n81d06267",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610169000073",
-    "title": "'위안부 사죄 고노 담화' 日 고노 전 의원 별세",
-    "summary": [
-      "(도쿄=연합뉴스) 이도연 특파원 = 일제강점기 위안부 문제에 대해 사죄와 반성의 뜻을 나타낸 '고노 담화'를 발표했던 고노 요헤이 전 일본 중의..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2de442e2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/10/HA3TCMJTMVQTEYTCGVRDIYRSMU/",
-    "title": "신지, 문원♥과의 '불화설'에 심경 고백...\"내가 안 행복해 보인다고?\" ('어떠신지') [핫피플]",
-    "summary": [
-      "[OSEN=박근희 기자] 가수 신지가 남편 문원과의 결혼 생활을 둘러싼 일부 대중의 시선에 대해 솔직한 속내를 털어놓았다.10일 오후 유튜브 채널 ‘어떠신지?!?’에는 ‘행복은 가까이에 있어..",
-      "집 근처에서 힐링 제대로 하고 왔습니다’라는 제목의 영상이 게재됐다.문원은 단어가 얼른 떠오르지 않는 듯 튜브를 구명조끼, 동그라미라고 설명하는 엉뚱한 말실수를 했."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfd7c17b1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260610/134088085/1",
-    "title": "매일 뭐 볼까 헤매던 넷플릭스, ‘맞춤형 추천’ 강화로 탐색 고민 끝낸다",
-    "summary": [
-      "넷플릭스에 접속한 뒤 정작 뭘 볼지 몰라 홈 화면만 한참 훑어보다가 앱을 닫은 경험이 한 번쯤 있을 것이다.",
-      "콘텐츠는 넘쳐나지만 선택하지 못하는 아이러니다.",
-      "그런데 넷플릭스가 이러한 사용자 경험을 개선하기 위한 새로운 업데이트를 공개했다.넷플릭스는 10일 아시아태평양(APAC) 지역 미디어를 대상으로 ‘APAC 넷플릭스 프로덕트 & 테크놀로지 이노베이션 쇼케이스’를 열고, 모바일 경험, 콘텐츠 큐레이션 컬렉션, 게임 세 영역에 걸친 업데이트를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb1bc6b39",
+    "id": "n138bdb56",
     "category": "IT",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/06/10/TWIX6QM2SVCMXPVOSIWKTAFK2I/",
-    "title": "韓·벨기에 정상회담, 배터리·에너지 협력 강화키로",
-    "summary": [
-      "韓·벨기에 정상회담, 배터리·에너지 협력 강화키로."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n27611382",
-    "category": "사회",
     "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026061020000100401",
-    "title": "이스라엘 여당 \"네타냐후 차기 총선 출마\"…'전시 총리' 은퇴설 일축",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026061021331602901",
+    "title": "X 앱, 구글 스토어서 '청소년 이용불가' 됐다…등급 상향",
     "summary": [
-      "베냐민 네타냐후 이스라엘 총리가 차기 총선에 출마해 정권 연장을 노린다.",
-      "집권 리쿠드당은 미국의 정계 핵심 인사가 제기한 네타냐후 총리의 정계 은퇴 가능성을 정면으로 부인하며 확고한 선거 승리 의지를 다졌다.",
-      "10일(현지시간) 이스라엘 여당인 리쿠드당은 공식 성명을 통해 네타냐후 총리가 다가오는 선거 전면에 나설 것이며, 반드시 승리를 거두겠다는 입장을 표명했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2792f7e6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260610154500004",
-    "title": "[날씨] 전국 대체로 맑다가 오후 곳곳 소나기…돌풍 주의",
-    "summary": [
-      "(서울=연합뉴스) 양수연 기자 = 목요일인 11일은 중부지방과 경북권에 구름이 많겠고, 그 밖의 지역은 대체로 맑겠다."
+      "구글 플레이스토어에서 사회관계망서비스(SNS) X(옛 트위터)의 이용 등급이 '청소년 이용불가'로 상향 조정된 것으로 확인됐다.",
+      "10일 정보기술(IT) 업계에 따르면 구글 플레이스토어 내 X 앱의 이용 등급은 최근 기존 '만 16세 이상'에서 '청소년 이용불가'로 변경됐다.",
+      "구글 플레이스토어의 X 앱 정보에는 이용 등급 항목에 '19세'와 함께 '청소년 이용불가'라는 문구가 표시돼 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nca485b76",
+    "id": "nf80866a0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664517",
-    "title": "청년 로컬 관광 사업 발굴…관광두레 플러스 100개소 육성",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260610_0003664557",
+    "title": "천안 성거읍 폐기물업체 화재…근로자 3명 대피, 현재 진화 중",
     "summary": [
-      "[서울=뉴시스]김정환 관광전문 기자 = 문화체육관광부와 한국관광공사는 지역 관광 활성화를 위한 ‘2026 청년 관광두레 플러스 사업’에 참여할 신규 주민 사업체를 30일 오전 11시까지 모집한다.",
-      "‘관광두레’는 지역 주민이 주도적으로 관광 사업체를 창업하고 운영할 수 있도록 지원하는 사업이다.",
-      "2013년 시작해 지금까지 전국 152개 지역에서 총 1400여 주민 사업체를 발굴·육성했다."
+      "[천안=뉴시스]최영민 기자 = 10일 오후 8시20분께 충남 천안시 성거읍 오목리의 한 폐기물 처리업체에서 화재가 발생했다.",
+      "천안서북소방서 등에 따르면 이 시각 현재 5층 규모의 폐기물 처리시설에 적재됐던 폐기물이 타면서 다량의 연기가 발생하고 있으며 이 시각 현재 진화 중이다.",
+      "다행히 내부에서 작업 중이던 근로자 3명은 대피해 인명 피해는 없는 것으로 파악되고 있다."
     ],
     "chips": [
-      "#채용"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbc8bb204",
+    "id": "n92ecf4cc",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610174600007",
+    "title": "kt, 삼성 따돌리고 2위 유지…사우어 6이닝 2실점",
+    "summary": [
+      "(수원=연합뉴스) 김동한 기자 = 프로야구 kt wiz가 외국인 선발 투수 맷 사우어의 6이닝 2실점 호투를 앞세워 승리했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na6c1134e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610174400003",
+    "title": "한화솔루션 유상증자, 세차례 정정 끝 2.4조→1.7조 확정",
+    "summary": [
+      "(서울=연합뉴스) 조성흠 기자 = 한화솔루션의 유상증자가 세 차례에 걸친 정정 끝에 2조4천억원에서 1조7천억원으로 규모를 축소해 금융감독원 문..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3d1deaf8",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026061021302492597",
+    "title": "유럽인 10명 중 1명만 \"미국은 동맹\"…신뢰도 반토막",
+    "summary": [
+      "유럽인 10명 중 1명만 미국을 동맹국으로 인식한다는 조사 결과가 나왔다.",
+      "관련 응답은 지난해 11월 22%에서 최근 11%로 반토막 났다.",
+      "연합뉴스는 10일(현지시간) 영국 일간 가디언을 인용해 유럽외교협회(ECFR)가 지난달 유럽 15개국 성인 1만9481명을 대상으로 실시한 여론조사에서 이 같은 결과가 나왔다고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na4b41b0a",
     "category": "사회",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/10/HEYWCOJQGNSDGNRXHAZDMYJXGQ/",
-    "title": "양정아, 母 ‘허리 골절’로 건강 악화..“5분이라도 눈 마주치고파” 눈물 (‘같이삽시다’)",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/economy/real_estate/2026/06/10/GQYGMZDEGQYWKMLFGRTDMOLEGQ/",
+    "title": "레미콘 노사 잠정합의안 부결…휴업 장기화될 듯",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘황신혜의 같이 삽시다’ 양정아가 어머니 생각에 눈물을 흘렸다.",
-      "10일 방송된 KBS 1TV ‘황신혜의 같이 삽시다’에서는 황신혜, 신계숙, 양정아가 가정사를 털어놓는 모습이 그려졌다.이날 양정아는 “나는 엄마랑 5분만이라도 눈 마주치고 내 이름 불러주고 평상시처럼 얘기하고 싶은 게 너무 소원”."
+      "레미콘 운송단가를 회당 8만원으로 인상하는 내용의 노사 잠정합의안이 조합원 찬반투표에서 부결됐다.",
+      "이에 따라 수도권 건설 현장에 레미콘 공급 차질이 이어질 전망이다.",
+      "10일 건설업계에 따르면 노조가 전날 사측과 마련한 잠정합의안에 대해 조합원 찬반투표를 실시한 결과, 조합원 68.3%가 반대표를 던지며 합의안이 최종 부결됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n21de7a7f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/06/10/VLD6AQ4HF5CHDHLZEUOJ4EVEJ4/",
+    "title": "검찰 “북한 환심 사기 위해 직권남용” VS 이화영 “혐의 부인”...국민참여재판 3일차 공방 계속",
+    "summary": [
+      "검찰 “북한 환심 사기 위해 직권남용” VS 이화영 “혐의 부인”...국민참여재판 3일차 공방 계속."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5b5c9e69",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260610/134088663/2",
+    "title": "폐암 투병 이혜영 “곳곳에 수술 흉터…이겨내고 세상 나올 것”",
+    "summary": [
+      "배우 이혜영이 10일 폐암 투병 생활을 공개했다.이혜영은 이날 인스타그램에 “오랜만이다.",
+      "제가 이렇게 다시 나올 수 있을지 몰랐죠”라며 “암 투병을 했던 5년을 지나오면서 많은 것이 사라졌고, 많은 것이 새로 생겼다”고 밝혔다.그는 “그동안 제가 배운 건 하나다.",
+      "건강하다는 것 자체가 행복하다는 것”이라며 “오늘 뭘 먹었는지, 어디를 걸었는지, 무엇에 웃었는지, 예전엔 당연하게 여겼던 것들이 지금은 전부 다 감사하다”고 했다.그러면서 “또 다른."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n49762521",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664481",
-    "title": "북아일랜드, 수단 체류자의 주민 흉기 공격에 폭력시위…방화",
+    "id": "n6a06e256",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026061021470022061",
+    "title": "고유가에 美 5월 CPI 전년比 4.2%↑…3년1개월만 최대(상보)",
     "summary": [
-      "[벨파스트(북아일랜드)=AP/뉴시스] 김재영 기자 = 9이영국령 북아일랜드에서 주도 벨파스트 등 여러 지역에서 반 이민 폭력 시위가 펼치진 다음날인 10일 이를 초래했다고 할 수 있는 30세의 수단 남성이 벨파스트 법원에 출두할 예정이다.",
-      "이 남성은 주민을 칼로 찔러 중상을 입혀 살인 미수죄로 기소되어 있다.",
-      "9일 밤 마스크로 얼굴을 가린 여러 남자들이 이민자들 집으로 추정되는 주택에 불을 지르고 쓰레기통과 버스 한 대를 불 태웠으며 경찰에 돌."
+      "미국 노동부 노동통계국이 5월 미국의 소비자물가지수(CPI)가 전년 동월 대비 4.2% 상승했다고 10일(현지시간) 밝혔다.",
+      "다우존스가 집계한 전문가 전망에는 부합했으나, 2023년 4월(4.9%) 이후 3년 1개월 만에 가장 높은 수치다.",
+      "전월 대비로는 0.5% 올라 이 역시 전망에 부합했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n890f129e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260610_0003664513",
-    "title": "음저협, 국악 꿈나무 진로 멘토링…후속 지원 지속",
+    "id": "n207e2305",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/10/2026061015253299129",
+    "title": "'이재현 추격의 3점포도 무소용' 삼성 3연패 수렁→KT, 2연승+위닝시리즈 달성 [수원 현장리뷰]",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 사단법인 한국음악저작권협회(회장 이시하·음저협)가 지난 8일 충주시문화회관에서 충주시 청소년우륵국악단을 대상으로 국악 진로 교육과 창작 멘토링을 진행했다.",
-      "이번 교육은 지난 3월 음저협이 전달한 기부금 3000만 원에 이은 후속 프로그램이다.",
-      "강연자로 나선 정성자 음저협 이사는 국악기 시연과 함께 진로 고민을 나눴다."
+      "KT 위즈가 삼성 라이온즈를 3연패로 몰아넣었다.",
+      "KT는 10일 수원KT위즈파크에서 열린 삼성과 '2026 신한 SOL KBO리그' 홈 경기서 4-3으로 이겼다.",
+      "4-0으로 앞서다 7회 3점을 내주긴 했지만 추격을 잘 뿌리쳤다."
     ],
     "chips": [
-      "#교육",
-      "#환경"
+      "#KBO"
     ]
   },
   {
-    "id": "nf959c903",
+    "id": "na3195bf2",
     "category": "사회",
-    "source": "아시아경제",
+    "source": "동아일보",
     "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026061019554596114",
-    "title": "최현덕 남양주시장 당선인, 선대본 해단…'시민주권 시대' 본격 시동",
+    "url": "https://www.donga.com/news/Politics/article/all/20260610/134088674/1",
+    "title": "李대통령, EU 상임의장에 “축구 사랑하신다 들어”…SNS로 친근 메시지",
     "summary": [
-      "제9회 전국동시지방선거에서 승리하며 민선 9기 남양주시장에 당선된 최현덕 당선인이 선거대책본부 해단식을 갖고 본격적인 시정 준비에 돌입했다.",
-      "최 당선인의 선거조직인 '열린캠프'는 10일 남양주 선거사무실에서 공식 해단식을 개최했다.",
-      "이날 행사에는 총괄선대위원장을 맡았던 최민희·김병주 국회의원을 비롯해 이경숙 시의원 등 공동선대위원장단, 경성석 총괄선대본부장, 캠프 관계자와 자원봉사자, 지지자 등 300여 명이."
+      "이재명 대통령이 10일(현지시간) 유럽연합(EU)과의 정상회담을 앞두고 정상들의 취미와 성향을 소개하며 기대감을 표했다.이 대통령은 이날 자신의 엑스(X·구 트위터)를 통해 “복잡한 국제정세 속에서 대한민국과 EU가 신뢰와 연대를 굳건히 하며, 함께 더 나은 해법과 미래를 만들어갈 수 있도록 최선을 다하고 오겠다”고 밝혔다.이어 안토니우 코스타 EU 정상회의 상임의장을 향해 “축구를 무척 사랑하신다고 들었다”며 “각자 맡은 포지션은 다르지만 결."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n5f4e5792",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260610/134088055/2",
-    "title": "아이비, 美브로드웨이 무대 선다…‘시카고’ 주연 발탁",
+    "id": "n0997aac5",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610174500007",
+    "title": "롯데 김태형 감독, '5전 6기' 끝에 역대 7번째 800승 고지",
     "summary": [
-      "가수 겸 뮤지컬 배우 아이비가 뮤지컬 ‘시카고’의 록시 하트 역으로 미국 뉴욕 브로드웨이 무대에 오른다.",
-      "한국에서 활동하는 배우가 브로드웨이 프로덕션의 주연으로 발탁되는 경우는 매우 이례적이다.9일(현지 시간) ‘시카고’ 측은 인스타그램을 통해 “세계 무대를 사로잡은 뮤지컬 스타이자 K팝 스타 아이비가 록시 하트로 무대에 오른다”고 밝혔다.아이비는 오는 8월 17일부터 9월 6일까지 미국 뉴욕 앰배서더 극장에서 열리는 ‘시카고’ 공연에 나선다."
+      "(서울=연합뉴스) 이대호 기자 = 프로야구 롯데 자이언츠가 5연패에서 벗어났다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nea97fc49",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "28분 전",
-    "url": "https://view.asiae.co.kr/article/2026061019442089955",
-    "title": "정덕영 양주시장 당선인, '양주대전환 시민주권 인수위' 출범",
+    "id": "nbcccd9a7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260610/134088671/1",
+    "title": "샤니 대구공장 끼임 사고 발생…노조 “구조적 문제 살펴야”",
     "summary": [
-      "정덕영 양주시장 당선인이 민선 9기 시정 운영의 밑그림을 그릴 인수위원회 구성을 마무리하고 본격적인 활동에 돌입한다.",
-      "정 당선인은 10일 시장직 인수위원회 명칭을 '양주대전환 시민주권 인수위원회'로 확정하고 위원 구성 명단을 발표했다.",
-      "인수위는 오는 11일 오전 10시 출범식을 갖고 30일까지 20일간 활동한다."
+      "10일 오전 대구 달성군 논공읍의 SPC그룹 샤니 대구공장에서 40대 외국인 여성 노동자 A 씨가 작업 중 오른팔이 기계에 끼이는 사고를 당해 병원으로 옮겨졌다.전국화학섬유식품산업노동조합은 성명을 통해 “SPC 계열사에서는 산재 사고가 반복적으로 발생해 노사가 공동 합의문을 체결하고 재발 방지 대책을 마련했지만 사고가 계속되고 있다”며 “샤니는 특별교섭 요구를 즉각 수용하고 피해 노동자와 가족에게 사과하는 한편 성실하게 교섭에 임해야 한다”고."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
+    ]
+  },
+  {
+    "id": "n1d1aa991",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/10/2026061016450694756",
+    "title": "'이럴수가' 한화가 9회 1사 후 투수를 바꾸다니 '초강수' 결과는 대성공! KIA 상대 전날 패배 설욕 '짜릿한 한 점 차' 승리 [대전 현장리뷰]",
+    "summary": [
+      "한화 이글스가 대포 두 방을 앞세워 KIA 타이거즈를 제압, 전날(9일) 패배를 설욕하며 기분 좋게 웃었다.",
+      "이제 위닝시리즈의 주인공은 11일 경기에서 가려진다.",
+      "한화는 10일 대전 한화생명볼파크에서 펼쳐진 KIA와 2026 신한 SOL KBO 리그 정규시즌 홈 경기에서 4-3으로 승리했다."
+    ],
+    "chips": [
+      "#KBO"
     ]
   }
 ];
@@ -650,14 +647,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "KBO",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
