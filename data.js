@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-11 18:56:48
+// 마지막 업데이트: 2026-06-11 19:50:48
 window.NEWS_DB = [
   {
     "id": "n2af5a245",
     "category": "IT",
     "source": "디일렉",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQTlGZl9DeDFvZWczWnRQa1d6NjdWbUVUc0wzR2k2MWg4Z0oxRzN0MG01bkRWQ0FJV2RuQ1dxRXZ2cG9taEszSy14V2dxVTliR21INEp4M1ZLYlV0ZkktQ3hDVDkxdw?oc=5",
     "title": "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n31476ce7",
     "category": "IT",
     "source": "뉴시안",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZVzNvNjZhLTJ2VFVVb0pBSVhFbXg0WmRESnljcDNvdHB4UndyY3pzX3hqallibk9KdEFYMjdYZ0pxcnpqbzhJcUdWZ2tJTE1NQUxieTlrQW16c0ZYMGpFQWhmSkxpdGFPTXfSAW5BVV95cUxNSUN0dUl1YVpxb0R1NjJKU0tEd0doTHBwQzFBZVdWa2JlTEJGaGJWcFN1LURTeXd6OU42SE9saWhVQmZaUEJ2bnFZb3ozalh4QXg2SU9sYVh3U0NOazh0b3dRcmV5QXpOSmYxd2tqUQ?oc=5",
     "title": "SK, 엔비디아와 日에 ‘AI 팩토리’ 건설 추진…2028년 가동 목표",
     "summary": [
@@ -58,20 +58,6 @@ window.NEWS_DB = [
     "chips": [
       "#환율",
       "#수출"
-    ]
-  },
-  {
-    "id": "ne31b7243",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NVFMyMWd2VFlreGFHRGlYVjlFSnI1dWpIeUdQcWQwTDlvQ0tkQUFpSlh5SFFqcEhQX2tGV2J2aS1QMjltdnROdjNvZS1KOTZFZnE2ZUIxNkRvWllO?oc=5",
-    "title": "KBO-KBSA, 야구 국가대표팀 신규 BI 공개…대표팀 브랜드 가치 및 위상 높인다",
-    "summary": [
-      "KBO-KBSA, 야구 국가대표팀 신규 BI 공개…대표팀 브랜드 가치 및 위상 높인다 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -119,6 +105,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13b4af19",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
     "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
@@ -134,17 +137,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc9fe1ef0",
+    "id": "n70cb7884",
     "category": "사회",
-    "source": "브런치",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UllYQlR3ck1kZTlFeDd5X0gtTHhkN2NMcU95T2VGbGpSOEZsWjdQZ3ZVVHEwS19fb1JvLS04SlBnQVd5Z2YxdU1nTQ?oc=5",
-    "title": "화성시 일자리 찾는다면, 일자리센터 채용정보 확인",
+    "source": "투데이경제",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
+    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
     "summary": [
-      "화성시 일자리 찾는다면, 일자리센터 채용정보 확인 브런치."
+      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
     ],
     "chips": [
-      "#채용",
+      "#취업",
       "#고용"
     ]
   },
@@ -192,18 +195,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n02951820",
-    "category": "사회",
-    "source": "투데이경제",
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
     "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
-    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
     "summary": [
-      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
     ],
     "chips": [
-      "#채용",
-      "#취업",
+      "#반도체",
       "#고용"
     ]
   },
@@ -238,6 +240,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ncbcb6c77",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "95일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "summary": [
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -264,21 +280,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
-    ]
-  },
-  {
-    "id": "n1e3b72e2",
-    "category": "사회",
-    "source": "매일경제 마켓",
-    "time": "121일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
-    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
-    "summary": [
-      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -313,66 +314,81 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n53ebb19d",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612006900002",
-    "title": "달러-원, 뜨거운 PPI에 상방 압력 강해져…1,531.60원 마감",
-    "summary": [
-      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 상승폭을 확대했다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "nd0c2d822",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612006600072",
-    "title": "'삼전닉스·실리콘 칼라' 아시나요…NYT가 소개한 韓반도체 열풍",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = '삼전닉스(Samjeonnix)란 무엇일까요?', '반도체 주식에 대한 투자자의 믿음이 흔들리고 있습니다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n04b13dfc",
+    "id": "n494e165d",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666303",
-    "title": "[속보]이란 혁명수비대측 매체 \"MOU 초안 아직 승인 안됐다\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc4b4b82d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612005900071",
-    "title": "트럼프, 새 美정보당국 수장에 클레이턴 뉴욕남부검사장 지명",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/12/2026061204431778833",
+    "title": "[속보]트럼프 \"아마도 이번 주말 유럽서 서명식…부통령 참석\"",
     "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 11일(현지시간) 신임 국가정보국(DNI) 국장에 제이 클레이턴 뉴욕남부연방검..."
+      "11일(현지시간) 도널드 트럼프 미국 대통령...."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nf6104ad8",
+    "id": "n0dfb3b91",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/12/2026061204414336228",
+    "title": "[속보]트럼프 \"협정 서명 즉시 호르무즈 해협 개방될 것\"",
+    "summary": [
+      "11일(현지시간) 도널드 트럼프 미국 대통령..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7378d617",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666307",
+    "title": "[속보]트럼프 \"수일내 유럽서 위대한 합의 서명…부통령 참석\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc830770",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "8분 전",
+    "url": "https://www.hankyung.com/article/202606121906i",
+    "title": "[속보]트럼프 \"이란과 며칠 내 합의.. 유럽서 서명될 것\"",
+    "summary": [
+      "[속보]트럼프 \"이란과 며칠 내 합의.. 유럽서 서명될 것\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc27f02e1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/12/MRRTSMLGMNRTGOBUGY3DCYTCGY/",
+    "title": "'2루타-2루타-2루타-2루타' 송찬의가 16년 만에 역사 썼다…쓰레기 줍고 공부하고, 개인 최다 안타 우연 아니다 [오!쎈 잠실]",
+    "summary": [
+      "[OSEN=잠실, 조은혜 기자] 프로야구 LG 트윈스 송찬의가 4안타 5타점을 폭발시키며 팀의 대승을 이끌었다.염경엽 감독이 이끄는 LG는 11일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 SSG 랜더스와의 홈경기에서 15-1 대승을 거두고 3연승을 질주했다.",
+      "이날 좌익수 겸 6번타자로 선발 출전한 송찬의는 4안타 5타점 2득점으로 개인 한 경."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd5a5e79c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612006400079",
-    "title": "이란 매체 \"아직 미국과 어떤 합의문도 승인된 바 없어\"",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612006451079",
+    "title": "이란매체 \"아직 美와 합의문 승인된바 없어…승인 가능성 커\"(종합)",
     "summary": [
       "(카이로=연합뉴스) 김상훈 특파원 = 도널드 트럼프 미국 대통령이 종전 합의가 사실상 타결됐음을 시사했지만 정작 이란 측에서는 아직 어떤 합의문..."
     ],
@@ -381,257 +397,225 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naa99dc72",
-    "category": "스포츠",
-    "source": "조선일보",
+    "id": "nc29051b6",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/12/2026061204373026403",
+    "title": "[속보]트럼프 \"이란과 문서 최종조율 단계…이번 주말 서명 가능성\"",
+    "summary": [
+      "11일(현지시간) 도널드 트럼프 미국 대통령..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n00122ebb",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612008300072",
+    "title": "국제유가, 트럼프 '이란공습 취소'에 급락…브렌트유 2.9%↓",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 11일(현지시간) 도널드 트럼프 미국 대통령이 대이란 공습을 취소하고 이란과의 합의가 임박했음을 시사하면서 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd1eb8c76",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612008500071",
+    "title": "[속보] 트럼프 \"아마도 주말 유럽서 서명식…부통령 참석\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e62f101",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612008600071",
+    "title": "[속보] 트럼프 \"이란과 종전 합의 서명 즉시 호르무즈 해협 개방\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na32face1",
+    "category": "IT",
+    "source": "머니투데이",
     "time": "17분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/12/GNRWMZTBG4YTOM3CHFTDEZTCHA/",
-    "title": "오타니 열받았다, 포수한테 작심 발언이라니…오죽 답답했으면 \"호흡 안 맞았다, ABS 챌린지 했어야지\"",
+    "url": "https://www.mt.co.kr/society/2026/06/12/2026061204264134288",
+    "title": "\"삼전닉스·삼멘 아시나요?\"…美외신도 한국 '반도체 열풍' 주목",
     "summary": [
-      "[OSEN=이상학 객원기자] 야구 실력만큼 인성이 좋기로 소문난 오타니 쇼헤이(31·LA 다저스)가 이례적으로 동료에게 아쉬움을 표출했다.",
-      "ABS 챌린지를 두 번이나 주저한 포수 달튼 러싱(25)의 판단 때문이었다.",
-      "오타니는 지난 11일(이하 한국시간) 미국 펜실베이니아주 피츠버그 PNC파크에서 벌어진 2026 메이저리그 피츠버그 파이어리츠와의 원정경기에."
+      "NYT, 이색 퀴즈 형식으로 한국 반도체 신조어·밈 문화 소개 '세계 메모리 60% 공급' 한국, AI 붐 타고 반도체 노동자 '신흥 상류층' 부상 부동산 '셔세권', 입시 '하의치한약수' 등 자산시장·교육지도까지 재편 \"삼전닉스(Samjeonnix)란 무엇일까요?\" \"반도체 주식에 대한 투자자의 믿음이 흔들리고 있습니다.",
+      "어떤 주문을 외울 수 있을까요?\" \"실리콘 칼라(Silicon Collar)란 무엇일까요?\" \"지하철역 근처 아파트는 오랫."
     ],
     "chips": [
-      "#KBO"
+      "#AI",
+      "#반도체",
+      "#부동산",
+      "#교육"
     ]
   },
   {
-    "id": "n13c5d6c5",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666301",
-    "title": "트럼프 \"이란 최고위급 승인, 곧 서명\"…국제유가 두달만에 86$로",
+    "id": "n2cef5df5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260612/134097109/2",
+    "title": "전북 이어 경기교육감 개표 입력 오류 있었다",
     "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 이란과 종전 양해각서(MOU) 합의 타결을 시사하면서 국제 유가가 급락하고 증시가 상승했다.",
-      "인베스팅닷컴 등에 따르면 11일(현지 시간) 오후 1시50분께 기준 국제 유가 기준물 브렌트유 선물은 전일 대비 3.86% 내린 86.68달러, 미국 서부텍사스산원유(WTI) 선물은 3.72% 하락한 86.68달러에 거래 중이다.",
-      "마켓워치는 \"원유 가격이 두 달 만에 최저치로 떨어졌다\"며 \"W."
+      "6·3 지방선거 전북도교육감 선거에 이어 경기도교육감 선거에서도 개표 과정에서 투표 결과가 잘못 입력된 것으로 드러났다.",
+      "경기 성남에선 안민석 당선인과 임태희 후보의 득표가 뒤바뀌어 입력됐고, 경기 광주에선 전북도교육감 개표처럼 특정 투표소 개표 결과가 반영되지 못해 1706표가 누락된 사실이 선거 8일 뒤에야 확인됐다.",
+      "11일 경기도선거관리위원회에 따르면 투표 당일인 3일 경기 광주시 초월읍에서는 개표사무원이 투표지분류기에 9투표소 용지를 넣."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nd9d41eb1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260612/134097107/2",
+    "title": "“정청래 연임말라” “장동혁 물러나라”… 여야 지방선거 책임론 내전",
+    "summary": [
+      "6·3 지방선거 결과를 둘러싸고 더불어민주당과 국민의힘에서 당 대표 사퇴 요구가 본격화되면서 여야 모두 내홍이 격화되고 있다.",
+      "11일 국회에서 열린 민주당 의원총회에서 장철민 의원(재선)은 정청래 대표를 향해 “통합하려면 오늘이라도 사퇴해야 한다”고 했다.",
+      "지도부가 선거 결과에 책임지는 모습을 보이고 8·17 전당대회 관리에서도 손을 떼라는 의미다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n185c0410",
-    "category": "스포츠",
-    "source": "조선일보",
+    "id": "n8b600429",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260612/134097105/2",
+    "title": "쿠팡 과징금 6247억, 개인정보유출 ‘역대 최대’",
+    "summary": [
+      "개인정보보호위원회(개인정보위)가 지난해 대규모 개인정보 유출 사고를 낸 쿠팡에 총 6246억8100만 원의 과징금을 부과하기로 결정했다.",
+      "개인정보위가 부과한 과징금 가운데 역대 최대 규모다.",
+      "개인정보위는 11일 서울 종로구 정부서울청사에서 브리핑을 열고 쿠팡에 개인정보 유출 사고에 대한 4235억7500만 원과 이용자 온라인 활동 기록 무단 수집에 대한 2011억600만 원을 합산한 과징금 6246억8100만 원과 과태료 1680만 원을 부과한."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8f91594f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260612/134097065/2",
+    "title": "고객 정보 털린 쿠팡, 온라인 기록 무단수집해 광고에 쓰기도",
+    "summary": [
+      "개인정보보호위원회(개인정보위)가 11일 쿠팡에 역대 최대 규모인 6247억 원의 과징금을 부과한 것은 개인정보 유출뿐 아니라 광범위한 개인정보보호법 위반 사항이 드러났기 때문이다.",
+      "조사 결과 3756만 명의 개인정보가 유출된 데다 쿠팡은 맞춤형 광고를 위해 이용자 1117만 명의 온라인 활동 기록도 동의 없이 수집한 것으로 나타났다.",
+      "개인정보위는 또 쿠팡이 증거자료 보전 명령 이후에도 일부 접속 기록을 삭제해 조사를 어렵게 했다고 판단했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d142062",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003666028",
+    "title": "[오늘의 주요일정]제주(6월12일 금요일)",
+    "summary": [
+      "[제주=뉴시스] ▲오전 9시30분, 제주농협 2026년 제주 햇마늘·햇양파 직거래장터, 제주농협 본부 야외주차장 ▲오전 9시50분, 제주도립 제주예술단 찾아가는 연주회, 제주시 삼양초등학교 ▲오전 10시, 제449회 제주도의회(임시회) 제주도의회 행정자치·농수축경제·교육위원회, 제주도의회 각 상임위 회의실 ▲오전 10시, 2026년 학부모아카데미, 복지이음마루 2층 스페이스A 대강당 ▲오전 10시, 2026년 제주특별자치도 품질분임조 경진대회,."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n6d131cde",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "27분 전",
+    "url": "https://www.hankyung.com/article/202606121896i",
+    "title": "[속보]이란 매체 \"이란당국, 협정을 수락할 가능성 있다\"",
+    "summary": [
+      "[속보]이란 매체 \"이란당국, 협정을 수락할 가능성 있다\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc4e519e",
+    "category": "경제",
+    "source": "한국경제",
     "time": "31분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/12/MI2GKMBXHAZTIYLEMZTDMMBVGM/",
-    "title": "항저우·도쿄 이어 나고야까지 간다, 국가대표 유격수 “또 나라의 부름을 받아 영광, 무조건 금메달 목표”",
+    "url": "https://www.hankyung.com/article/202606121893i",
+    "title": "[속보]이란 파르스통신, \"美가 이란 제안 수락\"...협상타결 초읽기",
     "summary": [
-      "[OSEN=고척, 길준영 기자] 프로야구 NC 다이노스 김주원(24)이 다시 한 번 태극마크를 달고 아시안게임 무대를 누빈다.",
-      "김주원은 지난 11일 서울 고척스카이돔에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 키움 히어로즈와의 경기 전 인터뷰에서 “또 한 번 나라의 부름을 받고 나라를 대표해서 나갈 수 있게 돼서 영광이다”라고 아시안게임 국가."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n9a3846c1",
-    "category": "IT",
-    "source": "테크M",
-    "time": "38분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152558",
-    "title": "\"제작비부터 AI 매니저까지\"...SOOP, 전방위 스트리머 상생 생태계 구축",
-    "summary": [
-      "SOOP은 12일 신규 방송인들의 진입 장벽을 낮추고 기존 창작자들의 성장을 돕기 위해 전방위적인 지원책을 가동한다고 밝혔습니다.SOOP은 방송 장비와 기술 지원 영역부터 고액의 콘텐츠 제작비 지원, 나아가 인공지능(AI) 기술을 접목한 방송 관리 시스템까지 구축해 스트리머가 플랫폼과 함께 하나의 브랜드로 성장할 수 있도록 미디어 생태계를 만들겠다는 구상입니다.장비 교환부터 1000만원 제작비까지...단계별 성장 사다리 구축SOOP은 방송 초기."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n32dd818b",
-    "category": "IT",
-    "source": "테크M",
-    "time": "40분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152559",
-    "title": "엑스포넨트, 600억원 규모 시리즈A 투자 유치...韓 기업 금융 지원 본격화",
-    "summary": [
-      "한국계 미국인 창업가 팀 황 의장이 이끄는 컴퍼니 빌더 '인어그레이션 그룹'이 계열사를 통해 한국 시장 공략에 나선다.",
-      "AI 기반의 금융과 의료, IT 인프라 전반의 혁신을 추진한다는 전략이다.",
-      "인어그레이션 그룹은 AI 프랜차이즈 통합 금융 플랫폼 '엑스포넨트'이 지난달 609억원 규모의 시리즈 A 투자를 유치했다고 11일 밝혔다.이번 투자에는 대만 최대 캐피털사인 '차일리스'의 안드레 쿠 회장을 비롯해 차일리스 법인, 에라펀드, K8 캐피털."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc21f5af2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "41분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/12/HFTGKYJVGRRGMNRVGZRGENRTGE/",
-    "title": "\"LG랑 할 땐 그전에 승부 내야지\" 158㎞ 괴물 외인 상륙에 이강철 감독이 안도한 '두 가지 이유'",
-    "summary": [
-      "[수원=스포츠조선 정현석 기자]LG 트윈스가 발 빠르게 영입한 대체 외국인 투수.",
-      "지난 10일 잠실 SSG 랜더스전에 첫 선을 보인 약셀 리오스는 최고 158㎞의 포심과 투심 패스트볼, 149㎞ 광속 포크볼을 거침 없이 뿌리며 잠실 LG 팬들의 탄성을 자아냈다.",
-      "타자가 대처하기 힘들다는 155㎞ 이상을 꾸준히 던질 수 있는 '괴물 외인 투수."
+      "[속보]이란 파르스통신, \"美가 이란 제안 수락\"...협상타결 초읽기."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncd8d9881",
+    "id": "nf4d517a3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "44분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666300",
-    "title": "트럼프 \"'이란 최고지도자급 승인'에 폭격 취소\"…MOU 타결된듯(종합)",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666302",
+    "title": "혁명수비대 측, 트럼프 발표에 의구심…\"MOU 승인 안 됐다\"",
     "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 이란과의 종전 양해각서(MOU) 합의 타결을 암시하며 예고했던 폭격 계획을 취소했다.",
-      "트럼프 대통령은 11일(현지 시간) 오후 1시28분께 소셜미디어 트루스소셜에 \"이란이슬람공화국과의 논의가 최고지도자급(highest level of Iranian leadership) 차원까지 올라가 승인됐다는 사실에 근거해, 나는 미국 대통령으로서 오늘 저녁 예정됐던 대(對)이란 공습 및 폭격을 취."
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 11일(현지 시간) '이란 최고지도자급 승인'을 언급하며 종전 양해각서(MOU) 타결을 암시했으나, 이란 이슬람혁명수비대(IRGC)는 트럼프 대통령 주장을 신뢰할 수 없다는 입장을 냈다.",
+      "CNN에 따르면 혁명수비대는 이날 트럼프 대통령 발표 직후 성명을 내고 \"이란 당국은 아직 트럼프 주장에 대한 공식 입장을 내지 않았지만, 이 보도는 트럼프가 모순되고 부정확한 발언을 반복적으로 해왔."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n5d410d6a",
-    "category": "IT",
-    "source": "테크M",
-    "time": "57분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152555",
-    "title": "샘 올트먼, 판교 이어 정자까지...네이버·카카오 만난다",
-    "summary": [
-      "오는 14일 한국을 찾는 샘 올트먼 오픈AI 최고경영자(CEO)가 국내 대표 플랫폼 기업 네이버와 카카오를 연달아 만난다.",
-      "양사 모두 인공지능(AI) 서비스 확장에 드라이브를 거는 가운데 글로벌 AI 시장을 이끄는 샘 올트먼 CEO라 직접 만나 협력 방안을 논의할 것으로 보인다.",
-      "11일 업계에 따르면 오는 15일 샘 올트먼 오픈AI CEO가 정자에 위치한 네이버 1784 사옥과 판교 카카오 아지트를 찾을 예정이다."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버",
-      "#카카오"
-    ]
-  },
-  {
-    "id": "nbef7fa88",
+    "id": "n323185ea",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666298",
-    "title": "트럼프 \"'이란 최고위급 승인'에 오늘 폭격 취소\"…MOU 타결됐나",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003664766",
+    "title": "\"경찰, 좋은 신랑감인데\"…부모 교제 반대에 속상한 딸",
     "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 이란과의 종전 양해각서(MOU) 합의 타결을 암시하며 예고했던 폭격 계획을 취소했다.",
-      "트럼프 대통령은 11일(현지 시간) 오후 1시28분께 소셜미디어 트루스소셜에 \"이란이슬람공화국과의 논의가 최고지도자급(highest level of Iranian leadership) 차원까지 올라가 승인됐다는 사실에 근거해, 나는 미국 대통령으로서 오늘 저녁 예정됐던 대(對)이란 공습 및 폭격을 취."
+      "[서울=뉴시스]박윤서 인턴 기자 = ' 자녀의 연인의 직업이 경찰이라는 이유로 부모님이 교제를 반대해 고민이라는 여성이 속사정을 털어놨다.",
+      "지난 8일 한 온라인 커뮤니티에는 부모님이 연인과의 교제를 극심하게 반대한다는 여성 A씨의 사연이 전해졌다.",
+      "A씨는 \"부모님이 누군지 보지도 않고 경찰이라는 직업을 가졌다는 이유로 극심하게 반대하신다\"고 운을 띄웠다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n956c3e16",
+    "id": "nf88d6842",
     "category": "사회",
     "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/international/us/2026/06/12/XIAZWWMW4NGAXGIQA3A5ZICG5A/",
-    "title": "[속보] 트럼프 “종전 서명식 일시와 장소 곧 발표”",
+    "time": "50분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/12/EWTLXYQ7UZHKZH6K3YJZLI5TGE/",
+    "title": "무경력자 논란에…트럼프, 美 정보수장 인선 9일 만에 선회",
     "summary": [
-      "[속보] 트럼프 “종전 서명식 일시와 장소 곧 발표”."
+      "무경력자 논란에…트럼프, 美 정보수장 인선 9일 만에 선회."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nfd569f2d",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026061118111",
-    "title": "LG엔솔, 中 신왕다와 특허 분쟁서 승리",
-    "summary": [
-      "LG엔솔, 中 신왕다와 특허 분쟁서 승리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd767740f",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260611/134095496/2",
-    "title": "이번엔 샘 올트먼, 삼성전자-네이버-카카오 찾는다",
-    "summary": [
-      "샘 올트먼 오픈AI 최고경영자(CEO)가 방한해 삼성전자, 네이버, 카카오 경영진을 잇달아 만난다.",
-      "5∼8일 한국을 다녀간 젠슨 황 엔비디아 CEO에 이어 일주일 새 글로벌 인공지능(AI) 산업의 또 다른 거물이 한국을 찾는 것이다.",
-      "업계에서는 AI 반도체 공급망의 핵심으로 부상한 한국의 위상을 보여주는 것이란 평가와 함께 소프트웨어와 하드웨어를 아우르는 전방위 협력 논의가 오갈 것이라는 기대가 나온다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n7edbbfa5",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260611/134095494/2",
-    "title": "빚투에 가계대출 9.3조 폭증… 금융권 1년 9개월새 최고폭",
-    "summary": [
-      "지난달 금융권 가계대출이 1년 9개월 만에 가장 큰 폭으로 증가했다.",
-      "개인 투자자의 ‘빚투’(빚내서 투자)가 늘면서 대출이 급증한 것으로 보인다.",
-      "금융위원회·금융감독원이 11일 공개한 가계대출 동향에 따르면 지난달 금융권 전체 가계대출은 9조3000억 원 증가해 전월(+3조5000억 원)보다 증가 폭이 두 배 넘게 확대됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n51f2058c",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260611/134095480/2",
-    "title": "삼성전자, 외부 생성형 AI 전면 도입 “일하는 방식 혁신”",
-    "summary": [
-      "삼성전자가 사내 업무에 외부 생성형 인공지능(AI) 서비스를 전면 도입하며 ‘일하는 방식 혁신’에 속도를 낸다.",
-      "11일 삼성전자에 따르면 디바이스경험(DX)부문은 12일부터 전 임직원을 대상으로 챗GPT(오픈AI), 제미나이 엔터프라이즈(구글), 클로드(앤스로픽) 등 생성형 AI 3종의 사내 사용을 공식 허용한다.",
-      "단일 서비스에 얽매이지 않고, 임직원이 개별 업무 특성과 목적에 맞춰 최적의 서비스를 골라 쓰게 했다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nd8f019dd",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260611/134095454/2",
-    "title": "치솟던 금값, 美 금리 인상 가능성에 고점대비 20% 넘게 ‘뚝’",
-    "summary": [
-      "자영업자 설민수 씨(46)는 올 1월 금값이 트로이온스(약 31.1g)당 5500달러(약 843만 원) 수준일 때 100g짜리 골드바 2개를 샀다.",
-      "귀금속 자산을 갖고 있으면 물가가 오를 때 손해를 막을 수 있다는 생각에서다.",
-      "하지만 금값이 최근 4000달러 초반까지 떨어지면서 손실이 커졌다."
-    ],
-    "chips": [
-      "#반도체",
-      "#금리"
-    ]
-  },
-  {
-    "id": "n5766ebf2",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/202606111852i",
-    "title": "\"AI 너무 비싸요\" 불붙은 경제성 논란...반도체는 \"정점 멀었다\" [빈난새의 개장전요것만]",
-    "summary": [
-      "\"AI 너무 비싸요\" 불붙은 경제성 논란...반도체는 \"정점 멀었다\" [빈난새의 개장전요것만]."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
     ]
   }
 ];
@@ -640,21 +624,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "반도체",
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
+  },
+  {
+    "rank": 2,
+    "tag": "정치",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
-    "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
-  },
-  {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
