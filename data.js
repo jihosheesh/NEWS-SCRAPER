@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-11 15:08:42
+// 마지막 업데이트: 2026-06-11 17:11:33
 window.NEWS_DB = [
   {
     "id": "n2af5a245",
     "category": "IT",
     "source": "디일렉",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQTlGZl9DeDFvZWczWnRQa1d6NjdWbUVUc0wzR2k2MWg4Z0oxRzN0MG01bkRWQ0FJV2RuQ1dxRXZ2cG9taEszSy14V2dxVTliR21INEp4M1ZLYlV0ZkktQ3hDVDkxdw?oc=5",
     "title": "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n31476ce7",
     "category": "IT",
     "source": "뉴시안",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZVzNvNjZhLTJ2VFVVb0pBSVhFbXg0WmRESnljcDNvdHB4UndyY3pzX3hqallibk9KdEFYMjdYZ0pxcnpqbzhJcUdWZ2tJTE1NQUxieTlrQW16c0ZYMGpFQWhmSkxpdGFPTXfSAW5BVV95cUxNSUN0dUl1YVpxb0R1NjJKU0tEd0doTHBwQzFBZVdWa2JlTEJGaGJWcFN1LURTeXd6OU42SE9saWhVQmZaUEJ2bnFZb3ozalh4QXg2SU9sYVh3U0NOazh0b3dRcmV5QXpOSmYxd2tqUQ?oc=5",
     "title": "SK, 엔비디아와 日에 ‘AI 팩토리’ 건설 추진…2028년 가동 목표",
     "summary": [
@@ -58,6 +58,20 @@ window.NEWS_DB = [
     "chips": [
       "#환율",
       "#수출"
+    ]
+  },
+  {
+    "id": "ne31b7243",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NVFMyMWd2VFlreGFHRGlYVjlFSnI1dWpIeUdQcWQwTDlvQ0tkQUFpSlh5SFFqcEhQX2tGV2J2aS1QMjltdnROdjNvZS1KOTZFZnE2ZUIxNkRvWllO?oc=5",
+    "title": "KBO-KBSA, 야구 국가대표팀 신규 BI 공개…대표팀 브랜드 가치 및 위상 높인다",
+    "summary": [
+      "KBO-KBSA, 야구 국가대표팀 신규 BI 공개…대표팀 브랜드 가치 및 위상 높인다 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -105,23 +119,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13b4af19",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
     "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
@@ -134,6 +131,21 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "nc9fe1ef0",
+    "category": "사회",
+    "source": "브런치",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UllYQlR3ck1kZTlFeDd5X0gtTHhkN2NMcU95T2VGbGpSOEZsWjdQZ3ZVVHEwS19fb1JvLS04SlBnQVd5Z2YxdU1nTQ?oc=5",
+    "title": "화성시 일자리 찾는다면, 일자리센터 채용정보 확인",
+    "summary": [
+      "화성시 일자리 찾는다면, 일자리센터 채용정보 확인 브런치."
+    ],
+    "chips": [
+      "#채용",
+      "#고용"
     ]
   },
   {
@@ -196,29 +208,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n5a1617c5",
+    "id": "n269e2609",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "v.daum.net",
     "time": "30일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
     ],
     "chips": [
       "#부동산",
@@ -238,20 +235,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "71일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -281,6 +264,21 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
+    ]
+  },
+  {
+    "id": "n1e3b72e2",
+    "category": "사회",
+    "source": "매일경제 마켓",
+    "time": "121일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
+    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
+    "summary": [
+      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -364,282 +362,292 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf96ff064",
-    "category": "경제",
+    "id": "n5ce34ace",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003664783",
-    "title": "\"불안한 시장, 해법은 맞춤형 자산 배분…손실폭을 한 자릿수로 막아야\"",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 최근 국내 주식 및 부동산 시장이 과열되면서 자산 가치 상승에 대한 기대감과 동시에 시장 조정에 대한 불안감도 동반하는 상황에 '자산 배분'이 최선의 해결책이라는 전문가 조언이 나왔다.",
-      "지난 10일 홍춘욱 박사는 자신의 38만 구독자 유튜브 채널 '홍춘욱의 경제강의노트'에서 금융위기 유형에 따른 맞춤형 자산 배분 전략을 세워야 한다고 말했다.",
-      "그는 먼저 국내 주력 수출 제품의 단가 급락으로 나타나는 국내 발."
-    ],
-    "chips": [
-      "#부동산",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n5a63495e",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665970",
-    "title": "골드만삭스 “AI 투자, 시장 예상보다 훨씬 크다”…최대 1.4조달러",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 인공지능(AI) 관련 투자 확대가 당초 시장 예상보다 훨씬 큰 규모로 이어질 수 있다는 분석이 나왔다.",
-      "AI 인프라 투자가 장기간 높은 수준을 유지하면서 반도체와 데이터센터 등 관련 산업 전반의 성장 동력이 지속될 것이라는 전망이다.",
-      "11일(현지 시간) 비즈니스인사이더에 따르면 투자은행 골드만삭스는 이날 보고서를 통해 “AI 투자 사이클에 대한 시장의 전망은 여전히 보수적”이라며 \"하이퍼스케일러들이 시장 예상보다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "naf608a66",
-    "category": "스포츠",
-    "source": "조선일보",
     "time": "4분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/11/MNSTGYZQGNRWINZQHA3DMYJZGE/",
-    "title": "'황당 주장 나왔다' 언제 이런 일 있었나…'韓 손흥민 선발 출전에 대한 논쟁 벌어지고 있다' 英 '충격' 시선",
+    "url": "https://www.newsis.com/view/NISX20260611_0003664777",
+    "title": "\"체한 줄 알았는데 심근경색\"…응급실 전문의가 말하는 '혈관의 경고'",
     "summary": [
-      "[스포츠조선 김가을 기자]손흥민(LA FC)에 대한 황당 주장이 터졌다.",
-      "영국 언론 더선은 11일(이하 한국시각) '대한민국은 월드컵을 앞두고 논란의 여지가 있는 보너스와 손흥민의 선발 출전에 대한 논쟁이 벌어지고 있다'고 보도했다.",
-      "홍명보 대한민국 월드컵대표팀 감독이 이끄는 대한민국 축구대표팀은 12일 오전 11시(이하 한국시각) 멕시코 과달라하라의 에스."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n0fdf6b7c",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665825",
-    "title": "\"반도체 폭락장은 주도주 편입 기회…美 빅테크 기업 AI 투자 안 줄인다\"",
-    "summary": [
-      "[서울=뉴시스]김수빈 인턴 기자 = 글로벌 빅테크 기업들의 AI 투자 확대 움직임이 반도체 업황에 긍정적으로 작용할 수 있다는 분석이 나왔다.",
-      "염승환 LS증권 이사는 \"이번 강세장의 주인공은 AI와 반도체\"라며 \"폭락장은 주도주를 편입할 수 있는 기회\"라고 강조했다.",
-      "11일 구독자 85만명 이상을 보유한 유튜브 채널 '표영호 tv / 경제적 자유와 행복을 위하여'에는 '떨어질 때 쫄지 말고 모아라."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nf5297a36",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665468",
-    "title": "사유리가 50대 앞두고 고집하는 '의외의 루틴'… \"비싼 관리 필요 없다\"",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 방송인 사유리가 나이를 무색하게 만드는 탄탄한 몸매의 비결로 일상 속 단순한 이동 습관을 꼽아 화제를 모으고 있다.",
-      "지난 3일 사유리는 자신의 유튜브 채널 '사유리 임미다'에서 관리 비법에 대해 \"여타 연예인들과 비교해 피부과 시술 등에 크게 의존하는 편은 아니다\"라고 털어놨다.",
-      "이어 사유리는 \"자가용을 자주 이용하면 살이 빠지기 어렵다\"면서 \"버스나 지하철 같은 대중교통을 적극적으로 이용하는 것이 체중 감량."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n14e05b32",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na57fdebd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/06/12/WK5MPMYY4BGUZO7WX23TT26ZWY/",
-    "title": "[사설] 공동성명선 ‘北 비핵화’ 우리 발표선 삭제, 대체 왜 이러나",
-    "summary": [
-      "[사설] 공동성명선 ‘北 비핵화’ 우리 발표선 삭제, 대체 왜 이러나."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb6d3ce6e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611177500098",
-    "title": "스웨덴, 촉법소년 연령 13세로 하향 무산…14세로 재추진",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 범죄를 저질러도 형사 책임을 지지 않는 촉법소년의 나이를 현행 15세에서 13세로 낮추려던 스웨덴 정부의 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8d99cf9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260611/134097154/2",
-    "title": "‘참교육’ 김무열, 과거 생활고-군복무 눈길…“의가사 거절 후 만기전역”",
-    "summary": [
-      "넷플릭스 오리지널 시리즈 ‘참교육’의 흥행과 맞물려 주연 배우 김무열(44)의 과거 생활고와 군 복무 이력 등이 온라인상에서 다시 주목받고 있다.10일 김무열의 군 시절 옆 중대 동기라고 밝힌 한 누리꾼은 소셜네트워크서비스(SNS) 스레드에 “(김무열은) 당시 다리 부상으로 의가사 전역이 가능했다”며 “남은 군 생활을 안 해도 되고 연예계 활동을 준비할 시간을 벌 수 있었을 테니 전역하는 게 좋았을 것 같은데, 본인이 할 수 있는 업무로 남은."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n2aed5bf3",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611177400003",
-    "title": "한-이탈리아, AI·반도체 시너지 모색…통상환경 개선 논의도",
-    "summary": [
-      "(서울=연합뉴스) 장보인 기자 = 이재명 대통령의 이탈리아 방문을 계기로 양국이 산업·통상 분야의 전략적 파트너십을 더욱 강화해 나가기로 했다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#정치",
-      "#환경"
-    ]
-  },
-  {
-    "id": "na0f88926",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611177300081",
-    "title": "이스라엘, 프랑스 기자 입국 거부·추방…\"언론자유 저해\"",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 프랑스가 이스라엘 극우 장관의 입국을 금지한 지 하루 만에 이스라엘이 프랑스 기자의 입국을 금지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7314767",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/opinion/desk/2026/06/11/CXAUHFCVNZCUNOJEDPQCSMYRNM/",
-    "title": "[데스크에서] 젠슨 황의 칭찬에 취할 때인가",
-    "summary": [
-      "[데스크에서] 젠슨 황의 칭찬에 취할 때인가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1550a4fe",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "32분 전",
-    "url": "https://view.asiae.co.kr/article/2026061123350388096",
-    "title": "창원 귀산동 주택 화재, 산불로 번져 … 80대 남성 국소 화상",
-    "summary": [
-      "11일 오후 1시 7분께 경남 창원시 성산구 귀산동의 한 주택에서 불이 났다.",
-      "불이 주택 뒤쪽 인근 야산으로 옮겨붙으면서 산불로 번졌다.",
-      "이 불로 해당 주택에 사는 80대 남성 A 씨가 왼쪽 손등 국소 부위에 2도 화상을 입고 스스로 병원을 찾았다."
+      "[서울=뉴시스]허준희 인턴 기자 = 최근 응급실에 식은땀을 흘리며 가슴을 움켜쥐고 실려 오는 젊은 환자가 늘고 있는 가운데, 전문가는 이들의 주된 원인이 단순히 지방 섭취의 문제가 아니라 대사 균형이 깨져 발생한 고지혈증에 있다고 진단했다.",
+      "지난 9일 구독자 100만명을 보유한 유튜브 채널 '책과삶'에는 여의도 성모병원 응급의학과 최석재 교수가 출연해 \"예전과 달리 요즘은 30대 후반 환자만 와도 '또 심근경색이구나' 생각이 들 정도로 연령이."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n4d1a8716",
+    "id": "nb0cf7114",
     "category": "사회",
-    "source": "조선일보",
-    "time": "37분 전",
-    "url": "https://www.chosun.com/opinion/cafe_2040/2026/06/11/AVCI2HNASBHBDL5WLGJJPUZMAE/",
-    "title": "‘여자친구’처럼... ‘중소돌의 기적’이 시작된 소녀들",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666294",
+    "title": "美 무역수장, '한일-中 동일관세는 부당' WP 사설에 직접 항의",
     "summary": [
-      "‘여자친구’처럼... ‘중소돌의 기적’이 시작된 소녀들."
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부가 강제노동 상품 수입 금지 미흡을 이유로 부과를 예고한 관세를 중국과 한국·일본 등 동맹국에 똑같이 매긴 것은 부당하다는 언론 지적에 대해 무역 당국이 직접적으로 항의했다.",
+      "미국 무역대표부(USTR) 홈페이지에 따르면 제이미슨 그리어 USTR 대표는 지난 10일(현지 시간) 워싱턴포스트(WP) 논설실에 보낸 서한을 통해 \"WP의 반대는 명백히 대통령에 대한 반감에서 비롯된 것\"이라고 주."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc760f24c",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611072100017",
+    "title": "한국·이탈리아, AI반도체·바이오 협력 확대 논의",
+    "summary": [
+      "(서울=연합뉴스) 조승한 기자 = 과학기술정보통신부는 11일(현지시간) 이탈리아 로마에서 이탈리아 외교국제협력부(MAECI)와 '제13차 한-이..."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n9677d490",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/future/2026/06/12/2026060109400088442",
+    "title": "中 휴머노이드, 전기차 성공 방정식 다시 쓰나[China story/정유신]",
+    "summary": [
+      "중국 로봇시장 지난 3년간 3.9배로 성장 정부 핀셋 지원,제조업과 AI경쟁력 덕분 두뇌에 강점 많은 미국과 경쟁 결과 주목 현재 인공지능(AI) 경쟁은 대형언어모델(LLM), 반도체에 이어 AI 에이전트 경쟁으로 빠르게 확대되고 있다.",
+      "전문가들은 AI의 최종 승부는 AI 에이전트(두뇌)를 장착한 휴머노이드 로봇이 각 산업 현장에서 제품을 생산할 때, 판가름 날 거라고 한다.",
+      "중국 휴머노이드 로봇 산업은 현재 어디까지 왔는지 간단히 살펴보자."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n5f0fd034",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/tech/2026/06/12/2026061110131239872",
+    "title": "과기정통부, 로마에서 '한-이탈리아 과학기술공동위원회' 개최",
+    "summary": [
+      "과학기술정보통신부(과기정통부)는 11일 이탈리아 로마에서 이탈리아 외교국제협력부(MAECI)와 공동으로 '제13차 한-이탈리아 과학기술공동위원회'를 개최했다고 밝혔다.",
+      "한-이탈리아 과학기술공동위(이하 '공동위')는 1984년 체결된 양국 과학기술 협력 협정에 따라 개최되는 정부 간 공식 협의체다.",
+      "이번 공동위는 2021년 코로나로 인해 화상회의로 개최됐던 제12차 회의 이후 5년 만에 개최된 회의이자, 2017년 제11차 회의 이후 9년 만에."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf473498d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "38분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260611/134096603/2",
-    "title": "[사설]“법정 정년 2037년까지 65세로”… 청년 채용 위축 없어야",
+    "id": "n557cf985",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/06/12/2026061109264758307",
+    "title": "토큰증권, 소문난 잔치가 되려면[투데이 窓/소윤권]",
     "summary": [
-      "더불어민주당 정년연장특별위원회가 현재 60세인 법정 정년을 2037년까지 65세로 단계적으로 늘리는 방향의 중재안을 제시했다.",
-      "6·3 지방선거가 끝나면서 그동안 답보 상태였던 정년 연장 논의에 재시동을 건 것이다.",
-      "특위는 노동계와 재계 등 각계의 의견을 수렴해 이르면 이달 말 최종 중재안을 내놓고 입법화에 나설 계획이라고 한다."
+      "소규모 토큰에도 기업공개 준하는 규제 규모 비해 큰 비용 발생하면 시장 위축 주식·벤처지분 등 투자영역 다양해져야 STO(Security Token Offering) 제도의 본격 시행이 예정된 2027년 1월이 점차 다가오고 있다.",
+      "토큰증권 관련 자본시장법과 전자증권법 개정안이 통과된 이후, 세부 시행령 마련 작업이 본격화되면서 시장의 관심과 기대 또한 빠르게 커지고 있다.",
+      "부동산 수익권, 음악 저작권, 미술품, 선박, 탄소배출권, 재생에너지."
     ],
     "chips": [
-      "#채용",
+      "#부동산",
+      "#스타트업",
+      "#정책",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nf9deb9a9",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003666238",
+    "title": "\"9년 만에 마주 앉았다\"…한-이탈리아, AI·기후·바이오 연구 협력 강화",
+    "summary": [
+      "[서울=뉴시스]윤현성 기자 = 한국과 이탈리아가 글로벌 기술 패권 경쟁과 기후 위기 등 전 지구적 난제에 공동 대응하기 위해 머리를 맞댔다.",
+      "양국 정부는 인공지능(AI), 기후변화, 바이오 등 3대 차세대 첨단 과학기술 분야를 중심으로 미래지향적 협력 관계를 대폭 강화하기로 뜻을 모았다.",
+      "과학기술정보통신부는 11일(현지시간) 이탈리아 로마에서 이탈리아 외교국제협력부(MAECI)와 공동으로 '제13차 한-이탈리아 과학기술공동위원회'를 개최했다고."
+    ],
+    "chips": [
+      "#AI",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n329a04f7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/12/MFSTCMRRGEYWEYJVGE2GMYRRGA/",
+    "title": "'월드 클래스' 손흥민 위상, 그 옆에 반 다이크, 비니시우스, 야말, 벨링엄, 라이스…북중미월드컵 개막, 아시아 유일 '단골' 메인",
+    "summary": [
+      "[스포츠조선 김성원 기자]총성 없는 축구 전쟁이 4년 만에 다시 막이 오른다.",
+      "2026년 북중미월드컵이 12일 오전 4시(이하 한국시각) 멕시코의 수도 멕시코시티 스타디움에서 개최국 멕시코와 남아공의 개막전을 시작으로 열전에 돌입한다.",
+      "전세계가 흥분에 빠져들 준비를 하고 있다."
+    ],
+    "chips": [
+      "#전세",
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n94d5b98c",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612002400091",
+    "title": "\"삼성, 구글 차세대 AI칩 일부 생산 맡는다…2나노 수주 유력\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 삼성전자가 구글의 차세대 인공지능(AI) 칩 생산 일부를 맡게 될 전망이다."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "ndb9287c9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/12/GEZDQMJYME3GCMTEGBSDCYJVMU/",
+    "title": "\"가만히 있을 수 없었다\" '파격 라인업' 승부수, 멋지게 통했다...3연패 탈출 사령탑 \"김지찬 선제타가 정말 컸다\"",
+    "summary": [
+      "[수원=스포츠조선 정현석 기자]삼성 라이온즈가 침체된 분위기를 쇄신하기 위해 고심 끝 꺼내 든 '파격 라인업'.",
+      "삼성은 호투를 펼친 선발 잭 오러클린의 활약과 야수진의 공수 집중력을 앞세워 3연패 사슬을 끊어냈다.",
+      "삼성은 11일 수원 KT위즈파크에서 열린 KT 위즈와의 원정 경기에서 장단 12안타를 몰아치며 8대1 대승을 거뒀다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4613de4d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612002000001",
+    "title": "李대통령, 14일 伊 현지서 '화상 수보회의'…투표용지 사태 논의",
+    "summary": [
+      "(로마=연합뉴스) 임형섭 고동욱 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 14일(현지시간) 오후 2시 순방지인 이탈리아 현지에서 화상..."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "necfaeaac",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "41분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260611/134096607/2",
-    "title": "[사설]환율 불안 속 3500억$ 대미 투자 임박… 美 통화스와프 결단을",
-    "summary": [
-      "지난해 한미 정상이 합의한 3500억 달러 규모의 대미 투자 이행을 위한 ‘대미투자특별법’이 18일 시행된다.",
-      "한미전략투자공사도 출범한다.",
-      "이에 앞서 미국 워싱턴에서 재정경제부와 미 재무부 고위 당국자가 만난다고 한다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n2770c02a",
+    "id": "n26de1546",
     "category": "사회",
-    "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260611/134096605/2",
-    "title": "[사설]민심의 경고 인정한다면서 집안싸움만 요란한 與",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666289",
+    "title": "李 만난 이탈리아 하원의장 \"뷰티·드라마 등 韓 문화에 매료\"",
     "summary": [
-      "더불어민주당이 11일 비공개로 연 의원총회에선 6·3 지방선거 책임론을 둘러싸고 정청래 대표의 사퇴를 요구하는 의견이 쏟아져 나왔다고 한다.",
-      "정 대표는 모두 발언에서 “첫째도 단결, 둘째도 단결, 셋째도 단결”이라고 강조했지만, 지방선거에서 예상보다 부진했던 원인과 공천·경선 관리에 대한 의원들의 거센 비판이 이어졌다.",
-      "일부 의원들은 “정부의 성공과 신뢰 회복을 위해선 속히 물러나야 한다”며 정 대표 면전에서 대표직 사퇴를 요구했다."
+      "[로마=뉴시스] 김지은 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 11일(현지시간) 오후 로렌초 폰타나 하원의장을 면담했다고 강유정 청와대 수석대변인이 서면 브리핑에서 전했다.",
+      "이 대통령은 한국과의 의회 외교를 심화해 양국 국민이 체감할 수 있는 협력이 더 확대될 수 있도록 지원해 줄 것과 이탈리아 내 우리 재외동포에 대해 각별한 관심을 둘 것을 당부했다.",
+      "폰타나 의장은 \"평소 한국에 대해 많은 관심을 갖고 있었다\"면서 \"한국 의회를."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n9e0008ec",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611171153082",
-    "title": "ECB, 3년만에 금리 인상…이란전쟁 후 주요국 중 처음(종합2보)",
+    "id": "n67337652",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/12/GA2DONBZHE2DKZJQGAZDKOJTMQ/",
+    "title": "“군필·미필 떠나 모두 같은 마음으로” 고심 끝에 나온 AG 대표팀, 10개 구단 희비 엇갈리다",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 유럽중앙은행(ECB)이 11일(현지시간) 중동발 인플레이션 우려에 3대 정책금리를 0.25％포인트(p)씩 ..."
+      "[OSEN=명동, 길준영 기자] 한국 야구 대표팀 류지현 감독이 ‘2026 아이치·나고야 아시안게임’에서 어린 선수들의 동기부여와 경험 많은 선수들의 시너지 효과를 기대했다.",
+      "류지현 감독은 11일 서울 중구 명동 프레스센터에서 ‘2026 아시안게임 대표팀 명단 발표 기자회견’에서 “아시안게임은 금메달을 목표로 하고 있는 대회다.",
+      "금메달을 따지 못하면 의미가."
     ],
     "chips": [
-      "#금리",
-      "#정책"
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n56127140",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612001900001",
+    "title": "伊 '국빈 방문' 李대통령에 훈장 수여…靑 \"최고수준 예우 표명\"",
+    "summary": [
+      "(로마=연합뉴스) 임형섭 고동욱 기자 = 유럽 순방 중인 이재명 대통령이 11일(현지시간) 이탈리아 정부로부터 훈장을 받는다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0151b6f5",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "43분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/12/2026061201264431224",
+    "title": "이재명 대통령, 伊 하원의장 면담…\"재외동포 관심 가져달라\" 당부",
+    "summary": [
+      "[the300] 이탈리아를 국빈방문 중인 이재명 대통령이 로렌초 폰타나 이탈리아 하원의장을 만나 우리 재외동포들에 대해 각별한 관심을 가져줄 것을 당부했다.",
+      "강유정 청와대 수석대변인은 11일(현지시간) 서면브리핑을 통해 \"이 대통령은 한국과의 의회 외교를 심화해 양국 국민이 체감할 수 있는 협력이 더욱 확대될 수 있도록 지원해 줄 것을 당부했다\"며 이같이 밝혔다.",
+      "강 수석대변인은 \"폰타나 하원의장은 평소 한국에 대해 많은 관심을 갖고 있었다고."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfd569f2d",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026061118111",
+    "title": "LG엔솔, 中 신왕다와 특허 분쟁서 승리",
+    "summary": [
+      "LG엔솔, 中 신왕다와 특허 분쟁서 승리."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd767740f",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260611/134095496/2",
+    "title": "이번엔 샘 올트먼, 삼성전자-네이버-카카오 찾는다",
+    "summary": [
+      "샘 올트먼 오픈AI 최고경영자(CEO)가 방한해 삼성전자, 네이버, 카카오 경영진을 잇달아 만난다.",
+      "5∼8일 한국을 다녀간 젠슨 황 엔비디아 CEO에 이어 일주일 새 글로벌 인공지능(AI) 산업의 또 다른 거물이 한국을 찾는 것이다.",
+      "업계에서는 AI 반도체 공급망의 핵심으로 부상한 한국의 위상을 보여주는 것이란 평가와 함께 소프트웨어와 하드웨어를 아우르는 전방위 협력 논의가 오갈 것이라는 기대가 나온다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n7edbbfa5",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260611/134095494/2",
+    "title": "빚투에 가계대출 9.3조 폭증… 금융권 1년 9개월새 최고폭",
+    "summary": [
+      "지난달 금융권 가계대출이 1년 9개월 만에 가장 큰 폭으로 증가했다.",
+      "개인 투자자의 ‘빚투’(빚내서 투자)가 늘면서 대출이 급증한 것으로 보인다.",
+      "금융위원회·금융감독원이 11일 공개한 가계대출 동향에 따르면 지난달 금융권 전체 가계대출은 9조3000억 원 증가해 전월(+3조5000억 원)보다 증가 폭이 두 배 넘게 확대됐다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -648,21 +656,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1810건",
     "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
