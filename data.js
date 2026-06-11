@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-10 23:30:03
+// 마지막 업데이트: 2026-06-11 00:33:54
 window.NEWS_DB = [
   {
     "id": "n27c4fee3",
     "category": "IT",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRnZ4QkptSWR2eGZROE9Zb053aWF6ZzF2NW1fYXBDWTBVVXdWekRFSVM1bUpDcFdPSXJSYVBveFNfbmVVbVlWUnVsZU5CZEhmT2dKbFFGN21OZ9IBVEFVX3lxTE9rWlQyUjBLTy1tU283VkpaMXFoZ3o3VmV4a3BFVGhzZzQ5c3ExY0daUU4zYVM0cGFxYlN5UE5QR0VrT3huclktd2xuSG5UYmItQUpXbQ?oc=5",
     "title": "최태원 \"日에 AI 데이터센터 구축…엔비디아와 협력, 반도체 공장도 검토\"",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n210bd08e",
     "category": "IT",
     "source": "뉴스1",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCT2N4Mm5vb2xJbGNoQVpOQUFJbC1xNTJxMlBvOWk2bkRuWHRubVg0WHRQejJGYVJRcmZhZFJxUWJPcDZjWDBHcUlaVVJ1NU5xc2lrbWZUMDBTdEh0WGxhdUVTMlpvYjg?oc=5",
     "title": "미국 AI 반도체 또 흔들…엔비디아·AMD·브로드컴 일제히 하락",
     "summary": [
@@ -34,11 +34,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n12ca2e79",
+    "id": "nc2a0e162",
     "category": "스포츠",
     "source": "네이트",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RVUdVaG5CeDlZQ2I1SmFLZDFtVUpjMC0wQmhXZm9xNm53Sms2OFJ4Y2JISHVyN1hSOWtLMl80TFcwY04tc25wTjlRdTB6RnFrdU9MUjJ3NnEtMDVQSl8tRTByc3dLYjFiZEV6bk9yMmsxdW05QTBYRw?oc=5",
     "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
     "summary": [
       "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계 네이트."
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n29e241b7",
     "category": "IT",
     "source": "더퍼블릭",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HbUNjbUI0Y3FhdUhxQVcyc3dyb1Q4cS1aYUpFZWJDWXlTWml5RWhXUUlqcjZBeHlndExVcWNPSzVXN09kcFpwRUhzMU5CRm43VGVaaHBSWTBxLWh5QVhnU3B4TmVmYlJpc1BB?oc=5",
     "title": "\"빅테크는 산타 아냐\" 젠슨 황의 'AI 반도체 선물'에 남겨진 숙제",
     "summary": [
@@ -63,14 +63,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nee8dec91",
+    "id": "n312f5e49",
     "category": "스포츠",
     "source": "네이트",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ON0tzc0hGMm1iZnJNSDZPOWVVRVkyRW9MWXU3ckFPNnE4RXBSa2VOMzlULXdiU3htX2Q4Wk9yZ3cySUdHVk5XRlZveTMzeFVYREo1VE5DblZndlo5?oc=5",
-    "title": "KBO 사무국, 아시안게임 야구 대표팀 명단 발표 생중계",
+    "time": "17시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85eEFQZWFQeExEU0UtTFZLWGo4WDhGVGRpbWt3LTlmNzNLb3o4SUZ3UGl2WTB5SmhMSEZUVDdEQm53Q01JaXBIYjFOVHlJb2VLRjNBcU5JbEVTRkRna0Zlcg?oc=5",
+    "title": "KBO, 아시안게임 야구 대표팀 최종 명단 유튜브 생중계 공개",
     "summary": [
-      "KBO 사무국, 아시안게임 야구 대표팀 명단 발표 생중계 네이트."
+      "KBO, 아시안게임 야구 대표팀 최종 명단 유튜브 생중계 공개 네이트."
     ],
     "chips": [
       "#KBO"
@@ -80,7 +80,7 @@ window.NEWS_DB = [
     "id": "nd2f59220",
     "category": "IT",
     "source": "데일리안",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRzlrQzNzOElYcWVwRHFmaG1oY1RwWWllaXhPNzVlLUJmV3FlRE9HX2NjZkwwRmVuQXNtaU5vMTd2N3ZsTVBJa3J6OXBlLVdUdlpVdHFQbWp3MjFtRkFlcVNYVHFrQWNsYk0zSDJJU1paTkljSlA0bEVScktTbGxOYzMwQWM3TWoydjgtc0hFY25jeUhubFQzQXlWd244ZjlKLWoxdWhtdEt3d3dMMDFvbHRoWm80dUdsQUNpNmJtLW5INU1NdF9rdU5ZdXFUS2tweE1CTUtJdEtrYjY5bHhGeWhRWUt3MlpOLTZ0RjhmdmZlay1paldrVE9Gb9IB-wFBVV95cUxNRzlrQzNzOElYcWVwRHFmaG1oY1RwWWllaXhPNzVlLUJmV3FlRE9HX2NjZkwwRmVuQXNtaU5vMTd2N3ZsTVBJa3J6OXBlLVdUdlpVdHFQbWp3MjFtRkFlcVNYVHFrQWNsYk0zSDJJU1paTkljSlA0bEVScktTbGxOYzMwQWM3TWoydjgtc0hFY25jeUhubFQzQXlWd244ZjlKLWoxdWhtdEt3d3dMMDFvbHRoWm80dUdsQUNpNmJtLW5INU1NdF9rdU5ZdXFUS2tweE1CTUtJdEtrYjY5bHhGeWhRWUt3MlpOLTZ0RjhmdmZlay1paldrVE9Gbw?oc=5",
     "title": "HBM 공급전서 맞춤형 개발로…삼성·SK, 엔비디아 협력 주목",
     "summary": [
@@ -121,6 +121,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na542b62c",
+    "category": "IT",
+    "source": "디일렉",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SaDI5bE9sZnh1SThySXR6c3FONU1OdExTelJLS1JMdzZ5Vk1KcDZwYjVmcEdwUHI4LUZEREVzZDdEU0ljcmgwRjg0b3JQQmszMHptOEdrQTFUWEFqRW5mOGUyYWR1UQ?oc=5",
+    "title": "젠슨 황 만난 전영현 삼성전자 부회장 \"HBM4·파운드리 등 협력\"",
+    "summary": [
+      "젠슨 황 만난 전영현 삼성전자 부회장 \"HBM4·파운드리 등 협력\" 디일렉."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
@@ -133,21 +148,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "nd8354e7f",
-    "category": "IT",
-    "source": "시사저널e",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXfSAXZBVV95cUxPdkx4dzBQTlREMUxrNlowdUFzRHN1UVB4aXVvX19OVUZSNWM3UU9Nb3Vnakszblc5enB2cVdJX2o4bEVjR2lqQmt6WFJvbEhtZHZDaDNQNk9pcHNMMFRvcU5Jb2ptZG5ST3FRZ0dybjNidWE0NTF3?oc=5",
-    "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
-    "summary": [
-      "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까 시사저널e."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
     ]
   },
   {
@@ -345,294 +345,304 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n770ac35e",
-    "category": "IT",
+    "id": "nbb7834ea",
+    "category": "경제",
     "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026061108283015762",
-    "title": "삼성전자, '비스포크 AI 스팀' 실속형 모델 출시…'K로청' 대중화 박차",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061109251639130",
+    "title": "명목 GDP 급성장에…1분기 가계부채비율 85% 진입 초읽기",
     "summary": [
-      "삼성전자가 가전 시장의 로봇청소기 주도권 확보를 위해 프리미엄 기능에 가격 경쟁력을 더한 실속형 라인업을 새로 선보인다.",
-      "삼성전자는 기존 최고급형인 '비스포크 AI 스팀 울트라'와 '플러스'에 이어 일반형 모델을 추가 출시하며 소비자들의 진입 장벽을 낮추고 선택의 폭을 넓혔다고 11일 밝혔다.",
-      "이번에 출시된 신제품은 기존 상위 라인업이 자랑하는 핵심 청소 제어 시스템을 고스란히 계승하면서도 단가를 낮춘 것이 특징."
+      "반도체 호황에 힘입어 올해 1분기 명목 국내총생산(GDP)이 급성장하면서 이를 분모로 둔 가계부채비율도 가파르게 하락할 전망이다.",
+      "신현송 한국은행 총재가 언급한 임계치 수준에 올 1분기 진입할 가능성도 커졌다.",
+      "현재의 경기 상황과 가계부채 규제가 지속될 경우 정부가 2030년까지 낮추겠다고 한 목표치 80%도 올해 말 조기 달성할 것으로 보인다."
     ],
     "chips": [
-      "#AI",
-      "#삼성전자"
+      "#반도체",
+      "#한은",
+      "#정책"
     ]
   },
   {
-    "id": "n6bf21969",
+    "id": "n62eadd51",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061109324208450",
+    "title": "본작, 중기부·로레알 협업 '2026 로레알 빅뱅' 선정",
+    "summary": [
+      "본작은 '2026 로레알 빅뱅'에 선정됐다고 10일 밝혔다.",
+      "이는 중소벤처기업부와 창업진흥원이 공동 운영하는 글로벌 기업 협업 프로그램 '어라운드X'의 일환이다.",
+      "로레알 빅뱅은 뷰티 산업에 적용 가능한 혁신 기술을 보유한 스타트업을 발굴하는 로레알 그룹의 북아시아 오픈이노베이션 프로그램이다."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n2abaf6e2",
     "category": "경제",
     "source": "아시아경제",
     "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026061108280111256",
-    "title": "이란 \"호르무즈 전면 폐쇄\"…선박 2척에 발포(상보)",
+    "url": "https://view.asiae.co.kr/article/2026061109034305198",
+    "title": "농심, 성수에 국내 첫 '신라면 분식'…11월까지 운영",
     "summary": [
-      "이란이 10일(현지시간) 미국의 공습에 대한 대응조치로 호르무즈 해협을 완전히 폐쇄한다고 밝혔다.",
-      "이란군은 해협 통과를 시도하는 모든 선박을 공격하겠다 선언했으며 2척의 선박이 피격된 것으로 알려졌다.",
-      "이란군을 통합 지휘하는 하탐 알안비야 중앙군사본부는 이날 국영매체를 통해 공개한 성명을 통해 \"호르무즈 해협을 전면 폐쇄하고 유조선과 상선을 포함한 모든 선박의 통항을 금지한다\"며 \"해협 통과를 시도하는 모든."
+      "농심은 오는 16일 서울 성동구 성수동에 위치한 스테이지 엑스 성수 52에 '신라면 분식'을 정식 개장한다고 11일 밝혔다.",
+      "운영 기간은 오는 11월 말까지 약 6개월이다.",
+      "신라면 분식은 농심이 해외 주요 국가에서 운영해온 신라면 브랜드 체험 공간으로, 국내에서는 처음 선보이는 매장이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n72838185",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003664743",
-    "title": "화성산업진흥원, 산업안전 실무자 네트워크 구성",
-    "summary": [
-      "[화성=뉴시스] 문영호 기자 = 경기 화성시 산업안전 분야 실무자들이 네트워크를 만들고 산업재해 예방에 나선다.",
-      "화성산업진흥원은 16일 '화성시 산업안전 실무자 네트워크' 첫 간담회를 개최하고 산업안전보건 실무자 간 상시협력체계를 구축한다고 11일 밝혔다.",
-      "화성시 산업안전 실무자 네트워크는 사업장 안전관리 담당자, 산업안전 업무 종사자, 산업안전보건 관련 기관 관계자와 전문가 등이 참여하는 실무 중심 협의체다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "na2af1ce3",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061108264704636",
-    "title": "빗썸, AI 대화로 거래하는 AI 트레이드 킷 출시",
-    "summary": [
-      "빗썸이 생성형 인공지능(AI)을 통해 거래할 수 있는 서비스를 출시했다.",
-      "빗썸은 클로드·챗GPT·제미나이 등 생성형 AI와 대화로 손쉽게 거래할 수 있는 'AI 트레이드 킷' 서비스를 출시했다고 11일 밝혔다.",
-      "이 서비스는 이용자가 AI와 대화하며 빗썸 오픈 API를 통해 시세 조회부터 실제 거래 실행까지 한 번에 처리할 수 있는 서비스다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nd900fec3",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061108220650228",
-    "title": "[굿모닝 증시]\"코스피 하락 출발 예정\"…증시 불안 키우는 대내외 요소는",
-    "summary": [
-      "코스피가 대내외 불확실성으로 하락 출발할 전망이다.",
-      "미국의 기준금리 인상 가능성, 유가 상승 가능성, 스페이스X 기업공개(IPO)로 인한 차익 실현 움직임, 단일종목 레버리지의 선물·옵션 동시 만기에 따른 변동성 확대 가능성 등 불확실성이 커지면서다.",
-      "10일(현지시간) 미국 증시는 일제히 하락 마감했다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n9520833c",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/06/11/AOZP6LXZTBFP5NSLS7YO5ZBATI/",
-    "title": "최태원 “日에 AI 팩토리 구축…해외 반도체 공장도 검토”",
-    "summary": [
-      "최태원 “日에 AI 팩토리 구축…해외 반도체 공장도 검토”."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nfc3125a6",
+    "id": "n57ca9483",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003664654",
-    "title": "美 검찰, 2021년 정치적 이유 트럼프 계좌 폐쇄(디뱅킹) 여부 조사",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/11/2026061109235016694",
+    "title": "이란 \"트럼프 '직접 대화' 주장 '거짓'\"…\"바레인 美 제5함대 드론 공격\"",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 미국 검찰은 정치적인 이유로 2021년 도널드 트럼프 대통령 등의 은행 계좌를 폐쇄했는지를 조사하고 있다고 월스트리트저널(WSJ)이 10일 보도했다.",
-      "보도에 따르면 워싱턴 D.C.",
-      "연방 검찰청은 금융기관의 자산 매각 시도 혐의에 대한 조사의 일부로 JP모건, 뱅크오브아메리카 관계자들을 소환했다."
+      "[미국-이란 전쟁] 미국과 이란 간 교전이 10일(현지시간) 연일 이어진 가운데 도널드 트럼프 미국 대통령이 이란 당국자와 '직접' 대화했다고 밝혔다.",
+      "반면 이란 측은 이란 관리와 트럼프 대통령 간 접촉은 없었다며 \"허위 주장\"이라고 반박했다.",
+      "폭스뉴스의 트레이 잉스트 해외 특파원은 이날 SNS(소셜미디어) X를 통해 \"트럼프 대통령이 백악관 상황실에서 미군의 이란 공습을 지휘하고 있을 때 인터뷰를 진행했다\"며 \"그는 미군의 공습 중단을 요청한."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nff9696fc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003664746",
-    "title": "\"길어진 여름, 달라지는 옷\"…본, 폭염 겨냥 특화 소재 강화",
-    "summary": [
-      "[서울=뉴시스]권민지 기자 = 형지I&C 남성복 브랜드 본(BON)이 길어지는 여름 시즌에 맞춰 시원한 착용감을 강조한 스타일링을 제안한다.",
-      "형지I&C의 프렌치 트레디셔널 남성복 브랜드 본(BON)이 여름 특화 소재를 적용한 '2026 SUMMER 시즌 화보'를 공개했다고 11일 밝혔다.",
-      "이번 시즌 본은 원단의 질감과 기능성을 살려 무더위 속에서도 편안하게 착용할 수 있는 제품군을 강화했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf00d91f1",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003664759",
-    "title": "오비고, 최대주주 15억 규모 자사주 장내 매수",
-    "summary": [
-      "[서울=뉴시스] 김경택 기자 = 오비고는 최대주주인 장영준 기타비상무이사가 15억원 규모의 장내 매수를 진행했다고 11일 밝혔다.",
-      "회사 측에 따르면 장영준 기타비상무이사는 최근 한 달간 사전 거래계획 공시에 의거해 자사 주식 약 26만주를 장내 매수했다.",
-      "평균 취득 단가는 5574원으로, 총 매수 규모는 약 15억원이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf321f35",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260611/134089543/1",
-    "title": "이란 “호르무즈 해협 폐쇄…통과 선박 모두 공격 대상”",
-    "summary": [
-      "이란이 세계 최대 에너지 수송로 중 하나인 호르무즈 해협의 폐쇄를 선언했다.타임오브이스라엘에 따르면 이란 최고 합동군사령부는 11일(현지 시간) 성명을 통해 호르무즈 해협이 폐쇄됐다고 발표했다.",
-      "아울러 해협을 통과하려는 모든 선박은 공격 대상이 될 것이라고 경고했다.이번 조치는 미국이 이란 내 여러 목표물에 대한 추가 공습을 실시했다고 밝힌 직후 나왔다.",
-      "미국 중부사령부(CENTCOM)는 이날 “이란 내 여러 목표물에 대한 추가 자위 공격을 수."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na101bed6",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611014851071",
-    "title": "미군, 연이틀 공습 VS 이란군 \"호르무즈 전면폐쇄\"…갈등 최고조(종합)",
-    "summary": [
-      "(워싱턴 서울=연합뉴스) 이유미 특파원·곽민서 기자 = 지구촌 최대 스포츠 축제인 국제축구연맹(FIFA) 북중미 월드컵 개막을 하루 앞둔 10일..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc7eaa3a0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611021500009",
-    "title": "\"스페이스X, 투자적격등급 확보\"…적자기업이지만 예외",
-    "summary": [
-      "(서울=연합뉴스) 설원태 기자 = 12일 상장을 앞둔 스페이스X가 투자자들에게 무디스, 피치, S&amp;P 등 주요 신용평가사로부터 투자적격등..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5fb49db0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611027300007",
-    "title": "스롱, '당구 여제' 김가영 꺾고 여자프로당구 10승 고지 정복",
-    "summary": [
-      "(서울=연합뉴스) 이대호 기자 = '캄보디아 특급' 스롱 피아비(우리금융캐피탈)가 '당구 여제' 김가영(하나카드)을 물리치고 여자프로당구(LPB..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf17a0965",
+    "id": "nb840ce35",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611026800003",
-    "title": "삼성전자, 생성형 AI 3종 사내 도입…일하는 방식 AI로 바꾼다",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/tech/2026/06/11/2026061109304696414",
+    "title": "NHN, 양철웅 CTO 신규 선임…\"AI 네이티브 전환 속도\"",
     "summary": [
-      "(서울=연합뉴스) 강태우 기자 = 삼성전자가 글로벌 빅테크의 대표 생성형 인공지능(AI)를 업무에 전면 도입하고, 일하는 방식을 AI 중심으로 ..."
+      "NHN이 AI 네이티브 전환과 그룹 차원의 기술 혁신을 강화하기 위해 양철웅 기술본부장을 최고기술책임자(CTO)로 선임했다고 11일 밝혔다.",
+      "NHN에 따르면 이번 인사는 AI 네이티브 전환과 AI 클라우드 경쟁력 확보가 중요해지는 시장 환경에 대응하고, 그룹 차원의 기술 리더십을 강화하기 위한 조치다.",
+      "양 신임 CTO는 한국과학기술원(KAIST) 전산학 박사 출신으로, 인터넷 인프라와 트래픽 최적화, 네트워크, 보안, 클라우드 분야에서 20년."
     ],
     "chips": [
       "#AI",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nf8826803",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611026200008",
-    "title": "IBK투자 \"효성중공업 2분기 실적, 시장전망치 상회 예상\"",
-    "summary": [
-      "(서울=연합뉴스) 황철환 기자 = IBK투자증권은 효성중공업[298040]의 올해 2분기 실적이 컨센서스(시장평균전망치)를 웃돌 것으로 전망된다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncc4fd5d6",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260611/134089512/1",
-    "title": "현장 찾은 박지성 “체코 고지대 신경 안 쓴다고?…그렇게 밖에 말 못할 것”",
-    "summary": [
-      "한국과 체코의 맞대결을 하루 앞두고 ‘레전드’ 박지성 해설위원이 대한민국 선수단 훈련장을 찾아 후배들을 격려했다.",
-      "박 위원은 “좋은 결과 있을 것”이라고 자신 있게 말한 뒤 “고지대 적응을 마친 한국이 경기 전날 현장을 찾은 체코보다 환경적으로 우위를 점할 것”이라고 밝혔다.홍명보 감독이 이끄는 축구대표팀은 현지시간 11일 오후 8시(한국시간 12일 오전 11시) 멕시코 과달라하라 인근 사포판시에 위치한 과달라하라 스타디움에서 체코와 대회 첫."
-    ],
-    "chips": [
       "#환경"
     ]
   },
   {
-    "id": "n98160bd0",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611026100030",
-    "title": "신보중앙회, 'AI 리스크관리' 연구…소상공인 보증 사고 방어",
+    "id": "n8eca4e38",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003664984",
+    "title": "삼성웰스토리, 구내식당서 축구 응원하고 세계 미식 맛본다",
     "summary": [
-      "(서울=연합뉴스) 구정모 기자 = 신용보증재단중앙회는 인공지능(AI) 기술을 활용한 차세대 리스크관리 체계 구축을 위해 'AI 기반 리스크관리 ..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ndd114df7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260611/134089492/1",
-    "title": "“축의금 기본 15만원은 돼야…10만원은 식대 빼면 남는 게 없어” 글 뭇매",
-    "summary": [
-      "결혼식 축의금 기준을 현행 10만 원에서 15만 원으로 올려야 한다는 주장에 “결혼을 왜 남의 돈으로 치르려 하냐”는 지적이 이어졌다.10일 한 온라인 커뮤니티에는 ‘결혼식 축의금 가격을 올려야 하는 거 아닌지’라는 제목의 글이 올라왔다.작성자 A 씨는 “요즘 뷔페 가격도 점점 높아진다”며 “이제는 10만 원 말고 15만 원으로 내는 분위기로 바뀌면 좋겠다”고 생각을 전했다.이어 “결혼하는 입장에서 인당 3~4만 원 남는 돈으로 다른 비용을 메."
+      "[서울=뉴시스]이주혜 기자 = 삼성웰스토리가 구내식당에서 응원 열기와 여름 미식을 즐길 수 있는 시즌 프로모션을 선보인다고 11일 밝혔다.",
+      "이번 프로모션으로 논알코올 음료 카스 제로와 함께하는 '카스 제로 킥오프' 프로모션과 세계 미식 여행 콘셉트의 메뉴 큐레이션 '잇티켓(Eaticket)'을 마련했다.",
+      "삼성웰스토리는 글로벌 스포츠 이벤트 시즌을 맞아 구내식당에서 동료들과 함께 응원의 즐거움을 나눌 수 있도록 FIFA월드컵 2026 공식 스폰서."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n32de8300",
+    "id": "n73637bb5",
     "category": "사회",
-    "source": "동아일보",
-    "time": "24분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260611/134089465/1",
-    "title": "5월 취업자수 4만명↓…계엄 이후 첫 마이너스",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003664975",
+    "title": "TS-도로학회, 미래 모빌리티 교통안전 분야 융합 연구 맞손",
     "summary": [
-      "5월 취업자 수가 17개월 만에 마이너스를 기록했다.",
-      "청년층에서 취업자 수와 고용률이 큰 폭으로 떨어졌고, 농림어업, 제조업, 건설업, 전문과학및기술서비스업 등에서 고용 부진이 지속됐다.11일 국가데이터처가 발표한 5월 고용동향에 따르면 지난달 취업자는 2912만명으로 전년 동월 대비 4만명(-0.1%) 감소했다.",
-      "월간 취업자 수가 마이너스를 기록한 건 비상계엄 사태가 있었던 2024년 12월(-5만2000명) 이후 17개월 만이다.월간 취업자."
+      "[서울=뉴시스] 변해정 기자 = 한국교통안전공단(TS)은 지난 10일 한국도로학회와 '미래 모빌리티 안전 확보 및 도로·자동차 융합 기술 교류'를 위한 업무협약을 체결했다고 11일 밝혔다.",
+      "이 협약에 따라 도로 인프라와 자동차 안전 기술을 접목하는 연구를 진행한다.",
+      "도로·자동차 분야 법·제도에 관한 학술·기술 정보도 교류한다."
     ],
     "chips": [
-      "#취업",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8f9533d6",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026061109314801834",
+    "title": "부산항에 뜬 'K-뷰티' 전도사들… 동의과학대, 크루즈 관광객 마음 사로잡다",
+    "summary": [
+      "부산을 방문한 크루즈 관광객들에게 '한국의 미(美)'가 화두로 떠올랐다.",
+      "동의과학대학교(총장 김영도) 의료피부미용과 학생들은 부산항을 찾은 관광객들을 위해 현장 밀착형 뷰티 프로그램을 운영했다.",
+      "동의과학대 의료피부미용과 학생들이 지난 5월 27일 부산항 국제여객터미널에서 입항한 코스타세레나호(Costa Serena) 크루즈 관광객들을 대상으로 'Meeting & Greeting' 봉사활동을 펼치며 부산을 찾은 해외 관광객들의 원."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n70ef7262",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003664926",
+    "title": "\"인디 뷰티 키운다\" 지그재그, 육성 프로그램 거래액 최대 140배↑",
+    "summary": [
+      "[서울=뉴시스]권민지 기자 = 지그재그가 인디 뷰티 브랜드 육성 프로그램을 통해 신진 브랜드 성장 지원에 속도를 내고 있다.",
+      "카카오스타일이 운영하는 스타일 커머스 플랫폼 지그재그는 올해 1월 도입한 '2026 뷰티 브랜드 인큐베이팅 프로그램'이 참여 브랜드의 매출 성장과 인지도 확대를 이끌고 있다고 11일 밝혔다.",
+      "뷰티 브랜드 인큐베이팅 프로그램은 상품 경쟁력과 성장 가능성을 갖춘 국내 인디 뷰티 브랜드를 발굴하는 상생형 육성 프로그램이다."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n47e0fc86",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003664958",
+    "title": "대우건설, 건설산업 상생협력 앞장…하도급대금 연동제 정착 추진",
+    "summary": [
+      "[서울=뉴시스]정유선 기자 = 대우건설은 지난달 28일 '건설산업 상생협력 및 공정거래 협약식'에서 공정거래위원회, 대한전문건설협회와 협약을 체결했다고 11일 밝혔다.",
+      "이번 협약은 원·하도급 거래의 공정질서를 확립하고 수급사업자 보호를 위한 협력체계를 구축하기 위해 추진됐다.",
+      "▲신속한 대금 지급 및 유보금 폐지 ▲부당특약 개선 ▲하도급대금 연동제 정착 ▲비상시기 납품단가 조정 ▲하도급 분쟁 해결기구 설치 ▲민관협의체 구성 등이 주요 내용이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb9511058",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260611/134090024/2",
+    "title": "한동훈 “李공소취소 협잡 관여하면 계엄 수준 수사·처벌받을 것”",
+    "summary": [
+      "무소속 한동훈 의원이 11일 “법무부 위원회든 이름이 뭐든 ‘이재명 공소취소 협잡에 관여한 모든 사람들은 12·3계엄 수준의 수사와 처벌 그리고 평생을 따라다닐 오명을 받게 될 것”이라고 경고했다.한 의원은 이날 오전 자신의 페이스북에 “공정을 파괴한 민주주의의 적들에게 숨을 곳은 없을 것”이라며 이같이 올렸다.",
+      "그는 이어 “나는 부화뇌동(附和雷同·주관 없이 남 의견에 동조해 따라가는 태도)했을 뿐이니 괜찮을 거라고 착각하지 말라”고도 했다.앞."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc42b8e28",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/11/2026061014304970846",
+    "title": "'타율 0.225→0.378→0.397' LG 오스틴, 필요할 때 더 강하다! 만루홈런으로 '또' 뒤집다니... 정작 본인은 \"플라이 치려고 했다\"",
+    "summary": [
+      "LG 트윈스 외국인 타자 오스틴 딘(33)이 또 한 번 팀을 패배에서 구해냈다.",
+      "오스틴은 10일 서울 잠실야구장에서 열린 2026 신한 SOL KBO리그 정규시즌 SSG 랜더스와 홈경기에서 1루수 및 3번 타자로 선발 출장해 3타수 3안타(2홈런) 5타점 1볼넷 3득점으로 LG의 8-6 역전승을 이끌었다.",
+      "이날 LG는 믿었던 선발 투수 오스틴 웰스가 4⅓이닝 7피안타(1피홈런) 4볼넷 4탈삼진 5실점으로 무너지며 경기를 어렵게 풀어갔다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n61f891f0",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/thebio/2026/06/11/2026061109235848577",
+    "title": "GC녹십자, \"올 하반기 코로나 mRNA 백신 임상 2상 계획\"",
+    "summary": [
+      "10일 '서울 팬데믹 X 서밋 2026'서 백신 개발 전략 공유 GC녹십자가 지난 10일 열린 '서울 팬데믹 X 서밋 2026'에서 미래 팬데믹 대응을 위한 mRNA 백신 개발 전략을 발표했다고 11일 밝혔다.",
+      "이번 서밋은 미래 팬데믹에 대한 국제사회의 공동 대응 방안을 모색하기 위해 마련된 행사로 다양한 이해관계자들이 참여해 글로벌 협력체계와 신속한 백신 개발 공급 전략을 논의했다.",
+      "GC녹십자는 이번 행사에서 자체 mRNA-LNP 플랫폼과 이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7fb9b900",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260611/134090028/1",
+    "title": "서울 아파트 전세·월세 ‘50대50’…월세화 현실됐다",
+    "summary": [
+      "서울 아파트 월세 비중이 전체 임대차 거래의 절반에 육박했다.",
+      "과거 비아파트를 중심으로 나타나던 ‘전세의 월세화’ 현상이 아파트 시장으로까지 확산하는 모습이다.11일 다방에 따르면 서울 아파트 전세 비중은 2017년 4월 65.6%에서 2026년 4월 50.2%로 15.4%포인트(p) 하락했다.",
+      "같은 기간 월세 비중은 34.4%에서 49.8%까지 15.4%p 확대됐다.서울 아파트 전월세 거래 비중은 10년 전 31.3%p 격차에서 올해 0.4%."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "n7671f868",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611048000008",
+    "title": "미래에셋 \"반도체TOP10커버드콜액티브 6월 분배금 주당 215원\"",
+    "summary": [
+      "(서울=연합뉴스) 김태종 기자 = 미래에셋자산운용은 'TIGER 반도체TOP10커버드콜액티브 ETF(상장지수펀드)'의 6월 분배금으로 주당 21..."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n826df0ad",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611047800061",
+    "title": "안양서 18일 '4060 일자리박람회'…51개 기업 202명 채용",
+    "summary": [
+      "(안양=연합뉴스) 이우성 기자 = 경기 안양시는 18일 오후 2시부터 안양아트센터에서 '2026 안양시 4060 일자리 박람회'를 연다고 11일..."
+    ],
+    "chips": [
+      "#채용",
       "#고용"
+    ]
+  },
+  {
+    "id": "n317a1ea4",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/06/11/VBN7AP5QLVGKRANXRV6BX5ET3Q/",
+    "title": "코스피 거래량 11억 주에서 이달 5억 주 선으로 털썩",
+    "summary": [
+      "코스피 거래량 11억 주에서 이달 5억 주 선으로 털썩."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf2397467",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611048100008",
+    "title": "[특징주] 화신정공, 나흘째 상한가…단기급등에 투자경고종목 지정",
+    "summary": [
+      "(서울=연합뉴스) 김유아 기자 = 자동차 부품 업체인 코스닥 상장사 화신정공[126640]이 11일 로봇 부품 납품에 대한 기대감으로 4일째 상..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc8397dd2",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611038251002",
+    "title": "반도체 특수에 날개 단 수출…이달 초 85.9% 늘어 역대 최대치(종합)",
+    "summary": [
+      "(세종=연합뉴스) 안채원 기자 = 고공행진을 이어가는 반도체 수출에 힘입어 이달 초 수출이 지난해 같은 기간보다 80% 넘게 증가하며 역대 최대..."
+    ],
+    "chips": [
+      "#반도체",
+      "#수출"
     ]
   }
 ];
@@ -641,21 +651,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "반도체",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
