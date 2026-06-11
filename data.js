@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-11 20:46:24
+// 마지막 업데이트: 2026-06-11 21:39:37
 window.NEWS_DB = [
   {
     "id": "n2af5a245",
     "category": "IT",
     "source": "디일렉",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQTlGZl9DeDFvZWczWnRQa1d6NjdWbUVUc0wzR2k2MWg4Z0oxRzN0MG01bkRWQ0FJV2RuQ1dxRXZ2cG9taEszSy14V2dxVTliR21INEp4M1ZLYlV0ZkktQ3hDVDkxdw?oc=5",
     "title": "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n31476ce7",
     "category": "IT",
     "source": "뉴시안",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZVzNvNjZhLTJ2VFVVb0pBSVhFbXg0WmRESnljcDNvdHB4UndyY3pzX3hqallibk9KdEFYMjdYZ0pxcnpqbzhJcUdWZ2tJTE1NQUxieTlrQW16c0ZYMGpFQWhmSkxpdGFPTXfSAW5BVV95cUxNSUN0dUl1YVpxb0R1NjJKU0tEd0doTHBwQzFBZVdWa2JlTEJGaGJWcFN1LURTeXd6OU42SE9saWhVQmZaUEJ2bnFZb3ozalh4QXg2SU9sYVh3U0NOazh0b3dRcmV5QXpOSmYxd2tqUQ?oc=5",
     "title": "SK, 엔비디아와 日에 ‘AI 팩토리’ 건설 추진…2028년 가동 목표",
     "summary": [
@@ -43,6 +43,23 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "summary": [
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -105,6 +122,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13b4af19",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
     "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
@@ -120,17 +154,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc9fe1ef0",
+    "id": "n70cb7884",
     "category": "사회",
-    "source": "브런치",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UllYQlR3ck1kZTlFeDd5X0gtTHhkN2NMcU95T2VGbGpSOEZsWjdQZ3ZVVHEwS19fb1JvLS04SlBnQVd5Z2YxdU1nTQ?oc=5",
-    "title": "화성시 일자리 찾는다면, 일자리센터 채용정보 확인",
+    "source": "투데이경제",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
+    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
     "summary": [
-      "화성시 일자리 찾는다면, 일자리센터 채용정보 확인 브런치."
+      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
     ],
     "chips": [
-      "#채용",
+      "#취업",
       "#고용"
     ]
   },
@@ -175,22 +209,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n02951820",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
-    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
-    "summary": [
-      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -267,21 +285,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1e3b72e2",
-    "category": "사회",
-    "source": "매일경제 마켓",
-    "time": "121일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
-    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
-    "summary": [
-      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -297,10 +300,301 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nca6b006c",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003665014",
+    "title": "\"그래도 반도체 탑승이 안전…내년 상반기쯤 주가 정점 고민 시기\"",
+    "summary": [
+      "[서울=뉴시스]김수빈 인턴 기자 = 최근 반도체주가 급등락을 넘나들며 투자 불안을 키우는 가운데, 삼성전자 주식을 두고 매도하기에는 아직 상승 여력이 남아 있다는 전문가 의견이 나왔다.",
+      "지난 10일 구독자 179만명을 보유한 유튜브 채널 '부읽남TV_내집마련부터건물주까지'는 삼성전자와 SK하이닉스 등 반도체주 전망을 김동엽 에스원투자연구소 대표와 짚어봤다.",
+      "김동엽 대표는 최근 삼성전자와 SK하이닉스 주가 전망을 두고 \"반도체에 탑승하고 있는 게."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nf4291a60",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666316",
+    "title": "트럼프, 개버드 후임 DNI 국장 클레이턴 뉴욕 남부연방검사장 지명",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 대통령은 11일 제이 클레이턴 뉴욕 남부연방검사장을 지명한다고 발표했다.",
+      "트럼프 대통령은 이날 SNS 트루스 소셜에 “매우 존경받는 클레이튼 전 증권거래위원회(SEC) 위원장, 세계적으로 가장 유명하고 성공적인 로펌 중 하나인 설리번 앤 크롬웰의 대표를 DNI 차기 국장으로 지명하게 되어 기쁘다”며 “저의 내각의 일원으로 임명한다”고 올렸다.",
+      "트럼프는 “법조계에서 제이만큼 존경받는 인물은 드물다”며."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc81f6051",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003665773",
+    "title": "\"빨리 나오세요!\"…잠든 주민들 깨워 화재 대피시킨 경찰 바디캠 영상 화제",
+    "summary": [
+      "[서울=뉴시스] 김종민 기자 = 도심 주택가에 주차된 차량에서 화재가 발생했으나, 마침 인근 지구대 경찰관들의 신속한 대처와 주민 대피 유도로 인명 피해를 막았다.",
+      "10일 게재된 경찰청 유튜브 영상에 따르면, 경기 의정부경찰서 신곡지구대 뒤편 도로에 세워진 차량 트렁크에서 불길이 치솟고 있다는 신고가 접수됐다.",
+      "화재 현장은 지구대와 매우 가까운 거리였으며, 불이 난 차량 바로 옆에는 빌라 건물이 위치해 있어 자칫 대형 화재로 이어질 수 있는 긴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0bf7f7a9",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612016200051",
+    "title": "부산 동래구 아파트 주차장서 차량 화재…60대 차주 화상",
+    "summary": [
+      "(부산=연합뉴스) 차근호 기자 = 11일 오후 9시 50분께 부산 동래구 한 아파트 주차장에 있던 스타렉스 차량에서 불이 났다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n04090b88",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666326",
+    "title": "[대구·경북 조간 헤드라인]",
+    "summary": [
+      "[대구=뉴시스] ▲경북도민일보 = 포항, 펜타시티에도 AI 데이터센터…'AI 수도' 급부상 ▲경북신문 = 대구 인수위 \"반도체 투자, 정치적 편중 안 돼\" ▲경북일보 = 추경호 \"반도체 투자 판단에 정치 배제해야\" ▲경상매일신문 = '전기 먹는 하마' 수도권 퇴출…경북, 첨단산업 유치 새 전기 ▲대구신문 = 추경호 \"반도체 투자 결정 정치적 고려나 압박 안 돼\" ▲대구일보 = 3수 끝…도시 미관 갈등 넘었다 대구법원청사 연호시대 한발짝 ▲매일신."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2a50a73c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/12/MNSTENLFMZSGCYRZGJRWKMRWGE/",
+    "title": "\"우리는 가족 같은 관계\" 김요한, ♥이주연에 '미지근' 소개 →이승철 \"무슨 소리야\" ('신랑수업') [순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 전 배구선수 겸 방송인 김요한이 썸녀 이주연과 함께 테니스 수업을 받았다.",
+      "11일 방송된 채널A 예능프로그램 '신랑수업2' 13화에서는 김요한과 이주연이 '김요한의 결혼 롤모델'인 이형택과 그의 딸을 만나는 모습이 그려졌다.",
+      "이날 김요한은 이주연은 '테니스의 전설' 이형택 감독과 막내딸 이미나."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea6428ee",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611157800004",
+    "title": "800억대 재산분할 소송서 현금만 143억…대법 \"형평 어긋나\"",
+    "summary": [
+      "(서울=연합뉴스) 이미령 기자 = 국내 한 비상장사 대표의 800억원대 재산분할 소송에서 이혼 상대방에게 143억원을 현금으로 지급하라고 한 2..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n91848b0c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260610157300109",
+    "title": "윤호중 \"사회연대경제 호응 매우 커…기본사회 구현 역할할 것\"",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = \"이탈리아 볼로냐는 협동조합 운동이 뿌리를 내린 사회연대경제의 중심지입니다.",
+      "사회연대경제 정책 해법을 찾기 ..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n46060049",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/12/GJSTIZTFGZSTIZJUGNSTMNJYGU/",
+    "title": "트럼프 “이란과 훌륭한 합의… 수일 내 유럽서 서명”",
+    "summary": [
+      "미국과 이란이 벼랑 끝 대치 속에서 극적인 종전(終戰) 합의에 다가섰다.",
+      "도널드 트럼프 미국 대통령은 11일(현지시각) 이란에 대한 대규모 보복 공습을 전격 취소하며 이란 최고지도부가 평화 협정을 승인했다고 밝혔다.",
+      "다만 이란은 여전히 ‘최종 결정이 내려지지 않았다’며 신중한 입장을 고수하고 있어 실제 서명까지 팽팽한 줄다리기가 예상된다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfa733062",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611140000030",
+    "title": "국내 첫 '동물복지과' 신설…부산보건대, 2027년 신입생 받는다",
+    "summary": [
+      "(서울=연합뉴스) 김세린 기자 = 국내 최초로 반려동물 산업이나 수의학 보조 영역을 넘어 동물복지를 전문적으로 교육하는 학과가 신설된다."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n4b70e005",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026061122461262993",
+    "title": "반년 새 2.5배 폭등한 탄소배출권…전기요금 압박 커진다[디깅에너지]",
+    "summary": [
+      "국내 탄소 배출권 가격이 지난 6개월 사이 2.5배 오르는 등 폭등세를 나타내고 있다.",
+      "온실가스 배출권거래제 4차 계획기간(2026~2030년)에 공급량이 크게 감소할 것이란 전망에 발전사와 산업계가 배출권 구매에 경쟁적으로 나서고 있기 때문으로 분석된다.",
+      "배출권 가격이 오르면 온실가스 감축을 위한 기업의 투자를 유도할 수 있다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nea382946",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026061115085784694",
+    "title": "[써보니]젠슨 황 PICK 그래픽카드 얹은 HP 오멘16…노트북인데 고사양 게임도 척척",
+    "summary": [
+      "그동안 고사양 게임은 데스크탑 PC에서만 가능하다는 게 세간의 인식이었다.",
+      "게이밍 노트북이 과거와 비교해 발전한 건 사실이지만 배터리 의존에 따른 전력량의 한계, 핵심 부품 교체의 어려움의 이유로 게임 이용자들은 데스크탑 PC를 택했다.",
+      "하지만 HP를 대표하는 노트북 PC 'HP OMEN 16'(오멘16)은 고사양 데스크탑 PC에 버금가는 성능을 자랑한다."
+    ],
+    "chips": [
+      "#AI",
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n33a8bcc2",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://view.asiae.co.kr/article/2026061206285704997",
+    "title": "李대통령, 14일 이탈리아서 화상 수보회의 주재…투표용지 사태 수사 논의",
+    "summary": [
+      "이재명 대통령이 이탈리아 국빈 방문 기간 중 화상으로 수석보좌관회의를 주재한다.",
+      "유럽 순방 중에도 선거관리위원회 국정조사, 투표용지 부족 사태 수사, 외환·금융시장 동향 등 국내 주요 현안을 직접 챙기겠다는 취지다.",
+      "강유정 청와대 수석대변인은 11일(현지시간) 이탈리아 현지 브리핑에서 \"이 대통령은 오는 14일 이탈리아 현지 시각으로 낮 2시, 한국 시각으로는 밤 9시에 화상으로 수석보좌관회의를 주재한다\"고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n92ecea09",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026061206224697348",
+    "title": "네타냐후 \"트럼프와 이란 종전 MOU 논의…이란 우라늄 시설 해체 약속\"",
+    "summary": [
+      "베냐민 네타냐후 이스라엘 총리가 도널드 트럼프 미국 대통령과 통화하고 미국과 이란이 추진 중인 종전 양해각서(MOU)를 논의했다.",
+      "11일(현지시간) 이스라엘 총리실은 성명을 통해 트럼프 대통령이 이날 네타냐후 총리와 통화했으며 양측이 '협상 개시를 목적으로 이란과 추진 중인 양해각서'에 대해 의견을 나눴다고 밝혔다.",
+      "이스라엘은 이번 양해각서의 당사국은 아니다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n050a6d97",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/06/12/XSUF4TYYMNBCZGDW4PEDXCBLNA/",
+    "title": "‘모자 던지고 술 뿌리고’ 화려한 월드컵 개막 ... 멕시코, 남아공 2대0 제압",
+    "summary": [
+      "‘모자 던지고 술 뿌리고’ 화려한 월드컵 개막 ... 멕시코, 남아공 2대0 제압."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec7cf9b6",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611115100051",
+    "title": "\"시민 조망권 침해\"…부산항만공사, 북항환승 토지계약해제 추진",
+    "summary": [
+      "(부산=연합뉴스) 조정호 기자 = 부산항만공사(BPA)가 북항 재개발지구 내 환승센터 사업자가 지구단위계획을 위반해 공사를 강행하자 토지매매계약..."
+    ],
+    "chips": [
+      "#재건축"
+    ]
+  },
+  {
+    "id": "nf8907b75",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611146900030",
+    "title": "중기부, 한·이탈리아 협동조합 협력 확대…로마서 MOU 체결",
+    "summary": [
+      "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부는 이탈리아 로마에서 '한-이탈리아 협동조합 업무협약(MOU) 및 세미나'를 열고 양국 협동조합 ..."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n047b4565",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611152600004",
+    "title": "서울시 \"구독서비스 19개 중 8개는 전화상담 미운영…개선요청\"",
+    "summary": [
+      "(서울=연합뉴스) 김준태 기자 = 구독 서비스 이용 중 문제가 생겨 고객센터에 연락하려 해도 전화 연결이 어렵다는 조사 결과가 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncdd26f07",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "39분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/12/ZVQY4DWHHVDHJAVWVCTGYA2QRE/",
+    "title": "“우주·위성통신 넘어 AI로 폭발 성장”… 스페이스X 몸값 키운 일론 머스크의 ‘미래 베팅’",
+    "summary": [
+      "“우주·위성통신 넘어 AI로 폭발 성장”… 스페이스X 몸값 키운 일론 머스크의 ‘미래 베팅’."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "n998cb99a",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "40분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152560",
     "title": "롯데쇼핑, 2년 연속 중간배당…주주환원 강화에 배당금도 늘렸다",
     "summary": [
@@ -316,7 +610,7 @@ window.NEWS_DB = [
     "id": "nea109d7d",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2분 전",
+    "time": "55분 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260612/134097415/1",
     "title": "북중미 월드컵 1호골 주인공은 개최국 멕시코 키뇨네스",
     "summary": [
@@ -330,7 +624,7 @@ window.NEWS_DB = [
     "id": "nd5fb00fe",
     "category": "사회",
     "source": "동아일보",
-    "time": "2분 전",
+    "time": "55분 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260612/134097413/1",
     "title": "트럼프 “이란과 문서 조율만 남아…주말 유럽서 서명식 열수도”",
     "summary": [
@@ -339,290 +633,6 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
-  },
-  {
-    "id": "n7ce6fc3b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666317",
-    "title": "전북 낮 25~29도 맑음…섬 지역 짙은 안개",
-    "summary": [
-      "[전북=뉴시스]고석중 기자 = 12일 금요일 전북지역은 이동하는 고기압의 가장자리에 들어 대체로 맑다가 밤부터 구름이 많아질 전망이다.",
-      "기상청에 따르면 낮과 밤의 기온 차가 크게 벌어져 건강관리에 신경을 써야 한다.",
-      "아침 최저기온은 11~16도로 전날보다 1도께 낮다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6aa6975d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/12/G42DCOLBGY3TAYJYMFRDIZJXGE/",
-    "title": "아뿔싸! ‘예비역’ 50억 FA 보상선수 왜 이러나, 볼넷-볼넷-적시타-적시타-적시타 강판…ERA 16.88 실화냐",
-    "summary": [
-      "[OSEN=수원, 이후광 기자] 믿었던 예비역 보상선수가 삼성 타선을 상대로 와르르 무너졌다.",
-      "프로야구 KT 위즈 우완투수 한승주는 11일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 삼성 라이온즈와의 시즌 8차전에 구원 등퍈해 ⅓이닝 3피안타 2볼넷 3실점 24구 난조를 보였다.",
-      "한승주는 0-3으로 뒤진 6회초 선발 스기모토 코우키에 이어 두."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n100c1bee",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026061205340561213",
-    "title": "스페이스X, 공모가 135달러 확정…750억달러 조달 '사상 최대 IPO'",
-    "summary": [
-      "항공우주 기업 스페이스X가 기업공개(IPO) 공모가를 주당 135달러로 확정했다.",
-      "사전에 제시했던 예비 공모가를 그대로 적용한 것이다.",
-      "11일(현지시간) 블룸버그통신 등 외신에 따르면 스페이스X는 이번 IPO에서 5억5556만주를 매각해 750억달러를 조달할 예정이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n16aa5b29",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666310",
-    "title": "뉴욕증시, '이란 종전' 가시화에 급등 마감…유가는 90달러선으로",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 이란과 종전 양해각서(MOU) 체결을 앞두고 있다고 밝히면서 뉴욕증시가 급등 마감했다.",
-      "뉴욕증권거래소(NYSE)에 따르면 14일(현지 시간) 다우존스산업평균지수는 전 거래일 대비 929.97포인트(1.86%) 오른 5만848.38에 거래를 마쳤다.",
-      "스탠더드앤드푸어스(S&P)500지수는 전 거래일 대비 127.30포인트(1.75%) 높아진 7394.07로 장을 마감했고, 기술주 중심의."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n300fc6d6",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612010700034",
-    "title": "월드컵 1차전 전국 대체로 맑음…강원도 일부 지역 비소식",
-    "summary": [
-      "(서울=연합뉴스) 전재훈 기자 = 우리 축구대표팀과 체코와의 북중미 월드컵 조별리그 A조 1차전이 열리는 12일 금요일은 전국이 대체로 맑겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndc0fb970",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611157100004",
-    "title": "[월드컵] 오늘 첫 경기 광화문광장 응원전…6천 붉은악마 결집",
-    "summary": [
-      "(서울=연합뉴스) 한지은 기자 = 2026 북중미 월드컵 한국 축구대표팀의 체코전 거리 응원이 12일 서울 광화문광장에서 열린다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne0a5f71f",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612005200007",
-    "title": "[월드컵] 홍명보호, 오늘 운명의 체코전…손흥민 통산 4호골 도전",
-    "summary": [
-      "(과달라하라=연합뉴스) 안홍석 기자 = 홍명보호가 체코를 상대로 2026 북중미 월드컵 첫판을 치른다."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n250edcfd",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003666093",
-    "title": "\"가계약금 최대한 넣으세요\"…동탄 집값 급등에 달라진 매매 풍경",
-    "summary": [
-      "[서울=뉴시스]정진형 기자 = #.",
-      "직장인 A씨는 최근 경기 화성시 동탄구의 한 아파트 전용 84㎡ 매수계약을 맺으면서 계약금 10%에 중도금 일부를 더해 총 1억3000만원을 냈다.",
-      "A씨는 \"계약 파기 사례가 많으니 가계약금을 최대한 많이 넣고 본계약 때 중도금 일부도 같이 내라는 권유를 공인중개사로부터 받았다\"고 전했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n66e15394",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/06/12/D6K6YMQECRCSDFNRG4TLAQ3FDI/",
-    "title": "동해에서 잡는 즉시 내장 손질 후 먹기 좋게 잘라 급랭, 손질 오징어 1마리 3000원 초특가",
-    "summary": [
-      "동해에서 잡는 즉시 내장 손질 후 먹기 좋게 잘라 급랭, 손질 오징어 1마리 3000원 초특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n21545203",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612006851087",
-    "title": "[월드컵] 멕시코시티서 40년만에 열린 개막식…다문화로 축포 쐈다(종합)",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 멕시코시티 스타디움(에스타디오 아스테카)에서 월드컵 폐막식이 끝나고 다시 개막식이 재개되는 데는 40년..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8e1cd45",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612010400054",
-    "title": "광주대표도서관 붕괴사고 6개월 만에 주요 피의자 4명 구속",
-    "summary": [
-      "(광주=연합뉴스) 정회성 기자 = 4명이 숨진 광주대표도서관 붕괴사고의 과실 책임자로 지목된 공사 관계자들이 사고 발생 6개월 만에 구속됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c4289ca",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "31분 전",
-    "url": "https://view.asiae.co.kr/article/2026061205145451678",
-    "title": "[속보]美 항소법원 '10% 글로벌관세 무효판결' 집행 일시정지 연장",
-    "summary": [
-      "[속보]美 항소법원 '10% 글로벌관세 무효판결' 집행 일시정지 연장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00800c68",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "43분 전",
-    "url": "https://view.asiae.co.kr/article/2026061205024740664",
-    "title": "[속보]트럼프 협상 타결 시사하자 급등세로 마감",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 이란과 종전 협상이 마무리되었음을 시사하자 11일(현지시간) 미국의 3대 지수는 일제히 급등하며 마감했다.",
-      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 1.86% 오르며 마감했다.",
-      "대형주 중심의 S&P500지수는 1.75%, 기술주 중심의 나스닥지수는 2.54% 뛰며 장을 마무리했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncc830770",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606121906i",
-    "title": "[속보]트럼프 \"이란과 며칠 내 합의.. 유럽서 서명될 것\"",
-    "summary": [
-      "[속보]트럼프 \"이란과 며칠 내 합의.. 유럽서 서명될 것\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00122ebb",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612008300072",
-    "title": "국제유가, 트럼프 '이란공습 취소'에 급락…브렌트유 2.9%↓",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 11일(현지시간) 도널드 트럼프 미국 대통령이 대이란 공습을 취소하고 이란과의 합의가 임박했음을 시사하면서 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2cef5df5",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260612/134097109/2",
-    "title": "전북 이어 경기교육감 개표 입력 오류 있었다",
-    "summary": [
-      "6·3 지방선거 전북도교육감 선거에 이어 경기도교육감 선거에서도 개표 과정에서 투표 결과가 잘못 입력된 것으로 드러났다.",
-      "경기 성남에선 안민석 당선인과 임태희 후보의 득표가 뒤바뀌어 입력됐고, 경기 광주에선 전북도교육감 개표처럼 특정 투표소 개표 결과가 반영되지 못해 1706표가 누락된 사실이 선거 8일 뒤에야 확인됐다.",
-      "11일 경기도선거관리위원회에 따르면 투표 당일인 3일 경기 광주시 초월읍에서는 개표사무원이 투표지분류기에 9투표소 용지를 넣."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nd9d41eb1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260612/134097107/2",
-    "title": "“정청래 연임말라” “장동혁 물러나라”… 여야 지방선거 책임론 내전",
-    "summary": [
-      "6·3 지방선거 결과를 둘러싸고 더불어민주당과 국민의힘에서 당 대표 사퇴 요구가 본격화되면서 여야 모두 내홍이 격화되고 있다.",
-      "11일 국회에서 열린 민주당 의원총회에서 장철민 의원(재선)은 정청래 대표를 향해 “통합하려면 오늘이라도 사퇴해야 한다”고 했다.",
-      "지도부가 선거 결과에 책임지는 모습을 보이고 8·17 전당대회 관리에서도 손을 떼라는 의미다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6d131cde",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606121896i",
-    "title": "[속보]이란 매체 \"이란당국, 협정을 수락할 가능성 있다\"",
-    "summary": [
-      "[속보]이란 매체 \"이란당국, 협정을 수락할 가능성 있다\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc4e519e",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606121893i",
-    "title": "[속보]이란 파르스통신, \"美가 이란 제안 수락\"...협상타결 초읽기",
-    "summary": [
-      "[속보]이란 파르스통신, \"美가 이란 제안 수락\"...협상타결 초읽기."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -630,9 +640,9 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 2,
@@ -642,9 +652,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "뉴스",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
