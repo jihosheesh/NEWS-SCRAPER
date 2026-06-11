@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-11 03:03:30
+// 마지막 업데이트: 2026-06-11 05:31:48
 window.NEWS_DB = [
+  {
+    "id": "n6f6cc354",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "41분 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56OHhGMzNfVWNLVVR4UER2eHJIRlBvVkdHMDF3emtXdTRqZjRVY0NrMGxMbE8yYm00VHdobDlHbWxRSU10WWloRUFDckowa096OGRlWThjY2s2OWwycThoaHNjSnRCNmFw0gFuQVVfeXFMTXhYLVJiNGxsa0FtLTZ4c0FpeWdTTVV4NExIdnNjejZLaGtKV28zS2gweWlBdHZDWU0ybnl2cXhuOHhySElJU29PTmRjV1ZDYVlBeC1maDVHYTdScEgzaHdsLVlXT3JnaVM2bHpQOHc?oc=5",
+    "title": "한울반도체 \"관계사 엑사리온, 엔비디아 커넥트 프로그램 회원사 선정\" - 머니투데이",
+    "summary": [
+      "한울반도체 \"관계사 엑사리온, 엔비디아 커넥트 프로그램 회원사 선정\" - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n27c4fee3",
     "category": "IT",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRnZ4QkptSWR2eGZROE9Zb053aWF6ZzF2NW1fYXBDWTBVVXdWekRFSVM1bUpDcFdPSXJSYVBveFNfbmVVbVlWUnVsZU5CZEhmT2dKbFFGN21OZ9IBVEFVX3lxTE9rWlQyUjBLTy1tU283VkpaMXFoZ3o3VmV4a3BFVGhzZzQ5c3ExY0daUU4zYVM0cGFxYlN5UE5QR0VrT3huclktd2xuSG5UYmItQUpXbQ?oc=5",
     "title": "최태원 \"日에 AI 데이터센터 구축…엔비디아와 협력, 반도체 공장도 검토\"",
     "summary": [
@@ -21,7 +36,7 @@ window.NEWS_DB = [
     "id": "n210bd08e",
     "category": "IT",
     "source": "뉴스1",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCT2N4Mm5vb2xJbGNoQVpOQUFJbC1xNTJxMlBvOWk2bkRuWHRubVg0WHRQejJGYVJRcmZhZFJxUWJPcDZjWDBHcUlaVVJ1NU5xc2lrbWZUMDBTdEh0WGxhdUVTMlpvYjg?oc=5",
     "title": "미국 AI 반도체 또 흔들…엔비디아·AMD·브로드컴 일제히 하락",
     "summary": [
@@ -34,32 +49,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n12ca2e79",
+    "id": "nc2a0e162",
     "category": "스포츠",
     "source": "네이트",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
+    "time": "17시간 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RVUdVaG5CeDlZQ2I1SmFLZDFtVUpjMC0wQmhXZm9xNm53Sms2OFJ4Y2JISHVyN1hSOWtLMl80TFcwY04tc25wTjlRdTB6RnFrdU9MUjJ3NnEtMDVQSl8tRTByc3dLYjFiZEV6bk9yMmsxdW05QTBYRw?oc=5",
     "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
     "summary": [
       "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계 네이트."
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n29e241b7",
-    "category": "IT",
-    "source": "더퍼블릭",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HbUNjbUI0Y3FhdUhxQVcyc3dyb1Q4cS1aYUpFZWJDWXlTWml5RWhXUUlqcjZBeHlndExVcWNPSzVXN09kcFpwRUhzMU5CRm43VGVaaHBSWTBxLWh5QVhnU3B4TmVmYlJpc1BB?oc=5",
-    "title": "\"빅테크는 산타 아냐\" 젠슨 황의 'AI 반도체 선물'에 남겨진 숙제",
-    "summary": [
-      "\"빅테크는 산타 아냐\" 젠슨 황의 'AI 반도체 선물'에 남겨진 숙제 더퍼블릭."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
     ]
   },
   {
@@ -136,11 +136,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd8354e7f",
+    "id": "n13b4af19",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXfSAXZBVV95cUxPdkx4dzBQTlREMUxrNlowdUFzRHN1UVB4aXVvX19OVUZSNWM3UU9Nb3Vnakszblc5enB2cVdJX2o4bEVjR2lqQmt6WFJvbEhtZHZDaDNQNk9pcHNMMFRvcU5Jb2ptZG5ST3FRZ0dybjNidWE0NTF3?oc=5",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMXhOQm1aSW1uMERiS2ZpRGF2ckVNd2RGektBdm8zaHVMeS11aWNyX1c1b0phM1k4bVNERFdpOUpjMEg5SnlpN1Q1d3MxTy04YkwwSW5qN1JOdzJERnN2Q3I3QlpQbEppUUE3d3dVOF9lZ9IBdkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXc?oc=5",
     "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
     "summary": [
       "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까 시사저널e."
@@ -254,6 +271,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "107일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -266,36 +297,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
-    ]
-  },
-  {
-    "id": "n1e3b72e2",
-    "category": "사회",
-    "source": "매일경제 마켓",
-    "time": "120일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
-    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
-    "summary": [
-      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "nb4e9ce67",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "132일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43c0lBUTduWFZhNkNKY1FuanUxLTl3UUZxVGVFaXI2YlZfLW9iOVRrdGtnaDNVRFE3YjZtMkRuSTV0Tkl3RlNOUlIxWWswYjgtS1lEeG5pZjh3U03SAWBBVV95cUxOaFRuVzFHS1ktaDl1MWpSd1YxT2tlcldST2dQQ3BUVk8yOXM5c21zRE81dWphNWJEVkJEMmlsN1lqSzRaeFp0N3kzUGtGa3V3Z0F5QXltVkRtdkt1YUVESnA?oc=5",
-    "title": "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집",
-    "summary": [
-      "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
     ]
   },
   {
@@ -314,192 +315,254 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a005a4b",
+    "id": "nc81a8ccb",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152531",
-    "title": "개보위, 쿠팡에 6246억원 과징금 부과 의결",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152539",
+    "title": "\"AI가 공격하면 AI로 막는다\"...엑스게이트, 양자암호·AI '투트랙' 승부수",
     "summary": [
-      "개인정보보호위원회는 제11회 전체회의를 열고 개인정보 보호 법규를 위반한 쿠팡에 총 6246억 8100만원의 과징금 및 1680만원의 과태료 부과와 함께 시정 명령, 공표 및 공표 명령 등을 의결했다고 11일 밝혔다.개인정보 보호 법규 위반이 확인된 쿠팡풀필먼트서비스(CFS)에 대해서도 총 2억4800만원의 과징금을 부과하는 안을 의결했다.개보위는 쿠팡 개인정보 유출과 관련해 인증 서명키 관리 및 접근통제 소홀 등 기본적인 안전관리 체계가 미흡."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n303d2b2c",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152529",
-    "title": "정신아 대표, '샘 올트먼' 오픈AI CEO 만난다...추가 협력 방안 논의",
-    "summary": [
-      "내주 방한하는 샘 올트먼 오픈AI 최고경영자(CEO)가 카카오 사옥을 찾을 예정이다.",
-      "정신아 카카오 대표와 만나 양사가 협력 중인 '챗GPT 포 카카오'에 대한 방향성과 향후 추가 협력 방안에 대해 논의할 것으로 보인다.",
-      "양측이 다시 만나는 것은 지난해 2월 이후 약 1년4개월만이다."
-    ],
-    "chips": [
-      "#AI",
-      "#카카오"
-    ]
-  },
-  {
-    "id": "n8d74fe03",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152527",
-    "title": "\"손흥민·이강인 직접 보러 가자\"...여행 플랫폼, 북중미 월드컵 전용 상품 경쟁 '후끈'",
-    "summary": [
-      "올여름 열기를 한층 더 뜨겁게 달굴 열정적인 스포츠 빅 이벤트 북중미 월드컵이 열린다.",
-      "전세계 축구 팬 뿐만 아니라 스포츠 경기와 함께 여행을 즐기고 싶어 하는 여행객을 위해 국내외 여행 플랫폼들이 이들을 겨냥한 프로그램을 마련했다.",
-      "경기 티켓은 물론 항공·숙박·현지 가이드까지 결합한 패키지 상품을 내놓는 한편, 숙소 할인 이벤트와 현지 체험 프로그램 등으로 관람객 선점에 나서는 모습이다.어서와, 현지 직관은 처음이지?10일 업계에 따르면 국내."
-    ],
-    "chips": [
-      "#전세",
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n3c201f93",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152528",
-    "title": "'AI 네이티브' 속도 높이는 NHN, 양철웅 신임 CTO 낙점",
-    "summary": [
-      "NHN이 AI 중심의 기술 혁신과 미래 기술 경쟁력 확보를 위해 최고기술책임자를 새롭게 선임하며 그룹 차원의 AI 전환에 속도를 낸다.",
-      "NHN은 양철웅 기술본부장을 최고기술책임자(CTO)로 선임했다고 11일 밝혔다.",
-      "이번 인사는 AI 네이티브 전환이 산업 전반의 핵심 과제로 떠오르는 가운데 기술 경쟁력을 강화하고 그룹 차원의 혁신을 가속화하기 위한 조치다.양철웅 신임 CTO는 한국과학기술원 전산학 박사로 인터넷 인프라, 트래픽 최적화, 네트워크."
+      "엑스게이트가 양자암호와 AI 보안을 미래 성장동력으로 삼고 차세대 보안기업으로의 전환에 본격적으로 나선다.",
+      "보안 운영 고도화를 통해 공공·국방 시장 공략에 속도를 내고 신규 시장 확대를 추진한다는 전략이다.",
+      "이를 통해 2030년까지 양자옴호 보안 솔루션과 AI 방화벽 솔루션을 구축해 글로벌 보안 표준 기업으로 도약하겠다는 의지다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n5d5e2026",
+    "id": "n24bc4148",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152540",
+    "title": "[기자수첩] 쿠팡 향한 6246억 '참교육'...폭력에 가까운 응징 맞는가",
+    "summary": [
+      "요즘 드라마 '참교육'이 화제다.",
+      "무너진 교권과 손댈 수 없을 만큼 심각해진 학교폭력 문제를 바로잡기 위해 국가가 '교권보호국'을 만든다는 설정이다.",
+      "현실에서는 불가능한 얘기지만, 그래서 더 통쾌하게 보인다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n805dd8cf",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152532",
+    "title": "북중미 월드컵 D-1...네이버·카카오·다음, 축구 응원 모드로 '들썩'",
+    "summary": [
+      "2026 북중미 월드컵 개막을 하루 앞두고 네이버와 카카오, 다음 등 국내 포털 및 플랫폼들이 축구 팬 잡기에 나섰다.",
+      "특집 페이지와 승부예측, 실시간 중계, 응원 이벤트 등을 잇달아 선보이며 월드컵 열기를 끌어올리고 있는 것.",
+      "경기 정보 제공을 넘어 이용자가 직접 참여하고 소통할 수 있는 콘텐츠를 강화하며 월드컵 특수를 향한 경쟁이 본격화되고 있다."
+    ],
+    "chips": [
+      "#네이버",
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n1672e84e",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152536",
+    "title": "\"작년 영업익 통째로 날아갔다\"....쿠팡, 6246억 과징금에 투자·고용 '빨간불'",
+    "summary": [
+      "개인정보 유출 사태로 개인정보보호위로부터 6246억원에 달하는 사상 최대 과징금 철퇴를 맞은 쿠팡의 실적과 투자 계획이 흔들리고 있다.",
+      "이번 과징금은 쿠팡의 지난해 영업이익 6790억원에 맞먹는 규모다.개보위는 지난 10일 전체회의를 열고 쿠팡의 개인정보 보호법 위반 행위에 대해 개인정보 유출 사고 4235억7500만원, 온라인 활동기록 무단 수집 2011억600만원 등 총 6246억8100만원의 과징금을 부과하기로 의결했다고 11일 밝혔다.개."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "neac37c5b",
     "category": "경제",
     "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026061112030554467",
-    "title": "'주가조작·부동산투기·가격담합' 겨눈 국세청…지난 1년간 6141억원 추징",
+    "url": "https://view.asiae.co.kr/article/2026061114310200255",
+    "title": "이라크·요르단 美 대사관, 자국민 대피령…쿠웨이트는 영공 폐쇄",
     "summary": [
-      "국세청이 이재명 정부 출범 1년간 주가조작과 부동산투기, 가격담합 등 반사회적 탈세에 대한 세무조사를 통해 현재까지 6000억원이 넘는 세금을 추징하는 성과를 냈다.",
-      "또 고액·상습체납자에 대한 추적조사를 통해 3조1000억원을 징수하고, 해외은닉재산 339억원을 환수했다.",
-      "국세청은 향후에도 주식·부동산 탈세에 조사역량을 집중하는 한편 과징금과 과태료 등 국세외수입에 대한 체납까지 징수하는 '통합 재정수입기관'으로의."
+      "미국과 이란이 이틀 연속 공방전을 이어가면서 미군 기지가 위치한 이라크와 요르단의 미국 대사관에서 자국민 대피령을 내리고 출국을 촉구했다.",
+      "역시 미군기지가 위치한 쿠웨이트에서는 이란의 공습이 심화되면서 영공을 일시 폐쇄한다고 밝혔다.",
+      "10일(현지시간) CNN에 따르면 주 이라크 미국 대사관은 이날 성명을 통해 \"최근 지역정세 변화로 인해 예고없는 여행제한이나 갑작스러운 영공폐쇄가 발생할 수 있다\"며 \"이라크 내."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
     ]
   },
   {
-    "id": "n899dc782",
+    "id": "n8d20aee2",
     "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003665599",
+    "title": "검찰, '최태원 동거인 中 간첩' 주장 유튜버에 징역 8개월 구형",
+    "summary": [
+      "[서울=뉴시스]조수원 기자 = 검찰이 최태원 SK그룹 회장의 동거인 김희영 티앤씨재단 이사에 대해 '중국 간첩일 가능성이 많다'고 주장한 유튜버에게 징역 8개월을 구형했다.",
+      "서울동부지법 형사6단독 권민정 판사는 11일 오전 정보통신망법상 허위사실 적시에 의한 명예훼손 혐의를 받는 박모(55)씨의 첫 공판을 열고 변론을 종결했다.",
+      "검찰은 이날 박씨의 발언이 비상식적인 발언이라고 판단하고 재판부에 징역 8개월을 선고해달라고 요청했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd31940f0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003665574",
+    "title": "최호정 \"차기 시의회, 특정 집단 아닌 시민 전체 생각해야\"",
+    "summary": [
+      "[서울=뉴시스] 박대로 기자 = 최호정 서울시의회 의장이 더불어민주당이 3분의 2 이상 의석을 차지한 차기 시의회를 향해 특정 집단 이익만 생각하지 말라고 경고했다.",
+      "최 의장은 11일 제336회 정례회 본회의 개회사에서 \"내달 1일이면 제12대 서울시의회와 민선 9기 서울시정이 새롭게 출범한다\"며 \"저는 오세훈 시장과 제12대 서울시의회가 이러한 변화의 중심에서 서울의 미래를 지혜롭게 이끌어 주실 것이라 믿는다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6ea959df",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003665584",
+    "title": "5번째 음주운전…'윤창호법 1호 연예인' 손승원 징역 1년·법정 구속",
+    "summary": [
+      "[서울=뉴시스]이다솜 기자 = '윤창호법 1호 연예인'으로 사실상 연예계에서 퇴출된 배우 손승원이 5번째 음주운전 적발로 1심에서 징역 1년을 선고받고 법정 구속됐다.",
+      "서울서부지법 형사5단독(부장판사 김형석)은 11일 오후 도로교통법 위반(음주운전) 등 혐의로 기소된 손승원에 대해 징역 1년을 선고했다.",
+      "김 판사는 \"술에 취한 상태로 운전하고 현행범으로 체포되자 여자친구에게 블랙박스 파일 은닉을 교사한 죄질이 무겁다\"며 \"혈중 알코올 농도가 매."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb3508f46",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003665590",
+    "title": "에쓰오일, 마포복지재단에 2억3000만원 상당 물품 기부",
+    "summary": [
+      "[서울=뉴시스]이창훈 기자 = 에쓰오일이 장애인표준사업장 브라보비버에서 약 2억3000만원 상당의 물품을 구매해 서울 마포복지재단에 기부했다고 11일 밝혔다.",
+      "에쓰오일이 장애인 일자리 창출과 지역사회 기부를 지속하며 환경·사회·지배구조(ESG) 경영을 강화하는 모습이다.",
+      "에쓰오일이 이번에 구매한 물품은 마포복지재단이 선정한 마포구 내 지역아동센터와 복지관, 마포가족센터 등에 전달될 예정이다."
+    ],
+    "chips": [
+      "#고용",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n3322af68",
+    "category": "부동산",
     "source": "아시아경제",
     "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026061110502041499",
-    "title": "\"국가관이 리더 만든다\"… 동아대 이해우 총장, ROTC 후보생 정신전력 특강",
+    "url": "https://view.asiae.co.kr/article/2026061016030896565",
+    "title": "[초동시각]언발에 소변보기…누구를 위한 빚인가",
     "summary": [
-      "동아대학교가 예비 장교들의 올바른 국가관과 군인정신 함양을 위한 특별 강연을 마련하며 미래 군 리더 양성에 힘을 쏟았다.",
-      "동아대학교는 제117 학생군사교육단(ROTC)이 지난 10일 승학캠퍼스에서 65기(4학년)와 66기(3학년) 학군사관후보생들을 대상으로 이해우 총장 초청 집중정신전력교육을 개최했다.",
-      "이번 교육은 장교로 임관을 앞둔 사관후보생들의 국가관 확립과 책임의식을 높이기 위해 마련됐다."
+      "정부가 해마다 하는 주거실태조사에는 '가장 필요한 주거지원 프로그램'이 무엇인지 묻는 항목이 있다.",
+      "일단 주거지원 프로그램이 필요하다고 답한 이가 4, 그렇지 않다는 이는 6 정도다.",
+      "필요하다고 답한 이가 첫손에 꼽는 게 대출이다."
     ],
     "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "n4e6a804a",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260611/134090977/2",
+    "title": "“입사 잘했네”…스페이스X 상장에 직원 4400명 백만장자 된다",
+    "summary": [
+      "스페이스X가 역대 최대 규모의 기업공개에 나설 것으로 예상되면서 현직·전직 직원 4400명 이상이 백만장자가 될 전망이다.",
+      "이 가운데 약 400명은 보유 주식 가치가 1억달러를 넘어설 것으로 분석됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04e3412f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026061114273479936",
+    "title": "코스닥, 3%대 강세에…매수 사이드카 발동",
+    "summary": [
+      "코스닥 지수가 3%대 강세를 보이며 매수 사이드카(프로그램매수호가 일시효력정지)가 발동됐다.",
+      "11일 오후 2시17분 코스닥 지수는 전 거래일 대비 36.59포인트(3.84%) 오른 988.22을 기록했다.",
+      "937.17에 하락 출발한 코스닥 지수는 상승 전환하며 오름세를 이어가고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f35e34e",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026061114271975232",
+    "title": "金총리, '부실선거 사태' 관계장관회의 긴급 소집",
+    "summary": [
+      "김민석 국무총리가 11일 부실선거 논란과 관련해 관계장관회의를 긴급 소집했다.",
+      "정부 관계자에 따르면 김 총리는 이날 오후 8시30분 정부세종청사에서 국민 참정권 침해 문제 관련 관계장관회의를 주재한다.",
+      "지난 6·3 지방선거 당시 투표용지 부족으로 국민의 참정권이 침해된 데 대한 정부 대응 현황을 점검할 예정이다."
+    ],
+    "chips": [
+      "#정치",
       "#교육"
     ]
   },
   {
-    "id": "na330b74b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061112000140992",
-    "title": "출전하면 '메달'… 동명대 사격부, 홍범도장군배서 금 1·은 2·동 1",
+    "id": "n60ed6fed",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/11/GYYTANJQMJSTGZRRGFRTEMLEMU/",
+    "title": "'내겐 꿈이 있습니다' LG 역사상 첫 홈런왕 무럭무럭…잠실 오씨, 4년째인데 '약점'이 없다 [SC피플]",
     "summary": [
-      "동명대학교 사격부가 전국 무대에서 고른 활약을 펼치며 메달 행진을 이어갔다.",
-      "동명대학교(총장 이상천)는 사격부가 지난 4일부터 청주종합사격장에서 열리고 있는 제6회 홍범도장군배 전국사격대회에서 금메달 1개, 은메달 2개, 동메달 1개를 획득했다고 11일 알렸다.",
-      "동명대는 학사 일정과 대회 일정이 겹치면서 3일 동안 주요 3개 종목에만 출전했지만 참가한 모든 종목에서 메달을 따내며 존재감을 보였다.대회 첫날 열린 남대."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb424ca00",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061111330243124",
-    "title": "주식 '빚투'에 5월 가계대출 9.3조 급증…은행, 고연봉자 신용대출 한도 축소",
-    "summary": [
-      "국내 증시 상승에 투자자들의 '빚투(빚내서 투자)' 수요가 늘면서 지난달 가계대출이 큰 폭으로 증가했다.",
-      "금융당국은 가계부채 비상관리 체계를 가동해 금융회사에 대해 주간 단위로 점검을 실시하고, 은행권은 고액 연봉자 신용대출 한도를 축소하는 등 자율 관리에 나서기로 했다.",
-      "11일 금융위원회와 금융감독원이 발표한 '5월 가계대출 동향'에 따르면 모든 금융권의 지난달 가계대출은 전월 대비 9조3000억원 증가했다."
+      "[스포츠조선 김영록 기자] 29년만의 우승도 이뤘고, 왕조를 향한 발걸음도 쌓아나가고 있다.",
+      "이제 창단 36년만에 첫 홈런왕도 노려볼만하다.",
+      "LG 트윈스 오스틴의 기세가 무섭다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7c5d535f",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665394",
-    "title": "'600% 수익' 가짜 증권사 앱으로 99억 편취…캄보디아 사기조직 검거",
-    "summary": [
-      "[서울=뉴시스]이다솜 기자 = 증권사 비서를 사칭해 피해자를 유인하고 가짜 증권사 앱을 설치하게 한 뒤 고수익을 보장한다고 속여 99억원을 편취한 캄보디아 거점 리딩방 사기 조직이 경찰에 검거됐다.",
-      "서울경찰청 광역수사단 금융범죄수사대는 범죄단체가입·활동 및 사기 혐의로 사기 조직 일당 10명을 검거하고 이 중 9명을 구속했다고 11일 밝혔다.",
-      "경찰에 따르면 이들은 캄보디아 시아누크빌의 호텔에 거점을 마련하고 한국인을 상대로 약 99억원대 주식."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0a74372e",
+    "id": "ne86c3643",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665297",
-    "title": "'반복·특이' 민원, 공무원 개인→기관 대응…위법 고소·고발",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611108500030",
+    "title": "호텔신라, 인천공항에 1천억원대 소송…\"면세점 철수 위약금 과중\"",
     "summary": [
-      "[서울=뉴시스] 강지은 기자 = 정부가 앞으로 무분별한 반복·특이 민원에 대해 공무원 개인이 아닌 기관 차원에서 일원화된 대응에 나선다.",
-      "행정안전부와 국민권익위원회는 11일 민원 담당 공무원을 보호하고, 행정력 낭비를 줄이기 위해 민원 대응 체계를 전면 개편한다고 밝혔다.",
-      "이번 방안은 정당한 민원 제기는 충실히 보장하되, 정상적인 민원 처리 과정을 방해하는 반복·특이 민원에 대해서는 기관이 책임 있게 대응해 국민의 민원 서비스 이용과 담당 공무."
+      "(서울=연합뉴스) 정수연 기자 = 신라면세점 운영사 호텔신라가 인천국제공항공사를 상대로 부당 이득 반환 소송을 제기했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2dbfed38",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665238",
-    "title": "국세청, 1년간 체납액 3.1조 징수…\"통합 재정수입기관으로 도약\"",
-    "summary": [
-      "[세종=뉴시스] 안호균 기자 = 국세청이 올해부터 국세 수입 뿐만 아니라 과태료와 과징금 같은 국세외수입까지 통합 징수·관리하게 된다.",
-      "이에 따라 '국세 징수기관'(NTS·National Tax Service)에서 '통합 재정수입기관'(KRS·Korea Revenue Service)으로 거듭나겠다는 계획이다.",
-      "국세청은 이재명 정부 출범 후 적극적인 체납 관리를 통해 지난 1년간 개청 이래 최대 규모인 3조1000억원의 체납액을 환수한 것으로 나."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ffbc2bf",
+    "id": "n1069b088",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665371",
-    "title": "한은 \"청년층, 부동산·소득 양극화에 직격탄 맞아\"",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260611/134091845/1",
+    "title": "주식 빚투에…5월 가계 은행대출 6.9조 증가",
     "summary": [
-      "[서울=뉴시스]김래현 기자 = 자산 격차와 소득 격차가 맞물리는 복합 양극화에 청년층이 직격탄을 맞고 있다는 한국은행의 분석이 나왔다.",
-      "한은이 11일 발표한 '우리 경제 가계 양극화의 실태와 파급 영향' 보고서에 따르면 부동산 가격 상승으로 가계의 자산 격차가 커진 가운데 부동산이 고연령층에 집중되며 자산의 세대 간 양극화가 구조화됐다.",
-      "가구의 자산에서 부채를 제외한 순자산 지니계수는 지난 2012년 0.617에서 2017년 0.584로 하락해."
+      "지난달 가계가 은행에서 받은 대출액이 7조 원 가까이 증가한 것으로 나타났다.",
+      "1년 9개월 만에 가장 크게 늘었다.",
+      "코스피 상승 랠리로 신용대출 등을 통한 ‘빚투(빚내서 투자)’가 증가한 데다 수도권 지역의 중저가 아파트 매매가 활발해지며 주택담보대출도 늘어난 영향이 컸다.한국은행이 11일 발표한 금융시장 동향 자료에 따르면 지난달 말 기준 은행의 가계 대출 잔액은 1181조8000억 원으로 올해 4월 말보다 6조9000억 원 증가했다."
     ],
     "chips": [
       "#부동산",
@@ -507,130 +570,75 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9ebde77e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611089400064",
-    "title": "청주 중부고속도로서 화물차 등 3대 연쇄추돌…1명 부상",
+    "id": "n57463a45",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260611/134092097/1",
+    "title": "코스닥, 지수 4% 급등에 매수 사이드카 발동…올 들어 10번째",
     "summary": [
-      "(청주=연합뉴스) 이성민 기자 = 11일 오전 9시 23분께 청주시 지동동 중부고속도로 남이 방향 서청주IC 부근에서 60대 화물차 두 대와 승..."
+      "코스닥 지수가 장중 4% 넘게 급등하면서 매수 사이드카(프로그램매매 매수호가 효력정지)가 발동했다.",
+      "한국거래소는 11일 오후 1시58분께 코스닥 시장에 매수 사이드카가 발동했다고 밝혔다.",
+      "올 들어 10번째 매수 사이드카다.매수 사이드카는 전일 대비 코스닥150 선물(최근월물)이 6% 이상 상승하고, 코스닥150 지수가 3% 이상 상승한 후 1분간 지속될 때 발동한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na2e7f98d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/national/incident/2026/06/11/DMB2NU7PTVE3ZNJBAMXHZUO5JQ/",
-    "title": "8000만원 상당 뇌물받은 안동시 전 비서관 구속 송치",
-    "summary": [
-      "8000만원 상당 뇌물받은 안동시 전 비서관 구속 송치."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd06f795c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611088800530",
-    "title": "당분간 대기 상층에 찬 공기…찜통더위는 없으나 곳곳 소나기",
-    "summary": [
-      "(서울=연합뉴스) 이재영 기자 = 우리나라 대기 상층을 찬 공기가 차지하고 있는 상황이 유지되면서 당분간 크게 덥지는 않겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ad68c88",
+    "id": "n86acebcb",
     "category": "사회",
     "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260611/134091217/2",
-    "title": "‘관악구 피자가게 살인’ 김동원, 2심도 무기징역…“이해될 수 없는 살인”",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260611/134092070/1",
+    "title": "월급 떼먹고 “반성문 쓰면 줄게”…체불 업주들, 체포되자 ‘즉시 입금’",
     "summary": [
-      "서울시 관악구 자신이 운영하던 피자가게에서 흉기를 휘둘러 3명을 살해한 김동원(42)이 항소심에서도 무기징역을 선고받았다.서울고법 형사3부(부장판사 이승한)는 11일 살인 혐의로 기소된 김동원에 대한 항소를 기각하고 원심과 같은 무기징역을 선고했다.재판부는 “살인은 어떠한 경우에도 용납될 수 없는 중대 범죄”라며 “피고인이 인테리어 하자로 인해 스트레스를 받은 것으로 보이기는 하나, 이에 대한 대응으로 사회 통념상 이해될 수 없는 살인이라는 결."
+      "고의로 임금을 체불하고 출석요구에도 불응한 사업주 2명이 노동 당국에 검거됐다.고용노동부 전주지청은 근로기준법상 임금체불 등 혐의로 가구제조업체 대표 A 씨와 건설업자 B 씨를 체포해 조사 중이라고 11일 밝혔다.이들은 임금 356만 원과 364만 원을 각각 지급하지 않고, 노동 당국이 조사를 위해 출석을 요구하자 연락을 회피한 혐의를 받고 있다.조사 결과 A 씨 등은 임금이 밀린 근로자에게 임금 지급을 빌미로 반성문을 요구하고, 담당 근로감독."
     ],
     "chips": [
-      "#뉴스"
+      "#고용"
     ]
   },
   {
-    "id": "ne64c7f45",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/06/11/XMTZQE756BGVTIXH2CRSI3IDA4/",
-    "title": "대법, ‘김학의 허위 보고서 작성’ 이규원 벌금형 선고유예 확정",
-    "summary": [
-      "대법, ‘김학의 허위 보고서 작성’ 이규원 벌금형 선고유예 확정."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5fc9a8d2",
-    "category": "스포츠",
-    "source": "조선비즈IT",
-    "time": "9분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/11/GD56XUFTMZAZVNR5P4VDR2HWFM/",
-    "title": "“카톡서 축구 응원”…카카오, 오픈채팅 월드컵 응원전 개최",
-    "summary": [
-      "“카톡서 축구 응원”…카카오, 오픈채팅 월드컵 응원전 개최."
-    ],
-    "chips": [
-      "#카카오"
-    ]
-  },
-  {
-    "id": "n697668d8",
+    "id": "n78318cfc",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611086800530",
-    "title": "개보위, 쿠팡에 역대 최대 6천250억 과징금 부과…이유는",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611108200054",
+    "title": "이란 전쟁 장기화, 대불산단 용접용 탄산 확보 '비상'",
     "summary": [
-      "(서울=연합뉴스) 차민지 기자 = 개인정보보호위원회가 쿠팡과 물류 자회사 쿠팡풀필먼트서비스(CFS)에 부과한 과징금은 총 6천250억원에 육박해..."
+      "(영암=연합뉴스) 조근영 형민우 기자 = \"이란 전쟁이 길어져 탄산이 제대로 공급될 수 있을지 걱정이네요\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncc71518b",
-    "category": "IT",
+    "id": "ne3c259b8",
+    "category": "부동산",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611086200009",
-    "title": "오픈AI 요금 대폭 인하 검토…앤트로픽과 기업시장 경쟁",
-    "summary": [
-      "(서울=연합뉴스) 임화섭 기자 = 인공지능(AI) 플랫폼 기업 '오픈AI'가 경쟁사 앤트로픽을 상대로 기업고객 유치 경쟁에서 이기기 위해 요금을..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nb0dd4f33",
-    "category": "사회",
-    "source": "동아일보",
     "time": "14분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260611/134091108/1",
-    "title": "학교에서는 잠잔다… “韓 학생, 출석해도 절반 수업 참여 부족”",
+    "url": "https://www.yna.co.kr/view/AKR20260611109100052",
+    "title": "창원 귀산동 주택서 불, 인근 야산으로 번져…대응 1단계 발령",
     "summary": [
-      "한국 학생들이 경제협력개발기구(OECD) 회원국 중 장기 결석률이 최저 수준이지만, 정작 학생 절반 가까이는 수업 중 잠을 자는 등 제대로 참여하지 못한다는 진단이 나왔다.11일 한국교육개발원(KEDI)의 ‘출석이 성장으로 이어지지 않는 교실’ 보고서에 따르면 올해 6월 OECD가 발표한 회원국 장기결석 실태 비교에서 한국은 최저 수준을 기록했다.",
-      "OECD의 ‘국제학업성취도평가(PISA) 2022’에 따르면 학교를 3개월 이상 연속 결석한 학생."
+      "(창원=연합뉴스) 박영민 기자 = 11일 오후 1시 7분께 경남 창원시 성산구 귀산동 한 주택에서 불이 났다."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nce171473",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611105900530",
+    "title": "민주노총 \"정년연장 민주당 안, 소득공백 방치…즉각 시행해야\"",
+    "summary": [
+      "(서울=연합뉴스) 옥성구 기자 = 전국민주노동조합총연맹(민주노총)이 11일 법정 정년을 현행 60세에서 65세로 2037년까지 단계적 인상하는 ..."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -640,8 +648,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
@@ -651,7 +659,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "고용",
     "mentions": "1680건",
     "trend": "+155%"
   }
