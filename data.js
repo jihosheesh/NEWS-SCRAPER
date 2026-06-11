@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-11 07:34:18
+// 마지막 업데이트: 2026-06-11 09:25:07
 window.NEWS_DB = [
   {
     "id": "n2af5a245",
     "category": "IT",
     "source": "디일렉",
-    "time": "20분 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQTlGZl9DeDFvZWczWnRQa1d6NjdWbUVUc0wzR2k2MWg4Z0oxRzN0MG01bkRWQ0FJV2RuQ1dxRXZ2cG9taEszSy14V2dxVTliR21INEp4M1ZLYlV0ZkktQ3hDVDkxdw?oc=5",
     "title": "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nc7e937d1",
     "category": "IT",
     "source": "월요신문",
-    "time": "27분 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxOUJnU2JOTVJLc25qaUItMmc1NE5xZ29kanl2bW1QWXhmaE1wLTkzQV9EYVVkUkctUUxHbF8tdERZVlBmVUZCbHdOU1BYeWdFeGxHN2ZGZGVyVGVEVlJjc2xvVXRFUFhtQkE?oc=5",
     "title": "젠슨 황 효과, 이제부터 시작…한국 기업들 ‘엔비디아 숙제’ 풀기 경쟁",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n31476ce7",
     "category": "IT",
     "source": "뉴시안",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZVzNvNjZhLTJ2VFVVb0pBSVhFbXg0WmRESnljcDNvdHB4UndyY3pzX3hqallibk9KdEFYMjdYZ0pxcnpqbzhJcUdWZ2tJTE1NQUxieTlrQW16c0ZYMGpFQWhmSkxpdGFPTXfSAW5BVV95cUxNSUN0dUl1YVpxb0R1NjJKU0tEd0doTHBwQzFBZVdWa2JlTEJGaGJWcFN1LURTeXd6OU42SE9saWhVQmZaUEJ2bnFZb3ozalh4QXg2SU9sYVh3U0NOazh0b3dRcmV5QXpOSmYxd2tqUQ?oc=5",
     "title": "SK, 엔비디아와 日에 ‘AI 팩토리’ 건설 추진…2028년 가동 목표",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n12ca2e79",
     "category": "스포츠",
     "source": "네이트",
-    "time": "19시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
     "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
     "summary": [
@@ -72,20 +72,6 @@ window.NEWS_DB = [
     "chips": [
       "#환율",
       "#수출"
-    ]
-  },
-  {
-    "id": "nb721231f",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZEVtdmozRVRrcU5TVkVBYmdzcDUySS1jTTVwTGxnYWx3ZmR5LXVkSUpwTjZsaGJnTjVLa29LV2Y1RkZ5SnFpRWRaNVlRYWF6dUFKaXUtbzZQREh3?oc=5",
-    "title": "'아이치·나고야 AG부터 적용' KBO-KBSA, 야구 국가대표팀 신규 BI 공개",
-    "summary": [
-      "'아이치·나고야 AG부터 적용' KBO-KBSA, 야구 국가대표팀 신규 BI 공개 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -122,7 +108,7 @@ window.NEWS_DB = [
     "id": "n13b4af19",
     "category": "사회",
     "source": "대학IN",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
     "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
     "summary": [
@@ -148,6 +134,20 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "ne2208e3a",
+    "category": "부동산",
+    "source": "프라임경제",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc0UzWmJweS1lNEZoWnc2WEtHbFhzcjZLWmlXLWJ3ZlUwV2xDUm02a1FiajU0NFFjcGh6NGRuUngtUXNuRnBSMWdaR3haLXowWWloeXZuS3RER2F6dTNBOXdrNzF1TE9ya2F2dQ?oc=5",
+    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
+    "summary": [
+      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -240,25 +240,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "58일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "71일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
-      "#부동산",
-      "#정책"
+      "#KBO"
     ]
   },
   {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
-    "time": "107일 전",
+    "time": "108일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
@@ -272,7 +271,7 @@ window.NEWS_DB = [
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "118일 전",
+    "time": "119일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
     "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
@@ -299,336 +298,352 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0565d218",
+    "id": "n9a3846c1",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152547",
-    "title": "\"물류·통관 부담 제로\"...11번가, 국내 셀러 중국 진출 파이프라인 가동",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152558",
+    "title": "\"제작비부터 AI 매니저까지\"...SOOP, 전방위 스트리머 상생 생태계 구축",
     "summary": [
-      "11번가가 중국 대형 유통 기업과의 협력을 강화해 크로스보더(국경 간 거래) 역직구 사업에 속도를 내고 있어 눈길을 끕니다.최근 중국 이커머스 플랫폼의 국내 공습이 거세지는 가운데, 11번가는 반대로 국내 중소 판매자들의 상품을 중국 현지에 직접 판매하는 역공 전략을 펼치고 있습니다.",
-      "지난 2월 징둥닷컴과 체결한 업무협약을 바탕으로 6월에 중국 현지 플랫폼 내에 단독 전문관을 개설해 글로벌 유통 파이프라인 가동을 시작하겠다는 소식을 전했습니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n88fa564c",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152548",
-    "title": "다쏘시스템, 제조 엔지니어링에 AI 접목...시뮬레이션 단계 앞당긴다",
-    "summary": [
-      "제조 엔지니어링 분야에 AI를 접목하면 어떤 변화가 일어날까.다쏘시스템은 11일 서울 강남구 웨스틴 서울 파르나스에서 '시뮬리아 유저 데이 2026'을 열고 3D익스피리언스 플랫폼을 중심으로 한 시뮬레이션 전략을 소개했다.",
-      "제품 개발 후반부에 시행되던 시뮬레이션을 기획이나 설계 단계로 앞당기고 AI가 모델 준비와 해석 조건 설정, 결과 검토 등을 보조하도록 하겠다는 구상이다.국내에서 시뮬리아 유저 행사가 열린 것은 2년 만이다."
+      "SOOP은 12일 신규 방송인들의 진입 장벽을 낮추고 기존 창작자들의 성장을 돕기 위해 전방위적인 지원책을 가동한다고 밝혔습니다.SOOP은 방송 장비와 기술 지원 영역부터 고액의 콘텐츠 제작비 지원, 나아가 인공지능(AI) 기술을 접목한 방송 관리 시스템까지 구축해 스트리머가 플랫폼과 함께 하나의 브랜드로 성장할 수 있도록 미디어 생태계를 만들겠다는 구상입니다.장비 교환부터 1000만원 제작비까지...단계별 성장 사다리 구축SOOP은 방송 초기."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "na269ef91",
+    "id": "n32dd818b",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152546",
-    "title": "\"AI 3강 넥스트가 중요하다\"...국내 스타트업, AX 가속화 위한 인식 개선·정부 지원 촉구",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152559",
+    "title": "엑스포넨트, 600억원 규모 시리즈A 투자 유치...韓 기업 금융 지원 본격화",
     "summary": [
-      "국내 스타트업과 정부 관계자가 인공지능(AI) 기술 경쟁력 강화 및 신속한 AI 전환(AX)을 위해서는 기술 확보를 넘어 활용과 생태계 조성에 집중해야 한다고 입을 모았다.",
-      "스타트업의 활발한 경쟁이 AI 기술력에 기여하는 만큼 정부 주도의 지원 정책 마련이 중요하다는 입장이다.11일 코리아스타트업포럼은 서울 강남 씨스퀘어에서 'AXIS 2026 인공지능(AI) 서밋'을 개최했다.'AXIS'는 AI 전환의 중심축이 기관·정부에서 스타트업·현장으로."
+      "한국계 미국인 창업가 팀 황 의장이 이끄는 컴퍼니 빌더 '인어그레이션 그룹'이 계열사를 통해 한국 시장 공략에 나선다.",
+      "AI 기반의 금융과 의료, IT 인프라 전반의 혁신을 추진한다는 전략이다.",
+      "인어그레이션 그룹은 AI 프랜차이즈 통합 금융 플랫폼 '엑스포넨트'이 지난달 609억원 규모의 시리즈 A 투자를 유치했다고 11일 밝혔다.이번 투자에는 대만 최대 캐피털사인 '차일리스'의 안드레 쿠 회장을 비롯해 차일리스 법인, 에라펀드, K8 캐피털."
     ],
     "chips": [
       "#AI",
-      "#스타트업",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nb92bebcd",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152545",
-    "title": "[글로벌] 앤트로픽, IPO 앞두고 '페이블5' '미토스5' 출시...오픈AI 성능 격차 벌렸다",
-    "summary": [
-      "앤트로픽이 보안 우려로 공개를 미뤄온 미토스급 고성능 인공지능(AI) 모델을 민간에 공개했습니다.",
-      "오픈AI와 기업공개를 앞두고 고성능 모델 출시로 흥행 몰이에 나선 모습입니다.지난 9일(현지시간) 앤트로픽은 미토스급 고성능 AI 모델 '클로드 페이블5'와 보안 특화 모델 '클로드 미토스5'를 출시했습니다.",
-      "앤트로픽은 사이버 보안 악용 등을 우려해 기존 미토스를 일부 기업 및 기관에만 공개해왔습니다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n295a669e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/living/2026/06/11/2026061116214871308",
-    "title": "\"대한민국 최초 나폴리 피자 챔피언 탄생\"...해비치호텔 쉐프 초대 우승",
-    "summary": [
-      "나폴리 정통 피자협회(Associazione Verace Pizza Napoletana, AVPN)가 주최하는 대한민국 최초 공식 나폴리 피자 대회인 '2026 베라 피자 나폴리타나 챔피온 서울'이 지난 10일 경기도 고양시 킨텍스에서 성황리에 열린 가운데 대한민국 첫 챔피언을 선발했다고 11일 밝혔다.",
-      "이번 대회는 정통 나폴리 피자 브랜드 핏제리아오(Pizzeria'O)가 주관한 행사로 국내에서 정통 나폴리 피자의 기술과 철학을 이어온 피자이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd1e9cb04",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260611/134093036/1",
-    "title": "“이제 29개국 남았다”…AI비서 익시오, 세계 뚫는다",
-    "summary": [
-      "“이제 29개 남았습니다.”지난달 인공지능(AI) 통화 비서 ‘익시오(ixi-O)’의 말레이시아 수출 계약을 매듭짓고 돌아온 최윤호 LG유플러스 컨슈머부문 AI사업그룹장(상무)이 홍범식 대표에게 건넨 보고다.",
-      "그동안 “30개 나라에는 익시오를 수출해야 한다”고 말해 온 홍 대표를 향한 너스레였다.홍 대표는 3월 스페인 바르셀로나에서 열린 ‘모바일월드콩그레스(MWC)26’에서 “LG유플러스가 글로벌 AI 소프트웨어 기업으로 도약할 것”이라며 익시."
-    ],
-    "chips": [
-      "#AI",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n61ec84e6",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665921",
-    "title": "\"대~한민국!\" 광화문광장은 월드컵 거리응원 준비중 [뉴시스Pic]",
-    "summary": [
-      "[서울=뉴시스] 류현주 기자 = 2026 북중미 월드컵 대한민국과 체코의 경기를 하루 앞둔 11일 서울 종로구 광화문광장에서 거리응원을 위한 무대와 펜스가 설치됐다.",
-      "대한축구협회는 KT, 축구국가대표팀 공식 서포터즈 붉은악마와 함께 대표팀의 조별리그 경기 기간동안 서울 광화문광장 거리응원 행사를 진행한다.",
-      "대표팀은 12일 체코, 19일 멕시코, 25일 남아프리카공화국과 경기를 펼친다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd28945ab",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/11/2026061116300720980",
-    "title": "[속보]김용범 실장 \"한-EU 정상회담, 韓 철강 쿼터 물량 협상 상당한 진전…좋은 결과 있을 것\"",
-    "summary": [
-      "[the300] 11일 오전(현지시간) 이탈리아 로마, 김용범 청와대 정책실장...."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n28a6bef2",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665919",
-    "title": "[올댓차이나] 중국 증시 하락 마감…상하이지수 0.16%↓",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 중국 증시가 11일 하락 마감했다.",
-      "이날 상하이종합지수는 전날보다 0.16% 하락한 3987.01로 장을 마감했다.",
-      "선전성분지수는 전장 대비 0.68% 떨어진 1만4851.98로, ‘중국판 나스닥'으로 불리는 차이넥스트는 전장 대비 1.13% 내린 3811.75로 거래를 마쳤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2a2922e4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260611/134093802/2",
-    "title": "외교부 “고노 요헤이, 역사 직시하고 반성한 용기 높이 평가”",
-    "summary": [
-      "외교부는 11일 ‘고노 담화’로 유명한 고노 요헤이(河野洋平) 전 일본 중의원(하원) 의장의 별세 소식에 “깊은 애도와 추모의 뜻을 표한다”고 밝혔다.외교부는 이날 “고노 전 의장이 1993년 관방장관 재임 당시 발표한 ‘고노 담화’는 위안부 문제와 관련하여 ‘많은 여성들의 명예와 존엄에 깊은 상처’를 남긴 역사적 사실을 인정하고, ‘마음에서 우러나오는 사죄와 반성의 마음’을 명기한 일본 최초의 공식 문서였다”고 밝혔다.외교부는 “역사적 사실과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2154e589",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665537",
-    "title": "\"의식 없는 아버지 코안에 구더기가\"…요양병원 찾은 딸 '경악'",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 강원도의 한 요양병원에서 중증 환자의 코와 입 등에서 구더기로 추정되는 유충과 알이 잇따라 발견돼 보건당국이 조사에 나섰다.",
-      "환자 가족들은 병원의 관리 부실을 강하게 주장하고 있는 반면, 병원 측은 간호 처치 과정에서 미흡한 점이 있었다고 인정하면서도 정확한 발생 원인은 알 수 없다는 입장이다.",
-      "11일 YTN 보도에 따르면, 뇌종양 수술 후 의식을 회복하지 못해 지난 4월부터 해당 요양병원에 입원 중이던 환자."
-    ],
-    "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nfb2b2825",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/06/11/2026061115380032037",
-    "title": "DXVX, 'OVM-200' 임상 데이터 확보…\"기술이전 협상력 극대화\"",
-    "summary": [
-      "면역관문억제제 한계로 꼽히는 고형암 80% 미충족 수요 겨냥 '최대주주' DXVX, 韓·中·印 라이선스 보유…기술이전 가능성 고조 디엑스앤브이엑스(DXVX)의 관계사 영국 옥스포드 백메딕스(이하 OVM)가 항암 신약 'OVM-200'의 임상 1상을 성공적으로 완료했다.",
-      "인체 데이터를 통해 강한 면역원성과 초기 임상 활성이 확인된 데다 상대적으로 높은 범용성과 저비용 구조로 글로벌 경쟁력을 확보했단 평가다.",
-      "OVM-200의 한국·중국·인도 라이선."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne0ced5b5",
+    "id": "n5d410d6a",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/industry/2026/06/11/2026061114011764773",
-    "title": "휘모리, 신용보증기금 'NEST' 딥테크 분야 선정",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152555",
+    "title": "샘 올트먼, 판교 이어 정자까지...네이버·카카오 만난다",
     "summary": [
-      "AI(인공지능) 기반 유통 공급망 자동화 기업 휘모리(대표 구본근)가 신용보증기금의 스타트업 육성 프로그램 'NEST' 19기 딥테크 분야에 선정됐다고 11일 밝혔다.",
-      "NEST는 성장 가능성이 높은 창업기업을 발굴·육성하는 프로그램이다.",
-      "회사는 이번 선정으로 액셀러레이팅과 사업화 컨설팅, 투자유치 연계, 네트워킹 등을 지원받는다."
+      "오는 14일 한국을 찾는 샘 올트먼 오픈AI 최고경영자(CEO)가 국내 대표 플랫폼 기업 네이버와 카카오를 연달아 만난다.",
+      "양사 모두 인공지능(AI) 서비스 확장에 드라이브를 거는 가운데 글로벌 AI 시장을 이끄는 샘 올트먼 CEO라 직접 만나 협력 방안을 논의할 것으로 보인다.",
+      "11일 업계에 따르면 오는 15일 샘 올트먼 오픈AI CEO가 정자에 위치한 네이버 1784 사옥과 판교 카카오 아지트를 찾을 예정이다."
     ],
     "chips": [
       "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nf443acd9",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260611_0003665909",
-    "title": "숨진 광주 여성 소방관 카톡엔…\"술·커피 심부름…둘이 노래방 가자고\"",
-    "summary": [
-      "[광주=뉴시스]이현행 기자 = 지난해 10월 안타까운 선택으로 숨진 광주소방본부 소속 여성 소방공무원 A씨의 약혼자가 기자회견 현장에서 고인의 생전 카카오톡 대화 내용을 공개하며 광주소방본부의 가혹행위 은폐와 조직적인 책임 전가 의혹을 폭로했다.",
-      "11일 오후 광주 서구 광주시청 앞 기자회견장에서 취재진과 만난 A씨의 약혼자 B씨는 \"광주소방본부가 고인의 사망 직후 작성한 공식 공문에 허위 사실을 적시해 죽음의 책임을 약혼자와 유가족에게 전가하는."
-    ],
-    "chips": [
+      "#네이버",
       "#카카오"
     ]
   },
   {
-    "id": "n1f290564",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260611/134093128/1",
-    "title": "北中정상회담 기간 美日 확장억제 대화…“美 핵전력 현대화 논의” 공동성명",
+    "id": "n8033a2a5",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152550",
+    "title": "[카드뉴스] \"양자컴퓨터 시대 오면 해킹도 바뀐다\".. 엑스게이트가 올인한 미래 전략은?",
     "summary": [
-      "미국과 일본이 8, 9일 도쿄에서 ‘확장억제대화’(EDD)를 열어 북한의 완전한 비핵화를 강조하는 입장을 분명히 했다.",
-      "북한, 중국, 러시아 등의 핵 위협이 증대되는 것에 인식을 같이 하고, 미국 핵전력의 현대화 등 억지력 강화도 함께 논의했다.",
-      "같은 기간 중 평양에선 북중 정상회담이 열린 가운데 도쿄에서 미일이 맞대응 성격의 행사를 연 것."
+      "보안 시장의 룰이 바뀌고 있습니다.",
+      "양자컴퓨터 시대가 오면 지금의 암호체계가 무너질 수 있고, AI는 해킹 공격 속도까지 끌어올리고 있습니다.",
+      "이런 변화 속에서 엑스게이트가 단순 VPN·방화벽 회사를 넘어 양자암호와 AI 보안 기업으로 변신을 선언했습니다.심지어 앞으로는 챗봇으로 방화벽을 운영하는 시대까지 준비하고 있다는데요."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nd4d4948d",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061118245082882",
+    "title": "김용범 \"韓철강, EU 무관세 쿼터 잠정 합의\"…최선 결과 도출 기대",
+    "summary": [
+      "한국 정부가 유럽연합(EU)의 새 철강 수입 제도 시행을 앞두고 한국산 철강 무관세 쿼터 물량과 관련해 EU 측과 잠정 합의한 것으로 확인됐다.",
+      "EU가 다음 달부터 철강 무관세 수입 물량을 대폭 줄이기로 하면서 주요 수출국 간 물량 확보 경쟁이 치열해진 가운데 이재명 대통령은 이번 한-EU 정상회담에서 한국 기업에 대한 우호적 고려를 강하게 요청하기도 했다.",
+      "김용범 청와대 정책실장은 11일(현지시간) 로마 시내에 마련된 프."
+    ],
+    "chips": [
+      "#정책",
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6a8eb976",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026061118230667640",
+    "title": "메리츠금융 \"MBK·김병주 회장 보증시 홈플러스 1000억 지원 검토\"",
+    "summary": [
+      "메리츠금융그룹은 홈플러스 대주주인 사모펀드 운용사 MBK파트너스뿐만 아니라 김병주 회장의 보증을 전제로 홈플러스에 대한 긴급운영자금(DIP) 1000억원 대출 지원을 검토하기로 했다.",
+      "메리츠증권은 11일 \"홈플러스 금융지원을 위해 구체적인 보증 조건을 확인 중\"이라며 이같이 밝혔다.",
+      "이런 지원은 홈플러스 임직원의 고용 안정과 자금난을 겪는 협력업체들의 대금 결제 부담 완화를 위해서라는 설명이다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n8e70ce74",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003666120",
+    "title": "도공 부산경남, 농특산물 활용한 차음료 '차맛고도' 출시",
+    "summary": [
+      "[창원=뉴시스] 김기진 기자 = 한국도로공사 부산경남본부는 11일 함안(부산)휴게소에서 지역 농특산물 활용 차 음료 브랜드 '차맛고도' 개소식을 열었다.",
+      "'차맛고도 동행 테이스팅 로드' 라는 이름으로 진행된 이번 행사는 한국도로공사 부산경남본부, 경상남도농업기술원, 휴게소 운영사 및 지역 농민들이 참석한 가운데 진행됐다.",
+      "파지 농산물을 활용한 ‘수박 주스’ 등 인기 메뉴 시음과 브랜드 홍보를 통한 지역 농특산물 소비 촉진을 위해 마련됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne4f8ddf8",
+    "id": "n04e3a0e4",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/06/11/TIA5R2KG5RARBNI5SLM3XJIKZY/",
-    "title": "‘교육 기자재 납품 대가로 뒷돈’… 옥재은 전 서울시의원, 징역 7년",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260611/134095442/1",
+    "title": "‘26학번’ 김성령, 대학 축제 등장…“쫓겨나는 거 아니야?”",
     "summary": [
-      "‘교육 기자재 납품 대가로 뒷돈’… 옥재은 전 서울시의원, 징역 7년."
+      "김성령이 모교 대학 축제에 등장했다.11일 오후 공개된 유튜브 콘텐츠 ‘26학번 지원이요’에서는 배우 하지원이 대학 축제 당일 모습을 공개한 가운데 절친한 배우 김성령이 찾아왔다.그가 차에서 내리자마자, “아이고! 어떡해! 완전 창피해”라고 수줍어하면서도 설렌 표정을 지었다.",
+      "특히 “‘학부모님 나가 주세요’ 이러는 거 아니냐?”라며 쫓겨날까 봐 걱정해 웃음을 샀다.알고 보니 김성령이 경희대 출신이라고.",
+      "“학교 되게 오랜만에 오시는 거 아니냐?”."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nb28bfc6c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611139500064",
-    "title": "제천 노후 경로당 2곳 '공기 중 라돈 농도' 권고기준 초과",
+    "id": "nd8ca5468",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026061118224863559",
+    "title": "우리은행, 비대면 대환대출 중단…'빚투' 급증에 신용대출 죈다",
     "summary": [
-      "(청주=연합뉴스) 전창해 기자 = 충북도 보건환경연구원은 제천 소재 노후 경로당 2곳의 실내 공기에서 1급 발암물질인 라돈의 농도가 권고기준을 ..."
+      "우리은행이 비대면 신용대출 갈아타기 상품 접수를 중단한다.",
+      "최근 국내 증시 상승에 따른 '빚투(빚내서 투자)' 수요가 늘면서 신용대출 중심으로 가계대출이 급증하자 금융당국이 관리 강화를 주문한 데 따른 조치다.",
+      "11일 우리은행에 따르면 은행은 12일부터 비대면 방식으로 진행되는 신용대출 갈아타기 상품 접수를 중단한다."
     ],
     "chips": [
-      "#의료",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc713750",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260611/134095434/1",
+    "title": "대전오월드, 오후 10시까지 ‘늑구’ 본다…주말 야간 개장",
+    "summary": [
+      "대전오월드가 13일부터 주말·공휴일 야간 개장을 재개한다고 11일 밝혔다.늑대 ‘늑구’ 탈출로 두달 가까이 휴장에 들어갔다 지난 5일 다시 문을 연 오월드 야간 개장 시간은 오후 10시까지다.",
+      "저녁 시간에도 ‘늑구’를 관람할 수 있게 된다.방문객들은 놀이기구와 동물원, 아프리카 사파리, 플라워랜드를 보다 시원한 저녁 시간대에도 함께 즐길 수 있다.특히 해가 진 후 조명이 더해진 놀이시설과 아프리카 사파리, 플라워랜드 야간 콘텐츠인 ‘나이트 유니."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n199eabf2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003666142",
+    "title": "유재석 앞세운 K-예능 관광 마케팅…관광공사 ‘코리아 캠프’",
+    "summary": [
+      "지방자치단체김정환 관광전문 기자 = 1 문화체육관광부와 한국관광공사는 글로벌 OTT 플랫폼 넷플릭스의 인기 예능 프로그램 ‘유재석 캠프’의 IP(지식재산권)를 활용한 한국관광 글로벌 광고 캠페인 ‘코리아 캠프’(Korea Camp)를 추진한다고 11일 밝혔다.",
+      "관광공사는 지난해 ‘오징어 게임’과 ‘지금 우리 학교는’ 등 K-드라마를 모티브로 한 캠페인으로 누적 조회수 6800만 회 이상을 기록했다.",
+      "올해는 협업 범위를 K-예능으로 확대해 콘텐츠."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ncb3ed30a",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026061117471879749",
+    "title": "광주 서구 자원봉사자들, \"예방이 최선\" 침수 취약지 집중 점검",
+    "summary": [
+      "광주광역시 서구자원봉사센터는 11일 통합자원봉사지원단 소속 14개 단체 자원봉사자 60여 명이 참여한 가운데 농성동과 양동, 유덕동 일원에서 빗물받이 청소와 배수구 점검 활동을 실시했다고 밝혔다.",
+      "이번 활동은 장마철 집중호우로 인한 침수 피해를 예방하기 위해 마련됐다.",
+      "자원봉사자들은 하수도 유입구와 배수구에 쌓인 낙엽과 쓰레기 등을 제거하고, 배수 상태를 점검하는 한편 주변 환경정화 활동도 함께 진행했다."
+    ],
+    "chips": [
       "#환경"
     ]
   },
   {
-    "id": "nb841f811",
+    "id": "nbcfd58a4",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260611/134095428/1",
+    "title": "6월 전국 3만5200가구 분양… 올해 월간 최대 물량",
+    "summary": [
+      "연초부터 미뤄졌던 아파트 공급 일정이 6월에 집중되면서 전국 분양 물량이 올해 들어 월간 기준 가장 많은 수준으로 늘어날 전망이다.",
+      "전체 물량의 약 60%가 수도권에 몰리면서 입지와 분양가에 따른 청약시장 양극화도 이어질 것으로 보인다.11일 부동산R114에 따르면 6월 전국 아파트 분양 물량은 총 3만5202가구로 집계됐다.",
+      "일반분양 물량은 2만2959가구로, 6월 청약을 진행하는 기분양 단지도 포함됐다.이는 올해 들어 월별 기준 가장 많은."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n194fe129",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003666122",
+    "title": "군산 사료공장서 카고트럭, 70대 신호수 '쾅'…끝내 사망",
+    "summary": [
+      "[군산=뉴시스]강경호 기자 = 11일 오후 1시13분께 군산시 소룡동의 한 사료 제조 공장에서 25t 카고트럭이 교통 신호수 A(70대)씨를 들이받았다.",
+      "이날 사고로 A씨는 심정지 상태로 병원으로 옮겨졌지만 숨졌다.",
+      "경찰은 공장 관계자 등을 대상으로 정확한 사고 경위를 조사 중이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n024f1b24",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003666090",
+    "title": "中, 日고노 별세에 \"깊이 애도…日, 약속 지켜야\"",
+    "summary": [
+      "[베이징=뉴시스]박정규 특파원 = 일본군 위안부 동원에 대해 사죄한 이른바 '고노 담화'의 고노 요헤이 전 일본 중의원(하원) 의장의 별세에 중국 정부가 애도를 표하면서 일본의 반성을 촉구했다.",
+      "린젠 중국 외교부 대변인은 11일 정례브리핑에서 고노 전 의장이 별세한 데 대해 \"고노 선생이 불행히도 별세한 데 대해 깊은 애도를 표하고 유가족에게 진심 어린 위로를 전한다\"고 밝혔다.",
+      "린 대변인은 \"고노 선생은 중국 인민의 라오펑유(老朋友·오랜 친구."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n43b6bfaf",
+    "category": "부동산",
+    "source": "머니투데이",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611138300052",
-    "title": "경남도 \"정부합동평가 역대 최고 성적…민선 8기 성공 마무리\"",
+    "url": "https://www.mt.co.kr/society/2026/06/11/2026061118112782024",
+    "title": "산불로 이어진 창원 단독주택 화재…자체 진화하려던 80대 화상",
     "summary": [
-      "(창원=연합뉴스) 이정훈 기자 = 경남도는 행정안전부가 주관한 2026년 정부합동평가에서 정량평가 96개 지표를 모두 100% 달성하고 정성평가..."
+      "산불로 번졌던 경남 창원시의 한 단독주택 화재가 약 2시간30분 만에 진화됐다.",
+      "11일 뉴스1에 따르면 이날 오후 1시7분쯤 경남 창원시 성산구 귀산동의 한 단독주택에서 화재가 발생했다.",
+      "불은 주택 뒤편 야산으로 번지며 산불로 이어졌다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n97589ea3",
+    "id": "ndfd42020",
     "category": "IT",
-    "source": "조선비즈IT",
+    "source": "머니투데이",
     "time": "7분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/11/HB3JM4EYVFANRLOMT7WYBK37WI/",
-    "title": "한컴, BGF그룹과 AX 협력…사내 데이터 활용해 AI 검색 시스템 구축",
+    "url": "https://www.mt.co.kr/society/2026/06/11/2026061116531729540",
+    "title": "'알리페이에 고객 정보 유출' 카카오페이…법원 \"60억 과징금 정당\"",
     "summary": [
-      "한컴, BGF그룹과 AX 협력…사내 데이터 활용해 AI 검색 시스템 구축."
+      "국민 4000만명의 동의 없이 금융·개인정보를 중국 알리페이에 넘긴 카카오페이에 과징금 60억원을 부과한 개인정보보호위원회(개보위)의 처분이 정당했다는 법원 판단이 나왔다.",
+      "서울행정법원 행정12부(부장판사 강재원)는 11일 카카오페이가 개인정보보호위원회를 상대로 낸 시정명령 등 처분 취소 청구 소송에서 원고 패소로 판결했다.",
+      "재판부는 \"지난해 1월22일 개보위가 카카오페이에 한 과징금 부과, 시정명령, 공표 명령 처분의 취소를 구하는 카카오페이."
     ],
     "chips": [
-      "#AI"
+      "#카카오"
     ]
   },
   {
-    "id": "n5aef77a5",
+    "id": "n89b7468e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611138200055",
-    "title": "전춘성 진안군수 \"기본사회 완성·100년 미래도시 도약에 주력\"",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611157200004",
+    "title": "김소영측 \"'약물 음료' 건넨 적 없어\"…3명 상해 혐의 부인",
     "summary": [
-      "(진안=연합뉴스) 최영수 기자 = 6·3지방선거에서 3선에 성공한 전춘성 전북 진안군수가 민선 9기 군정 핵심 과제로 진안형 기본사회 완성, 미..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf1372f39",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611135400002",
-    "title": "캠코-한국벤처캐피탈, 유망 기업 투자 지원 체계 조성 '맞손'",
-    "summary": [
-      "(서울=연합뉴스) 강류나 기자 = 한국자산관리공사(캠코)가 한국벤처캐피탈협회와 '기업 투자 지원 체계 구축을 위한 업무협약'을 체결했다고 11일..."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n6bb7aa15",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260611138600002",
-    "title": "빚투 급증에…우리은행, 비대면 신용대출 갈아타기 접수 중단",
-    "summary": [
-      "(서울=연합뉴스) 임지우 기자 = 지난달 주식시장 '빚투'(빚내서 투자) 수요 급증에 신용대출을 중심으로 가계대출이 크게 늘자 은행권이 비대면 ..."
+      "(서울=연합뉴스) 정지수 기자 = '강북 모텔 연쇄살인범' 김소영(20) 측이 남성 3명에게 상해를 입힌 혐의에 대해 재판에서 부인했다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "ne3597a88",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260611/134095078/2",
+    "title": "“삼전닉스·실리콘칼라까지”…외신도 주목한 한국의 반도체 열풍",
+    "summary": [
+      "뉴욕타임스가 한국 반도체 열풍을 조명하며 ‘삼전닉스’, ‘삼멘’, ‘하의치한약수’, ‘셔틀권’ 등 신조어와 밈이 AI 시대 한국 사회를 보여준다고 분석했다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n811c0457",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260611157400098",
+    "title": "미국 기술 의존도 줄이려…\"EU, 한국 등으로 눈길\"",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)이 미국 빅테크와 기술에 대한 의존을 줄이려 한국 등으로 눈을 돌리고 있다고 유럽 언론들이 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7213ba06",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/06/11/MBXKRPBK3RAYLGWKDFXBXESCOA/",
+    "title": "다산 정약용 유배지서 편지 써볼까... 13일 포항서 유배 문화제",
+    "summary": [
+      "다산 정약용 유배지서 편지 써볼까... 13일 포항서 유배 문화제."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6ba4b66e",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/future/2026/06/11/2026061116244679799",
+    "title": "리벨리온, 문병준 전 주사우디 대사대리 전략고문으로 위촉",
+    "summary": [
+      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] AI 반도체 스타트업 리벨리온이 문병준 전 주사우디아라비아 대사대리를 중동·북아프리카(MENA) 전략 고문으로 위촉했다고 11일 밝혔다.",
+      "문 신임 고문은 외교부 중동2과장을 비롯해 주이집트 대사관 공사, 주두바이 총영사, 주사우디아라비아 대사대리를 역임한 중동 외교 전문가다.",
+      "중동 다수의 국가에서 오랜 기간 활동하며 현지 정."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#스타트업"
     ]
   }
 ];
@@ -637,19 +652,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
-  },
-  {
-    "rank": 2,
     "tag": "AI",
     "mentions": "1810건",
     "trend": "+175%"
   },
   {
+    "rank": 2,
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
+  },
+  {
     "rank": 3,
-    "tag": "스타트업",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   }
