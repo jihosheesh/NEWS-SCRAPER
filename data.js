@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-12 17:47:30
+// 마지막 업데이트: 2026-06-12 18:36:42
 window.NEWS_DB = [
   {
     "id": "n94aeb15e",
@@ -18,11 +18,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n71a254ee",
+    "id": "n5f09f7e4",
     "category": "경제",
     "source": "뉴시스",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
+    "time": "16시간 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEd9IBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
     "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
     "summary": [
       "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
@@ -31,6 +31,21 @@ window.NEWS_DB = [
       "#부동산",
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n7c9e9138",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "17시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaTJiYVJiLWtIZnlfZ3VRWm9HeW5QTWhMemtKSDYwdnFZNkRwVmhPN3B3aEpNeVdsLU82V0k3Q0t2Tm9sNHQ5QUJHeF9VcW1XTDNHdGNDMERRZ9IBVEFVX3lxTE5UMmczREttNy14TjBUVE1NeG1kNUQ3WDNZbko4N3JQb3RKY1hEc29pNjFJaHFnUzRzSnFLOVVrano4QWpNSklVTVRyTWxzV1k0ZFVyMQ?oc=5",
+    "title": "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각",
+    "summary": [
+      "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각 한국경제."
+    ],
+    "chips": [
+      "#환율",
+      "#정책"
     ]
   },
   {
@@ -124,6 +139,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13b4af19",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
     "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
@@ -136,6 +168,21 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "n70cb7884",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
+    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
+    "summary": [
+      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -167,33 +214,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a25f504",
-    "category": "경제",
-    "source": "마켓인",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KM1A2UlB1aWxvNHl3RTNpTzItS19rbFlkT2EzMWZYR3BqNTJfcWlZM0tpcHdGTk1OelB6bWxlSW85OXdCWlBTYVdLaVhVdjAtcHVyUHhQZEhmZjYtUWllVG96RmZfcDlWckdVMVBOekFlb0U?oc=5",
-    "title": "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합)",
-    "summary": [
-      "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합) 마켓인."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n02951820",
-    "category": "사회",
-    "source": "투데이경제",
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
     "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
-    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
     "summary": [
-      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
     ],
     "chips": [
-      "#채용",
-      "#취업",
+      "#반도체",
       "#고용"
     ]
   },
@@ -256,21 +287,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb04cef68",
-    "category": "사회",
-    "source": "경기일보",
-    "time": "119일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
-    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
-    "summary": [
-      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -283,21 +299,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
-    ]
-  },
-  {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "내 손안에 서울",
-    "time": "224일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
-    "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -332,10 +333,155 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2c2e5724",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667756",
+    "title": "李 \"공급망 네트워크 산업 경쟁력 좌우\"…이탈리아 \"中 원자재 좌지우지, 대안 찾아야\"(종합)",
+    "summary": [
+      "[로마·서울=뉴시스]김경록 김지은 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 12일(현지시간) 한-이탈리아 기업인들과 만나 \"기초과학 강국으로서 창의적인 공학 디자인의 역량을 갖춘 이탈리아와 첨단제조 강국으로 기술 혁신의 역량을 갖춘 대한민국 두 나라는 그야말로 최적의 파트너라 생각한다\"고 밝혔다.",
+      "이 대통령은 이날 오후 로마의 한 호텔에서 열린 '한-이탈리아 비즈니스 라운드테이블'에 참석해 \"글로벌 불확실성 높아질수록 신뢰할 수 있는."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndd58e1c5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260613/134104418/1",
+    "title": "이란 외무 “MOU 어느 때보다 가까워져…추측 보도 자제해야”",
+    "summary": [
+      "아바스 아라그치 이란 외무장관이 12일(현지 시간) 미국과의 종전 양해각서(MOU) 체결이 어느 때보다 가까워졌다고 확인했다.아라그치 장관은 이날 소셜미디어(SNS) 엑스(X·구 트위터)를 통해 “이슬라마바드 양해각서가 어느 때보다 가까워졌다”며 “최종 확정될 때까지 언론은 추측을 자제해달라”고 말했다.그는 “책임감 있고 투명한 절차에 따라 모든 세부 사항은 적절한 시기에 공개될 예정”이라고 강조했다.앞서 미국과 이란의 MOU 체결 가능성이 임."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n12f4928e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613005000082",
+    "title": "혼쭐난 독일 총리, 트럼프에 '생일 축하' 손편지",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 프리드리히 메르츠 독일 총리가 도널드 트럼프 미국 대통령에게 친필로 생일 축하 편지를 써서 보냈다고 일간 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne2b318f5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667755",
+    "title": "한-이탈리아 기업인들 만난 이재명 대통령, \"양국 상호보완적 협력\" [뉴시스Pic]",
+    "summary": [
+      "[로마·서울=뉴시스]최동준 김지은 김경록 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 12일(현지시간) 한-이탈리아 기업인들과 만나 \"기초과학 강국으로서 창의적인 공학 디자인의 역량을 갖춘 이탈리아와 첨단제조 강국으로 기술 혁신의 역량을 갖춘 대한민국 두 나라는 그야말로 최적의 파트너라 생각한다\"고 밝혔다.",
+      "이 대통령은 이날 오후 로마의 한 호텔에서 열린 '한-이탈리아 비즈니스 라운드테이블'에 참석해 \"글로벌 불확실성 높아질수록 신뢰할."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nab32e6ef",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/13/MNQTGZJTMM3DONBYHA2TKNZWGE/",
+    "title": "어쩌다 이 지경이 됐나! 5312억 거물 타자, 먹튀 위기! 저지 스승 찾아갔다가 타율 1할7푼2리 추락…현지 매체도 \"오히려 퇴보했다\" 혹평",
+    "summary": [
+      "[OSEN=손찬익 기자] 한때 메이저리그 최고의 3루수 가운데 한 명으로 평가받았던 매니 마차도(샌디에이고 파드리스 내야수)가 극심한 타격 부진에 시달리고 있다.",
+      "현지 매체는 오프시즌 타격 메커니즘 변화가 부진의 원인 중 하나일 수 있다고 분석했다.미국 스포츠 매체 '스포팅 뉴스'는 지난 12일(한국시간) \"매니 마차도가 애런 저지(뉴욕 양키스)의 타격 훈."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n57c535f1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613004800091",
+    "title": "美텍사스 서부서 총기난사로 10명 사상…총격범도 숨져",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국 텍사스주 서부에서 총기난사 사건이 발생해 1명이 숨지고 9명이 부상했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n454e6dd5",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667751",
+    "title": "스페이스X, 상장 첫날 한때 30%↑…머스크 '조만장자' (종합)",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 스페이스X가 12일(현지 시간) 미국 나스닥 시장에서 사상 최대 규모의 기업공개(IPO)에 성공했다.",
+      "첫 거래일 한때 공모가 대비 약 30% 급등해 거래됐다.",
+      "CNBC, 월스트리트저널(WSJ) 등에 따르면 스페이스X는 한국시간 13일 오전 12시50분께 나스닥에서 주당 150달러에 거래를 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naa967fc4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/international/2026/06/13/5632E4WIIJB27HATSBLZX67APU/",
+    "title": "누구도 정복못한 지상최고의 티벳의 ‘성산’, 그 금단의 땅에 가다",
+    "summary": [
+      "누구도 정복못한 지상최고의 티벳의 ‘성산’, 그 금단의 땅에 가다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbf3ea2e9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/13/JAJ6WIZ5FFAOLDWEGZUHCYH6SM/",
+    "title": "뉴욕~런던 3시간 30분… 다시 열리는 초음속 여객기 시대",
+    "summary": [
+      "뉴욕~런던 3시간 30분… 다시 열리는 초음속 여객기 시대."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ef529dc",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/06/13/4TCJRR3BUNFBFIIYDQHLZZO3MI/",
+    "title": "청량한 하코다테, 청정 바다 맛을 모은 하코다테 朝市",
+    "summary": [
+      "청량한 하코다테, 청정 바다 맛을 모은 하코다테 朝市."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n1b7a0553",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "36분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152585",
     "title": "샘 올트먼 방한 연기...네이버·카카오 회동 '불발'",
     "summary": [
@@ -349,10 +495,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nef5e70ed",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613004500007",
+    "title": "[월드컵] '41세' 호날두, 노쇠화 우려 일축…\"제 경기 안 봤나요?\"",
+    "summary": [
+      "(과달라하라=연합뉴스) 오명언 기자 = 포르투갈 축구대표팀의 '슈퍼스타' 크리스티아누 호날두(41·알나스르)가 2026 북중미 월드컵 조별리그 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n808ffcf6",
     "category": "사회",
     "source": "동아일보",
-    "time": "1분 전",
+    "time": "50분 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260613/134104412/1",
     "title": "차인표 “억지로 붙잡지 마라”…60년 살아보고 느낀 인맥이 필요없는 이유",
     "summary": [
@@ -367,7 +527,7 @@ window.NEWS_DB = [
     "id": "nacce6a56",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
+    "time": "56분 전",
     "url": "https://www.yna.co.kr/view/AKR20260613003500001",
     "title": "李대통령 \"韓-伊 최적 파트너…글로벌 불확실성 함께 헤쳐가길\"",
     "summary": [
@@ -378,115 +538,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5bf473f8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613004100071",
-    "title": "트럼프, 종전 MOU 서명 시기에 \"주말이나 월요일에 가능할 것\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 12일(현지시간) 이란이 종전을 위한 양국 간 양해각서(MOU) 타결이 가까워..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd61a3052",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613003900091",
-    "title": "스페이스X 사장 \"테슬라 합병시 머스크 편해지고 시너지 있지만\"",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 사상 최대 규모 기업공개(IPO)로 나스닥에 데뷔한 스페이스X의 귄 쇼트웰 사장 겸 최고운영책임자(C..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb1f3a64",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/06/13/GM3TMMRQGFSTCNLBMJTDAZBVMU/",
-    "title": "한-이탈리아 기업인 집결… 李 대통령“AI 혁명 속 양국 협력 필요”",
-    "summary": [
-      "이탈리아를 국빈 방문 중인 이재명 대통령이 12일(현지 시각) 로마에서 열린 ‘한-이탈리아 비즈니스 라운드 테이블’에 참석해 “한국과 이탈리아는 최적의 파트너”라고 강조했다.",
-      "이 대통령은 이날 라운드 테이블 기조 발언을 통해 “예술과 과학, 창의성과 이성의 결합으로 인류 문명의 도약을 이뤄낸 이탈리아에서 양국의 미래 협력을 논할 수 있게 돼 기쁘다”고 했다."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7d0d0490",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/13/MM4DQNBWME2TEYTCMIZDSMJZGQ/",
-    "title": "에이스는 10K 호투, 최다 안타-최다 득점 대폭발...김태형 감독 \"3루 응원석 열렬히 응원해주신 팬들께 감사하다\"",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 롯데 자이언츠가 장단 16안타를 폭발시키며 LG 트윈스에 대승을 거뒀다.롯데는 12일 잠실구장에서 열린 LG와 경기에서 16-4로 승리했다.",
-      "6회 5득점, 8회 9득점 빅이닝으로 화끈한 타격을 선보였다.",
-      "롯데는 1회 톱타자 황성빈이 안타와 도루로 2루까지 진루했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ncb5e135e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613003300087",
-    "title": "페루 대선 피말리는 접전…후지모리, 산체스에 재역전",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 지난 7일(현지시간) 치러진 페루 대선 결선투표에서 우파 게이코 후지모리 '민중의힘' 후보가 좌파 로베..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0558e224",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666444",
-    "title": "연 매출 100억이라던 청년 사업가…AI로 가짜 이체증 만들어 임금 체불",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = SNS에서 맛집으로 유명해져 연 매출 100억원을 기록했다고 알려진 30대 청년 사업가가 직원들의 임금을 체불하고 법 적용을 피하고자 꼼수를 부린 사실이 드러나 공분을 사고 있다.",
-      "지난 11일 방송된 JTBC '사건반장'에 따르면 해당 사업가가 운영하는 식당에서 근무했던 전 직원 A씨는 임금과 휴일근로수당, 퇴직금 등 총 4500만원가량을 받지 못한 사실을 제보한 것으로 알려졌다.",
-      "A씨에 따르면 사업가는 근로."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nd1d9c624",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003667749",
-    "title": "이 대통령 \"신뢰할 수 있는 파트너 공급망 네트워크가 산업 경쟁력 좌우\"",
-    "summary": [
-      "[로마·서울=뉴시스] 김지은 김경록 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 12일(현지시간) 한-이탈리아 기업인들과 만나 \"기초과학 강국으로서 창의적인 공학 디자인의 역량을 갖춘 이탈리아와 첨단제조 강국으로 기술 혁신의 역량을 갖춘 대한민국 두 나라는 그야말로 최적의 파트너라 생각한다\"고 밝혔다.",
-      "이 대통령은 이날 오후 로마의 한 호텔에서 열린 '한-이탈리아 비즈니스 라운드테이블'에 참석해 \"글로벌 불확실성 높아질수록 신뢰할 수 있."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "ne23166d9",
     "category": "IT",
     "source": "동아일보",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260613/134104388/1",
     "title": "李 “韓-이탈리아, 최적의 파트너”…AI·반도체·우주 협력 강조",
     "summary": [
@@ -502,7 +557,7 @@ window.NEWS_DB = [
     "id": "nc74773f7",
     "category": "경제",
     "source": "동아일보",
-    "time": "36분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260613/134104377/1",
     "title": "伊총리 만난 李대통령 “월드컵 본선서 만났어야 했는데…”",
     "summary": [
@@ -515,26 +570,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n971aca73",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "39분 전",
-    "url": "https://view.asiae.co.kr/article/2026061302075725004",
-    "title": "스페이스X 상장 첫날 11% 급등…머스크, 세계 첫 '조만장자' 등극",
-    "summary": [
-      "일론 머스크의 항공우주 기업 스페이스X가 12일(현지시간) 상장 첫날 나스닥에서 주당 150달러에 거래를 시작했다.",
-      "이는 공모가(135달러) 대비 약 11% 높은 수준이다.",
-      "이날 월스트리트저널(WSJ)에 따르면 당초 시장에서는 스페이스X 시초가가 주당 175달러 수준에서 형성될 것이라는 전망도 나왔지만, 수급 조정을 거쳐 150달러로 결정됐다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "neb800fc7",
     "category": "사회",
     "source": "한국경제",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026061239861",
     "title": "李대통령, 멜로니 총리와 회담…첨단기술 협력 강화한다",
     "summary": [
@@ -545,72 +584,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n126244a2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "47분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667025",
-    "title": "부산 남구 생활밀착 문화예술 교육 '가가호호' 참가자 모집",
-    "summary": [
-      "[부산=뉴시스]김민지 기자 = 부산 남구문화재단(재단)은 생활밀착형 문화예술 교육 지원 사업 '가가호호' 참가자를 모집한다고 13일 밝혔다.",
-      "이는 한국문화예술교육진흥원의 공모 선정으로 추진됐다.",
-      "저출생과 인구 감소 등 사회 변화에 대응한 가족 간 소통과 관계 회복 지원을 목적한다."
-    ],
-    "chips": [
-      "#채용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n05bc68c6",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "51분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/13/JHJQC2ANGFCD7FCOO3LFBSOGVM/",
-    "title": "스페이스X 나스닥 상장 첫날, 주당 150달러에 거래 시작",
-    "summary": [
-      "스페이스X 나스닥 상장 첫날, 주당 150달러에 거래 시작."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n82273c1c",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "55분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260613/134104365/1",
-    "title": "스페이스X, 150달러로 나스닥 데뷔…시총 2조 달러 돌파",
-    "summary": [
-      "일론 머스크가 이끄는 우주기업 스페이스X가 12일(현지 시간) 뉴욕증시 나스닥 시장에서 주당 150달러에 첫 거래를 시작했다.CNBC 등에 따르면 스페이스X는 한국시간 13일 오전 12시50분께 나스닥에서 주당 150달러에 거래를 시작했다.",
-      "기업공개(IPO) 공모가 135달러보다 약 11% 오른 수준이다.시초가가 당초 공모가 대비 30% 오른 175달러에 형성될 것이라는 시장 예상도 있었으나, 조정을 거쳐 150달러 선에서 시작됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b04ecca",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "55분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/13/GRSTEZJYG43GINZWGU4DAYTFGU/",
-    "title": "'산 게 다행' 은퇴식도 계획하고 있었는데...그렇게 원하던 400도루 3개 남기고, 역대 최악의 불명예 퇴진",
-    "summary": [
-      "[고척=스포츠조선 김용 기자] \"은퇴식도 계획하고 있었는데...\" 충격적인 사고가 터졌다.",
-      "'악바리'의 대명사, '용규놀이'의 창시자 키움 히어로즈 이용규 플레잉 코치가 믿기 힘든 음주운전 사고를 낸 것이다.",
-      "이 코치는 12일 새벽 술을 마시고 차를 몰고 귀가하다 일반인 차량과 경찰차까지 들이받는 충격적 사고를 냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na51fe885",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202606134011i",
     "title": "머스크, 인류 최초 '1조달러 자산가' 등극…스페이스X 상장 효과",
     "summary": [
@@ -624,7 +601,7 @@ window.NEWS_DB = [
     "id": "n646d2a7b",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202606134010i",
     "title": "스페이스X, 상장 첫날 20% 급등…시총 2조달러 돌파",
     "summary": [
@@ -632,6 +609,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc37b3f9",
+    "category": "IT",
+    "source": "테크M",
+    "time": "2시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152583",
+    "title": "AI 리센느가 '0+0' 부른다면 수익은 누가?...뉴튠, 음악 쪼개 권리 문제 해소",
+    "summary": [
+      "요즘 엔터테인먼트업계에선 5인조 여자 아이돌그룹 리센느가 화제다.",
+      "'중소돌'이란 애칭을 등에 업고 모두가 함께 성장을 응원하는 '국민조카' 포지션을 점하면서다.",
+      "대표곡 '러브 어택'은 음원 스트리밍 플랫폼 멜론 차트 10위권 내 진입했고, 출연하는 콘텐츠마다 유튜브에서 반응이 폭발적이다."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -641,14 +634,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
