@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-12 09:20:04
+// 마지막 업데이트: 2026-06-12 11:15:05
 window.NEWS_DB = [
+  {
+    "id": "n94aeb15e",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwUVBkM0hJMlllNzJ6dFlJS0o0VnlJaDlvcnp0ZEFDYjlabXRMeWZyMVlfWVY3YWk0enV5OHpjLVBMaEotMnpBVFVIdng2X2IxYWZVNzk4MTFLRkxqalFEanMzQkpsaDRDU290alJ0SXhwR3M?oc=5",
+    "title": "[젠슨 황 이펙트⑨] 베일 벗은 '엔비디아·네이버 동맹', 이해진 젠슨 황 손잡고 AI 인프라 영토 확장",
+    "summary": [
+      "[젠슨 황 이펙트⑨] 베일 벗은 '엔비디아·네이버 동맹', 이해진 젠슨 황 손잡고 AI 인프라 영토 확장 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#네이버"
+    ]
+  },
   {
     "id": "n71a254ee",
     "category": "경제",
     "source": "뉴시스",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
     "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
     "summary": [
@@ -21,7 +37,7 @@ window.NEWS_DB = [
     "id": "n704d5b25",
     "category": "IT",
     "source": "헤럴드경제",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQWFFYeGFBdVRVbkdIeEhrdzlFeTcxMHZVbzRrMXcyX1BuYTFIbEpzMVRaOFQwY3B1RUdCUUl6cHZlc056QzVCNENEc2J2T1B6Mk9FYW5B?oc=5",
     "title": "삼성 파운드리, 구글과 접점 커질까…TPU 핵심 부품 수주 기대감",
     "summary": [
@@ -78,38 +94,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31acb708",
-    "category": "사회",
-    "source": "아주경제",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
-    "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "ncb3073f2",
-    "category": "IT",
-    "source": "더팩트",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PYnotSzlwdTRWYjBocFpVbVFlVFlmcmFBdXJHbmZkVlBLV19SZVBkLXVGR1pGdnM2TXJrZ0lET01NU2dzVVNaRUpkWnd5eDlUdXJDedIBVEFVX3lxTE1PYnotSzlwdTRWYjBocFpVbVFlVFlmcmFBdXJHbmZkVlBLV19SZVBkLXVGR1pGdnM2TXJrZ0lET01NU2dzVVNaRUpkWnd5eDlUdXJDeQ?oc=5",
-    "title": "젠슨 황이 띄운 AI 전쟁…은행권 '생산적 금융'도 반도체로 간다",
-    "summary": [
-      "젠슨 황이 띄운 AI 전쟁…은행권 '생산적 금융'도 반도체로 간다 더팩트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
     "id": "na542b62c",
     "category": "IT",
     "source": "디일렉",
@@ -128,7 +112,7 @@ window.NEWS_DB = [
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
     "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
@@ -137,23 +121,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n13b4af19",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
     ]
   },
   {
@@ -172,18 +139,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n70cb7884",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
+    "id": "ne2208e3a",
+    "category": "부동산",
+    "source": "프라임경제",
+    "time": "13일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc0UzWmJweS1lNEZoWnc2WEtHbFhzcjZLWmlXLWJ3ZlUwV2xDUm02a1FiajU0NFFjcGh6NGRuUngtUXNuRnBSMWdaR3haLXowWWloeXZuS3RER2F6dTNBOXdrNzF1TE9ya2F2dQ?oc=5",
+    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
     "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
+      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
     ],
     "chips": [
-      "#취업",
-      "#고용"
+      "#부동산"
     ]
   },
   {
@@ -230,18 +196,34 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n269e2609",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "31일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
     ],
     "chips": [
-      "#부동산",
-      "#전세"
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
     ]
   },
   {
@@ -303,6 +285,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "내 손안에 서울",
+    "time": "224일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -315,6 +312,22 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "ncfeeeacd",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152587",
+    "title": "캐논코리아, 'EOS R6 V' 6월 19일 출시 확정...구매 혜택은?",
+    "summary": [
+      "캐논코리아가 영상 특화 풀프레임 미러리스 카메라 'EOS R6 V'를 오는 19일 국내에 공식 출시한다.",
+      "함께 공개된 파워 줌 렌즈 'RF20-50mm F4 L IS USM PZ'와 삼각대 그립 'HG-200TBR'도 같은 날 판매를 시작한다.캐논코리아는 19일 오전 10시 신제품 3종을 출시한다고 12일 밝혔다.",
+      "제품별 가격은 ▲EOS R6 V 바디 299만9000원 ▲RF20-50mm F4 L IS USM PZ 187만9000원 ▲HG-20."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -366,273 +379,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31188319",
+    "id": "nb5dd4fc9",
     "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152579",
-    "title": "e스포츠 IP 전선 넓히는 치지직, 스트리밍 주도권 경쟁 '속도'",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003667627",
+    "title": "\"AI·로봇·대체식품 집결\"…‘월드푸드테크 컨펙스' 성료",
     "summary": [
-      "네이버가 크래프톤과의 협업을 발표하며 스트리밍 e스포츠 콘텐츠 확대에 나선다.",
-      "라이엇게임즈, 넥슨에 이어 배틀그라운드 지식재산권(IP)까지 확보하며 e스포츠 콘텐츠 생태계를 확장한다는 전략이다.",
-      "이는 치지직이 이용자 성장세를 이어가는 동시에 스트리밍 시장 주도권 경쟁에도 속도를 내는 주요 성장 요인이 될 것으로 기대된다."
+      "[서울=뉴시스]송종호 기자 = 최신 푸드테크 트렌드를 제시하고 미래 산업 방향을 전망할 수 있는 푸드테크 축제가 성황리에 막을 내렸다.",
+      "12일 월드푸드테크협의회 사무국에 따르면 월드푸드테크 컨펙스 2026(World FoodTech ConfEx 2026· WFT26 ConfEx)'가 월드푸드테크협의회, 대한상공회의소, 서울대학교가 공동 주최로 지난 9일부터 이날까지 경기 고양시 킨텍스(KINTEX) 제2전시장에서 개최됐다."
     ],
     "chips": [
-      "#네이버"
+      "#AI",
+      "#교육"
     ]
   },
   {
-    "id": "n803efb55",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667519",
-    "title": "\"꽤 강하다\"…日언론도 주목한 홍명보호의 체코전 역전승",
+    "id": "n1282427d",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026061220131821013",
+    "title": "양주시장직 인수위, '양주대전환' 시동…시민주권 실현 방안 논의 본격화",
     "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 홍명보 감독이 이끄는 한국 남자 축구 대표팀이 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 A조 체코와의 1차전에서 2-1 역전승을 거둔 가운데, '라이벌' 일본이 큰 관심을 보였다.",
-      "홍명보호는 12일(한국 시간) 멕시코 과달라하라 인근 사포판의 과달라하라 스타디움에서 열린 체코와의 대회 조별리그 A조 1차전에서 0-1로 끌려가다 황인범(페예노르트)의 동점골과 오현규(베식타시)의 역전골로 2-1 승리했."
+      "민선9기 양주시장직 인수위원회가 12일 2차 회의를 열고 '양주대전환'과 '시민주권'을 핵심 가치로 한 새 시정 준비에 속도를 냈다.",
+      "박태희 인수위원장 주재로 열린 이날 회의에는 인수위원과 자문위원 등 35명이 참석해 인수위원회 운영 방향과 향후 활동 계획을 논의했다.",
+      "이날 회의에서는 양주시의 재정 현황과 시정 기본 현황에 대한 보고가 진행됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n46441fda",
-    "category": "사회",
+    "id": "n841978f5",
+    "category": "경제",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667503",
-    "title": "'中제재' 필리핀 국방 \"사악한 행위에 굴복 안해\"…中 \"반중분자\"(종합)",
+    "url": "https://www.newsis.com/view/NISX20260612_0003667660",
+    "title": "아시아 시장 모두 상승한 데 이어 유럽 주식시장 2% 육박 상승세",
     "summary": [
-      "[서울·베이징=뉴시스]문예성 기자, 박정규 특파원 = 중국이 길베르토 테오도로 필리핀 국방부 장관과 가족에 대해 입국 금지 및 거래 제한 조치를 내린 데 대해 테오도로 장관이 \"진실을 말한 대가\"라며 중국의 압박에 굴하지 않겠다는 입장을 밝혔다.",
-      "중국도 테오도로 장관을 향해 비난의 목소리를 쏟아냈다.",
-      "12일 싱가포르 매체 채널뉴스아시아(CNA) 등에 따르면 테오도로 장관은 이날 성명에서 \"나는 진실을 말했기 때문에 제재를 받았다\"고 주장했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n360a082a",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026061218060291976",
-    "title": "'음주운전 사고' 이용규, 불명예 은퇴…\"깊이 반성\"",
-    "summary": [
-      "음주운전 사고를 낸 프로야구 이용규 키움 히어로즈 플레잉 코치가 \"깊이 반성하고 있다\"며 은퇴 의사를 밝혔다.",
-      "키움 구단은 12일 보도자료를 내고 \"이용규 코치는 책임을 통감하며 프로 생활을 마무리하겠다는 뜻을 밝혔고 구단은 이를 수용했다\"고 설명했다.",
-      "구단은 \"이용규 코치는 이번 일에 관해 어떠한 변명 없이 잘못을 깊이 반성하고 있다\"며 \"향후 관계 기관의 조사에 성실히 임하겠다는 입장도 전달했다\"고 전했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne8d03d70",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061217222821216",
-    "title": "'미국 조립' 트럼프폰의 실체는…\"구형 중국폰에 금빛칠만\"",
-    "summary": [
-      "도널드 트럼프 미국 대통령 일가가 내놓은 스마트폰 'T1'이 중국산 구형 스마트폰과 거의 똑같다는 분석 결과가 나왔다.",
-      "지난달 미국 조립·미국산을 강조하며 판매에 나섰지만, 실제 하드웨어는 2년 전 출시된 중국계 제조 스마트폰과 거의 동일한 것으로 드러났다.",
-      "12일 연합뉴스는 소비자 제품 수리 방법을 전문으로 다루는 사이트 '아이픽스잇'을 인용해 이같이 보도했다."
+      "[AP/뉴시스] 김재영 기자 = 도널드 트럼프 미 대통령이 잘하면 이번 주말에 이란과 종전 합의안에 서명할 수 있을 것이라는 말에 11일의 미 월스트리트에 이어 12일의 아시아 시장와 유럽 시장이 분명한 상승세를 시현하고 있다.",
+      "이날 개장 초반에 유럽 주식시장의 독일 DAX는 1.8% 상승했고 프랑스의 CAC 40는 1.9% 뛰었으며 영국의 FTSE 100 역시 1.2% 올랐다.",
+      "특히 영국에서는 4월 경제가 전월에 비해 0.1% 역성장한 것으로."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n7325cc83",
-    "category": "사회",
+    "id": "n7c472c95",
+    "category": "스포츠",
     "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667593",
-    "title": "보현산별빛축제위, 부산 광안리서 우수사례 벤치마킹 등[영천소식]",
+    "url": "https://www.newsis.com/view/NISX20260612_0003667670",
+    "title": "등번호 없던 오현규, 몸값 260억 4년새 33배 폭등…손흥민과 '나란히'",
     "summary": [
-      "[영천=뉴시스] 이은희 기자 = 경북 영천시는 12일 보현산별빛축제 준비에 앞서 부산 광안리의 '어방축제' 현장을 찾아 벤치마킹에 나섰다.",
-      "이날 김선옥 축제위원장을 비롯한 위원들과 문화관광해설사 등이 참가한 가운데 별빛축제 완성도를 높이기 위해 우수사례 현장을 둘러 봤다.",
-      "행사장 동선 구성과 주민 참여 프로그램, 먹거리 운영, 안전관리 체계, 지역 특색을 살린 콘텐츠, 관광객 편의시설 운영 현황 등을 살폈다."
+      "[서울=뉴시스]이기주 인턴 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵 첫 경기에서 결승골을 터뜨린 오현규(베식타시)의 성장세가 다시 주목받고 있다.",
+      "4년 전만 해도 예비 자원으로 월드컵 무대를 밟지 못했던 오현규는 이제 한국 대표팀에서도 손꼽히는 시장가치를 가진 공격수로 올라섰다.",
+      "이적 전문 사이트 트랜스퍼마크트(Transfermarkt) 기준 오현규의 현재 시장가치는 1500만 유로(약 260억원)로 평가된다."
     ],
     "chips": [
-      "#뉴스"
+      "#손흥민"
     ]
   },
   {
-    "id": "n6dbaea41",
-    "category": "스포츠",
-    "source": "연합뉴스",
+    "id": "n53967ceb",
+    "category": "사회",
+    "source": "조선일보",
     "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612152500030",
-    "title": "[월드컵] 체코전 응원 열기에 치킨업계 웃었다…bhc·BBQ 매출 4배로",
+    "url": "https://www.chosun.com/national/court_law/2026/06/12/LSD3VF2FQRCRVBM2HHO5MP2UKE/",
+    "title": "尹비서실, 행안부 실무자에 “까라면 까라”…보고 회피 정황도",
     "summary": [
-      "(서울=연합뉴스) 홍국기 기자 = 북중미 월드컵 조별리그 1차전인 대한민국과 체코의 경기가 열린 12일 치킨업계가 이례적인 오전 특수를 누리며 ..."
+      "尹비서실, 행안부 실무자에 “까라면 까라”…보고 회피 정황도."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n154c92c1",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260612/134102021/2",
-    "title": "“휴~ 살았다” 체코전 가슴 철렁했던 오프사이드…왜 생겼을까?",
-    "summary": [
-      "12일 오전 ‘2026북중미월드컵’ A조 1차전에 나선 대한민국 대표팀이 체코를 상대로 드라마 같은 2대 1 역전승을 거뒀다.",
-      "특히 동점 상황에서 추가골을 먹히는 가슴철렁한 위기가 있었지만, ‘오프사이드’가 선언되며 역전의 발판이 됐다.",
-      "후반 14분 체코에 선제골을 내어주며 끌려가던 한국은 후반 22분 금쪽같은 동점골을 터트리며 승부를 원점으로 돌렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9237f44c",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/12/2026061217333652639",
-    "title": "스페이스X 거래는 몇 시부터?…주가는 얼마나 오를까[오미주]",
-    "summary": [
-      "[오늘 주목되는 미국 주식시장] 역사상 최대 규모의 IPO(기업공개)인 스페이스X가 12일(현지시간) 나스닥시장에 상장해 거래를 시작한다.",
-      "일론 머스크 테슬라 최고경영자(CEO)가 이끄는 우주기업 스페이스X는 올해 하반기 상장이 예상되는 AI(인공지능) 기업인 오픈AI와 앤트로픽에 대한 투자자 수요를 가늠하게 해주는 중요한 시험대가 될 전망이다.",
-      "스페이스X는 공모가 135달러에 5억5560만주를 매각해 750억달러를 조달했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n73a3f05b",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260612/134102607/1",
-    "title": "BTS 부산 공연 ‘D-DAY’…경찰 329명 투입 인파·교통 관리 총력",
-    "summary": [
-      "12일 그룹 방탄소년단(BTS)의 ‘BTS WORLD TOUR ARIRANG IN BUSAN’ 공연을 앞두고 부산 지자체와 경찰이 인파 관리와 교통 통제 등 안전 대책을 강화했다.부산 동래구는 지난 10일부터 공연이 열리는 부산아시아드주경기장 인근 차량에 불법 주·정차 단속 안내문을 부착했다.안내문에 따르면 공연 전날인 11일 오후 3시부터 공연 종료일인 13일 오후 11시 59분까지 차량 통제가 진행된다.",
-      "이 기간 공연장 인근 불법 주정차 차."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n50253494",
+    "id": "n3ff35fdd",
     "category": "사회",
     "source": "뉴시스",
     "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667591",
-    "title": "주민 문화·여가·복지거점 공간…보성행복마루 문 열었다",
+    "url": "https://www.newsis.com/view/NISX20260612_0003667658",
+    "title": "정일우, 4년 혼수상태 끝 사망 태국 공주 추모…무슨 인연?",
     "summary": [
-      "[보성=뉴시스] 구용희 기자 = 전남 보성지역 주민들의 문화·여가·복지 환경을 새롭게 바꿀 복합커뮤니티센터 보성행복마루가 문을 열었다.",
-      "보성군은 12일 보성행복마루 개관식을 열고 본격적인 운영에 들어갔다고 밝혔다.",
-      "개관식에는 김철우 보성군수와 문금주 의원, 김경열 보성군의회 의장, 김재철·이동현 전남도의원, 기관·사회단체장, 주민 등 1000여명이 참석했다."
+      "[서울=뉴시스] 남정현 기자 = 배우 정일우가 향년 47세로 별세한 태국 공주를 추모했다.",
+      "정일우는 12일 소셜미디어에 고(故) 팟차라끼띠야파 마히돈 공주의 사진을 게재하며 \"R.I.P\"라고 했다.",
+      "R.I.P는 'Rest In Peace'(평화롭게 잠들소서)의 약자다."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "n80330ea1",
+    "id": "n6005ac5f",
     "category": "사회",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026061220094617823",
+    "title": "민경선 고양시장 당선인, 인수위 '고양대전환준비위원회' 출범",
+    "summary": [
+      "민경선 고양시장 당선인이 민선 9기 고양특례시의 안정적인 출범을 위한 인수기구인 '고양대전환준비위원회'를 공식 출범하고 본격적인 활동에 돌입했다.",
+      "민 당선인은 이번 인수위를 통해 시정 비전을 구체화하고 공약 이행 체계를 정비하는 한편, 주요 현안을 점검해 민선 9기 시정 운영의 밑그림을 마련한다는 계획이다.",
+      "인수위원장에는 김달수 전 경기도 정무수석이 선임됐다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "neb493906",
+    "category": "스포츠",
     "source": "동아일보",
     "time": "5분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260612/134102569/2",
-    "title": "노태악, 선거 전 3개월간 ‘절반’만 청사 근무…2~3시간 머문 날도",
+    "url": "https://www.donga.com/news/Inter/article/all/20260612/134102025/1",
+    "title": "추어탕집 아들 오현규, 홍명보호 운명 바꾼 주인공 ‘우뚝’",
     "summary": [
-      "노태악 전 중앙선거관리위원장이 6·3 지방선거 직전 3개월간 청사로 출근한 날이 절반가량에 불과한 것으로 나타났다.",
-      "출근한 날에도 2~3시간가량 머문 날이 많았던 것으로 드러났다.더불어민주당 윤건영 의원실이 중앙선거관리위원회에서 제출받아 12일 공개한 자료에 따르면 노 전 위원장이 3월 3일 대법관에서 퇴임한 뒤 지방선거일까지 법정 근무일 60일 가운데 노 전 위원장이 업무를 수행한 날은 총 34일로 나타났다.출퇴근 시간이 정확하게 파악된 29."
+      "한국과 체코의 2026 북중미 월드컵 조별리그 A조 1차전이 열린 12일 멕시코 과달라하라 스타디움.",
+      "양 팀이 1-1로 맞선 후반 24분 한국 대표팀 공격수 오현규(베식타시)는 주장 손흥민(LA FC)과 교체돼 그라운드를 밟았다.",
+      "오현규는 11분 뒤 황인범(페예노르트)이 페널티지역 오른쪽에서 낮게 띄운 크로스를 몸을 던지며 왼발 슈팅으로 연결했다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n2c388d35",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612162800108",
+    "title": "[월드컵] \"베식타시의 스타\" 오현규 골에 튀르키예 축구팬도 열광",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예 명문팀 베식타시 소속인 오현규가 12일(한국시간) 홍명보호의 2026년 북중미 월드컵 첫 경기에..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf088120f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026061220030710396",
+    "title": "박관열 광주시장 당선인, 첫 민생·복지 행보로 동물보호소 방문",
+    "summary": [
+      "박관열 민선 9기 광주시장 당선인은 인수위원회 출범 이후 첫 민생·복지 행보로 12일 광주시에 소재한 동물보호소를 방문해 유기동물 보호 현장을 점검하고 동물복지 정책 강화 의지를 밝혔다.",
+      "이번 방문은 당선 이후 유기동물 보호 현장의 실태를 직접 확인하고 실효성 있는 동물복지 정책 마련을 위한 기초 자료를 수집하기 위해 추진됐다.",
+      "이날 현장에는 사단법인 한국동물사랑보호협회 관계자들도 함께했다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n4f5373b1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/12/MZTDKMZYGE4DCYRQMUYGKYRYG4/",
+    "title": "블룸버그 “美·이란, 이르면 14일 제네바에서 종전 MOU 서명”",
+    "summary": [
+      "미국과 이란이 이르면 오는 14일(이하 현지 시각) 스위스 제네바에서 종전 관련 양해각서(MOU)를 체결할 가능성이 높다는 외신 보도가 나왔다.",
+      "블룸버그 통신은 11일 익명을 요구한 주요 7개국(G7) 관계자의 말을 인용해 이란 고위관계자가 미국과 종전 관련 합의가 성사될 가능성이 높다고 전했다고 보도했다.",
+      "가장 유력한 종전 합의 서명식 장소로는 스위스 제."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0bc60eda",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260612/134103294/2",
+    "title": "[속보]김승룡 소방청장 의원면직…‘외유성 출장’ 비위 추정",
+    "summary": [
+      "이재명 대통령이 감찰 지시를 내린 김승룡 소방청장이 오는 15일 자로 면직 처리된다.",
+      "청와대가 감찰에 착수한 지 약 3개월 만이다.12일 소방청에 따르면 김 청장은 본인 의사에 따라 직에서 물러나 오는 15일 자로 의원면직 처리된다.김 청장은 취임 3개월 만에 자리에서 내려오게 됐다.",
+      "그는 지난해 9월 허석곤 전 청장이 12·3 비상계엄에 가담했다는 의혹으로 직위 해제된 뒤 6개월간 청장 직무대행을 거쳐 올해 3월 18일 자로 청장으로 취임했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n87ce5024",
-    "category": "경제",
+    "id": "nf8e57b96",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/12/GFRDSN3EHFSDSN3CGM2GIZJWHE/",
+    "title": "윈터·카리나, 눈부신 미모 속..전현무, 월드컵 첫 승리에 환호 “절대 포기하지 않아”",
+    "summary": [
+      "[OSEN=박하영 기자] 방송인 전현무가 에스파 윈터, 카리나와 함께 체코전 승리를 만끽했다.12일 전현무는 자신의 계정에 “한국 축구는 절대 포기하지 않아요! 위기를 땔감 삼아 오히려 더 큰 결과물을 만들어내지요”라는 글과 함께 한 장의 사진을 게재했다.사진 속 전현무는 에스파 윈터, 카리나와 함께 붉은 색 티셔츠를 입고 셀카를 찍은 모습이 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n86623b6d",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026061220004806008",
+    "title": "이상일 용인시장, 용인대 개교 73주년 축하…“반도체 인재 양성 거점 되길”",
+    "summary": [
+      "이상일 용인특례시장이 12일 용인대학교 무도대학 벽소홀에서 열린 개교 73주년 기념식에 참석해 축하의 뜻을 전하며 대학과 지역의 상생 발전을 강조했다.",
+      "이날 기념식에는 이상일 시장과 박윤규 용인대학교 총장, 이성진 학교법인 이사장, 교직원 등 100여 명이 참석했다.",
+      "이 시장은 축사를 통해 \"용인대학교 개교 73주년을 진심으로 축하드린다\"며 \"지난 73년간 용인대학교는 건학이념 아래 수많은 인재를 양성하며 국가 발전에."
+    ],
+    "chips": [
+      "#반도체",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nf1be5a2e",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612148100081",
-    "title": "G7 앞두고 중국 부른 마크롱…'무역 불균형' 입장차 여전",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612148500004",
+    "title": "[날씨] 전라권 내륙 천둥·번개 동반 소나기…낮 최고 32도",
     "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 프랑스가 주요 7개국(G7) 정상회의를 앞두고 세계 무역 불균형 해소 방안을 논의하기 위해 중국을 화상회의에..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nae3a2af0",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "6분 전",
-    "url": "https://www.hankyung.com/article/2026061237967",
-    "title": "부부싸움 중 아내 몸에 불붙인 70대…시너까지 뿌렸다",
-    "summary": [
-      "부부싸움 중 아내 몸에 불붙인 70대…시너까지 뿌렸다."
+      "(서울=연합뉴스) 한지은 기자 = 토요일인 13일은 중부지방과 경북권이 대체로 맑겠으나, 남부지방은 가끔 구름이 많겠고 제주도는 대체로 흐리겠다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n02da34b6",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "6분 전",
-    "url": "https://www.hankyung.com/article/2026061237451",
-    "title": "\"비상장주식, 이혼 재산분할 때 팔지 않고 현물로 나눠줘도 돼\"",
-    "summary": [
-      "\"비상장주식, 이혼 재산분할 때 팔지 않고 현물로 나눠줘도 돼\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb7f3adfe",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/2026061237431",
-    "title": "늘어나는 무임승차에 서울지하철 적자 심화",
-    "summary": [
-      "늘어나는 무임승차에 서울지하철 적자 심화."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n87152e85",
+    "id": "n4089fa05",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/12/2026061113121744146",
-    "title": "'이럴수가' 홈런 1위 23세 포수가 대표팀 낙마라니... 병역 미필 2명만 AG행 '왜' 나왔나",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/12/2026061219545398363",
+    "title": "[한번에쓱] '고척돔 추억은 승리뿐이지! 오늘도 승리하러 왔쥬' 잔망호은 이호은",
     "summary": [
-      "2026 아이치·나고야 아시안게임에 출전하는 한국 야구 국가대표팀이 홈런 1위 포수 허인서(23·한화 이글스)를 제외하는 초강수를 뒀다.",
-      "한국야구위원회(KBO)는 11일 서울 중구에 위치한 한국 프레스센터에서 기자회견을 열고 대표팀 엔트리 최종 명단을 공개했다.",
-      "이날 기자회견에는 류지현(55) 대표팀 감독, 조계현(62) KBO 전력강화위원장, 차명주(53) KBSA 경기력향상위원회 위원이 참석해 명단을 선정한 이유를 밝혔다."
+      "한화 치어리더 이호은이 12일 고척스카이돔에서 열리는 2026KBO리그 키움히어로즈와 한화이글스 경기에서 응원을 준비하고 있다.",
+      "한화 치어리더 이호은, 우수한, 유진경, 최석화가 응원단장 창화신과 12일 고척스카이돔에서 열리는 2026KBO리그 키움히어로즈와 한화이글스 경기에서 열띤 응원을 펼치고 있다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n4101d4eb",
+    "id": "n335b51c3",
     "category": "경제",
-    "source": "한국경제",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/2026061237471",
-    "title": "노태악 전 선관위원장, 이틀에 한번 꼴로 출근했다",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/06/12/GRSDQNTDHE2GCNRQMQ4WMYRXGQ/",
+    "title": "미래에셋, 스페이스X 주식 231만주 확보… 오늘 밤 상장",
     "summary": [
-      "노태악 전 선관위원장, 이틀에 한번 꼴로 출근했다."
+      "미래에셋증권이 오늘 밤 미국 나스닥시장에 상장하는 스페이스X의 공모주 231만4815주를 배정받았다.",
+      "1주당 공모가격이 135달러인 것을 감안하면 3억1250만달러(약 4760억원) 규모 주식을 확보한 셈이다.",
+      "12일 스페이스X가 미국 증권거래위원회(SEC)에 제출한 증권신고서에 따르면 미래에셋증권은 이번 기업공개(IPO)에서 클래스A 보통주 5억5555만."
     ],
     "chips": [
       "#뉴스"
@@ -651,14 +655,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
