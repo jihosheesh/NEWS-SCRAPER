@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-12 16:56:44
+// 마지막 업데이트: 2026-06-12 17:47:30
 window.NEWS_DB = [
   {
     "id": "n94aeb15e",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwUVBkM0hJMlllNzJ6dFlJS0o0VnlJaDlvcnp0ZEFDYjlabXRMeWZyMVlfWVY3YWk0enV5OHpjLVBMaEotMnpBVFVIdng2X2IxYWZVNzk4MTFLRkxqalFEanMzQkpsaDRDU290alJ0SXhwR3M?oc=5",
     "title": "[젠슨 황 이펙트⑨] 베일 벗은 엔비디아와 네이버 동맹, 이해진 젠슨 황 손잡고 AI 인프라 영토 확장",
     "summary": [
@@ -18,32 +18,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n248fc719",
+    "id": "n71a254ee",
     "category": "경제",
-    "source": "마켓인",
-    "time": "10시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTEMySTZHNHRyTUpaMEJXaUpSUVlJalZqUDdYVndqdUtFeklISm9rSzVLYUhQRzZobmI4T2pQZ0dtMnl2YjlNUV9XTFFHLVBzNVc0bGNBVUJTTGxJcTFsTmVxWUJzc3ZfaC12dmFaQjNfVWM?oc=5",
-    "title": "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망”",
-    "summary": [
-      "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망” 마켓인."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n7c9e9138",
-    "category": "경제",
-    "source": "한국경제",
+    "source": "뉴시스",
     "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaTJiYVJiLWtIZnlfZ3VRWm9HeW5QTWhMemtKSDYwdnFZNkRwVmhPN3B3aEpNeVdsLU82V0k3Q0t2Tm9sNHQ5QUJHeF9VcW1XTDNHdGNDMERRZ9IBVEFVX3lxTE5UMmczREttNy14TjBUVE1NeG1kNUQ3WDNZbko4N3JQb3RKY1hEc29pNjFJaHFnUzRzSnFLOVVrano4QWpNSklVTVRyTWxzV1k0ZFVyMQ?oc=5",
-    "title": "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
+    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
     "summary": [
-      "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각 한국경제."
+      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
     ],
     "chips": [
-      "#환율",
-      "#정책"
+      "#부동산",
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -180,6 +167,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1a25f504",
+    "category": "경제",
+    "source": "마켓인",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KM1A2UlB1aWxvNHl3RTNpTzItS19rbFlkT2EzMWZYR3BqNTJfcWlZM0tpcHdGTk1OelB6bWxlSW85OXdCWlBTYVdLaVhVdjAtcHVyUHhQZEhmZjYtUWllVG96RmZfcDlWckdVMVBOekFlb0U?oc=5",
+    "title": "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합)",
+    "summary": [
+      "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합) 마켓인."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
@@ -254,6 +256,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb04cef68",
+    "category": "사회",
+    "source": "경기일보",
+    "time": "119일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
+    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
+    "summary": [
+      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -266,21 +283,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
-    ]
-  },
-  {
-    "id": "n1e3b72e2",
-    "category": "사회",
-    "source": "매일경제 마켓",
-    "time": "122일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
-    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
-    "summary": [
-      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -347,10 +349,237 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n808ffcf6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260613/134104412/1",
+    "title": "차인표 “억지로 붙잡지 마라”…60년 살아보고 느낀 인맥이 필요없는 이유",
+    "summary": [
+      "배우 차인표가 인간관계에 집착하는 대신 도움 받을 수 있는 사람을 가까이해야 한다고 조언했다.지난달 30일 유튜브 채널 ‘지식인사이드’ 영상에 출연한 차인표는 진행을 맡은 한석준 아나운서와 인터뷰를 진행했다.차인표는 “사람은 주변 영향을 계속 받고, 알고리즘처럼 내가 생각하는 것이나 원하는 것 위주로 주변이 채워지기도 한다”고 주장했다.",
+      "그는 “도움 받을 수 있는 사람으로 주변을 채우면 긍정적인 영향을 받는다”면서 어떤 사람을 가까이 두는지가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nacce6a56",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613003500001",
+    "title": "李대통령 \"韓-伊 최적 파트너…글로벌 불확실성 함께 헤쳐가길\"",
+    "summary": [
+      "(로마=연합뉴스) 임형섭 고동욱 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 12일(현지시간) \"한국과 이탈리아는 그야말로 최적의 파트너..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5bf473f8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613004100071",
+    "title": "트럼프, 종전 MOU 서명 시기에 \"주말이나 월요일에 가능할 것\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 12일(현지시간) 이란이 종전을 위한 양국 간 양해각서(MOU) 타결이 가까워..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd61a3052",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613003900091",
+    "title": "스페이스X 사장 \"테슬라 합병시 머스크 편해지고 시너지 있지만\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 사상 최대 규모 기업공개(IPO)로 나스닥에 데뷔한 스페이스X의 귄 쇼트웰 사장 겸 최고운영책임자(C..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb1f3a64",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/13/GM3TMMRQGFSTCNLBMJTDAZBVMU/",
+    "title": "한-이탈리아 기업인 집결… 李 대통령“AI 혁명 속 양국 협력 필요”",
+    "summary": [
+      "이탈리아를 국빈 방문 중인 이재명 대통령이 12일(현지 시각) 로마에서 열린 ‘한-이탈리아 비즈니스 라운드 테이블’에 참석해 “한국과 이탈리아는 최적의 파트너”라고 강조했다.",
+      "이 대통령은 이날 라운드 테이블 기조 발언을 통해 “예술과 과학, 창의성과 이성의 결합으로 인류 문명의 도약을 이뤄낸 이탈리아에서 양국의 미래 협력을 논할 수 있게 돼 기쁘다”고 했다."
+    ],
+    "chips": [
+      "#AI",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7d0d0490",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/13/MM4DQNBWME2TEYTCMIZDSMJZGQ/",
+    "title": "에이스는 10K 호투, 최다 안타-최다 득점 대폭발...김태형 감독 \"3루 응원석 열렬히 응원해주신 팬들께 감사하다\"",
+    "summary": [
+      "[OSEN=잠실, 한용섭 기자] 프로야구 롯데 자이언츠가 장단 16안타를 폭발시키며 LG 트윈스에 대승을 거뒀다.롯데는 12일 잠실구장에서 열린 LG와 경기에서 16-4로 승리했다.",
+      "6회 5득점, 8회 9득점 빅이닝으로 화끈한 타격을 선보였다.",
+      "롯데는 1회 톱타자 황성빈이 안타와 도루로 2루까지 진루했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ncb5e135e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613003300087",
+    "title": "페루 대선 피말리는 접전…후지모리, 산체스에 재역전",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 지난 7일(현지시간) 치러진 페루 대선 결선투표에서 우파 게이코 후지모리 '민중의힘' 후보가 좌파 로베..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0558e224",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666444",
+    "title": "연 매출 100억이라던 청년 사업가…AI로 가짜 이체증 만들어 임금 체불",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = SNS에서 맛집으로 유명해져 연 매출 100억원을 기록했다고 알려진 30대 청년 사업가가 직원들의 임금을 체불하고 법 적용을 피하고자 꼼수를 부린 사실이 드러나 공분을 사고 있다.",
+      "지난 11일 방송된 JTBC '사건반장'에 따르면 해당 사업가가 운영하는 식당에서 근무했던 전 직원 A씨는 임금과 휴일근로수당, 퇴직금 등 총 4500만원가량을 받지 못한 사실을 제보한 것으로 알려졌다.",
+      "A씨에 따르면 사업가는 근로."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nd1d9c624",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667749",
+    "title": "이 대통령 \"신뢰할 수 있는 파트너 공급망 네트워크가 산업 경쟁력 좌우\"",
+    "summary": [
+      "[로마·서울=뉴시스] 김지은 김경록 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 12일(현지시간) 한-이탈리아 기업인들과 만나 \"기초과학 강국으로서 창의적인 공학 디자인의 역량을 갖춘 이탈리아와 첨단제조 강국으로 기술 혁신의 역량을 갖춘 대한민국 두 나라는 그야말로 최적의 파트너라 생각한다\"고 밝혔다.",
+      "이 대통령은 이날 오후 로마의 한 호텔에서 열린 '한-이탈리아 비즈니스 라운드테이블'에 참석해 \"글로벌 불확실성 높아질수록 신뢰할 수 있."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne23166d9",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "33분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260613/134104388/1",
+    "title": "李 “韓-이탈리아, 최적의 파트너”…AI·반도체·우주 협력 강조",
+    "summary": [
+      "이탈리아를 국빈 방문 중인 이재명 대통령은 13일(현지 시간) “기초 과학 강국으로서 창의적인 공학, 디자인 역량을 갖춘 이탈리아와 첨단 제조 강국으로 기술 혁신 역량을 갖춘 대한민국 이 두 나라는 그야말로 최적의 파트너”라고 밝혔다.이 대통령은 이날 이탈리아 로마에서 열린 ‘한-이탈리아 비즈니스 라운드테이블’에서 “글로벌 불확실성이 높아질수록 신뢰할 수 있는 파트너와의 기술, 인재, 공급망 네트워크가 기업의 경쟁력, 그리고 나아가서 국가 전체."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc74773f7",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "36분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260613/134104377/1",
+    "title": "伊총리 만난 李대통령 “월드컵 본선서 만났어야 했는데…”",
+    "summary": [
+      "이탈리아를 국빈 방문한 이재명 대통령은 12일(현지 시간) 조르자 멜로니 이탈리아 총리와의 확대 회담에서 “규범기반 국제질서가 중요하다는 점을 지난 번에도 서로 논의했는데 자유무역, 다자주의 등 분야에서 협력 발전을 위해 함께 노력해 나가기를 바란다”고 말했다.이 대통령은 이날 “새로운 협력의 틀 마련이 필요한 것 같다.",
+      "그래서 양자관계 발전이 더욱 의미있다고 생각한다”며 “우리는 서로 보완적 관계이고, 우리의 협력을 통해 시너지 효과를 낼 수."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n971aca73",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "39분 전",
+    "url": "https://view.asiae.co.kr/article/2026061302075725004",
+    "title": "스페이스X 상장 첫날 11% 급등…머스크, 세계 첫 '조만장자' 등극",
+    "summary": [
+      "일론 머스크의 항공우주 기업 스페이스X가 12일(현지시간) 상장 첫날 나스닥에서 주당 150달러에 거래를 시작했다.",
+      "이는 공모가(135달러) 대비 약 11% 높은 수준이다.",
+      "이날 월스트리트저널(WSJ)에 따르면 당초 시장에서는 스페이스X 시초가가 주당 175달러 수준에서 형성될 것이라는 전망도 나왔지만, 수급 조정을 거쳐 150달러로 결정됐다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "neb800fc7",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "47분 전",
+    "url": "https://www.hankyung.com/article/2026061239861",
+    "title": "李대통령, 멜로니 총리와 회담…첨단기술 협력 강화한다",
+    "summary": [
+      "李대통령, 멜로니 총리와 회담…첨단기술 협력 강화한다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n126244a2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003667025",
+    "title": "부산 남구 생활밀착 문화예술 교육 '가가호호' 참가자 모집",
+    "summary": [
+      "[부산=뉴시스]김민지 기자 = 부산 남구문화재단(재단)은 생활밀착형 문화예술 교육 지원 사업 '가가호호' 참가자를 모집한다고 13일 밝혔다.",
+      "이는 한국문화예술교육진흥원의 공모 선정으로 추진됐다.",
+      "저출생과 인구 감소 등 사회 변화에 대응한 가족 간 소통과 관계 회복 지원을 목적한다."
+    ],
+    "chips": [
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n05bc68c6",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "51분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/13/JHJQC2ANGFCD7FCOO3LFBSOGVM/",
+    "title": "스페이스X 나스닥 상장 첫날, 주당 150달러에 거래 시작",
+    "summary": [
+      "스페이스X 나스닥 상장 첫날, 주당 150달러에 거래 시작."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n82273c1c",
     "category": "경제",
     "source": "동아일보",
-    "time": "4분 전",
+    "time": "55분 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260613/134104365/1",
     "title": "스페이스X, 150달러로 나스닥 데뷔…시총 2조 달러 돌파",
     "summary": [
@@ -362,24 +591,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0f8645c0",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260613/134104363/1",
-    "title": "파키스탄 총리 “미-이란, 평화협정 최종 합의문 도출”",
-    "summary": [
-      "미국과 이란 사이를 중재하고 있는 파키스탄이 양국 간의 평화 협정 최종 합의문이 도출됐다고 알렸다.12일(현지시간) 로이터통신에 따르면 셰바즈 샤리프 파키스탄 총리는 X를 통해 “평화 협정의 최종 합의문이 도출되었으며, 파키스탄은 현재 양측과 긴밀히 협력하여 다음 단계를 마무리 짓고 있음을 확인해 줄 수 있다”고 밝혔다.전날(11일) 이란에 대한 추가 공습을 위협했던 도널드 트럼프 미국 대통령은 돌연 공습 계획을 취소하며 “우리는 방금 이란과의."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n3b04ecca",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "5분 전",
+    "time": "55분 전",
     "url": "https://www.chosun.com/sports/baseball/2026/06/13/GRSTEZJYG43GINZWGU4DAYTFGU/",
     "title": "'산 게 다행' 은퇴식도 계획하고 있었는데...그렇게 원하던 400도루 3개 남기고, 역대 최악의 불명예 퇴진",
     "summary": [
@@ -392,250 +607,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2eb91797",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613002900075",
-    "title": "일론 머스크, 세계 최초 '조만장자' 등극…스페이스X 시총 6위에",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 일론 머스크(54)가 스페이스X의 상장 후 첫 거래와 동시에 세계 최초 '조만장자'(trilliona..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nec113719",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612167351098",
-    "title": "난민에 빗장 EU, 새 이민·난민 협약 발효…실효성은 '글쎄'(종합)",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 이주민과 난민에 대한 빗장을 한층 강화하는 내용을 담은 EU의 새 이민·난민 협약이 12일(현지시간) 발효..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n073735f2",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/13/2026061301342095468",
-    "title": "\"진짜 닿았어?\" 장도연·김대호 돌발 입맞춤 해프닝에 현장 '발칵'",
-    "summary": [
-      "개그우먼 장도연과 방송인 김대호가 게임 도중 예상치 못한 입술 접촉 사고를 일으키며 현장을 웃음바다로 만들었다.",
-      "12일 방영된 tvN '구기동 프렌즈' 최종회에서는 장도연, 이다희, 최다니엘, 장근석, 안재현, 경수진과 절친들이 함께하는 '마육대(마흔 육상 파티)'가 펼쳐졌다.",
-      "이날 멤버들은 다양한 게임을 진행하며 승부욕을 불태웠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7069b920",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613002300079",
-    "title": "파키스탄 총리 \"美·이란 최종 협정문 도달…후속 조치 협력\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란간 종전 협상 중재역을 맡은 파키스탄의 셰바즈 샤리프 총리는 12일(현지시간) 엑스(X)를 통해..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n56544a76",
+    "id": "na51fe885",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/13/2026061301421646595",
-    "title": "이재명 대통령, 멜로니 伊 총리와 회담…\"서로 도움될 것 매우 많아\"",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606134011i",
+    "title": "머스크, 인류 최초 '1조달러 자산가' 등극…스페이스X 상장 효과",
     "summary": [
-      "[the300] 이재명 대통령이 조르자 멜로니 이탈리아 총리와 정상회담에서 \"규범기반 국제질서가 중요하다는 점을 지난 번에도 서로 논의했는데 자유무역, 다자주의 등 분야에서 협력 발전을 위해 함께 노력해 나가기를 바란다\"고 강조했다.",
-      "이 대통령은 12일(현지시간) 이탈리아 로마 총리 영빈관에서 멜로니 총리와 오찬 확대회담을 갖고 모두발언을 통해 이같이 밝혔다.",
-      "이 대통령은 \"이탈리아와 한국 사람들은 정서적으로 유사하고 서로 잘 어울린다\"며 \"(."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1b7602d5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613001900001",
-    "title": "李대통령 \"韓·伊, 보완적 관계…협력 통해 시너지 낼 수 있어\"",
-    "summary": [
-      "(로마=연합뉴스) 임형섭 고동욱 기자 = 이탈리아를 국빈 방문한 이재명 대통령은 12일(현지시간) 조르자 멜로니 이탈리아 총리와 만나 \"이탈리아..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n32689c3e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260613/134102717/2",
-    "title": "[오늘의 운세/6월 14일]",
-    "summary": [
-      "●쥐48년 명예에 집착하기보다 실리를 추구할 것.",
-      "60년 일 욕심 내지 말고 건강 챙길 것.",
-      "72년 베풀수록 큰 행운이 찾아오게 된다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n74f0c5b6",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260613/134103878/2",
-    "title": "1골 1도움 황인범 뚫고, 신들린 몸짓 김승규 막았다",
-    "summary": [
-      "‘홍명보호’는 2026 북중미 월드컵을 앞두고 미드필더 황인범(페예노르트)의 몸 상태를 최상으로 끌어올리기 위한 프로젝트에 돌입했다.",
-      "2022 카타르 월드컵 때부터 한국의 ‘야전 사령관’ 역할을 해왔던 황인범이 3월 소속 클럽팀에서 발목을 다쳤기 때문이다.",
-      "회복이 늦어지면서 시즌을 조기에 마감한 황인범은 지난달 한국으로 돌아와 대표팀 의무스태프, 피지컬 트레이너 등과 함께 재활에 집중했다."
+      "머스크, 인류 최초 '1조달러 자산가' 등극…스페이스X 상장 효과."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf9be7dfe",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/13/MI4TKZDFGNTGENLFGA3DSNZRMU/",
-    "title": "'1714억 먹튀' 우려는 사라졌다…美 매체 극찬 \"이정후가 꾸준히 의문 지워내고 있다\"",
-    "summary": [
-      "[OSEN=손찬익 기자] 샌프란시스코 자이언츠 외야수 이정후가 연일 뜨거운 타격감을 뽐내며 현지의 찬사를 받고 있다.샌프란시스코 구단 소식을 전문적으로 다루는 'SF 자이언츠 라운드테이블'은 지난 12일(이하 한국시간) 이정후의 활약상을 조명하며 \"이정후가 구단의 투자가 옳았음을 증명하고 있다\"고 평가했다.매체는 \"이정후가 워싱턴 내셔널스전에서 안타를 추가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na20c31b0",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/13/GEYTGN3FMZSWEODFGJQTOMZSG4/",
-    "title": "'구자욱 거르고 박계범' SSG벤치의 위험천만 승부수, 삼성은 '대타' 카드가 없었다",
-    "summary": [
-      "[스포츠조선 정현석 기자]SSG 랜더스가 천신만고 끝에 3연패에서 탈출했다.",
-      "SSG는 12일 대구 라이온즈파크에서 열린 삼성 라이온즈와의 주말 첫 경기에서 5대3 승리를 거두며 반등의 발판을 마련했다.",
-      "SSG는 연패탈출을 위해 총력전을 펼쳤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb4a3229e",
+    "id": "n646d2a7b",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/13/2026061301171915668",
-    "title": "전현무, 투석 치료 중인 父 근황 공개 \"3개월마다 검사…경과 좋아\"",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606134010i",
+    "title": "스페이스X, 상장 첫날 20% 급등…시총 2조달러 돌파",
     "summary": [
-      "방송인 전현무가 투석 치료를 받는 아버지의 건강 상태를 공개했다.",
-      "12일 방영된 MBC '나 혼자 산다'에서는 전현무가 반려견과 함께 일상을 보내는 모습이 공개됐다.",
-      "이날 전현무는 본가에 입양 보낸 반려견을 동물병원에 데려가기 위해 잠시 집으로 데려왔다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nffb73997",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/13/GBTDKNJQHEYDMNDBHA2DQODGMM/",
-    "title": "동고동락 대투수 올린 기습번트→안타→안타, 친정징크스 털어낸 80억 유격수 \"나도 모르게 의식했다\"",
-    "summary": [
-      "[OSEN=광주, 이선호 기자] \"나도 모르게 의식했다\".두산베어스 주전 유격수 박찬호(29)가 친정 징크스를 깨며 연승에 힘을 보탰다.",
-      "12일 광주-기아 챔피언스필드에서 열린 2026프로야구 KIA타이거즈와 경기에 출전해 5타수 3안타를 기록, 4-1 승리를 이끌었다.",
-      "두산은 2연승을 낚으며 5위 KIA에 반게임차로 따라붙었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb30c76fa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666454",
-    "title": "\"신혼 없어지잖아\"…결혼 전 '자녀 계획' 합의했지만 갈등 마주한 신혼부부",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 결혼 당시 자녀 계획에 합의했음에도 신혼 생활이 사라진다는 이유로 낙태를 요구하는 아내 때문에 고민이라는 한 남편의 사연이 알려져 온라인상에서 논란이 일고 있다.",
-      "지난 11일 직장인 온라인 커뮤니티 '블라인드'에는 '허니문 베이비를 신혼생활 없어진다고 지우자는 와이프'라는 제목의 글이 올라와 화제를 모았다.",
-      "최근 결혼식을 올렸다고 밝힌 작성자 A씨는 \"얼마 전 아내의 생리가 지났길래 검사해 보니 두 줄(임신)."
+      "스페이스X, 상장 첫날 20% 급등…시총 2조달러 돌파."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nc013d32f",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "31분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/13/2026061218530536905",
-    "title": "KIA에 갑자기 무슨 일이? 깜짝 트레이드 주인공+보상선수 2명까지 한꺼번에 이탈 왜?→사령탑 \"갑자기 확 좋아질 수도 있다\" 기대감↑",
-    "summary": [
-      "시즌이 한창인 가운데, KIA 타이거즈가 과감한 결단을 내렸다.",
-      "향후 팀을 이끌어 갈 주축 선수라고 해도 과언이 아닌 이들이 전열에서 이탈했는데, 알고 보니 이유가 있었다.",
-      "더욱 나은 실력을 키우기 위해 '이웃 나라' 일본으로 연수를 떠난 것이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5825b77a",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "38분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667735",
-    "title": "李 \"한-이탈리아, 자유무역·다자주의 발전 위해 협력 필요\"…전략적 행동 계획도 채택(종합)",
-    "summary": [
-      "[로마=뉴시스] 김지은 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 12일(현지시간) 로마 총리 영빈관(빌라 마다마)에서 조르자 멜로니 이탈리아 총리와 정상회담을 하고 '특별 전략적 동반자 관계'로 격상된 양국의 경제산업·외교안보·문화 등의 협력 방안을 논의했다.",
-      "이 대통령과 멜로니 총리는 이날 오후 한-이탈리아 정상회담에서 양국의 협력 강화 행동 계획이 담긴 '2026-2030 한·이탈리아 전략적 행동 계획'을 채택했다."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nfc37b3f9",
-    "category": "IT",
-    "source": "테크M",
-    "time": "47분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152583",
-    "title": "AI 리센느가 '0+0' 부른다면 수익은 누가?...뉴튠, 음악 쪼개 권리 문제 해소",
-    "summary": [
-      "요즘 엔터테인먼트업계에선 5인조 여자 아이돌그룹 리센느가 화제다.",
-      "'중소돌'이란 애칭을 등에 업고 모두가 함께 성장을 응원하는 '국민조카' 포지션을 점하면서다.",
-      "대표곡 '러브 어택'은 음원 스트리밍 플랫폼 멜론 차트 10위권 내 진입했고, 출연하는 콘텐츠마다 유튜브에서 반응이 폭발적이다."
-    ],
-    "chips": [
-      "#AI"
     ]
   }
 ];
@@ -645,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정치",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
