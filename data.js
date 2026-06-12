@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-12 15:01:01
+// 마지막 업데이트: 2026-06-12 16:56:44
 window.NEWS_DB = [
   {
     "id": "n94aeb15e",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwUVBkM0hJMlllNzJ6dFlJS0o0VnlJaDlvcnp0ZEFDYjlabXRMeWZyMVlfWVY3YWk0enV5OHpjLVBMaEotMnpBVFVIdng2X2IxYWZVNzk4MTFLRkxqalFEanMzQkpsaDRDU290alJ0SXhwR3M?oc=5",
     "title": "[젠슨 황 이펙트⑨] 베일 벗은 엔비디아와 네이버 동맹, 이해진 젠슨 황 손잡고 AI 인프라 영토 확장",
     "summary": [
@@ -18,19 +18,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n71a254ee",
+    "id": "n248fc719",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "13시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
-    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+    "source": "마켓인",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTEMySTZHNHRyTUpaMEJXaUpSUVlJalZqUDdYVndqdUtFeklISm9rSzVLYUhQRzZobmI4T2pQZ0dtMnl2YjlNUV9XTFFHLVBzNVc0bGNBVUJTTGxJcTFsTmVxWUJzc3ZfaC12dmFaQjNfVWM?oc=5",
+    "title": "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망”",
     "summary": [
-      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
+      "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망” 마켓인."
     ],
     "chips": [
-      "#부동산",
-      "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n7c9e9138",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "15시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaTJiYVJiLWtIZnlfZ3VRWm9HeW5QTWhMemtKSDYwdnFZNkRwVmhPN3B3aEpNeVdsLU82V0k3Q0t2Tm9sNHQ5QUJHeF9VcW1XTDNHdGNDMERRZ9IBVEFVX3lxTE5UMmczREttNy14TjBUVE1NeG1kNUQ3WDNZbko4N3JQb3RKY1hEc29pNjFJaHFnUzRzSnFLOVVrano4QWpNSklVTVRyTWxzV1k0ZFVyMQ?oc=5",
+    "title": "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각",
+    "summary": [
+      "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각 한국경제."
+    ],
+    "chips": [
+      "#환율",
+      "#정책"
     ]
   },
   {
@@ -80,23 +93,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31acb708",
-    "category": "사회",
-    "source": "아주경제",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
-    "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n891ba727",
     "category": "IT",
     "source": "아이뉴스24",
@@ -141,23 +137,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13b4af19",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
     "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
@@ -170,20 +149,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "ne2208e3a",
-    "category": "부동산",
-    "source": "프라임경제",
-    "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc0UzWmJweS1lNEZoWnc2WEtHbFhzcjZLWmlXLWJ3ZlUwV2xDUm02a1FiajU0NFFjcGh6NGRuUngtUXNuRnBSMWdaR3haLXowWWloeXZuS3RER2F6dTNBOXdrNzF1TE9ya2F2dQ?oc=5",
-    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
-    "summary": [
-      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -215,33 +180,34 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a25f504",
-    "category": "경제",
-    "source": "마켓인",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KM1A2UlB1aWxvNHl3RTNpTzItS19rbFlkT2EzMWZYR3BqNTJfcWlZM0tpcHdGTk1OelB6bWxlSW85OXdCWlBTYVdLaVhVdjAtcHVyUHhQZEhmZjYtUWllVG96RmZfcDlWckdVMVBOekFlb0U?oc=5",
-    "title": "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합)",
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
     "summary": [
-      "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합) 마켓인."
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
     ],
     "chips": [
-      "#금리",
-      "#환율"
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "id": "n269e2609",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "31일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
     ],
     "chips": [
-      "#반도체",
-      "#고용"
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -303,6 +269,36 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1e3b72e2",
+    "category": "사회",
+    "source": "매일경제 마켓",
+    "time": "122일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
+    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
+    "summary": [
+      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "내 손안에 서울",
+    "time": "224일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -351,10 +347,286 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n82273c1c",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260613/134104365/1",
+    "title": "스페이스X, 150달러로 나스닥 데뷔…시총 2조 달러 돌파",
+    "summary": [
+      "일론 머스크가 이끄는 우주기업 스페이스X가 12일(현지 시간) 뉴욕증시 나스닥 시장에서 주당 150달러에 첫 거래를 시작했다.CNBC 등에 따르면 스페이스X는 한국시간 13일 오전 12시50분께 나스닥에서 주당 150달러에 거래를 시작했다.",
+      "기업공개(IPO) 공모가 135달러보다 약 11% 오른 수준이다.시초가가 당초 공모가 대비 30% 오른 175달러에 형성될 것이라는 시장 예상도 있었으나, 조정을 거쳐 150달러 선에서 시작됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f8645c0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260613/134104363/1",
+    "title": "파키스탄 총리 “미-이란, 평화협정 최종 합의문 도출”",
+    "summary": [
+      "미국과 이란 사이를 중재하고 있는 파키스탄이 양국 간의 평화 협정 최종 합의문이 도출됐다고 알렸다.12일(현지시간) 로이터통신에 따르면 셰바즈 샤리프 파키스탄 총리는 X를 통해 “평화 협정의 최종 합의문이 도출되었으며, 파키스탄은 현재 양측과 긴밀히 협력하여 다음 단계를 마무리 짓고 있음을 확인해 줄 수 있다”고 밝혔다.전날(11일) 이란에 대한 추가 공습을 위협했던 도널드 트럼프 미국 대통령은 돌연 공습 계획을 취소하며 “우리는 방금 이란과의."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3b04ecca",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/13/GRSTEZJYG43GINZWGU4DAYTFGU/",
+    "title": "'산 게 다행' 은퇴식도 계획하고 있었는데...그렇게 원하던 400도루 3개 남기고, 역대 최악의 불명예 퇴진",
+    "summary": [
+      "[고척=스포츠조선 김용 기자] \"은퇴식도 계획하고 있었는데...\" 충격적인 사고가 터졌다.",
+      "'악바리'의 대명사, '용규놀이'의 창시자 키움 히어로즈 이용규 플레잉 코치가 믿기 힘든 음주운전 사고를 낸 것이다.",
+      "이 코치는 12일 새벽 술을 마시고 차를 몰고 귀가하다 일반인 차량과 경찰차까지 들이받는 충격적 사고를 냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2eb91797",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613002900075",
+    "title": "일론 머스크, 세계 최초 '조만장자' 등극…스페이스X 시총 6위에",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 일론 머스크(54)가 스페이스X의 상장 후 첫 거래와 동시에 세계 최초 '조만장자'(trilliona..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec113719",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612167351098",
+    "title": "난민에 빗장 EU, 새 이민·난민 협약 발효…실효성은 '글쎄'(종합)",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 이주민과 난민에 대한 빗장을 한층 강화하는 내용을 담은 EU의 새 이민·난민 협약이 12일(현지시간) 발효..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n073735f2",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/13/2026061301342095468",
+    "title": "\"진짜 닿았어?\" 장도연·김대호 돌발 입맞춤 해프닝에 현장 '발칵'",
+    "summary": [
+      "개그우먼 장도연과 방송인 김대호가 게임 도중 예상치 못한 입술 접촉 사고를 일으키며 현장을 웃음바다로 만들었다.",
+      "12일 방영된 tvN '구기동 프렌즈' 최종회에서는 장도연, 이다희, 최다니엘, 장근석, 안재현, 경수진과 절친들이 함께하는 '마육대(마흔 육상 파티)'가 펼쳐졌다.",
+      "이날 멤버들은 다양한 게임을 진행하며 승부욕을 불태웠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7069b920",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613002300079",
+    "title": "파키스탄 총리 \"美·이란 최종 협정문 도달…후속 조치 협력\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란간 종전 협상 중재역을 맡은 파키스탄의 셰바즈 샤리프 총리는 12일(현지시간) 엑스(X)를 통해..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56544a76",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/13/2026061301421646595",
+    "title": "이재명 대통령, 멜로니 伊 총리와 회담…\"서로 도움될 것 매우 많아\"",
+    "summary": [
+      "[the300] 이재명 대통령이 조르자 멜로니 이탈리아 총리와 정상회담에서 \"규범기반 국제질서가 중요하다는 점을 지난 번에도 서로 논의했는데 자유무역, 다자주의 등 분야에서 협력 발전을 위해 함께 노력해 나가기를 바란다\"고 강조했다.",
+      "이 대통령은 12일(현지시간) 이탈리아 로마 총리 영빈관에서 멜로니 총리와 오찬 확대회담을 갖고 모두발언을 통해 이같이 밝혔다.",
+      "이 대통령은 \"이탈리아와 한국 사람들은 정서적으로 유사하고 서로 잘 어울린다\"며 \"(."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1b7602d5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613001900001",
+    "title": "李대통령 \"韓·伊, 보완적 관계…협력 통해 시너지 낼 수 있어\"",
+    "summary": [
+      "(로마=연합뉴스) 임형섭 고동욱 기자 = 이탈리아를 국빈 방문한 이재명 대통령은 12일(현지시간) 조르자 멜로니 이탈리아 총리와 만나 \"이탈리아..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n32689c3e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260613/134102717/2",
+    "title": "[오늘의 운세/6월 14일]",
+    "summary": [
+      "●쥐48년 명예에 집착하기보다 실리를 추구할 것.",
+      "60년 일 욕심 내지 말고 건강 챙길 것.",
+      "72년 베풀수록 큰 행운이 찾아오게 된다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n74f0c5b6",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260613/134103878/2",
+    "title": "1골 1도움 황인범 뚫고, 신들린 몸짓 김승규 막았다",
+    "summary": [
+      "‘홍명보호’는 2026 북중미 월드컵을 앞두고 미드필더 황인범(페예노르트)의 몸 상태를 최상으로 끌어올리기 위한 프로젝트에 돌입했다.",
+      "2022 카타르 월드컵 때부터 한국의 ‘야전 사령관’ 역할을 해왔던 황인범이 3월 소속 클럽팀에서 발목을 다쳤기 때문이다.",
+      "회복이 늦어지면서 시즌을 조기에 마감한 황인범은 지난달 한국으로 돌아와 대표팀 의무스태프, 피지컬 트레이너 등과 함께 재활에 집중했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf9be7dfe",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/13/MI4TKZDFGNTGENLFGA3DSNZRMU/",
+    "title": "'1714억 먹튀' 우려는 사라졌다…美 매체 극찬 \"이정후가 꾸준히 의문 지워내고 있다\"",
+    "summary": [
+      "[OSEN=손찬익 기자] 샌프란시스코 자이언츠 외야수 이정후가 연일 뜨거운 타격감을 뽐내며 현지의 찬사를 받고 있다.샌프란시스코 구단 소식을 전문적으로 다루는 'SF 자이언츠 라운드테이블'은 지난 12일(이하 한국시간) 이정후의 활약상을 조명하며 \"이정후가 구단의 투자가 옳았음을 증명하고 있다\"고 평가했다.매체는 \"이정후가 워싱턴 내셔널스전에서 안타를 추가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na20c31b0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/13/GEYTGN3FMZSWEODFGJQTOMZSG4/",
+    "title": "'구자욱 거르고 박계범' SSG벤치의 위험천만 승부수, 삼성은 '대타' 카드가 없었다",
+    "summary": [
+      "[스포츠조선 정현석 기자]SSG 랜더스가 천신만고 끝에 3연패에서 탈출했다.",
+      "SSG는 12일 대구 라이온즈파크에서 열린 삼성 라이온즈와의 주말 첫 경기에서 5대3 승리를 거두며 반등의 발판을 마련했다.",
+      "SSG는 연패탈출을 위해 총력전을 펼쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb4a3229e",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/13/2026061301171915668",
+    "title": "전현무, 투석 치료 중인 父 근황 공개 \"3개월마다 검사…경과 좋아\"",
+    "summary": [
+      "방송인 전현무가 투석 치료를 받는 아버지의 건강 상태를 공개했다.",
+      "12일 방영된 MBC '나 혼자 산다'에서는 전현무가 반려견과 함께 일상을 보내는 모습이 공개됐다.",
+      "이날 전현무는 본가에 입양 보낸 반려견을 동물병원에 데려가기 위해 잠시 집으로 데려왔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nffb73997",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/13/GBTDKNJQHEYDMNDBHA2DQODGMM/",
+    "title": "동고동락 대투수 올린 기습번트→안타→안타, 친정징크스 털어낸 80억 유격수 \"나도 모르게 의식했다\"",
+    "summary": [
+      "[OSEN=광주, 이선호 기자] \"나도 모르게 의식했다\".두산베어스 주전 유격수 박찬호(29)가 친정 징크스를 깨며 연승에 힘을 보탰다.",
+      "12일 광주-기아 챔피언스필드에서 열린 2026프로야구 KIA타이거즈와 경기에 출전해 5타수 3안타를 기록, 4-1 승리를 이끌었다.",
+      "두산은 2연승을 낚으며 5위 KIA에 반게임차로 따라붙었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb30c76fa",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666454",
+    "title": "\"신혼 없어지잖아\"…결혼 전 '자녀 계획' 합의했지만 갈등 마주한 신혼부부",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 결혼 당시 자녀 계획에 합의했음에도 신혼 생활이 사라진다는 이유로 낙태를 요구하는 아내 때문에 고민이라는 한 남편의 사연이 알려져 온라인상에서 논란이 일고 있다.",
+      "지난 11일 직장인 온라인 커뮤니티 '블라인드'에는 '허니문 베이비를 신혼생활 없어진다고 지우자는 와이프'라는 제목의 글이 올라와 화제를 모았다.",
+      "최근 결혼식을 올렸다고 밝힌 작성자 A씨는 \"얼마 전 아내의 생리가 지났길래 검사해 보니 두 줄(임신)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc013d32f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "31분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/13/2026061218530536905",
+    "title": "KIA에 갑자기 무슨 일이? 깜짝 트레이드 주인공+보상선수 2명까지 한꺼번에 이탈 왜?→사령탑 \"갑자기 확 좋아질 수도 있다\" 기대감↑",
+    "summary": [
+      "시즌이 한창인 가운데, KIA 타이거즈가 과감한 결단을 내렸다.",
+      "향후 팀을 이끌어 갈 주축 선수라고 해도 과언이 아닌 이들이 전열에서 이탈했는데, 알고 보니 이유가 있었다.",
+      "더욱 나은 실력을 키우기 위해 '이웃 나라' 일본으로 연수를 떠난 것이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5825b77a",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003667735",
+    "title": "李 \"한-이탈리아, 자유무역·다자주의 발전 위해 협력 필요\"…전략적 행동 계획도 채택(종합)",
+    "summary": [
+      "[로마=뉴시스] 김지은 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 12일(현지시간) 로마 총리 영빈관(빌라 마다마)에서 조르자 멜로니 이탈리아 총리와 정상회담을 하고 '특별 전략적 동반자 관계'로 격상된 양국의 경제산업·외교안보·문화 등의 협력 방안을 논의했다.",
+      "이 대통령과 멜로니 총리는 이날 오후 한-이탈리아 정상회담에서 양국의 협력 강화 행동 계획이 담긴 '2026-2030 한·이탈리아 전략적 행동 계획'을 채택했다."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
     "id": "nfc37b3f9",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "47분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152583",
     "title": "AI 리센느가 '0+0' 부른다면 수익은 누가?...뉴튠, 음악 쪼개 권리 문제 해소",
     "summary": [
@@ -365,271 +637,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
-  },
-  {
-    "id": "nc7e92fa8",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152581",
-    "title": "\"여행·여가·문화, 모두 NOL에서\"...놀유니버스, 서비스 통합으로 'ATA' 도약 '성큼'",
-    "summary": [
-      "놀유니버스가 플랫폼의 역량을 하나로 결집해 여행·여가·문화 분야를 아우르는 독보적인 '인공지능(AI) 트래블 에이전시(ATA)'로 도약하겠다고 선언했다.",
-      "이를 위해 서비스를 일원화하는 동시에 AI 서비스를 고도화·확대하며 이용자들의 편의성을 높이고 여행 전 과정에 걸친 맞춤형 경험을 제공할 방침이다.12일 놀유니버스는 플랫폼별로 분산된 숙박과 항공·투어·레저·티켓 등 서비스를 '놀(NOL)' 플랫폼으로 일원화해 고객에게 새로운 초연결 경험을 제."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n66f9711e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667722",
-    "title": "강도 제압 후 피의자된 나나…'나나법' 입법 움직임",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 배우 겸 가수 나나가 흉기를 든 강도를 제압하고도 역고소를 당한 사건과 관련해 국회에서 정당방위 인정 범위를 확대하는 법안이 발의됐다.",
-      "나나는 12일 소셜미디어에 관련 기사를 공유하며 별다른 멘트 없이 해당 소식을 알렸다.",
-      "기사에는 전용기 더불어민주당 의원이 정당방위 성립 요건인 '상당한 이유'의 판단 기준을 법률에 구체화하는 형법 일부개정법률안을 대표발의했다는 내용이 담겼다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n255f43e6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667715",
-    "title": "'31세' 미미, 14년간 솔로 고백…\"17살 때가 마지막\"",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 오마이걸 미미가 연애사를 고백했다.",
-      "14일 방송되는 SBS '런닝맨'에서는 김동현과 오마이걸 미미가 출연한다.",
-      "'런닝맨'에 10회 이상 출연한 김동현은 등장과 동시에 멤버들과 가족 같은 '케미'를 뽐낸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c874954",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667714",
-    "title": "야노시호, 도쿄 300억 맨션 사는 동생 공개…층고가 7미터",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 야노시호가 절친한 부자 지인을 공개했다.",
-      "12일 야노시호의 유튜브 채널에는 '300억 맨션에 사는 야노시호 친동생(?) 공개'라는 영상이 게재됐다.",
-      "야노시호는 동생의 동네인 도쿄의 미나토구를 찾아 \"우리집과는 어나더 레벨(차원이 다르다)\"이라고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n081ffa0a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667710",
-    "title": "\"의식적으로 잊고 지냈다\"…조민아, 쥬얼리 멤버들 향한 진심",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 그룹 쥬얼리의 멤버 조민아가 멤버들과 소원했던 당시를 회상했다.",
-      "12일 서인영의 유튜브 채널에는 '가요계의 보석 쥬얼리 20년만에 완전체 무대 (조민아,감동주의)'라는 제목의 영상이 공개됐다.",
-      "이날 서인영은 박정아를 비롯해 이지현, 조민아, 하주연과 함께 '니가 참 좋아'(2003), 'Super Star'(2005), 'One more time'(2008) 등의 무대를 선보였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1164dd82",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/12/ULDVI3GSIRBVRN7Z3UOBWHNIMI/",
-    "title": "전쟁 끝난다던 트럼프, 하루만에 “이란 정말 비열”",
-    "summary": [
-      "전쟁 끝난다던 트럼프, 하루만에 “이란 정말 비열”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb4e08240",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/opinion/column/2026/06/12/XUJ7ETAFFBGJRP7HJSPWVT2T6E/",
-    "title": "[박정훈 칼럼] 민주당 표밭에서 투표지가 모자랐다면",
-    "summary": [
-      "[박정훈 칼럼] 민주당 표밭에서 투표지가 모자랐다면."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd16fe0b3",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260612/134104287/1",
-    "title": "이승기 측 “105억 전세 사기”…차가원 측 “세금 피하려 먼저 요구”",
-    "summary": [
-      "가수 겸 배우 이승기와 원헌드레드 차가원 회장이 전속계약 및 전세 계약과 관련한 갈등을 이어가고 있다.이승기 법률대리인 윤용석 변호사는 11일 입장문을 내고 “차가원 회장 측은 지속적인 허위 주장을 반복하며 본질을 왜곡하고 있다”며 “이승기 씨는 추후 수사기관을 통해 차가원의 범죄 혐의를 상세히 밝히고 엄중히 책임을 묻겠다”고 밝혔다.윤 변호사는 전속계약 해지 배경에 대해 “미정산으로 인한 것”이라며 “관리비는 미정산금을 줄 때까지 차 회장(아."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "nc0e167d1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260612/134104283/1",
-    "title": "랄랄, ‘개콘’ 공개재판 코너 출격…부캐 이명화로 활약 예고",
-    "summary": [
-      "크리에이터 랄랄이 부캐 ‘이명화’로 ‘개그콘서트’에서 공개재판을 받는다.오는 14일 오후 10시 40분 방송되는 KBS 2TV ‘개그콘서트’에는 랄랄이 부캐 이명화로 ‘공개재판’ 코너에 출연한다.‘공개재판’에 회부된 이명화의 죄명은 ‘랄랄 섭외했는데 이명화가 나온 죄’다.",
-      "최근 녹화에서 검사 박성호는 “3개월 끝에 겨우 랄랄을 섭외했는데 이명화가 나왔다”라며 ‘랄랄 감금설’을 제기했다.곧이어 박영진은 랄랄보다 이명화가 훨씬 매력이 있다면서 랄랄."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0c3c453a",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260612/134104280/1",
-    "title": "BTS 부산 공연 75분 지연…하이브 “현장 운영 미흡 사과”",
-    "summary": [
-      "12일 부산 연제구 부산 아시아드주경기장에서 열린 그룹 방탄소년단(BTS)의 ‘BTS WORLD TOUR ARIRANG IN BUSAN’ 공연이 관객 입장 지연으로 예정보다 1시간 넘게 늦게 시작됐다.공연은 당초 이날 오후 7시 시작될 예정이었으나 약 1시간 15분 뒤인 오후 8시 15분쯤 막을 올렸다.공연 시작 시간인 오후 7시부터 사회관계망서비스(SNS) 등에는 “아직 입장하지 못했다”, “공연장 입구가 아수라장이다”, “공연이 지연되고 있."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n7544d511",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612170700109",
-    "title": "트럼프 \"이란과 합의 후에 유럽이 도움 될수도\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 도널드 트럼프 미국 대통령이 12일(현지시간) 이란과 종전 합의 이후 유럽 동맹국과 관계가 개선될 수도 있다..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n247299b8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/06/12/74LTY65G55BE5HEIKGYKN42K3Y/",
-    "title": "[박진배의 공간과 스타일] [344] 뉴욕 최고의 피크닉",
-    "summary": [
-      "[박진배의 공간과 스타일] [344] 뉴욕 최고의 피크닉."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne21cc52c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612170200075",
-    "title": "머스크 \"스페이스X가 달과 화성, 그 너머까지 데려다주길 바라\"",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 일론 머스크가 스페이스X의 나스닥 상장 기념행사를 열고 누구든 원하는 사람을 우주 멀리 보내주는 기업..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c8120fa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612170100079",
-    "title": "네타냐후 \"내가 있는한 이란 핵무기 못가져…트럼프도 동의\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란의 종전 합의가 임박했다는 관측이 나오는 가운데 베냐민 네타냐후 이스라엘 총리는 이란의 핵무기 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na5e938c6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260612/134103747/2",
-    "title": "[사설]“尹 계엄 하려 北 도발 유도”… 무지한 건지, 무모한 건지",
-    "summary": [
-      "윤석열 전 대통령이 비상계엄 선포의 명분을 만들기 위해 2024년 10, 11월의 평양 무인기 작전을 승인했다는 1심 법원의 판결이 나왔다.",
-      "윤 전 대통령이 북한의 군사적 도발을 유도해 전시와 같은 국가적 안보 위기 상황을 조성하려 했다는 것이다.",
-      "재판부는 윤 전 대통령에게 특검 구형량과 같은 징역 30년을 선고했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0745ec24",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612169800071",
-    "title": "합의서명 임박했다던 트럼프, 갑자기 이란 맹비난…\"정말 비열\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령이 12일(현지시간) 이란을 향해 강도 높은 불쾌감을 표출했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na7773aa2",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606122888i",
-    "title": "\"월세 45만원 믿기지 않아\"…7조원 들여 지은 '펭귄섬' 정체 [차이나 워치]",
-    "summary": [
-      "\"월세 45만원 믿기지 않아\"…7조원 들여 지은 '펭귄섬' 정체 [차이나 워치]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n56e6117b",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612167200083",
-    "title": "中 5월 신규 대출 예상치 밑돌아…부동산 침체 여파",
-    "summary": [
-      "(베이징=연합뉴스) 김현정 특파원 = 장기화하는 부동산 경기 침체로 가계 대출 수요가 좀처럼 살아나지 않으면서 중국의 5월 신규 위안화 대출이 ..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
   }
 ];
 
@@ -638,20 +645,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
