@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-12 03:03:22
+// 마지막 업데이트: 2026-06-12 05:31:51
 window.NEWS_DB = [
   {
     "id": "n71a254ee",
     "category": "경제",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
     "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n704d5b25",
     "category": "IT",
     "source": "헤럴드경제",
-    "time": "1시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQWFFYeGFBdVRVbkdIeEhrdzlFeTcxMHZVbzRrMXcyX1BuYTFIbEpzMVRaOFQwY3B1RUdCUUl6cHZlc056QzVCNENEc2J2T1B6Mk9FYW5B?oc=5",
     "title": "삼성 파운드리, 구글과 접점 커질까…TPU 핵심 부품 수주 기대감",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n2af5a245",
     "category": "IT",
     "source": "디일렉",
-    "time": "19시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQTlGZl9DeDFvZWczWnRQa1d6NjdWbUVUc0wzR2k2MWg4Z0oxRzN0MG01bkRWQ0FJV2RuQ1dxRXZ2cG9taEszSy14V2dxVTliR21INEp4M1ZLYlV0ZkktQ3hDVDkxdw?oc=5",
     "title": "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n31476ce7",
     "category": "IT",
     "source": "뉴시안",
-    "time": "21시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZVzNvNjZhLTJ2VFVVb0pBSVhFbXg0WmRESnljcDNvdHB4UndyY3pzX3hqallibk9KdEFYMjdYZ0pxcnpqbzhJcUdWZ2tJTE1NQUxieTlrQW16c0ZYMGpFQWhmSkxpdGFPTXfSAW5BVV95cUxNSUN0dUl1YVpxb0R1NjJKU0tEd0doTHBwQzFBZVdWa2JlTEJGaGJWcFN1LURTeXd6OU42SE9saWhVQmZaUEJ2bnFZb3ozalh4QXg2SU9sYVh3U0NOazh0b3dRcmV5QXpOSmYxd2tqUQ?oc=5",
     "title": "SK, 엔비디아와 日에 ‘AI 팩토리’ 건설 추진…2028년 가동 목표",
     "summary": [
@@ -58,6 +58,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n27c4fee3",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRnZ4QkptSWR2eGZROE9Zb053aWF6ZzF2NW1fYXBDWTBVVXdWekRFSVM1bUpDcFdPSXJSYVBveFNfbmVVbVlWUnVsZU5CZEhmT2dKbFFGN21OZ9IBVEFVX3lxTE9rWlQyUjBLTy1tU283VkpaMXFoZ3o3VmV4a3BFVGhzZzQ5c3ExY0daUU4zYVM0cGFxYlN5UE5QR0VrT3huclktd2xuSG5UYmItQUpXbQ?oc=5",
+    "title": "최태원 \"日에 AI 데이터센터 구축…엔비디아와 협력, 반도체 공장도 검토\"",
+    "summary": [
+      "최태원 \"日에 AI 데이터센터 구축…엔비디아와 협력, 반도체 공장도 검토\" 한국경제."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -76,18 +92,20 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1fb61718",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lQXZ6d0xKNDl5ZGxhV2xXbkthaGdQVThCdUpjcFVwOG9CVm14Njk0UXROY2RGZEJrWnAwT0xYSnZBR3BXem5HbEVvVl9iZ05MSlpLYUwwazA1WDkxamxid9IBYEFVX3lxTE1lQXZ6d0xKNDl5ZGxhV2xXbkthaGdQVThCdUpjcFVwOG9CVm14Njk0UXROY2RGZEJrWnAwT0xYSnZBR3BXem5HbEVvVl9iZ05MSlpLYUwwazA1WDkxamxidw?oc=5",
-    "title": "[머니톡스] 수출 초호황인데 역설적인 환율…'글로벌'의 부메랑",
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
     "summary": [
-      "[머니톡스] 수출 초호황인데 역설적인 환율…'글로벌'의 부메랑 연합뉴스."
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
     ],
     "chips": [
-      "#환율",
-      "#수출"
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -121,10 +139,27 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13b4af19",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
     "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMXhOQm1aSW1uMERiS2ZpRGF2ckVNd2RGektBdm8zaHVMeS11aWNyX1c1b0phM1k4bVNERFdpOUpjMEg5SnlpN1Q1d3MxTy04YkwwSW5qN1JOdzJERnN2Q3I3QlpQbEppUUE3d3dVOF9lZ9IBdkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXc?oc=5",
     "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
     "summary": [
@@ -136,17 +171,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc9fe1ef0",
+    "id": "n70cb7884",
     "category": "사회",
-    "source": "브런치",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UllYQlR3ck1kZTlFeDd5X0gtTHhkN2NMcU95T2VGbGpSOEZsWjdQZ3ZVVHEwS19fb1JvLS04SlBnQVd5Z2YxdU1nTQ?oc=5",
-    "title": "화성시 일자리 찾는다면, 일자리센터 채용정보 확인",
+    "source": "투데이경제",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
+    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
     "summary": [
-      "화성시 일자리 찾는다면, 일자리센터 채용정보 확인 브런치."
+      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
     ],
     "chips": [
-      "#채용",
+      "#취업",
       "#고용"
     ]
   },
@@ -179,19 +214,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n02951820",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
-    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "id": "n1a25f504",
+    "category": "경제",
+    "source": "마켓인",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KM1A2UlB1aWxvNHl3RTNpTzItS19rbFlkT2EzMWZYR3BqNTJfcWlZM0tpcHdGTk1OelB6bWxlSW85OXdCWlBTYVdLaVhVdjAtcHVyUHhQZEhmZjYtUWllVG96RmZfcDlWckdVMVBOekFlb0U?oc=5",
+    "title": "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합)",
     "summary": [
-      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+      "금통위 경계에 국고채 금리↑…환율, 소폭 내리며 1501.1원 마감(종합) 마켓인."
     ],
     "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -225,14 +259,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncbcb6c77",
+    "id": "n783ebe44",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "95일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "source": "테크M",
+    "time": "71일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -268,21 +302,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1e3b72e2",
-    "category": "사회",
-    "source": "매일경제 마켓",
-    "time": "121일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
-    "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
-    "summary": [
-      "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국 매일경제 마켓."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -298,344 +317,331 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na9cdc01c",
-    "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152571",
-    "title": "'라이더 더위 식힌다'...우아한청년들, 폭염 대응책 가동",
-    "summary": [
-      "배달의민족(배민)의 물류서비스를 전담하는 우아한청년들이 여름철 폭염에 대비해 라이더 안전 지원을 강화한다.",
-      "생수 70만병 배포를 비롯해 전국 단위 쉼터 운영, 냉방시설 확충, 계절성 안전용품 지원 등으로 구성된 '2026년 라이더 폭염 대응 종합대책'을 시행하며 라이더의 안전한 배달 환경을 조성에 앞장서는 모습이다.무더운 여름, 시원한 물 받아가세요~12일 우아한청년들이 라이더들의 혹서기 온열질환 예방과 안전운행 지원을 위해 오는 15일부터 9."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n8f7f9f2f",
+    "id": "n31188319",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152570",
-    "title": "\"여름 휴가객 잡아라\" 여행 플랫폼, '숙박세일 페스타' 참여...최대 7만원 할인",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152579",
+    "title": "e스포츠 IP 전선 넓히는 치지직, 스트리밍 주도권 경쟁 '속도'",
     "summary": [
-      "여름 맞이 여행객들이 저렴하게 숙박할 수 있도록 국내 여행 플랫폼이 숙박세일 페스타에 동참한다.",
-      "숙박세일 페스타는 문화체육관광부와 한국관광공사가 비수도권 지역의 경제 활성화를 지원하고자 마련한 민관협력 프로젝트다.",
-      "이번 숙박 페스타를 통해 여행객들은 숙박 할인 포함, 다양한 여행 프로그램까지 손쉽게 준비할 수 있을 것으로 기대된다.국내 여행, 마이리얼트립으로 즐기자!12일 국내 여행 플랫폼 마이리얼트립이 '2026 여름맞이 숙박세일 페스타'에."
+      "네이버가 크래프톤과의 협업을 발표하며 스트리밍 e스포츠 콘텐츠 확대에 나선다.",
+      "라이엇게임즈, 넥슨에 이어 배틀그라운드 지식재산권(IP)까지 확보하며 e스포츠 콘텐츠 생태계를 확장한다는 전략이다.",
+      "이는 치지직이 이용자 성장세를 이어가는 동시에 스트리밍 시장 주도권 경쟁에도 속도를 내는 주요 성장 요인이 될 것으로 기대된다."
     ],
     "chips": [
-      "#뉴스"
+      "#네이버"
     ]
   },
   {
-    "id": "n8660d612",
-    "category": "경제",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152568",
-    "title": "[금융人사이트] '현장통' 이호성 하나은행장, 사상 최대 실적 이끈 비결은",
-    "summary": [
-      "하나은행의 실적 체력이 달라졌다.",
-      "금리 인하 기조와 대외 불확실성이 이어지는 환경 속에서도 사상 최대 실적을 달성한 데 이어, 올해 1분기에는 시중은행 가운데 가장 높은 자본효율성을 기록했다.",
-      "금융권에서는 이 같은 성과의 중심에 이호성 하나은행장이 있다는 평가가 나온다.이호성 행장은 하나금융그룹이 배출한 대표적인 '상고 출신 CEO'다."
-    ],
-    "chips": [
-      "#금리",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n45d9bf85",
-    "category": "경제",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152569",
-    "title": "신한은행, '마통' 조인다...은행권 신용대출 관리 강화",
-    "summary": [
-      "은행권의 가계대출 관리 대상이 주택담보대출에서 신용대출까지 넓혀지고 있다.",
-      "주식시장 활황 속에 이른바 '빚투' 수요가 늘며 신용대출 증가세가 확대되자, 은행들이 선제 관리에 나서는 모습이다.신한은행은 오는 15일부터 가계부채 증가세 확대에 대응하기 위한 '신용대출 선제적 관리방안'을 시행한다고 12일 밝혔다.신한은행은 대면·비대면 신용대출 합산 일별 접수량이 내부 관리 기준을 초과할 경우 비대면 신용대출 신청을 제한한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n656d54f9",
+    "id": "nb1985f4d",
     "category": "스포츠",
-    "source": "아시아경제",
+    "source": "테크M",
     "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026061212030649647",
-    "title": "[2026월드컵]한국, 체코와 0-0 전반 종료…점유율 앞서며 공격 주도",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152577",
+    "title": "골 터질 때마다 채팅창도 '들썩'...네이버 '치지직'에서는 무슨 일이? 482만명 몰렸다",
     "summary": [
-      "한국이 체코와의 2026 북중미 월드컵 조별리그 첫 경기에서 득점 없이 전반을 마쳤다.",
-      "두 팀 모두 결정적인 기회를 만들어내지 못한 채 한국이 패스 정확도에서 앞서며 공격을 주도하는 모습을 보였다.",
-      "홍명보 감독이 이끄는 한국 축구대표팀이 12일(한국시간) 멕시코 사포판의 과달라하라 스타디움에서 열린 2026 북중미 월드컵 A조 체코와의 조별리그 1차전에서 전반을 0-0으로 마쳤다."
+      "\"대한민국! 짝.짝.짝.짝.짝\" 오전 11시 드디어 2026 북중미 월드컵 1차전의 막이 오르고 환호성과 탄식이 오고간 90여분이 흘러갔다.",
+      "우리나라 국가대표팀의 투혼 덕분에 2 대 1로 이기며 16년 만에 1차전 승리를 따냈다.",
+      "그 뒤에는 붉은 악마의 응원과 우리나라 국민들의 염원이 담겼다."
     ],
     "chips": [
-      "#뉴스"
+      "#네이버"
     ]
   },
   {
-    "id": "n18ab82c5",
+    "id": "n160e7837",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666478",
-    "title": "\"의대 넘보는 '하의치한약수'\"…외신이 소개한 K-반도체 열풍",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152572",
+    "title": "네이버 커머스, '2030 패션·가전' 프로모션 진행...쇼핑 경쟁력 높인다",
     "summary": [
-      "[서울=뉴시스]김수빈 인턴 기자 = 미국 일간지 뉴욕타임스(NYT)가 AI 호황 속 한국 사회에 나타난 반도체 열풍을 신조어와 밈을 통해 소개했다.",
-      "지난 11일(현지 시간) NYT는 'AI와 반도체 열풍: 한국 신조어와 밈 퀴즈를 풀어보라'는 제목의 기사를 게재했다.",
-      "NYT는 \"한국이 세계 메모리 반도체의 60％ 이상을 생산하고 있으며, 인공지능(AI) 확산으로 메모리 반도체 수요가 급증하면서 국내 증시가 활기를 띠고 있다\"고 소개했다."
+      "네이버가 패션과 가전을 아우르는 대형 프로모션을 잇달아 선보이며 커머스 경쟁력 강화에 나섰다.네이버의 인공지능(AI) 쇼핑 애플리케이션인 네이버플러스 스토어(네플스)에서는 2030 세대가 몰리는 패션 플랫폼 '노크잇'의 성장세를 바탕으로 할인 행사를 확대하는 동시에 삼성전자와 협력한 대규모 쇼핑 페스티벌도 진행하며 이용자 확보에 속도를 내고 있다.2030세대 모이는 '노크잇', 블프로 이용자 확보 가속12일 네이버 커머스는 컨템포러리 패션 브랜."
     ],
     "chips": [
       "#AI",
-      "#반도체"
+      "#삼성전자",
+      "#네이버"
     ]
   },
   {
-    "id": "n3ccf7ddc",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260612/134099123/1",
-    "title": "“탄핵은 사기극”…트럼프, 탄핵 기록 삭제 결의안 추진",
-    "summary": [
-      "도널드 트럼프 미국 대통령과 측근들이 1기 재임 중 두 차례 탄핵 기록을 의회 결의안으로 공식 삭제하는 방안을 논의하고 있는 것으로 알려졌다.",
-      "11일(현지 시간) 월스트리트저널(WSJ)에 따르면 트럼프 진영은 의회가 탄핵 기록을 공식적으로 삭제하는 결의안을 통과시키는 방안을 검토하고 있다.",
-      "해당 결의안이 통과될 경우 트럼프는 오랫동안 따라다닌 탄핵 오명을 벗고 상징적 승리를 거둘 수 있게 된다.트럼프 대통령은 WSJ과의 전화 인터뷰에서 “나는."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf0d04557",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666952",
-    "title": "\"순금 1돈 행운까지\"…대구 안지랑 곱창골목, 축제 연다",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 대구 남구는 안지랑 곱창골목에서 19일부터 20일까지 '안지랑 곱페스티벌-황금을 찾아라!'를 연다고 12일 밝혔다.",
-      "안지랑 곱창 상가번영회가 주관하는 이번 축제는 침체된 골목상권에 활력을 불어넣기 위해 할인 행사로 꾸며진다.",
-      "축제 기간 회원 업소들은 곱창 한바가지(500g)를 기존 1만4000원에서 약 30% 할인된 '10년 전 가격'인 1만원에 판매한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n62b47d60",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026061212010141501",
-    "title": "\"디지털의료기기, '진단' 중심으로 성장…인허가 애로 커\"",
-    "summary": [
-      "디지털의료기기 시장이 진단보조 서비스를 중심으로 형성되고 있는 것으로 나타났다.",
-      "다만 업체 절반가량은 전문인력 확보에 어려움을 겪고 있어 인허가 규제지원과 인력 양성이 향후 산업 성장의 과제로 꼽힌다.",
-      "식품의약품안전처는 디지털의료제품법 시행 이후 처음으로 디지털의료기기 전환·신규 업체 382곳을 대상으로 전수조사를 실시하고 이 같은 내용의 '2025년 디지털의료기기 시장현황 조사 결과'를 12일 발표했다."
-    ],
-    "chips": [
-      "#정책",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9c1eba11",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666974",
-    "title": "연 2072억 피해 낸 K-웹툰 불법사이트…베트남 부부 검거(종합)",
-    "summary": [
-      "[서울=뉴시스]김주희 기자 = 문화체육관광부는 베트남 공안부와의 국제공조 수사로 연간 약 2072억원의 피해를 낸 K-웹툰 불법유통 사이트 3곳을 폐쇄하고 베트남 운영자 부부 2명을 검거했다고 12일 밝혔다.",
-      "폐쇄된 불법사이트는 '하리ㅇㅇ(Hari***)', '만화ㅇㅇ(Manhwa**)', '쿤ㅇㅇ(Kun***)' 등 3곳이다.",
-      "부부 관계인 베트남 국적의 피의자들은 2023년 1월부터 국내 웹툰을 영어로 불법 번역해 아시아, 북미, 유럽 등 전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf96ab30f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666949",
-    "title": "전주비전대·원광대 전주한방병원, 스마트헬스케어 협력",
-    "summary": [
-      "[전주=뉴시스] 윤난슬 기자 = 전북 전주비전대학교는 최근 원광대학교 전주한방병원과 교직원 건강 증진과 지역사회 스마트헬스케어 활성화를 위한 업무협약을 체결했다고 12일 밝혔다.",
-      "두 기관은 협약을 통해 ▲교직원 건강증진 및 복지 향상을 위한 의료서비스 지원 ▲건강 관련 교육 및 정보 교류 ▲지역사회 건강증진 사업 협력 ▲상호 홍보 및 발전을 위한 협력체계 구축 등을 공동 추진하기로 했다.",
-      "특히 이번 협약은 지난달 체결한 라이즈(RISE·지역혁신."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n139356c1",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061211531495416",
-    "title": "식약처 \"올해 독감백신 2740만명분 출하승인 준비\"",
-    "summary": [
-      "식품의약품안전처는 올해 하반기 독감백신이 원활하게 출하되고 국민이 적절한 시기에 예방 접종을 받을 수 있도록 독감백신 제조·수입사를 대상으로 국가출하승인 준비에 도움을 주기 위한 설명회를 12일 개최한다고 밝혔다.",
-      "이번 설명회에서는 ▲국가출하승인 절차 및 방법 ▲2026년 독감백신 국가출하승인 계획 ▲제조 및 품질관리 요약서 작성 시 주의사항 ▲2026년 국가예방접종 독감백신 공급·조달구매 계획(질병청) 등을."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n126197fc",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061210444726939",
-    "title": "한국, AI·6G 보안 국제표준 주도권 잡는다",
-    "summary": [
-      "우리나라가 인공지능(AI)과 6세대 이동통신(6G) 보안 분야 국제표준 개발을 주도하며 글로벌 기술 경쟁력 확보에 나섰다.",
-      "과학기술정보통신부는 1일부터 10일까지 스위스 제네바에서 열린 국제전기통신연합 전기통신표준화 부문(ITU-T) 정보보호연구반(SG17) 국제회의에서 우리나라가 제안한 신규 표준화 항목 14건이 승인됐다고 12일 밝혔다.",
-      "이와 함께 국제표준 7건이 사전 채택되고 국제표준 6건과 기술보고서 2건이 최종 승인됐."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n771354d2",
+    "id": "nf771119a",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/12/HBQWKMRYMVRTQYLCG5RWMMTCME/",
-    "title": "'2026 청춘양구 중학교 1학년 축구 페스티벌', 13일 개막",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152565",
+    "title": "[가봤다] \"오~ 대한민국 승리의 함성!\"...KT와 광화문에서 함께한 월드컵 응원",
     "summary": [
-      "중학교 1학년 축구선수들의 경기력 향상과 성장 기회 제공을 위한 '2026 청춘양구 중학교 1학년 축구 페스티벌'이 13일부터 16일까지 4일간 강원도 양구군에서 개최된다.",
-      "이번 페스티벌은 중학교 1학년 선수들이 공식 경기 경험을 통해 기량을 점검하고, 향후 성장 가능성을 확인할 수 있도록 마련됐다.",
-      "대한축구협회 승인 축구 페스티벌이다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n0bc848ee",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/06/12/HA3GKNZWHBQWEMZYMFQWIOJTMQ/",
-    "title": "박재범, 롱샷 들러리 논란+외모 비하 악플에 분노 \"회사 소유자는 나\"[종합]",
-    "summary": [
-      "[스포츠조선 백지은 기자] 가수 박재범이 연일 네티즌과의 설전을 벌이고 있다.",
-      "박재범은 11일 자신의 계정에 \"다음에는 내가 공식적으로 롱샷에 합류할 것이다.",
-      "원래부터 그게 내 목표였고 아무도 날 막을 수 없다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44c3b594",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612080600004",
-    "title": "[일지] '평양 무인기 의혹' 제기부터 윤석열 일반이적 1심 선고까지",
-    "summary": [
-      "(서울=연합뉴스) 김빛나 기자 = 12·3 비상계엄 선포 명분을 만들기 위해 평양에 무인기 투입 작전을 지시한 혐의로 재판에 넘겨진 윤석열 전 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne774fb5e",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612068151007",
-    "title": "[월드컵] 초록 옷 입은 멕시코인들도 \"꼬레아!\"…응원전서 이미 '판정승'(종합)",
-    "summary": [
-      "(사포판[멕시코 할리스코주]=연합뉴스) 오명언 기자 = \"비바 라 꼬레아!\"(한국 만세!)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n92dbcb89",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612081700007",
-    "title": "[월드컵] 홍명보호, 체코전 전반까지 0-0 맞서…아깝다 손흥민 문전 슈팅",
-    "summary": [
-      "(사포판[멕시코 할리스코주]=연합뉴스) 안홍석 오명언 기자 = 한국이 2026 북중미 월드컵 첫판에서 전반까지 체코와 0-0으로 맞섰다."
+      "\"짝! 짝! 짝! 짝! 짝! 대! 한! 민! 국!\"12일 서울 광화문광장이 붉은 물결로 뒤덮였다.'2026 북중미 월드컵' 대한민국의 첫 경기가 열렸다.",
+      "전반전 손흥민 선수의 슛이 빗나가자 광장이 탄성으로 가득했다.",
+      "후반 시작 직후 황인범 선수의 슛은 체코 골키퍼가 막았지만 붉은악마의 혼을 깨웠다.체코가 후반전 59분 선제골을 넣었지만 분위기는 가라앉지 않았다."
     ],
     "chips": [
       "#손흥민"
     ]
   },
   {
-    "id": "nb7d411b3",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612079300052",
-    "title": "경남도 광역형비자 선발 인도 조선용접공 26명 삼성중 근무한다",
-    "summary": [
-      "(거제=연합뉴스) 이정훈 기자 = 경남도는 광역형 비자로 선발한 인도 국적 조선용접공 26명이 최근 입국했다고 12일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n496f60b8",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "11분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/12/AHLCPNDDYFAXLB25TF4QR7P7NE/",
-    "title": "SK하이닉스 청주 공장서 또 화재… 직원 수천명 대피, 이달 두 번째",
-    "summary": [
-      "SK하이닉스 청주 공장서 또 화재… 직원 수천명 대피, 이달 두 번째."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nd9a68c20",
+    "id": "n5a958f84",
     "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/12/BRAYEI6PRNCOHNSN4UZWBTWGMQ/",
-    "title": "슈팅 수 8-3... 체코 밀어붙였지만 전반전 0-0",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061214311241241",
+    "title": "생계비·기금운용 집행부 마음대로?…삼성바이오 상생노조 규약 개정안 논란",
     "summary": [
-      "슈팅 수 8-3... 체코 밀어붙였지만 전반전 0-0."
+      "삼성바이오로직스 상생노동조합(상생노조)이 초기업 노동조합 탈퇴와 독자 노조 전환을 추진하는 가운데, 함께 상정된 규약 개정안을 두고 내부 반발이 커지고 있다.",
+      "생계비 지원과 투쟁기금 운용 등 조합 재정과 관련한 주요 결정 권한을 대의원회나 조합원 총회가 아닌 집행위원회에 집중시키는 내용이 포함되면서 집행부 견제 장치가 약화할 수 있다는 우려가 제기되고 있다.",
+      "12일 관련 업계에 따르면 상생노조 집행부는 최근 조."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc0ff4835",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260612/134099053/1",
-    "title": "“주민등록등본 발급도 말로 하는 시대” 카카오톡 AI 국민비서, 직접 써보니",
+    "id": "n7efb4c0f",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061214311037330",
+    "title": "482만명 네이버 치지직으로 체코전 즐겨…\"역대 최대 접속\"",
     "summary": [
-      "스마트폰 자판에 익숙하지 않은 한 60대는 주민등록등본이 필요할 때마다 자녀에게 도움을 요청해야 했다.",
-      "행정안전부가 카카오와 손잡고 5월 14일부터 카카오톡의 ‘AI 국민비서’에 음성 인식 기능을 정식 도입했기 때문이다.행정안전부는 이날 보도자료를 통해 “카카오톡 기반 AI 국민비서에 음성 인식 기능을 새롭게 도입해 텍스트 입력 없이 말로도 행정 업무를 처리할 수 있도록 한다”고 밝혔다.누구나 AI 국민비서에 “주민등록등본."
+      "'2026 FIFA 북중미 월드컵' 전 경기를 생중계하는 네이버의 스트리밍 플랫폼 치지직이 한국 국가대표팀 첫 경기인 체코전에서 최고 동시접속자 수 482만명을 기록했다고 12일 밝혔다.",
+      "이는 지난해 11월 열린 리그오브레전드(LoL·롤) 월드 챔피언십 당시 전용 중계 채널 등으로 달성한 역대 최대 동시 접속자 76만명을 크게 넘어선 수치다.",
+      "특히 인기 스트리머인 '한동숙의 같이보기' 방송에 접속자 수 36만명이 몰렸다."
+    ],
+    "chips": [
+      "#네이버"
+    ]
+  },
+  {
+    "id": "nadaff5f0",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026061214303833839",
+    "title": "정부, 상반기 재정집행 348조 돌파…추경 집행률 71%",
+    "summary": [
+      "정부가 상반기 재정집행 목표 달성을 위해 총력 대응에 나선 가운데 공공부문 신속집행 규모가 348조원을 넘어섰다.",
+      "추경예산도 70% 이상 집행되며 고유가 대응 등 정책 효과가 본격화하고 있다.",
+      "임기근 기획예산처 차관은 12일 정부세종청사에서 관계부처 합동 '제11차 재정집행 점검회의'를 주재하고 2026년 상반기 본예산 신속집행과 추가경정예산 집행 현황을 점검했다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nf99e1b07",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/economy/2026/06/12/2026061214164669972",
+    "title": "공공부문 신속집행 348.4조…\"재정지원 효과 체감되도록 만전\"",
+    "summary": [
+      "정부가 지난 5일까지 공공부문에서 약 348조원을 신속집행한 것으로 집계됐다.",
+      "추가경정(추경)예산과 관련해선 7조4000억원을 신속집행해 71%의 집행률을 기록했다.",
+      "임기근 기획예산처 차관은 12일 오후 정부세종청사에서 관계부처 합동 '제11차 재정집행 점검회의'를 주재하고 2026년 상반기 본예산 신속집행과 추경예산 집행현황 등을 점검했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na23cddd8",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/thebio/2026/06/12/2026061209540522446",
+    "title": "응급 이송체계 혁신 시범사업 대구·경북으로 확대…\"AI도 활용한다\"",
+    "summary": [
+      "대구·경북 이송 지침 개정 관련 간담회 개최…이달 대구, 내달 경북서 시범사업 시행 대구는 응급의료기관 간 협력 강화, 경북은 헬기 등 장거리 이송책 마련 응급의료에 AI 적용해 응급환자 이송지연 개선 기술 시연…하반기 대구·경북에 적용 응급환자 미수용, 이른바 '응급실 뺑뺑이' 문제 해소를 위해 가동된 정부의 응급환자 이송체계 혁신 시범사업이 대구·경북으로 확대된다.",
+      "이전에는 광주·전북·전남에서 시행됐고, 오는 9월부터는 전국에 적용될 예정이."
     ],
     "chips": [
       "#AI",
-      "#카카오"
+      "#의료"
+    ]
+  },
+  {
+    "id": "n48734148",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666804",
+    "title": "복지부, '응급환자 이송 시범사업' 대구·경북 상황 점검",
+    "summary": [
+      "[세종=뉴시스] 강진아 기자 = 보건복지부가 응급 이송체계 혁신 시범사업의 전국 확대를 앞두고 대구·경북 지역의 상황 점검에 나섰다.",
+      "정은경 보건복지부 장관은 12일 경북대병원을 찾아 대구와 경북의 응급환자 이송체계 간담회를 개최했다.",
+      "이번 자리는 응급 이송체계 혁신 시범사업을 9월 내 전국 확산 완료한다는 지난달 국무회의 보고에 맞춰 대구·경북 진행 상황을 확인하기 위해 마련됐다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "necbcaf52",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003667191",
+    "title": "휴가철 도내공항 제주 노선 항공권 추가 할인",
+    "summary": [
+      "[춘천=뉴시스]서백 기자 = 강원특별자치도는 여름 휴가철을 맞아 도 내 공항 활성화와 고유가·물가 상승에 따른 여행객 부담 완화를 위해 양양 국제공항 취항사 파라타 항공, 원주 공항 취항사 진에어와 함께 제주 노선 항공권 할인 프로모션을 추가 추진한다.",
+      "12일 강원특별자치도에 따르면 도는 지난 5월 파라타 항공과 함께 양양-제주 노선 할인 프로모션을 진행했으나, 여전히 높은 유류 할증료 등으로 여행객 부담이 큰 점을 고려해 이용객이 체감할 수."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92793d25",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/stock/2026/06/12/2026061214239647277",
+    "title": "[더벨]포커스에이아이, 부동산 처분해 AI 솔루션 '집중'",
+    "summary": [
+      "더벨'머니투데이 thebell'에 출고된 기사입니다.",
+      "포커스에이아이가 비핵심 자산을 정리하고 인공지능(AI) 물리보안 솔루션 중심의 주력사업 경쟁력 강화에 속도를 낸다.",
+      "포커스에이아이는 12일 이사회 결의를 통해 대구광역시 수성구 소재 토지를 처분하기로 결정했다고 밝혔다."
+    ],
+    "chips": [
+      "#AI",
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n31df8502",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260612/134098139/2",
+    "title": "美 한인 여성, 남편 총격에 숨져…“가정불화가 총격으로 이어져”",
+    "summary": [
+      "미국 조지아주에서 세 자녀의 아버지가 한국인 아내에게 총을 쏜 뒤 목숨을 끊었다고 뉴욕포스트가 보도했다.10일(현지 시간) 뉴욕포스트에 따르면 7일 오후 미국 조지아주 존스크릭에 있는 한 주택에서 남편 리처드 홀리데이(52)와 그의 아내 오모 씨(43·미국명 마사 홀리데이)가 숨진 채 발견됐다.사건 당시 오 씨 부부의 십대 아들 중 한 명이 현장을 발견하고 경찰에 신고한 것으로 전해졌다.",
+      "아들은 경찰 교환원에게 “가정불화가 총격으로 이어져 사망."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne3fb7d09",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003667197",
+    "title": "김창열 공연, EDM 파티, 패션쇼…'매일시장 야시장' 축제",
+    "summary": [
+      "[익산=뉴시스]고석중 기자 = 전북자치도 익산 전통시장 여름축제의 시작을 알리는 야시장이 매일시장에서 막을 올린다.",
+      "시는 12일 오후 6시 매일시장 주차장에서 '익산 매일 패션시장 야시장 페스티벌' 개막식을 열고 13일까지 야시장 축제를 선보인다.",
+      "이 행사는 익산 전통시장 4곳에서 순차적으로 진행되는 '전통시장 릴레이 장터바캉스'의 첫번째 축제다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n43836a5f",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "2분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612101700051",
+    "title": "기술보증기금, 신입직원 117명 공채…역대 최대 규모",
+    "summary": [
+      "(부산=연합뉴스) 오수희 기자 = 기술보증기금은 기술 금융과 혁신성장 지원 정책을 시행할 우수 인재를 확보하기 위해 올해 신입직원 117명을 공..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nccd2febe",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003667196",
+    "title": "제33대 해군 1함대사령관 이남규 소장 취임",
+    "summary": [
+      "[동해=뉴시스] 이순철 기자 = 이남규 해군 소장이 12일, 제33대 해군 1함대사령관으로 취임했다.",
+      "취임식은 1함대사령부 연병장에서 해군작전사령관 주관으로 개최됐다.",
+      "취임식은 함대 장병 및 군무원, 지역 주요기관 및 단체장 등 500여 명이 참석한 가운데 국민의례, 부대기 이양, 작전사령관 훈시, 취임사, 폐식사 순으로 진행됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2cb351c2",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026061214280823379",
+    "title": "코로나19로 멈췄던 전국 교도관 무도대회, 7년 만에 재개",
+    "summary": [
+      "코로나19 여파로 중단됐던 전국 교도관 무도대회가 7년 만에 다시 열렸다.",
+      "법무부는 12일 충북 진천군 법무연수원에서 제55회 전국 교도관 무도대회를 개최했다고 밝혔다.",
+      "이번 대회는 2019년 제54회 대회 이후 코로나19로 중단됐다가 7년 만에 재개됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4b024800",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/policy/2026/06/12/2026061214101111930",
+    "title": "퍼시피코 에너지 코리아, 국내 자본 중심 진도 해상풍력 클러스터 조성",
+    "summary": [
+      "하나은행·하나증권과 상생금융 모델 개발 양해각서 체결…개발·건설·운영 전 단계에 걸친 금융 협력 재생에너지 기업인 퍼시피코 에너지 코리아가 12일 3.2GW 진도 해상풍력 발전단지 클러스터의 조성·운영에 필요한 재원조달과 해상풍력 상생 금융 모델 개발을 위해 하나은행, 하나증권과 상호협력 양해각서를 체결했다.",
+      "이날 하나증권에서 열린 양해각서 체결식에는 최승호 퍼시피코 에너지 코리아 대표, 이병식 하나은행 IB 그룹 부행장, 정영균 하나증권 IB."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n795a5e89",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612101400003",
+    "title": "레미콘노조 휴업 닷새째…22개 대형건설사 현장 105곳 타설 차질",
+    "summary": [
+      "(세종=연합뉴스) 오진송 기자 = 지난 8일 시작된 레미콘 운송노동조합의 휴업이 닷새째 이어지면서 건설 현장의 콘크리트 타설 지연 등 공사 차질..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n547501ec",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/12/ME4TENTEHFSDIOLFMQYDEZTBGQ/",
+    "title": "‘개’털린 티빙(TIVING) 해지는 잘 됩니까 [손남원의 연예산책]",
+    "summary": [
+      "[OSEN=손남원 기자] 국내 굴지의 OTT 회사 ‘티빙(TIVIG)’은 고객 응대와 소비자 보호 측면에서 역대급 서비스를 자랑한다.",
+      "물론 반어법입니다.기자는 오랫동안 이용했던 ‘티빙’을 해지하려다 곤욕을 치른 과거가 있다.",
+      "하루종일 이리 구르고 저리 굴러도 도무지 해지할 방법이 없어서였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a2f3c2b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612100300062",
+    "title": "홍천군, 청년마을 공유주거 명칭 공모…24일까지 접수",
+    "summary": [
+      "(홍천=연합뉴스) 강태현 기자 = 강원 홍천군은 오는 24일까지 청년마을 공유주거 명칭 공모전을 개최한다고 12일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -650,15 +656,15 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
