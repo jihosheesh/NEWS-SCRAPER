@@ -1,34 +1,18 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-13 09:01:25
+// 마지막 업데이트: 2026-06-13 10:46:00
 window.NEWS_DB = [
   {
-    "id": "n4159eea3",
+    "id": "ncf7e0ddb",
     "category": "IT",
     "source": "뉴시스",
-    "time": "9시간 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54SVhFSldWaTFfai1XWHZjaUd6M0czNzlfVnlIRTA0Yk1UeV90d3NZMzZEVy03c3E0dFlpM2RuUVg4d1J3bEVDdGczbnZIUXM5ZUZYVmxBc1VwOEN0SXQyaDZ5am92RFltdUFTNTg5WlpfYjkyb256QtIBeEFVX3lxTE54SVhFSldWaTFfai1XWHZjaUd6M0czNzlfVnlIRTA0Yk1UeV90d3NZMzZEVy03c3E0dFlpM2RuUVg4d1J3bEVDdGczbnZIUXM5ZUZYVmxBc1VwOEN0SXQyaDZ5am92RFltdUFTNTg5WlpfYjkyb256Qg?oc=5",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dDZGSi1QNWdzYmtWMjY0dnRxNmQzVEh2SFg3a0prZEZTekdpdzMtYjhSQ1BZVU1YRWhKX2dzenpZLVF3aTNEb0ZmVmc0ajBHMTdacm1NSC1TWHFwMTNBRdIBeEFVX3lxTE54SVhFSldWaTFfai1XWHZjaUd6M0czNzlfVnlIRTA0Yk1UeV90d3NZMzZEVy03c3E0dFlpM2RuUVg4d1J3bEVDdGczbnZIUXM5ZUZYVmxBc1VwOEN0SXQyaDZ5am92RFltdUFTNTg5WlpfYjkyb256Qg?oc=5",
     "title": "\"More HBM!\"의 의미…K반도체, 설계부터 참여 '슈퍼을' 도약[젠슨황 방한 4대 키워드②]",
     "summary": [
       "\"More HBM!\"의 의미…K반도체, 설계부터 참여 '슈퍼을' 도약[젠슨황 방한 4대 키워드②] 뉴시스."
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n4b284ffc",
-    "category": "IT",
-    "source": "미디어워치",
-    "time": "20시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zckV1d25iaHd2djdzQ25oWWpDa3RHempvOXYwZUxzSEpIUjlPRGlXeUxvNWhyMFNkd2pPVXlycm4yQmlrVXFZa3lxRG56SWtvZzgtcDlnMDJmMEJQMjJCUzFwSQ?oc=5",
-    "title": "[금주의 IT 톡톡] SKT·엔비디아 ‘AI 인프라’ 동맹... LG유플러스, ‘유쓰 쇼츠 페스티벌’ 개최",
-    "summary": [
-      "[금주의 IT 톡톡] SKT·엔비디아 ‘AI 인프라’ 동맹...",
-      "LG유플러스, ‘유쓰 쇼츠 페스티벌’ 개최 미디어워치."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -60,6 +44,21 @@ window.NEWS_DB = [
     "chips": [
       "#환율",
       "#정책"
+    ]
+  },
+  {
+    "id": "n2af5a245",
+    "category": "IT",
+    "source": "디일렉",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQTlGZl9DeDFvZWczWnRQa1d6NjdWbUVUc0wzR2k2MWg4Z0oxRzN0MG01bkRWQ0FJV2RuQ1dxRXZ2cG9taEszSy14V2dxVTliR21INEp4M1ZLYlV0ZkktQ3hDVDkxdw?oc=5",
+    "title": "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정",
+    "summary": [
+      "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정 디일렉."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -109,6 +108,37 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nee8dec91",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ON0tzc0hGMm1iZnJNSDZPOWVVRVkyRW9MWXU3ckFPNnE4RXBSa2VOMzlULXdiU3htX2Q4Wk9yZ3cySUdHVk5XRlZveTMzeFVYREo1VE5DblZndlo5?oc=5",
+    "title": "KBO 사무국, 아시안게임 야구 대표팀 명단 발표 생중계",
+    "summary": [
+      "KBO 사무국, 아시안게임 야구 대표팀 명단 발표 생중계 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "summary": [
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "na542b62c",
     "category": "IT",
     "source": "디일렉",
@@ -127,7 +157,7 @@ window.NEWS_DB = [
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
     "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
@@ -136,6 +166,23 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n13b4af19",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
     ]
   },
   {
@@ -151,21 +198,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "nc9fe1ef0",
-    "category": "사회",
-    "source": "브런치",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UllYQlR3ck1kZTlFeDd5X0gtTHhkN2NMcU95T2VGbGpSOEZsWjdQZ3ZVVHEwS19fb1JvLS04SlBnQVd5Z2YxdU1nTQ?oc=5",
-    "title": "화성시 일자리 찾는다면, 일자리센터 채용정보 확인",
-    "summary": [
-      "화성시 일자리 찾는다면, 일자리센터 채용정보 확인 브런치."
-    ],
-    "chips": [
-      "#채용",
-      "#고용"
     ]
   },
   {
@@ -212,22 +244,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n02951820",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "24일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
-    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
-    "summary": [
-      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n269e2609",
     "category": "부동산",
     "source": "v.daum.net",
@@ -255,20 +271,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "73일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -347,283 +349,287 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne1c36e17",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152590",
-    "title": "[글로벌] 'AI 공룡' 앤트로픽, 고객사 영역 침범 논란...피그마와 갈등 수면 위로",
-    "summary": [
-      "오픈AI를 제치고 기업가치 1위 인공지능(AI) 기업이 된 앤트로픽이 기존 고객사들의 사업 영역을 침범해 갈등을 빚고 있다는 보도가 나왔습니다.지난 11일(현지시간) 디인포메이션은 소식통을 인용해 앤트로픽이 지난 4월 내놓은 AI 도구 '클로드 디자인'을 놓고 협력 관계였던 디자인 플랫폼 피그마와 갈등하고 있다고 보도했습니다.",
-      "앤트로픽은 해당 도구 출시 몇주 전 피그마에 파트너가 돼 달라고 요청했고, 피그마는 자사 제품이 앤트로픽의 도구를 보완."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n5fc5fa56",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152589",
-    "title": "[글로벌] 제프 베이조스의 AI 스타트업 프로메테우스, 6개월 만에 기업가치 63조원",
-    "summary": [
-      "제프 베이조스 아마존 창업자가 이끄는 인공지능(AI) 스타트업 ‘프로메테우스’가 기업가치 410억달러(약 63조원)를 인정받았습니다.지난 11일(현지시간) CNBC에 따르면 프로메테우스는 최근 120억달러(약 18조원) 규모 시리즈B 투자를 유치했습니다.",
-      "지난해 11월 공식 설립한 이후 불과 6개월여 만입니다.",
-      "이번 투자에는 JP모건, 골드만삭스, 블랙록 등 금융사들과 함께 베이조스 본인도 참여했습니다.베이조스 CEO는 이날 CNBC 인터뷰에서."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nff005856",
+    "id": "n6330c4fb",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668005",
-    "title": "미군 이란 우라늄 확보 지상작전, 트럼프 지난달 제동",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/politics/north_korea/2026/06/13/LJA45Y7EUNDIVGIWGRQBYYEVPM/",
+    "title": "北, 韓·EU ‘북핵 불인정’ 성명에 “엄중한 적대 행위… 韓 적대 원칙 불변”",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 미군은 이란의 우라늄을 확보하기 위한 지상 작전 준비를 서둘렀지만 트럼프 대통령이 이를 중단시켰다고 소식통들이 전했다.",
-      "13일 CNN 보도에 따르면 최고위 장군이 지난달 플로리다 중부사령부 본부를 극비리에 급히 방문해 이란에 지상군을 파견해 핵무기 제조에 필수적인 고농축 우라늄을 강제로 탈취하는 계획에 대한 브리핑을 직접 받았다.",
-      "댄 케인 합참의장은 지난달 19일 브뤼셀에서 열린 나토 고위 관리 회의를 마치고 대."
+      "北, 韓·EU ‘북핵 불인정’ 성명에 “엄중한 적대 행위… 韓 적대 원칙 불변”."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n135758ed",
+    "id": "nb06a2a88",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260613/134105339/1",
-    "title": "‘음주운전 사고’ 이용규 이탈…키움, 장영석 코치 1군 타격으로",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/06/13/LZDM5BPTUBABDGRFCH2N22J45Y/",
+    "title": "‘최초’ VAR로 경고 선수 번복…5초 룰 첫 적용 사례도(종합)",
     "summary": [
-      "이용규 전 플레잉코치의 음주운전 사고로 1군 코치진에 공백이 생긴 프로야구 키움 히어로즈가 보직 변경을 실시했다.키움 관계자는 13일 “장영석 퓨처스(2군) 타격 코치가 1군 타격 코치로 보직을 변경했다.",
-      "1군 타격 코치를 겸하는 강병식 수석 코치와 함께 1군 타격 파트를 맡을 것”이라고 밝혔다.올 시즌 개막 당시 키움의 1군 타격 코치는 김태완 전 코치였다.",
-      "그러나 김태완 전 코치가 일신상의 이유로 자진 사퇴 의사를 밝히면서 플레잉코치이던 이."
+      "‘최초’ VAR로 경고 선수 번복…5초 룰 첫 적용 사례도(종합)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0c96ee7b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/13/GIYGEZBQGY2DEOJUMFSDAMLDMQ/",
+    "title": "성영탁 완벽 10SV→불펜 2-1 지키자 네일 웃다. KIA 3연패 탈출 4위 복귀...두산 통한의 주루사와 병살 [광주 리뷰]",
+    "summary": [
+      "[OSEN=광주, 이선호 기자]KIA타이거즈가 3연패에서 탈출했다.",
+      "KIA는 13일 광주-기아 챔피언스필드에서 열린 2026신한은행 SOL bank KBO리그 두산베어스와의 8차전을 2-1로 승리했다.",
+      "선발 제임스 네일이 6이닝 1실점으로 호투하고 불펜이 무실점으로 막아냈다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nea2b5532",
+    "id": "n9f95c5c9",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260613/134105364/1",
+    "title": "종합특검, 尹 9시간 고강도 2차 조사…반란·외환 의혹 조사",
+    "summary": [
+      "3대 특검(내란·김건희·순직해병)의 미제 의혹을 수사 중인 2차 종합특검팀(특별검사 권창영)이 13일 윤석열 전 대통령을 2차 소환해 약 9시간 조사했다.윤 전 대통령은 이날 오후 6시 46분쯤 법무부 호송차를 타고 경기 과천시 특검팀 사무실을 빠져나와 서울구치소로 향했다.종합특검은 이날 오전 10시부터 윤 전 대통령을 상대로 군형법상 반란우두머리 혐의 피의자 신문과 외환 혐의 참고인 조사를 포함해 약 8시간45분간 조사를 벌였다.이날 조사에는."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9c859d02",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003668030",
+    "title": "아마추어 양윤서·신예 김민솔, 한국여자오픈 3R 공동 선두",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 2008년생으로 만 18세인 아마추어 골퍼 양윤서(인천방통고)와 신예 김민솔이 제40회 한국여자오픈골프선수권대회 3라운드에서 공동 선두를 달렸다.",
+      "양윤서는 13일 경기 양주의 레이크우드 컨트리클럽(파71)에서 열린 대회 3라운드에서 버디 4개, 보기 2개, 트리플 보기 1개를 묶어 1오버파 72타를 기록했다.",
+      "중간 합계 3언더파 210타를 기록한 양윤서는 김민솔과 함께 공동 선두에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6508f715",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003668035",
+    "title": "북, 韓·EU성명에 \"철저한 적대국…집권자 평화가면 벗어던져\"",
+    "summary": [
+      "[서울=뉴시스] 남빛나라 기자 = 북한은 최근 한국·유럽연합(EU) 정상회담 공동성명에 반발하며 \"한국을 철저한 적대국으로 다루어 나가려는 우리의 대적원칙은 불변하다\"고 13일 밝혔다.",
+      "북한 외무성 10국 대변인은 이날 조선중앙통신에 공개한 '한국은 역시 적대와 대결을 체질화한 불변의 적국이다' 제목의 담화를 통해 \"서울 위정자들이 그 무슨 말과 행동을 하든 그것은 우리에 대한 도전\"이라며 이같이 말했다.",
+      "대변인은 \"한국의 집권자가 거치장스럽게."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n80400a63",
     "category": "사회",
     "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/13/GMYDONZSMUZDSMZVGU3TKMLEMY/",
+    "title": "이윤석, 탈모 비밀 밝혀졌다..부분 가발 벗자 이경규 \"반 날아갔다\"('놀뭐')[순간포착]",
+    "summary": [
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=선미경 기자] ‘놀면 뭐하니?’ 코미디언 이윤석의 탈모 비빌이 공개됐다.",
+      "13일 오후에 방송된 MBC 예능프로그램 ‘놀면 뭐하니?’에서는 이경규와 이윤석이 출연해 ‘이경규가 건강하게 간다!’ 특집이 진행됐다.",
+      "이날 이경규와 이윤석은 건강을 위해 족욕을 한 후 발마사지를 받으러 갔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8c9836ef",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/13/AYUO6VBDANDXXHZP3WJCYRIW3E/",
-    "title": "‘히잡 위반’ 여성 30명 체포한 아프간…항의 시위에 발포 2명 사망",
+    "url": "https://www.yna.co.kr/view/AKR20260612166651007",
+    "title": "[프로야구 고척전적] 키움 3-1 한화",
     "summary": [
-      "‘히잡 위반’ 여성 30명 체포한 아프간…항의 시위에 발포 2명 사망."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne661cfc7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613045800052",
-    "title": "진주 대곡면 야산 화재 1시간 30여분 만에 진화…인명피해 없어",
-    "summary": [
-      "(진주=연합뉴스) 이준영 기자 = 13일 오후 3시 48분께 경남 진주시 대곡면 한 야산에서 불이 나 1시간 30여분 만에 꺼졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b532031",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/13/VLVWJ7TZEJAMPG4AH46CRYGSSY/",
-    "title": "3연속 월드컵 우승 맞힌 독일 예언가…\"네덜란드 우승…한국은 16강\"",
-    "summary": [
-      "3연속 월드컵 우승 맞힌 독일 예언가…\"네덜란드 우승…한국은 16강\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc9a0868a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668012",
-    "title": "LG 박해민, KBO 최초 13시즌 연속 20도루 달성",
-    "summary": [
-      "[서울=뉴시스]김희준 기자 = LG 트윈스의 캡틴 박해민이 KBO리그 최초로 13시즌 연속 20도루를 달성했다.",
-      "박해민은 13일 잠실구장에서 벌어진 2026 신한 쏠 KBO리그 롯데 자이언츠와의 경기에 2번 타자 중견수로 선발 출전해 1회말 무사 1루에서 우전 안타를 때려냈다.",
-      "이어 오스틴 딘 타석 때 2루를 훔쳤다."
+      "[프로야구 고척전적] 키움 3-1 한화."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nec46e914",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613045300062",
-    "title": "제주로 가던 러시아 요트, 식수 떨어져 울릉도로 피난",
+    "id": "nb389ad6d",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026061319315821819",
+    "title": "11만 '아미' 운집한 부산 \"BTS 4년 기다린 보상받는 기분\"",
     "summary": [
-      "(동해=연합뉴스) 류호준 기자 = 제주도로 향하던 러시아 국적 요트가 항해 중 식수 부족으로 울릉도에 긴급 피난했다가 해경의 도움을 받아 무사히..."
+      "\"여권에 한국 입국 도장을 찍고 부산 앞바다를 보는 순간, 4년을 기다린 보상을 받는 기분이었어요.",
+      "언어는 달라도 우리는 이미 음악으로 연결돼 있습니다.\" 그룹 방탄소년단(BTS)의 데뷔 13주년 기념일인 13일, 월드투어 '아리랑(ARIRANG)' 부산 공연이 열리는 부산 아시아드 주경기장 일대는 전 세계에서 모인 팬들로 이른 오전부터 북적였다.",
+      "방탄소년단이 부산에서 콘서트를 여는 것은 2022년 10월 '옛 투 컴 인 부산(Yet To C."
     ],
     "chips": [
-      "#뉴스"
+      "#환경"
     ]
   },
   {
-    "id": "n3442c961",
+    "id": "n743db52f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668008",
-    "title": "'차별과 혐오가 없는 세상'…서울퀴어축제 수놓은 '무지개' 물결[현장]",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003668025",
+    "title": "보령 내항동서 산불…헬기 2대 등 투입 48분 만에 진화",
     "summary": [
-      "[서울=뉴시스]신유림 기자 = 올해로 27회를 맞은 서울퀴어퍼레이드가 13일 오후 서울 도심에서 열리며 일대가 무지갯빛으로 물들었다.",
-      "성소수자와 시민, 대학 동아리, 시민단체 등이 참여해 다양성과 인권 존중을 외쳤다.",
-      "다만 인근에서는 차별금지법 제정과 퀴어문화축제 반대하는 집회도 열려 서울 도심이 찬반 목소리로 갈렸다."
+      "[보령=뉴시스]김덕진 기자 = 13일 오후 3시14분께 충남 보령 내항동 일원에서 산불이 나 48분 만에 진화됐다.",
+      "산림청 등에 따르면 인근에서 일하던 굴삭기 기사가 \"산불이 났다\"고 신고했다.",
+      "산림당국은 진화헬기 2대, 차량 14대, 인력 35명을 투입해 이날 오후 4시2분께 산불을 진압했다."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n2e31e989",
+    "id": "nedb1f6a0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613048000005",
+    "title": "'어떻게 살 것인가'에 대한 질문…돌아온 창작가무극 '신과함께'",
+    "summary": [
+      "(서울=연합뉴스) 권지현 기자 = \"불효의 죄를 심판하는 장면을 보며 '나라도 통과하기 어렵겠다'고 생각했어요.",
+      "누구나 가슴 속에 부모님을 향한..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda77b92c",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668015",
-    "title": "\"부정선거 재선거\" 대전서도 시민들 모여 목소리",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667976",
+    "title": "르세라핌, 두 번째 월드투어 인천 공연 표 없음",
     "summary": [
-      "[대전=뉴시스]김도현 기자 = 6·3 지방선거 투표 용지 부족 사태와 관련해 대전 지역에서도 '재선거'를 주장하는 시민들이 모여 집회를 벌였다.",
-      "13일 오후 4시께 대전 서구 월평동 대전시선거관리위원회 앞에는 태극기와 피켓을 들고 있는 시민들이 모여있었다.",
-      "시민들은 각자 '부정선거 원천무효', '전자투표 도입반대' 등이 적힌 피켓을 들고 집회 시작을 기다렸다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9c10351e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613045400504",
-    "title": "[북한단신] 최선희, 필리핀 독립 128주년 축전",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb9d112a6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613024651071",
-    "title": "\"미군, '이란 우라늄 탈취' 지상군 옵션 보고…트럼프가 보류\"(종합)",
-    "summary": [
-      "(워싱턴·서울=연합뉴스) 홍정규 특파원 김아람 기자 = 미군이 이란의 고농축우라늄(HEU)을 탈취하기 위해 한때 특수부대 투입 방안을 마련해 도..."
+      "[서울=뉴시스]이재훈 기자 = 그룹 '르세라핌(LE SSERAFIM)'의 두 번째 월드투어 포문을 여는 인천 공연이 전석 매진됐다.",
+      "13일 소속사 쏘스뮤직에 따르면, 전날 진행한 '2026 르세라핌 투어 '퓨어플로우(PUREFLOW)' 인 인천' 일반 예매에서 티켓이 완판됐다.",
+      "해당 공연은 오는 7월 11~12일 인천 인스파이어 아레나에서 펼쳐진다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7706e66a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260613/134105335/2",
-    "title": "대전교도소서 ‘실탄 100발 분실’ 신고…법무부 진상조사 착수",
-    "summary": [
-      "대전교도소에서 실탄 100발이 분실됐다는 신고가 접수돼 법무부가 진상 조사에 나섰다.",
-      "13일 법무부는 최근 대전교도소 보안과 무기고에 보관된 9㎜ 실탄 100발이 사라졌다는 신고를 접수하고 조사에 착수했다.대전교도소는 최근 점검 과정에서 장부상에 기록된 실탄 보유량과 실제 보관 중인 실탄 수량이 일치하지 않는 사실을 확인한 것으로 전해졌다.다만 아직까지 실제 실탄이 분실된 것인지, 단순 기록 오류인 것인지는 확인되지 않은 상태다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf8a913ec",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "27분 전",
-    "url": "https://www.hankyung.com/article/2026061344337",
-    "title": "손흥민 6위, 호날두 45위…AI가 뽑은 '월드컵 미남' 1위는?",
-    "summary": [
-      "손흥민 6위, 호날두 45위…AI가 뽑은 '월드컵 미남' 1위는?."
-    ],
-    "chips": [
-      "#AI",
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n6d513c8b",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260613/134105327/1",
-    "title": "전국 곳곳 소나기…낮 최고 31도 ‘무더위’[내일날씨]",
-    "summary": [
-      "일요일인 14일은 전국 곳곳에 돌풍과 천둥·번개를 동반한 소나기가 내리겠다.",
-      "일부 지역에는 우박도 떨어지겠다.13일 기상청에 따르면 내일은 오후부터 저녁 사이 중부지방(강원 동해안·산지 제외)과 전북, 전남 북부, 경상서부내륙에 소나기가 내리겠다.",
-      "경기 남동부와 강원 남부내륙은 늦은 밤까지 비가 이어지는 곳이 있겠다.예상 강수량은 ▲서울·인천·경기, 대전·세종·충남, 광주·전남 북부, 전북 5~50㎜, ▲강원 내륙과 충북, 경북·경남 서부내륙."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nadcab1ad",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "46분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260613/134105320/2",
-    "title": "‘소쿠리 투표’ 해놓고 83억원 성과급 챙겼다…‘돈 잔치’ 선관위",
-    "summary": [
-      "중앙선거관리위원회가 2022년 대선 당시 일명 ‘소쿠리 투표’ 논란에도 성과급 예산으로 배정된 약 83억 원을 대부분 집행한 것으로 확인됐다.",
-      "투표 관리는 부실하게 해놓고 내부에서 성과급 잔치를 벌였다는 비판이 나온다.13일 김승수 국민의힘 의원이 중앙선거관리위원회로부터 받은 ‘2022년 인건비 집행현황 및 세부자료’에 따르면 당시 성과상여급 예산 배정액은 83억479만7000원이며, 실제 집행액은 83억479만6000원으로 집계됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n87202397",
+    "id": "n4291dd8f",
     "category": "경제",
     "source": "한국경제",
-    "time": "49분 전",
-    "url": "https://www.hankyung.com/article/2026061344187",
-    "title": "\"촉법소년\" 한마디로 끝?…30만원 날린 문구점 점주 '분통'",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/2026061344687",
+    "title": "한성숙 '불법 증축' 공방…野 \"지명 뒤 면피 철거\" 與 \"흠집 내기\"",
     "summary": [
-      "\"촉법소년\" 한마디로 끝?…30만원 날린 문구점 점주 '분통'."
+      "한성숙 '불법 증축' 공방…野 \"지명 뒤 면피 철거\" 與 \"흠집 내기\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5d286314",
+    "id": "ne814240e",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026061222427",
-    "title": "[단독] \"수사 마비될 판\"…업무 폭탄에 경찰 1700명 '줄퇴사'",
+    "time": "20분 전",
+    "url": "https://www.hankyung.com/article/2026061344667",
+    "title": "北 \"한국 적대 원칙은 불변\"…韓·EU 공동성명에 맹비난",
     "summary": [
-      "[단독] \"수사 마비될 판\"…업무 폭탄에 경찰 1700명 '줄퇴사'."
+      "北 \"한국 적대 원칙은 불변\"…韓·EU 공동성명에 맹비난."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n28f4f28c",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "20분 전",
+    "url": "https://view.asiae.co.kr/article/2026061319250317674",
+    "title": "최휘영 장관, 김재열 ISU 회장 연임에 축전 \"韓 스포츠 위상 높여\"",
+    "summary": [
+      "최휘영 문화체육관광부 장관이 국제빙상경기연맹(ISU) 회장 연임에 성공한 김재열 국제올림픽위원회(IOC) 집행위원에게 축전을 보내 축하의 뜻을 전했다.",
+      "최 장관은 김 회장이 세계 빙상계 개혁을 이끌며 대한민국 스포츠 외교의 위상을 높였다고 평가했다.",
+      "최휘영 장관은 13일 사회관계망서비스(SNS)에 공개한 축전에서 \"김재열 회장의 ISU 회장 재선을 진심으로 축하한다\"며 \"대한민국 스포츠 외교의 위상을 높인 쾌거\"라고 밝혔."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe2cec3c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260613/134105359/2",
+    "title": "제니, 입 벌리자 다이아 ‘반짝’…치아 액세서리 ‘그릴즈’ 뭐길래",
+    "summary": [
+      "블랙핑크 제니가 최근 미국의 한 음악 페스티벌 무대에서 치아 액세서리인 ‘그릴즈(grillz)’를 착용한 모습을 선보여 화제가 되고 있다.",
+      "제니는 7일(현지시간) 뉴욕에서 열린 미국 축제 ‘더 거버너스 볼 뮤직 페스티벌 2026’(이하 ‘더 거버너스 볼 2026’)에서 ‘만트라(Mantra)’, ‘핸들바(Handlebars)’, ‘라이크 제니(Like JENNIE)’ 등 총 17곡을 선보이며 약 60분간 공연을 펼쳤다.공연 직후 온라인 상에서는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n21525f4b",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "24분 전",
+    "url": "https://view.asiae.co.kr/article/2026061114304896378",
+    "title": "트럼프 입에 모든 게 달렸다…美 기준금리 향방은 [주末머니]",
+    "summary": [
+      "미국의 근원 인플레이션 압력이 시장 예상보다 완만해지면서 미 연방준비제도(Fed·연준)가 금리 인상을 서두르지 않고 유보할 수 있는 '일시적인 인내의 여력'을 확보했다.",
+      "그러나 헤드라인 물가가 3년 만에 4%대에 재진입한 데다 지정학적 리스크가 여전해 아직 안심하기는 이르다는 지적이 나온다.",
+      "13일 대신증권에 따르면 미국의 5월 소비자물가지수(CPI)는 전월 대비 0.5%, 전년 동월 대비 4.2% 상승했다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n172f1f8d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613035051004",
+    "title": "서울 도심서 퀴어퍼레이드…\"사랑에 정해진 모양은 없다\"(종합)",
+    "summary": [
+      "(서울=연합뉴스) 윤민혁 이의진 기자 = 토요일인 13일 서울 도심 을지로·종로 일대에서 성소수자들의 연례행사인 제27회 퀴어퍼레이드가 열렸다...."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n06a1afdd",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260613/134105356/1",
+    "title": "“월드컵 아닌 전쟁컵”…이란, 美 월드컵 자축 글에 ‘해골 포스터’ 응수",
+    "summary": [
+      "전 세계의 이목이 2026 북중미 월드컵에 쏠린 가운데, 주인도네시아 이란 대사관이 이번 대회를 ‘전쟁컵’이라 비하하며 미국을 겨냥한 날 선 비판 게시물을 올려 논란이 일고 있다.11일 주인도네시아 이란 대사관은 공식 엑스(X·옛 트위터) 계정에 2026 북중미 월드컵을 기대한다는 미 국무부의 글을 리트윗하며 이를 정면으로 비판하는 포스터를 게재했다.",
+      "대사관 측은 포스터와 함께 “2026 월드컵은 역사상 가장 큰 재앙(The Biggest Di."
     ],
     "chips": [
       "#뉴스"
@@ -636,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
