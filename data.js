@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-13 03:03:04
+// 마지막 업데이트: 2026-06-13 05:28:46
 window.NEWS_DB = [
   {
     "id": "ncf7e0ddb",
     "category": "IT",
     "source": "뉴시스",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dDZGSi1QNWdzYmtWMjY0dnRxNmQzVEh2SFg3a0prZEZTekdpdzMtYjhSQ1BZVU1YRWhKX2dzenpZLVF3aTNEb0ZmVmc0ajBHMTdacm1NSC1TWHFwMTNBRdIBeEFVX3lxTE54SVhFSldWaTFfai1XWHZjaUd6M0czNzlfVnlIRTA0Yk1UeV90d3NZMzZEVy03c3E0dFlpM2RuUVg4d1J3bEVDdGczbnZIUXM5ZUZYVmxBc1VwOEN0SXQyaDZ5am92RFltdUFTNTg5WlpfYjkyb256Qg?oc=5",
     "title": "\"More HBM!\"의 의미…K반도체, 설계부터 참여 '슈퍼을' 도약[젠슨황 방한 4대 키워드②]",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n4b284ffc",
     "category": "IT",
     "source": "미디어워치",
-    "time": "14시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zckV1d25iaHd2djdzQ25oWWpDa3RHempvOXYwZUxzSEpIUjlPRGlXeUxvNWhyMFNkd2pPVXlycm4yQmlrVXFZa3lxRG56SWtvZzgtcDlnMDJmMEJQMjJCUzFwSQ?oc=5",
     "title": "[금주의 IT 톡톡] SKT·엔비디아 ‘AI 인프라’ 동맹... LG유플러스, ‘유쓰 쇼츠 페스티벌’ 개최",
     "summary": [
@@ -109,6 +109,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "summary": [
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "na542b62c",
     "category": "IT",
     "source": "디일렉",
@@ -139,10 +156,27 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13b4af19",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
     "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMXhOQm1aSW1uMERiS2ZpRGF2ckVNd2RGektBdm8zaHVMeS11aWNyX1c1b0phM1k4bVNERFdpOUpjMEg5SnlpN1Q1d3MxTy04YkwwSW5qN1JOdzJERnN2Q3I3QlpQbEppUUE3d3dVOF9lZ9IBdkFVX3lxTE92THh3MFBOVEQxTGs2WjB1QXNEc3VRUHhpdW9fX05VRlI1YzdRT01vdWdqSzNuVzl6cHZxV0lfajhsRWNHaWpCa3pYUm9sSG1kdkNoM1A2T2lwc0wwVG9xTklvam1kblJPcVFnR3JuM2J1YTQ1MXc?oc=5",
     "title": "[시총1위 전쟁-上] ·‘종합전자기업’ 삼성전자 ‘HBM 추격자’ 꼬리표 뗄까",
     "summary": [
@@ -196,47 +230,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na841344d",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GUUJiSXI5SDVIM0RXWVc4Umlsc1pUOGJkbExycTEtanNROTVPZVdpeFlZX0piNkc3aDNJWkVrRG10aXZyQTF0YUJKMWJBcVU0bzBEc3VaTm0tT3NL?oc=5",
-    "title": "'절충형' MLB인가 '판정의 균일화' KBO리그인가…ABS 도입을 향한 日 야구의 고민",
-    "summary": [
-      "'절충형' MLB인가 '판정의 균일화' KBO리그인가…ABS 도입을 향한 日 야구의 고민 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n02951820",
-    "category": "사회",
-    "source": "투데이경제",
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
     "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
-    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
     "summary": [
-      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
     ],
     "chips": [
-      "#채용",
-      "#취업",
+      "#반도체",
       "#고용"
-    ]
-  },
-  {
-    "id": "nfa32be85",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tVDRELUdQZkhoU0tUbWRLSTRkcWNTVktsd3BreWhKSWU2LVE5bXlJWUtFVmUyUmtQdl8tM0hRR3pCdEllbk4tUFUxLTVLZjgyV1ljVmdOcEs0SVFy?oc=5",
-    "title": "KBO 통산 100홈런까지 3개 남긴 오스틴 \"야구는 실패의 스포츠, 실패하면서 배운다\"",
-    "summary": [
-      "KBO 통산 100홈런까지 3개 남긴 오스틴 \"야구는 실패의 스포츠, 실패하면서 배운다\" 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -255,6 +260,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "72일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -266,21 +285,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nb04cef68",
-    "category": "사회",
-    "source": "경기일보",
-    "time": "119일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
-    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
-    "summary": [
-      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
     ]
   },
   {
@@ -299,18 +303,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "내 손안에 서울",
-    "time": "224일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "252일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
     "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
     ],
     "chips": [
-      "#취업",
-      "#고용"
+      "#손흥민",
+      "#KBO"
     ]
   },
   {
@@ -378,268 +382,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n337a3e25",
+    "id": "n60ab9322",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666582",
-    "title": "\"온도 높여 활성화\"…뇌 속 임플란트로 생쥐 조종",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667874",
+    "title": "익산시, '온가족 도란도란 어린이 놀이세상' 성황",
     "summary": [
-      "[서울=뉴시스] 류난영 기자 = 국내 연구진이 온도의 변화를 이용해 뇌 신경 활동을 활성화하거나 억제할 수 있는 뇌 임플란트를 개발에 성공했다.",
-      "생쥐에 초소형 뇌 임플란트를 심어 온도를 높이면 뇌가 활성화되고 낮추면 억제되는 방식이다.",
-      "이번 기술은 뇌 신호를 읽는 데 그쳤던 기존의 뇌-컴퓨터 인터페이스(BCI)를 뛰어 넘어 뇌질환 치료 기술의 새로운 가능성을 제시했다는 평가다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "ndfa55993",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026061311534001868",
-    "title": "배심원 유죄4·무죄3 결정에도…20대 뒷바퀴 깔려 숨지게 한 버스기사 무죄",
-    "summary": [
-      "마을버스에서 하차한 승객을 뒷바퀴에 깔려 숨지게 한 혐의로 기소된 운전기사가 무죄 선고를 받았다.",
-      "13일 연합뉴스에 따르면 서울중앙지법 형사합의34부(한성진 부장판사)는 지난 8일 교통사고처리특례법(치사) 위반 혐의로 기소된 A씨에게 무죄를 선고했다.",
-      "이 재판은 국민참여재판으로 진행됐다."
+      "[익산=뉴시스]고석중 기자 = 전북 익산시가 영유아 가족들을 위해 마련한 '온가족 도란도란 어린이 놀이세상' 행사가 마무리됐다.",
+      "13일 익산시육아종합지원센터 일원에서 열린 이번 행사는 영유아 눈높이에 맞춘 다채로운 체험 프로그램이 마련돼 행사장을 찾은 가족 단위 방문객들로 온종일 북적였다.",
+      "특히 지역 유관기관들과 협력해 전문성을 높인 맞춤형 프로그램들이 부모와 아이들의 호응을 얻었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nce2cb052",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260613/134105065/1",
-    "title": "트럼프 G7행에 靑 “기회 닿으면 미국과 대화할 수도”",
-    "summary": [
-      "청와대가 유럽을 순방 중인 이재명 대통령이 주요 7개국(G7) 정상회의 기간(15일~17일) 도널드 트럼프 미국 대통령과의 회동 가능성에 대해 “이번 유럽 순방은 주안점은 유럽”이라며 신중한 입장을 밝혔다.청와대 고위 관계자는 12일(현지 시간) 이탈리아 로마에서 기자들과 만나 ‘트럼프 대통령이 G7 정상회의에 참석한다고 공개적으로 밝힌 상황에서 한미 양자 회담 성사 가능성이 있느냐’는 질문에 이같이 밝혔다.",
-      "이번 G7 정상회의는 프랑스 에비앙."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na55af40d",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260613/134104944/1",
-    "title": "韓기업 “이탈리아 정부 문제 해결 속도는 세계에서 가장 빠른 페라리”",
-    "summary": [
-      "김용범 대통령정책실장이 12일(현지 시간) ‘한-이탈리아 비즈니스 라운드테이블’에서 양국 참석자들이 “한국과 이탈리아의 협력 관계가 인공지능(AI) 혁명과 공급망 재편의 시대를 맞아 새로운 차원의 도약이 필요하다는것에 공감했다”고 밝혔다.김 실장은 이날 이탈리아 로마 현지 브리핑에서 “특히 항공우주, AI, 반도체 등 첨략·첨단산업, 친환경 연료 등 에너지·인프라, 바이오, 뷰티, 푸드 등 미래유망 소비재 분야에서 새로운 협력 가능성을 모색했다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n658dfc2f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260612/134072351/2",
-    "title": "거제는 “거제야호~” 김천은 ‘김밥천국’…젊어진 지자체의 생존법",
-    "summary": [
-      "지방자치단체들이 온라인 밈과 말장난을 지역 홍보에 활용하는 사례가 늘고 있다.",
-      "과거에는 정돈된 홍보 영상이나 공식 슬로건을 앞세우는 방식이 많았다.",
-      "최근에는 SNS에서 먼저 생긴 반응을 빠르게 받아들이고, 이를 축제나 홍보 콘텐츠로 연결하는 흐름이 나타나고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e08d9d6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260612/134098736/1",
-    "title": "“골프는 아무나 다 치죠? 테니스는 실력 없으면 못 껴요”[양종구의 100세 시대 건강법]",
-    "summary": [
-      "37년째 테니스코트를 누비고 있는 박장호 법무법인 율촌 상임고문(60)은 골프와 테니스의 차이를 이렇게 설명했다.",
-      "‘테니스가 골프보다 더 배타적인 것 같다’는 질문에 “그게 아니다”며 “골프는 실력과 무관하게 칠 수 있지만, 테니스는 다르다”고 했다.",
-      "테니스는 주로 복식이나 혼합복식을 치기 때문에 반드시 실력이 뒷받침돼야 낄 수 있다고 했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6c7c1bac",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003667871",
-    "title": "행안부, 대전 무더위 쉼터 방문해 운영관리 실태 점검",
-    "summary": [
-      "[세종=뉴시스]성소의 기자 = 행정안전부는 김광용 재난안전관리본부장이 대전광역시를 방문해 무더위 쉼터의 운영관리 실태를 점검했다고 13일 밝혔다.",
-      "김 본부장은 먼저 주민들이 이용하는 공원 내 스마트쉼터를 찾아 운영 상황을 점검했다.",
-      "이 시설은 독서와 휴식이 가능한 북카페형 쉼터로 주택가 인근 공원에 설치돼 주민과 폭염 취약계층이 쉽게 이용할 수 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n664a47f6",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003667864",
-    "title": "김용범, 재경부 국제차관보 방미 관련 \"통상적 협력 차원에서 간 걸로 알아\"",
-    "summary": [
-      "[서울=뉴시스]이인준 기자 = 김용범 대통령비서실 정책실장은 13일 문지성 재정경제부 국제차관보가 최근 원달러 환율이 1500원대에서 거래되는 상황에서 이번 주 미국을 방문한 것과 관련 \"통상적인 차원\"이라고 했다.",
-      "김 실장은 이날 이탈리아 로마에서 브리핑을 열고 \"국제 차관보는 여러 일로, 여러 나라들을 다닌다\"며 \"환율과 관련된 그런 것보다 통상적으로 한미 간에 국제금융 라인 간에 서로 협의를 긴밀히 하는 그런 차원\"이라고 말했다."
-    ],
-    "chips": [
-      "#환율",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n443bb3d0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003667845",
-    "title": "李 \"한·伊 '연대와 협력', 기업인 역할 기대\"…이재용 \"힘 합쳐 다양한 협력 가능\"",
-    "summary": [
-      "[서울=뉴시스]이인준 기자 = 이재명 대통령은 \"지금과 같은 대전환기에는 가치를 공유하는 국가 간 연대와 협력이 중요하다\"며 한국과 이탈리아 기업인들에게 그 과정에서 가교 역할을 해줄 것을 당부했다.",
-      "유럽 순방의 두 번째 방문지인 이탈리아를 국빈 방문한 이 대통령이 12일(현지시간) 오후 로마 시내 한 호텔에서 양국 기업, 협회, 정부 등 40여 명이 참석한 가운데 열린 '한-이탈리아 비즈니스 라운드테이블'에서 이같이 말했다고 김용범 대통령비서."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na081fc4d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613032000073",
-    "title": "'유럽 순방 앞둔' 다카이치 \"호르무즈 항로 보호에 외교 노력\"",
-    "summary": [
-      "(도쿄=연합뉴스) 이도연 특파원 = 유럽 순방을 앞둔 다카이치 사나에 일본 총리가 영국 언론에 호르무즈 해협의 보호가 필수적이며 이를 위해 외교..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1c6ba7a4",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026061311491897582",
-    "title": "검·경 합수본, '당원 가입 의혹' 신천지 전 간부 3명 구속영장",
-    "summary": [
-      "종교단체의 정치권 로비 등 '정교유착' 의혹을 수사하는 검·경 합동수사본부가 '당원 가입 의혹'과 관련해 신천지예수교 증거장막성전(신천지) 전직 간부들에 대한 신병확보에 나섰다.",
-      "합수본은 13일 신천지의 특정 정당 가입 강요 사건과 관련해 교단 2인자로 꼽혔던 고동안 전 신천지 총회 총무와 요한지파·시몬지파 전 총무에 대해 정당법 위반 등 혐의로 전날 구속영장을 청구했다고 밝혔다.",
-      "올해 1월 6일 합수본이 출범한 지."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4fcf4fb9",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "13분 전",
-    "url": "https://www.hankyung.com/article/2026061342947",
-    "title": "장동혁, 김민석·정청래에 \"오늘이라도 만나 재선거 특검 논의하자\"",
-    "summary": [
-      "장동혁, 김민석·정청래에 \"오늘이라도 만나 재선거 특검 논의하자\"."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n12151dbe",
+    "id": "nb6d01fc1",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613030800005",
-    "title": "[월드컵] 개막식 이재·리사에 결승전 BTS…존재감 드높인 K-컬처",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613037500061",
+    "title": "평택제천고속도 남안성IC 부근서 7중 추돌…3명 중경상",
     "summary": [
-      "(서울=연합뉴스) 이태수 조윤희 기자 = 대한민국 대표팀의 첫 승리로 2026 FIFA 북중미 월드컵 응원 열기가 고조되는 가운데, 이번 대회가..."
+      "(안성=연합뉴스) 이영주 기자 = 13일 낮 12시 25분께 경기도 안성시 평택제천고속도로 제천방향 남안성IC 부근 편도 2차로에서 50대 A씨..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n47f94ec0",
+    "id": "nc3a1fb8e",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026061311365685816",
-    "title": "당첨금 2억7000만원 탐나서…이웃이 맡긴 복권 불태운 부부",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667903",
+    "title": "선관위, '소쿠리 투표' 때도 성과급 83억 챙겨…예산 대부분 집행",
     "summary": [
-      "태국에서 이웃이 맡긴 1등 당첨 복권을 가로챈 뒤 증거를 없애기 위해 불태워버린 부부가 경찰 수사를 받고 있다.",
-      "12일(현지시간) 현지 매체 더타이거 등은 태국 수코타이주 사완칼록 경찰서가 이웃의 복권을 훔쳐 파기한 혐의로 남성 다트씨와 아내 와우씨를 조사 중이라고 보도했다.",
-      "사건은 피해자 사얀씨의 신고로 드러났다."
+      "[서울=뉴시스] 이승재 기자 = 중앙선거관리위원회가 2022년 20대 대통령 선거 사전투표에서 발생한 이른바 '소쿠리 투표' 논란 당시에도 성과급 예산으로 배정된 약 83억원을 대부분 집행한 것으로 나타났다.",
+      "13일 김승수 국민의힘 의원이 중앙선거관리위원회로부터 받은 '2022년 인건비 집행현황 및 세부자료'에 따르면 당시 성과상여급 예산 배정액은 83억479만7000원이며, 실제 집행액은 83억479만6000원으로 집계됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7d4431bf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667913",
+    "title": "美, 이란과 종전 MOU 타결 앞두고 호르무즈에서 이란 자폭 드론 타격",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 미국과 이란이 종전 양해각서(MOU)에 잠정 합의한 뒤 서명이 임박한 가운데 소규모 충돌이 이어지고 있다.",
+      "미 중부사령부는 12일 호르무즈 해협 인근에서 이란의 편도 공격 드론 여러 대를 격추했다고 발표했다.",
+      "중부사령부는 소셜미디어 X에 게시한 글에서 이란이 해협 인근 상선 운항을 방해하기 위해 여러 대의 공격용 드론을 발사했다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n16c02084",
+    "id": "n4d7ebf38",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667947",
+    "title": "與 \"'투표용지 부족 사태', 특검까지 열어놔…국힘, 정쟁 악용 중단하라\"",
+    "summary": [
+      "[서울=뉴시스] 이창환 기자 = 더불어민주당은 13일 6·3 지방선거 투표용지 부족 사태를 두고 국민의힘을 향해 \"국민 참정권 보호를 위해 국회가 온 힘을 모아야 할 시점에, 국가적 사태를 이재명 정부 흠집 내기용 정쟁으로 악용하는 구태를 즉각 중단하고 자중하라\"고 했다.",
+      "이주희 민주당 원내대변인은 이날 오후 서면 브리핑을 내고 \"민주당은 이번 지방선거의 투표용지 부족 사태와 제기된 의혹 전반에 대해 철저한 진상 규명과 엄중한 책임자 처벌은 물."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n22bd316e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613037100073",
+    "title": "K-참외, 일본인 입맛 공략에 속도…소비 확대 위해 판촉 행사",
+    "summary": [
+      "(도쿄=연합뉴스) 이도연 특파원 = 한국산 참외가 일본 시장을 더욱 적극적으로 공략한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na909e019",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/13/MY4DIMTCGM3DIOBWGFRWKZLBMM/",
+    "title": "이재용 “이탈리아, 삼성에 특별한 국가”, 페라리 회장 “한국, 고향 같아”",
+    "summary": [
+      "이재용 삼성전자 회장이 12일(현지 시각) “이탈리아는 삼성에 특별한 국가”라고 말했다.",
+      "존 엘칸 페라리 회장은 “한국은 끊임없이 영감을 주는 시장이자 고향과 같은 국가”라고 했다.",
+      "김용범 청와대 정책실장은 이날 이재명 대통령의 이탈리아 국빈 방문을 계기로 개최된 ‘한-이탈리아 비즈니스 라운드테이블’에 참여한 양국 기업인들이 이 같은 대화를 나눴다고 전했다."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n81a9d676",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613037000527",
+    "title": "성남·남양주·양평 등 경기동부 7개 시군 오존주의보",
+    "summary": [
+      "(수원=연합뉴스) 13일 오후 2시를 기해 경기 동부권 7개 시군에 오존주의보가 내려졌다고 환경부 한국환경공단이 전했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n9eaecb7a",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/13/UPHSXWVR4VDUHCMNTNN5CP7NS4/",
-    "title": "미저라우스키, 168.2㎞… MLB 선발투수 최고 구속 신기록",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/13/MVRTGMBTHA2WCNTEGJQTOMZYGU/",
+    "title": "한효주·공명, 깜짝 야구장 등장에 열애 오해까지..직관 목격담 화제 [Oh!쎈 이슈]",
     "summary": [
-      "미저라우스키, 168.2㎞… MLB 선발투수 최고 구속 신기록."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6714b38f",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026061111061155035",
-    "title": "\"삼전닉스, 아직 절반도 안 올랐다…내년 물량까지 완판\" [주末머니]",
-    "summary": [
-      "인공지능(AI) 에이전트 시장 확산으로 메모리와 패키징 기판 공급이 부족한 상황에서, 삼성전자와 SK하이닉스 등 핵심 공급망 기업의 주가가 실적 대비 아직 절반도 오르지 않았다는 증권가 분석이 나왔다.",
-      "고객사 수요 충족률 50% 불과최근 김동원 KB증권 리서치본부장은 \"현재 고객사의 메모리 수요 충족률은 50% 수준에 불과하다.",
-      "부품을 주문하고 실제 공급받기까지 걸리는 패키징 기판의 리드타임은 기존 1.5개월(6주)에서 6."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n79ae583e",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613028151007",
-    "title": "광속구 투수 미저로우스키, 시속 168.2㎞로 역대 선발 최고 기록(종합)",
-    "summary": [
-      "(서울=연합뉴스) 천병혁 기자 = 미국프로야구 메이저리그(MLB)를 대표하는 강속구 투수로 떠오른 제이컵 미저로우스키(24·밀워키 브루어스)가 ..."
+      "[OSEN=김채연 기자] 배우 한효주와 공명이 잠실야구장 목격담으로 현커설까지 불거진 가운데 이들의 차기작에 시선이 쏠린다.지난 11일 서울 송파구 잠실야구장에서는 ‘2026 신한 SOL Bank KBO리그’ LG트윈승와 SSG 랜더스의 경기가 진행됐다.이때 한효주와 공명은 야구장 테이블석에서 목격돼 눈길을 끌었다.",
+      "한효주는 아이보리 셔츠를 입고 브라운 컬."
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "na5faee29",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026061314071309081",
+    "title": "美정부, '미토스' 해외접속 금지…자국 내 외국 국적자 접속도 막아",
+    "summary": [
+      "미국 행정부가 '미토스'를 비롯한 앤트로픽의 최상위 인공지능(AI) 모델에 외국인들이 접속하는 것을 전면 금지했다.",
+      "13일 연합뉴스에 따르면 전날 앤트로픽은 \"미국 정부는 국가 안보 당국의 지침에 따라 모든 외국 국적자의 '페이블5'와 '미토스5' 접근을 전면 중단하는 수출 통제 지침을 발표했다\"고 밝혔다.",
+      "해당 지침은 해외에서 미토스에 접속하는 것뿐 아니라 미국 내에 있는 외국 국적자의 모델 접속까지 금지했다."
+    ],
+    "chips": [
+      "#AI",
+      "#수출"
+    ]
+  },
+  {
+    "id": "n8eba6216",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026061314062005511",
+    "title": "고등학교 졸업하자마자…우크라전서 숨진 러시아 18세 병사 245명",
+    "summary": [
+      "러시아가 우크라이나를 침공 이후 18세 청년들을 전선에 보내지 않겠다고 공언해왔음에도, 실제로는 최소 245명의 18세 병사가 전쟁터에서 목숨을 잃은 것으로 나타났다.",
+      "영국 BBC 러시아어판은 2023년 4월부터 2025년 7월까지 우크라이나 전쟁에서 공개된 부고와 사망 기록, 법원 자료 등을 분석한 결과, 규정 완화 이후 고등학교를 갓 졸업한 청년들이 전장으로 향하는 사례가 많이 늘어났다고 전했다.",
+      "BBC가 독립매체 미디어조나."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n5c33554e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613036800009",
+    "title": "中입법 수장, 싱가포르 의장과 회담…'다자주의 수호' 한목소리",
+    "summary": [
+      "(서울=연합뉴스) 권숙희 기자 = 중국을 방문한 시아 키앤 펭 싱가포르 국회의장이 중국 입법부 수장인 자오러지 전국인민대표대회 상무위원장과 한정..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb5ef7e31",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260612/134100873/2",
+    "title": "“땅바닥 보며 대롱대롱”…美 틸트 코스터 48m 허공서 오작동",
+    "summary": [
+      "미국 시더포인트 놀이공원의 수직 낙하형 롤러코스터 '시렌스커스'가 한 주말 동안 두 차례나 160피트 상공에서 수직으로 멈추는 사고가 발생했다.",
+      "개장 직후부터 결함이 반복된 가운데 안전 시스템 가동으로 인명 피해는 없었으나 안전성 논란이 재점화하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na46f9c04",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "33분 전",
+    "url": "https://view.asiae.co.kr/article/2026061313522498811",
+    "title": "문체부 장관, '입원 치료' 최불암 병문안 \"퇴원하면 술 한잔하자 약속\"",
+    "summary": [
+      "최휘영 문화체육관광부 장관이 배우 최불암(86)의 병문안을 간 사실을 전했다.",
+      "13일 최 장관은 자신의 페이스북을 통해 \"우리의 '국민 아버지' 최불암 선생님을 찾아뵙고 정중히 문안 인사를 드렸다\"며 이같이 밝혔다.",
+      "최 장관은 지난 11일 모은영 한국영상자료원장과 함께 지난해 허리디스크 수술을 받은 뒤 거동이 불편해져 14년간 진행하던 KBS 1TV 시사교양 프로그램 '한국인의 밥상'에서 하차하고 재활치료 중인 최불암을 찾아."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n22442164",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "35분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260613135303",
+    "title": "스패로우, 'SAI 2026' 성료…AI시대 SW 공급망 보안 전략 제시",
+    "summary": [
+      "[지디넷코리아]애플리케이션보안 전문기업 스패로우(대표 장일수)가 나인트리 프리미어 로카우스 호텔 서울 용산에서 11일 개최한 연례 고객 초청 행사 ‘SAI 2026(Sparrow application Insight)’이 성황리에 막을 내렸다.",
+      "스패로우는 이번 행사에서 오픈소스와 AI 코딩 중심의 최신 개발 환경이 직면한 보안 위협을 진단하고, 이에 대응하기 위한 소프트웨어(이하 SW) 공급망 보안 전략을 공유했다.'SAI'는 기존 스패로우 연례."
+    ],
+    "chips": [
+      "#AI",
+      "#환경"
+    ]
+  },
+  {
+    "id": "ncf5f2d53",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260613/134105213/1",
+    "title": "강제로 농약 먹이고 유서 쓰게 한 남편…‘20년 결혼생활’ 뒤 숨겨진 공포",
+    "summary": [
+      "왜곡된 가족 관계가 부른 비극적인 사건들이 공개됐다.지난 12일 방송된 티캐스트 E채널 ‘용감한 형사들5’(연출 이지선) 12회에는 양주경찰서 치안정보과 김정희 경정과 과학수사대(KCSI) 윤외출 전 경무관, 김진수 경감이 출연해 수사 일지를 공개했다.이날 소개된 첫 번째 사건은 어느 날 저녁 “밭에서 어떤 여자가 기어 나와서 살려달라고 한다.",
+      "농약을 마셨다고 하는데 숨 넘어갈 것 같다”는 다급한 신고로 시작됐다.",
+      "여성은 입에 거품을 무는 등."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c4b064a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "40분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260613/134105210/1",
+    "title": "“타는 냄새 나 확인해보니”…천안 산불 49분 만에 진화",
+    "summary": [
+      "13일 오전 10시31분께 충남 천안 동남구 북면 상동리 일원에서 산불이 나 49분 만에 진화됐다.산림청 등에 따르면 이웃 주민이 “밑에 집에서 타는 냄새가 나서 확인해 보니 야산에서 하얀색 연기가 난다”고 신고했다.산림당국은 산불진화차량 14대, 진화인력 36명을 투입해 이날 오전 11시20분께 산불을 진압했다.이 불로 인명피해는 없는 것으로 확인됐다.산림당국은 정확한 산불발생 원인과 피해면적 등을 조사 중이다.[천안=뉴시스]."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -649,14 +649,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
