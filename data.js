@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-13 21:26:42
+// 마지막 업데이트: 2026-06-13 22:22:16
 window.NEWS_DB = [
   {
     "id": "n71a254ee",
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n27c4fee3",
     "category": "IT",
     "source": "한국경제",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRnZ4QkptSWR2eGZROE9Zb053aWF6ZzF2NW1fYXBDWTBVVXdWekRFSVM1bUpDcFdPSXJSYVBveFNfbmVVbVlWUnVsZU5CZEhmT2dKbFFGN21OZ9IBVEFVX3lxTE9rWlQyUjBLTy1tU283VkpaMXFoZ3o3VmV4a3BFVGhzZzQ5c3ExY0daUU4zYVM0cGFxYlN5UE5QR0VrT3huclktd2xuSG5UYmItQUpXbQ?oc=5",
     "title": "최태원 \"日에 AI 데이터센터 구축…엔비디아와 협력, 반도체 공장도 검토\"",
     "summary": [
@@ -94,23 +94,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31acb708",
-    "category": "사회",
-    "source": "아주경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
-    "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "na542b62c",
     "category": "IT",
     "source": "디일렉",
@@ -141,23 +124,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13b4af19",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
     "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
@@ -173,21 +139,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n70cb7884",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
-    "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "na51ce02d",
     "category": "IT",
     "source": "녹색경제신문",
@@ -200,6 +151,20 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "summary": [
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -228,6 +193,37 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#전세"
+    ]
+  },
+  {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "summary": [
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -274,21 +270,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "114일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -301,6 +282,21 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
+    ]
+  },
+  {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "225일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -319,326 +315,324 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n873f3c0c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614005100055",
-    "title": "전북 구름 많고 소나기…낮 기온 27∼30도",
+    "id": "nf9e4d8bd",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061214495194588",
+    "title": "\"밥값 부담된다면\"…외식비 아끼는 '착한 가게' 찾는 법 [혜택의 정석]",
     "summary": [
-      "(전주=연합뉴스) 정경재 기자 = 14일 전북은 대체로 구름이 많겠다."
+      "편집자주'아는 만큼 보이고, 아는 만큼 아낀다.' 정보가 넘쳐나는 시대지만 정작 나만 모르고 지나치는 것들이 많습니다.",
+      "[혜택의 정석]에서는 일상 속에서 알아두면 돈이 되고 모르면 손해 보는 유용한 소식들을 전합니다.",
+      "#서울에서 근무하는 20대 직장인 A씨는 점심 메뉴를 고를 때마다 가격부터 확인하게 됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n35ae95bd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614005000051",
-    "title": "부산·울산·경남 구름많음…늦은 오후 경남서부에 소나기",
-    "summary": [
-      "(부산=연합뉴스) 민영규 기자 = 일요일인 14일 부산·울산·경남 지역은 구름이 많겠고, 경남 서부 내륙에는 늦은 오후부터 저녁 사이 돌풍과 천..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e9789ca",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614004900056",
-    "title": "제주, 흐린 가운데 곳에 따라 약한 비…낮 기온 25∼26도",
-    "summary": [
-      "(제주=연합뉴스) 고성식 기자 = 14일 제주도는 대체로 흐린 가운데 곳에 따라 빗방울이 떨어지는 곳이 있겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc58f827e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668113",
-    "title": "부산, 구름 많은 날씨…낮 최고기온 27도",
-    "summary": [
-      "[부산=뉴시스] 하경민 기자 = 14일 부산지역은 구름 많은 날씨가 이어질 것으로 부산기상청은 예보했다.",
-      "이날 낮 최고기온은 27도, 15일 아침 최저기온은 20도로 예상됐다.",
-      "당분간 달의 인력이 강해 바닷물의 높이가 높은 기간으로, 해안가 저지대 침수 피해에 주의해야 한다고 부산기상청은 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n71da271d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614001552071",
-    "title": "트럼프 \"이란과 합의 14일 서명 예정\"…美매체 \"전자서명할것\"(종합2보)",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령은 이란전쟁 종전 및 비핵화 등을 위한 이란과의 합의가 14일(미국 현지시간) 서..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndd491a06",
+    "id": "n39fdf0e8",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/14/GI4GGYZUGBSWCYTBMRRWCMJRGI/",
-    "title": "5월 9홈런 '미친 폭발력'→6월 0홈런 '추락 조짐'...허인서가 알아야 할 것, 프로는 엄청나게 무서운 곳",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/14/MJTDIYZUMQYTGNRQMQ2TKYRSMM/",
+    "title": "'박민♥' 오나미 \"내 인생에 결혼 있을 줄 몰라→공주처럼 대해줘서 의심\" ('동치미') [순간포착]",
     "summary": [
-      "[스포츠조선 김용 기자] 이게 프로의 무서움인가.",
-      "한화 이글스 포수 허인서는 5월 '신드롬'이라고 해도 과언이 아닐 정도의 활약을 펼쳤다.",
-      "지난해부터 김경문 감독의 눈도장을 받고 기회를 얻다, 5월부터 베테랑 최재훈을 제치고 사실상의 주전이 됐다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 오나미가 남편인 축구선수 박민을 처음에는 의심했다고 밝혔다.",
+      "13일 방송된 MBN ‘속풀이쇼 동치미’(이하 '동치미')에는 현주엽, 허재, 이형택, 김병현, 노사연, 이홍렬, 오나미, 박소영 등이 출연해 입담을 뽐냈다.이현이는 오나미에게 “운동선수와 결혼할 줄 알았냐”고 물었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9b323b55",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668076",
-    "title": "공장 무단 출입해 가로막는 직원 폭행…노조 간부들 집유",
-    "summary": [
-      "[울산=뉴시스] 안정섭 기자 = 노조 가입을 홍보하기 위해 자동차 부품 제조업체 안에 무단으로 들어가 제지하는 직원들을 폭행한 노동단체 간부들이 징역형의 집행유예를 선고받았다.",
-      "울산지법 형사1단독 배온실 부장판사는 폭력행위 등 처벌에 관한 법률 위반, 집회 및 시위에 관한 법률 위반 등의 혐의로 재판에 넘겨진 울산의 한 노동단체 전 대표 A씨와 전 부대표 B씨 등 5명에게 징역 6개월에 집행유예 2년을, 또다른 전 대표 C씨에게 징역 4개월에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfff857b3",
-    "category": "사회",
+    "id": "na73677c6",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/14/MNSTQOLFGM4GIYLCGY2GEZJZGM/",
-    "title": "충주걸, ‘前충주맨’ 김선태 채널에 돌직구..“충주시와 별차이 없어” (‘전참시’)[순간포착]",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/14/MRTDMZBRG4YWEM3EGBRDEYJRMQ/",
+    "title": "김병현 \"미국서 이형택 만났는데 밥값 안 내줘‥역시 개인 스포츠\" ('동치미') [순간포착] /어저께",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘전지적 참견 시점’ 충주걸 최지호 주문관이 '충주맨' 김선태 퇴직 당시 속내를 털어놨다.",
-      "13일 방송된 MBC 예능 ‘전지적 참견 시점’(이하 ‘전참시’)에서는 아이오아이와 ‘충주걸’ 최지호 주무관이 등장했다.이날 ‘충주걸’ 최지호 주문관은 ““갑자기 충주시 유튜브 주인이 된 최지호라고 합니다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 전 야구선수 김병현과 전 테니스 선수 이형택과의 첫 만남을 밝혔다.",
+      "13일 방송된 MBN ‘속풀이쇼 동치미’(이하 '동치미')에는 현주엽, 허재, 이형택, 김병현, 노사연, 이홍렬, 오나미, 박소영 등이 출연해 입담을 뽐냈다.이날 4명의 스포츠 선수들은 서로 언제 어떻게 처음 만났는지 밝히며 인."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne5c61ebe",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260614/134105664/1",
+    "title": "정부 “日 후쿠시마원전, 오염수 방출 중단했다 5시간만에 재개”",
+    "summary": [
+      "일본 후쿠시마 원전의 20차 방사성 오염수 해양 방류가 중지됐다가 5시간 만에 재개됐다.국무조정실 김영수 국무1차장은 14일 문자공지를 통해 “13일 오후10시34분께 오염수 20차 방류가 재개됐다”고 밝혔다.정부는 방류 자동 정지 원인에 대해 순간 정전에 의한 해수 이송펌프의 유량 저하로 긴급 차단밸브가 작동한것이라고 설명했다.",
+      "설비점검 결과 이상 없음이 확인됐다고 덧붙였다.도쿄전력은 지난 1일부터 후쿠시마 제1원자력발전소 오염수 20차 방류."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n892c2cd4",
+    "id": "n34c9a85a",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026061406125429854",
-    "title": "伊 피렌체 찾은 李대통령 \"르네상스의 고장\"…문화·지방 협력 당부",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260614/134105661/1",
+    "title": "‘라면 마니아’ 이다희가 살 안 찌는 비결…“국물은 몇 입만”",
     "summary": [
-      "이재명 대통령이 13일(현지시간) 이탈리아 중부 토스카나주의 주도 피렌체를 방문해 에우제니오 자니 토스카나 주지사를 접견하고 한국과 토스카나 간 문화·지방정부 협력 확대 방안을 논의했다.",
-      "이 대통령은 피렌체를 찾는 우리 국민의 편의와 안전 확보에도 각별한 관심을 당부했다.",
-      "이 대통령이 이날 자니 주지사와 면담하고 토스카나와 한국 간 교류 발전 및 토스카나를 찾는 우리 국민과 재외동포의 편의·안전에 각별한 관심."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5ae792f5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668112",
-    "title": "전북 낮 27~30도…오후부터 저녁 사이 5~50㎜ 소나기",
-    "summary": [
-      "[전북=뉴시스]고석중 기자 = '세계 헌혈자의 날'인 14일 일요일 전북지역은 일본 동쪽 해상에 위치한 고기압의 가장자리에 들어 가끔 구름이 많겠다.",
-      "기상청에 따르면 오후부터 저녁 사이 돌풍과 천둥·번개를 동반한 5~50㎜의 소나기가 내리는 곳이 있겠다.",
-      "내륙을 중심으로 우박이 떨어지고 일부 지역에는 시간당 20~30㎜의 매우 강한 소나기가 쏟아지는 곳이 있어 안전사고에 각별히 유의해야 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1da48e18",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613043200030",
-    "title": "'K의약품' 싹쓸이에 지난달 외국인 의료소비 2천500억 역대 최대",
-    "summary": [
-      "(서울=연합뉴스) 이상서 기자 = 지난 13일 오전 서울 마포구 홍대입구역 공항철도선 출입구 근처의 한 약국.",
-      "매장 입구에 들어서자 뜬금없이 '..."
+      "배우 이다희가 라면을 즐기면서도 날씬한 몸매를 유지하는 반전 비결을 공개했다.최근 이다희는 유튜브 채널 ‘핑계고’에 출연해 16시간 간헐적 단식을 실천하고 있다며 “그냥 먹고 싶은 거, 당기는 거를 먹는다.",
+      "라면을 좋아해서 주로 먹는다”고 밝혔다.특히 라면을 먹으면서도 살이 찌지 않는 비결에 대해 이다희는 “라면 하나를 먹을 때 면 위주로 먹고, 국물은 몇 입만 마신다”고 전했다.이처럼 라면 국물을 남기는 이다희의 식습관은 건강에 도움이 된다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nc643e484",
+    "id": "need52098",
     "category": "경제",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/golf/2026/06/14/MU4GMNTCHA2GEN3GGRQWENJUMY/",
-    "title": "한국 대회 마친 LIV골프, 결국 파산 엔딩? 美매체 '남은 운영 자금 30% 뿐'",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613033500008",
+    "title": "서학개미, 이달 美주식 순매수로 전환…'속슬' ETF 폭풍 매수",
     "summary": [
-      "[스포츠조선 박상경 기자] 최근 한국 대회를 마친 LIV골프의 잔여 운영 자금이 크게 부족한 것으로 드러났다.",
-      "미국 파이낸셜타임스는 12일(한국시각) '사우디아라비아 국부펀드(PIF)가 LIV골프가 요청한 운영 지원 자금의 ⅓만을 지원했다'고 전했다.",
-      "매체는 소식통을 인용해 'LIV골프가 올 시즌 종료 시점까지 운영되기 위해선 6억달러(약 9117억원)가."
+      "(서울=연합뉴스) 김태종 기자 = 미국 시장에 투자하는 '서학 개미'들이 5일간 이른바 '속슬'로 불리는 상장지수펀드(ETF)를 대거 순매수한 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n53f687cf",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/tech/2026/06/14/2026061318273929969",
-    "title": "\"100년 빈도 홍수, 이제 8년마다\"…올여름 극한홍수 대비해야 하는 이유",
+    "id": "n4ca5b819",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612071900003",
+    "title": "AI 슈퍼사이클 효과…삼성전기·LG이노텍 2분기 실적 훈풍",
     "summary": [
-      "올 여름 집중호우와 태풍에 따른 홍수 피해 우려가 커지는 가운데, 기후변화로 인한 해수면 상승이 극단적 홍수 위험을 크게 높이고 있다는 연구 결과가 나왔다.",
-      "전문가들은 과거 '100년 빈도로 발생하던 극단적 홍수가 현재는 8년에 한번 꼴로 발생한다며, 3면이 바다인 한반도의 경우 다른 안전책을 강구해야 한다고 지적했다.",
-      "최근 국제학술지 사이언스 어드밴시스와 네이처 기후변화에 발표된 두 편의 연구는 인간 활동에 따른 해수면 상승이 이미 전 세계."
+      "(서울=연합뉴스) 강태우 기자 = 삼성전자와 SK하이닉스를 중심으로 한 반도체 슈퍼사이클(초호황기) 효과가 전자부품 업계로 확산하고 있다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nece3a2a1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666747",
+    "title": "고양시, 지역공동체 일자리 사업 참여자 최대 50명 모집",
+    "summary": [
+      "[고양=뉴시스] 김도희 기자 = 경기 고양시는 오는 22~24일 올해 하반기 지역공동체 일자리사업 참여자를 최대 50명 모집한다고 14일 밝혔다.",
+      "이번 사업은 오는 8월10일부터 12월18일까지 총 5개월간 진행된다.",
+      "분야는 자전거 리사이클링, 어린이 보행안전지도, 다함께돌봄센터 안전도우미, 람사르 고양 장항습지 관리지원, 반려동물 놀이터 안전도우미 등 5개 사업이다."
+    ],
+    "chips": [
+      "#채용",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nef7e6a50",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260614/134105657/1",
+    "title": "李대통령, 오늘 교황청 공식 방문…‘평화·연대’ 특별 미사서 연설",
+    "summary": [
+      "이탈리아 국빈 일정을 마친 뒤 이재명 대통령은 14~15일(현지시간) 바티칸을 방문한다.",
+      "이 대통령은 14일 오전 성 바오로 성당에서 평화와 연대를 위한 특별 미사에 참석하고, 기념 연설로 교황청 공식 방문을 시작한다.한국인으로서 성직자부 장관에 최초로 임명된 유흥식 추기경을 비롯해 각지에서 모인 한국인 성직자 및 사제들과도 인사를 나눌 예정이다.15일에는 교황궁에서 레오 14세 교황과 단독으로 면담한 후 서 파올로 국무원장(추기경)을 만난다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n335d532b",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260614/134105652/1",
+    "title": "‘빚투 열풍’ 은행권 신용대출 열흘새 1.6조 급증…금리 상단 6% 돌파",
+    "summary": [
+      "증시 활황 속 ‘빚투’(빚내서 투자) 수요가 폭증하면서 주요 은행의 신용대출 잔액이 열흘 만에 1조6000억원 넘게 불어났다.",
+      "특히 마이너스통장 사용이 급증하며 증가세를 주도하자 은행들은 이번 주부터 한도 조정 등 자율 규제에 나섰다.",
+      "대출 수요가 몰리면서 금리도 치솟아 주택담보대출 금리 상단은 7%, 신용대출 금리 상단은 6%를 넘어 차주 부담이 커질 전망이다.신용대출 열흘새 1.6조 늘어…마통 43조 육박14일 금융권에 따르면 지난 11일."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n1a016db7",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613024700017",
+    "title": "스페이스X 상장에 쏠린 눈…K-우주기업 재평가 기대",
+    "summary": [
+      "(서울=연합뉴스) 조승한 기자 = 스페이스X의 상장을 계기로 '한국판 스페이스X'를 꿈꾸는 국내 우주기업 생태계에도 훈풍이 불지 주목된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6f2fab29",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612129500053",
+    "title": "백두대간수목원, 호랑이숲 확장하고 백두산호랑이도 공개",
+    "summary": [
+      "(봉화=연합뉴스) 김용민 기자 = 국립백두대간수목원은 백두산호랑이 서식 환경을 개선하기 위해 수목원 호랑이숲 내 방사장을 추가 조성한다고 14일..."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "n4040b58c",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/estate/2026/06/14/2026061216223978748",
-    "title": "22억 신고가 찍고...\"이 가격에 팔긴 아까워\" 동탄 매물 잠겼다",
+    "id": "n9481a3fe",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613029300008",
+    "title": "올 52주 신고가 1천508개, 신저가도 1천763개…양극화·변동성↑",
     "summary": [
-      "경기도 화성시 동탄구 집값이 심상치 않다.",
-      "반도체 업황 회복 기대감에 신고가 거래와 매물 품귀 현상이 동시에 나타나며 경기 남부 부동산 시장을 끌어올리고 있다.",
-      "정부도 최근 급등세를 예의주시하고 있지만 아직 규제 카드를 꺼낼 단계는 아니라는 입장이다."
+      "(서울=연합뉴스) 김유아 기자 = 올해 코스피가 '8천피'(8,000)를 돌파하며 급등했지만 국내증시에서 52주 신고가와 신저가를 기록한 종목이..."
     ],
     "chips": [
-      "#반도체",
-      "#부동산",
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "nc5b63de7",
+    "id": "nfb46724a",
     "category": "경제",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/economy/science/2026/06/14/GFRGINBTGMZTIN3BG5RWIODCMQ/",
-    "title": "GSK가 찍은 ‘차세대 타깃’…올릭스 비만약, 올여름 기술수출 시험대 오른다",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026061115371232937",
+    "title": "'검은 반도체' 김…왜 서양은 이 맛을 몰랐을까 [맛있는 이야기]",
     "summary": [
-      "지난달 영국 글락소스미스클라인(GSK)이 중국 바이오텍 시란바이오의 ALK7 타깃 비만 치료 후보물질(SA030)을 선급금과 마일스톤을 합쳐 최대 10억달러(약 1조5000억원) 규모에 도입했다.",
-      "임상 1상도 마치지 않은 물질에 이 정도 규모를 베팅했다는 건, ALK7 기전의 잠재력을 글로벌 빅파마가 높게 평가하고 있다는 신호로 해석된다."
+      "편집자주최초의 과자는 고대 메소포타미아 문명에서 발견됐다고 합니다.",
+      "과자는 인간 역사의 매 순간을 함께 해 온 셈이지요.",
+      "비스킷, 초콜릿, 아이스크림까지."
     ],
     "chips": [
+      "#반도체",
       "#수출"
     ]
   },
   {
-    "id": "n65b1ac39",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/14/2026061114310670646",
-    "title": "월드컵 환호 터진 날...\"입 13cm 찢기고 목 잘려\" 신사동서 끔찍 살해[뉴스속오늘]",
-    "summary": [
-      "뉴스를 통해 우리를 웃고 울렸던 어제의 오늘을 다시 만나봅니다.",
-      "지금으로부터 28년 전인 1998년 6월 14일, 한국과 멕시코의 월드컵 첫 경기가 열리던 날이었다.",
-      "전반 27분 하석주가 선제골을 넣으며 환호성이 터지던 시각, 서울 강남구 신사동에 위치한 사바이 단란주점에서는 참혹한 사건이 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4a44eb57",
+    "id": "n74834124",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612089900530",
-    "title": "고용보험 '빨간불'…실업급여 역대 최대에 적자 6천억 육박",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668110",
+    "title": "英벨파스트 인종차별 폭동에 대규모 반대 시위..평화운동",
     "summary": [
-      "(서울=연합뉴스) 옥성구 기자 = 지난해 실업급여 지급액이 역대 최대인 17조원을 넘어서면서 고용보험 사업비 지출액이 코로나19 이후 처음으로 ..."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "nbc7bbc3a",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612112500530",
-    "title": "\"청년 이직 때마다 임금 4.78% 상승…공학 전공자 이직 효과 커\"",
-    "summary": [
-      "(서울=연합뉴스) 한혜원 기자 = 청년들이 이직을 한 번 할 때마다 임금이 약 4.78%씩 상승한다는 연구 결과가 나왔다."
+      "[서울=뉴시스] 차미례 기자 = 영국 벨파스트 시내 중심가에 주말인 13일 (현지시간) 수 천명의 군중이 모여들어 며칠 동안 계속되었던 이민자들의 집과 상점, 차량에 대한 파괴 등 인종차별 폭동사태에 대한 반대 집회를 진행했다.",
+      "\"함께 하는 증오 반대\"( Together Against Hate )란 제목의 이번 집회는 오후 1시께 벨파스트 시청 앞에서 시작되었다.",
+      "참여한 군중 속에는 각 정당과 노조들의 대표가 참가했고 시위대가 든 펼침막에는 \"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n10313268",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/estate/2026/06/14/2026061209450382932",
-    "title": "서울도 아닌데 \"집값 미쳤어요\"...불붙은 동탄 '최고 상승률'",
+    "id": "nb3b5b99f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668122",
+    "title": "北 \"비핵화는 되돌릴 수 없이 종결된 사안\"",
     "summary": [
-      "경기 남부 아파트 시장이 강세를 이어가는 가운데 화성 동탄구가 전국 최고 상승률을 기록했다.",
-      "반도체 업황 개선 기대감에 매수세가 유입되면서 동탄을 중심으로 성남·용인·수원 등 경기 남부권 집값 상승세가 확대되는 모습이다.",
-      "12일 KB부동산이 발표한 주간 아파트시장동향에 따르면 6월 둘째 주 화성 동탄구 아파트 매매가격은 전주 대비 0.99% 상승했다."
+      "[서울=뉴시스] 유자비 기자 = 북한이 14일 한미가 핵협의그룹(NCG) 회의를 열고 북한 비핵화를 언급한 데 대해 \"비핵화는 최종적으로 되돌릴 수 없이 종결된 사안\"이라고 반발했다.",
+      "외무성 대변인은 이날 노동신문을 통해 발표한 담화에서 \"우리나라를 비롯한 지역 국가들을 겨냥한 핵무기 사용을 정책화하고 그 구체적인 실행 방안을 음모하는 마당에서 교전 상대방의 핵무장 해제를 운운하는 것이야말로 어불성설이며 공허한 망상\"이라며 이같이 밝혔다."
     ],
     "chips": [
-      "#반도체",
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n90995236",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613042500003",
-    "title": "비규제지역 동탄·구리, 집값 뛰니 경매도 과열…고가낙찰 속출",
-    "summary": [
-      "(서울=연합뉴스) 서미숙 기자 = 최근 반도체 특수와 교통 호재를 등에 업은 화성 동탄, 구리시 등 수도권 비규제지역과 서울 외곽지역의 중저가 ..."
-    ],
-    "chips": [
-      "#반도체",
-      "#부동산",
       "#정책"
     ]
   },
   {
-    "id": "n7e8813c2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667042",
-    "title": "[단독]尹 대통령기록물 목록 37만건 공개…'비화폰' 23건 포함도",
+    "id": "n317699d1",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613034200008",
+    "title": "[마켓스토리] '수익률 1등' 코스피, MSCI '선진지수 후보'에 다시 오르나",
     "summary": [
-      "[서울=뉴시스] 강지은 기자 = 윤석열 전 대통령 재임 기간 생산된 대통령기록물 목록 37만여건이 처음으로 공개됐다.",
-      "여기에는 12·3 비상계엄 사태로 드러난 '비화폰' 관련 목록 23건 등도 포함됐다.",
-      "14일 행정안전부 대통령기록관에 따르면 대통령기록관은 최근 제20대 대통령기록물 중 일반기록물 목록 37만여건을 대통령기록관 홈페이지를 통해 공개했다."
+      "(서울=연합뉴스) 이민영 기자 = 올해 코스피는 글로벌 증시의 주인공으로 주목받고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d267e8b",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612169700008",
+    "title": "[마켓인사이트] 이란전쟁 악재 끝나나…코스피 반등 지속 기대",
+    "summary": [
+      "(서울=연합뉴스) 황철환 기자 = 지난 한 주 국내 증시는 미국 연방준비제도(Fed·연준)의 기준금리 인상 조기화 우려와 글로벌 반도체 조정의 ..."
+    ],
+    "chips": [
+      "#반도체",
+      "#금리"
+    ]
+  },
+  {
+    "id": "nfdfc1982",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "22분 전",
+    "url": "https://view.asiae.co.kr/article/2026061403313019954",
+    "title": "방탄소년단 RM \"팬 통해 나를 본다…13년 전에도, 앞으로도\"",
+    "summary": [
+      "그룹 방탄소년단(BTS) 리더 RM이 데뷔 13주년 부산 콘서트를 마친 소감을 밝혔다.",
+      "RM은 13일 팬 플랫폼 위버스에 \"누가 누구를 구원한다는 말을 엄청나게 믿는 편은 아니지만, 과분하게도 그런 말을 가끔 듣다 보니 나 역시 팬들에게 구원받지 않았나 돌아보게 된다\"고 적었다.",
+      "그는 팬들과 오랜 시간 함께하는 것에 대한 의미를 강조했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n94e8026d",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "51분 전",
+    "url": "https://view.asiae.co.kr/article/2026061406300733004",
+    "title": "보티첼리 '비너스의 탄생' 한국서 보나…李대통령, 伊 우피치미술관서 문화외교 마무리",
+    "summary": [
+      "이탈리아를 국빈 방문 중인 이재명 대통령이 13일(현지시간) 피렌체 우피치 미술관을 찾아 국립중앙박물관과 우피치미술관 간 협력 양해각서(MOU) 체결식에 참석했다.",
+      "이번 국빈방문을 계기로 한국과 이탈리아 관계가 '특별 전략적 동반자 관계'로 격상된 가운데 양국 협력의 외연을 경제·안보를 넘어 문화유산 교류로 넓히는 행보다.",
+      "강유정 청와대 수석대변인은 이날 서면 브리핑에서 이 대통령이 토스카나주의 주도 피렌체를 방."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n2aa57c98",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/14/EI3GQUPCH5FTDI6XTNU6RALQFY/",
+    "title": "연금 부자들은 먼저 버렸다… 노후 자금 축내는 ‘생활 부채’ 6가지",
+    "summary": [
+      "연금 부자들은 먼저 버렸다… 노후 자금 축내는 ‘생활 부채’ 6가지."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -647,21 +641,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "반도체",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "뉴스",
     "mentions": "2070건",
     "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "금리",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
