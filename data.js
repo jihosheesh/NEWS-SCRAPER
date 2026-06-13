@@ -1,27 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-13 19:30:16
+// 마지막 업데이트: 2026-06-13 20:26:33
 window.NEWS_DB = [
-  {
-    "id": "nf5a2d52d",
-    "category": "경제",
-    "source": "VT Markets",
-    "time": "13시간 전",
-    "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMUIxLTl1clZxWkZrU1MxREFBNWxsWkZ3d2NrcTBZMWV5R2dfS0NObmZGamRjWXBsZDNSZktwV3dqWVRxbEtGZlhERjVybEUwMHdTOWJuMFlyZ2VHS2VoSDdEZzBOVnBhQThKRktOVTBheDQ4alR2bFZfcGdtUmlVbTZfazRnUGU1bEw3ZEtNdW1ZWnI0ZFhWMXk5V2EzWFlENEQ3aFlCcm0xLWFQVGZIbkJuQXV2NjNJbDBndkd0dW9wWGY0WHNhTmpkZjlZaXFFYlR0N2VSUlhsd1BjbF9sbURLSVczQ2xpcElmUEhRX1V1d18xejZNNF80LVg4aUJwVHJ0LVNQelNYX3pxOHA0NkVQWnRHQ01oenVHLVhvY3NzOXk5R0d2bXpjMk5OUUdkWG5PVnhmY3VHRjdESHdDbmRPZm1wYWowOWlyWHkydXZYYTg?oc=5",
-    "title": "AI 칩 호재와 한국은행 금리 인상 기대에 코스피 급등…원화 강세",
-    "summary": [
-      "AI 칩 호재와 한국은행 금리 인상 기대에 코스피 급등…원화 강세 VT Markets."
-    ],
-    "chips": [
-      "#AI",
-      "#금리",
-      "#한은"
-    ]
-  },
   {
     "id": "ncf7e0ddb",
     "category": "IT",
     "source": "뉴시스",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dDZGSi1QNWdzYmtWMjY0dnRxNmQzVEh2SFg3a0prZEZTekdpdzMtYjhSQ1BZVU1YRWhKX2dzenpZLVF3aTNEb0ZmVmc0ajBHMTdacm1NSC1TWHFwMTNBRdIBeEFVX3lxTE54SVhFSldWaTFfai1XWHZjaUd6M0czNzlfVnlIRTA0Yk1UeV90d3NZMzZEVy03c3E0dFlpM2RuUVg4d1J3bEVDdGczbnZIUXM5ZUZYVmxBc1VwOEN0SXQyaDZ5am92RFltdUFTNTg5WlpfYjkyb256Qg?oc=5",
     "title": "\"More HBM!\"의 의미…K반도체, 설계부터 참여 '슈퍼을' 도약[젠슨황 방한 4대 키워드②]",
     "summary": [
@@ -29,6 +13,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
+    ]
+  },
+  {
+    "id": "n71a254ee",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
+    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+    "summary": [
+      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
+    ],
+    "chips": [
+      "#부동산",
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -315,10 +315,225 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n3b203206",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667958",
+    "title": "\"춤은 나를 살아있게 만든다\"…SNS 스타 된 '100세' 英 댄서 (영상)",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 100세의 나이에도 화려한 춤사위를 보여준 영국 최고령 댄서가 화제를 모았다.",
+      "지난 9일(현지시간) 영국 BBC는 우스터셔에 위치한 펀힐 하우스 요양원에 거주하는 100세 노인 버나드 길버트가 춤추는 영상이 소셜미디어(SNS)에서 150만회 이상의 조회수를 기록했다고 보도했다.",
+      "과거 럭비를 배웠던 길버트는 16세 때 다리를 다친 후 춤을 배우기 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc65d3090",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668102",
+    "title": "'체코전 승리' 홍명보호 태극전사들, 가족 품에서 달콤한 휴식",
+    "summary": [
+      "[과달라하라(멕시코)=뉴시스]안경남 기자 = 2026 북중미 월드컵 첫판인 체코전에서 역전승을 거두며 산뜻하게 대회를 출발한 홍명보호 태극전사들이 결전지 멕시코를 찾은 가족과 달콤한 휴식을 보냈다.",
+      "홍명보 감독이 지휘하는 한국 대표팀은 14일(한국 시간) 팀 훈련을 소화하지 않는다.",
+      "지난 12일 과달라하라 인근 사포판의 과달라하라 스타디움에서 치른 체코와의 대회 조별리그 A조 1차전에서 0-1로 끌려가다 후반 22분 황인범(페예노르트)의 동점골."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9f486e09",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/14/2026061405130857667",
+    "title": "피렌체로 간 李 대통령…토스카나 주지사에 재외동포·영화제 당부",
+    "summary": [
+      "[the300] 이재명 대통령이 이탈리아 북부 토스카나의 주도 피렌체를 방문해 에우제니오 쟈니 토스카나 주지사를 면담하고 토스카나와 한국 간 교류 발전 및 토스카나를 찾는 우리 재외동포들의 편의와 안전에 각별한 관심을 가져줄 것을 당부했다.",
+      "아울러 올해로 24년차를 맞은 피렌체 한국영화제가 토스카나를 대표하는 국제 문화축제로 자리매김할 수 있도록 지속적인 관심과 지원도 당부했다.",
+      "강유정 청와대 수석대변인은 13일(현지시간) 서면브리핑을 통해 이."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbe3e97bb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2025/11/05/MLYY4LSNFFFDXPOLMB4ZE55DUQ/",
+    "title": "연간 300만봉 팔리는 ‘남가네 설악추어탕’, 한 그릇 3125원 조선몰 단독 특가",
+    "summary": [
+      "연간 300만봉 팔리는 ‘남가네 설악추어탕’, 한 그릇 3125원 조선몰 단독 특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f2a4e3c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/31/GRMPBBGA6RH23DKCE3CV5VTHSA/",
+    "title": "한국 기업이 작심하고 개발한 비거리 특화 드라이버, 20만원대 초특가 히트",
+    "summary": [
+      "한국 기업이 작심하고 개발한 비거리 특화 드라이버, 20만원대 초특가 히트."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfcb1fc6d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668080",
+    "title": "인천, 낮 30도 안팎 무더위…오후 사이 소나기 예보",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 14일 인천은 30도가 넘는 무더위가 찾아오고, 오후 사이 강한 소나기가 내리는 곳이 있겠다.",
+      "하늘은 일본 동쪽 해상에 위치한 고기압의 가장자리에 들어 구름 많겠다.",
+      "수도권기상청은 \"아침 최저기온은 20도, 낮 최고기온은 28도 내외의 분포를 보이겠다\"며 \"오후부터 저녁 사이 소나기가 내리는 곳이 있겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe64f724",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668097",
+    "title": "\"아마존, 앤트로픽 AI 차단 촉발…트럼프 행정부에 보안 리스크 전달\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 행정부가 앤트로픽의 '미토스', '페이블5' 등 최상위 인공지능(AI) 모델에 대한 외국 이용자의 접근을 전면 중단시키기로 한 결정은 앤디 재시 아마존 최고경영자(CEO)가 미국 당국자들과 나눈 대화에서 촉발됐다고 월스트리트저널(WSJ)이 13일(현지시간) 보도했다.",
+      "재시 CEO는 스콧 베선트 재무장관 등 당국자들에게 아마존 연구진이 일련의 프롬프트를 사용해 앤트로픽의 최상위 모델 '페이블 5."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n163acd49",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/14/2026061212495441414",
+    "title": "\"엄마라고 변호사 될 기회 더 적어선 안돼\"…'5탈 제도' 고쳐질까",
+    "summary": [
+      "\"더 이상 임신과 출산이라는 축복이 한 여성의 꿈을 꺾는 비극의 이유가 돼서는 안 된다고 생각합니다.\" - 박은선 변호사(법률사무소 이유·변시 8회) 법학전문대학원(로스쿨) 졸업 후 5년 사이 다섯 번만 변호사시험에 응시할 수 있도록 하고, 그 기회를 모두 써버리면 사실상 변호사가 될 길이 없는 이른바 현행 '5탈 제도'를 두고 잡음이 끊이지 않는다.",
+      "임신 및 출산을 하는 경우에도 예외없이 이 제도가 적용돼서다.",
+      "박 변호사는 이 제도가 헌법에."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n4c7393be",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/14/2026061400203988783",
+    "title": "이용규 음주 파문→코치진 초토화! '사면초가' 키움, 그래도 박병호 코치 1군 콜업 '희박'",
+    "summary": [
+      "이용규(41) 플레잉코치의 음주운전 사고에 의한 불명예 은퇴를 계기로 키움 히어로즈 코칭스태프 운용에 비상등이 켜졌다.",
+      "코치진을 즉각 보강해야 한다는 지적이 쏟아지고 있지만, 구단은 '기형적인 겸직 체제'를 유지하며 박병호(40) 잔류군 선임코치의 1군 합류에는 선을 긋는 모양새다.",
+      "이번 시즌 개막을 기준으로 키움은 9명의 1군 코치진을 꾸렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na893cd81",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/11/D2MF3C7JBFDFRNLRSWN53PYLFQ/",
+    "title": "단백질 달걀의 3배·밀가루 제로, 노화를 늦추는 가장 간편한 아침 습관",
+    "summary": [
+      "단백질 달걀의 3배·밀가루 제로, 노화를 늦추는 가장 간편한 아침 습관."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naccad563",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613048100001",
+    "title": "張체제 일단 유지냐 즉각 교체냐…국힘 계파간 엇갈린 '셈법'",
+    "summary": [
+      "(서울=연합뉴스) 권희원 기자 = 6·3 지방선거 패배론에 따른 책임 공세에 직면한 장동혁 대표의 거취 문제를 놓고 국민의힘 내부의 갈등이 금주..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbb7972b9",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "26분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/06/14/2026061210553432975",
+    "title": "[투데이 窓]AI 3강이라는 목표, 다시 묻는다",
+    "summary": [
+      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] 지금 이 순간에도 대한민국의 인공지능(AI) 골든타임이 흘러가고 있다.",
+      "우리가 AI를 '논의'하는 사이, 세계는 AI로 '행동'한다.",
+      "미국은 AI로 전쟁을 치르고, 중국은 AI로 국가를 재편하며, 중동은 AI로 다음 100년을 사들이고 있다."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n3f9b29fd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260613035500001",
+    "title": "鄭, '연임 승부수' 결단 임박…金과 계파·노선 정면대결 가나",
+    "summary": [
+      "(서울=연합뉴스) 서혜림 기자 = 6·3 지방선거에서 완승에 못 미치는 결과로 책임론에 직면한 더불어민주당 정청래 대표가 8·17 전당대회 출마..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc661b4f8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/14/KRGCASIU6NF5RBJUFSP4TQMTBQ/",
+    "title": "‘왜색 논란’ 딛고 한국의 美 정진… 훌륭한 건축물 1위 건축가 김수근",
+    "summary": [
+      "1967년 36세 건축가 김수근(1931~1986)은 커다란 논란에 휩싸였다.",
+      "그가 설계해 건립 중인 국립부여박물관 건물이 ‘왜색 시비’에 휘말렸다.",
+      "일본 신사 정문 및 지붕 모습인 ‘도리이(鳥居)’와 ‘지기(千木)’를 닮았다는 의견이 일부에서 제기됐다."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
     "id": "neb1379ba",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "40분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152595",
     "title": "넥슨, 메이플스토리 여름 쇼케이스...신규 직업 '레테' 추가",
     "summary": [
@@ -330,26 +545,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4b38e7c9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668098",
-    "title": "트럼프, SNS에 김정은과 정상회담 사진 공유…배경에 관심",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 대통령이 13일(현지시간) 김정은 북한 국무위원장과 제1차 북미정상회담 사진을 소셜미디어 트루스소셜에 공유했다.",
-      "트럼프 대통령은 이날 트루스소셜에 별다른 설명 없이 자신과 김 위원장이 함께 걷는 사진을 올렸다.",
-      "트럼프 대통령이 공유한 사진은 2018년 6월12일 싱가포르 센토사섬 카펠라호텔에서 1차 북미정상회담 직후 두 정상이 호텔 정원을 함께 산책하는 장면을 담고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "ndbe287ad",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260614001800001",
     "title": "피렌체 찾은 李대통령 \"르네상스의 고장\"…문화교류 활성화 당부",
     "summary": [
@@ -363,7 +562,7 @@ window.NEWS_DB = [
     "id": "ne6ea16b5",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260614003000072",
     "title": "멕시코 남부 게레로주서 규모 5.2 지진",
     "summary": [
@@ -374,144 +573,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nde795e53",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668032",
-    "title": "대구·경북 구름 많고 일부 소나기…아침 14도·한낮 31도",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 일요일인 14일 대구와 경상북도는 구름 많은 가운데 소나기가 내리는 곳이 있을 것으로 예상된다.",
-      "대구지방기상청은 이날 \"경북서부내륙 일부 지역에 오후부터 저녁 사이 5~30㎜의 소나기가 오는 곳이 있겠다\"고 예보했다.",
-      "아침 최저기온은 14~19도(평년 13~19도), 낮 최고기온은 25~31도(평년 23~29도)로 예측된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f65d16a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614002800075",
-    "title": "\"새벽 4시부터 줄섰어요\"…LA 센추리시티에 올리브영 북미 2호점",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = \"안녕하세요."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc219b675",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614002900071",
-    "title": "추억회상? 러브콜 염두?…트럼프, SNS에 북미정상회담 사진 올려",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령이 13일(현지시간) 8년 전 이맘때 열렸던 김정은 북한 국무위원장과의 제1차 북..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n08962ff1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "47분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668096",
-    "title": "미 \"14일 화상 종전 합의\"…이란 \"14일 아냐. 트럼프 생일쇼 안 돼\"(종합)",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미국과 이란이 오는 14일(현지시간) 중재국인 파키스탄·카타르와 함께 화상 회의를 열고 전쟁 종식을 위한 양해각서(MOU)에 서명할 것으로 보인다고 액시오스가 13일 미국 당국자와 중재국 소식통을 인용해 보도했다.",
-      "미국 당국자와 중재국 소식통들은 MOU 서명이 14일 화상 방식으로 이뤄질 것이라고 확인하면서 이는 동선과 일정 등 실무적인 이유 때문이라고 설명했다.",
-      "특히 미국 협상단을 이끄는 J.D."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0fc9a3b7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/14/MMYGKMLFGA2TSMZXGZSGCMRSHE/",
-    "title": "'대전 예수' 한화 복귀? 현실적으로 어렵다…그렇다면 메이저 부활 가능성은",
-    "summary": [
-      "[스포츠조선 박상경 기자] '대전 예수'가 또 한 번 한화 이글스에서 대체 선수 신화를 쓸 가능성, 올해는 현실적으로는 어려워 보인다.",
-      "휴스턴 애스트로스가 13일(한국시각) 라이언 와이스를 지명할당(DFA) 처리하면서 그의 KBO리그 복귀 가능성에 관심이 쏠리고 있다.",
-      "휴스턴 개막 엔트리에 포함됐던 와이스는 선발 기회를 잡았으나 9경기(선발 2경기) 26이."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb9b04de8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/people/2026/06/14/D5ADAIN7DNFZRD3RKIVDSDQMWA/",
-    "title": "일본 최고 프렌치 요리사도 감탄한 ‘해병대’ 정신",
-    "summary": [
-      "일본 최고 프렌치 요리사도 감탄한 ‘해병대’ 정신."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5983c27f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/national_general/2026/06/14/E3SJIKYMEBAVDPS73LUKHS56TE/",
-    "title": "“2시간에 30환” 사직공원·장충단 풀장… 수영장에 깨벗고 달려들던 시절",
-    "summary": [
-      "“2시간에 30환” 사직공원·장충단 풀장… 수영장에 깨벗고 달려들던 시절."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nafa3bbe7",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/14/OFJSKJTOTVANDGGKY3K33RAOSA/",
-    "title": "일 얘기는 천천히…5번 홀에서 15번 홀 사이에 꺼내라",
-    "summary": [
-      "일 얘기는 천천히…5번 홀에서 15번 홀 사이에 꺼내라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n497a214b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003667941",
-    "title": "\"유통기한 지난 기름에 썩은 과일까지\"…시누이 택배 공세에 지친 여성",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 의사를 묻지 않고 무작정 택배로 선물을 보내는 시누이 때문에 스트레스를 받는다는 여성의 사연이 알려졌다.",
-      "11일 한 온라인 커뮤니티에 '자꾸 집으로 택배 보내는 시누이의 심리'라는 제목의 글이 올라왔다.",
-      "작성자 A씨는 시누이가 계속 집으로 선물을 보낸다면서 \"안 보내주셔도 된다고 말해도 해결되지 않는다\"고 토로했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2b5c4744",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202606144566i",
     "title": "호르무즈 비용징수 명시적 반대 안한 트럼프... 핵물질 이란 파괴 가능성 언급",
     "summary": [
@@ -525,7 +590,7 @@ window.NEWS_DB = [
     "id": "na813fdfd",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202606144561i",
     "title": "美-이란, 14일 중 '전자서명' 방식으로 60일 휴전할 듯 [이상은의 워싱턴나우]",
     "summary": [
@@ -539,7 +604,7 @@ window.NEWS_DB = [
     "id": "nacafc402",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260614/134105550/1",
     "title": "[속보]트럼프 “이란과 14일 합의 서명”…혁명수비대 “절대 없을 것”",
     "summary": [
@@ -555,70 +620,11 @@ window.NEWS_DB = [
     "id": "n4502edcf",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202606144560i",
     "title": "[속보] 파키스탄 \"美-이란, 24시간 내 서명\"",
     "summary": [
       "[속보] 파키스탄 \"美-이란, 24시간 내 서명\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb58a4e64",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260614/134105547/1",
-    "title": "[속보] 트럼프 “이란과 14일 합의안 서명 예정”",
-    "summary": [
-      "[속보] 트럼프 “이란과 14일 합의안 서명 예정”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nacae6a1a",
-    "category": "경제",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152594",
-    "title": "스페이스X 대박 상장 날, 미래에셋은 빈손…4700억 물량도 결국 0주, 이유는",
-    "summary": [
-      "역대 최대 IPO가 국내 투자자들에게는 '그림의 떡'으로 끝났다.",
-      "스페이스X가 국내 투자자들을 대상으로 공모 청약을 진행했으나, 최종 물량을 배정받지 못한 탓이다.일론 머스크가 이끄는 스페이스X는 12일(현지시간) 나스닥에 상장하며 총 750억달러(약 102조원)를 조달했다.",
-      "공모가 135달러 기준 기업가치는 약 1조7700억달러로 평가됐으며, 조달 규모 기준 역대 최대 IPO 기록을 새로 썼다.국내에서는 미래에셋증권이 스페이스X IPO 인수단."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8032b0b9",
-    "category": "경제",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152592",
-    "title": "美 정부, 출시 나흘 만에 미토스 봉쇄...앤트로픽 \"지침 따르지만 동의 못해\"",
-    "summary": [
-      "미국 정부가 국가 안보를 이유로 앤트로픽 클로드 페이블 5와 클로드 미토스 5에 대해 '외국인 접근 중단' 지시를 내리자 앤트로픽이 해당 서비스를 잠점 중단했다.",
-      "다만 정부의 지시가 모든 동종 모델들이 안고 있는 잠재적 '탈옥' 가능성에 근거한 오해에서 비롯됐다며 서비스 재개를 위해 노력하겠다는 입장을 밝혔다.앤트로픽은 \"미국 정부가 국가 안보를 이유로 수출 통제 지침을 발표해 미국 내외를 막론하고 모든 외국인의 페이블 5 및 미토스 5 접근을."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nb2e17b55",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260613/134105499/1",
-    "title": "이란 외무부 “종전 MOU 서명, 내일은 아니지만 수일 내 가능”",
-    "summary": [
-      "에스마일 바가이 이란 외무부 대변인은 13일(현지시간) 미국과 전쟁 종식 양해각서(MOU) 서명 시점과 관련해 “당장 내일은 아니겠지만 앞으로 며칠 안에 이 일이 일어날 가능성을 배제할 수는 없다”고 밝혔다.이란 관영 IRNA통신에 따르면 바가이 대변인은 이날 기자회견에서 “정확한 서명 시점은 더 지켜봐야 한다”며 이같이 답했다.바가이 대변인은 “현 단계에서는 레바논을 포함한 모든 전선에서 전쟁을 끝내는 데 초점을 맞추고 있으며 핵 문제에 대해."
     ],
     "chips": [
       "#뉴스"
@@ -631,8 +637,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
@@ -642,9 +648,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
