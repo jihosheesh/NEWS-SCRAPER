@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-13 14:42:21
+// 마지막 업데이트: 2026-06-13 15:31:33
 window.NEWS_DB = [
   {
     "id": "ncf7e0ddb",
     "category": "IT",
     "source": "뉴시스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dDZGSi1QNWdzYmtWMjY0dnRxNmQzVEh2SFg3a0prZEZTekdpdzMtYjhSQ1BZVU1YRWhKX2dzenpZLVF3aTNEb0ZmVmc0ajBHMTdacm1NSC1TWHFwMTNBRdIBeEFVX3lxTE54SVhFSldWaTFfai1XWHZjaUd6M0czNzlfVnlIRTA0Yk1UeV90d3NZMzZEVy03c3E0dFlpM2RuUVg4d1J3bEVDdGczbnZIUXM5ZUZYVmxBc1VwOEN0SXQyaDZ5am92RFltdUFTNTg5WlpfYjkyb256Qg?oc=5",
     "title": "\"More HBM!\"의 의미…K반도체, 설계부터 참여 '슈퍼을' 도약[젠슨황 방한 4대 키워드②]",
     "summary": [
@@ -16,18 +16,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n71a254ee",
+    "id": "n248fc719",
     "category": "경제",
-    "source": "뉴시스",
+    "source": "마켓인",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
-    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTEMySTZHNHRyTUpaMEJXaUpSUVlJalZqUDdYVndqdUtFeklISm9rSzVLYUhQRzZobmI4T2pQZ0dtMnl2YjlNUV9XTFFHLVBzNVc0bGNBVUJTTGxJcTFsTmVxWUJzc3ZfaC12dmFaQjNfVWM?oc=5",
+    "title": "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망”",
     "summary": [
-      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
+      "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망” 마켓인."
     ],
     "chips": [
-      "#부동산",
-      "#금리",
       "#환율"
     ]
   },
@@ -108,23 +106,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31acb708",
-    "category": "사회",
-    "source": "아주경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
-    "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "na542b62c",
     "category": "IT",
     "source": "디일렉",
@@ -152,23 +133,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n13b4af19",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
     ]
   },
   {
@@ -230,6 +194,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "summary": [
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n269e2609",
     "category": "부동산",
     "source": "v.daum.net",
@@ -260,14 +240,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
+    "id": "ncbcb6c77",
     "category": "스포츠",
-    "source": "테크M",
-    "time": "73일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "source": "연합뉴스",
+    "time": "97일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
     ],
     "chips": [
       "#KBO"
@@ -300,6 +280,21 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
+    ]
+  },
+  {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "225일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -364,10 +359,179 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n442e94e0",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/14/2026061400130228289",
+    "title": "[한번에쓱] '한화 보살팬도 고개 돌리게 만든' 서건창의 키움 5번째 끝내기안타",
+    "summary": [
+      "키움 리드오프 서건창이 12일 고척스카이돔에서 열리는 2026KBO리그 키움히어로즈와 한화이글스 경기 9회말 2사 1,2루에서 우중간을 가르는 2타점 끝내기 안타를 터트린 후 동료들과 기쁨을 만끽하고 있다.",
+      "서건창은 이날 올시즌 1호홈런을 터트리며 추격의 불씨를 당겼었다.",
+      "한화이글스 모자를 쓴 한화팬이 서건창의 끝내기세리머니에 고개를 돌리고 있다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n15f8ca3e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668078",
+    "title": "\"네타냐후, 트럼프 '이란戰 끝낼 때' 통보 사실상 수용\" 美 액시오스",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 베냐민 네타냐후 이스라엘 총리가 지난 11일 도널드 트럼프 미국 대통령과 전화 통화에서 더 이상 미국과 이란간 종전 양해각서 서명을 막을 수 없다는 사실을 받아들이는 분위기였다고 액시오스가 12일(현지시간) 미국 고위 당국자를 인용해 보도했다.",
+      "액시오스에 따르면 트럼프 대통령은 11일 네타냐후 이스라엘 총리에게 전화를 걸어 \"며칠 안에 이란과 합의에 서명할 것으로 본다\"며 \"아주 좋은 합의고 이제 이 전쟁을 끝낼."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1980296b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/14/GE4DGZBUGNSTCM3FMQ4WMZJRGQ/",
+    "title": "이형택, 아침마다 ♥아내에 한우 오마카세 요구 \"차리는 김에‥\" ('동치미') [순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 전 테니스 선수 이형택이 '오마카세 썰'을 해명해 눈길을 끌었다.",
+      "13일 방송된 MBN ‘속풀이쇼 동치미’(이하 '동치미')에는 현주엽, 허재, 이형택, 김병현, 노사연, 이홍렬, 오나미, 박소영 등이 출연해 입담을 뽐냈다.이날 MC 이현이는 \"여기 정말 상남자 같은 분이 계시다\"라며 \"이형택."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0d2ffe09",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/politics/goverment/2026/06/14/4333NC4H6VDJ7ME32Z2YYZ4C7Y/",
+    "title": "정부 “중단됐던 日 후쿠시마 오염수 방류 재개… 순간 정전이 중단 원인”",
+    "summary": [
+      "정부 “중단됐던 日 후쿠시마 오염수 방류 재개… 순간 정전이 중단 원인”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n70487d02",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/14/MI2DCM3EMU2DKMZUMZSWKZDDMU/",
+    "title": "'한화만 웃는다' 다시는 한국 안 쳐다보겠네, 와이스는 쉽게 포기했는데…1회도 못 버틴 일본 투수를 어쩌나",
+    "summary": [
+      "[OSEN=이상학 객원기자] 휴스턴 애스트로스의 아시아 리그 선수 영입이 벌써 대실패로 돌아가고 있다.",
+      "KBO리그에서 데려온 라이언 와이스(29)를 양도 지명(DFA)하며 사실상 방출 처리했고, NPB를 주름잡았던 이마이 타츠야(28)는 1회도 못 버티며 무너졌다.",
+      "휴스턴은 지난 13일(이하 한국시간) 내야수 레이넬 델가도를 트리플A 슈가랜드 스페이스 카우."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n338b0161",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/14/MJNZQIWWTBEZBCGMKPJHLIRFKY/",
+    "title": "교도소에 동물원까지 지었던 베네수엘라 최대 범죄 조직 두목의 처참한 최후",
+    "summary": [
+      "교도소에 동물원까지 지었던 베네수엘라 최대 범죄 조직 두목의 처참한 최후."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc780049e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667834",
+    "title": "\"체중 감량, 건강 유지에 효과적\"…라미란의 건강 유지 돕는 '슬로우 조깅'",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 배우 라미란(51)이 '슬로우 조깅'을 자신만의 운동 루틴으로 소개했다.",
+      "지난 8일 코미디언 김숙(50)의 유튜브 채널에 출연한 라미란은 슬로우 조깅을 즐긴다고 밝혔다.",
+      "라미란은 김숙을 데리고 오전 8시부터 조깅을 하면서 하루 일과를 시작했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf74363e9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003667837",
+    "title": "'라면 마니아' 이다희가 살 안 찌는 비결…\"국물은 몇 입만\"",
+    "summary": [
+      "[서울=뉴시스]정우영 인턴 기자 = 배우 이다희가 라면을 즐기면서도 날씬한 몸매를 유지하는 반전 비결을 공개했다.",
+      "최근 이다희는 유튜브 채널 '핑계고'에 출연해 16시간 간헐적 단식을 실천하고 있다며 \"그냥 먹고 싶은 거, 당기는 거를 먹는다.",
+      "라면을 좋아해서 주로 먹는다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51caac51",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260611_0003665465",
+    "title": "\"비싼 건강검진이 되려 병 만든다?\"…대학병원 교수 지적한 '검진의 덫'",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 과도한 건강검진이 질병에 대한 공포를 조장한다는 지적이 나온 가운데, 현대인들이 '검사 가스라이팅'에서 벗어나 검사 결과표에 지나치게 연연하지 말아야 한다는 전문가의 제언이 나왔다.",
+      "50만명 구독자를 보유한 유튜브 건강·의학 채널 '김재원TV'에 최근 출연한 한림대학교 의과대학 류마티스 내과의 김현아 교수는 \"우리 사회 시스템이 불필요한 환자를 양산하고 있다\"며 강박적인 건강검진에서 자유로워져야 한다고 제언했."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf42ddb66",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "30분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/14/2026061305354536128",
+    "title": "'얼마나 고통스러웠으면' 오현규 \"극심한 스트레스 때문에...\" 체코전 도저히 못 뛸 뻔했다 [과달라하라 현장]",
+    "summary": [
+      "월드컵 본선 무대의 무게감은 상상 이상이었다.",
+      "평소 거침없고 대담한 플레이로 정평이 난 스트라이커 오현규(베식타시)마저 경기 직전 몸에 심각한 이상 증세가 나타날 정도로 정신적 압박감은 상당했다.",
+      "대한민국 축구 국가대표팀은 13일 오전(현지시간) 멕시코 과달라하라 사포판의 치바스 베르데 바예 훈련장에서 조별리그 2차전을 위한 회복 훈련을 진행했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n08aa7c40",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nb2e17b55",
     "category": "사회",
     "source": "동아일보",
-    "time": "5분 전",
+    "time": "54분 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260613/134105499/1",
     "title": "이란 외무부 “종전 MOU 서명, 내일은 아니지만 수일 내 가능”",
     "summary": [
@@ -378,26 +542,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n452bca8d",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668048",
-    "title": "부산서 13주년 맞은 방탄소년단, \"팀 어떻게 이렇게 같이 오래 하냐\"에 답하다",
-    "summary": [
-      "[부산=뉴시스]이재훈 기자 = 시간은 비가역적이다.",
-      "\"돌아오지 않을 6월13일 13주년\"이라는 리더 RM의 말처럼, 우리의 모든 순간은 단 한 번 폭발하고 영원히 산화한다.",
-      "그러나 사랑이라는 감정은 그 찰나의 소멸을 필사적으로 붙잡아 불멸의 기억으로 조각하려는 고단하고도 아름다운 저항이다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
     "id": "nca86a3e0",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
+    "time": "58분 전",
     "url": "https://www.yna.co.kr/view/AKR20260613052800085",
     "title": "영국 찰스 3세 공식 생일 행사에 왕실 총출동…해리는 빠져",
     "summary": [
@@ -408,73 +556,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4549c0d1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/06/13/GAYTKNJYGFSGMNRYGJSWEM3GMI/",
-    "title": "[SC현장] \"우린 한국인\" 방탄소년단, 집으로…11만 아미에 고백한 13년 진심(종합)",
+    "id": "n1eda7a22",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606122324g",
+    "title": "MBTI 다음은 사주 오행?…식음료계로 번진 '운세 마케팅' [트렌드+]",
     "summary": [
-      "[부산=스포츠조선 백지은 기자] 그룹 방탄소년단이 '집'으로 돌아왔다.",
-      "12일과 13일 양일간 부산 아시아드 주경기장에서 방탄소년단 월드투어 '아리랑' 부산 공연이 열렸다.",
-      "부산은 방탄소년단에게 있어 특별한 장소다."
+      "MBTI 다음은 사주 오행?…식음료계로 번진 '운세 마케팅' [트렌드+]."
     ],
     "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n6ec6188d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "32분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668073",
-    "title": "트럼프, '24시간 내 종전 타결' 파키스탄 발표 공유…이란 \"내일 아냐\"(종합)",
-    "summary": [
-      "[서울=뉴시스] 이재우 김승민 기자 = 미국과 이란이 종전 양해각서(MOU) 타결을 앞두고 막판 수싸움을 이어가는 가운데 중재국 파키스탄이 '24시간 내 타결'을 언급했다.",
-      "도널드 트럼프 미국 대통령도 파키스탄의 발표를 공유했지만 이란은 14일은 아니라고 선을 그었다.",
-      "셰바즈 샤리프 파키스탄 총리는 13일(현지 시간) 소셜미디어 엑스(X·구 트위터)에 \"그 어느 때보다 평화협정에 가까워져 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na691107a",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668072",
-    "title": "[올댓차이나] 中, 미국 알리바바·바이두·BYD 군사기업 지정 반발",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 중국 정부는 13일 미국 국방부가 자국 기업들을 '중국군 지원 기업' 명단에 추가한데 대해 강력히 반발하며 즉각 철회를 요구했다.",
-      "신화망과 중앙통신에 따르면 중국 상무부는 13일 대변인 명의 입장문에서 미국이 전자상거래 업체 알리바바(阿里巴巴)와 검색엔진 기업 바이두(百度), 전기차 메이커 비야디(比亞迪 BYD) 등을 중국군 지원 기업 명단에 포함한데 \"강한 불만과 단호한 반대\" 입장을 밝혔다."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "ne9c6eaf9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668063",
-    "title": "주말 BTS 공연 관련 112신고 26건 접수…절도 의심도",
-    "summary": [
-      "[부산=뉴시스]진민현 기자 = 방탄소년단(BTS) 공연이 열린 주말 부산에서는 관련 112 신고가 수십 건 접수됐다.",
-      "13일 부산경찰청에 따르면 이날 오전 9시~오후 9시 BTS 공연과 관련해 접수된 112 신고는 총 26건이다.",
-      "세부적으로 인파 혼잡 2건, 교통 불편 2건, 절도 의심 1건, 기타 21건이다."
-    ],
-    "chips": [
-      "#환경"
+      "#뉴스"
     ]
   },
   {
     "id": "na62f77f9",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "42분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260613041200005",
     "title": "BTS, 부산서 11만 아미와 13주년…\"여러분이 가장 큰 생일 선물\"",
     "summary": [
@@ -527,104 +626,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "naa33f964",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613052600108",
-    "title": "이란 \"종전 MOU 서명 14일은 아냐\"…막판 신경전",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 미국과 이란 간 종전 양해각서(MOU) 체결이 임박했다는 관측이 나오는 가운데 에스마일 바가이 이란 외무..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neb22e0b0",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026061345407",
-    "title": "\"아리랑~\" 부산서 울려 퍼진 '11만 떼창'…BTS·아미 뜨거운 '13주년의 밤' [리뷰]",
-    "summary": [
-      "\"아리랑~\" 부산서 울려 퍼진 '11만 떼창'…BTS·아미 뜨거운 '13주년의 밤' [리뷰]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n48a8a2e6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/13/G44WIMBTMQZDCZLDMZQWGYRZG4/",
-    "title": "김용임, ‘성형 전’ 박서진 걱정 “솔직히 촌스러워”..변천사 비주얼 공개",
-    "summary": [
-      "김용임, ‘성형 전’ 박서진 걱정 “솔직히 촌스러워”..변천사 비주얼 공개."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc1013d12",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613052200073",
-    "title": "日 후쿠시마 원전 오염수 방류, 이틀 만에 또 중단",
-    "summary": [
-      "(도쿄=연합뉴스) 이도연 특파원 = 일본 후쿠시마 제1원자력발전소의 오염수(일본 정부 명칭 '처리수') 방류가 중단됐다 재개된 지 이틀만인 13..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neb6f8b81",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026061345367",
-    "title": "美 독립기념일에 하메네이 장례…'종전 협상' 와중 묘한 일정",
-    "summary": [
-      "美 독립기념일에 하메네이 장례…'종전 협상' 와중 묘한 일정."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n08efeffa",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026061345327",
-    "title": "8년 만의 '월드컵 기록'…\"이강인, 차이를 만든 선수\" 극찬",
-    "summary": [
-      "8년 만의 '월드컵 기록'…\"이강인, 차이를 만든 선수\" 극찬."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n520153a8",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026061345287",
-    "title": "'아빠 어디가' 그 꼬마 맞아?…성동일 자녀 '놀라운 근황'",
-    "summary": [
-      "'아빠 어디가' 그 꼬마 맞아?…성동일 자녀 '놀라운 근황'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -644,9 +645,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
