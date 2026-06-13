@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-13 18:25:44
+// 마지막 업데이트: 2026-06-13 19:30:16
 window.NEWS_DB = [
+  {
+    "id": "nf5a2d52d",
+    "category": "경제",
+    "source": "VT Markets",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMUIxLTl1clZxWkZrU1MxREFBNWxsWkZ3d2NrcTBZMWV5R2dfS0NObmZGamRjWXBsZDNSZktwV3dqWVRxbEtGZlhERjVybEUwMHdTOWJuMFlyZ2VHS2VoSDdEZzBOVnBhQThKRktOVTBheDQ4alR2bFZfcGdtUmlVbTZfazRnUGU1bEw3ZEtNdW1ZWnI0ZFhWMXk5V2EzWFlENEQ3aFlCcm0xLWFQVGZIbkJuQXV2NjNJbDBndkd0dW9wWGY0WHNhTmpkZjlZaXFFYlR0N2VSUlhsd1BjbF9sbURLSVczQ2xpcElmUEhRX1V1d18xejZNNF80LVg4aUJwVHJ0LVNQelNYX3pxOHA0NkVQWnRHQ01oenVHLVhvY3NzOXk5R0d2bXpjMk5OUUdkWG5PVnhmY3VHRjdESHdDbmRPZm1wYWowOWlyWHkydXZYYTg?oc=5",
+    "title": "AI 칩 호재와 한국은행 금리 인상 기대에 코스피 급등…원화 강세",
+    "summary": [
+      "AI 칩 호재와 한국은행 금리 인상 기대에 코스피 급등…원화 강세 VT Markets."
+    ],
+    "chips": [
+      "#AI",
+      "#금리",
+      "#한은"
+    ]
+  },
   {
     "id": "ncf7e0ddb",
     "category": "IT",
     "source": "뉴시스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dDZGSi1QNWdzYmtWMjY0dnRxNmQzVEh2SFg3a0prZEZTekdpdzMtYjhSQ1BZVU1YRWhKX2dzenpZLVF3aTNEb0ZmVmc0ajBHMTdacm1NSC1TWHFwMTNBRdIBeEFVX3lxTE54SVhFSldWaTFfai1XWHZjaUd6M0czNzlfVnlIRTA0Yk1UeV90d3NZMzZEVy03c3E0dFlpM2RuUVg4d1J3bEVDdGczbnZIUXM5ZUZYVmxBc1VwOEN0SXQyaDZ5am92RFltdUFTNTg5WlpfYjkyb256Qg?oc=5",
     "title": "\"More HBM!\"의 의미…K반도체, 설계부터 참여 '슈퍼을' 도약[젠슨황 방한 4대 키워드②]",
     "summary": [
@@ -13,22 +29,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n71a254ee",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
-    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
-    "summary": [
-      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
-    ],
-    "chips": [
-      "#부동산",
-      "#금리",
-      "#환율"
     ]
   },
   {
@@ -108,23 +108,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31acb708",
-    "category": "사회",
-    "source": "아주경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
-    "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "na542b62c",
     "category": "IT",
     "source": "디일렉",
@@ -155,23 +138,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13b4af19",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
     "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
@@ -184,21 +150,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n70cb7884",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
-    "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -227,6 +178,37 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#전세"
+    ]
+  },
+  {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "summary": [
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -303,6 +285,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "225일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -333,10 +330,114 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n4b38e7c9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668098",
+    "title": "트럼프, SNS에 김정은과 정상회담 사진 공유…배경에 관심",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 대통령이 13일(현지시간) 김정은 북한 국무위원장과 제1차 북미정상회담 사진을 소셜미디어 트루스소셜에 공유했다.",
+      "트럼프 대통령은 이날 트루스소셜에 별다른 설명 없이 자신과 김 위원장이 함께 걷는 사진을 올렸다.",
+      "트럼프 대통령이 공유한 사진은 2018년 6월12일 싱가포르 센토사섬 카펠라호텔에서 1차 북미정상회담 직후 두 정상이 호텔 정원을 함께 산책하는 장면을 담고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndbe287ad",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614001800001",
+    "title": "피렌체 찾은 李대통령 \"르네상스의 고장\"…문화교류 활성화 당부",
+    "summary": [
+      "(로마=연합뉴스) 임형섭 고동욱 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 13일(현지시간) 이탈리아 북부 토스카나의 주도인 피렌체를 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne6ea16b5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614003000072",
+    "title": "멕시코 남부 게레로주서 규모 5.2 지진",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 멕시코 남부 게레로주에서 13일 낮 12시 20분(현지시각) 규모 5.2의 지진이 발생했다고 독일지구과학연구..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nde795e53",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260613_0003668032",
+    "title": "대구·경북 구름 많고 일부 소나기…아침 14도·한낮 31도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 일요일인 14일 대구와 경상북도는 구름 많은 가운데 소나기가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"경북서부내륙 일부 지역에 오후부터 저녁 사이 5~30㎜의 소나기가 오는 곳이 있겠다\"고 예보했다.",
+      "아침 최저기온은 14~19도(평년 13~19도), 낮 최고기온은 25~31도(평년 23~29도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f65d16a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614002800075",
+    "title": "\"새벽 4시부터 줄섰어요\"…LA 센추리시티에 올리브영 북미 2호점",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = \"안녕하세요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc219b675",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614002900071",
+    "title": "추억회상? 러브콜 염두?…트럼프, SNS에 북미정상회담 사진 올려",
+    "summary": [
+      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령이 13일(현지시간) 8년 전 이맘때 열렸던 김정은 북한 국무위원장과의 제1차 북..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n08962ff1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668096",
+    "title": "미 \"14일 화상 종전 합의\"…이란 \"14일 아냐. 트럼프 생일쇼 안 돼\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 미국과 이란이 오는 14일(현지시간) 중재국인 파키스탄·카타르와 함께 화상 회의를 열고 전쟁 종식을 위한 양해각서(MOU)에 서명할 것으로 보인다고 액시오스가 13일 미국 당국자와 중재국 소식통을 인용해 보도했다.",
+      "미국 당국자와 중재국 소식통들은 MOU 서명이 14일 화상 방식으로 이뤄질 것이라고 확인하면서 이는 동선과 일정 등 실무적인 이유 때문이라고 설명했다.",
+      "특히 미국 협상단을 이끄는 J.D."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n0fc9a3b7",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/baseball/2026/06/14/MMYGKMLFGA2TSMZXGZSGCMRSHE/",
     "title": "'대전 예수' 한화 복귀? 현실적으로 어렵다…그렇다면 메이저 부활 가능성은",
     "summary": [
@@ -349,24 +450,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2f3d5fcb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614001551071",
-    "title": "트럼프 \"이란과 합의 14일 서명…직후 모두에 호르무즈 개방\"(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령은 이란전쟁 종전 및 비핵화 등을 위한 이란과의 합의가 14일(미국 현지시간) 서..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nb9b04de8",
     "category": "사회",
     "source": "조선일보",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/national/people/2026/06/14/D5ADAIN7DNFZRD3RKIVDSDQMWA/",
     "title": "일본 최고 프렌치 요리사도 감탄한 ‘해병대’ 정신",
     "summary": [
@@ -380,7 +467,7 @@ window.NEWS_DB = [
     "id": "n5983c27f",
     "category": "사회",
     "source": "조선일보",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/national/national_general/2026/06/14/E3SJIKYMEBAVDPS73LUKHS56TE/",
     "title": "“2시간에 30환” 사직공원·장충단 풀장… 수영장에 깨벗고 달려들던 시절",
     "summary": [
@@ -394,7 +481,7 @@ window.NEWS_DB = [
     "id": "nafa3bbe7",
     "category": "사회",
     "source": "조선일보",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/economy/weeklybiz/2026/06/14/OFJSKJTOTVANDGGKY3K33RAOSA/",
     "title": "일 얘기는 천천히…5번 홀에서 15번 홀 사이에 꺼내라",
     "summary": [
@@ -408,7 +495,7 @@ window.NEWS_DB = [
     "id": "n497a214b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260613_0003667941",
     "title": "\"유통기한 지난 기름에 썩은 과일까지\"…시누이 택배 공세에 지친 여성",
     "summary": [
@@ -421,72 +508,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf4715826",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668093",
-    "title": "\"이란혁명수비대, '14일 종전 MOU 서명' 트럼프 주장 부인\" CNN",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 이란혁명수비대(IRGC)가 오는 14일(현지시간) 미국과 이란이 전쟁 종식을 위한 양해각서(MOU)에 서명할 예정이라는 도널드 트럼프 미국 대통령의 주장을 부인했다고 CNN이 13일 보도했다.",
-      "CNN에 따르면 이란혁명수비대는 이날 소셜미디어 텔레그램 계정에 \"양해각서가 아직 마무리되지 않았고 14일 서명은 절대 없을 것이라고 이란 측이 분명히 밝혔음에도 트럼프 대통령이 발표를 했다\"고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9c60d7cb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614002000085",
-    "title": "반이민 폭동 벌어졌던 북아일랜드서 인종차별 반대 시위",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 반(反)이민 폭동이 벌어졌던 영국 북아일랜드에서 13일(현지시간) 인종차별에 반대하는 시위가 열렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a52664a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "53분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668091",
-    "title": "이 대통령, 토스카나 주지사 면담…\"국제 사회에 큰 역할 기대\"",
-    "summary": [
-      "[로마=뉴시스] 김지은 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령은 13일(현지시간) 이탈리아 북부 토스카나주의 최대 도시 피렌체를 방문해 에우제니오 쟈니 토스카나 주지사를 면담하고, 재외동포의 편의와 안전에 각별한 관심을 가져줄 것을 당부했다고 강유정 청와대 수석대변인이 서면 브리핑에서 밝혔다.",
-      "이 대통령은 \"르네상스가 탄생하고 발전한 고장이자 세계적인 우피치 미술관을 보유한 토스카나가 2003년부터 피렌체 한국영화제를 통해 한국영화의."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4e60af99",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "57분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614002100071",
-    "title": "[속보] 트럼프 \"모든게 안정된 적절한때 이란의 고농축우라늄 제거\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na5048ca9",
-    "category": "사회",
-    "source": "뉴시스",
+    "id": "n2b5c4744",
+    "category": "경제",
+    "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668089",
-    "title": "이란 외무부 \"종전 MOU 서명, 내일은 아니지만 수일 내 가능\"(종합)",
+    "url": "https://www.hankyung.com/article/202606144566i",
+    "title": "호르무즈 비용징수 명시적 반대 안한 트럼프... 핵물질 이란 파괴 가능성 언급",
     "summary": [
-      "[서울=뉴시스] 이재우 기자 = 에스마일 바가이 이란 외무부 대변인은 13일(현지시간) 미국과 전쟁 종식 양해각서(MOU) 서명 시점과 관련해 \"당장 내일은 아니겠지만 앞으로 며칠 안에 이 일이 일어날 가능성을 배제할 수는 없다\"고 밝혔다.",
-      "이란 관영 IRNA통신과 반관영 타스님통신 등에 따르면 바가이 대변인은 이날 기자회견에서 \"정확한 서명 시점은 더 지켜봐야 한다\"며 이같이 답했다.",
-      "바가이 대변인은 \"현 단계에서는 레바논을 포함한 모든 전선."
+      "호르무즈 비용징수 명시적 반대 안한 트럼프... 핵물질 이란 파괴 가능성 언급."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na813fdfd",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/202606144561i",
+    "title": "美-이란, 14일 중 '전자서명' 방식으로 60일 휴전할 듯 [이상은의 워싱턴나우]",
+    "summary": [
+      "美-이란, 14일 중 '전자서명' 방식으로 60일 휴전할 듯 [이상은의 워싱턴나우]."
     ],
     "chips": [
       "#뉴스"
@@ -496,7 +539,7 @@ window.NEWS_DB = [
     "id": "nacafc402",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260614/134105550/1",
     "title": "[속보]트럼프 “이란과 14일 합의 서명”…혁명수비대 “절대 없을 것”",
     "summary": [
@@ -509,24 +552,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfe34c93b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614001500071",
-    "title": "트럼프 \"이란과 합의 14일에 서명…서명직후 호르무즈 개방\"",
+    "id": "n4502edcf",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/202606144560i",
+    "title": "[속보] 파키스탄 \"美-이란, 24시간 내 서명\"",
     "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령은 이란전쟁 종전 및 비핵화 등을 위한 이란과의 합의가 14일(미국 현지시간) 서..."
+      "[속보] 파키스탄 \"美-이란, 24시간 내 서명\"."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
     "id": "nb58a4e64",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260614/134105547/1",
     "title": "[속보] 트럼프 “이란과 14일 합의안 서명 예정”",
     "summary": [
@@ -540,7 +583,7 @@ window.NEWS_DB = [
     "id": "nacae6a1a",
     "category": "경제",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152594",
     "title": "스페이스X 대박 상장 날, 미래에셋은 빈손…4700억 물량도 결국 0주, 이유는",
     "summary": [
@@ -556,7 +599,7 @@ window.NEWS_DB = [
     "id": "n8032b0b9",
     "category": "경제",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152592",
     "title": "美 정부, 출시 나흘 만에 미토스 봉쇄...앤트로픽 \"지침 따르지만 동의 못해\"",
     "summary": [
@@ -568,61 +611,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1eda7a22",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/202606122324g",
-    "title": "MBTI 다음은 사주 오행?…식음료계로 번진 '운세 마케팅' [트렌드+]",
-    "summary": [
-      "MBTI 다음은 사주 오행?…식음료계로 번진 '운세 마케팅' [트렌드+]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb3222659",
+    "id": "nb2e17b55",
     "category": "사회",
     "source": "동아일보",
     "time": "4시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260613/134105472/1",
-    "title": "스테이씨, 신보 하이라이트 메들리 공개…청량한 서머송 예고",
+    "url": "https://www.donga.com/news/Inter/article/all/20260613/134105499/1",
+    "title": "이란 외무부 “종전 MOU 서명, 내일은 아니지만 수일 내 가능”",
     "summary": [
-      "그룹 스테이씨(STAYC)가 새 싱글의 전곡 음원 일부를 선공개하며 청량한 여름송 탄생을 예고했다.스테이씨는 지난 12일 공식 채널을 통해 오는 16일 발매되는 여섯 번째 싱글 ‘투 러브’(2:LOVE)의 하이라이트 메들리 영상을 게재했다.공개된 영상은 타이틀곡 ‘투 러브’를 비롯해 총 4개 트랙의 음원 일부를 담아내며 발매를 기다려온 글로벌 팬들의 귀를 사로잡았다.",
-      "특히 이번 영상은 ‘웬 위 러브’(WHEN WE LOVE)라는 콘셉트 아래 스."
+      "에스마일 바가이 이란 외무부 대변인은 13일(현지시간) 미국과 전쟁 종식 양해각서(MOU) 서명 시점과 관련해 “당장 내일은 아니겠지만 앞으로 며칠 안에 이 일이 일어날 가능성을 배제할 수는 없다”고 밝혔다.이란 관영 IRNA통신에 따르면 바가이 대변인은 이날 기자회견에서 “정확한 서명 시점은 더 지켜봐야 한다”며 이같이 답했다.바가이 대변인은 “현 단계에서는 레바논을 포함한 모든 전선에서 전쟁을 끝내는 데 초점을 맞추고 있으며 핵 문제에 대해."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "neb22e0b0",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/2026061345407",
-    "title": "\"아리랑~\" 부산서 울려 퍼진 '11만 떼창'…BTS·아미 뜨거운 '13주년의 밤' [리뷰]",
-    "summary": [
-      "\"아리랑~\" 부산서 울려 퍼진 '11만 떼창'…BTS·아미 뜨거운 '13주년의 밤' [리뷰]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c1f1add",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "5시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260613201028",
-    "title": "앤트로픽, 미국 정부 지침에 '페이블 5' 서비스 전면 중단",
-    "summary": [
-      "[지디넷코리아]미국 행정부가 앤트로픽(Anthropic)의 최상위 인공지능(AI) 모델인 '페이블5(Fable 5)'와 '미토스5(Mythos 5)'에 대해 외국인의 접근을 전면 금지했다.13일(한국시간) 앤트로픽은 공식 웹사이트를 통해 미국 정부로부터 수출통제 지침을 받았다고 밝혔다.앤트로픽에 따르면 해당 지침은 미국 내외를 막론하고 앤트로픽 직원까지 포함한 모든 외국 국적자의 페이블5 및 미토스5 접근을 전면 차단하라는 내용이다."
-    ],
-    "chips": [
-      "#AI",
-      "#수출"
     ]
   }
 ];
@@ -632,20 +631,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "KBO",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
