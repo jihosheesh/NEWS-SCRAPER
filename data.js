@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-13 16:27:59
+// 마지막 업데이트: 2026-06-13 17:29:27
 window.NEWS_DB = [
   {
     "id": "ncf7e0ddb",
     "category": "IT",
     "source": "뉴시스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dDZGSi1QNWdzYmtWMjY0dnRxNmQzVEh2SFg3a0prZEZTekdpdzMtYjhSQ1BZVU1YRWhKX2dzenpZLVF3aTNEb0ZmVmc0ajBHMTdacm1NSC1TWHFwMTNBRdIBeEFVX3lxTE54SVhFSldWaTFfai1XWHZjaUd6M0czNzlfVnlIRTA0Yk1UeV90d3NZMzZEVy03c3E0dFlpM2RuUVg4d1J3bEVDdGczbnZIUXM5ZUZYVmxBc1VwOEN0SXQyaDZ5am92RFltdUFTNTg5WlpfYjkyb256Qg?oc=5",
     "title": "\"More HBM!\"의 의미…K반도체, 설계부터 참여 '슈퍼을' 도약[젠슨황 방한 4대 키워드②]",
     "summary": [
@@ -16,18 +16,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n71a254ee",
+    "id": "n248fc719",
     "category": "경제",
-    "source": "뉴시스",
+    "source": "마켓인",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
-    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTEMySTZHNHRyTUpaMEJXaUpSUVlJalZqUDdYVndqdUtFeklISm9rSzVLYUhQRzZobmI4T2pQZ0dtMnl2YjlNUV9XTFFHLVBzNVc0bGNBVUJTTGxJcTFsTmVxWUJzc3ZfaC12dmFaQjNfVWM?oc=5",
+    "title": "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망”",
     "summary": [
-      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
+      "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망” 마켓인."
     ],
     "chips": [
-      "#부동산",
-      "#금리",
       "#환율"
     ]
   },
@@ -108,23 +106,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31acb708",
-    "category": "사회",
-    "source": "아주경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
-    "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "na542b62c",
     "category": "IT",
     "source": "디일렉",
@@ -152,23 +133,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n13b4af19",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
     ]
   },
   {
@@ -226,6 +190,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "summary": [
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
       "#고용"
     ]
   },
@@ -303,6 +283,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "225일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -333,10 +328,173 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf1e409ce",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/14/6Q3LUJGXVREVHIIPUVQLZ3LJME/",
+    "title": "트럼프 “이란과 내일 합의 서명 예정…호르무즈 해협 즉시 개방”",
+    "summary": [
+      "트럼프 “이란과 내일 합의 서명 예정…호르무즈 해협 즉시 개방”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6682bf91",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/14/MI4TKMZYGYZGEZRUG5RTEZTDMY/",
+    "title": "3주 만에 건강하게 돌아왔다...이대호 후계자, 2루타 한 방 \"다음 주 1군 올라온다\"",
+    "summary": [
+      "[OSEN=한용섭 기자] 프로야구 롯데 자이언츠 한동희가 3주 만에 부상에서 복귀, 퓨처스리그에서 재활 경기에 출장했다.",
+      "한동희는 13일 문경구장에서 열린 2026 퓨처스리그 상무와 경기에 3번 지명타자로 출장, 4타수 1안타를 기록했다.",
+      "한동희는 5월 21일 한화전에서 4타수 2안타를 기록한 후 복사근 부상으로 이탈했다."
+    ],
+    "chips": [
+      "#KBO",
+      "#의료"
+    ]
+  },
+  {
+    "id": "na5048ca9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668089",
+    "title": "이란 외무부 \"종전 MOU 서명, 내일은 아니지만 수일 내 가능\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 에스마일 바가이 이란 외무부 대변인은 13일(현지시간) 미국과 전쟁 종식 양해각서(MOU) 서명 시점과 관련해 \"당장 내일은 아니겠지만 앞으로 며칠 안에 이 일이 일어날 가능성을 배제할 수는 없다\"고 밝혔다.",
+      "이란 관영 IRNA통신과 반관영 타스님통신 등에 따르면 바가이 대변인은 이날 기자회견에서 \"정확한 서명 시점은 더 지켜봐야 한다\"며 이같이 답했다.",
+      "바가이 대변인은 \"현 단계에서는 레바논을 포함한 모든 전선."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nacafc402",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260614/134105550/1",
+    "title": "[속보]트럼프 “이란과 14일 합의안 서명…호르무즈 전면 개방“",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 14일 이란과의 합의안에 서명할 예정이라고 밝혔다.",
+      "서명 직후에는 호르무즈 해협이 완전히 개방될 것이라고 덧붙였다.",
+      "다만 이에 대한 이란의 입장은 아직 나오지 않았다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3713fd71",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/14/GMYTIYLDMVTDKMJWGAYTSZJSHE/",
+    "title": "3년전 '해줘' 했던 곽빈 → \"이젠 내가 해줄게\"",
+    "summary": [
+      "[스포츠조선 한동훈 기자] \"지난 대회에 동료들의 도움을 받았다.",
+      "이번에는 내 능력이 되는 데까지 정말 최선을 다해 던지고 싶다.\" 두산 베어스 곽빈(27)이 국가대표 1선발 중책을 맡은 각오를 전했다.",
+      "류지현 야구대표팀 감독은 오는 9월 열리는 2026 아이치·나고야 아시안게임에서 곽빈에게 에이스 역할을 기대한다고 밝혔다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n348f29e4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668088",
+    "title": "트럼프 \"종전 MOU, 14일 서명 예정…즉시 호르무즈 개방\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 대통령은 오는 14일(현지시간) 미국과 이란간 전쟁 종식 양해각서(MOU)가 체결될 것이라고 13일 예고했다.",
+      "트럼프 대통령은 이날 소셜미디어 트루스소셜에 \"바락 후세인 오바마 전 대통령의 이란과 합의인 '포괄적 공동행동계획(JCPOA)'는 이란이 핵무기를 갖게 되는 쉽고 아름답고 매끄러운 길이었다\"며 \"그 합의가 계속됐으면 이란은 6년 전에 이미 핵무기를 가졌을 것이고 지금보다 훨씬 이전에."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfe34c93b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614001500071",
+    "title": "트럼프 \"이란과 합의 14일에 서명…서명직후 호르무즈 개방\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령은 이란전쟁 종전 및 비핵화 등을 위한 이란과의 합의가 14일(미국 현지시간) 서..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8d0f92a8",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614001300091",
+    "title": "美 州법무장관들, 오픈AI 조사 착수…자료제출 요구",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 챗GPT 개발사 오픈AI가 미국 주(州) 정부 법무장관들의 조사에 직면했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nb58a4e64",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260614/134105547/1",
+    "title": "[속보] 트럼프 “이란과 14일 합의안 서명 예정”",
+    "summary": [
+      "[속보] 트럼프 “이란과 14일 합의안 서명 예정”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nef68bd39",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668085",
+    "title": "트럼프, G7 정상회의서 호르무즈 기뢰 제거 등 이란戰 종식 논의",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 대통령이 오는 15~17일 프랑스에서 열리는 주요 7개국(G7) 정상회의에서 호르무즈 해협 기뢰 제거 등 이란 전쟁 수습 방안을 논의할 것으로 보인다.",
+      "AP통신 등에 따르면 미국 고위 당국자는 이날 언론 브리핑에서 \"트럼프 대통령이 15일 개막하는 G7 정상회의를 계기로 이집트·카타르·아랍에미리트(UAE) 정상들과 별도 회담을 열어 이란 전쟁의 수습·종식을 논의할 예정\"이라고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nac834210",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614001100071",
+    "title": "[속보] 트럼프 \"이란과 합의 14일에 서명 예정\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nacae6a1a",
     "category": "경제",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "54분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152594",
     "title": "스페이스X 대박 상장 날, 미래에셋은 빈손…4700억 물량도 결국 0주, 이유는",
     "summary": [
@@ -349,167 +507,38 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne431c1f9",
+    "id": "nc899de8d",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668082",
-    "title": "이스라엘, 美·이란 종전 임박 신호에도 레바논 공습 지속",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 이스라엘이 13일(현지시간) 레바논 남부 나바티예시 등 20개 지역에 대피 명령을 내린 뒤 공습을 감행했다고 레바논 국영 NNA통신이 전했다.",
-      "NNA에 따르면 이스라엘군이 이날 남부 나바티예시와 인근 마을들을 포함해 20개 지역 주민들에게 대피 경고를 발령했다.",
-      "나바티예시는 레바논 남부 해안과 내륙을 잇는 교통 거점도시로, 시아파 인구 비율이 높아 헤즈볼라 주요 기반으로 꼽힌다고 타임스오브이스라엘은 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne9e4d010",
-    "category": "스포츠",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/14/HA4TQZJRGM4GENRYMRSWMNRSMU/",
-    "title": "\"질 수도 있다\" 네덜란드 레전드들의 우려. F조 1차전 상대 日 대표팀 극찬 \"우리 작은 실수, 실점으로 이어진다\"",
+    "time": "56분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/14/OKQLH5TDJNCEDMFNBOTDKET2H4/",
+    "title": "美 “핵 해체” vs 이란 “핵협상은 나중”…종전 MOU 곳곳 엇갈려",
     "summary": [
-      "[스포츠조선 류동혁 기자] '질 수도 있을 것 같은데' 네덜란드 레전드들의 우려다.",
-      "일본 대표팀에 대한 극찬이기도 하다.",
-      "네덜란드와 일본은 2026년 북중미월드컵 조별 예선 F조에 속해 있다."
+      "美 “핵 해체” vs 이란 “핵협상은 나중”…종전 MOU 곳곳 엇갈려."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc8665fec",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003667992",
-    "title": "이 대통령, 伊우피치 관람…유홍준 \"보티첼리 걸작, 韓 소개 희망\"",
-    "summary": [
-      "[로마·서울=뉴시스]이인준 김지은 기자 = 이탈리아를 국빈 방문 중인 이재명 대통령이 13일(현지시간) 양국 대표 문화시설간 양해각서(MOU) 체결을 계기로 피렌체 우피치미술관을 찾았다.",
-      "이 대통령은 이날 유홍준 국립중앙박물관장, 시모네 베르데 우피치미술관장 등과 함께 우피치미술관 2층 전시장을 돌아보며 대표 소장품들을 둘러봤다.",
-      "우피치미술관은 조토의 '오니산티 마돈나', 보티첼리의 '비너스의 탄생, 레오나르도 다빈치의 '수태고지' 등을 비롯한."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2c15eb18",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/14/GM3DCNBXGYZTCNDDGFRTMZJQMU/",
-    "title": "'베르나르두 실바로 충분하다' HERE WE GO 속보, 레알 마드리드, 맨체스터 시티 '중원 사령관' 로드리 영입 없다..일부에선 '전성기 폼이 안 나온다'",
-    "summary": [
-      "[스포츠조선 노주환 기자]스페인 거함 레알 마드리드가 이번 여름 이적시장에서 미드필더 로드리(맨체스터 시티) 영입을 진행하지 않기로 했다고 한다.",
-      "구단 내부적으로 로드리 영입을 접었다는 것이다.",
-      "유럽 축구 이적 전문가 파브리지오 로마노는 13일(한국시각) 자신의 SNS를 통해 '레알 마드리드는 이번 여름에 로드리 영입을 더이상 진행하지 않는다'고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6a67f643",
+    "id": "n7c768fa8",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614000700071",
-    "title": "트럼프, G7 정상회의서 호르무즈 기뢰 제거 동참 요구할 듯",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614000800001",
+    "title": "靑, 한-EU 성명 北반발에 \"긴 안목으로 평화공존 정책 추진\"",
     "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령은 오는 15일(현지시간)부터 17일까지 프랑스 남서부 휴양지 에비앙레뱅에서 열리..."
+      "(로마=연합뉴스) 임형섭 고동욱 기자 = 청와대는 14일 한국과 유럽연합(EU)이 정상회의에서 채택한 공동성명에 북한이 반발한 것과 관련해 \"정..."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n27850450",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/14/HAZDINBSMI3WKOJXMNRGGYRYMQ/",
-    "title": "'한화에서 인생 역전' 충격적 방출 대기, 그런데 타팀 이적 가능성 낮다. 왜?",
-    "summary": [
-      "[스포츠조선 나유리 기자]한화 이글스에서 야구 인생 대역전.",
-      "생애 첫 메이저리그 마운드까지 밟았지만, 첫해에 큰 시련이 찾아왔다.",
-      "그런데 타팀 이적 가능성은 낮아보인다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n76a2ccd2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/14/GMZWIN3FGNTDIMDBGE4TOZTCGE/",
-    "title": "'미쳤다. 161km 실화인가' LG 대체 외인, 문동주 다음 역대 2위...동료도 깜짝 놀랐다 \"잠실에서 161km 처음 봤다\" [오!쎈 잠실]",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스 외국인 투수 약셀 리오스가 최고 161km 강속구를 뿌렸다.",
-      "리오스는 13일 잠실구장에서 열린 롯데와 경기에 구원 투수로 등판해 2이닝 무피안타 2탈삼진 무실점으로 호투했다.",
-      "리오스는 5-2로 앞선 6회 마운드에 올랐다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n57c6750e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614000300085",
-    "title": "'국방 의지 없다' 직격탄 맞은 스타머…국방장관 사임 후폭풍",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 리더십 위기에 빠진 키어 스타머 영국 총리가 이번에는 든든한 조력자였던 국방장관 사임 후폭풍에 직면했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b2aade2",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666811",
-    "title": "\"예뻐질래요\" 양악수술 신경손상…AI가 미리 차단",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 아래턱 치아와 아랫입술의 감각을 담당하는 하치조신경은 가늘고 길게 휘어져 있으며 사람마다 위치와 모양이 다르다.",
-      "사랑니를 발치하거나 임틀란트, 양악수술 등을 시행할 때 하치조신경을 정확하게 확인하지 않아 손상될 경우 감각이 둔해지는 등 심각한 후유증이 생길 수 있다.",
-      "하치조신경은 보통 의료진이 영상을 통해 확인하는데, 경계가 뚜렷하지 않을 경우 정확한 확인이 어렵고 시간도 오래 걸린다는 한계가 있었다."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n3e2d53bd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667174",
-    "title": "부산시 \"위탁가정 다자녀 혜택, 광안대교 통행료 감면\"",
-    "summary": [
-      "[부산=뉴시스]원동화 기자 = 부산시가 전국 최초로 위탁가정에 다자녀가정 지원 자격을 인정하고 광안대교 통행료 감면 혜택을 부여하는 제도 마련에 나섰다.",
-      "14일 부산시의회에 따르면 서지연 의원이 대표 발의한 '부산시 다자녀가정 우대 및 지원에 관한 조례 일부개정조례안'과 '부산시 유료도로 통행료 징수 등에 관한 조례 일부개정조례안'이 제336회 정례회에서 각각 복지환경위원회와 건설교통위원회 심사를 통과했다.",
-      "개정안은 아동복지법에 따라 보호대상아."
-    ],
-    "chips": [
-      "#환경"
+      "#정책"
     ]
   },
   {
     "id": "n8032b0b9",
     "category": "경제",
     "source": "테크M",
-    "time": "32분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152592",
     "title": "美 정부, 출시 나흘 만에 미토스 봉쇄...앤트로픽 \"지침 따르지만 동의 못해\"",
     "summary": [
@@ -521,53 +550,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n83ffcfdb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613052651108",
-    "title": "이란 \"종전 MOU 서명 14일은 아냐\"…막판 신경전(종합)",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 미국과 이란 간 종전 양해각서(MOU) 체결이 임박했다는 관측이 나오는 가운데 에스마일 바가이 이란 외무..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n08aa7c40",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb2e17b55",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260613/134105499/1",
-    "title": "이란 외무부 “종전 MOU 서명, 내일은 아니지만 수일 내 가능”",
-    "summary": [
-      "에스마일 바가이 이란 외무부 대변인은 13일(현지시간) 미국과 전쟁 종식 양해각서(MOU) 서명 시점과 관련해 “당장 내일은 아니겠지만 앞으로 며칠 안에 이 일이 일어날 가능성을 배제할 수는 없다”고 밝혔다.이란 관영 IRNA통신에 따르면 바가이 대변인은 이날 기자회견에서 “정확한 서명 시점은 더 지켜봐야 한다”며 이같이 답했다.바가이 대변인은 “현 단계에서는 레바논을 포함한 모든 전선에서 전쟁을 끝내는 데 초점을 맞추고 있으며 핵 문제에 대해."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n1eda7a22",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202606122324g",
     "title": "MBTI 다음은 사주 오행?…식음료계로 번진 '운세 마케팅' [트렌드+]",
     "summary": [
@@ -581,7 +567,7 @@ window.NEWS_DB = [
     "id": "nb3222659",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260613/134105472/1",
     "title": "스테이씨, 신보 하이라이트 메들리 공개…청량한 서머송 예고",
     "summary": [
@@ -593,43 +579,43 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n51151f88",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260613/134105469/1",
-    "title": "씨름 김무호, 4대 민속 메이저대회 커리어 ‘그랜드슬램’",
-    "summary": [
-      "김무호(울주군청)가 커리어 그랜드슬램을 달성했다.김무호는 13일 충청북도 보은군 보은국민체육센터에서 열린 송영천(영암군민속씨름단)과의 위더스제약 2026 보은단오장사씨름대회 한라장사 결정전(5판 3선승제)에서 3-0 완승을 거뒀다.대한씨름협회에 따르면 김무호는 이번 우승으로 4대 민속(설날·단오·추석·천하장사) 커리어 그랜드 슬램을 달성한 데 이어, 4개 대회(설날·평창·단양·보은단오) 연속 장사에 오르며 올 시즌 4관왕에 등극했다.개인 통산."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4e3c8f46",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260613/134105466/1",
-    "title": "‘소라와 진경’ 이소라·홍진경, 보그 프랑스 장식…무려 1400만 뷰",
-    "summary": [
-      "MBC ‘소라와 진경’에서 이소라와 홍진경이 누적 조회수 1400만 뷰를 기록한 파리 런웨이의 전 과정을 공개하며 여정을 마무리한다.오는 14일 방송되는 MBC 예능 프로그램 ‘소라와 진경’ 최종회에서는 국내외 온라인에서 큰 화제를 모았던 파리 패션위크 현장의 비하인드 스토리가 베일을 벗는다.",
-      "앞서 현지 패션쇼 직후 사회관계망서비스(SNS)를 통해 공개된 두 사람의 무대 영상은 누적 조회수 1400만 회를 돌파했으며, 세계적인 패션 매거진 ‘보."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "neb22e0b0",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026061345407",
     "title": "\"아리랑~\" 부산서 울려 퍼진 '11만 떼창'…BTS·아미 뜨거운 '13주년의 밤' [리뷰]",
     "summary": [
       "\"아리랑~\" 부산서 울려 퍼진 '11만 떼창'…BTS·아미 뜨거운 '13주년의 밤' [리뷰]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9c1f1add",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "4시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260613201028",
+    "title": "앤트로픽, 미국 정부 지침에 '페이블 5' 서비스 전면 중단",
+    "summary": [
+      "[지디넷코리아]미국 행정부가 앤트로픽(Anthropic)의 최상위 인공지능(AI) 모델인 '페이블5(Fable 5)'와 '미토스5(Mythos 5)'에 대해 외국인의 접근을 전면 금지했다.13일(한국시간) 앤트로픽은 공식 웹사이트를 통해 미국 정부로부터 수출통제 지침을 받았다고 밝혔다.앤트로픽에 따르면 해당 지침은 미국 내외를 막론하고 앤트로픽 직원까지 포함한 모든 외국 국적자의 페이블5 및 미토스5 접근을 전면 차단하라는 내용이다."
+    ],
+    "chips": [
+      "#AI",
+      "#수출"
+    ]
+  },
+  {
+    "id": "neb6f8b81",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "4시간 전",
+    "url": "https://www.hankyung.com/article/2026061345367",
+    "title": "美 독립기념일에 하메네이 장례…'종전 협상' 와중 묘한 일정",
+    "summary": [
+      "美 독립기념일에 하메네이 장례…'종전 협상' 와중 묘한 일정."
     ],
     "chips": [
       "#뉴스"
@@ -642,8 +628,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
