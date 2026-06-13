@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-13 11:35:34
+// 마지막 업데이트: 2026-06-13 12:34:45
 window.NEWS_DB = [
   {
     "id": "ncf7e0ddb",
     "category": "IT",
     "source": "뉴시스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dDZGSi1QNWdzYmtWMjY0dnRxNmQzVEh2SFg3a0prZEZTekdpdzMtYjhSQ1BZVU1YRWhKX2dzenpZLVF3aTNEb0ZmVmc0ajBHMTdacm1NSC1TWHFwMTNBRdIBeEFVX3lxTE54SVhFSldWaTFfai1XWHZjaUd6M0czNzlfVnlIRTA0Yk1UeV90d3NZMzZEVy03c3E0dFlpM2RuUVg4d1J3bEVDdGczbnZIUXM5ZUZYVmxBc1VwOEN0SXQyaDZ5am92RFltdUFTNTg5WlpfYjkyb256Qg?oc=5",
     "title": "\"More HBM!\"의 의미…K반도체, 설계부터 참여 '슈퍼을' 도약[젠슨황 방한 4대 키워드②]",
     "summary": [
@@ -97,7 +97,7 @@ window.NEWS_DB = [
     "id": "n12ca2e79",
     "category": "스포츠",
     "source": "네이트",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
     "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
     "summary": [
@@ -105,6 +105,23 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "summary": [
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -135,6 +152,23 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n13b4af19",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
     ]
   },
   {
@@ -192,22 +226,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n02951820",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "24일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
-    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
-    "summary": [
-      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
       "#고용"
     ]
   },
@@ -285,21 +303,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "내 손안에 서울",
-    "time": "225일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
-    "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
@@ -361,278 +364,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5cc3f6c4",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026061320344069885",
-    "title": "[내일 날씨]서쪽 지역에 천둥·번개 동반 소나기…\"우산 챙기세요\"",
-    "summary": [
-      "일요일인 14일은 서쪽지역을 중심으로 천둥과 번개를 동반한 소나기가 내리겠다.",
-      "기상청에 따르면 강원 영동을 제외한 중부지방과 전북, 전남권 북부, 경북 내륙 등에 돌풍·천둥·번개를 동반한 소나기가 예보된 가운데 일부 지역은 우박이 떨어지는 곳도 있겠다.",
-      "소나기는 오후부터 저녁까지 중부지방과 전북·전남북부, 서부내륙에 내릴 것으로 예보됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfe21e403",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612165751007",
-    "title": "[프로야구 수원전적] kt 11-9 NC",
-    "summary": [
-      "[프로야구 수원전적] kt 11-9 NC."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ndbc991c3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613050400084",
-    "title": "파키스탄 총리 \"미·이란 24시간 내 최종 합의…전자서명 준비\"",
-    "summary": [
-      "(하노이=연합뉴스) 박진형 특파원 = 미국과 이란 간 종전 협상 중재역을 맡은 파키스탄의 셰바즈 샤리프 총리는 13일(현지시간) \"향후 24시간..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb878009e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613050500527",
-    "title": "경남 합천 오존주의보 해제",
-    "summary": [
-      "(창원=연합뉴스) 경남 합천에 내려진 오존주의보가 13일 오후 8시 해제됐다고 환경부 한국환경공단이 전했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nb8091dad",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260613/134105380/2",
-    "title": "“왜 직장동료랑 외박을” 흉기로 여친 협박-자해 20대 집유",
-    "summary": [
-      "연인이 직장 동료들과 외박했다는 이유로 흉기로 협박하고 수십 차례 전화를 하는 등 스토킹한 20대 남성이 징역형의 집행유예를 선고받았다.",
-      "춘천지법 형사1단독 정종건 부장판사는 특수협박, 재물손괴, 스토킹범죄의 처벌 등에 관한 법률 위반 혐의로 기소된 20대 남성에게 징역 1년에 집행유예 2년을 선고했다고 13일 밝혔다.아울러 이 남성에게 보호관찰과 함께 40시간의 스토킹 재범 예방 강의 수강 및 80시간의 사회봉사를 명령했다.남성은 지난해 7월."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd42c3720",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/13/HA2GGN3CGIYGGYRVGE3GEOBQHE/",
-    "title": "허경민 4안타 폭발! KT, 난타전 끝에 웃었다…위닝 시리즈 확보 [수원 리뷰]",
-    "summary": [
-      "[OSEN=손찬익 기자] 이강철 감독이 이끄는 KT 위즈가 난타전 끝에 웃었다.",
-      "KT는 13일 수원KT위즈파크에서 열린 프로야구 NC 다이노스와의 홈경기에서 11-9로 승리했다.",
-      "이로써 NC를 이틀 연속 제압하며 위닝 시리즈를 확보했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne2fc72d9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668009",
-    "title": "이민우, 스태미너 집착 \"여전한 2세 욕심\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 가수 이민우 부부가 달콤한 신혼여행 중 갈등에 직면한다.",
-      "13일 오후 9시20분 방송되는 KBS 2TV 가족 예능물 '살림하는 남자들 시즌2'(이하 '살림남')에서는 결혼 두 달 만에 대만 펑후섬으로 뒤늦은 신혼여행을 떠난 이민우 부부의 두 번째 이야기가 그려진다.",
-      "지난 방송에서 신혼여행 첫날밤을 위해 스태미너 음식에 집착하며 남다른 의지를 드러냈던 이민우는 이날도 여전한 2세 열정을 보인다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2dbb8e93",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/13/HA3GINTEHBRDQNRVMI3TAZDFGE/",
-    "title": "'정경호와 결별' 수영, 마라톤 뛰더니 효리수 열일..태티서 비교에 '발끈'('놀뭐')",
-    "summary": [
-      "[OSEN=선미경 기자] 배우 정경호와 14년 열애를 끝낸 그룹 소녀시대 멤버 수영이 효리수 활동에 박차를 가한다.",
-      "13일 오후에 방송된 MBC 예능프로그램 ‘놀면 뭐하니?’ 말미에는 효리수(효연, 유리, 수영)의 출연이 예고돼 눈길을 끌었다.이날 방송 말미에는 오는 20일 방송되는 ‘놀면 뭐하니?’ 예고편이 공개됐다.",
-      "숏폼 드라마를 기획하던 유재석은 “O."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na5c400f4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260613050200052",
-    "title": "울산 제전항서 따개비 채취통 건지려던 60대 물에 빠져 숨져",
-    "summary": [
-      "(울산=연합뉴스) 이준영 기자 = 13일 오후 2시 10분께 울산시 북구 제전항 해상에서 사람이 물에 빠졌다는 신고가 접수됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0190ae79",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668040",
-    "title": "LG 새 외인 리오스, 롯데전 시속 160.8㎞ '쾅'…올 시즌 최고 구속",
-    "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 LG 트윈스의 새 외국인 투수 약셀 리오스가 올 시즌 KBO리그 최고 구속을 기록했다.",
-      "리오스는 13일 잠실구장에서 펼쳐진 2026 신한 쏠 KBO리그 롯데 자이언츠와의 경기에서 시속 160㎞가 넘는 강속구를 선보였다.",
-      "LG가 5-2로 앞선 6회초 마운드에 오른 리오스는 선두타자 빅터 레이예스를 좌익수 플라이로, 나승엽을 2루수 뜬공으로 처리헀다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5192a452",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260613/134105375/1",
-    "title": "李 “與, 방해 뚫고 국민 먹고사는 문제 해결해야…구호 말고 실행 집중하라”",
-    "summary": [
-      "이재명 대통령은 13일(현지시간) “여당(與黨)의 열정은 ‘우리 진영’이 아니라 ‘국민 전체’를 향해야 한다”고 밝혔다.이탈리아 국빈 방문 중인 이 대통령은 이날 엑스(X)에 더불어민주당을 향해 “여당의 사전적 의미는 더불어 함께 하는 무리”라며 이같이 말했다.이 대통령은 “여당은 국가의 미래와 온 국민의 삶을 통째로 책임져야 하며, 결과로 증명된 성과를 통해 재집권을 추구해야 한다”고 했다.",
-      "여당의 ‘책임’도 강조했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "naf39def7",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668034",
-    "title": "'네일 쾌투' KIA, 두산 2-1로 꺾고 3연패 탈출…단독 4위로",
-    "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 KIA 타이거즈가 두산 베어스를 1점차로 꺾고 3연패의 사슬을 끊었다.",
-      "KIA는 13일 광주-기아 챔피언스필드에서 펼쳐진 2026 신한 쏠 KBO리그 두산과의 경기에서 외국인 에이스 제임스 네일의 호투에 힘입어 2-1로 승리했다.",
-      "전날 두산에 2-4로 졌던 KIA는 설욕전을 펼치며 3연패에서 탈출했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "naaeafa7e",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "32분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003668036",
-    "title": "방탄소년단 \"부산, 반갑습데이…돌아오지 않을 6월13일에 13주년\"",
-    "summary": [
-      "[부산=뉴시스]이재훈 기자 = \"여러분, 돌아오지 않을 6월13일에 13주년.",
-      "여기 계신 분들과 함께 할 건데 오늘 영원히 기억에 남을 수 있도록 같이 함께 노래 부르고 뛰어놀고 했으면 좋겠습니다.\"(RM) 글로벌 슈퍼 그룹 '방탄소년단'(BTS)이 데뷔 13주년 당일인 13일을 맞아 부산에서 대규모 홈커밍 축제를 열었다.",
-      "방탄소년단은 이날 오후 부산 아시아드 주경기장에서 'BTS 월드 투어 '아리랑' 인 부산(WORLD TOUR 'ARIRAN."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n6d487d81",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "35분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260613/134105368/2",
-    "title": "北 “李, 괴뢰들과 공범…위장 간판 스스로 내팽개” EU 공동성명에 반발",
-    "summary": [
-      "이재명 대통령이 유럽을 순방 중인 가운데 북한이 한국과 유럽연합(EU) 정상회담 공동성명에 반발하며 “한국은 우리 국가에 대한 적대를 떠나 절대 존재할 수 없는 제1의 적대국”이라고 반발했다.북한 외무성 10국 대변인은 이날 조선중앙통신에 공개한 ‘한국은 역시 적대와 대결을 체질화한 불변의 적국이다’ 제목의 담화를 발표했다.대변인은 “한국의 집권자가 거치장스럽게 쓰고 있던 ‘평화’의 가면을 벗어던지였다”면서 “유럽을 행각 중인 한국 대통령은 유."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9a2f6257",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "44분 전",
-    "url": "https://view.asiae.co.kr/article/2026061319505838773",
-    "title": "北, 한·EU 성명에 \"집권자가 평화 가면 내던져, 적대 원칙 불변\"",
-    "summary": [
-      "북한이 최근 한국·유럽연합(EU) 정상회담 공동성명에 대해 \"'평화'의 가면을 내던졌다\"고 비난했다.",
-      "북한 외무성은 13일 '10국 대변인' 명의 담화를 통해 이재명 대통령의 유럽 순방 중 채택된 한국과 EU의 공동성명에 대해 \"한국의 집권자가 거치장스럽게 쓰고 있던 평화의 가면을 내던졌다\"고 단언했다.",
-      "대변인은 \"서울 위정자들이 그 무슨 말과 행동을 하든 그것은 우리에 대한 도전이며 한국을 철저한 적대국으로 다뤄나가려."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8514bf69",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "46분 전",
-    "url": "https://view.asiae.co.kr/article/2026061319482231135",
-    "title": "'막스 베버' 인용한 李대통령 \"집권여당은 신념 아닌 책임, 진영 아닌 국민 향해야\"",
-    "summary": [
-      "이탈리아를 국빈 방문 중인 이재명 대통령은 13일 집권여당인 더불어민주당을 향해 \"신념의 언어보다는 책임의 언어에 더 집중해야 한다\"고 밝혔다.",
-      "여당은 이미 국민으로부터 권한을 위임받은 만큼 주장이나 구호가 아니라 정책 결정과 집행의 성과로 국정 책임을 져야 한다는 뜻이다.",
-      "정치권의 대결 구도가 이어지는 상황에서 여권에 포용·통합·결과를 당부한 메시지로 풀이된다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9f95c5c9",
+    "id": "nf7b9e67a",
     "category": "경제",
-    "source": "동아일보",
-    "time": "54분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260613/134105364/1",
-    "title": "종합특검, 尹 9시간 고강도 2차 조사…반란·외환 의혹 조사",
+    "source": "한국경제",
+    "time": "55분 전",
+    "url": "https://www.hankyung.com/article/2026061345057",
+    "title": "특검, '반란우두머리' 尹 9시간 조사…尹 서울구치소 복귀",
     "summary": [
-      "3대 특검(내란·김건희·순직해병)의 미제 의혹을 수사 중인 2차 종합특검팀(특별검사 권창영)이 13일 윤석열 전 대통령을 2차 소환해 약 9시간 조사했다.윤 전 대통령은 이날 오후 6시 46분쯤 법무부 호송차를 타고 경기 과천시 특검팀 사무실을 빠져나와 서울구치소로 향했다.종합특검은 이날 오전 10시부터 윤 전 대통령을 상대로 군형법상 반란우두머리 혐의 피의자 신문과 외환 혐의 참고인 조사를 포함해 약 8시간45분간 조사를 벌였다.이날 조사에는."
+      "특검, '반란우두머리' 尹 9시간 조사…尹 서울구치소 복귀."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb389ad6d",
-    "category": "스포츠",
-    "source": "아시아경제",
+    "id": "n1cffb12f",
+    "category": "경제",
+    "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026061319315821819",
-    "title": "11만 '아미' 운집한 부산 \"BTS 4년 기다린 보상받는 기분\"",
+    "url": "https://www.hankyung.com/article/2026061230147",
+    "title": "BTS 오레오·에스파 하이볼…'K-세계관' 1조3000억 터졌다 [K컬처인사이드]",
     "summary": [
-      "\"여권에 한국 입국 도장을 찍고 부산 앞바다를 보는 순간, 4년을 기다린 보상을 받는 기분이었어요.",
-      "언어는 달라도 우리는 이미 음악으로 연결돼 있습니다.\" 그룹 방탄소년단(BTS)의 데뷔 13주년 기념일인 13일, 월드투어 '아리랑(ARIRANG)' 부산 공연이 열리는 부산 아시아드 주경기장 일대는 전 세계에서 모인 팬들로 이른 오전부터 북적였다.",
-      "방탄소년단이 부산에서 콘서트를 여는 것은 2022년 10월 '옛 투 컴 인 부산(Yet To C."
+      "BTS 오레오·에스파 하이볼…'K-세계관' 1조3000억 터졌다 [K컬처인사이드]."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8732de15",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026061344827",
+    "title": "\"월드컵 아닌 전쟁컵\"…'해골 트로피' 꺼낸 이란 대사관",
+    "summary": [
+      "\"월드컵 아닌 전쟁컵\"…'해골 트로피' 꺼낸 이란 대사관."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92501f8c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606134473H",
+    "title": "정국 \"반갑습니데이\"·지민 \"의미 있는 날 고향서 공연 기뻐\" [BTS in 부산③]",
+    "summary": [
+      "정국 \"반갑습니데이\"·지민 \"의미 있는 날 고향서 공연 기뻐\" [BTS in 부산③]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3e3cead7",
+    "category": "스포츠",
+    "source": "ZDNet Korea",
+    "time": "1시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260613195819",
+    "title": "넥슨 메이플스토리, 여름 업데이트 '오버드라이브' 성료…신규 직업 '레테' 공개",
+    "summary": [
+      "[지디넷코리아]넥슨코리아(공동 대표 강대현∙김정욱)의 인기 온라인게임 '메이플스토리'가 대규모 여름 업데이트 '오버드라이브'를 앞세워 하반기 흥행 질주에 나선다.넥슨은 13일 경기 고양시 킨텍스 제2전시장에서 쇼케이스를 열고 다가올 여름 업데이트의 세부 청사진을 발표했다.",
+      "입장권 판매 시작 1분 만에 전석 매진을 기록한 이번 행사는 오프라인 현장뿐만 아니라 전국 롯데시네마 상영관과 공식 유튜브 채널을 통해 동시 생중계됐다.이번 업데이트의 핵심은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5e43276",
+    "category": "부동산",
+    "source": "ZDNet Korea",
+    "time": "1시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260613192226",
+    "title": "미래에셋證, 스페이스X 물량 0…한투·미래에셋자산운용 ETF까지 '일파만파'",
+    "summary": [
+      "[지디넷코리아]미래에셋증권이 12일(현지시간) 나스닥에 상장한 스페이스엑스(Space X) 공모주 물량을 배정받지 못함에 따라, 미래에셋증권과 공동 기업공개상장(IPO) 인수단으로 참여한 한국투자신탁운용·미래에셋자산운용 상장지수펀드(ETF)까지 타격을 입었다.13일 금융투자업계에 따르면 미래에셋증권은 공동 인수단을 꾸려 공모주 물량 배정을 대기했으나, 결국 공모주를 배정받지 못해 고객이 납입한 청약 증거금을 이날 새벽 전액 환불 처리하는 절차를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n75dbbadb",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "2시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260613184949",
+    "title": "AI가 일자리 대체 인정한 앤트로픽 '클로드 군단' 만든다",
+    "summary": [
+      "[지디넷코리아]앤트로픽이 인공지능(AI)이 일자리에 미칠 충격을 정면으로 다루는 두 가지 프로그램을 내놨다.",
+      "테크타임스에 따르면 앤트로픽은 초기 경력자를 미국 전역의 비영리 단체에 배치하는 12개월 풀타임 유급 펠로십 '클로드 군단(Claude Corps)'을 시작한다.",
+      "펠로 참가자는 연 8만5,000달러의 보수와 복리후생을 받고, 클로드(Claude) 활용 교육도 함께 제공받는다.앤트로픽은 또 'AI 경제미래 연구기금(Economic Futu."
+    ],
+    "chips": [
+      "#AI",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "ne1c36e17",
+    "category": "IT",
+    "source": "테크M",
+    "time": "3시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152590",
+    "title": "[글로벌] 'AI 공룡' 앤트로픽, 고객사 영역 침범 논란...피그마와 갈등 수면 위로",
+    "summary": [
+      "오픈AI를 제치고 기업가치 1위 인공지능(AI) 기업이 된 앤트로픽이 기존 고객사들의 사업 영역을 침범해 갈등을 빚고 있다는 보도가 나왔습니다.지난 11일(현지시간) 디인포메이션은 소식통을 인용해 앤트로픽이 지난 4월 내놓은 AI 도구 '클로드 디자인'을 놓고 협력 관계였던 디자인 플랫폼 피그마와 갈등하고 있다고 보도했습니다.",
+      "앤트로픽은 해당 도구 출시 몇주 전 피그마에 파트너가 돼 달라고 요청했고, 피그마는 자사 제품이 앤트로픽의 도구를 보완."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nc4122a7c",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "5시간 전",
+    "url": "https://www.hankyung.com/article/2026061344017",
+    "title": "美 정부 지시에 멈춘 클로드 최신 AI…\"빠른 복구 위해 노력\"",
+    "summary": [
+      "美 정부 지시에 멈춘 클로드 최신 AI…\"빠른 복구 위해 노력\"."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nefadca9d",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "5시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260613153734",
+    "title": "동국대 사이버보안신기술융합학회, 하계학술 대회 개최",
+    "summary": [
+      "[지디넷코리아]사이버보안신기술융합학회와 인공지능산업법학회는 13일 오후 동국대 문화관에서 하계 공동 학술 대회를 개최했다.",
+      "이번 학술대회는 '인공지능과 사이버보안'을 주제로 열렸다.학술대회는 인공지능(AI)이 로봇과 드론 등 산업 생태계 변화를 주도하고 있는 가운데 취약점을 스스로 찾아내고 공격 코드까지 작성하는 등 우리 일상에도 위협이 되고 있는 만큼 선제적으로 대안을 모색하기 위한 학술교류의 장으로 자리매김했다.현장에는 사이버보안신기술융합학."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nfd30e856",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "11시간 전",
+    "url": "https://www.hankyung.com/article/202606134027i",
+    "title": "인류를 위한다던 앤스로픽, 사다리 걷어차나 [김인엽의 AI 프런티어]",
+    "summary": [
+      "인류를 위한다던 앤스로픽, 사다리 걷어차나 [김인엽의 AI 프런티어]."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nd42608d0",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "13시간 전",
+    "url": "https://www.hankyung.com/article/2026061236571",
+    "title": "내장지방 쌓이면 당뇨 위험?…인지기능·기억력도 나빠진다",
+    "summary": [
+      "내장지방 쌓이면 당뇨 위험?…인지기능·기억력도 나빠진다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1273ae9",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "15시간 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/13/HGO5TI7EBRHO7B46FFTQSVENOE/",
+    "title": "[인터뷰] 일론 머스크가 꿈꾸는 소행성 채굴… 이사 네스나스 NASA 제트추진연구소 수석 로봇공학 책임자 “5년 내 현실화”",
+    "summary": [
+      "[인터뷰] 일론 머스크가 꿈꾸는 소행성 채굴… 이사 네스나스 NASA 제트추진연구소 수석 로봇공학 책임자 “5년 내 현실화”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n89285fa4",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "23시간 전",
+    "url": "https://www.hankyung.com/article/2026061237391",
+    "title": "'114조' 실탄 장전한 머스크…테슬라·스페이스X 합병할까",
+    "summary": [
+      "'114조' 실탄 장전한 머스크…테슬라·스페이스X 합병할까."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b83a12d",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "1일 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/12/CN44TYAJSBF27A7F73WHCZYVIM/",
+    "title": "한진만 “삼성 파운드리, 성과급 반영시 흑자 전환 쉽지 않아”",
+    "summary": [
+      "한진만 “삼성 파운드리, 성과급 반영시 흑자 전환 쉽지 않아”."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n782f1175",
+    "category": "사회",
+    "source": "조선비즈IT",
+    "time": "1일 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/12/UIL5N2WJBBAH7AGDGROZLHQXUU/",
+    "title": "노란봉투법 통신 업계 첫 적용… 노동위, LGU+ 사용자성 인정",
+    "summary": [
+      "노란봉투법 통신 업계 첫 적용… 노동위, LGU+ 사용자성 인정."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n732eff10",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "1일 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/12/TAU2MFG3C5CKFCNIVQLYJBWBM4/",
+    "title": "어도비, AI 기반 ‘애크로뱃 스튜디오’ 韓 출시",
+    "summary": [
+      "어도비, AI 기반 ‘애크로뱃 스튜디오’ 韓 출시."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "ndd0acd7f",
+    "category": "사회",
+    "source": "경향신문",
+    "time": "방금 전",
+    "url": "https://www.khan.co.kr/article/202606132102001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+    "title": "1228회 로또 1등 11명···당첨금 각 26억9833만원",
+    "summary": [
+      "제1228회 로또 추첨 결과.",
+      "동행복권 홈페이지 갈무리로또복권 운영사 동행복권은 제1228회 로또복권 추첨에서 ‘24, 29, 30, 31, 35, 44’가 1등 당첨 번호로 뽑혔다고 13일 밝혔다.2등 보너스 번호는 ‘1’이다.당첨 번호 6개가 모두 일치한 1등 당첨자는 11명으로 각 26억9833만원을 받는다.",
+      "당첨 번호 5개와 보너스 번호를 맞힌 2등···."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -642,20 +631,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1940건",
+    "trend": "+195%"
   }
 ];
 // ====AUTO-GENERATED-END====
