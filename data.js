@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-14 16:30:12
+// 마지막 업데이트: 2026-06-14 17:28:47
 window.NEWS_DB = [
   {
     "id": "na2cf4007",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZm5YSUdYb0lmcUkwdlhrSV80aUZsWVZJTDlwbHlqZUdUWlQ1TjY4eU5YSUpvSThCTzRmWEVXSkNiRGdqZTJ5XzJjQ1lnVERlaWFiMHZ3TWx0cTlGZk5JQzZVb0NuZVNFLWxWclFPRDZhWmc?oc=5",
     "title": "엔비디아 대항 독자 AI칩 시장 급성장 전망, 삼성전자·SK하이닉스 HBM 수요 더 늘어난다",
     "summary": [
@@ -111,6 +111,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "summary": [
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
@@ -138,21 +155,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "nc9fe1ef0",
-    "category": "사회",
-    "source": "브런치",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UllYQlR3ck1kZTlFeDd5X0gtTHhkN2NMcU95T2VGbGpSOEZsWjdQZ3ZVVHEwS19fb1JvLS04SlBnQVd5Z2YxdU1nTQ?oc=5",
-    "title": "화성시 일자리 찾는다면, 일자리센터 채용정보 확인",
-    "summary": [
-      "화성시 일자리 찾는다면, 일자리센터 채용정보 확인 브런치."
-    ],
-    "chips": [
-      "#채용",
-      "#고용"
     ]
   },
   {
@@ -230,6 +232,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n269e2609",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "33일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
@@ -259,32 +276,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncbcb6c77",
+    "id": "n783ebe44",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "98일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "source": "테크M",
+    "time": "74일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "115일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -303,16 +305,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n490343d1",
+    "id": "n5de3a708",
     "category": "스포츠",
-    "source": "미디어오늘",
-    "time": "214일 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ME9tQ2JRQWtiTUxTcTVVUHRPUVFhcXNDWFo0TnVSUm9ubWo2d0o0UTVOQ01iUW1tMlNYVG9JWjRMbl95c3MzVk5CNmJMUnNDRU02VGk4aTFXWU5QTlNkcHVwbW40Z3otVkxUaGd0cm8?oc=5",
-    "title": "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’",
+    "source": "매일경제",
+    "time": "254일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
     "summary": [
-      "프로야구부터 F1까지…스포츠 중계, OTT 플랫폼의 ‘4번 타자’ 미디어오늘."
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
     ],
     "chips": [
+      "#손흥민",
       "#KBO"
     ]
   },
@@ -349,10 +352,240 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb58c0b93",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668576",
+    "title": "美 국방장관 \"이란 핵무기 보유 절대 불가\"…핵물질 제거·핵프로그램 해체",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 피트 헤그세스 미국 국방장관은 14일(현지시간) 이란과 종전에 합의해도 이란의 핵무기 보유는 절대 용납하지 않겠다고 밝혔다.",
+      "CBS와 신화통신에 따르면 헤그세스 장관은 이날 CBS 뉴스와 가진 인터뷰에서 이란 핵 문제와 관련해 \"도널드 트럼프 대통령이 가장 분명히 한 점은 이란이 결코 핵무기를 보유하지 못한다는 사실이다.",
+      "절대로 안 된다\"고 언명했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n29faba26",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/15/2026061501583036386",
+    "title": "한채아, 딸 외모 솔직 고백 \"집중해서 뛰면 시아버지 차범근 보여\"",
+    "summary": [
+      "배우 한채아가 딸이 시아버지인 차범근을 많이 닮았다고 털어놨다.",
+      "14일 방영된 SBS '미운 우리 새끼' 499회에는 배우 한채아가 스페셜 게스트로 출연해 가족 이야기를 전했다.",
+      "이날 신동엽은 \"딸이 초등학교 2학년인데 시아버지인 차범근 감독과 붕어빵이라고 하더라."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n71546ab1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668391",
+    "title": "\"수면 시간 8시간 넘으면 오히려 노화 빨라질 수 있어\" 美연구… 최적 시간은",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = ' 잠이 부족하면 건강에 해롭다는 것은 잘 알려진 사실이지만, 너무 많이 자는 것 또한 신체 노화를 가속할 수 있다는 연구 결과가 나왔다.",
+      "최근 미국 컬럼비아대학교 어빙 메디컬센터에 소개된 바젤로스 의과대학 연구팀의 '너무 적은 수면, 그리고 너무 많은 수면은 빠른 노화와 연관' 연구 결과에 따르면, 수면 시간과 생물학적 노화 사이에 밀접한 연관성이 확인됐다.",
+      "영국 바이오뱅크 참가자 50만명의 데이터를 연구팀."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n0e25102d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614054752071",
+    "title": "트럼프, 이스라엘의 레바논 공습에 \"서명 몇시간 지연…화났다\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 이유미 특파원 = 도널드 트럼프 미국 대통령은 14일(현지시간) 이스라엘이 레바논 수도 베이루트 남쪽 외곽을 공습한 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4f0c255a",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260615/134110929/1",
+    "title": "브라질 헬기 2대 공중 충돌 후 추락…탑승 6명 전원 사망",
+    "summary": [
+      "브라질 리우데자네이루에서 14일(현지시간) 헬리콥터 2대가 공중에서 충돌한 뒤 추락해 탑승자 6명이 모두 숨졌다.",
+      "리우데자네이루 소방당국에 따르면 두 대의 헬기가 이날 오전 9시 직전 시내 서부 레크레이우 두스 반데이란치스 구역에서 공중 충돌하고서 지상으로 떨어졌다.",
+      "소방당국은 사망자 6명 전원이 헬기 승무원이라고 밝혔다.사고 헬기 1대는 전기차 판매 대리점으로 추락하면서 화재를 일으켰다."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n07ddc583",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260615/134110920/1",
+    "title": "중국 IT 기술의 최선봉 ‘선전’ 기행… 전세계 사람과 돈이 몰려든다",
+    "summary": [
+      "중국 광둥성 선전은 아시아를 대표하는 기술 혁신의 중심지다.",
+      "대형 IT 기업들의 본사가 밀집한 첨단 산업 도시이지만, 도심 내부의 환경은 일반적인 제조 도시와 차별화된 모습을 보인다.",
+      "선전 바오안 국제공항에서 도심으로 진입하는 과정에서 가장 먼저 확인되는 특징은 소음과 분진의 관리 상태다.선전시는 시내 대중교통 체계를 전기차 기반으로 일찍이 전환했다."
+    ],
+    "chips": [
+      "#전세",
+      "#전기차",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n233fdd91",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/15/MZSDOYRZMYZDGMTFG44WKZLGGA/",
+    "title": "\"우리 선수랑 비슷했는데…\" 호주전 지켜본 中 한숨, 갑자기 소환된 20세 초신성…대체 왜?",
+    "summary": [
+      "[스포츠조선 박상경 기자] 2026 북중미월드컵을 지켜보는 대륙의 시선, 한숨의 연속이다.",
+      "14일(한국시각)까지 아시아 팀들이 무패 행진(2승1무)을 기록하고 있는 상황은 부러움으로 다가오는 눈치다.",
+      "중국 체단주보의 마더싱은 14일 캐나다 밴쿠버의 BC플레이스 스타디움에서 펼쳐진 호주-튀르키예전에서 선제 결승골을 넣은 네스토리 이란쿤다(왓퍼드)의 활약을 지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff5056cb",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/06/15/2026061009151892782",
+    "title": "주식과 채권의 상관관계를 다시 보자[MT시평/이병건]",
+    "summary": [
+      "요즘 '채권의 무가치함'이라는 자조 섞인 표현을 가끔 보게 된다.",
+      "2025년말부터 주식시장 시가총액이 CP/전단채를 포함한 채권 발행잔액을 넘어선 것도 있겠지만, 급격한 금리 상승으로 채권 가격이 하락하면서 이자수익, 즉 캐리로 메울 수 없는 손실이 발생하고 있다는 점이 이러한 자조의 가장 큰 이유가 아닐까 한다.",
+      "지표물인 국고 10년물 금리는 2025년 9월말 2.9% 정도였다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nacf43c44",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/15/2026061414425688208",
+    "title": "'5월에만 2홀드 무패 ERA 2.70 위용' KIA 최지민, 금호타이어 '5월 MVP' 선정",
+    "summary": [
+      "KIA 타이거즈 투수 최지민(23)이 금호타이어에서 시상하는 5월 월간 MVP에 선정됐다.",
+      "시상식은 14일 광주-KIA 챔피언스필드에서 열린 두산 베어스와 원정 경기에 앞서 열렸다.",
+      "최지민은 5월 14경기에 등판, 총 13⅓이닝을 던지면서 2홀드 9탈삼진 평균자책점 2.70, 이닝당 출루허용률(WHIP) 1.28의 성적을 기록하며 활약했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb80ef89b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "28분 전",
+    "url": "https://www.hankyung.com/article/2026061455221",
+    "title": "李, 순방 중 수보회의 \"예산안, 청년정책 최우선 고려\"",
+    "summary": [
+      "李, 순방 중 수보회의 \"예산안, 청년정책 최우선 고려\"."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n8f84e3c7",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "30분 전",
+    "url": "https://www.hankyung.com/article/2026061455211",
+    "title": "이재명 대통령 \"北과 정전 넘어, 지속 가능한 평화 체제 구축\"",
+    "summary": [
+      "이재명 대통령 \"北과 정전 넘어, 지속 가능한 평화 체제 구축\"."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ncb931f31",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615002000071",
+    "title": "레바논상황 변수되나…'생일에 서명 예고' 트럼프 \"모두 자제를\"",
+    "summary": [
+      "(카이로 워싱턴=연합뉴스) 김상훈 조준형 홍정규 특파원 = 미국과 이란 간의 종전 및 비핵화 관련 합의가 임박한 것으로 보이는 상황에서 레바논을..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6082fd52",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615001800099",
+    "title": "소말릴란드 대통령, '유일 수교국' 이스라엘 첫 국빈방문",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 소말리아에서 35년 전 독립을 선언했지만 미승인 국가로 남아있는 소말릴란드 대통령이 지난해 말 자국을..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne5e0ccfd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668569",
+    "title": "이 대통령 \"2년차 국회와 긴밀한 협력 중요…부정선거 음모론은 반사회적 행태\"(종합)",
+    "summary": [
+      "[로마=뉴시스] 김지은 기자 = 이재명 대통령은 14일 6·3 지방선거 투표용 부족 사태와 관련해 \"참정권 침해에 대한 우리 국민들의 정당한 문제 제기를 다 인정하고 수용한다\"면서도 \"선거 결과 조작 등을 운운하면서 부정선거론을 퍼뜨리는 것은 문제의 본질을 왜곡하고 국민들의 귀한 목소리를 모욕하는 반사회적 행태\"라고 밝혔다.",
+      "유럽을 순방 중인 이 대통령은 이날 오후 2시(현지시간) 이탈리아 현지에서 화상으로 주재한 청와대 수석보좌관회의에서 \"변."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfc7927f7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614052552109",
+    "title": "젤렌스키·푸틴, 팔순 맞은 트럼프와 통화…\"전쟁 상황 논의\"(종합2보)",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 도널드 트럼프 미국 대통령이 14일(현지시간) 80세 생일을 맞아 블라디미르 푸틴 러시아 대통령, 볼로디미르..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n50fd604b",
     "category": "사회",
     "source": "조선일보",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/international/international_general/2026/06/15/GNSDGYZTHE2DGN3BMRSWEYZUGU/",
     "title": "美국방 “이란, 합의 어기면 다시 전쟁 직면…농축우라늄 제거 관여”",
     "summary": [
@@ -365,274 +598,49 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n163939e9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/15/GM2DCMRZMFTDKYRZMNSDOOJXHE/",
-    "title": "‘차갑게 식은 타선 어쩌나’ 9회 무사 1·3루 찬스 날린 한화, 798일 만에 키움에 충격 스윕패",
-    "summary": [
-      "[OSEN=고척, 길준영 기자] 프로야구 한화 이글스가 최하위 키움 히어로즈에 충격적인 3연전 스윕패를 당하며 발목을 잡혔다.",
-      "한화는 14일 서울 고척스카이돔에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 키움과의 경기에서 2-3 패배를 당했다.",
-      "최근 3연패 부진이다.이날 경기 전까지 올 시즌 팀 득점 1위(384), 홈런 2위(68), OPS."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd7b64ab5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/15/HFRGGZJTGA3DEYJSMVQWMMJYGU/",
-    "title": "불펜 데이 다음날, 선발이 7이닝 1실점, 이러니 1위 잘나가지...염갈량, 칭찬 아끼지 않다 \"임찬규가 완벽한 피칭으로 승리 발판 만들었다\"",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스가 롯데 자이언츠를 꺾고 1위 질주를 이어갔다.LG는 14일 잠실구장에서 열린 롯데와 경기에서 6-1로 승리를 거뒀다.",
-      "1패 후 2연승을 거두며 위닝에 성공했다.",
-      "선발투수 임찬규가 7이닝 동안 6피안타 1볼넷 2탈삼진 1실점으로 호투했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5f4ec7eb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/economy/auto/2026/06/15/RKBQCCRDVFC6TMZAKC6ALQLAEU/",
-    "title": "제네시스, 르망 데뷔전 완주했다…13위로 24시간 질주 마쳐",
-    "summary": [
-      "제네시스, 르망 데뷔전 완주했다…13위로 24시간 질주 마쳐."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncba0b4e3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615001500071",
-    "title": "美국방 \"이란, 합의 준수 않으면 다시 전쟁부 상대하게 될 것\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 피트 헤그세스 미국 국방부(전쟁부) 장관은 이란이 조만간 미국과 맺을 것으로 보이는 종전 양해각서(MOU)..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf184ba5f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668567",
-    "title": "[속보] 이란 대통령 \"최고 국가안보회의, 대화 통한 종전 해결 지지\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 yjjs@newsis.com."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n421ed777",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667428",
-    "title": "\"식중독 막아라\"…왕사남 '장항준' 강원도 간 이유는",
-    "summary": [
-      "[서울=뉴시스]송종호 기자 = 식품의약품안전처가 여름철 식중독 예방을 위해 1000만 영화 '왕과 사는 남자'를 연출한 장항준 감독과 협업에 나선다.",
-      "15일 식약처에 따르면 지난 1일 유튜브를 통해 공개한 월간점검회의에서 최종동 식품안전정책국장 대행은 여름철 식중독 예방 정책 홍보 계획을 밝혔다.",
-      "최 국장 대행은 \"여름철이 다가오면서 가장 중요한 식중독 예방과 식품안심업소에 대해 국민들이 쉽게 접할 수 있도록 대중적 인지도와 친밀도가 높은 장항."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n05070286",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668566",
-    "title": "트럼프, 이스라엘·이란에 종전 기대 “망치지 말라” 경고",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 도널드 트럼프 미국 대통령은 14일(현지시간) 이스라엘의 레바논 베이루트 공습과 관련해 이란과 이스라엘을 향해 추가 군사행동을 자제하라며 종전 기대를 망치지 말라고 경고했다.",
-      "촉구하며 “평화 합의가 매우 근접해 있다”고 강조했다.",
-      "그러나 중동 전역에서 충돌이 이어지면서 미국·이란 간 휴전 및 평화 구상이 시험대에 올랐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb36232ce",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614052551109",
-    "title": "젤렌스키, 생일맞은 트럼프와 통화…\"외교 전반 의견 교환\"(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 14일(현지시간) 도널드 트럼프 미국 대통령과 외교 전반에 대한 의견..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4d5ee172",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615000900099",
-    "title": "\"가자전쟁 발발 후 사망한 팔레스타인인 7만3천명 넘어\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 이스라엘과 팔레스타인 무장정파 하마스의 전쟁이 시작된 이후 사망한 팔레스타인인 수가 7만3천명을 넘었..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n58a583c7",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615001000087",
-    "title": "브라질서 헬기 충돌후 전기차 대리점에 추락…탑승자 6명 사망",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 14일(현지시간) 오전 9시께 브라질 리우데자네이루 남서부 지역에서 헬리콥터 두 대가 공중에서 충돌해 ..."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n09086636",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "59분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668561",
-    "title": "이란 “미국과 종전협상 지속 의미 없어”…베이루트 공습으로 '합의 불확실'(종합)",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 이란은 14일(현지시간) 미국과 벌어진 종전협상과 관련해 “더 이상 협상을 지속할 의미가 없다”고 밝혀 도널드 트럼프 미국 대통령이 임박했다고 강조한 양해각서(MOU) 체결에 의문을 제기했다.",
-      "AFP과 AP 통신, CNN에 따르면 이란 핵심 협상대표 모하마드 바게르 갈리바프 국회의장은 이날 사회관계망 서비스 X를 통해 이스라엘의 레바논 베이루트 공습은 미국이 약속을 이행할 의지 또는 능력이 없다는 점을 다시 확인했."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nabc11d41",
-    "category": "IT",
-    "source": "동아일보",
+    "id": "n1917bc73",
+    "category": "경제",
+    "source": "머니투데이",
     "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260614/134109171/2",
-    "title": "AI 사이클 탄 반도체부품-전력기기… 영업익 줄상향",
+    "url": "https://www.mt.co.kr/politics/2026/06/15/2026061501184253322",
+    "title": "순방 중 주말 밤 화상회의 연 李 대통령 \"시위대 업무방해 행위, 엄정 대처해야\"",
     "summary": [
-      "인공지능(AI) 슈퍼사이클의 훈풍이 반도체 업계를 넘어 커패시터와 반도체 기판 등을 생산하는 반도체 부품 업계, 변압기와 전선을 생산하는 전력기기 업체에도 불고 있다.",
-      "증권가는 이들 기업의 올 2분기(4∼6월) 실적을 줄줄이 상향 조정하고 있다.",
-      "AI 데이터센터 증설 수요가 넘쳐 제품을 달라고 조르는 빅테크들이 많은 반면, 빅테크 기대에 맞출 ‘고스펙’ 제품을 생산할 수 있는 기업은 한정적이다."
+      "[the300] 유럽 순방 중인 이재명 대통령이 사상 처음으로 순방 중 화상으로 수석보좌관회의를 주재, 최근 투표용지 부족 사태에 따른 시위대의 행태 관련 \"사적 검문 및 위력을 동원한 업무 방해 행위는 엄정 대처해야 하는 것 아니냐\"고 반문했다.",
+      "이밖에 각 수석비서관실로부터 주식시장부터 청년정책, 안보에 이르기까지 현안을 두루 보고받고 점검했다.",
+      "강유정 청와대 수석대변인은 14일(현지시간) 서면브리핑을 통해 \"(이 대통령은) 국민참정권 침해와."
     ],
     "chips": [
-      "#AI",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "necb57dd1",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026061452961",
+    "title": "반도체 소부장 '뜀박질'…레버지리ETF도 뭉칫돈",
+    "summary": [
+      "반도체 소부장 '뜀박질'…레버지리ETF도 뭉칫돈."
+    ],
+    "chips": [
       "#반도체"
     ]
   },
   {
-    "id": "n407ac036",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "n479f52ef",
+    "category": "IT",
+    "source": "조선일보",
     "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260614/134109154/2",
-    "title": "효성중공업, 변압기 이어 美서 초고압 차단기 생산",
+    "url": "https://www.chosun.com/economy/tech_it/2026/06/15/IWDJCQQLUJAIDABYN5NJCPDAW4/",
+    "title": "美, AI 쇄국정책… ‘미토스·페이블’ 외국인 사용 막았다",
     "summary": [
-      "효성중공업이 국내 전력기기 업체 최초로 미국 현지에 초고압 차단기 생산기지를 설립한다.",
-      "14일 효성중공업은 자회사인 효성HICO가 북미 에너지 인프라 솔루션 기업 콴타(Quanta)의 자회사와 가스절연차단기(GCB) 합작법인 ‘효성HICO 브레이커’ 설립 계약을 체결했다고 밝혔다.",
-      "7월에 설립되는 합작법인은 10월부터 미국 펜실베이니아주에 있는 콴타의 캐넌스버그 공장에서 72.5kV(킬로볼트)부터 800kV까지 초고압 차단기 생산에 들어간다."
+      "美, AI 쇄국정책… ‘미토스·페이블’ 외국인 사용 막았다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naca86b7e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260614/134109169/2",
-    "title": "2차 국민성장펀드 3분기에 나온다… 6000억 규모",
-    "summary": [
-      "정부가 올해 3분기(7∼9월) 중 2차 국민참여형 국민성장펀드(국민참여성장펀드)를 6000억 원 규모로 내놓는다.",
-      "당초 3주 동안 판매하기로 했던 1차 물량이 닷새 만에 완판되면서 정부가 추가 공급에 나선다.",
-      "이억원 금융위원장은 12일 서울 영등포구 한국금융투자협회에서 열린 국민참여성장펀드 운용사 간담회에서 “지난달 출시된 국민참여성장펀드가 조기에 완판된 만큼 3분기 중 6000억 원 규모의 2차 펀드를 출시할 계획”이라며 “안정적이면서도 수익."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n194827b4",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260614/134109188/2",
-    "title": "종전 기대감에 국제유가 3개월새 최저… 환율 상승세도 꺾일듯",
-    "summary": [
-      "중동 전쟁 종전 기대감이 높아지며 국제 유가가 2, 3개월 전 수준으로 하락했다.",
-      "미국과 이란이 종전을 위한 양해각서(MOU)를 체결하고 국제 유가가 추가로 하락하면 1500원을 넘어선 원-달러 환율 상승세도 한풀 꺾일 가능성이 크다.",
-      "다만 종전 기대감이 현재 유가에 이미 반영돼 막상 전쟁이 끝나면 되레 오를 수 있다는 전망도 있다."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n9c97eb1b",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612128700371",
-    "title": "[동포의 창] '이달의 재외동포'에 한국 간호사 獨진출 이끈 이수길 박사",
-    "summary": [
-      "(서울=연합뉴스) 박현수 기자 = 재외동포청(청장 김경협)은 우리나라 경제 발전의 밑거름이자 한·독 양국 인적·문화적 교류의 토대가 된 파독 간..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na36fa19b",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026061455187",
-    "title": "李대통령 \"선관위 부실로 국격 오점…음모론 책임 물어야\"",
-    "summary": [
-      "李대통령 \"선관위 부실로 국격 오점…음모론 책임 물어야\"."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5f2e3463",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026061455137",
-    "title": "[속보] 李대통령 \"참정권 침해 문제제기 인정…부정선거론은 본질 왜곡\"",
-    "summary": [
-      "[속보] 李대통령 \"참정권 침해 문제제기 인정…부정선거론은 본질 왜곡\"."
-    ],
-    "chips": [
-      "#정치"
+      "#AI",
+      "#정책"
     ]
   }
 ];
@@ -641,19 +649,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
-  },
-  {
-    "rank": 2,
     "tag": "반도체",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
-    "rank": 3,
+    "rank": 2,
     "tag": "정치",
+    "mentions": "1810건",
+    "trend": "+175%"
+  },
+  {
+    "rank": 3,
+    "tag": "정책",
     "mentions": "1680건",
     "trend": "+155%"
   }
