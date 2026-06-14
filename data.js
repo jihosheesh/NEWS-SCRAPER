@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-13 23:23:32
+// 마지막 업데이트: 2026-06-14 00:30:57
 window.NEWS_DB = [
   {
     "id": "na2cf4007",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZm5YSUdYb0lmcUkwdlhrSV80aUZsWVZJTDlwbHlqZUdUWlQ1TjY4eU5YSUpvSThCTzRmWEVXSkNiRGdqZTJ5XzJjQ1lnVERlaWFiMHZ3TWx0cTlGZk5JQzZVb0NuZVNFLWxWclFPRDZhWmc?oc=5",
     "title": "엔비디아 대항 독자 AI칩 시장 급성장 전망, 삼성전자·SK하이닉스 HBM 수요 더 늘어난다",
     "summary": [
@@ -112,23 +112,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31acb708",
-    "category": "사회",
-    "source": "아주경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
-    "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
@@ -141,23 +124,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n13b4af19",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
     ]
   },
   {
@@ -176,17 +142,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n70cb7884",
+    "id": "nc9fe1ef0",
     "category": "사회",
-    "source": "투데이경제",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
+    "source": "브런치",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UllYQlR3ck1kZTlFeDd5X0gtTHhkN2NMcU95T2VGbGpSOEZsWjdQZ3ZVVHEwS19fb1JvLS04SlBnQVd5Z2YxdU1nTQ?oc=5",
+    "title": "화성시 일자리 찾는다면, 일자리센터 채용정보 확인",
     "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
+      "화성시 일자리 찾는다면, 일자리센터 채용정보 확인 브런치."
     ],
     "chips": [
-      "#취업",
+      "#채용",
       "#고용"
     ]
   },
@@ -234,6 +200,52 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "summary": [
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n269e2609",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "32일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
@@ -249,14 +261,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
+    "id": "na3d44780",
     "category": "스포츠",
-    "source": "테크M",
-    "time": "73일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "source": "네이트",
+    "time": "78일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WTnBCSHFsdmFVa1h3Mmt3YkY4WVkxNlVKUG5TRHBzOWJ0YzlRQVkwMXNiZGloQ0ZXbTFGRUF2VTNDaWN5cjk3QUM3dnFBMXpXQUYzdkdyTHVSWEV3?oc=5",
+    "title": "[야구의 봄①] KBO 인기, 어디까지↗ 올라가는 거예요?…예매 전쟁에 숨통 하나 틔였다",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "[야구의 봄①] KBO 인기, 어디까지↗ 올라가는 거예요?…예매 전쟁에 숨통 하나 틔였다 네이트."
     ],
     "chips": [
       "#KBO"
@@ -274,21 +286,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "114일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -322,311 +319,322 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n86ad7d39",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003666833",
-    "title": "의정부시, 상세주소 없는 건물 337개소 직권 부여 추진",
+    "id": "n5f3f44d4",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061409264156850",
+    "title": "40·50대 男 비만율 50% 넘었다…성인 비만율 증가세",
     "summary": [
-      "[의정부=뉴시스] 김도희 기자 = 경기 의정부시는 원룸과 다가구주택 등 건물 337개소를 대상으로 상세주소 직권 부여를 추진한다고 14일 밝혔다.",
-      "시는 상세주소가 없는 건물에 대해 기초자료를 조사한 뒤 상세주소를 부여하고, 건물 소유자와 임차인에게 이를 고지할 계획이다.",
-      "이를 통해 시민들이 상세주소를 신청해야 하는 번거로움을 줄이고 주소 활용 편의를 높인다는 방침이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ccb8bf0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/14/GUZDAZRRGVSWKZJTGFTGCODCME/",
-    "title": "안현모, 에밀리 블런트와 다정 투샷 \"동갑내기 전화번호 물어볼 뻔\"",
-    "summary": [
-      "[OSEN=최이정 기자] 방송인 안현모가 세계적인 할리우드 배우 에밀리 블런트와의 눈부신 만남을 인증했다.안현모는 12일 자신의 SNS 계정을 통해 \"아우라를 뿜내며 등장한 에밀리블런트\"라는 글과 함께 사진을 게재했다.공개된 사진 속 안현모는 에밀리 블런트와 어깨를 나란히 한 채 카메라를 응시하며 환한 미소를 짓고 있다.",
-      "강렬한 레드 컬러의 의상을 완벽하게."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13b59f87",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/14/GAYGMMBXGI2TMMRWMJRGIMTFHA/",
-    "title": "'앞트임 복원' 강예원, 7번 성형 속사정…\"지금이 제일 완성도 있는 얼굴\" ('미우새')",
-    "summary": [
-      "<방송사에서 제공한 자료를 바탕으로 작성된 프리뷰 기사입니다.>[OSEN=장우영 기자] 배우 강예원의 성형 변천사가 공개된다.14일 방송되는 SBS ‘미운 우리 새끼’에는 영화 ‘해운대’, ‘하모니’ 등으로 사랑 받은 배우 강예원의 일상이 공개된다.민낯으로 등장한 강예원은 홍조 가득한 피부와 돋보기 안경을 쓴 털털한 일상을 보였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n20f375c6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/06/14/MM4WIZDDMIYGEZTDMEZDMYJQGA/",
-    "title": "에반, 데뷔 싱글 데모 일부 깜짝 공개..극과 극 매력 예고",
-    "summary": [
-      "[OSEN=지민경 기자] 신예 뮤지션 에반(EVAN)이 극과 극의 매력을 오가는 데뷔 싱글 데모 음원을 깜짝 공개하며 가요계 출격에 대한 기대감을 한껏 끌어올렸다.에반은 지난 13일 오후 공식 SNS 채널을 통해 첫 번째 디지털 싱글 'RIDE OR DIE(라이드 오어 다이)'에 수록될 신곡들의 데모 음원 일부를 공개했다.",
-      "베일을 벗은 트랙은 싱글과 동명의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2b139a16",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614011600053",
-    "title": "경북 칠곡서 종이박스 제조공장 불…6천300만원 상당 피해",
-    "summary": [
-      "(칠곡=연합뉴스) 이승형 기자 = 지난 13일 오후 7시 59분께 경북 칠곡군 가산면 종이박스 제조 공장에서 불이 나 6시간 만에 진화됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n51633502",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668136",
-    "title": "칠곡 공장서 불…창고 전소·1억2000만원 피해",
-    "summary": [
-      "[칠곡=뉴시스] 김진호 기자 = 경북 칠곡군 가산면의 한 공장에서 화재가 발생해 6시간여 만에 진화됐다.",
-      "14일 경북소방본부에 따르면 전날 오후 7시59분께 칠곡군 가산면 한 공장에서 불이 났다.",
-      "이 불로 철골조 창고 1동이 전소되고, 공장 건물 1동이 반소됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd9528eb8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260614/134105809/2",
-    "title": "北 “비핵화는 되돌릴 수 없이 종결된 사안”…한미 NCG회의에 반발",
-    "summary": [
-      "북한은 한미가 확장억제 협의체인 핵협의그룹(NCG) 회의를 열고 북한 비핵화 공동목표를 확인했다고 밝힌 데 대해 “비핵화는 최종적으로 되돌릴 수 없이 종결된 사안”이라고 반발했다.북한 외무성 대변인은 14일 당 기관지 노동신문을 통해 발표한 담화에서 “미국과 추종 세력들의 무의미한 반공화국 비난 수사와 핵 위협 공조는 되돌릴 수 없는 우리의 핵보유국 지위에 아무런 영향도 미칠 수 없다”고 밝혔다.그는 “우리나라를 비롯한 지역 국가들을 겨냥한 핵."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n42463da3",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668121",
-    "title": "하늘이 도운 홍명보호…체코전 다음 날 폭우에 잠긴 과달라하라",
-    "summary": [
-      "[과달라하라(멕시코)=뉴시스]안경남 기자 = 홍명보호가 2026 북중미 월드컵에서 체코를 꺾고 첫 승을 거둔 다음 날 결전지 멕시코 과달라하라는 시내 일부가 폭우에 잠겼다.",
-      "한국 대표팀이 체코를 2-1로 누른 다음 날 13일(한국 시간) 멕시코 과달라하라의 홍명보호 숙소 근처에 낙뢰를 동반한 폭우가 쏟아졌다.",
-      "짧은 시간 집중력으로 내린 폭우에 과달라하라 시내 교통은 마비됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n789b7e5d",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612119900054",
-    "title": "전남광주특별시, AI·에너지·인재 몰리는 반도체 밸리 꿈꾼다",
-    "summary": [
-      "(광주=연합뉴스) 장덕종 기자 = 오는 7월 전남광주통합특별시 출범과 함께 전남·광주가 첨단 반도체 기업과 생산시설, 인공지능(AI), 에너지,..."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n1ded8fe8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260614/134105800/1",
-    "title": "머스크는 세계 첫 조만장자 됐는데…美 노동자 임금·일자리·노후 ‘3중 불안’",
-    "summary": [
-      "기름값 급등으로 미국 노동자의 평균 실질임금 상승분 1년 반치가 사라진 같은 주, 스페이스X 상장은 일론 머스크를 세계 첫 1조달러 부자로 만들었다.",
-      "AI 붐의 과실이 초부유층에 집중되는 사이, 노동자들은 일자리와 노후자산을 동시에 걱정하는 처지에 놓였다는 진단이 나왔다.",
-      "미국 뉴욕타임스(NYT)는 13일(현지시간) 지난 한 주에 벌어진 두 사건이 미국 경제의 모순을 압축적으로 보여준다고 보도했다."
-    ],
-    "chips": [
-      "#AI",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n96d86e9d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260614/134105797/1",
-    "title": "2028대입 주요대학 수시 전형서 N수생 제한 2.5배 급증",
-    "summary": [
-      "2028학년도 대학 입시부터 N수생이 지원할 수 있는 수시 전형이 대폭 줄어든다.",
-      "내신 5등급제 전환 이후 첫 대입을 앞두고 대학들이 ‘N수생 지원 불가’ 전형의 모집 인원을 2배 이상 확대하면서다.종로학원이 14일 서울대·연세대·고려대·성균관대·서강대·한양대·중앙대·경희대·이화여대·한국외대 등 주요 10개 대학의 2028학년도 수시 전형 선발 인원을 분석한 결과, N수생 지원이 제한된 전형의 총모집 인원은 총 4894명으로 집계됐다."
-    ],
-    "chips": [
-      "#채용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n17e0a047",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260614/134105792/1",
-    "title": "‘세기의 재산분할’ 최태원·노소영…2년 만에 법정서 만난다",
-    "summary": [
-      "최태원 SK그룹 회장과 노소영 아트센터 나비 관장이 수년째 이어지고 있는 재산분할 소송의 중대 국면을 앞두고 약 2년 만에 법정에서 다시 마주한다.14일 법조계와 업계에 따르면 서울고법 가사1부(부장판사 이상주)는 오는 15일 오후 2시 최 회장과 노 관장의 재산분할 소송 파기환송심 2차 조정기일을 진행한다.두 사람이 법정에서 직접 대면하는 것은 항소심 마지막 변론이 진행됐던 지난 2024년 4월 이후 약 2년 2개월 만이자 지난해 대법원 판결."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf7430469",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614009600009",
-    "title": "법원 명령에 트럼프 이름 떼어낸 케네디센터…작업 장면 생중계",
-    "summary": [
-      "(서울=연합뉴스) 고일환 기자 = 미국의 수도 워싱턴DC에서 공연예술의 산실 역할을 해온 케네디센터가 건물에서 도널드 트럼프 대통령의 이름을 철..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6a868ba2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614009700071",
-    "title": "트럼프, '월가 관할' 검사장도 본인 사건 변호인단 출신 발탁",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령이 연방 법무장관에 이어 월스트리트를 관할하는 뉴욕 남부연방지검장에도 자신의 형사..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "neceba1fc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667167",
-    "title": "의자에 앉다 '뚝'…\"첫 골절 후 치료가 운명 가른다\"[인터뷰]",
-    "summary": [
-      "[서울=뉴시스]송연주 기자 = \"골다공증 골절이 발생하면 우선 골형성 촉진제를 사용해서 재골절을 막는 것이 중요합니다.\" 문봉주 강남세브란스병원 척추신경외과 교수는 최근 뉴시스와의 인터뷰에서 \"고령 환자는 가볍게 넘어지거나 의자에 앉으려다 중심을 잃는 정도의 충격에도 골절을 경험한다\"며 \"위험성을 고려할 때 재골절 예방 치료 전략이 중요하다\"고 밝혔다.",
-      "골다공증 골절은 뼈 강도가 약해진 상태에서 가벼운 충격만으로 뼈가 부러지는 것을 의미한다."
+      "한국 성인 3명 가운데 1명 이상이 비만한 것으로 드러났다.",
+      "14일 질병관리청이 2015~2024년 지역사회건강조사에 참여한 만 19세 이상 성인 연간 23만여명의 자료를 분석한 결과, 2024년 성인 비만율은 34.4%에 달했다.",
+      "성인 비만율은 ▲2015년 26.3% ▲2018년 31.8% ▲2021년 32.2% 등으로 꾸준히 증가했다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n85f9b63c",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612125600051",
-    "title": "부산 도심 복합개발 대상지 확대…역세권 준주거지 포함",
+    "id": "n58825121",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/14/2026061113560652938",
+    "title": "한국 세계 5위, 북한은 13위…숫자로 비교한 'K-국방'",
     "summary": [
-      "(부산=연합뉴스) 민영규 기자 = 부산지역 도심 복합개발 대상지역이 확대돼 원도심과 역세권의 고밀·복합개발이 촉진될 전망이다."
+      "[the300]자주국방, 新한미동맹의 '키스톤'③ 군사력 평가기관 글로벌파이어파워(GFP)는 2026년 대한민국 국방력을 세계 145개국 중 5위, 북한은 31위로 평가했다.",
+      "군사 장비와 병력 등 재래식 핵심 전력 지표를 살펴보면 남북의 격차가 확연하다.",
+      "이재명 대통령도 최근 국무회의에서 GFP 평가 결과를 인용해 \"대한민국은 주한미군을 제외하고 전세계 자체 군사력 수준이 세계 5위\"라고 강조했다."
+    ],
+    "chips": [
+      "#전세",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3c9f8dfd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668147",
+    "title": "강예원, 성형수술 7번 고백…\"몰래 성형 그만해\"",
+    "summary": [
+      "[서울=뉴시스] 손정빈 기자 = 배우 강예원이 최근 눈 앞트임 복원 수술을 하는 등 성형수술을 7번 했다고 말한다.",
+      "강예원은 14일 방송하는 SBS TV 예능프로그램 '미운 우리 새끼'에 나와 성형 관련 얘기를 한다.",
+      "강예원은 화장기 없는 얼굴에 안경을 쓴 모습으로 등장해 양치질 하는 모습가지 보여준다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6112f111",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612027200017",
-    "title": "바이오USA 집결하는 K바이오…기술수출·수주 총력전",
+    "id": "n4fd720db",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668160",
+    "title": "\"아라그치에게 죽음을\"…이란 강경파, 美와 종전 합의 반대 시위",
     "summary": [
-      "(서울=연합뉴스) 신선미 기자 = 국내 주요 제약·바이오기업이 오는 22일 미국 샌디에이고에 총집결한다."
+      "[서울=뉴시스] 문예성 기자 = 이란과 미국 간 종전 합의 체결이 임박한 것으로 알려진 가운데 이란 강경파 진영이 합의 반대 시위를 벌이며 협상 책임자들을 강도 높게 비판했다.",
+      "13일(현지 시간) 이란 인터내셔널 등에 따르면 이날 수도 테헤란과 시아파 성지인 호라산주 마슈하드 등지에서 미국과의 종전 합의에 반대하는 시위가 열렸다.",
+      "시위대는 최근 미국과의 협상을 주도한 정부 협상팀을 비난하며 강경 노선을 지지하는 구호를 외쳤다."
     ],
     "chips": [
-      "#수출"
+      "#뉴스"
     ]
   },
   {
-    "id": "n91050a9c",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612156000546",
-    "title": "[율곡로] 환율 1500원대 고착화 경계해야",
+    "id": "n42edd824",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668176",
+    "title": "BTS공연 암표 22만→68만원…부산경찰, 10건 11명 적발",
     "summary": [
-      "(서울=연합뉴스) 이승우 선임기자 = 한때 1천600원대 진입 우려마저 나왔던 원/달러 환율이 정부 구두 개입과 이란 전쟁 종전 가능성에 일단 ..."
+      "[부산=뉴시스] 하경민 기자 = BTS(방탄소년단) 월드투어 부산공연 관련 암표 거래를 한 내·외국인이 무더기로 경찰에 적발됐다.",
+      "부산경찰청은 지난 12~13일 BTS 월드투어 부산공연이 열린 아시아드주경기장 일대에서 단속반 70여 명을 투입해 공연티켓 암표거래 집중단속을 벌인 결과 총 10건(11명)의 불법 행위를 적발했다고 14일 밝혔다.",
+      "경찰에 따르면 한국인 40대 여성 A씨는 중국인 여성에게 공연장 입장 팔찌를 채우다가 경찰에 발각됐다."
     ],
     "chips": [
-      "#환율"
+      "#환경"
     ]
   },
   {
-    "id": "ne1195ad4",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "22분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260612124029",
-    "title": "[SW키트] \"코딩만 잘해선 안 돼\"…기업 성과 돕는 'AI 엔지니어' 뜬다",
+    "id": "ne377d742",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668180",
+    "title": "송파구, 제30회 구립교향악단 정기연주회…무료 관람",
     "summary": [
-      "[지디넷코리아]기업 인공지능(AI) 도입이 실험 단계를 지나 실제 성과를 요구하는 단계로 넘어가면서 개발자 역할도 확대되고 있다.",
-      "단순 코딩만 하는 업무에서 벗어나 고객 현장 문제를 이해하고 AI 시스템을 업무 성과로 연결하는 방향으로 바뀌고 있다.",
-      "14일 IT 업게에 따르면 최근 AI 기업 시장 수요 변화로 인해 회사에서 상주하던 개발자 엔지니어 역할이 이같이 확장하는 것으로 전해지고 있다."
+      "[서울=뉴시스] 박대로 기자 = 서울 송파구(구청장 서강석)는 오는 18일 오후 7시30분 송파문화예술회관에서 제30회 송파구립교향악단 정기연주회 '삶의 파동: 환희에서 비극까지'를 개최한다고 14일 밝혔다.",
+      "송파구립교향악단은 지난 31년간 석촌호수 벚꽃축제, 해피 콘서트, 학교로 찾아가는 오케스트라 등 무대를 열었다.",
+      "러시아 아스트라한 국립대학 교수와 미국 조지아 챔버 오케스트라 상임지휘자를 역임한 양일오 지휘자가 악단을 이끌고 있다."
     ],
     "chips": [
-      "#AI"
+      "#교육"
     ]
   },
   {
-    "id": "n1029d8f3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "43분 전",
-    "url": "https://www.hankyung.com/article/2026061446847",
-    "title": "실업급여 17조 '역대 최대'…곳간은 사실상 텅 비었다",
+    "id": "n1cae6dfe",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/14/MVQTINJRGM3TGYLEGJSDMYRZGQ/",
+    "title": "요트 대여료=200만원..“혼자 결정” 이민우, “공유필요” ♥아내와 갈등 (‘살림남’)[어저께TV]",
     "summary": [
-      "실업급여 17조 '역대 최대'…곳간은 사실상 텅 비었다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘살림하는 남자들 시즌2’ 이민우와 이아미가 신혼여행 중 부부싸움을 했다.",
+      "13일 방송된 KBS2 예능 ‘살림하는 남자들 시즌2’(이하 ‘살림남’)에서는 대만으로 신혼여행을 떠난 이민우 부부가 금전적인 문제로 갈등을 빚는 모습이 그려졌다.",
+      "앞서 이민우는 여행 내내 스태미나를 외치면서 셋째에 대한."
     ],
     "chips": [
-      "#고용"
+      "#뉴스"
     ]
   },
   {
-    "id": "n11707973",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "51분 전",
-    "url": "https://www.hankyung.com/article/2026061446807",
-    "title": "미국의 앤트로픽 때리기…해묵은 갈등에 '보복' 분석도",
+    "id": "n78bc74f9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260614/134106020/1",
+    "title": "제시카 中 공항 헛구역질 영상 논란…“표정 오해, 어린 팬에 놀란 것” 해명",
     "summary": [
-      "미국의 앤트로픽 때리기…해묵은 갈등에 '보복' 분석도."
+      "걸그룹 소녀시대 출신 제시카가 공항 헛구역질 의혹에 대해 해명했다.지난 12일 X(구 트위터) 등 각종 사회관계망서비스(SNS)와 온라인 커뮤니티에서는 제시카의 중국 상하이 공항 입국 영상이 논란으로 확산됐다.영상에서 제시카는 팬들에 둘러싸인 채 걸음을 옮겼다.",
+      "그러던 중 왼쪽을 흘깃 보고는 코를 살짝 막았고, 이내 헛구역질을 하는 듯한 제스처를 취했다.이에 온라인에서는 “연예인이 공항 거닐다가 팬들 냄새난다고 코를 비비더니 울렁거리면서 토하려."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n82b4c1c6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/06/14/JUSMWKVXORGHZEMWFVUOE4A6QU/",
+    "title": "우승후보 브라질-모로코, 북중미 월드컵 첫 경기에서 접전 1대1 무승부",
+    "summary": [
+      "우승후보 브라질-모로코, 북중미 월드컵 첫 경기에서 접전 1대1 무승부."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf9db920",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/14/2026061115460249262",
+    "title": "현대전은 '총력전'…韓 국방비, 北 GDP보다 많다",
+    "summary": [
+      "[the300]자주국방, 新한미동맹의 '키스톤'② 현대전의 성패는 군사력뿐 아니라 전방 무기 체계를 생산·보급할 수 있는 국가 경제력과 산업 기반에서 갈린다.",
+      "국가의 총역량이 투입된다는 점에서 현대전은 '총력전'으로 불린다.",
+      "방위력의 근간인 국방 재정과 방위산업 역량에서 남북한의 격차는 이미 비교가 어려울 정도로 벌어져 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1ff2b0bb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/14/GMZDANTBMNSGMZRTGJTGIY3DGQ/",
+    "title": "'13년 연속 20도루' 도루장인 승부욕 깨운 '마황' \"과감하게 뛴다. 좋은 자극이 된다\"",
+    "summary": [
+      "[잠실=스포츠조선 정현석 기자] \"황성빈 선수가 뛰는 모습을 보면서 좋은 자극을 받았다.",
+      "정말 과감하게 움직이더라.\" KBO 리그의 레전드 대도 박해민(36·LG 트윈스)이 단숨에 도루 단독 선두로 치고 나간 '마황' 황성빈(29·롯데 자이언츠)의 무한 질주에 아낌 없는 찬사를 보냈다.",
+      "전직 도루왕의 눈에 비친 현직 도루왕의 과감함은 도루장인을 자극하기에."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n45dd6b8c",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260614/134105998/1",
+    "title": "‘헤어지자’ 말에 격분…연인 집에 불 지르려 한 20대 집유",
+    "summary": [
+      "헤어지자는 말에 격분해 여자 친구 집에 불을 지르려 한 20대가 1심에서 징역형의 집행유예를 선고받았다.전주지법 제11형사부(이영은 부장판사)는 현주건조물방화미수 등의 혐의로 기소된 A 씨(20)에게 징역 1년 6개월에 집행유예 3년을 선고했다고 14일 밝혔다.",
+      "재판부는 보호관찰을 명하고 알코올 중독 치료 등 특별준수사항도 부과했다.A 씨는 지난해 5월 21일 오전 5시 12분께 전북 전주시 덕진구의 한 다세대주택에 거주하는 여자 친구 B 씨의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n680495d2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260614/134105994/1",
+    "title": "‘30도’ 여름 더위 속 교통량 소폭 감소…부산→서울 5시간 20분",
+    "summary": [
+      "일요일인 14일 30도 안팎의 초여름 더위 속에 고속도로 교통량이 소폭 감소하겠다.한국도로공사는 이날 전국에서 자동차 460만 대가 고속도로를 이용할 것으로 전망했다.",
+      "수도권에서 지방으로 38만 대, 지방에서 수도권으로 44만 대가 이동할 것으로 보인다.서울 방향 고속도로는 오전 10~11시쯤 정체가 시작돼 오후 4~5시쯤 가장 혼잡할 전망이다.",
+      "서울 방향 정체는 오후 10시쯤 해소되겠다.지방 방향 고속도로 교통은 대체로 원활한 흐름을 보이겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad796566",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614015500091",
+    "title": "[게시판] 샌프란총영사관, 'K-뷰티' 팝업 행사 개최",
+    "summary": [
+      "[게시판] 샌프란총영사관, 'K-뷰티' 팝업 행사 개최."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf7d31af2",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026061409172049012",
+    "title": "물놀이시즌 '계절 팝업' 잇따라… 신세계 센텀시티, '레디투킥' 운영",
+    "summary": [
+      "본격적인 여름 휴가철을 앞두고 백화점 업계가 수영복과 바캉스 용품을 앞세운 계절 마케팅에 나서고 있다.",
+      "신세계 센텀시티는 오는 18일까지 백화점 6층 키즈스테이지에서 수영 라이프스타일 브랜드 '레디투킥(READY TO KICK)' 팝업 스토어를 운영한다고 14일 알렸다.",
+      "레디투킥은 수영복과 수모 등을 중심으로 활동적인 수영 문화를 제안하는 브랜드다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n691d94c7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614012900009",
+    "title": "\"스마트폰 보급이 출산율 급락 원인 중 하나\" 美 연구결과",
+    "summary": [
+      "(서울=연합뉴스) 김아람 기자 = 미국에서 출산율 급락을 이끈 원인 중 하나가 스마트폰 보급이라는 경제학자들의 연구 결과가 나와 이목을 끌고 있..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf4fdefc8",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026061409155845426",
+    "title": "화성시, 배드민턴·장애인 파크골프대회 성료…스포츠로 하나 된 화합의 장",
+    "summary": [
+      "경기 화성특례시는 지난 13일부터 14일까지 열린 '제19회 화성특례시장기 배드민턴대회'와 '제10회 화성특례시장배 장애인 어울림 파크골프대회'를 성공적으로 마무리하며 생활체육 동호인과 장애인 체육인이 함께하는 화합의 장을 마련했다.",
+      "건강과 활력으로 하나 된 화성…제19회 화성특례시장기 배드민턴대회화성특례시체육회가 주최하고 화성특례시배드민턴협회가 주관한 「제19회 화성특례시장기 배드민턴대회」가 화성실내배."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n0225b785",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612069300052",
+    "title": "일당 독주 끝난 경남도의회…양당 교섭단체로 '협치·견제' 하나",
+    "summary": [
+      "(창원=연합뉴스) 이정훈 기자 = 6·3 지방선거 결과 7월에 출범하는 제13대 경남도의회는 현 12대 의회와 여러 측면에서 다른 모습을 보일 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd37babc8",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/14/2026061406321733762",
+    "title": "'브라질 이름값 아쉽네' 전반에 밀리고, 후반엔 답답... '비니시우스가 살렸다' 모로코와 1-1 무승부",
+    "summary": [
+      "'영원한 우승후보' 브라질이 아쉬운 경기력으로 월드컵 출발을 알렸다.",
+      "브라질은 14일(한국시간) 미국 뉴저지주 이스트 러더퍼드의 뉴욕 뉴저지 스타디움에서 열린 모로코와 2026 국제축구연맹(FIFA) 북중미 월드컵 C조 조별리그 1차전에서 1-1로 비겼다.",
+      "이번 대회에서 브라질은 모로코, 스코틀랜드, 아이티와 함께 C조에 묶였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na8901a5a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260614/134105952/2",
+    "title": "‘이란 종전’ 예고한 트럼프, 돌연 SNS에 김정은과 찍은 사진 올려",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 13일(현지 시간) 소셜미디어에 8년 전 김정은 북한 국무위원장과 만났던 사진을 공유해 그 배경에 이목이 쏠린다.트럼프 대통령은 이날 트루스소셜에 아무 설명 없이 김 위원장과 나란히 걷는 사진 한 장을 게시했다.해당 사진은 트럼프 1기 행정부 시절인 2018년 6월 12일 싱가포르 센토사섬 카펠라호텔에서 열린 북미 정상회담 직후 두 정상이 호텔 정원을 함께 산책하는 모습을 찍은 것이다.두 정상은 당시 한반도의 완전한."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na63a6b53",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614015000007",
+    "title": "[월드컵] 월드컵 마스코트로 위장한 페루 경찰, 마약 밀매 용의자 체포",
+    "summary": [
+      "(서울=연합뉴스) 이영호 기자 = 2026 북중미 월드컵 마스코트로 분장해 신분을 숨긴 페루 경찰이 마약 밀매 용의자의 집을 급습해 체포하는 독..."
     ],
     "chips": [
       "#뉴스"
@@ -639,20 +647,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
-  },
-  {
-    "rank": 3,
     "tag": "반도체",
     "mentions": "1810건",
     "trend": "+175%"
+  },
+  {
+    "rank": 3,
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
