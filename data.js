@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-14 05:31:44
+// 마지막 업데이트: 2026-06-14 07:31:10
 window.NEWS_DB = [
   {
     "id": "na2cf4007",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZm5YSUdYb0lmcUkwdlhrSV80aUZsWVZJTDlwbHlqZUdUWlQ1TjY4eU5YSUpvSThCTzRmWEVXSkNiRGdqZTJ5XzJjQ1lnVERlaWFiMHZ3TWx0cTlGZk5JQzZVb0NuZVNFLWxWclFPRDZhWmc?oc=5",
     "title": "엔비디아 대항 독자 AI칩 시장 급성장 전망, 삼성전자·SK하이닉스 HBM 수요 더 늘어난다",
     "summary": [
@@ -115,7 +115,7 @@ window.NEWS_DB = [
     "id": "n31acb708",
     "category": "사회",
     "source": "아주경제",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
     "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
     "summary": [
@@ -194,7 +194,7 @@ window.NEWS_DB = [
     "id": "na51ce02d",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "11일 전",
+    "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LaFJiaVhMOVg4RmU3ZUdELWJZQldVcVNNalNXTnNiQVpiM3Z1V1AtdFY4QWNCZ2M0bUthYnRWb0xjMUFvQkhYZm1CaW9OV0tQaVY5TWVKd0RCaU1pdlNhTWp3YlNYR0dI?oc=5",
     "title": "삼성전자·하이닉스, HBM4 베이스다이 경쟁…메모리에서 '파운드리 전쟁'으로",
     "summary": [
@@ -206,10 +206,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "summary": [
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "n37646dcf",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "16일 전",
+    "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
@@ -223,7 +237,7 @@ window.NEWS_DB = [
     "id": "nf5e411c3",
     "category": "부동산",
     "source": "시사저널",
-    "time": "17일 전",
+    "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01U0FIUE9UX2Vqem5FTk56T2xVT0JZa3E4MThXUzFzenhmMkpoS1dZRFJvYjJHYXZLbzhqR3AxTHBQVFhpTGdSOHdrb0RHY0lIb0hfM2dmTWNHUngzbktFQ194QWstSGtTUDc1TlVaSdIBc0FVX3lxTFBJcnZERUJjc0xnZzNwUVd2YlYzWk5sMmNzMms4a0kyVFpTQnNRZDJ2aW1KeDRtZXF2b0RPb0hmd0tCWFF4WC0xdWlPcFhaTzdZdThRWUI4SGNDLVZfc2I3UXhkN0VhWmxySUpZeU85WDNjek0?oc=5",
     "title": "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설",
     "summary": [
@@ -234,25 +248,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n269e2609",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "32일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
-    "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
-    "time": "45일 전",
+    "time": "46일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -267,7 +266,7 @@ window.NEWS_DB = [
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
-    "time": "73일 전",
+    "time": "74일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
@@ -310,7 +309,7 @@ window.NEWS_DB = [
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
-    "time": "253일 전",
+    "time": "254일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
     "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
     "summary": [
@@ -389,273 +388,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndd747df9",
+    "id": "n0bdf4023",
     "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668306",
-    "title": "이민우 \"아들 생기게 해주세요\" 역술가 \"내년에 생긴다\"",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668342",
+    "title": "36㎏ 감량 이순실 \"이제 44반 입어\" 김숙 \"진짜 날씬해\"",
     "summary": [
-      "[서울=뉴시스] 손정빈 기자 = 그룹 신화 이민우가 내년에 아들이 생길 수도 있다는 역술가 말에 반색했다.",
-      "이민우는 13일 방송한 KBS 2TV 예능프로그램 '살림하는 남자들' 시즌2에서 아내 아미와 함께 대만 펑후섬으로 신혼여행을 갔다.",
-      "이민우는 신혼여행 이튿날 펑후섬 대표 사원인 천후궁에 가 \"아들을 점지해 달라\"고 기도를 드렸다."
+      "[서울=뉴시스] 손정빈 기자 = 탈북민 출신 외식사업가 이순실이 44반 사이즈를 입는다고 말한다.",
+      "이순실은 14일 방송하는 KBS 2TV 예능프로그램 '사장님 귀는 당나귀 귀'에서 몰라보게 살이 빠진 모습으로 등장한다.",
+      "이순실은 앞서 36㎏을 감량했다고 말한 적이 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n64bddf53",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/sports/2026/06/14/AHZ7HR7UY5CRTMWCD4NLVZIUFA/",
-    "title": "월드컵 안정 비상…이란 훈련장 인근 주차장서 시신 발견",
-    "summary": [
-      "월드컵 안정 비상…이란 훈련장 인근 주차장서 시신 발견."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nca0061ad",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260614/134107237/1",
-    "title": "美, 아파치 추락 후 이란 공습 3시간전 취소…배경엔 카타르 있었다",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 11일(현지 시간) 이란과의 합의 가능성을 언급하며 돌연 공습을 취소한 배경에 중재국 카타르와 파키스탄의 설득이 결정적인 역할을 한 것으로 나타났다.",
-      "13일 월스트리트저널(WSJ)에 따르면 앞서 10일 카타르 외교관들이 종전 양해각서(MOU) 초안을 갖고 이란에서 돌아왔다.",
-      "이를 토대로 파키스탄은 도널드 트럼프 미국 대통령에게 “평화 협정이 거의 완료됐으니 새 공습 계획을 취소해달라”고 설득했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne3349455",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260614/134107067/1",
-    "title": "트럼프 “베네수엘라 범죄조직 ‘트렌 데 아과라’ 수장 사살”",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 베네수엘라의 악명 높은 범죄조직인 ‘트렌 데 아과라’의 수장을 사살했다고 발표했다.12일(현지 시간) 저녁 트럼프 대통령은 자신의 소셜미디어 트루스소셜에 “미국 남부사령부는 신속하고 치명적인 군사 공격을 통해 지구상에서 가장 잔혹한 테러조직 중 하나인 트렌 데 아라과의 니뇨 게레로를 성공적으로 사살했다”고 밝혔다.",
-      "함께 게시된 10초 분량의 영상에는 한 건물이 미군의 타격으로 폭발하는 장면이 담겼다.트럼프 대통령은."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n304521a8",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/14/2026061414111332834",
-    "title": "국민의힘 \"한성숙, 불법증축 방치\"…민주당 \"청문회·검증 과정 신뢰\"",
-    "summary": [
-      "[the300] 더불어민주당이 한성숙 국무총리 후보자의 서울 종로구 건물 불법 증축 의혹과 관련해 \"확인은 필요하지만 총리 지명 과정에서 내부 검증이 진행됐다고 보기 때문에 그 과정을 신뢰한다\"고 밝혔다.",
-      "조승래 민주당 사무총장은 14일 오전 서울 여의도 국회에서 기자간담회를 열고 한 후보 관련 질문에 이같이 말했다.",
-      "조 사무총장은 \"그 부분은 구체적인 팩트에 대해서 정확히 알 수 없기에 확인이 필요하다\"면서도 \"한성숙 지명자는 (중소벤처기업부."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n82ec062a",
-    "category": "스포츠",
+    "id": "n419439a4",
+    "category": "부동산",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668348",
-    "title": "\"선수는 수분, 팬은 카스 제로 충전\"…월드컵 새 광고 통했다",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668395",
+    "title": "美·이란 종전 합의 임박 속 이스라엘, 대헤즈볼라 공세 확대",
     "summary": [
-      "[서울=뉴시스]권민지 기자 = 피파(FIFA) 월드컵 2026 공식 스폰서 카스가 월드컵에 새롭게 도입된 '하이드레이션 브레이크(Hydration Break)'를 활용해 참여형 이벤트 '카스 제로 리필 타임'을 진행했다고 14일 밝혔다.",
-      "하이드레이션 브레이크는 선수들의 건강과 경기력 유지를 위해 전반 22분과 후반 22분 각각 약 3분간 운영되는 휴식 시간이다.",
-      "이번 월드컵에서 처음 도입됐으며 선수들은 해당 시간 동안 수분을 보충하고 경기를 재."
-    ],
-    "chips": [
-      "#전기차",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf9639549",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/14/YWIDSS5YEVEQXBVIZ5Q3L6MJ6E/",
-    "title": "이정후, 18경기 연속 안타 마감 후 2경기 침묵",
-    "summary": [
-      "이정후, 18경기 연속 안타 마감 후 2경기 침묵."
+      "[서울=뉴시스] 문예성 기자 = 미국과 이란 간 종전 양해각서(MOU) 체결이 임박했다는 관측이 나오는 가운데 이스라엘이 레바논의 친이란 무장정파 헤즈볼라를 겨냥한 공세를 확대하면서 긴장이 고조되고 있다.",
+      "13일(현지시간) 중동 매체 알자지라 등에 따르면 이날 이스라엘군의 공습으로 레바논 남부 티르, 나바티예, 제진 지역 등에서 최소 5명이 사망했다.",
+      "이스라엘군은 이날 새벽부터 남부 빈트즈바일 지역의 주택과 공공건물을 집중 타격한 데 이어 비르."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n20bdd305",
+    "id": "n5e880197",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668422",
+    "title": "[속보] 이란 매체 \"카타르 협상단, 합의 타결 위해 테헤란 도착\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sophis731@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd55a6bad",
     "category": "IT",
     "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260614/134106881/1",
-    "title": "최태원 “전속력으로 AX 돌입…‘나의 AI’ 넘어 ‘우리의 AI’ 진화해야”",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260614/134107950/1",
+    "title": "美연구소 “스마트폰 보급이 출산율 하락에 영향…대면 상호작용 감소시켜”",
     "summary": [
-      "최태원 SK그룹 회장이 그룹 차원의 신속하고 전방위적인 인공지능 전환(AX)을 강도 높게 주문했다.",
-      "단순한 개인 업무보조 수준을 넘어 조직 전체의 성과를 창출하는 인프라를 구축하고, 이를 통해 일하는 방식을 근본적으로 혁신해야 한다는 구상이다.14일 SK그룹에 따르면 최 회장은 11~13일 경기 이천시 SKMS연구소에서 열린 ‘2026 뉴 이천포럼’에 참석해 인공지능(AI) 전환 중심 경영으로 대전환을 강조했다.",
-      "최 회장은 이 자리에서 “360."
+      "스마트폰 보급이 미국 출산율 하락에 영향을 미친 것으로 보인다는 연구 결과가 나왔다.",
+      "스마트폰이 일상생활에서 대면 상호작용을 감소시켜 성관계 및 임신 가능성을 줄였다는 분석이다.12일(현지 시간) CNN에 따르면 미국 미들버리대와 전미경제연구소(NBER) 소속 연구팀은 최근 발표한 연구 보고서를 통해 2007년이 미국 출산율에서 특히 중요한 ‘변곡점’이었다고 밝혔했다.",
+      "2007년은 애플이 미국에서 처음으로 아이폰을 출시하기 시작한 해."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "n85a657bc",
+    "id": "n1f798c5a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/14/GY3WMMBYGJRTAYJVGIZTQNDEHA/",
+    "title": "'7-2 → 7-9' 7실점 한승혁 결국 2군행 → 교체 안 했나 못 했나. 이강철 감독 \"하나만 더 잡기를 기다렸다\" [수원 현장]",
+    "summary": [
+      "[수원=스포츠조선 한동훈 기자] \"그냥 하나만 더 잡기를 계속 기다렸다.\" KT 위즈 구원투수 한승혁이 1이닝 7실점 부진했다.",
+      "한승혁은 다음 날 2군으로 내려갔다.",
+      "이강철 KT 감독은 교체 타이밍을 잡을 수가 없었다고 털어놨다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a0bc8e2",
     "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668417",
+    "title": "구미 달달한 낭만야시장 개장 첫 주말 5만명 행사장 찾아",
+    "summary": [
+      "[구미=뉴시스] 박홍식 기자 = '2026 구미 달달한 낭만야시장'이 개장 이틀 만인 첫 주말을 맞아 5만여 명의 방문객이 행사장을 찾았다.",
+      "14일 구미시에 따르면 원도심 상권 활성화와 지역경제 회복을 위해 지난 12일 새마을중앙시장과 동문상점가 일원에서 개최한 낭만야시장이 방문객들의 발길이 이어지며 성황을 이뤘다.",
+      "야시장은 40여곳 업체가 참여해 먹거리, 체험, 프리마켓, 공연을 한자리에서 즐길 수 있는 야간 문화축제로 운영된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73680790",
+    "category": "스포츠",
     "source": "조선일보",
     "time": "5분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/06/14/MY2WCOJUGAZDGNLEGNTGENJZGE/",
-    "title": "체질 개선 나선 가스공사, 재무 건전성·주주 가치 제고 ‘청신호’",
+    "url": "https://www.chosun.com/entertainments/music/2026/06/14/HBRGGNDGGU3TCMZRMJRDMMRQGU/",
+    "title": "[SC이슈] 블핑 리사가 열고, BTS가 닫는다…K팝이 더한 북중미 월드컵 열기",
     "summary": [
-      "한국가스공사가 중동발 지정학적 리스크, 미수금 누적이라는 이중고에도 자구 노력과 신사업 투자를 통해 위기 극복에 나서고 있다.",
-      "재무 건전성 회복과 동시에 미래 성장 동력을 확보해 국민 편익과 주주 가치를 동시에 끌어올리겠다는 방침이다.",
-      "14일 가스공사는 재무 위기를 극복하기 위해 전사적 경영 효율화에 집중하고 있다고 밝혔다."
+      "[스포츠조선 안소윤 기자] 북중미월드컵이 전 세계를 뜨겁게 달구고 있는 가운데, K팝 아티스트들이 화려한 퍼포먼스로 축제의 열기를 더하고 있다.",
+      "미국·멕시코·캐나다 등 북중미에서 열린 이번 월드컵은 경기장 안팎에서 K팝의 영향력을 확인할 수 있는 무대가 됐다.",
+      "개막식과 주제가 가창을 비롯해 결승전 하프타임 쇼 등 주요 무대에 K팝 아티스트들이 대거 참여하며."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n90f0554c",
-    "category": "경제",
-    "source": "동아일보",
+    "id": "n5e91e768",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260614/134107133/1",
-    "title": "시장금리 상승에…은행 예금금리 다시 3%대 진입",
+    "url": "https://www.yna.co.kr/view/AKR20260614037000007",
+    "title": "[월드컵] 잉글랜드 대표팀 장비 훔친 2인조 체포…최대 징역 7년",
     "summary": [
-      "이르면 7월 한국은행이 기준금리를 인상할 것으로 전망되면서 시장금리가 상승하자 주요 시중은행의 정기예금 금리도 3%대로 올라서고 있다.",
-      "대출금리도 올라 주택담보대출은 7%대 중반에 육박했다.14일 은행연합회 소비자 포털에 따르면 12일 기준 5대 은행(KB국민·신한·하나·우리·NH농협)의 대표 정기예금 상품 최고 금리(1년 만기 기준)는 연 2.90∼3.00% 수준이었다.",
-      "한 달 전보다 상단이 0.05%포인트 높아졌다.상품별로는 신한은행의 ‘신."
+      "(서울=연합뉴스) 이영호 기자 = 2026 북중미 월드컵에 나선 잉글랜드 축구 대표팀의 훈련 장비를 훔친 남성 2명이 체포돼 기소됐다."
     ],
     "chips": [
-      "#금리",
-      "#한은"
+      "#뉴스"
     ]
   },
   {
-    "id": "n459664d2",
+    "id": "n4ba4122a",
     "category": "사회",
     "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614036500079",
+    "title": "\"중재국 카타르 협상단, 종전협정 타결 위해 테헤란행\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간의 종전 협정을 마무리하기 위해 중재국인 카타르 협상단이 14일(현지시간) 오전 이란 수도 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne102b3a8",
+    "category": "부동산",
+    "source": "조선일보",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614028600051",
-    "title": "전재수 부산시장 당선인 인수위, 시정 핵심과제 본격 발굴",
+    "url": "https://www.chosun.com/economy/realty/realestate_news/2026/06/14/MRQWKMJWHBTDCMJXGQZGKZDBGI/",
+    "title": "경비원 때려 숨지게 만드는 세상인데…투병 직원 위해 1600만원 모금한 용산 아파트",
     "summary": [
-      "(부산=연합뉴스) 민영규 기자 = 전재수 부산시장 당선인 인수위원회 '다시 뛰는 부산 위원회'는 15일부터 부산시와 산하기관 주요 현안 업무보고..."
+      "[땅집고] “명품 아파트에 명품 주민들, 정말 대단합니다! 아파트 관리인을 위한 모금 운동 10일 만에 1600만원이나 모였다니…” 최근 온라인 부동산 커뮤니티에 한 아파트에서 발생한 훈훈한 미담이 알려지면서 화제를 모으고 있다.",
+      "7년 동안 아파트 내부 시설을 관리해온 한 직원이 중병에 걸렸다는 소식에 입주민들이 자발적으로 모금 운동을 진행해 무려 16."
     ],
     "chips": [
-      "#뉴스"
+      "#부동산"
     ]
   },
   {
-    "id": "n874af68e",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026061414120092549",
-    "title": "\"미디어 속 흡연 장면 자주 본 청소년, 담배에 관대\"",
-    "summary": [
-      "미디어에서 흡연 장면을 자주 본 청소년일수록 흡연에 관대한 태도를 보인다는 연구 결과가 나왔다.",
-      "14일 한국청소년연구 최신호에 실린 '미디어 흡연 장면 노출이 청소년의 흡연 용인 태도에 미치는 영향' 논문에 따르면 연구진이 작년 8~9월 중고등학생 3384명을 대상으로 설문조사한 결과 흡연 경험 비율은 4.2%로 나타났다.",
-      "이는 작년 기준 성인 흡연율(17.9%)과 비교하면 4분의 1 수준이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb841299",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668327",
-    "title": "이정후, 18G 연속 안타 중단 후 연이틀 침묵…타율 0.328 2위 유지",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 연속 안타 행진이 18경기에서 멈췄던 이정후(샌프란시스코 자이언츠)가 2경기 연속 침묵했다.",
-      "이정후는 14일(한국 시간) 미국 캘리포니아주 샌프란시스코의 오라클 파크에서 벌어진 2026 메이저리그(MLB) 시카고 컵스와의 홈 경기에 5번 타자 우익수로 선발 출전해 4타수 무안타를 작성했다.",
-      "지난 5월15일 LA 다저스전부터 11일 워싱턴 내셔널스전까지 18경기 연속 안타 행진을 벌였던 이정후는 전날 컵스전에서 3타."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncc0419d5",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/tech/2026/06/14/2026061413563147520",
-    "title": "美 정부, 앤트로픽 '미토스' 외국인 접속 차단…韓 '글래스윙' 참여 불똥",
-    "summary": [
-      "미국 행정부가 AI 기업 앤트로픽의 최상위 모델 '미토스' 수출을 통제한다.",
-      "외국인 접속을 막으면서 국내 정부와 기업의 글로벌 AI 보안 연합체 '프로젝트 글래스윙'에 참여에 제동이 걸릴 수 있다는 우려가 나온다.",
-      "14일 정보기술(IT) 업계에 따르면 앤트로픽은 지난 12일(현지시각) 블로그를 통해 \"정부의 법적 지침을 준수해 페이블5 및 미토스5의 접속을 차단하고 있다\"며 이같이 밝혔다."
-    ],
-    "chips": [
-      "#AI",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n3d8615c7",
+    "id": "nbbbdb984",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/14/2026061410033476237",
-    "title": "李 대통령 \"신념보다 책임\" 鄭 직격?…전대 본격화, 당권구도는",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614035400009",
+    "title": "\"새 이란 혁수대 사령관, 국면마다 대미 강경노선 관철\"",
     "summary": [
-      "[the300] 8·17 더불어민주당 전국당원대회(전당대회)가 다가오면서 차기 당권 경쟁이 당청(여당-청와대) 관계 정립 문제와 맞물려 확전되는 분위기다.",
-      "정청래 대표와 김민석 국무총리, 송영길 의원 등이 잠재적 당권 주자로 거론되는 가운데 정 대표는 '보완수사권 폐지' 등 개혁 의제를 고리로 강성 지지층 결집에 나서고 있다.",
-      "여기에 이재명 대통령이 당 지도부의 리더십을 겨냥한 듯한 메시지를 내놓으면서 이번 전대가 향후 여권 권력 구도의 향방을."
+      "(서울=연합뉴스) 곽민서 기자 = 이란 강경파를 대표하는 아흐마드 바히디 혁명수비대(IRGC) 사령관이 미국과 이란의 종전 협상에서 마지막 '걸..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8689e7d5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614035500084",
+    "title": "상어 공격에 사상자 속출하자…호주, 감시용 드론 규제완화 검토",
+    "summary": [
+      "(하노이=연합뉴스) 박진형 특파원 = 호주에서 잇따른 상어의 공격으로 인명 피해가 속출하자 호주 당국이 무인기(드론)를 이용한 상어 감시를 위해..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n2b68024b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260614/134107501/1",
+    "title": "“티빙도 탈퇴”…‘정보 유출’ 단체소송 신청자 5만 명 넘었다",
+    "summary": [
+      "최근 국내 온라인동영상서비스(OTT) ‘티빙’에서 대규모 개인정보 유출이 발생한 가운데 이용자들의 피해 인증과 단체소송 움직임이 이어지고 있다.14일 소셜네트워크서비스(SNS)에 ‘개인정보 유출’ 피해를 인증했다는 김학철 씨(32)는 “내 정보 곳간이 털렸는데 사태 심각성을 사람들이 알면 좋지 않겠느냐”며 “티빙도 탈퇴할 것”이라고 밝혔다.",
+      "“티빙 탈퇴 의향이 있다”고 밝힌 김은진 씨(24)도 “쿠팡에 이어 또 개인정보 유출 피해가 발생해 답답."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na8331aa2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260614/134107658/1",
+    "title": "안규백 “전작권 전환 목표 연도, 연말 韓美 대통령에 건의”",
+    "summary": [
+      "안규백 국방부 장관이 전시작전통제권(전작권) 전환에 대해 “올해 연말 양국 대통령에게 건의해 전작권 회복 X년(목표 연도)을 결정하게 될 것”이라고 말했다.",
+      "안 장관은 14일 KBS ‘일요진단’에 출연해 이재명 정부 임기(2030년) 내 전작권 전환에 관한 질문을 받고 이같이 답했다.",
+      "안 장관은 “(전작권 전환 3단계 중 2단계인) 완전운용능력(FOC) 검증을 올해 11월 한미 연례안보협의회의(SCM)에서 하게 된다”며 “FOC 검증 결과를 가."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n41fcff17",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026061414154596058",
-    "title": "남양주 봉선사, ‘산문’ 새단장…새 현판 ‘교해선림대본산운악산문’ 제막",
+    "id": "ndfcebfb7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260614/134107432/1",
+    "title": "올리브영 美 2호점도 ‘오픈런’…프리미엄·글로벌 고객 공략",
     "summary": [
-      "경기 남양주시는 지난 13일 대한불교조계종 제25교구 본사 봉선사에서 산문의 단청 공사 완료를 기념하고 새 현판 '교해선림대본산운악산문' 제막식을 개최했다고 14일 밝혔다.",
-      "이번에 새롭게 설치된 현판은 봉선사가 교학과 수행을 아우르는 수행도량이자 운악산의 법맥을 계승하는 대본산으로서의 위상을 담고 있다.",
-      "특히 현판에는 남양주시와 (사)운허기념사업회가 지난해 공동 제작한 '운허체'가 적용됐다."
+      "CJ올리브영이 미국 캘리포니아주 로스앤젤레스(LA) 핵심 상권에 문을 연 두 번째 매장에서도 ‘오픈런’ 흥행을 이어나갔다.13일(현지시간) CJ올리브영은 LA에 두번째 오프라인 매장 ‘센추리시티점’을 개점했다고 밝혔다.",
+      "센추리시티점은 약 250㎡(약 76평) 규모로 LA 대표 복합쇼핑몰인 웨스트필드 센추리시티에 입점했다.",
+      "미국 서부 지역의 대표적 부촌인 비버리힐스와 명품 쇼핑거리인 로데오드라이브 인근에 있어 고소득 소비자와 글로벌 관광객 유입이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n693d3870",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/estate/2026/06/14/2026061215294570013",
-    "title": "3년 전 줄어든 착공의 청구서… 전세난 키운 공급절벽",
+    "id": "nb5eccac6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/06/14/GWYDMLDLQJDONAYYJTOUGYLUIY/",
+    "title": "신민준, LG배 결승 1국 혈투 끝에 中 왕싱하오에 반집승",
     "summary": [
-      "서울 아파트 전셋값이 지난해보다 5배 넘는 상승률을 기록하며 전세난 우려가 커지고 있다.",
-      "성북·노원 등 실수요 지역을 중심으로 전셋값이 오르는 가운데 정부는 최근 전월세 시장 불안의 배경으로 과거 공급 부족을 지목한다.",
-      "3년 전 줄어든 착공의 영향이 최근 입주 물량 감소로 이어지는 데다 올해도 착공 실적이 감소세를 보이면서 공급 공백이 당분간 이어질 것이라는 전망이다."
+      "신민준, LG배 결승 1국 혈투 끝에 中 왕싱하오에 반집승."
     ],
     "chips": [
-      "#부동산",
-      "#전세"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n937445a2",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "23분 전",
+    "url": "https://view.asiae.co.kr/article/2026061414543247402",
+    "title": "\"주식 팔아 강남 집 샀어요\"…3.7조원 주택시장으로",
+    "summary": [
+      "올해 들어 주식과 채권을 처분해 마련한 자금 3조7000억원이 주택시장으로 유입된 것으로 나타났다.",
+      "이 가운데 약 65%인 2조4000억원은 강남 3구를 중심으로 한 서울 주택 매입에 사용됐다.",
+      "14일 국회 국토교통위원회 소속 김종양 국민의힘 의원실이 국토교통부로부터 제출받은 자금조달계획서 집계에 따르면 올해 1~4월 주식·채권 매각대금 3조7254억9400만원이 주택 매입 자금으로 사용됐다."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -665,14 +652,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
