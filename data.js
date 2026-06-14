@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-14 18:25:48
+// 마지막 업데이트: 2026-06-14 19:30:16
 window.NEWS_DB = [
   {
     "id": "na2cf4007",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZm5YSUdYb0lmcUkwdlhrSV80aUZsWVZJTDlwbHlqZUdUWlQ1TjY4eU5YSUpvSThCTzRmWEVXSkNiRGdqZTJ5XzJjQ1lnVERlaWFiMHZ3TWx0cTlGZk5JQzZVb0NuZVNFLWxWclFPRDZhWmc?oc=5",
     "title": "엔비디아 대항 독자 AI칩 시장 급성장 전망, 삼성전자·SK하이닉스 HBM 수요 더 늘어난다",
     "summary": [
@@ -15,22 +15,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n1bd2b463",
-    "category": "IT",
-    "source": "매일경제",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94ZDZ2TUhlOU9oajlIak5GRWJrSF9mV2E0S2IyV1ZYTjF5NUdnZHVaNlpiTzRLWXVDbHpXdUQ0N0drVFZoOHBwZ3h1WkdhblpNZDBUNDl3?oc=5",
-    "title": "삼성전자 파운드리에 또 빅테크 러브콜 … 구글 AI칩 수주 유력",
-    "summary": [
-      "삼성전자 파운드리에 또 빅테크 러브콜 … 구글 AI칩 수주 유력 매일경제."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
       "#삼성전자"
     ]
   },
@@ -66,18 +50,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2af5a245",
+    "id": "nc8a0aac2",
     "category": "IT",
-    "source": "디일렉",
+    "source": "지디넷코리아",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQTlGZl9DeDFvZWczWnRQa1d6NjdWbUVUc0wzR2k2MWg4Z0oxRzN0MG01bkRWQ0FJV2RuQ1dxRXZ2cG9taEszSy14V2dxVTliR21INEp4M1ZLYlV0ZkktQ3hDVDkxdw?oc=5",
-    "title": "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZl9QZnMwbTZlZEloNUVKX0FCRGNUcV82U29Kd29UdDZrNGJ2NEpmMFZSNlRGSlpNZkJVZ2hMNHI1T1A0THlEZERsNkI5SmJCVjQybHln?oc=5",
+    "title": "최태원 \"일본에 AI 팩토리 구축 계획... 반도체, 생태계 모두 갖춰\"",
     "summary": [
-      "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정 디일렉."
+      "최태원 \"일본에 AI 팩토리 구축 계획...",
+      "반도체, 생태계 모두 갖춰\" 지디넷코리아."
     ],
     "chips": [
-      "#반도체",
-      "#엔비디아"
+      "#AI",
+      "#반도체"
     ]
   },
   {
@@ -125,6 +110,21 @@ window.NEWS_DB = [
       "#정책",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "na542b62c",
+    "category": "IT",
+    "source": "디일렉",
+    "time": "6일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SaDI5bE9sZnh1SThySXR6c3FONU1OdExTelJLS1JMdzZ5Vk1KcDZwYjVmcEdwUHI4LUZEREVzZDdEU0ljcmgwRjg0b3JQQmszMHptOEdrQTFUWEFqRW5mOGUyYWR1UQ?oc=5",
+    "title": "젠슨 황 만난 전영현 삼성전자 부회장 \"HBM4·파운드리 등 협력\"",
+    "summary": [
+      "젠슨 황 만난 전영현 삼성전자 부회장 \"HBM4·파운드리 등 협력\" 디일렉."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
@@ -261,14 +261,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
+    "id": "ncbcb6c77",
     "category": "스포츠",
-    "source": "테크M",
-    "time": "74일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "source": "연합뉴스",
+    "time": "98일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
     ],
     "chips": [
       "#KBO"
@@ -352,10 +352,257 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5adf56d1",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061504295388699",
+    "title": "차상현 감독의 여자배구, 아시아연맹컵 우승…세계랭킹 31위 점프",
+    "summary": [
+      "한국 여자배구가 아시아배구연맹(AVC)컵 대회에서 우승했다.",
+      "차상현 감독이 이끄는 여자배구 대표팀은 14일 필리핀 캔돈 시티 아레나에서 열린 결승에서 대만을 3-0(25-19 25-19 25-22)으로 제압했다.",
+      "한국은 조별리그 5경기와 준결승, 결승을 합쳐 7전 전승으로 정상에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2d005728",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061504291984952",
+    "title": "블룸버그 \"미·이란 합의문 최소 3개\"…막판 샅바싸움",
+    "summary": [
+      "미국과 이란의 종전 양해각서(MOU) 체결이 임박했다는 관측이 나오는 가운데 협상 테이블에는 복수의 합의문 초안이 오가고 있는 것으로 전해졌다.",
+      "막판 조율 단계에 있지만, 핵심 조항에서는 여전히 상당한 이견이 남아 있다는 의미다.",
+      "14일(현지시간) 블룸버그통신에 따르면 미국과 이란 사이에서 최소 3개의 서로 다른 합의문 초안이 논의되고 있다고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73d8ef57",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/15/2026061503591273185",
+    "title": "'선발 전원 유럽파' 日, 네덜란드전 선발 라인업 발표... 구보·우에다·마에다 스리톱",
+    "summary": [
+      "2026 국제축구연맹(FIFA) 북중미 월드컵 첫 경기 네덜란드전을 앞둔 일본 축구대표팀 선발 명단이 공개됐다.",
+      "일본은 15일 오전 5시(한국시간) 미국 AT&T 스타디움에서 열리는 대회 조별리그 F조 1차전에서 네덜란드와 격돌한다.",
+      "6월 기준 FIFA 랭킹은 네덜란드가 8위, 일본은 18위다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd2ac526d",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/living/2026/06/15/2026061419572376023",
+    "title": "위고비에 바뀐 옷장, 오버핏 대신 슬림핏",
+    "summary": [
+      "패션몰 관련상품 매출액 증가율 두자릿수 이상 ↑ 체형관리·운동 관심 맞물려… \"당분간 계속될 듯\" '위고비' '마운자로' 등 비만치료제가 빠르게 확산하면서 패션 시장에도 변화의 바람이 분다.",
+      "한동안 유행한 오버핏 중심 스타일 대신 몸의 실루엣을 자연스럽게 강조하는 슬림핏 의류가 다시 주목받고 있다.",
+      "이너웨어 수요도 덩달아 증가하는 모습이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6a95e21b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/15/GU2DIYLFGJRDAMBUMYYWGMZQMM/",
+    "title": "전 韓감독 아드보카트의 퀴라소, 獨 노이어 뚫고 사상 첫 월드컵 골 역사 大감격! 그래도 독일은 독일, 3-1 전반 종료[북중미월드컵 E조]",
+    "summary": [
+      "[스포츠조선 전영지 기자]카리브의 작은 섬나라 퀴라소가 강호 독일을 상대로 월드컵 사상 첫 골 역사를 썼다.",
+      "퀴라소는 15일 오전 2시(한국시각) 미국 텍사스 휴스턴스타디움에서 펼쳐진 북중미월드컵 E조 1차전에서 독일을 상대로 전반을 1-3으로 뒤진 채 마쳤다.",
+      "스코어에서 밀리고 있지만, 축구공은 둥글다는 것을 증명하기엔 충분한 투지와 인상적인 경기력을 선."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n72277e45",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/15/GBSTOYRXGQ2TMNDGGQ2TONLDHE/",
+    "title": "'충격'의 꼴찌 추락 롯데, 마지막 희망은 있나...'두 동희'에 모든 걸 걸어본다",
+    "summary": [
+      "[스포츠조선 김용 기자] '두 동희'가 마지막 희망줄 될까.",
+      "롯데 자이언츠가 다시 꼴찌로 추락했다.",
+      "롯데는 14일 잠실구장에서 열린 LG 트윈스전에서 1대6으로 패했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nac099dec",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615003700007",
+    "title": "[월드컵] '전차 군단' 독일, 퀴라소 7-1로 완파…하베르츠 멀티골",
+    "summary": [
+      "(과달라하라=연합뉴스) 오명언 기자 = '세계 최강'의 자존심 회복을 노리는 독일이 무려 6명의 선수가 고르게 득점포를 가동하며 월드컵 무대를 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n543be7f8",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668574",
+    "title": "'전차 군단' 독일, '전 한국 감독' 아드보카트의 퀴라소 7-1 완파",
+    "summary": [
+      "[과달라하라(멕시코)=뉴시스] 하근수 기자 = '전차 군단' 독일 축구대표팀이 딕 아드보카트 전 한국 축구대표팀 감독이 지휘하는 퀴라소를 꺾고 2026 북중미 월드컵 첫 승을 챙겼다.",
+      "독일은 15일(한국 시간) 미국 휴스턴 스타디움에서 열린 퀴라소와의 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 E조 1차전에서 7-1로 완승했다.",
+      "이날 오전 5시 필라델피아 스타디움에선 같은 그룹의 코트디부아르와 에콰도르가 격돌한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf0e9ffe0",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/15/I75NG6Y4INCOPDDAXAM3WELU6Y/",
+    "title": "이번 주 연준 금리 회의, 월가 눈은 이 문구에 쏠린다",
+    "summary": [
+      "이번 주 연준 금리 회의, 월가 눈은 이 문구에 쏠린다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n3e4c9b73",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/stock/2026/06/15/2026061419384548074",
+    "title": "동남아 공략에도… 남양유업 주가 주르륵",
+    "summary": [
+      "내수 매출 비중 90% 상회, 시장서 수출효과 '회의적' 반응 최대주주는 변동성 등 우려, 지분 매도로 유통주식수 관리 남양유업이 이재명 대통령의 베트남 순방에 경제사절단으로 참여하며 동남아시아 판로개척을 예고한 이후 주가가 16% 내린 것으로 나타났다.",
+      "남양유업이 부각한 한국-베트남 경제협력 가능성에 시장이 회의적 시각을 보낸 셈이다.",
+      "남양유업이 올해 200억원 규모를 목표로 자사주 매입을 추진 중인 가운데 최대주주인 PEF(사모펀드) 한앤컴."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf93d53f1",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/tech/2026/06/15/2026061418052235280",
+    "title": "무료는 480p, 유료는 1080p…월드컵 482만명 품은 치지직의 '두 얼굴'",
+    "summary": [
+      "네이버(NAVER) 치지직이 월드컵 한국 대표팀 첫 경기에서 482만명이 동시에 접속하는 흥행 기록을 세웠다.",
+      "종전 최고 기록의 6배가 넘는 이용자를 끌어모으며 대중 스포츠 플랫폼으로 도약할 가능성을 보여줬다.",
+      "반면 무료 중계 화질과 광고 운영을 둘러싼 불만도 함께 터져 나왔다."
+    ],
+    "chips": [
+      "#네이버"
+    ]
+  },
+  {
+    "id": "nfc4d0ced",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668546",
+    "title": "대구·경북 낮 최고 24~32도…경북내륙 오후 한때 소나기",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 월요일인 15일 대구와 경상북도는 가끔 구름 많고 소나기가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"오후 한때 경북남서내륙 일부 지역에 5~20㎜의 소나기가 오는 곳이 있겠다\"고 예보했다.",
+      "아침 최저기온은 13~17도(평년 13~19도), 낮 최고기온은 24~32도(평년 23~29도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b357dc6",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615003600007",
+    "title": "[월드컵 전적] 독일 7-1 퀴라소",
+    "summary": [
+      "[월드컵 전적] 독일 7-1 퀴라소."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4fd6d7af",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "35분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668583",
+    "title": "[속보] 이란, 서부 공역 항공기 운항 중단…\"보복 공격 관련\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 yjjs@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44f28590",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615003400098",
+    "title": "불타는 테슬라, 매캐한 최루가스…G7 정상회의 앞 격렬 시위",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 프랑스 남서부 휴양지 에비앙레뱅에서 열리는 주요 7개국(G7) 정상회의 개막을 하루 앞둔 14일(현지시간)..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf6eaf05",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668582",
+    "title": "이란 최고안보회의 \"이스라엘 베이루트 공습에 대응 임박\" 경고",
+    "summary": [
+      "[테헤란=신화/뉴시스] 이재준 기자 = 이란 최고국가안보회의(SNSC)는 14일(현지시간) 이스라엘의 레바논 수도 베이루트 공습에 대해 조만간 대응 조치에 나서겠다고 경고했다.",
+      "이란 국영 IRIB 방송은 이날 엑스(X·옛 트위터)를 통해 모하마드 바게르 졸가드르 최고국가안보회의 사무총장이 이같이 밝혔다고 보도했다.",
+      "졸가드르 사무총장은 \"레바논은 우리의 생명선\"이라며 \"이란의 레드라인(금지선)을 침범하는 어떠한 행위도 용납하지 않겠다\"고 언명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n36d349da",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260615003100075",
     "title": "스페이스X 상장 수혜자는?…83세 펀드매니저부터 27세 직원까지",
     "summary": [
@@ -366,128 +613,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neb8bbfe1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614048052098",
-    "title": "\"인구 1천만명 밑으로 제한\" 스위스 국민투표 부결…55% 반대(종합2보)",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 인구수를 1천만명 이하로 제한할 것인지를 물은 스위스 국민투표가 부결됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4a3d4b78",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/15/4RMEIH37SVAMTCDYRNXHX44DM4/",
-    "title": "베토벤 교향곡으로 아버지와 ‘맞대결’한 지휘자",
-    "summary": [
-      "베토벤 교향곡으로 아버지와 ‘맞대결’한 지휘자."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e77b74a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/medical/2026/06/15/QXFZCRIZTFGKLBAN7JJIHB7GQY/",
-    "title": "‘젓가락 치트키’ 쓰면 더 쉽다… 비만·당뇨 잡는 ‘거꾸로 식사법’",
-    "summary": [
-      "‘젓가락 치트키’ 쓰면 더 쉽다… 비만·당뇨 잡는 ‘거꾸로 식사법’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6146d98e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/national/education/2026/06/15/U3IKXWT6TVEK3MPBBQREBC633I/",
-    "title": "손발이 저릴 때는 ‘asleep’… ‘쥐가 났다’고 하려면",
-    "summary": [
-      "손발이 저릴 때는 ‘asleep’… ‘쥐가 났다’고 하려면."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0310c25",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/06/15/4ANQGLQSRZEF3BE4NK2K5TGYIM/",
-    "title": "[21화] “실은 그 적토마가…” 이숙의 덫에 걸려든 여포",
-    "summary": [
-      "[21화] “실은 그 적토마가…” 이숙의 덫에 걸려든 여포."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3b86f9c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668577",
-    "title": "이란 대통령 \"최고안보기구, 미국과 종전대화 계속 결정\"(종합)",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 이란 최고 의사결정기구인 최고국가안보회의(SNSC)가 미국과 종전을 위한 대화를 계속하기로 결정했다고 마수드 페제시키안 이란 대통령이 14일(현지시간) 밝혔다.",
-      "미국과 이란 간 종전 합의안(양해각서)을 둘러싸고 국내 강경파 진영의 비판이 커지는 가운데서도 이란 최고 지도부는 협상 노선을 유지하겠다는 입장을 재확인한 셈이다.",
-      "신화통신과 CNN 등에 따르면 페제시키안 대통령은 이날 언론사 경영진들과 가진 간담회에서 \"."
-    ],
-    "chips": [
-      "#채용",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n05218921",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615002900009",
-    "title": "[월드컵] '공동주최국 언어도 못쓰나'…공식회견 언어규정 논란",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = \"질문은 영어나 일본어, 네덜란드어로만 해 주세요.",
-      "스페인어 통역이 없습니다.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6ae21f1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615002400099",
-    "title": "이란 대통령 \"이란 최고 안보정책기구, 美와 대화 지지\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 마수드 페제시키안 이란 대통령은 14일(현지시간) 이란의 안보정책을 결정하는 기구인 최고국가안보위원회..."
-    ],
-    "chips": [
-      "#정책",
-      "#채용",
-      "#정치"
-    ]
-  },
-  {
     "id": "ne7e9b4ba",
     "category": "사회",
     "source": "동아일보",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260615/134110935/1",
     "title": "“수면 시간 8시간 넘으면 오히려 노화 빨라질 수 있어” 美연구…최적 시간은?",
     "summary": [
@@ -500,26 +629,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb58c0b93",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668576",
-    "title": "美 국방장관 \"이란 핵무기 보유 절대 불가\"…핵물질 제거·핵프로그램 해체",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 피트 헤그세스 미국 국방장관은 14일(현지시간) 이란과 종전에 합의해도 이란의 핵무기 보유는 절대 용납하지 않겠다고 밝혔다.",
-      "CBS와 신화통신에 따르면 헤그세스 장관은 이날 CBS 뉴스와 가진 인터뷰에서 이란 핵 문제와 관련해 \"도널드 트럼프 대통령이 가장 분명히 한 점은 이란이 결코 핵무기를 보유하지 못한다는 사실이다.",
-      "절대로 안 된다\"고 언명했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n4f0c255a",
     "category": "IT",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260615/134110929/1",
     "title": "브라질 헬기 2대 공중 충돌 후 추락…탑승 6명 전원 사망",
     "summary": [
@@ -530,111 +643,6 @@ window.NEWS_DB = [
     "chips": [
       "#전기차"
     ]
-  },
-  {
-    "id": "n07ddc583",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260615/134110920/1",
-    "title": "중국 IT 기술의 최선봉 ‘선전’ 기행… 전세계 사람과 돈이 몰려든다",
-    "summary": [
-      "중국 광둥성 선전은 아시아를 대표하는 기술 혁신의 중심지다.",
-      "대형 IT 기업들의 본사가 밀집한 첨단 산업 도시이지만, 도심 내부의 환경은 일반적인 제조 도시와 차별화된 모습을 보인다.",
-      "선전 바오안 국제공항에서 도심으로 진입하는 과정에서 가장 먼저 확인되는 특징은 소음과 분진의 관리 상태다.선전시는 시내 대중교통 체계를 전기차 기반으로 일찍이 전환했다."
-    ],
-    "chips": [
-      "#전세",
-      "#전기차",
-      "#환경"
-    ]
-  },
-  {
-    "id": "nb80ef89b",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026061455221",
-    "title": "李, 순방 중 수보회의 \"예산안, 청년정책 최우선 고려\"",
-    "summary": [
-      "李, 순방 중 수보회의 \"예산안, 청년정책 최우선 고려\"."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n8f84e3c7",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026061455211",
-    "title": "이재명 대통령 \"北과 정전 넘어, 지속 가능한 평화 체제 구축\"",
-    "summary": [
-      "이재명 대통령 \"北과 정전 넘어, 지속 가능한 평화 체제 구축\"."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "necb57dd1",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026061452961",
-    "title": "반도체 소부장 '뜀박질'…레버지리ETF도 뭉칫돈",
-    "summary": [
-      "반도체 소부장 '뜀박질'…레버지리ETF도 뭉칫돈."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nabc11d41",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260614/134109171/2",
-    "title": "AI 사이클 탄 반도체부품-전력기기… 영업익 줄상향",
-    "summary": [
-      "인공지능(AI) 슈퍼사이클의 훈풍이 반도체 업계를 넘어 커패시터와 반도체 기판 등을 생산하는 반도체 부품 업계, 변압기와 전선을 생산하는 전력기기 업체에도 불고 있다.",
-      "증권가는 이들 기업의 올 2분기(4∼6월) 실적을 줄줄이 상향 조정하고 있다.",
-      "AI 데이터센터 증설 수요가 넘쳐 제품을 달라고 조르는 빅테크들이 많은 반면, 빅테크 기대에 맞출 ‘고스펙’ 제품을 생산할 수 있는 기업은 한정적이다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n9c97eb1b",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "3시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612128700371",
-    "title": "[동포의 창] '이달의 재외동포'에 한국 간호사 獨진출 이끈 이수길 박사",
-    "summary": [
-      "(서울=연합뉴스) 박현수 기자 = 재외동포청(청장 김경협)은 우리나라 경제 발전의 밑거름이자 한·독 양국 인적·문화적 교류의 토대가 된 파독 간..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na36fa19b",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/2026061455187",
-    "title": "李대통령 \"선관위 부실로 국격 오점…음모론 책임 물어야\"",
-    "summary": [
-      "李대통령 \"선관위 부실로 국격 오점…음모론 책임 물어야\"."
-    ],
-    "chips": [
-      "#정치"
-    ]
   }
 ];
 
@@ -643,20 +651,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "정책",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
