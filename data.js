@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-14 21:26:47
+// 마지막 업데이트: 2026-06-14 22:24:19
 window.NEWS_DB = [
   {
     "id": "na2cf4007",
@@ -204,6 +204,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "summary": [
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "n37646dcf",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -247,14 +261,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
+    "id": "ncbcb6c77",
     "category": "스포츠",
-    "source": "테크M",
-    "time": "74일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "source": "연합뉴스",
+    "time": "98일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
     ],
     "chips": [
       "#KBO"
@@ -272,21 +286,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "115일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -352,283 +351,287 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nca1c847f",
-    "category": "경제",
+    "id": "na32a4c21",
+    "category": "부동산",
     "source": "아시아경제",
     "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026061506250042918",
-    "title": "[속보]파키스탄 \"미-이란 협상 타결…19일 스위스서 서명\"",
+    "url": "https://view.asiae.co.kr/article/2026061507224444028",
+    "title": "경기도, 에너지 위기대응 아파트 6곳 뽑는다…총상금 3천만원",
     "summary": [
-      "[속보]파키스탄 \"미-이란 협상 타결…19일 스위스서 서명\"."
+      "경기도가 '경기기후플랫폼' 데이터를 활용해 에너지 위기대응 우수아파트 선발대회를 개최한다.",
+      "이를 위해 경기도는 이달 15일부터 30일까지 참가 단지를 모집한다.",
+      "신청 대상은 도내 의무관리대상 아파트 단지다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf470d31d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260615/134110994/1",
-    "title": "트럼프, 이스라엘의 레바논 공습에 “빌어먹을 공격으로 서명 지연”",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 14일(현지 시간) 이스라엘의 레바논 공습을 강하게 비판했다.",
-      "그가 이란과의 종전 합의에 공을 들이고 있는 가운데, 이스라엘과 이란 간 잇따른 충돌이 협상의 변수로 작용하고 있는 것에 대해 노골적으로 불만을 터뜨린 것이다.",
-      "트럼프 대통령은 이날 트루스소셜을 통해 “오늘 아침 (이스라엘의) 베이루트 공격은 결코 일어나서는 안 될 일이었다”며 “특히 우리가 이란과 평화 협정 체결에 매우 근접한 특별한 날에 일어난 일이기."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0dabe59a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668597",
-    "title": "경부고속도로 달리던 화물차에서 양파 쏟아져…차량 정체",
-    "summary": [
-      "[김천=뉴시스] 박홍식 기자 = 14일 오후 6시 18분께 경북 김천시 농소면 경부고속도로(서울 방향) 김천휴게소 인근에서 주행 중이던 1t 화물차가 전도되면서 짐칸에서 양파더미가 쏟아졌다.",
-      "이 사고로 양파가 고속도로에 쏟아지면서 편도 3차로 가운데 2차로가 통제되면서 1시간여 정체 현상을 빚었다.",
-      "경찰은 화물차 운전자 등을 상대로 정확한 사고 경위를 조사하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ef58919",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615007100009",
-    "title": "[속보] 파키스탄 \"미-이란 평화협상 타결…19일 스위스서 서명\"<로이터>",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n275cba9a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/15/MFTDKZRQMYYDOOBXMQZTEMRVMU/",
-    "title": "트럼프, 이스라엘의 레바논 공습에 “일어나지 말았어야 할 공격에 서명 지연”",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 14일(현지 시각) 이스라엘이 레바논 수도 베이루트 남쪽 외곽을 공습한 것을 강하게 비판했다.",
-      "트럼프 대통령은 소셜미디어(SNS) 트루스소셜에서 “오늘 아침 베이루트에 대한 (이스라엘의) 공격은 일어나지 말았어야 했다”며 “우리가 이란과의 평화 합의에 매우 가까워진 특별한 날에는 더욱 그렇다”고 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n84d50d31",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615006700053",
-    "title": "대구·경북 가끔 구름 많아…낮 최고기온 24∼32도",
-    "summary": [
-      "(대구=연합뉴스) 손대성 기자 = 월요일인 15일 대구·경북은 가끔 구름 많은 가운데 낮 기온이 올라 더울 것으로 보인다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf4eb54db",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612161300017",
-    "title": "네이버플러스 스토어, 875만명 돌파…11번가 제치고 2위",
-    "summary": [
-      "(서울=연합뉴스) 오지은 기자 = 네이버의 AI 쇼핑앱 네이버플러스 스토어(네플스)가 지난달 월간 활성 이용자(MAU) 875만명을 기록했다."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n765302bb",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026061506163238908",
-    "title": "스위스 인구상한제 국민투표 부결…55%가 반대",
-    "summary": [
-      "스위스에서 국민투표로 부쳐졌던 인구상한제가 결국 부결됐다.",
-      "우파 정당을 중심으로 이민자 수를 제한해야한다며 추진된 법안이었지만 산업계의 반대와 유럽연합(EU)과의 협정 폐기 우려 등이 겹치면서 국민 과반 이상이 반대한 것으로 알려졌다.",
-      "블룸버그통신에 따르면 14일(현지시간) 스위스에서 2050년까지 국가 전체 인구를 1000만명으로 제한하하는 인구상한제 국민투표가 실시된 결과 찬성 45%, 반대 55%로 부결됐다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n106148a7",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614030500057",
-    "title": "울산시, AI·디지털 교육 확대…거점센터 3곳으로 증설",
-    "summary": [
-      "(울산=연합뉴스) 허광무 기자 = 울산시가 시민 누구나 인공지능(AI)과 디지털 기술을 배우고 활용하도록 교육 프로그램을 마련해 운영한다."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n5d552c14",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/15/G42TSY3DGA4DKYRTGNTDOYRSGE/",
-    "title": "‘절친’ 엄정화, 이소라·홍진경 재회 감격..“우리가 한 화면에 있다니” (‘소라와 진경’)[순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘소라와 진경’ 엄정화가 이소라와 홍진경 재회에 감격했다.14일 방송된 MBC ‘소라와 진경’ 최종회에서는 이소라와 홍진경의 마지막을 함께 하기 위해 엄정화가 스튜디오를 찾았다.이날 엄정화는 “오늘 ‘소라와 진경’ 나온다니까 너무 막 신경쓰였다.",
-      "1호팬이다”라고 말문을 열었다.이어 ”볼 때마다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3eedbf76",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668562",
-    "title": "울산시, 인공지능·디지털배움터 운영…참여자 모집",
-    "summary": [
-      "[울산=뉴시스] 안정섭 기자 = 울산시가 시민 누구나 인공지능(AI) 및 디지털 기술을 배우고 적극 활용할 수 있도록 맞춤형 교육 프로그램을 마련해 본격 운영에 들어간다.",
-      "울산시는 '2026년 AI·디지털배움터' 교육 참여자를 모집한다고 15일 밝혔다.",
-      "이번 교육은 시민들의 AI·디지털 기술에 대한 접근성을 높이고 활용 역량을 강화하기 위해 마련됐다."
-    ],
-    "chips": [
-      "#AI",
+      "#부동산",
       "#채용",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n3cc9ab17",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615014600087",
+    "title": "[월드컵] 한국인에 '눈찢기' 인종차별…멕시코 남성, 직책서 사퇴",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 2026 북중미 월드컵 한국-체코전에서 한국 축구대표팀을 응원 중인 여성 인플루언서를 상대로 이른바 '..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n23f768be",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026061507200225297",
+    "title": "성남시, 국토부 ‘스마트도시 특화단지’ 최종 선정…국비 80억 확보",
+    "summary": [
+      "경기 성남시(시장 신상진)가 국토교통부 주관 '2026년 스마트도시 특화단지 조성사업' 공모에 최종 선정되어 국비 80억원을 확보했다.성남시는 이번 공모 선정을 통해 판교 제1·2·3테크노밸리와 판교역, 정자·구미동 분당서울대학교병원 일원(총 587만1365㎡)을 아우르는 '성남형 라이프모빌리티 특화단지'를 조성한다고 15일 밝혔다.",
+      "이번 사업에는 국비 80억원을 포함해 시비 80억원, 민간투자 8억3000만원 등 총 168억3000만."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5bedcbb6",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026061507192221393",
+    "title": "서울에너지공사, 시민 참여형 탄소배출권 사업 본격화",
+    "summary": [
+      "서울에너지공사(사장 황보연)가 시민들의 온실가스 감축활동을 탄소배출권으로 연계하는 사업에 나선다.",
+      "공사는 탄소배출권 전문 기후핀테크 기업 후시파트너스(공동대표 이행열·조성훈)와 '온실가스 감축사업 신규 발굴을 위한 업무협약(MOU)'을 15일 체결했다고 밝혔다.제4차 온실가스 배출권거래제 시행으로 기업의 탄소감축 의무가 강화되고 배출권 가격도 오르고 있지만, 시민들의 탄소감축 성과는 복잡한 인증 절차 탓에 제."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n37d76759",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668626",
+    "title": "[속보]팔레스타인 대통령, 2027년 대선 실시 발표 --WAFA통신",
+    "summary": [
+      "[서울=뉴시스] 차미례 기자 = 팔레스타인 자치정부의 마흐무드 압바스 대통령이 집권 20년 째인 2027년에 대통령 선거를 실시한다고 발표했다고 팔레스타인 관영 WAFA통신이 14일 (현지시간) 보도했다.",
+      "◎공감언론 뉴시스 cmr@newsis.com."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7b69dcf9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/15/GQYTAYRTMEZDKMZSGMYDONJZGA/",
+    "title": "“아픈일 多 겪어” 홍진경, 15년간 묵혀둔 감정..이소라 위로에 오열 (‘소라와 진경’)[어저께TV]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘소라와 진경’ 이소라와 홍진경이 묵혀왔던 속내를 고백하며 눈물을 흘렸다.",
+      "14일 방송된 MBC ‘소라와 진경’ 최종회에서는 파리 패션 위크 도전을 마친 이소라와 홍진경이 마지막 회포를 푸는 모습이 그려졌다.이날 홍진경과 이소라는 모든 패션 위크가 끝나고 몽마르트르의 한 레스토랑에서 만났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad8676aa",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/15/MVRGEYRXHE2TOMDBHBSGCNRZGA/",
+    "title": "최예나 \"해외에서 팀복 맞춘 박재범+롱샷 목격→그룹인 줄 알았다\" ('제이팍씨') [순간포착]",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 최예나가 해외에서 박재범과 롱샷을 보았다고 말했다.",
+      "지난 11일 유튜브 채널 '제이팍씨'에는 '전문가 예나한테 하이디라오를 배워봤다 (ft.예나)'라는 제목의 영상이 게재됐다.",
+      "이날 최예나와 박재범은 건국대 축제를 가기 전 음식점에서 만나 어색하게 인사를 건넸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nffd8324b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/15/GI4TQNRYGIYWKNRUGRSTMNBWG4/",
+    "title": "70대 노모 '치매'초기인데.. 이민우 부부, 애 맡기고 신혼여행 '갑론을박' [핫피플]",
+    "summary": [
+      "[OSEN=김수형 기자] 그룹 신화 출신 이민우가 신혼여행 중 어머니와 영상통화를 나눈 장면이 공개된 가운데, 과거 어머니의 치매 초기 진단 사실이 재조명되며 온라인상에서 다양한 반응이 이어지고 있다.13일 방송된 살림하는 남자들 시즌2에서는 이민우 부부의 신혼여행 모습이 그려졌다.이날 이민우의 아내는 \"시부모님과 함께 살고 있는데 언제쯤 분가할 수 있을지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n217fb430",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026061507181811702",
+    "title": "부천 계남공원, 폐카드 활용 업사이클링 놀이터 조성",
+    "summary": [
+      "경기도가 신용카드사회공헌재단, 초록우산, 부천시와 함께 부천시 원미구 중동에 있는 계남공원(중동 1030-2)을 폐카드를 활용한 업사이클링 놀이터로 만든다.",
+      "이번 사업은 신용카드사회공헌재단과 초록우산의 사회공헌 활동으로, 민간 예산 약 2억7000만원이 투입된다.",
+      "경기도는 31개 시군을 대상으로 후보지를 공모했으며, 부천시 추천으로 계남공원을 최종 선정했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1cc4cb6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615014500007",
+    "title": "[PGA 최종순위] RBC 캐나다 오픈",
+    "summary": [
+      "[PGA 최종순위] RBC 캐나다 오픈."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n97f96c4e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615014000007",
+    "title": "[월드컵] '후반 43분 동점골' 일본, 죽음의 조서 네덜란드와 2-2 무승부",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = 세계 정상에 도전하겠다고 공언해온 일본이 2026 국제축구연맹(FIFA) 북중미 월드컵 첫 경기에서 강호 네덜..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0c1348d3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612114600065",
+    "title": "기관 삽관 후 식물인간 됐다가 사망…손배소 2심서 병원 승소",
+    "summary": [
+      "(인천=연합뉴스) 최은지 기자 = 응급실에서 기관 삽관을 받은 뒤 식물인간 상태에 빠졌다가 숨진 환자 측이 병원을 상대로 민사 소송을 제기해 1..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb11b2bcf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668629",
+    "title": "부산터널 상행선 전면 교통 통제, 22일~8월28일까지",
+    "summary": [
+      "[부산=뉴시스]백재현 기자 = 부산터널의 중구 영주동에서 서구 대신동 방향(상행선)이 내부 전원선로 교체공사로 오는 22일부터 8월28일까지 전면 통제된다.",
+      "15일 부산시에 따르면 부산터널 상행선(영주동-->대신동) 2개 차로가 이 기간동안 오후 10시부터 다음날 오전 6시까지 8시간 동안 전면 통제된다.",
+      "대신 하행선 2개 차로 중 1개 차로를 교차로 운영한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne5afd955",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260615/134111129/1",
+    "title": "강예원, 돌아가신 父 빚 11억 몰랐다…“막막함에 눈물”",
+    "summary": [
+      "배우 강예원이 부친상 이후 11억 원 규모의 채무를 마주한 심경을 고백했다.지난 14일 방송된 SBS TV 예능물 ‘미운 우리 새끼’에서 강예원은 법률사무소를 찾아 상속 상담을 받았다.",
+      "변호사는 부친이 남긴 빚이 10억에서 11억 원에 달하며, 이 중 3억 원은 당장 상환해야 한다고 진단했다.",
+      "뒤늦게 이 사실을 안 강예원은 눈물을 흘렸다.변호사는 재산 한도 내에서만 빚을 갚는 ‘상속한정승인’과 법인 채무 면제 등을 제안했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f43a8d0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668595",
+    "title": "대전시, 2029 인빅터스 게임 유치 최종PT",
+    "summary": [
+      "[대전=뉴시스] 조명휘 기자 = 대전시가 '2029 인빅터스 게임(Invictus Games)' 유치를 위한 최종 프레젠테이션(PT)에 나선다.",
+      "15일 시에 따르면 유득원 행정부시장이 권오을 국가보훈부 장관, 대한민국상이군경회 등과 함께 18일까지 영국 런던을 방문해 마지막 유치전을 펼친다.",
+      "인빅터스 게임은 영국 해리 왕자가 2014년 창설한 세계 상이군인 스포츠 대회다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc0ca00a3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668625",
+    "title": "[오늘의 주요일정]강원(6월15일 월요일)",
+    "summary": [
+      "[춘천=뉴시스] ▲오전9시, 민선9기 시장 당선인 업무보고, 강릉시 명륜1동 주민자치센터 2층 다목적실 ▲오전10시, 제22회 한국중고등학교태권도 연맹회장배 전국품새격파대회, 철원실내체육관 ▲오후2시, 21사단 신병교육대 입영식, 21사단 신병교육대대 ▲오후6시, 2026 강릉단오제 주민자치한마당, 단오공연장 내 수리마당."
+    ],
+    "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n3d26ae64",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026061422550804892",
-    "title": "현장 달려간 '살림전문' 강북구청장 당선인",
-    "summary": [
-      "지난 12일 오후, 서울 강북구 강북종합체육센터 수영장.",
-      "물이 빠진 지하 수영장을 정창수 강북구청장 당선인이 찾았다.",
-      "천장 한쪽에는 마감재와 단열재를 뜯어낸 자리가 그대로 남아 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfa794628",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260615/134111018/1",
-    "title": "대법 “타사 보험설계사에 모집 수수료 지급…보험업법 위반”",
-    "summary": [
-      "다른 회사에 소속된 보험설계사에게 보험 모집의 대가로 지급한 수수료는 보험업법을 위반한 것으로 법인세로 비용 처리할 수 없다는 대법원 판단이 나왔다.15일 법조계에 따르면 대법원 3부(주심 오경미 대법관)는 보험대리점 GA코리아가 국가를 상대로 낸 법인세 부과 등 취소 소송에서 상고를 기각하고 원고 패소 판결을 확정했다.세무당국은 GA코리아가 다른 보험회사나 대리점에 소속된 보험설계사들이 소개한 고객들에게 보험을 판매하고, 그 대가로 자사 보험."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "neb8bba3f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260615/134111015/1",
-    "title": "푸틴·트럼프 1시간 전화통화…“우크라 종전·미국-이란 합의 임박” 논의",
-    "summary": [
-      "블라디미르 푸틴 러시아 대통령과 도널드 트럼프 미국 대통령이 14일(현지시간) 전화통화를 하고 우크라이나 전쟁 종식 방안과 미국·이란 종전협상 문제를 집중 논의했다.유리 우샤코프 러시아 대통령 보좌관에 따르면 양국 정상은 약 1시간 동안 통화하면서 미국과 이란이 최종 조율 중인 양해각서(MoU) 초안과 미국 특사들의 모스크바 방문 계획, 우크라이나의 러시아 민간 시설 공격 문제 등을 협의했다.우크라이나 문제와 관련해 트럼프 대통령은 전쟁 종식."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc4a3ceb4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260615/134111008/1",
-    "title": "李대통령, 오늘 레오 14세 교황과 단독 면담…‘방북 요청’ 주목",
-    "summary": [
-      "바티칸을 공식 방문 중인 이재명 대통령은 15일(현지시간) 레오 14세 교황과 단독 면담에 이어 피에트로 파롤린 교황청 국무원장과도 마주앉는다.이 대통령은 전 세계 기독교인과 평화의 상징인 레오 14세 교황과 이날 오전 바티칸 교황궁에서 단독 면담을 갖는다.",
-      "2021년 10월 문재인 전 대통령이 선종한 프란치스코 전 교황과 면담한 지 약 5년 만이다.전두환 전 대통령 이후 우리나라 역대 대통령은 통상 교황청 방문 또는 교황의 방한 계기로 임기중."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7b2a43c1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668571",
-    "title": "울산, 구름 많다가 오후부터 맑음…최고기온 28도",
-    "summary": [
-      "[울산=뉴시스] 박수지 기자 = 15일 울산지역은 구름 많다가 오후부터 맑아질 전망이다.",
-      "울산기상대에 따르면 이날 아침 최저기온은 18도, 낮 최고기온은 28도로 예보됐다.",
-      "미세먼지 농도는 '좋음' 수준으로 예측된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36afacca",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668572",
-    "title": "[오늘의 주요일정]울산(6월15일 월요일)",
-    "summary": [
-      "[울산=뉴시스] ▲오전 10시, 제264회 임시회 2차 본회의, 본회의장 ▲오후 3시, 2026 희망여름 착착착 나눔캠페인 출범식, 2층 대회의실 ▲오후 6시50분, 2026년 울산뮤직페스티벌, 남구 둔치."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n66293f93",
+    "id": "n8859b508",
     "category": "부동산",
     "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614047300003",
-    "title": "서울 중하위 신축 국민평형 분양·입주권 18억 '앞으로'",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614032600004",
+    "title": "법원 \"연립주택 '장애인 경사로 미설치'는 하자\"…GS건설 패소",
     "summary": [
-      "(서울=연합뉴스) 임기창 기자 = 서울 중하위권 신축 아파트 국민평형(전용면적 84㎡) 분양권·입주권 가격이 18억원 선을 향해 '키 맞추기' ..."
+      "(서울=연합뉴스) 이미령 기자 = 178세대 규모의 단지형 연립주택에 장애인 통행을 위한 경사로를 일부 설치하지 않은 GS건설이 국토교통부의 하..."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
     ]
   },
   {
-    "id": "n88a6a109",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612133600063",
-    "title": "[인터뷰] 조상호 \"개발공사 신설해 세종시 개발 제2시행자 역할 구상\"",
+    "id": "n25af38ca",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "34분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260615/134111045/1",
+    "title": "[속보]트럼프 “이란과 협상 타결…호르무즈 개방하고 봉쇄 해제”",
     "summary": [
-      "(세종=연합뉴스) 양영석 기자 = 조상호 세종시장 당선인은 취임 후 세종도시교통공사의 기능을 도시·교통으로 각각 분리하겠다는 뜻을 15일 밝혔다..."
+      "도널드 트럼프 미국 대통령이 14일(현지 시간) 이란과의 협상이 타결됐다고 밝혔다.",
+      "미국과 이란 간 협상 중재국이었던 파키스탄의 셰바즈 샤리프 총리도 이같은 사실을 확인했다.",
+      "트럼프 대통령은 이날 트루스소셜을 통해 “이란 이슬람 공화국과의 협상이 완료됐다”며 “모두 축하한다”고 했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0c99658e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "46분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260615/134111046/1",
+    "title": "[속보]트럼프 “이란과의 협상 타결”",
+    "summary": [
+      "[속보]트럼프 “이란과의 협상 타결”."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +644,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "삼성전자",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
