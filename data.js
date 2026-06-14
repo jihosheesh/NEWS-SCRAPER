@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-14 09:03:09
+// 마지막 업데이트: 2026-06-14 10:56:47
 window.NEWS_DB = [
   {
     "id": "na2cf4007",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZm5YSUdYb0lmcUkwdlhrSV80aUZsWVZJTDlwbHlqZUdUWlQ1TjY4eU5YSUpvSThCTzRmWEVXSkNiRGdqZTJ5XzJjQ1lnVERlaWFiMHZ3TWx0cTlGZk5JQzZVb0NuZVNFLWxWclFPRDZhWmc?oc=5",
     "title": "엔비디아 대항 독자 AI칩 시장 급성장 전망, 삼성전자·SK하이닉스 HBM 수요 더 늘어난다",
     "summary": [
@@ -112,27 +112,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31acb708",
-    "category": "사회",
-    "source": "아주경제",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
-    "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
-    "time": "5일 전",
+    "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
     "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
@@ -141,23 +124,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n13b4af19",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
     ]
   },
   {
@@ -176,17 +142,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n70cb7884",
+    "id": "nc9fe1ef0",
     "category": "사회",
-    "source": "투데이경제",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
+    "source": "브런치",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UllYQlR3ck1kZTlFeDd5X0gtTHhkN2NMcU95T2VGbGpSOEZsWjdQZ3ZVVHEwS19fb1JvLS04SlBnQVd5Z2YxdU1nTQ?oc=5",
+    "title": "화성시 일자리 찾는다면, 일자리센터 채용정보 확인",
     "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
+      "화성시 일자리 찾는다면, 일자리센터 채용정보 확인 브런치."
     ],
     "chips": [
-      "#취업",
+      "#채용",
       "#고용"
     ]
   },
@@ -234,6 +200,37 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "25일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "25일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "summary": [
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
@@ -249,6 +246,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n64476ff1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "56일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "summary": [
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -260,20 +271,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "111일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -372,10 +369,43 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na1b1784f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668507",
+    "title": "경과원, 산업맞춤형 공동훈련센터 평가 2년 연속 최우수",
+    "summary": [
+      "[수원=뉴시스] 박상욱 기자 = 경기도경제과학진흥원(경과원)이 고용노동부 주관 '산업맞춤형 공동훈련센터 성과평가'에서 2년 연속 최우수(S) 등급을 획득했다.",
+      "14일 경과원에 따르면 '국가인적자원개발컨소시엄 산업맞춤형 공동훈련센터'는 중소기업의 전문인력 양성을 지원하는 직업능력개발훈련 사업으로, 이번 성과평가는 전국 65개 공동훈련센터를 대상으로 진행됐다.",
+      "경과원은 평가에서 90점 이상 기관에만 부여되는 최우수 S등급을 2년 연속 획득하며 교육."
+    ],
+    "chips": [
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n5027c5fa",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260614/134107859/1",
+    "title": "합수본, ‘투표용지 50% 인쇄’ 배경 수사…최대 쟁점 ‘고의성 입증 여부’",
+    "summary": [
+      "6·3 지방선거 ‘투표용지 부족 사태’를 수사하는 검경 합동수사본부(본부장 김태훈 차장검사)는 압수수색에서 확보한 자료를 토대로 투표용지를 유권자 수의 50%만 인쇄하기로 결정한 배경을 집중적으로 조사하겠다는 방침이다.14일 합수본에 따르면 이번 수사의 최대 쟁점 중 하나는 ‘고의성 입증 여부’다.",
+      "공직선거법 85조는 공무원 등이 직무와 관련하거나 지위를 이용해 선거에 영향을 끼치는 일을 금지하고 있다.",
+      "공직선거법 237조는 ‘부정한 방법으로."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nfad61b22",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "9분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152598",
     "title": "삼성전자 \"마이크로 RGB TV·로봇청소기, 삼성이 최고\"",
     "summary": [
@@ -389,258 +419,225 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n626b944e",
+    "id": "n3675b054",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026061418025424467",
-    "title": "[속보] 李대통령, 성바오로 대성당 특별미사 참석…\"전쟁 포성 멈추지 않아\"",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614048400053",
+    "title": "경부고속도로서 트럭 전도, 양파 쏟아져…3차로 중 2차로 통제",
     "summary": [
-      "[속보] 李대통령, 성바오로 대성당 특별미사 참석…\"전쟁 포성 멈추지 않아\"."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf9108ce8",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/stock/2026/06/14/2026061417481649783",
-    "title": "변동성 커진 증시…케빈 워시의 첫 FOMC '주목'",
-    "summary": [
-      "[주간증시전망] 코스피가 8000선을 넘은 뒤 급격한 변동성을 보이는 가운데 이번 주에도 이런 장세가 이어질지 주목된다.",
-      "이번 주는 미국의 이란 종전 가능성, 스페이스X의 수급 쏠림 해소에 따른 영향, 케빈 워시 신임 연방준비제도(Fed·연준) 의장이 취임한 뒤 첫 연방공개시장위원회(FOMC) 등이 증시 변수가 될 것으로 보인다.",
-      "14일 한국거래소에 따르면 코스피는 지난 주(6월8~12일) 마지막 날인 12일 8123.62포인트로 장을 마쳤다."
+      "(김천=연합뉴스) 이승형 기자 = 14일 오후 6시 18분께 경북 김천시 농소면 경부고속도로 서울 방향 김천휴게소 부근에서 양파를 싣고 가던 1..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc6c866d8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "방금 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260614/134109057/2",
-    "title": "李대통령 “한반도 평화가 세계평화로 이어지는 선순환 함께 만들어가길”",
-    "summary": [
-      "이재명 대통령은 14일(현지시간) 이탈리아 로마 성 바오로 대성당에서 열린 평화와 연대를 위한 특별 미사에 참석해 “한반도의 평화가 세계평화로 이어지고, 세계의 연대가 다시 한반도의 평화를 굳건하게 만드는 선순환을 함께 만들어 가길 희망한다”고 밝혔다.이 대통령은 이날 기념연설에서 “오늘날 세계는 그 어느 때보다 깊은 갈등과 불확실성 속에 놓여 있다”며 “우크라이나 전쟁의 포성은 멈추지 않고, 중동에서는 새로운 충돌이 이어지고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n42cea03c",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/14/2026061417014070200",
-    "title": "[속보]'바티칸 방문' 이재명 대통령 \"내년 서울 세계청년대회, 최선 다해 뒷받침할 것\"",
-    "summary": [
-      "[the300] 14일(현지시간) 성 바오로 대성전, '평화와 연대를 위한 특별미사'...."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne8dfdaeb",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260614/134107987/1",
-    "title": "올해 3분기 6000억 규모 2차 국민참여형 국민성장펀드 출시",
-    "summary": [
-      "정부가 올해 3분기(7~9월) 중 6000억 원 규모로 2차 국민참여형 국민성장펀드(국민참여성장펀드)를 출시한다.",
-      "당초 3주 동안 판매하기로 했던 1차 물량이 닷새 만에 완판되면서 정부가 추가 공급에 나선다.이억원 금융위원장은 12일 서울 영등포구 금융투자협회에서 국민참여성장펀드 운용사 간담회에서 “지난달 출시된 국민참여성장펀드가 조기에 완판된 만큼 3분기 중 6000억 원 규모 2차 펀드를 출시할 계획”이라며 “안정적이면서도 수익성을 갖춘 투."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4a491efb",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/14/2026061417002231598",
-    "title": "[속보]'바티칸 방문' 이재명 대통령 \"평화가 인류 공동 유산 되도록 국제적 책임\"",
-    "summary": [
-      "[the300] 14일(현지시간) 성 바오로 대성전, '평화와 연대를 위한 특별미사'...."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n07042416",
+    "id": "n26f2918b",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/14/2026061412012789440",
-    "title": "'2승 14패' 한화에 벌벌 떨었는데→키움 '798일 만의 스윕승'... 불펜서 희비 갈렸다 [고척 현장]",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614048300002",
+    "title": "금감원, '스페이스X 0주 배정' 미래에셋 검사…투자자보호 파악",
     "summary": [
-      "지난해 2승 14패로 한화 이글스만 만나면 더 작아졌던 키움 히어로즈가 올해는 다른 모습을 보이고 있다.",
-      "2년 넘게 없었던 시리즈 스윕까지 이뤄냈다.",
-      "키움은 14일 오후 2시부터 서울시 구로구 고척스카이돔에서 열리는 한화와 2026 신한 SOL KBO리그 홈경기에서 3-2로 이겼다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nf868f363",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260612_0003667438",
-    "title": "여름 맞이 셀프제모…피부 지키는 '제모제' 사용법",
-    "summary": [
-      "[서울=뉴시스]황재희 기자 = 본격적인 여름을 맞아 셀프로 제모를 하는 경우가 많아지고 있다.",
-      "제모제를 피부 손상없이 사용하기 위해서는 사용법을 제대로 지켜야 한다.",
-      "14일 식품의약품안전처에 따르면, 제모제는 체모(털)를 제거할 때 사용하는 기능성 화장품으로, 크림제와 로션, 에오로솔제 등의 형태가 있다."
+      "(서울=연합뉴스) 배영경 기자 = 금융감독원이 미래에셋증권[006800]에 배정 예정이었던 스페이스X 공모주 물량이 전량 삭감된 사태와 관련해 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n037611e1",
+    "id": "n42abf107",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/14/MQZWIYRTGA3WKMRSGJSDCMTDMY/",
+    "title": "\"떠나는 새는 흔적을 남기지 않는다\" 日 축구팬, '왜 경기장 청소하나' 이유 찾았다",
+    "summary": [
+      "[OSEN=강필주 기자] 일본 축구 경기는 일본 팬들의 경기장 청소가 항상 화제가 돼 왔다.",
+      "이번 2026 국제축구연맹(FIFA) 북중미 월드컵에서도 일본 축구 팬들이 쓰레기봉투를 들고 좌석 주변을 청소하는 모습을 어김 없이 볼 수 있을 것으로 보인다.글로벌 스포츠 'ESPN'은 14일(한국시간) '일본 팬들은 왜 경기장을 청소하는 걸까'라는 제목의 기사를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5c6a99c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614047500063",
+    "title": "대전 유성서 산불…1시간 12분 만에 진화",
+    "summary": [
+      "(대전=연합뉴스) 정윤덕 기자 = 14일 오후 5시 53분께 대전시 유성구 대동 야산에서 불이 났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n47ac3729",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260614/134108062/1",
+    "title": "보조배터리 온도 급격히 상승 ‘열폭주’ 현상…여름철 화재 위험 ↑",
+    "summary": [
+      "최근 보조배터리가 원인으로 추정되는 화재가 전국 곳곳에서 잇따르면서 보조배터리 안전에 대한 우려가 커지고 있다.",
+      "스마트폰, 태블릿PC 등 휴대용 전자기기 사용이 일상화되면서 보조배터리는 필수품이 됐지만 배터리 내부 온도가 급격히 상승하는 ‘열폭주’ 현상으로 인한 화재 위험도 커지고 있기 때문이다.",
+      "실제로 지난해 1월 항공기 절반가량이 불에 탄 김해공항 홍콩행 에어부산 여객기 화재 원인은 보조배터리 내부 합선으로 지목되기도 했다."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n24914ae6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614047200079",
+    "title": "\"美·이란, 호르무즈 즉각 개방·농축 우라늄 이란내 희석 합의\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란의 전쟁 종식을 위한 양해각서(MOU) 최종안에 호르무즈 해협의 즉각적인 개방 등 내용이 포함됐..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n39372067",
     "category": "사회",
     "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/chosunbiz/topics_biz/2026/06/14/CZSZL4NPQNALNOKLCVGZTUSJD4/",
-    "title": "‘참교육’ 현실화하나… 안민석, 교권보호국 신설 공개토론 제안",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/national/regional/2026/06/14/4WEWBBQOCJA27EGIN7IYJWP57Y/",
+    "title": "경북 포항서 패러글라이딩하던 70대 추락… 심정지 상태로 이송",
     "summary": [
-      "‘참교육’ 현실화하나… 안민석, 교권보호국 신설 공개토론 제안."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "na3083442",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026061418001320804",
-    "title": "대통령비서실 청년미래자문단, 6개월 활동 마무리…최종 6개 정책과제 제안",
-    "summary": [
-      "강훈식 대통령비서실장을 단장으로 하는 청년미래자문단이 6개월간의 활동을 마무리하고 프리랜서 경력증명 시스템 구축, 청년 신용·재무상담 지원체계 구축 등 6개 정책과제를 청와대에 최종 제안했다.",
-      "청와대는 14일 강 실장 주재로 '대통령비서실 청년미래자문단 최종회의'를 개최했다고 밝혔다.",
-      "청년미래자문단은 강 실장을 단장으로 지난해 11월 출범한 조직으로, 청년 당사자와 현장 활동가, 전문가 등이 참여해 청년 노동·."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7ac9ce00",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668310",
-    "title": "이용식 \"손녀 위해 목숨도 쏟겠다\" 눈물의 편지",
-    "summary": [
-      "[서울=뉴시스] 손정빈 기자 = 코미디언 이용식이 손녀를 위해 모든 걸 쏟아부어 돌잔치를 준비한다.",
-      "이용식은 15일 방송하는 TV조선 예능프로그램 '조선의 사랑꾼'에서 외동딸 수민이 낳은 손녀 돌잔치를 열고 직접 쓴 편지를 읽는다.",
-      "이용식은 \"손녀에게 사랑을 쏟겠다."
+      "경북 포항서 패러글라이딩하던 70대 추락… 심정지 상태로 이송."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc7b734b0",
+    "id": "na2a2ac65",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260613_0003667820",
-    "title": "\"심장 건강 개선·혈당 조절\"…'숲 속의 버터' 아보카도의 효능",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260614/134109554/1",
+    "title": "이경규, 건강이상설 또 일축 “전혀 문제 없다…멀쩡해”",
     "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = '숲 속의 버터'라는 별명으로 유명한 아보카도를 꾸준히 섭취하면 건강 개선에 효과적이다.",
-      "중남미 지역에서 재배되기 시작한 아보카도는 미국에서 연간 4㎏이 소비될 정도로 인기를 끌고 있다.",
-      "부드러우면서도 고소한 맛을 지닌 아보카도는 영양소도 풍부해서 종종 '슈퍼 푸드'로 불린다."
+      "코미디언 이경규가 최근 불거진 건강이상설을 재차 일축했다.이경규는 13일 방송한 MBC TV 예능프로그램 ‘놀면 뭐하니?’에 코미디언 이윤석과 함께 출연했다.유재석은 이경규에게 “최근 용만이 형과 골프 콘텐츠를 자주 찍으시지 않나.",
+      "저도 자주 보는데 댓글 중에 ‘건강에 문제가 있다’는 말이 있더라”고 말했다.이경규는 “전혀 문제없다.",
+      "멀쩡하다”고 답했다.유재석 역시 “오늘 얼굴과 컨디션이 굉장히 좋아 보인다”고 말했다.그러던 중 유재석은 이경규."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n3ab62c1c",
+    "id": "nb4eaf904",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061417393891571",
-    "title": "장동혁 \"李대통령, 재판 취소부터 포기하라…특검 거부는 공범자백\"",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668500",
+    "title": "與 전당대회 앞두고 '정청래 책임론' 공방…\"연임만 집착\" \"선 지키자\"",
     "summary": [
-      "장동혁 국민의힘 대표가 이재명 대통령을 향해 \"재판 취소부터 깨끗하게 포기해 보라.",
-      "여당이 민생에 쓸 시간이 열배는 늘어날 것\"이라고 비판했다.",
-      "장 대표는 14일 페이스북을 통해 \"본인의 책무는 내팽개치면서 여당의 책무를 아무리 이야기해봐야 달라질 건 없다\"며 이같이 말했다."
+      "[서울=뉴시스]정금민 기자 = 정청래 더불어민주당 대표가 8·17 전당대회에서 연임에 도전할 것이라는 관측이 나오는 가운데, 일부 의원들 사이에서 정 대표를 향한 '지방선거 패배 책임론'과 '연임 도전 포기 요구'가 나오고 있다.",
+      "이건태 민주당 의원은 14일 자신의 페이스북에 \"정 대표가 연임에 도움이 된다고 생각하는지 또다시 1인 1표제와 보완수사권 문제를 꺼내 들었다\"고 했다.",
+      "이어 \"물러나야 할 현 지도부가 선거 평가를 주도하고, 동시에."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nd7c7a137",
+    "id": "n49a916da",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614042600098",
-    "title": "영국, 러 '그림자함대' 유조선 첫 나포…\"푸틴 불법전쟁에 타격\"",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260614/134109549/1",
+    "title": "황신혜 “유튜브 채널 해킹 당해 사라져…복구 중”",
     "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 영국군이 러시아 '그림자 함대'의 유조선 1척을 영국 해협에서 최초로 나포했다고 AFP통신 등이 전했다."
+      "배우 황신혜가 운영 중인 유튜브 채널에 해킹 당했다.황신혜는 13일 소셜미디어에 “제 유튜브 계정이 최근에 해킹을 당해서 지금 사라진 상태”라고 말했다.그는 “정말 당황스럽지만 열심히 복구하고 있으니 조금만 기다려달라.",
+      "곧 다시 돌아올 테니 응원 부탁한다”고 했다.황신혜는 7년 간 유튜브 채널 ‘황신혜의cine style’을 꾸려왔다.이 채널을 통해 패션·요리 등에 관해 얘기했다.황신혜 채널은 현재 검색이 되지 않고 있다.황신혜는 현재 KBS."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncabd3f58",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614033500001",
-    "title": "[속보] 李대통령 \"6·15,역사 전환점…지금도 희망 불씨 살아있다 믿어\"",
-    "summary": [],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2a4da2ad",
-    "category": "IT",
+    "id": "n30ce4df4",
+    "category": "스포츠",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668437",
-    "title": "한국·대만 방문한 젠슨 황…'日 패싱'에 일본 내 AI 위기론 등장",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668503",
+    "title": "전날 2만명→1만명…열흘째 이어진 개표소 봉쇄 시위(종합)",
     "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 최근 한국을 비롯해 중국과 대만을 방문한 가운데 일본을 찾지 않은 것을 두고 일본 내에서는 위기론이 나오고 있다.",
-      "14일(한국 시간) 일본 니혼게이자이신문(닛케이)은 황 CEO가 일본을 방문하지 않은 것에 대해 '일본 패싱'이라 표현하며 반도체 산업 내 일본의 경쟁력 저하와 인공지능(AI) 혁명에서 일본이 뒤처질 수 있다는 위험을 시사한다고 했다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n7f315a3a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614033700001",
-    "title": "[속보] 李대통령 \"한반도, 단절의 시대로 되돌아가…불신·긴장 여전\"",
-    "summary": [
-      "hysup@yna.co.kr (끝)."
+      "[서울=뉴시스]이다솜 신유림 기자 = 6·3 지방선거 투표용지 부족 사태를 규탄하는 개표소 봉쇄 시위가 10일째 이어지는 가운데 일요일인 14일에도 서울 잠실 일대에 대규모 인파가 모였다.",
+      "뉴시스 취재를 종합하면 이날 오후 7시께 서울 송파구 올림픽공원 핸드볼경기장 일대에는 경찰 비공식 추산 인원 1만여명의 시위 참가자가 집결했다.",
+      "이날 오전 10시께 추산 인원 600여명이 모였던 것과 비교해 크게 늘었지만 전날 밤 2만여명의 시위 참가자와 비."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n75590394",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668357",
+    "title": "'슈퍼루키' 김민솔, 메이저 한국여자오픈 우승…시즌 2승 선착",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = '슈퍼루키' 김민솔이 대한골프협회 주관 메이저대회인 한국여자오픈 골프선수권대회(총상금 15억원)를 제패했다.",
+      "김민솔은 14일 경기도 양주시 레이크우드 컨트리클럽 산길·숲길 코스(파71)에서 열린 메르세데스-벤츠 제40회 한국여자오픈 최종 4라운드에서 버디 2개, 보기 1개로 1언더파 70타를 기록했다.",
+      "최종 합계 4언더파 280타를 적어낸 김민솔은 3언더파 281타를 때려낸 2위 양윤서를 한 타 차로 따돌리고 대회."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73af4108",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "43분 전",
+    "url": "https://www.hankyung.com/article/2026061454091",
+    "title": "[부고] 최정화 한국외대 명예교수 별세 外",
+    "summary": [
+      "[부고] 최정화 한국외대 명예교수 별세 外."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbcf4b4f8",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "44분 전",
+    "url": "https://www.hankyung.com/article/2026061454081",
+    "title": "[인사] 소방청",
+    "summary": [
+      "[인사] 소방청."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n29589db6",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "45분 전",
+    "url": "https://www.hankyung.com/article/2026061452681",
+    "title": "[랜드마크 대 랜드마크] 좋은 경기장은 특별한 이야기를 품고 있다",
+    "summary": [
+      "[랜드마크 대 랜드마크] 좋은 경기장은 특별한 이야기를 품고 있다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -649,9 +646,9 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
@@ -661,9 +658,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
