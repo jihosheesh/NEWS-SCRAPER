@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-14 14:45:01
+// 마지막 업데이트: 2026-06-14 15:32:51
 window.NEWS_DB = [
   {
     "id": "na2cf4007",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZm5YSUdYb0lmcUkwdlhrSV80aUZsWVZJTDlwbHlqZUdUWlQ1TjY4eU5YSUpvSThCTzRmWEVXSkNiRGdqZTJ5XzJjQ1lnVERlaWFiMHZ3TWx0cTlGZk5JQzZVb0NuZVNFLWxWclFPRDZhWmc?oc=5",
     "title": "엔비디아 대항 독자 AI칩 시장 급성장 전망, 삼성전자·SK하이닉스 HBM 수요 더 늘어난다",
     "summary": [
@@ -66,18 +66,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2af5a245",
+    "id": "nc8a0aac2",
     "category": "IT",
-    "source": "디일렉",
+    "source": "지디넷코리아",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQTlGZl9DeDFvZWczWnRQa1d6NjdWbUVUc0wzR2k2MWg4Z0oxRzN0MG01bkRWQ0FJV2RuQ1dxRXZ2cG9taEszSy14V2dxVTliR21INEp4M1ZLYlV0ZkktQ3hDVDkxdw?oc=5",
-    "title": "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZl9QZnMwbTZlZEloNUVKX0FCRGNUcV82U29Kd29UdDZrNGJ2NEpmMFZSNlRGSlpNZkJVZ2hMNHI1T1A0THlEZERsNkI5SmJCVjQybHln?oc=5",
+    "title": "최태원 \"일본에 AI 팩토리 구축 계획... 반도체, 생태계 모두 갖춰\"",
     "summary": [
-      "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정 디일렉."
+      "최태원 \"일본에 AI 팩토리 구축 계획...",
+      "반도체, 생태계 모두 갖춰\" 지디넷코리아."
     ],
     "chips": [
-      "#반도체",
-      "#엔비디아"
+      "#AI",
+      "#반도체"
     ]
   },
   {
@@ -205,6 +206,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "summary": [
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "n37646dcf",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -276,21 +291,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "115일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -321,210 +321,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0e36e0b0",
+    "id": "n09086636",
     "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668555",
-    "title": "이 대통령 \"2년차 국정, 핵심과제 기반 구축 목표…문턱 닳도록 여야 찾아야\"",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668561",
+    "title": "이란 “미국과 종전협상 지속 의미 없어”…베이루트 공습으로 '합의 불확실'(종합)",
     "summary": [
-      "[서울=뉴시스]조재완 기자 = 이재명 대통령은 14일(현지시간) \"필요하다면 문턱이 닳을 정도로 여당과 야당을 찾아다니면서 입법 속도전에 총력을 기울여야 될 것\"이라고 말했다.",
-      "이탈리아를 국빈 방문 중인 이 대통령은 이날 현지에서 제37차 수석보좌관 회의를 화상회의로 열고 \"우리 국민주권정부의 2년 차 국정이 본격적으로 시작된다\"며 \"첫 1년이 내란의 혼란을 수습하고 전체 국정의 설계도를 그리는 시간이었다면 이번 2년 차 국정은 핵심 과제들의."
+      "[서울=뉴시스]이재준 기자 = 이란은 14일(현지시간) 미국과 벌어진 종전협상과 관련해 “더 이상 협상을 지속할 의미가 없다”고 밝혀 도널드 트럼프 미국 대통령이 임박했다고 강조한 양해각서(MOU) 체결에 의문을 제기했다.",
+      "AFP과 AP 통신, CNN에 따르면 이란 핵심 협상대표 모하마드 바게르 갈리바프 국회의장은 이날 사회관계망 서비스 X를 통해 이스라엘의 레바논 베이루트 공습은 미국이 약속을 이행할 의지 또는 능력이 없다는 점을 다시 확인했."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n02b82539",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/06/14/WJ7Y6SQLHNEW7OOSFQT5WWIQIQ/",
-    "title": "[문태준의 가슴이 따뜻해지는 詩] [125] 제비 가족",
+    "id": "nabc11d41",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260614/134109171/2",
+    "title": "AI 사이클 탄 반도체부품-전력기기… 영업익 줄상향",
     "summary": [
-      "[문태준의 가슴이 따뜻해지는 詩] [125] 제비 가족."
+      "인공지능(AI) 슈퍼사이클의 훈풍이 반도체 업계를 넘어 커패시터와 반도체 기판 등을 생산하는 반도체 부품 업계, 변압기와 전선을 생산하는 전력기기 업체에도 불고 있다.",
+      "증권가는 이들 기업의 올 2분기(4∼6월) 실적을 줄줄이 상향 조정하고 있다.",
+      "AI 데이터센터 증설 수요가 넘쳐 제품을 달라고 조르는 빅테크들이 많은 반면, 빅테크 기대에 맞출 ‘고스펙’ 제품을 생산할 수 있는 기업은 한정적이다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#반도체"
     ]
   },
   {
-    "id": "n06b58d9b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/opinion/journalist_view/2026/06/14/GQZTH7FG3FFJZP3P7QHPF6DWD4/",
-    "title": "[기자의 시각] 선관위에 없는 3가지 기본",
-    "summary": [
-      "[기자의 시각] 선관위에 없는 3가지 기본."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndb161d86",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/opinion/contribution/2026/06/14/X7XX7LXQYVFVTCYTKRVVNDVIXA/",
-    "title": "[기고] ’2030년 이민정책 미래 전략’의 성공 조건",
-    "summary": [
-      "[기고] ’2030년 이민정책 미래 전략’의 성공 조건."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n788c3f72",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/06/14/T5KNNAXD45GVHNC2G2T7R43EAU/",
-    "title": "[김민섭의 다정함에 대하여] [1] 기대하지 않는 다정함",
-    "summary": [
-      "[김민섭의 다정함에 대하여] [1] 기대하지 않는 다정함."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e4206e9",
+    "id": "n407ac036",
     "category": "사회",
     "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260614/134109974/2",
-    "title": "[사설]李 “與 신념보다 책임의 언어를”… 鄭 몰라 그럴까, 생각이 다를까",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260614/134109154/2",
+    "title": "효성중공업, 변압기 이어 美서 초고압 차단기 생산",
     "summary": [
-      "이재명 대통령이 13일 여당을 향해 “신념의 언어보다 책임의 언어에 더 집중해야 한다”고 말했다.",
-      "유럽을 순방 중인 이 대통령은 X(옛 트위터)에 여당은 국민의 먹고사는 문제를 해결해 결과로 증명할 책임이 있기 때문이라며 이같이 올렸다.",
-      "“현실이 없는 이상주의자는 해결책 없이 편 가르기에 집중하는 무능한 선동가가 된다”고도 했다."
+      "효성중공업이 국내 전력기기 업체 최초로 미국 현지에 초고압 차단기 생산기지를 설립한다.",
+      "14일 효성중공업은 자회사인 효성HICO가 북미 에너지 인프라 솔루션 기업 콴타(Quanta)의 자회사와 가스절연차단기(GCB) 합작법인 ‘효성HICO 브레이커’ 설립 계약을 체결했다고 밝혔다.",
+      "7월에 설립되는 합작법인은 10월부터 미국 펜실베이니아주에 있는 콴타의 캐넌스버그 공장에서 72.5kV(킬로볼트)부터 800kV까지 초고압 차단기 생산에 들어간다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbb5c9aa1",
+    "id": "naca86b7e",
     "category": "사회",
     "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260614/134107439/1",
-    "title": "李 “참정권 침해 문제 악용해 부정선거 음모론 세력 고개들어”",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260614/134109169/2",
+    "title": "2차 국민성장펀드 3분기에 나온다… 6000억 규모",
     "summary": [
-      "이탈리아를 국빈 방문 중인 이재명 대통령은 14일(현지 시간) 투표용지 부족 사태에 대해 “선거 결과 조작 등등을 운운하면서 부정선거론을 퍼뜨리는 것은 이 문제의 본질을 왜곡하고 국민들의 귀한 목소리를 모욕하는 반사회적 행태”라고 비판했다.이 대통령은 화상으로 비공개 수석보좌관회의를 주재하고 “참정권 침해에 대한 국민들의 정당한 문제 제기를 다 인정하고 수용한다”면서도 “이걸 악용해 가지고 이 터무니없는 음모론을 선동하는 세력들이 더 고개를 들."
+      "정부가 올해 3분기(7∼9월) 중 2차 국민참여형 국민성장펀드(국민참여성장펀드)를 6000억 원 규모로 내놓는다.",
+      "당초 3주 동안 판매하기로 했던 1차 물량이 닷새 만에 완판되면서 정부가 추가 공급에 나선다.",
+      "이억원 금융위원장은 12일 서울 영등포구 한국금융투자협회에서 열린 국민참여성장펀드 운용사 간담회에서 “지난달 출시된 국민참여성장펀드가 조기에 완판된 만큼 3분기 중 6000억 원 규모의 2차 펀드를 출시할 계획”이라며 “안정적이면서도 수익."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n3a94a37e",
+    "id": "n194827b4",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260614/134109188/2",
+    "title": "종전 기대감에 국제유가 3개월새 최저… 환율 상승세도 꺾일듯",
+    "summary": [
+      "중동 전쟁 종전 기대감이 높아지며 국제 유가가 2, 3개월 전 수준으로 하락했다.",
+      "미국과 이란이 종전을 위한 양해각서(MOU)를 체결하고 국제 유가가 추가로 하락하면 1500원을 넘어선 원-달러 환율 상승세도 한풀 꺾일 가능성이 크다.",
+      "다만 종전 기대감이 현재 유가에 이미 반영돼 막상 전쟁이 끝나면 되레 오를 수 있다는 전망도 있다."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
+    "id": "n697384b7",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614053900079",
-    "title": "\"이란, 중재자 카타르에 원하는 종전 합의문 조항 전달\"",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614054751071",
+    "title": "트럼프, 이스라엘의 레바논 공습 비판…\"모든 당사자 자제해야\"",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이란이 자국을 방문한 중재국 카타르 협상단을 통해 자신들이 원하는 종전 합의문 조항과 세부 요구사항을 전달..."
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 14일(현지시간) 이스라엘이 레바논 수도 베이루트 남쪽 외곽을 공습한 것을 비..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n56bbbe1b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/14/HBSTMYLBHFQWKZJYG43TQMRVME/",
+    "title": "곽범, 실시간 네티즌 '고나리'에 결국 뿔났다..\"어떡하라고\" ('OOTD') [순간포착]",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 곽범이 결국 뿔났다.지난 12일 유튜브 채널 'OOTD'에는 '평양냉면 vs 함흥냉면 당신의 선택은? | 인기 맛집 | 곽범'라는 제목의 영상이 게재됐다.",
+      "이날 곽범은 실시간으로 소통하며 냉면 맛집을 추천받았다.",
+      "추천받은 곳 중 한 곳으로 택시를 타고 이동하던 중 곽범은 2000원 후원."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndcf2c71f",
+    "id": "n5b90cb2a",
     "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260614/134109978/2",
-    "title": "[사설]작년 실업급여 1.8조 적자… 하한액 낮추고 구조조정 해야",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/06/15/67F2CYUFNJDIVHNSKTJO36MMNU/",
+    "title": "[사설] “진영 아닌 국민 전체 향해야” 대통령이 먼저 보여주길",
     "summary": [
-      "지난해 일자리를 잃은 근로자 등에게 고용보험기금(고용보험)에서 지급된 실업급여 사업비가 역대 최대인 17조4622억 원으로 집계됐다.",
-      "‘고용 한파’가 닥친 신종 코로나바이러스 감염증(코로나19) 사태 때보다도 많다.",
-      "들어온 돈보다 나간 지출이 많아 실업급여 수지도 약 1조7800억 원의 적자를 냈다."
+      "[사설] “진영 아닌 국민 전체 향해야” 대통령이 먼저 보여주길."
     ],
     "chips": [
-      "#고용"
+      "#정치"
     ]
   },
   {
-    "id": "n809db503",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260614/134109976/2",
-    "title": "[사설]송전망 사업 54개 중 20개 지연… 이래선 발전소 지어도 허사",
+    "id": "ndc4d658e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/15/GZTGCNRWGM2TQZRVGVRGCYJTGY/",
+    "title": "'80억 FA' 박찬호의 친정 KIA 저격, 3안타 3득점 종횡무진...두산 5연속 위닝 이끌다",
     "summary": [
-      "국가 송전망 건설 사업 54개 중 20개가 계획된 준공 시기를 맞추지 못했다고 한다.",
-      "일부 지역 주민 반대와 지방자치단체의 인허가 지연에 발목을 잡힌 결과다.",
-      "이 문제를 해결하려 지난해 ‘국가 기간전력망 확충 특별법’까지 만들었지만 ‘님비’(지역 이기주의)에 막혀 그 효과가 나타나지 않고 있다."
+      "[OSEN=조형래 기자] 두산 베어스가 박찬호의 대활약으로 5연속 위닝시리즈를 펼쳤다.두산은 14일 광주 KIA 챔피언스필드에서 열린 ‘2026 신한 SOL KBO리그’ 정규시즌 KIA 타이거즈와의 경기에서 8-1로 완승을 거뒀다.",
+      "두산은 33승 31패 2무로 5위로 올라섰다.",
+      "32승 31패 1무를 기록한 한화를 6위로 밀어냈다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n4bf26922",
+    "id": "n36c1055a",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "뉴시스",
     "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614053200001",
-    "title": "李대통령 \"참정권침해 문제제기 다 수용…부정선거론, 본질왜곡\"",
+    "url": "https://www.newsis.com/view/NISX20260612_0003666630",
+    "title": "\"2030세대, 생활 속 과소비에 투기성 투자까지\"…'텅장' 막으려면 이것부터 바꿔라",
     "summary": [
-      "(바티칸=연합뉴스) 임형섭 고동욱 기자 = 이재명 대통령은 14일 지방선거에서 발생한 투표용지 부족 사태와 관련해 \"민주주의의 근본이라고 할 수..."
+      "[서울=뉴시스]허준희 인턴 기자 = 2030 세대의 생활 속 과소비와 투기성 투자가 미래 자산을 갉아먹고 있는 가운데, 전문가는 돈에 대한 면죄부를 버리고 자신의 성향에 맞는 장기적인 자산 관리와 철저한 목돈 통제에 나서야 한다고 조언했다.",
+      "지난 11일 구독자 200만을 보유한 인기 유튜브 채널 '머니인사이드'에는 김경필 작가가 출연해 돈이 모이지 않는 이유를 설명한 영상이 공개됐다.",
+      "최근 2030세대 사이에서는 커피, 배달 음식, 구독 서비스."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nd2b9722f",
+    "id": "nd049d71f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668554",
-    "title": "가자 전쟁 사망자 7만3000명 돌파…휴전 속 공습 지속",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668211",
+    "title": "박세미, 20㎏ 빼고 미모 리즈 경신…'요요 제로' 유쾌한 다이어트의 비밀",
     "summary": [
-      "[데이르 알발라=AP/뉴시스] 이재준 기자 = 2023년 10월 가자전쟁 발발 이래 지금까지 팔레스타인 사망자가 7만3000명을 넘어섰다고 가자지구 보건부가 14일 밝혔다.",
-      "보건부는 이날 이스라엘과 하마스 간 전쟁으로 인한 팔레스타인 사망자가 7만3001명에 달했다고 발표했다.",
-      "함자 살렘 보건부 대변인은 14일에만 5명이 추가로 목숨을 잃었다며 이중 2명은 남부 칸유니스에서, 1명은 가자 중부에서 숨졌으며 나머지 2명은 기존 부상으로 사망했다고."
+      "[서울=뉴시스]허준희 인턴 기자 = 코미디언 박세미가 20㎏ 감량 성공 소식과 함께 자신만의 다이어트 유지 비결을 솔직하게 털어놨다.",
+      "박세미는 지난 11일 방송된 SBS 파워FM '두시탈출 컬투쇼'에 게스트로 출연해 몰라보게 가벼워진 모습으로 청취자들을 만나 화제를 모았다.",
+      "이날 방송에서 요요 현상 없이 체중을 유지하는 비법을 묻는 질문에 그는 \"다이어트 방법은 대중들이 흔히 아는 것과 같다\"며 \"결국 덜 먹고 운동하는 것\"이라고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc36de294",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668247",
+    "title": "\"혈당스파이크 막아 준다더라\" 장윤정이 먹은 땅콩버터 효능은?",
+    "summary": [
+      "[서울=뉴시스]박윤서 인턴 기자 = 가수 장윤정이 평소 식습관에 대해 밝혔다.",
+      "지난 11일 유튜브 '달라 스튜디오'에는 '완전 럭키 네고가잖아~? 고소달달하게 7로 통일한 건강 간식 네고'라는 제목의 영상이 업로드됐다.",
+      "장윤정이 '옳곡' 브랜드를 만나 제품 가격 협상에 나서는 모습이 담겼는데, 영상 초반 장윤정이 자신의 식습관에 대해 밝힌 것이 화제다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n5308ed79",
+    "id": "n31161e04",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668553",
-    "title": "이재명 대통령, 이탈리아 국빈 방문 중 화상 수석·보좌관회의 주재 '참정권 침해 인정하지만…터무니없는 음모론 선동세력 있어' [뉴시스Pic]",
-    "summary": [
-      "[서울=뉴시스]고범준 최동준 조재완 기자 = 이재명 대통령이 14일 6·3 지방선거 투표용지 부족 사태와 관련해 \"선거 결과 조작 등을 운운하면서 부정선거론을 퍼뜨리는 것은 이 문제의 본질을 왜곡하고 국민들의 귀한 목소리를 모욕하는 반사회적 행태\"라고 말했다.",
-      "이탈리아를 국빈 방문 중인 이 대통령은 이날 현지에서 제37차 수석보좌관 회의를 화상회의로 열고 \"참정권 침해에 대한 우리 국민들의 정당한 문제 제기를 다 인정하고 수용한다\"면서도 \"그것."
-    ],
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615000200071",
+    "title": "[속보] 트럼프 \"평화합의에 매우 근접…모든 당사자 자제해야\"",
+    "summary": [],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "ne827c972",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "36분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668552",
-    "title": "이 대통령 \"내년 예산안·중장기 국가재정 사업 청년 정책 최우선 고려\"",
+    "id": "n9c97eb1b",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612128700371",
+    "title": "[동포의 창] '이달의 재외동포'에 한국 간호사 獨진출 이끈 이수길 박사",
     "summary": [
-      "[서울=뉴시스]조재완 기자 = 이재명 대통령은 14일 \"내년 예산안과 중장기 국가재정 사업 등에 있어 청년 정책을 최우선순위로 고려해야 되겠다\"고 말했다.",
-      "이탈리아를 국빈 방문 중인 이 대통령은 이날 현지에서 제37차 수석보좌관 회의를 화상회의로 열고 \"인공지능 혁명과 산업 전환으로 우리 경제에 새로운 기회의 창이 열리고 있는 것 같지만 우리가 풀어야 할 숙제도 만만치가 않다\"며 \"특히 우리 사회의 미래라고 할 수 있는 청년들이 겪는 고용, 자."
+      "(서울=연합뉴스) 박현수 기자 = 재외동포청(청장 김경협)은 우리나라 경제 발전의 밑거름이자 한·독 양국 인적·문화적 교류의 토대가 된 파독 간..."
     ],
     "chips": [
-      "#AI",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n31e8d8a0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda7a5b29",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "32분 전",
+    "url": "https://view.asiae.co.kr/article/2026061423595036953",
+    "title": "[속보]트럼프, 이스라엘 비난…\"일어나지 말았어야\"",
+    "summary": [
+      "[속보]트럼프, 이스라엘 비난…\"일어나지 말았어야\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0fedbcc5",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026061423242621173",
+    "title": "이 대통령 \"최우선 순위는 '청년'…전담기구 설치에 속도 내야\"",
+    "summary": [
+      "이재명 대통령은 14일(현지시간) \"내년 예산안 그리고 중장기 국가재정 사업 등에 있어서도 청년 정책을 최우선순위로 고려해야겠다\"고 말했다.",
+      "유럽 순방 중인 이 대통령은 이날 이탈리아 로마의 한 호텔에서 화상 수석보좌관회의를 주재하며 \"우리 사회의 미래라고 할 수 있는 청년들이 겪는 고용, 자산, 소득 양극화의 삼중고가 매우 심각하다\"며 이같이 밝혔다.",
+      "이 대통령은 \"지난 1분기 가구주의 월평균 명목소득 조사를 해봤."
+    ],
+    "chips": [
       "#정책",
       "#고용",
       "#정치"
@@ -534,7 +586,7 @@ window.NEWS_DB = [
     "id": "na36fa19b",
     "category": "사회",
     "source": "한국경제",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026061455187",
     "title": "李대통령 \"선관위 부실로 국격 오점…음모론 책임 물어야\"",
     "summary": [
@@ -545,27 +597,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc5975875",
+    "id": "n0408b1bf",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614052500109",
-    "title": "젤렌스키 \"G7 회의서 드론 협력 확대 등 타진\"",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/06/14/35BXIVKFCJAOLIZDAJLXGDJ62M/",
+    "title": "李 “부정선거 몰이 용납못해... 참정권 침해 비판은 수용”",
     "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 14일(현지시간) 오는 15∼17일 프랑스에서 열리는 주요 7개국(G..."
+      "李 “부정선거 몰이 용납못해... 참정권 침해 비판은 수용”."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n4f761e90",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614052800001",
-    "title": "[속보] 李대통령 \"선관위, 국정조사 전폭 협조해야…책임규명 박차\"",
-    "summary": [],
+    "id": "nd88d7b61",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026061423020908105",
+    "title": "李대통령 \"부정선거론은 반사회적 행태…경찰·시민 위협 책임 물어야\"",
+    "summary": [
+      "이재명 대통령은 14일(현지시간) 지방선거에서 발생한 참정권 침해 사태를 부정선거론과 연관 짓는 것에 대해 \"반사회적 행태\"라고 지적했다.",
+      "또 서울 올림픽공원 핸드볼경기장 개표소를 봉쇄한 시위대를 향해 경찰이나 시민에 위해를 가할 경우 책임을 묻겠다고 경고했다.",
+      "유럽 순방 중인 이 대통령은 이날 이탈리아 로마의 한 호텔에서 화상 수석보좌관회의를 주재하며 \"선거 결과 조작 등등을 운운하면서 부정선거론을 퍼뜨리는."
+    ],
     "chips": [
       "#정치"
     ]
@@ -574,7 +630,7 @@ window.NEWS_DB = [
     "id": "n5f2e3463",
     "category": "사회",
     "source": "한국경제",
-    "time": "52분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026061455137",
     "title": "[속보] 李대통령 \"참정권 침해 문제제기 인정…부정선거론은 본질 왜곡\"",
     "summary": [
@@ -583,55 +639,6 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
-  },
-  {
-    "id": "n6c760c9a",
-    "category": "경제",
-    "source": "ZDNet Korea",
-    "time": "1시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260614223803",
-    "title": "[기고] SW구현 시대 끝나...고객경험이 명운 갈라",
-    "summary": [
-      "[지디넷코리아]미국정부가 앤트로픽의 ‘페이블5’를 오픈한지 3일만에 외국 국적자의 접근을 제한했다.",
-      "이번 사안은 단순히 수출통제 이슈만이 아니다.",
-      "SW와 AI산업계에도 파장이 예상된다."
-    ],
-    "chips": [
-      "#AI",
-      "#수출"
-    ]
-  },
-  {
-    "id": "na6df9ba3",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152600",
-    "title": "6월, ICT 수출 역대 '최대'...AI 바람, 반도체 수출 '천정부지'",
-    "summary": [
-      "지난 5월 3개월 연속 정보통신기술(ICT) 산업 수출이 월 400억달러 이상을 기록했다.",
-      "5월 ICT 수출액 및 증가율은 역대 월간 최대다.",
-      "이달에도 역시 반도체가 수출을 이끌었다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n4e3c8ae3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606111535g",
-    "title": "\"가방 자랑은 끝났다\"…'마구간' 차린 에르메스의 속사정 [박수림의 요즘 여기]",
-    "summary": [
-      "\"가방 자랑은 끝났다\"…'마구간' 차린 에르메스의 속사정 [박수림의 요즘 여기]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -639,15 +646,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "정치",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "정치",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
