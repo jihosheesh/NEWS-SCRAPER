@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-14 19:30:16
+// 마지막 업데이트: 2026-06-14 20:27:09
 window.NEWS_DB = [
   {
     "id": "na2cf4007",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZm5YSUdYb0lmcUkwdlhrSV80aUZsWVZJTDlwbHlqZUdUWlQ1TjY4eU5YSUpvSThCTzRmWEVXSkNiRGdqZTJ5XzJjQ1lnVERlaWFiMHZ3TWx0cTlGZk5JQzZVb0NuZVNFLWxWclFPRDZhWmc?oc=5",
     "title": "엔비디아 대항 독자 AI칩 시장 급성장 전망, 삼성전자·SK하이닉스 HBM 수요 더 늘어난다",
     "summary": [
@@ -66,14 +66,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n210bd08e",
+    "id": "n27c4fee3",
     "category": "IT",
-    "source": "뉴스1",
+    "source": "한국경제",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCT2N4Mm5vb2xJbGNoQVpOQUFJbC1xNTJxMlBvOWk2bkRuWHRubVg0WHRQejJGYVJRcmZhZFJxUWJPcDZjWDBHcUlaVVJ1NU5xc2lrbWZUMDBTdEh0WGxhdUVTMlpvYjg?oc=5",
-    "title": "미국 AI 반도체 또 흔들…엔비디아·AMD·브로드컴 일제히 하락",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRnZ4QkptSWR2eGZROE9Zb053aWF6ZzF2NW1fYXBDWTBVVXdWekRFSVM1bUpDcFdPSXJSYVBveFNfbmVVbVlWUnVsZU5CZEhmT2dKbFFGN21OZ9IBVEFVX3lxTE9rWlQyUjBLTy1tU283VkpaMXFoZ3o3VmV4a3BFVGhzZzQ5c3ExY0daUU4zYVM0cGFxYlN5UE5QR0VrT3huclktd2xuSG5UYmItQUpXbQ?oc=5",
+    "title": "최태원 \"日에 AI 데이터센터 구축…엔비디아와 협력, 반도체 공장도 검토\"",
     "summary": [
-      "미국 AI 반도체 또 흔들…엔비디아·AMD·브로드컴 일제히 하락 뉴스1."
+      "최태원 \"日에 AI 데이터센터 구축…엔비디아와 협력, 반도체 공장도 검토\" 한국경제."
     ],
     "chips": [
       "#AI",
@@ -173,6 +173,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n22f32cb1",
+    "category": "부동산",
+    "source": "데일리안",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
+    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
+    "summary": [
+      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "n37646dcf",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -247,46 +261,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64476ff1",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "56일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
-    "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "ncbcb6c77",
+    "id": "n783ebe44",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "98일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "source": "테크M",
+    "time": "74일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "115일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "111일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
-      "#부동산",
-      "#정책"
+      "#스타트업"
     ]
   },
   {
@@ -352,10 +351,267 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf3f1c4fd",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026061505235502936",
+    "title": "美 국방장관 \"이란 합의 준수치 않으면 다시 전쟁 치를 것\" 경고",
+    "summary": [
+      "피트 헤그세스 미국 국방부 장관은 이란이 미국과 체결을 앞두고 있는 종전합의 양해각서(MOU) 내용을 준수하지 않으면 다시 미국과 전쟁을 치르게 될 것이라고 경고했다.",
+      "헤그세스 장관은 14일(현지시간) CBS 방송에 출연해 이란과의 MOU에 대해 \"이란이 이를 준수하기를 원하지 않으면, 그들은 다시 미국 국방부를 상대해야 할 것\"이라며 \"우리는 그렇게 하고 싶지 않고, 트럼프 대통령도 그렇게 하고 싶어 하지 않는다\"고 밝혔."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd92fb9fb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615004500034",
+    "title": "전국 가끔 구름 많고 강원·남부내륙 소나기…낮 최고 32도",
+    "summary": [
+      "(서울=연합뉴스) 윤민혁 기자 = 월요일인 15일은 전국이 구름 많은 가운데 소나기가 내리는 곳이 있겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n394927b4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615004600079",
+    "title": "이란 외무부 \"베이루트 공습은 휴전 위반…자위권 행사할 것\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란 외무부는 14일(현지시간) 이스라엘의 레바논 베이루트 공습을 강하게 규탄하며, 이번 공격이 미국과 이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2e80550e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/06/15/L33TGNP3JFEVTEFCG4K2YCVMCE/",
+    "title": "10만개 판매 넘었다, 비립종까지 모든 피부 노화 고민 관리 크림 1만원 내외 단독 특가",
+    "summary": [
+      "10만개 판매 넘었다, 비립종까지 모든 피부 노화 고민 관리 크림 1만원 내외 단독 특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne55ea034",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668578",
+    "title": "이란 축구 팬, 혁명 이전 국기 응원 놓고 잡음…FIFA 소송까지",
+    "summary": [
+      "[과달라하라(멕시코)=뉴시스] 하근수 기자 = 2026 북중미 월드컵을 앞둔 이란 축구 팬들이 혁명 이전 국기를 응원에 활용하려는 방안을 모색하고 있다.",
+      "미국 매체 디애슬레틱은 14일(한국 시간) \"이란 축구 팬들이 국제축구연맹(FIFA)에서 반입을 금지한 이란 혁명 이전 국기를 미국 캘리포니아주 샌프란시스코 베이 에이리어 스타디움에 들여오는 데 성공했다\"며 \"카타르와 스위스 경기 전반전 동안 관중석에서 해당 국기가 포착됐다\"고 조명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b211746",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/04/20/BZVKOK24UJDN5IUVQG2S2MPOEM/",
+    "title": "5만대 판매 넘었다, 배우 이미숙이 숙면을 위해 쓰기 시작한 것",
+    "summary": [
+      "5만대 판매 넘었다, 배우 이미숙이 숙면을 위해 쓰기 시작한 것."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n954f53ed",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/15/MMZDCZBXMQ2GKYRXG4YWKYZYHA/",
+    "title": "7연속 루징→최하위 추락 '충격'...열정적인 롯데팬들도 8회 자리를 떠났다 [오!쎈 잠실]",
+    "summary": [
+      "[OSEN=잠실, 한용섭 기자] 프로야구 롯데 자이언츠가 LG 트윈스에 이틀 연속 패배했다.",
+      "롯데는 최근 7연속 루징시리즈를 당하며 최하위로 추락했다.",
+      "롯데는 14일 잠실구장에서 열린 LG와 경기에서 1-6 역전패를 당했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd201ea4c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260615/134110969/1",
+    "title": "이경규 “닭 사업 망해…남은 닭 사자·호랑이 먹이로”",
+    "summary": [
+      "코미디언 이경규가 닭 사업을 시작했다가 실패했었다고 했다.이경규는 14일 방송한 KBS 2TV 예능프로그램 ‘사장님 귀는 당나귀 귀’에서 양준혁이 운영하는 양식장에 갔다가 사업 관련 얘기를 했다.이경규는 “사업이라는 게 쉬운 일이 아니다.",
+      "특히 자연과 함께하는 사업이 정말 어렵다.",
+      "이건 하늘이 주신 거다”고 말했다.이경규는 닭을 키운 적이 있다고 했다.그는 “나는 닭을 키웠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4491e838",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668586",
+    "title": "푸틴·트럼프 1시간 전화통화…\"우크라 종전·미국-이란 합의 임박\" 논의",
+    "summary": [
+      "[모스크바·워싱턴=신화·AP/뉴시스] 이재준 기자 = 블라디미르 푸틴 러시아 대통령과 도널드 트럼프 미국 대통령이 14일(현지시간) 전화통화를 하고 우크라이나 전쟁 종식 방안과 미국·이란 종전협상 문제를 집중 논의했다.",
+      "유리 우샤코프 러시아 대통령 보좌관에 따르면 양국 정상은 약 1시간 동안 통화하면서 미국과 이란이 최종 조율 중인 양해각서(MoU) 초안과 미국 특사들의 모스크바 방문 계획, 우크라이나의 러시아 민간 시설 공격 문제 등을 협의했."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n00beb3e7",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026061505012498824",
+    "title": "김효주과 최혜진, 2타 차 준우승…'아쉽다, 역전패'",
+    "summary": [
+      "김효주와 최혜진이 아쉬운 준우승을 차지했다.",
+      "두 선수는 14일(현지시간) 미국 미시간주 미들랜드의 미들랜드 컨트리클럽(파70)에서 열린 미국여자프로골프(LPGA) 투어 다우 챔피언십(총상금 330만 달러) 4라운드에서 버디만 5개를 잡아냈다.",
+      "이날 5언더파 65타를 작성한 김효주-최혜진은 2타 차 2위(15언더파 265타)에 만족했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6698cf10",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668501",
+    "title": "인천, 아침 가시거리 200m 안개…낮 최고기온 30도 안팎",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 15일 인천은 아침 사이 짙은 안개가 끼겠다.",
+      "하늘은 서해상에서 동해상으로 이동하는 고기압의 가장자리에 들어 가끔 구름 많겠다.",
+      "수도권기상청은 \"아침 최저기온은 19도, 낮 최고기온은 30도 내외의 분포를 보이겠다\"며 \"당분간 달의 인력이 강해 바닷물의 높이가 높은 기간으로, 피해가 발생하지 않도록 대비하기 바란다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9d439efe",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260614_0003668479",
+    "title": "2주차 맞은 이화영 국민참여재판…술파티 위증 혐의 공방 치열할 듯",
+    "summary": [
+      "[수원=뉴시스] 변근아 기자 = 역대 최장 국민참여재판으로 진행되는 이화영 전 경기도 평화부지사의 재판이 2주 차에 접어들었다.",
+      "주말을 보내고 온 배심원들은 이번 주 연어술파티 관련 위증, 공소권남용 관련 검찰과 변호인의 주장을 들으며 오는 19일 최종 판단을 내리게 된다.",
+      "15일 수원지법 형사11부(부장판사 송병훈)는 이 전 부지사의 국회증언감정법 위반(위증), 정치자금법위반, 직권남용권리행사방해 등 혐의 국민참여재판 6일 차 일정을 진행한다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na5b2b3d0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615004100087",
+    "title": "트럼프 서반구 전략 통하나…페루·콜롬비아 대선서 우파 '승기'",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국 트럼프 2기 정권 들어서 진행되고 있는 '블루타이드'(우파 집권 열풍)가 라틴아메리카 지역을 강타..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n86f457f6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614044800001",
+    "title": "李대통령, 오늘 교황과 면담…한반도 평화 관심 당부할 듯",
+    "summary": [
+      "(바티칸=연합뉴스) 임형섭 고동욱 기자 = 교황청을 방문 중인 이재명 대통령은 15일(현지시간) 레오 14세 교황과 면담한다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5dc47b50",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260615/134110521/2",
+    "title": "‘트럼프 이름’ 케네디센터 외벽서 철거",
+    "summary": [
+      "12일(현지 시간) 미국 수도 워싱턴의 문화 공연장인 케네디센터 외벽에서 도널드 트럼프 미 대통령의 이름을 떼내기 위한 철거 작업이 진행 중이다.",
+      "이날 케네디센터 앞에선 반트럼프 시위대가 “당신은 JFK(존 F 케네디 전 대통령)가 아니다”라고 쓰인 팻말을 흔들며 환호했다.",
+      "앞서 트럼프 대통령은 지난해 12월 케네디센터의 명칭을 ‘트럼프-케네디센터’로 변경했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0079125e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260615/134110529/2",
+    "title": "李, 與에 “해결책 없이 편가르면 무능한 선동가”",
+    "summary": [
+      "유럽을 순방 중인 이재명 대통령은 13일(현지 시간) “현실이 없는 이상주의자는 해결책 없이 편 가르기에 집중하는 무능한 선동가가 된다”며 “여당의 열정은 ‘우리 진영’이 아니라 ‘국민 전체’를 향해야 한다”고 밝혔다.",
+      "‘검찰 보완수사권’ 폐지 등 강경 메시지를 내걸고 당권 연임 행보에 나선 더불어민주당 정청래 대표를 겨냥한 것 아니냐는 해석이 나온다.",
+      "이 대통령은 이날 X(옛 트위터)에 ‘여당과 야당, 그리고 정치적 책임’이라는 제목의 글에서."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n62dd6233",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260615/134110527/2",
+    "title": "임박한 美-이란 종전 MOU, 막판 줄다리기",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 13일(현지 시간) 트루스소셜을 통해 이란과 종전 양해각서(MOU)에 14일 서명할 거라고 밝혔다.",
+      "또 MOU 합의가 “이란 핵무기를 완전히 막는 장벽이 될 것”이라고 했다.",
+      "하지만 에스마일 바가에이 이란 외교부 대변인은 이날 취재진에게 합의가 며칠 내 체결될 수 있다면서도 “14일엔 서명하지 않을 것”이라고 선을 그었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n5adf56d1",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "방금 전",
+    "time": "57분 전",
     "url": "https://view.asiae.co.kr/article/2026061504295388699",
     "title": "차상현 감독의 여자배구, 아시아연맹컵 우승…세계랭킹 31위 점프",
     "summary": [
@@ -371,7 +627,7 @@ window.NEWS_DB = [
     "id": "n2d005728",
     "category": "경제",
     "source": "아시아경제",
-    "time": "방금 전",
+    "time": "57분 전",
     "url": "https://view.asiae.co.kr/article/2026061504291984952",
     "title": "블룸버그 \"미·이란 합의문 최소 3개\"…막판 샅바싸움",
     "summary": [
@@ -382,267 +638,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n73d8ef57",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/15/2026061503591273185",
-    "title": "'선발 전원 유럽파' 日, 네덜란드전 선발 라인업 발표... 구보·우에다·마에다 스리톱",
-    "summary": [
-      "2026 국제축구연맹(FIFA) 북중미 월드컵 첫 경기 네덜란드전을 앞둔 일본 축구대표팀 선발 명단이 공개됐다.",
-      "일본은 15일 오전 5시(한국시간) 미국 AT&T 스타디움에서 열리는 대회 조별리그 F조 1차전에서 네덜란드와 격돌한다.",
-      "6월 기준 FIFA 랭킹은 네덜란드가 8위, 일본은 18위다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd2ac526d",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/living/2026/06/15/2026061419572376023",
-    "title": "위고비에 바뀐 옷장, 오버핏 대신 슬림핏",
-    "summary": [
-      "패션몰 관련상품 매출액 증가율 두자릿수 이상 ↑ 체형관리·운동 관심 맞물려… \"당분간 계속될 듯\" '위고비' '마운자로' 등 비만치료제가 빠르게 확산하면서 패션 시장에도 변화의 바람이 분다.",
-      "한동안 유행한 오버핏 중심 스타일 대신 몸의 실루엣을 자연스럽게 강조하는 슬림핏 의류가 다시 주목받고 있다.",
-      "이너웨어 수요도 덩달아 증가하는 모습이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6a95e21b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/15/GU2DIYLFGJRDAMBUMYYWGMZQMM/",
-    "title": "전 韓감독 아드보카트의 퀴라소, 獨 노이어 뚫고 사상 첫 월드컵 골 역사 大감격! 그래도 독일은 독일, 3-1 전반 종료[북중미월드컵 E조]",
-    "summary": [
-      "[스포츠조선 전영지 기자]카리브의 작은 섬나라 퀴라소가 강호 독일을 상대로 월드컵 사상 첫 골 역사를 썼다.",
-      "퀴라소는 15일 오전 2시(한국시각) 미국 텍사스 휴스턴스타디움에서 펼쳐진 북중미월드컵 E조 1차전에서 독일을 상대로 전반을 1-3으로 뒤진 채 마쳤다.",
-      "스코어에서 밀리고 있지만, 축구공은 둥글다는 것을 증명하기엔 충분한 투지와 인상적인 경기력을 선."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n72277e45",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/15/GBSTOYRXGQ2TMNDGGQ2TONLDHE/",
-    "title": "'충격'의 꼴찌 추락 롯데, 마지막 희망은 있나...'두 동희'에 모든 걸 걸어본다",
-    "summary": [
-      "[스포츠조선 김용 기자] '두 동희'가 마지막 희망줄 될까.",
-      "롯데 자이언츠가 다시 꼴찌로 추락했다.",
-      "롯데는 14일 잠실구장에서 열린 LG 트윈스전에서 1대6으로 패했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nac099dec",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615003700007",
-    "title": "[월드컵] '전차 군단' 독일, 퀴라소 7-1로 완파…하베르츠 멀티골",
-    "summary": [
-      "(과달라하라=연합뉴스) 오명언 기자 = '세계 최강'의 자존심 회복을 노리는 독일이 무려 6명의 선수가 고르게 득점포를 가동하며 월드컵 무대를 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n543be7f8",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668574",
-    "title": "'전차 군단' 독일, '전 한국 감독' 아드보카트의 퀴라소 7-1 완파",
-    "summary": [
-      "[과달라하라(멕시코)=뉴시스] 하근수 기자 = '전차 군단' 독일 축구대표팀이 딕 아드보카트 전 한국 축구대표팀 감독이 지휘하는 퀴라소를 꺾고 2026 북중미 월드컵 첫 승을 챙겼다.",
-      "독일은 15일(한국 시간) 미국 휴스턴 스타디움에서 열린 퀴라소와의 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 E조 1차전에서 7-1로 완승했다.",
-      "이날 오전 5시 필라델피아 스타디움에선 같은 그룹의 코트디부아르와 에콰도르가 격돌한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf0e9ffe0",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/15/I75NG6Y4INCOPDDAXAM3WELU6Y/",
-    "title": "이번 주 연준 금리 회의, 월가 눈은 이 문구에 쏠린다",
-    "summary": [
-      "이번 주 연준 금리 회의, 월가 눈은 이 문구에 쏠린다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n3e4c9b73",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/stock/2026/06/15/2026061419384548074",
-    "title": "동남아 공략에도… 남양유업 주가 주르륵",
-    "summary": [
-      "내수 매출 비중 90% 상회, 시장서 수출효과 '회의적' 반응 최대주주는 변동성 등 우려, 지분 매도로 유통주식수 관리 남양유업이 이재명 대통령의 베트남 순방에 경제사절단으로 참여하며 동남아시아 판로개척을 예고한 이후 주가가 16% 내린 것으로 나타났다.",
-      "남양유업이 부각한 한국-베트남 경제협력 가능성에 시장이 회의적 시각을 보낸 셈이다.",
-      "남양유업이 올해 200억원 규모를 목표로 자사주 매입을 추진 중인 가운데 최대주주인 PEF(사모펀드) 한앤컴."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf93d53f1",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/tech/2026/06/15/2026061418052235280",
-    "title": "무료는 480p, 유료는 1080p…월드컵 482만명 품은 치지직의 '두 얼굴'",
-    "summary": [
-      "네이버(NAVER) 치지직이 월드컵 한국 대표팀 첫 경기에서 482만명이 동시에 접속하는 흥행 기록을 세웠다.",
-      "종전 최고 기록의 6배가 넘는 이용자를 끌어모으며 대중 스포츠 플랫폼으로 도약할 가능성을 보여줬다.",
-      "반면 무료 중계 화질과 광고 운영을 둘러싼 불만도 함께 터져 나왔다."
-    ],
-    "chips": [
-      "#네이버"
-    ]
-  },
-  {
-    "id": "nfc4d0ced",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668546",
-    "title": "대구·경북 낮 최고 24~32도…경북내륙 오후 한때 소나기",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 월요일인 15일 대구와 경상북도는 가끔 구름 많고 소나기가 내리는 곳이 있을 것으로 예상된다.",
-      "대구지방기상청은 이날 \"오후 한때 경북남서내륙 일부 지역에 5~20㎜의 소나기가 오는 곳이 있겠다\"고 예보했다.",
-      "아침 최저기온은 13~17도(평년 13~19도), 낮 최고기온은 24~32도(평년 23~29도)로 예측된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b357dc6",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615003600007",
-    "title": "[월드컵 전적] 독일 7-1 퀴라소",
-    "summary": [
-      "[월드컵 전적] 독일 7-1 퀴라소."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4fd6d7af",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668583",
-    "title": "[속보] 이란, 서부 공역 항공기 운항 중단…\"보복 공격 관련\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 yjjs@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44f28590",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615003400098",
-    "title": "불타는 테슬라, 매캐한 최루가스…G7 정상회의 앞 격렬 시위",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 프랑스 남서부 휴양지 에비앙레뱅에서 열리는 주요 7개국(G7) 정상회의 개막을 하루 앞둔 14일(현지시간)..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncf6eaf05",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668582",
-    "title": "이란 최고안보회의 \"이스라엘 베이루트 공습에 대응 임박\" 경고",
-    "summary": [
-      "[테헤란=신화/뉴시스] 이재준 기자 = 이란 최고국가안보회의(SNSC)는 14일(현지시간) 이스라엘의 레바논 수도 베이루트 공습에 대해 조만간 대응 조치에 나서겠다고 경고했다.",
-      "이란 국영 IRIB 방송은 이날 엑스(X·옛 트위터)를 통해 모하마드 바게르 졸가드르 최고국가안보회의 사무총장이 이같이 밝혔다고 보도했다.",
-      "졸가드르 사무총장은 \"레바논은 우리의 생명선\"이라며 \"이란의 레드라인(금지선)을 침범하는 어떠한 행위도 용납하지 않겠다\"고 언명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36d349da",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615003100075",
-    "title": "스페이스X 상장 수혜자는?…83세 펀드매니저부터 27세 직원까지",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 항공우주 기업 스페이스X가 기업공개(IPO)를 성공적으로 마치면서 '조만장자'가 된 일론 머스크 최고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7e9b4ba",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260615/134110935/1",
-    "title": "“수면 시간 8시간 넘으면 오히려 노화 빨라질 수 있어” 美연구…최적 시간은?",
-    "summary": [
-      "잠이 부족하면 건강에 해롭다는 것은 잘 알려진 사실이지만, 너무 많이 자는 것 또한 신체 노화를 가속할 수 있다는 연구 결과가 나왔다.최근 미국 컬럼비아대학교 어빙 메디컬센터에 소개된 바젤로스 의과대학 연구팀의 ‘너무 적은 수면, 그리고 너무 많은 수면은 빠른 노화와 연관’ 연구 결과에 따르면, 수면 시간과 생물학적 노화 사이에 밀접한 연관성이 확인됐다.",
-      "영국 바이오뱅크 참가자 50만명의 데이터를 연구팀이 분석한 결과 , 하루 6.4~7.8시간."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n4f0c255a",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260615/134110929/1",
-    "title": "브라질 헬기 2대 공중 충돌 후 추락…탑승 6명 전원 사망",
-    "summary": [
-      "브라질 리우데자네이루에서 14일(현지시간) 헬리콥터 2대가 공중에서 충돌한 뒤 추락해 탑승자 6명이 모두 숨졌다.",
-      "리우데자네이루 소방당국에 따르면 두 대의 헬기가 이날 오전 9시 직전 시내 서부 레크레이우 두스 반데이란치스 구역에서 공중 충돌하고서 지상으로 떨어졌다.",
-      "소방당국은 사망자 6명 전원이 헬기 승무원이라고 밝혔다.사고 헬기 1대는 전기차 판매 대리점으로 추락하면서 화재를 일으켰다."
-    ],
-    "chips": [
-      "#전기차"
-    ]
   }
 ];
 
@@ -651,8 +646,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
@@ -662,9 +657,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "정치",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
