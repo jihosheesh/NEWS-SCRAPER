@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-14 20:27:09
+// 마지막 업데이트: 2026-06-14 21:26:47
 window.NEWS_DB = [
   {
     "id": "na2cf4007",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZm5YSUdYb0lmcUkwdlhrSV80aUZsWVZJTDlwbHlqZUdUWlQ1TjY4eU5YSUpvSThCTzRmWEVXSkNiRGdqZTJ5XzJjQ1lnVERlaWFiMHZ3TWx0cTlGZk5JQzZVb0NuZVNFLWxWclFPRDZhWmc?oc=5",
     "title": "엔비디아 대항 독자 AI칩 시장 급성장 전망, 삼성전자·SK하이닉스 HBM 수요 더 늘어난다",
     "summary": [
@@ -50,30 +50,29 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc8a0aac2",
+    "id": "n2af5a245",
     "category": "IT",
-    "source": "지디넷코리아",
+    "source": "디일렉",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZl9QZnMwbTZlZEloNUVKX0FCRGNUcV82U29Kd29UdDZrNGJ2NEpmMFZSNlRGSlpNZkJVZ2hMNHI1T1A0THlEZERsNkI5SmJCVjQybHln?oc=5",
-    "title": "최태원 \"일본에 AI 팩토리 구축 계획... 반도체, 생태계 모두 갖춰\"",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQTlGZl9DeDFvZWczWnRQa1d6NjdWbUVUc0wzR2k2MWg4Z0oxRzN0MG01bkRWQ0FJV2RuQ1dxRXZ2cG9taEszSy14V2dxVTliR21INEp4M1ZLYlV0ZkktQ3hDVDkxdw?oc=5",
+    "title": "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정",
     "summary": [
-      "최태원 \"일본에 AI 팩토리 구축 계획...",
-      "반도체, 생태계 모두 갖춰\" 지디넷코리아."
+      "한울반도체 관계사 엑사리온, 엔비디아 커넥트 회원사 선정 디일렉."
     ],
     "chips": [
-      "#AI",
-      "#반도체"
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
-    "id": "n27c4fee3",
+    "id": "n210bd08e",
     "category": "IT",
-    "source": "한국경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRnZ4QkptSWR2eGZROE9Zb053aWF6ZzF2NW1fYXBDWTBVVXdWekRFSVM1bUpDcFdPSXJSYVBveFNfbmVVbVlWUnVsZU5CZEhmT2dKbFFGN21OZ9IBVEFVX3lxTE9rWlQyUjBLTy1tU283VkpaMXFoZ3o3VmV4a3BFVGhzZzQ5c3ExY0daUU4zYVM0cGFxYlN5UE5QR0VrT3huclktd2xuSG5UYmItQUpXbQ?oc=5",
-    "title": "최태원 \"日에 AI 데이터센터 구축…엔비디아와 협력, 반도체 공장도 검토\"",
+    "source": "뉴스1",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCT2N4Mm5vb2xJbGNoQVpOQUFJbC1xNTJxMlBvOWk2bkRuWHRubVg0WHRQejJGYVJRcmZhZFJxUWJPcDZjWDBHcUlaVVJ1NU5xc2lrbWZUMDBTdEh0WGxhdUVTMlpvYjg?oc=5",
+    "title": "미국 AI 반도체 또 흔들…엔비디아·AMD·브로드컴 일제히 하락",
     "summary": [
-      "최태원 \"日에 AI 데이터센터 구축…엔비디아와 협력, 반도체 공장도 검토\" 한국경제."
+      "미국 AI 반도체 또 흔들…엔비디아·AMD·브로드컴 일제히 하락 뉴스1."
     ],
     "chips": [
       "#AI",
@@ -143,6 +142,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13b4af19",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "6일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
     "id": "n9dd88f4d",
     "category": "IT",
     "source": "시사저널e",
@@ -158,6 +174,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n70cb7884",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
+    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
+    "summary": [
+      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "na51ce02d",
     "category": "IT",
     "source": "녹색경제신문",
@@ -170,20 +201,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n22f32cb1",
-    "category": "부동산",
-    "source": "데일리안",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
-    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
-    "summary": [
-      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -212,37 +229,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#전세"
-    ]
-  },
-  {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n02951820",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
-    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
-    "summary": [
-      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -286,6 +272,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "115일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -351,289 +352,283 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf3f1c4fd",
-    "category": "사회",
+    "id": "nca1c847f",
+    "category": "경제",
     "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061505235502936",
-    "title": "美 국방장관 \"이란 합의 준수치 않으면 다시 전쟁 치를 것\" 경고",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026061506250042918",
+    "title": "[속보]파키스탄 \"미-이란 협상 타결…19일 스위스서 서명\"",
     "summary": [
-      "피트 헤그세스 미국 국방부 장관은 이란이 미국과 체결을 앞두고 있는 종전합의 양해각서(MOU) 내용을 준수하지 않으면 다시 미국과 전쟁을 치르게 될 것이라고 경고했다.",
-      "헤그세스 장관은 14일(현지시간) CBS 방송에 출연해 이란과의 MOU에 대해 \"이란이 이를 준수하기를 원하지 않으면, 그들은 다시 미국 국방부를 상대해야 할 것\"이라며 \"우리는 그렇게 하고 싶지 않고, 트럼프 대통령도 그렇게 하고 싶어 하지 않는다\"고 밝혔."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd92fb9fb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615004500034",
-    "title": "전국 가끔 구름 많고 강원·남부내륙 소나기…낮 최고 32도",
-    "summary": [
-      "(서울=연합뉴스) 윤민혁 기자 = 월요일인 15일은 전국이 구름 많은 가운데 소나기가 내리는 곳이 있겠다."
+      "[속보]파키스탄 \"미-이란 협상 타결…19일 스위스서 서명\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n394927b4",
+    "id": "nf470d31d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260615/134110994/1",
+    "title": "트럼프, 이스라엘의 레바논 공습에 “빌어먹을 공격으로 서명 지연”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 14일(현지 시간) 이스라엘의 레바논 공습을 강하게 비판했다.",
+      "그가 이란과의 종전 합의에 공을 들이고 있는 가운데, 이스라엘과 이란 간 잇따른 충돌이 협상의 변수로 작용하고 있는 것에 대해 노골적으로 불만을 터뜨린 것이다.",
+      "트럼프 대통령은 이날 트루스소셜을 통해 “오늘 아침 (이스라엘의) 베이루트 공격은 결코 일어나서는 안 될 일이었다”며 “특히 우리가 이란과 평화 협정 체결에 매우 근접한 특별한 날에 일어난 일이기."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0dabe59a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668597",
+    "title": "경부고속도로 달리던 화물차에서 양파 쏟아져…차량 정체",
+    "summary": [
+      "[김천=뉴시스] 박홍식 기자 = 14일 오후 6시 18분께 경북 김천시 농소면 경부고속도로(서울 방향) 김천휴게소 인근에서 주행 중이던 1t 화물차가 전도되면서 짐칸에서 양파더미가 쏟아졌다.",
+      "이 사고로 양파가 고속도로에 쏟아지면서 편도 3차로 가운데 2차로가 통제되면서 1시간여 정체 현상을 빚었다.",
+      "경찰은 화물차 운전자 등을 상대로 정확한 사고 경위를 조사하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8ef58919",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615007100009",
+    "title": "[속보] 파키스탄 \"미-이란 평화협상 타결…19일 스위스서 서명\"<로이터>",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n275cba9a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/15/MFTDKZRQMYYDOOBXMQZTEMRVMU/",
+    "title": "트럼프, 이스라엘의 레바논 공습에 “일어나지 말았어야 할 공격에 서명 지연”",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 14일(현지 시각) 이스라엘이 레바논 수도 베이루트 남쪽 외곽을 공습한 것을 강하게 비판했다.",
+      "트럼프 대통령은 소셜미디어(SNS) 트루스소셜에서 “오늘 아침 베이루트에 대한 (이스라엘의) 공격은 일어나지 말았어야 했다”며 “우리가 이란과의 평화 합의에 매우 가까워진 특별한 날에는 더욱 그렇다”고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n84d50d31",
     "category": "사회",
     "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615004600079",
-    "title": "이란 외무부 \"베이루트 공습은 휴전 위반…자위권 행사할 것\"",
+    "url": "https://www.yna.co.kr/view/AKR20260615006700053",
+    "title": "대구·경북 가끔 구름 많아…낮 최고기온 24∼32도",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이란 외무부는 14일(현지시간) 이스라엘의 레바논 베이루트 공습을 강하게 규탄하며, 이번 공격이 미국과 이..."
+      "(대구=연합뉴스) 손대성 기자 = 월요일인 15일 대구·경북은 가끔 구름 많은 가운데 낮 기온이 올라 더울 것으로 보인다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2e80550e",
+    "id": "nf4eb54db",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612161300017",
+    "title": "네이버플러스 스토어, 875만명 돌파…11번가 제치고 2위",
+    "summary": [
+      "(서울=연합뉴스) 오지은 기자 = 네이버의 AI 쇼핑앱 네이버플러스 스토어(네플스)가 지난달 월간 활성 이용자(MAU) 875만명을 기록했다."
+    ],
+    "chips": [
+      "#AI",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n765302bb",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://view.asiae.co.kr/article/2026061506163238908",
+    "title": "스위스 인구상한제 국민투표 부결…55%가 반대",
+    "summary": [
+      "스위스에서 국민투표로 부쳐졌던 인구상한제가 결국 부결됐다.",
+      "우파 정당을 중심으로 이민자 수를 제한해야한다며 추진된 법안이었지만 산업계의 반대와 유럽연합(EU)과의 협정 폐기 우려 등이 겹치면서 국민 과반 이상이 반대한 것으로 알려졌다.",
+      "블룸버그통신에 따르면 14일(현지시간) 스위스에서 2050년까지 국가 전체 인구를 1000만명으로 제한하하는 인구상한제 국민투표가 실시된 결과 찬성 45%, 반대 55%로 부결됐다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n106148a7",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614030500057",
+    "title": "울산시, AI·디지털 교육 확대…거점센터 3곳으로 증설",
+    "summary": [
+      "(울산=연합뉴스) 허광무 기자 = 울산시가 시민 누구나 인공지능(AI)과 디지털 기술을 배우고 활용하도록 교육 프로그램을 마련해 운영한다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n5d552c14",
     "category": "사회",
     "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/06/15/L33TGNP3JFEVTEFCG4K2YCVMCE/",
-    "title": "10만개 판매 넘었다, 비립종까지 모든 피부 노화 고민 관리 크림 1만원 내외 단독 특가",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/15/G42TSY3DGA4DKYRTGNTDOYRSGE/",
+    "title": "‘절친’ 엄정화, 이소라·홍진경 재회 감격..“우리가 한 화면에 있다니” (‘소라와 진경’)[순간포착]",
     "summary": [
-      "10만개 판매 넘었다, 비립종까지 모든 피부 노화 고민 관리 크림 1만원 내외 단독 특가."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘소라와 진경’ 엄정화가 이소라와 홍진경 재회에 감격했다.14일 방송된 MBC ‘소라와 진경’ 최종회에서는 이소라와 홍진경의 마지막을 함께 하기 위해 엄정화가 스튜디오를 찾았다.이날 엄정화는 “오늘 ‘소라와 진경’ 나온다니까 너무 막 신경쓰였다.",
+      "1호팬이다”라고 말문을 열었다.이어 ”볼 때마다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne55ea034",
-    "category": "스포츠",
+    "id": "n3eedbf76",
+    "category": "IT",
     "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668578",
-    "title": "이란 축구 팬, 혁명 이전 국기 응원 놓고 잡음…FIFA 소송까지",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668562",
+    "title": "울산시, 인공지능·디지털배움터 운영…참여자 모집",
     "summary": [
-      "[과달라하라(멕시코)=뉴시스] 하근수 기자 = 2026 북중미 월드컵을 앞둔 이란 축구 팬들이 혁명 이전 국기를 응원에 활용하려는 방안을 모색하고 있다.",
-      "미국 매체 디애슬레틱은 14일(한국 시간) \"이란 축구 팬들이 국제축구연맹(FIFA)에서 반입을 금지한 이란 혁명 이전 국기를 미국 캘리포니아주 샌프란시스코 베이 에이리어 스타디움에 들여오는 데 성공했다\"며 \"카타르와 스위스 경기 전반전 동안 관중석에서 해당 국기가 포착됐다\"고 조명했다."
+      "[울산=뉴시스] 안정섭 기자 = 울산시가 시민 누구나 인공지능(AI) 및 디지털 기술을 배우고 적극 활용할 수 있도록 맞춤형 교육 프로그램을 마련해 본격 운영에 들어간다.",
+      "울산시는 '2026년 AI·디지털배움터' 교육 참여자를 모집한다고 15일 밝혔다.",
+      "이번 교육은 시민들의 AI·디지털 기술에 대한 접근성을 높이고 활용 역량을 강화하기 위해 마련됐다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#채용",
+      "#교육"
     ]
   },
   {
-    "id": "n1b211746",
+    "id": "n3d26ae64",
     "category": "사회",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/04/20/BZVKOK24UJDN5IUVQG2S2MPOEM/",
-    "title": "5만대 판매 넘었다, 배우 이미숙이 숙면을 위해 쓰기 시작한 것",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026061422550804892",
+    "title": "현장 달려간 '살림전문' 강북구청장 당선인",
     "summary": [
-      "5만대 판매 넘었다, 배우 이미숙이 숙면을 위해 쓰기 시작한 것."
+      "지난 12일 오후, 서울 강북구 강북종합체육센터 수영장.",
+      "물이 빠진 지하 수영장을 정창수 강북구청장 당선인이 찾았다.",
+      "천장 한쪽에는 마감재와 단열재를 뜯어낸 자리가 그대로 남아 있었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n954f53ed",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/15/MMZDCZBXMQ2GKYRXG4YWKYZYHA/",
-    "title": "7연속 루징→최하위 추락 '충격'...열정적인 롯데팬들도 8회 자리를 떠났다 [오!쎈 잠실]",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 롯데 자이언츠가 LG 트윈스에 이틀 연속 패배했다.",
-      "롯데는 최근 7연속 루징시리즈를 당하며 최하위로 추락했다.",
-      "롯데는 14일 잠실구장에서 열린 LG와 경기에서 1-6 역전패를 당했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd201ea4c",
+    "id": "nfa794628",
     "category": "사회",
     "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260615/134110969/1",
-    "title": "이경규 “닭 사업 망해…남은 닭 사자·호랑이 먹이로”",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260615/134111018/1",
+    "title": "대법 “타사 보험설계사에 모집 수수료 지급…보험업법 위반”",
     "summary": [
-      "코미디언 이경규가 닭 사업을 시작했다가 실패했었다고 했다.이경규는 14일 방송한 KBS 2TV 예능프로그램 ‘사장님 귀는 당나귀 귀’에서 양준혁이 운영하는 양식장에 갔다가 사업 관련 얘기를 했다.이경규는 “사업이라는 게 쉬운 일이 아니다.",
-      "특히 자연과 함께하는 사업이 정말 어렵다.",
-      "이건 하늘이 주신 거다”고 말했다.이경규는 닭을 키운 적이 있다고 했다.그는 “나는 닭을 키웠다."
+      "다른 회사에 소속된 보험설계사에게 보험 모집의 대가로 지급한 수수료는 보험업법을 위반한 것으로 법인세로 비용 처리할 수 없다는 대법원 판단이 나왔다.15일 법조계에 따르면 대법원 3부(주심 오경미 대법관)는 보험대리점 GA코리아가 국가를 상대로 낸 법인세 부과 등 취소 소송에서 상고를 기각하고 원고 패소 판결을 확정했다.세무당국은 GA코리아가 다른 보험회사나 대리점에 소속된 보험설계사들이 소개한 고객들에게 보험을 판매하고, 그 대가로 자사 보험."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "neb8bba3f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260615/134111015/1",
+    "title": "푸틴·트럼프 1시간 전화통화…“우크라 종전·미국-이란 합의 임박” 논의",
+    "summary": [
+      "블라디미르 푸틴 러시아 대통령과 도널드 트럼프 미국 대통령이 14일(현지시간) 전화통화를 하고 우크라이나 전쟁 종식 방안과 미국·이란 종전협상 문제를 집중 논의했다.유리 우샤코프 러시아 대통령 보좌관에 따르면 양국 정상은 약 1시간 동안 통화하면서 미국과 이란이 최종 조율 중인 양해각서(MoU) 초안과 미국 특사들의 모스크바 방문 계획, 우크라이나의 러시아 민간 시설 공격 문제 등을 협의했다.우크라이나 문제와 관련해 트럼프 대통령은 전쟁 종식."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc4a3ceb4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260615/134111008/1",
+    "title": "李대통령, 오늘 레오 14세 교황과 단독 면담…‘방북 요청’ 주목",
+    "summary": [
+      "바티칸을 공식 방문 중인 이재명 대통령은 15일(현지시간) 레오 14세 교황과 단독 면담에 이어 피에트로 파롤린 교황청 국무원장과도 마주앉는다.이 대통령은 전 세계 기독교인과 평화의 상징인 레오 14세 교황과 이날 오전 바티칸 교황궁에서 단독 면담을 갖는다.",
+      "2021년 10월 문재인 전 대통령이 선종한 프란치스코 전 교황과 면담한 지 약 5년 만이다.전두환 전 대통령 이후 우리나라 역대 대통령은 통상 교황청 방문 또는 교황의 방한 계기로 임기중."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7b2a43c1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668571",
+    "title": "울산, 구름 많다가 오후부터 맑음…최고기온 28도",
+    "summary": [
+      "[울산=뉴시스] 박수지 기자 = 15일 울산지역은 구름 많다가 오후부터 맑아질 전망이다.",
+      "울산기상대에 따르면 이날 아침 최저기온은 18도, 낮 최고기온은 28도로 예보됐다.",
+      "미세먼지 농도는 '좋음' 수준으로 예측된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4491e838",
+    "id": "n36afacca",
     "category": "사회",
     "source": "뉴시스",
     "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668586",
-    "title": "푸틴·트럼프 1시간 전화통화…\"우크라 종전·미국-이란 합의 임박\" 논의",
+    "url": "https://www.newsis.com/view/NISX20260615_0003668572",
+    "title": "[오늘의 주요일정]울산(6월15일 월요일)",
     "summary": [
-      "[모스크바·워싱턴=신화·AP/뉴시스] 이재준 기자 = 블라디미르 푸틴 러시아 대통령과 도널드 트럼프 미국 대통령이 14일(현지시간) 전화통화를 하고 우크라이나 전쟁 종식 방안과 미국·이란 종전협상 문제를 집중 논의했다.",
-      "유리 우샤코프 러시아 대통령 보좌관에 따르면 양국 정상은 약 1시간 동안 통화하면서 미국과 이란이 최종 조율 중인 양해각서(MoU) 초안과 미국 특사들의 모스크바 방문 계획, 우크라이나의 러시아 민간 시설 공격 문제 등을 협의했."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n00beb3e7",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026061505012498824",
-    "title": "김효주과 최혜진, 2타 차 준우승…'아쉽다, 역전패'",
-    "summary": [
-      "김효주와 최혜진이 아쉬운 준우승을 차지했다.",
-      "두 선수는 14일(현지시간) 미국 미시간주 미들랜드의 미들랜드 컨트리클럽(파70)에서 열린 미국여자프로골프(LPGA) 투어 다우 챔피언십(총상금 330만 달러) 4라운드에서 버디만 5개를 잡아냈다.",
-      "이날 5언더파 65타를 작성한 김효주-최혜진은 2타 차 2위(15언더파 265타)에 만족했다."
+      "[울산=뉴시스] ▲오전 10시, 제264회 임시회 2차 본회의, 본회의장 ▲오후 3시, 2026 희망여름 착착착 나눔캠페인 출범식, 2층 대회의실 ▲오후 6시50분, 2026년 울산뮤직페스티벌, 남구 둔치."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6698cf10",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668501",
-    "title": "인천, 아침 가시거리 200m 안개…낮 최고기온 30도 안팎",
+    "id": "n66293f93",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260614047300003",
+    "title": "서울 중하위 신축 국민평형 분양·입주권 18억 '앞으로'",
     "summary": [
-      "[인천=뉴시스] 전예준 기자 = 15일 인천은 아침 사이 짙은 안개가 끼겠다.",
-      "하늘은 서해상에서 동해상으로 이동하는 고기압의 가장자리에 들어 가끔 구름 많겠다.",
-      "수도권기상청은 \"아침 최저기온은 19도, 낮 최고기온은 30도 내외의 분포를 보이겠다\"며 \"당분간 달의 인력이 강해 바닷물의 높이가 높은 기간으로, 피해가 발생하지 않도록 대비하기 바란다\"고 예보했다."
+      "(서울=연합뉴스) 임기창 기자 = 서울 중하위권 신축 아파트 국민평형(전용면적 84㎡) 분양권·입주권 가격이 18억원 선을 향해 '키 맞추기' ..."
     ],
     "chips": [
-      "#뉴스"
+      "#부동산"
     ]
   },
   {
-    "id": "n9d439efe",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260614_0003668479",
-    "title": "2주차 맞은 이화영 국민참여재판…술파티 위증 혐의 공방 치열할 듯",
-    "summary": [
-      "[수원=뉴시스] 변근아 기자 = 역대 최장 국민참여재판으로 진행되는 이화영 전 경기도 평화부지사의 재판이 2주 차에 접어들었다.",
-      "주말을 보내고 온 배심원들은 이번 주 연어술파티 관련 위증, 공소권남용 관련 검찰과 변호인의 주장을 들으며 오는 19일 최종 판단을 내리게 된다.",
-      "15일 수원지법 형사11부(부장판사 송병훈)는 이 전 부지사의 국회증언감정법 위반(위증), 정치자금법위반, 직권남용권리행사방해 등 혐의 국민참여재판 6일 차 일정을 진행한다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na5b2b3d0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615004100087",
-    "title": "트럼프 서반구 전략 통하나…페루·콜롬비아 대선서 우파 '승기'",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국 트럼프 2기 정권 들어서 진행되고 있는 '블루타이드'(우파 집권 열풍)가 라틴아메리카 지역을 강타..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n86f457f6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614044800001",
-    "title": "李대통령, 오늘 교황과 면담…한반도 평화 관심 당부할 듯",
-    "summary": [
-      "(바티칸=연합뉴스) 임형섭 고동욱 기자 = 교황청을 방문 중인 이재명 대통령은 15일(현지시간) 레오 14세 교황과 면담한다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5dc47b50",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "57분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260615/134110521/2",
-    "title": "‘트럼프 이름’ 케네디센터 외벽서 철거",
-    "summary": [
-      "12일(현지 시간) 미국 수도 워싱턴의 문화 공연장인 케네디센터 외벽에서 도널드 트럼프 미 대통령의 이름을 떼내기 위한 철거 작업이 진행 중이다.",
-      "이날 케네디센터 앞에선 반트럼프 시위대가 “당신은 JFK(존 F 케네디 전 대통령)가 아니다”라고 쓰인 팻말을 흔들며 환호했다.",
-      "앞서 트럼프 대통령은 지난해 12월 케네디센터의 명칭을 ‘트럼프-케네디센터’로 변경했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0079125e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "57분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260615/134110529/2",
-    "title": "李, 與에 “해결책 없이 편가르면 무능한 선동가”",
-    "summary": [
-      "유럽을 순방 중인 이재명 대통령은 13일(현지 시간) “현실이 없는 이상주의자는 해결책 없이 편 가르기에 집중하는 무능한 선동가가 된다”며 “여당의 열정은 ‘우리 진영’이 아니라 ‘국민 전체’를 향해야 한다”고 밝혔다.",
-      "‘검찰 보완수사권’ 폐지 등 강경 메시지를 내걸고 당권 연임 행보에 나선 더불어민주당 정청래 대표를 겨냥한 것 아니냐는 해석이 나온다.",
-      "이 대통령은 이날 X(옛 트위터)에 ‘여당과 야당, 그리고 정치적 책임’이라는 제목의 글에서."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n62dd6233",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "57분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260615/134110527/2",
-    "title": "임박한 美-이란 종전 MOU, 막판 줄다리기",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 13일(현지 시간) 트루스소셜을 통해 이란과 종전 양해각서(MOU)에 14일 서명할 거라고 밝혔다.",
-      "또 MOU 합의가 “이란 핵무기를 완전히 막는 장벽이 될 것”이라고 했다.",
-      "하지만 에스마일 바가에이 이란 외교부 대변인은 이날 취재진에게 합의가 며칠 내 체결될 수 있다면서도 “14일엔 서명하지 않을 것”이라고 선을 그었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5adf56d1",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "57분 전",
-    "url": "https://view.asiae.co.kr/article/2026061504295388699",
-    "title": "차상현 감독의 여자배구, 아시아연맹컵 우승…세계랭킹 31위 점프",
-    "summary": [
-      "한국 여자배구가 아시아배구연맹(AVC)컵 대회에서 우승했다.",
-      "차상현 감독이 이끄는 여자배구 대표팀은 14일 필리핀 캔돈 시티 아레나에서 열린 결승에서 대만을 3-0(25-19 25-19 25-22)으로 제압했다.",
-      "한국은 조별리그 5경기와 준결승, 결승을 합쳐 7전 전승으로 정상에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2d005728",
+    "id": "n88a6a109",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "57분 전",
-    "url": "https://view.asiae.co.kr/article/2026061504291984952",
-    "title": "블룸버그 \"미·이란 합의문 최소 3개\"…막판 샅바싸움",
+    "source": "연합뉴스(경제)",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612133600063",
+    "title": "[인터뷰] 조상호 \"개발공사 신설해 세종시 개발 제2시행자 역할 구상\"",
     "summary": [
-      "미국과 이란의 종전 양해각서(MOU) 체결이 임박했다는 관측이 나오는 가운데 협상 테이블에는 복수의 합의문 초안이 오가고 있는 것으로 전해졌다.",
-      "막판 조율 단계에 있지만, 핵심 조항에서는 여전히 상당한 이견이 남아 있다는 의미다.",
-      "14일(현지시간) 블룸버그통신에 따르면 미국과 이란 사이에서 최소 3개의 서로 다른 합의문 초안이 논의되고 있다고 보도했다."
+      "(세종=연합뉴스) 양영석 기자 = 조상호 세종시장 당선인은 취임 후 세종도시교통공사의 기능을 도시·교통으로 각각 분리하겠다는 뜻을 15일 밝혔다..."
     ],
     "chips": [
       "#뉴스"
@@ -646,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
