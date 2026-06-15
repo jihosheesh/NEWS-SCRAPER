@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-15 17:40:39
+// 마지막 업데이트: 2026-06-15 19:16:09
 window.NEWS_DB = [
   {
     "id": "nbf0ea0ae",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UR1EtU3RET2lPY1FaVmtPeENHV3lpSVl0RUVMX3daNlBBT2NLQS1MSDVycERRNm0ySF9xLVJoWDd1MG0wRW56OGdJNms1NktNR28xTHlMZkRIU0XSAWBBVV95cUxOUHJDNFlEaEhWbXY5ZV9zRXQ0OFFyMml5VXkzMXpVeVJtUnU2VWFTMnFEdU5QT2ltZWF6aVhFOW9KNzItV2NKV3VGVEVLYWk0OG5WQ3hkU2JfMVMzWTZsSTU?oc=5",
     "title": "엔비디아, 5년 만에 회사채 발행 검토…최소 30조원 규모",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n00266a2f",
     "category": "IT",
     "source": "뉴데일리",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QcFc3eWdJcm5FRS1PMTJrRzVucDdqNElQSkZhYVpUejdhYVROYVltTzhocjlYeFF2R0h5cnJGSVNJX3hqQmNuMmNtU0pOOFVrYkRBMldKN3VianpCdm9JSVVkaFVueU1Pc210QW4yUldQZGV3WHUxTl96VQ?oc=5",
     "title": "삼성전자 글로벌 전략 다시 짠다 … AX·HBM·파운드리 로드맵 점검",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "ned793644",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJVjk5cTljaW9ZellqRk5hTnVFNktiTHpFcC1MeHhEcHlheEdkX2FsNXV4XzNkd2F1bURTWms3NWkzUEVXYlE?oc=5",
     "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "na76568e4",
     "category": "경제",
     "source": "더파워",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmRlcU9jdWZ2ZkF0amVteHR1LUpMbjEtODc3OU5RLWNKWV9VUW00VUp0blUxeFhxeC1sTWNuZGM1cDVWbGUyaHhSd21POFhsUXlKVU5XdUxqQ2MzSXhvN0VuOXhnb181QmxOSFZCeG1WZC1xUFlIUjRDU1ZqQQ?oc=5",
     "title": "코스피 급등에도 외국인 주식자금 이탈…5월 318억달러 순유출",
     "summary": [
@@ -62,7 +62,7 @@ window.NEWS_DB = [
     "id": "n606b0fb8",
     "category": "IT",
     "source": "중기이코노미",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVTk1Z05BbUxORTg5SVdlZV9NR0VvVXBWZTBEYmdVZjQ0a1R1WXU1WHdqU2tWa19uM1dXb1kxX0VkYVkxSEpNMERKVlExY1I2YnZoQ3RrVFprendZVmgwV1JZdzZQRENOcWc?oc=5",
     "title": "삼성전자, '우리가 1등이 아닌 세상'으로 가고 있는가",
     "summary": [
@@ -76,7 +76,7 @@ window.NEWS_DB = [
     "id": "n09c3f669",
     "category": "사회",
     "source": "케이에스피뉴스",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1naDducjJDUTZZYUE3UnM1Nk1xVnVKUlphVnV1ZzY2YU84VGhva29Bc0hXQ2xQVjJQNlFmOE1CUmx6Qmhm?oc=5",
     "title": "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최",
     "summary": [
@@ -314,10 +314,113 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndcf53eb0",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003670183",
+    "title": "'무적함대' 스페인, '첫 본선' 카보베르데와 0-0 무승부 굴욕[월드컵24시]",
+    "summary": [
+      "[과달라하라(멕시코)=뉴시스] 하근수 기자 = 2026 북중미 월드컵에서 우승 후보 1순위로 지목되는 '무적함대' 스페인이 사상 처음 월드컵 본선을 밟은 카보베르데와 졸전 끝에 비겼다.",
+      "스페인은 16일(한국 시간) 미국 애틀랜타 스타디움에서 열린 카보베르데와의 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 H조 1차전에서 0-0 무승부를 거뒀다.",
+      "루이스 데 라 푸엔테 감독이 이끄는 스페인은 2010년 남아공 대회에서 거둔 첫 우승 이후."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne17f5199",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616005200007",
+    "title": "[월드컵] '골리앗' 스페인 막은 '다윗' 카보베르데…처음이라 얕보지 마라",
+    "summary": [
+      "(과달라하라=연합뉴스) 오명언 기자 = 인구 52만 명의 작은 섬나라 카보베르데가 '무적함대' 스페인을 멈춰 세웠다.",
+      "2026 북중미 월드컵 최..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a11a4c3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003669971",
+    "title": "흐린 대구·경북, '한낮 푹푹' 31도 무더위…미세먼지 좋음",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 16일 대구·경복은 대체로 흐리고 더울 것으로 보인다.",
+      "대구기상청은 이날 \"당분간 대구·경북 대부분 지역에서 낮 기온이 30도 이상으로 올라 덥겠다\"고 예보했다.",
+      "아침 최저기온은 14~18도(평년 13~19도), 낮 최고기온은 24~31도(평년 23~29도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9c68dcf8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/16/GBQWCOBXG5RGMOJUHBQTIMLFMI/",
+    "title": "몽골에 울려 퍼진 야구 열기…일구회, 청소년 야구대회 개최·유소년 야구장 건립 결실",
+    "summary": [
+      "[OSEN=손찬익 기자] 한국 프로야구 OB 모임인 사단법인 일구회(회장 김광수)가 몽골 유소년 야구 발전을 위한 의미 있는 발걸음을 이어갔다.일구회는 지난 13일부터 14일까지 몽골 울란바토르에서 '제2회 뉴트리디데이 청소년 야구대회'를 개최했다고 밝혔다.지난해 첫 대회에 이어 두 번째로 열린 이번 대회에는 몽골 전역에서 25개 팀, 약 350명의 유소년."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n1fee95b5",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/16/MFSTKYZVG5RGIYLDMY2DIMBRME/",
+    "title": "\"초대박!\" '우승 도전' 日 진짜 '천운' 따른다, 싸우기도 전에 '자멸'…'충격' 또또 '5실점 완패' 튀니지 감독, 성적 부진 경질",
+    "summary": [
+      "[스포츠조선 김가을 기자]우승을 목표로 내건 일본, 그야말로 '천운'이 따른다.",
+      "경기를 치르기도 전에 '적'이 스스로 흔들리고, 무너졌다.",
+      "모리야스 하지메 일본 월드컵대표팀 감독이 이끄는 일본 축구대표팀은 21일 오후 1시(이하 한국시각) 멕시코 몬테레이의 에스타디오 몬테레이에서 튀니지와 2026년 북중미월드컵 조별리그 F조 2차전을 치른다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nca40b919",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616005100002",
+    "title": "달러-원, 이란 종전 합의에도 해소되지 않는 경계심…1,515.20원 마감",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc4a29b18",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616002851081",
+    "title": "트럼프 \"호르무즈 통행료없어…제재 완화, 이란 행동에 달려\"(종합)",
+    "summary": [
+      "(파리·워싱턴=연합뉴스) 송진원 이유미 특파원 = 도널드 트럼프 미국 대통령은 15일(현지시간) 이란과 합의한 종전 양해각서(MOU) 내용과 관..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n369cc871",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "28분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152622",
     "title": "[카드뉴스] 게임 플랫폼인 줄 알았는데, 월드컵 482만명 몰렸다.. 네이버 치지직의 진짜 'IP 전략'",
     "summary": [
@@ -333,7 +436,7 @@ window.NEWS_DB = [
     "id": "n1593b5d6",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "29분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152624",
     "title": "중앙그룹 5개사 회생 신청...미디어업계 '연쇄 충격' 우려",
     "summary": [
@@ -346,43 +449,100 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n70b4a5b9",
+    "id": "n1891607f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003670196",
+    "title": "[속보]네타냐후 \"이란 핵위협 제거 안끝나…레바논 계속 주둔\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1dcb608c",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/16/MY4DQOBWGIYDIMLDGBSWINZYMM/",
-    "title": "야마모토 퍼펙트 게임 깨더니…\"축구? 메시·호날두 밖에 모른다\" 베츠 발언 화제",
+    "time": "32분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/06/16/ML722HIHGFCHXEIUEPNWXZA3W4/",
+    "title": "‘대회 최대 이변’ 스페인, 월드컵 새내기 카보베르데에 충격 무승부",
     "summary": [
-      "[OSEN=손찬익 기자] 야마모토 요시노부(LA 다저스)의 퍼펙트게임 도전을 무산시킨 무키 베츠가 이번에는 뜻밖의 고백으로 화제의 중심에 섰다.",
-      "메이저리그 최고의 스타 플레이어 가운데 한 명이지만 축구에 대해서는 \"메시와 호날두 말고는 잘 모른다\"고 털어놓았다.일본 스포츠 매체 '히가시 스포웹'은 지난 15일 \"다재다능한 재능으로 유명한 베츠에게도 의외의."
+      "‘대회 최대 이변’ 스페인, 월드컵 새내기 카보베르데에 충격 무승부."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9c2006e2",
+    "id": "n1ccc1ea7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003670193",
+    "title": "美당국자 \"이란과 MOU 이미 서명…3000억달러 재건 기금 조성\"(종합)",
+    "summary": [
+      "[워싱턴·서울=뉴시스] 이윤희 특파원, 김승민 기자 = 미국과 이란이 종전 합의 양해각서(MOU)에 이미 원격 서명을 마쳤다고 미국 고위당국자가 15일(현지 시간) 밝혔다.",
+      "미국은 이란에 대한 제재 완화는 물론 이란 재건을 위한 400조원대 기금 조성에 동의했다.",
+      "다만 이러한 합의는 이란이 조건을 충족했을 때 이행된다는게 미국의 설명이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n99e4f89d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "49분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616004400079",
+    "title": "[속보] 네타냐후 \"레바논 '완충 지대'에 필요한 만큼 주둔\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n617bbbba",
     "category": "경제",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615148151082",
-    "title": "[미·이란 종전] ECB 총재 \"인플레 파급 효과 이미 시작\"(종합)",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026061602595711037",
+    "title": "스페이스X, 공모주 추가 배정…머스크, 2030년 1조달러 청사진",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 크리스틴 라가르드 유럽중앙은행(ECB) 총재는 15일(현지시간) 미국과 이란의 종전 협상 타결을 환영한다면..."
+      "스페이스X가 기업공개(IPO) 과정에서 추가 물량 배정 옵션(그린슈)이 전량 행사되며 총 자금 조달 규모를 857억달러(약 130조원)까지 늘렸다.",
+      "IPO 역사상 최대 규모 기록이다.",
+      "15일(현지시간) 외신 등에 따르면 스페이스X는 IPO 공동주관사들이 초과배정 옵션(그린슈)을 행사해 추가 주식을 매입했다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5b9d0137",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616003100087",
-    "title": "[월드컵] '전력난' 신음 쿠바 주민 \"축구시청이 삶의 도피처\"",
+    "id": "n96e4949f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026061602420703256",
+    "title": "트럼프 \"19일 호르무즈 완전 개방…이란, 핵무기 갖지 않을 것\"",
     "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = \"당신은 행복해질 필요가 있다.\"."
+      "도널드 트럼프 미국 대통령은 15일(현지시간) 이란과의 종전 양해각서(MOU)에 양측이 모두 서명했으며 서명식이 열리는 오는 19일 호르무즈 해협이 완전히 개방될 것이라고 밝혔다.",
+      "트럼프 대통령은 이날 프랑스 휴양지 에비앙레뱅에서 개막한 주요 7개국(G7) 정상회의에서 에마뉘엘 마크롱 프랑스 대통령과 양자 회담하며 모두 발언을 통해 이같이 밝혔다.",
+      "트럼프 대통령은 또 이번 종전 합의의 성과 중 \"가장 중요한 것은 이란이."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4aed28ae",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606168052i",
+    "title": "美 \"이란과 MOU, 48시간 내 공개... 호르무즈는 60일간 통행료 면제\" [이상은의 워싱턴나우]",
+    "summary": [
+      "美 \"이란과 MOU, 48시간 내 공개... 호르무즈는 60일간 통행료 면제\" [이상은의 워싱턴나우]."
     ],
     "chips": [
       "#뉴스"
@@ -392,7 +552,7 @@ window.NEWS_DB = [
     "id": "n250f47dc",
     "category": "IT",
     "source": "테크M",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152620",
     "title": "대표 물러나고 오븐스매시도 부진...'프레스에이' 반등 가능할까",
     "summary": [
@@ -405,40 +565,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nadb068ff",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003670184",
-    "title": "'호날두는 득인가 실인가'…포르투갈 팬들 '갑론을박'[월드컵24시]",
-    "summary": [
-      "[과달라하라(멕시코)=뉴시스] 하근수 기자 = 2026 북중미 월드컵을 앞둔 '슈퍼 스타' 크리스티아누 호날두(41·알나스르)를 향한 포르투갈 팬들의 의견이 엇갈리고 있다.",
-      "AP통신은 16일(한국 시간) \"호날두에게 마지막이 될 수 있는 이번 대회를 앞두고, 팬들은 41세에 접어든 호날두가 여전히 팀에 기여할 수 있을지 우려하고 있다\"고 조명했다.",
-      "미국 플로리다주 팜비치 가든스의 포르투갈 베이스캠프 공개 훈련에서 매체가 만난 팬들의 의견은 분분."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc6caa6e9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616001700072",
-    "title": "안보리, 아프간 임무 1년 연장…美요구 '전략적 검토' 반영",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 유엔 안전보장이사회는 15일(현지시간) 유엔 아프가니스탄 지원단(UNAMA)의 임무 기간을 1년 연장하는 결..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na9a1f61f",
     "category": "부동산",
     "source": "테크M",
-    "time": "29분 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152623",
     "title": "[테크M 이슈] 미래에셋 스페이스X '0주 배정' 후폭풍…과도한 기대와 해외 IPO의 냉혹한 현실",
     "summary": [
@@ -451,90 +581,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n48cd795b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/16/GVSTMNJVGRSDKMJXMJQWIYZXGY/",
-    "title": "'충격적인 1년 만의 복귀' 슬롯이 버린 우루과이 국대 누네스, FA가 돼 친정 리버풀로 돌아온다..'월드컵 종료 후 발표 예정'",
-    "summary": [
-      "[스포츠조선 노주환 기자]아쉽게 EPL 리버풀을 떠났던 우루과이 국가대표 공격수 다윈 누네스가 FA로 다시 친정팀 리버풀로 복귀할 것 같다.",
-      "그는 2025년 여름, 리버풀에서 사우디아라비아 명문 알 힐랄로 이적했다.",
-      "당시 이적료는 4600만파운드였다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n88359659",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "43분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/16/GZSWEY3CMNQTEOLBMIZDOOLBMU/",
-    "title": "‘보지냐 GK 또 막았다!’ 카보베르데, 무적함대 스페인과 전반전 무실점 대이변 (전반종료)",
-    "summary": [
-      "[OSEN=서정환 기자] 우승후보 0순위 스페인이 고전을 면치 못하고 있다.",
-      "이유는 최고령 골키퍼 보지냐(41)다.",
-      "FIFA 랭킹 2위 스페인은 16일 미국 조지아주 애틀란타 메르세데스 벤츠 스타디움에서 개최된 2026 FIFA 북중미월드컵 H조 1차전에서 카보베르데를 상대로 전반전까지 0-0으로 득점없이 비겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n897810ec",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "49분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003670188",
-    "title": "헤즈볼라 \"이스라엘군 완전철수\"…美·이, \"철군은 합의에 없다\"(종합)",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부와 이란 정권이 레바논 전선을 포함한 종전에 합의한 가운데, 레바논 내 친(親)이란 무장 세력 헤즈볼라가 환영 입장을 냈다.",
-      "헤즈볼라는 다만 이스라엘군 전면 철수까지 전선을 유지하겠다고 밝혔는데, 이스라엘은 물론 트럼프 행정부도 이스라엘군 철수에는 선을 긋고 있어 전쟁이 곧바로 종식될 가능성은 낮다는 관측이 나온다.",
-      "팔레스타인크로니클, 아나돌루통신 등에 따르면 헤즈볼라는 15일(현지 시간."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n81515afa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "51분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003670187",
-    "title": "트럼프 \"호르무즈 해협, 19일 완전 개방…통행료 없다\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령은 이란과 종전 합의 양해각서(MOU)에 서명하는 19일(현지 시간) 호르무즈 해협이 완전히 개방될 것이라고 밝혔다.",
-      "트럼프 대통령은 15일 프랑스 에비앙에서 열린 에마뉘엘 마크롱 프랑스 대통령과 회담에서 \"(이란과의) 모든 협상이 타결됐다고 밝히게돼 매우 기쁘고, 호르무즈 해협은 이미 부분적으로 개방됐다\"고 말했다.",
-      "그러면서 \"그들은 이미 발견된 기뢰들을 대상으로 제거 작업을 진행."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd556c89a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "54분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003668737",
-    "title": "\"첫 결혼도 갔는데…\" 동료 재혼식 참석 요청에 고민 빠진 미혼 직장인",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 최근 직장 내 경조사비가 경제적 부담으로 다가오는 상황 속 아직 미혼인 평범한 직장인이 동료의 재혼 결혼식 참석을 두고 고민이 된다는 사연이 전해졌다.",
-      "지난 14일 각종 온라인 커뮤니티에서는 '재혼하는 직장 동료 결혼식 가야 할까요'라는 제목의 사연이 공개됐다.",
-      "A씨는 자신은 아직 결혼하지 않은 미혼이라고 이야기하며 최근 동료 B씨의 재혼 소식을 접했다고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nc3e3bfc8",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260616/134117843/1",
     "title": "“트럼프·밴스-갈리바프, MOU 서명…48시간 내 전문 공개”",
     "summary": [
@@ -549,7 +599,7 @@ window.NEWS_DB = [
     "id": "n3f89478d",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260616/134117827/1",
     "title": "고우림 “아내 김연아, 감기도 안 걸려…신체 기능 평범 그 이상”",
     "summary": [
@@ -563,69 +613,11 @@ window.NEWS_DB = [
     "id": "n9558a6ed",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260616/134117821/1",
     "title": "“광고만 100억” 박세리, 전성기 수입 깜짝 ‘고백’",
     "summary": [
       "골프 레전드 박세리가 현역 시절 수입 규모를 깜짝 공개했다.박세리는 15일 방송된 tvN 스토리 예능물 ‘남겨서 뭐하게’에 출연해 과거 수입에 대해 언급했다.이날 방송에서는 중국 한류 1세대로 활약했던 배우 안재욱이 게스트로 출연해 활동 당시의 일화를 전했다.안재욱이 한류 초창기 명확하지 않았던 개런티 기준에 대해 설명하며 구체적인 수입 공개를 난처해하자, 박세리가 먼저 나서 자신의 전성기 시절 수입을 밝혔다.이영자가 “100억 정도 벌었냐”고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne8af8261",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606168060i",
-    "title": "[속보]美 \"호르무즈 최종 요금체계, 60일 내 확정... 통행료 없을 것\"",
-    "summary": [
-      "[속보]美 \"호르무즈 최종 요금체계, 60일 내 확정... 통행료 없을 것\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd63951a5",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606168051i",
-    "title": "[속보]美 \"이란 재건 위한 거액의 기금조성 포함될 것...이행실적과 연계\"",
-    "summary": [
-      "[속보]美 \"이란 재건 위한 거액의 기금조성 포함될 것...이행실적과 연계\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbba810fe",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026061523072148047",
-    "title": "김주형, 하락세 멈췄다…세계랭킹 152위→141위",
-    "summary": [
-      "김주형이 세계랭킹 141위로 올라섰다.",
-      "그는 14일(현지시간) 발표된 남자골프 주간 세계랭킹에서 1.0257점을 받아 지난주 152위에서 11계단 도약했다.",
-      "이날 캐나다 온타리오주 케일던의 TPC 토론토 앳 오스프레이 북코스(파70)에서 열린 미국프로골프(PGA) 투어 RBC 캐나다 오픈(총상금 980만 달러)에서 공동 15위(10언더파 270타)를 차지해 랭킹 포인트를 획득했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n76a55ec5",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606168049i",
-    "title": "[속보]美 \"향후 24~48시간 내 이란과 MOU 내용 발표\"",
-    "summary": [
-      "[속보]美 \"향후 24~48시간 내 이란과 MOU 내용 발표\"."
     ],
     "chips": [
       "#뉴스"
@@ -638,8 +630,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3240건",
-    "trend": "+395%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
@@ -649,9 +641,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "KBO",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
