@@ -1,30 +1,30 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-15 10:03:32
+// 마지막 업데이트: 2026-06-15 13:01:46
 window.NEWS_DB = [
   {
-    "id": "ned1c5cc9",
+    "id": "n00266a2f",
     "category": "IT",
-    "source": "이지경제",
-    "time": "1시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95WnNMZ00zdUhNc0h6MzVKbWl5T213R05RT0xPWUZjWFdDbXk1VzlOcmxBcEh2SkR6N2ptTGFXQ212TVJsVzQ0QWVoZjBYeTRWMWhKTXkxMDgxVDc1Z01rYVpPbzc0ZC1ndHRHVk53?oc=5",
-    "title": "전영현 첫 하반기 시험대…삼성전자 HBM 승부수 점검",
+    "source": "뉴데일리",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QcFc3eWdJcm5FRS1PMTJrRzVucDdqNElQSkZhYVpUejdhYVROYVltTzhocjlYeFF2R0h5cnJGSVNJX3hqQmNuMmNtU0pOOFVrYkRBMldKN3VianpCdm9JSVVkaFVueU1Pc210QW4yUldQZGV3WHUxTl96VQ?oc=5",
+    "title": "삼성, AI 생존전 돌입 … DX는 AX·DS는 HBM 총력",
     "summary": [
-      "전영현 첫 하반기 시험대…삼성전자 HBM 승부수 점검 이지경제."
+      "삼성, AI 생존전 돌입 … DX는 AX·DS는 HBM 총력 뉴데일리."
     ],
     "chips": [
-      "#반도체",
-      "#삼성전자"
+      "#AI",
+      "#반도체"
     ]
   },
   {
-    "id": "n9b3bb09f",
+    "id": "nf184bcf3",
     "category": "IT",
-    "source": "SBSBiz",
-    "time": "4시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SNTZpeTNHLUNUamJSakxqbVhvVFlRVmowRTItYkNyMXc5b1ZPR1NNcktraTd0R0tEbUlkOGtlMHpabXg5QUg5NHhldkM0a1MwT1Q5MGRqNjc?oc=5",
+    "source": "v.daum.net",
+    "time": "7시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40WGVUV0hlaDA0ZXBxRUdnMFVtZFVTUmdUWkxSMnV5NXZwQ3BOcXlrQlNiZjl0N0JSdTJoMUZSMmd5ZW45eVlYNXdDR0Uwa1k?oc=5",
     "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
     "summary": [
-      "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? SBSBiz."
+      "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? v.daum.net."
     ],
     "chips": [
       "#반도체"
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "na76568e4",
     "category": "경제",
     "source": "더파워",
-    "time": "4시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmRlcU9jdWZ2ZkF0amVteHR1LUpMbjEtODc3OU5RLWNKWV9VUW00VUp0blUxeFhxeC1sTWNuZGM1cDVWbGUyaHhSd21POFhsUXlKVU5XdUxqQ2MzSXhvN0VuOXhnb181QmxOSFZCeG1WZC1xUFlIUjRDU1ZqQQ?oc=5",
     "title": "코스피 급등에도 외국인 주식자금 이탈…5월 318억달러 순유출",
     "summary": [
@@ -45,10 +45,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n606b0fb8",
+    "category": "IT",
+    "source": "중기이코노미",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVTk1Z05BbUxORTg5SVdlZV9NR0VvVXBWZTBEYmdVZjQ0a1R1WXU1WHdqU2tWa19uM1dXb1kxX0VkYVkxSEpNMERKVlExY1I2YnZoQ3RrVFprendZVmgwV1JZdzZQRENOcWc?oc=5",
+    "title": "삼성전자, '우리가 1등이 아닌 세상'으로 가고 있는가",
+    "summary": [
+      "삼성전자, '우리가 1등이 아닌 세상'으로 가고 있는가 중기이코노미."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "n09c3f669",
     "category": "사회",
     "source": "케이에스피뉴스",
-    "time": "10시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1naDducjJDUTZZYUE3UnM1Nk1xVnVKUlphVnV1ZzY2YU84VGhva29Bc0hXQ2xQVjJQNlFmOE1CUmx6Qmhm?oc=5",
     "title": "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최",
     "summary": [
@@ -142,7 +156,7 @@ window.NEWS_DB = [
     "id": "n12ca2e79",
     "category": "스포츠",
     "source": "네이트",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
     "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
     "summary": [
@@ -173,7 +187,7 @@ window.NEWS_DB = [
     "id": "n70cb7884",
     "category": "사회",
     "source": "투데이경제",
-    "time": "12일 전",
+    "time": "13일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
     "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
     "summary": [
@@ -182,21 +196,6 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "na51ce02d",
-    "category": "IT",
-    "source": "녹색경제신문",
-    "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LaFJiaVhMOVg4RmU3ZUdELWJZQldVcVNNalNXTnNiQVpiM3Z1V1AtdFY4QWNCZ2M0bUthYnRWb0xjMUFvQkhYZm1CaW9OV0tQaVY5TWVKd0RCaU1pdlNhTWp3YlNYR0dI?oc=5",
-    "title": "삼성전자·하이닉스, HBM4 베이스다이 경쟁…메모리에서 '파운드리 전쟁'으로",
-    "summary": [
-      "삼성전자·하이닉스, HBM4 베이스다이 경쟁…메모리에서 '파운드리 전쟁'으로 녹색경제신문."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
     ]
   },
   {
@@ -380,253 +379,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n17fa98cc",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026061519021190003",
-    "title": "한국도자재단, 관광업계 등 초청 광주·이천·여주 '도자문화 투어' 운영",
-    "summary": [
-      "한국도자재단이 지난 13일 '글로벌관광객 1억명 시대 범국민추진위원회'(GTC) 관계자 40명을 대상으로 광주·이천·여주를 잇는 '도자문화 투어'를 운영했다.",
-      "GTC는 한국의 국가유산과 지역 자원을 활용해 국내 관광산업 활성화와 글로벌 관광객 유치를 목표로 하는 범국민 추진 조직으로, 관광·문화·지역자원 연계 사업을 비롯해 여행업계·관광서포터즈 네트워크 기반의 지역 홍보 활동 등을 추진하고 있으며 관광업계·언론·."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb27b3b2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003670070",
-    "title": "경남 시·군 주요 업무 합동평가, 거제시 2년 연속 '우수'",
-    "summary": [
-      "[거제=뉴시스] 신정철 기자 = 거제시는 경상남도가 실시한 2026년(‘25년 실적) 시군 주요업무 합동평가에서 2년 연속 우수기관에 선정돼 기관 표창과 함께 특별조정교부금 1억856만원의 재정 인센티브를 확보했다고 15일 밝혔다.",
-      "거제시에 따르면 경상남도의 시군 주요업무 합동평가는 도내 18개 시·군을 대상으로 국가 주요 정책과 도 역점시책의 추진성과를 종합적으로 평가하는 제도로, 지방행정의 역량과 정책 성과를 객관적으로 평가하는 대표적인 행."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n15a85b0e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003670081",
-    "title": "중앙일보, 계열사 법정관리에 워크아웃 추진 \"리스크 선제적 차단\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 중앙일보가 지주사와 계열사의 기업회생절차(법정관리) 신청에 따라, 기업구조개선작업(워크아웃)을 추진한다.",
-      "박장희 중앙일보 대표이사는 15일 입장문을 내고 \"지주사인 중앙홀딩스와 JTBC, 메가박스 등 계열사가 이날 법원에 기업회생절차를 신청했다\"며 \"중앙일보는 그룹의 모태로서 막중한 책임감을 느끼며, 심려를 끼쳐드려 사과드린다\"면서 이렇게 밝혔다.",
-      "중앙일보는 그룹 계열사의 사정에 따라 워크아웃을 신청했다고 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc13e8f3e",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061519000877834",
-    "title": "'말러 사이클' 부산시향, 400명 함께하는 '천인교향곡'",
-    "summary": [
-      "부산시립교향악단이 오는 18일 부산콘서트홀에서 열리는 제631회 정기연주회에서 구스타프 말러의 교향곡 8번을 연주한다.",
-      "교향곡 8번은 말러 작품 가운데 가장 거대한 규모를 자랑한다.",
-      "1910년 독일 뮌헨 초연 당시 1000명이 넘는 연주자가 무대에 올라 '천인교향곡'이라는 별칭을 얻었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ee06595",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003670059",
-    "title": "국립국악관현악단과 AI 첫 협연…김백찬 작곡가 \"AI, 그루브가 사람보다 과해\"",
-    "summary": [
-      "[서울=뉴시스] 최희정 기자 = 여성 가수의 감미로운 목소리가 흘러나오자, 대금과 피리, 가야금, 해금 등 국악기의 소리가 함께 어우러진다.",
-      "무대 앞에는 지휘자와 모니터만 보일뿐, 목소리의 주인공은 여기에 없다.",
-      "그는 국립국악관현악단의 생성형 AI(인공지능) 페르소나 '지음'이다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nb327c0e5",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026061518590770556",
-    "title": "초유의 치안정감 강등…'계엄 가담' 경찰 고위급 중징계",
-    "summary": [
-      "윤석열 정부의 비상계엄 사태에 연루된 경찰 고위 간부 16명에 대해 중징계가 내려졌다.",
-      "경찰 조직에서 두 번째로 서열이 높은 치안정감 계급이 강등 처분을 받는 초유의 결과가 나왔다.",
-      "15일 경찰에 따르면 국무총리실 중앙징계위원회는 최근 경찰 간부 22명에 대해 해임 2명, 강등 4명, 정직 10명, 감봉 6명 등 각각 징계를 의결했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na1365031",
+    "id": "n9a6e9608",
     "category": "사회",
     "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260615/134116842/2",
-    "title": "[속보]경찰, 인천 훼손 시신에 “키 161~165㎝ 성인 추정”",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260615/134117517/1",
+    "title": "金 총리 “6말 7초쯤 물러날 수 있을 듯…당으로 옮겨 대통령 국정 뒷받침”",
     "summary": [
-      "이달 10일 인천의 한 재활용 선별시설에서 사람의 다리 일부가 발견된 사건과 관련해 피해자는 성인으로 추정되고 키는 161~165㎝으로 추정된다는 국립과학수사연구원 분석 결과가 15일 나왔다.경찰은 발견된 다리 신체 특징과 관련해 “국과수로부터 회보 받은 감정 결과 키는 161~165cm이고, 성인으로 추정된다”고 밝혔다.경찰 관계자는 소셜네트워크서비스(SNS)에 각종 소문이 확산하는 데 대해 “현재 SNS 채널에서 언급되고 있는 인천 사람 다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf4d98f81",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003670080",
-    "title": "국힘, 서울 등 6곳 재선거 소청 의결…\"유불리 안 따지고 공정성 중시\"",
-    "summary": [
-      "[서울=뉴시스]한은진 우지은 기자 = 국민의힘은 15일 투표용지 부족 사태 등 중앙선거관리위원회의 선거 관리 부실 논란이 불거진 지역 6곳에 대한 전면 재선거 소청을 의결했다.",
-      "최보윤 수석대변인은 이날 오후 국회에서 열린 긴급 최고위원회의를 마친 뒤 기자들과 만나 이같이 밝혔다.",
-      "최 수석대변인은 \"6·3 지방선거에서 투표용지 부족 문제가 일어난 인천·경기·부산·광주전남·울산·서울 지역을 포함해 재선거를 소청하기로 했다\"고 전했다."
+      "김민석 국무총리는 15일 본인의 거취에 대해 “지금 생각하기엔 6월말 7월초쯤 되면 물러날 수 있지 않을까 싶다”며 “당대표 출마 여부는 당에 정식으로 돌아간 이후에 말씀드리겠다”고 밝혔다.김 총리는 이날 저녁 MBC라디오 ‘권순표의 뉴스하이킥’과의 인터뷰에서 총리직 사퇴 시점과 더불어민주당 차기 당대표 선거 출마 여부에 대해 이같이 답했다.김 총리는 총리직을 내려놓고 당에 복귀하는 이유에 대해 “저는 대통령의 국정을 뒷받침하면서 국정 성공에."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nfabe74e0",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/06/15/ZZEUY36BLBA3NF6YAFIEO6WVCU/",
-    "title": "“전력 공급 효율성 위해 데이터센터 지방 분산을”",
-    "summary": [
-      "“전력 공급 효율성 위해 데이터센터 지방 분산을”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e0a00da",
+    "id": "n8289b074",
     "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260615/134116849/1",
-    "title": "[속보]靑 “李대통령, 레오14세 교황에 방한 초청”",
-    "summary": [
-      "靑 “李대통령, 레오14세 교황에 방한 초청”."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne66f711d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/national/incident/2026/06/15/RMUH4X2LD5BM7JBW67KUW6JF7A/",
-    "title": "인천 훼손 시신… 국과수, “키 161~165㎝, 성인 추정”",
-    "summary": [
-      "인천 훼손 시신… 국과수, “키 161~165㎝, 성인 추정”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74a7bb5e",
-    "category": "사회",
-    "source": "연합뉴스",
+    "source": "머니투데이",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615116000530",
-    "title": "개보위, 싱가포르·홍콩과 '개인정보 불법유통' 공동 대응",
+    "url": "https://www.mt.co.kr/society/2026/06/15/2026061521450459784",
+    "title": "'최연소 군의원 출마' 오신행, 뜻밖의 근황…\"일본서 아이돌 데뷔\"",
     "summary": [
-      "(서울=연합뉴스) 홍준석 기자 = 개인정보보호위원회는 15일 '제65차 아시아태평양 개인정보 협의체(APPA) 포럼'을 계기로 싱가포르·홍콩 당..."
+      "4년 전 제8회 전국동시지방선거 당시 전남 무안군의원에 최연소로 출마했던 오신행(22)이 일본에서 아이돌로 데뷔한다.",
+      "15일 뉴스1에 따르면 오신행은 최근 종영한 일본 오디션 프로그램 '프로듀스 101 재팬 신세계'에서 최종 4위를 차지해 올가을 아이돌로 데뷔한다.",
+      "오신행은 프로그램에서 3위를 기록한 박시영(23)과 함께 보이그룹 '코이키즈'(KO1KEYZ)의 한국인 멤버로 포함돼 한국과 일본에서 동시 데뷔할 예정이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n51df2617",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/15/MVSTKM3EGI3TGMZVMM2TGMDBGM/",
+    "title": "신민아, 새 신부의 러블리 하트 [O! STAR 숏폼]",
+    "summary": [
+      "[OSEN=민경훈 기자] 15일 오후 서울 메가박스 코엑스서 영화 ‘눈동자’(감독 염지호) VIP 시사회가 열렸다.배우 신민아가 포즈를 취하고 있다.",
+      "2026.06.15 / rumi@osen.co.kr."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfa629df0",
+    "id": "n214b7ce5",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/15/2026061521410964476",
+    "title": "\"10일 만에 급성 탈모\"…30대 여성 모자 벗자 '깜짝'",
+    "summary": [
+      "급성 탈모가 생긴 후 주변에서 오해를 받아 고민이라는 30대 여성의 사연이 전해졌다.",
+      "15일 방송된 KBS Joy '무엇이든 물어보살'에는 33세 사연자가 출연해 '급성 탈모가 생긴 후 주위에서 아픈 사람으로 오해해 난감하다'는 고민을 털어놨다.",
+      "MC들은 \"왜 급성탈모가 왔냐."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n7c50445b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/15/MY4TCYJZG44DMMDDMNRTQMBQGY/",
+    "title": "이재명 대통령, 레오 14세 교황 면담…WYD 계기 방한 요청",
+    "summary": [
+      "이재명 대통령이 15일(현지 시각) 바티칸 교황청에서 레오 14세 교황을 만나, 내년 서울에서 열리는 세계청년대회(World Youth Day, WYD 2027)를 위한 한국 방문을 요청했다.",
+      "세계청년대회는 로마 가톨릭 교회의 최대 청년 축제로, 전 세계 가톨릭 청년들이 서울에 모여 신앙과 문화를 나누는 국제행사다.",
+      "1985년 요한 바오로 2세 교황이 창설."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na8269068",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/15/GM4TCYRSGAZWCOBVMQ2GEOJSME/",
+    "title": "고레에다 히로카즈 \"韓 오면 꼭 송강호·배두나 만나→작업해보고 싶은 배우는 현빈\" ['순간포착']",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 겸 방송인 성시경이 일본 영화 감독 고레에다 히로카즈를 만났다.",
+      "15일 유튜브 채널 ‘성시경’에는 ‘고레에다 히로카즈 감독님과 나눈 따뜻한 영화 이야기’라는 제목의 영상이 게재됐다.",
+      "이날 성시경은 닭곰탕, 새우전 등을 직접 요리해 고레에다 히로카즈에게 대접하며 함께 이야기를 나눴다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44583d88",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615147951054",
-    "title": "광주시교육청, 시 법정전입금 1천억 추경 미편성 \"매우 유감\"(종합)",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615164451530",
+    "title": "중노위, 한화오션 '사용자성' 인정…\"급식업체와도 교섭해야\"(종합)",
     "summary": [
-      "(광주=연합뉴스) 박철홍 기자 = 광주시가 광주시교육청에 넘기기로 한 법정 전입금 1천억원을 올해 첫 추가경정예산안에 반영하지 않으면서 기관 간..."
+      "(서울=연합뉴스) 김윤구 옥성구 기자 = 중앙노동위원회가 한화오션[042660]을 급식업체 하청 노조인 웰리브지회의 '진짜 사장'으로 인정했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n507f50b1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/15/MY2WGYZQGNRTGZLCGRRTAZJRGU/",
+    "title": "[빅매치 프리뷰]더 브라이너 VS 살라, EPL 호령했던 두 거물의 '라스트 댄스'",
+    "summary": [
+      "[스포츠조선 박찬준 기자]케빈 더 브라이너(35·나폴리)와 모하메드 살라(34·리버풀)는 설명이 필요없는 잉글랜드 프리미어리그(EPL)의 레전드다.",
+      "환상적인 패스를 자랑하는 더 브라이너는 2015년부터 2025년까지 10시즌 간 맨시티에서 뛰면서 무려 4번의 도움왕을 거머쥐었다.",
+      "119도움으로 라이언 긱스(162도움)에 이어 EPL 역대 최다 도움 2위에."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n4f73f792",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/industry/2026/06/15/2026061521242740891",
+    "title": "중노위, 한화오션 급식업체 사용자성 인정…경영계 \"혼란 확대 우려\"",
+    "summary": [
+      "중앙노동위원회(중노위)가 한화오션이 사내식당 등을 운영하는 협력업체 소속 노동조합과 산업안전·작업환경 의제에 대해 단체교섭을 해야 한다고 판단했다.",
+      "한화오션을 급식업체 하청 노조인 웰리브지회의 '진짜 사장'으로 인정한 것이다.",
+      "노란봉투법(개정 노조법) 시행 이후 원청 사용자성 인정 범위가 생산 하청을 넘어 지원 협력업체로까지 확대되면서 경영계는 산업현장 혼란을 우려하고 있다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "ndd649269",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026061521441908845",
+    "title": "교육감 당선인 \"일방적 교부금 구조 개편 반대\" 한 목소리",
+    "summary": [
+      "전국 16개 시도교육감 당선인들이 \"경제 논리에 입각한 일방적인 교부금 구조 개편의 피해는 결국 학생에게 돌아간다\"며 지방교육재정기부금 축소·개편에 반대 입장을 밝혔다.",
+      "이날 교육감 당선인들은 세종시에 있는 대한민국교육감협의회 사무국에서 간담회를 연 뒤 이 같은 내용의 공동성명을 냈다.",
+      "이들은 \"정부가 지방교육재정교부금 산정 방식을 현행 내국세 연동 방식에서 경상성장률 연동 방식으로 변경하는 방안을 검토하."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n986219b7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615158800001",
-    "title": "李대통령, 레오 14세 교황에 내년 방한 초청",
+    "id": "n79f7301a",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/15/2026061520340180902",
+    "title": "트럼프 \"프랑스가 미국 빅테크에 과세하면 와인 100% 관세\"",
     "summary": [
-      "(바티칸=연합뉴스) 임형섭 고동욱 기자 = 바티칸을 방문 중인 이재명 대통령은 15일(현지시간) 레오 14세 교황을 만나 내년 예정된 2027년..."
+      "FT \"한때 '브로맨스'였던 트럼프-마크롱 관계 G7서 시험대\" 도널드 트럼프 미국 대통령이 자국 빅테크 기업을 대상으로 한 프랑스의 디지털서비스세(DST) 폐지 요구와 함께 프랑스산 와인, 샴페인에 대해 100% 관세를 부과하겠다는 경고를 보냈다.",
+      "트럼프 대통령은 15일(현지시간) 공개된 뉴욕포스트 인터뷰에서 \"미국 기업에 세금을 매기지 말라고 (마크롱 대통령에게) 요청했다\"며 \"그렇게 하지 않으면 프랑스산 샴페인과 모든 와인에 100% 관세."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n25a8fd45",
+    "id": "nfca664d8",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615158900004",
-    "title": "[1보] '비상계엄 불법행위 정황' 경찰 2명 해임·4명 강등",
-    "summary": [],
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615167300055",
+    "title": "고창서 달리던 트럭서 불…운전자가 버린 담배꽁초 추정",
+    "summary": [
+      "(고창=연합뉴스) 정경재 기자 = 15일 오후 4시 13분께 전북 고창군 성내면 한 도로를 달리던 1t 트럭에서 불이 나 10여분 만에 진화됐다..."
+    ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nba2b8773",
+    "id": "n997ba98d",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615121351004",
-    "title": "'유동성위기' JTBC 등 중앙그룹 5개사 회생 신청…신용등급↓(종합)",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003670130",
+    "title": "김 총리 \"6말 7초쯤 물러날 수 있을 듯…당으로 옮겨 대통령 국정 뒷받침\"",
     "summary": [
-      "(서울=연합뉴스) 고은지 이승연 기자 = 유동성 위기에 처한 종합편성채널 JTBC 등 중앙그룹 계열사와 자회사의 회생 절차 개시 신청 사건이 서..."
+      "[서울=뉴시스]김경록 기자 = 김민석 국무총리는 15일 본인의 거취에 대해 \"지금 생각하기엔 6월말 7월초쯤 되면 물러날 수 있지 않을까 싶다\"며 \"당대표 출마 여부는 당에 정식으로 돌아간 이후에 말씀드리겠다\"고 밝혔다.",
+      "김 총리는 이날 저녁 MBC라디오 '권순표의 뉴스하이킥'과의 인터뷰에서 총리직 사퇴 시점과 더불어민주당 차기 당대표 선거 출마 여부에 대해 이같이 답했다.",
+      "김 총리는 총리직을 내려놓고 당에 복귀하는 이유에 대해 \"저는 대통령의."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7023c31f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "23분 전",
+    "url": "https://view.asiae.co.kr/article/2026061521380600009",
+    "title": "진상규명위 \"서울시선관위, 투표지 부족 안일 대응…책임 추궁해야\"",
+    "summary": [
+      "6·3 지방선거 투표용지 부족 사태와 송파구선거관리위원회가 조기에 상황을 예견했으나 서울시선관위와 중앙선관위가 5시간이 지나서야 공동 대응에 나선 것으로 조사됐다.",
+      "'투표용지 부족 사태 진상규명위원회'의 조현욱 진상규명위원장은 15일 경기도 중앙선관위 과천청사에서 진상규명위 4차 회의를 마친 뒤 기자들과 만나 \"서울시선관위의 안일한 대응과 사태 심각성에 대한 미온적 인식에 대해 책임 추궁이 필요한 것으로 보."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n21002c26",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615166300054",
+    "title": "한밤중 차 몰다 동승 친구 숨지게 한 중학생 입건",
+    "summary": [
+      "(광주=연합뉴스) 김혜인 기자 = 광주 서부경찰서는 한밤중 광주 도심에서 차를 몰다 인명사고를 낸 혐의(교통사고처리특례법상 치사)로 A(14)군..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2c93366b",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026061518474333068",
-    "title": "제이알글로벌리츠, ARS 기한 7월15일까지 연장",
+    "id": "n94f77e1d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615084351009",
+    "title": "우크라는 여전히 폭음…\"러 공습에 세계유산 화재, 11명 사망\"(종합)",
     "summary": [
-      "제이알글로벌위탁관리부동산투자회사(제이알글로벌리츠)의 자율구조조정프로그램(ARS) 협의 기간이 연장됐다.",
-      "영국 법원 소송의 신속심리 결정과 맞물려 제이알글로벌리츠가 조기 정상화에 속도를 낼 수 있을지 관심을 끌고 있다.",
-      "15일 제이알글로벌리츠는 서울회생법원이 ARS 협의 기간을 다음달 15일까지 1개월 연장하는 것을 승인했다고 밝혔다."
+      "(서울·이스탄불=연합뉴스) 곽민서 기자 김동호 특파원 = 러시아가 우크라이나 수도 키이우를 공습해 세계 문화유산에 불이 나고 수십 명의 사상자가..."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n985bfeb6",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "32분 전",
+    "url": "https://view.asiae.co.kr/article/2026061521290492884",
+    "title": "창작 뮤지컬 '어쩌면 해피엔딩' 전국 투어 성황리 마무리",
+    "summary": [
+      "창작 뮤지컬 '어쩌면 해피엔딩' 10주년 기념 전국 투어가 지난 14일 제주 공연을 끝으로 성황리에 막을 내렸다고 제작사 NHN링크가 15일 밝혔다.",
+      "이번 전국 투어는 지난 2월 부산을 시작으로 대전, 광주, 용인, 인천, 세종, 전주, 평택, 수원, 창원, 대구, 천안, 울산, 당진, 고양, 제주 등 16개 도시에서 총 78회에 걸쳐 진행됐다.",
+      "NHN링크는 전 회차 매진과 함께 평균 객석 점유율 100%(유료 객석 점유율 92%)를 기록했다고."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -636,20 +644,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "정치",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
