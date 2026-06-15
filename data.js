@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-15 13:01:46
+// 마지막 업데이트: 2026-06-15 15:56:57
 window.NEWS_DB = [
   {
     "id": "n00266a2f",
     "category": "IT",
     "source": "뉴데일리",
-    "time": "2시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QcFc3eWdJcm5FRS1PMTJrRzVucDdqNElQSkZhYVpUejdhYVROYVltTzhocjlYeFF2R0h5cnJGSVNJX3hqQmNuMmNtU0pOOFVrYkRBMldKN3VianpCdm9JSVVkaFVueU1Pc210QW4yUldQZGV3WHUxTl96VQ?oc=5",
     "title": "삼성, AI 생존전 돌입 … DX는 AX·DS는 HBM 총력",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nf184bcf3",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "7시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40WGVUV0hlaDA0ZXBxRUdnMFVtZFVTUmdUWkxSMnV5NXZwQ3BOcXlrQlNiZjl0N0JSdTJoMUZSMmd5ZW45eVlYNXdDR0Uwa1k?oc=5",
     "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "na76568e4",
     "category": "경제",
     "source": "더파워",
-    "time": "7시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmRlcU9jdWZ2ZkF0amVteHR1LUpMbjEtODc3OU5RLWNKWV9VUW00VUp0blUxeFhxeC1sTWNuZGM1cDVWbGUyaHhSd21POFhsUXlKVU5XdUxqQ2MzSXhvN0VuOXhnb181QmxOSFZCeG1WZC1xUFlIUjRDU1ZqQQ?oc=5",
     "title": "코스피 급등에도 외국인 주식자금 이탈…5월 318억달러 순유출",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "n606b0fb8",
     "category": "IT",
     "source": "중기이코노미",
-    "time": "10시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVTk1Z05BbUxORTg5SVdlZV9NR0VvVXBWZTBEYmdVZjQ0a1R1WXU1WHdqU2tWa19uM1dXb1kxX0VkYVkxSEpNMERKVlExY1I2YnZoQ3RrVFprendZVmgwV1JZdzZQRENOcWc?oc=5",
     "title": "삼성전자, '우리가 1등이 아닌 세상'으로 가고 있는가",
     "summary": [
@@ -56,21 +56,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n09c3f669",
-    "category": "사회",
-    "source": "케이에스피뉴스",
-    "time": "13시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1naDducjJDUTZZYUE3UnM1Nk1xVnVKUlphVnV1ZzY2YU84VGhva29Bc0hXQ2xQVjJQNlFmOE1CUmx6Qmhm?oc=5",
-    "title": "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최",
-    "summary": [
-      "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최 케이에스피뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#고용"
     ]
   },
   {
@@ -167,34 +152,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31acb708",
+    "id": "nc9fe1ef0",
     "category": "사회",
-    "source": "아주경제",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "source": "브런치",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UllYQlR3ck1kZTlFeDd5X0gtTHhkN2NMcU95T2VGbGpSOEZsWjdQZ3ZVVHEwS19fb1JvLS04SlBnQVd5Z2YxdU1nTQ?oc=5",
+    "title": "화성시 일자리 찾는다면, 일자리센터 채용정보 확인",
     "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+      "화성시 일자리 찾는다면, 일자리센터 채용정보 확인 브런치."
     ],
     "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n70cb7884",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
-    "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
-    ],
-    "chips": [
-      "#취업",
+      "#채용",
       "#고용"
     ]
   },
@@ -224,6 +192,37 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#전세"
+    ]
+  },
+  {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "26일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "26일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "summary": [
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -379,259 +378,252 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9a6e9608",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260615/134117517/1",
-    "title": "金 총리 “6말 7초쯤 물러날 수 있을 듯…당으로 옮겨 대통령 국정 뒷받침”",
-    "summary": [
-      "김민석 국무총리는 15일 본인의 거취에 대해 “지금 생각하기엔 6월말 7월초쯤 되면 물러날 수 있지 않을까 싶다”며 “당대표 출마 여부는 당에 정식으로 돌아간 이후에 말씀드리겠다”고 밝혔다.김 총리는 이날 저녁 MBC라디오 ‘권순표의 뉴스하이킥’과의 인터뷰에서 총리직 사퇴 시점과 더불어민주당 차기 당대표 선거 출마 여부에 대해 이같이 답했다.김 총리는 총리직을 내려놓고 당에 복귀하는 이유에 대해 “저는 대통령의 국정을 뒷받침하면서 국정 성공에."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8289b074",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/15/2026061521450459784",
-    "title": "'최연소 군의원 출마' 오신행, 뜻밖의 근황…\"일본서 아이돌 데뷔\"",
-    "summary": [
-      "4년 전 제8회 전국동시지방선거 당시 전남 무안군의원에 최연소로 출마했던 오신행(22)이 일본에서 아이돌로 데뷔한다.",
-      "15일 뉴스1에 따르면 오신행은 최근 종영한 일본 오디션 프로그램 '프로듀스 101 재팬 신세계'에서 최종 4위를 차지해 올가을 아이돌로 데뷔한다.",
-      "오신행은 프로그램에서 3위를 기록한 박시영(23)과 함께 보이그룹 '코이키즈'(KO1KEYZ)의 한국인 멤버로 포함돼 한국과 일본에서 동시 데뷔할 예정이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n51df2617",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/15/MVSTKM3EGI3TGMZVMM2TGMDBGM/",
-    "title": "신민아, 새 신부의 러블리 하트 [O! STAR 숏폼]",
-    "summary": [
-      "[OSEN=민경훈 기자] 15일 오후 서울 메가박스 코엑스서 영화 ‘눈동자’(감독 염지호) VIP 시사회가 열렸다.배우 신민아가 포즈를 취하고 있다.",
-      "2026.06.15 / rumi@osen.co.kr."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n214b7ce5",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/15/2026061521410964476",
-    "title": "\"10일 만에 급성 탈모\"…30대 여성 모자 벗자 '깜짝'",
-    "summary": [
-      "급성 탈모가 생긴 후 주변에서 오해를 받아 고민이라는 30대 여성의 사연이 전해졌다.",
-      "15일 방송된 KBS Joy '무엇이든 물어보살'에는 33세 사연자가 출연해 '급성 탈모가 생긴 후 주위에서 아픈 사람으로 오해해 난감하다'는 고민을 털어놨다.",
-      "MC들은 \"왜 급성탈모가 왔냐."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n7c50445b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/06/15/MY4TCYJZG44DMMDDMNRTQMBQGY/",
-    "title": "이재명 대통령, 레오 14세 교황 면담…WYD 계기 방한 요청",
-    "summary": [
-      "이재명 대통령이 15일(현지 시각) 바티칸 교황청에서 레오 14세 교황을 만나, 내년 서울에서 열리는 세계청년대회(World Youth Day, WYD 2027)를 위한 한국 방문을 요청했다.",
-      "세계청년대회는 로마 가톨릭 교회의 최대 청년 축제로, 전 세계 가톨릭 청년들이 서울에 모여 신앙과 문화를 나누는 국제행사다.",
-      "1985년 요한 바오로 2세 교황이 창설."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na8269068",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/15/GM4TCYRSGAZWCOBVMQ2GEOJSME/",
-    "title": "고레에다 히로카즈 \"韓 오면 꼭 송강호·배두나 만나→작업해보고 싶은 배우는 현빈\" ['순간포착']",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 겸 방송인 성시경이 일본 영화 감독 고레에다 히로카즈를 만났다.",
-      "15일 유튜브 채널 ‘성시경’에는 ‘고레에다 히로카즈 감독님과 나눈 따뜻한 영화 이야기’라는 제목의 영상이 게재됐다.",
-      "이날 성시경은 닭곰탕, 새우전 등을 직접 요리해 고레에다 히로카즈에게 대접하며 함께 이야기를 나눴다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44583d88",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615164451530",
-    "title": "중노위, 한화오션 '사용자성' 인정…\"급식업체와도 교섭해야\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 김윤구 옥성구 기자 = 중앙노동위원회가 한화오션[042660]을 급식업체 하청 노조인 웰리브지회의 '진짜 사장'으로 인정했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n507f50b1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/15/MY2WGYZQGNRTGZLCGRRTAZJRGU/",
-    "title": "[빅매치 프리뷰]더 브라이너 VS 살라, EPL 호령했던 두 거물의 '라스트 댄스'",
-    "summary": [
-      "[스포츠조선 박찬준 기자]케빈 더 브라이너(35·나폴리)와 모하메드 살라(34·리버풀)는 설명이 필요없는 잉글랜드 프리미어리그(EPL)의 레전드다.",
-      "환상적인 패스를 자랑하는 더 브라이너는 2015년부터 2025년까지 10시즌 간 맨시티에서 뛰면서 무려 4번의 도움왕을 거머쥐었다.",
-      "119도움으로 라이언 긱스(162도움)에 이어 EPL 역대 최다 도움 2위에."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n4f73f792",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/industry/2026/06/15/2026061521242740891",
-    "title": "중노위, 한화오션 급식업체 사용자성 인정…경영계 \"혼란 확대 우려\"",
-    "summary": [
-      "중앙노동위원회(중노위)가 한화오션이 사내식당 등을 운영하는 협력업체 소속 노동조합과 산업안전·작업환경 의제에 대해 단체교섭을 해야 한다고 판단했다.",
-      "한화오션을 급식업체 하청 노조인 웰리브지회의 '진짜 사장'으로 인정한 것이다.",
-      "노란봉투법(개정 노조법) 시행 이후 원청 사용자성 인정 범위가 생산 하청을 넘어 지원 협력업체로까지 확대되면서 경영계는 산업현장 혼란을 우려하고 있다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "ndd649269",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026061521441908845",
-    "title": "교육감 당선인 \"일방적 교부금 구조 개편 반대\" 한 목소리",
-    "summary": [
-      "전국 16개 시도교육감 당선인들이 \"경제 논리에 입각한 일방적인 교부금 구조 개편의 피해는 결국 학생에게 돌아간다\"며 지방교육재정기부금 축소·개편에 반대 입장을 밝혔다.",
-      "이날 교육감 당선인들은 세종시에 있는 대한민국교육감협의회 사무국에서 간담회를 연 뒤 이 같은 내용의 공동성명을 냈다.",
-      "이들은 \"정부가 지방교육재정교부금 산정 방식을 현행 내국세 연동 방식에서 경상성장률 연동 방식으로 변경하는 방안을 검토하."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n79f7301a",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/15/2026061520340180902",
-    "title": "트럼프 \"프랑스가 미국 빅테크에 과세하면 와인 100% 관세\"",
-    "summary": [
-      "FT \"한때 '브로맨스'였던 트럼프-마크롱 관계 G7서 시험대\" 도널드 트럼프 미국 대통령이 자국 빅테크 기업을 대상으로 한 프랑스의 디지털서비스세(DST) 폐지 요구와 함께 프랑스산 와인, 샴페인에 대해 100% 관세를 부과하겠다는 경고를 보냈다.",
-      "트럼프 대통령은 15일(현지시간) 공개된 뉴욕포스트 인터뷰에서 \"미국 기업에 세금을 매기지 말라고 (마크롱 대통령에게) 요청했다\"며 \"그렇게 하지 않으면 프랑스산 샴페인과 모든 와인에 100% 관세."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nfca664d8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615167300055",
-    "title": "고창서 달리던 트럭서 불…운전자가 버린 담배꽁초 추정",
-    "summary": [
-      "(고창=연합뉴스) 정경재 기자 = 15일 오후 4시 13분께 전북 고창군 성내면 한 도로를 달리던 1t 트럭에서 불이 나 10여분 만에 진화됐다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n997ba98d",
+    "id": "n025e48a1",
     "category": "사회",
     "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260615_0003670130",
-    "title": "김 총리 \"6말 7초쯤 물러날 수 있을 듯…당으로 옮겨 대통령 국정 뒷받침\"",
-    "summary": [
-      "[서울=뉴시스]김경록 기자 = 김민석 국무총리는 15일 본인의 거취에 대해 \"지금 생각하기엔 6월말 7월초쯤 되면 물러날 수 있지 않을까 싶다\"며 \"당대표 출마 여부는 당에 정식으로 돌아간 이후에 말씀드리겠다\"고 밝혔다.",
-      "김 총리는 이날 저녁 MBC라디오 '권순표의 뉴스하이킥'과의 인터뷰에서 총리직 사퇴 시점과 더불어민주당 차기 당대표 선거 출마 여부에 대해 이같이 답했다.",
-      "김 총리는 총리직을 내려놓고 당에 복귀하는 이유에 대해 \"저는 대통령의."
-    ],
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003670181",
+    "title": "[속보]\"트럼프·밴스-갈리바프, 종전MOU 디지털 서명 마쳐\"",
+    "summary": [],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n7023c31f",
+    "id": "n2fcf20b0",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026061521380600009",
-    "title": "진상규명위 \"서울시선관위, 투표지 부족 안일 대응…책임 추궁해야\"",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003670175",
+    "title": "헤즈볼라 \"이스라엘군 레바논서 나가야\"…이스라엘 \"철수 없다\"",
     "summary": [
-      "6·3 지방선거 투표용지 부족 사태와 송파구선거관리위원회가 조기에 상황을 예견했으나 서울시선관위와 중앙선관위가 5시간이 지나서야 공동 대응에 나선 것으로 조사됐다.",
-      "'투표용지 부족 사태 진상규명위원회'의 조현욱 진상규명위원장은 15일 경기도 중앙선관위 과천청사에서 진상규명위 4차 회의를 마친 뒤 기자들과 만나 \"서울시선관위의 안일한 대응과 사태 심각성에 대한 미온적 인식에 대해 책임 추궁이 필요한 것으로 보."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n21002c26",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615166300054",
-    "title": "한밤중 차 몰다 동승 친구 숨지게 한 중학생 입건",
-    "summary": [
-      "(광주=연합뉴스) 김혜인 기자 = 광주 서부경찰서는 한밤중 광주 도심에서 차를 몰다 인명사고를 낸 혐의(교통사고처리특례법상 치사)로 A(14)군..."
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부와 이란 정권이 레바논 전선을 포함한 종전에 합의한 가운데, 레바논 내 친(親)이란 무장 세력 헤즈볼라가 환영 입장을 냈다.",
+      "헤즈볼라는 다만 이스라엘군이 전면 철수할 때까지 전선을 유지하겠다고 밝혔다.",
+      "이스라엘은 철수를 일축하고 있어 전쟁이 조기 종식될 가능성은 낮다는 관측이 나온다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n94f77e1d",
+    "id": "n34b2a776",
     "category": "사회",
     "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616001300085",
+    "title": "영국총리 겨냥 방화 우크라인 유죄평결…\"배후에 러시아\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 키어 스타머 영국 총리를 겨냥한 연쇄 방화 혐의로 기소된 우크라이나인이 영국 법원에서 유죄 평결을 받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neacdaa3a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/06/16/WPDTHCGXMBGLLNAPDSEY6ZK4H4/",
+    "title": "李, 잠실 봉쇄 시위에 “민간인 출입제한 등 업무 방해 엄중 수사”",
+    "summary": [
+      "李, 잠실 봉쇄 시위에 “민간인 출입제한 등 업무 방해 엄중 수사”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4308db53",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/politics/election2026/2026/06/16/WWSF7ZWRIVC7DKG5P72EZRYJCY/",
+    "title": "대선 참관한다며 몰디브 가고… 현장 개표 본다며 피렌체 출장",
+    "summary": [
+      "대선 참관한다며 몰디브 가고… 현장 개표 본다며 피렌체 출장."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73a1d022",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/06/16/SYRDH5576ZC37H4Y4Y5R7EIMGI/",
+    "title": "허위병가 셀프 결재한 사무국장… 골프·여행 접대 받은 직원들도",
+    "summary": [
+      "허위병가 셀프 결재한 사무국장… 골프·여행 접대 받은 직원들도."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n38c0e6e6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/06/16/6INYF3NSJJAINE7BCXLZ2OYLPU/",
+    "title": "‘연어 술자리’ 현장 검증… 이화영 진술 신빙성 놓고 공방",
+    "summary": [
+      "‘연어 술자리’ 현장 검증… 이화영 진술 신빙성 놓고 공방."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7d0fb908",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616001200071",
+    "title": "[속보] 美당국자 \"트럼프·밴스, 이란 갈리바프가 MOU 서명했다\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8e02df05",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616001100034",
+    "title": "[부고] 김희량(헤럴드경제 건설부동산부 기자)씨 외조모상",
+    "summary": [
+      "[부고] 김희량(헤럴드경제 건설부동산부 기자)씨 외조모상."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nd143694c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260615165451001",
+    "title": "伊동포 만난 李대통령 \"투표권 행사 못하는 건 심각한 문제\"(종합)",
+    "summary": [
+      "(바티칸=연합뉴스) 임형섭 고동욱 기자 = 바티칸을 공식 방문 중인 이재명 대통령은 15일(현지시간) 이탈리아에 거주 중인 한국 교민들을 오찬 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc76dd902",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003670155",
+    "title": "이 대통령, 伊교민 만나 \"투표권 행사 지장, 참으로 심각한 문제\"(종합)",
+    "summary": [
+      "[로마=뉴시스] 김지은 기자 = 이재명 대통령은 15일(현지시간) 이탈리아 교민들을 만나 \"대한민국 국민이자 주권자들이 행정적인 문제 때문에 투표권을 행사하지 못하고, 주권을 행사 못 하는 건 참으로 심각한 문제\"라고 말했다.",
+      "이 대통령은 이날 로마의 한 호텔에서 열린 동포 오찬 간담회에서 이같이 말하며 \"재외국민 투표 문제도 최대한 신속하게 해결하도록 노력하겠다\"고 밝혔다.",
+      "이어 \"재외국민의 의사가 모국의 국정에 제대로 반영되도록 하는 게 매."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n50ad39de",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "25분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/16/2026061600294263629",
+    "title": "\"멜로니 伊 총리가 더 빠른 것 같아\"…李 대통령, 감탄한 이유",
+    "summary": [
+      "[the300] 이재명 대통령이 \"조르자 멜로니 이탈리아 총리의 일처리 속도가 놀라울 정도\"라고 치켜세웠다.",
+      "이 대통령은 15일(현지시간) 이탈리아 로마 시내 한 호텔에서 열린 동포 오찬간담회에서 박이태 가이드협회회장이 \"대통령께서 지난 금요일 멜로니 총리와 만나 언급했던 공인가이드 자격증 관련 민원에 대해 휴일임에도 불구하고 어제 이탈리아 측에서 연락이 왔다\"고 하자 이같이 밝혔다.",
+      "이 대통령은 지난 10일 이탈리아에 국빈 자격으로 방문해 지."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3d6ce5ac",
+    "category": "IT",
+    "source": "동아일보",
     "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260615084351009",
-    "title": "우크라는 여전히 폭음…\"러 공습에 세계유산 화재, 11명 사망\"(종합)",
+    "url": "https://www.donga.com/news/Economy/article/all/20260615/134116365/2",
+    "title": "‘AI 거짓말’에 당하지 않게… ‘걸러내는 AI’ 뜬다",
     "summary": [
-      "(서울·이스탄불=연합뉴스) 곽민서 기자 김동호 특파원 = 러시아가 우크라이나 수도 키이우를 공습해 세계 문화유산에 불이 나고 수십 명의 사상자가..."
+      "이달 13일(현지 시간) 글로벌 회계·컨설팅 기업 KPMG가 인공지능(AI) 활용 실태를 다룬 자체 보고서를 긴급 회수했다.",
+      "AI가 사실이 아닌 내용을 그럴듯하게 지어내는 이른바 ‘환각’(할루시네이션) 탓에 보고서 곳곳에 사실이 아닌 내용이 섞여든 사실이 뒤늦게 드러났기 때문이다.",
+      "보고서에는 스위스은행 UBS 등 여러 기관의 AI 활용에 대한 허위 내용이 들어 있었다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "n985bfeb6",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "32분 전",
-    "url": "https://view.asiae.co.kr/article/2026061521290492884",
-    "title": "창작 뮤지컬 '어쩌면 해피엔딩' 전국 투어 성황리 마무리",
+    "id": "n37afffb4",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260615/134116382/2",
+    "title": "서울 집값 처음 10억 넘어… 아파트 전세, 1.15% 껑충",
     "summary": [
-      "창작 뮤지컬 '어쩌면 해피엔딩' 10주년 기념 전국 투어가 지난 14일 제주 공연을 끝으로 성황리에 막을 내렸다고 제작사 NHN링크가 15일 밝혔다.",
-      "이번 전국 투어는 지난 2월 부산을 시작으로 대전, 광주, 용인, 인천, 세종, 전주, 평택, 수원, 창원, 대구, 천안, 울산, 당진, 고양, 제주 등 16개 도시에서 총 78회에 걸쳐 진행됐다.",
-      "NHN링크는 전 회차 매진과 함께 평균 객석 점유율 100%(유료 객석 점유율 92%)를 기록했다고."
+      "지난달 서울 아파트 전세 가격이 1% 넘게 오르면서 2015년 이후 가장 높은 상승률을 기록했다.",
+      "서울 주택 평균 매매 가격도 처음으로 10억 원을 넘어섰다.",
+      "15일 한국부동산원이 발표한 월간주택가격동향에 따르면 5월 서울 아파트 전세가격은 전월보다 1.15% 올랐다."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "n51f0714d",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260615/134116384/2",
+    "title": "美 ‘앤스로픽 AI 외국인 차단’에… 전 세계 ‘AI 주권’ 논쟁 후끈",
+    "summary": [
+      "미국 정부가 국가 안보를 이유로 자국 인공지능(AI) 기업 앤스로픽의 최신 모델 ‘페이블 5’와 ‘미토스 5’의 수출을 제한해 외국인 사용을 전격 차단하면서 전 세계에 ‘AI 주권’(소버린 AI) 논쟁이 불붙고 있다.",
+      "14일(현지시간) 블룸버그 통신 등 외신에 따르면 프랑스 에비앙레뱅 주요 7개국(G7) 정상회의를 앞두고 이날 아일랜드를 찾은 마크 카니 캐나다 총리는 “이번 사태는 특정 모델에 지나치게 의존할 때 닥칠 수 있는 위험을 보여준다”."
+    ],
+    "chips": [
+      "#AI",
+      "#수출"
+    ]
+  },
+  {
+    "id": "n65e1e611",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260615/134116802/2",
+    "title": "상용 근로자 26년 만에 감소… 20, 30대 19만여명 줄어 ‘직격탄’",
+    "summary": [
+      "지난달 고용 안정성이 높은 상용 근로자 수가 26년 5개월 만에 감소했다.",
+      "제조업 고용 부진이 길어지는 가운데 인공지능(AI)을 활용하는 기업이 늘어나며 20, 30대 상용직 감소 폭이 두드러졌다.15일 국가데이터처 국가통계포털에 따르면 지난달 임금 근로자 중 상용 근로자는 1674만 명으로, 1년 전보다 7000명 줄었다.",
+      "상용직은 고용 계약 기간이 정해지지 않았거나 1년 이상인 근로자로, 정규직이 포함돼 안정적인 일자리로 분류된다."
+    ],
+    "chips": [
+      "#AI",
+      "#고용"
+    ]
+  },
+  {
+    "id": "ne3cfea7f",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260615_0003669682",
+    "title": "\"주식 팔고 현금 쌓는다\"…美슈퍼리치들의 수상한 움직임",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자 = 미국의 초고액 자산가들이 주식 비중을 줄이고 현금 보유를 늘리고 있는 것으로 나타났다.",
+      "높은 시장 변동성과 인플레이션 우려, 자산가격 고평가 논란이 이어지면서 안전자산과 대체투자에 대한 관심이 커지고 있다는 분석이다.",
+      "지난 13일(현지 시간) 미국 금융전문 매체 머니와이즈에 따르면 미국의 금융투자회사인 골드만삭스 조사 결과 투자 가능 자산 100만 달러(약 15억원) 이상을 보유한 고액 자산가들은 지난해 순자산의."
     ],
     "chips": [
       "#뉴스"
@@ -644,20 +636,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "정치",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
