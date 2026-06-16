@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-16 11:45:16
+// 마지막 업데이트: 2026-06-16 13:33:39
 window.NEWS_DB = [
   {
     "id": "nd5fd772f",
     "category": "IT",
     "source": "매일일보",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10c01pU0hySjgtX3hoeXpmSzZwVC0xTDdpa1RmZE9hTjZnS3FKRFRMbHFRd1RBWFVwcGZkUnh0dGhwdnFubFl1bHFIcVF5OEtMalZ2SWYya19jNFZ3anNmaWY4dEQ?oc=5",
     "title": "삼성 vs SK하이닉스, AI 반도체 '패키징·수율'서 갈린다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n845e7066",
     "category": "IT",
     "source": "매일경제",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YVTJvVTRSa01vanBrSFVMYTZxMlNhbTdscG9yb2lybDExODVqWkt1VFRyNmR3R0g5MURvanRlUm9JLVNNdkxnUUx6bVgyUQ?oc=5",
     "title": "빅테크 ‘탈엔비디아’ 외쳤지만…엔비디아, 추론칩 점유율 74%",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "nf3565e6d",
     "category": "IT",
     "source": "세종의소리",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JQ1Z1QXI4WXF3a1NDWG83U2t5Q1V1M21TXy1JSS1NR3UyUVJ3WVVVODl6ZVBMQS1fNVBJZERrZ2FVdVNnYWZ1TDhzOHVaal9ZVDZlZ3U2ajY0LUItNzViVkNFbDU5bzQ?oc=5",
     "title": "엔비디아, 30조 회사채 발행 추진…한국 AI·반도체 산업엔 기회인가 경고인가",
     "summary": [
@@ -62,10 +62,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na128ef1c",
+    "category": "IT",
+    "source": "디일렉",
+    "time": "15시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NRkg3WVU3bEJTZ0ktZkRyejNibUhmMG5MQWpzajdsSjFYeGR1LVdxRGpPd3hxQmExUnhnZmljaWNZYXFLd1A0bGNPSVVWZG41N3BUMWpoNlRydjZJUEgycWVxUkh6UQ?oc=5",
+    "title": "아이에스티이, 국내 CSP와 엔비디아 HGX 서버 PoC...페가트론 협력",
+    "summary": [
+      "아이에스티이, 국내 CSP와 엔비디아 HGX 서버 PoC...페가트론 협력 디일렉."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "ndd68810e",
     "category": "경제",
     "source": "파이낸셜포스트",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBWWFoTG95WHFwNkNrbW1wQmE0QzJSem5kS201emZPRm9zOGtjSmdmRW8yaWNPUWxxTGQwMDlQdVBWekp3b3ZVM3pHWTNSQ1V2OG1pMlpLVHNZYW53aU02aWl1Z3FES0xzdWRzbkhha1VzMXpa?oc=5",
     "title": "이란 종전에도 '엔저 고착화' 日 눈치보는 韓...코스피 미칠 BOJ 여파 촉각",
     "summary": [
@@ -73,20 +87,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf0ea0ae",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "18시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UR1EtU3RET2lPY1FaVmtPeENHV3lpSVl0RUVMX3daNlBBT2NLQS1MSDVycERRNm0ySF9xLVJoWDd1MG0wRW56OGdJNms1NktNR28xTHlMZkRIU0XSAWBBVV95cUxOUHJDNFlEaEhWbXY5ZV9zRXQ0OFFyMml5VXkzMXpVeVJtUnU2VWFTMnFEdU5QT2ltZWF6aVhFOW9KNzItV2NKV3VGVEVLYWk0OG5WQ3hkU2JfMVMzWTZsSTU?oc=5",
-    "title": "엔비디아, 5년 만에 회사채 발행 검토…최소 30조원 규모",
-    "summary": [
-      "엔비디아, 5년 만에 회사채 발행 검토…최소 30조원 규모 연합뉴스."
-    ],
-    "chips": [
-      "#엔비디아"
     ]
   },
   {
@@ -118,6 +118,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n09c3f669",
+    "category": "사회",
+    "source": "케이에스피뉴스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1naDducjJDUTZZYUE3UnM1Nk1xVnVKUlphVnV1ZzY2YU84VGhva29Bc0hXQ2xQVjJQNlFmOE1CUmx6Qmhm?oc=5",
+    "title": "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최",
+    "summary": [
+      "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최 케이에스피뉴스."
+    ],
+    "chips": [
+      "#채용",
+      "#고용"
+    ]
+  },
+  {
     "id": "n7c9e9138",
     "category": "경제",
     "source": "한국경제",
@@ -136,7 +151,7 @@ window.NEWS_DB = [
     "id": "n12ca2e79",
     "category": "스포츠",
     "source": "네이트",
-    "time": "5일 전",
+    "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
     "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
     "summary": [
@@ -193,21 +208,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "27일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
-    ]
-  },
-  {
     "id": "n269e2609",
     "category": "부동산",
     "source": "v.daum.net",
@@ -238,29 +238,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "63일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
-    "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
-    "id": "ncbcb6c77",
+    "id": "n783ebe44",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "100일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "source": "테크M",
+    "time": "76일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -278,6 +263,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "nbc92ef7c",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "117일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
+    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
+    "summary": [
+      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -374,263 +374,252 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8e2e8743",
-    "category": "IT",
-    "source": "동아일보",
+    "id": "n6d6f11ff",
+    "category": "스포츠",
+    "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260616/134123866/1",
-    "title": "백악관, 中 연계 의심 韓 통신사 미토스 접근 차단",
+    "url": "https://www.newsis.com/view/NISX20260616_0003671688",
+    "title": "노르웨이, 바이킹 미화 논란…사령탑 \"선수들도 원한 콘셉트\"[월드컵24시]",
     "summary": [
-      "최근 미국이 앤스로픽의 최상위 인공지능(AI) 모델의 외국인 사용을 전면 차단한 배경엔 중국과 연계된 것으로 의심되는 한국 통신사의 접근 시도가 영향을 미쳤다고 워싱턴포스트(WP)가 15일 전했다.WP는 백악관 당국자 2명을 인용해 도널드 트럼프 행정부가 앤스로픽 AI 최신 모델 ‘페이블 5’와 ‘미토스 5’에 대한 외국 국적자 접근 중단을 요구하기 수주 전부터 수출통제 방안을 검토했다고 보도했다.",
-      "이런 가운데 앤스로픽이 제출한 미토스 사용 허."
-    ],
-    "chips": [
-      "#AI",
-      "#수출"
-    ]
-  },
-  {
-    "id": "naea830e3",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003671695",
-    "title": "사우디도 무승부…아시아팀 1차전 모든경기 '무패 행진'",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵 초반 아시아 축구의 돌풍이 이어지고 있다.",
-      "아시아축구연맹(AFC) 소속 국가들이 유럽과 남미 강호들을 상대로 무패 행진을 달리는 가운데, 사우디아라비아가 2회 우승국 우루과이와 무승부를 거두며 상승세를 이어갔다.",
-      "16일 오전 7시(한국시간) 미국 마이애미 스타디움에서 열린 월드컵 H조 1차전에서 사우디아라비아는 우루과이와 1-1로 비겼다."
+      "[서울=뉴시스]문채현 기자 = 28년 만에 월드컵 무대를 밟는 노르웨이가 '바이킹 콘셉트'를 앞세워 선전을 노린다.",
+      "이에 대한 논란도 뒤따랐으나 노르웨이 대표팀은 크게 신경쓰지 않는 모양새다.",
+      "노르웨이는 오는 17일(한국 시간) 미국 매사추세츠주 보스턴의 보스턴 스타디움에서 열리는 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 I조 1차전 이라크전을 통해 월드컵 경기를 시작한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6f494aa5",
-    "category": "스포츠",
+    "id": "n90dd8744",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003671697",
-    "title": "잠실 개표소 시위 참가자 돌로 폭행…40대 남성 검거",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003671729",
+    "title": "[속보]이 대통령, G7 정상회의 환영행사 참석…트럼프도 대면",
     "summary": [
-      "[서울=뉴시스]신유림 기자 = 6·3 지방선거 투표용지 부족 사태를 규탄하는 잠실 개표소 봉쇄 시위 과정에서 다른 시위 참가자들을 돌로 폭행한 남성이 경찰에 붙잡혔다.",
-      "16일 경찰에 따르면 서울 송파 경찰서는 특수폭행 혐의를 받는 40대 남성 A씨를 현행범으로 인수해 조사 중이다.",
-      "A씨는 이날 오후 4시께 서울 송파구 올림픽공원 핸드볼경기장 인근에서 20대 남성과 60대 여성 시위 참가자를 돌로 폭행한 혐의를 받는다."
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 kje1321@newsis.com."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0967bd3f",
+    "id": "n89e7f8d1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/16/MIZTCYZQMZTDOZBVGFRGKNTFMQ/",
+    "title": "김호령 10호+김도영 20호 아치 쾅쾅 → 오스틴X박동원X웰스 '천적' LG 벽 높았다…KIA 잡고 3연승 선두 질주 [광주리뷰]",
+    "summary": [
+      "[광주=스포츠조선 김영록 기자] 홈런 2방씩을 주고받았지만, 스코어보드는 6점 차이였다.",
+      "웰스의 호투와 오스틴-박동원의 불방망이가 어우러진 LG 트윈스가 3연승을 내달렸다.",
+      "LG는 16일 광주 기아챔피언스필드에서 열린 KIA 타이거즈와의 시즌 9차전에서 8대2로 완승을 거뒀다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n58bcce77",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/16/MRRGEOBUHBSDCNJVG5STCZTDMM/",
+    "title": "‘응급 수술’ 받은 김보미, 고통 호소하던 중 다시 병원 찾았다 “마취 안 한대서 무서워”",
+    "summary": [
+      "[OSEN=임혜영 기자] 김보미가 요로결석 수술 이후 근황을 전했다.김보미는 지난 15일 개인 채널에 “요로결석 수술 때 몸에 스탠드 박아 놓은 거 너무 아프다.",
+      "왼쪽 전체가 아파오는데 이거 뭐지”라는 글을 게재했다.최근 김보미는 요로결석으로 응급 수술을 받았다고 고백했다.",
+      "그는 수술 당시 개인 채널을 통해 “슬슬 아프더니 데구루루 굴렀다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8517993a",
+    "category": "사회",
+    "source": "동아일보",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616162700009",
-    "title": "중국 서부 칭하이서 규모 6.3 지진…\"사망 1명\"",
+    "url": "https://www.donga.com/news/Society/article/all/20260616/134125334/1",
+    "title": "종합특검, 홍장원 前국정원 차장 계엄사 지원 방안 논의 정황 확보",
     "summary": [
-      "(서울=연합뉴스) 차병섭 기자 = 중국 서부 칭하이성에서 발생한 규모 6.3 지진으로 사상자가 나왔다."
+      "12·3 비상계엄에 국가정보원이 계엄에 가담했다는 의혹을 수사하는 2차 종합특검팀(특별검사 권창영)이 홍장원 전 국가정보원 1차장이 계엄사령부 업무를 지원하는 방안을 논의한 정황을 포착한 것으로 나타났다.16일 법조계에 따르면 종합특검팀은 최근 홍 전 차장이 비상계엄 선포 직후 열린 부서장 회의에서 계엄에 협조한 정황을 확인했다.홍 전 차장은 지난 2024년 12월 3일 계엄 선포 이후 국정원에서 열린 정무직 회의와 부서장 회의에 참석했고 이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n756effd3",
+    "id": "n3bfb1c33",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260616/134121618/1",
+    "title": "“이란에 항복, 빌어먹을 MOU” 美보수 폭발…트럼프 “이란 핵 보유시도땐 지옥같은 재앙”",
+    "summary": [
+      "J D 밴스 미국 부통령과 모하마드 바게르 갈리바프 이란 국회의장이 19일(현지 시간) 스위스 제네바에서 종전을 위한 양해각서(MOU) 서명 행사를 가질 예정인 가운데, 미국 보수 진영에서 이번 MOU에 대한 반발이 커지고 있다.",
+      "구체적인 핵폐기 약속을 끌어내지 못한 채 이란에 과도하게 양보했다는 것.",
+      "특히 MOU 문안을 공개하라는 요구가 커지자 도널드 트럼프 미 대통령은 “며칠 내로 언론에 설명하겠다”고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4b54df2b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/16/AE3I73DUZFCVNPOBLZZIEX755Q/",
+    "title": "국힘, 경찰과 충돌 영상 올려... “보좌진 팔목 비틀고 목덜미 잡아”",
+    "summary": [
+      "경찰과 국민의힘 측이 물리적으로 부딪치는 영상이 온라인에서 퍼지며 논란이 일고 있다.",
+      "신동욱 국민의힘 최고위원은 16일 소셜미디어(SNS)에 “서울경찰청 고위 간부가 국회 대표단을 수행하던 보좌진의 촬영을 방해하기 위해 물리력을 행사하고 목을 조르려는 난동을 벌였다”며 해당 영상을 게시했다.",
+      "이 영상에는 경찰이 보좌진으로 추정되는 인물의 뒷목을 잡으려 하자."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n80d1394d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616161851530",
-    "title": "일본 군마·사이타마현 규모 5.5 지진…\"쓰나미 우려 없어\"(종합)",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616161451081",
+    "title": "트럼프 \"이란, 핵무기 확보하려 하면 지옥 같은 재앙 닥칠 것\"(종합)",
     "summary": [
-      "(도쿄=연합뉴스) 조성미 특파원 = 16일 오후 7시 46분께 일본 혼슈 중부 군마현 남부와 사이타마현 북부에서 규모 5.5의 지진이 발생했다."
+      "(파리=연합뉴스) 송진원 특파원 = 도널드 트럼프 미국 대통령은 16일(현지시간) 이란이 종전 양해각서(MOU)에 따라 핵무기를 보유하지 못할 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5f7efea3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/national/incident/2026/06/16/3ZRENCE6O5BKZCXNL3CLCBGS2Y/",
+    "title": "대구 앞산 산책길에서 12일 만에 멧돼지 출몰 신고...수색 중",
+    "summary": [
+      "대구 앞산 산책길에서 12일 만에 멧돼지 출몰 신고...수색 중."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n349fe03c",
+    "id": "nf79d512e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616167600054",
+    "title": "청소년 흡연 훈계하다 흉기 위협한 50대 남성 송치",
+    "summary": [
+      "(광주=연합뉴스) 김혜인 기자 = 광주 광산경찰서는 청소년을 흉기로 위협한 혐의(특수협박)로 50대 남성 A씨를 불구속 송치했다고 16일 밝혔다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f6dd068",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026061622180849079",
+    "title": "[속보] 李대통령, G7 정상회의 환영식 참석…트럼프와 짧은 환담",
+    "summary": [
+      "[속보] 李대통령, G7 정상회의 환영식 참석…트럼프와 짧은 환담."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5f12a0da",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616167800098",
+    "title": "유럽의회, 美 무역협정 승인…트럼프 마감시한 맞춰",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽의회가 도널드 트럼프 미국 대통령이 최후 통첩한 시한을 앞두고 작년 7월 유럽연합(EU)과 미국이 합의..."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2faf5f53",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "17분 전",
+    "url": "https://www.hankyung.com/article/2026061603697",
+    "title": "성매매 경찰 단속 중 '알몸 촬영' 당했다면…법원의 판단은",
+    "summary": [
+      "성매매 경찰 단속 중 '알몸 촬영' 당했다면…법원의 판단은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd21b2eda",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "18분 전",
+    "url": "https://www.hankyung.com/article/2026061603877",
+    "title": "\"맥주 마시면 모기 더 잘 물린다\"…'특정 혈액형 선호'는 근거 없어",
+    "summary": [
+      "\"맥주 마시면 모기 더 잘 물린다\"…'특정 혈액형 선호'는 근거 없어."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0b8106e1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616167900001",
+    "title": "[속보] 李대통령, G7 정상회의 환영행사 참석…트럼프와도 대면",
+    "summary": [],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "neeac4485",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003671691",
-    "title": "LG 오스틴·KIA 김도영, 나란히 시즌 20호포…홈런 공동 선두(종합)",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003671674",
+    "title": "[KBO 내일의 선발투수]6월17일(수)",
     "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 LG 트윈스 외국인 거포 오스틴 딘과 KIA 타이거즈 간판타자 김도영이 나란히 시즌 20호 홈런을 날리며 치열한 타이틀 경쟁을 이어갔다.",
-      "오스틴은 16일 광주-기아 챔피언스필드에서 벌어진 2026 신한 쏠 KBO리그 KIA 타이거즈와의 원정 경기에 3번 타자 1루수로 선발 출전해 1회 솔로 홈런을 폭발했다.",
-      "1회초 2사에서 첫 타석에 들어선 오스틴은 KIA 오른손 선발 투수 시라카와 게이쇼의 커브를 걷어."
+      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 6월17일(수)> ▲잠실(오후 6시30분) KT (맷 사우어) - (타카다 타쿠토) 두산 ▲대구(오후 6시30분) 키움 (박준현) - (최원태) 삼성 ▲문학(오후 6시30분) 롯데 (박세웅) - (김건우) SSG ▲광주(오후 6시30분) LG (장현식) - (아담 올러) KIA ▲창원(오후 6시30분) 한화 (류현진) - (라일리 톰슨) NC."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n5965b3f1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003671694",
-    "title": "도레이첨단소재, 메타 아라미드 2호기 준공…3000t 생산",
-    "summary": [
-      "[구미=뉴시스] 박홍식 기자 = 도레이첨단소재는 16일 경북 구미 1공장에서 연산 3000t 규모의 메타 아라미드 섬유 2호기 증설을 완료하고 준공식을 열었다.",
-      "이번 증설은 기존 생산라인을 포함해 연산 총 5400t 규모의 생산 능력을 확보하며 글로벌 수요 증가에 대응할 수 있는 공급체계를 구축했다.",
-      "준공식에는 이철우 경북도지사, 김장호 구미시장, 박교상 구미시의회 의장, 니시무라 토모노부(西村 友伸) 도레이 섬유사업본부장, 큐노 모토히사 (及."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e78b1ae",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/16/HA2DKNZVGI2GKZJXMI4GMOJQMY/",
-    "title": "김도영 보고있나! 오스틴, 20홈런 선착…4년 연속 20홈런+16G 연속 안타 '불방망이' [광주현장]",
-    "summary": [
-      "[광주=스포츠조선 김영록 기자]LG 트윈스 오스틴이 시즌 20호 홈런을 쏘아올렸다.",
-      "오스틴은 16일 광주 기아챔피언스필드에서 열린 KIA 타이거즈와의 주중시리즈 1차전에서 1회말 2사 없는 상황에 등장, 선제 솔로포를 쏘아올렸다.",
-      "이날 LG는 홍창기(우익수) 박해민(중견수) 오스틴(1루) 문보경(3루) 문성주(좌익수) 송찬의(지명타자) 박."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nff364d45",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260616/134121805/1",
-    "title": "프랑스-독일, 전차 공동개발 좌초 위기…‘유럽 자강론’ 삐걱",
-    "summary": [
-      "미국이 북대서양조약기구(NATO·나토)의 작전 지원을 위해 유럽에 제공해 온 전투기와 군함 등 군사자산 지원 축소를 통보한 가운데, 독일과 프랑스가 전투기에 이어 차세대 전차 공동 개발에서도 파열음을 내고 있다.",
-      "두 나라가 함께 설립한 방산 기업의 지분 등을 놓고 주도권 경쟁을 벌이면서 갈등이 깊어지고 있는 것이다.",
-      "또 한번 유럽의 차세대 무기 개발 프로젝트가 좌초될 위기에 처했다는 관측이 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n211928a8",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616157451007",
-    "title": "'장군멍군' 오스틴·김도영 뜨거운 홈런경쟁…나란히 시즌 20호(종합)",
-    "summary": [
-      "(서울=연합뉴스) 천병혁 기자 = 김도영(KIA 타이거즈)과 오스틴 딘(LG 트윈스)의 홈런 레이스가 뜨거운 날씨만큼 후끈 달아오르고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf7f69155",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026061620214781463",
-    "title": "독일 총리, 트럼프 생일 맞아 등번호 '47' 적힌 유니폼 선물",
-    "summary": [
-      "프리드리히 메르츠 독일 총리가 도널드 트럼프 미국 대통령의 생일 선물로 독일 축구대표팀 월드컵 유니폼을 선물했다.",
-      "16일(현지시간) 뉴욕포스트 등 외신에 따르면 메르츠 총리는 이날 프랑스 에비앙레뱅에서 열리는 주요 7개국(G7) 정상회의에서 트럼프 대통령을 만나 트럼프의 성과 등번호 '47'이 새겨진 독일 축구팀 유니폼을 선물했다.",
-      "등번호 '47'은 트럼프 대통령이 미국 제47대 대통령이라는 점을 반영한 번호로 보인다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n425d4000",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616163100004",
-    "title": "경찰이 국민의힘 보좌진 폭행?…신동욱 의원 SNS 영상 확산",
-    "summary": [
-      "(서울=연합뉴스) 조현영 기자 = 경찰과 국민의힘 측이 물리적으로 충돌하는 영상이 온라인에서 빠르게 확산하며 논란을 빚고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndfcfc4d8",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/16/GY4WCOBRGMZTMMBRMYZGMMJYMQ/",
-    "title": "'이럴 수가' KIA 상대 7이닝 완벽했던 한화 에이스, NC전 4회 못 버티고 6실점 붕괴 [오!쎈 창원]",
-    "summary": [
-      "[OSEN=창원, 조은혜 기자] 프로야구 한화 이글스 오웬 화이트가 4이닝을 버티지 못하고 무너졌다.화이트는 16일 창원 NC파크에서 열린 2026 신한 SOL KBO리그 NC 다이노스와의 원정경기에서 선발투수로 등판했으나 3⅔이닝 8피안타 2사사구 2탈삼진 6실점으로 부진했다.",
-      "최고 154km/h 직구에 스위퍼를 위주로, 체인지업과 커브, 투심, 커터를."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ndfadd101",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/16/HEYGKNRYGNQWMOJUGFRGENJZME/",
-    "title": "트럼프 “이란, 핵무기 확보 시도하면 지옥 같은 재앙 닥칠 것”",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 16일(현지 시각) 이란이 이번 종전 양해각서(MOU)에 따라 핵무기를 보유하지 않을 것이라고 거듭 강조하며, 이란이 핵무기 보유를 시도할 경우 “지옥 같은 재앙이 닥칠 것”이라고 밝혔다.",
-      "로이터 등 외신에 따르면 트럼프 대통령은 주요 7개국(G7) 정상회의 이틀째인 이날 타밈 빈 하마드 알사니 카타르 군주와의 회동 및 기자들과."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n83ed08a6",
+    "id": "nb83b2324",
     "category": "사회",
     "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026061620211177538",
-    "title": "경찰, '취재진 폭행' 잠실 시위자 1명 특정…출석 요구",
+    "time": "26분 전",
+    "url": "https://view.asiae.co.kr/article/2026061622070638058",
+    "title": "李대통령 \"분단 한반도서 평화의 유산을\"…세계청년대회 계기 교황 방한 기대",
     "summary": [
-      "경찰이 6·3 지방선거 개표 상황을 취재하던 기자를 폭행한 피의자로 잠실 개표소 봉쇄 시위 참가자 중 1명의 신원을 확인하고 본격적인 수사에 나섰다.16일 서울 송파경찰서는 \"지난 5일 송파구 올림픽공원에서 발생한 취재기자 상대 폭행 등 불법행위 피의자 중 1명을 특정해 출석을 요구했다\"고 밝혔다.",
-      "경찰은 \"언론의 자유를 위협하는 이번 사건의 심각성을 엄중하게 인식하고 있으며 신속하고 철저히 수사할 방침\"이라고 했다."
+      "이재명 대통령은 16일(현지시간) \"한반도의 평화와 더 넓은 세계의 평화는 깊이 연결돼 있다\"며 \"평화는 사람들이 만나 서로의 이야기에 귀 기울이고, 서로가 같은 인간임을 인식할 때 시작된다\"고 밝혔다.",
+      "내년 서울에서 열리는 세계청년대회를 앞두고 단순한 종교 행사를 넘어, 분단 한반도에서 대화와 연대, 평화의 메시지를 발신한 것이다.",
+      "이 대통령은 이날 교황청 선교 전문매체 피데스 통신에 공개한 '2027 서울 세계청년대."
     ],
     "chips": [
       "#정치"
-    ]
-  },
-  {
-    "id": "n992f04a4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "25분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260616/134124786/1",
-    "title": "이화아트센터서 한진수 교수 상수전…대표작 100여 점 전시",
-    "summary": [
-      "이화여자대학교 조형예술대학 서양화 전공이 20일까지 서울 서대문구 이화아트센터에서 ‘석정 한진수 교수 상수(上壽)전’을 연다.",
-      "올해 100세를 맞은 한국 현대미술 1세대 여성 작가인 한 교수의 80년 화업을 조명한다.한 교수는 광복 직후인 1945년 국내 최초의 4년제 미술교육 과정인 이화여대 예림원 미술학부 서양화과 제1회 입학생으로, 졸업 후에는 한국 최초 여성미술가 단체인 ‘녹미회’ 창립 멤버로 활동하며 대한민국 미술전람회 등 다양한 전시."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n2279b0a3",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260616/134124779/1",
-    "title": "숲과나눔, 이재용 개인전 ‘오랜 정원에서’ 선보여",
-    "summary": [
-      "재단법인 숲과나눔이 이재용 개인전 ‘오랜 정원에서’를 27일까지 서울 종로구 사직동 공간풀숲에서 연다.",
-      "숲과나눔의 ‘에코포토 아카이브’에 탑재한 작가의 작품을 조명하는 기획전으로 자연 풍경을 담은 작가의 사진과 영상 설치작품 24점을 선보인다.이 작가는 경기 안성에 있는 자신의 정원 속 식물들을 채집해 표본을 만들고 그것을 촬영하는 과정을 통해 이미지를 완성한다.",
-      "특히 이번 전시에는 카본 프린트로 제작한 사진이 전시된다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -640,20 +629,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "정치",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
