@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-16 17:40:11
+// 마지막 업데이트: 2026-06-16 19:10:27
 window.NEWS_DB = [
   {
     "id": "nd5fd772f",
     "category": "IT",
     "source": "매일일보",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10c01pU0hySjgtX3hoeXpmSzZwVC0xTDdpa1RmZE9hTjZnS3FKRFRMbHFRd1RBWFVwcGZkUnh0dGhwdnFubFl1bHFIcVF5OEtMalZ2SWYya19jNFZ3anNmaWY4dEQ?oc=5",
     "title": "삼성 vs SK하이닉스, AI 반도체 '패키징·수율'서 갈린다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n845e7066",
     "category": "IT",
     "source": "매일경제",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YVTJvVTRSa01vanBrSFVMYTZxMlNhbTdscG9yb2lybDExODVqWkt1VFRyNmR3R0g5MURvanRlUm9JLVNNdkxnUUx6bVgyUQ?oc=5",
     "title": "빅테크 독립선언에도 ‘엔비디아 독재’ 끄덕없다…추론칩서도 넘사벽",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "nf3565e6d",
     "category": "IT",
     "source": "세종의소리",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JQ1Z1QXI4WXF3a1NDWG83U2t5Q1V1M21TXy1JSS1NR3UyUVJ3WVVVODl6ZVBMQS1fNVBJZERrZ2FVdVNnYWZ1TDhzOHVaal9ZVDZlZ3U2ajY0LUItNzViVkNFbDU5bzQ?oc=5",
     "title": "엔비디아, 30조 회사채 발행 추진…한국 AI·반도체 산업엔 기회인가 경고인가",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "na128ef1c",
     "category": "IT",
     "source": "디일렉",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NRkg3WVU3bEJTZ0ktZkRyejNibUhmMG5MQWpzajdsSjFYeGR1LVdxRGpPd3hxQmExUnhnZmljaWNZYXFLd1A0bGNPSVVWZG41N3BUMWpoNlRydjZJUEgycWVxUkh6UQ?oc=5",
     "title": "아이에스티이, 국내 CSP와 엔비디아 HGX 서버 PoC...페가트론 협력",
     "summary": [
@@ -79,7 +79,7 @@ window.NEWS_DB = [
     "id": "ndd68810e",
     "category": "경제",
     "source": "파이낸셜포스트",
-    "time": "19시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBWWFoTG95WHFwNkNrbW1wQmE0QzJSem5kS201emZPRm9zOGtjSmdmRW8yaWNPUWxxTGQwMDlQdVBWekp3b3ZVM3pHWTNSQ1V2OG1pMlpLVHNZYW53aU02aWl1Z3FES0xzdWRzbkhha1VzMXpa?oc=5",
     "title": "이란 종전에도 '엔저 고착화' 日 눈치보는 韓...코스피 미칠 BOJ 여파 촉각",
     "summary": [
@@ -311,10 +311,187 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n46259cb8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003671573",
+    "title": "대구·경북 구름 많고 최고 32도 더위…일부 지역 소나기",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 수요일인 17일 대구와 경상북도는 구름 많고 소나기가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"오후부터 밤사이 경북서부내륙 일부 지역에 5~30㎜의 소나기가 오겠다\"고 예보했다.",
+      "아침 최저기온은 15~19도(평년 13~19도), 낮 최고기온은 25~32도(평년 23~29도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b158b11",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/17/GIZDOZLDMUYGEYZSMIZDOOJYMU/",
+    "title": "\"이게 팀이야!\" '어떻게 바로 떠나' 이란 캡틴 결국 분노 폭발 \"이건 재앙이고 스트레스…FIFA 뭐 하는 거야\"",
+    "summary": [
+      "[스포츠조선 김가을 기자]'이란의 캡틴' 메흐디 타레미가 결국 폭발했다.",
+      "영국 언론 더선은 16일(이하 한국시각) '타레미는 이란이 2026년 북중미월드컵 첫 경기를 마치자마자 미국을 떠나야 한다는 명령을 받았다고 주장했다.",
+      "그는 국제축구연맹(FIFA)이 아무런 조치를 취하지 않았다고 비난했다'고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ff4afbe",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260617_0003671780",
+    "title": "이재명 대통령 \"北문제 해결 주도해 달라\"…트럼프 \"노력하겠다\" [뉴시스Pic]",
+    "summary": [
+      "[에비앙·서울=뉴시스]최동준 김지은 김경록 기자 = 주요7개국(G7) 정상회의에 참석 중인 이재명 대통령이 16일(현지시간) 도널드 트럼프 미국 대통령을 만나 북한 문제의 평화적 해결을 주도해달라고 요청했다.",
+      "이에 트럼프 대통령은 노력하겠다는 의사를 밝혔다.",
+      "이 대통령은 이날 오후 3시 프랑스 에비앙에 위치한 G7 정상회의장에서 열린 공식 환영식에 참석해 트럼프 대통령과 만나 사진 촬영 전 약 30초 간 대화를 나눴다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbbcf0a30",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260617003800071",
+    "title": "\"美, 이스라엘의 '종전MOU' 열람 요구 거절…사전 유출 우려\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 도널드 트럼프 행정부가 이란과 종전을 위한 양해각서(MOU)에 이미 전자 서명을 한 것으로 알려진 가..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4f0c7f1c",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260617003900002",
+    "title": "달러-원, 이란 종전 합의에 위험 선호 유지…1,508.30원 마감",
+    "summary": [
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 낙폭을 조금 더 늘렸다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "ncac9d02b",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260617_0003671775",
+    "title": "브렌트유, 80달러선 깨져…3개월來 최저",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 미국이 종전 합의에 따라 이란의 원유 판매를 허용할 것으로 알려지면서 16일(현지 시간) 국제유가가 3개월 만에 최저치로 떨어졌다.",
+      "CNBC에 따르면 국제유가 기준인 브렌트유는 이날 장중 한때 5% 급락하며 배럴당 78.94달러를 기록했다.",
+      "80달러선이 붕괴된 것은 지난 3월 이후 처음이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc336c685",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "41분 전",
+    "url": "https://www.chosun.com/international/us/2026/06/17/RS2WH2QQHVEKXDEV4YGEVAD6O4/",
+    "title": "적진으로 뛰어든 美부통령… “트럼프 통역사냐?” 질문에도 여유만만",
+    "summary": [
+      "적진으로 뛰어든 美부통령… “트럼프 통역사냐?” 질문에도 여유만만."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n76333dcc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "49분 전",
+    "url": "https://www.newsis.com/view/NISX20260617_0003671773",
+    "title": "美FBI \"백악관 UFC 겨냥 공격 음모 인지해 관련자들 체포\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령 80세 생일에 맞춰 개최된 백악관 종합격투기 UFC 행사를 겨냥한 드론 및 총기 위협을 미 연방수사국(FBI)이 사전 인지해 관련자들을 체포한 사실이 드러났다.",
+      "캐시 파텔 미 연방수사국(FBI) 국장은 16일(현지 시간) 소셜미디어(SNS) 엑스(X)에 UFC 행사와 관련한 잠재적 위협을 지난 10일 파악해 법무부 및 각주와 합동작전을 전개했다고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n23d297ee",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "49분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/06/17/2C7SLJAVQFGQTAMVF5MTWVWOCQ/",
+    "title": "李대통령, 독일·캐나다 정상과 연쇄 회담...‘잠수함 수주’ 논의?",
+    "summary": [
+      "李대통령, 독일·캐나다 정상과 연쇄 회담...‘잠수함 수주’ 논의?."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbb6983cf",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260617003400072",
+    "title": "캐나다, 러시아 '그림자 선단' 등에 신규제재 부과",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 캐나다 정부가 러시아의 에너지 및 방위 산업 분야 등을 겨냥해 신규 제재를 부과키로 했다고 16일(현지시간)..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n61f3bb65",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616170151081",
+    "title": "중동 위기 넘긴 G7, 우크라전 종식 위해 대러 압박 강화(종합)",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 미·이란 종전 합의로 한숨 돌린 서방이 장기 과제인 우크라이나 전쟁 해결을 위해 러시아 압박을 강화하기로 다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a3e7874",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260617002451072",
+    "title": "\"美, 19일 종전합의 서명후 이란산 석유판매 제재완화 적용\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국이 이란과의 종전 합의 서명 직후 이란산 석유 판매에 대한 제재 면제를 즉시 발효하기로 했다고 월스트리트..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n8e5591e4",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152657",
     "title": "[카드뉴스] 넥슨이 말한 AI 시대에서 게임회사가 살아남는 법?.. 결국 답은 '이용자 경험'과 'IP 확장'이다",
     "summary": [
@@ -327,178 +504,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0f8152ec",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003671765",
-    "title": "美, 이란 석유 판매 19일 즉시 허용…금융·운송 제재도 완화",
-    "summary": [
-      "[서울=뉴시스]신정원 기자 = 미국과 이란 간 종전 합의에 따라 이란이 원유와 연료 판매를 재개할 수 있게 됐다고 월스트리트저널(WSJ)이 16일(현지 시간) 보도했다.",
-      "WSJ은 정통한 소식통을 인용해 \"이번 합의에 따라 미국은 이란이 즉시 원유와 연료를 판매할 수 있도록 허용할 것\"이라며 \"이는 이란에게 전쟁을 조기에 종식하도록 유도하는 재정적 인센티브를 제공할 것\"이라고 전했다.",
-      "소식통들에 따르면 원유 판매 제재 유예 조항은 이번 주 합의안."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb818bc55",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/17/G5TDQOBSMM2GENZWMU3GKNTDGI/",
-    "title": "52억원의 무게 → LG 필승조 아닌 4선발 확정+송승기 컴백 임박…염갈량의 '왕조' 청사진 공개",
-    "summary": [
-      "[광주=스포츠조선 김영록 기자] \"4~5선발은 장현식-송승기로 간다.\" LG 트윈스의 '왕조 구축'을 위한 선발진의 청사진이 공개됐다.",
-      "16일 광주 기아챔피언스필드에서 만난 염경엽 감독은 \"(지난 8일 담 증상으로 빠진)송승기는 최종 점검이 한번 더 필요하다.",
-      "다음주 로테이션에 잡혀 있지만, 안전하게 한번더 검사한다\"면서 \"내일 선발은 장현식이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncc7ec451",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/17/HFRWMZTEMNSWMYRXGE3TAZRVGQ/",
-    "title": "\"1년 더 뛰겠다\" 6승 에이스는 왜 상무지원 철회했나...150세이브 우승마무리, 시즌 마치고 군대간다",
-    "summary": [
-      "[OSEN=광주, 이선호 기자] \"1년 더 뛰겠다\".KIA타이거즈 150세이브 정해영(25)이 시즌을 마치고 군복무를 위해 입대한다.",
-      "나이가 꽉 찼기에 더 이상 병역의무를 미룰 수 없다.",
-      "대신 국내파 에이스 황동하(24)는 상무지원을 철회하고 한 시즌 더 뛰기로 결정했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n40e1d3a3",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616169551072",
-    "title": "스페이스X, 연일 고공행진…아마존·MS 제치고 한때 시총 4위(종합)",
-    "summary": [
-      "(뉴욕·로스앤젤레스=연합뉴스) 이지헌 김경윤 특파원 = 사상 최대 규모 기업공개(IPO)로 지난주 뉴욕증시에 성공적으로 데뷔한 스페이스X가 3거..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf51a4a64",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003671772",
-    "title": "이 대통령 \"AI 결과물 모든 국가가 공유하고 함께 성장하는 게 중요\"",
-    "summary": [
-      "[에비앙=뉴시스] 김지은 기자 = 이재명 대통령은 16일(현지시간) 오후 프랑스 에비앙에서 열린 주요 7개국(G7) 정상회의 확대회의 첫 세션에 참석해 각국 정상들과 개발협력 강화를 위한 다양한 해법을 논의했다.",
-      "이 대통령은 '새로운 파트너십 구축과 국제 연대 재건' 제목의 첫 세션에서 개발협력을 통한 수원국의 자립 역량 제고와 수원국(수혜국)과 공여국간 상호 호혜적인 파트너십 발전 방안을 모색했다.",
-      "이번 세션에는 G7 회원국 외에 우리나라를."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n66be12e7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617002400072",
-    "title": "[속보] \"美, 종전합의 서명후 이란산 원유 제재면제 적용\" < WSJ >",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6a6ac300",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617001151001",
-    "title": "李대통령 \"캐나다에 큰 은혜 입어…협력 구체적으로 발전\"(종합)",
-    "summary": [
-      "(에비앙=연합뉴스) 임형섭 고동욱 기자 = 주요 7개국(G7) 정상회의 참석을 위해 프랑스 에비앙을 찾은 이재명 대통령이 16일(현지시간) 마크..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n217da3f0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003671771",
-    "title": "李 \"중동전쟁 해결한 것처럼 北문제 해결 주도해달라\"…트럼프 \"노력하겠다\"(종합)",
-    "summary": [
-      "[에비앙·서울=뉴시스]김경록 김지은 기자 = 주요7개국(G7) 정상회의에 참석 중인 이재명 대통령이 16일(현지시간) 도널드 트럼프 미국 대통령을 만나 북한 문제의 평화적 해결을 주도해달라고 요청했다.",
-      "이에 트럼프 대통령은 노력하겠다는 의사를 밝혔다.",
-      "이 대통령은 이날 오후 3시 프랑스 에비앙에 위치한 G7 정상회의장에서 열린 공식 환영식에 참석해 트럼프 대통령과 만나 사진 촬영 전 약 30초 간 대화를 나눴다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf4081568",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616167952001",
-    "title": "李대통령 \"北문제 평화적 해결 주도\" 요청…트럼프 \"노력하겠다\"(종합)",
-    "summary": [
-      "(에비앙=연합뉴스) 임형섭 고동욱 기자 = 이재명 대통령은 16일(현지시간) 프랑스 에비앙레뱅 주요 7개국(G7) 정상회의 초청국 환영행사에 참..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n56ed3821",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/17/2026061702180924782",
-    "title": "\"기술 전수로 산업발전\" 李 대통령, G7서 'LG직업 훈련학교' 꺼낸 이유",
-    "summary": [
-      "[the300] 이재명 대통령이 G7(주요 7개국) 정상회의에 참석해 \"대한민국 정부는 '원조받던 나라'에서 '원조하는 나라'로 성장한 경험과 역량을 바탕으로 국제 파트너십을 구축해 나가는데 나름의 책임과 역할을 다하겠다\"고 밝혔다.",
-      "이 대통령은 16일 오후(현지시간) 프랑스 에비앙에서 열린 G7 정상회의 확대회의 첫 세션에서 이같이 밝혔다.",
-      "이날 첫 세션은 '새로운 파트너십 구축과 국제 연대 재건'이라는 주제로 진행됐다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "needd7d24",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/17/GUZWMNLFG44GEMZYGUYTEYRQGY/",
-    "title": "‘메시 보기 부끄럽지 않아?’ 아르헨티나팬들, 알제리팬들과 뉴욕 한복판에서 집단난투극",
-    "summary": [
-      "[OSEN=서정환 기자] 메시 보기 부끄럽지 않아?아르헨티나대표팀은 17일 오전 10시(한국시간) 미국 미주리주 캔자스시티의 애로우 헤드 스타디움에서 알제리를 상대로 2026 국제축구연맹(FIFA) 북중미 월드컵 J조 1차전을 치른다.",
-      "디펜딩챔피언 아르헨티나는 대회 2연패에 도전한다.",
-      "경기를 앞두고 아르헨티나와 알제리 축구 팬들이 미국 뉴욕 한복판에서 충."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7e0051ff",
     "category": "사회",
     "source": "동아일보",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260617/134125935/1",
     "title": "아차차! 생활비 보냈다가 증여세 폭탄?…자산가들의 실질 대응법",
     "summary": [
@@ -514,7 +523,7 @@ window.NEWS_DB = [
     "id": "ndbb232ea",
     "category": "사회",
     "source": "동아일보",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260617/134125930/1",
     "title": "“더울땐 맥주가 딱이지”…요로결석 위험도 커진다",
     "summary": [
@@ -527,26 +536,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n902cf33d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/17/MM3TSYLDGQ2TGYLBME3DCNTDME/",
-    "title": "'선발 예정' 오타니 부상!? 등판 전 불펜 투구 패스…대체 왜? 로버츠가 밝힌 이유는",
-    "summary": [
-      "[스포츠조선 박상경 기자] 오타니 쇼헤이(LA 다저스)가 선발 등판 전 불펜 투구를 건너 뛰어 궁금증을 자아내고 있다.",
-      "일본 매체 풀카운트는 16일 '탬파베이 레이스전(18일) 선발로 예고된 오타니가 불펜 투구를 하지 않은 채 캐치볼만 실시했다'고 전했다.",
-      "오타니는 이날 경기 전 롱토스 위주의 훈련을 한 것으로 전해졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n5f729ba4",
     "category": "IT",
     "source": "한국경제",
-    "time": "39분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026061604491",
     "title": "李 대통령, 佛 G7 정상회의 참석…'AI 기본사회' 비전 공유",
     "summary": [
@@ -558,75 +551,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc0bd2c83",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "39분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/06/17/2026061514130980762",
-    "title": "한국 의료 AI의 결정적 순간이 오고 있다[투데이 窓/최윤섭]",
-    "summary": [
-      "신의료기술 평가 유예 제도 상반기 종료 기업은 축적한 임상 근거 증명해야 하고 평가에 따른 합리적 보상체계 마련해야 한국에서 새롭게 개발된 의료 기술이 상용화되기 위해서는 닭과 달걀의 문제가 존재한다.",
-      "새로운 기술이 진료 현장에서 쓰이려면 신의료기술평가에서 안전성과 유효성을 증명해야 하는데, 이를 위해서는 임상적 근거가 필요하다.",
-      "그런데 이런 근거를 만드는 가장 효과적인 방법은 실제 의료 현장에서 사용해보는 것이다."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc4e9584d",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "39분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/06/17/2026061514264260533",
-    "title": "한은의 기준금리 입장 전환[MT시평/오건영]",
-    "summary": [
-      "중동 전쟁의 여파로 인해 높아진 물가는 각국의 중앙은행에 큰 부담 요인으로 작용하고 있다.",
-      "호주중앙은행은 연속 금리 인상에 나섰고, 산유국 노르웨이 역시 선제적인 금리 인상을 단행했다.",
-      "유럽중앙은행도 주요국 중앙은행 중에서 최초로 기준금리를 올렸으며, 물가 부담을 크게 느끼는 일본도 여기에 동참할 것으로 보인다."
-    ],
-    "chips": [
-      "#금리",
-      "#한은"
-    ]
-  },
-  {
-    "id": "n0da5a930",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003671770",
-    "title": "李, '60조 잠수함' 선정 앞두고 캐나다 총리와 양자회담…\"양국 협력할 게 많아\"(종합)",
-    "summary": [
-      "[에비앙=뉴시스] 김지은 기자 = 프랑스 에비앙에서 열린 주요 7개국(G7) 정상회의에 참석한 이재명 대통령이 16일(현지시간) 60조원 규모의 캐나다 차세대 잠수함(CPSP) 사업 최종 선정을 앞두고 마크 카니 캐나다 총리와 양자 회담을 했다.",
-      "이 대통령은 이날 오후 G7 확대회의에 참석한 후 카니 총리와 만나 \"(양국은) 서로 협력할 게 많다\"며 \"오늘 어떤 협력을 더 구체적으로 할지 한번 논의해보자\"고 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc809227c",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "42분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/17/2026061701544159684",
-    "title": "'60조 잠수함 수주' 발표 앞두고…李대통령, 독일·캐나다와 잇단 '회담'",
-    "summary": [
-      "[the300] 캐나다가 이르면 이달 말 총 사업비 약 60조원에 이르는 것으로 추정되는 잠수함 프로젝트(CPSP·Canadian Patrol Submarine Project) 수주 결과를 발표할 것인 가운데 이재명 대통령이 독일, 캐나다 정상과 연이어 회담에 나서 눈길을 끌었다.",
-      "독일은 이번 사업 관련, 우리의 경쟁국이다.",
-      "이 대통령은 16일(현지시간) 프랑스 에비앙에서 열린 G7(주요 7개국) 정상회의 참석을 계기로 프리드리히 메르츠 독일."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n56c601fb",
     "category": "사회",
     "source": "동아일보",
-    "time": "45분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260617/134125813/1",
     "title": "李 “아임 소 해피”… 獨-캐나다 총리와 연쇄 정상회담",
     "summary": [
@@ -634,6 +562,64 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n427bf8c2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2시간 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260617/134125895/1",
+    "title": "李 “중동전쟁처럼 北 문제 평화적 해결 주도해달라”… 트럼프 “北 문제 해결 위해 노력",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 16일(현지시간) 프랑스 에비앙에서 이재명 대통령을 만나 남북 관계의 근황을 물었다고 청와대 강유정 수석대변인이 서면 브리핑에서 밝혔다.이날 청와대에 따르면 이 대통령은 트럼프 대통령의 질문에 “트럼프 대통령이 중동전쟁을 해결한 것처럼 북한문제의 평화적 해결을 주도해 달라”고 요청했다.",
+      "이에 트럼프 대통령은 “북한문제의 해결을 위해 노력하겠다”는 의사를 밝히며 화답했다.앞서 이 대통령과 트럼프 대통령이 주요 7개국(."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n89a1a8bc",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026061604011",
+    "title": "中 딥시크 11조원 조달…량원펑은 지배권 유지",
+    "summary": [
+      "中 딥시크 11조원 조달…량원펑은 지배권 유지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9f894d9c",
+    "category": "IT",
+    "source": "테크M",
+    "time": "3시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152655",
+    "title": "[NDC 26] \"AI가 스토리텔링? 재미의 판단은 결국 인간이 해야\"",
+    "summary": [
+      "\"AI는 나의 결정을 빠르게 수행해주는 도구이지 생각하고 판단하는 주체가 아닙니다.",
+      "재미를 판단하는 건 게임을 즐기는 인간들입니다.\"이지영 넥슨코리아 기획자는 16일 오후 경기 성남시 판교 넥슨코리아 사옥에서 열린 '넥슨 개발자 컨퍼런스(NDC) 2026'에서 \"재미에 대한 판단은 인간이 해야만 하고, 인간이 할 수밖에 없다\"면서 이처럼 말했다.이지영 기획자는 페리아 연대기, 로스트아크, 프로젝트 EL 등에서 시나리오와 퀘스트를 만들어 왔다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n7dd71da4",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/202606170459i",
+    "title": "스페이스X, 시총 4위 도전…옵션 시장선 첫날부터 3위",
+    "summary": [
+      "스페이스X, 시총 4위 도전…옵션 시장선 첫날부터 3위."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -643,20 +629,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
