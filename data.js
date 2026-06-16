@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-16 13:33:39
+// 마지막 업데이트: 2026-06-16 15:37:32
 window.NEWS_DB = [
   {
     "id": "nd5fd772f",
     "category": "IT",
     "source": "매일일보",
-    "time": "7시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10c01pU0hySjgtX3hoeXpmSzZwVC0xTDdpa1RmZE9hTjZnS3FKRFRMbHFRd1RBWFVwcGZkUnh0dGhwdnFubFl1bHFIcVF5OEtMalZ2SWYya19jNFZ3anNmaWY4dEQ?oc=5",
     "title": "삼성 vs SK하이닉스, AI 반도체 '패키징·수율'서 갈린다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n845e7066",
     "category": "IT",
     "source": "매일경제",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YVTJvVTRSa01vanBrSFVMYTZxMlNhbTdscG9yb2lybDExODVqWkt1VFRyNmR3R0g5MURvanRlUm9JLVNNdkxnUUx6bVgyUQ?oc=5",
     "title": "빅테크 ‘탈엔비디아’ 외쳤지만…엔비디아, 추론칩 점유율 74%",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "nf3565e6d",
     "category": "IT",
     "source": "세종의소리",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JQ1Z1QXI4WXF3a1NDWG83U2t5Q1V1M21TXy1JSS1NR3UyUVJ3WVVVODl6ZVBMQS1fNVBJZERrZ2FVdVNnYWZ1TDhzOHVaal9ZVDZlZ3U2ajY0LUItNzViVkNFbDU5bzQ?oc=5",
     "title": "엔비디아, 30조 회사채 발행 추진…한국 AI·반도체 산업엔 기회인가 경고인가",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "na128ef1c",
     "category": "IT",
     "source": "디일렉",
-    "time": "15시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NRkg3WVU3bEJTZ0ktZkRyejNibUhmMG5MQWpzajdsSjFYeGR1LVdxRGpPd3hxQmExUnhnZmljaWNZYXFLd1A0bGNPSVVWZG41N3BUMWpoNlRydjZJUEgycWVxUkh6UQ?oc=5",
     "title": "아이에스티이, 국내 CSP와 엔비디아 HGX 서버 PoC...페가트론 협력",
     "summary": [
@@ -79,7 +79,7 @@ window.NEWS_DB = [
     "id": "ndd68810e",
     "category": "경제",
     "source": "파이낸셜포스트",
-    "time": "15시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBWWFoTG95WHFwNkNrbW1wQmE0QzJSem5kS201emZPRm9zOGtjSmdmRW8yaWNPUWxxTGQwMDlQdVBWekp3b3ZVM3pHWTNSQ1V2OG1pMlpLVHNZYW53aU02aWl1Z3FES0xzdWRzbkhha1VzMXpa?oc=5",
     "title": "이란 종전에도 '엔저 고착화' 日 눈치보는 韓...코스피 미칠 BOJ 여파 촉각",
     "summary": [
@@ -90,11 +90,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ned793644",
+    "id": "n0325eee6",
     "category": "IT",
     "source": "v.daum.net",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJVjk5cTljaW9ZellqRk5hTnVFNktiTHpFcC1MeHhEcHlheEdkX2FsNXV4XzNkd2F1bURTWms3NWkzUEVXYlE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mM0pBbXo4UHF6QTlGU2JVOEJQeEg3VmtpQ1dTZ01aR2VBamVKVUhiWlQ2bkVpLWRjaDQzb1JVaXRFUVZqN3UzTzdyUE5JaWVZUTNmcQ?oc=5",
     "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
     "summary": [
       "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? v.daum.net."
@@ -374,252 +374,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6d6f11ff",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003671688",
-    "title": "노르웨이, 바이킹 미화 논란…사령탑 \"선수들도 원한 콘셉트\"[월드컵24시]",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 28년 만에 월드컵 무대를 밟는 노르웨이가 '바이킹 콘셉트'를 앞세워 선전을 노린다.",
-      "이에 대한 논란도 뒤따랐으나 노르웨이 대표팀은 크게 신경쓰지 않는 모양새다.",
-      "노르웨이는 오는 17일(한국 시간) 미국 매사추세츠주 보스턴의 보스턴 스타디움에서 열리는 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 I조 1차전 이라크전을 통해 월드컵 경기를 시작한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n90dd8744",
+    "id": "n1e0420dc",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003671729",
-    "title": "[속보]이 대통령, G7 정상회의 환영행사 참석…트럼프도 대면",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260617/134125790/1",
+    "title": "진태현 “박시은 만나기 전 사람 아니었다…아내 사랑에 감사”",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 kje1321@newsis.com."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n89e7f8d1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/16/MIZTCYZQMZTDOZBVGFRGKNTFMQ/",
-    "title": "김호령 10호+김도영 20호 아치 쾅쾅 → 오스틴X박동원X웰스 '천적' LG 벽 높았다…KIA 잡고 3연승 선두 질주 [광주리뷰]",
-    "summary": [
-      "[광주=스포츠조선 김영록 기자] 홈런 2방씩을 주고받았지만, 스코어보드는 6점 차이였다.",
-      "웰스의 호투와 오스틴-박동원의 불방망이가 어우러진 LG 트윈스가 3연승을 내달렸다.",
-      "LG는 16일 광주 기아챔피언스필드에서 열린 KIA 타이거즈와의 시즌 9차전에서 8대2로 완승을 거뒀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n58bcce77",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/16/MRRGEOBUHBSDCNJVG5STCZTDMM/",
-    "title": "‘응급 수술’ 받은 김보미, 고통 호소하던 중 다시 병원 찾았다 “마취 안 한대서 무서워”",
-    "summary": [
-      "[OSEN=임혜영 기자] 김보미가 요로결석 수술 이후 근황을 전했다.김보미는 지난 15일 개인 채널에 “요로결석 수술 때 몸에 스탠드 박아 놓은 거 너무 아프다.",
-      "왼쪽 전체가 아파오는데 이거 뭐지”라는 글을 게재했다.최근 김보미는 요로결석으로 응급 수술을 받았다고 고백했다.",
-      "그는 수술 당시 개인 채널을 통해 “슬슬 아프더니 데구루루 굴렀다."
+      "배우 진태현이 아내 박시은을 만난 이후 변화를 고백하며 여전한 ‘사랑꾼’ 면모를 드러냈다.진태현은 16일 자신의 인스타그램에 “모두 건강하시죠? 스트레스받지 마시고 건강 잘 챙기세요”라는 문장으로 시작되는 글을 게재했다.이어 그는 “요즘 많은 분들이 저희 부부 많이 사랑해 주시고 인사해 주셔서 감사하고 몸 둘 바를 모르겠다”며 “앞으로도 지금처럼 잘 살겠다”고 전했다.",
+      "그러면서 “그런데 저는 아내를 만나기 전엔 정말 사람 아니었다”며 “남들처럼."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n8517993a",
+    "id": "n297a3979",
     "category": "사회",
     "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260616/134125334/1",
-    "title": "종합특검, 홍장원 前국정원 차장 계엄사 지원 방안 논의 정황 확보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260617/134125787/1",
+    "title": "‘신사’ 김재중 “14년만에 스크린 복귀, 연기 욕구 있었다”",
     "summary": [
-      "12·3 비상계엄에 국가정보원이 계엄에 가담했다는 의혹을 수사하는 2차 종합특검팀(특별검사 권창영)이 홍장원 전 국가정보원 1차장이 계엄사령부 업무를 지원하는 방안을 논의한 정황을 포착한 것으로 나타났다.16일 법조계에 따르면 종합특검팀은 최근 홍 전 차장이 비상계엄 선포 직후 열린 부서장 회의에서 계엄에 협조한 정황을 확인했다.홍 전 차장은 지난 2024년 12월 3일 계엄 선포 이후 국정원에서 열린 정무직 회의와 부서장 회의에 참석했고 이."
+      "가수 겸 배우 김재중이 오랜만에 스크린 연기에 도전한 이유를 밝혔다.김재중은 16일 오후 서울 삼청동에 위치한 한 카페에서 영화 ‘신사: 악귀의 속삭임’ 인터뷰를 진행했다.이날 김재중은 14년 만에 스크린 복귀한 것에 대해 “배우라는 직업이 너무 오랜만이기도 하고, 심지어 영화라 뭔가 낯섦과 두려움이 있었다”라며 “새로 도전하고 싶은 욕구들은 늘상 가지고 있었는데 뭔가 상황적으로 여의찮아서 못 했던 것도 있었지만 연기를 할 때 즐거움이 굉장히."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3bfb1c33",
+    "id": "n0e7da51c",
     "category": "사회",
     "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260616/134121618/1",
-    "title": "“이란에 항복, 빌어먹을 MOU” 美보수 폭발…트럼프 “이란 핵 보유시도땐 지옥같은 재앙”",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260617/134125783/1",
+    "title": "샌드위치 패널 타고 확산…인천 공장 화재 20시간 만에 완진",
     "summary": [
-      "J D 밴스 미국 부통령과 모하마드 바게르 갈리바프 이란 국회의장이 19일(현지 시간) 스위스 제네바에서 종전을 위한 양해각서(MOU) 서명 행사를 가질 예정인 가운데, 미국 보수 진영에서 이번 MOU에 대한 반발이 커지고 있다.",
-      "구체적인 핵폐기 약속을 끌어내지 못한 채 이란에 과도하게 양보했다는 것.",
-      "특히 MOU 문안을 공개하라는 요구가 커지자 도널드 트럼프 미 대통령은 “며칠 내로 언론에 설명하겠다”고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4b54df2b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/06/16/AE3I73DUZFCVNPOBLZZIEX755Q/",
-    "title": "국힘, 경찰과 충돌 영상 올려... “보좌진 팔목 비틀고 목덜미 잡아”",
-    "summary": [
-      "경찰과 국민의힘 측이 물리적으로 부딪치는 영상이 온라인에서 퍼지며 논란이 일고 있다.",
-      "신동욱 국민의힘 최고위원은 16일 소셜미디어(SNS)에 “서울경찰청 고위 간부가 국회 대표단을 수행하던 보좌진의 촬영을 방해하기 위해 물리력을 행사하고 목을 조르려는 난동을 벌였다”며 해당 영상을 게시했다.",
-      "이 영상에는 경찰이 보좌진으로 추정되는 인물의 뒷목을 잡으려 하자."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n80d1394d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616161451081",
-    "title": "트럼프 \"이란, 핵무기 확보하려 하면 지옥 같은 재앙 닥칠 것\"(종합)",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 도널드 트럼프 미국 대통령은 16일(현지시간) 이란이 종전 양해각서(MOU)에 따라 핵무기를 보유하지 못할 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5f7efea3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/national/incident/2026/06/16/3ZRENCE6O5BKZCXNL3CLCBGS2Y/",
-    "title": "대구 앞산 산책길에서 12일 만에 멧돼지 출몰 신고...수색 중",
-    "summary": [
-      "대구 앞산 산책길에서 12일 만에 멧돼지 출몰 신고...수색 중."
+      "인천의 한 제조공장에서 발생해 인근 공장들로 번진 큰불이 약 20시간 만에 완진됐다.16일 인천소방본부에 따르면 이날 오전 1시49분께 서구 원창동의 한 공장밀집지역에서 불이 났다는 119신고가 접수됐다.신고를 받고 출동한 소방당국은 소방관 등 인력 465명과 소방헬기 등 장비 155대를 동원해 이날 오후 1시17분께 초기 진화를 완료했다.이어 화재 발생 19시간55분 만인 이날 오후 9시44분께 불을 완전히 껐다.원인이 밝혀지지 않은 이번 화."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf79d512e",
+    "id": "n2930988d",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616167600054",
-    "title": "청소년 흡연 훈계하다 흉기 위협한 50대 남성 송치",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260617/134125780/1",
+    "title": "푸틴 풍자한 러 출신 망명 화가 폴란드서 피살…“근거리서 총격”",
     "summary": [
-      "(광주=연합뉴스) 김혜인 기자 = 광주 광산경찰서는 청소년을 흉기로 위협한 혐의(특수협박)로 50대 남성 A씨를 불구속 송치했다고 16일 밝혔다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f6dd068",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026061622180849079",
-    "title": "[속보] 李대통령, G7 정상회의 환영식 참석…트럼프와 짧은 환담",
-    "summary": [
-      "[속보] 李대통령, G7 정상회의 환영식 참석…트럼프와 짧은 환담."
+      "블라디미르 푸틴 대통령을 비롯한 러시아 정치인들의 풍자화로 유명한 러시아 출신 화가이자 행위 예술가가 15일(현지시간) 폴란드에서 총에 맞아 숨졌다고 러시아 독립매체 ‘메두자’ 등이 보도했다.",
+      "보도에 따르면 지난 2021년 폴란드로 이주한 러시아 출신 풍자화가 세묜 스크레페츠키가 이날 벨라루스 국경에서 가까운 폴란드 도시 비아와포들라스카의 한 주차장에서 총격으로 사망했다.",
+      "경찰은 사망자의 신원이 확인됐다면서도 이름은 공개하지 않고, 44세 러시."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n5f12a0da",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616167800098",
-    "title": "유럽의회, 美 무역협정 승인…트럼프 마감시한 맞춰",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽의회가 도널드 트럼프 미국 대통령이 최후 통첩한 시한을 앞두고 작년 7월 유럽연합(EU)과 미국이 합의..."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2faf5f53",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "17분 전",
-    "url": "https://www.hankyung.com/article/2026061603697",
-    "title": "성매매 경찰 단속 중 '알몸 촬영' 당했다면…법원의 판단은",
-    "summary": [
-      "성매매 경찰 단속 중 '알몸 촬영' 당했다면…법원의 판단은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd21b2eda",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "18분 전",
-    "url": "https://www.hankyung.com/article/2026061603877",
-    "title": "\"맥주 마시면 모기 더 잘 물린다\"…'특정 혈액형 선호'는 근거 없어",
-    "summary": [
-      "\"맥주 마시면 모기 더 잘 물린다\"…'특정 혈액형 선호'는 근거 없어."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b8106e1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616167900001",
-    "title": "[속보] 李대통령, G7 정상회의 환영행사 참석…트럼프와도 대면",
-    "summary": [],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "neeac4485",
+    "id": "nc398a742",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003671674",
-    "title": "[KBO 내일의 선발투수]6월17일(수)",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/17/MRTGMMBZMEZGGYZTGQ4TGZLEMU/",
+    "title": "\"'대충격' 당장 미국 떠나라니\" '약체' 뉴질랜드와 '2-2' 비긴 것도 서러운데, 이란 '강제 퇴출'…'캡틴' 타레미 \"모든 게 재앙\", 감독 \"억압 참담\" 맹비난",
     "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 6월17일(수)> ▲잠실(오후 6시30분) KT (맷 사우어) - (타카다 타쿠토) 두산 ▲대구(오후 6시30분) 키움 (박준현) - (최원태) 삼성 ▲문학(오후 6시30분) 롯데 (박세웅) - (김건우) SSG ▲광주(오후 6시30분) LG (장현식) - (아담 올러) KIA ▲창원(오후 6시30분) 한화 (류현진) - (라일리 톰슨) NC."
+      "[스포츠조선 김성원 기자]우여곡절의 연속이다.",
+      "이란이 악전고투 끝에 '약체'인 뉴질랜드와 아쉽게 비겼다.",
+      "이란은 16일(이하 한국시각) 미국 캘리포니아주 LA 스타디움에서 열린 뉴질랜드와의 2026년 북중미월드컵 조별리그 G조 1차전에서 2대2로 비겼다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb83b2324",
+    "id": "n52f29aa3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/17/MY3DGNBTMU2WEMJXMFSGEZTGMY/",
+    "title": "“나랑 결혼 안 했으면..” 문희준, 13살 연하 ♥소율 향한 진심(동상이몽2)[종합]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 문희준, 소율이 서로를 향한 진심 어린 사랑을 표현했다.16일 방송된 SBS ‘동상이몽2 - 너는 내 운명’(이하 동상이몽2)에는 ‘아이돌 1호 부부’ 문희준, 소율이 출연했다.문희준, 소율의 집에 장수원이 방문했다.",
+      "문희준은 “육아템 챙겨드리고 밥도 대접하려고”라고 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naa394ecb",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003670758",
+    "title": "\"재개발 집 준다더니\" 결혼 전 약속 깬 시부모…결국 이혼 통보받은 남편",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 재개발이 끝나면 살고 있던 집을 넘겨주겠다고 결혼 전에 약속했던 시부모가 이를 어겼다는 사연이 알려졌다.",
+      "지난 14일 한 온라인 커뮤니티에 '시부모와의 돈 문제'라는 제목의 글이 올라왔다.",
+      "작성자 A씨는 9년 전 아내와 결혼했다고 밝혔다."
+    ],
+    "chips": [
+      "#재건축"
+    ]
+  },
+  {
+    "id": "nf68b51a6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/06/17/53JCQJ4HAVE2ZHFKUQQ5LYEVXU/",
+    "title": "[사설] “급식·청소 업체와도 본사가 교섭” 무한 교섭 현실화",
+    "summary": [
+      "[사설] “급식·청소 업체와도 본사가 교섭” 무한 교섭 현실화."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n990570bc",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616170600061",
+    "title": "이화영 前 변호인 설주완 \"검사실 연어·술판 흔적 없었다\"",
+    "summary": [
+      "(수원=연합뉴스) 권준우 기자 = 이화영 전 경기도 평화부지사의 '검사실 술 파티 위증' 혐의 국민참여재판에서 이 전 부지사의 과거 변호인이었던..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf3729b47",
     "category": "사회",
     "source": "아시아경제",
-    "time": "26분 전",
-    "url": "https://view.asiae.co.kr/article/2026061622070638058",
-    "title": "李대통령 \"분단 한반도서 평화의 유산을\"…세계청년대회 계기 교황 방한 기대",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026061700174239114",
+    "title": "박종훈 경남교육감, 경남형 돌봄모델 '늘봄' 국회 제안 … \"국가 책임지는 공적 돌봄 필요\"",
     "summary": [
-      "이재명 대통령은 16일(현지시간) \"한반도의 평화와 더 넓은 세계의 평화는 깊이 연결돼 있다\"며 \"평화는 사람들이 만나 서로의 이야기에 귀 기울이고, 서로가 같은 인간임을 인식할 때 시작된다\"고 밝혔다.",
-      "내년 서울에서 열리는 세계청년대회를 앞두고 단순한 종교 행사를 넘어, 분단 한반도에서 대화와 연대, 평화의 메시지를 발신한 것이다.",
-      "이 대통령은 이날 교황청 선교 전문매체 피데스 통신에 공개한 '2027 서울 세계청년대."
+      "박종훈 경남교육감이 '경남형 돌봄센터'를 기반으로 한 공적 돌봄 책임 체계 모델을 국회에 공식 제안했다.",
+      "경남교육청은 16일 서울 국회의원회관에서 도 교육청과 고민정 국회의원이 공동 주관한 '지속가능한 공적돌봄체계 구축 방안 제안 보고회'를 열었다.",
+      "이 자리에서 박 교육감은 경남의 거점통합돌봄센터 '늘봄' 등 경남형 돌봄 운영사례를 설명하고 국회와 국가교육위원회, 교육부에 정책 지원을 요청했다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0d05b83d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260617_0003671758",
+    "title": "G7 정상회의 참석한 이재명 대통령, '주요국 정상 만나 대화' [뉴시스Pic]",
+    "summary": [
+      "[제네바·서울=뉴시스]최동준 김지은 김경록 기자 = 2년 연속 G7(주요7개국) 정상회의에 참석한 이재명 대통령이 16일(현지시간) 주요국 정상들과 만나 인사를 나눴다.",
+      "도널드 트럼프 미국 대통령과 대화를 나누는 모습도 포착됐다.",
+      "이 대통령은 이날 오후 3시 프랑스 에비앙에 위치한 G7 정상회의장에서 열린 공식 환영식에 참석했다."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n0798a5ee",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003671751",
+    "title": "크렘린 \"젤렌스키, 모스크바로 와라\"…美·佛서 회담 제안 일축",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 러시아는 볼로디미르 젤렌스키 우크라이나 대통령이 미국 또는 프랑스에서 러·우 정상회담을 갖자고 제안한 것에 대해 \"모스크바에 오라\"며 사실상 거부했다.",
+      "타스통신에 따르면 드미트리 페스코프 크렘린궁 대변인은 16일(현지 시간) 브리핑에서 \"젤렌스키가 책임감 있고 진지하게 대화할 준비가 돼 있다면 언제든 모스크바에 오라\"며 \"러시아는 그를 맞이할 준비가 돼 있다\"고 밝혔다.",
+      "이어 \"블라디미르 푸틴 러시아 대통령은 이미."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbb57fea4",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/17/2026061615151226756",
+    "title": "평일 경기인데 KIA 구단 '또' 새 역사! 13G 연속 매진 신기록... 김도영 20홈런만이 반겼다 [광주 현장]",
+    "summary": [
+      "KIA 타이거즈 김도영(23)이 짜릿한 20번째 아치로 평일 경기임에도 전 좌석을 꽉 채워준 홈팬들을 반겼다.",
+      "KIA는 16일 광주-기아챔피언스필드에서 열린 2026 신한 SOL KBO리그 정규시즌 홈경기에서 LG 트윈스에 2-8로 패했다.",
+      "이로써 2연패에 빠진 KIA는 34승 1무 32패로 4위에 머물렀다."
+    ],
+    "chips": [
+      "#KBO",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n05682d65",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003670334",
+    "title": "\"남편, 아이 친구 엄마와 몰래 만났다\"…블랙박스에 찍힌 '수상한 관계'",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 남편이 아이 친구의 엄마와 부적절한 관계로 지내왔다는 증거를 발견한 여성의 사연이 알려졌다.",
+      "16일 YTN 라디오 '조인섭 변호사의 상담소'는 초등학생 아이 두 명을 키우는 워킹맘 A씨의 제보를 소개했다.",
+      "A씨는 \"아이들이 학교에 입학했을 때 한 아이들 친구 가족과 알게 됐다\"고 밝혔다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n40d58735",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/17/FRH43DRVG5BHTPE6WZTRYNQGSI/",
+    "title": "“스위스 제네바 아닌 뷔르겐슈토크”... 종전 서명식, 유명 휴양지서 열린다",
+    "summary": [
+      "“스위스 제네바 아닌 뷔르겐슈토크”... 종전 서명식, 유명 휴양지서 열린다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf8d36492",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616171400071",
+    "title": "종전 MOU에 회고록 출간…차기 대권행보 속도내는 '2인자' 밴스",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미국과 이란이 14일(현지시간) 종전 양해각서(MOU) 체결에 합의한 뒤 JD 밴스 미 부통령은 어느 때보..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n173e8e8e",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "36분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/17/2026061610444211105",
+    "title": "'경력 25년' 교수 감탄 \"심리학 이론 무너졌다\"... '홍명보호 신데렐라' 이기혁 맹활약 비화 공개 [월드컵 현장]",
+    "summary": [
+      "베테랑 정신의학과 교수도 놀란 정도다.",
+      "이번 대회에서 깜짝 선발로 나서며 눈부신 활약을 펼친 이기혁(강원FC)의 흔들림 없는 플레이 뒤에는 25년 경력의 전문가마저 놀라게 한 신세대 선수들 특유의 단단한 멘털이 있었음이 밝혀졌다.",
+      "대표팀 멘탈 코치 한덕현 중앙대 정신건강의학과 교수는 14일 오전(현지시간) 멕시코 과달라하라 사포판의 치바스 베르데 바예 훈련장에서 진행된 미디어 인터뷰에서 이번 대표팀 어린 선수들의 심리 상태에 대해 깊은 감탄했다."
+    ],
+    "chips": [
+      "#의료"
     ]
   }
 ];
@@ -629,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "1940건",
-    "trend": "+195%"
-  },
-  {
-    "rank": 3,
     "tag": "AI",
     "mentions": "1810건",
     "trend": "+175%"
+  },
+  {
+    "rank": 3,
+    "tag": "정책",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
