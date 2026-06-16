@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>주식 시그널 대시보드</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header class="header">
+    <div class="logo">📈 주식 시그널 대시보드</div>
+    <div class="phase" id="phase">-</div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <div class="search-wrap">
+        <input id="tickerInput" type="text" placeholder="종목명(한글) 또는 종목코드 입력 (예: 삼성전자, 005930)" autocomplete="off">
+        <div id="suggestions" class="suggestions"></div>
+      </div>
+      <button id="addBtn">추가</button>
+      <button id="refreshBtn">새로고침</button>
+      <select id="intervalSelect">
+        <option value="0">자동 갱신 끔</option>
+        <option value="60000">1분마다</option>
+        <option value="300000">5분마다</option>
+        <option value="600000">10분마다</option>
+      </select>
+    </section>
+
+    <details class="rules-panel" open>
+      <summary>🧭 종합 판단 기준 (메인 - 주식투자 정리노트 v1)</summary>
+      <ul class="glossary">
+        <li><b>① 펀더멘털(실적)</b>: 현재 EPS 대비 컨센서스 EPS 추정치 추세로 실적 개선/둔화 기대를 판단합니다.</li>
+        <li><b>② 매크로(금리·환율·지수)</b>: 코스피 지수, 미국채10년, 원/달러 환율의 최근 5거래일 흐름으로 시장 전체 환경을 판단합니다.</li>
+        <li><b>③ 수급(외국인·기관)</b>: 최근 5거래일 외국인·기관 누적 순매수 방향으로 큰 손의 매매 흐름을 판단합니다.</li>
+        <li><b>④ 투자심리·이벤트</b>: 실시간 기사 제목의 긍정/부정 키워드와 네 마녀의 날(쿼드러플 위칭데이) 여부를 반영합니다.</li>
+        <li><b>⑤ 밸류에이션(52주 위치)</b>: 현재가가 52주 최고/최저 범위에서 어디에 위치하는지로 고평가/저평가 구간을 판단합니다.</li>
+        <li>5개 항목을 각각 -1~+1점으로 채점해 합산한 <b>종합 점수(-5~+5)</b>로 "매수 관심 / 중립(보유·관망) / 매도·비중 축소 검토"를 안내합니다.</li>
+      </ul>
+    </details>
+
+    <details class="rules-panel">
+      <summary>📋 10대 매매 원칙 (차트/시간대 참고용 - 보조 지표)</summary>
+      <ol id="rulesList"></ol>
+    </details>
+
+    <details class="rules-panel">
+      <summary>ℹ️ 지표 설명 (RSI / 이동평균선 / 52주 고저 / 거래량비)</summary>
+      <ul class="glossary">
+        <li><b>RSI(14)</b>: 최근 14일간 상승폭과 하락폭의 비율로 계산하는 과매수·과매도 지표. <b>70 이상</b>이면 과매수(단기 과열, 하락 전환 주의), <b>30 이하</b>면 과매도(단기 바닥, 반등 가능성), <b>30~70</b>은 중립 구간.</li>
+        <li><b>5일선 / 20일선</b>: 최근 5거래일·20거래일 평균 종가. 20일선은 한 달 추세를 나타내는 지지선/저항선 역할을 하며, 가격이 이를 이탈하면 추세 전환 신호로 봅니다.</li>
+        <li><b>52주 최고/최저</b>: 최근 1년간 최고가·최저가. 현재가가 이 범위의 상단/하단 5% 이내면 "고가권/저가권"으로 판단합니다.</li>
+        <li><b>거래량비</b>: 오늘 거래량 ÷ 최근 20일 평균 거래량. 1.5배 이상이면 "거래량 급증"으로 보고 가격 위치와 함께 매수/매도 신호 판단에 활용합니다.</li>
+      </ul>
+    </details>
+
+    <div class="macro" id="macro"></div>
+
+    <div class="portfolio" id="portfolio"></div>
+
+    <div class="updated" id="updated"></div>
+
+    <section id="cards" class="cards"></section>
+
+    <p class="disclaimer">⚠️ 이 대시보드는 분석 참고용입니다. 실제 투자 판단과 책임은 본인에게 있습니다.</p>
+  </main>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
