@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-16 19:10:27
+// 마지막 업데이트: 2026-06-16 21:01:32
 window.NEWS_DB = [
   {
     "id": "nd5fd772f",
     "category": "IT",
     "source": "매일일보",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10c01pU0hySjgtX3hoeXpmSzZwVC0xTDdpa1RmZE9hTjZnS3FKRFRMbHFRd1RBWFVwcGZkUnh0dGhwdnFubFl1bHFIcVF5OEtMalZ2SWYya19jNFZ3anNmaWY4dEQ?oc=5",
     "title": "삼성 vs SK하이닉스, AI 반도체 '패키징·수율'서 갈린다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n845e7066",
     "category": "IT",
     "source": "매일경제",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YVTJvVTRSa01vanBrSFVMYTZxMlNhbTdscG9yb2lybDExODVqWkt1VFRyNmR3R0g5MURvanRlUm9JLVNNdkxnUUx6bVgyUQ?oc=5",
     "title": "빅테크 독립선언에도 ‘엔비디아 독재’ 끄덕없다…추론칩서도 넘사벽",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "17시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "nf3565e6d",
     "category": "IT",
     "source": "세종의소리",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JQ1Z1QXI4WXF3a1NDWG83U2t5Q1V1M21TXy1JSS1NR3UyUVJ3WVVVODl6ZVBMQS1fNVBJZERrZ2FVdVNnYWZ1TDhzOHVaal9ZVDZlZ3U2ajY0LUItNzViVkNFbDU5bzQ?oc=5",
     "title": "엔비디아, 30조 회사채 발행 추진…한국 AI·반도체 산업엔 기회인가 경고인가",
     "summary": [
@@ -62,31 +62,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na128ef1c",
+    "id": "nbf0ea0ae",
     "category": "IT",
-    "source": "디일렉",
-    "time": "20시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NRkg3WVU3bEJTZ0ktZkRyejNibUhmMG5MQWpzajdsSjFYeGR1LVdxRGpPd3hxQmExUnhnZmljaWNZYXFLd1A0bGNPSVVWZG41N3BUMWpoNlRydjZJUEgycWVxUkh6UQ?oc=5",
-    "title": "아이에스티이, 국내 CSP와 엔비디아 HGX 서버 PoC...페가트론 협력",
+    "source": "연합뉴스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UR1EtU3RET2lPY1FaVmtPeENHV3lpSVl0RUVMX3daNlBBT2NLQS1MSDVycERRNm0ySF9xLVJoWDd1MG0wRW56OGdJNms1NktNR28xTHlMZkRIU0XSAWBBVV95cUxOUHJDNFlEaEhWbXY5ZV9zRXQ0OFFyMml5VXkzMXpVeVJtUnU2VWFTMnFEdU5QT2ltZWF6aVhFOW9KNzItV2NKV3VGVEVLYWk0OG5WQ3hkU2JfMVMzWTZsSTU?oc=5",
+    "title": "엔비디아, 5년 만에 회사채 발행 검토…최소 30조원 규모",
     "summary": [
-      "아이에스티이, 국내 CSP와 엔비디아 HGX 서버 PoC...페가트론 협력 디일렉."
+      "엔비디아, 5년 만에 회사채 발행 검토…최소 30조원 규모 연합뉴스."
     ],
     "chips": [
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "ndd68810e",
-    "category": "경제",
-    "source": "파이낸셜포스트",
-    "time": "21시간 전",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBWWFoTG95WHFwNkNrbW1wQmE0QzJSem5kS201emZPRm9zOGtjSmdmRW8yaWNPUWxxTGQwMDlQdVBWekp3b3ZVM3pHWTNSQ1V2OG1pMlpLVHNZYW53aU02aWl1Z3FES0xzdWRzbkhha1VzMXpa?oc=5",
-    "title": "이란 종전에도 '엔저 고착화' 日 눈치보는 韓...코스피 미칠 BOJ 여파 촉각",
-    "summary": [
-      "이란 종전에도 '엔저 고착화' 日 눈치보는 韓...코스피 미칠 BOJ 여파 촉각 파이낸셜포스트."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   },
   {
@@ -130,6 +116,22 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#고용"
+    ]
+  },
+  {
+    "id": "n71a254ee",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
+    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+    "summary": [
+      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
+    ],
+    "chips": [
+      "#부동산",
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -253,6 +255,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n08b2b275",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "63일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
+    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "summary": [
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -281,21 +298,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "117일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -311,312 +313,313 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n46259cb8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003671573",
-    "title": "대구·경북 구름 많고 최고 32도 더위…일부 지역 소나기",
+    "id": "n927c5a41",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "방금 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/17/EZWJK4M6Q5HQDOXW7BUGQH7ROY/",
+    "title": "‘인텔 앞질렀다’는 中 SMIC 최신 공정, 칩 성능 살펴보니 한계 뚜렷",
     "summary": [
-      "[대구=뉴시스] 이상제 기자 = 수요일인 17일 대구와 경상북도는 구름 많고 소나기가 내리는 곳이 있을 것으로 예상된다.",
-      "대구지방기상청은 이날 \"오후부터 밤사이 경북서부내륙 일부 지역에 5~30㎜의 소나기가 오겠다\"고 예보했다.",
-      "아침 최저기온은 15~19도(평년 13~19도), 낮 최고기온은 25~32도(평년 23~29도)로 예측된다."
+      "‘인텔 앞질렀다’는 中 SMIC 최신 공정, 칩 성능 살펴보니 한계 뚜렷."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3b158b11",
+    "id": "ne275b9c6",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/17/GIZDOZLDMUYGEYZSMIZDOOJYMU/",
-    "title": "\"이게 팀이야!\" '어떻게 바로 떠나' 이란 캡틴 결국 분노 폭발 \"이건 재앙이고 스트레스…FIFA 뭐 하는 거야\"",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061622194853088",
+    "title": "부활한 전인지…\"플라잉 덤보의 능력을 보여줘\"",
     "summary": [
-      "[스포츠조선 김가을 기자]'이란의 캡틴' 메흐디 타레미가 결국 폭발했다.",
-      "영국 언론 더선은 16일(이하 한국시각) '타레미는 이란이 2026년 북중미월드컵 첫 경기를 마치자마자 미국을 떠나야 한다는 명령을 받았다고 주장했다.",
-      "그는 국제축구연맹(FIFA)이 아무런 조치를 취하지 않았다고 비난했다'고 보도했다."
+      "'플라잉 덤보' 전인지가 다시 한번 우승에 도전한다.",
+      "전인지는 18일(현지시간) 미국 미시간주 벨몬트의 블라이더필즈 컨트리클럽(파72)에서 열리는 미국여자프로골프(LPGA) 투어 마이어 클래식(총상금 325만달러)에 출전한다.",
+      "이번 대회는 메이저 대회인 KPMG 위민스 PGA 챔피언십과 아문디 에비앙 챔피언십을 앞두고 열리는 만큼, 상당수 톱랭커가 불참했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9ff4afbe",
+    "id": "n7c01e609",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061617260018333",
+    "title": "강남 '오픈런' 브랜드 집결…대구신세계, 여성패션 전문관 새단장",
+    "summary": [
+      "신세계백화점은 오픈런 브랜드를 앞세워 대구신세계 6층을 리뉴얼(개보수)했다고 17일 밝혔다.",
+      "이번 리뉴얼은 그간 강남점과 부산 센텀시티점 등에서 검증된 인기 브랜드 60여개를 중심으로 새단장한 것이 특징이다.",
+      "우선 뉴 컨템포러리 대표 브랜드인 '렉토' '시에' '틸아이다이' '아틀리에나인' 등이 대구 상권 최초로 정식 입점한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne73db35f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061616310368127",
+    "title": "나토 'GDP 5% 군비 확장'에…K방산 '원팀' 마케팅 나선다",
+    "summary": [
+      "최근 잇따른 국제 분쟁으로 각국이 군비 확장 움직임을 보이는 가운데 정부와 유관기관이 뭉친 'K방산 원팀'이 유럽 최대 방산 시장 공략에 나섰다.",
+      "산업통상부와 대한무역투자진흥공사(이하 코트라)는 이달 15일부터 19일까지 프랑스 파리에서 열리는 유럽 최대 규모의 방산 전시회 '유로사토리 2026'에서 통합한국관을 운영하고 전방위 수출상담회를 개최한다고 17일 밝혔다.",
+      "이번 K방산 원팀의 출격은 유럽 무기 시장의 거대한."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n289fd2b8",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026061616175099594",
+    "title": "[클릭 e종목]\"대덕전자, 2분기 실적 기대치 웃돌 것…목표가↑\"",
+    "summary": [
+      "메리츠증권은 17일 대덕전자의 2분기 실적이 시장 기대치를 웃돌 것이라고 전망하며 목표주가를 19만원에서 20만원으로 상향하고 투자의견 '매수'를 유지했다.",
+      "메리츠증권은 대덕전자의 2분기 실적을 매출액 3818억원(전년 동기 대비 +55.1%), 영업이익 620억원(+3224.6%)으로 예측했다.",
+      "이는 매출액 시장 기대치인 3700억원과 영업이익 기대치인 587억원을 각각 3.2%, 5.7% 웃도는 수치다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned25b10a",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003671599",
+    "title": "'단독 선두' 김재윤·'2연패 조준' 박영현, 구원왕 경쟁 후끈…다크호스 손주영",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 프로야구 삼성 라이온즈의 뒷문을 지키는 김재윤과 KT 위즈 불펜 에이스 박영현이 팽팽한 세이브왕 경쟁을 이어가고 있다.",
+      "이들의 뒤를 맹렬히 쫓는 LG 트윈스 마무리 투수 손주영은 다크호스로 꼽힌다.",
+      "김재윤은 경쟁자 박영현과 2022년과 2023년 KT에서 함께 뛴 인연이 있다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n15269d56",
     "category": "사회",
     "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003671736",
+    "title": "[오늘의 주요일정]사회(6월17일 수요일)",
+    "summary": [
+      "[서울=뉴시스] [서울=뉴시스] ▲오전 6시 한 건설산업노조, 신길동 포스코 건설현장, 불법외국인 채용 규탄 ▲오전 7시 한 한국타워크레인조종사 노조, 충현동 남광토건 본사, 건설현장 처우개선 촉구 ▲오전 8시 서비스일반노조 교원구몬지구, 을지로 교원내외빌딩 앞, 부당노동행위 규탄 ▲오전 9시 민 건설노조 경기중서부건설, 여의도 태흥빌딩 앞, 근로자 처우개선 촉구 ▲오전 9시 헬조선변혁전국조직위, 세종로 광화문역 2번 출구 남측 인도, 이란 무."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "nfe1d8218",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003671591",
+    "title": "\"웨이브 깰까\"…KT, 월 1만원대 '방송 무제한 다시보기' 승부수 왜?",
+    "summary": [
+      "[서울=뉴시스]박은비 기자 = KT가 월 1만원대에 지상파·종합편성채널의 방송 다시보기(VOD)를 무제한 감상할 수 있는 서비스를 내놓는다.",
+      "이를 두고 업계에선 웨이브와 합병을 추진 중인 티빙을 견제하고 유료방송 미디어 시장에서 주도권을 굳히기 위한 KT의 전략적 카드라고 해석한다.",
+      "◆월 1만원대 파격 실험…티빙 연합군 '킬러 콘텐츠' 노렸나 KT는 오는 30일 IPTV 요금제 '지니TV 모든G'를 리뉴얼 출시한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb372285a",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003671719",
+    "title": "대법원 \"국세청 '비주거용 부동산 감정평가' 사업은 적법\"",
+    "summary": [
+      "[서울=뉴시스]김정현 기자 = 국세청이 2020년부터 편법 증여를 막겠다며 실시한 '꼬마 빌딩' 등 비주거용 부동산에 대한 감정평가는 적법하다는 대법원의 판단이 나왔다.",
+      "다만 감정가를 과세의 잣대로 삼기 위해 충족해야 할 요건은 엄격하게 해석했다.",
+      "대법원 2부(주심 권영준 대법관)는 최근 토지 상속자 A씨가 마포세무서장을 상대로 낸 상속세 부과처분 취소 소송의 상고심에서 원고 일부 승소로 본 원심 판결을 이런 취지로 확정했다고 17일 밝혔다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n27ed09ba",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616152800002",
+    "title": "돈빌려 '빚투'에 내준 증권사들…1분기 금융보험업 대출 180조원",
+    "summary": [
+      "(서울=연합뉴스) 이도흔 기자 = 지난 1분기 예금취급기관의 금융 및 보험업 대출금이 10조원 증가하며 역대 최대치를 기록했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1bfc2fc0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616055500546",
+    "title": "[이런말저런글] 돌부리를 차면 발부리만 아프다",
+    "summary": [
+      "돌뿌리(X)에 걸려 넘어진다고 한다.",
+      "걸을 땐 걷는 데 신경을 집중해야 한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf228e43e",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616161600002",
+    "title": "'앤트로픽 등 줄줄이' 공모제도 손질될까…당국 \"공감대 필요\"",
+    "summary": [
+      "(서울=연합뉴스) 배영경 기자 = 스페이스X 공모주 배정 무산을 계기로 한국과 미국 간 공모체계 차이가 부각된 가운데 금융당국이 제도 손질에 나..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f30f273",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260616151700002",
+    "title": "1분기 카카오뱅크 1인당 1억8천만원 벌어…토스뱅크 역전",
+    "summary": [
+      "(서울=연합뉴스) 한지훈 기자 = 카카오뱅크 직원 생산성이 1년 전보다 20% 가까이 뛰며 토스뱅크를 따돌린 것으로 나타났다."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n837ee5da",
+    "category": "사회",
+    "source": "조선일보",
     "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003671780",
-    "title": "이재명 대통령 \"北문제 해결 주도해 달라\"…트럼프 \"노력하겠다\" [뉴시스Pic]",
+    "url": "https://www.chosun.com/international/us/2026/06/17/K4M35QWMWZAKTPA5H5NRMFNR34/",
+    "title": "“北 위장 취업 IT 요원, 1인당 7500건 지원… 3.5건 채용 제안 받아”",
     "summary": [
-      "[에비앙·서울=뉴시스]최동준 김지은 김경록 기자 = 주요7개국(G7) 정상회의에 참석 중인 이재명 대통령이 16일(현지시간) 도널드 트럼프 미국 대통령을 만나 북한 문제의 평화적 해결을 주도해달라고 요청했다.",
-      "이에 트럼프 대통령은 노력하겠다는 의사를 밝혔다.",
-      "이 대통령은 이날 오후 3시 프랑스 에비앙에 위치한 G7 정상회의장에서 열린 공식 환영식에 참석해 트럼프 대통령과 만나 사진 촬영 전 약 30초 간 대화를 나눴다."
+      "“北 위장 취업 IT 요원, 1인당 7500건 지원… 3.5건 채용 제안 받아”."
     ],
     "chips": [
-      "#정치"
+      "#채용",
+      "#취업"
     ]
   },
   {
-    "id": "nbbcf0a30",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617003800071",
-    "title": "\"美, 이스라엘의 '종전MOU' 열람 요구 거절…사전 유출 우려\"",
+    "id": "n6df918a1",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260617/134126020/1",
+    "title": "버추얼 태권도, 2026 아시안게임 정식 종목 채택",
     "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 도널드 트럼프 행정부가 이란과 종전을 위한 양해각서(MOU)에 이미 전자 서명을 한 것으로 알려진 가..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f0c7f1c",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617003900002",
-    "title": "달러-원, 이란 종전 합의에 위험 선호 유지…1,508.30원 마감",
-    "summary": [
-      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 낙폭을 조금 더 늘렸다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "ncac9d02b",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003671775",
-    "title": "브렌트유, 80달러선 깨져…3개월來 최저",
-    "summary": [
-      "[서울=뉴시스]신정원 기자 = 미국이 종전 합의에 따라 이란의 원유 판매를 허용할 것으로 알려지면서 16일(현지 시간) 국제유가가 3개월 만에 최저치로 떨어졌다.",
-      "CNBC에 따르면 국제유가 기준인 브렌트유는 이날 장중 한때 5% 급락하며 배럴당 78.94달러를 기록했다.",
-      "80달러선이 붕괴된 것은 지난 3월 이후 처음이다."
+      "‘버추얼 태권도’가 2026 아이치·나고야 아시안게임 정식 종목으로 채택됐다.세계태권도연맹(WT)은 “16일 일본 나고야에서 열린 아시안게임 조직위원회 이사회에서 버추얼 태권도를 정식 종목 채택을 결정했다.",
+      "아시아올림픽평의회(OCA)의 승인도 받았다”고 밝혔다.버추얼 태권도는 태권도 기술과 최첨단 가상현실(VR) 기술을 결합한 종목이다.선수들이 VR 헤드셋과 상체, 무릎, 종아리에 부착된 5개의 모션 센서를 착용하고 가로 4m 및 세로 4m의."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc336c685",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "41분 전",
-    "url": "https://www.chosun.com/international/us/2026/06/17/RS2WH2QQHVEKXDEV4YGEVAD6O4/",
-    "title": "적진으로 뛰어든 美부통령… “트럼프 통역사냐?” 질문에도 여유만만",
+    "id": "n29a756cc",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260617/134126017/1",
+    "title": "다시 손 잡는 윌리엄스 자매, 와일드카드로 윔블던 여자복식 출전",
     "summary": [
-      "적진으로 뛰어든 美부통령… “트럼프 통역사냐?” 질문에도 여유만만."
+      "여자 테니스의 전설 세리나 윌리엄스(44·미국)가 4년 만에 윔블던 코트로 돌아온다.",
+      "언니 비너스 윌리엄스(45)와 함께 다시 라켓을 잡는다.윔블던은 16일(한국 시간) 세리나와 비너스가 와일드카드로 올해 대회 여자복식 본선에 출전한다고 발표했다.윌리엄스 자매는 2000년대 여자 테니스를 대표한 최고의 자매 선수다.",
+      "이들은 윔블던 6회 우승을 포함해 총 15차례 메이저대회 복식 정상에 올랐다.특히 2000년과 2002년 이들이 윔블던 여자 복식."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n76333dcc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "49분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003671773",
-    "title": "美FBI \"백악관 UFC 겨냥 공격 음모 인지해 관련자들 체포\"",
+    "id": "nebf99433",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260617/134126014/1",
+    "title": "오스틴·김도영 시즌 20호포…LG, KIA 꺾고 선두 질주·3연승",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령 80세 생일에 맞춰 개최된 백악관 종합격투기 UFC 행사를 겨냥한 드론 및 총기 위협을 미 연방수사국(FBI)이 사전 인지해 관련자들을 체포한 사실이 드러났다.",
-      "캐시 파텔 미 연방수사국(FBI) 국장은 16일(현지 시간) 소셜미디어(SNS) 엑스(X)에 UFC 행사와 관련한 잠재적 위협을 지난 10일 파악해 법무부 및 각주와 합동작전을 전개했다고 밝혔다."
+      "프로야구 LG 트윈스가 외국인 거포 오스틴 딘과 아시아쿼터 투수 라클란 웰스의 동반 활약을 앞세워 KIA 타이거즈를 격파했다.LG는 16일 광주-기아 챔피언스필드에서 벌어진 2026 신한 쏠 KBO리그 KIA와의 원정 경기에서 8-2로 이겼다.3연승을 질주한 LG는 42승 24패를 기록, 선두 자리를 공고히 했다.반면 4위 KIA(34승 1무 32패)는 2연패 수렁에 빠졌다.LG는 경기 초반부터 KIA 선발 투수 시라카와 게이쇼를 효과적으로 공."
     ],
     "chips": [
-      "#정치"
+      "#KBO"
     ]
   },
   {
-    "id": "n23d297ee",
+    "id": "na519222a",
     "category": "사회",
-    "source": "조선일보",
-    "time": "49분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/06/17/2C7SLJAVQFGQTAMVF5MTWVWOCQ/",
-    "title": "李대통령, 독일·캐나다 정상과 연쇄 회담...‘잠수함 수주’ 논의?",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260617/134126010/1",
+    "title": "빅터 차 “시진핑 비핵화 침묵은 北 핵보유 지위 용인 시사”",
     "summary": [
-      "李대통령, 독일·캐나다 정상과 연쇄 회담...‘잠수함 수주’ 논의?."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbb6983cf",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "51분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617003400072",
-    "title": "캐나다, 러시아 '그림자 선단' 등에 신규제재 부과",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 캐나다 정부가 러시아의 에너지 및 방위 산업 분야 등을 겨냥해 신규 제재를 부과키로 했다고 16일(현지시간)..."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n61f3bb65",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "54분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260616170151081",
-    "title": "중동 위기 넘긴 G7, 우크라전 종식 위해 대러 압박 강화(종합)",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 미·이란 종전 합의로 한숨 돌린 서방이 장기 과제인 우크라이나 전쟁 해결을 위해 러시아 압박을 강화하기로 다..."
+      "시진핑 중국 국가주석이 방북 과정에서 한반도 비핵화 문제를 일절 언급하지 않은 것은 북한의 핵보유국 지위를 묵인한 것이라고 미국 대북 전문가가 평가했다.빅터 차 전략국제문제연구소(CSIS) 한국 석좌는 16일(현지 시간) CSIS 팟캐스트 ‘캐피털 케이블’에서 시 주석의 방북에서 “비핵화나 핵 없는 한반도 같은 내용은 전혀 언급되지 않았고, 관련한 어떤 언급도 없었다”며 “이는 다시 한번 중국이 북한의 핵무기 보유 지위를 사실상 용인하고 있음을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5a3e7874",
+    "id": "nd4f396a8",
     "category": "경제",
     "source": "연합뉴스(경제)",
     "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617002451072",
-    "title": "\"美, 19일 종전합의 서명후 이란산 석유판매 제재완화 적용\"",
+    "url": "https://www.yna.co.kr/view/AKR20260617004500072",
+    "title": "국제유가, 종전합의에 5%대 급락…브렌트 3달만에 70달러대 진입",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국이 이란과의 종전 합의 서명 직후 이란산 석유 판매에 대한 제재 면제를 즉시 발효하기로 했다고 월스트리트..."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란 간 종전 협상 타결에 따른 낙관론이 이어지면서 16일(현지시간) 국제 유가가 급락세를 이어가며 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8e5591e4",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152657",
-    "title": "[카드뉴스] 넥슨이 말한 AI 시대에서 게임회사가 살아남는 법?.. 결국 답은 '이용자 경험'과 'IP 확장'이다",
-    "summary": [
-      "AI가 코드를 짜고 그림을 만든다.",
-      "그렇다면 게임회사의 경쟁력은 앞으로 무엇이 될까?NDC 2026에서 넥슨은 꽤 선명한 방향을 보여줬다.",
-      "AI는 적극적으로 쓰되, 결국 승부는이용자 경험과 IP의 힘이라는 것.크레이지 아케이드 종료 이후 전략부터 메이플스토리식 확장, 장르 다각화까지."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n7e0051ff",
+    "id": "n71a2af80",
     "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260617/134125935/1",
-    "title": "아차차! 생활비 보냈다가 증여세 폭탄?…자산가들의 실질 대응법",
-    "summary": [
-      "가족 간 송금도 증여세 산정의 기준이 되는 가운데, 자산가들의 절세 노하우가 공개돼 주목받고 있다.지난 15일 유튜브 ‘지식인사이드’에는 이장원 세무사가 출연해 증여세에 대해 설명하고 이를 줄이는 현실적인 방안에 대해 밝혔다.",
-      "이 세무사는 우선 많은 이들이 헷갈려하는 합법적인 비과세 한도에 대해 짚었다.",
-      "그는 “증여세는 배우자는 6억원까지 증여재산 공제, 직계존비속 간에는 10년 간 5000만원을 줄 수 있다”고 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndbb232ea",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260617/134125930/1",
-    "title": "“더울땐 맥주가 딱이지”…요로결석 위험도 커진다",
-    "summary": [
-      "무더위로 땀 배출이 늘어나는 여름철에는 요로결석 발생 위험이 높아진다.",
-      "요로결석은 갑작스럽고 극심한 통증으로 성인도 응급실을 찾게 만드는 대표적인 비뇨기 질환이다.",
-      "재발이 잦고 통증이 심해, 한 번 경험한 환자들은 재발에 대한 불안감을 크게 느끼기도 한다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n5f729ba4",
-    "category": "IT",
     "source": "한국경제",
     "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026061604491",
-    "title": "李 대통령, 佛 G7 정상회의 참석…'AI 기본사회' 비전 공유",
+    "url": "https://www.hankyung.com/article/202606170484i",
+    "title": "G7 회의 참석 李 대통령, 獨·캐나다와 연쇄 정상회담",
     "summary": [
-      "李 대통령, 佛 G7 정상회의 참석…'AI 기본사회' 비전 공유."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n56c601fb",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260617/134125813/1",
-    "title": "李 “아임 소 해피”… 獨-캐나다 총리와 연쇄 정상회담",
-    "summary": [
-      "주요 7개국(G7) 정상회의 참석차 프랑스를 방문한 이재명 대통령은 17일(현지 시간) 프리드리히 메르츠 독일 총리, 마크 카니 캐나다 총리와 연쇄 정상회담을 가졌다.이 대통령은 이날 프랑스 에비앙 한 호텔에서 메르츠 총리를 만나 “독일과 대한민국은 많은 영역에서 서로 협력하고 또 협력을 통해 시너지를 만들 수 있는 국가”라며 “총리님 의견도 많이 듣고 저희도 새로운 말씀도 좀 드리고, 다시 한국과 독일이 정말 이전과는 다른 새로운 단계로 도약."
+      "G7 회의 참석 李 대통령, 獨·캐나다와 연쇄 정상회담."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n427bf8c2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260617/134125895/1",
-    "title": "李 “중동전쟁처럼 北 문제 평화적 해결 주도해달라”… 트럼프 “北 문제 해결 위해 노력",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 16일(현지시간) 프랑스 에비앙에서 이재명 대통령을 만나 남북 관계의 근황을 물었다고 청와대 강유정 수석대변인이 서면 브리핑에서 밝혔다.이날 청와대에 따르면 이 대통령은 트럼프 대통령의 질문에 “트럼프 대통령이 중동전쟁을 해결한 것처럼 북한문제의 평화적 해결을 주도해 달라”고 요청했다.",
-      "이에 트럼프 대통령은 “북한문제의 해결을 위해 노력하겠다”는 의사를 밝히며 화답했다.앞서 이 대통령과 트럼프 대통령이 주요 7개국(."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n89a1a8bc",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026061604011",
-    "title": "中 딥시크 11조원 조달…량원펑은 지배권 유지",
-    "summary": [
-      "中 딥시크 11조원 조달…량원펑은 지배권 유지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f894d9c",
-    "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152655",
-    "title": "[NDC 26] \"AI가 스토리텔링? 재미의 판단은 결국 인간이 해야\"",
-    "summary": [
-      "\"AI는 나의 결정을 빠르게 수행해주는 도구이지 생각하고 판단하는 주체가 아닙니다.",
-      "재미를 판단하는 건 게임을 즐기는 인간들입니다.\"이지영 넥슨코리아 기획자는 16일 오후 경기 성남시 판교 넥슨코리아 사옥에서 열린 '넥슨 개발자 컨퍼런스(NDC) 2026'에서 \"재미에 대한 판단은 인간이 해야만 하고, 인간이 할 수밖에 없다\"면서 이처럼 말했다.이지영 기획자는 페리아 연대기, 로스트아크, 프로젝트 EL 등에서 시나리오와 퀘스트를 만들어 왔다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n7dd71da4",
+    "id": "nc94e4297",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/202606170459i",
-    "title": "스페이스X, 시총 4위 도전…옵션 시장선 첫날부터 3위",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/202606170479i",
+    "title": "G7 정상회의서 트럼프 만난 李 “北 문제 평화적 해결 주도” 요청",
     "summary": [
-      "스페이스X, 시총 4위 도전…옵션 시장선 첫날부터 3위."
+      "G7 정상회의서 트럼프 만난 李 “北 문제 평화적 해결 주도” 요청."
     ],
     "chips": [
       "#뉴스"
@@ -629,20 +632,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "부동산",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
