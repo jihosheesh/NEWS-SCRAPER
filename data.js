@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-17 15:03:04
+// 마지막 업데이트: 2026-06-17 17:00:27
 window.NEWS_DB = [
   {
     "id": "nee9fc802",
     "category": "IT",
     "source": "굿모닝경제",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPTXZJSDhYd1BQbnZYeDBENU10WE1aYVY0NC16ZjRjTzlKa2E4aUdNclMxTUt5T01PbXV0RFdIZnpGSU5NQS0wel9rYWllZzltWnl0TWN0TkQzVzZBWWp4eU1HdS15TENHbzZfZw?oc=5",
     "title": "[심층진단] 슈퍼사이클 올라탄 K-반도체…실적 신기록 행진",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nba870d9e",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41S3hXckZrZ1p6ci1ObkNzdl96M3IzMHlLLVFGY2lIeXFTOUN1OXdEODJyT3JFakNFd2d5ek95b2FNOV9PSnRWa01rYThkbFZibXVFcy1ndlBtZ19lMUhwNnlqUXdnb0hCSVBxcUExTmVNcTQ?oc=5",
     "title": "엔비디아 주도 AI 열풍에 삼성전자 SK하이닉스 역할 커져, 젠슨 황 \"반도체 생산 확대\" 요청 주목",
     "summary": [
@@ -195,6 +195,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n54eac02a",
+    "category": "부동산",
+    "source": "프라임경제",
+    "time": "18일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWTTNhcGcya25mdG1tMlJuVFhQSTBsQlVVM0xsR1lyTkQwb25RZnZ0R0tDQVJYNlhqZU52azZ4dTJVSGlrWW5xRDJ5N0VDaXZ1QUZZMWlkUUNQOXUzWTJKc1NxQzJoZw?oc=5",
+    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
+    "summary": [
+      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -224,17 +238,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n269e2609",
+    "id": "n4324c5c4",
     "category": "부동산",
-    "source": "v.daum.net",
-    "time": "36일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "source": "Chosunbiz",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkticmh3N2tXTGo4a2JTNjQtazBsUEhkTGFYVnoxMmRTVk5LYlAwMnhxcW43d0NKVlBvcjlhUGdnMlY4RHJaZ0pKT0N3SVpGVFJ1ZFJXc09pY3lrZU1mRkc5b3dTU3FtZ3d6bWZneDJ4VzVFM01ER1ZTV3pYRkFXckxadE0zbTE2b0c0TFg4c3hwcVAyb0hZZdIBrAFBVV95cUxQQmJ1RjVPOVZ6N3plS0xLZ1BWeVVNTnV4ZHB5WlBzWVlFeXpRU0M2cWJITU5uT0x5YklqWWZvMUhLRmVsOWotU3A2R2FreE1hWlpBR3dlWlNSNEF1a1FrWngyLWVoTFl3aHFBNm5WeUxySDBaWWsxNUxLUDhzTDRVYTVROTd5SWNyT3NfQ2NNa1Rva1NPZHhtUlZ1dnBwY2JBNGhZVG5uR0V3Umhu?oc=5",
+    "title": "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
+      "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈 Chosunbiz."
     ],
     "chips": [
-      "#부동산",
       "#전세"
     ]
   },
@@ -250,21 +263,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "64일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
-    "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
       "#정책"
     ]
   },
@@ -375,265 +373,256 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1d2f5f99",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003672066",
-    "title": "'10kg 감량' 안은진이 공개한 식단…칼로리 낮고 포만감 오래가는 '이것'",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 10㎏ 감량에 성공한 배우 안은진의 식단이 공개돼 화제다.",
-      "그는 최근 자신의 SNS에 \"어느 날의 셋로그\"라는 제목과 함께 영상을 올렸다.",
-      "영상에 따르면 안은진은 \"오늘의 아점\"이라고 소개하며 새우와 여러 가지 채소, 현미밥 등이 들어간 포케를 먹었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne1fc8341",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003671922",
-    "title": "신혼여행 가서 낯선 외국인 여성과 스킨십한 남편…\"파혼해야겠죠?\"",
-    "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 신혼여행에서 남편이 낯선 외국인 여성과 스킨십을 하는 모습을 본 여성이 파혼하고 싶다고 밝혔다.",
-      "17일 YTN 라디오 '조인섭 변호사의 상담소'에는 만난 지 3개월 된 남성과 결혼식을 올리고 하와이로 신혼여행을 떠났다는 30대 여성 A씨의 사연이 전해졌다.",
-      "A씨는 \"결혼정보회사에 가입했고 그곳에서 남편을 만났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89e07756",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003671919",
-    "title": "'38㎏ 감량' 고도비만 탈출 의사의 위고비·마운자로 생생 후기…\"부작용은 잠깐\"",
-    "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 장형우 분당서울대학교병원 교수가 직접 비만 치료제 위고비, 마운자로를 이용한 후기를 남겼다.",
-      "16일 유튜브 '닥터딩요'에 출연한 장 교수는 자신이 수술과 비만 치료제를 통해 고도비만을 탈출했다고 밝혔다.",
-      "118㎏에서 시작했는데 현재는 77㎏이라고 한다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2f5766a9",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026061715002017976",
-    "title": "양자컴퓨터 '100큐비트 벽' 넘었다…구글·IBM에 도전장[과학을읽다]",
-    "summary": [
-      "양자컴퓨터 업계가 또 한 번 중요한 이정표를 넘어섰다.",
-      "그동안 높은 정확도를 강점으로 내세웠지만 규모 확대에 어려움을 겪던 트랩이온 방식이 처음으로 100큐비트에 근접한 시스템을 선보이며 구글과 IBM이 주도해 온 초전도 양자컴퓨터 진영에 본격적인 도전장을 내밀었다.",
-      "국제학술지 네이처는 18일 미국 양자컴퓨팅 기업 퀀티넘(Quantinuum)이 개발한 98큐비트 트랩이온 양자 프로세서 '헬리오스(Helios)' 에 대한 연구 결과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3e66f9ce",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673441",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-    "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n560512b8",
-    "category": "경제",
-    "source": "조선비즈IT",
-    "time": "3분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/17/VUQHVXTJIFCFNFFX5GAVACMWYM/",
-    "title": "앤트로픽 “미토스 수출 통제 수일 내 풀릴 것”…서울 사무소 열고 韓 공략",
-    "summary": [
-      "앤트로픽 “미토스 수출 통제 수일 내 풀릴 것”…서울 사무소 열고 韓 공략."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n2779c4b3",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061718050829774",
-    "title": "앤스로픽 \"한국은 가장 빨리 성장하는 시장…AI 생태계와 협력할 것\"",
-    "summary": [
-      "\"한국은 풀스택을 가진 몇 안 되는 나라이고, 앤스로픽보다도 더 먼저 준비된 환경이다.\"지난달 선임된 최기영 앤스로픽 한국 대표는 17일 앤스로픽 서울 오피스 공식 개소를 기념해 열린 기자간담회에서 한국 진출 배경과 계획을 밝혔다.",
-      "앤스로픽 서울 오피스는 국내 고객과 파트너를 지원하며 한국의 AI 생태계와 긴밀한 협력을 이어가기 위한 핵심 거점 역할을 수행한다.",
-      "최 대표는 \"기술 혁신과 안전성이 상충하는 가치가 아닌."
-    ],
-    "chips": [
-      "#AI",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n1f0cfc48",
+    "id": "ne45bd9c5",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260617/134133512/1",
-    "title": "올림픽공원 시위 현장서 자해 소동…30대 남성 병원 이송",
-    "summary": [
-      "투표용지 부족 사태로 촉발된 서울 송파구 올림픽공원 핸드볼경기장 봉쇄 시위가 13일째 이어지고 있는 가운데, 한 30대 남성이 흉기로 사람들을 위협하고 자해하다 병원으로 옮겨졌다.경찰과 소방에 따르면 17일 오후 10시 24분경 30대 남성은 올림픽공원 핸드볼경기장 시위 현장에서 “사람이 죽어가고 있다”는 말을 반복하며 흉기를 휘두르다 경찰에 의해 제지됐다.",
-      "이날 소셜네트워크서비스(SNS)에 공유된 영상에는 해당 남성이 양손에 든 태극기와 흉기."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n925081de",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617175151004",
-    "title": "잠실개표소 시위 현장서 흉기 자해…경찰 대치 끝 제압(종합)",
-    "summary": [
-      "(서울=연합뉴스) 윤민혁 기자 = 6·3 지방선거 투표용지 부족 사태로 촉발돼 서울 올림픽공원 핸드볼경기장에서 이어지는 '개표소 봉쇄 시위' 현..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb6dab35e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260617/134133454/1",
-    "title": "국힘, 선거소청 11곳 제출…의총선 장동혁 사퇴 압박",
-    "summary": [
-      "국민의힘이 6·3 지방선거 패배에 따른 장동혁 대표의 거취와 투표용지 부족 사태에 대한 선거 소청을 논의하기 위해 17일 연 긴급의원총회에서 장 대표 퇴진론이 쏟아졌다.",
-      "장 대표 사퇴를 공개 요구해왔던 개혁 성향 의원 모임인 ‘대안과 미래’, 친한(친한동훈)계는 물론이고 일부 옛 친윤(친윤석열)계 중진 의원들까지 장 대표 사퇴의 필요성에 입을 모은 것.",
-      "장 대표가 요구해온 전국 재선거 주장도 받아들여지지 않으면서 장 대표의 정치적 입지는 더욱."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc51aa048",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617176500001",
-    "title": "李대통령, G7 업무오찬 참석…AI 시대 '공유·안전' 과제 제시",
-    "summary": [
-      "(에비앙=연합뉴스) 임형섭 고동욱 기자 = 주요7개국(G7) 정상회의 참석을 위해 프랑스 에비앙을 방문한 이재명 대통령은 17일(현지시간) 회의..."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb174ef5f",
-    "category": "사회",
     "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/opinion/column/2026/06/17/OB53XMULU5DNZLC6F2Q6LHLGMI/",
-    "title": "[양상훈 칼럼] 민주당의 가을",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/18/G5QWCYRVGRSDSZRRMI3GIMJWGY/",
+    "title": "日NPB 16구단 체제 이번엔 실현되나…다시 수면 위 떠오른 리그 확장, 가능성은",
     "summary": [
-      "[양상훈 칼럼] 민주당의 가을."
+      "[스포츠조선 박상경 기자] 오 사다하루(왕정치) 소프트뱅크 호크스 회장이 일본 프로야구(NPB) 구단 수 확대를 주장하고 나섰다.",
+      "오 회장은 17일 도쿄 나가타마치의 중의원회관에서 열린 '야구의 미래를 생각하는 의원 연맹' 총회에 참석해 NPB 확장에 대한 생각을 밝혔다.",
+      "지난해 자신이 설립한 사단법인(구심회) 회장 자격으로 참석한 오 회장은 \"각 지역 팬."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO",
+      "#정치"
     ]
   },
   {
-    "id": "n5125af1d",
+    "id": "nc33847e8",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617175800108",
-    "title": "\"튀르키예, 차기 원전 건설에 캐나다 기술 도입 검토\"",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예가 건설을 검토하고 있는 차기 원자력발전소와 관련해 캐나다 기술을 도입하는 방안을 검토 중이라고 ..."
-    ],
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673451",
+    "title": "[속보]트럼프 \"시진핑, 이란에 대공무기 판매않은 것에 감사\"",
+    "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n56d5e119",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617176400087",
-    "title": "쿠바 봉쇄중인 美, 쿠바로의 '우회수출' 급증",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국의 봉쇄로 사상 최악의 연료·경제난이 가중되고 있는 쿠바에서 미국 기업의 수출이 급증한 것으로 나타..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n38ccc97d",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026061723500824098",
-    "title": "美 5월 소매판매 0.9%↑…전망치 크게 웃돌아",
-    "summary": [
-      "미국의 5월 소비가 시장 전망치를 상회한 것으로 나타났다.",
-      "미 상무부는 5월 미국의 소매판매가 전월 대비 0.9% 증가했다고 17일(현지시간) 밝혔다.",
-      "다우존스가 집계한 전문가 전망치 0.5%를 크게 웃돌았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19f57ed2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026061723470020701",
-    "title": "'국힘 당원가입 강요' 신천지 前 간부들 구속",
-    "summary": [
-      "국민의힘 당원으로 신도들을 집단 가입시킨 혐의를 받는 신천지 전직 간부 3명이 구속됐다.",
-      "서울중앙지법 부동식 영장전담 부장판사는 17일 고동안 전 신천지 총무와 요한지파·시몬지파 전 총무 등에 대한 구속 전 피의자 심문을 연 뒤 \"증거인멸 및 도망할 염려가 있다\"며 구속영장을 발부했다.",
-      "앞서 합수본은 지난 12일 고 전 총무 등에 대해 정당법 위반 등 혐의로 구속영장을 청구했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n8636989c",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "n23377c06",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "19분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260617/134133474/2",
-    "title": "[속보]국힘, 서울 등 7곳 선거소청 제기…후보자 명의 4곳 더 접수",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/18/HE2DCYZTGRRGINZRGJSDMNRUGE/",
+    "title": "LG 떨고 있나, 16억 포수+29억 2루수 다 빠졌는데 1위 1G차 압박 “2사 후 연속 적시타로 승기 굳혔다”",
     "summary": [
-      "국민의힘이 6·3 지방선거 투표용지 부족 사태와 관련해 서울 등 7개 지역에 선거 소청을 냈다.",
-      "선거 소청은 선거 효력에 대해 이의를 제기하는 것이다.7개 지역은 투표용지 부족 사태가 발생한 6곳(서울, 경기, 인천, 광주전남, 울산, 부산)과 선거인명부 누락이 나타난 충북이다.",
-      "국민의힘은 이들 7개 지역 외에 광역단체장 후보자들이 4곳(대전, 충남, 세종, 전북)에 직접 선거소청을 제기했다고 밝혔다.국민의힘 법률자문위원회는 17일 보도자료를."
+      "[OSEN=잠실, 이후광 기자] 주전 포수, 2루수가 모두 부상으로 빠졌는데 빅이닝을 앞세워 1위와 격차를 1경기로 좁혔다.",
+      "정말 마법사군단의 뎁스가 두터워졌다.",
+      "프로야구 KT 위즈는 17일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 두산 베어스와의 시즌 8차전에서 8-1로 승리했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf96b895c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673450",
+    "title": "[속보]트럼프 \"MOU에 이란 핵무기 포기 명확…비축 우라늄 제거 즉시 논의\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb35d42bb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/18/GAYTSNJXGM3TIOJYGY3DSMTEMQ/",
+    "title": "\"BTS의 나라인데…\" 한국전 앞둔 멕시코 아미 대혼란! 팬덤 사이 의견분분",
+    "summary": [
+      "[스포츠조선 박상경 기자] 홍명보호와 일전을 앞둔 멕시코, 안방 쾌승을 자신하고 있다.",
+      "그런데 이들 중에 말 못할 속앓이를 하는 이들도 있어 보인다.",
+      "ESPN 스페인어판은 17일(한국시각) 'BTS가 2026 북중미월드컵에서 한국과 맞붙는 멕시코 팬들의 마음을 갈라놓고 있다'고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1c72167e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673449",
+    "title": "[속보]트럼프 \"중러와 비핵화 협정 맺어야…한 국가가 소극적\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n28409482",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "35분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673445",
+    "title": "北, 영국 주재 대사 소환…\"英의 송도원 제재에 따른 조치\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 북한이 영국 주재 특명전권대사를 부임 약 한 달 만에 소환했다고 미국의 북한 전문매체 NK뉴스가 17일(현지 시간) 보도했다.",
+      "보도에 따르면 주영국 북한대사관은 매체에 보낸 성명에서 문명신 주영 대사가 평양으로 소환됐다고 밝혔다.",
+      "대사관은 영국 정부가 지난달 송도원국제소년단야영소를 제재 대상에 포함한 데 따른 조치라고 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbde76ea3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618001400081",
+    "title": "마크롱 \"트럼프도 러 협상 의지 없다는 점 인정…진정한 변화\"",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 올해 주요 7개국(G7) 의장국인 프랑스의 에마뉘엘 마크롱 대통령은 17일(현지시간) 이번 정상회의가 \"객관..."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n29906aee",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618001600081",
+    "title": "[속보] 트럼프 \"이스라엘에 종전 MOU 사본 보내\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb6d1da51",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618001500083",
+    "title": "이란 \"종전 MOU, 이스라엘의 레바논 공격 중단 포함\"",
+    "summary": [
+      "(베이징=연합뉴스) 정성조 특파원 = 이란 외무장관은 미국과 체결한 양해각서(MOU) 이행 조건에 이스라엘의 대(對)레바논 군사 행동 중단이 포..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n660018ad",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618001300087",
+    "title": "이번엔 모기약 바르려다…브라질서 또 극한스포츠 도중 추락사",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 브라질에서 익스트림 스포츠를 즐기던 50대 여성이 모기약을 바르려다 발을 헛디뎌 추락사하는 사고가 발생..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbb81d5d4",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026061800513632398",
+    "title": "\"상상력을 풀어놓지 않았다\"…천명관, 폐허의 아이들로 돌아오다",
+    "summary": [
+      "\"개작이 처음 쓰는 것보다 더 힘들었다.\" 소설가 천명관은 17일 서울 마포구 창비 서교빌딩에서 열린 장편소설 '아코디언' 출간 기자간담회에서 이렇게 말했다.",
+      "2016년 '이것이 남자의 세상이다' 이후 10년 만에 내놓은 장편이다.",
+      "그는 이번 작품을 두고 자신이 쓴 소설 가운데 \"가장 힘든 작업\"이었다고 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c53e1ef",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260617/134037175/1",
+    "title": "[company&]건설 선진화 이끈 30년… 한미글로벌, 대한민국 PM의 역사를 쓰다",
+    "summary": [
+      "1996년 우리나라에서는 경제협력개발기구(OECD) 가입을 계기로 사회·경제 전반에 걸쳐 선진화와 세계화의 요구가 거셌다.",
+      "그러나 1994년 성수대교 붕괴와 1995년 삼풍백화점 붕괴 등 잇따른 대형 참사는 당시 국내 건설업계가 후진성을 면치 못하고 있음을 여실히 보여주었다.",
+      "이러한 문제의식 속에서 김종훈 회장이 선진 건설 관리 기법을 국내에 도입하기 위해 1996년 국내 건설업계 최초로 미국 기업과 합작해 출범시킨 건설사업관리(PM) 전문 회."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na94b9cba",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260617/134131975/2",
+    "title": "“SMR 후판은 미래 먹거리… 시장 열리면 바로 양산”",
+    "summary": [
+      "“오늘 이 철판 덩어리는 조선용으로 가공되지만, ‘미니 원전’인 소형모듈원자로(SMR) 시대가 열리는 대로 SMR용으로도 바로 양산 가능합니다.” 지난달 28일 충남 당진시 현대제철 당진제철소의 1후판공장.",
+      "천둥소리 같은 굉음과 매캐한 연기를 내뿜는 가열로 앞.",
+      "1000도 이상의 재가열을 마치고 나온 새빨간 직사각형 철판 덩어리를 보고 이 공장 관계자는 이같이 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n982eda7c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260617/134131977/2",
+    "title": "[알립니다]낮은 퇴직연금 수익률… ‘기금형’으로 선택 넓혀야",
+    "summary": [
+      "퇴직연금이 도입된 지 20년이 넘지만 여전히 낮은 수준인 수익률을 높여야 한다는 목소리가 큽니다.",
+      "정부는 여러 기업의 퇴직연금을 통합해 운용하는 ‘기금형’ 퇴직연금 도입 방안을 마련하고 올해 안에 법 개정을 추진하기로 했습니다.",
+      "기금형은 투자 역량이 있는 기관이 퇴직연금을 통합해 운용하고 수익을 가입자에게 배분합니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1a2d1303",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260617/134131957/2",
+    "title": "SK하이닉스, 신입 채용서 ‘학력 제한’ 전면 폐지",
+    "summary": [
+      "SK하이닉스가 17일부터 시작한 신입사원 수시 채용부터 기존 공고에 명시하던 ‘4년제 학사 학위 이상’ 등 학력 제한 요건을 없앴다.",
+      "학력보다는 실제 직무 수행 역량과 성장 가능성을 우선해 인재를 뽑겠다는 취지다.",
+      "SK하이닉스는 채용 시 연령 제한도 이미 철폐했다."
+    ],
+    "chips": [
+      "#AI",
+      "#SK하이닉스",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n4743db6a",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026061730161",
+    "title": "오픈AI 이어 앤스로픽 상륙…AI거점 된 한국",
+    "summary": [
+      "오픈AI 이어 앤스로픽 상륙…AI거점 된 한국."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -643,8 +632,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
