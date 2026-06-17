@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-17 17:00:27
+// 마지막 업데이트: 2026-06-17 17:59:44
 window.NEWS_DB = [
   {
     "id": "nee9fc802",
     "category": "IT",
     "source": "굿모닝경제",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPTXZJSDhYd1BQbnZYeDBENU10WE1aYVY0NC16ZjRjTzlKa2E4aUdNclMxTUt5T01PbXV0RFdIZnpGSU5NQS0wel9rYWllZzltWnl0TWN0TkQzVzZBWWp4eU1HdS15TENHbzZfZw?oc=5",
     "title": "[심층진단] 슈퍼사이클 올라탄 K-반도체…실적 신기록 행진",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nba870d9e",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41S3hXckZrZ1p6ci1ObkNzdl96M3IzMHlLLVFGY2lIeXFTOUN1OXdEODJyT3JFakNFd2d5ek95b2FNOV9PSnRWa01rYThkbFZibXVFcy1ndlBtZ19lMUhwNnlqUXdnb0hCSVBxcUExTmVNcTQ?oc=5",
     "title": "엔비디아 주도 AI 열풍에 삼성전자 SK하이닉스 역할 커져, 젠슨 황 \"반도체 생산 확대\" 요청 주목",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "nbf0ea0ae",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UR1EtU3RET2lPY1FaVmtPeENHV3lpSVl0RUVMX3daNlBBT2NLQS1MSDVycERRNm0ySF9xLVJoWDd1MG0wRW56OGdJNms1NktNR28xTHlMZkRIU0XSAWBBVV95cUxOUHJDNFlEaEhWbXY5ZV9zRXQ0OFFyMml5VXkzMXpVeVJtUnU2VWFTMnFEdU5QT2ltZWF6aVhFOW9KNzItV2NKV3VGVEVLYWk0OG5WQ3hkU2JfMVMzWTZsSTU?oc=5",
     "title": "엔비디아, 5년 만에 회사채 발행 검토…최소 30조원 규모",
     "summary": [
@@ -74,21 +74,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n00266a2f",
-    "category": "IT",
-    "source": "뉴데일리",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QcFc3eWdJcm5FRS1PMTJrRzVucDdqNElQSkZhYVpUejdhYVROYVltTzhocjlYeFF2R0h5cnJGSVNJX3hqQmNuMmNtU0pOOFVrYkRBMldKN3VianpCdm9JSVVkaFVueU1Pc210QW4yUldQZGV3WHUxTl96VQ?oc=5",
-    "title": "삼성전자 글로벌 전략 다시 짠다 … AX·HBM·파운드리 로드맵 점검",
-    "summary": [
-      "삼성전자 글로벌 전략 다시 짠다 … AX·HBM·파운드리 로드맵 점검 뉴데일리."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
     ]
   },
   {
@@ -118,6 +103,20 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업"
+    ]
+  },
+  {
+    "id": "n606b0fb8",
+    "category": "IT",
+    "source": "중기이코노미",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVTk1Z05BbUxORTg5SVdlZV9NR0VvVXBWZTBEYmdVZjQ0a1R1WXU1WHdqU2tWa19uM1dXb1kxX0VkYVkxSEpNMERKVlExY1I2YnZoQ3RrVFprendZVmgwV1JZdzZQRENOcWc?oc=5",
+    "title": "삼성전자, '우리가 1등이 아닌 세상'으로 가고 있는가",
+    "summary": [
+      "삼성전자, '우리가 1등이 아닌 세상'으로 가고 있는가 중기이코노미."
+    ],
+    "chips": [
+      "#삼성전자"
     ]
   },
   {
@@ -238,16 +237,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4324c5c4",
+    "id": "n269e2609",
     "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "21일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkticmh3N2tXTGo4a2JTNjQtazBsUEhkTGFYVnoxMmRTVk5LYlAwMnhxcW43d0NKVlBvcjlhUGdnMlY4RHJaZ0pKT0N3SVpGVFJ1ZFJXc09pY3lrZU1mRkc5b3dTU3FtZ3d6bWZneDJ4VzVFM01ER1ZTV3pYRkFXckxadE0zbTE2b0c0TFg4c3hwcVAyb0hZZdIBrAFBVV95cUxQQmJ1RjVPOVZ6N3plS0xLZ1BWeVVNTnV4ZHB5WlBzWVlFeXpRU0M2cWJITU5uT0x5YklqWWZvMUhLRmVsOWotU3A2R2FreE1hWlpBR3dlWlNSNEF1a1FrWngyLWVoTFl3aHFBNm5WeUxySDBaWWsxNUxLUDhzTDRVYTVROTd5SWNyT3NfQ2NNa1Rva1NPZHhtUlZ1dnBwY2JBNGhZVG5uR0V3Umhu?oc=5",
-    "title": "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈",
+    "source": "v.daum.net",
+    "time": "36일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V2QxMXBpWFM1OHhhdzVfcXF4UDlfSEd4bHFSQ29uZDh4NHdqWThyekp0bm1qaHZTNG1NUU5vWm5GWE9uQ3AtT0pnaDlzbm8?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "서울 장기전세 ‘만기 폭탄’… 입주민들 “재계약·분양전환 해달라” - 조선비즈 Chosunbiz."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] v.daum.net."
     ],
     "chips": [
+      "#부동산",
       "#전세"
     ]
   },
@@ -359,7 +359,7 @@ window.NEWS_DB = [
     "id": "n11d29032",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "4분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152707",
     "title": "[NDC 2026] '셰이프 오브 드림즈'의 성공이 보여준 '데모'의 힘",
     "summary": [
@@ -373,10 +373,138 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n114db9fb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673447",
+    "title": "트럼프 \"MOU에 이란 핵무기 포기 명확\"…민간이용은 허용 시사",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령은 17일(현지 시간) \"우리는 결코 그들(이란)이 핵무기를 갖게두지 않을 것이며 그들도 갖지 않는데 동의했다\"면서 서명을 앞둔 이란과의 종전 양해각서(MOU)에서 \"그점을 아주 명확하게 확인할 수 있다\"고 주장했다.",
+      "다만 이란이 주장하는 민간 용도 핵 프로그램에 대해서는 상식선에서 허용할 수 있음을 시사했다.",
+      "이란 동결자금 해제에 대해서는 \"그들의 돈\"이라며 문제가 없다고 강조했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n620152a6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618002800071",
+    "title": "美 \"이란, 고농축우라늄 이란 내에서 희석해 폐기하는데 동의\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 도널드 트럼프 행정부는 17일(현지시간) 이란과의 종전 양해각서(MOU)와 관련, 이란이 고농축우라늄..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n609185aa",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618002700002",
+    "title": "달러-원, FOMC 결과 앞두고 상승폭 확대…1,515.50원 마감",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne45660bb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/18/MNRTQNLCMI2DIOBTHFSDQNZXHE/",
+    "title": "\"좋은 것도 있고 안 좋은 것도 있었다\" 드디어 웃었다 박세웅, 6G 만에 승수 사냥 성공",
+    "summary": [
+      "[OSEN=인천, 홍지수 기자] 프로야구 롯데 자이언츠 선발투수 박세웅이 모처럼 웃었다.롯데는 17일 인천SSG랜더스필드에서 열린 2026 신한은행 SOL Bank KBO리그 SSG 랜더스와 원정 경기에서 2-1 역전승을 거뒀다.",
+      "이날 선발 등판한 박세웅이 모처럼 제 몫을 해줬다.",
+      "박세웅은 이날 6이닝 동안 8피안타 4탈삼진 1사사구 1실점 호투로 시즌 2."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc1b584a3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618002300071",
+    "title": "미 인도태평양사령부, 8년 만에 다시 '태평양사령부'로",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미군 인도태평양사령부 명칭이 8년 만에 다시 '태평양사령부'로 변경됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc9b9f5d1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673448",
+    "title": "이란 외무 \"美와 종전 MOU에 이스라엘의 레바논 군사행동 중단 포함\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 아바스 아라그치 이란 외무장관은 미국과 이란의 종전 양해각서(MOU) 이행 조건 중 이스라엘의 레바논에 대한 군사 행동 중단이 포함됐으며, 이행돼야 한다는 입장을 강조했다.",
+      "17일(현지 시간) 가디언, 아제르탁 등에 따르면 아라그치 장관은 이날 왕이 중국공산당 중앙정치국 위원 겸 외교부장과 통화를 가졌다.",
+      "아라그치 장관은 왕 부장에게 1단계 종전 MOU의 관련 내용을 설명하고 협상 촉진과 합의 도출 과정에서 중국."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n250a5b91",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673455",
+    "title": "[속보]美, 이란 MOU 전문 공개…\"농축 우라늄 최소 희석 조치\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd70d5de2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618001900099",
+    "title": "보건 전문가들 \"역대 최악 에볼라 우려…종식까지 1년 걸릴수도\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 콩고민주공화국(민주콩고)과 우간다에서 발생한 에볼라가 발병 선언 한 달이 지나도록 확산세가 꺾이지 않..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf1436e00",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "46분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673453",
+    "title": "[속보]트럼프 \"이란 동결자금은 그들의 돈…아마도 돌려줘야\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ne45bd9c5",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/world-baseball/2026/06/18/G5QWCYRVGRSDSZRRMI3GIMJWGY/",
     "title": "日NPB 16구단 체제 이번엔 실현되나…다시 수면 위 떠오른 리그 확장, 가능성은",
     "summary": [
@@ -390,22 +518,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc33847e8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673451",
-    "title": "[속보]트럼프 \"시진핑, 이란에 대공무기 판매않은 것에 감사\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n23377c06",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/baseball/2026/06/18/HE2DCYZTGRRGINZRGJSDMNRUGE/",
     "title": "LG 떨고 있나, 16억 포수+29억 2루수 다 빠졌는데 1위 1G차 압박 “2사 후 연속 적시타로 승기 굳혔다”",
     "summary": [
@@ -418,122 +534,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf96b895c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673450",
-    "title": "[속보]트럼프 \"MOU에 이란 핵무기 포기 명확…비축 우라늄 제거 즉시 논의\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb35d42bb",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/18/GAYTSNJXGM3TIOJYGY3DSMTEMQ/",
-    "title": "\"BTS의 나라인데…\" 한국전 앞둔 멕시코 아미 대혼란! 팬덤 사이 의견분분",
-    "summary": [
-      "[스포츠조선 박상경 기자] 홍명보호와 일전을 앞둔 멕시코, 안방 쾌승을 자신하고 있다.",
-      "그런데 이들 중에 말 못할 속앓이를 하는 이들도 있어 보인다.",
-      "ESPN 스페인어판은 17일(한국시각) 'BTS가 2026 북중미월드컵에서 한국과 맞붙는 멕시코 팬들의 마음을 갈라놓고 있다'고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1c72167e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673449",
-    "title": "[속보]트럼프 \"중러와 비핵화 협정 맺어야…한 국가가 소극적\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n28409482",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673445",
-    "title": "北, 영국 주재 대사 소환…\"英의 송도원 제재에 따른 조치\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 북한이 영국 주재 특명전권대사를 부임 약 한 달 만에 소환했다고 미국의 북한 전문매체 NK뉴스가 17일(현지 시간) 보도했다.",
-      "보도에 따르면 주영국 북한대사관은 매체에 보낸 성명에서 문명신 주영 대사가 평양으로 소환됐다고 밝혔다.",
-      "대사관은 영국 정부가 지난달 송도원국제소년단야영소를 제재 대상에 포함한 데 따른 조치라고 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbde76ea3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "37분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618001400081",
-    "title": "마크롱 \"트럼프도 러 협상 의지 없다는 점 인정…진정한 변화\"",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 올해 주요 7개국(G7) 의장국인 프랑스의 에마뉘엘 마크롱 대통령은 17일(현지시간) 이번 정상회의가 \"객관..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n29906aee",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618001600081",
-    "title": "[속보] 트럼프 \"이스라엘에 종전 MOU 사본 보내\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb6d1da51",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618001500083",
-    "title": "이란 \"종전 MOU, 이스라엘의 레바논 공격 중단 포함\"",
-    "summary": [
-      "(베이징=연합뉴스) 정성조 특파원 = 이란 외무장관은 미국과 체결한 양해각서(MOU) 이행 조건에 이스라엘의 대(對)레바논 군사 행동 중단이 포..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n660018ad",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618001300087",
-    "title": "이번엔 모기약 바르려다…브라질서 또 극한스포츠 도중 추락사",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 브라질에서 익스트림 스포츠를 즐기던 50대 여성이 모기약을 바르려다 발을 헛디뎌 추락사하는 사고가 발생..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nbb81d5d4",
     "category": "경제",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026061800513632398",
     "title": "\"상상력을 풀어놓지 않았다\"…천명관, 폐허의 아이들로 돌아오다",
     "summary": [
@@ -546,10 +550,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n41ca778f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2시간 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/18/G4CL6IPZLBENDDTKSDWEMPNL7U/",
+    "title": "그래미 ‘아시안 팝’ 부문 신설… BTS와 K팝에게 독일까 득일까",
+    "summary": [
+      "그래미 ‘아시안 팝’ 부문 신설… BTS와 K팝에게 독일까 득일까."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n4c53e1ef",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260617/134037175/1",
     "title": "[company&]건설 선진화 이끈 30년… 한미글로벌, 대한민국 PM의 역사를 쓰다",
     "summary": [
@@ -565,7 +583,7 @@ window.NEWS_DB = [
     "id": "na94b9cba",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260617/134131975/2",
     "title": "“SMR 후판은 미래 먹거리… 시장 열리면 바로 양산”",
     "summary": [
@@ -581,7 +599,7 @@ window.NEWS_DB = [
     "id": "n982eda7c",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260617/134131977/2",
     "title": "[알립니다]낮은 퇴직연금 수익률… ‘기금형’으로 선택 넓혀야",
     "summary": [
@@ -597,7 +615,7 @@ window.NEWS_DB = [
     "id": "n1a2d1303",
     "category": "IT",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260617/134131957/2",
     "title": "SK하이닉스, 신입 채용서 ‘학력 제한’ 전면 폐지",
     "summary": [
@@ -610,20 +628,6 @@ window.NEWS_DB = [
       "#SK하이닉스",
       "#채용"
     ]
-  },
-  {
-    "id": "n4743db6a",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026061730161",
-    "title": "오픈AI 이어 앤스로픽 상륙…AI거점 된 한국",
-    "summary": [
-      "오픈AI 이어 앤스로픽 상륙…AI거점 된 한국."
-    ],
-    "chips": [
-      "#AI"
-    ]
   }
 ];
 
@@ -632,20 +636,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
