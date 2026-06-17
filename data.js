@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-17 17:59:44
+// 마지막 업데이트: 2026-06-17 19:02:26
 window.NEWS_DB = [
   {
     "id": "nee9fc802",
     "category": "IT",
     "source": "굿모닝경제",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPTXZJSDhYd1BQbnZYeDBENU10WE1aYVY0NC16ZjRjTzlKa2E4aUdNclMxTUt5T01PbXV0RFdIZnpGSU5NQS0wel9rYWllZzltWnl0TWN0TkQzVzZBWWp4eU1HdS15TENHbzZfZw?oc=5",
     "title": "[심층진단] 슈퍼사이클 올라탄 K-반도체…실적 신기록 행진",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nba870d9e",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41S3hXckZrZ1p6ci1ObkNzdl96M3IzMHlLLVFGY2lIeXFTOUN1OXdEODJyT3JFakNFd2d5ek95b2FNOV9PSnRWa01rYThkbFZibXVFcy1ndlBtZ19lMUhwNnlqUXdnb0hCSVBxcUExTmVNcTQ?oc=5",
     "title": "엔비디아 주도 AI 열풍에 삼성전자 SK하이닉스 역할 커져, 젠슨 황 \"반도체 생산 확대\" 요청 주목",
     "summary": [
@@ -135,6 +135,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n248fc719",
+    "category": "경제",
+    "source": "마켓인",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTEMySTZHNHRyTUpaMEJXaUpSUVlJalZqUDdYVndqdUtFeklISm9rSzVLYUhQRzZobmI4T2pQZ0dtMnl2YjlNUV9XTFFHLVBzNVc0bGNBVUJTTGxJcTFsTmVxWUJzc3ZfaC12dmFaQjNfVWM?oc=5",
+    "title": "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망”",
+    "summary": [
+      "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망” 마켓인."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "n6fd56a9c",
     "category": "사회",
     "source": "시사캐스트",
@@ -147,21 +161,6 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업"
-    ]
-  },
-  {
-    "id": "n7c9e9138",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaTJiYVJiLWtIZnlfZ3VRWm9HeW5QTWhMemtKSDYwdnFZNkRwVmhPN3B3aEpNeVdsLU82V0k3Q0t2Tm9sNHQ5QUJHeF9VcW1XTDNHdGNDMERRZ9IBVEFVX3lxTE5UMmczREttNy14TjBUVE1NeG1kNUQ3WDNZbko4N3JQb3RKY1hEc29pNjFJaHFnUzRzSnFLOVVrano4QWpNSklVTVRyTWxzV1k0ZFVyMQ?oc=5",
-    "title": "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각",
-    "summary": [
-      "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각 한국경제."
-    ],
-    "chips": [
-      "#환율",
-      "#정책"
     ]
   },
   {
@@ -326,10 +325,145 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1407df34",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/18/G5STEMBRMMYTQMJWGUZTKNBZGI/",
+    "title": "'韓 비공개 훈련 정체불명 드론 격추' 日 충격받았다…홍명보호 '용의자 수사 전격 착수'→'FIFA 내용 전달'",
+    "summary": [
+      "[스포츠조선 김가을 기자]대한민국 대표팀을 향한 드론 경계.",
+      "일본 축구 전문 매체 사커킹은 17일 '한국 대표팀 비공개 훈련 중 정체불명의 드론이 등장했다.",
+      "이를 대표팀 보안 요원이 발견해 드론을 추락시켰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6709d6ac",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/18/GFTGGYJZHE2GKMBQMY3DKMDDG4/",
+    "title": "이정후 다시 장타가 터졌다! 서스펜디드 ATL전, 34일 만에 4호 홈런 폭발!",
+    "summary": [
+      "[OSEN=조형래 기자] 샌프란시스코 자이언츠 이정후가 다시 장타까지 폭발시키기 시작했다.이정후는 18일(이하 한국시간) 미국 조지아주 애틀랜타 트루이스트 파크에서 열린 ‘2026 메이저리그’ 애틀랜타 브레이브스와의 서스펜디드 경기에 5번 우익수로 선발 출장했다.",
+      "이날 경기는 전날(17일) 악천후로 2회초가 끝난 뒤 경기가 중단됐고 재개되지 못하면서 서스펜."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90dc5773",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618006800081",
+    "title": "마크롱, 절대왕정 상징 베르사유궁서 트럼프 초청 만찬",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 에마뉘엘 마크롱 프랑스 대통령은 17일(현지시간) 주요 7개국(G7) 정상회의가 끝난 후 도널드 트럼프 미국..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc1016cef",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618006600071",
+    "title": "美법무부 \"'이민단속 방해' 안티파 인사들 대거 기소\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 법무부는 17일(현지시간) \"미네소타주 미니애폴리스에서 당국의 이민단속 작전을 폭력적으로 방해하는 데..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7d40b04",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673460",
+    "title": "워시 의장 첫 FOMC서 금리 동결…연내 인상 가능성 시사",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 케빈 워시 연방준비제도(Fed) 신임 의장 취임 후 열린 첫 연방공개시장위원회(FOMC) 회의에서 연준은 금리를 동결하기로 했다.",
+      "CNBC, 마켓워치 등에 따르면 16~17일 FOMC 회의에서 연준은 만장일치로 기준금리를 연 3.50~3.75%로 유지하기로 결정했다.",
+      "이는 올해 1월과 3월, 4월에 이어 4번째 금리 동결이다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n50f94180",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618002551071",
+    "title": "美, '워시체제' 첫 FOMC서 금리 또 동결…연내 인상 가능성(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)가 17일(현지시간) 신임 케빈 워시 의장 체제하에 개최한 첫 연..."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "ne2f74a80",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673456",
+    "title": "美, 이란 MOU 전문 공개…\"농축 우라늄 최소 희석 조치\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 행정부가 17일(현지 시간) 이란과 서명 예정인 종전 협상 양해각서(MOU) 내용 전문을 공개했다.",
+      "미국 정부 고위관계자가 직접 밝힌 MOU 내용에는 이란의 농축 우라늄 비축량을 최소 희석 조치한다는 내용이 포함됐다.",
+      "반면 호르무즈 해협의 통행료 없는 개방은 60일로 기간을 한정했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n49c7c210",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673463",
+    "title": "'이원택 식비 대납 의혹' 김슬지 도의원 재소환조사, 17시간 소요",
+    "summary": [
+      "[전주=뉴시스]강경호 기자 = 이원택 전북특별자치도지사 당선인의 식사비 대납 의혹에서 식비를 결제한 당사자로 지목받는 김슬지 전북도의원에 대한 2차 소환 조사가 17시간여 만에 종료됐다.",
+      "전북경찰청 반부패경제범죄수사대는 지난 17일 공직선거법 위반(제3자 기부행위 제한) 등 혐의로 김 도의원을 피의자 신분으로 불러 조사했다.",
+      "조사는 자정을 넘긴 18일 오전 3시께 종료돼 17시간 가량 소요됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nac3cfd37",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618002900072",
+    "title": "美 원유재고 급감…1985년 이후 최저 수준",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미·이란 전쟁에 따른 호르무즈 해협 봉쇄 여파로 미국의 원유 재고가 41년 만에 가장 낮은 수준으로 떨어진 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ndf52ee56",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "34분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152708",
     "title": "KISA, 45억원 풀어 'N2SF 안착' 지원...보안기업도 공공 전환 수요 대비",
     "summary": [
@@ -343,7 +477,7 @@ window.NEWS_DB = [
     "id": "n0e2bfc8e",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "37분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152705",
     "title": "[가봤다] \"쉿! 바닷 속 세계로 출발\"...메가 IP와 AI가 만난 '아기상어: 비커밍 샤크'",
     "summary": [
@@ -356,10 +490,126 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd743e031",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260618/134133772/1",
+    "title": "원유 먼저 풀려도 비료는 뒤로…호르무즈 정상화 “며칠 아닌 몇 주”",
+    "summary": [
+      "[서울=뉴시스] 박영환 기자 = 미국과 이란의 임시 평화 합의에도 호르무즈해협 물류가 곧바로 정상화되기는 어려울 것으로 보인다.",
+      "원유 수송부터 단계적으로 재개될 가능성이 큰 가운데 비료 원료와 컨테이너 화물은 몇 주간, 액화천연가스(LNG)는 연말까지 차질이 이어질 수 있다는 분석이 나온다.마켓워치는 16일(현지시간) 미·이란 임시 평화 합의가 호르무즈해협을 둘러싼 까다로운 질문들에 충분한 답을 주지 못하고 있다며 이같이 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7137db86",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "44분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260618/134133769/1",
+    "title": "“이란 유조선, 美 봉쇄선 돌파…종전 MOU 이후 원유 수출 재개”",
+    "summary": [
+      "미국과 이란이 종전 양해각서(MOU)에 원격 서명한 가운데 이란 초대형 유조선(VLCC)들이 연이어 미국 해군의 봉쇄 구역을 벗어나거나 접근하고 있는 것으로 파악됐다.선박 추적 사이트 탱커트래커스는 16일(현지시간) 소셜미디어 엑스(X·옛 트위터)에 “미 해군이 봉쇄 중인 걸프 해역에서 이란 유조선들이 빠져나왔다”며 “두 달간 중단됐던 이란산 원유 수출이 재개된 첫 사례”라고 전했다.이어 “우리가 위성 이미지로 검증한 AIS(선박자동식별장치)."
+    ],
+    "chips": [
+      "#AI",
+      "#수출"
+    ]
+  },
+  {
+    "id": "n5f6a5a6b",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673462",
+    "title": "[속보]美연준, 올해말 기준금리 중간값 3.4%→3.8% 상향 조율",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 aci27@newsis.com."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "ne5bb6c7d",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "49분 전",
+    "url": "https://www.hankyung.com/article/202606183068i",
+    "title": "매파 성향 강해진 Fed, 물가 전망 대폭 상향…“고금리 더 오래 간다”[Fed 워치]",
+    "summary": [
+      "매파 성향 강해진 Fed, 물가 전망 대폭 상향…“고금리 더 오래 간다”[Fed 워치]."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n7e1d27a9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "51분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/18/G4ZWINBTGY2GIMBQMNSTQYRYMQ/",
+    "title": "亞 무패 바라보는 中 뜬금포 \"상대 너무 강했다, 억울해!\"…현지 팬 \"정신승리 그만\" 냉소",
+    "summary": [
+      "[스포츠조선 박상경 기자] 2026 북중미월드컵 조별리그 1라운드의 화두는 '아시아 대약진'이다.",
+      "한국이 체코를 2대1로 꺾은 것을 시작으로, 일본은 네덜란드와 접전 끝에 2대2 무승부를 일궜다.",
+      "호주가 튀르키예를 2대0으로 완파했고, 카타르가 스위스와 1대1로 비긴 데 이어 사우디아라비아도 우루과이와 1대1로 비기면서 무패 행진을 이어갔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naf197802",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "56분 전",
+    "url": "https://www.hankyung.com/article/202606183064i",
+    "title": "Fed, 기준금리 3.5~3.75% 만장일치 동결…\"인플레이션 여전히 높다\"[Fed 워치]",
+    "summary": [
+      "Fed, 기준금리 3.5~3.75% 만장일치 동결…\"인플레이션 여전히 높다\"[Fed 워치]."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n62c2702c",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/18/4D5UYCR24NF35N7E6DO3VMWEBQ/",
+    "title": "美 연준 금리 동결...연내 금리인하 기대 사실상 접어",
+    "summary": [
+      "美 연준 금리 동결...연내 금리인하 기대 사실상 접어."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n3ccd82db",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606183059i",
+    "title": "[속보]美 Fed, 기준금리 연 3.5~3.75%로 동결[Fed워치]",
+    "summary": [
+      "[속보]美 Fed, 기준금리 연 3.5~3.75%로 동결[Fed워치]."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
     "id": "n11d29032",
     "category": "사회",
     "source": "테크M",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152707",
     "title": "[NDC 2026] '셰이프 오브 드림즈'의 성공이 보여준 '데모'의 힘",
     "summary": [
@@ -371,263 +621,6 @@ window.NEWS_DB = [
       "#취업",
       "#교육"
     ]
-  },
-  {
-    "id": "n114db9fb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673447",
-    "title": "트럼프 \"MOU에 이란 핵무기 포기 명확\"…민간이용은 허용 시사",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령은 17일(현지 시간) \"우리는 결코 그들(이란)이 핵무기를 갖게두지 않을 것이며 그들도 갖지 않는데 동의했다\"면서 서명을 앞둔 이란과의 종전 양해각서(MOU)에서 \"그점을 아주 명확하게 확인할 수 있다\"고 주장했다.",
-      "다만 이란이 주장하는 민간 용도 핵 프로그램에 대해서는 상식선에서 허용할 수 있음을 시사했다.",
-      "이란 동결자금 해제에 대해서는 \"그들의 돈\"이라며 문제가 없다고 강조했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n620152a6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618002800071",
-    "title": "美 \"이란, 고농축우라늄 이란 내에서 희석해 폐기하는데 동의\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 도널드 트럼프 행정부는 17일(현지시간) 이란과의 종전 양해각서(MOU)와 관련, 이란이 고농축우라늄..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n609185aa",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618002700002",
-    "title": "달러-원, FOMC 결과 앞두고 상승폭 확대…1,515.50원 마감",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne45660bb",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/18/MNRTQNLCMI2DIOBTHFSDQNZXHE/",
-    "title": "\"좋은 것도 있고 안 좋은 것도 있었다\" 드디어 웃었다 박세웅, 6G 만에 승수 사냥 성공",
-    "summary": [
-      "[OSEN=인천, 홍지수 기자] 프로야구 롯데 자이언츠 선발투수 박세웅이 모처럼 웃었다.롯데는 17일 인천SSG랜더스필드에서 열린 2026 신한은행 SOL Bank KBO리그 SSG 랜더스와 원정 경기에서 2-1 역전승을 거뒀다.",
-      "이날 선발 등판한 박세웅이 모처럼 제 몫을 해줬다.",
-      "박세웅은 이날 6이닝 동안 8피안타 4탈삼진 1사사구 1실점 호투로 시즌 2."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc1b584a3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618002300071",
-    "title": "미 인도태평양사령부, 8년 만에 다시 '태평양사령부'로",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미군 인도태평양사령부 명칭이 8년 만에 다시 '태평양사령부'로 변경됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc9b9f5d1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673448",
-    "title": "이란 외무 \"美와 종전 MOU에 이스라엘의 레바논 군사행동 중단 포함\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 아바스 아라그치 이란 외무장관은 미국과 이란의 종전 양해각서(MOU) 이행 조건 중 이스라엘의 레바논에 대한 군사 행동 중단이 포함됐으며, 이행돼야 한다는 입장을 강조했다.",
-      "17일(현지 시간) 가디언, 아제르탁 등에 따르면 아라그치 장관은 이날 왕이 중국공산당 중앙정치국 위원 겸 외교부장과 통화를 가졌다.",
-      "아라그치 장관은 왕 부장에게 1단계 종전 MOU의 관련 내용을 설명하고 협상 촉진과 합의 도출 과정에서 중국."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n250a5b91",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673455",
-    "title": "[속보]美, 이란 MOU 전문 공개…\"농축 우라늄 최소 희석 조치\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd70d5de2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618001900099",
-    "title": "보건 전문가들 \"역대 최악 에볼라 우려…종식까지 1년 걸릴수도\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 콩고민주공화국(민주콩고)과 우간다에서 발생한 에볼라가 발병 선언 한 달이 지나도록 확산세가 꺾이지 않..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf1436e00",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "46분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673453",
-    "title": "[속보]트럼프 \"이란 동결자금은 그들의 돈…아마도 돌려줘야\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne45bd9c5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/18/G5QWCYRVGRSDSZRRMI3GIMJWGY/",
-    "title": "日NPB 16구단 체제 이번엔 실현되나…다시 수면 위 떠오른 리그 확장, 가능성은",
-    "summary": [
-      "[스포츠조선 박상경 기자] 오 사다하루(왕정치) 소프트뱅크 호크스 회장이 일본 프로야구(NPB) 구단 수 확대를 주장하고 나섰다.",
-      "오 회장은 17일 도쿄 나가타마치의 중의원회관에서 열린 '야구의 미래를 생각하는 의원 연맹' 총회에 참석해 NPB 확장에 대한 생각을 밝혔다.",
-      "지난해 자신이 설립한 사단법인(구심회) 회장 자격으로 참석한 오 회장은 \"각 지역 팬."
-    ],
-    "chips": [
-      "#KBO",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n23377c06",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/18/HE2DCYZTGRRGINZRGJSDMNRUGE/",
-    "title": "LG 떨고 있나, 16억 포수+29억 2루수 다 빠졌는데 1위 1G차 압박 “2사 후 연속 적시타로 승기 굳혔다”",
-    "summary": [
-      "[OSEN=잠실, 이후광 기자] 주전 포수, 2루수가 모두 부상으로 빠졌는데 빅이닝을 앞세워 1위와 격차를 1경기로 좁혔다.",
-      "정말 마법사군단의 뎁스가 두터워졌다.",
-      "프로야구 KT 위즈는 17일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 두산 베어스와의 시즌 8차전에서 8-1로 승리했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nbb81d5d4",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://view.asiae.co.kr/article/2026061800513632398",
-    "title": "\"상상력을 풀어놓지 않았다\"…천명관, 폐허의 아이들로 돌아오다",
-    "summary": [
-      "\"개작이 처음 쓰는 것보다 더 힘들었다.\" 소설가 천명관은 17일 서울 마포구 창비 서교빌딩에서 열린 장편소설 '아코디언' 출간 기자간담회에서 이렇게 말했다.",
-      "2016년 '이것이 남자의 세상이다' 이후 10년 만에 내놓은 장편이다.",
-      "그는 이번 작품을 두고 자신이 쓴 소설 가운데 \"가장 힘든 작업\"이었다고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41ca778f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2시간 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/18/G4CL6IPZLBENDDTKSDWEMPNL7U/",
-    "title": "그래미 ‘아시안 팝’ 부문 신설… BTS와 K팝에게 독일까 득일까",
-    "summary": [
-      "그래미 ‘아시안 팝’ 부문 신설… BTS와 K팝에게 독일까 득일까."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4c53e1ef",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260617/134037175/1",
-    "title": "[company&]건설 선진화 이끈 30년… 한미글로벌, 대한민국 PM의 역사를 쓰다",
-    "summary": [
-      "1996년 우리나라에서는 경제협력개발기구(OECD) 가입을 계기로 사회·경제 전반에 걸쳐 선진화와 세계화의 요구가 거셌다.",
-      "그러나 1994년 성수대교 붕괴와 1995년 삼풍백화점 붕괴 등 잇따른 대형 참사는 당시 국내 건설업계가 후진성을 면치 못하고 있음을 여실히 보여주었다.",
-      "이러한 문제의식 속에서 김종훈 회장이 선진 건설 관리 기법을 국내에 도입하기 위해 1996년 국내 건설업계 최초로 미국 기업과 합작해 출범시킨 건설사업관리(PM) 전문 회."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na94b9cba",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260617/134131975/2",
-    "title": "“SMR 후판은 미래 먹거리… 시장 열리면 바로 양산”",
-    "summary": [
-      "“오늘 이 철판 덩어리는 조선용으로 가공되지만, ‘미니 원전’인 소형모듈원자로(SMR) 시대가 열리는 대로 SMR용으로도 바로 양산 가능합니다.” 지난달 28일 충남 당진시 현대제철 당진제철소의 1후판공장.",
-      "천둥소리 같은 굉음과 매캐한 연기를 내뿜는 가열로 앞.",
-      "1000도 이상의 재가열을 마치고 나온 새빨간 직사각형 철판 덩어리를 보고 이 공장 관계자는 이같이 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n982eda7c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260617/134131977/2",
-    "title": "[알립니다]낮은 퇴직연금 수익률… ‘기금형’으로 선택 넓혀야",
-    "summary": [
-      "퇴직연금이 도입된 지 20년이 넘지만 여전히 낮은 수준인 수익률을 높여야 한다는 목소리가 큽니다.",
-      "정부는 여러 기업의 퇴직연금을 통합해 운용하는 ‘기금형’ 퇴직연금 도입 방안을 마련하고 올해 안에 법 개정을 추진하기로 했습니다.",
-      "기금형은 투자 역량이 있는 기관이 퇴직연금을 통합해 운용하고 수익을 가입자에게 배분합니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1a2d1303",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260617/134131957/2",
-    "title": "SK하이닉스, 신입 채용서 ‘학력 제한’ 전면 폐지",
-    "summary": [
-      "SK하이닉스가 17일부터 시작한 신입사원 수시 채용부터 기존 공고에 명시하던 ‘4년제 학사 학위 이상’ 등 학력 제한 요건을 없앴다.",
-      "학력보다는 실제 직무 수행 역량과 성장 가능성을 우선해 인재를 뽑겠다는 취지다.",
-      "SK하이닉스는 채용 시 연령 제한도 이미 철폐했다."
-    ],
-    "chips": [
-      "#AI",
-      "#SK하이닉스",
-      "#채용"
-    ]
   }
 ];
 
@@ -635,15 +628,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "tag": "금리",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
