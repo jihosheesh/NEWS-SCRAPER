@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-17 13:09:07
+// 마지막 업데이트: 2026-06-17 15:03:04
 window.NEWS_DB = [
   {
     "id": "nee9fc802",
     "category": "IT",
     "source": "굿모닝경제",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPTXZJSDhYd1BQbnZYeDBENU10WE1aYVY0NC16ZjRjTzlKa2E4aUdNclMxTUt5T01PbXV0RFdIZnpGSU5NQS0wel9rYWllZzltWnl0TWN0TkQzVzZBWWp4eU1HdS15TENHbzZfZw?oc=5",
     "title": "[심층진단] 슈퍼사이클 올라탄 K-반도체…실적 신기록 행진",
     "summary": [
@@ -19,17 +19,17 @@ window.NEWS_DB = [
     "id": "nba870d9e",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41S3hXckZrZ1p6ci1ObkNzdl96M3IzMHlLLVFGY2lIeXFTOUN1OXdEODJyT3JFakNFd2d5ek95b2FNOV9PSnRWa01rYThkbFZibXVFcy1ndlBtZ19lMUhwNnlqUXdnb0hCSVBxcUExTmVNcTQ?oc=5",
-    "title": "엔비디아 주도 AI 열풍에 삼성전자 SK하이닉스 역할 커져, 젠슨 황 \"생산 확대\" 요청 주목",
+    "title": "엔비디아 주도 AI 열풍에 삼성전자 SK하이닉스 역할 커져, 젠슨 황 \"반도체 생산 확대\" 요청 주목",
     "summary": [
-      "엔비디아 주도 AI 열풍에 삼성전자 SK하이닉스 역할 커져, 젠슨 황 \"생산 확대\" 요청 주목 비즈니스포스트."
+      "엔비디아 주도 AI 열풍에 삼성전자 SK하이닉스 역할 커져, 젠슨 황 \"반도체 생산 확대\" 요청 주목 비즈니스포스트."
     ],
     "chips": [
       "#AI",
+      "#반도체",
       "#엔비디아",
-      "#삼성전자",
-      "#SK하이닉스"
+      "#삼성전자"
     ]
   },
   {
@@ -77,11 +77,26 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0325eee6",
+    "id": "n00266a2f",
+    "category": "IT",
+    "source": "뉴데일리",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QcFc3eWdJcm5FRS1PMTJrRzVucDdqNElQSkZhYVpUejdhYVROYVltTzhocjlYeFF2R0h5cnJGSVNJX3hqQmNuMmNtU0pOOFVrYkRBMldKN3VianpCdm9JSVVkaFVueU1Pc210QW4yUldQZGV3WHUxTl96VQ?oc=5",
+    "title": "삼성전자 글로벌 전략 다시 짠다 … AX·HBM·파운드리 로드맵 점검",
+    "summary": [
+      "삼성전자 글로벌 전략 다시 짠다 … AX·HBM·파운드리 로드맵 점검 뉴데일리."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "ned793644",
     "category": "IT",
     "source": "v.daum.net",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mM0pBbXo4UHF6QTlGU2JVOEJQeEg3VmtpQ1dTZ01aR2VBamVKVUhiWlQ2bkVpLWRjaDQzb1JVaXRFUVZqN3UzTzdyUE5JaWVZUTNmcQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJVjk5cTljaW9ZellqRk5hTnVFNktiTHpFcC1MeHhEcHlheEdkX2FsNXV4XzNkd2F1bURTWms3NWkzUEVXYlE?oc=5",
     "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
     "summary": [
       "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? v.daum.net."
@@ -106,20 +121,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n606b0fb8",
-    "category": "IT",
-    "source": "중기이코노미",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVTk1Z05BbUxORTg5SVdlZV9NR0VvVXBWZTBEYmdVZjQ0a1R1WXU1WHdqU2tWa19uM1dXb1kxX0VkYVkxSEpNMERKVlExY1I2YnZoQ3RrVFprendZVmgwV1JZdzZQRENOcWc?oc=5",
-    "title": "삼성전자, '우리가 1등이 아닌 세상'으로 가고 있는가",
-    "summary": [
-      "삼성전자, '우리가 1등이 아닌 세상'으로 가고 있는가 중기이코노미."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "nfd966927",
     "category": "사회",
     "source": "hkilbo.kr",
@@ -132,6 +133,21 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#고용"
+    ]
+  },
+  {
+    "id": "n6fd56a9c",
+    "category": "사회",
+    "source": "시사캐스트",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
+    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
+    "summary": [
+      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
     ]
   },
   {
@@ -161,23 +177,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n31acb708",
-    "category": "사회",
-    "source": "아주경제",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
-    "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -376,258 +375,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne08eb8e5",
+    "id": "n1d2f5f99",
     "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260617_0003672066",
+    "title": "'10kg 감량' 안은진이 공개한 식단…칼로리 낮고 포만감 오래가는 '이것'",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 10㎏ 감량에 성공한 배우 안은진의 식단이 공개돼 화제다.",
+      "그는 최근 자신의 SNS에 \"어느 날의 셋로그\"라는 제목과 함께 영상을 올렸다.",
+      "영상에 따르면 안은진은 \"오늘의 아점\"이라고 소개하며 새우와 여러 가지 채소, 현미밥 등이 들어간 포케를 먹었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne1fc8341",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260617_0003671922",
+    "title": "신혼여행 가서 낯선 외국인 여성과 스킨십한 남편…\"파혼해야겠죠?\"",
+    "summary": [
+      "[서울=뉴시스]박윤서 인턴 기자 = 신혼여행에서 남편이 낯선 외국인 여성과 스킨십을 하는 모습을 본 여성이 파혼하고 싶다고 밝혔다.",
+      "17일 YTN 라디오 '조인섭 변호사의 상담소'에는 만난 지 3개월 된 남성과 결혼식을 올리고 하와이로 신혼여행을 떠났다는 30대 여성 A씨의 사연이 전해졌다.",
+      "A씨는 \"결혼정보회사에 가입했고 그곳에서 남편을 만났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n89e07756",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260617_0003671919",
+    "title": "'38㎏ 감량' 고도비만 탈출 의사의 위고비·마운자로 생생 후기…\"부작용은 잠깐\"",
+    "summary": [
+      "[서울=뉴시스]박윤서 인턴 기자 = 장형우 분당서울대학교병원 교수가 직접 비만 치료제 위고비, 마운자로를 이용한 후기를 남겼다.",
+      "16일 유튜브 '닥터딩요'에 출연한 장 교수는 자신이 수술과 비만 치료제를 통해 고도비만을 탈출했다고 밝혔다.",
+      "118㎏에서 시작했는데 현재는 77㎏이라고 한다."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2f5766a9",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026061715002017976",
+    "title": "양자컴퓨터 '100큐비트 벽' 넘었다…구글·IBM에 도전장[과학을읽다]",
+    "summary": [
+      "양자컴퓨터 업계가 또 한 번 중요한 이정표를 넘어섰다.",
+      "그동안 높은 정확도를 강점으로 내세웠지만 규모 확대에 어려움을 겪던 트랩이온 방식이 처음으로 100큐비트에 근접한 시스템을 선보이며 구글과 IBM이 주도해 온 초전도 양자컴퓨터 진영에 본격적인 도전장을 내밀었다.",
+      "국제학술지 네이처는 18일 미국 양자컴퓨팅 기업 퀀티넘(Quantinuum)이 개발한 98큐비트 트랩이온 양자 프로세서 '헬리오스(Helios)' 에 대한 연구 결과."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3e66f9ce",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673441",
+    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
+    "summary": [
+      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
+      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
+      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n560512b8",
+    "category": "경제",
+    "source": "조선비즈IT",
+    "time": "3분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/17/VUQHVXTJIFCFNFFX5GAVACMWYM/",
+    "title": "앤트로픽 “미토스 수출 통제 수일 내 풀릴 것”…서울 사무소 열고 韓 공략",
+    "summary": [
+      "앤트로픽 “미토스 수출 통제 수일 내 풀릴 것”…서울 사무소 열고 韓 공략."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n2779c4b3",
+    "category": "IT",
     "source": "아시아경제",
     "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026061722054741914",
-    "title": "靑 \"李, G7 플러스 지향 글로벌 책임 강국 위상 공고화\"",
+    "url": "https://view.asiae.co.kr/article/2026061718050829774",
+    "title": "앤스로픽 \"한국은 가장 빨리 성장하는 시장…AI 생태계와 협력할 것\"",
     "summary": [
-      "청와대가 이재명 대통령의 주요 7개국(G7) 정상회의 참석에 대해 \"2년 연속 G7 정상회의에 참석하면서 G7 플러스를 지향하는 글로벌 책임 강국으로서의 위상을 공고히 했다\"고 평가했다.",
-      "오현주 국가안보실 3차장은 17일(현지시간) 브리핑을 통해 \"글로벌 현안 해결을 위한 국제사회의 연대에 적극적으로 동참하고 2028년 G20 의장국으로서 관련 의제를 주도할 의지를 표명했고 G7 정상들 간 합의 문서 대부분에 동참했다\"며 이같이."
+      "\"한국은 풀스택을 가진 몇 안 되는 나라이고, 앤스로픽보다도 더 먼저 준비된 환경이다.\"지난달 선임된 최기영 앤스로픽 한국 대표는 17일 앤스로픽 서울 오피스 공식 개소를 기념해 열린 기자간담회에서 한국 진출 배경과 계획을 밝혔다.",
+      "앤스로픽 서울 오피스는 국내 고객과 파트너를 지원하며 한국의 AI 생태계와 긴밀한 협력을 이어가기 위한 핵심 거점 역할을 수행한다.",
+      "최 대표는 \"기술 혁신과 안전성이 상충하는 가치가 아닌."
     ],
     "chips": [
-      "#정치"
+      "#AI",
+      "#환경"
     ]
   },
   {
-    "id": "n42dea821",
+    "id": "n1f0cfc48",
     "category": "스포츠",
-    "source": "조선일보",
+    "source": "동아일보",
     "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/17/GA2TENJZGQ3TGNZQMEZWGY3FGA/",
-    "title": "염갈량은 알고 있었다! 2059일만의 선발등판 → 간절했던 52억 '먹튀' 탈출기…LG 장현식, 친정팀 KIA 상대로 4⅔이닝 2실점 역투 [광주리포트]",
+    "url": "https://www.donga.com/news/Society/article/all/20260617/134133512/1",
+    "title": "올림픽공원 시위 현장서 자해 소동…30대 남성 병원 이송",
     "summary": [
-      "[광주=스포츠조선 김영록 기자] LG 트윈스 장현식이 이적 후 첫 선발등판을 성공적으로 치러냈다.",
-      "장현식은 17일 광주 기아챔피언스필드에서 열린 KIA 타이거즈와의 주중시리즈 2차전에서 4⅔이닝 2실점으로 역투했다.",
-      "아웃카운트 14개를 잡는 동안 투구수는 61개."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb56d267f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/17/GY2GIMBWG4YGKNLFMFTDKNTGHE/",
-    "title": "장항준 감독 \"가난해서 美비자 거절 당해..♥김은희와 신혼여행 못가\"",
-    "summary": [
-      "[OSEN=하수정 기자] '왕사남' 장항준 감독이 과거 돈이 없어서 미국 비자를 거절 당했다고 고백했다.17일 'VIVO TV-비보티비' 채널에는 '토크의 축복이 끊이질 않네 장항준X최화정 입담 대폭발, 비밀보장'이라는 제목의 영상이 업로드됐다.팬들의 사연을 듣고 조언을 건네는 코너를 진행했고, 한 팬은 결혼 전 남편과 한번도 여행을 가지 않았다며 신혼여행."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nde40b834",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/17/MJSTIOBRMM3TOMRSMY2GKYZSHA/",
-    "title": "이럴수가,161km 리오스가 무너졌다...김호령 2루타→김도영 결승타→나성범 투런포, KIA 5-4 LG 제압 [광주 리뷰]",
-    "summary": [
-      "[OSEN=광주, 이선호 기자]KIA타이거즈가 2연패에서 벗어났다.",
-      "KIA는 17일 광주-기아 챔피언스필드에서 열린 2026 신한은행 SOL bank KBO리그 LG트윈스와의 팀간 10차전을 5-4로 승리했다.",
-      "나성범이 결정적인 투런홈런 포함 멀티포를 터트렸고 김도영이 8회 결승타를 날렸다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n0deedb16",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026061722001437404",
-    "title": "[김희윤의 책섶]편두통은 머리에만 오지 않는다",
-    "summary": [
-      "\"원래 머리가 이렇게 맑은 게 정상인가요?\" 아픈 사람이 가장 늦게 배우는 감각은 고통이 아니라 정상이다.",
-      "너무 오래 아프면, 덜 아픈 날을 건강이라고 착각한다.",
-      "곽태호 신경과 전문의의 '편두통 NOW, 편견을 깨다'는 그 착각을 건드리는 책이다."
+      "투표용지 부족 사태로 촉발된 서울 송파구 올림픽공원 핸드볼경기장 봉쇄 시위가 13일째 이어지고 있는 가운데, 한 30대 남성이 흉기로 사람들을 위협하고 자해하다 병원으로 옮겨졌다.경찰과 소방에 따르면 17일 오후 10시 24분경 30대 남성은 올림픽공원 핸드볼경기장 시위 현장에서 “사람이 죽어가고 있다”는 말을 반복하며 흉기를 휘두르다 경찰에 의해 제지됐다.",
+      "이날 소셜네트워크서비스(SNS)에 공유된 영상에는 해당 남성이 양손에 든 태극기와 흉기."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n7ac2709a",
+    "id": "n925081de",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003672991",
-    "title": "'월드컵 최다골 타이' 메시, 추격하는 음바페…골잡이 경쟁 시작[월드컵24시]",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260617175151004",
+    "title": "잠실개표소 시위 현장서 흉기 자해…경찰 대치 끝 제압(종합)",
     "summary": [
-      "[서울=뉴시스] 김진엽 기자 = '전 세계 축구 축제'인 국제축구연맹(FIFA) 북중미 월드컵에서 별들의 싸움이 펼쳐진다.",
-      "17일(한국 시간) 현재 홍명보 감독이 이끄는 한국 남자 축구 대표팀이 속한 A조부터 J조까지 1차전이 진행됐다.",
-      "오는 18일 K조, L조 일정까지 소화하면, 19일부터 다시 A조의 2차전이 펼쳐질 예정이다."
+      "(서울=연합뉴스) 윤민혁 기자 = 6·3 지방선거 투표용지 부족 사태로 촉발돼 서울 올림픽공원 핸드볼경기장에서 이어지는 '개표소 봉쇄 시위' 현..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb6dab35e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260617/134133454/1",
+    "title": "국힘, 선거소청 11곳 제출…의총선 장동혁 사퇴 압박",
+    "summary": [
+      "국민의힘이 6·3 지방선거 패배에 따른 장동혁 대표의 거취와 투표용지 부족 사태에 대한 선거 소청을 논의하기 위해 17일 연 긴급의원총회에서 장 대표 퇴진론이 쏟아졌다.",
+      "장 대표 사퇴를 공개 요구해왔던 개혁 성향 의원 모임인 ‘대안과 미래’, 친한(친한동훈)계는 물론이고 일부 옛 친윤(친윤석열)계 중진 의원들까지 장 대표 사퇴의 필요성에 입을 모은 것.",
+      "장 대표가 요구해온 전국 재선거 주장도 받아들여지지 않으면서 장 대표의 정치적 입지는 더욱."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc51aa048",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260617176500001",
+    "title": "李대통령, G7 업무오찬 참석…AI 시대 '공유·안전' 과제 제시",
+    "summary": [
+      "(에비앙=연합뉴스) 임형섭 고동욱 기자 = 주요7개국(G7) 정상회의 참석을 위해 프랑스 에비앙을 방문한 이재명 대통령은 17일(현지시간) 회의..."
+    ],
+    "chips": [
+      "#AI",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb174ef5f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/opinion/column/2026/06/17/OB53XMULU5DNZLC6F2Q6LHLGMI/",
+    "title": "[양상훈 칼럼] 민주당의 가을",
+    "summary": [
+      "[양상훈 칼럼] 민주당의 가을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n35853909",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003673383",
-    "title": "오태양 끝내기 희생플라이…NC, 한화 5연패로 몰아",
+    "id": "n5125af1d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260617175800108",
+    "title": "\"튀르키예, 차기 원전 건설에 캐나다 기술 도입 검토\"",
     "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 NC 다이노스가 한화 이글스를 5연패의 수렁으로 몰아넣었다.",
-      "NC는 17일 창원 NC파크에서 벌어진 2026 신한 쏠 KBO리그 한화와의 경기에서 9회말 나온 오태양의 끝내기 희생플라이에 힘입어 5-4로 이겼다.",
-      "4-4로 맞선 9회말 선두타자 박민우가 우중간 2루타를 날려 끝내기 승리 희망을 키운 NC는 박시원이 희생번트에 성공해 1사 3루를 이어갔다."
+      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예가 건설을 검토하고 있는 차기 원자력발전소와 관련해 캐나다 기술을 도입하는 방안을 검토 중이라고 ..."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n58257730",
-    "category": "스포츠",
+    "id": "n56d5e119",
+    "category": "경제",
     "source": "연합뉴스",
     "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612159354007",
-    "title": "[프로야구] 18일 선발투수",
+    "url": "https://www.yna.co.kr/view/AKR20260617176400087",
+    "title": "쿠바 봉쇄중인 美, 쿠바로의 '우회수출' 급증",
     "summary": [
-      "[프로야구] 18일 선발투수."
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국의 봉쇄로 사상 최악의 연료·경제난이 가중되고 있는 쿠바에서 미국 기업의 수출이 급증한 것으로 나타..."
     ],
     "chips": [
-      "#KBO"
+      "#수출"
     ]
   },
   {
-    "id": "n3e880337",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003673338",
-    "title": "[KBO 내일의 선발투수]6월18일(목)",
+    "id": "n38ccc97d",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026061723500824098",
+    "title": "美 5월 소매판매 0.9%↑…전망치 크게 웃돌아",
     "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 6월18일(목)> ▲잠실(오후 6시30분) KT (소형준) - (최민석) 두산 ▲대구(오후 6시30분) 키움 (안우진) - (잭 오러클린) 삼성 ▲문학(오후 6시30분) 롯데 (엘빈 로드리게스) - (타케다 쇼타) SSG ▲광주(오후 6시30분) LG (앤더스 톨허스트) - (양현종) KIA ▲창원(오후 6시30분) 한화 (윌켈 에르난데스) - (커티스 테일러) NC."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n20426534",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612159154007",
-    "title": "[프로야구 중간순위] 17일",
-    "summary": [
-      "[프로야구 중간순위] 17일."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n95a5813b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260617_0003673401",
-    "title": "장성서 주행 중인 1t 화물차 화재…인명피해 없어",
-    "summary": [
-      "[장성=뉴시스]양시원 기자 = 17일 오후 7시35분께 전남 장성군 북일면 한 도로에서 주행 중인 1t 화물차에서 불이 났다.",
-      "불은 출동한 소방 당국에 의해 21분 만에 꺼졌다.",
-      "소방당국은 차량 엔진룸에서 불이 시작됐다는 운전자 진술을 토대로 정확한 화재 원인을 조사 중이다."
+      "미국의 5월 소비가 시장 전망치를 상회한 것으로 나타났다.",
+      "미 상무부는 5월 미국의 소매판매가 전월 대비 0.9% 증가했다고 17일(현지시간) 밝혔다.",
+      "다우존스가 집계한 전문가 전망치 0.5%를 크게 웃돌았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne059f65c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260617/134129940/1",
-    "title": "“한동훈 복당 서두르는 이유? 장동혁 부정선거론에 당 망할 지경”[정치를 부탁해]",
-    "summary": [
-      "동아일보 정치 라이브 ＜정치를 부탁해＞- 일시: 월·수요일 오전 10~11시- 토크: 김종혁 전 국민의힘 최고위원, 박원석 전 정의당 의원- 진행·연출: 조동주 김선우 - 동아일보 유튜브 : www.youtube.com/@donga-ilbo6·3 지방선거 이후 국민의힘 장동혁 대표가 선거 패배에 따른 사퇴론에 대해 선을 긋고 있는 가운데 무소속 한동훈 의원의 복당 관련 발언은 장 대표 때문이라는 주장이 나왔다.",
-      "여권 내 친명(친이재명)계와 친청."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2c28b74a",
+    "id": "n19f57ed2",
     "category": "경제",
     "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026061721391887679",
-    "title": "금리 1%대 진입…'예금금리 400배 폭등'에 한숨 쉬는 日청년들",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026061723470020701",
+    "title": "'국힘 당원가입 강요' 신천지 前 간부들 구속",
     "summary": [
-      "일본이 30년 만에 '금리 1% 시대'에 진입하며 통화정책 정상화에 속도를 내고 있다.",
-      "다만 예금 이자는 늘었지만 대출 부담도 함께 커지면서 고령층과 청년층, 대기업과 중소기업 간 체감이 크게 엇갈릴 것이라는 전망이 나온다.",
-      "초저금리 종료…31년 만에 금리 1%대 진입일본은행(BOJ)은 지난 16일 금융정책결정회의에서 정책금리를 기존 0.75%에서 1%로 인상했다."
+      "국민의힘 당원으로 신도들을 집단 가입시킨 혐의를 받는 신천지 전직 간부 3명이 구속됐다.",
+      "서울중앙지법 부동식 영장전담 부장판사는 17일 고동안 전 신천지 총무와 요한지파·시몬지파 전 총무 등에 대한 구속 전 피의자 심문을 연 뒤 \"증거인멸 및 도망할 염려가 있다\"며 구속영장을 발부했다.",
+      "앞서 합수본은 지난 12일 고 전 총무 등에 대해 정당법 위반 등 혐의로 구속영장을 청구했다."
     ],
     "chips": [
-      "#금리",
-      "#정책"
+      "#교육"
     ]
   },
   {
-    "id": "nd4f50021",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260614049656007",
-    "title": "[프로야구 인천전적] 롯데 2-1 SSG",
-    "summary": [
-      "[프로야구 인천전적] 롯데 2-1 SSG."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n04917013",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026061721521430678",
-    "title": "\"용인 미래 위해 다시 선택했다\"…용인 첫 재선 이상일 시장에 쏠린 기대",
-    "summary": [
-      "경기 용인특례시 최초의 재선 민선시장이 탄생하면서 향후 4년간 시정 운영에 대한 시민들의 기대감이 높아지고 있다.",
-      "시민들은 반도체 클러스터 조성과 광역교통망 확충 등 대형 미래사업이 본격화되는 시점에서 행정의 연속성이 확보된 점을 높이 평가하며 민선 9기에는 보다 가시적인 성과를 보여달라는 주문을 쏟아내고 있다.",
-      "지난 6·3 지방선거에서 재선에 성공한 이상일 용인특례시장은 용인시 최초의 재선 시장이라는 기록."
-    ],
-    "chips": [
-      "#반도체",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7afcaa81",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617167851009",
-    "title": "트럼프 \"이란 제대로 행동하지 않으면 다시 폭탄 투하\"(종합)",
-    "summary": [
-      "(서울·워싱턴=연합뉴스) 이신영 기자 이유미 특파원 = 도널드 트럼프 미국 대통령이 17일(현지시간) 이란과의 종전 양해각서(MOU)가 양측의 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6a10b29c",
+    "id": "n8636989c",
     "category": "사회",
     "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260617/134133241/2",
-    "title": "트럼프 “이란 MOU 최종안 아냐…맘에 안들면 다시 폭탄 투하”",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260617/134133474/2",
+    "title": "[속보]국힘, 서울 등 7곳 선거소청 제기…후보자 명의 4곳 더 접수",
     "summary": [
-      "도널드 트럼프 미국 대통령이 17일(현지 시간) 미국과 이란의 종전 양해각서(MOU)와 관련해 “이건 양해각서일 뿐”이라며 “제가 마음에 들지 않으면 다시 그들을 향해 총을 쏘고 그들의 머리 위로 폭탄을 투하할 것”이라고 말했다고 로이터통신 등이 보도했다.로이터통신 등에 따르면 트럼프 대통령은 프랑스 에비앙레뱅에서 열린 주요 7개국(G7) 정상회의 기간 중 이란과의 잠정 합의가 최종적인 것이 아니며 합의 내용이 마음에 들지 않거나 이란이 제대로."
+      "국민의힘이 6·3 지방선거 투표용지 부족 사태와 관련해 서울 등 7개 지역에 선거 소청을 냈다.",
+      "선거 소청은 선거 효력에 대해 이의를 제기하는 것이다.7개 지역은 투표용지 부족 사태가 발생한 6곳(서울, 경기, 인천, 광주전남, 울산, 부산)과 선거인명부 누락이 나타난 충북이다.",
+      "국민의힘은 이들 7개 지역 외에 광역단체장 후보자들이 4곳(대전, 충남, 세종, 전북)에 직접 선거소청을 제기했다고 밝혔다.국민의힘 법률자문위원회는 17일 보도자료를."
     ],
     "chips": [
       "#정치"
@@ -639,19 +642,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "KBO",
+    "tag": "뉴스",
     "mentions": "2070건",
     "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "정책",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
