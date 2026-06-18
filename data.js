@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-17 23:30:18
+// 마지막 업데이트: 2026-06-18 00:34:28
 window.NEWS_DB = [
   {
     "id": "nee9fc802",
     "category": "IT",
     "source": "굿모닝경제",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPTXZJSDhYd1BQbnZYeDBENU10WE1aYVY0NC16ZjRjTzlKa2E4aUdNclMxTUt5T01PbXV0RFdIZnpGSU5NQS0wel9rYWllZzltWnl0TWN0TkQzVzZBWWp4eU1HdS15TENHbzZfZw?oc=5",
     "title": "[심층진단] 슈퍼사이클 올라탄 K-반도체…실적 신기록 행진",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nba870d9e",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41S3hXckZrZ1p6ci1ObkNzdl96M3IzMHlLLVFGY2lIeXFTOUN1OXdEODJyT3JFakNFd2d5ek95b2FNOV9PSnRWa01rYThkbFZibXVFcy1ndlBtZ19lMUhwNnlqUXdnb0hCSVBxcUExTmVNcTQ?oc=5",
     "title": "엔비디아 주도 AI 열풍에 삼성전자 SK하이닉스 역할 커져, 젠슨 황 \"반도체 생산 확대\" 요청 주목",
     "summary": [
@@ -106,6 +106,35 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n081d0f0b",
+    "category": "사회",
+    "source": "전라일보",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CcDMzME5CekRoLXRPSHFmN2ljd1NTdFZmdlNiSDdWZFFncWdkQTJwUUJxT3lSSk9RNnZKTnNyUEpZNTlVTkJhcUd3WDBuNzgydjJhWEE5bUhxS3E0MmVJNlVGV0Y4UmdfNDI0YTE1Y2vSAXBBVV95cUxPQnAzMzBOQnpEaC10T0hxZjdpY3dTU3RWZnZTYkg3VmRRZ3FnZEEycFFCcU95UkpPUTZ2Sk5zclBKWTU5VU5CYXFHd1gwbjc4MnYyYVhBOW1IcUtxNDJlSTZVRldGOFJnXzQyNGExNWNr?oc=5",
+    "title": "부안군, 17일 기업·구직자 잇는 채용 한마당 연다",
+    "summary": [
+      "부안군, 17일 기업·구직자 잇는 채용 한마당 연다 전라일보."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
+    "id": "n248fc719",
+    "category": "경제",
+    "source": "마켓인",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTEMySTZHNHRyTUpaMEJXaUpSUVlJalZqUDdYVndqdUtFeklISm9rSzVLYUhQRzZobmI4T2pQZ0dtMnl2YjlNUV9XTFFHLVBzNVc0bGNBVUJTTGxJcTFsTmVxWUJzc3ZfaC12dmFaQjNfVWM?oc=5",
+    "title": "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망”",
+    "summary": [
+      "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망” 마켓인."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "n7c9e9138",
     "category": "경제",
     "source": "한국경제",
@@ -135,18 +164,35 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31af3cbd",
-    "category": "경제",
-    "source": "에너지경제신문",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
-    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
     "summary": [
-      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
     ],
     "chips": [
-      "#금리",
-      "#환율"
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n70cb7884",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
+    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
+    "summary": [
+      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -193,22 +239,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n02951820",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "28일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
-    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
-    "summary": [
-      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n269e2609",
     "category": "부동산",
     "source": "v.daum.net",
@@ -239,6 +269,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "77일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -250,22 +294,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "119일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -284,347 +312,321 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "서울특별시",
-    "time": "229일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
-    "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n5de3a708",
-    "category": "스포츠",
-    "source": "매일경제",
-    "time": "257일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
-    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
-    "summary": [
-      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nabc3b009",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026061808215991475",
-    "title": "풀무원, 美 '두부 시장' 독보적 1위… 매출 1000억 돌파",
-    "summary": [
-      "풀무원이 미국 두부 시장에서 독보적인 1위를 이어나가고 있다.",
-      "풀무원은 미국법인의 지난달 누적 두부 매출이 전년 동기 대비 16.8% 증가한 1078억원을 기록했다고 18일 밝혔다.",
-      "현지 고물가 여파로 인한 전반적인 소비 심리 위축에도 불구하고 주류 소비자들의 입맛과 니즈에 부합하는 두부 제품으로 진입 장벽을 낮추고 지속적인 생산 인프라 확충을 통해 공급을 확대한 것이 주효했다는 평가다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3ac4be30",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026061808235323618",
-    "title": "'1조원 절감' 칼 빼든 BBC…최대 2000명 감원 나선다",
-    "summary": [
-      "영국 공영방송 BBC가 뉴스와 TV, 라디오 콘텐츠 부문에서 550명을 감원한다고 연합뉴스가 18일 전했다.",
-      "지난 4월 BBC는 향후 2년간 5억파운드(약 1조140억원) 비용 절감이 필요하다면서 1800∼2000명을 감원하겠다고 밝혔다.",
-      "이는 전체 인력의 최대 9% 이상을 줄이는 대규모 구조조정이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d25c778",
+    "id": "nc73f0a14",
     "category": "IT",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026061808283886289",
-    "title": "[인사]중소벤처기업진흥공단",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152702",
+    "title": "[카드뉴스] 신한이 만든 금융 슈퍼앱, 뭐가 달라졌을까?.. 은행·증권·보험·카드가 하나로 합쳐진다",
     "summary": [
-      "<승진> ◆1급▲경영지원실 최준영 ▲기업평가·데이터실 정병옥 ▲기업금융처 조양동 ▲대출관리실 조수정 ▲제조AI지원처 김수영 ◆2급 ▲감사실 오승엽 ▲기획조정실 이성임 ▲융합금융처 윤지현 ▲인력지원처 염정현 ▲창업지원처 김철민 ▲수도권금융업무지원실 안성일 ▲뉴델리글로벌비즈니스센터 이재경 ◆3급▲안전관리실 조현덕 ▲경영지원실 윤석만 ▲ICT운영실 심영석 ▲기업금융처 김경록 ▲지역혁신사업처 노태경."
+      "신한 슈퍼SOL은 단순히 은행 앱 하나를 더 만든 것이 아니다.",
+      "은행, 카드, 증권, 보험으로 나뉘어 있던 금융 서비스를 하나의 앱으로 통합하고, AI를 통해 고객이 원하는 업무를 대화만으로 처리할 수 있도록 만들었다.",
+      "주식 투자부터 보험 관리, 가족 금융, 맞춤형 자산 관리까지 하나의 화면에서 연결하는 것이 목표다.신한금융은 이번 슈퍼SOL을 통해 금융 앱 경쟁을 넘어 고객의 일상 금융 전체를 관리하는 플랫폼으로 진화할 수 있을까?."
     ],
     "chips": [
-      "#AI",
-      "#스타트업"
+      "#AI"
     ]
   },
   {
-    "id": "nfde940cf",
-    "category": "스포츠",
+    "id": "nd7edba10",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152711",
+    "title": "[크립토 브리핑] 美 연준 금리 동결...가상자산 하락세 계속",
+    "summary": [
+      "미국 연방준비제도(Fed·연준)가 기준금리를 동결한 가운데 가상자산 시장이 하락세를 이어가고 있다.18일 글로벌 가상자산 시황중계 사이트 코인마켓캡에 따르면 이날 오전 8시 40분 기준 비트코인 가격은 전일 동시간 대비 1.00% 하락한 9817만7224원을 기록했다.알트코인은 전반적으로 할락세를 기록했다.",
+      "이더리움은 전일 대비 1.58% 내린 266만3876원에 거래되고 있다.",
+      "리플(엑스알피)은 2.46% 내린 1806원을, 솔라나는 1.96."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n655065c2",
+    "category": "사회",
     "source": "동아일보",
     "time": "1분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260618/134134096/1",
-    "title": "이정후, 애틀랜타와 서스펜디드 경기서 시즌 4호포…김하성은 2삼진",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260618/134134623/1",
+    "title": "34세 싱글맘 한그루, 여유로운 일상…백리스 톱 입고 카페에",
     "summary": [
-      "이정후(샌프란시스코 자이언츠)가 김하성(애틀랜타 브레이브스)과 시즌 첫 ‘코리안 더비’서 판정승을 거뒀다.이정후는 18일(한국시간) 미국 조지아주 애틀랜타 트루이스트 파크에서 열린 2026 메이저리그(MLB) 애틀랜타와 서스펜디드 경기에 5번 타자 우익수로 선발 출전해 3타수 1안타(1홈런) 2타점 1득점을 기록했다.2경기 연속 안타를 친 이정후의 시즌 타율은 0.331(248타수 82안타)을 유지했다.이날 경기는 전날 2회말 애틀랜타 공격 시."
+      "배우 한그루가 편안한 일상을 보내는 근황을 공개했다.",
+      "한그루는 17일 소셜미디어에 “맛있는 거 발견했을 때 나오는 표정”이라는 글과 함께 사진 여러 장을 공개했다.",
+      "공개된 사진 속 한그루는 화이트 백리스 톱에 청치마를 매치해 시원한 여름 패션을 선보였다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc134d9d3",
-    "category": "경제",
+    "id": "ne4f215d4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260618/134134617/1",
+    "title": "응급 제왕절개 남보라, 출산 후 미소 “잘 회복 중”",
+    "summary": [
+      "배우 남보라가 출산 후 근황을 전했다.",
+      "남보라는 17일 소셜미디어에 “콩알이의 탄생을 축하해주셔서 진심으로 감사하다.",
+      "저는 병원에서 잘 회복하고 있다”고 밝혔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n82b77df6",
+    "category": "스포츠",
     "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026061808273679553",
-    "title": "넥센타이어, 체코공장 자동화 창고 증설…유럽 공급체계 강화",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026061717272750138",
+    "title": "[기자수첩]고성 터진 BTS 부산 공연…K팝 특수만 좇은 주먹구구 행정",
     "summary": [
-      "넥센타이어는 체코 자테츠 유럽공장에 완제품 자동화 창고를 증설하고 본격 가동에 돌입했다고 18일 밝혔다.",
-      "유럽공장 생산량 증가에 맞춰 물류 경쟁력을 높이고, 유럽 지역 고객들에게 보다 안정적이고 신속한 공급 체계를 구축하기 위한 전략적 투자다.",
-      "넥센타이어는 2019년 유럽공장 1단계 가동을 시작한 이후 2024년 2공장을 증설, 현재 연간 약 1000만개 규모의 생산능력을 확보했다."
+      "\"언제까지 기다리라는 거예요.\" \"앞사람이 움직여야 가죠.\" \"이러다 정말 사고 나겠어요.\" 13일 저녁 부산아시아드주경기장 입구 곳곳에서 고성이 터져 나왔다.",
+      "방탄소년단(BTS) 공연 둘째 날이었다.",
+      "전 세계에서 모인 관객 11만명이 이틀간 부산을 찾았다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n98448442",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673808",
+    "title": "이지혜, AI 사진에 당했다 \"내가 찍은 광고 아냐\" 호소",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 가수 이지혜가 자신의 얼굴이 합성된 광고를 공개하며 주의를 당부했다.",
+      "이지혜는 17일 소셜미디어 \"제가 찍은 광고가 아니다.",
+      "요즘 들어 DM이 많이 오고 있다\"며 여러 장의 캡처 사진을 올렸다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n690345ef",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260618/134134609/1",
+    "title": "12년 만에 컴백 시크릿, 오늘 스페셜 미니 앨범 발매",
+    "summary": [
+      "그룹 시크릿이 12년 만에 새 앨범을 발표하며 팬 곁으로 돌아온다.시크릿은 18일 오후 6시 각종 음원 사이트를 통해 스페셜 미니앨범 ‘시크릿 플레이버’(Secret Flavor)를 발표한다.앨범에는 타이틀곡 ‘아이스크림’을 비롯해 ‘겟 라이트’(GET RIGHT) ‘마돈나’(Madonna·2026 Ver.) ‘샤이보이’(2026 Ver.) ‘사랑은 무브’(2026 Ver.) ‘유후’(2026 Ver.) 등 시크릿 대표곡을 새로 재해석한 8곡이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n00afaa75",
+    "id": "n238d1014",
     "category": "사회",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/06/18/G2HUUEBJDVFV5CR74DUZNYME4E/",
-    "title": "李대통령, 트럼프와 골프 약속…직접 쓰던 서명용 펜 선물받아",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673821",
+    "title": "'이철우 경북지사 대학·인재 공약' 실행안 마련 나섰다",
     "summary": [
-      "李대통령, 트럼프와 골프 약속…직접 쓰던 서명용 펜 선물받아."
+      "[안동=뉴시스] 박준 기자 = 경북도가 이철우 도지사의 민선 9기 대학·인재 분야 공약 실행 방안 마련에 착수했다 18일 도에 따르면 이 도지사의 대학·인재 분약 공약은 앵커(구 라이즈) 기반 지역혁신 인재 양성 체계 완성과 대학 연계 인재 도시 조성 등이다.",
+      "도는 대학·인재 분야 공약 이행의 큰 방향을 민선 9기 성장 앵커로 대학 대전환으로 정하고 분야별 공약 이행을 뒷받침하는 인재 양성, 행정 통합 등 초광역 경제권을 뒷받침하는 인재 양성,."
     ],
     "chips": [
-      "#정치"
+      "#교육"
     ]
   },
   {
-    "id": "n2ea2e03c",
+    "id": "nd30141c0",
     "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/18/MMZTCYLBMI2WKOLBGFRDMYZQG4/",
-    "title": "조이, 살을 얼마나 뺀거야...딱 붙는 스타일로 드러난 '극슬림' 몸매",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260618/134134606/1",
+    "title": "투어스, 실종아동 찾기 캠페인 동참…신유 “작은 힘이지만 노력”",
     "summary": [
-      "[OSEN=박근희 기자] 그룹 레드벨벳 조이가 한층 더 슬림해진 근황으로 시선을 사로잡았다.17일 조이는 개인 채널을 통해 여러 장의 사진을 게재했다.공개된 사진 속 조이는 상큼한 단발 헤어스타일을 하고 과즙미 넘치는 매력을 뽐내고 있다.",
-      "특히 딱 붙는 하의와 상의를 매치한 스타일링으로 군살 없는 슬림한 실루엣이 그대로 드러나 눈길을 끌었다.조이는 자연스러."
+      "그룹 투어스(TWS)가 자체 콘텐츠로 재미와 공익적 가치를 동시에 선사한다.18일 하이블 레이블 플레디스엔터테인먼트에 따르면 투어스는 최근 자체 예능 ‘투어스:클럽’(TWS:CLUB)을 통해 실종아동 찾기 캠페인에 동참했다.",
+      "매회 영상 말미 실종아동 정보와 함께 캠페인을 독려하는 투어스의 음성 메시지가 담겨 눈길을 끈다.이번 기획은 신유의 제안에서 출발했다.",
+      "앞서 장기 실종아동에 관한 프로그램에 출연한 신유가 방송 이후에도 지속적으로 도움이 될."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n30c87fe5",
+    "id": "n1c748559",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673828",
+    "title": "고위험병원체, 안전하게 연구…생물관리 노하우 공유",
+    "summary": [
+      "[서울=뉴시스] 구무서 기자 = 질병관리청은 18일 관계부처 및 국내 유관기관과 함께 제주에서 2026 한국 생물안전 콘퍼런스를 개최했다.",
+      "이번 행사는 생물안전 분야 전문가와 현장 실무자가 한자리에 모여 생물안전 정책과 기술, 생물안전 3등급 연구시설 운영 경험을 공유하고 협력방안을 논의하기 위해 마련했다.",
+      "이틀간 열리는 올해 행사에서는 고위험병원체 및 유전자변형생물체 등의 위해로부터 국민 안전 확보에 공헌해 온 유공자 포상을 실시했고, 생물안."
+    ],
+    "chips": [
+      "#정책",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n3f2121bf",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673537",
-    "title": "이정후, '코리안 더비'서 시즌 4호포 폭발…김하성은 3타수 무안타",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260618_0003673832",
+    "title": "안산시, 제2기 시민동행위원회 동행 여정 마무리",
     "summary": [
-      "[서울=뉴시스]문채현 기자 = 이정후(샌프란시스코 자이언츠)가 '히어로즈 동료' 김하성(애틀랜타 브레이브스)과의 메이저리그(MLB) 맞대결에서 대포를 쏘아 올렸다.",
-      "이정후는 18일(한국 시간) 미국 조지아주 애틀랜타의 트루이스트 파크에서 열린 2026 MLB 애틀랜타와의 경기에 5번 타자 우익수로 선발 출전해 3타수 1안타(1홈런) 2타점 1득점을 기록했다.",
-      "상대편에선 김하성이 9번 타자 유격수로 선발 라인업에 이름을 올리며 한국인 방망이 대결."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5650468a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673526",
-    "title": "전국 대부분 소나기…낮 최고 32도 무더위 지속",
-    "summary": [
-      "[서울=뉴시스]조수원 기자 = 18일 목요일은 전국 대부분 지역에서 소나기가 내리겠다.",
-      "낮 기온도 30도 이상으로 올라 매우 덥겠다.",
-      "기상청은 이날 \"새벽까지 경기남부와 강원도, 전남권, 경남권에 소나기가 내리겠고 아침에 충청권과 전북, 경북권에, 오후에는 경기남부내륙과 강원중·남부내륙산지, 충청권내륙, 전라권내륙, 경상권내륙, 경북북동산지에 소나기가 내리는 곳이 있겠다\"고 예보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n02481917",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673603",
-    "title": "대구경찰 민생치안 전담기동대, 주민 체감안전도 향상",
-    "summary": [
-      "[대구=뉴시스] 박준 기자 = 대구경찰청이 운영 중인 민생치안 전담기동대가 주민 생활과 밀접한 치안 활동을 전개하며 주민 체감안전도 향상에 기여하고 있는 것으로 나타났다.",
-      "18일 대구경찰청에 따르면 민생치안 전담기동대는 집회·시위 대응 중심의 경력 운용 패러다임 전환에 따른 경찰청 정책으로 범죄취약지역 순찰, 기초질서 확립, 교통질서 유지, 생활안전 위험 요소 발굴 등 주민 생활과 밀접한 분야의 치안 활동을 수행하고 있다."
+      "[안산=뉴시스] 문영호 기자 = 경기 안산시 제2기 시민동행위원회가 457일 간의 시민과의 동행 여정을 마무리했다.",
+      "시민동행위원회는 민선8기 안산시의 제1호 공약으로 구성된 조직이다.",
+      "시민참여 기반의 소통행정 모델 구축을 목표로, 현장에서 정책 출발점을 찾고 분과별로 숙의과정을 거쳐 다양한 시민의견을 정책에 반영하는 역할을 맡았다."
     ],
     "chips": [
       "#정책"
     ]
   },
   {
-    "id": "na7071acc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260618_0003673503",
-    "title": "32기 돌싱특집 영숙 \"130㎏였다가 74㎏ 감량했다\"",
+    "id": "ncf3b11e8",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026061809301363622",
+    "title": "'엉터리 복원' 예수상의 반전?...신성모독 비판 받더니 되레 관광객 '북적북적'",
     "summary": [
-      "[서울=뉴시스] 손정빈 기자 = '나는 솔로' 32기 영숙이 74㎏을 감량했다고 했다.",
-      "SBS Plus·ENA 예능프로그램 '나는 솔로' 17일 방송엔 32기 돌싱특집 출연자 자기 소개가 담겼다.",
-      "영숙은 팝페라 가수이자 프리랜서 사회자로 활동 중이라며 다이어트 얘기를 했다."
+      "브라질의 한 성당에 있는 성가족 조각상이 복원 과정에서 만화 캐릭터처럼 우스꽝스러운 모습으로 변해 논란이 됐다.",
+      "그러나 예상과 달리 이 조각상이 화제가 되면서 오히려 관광객을 끌어들이는 계기가 됐다.",
+      "15일(현지시간) 뉴욕포스트, 더 선 등에 따르면 브라질 카르모 두 카주루 광장에 설치된 성가족 조각상이 최근 부적절한 복원 작업으로 한때 훼손됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n62f540f8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/06/18/G4YDOOJRGE2TKNTCME2GKY3GGA/",
-    "title": "'버추얼 걸그룹' OWIS(오위스), 마약 근절 캠페인 참여",
+    "id": "n73d601c0",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026061808111109889",
+    "title": "순천시, 매산등 야생화 그리며 '플로렌스 여사' 기린다",
     "summary": [
-      "[OSEN=최이정 기자] 버추얼 걸그룹' OWIS(오위스)가 마약 예방을 위한 뜻깊은 행보에 동참하며 청량한 선한 영향력을 전파했다.OWIS(세린, 하루, 썸머, 소이, 유니)는 지난 17일 강남구청 공식 유튜브 채널을 통해 강남구청·강남경찰서와 함께한 마약 근절 캠페인 영상을 전격 공개했다.",
-      "기술의 발전을 넘어 사회적 가치까지 실현하는 버추얼 아티스트의."
+      "전남 순천시는 매산등 선교마을에서 오는 20일 생생 국가유산 활용사업의 첫 단추인 ´플로렌스 여사가 본 매산등 야생화´프로그램을 개최한다.",
+      "순천의 근현대문화유산인 매산등 선교사 학교를 활용한 체험형 역사·미술 콘텐츠로, 자녀를 동반한 가족 단위 관람객들이 함께 즐길 수 있는 프로그램이다.프로그램의 인물인 플로렌스 여사는 남편 존 크레인(구례인) 선교사와 함께 1913년 한국에 입국해 35년간 선교에 헌신한 인물이."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n097dd282",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026061809305875445",
+    "title": "한은 \"美, 인플레 대응 금리인상 가능성 시사…주요국 통화정책 기조 전환 가시화\"",
+    "summary": [
+      "\"주요국 통화정책의 기조 전환이 가시화되고 있는 것으로 평가한다.\" 유상대 한국은행 부총재는 18일 오전 서울 중구 한은에서 열린 미국 연방공개시장위원회(FOMC) 결과 관련 시장상황 점검회의에서 \"간밤 미국 FOMC 회의에서 연방준비제도(Fed)가 인플레이션 압력에 대응한 금리 인상 가능성을 시사함에 따라, 유럽중앙은행(ECB)과 일본은행(BOJ)의 금리 인상에 이어 주요국 통화정책의 기조 전환이 가시화되고 있는 것으로 평가."
+    ],
+    "chips": [
+      "#금리",
+      "#한은",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n94bbf82c",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "4분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/18/HXHI3X3H7RDZ7P6KVBAVBLF6FQ/",
+    "title": "LG 슈퍼스타트, ‘넥스트라이즈 2026’ 참가",
+    "summary": [
+      "LG 슈퍼스타트, ‘넥스트라이즈 2026’ 참가."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb8e43f5a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618029300064",
-    "title": "증평 보강천 하상주차장 9월 1일까지 폐쇄…\"집중호우 대비\"",
-    "summary": [
-      "(증평=연합뉴스) 박재천 기자 = 충북 증평군은 여름철 집중호우와 태풍으로 인한 차량 침수와 안전사고를 예방하기 위해 오는 22일부터 9월 1일..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4cbbb7e8",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618028800007",
-    "title": "[월드컵] 홍명보, 훈련장 드론 출현에 \"가장 중요한 시간에 벌어져 유감\"",
-    "summary": [
-      "(사포판[멕시코 할리스코주]=연합뉴스) 안홍석 기자 = \"경기 준비하는 데 있어서 가장 중요한 시간에 그런 일이 벌어져 유감입니다.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc5f4ca5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618027500071",
-    "title": "미셸 스틸 주한美대사, '최종관문' 상원 인준 통과…곧 부임할듯",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 미셸 스틸 주한 미국대사 후보자의 인준안이 미 연방 상원을 통과했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2c87eb4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617158000064",
-    "title": "청주시 '2045 도시기본계획' 수립 시민계획단 100명 모집",
-    "summary": [
-      "(청주=연합뉴스) 김형우 기자 = 청주시는 향후 20년 도시 발전 방향을 담을 '2045 청주도시기본계획' 수립에 시민 100명을 참여시킨다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n3522a5f1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260618/134134046/1",
-    "title": "‘토이 스토리5’ 첫 날 10만명 육박…무난히 1위 출발",
-    "summary": [
-      "애니메이션 영화 ‘토이 스토리5’가 공개 첫 날 10만명에 가까운 관객을 끌어모으며 박스오피스 1위로 출발했다.‘토이 스토리5’는 17일 9만4171명(영화진흥위원회 기준)이 봐 박스오피스 정상에 올랐다.",
-      "흥행세는 주말까지 이어질 거로 예상된다.",
-      "18일 오전 8시 현재 ‘토이 스토리5’ 예매관객수는 약 15만3000명으로 2위 ‘군체’(약 2만8000명)를 큰 폭으로 앞서고 있다.‘토이 스토리5’는 1995년부터 나온 ‘토이 스토리’ 시리즈 5."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc7fcdcb3",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260618/134134040/1",
-    "title": "‘최진실 딸’ 최준희, 결혼 후에도 여전한 미모…밝은 미소",
-    "summary": [
-      "배우 고(故) 최진실의 딸이자 인플루언서인 최준희가 결혼 후에도 여전한 미모를 뽐냈다.17일 최준희는 사회관계망서비스(SNS) 계정에 “티셔츠 너무 귀여워”라는 글과 함께 사진을 게재했다.사진 속 최준희는 귀여운 캐릭터 티셔츠를 입은 모습이다.",
-      "캐주얼한 패션에 액세서리를 착용한 그는 세련된 멋을 뽐냈다.",
-      "최근 결혼한 최준희는 여전한 비주얼로 눈길을 끌었다.한편 2003년생으로 현재 인플루언서 겸 모델로 활발히 활동 중인 최준희는 지난달 11세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5917192b",
+    "id": "n35898d26",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618026800004",
-    "title": "강남구, 25일 '노후 저층 주거지' 정비사업 아카데미",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618041700062",
+    "title": "원주 혁신도시5구역·우산천, 중기부 골목상권 육성사업 선정",
     "summary": [
-      "(서울=연합뉴스) 정준영 기자 = 서울 강남구(구청장 조성명)는 오는 25일 오후 2시 강남구민회관에서 '2026년 제2회 정비사업 아카데미'를..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1a281912",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260618/134134022/1",
-    "title": "황인범 “멕시코가 날 견제해 주길…더 좋은 선수 많다”",
-    "summary": [
-      "홍명보호의 핵심 미드필더 황인범(페예노르트)이 멕시코와 2026 국제축구연맹(FIFA) 북중미 월드컵 두 번째 경기를 앞두고 동료들을 향한 강한 신뢰를 피력했다.홍명보 감독이 이끄는 축구대표팀은 19일 오전 10시(이하 한국시간) 멕시코 과달라하라 인근 사포판시의 과달라하라 스타디움에서 멕시코와 북중미 월드컵 A조 조별리그 2차전을 치른다.사실상 조 1위 결정적인 두 팀의 맞대결을 앞두고 황인범은 18일 경기장에서 진행된 사전 기자회견에서 “첫."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na170fd1c",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260618024700051",
-    "title": "부산시, 글로벌 신흥 창업도시 세계 70위권 진입",
-    "summary": [
-      "(부산=연합뉴스) 김선호 기자 = 부산시는 글로벌 창업생태계 평가기관 '스타트업 지놈'이 평가한 글로벌 신흥 창업도시 상위 100개 도시 순위에..."
+      "(원주=연합뉴스) 임보연 기자 = 원주시는 중소벤처기업부가 주관하는 2026년 지역상권육성사업 유망골목상권 분야에 혁신도시5구역과 우산천 일대가..."
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "nb5180399",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618044300008",
+    "title": "[특징주] SK하이닉스, 사상 첫 260만닉스 터치…삼전은 소폭하락",
+    "summary": [
+      "(서울=연합뉴스) 황철환 기자 = SK하이닉스[000660]가 18일 장 초반 3% 넘게 급등하며 사상 처음으로 '260만 닉스'를 터치했다."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nfb5da87d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618044400063",
+    "title": "천안시 \"이동녕 선생 서훈 1등급 상향 서명운동 10만명 돌파\"",
+    "summary": [
+      "(천안=연합뉴스) 유의주 기자 = 충남 천안시는 18일 지역 출신 독립운동가 석오 이동녕 선생의 서훈 상향 범시민 서명운동에 10만명 이상이 참..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3aaca2f4",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618042700002",
+    "title": "환율, 美 금리 인상 시사에 10.8원 오른 1,524.2원",
+    "summary": [
+      "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 18일 미국 연방준비제도(Fed·연준)가 기준금리 인상을 시사하자 다시 1,520원대로 올라섰..."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
+    "id": "n2aa52327",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618039900064",
+    "title": "[청주소식] 청주공예창작지원센터 20일 '손맛시장' 열어",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n875dc8b3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618039600009",
+    "title": "中부총리 \"아프리카에 에볼라 대응 의료 지원\"…보건외교 강화",
+    "summary": [
+      "(서울=연합뉴스) 권숙희 기자 = 콩고민주공화국(민주콩고)과 우간다에서 발생한 에볼라가 확산 중인 가운데 중국이 아프리카에 대한 의료 지원 확대..."
+    ],
+    "chips": [
+      "#의료"
     ]
   }
 ];
@@ -634,18 +636,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정책",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "스타트업",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
