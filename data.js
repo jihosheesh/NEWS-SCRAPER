@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-19 09:31:55
+// 마지막 업데이트: 2026-06-19 11:30:20
 window.NEWS_DB = [
+  {
+    "id": "nb40c53b9",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXd1bURrS2hScVBXdHMyWnNLdWNsRlkyRXg1cEd1NFlkNFZ3SzZpY2ZBNGt2TW9WQ1FLNDZuanlIRlRkNktRN3d2bzh2RWdaWjVKY2thNlFRTjktY1FCNkJ0V0JsU0MtM1JrcFhYWENDbDRBYUNYOWp2dnotaW9nOXEzMA?oc=5",
+    "title": "파운드리 부활 꿈꾸는 인텔... 한국인에게 ‘키’를 맡겼다",
+    "summary": [
+      "파운드리 부활 꿈꾸는 인텔...",
+      "한국인에게 ‘키’를 맡겼다 조선일보."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
   {
     "id": "n8e39308d",
     "category": "IT",
     "source": "네이트",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tbEpRR2ZuNmRjMVhEVFRxakgweU9jdmlid0ltZWw5dWxwOXdrV0tFOW41Z3VGUVBtXzU4Z01PMmh6aU5wb3Uwb1B4bEtlYVI2cExFYVBaZlhHOWEzbDZSUTJUTDFQalR6UTc0Mjl2UWZvY3RSTFk4dw?oc=5",
     "title": "이석희 품은 인텔, SK와 'HBM 협력' 기대감…삼성엔 '변수'",
     "summary": [
@@ -19,7 +34,7 @@ window.NEWS_DB = [
     "id": "nd725c36e",
     "category": "IT",
     "source": "서울경제",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91T1NtclVEQWhGc1RubTh3N1o3dHZDSldyTERiNkZhSnVxblZ0QVJ4QTVUR1UzQXRjckxxV2JndlBBMG5YeVNHMnZxRXpiTWlTeGfSAVNBVV95cUxNUEhNcnRYekhDa0ZFMV81NHY0UGY5LXloN2YyWkV4N0VfemxKOThVY3BvQ0JFUFU5WmExblJvOUlMQmVxQnNiTkttMXduNExkT0dmbw?oc=5",
     "title": "인텔, 이석희 고리로 SK하닉과 ‘HBM 협력’ 기대…삼성엔 ‘변수’",
     "summary": [
@@ -33,7 +48,7 @@ window.NEWS_DB = [
     "id": "n08908b7e",
     "category": "IT",
     "source": "머니투데이",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2NFJCQzVrZHFwdjZGaWdCVkFoVmZvbkE0LWt2dWktcWEyUG9xRVNmYTdaYjVHS1ZOODJUdWUtVUFwXzZaaE1WX3FNV2FoaE1INFVBS05kY0tSNzc0SUJ4Q3ZxTmxoZzhV0gFuQVVfeXFMTlFHc1EtcFp5b1h2TWRkRkRBVnJkcUx1UDZGMWdBaGgxS0twNGdQX1o4UThhUTlGeUJnWElmWVd6Umo5VlMtR19IaWN3eFA5R1R5VllLeUx5UGlCeUNWVDZlQ3JVRmVEbGZ4eURIRUE?oc=5",
     "title": "아마존, 자체 AI 반도체 외부 판매 추진…엔비디아에 도전장 - 머니투데이",
     "summary": [
@@ -49,7 +64,7 @@ window.NEWS_DB = [
     "id": "nf63d61ce",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LZ0t3U1YzSUtOaG4ycWpjOGthb0hmQ3N2ODV3SEpEUTRJeW50X3lnWVlURngyVXlYUmxBYjBwMlJ5b1VxUE5feEcwaHllZklJX29oZVFhWW8zZ2fSAWBBVV95cUxPRzFRLVdnbjUxbDktMHE3Y0RDTWdUTV93ZkJOYWRVYmJPVFlySi1XR3dVVlRYWGtpREF6aWRDRTM3R28xaXBRMDFDTFhVODU1SzRCRG5kZVZBZU1keTBOSTI?oc=5",
     "title": "아마존, AI 칩 외부 판매 추진…엔비디아 아성 도전",
     "summary": [
@@ -106,17 +121,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0325eee6",
-    "category": "IT",
-    "source": "v.daum.net",
+    "id": "n09c3f669",
+    "category": "사회",
+    "source": "케이에스피뉴스",
     "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mM0pBbXo4UHF6QTlGU2JVOEJQeEg3VmtpQ1dTZ01aR2VBamVKVUhiWlQ2bkVpLWRjaDQzb1JVaXRFUVZqN3UzTzdyUE5JaWVZUTNmcQ?oc=5",
-    "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1naDducjJDUTZZYUE3UnM1Nk1xVnVKUlphVnV1ZzY2YU84VGhva29Bc0hXQ2xQVjJQNlFmOE1CUmx6Qmhm?oc=5",
+    "title": "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최",
     "summary": [
-      "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? v.daum.net."
+      "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최 케이에스피뉴스."
     ],
     "chips": [
-      "#반도체"
+      "#채용",
+      "#고용"
     ]
   },
   {
@@ -137,7 +153,7 @@ window.NEWS_DB = [
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
-    "time": "10일 전",
+    "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
     "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
@@ -169,7 +185,7 @@ window.NEWS_DB = [
     "id": "n70cb7884",
     "category": "사회",
     "source": "투데이경제",
-    "time": "16일 전",
+    "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
     "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
     "summary": [
@@ -236,21 +252,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "nc92d59ae",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "30일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
-    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
-    "summary": [
-      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#고용"
     ]
   },
   {
@@ -376,259 +377,260 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9628c97a",
-    "category": "스포츠",
-    "source": "머니투데이",
+    "id": "n7fd73cc6",
+    "category": "IT",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/19/2026061915410585558",
-    "title": "'ML이 반한 두산 클로저가 8회라니...' 이러다 KBO 최강 불펜 구축하나, 사령탑도 기대감 [잠실 현장]",
+    "url": "https://www.newsis.com/view/NISX20260619_0003675623",
+    "title": "광해광업공단, '기술사 사후관리 교육' 공동 실시",
     "summary": [
-      "두산 베어스가 전날(18일) 한 점 차 승리의 상승세를 계속 주말 3연전에도 이어갈 것인가.",
-      "두산은 19일 오후 6시 30분 서울 잠실야구장에서 LG 트윈스를 상대로 2026 신한 SOL KBO 리그 정규시즌 원정 경기를 치른다.",
-      "두산은 앞서 KT 위즈와 주중 3연전에서 2패 후 1승을 거두며 반등에 성공했다."
+      "[원주=뉴시스]홍춘봉 기자 = 한국광해광업공단(사장 황영식)은 19일 한국기술사회와 공동으로 공단 본사에서 광업자원분야 기술사들을 대상으로 한 사후관리 교육을 진행했다고 밝혔다.",
+      "광업자원분야 국가기술자격 취득자의 직무능력 향상을 위해 마련된 이번 교육에는 자원관리기술사 및 광해방지기술사 등 관련 분야 전문가 60여 명이 참석해 뜨거운 관심을 보였다.",
+      "특히 이번 교육은 최근 산업계의 화두인 스마트마이닝 등 인공지능(AI) 기술의 현장 적용 방안과."
     ],
     "chips": [
-      "#KBO"
+      "#AI",
+      "#교육"
     ]
   },
   {
-    "id": "n7dbbd0a6",
+    "id": "ne2356358",
     "category": "사회",
     "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003676485",
-    "title": "李대통령 \"여름철 예측가능 사고엔 엄히 책임…'강릉 가뭄'같은 불편 없도록 대비\"",
+    "url": "https://www.newsis.com/view/NISX20260619_0003676547",
+    "title": "[인사]경북 김천시",
     "summary": [
-      "[서울=뉴시스]김경록 기자 = 이재명 대통령은 19일 본격적인 여름철을 앞두고 \"충분히 예측 가능했던 사고가 발생할 경우에는 그 책임을 엄히 묻되, 반대로 재난 예방을 위해 철저히 대비한 부처에는 그에 상응하는 보상이 이뤄져야 한다\"며 여름철 재해를 비롯한 사고에 선제적 대응책 마련을 주문했다.",
-      "강유정 청와대 수석대변인은 서면 브리핑을 내어 이 대통령이 이날 오후 청와대 여민관서 비공개로 주재한 제38차 수석·보좌관회의에서 정무수석실의 '여름철."
+      "[김천=뉴시스] ◇4급 승진 ▲평생교육원 김인수 ▲건설과 최재명 ◇5급 승진 ▲건설과 김나영 ▲열린민원과 심복규 ▲복지정책과 이상무 ▲경제정책과 이영구 ▲상하수도과 전명순 ▲양금동 이영선 ▲복지정책과 정수미 ▲증산면 김태용 ▲지역보건과 이주연 ▲상하수도과 조영호."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n525abc9d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003676375",
-    "title": "관광공사·8개 지자체 의기투합…‘전남 서남권 관광거버넌스 협의체’ 출범",
-    "summary": [
-      "[서울=뉴시스]김정환 관광전문 이주창 인턴 기자 = 한국관광공사 광주전남지사가 광역 관광 콘텐츠 발굴과 활성화를 위해 전남 서남권 8개 지방자치단체 및 유관 기관과 ‘전남 서남권 테마형 관광거버넌스 협의체’를 발족했다.",
-      "강진군문화관광재단(강진군), 목포문화재단(목포시), 신안군관광협의회(신안군), 영암문화관광재단(영암군), 완도해양치유관리공단(완도군), 장흥축제관광재단(장흥군), 진도군관광협의회(진도군), 해남문화관광재단(해남군) 등이 관광공사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf39cbf64",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/19/GZQWCMTEMY3WENRSG5RWEOJYMI/",
-    "title": "“포커페이스 하려 했는데 들통났네요” 박찬호의 치명적인 사인 미스→주루사, 김원형 솔직대답 “조금 황당했다”",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 두산 베어스는 19일 잠실구장에서 LG 트윈스와 맞대결을 한다.",
-      "이날 오후 4시 무렵, 폭우가 쏟아졌지만 오후 5시 이후로는 비가 내리지 않아 방수포를 걷어내고 그라운드 정비 작업을 하고 있다.",
-      "정상적으로 경기 개시를 준비하고 있다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nebacbffb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003676492",
-    "title": "서귀포 신례리 '양자연 방묘', 제주도 향토유산 지정",
-    "summary": [
-      "[제주=뉴시스] 김수환 기자 = 이장 과정에서 우연히 발견된 조선 초기 방형분묘가 제주도 향토유산으로 공식 지정됐다.",
-      "제주도는 최근 '신례리 양자연 부부 방묘'를 제주도 향토유형유산으로 지정했다고 19일 밝혔다.",
-      "서귀포시 남원읍 신례리에 위치한 이 방묘는 15~16세기 조선 초기에 조성된 것으로 추정된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8065b40",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/06/19/LYLX5Q2AEVFENIES7LKEVOQWC4/",
-    "title": "이화영 “檢이 이재명 손보려 한 것... 절 칼로 찔러 비틀어” 선고 앞두고 호소",
-    "summary": [
-      "이화영 “檢이 이재명 손보려 한 것... 절 칼로 찔러 비틀어” 선고 앞두고 호소."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n83e9640f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003676447",
-    "title": "성장 멈춘 방송시장, 3년 연속 매출 감소세…광고매출 12% '뚝'",
-    "summary": [
-      "[서울=뉴시스]박은비 기자 = 지상파, 유료방송 등 370개가 넘는 방송사업자 매출이 3년 연속 쪼그라든 것으로 나타났다.",
-      "19일 방송미디어통신위원회가 제19차 서면회의를 거쳐 공표한 371개 방송사업자의 '지난해 회계연도 방송사업자 재산상황'에 따르면 지난해 매출은 18조6495억원으로 전년 대비 1547억원(0.8%) 감소한 것으로 집계됐다.",
-      "방송사업매출 점유율은 인터넷TV(IPTV)가 27.3%로 가장 높았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd14002b2",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260619/134146656/1",
-    "title": "[속보]경찰 “잠실개표소 지하 무단침입 3명 신원 확인…조사 방침”",
-    "summary": [
-      "경찰 “잠실개표소 지하 무단침입 3명 신원 확인…조사 방침”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf5c50379",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260619/134146642/1",
-    "title": "서산 해미천서 여중생 2명 물에 빠져 심정지…병원 이송",
-    "summary": [
-      "19일 오후 5시 16분께 충남 서산시 해미면 읍내리 해미천 인근에서 10대 여중생 두 명이 물에 빠지는 사고가 발생했다.하천에 2명이 빠졌다는 신고를 받고 출동한 소방당국은 곧바로 구조를 실시했으나 2명 모두 심정지 상태인 것으로 확인됐다.이들 두 명은 각각 인근 병원으로 이송돼 치료를 받고 있다.[서산=뉴시스]."
-    ],
-    "chips": [
+      "#정책",
+      "#교육",
       "#의료"
     ]
   },
   {
-    "id": "n1fd00cce",
+    "id": "nb650e3a7",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619164400004",
+    "title": "검찰, '주가조작 패가망신 1호' 증권사 3곳 압수수색",
+    "summary": [
+      "(서울=연합뉴스) 정지수 기자 = 금융전문가 등이 연루된 1천억원대 주가조작 사건과 관련해 검찰이 또다시 강제 수사에 나섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc30dd9ba",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619122751009",
+    "title": "英노동당 잠룡 보궐선거 압승…스타머 총리 턱밑까지 추격(종합)",
+    "summary": [
+      "(런던·서울=연합뉴스) 김지연 특파원 오수진 기자 = 영국 총리 자리를 넘보는 잠룡으로 꼽혀온 집권 노동당 후보가 19일(현지시간) 하원 입성에..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n18a4cf18",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003676535",
+    "title": "미 맞벌이 가정 아내 63% \"집안잡일은 내가 다해\" 남편 25% \"사실 인정\"",
+    "summary": [
+      "[서울=뉴시스] 김재영 기자 = 미국에서 맞벌이 가정인 경우 아내인 자신이 집안일 대부분을 한다고 말한 여성 비율이 63%였지만 그렇다고 인정한 남편은 25%에 지나지 않았다.",
+      "맞벌이 남편의 50%가 집안 잡일을 아내와 똑같이 나눠서 한다고 답한 것으로 AP 통신이 19일 전한 최근 퓨 리서치의 여론조사에서 나타났다.",
+      "집안 잡일에 이어 부모 노릇에 관해서도 어머니인 자신이 그 대부분을 한다고 답한 여성 비율이 63%였으나 그렇다고 인정한 남편은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc8f9d578",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619164200530",
+    "title": "중노위 \"고려아연 하청노조 창구 합쳐야\"…교섭분리 재차 기각",
+    "summary": [
+      "(서울=연합뉴스) 옥성구 기자 = 중앙노동위원회가 고려아연 하청 노동조합의 교섭단위를 별도 분리할 필요가 없다고 재차 판단했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndcba82b9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619163800003",
+    "title": "현대차그룹, 보스턴다이내믹스 지분 100% 품을 듯",
+    "summary": [
+      "(서울=연합뉴스) 김윤구 기자 = 현대자동차그룹이 일본 소프트뱅크가 보유한 보스턴다이내믹스 지분 9.65% 전량을 인수해 100%를 보유할 것으..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n14b26b41",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260619/134147527/2",
+    "title": "與 “李대통령 순방, 대한민국 위상 드높여…국익 극대화 계기”",
+    "summary": [
+      "더불어민주당은 이재명 대통령의 주요 7개국(G7) 정상회의 참석 등 10일간의 유럽 순방 일정에 대해 “대한민국의 위상을 드높였다”며 “민주당도 성과와 책임을 충실히 이행하겠다”고 했다.민주당 강준현 수석대변인은 19일 서면 브리핑에서 “이 대통령이 강조한 실용적인 접근과 실질적인 판단은 대한민국의 외교적 이익을 극대화할 수 있는 방책”이라며 “민주당도 세계를 바라보는 유연한 안목을 유지하며, 대통령이 일군 성과의 후속 사항과 책임을 충실히 이."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd2fc3c9d",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003676540",
+    "title": "비트코인도 제쳤다…삼성전자 글로벌 시총 순위 '12위' 기록",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 글로벌 시가총액 순위에서 삼성전자가 비트코인과 주요 글로벌 기업들을 앞선 것으로 나타났다.",
+      "반도체 업황 회복 기대감이 커지는 가운데 삼성전자의 시가총액이 비트코인보다 높은 수준을 기록했다.",
+      "19일 글로벌 시가총액 집계 사이트 컴퍼니즈마켓캡(CompaniesMarketCap)에 따르면 비트코인(BTC)의 시가총액은 약 1조2500억 달러(약 1912조원)로 글로벌 자산 순위 17위를 기록했다."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n6d6aa782",
     "category": "사회",
     "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/19/HE2WKMBSGVRDAMBTGNSGKZDFGY/",
-    "title": "\"오구리 슌 아내라니\" 야노 시호, 日 톱모델 야마다 유우 '30년 우정' 눈길",
-    "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 모델 야노 시호가 30년 지기 절친인 일본 톱모델 야마다 유우와의 특별한 만남을 공개했다.19일 야노 시호의 유튜브 채널에는 '일본 탑모델 찐친이랑 쇼핑 나들이 (feat.",
-      "오구리 슌 아내)'라는 제목의 영상이 게재됐다.영상에서 야노 시호는 야마다 유우를 소개하며 \"일본에서 정말 유명한 톱모."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3dce5003",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260619152400001",
-    "title": "국힘 \"원포인트 선관위 개헌은 물타기…성역 없는 특검이 우선\"",
-    "summary": [
-      "(서울=연합뉴스) 박수윤 기자 = 국민의힘 19일 이재명 대통령이 선거관리위원회에 관한 '원포인트' 개헌을 제안한 것에 대해 반대한다는 입장을 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7f04ec03",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/stock/2026/06/19/2026061918173470095",
-    "title": "중앙일보 최종부도…한양증권 보유분 어음 변제 실패",
-    "summary": [
-      "중앙일보가 한양증권으로부터 220억원 규모 어음에 대한 조기상환 요청을 받고 결제 대금을 변제하지 못해 최종 부도를 냈다.",
-      "중앙일보는 19일 공시를 통해 \"2026년 3월 31일 발행한 기업어음(하나은행 서소문지점 거래)에 대하여 기한의 이익 상실이 발생했다\"며 \"이에 따라 2026년 6월 18일 채권자의 어음 지급 제시가 있었으나 당사의 예금 부족으로 결제 대금을 변제하지 못해 6월19일자로 어음 최종부도 처리됐음을 확인했다\"고 했다...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd03a0fb6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260619/134146597/1",
-    "title": "신지, 직각어깨에 쇄골 움푹…결혼 후 ‘뼈말라’ 근황",
-    "summary": [
-      "혼성그룹 코요태 신지가 ‘뼈말라’가 된 근황을 공개했다.신지는 19일 자신의 인스타그램에 “오늘도 즐겁게 일하는 중”이라는 글과 함께 여러 장의 사진을 게재했다.사진에서 신지는 직각 어깨라인과 쇄골이 드러나는 화사한 노란색의 원피스를 환한 미소를 짓고 있는 모습이다.",
-      "특히 결혼 후 더욱 물오른 미모가 돋보인다.한편 신지는 지난 5월 7세 연하 가수 문원과 결혼식을 올렸다.",
-      "두 사람은 현재 MBN ‘남의 집 귀한 가족’에 출연 중이다.(서울=뉴스."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n99fe3e3a",
-    "category": "사회",
-    "source": "동아일보",
     "time": "14분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260619/134146550/1",
-    "title": "[월간자동차] 26년 5월, 신차·중고차 판매량 급감",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/19/ME4TAZTBGUYGCN3FGQ3TSMLDGQ/",
+    "title": "신민아 실물 어떻길래...이영지, '동공지진' \"너무 아름다워\" ('차쥐뿔')",
     "summary": [
-      "‘월간 자동차’는 월별 판매 데이터를 기준으로 자동차 소비 트렌드를 분석하는 월 1회 연재 코너입니다.",
-      "사용 연료별(휘발유, 경유, 전기 등) 신차 판매 현황, 신차와 중고차 판매 순위 등을 살펴봅니다.",
-      "국토교통부 자동차 등록 정보를 종합한 카이즈유데이터연구소와 한국수입자동차협회 집계를 참조했습니다.지난 2026년 5월 자동차 소비 트렌드를 살펴보면, 전월 대비 신차 등록이 큰 폭으로 줄었다."
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 배우 신민아가 등장하자 이영지가 제대로 얼어붙었다.19일 유튜브 채널 '차린 건 쥐뿔도 없지만'에는 '구미호가 웃음 대마왕일 수 있는 거임? 신민아도?'라는 제목의 영상이 공개됐다.이날 이영지는 신민아를 소개하며 시작부터 남다른 팬심을 드러냈다.그는 \"제가 정말 선망하는 추구미 언니다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nff52fd52",
+    "id": "n809d4c80",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260619154400004",
-    "title": "[게시판] 정성호 장관, 양주 동포체류지원센터·외국인 계절근로현장 점검",
-    "summary": [
-      "[게시판] 정성호 장관, 양주 동포체류지원센터·외국인 계절근로현장 점검."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nae7a6bec",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/19/2026061918045695170",
-    "title": "김승규 체코전 영웅이었는데... '엇갈린 베테랑 운명' 비판 받던 멕시코 로모가 구세주 됐다",
-    "summary": [
-      "한국 축구대표팀 주전 골키퍼 김승규(FC도쿄)와 멕시코 베테랑 미드필더 루이스 로모(치바스)의 운명이 엇갈렸다.",
-      "한국은 19일(한국시간) 멕시코 과달라하라 사포판의 과달라하라 스타디움에서 열린 멕시코와 2026 국제축구연맹(FIFA) 북중미 월드컵 A조 조별리그 2차전에서 0-1로 패했다.",
-      "앞서 한국은 체코를 상대로 2-1 역전승을 거뒀으나, 이날 패배로 1승1패(승점 3)를 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85c3dac2",
-    "category": "사회",
-    "source": "연합뉴스",
+    "source": "동아일보",
     "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260619065651001",
-    "title": "정청래 \"월클·국격\" 연일 李대통령 띄우기…비당권파 \"과유불급\"(종합)",
+    "url": "https://www.donga.com/news/Politics/article/all/20260619/134146458/1",
+    "title": "진상규명위 “노태악·위철환 등 12명 수사 의뢰 권고”",
     "summary": [
-      "(서울=연합뉴스) 최평천 박재하 최주성 기자 = 더불어민주당 정청래 대표가 연일 이재명 대통령 띄우기에 주력하고 있다."
+      "6·3 지방선거 투표용지 부족 사태를 조사한 중앙선거관리위원회 진상규명위원회가 19일 노태악 전 중앙선관위원장, 위철환 상임위원 등 12명에 대한 수사 의뢰를 권고했다.",
+      "조현욱 진상규명위원장은 이날 경기 과천시 중앙선관위 청사에서 브리핑을 갖고 “투표용지 부족 사태에서 드러난 선거관리시스템의 총제적 부실 상황을 볼 때, 선거관리위원회의 해체에 가까운 대대적 혁신이 필요하다”면서 이렇게 밝혔다.",
+      "수사 의뢰 권고 대상은 노 전 위원장과 위 상임위원."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n4617e165",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/19/MJSDSYLGGM3TIMJQMEYGGNLFHA/",
+    "title": "‘성동일 딸’ 성빈, 벌써 고3 됐다..“가족 반대 속 혼자 예고 찾아가” (술빚는윤주모)[핫피플]",
+    "summary": [
+      "[OSEN=박하영 기자] 배우 성동일의 딸 성빈이 성숙해진 근황을 전했다.",
+      "19일 유튜브 채널 ‘술 빚는 윤주모’에는 ‘귀염뽀짝 빈이&준이 다 컸다 아빠 빼고 아빠! 어디가? 추억 이야기’라는 제목의 영상이 게재됐다.이날 영상에는 성동일의 딸 성빈이 등장해 모두를 놀라게 했다.",
+      "몰랐다”고 하자 오빠 성준 역시 “저도 못 알아봤다”라고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1ae37a44",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260619/134147370/2",
+    "title": "오픈 전 아울렛서 10만원 훔친 남성, 이틀 뒤 또 들어갔다",
+    "summary": [
+      "경기 부천시의 아울렛 등을 돌며 금품을 훔친 혐의를 받는 60대 남성이 경찰에 붙잡혔다.채널A는 절도 혐의로 붙잡힌 남성의 범행 과정이 담긴 폐쇄회로(CC)TV 영상을 단독으로 확보해 19일 공개했다.영상에서 남성은 허리를 굽혀 천막으로 가려진 쪽으로 이동했다.",
+      "의류들이 있는 쪽을 지나 CCTV 화면에서 사라졌다가 시간이 흐른 뒤 자신이 들어왔던 쪽으로 빠져나갔다.직원과 손님이 없는 매장의 이곳저곳에서 남성이 주변을 두리번거리는 모습도 CCTV."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1496d550",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "18분 전",
+    "url": "https://www.hankyung.com/article/2026061975687",
+    "title": "맨홀 작업 중 쓰러진 동료 구하려다…4명 중경상 '유해가스 추정'",
+    "summary": [
+      "맨홀 작업 중 쓰러진 동료 구하려다…4명 중경상 '유해가스 추정'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd0ca9cd7",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260619/134147044/1",
+    "title": "또 마주친 경우의 수…남아공전 비겨도 32강 진출",
+    "summary": [
+      "한국 축구 대표팀은 19일 사실상의 A조 1위 결정전이던 멕시코와의 경기에서 아쉽게 패해 32강 토너먼트 진출을 확정짓지 못했다.",
+      "하지만 여전히 조 2위(1승 1패·승점 3)를 유지하고 있어 32강행 가능성은 여전히 높다.",
+      "한국은 25일 오전 10시 멕시코 몬테레이 스타디움에서 열리는 남아프리카공화국과의 3차전에서 비기기만 해도 같은 시간 킥오프하는 멕시코-체코의 맞대결 결과에 상관없이 32강에 진출한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a3bfe87",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "23분 전",
+    "url": "https://www.hankyung.com/article/2026061975797",
+    "title": "징역 8년을 8개월로…판사 말실수, 2심에서 바로잡혔다",
+    "summary": [
+      "징역 8년을 8개월로…판사 말실수, 2심에서 바로잡혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na837406b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/19/MY3DQN3DMU2TKYJRHFRDKM3DGQ/",
+    "title": "'테이블세터 최형우' 대성공! 사령탑 너털웃음 \"스피드 생겨 좋은 거 같은데요\"",
+    "summary": [
+      "[대전=스포츠조선 이종서 기자] \"나이가 먹으면 스피드가 조금 떨어지는데….\" 최형우(43·삼성 라이온즈)는 지난 18일 대구 키움 히어로즈전에서 2번-지명타자로 선발 출전했다.",
+      "2009년 이후 17년 만에 2번타자 출격이다.",
+      "강한 2번타자라고는 하지만, 다소 낯선 풍경."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -650,8 +652,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
