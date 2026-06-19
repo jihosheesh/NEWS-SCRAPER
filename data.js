@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-19 22:18:44
+// 마지막 업데이트: 2026-06-19 23:20:38
 window.NEWS_DB = [
+  {
+    "id": "nb113d6f2",
+    "category": "IT",
+    "source": "데일리안",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
+    "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
+    "summary": [
+      "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도' 데일리안."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
   {
     "id": "nb40c53b9",
     "category": "IT",
     "source": "조선일보",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXd1bURrS2hScVBXdHMyWnNLdWNsRlkyRXg1cEd1NFlkNFZ3SzZpY2ZBNGt2TW9WQ1FLNDZuanlIRlRkNktRN3d2bzh2RWdaWjVKY2thNlFRTjktY1FCNkJ0V0JsU0MtM1JrcFhYWENDbDRBYUNYOWp2dnotaW9nOXEzMA?oc=5",
     "title": "파운드리 부활 꿈꾸는 인텔... 한국인에게 ‘키’를 맡겼다",
     "summary": [
@@ -20,7 +34,7 @@ window.NEWS_DB = [
     "id": "nd725c36e",
     "category": "IT",
     "source": "서울경제",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91T1NtclVEQWhGc1RubTh3N1o3dHZDSldyTERiNkZhSnVxblZ0QVJ4QTVUR1UzQXRjckxxV2JndlBBMG5YeVNHMnZxRXpiTWlTeGfSAVNBVV95cUxNUEhNcnRYekhDa0ZFMV81NHY0UGY5LXloN2YyWkV4N0VfemxKOThVY3BvQ0JFUFU5WmExblJvOUlMQmVxQnNiTkttMXduNExkT0dmbw?oc=5",
     "title": "인텔, 이석희 고리로 SK하닉과 ‘HBM 협력’ 기대…삼성엔 ‘변수’",
     "summary": [
@@ -109,7 +123,7 @@ window.NEWS_DB = [
     "id": "nf3565e6d",
     "category": "IT",
     "source": "세종의소리",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JQ1Z1QXI4WXF3a1NDWG83U2t5Q1V1M21TXy1JSS1NR3UyUVJ3WVVVODl6ZVBMQS1fNVBJZERrZ2FVdVNnYWZ1TDhzOHVaal9ZVDZlZ3U2ajY0LUItNzViVkNFbDU5bzQ?oc=5",
     "title": "엔비디아, 30조 회사채 발행 추진…한국 AI·반도체 산업엔 기회인가 경고인가",
     "summary": [
@@ -119,20 +133,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "nf184bcf3",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40WGVUV0hlaDA0ZXBxRUdnMFVtZFVTUmdUWkxSMnV5NXZwQ3BOcXlrQlNiZjl0N0JSdTJoMUZSMmd5ZW45eVlYNXdDR0Uwa1k?oc=5",
-    "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
-    "summary": [
-      "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? v.daum.net."
-    ],
-    "chips": [
-      "#반도체"
     ]
   },
   {
@@ -226,21 +226,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n72b90564",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "24일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
-    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
-    "summary": [
-      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "nc92d59ae",
     "category": "IT",
     "source": "경기일보",
@@ -253,6 +238,21 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#고용"
+    ]
+  },
+  {
+    "id": "n5a1617c5",
+    "category": "부동산",
+    "source": "헤럴드경제",
+    "time": "38일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -314,328 +314,315 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n92c00134",
-    "category": "사회",
+    "id": "ne56cb6fc",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/GA3DAYRTGNQTQZBUGY4WKY3BMQ/",
-    "title": "‘콩콩팜팜’ 등기부등본 ‘양계업’ 공개..이광수 “그래서 회사이름 ‘에그’” [순간포착]",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/video_photo/2026/06/20/DBKWNPICJBDUFAP6F7HMY4F224/",
+    "title": "[더 한장] 하나 된 “대한민국~” 축구엔 좌우가 없다",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘콩콩팜팜’ 고중석 대표와 나영석 PD가 회사 설립 목적을 밝혔다.19일 첫 방송된 tvN 예능 ‘콩 심은 데 콩 나는 가고팜 하고팜 동물농장’(이하 ‘콩콩팜팜’)에서는 제주도로 떠나기 전, 사전 모임을 갖는 이광수, 김우빈, 도경수의 모습이 그려졌다.이날 사옥에 모인 세 사람은 고중석 대표와."
+      "[더 한장] 하나 된 “대한민국~” 축구엔 좌우가 없다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbf73f82a",
+    "id": "nf06679f8",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003675921",
-    "title": "의정부시 ‘임산부 친환경 농산물 지원’ 신청 접수",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/HA4DINTEGVRDEYTDHBSGGOLCGA/",
+    "title": "10년 연애 이유 있었구나..'김우빈♥' 신민아, 결혼관 질문에 \"늦게 할수록 좋아\" 눈길 ('차쥐뿔') [어저께V]",
     "summary": [
-      "[의정부=뉴시스] 김도희 기자 = 경기 의정부시는 오는 30일까지 '2026년 임산부 친환경농산물 지원사업' 신청을 접수받는다고 20일 밝혔다.",
-      "해당 사업은 미래 세대의 건강 증진과 지역 농산물 소비 촉진을 위해 마련됐다.",
-      "지원 대상은 신청일 현재 의정부시에 거주하는 임신부 또는 2025년 1월1일 이후 출산한 산모다."
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 배우 신민아가 연애와 결혼에 대한 솔직한 생각을 털어놓으며 깊은 공감을 안겼다.19일 공개된 유튜브 콘텐츠 '차린 건 쥐뿔도 없지만'에는 '구미호가 웃음대마왕일 수 있는 거임? 신민아도?'라는 제목의 영상이 게재됐다.이날 이영지는 최근 결혼한 신민아를 향해 \"2025년 12월 결혼 축하드린다."
     ],
     "chips": [
-      "#의료",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb433fea3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/06/20/MU4DOYZQGNRTIOJXMU3GGMLBGE/",
+    "title": "방탄소년단 'Come Over', 英 오피셜 싱글 차트 진입",
+    "summary": [
+      "[OSEN=선미경 기자] 그룹 방탄소년단이 ‘컴 오버(Come Over)’로 또 영국 오피셜 싱글 차트에 진입했다.20일 빅히트 뮤직은 “방탄소년단의 신곡 ‘컴 오버’가 이날 발표된 영국 오피셜 차트(6월 19일~25일 자) ‘오피셜 싱글 톱 100’에 52위로 진입했다”고 밝혔다.뿐만 아니라 방탄소년단의 ‘컴 오버’는 ‘오피셜 싱글 다운로드’ 정상을 찍었."
+    ],
+    "chips": [
       "#환경"
     ]
   },
   {
-    "id": "n3c120eaf",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/MI2TEOBQGI2DGZRRMFSGGZJXGQ/",
-    "title": "배우 이기혁, 때아닌 황당 악플세례?...문제는 비난보단 응원이 필요할 때 [핫피플]",
+    "id": "n120c3e42",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619088000057",
+    "title": "서울주문화센터, 기획공연 '야외마당 콘서트' 개최",
     "summary": [
-      "[OSEN=김수형 기자] 배우 이기혁에게 때아닌 악플세례가 이어졌다.",
-      "다만 배우와 선수를 떠나, 한 사람을 겨냥한 과도한 비난을 자제해야한다는 목소리도 나오고 있다.",
-      "19일, 대한민국 축구대표팀이 멕시코전에서 월드컵 패배 후폭풍이 엉뚱한 곳으로 번졌다."
+      "(울산=연합뉴스) 장영은 기자 = 울산 울주문화재단은 20일 오후 7시 30분 서울주문화센터에서 '야외마당 콘서트' 공연을 마련한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0b1d6e96",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260619131800053",
-    "title": "경북 봉화 국립백두대간수목원, 누적 관람객 200만명 돌파",
-    "summary": [
-      "(봉화=연합뉴스) 김용민 기자 = 국립백두대간수목원은 개원 8년 만에 누적 관람객 200만명을 돌파했다고 20일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1cfcc2a5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260617113800060",
-    "title": "[로컬의 재발견] 국경 지키던 연천 당포성…별 찾는 명소로 변신",
-    "summary": [
-      "[※ 편집자 주 = 저출산·고령화와 청년 유출로 지역 소멸 위기가 커지는 가운데 연합뉴스는 발상의 전환을 통해 각 지역의 숨은 자랑거리와 이야깃..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0e035bc1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620008100071",
-    "title": "트럼프, 쿠바서 베네수式 작전 가능성에 \"그럴 수도 있어\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 이란과의 종전 양해각서(MOU) 이행에서 최대 변수로 떠오른 이스라엘의 레바논..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf255433c",
+    "id": "n4ccda809",
     "category": "사회",
     "source": "뉴시스",
     "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676636",
-    "title": "트럼프, \"이란 60일 내 합의 안 하면 안 좋아할 일 할 것\"",
+    "url": "https://www.newsis.com/view/NISX20260619_0003675894",
+    "title": "대마 넣은 음식 먹고 SNS 게시…불법체류 외국인 집유",
     "summary": [
-      "[서울=뉴시스] 강영진 기자 = 도널드 트럼프 미 대통령이 19일(현지시각) 이란과 후속 협상에서 합의가 이뤄지지 못할 경우 공격이 재개될 수 있음을 시사해 이란을 압박했다.",
-      "트럼프는 이날 앤드루스 합동 기지에서 카타르에서 선물받아 개조한 새 대통령 전용기를 소개하는 연설에서 “그렇지 않으면, 그들(이란)이 좋아하지 않을 일을 할 것”이라고 말했다.",
-      "그러나 트럼프는 “그런 일은 일어나지 않을 것으로 본다”며 “매우 잘 진전될 것으로 본다”고 덧."
+      "[의정부=뉴시스] 김도희 기자 = 지인들과 함께 대마초 잎을 음식에 넣어 먹고 그 과정을 사회관계망서비스(SNS)에 게시한 불법체류 외국인이 징역형의 집행유예를 선고받았다.",
+      "20일 법조계에 따르면 의정부지법 형사1단독은 마약류관리에관한법률위반(대마)과 출입국관리법 위반 혐의로 기소된 태국 국적 A씨에게 징역 10월에 집행유예 2년을 선고했다.",
+      "A씨는 지난 2024년 8월과 지난해 6월 경기 양주시에서 같이 일하는 지인들과 인근에서 자생한 대마초."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n86171c2e",
+    "id": "n5dbb2336",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620012800009",
+    "title": "미국인, 이란 전쟁으로 203조원 부담…군비·유가·식비 눈덩이",
+    "summary": [
+      "(서울=연합뉴스) 임화섭 기자 = 이란 전쟁으로 미국 납세자들과 소비자들이 떠안은 비용 부담이 최소 1천320억 달러(202조7천억 원)에 이르..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbc82f592",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260619094600546",
-    "title": "[글로컬] 핵 포기 않고 제재 벗는 이란…북한이 배울까",
-    "summary": [
-      "(서울=연합뉴스) 한승호 선임기자 = 미국의 이란 전쟁 최대 명분은 이란의 핵을 완전히 제거하는 것이었으나, 이란이 핵 잠재력을 유지한 채 제재..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na65864e7",
-    "category": "사회",
-    "source": "머니투데이",
     "time": "14분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/20/2026062006585369340",
-    "title": "오바마 \"이란전쟁 전보다 상황 나빠\"…트럼프에 혹평",
+    "url": "https://www.yna.co.kr/view/AKR20260620014100527",
+    "title": "경북 울릉도·독도에 호우주의보",
     "summary": [
-      "[미국-이란 전쟁] 미국과 이란이 종전 양해각서(MOU)에 서명하고 이란의 핵 개발과 호르무즈 해협 통행료 부과 등에 대해 60일 동안 후속 협상을 이어가기로 한 데 대해 버락 오바마 전 미국 대통령이 이란 전쟁 개전 이전과 같거나 더 나쁜 상황이라고 평가했다.",
-      "오바마 전 대통령은 19일(현지시간) 방영된 NBC뉴스와 인터뷰에서 미국과 이란의 MOU 타결에 대한 견해를 묻는 질문에 \"지금 우리는 전쟁을 치렀고 거액을 쏟아부었으며 군에 막대한 부."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n25edfef2",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/20/2026062006162915051",
-    "title": "폭염에 쓰러진 주심, 선수들이 곧장 달려가 도왔다... 女 대기심도 빠르게 달려와 '음료 전달'",
-    "summary": [
-      "월드컵 무대에서 보기 드문 장면이 나왔다.",
-      "치열한 승부 도중 그라운드에 쓰러진 이가 있었다.",
-      "경기를 책임지던 주심이었다."
+      "(대구=연합뉴스) 기상청은 20일 오전 8시를 기해 울릉도·독도에 호우주의보를 발효한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n74f5a505",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003675502",
-    "title": "\"24시간 AI 식품 상담\"…식약처, '온고지신' 운영",
+    "id": "n66e68d2b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260620/134148296/1",
+    "title": "병원 거의 안 가는 사람은 5세대 실손보험이 유리",
     "summary": [
-      "[서울=뉴시스]이소헌 기자 = 식품의약품안전처가 국민신문고 데이터를 인공지능(AI) 기반으로 검색해 식품 관련 민원을 상담해 주는 시스템을 운영한다.",
-      "식약처는 영업자가 식품 관련 궁금증을 언제 어디서나 신속하게 해결할 수 있도록 24시간 AI 식품 민원 상담시스템 '온고지신'을 구축하고 운영에 들어간다고 20일 밝혔다.",
-      "온고지신이란 온라인으로 고민되는 식품 민원을 지체 없이 신속하게 답변한다는 의미의 AI 상담시스템이다."
+      "5월 초 5세대 실손보험 판매가 시작됐다.",
+      "이후 부쩍 자주 받는 질문이 있다.",
+      "“실손보험을 5세대로 바꿔야 하나요?”다."
     ],
     "chips": [
-      "#AI"
+      "#의료"
     ]
   },
   {
-    "id": "n04dfebe4",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260619112900030",
-    "title": "[신상잇슈] 오리온 부침개맛 과자 '지지미'·파리바게뜨 '당근이세요?'",
+    "id": "n04449e51",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260620/134148291/1",
+    "title": "시원한 강바람이 매력인 한강변 자전거 타기, 사고 위험에 긴장의 연속",
     "summary": [
-      "[신상잇슈] 오리온 부침개맛 과자 '지지미'·파리바게뜨 '당근이세요?'."
+      "“자전거도로에 갑자기 사람이 들어오는 경우가 부지기수다.",
+      "이어폰을 끼고 있어 경적 소리도 못 듣는다.",
+      "분명히 금이 그어져 있는데 아무렇지 않게 선을 넘어온다.”(한강공원 자전거 운전자)“어차피 겸용도로로 알고 있는데 사람이 우선 아닌가."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf6b76614",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260619142200003",
-    "title": "[부동산캘린더] 내주 북오산자이 드포레 등 6천200가구 분양",
-    "summary": [
-      "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 6천200가구가 분양에 나선다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n6c6be581",
+    "id": "nb840228d",
     "category": "경제",
     "source": "한국경제",
-    "time": "18분 전",
-    "url": "https://www.hankyung.com/article/2026061974321",
-    "title": "[토요칼럼] 아무것도 모르는 기성세대",
+    "time": "17분 전",
+    "url": "https://www.hankyung.com/article/202606207728i",
+    "title": "'괴물 신인' 김민솔, 한국 여자골프의 판을 바꾸다 [조수영의 구설(球說)]",
     "summary": [
-      "[토요칼럼] 아무것도 모르는 기성세대."
+      "'괴물 신인' 김민솔, 한국 여자골프의 판을 바꾸다 [조수영의 구설(球說)]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n783124e4",
+    "id": "n3583d9b2",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/tech/2026/06/20/2026061910295858912",
-    "title": "삼성이 옳았다?…\"화웨이도 U자형 트라이폴드로 변신\" [IT썰]",
+    "source": "연합뉴스(경제)",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619136600003",
+    "title": "주유소 기름값 5주 연속 하락…전국 평균 휘발윳값 2천9원대",
     "summary": [
-      "화웨이가 차세대 트라이폴드(두 번 접는) 스마트폰 '메이트 XT2(Mate XT2)'를 오는 9월 공개할 것으로 전망된다.",
-      "전작의 병풍형(S자) 폴딩 구조를 버리고 삼성전자가 선보인 U자형 설계를 채택할 것으로 알려지면서 관심이 쏠리고 있다.",
-      "20일 중국 IT 매체 콰이커지에 따르면 IT 팁스터(정보유출자) '딩자오수마(定焦??)'는 화웨이가 오는 9월 메이트 XT2를 출시할 예정이며 초기 공급 물량은 많지 않을 것이라고 전했다."
+      "(서울=연합뉴스) 강태우 기자 = 이번 주 국내 주유소 휘발유와 경유의 주간 평균 가격이 5주 연속 하락했다."
     ],
     "chips": [
-      "#삼성전자"
+      "#뉴스"
     ]
   },
   {
-    "id": "n0f45b14a",
+    "id": "n59b6d019",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/stock/2026/06/20/2026061917405629326",
-    "title": "\"1억이 1.4억 됐다\" 이번주 44% ↑...삼전닉스 안 부러운 이 종목[김근희의 증시 랩업]",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003675624",
+    "title": "\"AI시대 영어표현력 키워요\"…'웅진 말하기대회'",
     "summary": [
-      "6월 셋째 주(6월15~19일) 증시는 살아 있는 생명체와 같아서 늘 시시각각 변합니다.",
-      "'김근희의 증시 랩업'은 한 주간 상승·하락한 종목들과 증시 주요 이벤트 등을 살펴보며 시장의 흐름을 짚고, 투자자들이 현명한 투자 전략을 짤 수 있도록 돕겠습니다.",
-      "코스피 9000 시대가 열리자 반도체 대장주인 삼성전자와 SK하이닉스뿐 아니라 이를 보유한 지주사도 함께 달렸다."
+      "[서울=뉴시스]강은정 기자 = 영어교육 전문기업 웅진컴퍼스는 오는 8월 29일 서울교대 에듀웰센터에서 '제3회 웅진컴퍼스 영어말하기 대회'를 실시한다고 20일 밝혔다.",
+      "서울교대 인공지능(AI) 윤리센터가 주관하고 웅진컴퍼스·서울교대가 공동 주최하는 이번 대회는 ▲유치부 ▲초등 저학년부 ▲초등 고학년부 ▲중등부 ▲고등·일반부 등 5개 부문으로 진행된다.",
+      "참가자들은 'AI'와 '로봇'과 관련된 두 가지 질문 중 하나를 골라 자기 생각을 영어로 표현."
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
+      "#교육"
     ]
   },
   {
-    "id": "n9639e421",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026061916591988883",
-    "title": "다주택자 급매 사라지자 경매로…서울 고가 아파트, 첫경매서 고가낙찰 행렬[부동산AtoZ]",
+    "id": "n07245903",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/202606197234i",
+    "title": "작년엔 도란, 올해는 페이즈…MSI 진출 이끈 'T1 신입생' [이주현의 로그인 e스포츠]",
     "summary": [
-      "지난달까지만 해도 15억원대 미만 중저가 단지가 강세를 보였던 서울 경매 시장에 다시 고가 아파트 낙찰 수요가 쏠리고 있다.",
-      "다주택자 양도세 중과 유예 종료를 앞두고 시장에 출회됐던 매물이 자취를 감추면서 투자 수요가 경매 시장으로 유입되고 있다는 분석이다.",
-      "20일 경매업계에 따르면 이달 들어 20억원대 이상 고가 아파트가 유찰 없이 첫 경매에서 낙찰가율 100%를 넘겨 낙찰되는 사례가 잇따르고 있다.송파구 방이동 올."
+      "작년엔 도란, 올해는 페이즈…MSI 진출 이끈 'T1 신입생' [이주현의 로그인 e스포츠]."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbe0a0c08",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026061915375435626",
-    "title": "전국 아파트 매매 전세 ‘동반 불장’…17개 시도중 16곳 일제히 상승",
+    "id": "n7378b860",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/2026061973891",
+    "title": "검색까지 되살린 네이버 포인트의 힘",
     "summary": [
-      "전국 아파트 시장에서 매매와 전세가 모두 오르고 있다.",
-      "지방 일부 지역을 제외한 전국 17개 시도 중 16곳이 일제히 상승 곡선을 그리며 완연한 불장세를 나타냈다.",
-      "특히 서울 전셋값은 최근 1년 만에 주간 기준 가장 높은 상승률을 기록했다."
+      "검색까지 되살린 네이버 포인트의 힘."
     ],
     "chips": [
-      "#AI",
-      "#부동산",
-      "#전세"
+      "#네이버"
     ]
   },
   {
-    "id": "n1597d563",
+    "id": "n1195c989",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/202606197511i",
+    "title": "스마트폰 벗어난 지그재그, 무신사랑 한판 붙었다는데 [장서우의 하입:hype]",
+    "summary": [
+      "스마트폰 벗어난 지그재그, 무신사랑 한판 붙었다는데 [장서우의 하입:hype]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb5310e3",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619064600051",
+    "title": "[해수분해] 항만이 막히면 수출도 멈춘다…24시간 돌아가는 물류",
+    "summary": [
+      "[※ 편집자 주 = 부산으로 이전한 해양수산부가 올해 출범 30주년을 맞았습니다.",
+      "바다 안전부터 해양 연구까지 다양한 분야에 걸쳐 해양수산 행정..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nc82ca3a4",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619122200008",
+    "title": "[머니플로우] '9천피' 넘자 증시 대기자금·빚투 동반 상승",
+    "summary": [
+      "(서울=연합뉴스) 고은지 기자 = 코스피가 역사적 '9천피'를 쓴 지난 18일 추가 상승에 대한 기대감에 증시 대기자금과 '빚투'(빚내서 투자)..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n54852620",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026061914344034304",
-    "title": "민생쿠폰 막힌 대형마트…'꼼수'로 수억 챙긴 업주 결국",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003676302",
+    "title": "SK하이닉스 '학력제한 폐지' 선언…취준생들 기대 속 \"합격은 글쎄\"",
     "summary": [
-      "경기 고양시에서 대형마트를 운영해온 50대 김모씨는 정부의 '민생회복 소비쿠폰' 지급 소식에 머리를 싸맸다.",
-      "소상공인을 돕는 정책 취지에 따라 연 매출 30억원이 넘는 그의 매장은 대상에서 제외됐기 때문이다.",
-      "매출 증가를 기대하기 어려운 처지였던 김씨는 한 가지 꼼수를 생각해냈다."
+      "[서울=뉴시스]이다솜 기자, 김가영 김범준 인턴기자 = SK하이닉스가 학력 제한을 전면 폐지하고 직무 역량 중심 채용을 강화하기로 하면서 취업준비생들 사이에서 기대와 의구심이 교차하고 있다.",
+      "\"지원 기회가 넓어질 것\"이라는 반응이 나오는 한편 취업시장에서 학벌 영향력이 여전히 큰 만큼 실제 채용 결과까지 지켜봐야 한다는 목소리도 적지 않다.",
+      "20일 뉴시스 취재를 종합하면 SK하이닉스는 최근 채용 과정에서 학력 제한을 전면 폐지하고 직무 역량 중."
     ],
     "chips": [
+      "#SK하이닉스",
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
+    "id": "nebcf5370",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003676405",
+    "title": "'영끌'도 '빚투'도 설 자리 좁아진다…하반기 대출시장 꽁꽁[대출 빙하기①]",
+    "summary": [
+      "[서울=뉴시스] 조현아 기자 = 금융당국의 가계부채 관리 기조가 한층 강화되면서 은행권이 주택담보대출(주담대)에 이어 신용대출 빗장까지 걸어잠그고 있다.",
+      "하반기 추가 대출 규제 가능성까지 제기되면서 대출시장이 본격적인 '빙하기'에 접어들 것이라는 전망이 나온다.",
+      "20일 금융권에 따르면 주요 시중은행들과 인터넷전문은행들은 일제히 신용대출 한도를 축소하고, 우대금리를 낮추는 등 대출 조이기에 돌입했다."
+    ],
+    "chips": [
+      "#금리",
       "#정책"
     ]
   },
   {
-    "id": "n61037e2b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026061911304694609",
-    "title": "[주말엔게임]25년 장수 게임 '크아' 정리 배경 살펴보니 …IP 생명력 이어갈까",
+    "id": "nacf65c30",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260620/134148276/1",
+    "title": "모스크바 정유소 우크라 드론 아닌 방공 미사일에 폭발",
     "summary": [
-      "넥슨이 장수 지식재산권(IP) '크레이지 아케이드'(크아) 서비스를 오는 8월 종료한다.",
-      "2001년 9월 출시 이후 25년간 사랑받아온 '크아'가 추억의 게임이 된다는 소식에 이용자들은 아쉬움을 토로하고 있다.",
-      "동시에 오래 버텼다는 반응도 나온다."
+      "지난 18일(현지시각) 우크라이나의 대규모 드론 공격으로 폭발한 것으로 전해진 모스크바 인근 연료 저장 시설이 실제로는 러시아군 방공 미사일에 맞은 것으로 보인다고 미 뉴욕타임스(NYT)가 19일 보도했다.",
+      "모스크바 남동부에 있는 저장 사일로의 지붕이 공중으로 높이 날아갔다가 추락했다.이 사건이 러시아군의 오인 사격으로 인한 것이었을 가능성은 우크라이나의 모스크바 공격 확대가 러시아 방공망에 큰 부담을 주고 있음을 부각한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9ae337cd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260616_0003671303",
-    "title": "[인터뷰]표지훈 \"'봉근대'는 인생캐…오래오래 하고 싶죠\"",
+    "id": "na9c252ff",
+    "category": "스포츠",
+    "source": "연합뉴스(경제)",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620012300002",
+    "title": "[다음주 경제] 체감경기 개선됐나…출생 증가세 지속도 관심",
     "summary": [
-      "[서울=뉴시스] 이종희 기자 = \"'봉근대'는 인생 캐릭터이자 평생 기억에 남을 캐릭터에요.",
-      "전 세계적으로 많은 사랑을 주셔서 근대를 오래오래 연기하고 싶죠.\" 배우 표지훈(33)은 16일 서울 종로구 한 카페에서 진행된 넷플릭스 시리즈 '참교육' 종영 인터뷰에서 인생 캐릭터를 만났다는 평가에 대해 이같이 밝혔다.",
-      "'참교육'은 무너진 대한민국의 교육현장을 지키기 위해 창설된 교권보호국의 이야기를 그린다."
+      "(서울=연합뉴스) 이세원 배영경 한지훈 기자 = 다음 주(6월 22∼26일)에는 최근 금융기관 건전성과 국내 기업의 체감경기 개선 여부를 확인할..."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   }
 ];
@@ -645,20 +632,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
