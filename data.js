@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-19 21:23:57
+// 마지막 업데이트: 2026-06-19 22:18:44
 window.NEWS_DB = [
   {
     "id": "nb40c53b9",
     "category": "IT",
     "source": "조선일보",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXd1bURrS2hScVBXdHMyWnNLdWNsRlkyRXg1cEd1NFlkNFZ3SzZpY2ZBNGt2TW9WQ1FLNDZuanlIRlRkNktRN3d2bzh2RWdaWjVKY2thNlFRTjktY1FCNkJ0V0JsU0MtM1JrcFhYWENDbDRBYUNYOWp2dnotaW9nOXEzMA?oc=5",
     "title": "파운드리 부활 꿈꾸는 인텔... 한국인에게 ‘키’를 맡겼다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nd725c36e",
     "category": "IT",
     "source": "서울경제",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91T1NtclVEQWhGc1RubTh3N1o3dHZDSldyTERiNkZhSnVxblZ0QVJ4QTVUR1UzQXRjckxxV2JndlBBMG5YeVNHMnZxRXpiTWlTeGfSAVNBVV95cUxNUEhNcnRYekhDa0ZFMV81NHY0UGY5LXloN2YyWkV4N0VfemxKOThVY3BvQ0JFUFU5WmExblJvOUlMQmVxQnNiTkttMXduNExkT0dmbw?oc=5",
     "title": "인텔, 이석희 고리로 SK하닉과 ‘HBM 협력’ 기대…삼성엔 ‘변수’",
     "summary": [
@@ -31,26 +31,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08908b7e",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "20시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2NFJCQzVrZHFwdjZGaWdCVkFoVmZvbkE0LWt2dWktcWEyUG9xRVNmYTdaYjVHS1ZOODJUdWUtVUFwXzZaaE1WX3FNV2FoaE1INFVBS05kY0tSNzc0SUJ4Q3ZxTmxoZzhV0gFuQVVfeXFMTlFHc1EtcFp5b1h2TWRkRkRBVnJkcUx1UDZGMWdBaGgxS0twNGdQX1o4UThhUTlGeUJnWElmWVd6Umo5VlMtR19IaWN3eFA5R1R5VllLeUx5UGlCeUNWVDZlQ3JVRmVEbGZ4eURIRUE?oc=5",
-    "title": "아마존, 자체 AI 반도체 외부 판매 추진…엔비디아에 도전장 - 머니투데이",
-    "summary": [
-      "아마존, 자체 AI 반도체 외부 판매 추진…엔비디아에 도전장 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nf63d61ce",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LZ0t3U1YzSUtOaG4ycWpjOGthb0hmQ3N2ODV3SEpEUTRJeW50X3lnWVlURngyVXlYUmxBYjBwMlJ5b1VxUE5feEcwaHllZklJX29oZVFhWW8zZ2fSAWBBVV95cUxPRzFRLVdnbjUxbDktMHE3Y0RDTWdUTV93ZkJOYWRVYmJPVFlySi1XR3dVVlRYWGtpREF6aWRDRTM3R28xaXBRMDFDTFhVODU1SzRCRG5kZVZBZU1keTBOSTI?oc=5",
     "title": "아마존, AI 칩 외부 판매 추진…엔비디아 아성 도전",
     "summary": [
@@ -73,6 +57,23 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nba870d9e",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41S3hXckZrZ1p6ci1ObkNzdl96M3IzMHlLLVFGY2lIeXFTOUN1OXdEODJyT3JFakNFd2d5ek95b2FNOV9PSnRWa01rYThkbFZibXVFcy1ndlBtZ19lMUhwNnlqUXdnb0hCSVBxcUExTmVNcTQ?oc=5",
+    "title": "엔비디아 주도 AI 열풍에 삼성전자 SK하이닉스 역할 커져, 젠슨 황 \"반도체 생산 확대\" 요청 주목",
+    "summary": [
+      "엔비디아 주도 AI 열풍에 삼성전자 SK하이닉스 역할 커져, 젠슨 황 \"반도체 생산 확대\" 요청 주목 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자"
     ]
   },
   {
@@ -121,11 +122,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0325eee6",
+    "id": "nf184bcf3",
     "category": "IT",
     "source": "v.daum.net",
     "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mM0pBbXo4UHF6QTlGU2JVOEJQeEg3VmtpQ1dTZ01aR2VBamVKVUhiWlQ2bkVpLWRjaDQzb1JVaXRFUVZqN3UzTzdyUE5JaWVZUTNmcQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40WGVUV0hlaDA0ZXBxRUdnMFVtZFVTUmdUWkxSMnV5NXZwQ3BOcXlrQlNiZjl0N0JSdTJoMUZSMmd5ZW45eVlYNXdDR0Uwa1k?oc=5",
     "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
     "summary": [
       "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? v.daum.net."
@@ -313,311 +314,328 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8b3f8122",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676625",
-    "title": "이란 외무부, \"미국과 추가 협상 며칠 내 준비\"(종합)",
-    "summary": [
-      "[테헤란=신화/뉴시스] 강영진 기자 = 에스마일 바가이 이란 외무부 대변인은 19일(현지시각) 스위스에서 열릴 예정이었던 이란과 미국 대표단 간의 회담이 연기되었으며, 앞으로 며칠 내에 다른 회담을 위한 계획이 진행되고 있다고 밝혔다.",
-      "바가이 대변인은 이날 발표한 성명에서 다음 단계 회담을 위한 협의가 중개국들을 통해 진행하고 있으며 조건이 갖춰지면 새로운 날짜가 발표될 것이라고 설명했다.",
-      "바가이는 최근 이란과 미국 사이에 서명된 양해각서에 따."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf9018d5e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620006600051",
-    "title": "부산·울산·경남 오후까지 비…강풍·파도 주의",
-    "summary": [
-      "(부산=연합뉴스) 이영재 기자 = 토요일인 20일 부산·울산·경남 지역은 오후까지 곳에 따라 강하고 많은 비가 내리겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c01b2a9",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620006700054",
-    "title": "'전봇대 낙뢰' 광주 진월동 4개 아파트단지 한때 정전",
-    "summary": [
-      "(광주=연합뉴스) 정회성 기자 = 20일 오전 2시 40분께 광주 남구 진월동 일대 4개 아파트단지에서 정전이 발생했다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nbfca5e34",
+    "id": "n92c00134",
     "category": "사회",
     "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/06/20/MEYDINTGGQ4GMMTFMQ3WEZLCMI/",
-    "title": "故최성봉 3주기, 거짓 암투병 끝 무연고 사망자로 떠났다..굴곡졌던 ‘韓 폴포츠’ [Oh!쎈 이슈]",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/GA3DAYRTGNQTQZBUGY4WKY3BMQ/",
+    "title": "‘콩콩팜팜’ 등기부등본 ‘양계업’ 공개..이광수 “그래서 회사이름 ‘에그’” [순간포착]",
     "summary": [
-      "[OSEN=김채연 기자] ‘한국의 폴포츠’로 유명세를 얻었던 고(故) 최성봉이 세상을 떠난지 벌써 3년이 흘렀다.고 최성봉은 2023년 6월 20일 서울 강남구 역삼동 자택에서 숨진 채 발견됐다.",
-      "향년 33세.고인은 사망 전날 SNS를 통해 “저의 어리석은 잘못으로 잘못과 피해를 받으신 분들에게 진심으로 죄송하고 거듭 잘못했다”고 글을 남겼고, 경찰이 신고."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘콩콩팜팜’ 고중석 대표와 나영석 PD가 회사 설립 목적을 밝혔다.19일 첫 방송된 tvN 예능 ‘콩 심은 데 콩 나는 가고팜 하고팜 동물농장’(이하 ‘콩콩팜팜’)에서는 제주도로 떠나기 전, 사전 모임을 갖는 이광수, 김우빈, 도경수의 모습이 그려졌다.이날 사옥에 모인 세 사람은 고중석 대표와."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n089cc6c5",
+    "id": "nbf73f82a",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620006500062",
-    "title": "강원 내일 오전까지 강한 비…동해안 중심 강풍·고파도 변수",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003675921",
+    "title": "의정부시 ‘임산부 친환경 농산물 지원’ 신청 접수",
     "summary": [
-      "(강릉=연합뉴스) 유형재 기자 = 토요일인 20일 강원도는 대체로 흐리고 밤(18~24시)까지 곳에 따라 비가 내리겠다."
+      "[의정부=뉴시스] 김도희 기자 = 경기 의정부시는 오는 30일까지 '2026년 임산부 친환경농산물 지원사업' 신청을 접수받는다고 20일 밝혔다.",
+      "해당 사업은 미래 세대의 건강 증진과 지역 농산물 소비 촉진을 위해 마련됐다.",
+      "지원 대상은 신청일 현재 의정부시에 거주하는 임신부 또는 2025년 1월1일 이후 출산한 산모다."
+    ],
+    "chips": [
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n3c120eaf",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/MI2TEOBQGI2DGZRRMFSGGZJXGQ/",
+    "title": "배우 이기혁, 때아닌 황당 악플세례?...문제는 비난보단 응원이 필요할 때 [핫피플]",
+    "summary": [
+      "[OSEN=김수형 기자] 배우 이기혁에게 때아닌 악플세례가 이어졌다.",
+      "다만 배우와 선수를 떠나, 한 사람을 겨냥한 과도한 비난을 자제해야한다는 목소리도 나오고 있다.",
+      "19일, 대한민국 축구대표팀이 멕시코전에서 월드컵 패배 후폭풍이 엉뚱한 곳으로 번졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na0c35516",
+    "id": "n0b1d6e96",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620006300071",
-    "title": "트럼프 \"60일 내 합의를…아니면 이란 마음에 안드는 일 할 것\"",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619131800053",
+    "title": "경북 봉화 국립백두대간수목원, 누적 관람객 200만명 돌파",
     "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 19일(현지시간) 60일간의 후속협상에서 합의가 이뤄지지 않을 경우 공격을 재..."
+      "(봉화=연합뉴스) 김용민 기자 = 국립백두대간수목원은 개원 8년 만에 누적 관람객 200만명을 돌파했다고 20일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1cfcc2a5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260617113800060",
+    "title": "[로컬의 재발견] 국경 지키던 연천 당포성…별 찾는 명소로 변신",
+    "summary": [
+      "[※ 편집자 주 = 저출산·고령화와 청년 유출로 지역 소멸 위기가 커지는 가운데 연합뉴스는 발상의 전환을 통해 각 지역의 숨은 자랑거리와 이야깃..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e035bc1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620008100071",
+    "title": "트럼프, 쿠바서 베네수式 작전 가능성에 \"그럴 수도 있어\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 이란과의 종전 양해각서(MOU) 이행에서 최대 변수로 떠오른 이스라엘의 레바논..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n06207f7e",
+    "id": "nf255433c",
     "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/HBTGKZRSGE3GGODEMU3GCZRWHA/",
-    "title": "“다시 못 돌아와”..임지연, ♥허남준 피습에 오열→조선 귀환 예고 (‘멋진신세계’)[어저께TV]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘멋진 신세계’ 허남준이 피습을 당해 위독한 상태에 빠졌다.",
-      "19일 방송된 SBS 금토드라마 ‘멋진 신세계’ 13회에서는 피습을 당한 차세계(허남준 분)가 생명이 위독해진 모습이 그려졌다.이날 신서리(임지연 분)는 차세계 앞에서 “난 사는 게 좀 형벌 같았거든.",
-      "하루하루가 꼭 벌을 받는 거 같았."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5b9aaed5",
-    "category": "사회",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/GVTDKZLDMU2TAZBQGQ3TANTBG4/",
-    "title": "김우빈, 첫방부터 예의차렸다..카우보이에 이광수 “저승사자인 줄” (‘콩콩팜팜’)[순간포착]",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676636",
+    "title": "트럼프, \"이란 60일 내 합의 안 하면 안 좋아할 일 할 것\"",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘콩콩팜팜’ 김우빈이 첫방부터 예의를 차렸다.19일 첫 방송된 tvN 예능 ‘콩 심은 데 콩 나는 가고팜 하고팜 동물농장’(이하 ‘콩콩팜팜’)에서는 이광수, 김우빈, 도경수가 제주도 목장에서 팜스테이를 시작하는 모습이 그려졌다.이날 가장 먼저 출근 이광수는 밀짚모자를 들고 등장했다."
+      "[서울=뉴시스] 강영진 기자 = 도널드 트럼프 미 대통령이 19일(현지시각) 이란과 후속 협상에서 합의가 이뤄지지 못할 경우 공격이 재개될 수 있음을 시사해 이란을 압박했다.",
+      "트럼프는 이날 앤드루스 합동 기지에서 카타르에서 선물받아 개조한 새 대통령 전용기를 소개하는 연설에서 “그렇지 않으면, 그들(이란)이 좋아하지 않을 일을 할 것”이라고 말했다.",
+      "그러나 트럼프는 “그런 일은 일어나지 않을 것으로 본다”며 “매우 잘 진전될 것으로 본다”고 덧."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n003c3a54",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676617",
-    "title": "'개최국' 미국, 호주 2-0 격파…멕시코 이어 32강행 확정[월드컵24시]",
-    "summary": [
-      "[과달라하라(멕시코)=뉴시스] 하근수 기자 = 2026 북중미 월드컵 공동 개최국 중 하나인 미국이 호주를 꺾고 32강 진출을 조기에 확정했다.",
-      "미국은 20일(한국 시간) 미국 시애틀 스타디움에서 열린 호주와의 2026 국제축구연맹(FIFA) 북중미 월드컵 D조 2차전에서 2-0으로 이겼다.",
-      "지난 1차전에서 파라과이를 4-1로 완파했던 미국은 2승(승점 6)을 기록, D조 1위를 지켜 32강행 티켓을 따냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc2067f43",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676619",
-    "title": "엄지성 \"조규성에게 크로스 올릴 때 '가나전' 스쳤다\"[인사이드 월드컵]",
-    "summary": [
-      "[사포판(멕시코)=뉴시스]안경남 기자 = 개최국 멕시코와의 2026 북중미 월드컵 경기에서 조규성(미트윌란)에게 결정적인 크로스를 올렸던 엄지성(스완지)이 \"짧은 순간에 2022년 카타르 월드컵 가나전이 스쳤다\"고 말했다.",
-      "엄지성은 20일(한국 시간) 멕시코 과달라하라 인근 사포판의 베이스캠프 훈련장인 치바스 바예 베르데에서 훈련 전 취재진과 만나 “\"멕시코전 때 홍명보 감독님이 측면에서 일대일 경합을 하고, 크로스를 올리는 공격적인 플레이를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb7c49033",
+    "id": "n86171c2e",
     "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619094600546",
+    "title": "[글로컬] 핵 포기 않고 제재 벗는 이란…북한이 배울까",
+    "summary": [
+      "(서울=연합뉴스) 한승호 선임기자 = 미국의 이란 전쟁 최대 명분은 이란의 핵을 완전히 제거하는 것이었으나, 이란이 핵 잠재력을 유지한 채 제재..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na65864e7",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/20/2026062006585369340",
+    "title": "오바마 \"이란전쟁 전보다 상황 나빠\"…트럼프에 혹평",
+    "summary": [
+      "[미국-이란 전쟁] 미국과 이란이 종전 양해각서(MOU)에 서명하고 이란의 핵 개발과 호르무즈 해협 통행료 부과 등에 대해 60일 동안 후속 협상을 이어가기로 한 데 대해 버락 오바마 전 미국 대통령이 이란 전쟁 개전 이전과 같거나 더 나쁜 상황이라고 평가했다.",
+      "오바마 전 대통령은 19일(현지시간) 방영된 NBC뉴스와 인터뷰에서 미국과 이란의 MOU 타결에 대한 견해를 묻는 질문에 \"지금 우리는 전쟁을 치렀고 거액을 쏟아부었으며 군에 막대한 부."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n25edfef2",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/20/2026062006162915051",
+    "title": "폭염에 쓰러진 주심, 선수들이 곧장 달려가 도왔다... 女 대기심도 빠르게 달려와 '음료 전달'",
+    "summary": [
+      "월드컵 무대에서 보기 드문 장면이 나왔다.",
+      "치열한 승부 도중 그라운드에 쓰러진 이가 있었다.",
+      "경기를 책임지던 주심이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74f5a505",
+    "category": "IT",
     "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676624",
-    "title": "주미 이스라엘 대사, \"레바논 내 모든 공격 작전 중단\"",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003675502",
+    "title": "\"24시간 AI 식품 상담\"…식약처, '온고지신' 운영",
     "summary": [
-      "[서울=뉴시스] 강영진 기자 = 예히엘 라이터 주미 이스라엘 대사는 19일 이스라엘이 즉각적인 휴전을 약속하고 레바논에서의 “모든 공격 작전을 중단했다”고 밝혔다고 미 뉴욕타임스(NYT)가 19일(현지시각) 보도했다.",
-      "NYT는 이스라엘 대사의 발언이 휴전에 대한 첫 번째 공개적 확인이었으나 이스라엘이 위반이나 위협으로 인식하는 것에 대해서는 여전히 조치를 취할 것임을 시사해 자신의 성명을 제한했다고 덧붙였다.",
-      "라이터 대사는 소셜 미디어에 “헤즈."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0bf95912",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "23분 전",
-    "url": "https://www.hankyung.com/article/202606197653i",
-    "title": "반도체 랠리 탄 아시아…韓·日·대만의 개미 투자 과열?",
-    "summary": [
-      "반도체 랠리 탄 아시아…韓·日·대만의 개미 투자 과열?."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n3a9dd754",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "23분 전",
-    "url": "https://www.hankyung.com/article/202606185308i",
-    "title": "“지금 아니면 못 먹어”…가격 20% 뛰어도 잘 나가는 제철 채소 [프라이스&]",
-    "summary": [
-      "“지금 아니면 못 먹어”…가격 20% 뛰어도 잘 나가는 제철 채소 [프라이스&]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41ee13b3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "23분 전",
-    "url": "https://www.hankyung.com/article/2026061974771",
-    "title": "9000피에 '빚투'도 펄펄 끓는다",
-    "summary": [
-      "9000피에 '빚투'도 펄펄 끓는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfff7549c",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "23분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/20/MQZMMB6GCNC3FO64NMB6DZZAKA/",
-    "title": "엔비디아의 차세대 산업혁명… 데이터센터를 공장으로",
-    "summary": [
-      "“이제 인공지능(AI)은 비용이 아니라 수익이며, 컴퓨트(연산 인프라)가 곧 수익이 되는 시대다.”젠슨 황 엔비디아 최고경영자(CEO)는 6월 1일 대만 타이베이 뮤직센터에서 열린 ‘GTC 타이베이 2026’ 기조연설에서 “유용한 AI가 마침내 도달했다”고 했다.",
-      "AI가 산업 현장에서 실제 수익을 창출하는 상용화 단계에 진입했다고 선언한 것이다."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n631fba6a",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "23분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/20/KHSYDTH4RJAZRN36C4YDC6TYRA/",
-    "title": "[인터뷰] 이재신 SK텔레콤 AI사업개발담당 “인공지능 경쟁, 추론으로… AI 데이터센터 풀스택 인프라로 승부”",
-    "summary": [
-      "[인터뷰] 이재신 SK텔레콤 AI사업개발담당 “인공지능 경쟁, 추론으로… AI 데이터센터 풀스택 인프라로 승부”."
+      "[서울=뉴시스]이소헌 기자 = 식품의약품안전처가 국민신문고 데이터를 인공지능(AI) 기반으로 검색해 식품 관련 민원을 상담해 주는 시스템을 운영한다.",
+      "식약처는 영업자가 식품 관련 궁금증을 언제 어디서나 신속하게 해결할 수 있도록 24시간 AI 식품 민원 상담시스템 '온고지신'을 구축하고 운영에 들어간다고 20일 밝혔다.",
+      "온고지신이란 온라인으로 고민되는 식품 민원을 지체 없이 신속하게 답변한다는 의미의 AI 상담시스템이다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n74340182",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "53분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/06/20/II7MDLAUFFH53LM4DWP32BOBXA/",
-    "title": "평범한 주부가 가족 위해 만든 찰보리빵으로 연매출 70억원 갑부로 변신",
-    "summary": [
-      "평범한 주부가 가족 위해 만든 찰보리빵으로 연매출 70억원 갑부로 변신."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7a0352d",
+    "id": "n04dfebe4",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620003400072",
-    "title": "국제유가, 미·이란 후속협상 지연에 상승…브렌트 0.9%↑",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619112900030",
+    "title": "[신상잇슈] 오리온 부침개맛 과자 '지지미'·파리바게뜨 '당근이세요?'",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 스위스에서 열릴 예정이었던 미국과 이란 간 후속 협상이 미뤄지면서 19일(현지시간) 국제 유가가 상승했다."
+      "[신상잇슈] 오리온 부침개맛 과자 '지지미'·파리바게뜨 '당근이세요?'."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n55c8fd92",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/It/article/all/20260620/134148136/1",
-    "title": "“눈앞에 먼지가 아른”…실명위험 ‘이 질환’ 신호[몸의경고]",
+    "id": "nf6b76614",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619142200003",
+    "title": "[부동산캘린더] 내주 북오산자이 드포레 등 6천200가구 분양",
     "summary": [
-      "50대 직장인 남성 이모씨는 올해 초 눈앞에 먼지가 떠다니고 불빛이 깜빡거리는 듯한 증상을 느꼈다.",
-      "하지만 단순히 눈이 피로하다고 생각해 대수롭지 않게 여겼다.",
-      "그러나 증상이 계속되자 동네 안과를 찾았고 ‘망막박리’라는 진단을 받았다.급하게 수술이 필요한 상황이었지만 이씨가 찾은 병원에서는 수술이 힘들었고, 담당 의사는 평소 알고 있던 핫라인으로 응급 수술이 가능한 병원에 연락했다."
+      "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 6천200가구가 분양에 나선다."
     ],
     "chips": [
-      "#의료"
+      "#부동산"
     ]
   },
   {
-    "id": "n809ae393",
+    "id": "n6c6be581",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "18분 전",
+    "url": "https://www.hankyung.com/article/2026061974321",
+    "title": "[토요칼럼] 아무것도 모르는 기성세대",
+    "summary": [
+      "[토요칼럼] 아무것도 모르는 기성세대."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n783124e4",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/tech/2026/06/20/2026061910295858912",
+    "title": "삼성이 옳았다?…\"화웨이도 U자형 트라이폴드로 변신\" [IT썰]",
+    "summary": [
+      "화웨이가 차세대 트라이폴드(두 번 접는) 스마트폰 '메이트 XT2(Mate XT2)'를 오는 9월 공개할 것으로 전망된다.",
+      "전작의 병풍형(S자) 폴딩 구조를 버리고 삼성전자가 선보인 U자형 설계를 채택할 것으로 알려지면서 관심이 쏠리고 있다.",
+      "20일 중국 IT 매체 콰이커지에 따르면 IT 팁스터(정보유출자) '딩자오수마(定焦??)'는 화웨이가 오는 9월 메이트 XT2를 출시할 예정이며 초기 공급 물량은 많지 않을 것이라고 전했다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n0f45b14a",
     "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152769",
-    "title": "카카오게임즈 최대주주 '빅딜' 마무리...라인야후 품에 안겼다",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/stock/2026/06/20/2026061917405629326",
+    "title": "\"1억이 1.4억 됐다\" 이번주 44% ↑...삼전닉스 안 부러운 이 종목[김근희의 증시 랩업]",
     "summary": [
-      "카카오게임즈의 최대주주 변경을 골자로 한 3000억원 규모 자금조달 절차가 마무리됐다.",
-      "카카오게임즈는 2400억원 규모 제3자 배정 유상증자와 600억원 규모 전환사채(CB)를 발행하고, 최대주주가 엘트리플에이(LAAA)인베스트먼트로 변경되었다고 19일 공시했다.",
-      "당초 카카오게임즈의 제3자배정 유증과 CB 납입일은 지난달 29일이었으나 한 차례 연기됐다.이로써 카카오게임즈의 최대주주는 엘트리플에이인베스트먼트로, 총 33.43%의 지분을 보유하게."
+      "6월 셋째 주(6월15~19일) 증시는 살아 있는 생명체와 같아서 늘 시시각각 변합니다.",
+      "'김근희의 증시 랩업'은 한 주간 상승·하락한 종목들과 증시 주요 이벤트 등을 살펴보며 시장의 흐름을 짚고, 투자자들이 현명한 투자 전략을 짤 수 있도록 돕겠습니다.",
+      "코스피 9000 시대가 열리자 반도체 대장주인 삼성전자와 SK하이닉스뿐 아니라 이를 보유한 지주사도 함께 달렸다."
     ],
     "chips": [
-      "#카카오"
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
-    "id": "na71c91a6",
+    "id": "n9639e421",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026061916591988883",
+    "title": "다주택자 급매 사라지자 경매로…서울 고가 아파트, 첫경매서 고가낙찰 행렬[부동산AtoZ]",
+    "summary": [
+      "지난달까지만 해도 15억원대 미만 중저가 단지가 강세를 보였던 서울 경매 시장에 다시 고가 아파트 낙찰 수요가 쏠리고 있다.",
+      "다주택자 양도세 중과 유예 종료를 앞두고 시장에 출회됐던 매물이 자취를 감추면서 투자 수요가 경매 시장으로 유입되고 있다는 분석이다.",
+      "20일 경매업계에 따르면 이달 들어 20억원대 이상 고가 아파트가 유찰 없이 첫 경매에서 낙찰가율 100%를 넘겨 낙찰되는 사례가 잇따르고 있다.송파구 방이동 올."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nbe0a0c08",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026061915375435626",
+    "title": "전국 아파트 매매 전세 ‘동반 불장’…17개 시도중 16곳 일제히 상승",
+    "summary": [
+      "전국 아파트 시장에서 매매와 전세가 모두 오르고 있다.",
+      "지방 일부 지역을 제외한 전국 17개 시도 중 16곳이 일제히 상승 곡선을 그리며 완연한 불장세를 나타냈다.",
+      "특히 서울 전셋값은 최근 1년 만에 주간 기준 가장 높은 상승률을 기록했다."
+    ],
+    "chips": [
+      "#AI",
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "n1597d563",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026061914344034304",
+    "title": "민생쿠폰 막힌 대형마트…'꼼수'로 수억 챙긴 업주 결국",
+    "summary": [
+      "경기 고양시에서 대형마트를 운영해온 50대 김모씨는 정부의 '민생회복 소비쿠폰' 지급 소식에 머리를 싸맸다.",
+      "소상공인을 돕는 정책 취지에 따라 연 매출 30억원이 넘는 그의 매장은 대상에서 제외됐기 때문이다.",
+      "매출 증가를 기대하기 어려운 처지였던 김씨는 한 가지 꼼수를 생각해냈다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n61037e2b",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "3시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620002000002",
-    "title": "달러-원, 이스라엘·헤즈볼라 휴전에 하락 후 되돌림…1,531원 마감",
-    "summary": [],
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026061911304694609",
+    "title": "[주말엔게임]25년 장수 게임 '크아' 정리 배경 살펴보니 …IP 생명력 이어갈까",
+    "summary": [
+      "넥슨이 장수 지식재산권(IP) '크레이지 아케이드'(크아) 서비스를 오는 8월 종료한다.",
+      "2001년 9월 출시 이후 25년간 사랑받아온 '크아'가 추억의 게임이 된다는 소식에 이용자들은 아쉬움을 토로하고 있다.",
+      "동시에 오래 버텼다는 반응도 나온다."
+    ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ae337cd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260616_0003671303",
+    "title": "[인터뷰]표지훈 \"'봉근대'는 인생캐…오래오래 하고 싶죠\"",
+    "summary": [
+      "[서울=뉴시스] 이종희 기자 = \"'봉근대'는 인생 캐릭터이자 평생 기억에 남을 캐릭터에요.",
+      "전 세계적으로 많은 사랑을 주셔서 근대를 오래오래 연기하고 싶죠.\" 배우 표지훈(33)은 16일 서울 종로구 한 카페에서 진행된 넷플릭스 시리즈 '참교육' 종영 인터뷰에서 인생 캐릭터를 만났다는 평가에 대해 이같이 밝혔다.",
+      "'참교육'은 무너진 대한민국의 교육현장을 지키기 위해 창설된 교권보호국의 이야기를 그린다."
+    ],
+    "chips": [
+      "#교육"
     ]
   }
 ];
@@ -627,8 +645,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
@@ -639,8 +657,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
