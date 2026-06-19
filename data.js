@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-19 16:46:45
+// 마지막 업데이트: 2026-06-19 17:34:47
 window.NEWS_DB = [
   {
     "id": "nb40c53b9",
     "category": "IT",
     "source": "조선일보",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXd1bURrS2hScVBXdHMyWnNLdWNsRlkyRXg1cEd1NFlkNFZ3SzZpY2ZBNGt2TW9WQ1FLNDZuanlIRlRkNktRN3d2bzh2RWdaWjVKY2thNlFRTjktY1FCNkJ0V0JsU0MtM1JrcFhYWENDbDRBYUNYOWp2dnotaW9nOXEzMA?oc=5",
     "title": "파운드리 부활 꿈꾸는 인텔... 한국인에게 ‘키’를 맡겼다",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n08908b7e",
     "category": "IT",
     "source": "머니투데이",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2NFJCQzVrZHFwdjZGaWdCVkFoVmZvbkE0LWt2dWktcWEyUG9xRVNmYTdaYjVHS1ZOODJUdWUtVUFwXzZaaE1WX3FNV2FoaE1INFVBS05kY0tSNzc0SUJ4Q3ZxTmxoZzhV0gFuQVVfeXFMTlFHc1EtcFp5b1h2TWRkRkRBVnJkcUx1UDZGMWdBaGgxS0twNGdQX1o4UThhUTlGeUJnWElmWVd6Umo5VlMtR19IaWN3eFA5R1R5VllLeUx5UGlCeUNWVDZlQ3JVRmVEbGZ4eURIRUE?oc=5",
     "title": "아마존, 자체 AI 반도체 외부 판매 추진…엔비디아에 도전장 - 머니투데이",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "nf63d61ce",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LZ0t3U1YzSUtOaG4ycWpjOGthb0hmQ3N2ODV3SEpEUTRJeW50X3lnWVlURngyVXlYUmxBYjBwMlJ5b1VxUE5feEcwaHllZklJX29oZVFhWW8zZ2fSAWBBVV95cUxPRzFRLVdnbjUxbDktMHE3Y0RDTWdUTV93ZkJOYWRVYmJPVFlySi1XR3dVVlRYWGtpREF6aWRDRTM3R28xaXBRMDFDTFhVODU1SzRCRG5kZVZBZU1keTBOSTI?oc=5",
     "title": "아마존, AI 칩 외부 판매 추진…엔비디아 아성 도전",
     "summary": [
@@ -118,21 +118,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n09c3f669",
-    "category": "사회",
-    "source": "케이에스피뉴스",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1naDducjJDUTZZYUE3UnM1Nk1xVnVKUlphVnV1ZzY2YU84VGhva29Bc0hXQ2xQVjJQNlFmOE1CUmx6Qmhm?oc=5",
-    "title": "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최",
-    "summary": [
-      "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최 케이에스피뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#고용"
     ]
   },
   {
@@ -255,6 +240,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc92d59ae",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "30일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
+    "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
+    "summary": [
+      "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다 경기일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#고용"
+    ]
+  },
+  {
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
@@ -329,10 +329,73 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n581869fe",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/20/2026061918404664002",
+    "title": "두산이 나라를 위해 헌신한 6·25 참전유공자의 헌신을 기리는 방법",
+    "summary": [
+      "두산 베어스가 6·25 참전유공자들의 헌신을 기리며 예우했다.",
+      "두산은 \"지난 18일 서울 잠실야구장에서 국제 주거복지 비영리단체 한국해비타트 브랜드데이를 성황리에 마쳤다\"고 밝혔다.",
+      "두산은 \"호국보훈의 달을 맞아 대한민국 유공자 주거지원 캠페인 '영웅의 집' 시즌 2를 알리는 뜻깊은 자리를 마련했다\"고 설명했다."
+    ],
+    "chips": [
+      "#KBO",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n5aab0fec",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620001800085",
+    "title": "英 동물원서 3세 악어 공격에 중상…30세 살인미수 혐의 체포",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국 한 동물원에서 3세 남자 어린이가 악어의 공격을 받아 크게 다쳤다고 BBC 방송과 스카이 뉴스가 19일..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc8a39cf4",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/20/2026062002173463496",
+    "title": "미국·이란 후속협상 시작부터 삐걱…이스라엘, 레바논 공습에 발목",
+    "summary": [
+      "[미국-이란 전쟁] 미국과 이란이 종전 양해각서(MOU)를 체결하면서 진행하기로 한 60일 동안의 후속 협상이 시작부터 차질을 빚고 있다.",
+      "이스라엘이 친(親)이란 무장정파 헤즈볼라의 공격을 이유로 레바논 공습을 이어가는 데 대해 이란이 반발하면서 협상이 시작도 못하는 상황이 됐다.",
+      "에스마일 바가이 이란 외무부 대변인은 19일(현지시간) \"오늘로 예정됐던 스위스 회담이 다른 날로 연기됐다\"며 \"향후 며칠 내에 협상을 개최하기 위한 계획이 현재 수."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n48c0eb42",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/20/MZRTSOBSMIYGCNZTGIYWGNDEGY/",
+    "title": "오바마 “이란 전쟁 전으로 돌아간 수준… 어쩌면 더 나빠졌을 수도”",
+    "summary": [
+      "버락 오바마 전 미국 대통령이 미국과 이란 간 종전 양해각서(MOU) 체결과 관련해 “전쟁 이전 상태로 돌아간 것 같거나 오히려 더 나빠졌을 수 있다”고 평가하며 도널드 트럼프 대통령의 대(對)이란 정책을 비판했다.",
+      "NBC뉴스에 따르면 오바마 전 대통령은 19일(현지시각) 방송된 인터뷰에서 미국과 이란의 MOU 체결에 대한 견해를 묻는 질문에 “우리는 전쟁."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
     "id": "nd38d7858",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "19분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152766",
     "title": "[카드뉴스] 델은 노트북을 공개한 게 아니다.. '성능 경쟁 끝' AI PC의 미래를 공개했다",
     "summary": [
@@ -345,10 +408,58 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2024eba6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/20/HEZTMYTFMQZGENRRGMZTIOJTG4/",
+    "title": "1회초 2실점→3:2 역전 드라마...1위 지켰다, 염갈량 \"중요한 경기, 모든 선수들이 집중력 발휘해 승리 만들어냈다\"",
+    "summary": [
+      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스가 ‘잠실 라이벌전’에서 두산 베어스에 승리했다.",
+      "LG는 19일 잠실구장에서 열린 두산과 경기에서 3-2 역전승을 거뒀다.톱타자로 출장한 송찬의가 원맨쇼를 펼쳤다.",
+      "송찬의는 1회 좌선상 2루타로 출루했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n0ab1eb27",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "27분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/20/2026062002014342855",
+    "title": "류혜영 \"'응팔' 이후 사람 만나기 무서워\"…암막커튼 뒤 숨은 이유는?",
+    "summary": [
+      "배우 류혜영이 '응답하라 1988' 이후 갑작스럽게 쏟아진 관심으로 불안감을 겪었다고 고백했다.",
+      "19일 방영된 MBC '나 혼자 산다' 652회에서는 배우 류혜영의 집과 일상이 공개됐다.",
+      "이날 류혜영은 낮은 명도와 깔끔한 분위기가 돋보이는 집 내부를 선보였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb37b867e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003676043",
+    "title": "부산 금정문화회관, 우크라이나 오케스트라 초청 음악회",
+    "summary": [
+      "[부산=뉴시스]김민지 기자 = 부산 금정문화회관은 다음 달 14일 오후 7시30분 문화회관 금빛누리홀에서 '2026 우크라이나 유니온 챔버 오케스트라 초청 음악회'를 연다고 20일 밝혔다.",
+      "1963년 창단된 이 오케스트라는 우크라이나 국립 '키이우 챔버 오케스트라' 단원 출신들로 구성됐다.",
+      "고전주의와 현대음악, 우크라이나 작곡가들의 작품을 선보이며 자국 음악 문화 발전을 이바지하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n2e49d447",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "34분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152767",
     "title": "[부고] 유석우(농심 레드포스 사무국장)씨 부친상",
     "summary": [
@@ -360,10 +471,68 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n76656095",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "36분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676610",
+    "title": "이스라엘 \"헤즈볼라, 휴전 지속 위반\"…민간인 공격 주장",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 이스라엘과 레바논 무장정파 헤즈볼라 간 휴전이 발효된 가운데 이스라엘 정부가 헤즈볼라가 휴전 합의를 지속적으로 위반하고 있다고 주장했다.",
+      "19일(현지 시간) 이스라엘 외무부는 페르시아어로 작성한 엑스(X) 게시물을 통해 \"헤즈볼라는 휴전을 위반하고 이스라엘 민간인을 공격하는 행위를 멈춘 적이 없다\"고 밝혔다.",
+      "이스라엘 외무부는 \"헤즈볼라는 드론과 로켓, 대전차 미사일을 이용해 이스라엘인을 공격하고 있다\"고 주장했."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc023c51d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620001600527",
+    "title": "제주도 산지에 호우경보…제주시 중산간에 호우주의보",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 20일 오전 2시를 기해 제주도 산지에 호우경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne46cd4f9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620001500087",
+    "title": "브라질 '글 모르는 인구' 첫 5% 미만…북동부·흑인은 소외",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 브라질의 15세 이상 인구 문맹률이 처음으로 5% 아래로 떨어졌으나 지역과 인종에 따른 교육 불평등은 ..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nb2648fa4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619158451098",
+    "title": "유럽, 러 접촉 놓고 내홍…EU 비밀소통에 독일·프랑스 '격앙'(종합)",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 안토니우 코스타 유럽연합(EU) 정상회의 상임의장 측이 러시아와의 향후 평화협상을 염두에 두고 물밑에서 외..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nd6386c4e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
+    "time": "49분 전",
     "url": "https://www.newsis.com/view/NISX20260619_0003676276",
     "title": "장 세척액에 '간장' 섞어 눈속임…中서 독거 노인 노려 '67억' 사기",
     "summary": [
@@ -379,7 +548,7 @@ window.NEWS_DB = [
     "id": "nd2163dff",
     "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "54분 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260620/134147205/2",
     "title": "오페라하우스 뒤에서 만난 기억, 기술, 사람 그 아름다운 ‘B컷’[유재영 기자의 아트로드]",
     "summary": [
@@ -395,7 +564,7 @@ window.NEWS_DB = [
     "id": "n71c473a6",
     "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "54분 전",
     "url": "https://www.donga.com/news/People/article/all/20260620/134147617/2",
     "title": "‘오바마 센터’ 개관식, 트럼프 빼고 다 모였다",
     "summary": [
@@ -410,7 +579,7 @@ window.NEWS_DB = [
     "id": "n076909ed",
     "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "54분 전",
     "url": "https://www.donga.com/news/People/article/all/20260620/134147612/2",
     "title": "서울역-명동에 전국 축제 10곳 홍보매장",
     "summary": [
@@ -426,7 +595,7 @@ window.NEWS_DB = [
     "id": "na1f9ae81",
     "category": "IT",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "54분 전",
     "url": "https://www.donga.com/news/People/article/all/20260620/134147614/2",
     "title": "인텔, 이석희 前SK하이닉스 사장 영입… 파운드리 강화",
     "summary": [
@@ -443,7 +612,7 @@ window.NEWS_DB = [
     "id": "na5d50fea",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "7분 전",
+    "time": "55분 전",
     "url": "https://www.chosun.com/sports/baseball/2026/06/20/HFSDAMLDMYZTONZQMRRTMOBVG4/",
     "title": "'계약 연장 거절이 신의 한 수?' 컴백 하자마자 불방망이, KIA 고민 사라졌다",
     "summary": [
@@ -456,40 +625,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0c97432e",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620001000098",
-    "title": "노르웨이, 초등생 AI 금지…\"읽고 쓰기 배우는 게 중요\"",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 노르웨이가 초등학생들에게 생성형 인공지능(AI) 도구 사용을 사실상 금지한다.",
-      "중학교 이상 상급 학교 학생..."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n747a5eb8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620000700099",
-    "title": "83세 짐바브웨 대통령 2030년까지 집권 길 열려",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 짐바브웨에서 대통령 선거를 현행 직선제에서 의회 간선제로 바꾸고, 임기를 5년에서 7년으로 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nb6f862d5",
     "category": "사회",
     "source": "뉴시스",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260619_0003675290",
     "title": "이정현 공개한 '5분 비빔국수'…300kcal대 가벼운 한 끼",
     "summary": [
@@ -500,145 +639,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "na4b56d51",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/20/MRRDIYTDG42TQN3CGE4GGZRWGI/",
-    "title": "재활 도중 악! ‘한화→KIA’ 트레이드 이적생, 왜 수술 택할 수밖에 없었나 “팔꿈치 핀을 박아야한다고”",
-    "summary": [
-      "[OSEN=수원, 이후광 기자] 프로야구 KIA 타이거즈의 트레이드 이적생은 왜 수술을 택할 수밖에 없었을까.",
-      "KIA 타이거즈는 19일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 KT 위즈와의 시즌 7차전에 앞서 \"투수 김도현이 우측 팔꿈치 미세골절 유합 수술을 받는다.",
-      "아울러 내측측부인대 재건술도 함께 진행할 예정이다\"라고 공식 발표했다.K."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n124d7fd9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620001100071",
-    "title": "이란 MOU 홍보 전면에 나선 밴스…입다물고 거리두는 루비오",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 지난 16일(현지시간) 도널드 트럼프 미 대통령은 \"잘 되면 내가 공을 차지할 것이고 안 되면 JD를 탓할..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0d8d85be",
-    "category": "IT",
-    "source": "테크M",
-    "time": "26분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152765",
-    "title": "롯데도 AI 혁신 속도낸다...롯데이노베이트, 그룹사 AX 추진 지원",
-    "summary": [
-      "롯데그룹이 AI를 활용해 직원들의 생산성 향상을 도모한다.",
-      "업무 보조 도구 이상의 활용을 통해 실질적인 성과를 내겠다는 계획이다.롯데그룹은 AI를 핵심 경영 과제로 삼고 AX(AI 전환) 실행에 속도를 내고 있다고 19일 밝혔다.",
-      "AI를 실무 인프라로 활용해 직원이 본연의 업무에 집중할 수 있도록 한다는 구상이다."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n7210231b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "28분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/20/GYZTGZJRG44DIMLEGMYWKNTGHA/",
-    "title": "'충격' MLB 고졸 신인 드래프트 금지, 한국 유망주들도 영향 받는다",
-    "summary": [
-      "[스포츠조선 나유리 기자]메이저리그(MLB) 사무국이 파격적인 드래프트 개편안을 제안했다.",
-      "최근 미국행 러시가 펼쳐진 한국 고교 유망주들도 영향을 받게 될 해외 드래프트도 함께 제안했다.",
-      "'베이스볼 아메리카'와 'ESPN' 등은 19일(이하 한국시각) \"MLB가 메이저리그 선수협회(MLBPA)가 새로운 단체 협약(CBA)을 협상 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c89f56d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620000800071",
-    "title": "오바마 \"상황 이란전쟁 이전과 같거나 더 나빠\"…트럼프에 반격",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 미국-이란 전쟁이 양해각서(MOU) 서명과 함께 일단락된 가운데, 버락 오바마 전 미국 대통령은 현재의 상..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7a4e830e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003675825",
-    "title": "\"눈앞에 먼지가 아른\"…실명위험 '이 질환' 신호[몸의경고]",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 50대 직장인 남성 이모씨는 올해 초 눈앞에 먼지가 떠다니고 불빛이 깜빡거리는 듯한 증상을 느꼈다.",
-      "하지만 단순히 눈이 피로하다고 생각해 대수롭지 않게 여겼다.",
-      "그러나 증상이 계속되자 동네 안과를 찾았고 '망막박리'라는 진단을 받았다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6a1f22d1",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "46분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003675607",
-    "title": "부산시향, 하반기 정기연주회 라인업 공개…젊은 거장들과 무대",
-    "summary": [
-      "[부산=뉴시스]진민현 기자 = 부산시립교향악단(부산시향)은 8월부터 10월까지 열리는 제632~634회 정기연주회 라인업을 공개했다.",
-      "8월12일 부산문화회관 중극장에서 열리는 제632회 정기연주회 '소야곡'에서는 R.슈트라우스의 '관을 위한 세레나데', 하이든의 '첼로 협주곡 제1번', 차이콥스키의 '현을 위한 세레나데'가 연주된다.",
-      "협연은 2025 윤이상국제음악콩쿠르 우승자인 첼리스트 이유빈이 맡고, 백승현 부산시향 부지휘자가 지휘한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n401c010e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "54분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/06/20/BEQIYUDL4VBK3A65Q72T4ERTQA/",
-    "title": "지지율 하락도, 보완수사권 논란도… 李, 당 지도부 문제로 돌렸다",
-    "summary": [
-      "지지율 하락도, 보완수사권 논란도… 李, 당 지도부 문제로 돌렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e179c62",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026062000274581573",
-    "title": "부도·사별·위암 이겨낸 만학도 대학생… “시니어 헬스로드로 부산 바꾼다”",
-    "summary": [
-      "\"부산을 '보라색'으로 물들이겠다\" 주인공은 동명대 창업학과 박종민(2학년) 학생이다.",
-      "과거 영어학원 부도와 가족과의 사별, 위암 투병이라는 절망을 겪었던 그는 대학 입학 후 인생 2막의 치열한 연구 끝에 '시니어 헬스로드'라는 혁신적 플랫폼을 세상에 내놓았다.",
-      "시련을 딛고 대학에 입학한 한 학생의 창업 도전기가 전국 무대에서 깊은 울림을 전했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
   }
 ];
 
@@ -647,18 +647,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   }
