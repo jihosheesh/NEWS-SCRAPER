@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-19 19:31:39
+// 마지막 업데이트: 2026-06-19 20:29:39
 window.NEWS_DB = [
   {
     "id": "nb40c53b9",
     "category": "IT",
     "source": "조선일보",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXd1bURrS2hScVBXdHMyWnNLdWNsRlkyRXg1cEd1NFlkNFZ3SzZpY2ZBNGt2TW9WQ1FLNDZuanlIRlRkNktRN3d2bzh2RWdaWjVKY2thNlFRTjktY1FCNkJ0V0JsU0MtM1JrcFhYWENDbDRBYUNYOWp2dnotaW9nOXEzMA?oc=5",
     "title": "파운드리 부활 꿈꾸는 인텔... 한국인에게 ‘키’를 맡겼다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nd725c36e",
     "category": "IT",
     "source": "서울경제",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91T1NtclVEQWhGc1RubTh3N1o3dHZDSldyTERiNkZhSnVxblZ0QVJ4QTVUR1UzQXRjckxxV2JndlBBMG5YeVNHMnZxRXpiTWlTeGfSAVNBVV95cUxNUEhNcnRYekhDa0ZFMV81NHY0UGY5LXloN2YyWkV4N0VfemxKOThVY3BvQ0JFUFU5WmExblJvOUlMQmVxQnNiTkttMXduNExkT0dmbw?oc=5",
     "title": "인텔, 이석희 고리로 SK하닉과 ‘HBM 협력’ 기대…삼성엔 ‘변수’",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n08908b7e",
     "category": "IT",
     "source": "머니투데이",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2NFJCQzVrZHFwdjZGaWdCVkFoVmZvbkE0LWt2dWktcWEyUG9xRVNmYTdaYjVHS1ZOODJUdWUtVUFwXzZaaE1WX3FNV2FoaE1INFVBS05kY0tSNzc0SUJ4Q3ZxTmxoZzhV0gFuQVVfeXFMTlFHc1EtcFp5b1h2TWRkRkRBVnJkcUx1UDZGMWdBaGgxS0twNGdQX1o4UThhUTlGeUJnWElmWVd6Umo5VlMtR19IaWN3eFA5R1R5VllLeUx5UGlCeUNWVDZlQ3JVRmVEbGZ4eURIRUE?oc=5",
     "title": "아마존, 자체 AI 반도체 외부 판매 추진…엔비디아에 도전장 - 머니투데이",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "nf63d61ce",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LZ0t3U1YzSUtOaG4ycWpjOGthb0hmQ3N2ODV3SEpEUTRJeW50X3lnWVlURngyVXlYUmxBYjBwMlJ5b1VxUE5feEcwaHllZklJX29oZVFhWW8zZ2fSAWBBVV95cUxPRzFRLVdnbjUxbDktMHE3Y0RDTWdUTV93ZkJOYWRVYmJPVFlySi1XR3dVVlRYWGtpREF6aWRDRTM3R28xaXBRMDFDTFhVODU1SzRCRG5kZVZBZU1keTBOSTI?oc=5",
     "title": "아마존, AI 칩 외부 판매 추진…엔비디아 아성 도전",
     "summary": [
@@ -59,6 +59,20 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "n5ace0115",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
+    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
+    "summary": [
+      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -121,37 +135,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n12ca2e79",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
-    "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
-    "summary": [
-      "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n13b4af19",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
@@ -164,21 +147,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n70cb7884",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
-    "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -298,6 +266,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nef414906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "121일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
+    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "summary": [
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -313,10 +297,159 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "231일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n5a878fc7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/06/06/7FOOZZ5BYBA27KKEDMAFAG34YY/",
+    "title": "1년만에 50만세트 판매 넘어, 무더위 잊게 만드는 생 메밀국수 6인분 1만원 초특가",
+    "summary": [
+      "1년만에 50만세트 판매 넘어, 무더위 잊게 만드는 생 메밀국수 6인분 1만원 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na0baf25e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620004700527",
+    "title": "상주 등 경북 3곳 호우주의보…영주에 호우주의보 유지",
+    "summary": [
+      "(대구=연합뉴스) 기상청은 20일 오전 5시 20분을 기해 상주·영덕·울진 평지에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb6000af7",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620004400087",
+    "title": "[월드컵] 1차전만 보고 선정했다…조별리그 최강팀은",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 디펜딩 챔피언 아르헨티나, 투자은행 골드만삭스가 월드컵 우승 1순위로 뽑은 스페인, 월드컵 최다 우승국..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfa1d283f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676623",
+    "title": "이화영 국민참여재판서 징역 4월…술파티 위증 유죄(종합)",
+    "summary": [
+      "[수원=뉴시스] 변근아 기자 = 검찰청사 내 연어술파티 의혹 관련 위증 등 혐의로 기소된 이화영 전 경기도 평화부지사가 국민참여재판에서 징역 4개월을 선고받았다.",
+      "20일 수원지법 형사11부(부장판사 송병훈)는 국회증언감정법위반(위증), 정치자금법위반, 직권남용권리행사방해 등 혐의로 기소된 이 전 부지사에게 이 같이 선고했다.",
+      "재판부는 이 사건 연어술파티 위증 혐의에 대해서만 유죄로 판단했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3556ca9f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620004300072",
+    "title": "'10대 관광객 사망' 뉴욕 센트럴파크 마차 운행 잠정 중단",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 뉴욕의 관광 명소인 센트럴 파크에서 마차 사고로 10대 관광객이 숨진 뒤 공원 내 마차 운행이 잠정 중..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7d43e5a5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620004200527",
+    "title": "경북 영주에 호우주의보",
+    "summary": [
+      "(대구=연합뉴스) 기상청은 20일 오전 5시를 기해 영주에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc1c13c30",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003676406",
+    "title": "토요일 인천, 30~100㎜ 강한 비…\"천둥·번개 동반\"",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 20일 인천은 천둥, 번개를 동반한 강한 비가 내리겠다.",
+      "하늘은 제주도 남쪽 해상 부근에서 발달한 저기압의 영향을 받아 흐리고 저녁부터 구름 많겠다.",
+      "수도권기상청은 \"아침 최저기온은 22도, 낮 최고기온은 25도 내외의 분포를 보이겠다\"며 \"저녁까지 강하고 많은 비가 내리는 곳이 있겠다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5d7af621",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003676597",
+    "title": "김신영, 역대급 주사 고백 \"설현 입간판과 싸우고 사과 전화\"",
+    "summary": [
+      "[서울=뉴시스] 이종희 기자 = 코미디언 김신영이 웃지 못할 주사 에피소드를 전했다.",
+      "19일 유튜브 채널 '김영철 오리지널'에는 김신영 출연 당시 미공개 영상이 공개됐다.",
+      "영상에서 김신영은 \"술은 주사가 너무 심해서 끊었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf3d0ace",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003676586",
+    "title": "손담비, 출산 후 달라진 외모 변화…\"얼굴선 무너져\"",
+    "summary": [
+      "[서울=뉴시스] 이종희 기자 = 가수 겸 배우 손담비가 출산 이후 달라진 외모와 노화에 대한 고민을 밝혔다.",
+      "19일 유튜브 채널 '담비손'에는 '40대 아기 엄마 손담비처럼 관리 방법 공개'라는 제목의 영상이 공개됐다.",
+      "영상에서 손담비는 \"가끔 예전 영상을 보면 놀란다\"며 출산 전 모습을 언급했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ne7a0352d",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260620003400072",
     "title": "국제유가, 미·이란 후속협상 지연에 상승…브렌트 0.9%↑",
     "summary": [
@@ -330,7 +463,7 @@ window.NEWS_DB = [
     "id": "n55c8fd92",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/It/article/all/20260620/134148136/1",
     "title": "“눈앞에 먼지가 아른”…실명위험 ‘이 질환’ 신호[몸의경고]",
     "summary": [
@@ -343,132 +476,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n290d25fd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620003100061",
-    "title": "[2보] '술파티 위증' 이화영 징역 4개월…정치자금법은 무죄",
-    "summary": [
-      "(수원=연합뉴스) 권준우 기자 = '연어 술 파티' 의혹을 제기해 국회 위증 혐의 등으로 기소된 이화영 전 경기도 평화부지사가 사상 최장기 국민..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne05637da",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/20/VWB6FDFMUFDTHLK2W2RVDL7L6Y/",
-    "title": "엄지성 “조규성에게 크로스 올릴 때 ‘가나전’ 떠올랐다”",
-    "summary": [
-      "엄지성 “조규성에게 크로스 올릴 때 ‘가나전’ 떠올랐다”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7415963",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620003200072",
-    "title": "美증권사 찰스슈왑, 시카고옵션거래소와 협력헤 예측시장 진출",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 증권사 찰스 슈왑(이하 슈왑)이 파생금융상품 거래소인 시카고옵션거래소(CBOE) 글로벌마켓과 협력해 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd867a8b9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/20/G5RDSYLEMUYDMYRTHEZDGYRXMY/",
-    "title": "\"양현준, 왜 빨리 안 일어나!\" 日 비난…헤수스 가야르도 발차기에 가슴 타격→그라운드에서 통증 호소 '너무 거칠다' 평가",
-    "summary": [
-      "[스포츠조선 김가을 기자]양현준(셀틱)이 경기 중 헤수스 가야르도(톨루카)의 발차기에 가슴을 부여잡았다.",
-      "하지만 오히려 빨리 일어나지 않았다며 비난을 받고 있다.",
-      "홍명보 대한민국 월드컵대표팀 감독이 이끄는 한국은 19일 오전 10시(이하 한국시각) 멕시코 과달라하라 인근 사포판의 에스타디오 과달라하라에서 열린 멕시코와의 2026년 북중미월드컵 조별리그 A조."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1a1376d9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003676412",
-    "title": "대구·경북 흐리고 최고 80㎜ 비…낮 최고 24~29도",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 토요일인 20일 대구와 경상북도는 대체로 흐리고 비가 내릴 것으로 예상된다.",
-      "대구지방기상청은 이날 \"오후까지 대구와 경북남부에 비가 오겠고, 경북중·부에는 밤까지 비가 내리겠다\"고 예보했다.",
-      "예상 강수량은 30~80㎜다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndfced196",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003675425",
-    "title": "성시경도 반한 '토마토 스프', \"꾸준히 먹으면 암 발병률 낮춘다?\"",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 가수 성시경이 자신의 유튜브 채널에서 건강과 맛을 모두 잡은 '토마토 스프' 레시피를 공개하며, 전문가들도 주목하는 토마토의 뛰어난 항산화 효능이 화제를 모으고 있다.",
-      "지난 19일, 성시경이 자신의 유튜브 채널을 통해 건강하고 간단하게 즐길 수 있는 토마토 스프 레시피를 공개했다.",
-      "성시경은 \"토마토를 먹으면 병원에 안 오기 때문에 의사가 가장 싫어하는 음식\"이라며, 이번 레시피가 몸에 좋고 손님 대접용으로도."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd71d2ef1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "43분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620003000061",
-    "title": "[1보] 이화영 '연어 술파티' 위증 징역 4개월…정치자금법은 무죄",
-    "summary": [],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n836ed53b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "44분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676613",
-    "title": "美정보당국, 이스라엘 종전 합의 훼손 가능성 경고",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 미국 정보당국이 도널드 트럼프 행정부에 베냐민 네타냐후 이스라엘 총리가 미국과 이란 간 지속적인 평화 합의를 저해할 수 있다는 경고를 전달한 것으로 알려졌다.",
-      "19일(현지 시간) 워싱턴포스트(WP)는 현직 및 전직 미국 당국자들을 인용해 미국 정보기관들이 네타냐후 총리가 트럼프 대통령의 대이란 평화 구상을 훼손할 수 있는 조치를 취할 가능성이 있다고 평가했다고 보도했다.",
-      "이스라엘은 레바논 내 친이란 무장정파 헤즈."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n7637130e",
     "category": "사회",
     "source": "조선일보",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/national/court_law/2026/06/20/YQNZLRYCLVHMDOIAMW2SXNACRQ/",
-    "title": "법원, 이화영 1심 징역 4개월... ‘연어 술자리 위증’ 유죄",
+    "title": "‘연어 술자리 위증’ 이화영 1심 징역 4개월...“진술 일관성 없어”",
     "summary": [
-      "법원, 이화영 1심 징역 4개월... ‘연어 술자리 위증’ 유죄."
+      "‘연어 술자리 위증’ 이화영 1심 징역 4개월...“진술 일관성 없어”."
     ],
     "chips": [
       "#뉴스"
@@ -478,7 +493,7 @@ window.NEWS_DB = [
     "id": "n809ae393",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152769",
     "title": "카카오게임즈 최대주주 '빅딜' 마무리...라인야후 품에 안겼다",
     "summary": [
@@ -494,7 +509,7 @@ window.NEWS_DB = [
     "id": "na71c91a6",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260620002000002",
     "title": "달러-원, 이스라엘·헤즈볼라 휴전에 하락 후 되돌림…1,531원 마감",
     "summary": [],
@@ -503,26 +518,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0215fa6c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676612",
-    "title": "오바마 \"이란전쟁 이후 미국 상황 더 나빠졌을 수도\"",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 버락 오바마 전 미국 대통령이 미국과 이란 간 전쟁과 관련해 \"미국의 현재 상황이 전쟁 이전과 같거나 오히려 더 나빠졌을 수도 있다\"고 평가했다.",
-      "19일(현지 시간) NBC '투데이 쇼'에 출연한 오바마 전 대통령은 \"휴전이 이뤄진 것을 매우 기쁘게 생각하며, 휴전이 유지되기를 바란다\"면서도 이같이 밝혔다.",
-      "오바마 전 대통령은 \"당시에는 이란이 핵무기를 개발하지 않기로 합의한 협정이 있었다\"며 \"하지만 현 행정부."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nf1e5bdfe",
     "category": "IT",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260620/134148124/1",
     "title": "유도 김찬녕, 울란바타르 그랜드슬램 남자 66㎏급 동메달 획득",
     "summary": [
@@ -536,7 +535,7 @@ window.NEWS_DB = [
     "id": "na58a9392",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260620/134148121/1",
     "title": "‘42세’ 유인영, 연애 중?…“45세 전 결혼하고파”",
     "summary": [
@@ -552,7 +551,7 @@ window.NEWS_DB = [
     "id": "n56593c0b",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260620/134148118/1",
     "title": "신민아 “결혼 늦을수록 좋아…이성 많이 만나봐야”",
     "summary": [
@@ -568,7 +567,7 @@ window.NEWS_DB = [
     "id": "nd38d7858",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152766",
     "title": "[카드뉴스] 델은 노트북을 공개한 게 아니다.. '성능 경쟁 끝' AI PC의 미래를 공개했다",
     "summary": [
@@ -584,7 +583,7 @@ window.NEWS_DB = [
     "id": "n2e49d447",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152767",
     "title": "[부고] 유석우(농심 레드포스 사무국장)씨 부친상",
     "summary": [
@@ -599,7 +598,7 @@ window.NEWS_DB = [
     "id": "n0d8d85be",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152765",
     "title": "롯데도 AI 혁신 속도낸다...롯데이노베이트, 그룹사 AX 추진 지원",
     "summary": [
@@ -613,19 +612,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7e179c62",
-    "category": "경제",
-    "source": "아시아경제",
+    "id": "na5f6d5a7",
+    "category": "사회",
+    "source": "조선일보",
     "time": "4시간 전",
-    "url": "https://view.asiae.co.kr/article/2026062000274581573",
-    "title": "부도·사별·위암 이겨낸 만학도 대학생… “시니어 헬스로드로 부산 바꾼다”",
+    "url": "https://www.chosun.com/politics/assembly/2026/06/20/BC4SYMVVGNB7NEKAYM4RTDMT2M/",
+    "title": "선거 떨어진 하정우, 대통령직속 AI委로?… 野 “돌려막기 인사”",
     "summary": [
-      "\"부산을 '보라색'으로 물들이겠다\" 주인공은 동명대 창업학과 박종민(2학년) 학생이다.",
-      "과거 영어학원 부도와 가족과의 사별, 위암 투병이라는 절망을 겪었던 그는 대학 입학 후 인생 2막의 치열한 연구 끝에 '시니어 헬스로드'라는 혁신적 플랫폼을 세상에 내놓았다.",
-      "시련을 딛고 대학에 입학한 한 학생의 창업 도전기가 전국 무대에서 깊은 울림을 전했다."
+      "선거 떨어진 하정우, 대통령직속 AI委로?… 野 “돌려막기 인사”."
     ],
     "chips": [
-      "#교육"
+      "#AI",
+      "#정치"
     ]
   }
 ];
@@ -635,18 +633,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   }
