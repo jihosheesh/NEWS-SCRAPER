@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-20 18:26:51
+// 마지막 업데이트: 2026-06-20 19:29:53
 window.NEWS_DB = [
   {
     "id": "na35b331b",
     "category": "IT",
     "source": "문화일보",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
     "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진",
     "summary": [
@@ -15,6 +15,20 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "nb113d6f2",
+    "category": "IT",
+    "source": "데일리안",
+    "time": "21시간 전",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
+    "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
+    "summary": [
+      "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도' 데일리안."
+    ],
+    "chips": [
+      "#AI"
     ]
   },
   {
@@ -30,23 +44,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "nc4b0f988",
-    "category": "IT",
-    "source": "쿠키뉴스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
-    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
-    "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -274,20 +271,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "80일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -317,10 +300,177 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "260일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "summary": [
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n03d2a915",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621001400007",
+    "title": "펜싱 최세빈, 아시아선수권대회 여자 사브르 개인전 은메달",
+    "summary": [
+      "(서울=연합뉴스) 최송아 기자 = 최세빈(대전광역시청)이 펜싱 아시아선수권대회 여자 사브르 개인전에서 은메달을 목에 걸었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfdc7ab98",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/21/G42DCMRUMFQTGMBZGU3GKZRVMQ/",
+    "title": "'1B-2S 불리했는데' KIA 김범수 울린 9회말 2아웃 극적인 동점타, 안현민 \"연장 가면 포수 출장 준비했다\" [오!쎈 수원]",
+    "summary": [
+      "[OSEN=수원, 홍지수 기자] 프로야구 KT 위즈 안현민이 핵심 타자로서 중요할 때 제 몫을 해줬다.KT는 20일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 KIA 타이거즈와 시즌 8차전에서 10-9 끝내기 역전승을 거뒀다.KT는 경기 초반 KIA에 끌려갔다.",
+      "KIA는 2회초 상대 실책과 안타로 만든 무사 1, 2루에서 김규성의 2타점 적시."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n717a59b3",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003676926",
+    "title": "'오렌지 군단' 네덜란드, 스웨덴 5-1 완파…F조 선두 등극[월드컵24시]",
+    "summary": [
+      "[과달라하라(멕시코)=뉴시스] 하근수 기자 = '오렌지 군단' 네덜란드가 브라이언 브로비와 코디 학포의 멀티골에 힘입어 스웨덴에 기분 좋은 대승을 거뒀다.",
+      "네덜란드는 21일(한국 시간) 미국 휴스턴 스타디움에서 열린 스웨덴과의 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 F조 2차전에서 5-1로 완파했다.",
+      "지난 1차전 일본과 2-2로 비겼던 네덜란드는 1승 1무(승점 4)로 1위 도약에 성공했고, 스웨덴을 5-1로 꺾은 뒤 연승을 놓."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n29ee990c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621002200072",
+    "title": "유엔 안보리 \"수단 내전 격전지서 대규모 잔혹행위 임박 우려\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 유엔 안전보장이사회(안보리) 이사국들이 20일(현지시간) 수단 중부 도시 엘오베이드에서 \"대규모 잔혹행위가 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n97600a42",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621002100007",
+    "title": "[월드컵 전적] 네덜란드 5-1 스웨덴",
+    "summary": [
+      "[월드컵 전적] 네덜란드 5-1 스웨덴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf0ea0ef7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676845",
+    "title": "대구·경북 가끔 구름 많고 강풍…낮 최고 24~29도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 일요일인 21일 대구와 경상북도는 가끔 구름이 많고 바람이 강하게 불 것으로 예상된다.",
+      "대구지방기상청은 이날 \"경북동해안과 경북북동산지에 오후까지 바람이 순간풍속 15㎧ 이상으로 강하게 불겠다\"고 예보했다.",
+      "아침 최저기온은 15~21도(평년 15~20도), 낮 최고기온은 24~29도(평년 24~30도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfb0493e3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/21/MQYTEZDGMIZDAYZQHFSTEYJTMM/",
+    "title": "죽음의 조 '日, 도대체 어떻게 비겼나!' 네덜란드 화력 미쳤다, 브로비 멀티골 폭발…스웨덴에 2-0 리드 중(전반 종료)",
+    "summary": [
+      "[스포츠조선 김가을 기자]도대체 일본은 네덜란드와 어떻게 비긴 것일까.",
+      "네덜란드가 스웨덴을 상대로 매서운 힘을 보이고 있다.",
+      "네덜란드가 21일 오전 2시(이하 한국시각) 미국의 휴스턴 스타디움에서 열린 스웨덴과의 2026년 북중미월드컵 조별리그 F조 2차전을에서 전반을 2-0으로 앞선 채 마감했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf2b887f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003676931",
+    "title": "트럼프 \"사진 촬영 반복 요청\" vs 멜로니 \"완전히 날조\"(종합')",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 도널드 트럼프 미국 대통령과 조르자 멜로니 이탈리아 총리가 G7 정상회의 및 대이란 협조 문제를 둘러싸고 설전을 이어가는 가운데, 멜로니 총리가 추가 반박 메시지를 내며 논쟁이 확대되고 있다.",
+      "트럼프 대통령은 20일(현지 시간) 트루스소셜을 통해 프랑스에서 열린 주요 7개국(G7) 정상회의 당시 상황을 언급하며 \"멜로니 총리가 나와 사진을 찍자고 반복해서 요청했다\"고 주장했다.",
+      "이어 그는 멜로니 총리의 이탈리아."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nda62d918",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "47분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/21/2026062103401487151",
+    "title": "미군 \"호르무즈 재봉쇄 안 돼…선박 계속 통항 중\"",
+    "summary": [
+      "[미국-이란 전쟁] 이란이 20일(현지시간) 미국과 이스라엘의 종전 양해각서(MOU) 위반을 이유로 호르무즈 해협 재봉쇄를 선언했지만 미군은 호르무즈 해협이 봉쇄되지 않은 상태라고 밝혔다.",
+      "중동 지역 미군을 관할하는 미 중부사령부의 팀 호킨스 대변인(해군 대령)은 이날 \"이란이 호르무즈 해협을 통제하고 있지 않다\"며 \"선박 통행이 계속되고 있고 미군은 이런 상황이 유지되도록 상황을 주시하고 있다\"고 말했다고 로이터 통신과 뉴욕타임스가 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd9ca8cdd",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "57분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/21/2026062013423021313",
+    "title": "'와' KIA 불펜 정말 강해졌다! ERA 2.50 전직 마무리, '자리 없어' 2군행... 사령탑도 잊지 않았다 \"열흘 딱 채우면 형범이부터 올린다\"",
+    "summary": [
+      "KIA 타이거즈 이범호(45) 감독이 이형범(32)에 대한 고마움과 함께 재콜업을 약속했다.",
+      "KIA는 20일 수원 KT 위즈전을 앞두고 1군 엔트리에 변동을 줬다.",
+      "이날 선발 투수로 등판할 황동하를 1군에 등록하고 그 자리를 위해 이형범을 말소했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ne043124b",
     "category": "IT",
     "source": "연합뉴스(경제)",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260621001700072",
     "title": "금리인상에 민감해진 빅테크들…\"AI 투자 위해 빚 내는 탓\"",
     "summary": [
@@ -335,7 +485,7 @@ window.NEWS_DB = [
     "id": "nf6f1e9c8",
     "category": "사회",
     "source": "뉴시스",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260620_0003676657",
     "title": "'아빠 어디가' 성동일 딸, 폭풍성장 미모…오빠 \"모르는 여자 사진인 줄\"",
     "summary": [
@@ -351,7 +501,7 @@ window.NEWS_DB = [
     "id": "n16ae587b",
     "category": "사회",
     "source": "조선일보",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/culture-life/2026/06/21/BOARIAEECVDXLKQYHCBQPPJE3E/",
     "title": "예술가 정강자의 세시봉 ‘누드 해프닝’..1960년대 ‘힙스터’ 체포령",
     "summary": [
@@ -365,7 +515,7 @@ window.NEWS_DB = [
     "id": "nba71622e",
     "category": "사회",
     "source": "조선일보",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/economy/weeklybiz/2026/06/21/YGKGAMXS5RCXBFVZJX5NFRUB3Y/",
     "title": "부러진 엔진 혼다…낸드 외길로 기적 쓴 키옥시아",
     "summary": [
@@ -376,84 +526,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n26265441",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/culture-life/2026/06/21/OVQWEVGQ4BFPLDXADN6NNEMHZM/",
-    "title": "피아니스트 임윤찬이 기획한 120분, 기획력도 천재였다",
-    "summary": [
-      "콘서트홀에서 프로그램을 뒤적거릴 때가 있다.",
-      "연주가 지루하거나 난해할 때, 또는 연주자의 해석이 궁금할 때이다.",
-      "프로그램을 들춰보지 않을 때도 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne9d29836",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/national/people/2026/06/21/F7YDW6X7SNCOJE6RORCWOFOH4Y/",
-    "title": "‘프랑스 요리의 모든 것’ 알려준 일본인 셰프...에스카르고와 감자스프의 비밀",
-    "summary": [
-      "‘프랑스 요리의 모든 것’ 알려준 일본인 셰프...에스카르고와 감자스프의 비밀."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37a849b0",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621001500075",
-    "title": "노벨상 수상자도 구글→앤트로픽…핵심인재 AI기업 이직 이어져",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 제미나이 공동 개발자에 이어 이번에는 노벨상을 받은 딥마인드 부사장까지 구글을 떠나 인공지능(AI) ..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n52f165c9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "37분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003676925",
-    "title": "갈리바프·밴스 스위스행…미·이란 후속협상 21일 시작(종합)",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 미국과 이란이 최근 도출한 양해각서(MOU) 이행을 위한 후속 협상을 위해 스위스로 이동하면서 양측 간 고위급 접촉이 본격화되고 있다.",
-      "이란 정부는 20일(현지 시간) 미국과의 잠정 합의 이행 문제를 논의하기 위해 대표단을 스위스로 파견한다고 밝혔다.",
-      "이란 국영 보도에 따르면 이란 측 대표단에는 모하마드 바게르 갈리바프 이란 의회 의장이 포함돼 있으며, 아바스 아라그치 외무장관도 합류한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n27526e8d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620047351071",
-    "title": "미군 \"이란, 호르무즈 통제 안해…선박 통행 계속 이뤄져\"(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 이란이 미국과 이스라엘의 종전 양해각서(MOU) 위반을 이유로 호르무즈 해협의 재봉쇄를 선언했지만, 미군은..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n651d90ee",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152776",
     "title": "[타봤다] 출퇴근길 기름값 부담 줄인 쿠페형 SUV '르노 아르카나'",
     "summary": [
@@ -466,26 +542,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne755def4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676800",
-    "title": "민주는 원내대표, 국힘은 의장…부산시의회 원구성 속도",
-    "summary": [
-      "[부산=뉴시스]원동화 기자 = 제10대 부산시의회가 전반기 원구성이 본격화한다.",
-      "더불어민주당은 원내대표 선출을 통해 교섭단체 체제를 정비하고 국민의힘은 시의회 의장 후보 선출을 위한 경선에 돌입한다.",
-      "21일 지역 정치권에 따르면 민주당은 22일 광역·기초의원 당선인을 대상으로 한 의정활동 역량 강화 연수에 앞서 광역의원 총회를 열고 원내대표를 선출할 예정이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n55d46d73",
     "category": "사회",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/world/2026/06/21/2026062101454512760",
     "title": "\"미-이란 21일 스위스서 대면 회담\"…양국 협상단 출국",
     "summary": [
@@ -498,24 +558,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb073e382",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620046951009",
-    "title": "'호르무즈 재봉쇄' 카드 꺼낸 이란…핵 담판 주도권 싸움(종합)",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 중동 전쟁을 끝내고 핵협상 개시를 위해 합의됐던 미·이란 종전 양해각서(MOU)가 18일(현지시간) 발효된 지..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n0a0880b5",
     "category": "경제",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/world/2026/06/21/2026062101222963443",
     "title": "이란 \"호르무즈 재봉쇄\"…'이스라엘 변수' 종전 MOU 이틀만에 흔들",
     "summary": [
@@ -528,58 +574,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n76d8943b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003676922",
-    "title": "밴스 \"호르무즈 봉쇄 증거 없어…원유 수송 전쟁 전 수준 회복\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = JD 밴스 미국 부통령은 20일(현지 시간) 이란의 호르무즈 해협 봉쇄 주장과 관련해 실제로 해협이 차단됐다는 증거는 확인되지 않았다고 밝혔다.",
-      "밴스 부통령은 이날 폭스뉴스 인터뷰에서 \"이란이 여전히 호르무즈 해협을 봉쇄하고 있다는 증거는 발견되지 않았다\"고 말했다.",
-      "다만 해상 안전 조치가 진행 중임을 시사하며 \"하지만 그 지뢰들을 제거하는 데는 시간이 좀 걸릴 것\"이라고 덧붙였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n57590141",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/21/2026062013425222622",
-    "title": "'AG 대표팀도 뽑혔는데' 6월 ERA 9.69 국대 좌완, 선발 제외 위기라니... \"계속 안 되면 빼고 갈 수 있다\"",
-    "summary": [
-      "국가대표 좌완 선발 오원석(25·KT 위즈)의 부진이 심상치 않다.",
-      "자칫 선발 로테이션에서도 제외될 위기에 놓였다.",
-      "이강철 KT 감독은 20일 수원 KIA 타이거즈전을 앞두고 최근 오원석의 부진에 \"퐁당퐁당이라도 했으면 다행이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n06f33a53",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/21/2026062022104684800",
-    "title": "日이 뭔데 양현준 '인성 논란' 평가하나... 멕시코 선수 '손길 거부'에 \"무례하다\" 억지 트집→발에 가슴 맞은 건 모르나",
-    "summary": [
-      "일본 언론이 양현준(24·셀틱)이 멕시코전에 보인 행동이 '무례했다'며 큰 관심을 보였다.",
-      "일본 '디 앤서'는 20일(한국시간) \"한국 선수가 상대 선수의 호의를 거절하고 무례한 행동을 보여 해외 축구 팬들 사이에서 파장을 일으키고 있다\"고 보도했다.",
-      "해당 기사는 보도 직후 일본 포털 사이트 '야후 재팬'에서 실시간 많이 본 뉴스 상위권에 랭크되며 현지의 뜨거운 관심을 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n578ab990",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/202606208199i",
     "title": "이란군 \"호르무즈 다시 봉쇄\"…美-파키스탄 \"21일 협상 재개\" [이상은의 워싱턴나우]",
     "summary": [
@@ -593,7 +591,7 @@ window.NEWS_DB = [
     "id": "n0f1bf7d8",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026062081987",
     "title": "밴스 美 부통령 \"이란과 스위스서 협상, 이르면 21일 시작\"",
     "summary": [
@@ -607,7 +605,7 @@ window.NEWS_DB = [
     "id": "n31cb9a6b",
     "category": "사회",
     "source": "ZDNet Korea",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260620232656",
     "title": "유비소프트 공동창업자 클로드 기예모, 경비행기 추락 사고로 사망",
     "summary": [
@@ -622,7 +620,7 @@ window.NEWS_DB = [
     "id": "nada32285",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026062081957",
     "title": "이란, 호르무즈 재봉쇄 선언…미국과 담판 위해 스위스행",
     "summary": [
@@ -645,14 +643,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
