@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-20 05:27:13
+// 마지막 업데이트: 2026-06-20 07:15:46
 window.NEWS_DB = [
   {
     "id": "nd0159690",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrQ0JFLUJfUktBcjRuUjRnUmszUFVjUy1VVzRJNEZwNlRiMmtjUHBidkVyODAwM3I2LVBnZXhwT21hcEFSNTg4WmpTZV8wR2xhNzdPV0tIOEVwUjNPWWJzVFlxcy1GZ9IBakFVX3lxTE1ENTFkNjNBc2tqdGNkNUFsOXlkbzg5T3puMWkySFhmZ0Q4dzdvU01KU2lhVzZSUFhXR2pCWkFsd0NGcEhESVRjRVRldHNNQk1mVDVFSXNCcFFTMmRmTDE5Z3ZCWkNxbERyR3c?oc=5",
     "title": "[글로벌] 아마존 '트레이니엄, AWS 밖에서도 판다'...엔비디아 독주에 도전장",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nb113d6f2",
     "category": "IT",
     "source": "데일리안",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
     "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
     "summary": [
@@ -33,7 +33,7 @@ window.NEWS_DB = [
     "id": "nb40c53b9",
     "category": "IT",
     "source": "조선일보",
-    "time": "22시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXd1bURrS2hScVBXdHMyWnNLdWNsRlkyRXg1cEd1NFlkNFZ3SzZpY2ZBNGt2TW9WQ1FLNDZuanlIRlRkNktRN3d2bzh2RWdaWjVKY2thNlFRTjktY1FCNkJ0V0JsU0MtM1JrcFhYWENDbDRBYUNYOWp2dnotaW9nOXEzMA?oc=5",
     "title": "파운드리 부활 꿈꾸는 인텔... 한국인에게 ‘키’를 맡겼다",
     "summary": [
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "n5ace0115",
     "category": "스포츠",
     "source": "네이트",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
     "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
     "summary": [
@@ -77,7 +77,7 @@ window.NEWS_DB = [
     "id": "n41662a21",
     "category": "경제",
     "source": "이코노미스트",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iSWRhLVNaYWE4OGtUTkJaaHhXT0dWZmlJLXkyWGVqQlRLdE4wbF9HZXR4cHVEcTFJc2NHWXU0Sk9QZnRNaGluRzNUNW5zbmtKRGl3Q2htc09Wa1l1c2RVQzVR?oc=5",
     "title": "금리 오르고 환율 뛰고…코스피랠리 흔들 ‘3대 변수’",
     "summary": [
@@ -122,7 +122,7 @@ window.NEWS_DB = [
     "id": "n0325eee6",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mM0pBbXo4UHF6QTlGU2JVOEJQeEg3VmtpQ1dTZ01aR2VBamVKVUhiWlQ2bkVpLWRjaDQzb1JVaXRFUVZqN3UzTzdyUE5JaWVZUTNmcQ?oc=5",
     "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
     "summary": [
@@ -153,7 +153,7 @@ window.NEWS_DB = [
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
-    "time": "11일 전",
+    "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
     "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
@@ -168,7 +168,7 @@ window.NEWS_DB = [
     "id": "n54eac02a",
     "category": "부동산",
     "source": "프라임경제",
-    "time": "20일 전",
+    "time": "21일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWTTNhcGcya25mdG1tMlJuVFhQSTBsQlVVM0xsR1lyTkQwb25RZnZ0R0tDQVJYNlhqZU52azZ4dTJVSGlrWW5xRDJ5N0VDaXZ1QUZZMWlkUUNQOXUzWTJKc1NxQzJoZw?oc=5",
     "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
     "summary": [
@@ -182,7 +182,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "21일 전",
+    "time": "22일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -197,7 +197,7 @@ window.NEWS_DB = [
     "id": "n37646dcf",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "22일 전",
+    "time": "23일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
@@ -208,25 +208,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n72b90564",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "24일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
-    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
-    "summary": [
-      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "nc92d59ae",
     "category": "IT",
     "source": "경기일보",
-    "time": "30일 전",
+    "time": "31일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcllTZTZpeTdJZjUzUkNuYXR6cEhMa3dGbTlzU2g2WV9nUGhDMmktWFEybzRQZU1IdEN2VDlncmYtcEx6MW43Vjd6RGg5SlhBMWtQenoxeEMxNms?oc=5",
     "title": "반도체부터 물류까지…이천시가 연결한 ‘일자리 사다리’ 107명 응답했다",
     "summary": [
@@ -241,7 +226,7 @@ window.NEWS_DB = [
     "id": "n02951820",
     "category": "사회",
     "source": "투데이경제",
-    "time": "30일 전",
+    "time": "31일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
     "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
     "summary": [
@@ -254,10 +239,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5a1617c5",
+    "category": "부동산",
+    "source": "헤럴드경제",
+    "time": "39일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
-    "time": "51일 전",
+    "time": "52일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -272,7 +272,7 @@ window.NEWS_DB = [
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
-    "time": "79일 전",
+    "time": "80일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
@@ -365,276 +365,280 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2218ab1a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676772",
-    "title": "올림픽공원 봉쇄 시위 16일째, 빗 속 \"재선거\" [뉴시스Pic]",
-    "summary": [
-      "[서울=뉴시스]정병혁 최은수 신유림 기자 = 비가 내린 주말인 20일 서울 송파구 올림픽공원에서 6·3 지방선거 투표용지 부족 사태를 규탄하는 봉쇄 시위가 16일째 이어졌다.",
-      "우산과 우비를 갖춰 입은 참가자들은 빗속에서도 태극기와 성조기를 흔들며 재선거를 요구하는 구호를 외쳤다.",
-      "20일 서울 송파구 올림픽공원 핸드볼경기장 주변에는 경찰 비공식 추산 기준 오전 10시 200여명이 모였다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n89562063",
+    "id": "na9a5fe27",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676770",
-    "title": "파주 도라전망대 향하던 관광버스 전도…부상자 10여명",
-    "summary": [
-      "[파주=뉴시스] 송주현 기자 = 20일 오전 11시25께 경기 파주시 장단면 도라전망대 주변 한 도로에서 관광객 20여명을 태운 버스가 전도됐다.",
-      "이날 사고로 외국인 등 부상을 입은 10여명이 병원으로 옮겨져 치료를 받고있다.",
-      "해당 버스는 'DMZ(비무장지대)평화 관광' 코스인 도라전망대로 향하던 길에 사고가 난 것으로 파악됐다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n5005dfe1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676764",
-    "title": "장윤정 아들, 남다른 꿈 공개…일론 머스크에 영상편지도",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 가수 장윤정과 방송인 도경완의 아들 연우가 남다른 꿈을 공개했다.",
-      "20일 유튜브 채널 '도장TV'에는 도경완이 아들 연우, 딸 하영과 함께 장윤정의 콘서트장을 찾는 모습이 공개됐다.",
-      "이동 중 도경완은 연우에게 \"커서 뭐가 될 거야? 진짜 네 꿈을 다시 한번 물어보자\"고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n544a2378",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/national/regional/2026/06/20/5DUS6A6ZKVGBPP5OKSMHHQXM4A/",
-    "title": "파주 도라전망대 오르던 관광버스 전도…외국인 등 10명 부상",
-    "summary": [
-      "파주 도라전망대 오르던 관광버스 전도…외국인 등 10명 부상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ned6125c9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/GQYDEN3BGE4DMZLBGUZWKOLGGA/",
-    "title": "송혜교, 뒤태 노출도 과감하다..'여신이시네요'",
-    "summary": [
-      "[OSEN=선미경 기자] 배우 송혜교가 또 여신 미모 자랑에 나섰다.송혜교는 20일 오후 자신의 SNS에 여러 장의 사진을 게재하고 근황을 공개했다.공개된 사진에는 등라인을 과감하게 공개한 파격적인 드레스를 입고 있는 송혜교의 모습이 담겨 있었다.",
-      "송혜교는 웨이브를 넣은 우아한 헤어스타일과 아름다운 비주얼이 돋보이는 금빛 드레스를 입고 여신 미모를 자랑했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6a41a9a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676769",
-    "title": "이화영 1심에 野 \"李·여당 '조작 수사' 프레임, 대국민 사기극\" vs 與 \"여론 호도\"",
-    "summary": [
-      "[서울=뉴시스]권신혁 하지현 기자 = 국민의힘은 20일 '연어 술 파티 의혹'을 제기해 위증 등 혐의로 기소된 이화영 전 경기도 평화부지사가 1심에서 징역 4개월을 선고받은 것을 두고 \"이재명 대통령의 범죄 행위는 피할 수 없는 진실\"이라고 말했다.",
-      "이에 더불어민주당은 \"판결문의 구체적 내용이 정확히 나오지 않은 상태에서 위증 혐의 단 하나만을 붙잡고 대국민 사기극 운운하는 것은 명백한 여론 호도\"라고 반박했다.",
-      "박성훈 수석대변인은 이날 논평에."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n05f7ba9f",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026062014163608910",
-    "title": "\"전례 없는 호화, 내 취향\" 트럼프, 카타르 '6000억' 선물 깜짝 공개",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 공군 장병과의 행사에서 에어포스원을 깜짝 공개했다.",
-      "연합뉴스에 따르면 트럼프 대통령은 백악관이 19일(현지시간) 오후 워싱턴DC 인근 메릴랜드주의 앤드루스 합동기지에서 개최한 공군 장병들과의 만남 행사장의 대형 격납고에 세워져 있던 새 대통령 전용기(에어포스원) 탑승구에서 모습을 드러냈다.",
-      "기존 에어포스원이 너무 낡아 새 에어포스원은 2028년에 인도받는 상황에서 마련한 보잉 747 점."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n796f1bf5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/20/MMZTKYRXHE4GCMZTHA2TINJZMM/",
-    "title": "‘오타니 출산휴가’ 다저스 미쳤다! 3-5→6-5 짜릿한 역전 끝내기→4연승 질주…‘백투백포 헌납’ 사사키도 웃었다 [LAD 리뷰]",
-    "summary": [
-      "[OSEN=이후광 기자] 간판타자 오타니 쇼헤이가 없어도 강하다.LA 다저스는 20일(이하 한국시간) 미국 캘리포니아주 로스앤젤레스 유니클로필드 앳 다저스타디움에서 펼쳐지즌 2026 메이저리그 볼티모어 오리올스와의 인터리그 3연전 1차전에서 6-5 끝내기 역전승을 거뒀다.",
-      "내셔널리그 서부지구 1위 다저스는 파죽의 4연승을 달리며 시즌 49승 27패를 기록했."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc911a0eb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620030000064",
-    "title": "괴산댐 21일부터 수문 완전 개방…\"하류 주민 안전 유의\"",
-    "summary": [
-      "(괴산=연합뉴스) 이성민 기자 = 한국수력원자력은 오는 21일부터 9월 20일까지 홍수 피해를 예방하기 위해 괴산댐 발전기 가동을 전면 중지하고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbdee80ff",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620029900007",
-    "title": "[월드컵] 파라과이, '입 가리기 퇴장' 변수 딛고 튀르키예에 신승",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 파라과이(FIFA 랭킹 37위)가 '입 가리기 행위'로 인한 수적 열세 속에 튀르키예(32위)를 꺾고 2026..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5819ed3a",
-    "category": "스포츠",
     "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260620/134148743/1",
-    "title": "MLB 슈퍼스타 오타니, 둘째 출산 휴가…볼티모어전 결장",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260620/134148822/1",
+    "title": "비 잦아든 강원 동해안, 이번엔 풍랑경보…최대파고 5.5m",
     "summary": [
-      "메이저리그(MLB) LA 다저스의 슈퍼스타 오타니 쇼헤이가 두 아이의 아빠가 된다.",
-      "오타니는 20일(한국 시간) 미국 캘리포니아주 로스앤젤레스의 유니클로 필드 앳 다저스타디움에서 열린 2026 MLB 볼티모어 오리올스와의 경기에 결장했다.",
-      "둘째 아이의 출산이 임박해서다."
+      "20일 강원 동해안에 내리던 비는 오후 3시 30분 현재 소강상태를 보이고 있지만, 동해 전 해상에 풍랑경보가 내려지면서 높은 파도와 강풍에 따른 안전사고 우려가 커졌다.강원지방기상청에 따르면 이날 오후 4시를 기해 동해중부 전 해상과 강원 북부·중부·남부 앞바다에 순차적으로 풍랑경보가 발효한다.현재 동해중부 전 해상에는 초속 8~16m의 강한 바람이 불고 있으며, 물결은 2~4m, 최대파고는 6m 안팎까지 일고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne29724fd",
+    "id": "ne71fa834",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/20/2026062015565786448",
+    "title": "강원 동해안 전 해상 '풍랑 경보'..기상청 \"해안가 접근 자제\"",
+    "summary": [
+      "강원 동해안에 내리던 비가 20일 오후 3시30분 기준 소강상태를 보이고 있다.",
+      "다만 동해 전 해상에 풍랑경보가 내려지면서 안전사고 우려는 커지고 있다.",
+      "뉴스1에 따르면 강원지방기상청은 이날 오후 4시 기준 동해중부 전 해상과 강원 북부·중부·남부 앞바다에 순차적으로 풍랑경보를 발효한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n70599add",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676807",
+    "title": "노태악, 투표 종료 40분 전에 '용지 부족' 첫 보고 받아",
+    "summary": [
+      "[서울=뉴시스]권신혁 기자 = 노태악 전 중앙선거관리위원장이 6·3 지방선거 당일, 투표 종료 40분 전에 첫 용지 부족 관련 보고를 받은 것으로 확인됐다.",
+      "20일 윤건영 더불어민주당 의원실이 중앙선관위로부터 제출받은 자료에 따르면 노 전 위원장은 지난 6월 3일 오후 5시20분께 중앙선관위 대변인의 구두 보고를 받았다.",
+      "본투표가 끝나기 40분 전에 투표 용지 부족 상황을 처음으로 인지한 셈이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5e61eacd",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/20/GJSDMOLFHBTDQZBTGNRTSNDGGM/",
+    "title": "\"요즘 애들 대단하네!\" 호날두 약혼녀 작심발언, 동료 여친과 제대로 붙었다...\"포르투갈 내분 논란 계속\"",
+    "summary": [
+      "[OSEN=고성환 기자] 정말 크리스티아누 호날두(41, 알 나스르)가 라커룸 분위기를 망치고 있는 걸까.",
+      "이번엔 그의 약혼녀 조지나 로드리게스가 입을 열었다.'헤코르드' 멕시코판은 19일(이하 한국시간) \"포르투갈 대표팀을 둘러싼 논란이 계속되고 있다.",
+      "조지나 로드리게스가 주앙 네베스의 여자친구가 남긴 것으로 추정되는 논란의 호날두 비판 발언에 대해 의견."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4fffd3d3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/06/20/A73M3QTOSZEF5DRZ7ETT6YE33I/",
+    "title": "어떻게 올라온 월드컵인데... 아이티·튀르키예, 2경기 치르고 탈락 확정",
+    "summary": [
+      "어떻게 올라온 월드컵인데... 아이티·튀르키예, 2경기 치르고 탈락 확정."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1837e8b2",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/20/2026062016015779214",
+    "title": "[한번에쓱] 일요일이 기대된다 '이번 연승은 나부터 시작했지!' 사직스쿠발 김진욱",
+    "summary": [
+      "롯데 좌완선발투수 김진욱이 20일 고척스카이돔에서 열리는 2026KBO리그 키움히어로즈와 롯데자이언츠 경기를 앞두고 외야에서 피칭을 하며 몸을 풀고있다.",
+      "지난 화요일 랜더스필드에서 선발등판하며 승리투수가 된 김진욱은 롯데 3연승의 출발점이었다.",
+      "21일 일요일 김진욱이 선발등판할 예정이다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5c54acc9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676804",
+    "title": "'환연4' 박현지 \"촬영 때 지퍼 안 잠갔다\" 고백",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = '환승연애4' 출연자 박현지가 비화를 공개했다.",
+      "19일 유튜브 채널 '해피해은'에는 '환연을 대표하는 메기녀들의 만남'이라는 제목의 영상이 공개됐다.",
+      "공개된 영상에서는 티빙 예능 '환승연애2' 출연자 성해은과 '환승연애4' 출연자 박현지가 만났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfadc704a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260620/134148810/2",
+    "title": "“이상한 냄새-연기 난다” 제천 폐공장 화학물질 누출 사고…긴급 재난문자 발송",
+    "summary": [
+      "충북 제천시에 있는 한 폐공장에서 유해 화학물질이 누출됐다.",
+      "다행히 인명 피해는 없는 것으로 전해졌다.20일 소방당국과 제천시 등에 따르면 이날 오전 7시 30분경 충북 제천시 왕암동 산업단지(산단) 내 폐공장에서 유해 화학물질인 염화수소(HCl) 5.4ppm, 황화수소(H₂S) 1.5ppm이 유출됐다.",
+      "유출량은 각각 배출 허용 기준인 50ppm, 10ppm을 밑도는 수준인 것으로 전해졌다.이번 유출로 인한 피해 사례는 접수되지 않았고, 인명피."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4841575c",
     "category": "스포츠",
     "source": "동아일보",
     "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260620/134148740/1",
-    "title": "올림픽공원 봉쇄 시위 16일째…비 오는 주말에도 “재선거”",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260620/134148817/1",
+    "title": "‘김승규♥’ 김진경, SNS 댓글창 막아…“가족 비난 말라”",
     "summary": [
-      "비가 내린 주말인 20일 서울 송파구 올림픽공원에서 6·3 지방선거 투표용지 부족 사태를 규탄하는 봉쇄 시위가 16일째 이어졌다.",
-      "우산과 우비를 갖춰 입은 참가자들은 빗속에서도 태극기와 성조기를 흔들며 재선거를 요구하는 구호를 외쳤다.20일 서울 송파구 올림픽공원 핸드볼경기장 주변에는 경찰 비공식 추산 기준 오전 10시 200여명이 모였다.",
-      "오후 1시에는 380여명으로 늘었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n665841c5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620029500063",
-    "title": "'평균경쟁률 15대 1' 대전교육청 지방공무원 필기 응시율 74.6%",
-    "summary": [
-      "(대전=연합뉴스) 이주형 기자 = 대전시교육청은 2026년도 지방공무원 임용 필기시험에 지원자 704명 중 525명이 응시해 응시율 74.6%를..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n09b71438",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026062014131204138",
-    "title": "용인시, 2026년 장학증서 수여식 개최…인재 913명에 7억원 지원",
-    "summary": [
-      "경기 용인특례시(시장 이상일)는 20일 시청 에이스홀에서 '용인시장학재단 2026년 장학증서 수여식'을 열고 지역의 미래를 이끌어갈 인재들에게 장학증서를 전달했다.",
-      "이날 행사에는 명예이사장인 이상일 용인특례시장을 비롯해 구자범 용인시장학재단 이사장, 장학생 및 학부모 등 600여 명이 참석해 자리를 빛냈다.",
-      "특히 수지농협은 지역 학생들이 대한민국과 용인의 핵심 인재로 성장하는 데 힘을 보태달라며 장학금 1000만원을."
+      "모델 겸 배우 김진경이 출산 과정을 공개했다.19일 모델 겸 방송인 김진경의 유튜브 채널에는 ‘드디어 달밤이 방 뺍니다! 참진경 출산 브이로그 | 달밤아 환영해’라는 제목의 영상이 공개됐다.해당 영상에는 김진경의 험난했던 출산 과정이 공개됐다.",
+      "남편 김승규 선수는 월드컵 출전으로 인해 함께하지 못 했다.김진경은 출산 후 밥을 먹으며 “죽다 살아나서 먹는 첫 끼”라고 힘들었던 출산 과정을 언급했다.이어 아이를 안은뒤 “아빠 닮았어요? 피부는 하얗."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n158d2274",
+    "id": "n5cf47b86",
     "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/20/MY3GCYLFHA2TMMDFMNSGIYRZMI/",
+    "title": "유진경 치어리더, 싱그러운 미소[O! SPORTS 숏폼]",
+    "summary": [
+      "[OSEN=대전, 지형준 기자] 우중 혈투를 벌였으나 승부를 가리지 못했다.",
+      "프로야구 삼성 라이온즈와 한화 이글스는 19일 대전한화생명볼파크에서 연장 10회까지 가는 접전을 펼쳤지만 비로 인해 3-3 강우 콜드 무승부를 기록했다.",
+      "한화 유진경 치어리더가 공연 무대를 선보이고 있다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5ba79534",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676794",
+    "title": "이도현, 월드 클라이밍 6차 대회 볼더링 동메달",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 한국 남자 스포츠클라이밍 간판 이도현(서울시청)이 2026 국제스포츠클라이밍연맹(IFSC) 월드 클라이밍 시리즈 6차 대회 볼더링에서 동메달을 수확했다.",
+      "이도현은 20일(한국 시간) 오스트리아 인스브루크에서 열린 대회 남자 볼더링 결승에서 59.3점을 기록, 안라쿠 소라토(74.0점), 가와마타 레이(59.3점·이상 일본)에 이어 3위에 올랐다.",
+      "이도현은 은메달을 따낸 가와마타와 결승전 점수가 같았으나 준결승 성적."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6fbefb4a",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/20/2026062015415711559",
+    "title": "'남의 칼' 빌려 출전했는데…펜싱 오상욱, 아시아선수권 정상 탈환",
+    "summary": [
+      "한국 남자 펜싱의 간판 오상욱(30·대전시청)이 악조건을 딛고 2년 만에 아시아선수권대회 사브르 개인전 정상에 올랐다.",
+      "오상욱은 19일(이하 현지시간) 인도 뉴델리에서 열린 2026 아시아선수권 남자 사브르 개인전 결승에서 중국의 뤄샤오퉁을 15-8로 꺾고 우승했다.",
+      "이로써 오상욱은 2024년 이후 2년 만에 아시아선수권 개인전 금메달을 탈환했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6f519c78",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003675946",
+    "title": "\"EV기반 치료제 개발\"…생산 플랫폼 구축 추진",
+    "summary": [
+      "[서울=뉴시스]송연주 기자 = 세포유전자치료제 배양배지 기업 엑셀세라퓨틱스가 경북 안동 소재 동물세포실증지원센터와 세포외소포체(EV) 기반 치료제·백신·전달체 플랫폼 구축에 나섰다.",
+      "회사는 이 같은 내용의 업무협약(MOU)을 체결했다고 20일 밝혔다.",
+      "이번 협약은 차세대 바이오의약품으로 주목받는 EV의 대량생산 공정과 핵심 소재 기술을 확보하고, 국내 EV 산업의 상용화 기반을 마련하기 위해 추진됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n577dd130",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/GBRTSNBSG42GKMBUGU2GEZBSGU/",
+    "title": "율희, '여캠' 변신 심경 고백..\"2년 고민, 선입견 강했다\"('에나분식')[순간포착]",
+    "summary": [
+      "[OSEN=선미경 기자] 그룹 라붐 출신 율희가 이혼 후 BJ로 새 출발한 심경을 솔직하게 고백했다.",
+      "지난 19일 유튜브 채널 ‘ENA 이엔에이’를 통해 공개된 ‘에나분식.",
+      "경력단절 이후 BJ? 율희, 최초 심경고백’에는 최근 틱톡 BJ로 활동하고 있는 율희가 출연했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n95ed2d19",
+    "category": "사회",
     "source": "연합뉴스",
     "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620021700007",
-    "title": "[월드컵 중간순위] D조(20일)",
+    "url": "https://www.yna.co.kr/view/AKR20260620034600527",
+    "title": "양양 평지 등 강원 7곳 호우주의보 해제",
     "summary": [
-      "[월드컵 중간순위] D조(20일)."
+      "(춘천=연합뉴스) 기상청은 양양 평지·고성 평지·속초 평지·인제 산지·양양 산지·고성산지·속초 산지에 내렸던 호우주의보를 20일 오후 4시를 기..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7afea87e",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "20분 전",
-    "url": "https://view.asiae.co.kr/article/2026062014064394520",
-    "title": "與 \"이화영 위증 혐의 배심원 평결 4대 3…아직 판결 미확정\"",
+    "id": "n89c5b795",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/20/2026062015071775449",
+    "title": "조정석, 엄마 된 전 여친과 '깜짝' 재회…\"남편, 내가 아는 사람이더라\"",
     "summary": [
-      "더불어민주당은 20일 이른바 '연어 술 파티' 의혹 등을 제기해 위증 혐의로 기소된 이화영 전 경기도 부지사가 국민참여재판 1심에서 징역 4개월의 실형을 선고받은 데 대해 \"본질은 위증죄를 제외한 나머지 핵심 죄목이 모두 무죄이거나 공소가 기각됐다는 점\"이라고 밝혔다.",
-      "이주희 원내대변인은 이날 서면 브리핑에서 \"국민의힘이 강하게 주장해온 정치자금법 위반 혐의는 배심원 만장일치로 무죄가 선고됐고, 대북 지원 관련."
+      "배우 조정석이 중학생 때 사귀었던 여자친구를 성인이 되어 우연히 마주친 일화를 전했다.",
+      "지난 19일 유튜브 채널 '채널 조정석'에는 조정석이 고향인 서울 강서구 방화동 일대를 탐방하는 영상이 공개됐다.",
+      "이 영상에서 조정석은 어린 시절 추억이 담긴 장소들을 돌아보며 학창 시절 에피소드를 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf91b6e7a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620028751060",
+    "title": "파주 도라전망대 오르던 관광버스 전도…외국인 등 10명 부상(종합)",
+    "summary": [
+      "(파주=연합뉴스) 노승혁 기자 = 20일 오전 11시 24분께 경기 파주시 장단면 도라산리 도라전망대를 오르던 45인승 관광버스가 전망대 중간 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n336fcf99",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620034000001",
+    "title": "文 前대통령 \"책이 지금의 저를 만들었다\"…필사 노트 출간",
+    "summary": [
+      "(서울=연합뉴스) 최평천 기자 = 문재인 전 대통령이 그동안 추천해온 도서 중 좋은 문장을 엄선해 필사하는 '문재인의 필사노트'가 26일 출간된..."
     ],
     "chips": [
       "#정치"
-    ]
-  },
-  {
-    "id": "nf21d4a1c",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260619/134144743/2",
-    "title": "스페이스X, 우주에 AI 데이터센터 짓는다는데…정말 가능할까",
-    "summary": [
-      "스페이스X가 우주 AI 데이터센터 구상을 공개했다.",
-      "전력과 용수 문제의 대안으로 주목받지만 영하 270도 진공에서의 냉각, 방사선, 유지보수 등 현실적인 기술 장벽도 적지 않다는 분석이 나온다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n8bc048b4",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260618/134133779/1",
-    "title": "러시아로 몰려가는 북한 여성들 “외국물 먹고 올게요”[주성하의 ‘北토크’]",
-    "summary": [
-      "분단의 장벽 너머에서 일어나는 일들을 반세기 동안 북한을 지켜봐온 주성하 기자의 시선으로 풀어봅니다.“러시아로 가면 300달러를 일시금으로 드립니다.”요즘 북한 여성들 사이에 러시아 바람이 거세게 불고 있습니다.",
-      "과거엔 북한 여성들이 해외로 나갈 수 있는 거의 유일한 국가가 중국이었지만 이젠 러시아가 그 자리를 대신하고 있습니다.북한 소식통은 “요즘 어딜 가나 러시아 근로자로 파견되기 위해 신체검사를 받는 여성들이 떼를 지어 다니고 있다”고 전."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -644,8 +648,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -655,9 +659,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "엔비디아",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
