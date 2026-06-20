@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-20 16:28:52
+// 마지막 업데이트: 2026-06-20 17:30:08
 window.NEWS_DB = [
   {
     "id": "na35b331b",
     "category": "IT",
     "source": "문화일보",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
     "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nb113d6f2",
     "category": "IT",
     "source": "데일리안",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
     "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
     "summary": [
@@ -44,23 +44,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "nc4b0f988",
-    "category": "IT",
-    "source": "쿠키뉴스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
-    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
-    "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -138,6 +121,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0325eee6",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mM0pBbXo4UHF6QTlGU2JVOEJQeEg3VmtpQ1dTZ01aR2VBamVKVUhiWlQ2bkVpLWRjaDQzb1JVaXRFUVZqN3UzTzdyUE5JaWVZUTNmcQ?oc=5",
+    "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
+    "summary": [
+      "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? v.daum.net."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "n13b4af19",
     "category": "사회",
     "source": "대학IN",
@@ -170,20 +167,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n54eac02a",
-    "category": "부동산",
-    "source": "프라임경제",
-    "time": "21일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWTTNhcGcya25mdG1tMlJuVFhQSTBsQlVVM0xsR1lyTkQwb25RZnZ0R0tDQVJYNlhqZU52azZ4dTJVSGlrWW5xRDJ5N0VDaXZ1QUZZMWlkUUNQOXUzWTJKc1NxQzJoZw?oc=5",
-    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
-    "summary": [
-      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -210,6 +193,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n72b90564",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "25일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
+    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
+    "summary": [
+      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -317,10 +315,71 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n27526e8d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620047351071",
+    "title": "미군 \"이란, 호르무즈 통제 안해…선박 통행 계속 이뤄져\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 이란이 미국과 이스라엘의 종전 양해각서(MOU) 위반을 이유로 호르무즈 해협의 재봉쇄를 선언했지만, 미군은..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb6a2e34",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/21/GQYDOMRYMU3DCN3GGJRGENZTMI/",
+    "title": "\"비결이 있다\" 육성투수 최고 144km 직구에 최형우도 밀린다...\"볼끝? 아닌 믹스\"",
+    "summary": [
+      "[대전=스포츠조선 정현석 기자]한화 이글스 '육성선수 출신' 우완 박준영이 또 한 번의 인상적인 피칭으로 벤치와 팬들의 눈도장을 찍었다.",
+      "박준영은 지난 19일 대구 삼성라이온즈파크에서 열린 삼성 라이온즈와의 원정 경기에 선발 등판, 5이닝 동안 3안타 4사구 2개 6탈삼진 2실점으로 눈부신 호투를 펼쳤다.",
+      "삼성의 에이스이자 리그 최고 외인 아리엘 후라도와."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc27b52b0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/20/MUYDAM3BGI4GEMTGHAZWINTGMI/",
+    "title": "두차례 우천중단→왕옌청도 장찬희도 무너졌다..부활한 한화타선 6연패 탈출, 김경문 감독 2000경기 선사..페라자 멀티홈런, 장유호 데뷔 첫승[대전리뷰]",
+    "summary": [
+      "[대전=스포츠조선 정현석 기자]한화 이글스 선수들이 짜릿한 역전승으로 6연패에서 탈출하며 김경문 감독의 통산 4번째 2000경기 출전을 축하했다.",
+      "한화는 20일 대전 한화생명볼파크에서 열린 삼성 라이온즈전에서 4회 8득점으로 대폭발하며 깨어난 타선의 힘으로 10대4 대승을 거뒀다.",
+      "최근 타선침체 속에 6연패에 빠졌던 한화 타선이 두자리 수 득점을 올린 건."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne73b1214",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/21/GQZDCMTFHBQTGYJSGI2DGYRSGQ/",
+    "title": "‘멀티히트→타율 2위 탈환’ 이정후, 타율 1위 로페스와 맞대결…6리 차 역전 가능할까",
+    "summary": [
+      "[OSEN=길준영 기자] 샌프란시스코 자이언츠 이정후(28)가 내셔널리그 타율 1위를 향한 도전을 계속한다.",
+      "샌프란시스코는 21일(한국시간) 미국 플로리다주 마이애미 론디포 파크에서 열리는 마이애미 말린스와의 경기에 루이스 아라에스(2루수) 브라이스 엘드리지(지명타자) 맷 채프먼(3루수) 라파엘 데버스(1루수) 이정후(우익수) 윌리 아다메스(유격수) 케이시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n651d90ee",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "19분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152776",
     "title": "[타봤다] 출퇴근길 기름값 부담 줄인 쿠페형 SUV '르노 아르카나'",
     "summary": [
@@ -333,72 +392,98 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n50b93e13",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/21/MI3DIMRXMFRTEYRXHBSTQYRSHA/",
-    "title": "‘사인 훔치기’ 논란, 포수와 2루주자의 언쟁 \"2루에서 사인 전달 하지마\"…괴짜 감독 “1000% 아니다. 비겁하게 이길 생각 없고, 이기고 싶지도 않다”",
-    "summary": [
-      "[OSEN=한용섭 기자] 일본프로야구에서 ‘사인 훔치기’ 논란이 벌어졌다.",
-      "양 팀 감독이 경기 후 그라운드에서 대화를 나누며 오해를 풀었다.",
-      "20일 일본 홋카이도 에스콘필드에서 열린 소프트뱅크와 니혼햄의 경기."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n31db2c9c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/21/MJRWCZJXMEYGCYZYHFSDINJSG4/",
-    "title": "'9회말, 선두타자 홈런→끝내기 안타' KIA 마무리와 필승조 모두 울렸다. 개인 1호 기록은 '덤' [오!쎈 수원]",
-    "summary": [
-      "[OSEN=수원, 홍지수 기자] 프로야구 KT 위즈 외국인 타자 샘 힐리어드가 KIA 타이거즈의 불펜 필승조들을 무너뜨렸다.KT는 20일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 KIA와 시즌 8차전에서 10-9 끝내기 승리를 거뒀다.",
-      "KIA는 다 잡았던 승리가 손가락 사이로 빠져나갔다.",
-      "KIA는 9회말 5점 차 리드를 지키지 못하고 끝내기."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n750391fa",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/21/GRRWCMZVMFSWIODCGE3TSMTEGA/",
-    "title": "어? 롯데 혹시..? 10위 추락 후 4연승 → 반짝 반등이냐 추세 전환이냐",
-    "summary": [
-      "[스포츠조선 한동훈 기자] 롯데 자이언츠가 바닥을 치고 바로 올라왔다.",
-      "지난주 10위까지 추락했다.",
-      "9위를 거쳐 8위까지 빠르게 수복했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n679fe10e",
+    "id": "ne755def4",
     "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/21/H7L3ISCDCFDFFDTCA7N22JKAJE/",
-    "title": "진보 도시 뉴욕의 닉스, 백악관 갈까?...구단주 “초청 수락”",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676800",
+    "title": "민주는 원내대표, 국힘은 의장…부산시의회 원구성 속도",
     "summary": [
-      "진보 도시 뉴욕의 닉스, 백악관 갈까?...구단주 “초청 수락”."
+      "[부산=뉴시스]원동화 기자 = 제10대 부산시의회가 전반기 원구성이 본격화한다.",
+      "더불어민주당은 원내대표 선출을 통해 교섭단체 체제를 정비하고 국민의힘은 시의회 의장 후보 선출을 위한 경선에 돌입한다.",
+      "21일 지역 정치권에 따르면 민주당은 22일 광역·기초의원 당선인을 대상으로 한 의정활동 역량 강화 연수에 앞서 광역의원 총회를 열고 원내대표를 선출할 예정이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3a87c2db",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/21/GFSTSNDFMRQTQMJTMQ3DENRRMU/",
+    "title": "\"I AM SORRY!\" 카메라맨과 충돌→구급차 출동, 우즈벡 DF의 특별한 사과...\"친필 사인 유니폼 선물했다\"",
+    "summary": [
+      "[OSEN=고성환 기자] 사상 최초로 월드컵 본선 무대에 나선 우즈베키스탄과 압두코디르 후사노프(24, 맨체스터 시티)가 첫 경기부터 미담을 남겼다.영국 '익스프레스'는 19일(이하 한국시간) \"월드컵 스타 압두코디르 후사노프는 우즈베키스탄의 월드컵 첫 경기였던 콜롬비아전에서 카메라맨과 우연히 충돌한 뒤, 사인이 담긴 우즈베키스탄 대표팀 유니폼을 선물하며."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nb073e382",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620046951009",
+    "title": "'호르무즈 재봉쇄' 카드 꺼낸 이란…핵 담판 주도권 잡나(종합)",
+    "summary": [
+      "(서울=연합뉴스) 강훈상 기자 = 중동 전쟁을 끝내고 핵협상 개시를 위해 합의됐던 미·이란 종전 양해각서(MOU)가 18일(현지시간) 발효된 지..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n76d8943b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003676922",
+    "title": "밴스 \"호르무즈 봉쇄 증거 없어…원유 수송 전쟁 전 수준 회복\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = JD 밴스 미국 부통령은 20일(현지 시간) 이란의 호르무즈 해협 봉쇄 주장과 관련해 실제로 해협이 차단됐다는 증거는 확인되지 않았다고 밝혔다.",
+      "밴스 부통령은 이날 폭스뉴스 인터뷰에서 \"이란이 여전히 호르무즈 해협을 봉쇄하고 있다는 증거는 발견되지 않았다\"고 말했다.",
+      "다만 해상 안전 조치가 진행 중임을 시사하며 \"하지만 그 지뢰들을 제거하는 데는 시간이 좀 걸릴 것\"이라고 덧붙였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne18c8d02",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621001000085",
+    "title": "\"EU로 돌아가자\" 브렉시트 국민투표 10주년 앞 런던 도심행진",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국이 국민투표로 유럽연합(EU) 탈퇴를 결정한 지 만 10년을 앞둔 20일(현지시간) 런던 도심에서 EU ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n48e67528",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620043751009",
+    "title": "트럼프 \"지지율 올리려 사진 요청\"…멜로니 \"본인 지지율 보길\"(종합)",
+    "summary": [
+      "(서울·로마=연합뉴스) 오수진 기자 민경락 특파원 = 도널드 트럼프 미국 대통령이 조르자 멜로니 이탈리아 총리가 자신에게 사진을 찍자고 애걸했다..."
+    ],
+    "chips": [
+      "#정치"
     ]
   },
   {
     "id": "nad56e325",
     "category": "사회",
     "source": "뉴시스",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260619_0003675971",
     "title": "\"흔들리지 않는 내면을 가져라\"… 마음정비 전문가가 조언하는 훈련법",
     "summary": [
@@ -414,7 +499,7 @@ window.NEWS_DB = [
     "id": "n7ca77c35",
     "category": "사회",
     "source": "뉴시스",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260621_0003676924",
     "title": "네타냐후, 레바논 발포 중단 지시…\"美와 협의 따른 조치\"",
     "summary": [
@@ -427,97 +512,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n835f22c2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676765",
-    "title": "내가 만드는 첫 동화…금샘도서관, 인문학 프로그램 운영",
-    "summary": [
-      "[부산=뉴시스]원동화 기자 = 부산 금정구 금샘도서관은 문화체육관광부가 주최하고 한국문화예술교육진흥원과 한국도서관협회가 주관하는 '올해 도서관 길 위의 인문학' 공모사업에 선정돼 27일부터 동화책 창작 프로그램 '내가 만드는 첫 동화'를 운영한다고 21일 밝혔다.",
-      "이번 프로그램은 현직 동화작가와 함께 동화 창작의 기초 이론부터 작품 구상, 합평, 퇴고, 삽화 선정, 편집 과정을 거쳐 한 권의 동화책을 완성하고 출간까지 경험할 수 있도록 구성됐다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n3b1d5e33",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003675637",
-    "title": "부산 사하구 홍티예술촌, 입주작가 릴레이 전시…11월까지 운영",
-    "summary": [
-      "[부산=뉴시스]진민현 기자 = 부산 사하구가 운영하는 서부산 대표 창작거점공간인 홍티예술촌이 입주작가들의 릴레이 전시를 선보인다.",
-      "부산 사하구청은 지역 예술 활성화와 시민들의 문화예술 향유 기회 확대를 위해 홍티예술촌에서 오는 11월까지 '2026 전시공간 운영사업'을 진행한다고 21일 밝혔다.",
-      "홍티예술촌은 사하구 다대동에 위치한 레지던시형 예술창작공간으로, 지역 작가들의 창작과 전시 활동을 지원하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb9581200",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "37분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621000600007",
-    "title": "남자 배구대표팀, AVC컵 조별리그 첫 경기서 태국에 충격패",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 남자 배구대표팀(세계랭킹 27위)이 2026 아시아배구연맹(AVC)컵 조별리그 첫 경기에서 태국(61위)에 충..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n01d26142",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621000400071",
-    "title": "트럼프 \"오바마, 수십억달러 퍼줬지만 할일 못해…내가 바꿨다\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 20일(현지시간) 2015년 버락 오바마 당시 대통령이 주도한 이란 핵합의(포..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n836fbf77",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621000500009",
-    "title": "이란 의회 의장, 대미 협상단 대표로 스위스행",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 이란의 대미 협상단 대표인 모하마드 바게르 갈리바프 의회 의장이 20일(현지시간) 미국과 협상을 위해 스위스로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n329e19eb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "48분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621000300085",
-    "title": "유럽 40도 넘나드는 폭염 비상…프랑스, 거리축제 금주령",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 유럽 각지에서 기온이 올라가면서 주말부터 내주 초까지 40도를 넘나드는 폭염이 예보됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n578ab990",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202606208199i",
     "title": "이란군 \"호르무즈 다시 봉쇄\"…美-파키스탄 \"21일 협상 재개\" [이상은의 워싱턴나우]",
     "summary": [
@@ -531,7 +529,7 @@ window.NEWS_DB = [
     "id": "n0f1bf7d8",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062081987",
     "title": "밴스 美 부통령 \"이란과 스위스서 협상, 이르면 21일 시작\"",
     "summary": [
@@ -545,7 +543,7 @@ window.NEWS_DB = [
     "id": "n31cb9a6b",
     "category": "사회",
     "source": "ZDNet Korea",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260620232656",
     "title": "유비소프트 공동창업자 클로드 기예모, 경비행기 추락 사고로 사망",
     "summary": [
@@ -560,7 +558,7 @@ window.NEWS_DB = [
     "id": "nada32285",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026062081957",
     "title": "이란, 호르무즈 재봉쇄 선언…미국과 담판 위해 스위스행",
     "summary": [
@@ -571,26 +569,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne63042c1",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://view.asiae.co.kr/article/2026062023004602526",
-    "title": "화성시의회 문화복지위원회, 황금해안길 임시 개통 앞두고 현장점검",
-    "summary": [
-      "경기 화성시의회 문화복지위원회(위원장 김종복)는 지난 19일 이달 임시 개통을 앞둔 황금해안길 조성 현장을 방문해 사전 현장점검을 실시했다.",
-      "이날 현장점검에는 문화복지위원회 이용운 부위원장을 비롯해 김상균, 명미정 의원이 참석했다.",
-      "황금해안길의 본격적인 개방에 앞서 안전 점검을 진행하기 위해 이뤄진 이번 방문에서, 의원들은 사업 추진 현황에 대한 브리핑을 청취한 뒤, 해상 둘레길 전체 구간 중 1·2구간을 도보로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n6d24f3c9",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026062081917",
     "title": "밴스 美 부통령 \"이란이 호르무즈 봉쇄하고 있다는 증거 안 보여\"",
     "summary": [
@@ -604,7 +586,7 @@ window.NEWS_DB = [
     "id": "nf1f7df1f",
     "category": "경제",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260620/134148989/1",
     "title": "네타냐후, 결국 종전 흔들었다…이란 “호르무즈 재봉쇄”",
     "summary": [
@@ -620,11 +602,27 @@ window.NEWS_DB = [
     "id": "nb149c051",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260620/134148980/1",
     "title": "[속보]이란군 “호르무즈 재봉쇄…美·이스라엘 종전 합의 위반”",
     "summary": [
       "이란군 “호르무즈 재봉쇄…美·이스라엘 종전 합의 위반”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad32d282",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260620/134148977/1",
+    "title": "“이란, 호르무즈 통항 선박에 ‘향후 보험 수수료’ 시사”",
+    "summary": [
+      "이란이 미국과의 종전 양해각서(MOU)를 바탕으로 호르무즈 해협을 통항하는 선박에 ‘보험 수수료(insurance fees)’를 받을 수 있다는 외신의 보도가 나왔다.",
+      "19일(현지 시간) 파이낸셜타임스(FT), 중동 전문 매체 미들이스트아이 등에 따르면 이란이 새로 설립한 페르시아만해협청(PGSA)은 서한을 통해 MOU에 근거한 60일 이후에는 선박에 수수료를 부과할 가능성을 시사하고 있다.",
+      "해운정보전문매체 로이즈리스트에 따르면 서한에는 “이."
     ],
     "chips": [
       "#뉴스"
@@ -637,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
