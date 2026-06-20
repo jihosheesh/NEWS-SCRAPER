@@ -1,30 +1,30 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-20 00:30:08
+// 마지막 업데이트: 2026-06-20 01:40:37
 window.NEWS_DB = [
+  {
+    "id": "nb113d6f2",
+    "category": "IT",
+    "source": "데일리안",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
+    "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
+    "summary": [
+      "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도' 데일리안."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
   {
     "id": "nb40c53b9",
     "category": "IT",
     "source": "조선일보",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXd1bURrS2hScVBXdHMyWnNLdWNsRlkyRXg1cEd1NFlkNFZ3SzZpY2ZBNGt2TW9WQ1FLNDZuanlIRlRkNktRN3d2bzh2RWdaWjVKY2thNlFRTjktY1FCNkJ0V0JsU0MtM1JrcFhYWENDbDRBYUNYOWp2dnotaW9nOXEzMA?oc=5",
     "title": "파운드리 부활 꿈꾸는 인텔... 한국인에게 ‘키’를 맡겼다",
     "summary": [
       "파운드리 부활 꿈꾸는 인텔...",
       "한국인에게 ‘키’를 맡겼다 조선일보."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nd725c36e",
-    "category": "IT",
-    "source": "서울경제",
-    "time": "18시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91T1NtclVEQWhGc1RubTh3N1o3dHZDSldyTERiNkZhSnVxblZ0QVJ4QTVUR1UzQXRjckxxV2JndlBBMG5YeVNHMnZxRXpiTWlTeGfSAVNBVV95cUxNUEhNcnRYekhDa0ZFMV81NHY0UGY5LXloN2YyWkV4N0VfemxKOThVY3BvQ0JFUFU5WmExblJvOUlMQmVxQnNiTkttMXduNExkT0dmbw?oc=5",
-    "title": "인텔, 이석희 고리로 SK하닉과 ‘HBM 협력’ 기대…삼성엔 ‘변수’",
-    "summary": [
-      "인텔, 이석희 고리로 SK하닉과 ‘HBM 협력’ 기대…삼성엔 ‘변수’ 서울경제."
     ],
     "chips": [
       "#반도체"
@@ -95,7 +95,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -226,21 +226,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n72b90564",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "24일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
-    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
-    "summary": [
-      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "nc92d59ae",
     "category": "IT",
     "source": "경기일보",
@@ -253,6 +238,21 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#고용"
+    ]
+  },
+  {
+    "id": "n5a1617c5",
+    "category": "부동산",
+    "source": "헤럴드경제",
+    "time": "38일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -314,320 +314,317 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf48cb75f",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260620/134148400/1",
-    "title": "‘태클로 부상’ 캐나다 코네, 다리 골절 수술…결국 낙마[월드컵24시]",
-    "summary": [
-      "캐나다 축구 대표팀의 주전 미드필더 이스마엘 코네가 왼쪽 다리 골절로 수술을 받아 2026 국제축구연맹(FIFA) 북중미 월드컵에서 남은 경기에 출전하지 못하게 됐다.",
-      "ESPN과 BBC 등은 20일(한국 시간) “카타르와의 조별리그 경기 도중 들것에 실려나간 코네가 왼쪽 다리 골절로 인한 수술을 성공적으로 마쳤지만, 이번 월드컵 잔여 경기에는 출전하지 못한다”고 보도했다.",
-      "코네는 지난 19일 캐나다 밴쿠버의 BC플레이스 밴쿠버에서 열린 카타르와."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c26af39",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260620/134148397/1",
-    "title": "배우 이기혁, 멕시코 전 패배 후 엉뚱 악플 세례…“김승규 왜 막냐”",
-    "summary": [
-      "배우 겸 감독 이기혁이 2026 국제축구연맹(FIFA) 북중미 월드컵 A조 조별리그 2차전 대한민국과 멕시코 경기 이후 엉뚱한 악플을 받고 있다.지난 19일 멕시코 과달라하라 인근 사포판의 과달라하라 스타디움에서 열린 북중미 월드컵 A조 조별리그 2차전 멕시코와의 경기에서 한국 팀이 0-1로 아쉽게 패배했다.이런 가운데, 경기 중 한국 골키퍼 김승규가 수비수 이기혁과 충돌하면서 공을 놓쳤고, 이 공을 멕시코 주장 루이스 로모가 골로 연결시키는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8314a80",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260620/134148395/1",
-    "title": "비 소식에 주말 교통량 감소…서울→부산 5시간20분",
-    "summary": [
-      "토요일인 20일은 전국에 비 소식이 예보되면서 지난주보다 고속도로 교통량이 소폭 감소할 것으로 전망된다.한국도로공사에 따르면 이날 전국 고속도로 교통량은 538만대로 예상된다.수도권에서 지방으로 빠져나가는 차량은 43만대, 지방에서 수도권으로 들어오는 차량은 45만대로 전망된다.지방 방향 고속도로는 오전 7~8시께 정체가 시작돼 오전 10~11시 가장 혼잡하겠으며 오후 6~7시께 해소될 것으로 예상된다.",
-      "특히 영동선과 서울양양선의 혼잡이 두드러."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5dfc1287",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676675",
-    "title": "제주 한라산 160㎜ 물폭탄…오후까지 초속 25m이상 강풍",
-    "summary": [
-      "[제주=뉴시스]오영재 기자 = 제주 한라산에 160㎜에 달하는 폭우가 내렸다.",
-      "호우특보는 모두 해제됐으나 강풍은 이어질 전망이다.",
-      "20일 제주기상청에 따르면 이날 오전 9시 기준 도 전역에 강풍주의보가 발효 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na20855fa",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026062009252391546",
-    "title": "[2026월드컵]사이바리 전광석화 결승골…모로코, 스코틀랜드 1-0 제압",
-    "summary": [
-      "모로코 축구대표팀이 '간판 골잡이' 이스마엘 사이바리의 결승골을 앞세워 스코틀랜드를 꺾고 2026 북중미 월드컵 조별리그 2경기 연속 무패(1승 1무) 행진을 이어갔다.",
-      "모로코는 20일(한국시간) 미국 매사추세츠주 보스턴 스타디움에서 열린 스코틀랜드와의 2026 북중미 월드컵 조별리그 C조 2차전에서 1-0으로 승리했다.",
-      "이번 승리로 승점 4점을 확보한 모로코는 스코틀랜드(1승 1패·승점 3)를 제치고 조 1위로 올라서며 토너먼."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7bb24fd0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260619120600052",
-    "title": "정영두 김해시장 당선인, '李대통령 현장·소통' 벤치마킹 눈길",
-    "summary": [
-      "(김해=연합뉴스) 이준영 기자 = 정영두 경남 김해시장 당선인의 시장직 인수위원회가 이재명 대통령의 '현장·소통형' 행보를 연상케 하는 운영 방..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8b1a4098",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676638",
-    "title": "모로코, 스코틀랜드 1-0 꺾고 첫 승…사이바리 결승골[월드컵24시]",
-    "summary": [
-      "[과달라하라(멕시코)=뉴시스]안경남 기자 = 모로코가 스코틀랜드를 꺾고 2026 북중미 월드컵 조별리그에서 첫 승을 신고했다.",
-      "모로코는 20일(한국 시간) 미국 매사추세츠주 보스턴 스타디움에서 열린 스코틀랜드와의 대회 조별리그 C조 2차전에서 1-0 승리했다.",
-      "1차전에서 브라질과 1-1로 비겼던 모로코는 1승 1무(승점 4)를 기록, 스코틀랜드(1승 1패 승점 3)를 제치고 조 1위에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb2217407",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676647",
-    "title": "홀란 골 넣자 노르웨이 '땅'도 흔들렸다…지진파 관측",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 노르웨이 축구 대표팀의 에이스 엘링 홀란(맨체스터 시티)의 활약이 조국에 '지진'이 느껴질 정도의 충격을 줬다.",
-      "지난 17일(현지시간) 영국 인디펜던트는 홀란이 이라크를 상대한 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 I조 1차전에서 두 골을 넣은 직후, 노르웨이에서 지진파가 관측됐다고 보도했다.",
-      "이라크를 상대로 선발 출전한 홀란은 전반에 두 골을 넣으면서 일찌감치 승기를 굳혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd4472046",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620017900527",
-    "title": "경북 울릉도·독도에 호우경보",
-    "summary": [
-      "(대구=연합뉴스) 기상청은 20일 오전 9시 20분을 기해 울릉도·독도에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7dfa46cc",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/06/20/GFRGKYJTHEYDCNLGGQZDGZDFGU/",
-    "title": "'고수는 장비를 탓하지 않는다' 끝판왕 오상욱,亞펜싱선수권 개인전 우승! 도경동 銅! 인도 하늘에 휘날린 태극기, 실력으로 위기 이긴 K-펜싱",
-    "summary": [
-      "[스포츠조선 전영지 기자]'돌아온 펜싱 끝판왕' 오상욱(대전광역시청)이 또 한번 아시아 정상에 우뚝 섰다.",
-      "오상욱은 19일(한국시각) 인도 뉴델리에서 펼쳐진 아시아선수권 남자 사브르 결승에서 중국 에이스 루오 샤오퉁을 15대9로 가볍게 꺾고 금메달을 목에 걸었다.",
-      "이번 대회 4번 시드를 받은 오상욱은 32강에서 인도 카란 싱 싱을 15대11로 꺾은 후 16."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndbd143ab",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676652",
-    "title": "'홀인원' 강민지, LPGA 마이어 클래식 2R 공동 4위…선두와 2타 차",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 강민지가 미국여자프로골프(LPGA)투어 마이어 클래식(총상금 325만 달러) 2라운드에서 홀인원을 성공하며 선두권을 유지했다.",
-      "강민지는 20일(한국 시간) 미국 미시간주 벨몬트의 블라이더필즈 컨트리클럽(파72)에서 열린 대회 2라운드에서 버디 4개와 이글 1개, 보기 2개를 묶어 4언더파 68타를 쳤다.",
-      "중간 합계 8언더파 136타를 적어낸 강민지는 류옌(중국)과 함께 공동 4위에 자리했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n87700281",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/HA2WGM3FMZSWKNLGGI2DQNDGMI/",
-    "title": "‘전 국가대표’ 김영광, 멕시코전 패배 따끔 지적 “선수들 헛고생 했다…수비 균열”(‘나김영광이오’)",
-    "summary": [
-      "[OSEN=강서정 기자] 국가대표 축구선수 출신 김영광이 ‘2026 국제축구연맹(FIFA) 북중미 월드컵’ 멕시코전 패배에 따끔하게 한 마디 했다.",
-      "지난 19일 유튜브 채널 ‘나 김영광이오’에는 ‘승규야...",
-      "월드컵 2차전 멕시코전 리뷰’라는 제목의 영상이 게재됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n407cdeb3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620017700054",
-    "title": "음주운전 차량이 식당 돌진…인명피해 없어",
-    "summary": [
-      "(나주=연합뉴스) 정회성 기자 = 음주 운전자가 몰던 차량이 영업 중인 식당으로 돌진했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc65419b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026062009190587182",
-    "title": "트럼프 특사, 스위스로 출발…미·이란 협상 주말 재개 가능성",
-    "summary": [
-      "미국과 이란의 종전 합의 이후 첫 실무 협의가 한차례 연기됐으나 미국 측 특사들이 속속 스위스로 향하면서 이번 주말 대면 협상이 재개될 가능성이 나온다.",
-      "미국 인터넷 매체 악시오스는 19일(현지시간) 미 정부 관계자의 말을 인용해 트럼프 대통령의 중동 특사인 스티브 윗코프가 이란과의 후속 실무 협의가 개최될 것으로 예상되는 스위스로 이동 중이라고 보도했다.",
-      "이 관계자는 또 다른 특사이자 트럼프 대통령의 맏사위인."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne5655949",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/06/20/GUYDKNJTMMYDEOJZMUZGCMJTHA/",
-    "title": "베이비몬스터, 백스테이지 속 빛나는 존재감..두 번째 월드투어 D-6",
-    "summary": [
-      "[OSEN=선미경 기자] 그룹 베이비몬스터가 빛나는 존재감으로 새로운 여정의 시작을 알렸다.YG엔터테인먼트는 지난 19일 공식 채널을 통해 베이비몬스터의 두 번째 월드투어인 ‘2026-27 베이비몬스터 월드 투어 ‘춤’(2026-27 BABYMONSTER WORLD TOUR ‘CHOOM’)’의 콘셉트 필름을 공개하고 열기를 끌어올렸다.이번에 공개된 영상에서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne0b01b2b",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620017500007",
-    "title": "펜싱 오상욱, 아시아선수권 남자 사브르 개인전 2년 만에 우승",
-    "summary": [
-      "(서울=연합뉴스) 최송아 기자 = 한국 펜싱의 간판 오상욱(대전광역시청)이 2년 만에 아시아선수권대회 개인전 정상을 탈환했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0301b29e",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026062009163183372",
-    "title": "'미술 애호가' RM, 국립중앙박물관 홍보대사 됐다",
-    "summary": [
-      "방탄소년단 RM이 국립중앙박물관 글로벌 홍보대사로 활동한다.",
-      "국립중앙박물관은 19일 글로벌 아티스트 방탄소년단 RM을 글로벌 홍보대사로 위촉했다고 20일 밝혔다.",
-      "이번 위촉은 한국 문화유산의 가치를 국내외에 알리고 박물관의 국제적 위상을 높이기 위해 마련됐다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n49c1b287",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026062009153479583",
-    "title": "트럼프 \"이스라엘 통제 가능\" 단언…쿠바선 베네수엘라식 작전 시사",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 이란과의 종전 양해각서(MOU) 이행에서 최대 변수로 떠오른 이스라엘의 레바논 공격을 충분히 막을 수 있다면서 베냐민 네타냐후 이스라엘 총리를 거듭 비판했다.",
-      "트럼프 대통령은 19일(현지시간) 공개된 미국 온라인 매체 악시오스와의 인터뷰에서 이스라엘의 레바논 공격을 막을 수 있느냐는 질문에 \"그렇다.",
-      "할 수 있다\"며 \"그들은 나를 매우 존중한다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n676b6f0d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/20/2EBFRFHVERGDNL47FVS4ECWOVI/",
-    "title": "모로코 ‘에이스’ 하키미, 성폭행 혐의로 월드컵 도중 재판 회부",
-    "summary": [
-      "모로코 ‘에이스’ 하키미, 성폭행 혐의로 월드컵 도중 재판 회부."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n26e1b26e",
+    "id": "n7a31c227",
     "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260619086000057",
-    "title": "한국동서발전, '풍력 발전량 예측 인공지능 경진대회' 개최",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152768",
+    "title": "[주말에 뭐보지] \"웃고 설레고 소름 돋는다\"...주말 OTT 정주행 추천작 총정리",
     "summary": [
-      "(울산=연합뉴스) 장영은 기자 = 한국동서발전은 GS E&amp;R, 태백가덕산풍력발전과 함께 '제3회 풍력 발전량 예측 인공지능 경진대회'를 ..."
+      "반복되는 일상에 지쳤다면 이번 주말만큼은 잠시 현실을 벗어나보자.",
+      "전남편과 현남편의 좌충우돌 구출 작전부터 예측 불가한 소개팅 실험, 무도키즈들의 추억을 자극하는 특별한 레이스, 그리고 광기 어린 집착이 만들어내는 공포까지.",
+      "국내외 온라인 동영상 서비스(OTT)가 현실의 감정과 고민을 녹여내면서도 일상에서는 마주하기 어려운 이야기들이 색다른 몰입감을 선사할 예정이다.'전남편'과 '현남편'의 만남이라무료한 주말 유쾌한 웃음과 통쾌한 카타르시스를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne33e2dd9",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152763",
+    "title": "[주말에 뭐먹지] 신라면 볶음면에 치즈 추가?...한국 출시가 절실한 이유",
+    "summary": [
+      "일단 이번 주말에 색다른 라면을 먹고 싶다면? 성수동에 위치한 농심 '신라면 분식'을 방문하면 정말 좋아.",
+      "왜냐고? 우리나라에서는 출시되지 않는 수출 전용 라면을 '신라면 분식'에서는 맛볼 수 있거든.",
+      "한강 라면 형식으로 우리가 직접 만들어 먹을 수 있어서 '특식 라면'을 즐길 수 있을꺼야.40대라 \"라떼는~\"을 자주 외치는 워킹맘 기자 '라떼워킹맘'이 이번 주 주말에 추천해줄 메뉴는 '신라면 볶음면 치즈'야."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nfb7a1c52",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152761",
+    "title": "[주말에 뭐하지] 에반게리온부터 프나끼지...게임사 각종 컬래버레이션 '풍성'",
+    "summary": [
+      "국내 게임사들이 다양한 컬래버레이션 콘텐츠로 이용자 잡기에 나섰다.",
+      "컬래버레이션은 기존 이용자에게는 색다른 콘텐츠를 제공하고, 원작 팬덤은 게임으로 유입시킬 수 있다는 장점이 있다.",
+      "주말을 맞아 인기 걸그룹부터 애니메이션, 웹툰까지 각종 지식재산권(IP)과 국내 게임사의 색다른 컬래버레이션을 모아봤다.애니멀 버스터즈, 투신전생기와 만났다20일 라인게임즈는 모바일 방치형 역할수행게임(RPG) '애니멀 버스터즈'과 네이버웹툰 '투신전생기'와의 컬래."
+    ],
+    "chips": [
+      "#네이버",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nc29e42ac",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676701",
+    "title": "보아, 묘하게 달라진 얼굴",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 가수 보아가 근황을 공개했다.",
+      "보아는 20일 소셜미디어에 \"이제 굳 두둥 담주에 만나\"라는 글과 함께 여러 장의 사진을 게재했다.",
+      "공개된 사진 속 보아는 민트색 모자와 검은 후드티를 착용한 채 브이 포즈를 취했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n79a601ff",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676686",
+    "title": "폴란드 대통령, 젤렌스키에 수여한 폴란드 최고명예훈장 박탈 밝혀",
+    "summary": [
+      "[바르샤바(폴란드)=AP/뉴시스] 유세진 기자 = 카롤 나브로츠키 폴란드 대통령은 19일 볼로디미르 젤렌스키 우크라이나 대통령이 우크라이나 군 부대의 이름을 2차 세계대전 중 폴란드인을 학살한 혐의를 받는 우크라이나 준군사 조직의 이름을 따 짓기로 결정한 것과 관련, 젤레스키에게 수여된 폴란드 최고 명예의 백수리 훈장을 박탈할 것이라고 말했다.",
+      "이에 따라 폴란드와 우크라이나 관계가 냉각될 수 있다는 우려가 제기되고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7edc2549",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676700",
+    "title": "한동훈 \"법원이 '연어 술판' 없었다 해…李, 자기 재판 없애려 들면 탄핵·파국뿐\"",
+    "summary": [
+      "[서울=뉴시스]하지현 기자 = 한동훈 무소속 의원은 20일 '연어 술 파티 의혹'을 제기해 위증 등 혐의로 기소된 이화영 전 경기도 평화부지사가 1심에서 징역 4개월을 선고받자 \"'무고의 굿판'을 벌인 이재명 민주당 정권에 책임을 물어야 한다\"고 말했다.",
+      "한 의원은 이날 페이스북에 \"이재명 민주당 정권 전부가 달려들었던 '무고의 굿판'이 끝났다\"며 \"그동안 저를 증인으로 부르지도 못한 비겁한 국정조사, 공소취소 특검 추진까지 있었지만 그 어느."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5df1a96",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/20/HAZDIZRXGVRDKOJRHBRGENDBMI/",
+    "title": "日, 다카이치 성장전략 제시…2040년까지 3500조 투자 추진",
+    "summary": [
+      "다카이치 사나에 내각이 ‘강한 일본 만들기’ 시책에서 17개 성장전략 사업에 대해 2040년까지 민·관 합산 최소 370조엔(약 3500조원) 규모의 투자를 추진하기로 했다.",
+      "20일 일본 현지 언론에 따르면 피지컬 인공지능(AI), 반도체, 드론, 액화천연가스(LNG) 운반선을 포함한 조선, 방위산업, 양자, 항공·우주, 콘텐츠, 디지털·사이버 보안, 핵."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n19f5ffd6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/national/regional/2026/06/20/SDZ5SM4JGJAMXJI2UHGJL3PTQI/",
+    "title": "주말 전국 비바람… 강원 산지 최대 200㎜ 더 내린다",
+    "summary": [
+      "주말 전국 비바람… 강원 산지 최대 200㎜ 더 내린다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n421c66a3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/06/20/G4YTGMLBGQZWIMRQHE2GINZXME/",
+    "title": "하츠투하츠, 상큼하고 청량한 'Lemon Tang'",
+    "summary": [
+      "[OSEN=선미경 기자] 컴백을 앞둔 그룹 하츠투하츠가 시원하고 청량한 여름을 예고했다.20일 SMTOWN의 공식 유튜브 채널을 통해 오는 22일 오후 6시에 발매되는 하츠투하츠의 두 번째 미니앨범 타이틀곡 ‘레몬탱(Lemon Tang)’의 뮤직비디오 티저가 공개돼 관심을 끌고 있다.하츠투하츠의 ‘레몬탱’은 상큼하고 청량한 매력을 담은 서머송이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a05a26b",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260620/134148503/2",
+    "title": "어느 종목에 투자했기에…“40살까지 모은 7억 날려” 20만 유튜버의 당부",
+    "summary": [
+      "구독자 20만 명을 보유한 운동 유튜버가 주식 실패로 약 7억 원의 재산을 잃었다고 고백했다.",
+      "그는 “지금 당장 돈이 없어 불행한 것 같아도 무리하게 주식 투자를 하지 말라”고 당부했다.유튜브 채널 ‘총총TV 실버 건’에는 14일 ‘40살까지 힘들게 모은 7억 주식 투자로 날리고 깨달은 것들’이라는 제목으로 15분 32초 분량의 영상 한 편이 올라왔다.",
+      "그는 주식을 시작한 계기에 대해 “서울에서 살고 싶은데 집을 사려면 단순히 일만 해서는 살."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n34834cc9",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260618154600017",
+    "title": "[테크톡노트] 외국인은 못 쓰는 페이블5…흔들리는 글래스윙",
+    "summary": [
+      "(서울=연합뉴스) 권하영 기자 = 앤트로픽의 초고성능 인공지능(AI) 모델 '미토스5'와 파생 모델 '페이블5', 그리고 글로벌 보안 연합체 '..."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n93afd56b",
+    "id": "n0d0c3001",
     "category": "경제",
-    "source": "한국경제",
-    "time": "29분 전",
-    "url": "https://www.hankyung.com/article/202606183803i",
-    "title": "시니어 주거 디자인의 과학: 치매 친화와 유니버설 디자인",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620021100011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
     "summary": [
-      "시니어 주거 디자인의 과학: 치매 친화와 유니버설 디자인."
+      "[연합뉴스 이 시각 헤드라인] - 10:30."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n4687695b",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676697",
+    "title": "넷플릭스, 코미디 영화 '남편들' 오늘 공개…진선규·공명 활약",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 넷플릭스가 영화 '남편들'을 19일 공개한다고 밝혔다.",
+      "'남편들'은 범죄 조직에게 납치당한 아내를 구출하기 위해 전 남편과 현 남편이 뜻하지 않게 손을 잡으면서 벌어지는 이야기를 그린 코미디 액션 영화다.",
+      "박규태 감독은 \"전 남편과 현 남편의 공조에 더해 신세대와 구세대 조직의 대결 구도를 담아 코미디의 층위를 넓히고자 했다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne58982f6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620020800104",
+    "title": "아프간 \"파키스탄 내 IS 은신처 공습\"…파키스탄 \"드론 격추\"",
+    "summary": [
+      "(자카르타=연합뉴스) 손현규 특파원 = 아프가니스탄이 이웃국 파키스탄에 있는 극단주의 무장단체 이슬람국가(IS)의 은신처를 성공적으로 공습했다고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3be234f5",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260620/134148508/1",
+    "title": "‘펜싱 칼 빌려 간’ 오상욱, 아시아선수권 남자 사브르 개인전 우승",
+    "summary": [
+      "펜싱 남자 사브르 간판 오상욱(대전시청)이 2년 만에 아시아선수권 개인전 정상을 탈환했다.",
+      "다른 선수의 장비를 빌려 출전한 대회에서 거둔 성과다.오상욱은 19일(현지시간) 인도 델리에서 열린 2026 아시아선수권 남자 사브르 개인전 결승에서 뤄샤오퉁(중국)을 15-8로 꺾고 우승했다.이로써 오상욱은 2024년 이후 2년 만에 아시아선수권 개인전 금메달을 수확했다.특히 이번 대회에서 펜싱 대표팀은 어려움을 겪었다.",
+      "대한펜싱협회가 입주한 서울 송파."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n72a28091",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260620/134148500/1",
+    "title": "“왜 노래 취소해” 산악회 회원 머리 소주병으로 친 70대 징역형",
+    "summary": [
+      "관광버스에서 신청한 노래를 취소했다는 이유로 같은 산악회 회원의 머리를 소주병으로 내려친 70대가 징역형을 선고받았다.청주지법 형사1단독(부장판사 박광민)은 특수상해 혐의로 기소된 A 씨(73)에게 징역 6개월에 집행유예 2년을 선고했다고 20일 밝혔다.A 씨는 지난해 6월 8일 오후 6시쯤 청주시 흥덕구 한 주유소 앞에서 욕설을 하며 소주병으로 B 씨(72)의 머리를 내려쳤다.그의 범행으로 B 씨는 약 3주간의 상해를 입었다.A 씨는 관광버스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n574cb098",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260620/134148497/1",
+    "title": "伊외무장관 “멜로니 총리, 사진 촬영 구걸” 트럼프 발언에 방미 취소",
+    "summary": [
+      "이탈리아 정부는 19일(현지시각) 도널드 트럼프 미 대통령이 “최근 주요 7개국(G7) 정상회담에서 조르자 멜로니 총리가 나에게 ‘함께 사진 찍어달라’고 구걸했다”고 주장한 것에 대해 입장을 정리했다.안토니오 타지니 이탈리아 외무장관은 이번 주말로 예정됐던 미국 방문을 갑작스럽게 취소하면서, 트럼프 대통령의 주장은 멜로니 총리와 이탈리아에 대한 “심각한 공격”이라고 말했다.",
+      "외무부는 타지니 장관이 마이애미에서 열리는 비즈니스 및 과학 포럼 참석."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1f58ee97",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620020200005",
+    "title": "[월드컵] 멕시코전 시청률 17.7%…KBS가 10.9%로 '2연승'",
+    "summary": [
+      "(서울=연합뉴스) 고가혜 기자 = 한국이 멕시코에 아쉽게 패한 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 A조 2차전의 시청률은 1..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n82490841",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/06/20/LA33GY2RLZF4TOVNTITJDJPUTY/",
+    "title": "‘안규백 국방장관 탄핵’ 국회 국민 청원 사흘만에 100%달성",
+    "summary": [
+      "‘안규백 국방장관 탄핵’ 국회 국민 청원 사흘만에 100%달성."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2357cac2",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620019600009",
+    "title": "이란, 호르무즈 통항 선박에 '당분간 무료→향후 수수료' 시사",
+    "summary": [
+      "(서울=연합뉴스) 임화섭 기자 = 이란이 미국과 종전 양해각서(MOU)를 근거로 호르무즈 해협을 지나는 선박에 앞으로 '보험 수수료'를 받을 수..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbed953ea",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619086200057",
+    "title": "울주군, 올해 1기분 자동차세 9만7천여건에 112억원 부과",
+    "summary": [
+      "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 올해 6월 제1기분 자동차세(지방교육세 포함) 9만7천76건, 112억8천700만원을 부과·고지..."
+    ],
+    "chips": [
+      "#교육"
     ]
   }
 ];
@@ -637,20 +634,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
