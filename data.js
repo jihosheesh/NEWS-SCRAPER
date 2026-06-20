@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-20 14:44:43
+// 마지막 업데이트: 2026-06-20 15:31:41
 window.NEWS_DB = [
   {
     "id": "na35b331b",
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nb113d6f2",
     "category": "IT",
     "source": "데일리안",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
     "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
     "summary": [
@@ -44,6 +44,23 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
+    ]
+  },
+  {
+    "id": "nc4b0f988",
+    "category": "IT",
+    "source": "쿠키뉴스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
+    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
+    "summary": [
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -121,20 +138,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0325eee6",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mM0pBbXo4UHF6QTlGU2JVOEJQeEg3VmtpQ1dTZ01aR2VBamVKVUhiWlQ2bkVpLWRjaDQzb1JVaXRFUVZqN3UzTzdyUE5JaWVZUTNmcQ?oc=5",
-    "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
-    "summary": [
-      "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? v.daum.net."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "n13b4af19",
     "category": "사회",
     "source": "대학IN",
@@ -182,6 +185,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n54eac02a",
+    "category": "부동산",
+    "source": "프라임경제",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWTTNhcGcya25mdG1tMlJuVFhQSTBsQlVVM0xsR1lyTkQwb25RZnZ0R0tDQVJYNlhqZU52azZ4dTJVSGlrWW5xRDJ5N0VDaXZ1QUZZMWlkUUNQOXUzWTJKc1NxQzJoZw?oc=5",
+    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
+    "summary": [
+      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -208,21 +225,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n72b90564",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
-    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
-    "summary": [
-      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
     ]
   },
   {
@@ -330,160 +332,265 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb5b38d52",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/HBRWIZBYGRQWMMRZMJQTIMLDGM/",
-    "title": "코요태 빽가 \"과거 선인장 가게 창업, 떼돈 벌었다\" ('동치미') [순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 그룹 코요태 멤버 빽가가 과거 선인장가게로 떼돈을 벌었다고 밝혔다.",
-      "20일 방송된 MBN '속풀이쇼 동치미'(이하 '동치미')에는 '피같은 돈 내가 지킨다'라는 주제로 전원주, 노사연, 이가돈, 현영, 빽가 등이 출연해 눈길을 끌었다.이날 빽가는 '연쇄 창업마'라고 소개되었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne3d024b5",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676909",
-    "title": "'이웃사촌' 가수 옥희, 오늘 별세…남편 권투선수 홍수환 곁 지켜(종합)",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = '나는 몰라요'와 '이웃사촌' 등의 히트곡으로 1970년대 대중음악계를 풍미한 가수 옥희(김광숙)가 암 투병 끝에 별세했다.",
-      "20일 가요계와 박성서 대중음악 평론가 등에 따르면, 옥희는 이날 오후 8시40분께 경기 수원의 한 호스피스 병동에서 신장암으로 숨을 거뒀다.",
-      "고인은 그간 신장암과 폐암 수술을 받으며 투병 생활을 이어온 것으로 전해졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n463e1861",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/HEYDCZRUGIYWGZRWME3WGZRWGE/",
-    "title": "박은영, ‘하석진 닮은’ ♥의사 남편 자랑 “젠틀하고 잘 챙겨줘”(전지적참견시점)[순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 박은영이 남편과 달달한 통화를 하며 신혼 분위기를 풍겼다.20일 방송된 MBC ‘전지적 참견 시점’에는 박은영 셰프, 아일릿 민주, 원희가 출연했다.박은영과 함께 일하는 헤드셰프는 박은영 남편에 대해 “하석진 배우를 외모 이상형으로 꼽았는데 비슷하게 생겼다.",
-      "성격은 기분의 높낮이가 많이 없는 편."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd14302f4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620046500109",
-    "title": "러시아 쇼핑몰서 흉기 난동…\"1명 숨지고 5명 다쳐\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 러시아 남부 크라스노다르의 한 쇼핑몰에서 한 남성이 사람들에게 흉기를 휘둘러 여성 1명이 숨지고 5명이 다쳤..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n831ca1db",
+    "id": "nc3eb49db",
     "category": "사회",
     "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676912",
-    "title": "[속보]\"미국·이란 후속협상, 21일 스위스서 시작 예정\"",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003676923",
+    "title": "[속보]네타냐후, 레바논 발포 중단 지시…\"美와 협의 따른 조치\"",
     "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nec30ff24",
+    "id": "n936a7d7f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/21/MUZWKMTBGZRGIZJWGIZDEZRYGM/",
+    "title": "박은영, ♥의사 남편 이렇게 홀렸나..1인 파인다이닝 이벤트 “숙녀 모드 돼”(전참시)",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 박은영이 의사 남편을 위해 1인 파인다이닝을 준비했다고 밝혔다.20일 방송된 MBC ‘전지적 참견 시점’에는 박은영 셰프, 아일릿 민주, 원희가 출연했다.박은영은 셰프들과 이야기를 나누며 “내가 이렇게 결혼을 일찍 할 줄 몰랐다”라고 말했다.",
+      "홍콩에서 함께 일했던 셰프는 박은영과 남편이 연애하던."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfbb42b0c",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/20/GUYGMODFGFSTKMBVGNSGIYZYMM/",
-    "title": "이보다 짜릿할 수 없다. 9회말 5점 차 뒤집고 끝내기, KIA 상승세 꺾었다…\"힐리어드 공수에서 활약 돋보였다\" [오!쎈 수원]",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/21/HEZGIZDDMEZDMNLGHFSTIYRYGI/",
+    "title": "롯데의 행복한 6선발 구상, 대만에서 영입한 日 아시아쿼터에 달렸다…첫 불펜피칭 149km 쾅!",
     "summary": [
-      "[OSEN=수원, 홍지수 기자] 프로야구 KT 위즈 외국인 타자 샘 힐리어드가 KIA 타이거즈 마무리를 무너뜨렸다.KT는 20일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 KIA와 시즌 8차전에서 10-9 역전승을 거뒀다.경기 후 이강철 감독은 “모든 선수들이 끝까지 포기하지 않고 연패를 끊고자 하는 의지가 강했다”며 “중요한 순간 안타를 기."
+      "[OSEN=고척, 길준영 기자] 프로야구 롯데 자이언츠 새 아시아쿼터 외국인투수 이이무라 쇼타(28)가 첫 불펜피칭을 성공적으로 마쳤다.",
+      "이이무라는 20일 서울 고척스카이돔에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 키움 히어로즈와의 경기에 앞서 불펜피칭을 소화했다.",
+      "60구 가량을 던지며 직구, 슬라이더, 싱커 등 전체적인 구종을 모두 점검했."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n1c2abf15",
+    "id": "n8266ea03",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/21/GE3WKMBYMZQWGZTDGYZDIN3EMY/",
+    "title": "'40억대 자산' 전원주, 최초 편의점 사전 미팅 \"4천 원으로 세 명 마셔\" ('동치미') [순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 전원주가 2+1으로 제작진을 대접했다고 밝혔다.",
+      "20일 방송된 MBN '속풀이쇼 동치미'(이하 '동치미')에는 '피같은 돈 내가 지킨다'라는 주제로 전원주, 노사연, 이가돈, 현영, 빽가 등이 출연해 눈길을 끌었다.이날 김용만은 “아끼는 거 하면 이 분이다.",
+      "자나 깨나 아끼는 아이콘”이라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n35af3f10",
     "category": "사회",
     "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676897",
-    "title": "스위스 \"美·이란 대화 위한 노력 지속…참석자·논의 내용 비공개\"",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676910",
+    "title": "이란 대표단·밴스 모두 스위스행…美·이란 후속 협상 착수",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = 스위스 외무부가 미국과 이란 간 대화를 유지하기 위한 외교적 노력이 계속되고 있다고 밝혔다.",
-      "CNN에 따르면 스위스 외무부는 20일(현지 시간) 성명을 통해 \"여러 국가의 외교관들이 미국과 이란 간의 대화를 유지하기 위해 계속 노력하고 있다\"고 밝혔다.",
-      "외무부는 회담 참석 인사들의 신원이나 논의 내용에 대해서는 \"기밀 유지상의 이유로 추가 정보를 제공할 수 없다\"고 설명했다."
+      "[서울=뉴시스] 이재은 기자 = 미국과 이란이 최근 도출한 양해각서(MOU) 이행을 위한 후속 협상을 위해 스위스로 향한다.",
+      "이란 정부가 20일(현지 시간) 미국과의 잠정 합의 이행 문제를 논의하기 위해 대표단을 스위스로 파견한다고 밝혔다.",
+      "이란 국영 TV는 이란 대표단이 미국 측에 잠정 합의에 따른 의무를 이행할 것을 요구하기 위해 스위스로 향한다고 보도했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n58479d09",
+    "id": "n8a7892d1",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620046400004",
-    "title": "오세훈 \"대통령실에 국무회의 전 불러달라 연락…기다린다\"",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/21/IHXHZX2LG5CTDBZVSSNNB46KSE/",
+    "title": "9조원대 이란 동결 자금 먼저 해제 되나...“美, 카타르와 협의”",
     "summary": [
-      "(서울=연합뉴스) 김준태 기자 = 이재명 대통령에게 직접 민심을 전달하겠다고 나선 오세훈 서울시장은 국무회의 전에라도 불러달라고 대통령실에 연락..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n34ee2767",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620046000085",
-    "title": "스페인 정계 부패 스캔들…총리 부인 출국금지",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 스페인에서 페드로 산체스 총리의 가족·측근들이 연루된 부패 스캔들이 계속되면서 법원이 총리 부인 베고냐 고메..."
+      "9조원대 이란 동결 자금 먼저 해제 되나...“美, 카타르와 협의”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n00f8b4e8",
+    "id": "nc6496171",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620047200104",
+    "title": "파키스탄 \"미·이란 실무급 회담 21일 스위스서 개최\"",
+    "summary": [
+      "(자카르타=연합뉴스) 손현규 특파원 = 미국과 이란의 종전 협상을 중재하는 파키스탄이 오는 21일(현지시간) 스위스에서 양국의 대면 회담이 열린..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nef3a51e5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676660",
+    "title": "최준희 \"무조건 굶으면 작심삼일\"…식단 강박 버리는 꿀팁 공개",
+    "summary": [
+      "[서울=뉴시스]정우영 인턴 기자 = 배우 고(故) 최진실의 딸이자 인플루언서 최준희가 자신만의 다이어트 철학을 공유했다.",
+      "최준희는 최근 자신의 인스타그램 스토리에 \"무조건 굶으면서 다이어트하려면 작심삼일로 끝나버리기 때문에 우선 강박부터 버려야 오래간다\"며 음식을 먹는 자신의 모습을 올렸다.",
+      "이어 \"강박 갖고 참다가 한번 터져서 폭식하는 게 다이어트 망하는 지름길인 거 아시죠\"라며 \"나도 최근에 미국에서 너무 잘 먹어서 다시 다이어트에 돌입했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51e3d3bc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676668",
+    "title": "\"식이섬유, 항산화 성분에 단백질까지\"…최은경의 '천연 위고비 식단'",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 방송인 최은경(53)이 '천연 위고비 식단'을 공개했다.",
+      "19일 최은경의 유튜브 채널에는 '몸이 무겁다면? 불 없이 만드는 여름 클린식단'이라는 제목의 영상이 올라왔다.",
+      "최은경은 영상을 통해 계란, 아보카도, 오이, 올리브유 등을 활용한 아침 식단을 공유했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n24190338",
     "category": "사회",
     "source": "연합뉴스",
     "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620045551071",
-    "title": "美밴스 \"이란과 스위스서 협상, 이르면 21일 시작될 수도\"(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20260621000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 이란이 미국과 이스라엘의 종전 양해각서(MOU) 위반을 이유로 호르무즈 해협을 다시 봉쇄하겠다고 발표한 가..."
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0cc48c28",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676907",
-    "title": "'나는 몰라요' 옥희 암투병 끝 별세, 향년 73…남편 홍수환 곁 지켰다",
+    "id": "ne7275199",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620047300071",
+    "title": "미군, 이란 '호르무즈 재봉쇄' 발표속 \"합의 이행되게 경계유지\"",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = '나는 몰라요'와 '이웃사촌' 등으로 1970년대 주목 받은 가수 옥희가 암 투병 끝에 별세했다.",
-      "20일 가요계와 박성서 대중음악 평론가 등에 따르면, 옥희는 이날 오후 8시40분께 경기 수원의 호스피스 병동에서 신장암으로 눈을 감았다.",
-      "옥희는 1974년 1세대 한류 걸그룹 서울시스터즈로 데뷔, 해외 위주로 활동했다."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 이란이 미국과 이스라엘의 종전 양해각서(MOU) 위반을 이유로 호르무즈 해협의 재봉쇄를 선언한 가운데, 미..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc6cdaa89",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620046900009",
+    "title": "이틀만에 종전 MOU 위기…이란, '호르무즈 재봉쇄' 카드 꺼냈다",
+    "summary": [
+      "(서울=연합뉴스) 강훈상 기자 = 중동 전쟁을 끝내고 핵협상 개시를 위해 합의됐던 미·이란 종전 양해각서(MOU)가 18일(현지시간) 발효된 지..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n578ab990",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "57분 전",
+    "url": "https://www.hankyung.com/article/202606208199i",
+    "title": "이란군 \"호르무즈 다시 봉쇄\"…美-파키스탄 \"21일 협상 재개\" [이상은의 워싱턴나우]",
+    "summary": [
+      "이란군 \"호르무즈 다시 봉쇄\"…美-파키스탄 \"21일 협상 재개\" [이상은의 워싱턴나우]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f1bf7d8",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "58분 전",
+    "url": "https://www.hankyung.com/article/2026062081987",
+    "title": "밴스 美 부통령 \"이란과 스위스서 협상, 이르면 21일 시작\"",
+    "summary": [
+      "밴스 美 부통령 \"이란과 스위스서 협상, 이르면 21일 시작\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n31cb9a6b",
+    "category": "사회",
+    "source": "ZDNet Korea",
+    "time": "1시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260620232656",
+    "title": "유비소프트 공동창업자 클로드 기예모, 경비행기 추락 사고로 사망",
+    "summary": [
+      "[지디넷코리아]클로드 기예모 유비소프트 공동창업자가 프랑스 서부에서 발생한 경비행기 추락 사고로 숨졌다고 AP통신이 19일(현지시간) 보도했다.유비소프트는 AP통신에 보낸 성명을 통해 클로드 기예모의 사망 사실을 확인했다.AP통신과 블룸버그 등 따르면 사고는 19일 저녁 프랑스 대서양 연안 라볼 공항 인근 들판에서 발생했다.",
+      "공항 관계자는 세스나 경비행기에 탑승한 클로드 기유모와 다른 1명이 착륙 직전 추락 사고를 당했다고 전했다..클로드 기예."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nada32285",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026062081957",
+    "title": "이란, 호르무즈 재봉쇄 선언…미국과 담판 위해 스위스행",
+    "summary": [
+      "이란, 호르무즈 재봉쇄 선언…미국과 담판 위해 스위스행."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne63042c1",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026062023004602526",
+    "title": "화성시의회 문화복지위원회, 황금해안길 임시 개통 앞두고 현장점검",
+    "summary": [
+      "경기 화성시의회 문화복지위원회(위원장 김종복)는 지난 19일 이달 임시 개통을 앞둔 황금해안길 조성 현장을 방문해 사전 현장점검을 실시했다.",
+      "이날 현장점검에는 문화복지위원회 이용운 부위원장을 비롯해 김상균, 명미정 의원이 참석했다.",
+      "황금해안길의 본격적인 개방에 앞서 안전 점검을 진행하기 위해 이뤄진 이번 방문에서, 의원들은 사업 추진 현황에 대한 브리핑을 청취한 뒤, 해상 둘레길 전체 구간 중 1·2구간을 도보로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d24f3c9",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026062081917",
+    "title": "밴스 美 부통령 \"이란이 호르무즈 봉쇄하고 있다는 증거 안 보여\"",
+    "summary": [
+      "밴스 美 부통령 \"이란이 호르무즈 봉쇄하고 있다는 증거 안 보여\"."
     ],
     "chips": [
       "#뉴스"
@@ -493,9 +600,9 @@ window.NEWS_DB = [
     "id": "nf1f7df1f",
     "category": "경제",
     "source": "동아일보",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260620/134148989/1",
-    "title": "[속보]네타냐후, 결국 종전 흔들었다…이란 “호르무즈 재봉쇄”",
+    "title": "네타냐후, 결국 종전 흔들었다…이란 “호르무즈 재봉쇄”",
     "summary": [
       "이란이 20일(현지 시간) 이스라엘의 레바논 공격은 미국-이란 종전협정 양해각서(MOU) 위반이라며 호르무즈 해협을 다시 봉쇄한다고 밝혔다.",
       "베냐민 네타냐후 이스라엘 총리의 ‘몽니’가 도널드 트럼프 미국 대통령의 종전 구상을 흔들기 시작했다는 우려가 나온다.",
@@ -518,106 +625,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "nad32d282",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260620/134148977/1",
-    "title": "“이란, 호르무즈 통항 선박에 ‘향후 보험 수수료’ 시사”",
-    "summary": [
-      "이란이 미국과의 종전 양해각서(MOU)를 바탕으로 호르무즈 해협을 통항하는 선박에 ‘보험 수수료(insurance fees)’를 받을 수 있다는 외신의 보도가 나왔다.",
-      "19일(현지 시간) 파이낸셜타임스(FT), 중동 전문 매체 미들이스트아이 등에 따르면 이란이 새로 설립한 페르시아만해협청(PGSA)은 서한을 통해 MOU에 근거한 60일 이후에는 선박에 수수료를 부과할 가능성을 시사하고 있다.",
-      "해운정보전문매체 로이즈리스트에 따르면 서한에는 “이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n73b87f3a",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "1시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260620222904",
-    "title": "이로운솔루션 \"유럽 비파괴검사 시장 공략\"...'2026 ECNDT' 참가",
-    "summary": [
-      "[지디넷코리아]이로운솔루션(영문명 ERSolution, 대표 이정호)은 지난 15~19일 이탈리아 베로나에서 열린 '2026 ECNDT(European Conference on Non-Destructive Testing, 유럽 비파괴검사 학술대회)'에 참가해 자사의 ERUT 솔루션을 전시 및 공개했다.회사의 이번 참가는 프랑스 글로벌 초음파 검사 장비 제조사 TPAC와 UTIS(TPAC, IMASONIC의 합작 원자력발전 전문 비파괴검사 솔루션."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n40ad77f5",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026062081847",
-    "title": "[속보] 이란군 \"호르무즈 다시 봉쇄…미·이스라엘 종전 MOU 위반 탓\"",
-    "summary": [
-      "[속보] 이란군 \"호르무즈 다시 봉쇄…미·이스라엘 종전 MOU 위반 탓\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n55425300",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "1시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260620220252",
-    "title": "[인사] 한국인터넷진흥원(KISA)",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9dfc2197",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606185415i",
-    "title": "\"삼성·SK하이닉스에 '이것' 더해라\"…수익률 78% 낸 1위의 승부수",
-    "summary": [
-      "\"삼성·SK하이닉스에 '이것' 더해라\"…수익률 78% 낸 1위의 승부수."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n42f7e3e9",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026062081747",
-    "title": "트럼프 \"伊총리, 지지율 높이려 '사진 찍자' 요청\" 주장",
-    "summary": [
-      "트럼프 \"伊총리, 지지율 높이려 '사진 찍자' 요청\" 주장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n68f6a279",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260620/134148972/1",
-    "title": "“美, 카타르와 이란 동결 자금 60억달러 해재 협의”",
-    "summary": [
-      "미국이 카타르에 동결된 이란 자금 60억 달러(약 9조2200억원)를 인도주의적 물품 구매 등에 사용할 수 있도록 하는 방안을 카타르와 협의하고 있다고 월스트리트저널(WSJ)이 19일(현지 시간) 보도했다.",
-      "신문은 소식통들을 인용해 이같이 전했다.",
-      "아직 협의는 완료되지 않았으나 카타르는 해당 동결 자금을 이란 중앙은행이 주문한 식량, 의약품 및 기타 인도적 지원 물품을 살 수 있도록 허용할 전망이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -626,20 +633,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "3370건",
+    "trend": "+415%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
