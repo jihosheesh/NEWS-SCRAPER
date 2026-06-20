@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-20 12:31:41
+// 마지막 업데이트: 2026-06-20 13:31:59
 window.NEWS_DB = [
   {
     "id": "na35b331b",
     "category": "IT",
     "source": "문화일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
     "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nb113d6f2",
     "category": "IT",
     "source": "데일리안",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
     "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
     "summary": [
@@ -330,26 +330,194 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n36acb642",
+    "id": "na4946a50",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676882",
-    "title": "문경서 트럭 추락하고 중부고속도로 3중 추돌…1명 심정지·5명 부상",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/06/20/4HZXDVG45VGVNJM73BIKTGMYDQ/",
+    "title": "이준환, 울란바타르 유도 그랜드슬램 금메달",
     "summary": [
-      "[문경=뉴시스]송종욱 기자 = 20일 오후 1시7분께 경북 문경시 산북면 한 농로 커브에서 1t 트럭이 2m 아래로 추락하는 사고가 발생했다.",
-      "이 사고로 조수석 탑승자 70대 여성이 심정지로 구조되고, 동승자 2명(70대 남녀 2명)이 다쳐 병원으로 옮겼다.",
-      "앞서 이날 오전 9시12분께 문경시 불정동 중부내륙고속도로 창원 방향에서 코란도·셀토스·카니발 3대의 승용차가 추돌했다."
+      "이준환, 울란바타르 유도 그랜드슬램 금메달."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n75cb0f4c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/GBSTANJUGUZDMNJXMM3GKY3EG4/",
+    "title": "이현이, 프라다→미우미우까지···내돈내산 새 옷 거저 내놔('워킹맘이현이')",
+    "summary": [
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] '워킹맘이현이' 이현이가 플리마켓을 위해 명품 브랜드 의류를 내놨다.20일 이현이의 유튜브에서는 ‘시장경제를 파괴한다… 모델 이현이가 플리마켓을 열면 생기는 일(파격 할인, 사장님이 미쳤어요)’이란 영상이 공개됐다.이현이는 “아끼지만 퍼스널 컬러에 안 맞는다든지, 예쁘지만 저보다 더."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc157012d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/20/GM2GCODEGE4TIZDDMVSGMZJYMQ/",
+    "title": "6연패 끊은 영웅은 페라자였다…817일 만의 멀티포, 김경문 2000경기 선물 [오!쎈 대전]",
+    "summary": [
+      "[OSEN=대전, 손찬익 기자] 침묵하던 방망이가 가장 필요한 순간 폭발했다.",
+      "프로야구 한화 이글스 외국인 타자 요나단 페라자가 817일 만에 멀티 홈런을 터뜨리며 팀의 6연패 탈출을 이끌었다.한화는 20일 대전한화생명볼파크에서 열린 삼성 라이온즈와의 홈경기에서 타선의 집중력을 앞세워 분위기 반전에 성공했다.",
+      "특히 페라자의 홈런이 경기 흐름을 완전히 바꿔놓."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf139b1e6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/MY4TKNZZMVSDCNTBMNRTAMZRMQ/",
+    "title": "임지연, 허남준 살리고 코마 상태 \"모든 걸 잊고 평온해져\"('멋진 신세계')",
+    "summary": [
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘멋진 신세계’ 임지연이 과거 조선으로 돌아가 허남준을 살린 후 코마 상태에 빠졌다.20일 방영한 SBS 금토드라마 ‘멋진 신세계’(연출 한태섭, 극본 강현주, 제작 스튜디오S·길픽쳐스) 최종화에서는 칼에 맞은 차세계(허남준 분)가 과거 이현이었던 시절 다시 돌아온 신서리, 즉 강단."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56de795c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676884",
+    "title": "\"이란, 호르무즈 통항 선박에 '향후 보험 수수료' 시사\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 이란이 미국과의 종전 양해각서(MOU)를 바탕으로 호르무즈 해협을 통항하는 선박에 '보험 수수료(insurance fees)'를 받을 수 있다는 외신의 보도가 나왔다.",
+      "19일(현지 시간) 파이낸셜타임스(FT), 중동 전문 매체 미들이스트아이 등에 따르면 이란이 새로 설립한 페르시아만해협청(PGSA)은 서한을 통해 MOU에 근거한 60일 이후에는 선박에 수수료를 부과할 가능성을 시사하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6217ced5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676891",
+    "title": "[속보]이란 \"호르무즈 해협 차단…레바논 휴전 위반 대응\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1047336",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620043300109",
+    "title": "'러 점령' 자포리자 원전 또 전력 끊겨…전쟁 발발 후 20번째",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 우크라이나 남부 자포리자 원자력발전소에서 또다시 정전이 발생하면서 방사성 물질 유출 우려가 커지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nde2854d0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620044800009",
+    "title": "[속보] 이란군 \"호르무즈 다시 봉쇄…미·이스라엘 탓\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n55bba942",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676890",
+    "title": "[부고]김익환(교원그룹 홍보팀 파트장)씨 부친상",
+    "summary": [
+      "[서울=뉴시스] ▲김갑연씨 별세, 김정달·익환(교원그룹 홍보팀 파트장)씨 부친상= 20일, 교원예움 서서울장례식장 402호, 발인 22일 오전 6시 30분, 장지 서울시립승화원-광명메모리얼파크."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n67286882",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260619142700005",
+    "title": "'나는 몰라요'·'이웃사촌' 부른 가수 옥희 암 투병 끝에 별세",
+    "summary": [
+      "(서울=연합뉴스) 이태수 기자 = 히트곡 '나는 몰라요'·'이웃사촌' 등으로 1970년대 인기를 누린 가수 옥희가 20일 오후 암 투병 끝에 별..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6a97d7ec",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620044400527",
+    "title": "동해남부먼바다 풍랑경보…경북 앞바다 등 5곳 풍랑주의보 유지",
+    "summary": [
+      "(울산=연합뉴스) 기상청은 20일 오후 11시를 기해 동해남부북쪽바깥먼바다·동해남부북쪽안쪽먼바다에 풍랑경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83ef02d6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676889",
+    "title": "'투표함 강제이송 안 한다'던 선관위, 11시간 후 경찰에 긴급 이송 요청",
+    "summary": [
+      "[서울=뉴시스]하지현 기자 = 서울시선거관리위원회(선관위)가 6·3 지방선거 당시 투표용지 부족 사태가 발생한 서울 송파구 잠실7동 제2투표소를 두고 '투표함 이송을 강행하지 않겠다'고 밝힌 지 약 11시간 만에 경찰에 투표함 이송 지원을 요청했던 것으로 파악됐다.",
+      "20일 김은혜 국민의힘 의원이 중앙선관위로부터 제출받은 자료에 따르면, 서울시선관위는 지난 4일 오후 3시18분 송파경찰서에 '투표함 개표소 이동 관련 경찰 원조 협조 요청' 공문을."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n68f6a279",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "40분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260620/134148972/1",
+    "title": "“美, 카타르와 이란 동결 자금 60억달러 해재 협의”",
+    "summary": [
+      "미국이 카타르에 동결된 이란 자금 60억 달러(약 9조2200억원)를 인도주의적 물품 구매 등에 사용할 수 있도록 하는 방안을 카타르와 협의하고 있다고 월스트리트저널(WSJ)이 19일(현지 시간) 보도했다.",
+      "신문은 소식통들을 인용해 이같이 전했다.",
+      "아직 협의는 완료되지 않았으나 카타르는 해당 동결 자금을 이란 중앙은행이 주문한 식량, 의약품 및 기타 인도적 지원 물품을 살 수 있도록 허용할 전망이다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n43e24c5a",
     "category": "IT",
     "source": "테크M",
-    "time": "2분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152774",
     "title": "[글로벌] 트럼프 \"애플도 인텔과 손잡았다\"...미국 반도체 동맹 확대",
     "summary": [
@@ -365,26 +533,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n772b7e0c",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676867",
-    "title": "\"美, 카타르와 이란 동결 자금 60억달러 해재 협의\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 미국이 카타르에 동결된 이란 자금 60억 달러(약 9조2200억원)를 인도주의적 물품 구매 등에 사용할 수 있도록 하는 방안을 카타르와 협의하고 있다고 월스트리트저널(WSJ)이 19일(현지 시간) 보도했다.",
-      "신문은 소식통들을 인용해 이같이 전했다.",
-      "아직 협의는 완료되지 않았으나 카타르는 해당 동결 자금을 이란 중앙은행이 주문한 식량, 의약품 및 기타 인도적 지원 물품을 살 수 있도록 허용할 전망이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n1d5eddb7",
     "category": "IT",
     "source": "테크M",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152773",
     "title": "[글로벌] 아마존 \"트레이니엄, AWS 밖에서도 판다\"...엔비디아 독주에 도전장",
     "summary": [
@@ -402,7 +554,7 @@ window.NEWS_DB = [
     "id": "n791db764",
     "category": "IT",
     "source": "테크M",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152772",
     "title": "[글로벌] 바이트댄스가 쏘아올린 中 2선 AI칩 반란...일루바타 등 '엔비디아 대체' 시동",
     "summary": [
@@ -417,58 +569,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n80b59569",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676777",
-    "title": "해남서 승용차-오토바이 충돌…2명 숨져",
-    "summary": [
-      "[해남=뉴시스] 김석훈 기자 = 전남 해남에서 20일 승용차와 오토바이가 충돌해 오토바이 탑승자 2명이 숨졌다.",
-      "경찰 등에 따르면 이날 오후 7시 35분께 해남군 현산면의 한 교차로 인근 도로에서 승용차와 오토바이의 충돌 사고가 접수됐다.",
-      "이 사고로 오토바이에 타고 있던 남성 2명이 중상을 입고 인근 병원으로 옮겨졌으나 결국 숨졌다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9c69d181",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/20/HBRTANLFGNTDIMTCMY3WGOLGGQ/",
-    "title": "1-4→10-4 대전 뒤집혔다! 페라자 817일 만의 멀티포…한화 6연패 탈출 [대전 리뷰]",
-    "summary": [
-      "[OSEN=대전, 손찬익 기자] 프로야구 한화 이글스가 드디어 6연패의 늪에서 벗어났다.",
-      "한화는 20일 대전한화생명볼파크에서 열린 삼성 라이온즈와의 홈경기에서 막강 화력을 앞세워 10-4 승리를 거뒀다.",
-      "김경문 감독은 KBO 역대 4번째 2000경기 출장 기록을 세웠다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n70c2ea5d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676881",
-    "title": "1229회 로또 1등 각 35억씩…자동 5명·수동 2명·반자동 1명(종합)",
-    "summary": [
-      "[서울=뉴시스]최은수 기자 = 20일 제1229회 동행복권 로또 추첨 결과 12, 13, 29, 34, 37, 42가 1등 당첨 번호로 결정됐다.",
-      "2등 보너스 번호는 16이다.",
-      "6개 번호를 모두 맞춘 1등 당첨자는 8명이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2b637f8d",
     "category": "사회",
     "source": "동아일보",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260620/134148956/1",
     "title": "조국, 유시민 떠난 노무현재단에 “100만원 후원”",
     "summary": [
@@ -482,7 +586,7 @@ window.NEWS_DB = [
     "id": "n70d485a7",
     "category": "사회",
     "source": "동아일보",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260620/134148951/1",
     "title": "로또 1등 35억씩 8명…자동 선택 ‘5곳’ 명당은 어디?",
     "summary": [
@@ -495,66 +599,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8120e41f",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620043000007",
-    "title": "[부고] 박희수(프로야구 삼성 라이온즈 코치)씨 부친상",
-    "summary": [
-      "[부고] 박희수(프로야구 삼성 라이온즈 코치)씨 부친상."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n9c8af15c",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620042800007",
-    "title": "유도 이준환, 울란바타르 그랜드슬램 우승…세계랭킹 1,2위 연파",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 2024 파리 올림픽 동메달리스트 이준환(포항시청)이 국제유도연맹(IJF) 2026 울란바타르 그랜드슬램에서 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf2ab0eb",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620036551053",
-    "title": "대구 남구 주택 화재로 60대 거주자 사망(종합)",
-    "summary": [
-      "(대구=연합뉴스) 박세진 기자 = 20일 오후 4시 15분께 대구 남구 대명동 한 1층짜리 주택에서 불이 났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndad0d9cb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620042700052",
-    "title": "통영서 다이버 292명 바닷속 동시 청소…세계기록 경신",
-    "summary": [
-      "(창원·통영=연합뉴스) 정종호 기자 = 경남도 지속가능발전협의회는 20일 경남 통영시 죽림만 내죽도 수변공원 일원에서 다이버 292명이 참여한 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n397ae883",
     "category": "경제",
     "source": "아시아경제",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026062021034076225",
     "title": "1229회 로또 1등 8명…각 35억원 수령",
     "summary": [
@@ -567,74 +615,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n315e9801",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "50분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260620/134148929/2",
-    "title": "SUV 안에서 라이터 켰는데 ‘펑!’…70대 운전자 2도 화상",
-    "summary": [
-      "전북 정읍의 한 공터에 있던 스포츠유틸리티차량(SUV)에서 운전자가 라이터를 켰다가 차가 폭발했다.",
-      "내부의 인화성 물질이 폭발한 것으로 추정된다.20일 경찰과 소방 당국 등에 따르면 이날 밤 0시 39분경 전북 정읍시 구룡동의 한 공터에 있던 SUV에서 불이 나 15분 만에 진화됐다.이 불로 70대 운전자가 얼굴과 팔 등에 2도 화상을 입는 등 크게 다쳐 화상 전문 병원으로 이송된 것으로 전해졌다.해당 SUV는 모두 불에 탔고, 인근에 주차돼."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd8766ba3",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "54분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260620/134148912/2",
-    "title": "목 찔렸는데 경찰은 현장 떠나…法 “피해자에 3억5000만원 배상하라”",
-    "summary": [
-      "경찰의 부실 대응 책임을 물어 국가를 상대로 소송을 제기한 ‘인천 층간소음 흉기 난동’ 사건의 피해자가 일부 승소했다.20일 법조계에 따르면 인천지법 민사13부(부장판사 신종환)는 해당 사건 피해자 40대 여성의 가족이 국가를 상대로 낸 손해배상 청구 소송에서 원고 일부 승소 판결을 했다.법원은 부실 대응 경찰들과 국가가 함께 피해자 가족에게 3억5000만 원 가량을 지급하라고 명령했다.",
-      "법원은 피해자 측이 청구한 20억여 원 중 일부 배상 책."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n90e44e8a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "54분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/19/G5STQNZYMNSDCNJZMQZDMOJXMI/",
-    "title": "[단독] 덱스, 116만 유튜브 채널 중단 이유..“배우에 집중, 연예계 활동 중단NO”",
-    "summary": [
-      "[단독] 덱스, 116만 유튜브 채널 중단 이유..“배우에 집중, 연예계 활동 중단NO”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n242242ea",
+    "id": "n82505d39",
     "category": "경제",
     "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026062081447",
-    "title": "안양 난임병원서 20대 간호사 사망…경찰 수사 중",
+    "url": "https://www.hankyung.com/article/2026062081557",
+    "title": "1229회 로또 1등 8명…당첨금 각 35억2000만원",
     "summary": [
-      "안양 난임병원서 20대 간호사 사망…경찰 수사 중."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n3b9fb712",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026062016455944326",
-    "title": "휴전 합의에도 레바논 공습한 이스라엘…5명 사망",
-    "summary": [
-      "이스라엘이 레바논 무장정파 헤즈볼라와 휴전을 합의한 지 몇시간 뒤에도 레바논 남부를 공격해 5명이 숨졌다.",
-      "20일(현지시간) AFP 등 주요 외신들은 레바논 국영 NAA 통신을 인용해 이같이 전했다.",
-      "보도에 따르면 이스라엘군은 이날 새벽 전투기와 드론을 이용해 레바논 남부 나바티에 10여곳을 공습했다."
+      "1229회 로또 1등 8명…당첨금 각 35억2000만원."
     ],
     "chips": [
       "#뉴스"
@@ -647,8 +635,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
