@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-20 15:31:41
+// 마지막 업데이트: 2026-06-20 16:28:52
 window.NEWS_DB = [
   {
     "id": "na35b331b",
     "category": "IT",
     "source": "문화일보",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
     "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nb113d6f2",
     "category": "IT",
     "source": "데일리안",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
     "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
     "summary": [
@@ -170,21 +170,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n70cb7884",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLNml0UVlkZExTUmFkVE9qQXFCQndOOXZrM2sxdnhnemVmTFYtNXFFMUJMeGZmZGJBSlJwY1hHTjY5S0dSV2kzMzVsMVh2QUhJbWlpX1FNQUVwLTlxcUlRMktwejRzRXRyc0dF?oc=5",
-    "title": "여주시 취업기회 활짝, 6월 일자리드림데이 개최!",
-    "summary": [
-      "여주시 취업기회 활짝, 6월 일자리드림데이 개최! 투데이경제."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n54eac02a",
     "category": "부동산",
     "source": "프라임경제",
@@ -239,6 +224,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n02951820",
+    "category": "사회",
+    "source": "투데이경제",
+    "time": "31일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aDJKXzJKVm1ROEQ4dmlnNlNnX2hORkVmWGhHay1EVVFBOS14cjczVDMzaWlHM2dKcWZ1eE5fa3p3Wks0UXdmM2YtVnpIWU9QRTR4dUFHYzZfRThyTDBMRUw3LVZ4MWR5b19Z?oc=5",
+    "title": "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용",
+    "summary": [
+      "수원특례시, 5월 '일자리 두드림 구인·구직의 날' 개최한다… 6개 업체 참여해 20명 채용 투데이경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
       "#고용"
     ]
   },
@@ -332,178 +333,181 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc3eb49db",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003676923",
-    "title": "[속보]네타냐후, 레바논 발포 중단 지시…\"美와 협의 따른 조치\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n936a7d7f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/21/MUZWKMTBGZRGIZJWGIZDEZRYGM/",
-    "title": "박은영, ♥의사 남편 이렇게 홀렸나..1인 파인다이닝 이벤트 “숙녀 모드 돼”(전참시)",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 박은영이 의사 남편을 위해 1인 파인다이닝을 준비했다고 밝혔다.20일 방송된 MBC ‘전지적 참견 시점’에는 박은영 셰프, 아일릿 민주, 원희가 출연했다.박은영은 셰프들과 이야기를 나누며 “내가 이렇게 결혼을 일찍 할 줄 몰랐다”라고 말했다.",
-      "홍콩에서 함께 일했던 셰프는 박은영과 남편이 연애하던."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfbb42b0c",
+    "id": "n50b93e13",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/21/HEZGIZDDMEZDMNLGHFSTIYRYGI/",
-    "title": "롯데의 행복한 6선발 구상, 대만에서 영입한 日 아시아쿼터에 달렸다…첫 불펜피칭 149km 쾅!",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/21/MI3DIMRXMFRTEYRXHBSTQYRSHA/",
+    "title": "‘사인 훔치기’ 논란, 포수와 2루주자의 언쟁 \"2루에서 사인 전달 하지마\"…괴짜 감독 “1000% 아니다. 비겁하게 이길 생각 없고, 이기고 싶지도 않다”",
     "summary": [
-      "[OSEN=고척, 길준영 기자] 프로야구 롯데 자이언츠 새 아시아쿼터 외국인투수 이이무라 쇼타(28)가 첫 불펜피칭을 성공적으로 마쳤다.",
-      "이이무라는 20일 서울 고척스카이돔에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 키움 히어로즈와의 경기에 앞서 불펜피칭을 소화했다.",
-      "60구 가량을 던지며 직구, 슬라이더, 싱커 등 전체적인 구종을 모두 점검했."
+      "[OSEN=한용섭 기자] 일본프로야구에서 ‘사인 훔치기’ 논란이 벌어졌다.",
+      "양 팀 감독이 경기 후 그라운드에서 대화를 나누며 오해를 풀었다.",
+      "20일 일본 홋카이도 에스콘필드에서 열린 소프트뱅크와 니혼햄의 경기."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n8266ea03",
-    "category": "사회",
+    "id": "n31db2c9c",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/21/GE3WKMBYMZQWGZTDGYZDIN3EMY/",
-    "title": "'40억대 자산' 전원주, 최초 편의점 사전 미팅 \"4천 원으로 세 명 마셔\" ('동치미') [순간포착]",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/21/MJRWCZJXMEYGCYZYHFSDINJSG4/",
+    "title": "'9회말, 선두타자 홈런→끝내기 안타' KIA 마무리와 필승조 모두 울렸다. 개인 1호 기록은 '덤' [오!쎈 수원]",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 전원주가 2+1으로 제작진을 대접했다고 밝혔다.",
-      "20일 방송된 MBN '속풀이쇼 동치미'(이하 '동치미')에는 '피같은 돈 내가 지킨다'라는 주제로 전원주, 노사연, 이가돈, 현영, 빽가 등이 출연해 눈길을 끌었다.이날 김용만은 “아끼는 거 하면 이 분이다.",
-      "자나 깨나 아끼는 아이콘”이라."
+      "[OSEN=수원, 홍지수 기자] 프로야구 KT 위즈 외국인 타자 샘 힐리어드가 KIA 타이거즈의 불펜 필승조들을 무너뜨렸다.KT는 20일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 KIA와 시즌 8차전에서 10-9 끝내기 승리를 거뒀다.",
+      "KIA는 다 잡았던 승리가 손가락 사이로 빠져나갔다.",
+      "KIA는 9회말 5점 차 리드를 지키지 못하고 끝내기."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n750391fa",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/21/GRRWCMZVMFSWIODCGE3TSMTEGA/",
+    "title": "어? 롯데 혹시..? 10위 추락 후 4연승 → 반짝 반등이냐 추세 전환이냐",
+    "summary": [
+      "[스포츠조선 한동훈 기자] 롯데 자이언츠가 바닥을 치고 바로 올라왔다.",
+      "지난주 10위까지 추락했다.",
+      "9위를 거쳐 8위까지 빠르게 수복했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n35af3f10",
+    "id": "n679fe10e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/21/H7L3ISCDCFDFFDTCA7N22JKAJE/",
+    "title": "진보 도시 뉴욕의 닉스, 백악관 갈까?...구단주 “초청 수락”",
+    "summary": [
+      "진보 도시 뉴욕의 닉스, 백악관 갈까?...구단주 “초청 수락”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad56e325",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676910",
-    "title": "이란 대표단·밴스 모두 스위스행…美·이란 후속 협상 착수",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003675971",
+    "title": "\"흔들리지 않는 내면을 가져라\"… 마음정비 전문가가 조언하는 훈련법",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = 미국과 이란이 최근 도출한 양해각서(MOU) 이행을 위한 후속 협상을 위해 스위스로 향한다.",
-      "이란 정부가 20일(현지 시간) 미국과의 잠정 합의 이행 문제를 논의하기 위해 대표단을 스위스로 파견한다고 밝혔다.",
-      "이란 국영 TV는 이란 대표단이 미국 측에 잠정 합의에 따른 의무를 이행할 것을 요구하기 위해 스위스로 향한다고 보도했다."
+      "[서울=뉴시스]허준희 인턴 기자 = 흔들리지 않는 단단한 내면을 갖기 위해 정체성을 확립하고 감정과 반응 사이의 공간을 확보하는 등 꾸준한 마음 정비 훈련이 필요하다는 전문가의 조언이 나왔다.",
+      "18일 구독자 7만명을 보유한 유튜브 채널 '한창수의 마음정비소'에서 고려대학교 의과대학 정신건강의학과 한창수 교수는 \"상담 현장에서 사람마다 가진 그릇의 차이를 매일 실감한다\"며 단단하고 넓은 내면을 가진 이들의 특징을 설명했다."
     ],
     "chips": [
-      "#뉴스"
+      "#교육",
+      "#의료"
     ]
   },
   {
-    "id": "n8a7892d1",
+    "id": "n7ca77c35",
     "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/21/IHXHZX2LG5CTDBZVSSNNB46KSE/",
-    "title": "9조원대 이란 동결 자금 먼저 해제 되나...“美, 카타르와 협의”",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003676924",
+    "title": "네타냐후, 레바논 발포 중단 지시…\"美와 협의 따른 조치\"",
     "summary": [
-      "9조원대 이란 동결 자금 먼저 해제 되나...“美, 카타르와 협의”."
+      "[서울=뉴시스] 이재은 기자 = 베냐민 네타냐후 이스라엘 총리가 20일(현지 시간) 레바논에서의 군사 행동 수위를 조절하도록 자국군에 지시했다는 보도가 나왔다.",
+      "이스라엘 채널12 뉴스에 따르면 네타냐후 총리와 이스라엘 카츠 국방장관은 이날 이스라엘군(IDF)에 \"레바논 내에서 사격을 자제하라\"는 지시를 내렸다.",
+      "매체는 이번 지시가 정치 지도부와 미국 간 협의에 따른 결정이라고 전했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "nc6496171",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620047200104",
-    "title": "파키스탄 \"미·이란 실무급 회담 21일 스위스서 개최\"",
-    "summary": [
-      "(자카르타=연합뉴스) 손현규 특파원 = 미국과 이란의 종전 협상을 중재하는 파키스탄이 오는 21일(현지시간) 스위스에서 양국의 대면 회담이 열린..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef3a51e5",
+    "id": "n835f22c2",
     "category": "사회",
     "source": "뉴시스",
     "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676660",
-    "title": "최준희 \"무조건 굶으면 작심삼일\"…식단 강박 버리는 꿀팁 공개",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676765",
+    "title": "내가 만드는 첫 동화…금샘도서관, 인문학 프로그램 운영",
     "summary": [
-      "[서울=뉴시스]정우영 인턴 기자 = 배우 고(故) 최진실의 딸이자 인플루언서 최준희가 자신만의 다이어트 철학을 공유했다.",
-      "최준희는 최근 자신의 인스타그램 스토리에 \"무조건 굶으면서 다이어트하려면 작심삼일로 끝나버리기 때문에 우선 강박부터 버려야 오래간다\"며 음식을 먹는 자신의 모습을 올렸다.",
-      "이어 \"강박 갖고 참다가 한번 터져서 폭식하는 게 다이어트 망하는 지름길인 거 아시죠\"라며 \"나도 최근에 미국에서 너무 잘 먹어서 다시 다이어트에 돌입했다."
+      "[부산=뉴시스]원동화 기자 = 부산 금정구 금샘도서관은 문화체육관광부가 주최하고 한국문화예술교육진흥원과 한국도서관협회가 주관하는 '올해 도서관 길 위의 인문학' 공모사업에 선정돼 27일부터 동화책 창작 프로그램 '내가 만드는 첫 동화'를 운영한다고 21일 밝혔다.",
+      "이번 프로그램은 현직 동화작가와 함께 동화 창작의 기초 이론부터 작품 구상, 합평, 퇴고, 삽화 선정, 편집 과정을 거쳐 한 권의 동화책을 완성하고 출간까지 경험할 수 있도록 구성됐다."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "n51e3d3bc",
+    "id": "n3b1d5e33",
     "category": "사회",
     "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676668",
-    "title": "\"식이섬유, 항산화 성분에 단백질까지\"…최은경의 '천연 위고비 식단'",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260619_0003675637",
+    "title": "부산 사하구 홍티예술촌, 입주작가 릴레이 전시…11월까지 운영",
     "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 방송인 최은경(53)이 '천연 위고비 식단'을 공개했다.",
-      "19일 최은경의 유튜브 채널에는 '몸이 무겁다면? 불 없이 만드는 여름 클린식단'이라는 제목의 영상이 올라왔다.",
-      "최은경은 영상을 통해 계란, 아보카도, 오이, 올리브유 등을 활용한 아침 식단을 공유했다."
+      "[부산=뉴시스]진민현 기자 = 부산 사하구가 운영하는 서부산 대표 창작거점공간인 홍티예술촌이 입주작가들의 릴레이 전시를 선보인다.",
+      "부산 사하구청은 지역 예술 활성화와 시민들의 문화예술 향유 기회 확대를 위해 홍티예술촌에서 오는 11월까지 '2026 전시공간 운영사업'을 진행한다고 21일 밝혔다.",
+      "홍티예술촌은 사하구 다대동에 위치한 레지던시형 예술창작공간으로, 지역 작가들의 창작과 전시 활동을 지원하고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n24190338",
-    "category": "사회",
+    "id": "nb9581200",
+    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621000600007",
+    "title": "남자 배구대표팀, AVC컵 조별리그 첫 경기서 태국에 충격패",
     "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+      "(서울=연합뉴스) 김경윤 기자 = 남자 배구대표팀(세계랭킹 27위)이 2026 아시아배구연맹(AVC)컵 조별리그 첫 경기에서 태국(61위)에 충..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne7275199",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620047300071",
-    "title": "미군, 이란 '호르무즈 재봉쇄' 발표속 \"합의 이행되게 경계유지\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 이란이 미국과 이스라엘의 종전 양해각서(MOU) 위반을 이유로 호르무즈 해협의 재봉쇄를 선언한 가운데, 미..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc6cdaa89",
-    "category": "사회",
+    "id": "n01d26142",
+    "category": "경제",
     "source": "연합뉴스",
     "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620046900009",
-    "title": "이틀만에 종전 MOU 위기…이란, '호르무즈 재봉쇄' 카드 꺼냈다",
+    "url": "https://www.yna.co.kr/view/AKR20260621000400071",
+    "title": "트럼프 \"오바마, 수십억달러 퍼줬지만 할일 못해…내가 바꿨다\"",
     "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 중동 전쟁을 끝내고 핵협상 개시를 위해 합의됐던 미·이란 종전 양해각서(MOU)가 18일(현지시간) 발효된 지..."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 20일(현지시간) 2015년 버락 오바마 당시 대통령이 주도한 이란 핵합의(포..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n836fbf77",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621000500009",
+    "title": "이란 의회 의장, 대미 협상단 대표로 스위스행",
+    "summary": [
+      "(서울=연합뉴스) 강훈상 기자 = 이란의 대미 협상단 대표인 모하마드 바게르 갈리바프 의회 의장이 20일(현지시간) 미국과 협상을 위해 스위스로..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n329e19eb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621000300085",
+    "title": "유럽 40도 넘나드는 폭염 비상…프랑스, 거리축제 금주령",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 유럽 각지에서 기온이 올라가면서 주말부터 내주 초까지 40도를 넘나드는 폭염이 예보됐다."
     ],
     "chips": [
       "#뉴스"
@@ -513,7 +517,7 @@ window.NEWS_DB = [
     "id": "n578ab990",
     "category": "경제",
     "source": "한국경제",
-    "time": "57분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202606208199i",
     "title": "이란군 \"호르무즈 다시 봉쇄\"…美-파키스탄 \"21일 협상 재개\" [이상은의 워싱턴나우]",
     "summary": [
@@ -527,7 +531,7 @@ window.NEWS_DB = [
     "id": "n0f1bf7d8",
     "category": "경제",
     "source": "한국경제",
-    "time": "58분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026062081987",
     "title": "밴스 美 부통령 \"이란과 스위스서 협상, 이르면 21일 시작\"",
     "summary": [
@@ -541,7 +545,7 @@ window.NEWS_DB = [
     "id": "n31cb9a6b",
     "category": "사회",
     "source": "ZDNet Korea",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260620232656",
     "title": "유비소프트 공동창업자 클로드 기예모, 경비행기 추락 사고로 사망",
     "summary": [
@@ -556,7 +560,7 @@ window.NEWS_DB = [
     "id": "nada32285",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062081957",
     "title": "이란, 호르무즈 재봉쇄 선언…미국과 담판 위해 스위스행",
     "summary": [
@@ -570,7 +574,7 @@ window.NEWS_DB = [
     "id": "ne63042c1",
     "category": "사회",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026062023004602526",
     "title": "화성시의회 문화복지위원회, 황금해안길 임시 개통 앞두고 현장점검",
     "summary": [
@@ -586,7 +590,7 @@ window.NEWS_DB = [
     "id": "n6d24f3c9",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062081917",
     "title": "밴스 美 부통령 \"이란이 호르무즈 봉쇄하고 있다는 증거 안 보여\"",
     "summary": [
@@ -600,7 +604,7 @@ window.NEWS_DB = [
     "id": "nf1f7df1f",
     "category": "경제",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260620/134148989/1",
     "title": "네타냐후, 결국 종전 흔들었다…이란 “호르무즈 재봉쇄”",
     "summary": [
@@ -616,7 +620,7 @@ window.NEWS_DB = [
     "id": "nb149c051",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260620/134148980/1",
     "title": "[속보]이란군 “호르무즈 재봉쇄…美·이스라엘 종전 합의 위반”",
     "summary": [
@@ -633,8 +637,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3370건",
-    "trend": "+415%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
