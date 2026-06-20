@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-20 11:36:51
+// 마지막 업데이트: 2026-06-20 12:31:41
 window.NEWS_DB = [
   {
     "id": "na35b331b",
     "category": "IT",
     "source": "문화일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
     "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nb113d6f2",
     "category": "IT",
     "source": "데일리안",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
     "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
     "summary": [
@@ -167,6 +167,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n54eac02a",
+    "category": "부동산",
+    "source": "프라임경제",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWTTNhcGcya25mdG1tMlJuVFhQSTBsQlVVM0xsR1lyTkQwb25RZnZ0R0tDQVJYNlhqZU52azZ4dTJVSGlrWW5xRDJ5N0VDaXZ1QUZZMWlkUUNQOXUzWTJKc1NxQzJoZw?oc=5",
+    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
+    "summary": [
+      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -193,21 +207,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n72b90564",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
-    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
-    "summary": [
-      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
     ]
   },
   {
@@ -331,10 +330,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n36acb642",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676882",
+    "title": "문경서 트럭 추락하고 중부고속도로 3중 추돌…1명 심정지·5명 부상",
+    "summary": [
+      "[문경=뉴시스]송종욱 기자 = 20일 오후 1시7분께 경북 문경시 산북면 한 농로 커브에서 1t 트럭이 2m 아래로 추락하는 사고가 발생했다.",
+      "이 사고로 조수석 탑승자 70대 여성이 심정지로 구조되고, 동승자 2명(70대 남녀 2명)이 다쳐 병원으로 옮겼다.",
+      "앞서 이날 오전 9시12분께 문경시 불정동 중부내륙고속도로 창원 방향에서 코란도·셀토스·카니발 3대의 승용차가 추돌했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
     "id": "n43e24c5a",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "2분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152774",
     "title": "[글로벌] 트럼프 \"애플도 인텔과 손잡았다\"...미국 반도체 동맹 확대",
     "summary": [
@@ -350,10 +365,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n772b7e0c",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676867",
+    "title": "\"美, 카타르와 이란 동결 자금 60억달러 해재 협의\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 미국이 카타르에 동결된 이란 자금 60억 달러(약 9조2200억원)를 인도주의적 물품 구매 등에 사용할 수 있도록 하는 방안을 카타르와 협의하고 있다고 월스트리트저널(WSJ)이 19일(현지 시간) 보도했다.",
+      "신문은 소식통들을 인용해 이같이 전했다.",
+      "아직 협의는 완료되지 않았으나 카타르는 해당 동결 자금을 이란 중앙은행이 주문한 식량, 의약품 및 기타 인도적 지원 물품을 살 수 있도록 허용할 전망이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n1d5eddb7",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "4분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152773",
     "title": "[글로벌] 아마존 \"트레이니엄, AWS 밖에서도 판다\"...엔비디아 독주에 도전장",
     "summary": [
@@ -371,7 +402,7 @@ window.NEWS_DB = [
     "id": "n791db764",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "5분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152772",
     "title": "[글로벌] 바이트댄스가 쏘아올린 中 2선 AI칩 반란...일루바타 등 '엔비디아 대체' 시동",
     "summary": [
@@ -386,132 +417,204 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n25b88c6e",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260620/134148941/1",
-    "title": "경찰, 잠실 개표소 시위 현장서 가스총 소지 80대 적발",
-    "summary": [
-      "6·3 지방선거 투표용지 부족 사태와 관련한 ‘개표소 봉쇄 시위’가 16일째 이어지고 있는 가운데 가스총을 소지한 80대 남성이 경찰에 적발됐다.20일 뉴시스 취재를 종합하면 이날 오후 1시께 서울 송파구 올림픽공원 핸드볼경기장 1-3 게이트 인근에서 80대 남성 A씨가 가스총 1개를 소지하고 있는 것을 경찰이 발견했다.경찰은 A씨를 현장 밖으로 이동시켜 총포소지허가증을 확인한 뒤 귀가 조치했다.오후 1시30분께는 40대 여성 1명이 같은 장소."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7b7c4c64",
+    "id": "n80b59569",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676862",
-    "title": "조혜련, 대학로 극장 인수…\"편하게 연극하고 싶어서\"",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676777",
+    "title": "해남서 승용차-오토바이 충돌…2명 숨져",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 코미디언 조혜련이 극장을 인수했다고 밝혔다.",
-      "20일 유튜브 채널 '뜬뜬'에는 '누나들은 핑계고'라는 제목의 영상이 공개됐다.",
-      "공개된 영상에는 코미디언 조혜련, 이경실, 김지선이 게스트로 출연했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ncd3043c9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676866",
-    "title": "'인천 층간소음 흉기난동' 피해자 일부 승소…국가·경찰 3억5000만원 배상",
-    "summary": [
-      "[인천=뉴시스] 김지현 기자 = 2021년 발생한 '인천 층간소음 흉기난동' 사건과 관련해 피해자 가족이 경찰의 부실 대응 책임을 물어 국가를 상대로 제기한 손해배상 소송에서 일부 승소했다.",
-      "20일 법조계 등에 따르면 인천지법 민사13부(부장판사 신종환)는 피해자인 A(40대·여)씨와 가족들이 국가를 상대로 낸 손해배상 청구 소송에서 원고 일부 승소 판결을 내렸다.",
-      "법원은 당시 현장에 출동했던 경찰관과 국가가 함께 A씨 가족에게 약 3억5000."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne63a1ac3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676858",
-    "title": "\"일본행 단체여행 모집하던 中여행사, 모집 중단…中정부 압력 가능성\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 일본행 단체여행객을 모집하던 중국 국유 여행회사가 갑자기 모집을 중단했다고 20일 요미우리신문이 보도했다.",
-      "보도에 따르면 중국 국유 관광 대기업 '중국여유집단' 산하 여행사는 여름 휴가철인 7~8월에 도쿄와 오사카 등을 둘러보는 6박7일 일본 여행 상품 참가자를 모집하고 있었다.",
-      "이 회사 관계자는 지난 19일 오후 \"복수의 신청자가 있다\"고 신문에 밝혔다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n510f7b46",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620041600065",
-    "title": "인천 공장서 염화수소 추정 가스 누출…\"인명피해 없어\"",
-    "summary": [
-      "(인천=연합뉴스) 홍현기 기자 = 20일 오후 7시 21분께 인천시 서구 원창동 한 공장에서 염화수소로 추정되는 가스가 누출됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf64ff236",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/MIZTSN3CGJSWMMZTGYZWKZJZHE/",
-    "title": "로빈♥김서연, 유산 아픔 딛고 임신 발표..“태명 깐느, 조심스럽고 떨려” [전문]",
-    "summary": [
-      "[OSEN=김채연 기자] 방송인 로빈과 LPG 출신 김서연이 임신 소식을 전했다.20일 로빈과 김서연은 개인 SNS를 통해 “저희에게 정말 감사하고 좋은 일이 생겼다”며 장문의 글을 게재했다.두 사람은 “이번 프랑스 여행을 떠나면서 초기임신 중이라 걱정도 정말 많았는데, 긴 일정 동안 너무나 잘 버텨준 덕분에 무사히 이렇게 소식을 전할 수 있었다”고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n46eb9fe5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/HAZGMZBWGFSTEMBXMU3DGMDFMI/",
-    "title": "'5남매 아빠' 정성호 \"다둥이 출산? 집안 내력‥아버지=16남매 중 막내\" ('만리장성규') [순간포착]",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 정성호가 다둥이는 집안 내력이라고 밝혔다.",
-      "지난 19일 유튜브 채널 ‘만리장성규’에는 '방이 부족한 5남매 아빠의 삶'이라는 제목의 영상이 게재됐다.",
-      "이날 장성규는 방송인 정성호, 아나운서 김기혁과 함께 대화를 나눴다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n52f0de58",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/20/2026062020015160423",
-    "title": "WHO \"민주콩고 의료진 에볼라로 17명 사망..총 75명 확진\"",
-    "summary": [
-      "에볼라가 확산 중인 아프리카 중부 콩고민주공화국(민주콩고)에서 보건의료 종사자 17명이 사망했다고 세계보건기구(WHO)가 19일(현지시간) 밝혔다.",
-      "영국 스카이뉴스 등에 따르면 WHO는 이날 이같이 발표하고 보건의료 종사자의 총 확진자 수는 75명이라고 했다.",
-      "이번 에볼라 유행은 지난달 중순 공식 확인됐으나 실제 발생은 그보다 수주 전부터 시작된 것이라는 분석이 나온다."
+      "[해남=뉴시스] 김석훈 기자 = 전남 해남에서 20일 승용차와 오토바이가 충돌해 오토바이 탑승자 2명이 숨졌다.",
+      "경찰 등에 따르면 이날 오후 7시 35분께 해남군 현산면의 한 교차로 인근 도로에서 승용차와 오토바이의 충돌 사고가 접수됐다.",
+      "이 사고로 오토바이에 타고 있던 남성 2명이 중상을 입고 인근 병원으로 옮겨졌으나 결국 숨졌다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
+    "id": "n9c69d181",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/20/HBRTANLFGNTDIMTCMY3WGOLGGQ/",
+    "title": "1-4→10-4 대전 뒤집혔다! 페라자 817일 만의 멀티포…한화 6연패 탈출 [대전 리뷰]",
+    "summary": [
+      "[OSEN=대전, 손찬익 기자] 프로야구 한화 이글스가 드디어 6연패의 늪에서 벗어났다.",
+      "한화는 20일 대전한화생명볼파크에서 열린 삼성 라이온즈와의 홈경기에서 막강 화력을 앞세워 10-4 승리를 거뒀다.",
+      "김경문 감독은 KBO 역대 4번째 2000경기 출장 기록을 세웠다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n70c2ea5d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676881",
+    "title": "1229회 로또 1등 각 35억씩…자동 5명·수동 2명·반자동 1명(종합)",
+    "summary": [
+      "[서울=뉴시스]최은수 기자 = 20일 제1229회 동행복권 로또 추첨 결과 12, 13, 29, 34, 37, 42가 1등 당첨 번호로 결정됐다.",
+      "2등 보너스 번호는 16이다.",
+      "6개 번호를 모두 맞춘 1등 당첨자는 8명이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2b637f8d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260620/134148956/1",
+    "title": "조국, 유시민 떠난 노무현재단에 “100만원 후원”",
+    "summary": [
+      "조국 전 조국혁신당 대표가 노무현재단에 100만원을 후원한 사실을 알렸다.조 전 대표는 20일 자신의 소셜네트워크서비스(SNS)를 통해 “노무현재단에 일시후원을 했다”며 100만원 후원 내역을 공개했다.그러면서 “노무현재단은 2009년 노무현 대통령 49재 안장식에서 문재인, 한명숙, 유시민 등 참여정부 인사들이 설립계획을 발표한 후 설립됐다”며 “초대 이사장에 한명숙, 이후 문재인, 이병완, 이해찬, 유시민, 정세균, 차성수 등이 차례로 이사."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n70d485a7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260620/134148951/1",
+    "title": "로또 1등 35억씩 8명…자동 선택 ‘5곳’ 명당은 어디?",
+    "summary": [
+      "20일 제1229회 로또 1등 당첨 번호는 ‘12·13·29·34·37·42’로 결정됐다.",
+      "보너스 번호는 ‘16’이다.당첨 번호 6개를 모두 맞힌 1등은 8명이다.",
+      "이들은 각각 35억1975만9000원을 받는다.당첨 번호 5개와 보너스 번호를 맞힌 2등은 89명으로, 각각 5273만472원을 수령한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8120e41f",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620043000007",
+    "title": "[부고] 박희수(프로야구 삼성 라이온즈 코치)씨 부친상",
+    "summary": [
+      "[부고] 박희수(프로야구 삼성 라이온즈 코치)씨 부친상."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n9c8af15c",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620042800007",
+    "title": "유도 이준환, 울란바타르 그랜드슬램 우승…세계랭킹 1,2위 연파",
+    "summary": [
+      "(서울=연합뉴스) 김경윤 기자 = 2024 파리 올림픽 동메달리스트 이준환(포항시청)이 국제유도연맹(IJF) 2026 울란바타르 그랜드슬램에서 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbf2ab0eb",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620036551053",
+    "title": "대구 남구 주택 화재로 60대 거주자 사망(종합)",
+    "summary": [
+      "(대구=연합뉴스) 박세진 기자 = 20일 오후 4시 15분께 대구 남구 대명동 한 1층짜리 주택에서 불이 났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndad0d9cb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620042700052",
+    "title": "통영서 다이버 292명 바닷속 동시 청소…세계기록 경신",
+    "summary": [
+      "(창원·통영=연합뉴스) 정종호 기자 = 경남도 지속가능발전협의회는 20일 경남 통영시 죽림만 내죽도 수변공원 일원에서 다이버 292명이 참여한 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n397ae883",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "27분 전",
+    "url": "https://view.asiae.co.kr/article/2026062021034076225",
+    "title": "1229회 로또 1등 8명…각 35억원 수령",
+    "summary": [
+      "제1229회 로또복권 당첨자는 8명으로 집계됐다.",
+      "이들은 각 35억여원을 받게 된다.",
+      "20일 로또복권 운영사 동행복권은 제1229회 로또 추첨 번호가 12, 13, 29, 34, 37, 42라고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n315e9801",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "50분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260620/134148929/2",
+    "title": "SUV 안에서 라이터 켰는데 ‘펑!’…70대 운전자 2도 화상",
+    "summary": [
+      "전북 정읍의 한 공터에 있던 스포츠유틸리티차량(SUV)에서 운전자가 라이터를 켰다가 차가 폭발했다.",
+      "내부의 인화성 물질이 폭발한 것으로 추정된다.20일 경찰과 소방 당국 등에 따르면 이날 밤 0시 39분경 전북 정읍시 구룡동의 한 공터에 있던 SUV에서 불이 나 15분 만에 진화됐다.이 불로 70대 운전자가 얼굴과 팔 등에 2도 화상을 입는 등 크게 다쳐 화상 전문 병원으로 이송된 것으로 전해졌다.해당 SUV는 모두 불에 탔고, 인근에 주차돼."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd8766ba3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "54분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260620/134148912/2",
+    "title": "목 찔렸는데 경찰은 현장 떠나…法 “피해자에 3억5000만원 배상하라”",
+    "summary": [
+      "경찰의 부실 대응 책임을 물어 국가를 상대로 소송을 제기한 ‘인천 층간소음 흉기 난동’ 사건의 피해자가 일부 승소했다.20일 법조계에 따르면 인천지법 민사13부(부장판사 신종환)는 해당 사건 피해자 40대 여성의 가족이 국가를 상대로 낸 손해배상 청구 소송에서 원고 일부 승소 판결을 했다.법원은 부실 대응 경찰들과 국가가 함께 피해자 가족에게 3억5000만 원 가량을 지급하라고 명령했다.",
+      "법원은 피해자 측이 청구한 20억여 원 중 일부 배상 책."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90e44e8a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "54분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/19/G5STQNZYMNSDCNJZMQZDMOJXMI/",
+    "title": "[단독] 덱스, 116만 유튜브 채널 중단 이유..“배우에 집중, 연예계 활동 중단NO”",
+    "summary": [
+      "[단독] 덱스, 116만 유튜브 채널 중단 이유..“배우에 집중, 연예계 활동 중단NO”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n242242ea",
     "category": "경제",
     "source": "한국경제",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026062081447",
     "title": "안양 난임병원서 20대 간호사 사망…경찰 수사 중",
     "summary": [
@@ -522,119 +625,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd47c7603",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/20/2026062017355695714",
-    "title": "모차르트 가르침 어땠나…248년 만에 '작곡 레슨 노트' 발견",
-    "summary": [
-      "오스트리아 출신 작곡가 볼프강 아마데우스 모차르트(1756~1791)의 교육 방식이 담긴 레슨 노트가 248년 만에 발견됐다.",
-      "프랑스 국립도서관(BnF)은 19일(이하 현지시간) 모차르트가 마지막으로 프랑스 파리에 머물던 1778년에 작성한 44쪽 분량의 레슨 노트를 확인했다고 밝혔다.",
-      "이 노트는 18세기 말 작자·제목 미상 자료로 보관돼 있었으나 프랑스산 종이와 필체, 내용, 소장 경위 등을 분석한 결과 지난 4월 모차르트의 자필 자료로 판정."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n29dc8d52",
+    "id": "n3b9fb712",
     "category": "경제",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/2026061970946",
-    "title": "\"삼전닉스만 사면 돈 버는 줄\"…레버리지 투자한 개미들 '비명' [분석+]",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026062016455944326",
+    "title": "휴전 합의에도 레바논 공습한 이스라엘…5명 사망",
     "summary": [
-      "\"삼전닉스만 사면 돈 버는 줄\"…레버리지 투자한 개미들 '비명' [분석+]."
+      "이스라엘이 레바논 무장정파 헤즈볼라와 휴전을 합의한 지 몇시간 뒤에도 레바논 남부를 공격해 5명이 숨졌다.",
+      "20일(현지시간) AFP 등 주요 외신들은 레바논 국영 NAA 통신을 인용해 이같이 전했다.",
+      "보도에 따르면 이스라엘군은 이날 새벽 전투기와 드론을 이용해 레바논 남부 나바티에 10여곳을 공습했다."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n80dfd1c1",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620041500007",
-    "title": "[프로야구 고척전적] 롯데 7-1 키움",
-    "summary": [
-      "[프로야구 고척전적] 롯데 7-1 키움."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nf14e2313",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "33분 전",
-    "url": "https://www.hankyung.com/article/202606208119i",
-    "title": "단절과 연결 사이 '행복한 구원'…오직 둘만을 위한 반얀트리 푸켓",
-    "summary": [
-      "단절과 연결 사이 '행복한 구원'…오직 둘만을 위한 반얀트리 푸켓."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2c3d6e2d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "34분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/HEYWCYZZGBQWKMLGGMZGCOLDMM/",
-    "title": "조혜련, 하다하다 장례식장에서 섭외 쇄도 \"'홍현희 여파, 아직 공연 전인데 고민 많다\" ('핑계고') [순간포착]",
-    "summary": [
-      "조혜련, 하다하다 장례식장에서 섭외 쇄도 \"'홍현희 여파, 아직 공연 전인데 고민 많다\" ('핑계고') [순간포착]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3651da6b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620037400004",
-    "title": "[날씨] 구름 많고 강원·동해안 아침까지 비…낮 최고 30도",
-    "summary": [
-      "(서울=연합뉴스) 조현영 기자 = 절기상 하지(夏至)이자 일요일인 21일은 전국에 대체로 구름이 많고 강원 일부 지역에는 비가 내리겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9521ffe8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "36분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260620/134148926/1",
-    "title": "이스라엘, 휴전 발효 몇시간만에 또 레바논 남부 공격…최소 5명 사망",
-    "summary": [
-      "19일 밤부터 20일 새벽 사이 이스라엘이 레바논 남부 전역에 일련의 공습과 드론 공격을 가해 최소 5명이 사망했다고 레바논 국영 뉴스 통신이 20일 보도했다.이스라엘의 공습으로 아랍살림 마을에서 3명이 숨지고, 데이르 알 자흐라니에 대한 드론 공격으로 1명이 사망했으며, 두아르 마을에서 드론이 오토바이를 조준해 또 다른 1명이 사망했다.이스라엘 포병대는 20일 새벽 나바티에와 그 외곽 지역에도 포격을 가했다.이번 공격은 19일 오후 발효된 레."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5b04dbe9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "39분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260620/134148921/1",
-    "title": "WHO “민주콩고서 의료종사자 17명 사망…총 75명 확진”",
-    "summary": [
-      "에볼라가 확산하고 있는 아프리카 중부 콩고민주공화국(민주콩고)에서 보건의료 종사자 17명이 사망했다고 세계보건기구(WHO)가 19일(현지 시간) 발표했다.",
-      "영국 스카이뉴스 등에 따르면 WHO는 이날 이같이 밝히고, 보건의료 종사자의 총 확진자 수는 75명이라고 했다.",
-      "이번 에볼라 유행은 지난달 중순 공식 확인됐다."
-    ],
-    "chips": [
-      "#의료"
     ]
   }
 ];
@@ -644,8 +647,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
