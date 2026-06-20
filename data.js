@@ -1,17 +1,19 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-20 07:15:46
+// 마지막 업데이트: 2026-06-20 09:01:10
 window.NEWS_DB = [
   {
-    "id": "nd0159690",
+    "id": "na35b331b",
     "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrQ0JFLUJfUktBcjRuUjRnUmszUFVjUy1VVzRJNEZwNlRiMmtjUHBidkVyODAwM3I2LVBnZXhwT21hcEFSNTg4WmpTZV8wR2xhNzdPV0tIOEVwUjNPWWJzVFlxcy1GZ9IBakFVX3lxTE1ENTFkNjNBc2tqdGNkNUFsOXlkbzg5T3puMWkySFhmZ0Q4dzdvU01KU2lhVzZSUFhXR2pCWkFsd0NGcEhESVRjRVRldHNNQk1mVDVFSXNCcFFTMmRmTDE5Z3ZCWkNxbERyR3c?oc=5",
-    "title": "[글로벌] 아마존 '트레이니엄, AWS 밖에서도 판다'...엔비디아 독주에 도전장",
+    "source": "문화일보",
+    "time": "23분 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
+    "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진",
     "summary": [
-      "[글로벌] 아마존 '트레이니엄, AWS 밖에서도 판다'...엔비디아 독주에 도전장 테크M."
+      "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진 문화일보."
     ],
     "chips": [
+      "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -19,7 +21,7 @@ window.NEWS_DB = [
     "id": "nb113d6f2",
     "category": "IT",
     "source": "데일리안",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
     "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
     "summary": [
@@ -119,24 +121,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0325eee6",
+    "id": "n606b0fb8",
     "category": "IT",
-    "source": "v.daum.net",
+    "source": "중기이코노미",
     "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mM0pBbXo4UHF6QTlGU2JVOEJQeEg3VmtpQ1dTZ01aR2VBamVKVUhiWlQ2bkVpLWRjaDQzb1JVaXRFUVZqN3UzTzdyUE5JaWVZUTNmcQ?oc=5",
-    "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVTk1Z05BbUxORTg5SVdlZV9NR0VvVXBWZTBEYmdVZjQ0a1R1WXU1WHdqU2tWa19uM1dXb1kxX0VkYVkxSEpNMERKVlExY1I2YnZoQ3RrVFprendZVmgwV1JZdzZQRENOcWc?oc=5",
+    "title": "삼성전자, '우리가 1등이 아닌 세상'으로 가고 있는가",
     "summary": [
-      "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? v.daum.net."
+      "삼성전자, '우리가 1등이 아닌 세상'으로 가고 있는가 중기이코노미."
     ],
     "chips": [
-      "#반도체"
+      "#삼성전자"
     ]
   },
   {
     "id": "n13b4af19",
     "category": "사회",
     "source": "대학IN",
-    "time": "11일 전",
+    "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
     "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
     "summary": [
@@ -286,7 +288,7 @@ window.NEWS_DB = [
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
-    "time": "116일 전",
+    "time": "117일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
@@ -300,7 +302,7 @@ window.NEWS_DB = [
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "127일 전",
+    "time": "128일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
     "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
@@ -309,6 +311,22 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
+    ]
+  },
+  {
+    "id": "n651d90ee",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152776",
+    "title": "[타봤다] 출퇴근길 기름값 부담 줄인 쿠페형 SUV '르노 아르카나'",
+    "summary": [
+      "SUV를 고르는 기준이 달라지고 있다.",
+      "큰 차체와 넓은 공간만으로는 부족하다.",
+      "매일 출퇴근에 쓰기 부담 없어야 하고, 기름값 부담도 줄여야 한다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -331,6 +349,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1d5eddb7",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152773",
+    "title": "[글로벌] 아마존 \"트레이니엄, AWS 밖에서도 판다\"...엔비디아 독주에 도전장",
+    "summary": [
+      "아마존이 AI칩 분야에서 독주하고 있는 엔비디아 아성에 전면 도전합니다.",
+      "지난 19일 블룸버그에 따르면 아마존은 자체 개발한 인공지능(AI) 반도체를 외부 기업 데이터센터에 판매하는 방안을 협상 중입니다.",
+      "엔비디아 의존도를 낮추려는 기업들의 수요를 노리려는 전략입니다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n791db764",
     "category": "IT",
     "source": "테크M",
@@ -349,296 +385,255 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7a31c227",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152768",
-    "title": "[주말에 뭐보지] \"웃고 설레고 소름 돋는다\"...주말 OTT 정주행 추천작 총정리",
-    "summary": [
-      "반복되는 일상에 지쳤다면 이번 주말만큼은 잠시 현실을 벗어나보자.",
-      "전남편과 현남편의 좌충우돌 구출 작전부터 예측 불가한 소개팅 실험, 무도키즈들의 추억을 자극하는 특별한 레이스, 그리고 광기 어린 집착이 만들어내는 공포까지.",
-      "국내외 온라인 동영상 서비스(OTT)가 현실의 감정과 고민을 녹여내면서도 일상에서는 마주하기 어려운 이야기들이 색다른 몰입감을 선사할 예정이다.'전남편'과 '현남편'의 만남이라무료한 주말 유쾌한 웃음과 통쾌한 카타르시스를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na9a5fe27",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "n4c1eb404",
+    "category": "스포츠",
+    "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260620/134148822/1",
-    "title": "비 잦아든 강원 동해안, 이번엔 풍랑경보…최대파고 5.5m",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676796",
+    "title": "'첫 승' 브라질·'32강행' 미국 웃고 '탈락' 튀르키예·아이티 울었다[월드컵 오늘의 경기]",
     "summary": [
-      "20일 강원 동해안에 내리던 비는 오후 3시 30분 현재 소강상태를 보이고 있지만, 동해 전 해상에 풍랑경보가 내려지면서 높은 파도와 강풍에 따른 안전사고 우려가 커졌다.강원지방기상청에 따르면 이날 오후 4시를 기해 동해중부 전 해상과 강원 북부·중부·남부 앞바다에 순차적으로 풍랑경보가 발효한다.현재 동해중부 전 해상에는 초속 8~16m의 강한 바람이 불고 있으며, 물결은 2~4m, 최대파고는 6m 안팎까지 일고 있다."
+      "[과달라하라(멕시코)·서울=뉴시스]안경남 박윤서 하근수 기자 = '삼바 군단' 브라질이 2026 북중미 월드컵에서 첫 승을 신고했다.",
+      "브라질은 20일 오전 9시30분(한국 시간) 미국 펜실베이니아주 필라델피아 스타디움에서 열린 대회 조별리그 C조 2차전에서 아이티를 3-0으로 완파했다.",
+      "지난 1차전에서 모로코와 1-1로 비겼던 브라질은 2경기 만에 대회 첫 승을 거두며 1승 1무(승점 4)를 기록했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne71fa834",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/20/2026062015565786448",
-    "title": "강원 동해안 전 해상 '풍랑 경보'..기상청 \"해안가 접근 자제\"",
-    "summary": [
-      "강원 동해안에 내리던 비가 20일 오후 3시30분 기준 소강상태를 보이고 있다.",
-      "다만 동해 전 해상에 풍랑경보가 내려지면서 안전사고 우려는 커지고 있다.",
-      "뉴스1에 따르면 강원지방기상청은 이날 오후 4시 기준 동해중부 전 해상과 강원 북부·중부·남부 앞바다에 순차적으로 풍랑경보를 발효한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n70599add",
+    "id": "nf07bad04",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676807",
-    "title": "노태악, 투표 종료 40분 전에 '용지 부족' 첫 보고 받아",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676799",
+    "title": "\"피부가 설탕에 절여져\"…약사가 꼽은 피부에 최악인 음식은",
     "summary": [
-      "[서울=뉴시스]권신혁 기자 = 노태악 전 중앙선거관리위원장이 6·3 지방선거 당일, 투표 종료 40분 전에 첫 용지 부족 관련 보고를 받은 것으로 확인됐다.",
-      "20일 윤건영 더불어민주당 의원실이 중앙선관위로부터 제출받은 자료에 따르면 노 전 위원장은 지난 6월 3일 오후 5시20분께 중앙선관위 대변인의 구두 보고를 받았다.",
-      "본투표가 끝나기 40분 전에 투표 용지 부족 상황을 처음으로 인지한 셈이다."
+      "[서울=뉴시스]정우영 인턴 기자 = 여름철 피부 관리에 대한 관심이 높아지는 가운데, 일상에서 접하는 음식이 피부 노화와 트러블을 급격히 악화시킬 수 있다는 전문가 조언이 나왔다.",
+      "최근 정소민 약사는 자신의 인스타그램에 '피부에 최악인 음식 Top5'라는 제목의 영상을 올렸다.",
+      "정 약사가 꼽은 피부에 가장 치명적인 음식 1위는 콜라다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4b09bd54",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676780",
+    "title": "만성피로에 식욕부진…난소암 증상, 우울증 오진 가능성 높다",
+    "summary": [
+      "[서울=뉴시스]정우영 인턴 기자 = 난소암 환자가 겪는 신체적 증상이 우울증으로 오인돼 잘못된 진단으로 이어질 수 있다는 연구 결과가 나왔다.",
+      "16일(현지시간) 데일리메일 등 외신에 따르면 최근 국제 학술지 '암(Cancer)'에는 이같은 내용을 다룬 미 아이오와대 연구팀의 논문이 게재됐다.",
+      "현재 난소암 환자의 약 3분의 1이 우울증 진단을 받는데, 이 중 상당수가 과잉 진단됐을 가능성이 있다는 지적이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n681af69b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260620/134148876/1",
+    "title": "강원 220㎜ 물폭탄에 나무 전도·낙석 잇따라…이젠 풍랑 비상",
+    "summary": [
+      "토요일인 20일 강원 동해안에 쏟아졌던 집중호우가 잦아들면서 호우특보는 모두 해제됐지만, 동해 전 해상에는 풍랑경보가 이어지면서 해안가 안전사고 우려는 계속되고 있다.강원도소방본부에 따르면 이날 오전 5시부터 오후 4시까지 호우와 강풍으로 인한 자연재해 관련 소방활동은 모두 37건 접수됐다.",
+      "이 가운데 나무 전도 30건, 침·배수 3건, 낙석 2건, 토사 유출 1건 등이었다.지역별로는 강릉이 11건으로 가장 많았고 춘천 8건, 홍천 3건, 원주."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb7570bd0",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260620_0003676839",
+    "title": "SSG 김재환, 선제 투런포·그랜드슬램 '쾅쾅'…연타석 홈런 작렬",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 프로야구 SSG 랜더스의 베테랑 거포 김재환이 선제 투런포와 만루 홈런을 연달아 작렬했다.",
+      "김재환은 20일 창원 NC파크에서 벌어진 2026 신한 쏠 KBO리그 NC 다이노스와의 경기에 4번 지명타자로 선발 출전해 1회초와 3회초 연타석 홈런을 쏘아올렸다.",
+      "0-0으로 맞선 1회초 2사 3루 상황에 첫 타석을 맞은 김재환은 NC 우완 선발 투수 김준원을 상대로 중월 투런 홈런을 터뜨렸다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na172b5c1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/HEYWKYZZGYZDCOJZMRQTKNJUME/",
+    "title": "김용빈, 돈 얼마나 벌길래 “요즘 입금 내역 보고 인기 느껴”(‘불후’)",
+    "summary": [
+      "[OSEN=강서정 기자] 트로트 가수 김용빈이 바쁜 근황을 전했다.",
+      "20일 방송되는 KBS2 ‘불후의 명곡’(연출 김형석 최승범, 이하 ‘불후’)은 트로트 대표 절친들의 컬래버 무대를 즐길 수 있는 '트로트 절친 가왕전' 특집으로 꾸며진다.",
+      "김용빈X손빈아X추혁진을 비롯해 환희X최수호, 신승태X김준수, 한혜진X박현호, 천록담X춘길, 정근우X박구윤X김수찬, 이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd314a1cb",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620035900004",
+    "title": "잠실 떠나 홍대로 옮긴 2030…'부정선거'에 선긋고 \"재선거\" 외쳐",
+    "summary": [
+      "(서울=연합뉴스) 조현영 기자 = 서울 송파구 올림픽공원에서 '잠실 개표소 봉쇄 시위'가 16일째 이어지는 가운데 시위 초기 주축을 이루던 20..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n5e61eacd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/20/GJSDMOLFHBTDQZBTGNRTSNDGGM/",
-    "title": "\"요즘 애들 대단하네!\" 호날두 약혼녀 작심발언, 동료 여친과 제대로 붙었다...\"포르투갈 내분 논란 계속\"",
-    "summary": [
-      "[OSEN=고성환 기자] 정말 크리스티아누 호날두(41, 알 나스르)가 라커룸 분위기를 망치고 있는 걸까.",
-      "이번엔 그의 약혼녀 조지나 로드리게스가 입을 열었다.'헤코르드' 멕시코판은 19일(이하 한국시간) \"포르투갈 대표팀을 둘러싼 논란이 계속되고 있다.",
-      "조지나 로드리게스가 주앙 네베스의 여자친구가 남긴 것으로 추정되는 논란의 호날두 비판 발언에 대해 의견."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4fffd3d3",
+    "id": "nb375fa07",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/20/A73M3QTOSZEF5DRZ7ETT6YE33I/",
-    "title": "어떻게 올라온 월드컵인데... 아이티·튀르키예, 2경기 치르고 탈락 확정",
-    "summary": [
-      "어떻게 올라온 월드컵인데... 아이티·튀르키예, 2경기 치르고 탈락 확정."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1837e8b2",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/20/2026062016015779214",
-    "title": "[한번에쓱] 일요일이 기대된다 '이번 연승은 나부터 시작했지!' 사직스쿠발 김진욱",
-    "summary": [
-      "롯데 좌완선발투수 김진욱이 20일 고척스카이돔에서 열리는 2026KBO리그 키움히어로즈와 롯데자이언츠 경기를 앞두고 외야에서 피칭을 하며 몸을 풀고있다.",
-      "지난 화요일 랜더스필드에서 선발등판하며 승리투수가 된 김진욱은 롯데 3연승의 출발점이었다.",
-      "21일 일요일 김진욱이 선발등판할 예정이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5c54acc9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676804",
-    "title": "'환연4' 박현지 \"촬영 때 지퍼 안 잠갔다\" 고백",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = '환승연애4' 출연자 박현지가 비화를 공개했다.",
-      "19일 유튜브 채널 '해피해은'에는 '환연을 대표하는 메기녀들의 만남'이라는 제목의 영상이 공개됐다.",
-      "공개된 영상에서는 티빙 예능 '환승연애2' 출연자 성해은과 '환승연애4' 출연자 박현지가 만났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfadc704a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260620/134148810/2",
-    "title": "“이상한 냄새-연기 난다” 제천 폐공장 화학물질 누출 사고…긴급 재난문자 발송",
-    "summary": [
-      "충북 제천시에 있는 한 폐공장에서 유해 화학물질이 누출됐다.",
-      "다행히 인명 피해는 없는 것으로 전해졌다.20일 소방당국과 제천시 등에 따르면 이날 오전 7시 30분경 충북 제천시 왕암동 산업단지(산단) 내 폐공장에서 유해 화학물질인 염화수소(HCl) 5.4ppm, 황화수소(H₂S) 1.5ppm이 유출됐다.",
-      "유출량은 각각 배출 허용 기준인 50ppm, 10ppm을 밑도는 수준인 것으로 전해졌다.이번 유출로 인한 피해 사례는 접수되지 않았고, 인명피."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4841575c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260620/134148817/1",
-    "title": "‘김승규♥’ 김진경, SNS 댓글창 막아…“가족 비난 말라”",
-    "summary": [
-      "모델 겸 배우 김진경이 출산 과정을 공개했다.19일 모델 겸 방송인 김진경의 유튜브 채널에는 ‘드디어 달밤이 방 뺍니다! 참진경 출산 브이로그 | 달밤아 환영해’라는 제목의 영상이 공개됐다.해당 영상에는 김진경의 험난했던 출산 과정이 공개됐다.",
-      "남편 김승규 선수는 월드컵 출전으로 인해 함께하지 못 했다.김진경은 출산 후 밥을 먹으며 “죽다 살아나서 먹는 첫 끼”라고 힘들었던 출산 과정을 언급했다.이어 아이를 안은뒤 “아빠 닮았어요? 피부는 하얗."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5cf47b86",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/20/MY3GCYLFHA2TMMDFMNSGIYRZMI/",
-    "title": "유진경 치어리더, 싱그러운 미소[O! SPORTS 숏폼]",
-    "summary": [
-      "[OSEN=대전, 지형준 기자] 우중 혈투를 벌였으나 승부를 가리지 못했다.",
-      "프로야구 삼성 라이온즈와 한화 이글스는 19일 대전한화생명볼파크에서 연장 10회까지 가는 접전을 펼쳤지만 비로 인해 3-3 강우 콜드 무승부를 기록했다.",
-      "한화 유진경 치어리더가 공연 무대를 선보이고 있다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5ba79534",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260620_0003676794",
-    "title": "이도현, 월드 클라이밍 6차 대회 볼더링 동메달",
-    "summary": [
-      "[서울=뉴시스]김희준 기자 = 한국 남자 스포츠클라이밍 간판 이도현(서울시청)이 2026 국제스포츠클라이밍연맹(IFSC) 월드 클라이밍 시리즈 6차 대회 볼더링에서 동메달을 수확했다.",
-      "이도현은 20일(한국 시간) 오스트리아 인스브루크에서 열린 대회 남자 볼더링 결승에서 59.3점을 기록, 안라쿠 소라토(74.0점), 가와마타 레이(59.3점·이상 일본)에 이어 3위에 올랐다.",
-      "이도현은 은메달을 따낸 가와마타와 결승전 점수가 같았으나 준결승 성적."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6fbefb4a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/20/2026062015415711559",
-    "title": "'남의 칼' 빌려 출전했는데…펜싱 오상욱, 아시아선수권 정상 탈환",
-    "summary": [
-      "한국 남자 펜싱의 간판 오상욱(30·대전시청)이 악조건을 딛고 2년 만에 아시아선수권대회 사브르 개인전 정상에 올랐다.",
-      "오상욱은 19일(이하 현지시간) 인도 뉴델리에서 열린 2026 아시아선수권 남자 사브르 개인전 결승에서 중국의 뤄샤오퉁을 15-8로 꺾고 우승했다.",
-      "이로써 오상욱은 2024년 이후 2년 만에 아시아선수권 개인전 금메달을 탈환했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6f519c78",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003675946",
-    "title": "\"EV기반 치료제 개발\"…생산 플랫폼 구축 추진",
-    "summary": [
-      "[서울=뉴시스]송연주 기자 = 세포유전자치료제 배양배지 기업 엑셀세라퓨틱스가 경북 안동 소재 동물세포실증지원센터와 세포외소포체(EV) 기반 치료제·백신·전달체 플랫폼 구축에 나섰다.",
-      "회사는 이 같은 내용의 업무협약(MOU)을 체결했다고 20일 밝혔다.",
-      "이번 협약은 차세대 바이오의약품으로 주목받는 EV의 대량생산 공정과 핵심 소재 기술을 확보하고, 국내 EV 산업의 상용화 기반을 마련하기 위해 추진됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n577dd130",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/GBRTSNBSG42GKMBUGU2GEZBSGU/",
-    "title": "율희, '여캠' 변신 심경 고백..\"2년 고민, 선입견 강했다\"('에나분식')[순간포착]",
-    "summary": [
-      "[OSEN=선미경 기자] 그룹 라붐 출신 율희가 이혼 후 BJ로 새 출발한 심경을 솔직하게 고백했다.",
-      "지난 19일 유튜브 채널 ‘ENA 이엔에이’를 통해 공개된 ‘에나분식.",
-      "경력단절 이후 BJ? 율희, 최초 심경고백’에는 최근 틱톡 BJ로 활동하고 있는 율희가 출연했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n95ed2d19",
-    "category": "사회",
     "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620034600527",
-    "title": "양양 평지 등 강원 7곳 호우주의보 해제",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620033351007",
+    "title": "인천도시공사·SK슈가글라이더즈, 핸드볼 클럽 한일전서 우승(종합)",
     "summary": [
-      "(춘천=연합뉴스) 기상청은 양양 평지·고성 평지·속초 평지·인제 산지·양양 산지·고성산지·속초 산지에 내렸던 호우주의보를 20일 오후 4시를 기..."
+      "(서울=연합뉴스) 장현구 기자 = 2025-2026시즌 핸드볼 H리그 남자부 통합 우승을 차지한 인천도시공사와 여자부 통합 우승팀 SK슈가글라이..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n89c5b795",
+    "id": "n23e39fe8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "36분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260620/134148844/2",
+    "title": "도라전망대 가던 버스 오르막길서 굴러…도미니카인 등 10명 부상",
+    "summary": [
+      "도라전망대로 가던 관광버스 1대가 전복돼 외국인 탑승자 등 여러 명이 다쳤다.20일 소방당국에 따르면 이날 오전 11시 24분경 경기 파주시 장단면 도라산리 도라전망대로 향하던 45인승 관광버스가 주차장에 도착하기 전 도로 왼쪽으로 넘어졌다.이 사고로 도미니카공화국 국적 외국인 등 관광객 10명이 다쳐 경기 의정부, 파주, 고양 지역 병원으로 이송돼 치료를 받는 것으로 전해졌다.",
+      "당시 관광버스에는 관광객 21명이 탑승하고 있었던 것으로 전해졌다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n4b890246",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260620/134148838/2",
+    "title": "단독주택 2층 베란다 청소하다가…80대 떨어져 중상",
+    "summary": [
+      "단독주택 2층에서 베란다 청소를 하던 80대 남성이 1층으로 추락했다.20일 경찰에 따르면 이날 오전 9시 46분경 경기 안성시 양성면 산정리의 한 단독주택 2층에서 80대 남성이 추락했다.이 사고로 남성은 늑골 골절 등 중상을 입고 인근 병원으로 옮겨져 치료를 받고 있다.",
+      "다행히 생명에는 지장이 없는 것으로 전해졌다.이 남성은 홀로 베란다를 청소하는 과정에서 발을 헛디뎌 사고를 당한 것으로 조사됐다.경찰은 이번 사고를 산업 재해가 아닌 단순."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2abac5f4",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620036700063",
+    "title": "충남 홍성 아파트 5층 빈집에서 불…주민들 대피",
+    "summary": [
+      "(홍성=연합뉴스) 이주형 기자 = 20일 오후 4시 20분께 충남 홍성군 홍북읍의 한 아파트 5층 가정집에서 불이 났다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n8af79705",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "52분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260620036500053",
+    "title": "대구 남구 대명동 주택 화재…1명 숨진 채 발견",
+    "summary": [
+      "(대구=연합뉴스) 박세진 기자 = 20일 오후 4시 15분께 대구 남구 대명동 한 주택에서 불이 났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nceb8976f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260620/134148852/1",
+    "title": "6월 3일 오후 4시 25분, 선관위에 ‘용지 부족’ 항의전화…5시 20분 노태악에 구두 보고",
+    "summary": [
+      "노태악 전 중앙선거관리위원장이 6월 3일 지방선거 본투표 날 ‘투표 종료 40분 전’에 투표 용지가 부족하다는 보고를 처음 받은 것으로 나타났다.",
+      "투표 용지 부족에 항의하는 전화가 중앙선관위 선거 상황실에 걸려 온 시간은 그날 오후 4시 25분으로 확인됐다.20일 윤건영 더불어민주당 의원실이 중앙선관위에서 제출받은 자료에 따르면 노 전 위원장은 6월 3일 오후 5시 20분경 중앙선관위 대변인으로부터 상황을 구두로 보고 받았다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7787cb4f",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/20/2026062015071775449",
-    "title": "조정석, 엄마 된 전 여친과 '깜짝' 재회…\"남편, 내가 아는 사람이더라\"",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026062080837",
+    "title": "노태악, 투표 종료 40분 전에야 '용지 부족' 첫 보고 받아",
     "summary": [
-      "배우 조정석이 중학생 때 사귀었던 여자친구를 성인이 되어 우연히 마주친 일화를 전했다.",
-      "지난 19일 유튜브 채널 '채널 조정석'에는 조정석이 고향인 서울 강서구 방화동 일대를 탐방하는 영상이 공개됐다.",
-      "이 영상에서 조정석은 어린 시절 추억이 담긴 장소들을 돌아보며 학창 시절 에피소드를 전했다."
+      "노태악, 투표 종료 40분 전에야 '용지 부족' 첫 보고 받아."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf91b6e7a",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620028751060",
-    "title": "파주 도라전망대 오르던 관광버스 전도…외국인 등 10명 부상(종합)",
+    "id": "nf5a883df",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606196502g",
+    "title": "\"차라리 돈을 내라면 내겠다\"…게시판 몰려간 이용자 '분통'",
     "summary": [
-      "(파주=연합뉴스) 노승혁 기자 = 20일 오전 11시 24분께 경기 파주시 장단면 도라산리 도라전망대를 오르던 45인승 관광버스가 전망대 중간 ..."
+      "\"차라리 돈을 내라면 내겠다\"…게시판 몰려간 이용자 '분통'."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n336fcf99",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260620034000001",
-    "title": "文 前대통령 \"책이 지금의 저를 만들었다\"…필사 노트 출간",
+    "id": "nf5a883df",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606196502g",
+    "title": "'살생부' 예고하더니 결국…\"이젠 무슨 낙으로 살아요\" 난리",
     "summary": [
-      "(서울=연합뉴스) 최평천 기자 = 문재인 전 대통령이 그동안 추천해온 도서 중 좋은 문장을 엄선해 필사하는 '문재인의 필사노트'가 26일 출간된..."
+      "'살생부' 예고하더니 결국…\"이젠 무슨 낙으로 살아요\" 난리."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1964ce4a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026062080797",
+    "title": "\"이스라엘, 휴전 합의에도 레바논 남부 공습해 5명 사망\"",
+    "summary": [
+      "\"이스라엘, 휴전 합의에도 레바논 남부 공습해 5명 사망\"."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -648,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
