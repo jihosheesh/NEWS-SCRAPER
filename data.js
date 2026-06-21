@@ -1,6 +1,22 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-21 15:33:24
+// 마지막 업데이트: 2026-06-21 16:31:08
 window.NEWS_DB = [
+  {
+    "id": "na35b331b",
+    "category": "IT",
+    "source": "문화일보",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
+    "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진",
+    "summary": [
+      "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진 문화일보."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nb40c53b9",
     "category": "IT",
@@ -31,6 +47,21 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nf63d61ce",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LZ0t3U1YzSUtOaG4ycWpjOGthb0hmQ3N2ODV3SEpEUTRJeW50X3lnWVlURngyVXlYUmxBYjBwMlJ5b1VxUE5feEcwaHllZklJX29oZVFhWW8zZ2fSAWBBVV95cUxPRzFRLVdnbjUxbDktMHE3Y0RDTWdUTV93ZkJOYWRVYmJPVFlySi1XR3dVVlRYWGtpREF6aWRDRTM3R28xaXBRMDFDTFhVODU1SzRCRG5kZVZBZU1keTBOSTI?oc=5",
+    "title": "아마존, AI 칩 외부 판매 추진…엔비디아 아성 도전",
+    "summary": [
+      "아마존, AI 칩 외부 판매 추진…엔비디아 아성 도전 연합뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
     ]
   },
   {
@@ -78,17 +109,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n244b01bd",
-    "category": "경제",
-    "source": "스트레이트뉴스",
+    "id": "nf3565e6d",
+    "category": "IT",
+    "source": "세종의소리",
     "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
-    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JQ1Z1QXI4WXF3a1NDWG83U2t5Q1V1M21TXy1JSS1NR3UyUVJ3WVVVODl6ZVBMQS1fNVBJZERrZ2FVdVNnYWZ1TDhzOHVaal9ZVDZlZ3U2ajY0LUItNzViVkNFbDU5bzQ?oc=5",
+    "title": "엔비디아, 30조 회사채 발행 추진…한국 AI·반도체 산업엔 기회인가 경고인가",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+      "엔비디아, 30조 회사채 발행 추진…한국 AI·반도체 산업엔 기회인가 경고인가 세종의소리."
     ],
     "chips": [
-      "#금리"
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -124,6 +157,34 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n54eac02a",
+    "category": "부동산",
+    "source": "프라임경제",
+    "time": "22일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWTTNhcGcya25mdG1tMlJuVFhQSTBsQlVVM0xsR1lyTkQwb25RZnZ0R0tDQVJYNlhqZU52azZ4dTJVSGlrWW5xRDJ5N0VDaXZ1QUZZMWlkUUNQOXUzWTJKc1NxQzJoZw?oc=5",
+    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
+    "summary": [
+      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nb3bb73fa",
+    "category": "경제",
+    "source": "헤럴드경제",
+    "time": "22일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
+    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
+    "summary": [
+      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -150,21 +211,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n72b90564",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
-    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
-    "summary": [
-      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
     ]
   },
   {
@@ -213,6 +259,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "81일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -258,74 +318,133 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5de3a708",
+    "id": "n9f48fec3",
     "category": "스포츠",
-    "source": "매일경제",
-    "time": "261일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
-    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/22/MYYGEMLGGBSDAMBVMU3TIYJWMI/",
+    "title": "'연봉 고작 6100만원' 日 투수, 어떻게 KIA 영웅 됐나…4이닝 KKKKK 혼란 수습→뭉클 소감까지 “첫 불펜 어색했지만, 응원 보답하려고”",
     "summary": [
-      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+      "[OSEN=수원, 이후광 기자] “시라카와가 4이닝을 책임지면서 대등한 경기를 할 수 있는 발판을 마련해줬다.”프로야구 KIA 타이거즈 이범호 감독의 21일 수원 KT 위즈전 경기평이었다.",
+      "시라카와 케이쇼가 선발 김태형이 2이닝 만에 무너진 상황에서 혼란을 수습하고 무려 4이닝을 책임지며 역전승 발판을 마련했다.",
+      "시라카와는 21일 수원KT위즈파크에서 열린."
     ],
     "chips": [
-      "#손흥민",
       "#KBO"
     ]
   },
   {
-    "id": "nabbfc232",
+    "id": "n33ee108a",
     "category": "사회",
-    "source": "조선일보",
-    "time": "방금 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/06/22/XLIH47BMWZEYFNJ4TAPEFOI6LE/",
-    "title": "석유 최고가격제 손실 보전도 정부 뜻대로? 정산위 회의 비공개 방침에 불안한 정유사들",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260622000600079",
+    "title": "이란 국영매체 \"스위스 첫 회담서 核 논의 없어…레바논에 집중\"",
     "summary": [
-      "석유 최고가격제 손실 보전도 정부 뜻대로? 정산위 회의 비공개 방침에 불안한 정유사들."
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간의 첫 종전 합의 후속 협상에서 이란 핵 문제에 대한 논의는 없었다고 이란 국영 IRIB 방..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5bb0979e",
-    "category": "IT",
+    "id": "nbf190bf9",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "방금 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/06/22/OMUZGKDYUVHZDFQIF24E7RMXGY/",
-    "title": "美 수요 증가… 韓 전력기기 빅3, 현지 생산 확대",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/22/MRRWMY3BME2DSOBWHA4DGMRYGY/",
+    "title": "두산 팬분들 너무 화나지요? 류승민만 생각합시다, 그럼 기분이 좋아집니다",
     "summary": [
-      "효성중공업을 비롯해 HD현대일렉트릭, LS일렉트릭 등 국내 전력기기 3사가 미국 현지 생산 확대에 총력을 기울이고 있다.",
-      "인공지능(AI) 데이터센터 증설과 노후 전력기기 교체 수요에 대응하기 위함이다.",
-      "21일 전력기기업계에 따르면 최근 효성중공업 자회사 효성HICO는 미국 에너지 인프라 솔루션 기업 콴타의 자회사와 합작법인 ‘효성HICO 브리커(HYOSU."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nc94c21d8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "방금 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/06/22/YXM3MJV2WZECZDGWDYRWR3PWVQ/",
-    "title": "BYD·도요타, 신차 앞세워 PHEV 불모지 한국 공략",
-    "summary": [
-      "BYD·도요타, 신차 앞세워 PHEV 불모지 한국 공략."
+      "[스포츠조선 김용 기자] 류승민만 생각하며 버텨야지...",
+      "두산 베어스에게는 최악의 주말이었다.",
+      "두산은 잠실구장에서 열린 '한지붕 라이벌' LG 트윈스와의 3연전에서 모두 졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n81511101",
+    "id": "n0b83c26e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/22/HFSTIY3DGEZGCY3BMJSGEYJTGI/",
+    "title": "KIA 내야가 흔들린다? \"수비보단 공격\" 카스트로 → 김선빈 실책에 '덜컹'…꽃감독의 딜레마 [수원포커스]",
+    "summary": [
+      "[수원=스포츠조선 김영록 기자] \"수비력보다는 공격력에 초점을 맞추고 있다.\" 이범호 KIA 타이거즈 감독의 이맛살이 깊어진다.",
+      "타격의 힘을 끌어올리고 싶은데, 그러자니 내야 수비가 생각만큼 잘 이뤄지지 않는다.",
+      "21일 수원에서 만난 이범호 감독은 외국인 타자 카스트로에 대한 질문에 \"외야 말고 1루 수비는 좀 지켜봐야할 것 같다\"며 한숨을 쉬었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n81be346d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260622000400071",
+    "title": "美부통령 \"미국, 이란과 관계 근본적 변화시킬 용의 있어\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = JD 밴스 미국 부통령은 21일(현지시간) \"이란 지도부가 지역(중동)을 불안정하게 하는 역할을 포기할 용..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9afdecc2",
     "category": "사회",
     "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/economy/money/2026/06/22/O57QSG7DP5D5HPTWTFNIKWN3HQ/",
-    "title": "다음 달부터 219개 ‘동전주’ 기업도 상폐 대상",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/22/326TXTMYSRFFTDZF2WFA7MU3YU/",
+    "title": "“가구도 바닥도… ‘유영국 작가라면’ 생각하고 만든 공간”",
     "summary": [
-      "다음 달부터 219개 ‘동전주’ 기업도 상폐 대상."
+      "“가구도 바닥도… ‘유영국 작가라면’ 생각하고 만든 공간”."
     ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n39532bff",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621048451081",
+    "title": "폭염에 에펠탑 조기 폐장…스페인은 월드컵 거리응원 취소(종합)",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 서유럽을 덮친 폭염에 각국이 안전 예방 조치에 들어간다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n031b44a4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003677405",
+    "title": "\"美-이란 회담, 80분 만에 1차 종료…'내부 협의' 이어갈듯\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부와 이란 정권의 대면 종전 협상이 약 80분 만에 1차 종료됐다고 현지 언론이 전했다.",
+      "알자지라는 21일(현지 시간) 이란 반(半)관영 파르스통신을 인용해 \"회담이 '내부 협의(internal consultations)'를 이유로 80분 만에 종료됐다\"고 보도했다.",
+      "양국 언론에 따르면 JD 밴스 미국 부통령은 이날 오후 2시50분께 셰바즈 샤리프 파키스탄 총리, 무함마드 빈 압둘라흐만 알."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2689808a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "56분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003677404",
+    "title": "[속보]\"美-이란 협상 80분 만에 중지…'내부 협의' 이어가기로\"",
+    "summary": [],
     "chips": [
       "#뉴스"
     ]
@@ -334,7 +453,7 @@ window.NEWS_DB = [
     "id": "nfab9c5bc",
     "category": "부동산",
     "source": "동아일보",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260621/134152443/2",
     "title": "“목동 30조 재건축 잡아라” 건설사 수주戰 시동",
     "summary": [
@@ -351,7 +470,7 @@ window.NEWS_DB = [
     "id": "nbba58298",
     "category": "IT",
     "source": "동아일보",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260621/134152458/2",
     "title": "韓직장인 10명중 8명… “AI활용 뒤처질까 우려”",
     "summary": [
@@ -367,7 +486,7 @@ window.NEWS_DB = [
     "id": "n944e7baf",
     "category": "경제",
     "source": "동아일보",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260621/134152460/2",
     "title": "‘계란 10구’ 5000원 첫 돌파… 닭고기도 19% 급등",
     "summary": [
@@ -383,9 +502,9 @@ window.NEWS_DB = [
     "id": "n835d29d2",
     "category": "사회",
     "source": "동아일보",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/People/article/all/20260621/134152486/2",
-    "title": "“담합 조사 시작후 자진신고땐 과징금 감면 75%로 축소 검토”",
+    "title": "[단독]“담합 조사 시작후 자진신고땐 과징금 감면 75%로 축소 검토”",
     "summary": [
       "공정거래위원회가 담합 조사 착수 이후 자진 신고한 사업자에 대해서는 최초 신고자라도 과징금 감면 한도를 현행 최대 100%에서 최대 75%로 줄이는 내용으로 공정거래법 시행령 개정을 추진한다.",
       "개정되면 앞으로는 담합 기업이 공정위 조사 착수 전에 담합 사실을 신고해야 과징금을 전액 면제받을 수 있다.",
@@ -399,7 +518,7 @@ window.NEWS_DB = [
     "id": "nf45b1dbf",
     "category": "IT",
     "source": "뉴시스",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260621_0003677118",
     "title": "백지영도 매일 챙긴다… 몸이 건강해지는 '마법의 이 식초'",
     "summary": [
@@ -415,7 +534,7 @@ window.NEWS_DB = [
     "id": "n2dfb6603",
     "category": "사회",
     "source": "뉴시스",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260621_0003677117",
     "title": "어깨부터 옆구리까지…소유의 '상체 집중' 루틴 전격 공개",
     "summary": [
@@ -428,26 +547,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne00389c2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677134",
-    "title": "\"맨날 삶은 계란 먹어\" 소녀시대 수영, 작품 앞두고 독한 다이어트",
-    "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 소녀시대 멤버 겸 배우 수영이 작품 준비를 위해 식단 관리에 한창인 근황을 전했다.",
-      "20일 유튜브 '효연의 레벨업 Hyo's Level Up'에는 소녀시대 멤버 효연, 유리, 수영이 함께 SM엔터테인먼트 사옥을 방문해 '효리수'의 데뷔곡을 선정하는 모습이 담긴 영상이 공개됐다.",
-      "효리수는 SM 직원들에게 부리또를 나눠준 뒤 직접 식사에 나섰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nf51ea131",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "31분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260621050151071",
     "title": "이란 호르무즈 재봉쇄 선언했지만 美 \"선박통항 분쟁前과 비슷\"(종합)",
     "summary": [
@@ -458,85 +561,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne0bee6bb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "32분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677147",
-    "title": "파스타 먹고도 날씬한 이유?…옥주현이 밝힌 다이어트 비결",
-    "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 가수 겸 뮤지컬 배우 옥주현이 한 이탈리안 레스토랑에서 만족스러웠다는 후기를 전한 가운데 그녀의 다이어트 비결에도 관심이 쏠린다.",
-      "21일 옥주현은 자신의 SNS를 통해 \"차 막히는 헬프라이데이\"라는 글과 함께 여러 장의 사진과 동영상을 게시했다.",
-      "공개된 게시물에는 서울의 한 이탈리안 레스토랑에서 식사를 즐기는 모습이 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd41fabe1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c4fed37",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621025351009",
-    "title": "젤렌스키 '민간인 학살' 역사 논쟁에 폴란드 최고훈장 반납(종합)",
-    "summary": [
-      "(서울·베를린=연합뉴스) 김승욱 기자 김계연 특파원 = 우크라이나와 폴란드 간 역사 인식 갈등이 격화하면서 볼로디미르 젤렌스키 우크라이나 대통령..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nca7b9b50",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "53분 전",
-    "url": "https://view.asiae.co.kr/article/2026062123394584183",
-    "title": "트럼프 \"이란, 레바논 대리세력 막지 않으면 다시 타격할 것\"",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 21일(현지시간) 이란을 향해 레바논의 친이란 무장정파 헤즈볼라를 막지 않으면 더욱 강력한 공습을 이란에 가할 것이라고 위협했다.",
-      "트럼프 대통령은 이날 소셜미디어 트투스소셜에 \"이란은 즉시 고액의 지원을 받는 레바논의 대리세력(헤즈볼라)이 문제를 일으키는 것을 막아야 한다\"고 밝혔다.",
-      "이어 \"그렇지 않으면 우리는 지난주에 했던 것과 마찬가지로 이란을 다시 매우 강하게 타격할 것이며."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n21222c87",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "54분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621051000071",
-    "title": "트럼프 \"영국 총리 사임할 것…이민·에너지서 큰 실패\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 21일(현지시간) \"키어 스타머가 영국 총리직에서 사임하게 될 것\"이라고 밝혔..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nda202747",
     "category": "IT",
     "source": "테크M",
-    "time": "55분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152782",
     "title": "박윤영 KT 대표, 회사·고객 전략 재정비...'보안·AX' 영업 강화",
     "summary": [
@@ -553,11 +581,11 @@ window.NEWS_DB = [
     "id": "nbc4174e3",
     "category": "IT",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062191141",
-    "title": "LG 경영진, 엔비디아 방문 차세대 AI 협력 본격 논의",
+    "title": "LG 경영진, 엔비디아 방문…차세대 AI 협력 본격 논의",
     "summary": [
-      "LG 경영진, 엔비디아 방문 차세대 AI 협력 본격 논의."
+      "LG 경영진, 엔비디아 방문…차세대 AI 협력 본격 논의."
     ],
     "chips": [
       "#AI",
@@ -568,7 +596,7 @@ window.NEWS_DB = [
     "id": "n39d794df",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152781",
     "title": "삼성전자 '산토끼'·LG전자 '집토끼', 매출·수익 확대 '총력'",
     "summary": [
@@ -587,7 +615,7 @@ window.NEWS_DB = [
     "id": "nfa2db66b",
     "category": "사회",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152780",
     "title": "삼성·SK·LG, '미래·가치·공감·환경' 사회공헌 확대",
     "summary": [
@@ -605,7 +633,7 @@ window.NEWS_DB = [
     "id": "n687c9847",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026062191047",
     "title": "한 달간 하루 출근에 수당 400만원…선관위 자료 봤더니",
     "summary": [
@@ -613,34 +641,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n73fe1892",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026062191017",
-    "title": "\"맥주 마시면서 노인에 주삿바늘을\"…병원장 사진에 '발칵'",
-    "summary": [
-      "\"맥주 마시면서 노인에 주삿바늘을\"…병원장 사진에 '발칵'."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nadad8b33",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026062190947",
-    "title": "\"스마트폰 때문에 더 불편\"…삼성전자가 꺼낸 '비장의 무기'",
-    "summary": [
-      "\"스마트폰 때문에 더 불편\"…삼성전자가 꺼낸 '비장의 무기'."
-    ],
-    "chips": [
-      "#삼성전자"
     ]
   }
 ];
@@ -650,18 +650,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "의료",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
