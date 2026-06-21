@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-21 16:31:08
+// 마지막 업데이트: 2026-06-21 17:30:03
 window.NEWS_DB = [
   {
     "id": "na35b331b",
@@ -109,6 +109,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n244b01bd",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
+    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
+    "summary": [
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
     "id": "nf3565e6d",
     "category": "IT",
     "source": "세종의소리",
@@ -125,23 +139,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd0c82b8d",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
@@ -153,34 +150,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n54eac02a",
-    "category": "부동산",
-    "source": "프라임경제",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWTTNhcGcya25mdG1tMlJuVFhQSTBsQlVVM0xsR1lyTkQwb25RZnZ0R0tDQVJYNlhqZU52azZ4dTJVSGlrWW5xRDJ5N0VDaXZ1QUZZMWlkUUNQOXUzWTJKc1NxQzJoZw?oc=5",
-    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
-    "summary": [
-      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nb3bb73fa",
-    "category": "경제",
-    "source": "헤럴드경제",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
-    "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
-    ],
-    "chips": [
       "#환율"
     ]
   },
@@ -211,6 +180,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n72b90564",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "26일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
+    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
+    "summary": [
+      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -259,20 +243,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "81일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -318,26 +288,226 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9f48fec3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/22/MYYGEMLGGBSDAMBVMU3TIYJWMI/",
-    "title": "'연봉 고작 6100만원' 日 투수, 어떻게 KIA 영웅 됐나…4이닝 KKKKK 혼란 수습→뭉클 소감까지 “첫 불펜 어색했지만, 응원 보답하려고”",
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "233일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
     "summary": [
-      "[OSEN=수원, 이후광 기자] “시라카와가 4이닝을 책임지면서 대등한 경기를 할 수 있는 발판을 마련해줬다.”프로야구 KIA 타이거즈 이범호 감독의 21일 수원 KT 위즈전 경기평이었다.",
-      "시라카와 케이쇼가 선발 김태형이 2이닝 만에 무너진 상황에서 혼란을 수습하고 무려 4이닝을 책임지며 역전승 발판을 마련했다.",
-      "시라카와는 21일 수원KT위즈파크에서 열린."
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
     ],
     "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "261일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "summary": [
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+    ],
+    "chips": [
+      "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n964038cc",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/22/MIZDKNBUMJSDANBVGUYTOYZXGY/",
+    "title": "결국 1400만명까지 갔다. 무려 280배 폭증. 카보베르데 인간승리 주인공 보지냐 수문장. SNS 팔로워 수 1000만 넘었다",
+    "summary": [
+      "[스포츠조선 류동혁 기자] 드디어 1000만 단위를 돌파했다.",
+      "그의 인기는 끝없는 절정을 치닫고 있다.",
+      "스페인의 무적함대를 멈춰 세웠던 불혹의 골키퍼 보지냐(카보베르데)가 그 주인공이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d7b8bbf",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/22/2026062201534323455",
+    "title": "'지금 韓日전 하면요?' 박지성 \"지금은 日이 앞선 게 맞다, 韓은 오르락내리락\" 영원한 캡틴의 뼈아픈 진단",
+    "summary": [
+      "박지성(45) JTBC 해설위원이 일본 축구의 발전과 상승세를 인정했다.",
+      "일본은 21일(한국시간) 멕시코 과달루페의 몬테레이 스타디움에서 열린 튀니지와의 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 F조 2차전에서 4-0으로 완승했다.",
+      "지난 1차전에서 네덜란드와 2-2로 비겼던 일본은 이날 승리로 1승1무(승점 4) 조 2위에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne8277688",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/22/2026062202175575426",
+    "title": "김희철, 방송사서 받은 금 팔았더니 3500만 원…금 재테크 '성공'",
+    "summary": [
+      "김희철이 방송사와 가족에게 받은 금제품들을 감정받은 결과 약 3500만 원에 달하는 금액을 확인했다.",
+      "21일 방영된 SBS '미운 우리 새끼' 500회에서는 김희철, 김준호, 김종민이 금은방을 찾아 보유 중인 금을 감정받고 판매하는 모습이 그려졌다.",
+      "이날 김희철은 SBS 연예대상에서 받은 트로피를 비롯해 방송사에서 받은 황금열쇠, 금 소주잔, 과거 에어컨에서 떼어낸 금 글씨, 외할아버지에게 받은 금목걸이 등을 매물로 내놨다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5281ee2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260622001200071",
+    "title": "\"이란 협상단, 트럼프 위협 반발해 스위스 협상장 떠나\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 스위스에서 미국과 만난 이란 협상단이 도널드 트럼프 미 대통령의 위협에 반발해 협상장을 떠났다고 이란 매체..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf0db7475",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260622001100071",
+    "title": "트럼프, '우라늄농축권 유지' 이란대통령 발언에 \"입 조심하라\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 21일(현지시간) \"미국은 필요하다면 향후 호르무즈 해협을 장악하고, 그들(이..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7f9fb112",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003677407",
+    "title": "이란, 트럼프 장외압박에 \"발언 신중해야…軍 대응준비\" 항의",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 미국-이란 종전 협상 도중 위협성 발언을 한 데 대해 이란이 현장에서 항의한 것으로 알려졌다.",
+      "이란 국영 프레스TV는 소셜미디어 엑스(X·구 트위터)에 \"이란 대표단은 미국 측에 항의를 제기했으며, 트럼프 대통령의 최근 발언에 대한 적절한 대응 방안을 검토 중\"이라고 전했다.",
+      "이란 협상 대표 모하마드 바게르 갈리바프 국회의장도 직접 X에 \"그들은 발언에 신중해야 한다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0f7dcb03",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "29분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/06/22/2026061809180540383",
+    "title": "스테이블코인과 핀테크의 미래[MT시평/정구태]",
+    "summary": [
+      "지난 10여 년간 국내 핀테크는 빠르게 성장했지만, 그 상당 부분은 기존 금융기관의 울타리 안에서 이뤄졌다.",
+      "송금, 결제, 투자, 보험, 대출 비교 서비스는 편리해졌지만 기반은 여전히 은행 계좌, 카드망, 증권 계좌, 보험사 시스템에 머물러 있었다.",
+      "핀테크 기업은 금융 혁신의 주체라기보다 기존 금융기관의 접점을 개선하는 조력자로 인식되는 경우가 많았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3d4ccf0",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "30분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/22/2026062201530936929",
+    "title": "신동엽, 과거 송승헌에게 소지섭 단속? \"돈 많고 날라리 같아서\"",
+    "summary": [
+      "신동엽이 과거 소지섭의 첫인상을 오해해 송승헌에게 \"가까이하지 말라\"고 했던 일화를 털어놔 웃음을 자아냈다.",
+      "21일 방영된 SBS '미운 우리 새끼' 500회에는 배우 소지섭이 게스트로 출연해 입담을 뽐냈다.",
+      "이날 서장훈은 소지섭에게 \"절친 모임이 있다고 들었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n520a5563",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "32분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/22/MY3TMOJUGYYDGMTBMIZDCYRQGU/",
+    "title": "이란 매체 “美·이란 첫 후속 협상, 핵 대신 레바논 문제 집중”",
+    "summary": [
+      "21일(현지 시각) 열린 미국과 이란의 첫 종전 합의 후속 협상에서 이란 핵 프로그램 문제는 다뤄지지 않았다고 이란 국영 IRIB 방송이 보도했다.",
+      "IRIB에 따르면 이날 회담은 중재국인 파키스탄과 카타르가 참여한 4자 회담 형식으로 약 80분간 진행됐다.",
+      "그러나 당초 주요 의제로 거론됐던 이란 핵 문제에 대한 실질적 협상은 이뤄지지 않은 것으로 전해졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0dedd23d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/22/GY3WEOBUMY2DGOBWG5TGCMZQGQ/",
+    "title": "충격! 다저스, 11년 전 '총격 사건→트레이드 무산' 좌완 클로저 영입 실현?",
+    "summary": [
+      "[스포츠조선 박상경 기자] LA 다저스가 11년 전 이루지 못한 불펜 보강의 꿈을 이룰까.",
+      "다저스가 보스턴 레드삭스를 떠날 것이 확실시 되는 좌완 클로저 아롤디스 채프먼(38) 영입에 나설 가능성이 제기됐다.",
+      "다저스 소식을 전하는 다저스네이션은 21일(한국시각) 최근 ESPN 제프 파산이 채프먼이 팀을 옮길 확률을 90%로 전망하며 다저스행을 관측한 것을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb3d91d8b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260622001000087",
+    "title": "부켈레 \"엘살바도르 최대규모 코카인 압수…2천500억원어치\"",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 엘살바도르 군 당국이 해상 소탕 작전을 통해 사상 최대 규모의 코카인을 압수했다고 독일 dpa통신 등이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92359a9f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "49분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677401",
+    "title": "美-이란, '레바논'으로 협상 시작…'호르무즈·핵-제재' 이어갈듯",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부와 이란 정권이 레바논 전선 문제를 첫 의제로 본격적인 종전 협상을 시작했다.",
+      "양국은 호르무즈 해협 개방 문제와 핵 문제 및 경제 제재 완화 문제를 계속 논의해나갈 것으로 보인다.",
+      "미국과 이란 언론을 종합하면 JD 밴스 부통령이 이끄는 미국 대표단과 모하마드 바게르 갈리바프 국회의장이 이끄는 이란 대표단은 21일(현지 시간) 오후 스위스 뷔르겐슈토크 리조트에서 카타르·파키스탄 중재 하에."
+    ],
+    "chips": [
+      "#정치"
     ]
   },
   {
     "id": "n33ee108a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260622000600079",
     "title": "이란 국영매체 \"스위스 첫 회담서 核 논의 없어…레바논에 집중\"",
     "summary": [
@@ -348,84 +518,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbf190bf9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/22/MRRWMY3BME2DSOBWHA4DGMRYGY/",
-    "title": "두산 팬분들 너무 화나지요? 류승민만 생각합시다, 그럼 기분이 좋아집니다",
-    "summary": [
-      "[스포츠조선 김용 기자] 류승민만 생각하며 버텨야지...",
-      "두산 베어스에게는 최악의 주말이었다.",
-      "두산은 잠실구장에서 열린 '한지붕 라이벌' LG 트윈스와의 3연전에서 모두 졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b83c26e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/22/HFSTIY3DGEZGCY3BMJSGEYJTGI/",
-    "title": "KIA 내야가 흔들린다? \"수비보단 공격\" 카스트로 → 김선빈 실책에 '덜컹'…꽃감독의 딜레마 [수원포커스]",
-    "summary": [
-      "[수원=스포츠조선 김영록 기자] \"수비력보다는 공격력에 초점을 맞추고 있다.\" 이범호 KIA 타이거즈 감독의 이맛살이 깊어진다.",
-      "타격의 힘을 끌어올리고 싶은데, 그러자니 내야 수비가 생각만큼 잘 이뤄지지 않는다.",
-      "21일 수원에서 만난 이범호 감독은 외국인 타자 카스트로에 대한 질문에 \"외야 말고 1루 수비는 좀 지켜봐야할 것 같다\"며 한숨을 쉬었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n81be346d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622000400071",
-    "title": "美부통령 \"미국, 이란과 관계 근본적 변화시킬 용의 있어\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = JD 밴스 미국 부통령은 21일(현지시간) \"이란 지도부가 지역(중동)을 불안정하게 하는 역할을 포기할 용..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9afdecc2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "46분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/22/326TXTMYSRFFTDZF2WFA7MU3YU/",
-    "title": "“가구도 바닥도… ‘유영국 작가라면’ 생각하고 만든 공간”",
-    "summary": [
-      "“가구도 바닥도… ‘유영국 작가라면’ 생각하고 만든 공간”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n39532bff",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621048451081",
-    "title": "폭염에 에펠탑 조기 폐장…스페인은 월드컵 거리응원 취소(종합)",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 서유럽을 덮친 폭염에 각국이 안전 예방 조치에 들어간다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n031b44a4",
     "category": "사회",
     "source": "뉴시스",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260622_0003677405",
     "title": "\"美-이란 회담, 80분 만에 1차 종료…'내부 협의' 이어갈듯\"",
     "summary": [
@@ -441,7 +537,7 @@ window.NEWS_DB = [
     "id": "n2689808a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "56분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260622_0003677404",
     "title": "[속보]\"美-이란 협상 80분 만에 중지…'내부 협의' 이어가기로\"",
     "summary": [],
@@ -515,132 +611,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf45b1dbf",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677118",
-    "title": "백지영도 매일 챙긴다… 몸이 건강해지는 '마법의 이 식초'",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 가수 백지영이 직접 담근 파인애플 식초로 건강한 다이어트 일상을 공유해 눈길을 끌고 있다.",
-      "최근 백지영은 자신의 유튜브 채널 '백지영 Baek Z Young'을 통해 한 달여 동안 정성껏 숙성시킨 수제 '파인애플 식초'를 공개했다.",
-      "평소 다이어트에 관심이 많던 백지영은 시중 제품 대신 파인애플과 식초를 직접 배합해 자신만의 레시피로 파인애플 식초를 만들어 먹는다고 밝혔다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2dfb6603",
+    "id": "n3e29c409",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677117",
-    "title": "어깨부터 옆구리까지…소유의 '상체 집중' 루틴 전격 공개",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 가수 소유가 여름을 앞두고 탄탄하고 건강한 상체 라인을 만들기 위한 자신만의 운동 루틴을 공개해 화제를 모으고 있다.",
-      "지난 15일 소유는 자신의 유튜브 채널 '소유기 SOYOUGI'를 통해 상체 집중 운동 루틴을 상세히 소개했다.",
-      "소유는 \"여름이 다가오고 있어 많은 분이 궁금해하시는 상체 루틴을 준비했다\"며, 평소 꾸준히 실천 중인 다양한 어깨 및 등 운동 동작을 선보였다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf51ea131",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621050151071",
-    "title": "이란 호르무즈 재봉쇄 선언했지만 美 \"선박통항 분쟁前과 비슷\"(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 도널드 트럼프 행정부는 21일(현지시간) 이스라엘의 레바논 공습 지속에 반발한 이란이 호르무즈 해협 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nda202747",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152782",
-    "title": "박윤영 KT 대표, 회사·고객 전략 재정비...'보안·AX' 영업 강화",
-    "summary": [
-      "KT가 박윤영 대표 취임 이후 내부 정비와 고객 신뢰 회복에 힘을 쏟고 있다.",
-      "보안과 인공지능(AI) 전환(AX) 정책을 재편했다.",
-      "장기 고객과 소외 계층 등의 목소리에 귀를 기울였다.21일 업계에 따르면 KT는 박 대표 체제에 맞춘 업무와 고객 전략 재편에 속도를 내고 있다.KT는 17일부터 19일까지 제주에서 열린 '한국통신학회 하계종합학술발표회'에 참가했다."
-    ],
-    "chips": [
-      "#AI",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nbc4174e3",
-    "category": "IT",
-    "source": "한국경제",
+    "source": "조선일보",
     "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026062191141",
-    "title": "LG 경영진, 엔비디아 방문…차세대 AI 협력 본격 논의",
+    "url": "https://www.chosun.com/opinion/chosun_column/2026/06/22/JMBAHGESVZCHRBNOJA5MKYRMQQ/",
+    "title": "[朝鮮칼럼] 임금의 사회적 조율, 경영계가 나서라",
     "summary": [
-      "LG 경영진, 엔비디아 방문…차세대 AI 협력 본격 논의."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n39d794df",
-    "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152781",
-    "title": "삼성전자 '산토끼'·LG전자 '집토끼', 매출·수익 확대 '총력'",
-    "summary": [
-      "삼성전자와 LG전자가 매출과 수익 향상에 공을 들이고 있다.",
-      "삼성전자는 신사업 속도를 낸다.",
-      "'건강관리'와 '인공지능(AI) 홈'에 관심을 쏟는다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자",
-      "#스타트업",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nfa2db66b",
-    "category": "사회",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152780",
-    "title": "삼성·SK·LG, '미래·가치·공감·환경' 사회공헌 확대",
-    "summary": [
-      "삼성 SK LG가 사회공헌 활동을 다양화했다.",
-      "기업이 얼마나 사회적 가치(SV)를 창출했는지 성과를 계량화하려는 시도도 이어갔다.21일 삼성 SK LG는 사회공헌 활동 성과를 공개했다.삼성은 미래에 대한 투자를 지속했다.",
-      "청년 인재 양성과 함께 아동 교육에 힘을 쏟고 있다.삼성복지재단은 '삼성 유아 마음성장 프로그램'을 개발했다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n687c9847",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026062191047",
-    "title": "한 달간 하루 출근에 수당 400만원…선관위 자료 봤더니",
-    "summary": [
-      "한 달간 하루 출근에 수당 400만원…선관위 자료 봤더니."
+      "[朝鮮칼럼] 임금의 사회적 조율, 경영계가 나서라."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nca7b9b50",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2시간 전",
+    "url": "https://view.asiae.co.kr/article/2026062123394584183",
+    "title": "트럼프 \"이란, 레바논 대리세력 막지 않으면 다시 타격할 것\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 21일(현지시간) 이란을 향해 레바논의 친이란 무장정파 헤즈볼라를 막지 않으면 더욱 강력한 공습을 이란에 가할 것이라고 위협했다.",
+      "트럼프 대통령은 이날 소셜미디어 트투스소셜에 \"이란은 즉시 고액의 지원을 받는 레바논의 대리세력(헤즈볼라)이 문제를 일으키는 것을 막아야 한다\"고 밝혔다.",
+      "이어 \"그렇지 않으면 우리는 지난주에 했던 것과 마찬가지로 이란을 다시 매우 강하게 타격할 것이며."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -650,14 +647,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
