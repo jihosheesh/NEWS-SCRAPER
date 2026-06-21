@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-21 03:04:06
+// 마지막 업데이트: 2026-06-21 05:34:20
 window.NEWS_DB = [
   {
     "id": "na35b331b",
     "category": "IT",
     "source": "문화일보",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
     "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진",
     "summary": [
@@ -15,6 +15,20 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "nb113d6f2",
+    "category": "IT",
+    "source": "데일리안",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGhrSk1pUjNuWHI5TmkwWmNacVJjTmtBLURzbXVGNTNuckZzSHBOZ1dxcS1kSUtKcFlJempYT1dWZTlYcGN6T2dPY3VSUXZOUUY4RHJZeVBzYlIxajh5MFhoMG9oMmpuMW1JbEJSVktOeGxYMkRnU1dzZEZOUll0TXBIMHVTYU5FdHZIY3ZyR1luSzhXV3F3M1E2Zkl6TjUyRkZXMC14Nll0VFpEM0RWVU5PYl9ydXlEeUUxaTJ2NEEydllUM3NKRS04MGZKZ090SlBrdGtQTnZZMXJuRy14bTFOajNfc1NLenBVWU1KUEFqN0VvbGlkb0JTR1ZIN3l0b09ZNlhFMmFSc3JtU3Q0WmVYRjg4R3JBSmpJ0gGbAkFVX3lxTFBkaGtKTWlSM25YcjlOaTBaY1pxUmNOa0EtRHNtdUY1M25yRnNIcE5nV3FxLWRJS0pwWUl6alhPV1ZlOVhwY3pPZ09jdVJRdk5RRjhEcll5UHNiUjFqOHkwWGgwb2gyam4xbUlsQlJWS054bFgyRGdTV3NkRk5SWXRNcEgwdVNhTkV0dkhjdnJHWW5LOFdXcXczUTZmSXpONTJGRlcwLXg2WXRUWkQzRFZVTk9iX3J1eUR5RTFpMnY0QTJ2WVQzc0pFLTgwZkpnT3RKUGt0a1BOdlkxcm5HLXhtMU5qM19zU0t6cFVZTUpQQWo3RW9saWRvQlNHVkg3eXRvT1k2WEUyYVJzcm1TdDRaZVhGODhHckFKakk?oc=5",
+    "title": "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도'",
+    "summary": [
+      "삼성 시총 바짝 뒤쫓는 하이닉스…몸값 가른 건 'AI 순도' 데일리안."
+    ],
+    "chips": [
+      "#AI"
     ]
   },
   {
@@ -36,7 +50,7 @@ window.NEWS_DB = [
     "id": "nc4b0f988",
     "category": "IT",
     "source": "쿠키뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
@@ -79,35 +93,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n41662a21",
-    "category": "경제",
-    "source": "이코노미스트",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iSWRhLVNaYWE4OGtUTkJaaHhXT0dWZmlJLXkyWGVqQlRLdE4wbF9HZXR4cHVEcTFJc2NHWXU0Sk9QZnRNaGluRzNUNW5zbmtKRGl3Q2htc09Wa1l1c2RVQzVR?oc=5",
-    "title": "금리 오르고 환율 뛰고…코스피랠리 흔들 ‘3대 변수’",
-    "summary": [
-      "금리 오르고 환율 뛰고…코스피랠리 흔들 ‘3대 변수’ 이코노미스트."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n244b01bd",
-    "category": "경제",
-    "source": "스트레이트뉴스",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
-    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
-    "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
     "id": "nf3565e6d",
     "category": "IT",
     "source": "세종의소리",
@@ -121,20 +106,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n0325eee6",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mM0pBbXo4UHF6QTlGU2JVOEJQeEg3VmtpQ1dTZ01aR2VBamVKVUhiWlQ2bkVpLWRjaDQzb1JVaXRFUVZqN3UzTzdyUE5JaWVZUTNmcQ?oc=5",
-    "title": "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는?",
-    "summary": [
-      "[반도체 따라잡기] 왕좌 노리는 삼전 VS 하닉 4세대 HBM 최종 승자는? v.daum.net."
-    ],
-    "chips": [
-      "#반도체"
     ]
   },
   {
@@ -152,21 +123,6 @@ window.NEWS_DB = [
       "#취업",
       "#고용",
       "#교육"
-    ]
-  },
-  {
-    "id": "n31af3cbd",
-    "category": "경제",
-    "source": "에너지경제신문",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
-    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
-    "summary": [
-      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
     ]
   },
   {
@@ -317,6 +273,43 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n39d794df",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152781",
+    "title": "삼성전자 '산토끼'·LG전자 '집토끼', 매출·수익 확대 '총력'",
+    "summary": [
+      "삼성전자와 LG전자가 매출과 수익 향상에 공을 들이고 있다.",
+      "삼성전자는 신사업 속도를 낸다.",
+      "'건강관리'와 '인공지능(AI) 홈'에 관심을 쏟는다."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자",
+      "#스타트업",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nfa2db66b",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152780",
+    "title": "삼성·SK·LG, '미래·가치·공감·환경' 사회공헌 확대",
+    "summary": [
+      "삼성 SK LG가 사회공헌 활동을 다양화했다.",
+      "기업이 얼마나 사회적 가치(SV)를 창출했는지 성과를 계량화하려는 시도도 이어갔다.21일 삼성 SK LG는 사회공헌 활동 성과를 공개했다.삼성은 미래에 대한 투자를 지속했다.",
+      "청년 인재 양성과 함께 아동 교육에 힘을 쏟고 있다.삼성복지재단은 '삼성 유아 마음성장 프로그램'을 개발했다."
+    ],
+    "chips": [
+      "#교육",
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
     "id": "nb3a02cb3",
     "category": "스포츠",
     "source": "테크M",
@@ -347,295 +340,303 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na94aa491",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152778",
-    "title": "[해봤다] 우타라 마을에 간 데이브의 하루...'인 더 정글'의 새로운 매력",
-    "summary": [
-      "넥슨의 개발 자회사 민트로켓의 '데이브 더 다이버'는 해양 어드벤처와 타이쿤의 재미를 고루 느낄 수 있는 종합선물세트 같은 게임이었다.",
-      "후속 스토리를 담은 다운로드 콘텐츠(DLC) '인 더 정글'은 더 풍성해진 서브 콘텐츠와 리얼타임 시스템을 더했다.",
-      "친숙한 바다 '블루홀'에서 정글 마을 '우타라'로 무대를 옮긴 데이브 더 다이버: 인 더 정글을 만나봤다.이번 DLC는 데이브가 정글의 이상 현상을 조사하기 위해 우타라 마을로 이동하면서 이야기가."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n6493e4a8",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152771",
-    "title": "[써봤다] 아이패드 미니로 부족했다면...리전탭 Y700 5세대 주목할 이유",
-    "summary": [
-      "성능 좋다는 '프로'도, 가장 크다는 '울트라'도 써봤지만 결국 정착한 건 '미니'였다.",
-      "주변에서 태블릿 뭐 살지 물어볼 때 게임이나 동영상, e북 등 콘텐츠 소비가 2주 목적이라면 8인치대 제품을 권한다.",
-      "결국엔 들고 다니기 편해야 손이 간다.문제는 생각보다 선택지가 많지 않다는 점이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9fdf69fd",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026062112030914247",
-    "title": "반도체 호황의 힘…'삼전닉스' 계약학과, 서울대 자연대보다 합격선 위",
-    "summary": [
-      "삼성전자와 SK하이닉스 채용 합격이 보장되는 반도체 계약학과의 정시 합격 평균 점수가 서울대 자연대보다 앞서고 의대 턱밑까지 추격한 것으로 나타났다.",
-      "취업난에도 불구하고 삼성전자·SK하이닉스의 핵심 인재 채용, 억대 성과금 소식이 잇따르자 수험생들의 진학 선호도가 바뀌고 있는 것으로 해석된다.",
-      "21일 종로학원에 따르면 연세대, 고려대, 한양대, 성균관대, 서강대 등 서울 소재 대학 반도체 학과의 2026학년도 정시 모."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스",
-      "#채용"
-    ]
-  },
-  {
-    "id": "n345e1c59",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260619_0003675945",
-    "title": "KAIST, '바이오 USA 2026' 첫 단독관 운영…22~25일 샌디에이고",
-    "summary": [
-      "[대전=뉴시스] 김양수 기자 = 한국과학기술원(카이스트·KAIST)은 22일부터 미국 샌디에이고에서 열리는 세계 최대 바이오산업 행사인 'BIO International Convention 2026(BIO USA 2026)'에 단독 전시관을 개설하고 보유한 바이오기술 및 교원창업기업의 혁신기술들을 세계에 선보인다고 21일 밝혔다.",
-      "BIO USA는 글로벌 제약사와 투자기관, 연구기관이 대거 참여하는 국제 바이오 비즈니스 행사다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nc14addba",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026062111503464717",
-    "title": "'최고 연 19.4% 금리' 청년미래적금 22일 출시…2주간 가입 접수",
-    "summary": [
-      "만 19~34세 청년들이 22일부터 2주간 최고 연 19.4%의 금리 혜택을 제공하는 청년미래적금에 가입할 수 있게 된다.",
-      "21일 금융위원회에 따르면 청년미래적금은 22일부터 다음 달 3일까지 2주간 가입 신청을 받는다.",
-      "청년미래적금은 매월 최대 50만원 한도 내에서 자유롭게 납입할 수 있는 3년 만기 자유적립식 상품이다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nd1dc972b",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026062111110717361",
-    "title": "중기중앙회, LG CNS·메가존과 중소제조업 AX 지원",
-    "summary": [
-      "중소기업중앙회는 LG CNS, 메가존과 함께 '2026년 대·중소 상생형 AX 선도모델 사업'의 지원 대상을 모집한다고 21일 밝혔다.",
-      "이번 사업은 인공지능(AI) 전문 대기업의 첨단 기술력과 혁신역량을 중소기업 현장에 직접 전수하는 대·중소 상생협력 사업으로, 공정 개선을 넘어 기업의 전사적 인공지능 전환(AX)을 지원하고 중소기업 현장에 맞는 AX 모델 구축을 목표로 한다.지원 대상으로 선정되면, 사업 기간 최대 12개월 동안."
-    ],
-    "chips": [
-      "#AI",
-      "#채용"
-    ]
-  },
-  {
-    "id": "nd7ba88d2",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026062110421654270",
-    "title": "여전사·저축은행 책무구조도 미흡…\"대표-이사회의장 겸직 이해상충 방지\"",
-    "summary": [
-      "대형 여신전문금융회사와 저축은행의 책무구조도 제출 기한이 열흘가량 남은 가운데 미흡 사항이 다수 발견된 것으로 나타났다.",
-      "대표이사가 이사회 의장을 겸직할 때 이해상충 방지책을 기재하는 등 책무구조도의 기본 사항조차 제대로 이행되지 않는 것으로 파악됐다.",
-      "금융감독당국은 고위경영진의 책임 강화 방안을 모색하는 등 제도 안착을 위해 노력한다는 방침이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfce33ef2",
-    "category": "IT",
+    "id": "nd21ab3bf",
+    "category": "사회",
     "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260619/134143919/2",
-    "title": "“하닉 없는 자, 모두 유죄”…‘최태원 밈’까지 등장",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260621/134150789/1",
+    "title": "정점식, 靑 수석급 개편에 “국면전환용 인사에 불과”",
     "summary": [
-      "SK하이닉스 주가 상승세에 온라인에서 최태원 SK그룹 회장을 소재로 한 각종 밈이 확산하고 있다.",
-      "이는 최근 반도체 랠리에 올라탄 개인 투자자들의 뜨거운 투자 열기와 포모(FOMO·소외되는 것에 대한 두려움) 증후군을 고스란히 반영한다는 분석이 나온다."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n34495552",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677121",
-    "title": "국립공원공단, 지역 문화·자연 자원 연계한 생태관광 선보여",
-    "summary": [
-      "[세종=뉴시스] 안호균 기자 = 국립공원공단은 계곡 및 바다 등 국립공원의 특색있는 자연자원과 지역 고유의 관광·문화자원을 연계한 '국립공원 테마형 생태관광'을 운영한다고 21일 밝혔다.",
-      "이번 국립공원 생태관광은 기존 탐방 및 체험 활동을 ▲생태여행(주왕산·다도해) ▲역사문화여행(속리산·경주) ▲풍경여행(한려해상·설악산) ▲가족여행(월악산·월출산) 등 4개의 주제별로 새롭게 단장해 색다른 여행 경험을 제공한다.",
-      "특히 올여름에 주목할 만한 국립공."
+      "국민의힘 정점식 원내대표가 21일 청와대의 수석급 교체에 대해 “야당이 요구한 국정기조전환용 인사가 아닌, 국민의 이목을 분산시키기 위한 국면전환용 인사에 불과하다”고 비판했다.",
+      "정 원내대표는 이날 페이스북을 통해 먼저 신임 홍보소통수석에 대해 “홍보소통수석 자리에 이규연 수석에 이어 또다시 언론사 사장 출신 성기홍 전 연합뉴스 사장을 임명한 것은 언론의 독립성을 훼손하는 부적절한 인사”라며 “언론장악의 목적을 노골적으로 드러낸 것”이라고 적었."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9055f999",
+    "id": "n85781963",
     "category": "사회",
     "source": "뉴시스",
     "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677092",
-    "title": "주거·교육 공간 생활폐기물 수집·운반 안전기준 강화한다",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677182",
+    "title": "조국혁신당 \"靑 민정수석 한찬식 임명 우려…반개혁적 전력\"",
     "summary": [
-      "[세종=뉴시스] 안호균 기자 = 기후에너지환경부는 생활폐기물 수집·운반 작업 시 보행자, 어린이 등의 안전을 위해 차량 내 안전장치 설치, 작업자 준수사항 등을 규정하는 '폐기물관리법' 시행령 및 시행규칙 일부개정령안을 8월 3일까지 입법예고한다고 21일 밝혔다.",
-      "이번 개정에 따라 올해 11월 12일부터는 학교, 유치원, 어린이집, 300세대 이상 공동주택 등에서 생활폐기물을 수집·운반하는 모든 작업자는 보행자 등을 위한 안전기준을 준수해야 한."
-    ],
-    "chips": [
-      "#교육",
-      "#환경"
-    ]
-  },
-  {
-    "id": "nedd28323",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677090",
-    "title": "\"보험금 심사기준 변경시 소비자 사전 안내\"…금감원 행정지도 추진",
-    "summary": [
-      "[서울=뉴시스] 최홍 기자 = 앞으로 보험회사는 보험금 심사기준을 변경할 경우 소비자에게 의무적으로 사전 안내해야 한다.",
-      "또 심사기준 변경에 대한 심의절차를 마련하고 여기에 소비자보호 임원을 필수적으로 참여시켜 내부통제를 강화해야 한다.",
-      "금융감독원은 21일 이같은 내용의 행정지도를 추진한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n569cef6c",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/06/21/IXHFH6T36BCIRO4G3G3FSVI2DQ/",
-    "title": "AI가 바꾸는 회계의 미래…“전표 입력은 AI가, 회계사는 전략 짠다”",
-    "summary": [
-      "AI가 바꾸는 회계의 미래…“전표 입력은 AI가, 회계사는 전략 짠다”."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n77e92d82",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/21/HBQWEM3GHBTDSMZZGU3WGNTEMQ/",
-    "title": "\"긍정적 마음으로 최선...\" 2타수 2홈런 4타점 시즌 15호포, 1년 새 이토록 성숙하다니… 한화 효자 외인의 재발견",
-    "summary": [
-      "[대전=스포츠조선 정현석 기자]한화 이글스 외국인 타자 요나단 페라자가 사령탑의 역사적인 경기를 승리로 이끌며 팀의 6연패 사슬을 끊어냈다.",
-      "최근의 타격 부진을 딛고 선제, 쐐기 홈런 두 방을 몰아친 페라자는 성적 뿐 아니라 정신적으로도 한층 성숙해진 모습을 보이며 진정한 '효자 외인'으로 거듭나고 있다.",
-      "페라자는 20일 대전 한화생명이글스파크에서 열린 삼."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0f702c3d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621021300009",
-    "title": "알바니아 반부패시위 '들불'…진원은 트럼프 사위의 리조트 개발",
-    "summary": [
-      "(서울=연합뉴스) 오수진 기자 = 도널드 트럼프 미국 대통령 사위의 리조트 개발 사업 문제로 촉발된 알바니아 시위가 정치권 전반을 향한 반부패 ..."
+      "[서울=뉴시스] 이창환 기자 = 조국혁신당은 21일 신임 청와대 민정수석으로 한찬식 김앤장법률사무소 변호사가 임명된 데 대해 \"한찬식 신임 민정수석, 반개혁적 전력 우려된다\"고 했다.",
+      "박병언 조국혁신당 선임대변인은 이날 국회 소통관 기자회견을 통해 \"청와대가 오늘 한찬식 전 검사를 민정수석에 임명했다고 밝혔다\"며 이같이 말했다.",
+      "그는 \"올 하반기 당면한 검사 보완수사권 및 전건송치주의 문제에 대한 검찰개혁 2단계 논의를 앞두고 있는 상황에서 한."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n49c22891",
+    "id": "ne6188e0e",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677205",
+    "title": "성동구 치매안심센터, 서울시 우수 프로그램 공모 '대상'",
+    "summary": [
+      "[서울=뉴시스]최현호 기자 = 서울 성동구는 성동구치매안심센터의 '성동상회 성수동 기억잡화점' 사업이 2026년 인지장애 대상자 및 가족의 일상 누림을 위한 우수 프로그램 공모사업에서 대상을 수상했다고 21일 밝혔다.",
+      "이번 공모사업은 서울시광역치매센터가 주최하고 주식회사 에자이가 후원한 사업으로, 인지장애 대상자와 가족이 지역사회와 연결된 일상을 이어갈 수 있도록 지원하는 우수 프로그램을 발굴하기 위해 마련됐다.",
+      "선정은 서울 자치구 치매안심센터."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd10edb7c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/06/21/JIRKGO7GS5GV7AWNSR3FDNCSZU/",
+    "title": "국힘 “6·3 지선 장동혁 혼신” 자평...오세훈은 “서울 출몰하는 張 피하느라 신경”",
+    "summary": [
+      "국힘 “6·3 지선 장동혁 혼신” 자평...오세훈은 “서울 출몰하는 張 피하느라 신경”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n49f3bab3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/21/MU2TKZBZMVRTQYZSMZRDQNRUHA/",
+    "title": "'-35kg' 김다예, 90kg 시절 끌올 \"행복했던 돼지\"…♥박수홍 또 놀랄 그 시절",
+    "summary": [
+      "[OSEN=장우영 기자] 방송인 박수홍의 아내 김다예가 38kg을 감량했다.김다예는 21일 자신의 소셜 계정에 “저 회춘한 것 같아요.",
+      "오랜만에 90kg 시절 사진 보는데 지금보다 오히려 나이 들어 보여요? 그래도 행복했던 돼지 시절.",
+      "하지만 건강은 최악이었던”이라며 여러 장의 사진을 공개했다.공개된 사진에서 김다예는 임신중독증 등으로 인해 몸무게가 늘어."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n95066cac",
     "category": "부동산",
     "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/06/21/IKHT6BIT55FVLN6ODN36BU5INM/",
-    "title": "임광현 “등록임대아파트 매도기회 주면 서울 6만8000호 공급효과”",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/06/21/GQ2TGNJQGU4GMZBXGQ4WGOJUG4/",
+    "title": "금감원, 내년 재무제표 중점심사 이슈 공개…투자부동산 첫 포함",
     "summary": [
-      "임광현 “등록임대아파트 매도기회 주면 서울 6만8000호 공급효과”."
+      "금융감독원이 회계처리 오류가 반복적으로 발생한 투자부동산 등을 내년 재무제표 심사 과정에서 집중 점검한다.",
+      "금감원은 2026년 재무제표 심사에서 ▲국외 매출·매출채권 회계처리 ▲재고자산 평가손실 인식 적정성 ▲투자부동산 회계처리 ▲충당부재 인식·측정과 우발부채 공시를 중점 심사하겠다고 21일 밝혔다.",
+      "투자부동산 회계처리는 중점 심사 회계 이슈에 처음 포함."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "n0baa0496",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/06/21/WY3BDVWH6ZGZNARHCYAFIIPQSE/",
-    "title": "우리금융, 생산적·포용금융 10조원 추가 지원…총 90조원 규모 확대",
+    "id": "n187c5e87",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677197",
+    "title": "안양천 산책길에 해바라기 활짝…금천구, 2000㎡ 꽃밭 조성",
     "summary": [
-      "우리금융, 생산적·포용금융 10조원 추가 지원…총 90조원 규모 확대."
+      "[서울=뉴시스]최현호 기자 = 금천구는 안양천 독산보도교 일대에 조성한 약 2000㎡ 규모 해바라기 꽃밭이 본격적으로 개화해 여름철 볼거리를 선사하고 있다고 21일 밝혔다.",
+      "꽃밭은 독산보도교 인근 자전거쉼터 주변과 하안교에서 안양천 소규모 축구장 사이 구간 등 2개 구간에 조성됐다.",
+      "해바라기는 이달 말까지 감상할 수 있을 것으로 예상된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1f849cf6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621021400001",
-    "title": "[프로필] 송기호 안보실 3차장…경제안보 챙길 통상 전문가",
-    "summary": [
-      "(서울=연합뉴스) 정연솔 기자 = 21일 임명된 송기호 신임 청와대 국가안보실 제3차장은 법률가 출신의 국제통상 전문가다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc4b15d2a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621021500104",
-    "title": "방글라데시 총리, 취임 후 첫 해외 순방…말레이·중국 방문",
-    "summary": [
-      "(자카르타=연합뉴스) 손현규 특파원 = 타리크 라흐만 방글라데시 총리가 지난 2월 취임 후 첫 해외 순방을 통해 말레이시아와 중국을 잇달아 방문..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc94fa62b",
+    "id": "nea5f454f",
     "category": "사회",
     "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260621/134150081/2",
-    "title": "조국혁신당 대표 대행 “연대는 필수, 합당은 선택”",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260621/134150673/1",
+    "title": "조국혁신당 “한찬식 민정, 文정부 ‘블랙리스트’ 수사 전력 우려“",
     "summary": [
-      "조국혁신당 신장식 당대표 권한대행이 21일 더불어민주당을 향해 “민주개혁 진보 진영 전체가 하나가 되어 모든 역량을 총결집할 수 있도록 ‘국정운영 원팀 플랫폼’을 구성하자”고 제안했다.신 권한대행은 이날 오전 국회에서 기자간담회를 열고 “지난 대선 당시의 원탁회의를 국정상설협의체로 격상한다면 국정운영의 엔진은 훨씬 더 뜨겁게 가동될 것”이라며 “지금 우리에게 필요한 것은 거대한 연합의 힘”이라고 했다.그러면서 “우리 모두가 국민주권정부의 성공을."
+      "조국혁신당이 21일 청와대 대통령민정수석비서관에 발탁된 검찰 출신 한찬식 김앤장법률사무소 변호사에 대해 “올 하반기(7~12월) 당면한 검사 보완수사권 및 전건송치주의 문제에 대한 검찰개혁 2단계 논의를 앞두고 있는 상황에서 우려되는 바가 매우 크다”고 밝혔다.",
+      "조국혁신당 박병언 선임대변인은 이날 “한 수석은 과거 서울동부지검장 재직 시절 문재인 정부의 ‘환경부 블랙리스트’ 사건을 수사하여, 김은경 전 환경부 장관과 송인배, 신미숙 전 청와대."
+    ],
+    "chips": [
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n0dd16a39",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677200",
+    "title": "광주 북구, 한의약 건강돌봄사업 우수기관에 선정",
+    "summary": [
+      "[광주=뉴시스]변재훈 기자 = 광주 북구가 주민 건강 증진을 위해 추진한 한의약 건강 돌봄 사업 추진 성과를 인정받아 장관상을 받았다.",
+      "북구는 보건복지부와 한국한의약진흥원이 주관한 '한의약 건강돌봄 성과 평가' 우수기관으로 선정돼 보건복지부 장관상을 받았다고 21일 밝혔다.",
+      "광주에서는 유일한 한의약 건강돌봄사업 우수 지자체다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb8e5e605",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "10분 전",
+    "url": "https://www.hankyung.com/article/202606208011i",
+    "title": "'제조업 강국' 한국의 新무기 되나…탄소시장 규칙 짜는 GGGI",
+    "summary": [
+      "'제조업 강국' 한국의 新무기 되나…탄소시장 규칙 짜는 GGGI."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n78a2cbfb",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "13분 전",
+    "url": "https://www.hankyung.com/article/2026062186777",
+    "title": "\"월세마저 올랐다\"…이사 포기하고 눌러앉는 세입자들",
+    "summary": [
+      "\"월세마저 올랐다\"…이사 포기하고 눌러앉는 세입자들."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n14cc6eff",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621028000007",
+    "title": "[월드컵] '15개 선방' 퀴라소 골키퍼 \"제 동상이 세워져야 할 것 같아요\"",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = \"이제 퀴라소에 제 동상에 세워져야 할 것 같아요.\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8ae72d29",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/202606196089g",
+    "title": "손풍기가 '15만원'인데 품절 대란?…직접 써보니 달랐다",
+    "summary": [
+      "손풍기가 '15만원'인데 품절 대란?…직접 써보니 달랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5beae135",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "16분 전",
+    "url": "https://www.hankyung.com/article/2026061844716",
+    "title": "40대 가장의 여유…왕길역 로열파크시티서 혼자 놀기 [현장+]",
+    "summary": [
+      "40대 가장의 여유…왕길역 로열파크시티서 혼자 놀기 [현장+]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74e5f42e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621027800064",
+    "title": "'무더위 날린다' 해발 430m 보은 속리산서 알몸 마라톤 대회",
+    "summary": [
+      "(보은=연합뉴스) 이성민 기자 = 충북 보은군 속리산 말티재에서 21일 알몸 마라톤대회가 열렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n18a8a8aa",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260621/134150636/1",
+    "title": "해수부 차관에 남재헌 북극항로 추진본부장",
+    "summary": [
+      "이재명 대통령이 21일 신임 해양수산부 차관에 남재헌 현 해양수산부 북극항로추진본부장을 임명했다.강유정 청와대 수석대변인은 이날 서면 브리핑을 통해 “신임 남 차관은 해수부 항만국장과 부산항북항통합개발추진단장을 역임한 대표적인 항만 전문가로 업무 추진력을 두루 갖추고, 문제 해결 능력이 뛰어난 정통 관료”라며 이같이 밝혔다.",
+      "강 수석대변인은 남 차관에 대해 “초대 북극항로추진본부 본부장을 맡아 북극항로특별법 제정 등 북극항로 개척과 해양수도권."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n7b11349d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/People/article/all/20260621/134150404/1",
+    "title": "서경배 차녀 서호정 씨, 21일 외국계 컨설턴트와 결혼",
+    "summary": [
+      "서경배 아모레퍼시픽그룹 회장의 차녀 서호정 씨가 21일 결혼한다.",
+      "아모레퍼시픽그룹에 따르면 서 씨는 이날 오후 6시 30분 서울 중구 장충동 신라호텔에서 결혼식을 올린다.",
+      "예비 신랑은 해외 유학생 출신의 외국계 회사 투자·경영 컨설턴트로 알려졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7aa15976",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621027700001",
+    "title": "해양수산부 차관에 남재헌 북극항로 추진본부장 임명",
+    "summary": [
+      "(서울=연합뉴스) 고동욱 설승은 기자 = 이재명 대통령은 21일 해양수산부 차관으로 남재헌 현 해수부 북극항로추진본부장을 임명했다고 강유정 청와..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n89b04563",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621026500017",
+    "title": "코리아국제스트리밍페스티벌 성료…\"K-OTT 투자유치 지원\"",
+    "summary": [
+      "(서울=연합뉴스) 김주환 기자 = 과학기술정보통신부는 국내 스트리밍·콘텐츠 산업의 글로벌 경쟁력을 강화하고자 개막한 2026 코리아국제스트리밍페..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n606c6a06",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "1시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260621020523",
+    "title": "[타보고서] 77㎞는 전기로, 코너는 날카롭게…라브4 PHEV GR스포츠",
+    "summary": [
+      "[지디넷코리아]전기차처럼 조용하게 출발했지만, 가속 페달을 밟는 순간 분위기가 달라졌다.",
+      "토요타 올 뉴 RAV4(라브4) PHEV GR SPORT는 모터가 주도하는 부드러운 주행감에 엔진의 힘을 자연스럽게 더하며 예상보다 경쾌한 움직임을 보여줬다.지난 18일 인천 영종도 일대에서 진행된 시승 행사에서 올 뉴 라브4 하이브리드와 PHEV GR스포츠 등을 차례로 주행했다.",
+      "시승 차량 가격은 HEV XLE 4927만원, HEV 리미티드 5746만원,."
+    ],
+    "chips": [
+      "#전기차"
     ]
   }
 ];
@@ -644,21 +645,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
