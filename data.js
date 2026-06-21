@@ -1,22 +1,6 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-21 14:44:41
+// 마지막 업데이트: 2026-06-21 15:33:24
 window.NEWS_DB = [
-  {
-    "id": "na35b331b",
-    "category": "IT",
-    "source": "문화일보",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
-    "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진",
-    "summary": [
-      "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진 문화일보."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
   {
     "id": "nb40c53b9",
     "category": "IT",
@@ -47,21 +31,6 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nf63d61ce",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LZ0t3U1YzSUtOaG4ycWpjOGthb0hmQ3N2ODV3SEpEUTRJeW50X3lnWVlURngyVXlYUmxBYjBwMlJ5b1VxUE5feEcwaHllZklJX29oZVFhWW8zZ2fSAWBBVV95cUxPRzFRLVdnbjUxbDktMHE3Y0RDTWdUTV93ZkJOYWRVYmJPVFlySi1XR3dVVlRYWGtpREF6aWRDRTM3R28xaXBRMDFDTFhVODU1SzRCRG5kZVZBZU1keTBOSTI?oc=5",
-    "title": "아마존, AI 칩 외부 판매 추진…엔비디아 아성 도전",
-    "summary": [
-      "아마존, AI 칩 외부 판매 추진…엔비디아 아성 도전 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -120,22 +89,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
-    ]
-  },
-  {
-    "id": "nf3565e6d",
-    "category": "IT",
-    "source": "세종의소리",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JQ1Z1QXI4WXF3a1NDWG83U2t5Q1V1M21TXy1JSS1NR3UyUVJ3WVVVODl6ZVBMQS1fNVBJZERrZ2FVdVNnYWZ1TDhzOHVaal9ZVDZlZ3U2ajY0LUItNzViVkNFbDU5bzQ?oc=5",
-    "title": "엔비디아, 30조 회사채 발행 추진…한국 AI·반도체 산업엔 기회인가 경고인가",
-    "summary": [
-      "엔비디아, 30조 회사채 발행 추진…한국 AI·반도체 산업엔 기회인가 경고인가 세종의소리."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -260,20 +213,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "81일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -319,40 +258,255 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5b5e5496",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260621/134153477/2",
-    "title": "[사설]靑 3실장 유임, 수석급 개편… 2년 차부턴 진짜 성과 보여 줘야",
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "261일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
     "summary": [
-      "이재명 대통령이 대통령실 홍보소통·민정·사회수석비서관과 국가안보실 제1, 3차장을 21일 교체했다.",
-      "청와대 수석비서관급 참모의 절반을 바꾸는 중폭 개편을 통해 2기 국정 운영의 전열을 재정비했다.",
-      "개각을 통해서 일 잘하는 인재를 발탁하고 실용 정부의 실력을 성과로 입증할 일이 남았다."
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
     ],
     "chips": [
-      "#정치"
+      "#손흥민",
+      "#KBO"
     ]
   },
   {
-    "id": "n04e2f110",
+    "id": "nabbfc232",
     "category": "사회",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/06/21/NUT2WBDLUREMRP2E7A5OUJCM6U/",
-    "title": "[강헌의 히스토리 인 팝스] [318] 기술의 약속과 배신",
+    "time": "방금 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/22/XLIH47BMWZEYFNJ4TAPEFOI6LE/",
+    "title": "석유 최고가격제 손실 보전도 정부 뜻대로? 정산위 회의 비공개 방침에 불안한 정유사들",
     "summary": [
-      "[강헌의 히스토리 인 팝스] [318] 기술의 약속과 배신."
+      "석유 최고가격제 손실 보전도 정부 뜻대로? 정산위 회의 비공개 방침에 불안한 정유사들."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n5bb0979e",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "방금 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/06/22/OMUZGKDYUVHZDFQIF24E7RMXGY/",
+    "title": "美 수요 증가… 韓 전력기기 빅3, 현지 생산 확대",
+    "summary": [
+      "효성중공업을 비롯해 HD현대일렉트릭, LS일렉트릭 등 국내 전력기기 3사가 미국 현지 생산 확대에 총력을 기울이고 있다.",
+      "인공지능(AI) 데이터센터 증설과 노후 전력기기 교체 수요에 대응하기 위함이다.",
+      "21일 전력기기업계에 따르면 최근 효성중공업 자회사 효성HICO는 미국 에너지 인프라 솔루션 기업 콴타의 자회사와 합작법인 ‘효성HICO 브리커(HYOSU."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nc94c21d8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "방금 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/06/22/YXM3MJV2WZECZDGWDYRWR3PWVQ/",
+    "title": "BYD·도요타, 신차 앞세워 PHEV 불모지 한국 공략",
+    "summary": [
+      "BYD·도요타, 신차 앞세워 PHEV 불모지 한국 공략."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n81511101",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/economy/money/2026/06/22/O57QSG7DP5D5HPTWTFNIKWN3HQ/",
+    "title": "다음 달부터 219개 ‘동전주’ 기업도 상폐 대상",
+    "summary": [
+      "다음 달부터 219개 ‘동전주’ 기업도 상폐 대상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfab9c5bc",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260621/134152443/2",
+    "title": "“목동 30조 재건축 잡아라” 건설사 수주戰 시동",
+    "summary": [
+      "총 공사비가 30조 원에 이를 것으로 추정되는 서울 양천구 목동신시가지아파트 14개 재건축 단지가 본격적인 시공사 선정 단계에 접어들고 있다.",
+      "수주를 노리는 건설사들은 일찌감치 단지 인근에 브랜드 홍보관을 여는 등 조합원 표심 확보에 나섰다.",
+      "경쟁 수주 가능성이 큰 일부 대형 단지는 올 하반기(7∼12월) 재건축 수주전의 최대 격전지로 떠오를 것으로 보인다."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
+    "id": "nbba58298",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260621/134152458/2",
+    "title": "韓직장인 10명중 8명… “AI활용 뒤처질까 우려”",
+    "summary": [
+      "국내 직장인 10명 중 8명은 인공지능(AI) 시대에 빠르게 적응하지 못하면 뒤처질 것을 우려하는 것으로 나타났다.",
+      "이같이 ‘불안감’은 글로벌 평균보다 높았지만, 정작 조직의 AI 전환 수준은 글로벌 평균을 밑돌았다.",
+      "직원들 개개인의 AI 활용 의지는 높아졌지만 이를 뒷받침할 조직 문화와 리더십의 변화는 더딘 AI ‘전환의 역설’이 엿보인다는 분석이다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n944e7baf",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260621/134152460/2",
+    "title": "‘계란 10구’ 5000원 첫 돌파… 닭고기도 19% 급등",
+    "summary": [
+      "달걀과 닭고기 등 주요 농축수산물 가격이 오르면서 밥상 물가에 비상이 걸렸다.",
+      "달걀 특란(10구) 월평균 소비자 가격은 사상 처음 5000원을 넘어섰다.",
+      "예년보다 빠른 폭염에 ‘히트플레이션(열+인플레이션)’ 우려가 겹치면서 여름철이 물가 관리의 최대 고비일 것으로 전망된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n835d29d2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/People/article/all/20260621/134152486/2",
+    "title": "“담합 조사 시작후 자진신고땐 과징금 감면 75%로 축소 검토”",
+    "summary": [
+      "공정거래위원회가 담합 조사 착수 이후 자진 신고한 사업자에 대해서는 최초 신고자라도 과징금 감면 한도를 현행 최대 100%에서 최대 75%로 줄이는 내용으로 공정거래법 시행령 개정을 추진한다.",
+      "개정되면 앞으로는 담합 기업이 공정위 조사 착수 전에 담합 사실을 신고해야 과징금을 전액 면제받을 수 있다.",
+      "주병기 공정거래위원장은 18일 서울 중구 한국공정거래조정원에서 동아일보와 인터뷰를 갖고 공정위 조사 개시 전후를 구분해 자진 신고자 감면(리니언시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf45b1dbf",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677118",
+    "title": "백지영도 매일 챙긴다… 몸이 건강해지는 '마법의 이 식초'",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 가수 백지영이 직접 담근 파인애플 식초로 건강한 다이어트 일상을 공유해 눈길을 끌고 있다.",
+      "최근 백지영은 자신의 유튜브 채널 '백지영 Baek Z Young'을 통해 한 달여 동안 정성껏 숙성시킨 수제 '파인애플 식초'를 공개했다.",
+      "평소 다이어트에 관심이 많던 백지영은 시중 제품 대신 파인애플과 식초를 직접 배합해 자신만의 레시피로 파인애플 식초를 만들어 먹는다고 밝혔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2dfb6603",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677117",
+    "title": "어깨부터 옆구리까지…소유의 '상체 집중' 루틴 전격 공개",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 가수 소유가 여름을 앞두고 탄탄하고 건강한 상체 라인을 만들기 위한 자신만의 운동 루틴을 공개해 화제를 모으고 있다.",
+      "지난 15일 소유는 자신의 유튜브 채널 '소유기 SOYOUGI'를 통해 상체 집중 운동 루틴을 상세히 소개했다.",
+      "소유는 \"여름이 다가오고 있어 많은 분이 궁금해하시는 상체 루틴을 준비했다\"며, 평소 꾸준히 실천 중인 다양한 어깨 및 등 운동 동작을 선보였다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ne00389c2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677134",
+    "title": "\"맨날 삶은 계란 먹어\" 소녀시대 수영, 작품 앞두고 독한 다이어트",
+    "summary": [
+      "[서울=뉴시스]박윤서 인턴 기자 = 소녀시대 멤버 겸 배우 수영이 작품 준비를 위해 식단 관리에 한창인 근황을 전했다.",
+      "20일 유튜브 '효연의 레벨업 Hyo's Level Up'에는 소녀시대 멤버 효연, 유리, 수영이 함께 SM엔터테인먼트 사옥을 방문해 '효리수'의 데뷔곡을 선정하는 모습이 담긴 영상이 공개됐다.",
+      "효리수는 SM 직원들에게 부리또를 나눠준 뒤 직접 식사에 나섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf51ea131",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621050151071",
+    "title": "이란 호르무즈 재봉쇄 선언했지만 美 \"선박통항 분쟁前과 비슷\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 도널드 트럼프 행정부는 21일(현지시간) 이스라엘의 레바논 공습 지속에 반발한 이란이 호르무즈 해협 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne0bee6bb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677147",
+    "title": "파스타 먹고도 날씬한 이유?…옥주현이 밝힌 다이어트 비결",
+    "summary": [
+      "[서울=뉴시스]박윤서 인턴 기자 = 가수 겸 뮤지컬 배우 옥주현이 한 이탈리안 레스토랑에서 만족스러웠다는 후기를 전한 가운데 그녀의 다이어트 비결에도 관심이 쏠린다.",
+      "21일 옥주현은 자신의 SNS를 통해 \"차 막히는 헬프라이데이\"라는 글과 함께 여러 장의 사진과 동영상을 게시했다.",
+      "공개된 게시물에는 서울의 한 이탈리안 레스토랑에서 식사를 즐기는 모습이 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd41fabe1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260622000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9c4fed37",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621025351009",
+    "title": "젤렌스키 '민간인 학살' 역사 논쟁에 폴란드 최고훈장 반납(종합)",
+    "summary": [
+      "(서울·베를린=연합뉴스) 김승욱 기자 김계연 특파원 = 우크라이나와 폴란드 간 역사 인식 갈등이 격화하면서 볼로디미르 젤렌스키 우크라이나 대통령..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nca7b9b50",
     "category": "사회",
     "source": "아시아경제",
-    "time": "4분 전",
+    "time": "53분 전",
     "url": "https://view.asiae.co.kr/article/2026062123394584183",
     "title": "트럼프 \"이란, 레바논 대리세력 막지 않으면 다시 타격할 것\"",
     "summary": [
@@ -365,40 +519,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na76c49ee",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677394",
-    "title": "트럼프 \"英스타머 사임할 것…이민·에너지 문제서 심각한 실패\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 키어 스타머 영국 총리의 사임을 공개적으로 언급했다.",
-      "트럼프 대통령은 21일(현지 시간) 소셜미디어 트루스소셜에 \"키어 스타머는 총리직에서 사임할 것\"이라며 \"그는 이민과 에너지(북해 유전 개발)라는 두 가지 핵심 사안에서 심각한 실패를 저질렀다\"고 적었다.",
-      "트럼프 대통령은 지난해 9월 영국을 방문했을 때 스타머 총리에게 \"영국 상황이 미국과 매우 유사하다\"며 \"군을 투입하는 등 어떤."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7351b422",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/opinion/taepyeongro/2026/06/21/QNIOEZSQTJHGROHLQS2BQUZJXY/",
-    "title": "[태평로] 이명박·박근혜가 다시 청와대에 간다면",
-    "summary": [
-      "[태평로] 이명박·박근혜가 다시 청와대에 간다면."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n21222c87",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "6분 전",
+    "time": "54분 전",
     "url": "https://www.yna.co.kr/view/AKR20260621051000071",
     "title": "트럼프 \"영국 총리 사임할 것…이민·에너지서 큰 실패\"",
     "summary": [
@@ -409,40 +533,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndb57542b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260621/134153481/2",
-    "title": "[사설]檢 해체 D―102일… 형소법 개정은 아직도 공전 중",
-    "summary": [
-      "올 10월 2일이면 검찰청이 사라지고 중대범죄수사청(중수청)과 공소청이 출범한다.",
-      "22일로 새로운 형사사법제도 시행이 102일 앞으로 다가왔지만 새 시스템의 법적 기반이 될 형사소송법 개정은 여전히 지지부진하기만 하다.",
-      "개정안을 준비해 온 국무총리실 산하 검찰개혁추진단은 6·3 지방선거 전 국회에 초안을 보고할 계획이었지만 아직 내부 안을 확정하지 못한 상태라고 한다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3b6415d3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/06/21/SNAW42X35BGMHLVLNGAWU4VXUE/",
-    "title": "[문태준의 가슴이 따뜻해지는 詩] [126] 잠긴 방문",
-    "summary": [
-      "[문태준의 가슴이 따뜻해지는 詩] [126] 잠긴 방문."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nda202747",
     "category": "IT",
     "source": "테크M",
-    "time": "7분 전",
+    "time": "55분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152782",
     "title": "박윤영 KT 대표, 회사·고객 전략 재정비...'보안·AX' 영업 강화",
     "summary": [
@@ -456,135 +550,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n965dd996",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/opinion/journalist_view/2026/06/21/XXOVTD3RJZBKNJVH4RGZRNPEEA/",
-    "title": "[기자의 시각] 창업자들 배신한 ‘모두의 창업’ 사태",
-    "summary": [
-      "[기자의 시각] 창업자들 배신한 ‘모두의 창업’ 사태."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7a860720",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260621/134153479/2",
-    "title": "[사설]“호황에 부동산 꿈틀할 수도”… 불안 심리부터 진정시킬 때",
-    "summary": [
-      "김용범 대통령정책실장이 현 경제 상황을 “역대급 호황”으로 진단하며 “하반기에 선호 지역의 부동산 매수 심리가 다시 꿈틀거리기 시작할 수 있다”고 우려했다.",
-      "성과급 지급, 임금 인상, 수출 대금의 유입 등이 현실화할 연말과 내년 초가 진짜 고비가 될 것이라고 했다.",
-      "이에 따라 “보유세와 양도세를 합리적으로 조정하는 것은 필요하고 옳은 방향”이라고 강조했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#부동산",
-      "#정책",
-      "#수출"
-    ]
-  },
-  {
-    "id": "nf742f631",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621036951081",
-    "title": "\"게임 끝\"…위기의 英총리, 이르면 22일 사퇴 관측(종합)",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 영국 집권 노동당의 유력 당권 주자가 하원에 입성하게 되면서 당내 입지가 더 좁아진 키어 스타머 총리가 오랜..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc9fbbc24",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260621/134153466/2",
-    "title": "[김승련 칼럼]장동혁, 지금이 사퇴할 최적기다",
-    "summary": [
-      "장동혁 국민의힘 대표가 보수의 미래가 되기는 어렵다는 게 재차 확인된 것은 6·3 부산 북갑 국회의원 보궐선거다.",
-      "박민식(16%) 대 한동훈(41%)의 대결이었지만, 실은 장동혁-한동훈의 미래 전쟁이었다.",
-      "부산 유권자들은 넷플릭스 다큐로 스타가 된 정리 정돈 전문가 곤도 마리에 여사의 구호를 잘 아는 것처럼 투표했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc3de9d17",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621046151079",
-    "title": "이스라엘 국방 \"레바논 위협 제거에 제한 없어…군대 철수 안해\"(종합)",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이란이 레바논 교전 중단을 미국과의 후속 협상 조건으로 내걸었지만, 이스라엘은 헤즈볼라의 위협에 대한 자국..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na179e5ed",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/21/2026062122321099923",
-    "title": "김희철, 금테크 대박…할아버지 금목걸이+금 술잔 '무려 3000만원'",
-    "summary": [
-      "그룹 슈퍼주니어 김희철(42)이 금테크에 도전하려고 찾은 금은방에서 할아버지로부터 물려받은 금목걸이가 1500만원의 가치가 있다는 평가를 받자 기뻐했다.",
-      "21일 방송된 SBS 예능 '미운 우리 새끼(이하 미우새)'에서 김희철, 김종민, 김준호는 각자 갖고 있던 금제품들의 가격을 감정받기 위해 유튜버 링링 언니(본명 윤기선)가 운영하는 금은방을 찾았다.",
-      "김희철은 집에 있던 금제품들을 잔뜩 챙겨 감정을 의뢰했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ac2b49f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677399",
-    "title": "김준수, 첫 마카오 단독 콘서트 성료 \"왜 이제야 왔을까\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 가수 겸 뮤지컬배우 김준수(XIA)가 첫 마카오 단독 콘서트를 성료하며 아시아 투어의 순항을 알렸다.",
-      "21일 소속사 팜트리아일랜드에 따르면 김준수는 전날 마카오 그랜드 리스보아 팰리스 리조트 더 그랜드 홀(The Grand Hall, Grand Lisboa Palace Resort Macau)에서 '2026 시아 6th 아시아 투어 콘서트 '그래비티' 인 마카오(2026 XIA 6TH ASIA TOUR CONCER."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf7b23836",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677396",
-    "title": "경남교육감 당선인·인수위, 도교육청 주요업무보고 청취",
-    "summary": [
-      "[창원=뉴시스] 김기진 기자 = 권순기 경남교육감직 인수위원회는 경남교육청으로부터 첫 업무보고를 받고 본격적인 교육정책 검토에 들어갔다고 21일 밝혔다.",
-      "경남교육청은 지난 19일 경남교육청 교육정보원에서 인수위원회를 대상으로 주요업무 보고를 진행했다.",
-      "이번 보고는 올해 상반기 주요업무 추진 실적을 점검하고 하반기 사업 추진 방향을 공유하는 자리였다."
-    ],
-    "chips": [
-      "#정책",
-      "#교육"
-    ]
-  },
-  {
     "id": "nbc4174e3",
     "category": "IT",
     "source": "한국경제",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026062191141",
     "title": "LG 경영진, 엔비디아 방문 차세대 AI 협력 본격 논의",
     "summary": [
@@ -596,50 +565,82 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n671d71ff",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621050200087",
-    "title": "우루과이 물들인 K팝…2026 K팝 월드페스티벌 예선 열려",
+    "id": "n39d794df",
+    "category": "IT",
+    "source": "테크M",
+    "time": "2시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152781",
+    "title": "삼성전자 '산토끼'·LG전자 '집토끼', 매출·수익 확대 '총력'",
     "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 주우루과이한국대사관은 '2026 K-팝 월드 페스티벌'을 개최했다고 21일(현지시간) 밝혔다."
+      "삼성전자와 LG전자가 매출과 수익 향상에 공을 들이고 있다.",
+      "삼성전자는 신사업 속도를 낸다.",
+      "'건강관리'와 '인공지능(AI) 홈'에 관심을 쏟는다."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자",
+      "#스타트업",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nfa2db66b",
+    "category": "사회",
+    "source": "테크M",
+    "time": "2시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152780",
+    "title": "삼성·SK·LG, '미래·가치·공감·환경' 사회공헌 확대",
+    "summary": [
+      "삼성 SK LG가 사회공헌 활동을 다양화했다.",
+      "기업이 얼마나 사회적 가치(SV)를 창출했는지 성과를 계량화하려는 시도도 이어갔다.21일 삼성 SK LG는 사회공헌 활동 성과를 공개했다.삼성은 미래에 대한 투자를 지속했다.",
+      "청년 인재 양성과 함께 아동 교육에 힘을 쏟고 있다.삼성복지재단은 '삼성 유아 마음성장 프로그램'을 개발했다."
+    ],
+    "chips": [
+      "#교육",
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n687c9847",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026062191047",
+    "title": "한 달간 하루 출근에 수당 400만원…선관위 자료 봤더니",
+    "summary": [
+      "한 달간 하루 출근에 수당 400만원…선관위 자료 봤더니."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n39eb8978",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677395",
-    "title": "이 대통령 \"정치의 목적, 국민 삶 책임지는 것…작은 차이 넘어 힘 모아주시길\"",
+    "id": "n73fe1892",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/2026062191017",
+    "title": "\"맥주 마시면서 노인에 주삿바늘을\"…병원장 사진에 '발칵'",
     "summary": [
-      "[서울=뉴시스]김경록 기자 = 이재명 대통령은 21일 \"정치의 목적은 집권 자체를 넘어 나라의 운명과 5000만 국민의 삶을 책임지는 것\"이라며 \"세계시민의 이상국가, 대체불가 대한민국을 향해 조금 더 힘을 내주시고, 작은 차이를 넘어 힘을 모아주시기 바란다\"고 했다.",
-      "이 대통령은 이날 밤 X(옛 트위터)에 스위스 국제경영개발대학원(IMD) 분석 결과 올해 한국의 국가경쟁력 순위가 지난해 27위에서 21위로 올라 독일(23위)과 일본(30위)을."
+      "\"맥주 마시면서 노인에 주삿바늘을\"…병원장 사진에 '발칵'."
     ],
     "chips": [
-      "#정치",
-      "#교육"
+      "#의료"
     ]
   },
   {
-    "id": "nfe0f1c91",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "38분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/21/2026062123033951968",
-    "title": "이재명 대통령 \"국가경쟁력 조금씩 나아져…조금 더 힘 내 달라\"",
+    "id": "nadad8b33",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/2026062190947",
+    "title": "\"스마트폰 때문에 더 불편\"…삼성전자가 꺼낸 '비장의 무기'",
     "summary": [
-      "[the300] 이재명 대통령이 \"세계시민의 이상국가, 대체불가 대한민국을 향해 조금 더 힘을 내 주시고 작은 차이를 넘어 힘을 모아 주시기 바란다\"고 밝혔다.",
-      "이 대통령은 21일 자신의 SNS(소셜미디어) X(엑스·옛 트위터)에 \"현실경제는 물론 국가경쟁력도 조금씩 나아지고 있다.",
-      "모두 국민 여러분의 피나는 노력의 결과\"라며 이같이 밝혔다."
+      "\"스마트폰 때문에 더 불편\"…삼성전자가 꺼낸 '비장의 무기'."
     ],
     "chips": [
-      "#정치",
-      "#교육"
+      "#삼성전자"
     ]
   }
 ];
@@ -649,20 +650,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "1940건",
-    "trend": "+195%"
-  },
-  {
-    "rank": 3,
     "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
+  },
+  {
+    "rank": 3,
+    "tag": "의료",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
