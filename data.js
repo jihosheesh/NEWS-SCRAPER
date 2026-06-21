@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-21 12:35:32
+// 마지막 업데이트: 2026-06-21 13:32:34
 window.NEWS_DB = [
   {
     "id": "na35b331b",
@@ -139,6 +139,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13b4af19",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "13일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
@@ -228,6 +245,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "53일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -287,36 +319,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb4e9ce67",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "143일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43c0lBUTduWFZhNkNKY1FuanUxLTl3UUZxVGVFaXI2YlZfLW9iOVRrdGtnaDNVRFE3YjZtMkRuSTV0Tkl3RlNOUlIxWWswYjgtS1lEeG5pZjh3U03SAWBBVV95cUxOaFRuVzFHS1ktaDl1MWpSd1YxT2tlcldST2dQQ3BUVk8yOXM5c21zRE81dWphNWJEVkJEMmlsN1lqSzRaeFp0N3kzUGtGa3V3Z0F5QXltVkRtdkt1YUVESnA?oc=5",
-    "title": "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집",
-    "summary": [
-      "스타트업·벤처 유니콘 도약 지원 '유니콘브릿지' 참여기업 모집 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "서울특별시",
-    "time": "233일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
-    "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nda202747",
     "category": "IT",
     "source": "테크M",
@@ -334,10 +336,55 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n46a22dc7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/21/MZRWEMBUGZRDEZJYGU2GCNBUGM/",
+    "title": "\"일본 무시하면 안돼!\" 네덜란드 슈퍼스타 반 다이크도 인정했다. \"일본 과소평가된 팀. 정말 쉽지 않은 팀\"",
+    "summary": [
+      "[스포츠조선 류동혁 기자] 네덜란드는 스웨덴을 맹폭했다.",
+      "네덜란드는 21일 미국 휴스턴 스타디움에서 열린 스웨덴과의 2026년 북중미월드컵 조별리그 F조 2차전에서 스웨덴을 5-1로 눌렀다.",
+      "일본은 아시아 월드컵 역사를 새로 썼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7af1eea3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/21/GM3DKYZUHE4WKNRVG4ZTSNRSG4/",
+    "title": "“김태훈이 승리의 길목 막았다” 박진만 감독, 위닝 시리즈 승부처 짚었다 [오!쎈 대전]",
+    "summary": [
+      "[OSEN=대전, 손찬익 기자] “6회 무사 1,2루에서 등판한 김태훈이 실점 없이 위기를 잘 막은 장면이 승리로 가는 중요한 길목이었다.”삼성 라이온즈 박진만 감독이 위닝시리즈를 완성한 선수들의 활약에 아낌없는 박수를 보냈다.삼성은 21일 대전한화생명볼파크에서 열린 한화 이글스와의 원정 경기에서 3-1로 승리했다.",
+      "이로써 주말 3연전을 2승 1패로 마치며."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n93bb87b2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621049400087",
+    "title": "에스프리에야 vs 세페다…콜롬비아 결선 투표 시작",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 차기 콜롬비아 대통령을 뽑는 결선투표가 21일(현지시간) 전국에서 일제히 시작됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n39d794df",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "12분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152781",
     "title": "삼성전자 '산토끼'·LG전자 '집토끼', 매출·수익 확대 '총력'",
     "summary": [
@@ -353,10 +400,56 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2b8a35eb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677378",
+    "title": "스위스 회담, 최고위 회담과 함께 실무 협상팀 구성",
+    "summary": [
+      "[서울=뉴시스] 김재영 기자 = 미국과 이란이 잠정 종전안인 양해각서(MOU)를 양국간 영구 평화협정으로 확정시키기 위한 본격 협상을 스위스 뷔르곈겐슈토크에서 21일 오후 2시(한국시간 오후9시) 지나 시작했다.",
+      "이란 언론 그리고 중재국인 카타르 외무부가 온라인으로 양국 대표팀이 중재국인 파키스탄의 샤베즈 샤리프 총리와 카타르의 빈압둘라만 알타니 총리 아래 회담을 시작했다고 말했다.",
+      "미 백악관은 아직 언급이 없다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n667dd063",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/21/GA4GMMLEGZTDQOLCGQYGIODEGQ/",
+    "title": "\"분위기 가라앉을뻔\" 9회말 5점차 역전패 → 후유증 없었다! '멀티히트 7명' KIA, 홈런보다 더 힘든 20안타 대폭발 [수원승장]",
+    "summary": [
+      "[수원=스포츠조선 김영록 기자] \"타자들의 집중력이 돋보였다.",
+      "모든 타자들이 잘해줬다.\" 선두 LG 트윈스와 2위 KT 위즈를 상대로 연속 위닝시리즈를 거뒀다.",
+      "중위권에 1경기 차이로 쫓겼던 공포감은 사라지고, KT 상대로 3일간 31점을 때려넣은 호랑이의 포효만 남았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d55a0ce",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621019252004",
+    "title": "'개표소 봉쇄시위' 17일차…화력 줄었지만, 청년층 발길 여전(종합2보)",
+    "summary": [
+      "(서울=연합뉴스) 전재훈 정지수 기자 = 투표용지 부족 사태로 촉발된 서울 올림픽공원 핸드볼경기장 '잠실 개표소 봉쇄시위'가 17일째 이어지고 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nfa2db66b",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "25분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152780",
     "title": "삼성·SK·LG, '미래·가치·공감·환경' 사회공헌 확대",
     "summary": [
@@ -371,47 +464,94 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0ebb51b3",
+    "id": "ndc0eb8b9",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/21/GM3WCZJRMY4WCMDEGIYWIMLFGI/",
-    "title": "'부활 박재현 → 거포 변우혁 → 작두 교체까지' KIA 멀티히트만 7명! 장단 20안타로 KT 초토화…시리즈 위닝+3위 추격 '박차' [수원리뷰]",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677272",
+    "title": "월드컵 1000번째 경기서 '亞신기록' 일본, FIFA 랭킹 16위[월드컵24시]",
     "summary": [
-      "[수원=스포츠조선 김영록 기자] KIA 타이거즈가 3일 연속 뜨거운 화력을 뽐냈다.",
-      "선두 LG 트윈스-2위 KT 위즈를 상대로 잇따라 시리즈 위닝을 따내는 괴력도 뽐냈다.",
-      "KIA는 21일 수원 KT위즈파크에서 열린 KT 위즈와의 경기에서 11대5 대승을 거뒀다."
+      "[서울=뉴시스] 김진엽 기자 = 국제축구연맹(FIFA) 월드컵 1000번째 경기에서 아시아축구연맹(AFC) 국가 최초로 단일 경기 4골을 터트린 일본 남자 축구 대표팀이 FIFA 랭킹 2계단 상승한 16위에 자리했다.",
+      "일본은 21일 오후 1시(한국 시간) 멕시코 과달루페의 몬테레이 스타디움에서 열린 튀니지와의 북중미 월드컵 조별리그 F조 2차전에서 4-0 대승을 기록했다.",
+      "지난 15일 네덜란드와의 대회 첫 경기에서 2-2 무승부를 거뒀던 일본은."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6ddcf3d9",
+    "id": "n7e64e62c",
     "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/21/MUYDIMTGHAYDQMBQMYZGKZRRGI/",
-    "title": "노홍철, 엄청난 계획 밝혔다..“칠순 때 놀이공원 만들고파” (‘놀러코스터’)[순간포착]",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677302",
+    "title": "BTS 싱가포르 공연 티켓 원한 가사도우미…고용주가 VIP석 선물",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘놀러코스터’ 노홍철이 테마파크에 대한 설렘을 드러냈다.21일 첫 방송된 MBC 신규 예능 ‘놀러코스터’에서는 노홍철이 어린시절 놀이공원을 방문했던 때를 떠올렸다.이날 노홍철은 “어릴 적, 아버지에 대한 기억이 있다.",
-      "아버지는 항상 쉬는 날이 생기면 우리 형제를 놀이동산에 데려갔었던 그 기억이."
+      "[서울=뉴시스]박윤서 인턴 기자 = 그룹 방탄소년단(BTS)의 싱가포르 콘서트 티켓을 구하기 위해 고용주에게 급여 선지급을 요청한 가사도우미가 고용주로부터 콘서트 티켓을 선물 받았다는 사연이 전해졌다.",
+      "싱가포르 아시아원에 따르면 3년 반 동안 가사도우미로 근무해온 미얀마 출신 30대 여성 A씨는 BTS 싱가포르 콘서트에 가기 위해 고용주에게 손글씨로 편지를 작성해 급여 선지급을 조심스레 부탁했다.",
+      "손편지를 받은 고용주는 가사도우미에게 급여를 미."
+    ],
+    "chips": [
+      "#고용",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n5bb90279",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "37분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260621/134153610/1",
+    "title": "LG, 엔비디아와 AI 협력 속도 낸다…경영진·실무진 30여명 방미",
+    "summary": [
+      "LG그룹이 구광모 LG 대표와 젠슨 황 엔비디아 최고경영자(CEO)의 최근 회동을 계기로 인공지능(AI) 분야 협력 논의를 구체화한다.",
+      "21일 재계에 따르면 현신균 LG CNS 사장을 비롯한 LG 주요 계열사 경영진은 22일(현지 시간) 미국 캘리포니아주 산타클라라 엔비디아 본사를 방문한다.",
+      "정수헌 LG사이언스파크 대표와 김병훈 LG전자 최고기술책임자(CTO)를 비롯해 LG전자, LG이노텍, LG CNS, LG AI연구원 실무진 등 30여 명이."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n946a5f9e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621048400081",
+    "title": "폭염에 에펠탑 조기 폐장…스페인은 월드컵 거리응원 취소",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 서유럽을 덮친 폭염에 각국이 안전 예방 조치에 들어간다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6717f454",
+    "id": "nc6da3798",
     "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/21/MY3DKNJUGI4DAMDDMRSTONJTGE/",
-    "title": "이스라엘 국방장관 “레바논 안전지대서 절대 철수하지 않을 것”",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260621048700063",
+    "title": "[부고] 박민범(대전시 철도건설국장)씨 모친상",
     "summary": [
-      "이란이 미국과의 종전 합의 후속 협상에서 레바논 전선의 교전 중단을 핵심 조건으로 제시한 가운데, 이스라엘은 레바논 남부 주둔을 계속하겠다는 입장을 재확인했다.",
-      "이스라엘 카츠 국방장관은 21일(현지 시각) 성명을 내고 레바논 내 안보 위협을 제거하기 위한 이스라엘군의 작전에는 “과거에도 현재도 제한이 없다”고 밝혔다.",
-      "카츠 장관은 최근 발표된 휴전으로 이스."
+      "[부고] 박민범(대전시 철도건설국장)씨 모친상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd5cc9a8e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "54분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260621/134150733/1",
+    "title": "‘60일 시한’ 안고 협상장 간 美…이란은 “우라늄 농축 포기 못해”",
+    "summary": [
+      "미국과 이란이 21일(현지 시간)부터 스위스에서 뷔르겐슈토크에서 종전을 위한 양해각서(MOU) 이행 및 세부 조율을 위한 후속 협상에 들어갔다.",
+      "미국과 이란의 대면 협상은 올 4월11~12일 파키스탄 수도 이슬라마바드에서 진행됐던 협상 이후 처음이다.",
+      "미 협상단을 이끄는 J D 밴스 부통령은 20일 출국 직전 취재진에 “핵, 레바논 휴전 등에서 진전을 이루길 바란다."
     ],
     "chips": [
       "#뉴스"
@@ -421,7 +561,7 @@ window.NEWS_DB = [
     "id": "n4af91bec",
     "category": "사회",
     "source": "동아일보",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260621/134153215/1",
     "title": "“채원이 기억 넘어 안전사회로”…49재서 노란나비에 앉은 눈물",
     "summary": [
@@ -437,7 +577,7 @@ window.NEWS_DB = [
     "id": "nadad8b33",
     "category": "IT",
     "source": "한경IT",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026062190947",
     "title": "\"스마트폰 때문에 더 불편\"…삼성전자가 꺼낸 '비장의 무기'",
     "summary": [
@@ -448,54 +588,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n71dc99fe",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026062121131054922",
-    "title": "[2026월드컵]일본, 亞국가 월드컵 본선 최다 골 신기록…튀니지에 4-0 대승",
-    "summary": [
-      "일본이 2026 북중미 월드컵에서 아시아축구연맹(AFC) 소속 국가 월드컵 본선 단일 경기 최다 득점 신기록을 세웠다.",
-      "모리야스 하지메 감독이 이끄는 일본 축구대표팀은 21일(한국시간) 멕시코 몬테레이 스타디움에서 열린 2026 북중미 월드컵 조별리그 F조 2차전에서 우에다 아야세의 2골 1도움 활약을 앞세워 튀니지를 4-0으로 완파했다.",
-      "일본은 1차전에서 스웨덴에 1-5로 대패한 뒤 감독을 교체한 어수선한 분위기의 튀니지를 상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nabbff99f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621047000063",
-    "title": "중고거래 하는 척…팔찌 훔쳐 달아난 10대 검거",
-    "summary": [
-      "(대전=연합뉴스) 김소연 기자 = 대전 중부경찰서는 중고 거래를 하는 척하면서 수천만원짜리 귀금속을 훔친 혐의로 A(17)군을 불구속 입건했다고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1795f87b",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621046700007",
-    "title": "유도 김민종, 울란바타르 그랜드슬램 우승 \"올림픽 금메달 도전\"",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 유도 남자 최중량급 간판 김민종(양평군청·세계랭킹 14위)이 국제유도연맹(IJF) 2026 울란바타르 그랜드슬..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n9cfc4bbb",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260621/134153320/1",
     "title": "LG, ‘1회 4홈런’ 역사 쓰고 두산 3연전 싹쓸이…롯데 파죽의 5연승",
     "summary": [
@@ -506,43 +602,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne9cf9d7d",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260621/134151598/2",
-    "title": "日, ‘죽음의 조’에서 일냈다…亞 최초 월드컵 단일 경기서 4골",
-    "summary": [
-      "21일 멕시코 몬테레이 스타디움에서 열린 일본과 튀니지의 2026 북중미 월드컵 조별리그 F조 2차전은 통산 1000번째 월드컵 경기로 관심을 모았다.",
-      "관중석은 푸른색 비닐 봉투를 머리 위로 흔들며 푸른 물결을 일으킨 일본 팬들로 가득했다.",
-      "안방 같은 분위기 속에서 경기를 치른 일본은 골 폭죽을 터뜨리며 역사적인 경기의 주인공이 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nec087a91",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "34분 전",
-    "url": "https://view.asiae.co.kr/article/2026062118461262710",
-    "title": "광주지역 AI·디자인·제조기업 협업 나선다",
-    "summary": [
-      "광주지역 디자인기업과 제조기업, AI 전문기업이 함께 참여하는 협업 프로젝트가 추진된다.",
-      "인공지능 기술을 활용한 제품과 서비스 개발을 지원해 새로운 사업 모델과 미래 성장동력을 찾기 위한 시도다.광주디자인진흥원은 21일 지역 디자인기업과 제조기업, AI 전문기업의 공동 연구와 사업화를 지원하는 'AI 융합 디자인연구회·아이디어 발굴 지원사업' 참여기업을 모집한다고 밝혔다.",
-      "이번 사업은 '2026 광주산업화디자인프로."
-    ],
-    "chips": [
-      "#AI",
-      "#채용"
-    ]
-  },
-  {
     "id": "n1a14fa1a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "34분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260621_0003677320",
     "title": "'지방정원 등록 기념' 진주 정원박람회, 15만명 찾아왔다",
     "summary": [
@@ -558,7 +621,7 @@ window.NEWS_DB = [
     "id": "nc420022b",
     "category": "경제",
     "source": "한국경제",
-    "time": "35분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202606171767g",
     "title": "투썸에 한화까지 참전…배스킨 아이스크림 독주에 '도전장'",
     "summary": [
@@ -569,78 +632,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6254224d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "36분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677362",
-    "title": "선관위, 선거 준비예산을 인건비로…3년간 305억 다른 곳에 사용",
-    "summary": [
-      "[서울=뉴시스]한은진 기자 = 중앙선거관리위원회가 3년간 305억원 규모의 예산을 당초 배정받은 항목과 다른 곳에 사용한 것으로 드러났다.",
-      "김기현 국민의힘 의원이 중앙선관위로부터 제출받은 '최근 3년간 예산 이용·전용 현황'에 따르면 절반에 가까운 138억원은 국가재정법에 따른 기획예산처의 승인 없이 자체적으로 사용항목을 변경했고, 73억원은 선관위 직원들의 인건비 충당을 위해 사업 비목을 변경했다.",
-      "선관위는 2023년 약 37억원, 2024년."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3836af55",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260621046400054",
-    "title": "GGM 노조, 211일 이어온 천막 농성 중단…7월 한달간 집중교섭",
-    "summary": [
-      "(광주=연합뉴스) 정다움 기자 = 임금·단체협약(임단협) 결렬로 사측과 갈등을 빚은 광주글로벌모터스(GGM) 근로자들이 211일을 이어온 천막 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7060ef58",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677363",
-    "title": "노태악 전 선관위원장, 한 달 하루 출근하고 425만원 수당 받아",
-    "summary": [
-      "[서울=뉴시스]신재현 기자 = 노태악 전 중앙선거관리위원장이 정기회의를 위해 한 달에 하루 출근한 것을 두고 425만원의 수당을 받은 것으로 확인됐다.",
-      "투표용지 국조특위 소속인 윤건영 더불어민주당 의원이 21일 중앙선관위로부터 제출받은 '선관위원장 최근 3년간 출근기록과 수당지급 내용'에 따르면 노 전 위원장은 2024년 11월 정기회의에 참석하기 위해 하루 출근했다.",
-      "해당 달에 425만원 수당을 받았다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1f795caf",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20260621_0003677365",
-    "title": "개장 전 물놀이장서 초등생 형제 사망…수사 본격화",
-    "summary": [
-      "[곡성=뉴시스]변재훈 기자 = 공식 개장을 앞둔 물놀이 체험장에서 단 둘만 놀고 있던 초등학생 형제가 숨져 경찰이 수사에 나섰다.",
-      "21일 전남경찰청에 따르면 이날 오후 2시42분께 전남 곡성군의 한 민간 위탁 체험공원 내 물놀이장에서 '아이들이 물에 빠진 뒤 의식이 없다'는 신고가 소방 당국에 접수됐다.",
-      "신고를 받은 소방 당국이 초등학생 형제인 A(10)군과 동생(9)군을 병원으로 옮겼으나 이송 2시간여 만에 결국 숨졌다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n771fdb1e",
+    "id": "n7345e5e2",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "45분 전",
-    "url": "https://view.asiae.co.kr/article/2026062120500739034",
-    "title": "이란 외무부 \"레바논 종전 없인 최종 합의 없다\"",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026062190907",
+    "title": "[속보] 이란 국영 방송 \"이란, 美·카타르와 3자 회담 개시\"",
     "summary": [
-      "미국과 종전 후속 협상을 진행중인 이란이 레바논 전선의 완전한 종전을 최우선 조건으로 내세우며 압박 수위를 높이고 있다.",
-      "레바논 문제가 해결되지 않을 경우 호르무즈 해협 개방과 최종 합의 협상도 진전될 수 없다는 입장이다.",
-      "에스마일 바가이 이란 외무부 대변인은 21일(현지시간) 사회관계망서비스(SNS) 엑스(X)를 통해 \"이란은 미국의 약속 이행 여부를 매우 면밀하게 점검할 것\"이라며 \"최종 합의를 위한 협상 개시는 종."
+      "[속보] 이란 국영 방송 \"이란, 美·카타르와 3자 회담 개시\"."
     ],
     "chips": [
       "#뉴스"
@@ -653,8 +652,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
