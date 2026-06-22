@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-22 09:57:44
+// 마지막 업데이트: 2026-06-22 12:04:23
 window.NEWS_DB = [
   {
     "id": "n54b8c63b",
     "category": "IT",
     "source": "CEO스코어데일리",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWGxFNnF6eXBBcDFqRHdRS3A5dHU1MTV2djA1OWR5U3NJb2JXTzVZS19YTE1DNGpyYjhJbHMtV3AyN0JfT3RuNlhxQ2ZJbmdCZmZWTUlIX1JtMW1NcWFvUmVxdU9FX0ZE?oc=5",
     "title": "구광모·젠슨 황, ‘피지컬 AI’ 광속 행보…LG+엔비디아, ‘AI 로봇’ 나오나",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nc3ee88db",
     "category": "IT",
     "source": "매일산업뉴스",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jYlJJVzd0RWE1NjBSVzBhVExZNTlfa2VGVDNaZ0lfdUZUSUVXdVlKRk9Fc2RJLUpleW9JeWVwck0ySUNMR3RqNE5yUDctVDliUThOeUdodnAzUnc1UWFHOHJYcw?oc=5",
     "title": "SK하이닉스 '보통주 시총 1위' 올랐지만…우선주 포함시 삼성전자 여전히 1위 수성",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nc1d69d99",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTFhMUWl3ZFI3bWM3YUxLNUZxV3U0MkJrUTBOLWItd09maGUwV0l5RzVfNC0zNEttS3BUM21xNDNacHdhUDNUVjRacmZxOFhKbWlQOUQxRW9oUm9BSGZxelNVbV90UdIBakFVX3lxTE1QNDJvMDNHUllaUWFxRVRhUVQ5M1hxSzd2OWdlTWJKanhCbGYzRlBJdjFPMzZZdllUU3Z3M3VTeGxPTl9hSG5VSzI5Mk5xUy1KQ2RTaElfRHBGYll4VU13RTZTNzBEdXY3VGc?oc=5",
     "title": "'시총 1위 내줬다?'…우선주까지 더하면 아직 삼성전자, AI 반격도 이제 시작",
     "summary": [
@@ -47,25 +47,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2e43d208",
-    "category": "IT",
-    "source": "이코노미톡뉴스",
-    "time": "4시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4elpSbDh2RUU5OGdWQXN1WTBNOVU5LUFaajFGN3RxYXhkWGV6WEt4bjBlSXlFa2pSYXJ5eGVmQTBadVBRYTdEeUNneFVjRm9SR1lBQjFzRE9oVXFQVjdrb3VBT0FDOFF3WWVoSA?oc=5",
-    "title": "최태원 HBM 승부수 ‘통했다’… 삼성전자 26년 철옹성 붕괴",
-    "summary": [
-      "최태원 HBM 승부수 ‘통했다’… 삼성전자 26년 철옹성 붕괴 이코노미톡뉴스."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "n523b1408",
     "category": "IT",
     "source": "비즈니스플러스",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkMlpyUGgwOHZFWVlpM0hxcFlzcXU5V0xMQng0Y1l1YklNV3BPbU1WQW5jdzV6aFJtcXliVGIweHIyMFp4Wi1tc3ZmcGdmX3dvZVZ0Y2w5T0p0WVpxNkNfTkVoa3ZKQ3RucUtsX3BVdw?oc=5",
     "title": "[AI 기로에 선 한국/下]'학습'서 '추론'으로 이동하는 패권…토종 NPU로 '인프라 주권' 돌파구 찾는다",
     "summary": [
@@ -79,7 +64,7 @@ window.NEWS_DB = [
     "id": "n64dc67f5",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "12시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
     "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
     "summary": [
@@ -87,6 +72,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "na35b331b",
+    "category": "IT",
+    "source": "문화일보",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
+    "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진",
+    "summary": [
+      "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진 문화일보."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -380,258 +381,256 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne1000e8b",
+    "id": "n0047bb16",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026062221041364231",
+    "title": "[속보] 그린스펀 전 美연준 의장 별세…향년 100세",
+    "summary": [
+      "[속보] 그린스펀 전 美연준 의장 별세…향년 100세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nab38c76d",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026062221032860110",
+    "title": "미·이란, IAEA 핵사찰단 복귀 합의…밴스 \"최종 합의 토대 마련\"",
+    "summary": [
+      "미국과 이란이 국제원자력기구(IAEA) 사찰단의 이란 내 활동 재개에 합의했다고 JD 밴스 미국 부통령이 22일(현지시간) 밝혔다.",
+      "AFP통신에 따르면 밴스 부통령은 이날 스위스 루체른 뷔르겐슈토크 리조트에서 기자회견을 열고 \"이란이 IAEA 사찰단을 자국으로 다시 초청하는 데 동의했다\"고 말했다.",
+      "밴스 부통령은 \"이는 미국 국민에게 중요한 사건이자 이란 핵무기 프로그램을 영구적으로 비핵화하거나 종식하기 위한 첫걸음\"이라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3e13ab3f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260622_0003678991",
-    "title": "전북 진안 호우주의보 발령…시간당 30㎜ 강한 소나기 내려",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003679036",
+    "title": "박정훈 세계일보 신임 대표이사 취임",
     "summary": [
-      "[전주=뉴시스]강경호 기자 = 전북 진안군에 호우주의보가 발령됐다.",
-      "전주기상지청은 22일 오후 6시5분을 기해 진안군에 호우주의보를 발령했다고 밝혔다.",
-      "현재 호우주의보가 발령된 진안군은 시간당 30㎜의 강한 소나기가 내리고 있으며, 완주·임실·정읍 등에는 시간당 20㎜의 소나기가 내리고 있다."
+      "[서울=뉴시스] 최희정 기자 = 박정훈(56·사진) 세계일보 제18대 대표이사가 22일 오전 서울 용산구 세계일보 대강당에서 열린 취임식을 통해 공식 취임했다.",
+      "박 신임 대표는 부산 출신으로 선문대 신학과, 한양대 언론정보대학원 석사과정을 졸업했다.",
+      "박 대표는 1996년 세계일보에 입사해 비서실장 겸 기획국장, 경영관리본부장, 경영총괄부사장 등을 지냈다."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "n62ca659a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260622_0003678988",
-    "title": "정성호 법무장관, '전임자' 박성재 징역 25년에 \"부끄럽고 참담\"",
-    "summary": [
-      "[서울=뉴시스]홍연우 기자 = 정성호 법무부 장관이 12·3 비상계엄 사태에 가담한 혐의로 기소된 박성재 전 법무부 장관이 1심에서 징역 25년을 선고받은 데 대해 \"현 법무부 수장으로서 부끄럽고 참담한 심정을 금할 수 없다\"는 입장을 냈다.",
-      "정 장관은 22일 자신의 사회관계망서비스(SNS)에 올린 글에서 \"재판부의 판결을 무겁게 받아들인다\"며 이같이 밝혔다.",
-      "정 장관은 \"헌정질서와 법치주의가 위기에 처한 순간, 누구보다 민주주의와 인권을 수호."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5b26d605",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/22/HEYTEYJYG42DEMJZGRRGKNLCMQ/",
-    "title": "지연수, '5살 연하 치과의사와 재혼·득녀' 루머 해명 \"이혼후 연애NO..여유 없어\"(연수롭다)",
-    "summary": [
-      "[OSEN=김나연 기자] 방송인 지연수가 재혼에 대한 솔직한 마음을 털어놨다.22일 '지연수의 연수롭다' 채널에는 \"제 재혼 생각은요...?지연수 그녀의 솔직함 심경\"이라는 제목의 영상이 업로드 됐다.이날 지연수는 전남편 일라이와 이혼예능에 출연한 뒤 \"물론 응원해주시는 분들도 있는데 되게 나를 나쁘게 보는 분들도 꽤 많더라.",
-      "요즘 세대의 표현으로 나락간다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n71284cbd",
+    "id": "nbfb55103",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622150700530",
-    "title": "전국 말라리아 주의보 발령…유행지역 거주자 발열시 검사",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260622157300071",
+    "title": "'19년 재임' 앨런 그린스펀 前연준 의장 별세…향년 100세",
     "summary": [
-      "(서울=연합뉴스) 김영신 기자 = 질병관리청은 22일 전국에 말라리아 주의보를 발령했다고 밝혔다."
+      "(워싱턴=연합뉴스) 조준형 특파원 = 앨런 그린스펀 전 미국 연방준비제도(Fed·연준) 의장이 별세했다고 연준이 22일(현지시간) 발표했다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n7dde0381",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
+    "id": "na7f8e6b3",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622150200003",
-    "title": "DL이앤씨 \"사우디서 8천533억원 과세 통보…불복절차 진행\"",
+    "url": "https://www.yna.co.kr/view/AKR20260622059751004",
+    "title": "홍장원 전 국정원 1차장 특검서 10시간 조사…26일 4차 소환(종합)",
     "summary": [
-      "(서울=연합뉴스) 임기창 기자 = DL이앤씨는 사우디아라비아에서 과거 수주한 사업에 대해 사우디 과세당국으로부터 법인세 8천533억원 추징을 통..."
+      "(과천=연합뉴스) 최윤선 기자 = 3대 특검 이후 남은 의혹을 수사하는 권창영 2차 종합 특별검사팀이 22일 홍장원 전 국가정보원 1차장을 세번..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n259dc572",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260622_0003678987",
-    "title": "낙동강 물금·매리지점 조류경보 '경계' 단계 발령",
-    "summary": [
-      "[부산=뉴시스] 이아름 기자 = 부산시 상수도사업본부(본부)는 22일 낙동강 물금매리 지점의 조류경보가 관심에서 경계 단계로 상향 발령됐다고 밝혔다.",
-      "지난 8일 물금매리 지점에 관심 단계가 발령된 후 2주만에 경계로 상향된 것이다.",
-      "본부는 당분간 기온이 평년보다 높게 예보됨에 따라 조류 개체수가 증가할 것으로 전망했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0692eefb",
+    "id": "nc894c9de",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/22/MI4GMNBZMQ4TCOBVGVSTSNZTGE/",
-    "title": "\"Happy Father’s Day\" 원주 '붉은 전사' 박지성, 아이들과 행복한 근황",
-    "summary": [
-      "[OSEN=김수형 기자]박지성의 아내 김민지가 ‘아빠의 날’을 맞아 단란한 가족의 일상을 공개했다.김민지는 20일 자신의 SNS에 “Happy Father’s Day”라는 짧은 글과 함께 여러 장의 사진을 게재했다.공개된 사진에는 침대 위에서 잠든 손흥민과 아내 김민지, 그리고 아이의 모습이 담겼다.",
-      "박지성은 회색 티셔츠 차림으로 곤히 잠들어 있고, 아이를."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "nd624ecab",
-    "category": "사회",
     "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260622/134160763/1",
-    "title": "일동제약그룹 새로엠에스, 해양수산부 ‘비대면 섬 닥터’ 시행 업체 선정",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260622/134156122/1",
+    "title": "[속보]1차 회담 마친 밴스 “이란, IAEA 핵사찰단 접근 허용”",
     "summary": [
-      "일동제약그룹은 헬스케어 플랫폼 자회사 ‘새로엠에스’가 해양수산부 주관 어촌복지버스(어복버스) 일환으로 추진되는 ‘비대면 섬 닥터’ 사업 시행 기관에 선정됐다고 22일 밝혔다.어복버스는 해양수산부가 어업인 생활 편의 지원과 복지 향상을 위해 어촌 지역 주민을 대상으로 의료, 식품, 생활, 행정 등과 관련한 서비스를 조달·공급하는 사업이다.",
-      "비대면 섬 닥터의 경우 지리적 특성으로 인해 의료 기관 이용이 원활하지 못한 섬 지역 어업인들에게 비대면 원."
+      "미국과 이란이 종전을 위한 양해각서(MOU) 이행 등 후속 조치를 논의하기 위해 21일(현지 시간) 개최한 첫 번째 회담이 약 18시간 만인 22일 새벽 종료됐다.중재국 자격으로 이번 회담에 참여한 파키스탄과 카타르가 발표한 공동성명에 따르면 회담 참여국들은 원유 수송로인 호르무즈 해협의 자유로운 통항을 포함한 MOU 이행을 관리, 감독할 ‘고위급 위원회(High Level Committee)’를 신설하기로 했다.",
+      "또 레바논 사태의 해결을 위한."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n4c335523",
+    "id": "n18798033",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003679033",
+    "title": "\"넘어져도 다시\"…FIFA SNS에 한글응원 깜짝등장",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 국제축구연맹(FIFA)이 공식 사회관계망서비스(SNS)를 통해 대한민국 축구대표팀을 향한 이색적인 응원 메시지를 남겨 축구팬들의 눈길을 사로잡고 있다.",
+      "특히 이번 북중미 월드컵 공식 주제가를 연상케 하는 재치 있는 문구로 격려를 전했다.",
+      "FIFA는 22일(한국 시간) 공식 인스타그램 계정에 \"한국, 조별리그 마지막 경기도 화이팅!\"이라는 문구와 함께 조규성, 엄지성, 이한범, 이강인, 황희찬, 황인범 등 대표."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbc6bb326",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/22/GE4WCZRUMQYTAODGHAZDENJSMI/",
+    "title": "“정형돈 텃세 폭로 NO”…박명수·정준하, ‘긴급 라이브설’ 직접 해명",
+    "summary": [
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] ‘개그맨 박명수와 정준하가 정형돈의 ‘텃세 폭로’ 이후 진행된 유튜브 라이브 방송을 두고 불거진 각종 추측에 대해 직접 해명했다.22일 오후 7시 유튜브 채널 ‘하와수’에서는 라이브 방송이 진행됐다.이날 방송에서 박명수와 정준하는 오프닝부터 최근 불거진 ‘긴급 라이브설’에 대해 입을 열었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne64a8150",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260622_0003678515",
-    "title": "최태성 \"세종대왕 얼굴 아냐\" 지예은 \"5000원…\"",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003679021",
+    "title": "美, \"이란의 미국산 대두·옥수수·밀 구매위해 동결 이란 자산 해제\" 시사(종합)",
     "summary": [
-      "[서울=뉴시스]전재경 기자 = 배우 지예은이 세종대왕 관련 질문에 엉뚱한 답변을 내놓는다.",
-      "TV조선 새 예능물 '왕은 무얼 자셨는가'는 7월8일 오후 10시 첫 방송된다.",
-      "'왕은 무얼 자셨는가'는 조선 임금들의 밥상에 오른 음식과 그 안에 담긴 이야기를 다루는 역사 미식 토크 예능이다."
+      "[오뷔르겐(스위스)=AP/뉴시스] 유세진 기자 = JD 밴스 미 부통령은 22일 이란과의 평화회담이 2월 말 시작된 전쟁을 끝내기 위한 \"성공적 최종 협상을 위한 좋은 토대\"를 만들었다고 말했다.",
+      "밴스 부통령은 기자들에게 \"최종 합의는 집과 같다\"며 \"우리는 기초를 다졌다.",
+      "집을 아직 다 짓지는 않았지만 미국 국민을 위한 좋은 방향으로 갈 수 있는 성공적 토대를 마련했다\"고 말했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7ee25abf",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622145500371",
-    "title": "\"AI로 접고 세계로 펼친다\"…K종이접기 AI외교관 144명 출범",
-    "summary": [
-      "(서울=연합뉴스) 박현수 기자 = 생성형 인공지능(AI)을 활용해 K종이접기와 한국의 역사·문화를 세계에 알릴 'K종이접기 대한민국 AI외교관 ..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n43c96775",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622145100008",
-    "title": "\"AI 인프라 투자 확대는 채권시장 구조적 부담 요인\"",
-    "summary": [
-      "(서울=연합뉴스) 고은지 기자 = 인공지능(AI) 관련 인프라 투자 확대는 채권시장에 구조적인 부담 요인으로 작용할 수 있다는 전망이 나왔다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n06e5b53c",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622143700008",
-    "title": "트리니티항공, 800억원 유증…퍼플클래스제일차 등에 3자 배정",
-    "summary": [
-      "(서울=연합뉴스) 코스피 상장사 트리니티항공[091810]은 운영자금 등 약 800억원을 조달하고자 제3자배정 유상증자를 결정했다고 22일 공시..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n896c4639",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260622/134160586/1",
-    "title": "“생명 지키는 작업복”… 현장 안전 강화에 커지는 워크웨어 시장",
-    "summary": [
-      "워크웨어(작업복) 시장이 단순 소모품을 넘어 작업자의 안전과 효율을 높이는 전문 장비로 진화하고 있다.",
-      "중대재해처벌법 시행과 산업 안전 규제 강화에 따라 시장 규모도 가파르게 커지는 추세다.그랜드뷰리서치에 따르면 지난해 11억8710만 달러(약 1조8000억 원) 수준이었던 국내 워크웨어 시장은 2033년에는 17억6820만 달러(약 2조7000억 원) 규모에 달할 것으로 전망된다.",
-      "시장 확대에 따라 업계 지형도 세분화되고 있다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "na4f7a0d6",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "25분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260622/134159897/1",
-    "title": "금감원장 “삼전하닉 레버리지 ETF, 드러누워서라도 막았어야”",
-    "summary": [
-      "이찬진 금융감독원장이 지난달 27일 출시한 삼성전자·SK하이닉스 레버리지 상장지수펀드(ETF)에 대해 “드러누워서라도 막았어야 하는 것 아닌지 후회한다”고 말했다.",
-      "일각에서는 금융당국 수장으로서 책임을 회피하는 것 아니냐는 지적이 나온다.이 원장은 22일 서울 영등포구 금감원 본원에서 기자간담회를 갖고 삼성전자·SK하이닉스 레버리지 ETF 투자가 과열 상태라고 진단했다.",
-      "앞서 정부는 개인들의 해외 주식 투자 수요를 국내로 옮겨오기 위해 단일종목."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n4da119cc",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "29분 전",
-    "url": "https://www.hankyung.com/article/2026062212061",
-    "title": "KAIST 연구팀, 세계 로봇학회 최우수 논문상",
-    "summary": [
-      "KAIST 연구팀, 세계 로봇학회 최우수 논문상."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n24f95d0e",
+    "id": "ne71dddec",
     "category": "사회",
     "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260622/134159762/1",
-    "title": "‘모두의 창업’ 개인정보 유출 여파…2기 모집 잠정 연기",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260622/134160441/1",
+    "title": "靑, 李지지율 하락에 “엄중히 받아들여…국민 걱정 세심하게 살피겠다”",
     "summary": [
-      "정부가 창업지원 플랫폼 ‘모두의 창업’에서의 개인정보와 창업 아이디어 유출에 관리 부실이 있었다고 밝혔다.",
-      "국무총리 후보자인 한성숙 중소벤처기업부 장관도 공개 사과했다.",
-      "당초 7월 초로 계획했던 모두의 창업 2기 모집은 잠정 연기됐다.22일 노용석 중소벤처기업부 제1차관은 서울 종로구 정부서울청사에서 브리핑을 열고 개인정보 유출 경위를 설명했다."
+      "청와대가 22일 6·3 지방선거 이후 이어지는 국정 지지율 하락세에 대해 “엄중하고 겸허하게 받아들인다”고 밝혔다.청와대는 이날 언론 공지를 통해 “국민께서 무엇을 걱정하고 무엇을 바라고 계신지 더욱 세심하게 살피겠다”며 이같이 밝혔다.",
+      "이어 “최근 지지율 변동은 민생경제 상황에 대한 국민의 체감과 국정운영 전반에 대한 평가가 종합적으로 반영된 결과로 본다”고 자세를 낮췄다.취임 후 60%대를 넘나들며 고공행진을 거듭하던 이재명 대통령의 국정."
     ],
     "chips": [
-      "#스타트업",
-      "#채용"
+      "#정치"
     ]
   },
   {
-    "id": "nd613a976",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "35분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260622181852",
-    "title": "NS홈쇼핑, 홈플러스 익스프레스 인수대금 최종 완납",
+    "id": "n2ea4a036",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260622156900005",
+    "title": "15세 피아니스트 이주언, 미국 지나 바카우어 콩쿠르 우승",
     "summary": [
-      "[지디넷코리아]NS홈쇼핑이 홈플러스 익스프레스 사업부 인수를 마무리했다.",
-      "인수대금 지급을 완료하고 영업양수도 절차를 마친 가운데 상품 공급 정상화와 점포 경쟁력 회복, 온라인 사업 강화에 나설 계획이다.NS홈쇼핑은 22일 홈플러스 익스프레스 사업부문에 대한 인수대금을 최종 완납하고 영업양수도 거래를 마무리했다고 밝혔다.이에 따라 회생절차 여파로 상품 공급 차질과 고객 이탈 등을 겪었던 홈플러스 익스프레스의 영업 정상화에도 속도가 붙을 전망이다."
+      "(서울=연합뉴스) 권지현 기자 = 피아니스트 이주언(15)이 지나 바카우어 국제 피아노 콩쿠르 주니어 부문에서 우승했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne347e44a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003679032",
+    "title": "앨런 그린스펀 전 미 연준 의장 100세로 타계 (1보)",
+    "summary": [
+      "[뉴욕=AP/뉴시스] 김재영 기자 = 미국 연준의 앨런 그린스펀 전 의장이 향년 100세로 타계했다고 22일 연준이 발표했다.",
+      "N ◎공감언론 뉴시스 kjy@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nceec7f17",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260622/134161156/1",
+    "title": "李, 최태원·이재용과 연쇄 회동…‘반도체 지방 투자’ 막바지 조율",
+    "summary": [
+      "이재명 대통령이 최태원 SK그룹 회장을 만난 데 이어 이재용 삼성전자 회장과도 청와대에서 회동한다.",
+      "29일 대기업 총수 간담회를 주재하기 전에 삼성전자와 SK하이닉스 등 ‘반도체 투톱’ 기업 총수와 미리 만나 지방 투자 세부 내용을 최종 논의하는 차원으로 전해졌다.22일 재계에 따르면 이 대통령은 25일 청와대에서 이 회장과 만날 예정이다.",
+      "한 그룹사 대표급 인사는 “이 대통령과 이 회장이 직접 만나 다음 주 예정된 지방 투자 발표를 놓고 의견."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6246d166",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "20분 전",
+    "url": "https://view.asiae.co.kr/article/2026062220434949320",
+    "title": "[속보] 美 부통령 \"이란과 최종 합의 위한 긍정적 기반 마련\"",
+    "summary": [
+      "[속보] 美 부통령 \"이란과 최종 합의 위한 긍정적 기반 마련\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3a80c5ec",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://view.asiae.co.kr/article/2026062220425345208",
+    "title": "[속보] 美부통령 \"이란과 IAEA 핵사찰단 이란 복귀 합의\"",
+    "summary": [
+      "[속보] 美부통령 \"이란과 IAEA 핵사찰단 이란 복귀 합의\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ba508d7",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260622/134161380/1",
+    "title": "가수 박서진 잠실 콘서트 취소…핸드볼경기장 봉쇄 여파",
+    "summary": [
+      "가수 박서진 소속사가 서울 잠실 핸드볼경기장에서 개최될 예정이었던 콘서트를 취소했다.",
+      "잠실 개표소 봉쇄 시위 영향 때문으로 풀이된다.",
+      "박서진 소속사 장구의신 엔터테인먼트는 22일 공식 소셜네트워크서비스를 통해 “7월 4일, 5일 잠실 핸드볼경기장에서 개최 예정이었던 박서진 전국투어 콘서트 서울 앙코르 공연이 부득이하게 취소됐다”고 밝혔다.소속사는 “당사는 공연 개최를 위해 다각도로 검토를 진행했으며, 장소 이전 및 공연 일정 변경 등의 방안도."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0b9ddd2e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/national/regional/2026/06/22/CNLMRCXDZNFARCBDQ35OHGXVPY/",
+    "title": "천안서 고교생 6명이 또래 1명 집단폭행… 3명 구속영장 신청",
+    "summary": [
+      "천안서 고교생 6명이 또래 1명 집단폭행… 3명 구속영장 신청."
     ],
     "chips": [
       "#뉴스"
@@ -644,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "삼성전자",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
