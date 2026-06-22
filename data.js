@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-22 14:52:10
+// 마지막 업데이트: 2026-06-22 16:32:57
 window.NEWS_DB = [
   {
     "id": "n54b8c63b",
     "category": "IT",
     "source": "CEO스코어데일리",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yWGxFNnF6eXBBcDFqRHdRS3A5dHU1MTV2djA1OWR5U3NJb2JXTzVZS19YTE1DNGpyYjhJbHMtV3AyN0JfT3RuNlhxQ2ZJbmdCZmZWTUlIX1JtMW1NcWFvUmVxdU9FX0ZE?oc=5",
     "title": "구광모·젠슨 황, ‘피지컬 AI’ 광속 행보…LG+엔비디아, ‘AI 로봇’ 나오나",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nc3ee88db",
     "category": "IT",
     "source": "매일산업뉴스",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jYlJJVzd0RWE1NjBSVzBhVExZNTlfa2VGVDNaZ0lfdUZUSUVXdVlKRk9Fc2RJLUpleW9JeWVwck0ySUNMR3RqNE5yUDctVDliUThOeUdodnAzUnc1UWFHOHJYcw?oc=5",
     "title": "SK하이닉스 '보통주 시총 1위' 올랐지만…우선주 포함시 삼성전자 여전히 1위 수성",
     "summary": [
@@ -32,25 +32,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc1d69d99",
-    "category": "IT",
-    "source": "테크M",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTFhMUWl3ZFI3bWM3YUxLNUZxV3U0MkJrUTBOLWItd09maGUwV0l5RzVfNC0zNEttS3BUM21xNDNacHdhUDNUVjRacmZxOFhKbWlQOUQxRW9oUm9BSGZxelNVbV90UdIBakFVX3lxTE1QNDJvMDNHUllaUWFxRVRhUVQ5M1hxSzd2OWdlTWJKanhCbGYzRlBJdjFPMzZZdllUU3Z3M3VTeGxPTl9hSG5VSzI5Mk5xUy1KQ2RTaElfRHBGYll4VU13RTZTNzBEdXY3VGc?oc=5",
-    "title": "'시총 1위 내줬다?'…우선주까지 더하면 아직 삼성전자, AI 반격도 이제 시작",
-    "summary": [
-      "'시총 1위 내줬다?'…우선주까지 더하면 아직 삼성전자, AI 반격도 이제 시작 테크M."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "n523b1408",
     "category": "IT",
     "source": "비즈니스플러스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkMlpyUGgwOHZFWVlpM0hxcFlzcXU5V0xMQng0Y1l1YklNV3BPbU1WQW5jdzV6aFJtcXliVGIweHIyMFp4Wi1tc3ZmcGdmX3dvZVZ0Y2w5T0p0WVpxNkNfTkVoa3ZKQ3RucUtsX3BVdw?oc=5",
     "title": "[AI 기로에 선 한국/下]'학습'서 '추론'으로 이동하는 패권…토종 NPU로 '인프라 주권' 돌파구 찾는다",
     "summary": [
@@ -64,7 +49,7 @@ window.NEWS_DB = [
     "id": "n64dc67f5",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "17시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
     "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
     "summary": [
@@ -133,6 +118,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "na0f523e8",
+    "category": "IT",
+    "source": "이코노미트리뷴",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
+    "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
+    "summary": [
+      "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는 이코노미트리뷴."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -381,258 +381,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0410a6eb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260622_0003679080",
-    "title": "英스타머 전격 사임에 EU, 내달 회담 재검토…\"연기해야\"",
+    "id": "nf43ef6a1",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/23/2026062221114028343",
+    "title": "\"이강인, 이적 결심 굳혔다\" 예상 이적료까지 윤곽, AT 마드리드행 가능성 더 커졌다",
     "summary": [
-      "[서울=뉴시스] 김예진 기자 = 키어 스타머 영국 총리가 22일(현지 시간) 사임을 표명하면서 유럽연합(EU)은 당초 내달 예정했던 영국과의 정상회담 개최 여부를 재검토하겠다고 밝혔다.",
-      "폴리티코 유럽판 등에 따르면 안토니우 코스타 EU 정상회의 상임의장은 이날 벨기에 브뤼셀에서 몰도바와의 정상회의 후 기자회견에서 영국과의 정상회담을 매우 열심히 준비해왔다고 말했다.",
-      "그러면서 영국 총리와의 회담은 \"이제는 확실하게 연기해야 한다\"며 \"하지만 새로."
+      "이강인(25)이 파리 생제르맹(PSG)을 떠나기로 결심을 굳혔다는 스페인 현지 보도가 나왔다.",
+      "향후 행선지는 아틀레티코(AT) 마드리드가 유력하고, 이미 대략적인 이적료 수준까지 윤곽을 드러냈다.",
+      "스페인 매체 문도 데포르티보는 22일(한국시간) \"이강인은 이미 PSG를 떠나기로 결심한 상태\"라며 \"루이스 엔리케 감독 구상에서 단순한 교체 자원으로 밀려나면서 입지에 만족하지 못하고 있다\"고 보도했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n363671d7",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260622_0003679087",
-    "title": "김 총리 \"중국의 눈부신 경제발전 비결 듣고 싶다\"…中기업인 \"한국과 호혜적 협력 확대\"(종합)",
-    "summary": [
-      "[베이징=뉴시스]이인준 기자 = 중국 순방에 나선 김민석 국무총리가 22일 오후 베이징에서 중국 기업인들과의 간담회를 시작으로 2박3일간 공식 일정에 돌입했다.",
-      "김 총리는 이날 오후 주중국대사관저에서 중국의 인공지능(AI), 로봇, 자율주행 등 창업 및 혁신 생태계 기업인들을 만나 의견을 교환했다.",
-      "김 총리는 모두발언에서 \"이 자리에 오고 싶었던 가장 큰 이유가 바로 중국의 눈부신 경제 발전 때문\"이라며 \"그동안 많이 듣고 있었기 때문에 직접."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n117a4e4c",
-    "category": "사회",
+    "id": "nabae487c",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/06/22/LD7HR4C6YJHZFAR6VRW3YRJEHM/",
-    "title": "[우정아의 아트 스토리] [637] 기관차가 된 말의 질주",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/23/GNSWIYZVMIZGCMBRGBTGIZJRGE/",
+    "title": "김재상 말소,그 의미는..LG·KT와 운명의 6연전,'천군만마' 온다, 전병우와 공존 시나리오 가동",
     "summary": [
-      "[우정아의 아트 스토리] [637] 기관차가 된 말의 질주."
+      "[스포츠조선 정현석 기자]삼성 라이온즈가 1,2위 LG 트윈스, KT 위즈와의 운명의 6연전을 앞두고 승부수를 던진다.",
+      "공수 핵심 내야수 김영웅(23)이 드디어 복귀한다.",
+      "햄스트링 부상 복귀 절차를 밟고 있는 김영웅은 21일 3군 한일장신대와의 연습경기를 통해 최종 몸 상태를 점검했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7812eb6d",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/opinion/taepyeongro/2026/06/22/U6576NLREBDSFLC5BBFCISA5HE/",
-    "title": "[태평로] 獨 증시 대표종목서 빠진 폴크스바겐 지주사",
-    "summary": [
-      "[태평로] 獨 증시 대표종목서 빠진 폴크스바겐 지주사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef2cca7f",
+    "id": "n75e8e2b8",
     "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/22/HRQKGUALTJEZBFL6GRN7TDGKIM/",
-    "title": "美 황금기 이끌며 ‘마에스트로’라 불린 그린스펀, 100세로 별세",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260623002600091",
+    "title": "머스크의 X, 한때 전 세계 접속 장애…현재는 복구",
     "summary": [
-      "美 황금기 이끌며 ‘마에스트로’라 불린 그린스펀, 100세로 별세."
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 일론 머스크의 사회관계망서비스(SNS) 엑스(X·옛 트위터)가 한때 대규모 접속 장애를 겪다 복구됐다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb74de055",
-    "category": "사회",
+    "id": "n59b06741",
+    "category": "스포츠",
     "source": "조선일보",
     "time": "11분 전",
-    "url": "https://www.chosun.com/opinion/correspondent_column/2026/06/22/YEGZVG2G4NA4HHU4G3PNRXBKVI/",
-    "title": "[특파원 칼럼] 코리아 모먼트, 미래를 바꿀 기회",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/23/MU2TCZBXGZSTAOJVG4YDAN3CGI/",
+    "title": "오언 \"호날두 비판 동의 못 해\"...우즈베키스탄전 반등 확신",
     "summary": [
-      "[특파원 칼럼] 코리아 모먼트, 미래를 바꿀 기회."
+      "[OSEN=정승우 기자] 리오넬 메시(39, 인터 마이애미)는 또 역사를 썼다.",
+      "크리스티아누 호날두(41, 알 나스르)는 침묵했다.",
+      "두 슈퍼스타의 월드컵 출발이 엇갈린 가운데, 마이클 오언은 호날두의 반등을 확신했다.아르헨티나는 지난 17일(이하 한국시간) 미국 캔자스시티 스타디움에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 J조 조별리그 1차전."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbd3c65c1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622161600071",
-    "title": "美재무 \"이란 원유 판매·수송 제재 60일간 면제\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 스콧 베선트 미국 재무부 장관은 22일(현지시간) 이란에 대한 원유 생산·판매·배송 관련 제재를 60일 동..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n28ef0c53",
+    "id": "n68502f68",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622161300005",
-    "title": "박서진, 서울 앙코르 공연 취소…'잠실 개표소 봉쇄 시위' 여파",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/06/23/AHTXFWNHBVCHBLFU3HKBIOF6HI/",
+    "title": "박지성 \"일본 축구, 한국 앞서고 있다…좀 많이 부럽다\"",
     "summary": [
-      "(서울=연합뉴스) 김선우 기자 = 다음달 4∼5일 서울 송파구 올림픽공원 핸드볼경기장(티켓링크 라이브 아레나)에서 열릴 예정이던 가수 박서진의 ..."
+      "박지성 \"일본 축구, 한국 앞서고 있다…좀 많이 부럽다\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb33aeb2a",
+    "id": "nd80a5ff4",
     "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260622/134162101/1",
-    "title": "李대통령 부부, 靑에서 與의원 배우자 초청 오찬",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260623002500084",
+    "title": "파키스탄 \"이란 대통령 23일 국빈방문…종전MOU 이후 상황 논의\"",
     "summary": [
-      "이재명 대통령과 부인 김혜경 여사는 22일 청와대 영빈관에 더불어민주당 22대 국회의원 배우자들을 초대해 오찬을 했다고 청와대가 밝혔다.이 대통령 취임 후 민주당 의원 배우자들을 공식적으로 초청한 것은 처음이다.",
-      "이날 오찬에는 민주당 국회의원 배우자 100여 명이 참석해 2시간가량 진행된 것으로 알려졌다.",
-      "이 대통령 부부는 이날 오찬에서 국정 운영 성과, 의정 활동을 지원해 준 배우자들의 노고에 감사를 표한 것으로 알려졌다.청와대 관계자는 “다."
+      "(하노이=연합뉴스) 박진형 특파원 = 파키스탄 외교부는 22일(이하 현지시간) 마수드 페제시키안 이란 대통령이 셰바즈 샤리프 파키스탄 총리의 초..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n90e16380",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260622/134161706/2",
-    "title": "[사설]대포 통장 年 32만 개 개설… ‘검은돈 통로’ 막아야 피싱 잡는다",
-    "summary": [
-      "아내 병원비에 쪼들리던 팔순 노인이 고수익을 보장한다는 가짜 투자 사이트에 속아 안내받은 통장으로 4500만 원을 보냈다.",
-      "마지막 남은 전세보증금이었다.",
-      "그러나 노인이 송금한 통장은 유령회사가 개설하고 범죄조직이 사용하는 대포통장이었다."
-    ],
-    "chips": [
-      "#전세",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n09f28e77",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "25분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260622/134161710/2",
-    "title": "[사설]‘내란 가담’ 법무에 구형보다도, 총리보다도 1심 중형 선고",
-    "summary": [
-      "내란 중요임무 종사 등 혐의로 기소된 박성재 전 법무부 장관에 대해 1심 재판부가 징역 25년을 선고하고 법정 구속했다.",
-      "한덕수 전 국무총리가 1심에서 선고받은 징역 23년(항소심에서 감형)이나, 특검이 구형한 징역 20년보다 높은 형량이다.",
-      "법무부와 검찰을 동원해 계엄 실행을 실질적으로 지원하려 했던 박 전 장관의 책임이 그만큼 무겁다고 본 것이다.박 전 장관은 12·3 비상계엄 선포 직후 법무부 간부들에게 전화를 걸고 간부회의를 소집하는 등."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e02467f",
+    "id": "n3c4d8b63",
     "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/volleyball/2026/06/23/MI4DCOJXMEZDEZBZGJRTQNLBHE/",
+    "title": "걱정, 근심 없이 웃음만 넘쳤던 화합의 장...제14회 배구인 자선 골프대회, 올해의 챔피언은? [용인 현장]",
+    "summary": [
+      "[용인=스포츠조선 김용 기자] 올해의 챔피언은 임도헌 단장이었다.",
+      "2025~2026 진에어 V-리그 시즌이 끝나고도 배구인들은 바빴다.",
+      "지난 시즌을 돌아보고 다가올 시즌에 대한 준비로 눈코뜰 새 없이 시간을 보내다 보니, 어느새 2026~2027 시즌 개막을 위한 본격적 준비를 해야할 시간이 찾아왔다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n80f256d8",
+    "category": "경제",
     "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622161200007",
-    "title": "'말년병장' 권순우, 2년 만에 출전한 윔블던서 예선 1회전 승리",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260623002300098",
+    "title": "EU·中 통상수장, 내주 회동…무역갈등 해소 실마리 모색",
     "summary": [
-      "(서울=연합뉴스) 오명언 기자 = 권순우(202위·국군체육부대)가 2년 만에 출전한 윔블던 테니스대회(6천420만 파운드)에서 예선 1회전을 통..."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)과 중국의 통상 수장이 내주 대면해 고조되고 있는 양측의 무역 갈등을 풀 실마리 모색에 나선..."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "nff3d3fc0",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "28분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260622/134161708/2",
-    "title": "[사설]편의점 판매 약품 14년 만에 20개로… 미-일보다 턱없이 적어",
-    "summary": [
-      "보건복지부가 올 하반기 중 편의점에서 살 수 있는 상비약을 최대 20개 품목까지 늘리겠다고 밝혔다.",
-      "현재 편의점에선 해열진통제·소화제·감기약·파스 등 4종 11개 품목만 판다.",
-      "정부 안팎에선 소비자 요구가 컸던 지사제와 화상연고 등이 추가될 것이란 전망이 나온다.편의점의 약 판매를 허용한 약사법은 2012년 첫 시행 때부터 판매 품목을 ‘20개 이내’로 규정했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd0359c2e",
-    "category": "사회",
+    "id": "n8d14eb57",
+    "category": "경제",
     "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260622_0003679086",
-    "title": "美재무부 \"8월21일까지 이란산 원유 인도·판매 허용\"",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003677556",
+    "title": "증시도 수출도 좋은데, 환율은 왜 오를까…김영익 교수의 전망",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 스콧 베선트 미국 재무장관이 22일(현지 시간) 이란과 후속 협상에서 이뤄진 합의에 따라 \"이란산 원유의 생산과 인도, 판매를 허용하는 60일간의 임시 일반 면허를 발급했다\"고 밝혔다.",
-      "베선트 장관은 이날 소셜미디어(SNS) 엑스(X)에 \"스위스에서 진행 중인 생산적인 회담에 따라 이란은 호르무즈 해협의 자유롭고 개방적 통행을 보장하고, 국제원자력기구(IAEA) 사찰관들의 자국 입국을 허용하기로 했다\"며 이같."
+      "[서울=뉴시스]이지우 인턴 기자 = 원달러 환율이 크게 오르면서 우려를 낳은 가운데, 원화 가치가 지나치게 저평가됐다면서 향후 적정 수준으로 변동할 것이라는 전문가의 예측이 나왔다.",
+      "지난 20일 구독자 33만명 유튜브 채널 '김영익의 경제스쿨'에는 '증시도 수출도 좋은데, 환율은 왜 오를까?'라는 제목의 영상이 올라왔다.",
+      "영상에 출연한 김영익 서강대학교 경제대학원 교수는 현재 원화 가치가 저평가됐으며, 외환위기를 우려하기에는 시기상조라고 주장했."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n334a6e9e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260622_0003679040",
-    "title": "\"1분 30초 춤에 수천만원\"…무용계, 입시 개혁 요구",
-    "summary": [
-      "[서울=뉴시스] 최희정 기자 = \"무용 콩쿠르 심사를 할 때 브니엘 예고 사건이 터졌는데, 심의 하면서 너무 가슴이 아팠습니다.",
-      "이 사건이 무용계 그늘을 다시 돌아보게 했어요.\" 브니엘예고 사태 1주기를 맞아 열린 포럼에서 정혜전 전 서울시 무용단 예술감독은 이같이 말하며 입시와 콩쿠르 운영 방식 개선이 필요하다고 주장했다.",
-      "22일 서울 종로구 예술가의집에서 열린 '무용의 미래를 생각하는 모임(무미생)' 정책포럼에서는 무용계 입시 구조와 교육."
-    ],
-    "chips": [
-      "#정책",
+      "#환율",
+      "#수출",
       "#교육"
     ]
   },
   {
-    "id": "nc7e62de1",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "43분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260622161100009",
-    "title": "뉴욕증시, 미-이란 종전 협상 성과 소화하며 혼조 출발",
+    "id": "nb2b9fdb4",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/23/2026062300415038734",
+    "title": "'대충격' 야구 치어리더 흉기 피습 사건 발생! \"용의자는 극성팬→생명 지장 없어\" 범인은 치어리더탓",
     "summary": [
-      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 미국과 이란이 종전 양해각서(MOU) 협상 성과 등을 소화하며 혼조세로..."
+      "대만 프로야구(CPBL)의 인기 치어리더가 비공개 촬영 행사 도중 괴한에게 흉기로 피습당하는 전대미문의 사건이 발생해 야구계가 큰 충격에 빠졌다.",
+      "대만 스포츠 매체 TSNA 등 복수 매체들이 최근 보도한 바에 따르면 사건은 지난 20일 발생했다.",
+      "피해자는 중신 브라더스 소속의 인기 치어리더팀 '패션 시스터즈'의 핵심 멤버인 원원(汶汶)으로 밝혀졌다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n3f327c97",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260623002200079",
+    "title": "이란 협상단장, 오만행…\"호르무즈 관리 방안 등 논의\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과의 종전 협상에서 이란측 수석대표를 맡은 모하마드 바게르 갈리바프 이란 의회 의장이 오만 방문길에 올..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n431f942b",
-    "category": "경제",
-    "source": "조선비즈IT",
-    "time": "51분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/22/XPLH5WA72FBS7EXCMOOD4XEVWI/",
-    "title": "니어필드 인스트루먼츠, 시리즈D 3.8억 달러 유치…기업가치 16억 달러",
+    "id": "n305f6736",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003677544",
+    "title": "\"무능한데 부지런한 상사가 최악\"…직장인 울리는 빌런 동료 대처법",
     "summary": [
-      "니어필드 인스트루먼츠, 시리즈D 3.8억 달러 유치…기업가치 16억 달러."
+      "[서울=뉴시스] 김종민 기자 = 직장인 대다수가 업무 자체보다 인간관계에서 비롯되는 갈등에 더 큰 정신적 고통을 겪는다는 분석이 나왔다.",
+      "특히 조직 내에서 업무 효율을 떨어뜨리고 구성원의 번아웃을 유발하는 특정 유형의 동료들이 주요 갈등 원인으로 지목됐다.",
+      "정신건강의학과 전문의인 한창수 교수는 20일 자신의 유튜브 채널 '한창수의 마음 정비소'를 통해 직장 내 최악의 동료 유형으로 세 가지를 제시했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ne815ac4d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003678598",
+    "title": "\"한쪽 코에서만 코피 나요\"…혹시 '이 암' 신호?",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 코막힘이나 콧물, 코피는 누구나 한 번쯤 경험하는 흔한 증상이다.",
+      "대부분은 비염이나 부비동염(축농증) 같은 염증성 질환 때문에 발생하지만 일부는 종양이 원인일 수 있다.",
+      "특히 한쪽 코에서만 코막힘이나 코피가 반복적으로 나타난다면 비부비동종양을 의심해 볼 필요가 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb2638468",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260622_0003677558",
+    "title": "서동주 '잘록 허리' 비결은…\"꾸준히 효소 한 포 섭취\"",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 방송인 겸 미국 변호사 서동주(43)가 건강 관리 비결로 '효소 섭취'를 꼽았다.",
+      "지난 19일 서동주는 소셜미디어(SNS)를 통해 \"시험관을 준비하면서 한동안 빵과 디저트를 거의 끊고 지냈다\"고 밝혔다.",
+      "그는 \"촬영이나 미팅이 많은 날에는 외식도 많고 식사 시간이 불규칙해질 때가 있다\"면서 \"많이 먹은 날에는 나름대로 관리 루틴을 챙기려고 한다\"고 전했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "na3a73e49",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "47분 전",
+    "url": "https://www.hankyung.com/article/2026062214631",
+    "title": "레이건부터 부시까지…美 경제황금기 이끈 'Fed의 전설'",
+    "summary": [
+      "레이건부터 부시까지…美 경제황금기 이끈 'Fed의 전설'."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e9ee470",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/2026062214641",
+    "title": "대한적십자 회장에 인요한 前 국힘 의원",
+    "summary": [
+      "대한적십자 회장에 인요한 前 국힘 의원."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf775198",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606231487i",
+    "title": "스페이스X, 고금리 빚 갚으려 첫 채권 발행…주가는 하락",
+    "summary": [
+      "스페이스X, 고금리 빚 갚으려 첫 채권 발행…주가는 하락."
+    ],
+    "chips": [
+      "#금리"
     ]
   }
 ];
@@ -642,14 +645,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
