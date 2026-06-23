@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-23 18:37:48
+// 마지막 업데이트: 2026-06-23 19:34:38
 window.NEWS_DB = [
   {
     "id": "n27b768c3",
     "category": "IT",
     "source": "뉴시스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSOEFjWFhBc2tXY3M0UHBabkJRaVJsQnZhdmxfUS1HbVFwTlpqcW5vdlctVmE2bGFOYnZvMkNvN3k0UjczcDlURVNBdFJ5dGtybHF6OW9LelgyZzNuWE1CaEU2WTlCdW9EV24xYTFqd1BTR3lEMFJoS9IBeEFVX3lxTFBSOEFjWFhBc2tXY3M0UHBabkJRaVJsQnZhdmxfUS1HbVFwTlpqcW5vdlctVmE2bGFOYnZvMkNvN3k0UjczcDlURVNBdFJ5dGtybHF6OW9LelgyZzNuWE1CaEU2WTlCdW9EV24xYTFqd1BTR3lEMFJoSw?oc=5",
     "title": "반도체지수 두 배 뛰었는데…엔비디아는 30개 종목 중 상승률 꼴찌",
     "summary": [
@@ -17,14 +17,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n689ba244",
+    "id": "n78705fb2",
     "category": "IT",
-    "source": "플래텀(Platum)",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UU2VteUVXTFJ1bWNvYlBoeVVNbTU2aVFWeGw5cmNGUExZNVFES29EcXNlWEgtUmdvenRWcmJsVkJPUVdTam5xaA?oc=5",
-    "title": "중기부, 잠재 유니콘 50개사 선정…2년간 최대 216억 지원",
+    "source": "유니콘팩토리",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWnNlNmVCQ1gxZWZCTURNaXRQY1JGdWR6OVltQWZSa2xGeEwza3ZXNXRsQWJ1Tk96X0wxMlgtc2FpUm04YVhpRDhqY29hSlN1RE9Na1pHeEtyN3ZiYzg1b0NQY1JwU2RtazlQLQ?oc=5",
+    "title": "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국'",
     "summary": [
-      "중기부, 잠재 유니콘 50개사 선정…2년간 최대 216억 지원 플래텀(Platum)."
+      "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국' 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -272,21 +272,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n36e7aa3b",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "104일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdDFkUU9tMnJEUGswWkFuaHFFSXpZTjNGNEFZMFI1b3FnT1dtNHhtY2I4WmFZN050YmVwNUVDY0g1Ym9VX21mSlFKbw?oc=5",
-    "title": "한국은 축구 >>> 야구!…'전세계 인기스포츠 지도' 눈에 띄네",
-    "summary": [
-      "한국은 축구 >>> 야구!…'전세계 인기스포츠 지도' 눈에 띄네 v.daum.net."
-    ],
-    "chips": [
-      "#전세",
-      "#KBO"
-    ]
-  },
-  {
     "id": "nef414906",
     "category": "사회",
     "source": "연합뉴스",
@@ -318,191 +303,189 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n73d851c6",
-    "category": "부동산",
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "263일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "summary": [
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n566c0827",
+    "category": "스포츠",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260623_0003680756",
-    "title": "[인사]국토교통부",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260623_0003680549",
+    "title": "[오늘의 주요일정]제주(6월24일 수요일)",
     "summary": [
-      "[서울=뉴시스] ◇실장급 전보 ▲대변인 박병석 ▲주택공급추진본부장 정우진."
+      "[제주=뉴시스] ▲오전 9시, 한라산국립공원 6월 대청결의 날, 한라산 주요 탐방로 및 동능 정상 ▲오전 9시20분, 위성곤 제주도지사 당선인 기자간담회, 제주도지사직 인수위원회 사무실 ▲오전 10시, 제주시 읍면 찾아가는 현장민원상담실, 제주시 조천읍 조천리 ▲오전 10시, 제21회 제주포럼 레클리스 세션 개최, 돌문화공원 설문대할망전시관 큰바위쉼터 ▲오전 10시30분, 제주 카지노 관리감독 붕괴와 특해 의혹 제기 기자회견, 제주도의회 도민카."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n766cc56f",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624003700007",
-    "title": "[월드컵] 남아공 감독 \"승리밖엔 답 없어…한국 약점 활용하겠다\"",
-    "summary": [
-      "(과달루페[멕시코 누에보레온주]=연합뉴스) 오명언 기자 = \"오직 이기는 것밖에 답이 없다.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n51883ab1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/24/GYZWCNLDGA3WGZLDGVRTOY3DMY/",
-    "title": "\"질책보다 따뜻한 시선을…\" 40년간 그라운드 지킨 김호인 학교장, KBO와 작별",
-    "summary": [
-      "[OSEN=손찬익 기자] 한 시대가 막을 내린다.선수로, 심판으로, 심판위원장으로, 그리고 비디오판독센터장과 야구심판학교장으로 한국 프로야구의 공정성을 지켜온 김호인 야구심판학교장이 KBO에서의 공식 역할을 마무리하고 퇴임한다.김호인 학교장은 약 40년 동안 한국 프로야구와 함께했다.",
-      "1982년 삼미 슈퍼스타즈 창단 멤버로 프로 생활을 시작한 그는 선수 생."
-    ],
-    "chips": [
-      "#KBO",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n13f388a1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624003600075",
-    "title": "LA 냉동창고서 일주일째 불…\"4천만㎏ 식품 때문에 진압 어려워\"",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 캘리포니아주(州) 로스앤젤레스(LA) 산업 시설에서 발생한 화재가 일주일째 이어지고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n753a523e",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624003400085",
-    "title": "유엔 총장 \"AI 기업들, 환경 영향 측정해 공개하라\"",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 안토니우 구테흐스 유엔 사무총장은 23일(현시지간) 글로벌 인공지능(AI) 기업들에 사업 활동이 환경에 미치..."
-    ],
-    "chips": [
-      "#AI",
-      "#환경"
-    ]
-  },
-  {
-    "id": "nd4e638b6",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/24/GA3DSZDFMNQTOYJUME2DKNLCMY/",
-    "title": "호날두, 마침내 터졌다! 우즈벡전 선제골 작렬!...사상 첫 6개 대회 연속 골맛 '대기록'까지[속보]",
-    "summary": [
-      "[스포츠조선 박찬준 기자]크리스티아누 호날두가 마침내 터졌다.",
-      "포르투갈은 24일 오전 2시(이하 한국시각) 미국 휴스턴 스타디움에서 우즈베키스탄과 2026년 북중미월드컵 조별리그 K조 2차전을 치른다.",
-      "포르투갈은 1차전에서 콩고에 1대1로 비기며 자존심을 구겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbee23a7c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624003300072",
-    "title": "美아폴로 사모대출펀드 2분기 17% 환매요청…5%만 수용",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 사모대출 시장을 둘러싼 건전성 우려가 남은 가운데 월가의 대표 사모대출 운용사인 아폴로도 자사의 대표 사모대..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb2d99365",
+    "id": "ncaaeb2b6",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260624_0003680794",
-    "title": "트럼프 \"이란 100% 핵시설 사찰…아니면 회담 취소\"",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260623_0003680302",
+    "title": "\"사진 찍으려 몇 시간 기다렸는데\"…포토존 촬영 두고 ‘민폐 논란'",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 이란이 미국과의 후속 협상에서 핵시설 사찰에 동의한 적 없다고 주장하자, 도널드 트럼프 미국 대통령은 23일(현지 시간) 잘못된 주장이며 사실이라면 향후 회담을 취소하겠다고 위협했다.",
-      "트럼프 대통령은 이날 미국 펜실베이니아주 레딩 공항에 도착한 후 국제원자력기구(IAEA) 사찰단 방문 계획이 없다는 이란 측 주장에 대해 취재진이 묻자 \"그들이 틀렸다\"고 답했다.",
-      "이어 \"그들도 자신들이 틀렸다는 것을 알고 있다."
+      "[서울=뉴시스]김성은 인턴 기자 = 유명 관광지 포토존에서 오랜 시간 줄을 선 뒤 장시간 사진을 찍었다가 다른 방문객에게 핀잔을 들었다는 사연이 전해지며 온라인에서 갑론을박이 벌어졌다.",
+      "21일 한 온라인 커뮤니티에는 '사진 찍다 욕을 들었습니다.",
+      "제가 잘못한 걸까요?'라는 제목의 글이 올라왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc27629c3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260624_0003680799",
+    "title": "트럼프 \"한번더 출마해야할지도\"…지지자들 앞 3선 농담",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 23일(현지 시간) 지지자들 앞에서 3선 도전을 암시하는 농담을 던져 환호성을 이끌었다.",
+      "트럼프 대통령은 이날 미국 펜실베이니아주 리하이 카운티 마쿵기의 맥 트럭 공장에서 진행한 연설에서 \"(지난 대선에서)이 주에서 압도적 승리를 거둔 것이 자랑스럽다\"며 \"저들은 미친듯이 부정을 저질렀지만, 우리는 큰 차이로 승리했다\"고 말했다.",
+      "그러면서 \"어쩌면 우리는 한번더 출마해야겠다\"며 \"."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n36025f37",
+    "id": "n94753b82",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/24/GIZTGMZSGU3TGY3CGRSGKZLFGM/",
-    "title": "호날두의 ‘라스트 댄스’가 열렸다... 우즈베키스탄전 전반 멀티골, 월드컵 6개 대회 연속골 대기록",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624005600007",
+    "title": "[월드컵] 2006년에도, 2026년에도…41세 호날두, 6개 대회 득점 '새 역사'",
     "summary": [
-      "[OSEN=이인환 기자] 크리스티아누 호날두의 마지막 월드컵은 아직 끝나지 않았다.포르투갈은 24일 오전 2시(한국시간) 미국 휴스턴 스타디움에서 열린 우즈베키스탄과 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 K조 2차전 전반을 3-0으로 마쳤다.",
-      "전반 6분 선제골, 전반 39분 추가골을 터뜨리며 우즈베키스탄 골문을 두 번."
+      "(몬테레이=연합뉴스) 최송아 기자 = 포르투갈의 '슈퍼스타' 크리스티아누 호날두(알나스르)가 그간의 부진을 씻어내고 국제축구연맹(FIFA) 월드..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbbd90d5f",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260624_0003680792",
-    "title": "우크라 \"크름반도 철도 교량 파괴\"…러 \"경유 수출 중단 검토\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 우크라이나는 러시아가 점령 중인 크름반도내 철도 교량과 발전소 등 핵심 기반시설을 타격했다고 23일(현지시간) 주장했다.",
-      "우크린포름과 유로뉴스 등에 따르면 우크라이나 특수작전군(SOF)은 이날 성명에서 \"로즈돌네 인근 북크름 운하를 가로지르는 철도교는 더 이상 존재하지 않는다\"며 \"점령된 크름에서 제거된 첫 번째 교량\"이라고 밝혔다.",
-      "공격 장면으로 보이는 영상도 공개했다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n8b107bd5",
+    "id": "n530e82ee",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/24/GI2TEMTEMJRDCYLFGE3WKMLBGU/",
-    "title": "마르티네스의 선택은 또 다시 선발 원톱! 호날두, 우즈벡전 명예회복 나선다...파트너는 베실바 아닌 펠릭스[월드컵 라인업]",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/24/MQZDSNZYHBSTGYRUHAZGKY3DGA/",
+    "title": "韓 격돌! '최하위' 휴고 브로스 감독 자신감 \"한국전 힘들겠지만 동기부여 확실…남아공 새 역사 쓸 기회\"[현장 일문일답]",
     "summary": [
-      "[스포츠조선 박찬준 기자]크리스티아누 호날두(41·포르투갈)가 명예회복에 나선다.",
-      "포르투갈은 24일 오전 2시(이하 한국시각) 미국 휴스턴 스타디움에서 우즈베키스탄과 2026년 북중미월드컵 조별리그 K조 2차전을 치른다.",
-      "포르투갈은 1차전에서 콩고에 1대1로 비기며 자존심을 구겼다."
+      "[몬테레이(멕시코)=스포츠조선 김가을 기자]휴고 브로스 남아공 월드컵대표팀 감독이 대한민국전 승리를 향한 굳은 각오를 다졌다.",
+      "25일 오전 10시(이하 한국시각) 멕시코의 에스타디오 몬테레이에서 대한민국과 2026년 북중미월드컵 조별리그 A조 최종전을 치른다.",
+      "결전을 앞둔 브로스 감독은 경기 전 열린 공식 기자회견에서 \"양 팀 모두에 특별한 경기가 될 것."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7bb251bc",
+    "id": "n7dadee17",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624005000072",
+    "title": "美 6월 제조업 일자리 감소 \"팬데믹 이후 최대폭\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 6월 들어 미국의 제조업 일자리가 팬데믹 충격 이후 가장 빠른 속도로 감소하고 있다는 설문 기반 경제지표가 ..."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n789f6653",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/24/MYYGEMBUG43GCMZSMI4GCN3FMU/",
+    "title": "‘KKKKKK’ 올러 6이닝 1실점 위력투, KIA 2연승 질주 ”올러가 에이스 역할 다했다, 타자들 좋은 타격감”",
+    "summary": [
+      "[OSEN=고척, 길준영 기자] 프로야구 KIA 타이거즈가 투타 조화를 이루며 2연승을 달렸다.",
+      "KIA는 23일 서울 고척스카이돔에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 키움 히어로즈와의 경기에서 7-3으로 승리했다.",
+      "선발투수 애덤 올러는 6이닝 4피안타 1볼넷 1사구 6탈삼진 1실점 호투로 시즌 8승을 수확했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na0e828a6",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624005100007",
+    "title": "[월드컵] 호날두, 사상 첫 '6개 대회 득점'…포르투갈, 우즈베크 완파",
+    "summary": [
+      "(몬테레이=연합뉴스) 최송아 기자 = 포르투갈 축구 대표팀이 슈퍼스타 크리스티아누 호날두(알나스르)의 '월드컵 6개 대회 득점'이라는 대기록과 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n884900f6",
     "category": "사회",
     "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260623_0003679816",
-    "title": "氣로 상대를 제압?…경찰 특채 합기도 영상 논란",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260623_0003680665",
+    "title": "대구·경북, 대체로 흐리고 곳곳 비 소식…낮 25도 초여름",
     "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 경찰 무도 특별채용 선발 대회를 주최하는 합기도 단체가 '기(氣)를 이용해 상대를 마비시킨다'는 내용의 시범 영상을 공개해 '비과학적'이라는 비판이 쏟아지고 있다.",
-      "TV조선이 지난 22일 보도한 내용에 따르면 대한민국합기도총협회가 공개한 호신술 시범 영상에는 도복을 입은 시연자가 손동작을 위아래로 휘저은 뒤 상대방의 손목을 낚아채자 상대방이 고통을 호소하며 몸을 제대로 가누지 못하는 장면이 담겼다."
+      "[대구=뉴시스] 이상제 기자 = 24일 대구·경북은 대체로 흐리고 비가 내리는 곳이 있을 것으로 예상된다.",
+      "대구기상청은 이날 \"대구와 경북동해안, 경북남부내륙 일부 지역에 비가 오는 곳이 있겠다\"고 예보했다.",
+      "예상 강수량은 경북동해안 5~10㎜, 대구와 경북남부내륙 1㎜ 미만이다."
     ],
     "chips": [
-      "#채용"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb9cde282",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624004800007",
+    "title": "[월드컵 전적] 포르투갈 5-0 우즈베키스탄",
+    "summary": [
+      "[월드컵 전적] 포르투갈 5-0 우즈베키스탄."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf86cd5ad",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "58분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624004200002",
+    "title": "달러-원, 1,550원대 앞두고 부담감…6.00원 하락 마감",
+    "summary": [
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 하락 전환하며 1,530원대 초반에 장을 마쳤다."
+    ],
+    "chips": [
+      "#환율"
     ]
   },
   {
     "id": "n789b4586",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152850",
     "title": "[카드뉴스] 장현국은 왜 적자 앱마켓에 626억을 썼을까.. 원스토어 인수 뒤에 숨겨진 의미는?",
     "summary": [
@@ -518,7 +501,7 @@ window.NEWS_DB = [
     "id": "n30cb4093",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152848",
     "title": "美, PQC 전환 앞당기자 엑스게이트 주가 21% 급등...나흘 만에 상승 마감",
     "summary": [
@@ -533,7 +516,7 @@ window.NEWS_DB = [
     "id": "n1ad5e9c7",
     "category": "경제",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260624/134168366/2",
     "title": "롯데칠성, 원가 부담에 44개 품목 출고가 5.3% 인상",
     "summary": [
@@ -546,26 +529,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n56f98378",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026062401552311851",
-    "title": "美, 카스트로 일가 추가 제재…정권 자금줄 기관들도 포함",
-    "summary": [
-      "미국 도널드 트럼프 행정부가 23일(현지시간) 쿠바 정권의 자금줄 역할을 해온 기관 5곳과 쿠바 권력의 핵심인 카스트로 일가의 구성원 1명을 추가 제재 대상에 올렸다.",
-      "국무부는 이날 이미 제재 대상인 쿠바 군산복합 국영기업 가에사(GAESA)와 연계된 금융기관 2곳과 물류회사 1곳 등 3곳을 제재 대상으로 지정했다고 밝혔다.",
-      "이와 함께 쿠바 국영기업인 헤오미네라(GeoMinera) 등 쿠바의 광물·금속 매장량을 활용해 쿠바 정권에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nbced7bc1",
     "category": "사회",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152847",
     "title": "안도걸 \"디지털자산기본법, 하반기 통과...제도화 속도 내야\"",
     "summary": [
@@ -577,42 +544,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbd51b6da",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://view.asiae.co.kr/article/2026062401214404898",
-    "title": "JTBC, FIFA에 중계권료 못 냈다…한국 월드컵 중계 끊기나",
-    "summary": [
-      "북중미 월드컵을 중계 중인 JTBC가 FIFA와 중계권료 납부 문제로 갈등을 빚고 있다.",
-      "23일 일본 TBS에 따르면 JTBC는 이번 대회 계약 대금 일부를 기한 내 FIFA에 납부하지 못했다.",
-      "중계권료 급등과 스폰서십·재판매 등 권리 수익화가 난항을 겪으면서 재정 압박이 가중된 결과다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n630599dd",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://view.asiae.co.kr/article/2026062321254865998",
-    "title": "'부활 모드' 전인지, 체스카의 헤이즐틴에서 일을 낸다",
-    "summary": [
-      "'플라잉 덤보' 전인지가 4년 만에 메이저퀸 등극을 노린다.",
-      "그는 25일(현지시간)부터 나흘간 미국 미네소타주 채스카의 헤이즐틴 내셔널 골프클럽에서 열리는 시즌 세 번째 메이저 대회 KPMG 위민스 PGA 챔피언십에 출전한다.",
-      "총상금 1300만달러에 우승 상금 195만달러, 여자 대회 '역대 최다' 상금이 걸린 대회다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n1cbd94e5",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202606243918i",
     "title": "\"마피아가 보호비 내라는 꼴\"…이란,호르무즈 통행료 꼼수 시동",
     "summary": [
@@ -626,7 +561,7 @@ window.NEWS_DB = [
     "id": "ne55ccce4",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152846",
     "title": "AX 수요 잡아라...'공공 AI 박람회'에 삼성·LG·네이버·NHN 총집결",
     "summary": [
@@ -637,6 +572,68 @@ window.NEWS_DB = [
       "#AI",
       "#네이버"
     ]
+  },
+  {
+    "id": "n9942a584",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "3시간 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/06/24/Y6GFCHDXJZDVXCB2C4LXWPNH7Y/",
+    "title": "축구의 神 메시의 유일한 결점은 ‘PK’…월드컵 역대 최다 실축 기록",
+    "summary": [
+      "축구의 神 메시의 유일한 결점은 ‘PK’…월드컵 역대 최다 실축 기록."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9be3a978",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "4시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260624/134154778/1",
+    "title": "﻿﻿[Tech&]스포츠 ‘집관’ 재미와 감동, AI TV로 완성하다… 삼성 AI TV로 결정적인 순간을 더욱 생생하게",
+    "summary": [
+      "월드컵 축제가 한창 진행되면서 전 세계 축구 팬들이 연일 환호하고 있다.",
+      "특히 경기장의 함성, 선수들의 움직임, 결정적인 순간의 긴장감까지 현장의 분위기를 그대로 느낄 수 있는 ‘집관’ 열기도 뜨겁게 달아오르고 있다.",
+      "2026년형 삼성 AI TV는 집 안을 마치 현지 스타디움으로 옮겨 놓은 듯한 차원 높은 ‘집관’ 경험을 제공한다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n9c6d5c76",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "4시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260623/134168206/2",
+    "title": "‘AI 타이어 레시피’로 개발기간 50% 줄였다",
+    "summary": [
+      "“제자리에서 그냥 ‘카트라이더’ 게임을 하는 것 같겠지만, 페달을 밟는 강도부터 모든 데이터가 저장되고 있습니다.” 최근 방문한 대전 유성구에 있는 한국타이어 연구소인 ‘한국테크노돔’ 내 드라이빙 시뮬레이터실.",
+      "멈춰 있는 레이싱 카에서 파노라마 형태 대형 스크린을 앞에 두고 최대 시속 약 300km로 가상 주행을 체험했다.",
+      "단 몇 분의 주행이었음에도 바로 옆 연구원의 컴퓨터에 수 GB(기가바이트)의 데이터가 쌓였다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "ndaf80554",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "4시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260623/134168222/2",
+    "title": "달러 강세 현상 심화에… 환율 장중 1540원 돌파",
+    "summary": [
+      "미국 달러화 강세와 외국인의 주식 순매도에 원-달러 환율이 약 보름 만에 장중 1540원을 돌파했다.",
+      "환율은 25거래일 연속 1500원대로 마감하고 있어 1500원대 고환율이 고착화되는 것 아니냐는 우려가 나온다.",
+      "23일 서울 외환시장에서 원-달러 환율이 개장 직후 1542.0원까지 오른 뒤 전 거래일에 비해 2.1원 오른 1539.1원으로 주간거래를 마쳤다."
+    ],
+    "chips": [
+      "#환율"
+    ]
   }
 ];
 
@@ -645,14 +642,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
