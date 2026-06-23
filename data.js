@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-23 17:33:58
+// 마지막 업데이트: 2026-06-23 18:37:48
 window.NEWS_DB = [
   {
     "id": "n27b768c3",
     "category": "IT",
     "source": "뉴시스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSOEFjWFhBc2tXY3M0UHBabkJRaVJsQnZhdmxfUS1HbVFwTlpqcW5vdlctVmE2bGFOYnZvMkNvN3k0UjczcDlURVNBdFJ5dGtybHF6OW9LelgyZzNuWE1CaEU2WTlCdW9EV24xYTFqd1BTR3lEMFJoS9IBeEFVX3lxTFBSOEFjWFhBc2tXY3M0UHBabkJRaVJsQnZhdmxfUS1HbVFwTlpqcW5vdlctVmE2bGFOYnZvMkNvN3k0UjczcDlURVNBdFJ5dGtybHF6OW9LelgyZzNuWE1CaEU2WTlCdW9EV24xYTFqd1BTR3lEMFJoSw?oc=5",
     "title": "반도체지수 두 배 뛰었는데…엔비디아는 30개 종목 중 상승률 꼴찌",
     "summary": [
@@ -17,42 +17,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n24b694be",
-    "category": "IT",
-    "source": "이투데이",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBemRpbXFrZUFzQkxYeHVGWktyNW8wcTA3dWNtR09MTk5ZckhIamhxTGVKZUs0clFTVHpKRklIQThKeE5TVnVNLVo3dUVmNW05TWtkWmhsWkJuTllrZDd0cmU5X0d5bGVCUUhkWWxwemc5RWJW?oc=5",
-    "title": "HBM4 시대 열리며 ‘풀스택’ 삼성 파운드리 부각…조기 흑자 전환 기대",
-    "summary": [
-      "HBM4 시대 열리며 ‘풀스택’ 삼성 파운드리 부각…조기 흑자 전환 기대 이투데이."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "n689ba244",
     "category": "IT",
     "source": "플래텀(Platum)",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UU2VteUVXTFJ1bWNvYlBoeVVNbTU2aVFWeGw5cmNGUExZNVFES29EcXNlWEgtUmdvenRWcmJsVkJPUVdTam5xaA?oc=5",
     "title": "중기부, 잠재 유니콘 50개사 선정…2년간 최대 216억 지원",
     "summary": [
       "중기부, 잠재 유니콘 50개사 선정…2년간 최대 216억 지원 플래텀(Platum)."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n78705fb2",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWnNlNmVCQ1gxZWZCTURNaXRQY1JGdWR6OVltQWZSa2xGeEwza3ZXNXRsQWJ1Tk96X0wxMlgtc2FpUm04YVhpRDhqY29hSlN1RE9Na1pHeEtyN3ZiYzg1b0NQY1JwU2RtazlQLQ?oc=5",
-    "title": "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국'",
-    "summary": [
-      "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국' 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -89,6 +61,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb40c53b9",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXd1bURrS2hScVBXdHMyWnNLdWNsRlkyRXg1cEd1NFlkNFZ3SzZpY2ZBNGt2TW9WQ1FLNDZuanlIRlRkNktRN3d2bzh2RWdaWjVKY2thNlFRTjktY1FCNkJ0V0JsU0MtM1JrcFhYWENDbDRBYUNYOWp2dnotaW9nOXEzMA?oc=5",
+    "title": "파운드리 부활 꿈꾸는 인텔... 한국인에게 ‘키’를 맡겼다",
+    "summary": [
+      "파운드리 부활 꿈꾸는 인텔...",
+      "한국인에게 ‘키’를 맡겼다 조선일보."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "nc4b0f988",
     "category": "IT",
     "source": "쿠키뉴스",
@@ -118,6 +105,20 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "n6f660c1e",
+    "category": "IT",
+    "source": "전라매일",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
+    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
+    "summary": [
+      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -271,6 +272,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n36e7aa3b",
+    "category": "스포츠",
+    "source": "v.daum.net",
+    "time": "104일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdDFkUU9tMnJEUGswWkFuaHFFSXpZTjNGNEFZMFI1b3FnT1dtNHhtY2I4WmFZN050YmVwNUVDY0g1Ym9VX21mSlFKbw?oc=5",
+    "title": "한국은 축구 >>> 야구!…'전세계 인기스포츠 지도' 눈에 띄네",
+    "summary": [
+      "한국은 축구 >>> 야구!…'전세계 인기스포츠 지도' 눈에 띄네 v.daum.net."
+    ],
+    "chips": [
+      "#전세",
+      "#KBO"
+    ]
+  },
+  {
     "id": "nef414906",
     "category": "사회",
     "source": "연합뉴스",
@@ -302,25 +318,191 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5de3a708",
-    "category": "스포츠",
-    "source": "매일경제",
-    "time": "263일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
-    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "id": "n73d851c6",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260623_0003680756",
+    "title": "[인사]국토교통부",
     "summary": [
-      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+      "[서울=뉴시스] ◇실장급 전보 ▲대변인 박병석 ▲주택공급추진본부장 정우진."
     ],
     "chips": [
-      "#손흥민",
-      "#KBO"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n766cc56f",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624003700007",
+    "title": "[월드컵] 남아공 감독 \"승리밖엔 답 없어…한국 약점 활용하겠다\"",
+    "summary": [
+      "(과달루페[멕시코 누에보레온주]=연합뉴스) 오명언 기자 = \"오직 이기는 것밖에 답이 없다.\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51883ab1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/24/GYZWCNLDGA3WGZLDGVRTOY3DMY/",
+    "title": "\"질책보다 따뜻한 시선을…\" 40년간 그라운드 지킨 김호인 학교장, KBO와 작별",
+    "summary": [
+      "[OSEN=손찬익 기자] 한 시대가 막을 내린다.선수로, 심판으로, 심판위원장으로, 그리고 비디오판독센터장과 야구심판학교장으로 한국 프로야구의 공정성을 지켜온 김호인 야구심판학교장이 KBO에서의 공식 역할을 마무리하고 퇴임한다.김호인 학교장은 약 40년 동안 한국 프로야구와 함께했다.",
+      "1982년 삼미 슈퍼스타즈 창단 멤버로 프로 생활을 시작한 그는 선수 생."
+    ],
+    "chips": [
+      "#KBO",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n13f388a1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624003600075",
+    "title": "LA 냉동창고서 일주일째 불…\"4천만㎏ 식품 때문에 진압 어려워\"",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 캘리포니아주(州) 로스앤젤레스(LA) 산업 시설에서 발생한 화재가 일주일째 이어지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n753a523e",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624003400085",
+    "title": "유엔 총장 \"AI 기업들, 환경 영향 측정해 공개하라\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 안토니우 구테흐스 유엔 사무총장은 23일(현시지간) 글로벌 인공지능(AI) 기업들에 사업 활동이 환경에 미치..."
+    ],
+    "chips": [
+      "#AI",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nd4e638b6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/24/GA3DSZDFMNQTOYJUME2DKNLCMY/",
+    "title": "호날두, 마침내 터졌다! 우즈벡전 선제골 작렬!...사상 첫 6개 대회 연속 골맛 '대기록'까지[속보]",
+    "summary": [
+      "[스포츠조선 박찬준 기자]크리스티아누 호날두가 마침내 터졌다.",
+      "포르투갈은 24일 오전 2시(이하 한국시각) 미국 휴스턴 스타디움에서 우즈베키스탄과 2026년 북중미월드컵 조별리그 K조 2차전을 치른다.",
+      "포르투갈은 1차전에서 콩고에 1대1로 비기며 자존심을 구겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbee23a7c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624003300072",
+    "title": "美아폴로 사모대출펀드 2분기 17% 환매요청…5%만 수용",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 사모대출 시장을 둘러싼 건전성 우려가 남은 가운데 월가의 대표 사모대출 운용사인 아폴로도 자사의 대표 사모대..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb2d99365",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260624_0003680794",
+    "title": "트럼프 \"이란 100% 핵시설 사찰…아니면 회담 취소\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 이란이 미국과의 후속 협상에서 핵시설 사찰에 동의한 적 없다고 주장하자, 도널드 트럼프 미국 대통령은 23일(현지 시간) 잘못된 주장이며 사실이라면 향후 회담을 취소하겠다고 위협했다.",
+      "트럼프 대통령은 이날 미국 펜실베이니아주 레딩 공항에 도착한 후 국제원자력기구(IAEA) 사찰단 방문 계획이 없다는 이란 측 주장에 대해 취재진이 묻자 \"그들이 틀렸다\"고 답했다.",
+      "이어 \"그들도 자신들이 틀렸다는 것을 알고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n36025f37",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/24/GIZTGMZSGU3TGY3CGRSGKZLFGM/",
+    "title": "호날두의 ‘라스트 댄스’가 열렸다... 우즈베키스탄전 전반 멀티골, 월드컵 6개 대회 연속골 대기록",
+    "summary": [
+      "[OSEN=이인환 기자] 크리스티아누 호날두의 마지막 월드컵은 아직 끝나지 않았다.포르투갈은 24일 오전 2시(한국시간) 미국 휴스턴 스타디움에서 열린 우즈베키스탄과 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 K조 2차전 전반을 3-0으로 마쳤다.",
+      "전반 6분 선제골, 전반 39분 추가골을 터뜨리며 우즈베키스탄 골문을 두 번."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbbd90d5f",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260624_0003680792",
+    "title": "우크라 \"크름반도 철도 교량 파괴\"…러 \"경유 수출 중단 검토\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 우크라이나는 러시아가 점령 중인 크름반도내 철도 교량과 발전소 등 핵심 기반시설을 타격했다고 23일(현지시간) 주장했다.",
+      "우크린포름과 유로뉴스 등에 따르면 우크라이나 특수작전군(SOF)은 이날 성명에서 \"로즈돌네 인근 북크름 운하를 가로지르는 철도교는 더 이상 존재하지 않는다\"며 \"점령된 크름에서 제거된 첫 번째 교량\"이라고 밝혔다.",
+      "공격 장면으로 보이는 영상도 공개했다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n8b107bd5",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/24/GI2TEMTEMJRDCYLFGE3WKMLBGU/",
+    "title": "마르티네스의 선택은 또 다시 선발 원톱! 호날두, 우즈벡전 명예회복 나선다...파트너는 베실바 아닌 펠릭스[월드컵 라인업]",
+    "summary": [
+      "[스포츠조선 박찬준 기자]크리스티아누 호날두(41·포르투갈)가 명예회복에 나선다.",
+      "포르투갈은 24일 오전 2시(이하 한국시각) 미국 휴스턴 스타디움에서 우즈베키스탄과 2026년 북중미월드컵 조별리그 K조 2차전을 치른다.",
+      "포르투갈은 1차전에서 콩고에 1대1로 비기며 자존심을 구겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7bb251bc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260623_0003679816",
+    "title": "氣로 상대를 제압?…경찰 특채 합기도 영상 논란",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 경찰 무도 특별채용 선발 대회를 주최하는 합기도 단체가 '기(氣)를 이용해 상대를 마비시킨다'는 내용의 시범 영상을 공개해 '비과학적'이라는 비판이 쏟아지고 있다.",
+      "TV조선이 지난 22일 보도한 내용에 따르면 대한민국합기도총협회가 공개한 호신술 시범 영상에는 도복을 입은 시연자가 손동작을 위아래로 휘저은 뒤 상대방의 손목을 낚아채자 상대방이 고통을 호소하며 몸을 제대로 가누지 못하는 장면이 담겼다."
+    ],
+    "chips": [
+      "#채용"
     ]
   },
   {
     "id": "n789b4586",
     "category": "IT",
     "source": "테크M",
-    "time": "1분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152850",
     "title": "[카드뉴스] 장현국은 왜 적자 앱마켓에 626억을 썼을까.. 원스토어 인수 뒤에 숨겨진 의미는?",
     "summary": [
@@ -336,7 +518,7 @@ window.NEWS_DB = [
     "id": "n30cb4093",
     "category": "IT",
     "source": "테크M",
-    "time": "1분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152848",
     "title": "美, PQC 전환 앞당기자 엑스게이트 주가 21% 급등...나흘 만에 상승 마감",
     "summary": [
@@ -351,7 +533,7 @@ window.NEWS_DB = [
     "id": "n1ad5e9c7",
     "category": "경제",
     "source": "동아일보",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260624/134168366/2",
     "title": "롯데칠성, 원가 부담에 44개 품목 출고가 5.3% 인상",
     "summary": [
@@ -364,101 +546,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3d5843e7",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260623_0003680219",
-    "title": "\"AI 수요는 끝이 없어\"…삼성전자·SK하이닉스 목표가 줄상향 이유",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 이지윤 인턴기자 = 인공지능(AI) 확산으로 반도체 산업의 성장 사이클이 기존보다 길어질 수 있다는 전망이 나왔다.",
-      "하창봉 AR인베스트먼 대표는 지난 21일 구독자 179만 명의 유튜브 채널 '부읽남TV_내집마련부터건물주까지'에 출연해 \"글로벌 투자은행 보고서를 보면 내년도 삼성전자의 영업이익 추정치를 어느새 480조원까지 보고 있더라\"라며 \"그 말은 실제로 시장에 대한 기대치가 엄청나게 높아졌다는 것\"이라고 말했다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n69df6228",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624002200098",
-    "title": "네덜란드, 美 주도 AI 동맹 '팍스 실리카' 합류키로",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 네덜란드가 미국이 주도하는 인공지능(AI) 공급망 협의체인 '팍스 실리카'에 참여하기로 했다고 네덜란드 외..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n1fa5fda7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/24/MNRGCMLCGFQWEYLEGZRTGOBQMY/",
-    "title": "\"늘 처음과 끝이 어렵다\" 홈런 맞고 각성한 고영표, \"스위퍼, 카운트 잡을 때 유용하게 활용\" [오!쎈 수원]",
-    "summary": [
-      "[OSEN=수원, 홍지수 기자] KT 위즈 선발 고영표가 초반 실점에도 흔들리지 않는 투구로 팀 승리를 이끌었다.KT는 23일 수원KT위즈파크에서 열린 SSG 랜더스와 홈경기에서 13-2 대승을 거뒀고, 고영표는 6이닝 2실점 호투로 시즌 승리를 추가하며 팀의 주중 3연전 첫 경기를 책임졌다.경기 후 고영표는 \"주중 첫 경기를 이길 수 있어서 기분이 좋다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n525faefd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260624_0003680789",
-    "title": "美, 쿠바 카스트로 일가·'스캠' 캄보디아 프린스그룹 추가 제재",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미국이 23일(현지시간) 쿠바 정권의 수익원 역할을 해온 기관 5곳과 카스트로 일가 구성원 1명을 추가 제재 명단에 올렸다.",
-      "국무부는 쿠바 군산복합체 가에사(GAESA) 산하 물류·금융회사 3곳과 광물·철강 분야 국영기업 2곳을 추가 제재 대상으로 지정했다고 밝혔다.",
-      "이들은 쿠바 정권에 수익원 역할을 해왔다고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37ad2cee",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "33분 전",
-    "url": "https://www.newsis.com/view/NISX20260623_0003679600",
-    "title": "\"QQQ보다 5배 벌었다?\"…국내 액티브 ETF 수익률에 관심↑",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 미국 기술주 투자 열풍이 이어지는 가운데 국내 자산운용사들이 출시한 미국 나스닥 기반 액티브 상장지수펀드(ETF)가 시장 수익률을 크게 웃도는 성과를 내면서 투자자들의 관심이 커지고 있다.",
-      "구독자 13만명을 보유한 경제 유튜브 '채국장'은 지난 22일 '반도체 랠리로 돈 번 사람들은 지금 이 ETF를 산다'라는 제목의 영상에서 미국 대표 기술주 지수인 나스닥100을 추종하는 패시브 ETF보다 국내 액티브 ET."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nb9021457",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260623145952109",
-    "title": "폭염에 루브르박물관 일찍 문닫는다…로마도 적색경보(종합2보)",
-    "summary": [
-      "(로마·파리·런던=연합뉴스) 민경락 송진원 김지연 특파원 = 유럽이 섭씨 40도를 넘나드는 기록적인 폭염에 신음하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n56f98378",
     "category": "사회",
     "source": "아시아경제",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026062401552311851",
     "title": "美, 카스트로 일가 추가 제재…정권 자금줄 기관들도 포함",
     "summary": [
@@ -471,56 +562,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n60eb70c5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "43분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/24/MQYTQNZRMFQTIOJVHEZWEOLGGU/",
-    "title": "롯데가 올라간다! 6연승 파죽지세...\"박세웅 좋은 투구로 후반 승부 도모했다\"",
-    "summary": [
-      "[OSEN=부산, 조형래 기자] 프로야구 롯데 자이언츠가 중하위권 판도를 뒤흔들 기세로 올라오고 있다.",
-      "김태형 감독이 이끄는 롯데 자이언츠는 23일 부산 사직구장에서 열린 ‘2026 신한 SOL KBO리그’ 정규시즌 NC 다이노스와의 경기에서 3-2로 승리를 거뒀다.",
-      "이로써 롯데는 수도권 9연전 5연승의 기세를 이어서 홈에서 6연승을 이어갔다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na5604f0f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624001900085",
-    "title": "국제해사기구 \"호르무즈 통한 선원 1만1천명 철수 돌입\"",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 미국과 이란의 종전 양해각서(MOU) 체결 이후 국제해사기구(IMO)가 걸프해역(페르시아만)에 발이 묶였던 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0cfd5c16",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "50분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/24/MJTDCYJUHE3WEZBVG4YGGMZSGA/",
-    "title": "\"내가 미웠다\" 롯데 윤동희, 흠뻑 젖고 약속 → \"무조건 갈 수 있습니다\" [부산 현장]",
-    "summary": [
-      "[부산=스포츠조선 한동훈 기자] \"무조건 갈 수 있다는 생각입니다.\" 롯데 자이언츠 간판스타 윤동희가 대반격을 약속했다.",
-      "윤동희는 끝내기 안타로 6연승에 앞장선 뒤 동료들의 축하 물세례를 받았다.",
-      "흠뻑 젖은 윤동희는 롯데가 더 올라갈 수 있다며 응원을 당부했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nbced7bc1",
     "category": "사회",
     "source": "테크M",
-    "time": "55분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152847",
     "title": "안도걸 \"디지털자산기본법, 하반기 통과...제도화 속도 내야\"",
     "summary": [
@@ -532,25 +577,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n68211f94",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "58분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624001600072",
-    "title": "\"트럼프, 관세발표 직전에야 세율정해…정부자료 불신해 구글링\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미 대통령이 지난해 4월 2일 상호관세 정책을 발표해 전 세계를 뒤흔들기 불과 며칠 전까지도 ..."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
     "id": "nbd51b6da",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026062401214404898",
     "title": "JTBC, FIFA에 중계권료 못 냈다…한국 월드컵 중계 끊기나",
     "summary": [
@@ -563,25 +593,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7fa59c19",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260624_0003680787",
-    "title": "이란, 전 최고지도자 장례에 테헤란 3일간 공휴일 선포",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 이란이 아야톨라 알리 하메네이 전(前) 최고지도자 장례에 맞춰 수도 테헤란에 다음달 4~6일 공휴일을 선포했다.",
-      "23일(현지시간) 이란 국영방송에 따르면 장례식을 총괄하는 이란 혁명수비대(IRGC) 소속 하산 하산자데 지휘관은 \"순교한 지도자를 위한 고별식과 기도는 7월 4~5일이틀간 테헤란 그랜드 모살라에서 열리고 본 장례식은 7월 6일 거행된다\"며 \"테헤란주는 이 사흘 동안 휴일이 된다\"고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n630599dd",
     "category": "경제",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026062321254865998",
     "title": "'부활 모드' 전인지, 체스카의 헤이즐틴에서 일을 낸다",
     "summary": [
@@ -597,7 +612,7 @@ window.NEWS_DB = [
     "id": "n1cbd94e5",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202606243918i",
     "title": "\"마피아가 보호비 내라는 꼴\"…이란,호르무즈 통행료 꼼수 시동",
     "summary": [
@@ -611,7 +626,7 @@ window.NEWS_DB = [
     "id": "ne55ccce4",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152846",
     "title": "AX 수요 잡아라...'공공 AI 박람회'에 삼성·LG·네이버·NHN 총집결",
     "summary": [
@@ -621,20 +636,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#네이버"
-    ]
-  },
-  {
-    "id": "n87dacc38",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/24/DLG6HICFB5H7HFHFUGJYKQPIQY/",
-    "title": "“온몸 아픈 더위” 파리 시민들 녹조 연못에 풍덩",
-    "summary": [
-      "“온몸 아픈 더위” 파리 시민들 녹조 연못에 풍덩."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -650,14 +651,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
