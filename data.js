@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-24 17:35:44
+// 마지막 업데이트: 2026-06-24 18:33:19
 window.NEWS_DB = [
   {
     "id": "n1754f7c9",
     "category": "IT",
     "source": "뉴시스",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvb3pMSF9IUUhwS0MtV0ZHMUNSRHpLbV9TV3k5TThUYzE5MjFBbnZCNXJTWWU3aDNaaXlzS0dsRFpNX0UwZ2ZBRkE3b3Zxdm1rYU1pNl9PX1d5RTIzZ0tPadIBeEFVX3lxTE1YWmMwa19YODkyUG9IdEQzQ1E5c1YzTUxzbHlfRU43eHZRUjRsMGN3elpoWU90UndJSWl6M0lqaU5FdjVZdURmRmNIQjFlQVVvTkRweHJpaTBPektWZXFUVWl1dlhFaW91SHJWRi16LThLelNONEtCTg?oc=5",
     "title": "\"中 암시장서 엔비디아 제품 가격 2배 이상 급등\"",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n93f8c75d",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tSktnTFdxTDNNNzhFQlM3dlhQT1dydUxyc1Jpb25xaDZHLXVDcUkzMEtMOUM0WUJURzN2ellCZFREazN5NUlmWnR6Q3RRNllXVjhVaTI0WTJBZWwzN3hyQzRNRHRUaVVJTmhVZUNVOUc2aW8?oc=5",
     "title": "엔비디아 AI 반도체 가격 중국 암시장에서 2배 급등, 미국 수출통제 강화로 수급 어려워져",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "nde229885",
     "category": "IT",
     "source": "한국보험신문",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
     "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
     "summary": [
@@ -258,20 +258,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf5e411c3",
-    "category": "부동산",
-    "source": "시사저널",
-    "time": "28일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01U0FIUE9UX2Vqem5FTk56T2xVT0JZa3E4MThXUzFzenhmMkpoS1dZRFJvYjJHYXZLbzhqR3AxTHBQVFhpTGdSOHdrb0RHY0lIb0hfM2dmTWNHUngzbktFQ194QWstSGtTUDc1TlVaSdIBc0FVX3lxTFBJcnZERUJjc0xnZzNwUVd2YlYzWk5sMmNzMms4a0kyVFpTQnNRZDJ2aW1KeDRtZXF2b0RPb0hmd0tCWFF4WC0xdWlPcFhaTzdZdThRWUI4SGNDLVZfc2I3UXhkN0VhWmxySUpZeU85WDNjek0?oc=5",
-    "title": "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설",
-    "summary": [
-      "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설 시사저널."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -300,6 +286,21 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "132일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
     ]
   },
   {
@@ -382,32 +383,211 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n46fa4027",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/25/MU3DQYZQMVTDAYJYGM4TSYJXMY/",
-    "title": "문동주 넘었다! '161.7㎞' LG 리오스, 277일만의 '신기록' 경신…韓역사상 최고 구속 이름 새겼다 [잠실현장]",
+    "id": "n5dbd261a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/25/2026062503255898703",
+    "title": "김대호♥경수진 러브라인 재점화…\"이성적 관심 있었다\" 고",
     "summary": [
-      "[잠실=스포츠조선 김영록 기자] 약셀 리오스가 처음 한국에 올 때마다 예상됐던 일이 벌어졌다.",
-      "리오스가 한국 프로야구 역사상 최고 구속에 자신의 이름을 새겼다.",
-      "염경엽 감독이 이끄는 LG는 24일 잠실구장에서 열린 삼성 라이온즈와의 주중시리즈 2차전에서 톨허스트의 6이닝 무실점 호투와 오스틴의 맹활약을 앞세워 2대0으로 승리했다."
+      "김대호와 경수진의 러브라인이 다시 불붙었다.",
+      "24일 방영된 MBC '라디오스타' 969회에서는 김대호와 경수진의 러브라인이 화두에 올랐다.",
+      "이날 김구라는 두 사람을 향해 \"김대호, 경수진 씨 러브라인이 있었냐\"고 직접적으로 물었다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "nca847503",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/25/MQ4TSYJUGQ3DMZJYMM2DGMDBMQ/",
-    "title": "\"아, 이게 그 시절 메호대전이지\" 메시와 호날두, 마지막일지 모를 월드컵에서 다시 불붙었다...팬들 반응도 '폭발'",
+    "id": "n523c916c",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260624_0003680891",
+    "title": "반도체 머니에 들썩이는 집값…정부 '공급 확대' 속도 낸다",
     "summary": [
-      "[OSEN=정승우 기자] \"이야.",
-      "학생 때 생각 나네.\"끝난 줄 알았던 '메호대전'이 다시 돌아왔다.",
-      "그것도 월드컵 무대에서다.리오넬 메시(39, 인터 마이애미)가 먼저 불을 붙였다."
+      "[서울=뉴시스] 변해정 기자 = 반도체 경기 호황에 따른 유동성 확대가 집값 상승 기대를 키우는 가운데 정부가 시장 불안을 해소할 핵심 해법으로 주택 공급 확대에 속도를 낼 것이란 관측이 나온다.",
+      "25일 한국은행에 따르면 이달 주택가격전망지수는 120으로 2021년 10월(125) 최고치다.",
+      "이 지수는 올해 1월 124에서 2월 108, 3월에는 96까지 떨어져 100을 밑돌다가 4월(104)부터 다시 오르기 시작해 5월(112)에 이어 석 달."
+    ],
+    "chips": [
+      "#반도체",
+      "#부동산",
+      "#한은"
+    ]
+  },
+  {
+    "id": "n2573834c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625003500079",
+    "title": "네타냐후 \"작년 이란 공격 트럼프 허락 안받아…통보했을 뿐\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 베냐민 네타냐후 이스라엘 총리는 지난해 6월 이스라엘의 대이란 군사작전 당시 도널드 트럼프 미국 대통령에게..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5d966337",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003682546",
+    "title": "루비오 \"미·이란 29일 혹은 30일 스위스서 실무회담\"",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 마코 루비오 미국 국무장관이 미국과 이란 간 실무 협상이 다음 주 스위스에서 재개될 것으로 전망했다.",
+      "아울러 이란이 검토 중인 호르무즈 해협 통행료 부과 구상에 대해 강한 반대 입장을 밝히며 이란의 합의 이행을 거듭 촉구했다.",
+      "25일(현지 시간) 알자지라 등에 따르면 루비오 장관은 쿠웨이트시티에서 기자들과 만나 \"실무그룹이 오는 29일이나 30일 다시 협상에 나설 것으로 본다\"며 \"내가 잘못 알고 있지 않다면 협."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1c6f3380",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/25/2026062503034544118",
+    "title": "경수진 \"'구기동 프렌즈' 찍고 불면증 치료?…장도연 \"잘 자던데\" 폭로",
+    "summary": [
+      "배우 경수진이 '구기동 프렌즈' 촬영 이후 불면증이 사라졌다고 밝혔다.",
+      "24일 방영된 MBC '라디오스타' 969회에는 배우 경수진이 출연해 '구기동 프렌즈' 촬영 이후 달라진 근황을 전했다.",
+      "이날 김국진은 경수진에게 \"'구기동'에서 불면증을 치료했다던데\"라며 말을 걸었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na37afe57",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625003200091",
+    "title": "오픈AI, 자체 AI칩 '할라페뇨' 공개…\"블랙웰·TPU와 대등 성능\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 오픈AI가 지난해부터 개발해온 인공지능(AI) 모델 추론 특화 자체 AI 반도체를 공개했다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "ncfdb62f1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624178351071",
+    "title": "이란은 IAEA사찰단 미정이라는데…트럼프 \"미국인도 포함될것\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 조준형 백나리 특파원 = 도널드 트럼프 미국 대통령은 24일(현지시간) 향후 이란에 투입될 국제원자력기구(IAEA) 사찰단에..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n76987ca4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260624_0003682089",
+    "title": "\"돈도 벌고 육아도 하는데\"…'반찬 타령' 남편에 워킹맘 분통",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자 = 육아휴직 중인 남편이 가사와 육아는 물론 반찬 준비까지 아내에게 요구한다는 사연이 공개돼 온라인에서 공분을 사고 있다.",
+      "24일 한 온라인 커뮤니티에는 '워킹맘분들 계신가요'라는 제목의 글이 올라왔다.",
+      "작성자 A씨는 생후 10개월 된 아이를 키우고 있는 워킹맘이라고 자신을 소개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7c8e998",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/25/472OKCT5TBFBRFA5FP2YW2K3BE/",
+    "title": "“선거는 아날로그적 엄격함이 생명”… 선관위 더 감시해야",
+    "summary": [
+      "“선거는 아날로그적 엄격함이 생명”… 선관위 더 감시해야."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n36c7ac21",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/06/25/BGJF33JGMRDGTMUGIJSSL7M34Y/",
+    "title": "요즘 중식 트렌드 ‘고기 튀김’ vs. 전통적 강자 ‘탕수육’ 베스트 12",
+    "summary": [
+      "요즘 중식 트렌드 ‘고기 튀김’ vs. 전통적 강자 ‘탕수육’ 베스트 12."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncd1a6531",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/premium/2026/06/25/L2GHB656MREIJCOAK7N4EKSOIU/",
+    "title": "인구 14억명인데… 중국이 사람도, 조명도 안 쓰는 ’다크 팩토리’ 돌리는 이유",
+    "summary": [
+      "인구 14억명인데… 중국이 사람도, 조명도 안 쓰는 ’다크 팩토리’ 돌리는 이유."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n224f8065",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/national/education/2026/06/25/HVPAVXHYE5H4FFHYGRTUJ6GI5M/",
+    "title": "팔방미인은 영어로 ‘올라운더’… ‘육각형 인간’은",
+    "summary": [
+      "팔방미인은 영어로 ‘올라운더’… ‘육각형 인간’은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2b991710",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625003000072",
+    "title": "민주당 주류 뒤흔든 뉴욕 경선…'킹메이커'로 떠오른 맘다니",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 지난 23일(현지시간) 치러진 미국 뉴욕 하원 민주당 예비선거(프라이머리)에서 조란 맘다니 뉴욕시장이 공개 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1cc5c789",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "37분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/25/2026062502472559522",
+    "title": "'MBC 퇴사' 김대호, 타 방송사 면접 봤다…'무명전설' MC 발탁 비화",
+    "summary": [
+      "MBC를 퇴사한 김대호가 타 방송사 트로트 오디션 프로그램 MC 면접을 봤던 비화를 공개했다.",
+      "24일 방영된 MBC '라디오스타' 969회에는 김대호가 출연해 최근 트로트 오디션 프로그램 MC로 발탁된 소감을 전했다.",
+      "이날 유세윤은 \"김대호 아나운서가 MBC 퇴사자인데 최근 남몰래 타 방송사 면접을 봤다는 소문이 돌았다\"고 운을 뗐다."
     ],
     "chips": [
       "#뉴스"
@@ -417,7 +597,7 @@ window.NEWS_DB = [
     "id": "n038e6685",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260625_0003682544",
     "title": "왕이, 파키스탄 외교장관과 통화…\"미·이란 협상 지지\"",
     "summary": [
@@ -430,202 +610,27 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8e440892",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/25/MY2TENJVGY3DSNLBGM2DMNZUGI/",
-    "title": "'안우진도 못 막았다' 김도영, 2루타 2방→3타점 맹타…KIA 3연승 이끈 해결사 [오!쎈 고척]",
+    "id": "n7aae2f13",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/opinion/2026/06/25/2026062411140230101",
+    "title": "[강기택의 딥포인트]K-원전의 잃어버린 시간",
     "summary": [
-      "[OSEN=고척, 홍지수 기자] 프로야구 KIA 타이거즈 김도영이 팀 3연승의 중심에 섰다.",
-      "KIA는 24일 고척스카이돔에서 열린 키움 히어로즈와 원정경기에서 10-3 완승을 거두고 상승세를 이어갔다.",
-      "김도영은 경기 시작부터 존재감을 보여줬다."
+      "美 에너지 패권에 기대 제조업 부활 에너지 부국·빈국 격차 구조적 심화 K 원전, AI시대 국가 경쟁력의 근간 평소에는 그 가치를 잊고 산다.",
+      "전쟁이 터지고 나서야 비로소 그것이 얼마나 중요한지 깨닫게 된다.",
+      "1970년대 중동전쟁과 석유파동 때도 그랬고, 미국-이란 전쟁으로 석유·LNG 대란을 겪은 지금도 다르지 않다."
     ],
     "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n6834f50a",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625002500087",
-    "title": "좌파 세페다 \"콜롬비아 대선 패배 인정…건설적 야당 역할 수행\"",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 콜롬비아 좌파 진영의 대선 주자로 나선 이반 세페다 상원의원이 대선 패배를 공식 인정했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e841483",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "35분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/25/MZSTOOLGMMZGEN3CMFRWMODFMY/",
-    "title": "'ERA 8.23 폭망' 롯데에서 쫓겨난 벨라스케즈가 ML 콜업이라니!",
-    "summary": [
-      "[OSEN=손찬익 기자] 지난해 롯데 자이언츠에서 뛰었던 우완 투수 빈스 벨라스케즈가 다시 한 번 메이저리그 무대를 밟는다.미국 스포츠 매체 'MLB 트레이드 루머스'는 25일(이하 한국시간) 시카고 컵스가 트리플A 아이오와에서 뛰던 벨라스케즈를 빅리그 로스터에 합류시킬 예정이라고 보도했다.컵스는 이날 뉴욕 메츠와의 더블헤더를 앞두고 투수진 보강에 나섰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0591111b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003682540",
-    "title": "체코 대통령, 소송 끝 나토 정상회의 참석 예정",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 페트르 파벨 체코 대통령이 안드레이 바비시 총리 정부를 상대로 제기한 소송에서 승소하면서 다음 달 열리는 북대서양조약기구(NATO·나토) 정상회의에 체코 대표로 참석하게 됐다.",
-      "24일(현지 시간) 주요 외신에 따르면 체코 헌법재판소는 다음 달 7∼8일 튀르키예 앙카라에서 개최되는 나토 정상회의에 파벨 대통령이 참석할 수 있도록 정부에 필요한 조치를 취하라고 명령했다.",
-      "재판부는 정부와 외무부가파벨 대통령이 체코 대."
-    ],
-    "chips": [
+      "#AI",
       "#정치"
-    ]
-  },
-  {
-    "id": "n89883cba",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260624_0003681360",
-    "title": "\"친구처럼 키우면 오히려 독\"…정신과 교수가 말한 양육법",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 부모가 아이 대신 모든 것을 결정하고 지나치게 통제하는 태도는 오히려 아이의 자율성과 정서 발달을 해칠 수 있어, 부모가 아이와 적절한 거리를 유지하는 것이 중요하다는 전문가 조언이 나왔다.",
-      "조선미 아주대 정신건강의학과 교수는 지난 23일 구독자 390만명을 보유한 유튜브 채널 '지식인사이드'에 출연해 부모의 권위와 양육 태도, 과도한 개입이 아이에게 미치는 영향을 설명하며 \"부모는 친구가 아니라 아이를 이끄."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nfde6950a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003682535",
-    "title": "러, 우크라 남부 공습으로 NGO 소속 지뢰전문가 사망",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 우크라이나 남부 지역에 대한 러시아군의 공습으로 국제구호 비정부기구(NGO) 소속 지뢰 제거 전문가 1명이 숨지고 5명이 다쳤다.",
-      "24일(현지 시간) AFP통신에 따르면 노르웨이 오슬로에 본부를 둔 국제구호단체 노르웨이인민원조(NPA)는 러시아군의 공격으로 자사 직원 1명이 사망하고 5명이 부상했다고 밝혔다.",
-      "이번 공격은 우크라이나 남부 헤르손 지역에서 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd03c3bdc",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260625/134178119/1",
-    "title": "“코피, 아이와 어른은 원인 다르다”…왜 그럴까?",
-    "summary": [
-      "많은 사람이 갑자기 코피가 나면 피로하거나 건조한 날씨 때문이라고 생각하기 쉽다.",
-      "하지만 의료계는 코피는 연령별로 발생 원인과 위험도가 달라질 수 있다며 주의를 당부했다.",
-      "25일 의료계에 따르면 코피는 의학적으로 ‘비출혈’이라고 하며, 연령이나 성별과 관계없이 발생할 수 있다.소아에서는 비교적 가벼운 형태의 코피가 반복되는 경우가 많다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n70f0c335",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260625/134178116/1",
-    "title": "美 캘리포니아 북부 해안서 규모 5.6 지진 발생",
-    "summary": [
-      "미국 캘리포니아주 북부 해안 인근에서 24일(이하 현지시간) 규모 5.6 지진이 발생했다.미국 지질조사국(USGS)에 따르면 이번 지진은 이날 오전 8시 10분쯤 북위 39.364도, 서경 123.229도 지점인 캘리포니아주 북부 해안 주변에서 감지됐다.진원의 깊이는 8.1㎞로 얕은 편이었다.이번 지진 분석에는 총 57개 관측소의 데이터가 활용됐다.지진 발생 직후 인근 주민들이 흔들림을 감지했으나 현재까지 구체적인 인명 및 재산 피해 여부는 즉."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5f1b0bb9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260625/134178113/1",
-    "title": "“내가 더 잘했는데” 트럼프, 맘다니 영향력 조명에 분통",
-    "summary": [
-      "미국 뉴욕주 연방 하원의원 선거 민주당 경선에서 조란 맘다니 뉴욕시장의 지지를 받은 후보자들이 돌풍을 일으켜 언론의 주목을 받자, 도널드 트럼프 미 대통령이 자신의 업적은 제대로 조명되지 않고 있다며 언론을 향해 불만을 터뜨렸다.트럼프 대통령은 24일(현지 시간) 소셜미디어(SNS) 트루스소셜에 “맘다니 시장이 고한 공산주의자 3명을 승리하게 했고 가짜뉴스들로부터 박수갈채를 받았다”며 “축하한다”고 적었다.이어 “어밤 나는 16대 0으로 훌륭한."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9eaa9c3d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260625/134178108/1",
-    "title": "“30분 근력운동의 기적”…꾸준히 하면 중장년 당뇨 위험 42%↓",
-    "summary": [
-      "중장년기부터 일주일에 30분씩 꾸준히 근력 운동을 하면 당뇨병 발병 위험을 최대 42%까지 낮출 수 있다는 대규모 연구 결과가 나왔다.23일(현지 시간) 건강 전문 매체 뉴스메디컬에 따르면 장톈웨 박사가 이끄는 중국 저장대 의과대 공동 연구팀은 미국 내 보건의료 종사자 14만3715명을 대상으로 약 20년간 근력 운동의 빈도와 지속성이 제2형 당뇨병(T2D) 발병에 미치는 영향을 추적 조사한 연구 결과를 발표했다.",
-      "이는 미국의학협회(JAMA)가."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nbe1f3f18",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625001400071",
-    "title": "트럼프, '맘다니 사단' 약진에 \"가짜뉴스 언론의 찬사받아\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 24일(현지시간) 뉴욕주 연방 하원의원 민주당 예비선거에서 조란 맘다니 뉴욕시..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n33b4b14d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625001300084",
-    "title": "필리핀, 고교 총기난사 학생이 즐긴 폭력게임 접속 차단",
-    "summary": [
-      "(하노이=연합뉴스) 박진형 특파원 = 최근 필리핀 고등학교에서 학생 3명의 목숨을 앗아간 총기 난사 사건과 관련해 당국이 용의자인 10대 학생이..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n8d70611f",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625001100087",
-    "title": "베네수엘라 정부 빚 370조원…GDP의 2배 넘어",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 베네수엘라의 정부 부채 규모가 당초 시장의 예상을 뛰어넘는 2천400억 달러(약 370조원)에 달한다는..."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   },
   {
     "id": "nee8372ca",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202606256378i",
     "title": "웬디스,美X세대 추억 소환하며 밈주식으로 떠올라",
     "summary": [
@@ -642,20 +647,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
