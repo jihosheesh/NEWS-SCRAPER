@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-24 16:41:33
+// 마지막 업데이트: 2026-06-24 17:35:44
 window.NEWS_DB = [
   {
     "id": "n1754f7c9",
     "category": "IT",
     "source": "뉴시스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvb3pMSF9IUUhwS0MtV0ZHMUNSRHpLbV9TV3k5TThUYzE5MjFBbnZCNXJTWWU3aDNaaXlzS0dsRFpNX0UwZ2ZBRkE3b3Zxdm1rYU1pNl9PX1d5RTIzZ0tPadIBeEFVX3lxTE1YWmMwa19YODkyUG9IdEQzQ1E5c1YzTUxzbHlfRU43eHZRUjRsMGN3elpoWU90UndJSWl6M0lqaU5FdjVZdURmRmNIQjFlQVVvTkRweHJpaTBPektWZXFUVWl1dlhFaW91SHJWRi16LThLelNONEtCTg?oc=5",
     "title": "\"中 암시장서 엔비디아 제품 가격 2배 이상 급등\"",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n93f8c75d",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tSktnTFdxTDNNNzhFQlM3dlhQT1dydUxyc1Jpb25xaDZHLXVDcUkzMEtMOUM0WUJURzN2ellCZFREazN5NUlmWnR6Q3RRNllXVjhVaTI0WTJBZWwzN3hyQzRNRHRUaVVJTmhVZUNVOUc2aW8?oc=5",
     "title": "엔비디아 AI 반도체 가격 중국 암시장에서 2배 급등, 미국 수출통제 강화로 수급 어려워져",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n93563301",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zR2FqRU9RY29vUzEwMU5KVDl5cWNScGYweVFCQjhmZGt2NFQ2b2FqVTd3VDdkRWZxVlVlMDROaDZkT2tQeEpTSThxVkw4WDdTWDhiNmFBWDVMeEnSAWBBVV95cUxOT0h2M0Y1eW02QjdaWXREWUF2R0N1VGdJc0c4SzFqV2V4NGxEaXQ3TnhDeVE5WVlBY21NbnhwR1BrdmdLY0JOTUdZeHdPekZxaHd2em9NdVZqb2ZqZHRZM0Q?oc=5",
     "title": "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\"",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "nde229885",
     "category": "IT",
     "source": "한국보험신문",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
     "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
     "summary": [
@@ -121,6 +121,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5ace0115",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "6일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
+    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
+    "summary": [
+      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -132,6 +146,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
+    ]
+  },
+  {
+    "id": "n71a254ee",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
+    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+    "summary": [
+      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
+    ],
+    "chips": [
+      "#부동산",
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -149,20 +179,6 @@ window.NEWS_DB = [
       "#정책",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n405dbfc0",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UYTVCNm1QRnFyX3lDMVRYQ0RoYW5FaVg0TW9GaW50WEw1bVIwcEhrOFdkZ0pTcTB2R3lMUmZ6d2p1VXQ5R19fbV9QSHJSaks5WEpmLU9iakdpbUl5?oc=5",
-    "title": "AG 야구대표팀 명단 발표 앞둔 KBO·KBSA, 새 BI 발표",
-    "summary": [
-      "AG 야구대표팀 명단 발표 앞둔 KBO·KBSA, 새 BI 발표 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -213,20 +229,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3bb73fa",
-    "category": "경제",
-    "source": "헤럴드경제",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
-    "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "n79d12fb6",
     "category": "부동산",
     "source": "Chosunbiz",
@@ -256,6 +258,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf5e411c3",
+    "category": "부동산",
+    "source": "시사저널",
+    "time": "28일 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01U0FIUE9UX2Vqem5FTk56T2xVT0JZa3E4MThXUzFzenhmMkpoS1dZRFJvYjJHYXZLbzhqR3AxTHBQVFhpTGdSOHdrb0RHY0lIb0hfM2dmTWNHUngzbktFQ194QWstSGtTUDc1TlVaSdIBc0FVX3lxTFBJcnZERUJjc0xnZzNwUVd2YlYzWk5sMmNzMms4a0kyVFpTQnNRZDJ2aW1KeDRtZXF2b0RPb0hmd0tCWFF4WC0xdWlPcFhaTzdZdThRWUI4SGNDLVZfc2I3UXhkN0VhWmxySUpZeU85WDNjek0?oc=5",
+    "title": "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설",
+    "summary": [
+      "“20년 싸게 살면 집 살 줄 알았는데”…장기전세주택의 역설 시사저널."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -268,20 +284,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "ncbcb6c77",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "108일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -301,18 +303,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "132일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "264일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
     ],
     "chips": [
-      "#부동산",
-      "#재건축"
+      "#손흥민",
+      "#KBO"
     ]
   },
   {
@@ -380,71 +382,118 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na2342618",
+    "id": "n46fa4027",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/25/MU3DQYZQMVTDAYJYGM4TSYJXMY/",
+    "title": "문동주 넘었다! '161.7㎞' LG 리오스, 277일만의 '신기록' 경신…韓역사상 최고 구속 이름 새겼다 [잠실현장]",
+    "summary": [
+      "[잠실=스포츠조선 김영록 기자] 약셀 리오스가 처음 한국에 올 때마다 예상됐던 일이 벌어졌다.",
+      "리오스가 한국 프로야구 역사상 최고 구속에 자신의 이름을 새겼다.",
+      "염경엽 감독이 이끄는 LG는 24일 잠실구장에서 열린 삼성 라이온즈와의 주중시리즈 2차전에서 톨허스트의 6이닝 무실점 호투와 오스틴의 맹활약을 앞세워 2대0으로 승리했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nca847503",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/25/MQ4TSYJUGQ3DMZJYMM2DGMDBMQ/",
+    "title": "\"아, 이게 그 시절 메호대전이지\" 메시와 호날두, 마지막일지 모를 월드컵에서 다시 불붙었다...팬들 반응도 '폭발'",
+    "summary": [
+      "[OSEN=정승우 기자] \"이야.",
+      "학생 때 생각 나네.\"끝난 줄 알았던 '메호대전'이 다시 돌아왔다.",
+      "그것도 월드컵 무대에서다.리오넬 메시(39, 인터 마이애미)가 먼저 불을 붙였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n038e6685",
     "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/golf/2026/06/25/G44GIOLEGVRWMMTEGJQTQMZSGU/",
-    "title": "'깜짝 컴백' 타이거 우즈, 교통사고→약물의심 여전한데…PGA는 결국 면죄부 준건가",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003682544",
+    "title": "왕이, 파키스탄 외교장관과 통화…\"미·이란 협상 지지\"",
     "summary": [
-      "[스포츠조선 박상경 기자] 충격적인 교통 사고 후 3개월여 만에 나선 공식 석상, 타이거 우즈(미국)는 여유가 넘쳤다.",
-      "우즈는 24일(한국시각) 미국 코네티컷주 크롬웰의 TPC 리버 하이랜즈에서 열린 PGA(미국프로골프)투어 기자회견에 모습을 드러냈다.",
-      "PGA투어는 트래블러스 챔피언십 개막에 앞서 2028년부터 승강제 형식의 운영 방식 도입을 발표했는데,."
+      "[서울=뉴시스] 문예성 기자 = 왕이 중국공산당 중앙정치국 위원 겸 외교부장이 이샤크 다르 파키스탄 부총리 겸 외교장관과 통화하고 미국과 이란 간 협상 진전을 지지한다는 입장을 재확인했다.",
+      "25일 중국 외교부에 따르면 왕 부장은 전날 다르 부총리와 전화 통화를 갖고 미·이란 협상과 중동 정세 등에 대해 의견을 교환했다.",
+      "다르 부총리는 통화에서 미·이란 간 새로운 단계의 협상 진행 상황을 설명하고, 파키스탄의 중재 노력을 중국이 일관되게 지지해."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "nfd7af93b",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/25/GV5GKLRZEZHNRKML2CMX2RHE6M/",
-    "title": "\"AI 아니었어?\"…월드컵 벼락스타 된 파라과이 응원녀 '화제'",
-    "summary": [
-      "\"AI 아니었어?\"…월드컵 벼락스타 된 파라과이 응원녀 '화제'."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ndf45ae73",
+    "id": "n8e440892",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/25/GE2TSOJRMY3TCNJRG4ZTKZBRGI/",
-    "title": "음바페·호날두 '나이키' vs 메시·야말 '아디다스'…월드컵 마케팅 대격돌[월드컵24시]",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/25/MY2TENJVGY3DSNLBGM2DMNZUGI/",
+    "title": "'안우진도 못 막았다' 김도영, 2루타 2방→3타점 맹타…KIA 3연승 이끈 해결사 [오!쎈 고척]",
     "summary": [
-      "[서울=뉴시스]김수빈 인턴 기자 = 국가 간 경쟁이 펼쳐지는 월드컵 무대 밖에서는 스포츠 브랜드 나이키와 아디다스의 치열한 마케팅 전쟁이 벌어지고 있다.",
-      "최근 BBC에 따르면 나이키와 아디다스는 2026 국제축구연맹(FIFA) 북중미 월드컵을 맞아 수천만 달러 규모의 광고 캠페인을 전개하며 전 세계 축구 팬들의 시선을 사로잡기 위해 경쟁하고 있다."
+      "[OSEN=고척, 홍지수 기자] 프로야구 KIA 타이거즈 김도영이 팀 3연승의 중심에 섰다.",
+      "KIA는 24일 고척스카이돔에서 열린 키움 히어로즈와 원정경기에서 10-3 완승을 거두고 상승세를 이어갔다.",
+      "김도영은 경기 시작부터 존재감을 보여줬다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n6834f50a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625002500087",
+    "title": "좌파 세페다 \"콜롬비아 대선 패배 인정…건설적 야당 역할 수행\"",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 콜롬비아 좌파 진영의 대선 주자로 나선 이반 세페다 상원의원이 대선 패배를 공식 인정했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n16924d04",
+    "id": "n6e841483",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/25/GBRWCMTDGY4WGZBUMFSDQYRRMY/",
-    "title": "[월드컵] '경우의 수' 대형 변수 멕시코, 체코전 로테이션 실체. 현지매체 4개 분석해 봤더니. \"주전 MF 2명 휴식. 후반 대거 로테이션 예상\". 대한민국, 적신호 켜졌다!",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/25/MZSTOOLGMMZGEN3CMFRWMODFMY/",
+    "title": "'ERA 8.23 폭망' 롯데에서 쫓겨난 벨라스케즈가 ML 콜업이라니!",
     "summary": [
-      "[스포츠조선 류동혁 기자] 조별 예선 마지막 경기다.",
-      "25일 오전 10시(이하 한국시각).",
-      "A조 예선 3차전 경기가 열린다."
+      "[OSEN=손찬익 기자] 지난해 롯데 자이언츠에서 뛰었던 우완 투수 빈스 벨라스케즈가 다시 한 번 메이저리그 무대를 밟는다.미국 스포츠 매체 'MLB 트레이드 루머스'는 25일(이하 한국시간) 시카고 컵스가 트리플A 아이오와에서 뛰던 벨라스케즈를 빅리그 로스터에 합류시킬 예정이라고 보도했다.컵스는 이날 뉴욕 메츠와의 더블헤더를 앞두고 투수진 보강에 나섰다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n0591111b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003682540",
+    "title": "체코 대통령, 소송 끝 나토 정상회의 참석 예정",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 페트르 파벨 체코 대통령이 안드레이 바비시 총리 정부를 상대로 제기한 소송에서 승소하면서 다음 달 열리는 북대서양조약기구(NATO·나토) 정상회의에 체코 대표로 참석하게 됐다.",
+      "24일(현지 시간) 주요 외신에 따르면 체코 헌법재판소는 다음 달 7∼8일 튀르키예 앙카라에서 개최되는 나토 정상회의에 파벨 대통령이 참석할 수 있도록 정부에 필요한 조치를 취하라고 명령했다.",
+      "재판부는 정부와 외무부가파벨 대통령이 체코 대."
+    ],
+    "chips": [
+      "#정치"
     ]
   },
   {
     "id": "n89883cba",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260624_0003681360",
     "title": "\"친구처럼 키우면 오히려 독\"…정신과 교수가 말한 양육법",
     "summary": [
@@ -459,7 +508,7 @@ window.NEWS_DB = [
     "id": "nfde6950a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260625_0003682535",
     "title": "러, 우크라 남부 공습으로 NGO 소속 지뢰전문가 사망",
     "summary": [
@@ -472,25 +521,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na979d10a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003682537",
-    "title": "트럼프 \"이란 고농축 우라늄 IAEA 사찰단에 미국인 포함\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 이란의 고농축 우라늄 등을 조사하기 위한 국제원자력기구(IAEA) 사찰단에 미국인 사찰원도 포함될 것이라고 밝혔다고 폭스뉴스가 24일(현지 시간) 보도했다.",
-      "폭스뉴스는 트럼프 대통령이 이날 매체 기자를 만나 \"지하 깊숙이 묻혀있는 것으로 알려진 고농축 우라늄을 찾아내기 위해 IAEA가 이란에 들어갈 때 미국 사찰원들도 함께할 것이다고 말했다\"고 전했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nd03c3bdc",
     "category": "사회",
     "source": "동아일보",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260625/134178119/1",
     "title": "“코피, 아이와 어른은 원인 다르다”…왜 그럴까?",
     "summary": [
@@ -506,7 +540,7 @@ window.NEWS_DB = [
     "id": "n70f0c335",
     "category": "사회",
     "source": "동아일보",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260625/134178116/1",
     "title": "美 캘리포니아 북부 해안서 규모 5.6 지진 발생",
     "summary": [
@@ -520,7 +554,7 @@ window.NEWS_DB = [
     "id": "n5f1b0bb9",
     "category": "사회",
     "source": "동아일보",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260625/134178113/1",
     "title": "“내가 더 잘했는데” 트럼프, 맘다니 영향력 조명에 분통",
     "summary": [
@@ -534,7 +568,7 @@ window.NEWS_DB = [
     "id": "n9eaa9c3d",
     "category": "사회",
     "source": "동아일보",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260625/134178108/1",
     "title": "“30분 근력운동의 기적”…꾸준히 하면 중장년 당뇨 위험 42%↓",
     "summary": [
@@ -549,7 +583,7 @@ window.NEWS_DB = [
     "id": "nbe1f3f18",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "34분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260625001400071",
     "title": "트럼프, '맘다니 사단' 약진에 \"가짜뉴스 언론의 찬사받아\"",
     "summary": [
@@ -563,7 +597,7 @@ window.NEWS_DB = [
     "id": "n33b4b14d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "36분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260625001300084",
     "title": "필리핀, 고교 총기난사 학생이 즐긴 폭력게임 접속 차단",
     "summary": [
@@ -577,7 +611,7 @@ window.NEWS_DB = [
     "id": "n8d70611f",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "42분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260625001100087",
     "title": "베네수엘라 정부 빚 370조원…GDP의 2배 넘어",
     "summary": [
@@ -588,42 +622,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne7d2a202",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624168151085",
-    "title": "아프리카 밖에서 첫 에볼라 확진…WHO \"글로벌 위험 낮아\"(종합)",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 프랑스에서 에볼라 첫 확진자가 나왔다고 프랑스 보건부가 24일(현지시간) 밝혔다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "nee8372ca",
     "category": "경제",
     "source": "한국경제",
-    "time": "57분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202606256378i",
     "title": "웬디스,美X세대 추억 소환하며 밈주식으로 떠올라",
     "summary": [
       "웬디스,美X세대 추억 소환하며 밈주식으로 떠올라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2d9cee7",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202606256373i",
-    "title": "스페이스X,공매도 늘어…유통주식 적어 '숏스퀴즈'위험 커",
-    "summary": [
-      "스페이스X,공매도 늘어…유통주식 적어 '숏스퀴즈'위험 커."
     ],
     "chips": [
       "#뉴스"
@@ -636,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
