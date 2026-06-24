@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-24 11:59:40
+// 마지막 업데이트: 2026-06-24 13:00:28
 window.NEWS_DB = [
+  {
+    "id": "n1754f7c9",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvb3pMSF9IUUhwS0MtV0ZHMUNSRHpLbV9TV3k5TThUYzE5MjFBbnZCNXJTWWU3aDNaaXlzS0dsRFpNX0UwZ2ZBRkE3b3Zxdm1rYU1pNl9PX1d5RTIzZ0tPadIBeEFVX3lxTE1YWmMwa19YODkyUG9IdEQzQ1E5c1YzTUxzbHlfRU43eHZRUjRsMGN3elpoWU90UndJSWl6M0lqaU5FdjVZdURmRmNIQjFlQVVvTkRweHJpaTBPektWZXFUVWl1dlhFaW91SHJWRi16LThLelNONEtCTg?oc=5",
+    "title": "\"中 암시장서 엔비디아 제품 가격 2배 이상 급등\"",
+    "summary": [
+      "\"中 암시장서 엔비디아 제품 가격 2배 이상 급등\" 뉴시스."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n93f8c75d",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tSktnTFdxTDNNNzhFQlM3dlhQT1dydUxyc1Jpb25xaDZHLXVDcUkzMEtMOUM0WUJURzN2ellCZFREazN5NUlmWnR6Q3RRNllXVjhVaTI0WTJBZWwzN3hyQzRNRHRUaVVJTmhVZUNVOUc2aW8?oc=5",
     "title": "엔비디아 AI 반도체 가격 중국 암시장에서 2배 급등, 미국 수출통제 강화로 수급 어려워져",
     "summary": [
@@ -22,7 +36,7 @@ window.NEWS_DB = [
     "id": "n04de4341",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PSHYzRjV5bTZCN1pZdERZQXZHQ3VUZ0lzRzhLMWpXZXg0bERpdDdOeEN5UTlZWUFjbU1ueHBHUGt2Z0tjQk5NR1l4d096RnFod3Z6b011VmpvZmpkdFkzRNIBYEFVX3lxTE5PSHYzRjV5bTZCN1pZdERZQXZHQ3VUZ0lzRzhLMWpXZXg0bERpdDdOeEN5UTlZWUFjbU1ueHBHUGt2Z0tjQk5NR1l4d096RnFod3Z6b011VmpvZmpkdFkzRA?oc=5",
     "title": "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\"",
     "summary": [
@@ -33,27 +47,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6a33e3a5",
-    "category": "IT",
-    "source": "글로벌경제신문",
-    "time": "9시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LR3lLalpJWHh0WUdQcWJ6bWVJbHJPT3ZzQ1ljYmZtd0JhY3BXbHZXSWJyeDhDNi1DMnFycXZlZzFaUEdZRjV4VFh2ZVY3eFg0Y0YyaXMzbUIwcy1mSW0xT2xrQVpxNzV4ZzRoStIBcEFVX3lxTFAxWFJPVTE2cExSc2RrZllpcWRUNnpzUGU5c081U0kyeWVwdGF2QkJscktsMW9VWktqWDY1UnR4Tmx6RkQ5RlF6X0xtWjVzZk85MDlMNzdOTDB3SzJ4ZzVTSjFrd2E1QzJtdnJQajJETlM?oc=5",
-    "title": "[상반기 결산] '반도체 천하' 속 삼성전자·SK·현대차·LG·네이버 등 산업계가 부릅니다 'AI야~AX야!'(feat.엔비디아 젠슨황)",
-    "summary": [
-      "[상반기 결산] '반도체 천하' 속 삼성전자·SK·현대차·LG·네이버 등 산업계가 부릅니다 'AI야~AX야!'(feat.엔비디아 젠슨황) 글로벌경제신문."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "nde229885",
     "category": "IT",
     "source": "한국보험신문",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
     "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
     "summary": [
@@ -67,7 +64,7 @@ window.NEWS_DB = [
     "id": "n478f0c50",
     "category": "IT",
     "source": "네이버 프리미엄콘텐츠",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYm5GYnhjVlhUNkFYdlFPdnpqR3RvWDN0RUpfNTQ4MHVvakFweTNnYVBzVndkYWF0azBOWHY3Vlk3aWdGaUNLRGlEbmVXWDlsSkQ1ZHQyRGRRN1djUm5JamdMa2pjQVBhNGhvTHY1LVpzaTVicWlndFRWZ21pVlRaVQ?oc=5",
     "title": "SK하이닉스 시총 1위 이면, 메모리 흥망 여파 직결",
     "summary": [
@@ -184,11 +181,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13b4af19",
+    "id": "nd0c82b8d",
     "category": "사회",
     "source": "대학IN",
     "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S1BiNXpBSkRTVm5HN2tlMHA1VVJJaWdTUlphLW5vZ3FSVnRwbEFTNEUtUVZzMEVuT1NMdzdrd3gwTWI5SzVIczRqeVIwQks5QWNlbmVKam9ZRkU0Um1Ld3FOa3VTZzZjcHl0WUVB0gFwQVVfeXFMUF94VFB4MHNmSW5rZVhDMmNFOWl0N2xDOTZrWUdTNzdWMHBVbkFRcHJrbnVvT3lBV0tiYjVHYW9fYU9lVnhYTmYyejRmdTNaaGpQS1l0WE9ZMVFpTVY4NlFtT3I0TnRReHJuektxUVNnYQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
     "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
     "summary": [
       "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
@@ -198,6 +195,21 @@ window.NEWS_DB = [
       "#취업",
       "#고용",
       "#교육"
+    ]
+  },
+  {
+    "id": "n32bf68e2",
+    "category": "경제",
+    "source": "v.daum.net",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
+    "summary": [
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -212,20 +224,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "nb3bb73fa",
-    "category": "경제",
-    "source": "헤럴드경제",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
-    "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
-    ],
-    "chips": [
       "#환율"
     ]
   },
@@ -320,6 +318,38 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndf152737",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152878",
+    "title": "\"45조 실탄 들고 월가로\"…SK하이닉스, 나스닥 입성 승부수",
+    "summary": [
+      "SK하이닉스가 미국 나스닥 시장 문을 두드린다.",
+      "인공지능(AI) 메모리 시장 주도권을 굳히기 위해 최대 45조원 규모의 자금을 미국 자본시장에서 조달하는 승부수를 던졌다.",
+      "국내 기업 가운데서도 손꼽히는 초대형 해외 자금조달이다.SK하이닉스는 24일 이사회를 열고 미국 나스닥 상장을 위한 미국주식예탁증권(ADR) 발행을 결의했다고 밝혔다."
+    ],
+    "chips": [
+      "#AI",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n63aad70a",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152877",
+    "title": "억울한 두나무 \"피카코인 지급 리스트, 사실관계 입증된 바 없어\"...업계 \"트랜잭션 공개해야\"",
+    "summary": [
+      "국내 1위 디지털자산(가상자산) 거래소 업비트를 운영하는 두나무가 '청담동 주식부자' 이희진씨 측이 제기한 피카(PICA) 코인 상장 청탁 의혹과 관련해 해명에 나서 주목된다.",
+      "한 언론이 보도한 '이씨가 작성한 것으로 보이는 피카코인 제공 및 매각 내역'과 '비공식 1000만개 지급 리스트'에 대해 두나무는 \"이씨 측이 작성한 문서일 뿐 사실관계가 전혀 입증되지 않은 자료\"라고 일축했다.24일 관련업계에 따르면 두나무는 측은 \"해당 문건은 이씨."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n2465e23a",
     "category": "IT",
     "source": "테크M",
@@ -352,296 +382,260 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1142414c",
-    "category": "부동산",
-    "source": "테크M",
+    "id": "n7a5c9a32",
+    "category": "사회",
+    "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152870",
-    "title": "업비트, 스테이킹 경쟁력 입증...폴리곤 참여 규모 글로벌 1위",
+    "url": "https://view.asiae.co.kr/article/2026062421594671953",
+    "title": "李대통령, 박찬대 당선인에 \"연평도 병사들 뱃삯 11만원, 해결 부탁\"",
     "summary": [
-      "가상자산거래소 업비트가 '스테이킹(예치)' 서비스에서 두각을 드러내고 있다.",
-      "업비트는 자체적으로 운영하는 검증인을 통해 직접 스테이킹하는 방식, 높은 보안성을 경쟁력으로 내세워 참여 규모를 늘리고 있다.업비트 운영사 두나무는 '업비트 스테이킹'의 '폴리곤 에코시스템 토큰(POL, 이하 폴리곤) 스테이킹 참여 규모가 전세계 1위에 올랐다고 24일 밝혔다.",
-      "가상자산 스테이킹 정보 집계 포털 사이트 '밸리데이터 인포'에 따르면 업비트 스테이킹은 현재."
+      "이재명 대통령이 24일 박찬대 인천시장 당선자에게 연평도 주둔 병사들의 뱃삯 문제를 해결해달라고 공개 요청했다.",
+      "이 대통령은 이날 자신의 엑스(X·옛 트위터)를 통해 박 당선인에게 \"오늘 만난 연평도 주둔 병사들이 휴가로 육지로 왕래할 때 뱃삯이 무려 11만원이라 엄청 부담된다고 하소연했다\"며 \"인천시민들은 1500원인가 한다며 같은 혜택을 받게 해 달라고 한다\"고 전했다.",
+      "그러면서 \"실제 인천에 거주하는 병사들이고 나."
     ],
     "chips": [
-      "#전세"
+      "#정치"
     ]
   },
   {
-    "id": "n773fa60a",
+    "id": "nfb31a528",
     "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152869",
-    "title": "행정망 들어간 네이버 AI...정부 전용 리전으로 인프라까지 확장",
-    "summary": [
-      "네이버클라우드가 범정부 AI 공통기반 사업을 통해 공공기관용 생성형 AI 플랫폼 공급을 확대한다.",
-      "행정망에서 대규모언어모델(LLM), 에이전트 빌더, 검색증강생성(RAG), 번역·문서 변환 기능을 제공해 부처와 지자체가 자체 AI 서비스를 만들 수 있도록 지원하는 방식이다.공공 AI 확산을 위한 인프라 구상도 함께 제시했다.",
-      "네이버클라우드는 정부기관을 위한 전용 클라우드 리전을 준비하고 있다."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n52cd3855",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/world/2026/06/24/2026062420321994877",
-    "title": "욱일기 응원 FIFA 고발하자 '적반하장'…\"태극기 합성 선 넘었다\"",
-    "summary": [
-      "전 세계 욱일기 퇴치 캠페인을 펼쳐온 서경덕 성신여대 교수가 일본 응원단의 욱일기 사용을 국제축구연맹(FIFA)에 항의한 뒤 일부 일본 누리꾼으로부터 무차별적인 공격을 받고 있다고 밝혔다.",
-      "서 교수는 24일 자신의 SNS(소셜미디어)를 통해 \"최근 일본 응원단이 2026 FIFA 북중미 월드컵 경기에서 군국주의 상징인 욱일기를 들고 응원한 것에 대해 FIFA에 공식 항의했더니 일본에서 큰 논란이 됐다\"고 전했다.",
-      "앞서 일본 응원단은 조별리그 1."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfdd57bbf",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/24/2026062420512573000",
-    "title": "97세 6.25 참전유공자, 유산 기부 약정…\"어린 생명 살리고 싶어\"",
-    "summary": [
-      "6.25전쟁 발발 76주년을 앞두고 97세의 참전유공자가 사랑의열매에 유산을 기부했다.",
-      "사랑의열매 사회복지공동모금회는 경기 소재 보훈원에 거주하는 6·25 참전유공자 김선영씨(97)가 지난 23일 자신의 자산 일부를 사후 사회에 환원하는 유산기부를 약정했다고 24일 밝혔다.",
-      "이번 약정으로 김씨는 사랑의열매 유산기부자 모임인 '레거시 클럽(Legacy Club)'에 이름을 올렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2b5b8f4e",
-    "category": "사회",
     "source": "동아일보",
     "time": "4분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260624/134177336/2",
-    "title": "中서 태극기 배지 거꾸로 단 金총리…국힘 “국가적 망신”",
+    "url": "https://www.donga.com/news/It/article/all/20260624/134173454/1",
+    "title": "무한을 아는 인간과 모르는 AI[철학과 AI-1]",
     "summary": [
-      "중국을 방문 중인 김민석 국무총리가 공식 일정에 태극기 배지를 거꾸로 달고 등장한 데 대해 국민의힘은 “국가적 망신”이라고 비판했다.국민의힘 최은석 원내수석대변인은 24일 페이스북을 통해 “국무총리 가슴에 달린 거꾸로 된 대한민국”이라며 “총리는 해외 일정을 소화하면서 국가를 상징하는 태극기 배지조차 제대로 확인하지 않았고, 현장에 있던 누구도 이를 발견하지 못했다”고 지적했다.이어 “촬영한 사람도 못 봤고, 편집한 사람도 못 봤고, 검수한 사."
+      "컴퓨터의 CPU는 헤르츠(Hz)로, GPU는 플롭스(FLOPS·floating point operations)로 성능을 나타낸다.",
+      "floating point는 부동소수점이란 뜻이다.",
+      "컴퓨터에서 언급되는 소수점에는 고정소수점(fixed point)와 부동소수점이 있지만 그 차이는 여기서는 그리 중요하지 않으니 일단 소수점 연산이란 점만 생각하자."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "n00a79956",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/24/2026062420472767040",
-    "title": "장수 장안산서 천종산삼 8뿌리 발견…'억' 소리 나는 감정가 얼마?",
-    "summary": [
-      "전북 장수군 장안산 자락에서 천종산삼 8뿌리가 발견됐다.",
-      "24일 뉴스1과 한국전통심마니협회에 따르면 50대 약초꾼 박모씨는 최근 장안산 해발 950m가량에 위치한 깊은 계곡에서 천종산삼 8뿌리를 발견했다.",
-      "천종산삼은 사람의 손이 전혀 닿지 않은 야생에서 자연 발아해 50년 이상, 4대 이상을 거쳐 온 산삼을 통칭한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n038cd8db",
-    "category": "사회",
+    "id": "nf4cbd77d",
+    "category": "스포츠",
     "source": "뉴시스",
     "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260624_0003682480",
-    "title": "중노위, 화물연대 교섭 대상 재차 인정…CJ대한통운 사건 초심 유지",
+    "url": "https://www.newsis.com/view/NISX20260624_0003682461",
+    "title": "[KBO 오늘의 경기 결과]6월24일(수)",
     "summary": [
-      "[서울=뉴시스] 고홍주 기자 = 노동위원회가 CJ대한통운을 상대로 한 화물연대본부의 교섭 요구를 재차 인정했다.",
-      "중앙노동위원회(중노위)는 24일 CJ대한통운의 '교섭요구 노동조합 확정공고 이의신청 사실 공고에 대한 시정' 재심 신청 사건에서 초심 판단을 유지했다.",
-      "앞서 CJ대한통운은 지난 3월 교섭요구 사실을 공고하면서 화물연대를 교섭요구 노조에서 제외했다."
+      "[서울=뉴시스] [KBO]오늘의 경기 결과<2026년 6월24일(수)> ▲삼성 0 - 2 LG(잠실) 패 잭 오러클린 승 앤더스 톨허스트 ▲NC 3 - 5 롯데(사직) 패 전사민 승 박정민 ▲SSG 5 - 4KT(수원) 승 김민준 패 맷 사우어 ▲두산 7 - 2 한화(대전) 승 최민석 패 윌켈 에르난데스 ▲KIA 10 - 3 키움(고척) 승 양현종 패 안우진."
     ],
     "chips": [
-      "#고용"
+      "#KBO"
     ]
   },
   {
-    "id": "n37ab9e6a",
+    "id": "n496587ad",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624128551030",
-    "title": "홈플러스 \"메리츠 2천억 대출 거부…파산 막도록 정부가 나서야\"(종합)",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/24/HAZDCMZYMNTGEZBWGI3GIZJQMY/",
+    "title": "\"눈 그렇게 안 뒤집어\"…하춘화, 김영철 성대모사에 '억울함' 폭발 ('유퀴즈')",
     "summary": [
-      "(서울=연합뉴스) 정수연 기자 = 홈플러스와 홈플러스 일반노조는 24일 기업 회생계획과 관련, 정부를 상대로 \"파산만은 막아달라\"고 촉구했다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박근희 기자] '유 퀴즈 온 더 블럭’ 하춘화가 본인을 성대모사한 김영철은 언급했다.24일 전파를 탄 tvN ‘유 퀴즈 온 더 블럭’에는 데뷔 65주년을 맞은 가수 하춘화가 출연했다.오랜만에 방송인 유재석과 재회한 하춘화는 \"십몇 년 전에 봤을 때보다 더 영해졌어\"라며 유재석의 동안 외모를 칭찬해 시작부터 훈."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n949d942d",
+    "id": "n7dbaddb6",
     "category": "사회",
-    "source": "동아일보",
+    "source": "뉴시스",
     "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260624/134174734/1",
-    "title": "응급실 뺑뺑이 우려에…119 구급대원 응급분만 교육 강화",
+    "url": "https://www.newsis.com/view/NISX20260624_0003682500",
+    "title": "국힘 \"與이기헌, 선관위 특위서 김은혜에 욕설…위원직 사퇴하라\"",
     "summary": [
-      "23일 서울 용산구 서울역 인근 회의실에서 열린 ‘응급분만 전문교육’ 현장.",
-      "산부인과 전문의 홍혜리 원장이 최신형 분만 시뮬레이션 마네킹 앞에서 제대탈출(태아보다 탯줄이 먼저 나오는 현상) 상황을 설명하자 구급대원들은 교재에 메모하며 실습 장면을 지켜봤다.",
-      "한 구급대원이 “산모 자세를 바꾸면 탯줄 압박을 줄일 수 있냐”고 묻자 홍 원장은 “좁은 구급차 안에서 무리하게 자세를 바꾸다 산모가 넘어지는 등 2차 사고가 발생할 수 있다”고 설명했다.최."
+      "[서울=뉴시스] 이승재 기자 = 국민의힘은 24일 투표용지 부족 사태 관련 국회 국정조사특별위원회 회의에서 이기헌 더불어민주당 의원이 김은혜 국민의힘 의원을 향해 욕설을 했다고 주장하면서 특위 위원직 사퇴를 요구했다.",
+      "최수진 원내수석대변인은 이날 논평을 내고 \"어제(23일) 회의에서 중앙선관위 위원장 직무대행의 반복되는 불성실한 답변을 지적하던 김 의원을 향해 이 의원이 차마 입에 담기 힘든 욕설을 내뱉었다\"고 했다."
     ],
     "chips": [
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "nbaffa120",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026062420481321346",
-    "title": "해리스 前 대사 \"동맹이 美 요청 거절하면 미국도 국익 따라 조치\"",
+    "id": "n9afa220a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/24/GM3GKM3EGIZGKYTFGBSDGOJSHA/",
+    "title": "트럼프 “이란, 호르무즈 통행료 징수 안 한다고 전해와… 거짓이면 협상 파기”",
     "summary": [
-      "해리 해리스 전 주한미국대사가 \"미국이 동맹국과 파트너에게 도움을 요청했을 때 그들이 국익을 이유로 아니오라고 답한다면 미국이 해당 국가에 대해 국익에 따라 행동하더라도 놀라서는 안 된다\"고 말했다.",
-      "해리스 전 대사는 24일 오후 제주 해비치호텔에서 열린 제주포럼에서 미국·이란 전쟁과 관련한 동맹국 협조에 대한 질의에 대해 \"미국의 중동 정책에 동의하든 동의하지 않든, 미국을 지원할지 여부는 각국이 자국의 이."
+      "도널드 트럼프 미국 대통령이 호르무즈 해협의 선박 운항과 관련, 현재 어떤 통행 비용도 징수하지 않고 있다는 이란 측의 공식 입장을 전달받았다고 밝혔다.",
+      "트럼프 대통령은 24일(현지 시각) 소셜미디어(SNS) 트루스소셜에 글을 올려 일부 언론의 보도와 달리, 이란 정부가 “호르무즈 길목에서 통행세나 보험료 등 어떠한 비용을 청구하거나 받지 않는다”고 미국에."
     ],
     "chips": [
-      "#정책"
+      "#정치"
     ]
   },
   {
-    "id": "n7a9523d6",
+    "id": "ne151094b",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612159360007",
+    "title": "[프로야구] 25일 선발투수",
+    "summary": [
+      "[프로야구] 25일 선발투수."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne7d8e7e3",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260624_0003682489",
+    "title": "LG 리오스, 삼성전 시속 161.7㎞ '쾅'…트랙맨 도입 이후 최고 구속",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 프로야구 LG 트윈스의 외국인 투수 약셀 리오스가 KBO리그가 공식 장비로 트랙맨을 도입한 이후 최고 구속을 작성했다.",
+      "리오스는 24일 잠실구장에서 펼쳐진 2026 신한 쏠 KBO리그 삼성 라이온즈와의 경기에서 시속 161㎞가 넘는 강속구를 선보였다.",
+      "마무리 투수 손주영이 전날 경기에서 1⅓이닝 동안 37개의 공을 던져 등판이 어렵게 되자 LG는 2-0으로 앞서가던 9회초 리오스에 마무리 역할을 맡겼다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nece2c96b",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612159160007",
+    "title": "[프로야구 중간순위] 24일",
+    "summary": [
+      "[프로야구 중간순위] 24일."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb606e5f4",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260624/134174570/1",
-    "title": "6·25 전사자 12만명 미수습…“자녀 세대도 70대 넘어 서둘러야”",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260624/134177028/1",
+    "title": "[단독]국토안전관리원 “서소문 고가 철거, 시공계획 안 지켰다”",
     "summary": [
-      "“제가 언제 세상을 떠날진 모르겠지만 작은아버지의 유해를 꼭 찾을 수 있으면 좋겠어요.”6·25전쟁 76주년을 앞둔 17일 임경유 씨(78)는 서울 동작구 국립서울현충원 위패봉안관에 새겨진 고 임병을 육군 소위(1932~1950)의 이름을 보며 이렇게 말했다.",
-      "그는 1950년 6월 북한군의 서울 진입을 막기 위한 ‘미아리 전투’에 투입됐다가 열여덟 살에 전사한 임 소위의 조카다.",
-      "작은아버지의 얼굴과 목소리도 제대로 기억하지 못하지만, 나라를 지."
+      "3명이 숨지고 3명이 다친 서울 서대문구 서소문 고가차도 붕괴 사고와 관련해, 철거 공사가 정해진 시공 계획대로 진행되지 않았다는 정부 산하기관의 초기 보고서가 나왔다.",
+      "다리를 받치던 보(거더)를 떼어내려면 그 위 상판을 충분히 잘라야 하는데 다 자르지 않은 채 작업했고, 거더가 쓰러지지 않게 묶어두는 안전조치도 빠뜨렸다는 것이다.24일 국토교통부 산하 국토안전관리원이 더불어민주당 천준호 의원에게 제출한 ‘서소문 고가 철거공사 붕괴사고 초기현장."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4e1e5b76",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/video_photo/2026/06/24/3UZ44ODYNFFEDF5WJENNAG3VQU/",
-    "title": "핑크빛 도는 ‘위험한 동네’",
-    "summary": [
-      "핑크빛 도는 ‘위험한 동네’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc9712665",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/06/24/6EVWVG4ZAZFHRIY7WBR6YIT7EM/",
-    "title": "해리스 전 美대사 “대북 대화, 북 대응력 희생하는 방식으론 안 돼”",
-    "summary": [
-      "해리스 전 美대사 “대북 대화, 북 대응력 희생하는 방식으론 안 돼”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nab210046",
+    "id": "nb705e356",
     "category": "스포츠",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026062420444310681",
-    "title": "도수치료 풍선효과 막는다…체외충격파 연 12회로 제한",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/24/GM2TOOBRHE2GIZRTMM2WMZLFGU/",
+    "title": "스무살 특급 신인 대형사고 쳤다! 2전3기 끝 감격 첫 승…SSG 전날 11점차 대패 설욕, ‘안현민 포수 초강수’ KT 제압 [수원 리뷰]",
     "summary": [
-      "다음 달부터 체외충격파 치료는 연간 최대 12회까지만 실손보험 보상을 받을 수 있게 된다.",
-      "출혈 위험이 높거나 임신 중인 환자 등에 대한 치료는 금지된다.",
-      "금융감독원은 24일 소비자 보호와 실손보험금 누수 방지를 위해 체외충격파 치료 분쟁조정 기준을 마련했다고 밝혔다."
+      "[OSEN=수원, 이후광 기자] 스무살 신인이 대형사고를 쳤다.",
+      "프로야구 SSG 랜더스는 24일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 KT 위즈와의 시즌 11번째 맞대결에서 5-4로 승리했다.",
+      "SSG는 전날 대패를 설욕하며 시즌 30승(2무 41패) 고지를 밟았다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5f66d068",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624175000007",
+    "title": "[프로야구 대전전적] 두산 7-2 한화",
+    "summary": [
+      "[프로야구 대전전적] 두산 7-2 한화."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc36c4b5e",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624174800063",
+    "title": "천안 공동주택서 불…1명 심정지·4명 연기 흡입",
+    "summary": [
+      "(천안=연합뉴스) 김준호 기자 = 24일 오후 8시 22분께 충남 천안 청당동의 한 공동주택에서 불이 나 A(80대) 씨가 심정지 상태로, B씨..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na853942e",
+    "id": "nd40f3ff1",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624171800061",
-    "title": "경기교육감직인수위, 도교육청 기록비서관 공개 모집",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260624_0003682451",
+    "title": "'남해권 스마트 선박안전지원센터' 착공…정점식 의원 \"사업 추진 지원\"",
     "summary": [
-      "(수원=연합뉴스) 이영주 기자 = 민선 6기 경기도교육감직 인수위원회는 경기도교육청 '기록비서관(가칭)'을 공개 모집한다고 24일 밝혔다."
-    ],
-    "chips": [
-      "#채용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n6a64601f",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/06/24/2026062419522914600",
-    "title": "에이프릴바이오, IMM자산운용 등에 1417억 유증…최대주주 변경 예정",
-    "summary": [
-      "에이프릴바이오가 연구개발비용 등 운영자금을 조달하기 위해 1417억8468만6720원 규모의 제3자배정 유상증자를 실시한다고 24일 공시했다.",
-      "주금 납입이 완료되면 에이프릴바이오의 최대주주는 아이엠엠자산운용(IMM자산운용)으로 변경된다.",
-      "이날 금융감독원 전자공시시스템에 따르면 에이프릴바이오는 아이엠엠자산운용 주식회사와 아이엠엠스케일업바이오 제1호 유한회사를 대상으로 보통주 신주 409만5456주를 발행한다."
+      "[통영=뉴시스] 신정철 기자 = 경남 통영시 산양읍 신전리 일원에 남해안 권역의 중소형 어선과 해양레저선박 안전을 맡게 될 '남해권 스마트 선박안전지원센터' 건립 공사가 24일 시작됐다.",
+      "남해권 스마트 선박안전지원센터는 정부의 '제3차 국가해사안전기본계획(2022~2026)'에 따라 추진되는 사업이다.",
+      "전국 최대 규모의 소형어선 밀집지역이자, 해양레저·관광산업이 활발한 통영에 들어서는 남해안권 해양안전 핵심 인프라다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4770db9d",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624134051009",
-    "title": "\"美 원유 제재 면제로 이란 60일간 최대 4조7천억원 수익\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 김승욱 기자 = 미국이 이란 전쟁을 끝내기 위한 양해각서(MOU)에 따라 이란산 원유 수출에 대한 제재를 한시적으로 면제하면서..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n43376b5c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624171700083",
-    "title": "중국 '민족단결법' 다음달 시행…역외 조항에 대만 촉각",
-    "summary": [
-      "(베이징=연합뉴스) 김현정 특파원 = 소수민족의 중국어 사용을 우선시하고 민족 분열 행위를 처벌하는 내용의 중국 '민족단결진보촉진법'이 다음 달..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0870553d",
+    "id": "n0e6265e1",
     "category": "사회",
     "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://view.asiae.co.kr/article/2026062420374906083",
-    "title": "KPGA, 은퇴 선수 골프전문강사로 키운다",
+    "time": "23분 전",
+    "url": "https://view.asiae.co.kr/article/2026062421321946556",
+    "title": "홈플러스 \"메리츠 2000억 대출 거부…파산 막으려 정부 나서야\"",
     "summary": [
-      "한국프로골프협회(KPGA)가 은퇴 선수의 새로운 경력개발을 지원한다.",
-      "KPGA는 문화체육관광부의 지원으로 취업·파견 연계 골프전문강사 양성과정의 수강생을 모집한다고 24일 밝혔다.",
-      "KPGA 선수로서 쌓아온 경험과 전문성을 바탕으로 기업, 대학, 공공기관, 시민교육기관 등 다양한 교육 현장에서 활동할 수 있는 골프전문강사를 키우기 위해 마련했다."
+      "홈플러스와 홈플러스 일반노조가 기업 회생계획과 관련해 정부에 파산을 막아달라고 촉구했다.",
+      "홈플러스는 24일 일반노조와 공동성명을 내고 \"지난해 3월 회생절차에 진입한 후 매장 축소, 슈퍼마켓 사업부 매각 등 자구 노력을 했지만 운영자금 고갈로 최악의 자금난에 직면해 있다\"고 밝혔다.",
+      "그러면서 \"파산만은 면하고자 최대 채권자인 메리츠금융그룹에 2000억원의 긴급 운영자금 대출을 요청하고 대주주인 MBK 파트너스는 1."
     ],
     "chips": [
-      "#채용",
-      "#취업",
-      "#교육"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a4feccc",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "25분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260624/134177716/2",
+    "title": "‘수원 마약 좀비’ 30대男 석방…국과수 감정서 ‘마약 음성’",
+    "summary": [
+      "최근 소셜네트워크서비스(SNS)에서 급속도로 확산한 이른바 ‘수원 마약 좀비’ 영상 속 30대 남성이 경찰에 붙잡혔다가 국립과학수사연구원 감정에서 마약 음성 판정이 나와 풀려났다.24일 경기 수원권선경찰서는 마약류 관리에 관한 법률 위반 혐의로 긴급 체포했던 30대 남성을 석방했다고 밝혔다.경찰은 이 남성의 마약류 투약 여부를 확인하기 위해 국과수에 정밀 감정을 의뢰한 뒤 회신받은 1차 예비 감정에서 음성 판정이 나온 데 따라 석방 조치했다.이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na78ee7de",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "26분 전",
+    "url": "https://view.asiae.co.kr/article/2026062421244942680",
+    "title": "\"삼전닉스 절대 팔지마, 호황 이제 시작\" 버핏 제자 파브라이가 신신당부한 이유",
+    "summary": [
+      "'워런 버핏의 제자'로 불리는 세계적인 가치투자자 모니시 파브라이가 삼성전자와 SK하이닉스의 투자 가치를 높이 평가하며 투자자들에게 \"절대 팔지 말라\"고 조언했다.",
+      "그는 삼성전자와 SK하이닉스의 경쟁력 배경으로 메모리 반도체 시장의 높은 진입 장벽을 꼽았다.",
+      "\"호황기는 이제 막 시작됐다\" 지난 22일 구독자 390만명을 보유한 유튜브 채널 '지식인사이드'에는 '워런 버핏과 7억짜리 점심 먹으며 얻은 보물 1가지'라는 제목."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   }
 ];
@@ -650,21 +644,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "KBO",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
