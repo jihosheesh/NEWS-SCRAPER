@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-24 15:45:48
+// 마지막 업데이트: 2026-06-24 16:41:33
 window.NEWS_DB = [
   {
     "id": "n1754f7c9",
     "category": "IT",
     "source": "뉴시스",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvb3pMSF9IUUhwS0MtV0ZHMUNSRHpLbV9TV3k5TThUYzE5MjFBbnZCNXJTWWU3aDNaaXlzS0dsRFpNX0UwZ2ZBRkE3b3Zxdm1rYU1pNl9PX1d5RTIzZ0tPadIBeEFVX3lxTE1YWmMwa19YODkyUG9IdEQzQ1E5c1YzTUxzbHlfRU43eHZRUjRsMGN3elpoWU90UndJSWl6M0lqaU5FdjVZdURmRmNIQjFlQVVvTkRweHJpaTBPektWZXFUVWl1dlhFaW91SHJWRi16LThLelNONEtCTg?oc=5",
     "title": "\"中 암시장서 엔비디아 제품 가격 2배 이상 급등\"",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n93f8c75d",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tSktnTFdxTDNNNzhFQlM3dlhQT1dydUxyc1Jpb25xaDZHLXVDcUkzMEtMOUM0WUJURzN2ellCZFREazN5NUlmWnR6Q3RRNllXVjhVaTI0WTJBZWwzN3hyQzRNRHRUaVVJTmhVZUNVOUc2aW8?oc=5",
     "title": "엔비디아 AI 반도체 가격 중국 암시장에서 2배 급등, 미국 수출통제 강화로 수급 어려워져",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n93563301",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zR2FqRU9RY29vUzEwMU5KVDl5cWNScGYweVFCQjhmZGt2NFQ2b2FqVTd3VDdkRWZxVlVlMDROaDZkT2tQeEpTSThxVkw4WDdTWDhiNmFBWDVMeEnSAWBBVV95cUxOT0h2M0Y1eW02QjdaWXREWUF2R0N1VGdJc0c4SzFqV2V4NGxEaXQ3TnhDeVE5WVlBY21NbnhwR1BrdmdLY0JOTUdZeHdPekZxaHd2em9NdVZqb2ZqZHRZM0Q?oc=5",
     "title": "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\"",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "nde229885",
     "category": "IT",
     "source": "한국보험신문",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
     "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
     "summary": [
@@ -58,21 +58,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n478f0c50",
-    "category": "IT",
-    "source": "네이버 프리미엄콘텐츠",
-    "time": "17시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYm5GYnhjVlhUNkFYdlFPdnpqR3RvWDN0RUpfNTQ4MHVvakFweTNnYVBzVndkYWF0azBOWHY3Vlk3aWdGaUNLRGlEbmVXWDlsSkQ1ZHQyRGRRN1djUm5JamdMa2pjQVBhNGhvTHY1LVpzaTVicWlndFRWZ21pVlRaVQ?oc=5",
-    "title": "SK하이닉스 시총 1위 이면, 메모리 흥망 여파 직결",
-    "summary": [
-      "SK하이닉스 시총 1위 이면, 메모리 흥망 여파 직결 네이버 프리미엄콘텐츠."
-    ],
-    "chips": [
-      "#SK하이닉스",
-      "#네이버"
     ]
   },
   {
@@ -136,20 +121,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5ace0115",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
-    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
-    "summary": [
-      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -161,6 +132,54 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
+    ]
+  },
+  {
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "14일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "summary": [
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n405dbfc0",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UYTVCNm1QRnFyX3lDMVRYQ0RoYW5FaVg0TW9GaW50WEw1bVIwcEhrOFdkZ0pTcTB2R3lMUmZ6d2p1VXQ5R19fbV9QSHJSaks5WEpmLU9iakdpbUl5?oc=5",
+    "title": "AG 야구대표팀 명단 발표 앞둔 KBO·KBSA, 새 BI 발표",
+    "summary": [
+      "AG 야구대표팀 명단 발표 앞둔 KBO·KBSA, 새 BI 발표 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd0c82b8d",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
     ]
   },
   {
@@ -179,17 +198,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n54eac02a",
-    "category": "부동산",
-    "source": "프라임경제",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWTTNhcGcya25mdG1tMlJuVFhQSTBsQlVVM0xsR1lyTkQwb25RZnZ0R0tDQVJYNlhqZU52azZ4dTJVSGlrWW5xRDJ5N0VDaXZ1QUZZMWlkUUNQOXUzWTJKc1NxQzJoZw?oc=5",
-    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
+    "id": "na51ce02d",
+    "category": "IT",
+    "source": "녹색경제신문",
+    "time": "22일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LaFJiaVhMOVg4RmU3ZUdELWJZQldVcVNNalNXTnNiQVpiM3Z1V1AtdFY4QWNCZ2M0bUthYnRWb0xjMUFvQkhYZm1CaW9OV0tQaVY5TWVKd0RCaU1pdlNhTWp3YlNYR0dI?oc=5",
+    "title": "삼성전자·하이닉스, HBM4 베이스다이 경쟁…메모리에서 '파운드리 전쟁'으로",
     "summary": [
-      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
+      "삼성전자·하이닉스, HBM4 베이스다이 경쟁…메모리에서 '파운드리 전쟁'으로 녹색경제신문."
     ],
     "chips": [
-      "#부동산"
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
@@ -221,20 +241,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n22f32cb1",
-    "category": "부동산",
-    "source": "데일리안",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzRPTmY2alh2YTJIdjVPZmg2MngtNzZLN2FxNVo4T1BCMkFZbEhSekdlb1FqUmJISUN6Mjhrb0YxUDdpNE1hX0hiclVqWGplVG5YdGZoMmowM00ydTJCQkhveV9HcjQySWpHMXpub2pqYkM2YXROaVF0Nkwzckc3c0YwLVkyT2MtVXRDZTJQNjhUdUZTbm52UW0zYUMzeURMQVVkd1R2dE9JWS0xd25QR28xSVJ5WVFVZzdlWHV2dllPaWNvNDl6bDNyWDlKN0FQUGwzVjVySEdnaUtYVGdiUUkxNzBwN2RDc1FUT0QxVjZQdEpqQXlyMktFcmg0aWFVcjFfYm9NWmstSC15QXB1UmxYUUlfaEU1TkwxdlM5R2d2ZHfSAaYCQVVfeXFMTmRzOVZaY2RycEt3TGlJVlVDQlo4ZFFfVmZpb2xWMVl1OXFtdnE0dFBwZ29xaVhFN1FrTnZRaUZ6ZWQ2a2RkZlJJaklYY1dGRTY1c1BNb3hvMWJwRldLdmI1U1B3Vko1dGpZdEtKS1ZXV3QyMlM4c1l5d3ZhalFlbzEya2ctdDRZNGhLc3R0Sm0wSmlfMnlaQVJ6UWowQkEyeDhiS0Q1YWRhSlhCbDBZanI0Mm81ZFB5Nm81RjdvVUxwLUlzbmtWSTFEaGlydjk0Q0RpMjdpbUw2a050bmo5c25vak9wNUg1bU5ZVzJ6Z3FIWnJxYXRQZXA2akk1eUI1MzZkVUVKMFB0cFhKY1NWbWtuZk9HaGpWejVUdUpTajI4OXRNZkVR?oc=5",
-    "title": "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나",
-    "summary": [
-      "[주간부동산시황] 전월세 매물 줄고 가격 올라…집값 불안으로 이어지나 데일리안."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -246,6 +252,35 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5a1617c5",
+    "category": "부동산",
+    "source": "헤럴드경제",
+    "time": "43일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "ncbcb6c77",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "108일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "summary": [
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+    ],
+    "chips": [
       "#KBO"
     ]
   },
@@ -266,48 +301,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb04cef68",
-    "category": "사회",
-    "source": "경기일보",
-    "time": "131일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
-    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "132일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
-      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
     ],
     "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "내 손안에 서울",
-    "time": "236일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
-    "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n5de3a708",
-    "category": "스포츠",
-    "source": "매일경제",
-    "time": "264일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
-    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
-    "summary": [
-      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
+      "#부동산",
+      "#재건축"
     ]
   },
   {
@@ -375,217 +380,246 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbad14a8f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/nie/2026/06/25/J772FW2BDZBWRCHUD6MLO5SRTI/",
-    "title": "[신문은 선생님] [뉴스 속의 한국사] 北, 76년 전 오늘 ‘한반도 공산화’ 야욕으로 남침했어요",
-    "summary": [
-      "[신문은 선생님] [뉴스 속의 한국사] 北, 76년 전 오늘 ‘한반도 공산화’ 야욕으로 남침했어요."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09ac882e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/nie/2026/06/25/NDZIS6YBJRCAZLOL2QLOA4DD7E/",
-    "title": "[신문은 선생님] [꼭 읽어야 하는 고전] 첩자로 몰려 선고받은 수용소 10년형 벌이었던 벽돌 쌓기 몰입한 이유는?",
-    "summary": [
-      "[신문은 선생님] [꼭 읽어야 하는 고전] 첩자로 몰려 선고받은 수용소 10년형 벌이었던 벽돌 쌓기 몰입한 이유는?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b6f22db",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/nie/2026/06/25/TBCVOXRUHBBIZEM6CMN2FC7O6Y/",
-    "title": "[신문은 선생님] [생활 속 경제] 115조원 모은 스페이스X의 기업공개… 400년 전 네덜란드에서 시작된 제도죠",
-    "summary": [
-      "[신문은 선생님] [생활 속 경제] 115조원 모은 스페이스X의 기업공개… 400년 전 네덜란드에서 시작된 제도죠."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nab0644da",
+    "id": "na2342618",
     "category": "사회",
     "source": "조선일보",
     "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/25/BOPNRRHXAFH3LIHPDLCSBJCQAI/",
-    "title": "[TV조선] 납량 특집, 한풀이 무대",
+    "url": "https://www.chosun.com/sports/golf/2026/06/25/G44GIOLEGVRWMMTEGJQTQMZSGU/",
+    "title": "'깜짝 컴백' 타이거 우즈, 교통사고→약물의심 여전한데…PGA는 결국 면죄부 준건가",
     "summary": [
-      "[TV조선] 납량 특집, 한풀이 무대."
+      "[스포츠조선 박상경 기자] 충격적인 교통 사고 후 3개월여 만에 나선 공식 석상, 타이거 우즈(미국)는 여유가 넘쳤다.",
+      "우즈는 24일(한국시각) 미국 코네티컷주 크롬웰의 TPC 리버 하이랜즈에서 열린 PGA(미국프로골프)투어 기자회견에 모습을 드러냈다.",
+      "PGA투어는 트래블러스 챔피언십 개막에 앞서 2028년부터 승강제 형식의 운영 방식 도입을 발표했는데,."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd3dc2f98",
+    "id": "nfd7af93b",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/06/25/GV5GKLRZEZHNRKML2CMX2RHE6M/",
+    "title": "\"AI 아니었어?\"…월드컵 벼락스타 된 파라과이 응원녀 '화제'",
+    "summary": [
+      "\"AI 아니었어?\"…월드컵 벼락스타 된 파라과이 응원녀 '화제'."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "ndf45ae73",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260625/134178074/1",
-    "title": "육교로 돌진한 SUV…‘음주 측정 거부’ 60대 운전자 현행범 체포",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/06/25/GE2TSOJRMY3TCNJRG4ZTKZBRGI/",
+    "title": "음바페·호날두 '나이키' vs 메시·야말 '아디다스'…월드컵 마케팅 대격돌[월드컵24시]",
     "summary": [
-      "차를 몰다 보행자용 육교로 돌진하는 사고를 낸 60대 음주운전 용의자가 경찰에 붙잡혔다.경기 광주경찰서는 도로교통법 위반(음주측정거부 등) 혐의로 A 씨를 현행범 체포했다고 24일 밝혔다.A 씨는 이날 0시 5분께 경기 광주시 태전동 소재 보행자 육교 위에 정차된 차에서 경찰 음주 측정 요구에 불응한 혐의를 받고 있다.경찰은 보행자 육교를 30m가량 타고 올라간 스포츠유틸리티차량(SUV)이 있다는 112 신고를 받고 현장에 출동해 운전자인 A."
+      "[서울=뉴시스]김수빈 인턴 기자 = 국가 간 경쟁이 펼쳐지는 월드컵 무대 밖에서는 스포츠 브랜드 나이키와 아디다스의 치열한 마케팅 전쟁이 벌어지고 있다.",
+      "최근 BBC에 따르면 나이키와 아디다스는 2026 국제축구연맹(FIFA) 북중미 월드컵을 맞아 수천만 달러 규모의 광고 캠페인을 전개하며 전 세계 축구 팬들의 시선을 사로잡기 위해 경쟁하고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9aa276d5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260624_0003682531",
-    "title": "파키스탄·카타르 \"미·이란 협상 동력 유지해야\"",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 파키스탄과 카타르가 미국과 이란 간 종전 양해각서(MOU) 체결 이후 진행 중인 후속 협상에 대해 긍정적으로 평가하면서 협상 동력을 유지해야 한다는 데 의견을 같이했다.",
-      "24일(현지 시간) 파키스탄 총리실에 따르면 셰바즈 샤리프 파키스탄 총리는 이날 셰이크 무함마드 빈 압둘라흐만 알사니 카타르 총리와 전화 통화를 하고 미·이란 협상 진전 상황을 논의했다.",
-      "총리실은 성명에서 양국 정상이 미국과 이란 간 '이슬라마바."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "necb14eca",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260625/134178069/1",
-    "title": "“너무 마른 것보다 통통해야 오래산다”…전문의, ‘위고비 맹신’에 경고",
-    "summary": [
-      "마른 사람보다 약간 통통한 사람의 수명이 더 길다는 연구 결과가 나왔다.23일 이재혁 내분비내과 교수는 유튜브 채널 ‘김재원TV’에 출연해 “살을 빼면 사망률이 계속 줄 것 같지만 그렇지 않다”면서 “체중이 줄다가 어느 적정선을 넘어서면 오히려 사망률이 다시 올라가기 시작한다”고 밝혔다.이 교수는 “최근 연구를 보면 체질량지수(BMI)가 25~26인 경도 과체중인 사람들의 사망률이 더 낮다”며 “기존에 정상 범위라고 생각했던 BMI 18~22인."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6913b7a6",
+    "id": "n16924d04",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260625/134178066/1",
-    "title": "롯데, 이틀 연속 NC 꺾고 7연승 신바람…선두 LG 5연승·염경엽 감독 700승",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/25/GBRWCMTDGY4WGZBUMFSDQYRRMY/",
+    "title": "[월드컵] '경우의 수' 대형 변수 멕시코, 체코전 로테이션 실체. 현지매체 4개 분석해 봤더니. \"주전 MF 2명 휴식. 후반 대거 로테이션 예상\". 대한민국, 적신호 켜졌다!",
     "summary": [
-      "프로야구 롯데 자이언츠가 7연승을 내달리며 매서운 상승세를 자랑했다.롯데는 24일 사직구장에서 펼쳐진 2026 신한 쏠 KBO리그 NC 다이노스와의 경기에서 5-3으로 역전승을 거뒀다.이틀 연속 NC를 물리치며 7연승을 내달린 롯데는 시즌 31승(1무 39패)째를 수확하며 중위권 도약 희망을 부풀렸다.7위 NC(32승 1무 38패)는 4연패의 수렁에 빠지며 8위 롯데에 1경기 차로 쫓겼다.선취점은 NC가 냈다.",
-      "1회초 1사 주자 없는 상황에서."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n71e777a4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260624/134175723/2",
-    "title": "삼성바이오, 암스테르담에 영업사무소… 美-日 이어 유럽 공략",
-    "summary": [
-      "삼성바이오로직스가 올해 3분기(7∼9월) 네덜란드 암스테르담에 유럽 영업 사무소를 연다.",
-      "유럽 현지에 직접 영업 거점을 두는 것은 이번이 처음으로, 미국과 일본에 이어 유럽까지 거점을 넓혀 글로벌 바이오의약품 3대 시장을 직접 공략하겠다는 구상이다.",
-      "존 림 삼성바이오로직스 대표는 23일(현지 시간) ‘2026 바이오 인터내셔널 컨벤션(바이오 USA)’이 열린 미국 샌디에이고에서 기자간담회를 열고 이 같은 내용을 밝혔다."
+      "[스포츠조선 류동혁 기자] 조별 예선 마지막 경기다.",
+      "25일 오전 10시(이하 한국시각).",
+      "A조 예선 3차전 경기가 열린다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6af707b0",
+    "id": "n89883cba",
     "category": "사회",
     "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260624_0003682532",
-    "title": "\"내가 더 잘했는데\" 트럼프, 맘다니 영향력 조명에 분통",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260624_0003681360",
+    "title": "\"친구처럼 키우면 오히려 독\"…정신과 교수가 말한 양육법",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 뉴욕주 연방 하원의원 선거 민주당 경선에서 조란 맘다니 뉴욕시장의 지지를 받은 후보자들이 돌풍을 일으켜 언론의 주목을 받자, 도널드 트럼프 미 대통령이 자신의 업적은 제대로 조명되지 않고 있다며 언론을 향해 불만을 터뜨렸다.",
-      "트럼프 대통령은 24일(현지 시간) 소셜미디어(SNS) 트루스소셜에 \"맘다니 시장이 고한 공산주의자 3명을 승리하게 했고 가짜뉴스들로부터 박수갈채를 받았다\"며 \"축하한다\"고 적었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf6e7efb0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260624_0003681713",
-    "title": "\"30분 근력운동의 기적\"…꾸준히 하면 중장년 당뇨 위험 42%↓",
-    "summary": [
-      "[서울=뉴시스]정우영 인턴 기자 = 중장년기부터 일주일에 30분씩 꾸준히 근력 운동을 하면 당뇨병 발병 위험을 최대 42%까지 낮출 수 있다는 대규모 연구 결과가 나왔다.",
-      "23일(현지 시간) 건강 전문 매체 뉴스메디컬에 따르면 장톈웨 박사가 이끄는 중국 저장대 의과대 공동 연구팀은 미국 내 보건의료 종사자 14만3715명을 대상으로 약 20년간 근력 운동의 빈도와 지속성이 제2형 당뇨병(T2D) 발병에 미치는 영향을 추적 조사한 연구 결과를 발."
+      "[서울=뉴시스]김성은 인턴 기자 = 부모가 아이 대신 모든 것을 결정하고 지나치게 통제하는 태도는 오히려 아이의 자율성과 정서 발달을 해칠 수 있어, 부모가 아이와 적절한 거리를 유지하는 것이 중요하다는 전문가 조언이 나왔다.",
+      "조선미 아주대 정신건강의학과 교수는 지난 23일 구독자 390만명을 보유한 유튜브 채널 '지식인사이드'에 출연해 부모의 권위와 양육 태도, 과도한 개입이 아이에게 미치는 영향을 설명하며 \"부모는 친구가 아니라 아이를 이끄."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nc28041c8",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625000200098",
-    "title": "중국 \"유럽이 무역 장벽 높이면 맞대응\" 경고",
+    "id": "nfde6950a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003682535",
+    "title": "러, 우크라 남부 공습으로 NGO 소속 지뢰전문가 사망",
     "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)이 중국을 상대로 무역 장벽을 높이면, 중국은 맞대응할 것이라고 주유럽연합(EU) 중국 대사..."
+      "[서울=뉴시스] 문예성 기자 = 우크라이나 남부 지역에 대한 러시아군의 공습으로 국제구호 비정부기구(NGO) 소속 지뢰 제거 전문가 1명이 숨지고 5명이 다쳤다.",
+      "24일(현지 시간) AFP통신에 따르면 노르웨이 오슬로에 본부를 둔 국제구호단체 노르웨이인민원조(NPA)는 러시아군의 공격으로 자사 직원 1명이 사망하고 5명이 부상했다고 밝혔다.",
+      "이번 공격은 우크라이나 남부 헤르손 지역에서 발생했다."
     ],
     "chips": [
-      "#수출"
+      "#뉴스"
     ]
   },
   {
-    "id": "n661073d9",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "24분 전",
-    "url": "https://view.asiae.co.kr/article/2026062500210426002",
-    "title": "서울국제도서전의 '인간선언'…AI 시대에도 독자는 책 앞에 섰다",
-    "summary": [
-      "질문을 넣으면 곧장 답을 뱉는다.",
-      "24일 서울 강남구 코엑스의 독자들은 정반대였다.",
-      "A홀과 B1홀 앞에서 줄의 끝을 찾고, 입장 팔찌를 받고, 사인회 시간을 확인하고, 강연 예약 화면을 다시 들여다봤다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n2dea013f",
-    "category": "IT",
+    "id": "na979d10a",
+    "category": "사회",
     "source": "뉴시스",
     "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260624_0003681475",
-    "title": "“AI 다음은 양자컴퓨터\"…미·중 기술 패권 경쟁 본격화",
+    "url": "https://www.newsis.com/view/NISX20260625_0003682537",
+    "title": "트럼프 \"이란 고농축 우라늄 IAEA 사찰단에 미국인 포함\"",
     "summary": [
-      "[서울=뉴시스]김혜경 기자, 신우진 인턴기자 = 인공지능(AI)에 이어 양자 컴퓨터가 글로벌 기술 패권 경쟁과 투자 시장의 새로운 게임 체인저로 부상하고 있다.",
-      "도널드 트럼프 미국 정부의 대규모 투자 발표와 중국의 국가 주도 개발이 맞물리면서 주식 시장에도 양자 컴퓨터 산업이 장기적인 핵심 성장 동력으로 주목받고 있다.",
-      "19일 KB증권 공식 유튜브 채널 '깨비증권 마블TV'의 투자 토크쇼 '주식아지트 EP.4'에는 김범준 성균관대 물리학과 교수."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 이란의 고농축 우라늄 등을 조사하기 위한 국제원자력기구(IAEA) 사찰단에 미국인 사찰원도 포함될 것이라고 밝혔다고 폭스뉴스가 24일(현지 시간) 보도했다.",
+      "폭스뉴스는 트럼프 대통령이 이날 매체 기자를 만나 \"지하 깊숙이 묻혀있는 것으로 알려진 고농축 우라늄을 찾아내기 위해 IAEA가 이란에 들어갈 때 미국 사찰원들도 함께할 것이다고 말했다\"고 전했다."
     ],
     "chips": [
-      "#AI"
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd03c3bdc",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260625/134178119/1",
+    "title": "“코피, 아이와 어른은 원인 다르다”…왜 그럴까?",
+    "summary": [
+      "많은 사람이 갑자기 코피가 나면 피로하거나 건조한 날씨 때문이라고 생각하기 쉽다.",
+      "하지만 의료계는 코피는 연령별로 발생 원인과 위험도가 달라질 수 있다며 주의를 당부했다.",
+      "25일 의료계에 따르면 코피는 의학적으로 ‘비출혈’이라고 하며, 연령이나 성별과 관계없이 발생할 수 있다.소아에서는 비교적 가벼운 형태의 코피가 반복되는 경우가 많다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n70f0c335",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260625/134178116/1",
+    "title": "美 캘리포니아 북부 해안서 규모 5.6 지진 발생",
+    "summary": [
+      "미국 캘리포니아주 북부 해안 인근에서 24일(이하 현지시간) 규모 5.6 지진이 발생했다.미국 지질조사국(USGS)에 따르면 이번 지진은 이날 오전 8시 10분쯤 북위 39.364도, 서경 123.229도 지점인 캘리포니아주 북부 해안 주변에서 감지됐다.진원의 깊이는 8.1㎞로 얕은 편이었다.이번 지진 분석에는 총 57개 관측소의 데이터가 활용됐다.지진 발생 직후 인근 주민들이 흔들림을 감지했으나 현재까지 구체적인 인명 및 재산 피해 여부는 즉."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5f1b0bb9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260625/134178113/1",
+    "title": "“내가 더 잘했는데” 트럼프, 맘다니 영향력 조명에 분통",
+    "summary": [
+      "미국 뉴욕주 연방 하원의원 선거 민주당 경선에서 조란 맘다니 뉴욕시장의 지지를 받은 후보자들이 돌풍을 일으켜 언론의 주목을 받자, 도널드 트럼프 미 대통령이 자신의 업적은 제대로 조명되지 않고 있다며 언론을 향해 불만을 터뜨렸다.트럼프 대통령은 24일(현지 시간) 소셜미디어(SNS) 트루스소셜에 “맘다니 시장이 고한 공산주의자 3명을 승리하게 했고 가짜뉴스들로부터 박수갈채를 받았다”며 “축하한다”고 적었다.이어 “어밤 나는 16대 0으로 훌륭한."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9eaa9c3d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260625/134178108/1",
+    "title": "“30분 근력운동의 기적”…꾸준히 하면 중장년 당뇨 위험 42%↓",
+    "summary": [
+      "중장년기부터 일주일에 30분씩 꾸준히 근력 운동을 하면 당뇨병 발병 위험을 최대 42%까지 낮출 수 있다는 대규모 연구 결과가 나왔다.23일(현지 시간) 건강 전문 매체 뉴스메디컬에 따르면 장톈웨 박사가 이끄는 중국 저장대 의과대 공동 연구팀은 미국 내 보건의료 종사자 14만3715명을 대상으로 약 20년간 근력 운동의 빈도와 지속성이 제2형 당뇨병(T2D) 발병에 미치는 영향을 추적 조사한 연구 결과를 발표했다.",
+      "이는 미국의학협회(JAMA)가."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nbe1f3f18",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625001400071",
+    "title": "트럼프, '맘다니 사단' 약진에 \"가짜뉴스 언론의 찬사받아\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 24일(현지시간) 뉴욕주 연방 하원의원 민주당 예비선거에서 조란 맘다니 뉴욕시..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n33b4b14d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625001300084",
+    "title": "필리핀, 고교 총기난사 학생이 즐긴 폭력게임 접속 차단",
+    "summary": [
+      "(하노이=연합뉴스) 박진형 특파원 = 최근 필리핀 고등학교에서 학생 3명의 목숨을 앗아간 총기 난사 사건과 관련해 당국이 용의자인 10대 학생이..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n8d70611f",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625001100087",
+    "title": "베네수엘라 정부 빚 370조원…GDP의 2배 넘어",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 베네수엘라의 정부 부채 규모가 당초 시장의 예상을 뛰어넘는 2천400억 달러(약 370조원)에 달한다는..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne7d2a202",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260624168151085",
+    "title": "아프리카 밖에서 첫 에볼라 확진…WHO \"글로벌 위험 낮아\"(종합)",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 프랑스에서 에볼라 첫 확진자가 나왔다고 프랑스 보건부가 24일(현지시간) 밝혔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nee8372ca",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "57분 전",
+    "url": "https://www.hankyung.com/article/202606256378i",
+    "title": "웬디스,美X세대 추억 소환하며 밈주식으로 떠올라",
+    "summary": [
+      "웬디스,美X세대 추억 소환하며 밈주식으로 떠올라."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "ne2d9cee7",
     "category": "경제",
     "source": "한국경제",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202606256373i",
     "title": "스페이스X,공매도 늘어…유통주식 적어 '숏스퀴즈'위험 커",
     "summary": [
@@ -593,36 +627,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nd92e37a9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624157751082",
-    "title": "체코 대통령, 총리와 소송전 끝 나토회의 참석(종합)",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 육군 장성 출신 군사전문가인 페트르 파벨 체코 대통령이 안드레이 바비시 총리를 상대로 소송을 낸 끝에 내달..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n420e9b75",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "40분 전",
-    "url": "https://view.asiae.co.kr/article/2026062500053118158",
-    "title": "'국힘 당원 가입 압력' 이만희 신천지 총회장 구속",
-    "summary": [
-      "신도들을 국민의힘 당원으로 집단 가입시킨 혐의로 재판에 넘겨진 이만희 신천지 총회장(95)이 구속됐다.",
-      "서울중앙지법 김진만 영장전담 부장판사는 24일 정당법 위반 등 혐의를 받는 이 총회장에 대한 구속 전 피의자 심사 결과 \"증거 인멸 염려가 있다\"며 영장을 발부했다.",
-      "이 총회장은 2021∼2024년 국민의힘 대선·총선 경선 등에 영향을 미칠 목적으로 신도들에게 당원 가입을 강제한 혐의를 받는다."
-    ],
-    "chips": [
-      "#교육"
     ]
   }
 ];
@@ -632,8 +636,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
@@ -643,7 +647,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   }
