@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-25 11:52:41
+// 마지막 업데이트: 2026-06-25 12:43:11
 window.NEWS_DB = [
   {
     "id": "n5beb325a",
     "category": "IT",
     "source": "한겨레",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSDNBZWxOYXBMcmxiNVlnMlFMNEh2SVNaRFZtT2JGRThvTTQwT1RtUGlwRUdZc1VuZl93b0FUYlhvTkJTM3BoakZidWhxa0lvNUxEQlJJSEE1QzAzYTBOSg?oc=5",
     "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’공개…엔비디아 의존도 낮춘다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n8908d258",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnM9IBYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnMw?oc=5",
     "title": "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검'",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "n4961c442",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aaktNZ3VBellFcmtGV3lWRW05czA3eWVIXzVsTEFEOUJuMFZSVWNBMTdqZVJDSERWc3N0MWIzd1p3dzBaODRYN3VxbGlKRm9Senl3N3RaYmtqdw?oc=5",
     "title": "오픈AI, 자체 칩 '할라페뇨' 공개…\"엔비디아·구글 칩과 대등한 성능\"",
     "summary": [
@@ -116,20 +116,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5ace0115",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
-    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
-    "summary": [
-      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -144,16 +130,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n248fc719",
+    "id": "n71a254ee",
     "category": "경제",
-    "source": "마켓인",
+    "source": "뉴시스",
     "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTEMySTZHNHRyTUpaMEJXaUpSUVlJalZqUDdYVndqdUtFeklISm9rSzVLYUhQRzZobmI4T2pQZ0dtMnl2YjlNUV9XTFFHLVBzNVc0bGNBVUJTTGxJcTFsTmVxWUJzc3ZfaC12dmFaQjNfVWM?oc=5",
-    "title": "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망”",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
+    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
     "summary": [
-      "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망” 마켓인."
+      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
     ],
     "chips": [
+      "#부동산",
+      "#금리",
       "#환율"
     ]
   },
@@ -207,21 +195,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n32bf68e2",
-    "category": "경제",
-    "source": "v.daum.net",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
-    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
-    "summary": [
-      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
     "id": "na51ce02d",
     "category": "IT",
     "source": "녹색경제신문",
@@ -237,31 +210,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n54eac02a",
-    "category": "부동산",
-    "source": "프라임경제",
+    "id": "nb3bb73fa",
+    "category": "경제",
+    "source": "헤럴드경제",
     "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWTTNhcGcya25mdG1tMlJuVFhQSTBsQlVVM0xsR1lyTkQwb25RZnZ0R0tDQVJYNlhqZU52azZ4dTJVSGlrWW5xRDJ5N0VDaXZ1QUZZMWlkUUNQOXUzWTJKc1NxQzJoZw?oc=5",
-    "title": "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\"",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
+    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
     "summary": [
-      "서울 집값·전셋값 동반 상승 \"고분양가 신축, 시장 자극\" 프라임경제."
+      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
     ],
     "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n79d12fb6",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "27일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
-    "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#부동산"
+      "#환율"
     ]
   },
   {
@@ -280,6 +239,36 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5a1617c5",
+    "category": "부동산",
+    "source": "헤럴드경제",
+    "time": "44일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "n9f44f684",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "106일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkZWVtbmlGWVdHUW5MX0lBUHc1MHcwSndXamNqRm9ZUml6OUk3ZXZoV05QVUN2STNhbzhlUGVORVdGQk9XNUl1a0MtX2QxTWZkSm1TZlR6c1EzSXNn?oc=5",
+    "title": "한국은 축구 >>> 야구!…'전세계 인기스포츠 지도' 눈에 띄네",
+    "summary": [
+      "한국은 축구 >>> 야구!…'전세계 인기스포츠 지도' 눈에 띄네 네이트."
+    ],
+    "chips": [
+      "#전세",
+      "#KBO"
+    ]
+  },
+  {
     "id": "nef414906",
     "category": "사회",
     "source": "연합뉴스",
@@ -293,6 +282,21 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "133일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
     ]
   },
   {
@@ -378,262 +382,249 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9f6abafa",
-    "category": "스포츠",
-    "source": "조선일보",
+    "id": "nba02cc01",
+    "category": "사회",
+    "source": "동아일보",
     "time": "3분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/25/MVSTGYRYG4YWEZRWGU4GEZTFMM/",
-    "title": "'광대 강타' 두산 양의지, 충격 헤드샷 교체...한화 박준영 즉시 퇴장 [대전 현장]",
+    "url": "https://www.donga.com/news/Society/article/all/20260625/134185179/1",
+    "title": "‘올공 시위’서 경찰에 욕설하고 침뱉은 40대女 구속",
     "summary": [
-      "[대전=스포츠조선 김용 기자] 충격의 헤드샷.",
-      "두산 베어스 양의지가 충격적인 헤드샷으로 인해 교체됐다.",
-      "공을 던진 한화 이글스 투수 박준영은 퇴장을 당했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5d68ba06",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/25/GFSTIMRVGJSDSMRWMFRGCYLGG4/",
-    "title": "한국 울린 남아공, 월드컵 사상 첫 토너먼트 진출... 마세코 한 방→캐나다와 32강",
-    "summary": [
-      "[OSEN=이인환 기자] 남아공이 한국을 밟고 월드컵사를 바꿨다.남아공은 25일(한국시간) 멕시코 과달루페의 에스타디오 몬테레이에서 열린 2026 FIFA 월드컵 조별리그 A조 최종전에서 한국을 1-0으로 꺾었다.",
-      "1승 1무 1패, 승점 4.",
-      "멕시코에 이어 A조 2위에 오른 남아공은 월드컵 사상 처음으로 토너먼트 무대를 밟는다.결승골은 후반 18분에 나왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n48486f14",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684235",
-    "title": "외신도 홍명보호에 혹평…\"손흥민 벤치 전술, 실패작\"",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 대한민국 축구대표팀이 2026 북중미 월드컵 조별리그 최종전에서 남아프리카공화국에 0-1로 패하며 32강 직행에 실패하자 주요 외신들도 홍명보 감독의 전술과 경기력을 일제히 비판했다.",
-      "25일(현지 시간) 스포츠 전문 매체 디애슬레틱은 경기 직후 \"남아공의 감격적인 이변으로 캐나다전이 성사된 반면, 손흥민을 벤치에 앉힌 대한민국은 충격에 빠졌다\"라고 보도했다.",
-      "매체는 \"대한민국에서 손흥민의 존재감은 절대적이며."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n629d9a13",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260625/134182019/1",
-    "title": "알제리 참사에 이어 몬테레이 참사까지…명예 회복 실패한 홍명보 감독",
-    "summary": [
-      "“감독은 경험하는 자리가 아니라.",
-      "증명하는 자리다.”2002 한일월드컵 4강 멤버인 이영표 해설위원은 2014 브라질 월드컵이 끝난 뒤 이렇게 말했다.",
-      "한국은 당시 조별리그에서 1무 2패로 탈락했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n16c28dc3",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684238",
-    "title": "SKT, SK하이닉스 美 AI 투자법인 지분 취득 결정…4년간 7000원 출자",
-    "summary": [
-      "[서울=뉴시스]박은비 기자 = SK텔레콤이 SK하이닉스의 미국 투자법인 지분 취득에 나선다.",
-      "SK그룹의 인공지능(AI) 사업에 함께 올라타는 차원이다.",
-      "25일 SK텔레콤 공시에 따르면 회사는 'SK하이닉스 낸드 프로덕트 솔루션'의 신규 주식 취득을 위한 현금 출자 약정 체결을 결정했다."
-    ],
-    "chips": [
-      "#AI",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nb76bc8b7",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026062520423996532",
-    "title": "JP모건 \"코스피 1만5000 간다\"",
-    "summary": [
-      "글로벌 투자은행 JP모건이 강세장에서 코스피 전망치를 기존 1만에서 1만5000으로 끌어올렸다.",
-      "25일 금융투자업계에 따르면 JP모건은 이날 보고서를 내고 코스피 전망치를 기본 시나리오에서 1만2500을, 강세장과 약세장 시나리오에서는 각각 1만5000과 8000으로 제시했다.",
-      "이는 기존에 전망한 9000(기본)·1만(강세장)·6000(약세장)보다 상향한 수치다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd1336bac",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684237",
-    "title": "네이버, 검색창에 AI 심었다…'AI탭' 정식 출시",
-    "summary": [
-      "[서울=뉴시스]윤정민 기자 = 네이버가 대화형 인공지능(AI) 검색 서비스 'AI탭'을 전체 이용자를 대상으로 제공하기 시작했다.",
-      "25일 네이버에 따르면 회사는 이날 오후부터 PC 웹, 모바일 앱에 AI탭 업데이트를 순차 배포하고 있다.",
-      "AI탭은 이용자가 질문 시 AI가 검색 결과를 요약하고 분석해 채 형태로 답을 준다."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n47f44043",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684233",
-    "title": "탈출 늑대개 한 마리 추가 포획…남은 한 마리도 어미로 유인 중",
-    "summary": [
-      "[서산=뉴시스]김덕진 기자 = 지난 16일 충남 서산시 운산면의 한 농장에서 탈출했던 새끼 늑대개 2마리 가운데 1마리가 추가로 포획됐다.",
-      "수색 당국은 남은 한 마리를 붙잡기 위해 어미 늑대개를 이용한 유인 작업을 이어가고 있다.",
-      "25일 서산시 등에 따르면 이날 오후 5시40분께 당진시 정미면 대운산리 인근 야산에 설치한 포획틀에서 새끼 늑대개 1마리를 붙잡았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4782010f",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026062519234929835",
-    "title": "\"야, 경찰이니까 신고해\"…응급실 난동 현직 여경, 항소심도 벌금형",
-    "summary": [
-      "술에 취한 채 병원 응급실에서 의료진에게 \"야, 경찰이니까 신고해\"라고 외치는 등 난동을 피운 현직 여성 경찰관이 항소심에서도 벌금형을 선고받았다.",
-      "연합뉴스는 25일 춘천지법 강릉지원 형사4부(오권철 지원장)가 응급의료에 관한 법률 위반 혐의로 기소된 여성 경찰관 A 경장의 항소심에서 검찰의 항소를 기각하고 벌금 1000만원을 선고한 원심을 유지했다고 보도했다.",
-      "공소사실에 따르면 강원경찰청 기동순찰대 소속이던 A."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n49b69f02",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/2026062587767",
-    "title": "[속보] 경찰에 침 뱉은 잠실개표소 40대 女 시위자 '구속'",
-    "summary": [
-      "[속보] 경찰에 침 뱉은 잠실개표소 40대 女 시위자 '구속'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nebd80750",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260625/134185093/1",
-    "title": "친명 이건태, 鄭 향해 “이재명 정부 의심하나…실망 넘어 충격”",
-    "summary": [
-      "친명계인 이건태 더불어민주당 의원이 정청래 전 대표를 향해 “실망을 넘어 충격이다”라고 평했다.이 의원은 25일 페이스북에 “(김민석) 총리가 정부의 공식 입장으로 ‘보완수사권 전면폐지’를 발표했다”며 “그런데도 정청래 전 대표는 ‘혹시 시간끌기 작전인지 살펴봐야 한다’고 말한다.",
-      "실망을 넘어 충격이다”라고 했다.",
-      "이 의원은 “여당 대표였던 사람이 정부의 공식입장에 대해 ‘시간끌기’를 운운하다니”라며 “이재명 정부를 의심하는 발언과 다름 없다”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n429f8c41",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625166400004",
-    "title": "경찰에 침뱉은 잠실개표소 여성 시위자 구속…\"도주·재범 우려\"",
-    "summary": [
-      "(서울=연합뉴스) 양수연 기자 = '잠실 개표소 봉쇄 시위' 도중 경찰에게 욕설하고 침을 뱉은 40대 여성이 구속됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n60860802",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625166200079",
-    "title": "오만 외무 \"호르무즈 해협 통행료 부과 없을 것\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협 연안국인 오만이 향후 해협 통과 선박에 어떤 통행료도 부과되지 않을 것이라는 입장을 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b323a24",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625166100004",
-    "title": "투표소건물 지하주차장에 불지른 30대 남성 구속송치",
-    "summary": [
-      "(서울=연합뉴스) 양수연 기자 = 지난 6·3 지방선거에서 투표소가 설치된 서울 동작구 건물 지하주차장에서 발생했던 방화 사건이 뒤늦게 전해졌다..."
+      "6·3지방선거 투표용지 부족 사태로 시작된 서울 송파구 올림픽공원 봉쇄 집회 도중 경찰에게 욕설하고 침을 뱉은 40대 여성이 구속됐다.25일 서울동부지법 서범준 영장전담 부장판사는 공무집행방해 등 혐의를 받는 40대 여성 김모 씨에게 “도주할 염려와 재범 가능성이 있다”며 구속영장을 발부했다.김 씨는 23일 오전 10시 반경 올림픽공원 집회 현장에서 ‘한국 경찰인지 확인하겠다’ ‘중국인의 개인 정보를 조사해야 한다’ 등을 주장하며 경찰관 얼굴을."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nc92d3767",
+    "id": "nfce81bfa",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684261",
+    "title": "\"독방이 객실로\"…日 100년 감옥, 럭셔리 호텔 됐다",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 100년 넘게 감옥으로 사용되던 일본의 옛 교도소가 럭셔리 호텔로 재탄생했다.",
+      "감옥을 관광 자원으로 활용한 일본 첫 사례다.",
+      "23일(현지시간) 니혼게이자이신문에 따르면 일본 리조트 운영사 호시노 리조트는 국가 지정 중요문화재인 옛 '나라감옥'을 개조한 고급 호텔 '호시노야 나라감옥'을 25일 개장한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb9f9579b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260625/134185597/1",
+    "title": "李 “총리 책임하에 자살자 수 줄어…국민 생명 구하기 효과”",
+    "summary": [
+      "이재명 대통령은 25일 한국의 자살자 수가 줄고 있어 큰 보람을 느낀다고 밝혔다.이 대통령은 이날 X(옛 트위터)를 통해 “작년부터 국무총리 책임하에 전 부처청과 지방정부가 자살자 감소를 위해 총력을 다한 결과 다행히도 자살자 수가 줄고 있다”고 했다.",
+      "이어 “공직자들과 관련 종사자들 노력으로 국민 생명 구하기가 효과를 내고 있다”며 “국민 수백명이 생사의 기로에서 삶을 선택하였다는 것인데 큰 보람을 느낀다”고 했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0bc4bbb8",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/25/2026062521263437536",
+    "title": "'탈출' 늑대개 새끼 잡았다…남은 1마리도 어미로 유인 중",
+    "summary": [
+      "충남 서산시 한 사육농장에서 탈출했던 새끼 늑대개 2마리 가운데 1마리가 추가로 포획됐다.",
+      "25일 뉴시스와 서산시에 따르면 이날 오후 5시40분쯤 충남 당진시 정미면 대운산리 인근 야산에 설치한 포획틀에 새끼 늑대개 1마리가 잡혔다.",
+      "농장주는 '당진 일대에서 새끼 늑대개 2마리가 함께 돌아다닌다'는 신고를 받고 해당 지역에 포획틀을 설치한 것으로 전해졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n07ce6261",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625169200072",
+    "title": "[속보] 美 1분기 성장률 확정치 2.1%…잠정치서 0.5%p 상향",
+    "summary": [],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0970deed",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625133451109",
+    "title": "[월드컵] \"할리우드 대작 각본 같았다\"…한국전 승리에 들뜬 남아공(종합)",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 남아프리카공화국이 25일(현지시간) 한국전 승리로 사상 첫 월드컵 토너먼트행을 확정 짓자 현지 매체들은 극적..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5af8d305",
     "category": "사회",
     "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625168900053",
+    "title": "경부고속도로 동대구 분기점서 추돌 사고…1명 병원 이송",
+    "summary": [
+      "(대구=연합뉴스) 김현태 기자 = 25일 오후 8시 2분께 대구 동구 부동 경부고속도로 서울 방향 동대구 분기점 인근에서 차량 다중추돌사고가 발..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb968747e",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684264",
+    "title": "[속보] 미 1분기 경제성장률 연율 2.1%로 상향 확정…1.6%에서",
+    "summary": [
+      "[서울=뉴시스] ◎공감언론 뉴시스 kjy@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3395e9f9",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625169100072",
+    "title": "[속보] 美 5월 PCE 물가 전년대비 4.1%↑…최근 유가하락 미반영",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd12e27df",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/25/2026062521174593164",
+    "title": "대법 \"'패륜 상속인' 유류분 제한, 헌법불합치 당시 소송도 적용돼야\"",
+    "summary": [
+      "패륜 행위를 한 상속인에게도 법에 따라 최소한의 유산(유류분)을 남겨줘야 하는 법이 2024년 헌법재판소에서 헌법에 맞지 않는다고 판단을 받고 이후 민법이 개정되면서 유류분을 지급하지 않을 수 있게 됐는데, 대법원은 이와 관련해 당시 소송이 진행 중이던 사건에도 개정 민법을 소급 적용할 수 있다고 판단했다.",
+      "다만 이번 재판 당사자와 같이 개정 민법 시행 전에 패륜 가족의 상속을 알게 된 공동상속인은 오는 9월16일까지 가정법원에 상속권 상실을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0730ed19",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684253",
+    "title": "박수현 \"명품 야간공연으로 체류형 관광…'야간경제' 키우겠다\"",
+    "summary": [
+      "[홍성=뉴시스]김덕진 기자 = 통하는 충남준비위원회는 25일 박수현 충남도지사 당선인이 예산·홍성을 찾아 8번째 타운홀 미팅을 갖고 지역경제 활성화와 지방소멸을 막기 위한 해법으로 ‘야간경제'를 꺼내 들었다고 밝혔다.",
+      "박 당선인은 이날 홍성·예산권역 내포신도시에 위치한 충남도서관 대강당에서 도내 8번째 마지막 타운홀 미팅을 갖고 이들 지역 약 300명 도민과 직접 소통하는 시간을 가졌다.",
+      "이 자리에서 박 당선인은 \"낮에 예산 추사고택, 홍성읍성."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd7bd2d35",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684263",
+    "title": "희귀·난치환자 NK세포 치료 빨라진다…복지부, 위험도 조정",
+    "summary": [
+      "[세종=뉴시스]성소의 기자 = 보건복지부가 자연살해세포(NK세포) 등 자가 면역세포를 배양해 활용하는 첨단재생의료의 위험도를 낮추기로 했다.",
+      "이에 따라 희귀·난치질환 환자들은 2~3년이 걸리는 임상연구 없이도 신속하게 치료를 받을 수 있게 될 전망이다.",
+      "복지부는 첨단재생의료 및 첨단바이오의약품 심의위원회 의결을 거쳐 기존 중위험으로 분류했던 자가 면역세포 배양 첨단재생의료 임상연구·치료를 저위험으로 조정했다고 25일 밝혔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n18e39870",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/25/GQYWKMTCHBQTENZXMJRDIODEGU/",
+    "title": "아픈 무릎으로 전력 질주 하더니...페라자, 결국 버티지 못하고 교체 [대전 현장]",
+    "summary": [
+      "[대전=스포츠조선 김용 기자] 아픈 무릎으로 전력 질주 하더니...",
+      "한화 이글스 외국인 타자 페라자가 경기 도중 교체됐다.",
+      "페라자는 25일 대전한화생명볼파크에서 열린 두산 베어스전에 2번-우익수로 선발 출전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0ba60460",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/25/2JLYWJPYVRAPRL7I73IFUBGNNY/",
+    "title": "KIA 김도영, 키움전서 21-22호포...LG 오스틴과 공동 선두",
+    "summary": [
+      "KIA 김도영, 키움전서 21-22호포...LG 오스틴과 공동 선두."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbd5774b2",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/25/2026062515425953388",
+    "title": "이럴수가 'LG 오스틴 긴장하나' KIA 김도영 멀티홈런 대폭발! 4연승 파죽지세, 키움은 9연패 수렁 [고척 현장리뷰]",
+    "summary": [
+      "KIA 타이거즈가 키움 히어로즈와 3연전을 싹쓸이하며 4연승을 내달렸다.",
+      "KIA는 25일 서울 고척스카이돔에서 열린 키움과 2026 신한 SOL KBO 리그 정규시즌 원정 경기에서 9-4로 승리했다.",
+      "이 승리로 KIA는 41승 1무 33패를 마크하며 리그 4위 자리를 유지했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n05d7ca0c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260625/134183903/1",
+    "title": "“정청래 사퇴의 변은 본인이 李와 ‘동급’이라는 선언” [법정모독 UP & DOWN]",
+    "summary": [
+      "동아일보 정치 라이브 ＜법정모독＞- 일시: 화·목요일 오전 10~11시- 토크: 강수영 변호사, 박상수 변호사- 진행·연출: 김형민, 심성주- 동아일보 유튜브 : www.youtube.com/@donga-ilbo 국민의힘 의원들 사이에서 장동혁 대표 체제로 다음 총선에서 승리를 가져올 수 없다는 인식이 확산되는 가운데 정점식 원내대표가 서서히 장 대표를 압박해가고 있다는 주장이 나왔다.",
+      "이재명 대통령 지지를 언급한 정청래 전 더불어민주당 대표의."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndae3079f",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625165800085",
-    "title": "프랑스, 러 '그림자 선단' 연계 유조선 추가 나포",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/25/GIYGMNDBMU3GINBWME2TKMBTMQ/",
+    "title": "‘김도영 멀티포+나성범 백투백’ KIA, 12안타 4홈런 대폭발! 4연승 질주…키움, 충격 9연패",
     "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 프랑스 해군이 이탈리아 시칠리아 앞바다에서 서방의 대러시아 제재를 우회하는 '그림자 선단' 유조선을 나포했다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4da84599",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026062520263482542",
-    "title": "日 혼슈 북부 규모 7.2 강진…후속 지진 가능성도",
-    "summary": [
-      "일본 혼슈 북부에서 규모 7.2의 강진이 발생한 가운데 후속 지진 가능성도 제기되고 있다.",
-      "25일 일본 기상청에 따르면 일본 혼슈 북부 아오모리현에서 이날 오전 7시 30분께 규모 7.2 지진이 발생했다.",
-      "진원은 이와테현 앞바다로 지진 발생 깊이는 44㎞로 추정된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nda1c81ca",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "28분 전",
-    "url": "https://www.hankyung.com/article/2026062587077",
-    "title": "'당근'으로 청소알바 구했는데…여성집서 흉기 위협한 30대 男",
-    "summary": [
-      "'당근'으로 청소알바 구했는데…여성집서 흉기 위협한 30대 男."
+      "‘김도영 멀티포+나성범 백투백’ KIA, 12안타 4홈런 대폭발! 4연승 질주…키움, 충격 9연패."
     ],
     "chips": [
       "#뉴스"
@@ -646,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
