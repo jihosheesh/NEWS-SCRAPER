@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-25 18:40:54
+// 마지막 업데이트: 2026-06-25 19:33:43
 window.NEWS_DB = [
   {
     "id": "n5beb325a",
     "category": "IT",
     "source": "한겨레",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSDNBZWxOYXBMcmxiNVlnMlFMNEh2SVNaRFZtT2JGRThvTTQwT1RtUGlwRUdZc1VuZl93b0FUYlhvTkJTM3BoakZidWhxa0lvNUxEQlJJSEE1QzAzYTBOSg?oc=5",
     "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’공개…엔비디아 의존도 낮춘다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n8908d258",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnM9IBYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnMw?oc=5",
     "title": "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검'",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "n4961c442",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aaktNZ3VBellFcmtGV3lWRW05czA3eWVIXzVsTEFEOUJuMFZSVWNBMTdqZVJDSERWc3N0MWIzd1p3dzBaODRYN3VxbGlKRm9Senl3N3RaYmtqdw?oc=5",
     "title": "오픈AI, 자체 칩 '할라페뇨' 공개…\"엔비디아·구글 칩과 대등한 성능\"",
     "summary": [
@@ -160,6 +160,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6fd56a9c",
+    "category": "사회",
+    "source": "시사캐스트",
+    "time": "13일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
+    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
+    "summary": [
+      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
     "id": "n31acb708",
     "category": "사회",
     "source": "아주경제",
@@ -268,22 +283,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "127일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -314,10 +313,175 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb83481d5",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/26/GYYWMYZRMM2TQYJQMJSDMN3GMU/",
+    "title": "'모처럼 활짝 웃었다' 1회부터 터진 디아즈 스리런포...스윕 위기 삼성 구한 한 방에 박진만 감독도 미소",
+    "summary": [
+      "[잠실=스포츠조선 박재만 기자] 침묵하던 디아즈의 배트가 폭발하자 박진만 감독의 표정도 모처럼 밝아졌다.",
+      "주중 3연전 앞선 두 경기 내내 좀처럼 터지지 않던 중심 타선.",
+      "스윕 위기에 몰렸던 삼성을 구한 것은 디아즈였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5003c6bb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684081",
+    "title": "[오늘의 주요일정]제주(6월26일 금요일)",
+    "summary": [
+      "[제주=뉴시스] ▲오전 9시, 제주시 2026 상반기 유공 시민 표창 수여식, 제주시청 1별관 ▲오전 10시, 제주교육 혁신을 위한 공동 포럼, 제주특별자치도지사직 인수위원회 1층 대회의실 ▲오전 10시, 제3회 전도노인파크골프대회, 서귀포시 남원파크골프장 ▲오전 10시30분, 제주포럼 3일차 생태법인 글로벌 네트워크를 통한 생태 평화 세션, 제주해비치호텔 그랜드볼룸 ▲오전 11시, 2026 제주패스파인더 상반기 성장공유회, 제주소통협력센터 ▲."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ndfc35955",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626002951085",
+    "title": "호르무즈서 화물선 피격 신고…IMO \"철수작전 일시 중단\"(종합)",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 오만 해안 가까이에서 호르무즈 해협을 지나던 화물선이 공격받은 것으로 의심된다는 신고를 접수했다고 영국 해사..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2532cf34",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684301",
+    "title": "美 동아태차관보 \"전작권 전환 조건 빠른 충족에 주력\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 마이클 디솜브레 미 국무부 동아시아·태평양 차관보가 25일(현지 시간) 한미 전시작전통제권 전환 시기에 대한 논의가 진행 중이며, 전환 조건이 신속히 충족되는데 주력하고 있다고 밝혔다.",
+      "디솜브레 차관보는 이날 미 워싱턴DC 국회의사당에서 열린 하원 외교위원회 동아태소위원회 청문회에서 영 김(공화·캘리포니아) 소위원장 질의에 \"전작권 전환 합의는 조건에 기반한 것\"이라며 \"그들이 전작권을 넘겨받아도 한국에서 필."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n69f3e3ea",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684300",
+    "title": "\"이란 혁명수비대, 호르무즈 해협서 상선 공격\"…합의 '시험대'",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 이란 혁명수비대(IRGC)가 25일(현지 시간) 호르무즈 해협에서 싱가포르 국적 화물선을 공격했다는 보도가 나왔다.",
+      "월스트리트저널(WSJ)는 이날 미국 고위 관리 2명을 인용해 이 같이 보도했다.",
+      "이번 사건은 지난주 미국과 이란이 전투를 종식하고 핵심 해상 수송로 재개방을 추진하기 위해 체결한 합의의 이행 여부를 시험하는 성격으로 보인다고 WSJ는 분석했다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "ndf60e292",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626004400087",
+    "title": "베네수엘라 강진 사망자 188명, 부상자 1천520명(종합)",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 24일(현지시간) 발생한 베네수엘라 강진으로 인한 사망자 수가 최소 188명으로 늘었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n84647da1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626004300075",
+    "title": "베네수 지진에 캘리포니아서도 경고 목소리…\"내진 보강 부족\"",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 베네수엘라에서 강진으로 대규모 사상자가 발생한 가운데 미국 캘리포니아주(州) 역시 지진 위험이 높고 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8e1f41e6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/26/HAZTGZBTMI3TSZJSG5TGEYZUGU/",
+    "title": "12안타 4홈런 쾅! KIA, 키움 3연전 스윕→4연승 질주 “네일 호투와 타선 응집력 덕분에 연승”",
+    "summary": [
+      "[OSEN=고척, 길준영 기자] 프로야구 KIA 타이거즈가 타선의 활약에 힘 입어 4연승을 질주했다.",
+      "KIA는 25일 서울 고척스카이돔에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 키움 히어로즈와의 경기에서 9-4 완승을 거두고 4연승을 내달렸다.",
+      "KIA는 박재현(좌익수) 김호령(중견수) 김도영(3루수) 나성범(우익수) 해럴스 카스트로(1루수)."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4e23d085",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626004500079",
+    "title": "이란 당국 \"지정구역 벗어난 호르무즈 통항 안전보장 못해\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란 당국은 호르무즈 해협을 통과하던 화물선 피격과 관련,자신들이 지정한 항로를 통하지 않는 선박의 안전을..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne82fb0a4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684147",
+    "title": "대구·경북 흐리다 차차 맑아져…\"오후 내륙 곳곳 소나기\"",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 26일 대구·경북은 구름 많다가 밤부터 차차 맑아지겠고, 소나기가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"오후 한때 대구, 경북내륙, 경북북동산지 일부 지역에 소나기가 오는 곳이 있겠다\"고 예보했다.",
+      "예상 강수량은 5~20㎜다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1a746d26",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/26/MIZGEMDFGNSTEN3GMYYGMODBHE/",
+    "title": "대한민국 희소식! 韓 운명 걸렸다…日 \"1위 통과 목표로 하고 싶다\" '경우의 수' F조 3위 스웨덴전 관심 폭발",
+    "summary": [
+      "[스포츠조선 김가을 기자]안타까운 현실이다.",
+      "대한민국의 운명이 일본의 경기 결과에 기대야 하는 상황이다.",
+      "모리야스 하지메 일본 월드컵대표팀 감독이 이끄는 일본은 26일 오전 8시(이하 한국시각) 미국의 댈러스 스타디움에서 스웨덴과 2026년 북중미월드컵 조별리그 F조 마지막 경기를 치른다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n821e47ac",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "6분 전",
+    "time": "58분 전",
     "url": "https://www.yna.co.kr/view/AKR20260626003800002",
     "title": "달러-원, 완만한 PCE에 숨고르기…1,543.10원 마감",
     "summary": [
@@ -328,41 +492,41 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n662692cc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626002600071",
-    "title": "트럼프 상호관세 멈춰세운 美대법, 출생시민권 금지도 제동거나",
+    "id": "nb0195476",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026062603303785360",
+    "title": "JP모건, 다이먼 경영 승계 2파전으로 압축",
     "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 출생시민권 금지 행정명령을 비롯한 도널드 트럼프 미 대통령의 중대 정책이 위법한지를 두고 연방대법원이 곧 ..."
+      "미국 최대 은행 JP모건체이스의 제이미 다이먼 최고경영자(CEO) 후계 구도가 사실상 2파전으로 좁혀졌다.",
+      "유력 후보로 꼽혀온 마리앤 레이크 소비자금융 부문 CEO가 전격 은퇴를 결정하면서, 더그 페트노와 트로이 로어보가 차기 CEO 자리를 두고 경쟁하게 된다.",
+      "25일(현지시간) 블룸버그통신과 파이낸셜타임스(FT) 등에 따르면 JP모건은 이날 페트노와 로어보를 회사 공동 사장으로 임명한다고 발표했다."
     ],
     "chips": [
-      "#정책",
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n9b2f0382",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684299",
-    "title": "유럽 전역 덮친 기록적 폭염…이탈리아 최소 5명 사망(종합)",
+    "id": "n3c2044f6",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026062603191681496",
+    "title": "오만 \"호르무즈 통행료 없다\"…美·걸프 공동 압박",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = 유럽 대륙이 기록적인 폭염에 휩싸이며 인명 피해가 잇따르고 있다.",
-      "북아프리카에서 유입된 뜨거운 공기가 대기 상층에 정체되는 현상이 지속되면서 이탈리아를 비롯한 남유럽 전역에서 사망 사례와 건강 피해가 급증하고 있다.",
-      "25일(현지 시간) 아나돌루 에이전시에 따르면 이탈리아에서는 지난 23일부터 이어진 폭염으로 최소 5명이 숨졌다."
+      "호르무즈 해협 연안국인 오만이 향후 해협 통과 선박에 통행료를 부과하지 않겠다는 입장을 밝혔다.",
+      "이란이 호르무즈 해협 관리와 해상 서비스 제공을 명분으로 통행료 또는 수수료 부과 가능성을 제기한 가운데, 미국과 걸프 국가들이 일제히 반대 입장을 분명히 하면서 호르무즈 해협 통제권 문제가 이란 종전 협상의 핵심 쟁점으로 떠올랐다.25일(현지시간) 블룸버그통신 등에 따르면 바드르 알부사이디 오만 외무장관은 이날 바."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
     "id": "ne20f3ab6",
     "category": "사회",
     "source": "동아일보",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260626/134186086/1",
     "title": "한·인도 외교장관회담…“北과 소통에 건설적 역할 기대”",
     "summary": [
@@ -374,25 +538,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncce620d6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625165351082",
-    "title": "폴란드서 우크라 재건회의…젤렌스키는 역사갈등에 불참(종합)",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 우크라이나 재건을 돕기 위한 국제회의가 25일(현지시간) 폴란드에서 열렸다.",
-      "서방 각국은 대출과 무기 공급..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n1d7407c6",
     "category": "사회",
     "source": "동아일보",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260626/134186081/1",
     "title": "美中수장들 친분 맺은 金총리…여의도 돌아가도 ‘정당 외교’",
     "summary": [
@@ -403,66 +552,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf01ebcdf",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/06/26/MGA6UTOBK5HO5LWES3CBKM6JMQ/",
-    "title": "[30화] “영웅들이 썩고 있네 그려!”",
-    "summary": [
-      "[30화] “영웅들이 썩고 있네 그려!”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc9dddd18",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/26/6VE6BECQCBGCXDLEBR2VEGFIYI/",
-    "title": "현금 쌓아 놓고도 회사채 발행… ‘승자독식’ 공포가 만든 진풍경",
-    "summary": [
-      "현금 쌓아 놓고도 회사채 발행… ‘승자독식’ 공포가 만든 진풍경."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30fae8c3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/economy/science/2026/06/26/NDXXQI66B5BBTCXZGNP2DKIPIQ/",
-    "title": "얼마나 어려우면 “빌어먹을 입자”… ‘신의 입자’를 가장 먼저 예언한 물리학자",
-    "summary": [
-      "얼마나 어려우면 “빌어먹을 입자”… ‘신의 입자’를 가장 먼저 예언한 물리학자."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30d4ada3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/culture-life/2026/06/26/ECIL34326NGPDM7NFF4K7SKS34/",
-    "title": "‘한국의 폼페이’ 회암사지… ‘세계유산’ 예약",
-    "summary": [
-      "‘한국의 폼페이’ 회암사지… ‘세계유산’ 예약."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nee94747c",
     "category": "IT",
     "source": "동아일보",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260626/134186078/1",
     "title": "외교2차관, 美국무부 경제차관 면담…“조선 협력 진전 위해 필요한 제도 개선”",
     "summary": [
@@ -473,24 +566,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0780c618",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626003000087",
-    "title": "베네수엘라 강진 확인된 사망자 188명으로 늘어",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 24일(현지시간) 발생한 베네수엘라 강진으로 인한 사망자 수가 최소 188명으로 늘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8bbb212b",
     "category": "IT",
     "source": "테크M",
-    "time": "46분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152910",
     "title": "AI 대전환 청사진 내놓은 한성숙 국무총리 후보자, '모두의 창업' 논란엔 \"죄송\"",
     "summary": [
@@ -502,22 +581,6 @@ window.NEWS_DB = [
       "#AI",
       "#네이버",
       "#정치"
-    ]
-  },
-  {
-    "id": "n36c3d74a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003683978",
-    "title": "\"벤치 없는데도 편하네?\"…SNS서 화제된 중국 공원",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 우연지 인턴기자 = 최근 일본 소셜미디어에서 ‘벤치 없는 공원’이 새로운 도시 휴식 방식으로 주목받고 있다.",
-      "지난 24일 소셜미디어 X(엑스)에는 잔디밭에 누워 휴식을 취하는 사람들의 사진과 함께 \"벤치를 없애는 것이 공간을 살린다\"는 취지의 게시물이 올라와 관심을 모았다.",
-      "사진 속 장소는 중국 상하이시 쉬후이 활주로 공원에 위치한 '라운지 론(Lounge Lawn)'이다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   },
   {
@@ -554,78 +617,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na39e00e9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684297",
-    "title": "밴스 \"이란 혁명수비대-미 중부사령부 직통 채널 구축 합의\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = JD밴스 미국 부통령은 최근 스위스에서 열린 미국과 이란 간 회담에서 이란 혁명수비대(IRGC)와 미군 중부사령부(CENTCOM) 간 직접적인 군사 소통 채널 구축에 원칙적으로 합의했다고 밝혔다.",
-      "15일(현지 시간) 이란인터내셔널에 따르면 밴스 부통령은 스위스 레이크 루체른에서 열린 정상회담 이후 공군 2호기에서 진행된 언허드(UnHerd) 인터뷰에서 \"워싱턴이 향후 군사적 긴장 고조를 방지하기 위해 이란 측과의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09be0883",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152902",
-    "title": "[가봤다] 밀리의서재가 만든 \"독서와 친해지는 집\"...'전자책·오디오북·자체IP'로 문턱 낮춘다",
-    "summary": [
-      "책을 읽기 시작하면 반드시 완독해야 하고, 앉은 자리에서 꼭 마지막 페이지를 봐야 한다고 생각하는 사람들이 있다.",
-      "이들을 위해 밀리의서재가 집을 지었다.",
-      "전자책과 오디오북, 도슨트북(요약책) 등 다양한 형태의 책에 밀리로드와 밀리 오리지널스 등 자체 지적재산권(IP)을 활용해 독서에 대한 진입장벽을 낮추기 위함이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na03e0999",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003683688",
-    "title": "우주 데이터센터는 전력주 악재일까…\"2030년까지 영향 제한적\"",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 이지윤 인턴기자 = 스페이스X 최고경영자(CEO) 일론 머스크가 추진하는 우주 인공지능(AI) 데이터센터 구상이 새로운 투자 변수로 떠오르고 있다.",
-      "일각에서는 데이터센터가 우주로 이전할 경우 전력 인프라 관련 기업들이 타격을 받을 수 있다는 우려도 제기된다.",
-      "다만 전문가들은 우주 데이터센터의 상용화까지는 상당한 시간이 필요한 만큼, AI 데이터센터 확산에 따른 전력기기와 에너지저장장치(ESS) 수요는 당분간 이어질."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n0c0ff8ba",
+    "id": "n8571dce5",
     "category": "경제",
-    "source": "연합뉴스(경제)",
+    "source": "조선일보",
     "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626000900072",
-    "title": "美JP모건, 다이먼 후임 CEO 승계작업 본격화…2인 경쟁구도",
+    "url": "https://www.chosun.com/international/international_general/2026/06/26/DNE3VAPZDNAEFJJST3OENWBYBA/",
+    "title": "선거 앞두고 악재 된 고물가…걱정에 빠진 트럼프·공화당",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 은행 JP모건체이스의 제이미 다이먼 현 최고경영자(CEO)의 승계 작업이 2인 경쟁 구도로 정리돼가는 ..."
+      "선거 앞두고 악재 된 고물가…걱정에 빠진 트럼프·공화당."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb31d72ad",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/202606258839i",
-    "title": "\"AI 버블 아니나 조정 위험…이렇게 투자하라\" 베테랑 펀드매니저의 조언 [김현석의 퀵브리프]",
-    "summary": [
-      "\"AI 버블 아니나 조정 위험…이렇게 투자하라\" 베테랑 펀드매니저의 조언 [김현석의 퀵브리프]."
-    ],
-    "chips": [
-      "#AI"
+      "#정치"
     ]
   }
 ];
@@ -635,14 +637,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
