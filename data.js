@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-25 10:55:14
+// 마지막 업데이트: 2026-06-25 11:52:41
 window.NEWS_DB = [
   {
     "id": "n5beb325a",
     "category": "IT",
     "source": "한겨레",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSDNBZWxOYXBMcmxiNVlnMlFMNEh2SVNaRFZtT2JGRThvTTQwT1RtUGlwRUdZc1VuZl93b0FUYlhvTkJTM3BoakZidWhxa0lvNUxEQlJJSEE1QzAzYTBOSg?oc=5",
     "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’공개…엔비디아 의존도 낮춘다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n8908d258",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnM9IBYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnMw?oc=5",
     "title": "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검'",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "n4961c442",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aaktNZ3VBellFcmtGV3lWRW05czA3eWVIXzVsTEFEOUJuMFZSVWNBMTdqZVJDSERWc3N0MWIzd1p3dzBaODRYN3VxbGlKRm9Senl3N3RaYmtqdw?oc=5",
     "title": "오픈AI, 자체 칩 '할라페뇨' 공개…\"엔비디아·구글 칩과 대등한 성능\"",
     "summary": [
@@ -60,18 +60,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfa562be4",
+    "id": "n93563301",
     "category": "IT",
-    "source": "Chosunbiz",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0MxUFNEX1lQb25nMGpzUmczb1I2b2pXelVGbHJubTB4dUxCVWVNVVdpNkRGRVRqMnRwSW9od1NvSWc5ZkZ0dWotVmJlVTV3c1I0a0VLSnhPMzItVktZTU1ISjRTamU1MzVYTFdhNUdEVUlnMFJXOFFRTjBOSW1Dekh30gGWAUFVX3lxTE1MakRWVS1KSDVGZ0lYWWxBdE8zeEMzMS1SaFlSMzNSeVJWMVByMmwzZ3lNM0xGdjNOck5uUzdTNFRuc3hOM2RsRnpaMTZudHowMDBpZktUZ3hZMUIzSkJBa283a2EwTjVidngtNnhDV2xMR3hEcjRyLVg3dkxxbXp0c1lOY1ZCWXV5dlQ1VFhiSzFDS2xDZw?oc=5",
-    "title": "[비즈톡톡] 틱톡 키운 바이트댄스, 中 반도체 자립 견인… 엔비디아 막히자 중국산 AI칩 도입 - 조선비즈",
+    "source": "연합뉴스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zR2FqRU9RY29vUzEwMU5KVDl5cWNScGYweVFCQjhmZGt2NFQ2b2FqVTd3VDdkRWZxVlVlMDROaDZkT2tQeEpTSThxVkw4WDdTWDhiNmFBWDVMeEnSAWBBVV95cUxOT0h2M0Y1eW02QjdaWXREWUF2R0N1VGdJc0c4SzFqV2V4NGxEaXQ3TnhDeVE5WVlBY21NbnhwR1BrdmdLY0JOTUdZeHdPekZxaHd2em9NdVZqb2ZqZHRZM0Q?oc=5",
+    "title": "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\"",
     "summary": [
-      "[비즈톡톡] 틱톡 키운 바이트댄스, 中 반도체 자립 견인… 엔비디아 막히자 중국산 AI칩 도입 - 조선비즈 Chosunbiz."
+      "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\" 연합뉴스."
     ],
     "chips": [
-      "#AI",
-      "#반도체",
       "#엔비디아"
     ]
   },
@@ -146,18 +144,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n71a254ee",
+    "id": "n248fc719",
     "category": "경제",
-    "source": "뉴시스",
+    "source": "마켓인",
     "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
-    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTEMySTZHNHRyTUpaMEJXaUpSUVlJalZqUDdYVndqdUtFeklISm9rSzVLYUhQRzZobmI4T2pQZ0dtMnl2YjlNUV9XTFFHLVBzNVc0bGNBVUJTTGxJcTFsTmVxWUJzc3ZfaC12dmFaQjNfVWM?oc=5",
+    "title": "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망”",
     "summary": [
-      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
+      "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망” 마켓인."
     ],
     "chips": [
-      "#부동산",
-      "#금리",
       "#환율"
     ]
   },
@@ -176,20 +172,6 @@ window.NEWS_DB = [
       "#정책",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n12ca2e79",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaE94YXJIcHFWNlZQV3g5cEgzdDEyeUYxdUhlM01qSVFuZDA3dFN3Z3hWak5IQ3dYZnRFUDVnTkhPTEZ0eGR2clhpeVhSZDZmWDB5bXMyQ2pIaWlh?oc=5",
-    "title": "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계",
-    "summary": [
-      "KBO, 아시안게임 야구대표팀 명단 발표 기자회견 생중계 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -225,6 +207,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n32bf68e2",
+    "category": "경제",
+    "source": "v.daum.net",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
+    "summary": [
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
     "id": "na51ce02d",
     "category": "IT",
     "source": "녹색경제신문",
@@ -251,20 +248,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
-    ]
-  },
-  {
-    "id": "nb3bb73fa",
-    "category": "경제",
-    "source": "헤럴드경제",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
-    "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -310,6 +293,21 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n5de3a708",
+    "category": "스포츠",
+    "source": "매일경제",
+    "time": "265일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
+    "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
+    "summary": [
+      "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠 매일경제."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
     ]
   },
   {
@@ -380,263 +378,265 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n52e8cb09",
-    "category": "사회",
-    "source": "뉴시스",
+    "id": "n9f6abafa",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684195",
-    "title": "2차례 강진 베네수엘라 피해 급증…최소 164명 사망 971명 부상(종합)",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/25/MVSTGYRYG4YWEZRWGU4GEZTFMM/",
+    "title": "'광대 강타' 두산 양의지, 충격 헤드샷 교체...한화 박준영 즉시 퇴장 [대전 현장]",
     "summary": [
-      "[카라카스(베네수엘라)=AP/뉴시스] 유세진 기자 = 델시 로드리게스 베네수엘라 대통령 대행은 2차례의 강력한 지진이 베네수엘라를 강타한 후 최소 164명이 사망하고 971명이 부상했다고 25일 밝혔다.",
-      "24일 저녁(현지시각) 발생한 규모 7.2와 7.5의 지진은 100여년 만에 강타한 베네수엘라를 가장 강력한 지진 중 하나로, 베네수엘라 전역에서 감지된 것은 물론 베네수엘라 수도 카라카스에서 약 1700㎞ 떨어진 브라질 아마존에서까지 건물들이."
+      "[대전=스포츠조선 김용 기자] 충격의 헤드샷.",
+      "두산 베어스 양의지가 충격적인 헤드샷으로 인해 교체됐다.",
+      "공을 던진 한화 이글스 투수 박준영은 퇴장을 당했다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n4077d4dd",
+    "id": "n5d68ba06",
     "category": "스포츠",
-    "source": "동아일보",
+    "source": "조선일보",
     "time": "4분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260625/134183106/1",
-    "title": "러시아 월드컵 은혜 갚았다…멕시코 승리에 살아난 한국",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/25/GFSTIMRVGJSDSMRWMFRGCYLGG4/",
+    "title": "한국 울린 남아공, 월드컵 사상 첫 토너먼트 진출... 마세코 한 방→캐나다와 32강",
     "summary": [
-      "한국과 남아프리카공화국의 2026 북중미 월드컵 조별리그 A조 최종 3차전이 열린 25일 멕시코 몬테레이 스타디움 관중석은 붉은색과 초록색이 물결쳤다.",
-      "한국에서 온 ‘붉은 악마’와 현지 한국 교민들은 붉은색 유니폼을 입고 “대~한민국”을 외쳤다.",
-      "초록색 유니폼의 멕시코 팬들도 “코레아! 코레아!”를 외치며 한국 축구 대표팀을 응원했다."
+      "[OSEN=이인환 기자] 남아공이 한국을 밟고 월드컵사를 바꿨다.남아공은 25일(한국시간) 멕시코 과달루페의 에스타디오 몬테레이에서 열린 2026 FIFA 월드컵 조별리그 A조 최종전에서 한국을 1-0으로 꺾었다.",
+      "1승 1무 1패, 승점 4.",
+      "멕시코에 이어 A조 2위에 오른 남아공은 월드컵 사상 처음으로 토너먼트 무대를 밟는다.결승골은 후반 18분에 나왔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8f4e385a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/06/25/XK2QKRJ5GJENVDWN45L35LGORU/",
-    "title": "대법 “패륜 가족 상속 제한, 헌재 결정 전 시작된 소송에도 적용”",
-    "summary": [
-      "대법 “패륜 가족 상속 제한, 헌재 결정 전 시작된 소송에도 적용”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ce56f13",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684206",
-    "title": "보스턴다이나믹스, 美 AI·첨단 로봇 센터 설립에 1억 달러 투자",
-    "summary": [
-      "[서울=뉴시스]김민성 기자 = 현대차그룹의 로봇 계열사 보스턴다이나믹스가 미국 매사추세츠주에 첨단 로봇 및 AI(인공지능) 센터를 마련하겠다는 계획을 밝혔다.",
-      "25일 보스턴다이나믹스는 자사 홈페이지를 통해 미국 매사추세츠주 월섬 인근에 위치한 3만㎡ 규모의 시설을 첨단 로봇 및 AI 센터로 조성하겠다는 계획을 공개했다.",
-      "보스턴다이나믹스는 \"새로운 건물은 현재 인근 세 곳에 분산되어 있는 운영 시설을 통합하고 첨단 제조, 인공지능, 인력 교육 및."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nada0dc23",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625163900055",
-    "title": "김광훈 장수군의원, 음주운전 사고 '면허정지 수준'",
-    "summary": [
-      "(전주=연합뉴스) 나보배 기자 = 김광훈 전북 장수군의원이 음주운전을 하다 경찰에 적발됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf99358d5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/25/HE3WGMZQMVQWKNBSGQZGCY3BG4/",
-    "title": "사직 롯데-NC전 우천 지연됐다 → 개시 10분전 방수포 전개 [부산 현장]",
-    "summary": [
-      "[부산=스포츠조선 한동훈 기자] 25일 오후 6시 30분 부산 사직구장에서 열릴 예정인 NC 다이노스와 롯데 자이언츠의 팀간 12차전이 비 때문에 정상 개시되지 못했다.",
-      "사직구장 하늘은 오후 5시가 넘어서며 갑자기 어두워졌다.",
-      "비가 부슬부슬 내리더니 6시를 지나면서 서서히 빗줄기가 굵어졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n015ac596",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/25/GUYDCZDDHE3TGNJSG42DGMZYGE/",
-    "title": "김유정, 잘 자란 아역의 정석···초미녀 뼈말라로 어깨뼈까지 드러내",
-    "summary": [
-      "[OSEN=오세진 기자] 배우 김유정이 성숙해진 분위기로 화보장을 뜨겁게 달구었다.25일 김유정은 자신의 소셜 계정에 별 다른 멘트 없이 여러 장의 사진을 공개했다.",
-      "김유정은 사진을 각 한 장씩 올린 게 아니라 사진마다 다른 사진을 덧붙이면서 귀여운 비하인드 컷을 공개하기도 했다.김유정의 청순하면서도 깊고 그윽한 느낌이 드는 얼굴은 한결 같은 분위기를 자아."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ec6bdaf",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684110",
-    "title": "있지(ITZY,) 탄탄한 라이브·역동적 군무…'마와진' 헤드라이너",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 그룹 '있지(ITZY)'가 세계적인 음악 페스티벌에서 헤드라이너로 활약하며 글로벌 존재감을 입증했다.",
-      "25일 소속사 JYP엔터테인먼트에 따르면, 있지는 지난 23일(현지시간) 모로코 라바트에서 열린 대형 뮤직 페스티벌 '마와진'의 메인 스테이지 '올엠 수이시(OLM Souissi)'에 헤드라이너로 출연해 엔딩 무대를 장식했다.",
-      "이날 공연에서 있지(ITZY)는 '터널 비전(TUNNEL VISION)', '워너비(WA."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n137e0c9c",
+    "id": "n48486f14",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684175",
-    "title": "디 애슬레틱 \"한국, 3위 32강 진출 확률 94%\"[월드컵24시]",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684235",
+    "title": "외신도 홍명보호에 혹평…\"손흥민 벤치 전술, 실패작\"",
     "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 미국 스포츠매체 '디 애슬레틱'이 홍명보 감독이 이끄는 한국 남자 축구 대표팀의 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 통과 확률을 94%로 예측했다.",
-      "홍명보호는 25일 오전 10시(한국 시간) 멕시코 누에보레온주 과달루페의 몬테레이 스타디움에서 열린 남아공과의 대회 조별리그 A조 최종 3차전에서 0-1로 졌다.",
-      "무승부만 거둬도 조 2위로 자력 토너먼트 진출이 가능했지만, 충격패를 당하면서 1승2."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne9b13253",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260625/134184865/1",
-    "title": "한정수 “홍명보 연봉 몰수해야”…윤두준 “韓 위상 이랬던적 없어”",
-    "summary": [
-      "국제축구연맹 랭킹 25위인 한국 축구대표팀이 2026북중미 월드컵에서 60위인 남아프리카공화국에 충격적인 패배를 당하면서 연예계에서도 홍명보 감독 등에 대한 쓴소리가 쏟아졌다.",
-      "한정수는 25일 자신의 소셜네트워크서비스(SNS)에 “정말 너무 화가 난다.",
-      "최고의 선수를 모아 놓고 역대 최악의 경기를 보여줬다”고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nedd1b456",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625162300056",
-    "title": "제주 우도 해상 어선 충돌…전복된 승선원 무사 구조",
-    "summary": [
-      "(서귀포=연합뉴스) 변지철 기자 = 제주 우도 인근 해상에서 어선 2척이 충돌해 1척이 전복됐으나 승선원은 무사히 구조됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb48f4582",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625163600007",
-    "title": "프로야구 한화 투수 박준영, 양의지 얼굴 맞혀 퇴장",
-    "summary": [
-      "(서울=연합뉴스) 장현구 기자 = 프로야구 한화 이글스의 우완 투수 박준영이 타자의 얼굴에 공을 맞혀 자동 퇴장당했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc6ee4770",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260625/134182395/1",
-    "title": "박지성 “이기려고 한 경기 맞나”…‘최악 졸전’ 또 경우의 수 기다려야",
-    "summary": [
-      "체코를 상대로 승리했던 팀, 접전 끝에 멕시코에 아쉽게 졌던 팀이 맞나 싶었다.",
-      "25일 남아프리카공화국과 2026 북중미 월드컵 조별리그 A조 최종 3차전을 치른 한국은 앞선 두 경기와는 전혀 다른 팀이었다.",
-      "선수들의 몸은 무거웠고 기본적인 볼 터치와 패스에서도 실수가 반복됐다."
+      "[서울=뉴시스]이기주 인턴 기자 = 대한민국 축구대표팀이 2026 북중미 월드컵 조별리그 최종전에서 남아프리카공화국에 0-1로 패하며 32강 직행에 실패하자 주요 외신들도 홍명보 감독의 전술과 경기력을 일제히 비판했다.",
+      "25일(현지 시간) 스포츠 전문 매체 디애슬레틱은 경기 직후 \"남아공의 감격적인 이변으로 캐나다전이 성사된 반면, 손흥민을 벤치에 앉힌 대한민국은 충격에 빠졌다\"라고 보도했다.",
+      "매체는 \"대한민국에서 손흥민의 존재감은 절대적이며."
     ],
     "chips": [
       "#손흥민"
     ]
   },
   {
-    "id": "n7e52e489",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "18분 전",
-    "url": "https://www.hankyung.com/article/2026062587371",
-    "title": "자영업자 빚탕감 심사 깐깐해진다",
+    "id": "n629d9a13",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260625/134182019/1",
+    "title": "알제리 참사에 이어 몬테레이 참사까지…명예 회복 실패한 홍명보 감독",
     "summary": [
-      "자영업자 빚탕감 심사 깐깐해진다."
+      "“감독은 경험하는 자리가 아니라.",
+      "증명하는 자리다.”2002 한일월드컵 4강 멤버인 이영표 해설위원은 2014 브라질 월드컵이 끝난 뒤 이렇게 말했다.",
+      "한국은 당시 조별리그에서 1무 2패로 탈락했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb1b35e80",
+    "id": "n16c28dc3",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684238",
+    "title": "SKT, SK하이닉스 美 AI 투자법인 지분 취득 결정…4년간 7000원 출자",
+    "summary": [
+      "[서울=뉴시스]박은비 기자 = SK텔레콤이 SK하이닉스의 미국 투자법인 지분 취득에 나선다.",
+      "SK그룹의 인공지능(AI) 사업에 함께 올라타는 차원이다.",
+      "25일 SK텔레콤 공시에 따르면 회사는 'SK하이닉스 낸드 프로덕트 솔루션'의 신규 주식 취득을 위한 현금 출자 약정 체결을 결정했다."
+    ],
+    "chips": [
+      "#AI",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nb76bc8b7",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026062520423996532",
+    "title": "JP모건 \"코스피 1만5000 간다\"",
+    "summary": [
+      "글로벌 투자은행 JP모건이 강세장에서 코스피 전망치를 기존 1만에서 1만5000으로 끌어올렸다.",
+      "25일 금융투자업계에 따르면 JP모건은 이날 보고서를 내고 코스피 전망치를 기본 시나리오에서 1만2500을, 강세장과 약세장 시나리오에서는 각각 1만5000과 8000으로 제시했다.",
+      "이는 기존에 전망한 9000(기본)·1만(강세장)·6000(약세장)보다 상향한 수치다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd1336bac",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684237",
+    "title": "네이버, 검색창에 AI 심었다…'AI탭' 정식 출시",
+    "summary": [
+      "[서울=뉴시스]윤정민 기자 = 네이버가 대화형 인공지능(AI) 검색 서비스 'AI탭'을 전체 이용자를 대상으로 제공하기 시작했다.",
+      "25일 네이버에 따르면 회사는 이날 오후부터 PC 웹, 모바일 앱에 AI탭 업데이트를 순차 배포하고 있다.",
+      "AI탭은 이용자가 질문 시 AI가 검색 결과를 요약하고 분석해 채 형태로 답을 준다."
+    ],
+    "chips": [
+      "#AI",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n47f44043",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684233",
+    "title": "탈출 늑대개 한 마리 추가 포획…남은 한 마리도 어미로 유인 중",
+    "summary": [
+      "[서산=뉴시스]김덕진 기자 = 지난 16일 충남 서산시 운산면의 한 농장에서 탈출했던 새끼 늑대개 2마리 가운데 1마리가 추가로 포획됐다.",
+      "수색 당국은 남은 한 마리를 붙잡기 위해 어미 늑대개를 이용한 유인 작업을 이어가고 있다.",
+      "25일 서산시 등에 따르면 이날 오후 5시40분께 당진시 정미면 대운산리 인근 야산에 설치한 포획틀에서 새끼 늑대개 1마리를 붙잡았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4782010f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026062519234929835",
+    "title": "\"야, 경찰이니까 신고해\"…응급실 난동 현직 여경, 항소심도 벌금형",
+    "summary": [
+      "술에 취한 채 병원 응급실에서 의료진에게 \"야, 경찰이니까 신고해\"라고 외치는 등 난동을 피운 현직 여성 경찰관이 항소심에서도 벌금형을 선고받았다.",
+      "연합뉴스는 25일 춘천지법 강릉지원 형사4부(오권철 지원장)가 응급의료에 관한 법률 위반 혐의로 기소된 여성 경찰관 A 경장의 항소심에서 검찰의 항소를 기각하고 벌금 1000만원을 선고한 원심을 유지했다고 보도했다.",
+      "공소사실에 따르면 강원경찰청 기동순찰대 소속이던 A."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n49b69f02",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "12분 전",
+    "url": "https://www.hankyung.com/article/2026062587767",
+    "title": "[속보] 경찰에 침 뱉은 잠실개표소 40대 女 시위자 '구속'",
+    "summary": [
+      "[속보] 경찰에 침 뱉은 잠실개표소 40대 女 시위자 '구속'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nebd80750",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260625/134185093/1",
+    "title": "친명 이건태, 鄭 향해 “이재명 정부 의심하나…실망 넘어 충격”",
+    "summary": [
+      "친명계인 이건태 더불어민주당 의원이 정청래 전 대표를 향해 “실망을 넘어 충격이다”라고 평했다.이 의원은 25일 페이스북에 “(김민석) 총리가 정부의 공식 입장으로 ‘보완수사권 전면폐지’를 발표했다”며 “그런데도 정청래 전 대표는 ‘혹시 시간끌기 작전인지 살펴봐야 한다’고 말한다.",
+      "실망을 넘어 충격이다”라고 했다.",
+      "이 의원은 “여당 대표였던 사람이 정부의 공식입장에 대해 ‘시간끌기’를 운운하다니”라며 “이재명 정부를 의심하는 발언과 다름 없다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n429f8c41",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625166400004",
+    "title": "경찰에 침뱉은 잠실개표소 여성 시위자 구속…\"도주·재범 우려\"",
+    "summary": [
+      "(서울=연합뉴스) 양수연 기자 = '잠실 개표소 봉쇄 시위' 도중 경찰에게 욕설하고 침을 뱉은 40대 여성이 구속됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n60860802",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625163400065",
-    "title": "[인사] 해양경찰청",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625166200079",
+    "title": "오만 외무 \"호르무즈 해협 통행료 부과 없을 것\"",
     "summary": [
-      "[인사] 해양경찰청."
+      "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협 연안국인 오만이 향후 해협 통과 선박에 어떤 통행료도 부과되지 않을 것이라는 입장을 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8c066016",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026062518394862573",
-    "title": "\"홍명보 감독 연봉 몰수해야\"…남아공전 패배에 연예계도 폭발",
+    "id": "n3b323a24",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625166100004",
+    "title": "투표소건물 지하주차장에 불지른 30대 남성 구속송치",
     "summary": [
-      "25일 한국 축구대표팀이 2026 국제축구연맹(FIFA) 북중미월드컵 조별리그 3차전에서 졸전 끝에 남아프리카공화국에 패배당하자 연예계에서도 강도 높은 비판이 이어지고 있다.",
-      "배우 한정수는 홍명보 감독을 향해 \"연봉을 몰수해야 한다\"고 맹비난했고 그룹 하이라이트의 윤두준도 참담한 심경을 드러냈다.",
-      "한정수는 25일 자신의 사회관계망서비스(SNS)를 통해 \"정말 너무너무 화가 난다."
+      "(서울=연합뉴스) 양수연 기자 = 지난 6·3 지방선거에서 투표소가 설치된 서울 동작구 건물 지하주차장에서 발생했던 방화 사건이 뒤늦게 전해졌다..."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "nb27db86a",
-    "category": "IT",
-    "source": "아시아경제",
+    "id": "nc92d3767",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026062519313540118",
-    "title": "국민성장펀드, 풍력·케이블·반도체에 3700억 투입",
+    "url": "https://www.yna.co.kr/view/AKR20260625165800085",
+    "title": "프랑스, 러 '그림자 선단' 연계 유조선 추가 나포",
     "summary": [
-      "금융당국이 풍력 발전과 케이블, 반도체 소부장 산업에 3700억원을 지원한다.",
-      "금융위원회는 25일 국민성장펀드 기금운용심의위원회를 열고 영양군 육상풍력사업 인프라 투융자 및 케이블·반도체 밸류체인 업체 저리대출 등 3건에 3700억원 지원을 승인했다고 밝혔다.",
-      "이는 2차 메가프로젝트의 '에너지인프라 구축사업'의 일환이다.우선 GS E&R과 네이버가 경북 영양군 일원에 72메가와트(MW) 규모의 풍력 발전소를 건설하고 발."
+      "(런던=연합뉴스) 김지연 특파원 = 프랑스 해군이 이탈리아 시칠리아 앞바다에서 서방의 대러시아 제재를 우회하는 '그림자 선단' 유조선을 나포했다..."
     ],
     "chips": [
-      "#반도체",
-      "#네이버"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4da84599",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026062520263482542",
+    "title": "日 혼슈 북부 규모 7.2 강진…후속 지진 가능성도",
+    "summary": [
+      "일본 혼슈 북부에서 규모 7.2의 강진이 발생한 가운데 후속 지진 가능성도 제기되고 있다.",
+      "25일 일본 기상청에 따르면 일본 혼슈 북부 아오모리현에서 이날 오전 7시 30분께 규모 7.2 지진이 발생했다.",
+      "진원은 이와테현 앞바다로 지진 발생 깊이는 44㎞로 추정된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda1c81ca",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "28분 전",
+    "url": "https://www.hankyung.com/article/2026062587077",
+    "title": "'당근'으로 청소알바 구했는데…여성집서 흉기 위협한 30대 男",
+    "summary": [
+      "'당근'으로 청소알바 구했는데…여성집서 흉기 위협한 30대 男."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -646,8 +646,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
@@ -657,9 +657,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "엔비디아",
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
