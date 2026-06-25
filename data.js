@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-25 12:43:11
+// 마지막 업데이트: 2026-06-25 13:41:19
 window.NEWS_DB = [
   {
     "id": "n5beb325a",
     "category": "IT",
     "source": "한겨레",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSDNBZWxOYXBMcmxiNVlnMlFMNEh2SVNaRFZtT2JGRThvTTQwT1RtUGlwRUdZc1VuZl93b0FUYlhvTkJTM3BoakZidWhxa0lvNUxEQlJJSEE1QzAzYTBOSg?oc=5",
     "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’공개…엔비디아 의존도 낮춘다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n8908d258",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnM9IBYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnMw?oc=5",
     "title": "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검'",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "n4961c442",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aaktNZ3VBellFcmtGV3lWRW05czA3eWVIXzVsTEFEOUJuMFZSVWNBMTdqZVJDSERWc3N0MWIzd1p3dzBaODRYN3VxbGlKRm9Senl3N3RaYmtqdw?oc=5",
     "title": "오픈AI, 자체 칩 '할라페뇨' 공개…\"엔비디아·구글 칩과 대등한 성능\"",
     "summary": [
@@ -116,6 +116,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5ace0115",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
+    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
+    "summary": [
+      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -127,6 +141,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
+    ]
+  },
+  {
+    "id": "nfd966927",
+    "category": "사회",
+    "source": "hkilbo.kr",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ERURCM1ltTExkWm1xRjJIeHhfUkFXWjdIRDdOTEVtaC1MTlpPSTB6YkZFdjBfSWdRQ0swNzBfTEl1bHAtdlE3UmdLdGk1V0l0MkNQRWg4TWhOcUpBSURaVnFwSk9udVE?oc=5",
+    "title": "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최",
+    "summary": [
+      "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최 hkilbo.kr."
+    ],
+    "chips": [
+      "#채용",
+      "#고용"
     ]
   },
   {
@@ -143,6 +172,21 @@ window.NEWS_DB = [
       "#부동산",
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n6fd56a9c",
+    "category": "사회",
+    "source": "시사캐스트",
+    "time": "13일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
+    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
+    "summary": [
+      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
     ]
   },
   {
@@ -175,23 +219,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "nd0c82b8d",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
     ]
   },
   {
@@ -251,37 +278,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n9f44f684",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "106일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkZWVtbmlGWVdHUW5MX0lBUHc1MHcwSndXamNqRm9ZUml6OUk3ZXZoV05QVUN2STNhbzhlUGVORVdGQk9XNUl1a0MtX2QxTWZkSm1TZlR6c1EzSXNn?oc=5",
-    "title": "한국은 축구 >>> 야구!…'전세계 인기스포츠 지도' 눈에 띄네",
-    "summary": [
-      "한국은 축구 >>> 야구!…'전세계 인기스포츠 지도' 눈에 띄네 네이트."
-    ],
-    "chips": [
-      "#전세",
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "127일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -382,252 +378,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nba02cc01",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "n39ee75a6",
+    "category": "IT",
+    "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260625/134185179/1",
-    "title": "‘올공 시위’서 경찰에 욕설하고 침뱉은 40대女 구속",
-    "summary": [
-      "6·3지방선거 투표용지 부족 사태로 시작된 서울 송파구 올림픽공원 봉쇄 집회 도중 경찰에게 욕설하고 침을 뱉은 40대 여성이 구속됐다.25일 서울동부지법 서범준 영장전담 부장판사는 공무집행방해 등 혐의를 받는 40대 여성 김모 씨에게 “도주할 염려와 재범 가능성이 있다”며 구속영장을 발부했다.김 씨는 23일 오전 10시 반경 올림픽공원 집회 현장에서 ‘한국 경찰인지 확인하겠다’ ‘중국인의 개인 정보를 조사해야 한다’ 등을 주장하며 경찰관 얼굴을."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nfce81bfa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684261",
-    "title": "\"독방이 객실로\"…日 100년 감옥, 럭셔리 호텔 됐다",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 100년 넘게 감옥으로 사용되던 일본의 옛 교도소가 럭셔리 호텔로 재탄생했다.",
-      "감옥을 관광 자원으로 활용한 일본 첫 사례다.",
-      "23일(현지시간) 니혼게이자이신문에 따르면 일본 리조트 운영사 호시노 리조트는 국가 지정 중요문화재인 옛 '나라감옥'을 개조한 고급 호텔 '호시노야 나라감옥'을 25일 개장한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb9f9579b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260625/134185597/1",
-    "title": "李 “총리 책임하에 자살자 수 줄어…국민 생명 구하기 효과”",
-    "summary": [
-      "이재명 대통령은 25일 한국의 자살자 수가 줄고 있어 큰 보람을 느낀다고 밝혔다.이 대통령은 이날 X(옛 트위터)를 통해 “작년부터 국무총리 책임하에 전 부처청과 지방정부가 자살자 감소를 위해 총력을 다한 결과 다행히도 자살자 수가 줄고 있다”고 했다.",
-      "이어 “공직자들과 관련 종사자들 노력으로 국민 생명 구하기가 효과를 내고 있다”며 “국민 수백명이 생사의 기로에서 삶을 선택하였다는 것인데 큰 보람을 느낀다”고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0bc4bbb8",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/25/2026062521263437536",
-    "title": "'탈출' 늑대개 새끼 잡았다…남은 1마리도 어미로 유인 중",
-    "summary": [
-      "충남 서산시 한 사육농장에서 탈출했던 새끼 늑대개 2마리 가운데 1마리가 추가로 포획됐다.",
-      "25일 뉴시스와 서산시에 따르면 이날 오후 5시40분쯤 충남 당진시 정미면 대운산리 인근 야산에 설치한 포획틀에 새끼 늑대개 1마리가 잡혔다.",
-      "농장주는 '당진 일대에서 새끼 늑대개 2마리가 함께 돌아다닌다'는 신고를 받고 해당 지역에 포획틀을 설치한 것으로 전해졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n07ce6261",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625169200072",
-    "title": "[속보] 美 1분기 성장률 확정치 2.1%…잠정치서 0.5%p 상향",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684285",
+    "title": "[속보]뉴욕증시, 반도체 실적 호조에 상승 출발…나스닥 0.6%↑",
     "summary": [],
     "chips": [
-      "#정치"
+      "#반도체"
     ]
   },
   {
-    "id": "n0970deed",
+    "id": "na326a21c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/25/GYZTOMJTMY4GIYRQGU4TQNRTGQ/",
+    "title": "'임신 24주' 김승혜, 56kg→65kg 증가 \"갈비뼈보다 커진 D라인\"[순간포착]",
+    "summary": [
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] '김승혜' 개그우먼 김승혜가 임신으로 겪는 몸의 변화를 밝혔다.25일 김승혜 유튜브에서는 '임신 24주차, 몸이 이렇게까지 변한다고요? 임신 후 신체 변화, 육아템 나눔'이란 영상이 공개됐다.",
+      "김승헤는 어느덧 24주 차에 접어든 임신 소식을 알리며 \"20주 차부터 배가 눈에 띄게 불."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3266caef",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/national/education/2026/06/25/X3JREBOYIRH3RJUQPKCII22UHA/",
+    "title": "정근식 “교권 침해에 교육청이 ‘보험사’ 역할 하도록 법 개정 추진”",
+    "summary": [
+      "정근식 “교권 침해에 교육청이 ‘보험사’ 역할 하도록 법 개정 추진”."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0fc29b13",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/25/2026062522260477907",
+    "title": "\"방송인이 마약·난교 파티\" 유튜버 구제역, 명예훼손 2심서 '감형'",
+    "summary": [
+      "방송인, 유튜버, 인터넷 방송인(BJ)들의 명예를 훼손한 혐의를 받는 유튜버 구제역(34·본명 이준희)이 항소심에서 감형받았다.",
+      "25일 뉴스1·뉴시스에 따르면 수원지법 제7형사부(부장판사 이미주)는 이날 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 혐의로 기소된 이씨에게 징역 1년과 벌금 1000만원을 선고했다.",
+      "이씨는 2019년부터 2024년까지 자기 유튜브 채널에 해군 대위 출신 유튜버 이근 전 대위를 비롯해 다수의 방송."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2d70e36a",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625133451109",
-    "title": "[월드컵] \"할리우드 대작 각본 같았다\"…한국전 승리에 들뜬 남아공(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 남아프리카공화국이 25일(현지시간) 한국전 승리로 사상 첫 월드컵 토너먼트행을 확정 짓자 현지 매체들은 극적..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5af8d305",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625168900053",
-    "title": "경부고속도로 동대구 분기점서 추돌 사고…1명 병원 이송",
-    "summary": [
-      "(대구=연합뉴스) 김현태 기자 = 25일 오후 8시 2분께 대구 동구 부동 경부고속도로 서울 방향 동대구 분기점 인근에서 차량 다중추돌사고가 발..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nb968747e",
-    "category": "경제",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684264",
-    "title": "[속보] 미 1분기 경제성장률 연율 2.1%로 상향 확정…1.6%에서",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684249",
+    "title": "홍명보호 극적 32강, 당장 내일 확정되는 경우의 수는?[월드컵24시]",
     "summary": [
-      "[서울=뉴시스] ◎공감언론 뉴시스 kjy@newsis.com."
+      "[서울=뉴시스] 김진엽 기자 = 홍명보 감독이 이끄는 한국 남자 축구 대표팀이 남아프리카공화국전 충격 패에도 불구하고 극적으로 2026 국제축구연맹(FIFA) 북중미 월드컵 토너먼트에 진출할 수 있을지 관심이다.",
+      "홍명보호는 25일(한국 시간) 멕시코 누에보레온주 과달루페의 몬테레이 스타디움에서 열린 남아프리카공화국과의 조별리그 A조 3차전에서 0-1로 졌다.",
+      "무승부만 거뒀어도 자력으로 조 2위 토너먼트 진출을 이뤄낼 수 있었으나, 패배하면서 3."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3395e9f9",
+    "id": "n6fe7a397",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026062522333604092",
+    "title": "권순기 경남교육감 당선인, 정책 구체화 나서 … 19개 직속기관 업무보고 청취",
+    "summary": [
+      "권순기 경남교육감 당선인과 교육감직 인수위원회가 향후 경남교육 정책 방향을 구체화하기 위해 머리를 맞댔다.",
+      "권 당선인과 교육감직 인수위는 25일 도 교육청 교육정보원 3층 회의실에서 직속 기관 주요 업무보고를 받고 경남교육 현황 전반을 점검하는 등 교육비전 구체화에 나섰다.",
+      "보고에는 교육연수원, 미래교육원, 과학교육원 등 9개 교육원과 경남수학문화관, 학생안전체험원, 교육정보원, 기록원, 종합복지관, 창원도서관."
+    ],
+    "chips": [
+      "#정책",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n31bfd03d",
     "category": "경제",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625169100072",
-    "title": "[속보] 美 5월 PCE 물가 전년대비 4.1%↑…최근 유가하락 미반영",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd12e27df",
-    "category": "사회",
     "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/25/2026062521174593164",
-    "title": "대법 \"'패륜 상속인' 유류분 제한, 헌법불합치 당시 소송도 적용돼야\"",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/economy/2026/06/25/2026062522253068821",
+    "title": "영국, 철강 관세 25→50% 인상…산업부 \"피해 최소화 총력 대응\"",
     "summary": [
-      "패륜 행위를 한 상속인에게도 법에 따라 최소한의 유산(유류분)을 남겨줘야 하는 법이 2024년 헌법재판소에서 헌법에 맞지 않는다고 판단을 받고 이후 민법이 개정되면서 유류분을 지급하지 않을 수 있게 됐는데, 대법원은 이와 관련해 당시 소송이 진행 중이던 사건에도 개정 민법을 소급 적용할 수 있다고 판단했다.",
-      "다만 이번 재판 당사자와 같이 개정 민법 시행 전에 패륜 가족의 상속을 알게 된 공동상속인은 오는 9월16일까지 가정법원에 상속권 상실을."
+      "영국이 다음달부터 철강 수입품에 대한 관세를 기존 25%에서 50%로 인상하고 무관세 물량도 절반으로 줄인다.",
+      "정부는 철강 수출업체들의 피해를 최소화하기 위해 영국 정부와 지속적으로 협의한다는 계획이다.",
+      "25일 산업통상부에 따르면 이날 영국 정부는 기존 철강 세이프가드(긴급수입제한) 조치를 대체하는 신철강 조치 최종 계획을 발표하고 다음달 1일부터 시행할 계획이다."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "n0730ed19",
-    "category": "사회",
+    "id": "n2f5ac981",
+    "category": "경제",
     "source": "뉴시스",
     "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684253",
-    "title": "박수현 \"명품 야간공연으로 체류형 관광…'야간경제' 키우겠다\"",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684265",
+    "title": "미 5월 민간소비, 실질 0.3% 뚜렷한 증가세…PCE 근원 인플레 3.4%",
     "summary": [
-      "[홍성=뉴시스]김덕진 기자 = 통하는 충남준비위원회는 25일 박수현 충남도지사 당선인이 예산·홍성을 찾아 8번째 타운홀 미팅을 갖고 지역경제 활성화와 지방소멸을 막기 위한 해법으로 ‘야간경제'를 꺼내 들었다고 밝혔다.",
-      "박 당선인은 이날 홍성·예산권역 내포신도시에 위치한 충남도서관 대강당에서 도내 8번째 마지막 타운홀 미팅을 갖고 이들 지역 약 300명 도민과 직접 소통하는 시간을 가졌다.",
-      "이 자리에서 박 당선인은 \"낮에 예산 추사고택, 홍성읍성."
+      "[서울=뉴시스] 김재영 기자 = 미국에서 민간 소비 규모가 5월에 전 달에 비해 인플레 감안 실질 통계로 0.3% 증가했다고 25일 미 상무부가 발표했다.",
+      "직전 4월에는 실질 증가율이 0.0%였다.",
+      "또 5월의 명목 증가율은 0.7%로 4월의 0.4%에서 거의 배증했다.."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd7bd2d35",
+    "id": "nbafecacc",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684263",
-    "title": "희귀·난치환자 NK세포 치료 빨라진다…복지부, 위험도 조정",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625172300007",
+    "title": "'천적' NC 토다, 롯데 8연승 저지…삼성도 LG 6연승 제동",
     "summary": [
-      "[세종=뉴시스]성소의 기자 = 보건복지부가 자연살해세포(NK세포) 등 자가 면역세포를 배양해 활용하는 첨단재생의료의 위험도를 낮추기로 했다.",
-      "이에 따라 희귀·난치질환 환자들은 2~3년이 걸리는 임상연구 없이도 신속하게 치료를 받을 수 있게 될 전망이다.",
-      "복지부는 첨단재생의료 및 첨단바이오의약품 심의위원회 의결을 거쳐 기존 중위험으로 분류했던 자가 면역세포 배양 첨단재생의료 임상연구·치료를 저위험으로 조정했다고 25일 밝혔다."
+      "(서울=연합뉴스) 장현구 기자 = NC 다이노스가 롯데 자이언츠의 '천적'으로 떠오른 토다 나쓰키의 역투와 선발 전원 안타를 발판 삼아 4연패에..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8acce20f",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003682722",
+    "title": "좌파는 '메시' vs 우파는 '호날두'…정치성향 따라 축구 스타 선호도 달라져",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 리오넬 메시(아르헨티나)와 크리스티아누 호날두(포르투갈)의 선호도 차이가 개인의 정치 성향과도 관련이 있다는 연구 결과가 나왔다.",
+      "최근 싱가포르 난양기술대를 중심으로 한 연구진은 개인이 메시와 호날두를 향해 갖는 선호도 차이가 정치 성향과 맞물려서 나타날 수 있다고 밝혔다.",
+      "메시와 호날두는 2000년대 중반부터 약 20년 동안 축구계를 대표하는 라이벌로 꼽혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf9abe40f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625079852001",
+    "title": "'장군멍군' 보완수사권 신경전…金 \"폐지\"·鄭 \"시간끌기용\"(종합2보)",
+    "summary": [
+      "(서울=연합뉴스) 서혜림 정연솔 기자 = 더불어민주당 정청래 전 대표가 8·17 전당대회를 앞두고 연임 도전 수순에 들어가면서 잠재적인 차기 당..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbfe6d884",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625172200530",
+    "title": "자가 면역세포 활용 임상연구·치료환자 접근성 높인다",
+    "summary": [
+      "(서울=연합뉴스) 고유선 기자 = 보건복지부는 25일 첨단재생의료 및 첨단바이오의약품 심의위원회 의결을 거쳐 자연살해세포(NK세포) 등 자가 면..."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n18e39870",
+    "id": "nf45388e4",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/25/GQYWKMTCHBQTENZXMJRDIODEGU/",
-    "title": "아픈 무릎으로 전력 질주 하더니...페라자, 결국 버티지 못하고 교체 [대전 현장]",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260612159361007",
+    "title": "[프로야구] 26일 선발투수",
     "summary": [
-      "[대전=스포츠조선 김용 기자] 아픈 무릎으로 전력 질주 하더니...",
-      "한화 이글스 외국인 타자 페라자가 경기 도중 교체됐다.",
-      "페라자는 25일 대전한화생명볼파크에서 열린 두산 베어스전에 2번-우익수로 선발 출전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ba60460",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/25/2JLYWJPYVRAPRL7I73IFUBGNNY/",
-    "title": "KIA 김도영, 키움전서 21-22호포...LG 오스틴과 공동 선두",
-    "summary": [
-      "KIA 김도영, 키움전서 21-22호포...LG 오스틴과 공동 선두."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd5774b2",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/25/2026062515425953388",
-    "title": "이럴수가 'LG 오스틴 긴장하나' KIA 김도영 멀티홈런 대폭발! 4연승 파죽지세, 키움은 9연패 수렁 [고척 현장리뷰]",
-    "summary": [
-      "KIA 타이거즈가 키움 히어로즈와 3연전을 싹쓸이하며 4연승을 내달렸다.",
-      "KIA는 25일 서울 고척스카이돔에서 열린 키움과 2026 신한 SOL KBO 리그 정규시즌 원정 경기에서 9-4로 승리했다.",
-      "이 승리로 KIA는 41승 1무 33패를 마크하며 리그 4위 자리를 유지했다."
+      "[프로야구] 26일 선발투수."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n05d7ca0c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260625/134183903/1",
-    "title": "“정청래 사퇴의 변은 본인이 李와 ‘동급’이라는 선언” [법정모독 UP & DOWN]",
+    "id": "n7640ff91",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://view.asiae.co.kr/article/2026062521471553351",
+    "title": "\"나 같아도 안 떠나\"…'신입 월450만원' SK하이닉스, 자발적 이직률 0.5%",
     "summary": [
-      "동아일보 정치 라이브 ＜법정모독＞- 일시: 화·목요일 오전 10~11시- 토크: 강수영 변호사, 박상수 변호사- 진행·연출: 김형민, 심성주- 동아일보 유튜브 : www.youtube.com/@donga-ilbo 국민의힘 의원들 사이에서 장동혁 대표 체제로 다음 총선에서 승리를 가져올 수 없다는 인식이 확산되는 가운데 정점식 원내대표가 서서히 장 대표를 압박해가고 있다는 주장이 나왔다.",
-      "이재명 대통령 지지를 언급한 정청래 전 더불어민주당 대표의."
+      "지난해 SK하이닉스 직원의 전체 이직률이 1%에도 못 미친 것으로 나타났다.",
+      "자발적 이직률은 0.5%에 그쳤고, 신입사원 초임은 월 450만5000원으로 집계됐다.",
+      "25일 SK하이닉스가 공개한 지속가능경영보고서에 따르면 지난해 국내 사업장 기준 전체 이직률은 0.9%에 불과했다."
     ],
     "chips": [
-      "#정치"
+      "#SK하이닉스"
     ]
   },
   {
-    "id": "ndae3079f",
+    "id": "nbaeae9f0",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/25/GIYGMNDBMU3GINBWME2TKMBTMQ/",
-    "title": "‘김도영 멀티포+나성범 백투백’ KIA, 12안타 4홈런 대폭발! 4연승 질주…키움, 충격 9연패",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/25/2026062515492919036",
+    "title": "'7안타→4안타→18안타 폭발' 삼성 타선 마침내 터졌다! LG에 13-6 완파... 타격 1위 KT 만난다 [잠실 현장리뷰]",
     "summary": [
-      "‘김도영 멀티포+나성범 백투백’ KIA, 12안타 4홈런 대폭발! 4연승 질주…키움, 충격 9연패."
+      "빈타에 시달리던 삼성 라이온즈가 홈으로 돌아가기 전 방망이를 화끈하게 달궜다.",
+      "삼성은 25일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 리그 정규시즌 방문경기에서 LG 트윈스를 13-6으로 제압했다.",
+      "이로써 3연패 스윕을 면한 삼성은 41승 2무 30패로 3위를 유지했다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7eb7947e",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/25/2026062521533398717",
+    "title": "'손흥민 벤치' 당일 통보받은 선수들…손흥민 \"못 도와줘 미안\"",
+    "summary": [
+      "홍명보호가 남아프리카공화국(남아공)에 충격패를 당한 가운데 수문장 김승규가 '캡틴' 손흥민의 선발 제외를 경기 당일 미팅에서야 알게 됐다고 밝혔다.",
+      "홍명보 감독이 이끄는 대한민국 축구 대표팀은 25일(한국 시간) 멕시코 몬테레이 스타디움에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 A조 최종전에서 남아프리카공화국에 0-1로 패했다.",
+      "무승부만 거둬도 자력으로 32강 진출이 가능했던 한국은 조 3위로 밀려 다른 조 결과를 기다려."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "na5ca9a44",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026062522160685690",
+    "title": "영국, 철강 수입규제 대폭 강화…TRQ 절반 축소·초과관세 50%",
+    "summary": [
+      "영국이 다음 달부터 철강 수입규제를 대폭 강화한다.",
+      "기존 세이프가드 조치를 폐지하는 대신 대상 품목을 늘리고 무관세 수입 물량은 절반 가까이 줄이는 한편, 쿼터를 초과하는 물량에는 50%의 고율 관세를 부과한다.",
+      "우리 정부는 세계무역기구(WTO) 협의 등을 통해 우리 철강업계의 시장 접근권 확보에 나설 방침이다."
+    ],
+    "chips": [
+      "#정책",
+      "#수출"
     ]
   }
 ];
@@ -637,8 +643,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
@@ -648,7 +654,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "정치",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   }
