@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-25 00:29:48
+// 마지막 업데이트: 2026-06-25 01:39:14
 window.NEWS_DB = [
   {
     "id": "nfa562be4",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0MxUFNEX1lQb25nMGpzUmczb1I2b2pXelVGbHJubTB4dUxCVWVNVVdpNkRGRVRqMnRwSW9od1NvSWc5ZkZ0dWotVmJlVTV3c1I0a0VLSnhPMzItVktZTU1ISjRTamU1MzVYTFdhNUdEVUlnMFJXOFFRTjBOSW1Dekh30gGWAUFVX3lxTE1MakRWVS1KSDVGZ0lYWWxBdE8zeEMzMS1SaFlSMzNSeVJWMVByMmwzZ3lNM0xGdjNOck5uUzdTNFRuc3hOM2RsRnpaMTZudHowMDBpZktUZ3hZMUIzSkJBa283a2EwTjVidngtNnhDV2xMR3hEcjRyLVg3dkxxbXp0c1lOY1ZCWXV5dlQ1VFhiSzFDS2xDZw?oc=5",
     "title": "[비즈톡톡] 틱톡 키운 바이트댄스, 中 반도체 자립 견인… 엔비디아 막히자 중국산 AI칩 도입 - 조선비즈",
     "summary": [
@@ -18,27 +18,25 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n93f8c75d",
+    "id": "na8ba2a09",
     "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tSktnTFdxTDNNNzhFQlM3dlhQT1dydUxyc1Jpb25xaDZHLXVDcUkzMEtMOUM0WUJURzN2ellCZFREazN5NUlmWnR6Q3RRNllXVjhVaTI0WTJBZWwzN3hyQzRNRHRUaVVJTmhVZUNVOUc2aW8?oc=5",
-    "title": "엔비디아 AI 반도체 가격 중국 암시장에서 2배 급등, 미국 수출통제 강화로 수급 어려워져",
+    "source": "뉴시스",
+    "time": "5시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxU2xJampMNjI0TjB2aExjekt4Umk4ZW9QMjVoenB6WnAxMTdqQTkzeTUzcmtWUlhYSWwxdW5aZDN1ZlZPSnczZFI3R3BvaTJRSjBkMENjUm9lQ0JsWkhqLdIBeEFVX3lxTFBUamZCYXhoa1VNYlZIa0syLW1welNuR0ZPT055dVdMUkpZZExUY1V1cnFiUG1nNU1LZWRRODVLb2VQX29HUlViUTlvQUtZT2hTY0dMcV8xMC1hRm5rQXI4cVFFeWpDTVZvSTNPalhaWUkxamhvaXJyZQ?oc=5",
+    "title": "오픈AI, 첫 자체 AI칩 '할라페뇨' 공개…엔비디아 의존도 낮춘다",
     "summary": [
-      "엔비디아 AI 반도체 가격 중국 암시장에서 2배 급등, 미국 수출통제 강화로 수급 어려워져 비즈니스포스트."
+      "오픈AI, 첫 자체 AI칩 '할라페뇨' 공개…엔비디아 의존도 낮춘다 뉴시스."
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#수출"
+      "#엔비디아"
     ]
   },
   {
     "id": "n93563301",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zR2FqRU9RY29vUzEwMU5KVDl5cWNScGYweVFCQjhmZGt2NFQ2b2FqVTd3VDdkRWZxVlVlMDROaDZkT2tQeEpTSThxVkw4WDdTWDhiNmFBWDVMeEnSAWBBVV95cUxOT0h2M0Y1eW02QjdaWXREWUF2R0N1VGdJc0c4SzFqV2V4NGxEaXQ3TnhDeVE5WVlBY21NbnhwR1BrdmdLY0JOTUdZeHdPekZxaHd2em9NdVZqb2ZqZHRZM0Q?oc=5",
     "title": "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\"",
     "summary": [
@@ -52,7 +50,7 @@ window.NEWS_DB = [
     "id": "nde229885",
     "category": "IT",
     "source": "한국보험신문",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
     "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
     "summary": [
@@ -140,7 +138,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "8일 전",
+    "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -319,6 +317,53 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd0b3c8ec",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152874",
+    "title": "\"시니어 스포츠에서 공공 영역까지\"...셀빅-스마일스퀘어, 파크골프 대중화 '맞손'",
+    "summary": [
+      "가상 스포츠 및 에듀테크 전문 기업 셀빅과 스크린 스포츠 플랫폼 전문 기업 스마일스퀘어가 파크골프 시장의 세대 확장과 공공시장 진출을 위해 손을 잡았습니다.",
+      "양사는 지난 19일 스마일스퀘어의 대표 스크린 파크골프 브랜드인 '마이파크'의 사업 확대와 신규 비즈니스 모델 개발을 골자로 하는 전략적 사업협력 양해각서를 체결했습니다.이번 협약에 따라 양사는 각자가 보유한 핵심 역량을 바탕으로 역할 분담 체계를 구축했습니다.",
+      "스크린 파크골프 플랫폼 마이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e94f168",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152882",
+    "title": "\"장바구니 비용 파괴 선언\"...오아시스마켓 '클럽 오아시스'로 새벽배송 판도 흔든다",
+    "summary": [
+      "오아시스마켓이 선보인 유료 회원제 '클럽 오아시스'가 유통가에 흥행 돌풍을 일으키고 있어 주목됩니다.오아시스마켓은 신규 유료 회원제 유입 속도가 평소보다 10배 이상 치솟자, 서버 마비와 배송 품질 저하를 막기 위해 신규 가입자 수를 일일 5000명으로 제한했습니다.",
+      "기존 고객들에게 제공하는 서비스 질을 떨어트리지 않겠다는 굳은 의지를 보여준 셈입니다.일반 상품 20%-뷰티 30%의 역대급 페이백오아시스마켓이 지난 17일 론칭한 '클럽 오아시스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd0d25a6c",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152880",
+    "title": "[크립토 브리핑] 비트코인, 한때 9100만원선까지 밀려...ETF 순유출 지속",
+    "summary": [
+      "비트코인이 9100만원선까지 밀려났다가 반등했다.",
+      "가상자산 시장 투자심리가 위축된 가운데 비트코인 현물 상장지수펀드(ETF) 순유출이 지속된 까닭으로 풀이된다.25일 글로벌 가상자산 시황중계 사이트 코인마켓캡에 따르면 이날 오전 8시 40분 기준 비트코인 가격은 전일 동시간 대비 1.88% 하락한 9389만7040원을 기록했다.",
+      "비트코인 가격은 이날 오전 9100만원대까지 하락했다가 반등했다.알트코인도 하락세다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "naa2ea002",
     "category": "IT",
     "source": "테크M",
@@ -335,321 +380,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n95763de1",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152879",
-    "title": "마이크론, 5월 분기 '깜짝실적'...삼성전자·SK하이닉스 '청신호'",
-    "summary": [
-      "마이크론테크놀로지가 또 다시 '깜짝실적(어닝 서프라이즈)'을 달성했다.",
-      "인공지능(AI)이 일으킨 반도체 슈퍼사이클(장기 호황)은 여전하다.",
-      "메모리반도체 공급 부족은 지속할 전망이다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nbdcdb244",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152875",
-    "title": "[해봤다] 치킨은 못먹었지만 친구가 생겼다...배틀그라운드 AI '엘라'와 사녹 생존기",
-    "summary": [
-      "오늘 같이 치킨 먹어볼까?\"친구가 생겼습니다.",
-      "게임을 하면서 나와 말이 통하는 AI입니다.",
-      "놀라울 정도로 똑똑하지만, 때로는 멍청한 행동도 합니다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nae0c6113",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152863",
-    "title": "[e스포츠人] '규민·헤더·성장·헤븐' 드림팀 우승 정조준...'PNC 2026' 출사표 던진 '플리케' 김성민",
-    "summary": [
-      "배틀그라운드 국가 대항전 '펍지 네이션스 컵 2026 in 서울(PNC 2026)' 개막이 코 앞으로 다가왔습니다.",
-      "오는 26일 개막하는 이번 대회는 총 3일간을 일정을 거쳐 28일 최종 우승 국가를 가립니다.",
-      "한국은 이번 대회에 칼을 갈고 나왔습니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf040ee8d",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/stock/2026/06/25/2026062509165115798",
-    "title": "키움증권 8%대 상승, 장 초반 증권주 강세",
-    "summary": [
-      "[특징주] 25일 장 초반 증권주가 동반 강세를 보이고 있다.",
-      "이날 오전 9시 22분 기준 키움증권은 전 거래일 대비 8.44% 오른 34만500원에 거래되고 있다.",
-      "한국금융지주(6.6%), 미래에셋증권(6.35%), 삼성증권(5.86%), 한화투자증권(5.49%) 등도 강세를 나타냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n51db75a8",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026062509283745639",
-    "title": "EY한영 \"韓 기업, 중국 EV 수입으로 가격 경쟁 심화\"",
-    "summary": [
-      "국내 자동차·모빌리티 업계가 중국 전기차(EV) 공세에 가격 경쟁력이 심화했다고 평가했다.",
-      "글로벌 회계·컨설팅 법인 EY한영은 최근 '중국 EV 산업 부상과 글로벌 경쟁 구도 재편에 따른 한국 기업의 대응 전략'을 주제로 '제6회 EY한영 모빌리티 컨퍼런스'를 개최하며 참석자 대상으로 설문조사를 실시했다.",
-      "컨퍼런스에 참여한 국내 완성차·부품사, 운송·물류 기업, 투자사, 금융기관, 정책 관계자 등 552명이 응답했다."
-    ],
-    "chips": [
-      "#정책",
-      "#전기차"
-    ]
-  },
-  {
-    "id": "nd2e95f92",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026062509281841259",
-    "title": "거래소 청산결제본부장, 글로벌 청산기관 협회 집행위원 선출",
-    "summary": [
-      "한국거래소는 박상욱 청산결제본부장이 네덜란드 암스테르담에서 개최된 글로벌 청산기관 협회(CCP Global) 정기총회에서 집행위원으로 선출됐다고 25일 밝혔다.",
-      "CCP Global 회원들은 거래소의 견고한 청산·결제 수행 및 인프라 고도화 등 금융시장의 안정성에 기여한 점을 높이 평가했다.",
-      "CCP Global은 글로벌 CCP간 정보공유를 통한 청산·결제 및 위험관리의 전문성 향상 및 효율적인 CCP 글로벌 규제체계 수립에 기여하기 위."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n43d8da37",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026062509235098530",
-    "title": "\"당근 청소 알바입니다\"…여성 집 들어가 흉기 든 30대 남성",
-    "summary": [
-      "중고거래 플랫폼 당근에서 청소 아르바이트를 하겠다며 여성의 집에 들어가 흉기로 위협한 30대 남성이 경찰에 붙잡혔다.",
-      "24일 경기 남양주남부경찰서는 24일 30대 남성 A씨를 붙잡아 조사하고 있다고 밝혔다.",
-      "A씨는 이날 낮 12시쯤 남양주시의 한 아파트에서 집 안에 있던 여성 B씨에게 흉기를 들이대며 위협한 혐의를 받는다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n23714494",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026062509280434365",
-    "title": "롯데시네마 월드타워서 이상준 스탠드업 코미디 공연",
-    "summary": [
-      "롯데시네마는 MBC C&I와 함께 오는 26일과 다음 달 10일·24일 롯데시네마 월드타워에서 스탠드업 코미디 공연 '이상준쇼 - 솔로파티'를 연다고 25일 밝혔다.",
-      "개그맨 이상준이 연애·결혼 등 일상 에피소드를 특유의 입담으로 풀어내는 참여형 공연이다.",
-      "대형 스크린과 음향 시스템으로 더 생생하게 관람할 수 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7a561bb3",
+    "id": "n214a1b7a",
     "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003682781",
-    "title": "전국 평균 경윳값 2000원 아래로…중동 안정·정유사 할인 영향",
+    "url": "https://www.newsis.com/view/NISX20260625_0003683153",
+    "title": "李 \"강력한 국방력으로 평화의 한반도 만들 것…국가 위한 희생엔 특별한 보상\"",
     "summary": [
-      "[서울=뉴시스]박현준 기자 = 국제 유가 하락 흐름과 정유업계 가격 인하 조치 등이 맞물리면서 전국 주유소 평균 경유 가격이 리터(ℓ)당 2000원 아래로 내려왔다.",
-      "25일 한국석유공사 유가정보시스템 오피넷에 따르면 이날 오전 8시30분 기준 전국 주유소 평균 경유 가격은 전날보다 0.7원 내린 ℓ당 1999.3원을 기록했다.",
-      "전국 평균 경유 가격이 2000원 아래로 내려온 것은 지난 4월24일 이후 약 두 달 만이다."
+      "[서울=뉴시스]조재완 기자 = 이재명 대통령은 25일 \"강력한 국방력으로 국민과 영토를 지키고, 전쟁이 일어날 걱정도, 싸울 필요도 없는 평화의 한반도를 반드시 만들어 내겠다\"고 밝혔다.",
+      "이 대통령은 이날 오전 경기 수원에서 열린 6·25 전쟁 제76주년 기념식에 참석해 \"국민주권정부는 영웅들이 만든 이 위대한 대한민국을 흔들림 없이 지켜나가겠다\"며 이같이 말했다.",
+      "이 대통령은 \"6·25전쟁 제76주년을 맞아 국민을 대표해 참전 유공자 여러분께."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na246a243",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003683165",
+    "title": "이란 때리자던 美우파도 흔들렸다…젊은 보수층은 전쟁보다 협상",
+    "summary": [
+      "[서울=뉴시스] 박영환 기자 = 미국 공화당을 포함한 보수 진영 일부에서 이란을 바라보는 시각이 달라지고 있다.",
+      "이란을 무너뜨릴 적이 아니라 협상해야 할 상대로 봐야 한다는 목소리가 커지고 있다고 뉴욕타임스(NYT)가 24일(현지시간) 보도했다.",
+      "NYT는 트럼프 행정부가 이란과의 전쟁을 끝내기 위한 잠정 합의를 옹호하는 과정에서 미국 우파 내부의 대이란 인식 변화가 뚜렷해지고 있다고 분석했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n29e1c244",
+    "id": "n6550f95c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003683148",
+    "title": "[태백소식]강원도 노인일자리 사업평가 '최우수' 선정 등",
+    "summary": [
+      "[태백=뉴시스]홍춘봉 기자 = 태백시가 강원특별자치도가 주관한 '2026년 노인일자리 사업평가대회'에서 도내 18개 시·군 중 최우수 지자체로 선정됐다고 25일 밝혔다.",
+      "이번 평가는 도내 시·군을 대상으로 2025년 노인일자리 및 사회활동 지원사업 추진 실적 전반을 종합 심사했으며, 태백시는 지역 특성을 반영한 특화사업 운영 성과에서 높은 점수를 받았다.",
+      "특히 대표 특화사업인 '경ро당관리매니저' 사업은 초고령 도시인 태백의 여건을 반영한 노인."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n04c7f8dd",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003682914",
-    "title": "대구오페라하우스, 장르별 시장 거점화 평가 3억6000만원 확보",
+    "url": "https://www.newsis.com/view/NISX20260625_0003683158",
+    "title": "거창군, 소상공인 육성자금 지원한다…27억5천만원 규모",
     "summary": [
-      "[대구=뉴시스] 박준 기자 = 대구오페라하우스는 문화체육관광부가 주최하고 예술경영지원센터가 주관하는 장르별 시장 거점화 지원사업 평가에서 우수한 성과를 인정받아 총 3억6000만원의 사업비를 지원받는다고 25일 밝혔다.",
-      "이 사업은 3개년 중장기 국비 지원 사업으로 지역 우수 축제를 유통 중심의 시장 거점으로 육성하고 플랫폼을 스케일업(Scale-up)해 오페라 장르의 시장 경쟁력을 강화하는데 목적이 있다.",
-      "올해 사업은 지난해의 국제 협력 성과를."
+      "[거창=뉴시스] 서희원 기자 = 경남 거창군은 지역 소상공인의 안정적인 사업 운영과 경영 부담을 완화하기 위해 총 27억5000만원 규모의 하반기 소상공인 육성자금 지원사업을 추진한다고 25일 밝혔다.",
+      "소상공인 육성자금은 거창군에 사업자등록을 하고 경남신용보증재단 거창지점의 신용보증서를 발급받은 소상공인으로 광업·제조업·건설업 및 운수업은 상시 근로자 10인 미만, 그 외 업종은 상시 종업원 5인 미만 업체가 대상이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n23ee63a9",
+    "id": "n0e5cb932",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003682897",
-    "title": "[예천소식]예천 복숭아 본격 출하…\"당도 높고 과육 단단\" 등",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026062510365891786",
+    "title": "[속보]대법, '이스타항공 채용비리' 이상직 전 의원 무죄 확정",
     "summary": [
-      "[예천=뉴시스] 김진호 기자 = 경북 예천군 대표 특산물인 복숭아가 본격적인 출하를 시작했다.",
-      "25일 군에 따르면 예천지역에서는 120여 농가가 153㏊ 규모에서 복숭아를 재배하고 있다.",
-      "6월 중순 첫 출하를 시작으로 본격적인 수확 작업이 이어지고 있다."
+      "[속보]대법, '이스타항공 채용비리' 이상직 전 의원 무죄 확정."
     ],
     "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "ncc729033",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026062509183047789",
+    "title": "李대통령, 6·25전쟁 제76주년 행사 참석",
+    "summary": [
+      "이재명 대통령과 김혜경 여사가 25일 경기도에서 개최되는 '6·25전쟁 제76주년 행사'에 참석해 국가와 국민을 위해 희생하고 헌신하신 참전유공자에 대해 감사와 위로를 표한다.",
+      "올해 76주년을 맞이하는 6·25전쟁 행사는 '영웅이 지켜낸 대한민국, 세계 속에 빛나다'라는 주제로 개최된다.",
+      "이는 참전유공자들의 희생으로 지켜낸 대한민국을 자유와 평화의 가치로 계승하겠다는 의미가 담겨 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0b11c18b",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026062510352384008",
+    "title": "NH농협은행, ESG실행력 강화…녹색여신 취급 확대",
+    "summary": [
+      "NH농협은행이 ESG(환경·사회·지배구조) 실행력 강화에 나섰다.",
+      "25일 NH농협은행에 따르면 전날 서울 중구 본사에서 '2026년 제1차 ESG추진위원회'가 개최됐다.",
+      "ESG추진위원회는 NH농협은행의 ESG 경영전략을 총괄하는 협의체다."
+    ],
+    "chips": [
+      "#교육",
       "#환경"
     ]
   },
   {
-    "id": "n104ca4fe",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625044100007",
-    "title": "[월드컵] 비니시우스 멀티골 브라질, 스코틀랜드 3-0 꺾고 C조 1위 32강행",
+    "id": "n0a95b484",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026062510333860479",
+    "title": "나주시 '보증금 없는 청년 임대주택' 추가 모집",
     "summary": [
-      "(서울=연합뉴스) 이영호 기자 = 역대 월드컵 최다 우승(5회)에 빛나는 브라질 축구 대표팀이 비니시우스 주니오르의 멀티 골 활약을 앞세워 스코..."
+      "나주시가 전국 최초로 시행 중인 '보증금 없는 청년 임대주택'의 추가 입주자를 모집한다.",
+      "나주시는 취업 청년의 주거 안정을 위해 내달 8일까지 취업 청년 임대주택 입주자를 추가 모집한다고 24일 밝혔다.",
+      "이 사업은 청년들이 별도의 임대보증금 없이 관리비만 부담하고 거주할 수 있도록 지원하는 전국 최초의 청년 주거지원 정책이다."
     ],
     "chips": [
-      "#뉴스"
+      "#정책",
+      "#채용",
+      "#취업"
     ]
   },
   {
-    "id": "nba40ea8e",
+    "id": "n02ef93be",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625044800063",
-    "title": "천안시, 관광 브랜드 'TOUR NOW CHEONAN, 천안!' 업무표장 등록",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625061300087",
+    "title": "\"지진에 차 흔들리고 가구 넘어져…한인 피해신고 아직은 없어\"",
     "summary": [
-      "(천안=연합뉴스) 유의주 기자 = 충남 천안시는 25일 자체 개발한 관광 브랜드 이미지(BI)인 'TOUR NOW CHEONAN, 천안!'의 업..."
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 24일(현지시간) 베네수엘라에서 발생한 연쇄 대지진으로 사망자가 속출할 것으로 예상되는 가운데 아직 한..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n21c3fdbf",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/25/2026062509267284703",
-    "title": "'유퀴즈' 허남준, 동시간대 시청률 1위 견인→김무열 예고편 등장 [종합]",
-    "summary": [
-      "tvN 예능 '유 퀴즈 온 더 블럭'이 시청률과 화제성을 모두 잡으며 변함없이 뜨거운 인기를 자랑했다.",
-      "24일 방송된 tvN '유 퀴즈 온 더 블럭' 348회는 수도권 가구 기준 평균 4.5%, 최고 5.9%, 전국 가구 기준 평균 4.6%, 최고 5.9%로 케이블 종편 포함 동시간대 1위를 차지했다.",
-      "또한 tvN 타깃인 남녀 2049 시청률에서도 지상파 포함 전채널 동시간대 1위를 달성하며 변함없는 저력을 보여줬다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3cc7bef0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003682876",
-    "title": "현대건설, 차세대 친환경 항공연료 생산 기술 개발에 참여",
-    "summary": [
-      "[서울=뉴시스] 변해정 기자 = 현대건설이 차세대 친환경 항공연료(e-SAF) 생산 기술 개발에 참여한다.",
-      "현대건설은 과학기술정보통신부가 추진하는 국책과제 '이산화탄소 전환을 통한 e-SAF 생산 기술개발'의 수행 기업으로 선정됐다고 25일 밝혔다.",
-      "이 과제는 과기부의 '탄소·포집·활용 메가 프로젝트'의 일환으로 포집된 이산화탄소와 청정수소를 원료로 항공유를 생산하는 e-SAF 기술의 실증을 목표로 한다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n6ac95426",
+    "id": "n53b90635",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/finance/2026/06/25/2026062509112797260",
-    "title": "일본·태국·UAE 이어 유럽까지…케이뱅크, 스테이블코인 실험 확장",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260625/134179681/1",
+    "title": "운전대 잡은 AI, 보문단지 달린다… 롯데이노베이트, 경주서 자율주행 개시",
     "summary": [
-      "케이뱅크가 한국과 유럽 은행권이 공동 추진하는 스테이블코인 협력 프로젝트 '판게아(Pangea)'에 참여한다.",
-      "원화와 유로 기반 스테이블코인을 활용한 해외송금·정산 모델을 검증하기 위해서다.",
-      "케이뱅크는 일본, 태국, 아랍에미리트(UAE)에 이어 유럽권과의 협력을 통해 스테이블코인 시장 선점에 나선다는 계획이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n71f4728a",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/stock/2026/06/25/2026062509235963130",
-    "title": "반도체 중소형株 장초반 강세…수출 역대치 기록",
-    "summary": [
-      "[특징주] 반도체 소재·부품·장비 업체로 반도체 관련 중소형 종목들이 장초반 강세를 보이고 있다.",
-      "최근 반도체 수출이 역대 최대치를 기록하면서 이들 업체의 실적 성장에 대한 기대감이 투자심리로 이어지는 모습이다.",
-      "25일 한국거래소에 따르면 이날 오전 9시 19분 기준 반도체와 반도체장비 업종 중 코스닥사인 테크윙은 전 거래일 대비 8100원(16.23%) 오른 5만8000원에 거래되고 있다."
-    ],
-    "chips": [
-      "#반도체",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n2ef47a23",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625044600008",
-    "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 4%·9%대 급등",
-    "summary": [
-      "(서울=연합뉴스) 김유아 기자 = 삼성전자[005930]와 SK하이닉스[000660]가 25일 장 초반 각각 4%, 9% 넘게 급등하고 있다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n55c08b2a",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625044400063",
-    "title": "원자력연, '우주로버 챌린지' 설명회 29일 KAIST서 개최",
-    "summary": [
-      "(대전＝연합뉴스) 김준호 기자 = 한국원자력연구원은 '2026 대한민국 우주로버 챌린지' 사전 설명회를 오는 29일 KAIST에서 개최한다고 2..."
+      "롯데이노베이트가 자체 개발한 자율주행 셔틀 무부(MUVU)를 활용해 경북 경주 보문관광단지 일대에서 무인 버스 운행 서비스를 전개한다.",
+      "첨단 이동 수단을 접목한 역사 관광지 혁신 모델을 정립하겠다는 취지다.고정된 노선을 왕복하는 셔틀형 이동 수단은 도심 외곽이나 관광 지구, 대형 산업단지 등에서 대중교통의 틈새를 메울 대안으로 꼽힌다.",
+      "롯데이노베이트는 전국 각지에서 축적한 운행 데이터를 기반으로 안전성과 편의성, 문화 콘텐츠를 결합한 고도화된."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n23ba2903",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260625/134178950/2",
-    "title": "[속보]손흥민 빼고 오현규 원톱…홍명보, 남아공전 ‘파격 승부수’",
+    "id": "ne8e2a938",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625057900009",
+    "title": "인도, 몬순가뭄 지속에 '재배작물 변경' 농민들에 주문",
     "summary": [
-      "손흥민이 2026 북중미 월드컵 조별리그 마지막 경기인 남아프리카공화국전 선발 명단에서 제외됐다.",
-      "벤치에서 출발해 후반전에 투입될 가능성이 높다.",
-      "체코전에서 결승 골을 넣은 오현규가 원톱으로 출격한다.대한축구협회는 25일 오전 10시(한국 시간) 멕시코 과달루페의 몬테레이 스타디움에서 열리는 남아공전 선발 명단을 발표했다."
+      "(서울=연합뉴스) 유창엽 기자 = 인도 당국이 몬순(우기) 가뭄에 취약한 지역의 농민들에게 물을 상대적으로 덜 필요로 하는 내한(耐旱) 작물로 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1093b5c6",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625063800075",
+    "title": "매기 강·김지운 감독, 美아카데미 투표권 얻나…신입 회원 초청",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 애니메이션 영화 '케이팝 데몬 헌터스'를 만든 한국계 캐나다인 매기 강 감독, '거미집'의 김지운 감..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2e278b91",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/25/GMYGGYJWHA4WENTFHEYGIMBVMU/",
+    "title": "'파격 또 파격' 홍명보, 손흥민 제외 이유 직접 밝혔다 \"상대 체력 고려한 선택, 후반에 나가는 것이 본인에게 도움\"",
+    "summary": [
+      "[스포츠조선 박찬준 기자]홍명보 감독이 파격수를 뒀다.",
+      "홍명보 월드컵 대표팀 감독이 이끄는 대한민국은 25일 오전 10시(이하 한국시각) 멕시코의 에스타디오 몬테레이에서 남아공과 2026년 북중미월드컵 조별리그 A조 3차전을 치른다.",
+      "한국은 현재 1승1패로 조2위에 자리했다."
     ],
     "chips": [
       "#손흥민"
+    ]
+  },
+  {
+    "id": "ncafde070",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625065100007",
+    "title": "MLB 메츠, ERA 10점 넘은 일본인 투수 센가 불펜 강등",
+    "summary": [
+      "(서울=연합뉴스) 천병혁 기자 = 미국프로야구 메이저리그(MLB) 뉴욕 메츠에서 한때 에이스로 활약했던 일본인 투수 센가 고다이가 불펜으로 밀려..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n0f07d996",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "8분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/25/4FGZVDGACFHWFN3BH5GGWQDWJM/",
+    "title": "‘사상 최대 제작비’ GTA 6, 예약 판매 시작… 11월 19일 출시",
+    "summary": [
+      "‘사상 최대 제작비’ GTA 6, 예약 판매 시작… 11월 19일 출시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned0aefff",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625059400011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 10:30."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7594b32c",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625053100002",
+    "title": "국제금융센터 \"하반기 AI 주가 더 오를 가능성…달러 강세 지속\"",
+    "summary": [
+      "(서울=연합뉴스) 임지우 기자 = 올해 하반기에도 인공지능(AI) 부문 주도로 세계 주식시장에서 주가가 더 오를 것이라고 국제금융센터가 25일 ..."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -659,20 +644,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
