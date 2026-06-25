@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-25 17:51:33
+// 마지막 업데이트: 2026-06-25 18:40:54
 window.NEWS_DB = [
   {
     "id": "n5beb325a",
     "category": "IT",
     "source": "한겨레",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSDNBZWxOYXBMcmxiNVlnMlFMNEh2SVNaRFZtT2JGRThvTTQwT1RtUGlwRUdZc1VuZl93b0FUYlhvTkJTM3BoakZidWhxa0lvNUxEQlJJSEE1QzAzYTBOSg?oc=5",
     "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’공개…엔비디아 의존도 낮춘다",
     "summary": [
@@ -17,10 +17,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8908d258",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnM9IBYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnMw?oc=5",
+    "title": "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검'",
+    "summary": [
+      "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검' 연합뉴스."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -34,7 +48,7 @@ window.NEWS_DB = [
     "id": "n4961c442",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aaktNZ3VBellFcmtGV3lWRW05czA3eWVIXzVsTEFEOUJuMFZSVWNBMTdqZVJDSERWc3N0MWIzd1p3dzBaODRYN3VxbGlKRm9Senl3N3RaYmtqdw?oc=5",
     "title": "오픈AI, 자체 칩 '할라페뇨' 공개…\"엔비디아·구글 칩과 대등한 성능\"",
     "summary": [
@@ -116,21 +130,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na0f523e8",
-    "category": "IT",
-    "source": "이코노미트리뷴",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTjVtNmlWdHM3LTBCdkpwQS1Pa3N5QnR3bngycTV6dEt1SllMSE53U05ZUXItRXR1dVBGcHV6djhDSVltdXo5SW5WaDlPbjIwTHNzRG5CRklmeWs1TC1NN3h1cnVzdTNfLWtYV0ExdlN5bGpLRksw?oc=5",
-    "title": "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는",
-    "summary": [
-      "앤트로픽에 삼성전자와 SK하이닉스가 발빠르게 투자한 이유는 이코노미트리뷴."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -145,17 +144,36 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n248fc719",
+    "id": "n71a254ee",
     "category": "경제",
-    "source": "마켓인",
+    "source": "뉴시스",
     "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTEMySTZHNHRyTUpaMEJXaUpSUVlJalZqUDdYVndqdUtFeklISm9rSzVLYUhQRzZobmI4T2pQZ0dtMnl2YjlNUV9XTFFHLVBzNVc0bGNBVUJTTGxJcTFsTmVxWUJzc3ZfaC12dmFaQjNfVWM?oc=5",
-    "title": "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망”",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
+    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
     "summary": [
-      "노무라증권 “원·달러 환율, 3분기까지 1500원대…연말엔 1470원 전망” 마켓인."
+      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
     ],
     "chips": [
+      "#부동산",
+      "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "summary": [
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -174,18 +192,20 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n32bf68e2",
-    "category": "경제",
-    "source": "v.daum.net",
+    "id": "nd0c82b8d",
+    "category": "사회",
+    "source": "대학IN",
     "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
-    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
     "summary": [
-      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
     ],
     "chips": [
-      "#금리",
-      "#환율"
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
     ]
   },
   {
@@ -201,6 +221,20 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "nb3bb73fa",
+    "category": "경제",
+    "source": "헤럴드경제",
+    "time": "26일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
+    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
+    "summary": [
+      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
+    ],
+    "chips": [
+      "#환율"
     ]
   },
   {
@@ -250,21 +284,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb04cef68",
-    "category": "사회",
-    "source": "경기일보",
-    "time": "132일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
-    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
-    "summary": [
-      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -277,21 +296,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
-    ]
-  },
-  {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "서울특별시",
-    "time": "237일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
-    "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -310,10 +314,183 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n821e47ac",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626003800002",
+    "title": "달러-원, 완만한 PCE에 숨고르기…1,543.10원 마감",
+    "summary": [
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 추가로 소폭 올랐다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "n662692cc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626002600071",
+    "title": "트럼프 상호관세 멈춰세운 美대법, 출생시민권 금지도 제동거나",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 출생시민권 금지 행정명령을 비롯한 도널드 트럼프 미 대통령의 중대 정책이 위법한지를 두고 연방대법원이 곧 ..."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9b2f0382",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684299",
+    "title": "유럽 전역 덮친 기록적 폭염…이탈리아 최소 5명 사망(종합)",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 유럽 대륙이 기록적인 폭염에 휩싸이며 인명 피해가 잇따르고 있다.",
+      "북아프리카에서 유입된 뜨거운 공기가 대기 상층에 정체되는 현상이 지속되면서 이탈리아를 비롯한 남유럽 전역에서 사망 사례와 건강 피해가 급증하고 있다.",
+      "25일(현지 시간) 아나돌루 에이전시에 따르면 이탈리아에서는 지난 23일부터 이어진 폭염으로 최소 5명이 숨졌다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ne20f3ab6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260626/134186086/1",
+    "title": "한·인도 외교장관회담…“北과 소통에 건설적 역할 기대”",
+    "summary": [
+      "조현 외교부 장관은 24일 공식 방한 중인 수브라마냠 자이샨카르 인도 외교장관과 회담을 갖고 양자 현안과 지역 및 국제정세 등에 대해 협의했다.조 장관은 2024년 외교장관공동위 이후 2년 만에 방한한 자이샨카르 외교장관을 환영했다.",
+      "지난 4월 이재명 대통령이 한국 대통령으로는 8년 만에 인도를 국빈 방문해 양국 관계를 지금과는 완전히 다른 차원으로 발전시켜 나가기로 한 합의를 토대로, 현재 양국 정부가 외교부를 중심으로 경제, 사회, 문화 등."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ncce620d6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625165351082",
+    "title": "폴란드서 우크라 재건회의…젤렌스키는 역사갈등에 불참(종합)",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 우크라이나 재건을 돕기 위한 국제회의가 25일(현지시간) 폴란드에서 열렸다.",
+      "서방 각국은 대출과 무기 공급..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1d7407c6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260626/134186081/1",
+    "title": "美中수장들 친분 맺은 金총리…여의도 돌아가도 ‘정당 외교’",
+    "summary": [
+      "김민석 국무총리가 중국을 방문해 한중 관계 발전의 가교 역할을 하는 등 외교 역량을 발휘한 가운데 여의도로 자리를 옮겨서도 관련 역할을 이어갈 계획이다.김 총리는 지난 24일 중국 랴오닝성 다롄 그랜드하얏트호텔에서 동행기자단과 간담회를 갖고 “미국과 중국 양쪽에 총리직을 마치고 정당 외교에서 역할을 해야겠다고 생각하고 있다”라고 밝혔다.김 총리는 올해 들어 미국 2회, 중국 1회 등 주요국을 방문해 ‘총리급 정상외교’를 하고, 스위스 등을 찾아."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf01ebcdf",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/06/26/MGA6UTOBK5HO5LWES3CBKM6JMQ/",
+    "title": "[30화] “영웅들이 썩고 있네 그려!”",
+    "summary": [
+      "[30화] “영웅들이 썩고 있네 그려!”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc9dddd18",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/26/6VE6BECQCBGCXDLEBR2VEGFIYI/",
+    "title": "현금 쌓아 놓고도 회사채 발행… ‘승자독식’ 공포가 만든 진풍경",
+    "summary": [
+      "현금 쌓아 놓고도 회사채 발행… ‘승자독식’ 공포가 만든 진풍경."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n30fae8c3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/economy/science/2026/06/26/NDXXQI66B5BBTCXZGNP2DKIPIQ/",
+    "title": "얼마나 어려우면 “빌어먹을 입자”… ‘신의 입자’를 가장 먼저 예언한 물리학자",
+    "summary": [
+      "얼마나 어려우면 “빌어먹을 입자”… ‘신의 입자’를 가장 먼저 예언한 물리학자."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n30d4ada3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/culture-life/2026/06/26/ECIL34326NGPDM7NFF4K7SKS34/",
+    "title": "‘한국의 폼페이’ 회암사지… ‘세계유산’ 예약",
+    "summary": [
+      "‘한국의 폼페이’ 회암사지… ‘세계유산’ 예약."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee94747c",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "40분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260626/134186078/1",
+    "title": "외교2차관, 美국무부 경제차관 면담…“조선 협력 진전 위해 필요한 제도 개선”",
+    "summary": [
+      "김진아 외교부 2차관은 24일(현지시간) 미국 워싱턴 D.C.에서 제이콥 헬버그 미 국무부 경제차관을 면담하고 조선 분야 한미 협력 진전을 위해 필요한 제도 개선 방안을 지속 협의하기로 했다고 외교부가 25일 밝혔다.외교부에 따르면 제2차 팍스 실리카 서밋(Pax Silica Summit) 참석차 방미 중인 김 차관은 헬버그 차관과 AI 공급망 안정화 등 팍스 실리카 서밋 주요 의제와 양자 경제협력 관련 의견을 교환했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n0780c618",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626003000087",
+    "title": "베네수엘라 강진 확인된 사망자 188명으로 늘어",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 24일(현지시간) 발생한 베네수엘라 강진으로 인한 사망자 수가 최소 188명으로 늘었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n8bbb212b",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "46분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152910",
     "title": "AI 대전환 청사진 내놓은 한성숙 국무총리 후보자, '모두의 창업' 논란엔 \"죄송\"",
     "summary": [
@@ -328,54 +505,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2632085a",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626002500091",
-    "title": "애플, 메모리 대란에 결국 맥·아이패드 가격 줄인상",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 세계적인 메모리 품귀가 이어지면서 애플도 결국 제품 가격 인상을 단행했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndccb40d1",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/26/2026062602221858015",
-    "title": "\"찌질한 게 아니라 애라서\" 이호선, 아내 분리불안 남편에 '일침'",
-    "summary": [
-      "'이혼 숙려 캠프' 큰아들 부부 남편의 분리불안 원인이 어린 시절 남겨짐의 트라우마에서 비롯됐다는 분석이 나왔다.",
-      "이호선 교수는 아내의 여행을 반대하는 남편의 행동을 두고 '불안'을 분석했고 동시에 드론과 캠핑카에 집착하는 모습 역시 충족되지 못한 어린 시절의 보상 심리라고 짚었다.",
-      "24일 방영된 JTBC '이혼 숙려 캠프' 90회에서는 큰아들 부부의 개인 심리 상담이 진행됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n364f589e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626002700087",
-    "title": "IMF, 베네수엘라 강진 피해 모니터링…\"정부 측과 긴밀 협력\"",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 국제통화기금(IMF)은 베네수엘라 연쇄 강진과 관련, 현지 상황을 예의주시하고 있으며 재난 복구 지원을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n36c3d74a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260625_0003683978",
     "title": "\"벤치 없는데도 편하네?\"…SNS서 화제된 중국 공원",
     "summary": [
@@ -391,7 +524,7 @@ window.NEWS_DB = [
     "id": "n9db6c590",
     "category": "IT",
     "source": "테크M",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152909",
     "title": "퀄컴, 데이터센터 공략 본격화...CPU 'C1000' 첫 고객사 '메타' 확보",
     "summary": [
@@ -407,7 +540,7 @@ window.NEWS_DB = [
     "id": "nb21ecaec",
     "category": "IT",
     "source": "테크M",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152908",
     "title": "[카드뉴스] AI 냉장고는 잊어라.. 삼성이 꺼낸 다음 승부수는 '미래형 AI 주택'이다",
     "summary": [
@@ -421,55 +554,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncee6b567",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/26/GQ2GIM3DMJTDSNTCGY4DMZLCMI/",
-    "title": "대한민국의 눈물! A조 2위 놓친 韓, 32강전 갈 수 있나…태극전사 베이스캠프 복귀→'무한' 기다림의 시간",
-    "summary": [
-      "[과달루페(멕시코)=스포츠조선 김가을 기자]아무것도 정해진 것은 없다.",
-      "이대로 집에 갈 수도, 월드컵 여정을 이어갈 수도 있다.",
-      "다만, 일단은 '무한대기'다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8571dce5",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/26/DNE3VAPZDNAEFJJST3OENWBYBA/",
-    "title": "선거 앞두고 악재 된 고물가…걱정에 빠진 트럼프·공화당",
-    "summary": [
-      "선거 앞두고 악재 된 고물가…걱정에 빠진 트럼프·공화당."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8127cfa0",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/26/GZTDIYZUGI2GENJZMIYTEZJRMY/",
-    "title": "페라자 역시 무리였나, 스위치 히터도 포기했는데…전력질주하다 왼 무릎 또 탈 났다 [오!쎈 대전]",
-    "summary": [
-      "[OSEN=대전, 조은혜 기자] 프로야구 한화 이글스 요나단 페라자가 왼쪽 무릎 통증을 느끼고 결국 경기 도중 교체됐다.김경문 감독이 이끄는 한화는 25일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 두산 베어스와의 홈경기에서 3-5로 석패했다.",
-      "이날 페라자는 2번타자 겸 우익수로 선발 출전했으나 5회밖에 경기를 소화하지 못했다.페라자는."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "na39e00e9",
     "category": "사회",
     "source": "뉴시스",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260626_0003684297",
     "title": "밴스 \"이란 혁명수비대-미 중부사령부 직통 채널 구축 합의\"",
     "summary": [
@@ -481,42 +569,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na4598c42",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "32분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/06/26/2026062513163928741",
-    "title": "회계투명성 순위가 의미하는 것[MT시평/김범준]",
-    "summary": [
-      "지난 18일 스위스 국제경영개발대학원(IMD)이 발표한 2026년 회계투명성 평가에서 한국은 70개국 중에서 55위를 기록했다.",
-      "지난해 60위에서 5단계 상승했지만 여전히 하위권을 벗어나지 못하고 있다.",
-      "회계투명성은 기업의 경영자를 대상으로 '감사 및 회계 관행'에 대한 설문조사를 통해 현장의 의견을 평가한다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n0be65916",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "32분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/26/2026062602064337451",
-    "title": "\"아내 없으면 불안\" 남편, 父 폭력·이혼 트라우마 고백하며 '눈물'",
-    "summary": [
-      "'이혼 숙려 캠프' 큰아들 부부의 남편이 고등학교 시절 부모의 이혼과 아버지의 폭력으로 혼자 숨어 살았던 아픔을 고백하자 이호선 교수가 남편의 가족 트라우마를 지적했다.",
-      "24일 방영된 JTBC '이혼 숙려 캠프' 90회에서는 큰아들 부부의 개인 심리 상담이 진행됐다.",
-      "이날 남편은 상담실에서 \"아내에게 많이 의존하고 있다는 걸 느낀다\"며 \"아내 의존증을 고치고 싶다\"고 털어놨다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
     "id": "n09be0883",
     "category": "IT",
     "source": "테크M",
-    "time": "43분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152902",
     "title": "[가봤다] 밀리의서재가 만든 \"독서와 친해지는 집\"...'전자책·오디오북·자체IP'로 문턱 낮춘다",
     "summary": [
@@ -529,69 +585,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9bc38356",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "43분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/26/2026062520263775581",
-    "title": "박지성 '일침' 바라본 日 팬들, 함께 탄식했다... \"韓, 예전 일본대표팀 보는 것 같아\", \"다음 월드컵도 위험\"",
-    "summary": [
-      "박지성(45) JTBC 해설위원의 비판에 일본도 큰 관심을 보였다.",
-      "일본 '풋볼채널'은 25일 \"한국 레전드 박지성이 팀의 경기력에 엄격한 일침을 가했다\"고 보도했다.",
-      "홍명보 감독이 이끄는 한국 축구대표팀은 이날 멕시코 누에보레온주 과달루페의 몬테레이 스타디움에서 열린 남아공과 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 A조 최종 3차전에서 0-1로 패했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7968c459",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "48분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626002100087",
-    "title": "물자 부족 베네수엘라…삽·수레·맨손으로 구조 사투",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국을 비롯한 서구의 오랜 제재로 극심한 물자난을 겪어온 베네수엘라 주민들과 구조대원들이 밤을 새워 구..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3e4d70c5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "51분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/26/GNRWIMRSHFRDIYZYGY4TAOJZGI/",
-    "title": "오만 “호르무즈 통행료 없다”…이란과 통행료 공동 검토 하루 만에 엇박자",
-    "summary": [
-      "호르무즈 해협 연안국인 오만이 향후 해협을 통과하는 선박에 어떠한 통행료도 부과하지 않겠다는 입장을 밝혔다.",
-      "바드르 알부사이디 오만 외무장관은 25일(현지 시각) 바레인 수도 마나마에서 마르코 루비오 미 국무장관과 걸프 지역 외무장관들이 참석한 회의에서 “해협과 관련한 향후 조치에 통행료를 부과하는 일은 절대 포함되지 않을 것”이라고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd4471405",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626001800072",
-    "title": "차기총장 후보들 처음 한자리…유엔본부서도 제주 토론 중계",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 차기 유엔 사무총장 후보들이 처음으로 한자리에 모여 정책 경쟁을 벌인 토론회가 미국 뉴욕 유엔본부에서도 중계..."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
     "id": "na03e0999",
     "category": "IT",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260625_0003683688",
     "title": "우주 데이터센터는 전력주 악재일까…\"2030년까지 영향 제한적\"",
     "summary": [
@@ -601,22 +598,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "n1760c0b9",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003683906",
-    "title": "\"지금은 반도체뿐\"…전문가가 경고한 하반기 증시 '변수'",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 이지윤 인턴기자 = 마이크론의 호실적 발표로 글로벌 반도체주 강세 기대감이 커지는 가운데, 반도체 중심 장세가 이어지고 있지만 하반기에는 수급 변화 가능성을 점검해야 한다는 분석이 나왔다.",
-      "25일 유튜브 채널 ‘삼프로TV’의 ‘7월 이후에도 반도체가 정답일까?’ 영상에 출연한 박병창 MP파트너스 대표는 \"하반기 가장 큰 우려는 금리 인상\"이라면서도 \"그렇다고 하더라도 더더욱 반도체뿐인 장세\"라고 말했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#금리"
     ]
   },
   {
@@ -632,6 +613,20 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
+  },
+  {
+    "id": "nb31d72ad",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/202606258839i",
+    "title": "\"AI 버블 아니나 조정 위험…이렇게 투자하라\" 베테랑 펀드매니저의 조언 [김현석의 퀵브리프]",
+    "summary": [
+      "\"AI 버블 아니나 조정 위험…이렇게 투자하라\" 베테랑 펀드매니저의 조언 [김현석의 퀵브리프]."
+    ],
+    "chips": [
+      "#AI"
+    ]
   }
 ];
 
@@ -646,12 +641,12 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "부동산",
     "mentions": "1420건",
     "trend": "+115%"
   }
