@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-25 13:41:19
+// 마지막 업데이트: 2026-06-25 14:56:43
 window.NEWS_DB = [
   {
     "id": "n5beb325a",
     "category": "IT",
     "source": "한겨레",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSDNBZWxOYXBMcmxiNVlnMlFMNEh2SVNaRFZtT2JGRThvTTQwT1RtUGlwRUdZc1VuZl93b0FUYlhvTkJTM3BoakZidWhxa0lvNUxEQlJJSEE1QzAzYTBOSg?oc=5",
     "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’공개…엔비디아 의존도 낮춘다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n8908d258",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnM9IBYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnMw?oc=5",
     "title": "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검'",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "n4961c442",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aaktNZ3VBellFcmtGV3lWRW05czA3eWVIXzVsTEFEOUJuMFZSVWNBMTdqZVJDSERWc3N0MWIzd1p3dzBaODRYN3VxbGlKRm9Senl3N3RaYmtqdw?oc=5",
     "title": "오픈AI, 자체 칩 '할라페뇨' 공개…\"엔비디아·구글 칩과 대등한 성능\"",
     "summary": [
@@ -88,20 +88,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n78705fb2",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWnNlNmVCQ1gxZWZCTURNaXRQY1JGdWR6OVltQWZSa2xGeEwza3ZXNXRsQWJ1Tk96X0wxMlgtc2FpUm04YVhpRDhqY29hSlN1RE9Na1pHeEtyN3ZiYzg1b0NQY1JwU2RtazlQLQ?oc=5",
-    "title": "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국'",
-    "summary": [
-      "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국' 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n64dc67f5",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -110,6 +96,20 @@ window.NEWS_DB = [
     "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
     "summary": [
       "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n6f660c1e",
+    "category": "IT",
+    "source": "전라매일",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
+    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
+    "summary": [
+      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
     ],
     "chips": [
       "#스타트업"
@@ -175,21 +175,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6fd56a9c",
-    "category": "사회",
-    "source": "시사캐스트",
-    "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
-    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
-    "summary": [
-      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
     "id": "n31acb708",
     "category": "사회",
     "source": "아주경제",
@@ -219,6 +204,23 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "nd0c82b8d",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
     ]
   },
   {
@@ -378,262 +380,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n39ee75a6",
-    "category": "IT",
+    "id": "n7d3c5a0f",
+    "category": "사회",
     "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684285",
-    "title": "[속보]뉴욕증시, 반도체 실적 호조에 상승 출발…나스닥 0.6%↑",
-    "summary": [],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "na326a21c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/25/GYZTOMJTMY4GIYRQGU4TQNRTGQ/",
-    "title": "'임신 24주' 김승혜, 56kg→65kg 증가 \"갈비뼈보다 커진 D라인\"[순간포착]",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684293",
+    "title": "유엔 \"베네수엘라 강진에 국제사회 구조팀 신속파견 조율\"",
     "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] '김승혜' 개그우먼 김승혜가 임신으로 겪는 몸의 변화를 밝혔다.25일 김승혜 유튜브에서는 '임신 24주차, 몸이 이렇게까지 변한다고요? 임신 후 신체 변화, 육아템 나눔'이란 영상이 공개됐다.",
-      "김승헤는 어느덧 24주 차에 접어든 임신 소식을 알리며 \"20주 차부터 배가 눈에 띄게 불."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 24일(현지 시간) 베네수엘라에서 두차례 강진이 발생해 현재까지 최소 164명이 숨지고 1000명 가까운 부상자가 발생한 가운데, 유엔이 신속한 국제사회 구조 지원을 조율 중이라고 밝혔다.",
+      "톰 플레처 유엔 인도주의·긴급구호 사무차장은 25일 유엔 인도주의업무조정국(OCHA) 홈페이지를 통해 발표한 성명에서 \"전날 베네수엘라를 강타한 치명적이고 파괴적인 지진 사태에 베네수엘라 국민들의 지원하기 위해 전력을 다하."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3266caef",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/education/2026/06/25/X3JREBOYIRH3RJUQPKCII22UHA/",
-    "title": "정근식 “교권 침해에 교육청이 ‘보험사’ 역할 하도록 법 개정 추진”",
-    "summary": [
-      "정근식 “교권 침해에 교육청이 ‘보험사’ 역할 하도록 법 개정 추진”."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n0fc29b13",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/25/2026062522260477907",
-    "title": "\"방송인이 마약·난교 파티\" 유튜버 구제역, 명예훼손 2심서 '감형'",
-    "summary": [
-      "방송인, 유튜버, 인터넷 방송인(BJ)들의 명예를 훼손한 혐의를 받는 유튜버 구제역(34·본명 이준희)이 항소심에서 감형받았다.",
-      "25일 뉴스1·뉴시스에 따르면 수원지법 제7형사부(부장판사 이미주)는 이날 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 혐의로 기소된 이씨에게 징역 1년과 벌금 1000만원을 선고했다.",
-      "이씨는 2019년부터 2024년까지 자기 유튜브 채널에 해군 대위 출신 유튜버 이근 전 대위를 비롯해 다수의 방송."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2d70e36a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684249",
-    "title": "홍명보호 극적 32강, 당장 내일 확정되는 경우의 수는?[월드컵24시]",
-    "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 홍명보 감독이 이끄는 한국 남자 축구 대표팀이 남아프리카공화국전 충격 패에도 불구하고 극적으로 2026 국제축구연맹(FIFA) 북중미 월드컵 토너먼트에 진출할 수 있을지 관심이다.",
-      "홍명보호는 25일(한국 시간) 멕시코 누에보레온주 과달루페의 몬테레이 스타디움에서 열린 남아프리카공화국과의 조별리그 A조 3차전에서 0-1로 졌다.",
-      "무승부만 거뒀어도 자력으로 조 2위 토너먼트 진출을 이뤄낼 수 있었으나, 패배하면서 3."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6fe7a397",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026062522333604092",
-    "title": "권순기 경남교육감 당선인, 정책 구체화 나서 … 19개 직속기관 업무보고 청취",
-    "summary": [
-      "권순기 경남교육감 당선인과 교육감직 인수위원회가 향후 경남교육 정책 방향을 구체화하기 위해 머리를 맞댔다.",
-      "권 당선인과 교육감직 인수위는 25일 도 교육청 교육정보원 3층 회의실에서 직속 기관 주요 업무보고를 받고 경남교육 현황 전반을 점검하는 등 교육비전 구체화에 나섰다.",
-      "보고에는 교육연수원, 미래교육원, 과학교육원 등 9개 교육원과 경남수학문화관, 학생안전체험원, 교육정보원, 기록원, 종합복지관, 창원도서관."
-    ],
-    "chips": [
-      "#정책",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n31bfd03d",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/economy/2026/06/25/2026062522253068821",
-    "title": "영국, 철강 관세 25→50% 인상…산업부 \"피해 최소화 총력 대응\"",
-    "summary": [
-      "영국이 다음달부터 철강 수입품에 대한 관세를 기존 25%에서 50%로 인상하고 무관세 물량도 절반으로 줄인다.",
-      "정부는 철강 수출업체들의 피해를 최소화하기 위해 영국 정부와 지속적으로 협의한다는 계획이다.",
-      "25일 산업통상부에 따르면 이날 영국 정부는 기존 철강 세이프가드(긴급수입제한) 조치를 대체하는 신철강 조치 최종 계획을 발표하고 다음달 1일부터 시행할 계획이다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n2f5ac981",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684265",
-    "title": "미 5월 민간소비, 실질 0.3% 뚜렷한 증가세…PCE 근원 인플레 3.4%",
-    "summary": [
-      "[서울=뉴시스] 김재영 기자 = 미국에서 민간 소비 규모가 5월에 전 달에 비해 인플레 감안 실질 통계로 0.3% 증가했다고 25일 미 상무부가 발표했다.",
-      "직전 4월에는 실질 증가율이 0.0%였다.",
-      "또 5월의 명목 증가율은 0.7%로 4월의 0.4%에서 거의 배증했다.."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbafecacc",
+    "id": "nd5607a26",
     "category": "사회",
     "source": "연합뉴스",
     "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625172300007",
-    "title": "'천적' NC 토다, 롯데 8연승 저지…삼성도 LG 6연승 제동",
+    "url": "https://www.yna.co.kr/view/AKR20260625157351079",
+    "title": "미 당국자 \"이스라엘군 레바논서 일부 철수\"…이스라엘은 부인(종합)",
     "summary": [
-      "(서울=연합뉴스) 장현구 기자 = NC 다이노스가 롯데 자이언츠의 '천적'으로 떠오른 토다 나쓰키의 역투와 선발 전원 안타를 발판 삼아 4연패에..."
+      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘군이 레바논 남부에 구축했던 완충지대 일부에서 병력을 철수했다고 로이터 통신이 미 국무부 당국자를 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8acce20f",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003682722",
-    "title": "좌파는 '메시' vs 우파는 '호날두'…정치성향 따라 축구 스타 선호도 달라져",
+    "id": "n9770aa5c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625173700085",
+    "title": "유럽 학교 폭염 직격탄…교사 수업 중 쓰러지고 파업 요구도",
     "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 리오넬 메시(아르헨티나)와 크리스티아누 호날두(포르투갈)의 선호도 차이가 개인의 정치 성향과도 관련이 있다는 연구 결과가 나왔다.",
-      "최근 싱가포르 난양기술대를 중심으로 한 연구진은 개인이 메시와 호날두를 향해 갖는 선호도 차이가 정치 성향과 맞물려서 나타날 수 있다고 밝혔다.",
-      "메시와 호날두는 2000년대 중반부터 약 20년 동안 축구계를 대표하는 라이벌로 꼽혔다."
+      "(런던=연합뉴스) 김지연 특파원 = 유럽을 강타한 기록적인 폭염으로 학교에서 교사가 수업 중 쓰러지는 등 교육 현장 환경이 악화하자 교사들이 파..."
+    ],
+    "chips": [
+      "#교육",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n6149366b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625174400087",
+    "title": "\"30차례 여진에 건물 또 무너질까 봐 잠 한숨 못 잤어요\"",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = \"집이 무너질까 무서웠어요.",
+      "엄마, 딸 그리고 저는, 추웠지만 지진 이후에 집에 들어갈 수 없었어요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc22cdf52",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/opinion/specialist_column/2026/06/25/6WABAMSBN5D6TJ7KLY3FYEDBS4/",
+    "title": "[유광종의 漢字로 보는 중국] [25] 백성을 ‘물’로 본 공산당 위기",
+    "summary": [
+      "[유광종의 漢字로 보는 중국] [25] 백성을 ‘물’로 본 공산당 위기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf41e6175",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/opinion/dongseonambuk/2026/06/26/JHE5JIFHERE23M67G52EOMLBTI/",
+    "title": "[동서남북] 계란은 왜 날이 갈수록 비싸지는가",
+    "summary": [
+      "[동서남북] 계란은 왜 날이 갈수록 비싸지는가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda17681a",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://view.asiae.co.kr/article/2026062523351361667",
+    "title": "[뉴욕증시]다우 최고치 경신…애플 가격 인상에 나스닥 ↓",
+    "summary": [
+      "25일(현지시간) 미국의 3대 지수는 혼조세를 보이고 있다.",
+      "다우지수는 사상 최고치를 경신했지만, 나스닥은 애플 광고 부진으로 하락 중이다.",
+      "뉴욕증권거래소(NYSE)에서 오전 9시 15분 현재 다우존스30산업평균지수(다우지수)는 전 거래일보다 718.20포인트(1.39%) 상승한 5만1257.10을 가리키고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd574edc9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260625/134185923/1",
+    "title": "BTS 뷔 모델료 가맹점에 분담한 컴포즈커피…“74억 중 30억은 점주 몫”",
+    "summary": [
+      "저가 커피 브랜드 컴포즈커피 가맹본부가 방탄소년단(BTS) 멤버 뷔와의 광고 모델 재계약을 추진하면서 광고 모델료 중 40%가량을 가맹점주들에게 부담하는 방안을 제안해 논란이 되고 있다.",
+      "25일 관련 업계에 따르면 컴포즈커피 가맹본부는 다음달부터 1년간 그룹 BTS 멤버 뷔와의 광고 모델비 73억5000만 중 40%(29억4000만 원)를 가맹점주에게 부담하도록 했다.",
+      "이 안이 확정되면 컴포즈커피 가맹점주들은 매장당 월 8만9760원(부가세 별."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nd59f536d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260625/134185528/2",
+    "title": "[사설]與도 野도 이제 당 대표가 왜 필요한지 自問할 때 됐다",
+    "summary": [
+      "더불어민주당과 국민의힘에서 당권을 둘러싼 갈등이 격화되고 있다.",
+      "민주당은 정청래 전 대표가 지방선거 결과에 책임을 지라는 당내 요구에도 연임을 시도하고, 정 전 대표와 노선을 달리하는 김민석 국무총리와 송영길 의원이 당권 경쟁에 뛰어들면서 정면충돌 양상으로 흐르고 있다.",
+      "국민의힘은 장동혁 대표가 선거 패배 자체를 인정하지 않은 채 당내에서 빗발치는 사퇴 요구를 거부하면서 내홍이 걷잡을 수 없이 확산되고 있다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nf9abe40f",
-    "category": "사회",
+    "id": "naa1603da",
+    "category": "경제",
     "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625079852001",
-    "title": "'장군멍군' 보완수사권 신경전…金 \"폐지\"·鄭 \"시간끌기용\"(종합2보)",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625173500082",
+    "title": "ECB 실세 \"중동 분쟁 안심 일러\"…추가 금리인상 시사",
     "summary": [
-      "(서울=연합뉴스) 서혜림 정연솔 기자 = 더불어민주당 정청래 전 대표가 8·17 전당대회를 앞두고 연임 도전 수순에 들어가면서 잠재적인 차기 당..."
+      "(베를린=연합뉴스) 김계연 특파원 = 이자벨 슈나벨 유럽중앙은행(ECB) 집행이사는 25일(현지시간) 미국과 이란의 종전 양해각서(MOU) 체결..."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "ne97b4e41",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260625/134185532/2",
+    "title": "[사설]김민석 “보완수사권 폐지”… 왜 갑자기 태도 바꿨나",
+    "summary": [
+      "김민석 국무총리가 25일 “검사의 보완수사권 폐지를 정부의 기본 입장으로 최종 정리했다”고 밝혔다.",
+      "김 총리는 “국회의 자유로운 논의를 위해 별도의 정부안을 제출하지 않는 것이 더 효율적”이라고도 했다.",
+      "김 총리는 사흘 전까지만 해도 “숙의하라는 것이 대통령의 일관된 입장”이라고 했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n50664f19",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260625/134185530/2",
+    "title": "[사설]수도권-충청-호남 반도체 벨트 확장… 電-人-水가 관건",
+    "summary": [
+      "삼성전자와 SK하이닉스가 수도권에 집중된 첨단 반도체 공장을 충청과 호남으로 확대하는 방안을 추진하고 있다.",
+      "국가 균형 발전이 시급한 정부와 인공지능(AI) 시대를 맞아 선제적으로 설비를 투자하려는 기업이 행동에 나선 것이다.",
+      "하지만 기업이 마음 놓고 투자할 환경이 마련되지 않으면 성공을 기약하기 어렵다는 점을 잊지 말아야 한다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nc4deb119",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "33분 전",
+    "url": "https://view.asiae.co.kr/article/2026062523230051173",
+    "title": "조현 \"한반도 또 다른 화약고 돼선 안돼…남북·미중 평화공존 중요\"",
+    "summary": [
+      "조현 외교부 장관이 한반도의 긴장 완화와 비핵화에 대한 이재명 정부의 확고한 의지를 재확인하면서 남북한과 미중 간 평화적 공존을 유지하는 것이 무엇보다 중요하다고 강조했다.",
+      "또 중국·일본과의 협력 강화를 통해 동북아 지역의 진영 대립 심화를 막겠다고 밝혔다.",
+      "조 장관은 25일 제주 해비치호텔에서 열린 제21회 제주포럼 공식만찬에서 \"남북 간, 혹은 미중 간의 평화적 공존이 적절한 메커니즘을 통해 유지될 수만 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbfe6d884",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260625172200530",
-    "title": "자가 면역세포 활용 임상연구·치료환자 접근성 높인다",
-    "summary": [
-      "(서울=연합뉴스) 고유선 기자 = 보건복지부는 25일 첨단재생의료 및 첨단바이오의약품 심의위원회 의결을 거쳐 자연살해세포(NK세포) 등 자가 면..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf45388e4",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260612159361007",
-    "title": "[프로야구] 26일 선발투수",
-    "summary": [
-      "[프로야구] 26일 선발투수."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n7640ff91",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://view.asiae.co.kr/article/2026062521471553351",
-    "title": "\"나 같아도 안 떠나\"…'신입 월450만원' SK하이닉스, 자발적 이직률 0.5%",
-    "summary": [
-      "지난해 SK하이닉스 직원의 전체 이직률이 1%에도 못 미친 것으로 나타났다.",
-      "자발적 이직률은 0.5%에 그쳤고, 신입사원 초임은 월 450만5000원으로 집계됐다.",
-      "25일 SK하이닉스가 공개한 지속가능경영보고서에 따르면 지난해 국내 사업장 기준 전체 이직률은 0.9%에 불과했다."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nbaeae9f0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/25/2026062515492919036",
-    "title": "'7안타→4안타→18안타 폭발' 삼성 타선 마침내 터졌다! LG에 13-6 완파... 타격 1위 KT 만난다 [잠실 현장리뷰]",
-    "summary": [
-      "빈타에 시달리던 삼성 라이온즈가 홈으로 돌아가기 전 방망이를 화끈하게 달궜다.",
-      "삼성은 25일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 리그 정규시즌 방문경기에서 LG 트윈스를 13-6으로 제압했다.",
-      "이로써 3연패 스윕을 면한 삼성은 41승 2무 30패로 3위를 유지했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n7eb7947e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/25/2026062521533398717",
-    "title": "'손흥민 벤치' 당일 통보받은 선수들…손흥민 \"못 도와줘 미안\"",
-    "summary": [
-      "홍명보호가 남아프리카공화국(남아공)에 충격패를 당한 가운데 수문장 김승규가 '캡틴' 손흥민의 선발 제외를 경기 당일 미팅에서야 알게 됐다고 밝혔다.",
-      "홍명보 감독이 이끄는 대한민국 축구 대표팀은 25일(한국 시간) 멕시코 몬테레이 스타디움에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 A조 최종전에서 남아프리카공화국에 0-1로 패했다.",
-      "무승부만 거둬도 자력으로 32강 진출이 가능했던 한국은 조 3위로 밀려 다른 조 결과를 기다려."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "na5ca9a44",
+    "id": "n04f82784",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026062522160685690",
-    "title": "영국, 철강 수입규제 대폭 강화…TRQ 절반 축소·초과관세 50%",
+    "source": "한국경제",
+    "time": "44분 전",
+    "url": "https://www.hankyung.com/article/2026062588387",
+    "title": "공공장소 금연 시행했더니…심혈관질환 사망률 감소 효과",
     "summary": [
-      "영국이 다음 달부터 철강 수입규제를 대폭 강화한다.",
-      "기존 세이프가드 조치를 폐지하는 대신 대상 품목을 늘리고 무관세 수입 물량은 절반 가까이 줄이는 한편, 쿼터를 초과하는 물량에는 50%의 고율 관세를 부과한다.",
-      "우리 정부는 세계무역기구(WTO) 협의 등을 통해 우리 철강업계의 시장 접근권 확보에 나설 방침이다."
+      "공공장소 금연 시행했더니…심혈관질환 사망률 감소 효과."
     ],
     "chips": [
-      "#정책",
-      "#수출"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n617d3ba2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/25/ALSPXQBPPBF3BCJJNT6LCDCEVA/",
+    "title": "일본도 규모 7.2 지진... 산리쿠 해역, 잦은 지진에 주민 불안 확산",
+    "summary": [
+      "일본도 규모 7.2 지진... 산리쿠 해역, 잦은 지진에 주민 불안 확산."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na02170a2",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "54분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684288",
+    "title": "뉴욕증시, 마이크론 실적 호조에 상승 출발…나스닥 1%↑",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 25일(현지 시간) 미국 증시 3대 지수가 상승 출발했다.",
+      "마이크론 테크놀로지의 실적 발표와 5월 개인소비지출(PCE) 물가지수 발표가 동시에 영향을 미쳤다.",
+      "CNBC에 따르면 S&P500 지수는 0.8%, 기술주 중심의 나스닥 지수도 1% 상승했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb4341694",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "55분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003684282",
+    "title": "美상원 공화당, 트럼프 대면질책에 전쟁권한 제한 지지 번복",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 상원 공화당이 도널드 트럼프 미국 대통령의 이란 전쟁 권한을 제한하는 결의안을 통과시킨지 하루 만에 유사한 결의안을 부결시켰다.",
+      "전쟁권한 제한 결의안에 대한 지지를 번복한 것인데, 트럼프 대통령 질책에 고개를 숙인 모습이다.",
+      "25일(현지 시간) AP통신과 CNN 등에 따르면 미 상원은 전날 밤 트럼프 대통령 전쟁권한 제한 결의안에 대한 표결을 진행해 찬성 47표 반대 50표 기권 1표로 부결했다."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -643,20 +646,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "부동산",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
