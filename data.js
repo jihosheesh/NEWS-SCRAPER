@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-25 15:52:23
+// 마지막 업데이트: 2026-06-25 16:44:37
 window.NEWS_DB = [
   {
     "id": "n5beb325a",
     "category": "IT",
     "source": "한겨레",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSDNBZWxOYXBMcmxiNVlnMlFMNEh2SVNaRFZtT2JGRThvTTQwT1RtUGlwRUdZc1VuZl93b0FUYlhvTkJTM3BoakZidWhxa0lvNUxEQlJJSEE1QzAzYTBOSg?oc=5",
     "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’공개…엔비디아 의존도 낮춘다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n8908d258",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnM9IBYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnMw?oc=5",
     "title": "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검'",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "n4961c442",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aaktNZ3VBellFcmtGV3lWRW05czA3eWVIXzVsTEFEOUJuMFZSVWNBMTdqZVJDSERWc3N0MWIzd1p3dzBaODRYN3VxbGlKRm9Senl3N3RaYmtqdw?oc=5",
     "title": "오픈AI, 자체 칩 '할라페뇨' 공개…\"엔비디아·구글 칩과 대등한 성능\"",
     "summary": [
@@ -380,66 +380,193 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb44092ca",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/06/26/WGH2IESNXFAUXAJ43DHGDXFU74/",
-    "title": "자본시장 선진화 외치더니… ‘관치 투자’ 역주행 논란",
-    "summary": [
-      "자본시장 선진화 외치더니… ‘관치 투자’ 역주행 논란."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5fec5f42",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/06/26/3F7ZHJT555GTPGUL7RIZSSNIDQ/",
-    "title": "“영남 역차별” “광주 몰빵 안 돼”… 호남 반도체 놓고 전국이 갈등",
-    "summary": [
-      "“영남 역차별” “광주 몰빵 안 돼”… 호남 반도체 놓고 전국이 갈등."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nfd39ee46",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/06/26/44KFQPS6ENFE5KMNND4IA4MONQ/",
-    "title": "구미 “반도체 부지 평당 1000원”",
-    "summary": [
-      "구미 “반도체 부지 평당 1000원”."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nff660bf5",
-    "category": "사회",
+    "id": "nc8f6fe90",
+    "category": "스포츠",
     "source": "조선일보",
     "time": "4분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/06/26/3XVOBAFLJFGOBOVEP5OH6LOSIE/",
-    "title": "김민석·정청래 나란히 ‘與 텃밭’ 전북으로",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/26/GBTGMN3DG5TGKNRZGRRTQODBGI/",
+    "title": "박준현-안우진-알칸타라, 전부 KIA 강타선에 당했다…너무 치명적인 키움 9연패, 탈출 희망 있을까",
     "summary": [
-      "김민석·정청래 나란히 ‘與 텃밭’ 전북으로."
+      "[OSEN=고척, 길준영 기자] 프로야구 키움 히어로즈가 가장 믿을 수 있는 선발투수 3인방이 출격한 주중 3연전에서 충격적인 시리즈 스윕패를 당했다.",
+      "자칫 연패가 걷잡을 수 없이 길어질 위기에 처했다.",
+      "키움은 25일 서울 고척스카이돔에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ KIA 타이거즈와의 경기에서 4-9로 패했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n551c5e70",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/25/MMZTIYZTMJSWKMZSGU2GKYRQGE/",
+    "title": "후라도 계탄 날, 삼성타선 집단슬럼프 털고 대폭발, 디아즈 5타점, 구자욱 4안타...LG 5연승 마감[잠실리뷰]",
+    "summary": [
+      "[잠실=스포츠조선 정현석 기자]삼성 라이온즈가 모처럼 터진 타선의 힘으로 싹쓸이 패를 막았다.",
+      "삼성은 25일 잠실야구장에서 열린 LG 트윈스와의 시즌 8차전에서 선발 후라도의 역투 속 화끈하게 터진 타선의 힘으로 13대6으로 승리하며 2패 후 1승으로 1위 LG와의 주중 시리즈를 마쳤다.",
+      "2연패로 밀렸던 LG와의 상대전적을 4승4패로 다시 균형을 맞췄다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4365e0d4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626001700072",
+    "title": "'미투 촉발' 하비 와인스틴 성폭행 혐의 추가기소 안하기로",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = '미투'(Me too·나도 고발한다) 운동 확산을 촉발한 미국 영화 제작자 하비 와인스틴(74·복역중)의 남..."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n54e7810e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/26/GIYWCYJUGI2DSOLFHEYWGZJQHA/",
+    "title": "\"나 뭐해야해? 지혁이한테 급히 물었다\" 호떡집에 불난 2547 최다경기 기록보유자, 왜 장승현이 아니었을까",
+    "summary": [
+      "[잠실=스포츠조선 정현석 기자]삼성 라이온즈가 화끈한 타격 쇼를 선보이며 연패 사슬을 끊어냈다.",
+      "삼성은 25일 잠실구장에서 열린 LG 트윈스와의 맞대결에서 18안타 10개의 4사구를 묶어 13대6 대승을 거뒀다.",
+      "앞선 2경기를 모두 내주며 침체됐던 팀 분위기는 이번 대승으로 단숨에 반전됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na03e0999",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003683688",
+    "title": "우주 데이터센터는 전력주 악재일까…\"2030년까지 영향 제한적\"",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 이지윤 인턴기자 = 스페이스X 최고경영자(CEO) 일론 머스크가 추진하는 우주 인공지능(AI) 데이터센터 구상이 새로운 투자 변수로 떠오르고 있다.",
+      "일각에서는 데이터센터가 우주로 이전할 경우 전력 인프라 관련 기업들이 타격을 받을 수 있다는 우려도 제기된다.",
+      "다만 전문가들은 우주 데이터센터의 상용화까지는 상당한 시간이 필요한 만큼, AI 데이터센터 확산에 따른 전력기기와 에너지저장장치(ESS) 수요는 당분간 이어질."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nbd8292e9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/26/GNSDGZRQGMYDANDGGI2DMYLFMI/",
+    "title": "이재, 현실판 ‘케이팝 데몬 헌터스’ 비주얼…파격 핫핑크 올인원",
+    "summary": [
+      "[OSEN=김수형 기자] 가수 겸 작곡가 이재가 독보적인 비주얼로 시선을 사로잡았다.이재는 최근 자신의 SNS를 통해 근황이 담긴 여러 장의 사진을 공개했다.공개된 사진 속 이재는 강렬한 핫핑크 컬러의 전신 의상을 입고 포즈를 취하고 있다.",
+      "몸에 밀착되는 실루엣과 과감한 스타일링, 여기에 특유의 카리스마 있는 눈빛까지 더해지며 마치 한 편의 화보 같은 분."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n68ec382a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625166251079",
+    "title": "오만 외무 \"호르무즈 해협 통행료 부과 없을 것\"(종합)",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협 연안국인 오만이 향후 해협 통과 선박에 어떤 통행료도 부과되지 않을 것이라는 입장을 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1760c0b9",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003683906",
+    "title": "\"지금은 반도체뿐\"…전문가가 경고한 하반기 증시 '변수'",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 이지윤 인턴기자 = 마이크론의 호실적 발표로 글로벌 반도체주 강세 기대감이 커지는 가운데, 반도체 중심 장세가 이어지고 있지만 하반기에는 수급 변화 가능성을 점검해야 한다는 분석이 나왔다.",
+      "25일 유튜브 채널 ‘삼프로TV’의 ‘7월 이후에도 반도체가 정답일까?’ 영상에 출연한 박병창 MP파트너스 대표는 \"하반기 가장 큰 우려는 금리 인상\"이라면서도 \"그렇다고 하더라도 더더욱 반도체뿐인 장세\"라고 말했다."
+    ],
+    "chips": [
+      "#반도체",
+      "#금리"
+    ]
+  },
+  {
+    "id": "nf81c1004",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684295",
+    "title": "러 외무부 \"韓, 대북 제재 중단하고 행동으로 입증하라\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 러시아 외무부가 25일(현지 시간) 한국의 대북 제재 정책을 공개적으로 비판하며 정책 전환을 촉구했다.",
+      "타스 통신에 따르면 러시아 외무부는 안드레이 루덴코 러시아 외무차관이 이날 이석배 주러시아대사를 면담한 뒤, 한국의 대북 정책과 관련한 입장을 담은 성명을 발표했다고 밝혔다.",
+      "루덴코 차관은 \"조선민주주의인민공화국(DPRK) 접경지 인근에서 계속되는 한국과 미국의 대결적 군사 활동은 한반도뿐만 아니라 역내 전체의."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n2cdc46c2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626001500071",
+    "title": "美대법, 임시보호지위 이민자 추방 허용…WP \"130만명 대상\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 연방대법원이 도널드 트럼프 행정부에 임시보호지위 이민자 수십만명을 추방할 수 있는 길을 열어줬다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n88b7a58b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626001400108",
+    "title": "러, 자국 주재 루마니아총영사관 폐쇄 '맞불'…드론 갈등 계속",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 루마니아가 러시아제 무인항공기(드론)에 피해를 봤다며 자국 주재 러시아 총영사관을 폐쇄하자 러시아도 같은..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7039808b",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003683541",
+    "title": "\"치매 엄마 돌본다더니\"…통장에서 1억 넘게 빼간 큰오빠에 분노",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 치매 어머니를 돌본다며 함께 살기 시작한 큰아들이 수년간 어머니 예금에서 1억원이 넘는 돈을 빼간 데 이어, 어머니 명의 아파트 처분까지 시도하고 있다는 사연이 전해졌다.",
+      "25일 방송된 YTN 라디오 '조인섭 변호사의 상담소'에는 50대 여성 A씨의 사연이 소개됐다.",
+      "A씨는 \"78세 친정어머니가 2년 전 치매 진단을 받았고, 최근에는 혼자 은행 업무조차 보기 어려울 정도로 상태가 나빠졌다\"고 말했다."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
     "id": "n0c0ff8ba",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "6분 전",
+    "time": "59분 전",
     "url": "https://www.yna.co.kr/view/AKR20260626000900072",
     "title": "美JP모건, 다이먼 후임 CEO 승계작업 본격화…2인 경쟁구도",
     "summary": [
@@ -450,24 +577,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n126db8f1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626000800071",
-    "title": "美동아태차관보 \"전작권 조건, 가능한한 빨리 충족되도록 집중\"",
+    "id": "nb31d72ad",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202606258839i",
+    "title": "\"AI 버블 아니나 조정 위험…이렇게 투자하라\" 베테랑 펀드매니저의 조언 [김현석의 퀵브리프]",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 마이클 디솜브리 미국 국무부 동아시아·태평양 담당 차관보는 25일(현지시간) 전시작전통제권(OPCON) 전..."
+      "\"AI 버블 아니나 조정 위험…이렇게 투자하라\" 베테랑 펀드매니저의 조언 [김현석의 퀵브리프]."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
     "id": "n4e8635d9",
     "category": "IT",
-    "source": "한국경제",
-    "time": "20분 전",
+    "source": "한경IT",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026062588251",
     "title": "SKT, 하이닉스 美 AI 투자법인 4년간 7400억 출자",
     "summary": [
@@ -481,7 +608,7 @@ window.NEWS_DB = [
     "id": "n70d7371b",
     "category": "부동산",
     "source": "동아일보",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260625/134184566/2",
     "title": "주담대 6억 규제에도… 아파트값 10% 넘게 올랐다",
     "summary": [
@@ -498,7 +625,7 @@ window.NEWS_DB = [
     "id": "n56ecdf3d",
     "category": "경제",
     "source": "동아일보",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260625/134184580/2",
     "title": "반도체 등 제조업 호조에도 전체 기업 체감경기는 꺾여",
     "summary": [
@@ -511,132 +638,6 @@ window.NEWS_DB = [
       "#한은",
       "#환율"
     ]
-  },
-  {
-    "id": "n74ff8f0b",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260625/134184582/2",
-    "title": "삼성전자, 1분기 D램 1위 수성… 하이닉스와 격차 9%P로 벌려",
-    "summary": [
-      "삼성전자가 1분기(1∼3월) D램 시장 점유율 1위 자리를 지키며 SK하이닉스와의 격차를 더 벌렸다.",
-      "반면 SK하이닉스는 고대역폭메모리(HBM) 시장에서 1위를 유지했다.",
-      "25일 시장조사업체 카운터포인트리서치에 따르면 1분기 매출 기준 D램 시장 점유율은 삼성전자가 38%로 1위, SK하이닉스가 29%로 2위였다."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n02382c6d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260625/134184552/2",
-    "title": "“기금형 퇴직연금, 수익률 경쟁 유도하되 과잉 마케팅 감독해야”",
-    "summary": [
-      "제48회 동아 모닝포럼이 ‘퇴직연금, 기금형 도입 방안 및 과제’를 주제로 25일 서울 중구 을지로 롯데호텔에서 열렸다.",
-      "동아일보와 채널A가 주최한 이날 포럼은 ‘기금형’ 퇴직연금 제도 도입이 현실화되고 있는 것을 계기로 마련됐다.",
-      "퇴직연금이 도입된 지 21년이 됐지만 퇴직연금 수익률은 낮은 수준이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2bbe2684",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003682718",
-    "title": "\"단일 종목 2배 레버리지는 개미 무덤…진짜 고수는 폭락한 실적주에 눈독\"",
-    "summary": [
-      "[서울=뉴시스]정우영 인턴 기자 = 최근 국내 증시가 폭락과 반등을 반복하는 가운데, '단일 종목 2배 레버리지 ETF'가 시장 폭락을 부추기는 주범이자 증시 왜곡의 원인이라는 지적이 나왔다.",
-      "24일 방송인 출신 표영호는 구독자 85만명을 보유한 유튜브 채널 '표영호 tv'에서 출시 한 달 만에 15조원의 자금이 몰린 '단일 종목 2배 레버리지 ETF(상장지수펀드)'를 시장 왜곡의 주범으로 지목했다.",
-      "개인 비중이 92%에 달하는 이 상품이 높은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n489a82b2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626000200109",
-    "title": "교황, 강진 피해 베네수엘라에 1억7천만원 지원",
-    "summary": [
-      "(바티칸=연합뉴스) 민경락 특파원 = 레오 14세 교황이 강진으로 큰 피해를 본 베네수엘라에 10만 유로(약 1억7천만원)를 지원했다고 현지 안..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nec56263f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "37분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003683815",
-    "title": "\"죽기 전에 사과라도 받고 싶습니다\"…공소시효에 막힌 친족 성폭행 피해자의 호소",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 60대 여성 A씨가 어린 시절 친오빠에게 성추행을 당한 뒤 수십 년간 트라우마에 시달려 왔다며 뒤늦게 사연을 털어놨다.",
-      "25일 방송된 JTBC '사건반장'에 따르면, 60대 여성 A씨는 어린 시절 친오빠에게 성추행 피해를 당한 기억을 50년 넘게 가슴에 묻어두고 살아왔다고 털어놨다.",
-      "A씨는 최근 건강이 악화하면서 \"죽기 전에 사과라도 받고 싶다\"는 마음으로 방송에 제보를 보냈다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "na42a8ac3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "43분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626000400072",
-    "title": "베네수 적십자 \"지진 피해 파악 초기단계…여진위험 지속\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 베네수엘라 적십자사는 25일(현지시간) 지진 피해에 따른 평가가 아직 초기 단계에 머물러 있으며 인명 피해 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne6d31b30",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "47분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003683097",
-    "title": "\"산모 배려 부족\" vs \"과한 참견\"…둘째 얻은 오타니, 뜻밖의 '연년생 논란'",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 일본 야구계의 스타 오타니 쇼헤이(LA 다저스)가 둘째 아이 출산 소식을 알린 가운데, '연년생' 출산을 두고 논쟁이 벌어졌다.",
-      "지난 22일 일본 오리콘뉴스는 오타니가 지난 20일 인스타그램을 통해 둘째 아이 출산 소식을 밝힌 후 일각에서 비판적인 의견이 나왔다고 보도했다.",
-      "오타니는 2024년 2월 농구선수 출신 다나카 마미코와 결혼했고, 지난해 4월 첫째 딸이 태어났다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n995073ad",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "47분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003683247",
-    "title": "\"일주일에 4번 먹는다\"…류혜영이 푹 빠진 다이어트 메뉴",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 배우 류혜영이 회덮밥을 즐겨 먹는 식단을 공개해 눈길을 끌고 있다.",
-      "최근 방송된 MBC '나 혼자 산다'에서 류혜영은 운동을 마친 뒤 회를 주문해 식사하는 모습을 공개했다.",
-      "그는 \"운동을 했으니까 단백질을 채워야 된다는 강박이 들어서 회를 시켰다\"고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -644,19 +645,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "부동산",
     "mentions": "1680건",
     "trend": "+155%"
   }
