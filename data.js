@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-26 01:40:46
+// 마지막 업데이트: 2026-06-26 03:02:39
 window.NEWS_DB = [
+  {
+    "id": "ne24acaef",
+    "category": "사회",
+    "source": "네이트",
+    "time": "49분 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Pa05rVkxPRGRmellYMDQyZG9iUHpjaEp6dHRCc19Lb0FQRmZTVExINUw0YVptV2dIZV9oX3h4eUJ2emxNMktLZmEzcEhTLUE1dHI4?oc=5",
+    "title": "김천시, '일자리 스마트매칭 취업박람회' 성황…18명 현장 취업 성공",
+    "summary": [
+      "김천시, '일자리 스마트매칭 취업박람회' 성황…18명 현장 취업 성공 네이트."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
   {
     "id": "nc48b08b9",
     "category": "IT",
     "source": "시사저널e",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
     "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
     "summary": [
@@ -20,7 +35,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -34,14 +49,29 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ncbbe7f43",
+    "category": "경제",
+    "source": "아시아투데이",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93ejBUVklzbFFyWFZyMXlWeVpjcVF3bUN4dDB2OHpxdHlsZGQtbUtvOVV6SzZyYnpJUWMwVEo4V2s5eEY2b1ltMkh4MHhDcnE5ZjF6VklUM083bEhQTUxuZG1aU2NBV0RQaTNZQlpn?oc=5",
+    "title": "[사설] 1550선 다가선 환율… 금리 인상 失期 말아야",
+    "summary": [
+      "[사설] 1550선 다가선 환율… 금리 인상 失期 말아야 아시아투데이."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
     "id": "n5beb325a",
     "category": "IT",
     "source": "한겨레",
-    "time": "19시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSDNBZWxOYXBMcmxiNVlnMlFMNEh2SVNaRFZtT2JGRThvTTQwT1RtUGlwRUdZc1VuZl93b0FUYlhvTkJTM3BoakZidWhxa0lvNUxEQlJJSEE1QzAzYTBOSg?oc=5",
-    "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’공개…엔비디아 의존도 낮춘다",
+    "title": "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’ 공개…엔비디아 의존도 낮춘다",
     "summary": [
-      "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’공개…엔비디아 의존도 낮춘다 한겨레."
+      "오픈AI, 첫 AI 추론용 칩 ‘할라페뇨’ 공개…엔비디아 의존도 낮춘다 한겨레."
     ],
     "chips": [
       "#AI",
@@ -52,7 +82,7 @@ window.NEWS_DB = [
     "id": "n8908d258",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnM9IBYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnMw?oc=5",
     "title": "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검'",
     "summary": [
@@ -66,7 +96,7 @@ window.NEWS_DB = [
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -109,11 +139,25 @@ window.NEWS_DB = [
     "id": "nde229885",
     "category": "IT",
     "source": "한국보험신문",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
     "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
     "summary": [
       "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장” 한국보험신문."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n78705fb2",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWnNlNmVCQ1gxZWZCTURNaXRQY1JGdWR6OVltQWZSa2xGeEwza3ZXNXRsQWJ1Tk96X0wxMlgtc2FpUm04YVhpRDhqY29hSlN1RE9Na1pHeEtyN3ZiYzg1b0NQY1JwU2RtazlQLQ?oc=5",
+    "title": "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국'",
+    "summary": [
+      "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국' 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -149,20 +193,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f660c1e",
-    "category": "IT",
-    "source": "전라매일",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
-    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
-    "summary": [
-      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n5ace0115",
     "category": "스포츠",
     "source": "네이트",
@@ -188,22 +218,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
-    ]
-  },
-  {
-    "id": "n71a254ee",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
-    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
-    "summary": [
-      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
-    ],
-    "chips": [
-      "#부동산",
-      "#금리",
-      "#환율"
     ]
   },
   {
@@ -241,16 +255,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3bb73fa",
+    "id": "n32bf68e2",
     "category": "경제",
-    "source": "헤럴드경제",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
+    "source": "v.daum.net",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
     "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
     ],
     "chips": [
+      "#금리",
       "#환율"
     ]
   },
@@ -267,22 +282,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "127일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -316,6 +315,54 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nca65c782",
+    "category": "부동산",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152920",
+    "title": "\"장충체육관이 들썩인다\"...배틀그라운드 국가대항전 'PNC 2026' 서울서 격돌",
+    "summary": [
+      "크래프톤이 배틀그라운드로 치러지는 e스포츠 국가대항전인 '펍지 네이션스 컵(PNC) 2026 인 서울' 그랜드 파이널이 시작됩니다.",
+      "26일부터 오는 28일까지 사흘간 서울 장충체육관에서 펼쳐지며, 전세계 16개국 대표팀이 세계 최강이라는 타이틀을 놓고 치열한 승부를 펼칠 예정입니다.",
+      "이번 대회에서는 K팝 아티스트들의 축하 공연과 스트리트 패션 브랜드와의 협업 굿즈, 온-오프라인 참여형 이벤트를 결합해 관심을 모으고 있습니다."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "n4006801a",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152921",
+    "title": "중소 알뜰폰 사업자 대상 전파사용료 감면 확대...50%→90%",
+    "summary": [
+      "정부가 중소 알뜰폰 사업자들의 저렴한 요금제 출시를 지원하기 위해 전파사용료 감면율을 대폭 확대한다.",
+      "현재 50%였던 할인율이 90%로 크게 늘린다.",
+      "다만 통신사 자회사 등 대기업 계열 알뜰폰 사업자는 감면에서 제외된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n572ec5f5",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152919",
+    "title": "카카오뱅크, '인뱅 최초' 캐피탈 진출…예적금·대출 너머 종합금융 플랫폼으로",
+    "summary": [
+      "카카오뱅크가 캐피탈업에 신규 진출한다.",
+      "국내 인터넷전문은행 가운데 캐피탈사 라이선스를 확보하는 첫 사례로, 예·적금과 대출 중심으로 운영돼온 인뱅 사업 모델이 비은행 여신 영역으로 본격 확장되는 분기점이라는 평가다.",
+      "9년차에 접어든 인뱅이 '은행 단일 라이선스'라는 구조적 한계를 처음으로 넘어서는 행보라는 분석이 나온다카카오뱅크는 지난 25일 마스턴캐피탈 지분 100% 인수를 추진한다고 공시했다."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
     "id": "n4a17dbdb",
     "category": "IT",
     "source": "테크M",
@@ -331,313 +378,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n90c40146",
+    "id": "n54eba8f2",
     "category": "경제",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152916",
-    "title": "웹3 판 흔드는 라인 넥스트, 스테이블코인 결제 인프라 '유니파이 페이' 3Q 출격",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026062610465324631",
+    "title": "5월 주담대 금리 4.32%로 상승…고정·변동差 0.21%P",
     "summary": [
-      "라인야후의 웹3 자회사 라인 넥스트가 스테이블코인 결제 인프라 '유니파이 페이(Unifi Pay)'를 올해 3분기 글로벌 정식 출시한다.",
-      "1년간의 시범 운영을 통해 안정성을 검증한 결과를 바탕으로 아시아 스테이블코인 시장의 단일 결제망 사업자로 자리매김하려는 행보로 풀이된다.라인 넥스트는 26일 유니파이 페이의 정식 출시를 앞두고 글로벌 개발사 사전 가입을 시작한다.",
-      "결제 통화로는 달러 스테이블코인 USDT, 엔화 스테이블코인 JPYC, 인도네."
+      "은행이 취급하는 주택담보대출(주담대) 금리가 평균 4.32%로 다시 상승했다.",
+      "고정형 주담대 금리가 오르고, 변동형 금리는 내리면서 상품간 격차는 0.21%포인트까지 벌어졌다.",
+      "한국은행이 26일 발표한 '2026년 6월 금융기관 가중평균금리'에 따르면 지난달 예금은행의 주담대 금리(신규취급액 기준)는 전월 대비 0.01%포인트 오른 연 4.32%로 집계됐다."
+    ],
+    "chips": [
+      "#금리",
+      "#한은"
+    ]
+  },
+  {
+    "id": "nf35500e3",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026062610274263133",
+    "title": "박홍근 \"성과중심 재정운용 정착\"…통합 재정사업 평가제도 개선 착수",
+    "summary": [
+      "박홍근 기획예산처 장관이 올해 처음 시행한 통합 재정사업 성과평가 제도의 개선 작업에 착수했다.",
+      "평가위원들의 현장 의견을 반영해 연내 성과관리 개선안을 마련하고, 성과 중심의 재정운용 체계를 정교화하겠다는 방침이다.",
+      "박 장관은 26일 서울 중구에서 재정사업 성과평가단과 오찬 간담회를 열고 통합 재정사업 성과평가 운영 과정에서 나타난 개선 과제를 논의했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf23fed83",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152915",
-    "title": "\"유니클로 필드 48배 채웠다\"…무신사 무진장, 11일 만에 2830억 판매 신기록",
-    "summary": [
-      "무신사가 상반기 최대 할인 행사인 '2026 무신사 무진장 여름 블랙프라이데이'에서 역대 최대 실적을 갈아치우며 국내 패션 플랫폼 영향력을 다시 한번 입증했다.",
-      "행사 기간 판매된 상품을 펼쳐 놓으면 축구장인 유니클로 필드 약 48배를 가득 채울 수 있는 규모다.26일 유통가에 따르면 무신사는 지난 14일부터 24일까지 약 11일간 진행한 '2026 무진장 여름 블랙프라이데이'의 총 판매액이 2830억원을 기록했다.",
-      "온라인 스토어 판매액만 265."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3839595b",
+    "id": "n81bb124e",
     "category": "경제",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152892",
-    "title": "[테크M 리포트] \"목표가 주당 50만원...코스피 제왕은 다르다\" 삼성전자, 재평가 국면의 시작",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026062610101191918",
+    "title": "5월 외화예금 15.7억달러↑…\"증권사 파생상품 거래증거금 유입\"",
     "summary": [
-      "증권가가 삼성전자 목표주가를 잇따라 50만원 이상으로 끌어올리고 있다.",
-      "메모리 가격 급등에 따른 실적 개선이 가시화되는 가운데, 미국 주식예탁증서(ADR) 상장 기대와 주주환원 확대 가능성, 파운드리 사업 회복 기대감까지 겹치며 본격적인 밸류에이션 재평가 국면에 진입했다는 분석이 나온다.KB증권은 지난 25일 삼성전자 목표주가를 기존보다 상향한 55만원으로 제시했다.",
-      "대신증권도 목표주가 56만원과 매수 의견을 유지하며 \"최근 주가 변동성 확대에."
+      "지난달 국내 거주자의 외화예금이 달러화와 기업 예금을 중심으로 15억7000만달러 늘며 두 달째 증가세를 나타냈다.",
+      "대기업의 경상대금 수취뿐 아니라 증권사의 파생상품 거래증거금 유입이 늘어난 결과다.",
+      "한국은행이 26일 발표한 '2026년 5월 중 거주자 외화예금 동향'에 따르면 지난달 말 기준 국내 외국환은행의 거주자외화예금은 1122억5000만달러로 전월 말 대비 15억7000만달러 증가했다."
     ],
     "chips": [
-      "#반도체",
-      "#삼성전자"
+      "#한은"
     ]
   },
   {
-    "id": "n5e32d777",
+    "id": "n1d84b855",
     "category": "IT",
     "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026062609123628233",
-    "title": "트럼프 행정부, 오픈AI 최신형 AI 모델도 '순차 공개' 요청",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026062609472995021",
+    "title": "정부, AI 보안위협에 중기 지원...\"7월부터 취약점 점검 신청\"",
     "summary": [
-      "트럼프 행정부가 오픈AI의 '고성능 인공지능(AI) 모델' 공개도 막아섰다.",
-      "국가 안보를 이유로 신뢰할 수 있는 곳부터 단계적으로 공개할 것을 요청한 것으로 알려졌다.",
-      "25일(현지시간) 블룸버그통신에 따르면 샘 올트먼 오픈AI 최고경영자(CEO)는 최근 직원들에게 미 정부가 GPT-5.6을 우선 신뢰할 수 있는 일부 파트너에게만 공개하고 이후 더 넓게 출시해달라고 요청했다고 밝혔다."
+      "인공지능(AI)을 악용한 사이버 공격이 고도화하는 가운데, 과학기술정보통신부가 중소기업의 보안 역량 강화에 나선다.과기정통부는 한국인터넷진흥원과 함께 'AI 기반 사이버위협에 대응하기 위한 민간 정보보호 추진계획'의 후속조치로 중소기업 보안 수준을 높이기 위한 지원을 추진한다고 26일 밝혔다.",
+      "과기정통부는 중소기업을 대상으로 AI 보안위협에 대응해 보안기초체력을 높일 수 있는 프로그램을 마련해 지원할 계획이다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n4fd3d23d",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026062610400262560",
-    "title": "서울에너지공사, IoT·AI 기반 ‘스마트 열수송관 안전관리’ 추진",
-    "summary": [
-      "서울에너지공사가 노후 열수송관 안전관리에 디지털 기술을 접목한 스마트 관리체계 구축에 나선다.",
-      "기존 현장·인력 중심 점검에서 데이터 기반 예방 중심 관리로 전환하겠다는 구상이다.서울에너지공사는 25일 지역난방안전 주식회사와 ‘스마트 열수송 운영 혁신 기술 개발’ 업무협약을 체결했다고 26일 밝혔다.",
-      "협약식에는 곽승신 집단에너지본부장과 박영진 대표이사가 참석했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n0d9a56ee",
+    "id": "na02d5497",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684851",
-    "title": "[속보]베네수엘라 보건장관 \"지진 사망자 235명으로 늘어\"",
-    "summary": [],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nddcea1d1",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026062607301810171",
-    "title": "보험계약대출 급증에 당국 '경고'…보험사들 한도 추가 축소 검토",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684698",
+    "title": "우연이, 가정사 고백…전남편 생활비 지원·장례식 상주까지",
     "summary": [
-      "지난달 금융당국이 제시한 보험계약대출(약관대출) 관리 목표를 초과한 보험사들이 대출 한도를 추가로 축소하는 방안을 검토하고 있다.",
-      "금융당국이 25일 관련 보험사들을 소집해 가계부채 관리계획을 차질 없이 이행해 달라고 당부한 데 따른 조치다.",
-      "26일 보험업계에 따르면 주요 생명보험사 5곳(삼성생명·한화생명·교보생명·신한라이프·NH농협생명)의 보험계약대출 잔액은 지난해 말 40조2150억원에서 올해 5월 41조2279억."
+      "[서울=뉴시스] 이종희 기자 = 가수 우연이가 23살 연상 남편과 이혼한 이후에도 생활비를 지원한 사연을 고백했다.",
+      "25일 방송된 MBN '특종세상'에서는 우연이가 출연해 가정사를 공개했다.",
+      "방송에서 우연이는 9살 때 가족이 미국으로 떠나면서 한국에 혼자 남겨졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n97b94d61",
+    "id": "na0cc22f3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684825",
-    "title": "노동부, SK하이닉스 등 '불소 누출' 반도체 업체 집중점검",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684939",
+    "title": "'오송참사 분향소 철거 항의' 민주노총 간부들, 2심 벌금형",
     "summary": [
-      "[서울=뉴시스]박정영 기자 = 고용노동부가 최근 불소 누출 사고가 잇따라 발생한 SK하이닉스 등 반도체 제조업 25곳에 대한 점검을 시작했다.",
-      "노동부는 SK하이닉스를 비롯한 반도체 제조업 25곳 대상 집중 점검에 착수했다고 26일 밝혔다.",
-      "반도체 제조업은 유해·위험 화학물질과 고압가스를 다량 취급하기 때문에, 화재·폭발·누출 등에 의해 대규모 인명피해가 발생할 수 있는 업종이다."
+      "[청주=뉴시스] 연현철 기자 = 오송참사 분향소 철거에 반발해 청주시청에서 불법 농성을 벌인 민주노총 간부들이 항소심에서 벌금형을 선고받았다.",
+      "26일 법조계에 따르면 청주지법 형사항소3부(부장판사 강성훈)는 최근 공용물건손상, 폭력행위 등 처벌에 관한 법률 위반(공동주거침입) 혐의로 기소된 민주노총 충북본부 간부이자 오송참사 시민대책위원회의 상임대표 A(48)씨와 공동집행위원장 B(56)씨에게 각각 벌금 500만원의 선고를 유예한 원심을 파기하."
     ],
     "chips": [
-      "#반도체",
-      "#SK하이닉스",
-      "#고용"
+      "#뉴스"
     ]
   },
   {
-    "id": "n1f1e23fb",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "1분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/26/ZOH3FU7VM5FBDOLV62J645W4KY/",
-    "title": "한미반도체, AI 시스템반도체용 ‘FC 본더 3.5’ 출시",
+    "id": "n12cf9edf",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684840",
+    "title": "5월 은행 주담대 금리 4.32%로 상승…한 달 만에 다시 반등",
     "summary": [
-      "한미반도체, AI 시스템반도체용 ‘FC 본더 3.5’ 출시."
+      "[서울=뉴시스]김래현 기자 = 은행 주택담보대출(주담대) 금리가 한 달 만에 다시 반등했다.",
+      "고정형 주담대 금리가 가파르게 오르면서 고정금리 비중은 59개월 만에 최저치를 기록했다.",
+      "26일 한국은행이 발표한 '5월 금융기관 가중평균금리'에 따르면 신규취급액 기준 가계대출금리는 4.46%로 전월(4.43%)보다 0.03%포인트 상승했다."
+    ],
+    "chips": [
+      "#금리",
+      "#한은"
+    ]
+  },
+  {
+    "id": "ndf77385b",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684640",
+    "title": "\"AI 해킹 위협에\"…정부, 중소기업 '약한 고리' 메운다",
+    "summary": [
+      "[서울=뉴시스]박은비 기자 = 정부가 고성능 인공지능(AI)을 활용한 보안 위협에 무방비 노출될 수 있는 중소기업의 취약점을 발견하고 예방하는 지원을 본격화한다.",
+      "과학기술정보통신부는 한국인터넷진흥원(KISA)과 함께 중소기업의 보안수준 향상을 위한 지원을 추진한다고 26일 밝혔다.",
+      "'AI 기반 사이버위협에 대응하기 위한 민간 정보보호 추진계획' 후속조치다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n7ef2a929",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/national/incident/2026/06/26/II47MRAV6NFAPJX5IWLD7EFJEA/",
+    "title": "울산 온산읍 공장서 토사 붕괴...50대 작업자 1명 심정지 이송",
+    "summary": [
+      "울산 온산읍 공장서 토사 붕괴...50대 작업자 1명 심정지 이송."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n26152230",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626078800004",
+    "title": "'계엄 비판자막 삭제' 이은우 전 KTV 원장 1심 징역형 집행유예",
+    "summary": [
+      "(서울=연합뉴스) 이승연 기자 = 12·3 비상계엄의 위헌·위법성을 지적하는 정치인 발언 방송자막을 삭제하도록 지시한 혐의로 재판에 넘겨진 이은..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2a603a41",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626079200002",
+    "title": "[인사] 국세청",
+    "summary": [
+      "[인사] 국세청."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd92c8e0a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/06/26/MY3GEOLDMJQTCNRTGE3TEMJRGM/",
+    "title": "마동석, 허성태, 이수지, 그리고 누구?..싸이 ‘흠뻑쇼’ 올해 오프닝 주인공 공개 ‘D-1’",
+    "summary": [
+      "[OSEN=김채연 기자] 싸이의 대표 여름 콘서트 ‘흠뻑쇼’가 하루 앞으로 다가온 가운데, 과연 올해 오프닝은 누가 장식하게 될지 기대를 모은다.‘싸이흠뻑쇼 SUMMERSWAG2026(썸머스웨그2026)’(이하 ‘싸이흠뻑쇼2026’)는 27일 의정부종합운동장 공연을 시작으로 화려한 막을 올린다.싸이는 매년 여름마다 열정적인 퍼포먼스를 중심으로 관객을 떼창을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec8f85b5",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626045451002",
+    "title": "정부, 여름 물가 총력대응…\"1조원 투입, 2%대로 낮추기 목표\"(종합)",
+    "summary": [
+      "(세종=연합뉴스) 송정은 기자 = 물가를 안정시키고 민생 부담을 덜도록 3천500억원 규모로 농축수산물 할인 행사를 추진한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na20614a5",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260626/134184239/1",
+    "title": "AI는 줄거리를 요약할 뿐, 차프스키가 될 수 없다",
+    "summary": [
+      "미국 아이비리그 대학들은 이미 입학사정에 인공지능(AI)을 활용한다.",
+      "2023년 미 온라인 교육매체 인텔리전트 조사에 따르면 대학 입학처의 56%가 AI를 도입했다.",
+      "이 가운데 87%는 최종 합격 여부를 판단하는 과정에도 AI를 활용한다고 답했다."
     ],
     "chips": [
       "#AI",
-      "#반도체"
+      "#채용",
+      "#교육"
     ]
   },
   {
-    "id": "nc3b94eda",
+    "id": "n5e151a59",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684834",
-    "title": "경남도립미술관, 상반기 관람객 9만명 돌파 '역대 최고'",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626078900009",
+    "title": "\"미국우파, 이란에 인식 변화…끔찍하다→강하고 똑똑하다\"",
     "summary": [
-      "[창원=뉴시스]홍정명 기자 = 경남도립미술관은 올해 상반기 관람객 9만명 돌파로 역대 최고 수준을 기록했다고 밝혔다.",
-      "이는 2021년부터 2025년까지 연평균 관람객 7만8000명을 크게 웃도는 수치다.",
-      "미술관 측은 오는 28일 종료를 앞둔 '국립현대미술관(MMCA) 이건희컬렉션: 피카소 도예' 특별전이 관람객 증가를 견인한 것으로 분석했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n56057b52",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684774",
-    "title": "장항준 \"김은희 작가 수입 넘어서…내 카드 줬다\"",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 장항준 감독이 '왕사남' 흥행 후 아내 김은희 작가에게 카드를 건넸다고 밝혔다.",
-      "26일 오후 10시 방송되는 KBS 2TV '옥탑방의 문제아들'에는 윤종신과 영화 '왕과 사는 남자'로 1680만 관객의 마음을 사로잡은 장항준 감독이 출연한다.",
-      "그동안 아내 김은희 작가의 카드를 사용해 온 것으로 알려졌던 장항준은 \"김은희 작가의 수입을 넘어선 지 좀 됐다\"고 고백했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc60f63a",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026062610390752404",
-    "title": "동국생명과학, 몽골 의료진 대상 학술 심포지엄 개최",
-    "summary": [
-      "조영제 전문 기업 동국생명과학은 5~6월 몽골 인터벤션 의료진을 대상으로 'TACE(경동맥 화학색전술) 온라인 심포지엄'을 성공적으로 개최했다고 26일 밝혔다.",
-      "심포지엄은 몽골 현지 의료진으로부터 아이오다이즈드 오일 제제인 패티오돌 활용과 관련해 TACE 시술 프로토콜 문의가 지속해서 접수되면서 마련됐다.",
-      "패티오돌은 간세포암 환자에서 시행되는 TCE 시술 시 사용되는 아이오다이즈드 오일 성분의 조영제로 약물 전달 및 색."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n1dbcc176",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/26/2026062610355057143",
-    "title": "홍장원 전 차장 종합특검 출석…\"특검이 국정원 내란 관여 예단\"",
-    "summary": [
-      "홍장원 전 국가정보원 1차장이 국정원의 계엄 가담 의혹 등을 수사하는 2차 종합특검팀(특별검사 권창영)의 소환 조사에 출석했다.",
-      "홍 전 차장은 26일 오전 9시22분쯤 경기 과천 특검팀 사무실에 도착해 취재진을 만나 \"특검이 국정원이 당일 불법 비상계엄과 내란에 관여돼 있다고 예단하는 것 같다\"고 밝혔다.",
-      "홍 전 차장은 또 \"핵심은 당시 정무직 회의에서 어떤 내용이 논의됐냐인데 저는 1년 반 동안 일관되게 대통령 지시를 다른."
+      "(서울=연합뉴스) 임화섭 기자 = 도널드 트럼프 미국 대통령이 이란과 임시 종전 양해각서(MOU)를 체결한 것을 계기로 최근 수십년간 극도로 부..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n7eb22df1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626054800001",
-    "title": "국힘 \"이기헌, 국회서 욕설해놓고 적반하장…고소시 맞고발\"",
+    "id": "n4dc07a16",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626078300008",
+    "title": "국고채 금리 대체로 상승…3년물 장중 연 3.757%",
     "summary": [
-      "(서울=연합뉴스) 노선웅 기자 = 국민의힘은 26일 더불어민주당 이기헌 의원이 국회에서 자당 의원에 욕설했다는 논평을 낸 자당 원내 대변인에 고..."
+      "(서울=연합뉴스) 26일 국고채 금리가 대체로 상승하고 있다."
     ],
     "chips": [
-      "#정치"
+      "#금리"
     ]
   },
   {
-    "id": "n17db00a8",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/26/2026062609585330641",
-    "title": "'세계 1~3위 연파' 서서아 10볼오픈 우승 원동력 \"국대 만들어주셔서 좋은 성적 내고 싶었다\"",
+    "id": "n33c1c889",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260626/134187477/1",
+    "title": "‘우주+림희영’-이정우, 프리 아르스 일렉트로니카 수상",
     "summary": [
-      "'포켓볼 간판' 서서아(24·인천시체육회)가 세계랭킹 1~3위를 연이어 꺾고 '까리뇨 세계여자10볼오픈' 정상에 오른 뒤 금의환향했다.",
-      "여자 포켓볼 국가대표 서서아는 25일 오전 인천국제공항 제1터미널을 통해 귀국한 뒤 열린 환대식 및 기자회견에서 \"작년 세계선수권 우승 이후 비교적 빠른 시기에 다시 세계대회 우승을 차지해 기분이 좋다\"며 우승 소감을 전했다.",
-      "이번 대회에서 서서아는 세계 랭킹 3위 크리스티나 트카흐(러시아), 2위 피아 필러(."
+      "미디어아트 예술가 ‘우주+림희영’과 이정우가 세계적인 미디어아트 시상식에서 영예상(Honorary Mention)을 수상했다.서울문화재단은 “22일 발표된 ‘프리 아르스 일렉트로니카 2026’에서 우주+림희영과 이정우가 각각 ‘인터랙티브 아트 플러스’ 부문과 ‘뉴 애니메이션 아트’ 부문에서 영예상을 받았다”고 26일 밝혔다.",
+      "두 수상팀은 지난해 재단의 융합예술지원사업에 선정돼 작품 창작을 지원받았다.프리 아르스 일렉트로니카는 오스트리아의 세계적."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nb686d928",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626061800060",
-    "title": "포천시, 직동저수지에 '흙향기 맨발길' 조성",
-    "summary": [
-      "(포천=연합뉴스) 우영식 기자 = 경기 포천시는 시민 건강 증진과 힐링 공간 제공을 위해 소흘읍 직동저수지 일원에 '흙향기 맨발길'을 조성했다고..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n1efcd68a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626056800057",
-    "title": "군립 울주병원, '개원 1년내 단기 흑자전환·자립경영' 목표",
-    "summary": [
-      "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 7월 중 개원 예정인 군립 울주병원이 '개원 1년 내 단기 흑자 전환'과 '자체 자립형 경영 실..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n14a20a3a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626058100055",
-    "title": "새벽 구급대원 도움으로 자택서 출산…실시간 의사와 영상 통화",
-    "summary": [
-      "(고창=연합뉴스) 나보배 기자 = 한밤중 출산이 임박한 임산부가 구급대원들의 도움으로 자택에서 무사히 출산했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4fa4190a",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/26/2026062610241529898",
-    "title": "이재명 대통령 지지율 51%, 취임 후 최저…부정평가 첫 40%대",
-    "summary": [
-      "[the300]한국갤럽 6월4주차…더불어민주당 41% vs 국민의힘 27% 이재명 대통령의 국정 지지율이 51%로 취임 후 최저치를 기록했다는 여론조사 결과가 26일 나왔다.",
-      "부정 평가는 처음으로 40%대를 넘겼고, 부정 평가 이유 1순위는 다시 경제·민생 문제로 나타났다.",
-      "여론조사업체 한국갤럽이 지난 23~25일 전국 만 18세 이상 1000명을 대상으로 이 대통령의 직무 수행 평가를 물은 결과, '잘하고 있다'는 긍정 평가는 직전 조사인 6."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n23c02c22",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/industry/2026/06/26/2026062517564330792",
-    "title": "AI순찰차부터 이동은행까지…기아, PV5로 '맞춤형 모빌리티' 생태계 키운다",
-    "summary": [
-      "기아가 목적기반차량(PBV) 모델 'PV5'의 신규 라인업과 산업 맞춤형 협업 모델을 대거 공개했다.",
-      "패밀리카와 업무용 차량부터 순찰차, 이동형 은행, 펫 팝업 스토어까지 활용 범위를 넓히며 맞춤형 모빌리티 생태계를 키우겠다는 전략이다.",
-      "기아는 26일 부산 해운대구 벡스코에서 열린 '2026 부산모빌리티쇼' 프레스데이 행사에서 PV5 신규 라인업 3종(△PV5 패신저 7인승 △PV5 프라임 △PV5 카고 하이루프)을 공개했다."
-    ],
-    "chips": [
-      "#AI"
     ]
   }
 ];
@@ -646,21 +642,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "금리",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
