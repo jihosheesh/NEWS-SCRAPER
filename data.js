@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-26 15:44:15
+// 마지막 업데이트: 2026-06-26 16:37:27
 window.NEWS_DB = [
   {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n2aad78a4",
     "category": "사회",
     "source": "스포츠동아",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nc48b08b9",
     "category": "IT",
     "source": "시사저널e",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
     "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -209,6 +209,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfd966927",
+    "category": "사회",
+    "source": "hkilbo.kr",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ERURCM1ltTExkWm1xRjJIeHhfUkFXWjdIRDdOTEVtaC1MTlpPSTB6YkZFdjBfSWdRQ0swNzBfTEl1bHAtdlE3UmdLdGk1V0l0MkNQRWg4TWhOcUpBSURaVnFwSk9udVE?oc=5",
+    "title": "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최",
+    "summary": [
+      "영월군, 찾아가는 채용데이 '영월 일자리 매칭 ON'개최 hkilbo.kr."
+    ],
+    "chips": [
+      "#채용",
+      "#고용"
+    ]
+  },
+  {
     "id": "n71a254ee",
     "category": "경제",
     "source": "뉴시스",
@@ -237,23 +252,6 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업"
-    ]
-  },
-  {
-    "id": "nd0c82b8d",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
     ]
   },
   {
@@ -332,148 +330,164 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncb875708",
+    "id": "n413b45ce",
     "category": "사회",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/27/O7DQLVPX7RET5LTPWDTKWBZFPI/",
-    "title": "32강 문이 닫혀간다",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685898",
+    "title": "트럼프 \"이란, 호르무즈 선박에 드론 공격…명백한 휴전 위반\"",
     "summary": [
-      "32강 문이 닫혀간다."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 26일(현지 시간) 이란이 호르무즈 해협을 지나는 선박들을 공격해 휴전 합의를 위반했다고 주장했다.",
+      "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 \"이란이 호르무즈 해협을 통과하던 선박들을 향해 최소 네차례 일방향 공격용 드론을 발사했다\"고 밝혔다.",
+      "이어 \"이 드론 중 하나는 크고 매우 비싼 화물선 상갑판에 정통으로 명중했다\"면서 \"피해가 발생했지만 해당 선박은 항해를 계속."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n50429437",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/27/2ELXBX5VPRBUBOVVB5F2DIKIRA/",
-    "title": "이해못할 충격패, 내부도 뒤숭숭",
-    "summary": [
-      "이해못할 충격패, 내부도 뒤숭숭."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na6a8d38d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/06/27/F6HQT7VZ2JDEBDP7HVPZF42Z6U/",
-    "title": "골든 부트의 저주?",
-    "summary": [
-      "골든 부트의 저주?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n634a3066",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/national/people/2026/06/27/YEXSG5OJB5H27DTDIYFS53KYQQ/",
-    "title": "“위기 때마다 이순신 ‘경청 리더십’서 해답 찾아”",
-    "summary": [
-      "“위기 때마다 이순신 ‘경청 리더십’서 해답 찾아”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e57dfc1",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627000500001",
-    "title": "유시민 \"지지층 증축 원해, 李대통령은 재건축…자신감 지나쳐\"",
-    "summary": [
-      "(서울=연합뉴스) 김남권 기자 = 범여권 논객인 유시민 작가는 26일 이재명 대통령이 포용·통합 기조를 강조하며 중도·보수 확장에 나선 것과 관..."
-    ],
-    "chips": [
-      "#재건축",
       "#정치"
     ]
   },
   {
-    "id": "n23d98a82",
-    "category": "부동산",
+    "id": "nff7a71fd",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684830",
-    "title": "\"매매·전세·월세 동반 상승장 당분간 지속\"…부동산 전문가가 본 집값 전망",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685899",
+    "title": "[속보]트럼프 \"디지털서비스세 시행 국가들에 100% 관세 부과\"",
     "summary": [
-      "[서울=뉴시스]김혜경 기자, 강건우 인턴기자 = 매매·전세·월세가 동시에 오르는 ‘3중 상승 압력’이 당분간 이어질 수 있다는 분석이 나왔다.",
-      "에스테이트클라우드 부동산연구소장인 심형석 미국 IAU(인터내셔널 아메리칸 대학교)교수는 지난 25일 구독자 271만 명의 유튜브 채널 '김작가TV'에 출연해 \"매매·전세·월세가 동시에 오르는 3중고가 당분간 이어질 것\"이라고 진단했다.",
-      "심 교수는 서울 성북·도봉 등 외곽 지역에서 전세 매물이 급감하면서."
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
     ],
     "chips": [
-      "#부동산",
-      "#전세",
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n5fdd1c62",
-    "category": "스포츠",
+    "id": "n7b6eae25",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627001900071",
+    "title": "[속보] 트럼프 \"디지털서비스세 도입국에 관세 100% 부과할것\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne5ab9ea3",
+    "category": "사회",
     "source": "연합뉴스",
     "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627000600082",
-    "title": "이대 로스쿨팀, 지식재산 모의법정 국제대회 준우승",
+    "url": "https://www.yna.co.kr/view/AKR20260627001800071",
+    "title": "트럼프 \"이란의 호르무즈 통과 선박 드론공격은 휴전 위반\"",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 이화여대 법학전문대학원 학생들이 지식재산권 법률 역량을 겨루는 국제대회에서 준우승했다."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 26일(현지시간) 이란이 호르무즈 해협 통과 선박에 공격용 드론을 발사한 것은..."
     ],
     "chips": [
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "n9199d5e3",
+    "id": "n687a71e3",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685892",
-    "title": "日 총리 \"인명 최우선 대응\"…후지산 인근 규모 5.6 지진",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/27/GRQWKNLCGY3WEOLCMJSTONRQHE/",
+    "title": "[속보] 트럼프 “이란, 호르무즈 통과 선박에 드론 발사… 휴전 위반”",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6fd3ecf",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627001700085",
+    "title": "이란 경고에도 호르무즈 통항 계속…IMO \"2천500명 무사히 철수\"",
     "summary": [
-      "[서울=뉴시스]박미선 기자 = 일본 후지산 인근 야마나시현에서 규모 5.6의 지진이 발생해 최대 진도 6약의 강한 흔들림이 관측됐다.",
-      "일본 정부는 즉시 비상 대응 체제에 돌입했으며 현재까지 인명 피해는 보고되지 않았다.",
-      "26일 NHK, 마이니치신문 등에 따르면 이날 오후 10시 29분께 야마나시현 동부·후지오호(후지 5호) 지역을 진원으로 하는 지진이 발생했다."
+      "(런던=연합뉴스) 김지연 특파원 = 이란의 경고와 화물선 피격에도 호르무즈 해협에서 선박 통항이 이어지고 있다고 AFP 통신이 26일(현지시간)..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4b2b14a2",
-    "category": "IT",
+    "id": "neca6e69e",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685474",
-    "title": "정진석 \"반도체 호남몰빵? 어느 충청인이 동의하나\"",
+    "time": "36분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003685338",
+    "title": "\"갑자기 살찌고 생리량 증가\"…혹시 내가 '이암'?[몸의경고]",
     "summary": [
-      "[서울=뉴시스]박윤서 인턴 기자 = 정진석 전 대통령 비서실장은 삼성전자와 SK하이닉스의 호남 반도체 투자에 대해 \"반도체 호남몰빵은 충청패싱을 넘어 충청무시 충청묵살에 지나지 않는다\"고 말했다.",
-      "26일 정 전 비서실장은 자신의 SNS에 이같이 말하며 \"이재명 정부가 삼성전자와 SK하이닉스의 제2반도체 클러스터를 호남에 몰빵하겠다는 저의를 드러내고 있다\"고 했다.",
-      "그는 \"반도체는 국가기간산업 중 하나를 넘어 미래핵심전략산업\"이라며 \"반도체 클러."
+      "[서울=뉴시스] 류난영 기자 = 30대 직장인 이모씨는 최근 갑자기 생리양이 갑자기 눈에 띄게 늘고 불규칙한 자궁 출혈이 반복됐지만 단순 생리불순으로 알고 대수롭지 않게 넘겼다.",
+      "몸무게가 갑자기 늘어난 것 외엔 크게 불편한 증상도 없었다.",
+      "혹시나 하는 마음에 병원을 찾은 이씨는 '자궁내막암' 진단을 받았다."
     ],
     "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스",
-      "#정치"
+      "#의료"
+    ]
+  },
+  {
+    "id": "n53cd2588",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/06/27/PNJELYJZFJHBJNOYX7I422TY4Y/",
+    "title": "‘숫자부터 내놓으라’ 앞뒤 바뀐 반도체 투자",
+    "summary": [
+      "‘숫자부터 내놓으라’ 앞뒤 바뀐 반도체 투자."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nd279a6ae",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/international/mideast-africa-latin/2026/06/27/HVDKYZ3QVNAWFJKAIZBBRFQD3M/",
+    "title": "굴착기 모자라 매몰자 맨손 구조… 베네수엘라 ‘잃어버린 30년’ 민낯",
+    "summary": [
+      "굴착기 모자라 매몰자 맨손 구조… 베네수엘라 ‘잃어버린 30년’ 민낯."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7225f8b4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/weekend/2026/06/27/FYZYTNN47JARZKSCEZIC7ELAPA/",
+    "title": "커피 맛에 홀려버린 뒤… ‘밤의 시드니’에 눈 뜨다",
+    "summary": [
+      "커피 맛에 홀려버린 뒤… ‘밤의 시드니’에 눈 뜨다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n313976ad",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026062610421",
+    "title": "\"김병기, 김경 만난 뒤 쇼핑백 들고와\"",
+    "summary": [
+      "\"김병기, 김경 만난 뒤 쇼핑백 들고와\"."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "nb193ea11",
     "category": "사회",
     "source": "동아일보",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260627/134192325/1",
     "title": "김유정, 포니테일에 드러난 ‘직각 어깨’…쇄골라인 눈길",
     "summary": [
@@ -489,7 +503,7 @@ window.NEWS_DB = [
     "id": "nd2c0bc06",
     "category": "사회",
     "source": "동아일보",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260627/134192322/1",
     "title": "이경실, 엔터사 대표와 불륜설에 오열…“완전 소설, 너무 억울했다”",
     "summary": [
@@ -501,26 +515,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nab3928a2",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684946",
-    "title": "'2주 동안 3만8840㎞'…인판티노 피파 회장의 부지런한 월드컵 투어",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 잔니 인판티노 국제축구연맹(FIFA) 회장이 월드컵 개막 후 2주 동안 왕성한 행보를 보였다.",
-      "지난 25일(현지시간) 미국 ESPN은 인판티노 회장이 2주 사이 2026 FIFA 북중미 월드컵 경기 현장을 방문하면서 총 3만8840㎞를 이동했다고 보도했다.",
-      "인판티노 회장은 당초 매일 두 경기를 관람할 계획이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb3ecb97d",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260627/134192317/1",
     "title": "김연아, 단발도 우아하다…“♥고우림과 결혼 후, 서로 배려”",
     "summary": [
@@ -535,7 +533,7 @@ window.NEWS_DB = [
     "id": "n5cf64676",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260627/134192314/1",
     "title": "성유리, 옥주현 옆 ‘메롱’ 익살…여전한 핑클 우정",
     "summary": [
@@ -548,39 +546,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncbfe584d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627000400085",
-    "title": "교황, 파리 샹젤리제 거리서 미사 집전한다",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 레오 14세 교황이 9월 25∼28일 프랑스 방문 기간에 파리 샹젤리제 거리에서 미사를 집전할 예정이라고 로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne5a02aab",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nae3358cd",
     "category": "경제",
     "source": "한국경제",
-    "time": "53분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202606269465i",
     "title": "나라가 작정하고 '왕따'시킨 男…쫓겨난 뒤 '역대 최고' 됐다 [성수영의 그때 그 사람들]",
     "summary": [
@@ -594,7 +563,7 @@ window.NEWS_DB = [
     "id": "n49dcd2f4",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062610577",
     "title": "'비상사태' 베네수엘라 \"지진 사망자 589명·부상 2980명으로 늘어\" [종합]",
     "summary": [
@@ -608,7 +577,7 @@ window.NEWS_DB = [
     "id": "na201f221",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062610391",
     "title": "폭스바겐, 獨 공장 4곳 폐쇄…최대 10만명 구조조정 추진",
     "summary": [
@@ -619,17 +588,35 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9dd80271",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026062610487",
-    "title": "트럼프, 북한 관련 '국가비상사태' 조치 1년 더 연장",
+    "id": "n0f7b94fc",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "2시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260626231003",
+    "title": "세인트 데이비드 메디컬 센터 산하 텍사스 심장 부정맥 연구소, 복합 심장 부정맥 국제 콘퍼런스 개최",
     "summary": [
-      "트럼프, 북한 관련 '국가비상사태' 조치 1년 더 연장."
+      "[지디넷코리아] EPLive 2026, 전 세계 정상급 심장 전기생리학 전문가 1600명 참가 오스틴, 텍사스, 2026년 6월 26일 /PRNewswire/ -- 세인트 데이비드 메디컬 센터(St.",
+      "David's Medical Center) 산하 텍사스 심장 부정맥 연구소(Texas Cardiac Arrhythmia Institute, TCAI)가 2026년 5월 28~29일 복합 부정맥에 관한 제8회 국제 심포지엄을 개최했다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n17d5f537",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3시간 전",
+    "url": "https://view.asiae.co.kr/article/2026062622114428258",
+    "title": "민족음악 전문가 영남대 박소현 교수, 한국국악교육학회 회장 선출",
+    "summary": [
+      "영남대학교 음악학부 국악전공 박소현 교수가 한국국악교육학회 제9대 회장에 선출된 것으로 26일 알려졌다.",
+      "지난 13일 열린 학회 임시총회에서 박소현 교수가 학회장으로 선출됐고 전임 서승미 회장은 국립국악원 원장에 임명됐다.제9대 회장으로 선출된 박소현 교수는 한국의 대표적인 음악학자이자 민족음악 전문가다.",
+      "동북아 민속·문화·예술 분야의 탁월한 연구 성과를 인정받아 몽골 정부 최고 권위의 '북극성 훈장'과 '나이."
+    ],
+    "chips": [
+      "#교육"
     ]
   }
 ];
@@ -639,18 +626,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "부동산",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "채용",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
+    "tag": "AI",
     "mentions": "1420건",
     "trend": "+115%"
   }
