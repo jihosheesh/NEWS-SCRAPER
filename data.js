@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-26 18:32:43
+// 마지막 업데이트: 2026-06-26 19:31:26
 window.NEWS_DB = [
   {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n2aad78a4",
     "category": "사회",
     "source": "스포츠동아",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nc48b08b9",
     "category": "IT",
     "source": "시사저널e",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
     "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -167,6 +167,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6f660c1e",
+    "category": "IT",
+    "source": "전라매일",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
+    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
+    "summary": [
+      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n5ace0115",
     "category": "스포츠",
     "source": "네이트",
@@ -211,48 +225,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6fd56a9c",
-    "category": "사회",
-    "source": "시사캐스트",
-    "time": "14일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
-    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
-    "summary": [
-      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
-    "id": "nd0c82b8d",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb3bb73fa",
+    "id": "n32bf68e2",
     "category": "경제",
-    "source": "헤럴드경제",
-    "time": "27일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
+    "source": "v.daum.net",
+    "time": "18일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
     "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
     ],
     "chips": [
+      "#금리",
       "#환율"
     ]
   },
@@ -272,17 +255,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "123일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "id": "nef414906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "128일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
+    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
     ],
     "chips": [
-      "#스타트업"
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -298,6 +283,21 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
+    ]
+  },
+  {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "238일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -332,10 +332,244 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6bd691ed",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/27/2026062701591383795",
+    "title": "\"1승 제물 착각이 부른 참사\" 송종국이 본 남아공전 완패 \"패싱 게임 실종... 지고 있는데 왜 전술 변화 없나\" [★월드컵 인사이트 송종국④]",
+    "summary": [
+      "한국이 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 3차전에서 남아공에 뼈아픈 일격을 당하며 무너졌다.",
+      "보통 조별리그 세 번째 경기쯤 되면 이전까지 엇박자를 내던 부분들이 조율되며 가장 완성도 높은 경기력이 나와야 하는 시점이다.",
+      "하지만 이날 수비 라인부터 미드필드, 공격진에 이르기까지 전체적 밸런스가 붕괴된 최악의 경기였다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n2aa168e5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627004600071",
+    "title": "이스라엘·레바논, 美 중재로 평화 기본합의안 서명",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 이스라엘과 레바논이 26일(현지시간) 미국의 중재로 이스라엘과 레바논 내 친이란 무장세력 헤즈볼라 간의 무..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neff5afc8",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/estate/2026/06/27/2026062414343360002",
+    "title": "6년 산 전셋집서 \"시트지 들떠, 150만원 청구\"...전셋값 오르자 분쟁 급증",
+    "summary": [
+      "#서울의 한 아파트에서 6년간 전세로 거주한 A씨는 최근 계약 만료를 앞두고 집주인으로부터 \"문짝 하나를 교체하는 데 150만원이 든다\"는 말을 들었다.",
+      "방문 시트지가 일부 들떠 있다는 이유였다.",
+      "A씨는 16년 된 자재의 자연스러운 노후화라고 주장했지만 보증금을 돌려받아야 하는 처지라 결국 110만원을 부담했다."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "n036f07ce",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/27/MFSGMNRZMUYDON3DMQYGMNZUGQ/",
+    "title": "‘홍명보호 초비상’ 한국 진짜 32강 못 가나…세네갈, 전반 4분 만에 첫 골…세네갈 대승하면 한국보다 앞선다",
+    "summary": [
+      "[OSEN=서정환 기자] 이러다 정말 한국이 32강에 못 간다.",
+      "세네갈은 27일 캐나다 토론토 BMO 필드에서 개최된 2026 FIFA 북중미월드컵 I조 3차전에서 이른 시간 선제골이 터져 이라크에 1-0 리드를 잡았다.",
+      "세네갈은 한국과 조 3위로 32강 경쟁을 하는 팀이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na0071a52",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/27/GA4DSMLDHA3GIY3GHAYTKMTCMU/",
+    "title": "‘노시환·김태연 홈런+왕옌청 6승’ 한화, 9-2 대승→2연패 탈출 “왕옌청이 자기 역할 잘했다”",
+    "summary": [
+      "[OSEN=인천, 길준영 기자] 프로야구 한화 이글스가 타선의 힘을 앞세워 2연패에서 탈출했다.",
+      "한화는 26일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에서 9-2 대승을 거두고 2연패를 끊었다.",
+      "한화는 이진영(좌익수) 요나단 페라자(우익수) 문현빈(중견수) 강백호(지명타자) 노시환(3루수) 허인서."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n414f64ee",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627002151071",
+    "title": "트럼프 \"디지털서비스세 도입국에 관세 100%\"…EU \"기민 대응\"(종합)",
+    "summary": [
+      "(워싱턴·브뤼셀=연합뉴스) 이유미 현윤경 특파원 = 도널드 트럼프 미국 대통령은 26일(현지시간) 유럽 국가들이 디지털서비스세(DST) 도입을 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb1787628",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685908",
+    "title": "오픈AI, GPT-5.6 제한 공개…\"정부 승인, 상시화 안 돼\"",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 챗GPT 개발사인 오픈AI가 도널드 트럼프 행정부와의 협의를 거쳐 최신 인공지능(AI) 모델의 공개 범위를 제한하기로 했다.",
+      "다만 국가안보를 이유로 정부가 AI 모델 공개를 개별적으로 승인하는 방식이 장기적인 표준이 돼서는 안 된다고 경고했다.",
+      "26일(현지 시간) 월스트리트저널(WSJ)에 따르면 오픈AI는 최신 모델인 GPT-5.6 시리즈를 우선 트럼프 행정부의 승인을 받은 소수의 고객에게만 제공한다고 밝혔다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nfac18f75",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003685659",
+    "title": "대구·경북 가끔 구름 많음…내륙 중심 낮 최고 31도 더위",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 27일 대구·경북은 가끔 구름이 많은 가운데 기온이 높아 더울 것으로 예상된다.",
+      "대구지방기상청은 이날 \"대구, 경북 내륙을 중심으로 낮 최고기온이 30도 이상으로 오르는 곳이 있어 덥겠다\"고 예보했다.",
+      "아침 최저기온은 12~17도(평년 16~20도), 낮 최고기온은 23~31도(평년 24~29도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na941e172",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "31분 전",
+    "url": "https://www.mt.co.kr/estate/2026/06/27/2026062611050810886",
+    "title": "\"어쩐지 출퇴근길 덜 붐벼\"...23만명 움직인 '반값 교통비' 실험",
+    "summary": [
+      "최대 83.3%까지 교통비를 돌려주는 정부의 환급 인센티브 정책이 출퇴근길 모습을 바꿔놓았다.",
+      "26일 국토교통부 대도시권광역교통위원회에 따르면 모두의카드 시차 시간 인센티브 시행 이후 출퇴근 전후 시차시간대 이용 비율은 약 1% 증가했다.",
+      "출퇴근 혼잡시간 이용 비율은 약 4% 감소했다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n80c89670",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260623_0003680541",
+    "title": "불순물 99.9% 제거…서해를 바꾼 초대형 바닷물 정수기[짤막영상]",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 신연경 인턴기자 = 충남 서산에는 혼탁한 서해 바닷물을 초고순도 물로 바꾸는 거대한 '정수기'가 있다.",
+      "국내 최초로 상용화된 해수담수화 시설인 '대산임해 해수담수화 플랜트'다.",
+      "27일 GS건설은 공식 유튜브 채널에 '초대형 바닷물 정수기 대한민국 최초로 만들어봤습니다' 영상을 공개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nccf7ba35",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627004200002",
+    "title": "달러-원, 안전 선호 확산에 낙폭 축소…1,535.80원 마감",
+    "summary": [
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 낙폭을 줄였다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "nfaf4c544",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627002951087",
+    "title": "베네수 강진 사망자 920명·부상자 3천360명으로 늘어(종합)",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 지난 24일(현지시간) 베네수엘라를 강타한 연쇄 지진으로 인한 사망자가 이틀 만에 900명을 넘어섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n45712ac9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "42분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685904",
+    "title": "베네수 강진 사망 920명…\"무너진 의료체계, 피해 키워\"",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 베네수엘라를 강타한 연쇄 강진으로 인한 사망자 수가 920명으로 늘어난 가운데, 수년간 경제난과 국가 시스템 붕괴로 약화된 의료·구조 체계가 피해를 키웠다는 지적이 나오고 있다.",
+      "26일(현지 시간) 뉴욕타임스(NYT)에 따르면 호르헤 로드리게스 국회의장은 현재까지 3360명 이상이 부상했으며 172명이 잔해에 갇혀 구조를 기다리고 있다고 밝혔다.",
+      "또 최소 3000명이 집을 잃었고, 병원 13곳과 상업시설 25곳을."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n80cf1a0c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/27/2026062702071325289",
+    "title": "\"설영우 조용한 선수인데, 악플에 매우 화났다\" 소속팀 세르비아도 봤다... 현지 매체 '강경 대응' 조명",
+    "summary": [
+      "대한민국 축구대표팀 수비수 설영우(28·츠르베나 즈베즈다)가 계속되는 욕설과 인신공격성 악성 댓글에 강경 대응을 예고한 가운데, 소속팀이 있는 세르비아 현지 언론도 이를 주목했다.",
+      "설영우의 소속팀 즈베즈다는 세르비아 리그를 대표하는 명문 클럽이다.",
+      "세르비아 매체 메리디안 스포츠는 26일(한국시간) \"한국 축구대표팀이 남아프리카공화국에 0-1로 패했고, 이로 인해 즈베즈다 1군 선수 설영우의 조국인 한국에서 큰 분노가 일었다\"고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad79e69e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/27/MQ2DGYJVGJQWGYTCG5QWMNLFGY/",
+    "title": "‘음바페 VS 홀란’ 세기의 월드컵 맞대결 불발, 프랑스전에서 홀란 벤치행…노르웨이 감독 ”조 1위보다 32강 더 중요”",
+    "summary": [
+      "[OSEN=서정환 기자] 차세대 축구황제 킬리안 음바페(28, 레알 마드리드) 대 엘링 홀란(26, 맨체스터 시티)의 맞대결이 불발될 위기다.",
+      "프랑스는 27일 미국 메사추세스주 팍스보로 질레트 스타디움에서 개최되는 2026 FIFA 북중미월드컵 I조 3차전에서 노르웨이를 상대한다.",
+      "나란히 2연승을 달리고 있는 두 팀의 1위 결정전이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n0c5ddc6c",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/baseball/2026/06/27/MVRDCMRXMY3TQOJRMFQTMZRQMM/",
     "title": "정훈 눈물의 은퇴식, 고교 후배가 승리 선물하다...\"정훈 선배의 기부 덕분에 후배들이 프로선수로 잘 성장할 수 있었다\"",
     "summary": [
@@ -348,78 +582,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc69723c5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003685906",
-    "title": "[속보]美국무 \"이스라엘·레바논, 지속 평화 위한 기본협정 합의\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9758100a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627003200091",
-    "title": "美대선주자 뉴섬 \"캘리포니아 억만장자세 반대…전국 추진해야\"",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국의 차기 대선 주자 중 하나로 꼽히는 민주당 소속 개빈 뉴섬 캘리포니아 주지사가 주(州) 단위의 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf474913e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/international/2026/06/27/6LOHT745QZGRLG2K5MRQIJ2C6I/",
-    "title": "“나도 히말라야 갈 수 있을까?”… 엄홍길 대장이 알려주는 ‘EBC’ 생존 법칙",
-    "summary": [
-      "“나도 히말라야 갈 수 있을까?”… 엄홍길 대장이 알려주는 ‘EBC’ 생존 법칙."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc310a89f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/06/27/AUPACXWEEBDGBPUWJIFV6JFWXM/",
-    "title": "17찬 산채정식에 6천원 칼제비까지… 해인사 음식 여행",
-    "summary": [
-      "17찬 산채정식에 6천원 칼제비까지… 해인사 음식 여행."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7629b5ad",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/27/YWVLCMZWVJGJPO67KOC7KYJVMA/",
-    "title": "우크라·중동 전쟁 영향 에너지 가격 치솟자, 217년 된 가마가 식었다",
-    "summary": [
-      "우크라·중동 전쟁 영향 에너지 가격 치솟자, 217년 된 가마가 식었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nfd211a76",
     "category": "경제",
     "source": "동아일보",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260627/134192414/1",
     "title": "트럼프 “디지털세 부과국 100% 관세…무역합의보다 우선”",
     "summary": [
@@ -434,7 +600,7 @@ window.NEWS_DB = [
     "id": "n8ef8e138",
     "category": "사회",
     "source": "동아일보",
-    "time": "35분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260627/134192411/1",
     "title": "21㎏ 감량 성공 손담비…지금도 계속하는 ‘이 루틴’ 뭐길래",
     "summary": [
@@ -446,82 +612,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncf174b01",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "36분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003685902",
-    "title": "日 기상청 \"2~3일 내 큰 지진 가능성\"…태풍 겹쳐 토사재해 우려(종합)",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 일본 기상청이 후지산 인근 야마나시현에서 최대 진도 6약의 흔들림이 관측된 지진과 관련해 향후 2~3일 동안 규모가 큰 지진이 발생할 가능성이 있다며 각별한 주의를 당부했다.",
-      "태풍 7호와 8호의 영향으로 많은 비도 예보된 만큼 토사재해 위험이 커질 것으로 전망했다.",
-      "27일 NHK, 마이니치신문 등에 따르면 에비타 아야타카 기상청 지진·쓰나미감시과 과장은 \"앞으로 1주일 정도 최대 진도 6약 수준의 지진에 대비해야."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4827de95",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627002900087",
-    "title": "베네수 강진 사망자 920명·부상자 3천360명으로 늘어",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 지난 24일(현지시간) 베네수엘라를 강타한 연쇄 지진으로 인한 사망자가 이틀 만에 900명을 넘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9ca8e813",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626147451082",
-    "title": "유럽 '오메가(Ω) 열돔' 동쪽으로…독일 41.3도(종합)",
-    "summary": [
-      "(브뤼셀·런던·베를린=연합뉴스) 현윤경 김지연 김계연 특파원 = 프랑스 등 서유럽을 강타한 폭염이 중부 유럽으로 세력을 넓히고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na30819a6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627002700087",
-    "title": "[속보] 베네수엘라 지진 사망자 920명으로 늘어",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2bd17e9c",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003685901",
-    "title": "EU, 알루미늄 스크랩 수출에 첫 부담금…美·中 유출 막는다",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 유럽연합(EU)이 알루미늄 스크랩이 역외로 빠져나가는 것을 막기 위해 수출 부담금 부과에 나선다.",
-      "미국과 중국을 중심으로 원자재 확보 경쟁이 치열해지는 가운데, 폐기물이 새로운 자원 안보 이슈로 떠오르고 있다는 분석이다.",
-      "26일(현지 시간) 파이낸셜타임스(FT)에 따르면 EU는 9월 9일부터 알루미늄 스크랩 수출에 15%의 부담금을 부과하는 방안을 추진하고 있다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
     "id": "nacad5c2c",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260627/134192395/1",
     "title": "오세훈 “호남 반도체 투자, 기업자유 침해한 ‘국정운영 사유화’”",
     "summary": [
@@ -536,7 +630,7 @@ window.NEWS_DB = [
     "id": "n4e2a4459",
     "category": "IT",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260627/134192390/1",
     "title": "반도체 호남행에…한동훈 “명청대전 총알” 고민정 “구태정치”",
     "summary": [
@@ -548,78 +642,6 @@ window.NEWS_DB = [
       "#SK하이닉스",
       "#정치"
     ]
-  },
-  {
-    "id": "n313976ad",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026062610421",
-    "title": "\"김병기, 김경 만난 뒤 쇼핑백 들고와\"",
-    "summary": [
-      "\"김병기, 김경 만난 뒤 쇼핑백 들고와\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nae3358cd",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/202606269465i",
-    "title": "나라가 작정하고 '왕따'시킨 男…쫓겨난 뒤 '역대 최고' 됐다 [성수영의 그때 그 사람들]",
-    "summary": [
-      "나라가 작정하고 '왕따'시킨 男…쫓겨난 뒤 '역대 최고' 됐다 [성수영의 그때 그 사람들]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n49dcd2f4",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/2026062610577",
-    "title": "'비상사태' 베네수엘라 \"지진 사망자 589명·부상 2980명으로 늘어\" [종합]",
-    "summary": [
-      "'비상사태' 베네수엘라 \"지진 사망자 589명·부상 2980명으로 늘어\" [종합]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na201f221",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/2026062610391",
-    "title": "폭스바겐, 獨 공장 4곳 폐쇄…최대 10만명 구조조정 추진",
-    "summary": [
-      "폭스바겐, 獨 공장 4곳 폐쇄…최대 10만명 구조조정 추진."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0f7b94fc",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "4시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260626231003",
-    "title": "세인트 데이비드 메디컬 센터 산하 텍사스 심장 부정맥 연구소, 복합 심장 부정맥 국제 콘퍼런스 개최",
-    "summary": [
-      "[지디넷코리아] EPLive 2026, 전 세계 정상급 심장 전기생리학 전문가 1600명 참가 오스틴, 텍사스, 2026년 6월 26일 /PRNewswire/ -- 세인트 데이비드 메디컬 센터(St.",
-      "David's Medical Center) 산하 텍사스 심장 부정맥 연구소(Texas Cardiac Arrhythmia Institute, TCAI)가 2026년 5월 28~29일 복합 부정맥에 관한 제8회 국제 심포지엄을 개최했다."
-    ],
-    "chips": [
-      "#AI",
-      "#EPL"
-    ]
   }
 ];
 
@@ -628,20 +650,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
-    "tag": "삼성전자",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "부동산",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "채용",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
