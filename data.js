@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-26 05:23:49
+// 마지막 업데이트: 2026-06-26 07:12:39
 window.NEWS_DB = [
   {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
-    "time": "57분 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "ne24acaef",
     "category": "사회",
     "source": "네이트",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Pa05rVkxPRGRmellYMDQyZG9iUHpjaEp6dHRCc19Lb0FQRmZTVExINUw0YVptV2dIZV9oX3h4eUJ2emxNMktLZmEzcEhTLUE1dHI4?oc=5",
     "title": "김천시, '일자리 스마트매칭 취업박람회' 성황…18명 현장 취업 성공",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nc48b08b9",
     "category": "IT",
     "source": "시사저널e",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
     "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
     "summary": [
@@ -48,14 +48,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc5742198",
+    "id": "nfbd428d5",
     "category": "IT",
-    "source": "v.daum.net",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFByZWJ1ZThiYm1TSU8wZ3NfUXZaV29uOTltUlg2cGE2MFJlRWxvSmJtZlZzOTZUNEI1Sk5iVmowaTZxMmJPNWc?oc=5",
+    "source": "중앙일보",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
-      "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다 v.daum.net."
+      "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다 중앙일보."
     ],
     "chips": [
       "#반도체",
@@ -184,7 +184,7 @@ window.NEWS_DB = [
     "id": "n5ace0115",
     "category": "스포츠",
     "source": "네이트",
-    "time": "7일 전",
+    "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
     "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
     "summary": [
@@ -212,7 +212,7 @@ window.NEWS_DB = [
     "id": "n71a254ee",
     "category": "경제",
     "source": "뉴시스",
-    "time": "13일 전",
+    "time": "14일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
     "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
     "summary": [
@@ -225,10 +225,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6fd56a9c",
+    "category": "사회",
+    "source": "시사캐스트",
+    "time": "14일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
+    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
+    "summary": [
+      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
     "id": "n31acb708",
     "category": "사회",
     "source": "아주경제",
-    "time": "15일 전",
+    "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
     "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
     "summary": [
@@ -242,27 +257,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd0c82b8d",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
     "id": "nb3bb73fa",
     "category": "경제",
     "source": "헤럴드경제",
-    "time": "26일 전",
+    "time": "27일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
     "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
     "summary": [
@@ -276,7 +274,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "27일 전",
+    "time": "28일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -306,7 +304,7 @@ window.NEWS_DB = [
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
-    "time": "265일 전",
+    "time": "266일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
     "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
     "summary": [
@@ -381,256 +379,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb85eff17",
+    "id": "n76ad2b64",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "동아일보",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684995",
-    "title": "광주 고유가 지원금 1만9000여명 미신청…\"7월3일 마감\"",
+    "url": "https://www.donga.com/news/Culture/article/all/20260626/134188662/1",
+    "title": "FM동물메디컬센터 ‘FM앗이’, 도우미견·은퇴견 건강 지킴이로 나섰다",
     "summary": [
-      "[광주=뉴시스] 류형근 기자 = 7월3일 마감되는 정부의 고유가 피해지원금 광주 미신청자가 1만9000여명으로 파악됐다.",
-      "26일 광주시에 따르면 고유가 피해지원금 광주지역 지급대상자 104만여명 중 104만여명(98.2%)이 신청을 완료해 2037억원을 지급했다.",
-      "미신청자는 1만9000여명으로 마감일인 7월3일 이전에 신청을 하지 않으면 자동 소멸된다."
+      "FM동물메디컬센터의 정기 봉사단 ‘FM앗이(품앗이)’가 지난 6월 17일, 사단법인 한국장애인도우미견협회를 방문해 동물의료 봉사활동을 진행했다고 밝혔다.‘FM앗이’는 FM동물메디컬센터가 사회공헌을 위해 매달 정기적으로 진행하는 봉사 프로그램이다.",
+      "이번 봉사에는 경기도수의사회 부회장인 고양점 김건우 원장과 김포점 조수호 원장, 동물보건사(테크니션) 스태프들이 동참해 체계적인 의료 지원을 펼쳤다.양 기관은 지난 2023년 11월 업무협약을 체결한."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n9ee9acf6",
+    "id": "n4386750d",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685199",
-    "title": "\"행복드림 계승\" 옥천군, 민선 9기 군정 방향타 확정",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026062616005558593",
+    "title": "기장군, 정관에듀파크 개관… 교육·문화허브 문 활짝",
     "summary": [
-      "[옥천=뉴시스]연종영 기자 = 충북 옥천군은 민선 9기(2026년 7월~2030년 6월) 출범에 앞서 향후 4년간 군정의 방향타 역할을 하게 될 군정비전과 군정목표, 5대 추진 과제를 확정했다.",
-      "군은 민선 9기 군정비전은 민선 8기의 철학을 이어간다는 의미로 '행복드림 옥천'을 유지한다고 26일 밝혔다.",
-      "군정목표는 '국토의 중심, 미래를 여는 옥천'으로 정했고, 이를 실현하는 데 필요한 실행계획 성격의 '5대 추진과제'도 정비했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8c8af060",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003683071",
-    "title": "전남광주통합특별시의회 첫 본회의 '7월1일 0시' 개회",
-    "summary": [
-      "[광주=뉴시스] 구용희 기자 = 전남광주통합특별시의회 첫 본회의가 당초 계획보다 7시간 앞당겨진 7월1일 0시에 열린다.",
-      "26일 전남도의회에 따르면 통합특별시의회는 제1차 임시회 제1차 본회의를 출범일인 7월1일 0시에 개회하기로 결정했다.",
-      "이는 통합특별시 출범 직후 의회 운영과 집행부 조직, 교육청 운영 등에 필요한 필수 조례와 규칙을 1일 오전 9시 이전까지 처리해야 하는 상황에서 당초 계획했던 오전 7시 개회로는 시간이 부족하다는 판단에."
+      "기장군은 26일 정관에듀파크 개관식을 열고 복합 교육·문화시설 운영을 본격 시작했다.",
+      "이날 개관식은 정관에듀파크 내 소학대홀에서 정종복 기장군수를 비롯해 시·군의원, 지역 기관·단체 관계자와 주민 등 300여명이 참석한 가운데 열렸다.",
+      "행사는 개관 기념공연을 시작으로 건립 경과보고, 표창패 수여, 기념사와 축사, 테이프 커팅, 시설 관람 순으로 진행됐다.기장심포니오케스트라와 정관여성햇빛합창단, 지역 청소년 댄스."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n3a5c3ed6",
+    "id": "n5affbd5e",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685253",
-    "title": "與 \"국힘 '보완수사권 전면 폐지, 당권 투쟁용' 주장…사법개혁 본질 왜곡\"",
+    "url": "https://www.newsis.com/view/NISX20260626_0003685540",
+    "title": "증평군, 무형유산 전수교육관 개관…필장 유필무 기술 계승",
     "summary": [
-      "[서울=뉴시스]김윤영 기자 = 더불어민주당은 26일 정부의 보완수사권 폐지 방침이 '당권 투쟁용'이라고 주장하는 국민의힘을 향해 \"사법개혁의 본질을 왜곡하는 정쟁 유발을 중단하라\"고 했다.",
-      "박지혜 대변인은 이날 서면 브리핑에서 \"개혁의 본질은 외면한 채 오로지 국정을 흔들기 위해 정치 공세를 펴는 제1야당의 태도에 깊은 유감을 표한다\"며 이같이 말했다.",
-      "박 대변인은 \"정부의 이번 결정은 과거 무소불위의 검찰 권력을 정상화하고, 수사와 기소의 분."
+      "[증평=뉴시스] 서주영 기자 = 충북 증평군은 26일 무형유산 전수교육관 개관식을 열고 본격적인 운영에 들어갔다고 밝혔다.",
+      "교육관은 군 개청 이후 처음 건립된 무형유산 전수시설이다.",
+      "필장(筆匠) 유필무 선생의 전통 붓 제작 기술을 보존·계승하기 위해 조성됐다."
     ],
     "chips": [
-      "#정치"
+      "#교육"
     ]
   },
   {
-    "id": "nfd90d16f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626097900004",
-    "title": "서울시, 정원오 '캉쿤 출장 의혹' 주민감사 착수",
+    "id": "na536dd76",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026062616094801886",
+    "title": "이틀 오르더니 결국…코스피 5% 하락한 8400대 마감",
     "summary": [
-      "(서울=연합뉴스) 김준태 기자 = 서울시가 정원오 전 성동구청장의 멕시코 휴양지 '캉쿤' 출장 의혹과 관련해 감사에 착수하기로 했다."
+      "코스피가 5%대 하락한 8400대에 마감했다.",
+      "메모리 수요 감소 우려와 차익 실현 압력으로 지수가 급락하면서 장 중 매도 사이드카와 서킷브레이커가 발동되기도 했다.",
+      "26일 코스피는 전장 대비 519.09포인트(5.81%) 내린 8411.21에 마감했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9293a116",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260626/134187997/1",
-    "title": "최근 5년간 다이어트 건강기능식품 부작용 신고 2068건 급증",
+    "id": "nde5dc1b1",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026062616074190486",
+    "title": "드론으로 산림 지킨다… 기장군, 재선충병 정밀 예찰",
     "summary": [
-      "최근 5년간 다이어트 건강기능식품을 먹고 부작용 등 이상 사례가 발생했다는 신고가 2068건 접수된 것으로 나타났다.국민의힘 이양수 의원이 26일 식품의약품안전처로부터 제출받은 자료에 따르면 지난해 체지방 감소 기능성을 표방한 건강기능식품과 관련해 신고된 사례는 920건이었다.",
-      "2020년 72건, 2021년 57건, 2022년 85건 등 100건 미만이던 신고는 2023년 217건을 기록한 뒤 2024년 717건, 2025년 920건으로 크게."
+      "기장군은 전국적으로 소나무재선충병 피해가 확산함에 따라 산림자원을 보호하고 선제적으로 대응하기 위해 드론을 활용한 정밀 예찰을 실시한다고 26일 전했다.",
+      "이번 예찰은 산악지형과 인력 접근이 어려운 비가시권 지역까지 조사 범위를 확대하기 위해 마련됐다.",
+      "기존 도보 중심 예찰로 확인하기 어려웠던 지역을 드론으로 촬영해 감염 의심목을 조기에 발견하고 신속한 방제를 추진한다는 계획이다."
     ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n32f00810",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626099800004",
-    "title": "[속보] 법원 \"김건희, 인사청탁 명목 티파니 브로치도 수수\"",
-    "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6c1a2e0b",
+    "id": "nc7425a02",
     "category": "사회",
-    "source": "동아일보",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003685505",
+    "title": "[원주소식]원주환경청, 장마철 대비 환경영향평가 현장 점검 등",
+    "summary": [
+      "[원주=뉴시스]이덕화 기자 = 기후에너지환경부 원주지방환경청은 장마철 집중호우로 인한 환경오염과 재해를 예방하기 위해 환경영향평가 협의 완료 사업장 12곳을 대상으로 기획점검에 나선다고 26일 밝혔다.",
+      "이번 점검은 오·폐수 처리시설을 운영하거나 대규모 절·성토 공사가 진행 중인 현장을 중심으로 이뤄진다.",
+      "집중호우 시 우려되는 오·폐수 유출과 토사 유실 등에 선제적으로 대응하기 위해 마련됐다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "na03c678d",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026062616092694704",
+    "title": "삼성SDS, 현금 성과급 대신 100% 주식 지급 추진…찬반투표 진행",
+    "summary": [
+      "삼성SDS(삼성에스디에스)가 기존 현금 성과급을 폐지하는 대신 100% 주식으로 대체하는 내용의 보상 체계 개편을 추진하고 있다.",
+      "사측은 임직원들을 찬반 투표를 진행 중이다.",
+      "26일 IT 업계에 따르면 삼성SDS는 최근 전체 임직원을 대상으로 현행 현금 인센티브 제도를 폐지하고 연 1회 자사주 형태로 성과급을 지급하는 개편안에 대한 찬반 투표를 실시하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50d8d135",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003685481",
+    "title": "민선 9기 강릉시 시정구호 \"함께 바꾸는 미래 모두 행복한 강릉\" 확정",
+    "summary": [
+      "[강릉=뉴시스] 이순철 기자 = 민선 9기 강릉시가 새 시정구호를 \"함께 바꾸는 미래 모두 행복한 강릉\"으로 최종 확정했다.",
+      "이번 시정구호는 시민과 행정이 함께 변화의 주체가 되어 강릉의 미래를 새롭게 바꾸고, 그 변화의 성과가 모든 시민의 행복으로 이어지도록 하겠다는 의지를 담고 있다.",
+      "'함께 바꾸는 미래'에는 시민의 목소리를 시정의 출발점으로 삼고 시민과 함께 해법을 찾아 강릉의 대전환을 이끌어가겠다는 뜻이 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndbe5e26e",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003685529",
+    "title": "방사청, 방산기업과 AI 경쟁력 강화 방안 논의…LIG·HD현중 등 참석",
+    "summary": [
+      "[서울=뉴시스] 옥승욱 기자 = 방위사업청은 26일 서울 여의도 콘래드 호텔에서 방산기업의 인공지능(AI) 경쟁력 강화 방안을 논의하고 현장의 애로사항을 청취하기 위한 방산기업 간담회를 개최했다고 밝혔다.",
+      "이용철 방사청장 주관으로 열린 이날 간담회에는 원종대 국방부 차관보, 이남우 한국방위산업진흥회 상근부회장, 신익현 LIG D&A 대표이사, 주원호 HD현대중공업 사장, 곽종우 한화시스템 부사장 등이 참석했다.",
+      "참석자들은 무기체계 개발 과정에서."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n7ede7d86",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260626/134188155/1",
-    "title": "현대건설 에쓰오일 샤힌프로젝트 현장서 근로자 사망… 굴착 중 토사 붕괴",
+    "url": "https://www.yna.co.kr/view/AKR20260626127500004",
+    "title": "[일지] 김건희 의혹 제기부터 '매관매직' 1심 선고까지",
     "summary": [
-      "현대건설이 시공 중인 에쓰오일 샤힌프로젝트 공사 현장에서 근로자 1명이 숨지는 사고가 발생했다.26일 업계에 따르면 이날 오전 10시 1분께 울산 울주군 온산읍 학남리 666번지에 위치한 현대건설 에쓰오일 샤힌프로젝트 공사 현장에서 굴착 작업 중 인접 토사가 무너지며 근로자 1명이 콘크리트 더미에 깔렸다.사고는 거푸집 형틀 작업을 위한 굴착 작업 과정에서 발생한 것으로 파악됐다.",
-      "해당 근로자는 심정지 상태로 병원으로 이송됐으나 끝내 숨졌다.고용."
-    ],
-    "chips": [
-      "#고용",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf1ad50ee",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626099200004",
-    "title": "[동정] 오세훈 서울시장, 상반기 정년·명예퇴임식 참석",
-    "summary": [
-      "[동정] 오세훈 서울시장, 상반기 정년·명예퇴임식 참석."
+      "(서울=연합뉴스) 김빛나 기자 = 인사·이권 청탁과 함께 각종 고가 귀금속을 받은 이른바 '매관매직' 혐의로 기소된 김건희 여사가 1심에서 중형..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd805af12",
+    "id": "n1dbb09fb",
     "category": "스포츠",
-    "source": "조선일보",
+    "source": "동아일보",
     "time": "6분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/26/GVQWKMZUHFTGEZRWGU4TCYZZGQ/",
-    "title": "[월드컵 리뷰]\"日, 한국 일부러 패배\" 황당 주장! '16강 미국→헛된 꿈' 손흥민 스승 포체티노 첫 극장패, '극장골' 튀르키예 3-2 '눈물' 첫 승",
+    "url": "https://www.donga.com/news/Sports/article/all/20260626/134188738/2",
+    "title": "귀를 찢는 함성, 경기에 영향 줄까?…“선수-심판 몸과 마음 지배”",
     "summary": [
-      "[스포츠조선 김성원 기자]승패는 의미가 없었다.",
-      "손흥민의 스승인 마우리시오 포체티노 미국 월드컵대표팀 감독이 첫 패전의 쓴잔을 마셨다.",
-      "개최국 미국은 2전 전승으로 이미 D조 1위가 확정됐다."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n2f33afb7",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026062613581859602",
-    "title": "고흥군, 2026년 전남도 지방세정 종합평가 '우수상' 수상",
-    "summary": [
-      "전남 고흥군(군수 공영민)은 2026년 전라남도가 실시한 지방세정 종합평가에서 우수상을 수상했다고 26일 밝혔다.",
-      "이로써 고흥군은 지난 2023년 장려상 수상 이후 올해 우수상을 수상하며 4년 연속 지방세정 우수기관에 선정되는 성과를 거뒀다.전라남도 지방세정 종합평가는 자주재원 확충과 지방세정 발전을 위해 도내 시군의 지방세정 운영 전반을 종합적으로 평가하는 제도다.",
-      "이번 평가는 지방세수 확충, 세외수입 징수 및 운."
+      "스포츠 경기장에서 울려 퍼지는 관중의 함성은 단순한 배경 소음이 아니다.",
+      "스포츠 심리학과 운동과학 연구들에 따르면, 관중의 함성은 선수의 신체 능력, 심리 상태, 그리고 경기 결과에 매우 구체적이고 과학적인 영향을 미친다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8ea0ebd2",
+    "id": "n68ccb41e",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260626/134186689/2",
+    "title": "집값 움직이는 건 수요·공급만이 아닌 ‘이것’ [동아닷컴 금주의 신간]",
+    "summary": [
+      "AI 해고 시대에 대체 불가능한 존재 가치를 묻는 자기계발 소설과 복잡한 경제 뉴스의 핵심인 금리를 일상어로 쉽게 풀어낸 입문서 등 주목할 만한 신간 2권을 소개한다."
+    ],
+    "chips": [
+      "#AI",
+      "#부동산",
+      "#금리"
+    ]
+  },
+  {
+    "id": "nc2bc3cfc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626123300504",
+    "title": "드론작전 육해공군 이관·정책은 드론본부로…우크라전 벤치마킹",
+    "summary": [
+      "(서울=연합뉴스) 김효정 김철선 기자 = 군 당국이 윤석열 정부 시기 창설된 드론작전사령부(이하 드론사)가 관장했던 작전 수행 기능을 각 군으로..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n320f0409",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626126900054",
+    "title": "'관급 계약 대가 뒷돈' 국립 광주과학관 전 임직원들 실형",
+    "summary": [
+      "(광주=연합뉴스) 정회성 기자 = 관급 계약을 대가로 억대의 뒷돈을 챙긴 국립 광주과학관 임직원들에게 실형이 내려졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a0ee099",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260626/134188951/1",
+    "title": "거북선 R&D에 숨은 난세 극복법… 윤동한 콜마회장이 복기한 이순신",
+    "summary": [
+      "불확실성이 커진 시장 환경에서 역사적 위인의 행적을 통해 기업의 활로를 모색하는 시도가 학술적 결실로 이어졌다.",
+      "한국콜마를 이끄는 윤동한 회장이 평생 동안 연구해 온 충무공의 리더십과 자신의 경영 철학을 융합한 저서 ‘이순신의 위대한 경영’을 선보였다.지난 25일 서울 서초구 양재동 엘타워에서 열린 출판기념회는 학계와 정계, 문화계 인사들이 대거 참석한 가운데 진행됐다.",
+      "이태진 전 한국학중앙연구원장과 성한기 대구가톨릭대 총장, 신동욱 국회의원."
+    ],
+    "chips": [
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "ndd0c4441",
     "category": "사회",
     "source": "조선일보",
     "time": "8분 전",
-    "url": "https://www.chosun.com/national/incident/2026/06/26/IUYJA4OLZJG2RNHPFHKPFVDWGE/",
-    "title": "전주 한 초교 4학년 여학생, 건물 옥상서 추락… 병원 이송",
+    "url": "https://www.chosun.com/national/court_law/2026/06/26/IGVDD6GFENH27MW75GTZMN4DM4/",
+    "title": "‘낙동강변 살인사건’ 고문 경찰관들, 위증 혐의로 법정 선다",
     "summary": [
-      "전주 한 초교 4학년 여학생, 건물 옥상서 추락… 병원 이송."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n035e0501",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026062614152224529",
-    "title": "한성숙, 오피스텔 대가성 헐값매각 의혹에 \"과한 주장\"",
-    "summary": [
-      "한성숙 국무총리 후보자의 오피스텔 헐값 임대·매매 논란을 두고 여야가 격돌했다.",
-      "국민의힘은 \"대가성 특혜를 준 것이 아니냐\"고 의혹을 제기했지만, 여당은 \"수준 낮은 공세\"라며 반박에 나섰다.",
-      "한 후보자는 이와 관련 \"과도한 말씀(주장)\"이라고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd3d1d476",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626098100062",
-    "title": "횡성군, 노인 일자리 평가 4년 연속 수상",
-    "summary": [
-      "(횡성=연합뉴스) 임보연 기자 = 강원 횡성군은 강원도가 실시한 '2025년 노인일자리 및 사회활동지원사업 평가'에서 우수상을 받으며 4년 연속..."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "nb8630315",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260626/134187155/1",
-    "title": "구윤철 “석유 최고가격은 현행 수준보다 인하…농축수산물도 할인”",
-    "summary": [
-      "정부가 국제 유가 하락세에 맞춰 석유 최고가격을 낮추기로 했다.",
-      "하반기(7~12월) 공공요금을 동결하고 농축수산물 전 품목을 할인하는 등 물가 부담을 줄이는 데 1조 원을 투입한다.26일 구윤철 부총리 겸 재정경제부 장관은 비상경제본부 회의 겸 경제관계장관회의 겸 민생물가 특별관리 관계장관 태스크포스(TF)를 주재하며 이같은 내용을 밝혔다.구 부총리는 “7차 석유 최고가격은 국제유가 하락과 민생 부담, 재정 여건 등을 종합적으로 감안해 현행 수."
+      "‘낙동강변 살인사건’ 고문 경찰관들, 위증 혐의로 법정 선다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1a29e639",
+    "id": "n760dcec8",
     "category": "사회",
-    "source": "동아일보",
+    "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260626/134187879/1",
-    "title": "삼성전자 감사 페스티벌 종료 D-9…전년比 방문객 75% ‘껑충’",
+    "url": "https://www.yna.co.kr/view/AKR20260626126600005",
+    "title": "[게시판] SM엔터, 다섯 번째 지속가능경영보고서 발간",
     "summary": [
-      "삼성전자는 ‘국민과 함께, 삼성전자 감사 페스티벌’ 행사 기간 전국 삼성스토어를 찾은 고객이 전년 동기 대비 평균 75% 증가한 것으로 나타났다고 26일 밝혔다.",
-      "삼성전자는 8일부터 4주간 국민과 성과를 나누고 지역경제 활성화에 기여를 하기 위해 감사 페스티벌을 진행하고 있다.",
-      "행사는 다음달 5일까지 진행한다.전국 400여 개 삼성스토어를 방문한 고객수를 집계한 결과 평균 75% 늘었고 일부 매장은 최대 2배까지 증가했다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n11069335",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626097700065",
-    "title": "인천본부세관, '세계 마약퇴치의 날' 맞아 밀수 예방 캠페인",
-    "summary": [
-      "(인천=연합뉴스) 최은지 기자 = 인천본부세관은 26일 '세계 마약 퇴치의 날'을 맞아 인천항 국제여객터미널에서 민관 합동 밀수 예방 캠페인을 ..."
+      "[게시판] SM엔터, 다섯 번째 지속가능경영보고서 발간."
     ],
     "chips": [
       "#뉴스"
@@ -643,20 +646,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "고용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "부동산",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
