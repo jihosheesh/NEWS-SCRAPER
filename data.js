@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-26 21:27:55
+// 마지막 업데이트: 2026-06-26 22:24:19
 window.NEWS_DB = [
   {
     "id": "nccb73b86",
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n2aad78a4",
     "category": "사회",
     "source": "스포츠동아",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nc48b08b9",
     "category": "IT",
     "source": "시사저널e",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
     "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
     "summary": [
@@ -97,7 +97,7 @@ window.NEWS_DB = [
     "id": "nfa562be4",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0MxUFNEX1lQb25nMGpzUmczb1I2b2pXelVGbHJubTB4dUxCVWVNVVdpNkRGRVRqMnRwSW9od1NvSWc5ZkZ0dWotVmJlVTV3c1I0a0VLSnhPMzItVktZTU1ISjRTamU1MzVYTFdhNUdEVUlnMFJXOFFRTjBOSW1Dekh30gGWAUFVX3lxTE1MakRWVS1KSDVGZ0lYWWxBdE8zeEMzMS1SaFlSMzNSeVJWMVByMmwzZ3lNM0xGdjNOck5uUzdTNFRuc3hOM2RsRnpaMTZudHowMDBpZktUZ3hZMUIzSkJBa283a2EwTjVidngtNnhDV2xMR3hEcjRyLVg3dkxxbXp0c1lOY1ZCWXV5dlQ1VFhiSzFDS2xDZw?oc=5",
     "title": "[비즈톡톡] 틱톡 키운 바이트댄스, 中 반도체 자립 견인… 엔비디아 막히자 중국산 AI칩 도입 - 조선비즈",
     "summary": [
@@ -141,7 +141,7 @@ window.NEWS_DB = [
     "id": "n9cecfc4c",
     "category": "부동산",
     "source": "한국경제",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZ9IBVEFVX3lxTE51WFJELUd0OUVyTmJ4RXJGTTZTSS1TQy0wWktPaE9uUjRCMGlpSnY4Q2tVVk8zT3dUUHRnTWJPRGoxZm5rS25Dc0xHNHk2WHF5S09CUw?oc=5",
     "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
     "summary": [
@@ -225,17 +225,52 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3bb73fa",
+    "id": "n7c9e9138",
     "category": "경제",
-    "source": "헤럴드경제",
-    "time": "27일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lODNoa0xmTkhrMlNYdkhHbkgyN1pfaFdKSWFmOU41QW5NUW5SaUh0SlZrVjRVamNlR3V3WjVRalh0RjRTeEU0UnJPOGxtVW5oSS1kc1RB?oc=5",
-    "title": "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot]",
+    "source": "한국경제",
+    "time": "14일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaTJiYVJiLWtIZnlfZ3VRWm9HeW5QTWhMemtKSDYwdnFZNkRwVmhPN3B3aEpNeVdsLU82V0k3Q0t2Tm9sNHQ5QUJHeF9VcW1XTDNHdGNDMERRZ9IBVEFVX3lxTE5UMmczREttNy14TjBUVE1NeG1kNUQ3WDNZbko4N3JQb3RKY1hEc29pNjFJaHFnUzRzSnFLOVVrano4QWpNSklVTVRyTWxzV1k0ZFVyMQ?oc=5",
+    "title": "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각",
     "summary": [
-      "10일 연속 1500원 넘겼는데…한은 총재는 왜 환율 대응 ‘자신’ 했을까 [Deep Spot] 헤럴드경제."
+      "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각 한국경제."
     ],
     "chips": [
-      "#환율"
+      "#환율",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "summary": [
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nd0c82b8d",
+    "category": "사회",
+    "source": "대학IN",
+    "time": "18일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
+    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
+    "summary": [
+      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용",
+      "#교육"
     ]
   },
   {
@@ -254,49 +289,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5a1617c5",
+    "id": "nbe3faaa9",
     "category": "부동산",
-    "source": "헤럴드경제",
-    "time": "45일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "source": "한국주택경제신문",
+    "time": "134일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
     ],
     "chips": [
       "#부동산",
-      "#전세"
-    ]
-  },
-  {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "128일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "서울특별시",
-    "time": "238일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
-    "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
+      "#재건축"
     ]
   },
   {
@@ -331,288 +335,305 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n84b9fae9",
+    "id": "n35b1e5aa",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003685923",
-    "title": "홍명보호, 3위 경쟁 7위 추락…세네갈, 이라크 5-0 완파[월드컵24시]",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/27/MZQTMMJYGNRTIOJYMNRTIMRXGE/",
+    "title": "'큰일났다, 한국 6위→7위 추락, 32강 더 어려워졌다' 세네갈 5위 급부상, 이라크와의 최종전 5-0 대승..'3위 팀순위, 벼랑 끝으로 내몰렸다'",
     "summary": [
-      "[과달라하라(멕시코)=뉴시스]안경남 기자 = 홍명보호의 2026 북중미 월드컵 32강 진출 가능성이 점점 희미해지고 있다.",
-      "세네갈은 27일(한국 시간) 캐나다 토론토 스타디움에서 열린 대회 조별리그 I조 3차전에서 퇴장으로 10명이 싸운 이라크를 5-0으로 크게 이겻다.",
-      "1승 2패(승점 3)가 된 세네갈은 I조 3위로 32강 진출을 바라볼 수 있게 됐다."
+      "[스포츠조선 노주환 기자]한국의 북중미월드컵 32강 진출 가능성이 또 줄었다.",
+      "3위 팀들의 중간 순위에서 6위에서 7위로 한계단 더 떨어졌다.",
+      "이번 대회에선 8위까지 '와일드카드 3위'로 32강에 오를 수 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5b015c42",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627009600063",
-    "title": "대전·세종·충남 낮 최고 32도…\"당분간 더운 날씨\"",
-    "summary": [
-      "(대전=연합뉴스) 이재림 기자 = 토요일인 27일 대전·세종·충남 지역은 낮 최고 기온 30도를 웃돌며 더울 것으로 전망된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n163f2958",
+    "id": "n7c8d2ad8",
     "category": "사회",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003685920",
-    "title": "미군, 상선 공격한 이란 미사일·드론 기지 공습(종합)",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684457",
+    "title": "이번주 국회에는 무슨 일이? [뉴시스국회토pic]",
     "summary": [
-      "[워싱턴=AP/뉴시스] 강영진 기자 = 미국이 26일(현지시각) 이란을 공습했다.",
-      "하루 전 호르무즈 해협에서 발생한 이란의 화물선 드론 공격에 대한 대응으로, 도널드 트럼프 미 대통령은 이 공격이 휴전협정을 위반한 것이라고 밝혔다.",
-      "미 중부사령부는 군이 이란 내 미사일 및 드론 기지와 해안 레이더 기지를 공격했다고 밝혔다."
+      "[서울=뉴시스]김근수 기자 = 6월 20일부터~6월 26일까지 국회 이슈를 사진으로 풀어본다.",
+      "[뉴시스국회토pic]은 국회에서 일어난 중요 이슈를 사진으로 풀어보는 '이번주 국회에는 무슨 일이?'로 매주 토요일 여러분을 찾아 갑니다.",
+      "◆포옹하는 김민석-정청래 ◆2026 6.3지방선거 단체장 당선자 워크숍 ◆자리 앉는 여야 원내대표와 국회의장 ◆65세 법정 정년연장 쟁점과 입법 개정 방향 국회토론회 ◆국회의장 특사 자격으로 출국하는 송영길 의원."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0afd5308",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627009500056",
-    "title": "제주 구름 많다가 오후부터 차차 맑아져",
-    "summary": [
-      "(제주=연합뉴스) 김호천 기자 = 토요일은 27일 제주는 구름 많다가 늦은 오후부터 차차 맑아지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbcf3593a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627009200055",
-    "title": "전북 대체로 맑고 낮 최고 27~31도",
-    "summary": [
-      "(전주=연합뉴스) 최영수 기자 = 토요일인 27일 전북은 대체로 맑고 가끔 구름이 많겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef144163",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627009100051",
-    "title": "부산·울산·경남 오후부터 차차 맑아져…낮 최고 26~31도",
-    "summary": [
-      "(부산=연합뉴스) 김재홍 기자 = 토요일인 27일 부산·울산·경남은 구름이 많다가 오후부터 차차 맑아지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n306bc8ad",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003685919",
-    "title": "[속보]홍명보호 3위 경쟁 7위로 추락…세네갈, 이라크 5-0 대파",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef709dd9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684668",
-    "title": "\"피부만 타는 게 아니다?\"…이명 증상 키우는 일광화상의 위험성",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 햇볕에 의해 발생하는 피부 화상인 '일광화상'이 이명의 원인일 수 있다는 전문가의 경고가 나왔다.",
-      "지난 24일(현지시간) 영국 데일리메일은 일광화상이 피부를 넘어 귀 건강에도 영향을 미친다고 보도했다.",
-      "청각학자 케일리 워터스는 \"일광화상은 주로 피부에 문제를 일으키지만, 이명 증상도 악화시킬 수 있다\"고 설명했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2dcd1daf",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "27분 전",
-    "url": "https://www.hankyung.com/article/2026062608101",
-    "title": "\"술보다 좋아\" 핫플 찾은 2030 즐겨 먹더니…'대박' 터졌다",
-    "summary": [
-      "\"술보다 좋아\" 핫플 찾은 2030 즐겨 먹더니…'대박' 터졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29c85f5a",
+    "id": "nf718fb92",
     "category": "스포츠",
-    "source": "한국경제",
-    "time": "27분 전",
-    "url": "https://www.hankyung.com/article/202606260368i",
-    "title": "[여기는 논설실] 국적의 낭만을 파는 월드컵, 그 이면의 인재 시장",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685926",
+    "title": "홍명보호 결국 짐 싸나…32강 진출 확률 36%로 또 추락[월드컵24시]",
     "summary": [
-      "[여기는 논설실] 국적의 낭만을 파는 월드컵, 그 이면의 인재 시장."
+      "[과달라하라(멕시코)=뉴시스]안경남 기자 = 홍명보호가 2026 북중미 월드컵에서 짐을 쌀 확률이 점점 커지고 있다.",
+      "홍명보 감독이 지휘하는 한국 축구대표팀은 지난 25일(한국 시간) 남아공과의 대회 조별리그 A조 최종 3차전에서 0-1 충격패를 당하며 32강 토너먼트 직행에 실패했다.",
+      "비기기만 해도 조 2위가 확정됐던 한국은 남아공전 패배로 1승 2패(승점 3·골 득실 -1)를 기록, 조 3위로 내려갔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1d727720",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "27분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/27/OHHM6O2OXRE67IDSQDBK33GNBE/",
-    "title": "[체험기] 은은하게 빛나는 LED, 백색소음 매력적… 발뮤다 탁상 시계 ‘더클락’ 64만원대 가격은 부담",
-    "summary": [
-      "[체험기] 은은하게 빛나는 LED, 백색소음 매력적… 발뮤다 탁상 시계 ‘더클락’ 64만원대 가격은 부담."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n69f4aa14",
+    "id": "n4cdacb1e",
     "category": "경제",
-    "source": "한국경제",
-    "time": "27분 전",
-    "url": "https://www.hankyung.com/article/202606260617i",
-    "title": "중년 후 1년 새 체중 무섭게 불었다면…에너지 대사 균형 확인하세요[이지현의 생생헬스]",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026062515481683283",
+    "title": "\"현실은 암울해도 내 하루는 즐겁게\"…Z세대 사로잡은 '윔지' 트렌드 [세계는Z금]",
     "summary": [
-      "중년 후 1년 새 체중 무섭게 불었다면…에너지 대사 균형 확인하세요[이지현의 생생헬스]."
+      "편집자주Z세대(1990년대 후반~2010년대 초반 출생자)는 빠르게 변화하는 시대 속에서 문화와 트렌드를 주도하며, 사회 전반에서 새로운 기준을 만들어가는 세대로 주목받고 있다.",
+      "[세계는Z금]에서는 전 세계 Z세대의 삶과 가치관을 조명하며, 그들이 어떻게 사회를 변화시키고 있는지를 들여다보고자 한다.",
+      "불안한 현실 속에서 소소한 행복을 찾으려는 '윔지(Whimsy)' 트렌드가 확산하고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb8cbb4a5",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626156400003",
-    "title": "[부동산캘린더] 내주 서울 성북구 장위푸르지오마크원 등 8천167가구 분양",
-    "summary": [
-      "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 8천167가구가 분양에 나선다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nf378b2ec",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/economy/real_estate/2026/06/27/YNCFYYWC3ZDMRGUJ6U5CXNPK64/",
-    "title": "‘닥치고 주택 공급’ 카드 중 하나는 폐교라는데…현실은",
-    "summary": [
-      "‘닥치고 주택 공급’ 카드 중 하나는 폐교라는데…현실은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc4c8f7b0",
+    "id": "n7d580bc0",
     "category": "사회",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/economy/smb-venture/2026/06/27/ZLLMTG6LEFGVDOJ4IR54CMZP3Q/",
-    "title": "[산업X파일]서울의 그 많던 킥보드는 다 어디로 갔나… ‘이곳’ 지도 켜자 빽빽하게 떴다",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626077500065",
+    "title": "'말라리아 비상'…인천 강화군, 환자 증가세에 \"야외활동 주의\"",
     "summary": [
-      "[산업X파일]서울의 그 많던 킥보드는 다 어디로 갔나… ‘이곳’ 지도 켜자 빽빽하게 떴다."
+      "(인천=연합뉴스) 천정인 기자 = 전국에 말라리아 주의보가 발령된 가운데 위험지역 가운데 한 곳인 인천 강화군에서 해마다 환자가 늘어나고 있는 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndd389c7c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/27/BLRQ6O52P5AWDEL7JPUDXGPX4Q/",
-    "title": "[그 영화 어때] 여러분은 무엇을 짝사랑하고 계신가요, ‘짝사랑 세계’",
-    "summary": [
-      "[그 영화 어때] 여러분은 무엇을 짝사랑하고 계신가요, ‘짝사랑 세계’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1cec0ae7",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "54분 전",
-    "url": "https://www.chosun.com/international/us/2026/06/27/PLS4UPN7TNDI7CJQLL3QRM2R4U/",
-    "title": "이란, 호르무즈 선박에 드론 공격... 트럼프 “휴전 위반”... 미군은 공습",
-    "summary": [
-      "이란, 호르무즈 선박에 드론 공격... 트럼프 “휴전 위반”... 미군은 공습."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1f4041ef",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627004900072",
-    "title": "국제유가, 공급 우려 해소에 급락…WTI 배럴당 70달러 아래로",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 26일(현지시간) 국제유가는 호르무즈 해협의 통항량 증가와 사우디아라비아의 선적 재개로 공급 부족 우려가 해..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nccf7ba35",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627004200002",
-    "title": "달러-원, 안전 선호 확산에 낙폭 축소…1,535.80원 마감",
-    "summary": [
-      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 낙폭을 줄였다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "nfd211a76",
-    "category": "경제",
+    "id": "ndad159d0",
+    "category": "스포츠",
     "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260627/134192414/1",
-    "title": "트럼프 “디지털세 부과국 100% 관세…무역합의보다 우선”",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260627/134192451/1",
+    "title": "홍명보호 ‘3위 중 7위까지 추락’ 벼랑 끝…세네갈, 이라크 5-0 대파",
     "summary": [
-      "도널드 트럼프 미국 대통령이 디지털 서비스세를 도입하는 국가에 100% 추가관세를 부과하겠다고 26일(현지 시간) 경고했다.트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 “수많은 유럽국가들이 미국 기업들을 대상으로 디지털세의 조만간 시행을 논의해왔고, 이들 중 일부는 실제 시행에 근접했다”고 지적했다.이어 “이러한 세금을 부과하는 모든 국가는 미국으로 보내는 모든 상품에 대해 100% 관세가 즉시 부과될 것임을 밝힌다”고 강조했다.미국과."
+      "32강 진출 경우의 수를 놓고 다른 조 3위 상황을 심각하게 지켜보고 있는 한국 축구대표팀에 또 한 번 나쁜 결과가 나왔다.",
+      "세네갈이 이라크를 꺾고 I조 3위가 됐는데, 한국보다 골득실에서 앞선다.",
+      "세네갈이 27일 오전(한국시각) 캐나다 토론토 스타디움에서 벌어진 이라크와의 ‘2026 북중미 월드컵’ 조별리그 I조 최종전에서 5-0으로 크게 이겼다."
     ],
     "chips": [
-      "#수출",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f0b112f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "8분 전",
+    "url": "https://www.hankyung.com/article/2026062711497",
+    "title": "나스닥 5거래일째 하락…마이크론 6.69%↓ [뉴욕증시 브리핑]",
+    "summary": [
+      "나스닥 5거래일째 하락…마이크론 6.69%↓ [뉴욕증시 브리핑]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n81962b90",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685933",
+    "title": "서효림, 故김수미 '손맛' 잇는다…김치사업 시작",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 배우 서효림이 시어머니인 고(故) 김수미의 뜻을 이어 김치 사업에 본격적으로 뛰어든다.",
+      "27일 연예계에 따르면, 서효림은 최근 식품기업 '수미하우스'를 설립하고 대표직에 올랐다.",
+      "오는 8월 정식 론칭을 앞두고 현재 테스트 기간을 거치고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfdee3515",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/27/G4YTKY3BMQ3DIZDGMU3TGNBZHE/",
+    "title": "[단독]장동주 “신체훼손 영상, 사채업자에게 가족 지키기위한 선택..섣부른 판단 반성”(인터뷰)",
+    "summary": [
+      "[OSEN=김나연 기자] 배우 장동주가 신체 훼손 영상을 올린 속사정을 직접 밝혔다.27일 장동주는 자신의 신체를 훼손하는 영상을 올린 것과 관련해 OSEN에 “많은 분들이 볼 수 있는 공개적인 SNS에 해당 영상을 게시해 큰 충격과 심려를 끼쳐드린 점, 고개 숙여 진심으로 사과드린다”는 입장을 전했다.장동주는 지난달 22일 소셜 계정을 통해 돌출 행동을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc824ba0c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627010300504",
+    "title": "[북한날씨] 오후부터 구름 많아짐",
+    "summary": [
+      "(서울=연합뉴스) 이은정 기자 = 북한은 27일 전 지역 대체로 맑다가 오후부터 구름이 많아지겠다고 기상청이 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfb9e96c4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685930",
+    "title": "美, ‘대북 창구’ 스웨덴과 고위급 협의…\"北비핵화 전념\"(종합)",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 행정부가 26일(현지 시간) 북한과 외교관계를 유지하고 있는 스웨덴과 고위급 협의를 진행했다.",
+      "토머스 디나노 미 국무부 군비통제·국제안보 담당 차관은 이날 워싱턴DC 국무부 청사에서 피터 셈네비 스웨덴 한반도특사와 면담했다.",
+      "트럼프 2기 행정부 들어 미국과 스웨덴이 북한 문제 관련 고위급 협의를 진행한 것은 이번이 처음이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n14d5ef82",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260623137800065",
+    "title": "[로컬의 재발견] 인천 수도국산박물관, 달동네 추억 새록새록",
+    "summary": [
+      "[※ 편집자 주 = 저출산·고령화와 청년 유출로 지역 소멸 위기가 커지는 가운데 연합뉴스는 발상의 전환을 통해 각 지역의 숨은 자랑거리와 이야깃..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n22df83b0",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026062516374639786",
+    "title": "[Why&Next]호카 판권 둘러싼 '진흙탕 공방'…대기업들이 발 뺀 속사정",
+    "summary": [
+      "국내 러닝 열풍의 최대 수혜 브랜드로 꼽히는 호카(HOKA)의 한국 판권을 둘러싼 갈등이 장기전 양상으로 접어들고 있다.",
+      "최근 국내 총판사인 조이웍스가 미국 국제분쟁해결센터(ICDR)의 긴급명령을 근거로 사업권을 유지하게 됐다고 발표하며 여론전에 나섰지만, 패션업계의 시각은 싸늘하다.",
+      "이번 결정은 어디까지나 본안 판정 전까지 현 상태를 유지하기 위한 임시 조치일 뿐이며, 최종 결론은 아직 내려지지 않았다는 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n084877cd",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260627/134192448/1",
+    "title": "“차량 내 보조배터리 보관 위험” 완충 배터리 3시간 만에 90도까지 상승",
+    "summary": [
+      "지난달 4일 낮 12시 32분께 충남 아산시 탕정면의 한 야외주차장에 주차돼 있던 차량 조수석에서 불꽃이 일었다.",
+      "신고를 받고 출동한 소방대가 도착했을 때는 이미 차량 내부가 연기로 가득 찼다.",
+      "소방대가 15분 만에 불을 끄자 화재 원인이 고스란히 드러났다."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "nff48572a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260627/134192445/1",
+    "title": "미군, 상선 공격한 이란 미사일·드론 기지 공습",
+    "summary": [
+      "미국이 26일(현지시각) 이란을 공습했다.",
+      "하루 전 호르무즈 해협에서 발생한 이란의 화물선 드론 공격에 대한 대응으로, 도널드 트럼프 미 대통령은 이 공격이 휴전협정을 위반한 것이라고 밝혔다.미 중부사령부는 군이 이란 내 미사일 및 드론 기지와 해안 레이더 기지를 공격했다고 밝혔다.공습은 트럼프가 기자들에게 드론 공격에 미국이 대응할 것인지에 대해 “곧 알게 될 것”이라고 말한 직후 이뤄졌다.트럼프는 이란의 화물선 공격이 휴전 협정에 대한 “어."
+    ],
+    "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n94c32d54",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260627/134192441/1",
+    "title": "“저 물건도 집 안으로 옮겨놔”…택배기사 종 취급한 고객 ‘ㅋㅋ’ 조롱도",
+    "summary": [
+      "택배기사에게 다른 회사에서 배송된 물건까지 안으로 옮겨 놓으라고 요구한 고객이 이에 대한 항의를 받자 “굳이 굳이 세상을 참 힘들게 살려고 하냐?”라고 조롱까지 했다.26일 한 온라인 커뮤니티에는 “택배기사는 종인가”라는 내용의 글이 올라왔다.",
+      "자신을 택배기사라고 A 씨는 이날 한 고객과 주고받은 문자메시지를 공개하며 자신이 겪은 언짢은 상황을 전했다.공개된 배송요청 사항에 따르면 고객 B 씨는 A 씨에게 “1층 상가인데 뒷문 쪽으로 오시면 컨."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf872bd66",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026062415372356898",
+    "title": "\"다 빼앗기게 생겼어\" AI 키운 빅테크, 이젠 '불편' [테크토크]",
+    "summary": [
+      "편집자주AI, 반도체, 통신, 바이오에 이르기까지 우리 생활에 꼭 필요하지만 너무나 생소한 기술 이야기를 쉽게 풀어 전해 드립니다 \"인공지능(AI)이 세계 경제를 잡아먹게 내버려 둘 수는 없습니다.\" 사티아 나델라 마이크로소프트(MS) 최고경영자(CEO)가 지난 21일(현지시간) 미 금융 매체 월스트리트저널(WSJ)과의 인터뷰에서 한 발언입니다.",
+      "고성능 AI 모델이 대량 실직을 야기하는 와중에 막대한 AI 시설 투자를 감행할 수 없."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nc5f56aff",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626088800060",
+    "title": "출소 두 달 만에 무인사진관 절도 시도…미수 그쳤지만 실형",
+    "summary": [
+      "(의정부=연합뉴스) 심민규 기자 = 무인 사진관에서 돈을 훔치려다 경보음이 울리자 달아난 상습 절도범이 실형을 선고받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne6bc6695",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/27/MQYTQOLFMIYTSNBVGBRDENZWMQ/",
+    "title": "‘욱일기도 묵인한 비겁한 FIFA’ 이집트-이란의 반발에도 무지개 깃발 반입 허용",
+    "summary": [
+      "‘욱일기도 묵인한 비겁한 FIFA’ 이집트-이란의 반발에도 무지개 깃발 반입 허용."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7797e479",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026062711387",
+    "title": "미군, 호르무즈 해협서 이란에 보복 공습 단행…상선 피습 대응",
+    "summary": [
+      "미군, 호르무즈 해협서 이란에 보복 공습 단행…상선 피습 대응."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -622,18 +643,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "부동산",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
+    "tag": "부동산",
     "mentions": "1420건",
     "trend": "+115%"
   }
