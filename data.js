@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-26 20:32:03
+// 마지막 업데이트: 2026-06-26 21:27:55
 window.NEWS_DB = [
   {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n2aad78a4",
     "category": "사회",
     "source": "스포츠동아",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nc48b08b9",
     "category": "IT",
     "source": "시사저널e",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
     "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -156,7 +156,7 @@ window.NEWS_DB = [
     "id": "n64dc67f5",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
     "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
     "summary": [
@@ -225,38 +225,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6fd56a9c",
-    "category": "사회",
-    "source": "시사캐스트",
-    "time": "14일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
-    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
-    "summary": [
-      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
-    "id": "nd0c82b8d",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
     "id": "nb3bb73fa",
     "category": "경제",
     "source": "헤럴드경제",
@@ -286,18 +254,49 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
+    "id": "n5a1617c5",
     "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "134일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "source": "헤럴드경제",
+    "time": "45일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
-      "#재건축"
+      "#전세"
+    ]
+  },
+  {
+    "id": "nef414906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "128일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
+    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "summary": [
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "238일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -332,174 +331,252 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb27ac631",
+    "id": "n84b9fae9",
     "category": "스포츠",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260625_0003684053",
-    "title": "JYP 밴드' 엑스디너리 히어로즈', 인스파이어 아레나서 여름 콘서트",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685923",
+    "title": "홍명보호, 3위 경쟁 7위 추락…세네갈, 이라크 5-0 완파[월드컵24시]",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 밴드 '엑스디너리 히어로즈'(Xdinary Heroes·XH·엑디즈)가 27~28일 인천 인스파이어 아레나에서 단독 콘서트 '2026 서머 스페셜 '더 엑스케이프''를 펼친다.",
-      "지난해 서울 송파구 올림픽공원 올림픽홀, 핸드볼경기장 그리고 잠실실내체육관에 이르기까지 공연장 규모를 꾸준히 넓혀온 엑스디너리 히어로즈는 이번에 팀 단독 공연 기준 역대 최대 규모 공연장에 입성한다.",
-      "이번 공연은 티켓 예매 시작 직후 매진됐."
+      "[과달라하라(멕시코)=뉴시스]안경남 기자 = 홍명보호의 2026 북중미 월드컵 32강 진출 가능성이 점점 희미해지고 있다.",
+      "세네갈은 27일(한국 시간) 캐나다 토론토 스타디움에서 열린 대회 조별리그 I조 3차전에서 퇴장으로 10명이 싸운 이라크를 5-0으로 크게 이겻다.",
+      "1승 2패(승점 3)가 된 세네갈은 I조 3위로 32강 진출을 바라볼 수 있게 됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0475392f",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685716",
-    "title": "국평 17억 '장위푸르지오마크원' 등 8167가구 분양예정[분양캘린더]",
+    "id": "n5b015c42",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627009600063",
+    "title": "대전·세종·충남 낮 최고 32도…\"당분간 더운 날씨\"",
     "summary": [
-      "[서울=뉴시스]정유선 기자 = 7월 첫째 주 전국 14개 단지 총 8167가구가 분양을 시작한다.",
-      "이중 일반분양은 6541가구 규모다.",
-      "27일 부동산114에 따르면 청약일정은 서울 성북구 장위동 '장위푸르지오마크원', 경북 경산시 중산동 '펜타힐즈더블유1단지', 경남 김해시 신문동 '김해신문센트럴아이파크' 등에서 진행된다."
+      "(대전=연합뉴스) 이재림 기자 = 토요일인 27일 대전·세종·충남 지역은 낮 최고 기온 30도를 웃돌며 더울 것으로 전망된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n163f2958",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685920",
+    "title": "미군, 상선 공격한 이란 미사일·드론 기지 공습(종합)",
+    "summary": [
+      "[워싱턴=AP/뉴시스] 강영진 기자 = 미국이 26일(현지시각) 이란을 공습했다.",
+      "하루 전 호르무즈 해협에서 발생한 이란의 화물선 드론 공격에 대한 대응으로, 도널드 트럼프 미 대통령은 이 공격이 휴전협정을 위반한 것이라고 밝혔다.",
+      "미 중부사령부는 군이 이란 내 미사일 및 드론 기지와 해안 레이더 기지를 공격했다고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0afd5308",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627009500056",
+    "title": "제주 구름 많다가 오후부터 차차 맑아져",
+    "summary": [
+      "(제주=연합뉴스) 김호천 기자 = 토요일은 27일 제주는 구름 많다가 늦은 오후부터 차차 맑아지겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbcf3593a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627009200055",
+    "title": "전북 대체로 맑고 낮 최고 27~31도",
+    "summary": [
+      "(전주=연합뉴스) 최영수 기자 = 토요일인 27일 전북은 대체로 맑고 가끔 구름이 많겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nef144163",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627009100051",
+    "title": "부산·울산·경남 오후부터 차차 맑아져…낮 최고 26~31도",
+    "summary": [
+      "(부산=연합뉴스) 김재홍 기자 = 토요일인 27일 부산·울산·경남은 구름이 많다가 오후부터 차차 맑아지겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n306bc8ad",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685919",
+    "title": "[속보]홍명보호 3위 경쟁 7위로 추락…세네갈, 이라크 5-0 대파",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nef709dd9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684668",
+    "title": "\"피부만 타는 게 아니다?\"…이명 증상 키우는 일광화상의 위험성",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 햇볕에 의해 발생하는 피부 화상인 '일광화상'이 이명의 원인일 수 있다는 전문가의 경고가 나왔다.",
+      "지난 24일(현지시간) 영국 데일리메일은 일광화상이 피부를 넘어 귀 건강에도 영향을 미친다고 보도했다.",
+      "청각학자 케일리 워터스는 \"일광화상은 주로 피부에 문제를 일으키지만, 이명 증상도 악화시킬 수 있다\"고 설명했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2dcd1daf",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "27분 전",
+    "url": "https://www.hankyung.com/article/2026062608101",
+    "title": "\"술보다 좋아\" 핫플 찾은 2030 즐겨 먹더니…'대박' 터졌다",
+    "summary": [
+      "\"술보다 좋아\" 핫플 찾은 2030 즐겨 먹더니…'대박' 터졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n29c85f5a",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "27분 전",
+    "url": "https://www.hankyung.com/article/202606260368i",
+    "title": "[여기는 논설실] 국적의 낭만을 파는 월드컵, 그 이면의 인재 시장",
+    "summary": [
+      "[여기는 논설실] 국적의 낭만을 파는 월드컵, 그 이면의 인재 시장."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1d727720",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "27분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/27/OHHM6O2OXRE67IDSQDBK33GNBE/",
+    "title": "[체험기] 은은하게 빛나는 LED, 백색소음 매력적… 발뮤다 탁상 시계 ‘더클락’ 64만원대 가격은 부담",
+    "summary": [
+      "[체험기] 은은하게 빛나는 LED, 백색소음 매력적… 발뮤다 탁상 시계 ‘더클락’ 64만원대 가격은 부담."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n69f4aa14",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "27분 전",
+    "url": "https://www.hankyung.com/article/202606260617i",
+    "title": "중년 후 1년 새 체중 무섭게 불었다면…에너지 대사 균형 확인하세요[이지현의 생생헬스]",
+    "summary": [
+      "중년 후 1년 새 체중 무섭게 불었다면…에너지 대사 균형 확인하세요[이지현의 생생헬스]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb8cbb4a5",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626156400003",
+    "title": "[부동산캘린더] 내주 서울 성북구 장위푸르지오마크원 등 8천167가구 분양",
+    "summary": [
+      "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 8천167가구가 분양에 나선다."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "n7004a9a6",
+    "id": "nf378b2ec",
     "category": "부동산",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685046",
-    "title": "낡은 만물상 옆 17억 신축…'장위 푸르지오 마크원' 가보니[르포]",
-    "summary": [
-      "[서울=뉴시스] 강세훈 기자, 신연경 인턴기자 = 서울지하철 6호선 돌곶이역 2번 출구를 나오면 오른쪽으로 반듯하게 조성된 신축 아파트 단지들이 눈에 들어온다.",
-      "아직 재개발의 손길이 닿지 않은 왼쪽 구역을 끼고 5분가량 골목으로 걸어 들어가자 서울 성북구 '장위 푸르지오 마크원' 공사 현장이 모습을 드러낸다.",
-      "자재를 나르는 공사 차량과 인부들의 발걸음이 현장을 채우고 있었다."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
-    "id": "nd2bc98e6",
-    "category": "사회",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/06/24/B3WPAHIMJBGVXEQ55LRPNNENHI/",
-    "title": "돼지 양념구이 600g에 1만900원, 의심 많던 기자도 “훌륭한 한 끼였다”",
-    "summary": [
-      "돼지 양념구이 600g에 1만900원, 의심 많던 기자도 “훌륭한 한 끼였다”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c195e05",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/27/HFRWEMTBMEZDKZBTMQYDSMBTG4/",
-    "title": "‘21세’ 한국의 야마모토 깨어난다, ‘채은성-하주석 포진’ 한화 강타선 6이닝 2실점 제압…고난 끝→감격의 첫 QS 비상",
-    "summary": [
-      "[OSEN=이후광 기자] 스프링캠프에서 한국의 야마모토 요시노부(LA 다저스)로 주목받았던 신인 투수가 2군에서 방황을 마치고 감격의 첫 퀄리티스타트를 달성했다.",
-      "서준오(21·두산 베어스)는 26일 서산구장에서 펼쳐진 2026 메디힐 KBO 퓨처스리그 한화 이글스와의 원정경기에 선발 등판해 6이닝 5피안타 3사사구 2탈삼진 2실점 호투를 선보였다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb2931220",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627005400034",
-    "title": "전국 대체로 맑고 내륙지역 본격적인 무더위…낮 최고 32도",
-    "summary": [
-      "(서울=연합뉴스) 양수연 기자 = 토요일인 27일은 전국이 대체로 맑겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5eaf6d44",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/international/us/2026/06/27/TTV27YJZPNEL3K7MTTNXFXQTBQ/",
-    "title": "홍명보 11초 만에 울렸던 이 남자… 월드컵이 너무 감격스럽다",
-    "summary": [
-      "홍명보 11초 만에 울렸던 이 남자… 월드컵이 너무 감격스럽다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbe3e97bb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2025/11/05/MLYY4LSNFFFDXPOLMB4ZE55DUQ/",
-    "title": "연간 300만봉 팔리는 ‘남가네 설악추어탕’, 한 그릇 3125원 조선몰 단독 특가",
-    "summary": [
-      "연간 300만봉 팔리는 ‘남가네 설악추어탕’, 한 그릇 3125원 조선몰 단독 특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8cb8e8c0",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627005500072",
-    "title": "뉴욕증시, 기술주 고점 부담에 약세…나스닥 5일째 하락",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 26일(현지시간) 미국 뉴욕 증시는 기술주들의 고점 부담과 차익실현 매물이 이어지면서 3대 주요 지수가 일제..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndb3e30e8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003685914",
-    "title": "中 베이징 최고층 빌딩에 소형기 충돌…도심 아수라장",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 중국 베이징의 초고층 빌딩에 소형 항공기가 충돌하는 사고가 발생했다.",
-      "항공기 잔해와 건물 파편이 도로로 떨어지면서 시민들이 긴급 대피했지만, 정확한 인명 피해는 아직 확인되지 않았다.",
-      "26일(현지 시간) 뉴욕타임스(NYT)에 따르면 이날 오후 6시께 베이징 중심업무지구(CBD)에 위치한 중신타워(Citic Tower)에 소형 항공기가 충돌했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncab3b5f8",
-    "category": "IT",
-    "source": "연합뉴스",
     "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627005100091",
-    "title": "오픈AI, 새 AI모델 GPT-5.6 공개…美정부 요청에 일부기관 제공",
+    "url": "https://www.chosun.com/economy/real_estate/2026/06/27/YNCFYYWC3ZDMRGUJ6U5CXNPK64/",
+    "title": "‘닥치고 주택 공급’ 카드 중 하나는 폐교라는데…현실은",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 오픈AI가 차세대 인공지능(AI) 모델 'GPT-5.6' 제품을 공개했으나, 미국 정부의 요청으로 일..."
+      "‘닥치고 주택 공급’ 카드 중 하나는 폐교라는데…현실은."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc4c8f7b0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/economy/smb-venture/2026/06/27/ZLLMTG6LEFGVDOJ4IR54CMZP3Q/",
+    "title": "[산업X파일]서울의 그 많던 킥보드는 다 어디로 갔나… ‘이곳’ 지도 켜자 빽빽하게 떴다",
+    "summary": [
+      "[산업X파일]서울의 그 많던 킥보드는 다 어디로 갔나… ‘이곳’ 지도 켜자 빽빽하게 떴다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndd389c7c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/27/BLRQ6O52P5AWDEL7JPUDXGPX4Q/",
+    "title": "[그 영화 어때] 여러분은 무엇을 짝사랑하고 계신가요, ‘짝사랑 세계’",
+    "summary": [
+      "[그 영화 어때] 여러분은 무엇을 짝사랑하고 계신가요, ‘짝사랑 세계’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1cec0ae7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "54분 전",
+    "url": "https://www.chosun.com/international/us/2026/06/27/PLS4UPN7TNDI7CJQLL3QRM2R4U/",
+    "title": "이란, 호르무즈 선박에 드론 공격... 트럼프 “휴전 위반”... 미군은 공습",
+    "summary": [
+      "이란, 호르무즈 선박에 드론 공격... 트럼프 “휴전 위반”... 미군은 공습."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n1f4041ef",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260627004900072",
     "title": "국제유가, 공급 우려 해소에 급락…WTI 배럴당 70달러 아래로",
     "summary": [
@@ -513,7 +590,7 @@ window.NEWS_DB = [
     "id": "nccf7ba35",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260627004200002",
     "title": "달러-원, 안전 선호 확산에 낙폭 축소…1,535.80원 마감",
     "summary": [
@@ -527,7 +604,7 @@ window.NEWS_DB = [
     "id": "nfd211a76",
     "category": "경제",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260627/134192414/1",
     "title": "트럼프 “디지털세 부과국 100% 관세…무역합의보다 우선”",
     "summary": [
@@ -537,95 +614,6 @@ window.NEWS_DB = [
       "#수출",
       "#정치"
     ]
-  },
-  {
-    "id": "n8ef8e138",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260627/134192411/1",
-    "title": "21㎏ 감량 성공 손담비…지금도 계속하는 ‘이 루틴’ 뭐길래",
-    "summary": [
-      "출산 후 21㎏ 감량에 성공한 가수 겸 배우 손담비가 체중 감량 이후에도 꾸준히 이어가고 있는 웰니스 루틴을 공개했다.손담비는 최근 자신의 유튜브 채널을 통해 ‘웰니스 데이’ 브이로그를 공개하며 운동과 영양제, 피부 관리로 이어지는 하루 일상을 소개했다.손담비는 “영양제 효능을 어렸을 때는 잘 몰랐는데 꾸준히 먹으니까 좋더라”며 “뭐든 꾸준히 해야 한다”고 말했다.",
-      "그는 공복 상태에서 버터를 넣은 커피를 마신 뒤 운동을 하고, 식사 후에는 아미."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nacad5c2c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260627/134192395/1",
-    "title": "오세훈 “호남 반도체 투자, 기업자유 침해한 ‘국정운영 사유화’”",
-    "summary": [
-      "오세훈 서울시장은 26일 정부의 호남 반도체 클러스터 투자 추진과 관련해 “표 계산을 위해 대기업의 팔을 비틀고 기업활동의 자유를 침해한 ‘국정운영 사유화’”라고 주장했다.오 시장은 이날 페이스북을 통해 “산업의 생존 조건인 전력·용수·인재 확보는 무시한 채, 오로지 선거용 지지층 결집만을 노린 무책임한 개입으로 국가 경쟁력을 갉아먹고 있다”면서 이렇게 말했다.또 그는 “더 심각한 것은 강성 지지층의 검찰 적개심에 편승해 국가의 사법 시스템마저."
-    ],
-    "chips": [
-      "#반도체",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4e2a4459",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260627/134192390/1",
-    "title": "반도체 호남행에…한동훈 “명청대전 총알” 고민정 “구태정치”",
-    "summary": [
-      "고민정 더불어민주당 의원과 한동훈 무소속 의원이 26일 정부의 ‘호남권 제2반도체 클러스터’ 조성 계획을 두고 SNS에서 공방을 벌였다.한 의원은 이날 페이스북을 통해 정부 요구에 따른 호남권 조성론에 단호히 반대하며 삼성전자와 SK하이닉스 이사회 이사들에게 “단호히 반대해 달라”고 촉구했다.한 의원은 “삼성전자와 하이닉스 반도체 제2클러스터는 소액주주를 위하겠다는 명분으로 상법 개정을 밀어붙인 이재명 정부의 진의가 어디에 있었나 의심하게 한다."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n313976ad",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "5시간 전",
-    "url": "https://www.hankyung.com/article/2026062610421",
-    "title": "\"김병기, 김경 만난 뒤 쇼핑백 들고와\"",
-    "summary": [
-      "\"김병기, 김경 만난 뒤 쇼핑백 들고와\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nae3358cd",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "5시간 전",
-    "url": "https://www.hankyung.com/article/202606269465i",
-    "title": "나라가 작정하고 '왕따'시킨 男…쫓겨난 뒤 '역대 최고' 됐다 [성수영의 그때 그 사람들]",
-    "summary": [
-      "나라가 작정하고 '왕따'시킨 男…쫓겨난 뒤 '역대 최고' 됐다 [성수영의 그때 그 사람들]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n49dcd2f4",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "6시간 전",
-    "url": "https://www.hankyung.com/article/2026062610577",
-    "title": "'비상사태' 베네수엘라 \"지진 사망자 589명·부상 2980명으로 늘어\" [종합]",
-    "summary": [
-      "'비상사태' 베네수엘라 \"지진 사망자 589명·부상 2980명으로 늘어\" [종합]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -634,18 +622,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "부동산",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
+    "tag": "엔비디아",
     "mentions": "1420건",
     "trend": "+115%"
   }
