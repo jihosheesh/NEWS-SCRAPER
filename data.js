@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-26 10:59:26
+// 마지막 업데이트: 2026-06-26 11:56:26
 window.NEWS_DB = [
   {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n2aad78a4",
     "category": "사회",
     "source": "스포츠동아",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nc48b08b9",
     "category": "IT",
     "source": "시사저널e",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
     "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -110,17 +110,20 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n93563301",
+    "id": "n93f8c75d",
     "category": "IT",
-    "source": "연합뉴스",
+    "source": "비즈니스포스트",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zR2FqRU9RY29vUzEwMU5KVDl5cWNScGYweVFCQjhmZGt2NFQ2b2FqVTd3VDdkRWZxVlVlMDROaDZkT2tQeEpTSThxVkw4WDdTWDhiNmFBWDVMeEnSAWBBVV95cUxOT0h2M0Y1eW02QjdaWXREWUF2R0N1VGdJc0c4SzFqV2V4NGxEaXQ3TnhDeVE5WVlBY21NbnhwR1BrdmdLY0JOTUdZeHdPekZxaHd2em9NdVZqb2ZqZHRZM0Q?oc=5",
-    "title": "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\"",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tSktnTFdxTDNNNzhFQlM3dlhQT1dydUxyc1Jpb25xaDZHLXVDcUkzMEtMOUM0WUJURzN2ellCZFREazN5NUlmWnR6Q3RRNllXVjhVaTI0WTJBZWwzN3hyQzRNRHRUaVVJTmhVZUNVOUc2aW8?oc=5",
+    "title": "엔비디아 AI 반도체 가격 중국 암시장에서 2배 급등, 미국 수출통제 강화로 수급 어려워져",
     "summary": [
-      "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\" 연합뉴스."
+      "엔비디아 AI 반도체 가격 중국 암시장에서 2배 급등, 미국 수출통제 강화로 수급 어려워져 비즈니스포스트."
     ],
     "chips": [
-      "#엔비디아"
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#수출"
     ]
   },
   {
@@ -271,20 +274,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79d12fb6",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "28일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
-    "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -297,6 +286,21 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "134일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
     ]
   },
   {
@@ -315,10 +319,267 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1449cb40",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026062620423950001",
+    "title": "'한국行 포기' 유승준, 남아공전 패배에 \"화가 안 풀려\"",
+    "summary": [
+      "한국계 미국인 가수 유승준(스티븐 유)이 대한민국 축구대표팀의 남아공전 패배에 아쉬움을 드러냈다.",
+      "26일 유승준은 자신의 인스타그램에 헬스장에서 강도 높게 운동하는 영상을 올리며 \"축구 때문에 열받아서 운동하는 거 아닙니다.",
+      "원래 화는 헬스장에서 풉니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n02861c13",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026062620463454767",
+    "title": "재미동포 줄리 김, 日 최대 제약사 다케다 첫 여성 CEO 취임",
+    "summary": [
+      "재미동포 여성인 줄리 김이 일본 최대 제약사 다케다제약의 신임 최고경영자(CEO)로 취임했다.",
+      "다케다제약 245년 역사상 여성이 CEO에 오른 것은 이번이 처음이다.",
+      "26일 니혼게이자이신문(닛케이)에 따르면 김 신임 CEO는 지난 24일 다케다제약의 새 CEO로 취임했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ncb39b4f6",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003685842",
+    "title": "한화 노시환, 데뷔 첫 4경기 연속 홈런 폭발…시즌 14호",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 프로야구 한화 이글스 거포 노시환의 홈런포가 멈출 줄 모른다.",
+      "노시환은 26일 인천 SSG랜더스필드에서 벌어진 2026 신한 쏠 KBO리그 SSG 랜더스와의 경기에 5번 타자 3루수로 선발 출전해 6회 홈런을 쳤다.",
+      "팀이 2-1로 앞선 6회초 2사 2루에서 타석에 들어선 노시환은 SSG 선발 투수 토마스 해치의 시속 149㎞ 직구를 통타해 가운데 담장을 넘기는 투런 홈런을 폭발했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n152145c3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/06/26/GNRGENBSMQYTIM3GMU2DKOLCMM/",
+    "title": "토스 포스, 점심 이어 저녁에도 장애… 자영업자 “영업 차질”",
+    "summary": [
+      "토스 자회사 토스플레이스가 제공하는 매장 관리·결제 시스템 ‘토스 포스’에서 26일 점심시간에 이어 저녁 영업시간대에도 접속·결제 오류가 발생해 일부 자영업자들이 불편을 겪었다.",
+      "업계에 따르면 이날 오후 5시 45분쯤부터 자영업자 온라인 커뮤니티 등에는 토스 포스가 정상적으로 작동하지 않아 매장 운영에 어려움을 겪고 있다는 게시글이 잇따라 올라왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c4a60c6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003685835",
+    "title": "중노위 \"울산박물관, 하청노조 '사용자' 아냐\"…재심도 '기각'",
+    "summary": [
+      "[서울=뉴시스] 강지은 기자 = 울산시립박물관을 하청 노동자들의 '사용자'로 볼 수 없어 교섭 요구에 응할 의무가 없다는 노동위원회의 판단이 재차 나왔다.",
+      "중앙노동위원회는 26일 공공연대노동조합이 울산박물관(울산광역시)을 상대로 제기한 '교섭요구 사실의 공고에 대한 시정 재심신청'에 대해 울산지방노동위원회의 초심 결정을 유지했다고 밝혔다.",
+      "앞서 지난 4월 30일 울산지노위는 울산박물관에서 미화·시설관리·경비 등의 업무를 하는 하청 노동자들의 원."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1155b80",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626168700530",
+    "title": "이북5도 함경남도지사에 진봉헌 변호사…함경북도지사 최면 교수",
+    "summary": [
+      "(서울=연합뉴스) 양정우 기자 = 행정안전부는 이북5도 함경남도지사에 진봉헌 법률사무소 제일 변호사를 임용했다고 26일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n57fae88b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626161551504",
+    "title": "[한반도 심포지엄] \"한미동맹, 美현안에 연루우려 커져\"…국익중심 대응 주문(종합)",
+    "summary": [
+      "(서울=연합뉴스) 전명훈 기자 = 도널드 트럼프 2기 행정부 출범 이래 전 세계적인 동맹 질서 균열과 미중 전략 경쟁 심화 속에 한국이 '한미동..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c382247",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003685840",
+    "title": "김남준 \"與 전당대회, 상대 죽이는 '전쟁' 안돼…분열·배제 언어 거둬 달라\"",
+    "summary": [
+      "[서울=뉴시스]김윤영 기자 = 이재명 대통령 핵심 측근으로 꼽히는 청와대 대변인 출신의 김남준 더불어민주당 의원이 당권 경쟁에 대해 \"'잘하기 경쟁'을 해야지, 상대 물어 뜯고 죽이는 '전쟁'을 해서는 안 된다\"고 했다.",
+      "김 의원은 26일 페이스북을 통해 이같이 말한 뒤 \"당권주자로 나서실 선배님들께 부탁드린다\"며 \"분열과 배제의 언어를 거두고 자신의 지지층에도 당부해달라\"고 덧붙였다.",
+      "그러면서 \"갈라치기 하느라 남 탓하는 것보다, 책임감 있는."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7065d2fd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260626/134191067/1",
+    "title": "“너무 선정적” 울컥한 한성숙…무슨 질문 받았기에?",
+    "summary": [
+      "한성숙 국무총리 후보자의 인사청문회 이틀째인 26일 여야는 한 후보자가 오피스텔을 헐값에 매매했다는 의혹을 두고 격돌했다.",
+      "국민의힘은 “대가성 우회 증여” 의혹을 제기했고, 더불어민주당은 “초등학생도 하지 않을 억측”이라고 반박했다.",
+      "이날 청문회에선 정부와 여당이 추진하는 검찰의 보완수사권 전면 폐지와 공소취소 특검 등도 도마에 올랐다.국민의힘 김희정 의원은 청문회에서 한 후보자가 한 때 고 노무현 전 대통령의 부인 권양숙 여사의 머리 손질을."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nedd8e87e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626167800108",
+    "title": "우크라 '40일 작전' 선언 후 대공습…러, 크림반도에 비상사태",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 우크라이나가 전쟁 종식을 앞당기기 위한 '40일 작전'을 선포한 직후 러시아에 대규모 공습을 가했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92dedc05",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003685841",
+    "title": "이 대통령, 日의원단에 \"국제관계 유동적, 한일관계 개선 양국에 도움\"(종합)",
+    "summary": [
+      "[서울=뉴시스]김지은 이인준 기자 = 이재명 대통령은 26일 일본 초당파 의원 모임인 일한의원연맹을 만나 \"국제 관계가 최근에 많이 복잡해지고 유동적인데 이럴 때일수록 한일 관계가 많이 개선되는 것이 양국 모두에게 도움이 될 거라고 생각한다\"고 밝혔다.",
+      "이 대통령은 이날 오후 청와대에서 다케다 료타 일한의원연맹 회장을 접견하고 \"한국과 일본을 두고 '가깝고도 먼 나라' 이렇게 평가되는데 저는 한일 관계가 많이 개선돼서 '가깝고 또 가까운' 그런."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n59eadfea",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626167400073",
+    "title": "재미동포 줄리 김, 일본 최대 제약사 첫 여성 CEO 취임",
+    "summary": [
+      "(도쿄=연합뉴스) 이도연 특파원 = 재미동포 여성이 일본 최대 제약사의 신임 최고경영자(CEO)로 취임했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n499dc098",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026062609837",
+    "title": "박상용 \"이화영 '쪼개기 후원' 항소 포기, 누가 지시했나\"",
+    "summary": [
+      "박상용 \"이화영 '쪼개기 후원' 항소 포기, 누가 지시했나\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf8f0f103",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026062620302540888",
+    "title": "시진핑, 베네수엘라 강진 위로전…\"구호·재건 지원\"",
+    "summary": [
+      "시진핑 중국 국가주석이 강진 피해를 입은 베네수엘라에 위로를 전하고 구호와 재건을 지원하겠다는 뜻을 밝혔다.",
+      "26일 중국중앙TV(CCTV)에 따르면 시 주석은 이날 델시 로드리게스 베네수엘라 임시 대통령에게 위로 전보를 보냈다.",
+      "시 주석은 \"베네수엘라에서 강한 지진이 발생해 심각한 인명 피해와 재산 손실이 났다는 소식을 듣고 놀랐다\"며 \"중국 정부와 인민을 대표해 사망자들에게 깊은 애도를 표하고, 유가족과 부상자들에."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5085686c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260626/134191484/1",
+    "title": "이현재 “하남만 가능한 K-컬처 도시”…K-스타월드 승부수",
+    "summary": [
+      "“서울 가까이, 이만한 부지를 확보할 수 있는 곳은 하남뿐입니다.”이현재 하남시장은 26일 서울 강남구 대치동 섬유센터에서 열린 ‘K-컬처 복합 콤플렉스(K-스타월드) 도시개발사업’ 민간 참여자 공모 사업설명회에서 “세계적인 문화 콘텐츠 산업의 중심지가 될 것”이라며 글로벌 문화·영상산업 거점 조성에 대한 강한 자신감을 내비쳤다.K-스타월드는 하남시 미사동 일원 약 118만㎡ 부지에 K-팝 공연장과 세계적 수준의 영화 촬영 스튜디오, 호텔, 영."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n735c8c23",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "32분 전",
+    "url": "https://view.asiae.co.kr/article/2026062620240333765",
+    "title": "“말 안 통해 막막”…경기도, 이주민 ‘의료 문턱’ 낮추기 나섰다",
+    "summary": [
+      "경기도가 우리 사회의 일원으로 자리 잡은 이주민들이 의료 서비스 이용 과정에서 겪는 이른바 '언어 장벽'과 '정보 소외' 문제를 해결하기 위해 팔을 걷어붙였다.",
+      "경기도는 26일 성남시가족센터에서 '경기도 이주민 커뮤니티 정책간담회'를 열고 보건·의료 분야에서 이주민들이 겪는 실질적인 불편 사항을 청취하고 정책 개선 방안을 논의했다.",
+      "이번 간담회는 지난 24일 경기도의회를 통과한 '경기도 외국인 공공보건 접근성 향상."
+    ],
+    "chips": [
+      "#정책",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n098073dd",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "34분 전",
+    "url": "https://www.hankyung.com/article/202606260622i",
+    "title": "\"금융위기급 변동성…이 두 가지 키웠다\"",
+    "summary": [
+      "\"금융위기급 변동성…이 두 가지 키웠다\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nca65c782",
     "category": "부동산",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "49분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152920",
     "title": "\"장충체육관이 들썩인다\"...배틀그라운드 국가대항전 'PNC 2026' 서울서 격돌",
     "summary": [
@@ -334,7 +595,7 @@ window.NEWS_DB = [
     "id": "n4006801a",
     "category": "경제",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "49분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152921",
     "title": "중소 알뜰폰 사업자 대상 전파사용료 감면 확대...50%→90%",
     "summary": [
@@ -347,286 +608,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9803a133",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685830",
-    "title": "[인사]행정안전부",
-    "summary": [
-      "[서울=뉴시스] ◇차관급 임용 ▲이북5도 함경남도지사 진봉헌 ▲이북5도 함경북도지사 최면."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfb1b97df",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685826",
-    "title": "국조실, 국제개발협력 인력 양성 개선 추진…\"현장수요 기반 체계 마련\"",
-    "summary": [
-      "[서울=뉴시스]이인준 기자 = 국무조정실 국제개발협력본부는 국제개발협력 분야의 직무 특성 및 인력수급 현황을 분석하고, 전문인력 양성·활용체계 개선방안을 마련한다.",
-      "국제개발협력본부는 26일 경제·인문사회연구회가 주최한 '지속가능한 국제개발협력 인재양성 및 산업생태계 구축방안 연구' 착수보고회에 참석하고, 오는 12월까지 개선방안 연구를 추진키로 했다.",
-      "권용식 개발협력기획국장은 \"국제개발협력의 지속가능성은 사람과 전문성에 기반한다\"며 \"현장 수요."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7698029c",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685822",
-    "title": "복귀전서 통증 재발…키움 이주형, 햄스트링 부상으로 시즌 아웃",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 키움 히어로즈 외야수 이주형이 햄스트링(허벅지 뒤 근육) 부상으로 시즌을 마감했다.",
-      "키움 구단은 26일 \"이주형이 두 차례 정밀 검진 결과 오른쪽 대퇴이두근 부분 손상 진단을 받았다\"고 밝혔다.",
-      "이어 \"부상 재발 방지와 완전한 회복을 위해 충분한 시간을 두고 치료와 재활을 진행하는 것이 필요하다고 판단했다\"며 \"이번 시즌 남은 기간 부상 치료와 재활에 전념할 계획\"이라고 덧붙였다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8268bfef",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626166700065",
-    "title": "인천 '불법사금융 의심' 사건, 인천청 광역수사대가 직접 수사",
-    "summary": [
-      "(인천=연합뉴스) 최은지 기자 = 인천경찰청은 인천 서부경찰서에 접수된 '불법사금융' 의심 사건과 관련해 담당 부서를 인천청 광역범죄수사대로 격..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd7305f19",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/26/MQZDEOLCMRTGKYRVGQ2TSMBVMU/",
-    "title": "'마지막 8위로 턱걸이할 듯' 日도 홍명보호 '와일드카드' 진출 여부에 급관심, 3위 팀간 순위에서 4위→6위 급추락..일본 팬들 '엄청 위험해졌다'",
-    "summary": [
-      "[스포츠조선 노주환 기자]국내 축구 팬들 이상으로 일본도 홍명보호의 북중미월드컵 조별리그 통과에 관심을 갖고 있다.",
-      "한국 축구대표팀은 이번 월드컵 조별리그 A조 3위로 32강 자력 진출에 실패한 가운데 다른 조의 경기 결과에 따라 와일드카드로 올라갈 가능성이 있다.",
-      "초조하게 다른 조 조별리그 경기가 모두 끝나기만을 기다리고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n83406ad9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/26/GRRGGMZQMU2GKMRUGI3TIODBMY/",
-    "title": "남보라, 첫 아들 이름 공개 \"콩알→다니엘\"···KBS '편스토랑' 의리까지",
-    "summary": [
-      "[OSEN=오세진 기자] 배우 남보라의 아들 이름이 밝혀졌다.",
-      "'다니엘'이었다.26일 남보라는 자신의 소셜 계정에 한 장의 사진을 공개했다.",
-      "남보라는 센스 넘치는 선물 위로 다정한 손글씨가 적힌 손편지를 함께 공개했는데 해당 편지에는 남보라의 아들 이름이 적혀 있었다.편지를 보낸 발신인은 바로 KBS2TV 예능 '편스토랑' 제작팀이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nacd049f0",
-    "category": "사회",
+    "id": "ne1ef16b6",
+    "category": "부동산",
     "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260626/134191464/1",
-    "title": "김민석 “과한 언어·태도로 대통령 비판, 亂 같은 것으로 연결돼”",
+    "time": "50분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260626/134191570/1",
+    "title": "부산 다대동 아파트서 불…50대 남성 추락해 숨져",
     "summary": [
-      "김민석 국무총리는 26일 “‘내가 더 잘 판단할 수 있는데’라며 과한 언어나 태도로 대통령을 비판하는 건 과거로 치면 자칫 과잉 자신감에 의한 난(亂) 같은 것으로도 연결될 수 있다”고 했다.",
-      "보완수사권과 관련해 김 총리를 비판한 정청래 전 더불어민주당 대표를 우회적으로 비판한 것 아니냐는 해석이 나온다.",
-      "김 총리는 이날 광주 김대중컨벤션센터에서 열린 ‘김대중 정치학교 워크숍 특강’ 강연에서 “우리는 최고지도자 대통령에 대해 직언도 하고 의견도."
+      "26일 오후 5시 3분쯤 부산 사하구 다대동의 25층짜리 아파트 23층에서 불이 났다.불은 인근 주민이 불이 난 세대에서 검은 연기가 나는 것을 보고 119에 신고했다.불이 난 세대에 거주하던 50대 남성은 아파트 뒤편 화단으로 추락했다.",
+      "이 남성은 심정지 상태로 인근 병원에 이송됐지만, 끝내 숨졌다.",
+      "이 불로 당시 아파트 안에 있던 주민 35명이 대피했다."
     ],
     "chips": [
-      "#정치",
-      "#교육"
+      "#부동산",
+      "#의료"
     ]
   },
   {
-    "id": "n4a7329ca",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626165700005",
-    "title": "[게시판] BBS불교방송 시사프로 '아침저널' 새 앵커에 정혜승",
-    "summary": [
-      "[게시판] BBS불교방송 시사프로 '아침저널' 새 앵커에 정혜승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5108511a",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260626/134188704/1",
-    "title": "주유소 기름값 1800원대로…석유 최고가격 150원 전격 인하",
-    "summary": [
-      "국제유가가 중동전쟁 이전 수준까지 떨어지면서 정부가 석유 최고가격을 3개월 만에 낮추기로 했다.",
-      "다만 중동 정세 불안이 여전하다고 보고 최고가격제는 유지하기로 했다.",
-      "하반기(7~12월) 전기·가스 등 주요 공공요금은 동결하고, 농축수산물 할인 등에 1조 원을 투입하며 물가 안정 총력전에 나서는 모습이다.구윤철 부총리 겸 재정경제부 장관은 26일 정부서울청사에서 비상경제본부회의(경제관계장관회의) 겸 민생물가 특별관리 관계장관 태스크포스(TF)를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e628c75",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685824",
-    "title": "저스틴 비버, 코첼라 첫 헤드라이너 실황 앨범 깜짝 발매",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 캐나다 출신 글로벌 팝스타 저스틴 비버(Justin Bieber)가 미국 대형 음악축제 '코첼라 밸리 뮤직 앤드 아츠 페스티벌(Coachella Valley Music and Arts Festival)' 첫 헤드라이너 공연의 전율을 담은 실황 앨범을 선보였다.",
-      "26일 음반 유통사 유니버설뮤직에 따르면, 비버는 이날 라이브 앨범 '스웨그 라이브 프롬 코첼라(위크엔드 I)(SWAG LIVE FROM COACHELLA."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n572ec5f5",
-    "category": "IT",
-    "source": "테크M",
-    "time": "14분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152919",
-    "title": "카카오뱅크, '인뱅 최초' 캐피탈 진출…예적금·대출 너머 종합금융 플랫폼으로",
-    "summary": [
-      "카카오뱅크가 캐피탈업에 신규 진출한다.",
-      "국내 인터넷전문은행 가운데 캐피탈사 라이선스를 확보하는 첫 사례로, 예·적금과 대출 중심으로 운영돼온 인뱅 사업 모델이 비은행 여신 영역으로 본격 확장되는 분기점이라는 평가다.",
-      "9년차에 접어든 인뱅이 '은행 단일 라이선스'라는 구조적 한계를 처음으로 넘어서는 행보라는 분석이 나온다카카오뱅크는 지난 25일 마스턴캐피탈 지분 100% 인수를 추진한다고 공시했다."
-    ],
-    "chips": [
-      "#카카오"
-    ]
-  },
-  {
-    "id": "ne0642dd3",
+    "id": "n1af34c76",
     "category": "경제",
     "source": "한국경제",
-    "time": "14분 전",
-    "url": "https://www.hankyung.com/article/2026062609531",
-    "title": "주말 낮 최고 33도…오존 농도 '매우 나쁨'",
+    "time": "49분 전",
+    "url": "https://www.hankyung.com/article/2026062609737",
+    "title": "프랑스 40도 폭염에 48명 사망…결국 음주 금지령 내려",
     "summary": [
-      "주말 낮 최고 33도…오존 농도 '매우 나쁨'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85b1c92c",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "20분 전",
-    "url": "https://view.asiae.co.kr/article/2026062619390674040",
-    "title": "교황 \"전쟁은 결코 축복받을 수 없어…인간답게 갈등 풀어야\"",
-    "summary": [
-      "레오 14세 교황이 \"전쟁은 결코 하느님의 축복을 받을 수 없다\"며 국제사회에 평화와 종전을 촉구했다.",
-      "26일 교황청에 따르면 교황은 이날 추기경 회의 개막 연설에서 \"첨단 무기가 있다고 해도 창조주는 우리가 짐승이 아니라 인간답게 갈등을 해결하도록 지성과 자유의지를 주셨다\"고 밝혔다.",
-      "이어 \"인류의 통합은 개별 민족과 국가에 앞선다\"며 \"이는 단순한 생물학적 사실이 아니라 윤리적 원칙\"이라고 강조했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf25aa43e",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626164800017",
-    "title": "'차량을 디지털 플랫폼으로'…네이버·현대차, 모빌리티 협력",
-    "summary": [
-      "(서울=연합뉴스) 한상용 기자 = 네이버가 현대차그룹의 차세대 인포테인먼트 시스템에 네이버앱과 네이버지도, 웨일 브라우저를 제공하며 모빌리티 부..."
-    ],
-    "chips": [
-      "#네이버"
-    ]
-  },
-  {
-    "id": "nd5a9e503",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260626/134191367/1",
-    "title": "[속보]석유 최고가격, 150원 전격 인하…27일 0시부터 적용",
-    "summary": [
-      "[속보]석유 최고가격, 150원 전격 인하…27일 0시부터 적용."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb993618b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "24분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260626/134191362/1",
-    "title": "홈플러스 피해자 비대위, MBK 측에 자본출연 촉구",
-    "summary": [
-      "홈플러스 물품구매전단채 피해자 비상대책위원회(홈플러스 피해자 비대위)가 법원의 회생계획 인가를 앞두고 홈플러스 회생을 위해 대주주인 MBK파트너스가 책임 자본출연 계획을 즉각 발표해야 한다고 촉구했다.",
-      "특히 홈플러스 정상화를 위해 김병주 MBK파트너스 회장의 사재 출연을 재차 요구했다.홈플러스 피해자 비대위는 26일 서울 종로구 MBK파트너스 본사 앞에서 ‘MBK 김병주 회장 사재출연 및 책임 자본출연 촉구 기자회견’을 열었다.비대위 측은 기자."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4a17dbdb",
-    "category": "IT",
-    "source": "테크M",
-    "time": "25분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152917",
-    "title": "리플 RLUSD, 일본 첫 '외국 달러 스테이블코인' 승인…아시아 결제망 패권 경쟁 본격화",
-    "summary": [
-      "블록체인 금융 솔루션 리플(Ripple)이 일본 금융그룹 SBI홀딩스와 손잡고 미국 달러 기반 스테이블코인 '리플USD(RLUSD)'를 일본 시장에 공식 출시했다.",
-      "일본 금융당국 체계 아래 외국 발행 스테이블코인이 제도권 결제수단으로 인정받은 첫 사례라는 점에서 글로벌 스테이블코인 경쟁 구도의 분수령이 될 수 있다는 평가가 나온다.26일 업계에 따르면 리플과 SBI홀딩스, SBI VC트레이드는 지난 24일 RLUSD의 일본 내 서비스를 공식 개."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n69277fd3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "25분 전",
-    "url": "https://www.hankyung.com/article/2026062609397",
-    "title": "美 목장서 탈출한 기린…나무만큼 큰 키에도 2주째 '오리무중'",
-    "summary": [
-      "美 목장서 탈출한 기린…나무만큼 큰 키에도 2주째 '오리무중'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n32f5a076",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626164900109",
-    "title": "교황 \"전쟁은 축복 못받아…짐승 아닌 인간으로 갈등 풀어야\"",
-    "summary": [
-      "(바티칸=연합뉴스) 민경락 특파원 = 레오 14세 교황은 26일(현지시간) \"전쟁은 결코 하느님의 축복을 받지 못한다\"며 전 세계 평화와 종전을..."
+      "프랑스 40도 폭염에 48명 사망…결국 음주 금지령 내려."
     ],
     "chips": [
       "#뉴스"
@@ -639,20 +645,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "부동산",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
