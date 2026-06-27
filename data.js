@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-27 05:15:51
+// 마지막 업데이트: 2026-06-27 07:00:34
 window.NEWS_DB = [
   {
     "id": "nccb73b86",
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "n8908d258",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnM9IBYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnMw?oc=5",
     "title": "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검'",
     "summary": [
@@ -183,7 +183,7 @@ window.NEWS_DB = [
     "id": "n5ace0115",
     "category": "스포츠",
     "source": "네이트",
-    "time": "8일 전",
+    "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
     "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
     "summary": [
@@ -211,7 +211,7 @@ window.NEWS_DB = [
     "id": "n7c9e9138",
     "category": "경제",
     "source": "한국경제",
-    "time": "14일 전",
+    "time": "15일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaTJiYVJiLWtIZnlfZ3VRWm9HeW5QTWhMemtKSDYwdnFZNkRwVmhPN3B3aEpNeVdsLU82V0k3Q0t2Tm9sNHQ5QUJHeF9VcW1XTDNHdGNDMERRZ9IBVEFVX3lxTE5UMmczREttNy14TjBUVE1NeG1kNUQ3WDNZbko4N3JQb3RKY1hEc29pNjFJaHFnUzRzSnFLOVVrano4QWpNSklVTVRyTWxzV1k0ZFVyMQ?oc=5",
     "title": "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각",
     "summary": [
@@ -226,7 +226,7 @@ window.NEWS_DB = [
     "id": "n71a254ee",
     "category": "경제",
     "source": "뉴시스",
-    "time": "14일 전",
+    "time": "15일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
     "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
     "summary": [
@@ -239,10 +239,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6fd56a9c",
+    "category": "사회",
+    "source": "시사캐스트",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
+    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
+    "summary": [
+      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
     "id": "nd0c82b8d",
     "category": "사회",
     "source": "대학IN",
-    "time": "18일 전",
+    "time": "19일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
     "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
     "summary": [
@@ -259,7 +274,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "28일 전",
+    "time": "29일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -268,22 +283,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "128일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -305,7 +304,7 @@ window.NEWS_DB = [
     "id": "n5de3a708",
     "category": "스포츠",
     "source": "매일경제",
-    "time": "266일 전",
+    "time": "267일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QM3o3WDFBWFAwR1FNOUpxcnNpcGR0VHRqYWl6Yzl3cEtFckE4dGRXSWNTckFOUUZqS2djY3o5YldxTGg2M0JXZ2tra1RJZ0U5NUpN?oc=5",
     "title": "손흥민 출격·가을야구도 시작 … 한가위 달굴 스포츠",
     "summary": [
@@ -384,261 +383,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1b345f98",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026062714072448793",
-    "title": "\"삼성 워치페이스가 명품 시계 베꼈다\"…스와치, 2600억 손배 청구",
-    "summary": [
-      "스위스 시계 제조업체 스와치그룹이 삼성전자를 상대로 약 1억7000만달러(약 2600억원) 규모의 손해배상을 요구했다.",
-      "갤럭시 스마트워치에서 유통된 워치페이스가 자사 명품 시계 디자인을 무단으로 모방해 상표권을 침해했다는 주장이다.",
-      "영국 파이낸셜타임스(FT)는 25일(현지시간) 스와치가 영국 런던 고등법원에서 진행 중인 손해배상 심리에서 삼성전자의 책임을 근거로 이 같은 배상액을 청구했다고 보도했다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nd8e8d36c",
-    "category": "스포츠",
-    "source": "뉴시스",
+    "id": "n07446529",
+    "category": "사회",
+    "source": "동아일보",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003686057",
-    "title": "이집트, 이란과 1-1 무승부…한국 3위 경쟁 '7위→8위'[월드컵24시]",
+    "url": "https://www.donga.com/news/Politics/article/all/20260627/134193133/1",
+    "title": "김건희측 “김 여사, 징역 7년 선고 후에도 동요 없었다”",
     "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 이집트가 이란과 무승부를 거두면서 홍명보 감독이 이끄는 한국 남자 축구 대표팀의 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 통과에 적신호가 켜졌다.",
-      "이집트는 27일 오후 12시(한국 시간) 미국 워싱턴주 시애틀의 시애틀 스타디움에서 열린 이란과의 조별리그 G조 3차전에서 1-1 무승부를 거뒀다.",
-      "이날 결과로 이집트는 G조 2위로 32강에 진출하게 됐다."
+      "김건희 여사의 변호인이 김 여사가 ‘매관매직’ 혐의로 1심에서 징역 7년을 선고받은 후에도 동요하지 않았다고 밝혔다.김 여사 변호인단 소속 유정화 변호사는 26일 자신의 소셜미디어(SNS) 계정을 통해 “선고 직후 바로 남부구치소로 가서 (김 여사를) 찾아뵈었다”고 밝혔다.유 변호사는 “(김 여사가) 늘 그렇듯이 괜찮으시니 다들 너무 낙심하거나 걱정하지 않으셨으면 한다”면서 지지자들에게 소식을 전했다.",
+      "이어 “오늘처럼 길거리에서 많은 분들이 울."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n70123ffb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003686100",
-    "title": "국힘 \"이 대통령 'GPU 추경' 시사…국가 재정이 쌈짓돈인가\"",
-    "summary": [
-      "[서울=뉴시스]한은진 기자 = 국민의힘은 27일 이재명 대통령이 그래픽처리장치(GPU) 확보 속도가 더디다는 점을 거론하며 또다시 2차 추가경정예산(추경) 편성을 시사하자 \"국가 재정이 이 대통령의 쌈짓돈인가\"라고 말했다.",
-      "박성훈 수석대변인은 이날 논평을 내고 \"이 대통령이 또다시 무책임한 추경 군불 때기에 나섰다\"며 \"지지율이 급락하자 국민 혈세를 뿌려 정치적 위기를 모면해 보겠다는 얄팍한 심산\"이라고 주장했다.",
-      "박 수석대변인은 \"지방선거를."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n029232a0",
+    "id": "neae03640",
     "category": "사회",
     "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260627/134193024/1",
-    "title": "[속보]이란에게도 밀렸다…‘벼랑 끝‘ 한국 8위 추락",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260627/134193130/1",
+    "title": "추영우, 27일 단독 팬미팅 개최…잊지 못할 추억",
     "summary": [
-      "이란에게도 밀렸다…‘벼랑 끝‘ 한국 8위 추락."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4aed5df9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/27/GE3TQNJTMUZTANBQHAYWGY3CGM/",
-    "title": "\"롯데 자이언츠 힘을 믿습니다\" 아일릿 원희, '시구 인연'으로 커피 200잔 선물 보내다",
-    "summary": [
-      "[OSEN=사직, 한용섭 기자] 프로야구 롯데 자이언츠가 든든한 커피 선물을 받았다.",
-      "롯데는 27일 부산 사직구장에서 LG 트윈스와 시즌 11차전 맞대결을 한다.",
-      "이날 경기를 앞두고 걸그룹 '아일릿(ILLIT)' 원희가 커피 200잔을 롯데 선수단에 선물로 보냈다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n24cdcab9",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026062714091555839",
-    "title": "[부고]송오순(한국수출입은행 기업구조조정단장)씨 모친상",
-    "summary": [
-      "▲김정순(향년 95세)씨 별세, 송관순·송연순·송철순·송재순·송오순씨 모친상, 장영랑·김기숙·나효진·이현숙·최희성씨 시모상=27일 오전 0시20분, 강동경희대학교병원 장례식장 13호실, 발인 29일 오전 5시 30분, 장지 경북 영주 선산."
-    ],
-    "chips": [
-      "#수출",
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n50226a55",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260627/134193015/1",
-    "title": "합참 “중·러 군용기 10여대 카디즈 진입…영공침범 없어”",
-    "summary": [
-      "중국과 러시아 군용기 10여대가 27일 한국방공식별구역(KADIZ)에 진입한 뒤 이탈했다.",
-      "우리 군은 공군 전투기를 투입해 우발상황에 대비했다.",
-      "합동참모본부는 “이날 중국-러시아 군용기 10여대가 동해 및 남해 KADIZ에 순차적으로 진입 후 이탈했다”라며 “영공 침범은 없었다”라고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba2a60f9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/06/27/UDOLFHHNVFATTJRA3EU7CVRZO4/",
-    "title": "李대통령 “돼지 눈에는 돼지 보이는 법”…누구 겨냥했나",
-    "summary": [
-      "李대통령 “돼지 눈에는 돼지 보이는 법”…누구 겨냥했나."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n960b5080",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627031700007",
-    "title": "[월드컵 전적] 이집트 1-1 이란",
-    "summary": [
-      "[월드컵 전적] 이집트 1-1 이란."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n260c1572",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003686098",
-    "title": "전남도, 은둔형외톨이 지원사업 활성화 역량강화 교육",
-    "summary": [
-      "[무안=뉴시스] 구용희 기자 = 전남도는 26일 나주 동신대학교에서 시·군 담당공무원 50여명이 참석한 가운데 은둔형외톨이 지원사업 활성화를 위한 역량강화 교육을 개최했다고 27일 밝혔다.",
-      "이번 교육은 지역 특성에 맞는 은둔형외톨이 지원체계 구축 방향을 모색하고 전남도와 시·군 간 협력 기반을 마련하기 위해 동신대학교앵커사업단 전남동반성장협업센터와 연계해 진행했다.",
-      "전남도는 은둔형외톨이의 조기 발굴과 사회복귀 지원을 위해 시·군, 읍·면·동,."
+      "배우 추영우가 단독 팬미팅을 개최하고 팬들과 만난다.",
+      "추영우는 27일 서울 광진구 세종대학교 대양홀에서 단독 팬미팅 ‘추프라이즈’(CHOO-prise!) 서울 공연을 개최한다.",
+      "공연은 오후 2시 1회차가 열렸고 오후 6시 30분 2회차가 진행되며, 티켓은 2회차 공연 전석 매진됐다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n45806c9a",
+    "id": "na8701bd4",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260627/134193127/1",
+    "title": "최민식, 젠슨 황 만난 유재석에 부러움…“같이 가려고 했다”",
+    "summary": [
+      "배우 최민식이 방송인 유재석의 젠슨 황 엔비디아 최고경영자(CEO) 만남을 부러워했다.27일 유튜브 채널 ‘뜬뜬’에는 ‘팬미팅은 핑계고’라는 제목의 영상이 공개됐다.",
+      "영상에는 넷플릭스 새 시리즈 ‘맨 끝줄 소년’의 주연 최민식과 최현욱이 게스트로 출연했다.유재석은 오프닝에서 “오늘 빅데이다.",
+      "지금 내가 젠슨 황님 뵙고 왔다”며 “오전에는 젠슨 황 회장님, 오후에는 민식이 형님”이라고 말했다.이를 들은 양세찬은 “아 진짜? 형, 나 손만 좀 잡아."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n90d63c76",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260627/134193124/1",
+    "title": "李대통령 ‘GPU 추경’ 시사에…여 “때 맞춰 내리는 단비” 야 “현금살포 군불 때기”",
+    "summary": [
+      "여야는 27일 이재명 대통령이 그래픽처리장치(GPU) 확보 등을 위한 추가경정예산(추경) 가능성을 시사한 것을 두고 공방을 벌였다.국민의힘은 재정 건전성 문제를 언급하며 “국가 재정이 대통령의 쌈짓돈이냐”고 주장했고, 더불어민주당은 “정부 발목 잡기는 그만하고 국회의 본분부터 다 하라”고 반박했다.박성훈 국민의힘 수석대변인은 이날 논평을 내고 “이 대통령이 또다시 무책임한 추경 군불 때기에 나섰다”며 “지지율이 급락하자 국민 혈세를 뿌려 정치적."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n17fd593a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/27/2026062715375079590",
+    "title": "하루 담배 40개비 피워도 100세…\"장수 비결로 오해 말아야\"",
+    "summary": [
+      "하루에 최대 40개비 담배를 피우는 영국 여성이 100번째 생일을 맞아 화제를 모으고 있다.",
+      "다만 전문가들은 이 사례를 흡연이 장수에 도움이 된다는 의미로 받아들여서는 안 된다고 강조했다.",
+      "지난 25일(현지 시간) 미국 뉴욕포스트에 따르면 영국 베이싱스토크에 거주하는 마거릿 햄은 최근 100번째 생일을 맞았다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n34d644d8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627035700009",
+    "title": "美변덕 속 中 바라보는 중견국들…시진핑과 독자적 관계 도모",
+    "summary": [
+      "(서울=연합뉴스) 권숙희 기자 = 이재명 대통령부터 도널드 트럼프 미국 대통령, 블라디미르 푸틴 러시아 대통령, 마크 카니 캐나다 총리, 키어 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6c644546",
     "category": "사회",
     "source": "조선일보",
     "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/27/GNSTMNTCMFTDGZBWMI3DOOLGGM/",
-    "title": "김유정이 벌써 26세..파격 단발로 '아역티' 싹 벗었다",
+    "url": "https://www.chosun.com/international/international_general/2026/06/27/MFSTEYRRMM3GIZBUGYZDGMZVGU/",
+    "title": "베네수엘라 강진 사망자 920명… 실종자 5만명으로 늘어",
     "summary": [
-      "[OSEN=선미경 기자] 배우 김유정이 파격적인 단발 스타일에 도전했다.김유정은 지난 26일 자신의 SNS에 여러 장의 사진을 공개하며 근황을 전했다.공개된 사진에는 촬영 중인 김유정의 모습이 담겨 있었다.",
-      "김유정은 긴생머리부터 파격적인 단발 스타일링까지 다양한 모습을 보여주고 있었다.",
-      "진한 화장을 하고 촬영에 임하고 있는 김유정은 특유의 사랑스러움 대신."
+      "지난 24일(이하 현지 시각) 베네수엘라를 강타한 연쇄 강진으로 인한 사망자는 900명, 실종자는 5만명을 넘어섰다.",
+      "이런 가운데 현지에선 구조 장비 부족과 도로 통제로 실종자 등에 대한 수색 작업이 난항을 겪고 있다.",
+      "호르헤 로드리게스 국회의장은 26일 TV연설을 통해 “이번 연쇄 강진으로 인한 사망자가 920명으로 늘었다”고 발표했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "nadd0e1a8",
+    "id": "n320b32a7",
     "category": "사회",
     "source": "뉴시스",
     "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003686085",
-    "title": "[속보]이집트, 이란과 무승부…홍명보호, 3위 경쟁 '8위 추락'",
+    "url": "https://www.newsis.com/view/NISX20260627_0003686126",
+    "title": "고경표, 시속 180㎞ 놀이기구 도전…\"남은 여정 가능할까\"",
     "summary": [
-      "[과달라하라(멕시코)=뉴시스]."
+      "[서울=뉴시스] 이종희 기자 = 배우 고경표가 유럽 최고 롤러코스터에 도전한다.",
+      "28일 방송되는 MBC '놀러코스터'에서는 유럽 최고의 테마파크로 떠난 노홍철, 최강록, 고경표, 빠니보틀이 유럽에서 가장 빠르고 가장 높은 롤러코스터 끝판왕 레드 포스에 탑승하는 모습이 그려진다.",
+      "레드 포스는 놀이공원 덕후들 사이에서 ‘죽기 전에 꼭 타봐야 할 롤러코스터’로 손꼽히는 유럽 대표 어트랙션이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb96a8aa1",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627031500007",
-    "title": "[월드컵 전적] 벨기에 5-1 뉴질랜드",
-    "summary": [
-      "[월드컵 전적] 벨기에 5-1 뉴질랜드."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5bdca075",
-    "category": "스포츠",
+    "id": "n08327c7e",
+    "category": "사회",
     "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/football/2026/06/27/G43WINLFMJRDENJXMQ2TEYRQGU/",
-    "title": "[월드컵 전반리뷰]대한민국 어떡하나! '이겨야 하는' 이집트, 이란과 1-1 비긴 채 마쳐…이대로 끝나면 마지노선인 8위 추락",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/27/G43WKM3GMQYDEOBTME3WGMTEME/",
+    "title": "장윤주 남편 폭로 “신혼여행 때 내 다리 부러지길 기도했다고”[순간포착]",
     "summary": [
-      "[스포츠조선 김성원 기자]이대로 끝나면 대한민국에는 최악의 결과다.",
-      "이집트가 27일(이하 한국시각) 미국 워싱턴주 시애틀 스타디움에서 벌어지고 있는 이란과의 2026년 북중미월드컵 조별리그 G조 최종전에서 전반을 1-1로 비긴 채 마쳤다.",
-      "같은 시각 열리고 있는 G조의 또 다른 최종전에선 벨기에가 뉴질랜드를 1-0으로 리드하고 있다."
+      "[OSEN=강서정 기자] 모델 겸 방송인 장윤주 남편이 아내의 고백을 폭로했다.",
+      "27일 유튜브 채널 ‘윤쥬르 장윤주’에 ‘’나 사실은 신혼여행때..’ 결혼 11주년에 꺼낸 윤쥬르의 고백, 필리핀에서 사랑을 외치다’라는 제목의 영상이 게재됐다.",
+      "장윤주는 “남편이랑 리사랑 올해 상반기에 너무 바쁘게 지내다가 5월 가정의 달과 결혼기념일을 맞이해서 우리 가족만."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0cfd3281",
+    "id": "nf781485f",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003686134",
+    "title": "'벼랑 끝 한국과 대조적' 분위기 좋은 日…모리야스 감독 연임 고려",
+    "summary": [
+      "[서울=뉴시스]박지혁 기자 = '경우의 수'를 따지며 32강 진출을 기대하고 있는 한국 축구와 대조적으로 일본은 분위기가 좋다.",
+      "2026 북중미 월드컵에서 일찌감치 32강 토너먼트 진출을 확정한데 이어 모리야스 하지메 감독에 대한 연임을 고려 중인 것으로 전해졌다.",
+      "27일 일본 스포츠전문매체 주니치스포츠에 따르면, 일본축구협회는 북중미 월드컵 이후 사령탑 인선과 관련한 검토를 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf91134f3",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/27/2026062715201765963",
+    "title": "\"국가 재정이 대통령 쌈짓돈이냐\" 국힘 지적에…민주당 \"또 말꼬투리\"",
+    "summary": [
+      "[the300] 더불어민주당은 국민의힘이 추가경정예산(추경)을 언급한 이재명 대통령을 향해 \"국가 재정이 쌈짓돈이냐\"고 비판하자, \"또다시 대통령 말꼬투리를 잡는다\"고 반박했다.",
+      "강준현 민주당 수석대변인은 27일 논평을 통해 \"국가 재정은 안 쓰는 것이 중요한 것이 아니라 언제 어떻게 쓰느냐가 중요하다\"며 이같이 밝혔다.",
+      "강 수석대변인은 \"대통령이 AI(인공지능), 반도체 산업 경쟁력 제고를 위한 필수재인 GPU(그래픽처리장치) 확보를 위한 재."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n22494dc6",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026062714003541178",
-    "title": "중·러 군용기 10여대 KADIZ 진입 후 이탈…\"영공 침범은 없어\"",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/06/27/2026062715407262502",
+    "title": "QWER, 워너 뮤직 재팬과 손잡고 내달 日 정식 데뷔",
     "summary": [
-      "중국과 러시아 군용기 10여대가 한국방공식별구역(KADIZ)에 진입한 뒤 이탈했다.",
-      "합동참모본부는 27일 \"중국·러시아 군용기 10여대가 동해 및 남해 KADIZ에 순차적으로 진입한 후 이탈했다\"며 \"영공 침범은 없었다\"고 밝혔다.",
-      "KADIZ에 진입한 중국과 러시아 군용기는 폭격기와 전투기다."
+      "'최애 걸밴드' QWER(큐더블유이알)이 워너 뮤직 재팬(Warner Music Japan)과 손잡고 일본 음악 시장에 진출한다.",
+      "QWER(쵸단, 마젠타, 히나, 시연)은 최근 일본 대형 음반사 워너 뮤직 재팬과 계약을 체결하고, 현지 활동을 본격화할 채비를 마쳤다.",
+      "QWER은 그간 일본 시장에서 꾸준히 존재감을 넓혀왔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n15ba5507",
+    "id": "n90539256",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003686113",
+    "title": "시속 169.8㎞ '쾅'…밀워키 미저로우스키, 우완 최고 구속 타이",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 메이저리그(MLB) 밀워키 브루어스의 우완 광속구 투수 제이컵 미저로우스키가 시속 105.5마일(약 169.8㎞)의 공을 뿌려 우완 투수 역대 최고 구속에 타이를 이뤘다.",
+      "미저로우스키는 27일(한국 시간) 미국 위스콘신주 밀워키의 아메리칸 패밀리 필드에서 열린 2026 MLB 시카고 컵스와의 홈 경기에 선발 등판해 1회초 상대 리드오프 피트 크로암스트롱을 상대로 볼카운트 2스트라이크 상황에 광속구를 선보였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6a3ee045",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626168900005",
-    "title": "최반야 \"할리우드 진출, 드디어 배우 인생이 궤도에 들어섰죠\"",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627028651001",
+    "title": "국힘 \"李대통령 '현금살포'추경 군불\"…與 \"때맞춰 내리면 단비\"",
     "summary": [
-      "(서울=연합뉴스) 장진리 기자 = 배우 최반야가 미국으로 훌쩍 떠난 것은 2007년이었다.",
-      "영화 '스캔들 - 조선남녀상열지사', '달려라 장미'..."
+      "(서울=연합뉴스) 권희원 김정진 기자 = 여야는 이재명 대통령이 '미래 신안보 혁신기업 육성 전략회의'에서 \"추가경정예산(추경)을 하게 될지 모..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0e6111e6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627030651504",
+    "title": "중·러 군용기 10여대 KADIZ 진입…공군 전투기 출격 대응(종합)",
+    "summary": [
+      "(서울=연합뉴스) 김효정 기자 = 중국과 러시아 군용기 10여 대가 27일 한국 방공식별구역(KADIZ·카디즈)에 진입해 군이 대응했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n03219ecf",
+    "id": "nc5274704",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026062615470345958",
-    "title": "퇴직연금 '받는 법' 중요해진다…보험사 연금설계 역할 주목",
+    "source": "머니투데이",
+    "time": "24분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/27/2026062715293798765",
+    "title": "'징역 1년' 감옥 간 스토킹범 \"곧 봐요^^ 찾으러 갈게요\"...피해자에 편지",
     "summary": [
-      "퇴직연금 시장에서 은퇴 후 소득 설계의 중요성이 커지면서 보험업계의 역할이 주목받고 있다.",
-      "적립금 운용을 넘어 퇴직연금을 평생 소득으로 전환하는 수요가 확대될 경우 생명보험사의 장수위험 관리 및 연금 수급 설계 역량이 경쟁력으로 부상할 수 있다는 분석이 나온다.",
-      "27일 금융권에 따르면 최근 미국 자산운용사 피델리티 인베스트먼트는 종신 소득 옵션을 내장한 '피델리티 프리덤 라이프타임'을 출시할 계획이라고 밝혔."
+      "복역 중인 스토킹범으로부터 소름 끼치는 옥중 편지를 받았다는 피해자 사연이 전해졌다.",
+      "피해 여성 A씨는 지난 25일 SNS(소셜미디어)에 \"혹시 스토킹 관련 전문가나 피해자분들이 있다면 도와주실 수 있나.",
+      "저를 스토킹하던 가해자가 징역 1년 형을 받고 복역 중 제게 편지를 보냈다\"는 글과 함께 편지 사진을 공개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na2567920",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627035400009",
+    "title": "[베네수 강진] 실종자 5만명인데…구조 골든타임 72시간 얼마 안 남아",
+    "summary": [
+      "(서울=연합뉴스) 곽민서 기자 = 베네수엘라에 126년 만에 최악의 연쇄 강진이 발생한 지 사흘째인 26일(현지시간) 실종자 구조를 위한 '72..."
     ],
     "chips": [
       "#뉴스"
@@ -651,20 +651,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "삼성전자",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "SK하이닉스",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
