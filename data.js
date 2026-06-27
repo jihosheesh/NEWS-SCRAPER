@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-27 17:23:31
+// 마지막 업데이트: 2026-06-27 18:22:15
 window.NEWS_DB = [
   {
     "id": "n149e2bc9",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2TjduQmJ4b2ZLVS1Td1ZxXzRYbEw3UlRrcm5PT2pYZTNYYWlFd25GMm1nLU5uWDB5R1FjWHBqNVItREZJNExScm44NG9RWWZyMDUxT2JyaFEwQ1XSAWBBVV95cUxPbHprUTgtTmN1QlQxbGVDNXE5eHlmcnhhT0dJRnVwdkw2dWNCcHBBcDNrMXpXNHBCX2lkX3VNNFdJT09JRHpmU0Y4TUV4dUxPbXpVWjVLcUVzY3RGNFBEaVE?oc=5",
     "title": "이원택, 젠슨황에 새만금 투자 제안 \"삼겹살로 먹으며 대화하자\"",
     "summary": [
@@ -316,10 +316,114 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6d8924ad",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/28/GIYWGZRXG5QWIODBMFSTQNRWGA/",
+    "title": "'혹시 시즌 끝났나요?' 5월 이후 압도적 꼴찌, 왜 9위 탈출조차 버거운가",
+    "summary": [
+      "[인천=스포츠조선 나유리 기자]SSG 랜더스의 시련은 6월을 지나 7월을 앞둔 지금도 제자리 걸음이다.",
+      "SSG는 토요일이었던 27일 인천 홈 경기에서 한화 이글스에 1대8로 처참한 패배를 했다.",
+      "선발 타케다 쇼타가 5⅔이닝 11피안타(1홈런) 3탈삼진 1볼넷 7실점으로 무너졌고, 타자들은 1~3회 매 이닝 득점권 찬스에서 단 1점도 뽑지 못하면서 졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc202670",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260628002000072",
+    "title": "베네수엘라 강진 사망자 1천430명으로 늘어…실종자도 7만명",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 베네수엘라를 강타한 연쇄 지진으로 인한 사망자가 사흘 만에 1천400명을 넘었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfde565ce",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003686120",
+    "title": "46㎏ 손담비, \"하루 네 끼 먹어도 살 안 쪄\" 육아 고충",
+    "summary": [
+      "[서울=뉴시스]정우영 인턴 기자 = 가수 손담비가 고된 현실 육아로 인해 하루에 네 끼를 먹어도 살이 안 찐다고 고백했다.",
+      "26일 유튜브 채널 '담비손'에는 '키카가 처음인 해이와 영혼까지 탈탈 털린 손담비 현실 육아'라는 제목의 영상이 올라왔다.",
+      "공개된 영상 속 손담비는 지친 기색으로 남편 이규혁에게 \"어저께 오빠는 몇 보를 걸으셨냐\"고 물은 뒤, \"나는 어제 밥을 진짜 많이 먹었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4cf07e42",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/06/28/LHIAFYIVAFFZXFHKM4AVE6HFSE/",
+    "title": "1980년대 ‘아이돌’이었던 염광여상 고적대…지금은",
+    "summary": [
+      "1980년대 ‘아이돌’이었던 염광여상 고적대…지금은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n41319dba",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/national/people/2026/06/28/H234WBH7QNF3LKNLXJH2NJP534/",
+    "title": "한 마을이 온통 요리 가르치고 배우는 사람… 한국에는 불가능할까",
+    "summary": [
+      "한 마을이 온통 요리 가르치고 배우는 사람… 한국에는 불가능할까."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e1c3c79",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/06/28/DGIVLPKOQRG6RG4E5FKRM2M6ZY/",
+    "title": "세계적 수준의 ‘도쿄 클래식’… 오케스트라 공연 10만원대로 공략하는 법",
+    "summary": [
+      "도쿄 콘서트 여행의 가성비는 오페라나 서구 오케스트라, 연주자 리사이틀보다 도쿄를 중심으로 활동하는 일본 오케스트라에 있다고 생각한다.",
+      "NHK 심포니를 선두로 괜찮은 오케스트라 대여섯개가 실력있는 지휘자들을 초청, 연중 공연을 펼친다.",
+      "런던이나 베를린처럼 경쟁하는 오케스트라가 많아서 그런지 티켓값도 비교적 싸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd154ece",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "43분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260628000651082",
+    "title": "'오메가 열돔' 북유럽까지…덴마크 역대 최고 37도(종합)",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 유럽을 휩쓸고 있는 폭염으로 북유럽 덴마크까지 여러 나라가 역대 최고기온 기록을 새로 쓰고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n10e5fb99",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260628_0003686286",
     "title": "러시아-우크라이나, 민간인 억류자 7명씩 교환 송환",
     "summary": [
@@ -334,7 +438,7 @@ window.NEWS_DB = [
     "id": "nb7e9669f",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260628001800075",
     "title": "한미동맹협의회, 흥남철수 빅토리號에 한국어 영구 전시 추진",
     "summary": [
@@ -345,25 +449,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfa935045",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/28/HBRGCZRUMYZDSNZWMJSWKMBTMI/",
-    "title": "내 배트로 5G 연속 홈런? “(노)시환이한테는 돈 받아야죠” 배트 기부 천사 강백호, 이래서 한화 타선이 뜨겁다",
-    "summary": [
-      "[OSEN=인천, 길준영 기자] 프로야구 한화 이글스 강백호(26)가 후배들에게 자신의 배트를 아낌없이 나눠주며 팀 타선의 화력을 끌어올렸다.",
-      "강백호는 27일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에 4번 지명타자로 선발출장해 4타수 1안타 1홈런 3타점 1득점 1볼넷을 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n41264ff1",
     "category": "사회",
     "source": "뉴시스",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260627_0003686121",
     "title": "'42세' 한지혜, 팔뚝까지 슬림한 거울샷…무슨 운동 하길래",
     "summary": [
@@ -379,7 +468,7 @@ window.NEWS_DB = [
     "id": "n1df3bdf9",
     "category": "사회",
     "source": "뉴시스",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260627_0003685973",
     "title": "치매 고위험군 노인, 채소·생선 등 '항염증 식단' 먹으면 치매 위험 30%↓",
     "summary": [
@@ -392,112 +481,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc0a69823",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "35분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/28/GRRWKNBZG4YDGYRRMI4WKNZRGI/",
-    "title": "이강인이 아틀레티코 에이스 먹나? 현 에이스, 이탈 선언! 레알 제안 거절에도 바르사-PSG도 러브콜",
-    "summary": [
-      "[OSEN=이인환 기자] 훌리안 알바레스가 아틀레티코 마드리드를 흔들었다.",
-      "알바레스는 아르헨티나 대표팀의 월드컵 일정 도중 아틀레티코를 떠나고 싶다는 뜻을 공개했다.영국 ‘가디언’은 진나 25일(한국시간) 로이터 통신을 인용해 알바레스가 구단 관계자들과 대화를 나눴고, 모두에게 가장 좋은 선택은 이적이라는 취지로 말했다고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf238fe7d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "36분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/28/ETS6BCHIXFBN5GCPKXSHGHTKDQ/",
-    "title": "“혁신 기술이 세상을 바꿀 때도 고통스러운 거품 붕괴가 일어날 수 있다”",
-    "summary": [
-      "“혁신 기술이 세상을 바꿀 때도 고통스러운 거품 붕괴가 일어날 수 있다”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef9592da",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "37분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/28/GJQTGMBYGMZDENRQGI4DMODBGI/",
-    "title": "김민재의 바이에른, 獨 대표 풀백 브라운 5500만 유로 영입전…유럽 무대 정상 도전",
-    "summary": [
-      "[OSEN=이인환 기자] 바이에른 뮌헨의 수비진 개편이 속도를 냈다.",
-      "바이에른은 독일 대표팀 풀백 나다니엘 브라운 영입에 큰돈을 걸었다.독일 ‘빌트’와 스카이 독일은 27일(한국시간) \"바이에른은 프랑크푸르트의 풀백 브라운 이적료 5500만 유로(약 890억 원) 로 영입한다 계약 기간은 2031년까지로 거론된다\"고 보도했다.김민재가 뛰는 바이에른 수비 라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0eb717ae",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "52분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627046352109",
-    "title": "이스라엘 \"레바논 장기주둔 지시\"…헤즈볼라 \"평화합의 무효\"(종합2보)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 이스라엘이 레바논과 평화 기본 합의안에 서명한 지 하루 만에 친이란 무장정파 헤즈볼라의 근거지인 레바논 남부..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2813f63a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "55분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628001100072",
-    "title": "태안 앞바다서 체포됐던 中반체제 인사, 캐나다 가족 품으로",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 지난달 고무보트를 타고 한국 영해에 진입했다 체포됐던 중국 반체제 인사 둥광핑(董廣平·68)이 마침내 캐나다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0e76315",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "58분 전",
-    "url": "https://www.newsis.com/view/NISX20260628_0003686285",
-    "title": "파키스탄·아프가니스탄, 규모 5.9 지진…피해 보고 없어",
-    "summary": [
-      "[폐샤와르=AP뉴시스] 구자룡 기자 = 27일 파키스탄 일부 지역과 인접한 아프가니스탄에 규모 5.9의 지진이 발생했다.",
-      "미국 지질조사국(USGS)은 지진의 규모를 6.1로 측정했다.",
-      "현재까지 인명 이나 재산 피해 보고는 없다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n10c40f7c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628000900084",
-    "title": "아프간 북동부 규모 6.1 강진…\"파키스탄서도 강한 진동\"(종합)",
-    "summary": [
-      "(하노이=연합뉴스) 박진형 특파원 = 27일 오후 6시 4분(현지시간) 아프가니스탄 북동부 바다흐샨주 주름에서 남쪽으로 43㎞ 떨어진 곳에서 규..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n88b5c24c",
     "category": "사회",
     "source": "연합뉴스(경제)",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260627048400030",
     "title": "경북 예천 돼지농장서 구제역 발생…위기경보 '심각' 상향",
     "summary": [
@@ -511,7 +498,7 @@ window.NEWS_DB = [
     "id": "nfc730ea2",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260628/134193519/1",
     "title": "우크라, 중거리 순항 미사일 ‘플라밍고’로 러 내륙 전략군수 공장 타격",
     "summary": [
@@ -526,7 +513,7 @@ window.NEWS_DB = [
     "id": "n845221d6",
     "category": "IT",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260627/134193516/1",
     "title": "김용범 “수도권만으론 반도체 감당 어려워…짓는 나라가 이긴다”",
     "summary": [
@@ -542,7 +529,7 @@ window.NEWS_DB = [
     "id": "nb7a8ded1",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152929",
     "title": "[글로벌] 오픈AI, IPO 내년으로 연기 검토...스페이스X 상장 후폭풍에 속도 조절",
     "summary": [
@@ -557,7 +544,7 @@ window.NEWS_DB = [
     "id": "n710540fb",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152928",
     "title": "[글로벌] 中 CXMT·YMTC, D램·낸드 세계 4위 굳혔다...韓 빈틈 파고든다",
     "summary": [
@@ -575,7 +562,7 @@ window.NEWS_DB = [
     "id": "n0600e983",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152927",
     "title": "[글로벌] 美 수출 통제에 中 암시장서 엔비디아 칩 가격 2~3배 폭등",
     "summary": [
@@ -593,7 +580,7 @@ window.NEWS_DB = [
     "id": "na22e58a2",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260627/134193499/1",
     "title": "美 목장에서 기린 탈출…2주 째 못 찾고 있다",
     "summary": [
@@ -607,7 +594,7 @@ window.NEWS_DB = [
     "id": "n884edbb9",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260627/134193496/1",
     "title": "김민석은 경기·정청래는 제주로…송영길은 귀국",
     "summary": [
@@ -619,22 +606,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6cd9cc8b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3시간 전",
-    "url": "https://view.asiae.co.kr/article/2026062722322499231",
-    "title": "취업 준비도 방학이 '골든타임'… 동의대, AI·직무교육 20여개 스타트",
+    "id": "n0922c3b3",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "5시간 전",
+    "url": "https://www.hankyung.com/article/2026062715667",
+    "title": "1230회 로또 1등 16명…1인당 17억 '잭팟' 터졌다",
     "summary": [
-      "여름방학이 취업 경쟁력을 끌어올릴 수 있는 '골든타임'으로 떠오르면서 대학들도 방학을 활용한 실무교육 강화에 힘을 쏟고 있다.",
-      "동의대학교는 재학생과 졸업생은 물론 지역 청년까지 참여할 수 있는 AI·스마트물류 등 20여개 진로·취업역량 강화 프로그램을 마련하고 오는 8월 말까지 집중 운영한다.",
-      "동의대가 하계방학을 맞아 재학생과 졸업생은 물론 지역 청년들의 취업 경쟁력 강화에 나선다."
+      "1230회 로또 1등 16명…1인당 17억 '잭팟' 터졌다."
     ],
     "chips": [
-      "#AI",
-      "#수출",
-      "#취업",
-      "#교육"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e57d038",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "5시간 전",
+    "url": "https://www.hankyung.com/article/2026062715617",
+    "title": "베이징 108층 빌딩서 경비행기 충돌…中, 다음 날에야 공식 발표",
+    "summary": [
+      "베이징 108층 빌딩서 경비행기 충돌…中, 다음 날에야 공식 발표."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -644,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
