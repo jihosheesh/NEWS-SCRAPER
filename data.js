@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-27 21:22:17
+// 마지막 업데이트: 2026-06-27 22:20:48
 window.NEWS_DB = [
   {
     "id": "n149e2bc9",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2TjduQmJ4b2ZLVS1Td1ZxXzRYbEw3UlRrcm5PT2pYZTNYYWlFd25GMm1nLU5uWDB5R1FjWHBqNVItREZJNExScm44NG9RWWZyMDUxT2JyaFEwQ1XSAWBBVV95cUxPbHprUTgtTmN1QlQxbGVDNXE5eHlmcnhhT0dJRnVwdkw2dWNCcHBBcDNrMXpXNHBCX2lkX3VNNFdJT09JRHpmU0Y4TUV4dUxPbXpVWjVLcUVzY3RGNFBEaVE?oc=5",
     "title": "이원택, 젠슨황에 새만금 투자 제안 \"삼겹살로 먹으며 대화하자\"",
     "summary": [
@@ -110,7 +110,7 @@ window.NEWS_DB = [
     "id": "nfa562be4",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0MxUFNEX1lQb25nMGpzUmczb1I2b2pXelVGbHJubTB4dUxCVWVNVVdpNkRGRVRqMnRwSW9od1NvSWc5ZkZ0dWotVmJlVTV3c1I0a0VLSnhPMzItVktZTU1ISjRTamU1MzVYTFdhNUdEVUlnMFJXOFFRTjBOSW1Dekh30gGWAUFVX3lxTE1MakRWVS1KSDVGZ0lYWWxBdE8zeEMzMS1SaFlSMzNSeVJWMVByMmwzZ3lNM0xGdjNOck5uUzdTNFRuc3hOM2RsRnpaMTZudHowMDBpZktUZ3hZMUIzSkJBa283a2EwTjVidngtNnhDV2xMR3hEcjRyLVg3dkxxbXp0c1lOY1ZCWXV5dlQ1VFhiSzFDS2xDZw?oc=5",
     "title": "[비즈톡톡] 틱톡 키운 바이트댄스, 中 반도체 자립 견인… 엔비디아 막히자 중국산 AI칩 도입 - 조선비즈",
     "summary": [
@@ -140,7 +140,7 @@ window.NEWS_DB = [
     "id": "n9cecfc4c",
     "category": "부동산",
     "source": "한국경제",
-    "time": "5일 전",
+    "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZ9IBVEFVX3lxTE51WFJELUd0OUVyTmJ4RXJGTTZTSS1TQy0wWktPaE9uUjRCMGlpSnY4Q2tVVk8zT3dUUHRnTWJPRGoxZm5rS25Dc0xHNHk2WHF5S09CUw?oc=5",
     "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
     "summary": [
@@ -239,21 +239,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6fd56a9c",
-    "category": "사회",
-    "source": "시사캐스트",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
-    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
-    "summary": [
-      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
     "id": "nd0c82b8d",
     "category": "사회",
     "source": "대학IN",
@@ -283,6 +268,22 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "nef414906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "129일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
+    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "summary": [
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -316,318 +317,318 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc2acdf30",
+    "id": "ndf0f9742",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260628_0003686303",
-    "title": "트럼프, 차기 이민세관단속국 국장에 해병대 출신 경찰 랜스 슈로이어 지명",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260628_0003686320",
+    "title": "새벽 광주 대인시장서 불…인명 피해 없어",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 미국 대통령은 27일 이민세관단속국(ICE) 국장에 오클라호마주 경찰관 출신인 랜스 슈로이러를 지명한다고 발표했다.",
-      "트럼프 대통령은 소셜미디어 트루스소셜에 슈로이어가 전직 해병대원이자 실제 작전 경험이 있는 애국자라고 말했다.",
-      "그는 슈로이어를 “수십 년의 경험으로 최악의 상황을 처리한 검증된 리더”라며 “살인범, 강간범, 마약 밀매범을 포함한 불법 이민자 범죄자들을 전례 없는 속도로 구금하고 추방할."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na84371ee",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260628_0003686307",
-    "title": "김준상 MBC 아나, 전 직장 하이닉스였다 \"동기 성과급 1억2천\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = MBC 김준상 아나운서가 전 직장인 SK하이닉스의 성과급 규모와 주식 투자 비화를 공개했다.",
-      "지난 27일 방송된 MBC TV 예능물 '전지적 참견 시점' 예고편에서는 대기업을 퇴사하고 언론인의 길을 택한 김 아나운서의 일상이 그려졌다.",
-      "이날 김 아나운서는 전 직장 동기들의 성과급을 묻는 질문에 \"동기 연차 친구가 1억2000만 원 정도를 받더라\"고 밝혀 모두를 놀라게 했다."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n943f022f",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626131400017",
-    "title": "애플도 올렸다…IT기기 '가격 인상' 도미노 시작되나",
-    "summary": [
-      "(서울=연합뉴스) 박형빈 기자 = 애플이 맥과 아이패드 가격을 최대 300달러 인상하면서 IT 기기 가격 인상 흐름이 스마트폰과 PC, 게임기 ..."
+      "[광주=뉴시스]이현행 기자 = 28일 오전 3시54분께 광주 동구 대인동 대인시장 내 한 식당에서 불이 나 소방당국에 의해 19분 만에 꺼졌다.",
+      "이 불로 식당이 모두 탔다.",
+      "소방 당국은 장비 17대와 인원 56명을 투입해 불을 껐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ned59aea9",
+    "id": "n9d96cb67",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628004300064",
-    "title": "충북 대체로 맑고 소나기…낮 최고 32도",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626072700065",
+    "title": "인천 송도 바이오클러스터 확장…'바이오 카이스트' 설립 추진도",
     "summary": [
-      "(청주=연합뉴스) 천경환 기자 = 28일 충북은 대체로 맑다가 지역에 따라 소나기가 내리겠다."
+      "(인천=연합뉴스) 홍현기 기자 = 인천 송도국제도시에 조성된 '바이오 클러스터'가 기업들의 입주와 생산 능력 확장, 바이오 관련 기관 유치 등으..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf125bc50",
+    "id": "n807c8e3a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626053000003",
+    "title": "K-배터리, 2분기 흑자전환 시동…전기차 회복·ESS로 부활하나",
+    "summary": [
+      "(서울=연합뉴스) 김민지 기자 = 중국 업체들의 저가 공세와 전기차 수요 축소로 긴 적자 터널을 지난 배터리 업계가 2분기 실적 반등의 기반을 ..."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n0030a447",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260628/134193720/1",
+    "title": "치매 고위험군 노인, 채소·생선 등 ‘항염증 식단’ 먹으면 치매 위험 30%↓",
+    "summary": [
+      "알츠하이머병 유발 가능성이 큰 고위험군 노인이라도 건강한 식습관을 유지하면 치매 발병 위험을 낮출 수 있다는 연구 결과가 나왔다.26일 스웨덴 카롤린스카 의대 보도자료에 따르면 카롤린스카대 고령화연구센터(ARC) 다비데 리보리오 베트라노 부교수 연구팀은 국제학술지 ‘자마 네트워크 오픈(JAMA Network Open)’에 이 같은 내용의 논문을 발표했다.치매는 증 발현 전 수년간 서서히 진행된다.",
+      "최근 혈액 검사로 알츠하이머 등 신경 퇴행성 변."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "naa22f684",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260628/134193717/1",
+    "title": "‘42세’ 한지혜, 팔뚝까지 슬림한 거울샷…무슨 운동 하길래",
+    "summary": [
+      "배우 한지혜(42)가 운동으로 다져진 슬림하고 탄탄한 몸매를 과시했다.최근 한지혜는 자신의 인스타그램 스토리에 “오운완(오늘 운동 완료)”라는 멘트와 함께 헬스장에서 찍은 사진을 올렸다.공개된 사진 속 한지혜는 카키색 민소매 상의에 검은색 레깅스를 입고 헬스장 거울 앞에서 정면을 응시하고 있다.",
+      "특히 군살 하나 없는 완벽한 바디라인과 건강미 넘치는 실루엣이 보는 이들의 감탄을 자아냈다.실제로 미 건강 전문 매체 헬스라인에 따르면 근력 운동을 꾸."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n73a3c82e",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260628/134193711/1",
+    "title": "아직 끝나지 않았기에…홍명보호, 무거운 공기 뚫고 훈련 재개",
+    "summary": [
+      "홍명보호의 훈련장 분위기 여느 때와 달리 무거웠다.",
+      "이미 자력 32강 진출은 무산됐고 다른 조 상황을 살피며 ‘경우의 수’를 따져야하는데 그 확률도 점점 낮아지고 있다.",
+      "그래도 아직 희망은 있기에, 선수들은 ‘하늘의 뜻’을 기다리며 다시 훈련을 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3165bcc",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260623119800030",
-    "title": "5월 외국인 한류 소비액 1조4천억원…3개월 연속 1조원대 돌파",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626150100003",
+    "title": "악재 겹친 디스플레이 업계 2분기 실적↓…하반기엔 반등 기대",
     "summary": [
-      "(서울=연합뉴스) 이상서 기자 = 지난달 한국을 찾은 외국인 관광객이 지출한 한류 소비액이 1조4천억원을 넘어서며 역대 최대치를 재차 경신했다."
+      "(서울=연합뉴스) 임성호 기자 = 국내 디스플레이 업계 양강인 삼성디스플레이와 LG디스플레이가 올해 2분기에는 지난해 같은 기간보다 나란히 후퇴..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n94348f8a",
-    "category": "사회",
+    "id": "ne44ee3d5",
+    "category": "경제",
     "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628004000063",
-    "title": "대전·세종·충남 낮 최고 29∼32도…소나기 곳곳",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627030400008",
+    "title": "서학 개미, 스페이스X 팔고 다시 반도체주 대량 매입",
     "summary": [
-      "(대전=연합뉴스) 김소연 기자 = 일요일인 28일 대전·세종·충남에 낮 기온 30도가 넘는 더운 날씨가 이어지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na9aa66b0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003686256",
-    "title": "\"더워요\" 충북, 대체로 맑음…낮 최고 30~32도",
-    "summary": [
-      "[청주=뉴시스] 연현철 기자 = 일요일인 28일 충북지역은 대체로 맑다가 늦은 오후부터 구름 많겠다.",
-      "청주기상지청에 따르면 이날 아침 최저기온은 15~20도로 전날과 비슷하다.",
-      "낮 최고기온은 30~32도로 전날과 비슷하겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf12bff63",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/28/ME2TSNZUG5QTAOLFHBSGKZRQHA/",
-    "title": "'아들 다섯' 정주리, 연애 때부터 피임했으나 혼전 임신 \"난소 절제로 난임\"('동치미')[핫피플]",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘속풀이쇼 동치미’ 다산의 여왕이라 불리는 개그우먼 정주리가 다섯 아들을 두기까지의 비하인드를 전했다.27일 방영한 MBN ‘속풀이쇼 동치미’(이하 ‘동치미’)에서는 아들 다섯을 둔 개그우먼 정주리가 출연했다.",
-      "정주리는 이날 출연을 위해 남편이 집에서 아이들 다섯을 돌보고 있다고 말."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n23392c41",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627043300030",
-    "title": "정부, 올해 계란수입에 1천212억원…산란계업계 \"규제가 원인\"",
-    "summary": [
-      "(서울=연합뉴스) 홍국기 기자 = 정부가 국내 계란값 안정을 위해 오는 8월까지 외국에서 신선란 총 2억3천139만개를 수입하는 데 1천212억..."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n7106cf1a",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626131500530",
-    "title": "올여름 찜통더위 전망…작업현장서 온열질환 피하려면",
-    "summary": [
-      "(서울=연합뉴스) 옥성구 기자 = 올여름 '역대급 찜통더위'가 예고된 가운데, 옥외작업 중에 열사병으로 목숨을 잃는 사고를 피하려면 '물'과 '..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nff72e656",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/economy/science/2026/06/28/HFQTIYZRG5RDAMRSGRTDAYJTMU/",
-    "title": "‘세라젬 우군’ 얻은 와이브레인, IPO 재시동…적자 딛고 ‘뇌칩’ 시장 정조준",
-    "summary": [
-      "국내 전자약 대표 기업 와이브레인이 코스닥 상장 재도전에 나선다.",
-      "과거 최대주주 리스크로 상장 절차를 중단했던 회사는 지난해 세라젬이 최대주주에 오르면서 경영 안정성을 확보했다.",
-      "우울증 치료 전자약을 기반으로 치매 치료와 뇌-컴퓨터 인터페이스(BCI) 분야까지 사업을 확대하며 기업가치 제고에 나선다는 전략이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n553df4a4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684394",
-    "title": "\"버텨봐야 의미없다\"…'법인 파산' 벌써 1000건",
-    "summary": [
-      "[서울=뉴시스]강은정 기자 = 올해 들어 법원에 접수된 법인 파산 신청이 1000건을 돌파했다.",
-      "연간 기준 최다 법인 파산 신청을 기록한 지난해보다 빠른 속도다.",
-      "28일 법원 통계 월보에 따르면 지난 5월까지 법인 파산 신청 건수는 총 1060건으로 지난해 같은 기간(922건)보다 14.96%(138건) 증가했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41c0b955",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "21분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/28/AGIYFD5IDNAPPDAEPFXEKM4TRA/",
-    "title": "[인터뷰] AI 데이터센터 경쟁력은 전력… “한국, 핵심 시장이나 원전·전기요금 정책 변화는 불안 요인”",
-    "summary": [
-      "[인터뷰] AI 데이터센터 경쟁력은 전력… “한국, 핵심 시장이나 원전·전기요금 정책 변화는 불안 요인”."
-    ],
-    "chips": [
-      "#AI",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nfc97fa1f",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "21분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/28/UVEHHHGUVVGC3FBJGOIXQSEWJE/",
-    "title": "[비즈톡톡] “韓 반도체 산업에 비용 폭탄 될 수도”… 호남 반도체 클러스터의 숨은 청구서",
-    "summary": [
-      "[비즈톡톡] “韓 반도체 산업에 비용 폭탄 될 수도”… 호남 반도체 클러스터의 숨은 청구서."
+      "(서울=연합뉴스) 김태종 기자 = 미국 우주기업 스페이스X 상장과 동시에 주식을 폭풍 매수했던 서학 개미(미 증시에 투자하는 개인 투자자)들이 ..."
     ],
     "chips": [
       "#반도체"
     ]
   },
   {
-    "id": "n1bed6e79",
-    "category": "경제",
+    "id": "n5e2f1df6",
+    "category": "사회",
     "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260626/134188760/1",
-    "title": "커지는 역직구 시장… G마켓, ‘라자다’ 상품 수 4배 확대한다",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260628/134193708/1",
+    "title": "안문숙 “집 공개 후유증 컸다…‘미우새’ 고정도 포기”",
     "summary": [
-      "해외에서 한국 상품을 직접 구매하는 역직구족이 급증하면서 국내 이커머스 업계도 글로벌 시장 공략에 속도를 내고 있다.",
-      "G마켓 역시 동남아시아 대표 이커머스 플랫폼 라자다와 연동해 판매하는 상품 수를 대폭 확대하며 역직구 사업 강화에 나섰다.역직구 시장은 최근 빠르게 성장 중이다.",
-      "국가물류통합정보센터에 따르면 4월 국내 전자상거래를 통한 수출액은 2억2458만 달러(약 3448억 원)를 기록했다."
+      "배우 안문숙이 방송을 통해 집을 공개하지 않는 이유를 전했다.",
+      "27일 유튜브 채널 ‘미스뭐어때 안문숙’에는 ‘안문숙 호주 여행 중, 숨겨둔 속마음 꺼내봅니다’라는 제목의 영상이 공개됐다.영상에서 안문숙은 “혼자 오랫동안 살았기 때문에 우리 집을 궁금해하는 사람이 많다.",
+      "예능에서도 우리 집을 오픈하라고 한 적이 있고, ‘미우새’에서도 고정을 원했는데 우리 집을 오픈하고 찍으라고 해서 하지 않았다”고 말했다.이어 “연예인이라고 해서 특별히 다른 건."
     ],
     "chips": [
-      "#수출"
+      "#뉴스"
     ]
   },
   {
-    "id": "n73bd65bc",
+    "id": "nb7c8dbb6",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026062516083019767",
+    "title": "\"학원 대신 문센, 자취방 대신 요양원\"…中 MZ, 기성세대 품으로 '쏙' [중국.zip]",
+    "summary": [
+      "편집자주거대하고 복잡한 중국의 경제, 사회, 문화 방면의 재밌는 이야기를 파헤쳐 알짜배기만 쏙쏙 '압축 해제'해 드리는 연재 기획입니다.",
+      "최근 몇 년 동안 중국에서 청년 취업난과 인구 고령화가 심각한 사회문제로 언급되는 가운데, 뜻밖의 지점에서 세대 통합 기류가 완성돼 눈길을 끈다.",
+      "중국 MZ세대(밀레니얼＋Z세대)는 극심한 취업난과 치솟는 주거비와 고물가로 월세, 식비, 생활비 등에 부담을 느끼고 있다."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
+    "id": "n2cfe0a65",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/28/GJSTMNZTGI4DQMTDGNSDGMBYHA/",
+    "title": "'케이로스, 믿어요' 홍명보호 운명 쥔 크로아티아-가나전 베스트11 공개..모드리치 VS 세메뇨",
+    "summary": [
+      "[스포츠조선 박찬준 기자]홍명보호의 운명을 쥐고 있는 크로아티아와 가나가 최정예 멤버를 내세웠다.",
+      "크로아티아와 가나는 28일 오전 6시(이하 한국시각) 미국 펜실베니아주 필라델피아 스타디움에서 2026년 북중미월드컵 조별리그 L조 3차전을 치른다.",
+      "크로아티아와 가나는 나란히 1승1패를 기록 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d9d62c5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260628_0003686317",
+    "title": "[속보] 일본 노다 동북동 50km서 규모 5.9 지진 발생 -- USGS",
+    "summary": [
+      "[서울=뉴시스] 차미례 기자 = 일본 노다 (이와테현) 동북동 쪽 50km 지점에서 27일( 20시 21분 GMT) 규모 5.9의 지진이 발생했다고 미국 지질연구소(USGS)가 발표했다.",
+      "진앙의 깊이는 35.0 km이며 위치는 북우이 40.26도 동경 142.",
+      "◎공감언론 뉴시스 cmr@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n94592585",
     "category": "사회",
     "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/06/28/MEYWKZJSGY3DKODEGNRTMOJZGU/",
-    "title": "자금 조달 필요한 LG화학·에코프로… “딜 잡아라” 증권사 IB 물밑 경쟁",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/international/us/2026/06/28/UFHO5ESDFNHF5NUHCBGLCYJGYI/",
+    "title": "美 “이란의 선박 공격에 추가 공습 실시”… 아슬아슬한 휴전 협정",
     "summary": [
-      "이 기사는 2026년 6월 26일 16시 24분 조선비즈 머니무브(MM) 사이트에 표출됐습니다.",
-      "국내 주요 증권사들이 LG화학과 에코프로를 대상으로 선제적인 영업에 나서고 있다.",
-      "두 회사 모두 중장기적으로 대규모 자금조달 수요가 예상되는 만큼 거래가 본격화하기 전에 주관사 지위를 선점하려는 움직임이다."
+      "美 “이란의 선박 공격에 추가 공습 실시”… 아슬아슬한 휴전 협정."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb50f7bbf",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/202606271572i",
-    "title": "'남녀 동일 상금' 멀었던 골프… LPGA 상금 증액 이어져 희망 만들어 [강혜원의 골프플래닛]",
-    "summary": [
-      "'남녀 동일 상금' 멀었던 골프… LPGA 상금 증액 이어져 희망 만들어 [강혜원의 골프플래닛]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd1582bc7",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "5시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260628011013",
-    "title": "ZTE와 GSMA, MWC26 상하이에서 ZTE 글로벌 서밋 & 유저 콩그레스와 GSMA M360 아세안 동시 개최 발표",
-    "summary": [
-      "[지디넷코리아] ZTE와 GSMA, 말레이시아 쿠알라룸푸르에서 제15회 ZTE 글로벌 서밋 & 유저 콩그레스와 GSMA M360 ASEAN 동시 개최 '무한의 설계 - 연결성에서 디지털 가치로'를 주제로 열리는 ZTE 글로벌 서밋 & 유저 콩그레스, 비전, 볼륨, 밸류, 벤처 등 네 가지 비전 챕터 소개 ZTE 행사에는 기조연설, 패널 토론, 신제품 쇼케이스, 전시 부스 투어, 로봇 공연이 마련되며 글로벌 오피니언 리더, 정부 관계자, 통신사."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "ncb0c745e",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "5시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260628011003",
-    "title": "GSMA MWC26 상하이, AI 경제와 6G 혁신으로 전 세계 참석자들의 호응 속에 폐막",
-    "summary": [
-      "[지디넷코리아] 143개 국가 및 지역의 참석자들이 약 300명의 연사와 400곳 이상의 후원사, 전시업체 및 파트너와 함께 SNIEC에서 AI 시대 연결성의 미래 모색 상하이, 2026년 6월 28일 /PRNewswire/ -- MWC26 상하이(MWC26 Shanghai)가 AI 경제, 6G 혁신 등을 중심으로 3일간 진행된 콘퍼런스와 전시회를 마치고 폐막했다.",
-      "행사에는 3만 7300명이 참석했다.",
-      "MWC 상하이의 해외 참석자는 전년 대비."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nfc730ea2",
+    "id": "n0909d739",
     "category": "사회",
-    "source": "동아일보",
-    "time": "6시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260628/134193519/1",
-    "title": "우크라, 중거리 순항 미사일 ‘플라밍고’로 러 내륙 전략군수 공장 타격",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/28/G42TENJXGA2WEZLEMI4TSYTEGI/",
+    "title": "'참교육' 글로벌 1위 피오, DM 폭주?...“그것보단 주변에서 좋아해줘서 행복\" ('놀토') [핫피플]",
     "summary": [
-      "우크라이나가 자체 개발한 장거리 미사일 ‘플라밍고’로 러시아 내륙 전략 군수 공장을 타격했다.",
-      "볼로디미르 젤렌스키 우크라이나 대통령은 27일(현지 시각) 소셜미디어 X에 “지난밤 FP-5 플라밍고 미사일이 러시아 볼고그라드의 티탄-바리카디 군 장비 생산시설을 성공적으로 타격했다”고 올렸다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박근희 기자] '놀라운 토요일’ 블락비 멤버이자 배우 피오가 출연작 '참교육'의 글로벌 1위 달성 이후 행복한 근황을 전했다.27일 방송되는 tvN ‘놀라운 토요일’(이하 ‘놀토’)에는 ‘내일도 출근’에서 호흡을 맞추고 있는 배우 서인국, 강미나가 게스트로 출연했다.‘노 야근 예스 퇴근!’이라는 콘셉트로 멤버."
     ],
     "chips": [
-      "#정치"
+      "#교육"
     ]
   },
   {
-    "id": "n845221d6",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "6시간 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260627/134193516/1",
-    "title": "김용범 “수도권만으론 반도체 감당 어려워…짓는 나라가 이긴다”",
+    "id": "nf7566ad3",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026062615333934930",
+    "title": "\"두피도 피부처럼 관리한다고?\"…외국인도 놀란 '헤드스파'[K홀릭]",
     "summary": [
-      "김용범 청와대 정책실장은 27일 “수도권 클러스터는 앞으로도 대한민국 반도체 산업의 중심이겠지만, 인공지능(AI) 시대가 요구하는 생산능력은 하나의 클러스터만으로 감당하기 어렵다”고 밝혔다.김 실장은 이날 오후 페이스북을 통해 “장기적인 전력과 용수, 부지 수요를 고려하면 새로운 생산 거점을 미리 준비해야 한다”며 이같이 적었다.그는 “중요한 것은 어느 지역인가가 아니라 어떤 기준으로 선택하는가”라며 “그래서 지금 필요한 것은 단순한 투자 확대."
+      "편집자주전 세계적으로 한국 문화에 대한 관심이 빠르게 커지고 있다.",
+      "K푸드·K뷰티 등 한국 관련 상품과 콘텐츠는 특정 마니아층을 넘어 해외 소비자들의 일상 전반에 스며들고 있다.",
+      "[K홀릭]은 세계 곳곳에서 포착되는 '한국 열풍'을 조명하며 해외 소비자들이 왜 한국에 주목하고 있는지를 짚어본다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3d678ead",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260628_0003686316",
+    "title": "[속보] 일본 혼슈 동해안에서 규모 6.1의 강진 발생 -- GFZ",
+    "summary": [
+      "[서울=뉴시스] 차미례 기자 = 일본 혼슈 동해안 부근 해역에서 27일 (20시 21분 GMT) =규모 6.1의 강력한 지진이 발생했다고 독일 지구과학 연구센터(GFZ)가 발표했다.",
+      "진앙의 깊이는 61.1 km이며 위치는 북위 40.24도 동경 142.31도로 잠정 측정되었다.",
+      "◎공감언론 뉴시스 cmr@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc4bdce8",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627036100051",
+    "title": "호르무즈 내 한국 선박 대부분 탈출…인명피해 없이 마무리 국면",
+    "summary": [
+      "(부산=연합뉴스) 이영재 기자 = 중동 전쟁으로 호르무즈 해협에 발이 묶였던 한국 선박들이 미국과 이란의 종전 합의 이후 대부분 해협을 빠져나오..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ba95d02",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003685975",
+    "title": "김인만 소장 \"부동산 시장 불안정한 에너지 커져…현금 확보가 생존 열쇠\"",
+    "summary": [
+      "[서울=뉴시스]정우영 인턴 기자 = 서울 등 일부 지역의 집값 상승세 속에서도 과거 IMF 외환위기나 금융위기 직전과 유사한 불안정성이 잠재해 있어 철저한 자금 대비가 필요하다는 전문가의 경고가 나왔다.",
+      "25일 김인만 김인만부동산경제연구소 소장은 구독자 119만명을 보유한 유튜브 채널 '부티플'에 출연해 \"과거 30년간의 흐름을 보면 외환위기나 글로벌 금융위기처럼 예상치 못한 변수로 폭락하는 시기가 있었다\"며 \"지금은 주식이든 부동산이든 어디로."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n9104277a",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627025000008",
+    "title": "[마켓인사이트] 다시 고개 든 AI 수익성 논란…코스피 향방은?",
+    "summary": [
+      "(서울=연합뉴스) 황철환 기자 = 인공지능(AI) 산업 수익성에 대한 의구심과, 반도체 가격 급등에 따른 수요파괴 우려가 고개를 든 가운데 지난..."
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#정책"
+      "#반도체"
+    ]
+  },
+  {
+    "id": "na79de441",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626144100017",
+    "title": "AI 시대 고용불안, 한국은 버티고 미국은 움직였다",
+    "summary": [
+      "(서울=연합뉴스) 한상용 기자 = 최근 인공지능(AI) 확산과 산업 재편에 따른 고용 불안에 미국과 한국 직장인들이 서로 다른 인식과 반응을 보..."
+    ],
+    "chips": [
+      "#AI",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n0743818c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "41분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/06/28/4KVTQYAXBJEWVEK37V67E2XA2Q/",
+    "title": "북유럽까지 펄펄 끓는다... 37도 덴마크, 역대 최고기온",
+    "summary": [
+      "북유럽까지 펄펄 끓는다... 37도 덴마크, 역대 최고기온."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -637,18 +638,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "부동산",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "SK하이닉스",
+    "tag": "채용",
     "mentions": "1420건",
     "trend": "+115%"
   }
