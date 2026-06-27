@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-27 20:22:08
+// 마지막 업데이트: 2026-06-27 21:22:17
 window.NEWS_DB = [
   {
     "id": "n149e2bc9",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2TjduQmJ4b2ZLVS1Td1ZxXzRYbEw3UlRrcm5PT2pYZTNYYWlFd25GMm1nLU5uWDB5R1FjWHBqNVItREZJNExScm44NG9RWWZyMDUxT2JyaFEwQ1XSAWBBVV95cUxPbHprUTgtTmN1QlQxbGVDNXE5eHlmcnhhT0dJRnVwdkw2dWNCcHBBcDNrMXpXNHBCX2lkX3VNNFdJT09JRHpmU0Y4TUV4dUxPbXpVWjVLcUVzY3RGNFBEaVE?oc=5",
     "title": "이원택, 젠슨황에 새만금 투자 제안 \"삼겹살로 먹으며 대화하자\"",
     "summary": [
@@ -47,25 +47,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc48b08b9",
-    "category": "IT",
-    "source": "시사저널e",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
-    "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
-    "summary": [
-      "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져 시사저널e."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -76,6 +61,20 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
+    ]
+  },
+  {
+    "id": "n8908d258",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnM9IBYEFVX3lxTE5tZUFjRk10enR2ZzVNSllfWE45TEU2bDc5TWswSmF3bXAxVi1XckVkYWlqWXoxS1lsRmdlMkxjX3Fwa2JwamdoTmxhV1MwNXlWWDlsOE1MSjIwdVNxLTFnMw?oc=5",
+    "title": "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검'",
+    "summary": [
+      "SK하이닉스 나스닥 상장, 마이크론엔 '양날의 검' 연합뉴스."
+    ],
+    "chips": [
+      "#SK하이닉스"
     ]
   },
   {
@@ -138,20 +137,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n78705fb2",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWnNlNmVCQ1gxZWZCTURNaXRQY1JGdWR6OVltQWZSa2xGeEwza3ZXNXRsQWJ1Tk96X0wxMlgtc2FpUm04YVhpRDhqY29hSlN1RE9Na1pHeEtyN3ZiYzg1b0NQY1JwU2RtazlQLQ?oc=5",
-    "title": "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국'",
-    "summary": [
-      "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국' 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n9cecfc4c",
     "category": "부동산",
     "source": "한국경제",
@@ -170,11 +155,25 @@ window.NEWS_DB = [
     "id": "n64dc67f5",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "5일 전",
+    "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
     "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
     "summary": [
       "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n6f660c1e",
+    "category": "IT",
+    "source": "전라매일",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
+    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
+    "summary": [
+      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
     ],
     "chips": [
       "#스타트업"
@@ -240,6 +239,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6fd56a9c",
+    "category": "사회",
+    "source": "시사캐스트",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
+    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
+    "summary": [
+      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
     "id": "nd0c82b8d",
     "category": "사회",
     "source": "대학IN",
@@ -269,22 +283,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "129일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -318,240 +316,240 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7f357132",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/04/15/IU44A3RAFRFCRI2MWE37Q56IKA/",
-    "title": "여름 생선의 제왕, 잡자 마자 반건조한 ‘여수 민어’ 한 마리 6200원 초특가",
-    "summary": [
-      "여름 생선의 제왕, 잡자 마자 반건조한 ‘여수 민어’ 한 마리 6200원 초특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b676fd8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/28/MIZTOYJZMNSTQMTDHAYWKOBWGI/",
-    "title": "‘63세 미혼’ 안문숙, 집 공개 안 하는 이유..“‘미우새’ 고정도 포기”",
-    "summary": [
-      "[OSEN=김채연 기자] 배우 안문숙이 예능 고정 자리도 포기할 정도로 집 공개를 안하는 이유를 밝혔다.27일 유튜브 채널 ‘미스뭐어때 안문숙’에는 ‘안문숙 호주 여행 중, 숨겨둔 속마음 꺼내봅니다’라는 제목으로 새 영상이 공개됐다.이날 안문숙은 “나는 우리 집 굉장히 미니멀하게 산다”며 내가 혼자 오래 살아서 우리 집을 궁금해 하는 사람이 많다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e80550e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/06/15/L33TGNP3JFEVTEFCG4K2YCVMCE/",
-    "title": "10만개 판매 넘었다, 비립종 등 피부 노화 관리 크림 1만원 내외 단독 특가",
-    "summary": [
-      "10만개 판매 넘었다, 비립종 등 피부 노화 관리 크림 1만원 내외 단독 특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7dd69fa",
+    "id": "nc2acdf30",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260628_0003686298",
-    "title": "뮤지컬 '의기 논개' 갈라 에디션으로 돌아온다",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260628_0003686303",
+    "title": "트럼프, 차기 이민세관단속국 국장에 해병대 출신 경찰 랜스 슈로이어 지명",
     "summary": [
-      "[진주=뉴시스] 정경규 기자 = 경남 진주시와 극단현장은 지난 5월 성황리에 막을 내린 진주의 대표 문화콘텐츠 실경역사뮤지컬 '의기 논개'가 회당 50명의 관객만을 위한 특별한 무대로 돌아온다고 28일 밝혔다.",
-      "시와 극단현장은 오는 7월18일까지 매주 토요일 오후 7시, 복합문화예술센터 '예술중심현장'에서 뮤지컬 '의기 논개' 프리미엄 갈라 에디션을 선보인다.",
-      "시는 논개의 이야기를 담은 실경 역사뮤지컬 '의기 논개'를 제작해 지난해에 이어 올해."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9a560513",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/28/2026062720241258645",
-    "title": "'데이비슨 영입설 터졌다!' 시험대 오르는 외인 2선발, NC 상대 어떤 모습 보일까",
-    "summary": [
-      "지난 2024시즌 'KBO 리그 홈런왕 출신'이자 NC 다이노스 전 외국인 타자 맷 데이비슨(35)의 웨이버 공시로 야구계가 들썩이는 가운데, 영입설의 중심에 선 키움 히어로즈의 '외인 우완 2선발' 와일스(28)가 운명의 시험대에 오른다.",
-      "키움은 28일 창원NC파크에서 열리는 '2026 신한 SOL KBO리그' KBO 리그 NC 다이노스와의 원정 경기에 우완 투수 와일스를 선발 투수로 예고했다.",
-      "27일 경기에서 10연패에서 벗어난 키움은."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n69d7ee41",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628002800065",
-    "title": "인천 효성동 상가주택서 불…1시간여 만에 진화",
-    "summary": [
-      "(인천=연합뉴스) 황정환 기자 = 28일 오전 1시 10분께 인천시 계양구 효성동 단층 상가주택에서 불이 나 1시간여 만에 진화됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n38fd7d35",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/28/2026062801552729627",
-    "title": "\"대가리 박고 미친놈처럼 뛰겠다\" 홍명보호 이토록 간절하다... '경우의 수 절박' 김진규가 털어놓은 속내 [월드컵 현장]",
-    "summary": [
-      "경우의 수를 기다릴 수밖에 없는 홍명보호는 실낱 같은 희망이 살아난다면 전에 없던 투혼을 불사를 계획이다.",
-      "대한민국 축구 국가대표팀은 27일 오전(현지시간) 베이스캠프인 멕시코 과달라하라 사포판의 치바스 베르데 바예에서 훈련을 진행했다.",
-      "한국은 월드컵 A조 1차전에서 체코를 2-1로 꺾고 32강 진출에 유리한 고지를 선점했지만, 멕시코와 남아프리카공화국(이상 0-1)에 연달아 패하며 조 3위로 추락했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n07c79a32",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003686230",
-    "title": "인천, 낮 최고기온 30도 웃돌아…오후 소나기 예보",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 28일 인천은 대부분 지역에서 낮 최고기온이 30도를 넘어가 덥겠다.",
-      "하늘은 서해상에서 동쪽으로 이동하는 고기압의 가장자리에 들어 낮부터 구름 많아지겠다.",
-      "수도권기상청은 \"아침 최저기온은 21도, 낮 최고기온은 30도 내외의 분포를 보이겠다\"며 \"낮부터 저녁 사이 소나기가 내리는 곳이 있겠다\"고 예보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ebc1ded",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685358",
-    "title": "\"건보 수가 조정 강행 반대\"…의사들 또 거리로",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 정부가 도수치료, 체외충격파 등을 관리급여 대상으로 지정하고, 필수의료 보상을 강화하는 대신 검체검사와 CT(컴퓨터단층촬영) 및 MRI(자기공명영상)의 수가를 낮추기로 하자 의료계 반발이 거세지고 있다.",
-      "28일 의료계에 따르면 대한의사협회(의협) 범의료계 국민건강보호 대책특별위원회(범대위)는 이날 오후 4시 서울 대한문 앞에서 ''국민의 치료권, 의사의 진료권을 침해하는 관리급여 반대 궐기대회'를 연다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf03f466e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627044700001",
-    "title": "'전면전' 치닫는 장동혁 거취 갈등…국힘 '징계 내전' 초읽기",
-    "summary": [
-      "(서울=연합뉴스) 권희원 노선웅 기자 = 6·3 지방선거 패배 이후 계속됐던 국민의힘 장동혁 대표에 대한 거취 공방이 28일 이른바 징계 내전으..."
+      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 미국 대통령은 27일 이민세관단속국(ICE) 국장에 오클라호마주 경찰관 출신인 랜스 슈로이러를 지명한다고 발표했다.",
+      "트럼프 대통령은 소셜미디어 트루스소셜에 슈로이어가 전직 해병대원이자 실제 작전 경험이 있는 애국자라고 말했다.",
+      "그는 슈로이어를 “수십 년의 경험으로 최악의 상황을 처리한 검증된 리더”라며 “살인범, 강간범, 마약 밀매범을 포함한 불법 이민자 범죄자들을 전례 없는 속도로 구금하고 추방할."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n51ec0364",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "21분 전",
-    "url": "https://www.mt.co.kr/estate/2026/06/28/2026062615155926685",
-    "title": "'반값 전세' 6.8만가구 매물 나온다?...'전월세 큰일' 불안 커진 이유",
+    "id": "na84371ee",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260628_0003686307",
+    "title": "김준상 MBC 아나, 전 직장 하이닉스였다 \"동기 성과급 1억2천\"",
     "summary": [
-      "정부의 등록임대사업자 세제 혜택 축소 논의에 서울 아파트 전세시장에도 경고등이 켜졌다.",
-      "등록임대사업자가 보유한 아파트가 매매시장으로 전환되면 전월세 시장에 공급돼 온 임대 재고가 줄어들 수 있어서다.",
-      "공급 부족이 심화한 전월세 시장의 불안을 키워 무주택자의 주거 안정을 해칠 수 있다는 우려가 나온다."
+      "[서울=뉴시스]이재훈 기자 = MBC 김준상 아나운서가 전 직장인 SK하이닉스의 성과급 규모와 주식 투자 비화를 공개했다.",
+      "지난 27일 방송된 MBC TV 예능물 '전지적 참견 시점' 예고편에서는 대기업을 퇴사하고 언론인의 길을 택한 김 아나운서의 일상이 그려졌다.",
+      "이날 김 아나운서는 전 직장 동기들의 성과급을 묻는 질문에 \"동기 연차 친구가 1억2000만 원 정도를 받더라\"고 밝혀 모두를 놀라게 했다."
     ],
     "chips": [
-      "#부동산",
-      "#전세"
+      "#SK하이닉스"
     ]
   },
   {
-    "id": "nee477006",
+    "id": "n943f022f",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626131400017",
+    "title": "애플도 올렸다…IT기기 '가격 인상' 도미노 시작되나",
+    "summary": [
+      "(서울=연합뉴스) 박형빈 기자 = 애플이 맥과 아이패드 가격을 최대 300달러 인상하면서 IT 기기 가격 인상 흐름이 스마트폰과 PC, 게임기 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned59aea9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260628004300064",
+    "title": "충북 대체로 맑고 소나기…낮 최고 32도",
+    "summary": [
+      "(청주=연합뉴스) 천경환 기자 = 28일 충북은 대체로 맑다가 지역에 따라 소나기가 내리겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf125bc50",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260623119800030",
+    "title": "5월 외국인 한류 소비액 1조4천억원…3개월 연속 1조원대 돌파",
+    "summary": [
+      "(서울=연합뉴스) 이상서 기자 = 지난달 한국을 찾은 외국인 관광객이 지출한 한류 소비액이 1조4천억원을 넘어서며 역대 최대치를 재차 경신했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n94348f8a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260628004000063",
+    "title": "대전·세종·충남 낮 최고 29∼32도…소나기 곳곳",
+    "summary": [
+      "(대전=연합뉴스) 김소연 기자 = 일요일인 28일 대전·세종·충남에 낮 기온 30도가 넘는 더운 날씨가 이어지겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9aa66b0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685858",
-    "title": "[인터뷰] '최후의 인류'가 쏘아올린 기후위기…\"과학은 우릴 구원할까\"",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003686256",
+    "title": "\"더워요\" 충북, 대체로 맑음…낮 최고 30~32도",
     "summary": [
-      "[서울=뉴시스]강주희 기자 = 기후위기 시대에 과학은 인류를 살릴 수 있을까.",
-      "그리고 인간은 끝까지 살아남을 수 있을까.",
-      "지난 4일 공개된 EBS '최후의 인류'는 이 두 가지 질문을 던지며 시작한다."
+      "[청주=뉴시스] 연현철 기자 = 일요일인 28일 충북지역은 대체로 맑다가 늦은 오후부터 구름 많겠다.",
+      "청주기상지청에 따르면 이날 아침 최저기온은 15~20도로 전날과 비슷하다.",
+      "낮 최고기온은 30~32도로 전날과 비슷하겠다."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "n14b3326e",
+    "id": "nf12bff63",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/28/ME2TSNZUG5QTAOLFHBSGKZRQHA/",
+    "title": "'아들 다섯' 정주리, 연애 때부터 피임했으나 혼전 임신 \"난소 절제로 난임\"('동치미')[핫피플]",
+    "summary": [
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘속풀이쇼 동치미’ 다산의 여왕이라 불리는 개그우먼 정주리가 다섯 아들을 두기까지의 비하인드를 전했다.27일 방영한 MBN ‘속풀이쇼 동치미’(이하 ‘동치미’)에서는 아들 다섯을 둔 개그우먼 정주리가 출연했다.",
+      "정주리는 이날 출연을 위해 남편이 집에서 아이들 다섯을 돌보고 있다고 말."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n23392c41",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627043300030",
+    "title": "정부, 올해 계란수입에 1천212억원…산란계업계 \"규제가 원인\"",
+    "summary": [
+      "(서울=연합뉴스) 홍국기 기자 = 정부가 국내 계란값 안정을 위해 오는 8월까지 외국에서 신선란 총 2억3천139만개를 수입하는 데 1천212억..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n7106cf1a",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626131500530",
+    "title": "올여름 찜통더위 전망…작업현장서 온열질환 피하려면",
+    "summary": [
+      "(서울=연합뉴스) 옥성구 기자 = 올여름 '역대급 찜통더위'가 예고된 가운데, 옥외작업 중에 열사병으로 목숨을 잃는 사고를 피하려면 '물'과 '..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff72e656",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/economy/science/2026/06/28/HFQTIYZRG5RDAMRSGRTDAYJTMU/",
+    "title": "‘세라젬 우군’ 얻은 와이브레인, IPO 재시동…적자 딛고 ‘뇌칩’ 시장 정조준",
+    "summary": [
+      "국내 전자약 대표 기업 와이브레인이 코스닥 상장 재도전에 나선다.",
+      "과거 최대주주 리스크로 상장 절차를 중단했던 회사는 지난해 세라젬이 최대주주에 오르면서 경영 안정성을 확보했다.",
+      "우울증 치료 전자약을 기반으로 치매 치료와 뇌-컴퓨터 인터페이스(BCI) 분야까지 사업을 확대하며 기업가치 제고에 나선다는 전략이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n553df4a4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684394",
+    "title": "\"버텨봐야 의미없다\"…'법인 파산' 벌써 1000건",
+    "summary": [
+      "[서울=뉴시스]강은정 기자 = 올해 들어 법원에 접수된 법인 파산 신청이 1000건을 돌파했다.",
+      "연간 기준 최다 법인 파산 신청을 기록한 지난해보다 빠른 속도다.",
+      "28일 법원 통계 월보에 따르면 지난 5월까지 법인 파산 신청 건수는 총 1060건으로 지난해 같은 기간(922건)보다 14.96%(138건) 증가했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n41c0b955",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "21분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/28/AGIYFD5IDNAPPDAEPFXEKM4TRA/",
+    "title": "[인터뷰] AI 데이터센터 경쟁력은 전력… “한국, 핵심 시장이나 원전·전기요금 정책 변화는 불안 요인”",
+    "summary": [
+      "[인터뷰] AI 데이터센터 경쟁력은 전력… “한국, 핵심 시장이나 원전·전기요금 정책 변화는 불안 요인”."
+    ],
+    "chips": [
+      "#AI",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nfc97fa1f",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "21분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/28/UVEHHHGUVVGC3FBJGOIXQSEWJE/",
+    "title": "[비즈톡톡] “韓 반도체 산업에 비용 폭탄 될 수도”… 호남 반도체 클러스터의 숨은 청구서",
+    "summary": [
+      "[비즈톡톡] “韓 반도체 산업에 비용 폭탄 될 수도”… 호남 반도체 클러스터의 숨은 청구서."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n1bed6e79",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260626/134188760/1",
+    "title": "커지는 역직구 시장… G마켓, ‘라자다’ 상품 수 4배 확대한다",
+    "summary": [
+      "해외에서 한국 상품을 직접 구매하는 역직구족이 급증하면서 국내 이커머스 업계도 글로벌 시장 공략에 속도를 내고 있다.",
+      "G마켓 역시 동남아시아 대표 이커머스 플랫폼 라자다와 연동해 판매하는 상품 수를 대폭 확대하며 역직구 사업 강화에 나섰다.역직구 시장은 최근 빠르게 성장 중이다.",
+      "국가물류통합정보센터에 따르면 4월 국내 전자상거래를 통한 수출액은 2억2458만 달러(약 3448억 원)를 기록했다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n73bd65bc",
     "category": "사회",
     "source": "조선일보",
     "time": "22분 전",
-    "url": "https://www.chosun.com/international/us/2026/06/28/YGUWRG3WD5BYLOQUJ2OTFUWQ2U/",
-    "title": "미국의 ‘위대한’ 50개 州, 다 모였는데… 반쪽짜리 된 250번째 생일 파티 [르포]",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/06/28/MEYWKZJSGY3DKODEGNRTMOJZGU/",
+    "title": "자금 조달 필요한 LG화학·에코프로… “딜 잡아라” 증권사 IB 물밑 경쟁",
     "summary": [
-      "미국의 ‘위대한’ 50개 州, 다 모였는데… 반쪽짜리 된 250번째 생일 파티 [르포]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n23fa0757",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "30분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/28/2026062804464555464",
-    "title": "소녀시대 완전체 돌아오나…티파니 \"20주년 큰 프로젝트 준비 중\"",
-    "summary": [
-      "티파니 영이 소녀시대 20주년 완전체 컴백 가능성을 언급했다.",
-      "27일 방영된 MBC '전지적 참견 시점' 404회에서는 티파니 영이 출연해 최근 근황을 전했다.",
-      "이날 전현무는 \"내년이 소녀시대 20주년이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea0e433d",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628002200072",
-    "title": "[베네수 강진] 유엔 \"직접 피해만 10조원…베네수 GDP의 6%\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 최근 베네수엘라를 강타한 연쇄 강진으로 인한 직접적인 피해액이 베네수엘라 국내총생산(GDP)의 6%에 달한다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6082414e",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628002500007",
-    "title": "[월드컵] '32강 불씨' 기다리는 김진규 \"기회만 온다면 머리 박고 뛸 것\"",
-    "summary": [
-      "(사포판[멕시코 할리스코주]=연합뉴스) 오명언 기자 = 자력 32강 진출에 실패해 '경우의 수'를 따지게 된 홍명보호의 미드필더 김진규(전북)가..."
+      "이 기사는 2026년 6월 26일 16시 24분 조선비즈 머니무브(MM) 사이트에 표출됐습니다.",
+      "국내 주요 증권사들이 LG화학과 에코프로를 대상으로 선제적인 영업에 나서고 있다.",
+      "두 회사 모두 중장기적으로 대규모 자금조달 수요가 예상되는 만큼 거래가 본격화하기 전에 주관사 지위를 선점하려는 움직임이다."
     ],
     "chips": [
       "#뉴스"
@@ -561,7 +559,7 @@ window.NEWS_DB = [
     "id": "nb50f7bbf",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202606271572i",
     "title": "'남녀 동일 상금' 멀었던 골프… LPGA 상금 증액 이어져 희망 만들어 [강혜원의 골프플래닛]",
     "summary": [
@@ -572,24 +570,40 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n88b5c24c",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
+    "id": "nd1582bc7",
+    "category": "IT",
+    "source": "ZDNet Korea",
     "time": "5시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627048400030",
-    "title": "경북 예천 돼지농장서 구제역 발생…위기경보 '심각' 상향",
+    "url": "https://zdnet.co.kr/view/?no=20260628011013",
+    "title": "ZTE와 GSMA, MWC26 상하이에서 ZTE 글로벌 서밋 & 유저 콩그레스와 GSMA M360 아세안 동시 개최 발표",
     "summary": [
-      "(서울=연합뉴스) 김세린 기자 = 구제역 중앙사고수습본부는 27일 경북 예천군의 한 돼지농장에서 구제역이 발생했다고 밝혔다."
+      "[지디넷코리아] ZTE와 GSMA, 말레이시아 쿠알라룸푸르에서 제15회 ZTE 글로벌 서밋 & 유저 콩그레스와 GSMA M360 ASEAN 동시 개최 '무한의 설계 - 연결성에서 디지털 가치로'를 주제로 열리는 ZTE 글로벌 서밋 & 유저 콩그레스, 비전, 볼륨, 밸류, 벤처 등 네 가지 비전 챕터 소개 ZTE 행사에는 기조연설, 패널 토론, 신제품 쇼케이스, 전시 부스 투어, 로봇 공연이 마련되며 글로벌 오피니언 리더, 정부 관계자, 통신사."
     ],
     "chips": [
-      "#뉴스"
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "ncb0c745e",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "5시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260628011003",
+    "title": "GSMA MWC26 상하이, AI 경제와 6G 혁신으로 전 세계 참석자들의 호응 속에 폐막",
+    "summary": [
+      "[지디넷코리아] 143개 국가 및 지역의 참석자들이 약 300명의 연사와 400곳 이상의 후원사, 전시업체 및 파트너와 함께 SNIEC에서 AI 시대 연결성의 미래 모색 상하이, 2026년 6월 28일 /PRNewswire/ -- MWC26 상하이(MWC26 Shanghai)가 AI 경제, 6G 혁신 등을 중심으로 3일간 진행된 콘퍼런스와 전시회를 마치고 폐막했다.",
+      "행사에는 3만 7300명이 참석했다.",
+      "MWC 상하이의 해외 참석자는 전년 대비."
+    ],
+    "chips": [
+      "#AI"
     ]
   },
   {
     "id": "nfc730ea2",
     "category": "사회",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260628/134193519/1",
     "title": "우크라, 중거리 순항 미사일 ‘플라밍고’로 러 내륙 전략군수 공장 타격",
     "summary": [
@@ -604,7 +618,7 @@ window.NEWS_DB = [
     "id": "n845221d6",
     "category": "IT",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260627/134193516/1",
     "title": "김용범 “수도권만으론 반도체 감당 어려워…짓는 나라가 이긴다”",
     "summary": [
@@ -615,21 +629,6 @@ window.NEWS_DB = [
       "#반도체",
       "#정책"
     ]
-  },
-  {
-    "id": "nb7a8ded1",
-    "category": "IT",
-    "source": "테크M",
-    "time": "6시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152929",
-    "title": "[글로벌] 오픈AI, IPO 내년으로 연기 검토...스페이스X 상장 후폭풍에 속도 조절",
-    "summary": [
-      "인공지능(AI) 모델 챗GPT 개발사 오픈AI가 연내를 목표로 추진하던 기업공개(IPO) 일정을 내년으로 미루는 방안을 검토하고 있습니다.지난 25일(현지시간) 뉴욕타임스(NYT)는 복수의 내부 소식통을 인용해 오픈AI가 IPO 연기 논의를 벌이고 있다고 보도했습니다.",
-      "당초 샘 올트먼 최고경영자(CEO)는 3~4분기 상장을 염두에 두고 자문단에 기업가치 1조달러 방안을 모색하도록 주문했으나, 최근 기류가 달라졌습니다.직접적인 계기는 스페이스X의."
-    ],
-    "chips": [
-      "#AI"
-    ]
   }
 ];
 
@@ -638,8 +637,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
@@ -649,9 +648,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "SK하이닉스",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
