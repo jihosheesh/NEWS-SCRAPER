@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-27 00:28:59
+// 마지막 업데이트: 2026-06-27 01:37:21
 window.NEWS_DB = [
+  {
+    "id": "nc71648ee",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zZWstNnItZEl2Mk5mbmdLeW0yNUJqQ0hhZmh6RDZXdkw3ZUl0VEplOEVoTmVWVHpzcW4wV3JRSlV6UnYtUG43SHJ4QlNVSlU?oc=5",
+    "title": "[칩톡]삼성·하이닉스 몸값 더 뛴다…엔비디아 독점 깨지는 AI 칩 시장",
+    "summary": [
+      "[칩톡]삼성·하이닉스 몸값 더 뛴다…엔비디아 독점 깨지는 AI 칩 시장 v.daum.net."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
@@ -21,7 +36,7 @@ window.NEWS_DB = [
     "id": "n2aad78a4",
     "category": "사회",
     "source": "스포츠동아",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
@@ -81,7 +96,7 @@ window.NEWS_DB = [
     "id": "n4961c442",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aaktNZ3VBellFcmtGV3lWRW05czA3eWVIXzVsTEFEOUJuMFZSVWNBMTdqZVJDSERWc3N0MWIzd1p3dzBaODRYN3VxbGlKRm9Senl3N3RaYmtqdw?oc=5",
     "title": "오픈AI, 자체 칩 '할라페뇨' 공개…\"엔비디아·구글 칩과 대등한 성능\"",
     "summary": [
@@ -109,20 +124,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n93563301",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zR2FqRU9RY29vUzEwMU5KVDl5cWNScGYweVFCQjhmZGt2NFQ2b2FqVTd3VDdkRWZxVlVlMDROaDZkT2tQeEpTSThxVkw4WDdTWDhiNmFBWDVMeEnSAWBBVV95cUxOT0h2M0Y1eW02QjdaWXREWUF2R0N1VGdJc0c4SzFqV2V4NGxEaXQ3TnhDeVE5WVlBY21NbnhwR1BrdmdLY0JOTUdZeHdPekZxaHd2em9NdVZqb2ZqZHRZM0Q?oc=5",
-    "title": "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\"",
-    "summary": [
-      "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\" 연합뉴스."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nde229885",
     "category": "IT",
     "source": "한국보험신문",
@@ -131,6 +132,20 @@ window.NEWS_DB = [
     "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
     "summary": [
       "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장” 한국보험신문."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n78705fb2",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWnNlNmVCQ1gxZWZCTURNaXRQY1JGdWR6OVltQWZSa2xGeEwza3ZXNXRsQWJ1Tk96X0wxMlgtc2FpUm04YVhpRDhqY29hSlN1RE9Na1pHeEtyN3ZiYzg1b0NQY1JwU2RtazlQLQ?oc=5",
+    "title": "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국'",
+    "summary": [
+      "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국' 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -166,20 +181,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f660c1e",
-    "category": "IT",
-    "source": "전라매일",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
-    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
-    "summary": [
-      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n5ace0115",
     "category": "스포츠",
     "source": "네이트",
@@ -197,7 +198,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "10일 전",
+    "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -205,6 +206,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
+    ]
+  },
+  {
+    "id": "n7c9e9138",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "14일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaTJiYVJiLWtIZnlfZ3VRWm9HeW5QTWhMemtKSDYwdnFZNkRwVmhPN3B3aEpNeVdsLU82V0k3Q0t2Tm9sNHQ5QUJHeF9VcW1XTDNHdGNDMERRZ9IBVEFVX3lxTE5UMmczREttNy14TjBUVE1NeG1kNUQ3WDNZbko4N3JQb3RKY1hEc29pNjFJaHFnUzRzSnFLOVVrano4QWpNSklVTVRyTWxzV1k0ZFVyMQ?oc=5",
+    "title": "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각",
+    "summary": [
+      "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각 한국경제."
+    ],
+    "chips": [
+      "#환율",
+      "#정책"
     ]
   },
   {
@@ -224,35 +240,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7c9e9138",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "14일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaTJiYVJiLWtIZnlfZ3VRWm9HeW5QTWhMemtKSDYwdnFZNkRwVmhPN3B3aEpNeVdsLU82V0k3Q0t2Tm9sNHQ5QUJHeF9VcW1XTDNHdGNDMERRZ9IBVEFVX3lxTE5UMmczREttNy14TjBUVE1NeG1kNUQ3WDNZbko4N3JQb3RKY1hEc29pNjFJaHFnUzRzSnFLOVVrano4QWpNSklVTVRyTWxzV1k0ZFVyMQ?oc=5",
-    "title": "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각",
-    "summary": [
-      "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각 한국경제."
-    ],
-    "chips": [
-      "#환율",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n31acb708",
+    "id": "n6fd56a9c",
     "category": "사회",
-    "source": "아주경제",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
-    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "source": "시사캐스트",
+    "time": "14일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
+    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
     "summary": [
-      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
     ],
     "chips": [
-      "#AI",
-      "#정책",
-      "#취업",
-      "#고용"
+      "#채용",
+      "#취업"
     ]
   },
   {
@@ -318,318 +317,319 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfa57fd52",
+    "id": "n4c69b238",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "아시아경제",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003685924",
-    "title": "진천군, 민간 자율 폭염 대피소 '해피쉼터' 모집",
+    "url": "https://view.asiae.co.kr/article/2026062710361046715",
+    "title": "600년 홍어의 변신…나주시, 영산포 홍어거리 '미식관광 명소' 육성",
     "summary": [
-      "[진천=뉴시스] 연현철 기자 = 충북 진천군은 폭염 취약계층 보호와 무더위 쉼터 확대를 위해 '민간 자율 폭염 대피소(해피쉼터)' 참여 시설을 모집한다고 27일 밝혔다.",
-      "모집 대상은 냉방기기가 가동되는 민간 시설로, 편의점 은행 종교시설 학원 등 시설 종류와 관계없이 신청할 수 있다.",
-      "참여를 희망하는 시설은 다음 달 6일까지 군 안전정책과에 전화로 신청하면 된다."
-    ],
-    "chips": [
-      "#정책",
-      "#채용"
-    ]
-  },
-  {
-    "id": "ne9fb557f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627006752071",
-    "title": "美, 이란의 상선 공격에 보복공습…이란도 \"미군기지 때렸다\"(종합2보)",
-    "summary": [
-      "(서울 워싱턴=연합뉴스) 강훈상 기자·이유미·조준형 특파원 = 미국과 이란이 종전을 위한 양해각서(MOU)에 정식 서명한 지 9일 만인 26일(..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79b6e055",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/27/2026062709193047576",
-    "title": "'1세대 인플루언서' 이주희 사망 비보…\"이틀 전까지 소통했는데\"",
-    "summary": [
-      "1세대 인플루언서이자 패션 브랜드 아브컬렉션을 이끌던 이주희 대표가 갑작스럽게 세상을 떠났다.",
-      "이 대표 SNS(소셜미디어)에는 지난 25일 이 대표 부고 글이 올라왔다.",
-      "이 대표 측은 \"어제(24일) 갑작스레 한 남자의 소중한 반려자이자 한 아이의 엄마, 많은 분께 아브컬렉션 대표로 사랑받았던 이주희 님이 우리 곁을 떠났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29bc6da8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627021500052",
-    "title": "13대 경남도의회 다수당 국민의힘, 의장 후보에 5명 등록",
-    "summary": [
-      "(창원=연합뉴스) 이정훈 기자 = 국민의힘 경남도의회 선거관리위원회는 7월 개회하는 제13대 경남도의회 전반기 의장 후보에 5명이 등록했다고 2..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "naeb7fd36",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260624165300005",
-    "title": "\"빌 게이츠·젠슨 황 출연, '유퀴즈'에 중요한 이정표 됐죠\"",
-    "summary": [
-      "(서울=연합뉴스) 장진리 기자 = 메릴 스트리프, 스칼릿 조핸슨 같은 할리우드 스타부터 젠슨 황 엔비디아 최고경영자(CEO), 빌 게이츠 마이크..."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "na94e649a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003684379",
-    "title": "'보령시민과 함께하는 행복콘서트' 7월10일 문화예술회관",
-    "summary": [
-      "[보령=뉴시스]유순상 기자 = 충남 보령시는 내달 10일 오후 7시 30분 보령문화예술회관 대공연장에서 '2026 보령시민과 함께하는 행복콘서트'가 열린다고 27일 밝혔다.",
-      "이날 꾸준히 대중의 사랑을 받아오고 있는 가수 심수봉, 이은미, 김장훈이 무대에 오른다.",
-      "심수봉은 1978년 대학가요제에서 '그때 그 사람'으로 데뷔한 후 '백만송이 장미', '남자는 배 여자는 항구', '사랑밖엔 난 몰라' 등 수많은 히트곡을 가지고 있는 싱어송라이터이다."
+      "전남 나주시가 영산포 홍어거리를 단순한 음식거리를 넘어 역사와 문화, 관광이 결합된 대표 미식관광 명소로 육성하기 위한 본격적인 경쟁력 강화에 나섰다.",
+      "나주시는 전라남도 지정 남도음식거리인 영산포 홍어거리의 경쟁력을 높이기 위해 '남도음식거리 명품화사업'의 일환으로 외식업 영업주를 대상으로 맞춤형 교육과 전문가 컨설팅을 추진한다고 27일 밝혔다.",
+      "이번 사업은 시설 정비 중심에서 벗어나 음식의 품질과 서비스,."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n71467be3",
+    "id": "nb072f3b8",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260626_0003685752",
-    "title": "읽는 음식, 먹는 책…서울국제도서전의 '특별한 밥상'",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/06/27/GVSWCNZQGZSDAZLEGQ4DCMLDMQ/",
+    "title": "르세라핌·아일릿·캣츠아이, 상승세 불붙었다",
     "summary": [
-      "[서울=뉴시스]한이재 기자 = \"책은 마음의 양식\"이라는 말이 있다.",
-      "올해 서울국제도서전에서는 이 표현이 현실이 됐다.",
-      "빵집으로 변신한 출판사부터 셰프가 책을 권하는 '북 오마카세', 사찰음식 명장과 프랑스 미식 작가의 대화까지."
+      "[OSEN=선미경 기자] 르세라핌·아일릿·캣츠아이의 글로벌 상승세가 이어지고 있다.",
+      "27일 하이브에 따르면 르세라핌·아일릿·캣츠아이의 스페셜 컬래버레이션 싱글 ‘아이코닉 바이 미스테이크(ICONIC BY MISTAKE)’가 스포티파이 글로벌 차트에서 자체 최고 순위를 경신했다.",
+      "‘아이코닉 바이 미스테이크’는 스포티파이 ‘위클리 톱 송 글로벌’(6월 19일~."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbf4f592f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260627/134192661/1",
-    "title": "초여름 날씨로 나들이객 증가…서울→부산 5시간40분",
-    "summary": [
-      "토요일인 27일은 초여름 날씨로 나들이객이 늘어나며 지난주 대비 교통량이 증가할 것으로 전망된다.한국도로공사에 따르면 이날 전국 고속도로 교통량은 555만대로 예상된다.",
-      "수도권에서 지방으로 빠져나가는 차량은 45만대, 지방에서 수도권으로 들어오는 차량은 47만대로 전망된다.지방 방향 고속도로는 오전 7~8시께 정체가 시작돼 오전 11시~오후 12시 가장 혼잡하겠으며 오후 7~8시께 해소될 것으로 예상된다.",
-      "특히 영동선과 서울양양선의 혼잡이 두드."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd59f0fb",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260627_0003685971",
-    "title": "수원 도심서 출동 경찰관에 주먹 휘두른 40대 체포",
-    "summary": [
-      "[수원=뉴시스] 박종대 기자 = 경기 수원팔달경찰서는 새벽 시간 도심 도로에서 출동 경찰관에게 주먹질을 한 혐의(공무집행방해 등)로 40대 A씨를 현행범으로 체포해 조사 중이라고 27일 밝혔다.",
-      "경찰에 따르면 A씨는 이날 오전 1시30분께 수원시 팔달구 인계동의 왕복 6차선 도로에서 차량 통행을 방해한다는 신고를 받고 출동한 경찰관에게 주먹을 휘두른 혐의를 받고 있다.",
-      "경찰은 A씨가 계속 저항하자 테이저건을 발사한 뒤 현행범으로 체포했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0e548aab",
+    "id": "n6b6fb3ea",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/06/27/2026062709197225991",
-    "title": "에이티즈, 멈추지 않는 금빛 항해 'BAD' [뉴트랙 쿨리뷰]",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260626_0003684702",
+    "title": "12년 투자 전문가가 처음 본 시장 과열…살아남는 법은 따로 있다",
     "summary": [
-      "에이티즈가 확장된 세계관으로 돌아왔다.",
-      "전 세계를 휩쓸고 돌아왔지만 만족하지 않고 계속해서 도전하는 에이티즈의 금빛 항해는 여전히 현재 진행형이다.",
-      "에이티즈는 26일 14번째 미니앨범 '골든 아워 : 파트 5(GOLDEN HOUR : Part.5)'를 발매했다."
+      "[서울=뉴시스]박세은 인턴 기자 = 평범한 직장인에서 100억원대 자산가가 된 재테크 전문가 너나위가 자산시장의 큰 변동 속에서 살아남을 수 있는 현실적인 생존 전략을 직장인들에게 전했다.",
+      "26일 너나위는 유튜브 채널 '월급쟁이부자들TV'에 출연해 \"재테크는 결혼과 비슷하다\"며 \"상대방이 어떤 사람인지 아는 것보다 내가 어떤 유의 사람인가가 정립되어 있어야 거기에 맞는 전략이 나오는 법\"이라고 강조했다.",
+      "이날 그는 현재 전월세 시장과 주식시장,."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "naa75f94c",
+    "id": "naa40e7f6",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627021300704",
-    "title": "[부고] 배규빈(연합뉴스TV 기자)씨 조모상",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/06/27/ZHMF65ORMZDGJF6326PUEVAZHQ/",
+    "title": "정성호, 김건희 ‘매관매직’ 징역 7년에 “정치 검찰에 대한 심판”",
     "summary": [
-      "[부고] 배규빈(연합뉴스TV 기자)씨 조모상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4887f260",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260627/134192656/1",
-    "title": "한국 선박 2척 호르무즈 해협 추가 탈출…3척 남아",
-    "summary": [
-      "호르무즈 해협 인근에 대기하던 우리 선박 2척이 추가로 호르무즈 해협을 통과해 정상 항해를 재개했다.해양수산부는 호르무즈 해협 내측에 대기 중이던 우리 선박 2척이 해협을 통과해 정상 항해 중이라고 27일 밝혔다.해당 선박들에는 우리 선원 총 4명이 승선하고 있다.",
-      "해당 선박들은 모두 제3국을 향하고 있다.이번 통과 선박들도 미·이란 간 종전 양해각서(MOU)를 근거로 이란 당국의 통항 허가를 받은 것으로 전해졌다.현재 호르무즈 해협 내측에 남."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc39575b3",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260627/134192640/2",
-    "title": "베네수엘라 지진 사망 920명으로 늘어…“5만명 넘게 실종”",
-    "summary": [
-      "베네수엘라 강진으로 인한 사망자 수가 26일(현지시간) 900명을 넘어선 것으로 확인됐다.",
-      "뉴욕타임스(NYT)에 따르면 호르헤 로드리게스 베네수엘라 국회의장은 이날 TV 연설에서 24일 강타한 강진으로 최소 920명이 사망하고 3360명의 부상자가 발생했다고 밝혔다.",
-      "또 병원 13곳을 포함해 약 1400채의 건물이 피해를 입었다고 덧붙였다."
-    ],
-    "chips": [
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n4bb6cac1",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627021000051",
-    "title": "호르무즈 내 한국 선박 2척 추가로 빠져나와…남은 배 3척",
-    "summary": [
-      "(부산=연합뉴스) 이영재 기자 = 중동 전쟁으로 호르무즈 해협에 발이 묶였던 한국 선박들 가운데 2척이 추가로 해협을 빠져나왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n94e43fac",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/27/2026062708404240532",
-    "title": "'김어준 유튜브' 유시민 \"李대통령, 모두의 대통령? 자신감 지나쳤다\"",
-    "summary": [
-      "[the300] 유시민 전 노무현재단 이사장, '김어준의 다스뵈이다' 유튜브 출연 유시민 전 노무현재단 이사장은 이재명 대통령이 포용·통합을 강조하며 중도 보수 확장에 나선 것에 대해 \"모두의 대통령이 되는 것은 바람직하지만 문제는 대통령의 자신감이 지나쳤던 것\"이라고 주장했다.",
-      "27일 정치권에 따르면 유 전 이사장은 전날 공개된 유튜브 '김어준의 다스뵈이다'에서 \"지향해야 할 목표인 것은 분명하지만 현실에서는 도달할 수 없는 목표\"라며 이같이."
+      "정성호, 김건희 ‘매관매직’ 징역 7년에 “정치 검찰에 대한 심판”."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n46611002",
+    "id": "n36af3ece",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003686018",
+    "title": "인천 앞바다서 22명 탄 낚시어선 침수…전원 구조",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 인천 앞바다에서 낚시어선이 침수 피해를 입자 해경이 승선원 22명을 모두 구조했다.",
+      "27일 인천해양경찰서에 따르면 이날 오전 4시34분께 경기 시흥시 시화방조제 중간선착장에서 출항해 인천 옹진군 초치도 해역으로 이동하던 낚시어선이 침수 중이라는 신고가 인천항 해상교통관제센터(VTS)에 접수됐다.",
+      "해당 선박에는 승객 20명과 선원 2명 등 총 22명이 타고 있었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na427115f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260627_0003686019",
+    "title": "국힘 \"한성숙, 국정 이끌 자질 없어…이 대통령, 지명 철회하라\"",
+    "summary": [
+      "[서울=뉴시스]한은진 기자 = 국민의힘은 27일 \"이틀간 진행된 한성숙 국무총리 후보자 인사청문회는 국정을 안정적으로 이끌 자질과 역량이 없다는 사실만 국민께 확인시켜 준 자리였다\"고 말했다.",
+      "박성훈 수석대변인은 이날 논평을 내고 \"한 후보자는 '무능·의혹·은폐' 3박자를 갖췄다.",
+      "국민이 본 것은 국정 철학도, 비전도 아니었다\"며 \"이재명 정권의 노골적인 '내로남불'과 한 후보자의 '오만한 특권 의식'뿐이었다\"고 주장했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nafdef779",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026062710302739572",
+    "title": "행안부 장관까지 나섰다…전남광주통합특별시 출범 최종 점검",
+    "summary": [
+      "윤호중 행정안전부 장관이 전남광주통합특별시 출범을 앞두고 현장을 찾아 행정정보시스템 전환과 민원 대응 체계를 직접 점검했다.",
+      "정부와 통합특별시 출범 주체들이 사실상 '최종 리허설'에 나서면서 성공적인 출범 준비에 총력을 기울이고 있다.",
+      "전라남도와 광주광역시, 행정안전부는 26일 나주 빛가람복합문화센터 전남광주대전환기획위원회에서 통합 점검회의를 열고 행정정보시스템 전환 상황과 민원 대응 계획을 최종 확인했."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n76b2edfc",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626130800017",
+    "title": "[테크톡노트] 휴머노이드와 피지컬 AI, 무엇이 다를까",
+    "summary": [
+      "(서울=연합뉴스) 한상용 기자 = 사람처럼 두 발로 걷고 두 팔로 물건을 나르는 로봇이 최근 주목받으면서 '휴머노이드'와 '피지컬 인공지능(AI..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n2618111d",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626127600052",
-    "title": "김해시, 8월부터 100만원 미만 소액 체납관리단 150명 규모 운영",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627024400011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
     "summary": [
-      "(김해=연합뉴스) 이준영 기자 = 경남 김해시는 오는 8월부터 100만원 미만 소액 체납을 징수하기 위한 체납관리단을 운영한다고 27일 밝혔다."
+      "[연합뉴스 이 시각 헤드라인] - 10:30."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2d07f118",
+    "id": "nfdb9b0cd",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260625_0003683655",
+    "title": "'길막 주차' 이제 못한다…아파트 주차장도 견인 가능[짤막영상]",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 신연경 인턴기자 = 오는 8월부터 아파트 주차장 출입구를 막거나 무료 공영주차장에 차량을 장기간 방치하는 행위에 대해 견인과 과태료 처분이 가능해진다.",
+      "그동안 사유지라는 이유로 단속이 어려웠던 아파트 부설주차장의 질서위반행위도 제재 대상에 포함된다.",
+      "27일 국토교통부 공식 유튜브 채널에는 개정 주차장법 시행을 앞두고 제도 변화 내용을 소개하는 영상이 공개됐다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n0660d79a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627023900009",
+    "title": "트럼프 얼굴새긴 한정판 여권 디자인 공개…건국 250주년 기념",
+    "summary": [
+      "(서울=연합뉴스) 이신영 기자 = 도널드 트럼프 미국 대통령이 자신의 초상화가 담긴 한정판 여권을 새로 공개했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9313167e",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026062710245725892",
+    "title": "'무려 108층' 베이징 랜드마크에 경비행기 충돌…中 당국 현장 봉쇄",
+    "summary": [
+      "중국 베이징의 최고층 빌딩에 소형 항공기가 충돌하는 사고가 발생했다는 외신 보도가 나왔다.",
+      "사고 직후 현장 일대에는 대규모 통제가 이뤄졌으며, 인명 피해 여부와 사고 원인은 아직 확인되지 않았다.",
+      "연합뉴스는 26일 사우스차이나모닝포스트(SCMP), CNN 등을 인용, 이날 오후 베이징 중심업무지구(CBD)에 위치한 108층짜리 시틱타워(CITIC Tower)에 경량항공기 1대가 충돌했다고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1f147f65",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/culture/2026/06/27/2026062615085511698",
-    "title": "서울숲, 핫한 카페, 패션…성수동은 한국의 '모든 것'을 갖췄다",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026062710273232515",
+    "title": "[부고]김용위(놀부 대표이사)씨 모친상",
     "summary": [
-      "[이주의 MT문고]-'성수동의 시대' 매년 새로 쏟아지는 책은 6만 2865종(2023년 기준).",
-      "모든 책을 읽어볼 수 없는 당신에게 머니투데이가 먼저 읽고 추천해 드립니다.",
-      "경제와 세계 정세, 과학과 문학까지 책 속 넓은 세상을 한 발 빠르게 만나보세요."
+      "▲권숙자(향년 84세)씨 별세, 김영권·김천식·김용위(놀부 대표이사·청와대 전 행정관)씨 모친상, 임주연·이정희·김남희씨 시모상=27일 오전 1시, 이대서울병원(발산역) 장례식장 특1호실, 발인 29일 오전 6시30분, 장지 충남 갈산리 선영."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n190db76d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260627024200073",
+    "title": "日, 6월 첫 '쌍태풍'에 곳곳 폭우…1명 산사태로 실종",
+    "summary": [
+      "(도쿄=연합뉴스) 이도연 특파원 = 일본에 제7호 태풍 메칼라와 제8호 태풍 히고스가 잇따라 접근하면서 일본 내 곳곳에 많은 비가 내리고 있다...."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3be16377",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260627014200002",
-    "title": "[다음주 경제] 중동전쟁 생산·소비·투자·물가 남은 영향은…국세수입도 주목",
+    "id": "n3ce644f2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/06/27/MU4DGNZYMYZWGMZSHAYGEZJXGQ/",
+    "title": "\"이정후 트레이드? 팬들이 가만 안 둔다\"…SF도 인정한 절대불가 카드",
     "summary": [
-      "(세종=연합뉴스) 이대희 배영경 한지훈 기자 = 다음주(6월 29일∼7월 3일)에는 최근 한국의 실물 경제와 물가 흐름을 가늠할 수 있는 지표가..."
+      "\"이정후 트레이드? 팬들이 가만 안 둔다\"…SF도 인정한 절대불가 카드."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n90e60662",
+    "id": "n0237d58c",
     "category": "사회",
     "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260627/134192587/1",
-    "title": "장기하♥윤가이, 2년 넘게 교제 중…19세차 가수·배우 커플 탄생",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260627/134192755/1",
+    "title": "식케이, 10세 연하 日 댄서 우와와 열애 인정? 파리 데이트 포착",
     "summary": [
-      "배우 윤가이(25)와 가수 장기하(44)가 열애 중이다.윤가이 소속사 위엔터테인먼트 관계자는 27일 뉴스1에 “두 사람이 교제 중”이라고 전했다.윤가이와 장기하는 지난 2023년 쿠팡플레이 ‘SNL 코리아 리부트 시즌4’를 통해 크루와 호스트로 인연을 맺은 뒤, 음악과 영화 등 공통 관심사를 바탕으로 연인이 됐다.",
-      "교제 기간은 2년 이상이다.장기하는 1982년 2월생으로 만 44세이자 세는 나이로 45세다.",
-      "윤가이는 2000년 9월생으로 만 2."
+      "래퍼 식케이(32·본명 권민식)와 일본인 댄서 우와(22·키타데라 우와)의 파리 데이트가 포착됐다.25일 디지털 매거진 패스트페이퍼 인스타그램에는 ‘식케이-우와 커플 아미리 쇼 왔어요’라는 글과 함께 짧은 영상이 게재됐다.영상에는 프랑스 파리 패션 위크 아미리 2027 S/S 쇼에 등장한 식케이와 우와가 함께하고 취하고 있는 모습이 담겼다.",
+      "이때 식케이는 우와의 어깨에 손을 올려 ‘V’자를 그리고, 우와는 그의 손을 살짝 내려 포즈를 수정한 뒤."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb37b1f28",
+    "id": "n5f46a099",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "37분 전",
+    "url": "https://www.donga.com/news/dobal/article/all/20260626/134187806/1",
+    "title": "[김순덕의 도발]‘부동산 임대사업자’ 한성숙, 총리로 합당한가",
+    "summary": [
+      "돈이 많다는 게 죄가 될 순 없다.",
+      "나쁜 짓하지 않고, 세금 법대로 냈다면 말이다.",
+      "돈을 마귀로 보는 이재명 대통령의 시각은 그래서 참 독특하다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n25220105",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "37분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260626/134180361/2",
+    "title": "“고인 통장에서 장례비 꺼냈는데”…상속포기 무효될 수 있나 [상속리포트]",
+    "summary": [
+      "“고인 통장에서 장례비 꺼냈는데”…상속포기 무효될 수 있나 [상속리포트]“상속포기를 하려고 하는데 장례비 때문에 고인 통장에서 돈을 인출해도 괜찮을까요.”가족의 갑작스러운 사망 이후 상속포기를 고민하는 유족들이 가장 많이 묻는 질문 중 하나다.",
+      "장례를 치르거나 공과금을 정리하기 위해 고인 명의 예금에서 돈을 인출하는 경우가 적지 않지만, 사용 목적과 금액에 따라서는 분쟁이 발생할 수 있어 주의가 필요하다.전문가들은 장례비나 상속재산 관리·청산."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb9a6e37b",
     "category": "경제",
-    "source": "한국경제",
-    "time": "56분 전",
-    "url": "https://www.hankyung.com/article/202606260209i",
-    "title": "\"감옥에서 하룻밤 140만원\"…교도소의 화려한 변신 [도쿄나우]",
+    "source": "동아일보",
+    "time": "37분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260626/134186797/1",
+    "title": "주가 31% 폭락 인도네시아…원인은 ‘전국 무상급식’ 청구서[딥다이브]",
     "summary": [
-      "\"감옥에서 하룻밤 140만원\"…교도소의 화려한 변신 [도쿄나우]."
+      "올해 들어 주가지수가 31%나 급락한, 전 세계 증시 수익률 꼴찌를 기록한 나라가 있습니다.",
+      "통화가치 역시 폭락해서 거의 외환위기 수준이죠.",
+      "‘신흥시장의 총아’에서 골칫거리로 전락한 인도네시아 이야기입니다.한때 돈을 싸들고 인도네시아로 몰려들던 투자자들이 앞다퉈 탈출 중입니다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n83a786ba",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "56분 전",
+    "url": "https://www.chosun.com/international/mideast-africa-latin/2026/06/27/YIQIPM7UQRGURJPCHIVAHSL434/",
+    "title": "베네수엘라 강진 사망자 920명으로 늘어…유엔 “최대 676만명 피해 우려”",
+    "summary": [
+      "베네수엘라 강진 사망자 920명으로 늘어…유엔 “최대 676만명 피해 우려”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na0099158",
+    "id": "nbfe6bfb7",
     "category": "경제",
     "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026062711987",
-    "title": "글로벌 금융위기 예측한 억만장자 \"비트코인 소리없이 사라질 것\"",
+    "url": "https://www.hankyung.com/article/2026062712607",
+    "title": "호르무즈 한국 선박 2척 추가 통과…내측 잔류 3척",
     "summary": [
-      "글로벌 금융위기 예측한 억만장자 \"비트코인 소리없이 사라질 것\"."
+      "호르무즈 한국 선박 2척 추가 통과…내측 잔류 3척."
     ],
     "chips": [
       "#뉴스"
@@ -642,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "채용",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "부동산",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
