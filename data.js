@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-28 18:21:45
+// 마지막 업데이트: 2026-06-28 19:29:26
 window.NEWS_DB = [
   {
     "id": "n12b85d1f",
     "category": "IT",
     "source": "ER 이코노믹리뷰",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrZjBVakExbEVveFhHOU03SFRsb08tTkRNdWg1WkwybGJ5NUN0NjVzZGtMZVl4WEswSmN0d2RPQlprQTNOU1hNcGhwYzBKR05JTkpTTDZtblZJQ1VadXdES24xRVdsN0FLbUE3Qw?oc=5",
     "title": "딥엑스·리벨리온, 엔비디아 맞서 AI 반도체 '생태계 전쟁' 나선다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n5868a989",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
@@ -240,23 +240,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd0c82b8d",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -317,10 +300,132 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "내 손안에 서울",
+    "time": "240일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n8b1c4947",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260629/134198701/1",
+    "title": "박항서 단장 “성원에 보답하지 못해 죄송…뼈를 깎는 성찰로 미래 준비”",
+    "summary": [
+      "2026 국제축구연맹(FIFA) 북중미 월드컵 한국 축구대표팀 단장을 맡은 박항서 대한축구협회 부회장이 홍명보호의 32강 탈락에 고개를 숙였다.박항서 단장은 28일(현지시간) 오전 멕시코 과달라하라 인근 사포판의 치바스 바예 베르데에서 취재진과 만나 “북중미 월드컵에서 국민들 기대에 못 미치는 결과를 낸 것에 대해 단장으로서 축구협회를 대표, 깊은 사과의 말씀을 드린다”고 사죄했다.홍명보 감독이 이끈 축구대표팀은 이번 대회에서 체코와 조별리그."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n24f96250",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260629/134198698/1",
+    "title": "프랑스서 스카이다이빙 항공기 추락…11명 전원 사망",
+    "summary": [
+      "28일(현지 시간) 프랑스 동부에서 스카이다이버를 태운 민간 항공기가 추락해 탑승자 11명 전원이 사망했다고 현지 당국이 밝혔다.AFP 통신 등에 따르면 항공기는 이날 오전 11시(한국 시간 오후 6시)께 프랑스 동부 뫼르트에모젤 낭시 인근 톰블렌에서 추락했다.사고 항공기는 스카이다이빙 학원 소유로, 낭시 비행장을 이륙한 직후 추락했다.",
+      "이브 세귀 뫼르트에모젤 지사는 언론 인터뷰에서 “비행기가 거의 수직으로 추락해 주택가 바로 옆 비행장 경계."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbc7d65d0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/football/2026/06/29/MY2WMOLDMQ3TQMJUGY4TAZJSGY/",
+    "title": "대한민국이 불운하다고! 이 팀에 비하면 택도 없다. 英 BBC \"이란, 역대 월드컵팀 중 가장 불운한 팀\"",
+    "summary": [
+      "[스포츠조선 류동혁 기자] 각조 3위의 순위는 10위.",
+      "대한민국은 결국 8위까지 진출이 가능한 한국의 32강 진출은 좌절됐다.",
+      "그리고 이 팀에 비하면 불운한 것도 아니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nadb75a19",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629002600071",
+    "title": "바이든, '대선토론 폭망' 정확히 2년 후 트럼프에 \"한심한 놈\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 조 바이든 전 미국 대통령이 현직 도널드 트럼프 대통령을 향해 \"한심한 놈\"(What a loser)이라고..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6f6fc683",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260628_0003686788",
+    "title": "대구·경북 구름 많고 찜통더위…아침 14도·한낮 33도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 29일 대구·경북은 가끔 구름 많은 가운데 낮 기온이 높아 더울 것으로 예상된다.",
+      "대구지방기상청은 이날 \"당분간 내륙을 중심으로 낮 기온이 30도 이상 오르겠고, 일부 내륙에서는 최고 체감온도도 31도 안팎으로 올라 덥겠다\"고 예보했다.",
+      "아침 최저기온은 14~20도(평년 16~21도), 낮 최고기온은 24~33도(평년 25~30도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na187817a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003686813",
+    "title": "WHO \"유럽 폭염 사망 1300명\"…프랑스에서만 1000명",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 유럽을 강타한 역대급 폭염으로 1300명 이상이 숨졌다고 세계보건기구(WHO)가 28일(현지 시간) 밝혔다.",
+      "프랑스에서만 1000명의 초과 사망이 발생한 것으로 추산됐다.",
+      "AFP 통신에 따르면 테워드로스 아드하놈 거브러여수스 WHO 사무총장은 이날 엑스(X)를 통해 \"지난 21일 이후 유럽의 기록적인 폭염과 관련한 초과 사망자가 1300명 이상을 기록했다\"고 밝혔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n7051838d",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629002400071",
+    "title": "美 '트럼프 관세·무역 키맨' 그리어 급부상…러트닉은 '조용'",
+    "summary": [
+      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령의 관세 및 무역 정책 추진과 협상 과정에서 제이미슨 그리어 미 무역대표부(UST..."
+    ],
+    "chips": [
+      "#정책",
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
     "id": "n041c184c",
     "category": "사회",
     "source": "아시아경제",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026062903112874956",
     "title": "美 유엔대사 \"호르무즈 불법통제시 이란의 관련 인프라 계속 무력화\"",
     "summary": [
@@ -335,7 +440,7 @@ window.NEWS_DB = [
     "id": "nfe66c94d",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/football/2026/06/29/HE2TANRTGBRDCNRRHA4TQZRQHA/",
     "title": "[공식]대표팀 해산→홍명보 감독 사임→박항서 단장 대국민 사과…대한민국 2026년 북중미월드컵 '막' 내렸다",
     "summary": [
@@ -348,52 +453,39 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a6798c4",
+    "id": "n7dfc7353",
     "category": "사회",
     "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/06/29/FHMNQHMBFRFFLIIB2LEYKPKT5A/",
-    "title": "[31화] 20만 군마의 맹주, 향을 사르고 절한 뒤 피를 들이키니…",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/29/QIAUH3LMCJE5ZKP4JXPA4W25QY/",
+    "title": "“한국, 컨택리스 결제 10% 불과… 외국인 관광객 소비 편의 떨어뜨려\"",
     "summary": [
-      "[31화] 20만 군마의 맹주, 향을 사르고 절한 뒤 피를 들이키니…."
+      "“한국, 컨택리스 결제 10% 불과… 외국인 관광객 소비 편의 떨어뜨려\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne6a89cd1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/culture-life/relion-academia/2026/06/29/VX4HUAN4HNGSRHQWCPYH6TQXJY/",
-    "title": "보이저 1호보다 외로운가?… 당신의 ‘소명’을 찾으라고 주역은 말한다",
-    "summary": [
-      "보이저 1호보다 외로운가?… 당신의 ‘소명’을 찾으라고 주역은 말한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n95a29cbf",
+    "id": "n6928da0c",
     "category": "IT",
     "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/international/japan/2026/06/29/UA7WW5S3NVFSDP5V5SHLSK7KHI/",
-    "title": "AI는 모른다… ‘토끼’ 기르는 일본 초등생의 경쟁력을",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/06/29/TULGBTQ7PJB5ZNCRTXFHFUHI44/",
+    "title": "“호남 가라, 삼전닉스”... 여의도 정치가 흔든 반도체 지형도",
     "summary": [
-      "AI는 모른다… ‘토끼’ 기르는 일본 초등생의 경쟁력을."
+      "“호남 가라, 삼전닉스”... 여의도 정치가 흔든 반도체 지형도."
     ],
     "chips": [
-      "#AI"
+      "#반도체",
+      "#정치"
     ]
   },
   {
     "id": "n2ddaba0e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260629_0003686809",
     "title": "이란 최고지도자 \"미·이스라앨 전쟁범죄, 法심판대 세워야\"",
     "summary": [
@@ -408,7 +500,7 @@ window.NEWS_DB = [
     "id": "n903fdf50",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "56분 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260629002000108",
     "title": "카타르 선박 피격에 1명 사망…\"군사작전 관련 파편 때문\"",
     "summary": [
@@ -422,7 +514,7 @@ window.NEWS_DB = [
     "id": "ne58c126d",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260629_0003686811",
     "title": "'두 번째 불명예 퇴진' 홍명보 \"모든 기준은 한국 축구였다\"[인사이드 월드컵]",
     "summary": [
@@ -435,71 +527,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4ca0c350",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003686810",
-    "title": "박항서 단장 \"축구협회, 뼈를 깎는 반성으로 미래 준비해야\"[월드컵24시]",
-    "summary": [
-      "[사포판(멕시코)=뉴시스] 하근수 기자 = 박항서 한국 축구대표팀 단장이 2026 북중미 월드컵 조별리그 탈락 이후 축구 팬들에게 고개를 숙였다.",
-      "박항서 단장은 29일(한국 시간) 멕시코 과달라하라 인근 사포판의 치바스 바예 베르데에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 결산 기자회견에 앞서 입장문을 발표했다.",
-      "굳은 표정의 박 단장은 \"국민의 기대에 못 미치는 결과를 내게 된 것에 대해 단장으로서 대한축구협회를 대표해 깊은 사과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n60b025ba",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629001900072",
-    "title": "맘다니 뉴욕시장 \"'진보돌풍' 경선결과, 새정치 원한다는 증거\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 조란 맘다니 뉴욕시장은 28일(현지시간) 11월 중간선거를 앞두고 최근 치러진 뉴욕주 민주당 예비선거(프라이..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nfd551ca1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260628_0003686580",
-    "title": "\"사진 그만 찍어\" vs \"중국인이라고 무시하나\"… 파리 명소 포토존에서 몸싸움",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 프랑스 파리의 대표적 관광 명소 내부에서 사진 촬영 순서를 두고 중국인 관광객과 서양인 관광객 간 충돌이 벌어졌다.",
-      "지난 25일(현지 시간) 데일리메일에 따르면, 파리 오페라 가르니에의 대계단 포토존에서 촬영 중이던 중국인 관광객 무리와 이를 제지하려던 서양인 관광객 사이에서 분쟁이 발생했다.",
-      "오페라 하우스는 웅장한 계단에서 인생 사진을 남기려는 이들로 북적인다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1df41d7e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628057851108",
-    "title": "푸틴 \"어려운 시기 겪는 러시아, 강하지 않으면 존재 못해\"(종합)",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 블라디미르 푸틴 러시아 대통령은 28일(현지시간) 우크라이나 전쟁 등 대외 환경과 관련해 \"우리는 어려운..."
-    ],
-    "chips": [
-      "#정치",
-      "#환경"
-    ]
-  },
-  {
     "id": "n5ea2cb66",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062926007",
     "title": "홍명보, 자진 사퇴…\"내 모든 판단 기준은 언제나 한국 축구\" [종합]",
     "summary": [
@@ -513,7 +544,7 @@ window.NEWS_DB = [
     "id": "n82b4dd7b",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260629/134198515/1",
     "title": "홍명보 대표팀 감독 자진사퇴 “국민께 죄송…모든 책임은 나에게”",
     "summary": [
@@ -528,7 +559,7 @@ window.NEWS_DB = [
     "id": "nf2d9d0e6",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026062925997",
     "title": "[속보] 홍명보, 대표팀 감독 사퇴…월드컵 32강 탈락 책임",
     "summary": [
@@ -542,7 +573,7 @@ window.NEWS_DB = [
     "id": "ndd96a249",
     "category": "경제",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://view.asiae.co.kr/article/2026062900562259696",
     "title": "세계은행, 방글라데시에 1조7000억 긴급 자금지원",
     "summary": [
@@ -558,7 +589,7 @@ window.NEWS_DB = [
     "id": "n0585e73b",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://view.asiae.co.kr/article/2026062900404852918",
     "title": "[속보]홍명보 축구 대표팀 감독 사퇴",
     "summary": [
@@ -573,7 +604,7 @@ window.NEWS_DB = [
     "id": "nd108e59f",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260629/134198485/1",
     "title": "[속보]홍명보 대표팀 감독 자진사퇴…월드컵 32강 탈락 책임",
     "summary": [
@@ -584,43 +615,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd162233c",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260628/134182423/3",
-    "title": "[Tech&]폭염과 장마, 길어지는 여름철… LG 휘센, 에어컨의 새 기준 제시",
-    "summary": [
-      "LG전자가 2026년형 LG 휘센 오브제 컬렉션 에어컨을 출시하며 ‘쾌적한 습도 관리’를 차세대 냉방의 새로운 기준으로 제시했다.",
-      "신제품의 핵심은 적정 온도를 유지하면서 동시에 뛰어난 제습 성능을 발휘하는 신개념 냉방 기능 ‘AI 콜드프리(AI Cold Free)’다.",
-      "에어컨은 제습이 잘 안된다는 기존 인식을 정면으로 반박하는 기술이라는 점에서 주목된다.LG전자 측은 “과거에는 얼마나 빠르게 시원해지는지가 중요했다면 최근에는 쾌적한 실내 환경을."
-    ],
-    "chips": [
-      "#AI",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n7be24db1",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260628/134197070/2",
-    "title": "“칩플레이션 못 버텨”… 애플, 中 ‘싼 메모리’ 구매 나서",
-    "summary": [
-      "인공지능(AI)발 ‘칩플레이션(반도체+인플레이션)’을 버티지 못하고 제품 가격을 대거 인상한 애플이 이번엔 미국 정부의 블랙리스트에 오른 중국산 메모리 구매를 추진하고 있다는 보도가 나왔다.",
-      "전 세계 메모리 공급 부족이 중국 메모리 업계가 몸집을 키우는 계기가 될 수 있다는 우려가 커지고 있다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
     "id": "n023a9560",
     "category": "경제",
     "source": "아시아경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://view.asiae.co.kr/article/2026062900023040758",
     "title": "美·이란, 호르무즈서 또 충돌…트럼프 \"이란 존재하지 않을 것\"",
     "summary": [
@@ -639,18 +637,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "부동산",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "정치",
     "mentions": "1420건",
     "trend": "+115%"
   }
