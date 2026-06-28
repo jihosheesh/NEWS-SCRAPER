@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-28 13:31:06
+// 마지막 업데이트: 2026-06-28 14:32:51
 window.NEWS_DB = [
   {
     "id": "n12b85d1f",
     "category": "IT",
     "source": "ER 이코노믹리뷰",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrZjBVakExbEVveFhHOU03SFRsb08tTkRNdWg1WkwybGJ5NUN0NjVzZGtMZVl4WEswSmN0d2RPQlprQTNOU1hNcGhwYzBKR05JTkpTTDZtblZJQ1VadXdES24xRVdsN0FLbUE3Qw?oc=5",
     "title": "딥엑스·리벨리온, 엔비디아 맞서 AI 반도체 '생태계 전쟁' 나선다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n5868a989",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
@@ -287,6 +287,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5a1617c5",
+    "category": "부동산",
+    "source": "헤럴드경제",
+    "time": "47일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "summary": [
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n01f4c085",
     "category": "스포츠",
     "source": "뉴시스",
@@ -301,25 +316,136 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "136일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "id": "n19428a8e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260628/134198154/2",
+    "title": "[사설]野 상임위 일방 배정해 팩스 통보한 국회의장… 與 총대 메나",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "조정식 국회의장이 26일 국민의힘 의원들을 임의로 배정한 국회 상임위원회 구성안을 국민의힘에 팩스로 통보했다.",
+      "그러면서 수정 의견이 있으면 29일까지 제출하라고 했다.",
+      "법제사법위원장 자리를 두고 여야 원 구성 협상이 거듭 결렬되자 국회의장이 직권으로 원 구성을 압박한 것이다."
     ],
     "chips": [
-      "#부동산",
-      "#재건축"
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7cce7618",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260628/134198158/2",
+    "title": "[사설]2026 월드컵 참사… ‘카르텔과 독단’에 무너진 한국 축구",
+    "summary": [
+      "한국 축구 국가대표팀이 2026 북중미 월드컵 조별리그 32강 문턱에서 탈락했다.",
+      "손흥민 이강인 김민재 같은 ‘월드 클래스’ 선수들이 주축인 역대 최강 전력이란 평가 속에 이런 참담한 결과가 벌어졌다.",
+      "일차적인 책임은 홍명보 감독에게 있다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n556d6eaf",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260628/134198156/2",
+    "title": "[사설]촉법소년 연령 ‘중대 범죄’만 낮춰… 기준 명확해야 논란 없다",
+    "summary": [
+      "정부가 촉법소년(형사미성년자) 연령 기준을 ‘중대한 범죄’에 한해 만 13세 미만으로 1년 낮추기로 했다.",
+      "성평등가족부와 법무부는 30일 국무회의에 이 같은 내용을 담은 권고안을 보고한다.",
+      "정부안대로 입법이 이뤄진다면 1953년 형법 제정 당시 정해진 촉법소년 연령 기준이 73년 만에 바뀌게 된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n652f4416",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260628/134197970/2",
+    "title": "[천광암 칼럼]호남 반도체 클러스터 성공할까",
+    "summary": [
+      "반도체 등 3개 분야에 걸쳐 대규모 투자계획을 발표하는 ‘대국민보고회’가 오늘 열린다.",
+      "이재명 대통령이 주재하는 보고회에는 이재용 삼성 회장과 최태원 SK 회장도 참석한다.",
+      "투자 규모가 수백조∼1000조 원에 이를 것이라는 관측이 나온다."
+    ],
+    "chips": [
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "ncc656b10",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/06/28/MQZGMNLBGFSGIZJYGQ2WGYRVG4/",
+    "title": "골프존홀딩스 1000억원 규모 공개매수… 자진 상폐 목적",
+    "summary": [
+      "골프존홀딩스 최대주주 측인 에스제이투자홀딩스가 자진 상장폐지를 목적으로 공개 매수를 추진한다.",
+      "28일 투자은행(IB) 업계에 따르면, 에스제이투자홀딩스는 오는 29일부터 8월 5일까지 해당 기간 동안 골프존홀딩스 주식 1548만5020주를 주당 6700원에 공개 매수할 예정이다.",
+      "지난 26일 종가인 4255원보다 약 57% 높은 가격이며, 공개 매수 규모는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndff9f01f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260628057100098",
+    "title": "교황청 \"EU, 전쟁에 '이중잣대'…국제법 선별 적용\"",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)이 국제법을 선별 적용하면서 전쟁에 이중 잣대를 들이대고 있다는 비판이 교황청에서 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n91657ad5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260628_0003686790",
+    "title": "鄭 \"내부통합\" vs 金·宋 \"외연확장\"…당권 주자 노선갈등 가열(종합2보)",
+    "summary": [
+      "[서울·경기광주=뉴시스] 김난영 신정훈 한재혁 기자 = 더불어민주당 8·17 전당대회 주요 당권 주자들이 28일 당 노선을 두고 이견을 보였다.",
+      "정청래 전 대표는 진영 내부 통합을 제시한 반면, 김민석 총리와 송영길 의원은 외연 확장에 더 무게를 실었다.",
+      "정 전 대표는 이날 소셜미디어(SNS)에 글을 올려 \"이재명 정부의 성공과 정권 재창출을 위해서는 손잡을 수 있는 모든 범민주진보 세력이 연대해야 한다\"며 \"정권 재창출을 위해 윤 어게인 내란."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n646967c2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260628_0003686785",
+    "title": "이란 \"이라크 성지서도 前최고지도자 장례식 조율 중\"",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 아바스 아라그치 이란 외무장관은 28일(현지 시간) 이란의 전 최고지도자 알리 하메네이의 장례식을 이라크에서 치르는 방안을 협의 중이라고 아나돌루 통신 등이 보도했다.",
+      "이라크를 방문 중인 아라그치 장관은 이날 바그다드에서 푸아드 후세인 이라크 외무장관과 회담한 뒤 공동 기자회견을 통해 \"하메네이 전 최고지도자의 장례식을 이라크 내 시아파 성지에서 거행하기 위해 특별 절차를 조율 중\"이라고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "nc3078285",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "1분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260628_0003686774",
     "title": "투어스, 불가능한 거리를 좁혀보려…청춘의 '사이' 증명",
     "summary": [
@@ -334,7 +460,7 @@ window.NEWS_DB = [
     "id": "nbd92425c",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260628_0003686789",
     "title": "백남준 유럽 첫 개인전 기획한 울프 헤르초겐라트 별세",
     "summary": [
@@ -349,7 +475,7 @@ window.NEWS_DB = [
     "id": "ncc5b4edf",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260628044051081",
     "title": "WHO \"유럽서 폭염 관련 초과 사망자 1천300명 이상\"(종합)",
     "summary": [
@@ -360,117 +486,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6e73140c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/28/GI4DAMTBMYZGIOLEG4YTSNLCGM/",
-    "title": "김도영 따라 붙었더니, 오스틴 또 도망가네 \"감 좋다. 두산 2경기 못 친 이유는..\" [잠실 현장]",
-    "summary": [
-      "[잠실=스포츠조선 김용 기자] \"감 좋다.\" KIA 타이거즈 김도영이 또 다시 LG 트윈스 오스틴 딘을 따라붙었다.",
-      "김도영은 28일 잠실구장에서 열린 두산 베어스와의 주말 3연전, 수도권 9연전 마지막 경기에서 2-0으로 앞서던 5회 도망가는 솔로포, 6회 2루타까지 추가하는 등 맹활약하며 팀의 12대1 대승을 이끌었다.",
-      "특히 홈런이 임팩트가 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1ccdd932",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260628/134198212/1",
-    "title": "안소희, 34번째 생일 인증샷…케이크 앞에서 밝은 미소",
-    "summary": [
-      "걸그룹 원더걸스 출신 배우 안소희가 자신의 34번째 생일 케이크를 받고 환한 미소를 지었다.안소희는 28일 자신의 사회관계망서비스(SNS) 계정에 “HBD 0627”이라는 글과 함께 사진을 올렸다.공개된 사진 속에서 안소희는 생일 케이크에 불을 붙인 채 환한 미소를 짓고 있다.",
-      "여전히 소녀 같은 미소가 눈길을 끄는 모습이다.안소희는 1992년 6월 27일생으로 지난 27일 만 34번째 생일을 맞았다.한편, 안소희는 2007년 그룹 원더걸스로 데."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n62e836f2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260628/134198209/1",
-    "title": "‘미우새’ 백지영, 딸 향한 애틋한 모성애 “키워보니 더 좋다”",
-    "summary": [
-      "백지영이 딸과 함께하는 일상에 남다른 애정을 드러냈다.28일 방송된 SBS 예능 프로그램 ‘미운 우리 새끼’에서는 발라드 가수 린과 백지영의 일상이 공개됐다.이날 두 사람은 동대문 신발 도매상가를 찾아 최근 유행하는 젤리슈즈와 다양한 파츠를 구매한 뒤, 상가 벤치에 앉아 직접 신발을 꾸미며 이야기를 나눴다.대화 도중 린이 “언니 요즘 뭐 하고 지내?”라고 묻자, 백지영은 “계속 딸 데리러 다닌다”며 “오늘도 딸 학교 데려다주고 바로 왔는데, 그."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n5e0aac70",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260628/134198206/1",
-    "title": "40년 동안 감자만 먹은 英 여성…“편식이 아니라 병이었다”",
-    "summary": [
-      "40년 동안 감자만 먹으면서 지내왔던 영국 여성의 사연이 전해졌다.지난 24일(현지시간) 영국 더선은 두 살 때부터 감자만 먹으면서 자라온 여성 레이첼 홀(42)이 최면 치료를 받은 후 마침내 다른 과일과 채소를 섭취했다고 보도했다.레이첼은 감자튀김, 구운 감자, 으깬 감자 등 다양한 형태의 감자 요리를 먹었지만, 채소나 과일을 먹으려고 하면 헛구역질을 했다.",
-      "그는 “감자를 특별히 좋아하지는 않았고, 오히려 지루하게 느껴졌다”면서도 “다른 음식."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n01cf3049",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "28분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260628/134198203/1",
-    "title": "서울 도봉구 창동 아파트서 화재…1시간 40분만에 완진",
-    "summary": [
-      "서울 도봉구 창동 소재의 아파트에서 난 화재가 1시간 40분만에 완진됐다.28일 소방 당국에 따르면 이날 오후 7시 41분 서울 도봉구 창동 소재의 아파트 8층에서 화재가 났다.소방 당국은 인력 124명, 차량 35대를 동원해 화재 발생 40여분 만인 오후 8시 20분 큰 불을 잡았다.이후 소방은 오후 9시 18분 잔불을 정리, 불을 완전히 껐다.다행히도 다치거나 숨진 이는 없었다.",
-      "한때 아파트에서 검은 연기가 피어나 주민들이 대피했다.소방당국."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "ncf927931",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260628_0003686784",
-    "title": "'첫 외국 태생 혼혈' 옌스, 32강 좌절에도 \"더 강해져 다시 싸울 것\"[월드컵24시]",
-    "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 홍명보 감독이 이끄는 한국 남자 축구 대표팀이 2026 국제축구연맹(FIFA) 북중미 월드컵 32강 진출에 실패한 가운데, '첫 외국 태생 혼혈 태극전사' 옌스 카스트로프(23·묀헨글라트바흐)가 첫 꿈의 무대를 누빈 소감을 남겼다.",
-      "북중미 월드컵 조별리그 일정은 28일(한국 시간) 마무리됐다.",
-      "지난 25일 남아프리카공화국과의 조별리그 A조 3차전에서 0-1 패배를 당해, 조 3위 상위 8개 팀에 주어지는 토너먼트."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4d05bbad",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260628_0003686786",
-    "title": "반려동물도 즐긴 화랑미술제 in 수원…\"신규 컬렉터 유입 확인\"",
-    "summary": [
-      "[서울=뉴시스] 박현주 미술전문 기자 = 반려견과 함께 그림을 감상하고, 아이들은 체험 프로그램을 즐겼다.",
-      "전국 103개 화랑이 참여한 '2026 화랑미술제 in 수원'이 가족과 반려동물까지 아우르는 열린 아트페어로 자리매김하며 28일 나흘간의 일정을 마무리했다.",
-      "신규 컬렉터 유입과 이머징 작가 판매도 이어지며 경기권 대표 아트페어로서의 가능성을 다시 확인했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n42dc58b0",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "35분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260628028752504",
     "title": "韓日국방 \"교류협력 강화…특수비행팀 교류·해양구조훈련 지속\"(종합2보)",
     "summary": [
@@ -484,7 +503,7 @@ window.NEWS_DB = [
     "id": "n548fb1ce",
     "category": "경제",
     "source": "한국경제",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026062825637",
     "title": "최휘영 장관 \"무능·부실 책임 묻겠다\"…축협 대대적 쇄신 예고 [종합]",
     "summary": [
@@ -495,10 +514,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n452b4121",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/28/HFRTGMZXGEYTAM3DG42WKYLBGI/",
+    "title": "\"토 나올 것 같습니다\"…'3-2→7-8→11-9' 엘롯라시코 대혈투 위닝, \"최준용 9회 등판 자처, 승리 지킬 수 있었다\" [오!쎈 부산]",
+    "summary": [
+      "\"토 나올 것 같습니다\"…'3-2→7-8→11-9' 엘롯라시코 대혈투 위닝, \"최준용 9회 등판 자처, 승리 지킬 수 있었다\" [오!쎈 부산]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n9e69d7c9",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062825587",
     "title": "소득·재산 늘어 기초연금 탈락한 노인 증가…5년간 30만 상회",
     "summary": [
@@ -512,7 +545,7 @@ window.NEWS_DB = [
     "id": "nee2b8bd8",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260628055700108",
     "title": "사우디 아람코 헬기 추락해 탑승자 14명 전원 사망",
     "summary": [
@@ -523,24 +556,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n93c20159",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628039152001",
-    "title": "재건축론發 노선대결 가속…鄭 \"범진보 통합\"·金 \"판 확장해야\"(종합2보)",
-    "summary": [
-      "(경기 광주·서울=연합뉴스) 서혜림 박재하 안정훈 기자 = 범여권 논객 유시민 작가의 이른바 '재건축론'이 더불어민주당 내 파장을 일으킨 가운데..."
-    ],
-    "chips": [
-      "#재건축"
-    ]
-  },
-  {
     "id": "nb213e16a",
     "category": "사회",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062825537",
     "title": "7월부터 도수치료 4만원 제한…의료계 \"장외 투쟁 불사\"",
     "summary": [
@@ -554,7 +573,7 @@ window.NEWS_DB = [
     "id": "n506e9cde",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062825427",
     "title": "고유가 지원금 6조800억 지급 완료…다음달 3일 신청 최종 마감",
     "summary": [
@@ -568,7 +587,7 @@ window.NEWS_DB = [
     "id": "n700a1476",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152897",
     "title": "중고시장 커졌는데 외면받는 개인 간 분쟁...KISA \"건전한 개인 간 거래 체계 만들어요\"",
     "summary": [
@@ -584,7 +603,7 @@ window.NEWS_DB = [
     "id": "nb958190f",
     "category": "사회",
     "source": "조선일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.chosun.com/opinion/manmulsang/2026/06/28/6MB35XKNKZHEBOLDCDPWDYJTEM/",
     "title": "[만물상] ‘삼전 건설’",
     "summary": [
@@ -598,27 +617,13 @@ window.NEWS_DB = [
     "id": "n7374ab53",
     "category": "스포츠",
     "source": "ZDNet Korea",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260628114844",
     "title": "월마트 상속자, NBA 시카고 불스 지분 인수",
     "summary": [
       "[지디넷코리아]월마트 창업자 가문 상속자인 루카스 월턴이 미국프로농구(NBA) 시카고 불스 지분을 인수한다.27일(현지시간) 블룸버그통신 보도에 따르면 루카스 월턴과 그의 아내 서맨사 월턴은 시카고 불스의 소수 지분을 매입하기로 했다.",
       "거래 조건은 공개되지 않았다.외신에 따르면 이번 거래에는 시카고 불스의 홈구장인 유나이티드센터 일부 지분도 포함된다.",
       "월턴 부부는 기존 유한책임 파트너들이 보유한 지분을 사들이는 방식으로 투자에 참여한다.다만 구."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf077302e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2시간 전",
-    "url": "https://www.chosun.com/economy/science/2026/06/28/P6F3WDY4RZCPDCCXZWUVGI3ESM/",
-    "title": "삼성바이오 노조, 삼성 초기업노조 탈퇴…독자 교섭 나선다",
-    "summary": [
-      "삼성바이오 노조, 삼성 초기업노조 탈퇴…독자 교섭 나선다."
     ],
     "chips": [
       "#뉴스"
@@ -636,13 +641,13 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "부동산",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "채용",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "부동산",
     "mentions": "1420건",
     "trend": "+115%"
   }
