@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-28 21:22:09
+// 마지막 업데이트: 2026-06-28 22:20:10
 window.NEWS_DB = [
   {
     "id": "n12b85d1f",
     "category": "IT",
     "source": "ER 이코노믹리뷰",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrZjBVakExbEVveFhHOU03SFRsb08tTkRNdWg1WkwybGJ5NUN0NjVzZGtMZVl4WEswSmN0d2RPQlprQTNOU1hNcGhwYzBKR05JTkpTTDZtblZJQ1VadXdES24xRVdsN0FLbUE3Qw?oc=5",
     "title": "딥엑스·리벨리온, 엔비디아 맞서 AI 반도체 '생태계 전쟁' 나선다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n5868a989",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
@@ -30,20 +30,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n149e2bc9",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2TjduQmJ4b2ZLVS1Td1ZxXzRYbEw3UlRrcm5PT2pYZTNYYWlFd25GMm1nLU5uWDB5R1FjWHBqNVItREZJNExScm44NG9RWWZyMDUxT2JyaFEwQ1XSAWBBVV95cUxPbHprUTgtTmN1QlQxbGVDNXE5eHlmcnhhT0dJRnVwdkw2dWNCcHBBcDNrMXpXNHBCX2lkX3VNNFdJT09JRHpmU0Y4TUV4dUxPbXpVWjVLcUVzY3RGNFBEaVE?oc=5",
-    "title": "이원택, 젠슨황에 새만금 투자 제안 \"삼겹살로 먹으며 대화하자\"",
-    "summary": [
-      "이원택, 젠슨황에 새만금 투자 제안 \"삼겹살로 먹으며 대화하자\" 연합뉴스."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   },
   {
@@ -138,6 +124,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n93563301",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zR2FqRU9RY29vUzEwMU5KVDl5cWNScGYweVFCQjhmZGt2NFQ2b2FqVTd3VDdkRWZxVlVlMDROaDZkT2tQeEpTSThxVkw4WDdTWDhiNmFBWDVMeEnSAWBBVV95cUxOT0h2M0Y1eW02QjdaWXREWUF2R0N1VGdJc0c4SzFqV2V4NGxEaXQ3TnhDeVE5WVlBY21NbnhwR1BrdmdLY0JOTUdZeHdPekZxaHd2em9NdVZqb2ZqZHRZM0Q?oc=5",
+    "title": "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\"",
+    "summary": [
+      "\"중국 암시장서 엔비디아 제품 가격, 배 이상 폭등\" 연합뉴스."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "nde229885",
     "category": "IT",
     "source": "한국보험신문",
@@ -155,7 +155,7 @@ window.NEWS_DB = [
     "id": "n9cecfc4c",
     "category": "부동산",
     "source": "한국경제",
-    "time": "6일 전",
+    "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZ9IBVEFVX3lxTE51WFJELUd0OUVyTmJ4RXJGTTZTSS1TQy0wWktPaE9uUjRCMGlpSnY4Q2tVVk8zT3dUUHRnTWJPRGoxZm5rS25Dc0xHNHk2WHF5S09CUw?oc=5",
     "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
     "summary": [
@@ -240,6 +240,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "18일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "summary": [
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nd0c82b8d",
     "category": "사회",
     "source": "대학IN",
@@ -286,22 +303,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "130일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -317,320 +318,316 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5bc736ab",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003686830",
-    "title": "[속보] 이스라엘군 레바논 남부 터널 폭파.. 전역에 폭음 들려",
-    "summary": [
-      "[서울=뉴시스] 차미례 기자 = 이스라엘군이 레바논 남부 마즈달 준 마을에 있는 한 지하 터널을 28일(현지시간) 폭파했다.",
-      "이로 인해 부근의 광범위한 지역에서 폭음이 들렸다고 레바논 매체들과 목격자들이 전했다.",
-      "◎공감언론 뉴시스 cmr@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d3a7fb4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003686828",
-    "title": "부산, 대체로 맑은 날씨…낮 최고기온 27도",
-    "summary": [
-      "[부산=뉴시스] 하경민 기자 = 29일 부산지역은 대체로 맑은 날씨가 이어질 것으로 부산기상청은 예보했다.",
-      "이날 낮 최고기온은 27도, 30일 아침 최저기온은 19도로 예상됐다.",
-      "30일부터 달의 인력이 강해 바닷물의 높이가 높은 기간으로, 해안가 저지대에서는 안전사고에 주의해야 한다고 부산기상청은 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na0121c78",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003686827",
-    "title": "충북 낮 최고 33도…오후 5~40㎜ 소나기",
-    "summary": [
-      "[청주=뉴시스] 서주영 기자 = 월요일인 29일 충북은 구름 많겠고, 오후부터 저녁 사이 소나기가 내리는 곳이 있겠다.",
-      "청주기상지청에 따르면 이날 예상 강수량은 5~40㎜다.",
-      "일부 지역에는 우박이 떨어지는 곳도 있겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n67110e9b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/29/SN4FYMPR4RDQTFURJ5V3BHNBDU/",
-    "title": "‘국내총생산’의 약자는?",
-    "summary": [
-      "‘국내총생산’의 약자는?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ab1de9b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026062814451142555",
-    "title": "[Why&Next]롯데카드 영업제재 결정 7월로…제재 수위 따라 M&A도 영향",
-    "summary": [
-      "롯데카드에 대한 금융당국의 영업제재 결정이 2주 이상 미뤄지면서 제재 수위에 업계의 관심이 커지고 있다.",
-      "제재 결과는 롯데카드의 펀더멘털뿐 아니라 향후 카드업계 판도를 좌우할 인수합병(M&A) 전략에도 영향을 미칠 전망이다.",
-      "7월 중순 이후 결정…영업정지 수위 주목29일 금융권에 따르면 금융위원회는 지난 25일 안건소위에서 롯데카드 해킹 사고 제재안을 추후 재논의하기로 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n14c241b8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629005300056",
-    "title": "제주 맑다가 밤부터 흐려져…낮 최고 25∼26도",
-    "summary": [
-      "(제주=연합뉴스) 전지혜 기자 = 월요일인 29일 제주는 대체로 맑다가 밤부터 차차 흐려지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41293bac",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/29/MY2TCMRYMQZTGNBSMM4DSZLEGI/",
-    "title": "안소희, 생일 케이크 앞 충격 근황…올해 34살 안 믿기는 소름 돋는 '학생 비주얼'",
-    "summary": [
-      "[OSEN=박근희 기자] 그룹 원더걸스 출신 배우 안소희가 나이를 가늠할 수 없는 역대급 동안 미모로 근황을 전했다.28일 안소희는 개인 채널을 통해 ‘HBD 0627’라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속 안소희는 본인의 생일 케이크를 앞에 둔 채 행복한 미소를 지으며 다양한 포즈를 취하고 있다.",
-      "무엇보다 눈길을 사로잡은 것은 그녀의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n73927e6d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/29/GEZDCOJZGM4WGMRUHE4TENBYMU/",
-    "title": "이미 결혼했는데? 김나영♥마이큐, 7개월만에 '혼인신고'..법적부부됐다 [핫피플]",
-    "summary": [
-      "리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.[OSEN=김수형 기자] 방송인 김나영과 가수 겸 화가 마이큐가 결혼식을 올린 지 약 7개월 만에 혼인신고를 마치며 법적 부부가 됐다.28일 유튜브 채널 '김나영의 노필터TV'에는 '혼인신고하던 날'이라는 제목의 영상이 공개됐다.이날 두 사람은 서울 용산구청을 찾아 혼인신고서를 작성했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbcb41f4d",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026062813153455967",
-    "title": "\"좋은 정책은 복리이자\"…'서초 전성시대2' 소통 나선 전성수 구청장",
-    "summary": [
-      "\"지역 주민들의 숙원이던 서초 01번 마을버스가 연장 운행돼 고등학교와 도서관, 반포 학원가를 바로 갈 수 있게 됐습니다.",
-      "교통 불편을 해결해 주셔서 감사합니다.\" 지난 24일 오후 3시 30분 서울 서초구 반포1동주민센터 5층 강당.",
-      "잠원동 주민자치위원장인 신영희씨가 마이크를 잡자 객석에서 박수가 터졌다."
-    ],
-    "chips": [
-      "#정책",
-      "#교육"
-    ]
-  },
-  {
-    "id": "na88e7e89",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628028400530",
-    "title": "\"정년 연동해 연금 의무가입 높이고 소득 보정 장치 도입해야\"",
-    "summary": [
-      "(서울=연합뉴스) 서한기 기자 = 한국의 고용연장 논의가 단순한 취업 기간 연장에 머무르지 않고 국민연금제도와의 유기적인 조화를 이뤄야 한다는 ..."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n22a3fb32",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003686825",
-    "title": "필리핀 루손에서 규모 5.0 지진 발생-- GFZ",
-    "summary": [
-      "[서울=뉴시스] 차미례 기자 = 필리핀의 루손 섬에서 28일( 19시 09분 GMT ) 규모 5.0의 지진이 발생했다고 독일 지구과학연구센터(GFZ)가 발표했다.",
-      "진앙의 깊이는 10km이며 위치는 북위 16.",
-      "58도 동경 119.23도로 잠정 측정되었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf36462d",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626161700008",
-    "title": "[코스피·코스닥 전 거래일(26일) 주요공시]",
-    "summary": [
-      "[코스피·코스닥 전 거래일(26일) 주요공시]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb6b59d7d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626160200530",
-    "title": "수능선 지구과학 응시율 1위인데…내신은 10명 중 9명 화학 선택",
-    "summary": [
-      "(서울=연합뉴스) 오보람 기자 = 자연계열 수험생들이 대학수학능력시험(수능)과 학교 내신에서 각각 선택하는 과학탐구 과목이 크게 차이 나는 것으..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n32ef9337",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626140300530",
-    "title": "노동부, 대지급금 부정수급 신고포상금 상한액 1억→2억원 상향",
-    "summary": [
-      "(서울=연합뉴스) 옥성구 기자 = 임금체불된 척 허위로 신고하는 등 대지급금 부정수급 사례를 줄이기 위해 고용노동부가 신고 포상금 상한액을 기존..."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "nff14c897",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260628054900057",
-    "title": "울산 디자인거리 공영주차장 7월부터 시범 운영…471면 규모",
-    "summary": [
-      "(울산=연합뉴스) 김용태 기자 = 울산시는 남구 삼산동 디자인거리 공영주차장(평창현대아파트 앞)을 7월부터 시범 운영한다고 29일 밝혔다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n32de3a92",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260626008200017",
-    "title": "[가보니] 릴리 혁신허브, 내년 송도에 들어선다",
-    "summary": [
-      "(샌디에이고=연합뉴스) 신선미 기자 = \"일라이 릴리 앤드 컴퍼니(릴리)의 혁신 허브 '릴리 게이트웨이 랩스'에 지난 6년간 400여개 바이오텍..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n960a1480",
-    "category": "사회",
-    "source": "조선비즈IT",
-    "time": "21분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/29/UTXHI4UC4VDA5ESAZJR7WPPHJE/",
-    "title": "[비즈톡톡] “욕설 채팅에 300년 게임 정지”… 드라마 ‘참교육’ 속 장면 실제로 가능할까",
-    "summary": [
-      "[비즈톡톡] “욕설 채팅에 300년 게임 정지”… 드라마 ‘참교육’ 속 장면 실제로 가능할까."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "na1b3b979",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026062822460330143",
-    "title": "'K-뷰티' 사우디 간다…중기부, 사업 참여 기업 모집",
-    "summary": [
-      "중소벤처기업부가 성장 잠재력이 큰 사우디아라비아 뷰티 시장 공략에 나선다.",
-      "현지 유통기업과의 협업을 강화해 국내 중소 화장품 브랜드의 중동 진출을 지원한다는 계획이다.29일 중기부와 주사우디아라비아왕국 대한민국 대사관은 'K-뷰티 사우디 진출 지원사업' 참여기업을 모집한다고 밝혔다.",
-      "사우디는 최근 적극적인 개방 정책과 여성의 사회 진출 확대에 힘입어 K-뷰티 기업의 유망 시장으로 부상하고 있다."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책",
-      "#채용"
-    ]
-  },
-  {
-    "id": "ne1316ac8",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026062821594426126",
-    "title": "[인터뷰]박관열 당선인 \"반도체 물길, 광주 성장의 물길로 바꾸겠다\"",
-    "summary": [
-      "\"반도체를 반대하는 게 아닙니다.",
-      "국가 대업(大業)의 성공을 위해 광주가 또 한 번 희생한다면, 그에 걸맞은 성장판도 함께 열어달라는 것입니다.\" 최근 서울 서초구 서초동 삼성전자 본사 앞에서 1인 시위를 벌인 박관열 경기 광주시장 당선인의 일성은 단호했다.",
-      "당선 직후 축하연 대신 피켓을 든 박 당선인은 지난 26일 아시아경제와의 인터뷰에서 \"광주는 더 이상 국가사업의 '통과지'나 '조연'에 머물지 않겠다\"며 민선 9기 시."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n925ef545",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/29/3WO45MM5PJEDXCXRAUPPSHW5GQ/",
-    "title": "대선 출마 위해 헌법 개정설까지? 맘다니 인기 높아지자 나온 질문은…",
-    "summary": [
-      "대선 출마 위해 헌법 개정설까지? 맘다니 인기 높아지자 나온 질문은…."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc35d3be3",
+    "id": "ndecc1960",
     "category": "사회",
     "source": "동아일보",
-    "time": "43분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260629/134198724/1",
-    "title": "WHO “유럽 폭염 사망 1300명”…프랑스에서만 1000명",
+    "time": "방금 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260629/134198809/1",
+    "title": "극장 앞좌석에 맨발 ‘턱’…“얼마나 못 배워 먹은건지 상상도 안가”",
     "summary": [
-      "유럽을 강타한 역대급 폭염으로 1300명 이상이 숨졌다고 세계보건기구(WHO)가 28일(현지 시간) 밝혔다.",
-      "프랑스에서만 1000명의 초과 사망이 발생한 것으로 추산됐다.AFP 통신에 따르면 테워드로스 아드하놈 거브러여수스 WHO 사무총장은 이날 엑스(X)를 통해 “지난 21일 이후 유럽의 기록적인 폭염과 관련한 초과 사망자가 1300명 이상을 기록했다”고 밝혔다.초과 사망(excess death)은 과거 통계에 기반한 특정 기간 예상 사망자와."
+      "영화관에서 앞좌석 위에 맨발을 올린 채 영화를 관람하는 관객의 모습이 포착돼 온라인상에서 논란이 일고 있다.온라인 커뮤니티 보배드림의 공식 SNS 계정에는 최근 “젊은 여성들이 극장에서 앞좌석에 발을 올렸습니다”라는 내용의 제보 글과 함께 사진 한 장이 게재됐다.상영관 내부를 촬영한 것으로 보이는 사진 속에는 두 명의 관객이 각각 앞좌석 등받이 꼭대기에 맨발을 뻗어 올린 채 스크린을 응시하고 있는 모습이 담겼다.",
+      "이들은 신발과 양말을 모두 벗은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfcc843df",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260629/134198806/1",
+    "title": "이경규, ‘월드컵 32강’ 탈락에 케이크 집어던졌다",
+    "summary": [
+      "축구 애호가로 알려진 코미디언 이경규가 대한민국 축구 대표팀의 월드컵 32강 진출 실패에 분노를 표출했다.이경규는 28일 유튜브 채널 ‘갓경규’에 공개된 영상에서 한국의 탈락이 확정되자 미리 준비했던 축하 케이크를 테이블에 내던지며 허탈함을 드러냈다.그는 “냉정하게 32강에 올라갈 자격이 안 됐다.",
+      "팀워크가 무너져 있었다”고 강하게 비판했다.“국민 세금으로 다녀온 만큼 축구가 지면 비판할 수 있다”고 울분을 토했다.다만 실시간 채팅의 욕설 요청."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2136421d",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260629/134198803/1",
+    "title": "홍명보 감독 사퇴에 외신도 주목…“대회 전부터 신뢰 얻지 못해”",
+    "summary": [
+      "홍명보 한국 축구대표팀 감독이 2026 국제축구연맹(FIFA) 북중미 월드컵 부진의 책임을 지고 지휘봉을 내려놓았다.",
+      "외신들도 한국 축구의 현실에 주목했다.홍명보 감독은 29일(한국 시간) 멕시코 할리스코주 과달라하라 인근 사포판의 치바스 바예 베르데에서 기자회견을 열고 사퇴 의사를 밝히며 입장문을 낭독했다.이번 대회에서 한국은 조별리그 1승 2패(승점 3)를 기록, 참가국 48개국 중 34위에 오르며 토너먼트 진출에 실패했다.이에 2027년."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n19757733",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260629/134198790/2",
+    "title": "美-이란 상호 ‘공격 중단’ 합의…30일 카타르 도하서 회담 예정",
+    "summary": [
+      "호르무즈 해협을 둘러싼 긴장이 고조됐던 미국과 이란이 상호 공격을 중단하기로 합의했다는 외신 보도가 나왔다.",
+      "28일(현지시간) 미 정치전문매체 악시오스에 따르면 이날 미국의 한 고위 당국자는 “우리는 모든 군사적 활동을 중단하기로 결정했다”고 밝혔다.",
+      "또 다른 당국자는 “양측이 당분간 공격을 중단하고, 협상이 이어지는 동안 선박들이 자유롭게 이동할 수 있을 것”이라고 전했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n696283f1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626096700065",
+    "title": "인천 제물포구 장학사업 차질?…중구 장학재단 재산배분 '이견'",
+    "summary": [
+      "(인천=연합뉴스) 황정환 기자 = 인천 제물포구 출범이 임박한 가운데 중구 장학재단인 월디장학회의 재산을 어떻게 배분할지를 놓고 동구와 중구의 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n115dea9e",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/29/2026062906475581777",
+    "title": "'개최국' 캐나다, 16강 진출…홍명보호 울린 남아공에 1대 0 승리",
+    "summary": [
+      "'2026 FIFA 북중미 월드컵' 개최국 캐나다가 이번 대회서 가장 먼저 16강에 진출했다.",
+      "캐나다는 29일(한국시간) 미국 캘리포니아 로스앤젤레스 스타디움에서 열린 북중미 월드컵 32강 남아프리카공화국과의 경기에서 1대 0 승리했다.",
+      "손흥민(로스앤젤레스 FC)의 팀 동료인 스테픈 유스타키오가 후반 추가시간에 극적인 골을 넣어 캐나다의 16강행을 이끌었다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n252817db",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/06/29/FEZKCA7SPJB2DDZDWZQGAPBF6Q/",
+    "title": "20년 낸 보험이 보물이었다… 은퇴 전 꼭 확인할 ‘황금 특약’ [왕개미연구소]",
+    "summary": [
+      "20년 낸 보험이 보물이었다… 은퇴 전 꼭 확인할 ‘황금 특약’ [왕개미연구소]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd10ff5c",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/society/2026/06/29/2026062907000030629",
+    "title": "\"홍명보 출입금지? 우리는 출입 환영\" 써붙인 사업장 정체는 '반전'",
+    "summary": [
+      "한 편의점이 '홍명보 출입 금지' 안내문을 내걸어 논란을 불러일으킨 가운데 '홍명보 출입 환영'을 써 붙인 업장이 있어 화제다.",
+      "정신과전문의가 운영하는 정신건강의학과 의원이다.",
+      "지난 28일 SNS(소셜미디어) 스레드에는 '홍명보 출입 환영'이라는 손글씨가 쓰인 안내문 이미지가 올라왔다."
     ],
     "chips": [
       "#의료"
+    ]
+  },
+  {
+    "id": "n39101ddb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629008100072",
+    "title": "[베네수 강진] 사망자 최소 1천450명으로 늘어…절박한 수색 지속",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 지난 24일(현지시간) 베네수엘라를 강타한 연쇄 강진이 발생한지 닷새째로 접어든 가운데 응급 구조대원들은 생..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na74a1398",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260628028200017",
+    "title": "PBS 폐지했는데도 신규 수탁…출연연 인건비 불안 여전",
+    "summary": [
+      "(서울=연합뉴스) 조승한 기자 = 정부가 연구과제중심제도(PBS)를 폐지하며 정부출연연구기관이 인건비 때문에 신규 수탁과제를 따지 않아도 되는 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncfc8827c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/29/2026062906401245072",
+    "title": "日. 독일·스페인 이어 브라질도 격파? 모리야스 감독 \"우린 다크호스 우승 후보\" 여전히 '우승' 원한다",
+    "summary": [
+      "모리야스 하지메(58) 일본 축구대표팀 감독이 강호 브라질과 결전을 앞두고 승리를 향해 강한 의지를 드러냈다.",
+      "일본은 오는 30일(한국시간) 오전 2시 미국 휴스턴 스타디움에서 브라질과 2026 국제축구연맹(FIFA) 북중미 월드컵 32강전을 치른다.",
+      "일본은 월드컵 토너먼트에서 사상 처음으로 우승국과 맞붙는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n45e42d9f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003686804",
+    "title": "울산, 대체로 맑음…아침엔 17도·낮엔 27도",
+    "summary": [
+      "[울산=뉴시스] 박수지 기자 = 29일 울산지역은 대체로 맑을 전망이다.",
+      "울산기상대에 따르면 이날 아침 최저기온은 17도, 낮 최고기온은 27도로 예보됐다.",
+      "미세먼지 농도는 '좋음' 수준으로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neb21a343",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/29/GVSDMNBQMEZGINJRGY2TCMLEGY/",
+    "title": "케이윌, 20년 절친 린에 깜짝 발언…\"우리 안 지 20년 만에 동침은 처음\" 폭소 ('미우새') [Oh!쎈 예고]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박근희 기자] '미운 우리 새끼’ 20년 지기 가수 린과 케이윌이 역대급 티키타카와 화려한 보컬 라인업 언급으로 안방극장을 찾아온다.28일 전파를 탄 SBS ‘미운 우리 새끼’(이하 ‘미우새’)에서는 다음주 방송분이 예고됐다.다음 주 예고편에서는 단독 콘서트를 고작 10일 남겨둔 '본업 천재' 린의 치열한 합."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb31270a3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/29/GUZGEODEGU4TGZJUHFTDMNRWMQ/",
+    "title": "'6월은 '그분'의 시나리오대로' 한국행 3년만에 가장 완벽한 한달 → 또또또 승수쌓기 실패…한화와 류현진, 묘하게 엇갈린 '운명' [인천포커스]",
+    "summary": [
+      "[인천=스포츠조선 김영록 기자] \"최근에 (류)현진이가 잘 던지고도 승운이 없었다.",
+      "오늘은 꼭 승리를 했으면 좋겠다.\" 팀은 이겼지만, 68세 노장의 바람은 이뤄지지 않았다.",
+      "하지만 승리를 향한 뜨거운 마음만은 하늘에 제대로 통했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nede5ec3f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626103000057",
+    "title": "올해 주민이 제안한 울주군 17개 사업에 18억 예산 편성",
+    "summary": [
+      "(울산=연합뉴스) 장영은 기자 = \"도로변 전신주와 가로등, 교통신호등 기둥 등에 남아 있는 현수막 폐노끈을 모두 없애주세요.\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n13040b8a",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/29/2026062820093916393",
+    "title": "\"데이비슨 없으니 기분 이상해→韓적응 도와준 형인데, 맞대결한다면...\" NC 에이스 솔직 소감",
+    "summary": [
+      "\"기분이 이상한(weird) 주간이다.\" NC 다이노스 '외국인 에이스' 라일리 톰슨(30)이 팀을 승리로 이끈 괴력의 투구에도 완벽하게 웃지 못했다.",
+      "최근 팀을 떠난 '형 같은 동료' 외국인 타자 맷 데이비슨(35)에 대한 짙은 그리움과 복잡한 심경 때문이었다.",
+      "심란했던 시간들을 솔직하게 고백했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e793559",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003686851",
+    "title": "[오늘의 주요일정]강원(6월29일 월요일)",
+    "summary": [
+      "[춘천=뉴시스]홍춘봉 기자 = [춘천=뉴시스] ▲오전8시30분, 충혼탑 참배, 양구 비봉공원 충혼탑 ▲오전9시, 제1회 광부의 날 기념식, 도계 산업전사 기념공원 ▲오전10시, 제1회 광부의 날 본행사, 산업전사위령탑·태백종합경기장 ▲오전11시, 2026년 제1회 평창군 적십자봉사원 한마음대회, 평창전통 민속상설공연장 ▲오전11시, 제1회 광부의 날 기념식, 정선 사북청소년장학센터 3층 체육관 ▲오후2시, 제5회 Co-Week Academy 입."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n058f4412",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003686847",
+    "title": "'토이 스토리5' 누적 160만명↑…2주 연속 주말 1위",
+    "summary": [
+      "[서울=뉴시스] 손정빈 기자 = 애니메이션 영화 '토이 스토리5'가 2주 연속 주말 박스오피스 1위를 달렸다.",
+      "'토이 스토리5'는 26~28일 50만2931명(영화진흥위원회 기준)이 봐 주말 박스오피스 정상을 지켰다.",
+      "누적관객수는 161만명이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a2503db",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/international/us/2026/06/29/OXWE6LWCSBB27FNLI7EY6VGPC4/",
+    "title": "“미국·이란, 공격 상호 중단 및 이번 주 회담 개최 합의”",
+    "summary": [
+      "“미국·이란, 공격 상호 중단 및 이번 주 회담 개최 합의”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc5e2d2ec",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260626135300008",
+    "title": "[마켓人] 임태혁 삼성운용 본부장 \"단일종목 레버리지 순기능도\"",
+    "summary": [
+      "(서울=연합뉴스) 경수현 기자 = \"증시 변동성이 커지면서 단일 종목 레버리지 때문이라고 말하는 분들도 있지만 꼭 그런 것 같지는 않다\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc946e6ca",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "46분 전",
+    "url": "https://www.hankyung.com/article/2026062926757",
+    "title": "[날씨] '뜨거운 월요일' 낮 최고 33도…오후 곳곳 소나기",
+    "summary": [
+      "[날씨] '뜨거운 월요일' 낮 최고 33도…오후 곳곳 소나기."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -640,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "3240건",
+    "trend": "+395%"
   },
   {
     "rank": 2,
-    "tag": "채용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "고용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "부동산",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
