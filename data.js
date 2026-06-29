@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-29 15:07:05
+// 마지막 업데이트: 2026-06-29 16:58:29
 window.NEWS_DB = [
   {
     "id": "nd69f275c",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPcHQ5eHN3cnJranlOSWJrU2tXWlVzZ2x3c0RzUzNEZTNBaUdHeVc2UUpUWm9lUDFheGc2THJBVWZqbVRzTHdqUC1CZk1yOVo3M1FLU3YzTEVHMTJROUcwTjJhUmdlZ2RNWU82MDlxNmlVNFE?oc=5",
     "title": "중국 화웨이 '엔비디아 빈 자리' 채운다, 미국의 AI 반도체 수출 규제로 반사이익",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "na9c15208",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
     "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
     "summary": [
@@ -69,7 +69,7 @@ window.NEWS_DB = [
     "id": "nca9f8a56",
     "category": "IT",
     "source": "블로터",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
     "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
     "summary": [
@@ -185,20 +185,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64dc67f5",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
-    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
-    "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n5ace0115",
     "category": "스포츠",
     "source": "네이트",
@@ -270,6 +256,21 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "61일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
     ]
   },
   {
@@ -380,193 +381,204 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0b353881",
+    "id": "n745f6d47",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003688247",
-    "title": "\"하루만 연차 내도 6일 쉰다\"…2027년 황금연휴 언제?",
-    "summary": [
-      "[서울=뉴시스] 2027년에는 주 5일제 기준 3일 이상 이어지는 연휴가 총 10차례 찾아온다.",
-      "연차를 하루만 활용해도 최장 6일을 쉴 수 있는 구간도 있어 직장인들의 관심이 쏠린다.",
-      "우주항공청이 29일 발표한 '2027년도 월력요항'에 따르면, 설 연휴는 2월 6일(토)부터 9일(화)까지 4일간 이어진다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf0de09f9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003688022",
-    "title": "김혜수, 몸매 관리 비결…'아쿠아 워킹'의 효과는",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 배우 김혜수가 아쿠아 워킹을 하는 근황을 공개하며 몸매 관리 비결에 관심이 쏠리고 있다.",
-      "김혜수는 29일 자신의 인스타그램에 수영장 안에서 아쿠아 워킹을 하는 사진과 영상을 게재했다.",
-      "영상 속 그는 물속을 일정한 속도로 걸으며 운동에 집중하는 모습을 보여 눈길을 끌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9d26a79b",
-    "category": "경제",
-    "source": "뉴시스",
+    "source": "조선일보",
     "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003688105",
-    "title": "\"돈 벌었다\" 자랑하는 순간 독 된다…주식 성공을 숨겨야 하는 이유",
+    "url": "https://www.chosun.com/international/international_general/2026/06/30/ZY2I3JMCI5HZ3HMWUSAODPFZLM/",
+    "title": "연준 독립성 지킨 美 연방 대법원, 트럼프의 이사 해임 제동",
     "summary": [
-      "[서울=뉴시스] 김종민 기자 = 주식 투자로 거둔 수익을 주변에 알리는 행위가 오히려 투자자 개인의 정신 건강을 해치고 자산 관리에도 악영향을 미칠 수 있다는 전문가의 진단이 나왔다.",
-      "인간 고유의 심리적 기저와 한국 특유의 사회문화적 환경을 고려할 때, 성공적인 투자일수록 외부에 노출하지 않는 것이 장기적인 시장 생존의 열쇠라는 지적이다.",
-      "한창수 고려대학교 의과대학 정신건강의학과 교수는 자신의 유튜브 채널(한창수의 마음정비소)을 통해 주식으로."
+      "연준 독립성 지킨 美 연방 대법원, 트럼프의 이사 해임 제동."
     ],
     "chips": [
-      "#교육",
-      "#의료",
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "nc779476f",
+    "id": "nd4fc1fda",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687923",
-    "title": "BIS 경고 \"AI 붐, 닷컴버블 닮았다…글로벌 금융위기 우려\"",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 강건우 인턴기자 = 인공지능(AI) 열기에 기대어 빚을 무리하게 끌어다 쓴 자금이 도미노처럼 무너지며 '글로벌 금융위기'를 촉발할 수 있다는 경고가 나왔다.",
-      "28일(현지 시간) 영국 일간 텔레그래프 등에 따르면 국제결제은행(BIS)은 최근 보고서를 통해 \"AI 데이터센터에 대한 과도한 지출과 불투명한 빚 돌리기가 약 20년 전 글로벌 신용 경색과 유사한 금융 위기를 초래할 위험이 있다\"고 지적했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n56b85f1b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629171300071",
-    "title": "美연방대법원, 트럼프의 연준 이사 해임 결정에 일단 제동",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 연방대법원은 29일(현지시간) 리사 쿡 미 연방준비제도(연준·Fed) 이사에 대한 도널드 트럼프 대통..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na3150f28",
-    "category": "사회",
-    "source": "연합뉴스",
+    "source": "조선비즈IT",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/30/LKLQMSKUEFC3RNWAJKHOVP4JT4/",
+    "title": "로켓랩, 12조3500억원 들여 이리듐 인수… 발사체 넘어 위성통신까지 확장",
     "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+      "로켓랩, 12조3500억원 들여 이리듐 인수… 발사체 넘어 위성통신까지 확장."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nda5f7f0b",
+    "id": "n0d8a8f9a",
     "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/30/GU3TIYZWGIYWCNJSGBRDOODDGY/",
-    "title": "故 박용하, 오늘(30일) 사망 16주기…'욘사마' 배용준 인기 맞먹던 '욘하짱' [Oh!쎈 이슈]",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003688576",
+    "title": "英 총리 후보 버넘, 첫 정책 연설…'북부 총리실' 공식 제안",
     "summary": [
-      "[OSEN=장우영 기자] 배우이자 가수로서 대중의 큰 사랑을 받았던 故 박용하가 세상을 떠난 지 어느덧 16년이 됐다.2026년 6월 30일은 故 박용하가 33세라는 꽃다운 나이에 세상을 떠난 지 17년째가 되는 날이다.",
-      "고인은 지난 2010년 6월 30일 황망히 세상을 떠났다.1977년에 태어난 故 박용하는 1994년 MBC ‘테마극장’으로 데뷔, 탄탄한."
+      "[서울=뉴시스]고재은 기자 = 영국 차기 총리 후보인 앤디 버넘 하원의원이 29일(현지 시간) 지방분권 강화를 골자로 하는 '북부 총리실(No.",
+      "10 North)' 구상을 공식화했다.",
+      "영국 BBC, 가디언 등에 따르면 버넘 의원은 이날 자신의 지역구 맨체스터에서 첫 정책 연설을 진행하고 총리실의 일부 부서를 런던 다우닝가 10번지에서 잉글랜드 북서부 맨체스터로 이전하겠다고 밝혔다."
     ],
     "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
-    "id": "n7da890e8",
+    "id": "n3fff7f57",
     "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/06/30/EMYLSKXETZAQNO5ILZE5CQPZPY/",
-    "title": "[사설] 대통령 비서와 측근을 감사위원, 문제 의식마저 없다",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629171351071",
+    "title": "美대법 \"대통령, 독립기관인사 비위없어도 해임가능\"…연준은 예외(종합)",
     "summary": [
-      "[사설] 대통령 비서와 측근을 감사위원, 문제 의식마저 없다."
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 연방대법원이 정부내 독립 기관 소속 인사에 대한 대통령의 해임 권한을 폭넓게 인정하는 판결을 했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "ned1e51e0",
+    "id": "n453a6b3b",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687840",
+    "title": "前골드만 연구원 \"시장, 연준 과도하게 해석…금값 다시 오른다\"",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 강건우 인턴기자 = 최근 국제유가와 금값이 동시에 하락한 가운데 현재 시장 흐름은 일시적인 현상에 그칠 것이라는 분석이 나왔다.",
+      "시장이 미국 연방준비제도(Fed)의 긴축 가능성을 과도하게 반영하고 있다는 이유에서다.",
+      "로빈 브룩스 전 골드만삭스 수석 외환전략가(현 브루킹스연구소 선임연구원)은 지난 25일(현지시간) 온라인 뉴스레트 사이트 서브스택에 올린 글에서 최근 금융시장은 경제 상황보다 연준의 정책 신호를 과도하게."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nda18145b",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629171200072",
-    "title": "[베네수 강진] 카라카스 북부서 규모 4.6 여진…구조작업 지속",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630000251079",
+    "title": "레바논 대통령 \"이스라엘 국경까지 군 배치해 통제권 확장\"(종합)",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 지난 24일(현지시간) 연쇄 강진이 베네수엘라를 강타한 이후 수백 차례의 여진이 이어지는 가운데 29일에는 ..."
+      "(카이로=연합뉴스) 김상훈 특파원 = 조셉 아운 레바논 대통령이 이스라엘군과 친이란 무장정파 헤즈볼라 간 무력 충돌이 끊이지 않는 레바논 남부 ..."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n0646870c",
+    "id": "n075f8a63",
     "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/29/MQYWCMRQMY4WENBZGU3GCN3BMQ/",
-    "title": "살은 또 나만 찌네..'오상진♥'김소영, 출산 후에도 \"58kg\"",
+    "source": "연합뉴스",
+    "time": "53분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630000700081",
+    "title": "폭염 사망자 급증에…\"파리 도심 장례식장 꽉 찼다\"",
     "summary": [
-      "[OSEN=김수형 기자] 아나운서 출신 사업가 김소영이 출산 두 달 차라는 사실이 믿기지 않는 심플한 스타일링을 선보였다.29일 김소영은 자신의 소셜 계정에 '무엇이든 물어보세요'를 열었다.",
-      "계정을 통해 팬들과 소통이 잦은 김소영은 도서전 참석과 함께 큰딸 수아에 대한 근황, 그리고 태어난 지 9주차인 아들이자 막내 수호를 공개해 많은 관심을 받았다.특히."
+      "(파리=연합뉴스) 송진원 특파원 = 프랑스에서 기록적인 폭염에 사망자가 급증하면서 장례식장도 업무 과부하 상태에 빠졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n92a92dc0",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/06/30/RF46PFTSPBEEJDY3NRUKU5CGH4/",
-    "title": "[한삼희의 환경칼럼] 반도체는 “예스”, 원전은 “노”",
+    "id": "nf4757f54",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "57분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003688147",
+    "title": "민물고기 즐겨먹는 한국인…'이 암' 고위험 국가",
     "summary": [
-      "[한삼희의 환경칼럼] 반도체는 “예스”, 원전은 “노”."
+      "[서울=뉴시스] 류난영 기자 = 더위를 피해 강과 계곡을 찾는다면 민물고기 요리 섭취에 주의해야 한다.",
+      "날로 먹거나 충분히 익히지 않을 경우 간흡충 감염 위험이 있고, 장기적으로 담도암 발생 위험을 높일 수 있기 때문이다.",
+      "30일 의료계에 따르면 간흡충은 우리나라에서 가장 감염률이 높은 기생충으로 세계보건기구(WHO)에서는 1군 생물학적 발암물질로 규정하고 있다."
     ],
     "chips": [
-      "#반도체",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc2f3a1fb",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026062952201",
+    "title": "트럼프 \"30일 이란과 카타르서 회담\"",
+    "summary": [
+      "트럼프 \"30일 이란과 카타르서 회담\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n37367e25",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260630/134205706/1",
+    "title": "‘홍길동’ FIFA 회장, 17일간 5만㎞ 비행…온실가스 배출 논란",
+    "summary": [
+      "잔니 인판티노 국제축구연맹(FIFA) 회장이 2026 북중미 월드컵 조별리그 기간 5만㎞가 넘는 거리를 이동했다.영국 BBC는 인판티노 회장의 이동에 배출된 이산화탄소환산량(CO₂e)이 약 516톤으로 추정된다며, 이는 1년 동안 약 78명의 배출량과 같다고 지적했다.인판티노 회장은 지난 12일(이하 한국시간) 멕시코 멕시코시티 스타디움에서 열린 2026 북중미 월드컵 개막전부터 28일 K조 조별리그 포르투갈-콜롬비아전까지, 17일 동안 조별리."
+    ],
+    "chips": [
       "#환경"
     ]
   },
   {
-    "id": "nf03b7699",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "12분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/29/SXSGAYD4FJAABOYP26NCBU62JY/",
-    "title": "컴캐스트, NBC유니버설·스카이 분사 추진… 통신·미디어 별도 상장사로",
+    "id": "n123785ca",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260630/134205703/1",
+    "title": "류준열, UAA 소속 1년만에 갤럭시코퍼 이적설 “정해진 것 없어”",
     "summary": [
-      "컴캐스트, NBC유니버설·스카이 분사 추진… 통신·미디어 별도 상장사로."
+      "배우 류준열이 UAA에 몸 담은지 1년 만에 갤럭시코퍼레이션 이적설이 나왔다.29일 류준열이 UAA를 떠나 갤럭시코퍼레이션으로 이적을 논의 중이라는 보도가 나오자, UAA 측은 “정해진 것은 없다”라고 했다.이에 대해 갤럭시코퍼레이션은 공식입장을 밝히지 않았다.UAA는 지난해 6월 류준열과의 전속계약 소식을 알렸다.",
+      "1년만에 류준열의 소속사 이적설이 나와, 그의 거취에 관심이 모이고 있다.UAA는 14년간 몸담았던 송혜교가 최근 전속계약을 마무."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb2d4e385",
+    "id": "n87e35569",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260630/134205700/1",
+    "title": "하츠투하츠 ‘레몬 탱’, 하프 밀리언…“자체 초동 최고”",
+    "summary": [
+      "포커싱 그룹 ‘하츠투하츠’(Hearts2Hearts·하투하)가 새 앨범으로 하프 밀리언셀러에 등극했다.29일 소속사 SM엔터테인먼트와 한터차트에 따르면, 지난 22일 발매된 하츠투하츠의 두 번째 미니앨범 ‘레몬탱’(Lemon Tang)은 초동 판매량 59만 2312장을 기록하며 자체 최고 기록을 경신했다.이번 앨범은 써클 주간 리테일 앨범 차트 1위를 차지했다.",
+      "동명의 타이틀곡은 중국 QQ뮤직 K팝 주간 차트 및 급상승 차트 정상에 올랐다.지난."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5742c9f6",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260630/134205696/1",
+    "title": "‘음주 뺑소니’ 김호중, 오늘 출소…5개월 이른 가석방",
+    "summary": [
+      "‘음주 뺑소니’ 등의 혐의로 실형을 산 가수 김호중(35)이 가석방으로 조기 출소한다.30일 가요계 등에 따르면, 김호중은 이날 오전 10시께 경기 여주 소망교도소에서 나온다.징역 2년6개월을 선고받은 김호중은 당초 오는 11월24일 만기 출소 예정이었다.",
+      "최근 법무부 가석방 심의위원회를 통과해 형기의 약 80%를 채우고 약 5개월 일찍 사회로 나오게 됐다.",
+      "출소 후 남은 형기 동안에는 보호관찰을 받는다.김호중은 지난 2024년 5월 서울 강남."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6b2cea98",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629170900071",
-    "title": "美대법, 트럼프 '성추행 사건' 상고 기각…77억원 배상 확정",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629170951071",
+    "title": "美대법, 트럼프 '성추행 사건' 상고 기각…77억원 배상 확정(종합)",
     "summary": [
       "(워싱턴=연합뉴스) 이유미 특파원 = 미국 연방대법원이 29일(현지시간) 자신이 패소한 성추행 사건의 판결을 재검토해달라는 도널드 트럼프 대통령..."
     ],
@@ -575,66 +587,44 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9dd309f8",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "36분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260629/134205309/2",
-    "title": "[사설]3대 메가 프로젝트에 4755조… ‘어디’ 보다 ‘어떻게’가 핵심",
+    "id": "n2910cb33",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003688574",
+    "title": "美대법원, 트럼프 과거 성추행 '500만달러 배상' 확정",
     "summary": [
-      "반도체 인공지능(AI) 로봇 등 최첨단 산업에 대한 전국 단위의 ‘메가 투자 프로젝트’ 계획이 29일 공개됐다.",
-      "삼성과 SK는 각각 2655조 원, 2100조 원 등 모두 4755조 원의 국내 투자 계획을 발표했다.",
-      "이재명 대통령은 이재용 삼성전자 회장, 최태원 SK그룹 회장에게 “국가 영웅, 국민 영웅이라 불러드리고 싶다”며 먼저 허리를 숙여 감사를 전했다."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 연방대법원이 29일(현지시간) 도널드 트럼프 대통령이 수십년전 칼럼니스트를 성추행한 것에 대해 배상금을 지불해야 한다는 판결을 확정했다.",
+      "AP통신과 CNN에 따르면 미 대법원은 이날 트럼프 대통령이 패션잡지 칼럼니스트 E.",
+      "진 캐럴에게 500만달러를 배상하라는 원심 판결에 대한 상고를 기각했다."
     ],
     "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
       "#정치"
     ]
   },
   {
-    "id": "n2fae71de",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "39분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260629/134205313/2",
-    "title": "[사설]당 밖의 ‘고약한 훈수꾼’에 흔들리는 민주당",
-    "summary": [
-      "더불어민주당의 당권 경쟁에 외부 스피커들이 끼어들면서 갈등이 증폭되고 있다.",
-      "유시민 작가는 김어준 씨의 유튜브 방송에서 지지자들이 원한 것은 당의 증축이었는데 이재명 대통령이 재건축을 하려 했다며 그러려면 입주자들의 동의를 받아야 한다고 주장했다.",
-      "‘여당은 포용적, 개방적이어야 한다’고 한 이 대통령의 언급을 정면으로 반박한 것이다."
-    ],
-    "chips": [
-      "#재건축",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb1f5f35a",
+    "id": "na7c61de4",
     "category": "경제",
     "source": "한국경제",
-    "time": "40분 전",
-    "url": "https://www.hankyung.com/article/202606295242i",
-    "title": "뉴욕증시, 상승 출발속 기술주 반등폭 축소",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026062952181",
+    "title": "한화생명, 애큐온캐피탈·저축은행 인수",
     "summary": [
-      "뉴욕증시, 상승 출발속 기술주 반등폭 축소."
+      "한화생명, 애큐온캐피탈·저축은행 인수."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nde4a0a92",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "42분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260629/134205311/2",
-    "title": "[사설]당 대표의 ‘기괴한 알박기’에 꼼짝 못 하는 국민의힘",
+    "id": "n3e683eb3",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026062952221",
+    "title": "'국힘 입당 지시' 신천지 이만희 구속기소",
     "summary": [
-      "장동혁 국민의힘 대표가 당의 기강 확립을 내세워 해당 행위자에 대한 징계 방침을 천명하면서 내부 반발이 커지고 있다.",
-      "29일 열린 당 최고위원회의에서도 장 대표의 사퇴를 요구하는 비당권파와 장 대표를 옹호하는 당권파 간에 거친 설전이 벌어졌다.",
-      "그러나 장 대표는 “의총에서 어떤 결정을 하든, 최고위에서 누가 어떤 발언을 하든 나는 사퇴하지 않는다”고 못 박았다."
+      "'국힘 입당 지시' 신천지 이만희 구속기소."
     ],
     "chips": [
       "#뉴스"
@@ -647,18 +637,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "정책",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1420건",
     "trend": "+115%"
   }
