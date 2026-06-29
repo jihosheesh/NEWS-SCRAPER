@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-29 17:54:04
+// 마지막 업데이트: 2026-06-29 18:37:35
 window.NEWS_DB = [
   {
     "id": "nd69f275c",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPcHQ5eHN3cnJranlOSWJrU2tXWlVzZ2x3c0RzUzNEZTNBaUdHeVc2UUpUWm9lUDFheGc2THJBVWZqbVRzTHdqUC1CZk1yOVo3M1FLU3YzTEVHMTJROUcwTjJhUmdlZ2RNWU82MDlxNmlVNFE?oc=5",
     "title": "중국 화웨이 '엔비디아 빈 자리' 채운다, 미국의 AI 반도체 수출 규제로 반사이익",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "na9c15208",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
     "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
     "summary": [
@@ -69,7 +69,7 @@ window.NEWS_DB = [
     "id": "nca9f8a56",
     "category": "IT",
     "source": "블로터",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
     "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
     "summary": [
@@ -82,12 +82,12 @@ window.NEWS_DB = [
   {
     "id": "n5868a989",
     "category": "IT",
-    "source": "초이스스탁",
+    "source": "초이스스탁US",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
-      "엔비디아 시총 5조달러 아래로…AI 독주 시험대 초이스스탁."
+      "엔비디아 시총 5조달러 아래로…AI 독주 시험대 초이스스탁US."
     ],
     "chips": [
       "#AI",
@@ -185,6 +185,34 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n64dc67f5",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
+    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
+    "summary": [
+      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n6f660c1e",
+    "category": "IT",
+    "source": "전라매일",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
+    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
+    "summary": [
+      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n5ace0115",
     "category": "스포츠",
     "source": "네이트",
@@ -259,21 +287,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n98a572df",
-    "category": "IT",
-    "source": "대한민국 정책브리핑",
-    "time": "61일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책"
-    ]
-  },
-  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -285,20 +298,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "126일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -333,10 +332,70 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n639881d9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003688584",
+    "title": "美대법원, 트럼프의 연준 이사 해임 제동…\"절차 보장해야\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 미국 연방대법원이 29일(현지 시간) 도널드 트럼프 미국 대통령의 리사 쿡 연방준비제도(Fed·연준) 이사 해임 시도에 제동을 걸었다.",
+      "액시오스, 뉴욕타임스(NYT) 등에 따르면 대법원은 이날 5대 4 판결로 쿡 이사가 해임 소송이 진행되는 동안 직위를 유지할 수 있다고 판결했다.",
+      "대법원은 \"대통령은 쿡 이사가 법률에 따라 보장받아야 할 절차적 보호를 제공하지 않았다\"며 \"쿡 이사는 문제가 된 증거에 대한 설명과."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nca45ee73",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003688587",
+    "title": "프랑스·오만 \"호르무즈 기뢰제거 협력\"…이란 \"도발 행위\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 프랑스와 오만이 호르무즈 해협에서 기뢰 제거 작업을 위해 협력할 것이라고 29일(현지 시간) 발표하자, 이란은 도발 행위라며 반발했다.",
+      "에마뉘엘 마크론 프랑스 대통령은 이날 소셜미디어(SNS) 엑스(X)에 하이탐 빈 타리크 오만 술탄과 회담 소식을 공유하며 \"우리는 중동 지역 긴장완화를 위해 함께 노력하고 있다\"고 적었다.",
+      "그러면서 \"우리는 호르무즈 해협을 통한 자유롭고 무조건적인 통행을 보장하고 해상 항로를."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndd2ce886",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630001700007",
+    "title": "'월드컵 32강 불발' 축구대표팀, 홍명보 감독·선수 8명 귀국",
+    "summary": [
+      "(영종도=연합뉴스) 최송아 기자 = 2026 북중미 월드컵에서 조별리그를 통과하지 못한 축구 국가대표팀의 홍명보 감독과 일부 선수가 귀국했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n75a9698e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630002200079",
+    "title": "이란 \"호르무즈 기뢰 제거는 우리가…佛 상황 꼬이게 하지 마\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 에마뉘엘 마크롱 프랑스 대통령이 호르무즈 해협의 기뢰 제거 작업 동참을 언급하자, 이란이 이를 도발로 간주..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n4eae529f",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "35분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152979",
     "title": "오딘: 발할라 라이징, 나흘째 구글 매출 2위...5주년 업데이트 효과",
     "summary": [
@@ -349,10 +408,66 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na535de80",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/06/30/5EJNAYCRGFEINPXW27JLFF27LY/",
+    "title": "[32화] “닭 잡는 데 어찌 소 잡는 칼을 쓰랴”",
+    "summary": [
+      "[32화] “닭 잡는 데 어찌 소 잡는 칼을 쓰랴”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na72685d1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/06/30/WRWO724GNRBP7D43DDVXMUMCTQ/",
+    "title": "심박수 170bpm을 찍기까지… 숨이 차야 비로소 완성되는 달리기",
+    "summary": [
+      "심박수 170bpm을 찍기까지… 숨이 차야 비로소 완성되는 달리기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nca70f6f4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/international/china/2026/06/30/KDKHCHTRIVHBLKQ27BXDCMABWE/",
+    "title": "세계 2위의 희토류 보유국을 잡아라… ‘몽골’ 두고 중·일 외교전",
+    "summary": [
+      "세계 2위의 희토류 보유국을 잡아라… ‘몽골’ 두고 중·일 외교전."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b45e06f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/30/NUUMFJVEWJAC3F4PCJZDOSOH3Y/",
+    "title": "“배송 10분 넘으면 실망스러울 정도”… 인도서 ‘퀵커머스 서비스’ 폭발적 성장",
+    "summary": [
+      "“배송 10분 넘으면 실망스러울 정도”… 인도서 ‘퀵커머스 서비스’ 폭발적 성장."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "naf35756b",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "37분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152973",
     "title": "[카드뉴스] 이게 정말 e스포츠 맞아?.. 크래프톤의 파격 실험 'PNC2026'이 특별했던 이유",
     "summary": [
@@ -365,10 +480,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8c1ef775",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630001800091",
+    "title": "앤트로픽, 아마존에 AI 사용요금 인상…관계 멀어지나",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 세계 최대 클라우드 기업 아마존이 앤트로픽의 인공지능(AI) 모델 이용 계약을 재협상하면서 비용 부담..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "n978db25b",
     "category": "스포츠",
     "source": "테크M",
-    "time": "1분 전",
+    "time": "44분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152977",
     "title": "[MSI 브리핑] \"무실점 전승 행진\"...T1, KC마저 3대0 완파하고 최종진출전 선착",
     "summary": [
@@ -381,86 +510,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3c38fad4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/30/GI2WMMBVMIZTGZTDHBRTMZLEMI/",
-    "title": "‘와! 일본축구 미쳤다!’ 브라질 상대로 선제골 작렬…진짜 16강 가나?(전반종료)",
-    "summary": [
-      "[OSEN=서정환 기자] 우승을 하겠다는 일본은 진심이다.",
-      "천하의 브라질을 잡기 직전이다.",
-      "일본은 30일 새벽 2시(한국시간) 미국 텍사스주 휴스턴 NRG 스타디움에서 개최된 2026 FIFA 북중미월드컵 32강전에서 브라질을 상대로 전반전까지 1-0으로 앞서 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n87a626d4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/30/MQ4TINLCMM2DEMTFGNRTGZBYMI/",
-    "title": "\"외국인 타자급, 1R 지명 매력있다\"…67HR 메이저리거 영입전, 결국에는 눈치 싸움?",
-    "summary": [
-      "[스포츠조선 이종서 기자] 30대 중반의 나이.",
-      "전직 메이저리거의 자존심을 지킬 수 있을까.",
-      "최지만(35·울산 웨일즈)은 다가오는 2027년 신인드래프트의 '뜨거운 감자'다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n047daca1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/30/MVRWINJYHA3DAZRRGNSGEODGG4/",
-    "title": "‘한국은 조별리그 떨어졌는데…’ 일본은 브라질 잡나?…사노 선제골로 1-0 리드(전반진행중)",
-    "summary": [
-      "[OSEN=서정환 기자] 일본이 대어 브라질을 잡기 일보 직전이다.",
-      "일본은 30일 새벽 2시(한국시간) 미국 텍사스주 휴스턴 NRG 스타디움에서 개최된 2026 FIFA 북중미월드컵 32강전에서 브라질을 상대로 전반전 현재 1-0으로 앞서 있다.",
-      "일본은 3-4-2-1로 나왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n11f47f49",
-    "category": "스포츠",
+    "id": "n48b5172e",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630001500007",
-    "title": "[월드컵] 네 번째 무대 마친 손흥민 \"다시 죽기 살기로 달려보겠다\"",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630000451071",
+    "title": "美대법, '선거일後 도착' 우편투표 합법 판결…트럼프에 타격(종합)",
     "summary": [
-      "(서울=연합뉴스) 배진남 기자 = 축구대표팀 주장 손흥민(33·LAFC)이 2026 국제축구연맹(FIFA) 북중미 월드컵 32강 진출 실패에 대..."
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 연방 대법원이 선거일 이후 도착한 우편투표를 유효표로 집계하는 일부 주(州)의 제도에 대해 합법이라는..."
     ],
     "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "nd374f4c4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/06/30/GQ3DEODEMZQTMY3FGJSDONBTHA/",
-    "title": "'세계로 영향력을 넓히는 일본프로농구' FIBA 윈도우3에 각국 국가대표 무려 14명 배출",
-    "summary": [
-      "[OSEN=서정환 기자] 일본 B.리그가 세계 농구 무대에서도 영향력을 넓혀가고 있다.일본프로농구 B.리그는 29일 2025-2026시즌 정규리그 종료 시점을 기준으로 리그에서 활약한 외국인 및 아시아 특별쿼터 선수 가운데 14명이 2027 FIBA 농구월드컵 예선 윈도우3(6월 29일~7월 6일) 국가대표 명단에 이름을 올렸다고 발표했다.이번 명단에는 필."
-    ],
-    "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
     "id": "nc6eba1dd",
     "category": "사회",
     "source": "뉴시스",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260630_0003688581",
     "title": "독일, 청소년 시설서 총격 사건…성인 6명 사망·용의자 체포",
     "summary": [
@@ -500,80 +567,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#정책"
-    ]
-  },
-  {
-    "id": "n3fff7f57",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629171351071",
-    "title": "美대법 \"대통령, 독립기관인사 비위없어도 해임가능\"…연준은 예외(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 연방대법원이 정부내 독립 기관 소속 인사에 대한 대통령의 해임 권한을 폭넓게 인정하는 판결을 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n453a6b3b",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687840",
-    "title": "前골드만 연구원 \"시장, 연준 과도하게 해석…금값 다시 오른다\"",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 강건우 인턴기자 = 최근 국제유가와 금값이 동시에 하락한 가운데 현재 시장 흐름은 일시적인 현상에 그칠 것이라는 분석이 나왔다.",
-      "시장이 미국 연방준비제도(Fed)의 긴축 가능성을 과도하게 반영하고 있다는 이유에서다.",
-      "로빈 브룩스 전 골드만삭스 수석 외환전략가(현 브루킹스연구소 선임연구원)은 지난 25일(현지시간) 온라인 뉴스레트 사이트 서브스택에 올린 글에서 최근 금융시장은 경제 상황보다 연준의 정책 신호를 과도하게."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nda18145b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630000251079",
-    "title": "레바논 대통령 \"이스라엘 국경까지 군 배치해 통제권 확장\"(종합)",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 조셉 아운 레바논 대통령이 이스라엘군과 친이란 무장정파 헤즈볼라 간 무력 충돌이 끊이지 않는 레바논 남부 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n075f8a63",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630000700081",
-    "title": "폭염 사망자 급증에…\"파리 도심 장례식장 꽉 찼다\"",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 프랑스에서 기록적인 폭염에 사망자가 급증하면서 장례식장도 업무 과부하 상태에 빠졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf4757f54",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003688147",
-    "title": "민물고기 즐겨먹는 한국인…'이 암' 고위험 국가",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 더위를 피해 강과 계곡을 찾는다면 민물고기 요리 섭취에 주의해야 한다.",
-      "날로 먹거나 충분히 익히지 않을 경우 간흡충 감염 위험이 있고, 장기적으로 담도암 발생 위험을 높일 수 있기 때문이다.",
-      "30일 의료계에 따르면 간흡충은 우리나라에서 가장 감염률이 높은 기생충으로 세계보건기구(WHO)에서는 1군 생물학적 발암물질로 규정하고 있다."
-    ],
-    "chips": [
-      "#의료"
     ]
   },
   {
@@ -641,18 +634,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "정책",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "부동산",
     "mentions": "1420건",
     "trend": "+115%"
   }
