@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-29 13:22:30
+// 마지막 업데이트: 2026-06-29 15:07:05
 window.NEWS_DB = [
   {
     "id": "nd69f275c",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPcHQ5eHN3cnJranlOSWJrU2tXWlVzZ2x3c0RzUzNEZTNBaUdHeVc2UUpUWm9lUDFheGc2THJBVWZqbVRzTHdqUC1CZk1yOVo3M1FLU3YzTEVHMTJROUcwTjJhUmdlZ2RNWU82MDlxNmlVNFE?oc=5",
     "title": "중국 화웨이 '엔비디아 빈 자리' 채운다, 미국의 AI 반도체 수출 규제로 반사이익",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
@@ -35,18 +35,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb9060fe2",
+    "id": "nb424412f",
     "category": "사회",
-    "source": "AI라이프경제",
-    "time": "9시간 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44RWxBejhNRzl6QzlOYnZFOURDUzlCZWF1MWFXcEdNaTV0TjZGTUF1dHdiZUJVN0JYRWhrVVdEdDJWcDdYeVBMQmhlTEdDV1ZSdW11RGItdjc4bHhGdHo2YVk3YXMxUkxtczhBQk0wZw?oc=5",
-    "title": "[AI 정부정책] \"AI가 맞춤 일자리·인재 찾는다\"…노동부, 고용서비스 전면 디지털 전환 시동 |",
+    "source": "v.daum.net",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
+    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "[AI 정부정책] \"AI가 맞춤 일자리·인재 찾는다\"…노동부, 고용서비스 전면 디지털 전환 시동 | AI라이프경제."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
     ],
     "chips": [
-      "#AI",
-      "#정책",
+      "#채용",
+      "#취업",
       "#고용"
     ]
   },
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "na9c15208",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
     "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
     "summary": [
@@ -69,7 +69,7 @@ window.NEWS_DB = [
     "id": "nca9f8a56",
     "category": "IT",
     "source": "블로터",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
     "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
     "summary": [
@@ -199,20 +199,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f660c1e",
-    "category": "IT",
-    "source": "전라매일",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
-    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
-    "summary": [
-      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n5ace0115",
     "category": "스포츠",
     "source": "네이트",
@@ -301,6 +287,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "126일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -380,254 +380,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd04e3d9a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260629/134205482/1",
-    "title": "[리뷰] ‘포켓’ 크기에 프로급 영상, DJI 오즈모 포켓 4P",
-    "summary": [
-      "DJI는 글로벌 드론 시장의 절대 강자로 잘 알려져 있다.",
-      "특히 영상 콘텐츠 제작용 드론 부문에서는 독보적인 수준이다.",
-      "이러한 역량을 바탕으로 최근 DJI는 휴대용 영상기기 시장까지 빠르게 점령하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb495bb5",
+    "id": "n0b353881",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687180",
-    "title": "폐경 후 골밀도 저하, '이것' 치료로 69% 감소…뭐길래?",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003688247",
+    "title": "\"하루만 연차 내도 6일 쉰다\"…2027년 황금연휴 언제?",
     "summary": [
-      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 폐경 이후 여성들이 흔히 겪는 안면홍조·야간발한·피로·골다공증 등의 증상을 완화하는 호르몬 대체치료가 골밀도 저하 위험을 69%까지 낮춘다는 새로운 연구 결과가 나왔다.",
-      "28일(현지 시간) 미국 뉴욕포스트 보도에 따르면 이번 연구는 미국 시카고에서 열린 내분비학회 연례학술대회(ENDO 2026)에서 발표됐다.",
-      "연구팀은 2021년부터 2025년 사이 이중에너지 X선 흡수법 검사를 받은 폐경 후 여성."
+      "[서울=뉴시스] 2027년에는 주 5일제 기준 3일 이상 이어지는 연휴가 총 10차례 찾아온다.",
+      "연차를 하루만 활용해도 최장 6일을 쉴 수 있는 구간도 있어 직장인들의 관심이 쏠린다.",
+      "우주항공청이 29일 발표한 '2027년도 월력요항'에 따르면, 설 연휴는 2월 6일(토)부터 9일(화)까지 4일간 이어진다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n05627f8c",
+    "id": "nf0de09f9",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629155400079",
-    "title": "한국, 가자지구 피란민에 150억원 지원…15%는 한국산 물품으로",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003688022",
+    "title": "김혜수, 몸매 관리 비결…'아쿠아 워킹'의 효과는",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 한국 정부가 가자지구와 이집트 내 팔레스타인 피란민에 대한 대규모 인도적 지원 사업에 착수했다."
+      "[서울=뉴시스]김성은 인턴 기자 = 배우 김혜수가 아쿠아 워킹을 하는 근황을 공개하며 몸매 관리 비결에 관심이 쏠리고 있다.",
+      "김혜수는 29일 자신의 인스타그램에 수영장 안에서 아쿠아 워킹을 하는 사진과 영상을 게재했다.",
+      "영상 속 그는 물속을 일정한 속도로 걸으며 운동에 집중하는 모습을 보여 눈길을 끌었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na66573ff",
+    "id": "n9d26a79b",
     "category": "경제",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026062952067",
-    "title": "'사람 몸에 돼지 신장'…日, 2028년 '이종 간 장기이식' 첫 시도",
-    "summary": [
-      "'사람 몸에 돼지 신장'…日, 2028년 '이종 간 장기이식' 첫 시도."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b42e370",
-    "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003688528",
-    "title": "정청래·송영길, '노무현 적통' 놓고 충돌…\"鄭, 장례식에 참석도 못 해\" \"허위 사실\"(종합)",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003688105",
+    "title": "\"돈 벌었다\" 자랑하는 순간 독 된다…주식 성공을 숨겨야 하는 이유",
     "summary": [
-      "[서울=뉴시스]김난영 한재혁 권신혁 김윤영 기자 = 더불어민주당 당권 주자인 정청래 전 대표와 송영길 의원이 노무현 전 대통령을 두고 정면충돌했다.",
-      "송 의원은 29일 KBS 전격시사 인터뷰에서 정 전 대표의 전당대회 국면 정통성 부각에 관해 \"그럴 수 없을 것\"이라며 \"정 전 대표는 완전히 노무현 대통령과 등을 져서 장례식에 참석도 못 했다\"고 말했다.",
-      "정 전 대표는 지난 24일 대표직을 내려놓으며 \"저는 노사모\"·\"노무현 키즈\" 등의 발언을."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9765a1e2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/06/29/G43DGMTDHE4TAOLDGRSTEOBQGQ/",
-    "title": "한국 감독 거절한 제시 마치, 캐나다 국민영웅 등극 “사상 첫 16강 진출 이끌었다!”",
-    "summary": [
-      "[OSEN=서정환 기자] 한국대표팀 감독직을 거절한 제시 마치가 캐나다 국민영웅이 됐다.",
-      "캐나다는 29일(한국시간) 미국 캘리포니아주 잉글우드 소파이 스타디움에서 열린 2026 북중미월드컵 32강전에서 후반 추가시간 스티븐 유스타키오의 극적인 결승골을 앞세워 남아프리카공화국을 1-0으로 꺾었다.이 승리로 캐나다는 사상 처음으로 월드컵 토너먼트에서 승리를 거."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2a682a94",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629167700081",
-    "title": "파리서 TV 들고 지하철 탔다가 26만원 과태료…복불복 적발 논란",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 프랑스 파리에서 한 남성이 텔레비전을 들고 지하철을 탔다가 20만원이 넘는 과태료를 부과받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1196dbae",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687248",
-    "title": "\"나이 들수록 살이 안 빠지는 여성…식단·운동 싹다 멈추세요\"",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = 갱년기를 기점으로 이전과 다름없이 운동하고 식단을 조절해도 체중이 감량되지 않는 현상은 단순한 의지 부족이 아닌, 신체 내부의 호르몬 시스템 변화가 주요 원인이라는 분석이 나왔다.",
-      "매일백세한의원 송원석 원장은 28일 유튜브 채널 '엄마들을 위한 대사 다이어트 / 매일감비환'을 통해 관련 연구 논문들을 바탕으로 중년 여성의 기초대사량 저하와 체중 정체의 원인을 규명하고 이를 극복하기 위한 대안을 제시했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5d564c01",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260629/134205441/2",
-    "title": "트럼프 “이란, 30일 카타르서 회담 요청”…이란 “일정 없다”",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 29일(현지 시간) 이란과의 회담이 30일 카타르 도하에서 열린다고 밝혔다.",
-      "하지만 이란 측은 예정된 회담이 없다고 부인했다.트럼프 대통령은 이날 자신의 트루스소셜에 “이란이 회담을 요청했다”며 “내일 도하에서 회담이 열릴 것”이라고 밝혔다.앞서 미국 매체 액시오스는 미국 고위 당국자를 인용해 미국과 이란이 모든 군사행동을 중단하기로 합의했으며, 양국 대표단이 30일 카타르 수도 도하에서 후속 회담을 열 예정이라고."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8a1e4070",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/06/29/LDQHNWJHYJCR5FU3AQBGHRI4BU/",
-    "title": "경복고, 아시아 정상 올랐다… NBA 라이징 스타즈 인비테이셔널 우승",
-    "summary": [
-      "경복고, 아시아 정상 올랐다… NBA 라이징 스타즈 인비테이셔널 우승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3be96d9f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003686972",
-    "title": "\"화 통제 못 하는 이유 있었다\"…분노 유도하는 뇌 속 '신경조절물질'의 비밀",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = 인간이 분노를 느낄 때 행동과 감정을 통제하는 뇌 속 생화학 물질의 작동 원리가 의학적 관점에서 규명됐다.",
-      "본인의 의지로 감정을 다스린다고 생각하기 쉽지만, 실제로는 뇌 속 특정 물질의 분비와 신경 회로의 수동적인 작동 결과에 가깝다는 분석이다.",
-      "서울대학교병원 이승훈 교수는 최근 유튜브 채널 '썰닥'에 출연해, 뇌과학과 관련한 의학적 분석을 통해 화가 나거나 공포를 느끼는 등의 감정 변화가 뇌의 유물론적 작용에."
+      "[서울=뉴시스] 김종민 기자 = 주식 투자로 거둔 수익을 주변에 알리는 행위가 오히려 투자자 개인의 정신 건강을 해치고 자산 관리에도 악영향을 미칠 수 있다는 전문가의 진단이 나왔다.",
+      "인간 고유의 심리적 기저와 한국 특유의 사회문화적 환경을 고려할 때, 성공적인 투자일수록 외부에 노출하지 않는 것이 장기적인 시장 생존의 열쇠라는 지적이다.",
+      "한창수 고려대학교 의과대학 정신건강의학과 교수는 자신의 유튜브 채널(한창수의 마음정비소)을 통해 주식으로."
     ],
     "chips": [
       "#교육",
-      "#의료"
+      "#의료",
+      "#환경"
     ]
   },
   {
-    "id": "nff316c7d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629166400109",
-    "title": "전쟁에 폭염까지…우크라도 비상",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 러시아와의 전쟁으로 에너지망이 망가진 우크라이나에도 이례적 폭염이 덮치면서 당국이 긴장하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35a925a0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629167600527",
-    "title": "전북 남원·장수에 호우주의보 해제",
-    "summary": [
-      "(전주=연합뉴스) 기상청은 남원·장수에 발령했던 호우주의보를 29일 오후 10시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb566c8c5",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "21분 전",
-    "url": "https://www.hankyung.com/article/2026062945026",
-    "title": "코스닥 제약·바이오주 '불기둥'…정책자금 훈풍 부나",
-    "summary": [
-      "코스닥 제약·바이오주 '불기둥'…정책자금 훈풍 부나."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "ndfbb7b55",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "26분 전",
-    "url": "https://www.hankyung.com/article/2026062952017",
-    "title": "\"서울대 44명 보낸 학교의 비결\"…휴대전화 걷었더니 벌어진 일",
-    "summary": [
-      "\"서울대 44명 보낸 학교의 비결\"…휴대전화 걷었더니 벌어진 일."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n0df49737",
+    "id": "nc779476f",
     "category": "IT",
-    "source": "한국경제",
-    "time": "30분 전",
-    "url": "https://www.hankyung.com/article/2026062949907",
-    "title": "국가경보망 없는 베네수엘라, 강진 덮치기 전 구글이 알렸다",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687923",
+    "title": "BIS 경고 \"AI 붐, 닷컴버블 닮았다…글로벌 금융위기 우려\"",
     "summary": [
-      "국가경보망 없는 베네수엘라, 강진 덮치기 전 구글이 알렸다."
+      "[서울=뉴시스]김혜경 기자, 강건우 인턴기자 = 인공지능(AI) 열기에 기대어 빚을 무리하게 끌어다 쓴 자금이 도미노처럼 무너지며 '글로벌 금융위기'를 촉발할 수 있다는 경고가 나왔다.",
+      "28일(현지 시간) 영국 일간 텔레그래프 등에 따르면 국제결제은행(BIS)은 최근 보고서를 통해 \"AI 데이터센터에 대한 과도한 지출과 불투명한 빚 돌리기가 약 20년 전 글로벌 신용 경색과 유사한 금융 위기를 초래할 위험이 있다\"고 지적했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n56b85f1b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629171300071",
+    "title": "美연방대법원, 트럼프의 연준 이사 해임 결정에 일단 제동",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 연방대법원은 29일(현지시간) 리사 쿡 미 연방준비제도(연준·Fed) 이사에 대한 도널드 트럼프 대통..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na283b45f",
+    "id": "na3150f28",
     "category": "사회",
-    "source": "동아일보",
-    "time": "45분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260629/134204478/1",
-    "title": "“李가 재건축 위원장, 조합원은 문조털래유, 신규 입주자가 김용남·한찬식?” [정치를 부탁해]",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
-      "동아일보 정치 라이브 ＜정치를 부탁해＞- 일시: 월·수요일 오전 10~11시- 토크: 정광재 동연정치연구소장, 김준일 시사평론가- 진행·연출: 강경석 김선우- 동아일보 유튜브 : www.youtube.com/@donga-ilbo 유시민 작가가 최근 이재명 대통령을 겨냥해 ‘재건축’, ‘문까산점(문재인 전 대통령을 비판하면 가산점을 받는다)’ 등의 발언을 하며 더불어민주당 내 계파 갈등이 격화되는 가운데, 해당 발언이 친명계와 친문계의 갈등을 수."
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda5f7f0b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/30/GU3TIYZWGIYWCNJSGBRDOODDGY/",
+    "title": "故 박용하, 오늘(30일) 사망 16주기…'욘사마' 배용준 인기 맞먹던 '욘하짱' [Oh!쎈 이슈]",
+    "summary": [
+      "[OSEN=장우영 기자] 배우이자 가수로서 대중의 큰 사랑을 받았던 故 박용하가 세상을 떠난 지 어느덧 16년이 됐다.2026년 6월 30일은 故 박용하가 33세라는 꽃다운 나이에 세상을 떠난 지 17년째가 되는 날이다.",
+      "고인은 지난 2010년 6월 30일 황망히 세상을 떠났다.1977년에 태어난 故 박용하는 1994년 MBC ‘테마극장’으로 데뷔, 탄탄한."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7da890e8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/06/30/EMYLSKXETZAQNO5ILZE5CQPZPY/",
+    "title": "[사설] 대통령 비서와 측근을 감사위원, 문제 의식마저 없다",
+    "summary": [
+      "[사설] 대통령 비서와 측근을 감사위원, 문제 의식마저 없다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ned1e51e0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629171200072",
+    "title": "[베네수 강진] 카라카스 북부서 규모 4.6 여진…구조작업 지속",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 지난 24일(현지시간) 연쇄 강진이 베네수엘라를 강타한 이후 수백 차례의 여진이 이어지는 가운데 29일에는 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0646870c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/29/MQYWCMRQMY4WENBZGU3GCN3BMQ/",
+    "title": "살은 또 나만 찌네..'오상진♥'김소영, 출산 후에도 \"58kg\"",
+    "summary": [
+      "[OSEN=김수형 기자] 아나운서 출신 사업가 김소영이 출산 두 달 차라는 사실이 믿기지 않는 심플한 스타일링을 선보였다.29일 김소영은 자신의 소셜 계정에 '무엇이든 물어보세요'를 열었다.",
+      "계정을 통해 팬들과 소통이 잦은 김소영은 도서전 참석과 함께 큰딸 수아에 대한 근황, 그리고 태어난 지 9주차인 아들이자 막내 수호를 공개해 많은 관심을 받았다.특히."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92a92dc0",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/opinion/specialist_column/2026/06/30/RF46PFTSPBEEJDY3NRUKU5CGH4/",
+    "title": "[한삼희의 환경칼럼] 반도체는 “예스”, 원전은 “노”",
+    "summary": [
+      "[한삼희의 환경칼럼] 반도체는 “예스”, 원전은 “노”."
+    ],
+    "chips": [
+      "#반도체",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nf03b7699",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "12분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/06/29/SXSGAYD4FJAABOYP26NCBU62JY/",
+    "title": "컴캐스트, NBC유니버설·스카이 분사 추진… 통신·미디어 별도 상장사로",
+    "summary": [
+      "컴캐스트, NBC유니버설·스카이 분사 추진… 통신·미디어 별도 상장사로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb2d4e385",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629170900071",
+    "title": "美대법, 트럼프 '성추행 사건' 상고 기각…77억원 배상 확정",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 연방대법원이 29일(현지시간) 자신이 패소한 성추행 사건의 판결을 재검토해달라는 도널드 트럼프 대통령..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9dd309f8",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "36분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260629/134205309/2",
+    "title": "[사설]3대 메가 프로젝트에 4755조… ‘어디’ 보다 ‘어떻게’가 핵심",
+    "summary": [
+      "반도체 인공지능(AI) 로봇 등 최첨단 산업에 대한 전국 단위의 ‘메가 투자 프로젝트’ 계획이 29일 공개됐다.",
+      "삼성과 SK는 각각 2655조 원, 2100조 원 등 모두 4755조 원의 국내 투자 계획을 발표했다.",
+      "이재명 대통령은 이재용 삼성전자 회장, 최태원 SK그룹 회장에게 “국가 영웅, 국민 영웅이라 불러드리고 싶다”며 먼저 허리를 숙여 감사를 전했다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2fae71de",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260629/134205313/2",
+    "title": "[사설]당 밖의 ‘고약한 훈수꾼’에 흔들리는 민주당",
+    "summary": [
+      "더불어민주당의 당권 경쟁에 외부 스피커들이 끼어들면서 갈등이 증폭되고 있다.",
+      "유시민 작가는 김어준 씨의 유튜브 방송에서 지지자들이 원한 것은 당의 증축이었는데 이재명 대통령이 재건축을 하려 했다며 그러려면 입주자들의 동의를 받아야 한다고 주장했다.",
+      "‘여당은 포용적, 개방적이어야 한다’고 한 이 대통령의 언급을 정면으로 반박한 것이다."
     ],
     "chips": [
       "#재건축",
       "#정치"
+    ]
+  },
+  {
+    "id": "nb1f5f35a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "40분 전",
+    "url": "https://www.hankyung.com/article/202606295242i",
+    "title": "뉴욕증시, 상승 출발속 기술주 반등폭 축소",
+    "summary": [
+      "뉴욕증시, 상승 출발속 기술주 반등폭 축소."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nde4a0a92",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260629/134205311/2",
+    "title": "[사설]당 대표의 ‘기괴한 알박기’에 꼼짝 못 하는 국민의힘",
+    "summary": [
+      "장동혁 국민의힘 대표가 당의 기강 확립을 내세워 해당 행위자에 대한 징계 방침을 천명하면서 내부 반발이 커지고 있다.",
+      "29일 열린 당 최고위원회의에서도 장 대표의 사퇴를 요구하는 비당권파와 장 대표를 옹호하는 당권파 간에 거친 설전이 벌어졌다.",
+      "그러나 장 대표는 “의총에서 어떤 결정을 하든, 최고위에서 누가 어떤 발언을 하든 나는 사퇴하지 않는다”고 못 박았다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -637,18 +647,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "정책",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   }
