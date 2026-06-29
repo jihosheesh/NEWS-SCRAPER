@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-29 11:37:43
+// 마지막 업데이트: 2026-06-29 13:22:30
 window.NEWS_DB = [
   {
     "id": "nd69f275c",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPcHQ5eHN3cnJranlOSWJrU2tXWlVzZ2x3c0RzUzNEZTNBaUdHeVc2UUpUWm9lUDFheGc2THJBVWZqbVRzTHdqUC1CZk1yOVo3M1FLU3YzTEVHMTJROUcwTjJhUmdlZ2RNWU82MDlxNmlVNFE?oc=5",
-    "title": "중국 '엔비디아 빈 자리' 화웨이가 채운다, 미국의 AI 반도체 수출 규제로 반사이익",
+    "title": "중국 화웨이 '엔비디아 빈 자리' 채운다, 미국의 AI 반도체 수출 규제로 반사이익",
     "summary": [
-      "중국 '엔비디아 빈 자리' 화웨이가 채운다, 미국의 AI 반도체 수출 규제로 반사이익 비즈니스포스트."
+      "중국 화웨이 '엔비디아 빈 자리' 채운다, 미국의 AI 반도체 수출 규제로 반사이익 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "nb9060fe2",
     "category": "사회",
     "source": "AI라이프경제",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44RWxBejhNRzl6QzlOYnZFOURDUzlCZWF1MWFXcEdNaTV0TjZGTUF1dHdiZUJVN0JYRWhrVVdEdDJWcDdYeVBMQmhlTEdDV1ZSdW11RGItdjc4bHhGdHo2YVk3YXMxUkxtczhBQk0wZw?oc=5",
     "title": "[AI 정부정책] \"AI가 맞춤 일자리·인재 찾는다\"…노동부, 고용서비스 전면 디지털 전환 시동 |",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "na9c15208",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
     "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
     "summary": [
@@ -69,7 +69,7 @@ window.NEWS_DB = [
     "id": "nca9f8a56",
     "category": "IT",
     "source": "블로터",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
     "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
     "summary": [
@@ -380,268 +380,254 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3f792901",
+    "id": "nd04e3d9a",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026062920334117202",
-    "title": "이상일 “용인 반도체 국가산단 지연 책임 정부에…속도전 나서야”",
-    "summary": [
-      "이상일 용인특례시장이 29일 용인 첨단시스템반도체 국가산업단지 조성 사업의 지연 사태와 관련해 정부를 향해 직격탄을 날렸다.",
-      "이 시장은 대통령의 '반도체 속도전' 의지를 환영하면서도, 정작 실무 부처의 태만과 무관심으로 인해 사업이 고사(枯死) 위기에 처했다며 강력한 대책 마련을 촉구했다.",
-      "이상일 시장은 이날 \"대통령이 반도체 수요 대응을 위해 생산 거점을 조기에 완성하겠다고 밝힌 것은 환영한다\"면서도 \"중요한."
-    ],
-    "chips": [
-      "#반도체",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4829f298",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003688504",
-    "title": "\"호남 반도체 찬성이 아부냐…계파 졸개 주제에\" 홍준표, 일부 野의원 향해 직격탄",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 호남 반도체 산업 육성에 찬성 입장을 밝힌 홍준표 전 대구시장이 자신을 비판한 국민의힘 의원들을 향해 강한 반박을 내놨다.",
-      "홍 전 시장은 원색적인 표현까지 사용하며 지역 산업 발전과 국토균형발전 필요성을 강조했다.",
-      "홍 전 시장은 29일 자신의 사회관계망서비스(SNS)에 \"내가 대구시장 3년 하는 동안 5대 신산업 유치·육성에 전력을 다했다\"며 \"그 결과 과거 10년 동안 투자유치보다 2배 반을 더 했고 기업도."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n92f53613",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003688509",
-    "title": "'장위 푸르지오 마크원' 특공에 5200명 몰려…평균 경쟁률 9.9대 1",
-    "summary": [
-      "[서울=뉴시스] 강세훈 기자, 이우경인턴기자 = 대우건설이 서울 성북구 장위동에 공급하는 '장위 푸르지오 마크원'이 특별공급 청약 평균 경쟁률 9.9대 1을 기록했다.",
-      "29일 한국부동산원 청약홈에 따르면 이날 진행된 특별공급 청약에서 총 522가구 모집에 5204명이 신청했다.",
-      "1가구를 모집한 전용 46㎡형이 218명이 신청해 경쟁률이 218대1로 가장 높았다."
-    ],
-    "chips": [
-      "#부동산",
-      "#채용"
-    ]
-  },
-  {
-    "id": "n11c4a5de",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/special/special_section/2026/06/30/LBFFJ3OO6VDMVGX36NHWEJOG4E/",
-    "title": "ESG 지원 협력사 올해 20곳으로 늘려",
-    "summary": [
-      "ESG 지원 협력사 올해 20곳으로 늘려."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne840da7c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/special/special_section/2026/06/30/X5TF7G3MEBD6JBZAT462AQNLT4/",
-    "title": "여수 공장에 CCUS 클러스터 구축… 친환경 신사업 확대",
-    "summary": [
-      "여수 공장에 CCUS 클러스터 구축… 친환경 신사업 확대."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n3dd89e66",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/06/30/2YUGTULU65CMNH6JZAX7SG2WZY/",
-    "title": "비수도권 청년 1000명 취업 돕는 ‘청년희망배움터’ 신설",
-    "summary": [
-      "비수도권 청년 1000명 취업 돕는 ‘청년희망배움터’ 신설."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "n0edf6188",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026062920194297179",
-    "title": "\"우리 판매점에서 1등 나왔대요\" 몇달 묵혀둔 복권 확인했더니 1·2등 동시 당첨 '잭팟'",
-    "summary": [
-      "퇴근길마다 습관처럼 연금복권을 사던 한 직장인이 몇 달 동안 확인하지 않고 모아둔 복권을 뒤늦게 살펴봤다가 1등과 2등에 동시에 당첨되는 행운을 안았다.",
-      "최근 동행복권이 공개한 연금복권720+ 317회차 당첨자 인터뷰를 보면 당첨자 A씨는 부산 남구의 한 복권 판매점에서 연금복권을 꾸준히 구매해 왔다.",
-      "A씨는 평소 당첨 여부를 바로 확인하지 않고 몇 달 동안 모아뒀다가 한꺼번에 결과를 확인하는 습관이 있었다고 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na99cccaa",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003688495",
-    "title": "이천수, 결국 폭발했다…\"나는 홍명보 형이 진짜 싫은 게\"",
-    "summary": [
-      "[서울=뉴시스]강주희 기자 = 축구 국가대표 출신 이천수가 홍명보 전 축구대표팀 감독을 향해 작심 발언을 쏟아냈다.",
-      "28일 이천수의 유튜브 채널 '리춘수'에는 '할 말은 해야겠습니다'라는 제목의 영상이 게재됐다.",
-      "영상에서 이천수는 2026 북중미 월드컵에서 한국 대표팀의 부진한 경기력과 홍 감독의 전술 부재를 지적했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne9ad19a0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/special/special_section/2026/06/30/AFXOORAELRE23E2CDFSDS7EUYM/",
-    "title": "사회공헌 넘어 이젠 생존 전략, ‘지속가능경영’으로 미래 연다",
-    "summary": [
-      "사회공헌 넘어 이젠 생존 전략, ‘지속가능경영’으로 미래 연다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3dc8a4e3",
-    "category": "스포츠",
     "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260629/134204971/2",
-    "title": "‘월드컵 졸전’ 축구대표팀 귀국에 공항 경비 비상…경찰 110명 투입",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260629/134205482/1",
+    "title": "[리뷰] ‘포켓’ 크기에 프로급 영상, DJI 오즈모 포켓 4P",
     "summary": [
-      "2026 국제축구연맹(FIFA) 북중미 월드컵에서 기대 이하의 성적으로 조기 탈락한 축구 국가대표팀이 귀국하는 가운데 경찰이 인천국제공항 경비를 대폭 강화할 예정이다.",
-      "29일 경찰에 따르면 인천국제공항경찰단은 30일 오전 대표팀 입국 일정에 맞춰 인천경찰청 소속 기동대 3개 제대와 공항경찰단 인력 등 총 110여 명을 인천국제공항에 배치한다.",
-      "최근 온라인상에 홍명보 전 감독을 겨냥한 살해 협박 글이 올라온 데다 대표팀 귀국 현장에 많은 인파가."
+      "DJI는 글로벌 드론 시장의 절대 강자로 잘 알려져 있다.",
+      "특히 영상 콘텐츠 제작용 드론 부문에서는 독보적인 수준이다.",
+      "이러한 역량을 바탕으로 최근 DJI는 휴대용 영상기기 시장까지 빠르게 점령하고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne523c8b0",
+    "id": "ncb495bb5",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026062920232804101",
-    "title": "조정식 국회의장, 본회의 소집…상임위 與 단독 선출하나",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687180",
+    "title": "폐경 후 골밀도 저하, '이것' 치료로 69% 감소…뭐길래?",
     "summary": [
-      "여야 원내지도부가 22대 국회 후반기 원 구성 협상을 이어갔지만 법제사법위원장 등을 두고 협상이 결렬됐다.",
-      "조정식 국회의장이 오는 30일 본회의 집회를 공고해 더불어민주당 등 범여권 정당 주도로 여당 몫 상임위원장을 선출할 것으로 보인다.",
-      "29일 한병도 민주당 원내대표·천준호 원내운영수석부대표와 정점식 국민의힘 원내대표·김승수 원내운영수석대표는 이날 오후 국회에서 만나 상임위원회 배분 문제를 논의했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd1008cc3",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026062920031085524",
-    "title": "중고 봉제인형이 175만원? 제품 설명엔 어린아이 나이·신체정보·성격 써놨다",
-    "summary": [
-      "유럽의 중고물품 거래 사이트에서 아동 매매 의혹이 제기돼 프랑스 수사 당국이 예비 수사에 나섰다.",
-      "29일 연합뉴스는 영국 일간 텔레그래프를 인용해 '빈티드(Vinted)'라는 사이트 이용자가 플랫폼에서 의심스러운 게시물을 신고하면서 이 같은 의혹이 불거졌다고 보도했다.",
-      "문제의 게시글은 중고 장난감을 판매한다면서 말도 안 되게 비싼 가격을 제시하고, 제품 설명엔 어린아이들의 나이나 신체 정보, 성격 등을 올려놨다."
+      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 폐경 이후 여성들이 흔히 겪는 안면홍조·야간발한·피로·골다공증 등의 증상을 완화하는 호르몬 대체치료가 골밀도 저하 위험을 69%까지 낮춘다는 새로운 연구 결과가 나왔다.",
+      "28일(현지 시간) 미국 뉴욕포스트 보도에 따르면 이번 연구는 미국 시카고에서 열린 내분비학회 연례학술대회(ENDO 2026)에서 발표됐다.",
+      "연구팀은 2021년부터 2025년 사이 이중에너지 X선 흡수법 검사를 받은 폐경 후 여성."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n442fda43",
+    "id": "n05627f8c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629163500099",
-    "title": "이란 외무차관 \"미국과 실무회담, 이번주 예정 안 돼\"",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629155400079",
+    "title": "한국, 가자지구 피란민에 150억원 지원…15%는 한국산 물품으로",
     "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 카젬 가리바바디 이란 외무차관은 29일(현지시간) 미국과의 실무회담이 이번 주 예정돼 있지 않다고 밝..."
+      "(카이로=연합뉴스) 김상훈 특파원 = 한국 정부가 가자지구와 이집트 내 팔레스타인 피란민에 대한 대규모 인도적 지원 사업에 착수했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na0d481e7",
+    "id": "na66573ff",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026062952067",
+    "title": "'사람 몸에 돼지 신장'…日, 2028년 '이종 간 장기이식' 첫 시도",
+    "summary": [
+      "'사람 몸에 돼지 신장'…日, 2028년 '이종 간 장기이식' 첫 시도."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b42e370",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003688528",
+    "title": "정청래·송영길, '노무현 적통' 놓고 충돌…\"鄭, 장례식에 참석도 못 해\" \"허위 사실\"(종합)",
+    "summary": [
+      "[서울=뉴시스]김난영 한재혁 권신혁 김윤영 기자 = 더불어민주당 당권 주자인 정청래 전 대표와 송영길 의원이 노무현 전 대통령을 두고 정면충돌했다.",
+      "송 의원은 29일 KBS 전격시사 인터뷰에서 정 전 대표의 전당대회 국면 정통성 부각에 관해 \"그럴 수 없을 것\"이라며 \"정 전 대표는 완전히 노무현 대통령과 등을 져서 장례식에 참석도 못 했다\"고 말했다.",
+      "정 전 대표는 지난 24일 대표직을 내려놓으며 \"저는 노사모\"·\"노무현 키즈\" 등의 발언을."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9765a1e2",
     "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/29/G43DGMTDHE4TAOLDGRSTEOBQGQ/",
+    "title": "한국 감독 거절한 제시 마치, 캐나다 국민영웅 등극 “사상 첫 16강 진출 이끌었다!”",
+    "summary": [
+      "[OSEN=서정환 기자] 한국대표팀 감독직을 거절한 제시 마치가 캐나다 국민영웅이 됐다.",
+      "캐나다는 29일(한국시간) 미국 캘리포니아주 잉글우드 소파이 스타디움에서 열린 2026 북중미월드컵 32강전에서 후반 추가시간 스티븐 유스타키오의 극적인 결승골을 앞세워 남아프리카공화국을 1-0으로 꺾었다.이 승리로 캐나다는 사상 처음으로 월드컵 토너먼트에서 승리를 거."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a682a94",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629167700081",
+    "title": "파리서 TV 들고 지하철 탔다가 26만원 과태료…복불복 적발 논란",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 프랑스 파리에서 한 남성이 텔레비전을 들고 지하철을 탔다가 20만원이 넘는 과태료를 부과받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1196dbae",
+    "category": "사회",
     "source": "뉴시스",
     "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003688493",
-    "title": "\"입장문만 읽고 휙\"…홍명보 '주머니 손' 퇴장 논란",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687248",
+    "title": "\"나이 들수록 살이 안 빠지는 여성…식단·운동 싹다 멈추세요\"",
     "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵 32강 진출에 실패한 홍명보 한국 축구대표팀 감독이 자진 사퇴를 발표한 가운데, 마지막 기자회견 태도를 두고 축구 팬들 사이에서 논란이 일고 있다.",
-      "홍명보 감독은 29일(한국시간) 멕시코 할리스코주 과달라하라 인근 사포판의 치바스 바예 베르데에서 기자회견을 열고 사퇴 의사를 밝혔다.",
-      "홍 감독은 \"국민 여러분께 진심으로 죄송하다는 말씀을 드린다\"며 \"대표팀 감독이라."
+      "[서울=뉴시스] 김종민 기자 = 갱년기를 기점으로 이전과 다름없이 운동하고 식단을 조절해도 체중이 감량되지 않는 현상은 단순한 의지 부족이 아닌, 신체 내부의 호르몬 시스템 변화가 주요 원인이라는 분석이 나왔다.",
+      "매일백세한의원 송원석 원장은 28일 유튜브 채널 '엄마들을 위한 대사 다이어트 / 매일감비환'을 통해 관련 연구 논문들을 바탕으로 중년 여성의 기초대사량 저하와 체중 정체의 원인을 규명하고 이를 극복하기 위한 대안을 제시했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n16a202c3",
+    "id": "n5d564c01",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260629/134205441/2",
+    "title": "트럼프 “이란, 30일 카타르서 회담 요청”…이란 “일정 없다”",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 29일(현지 시간) 이란과의 회담이 30일 카타르 도하에서 열린다고 밝혔다.",
+      "하지만 이란 측은 예정된 회담이 없다고 부인했다.트럼프 대통령은 이날 자신의 트루스소셜에 “이란이 회담을 요청했다”며 “내일 도하에서 회담이 열릴 것”이라고 밝혔다.앞서 미국 매체 액시오스는 미국 고위 당국자를 인용해 미국과 이란이 모든 군사행동을 중단하기로 합의했으며, 양국 대표단이 30일 카타르 수도 도하에서 후속 회담을 열 예정이라고."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8a1e4070",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/06/29/LDQHNWJHYJCR5FU3AQBGHRI4BU/",
+    "title": "경복고, 아시아 정상 올랐다… NBA 라이징 스타즈 인비테이셔널 우승",
+    "summary": [
+      "경복고, 아시아 정상 올랐다… NBA 라이징 스타즈 인비테이셔널 우승."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3be96d9f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003686972",
+    "title": "\"화 통제 못 하는 이유 있었다\"…분노 유도하는 뇌 속 '신경조절물질'의 비밀",
+    "summary": [
+      "[서울=뉴시스] 김종민 기자 = 인간이 분노를 느낄 때 행동과 감정을 통제하는 뇌 속 생화학 물질의 작동 원리가 의학적 관점에서 규명됐다.",
+      "본인의 의지로 감정을 다스린다고 생각하기 쉽지만, 실제로는 뇌 속 특정 물질의 분비와 신경 회로의 수동적인 작동 결과에 가깝다는 분석이다.",
+      "서울대학교병원 이승훈 교수는 최근 유튜브 채널 '썰닥'에 출연해, 뇌과학과 관련한 의학적 분석을 통해 화가 나거나 공포를 느끼는 등의 감정 변화가 뇌의 유물론적 작용에."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nff316c7d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629163700051",
-    "title": "'규정 위반해 90억원대 부실대출' 부산 새마을금고 간부들 기소",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629166400109",
+    "title": "전쟁에 폭염까지…우크라도 비상",
     "summary": [
-      "(부산=연합뉴스) 박성제 기자 = 부산지검 서부지청은 부실대출을 일으킨 혐의로 부산의 한 새마을금고 이사장과 전무 등 2명을 구속기소하고, 또 ..."
+      "(로마=연합뉴스) 민경락 특파원 = 러시아와의 전쟁으로 에너지망이 망가진 우크라이나에도 이례적 폭염이 덮치면서 당국이 긴장하고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6c5fb4b5",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260629/134203802/1",
-    "title": "4년 뒤가 더 두려운 韓 축구…황금세대 못 살리고, 미래세대도 못 키워",
+    "id": "n35a925a0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629167600527",
+    "title": "전북 남원·장수에 호우주의보 해제",
     "summary": [
-      "기대 속에 2026 북중미 월드컵으로 향했던 한국 축구는 최악의 결과로 대회를 조기 마감했다.",
-      "충격적인 조별리그 탈락 속에서 기대했던 성과와 미래에 대한 희망을 모두 얻지 못했다.",
-      "홍명보 감독(57)도 부진에 대한 책임을 지고 사퇴했다."
+      "(전주=연합뉴스) 기상청은 남원·장수에 발령했던 호우주의보를 29일 오후 10시를 기해 해제한다고 밝혔다."
     ],
     "chips": [
-      "#손흥민",
-      "#EPL"
+      "#뉴스"
     ]
   },
   {
-    "id": "n8dcd50d7",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260629/134204879/1",
-    "title": "KAIST 제 18대 총장에 배충식 교수 선임",
+    "id": "nb566c8c5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "21분 전",
+    "url": "https://www.hankyung.com/article/2026062945026",
+    "title": "코스닥 제약·바이오주 '불기둥'…정책자금 훈풍 부나",
     "summary": [
-      "KAIST 제18대 총장에 배충식 KAIST 기계공학과 교수(63·사진)가 선임됐다.",
-      "KAIST 이사회는 29일 서울 서초구 KAIST 김재철 AI대학원 서울 양재산학캠퍼스에서 임시이사회를 열고 배 교수를 신임 총장으로 선임했다고 밝혔다.배 신임 총장은 서울대 항공공학과를 졸업하고 1994년 영국 임페리얼칼리지 런던에서 기계공학 박사학위를 취득했다.",
-      "1998년 KAIST에 부임한 이후 기계항공공학부장, 공과대 학장 등을 역임했다."
+      "코스닥 제약·바이오주 '불기둥'…정책자금 훈풍 부나."
     ],
     "chips": [
-      "#AI",
-      "#교육",
-      "#환경"
+      "#정책"
+    ]
+  },
+  {
+    "id": "ndfbb7b55",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/2026062952017",
+    "title": "\"서울대 44명 보낸 학교의 비결\"…휴대전화 걷었더니 벌어진 일",
+    "summary": [
+      "\"서울대 44명 보낸 학교의 비결\"…휴대전화 걷었더니 벌어진 일."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0df49737",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "30분 전",
+    "url": "https://www.hankyung.com/article/2026062949907",
+    "title": "국가경보망 없는 베네수엘라, 강진 덮치기 전 구글이 알렸다",
+    "summary": [
+      "국가경보망 없는 베네수엘라, 강진 덮치기 전 구글이 알렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na283b45f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "45분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260629/134204478/1",
+    "title": "“李가 재건축 위원장, 조합원은 문조털래유, 신규 입주자가 김용남·한찬식?” [정치를 부탁해]",
+    "summary": [
+      "동아일보 정치 라이브 ＜정치를 부탁해＞- 일시: 월·수요일 오전 10~11시- 토크: 정광재 동연정치연구소장, 김준일 시사평론가- 진행·연출: 강경석 김선우- 동아일보 유튜브 : www.youtube.com/@donga-ilbo 유시민 작가가 최근 이재명 대통령을 겨냥해 ‘재건축’, ‘문까산점(문재인 전 대통령을 비판하면 가산점을 받는다)’ 등의 발언을 하며 더불어민주당 내 계파 갈등이 격화되는 가운데, 해당 발언이 친명계와 친문계의 갈등을 수."
+    ],
+    "chips": [
+      "#재건축",
+      "#정치"
     ]
   }
 ];
@@ -651,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정책",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
