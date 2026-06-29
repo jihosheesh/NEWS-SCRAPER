@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-29 16:58:29
+// 마지막 업데이트: 2026-06-29 17:54:04
 window.NEWS_DB = [
   {
     "id": "nd69f275c",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPcHQ5eHN3cnJranlOSWJrU2tXWlVzZ2x3c0RzUzNEZTNBaUdHeVc2UUpUWm9lUDFheGc2THJBVWZqbVRzTHdqUC1CZk1yOVo3M1FLU3YzTEVHMTJROUcwTjJhUmdlZ2RNWU82MDlxNmlVNFE?oc=5",
     "title": "중국 화웨이 '엔비디아 빈 자리' 채운다, 미국의 AI 반도체 수출 규제로 반사이익",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "na9c15208",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
     "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
     "summary": [
@@ -69,7 +69,7 @@ window.NEWS_DB = [
     "id": "nca9f8a56",
     "category": "IT",
     "source": "블로터",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
     "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
     "summary": [
@@ -368,7 +368,7 @@ window.NEWS_DB = [
     "id": "n978db25b",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152977",
     "title": "[MSI 브리핑] \"무실점 전승 행진\"...T1, KC마저 3대0 완파하고 최종진출전 선착",
     "summary": [
@@ -381,24 +381,102 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n745f6d47",
-    "category": "사회",
+    "id": "n3c38fad4",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/06/30/ZY2I3JMCI5HZ3HMWUSAODPFZLM/",
-    "title": "연준 독립성 지킨 美 연방 대법원, 트럼프의 이사 해임 제동",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/30/GI2WMMBVMIZTGZTDHBRTMZLEMI/",
+    "title": "‘와! 일본축구 미쳤다!’ 브라질 상대로 선제골 작렬…진짜 16강 가나?(전반종료)",
     "summary": [
-      "연준 독립성 지킨 美 연방 대법원, 트럼프의 이사 해임 제동."
+      "[OSEN=서정환 기자] 우승을 하겠다는 일본은 진심이다.",
+      "천하의 브라질을 잡기 직전이다.",
+      "일본은 30일 새벽 2시(한국시간) 미국 텍사스주 휴스턴 NRG 스타디움에서 개최된 2026 FIFA 북중미월드컵 32강전에서 브라질을 상대로 전반전까지 1-0으로 앞서 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n87a626d4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/30/MQ4TINLCMM2DEMTFGNRTGZBYMI/",
+    "title": "\"외국인 타자급, 1R 지명 매력있다\"…67HR 메이저리거 영입전, 결국에는 눈치 싸움?",
+    "summary": [
+      "[스포츠조선 이종서 기자] 30대 중반의 나이.",
+      "전직 메이저리거의 자존심을 지킬 수 있을까.",
+      "최지만(35·울산 웨일즈)은 다가오는 2027년 신인드래프트의 '뜨거운 감자'다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n047daca1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/30/MVRWINJYHA3DAZRRGNSGEODGG4/",
+    "title": "‘한국은 조별리그 떨어졌는데…’ 일본은 브라질 잡나?…사노 선제골로 1-0 리드(전반진행중)",
+    "summary": [
+      "[OSEN=서정환 기자] 일본이 대어 브라질을 잡기 일보 직전이다.",
+      "일본은 30일 새벽 2시(한국시간) 미국 텍사스주 휴스턴 NRG 스타디움에서 개최된 2026 FIFA 북중미월드컵 32강전에서 브라질을 상대로 전반전 현재 1-0으로 앞서 있다.",
+      "일본은 3-4-2-1로 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n11f47f49",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630001500007",
+    "title": "[월드컵] 네 번째 무대 마친 손흥민 \"다시 죽기 살기로 달려보겠다\"",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = 축구대표팀 주장 손흥민(33·LAFC)이 2026 국제축구연맹(FIFA) 북중미 월드컵 32강 진출 실패에 대..."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "nd374f4c4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "32분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/06/30/GQ3DEODEMZQTMY3FGJSDONBTHA/",
+    "title": "'세계로 영향력을 넓히는 일본프로농구' FIBA 윈도우3에 각국 국가대표 무려 14명 배출",
+    "summary": [
+      "[OSEN=서정환 기자] 일본 B.리그가 세계 농구 무대에서도 영향력을 넓혀가고 있다.일본프로농구 B.리그는 29일 2025-2026시즌 정규리그 종료 시점을 기준으로 리그에서 활약한 외국인 및 아시아 특별쿼터 선수 가운데 14명이 2027 FIBA 농구월드컵 예선 윈도우3(6월 29일~7월 6일) 국가대표 명단에 이름을 올렸다고 발표했다.이번 명단에는 필."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc6eba1dd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003688581",
+    "title": "독일, 청소년 시설서 총격 사건…성인 6명 사망·용의자 체포",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 독일 북부 도시의 한 청소년 시설에서 29일(현지 시간) 총격 사건이 발생해 최소 6명이 사망하고 여러 명이 다쳤다.",
+      "도이체벨레(DW), 가디언 등에 따르면 이날 독일 북부 도시 슈타데(Stade)의 청소년 보호센터에서 총격 사건이 발생해 5명이 현장에서 숨졌다.",
+      "1명은 총상을 입고 병원으로 이송돼 사망했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
     "id": "nd4fc1fda",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "6분 전",
+    "time": "1시간 전",
     "url": "https://biz.chosun.com/it-science/ict/2026/06/30/LKLQMSKUEFC3RNWAJKHOVP4JT4/",
     "title": "로켓랩, 12조3500억원 들여 이리듐 인수… 발사체 넘어 위성통신까지 확장",
     "summary": [
@@ -412,7 +490,7 @@ window.NEWS_DB = [
     "id": "n0d8a8f9a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260630_0003688576",
     "title": "英 총리 후보 버넘, 첫 정책 연설…'북부 총리실' 공식 제안",
     "summary": [
@@ -428,7 +506,7 @@ window.NEWS_DB = [
     "id": "n3fff7f57",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260629171351071",
     "title": "美대법 \"대통령, 독립기관인사 비위없어도 해임가능\"…연준은 예외(종합)",
     "summary": [
@@ -442,7 +520,7 @@ window.NEWS_DB = [
     "id": "n453a6b3b",
     "category": "경제",
     "source": "뉴시스",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260629_0003687840",
     "title": "前골드만 연구원 \"시장, 연준 과도하게 해석…금값 다시 오른다\"",
     "summary": [
@@ -458,7 +536,7 @@ window.NEWS_DB = [
     "id": "nda18145b",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260630000251079",
     "title": "레바논 대통령 \"이스라엘 국경까지 군 배치해 통제권 확장\"(종합)",
     "summary": [
@@ -472,7 +550,7 @@ window.NEWS_DB = [
     "id": "n075f8a63",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "53분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260630000700081",
     "title": "폭염 사망자 급증에…\"파리 도심 장례식장 꽉 찼다\"",
     "summary": [
@@ -486,7 +564,7 @@ window.NEWS_DB = [
     "id": "nf4757f54",
     "category": "사회",
     "source": "뉴시스",
-    "time": "57분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260629_0003688147",
     "title": "민물고기 즐겨먹는 한국인…'이 암' 고위험 국가",
     "summary": [
@@ -502,7 +580,7 @@ window.NEWS_DB = [
     "id": "nc2f3a1fb",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026062952201",
     "title": "트럼프 \"30일 이란과 카타르서 회담\"",
     "summary": [
@@ -516,7 +594,7 @@ window.NEWS_DB = [
     "id": "n37367e25",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260630/134205706/1",
     "title": "‘홍길동’ FIFA 회장, 17일간 5만㎞ 비행…온실가스 배출 논란",
     "summary": [
@@ -530,7 +608,7 @@ window.NEWS_DB = [
     "id": "n123785ca",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260630/134205703/1",
     "title": "류준열, UAA 소속 1년만에 갤럭시코퍼 이적설 “정해진 것 없어”",
     "summary": [
@@ -545,86 +623,12 @@ window.NEWS_DB = [
     "id": "n87e35569",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260630/134205700/1",
     "title": "하츠투하츠 ‘레몬 탱’, 하프 밀리언…“자체 초동 최고”",
     "summary": [
       "포커싱 그룹 ‘하츠투하츠’(Hearts2Hearts·하투하)가 새 앨범으로 하프 밀리언셀러에 등극했다.29일 소속사 SM엔터테인먼트와 한터차트에 따르면, 지난 22일 발매된 하츠투하츠의 두 번째 미니앨범 ‘레몬탱’(Lemon Tang)은 초동 판매량 59만 2312장을 기록하며 자체 최고 기록을 경신했다.이번 앨범은 써클 주간 리테일 앨범 차트 1위를 차지했다.",
       "동명의 타이틀곡은 중국 QQ뮤직 K팝 주간 차트 및 급상승 차트 정상에 올랐다.지난."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5742c9f6",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260630/134205696/1",
-    "title": "‘음주 뺑소니’ 김호중, 오늘 출소…5개월 이른 가석방",
-    "summary": [
-      "‘음주 뺑소니’ 등의 혐의로 실형을 산 가수 김호중(35)이 가석방으로 조기 출소한다.30일 가요계 등에 따르면, 김호중은 이날 오전 10시께 경기 여주 소망교도소에서 나온다.징역 2년6개월을 선고받은 김호중은 당초 오는 11월24일 만기 출소 예정이었다.",
-      "최근 법무부 가석방 심의위원회를 통과해 형기의 약 80%를 채우고 약 5개월 일찍 사회로 나오게 됐다.",
-      "출소 후 남은 형기 동안에는 보호관찰을 받는다.김호중은 지난 2024년 5월 서울 강남."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b2cea98",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629170951071",
-    "title": "美대법, 트럼프 '성추행 사건' 상고 기각…77억원 배상 확정(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 연방대법원이 29일(현지시간) 자신이 패소한 성추행 사건의 판결을 재검토해달라는 도널드 트럼프 대통령..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2910cb33",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003688574",
-    "title": "美대법원, 트럼프 과거 성추행 '500만달러 배상' 확정",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 연방대법원이 29일(현지시간) 도널드 트럼프 대통령이 수십년전 칼럼니스트를 성추행한 것에 대해 배상금을 지불해야 한다는 판결을 확정했다.",
-      "AP통신과 CNN에 따르면 미 대법원은 이날 트럼프 대통령이 패션잡지 칼럼니스트 E.",
-      "진 캐럴에게 500만달러를 배상하라는 원심 판결에 대한 상고를 기각했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na7c61de4",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026062952181",
-    "title": "한화생명, 애큐온캐피탈·저축은행 인수",
-    "summary": [
-      "한화생명, 애큐온캐피탈·저축은행 인수."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3e683eb3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026062952221",
-    "title": "'국힘 입당 지시' 신천지 이만희 구속기소",
-    "summary": [
-      "'국힘 입당 지시' 신천지 이만희 구속기소."
     ],
     "chips": [
       "#뉴스"
@@ -637,8 +641,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
