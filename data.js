@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-29 00:29:23
+// 마지막 업데이트: 2026-06-29 01:41:50
 window.NEWS_DB = [
+  {
+    "id": "nca9f8a56",
+    "category": "IT",
+    "source": "블로터",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
+    "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
+    "summary": [
+      "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여 블로터."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
   {
     "id": "n12b85d1f",
     "category": "IT",
     "source": "ER 이코노믹리뷰",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrZjBVakExbEVveFhHOU03SFRsb08tTkRNdWg1WkwybGJ5NUN0NjVzZGtMZVl4WEswSmN0d2RPQlprQTNOU1hNcGhwYzBKR05JTkpTTDZtblZJQ1VadXdES24xRVdsN0FLbUE3Qw?oc=5",
     "title": "딥엑스·리벨리온, 엔비디아 맞서 AI 반도체 '생태계 전쟁' 나선다",
     "summary": [
@@ -75,21 +89,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nc48b08b9",
-    "category": "IT",
-    "source": "시사저널e",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
-    "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
-    "summary": [
-      "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져 시사저널e."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
     ]
   },
   {
@@ -181,10 +180,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6f660c1e",
+    "category": "IT",
+    "source": "전라매일",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
+    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
+    "summary": [
+      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "12일 전",
+    "time": "13일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -226,6 +239,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6fd56a9c",
+    "category": "사회",
+    "source": "시사캐스트",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNW9IQ1lkZkhUNU03N2NIRWY0QkF6TnlQVUVQbi1wMTVwTE5PQ281YzBvWV9KbGE4SEJLWXdnWEhwSHBMQjRVVUxXdmktZ3NlTnVPd3NTa0xTMV9ERFdSdzF1djdISTQ?oc=5",
+    "title": "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대",
+    "summary": [
+      "[JOB&JOB] 전국서 채용박람회 잇따라...연령별·직군별 맞춤형 취업 기회 확대 시사캐스트."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -252,20 +280,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "125일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -300,18 +314,35 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "내 손안에 서울",
-    "time": "240일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "id": "n7ec2cf0c",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152940",
+    "title": "올해 패션업계 키워드는 '유일무이'…무신사, '대체 불가 플랫폼'으로 도약",
     "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
+      "올해 국내 패션업계의 화두는 '유일무이(唯一無二)'다.",
+      "비슷한 브랜드와 비슷한 디자인이 넘쳐나는 시장에서 살아남는 길은 결국 다른 곳에서는 찾을 수 없는 단독성에 있다는 인식이 업계 전반에 자리잡고 있다.",
+      "단독 상품, 신진 브랜드 큐레이션, 차별화된 콘텐츠 경험까지 모두 같은 방향을 가리킨다."
     ],
     "chips": [
-      "#취업",
-      "#고용"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5238b89e",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152938",
+    "title": "나무가, 프랑스 패럿 '드론 카메라' 공급",
+    "summary": [
+      "나무가가 매출처 다변화에 속도를 내고 있다.나무가는 프랑스 드론 제조사 패럿에 주변 상황 및 장애물 인식용 카메라를 공급한다고 29일 밝혔다.패넛 '아나피 USA 모델' 대상이다.",
+      "드론 1대에 총 4개의 카메라가 들어간다.",
+      "아나피 USA는 긴급구조 및 기업용 드론이다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -331,303 +362,275 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2e0b1b54",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260629/134199396/1",
-    "title": "‘놀러코스터’ 최강록 “‘흑백2’ 우승 후 관심, 낯설고 무서워”",
-    "summary": [
-      "요리사 최강록이 ‘흑백요리사2’ 우승 후 심적 부담감을 느꼈다고 말했다.",
-      "지난 28일 방송된 MBC 예능 프로그램 ‘놀러코스터’에서는 노홍철, 최강록, 고경표, 빠니보틀이 스페인을 대표하는 테마파크에서 롤러코스터를 도장 깨기에 성공했다.",
-      "롤러코스터 체험과 함께 출연진의 진솔한 교감도 그려졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1f6431b4",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687135",
-    "title": "홍익표, 유시민 '재건축론'에 \"재개발도 있다고 생각…국민이 판단할 것\"",
-    "summary": [
-      "[서울=뉴시스] 김지은 기자 = 홍익표 청와대 정무수석은 29일 유시민 작가가 이재명 대통령의 외연 확장 행보를 '재건축'에 빗대 비판한 것과 관련 \"더 나아가서 재개발도 있었다고 생각한다\"고 밝혔다.",
-      "홍 수석은 이날 오전 SBS 라디오 '김태현의 정치쇼'에 나와 \"유 작가의 발언이 굉장히 영향력이 큰 부분은 있지만, 그 한 분의 발언에 저희가 일일이 대응하기는 참 그렇다\"면서도 이같이 말했다.",
-      "그는 \"갑자기 증축, 재건축 전문용어가 나왔는데."
-    ],
-    "chips": [
-      "#재건축",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf5a7c5f7",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026062909273503998",
-    "title": "\"AI 네이티브 전환 속도\"…자비스앤빌런즈, 'AI 위크 2026' 개최",
-    "summary": [
-      "자비스앤빌런즈는 전사적인 인공지능(AI) 활용 문화 확산과 AI 기반 서비스 고도화를 위해 'AI 위크 2026'을 개최했다고 29일 밝혔다.",
-      "지난 22일부터 이틀간 진행된 AI 위크는 개발자와 비개발자 구분 없이 전 구성원이 AI를 주도적으로 이용하는 'AI 네이티브 조직'으로 전환 가속화를 위해 마련됐다.",
-      "행사 첫날에는 다양한 부서의 구성원들이 참여한 10개 세션에서 사내 AI 도입 배경과 성과를 공유했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nd9bd584e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260629/134199350/2",
-    "title": "바이든 “트럼프는 패배자”…퇴임 후 최고 수위 비판",
-    "summary": [
-      "조 바이든 전 미국 대통령이 도널드 트럼프 대통령을 “패배자(loser)”라고 부르며 비난을 퍼부었다.",
-      "2024년 두 사람이 대선 토론회에서 맞붙은 지 2년 만이다.미 CNN 등에 따르면 바이든 전 대통령은 27일(현지시간) 메릴랜드주에서 열린 민주당 정치자금 모금행사에서 10분간 연설했다.바이든 전 대통령은 트럼프 대통령의 케네디센터 명칭 변경 등을 추진한 것을 거론하며 “이는 단순히 그의 허영심을 채우기 위한 프로젝트가 아니다”라며 “이 행."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na7374010",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687059",
-    "title": "안보현·정은채, 티격태격 공조 케미…'재벌X형사2' 8월 첫방",
-    "summary": [
-      "[서울=뉴시스]강주희 기자 = 드라마 '재벌X형사'가 2년 만에 두 번째 시즌으로 돌아온다.",
-      "SBS는 드라마 '재벌X형사' 시즌2를 오는 8월7일 오후 9시50분 첫 방송한다고 29일 밝혔다.",
-      "재벌X형사'는 얼떨결에 형사가 된 재벌 3세가 막대한 재력과 인맥을 바탕으로 범죄자를 소탕하는 수사 드라마다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na746c5f8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687076",
-    "title": "철도연, 차세대 고속철 'HEMU-430X' 굿즈 7종 선보여",
-    "summary": [
-      "[서울=뉴시스]이종성 기자 = 한국철도기술연구원(철도연)이 사회적기업 코이로와 협력해 우리 기술로 개발한 차세대 고속철도 'HEMU-430X'의 연구 성과를 담은 굿즈 7종을 온·오프라인 매장에 정식 출시했다.",
-      "철도연은 2026년 철도의 날을 기념해 고속철도 연구 성과를 국민이 생활 속에서 쉽게 체감할 수 있도록 이 같은 내용의 굿즈 상품화에 나섰다고 28일 밝혔다.",
-      "이번에 선보인 굿즈는 철도연이 개발한 시속 430㎞급 동력 분산식 차세대 고속."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4334c3cb",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687128",
-    "title": "\"요리하고 대화하고\" 샘표, '새미네부엌 요리북클럽' 참가자 모집",
-    "summary": [
-      "[서울=뉴시스]권민지 기자 = 샘표가 '요리가 즐거워지는 새미네부엌 레시피' 출간을 기념해 '새미네부엌 요리북클럽' 참가자를 모집한다고 29일 밝혔다.",
-      "'새미네부엌 요리북클럽'은 다음달 10일과 11일 서울 중구 샘표 본사 1층 우리맛공간에서 열린다.",
-      "참가 신청은 이날 오전 10시부터 네이버 예약을 통해 선착순으로 진행하며, 회당 12명씩 총 36명을 모집한다."
-    ],
-    "chips": [
-      "#네이버",
-      "#채용"
-    ]
-  },
-  {
-    "id": "n641f3cc4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260629/134199389/1",
-    "title": "리센느, 대한민국 방방곡곡 얼굴 되겠네…‘신라공주’ 제나 고향 경주시 홍보대사",
-    "summary": [
-      "대세 그룹 ‘리센느(RESCENE)’가 ‘신라공주’로 통하는 멤버 제나의 고향 경주시 홍보대사로 위촉됐다.경주시는 29일 리센느를 경주시 관광 홍보대사로 위촉하고, 역사문화도시 경주의 매력과 관광 콘텐츠를 국내외에 널리 알리는 활동을 함께 추진한다고 밝혔다.경주 출신 제나는 앞서 멤버 원이의 개인 유튜브 채널 ‘안녕하세요원이입니다잘부탁드립니다’에서 맛깔나는 사투리 콘셉트의 콘텐츠를 선보여 ‘신라공주’라는 애칭을 얻는 등 고향 경주를 향한 애정을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7545069b",
+    "id": "n1a210764",
     "category": "경제",
     "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026062909260397172",
-    "title": "[인사] 사학연금",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026062910394037605",
+    "title": "\"공항 3시간 전 도착? 큰일나\"…나오는 데만 6시간 걸린다는 유럽공항, 무슨 일",
     "summary": [
-      "□승진<1급>▶연금사업실장 이병식 ▶금융투자실장 장원재<2급>▶ESG경영팀장 채호영 ▶예산운영팀장 박해수 ▶재직자관리팀장 전영선 ▶연금수급자팀장 국숙영 ▶재해보상팀장 안경화 ▶서울센터장 문보람 ▶국내채권팀장 김종원 □전보▶연금연구소장 장지영 ▶평가분석팀장 박수진 ▶인사팀장 이수진 ▶연금기획팀장 심동현 ▶퇴직자관리팀장 고명아 ▶대여사업팀장 권혁 ▶IT운영팀장 김석 ▶기업금융팀장 이창봉."
+      "공항에는 통상 출발 3시간 전 도착이 '안전선'으로 여겨진다.",
+      "하지만 올여름 유럽에서는 이조차도 턱없이 부족한 시간이 될 것으로 보인다.",
+      "유럽연합(EU)이 도입한 새로운 출입국 시스템(EES·Entry Exit System)이 본격 가동되면서 주요 공항의 입국 절차가 심각한 혼잡을 빚고 있기 때문이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8c81db35",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026062909250593404",
-    "title": "삼성운용, 하반기 ETF 투자 키워드로 'AI 병목' 제시",
-    "summary": [
-      "하반기에는 인공지능(AI) 병목 현상에 주목해야 할 것으로 보인다.",
-      "AI 생태계 확장에 따라 4단계 병목 현상이 필연적으로 발생함에 따라 이를 선도적으로 해결하는 기업들이 하반기 주도주로 나설 것으로 전망되기 때문이다.",
-      "29일 삼성자산운용은 하반기 투자자들이 가장 주목해야 할 상장지수펀드(ETF) 키워드로 'AI 병목(Bottleneck)'을 선정했다고 밝혔다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nc2f7df5e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260629/134199381/1",
-    "title": "리센느 뜨고 NCT WISH 온다…캐리비안 베이 ‘워터 뮤직 풀파티’ 개막",
-    "summary": [
-      "올여름 역대급 무더위를 시원하게 날려줄 화끈한 물놀이 축제와 국내 최정상급 아티스트들이 총출동하는 화려한 공연이 캐리비안 베이에서 막을 올린다.29일 삼성물산 리조트부문에 따르면, 에버랜드의 워터파크 캐리비안 베이는 오는 7월 3일부터 8월 17일까지 여름 대표 축제인 ‘워터 뮤직 풀파티’(Water Music Pool Party)를 개최한다.올여름 캐리비안 베이에서는 뮤직 풀파티뿐만 아니라 산리오캐릭터즈와 협업한 여름축제 ‘헬로 썸머 파티’부."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbaf6653b",
+    "id": "n3744b3a0",
     "category": "경제",
     "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026062909245789153",
-    "title": "세라젬, 대한변리사회장 표창…지식재산 경쟁력 강화 공로",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026062910340201379",
+    "title": "울산 시내버스, 다시 뛴다…민선 9기 교통서비스 전면 확대",
     "summary": [
-      "세라젬이 서울 서초구 대한변리사회관에서 진행된 창립 80주년 기념식에서 '대한변리사회장 표창'을 받았다고 밝혔다.이번 포상은 대한변리사회가 창립 80주년을 맞아 변리 제도와 지식재산 정책 발전, 사회공헌 및 공공가치 실현, 지식재산 경쟁력 강화 등 국내 지식재산 분야 발전에 기여한 개인과 기업·단체를 선정해 수여했다.",
-      "세라젬은 지속적인 연구 개발을 기반으로 국내외 지식재산권을 확보하고, 이를 제품에 적용하는 한."
+      "울산시가 민선 9기 출범과 함께 시내버스 서비스 확대 정책을 본격 추진한다.",
+      "이번 정책은 김상욱 울산시장 당선인이 강조해 온 시민 중심 교통정책의 핵심 과제로, 시민 생활과 밀접한 대중교통 서비스를 우선적으로 개선하는 데 초점이 맞춰졌다.",
+      "가장 먼저 7월 1일부터 126번(꽃바위~야음~덕하) 노선 운행이 재개된다."
     ],
     "chips": [
       "#정책"
     ]
   },
   {
-    "id": "n6c811ac9",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629028100003",
-    "title": "대한전선, 케이블 생산에 AI 접목 추진…국책과제 선정",
-    "summary": [
-      "(서울=연합뉴스) 조성흠 기자 = 대한전선은 29일 산업통상부와 한국산업기술진흥원(KIAT)이 추진하는 '산업현장문제해결형 산업 AI 에이전트 ..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n1478a4f7",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629032500007",
-    "title": "'커리어 하이' KIA 김호령 \"FA 의식 안 해…20홈런 쳐보고 싶다\"",
-    "summary": [
-      "(서울=연합뉴스) 김동한 기자 = 프로야구 KIA 타이거즈가 서울 잠실구장 7연패 사슬을 끊은 날, 마운드에 김태형(19)이 있었다면 타선에는 ..."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc13e3cb0",
+    "id": "naabcda06",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629033600063",
-    "title": "세종시, 다음 달부터 장애인 의료·요양 통합돌봄 본격 시행",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687374",
+    "title": "명지대, 日 도쿠시마현 지자체·대학과 글로벌 교류 확대",
     "summary": [
-      "(세종=연합뉴스) 양영석 기자 = 세종시는 다음 달 1일부터 65세 미만 중증 장애인을 대상으로 보건·의료·복지 서비스를 통합 제공하는 '장애인..."
+      "[서울=뉴시스]박시은 인턴 기자 = 명지대학교는 지난 11일부터 13일까지 일본 도쿠시마현청의 공식 초청을 받아 현지 지방정부 및 주요 대학을 방문하고, 국제교류 협력 확대 방안을 논의했다고 29일 밝혔다.",
+      "이번 방문에는 임연수 명지대 총장을 비롯해 윤종빈 국제교류처장, 이미숙 미래융합대학 학장, 정규상 국제교류지원팀장 등이 참여했다.",
+      "방문단은 도쿠시마현청과 도쿠시마대학교, 도쿠시마문리대학교 및 도쿠시마문리대학교 단기대학부를 방문해 교육·연구·."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0b76903e",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687393",
+    "title": "드라이브·물놀이·축제…'제주관광 꿀팁' 카카오T로 본다",
+    "summary": [
+      "[제주=뉴시스] 우장호 기자 = 제주관광공사가 여름 휴가철을 맞아 카카오모빌리티와 손잡고 카카오T를 통해 드라이브 코스와 물놀이 명소, 축제 등 제주 여행 정보를 제공한다.",
+      "제주관광공사와 제주도는 여름 성수기 관광객들의 편의를 높이기 위해 카카오모빌리티와 협업한 '여름 제주 200% 즐기는 법' 콘텐츠를 7∼8월 선보인다고 29일 밝혔다.",
+      "이번 콘텐츠는 통합 교통 플랫폼인 카카오 T와 제주 공식 관광정보 플랫폼 비짓제주를 연계해 여행 준비부터."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "nb11bd664",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026062910385033857",
+    "title": "차 털고 신용카드 쓴 여중생 2명 덜미…한 명은 촉법소년",
+    "summary": [
+      "주차된 차량에서 신용카드를 훔쳐 여러 차례 결제한 중학생 2명이 경찰에 덜미를 붙잡혔다.",
+      "이들 중 한 명은 형사 책임연령 미만인 것으로 알려졌다.",
+      "29일 연합뉴스에 따르면 인천 부평경찰서는 중학생 A양, B양을 특수절도, 사기, 여신전문금융업법 위반 혐의 등으로 붙잡아 조사 중이라고 이날 밝혔다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n2c6da084",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026062910395647482",
+    "title": "국내 피지컬 AI 스타트업, 절반은 로봇 분야",
+    "summary": [
+      "국내 피지컬 인공지능(AI) 스타트업 중 절반은 로봇 분야 기업인 것으로 나타났다.",
+      "스타트업얼라이언스는 29일 국내 피지컬 AI 스타트업 현황을 분석한 '2026 피지컬 AI 스타트업맵' 리포트를 발간했다.",
+      "이번 리포트는 AI를 통해 기계가 물리적 세계를 스스로 인식하고 판단해 자율적으로 행동하는 기술 및 시스템을 '피지컬 AI'로 정의하고, 국내 피지컬 AI 스타트업 149개사를 기술 유형과 적용 산업 기준으로 분류해 생태계 현황."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nc3a08943",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260629/134200033/1",
+    "title": "병의원 CT·엑스레이 전국 11만여대…연평균 3.3%씩 증가",
+    "summary": [
+      "전국 병의원에 설치된 X레이(엑스선 촬영장치) 등 진단용 방사선 발생장치는 지난해 기준 11만여 대로 최근 10년간 연평균 3.3%씩 증가한 것으로 나타났다.질병관리청은 진단용 방사선 발생장치 현황을 체계적으로 파악하기 위해 ‘2025년 진단용 방사선 발생장치 통계 연보’를 처음 발간했다고 29일 밝혔다.진단용 방사선 발생장치는 전산화 단층 촬영장치(CT), 일반 엑스선 촬영장치, 유방촬영장치 등 질병을 진단하기 위해 방사선을 이용하는 의료장비."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n2b716df6",
+    "id": "n12d84004",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003686878",
+    "title": "밀양재단 대표 공모 8명 접수…'내정설' 당사자도 신청",
+    "summary": [
+      "[밀양=뉴시스] 안지율 기자 = 경남 밀양문화관광재단 대표이사 공개 모집 이전 '특정인 내정설'로 논란을 겪고 있는 가운데 해당 인사가 실제로 공모에 신청한 것으로 알려졌다.",
+      "재단은 지난 19일부터 26일까지 대표이사(1명)와 비상임이사(1명) 공개 모집을 진행했다.",
+      "29일 뉴시스 취재를 종합하면 공모 마감 결과 대표이사 후보에 8명, 비상임이사에 2명이 최종 접수한 것으로 확인됐다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n91ba0ef6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687400",
+    "title": "석유 최고가 인하 후 첫 평일 …\"1900원대로는 체감 안돼\"[현장]",
+    "summary": [
+      "[서울=뉴시스]이태성 기자, 조서영·김범준·엄선웅 인턴기자 = 지난 주말 석유 최고가격제 도입 이후 처음으로 가격이 인하된 가운데 서울 지역의 주유소들은 1900원대의 휘발유 가격을 보였다.",
+      "시민들은 가격 상승이 멈춰 다행이라면서도 가격 인하를 체감하려면 적어도 1800원대 정도는 돼야 한다며 아쉬움을 나타냈다.",
+      "29일 오전 찾은 서울 강남구 역삼동의 한 주유소."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd88db1f6",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260629/134200027/1",
+    "title": "3경기 같은 전술·가동되지 않은 플랜B…결국 감독의 ‘총체적 부실’",
+    "summary": [
+      "2026년에도 한국 축구에게 월드컵의 벽은 높았다.",
+      "저 멀리 1954년 스위스 월드컵은 차치하고 1986년 멕시코 대회부터 11회 연속 월드컵 본선 무대를 밟고 있는 ‘단골손님’이 됐지만 여전히 수준 차이가 났다.",
+      "지난 실패를 되새겨 보다 나은 성적을 거두기 위해 각 파트별로 많은 노력을 기울였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbe4a9008",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260629/134200021/1",
+    "title": "윤은혜 “13년째 술 끊었다”…신동엽 “이미 평생 마실 양 다 먹어”",
+    "summary": [
+      "그룹 베이비복스 출신이자 배우인 윤은혜가 13년째 금주 중인 근황을 전했다.",
+      "윤은혜는 28일 SBS TV 예능 프로그램 ‘미운 우리 새끼’에 스페셜 MC로 출연해 다양한 이야기를 나눴다.",
+      "이날 MC 신동엽은 “(윤은혜씨가) 흰 쌀밥과 탄산음료, 술을 끊은 지 무려 13년이나 됐다고 하더라”고 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9eac4b8",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629054500053",
+    "title": "대구 상급병원 의료데이터 통합 관리해 AI 의료기기 개발",
+    "summary": [
+      "(대구=연합뉴스) 박세진 기자 = 대구시는 지역 의료데이터를 인공지능(AI) 의료기기 개발에 적극 활용하기 위해 '의료데이터 활용 활성화 업무협..."
+    ],
+    "chips": [
+      "#AI",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2c5b9ffb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/06/29/QBJZW3WNGVE7POLCLCTWUJDG4M/",
+    "title": "송영길 “정청래, 노무현과 등져 장례식도 참석 못 해” 정청래 “허위 사실 유포 사과하라”",
+    "summary": [
+      "송영길 “정청래, 노무현과 등져 장례식도 참석 못 해” 정청래 “허위 사실 유포 사과하라”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6fc29b8e",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260629/134200003/1",
+    "title": "가족 주식 4500주 몰래 팔아 본인 주식 산 50대…2억 횡령 혐의",
+    "summary": [
+      "가족 소유 주식을 임의로 매도한 남성이 징역형의 집행유예를 선고받았다.광주지법 형사3단독 황은정 판사는 횡령 혐의로 기소된 A 씨(57)에게 징역 8개월에 집행유예 2년을 선고했다고 29일 밝혔다.A 씨는 지난 2020년 6월부터 2021년 7월 사이 가족 소유의 주식 4500주를 임의로 매도하는 등 2억 원 상당을 횡령한 혐의로 기소됐다.A 씨는 자신의 증권계좌 신용을 높이겠다며 가족의 주식을 보관하던 중 이를 횡령해 본인 주식투자 등에 사용."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n15db1746",
     "category": "사회",
     "source": "연합뉴스",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629033400005",
-    "title": "이소라, 내달 7년 만의 신곡…\"앞으로는 더 많이 노래\"",
+    "url": "https://www.yna.co.kr/view/AKR20260629059400052",
+    "title": "경부고속도로 양산IC 인근 5t 화물차 화재…차량 정체",
     "summary": [
-      "(서울=연합뉴스) 이태수 기자 = 가수 이소라가 다음 달 7년여 만에 신곡을 발표한다고 소속사 마레힘 엔터테인먼트가 29일 밝혔다."
+      "(양산=연합뉴스) 이준영 기자 = 29일 오전 9시 40분께 경부고속도로 경남 양산시 상북면 양산IC 인근에서 부산 방향으로 달리던 5t 화물차..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nea6c274a",
-    "category": "경제",
+    "id": "n8aaa4d40",
+    "category": "IT",
     "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629033700008",
-    "title": "[인사] 대신증권",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629012500017",
+    "title": "AI로 푸는 생명과학…유전체·컴퓨터생물학 최신 연구 한자리에",
     "summary": [
-      "[인사] 대신증권."
+      "(서울=연합뉴스) 신선미 기자 = 인공지능(AI) 기술이 유전체학 등 생명과학 분야에 적용돼 이뤄낸 연구 활동의 진보를 볼 수 있는 자리가 마련..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n9f6b2f45",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629052900055",
+    "title": "조지훈 전주시장 당선인, 로드맵 중간 점검…시민주권 속도",
+    "summary": [
+      "(전주=연합뉴스) 김동철 기자 = 민선 9기 전북 전주시장직 인수위원회인 '시민주권 열린 전주 위원회'가 출범 이후 논의해 온 공약 로드맵의 완..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9acc32ca",
+    "id": "n2d88ad88",
     "category": "경제",
     "source": "연합뉴스(경제)",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629031000063",
-    "title": "[인사] 지식재산처",
-    "summary": [
-      "[인사] 지식재산처."
-    ],
+    "url": "https://www.yna.co.kr/view/AKR20260629058900062",
+    "title": "[속초소식] 하수처리시설 유휴부지에 주차장 조성…무료 개방",
+    "summary": [],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c18856e",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629031500008",
-    "title": "삼성증권 \"금융자산 30억 이상 자산가 업계 첫 1만명 돌파\"",
-    "summary": [
-      "(서울=연합뉴스) 김태종 기자 = 삼성증권[016360] 고객 중 금융자산 30억원 이상 개인 고객 수(법인 제외)가 업계 처음 1만명을 넘었다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf726076c",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629029900003",
-    "title": "SK에코플랜트, 2천48억원 용인 수지삼성2차 재건축 수주",
-    "summary": [
-      "(서울=연합뉴스) 임기창 기자 = SK에코플랜트는 경기 용인시 수지삼성2차아파트 재건축 사업을 수주했다고 29일 밝혔다."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
     ]
   }
 ];
@@ -637,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
+    "tag": "채용",
     "mentions": "1550건",
     "trend": "+135%"
   }
