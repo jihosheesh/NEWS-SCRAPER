@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-29 18:37:35
+// 마지막 업데이트: 2026-06-29 19:32:44
 window.NEWS_DB = [
   {
     "id": "nd69f275c",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPcHQ5eHN3cnJranlOSWJrU2tXWlVzZ2x3c0RzUzNEZTNBaUdHeVc2UUpUWm9lUDFheGc2THJBVWZqbVRzTHdqUC1CZk1yOVo3M1FLU3YzTEVHMTJROUcwTjJhUmdlZ2RNWU82MDlxNmlVNFE?oc=5",
     "title": "중국 화웨이 '엔비디아 빈 자리' 채운다, 미국의 AI 반도체 수출 규제로 반사이익",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "na9c15208",
     "category": "사회",
     "source": "뉴시스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
     "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
     "summary": [
@@ -69,7 +69,7 @@ window.NEWS_DB = [
     "id": "nca9f8a56",
     "category": "IT",
     "source": "블로터",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
     "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
     "summary": [
@@ -316,10 +316,198 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9d18a250",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003688270",
+    "title": "삼성전자 400조 투자 '광주 팹' 청사진은…\"반도체 생산거점 수도권·호남 양대 축으로\"",
+    "summary": [
+      "[서울=뉴시스]박나리 기자 = 삼성이 광주 신규 반도체 팹(Fab·생산공장) 건설을 추진하며 국내 반도체 생산 거점을 호남권으로 넓힌다.",
+      "그동안 국내 반도체 생산 기반은 기흥·화성, 평택, 용인 등 수도권을 중심으로 형성돼 왔다.",
+      "광주에 대규모 반도체 제조공장이 들어서면 국내 반도체 산업은 수도권과 호남권을 양대 축으로 하는 클러스터 구도를 갖추게 된다."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n9626d5b4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003688410",
+    "title": "[오늘의 주요일정]제주(6월30일 화요일)",
+    "summary": [
+      "[제주=뉴시스] ▲오전 10시, 강정마을 생태 및 물 등 공동체 문제 브리핑, 제주도의회 도민카페 ▲오전 10시, 2026년 노인지도자 역량강화 워크숍, 한라아트홀대극장 ▲오전 10시, 2026년 상반기 정기 유공자 표창 수여식, 제주도청 탐라홀 ▲오전 10시, 제5기 제주시 지역사회보장계획 2026년 시행계획 담당교육, 제주시청 본관 ▲오전 10시, 서귀포시 2026년 생물테러 대비 소규모 모의훈련, 서귀포시 동부보건소 힐링센터 ▲오전 10시."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb66e5a07",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630003800072",
+    "title": "한은 \"AI투자 美경제 핵심동력…대규모 투자 지속될 것\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 인공지능(AI) 기술 확산에 따른 컴퓨팅 수요 급증과 데이터센터 투자 확대가 미국 경제의 핵심 성장 동력으로..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nb58b7795",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/06/30/ZBNM6XWV5BBPPBZ3AWI5Y4KMCQ/",
+    "title": "“홍명보 나가” “한국 축구는 죽었다” 난장판 된 홍명보호 입국 현장",
+    "summary": [
+      "“홍명보 나가” “한국 축구는 죽었다” 난장판 된 홍명보호 입국 현장."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfdda7ec3",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/30/2026063004194565631",
+    "title": "트럼프 지명한 대법관까지…\"'선거일 후 도착' 우편투표도 합법\"",
+    "summary": [
+      "미국 연방대법원이 선거일 이후 도착한 우편투표를 유효표로 집계하는 일부 주(州)의 제도에 대해 29일(현지시간) 합법 판결을 내렸다.",
+      "보수 우위의 대법원이 사실상 도널드 트럼프 미국 대통령에게 불리한 판결을 내렸다는 점에서 오는 11월 중간선거를 앞두고 정치적 영향에 이목이 쏠린다.",
+      "대법원은 이날 공화당 전국위원회(RNC)와 미시시피주 공화당이 2024년 일부 주의 우편투표 관련법과 관련해 제기한 소송에서 연방법에 위배되지 않는다고 판결했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na7b4bfea",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630004000007",
+    "title": "[월드컵] '후반 50분 역전골' 브라질, 일본 2-1로 꺾고 16강 진출",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = 24년 만의 세계 정상 탈환을 노리는 '삼바 군단' 브라질이 일본에 진땀승을 거두고 2026 국제축구연맹(FI..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfefecec6",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/30/2026063004161482940",
+    "title": "The JGS 시리즈 2, 성문안CC서 성공적 마무리... 'WAGR 포인트·글로벌 출전권' 놓고 치열한 경쟁",
+    "summary": [
+      "The JGS Korea가 주최한 'The JGS Series 2'가 지난 6월 22일부터 24일까지 강원도 원주에 위치한 성문안 컨트리클럽에서 성공적으로 마무리됐다.",
+      "성문안CC는 국내 최고 수준의 코스 컨디션과 차별화된 시설을 갖춘 프리미엄 골프장으로 평가받는다.",
+      "이번 대회에는 국내외 주니어 선수들이 참가해 세계 무대를 향한 치열한 경쟁을 펼쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n25cb0715",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630003500075",
+    "title": "20대 이민자 對 15선 의원…美민주사회주의 바람 콜로라도까지?",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 진보성향이 강한 미국 콜로라도주(州)에서 민주당 예비선거(프라이머리·경선)을 앞두고 정계 경험이 없는..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6eb5c3eb",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/estate/2026/06/30/2026062920050352672",
+    "title": "'그림의 떡' 아파트 대신 여기로 우르르…59㎡가 16.8억? 신고가 속출",
+    "summary": [
+      "거래량도 1년새 10.74% 증가 수도권 중심 주거형 청약 '열기' 소형은 하락세, 면적별 양극화 서울 대형 오피스텔 매매가격이 1년 새 9% 넘게 오른 반면 소형면적은 하락세를 이어가면서 면적별 가격 양극화가 뚜렷해진다.",
+      "부동산 시장에서는 전셋값 상승과 아파트 대출규제 강화 속에 대형 오피스텔이 아파트 대체 주거상품으로 주목받고 있다는 분석이 나온다.",
+      "29일 KB국민은행 KB부동산에 따르면 이달 서울 대형 오피스텔 매매가격은 전년 동월 대비."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nb2d21705",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/economy/2026/06/30/2026062920145544545",
+    "title": "\"다시 제조업\" 수도권·영남 이어 서남권까지 산업지도 확장",
+    "summary": [
+      "3대 메가프로젝트 보고회 서남권에 제2의 반도체기지 새만금·대경권엔 피지컬 AI 주거·교육 등 지원책 마련도 정부가 29일 발표한 '3대 메가프로젝트'는 대한민국의 산업지도를 다시 그리는 작업이다.",
+      "이재명 대통령이 표현한 것처럼 '한국형 AI(인공지능) 산업혁명'의 핵심으로 반도체와 피지컬 AI, AI데이터센터를 내세우고 기업투자, 정부지원을 엮는다는 구상이다.",
+      "무엇보다 한국을 대표하는 기업이 전면에 등장했다는 점이 두드러진다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nf1e49af3",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003688590",
+    "title": "'32강행 좌절' 홍명보호, 귀국…'계란·엿' 없이 팬들 야유만 받으며 떠나[월드컵24시]",
+    "summary": [
+      "[인천공항=뉴시스] 김진엽 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵에서 조별리그 탈락이란 최악의 성적표를 받은 홍명보호가 팬들의 야유를 받으면서 입국했다.",
+      "홍명보 감독이 지휘해 온 한국 축구 대표팀은 30일 오전 3시52분께 인천국제공항 제2터미널 A입국장을 통해 귀국했다.",
+      "홍 전 감독은 취재진의 여러 질문을 받았지만 침묵한 채 떠났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5536d757",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003688588",
+    "title": "일본, '남미 강호' 브라질에 1-2 역전패…32강서 대회 마무리[월드컵24시]",
+    "summary": [
+      "[서울=뉴시스] 김진엽 기자 = 일본 남자 축구 대표팀이 '우승 후보' 브라질에 역전패를 당하면서 2026 국제축구연맹(FIFA) 북중미 월드컵을 32강에서 마무리했다.",
+      "일본은 30일(한국 시간) 미국 텍사스주 휴스턴의 휴스턴 스타디움에서 열린 브라질과의 북중미 월드컵 32강에서 1-2 역전패를 당했다.",
+      "조별리그 F조에서 1승2무(승점 5)의 무패로 32강에 진출한 일본은 토너먼트 첫 경기에서 패배하면서 이번 대회를 마쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n3490f8b8",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "22분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152980",
     "title": "'조직 안정화' 약속한 김태환 카카오게임즈 대표 \"본업인 퍼블리셔 집중...유저 즐거움 찾겠다\"",
     "summary": [
@@ -332,70 +520,69 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n639881d9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003688584",
-    "title": "美대법원, 트럼프의 연준 이사 해임 제동…\"절차 보장해야\"",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 미국 연방대법원이 29일(현지 시간) 도널드 트럼프 미국 대통령의 리사 쿡 연방준비제도(Fed·연준) 이사 해임 시도에 제동을 걸었다.",
-      "액시오스, 뉴욕타임스(NYT) 등에 따르면 대법원은 이날 5대 4 판결로 쿡 이사가 해임 소송이 진행되는 동안 직위를 유지할 수 있다고 판결했다.",
-      "대법원은 \"대통령은 쿡 이사가 법률에 따라 보장받아야 할 절차적 보호를 제공하지 않았다\"며 \"쿡 이사는 문제가 된 증거에 대한 설명과."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nca45ee73",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003688587",
-    "title": "프랑스·오만 \"호르무즈 기뢰제거 협력\"…이란 \"도발 행위\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 프랑스와 오만이 호르무즈 해협에서 기뢰 제거 작업을 위해 협력할 것이라고 29일(현지 시간) 발표하자, 이란은 도발 행위라며 반발했다.",
-      "에마뉘엘 마크론 프랑스 대통령은 이날 소셜미디어(SNS) 엑스(X)에 하이탐 빈 타리크 오만 술탄과 회담 소식을 공유하며 \"우리는 중동 지역 긴장완화를 위해 함께 노력하고 있다\"고 적었다.",
-      "그러면서 \"우리는 호르무즈 해협을 통한 자유롭고 무조건적인 통행을 보장하고 해상 항로를."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndd2ce886",
-    "category": "스포츠",
+    "id": "nc6bc3809",
+    "category": "경제",
     "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630001700007",
-    "title": "'월드컵 32강 불발' 축구대표팀, 홍명보 감독·선수 8명 귀국",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630003200098",
+    "title": "'무역 긴장 고조' EU-중국, 10월까지 갈등 해소 모색키로",
     "summary": [
-      "(영종도=연합뉴스) 최송아 기자 = 2026 북중미 월드컵에서 조별리그를 통과하지 못한 축구 국가대표팀의 홍명보 감독과 일부 선수가 귀국했다."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 무역 불균형 문제로 대립 수위를 높이고 있는 유럽연합(EU)과 중국이 오는 10월을 양측의 무역 갈등을 풀..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nffe8fa2d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/06/30/MQ3DMNJSGA4DKNJSGA3DCNZWHE/",
+    "title": "‘마르티넬리 극장골 작렬’ 브라질, 일본에 2-1 대역전승...우승희망 일본 그대로 탈락...브라질 16강행",
+    "summary": [
+      "[OSEN=서정환 기자] 삼바군단 브라질이 기적적으로 일본을 잡았다.",
+      "브라질은 30일 새벽 2시(한국시간) 미국 텍사스주 휴스턴 NRG 스타디움에서 개최된 2026 FIFA 북중미월드컵 32강전에서 일본을 2-1로 이겨 16강에 진출했다.",
+      "우승을 목표로 했던 일본은 32강에서 허무하게 탈락했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n75a9698e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630002200079",
-    "title": "이란 \"호르무즈 기뢰 제거는 우리가…佛 상황 꼬이게 하지 마\"",
+    "id": "n6ba91b97",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630003000002",
+    "title": "달러-원, 야간 거래서 숨고르기 …1,543.00원 마감",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 에마뉘엘 마크롱 프랑스 대통령이 호르무즈 해협의 기뢰 제거 작업 동참을 언급하자, 이란이 이를 도발로 간주..."
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 상승폭을 일부 줄였다."
     ],
     "chips": [
-      "#정치"
+      "#환율"
+    ]
+  },
+  {
+    "id": "n783cc132",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "53분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/06/30/HBSGMN3DHFQWMMBSHA3GIODEME/",
+    "title": "\"생계 생각하지 않을 수 없었다\" 은퇴경기 148km KKK 무실점…25년 커리어 마침표, \"나를 필요하는 팀이 있다면 다시 던질 것\"",
+    "summary": [
+      "[OSEN=울산, 조형래 기자] “울산이 한 2~3km 덜 나오더라구요.”1,2군 통틀어서 현역 최고령 선수였던 고효준(43)이 KBO 최초 시민구단 울산 웨일즈에서 현역 생활을 마무리 했다.",
+      "고효준은 지난 27일, 구단을 통해 은퇴를 발표했고 28일 울산 문수구장에서 열린 퓨처스리그 롯데 자이언츠와의 경기에서 은퇴식을 진행했다.자신의 은퇴경기에서도 마운드."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
     "id": "n4eae529f",
     "category": "IT",
     "source": "테크M",
-    "time": "35분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152979",
     "title": "오딘: 발할라 라이징, 나흘째 구글 매출 2위...5주년 업데이트 효과",
     "summary": [
@@ -411,7 +598,7 @@ window.NEWS_DB = [
     "id": "na535de80",
     "category": "사회",
     "source": "조선일보",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/culture-life/book/2026/06/30/5EJNAYCRGFEINPXW27JLFF27LY/",
     "title": "[32화] “닭 잡는 데 어찌 소 잡는 칼을 쓰랴”",
     "summary": [
@@ -422,52 +609,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na72685d1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "37분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/06/30/WRWO724GNRBP7D43DDVXMUMCTQ/",
-    "title": "심박수 170bpm을 찍기까지… 숨이 차야 비로소 완성되는 달리기",
-    "summary": [
-      "심박수 170bpm을 찍기까지… 숨이 차야 비로소 완성되는 달리기."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nca70f6f4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "37분 전",
-    "url": "https://www.chosun.com/international/china/2026/06/30/KDKHCHTRIVHBLKQ27BXDCMABWE/",
-    "title": "세계 2위의 희토류 보유국을 잡아라… ‘몽골’ 두고 중·일 외교전",
-    "summary": [
-      "세계 2위의 희토류 보유국을 잡아라… ‘몽골’ 두고 중·일 외교전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b45e06f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "37분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/06/30/NUUMFJVEWJAC3F4PCJZDOSOH3Y/",
-    "title": "“배송 10분 넘으면 실망스러울 정도”… 인도서 ‘퀵커머스 서비스’ 폭발적 성장",
-    "summary": [
-      "“배송 10분 넘으면 실망스러울 정도”… 인도서 ‘퀵커머스 서비스’ 폭발적 성장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "naf35756b",
     "category": "스포츠",
     "source": "테크M",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152973",
     "title": "[카드뉴스] 이게 정말 e스포츠 맞아?.. 크래프톤의 파격 실험 'PNC2026'이 특별했던 이유",
     "summary": [
@@ -480,148 +625,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8c1ef775",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630001800091",
-    "title": "앤트로픽, 아마존에 AI 사용요금 인상…관계 멀어지나",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 세계 최대 클라우드 기업 아마존이 앤트로픽의 인공지능(AI) 모델 이용 계약을 재협상하면서 비용 부담..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "n978db25b",
     "category": "스포츠",
     "source": "테크M",
-    "time": "44분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=152977",
     "title": "[MSI 브리핑] \"무실점 전승 행진\"...T1, KC마저 3대0 완파하고 최종진출전 선착",
     "summary": [
       "T1이 무실세트로 플레이인 최종진출전에 안착했습니다.",
       "29일 대전 대전컨벤션센터에서 열린 2026 미드 시즌 인비테이셔널(MSI) 플레이인 스테이지 2라운드 승자조 경기에서 유럽의 카르민 코프(KC)를 세트 스코어 3대0으로 셧아웃시켰습니다.",
       "한편 패자조에서는 북미의 팀 리퀴드가 아시아 태평양 대표 DCG를 3대0으로 완파하고 패자조 결승에 진출하면서, T1과 본선 브래킷 스테이지 직행권을 두고 다툴 최종전 상대는 팀 리퀴드와 KC의 맞대결 승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n48b5172e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630000451071",
-    "title": "美대법, '선거일後 도착' 우편투표 합법 판결…트럼프에 타격(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 연방 대법원이 선거일 이후 도착한 우편투표를 유효표로 집계하는 일부 주(州)의 제도에 대해 합법이라는..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc6eba1dd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003688581",
-    "title": "독일, 청소년 시설서 총격 사건…성인 6명 사망·용의자 체포",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 독일 북부 도시의 한 청소년 시설에서 29일(현지 시간) 총격 사건이 발생해 최소 6명이 사망하고 여러 명이 다쳤다.",
-      "도이체벨레(DW), 가디언 등에 따르면 이날 독일 북부 도시 슈타데(Stade)의 청소년 보호센터에서 총격 사건이 발생해 5명이 현장에서 숨졌다.",
-      "1명은 총상을 입고 병원으로 이송돼 사망했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd4fc1fda",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "1시간 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/06/30/LKLQMSKUEFC3RNWAJKHOVP4JT4/",
-    "title": "로켓랩, 12조3500억원 들여 이리듐 인수… 발사체 넘어 위성통신까지 확장",
-    "summary": [
-      "로켓랩, 12조3500억원 들여 이리듐 인수… 발사체 넘어 위성통신까지 확장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d8a8f9a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003688576",
-    "title": "英 총리 후보 버넘, 첫 정책 연설…'북부 총리실' 공식 제안",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 영국 차기 총리 후보인 앤디 버넘 하원의원이 29일(현지 시간) 지방분권 강화를 골자로 하는 '북부 총리실(No.",
-      "10 North)' 구상을 공식화했다.",
-      "영국 BBC, 가디언 등에 따르면 버넘 의원은 이날 자신의 지역구 맨체스터에서 첫 정책 연설을 진행하고 총리실의 일부 부서를 런던 다우닝가 10번지에서 잉글랜드 북서부 맨체스터로 이전하겠다고 밝혔다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nc2f3a1fb",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026062952201",
-    "title": "트럼프 \"30일 이란과 카타르서 회담\"",
-    "summary": [
-      "트럼프 \"30일 이란과 카타르서 회담\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37367e25",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260630/134205706/1",
-    "title": "‘홍길동’ FIFA 회장, 17일간 5만㎞ 비행…온실가스 배출 논란",
-    "summary": [
-      "잔니 인판티노 국제축구연맹(FIFA) 회장이 2026 북중미 월드컵 조별리그 기간 5만㎞가 넘는 거리를 이동했다.영국 BBC는 인판티노 회장의 이동에 배출된 이산화탄소환산량(CO₂e)이 약 516톤으로 추정된다며, 이는 1년 동안 약 78명의 배출량과 같다고 지적했다.인판티노 회장은 지난 12일(이하 한국시간) 멕시코 멕시코시티 스타디움에서 열린 2026 북중미 월드컵 개막전부터 28일 K조 조별리그 포르투갈-콜롬비아전까지, 17일 동안 조별리."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n123785ca",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260630/134205703/1",
-    "title": "류준열, UAA 소속 1년만에 갤럭시코퍼 이적설 “정해진 것 없어”",
-    "summary": [
-      "배우 류준열이 UAA에 몸 담은지 1년 만에 갤럭시코퍼레이션 이적설이 나왔다.29일 류준열이 UAA를 떠나 갤럭시코퍼레이션으로 이적을 논의 중이라는 보도가 나오자, UAA 측은 “정해진 것은 없다”라고 했다.이에 대해 갤럭시코퍼레이션은 공식입장을 밝히지 않았다.UAA는 지난해 6월 류준열과의 전속계약 소식을 알렸다.",
-      "1년만에 류준열의 소속사 이적설이 나와, 그의 거취에 관심이 모이고 있다.UAA는 14년간 몸담았던 송혜교가 최근 전속계약을 마무."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n87e35569",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260630/134205700/1",
-    "title": "하츠투하츠 ‘레몬 탱’, 하프 밀리언…“자체 초동 최고”",
-    "summary": [
-      "포커싱 그룹 ‘하츠투하츠’(Hearts2Hearts·하투하)가 새 앨범으로 하프 밀리언셀러에 등극했다.29일 소속사 SM엔터테인먼트와 한터차트에 따르면, 지난 22일 발매된 하츠투하츠의 두 번째 미니앨범 ‘레몬탱’(Lemon Tang)은 초동 판매량 59만 2312장을 기록하며 자체 최고 기록을 경신했다.이번 앨범은 써클 주간 리테일 앨범 차트 1위를 차지했다.",
-      "동명의 타이틀곡은 중국 QQ뮤직 K팝 주간 차트 및 급상승 차트 정상에 올랐다.지난."
     ],
     "chips": [
       "#뉴스"
@@ -634,20 +647,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "부동산",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
