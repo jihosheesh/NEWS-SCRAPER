@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-28 23:21:49
+// 마지막 업데이트: 2026-06-29 00:29:23
 window.NEWS_DB = [
   {
     "id": "n12b85d1f",
     "category": "IT",
     "source": "ER 이코노믹리뷰",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrZjBVakExbEVveFhHOU03SFRsb08tTkRNdWg1WkwybGJ5NUN0NjVzZGtMZVl4WEswSmN0d2RPQlprQTNOU1hNcGhwYzBKR05JTkpTTDZtblZJQ1VadXdES24xRVdsN0FLbUE3Qw?oc=5",
     "title": "딥엑스·리벨리온, 엔비디아 맞서 AI 반도체 '생태계 전쟁' 나선다",
     "summary": [
@@ -64,10 +64,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9c1afe03",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IOWp1WENobjJGZ3pwaTI3bzdpMGFFek9Ja1QwLVVyYVJ3bG1lbG5UZzBsajE0cnBwTzFNajlYcnhPNjhjVnlZT3R1YnpwWmtyRmZXSzc5cTkxLTRMU0NCMw?oc=5",
+    "title": "2026 'KBO DREAM CUP 독립야구대회' 개막",
+    "summary": [
+      "2026 'KBO DREAM CUP 독립야구대회' 개막 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nc48b08b9",
     "category": "IT",
     "source": "시사저널e",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
     "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
     "summary": [
@@ -167,20 +181,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f660c1e",
-    "category": "IT",
-    "source": "전라매일",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
-    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
-    "summary": [
-      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -226,51 +226,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd0c82b8d",
-    "category": "사회",
-    "source": "대학IN",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbnQ1MjBUWVFGMjNWajgyR3BsVU1wb2FCZlg2dTlGTnMtaWxTQXVSLS1OWFhOYTV3WHptNkhuVWh1aDZGek1XTk0zNHotZ1ZBN0ZLRG1Icy1ScmVHSW81aVdlWW1IbVU5clRuZ9IBcEFVX3lxTFBfeFRQeDBzZklua2VYQzJjRTlpdDdsQzk2a1lHUzc3VjBwVW5BUXBya251b095QVdLYmI1R2FvX2FPZVZ4WE5mMno0ZnUzWmhqUEtZdFhPWTFRaU1WODZRbU9yNE50UXhybnpLcVFTZ2E?oc=5",
-    "title": "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최",
-    "summary": [
-      "한국외대, 고용노동부와 ‘2026 공정채용 청년구직자 세미나’ 개최 대학IN."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n2fb9b7e1",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiRjB1Vm9MdUtXVTBQX3p5VTBmSTZOei1HdjRYUXJ4bncyTFU4NEtDcEN3aTJRdFZMTXpocjV5cjFWTjFGUU9SYThvMU5BQ2hFWGZoRUF3dFVKdXhx?oc=5",
-    "title": "레전드와 함께한 1박2일…KBO, 보은서 '야구로 통하는 티볼캠프' 개최",
-    "summary": [
-      "레전드와 함께한 1박2일…KBO, 보은서 '야구로 통하는 티볼캠프' 개최 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nab6cf729",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XblZjRWlrMExZMUo3T1BvZHdMcFp0d1ZMNktBb2Q3X0F0aGZEb2FJY2lVNnhzeFI3NFJiTFVrb0gwWjAyRHVXb0NmYlJ0d1VEUGhuUUh3R2wyQ1lS?oc=5",
-    "title": "KBO 선수협까지 나선 SNS 폭력, ML도 마찬가지…\"언제부터 야구가 게임 아니게 됐나\"",
-    "summary": [
-      "KBO 선수협까지 나선 SNS 폭력, ML도 마찬가지…\"언제부터 야구가 게임 아니게 됐나\" 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -283,6 +238,34 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "88일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "125일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -317,325 +300,334 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd4768177",
-    "category": "스포츠",
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "내 손안에 서울",
+    "time": "240일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 내 손안에 서울."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n25a832e2",
+    "category": "경제",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152936",
-    "title": "[e스포츠人] 5점 차 통한의 준우승...한국 대표팀 감독 \"별은 내년에 반드시 달겠다\"",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152937",
+    "title": "[크립토 브리핑] ETF 순유출 계속...비트코인 9000만원도 위태",
     "summary": [
-      "우승까지 단 5점이 모자랐던, 한국 배틀그라운드 e스포츠 국가대표팀에게는 너무나도 아쉽고 통한이 남는 준우승이었습니다.",
-      "28일 서울 장충체육관에서 펼쳐진 2026 펍지 네이션스컵(PNC)에서 브라질에 20점 뒤진 채 3일차 마지막 경기를 시작했던 한국 대표팀의 김성민 감독은 경기 후 인터뷰를 통해 솔직한 아쉬움을 털어놓았습니다.김 감독은 \"시작 전만 해도 1위와의 점수 차이가 무려 20점이나 났기 때문에 2등만 해도 나쁘지 않을 것이라 생각했다."
+      "비트코인 가격이 연일 하락세를 이어가고 있다.",
+      "미국 연방준비제도(Fed)의 금리 인상 가능성이 거론되고, 비트코인 현물 상장지수펀드(ETF)에서 자금 유출이 이어지는 등 반등 계기를 찾지 못하고 있다.29일 글로벌 가상자산 시황중계 사이트 코인마켓캡에 따르면 이날 오전 8시 40분 기준 비트코인 가격은 전일 동시간 대비 0.56% 하락한 9154만4667원을 기록했다.알트코인은 혼조세다.",
+      "이더리움은 전일 대비 0.01% 상승한 241만4221원."
     ],
     "chips": [
-      "#뉴스"
+      "#금리"
     ]
   },
   {
-    "id": "n9a9b931c",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/world/2026/06/29/2026062907551016311",
-    "title": "강경한 이란…최고지도자 \"미국·이스라엘, 전쟁범죄 처벌할 것\"",
-    "summary": [
-      "아야톨라 모즈타바 하메네이 이란 최고지도자는 28일(현지 시간) 미국과 이스라엘 지도자들을 전쟁범죄 혐의로 기소할 것을 촉구했다.",
-      "알자지라에 따르면 하메네이는 이날 자신의 엑스(X) 계정을 통해 미국·이스라엘의 지난해 및 올해 대(對)이란 공습에 대한 법적 책임 규명을 \"이란 국민에게 가장 중요한 법적 현안\"이라며 \"국제 범죄자와 오만한 세계 강대국과 침략자들의 위반 행위\"라고 비난했다.",
-      "특히 \"미나브와 라메르드 지역의 아동 살해, 의료시설 공."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nace6a474",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/stock/2026/06/29/2026062907490058026",
-    "title": "\"삼성전자, 성과급 지출로 2분기 영업이익 기대치 하회할 것\"-키움",
-    "summary": [
-      "키움증권은 성과급 지출로 삼성전자의 2분기 영업이익이 기대치에 미치지 못할 것이라고 29일 분석했다.",
-      "목표주가 43만원과 투자의견 '매수'를 유지했다.",
-      "또 반도체 업종 내 최선호주를 유지했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n865cdb16",
+    "id": "n2e0b1b54",
     "category": "스포츠",
     "source": "동아일보",
     "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260629/134199032/1",
-    "title": "서울 낮 최고 33도 ‘무더위’…오후 전국 곳곳 소나기",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260629/134199396/1",
+    "title": "‘놀러코스터’ 최강록 “‘흑백2’ 우승 후 관심, 낯설고 무서워”",
     "summary": [
-      "월요일인 29일은 서울 낮 최고 33도까지 오르는 무더위가 나타나겠다.",
-      "또 내륙을 중심으로 소나기가 내리는 곳이 있겠다.이날 기상청은 “당분간 전국 내륙을 중심으로 낮 기온이 30도 이상으로 오르겠고, 최고체감온도가 31도 안팎으로 오르는 곳이 많겠다”고 밝혔다.이날 오후부터 저녁 사이 서울·경기내륙과 강원내륙·산지, 충청권내륙, 전라권내륙, 경남서부내륙에 소나기가 내리는 곳이 있겠다.예상 강수량은 ▲서울·경기내륙 5~40㎜ ▲강원내륙·산지 5."
+      "요리사 최강록이 ‘흑백요리사2’ 우승 후 심적 부담감을 느꼈다고 말했다.",
+      "지난 28일 방송된 MBC 예능 프로그램 ‘놀러코스터’에서는 노홍철, 최강록, 고경표, 빠니보틀이 스페인을 대표하는 테마파크에서 롤러코스터를 도장 깨기에 성공했다.",
+      "롤러코스터 체험과 함께 출연진의 진솔한 교감도 그려졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfb9e745b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026062908190462568",
-    "title": "GC녹십자웰빙, 美 임상 3상 앞둔 지방분해주사 도입",
-    "summary": [
-      "GC녹십자웰빙이 미국 식품의약국(FDA) 임상 3상 진입을 앞둔 차세대 국소 지방분해주사제를 도입하며 비만 및 메디컬 에스테틱 사업 확대에 나선다.",
-      "GC녹십자웰빙은 미국 바이오기업 라지엘테라퓨틱스(이하 라지엘)와 차세대 국소 지방분해주사제의 국내 독점 개발 및 상업화 권리를 확보하는 라이선스인 계약을 체결했다고 29일 밝혔다.",
-      "이번 계약으로 GC녹십자웰빙은 라지엘이 개발 중인 지방분해주사제의 국내 개발과 판매 권리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8f7a673f",
-    "category": "사회",
+    "id": "n1f6431b4",
+    "category": "부동산",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003686917",
-    "title": "애경산업, 재일동포 인재 성장 돕는다…'국인 글로벌 멘토링' 후원",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687135",
+    "title": "홍익표, 유시민 '재건축론'에 \"재개발도 있다고 생각…국민이 판단할 것\"",
     "summary": [
-      "[서울=뉴시스]오제일 기자 = 애경산업은 재일동포 미래 인재 육성을 위해 대학생 교육기부단체 '국인'의 '제17회 국인 글로벌 멘토링'을 후원했다고 29일 밝혔다.",
-      "'국인'은 '국가적 인재, 국제적 인재'의 줄임말로, 재일동포 3·4세 학생들을 위한 글로벌 멘토링 프로젝트다.",
-      "2010년부터 한국 대학생과 재일동포 학생 간의 교류를 통해 한국어와 한국 문화를 교육하고 미래세대가 글로벌 인재로 성장할 수 있도록 지원하고 있다."
+      "[서울=뉴시스] 김지은 기자 = 홍익표 청와대 정무수석은 29일 유시민 작가가 이재명 대통령의 외연 확장 행보를 '재건축'에 빗대 비판한 것과 관련 \"더 나아가서 재개발도 있었다고 생각한다\"고 밝혔다.",
+      "홍 수석은 이날 오전 SBS 라디오 '김태현의 정치쇼'에 나와 \"유 작가의 발언이 굉장히 영향력이 큰 부분은 있지만, 그 한 분의 발언에 저희가 일일이 대응하기는 참 그렇다\"면서도 이같이 말했다.",
+      "그는 \"갑자기 증축, 재건축 전문용어가 나왔는데."
     ],
     "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne169aeac",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003686913",
-    "title": "서울 화랑대사거리 덤프트럭 추돌사고…2명 부상",
-    "summary": [
-      "[서울=뉴시스]이태성 기자 = 29일 오전 6시59분께 서울 노원구 공릉동 화랑대사거리에서 차량 3대가 추돌하는 교통사고가 발생해 2명이 병원으로 이송됐다.",
-      "소방당국에 따르면 이날 오전 화랑대사거리에서 덤프트럭 등 차량 간 교통사고가 발생했다는 신고가 접수됐다.",
-      "이 사고로 2명이 다쳐 병원으로 이송됐다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n1318a2ac",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260629/134199022/1",
-    "title": "‘남아공전 직관’ 이경규 “김민재, 벤치로 들어온 후 버럭 화 내더라”",
-    "summary": [
-      "축구 애호가 이경규가 멕시코에서 ‘2026 북중미 월드컵’을 본 생생한 관람기를 전했다.",
-      "이경규는 28일 오후 방송된 KBS 2TV 예능물 ‘사장님 귀는 당나귀 귀’(‘사당귀’)에서 이번 월드컵 조별리그 3차전 남아공전 후반 중반에 교체된 장면에 대해 설명했다.당일 대한민국 벤치 바로 뒤에서 응원한 그는 “김민재가 벤치로 들어온 후 버럭 화를 내더라고.",
-      "교체 이유를 정확히 알 수 없지만 김민재를 왜 교체했는지 이해되지 않더라”라며 직접 목격한."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb49c64a4",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/stock/2026/06/29/2026062908164074603",
-    "title": "신세계, 명품 매출 오르고 면세도 반등 중…목표가 114% 상향-유안타",
-    "summary": [
-      "신세계가 내국인 명품 소비 확대와 외국인 관광객 확대 등 영향으로 실적 성장이 지속될 것이라는 관측이 나왔다.",
-      "이승은 유안타증권 연구원은 29일 리포트에서 \"신세계에 대해 투자의견 Buy(매수)를 유지하고 목표주가는 91만원으로 상향한다\"고 밝혔다.",
-      "직전 목표 주가는 지난 3월9일 제시했던 42만5000원이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2bcbf345",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026062908172435445",
-    "title": "강원도, 대학 장벽 허문 ‘지식 용광로’…평창에 첨단 인재 4000명 모인다",
-    "summary": [
-      "대한민국 첨단 산업의 미래를 짊어질 청년 인재들이 강원도 평창으로 모여든다.",
-      "전공과 대학의 벽을 허물고 인공지능(AI), 로봇, 미래차 등 4차 산업혁명의 핵심 기술을 갈구하는 '지식의 용광로'가 평창 알펜시아에 차려지는 것이다.",
-      "강원특별자치도는 29일부터 7월 3일까지 4박 5일간 평창 알펜시아 리조트 일원에서 '제5회 Co-Week 아카데미'를 개최한다고 밝혔다."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n4dd11f84",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003686911",
-    "title": "사진으로 보는 지난 주말 [뉴시스Pic]",
-    "summary": [
-      "◆무거운 분위기 속 손흥민과 이강인 ◆이동하는 김민석-정청래 ◆귀국하는 송영길 의원 ◆악수하는 안규백 국방부 장관-고이즈미 신지로 일본 방위대신 ◆태극기와 성조기 들고 \"부정선거, 재선거\" 외치는 시위 참가자들 ◆대회사 하는 김택우 대한의사협회 회장 ◆2026 서울국제도서전 마지막 날까지 인파 가득 ◆10개에 5천원 넘긴 계란 ◆부산모빌리티쇼 관심 ◆부산 해운대해수욕장 피서객 '북적' ◆야말 '이미 지나간 뒤'."
-    ],
-    "chips": [
-      "#손흥민",
+      "#재건축",
       "#정치"
     ]
   },
   {
-    "id": "n52d48269",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/06/29/4WOA2JZBX5ARNLHIGI7K4BUAEQ/",
-    "title": "이정후, 3경기 만에 안타 생산…김하성은 타율 6푼대로 추락",
-    "summary": [
-      "이정후, 3경기 만에 안타 생산…김하성은 타율 6푼대로 추락."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nccdd384a",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026062908154627000",
-    "title": "수원시, 노후 빌라 체계적 관리…'빌라가꿈관리소' 확대",
-    "summary": [
-      "경기 수원시가 노후 빌라 밀집 지역의 주거 환경을 개선하고, 체계적인 관리 체계를 구축하기 위해 '빌라가꿈관리소'를 확대 운영한다.",
-      "빌라가꿈관리소는 수원시가 채용한 관리소장이 빌라 밀집 지역을 순회하며 청소와 안전순찰, 공용시설 유지관리 등을 지원하는 사업이다.",
-      "주민들의 생활 불편을 줄이고 쾌적한 주거 환경을 조성하는 데 중점을 둔다."
-    ],
-    "chips": [
-      "#채용",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n25b8531e",
+    "id": "nf5a7c5f7",
     "category": "IT",
     "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026062908153723773",
-    "title": "강병중 넥센그룹 회장 \"AI 시대에도 기술의 중심에 사람 있어야\"",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026062909273503998",
+    "title": "\"AI 네이티브 전환 속도\"…자비스앤빌런즈, 'AI 위크 2026' 개최",
     "summary": [
-      "강병중 넥센그룹 회장은 지난 26일(현지 시간) 미국 뉴욕 유엔본부 경제사회이사회(ECOSOC) 회의장에서 개최된 '2026 유엔 중소기업의 날 국제포럼' 기조연설에서 \"인공지능(AI) 시대에도 기술의 중심에는 사람이 있어야 한다\"며 \"기업가정신은 단순히 기업 규모를 확대하는 것이 아니라 사람을 존중하고 미래 기회를 개척하며 그 성과를 사회와 나누는 책임\"이라고 말했다.",
-      "이번 행사는 유엔이 지정한 '국제 중소기업의 날(UN M."
+      "자비스앤빌런즈는 전사적인 인공지능(AI) 활용 문화 확산과 AI 기반 서비스 고도화를 위해 'AI 위크 2026'을 개최했다고 29일 밝혔다.",
+      "지난 22일부터 이틀간 진행된 AI 위크는 개발자와 비개발자 구분 없이 전 구성원이 AI를 주도적으로 이용하는 'AI 네이티브 조직'으로 전환 가속화를 위해 마련됐다.",
+      "행사 첫날에는 다양한 부서의 구성원들이 참여한 10개 세션에서 사내 AI 도입 배경과 성과를 공유했다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n52a75c72",
+    "id": "nd9bd584e",
     "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/politics/opinion-poll/2026/06/29/X77PD2WU5FC4PJS4K6J24UDQCY/",
-    "title": "李대통령 지지율 6주 연속 하락… 긍정 평가 46.5% 부정 평가 49.5%",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260629/134199350/2",
+    "title": "바이든 “트럼프는 패배자”…퇴임 후 최고 수위 비판",
     "summary": [
-      "李대통령 지지율 6주 연속 하락… 긍정 평가 46.5% 부정 평가 49.5%."
+      "조 바이든 전 미국 대통령이 도널드 트럼프 대통령을 “패배자(loser)”라고 부르며 비난을 퍼부었다.",
+      "2024년 두 사람이 대선 토론회에서 맞붙은 지 2년 만이다.미 CNN 등에 따르면 바이든 전 대통령은 27일(현지시간) 메릴랜드주에서 열린 민주당 정치자금 모금행사에서 10분간 연설했다.바이든 전 대통령은 트럼프 대통령의 케네디센터 명칭 변경 등을 추진한 것을 거론하며 “이는 단순히 그의 허영심을 채우기 위한 프로젝트가 아니다”라며 “이 행."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nefb73863",
+    "id": "na7374010",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629015600009",
-    "title": "이스라엘, 평화 합의에도 레바논 계속 타격…\"200m 땅굴 파괴\"",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687059",
+    "title": "안보현·정은채, 티격태격 공조 케미…'재벌X형사2' 8월 첫방",
     "summary": [
-      "(서울=연합뉴스) 김아람 기자 = 이스라엘은 레바논 남부 지역에서 친이란 무장정파 헤즈볼라가 사용하던 지하 시설을 파괴했다고 28일(현지시간) ..."
+      "[서울=뉴시스]강주희 기자 = 드라마 '재벌X형사'가 2년 만에 두 번째 시즌으로 돌아온다.",
+      "SBS는 드라마 '재벌X형사' 시즌2를 오는 8월7일 오후 9시50분 첫 방송한다고 29일 밝혔다.",
+      "재벌X형사'는 얼떨결에 형사가 된 재벌 3세가 막대한 재력과 인맥을 바탕으로 범죄자를 소탕하는 수사 드라마다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbf0c9e96",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/06/29/GJQTQMBTMI4TOZDDMIZTKOLFMQ/",
-    "title": "베이비몬스터, 한계는 없다..이름값 제대로 증명한 '무결점 라이브' (종합)[Oh!쎈 현장]",
-    "summary": [
-      "[OSEN=지민경 기자] '괴물 신인'이라는 수식어도 이젠 좁다.",
-      "그룹 베이비몬스터가 흔들림 없는 완벽한 라이브로 공연장을 완벽하게 집어삼키며 자신들의 진가를 무대로 증명해 냈다.베이비몬스터는 28일 서울 잠실실내체육관에서 열린 '2026-27 BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN SEOUL'에서 무결점 라이브 퍼포먼스의 향연."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc5fd6766",
+    "id": "na746c5f8",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629016100030",
-    "title": "롯데호텔 서울, 라세느 식사권 결합 모바일 상품권 출시",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687076",
+    "title": "철도연, 차세대 고속철 'HEMU-430X' 굿즈 7종 선보여",
     "summary": [
-      "(서울=연합뉴스) 구정모 기자 = 롯데호텔앤리조트는 롯데호텔 서울 뷔페 레스토랑 '라세느'에서의 2인 식사권과 와인 또는 케이크를 결합한 프리미..."
+      "[서울=뉴시스]이종성 기자 = 한국철도기술연구원(철도연)이 사회적기업 코이로와 협력해 우리 기술로 개발한 차세대 고속철도 'HEMU-430X'의 연구 성과를 담은 굿즈 7종을 온·오프라인 매장에 정식 출시했다.",
+      "철도연은 2026년 철도의 날을 기념해 고속철도 연구 성과를 국민이 생활 속에서 쉽게 체감할 수 있도록 이 같은 내용의 굿즈 상품화에 나섰다고 28일 밝혔다.",
+      "이번에 선보인 굿즈는 철도연이 개발한 시속 430㎞급 동력 분산식 차세대 고속."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na11e43ec",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629009800007",
-    "title": "[표] 최근 10년간 LPGA 투어 한국 선수 우승 일지",
+    "id": "n4334c3cb",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687128",
+    "title": "\"요리하고 대화하고\" 샘표, '새미네부엌 요리북클럽' 참가자 모집",
     "summary": [
-      "[표] 최근 10년간 LPGA 투어 한국 선수 우승 일지."
+      "[서울=뉴시스]권민지 기자 = 샘표가 '요리가 즐거워지는 새미네부엌 레시피' 출간을 기념해 '새미네부엌 요리북클럽' 참가자를 모집한다고 29일 밝혔다.",
+      "'새미네부엌 요리북클럽'은 다음달 10일과 11일 서울 중구 샘표 본사 1층 우리맛공간에서 열린다.",
+      "참가 신청은 이날 오전 10시부터 네이버 예약을 통해 선착순으로 진행하며, 회당 12명씩 총 36명을 모집한다."
+    ],
+    "chips": [
+      "#네이버",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n641f3cc4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260629/134199389/1",
+    "title": "리센느, 대한민국 방방곡곡 얼굴 되겠네…‘신라공주’ 제나 고향 경주시 홍보대사",
+    "summary": [
+      "대세 그룹 ‘리센느(RESCENE)’가 ‘신라공주’로 통하는 멤버 제나의 고향 경주시 홍보대사로 위촉됐다.경주시는 29일 리센느를 경주시 관광 홍보대사로 위촉하고, 역사문화도시 경주의 매력과 관광 콘텐츠를 국내외에 널리 알리는 활동을 함께 추진한다고 밝혔다.경주 출신 제나는 앞서 멤버 원이의 개인 유튜브 채널 ‘안녕하세요원이입니다잘부탁드립니다’에서 맛깔나는 사투리 콘셉트의 콘텐츠를 선보여 ‘신라공주’라는 애칭을 얻는 등 고향 경주를 향한 애정을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4c4d49d1",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/29/2026062907421292438",
-    "title": "\"감독님, 여기서 이러시면 안 됩니다\" 항의하려 경기장 난입 캐나다 감독, 제자가 막아 화 면했다",
-    "summary": [
-      "제시 마치(53) 캐나다 축구대표팀 감독이 심판 판정에 항의하기 위해 경기장에 난입했다가 자국 선수의 만류로 불상사를 면했다.",
-      "영국 '더선'은 29일(한국시간) \"마치 감독이 남아공전 전반 종료 후 심판진에게 돌진했으나, 수비수 모이스 봄비토가 그를 막아섰다\"고 보도했다.",
-      "캐나다는 이날 미국 LA 스타디움에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 32강전에서 후반 추가시간에 터진 스테판 유스타키오의 극적인 결승골에 힘입어 남아공을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na53e0c78",
+    "id": "n7545069b",
     "category": "경제",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629015800007",
-    "title": "유해란, 여자 PGA챔피언십 제패…첫 메이저 우승으로 통산 4승째",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026062909260397172",
+    "title": "[인사] 사학연금",
     "summary": [
-      "(서울=연합뉴스) 이영호 기자 = 유해란이 미국여자프로골프(LPGA) 투어 KPMG 여자 PGA챔피언십(총상금 1천300만 달러) 정상에 오르며..."
+      "□승진<1급>▶연금사업실장 이병식 ▶금융투자실장 장원재<2급>▶ESG경영팀장 채호영 ▶예산운영팀장 박해수 ▶재직자관리팀장 전영선 ▶연금수급자팀장 국숙영 ▶재해보상팀장 안경화 ▶서울센터장 문보람 ▶국내채권팀장 김종원 □전보▶연금연구소장 장지영 ▶평가분석팀장 박수진 ▶인사팀장 이수진 ▶연금기획팀장 심동현 ▶퇴직자관리팀장 고명아 ▶대여사업팀장 권혁 ▶IT운영팀장 김석 ▶기업금융팀장 이창봉."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n8c81db35",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026062909250593404",
+    "title": "삼성운용, 하반기 ETF 투자 키워드로 'AI 병목' 제시",
+    "summary": [
+      "하반기에는 인공지능(AI) 병목 현상에 주목해야 할 것으로 보인다.",
+      "AI 생태계 확장에 따라 4단계 병목 현상이 필연적으로 발생함에 따라 이를 선도적으로 해결하는 기업들이 하반기 주도주로 나설 것으로 전망되기 때문이다.",
+      "29일 삼성자산운용은 하반기 투자자들이 가장 주목해야 할 상장지수펀드(ETF) 키워드로 'AI 병목(Bottleneck)'을 선정했다고 밝혔다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nc2f7df5e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260629/134199381/1",
+    "title": "리센느 뜨고 NCT WISH 온다…캐리비안 베이 ‘워터 뮤직 풀파티’ 개막",
+    "summary": [
+      "올여름 역대급 무더위를 시원하게 날려줄 화끈한 물놀이 축제와 국내 최정상급 아티스트들이 총출동하는 화려한 공연이 캐리비안 베이에서 막을 올린다.29일 삼성물산 리조트부문에 따르면, 에버랜드의 워터파크 캐리비안 베이는 오는 7월 3일부터 8월 17일까지 여름 대표 축제인 ‘워터 뮤직 풀파티’(Water Music Pool Party)를 개최한다.올여름 캐리비안 베이에서는 뮤직 풀파티뿐만 아니라 산리오캐릭터즈와 협업한 여름축제 ‘헬로 썸머 파티’부."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbaf6653b",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026062909245789153",
+    "title": "세라젬, 대한변리사회장 표창…지식재산 경쟁력 강화 공로",
+    "summary": [
+      "세라젬이 서울 서초구 대한변리사회관에서 진행된 창립 80주년 기념식에서 '대한변리사회장 표창'을 받았다고 밝혔다.이번 포상은 대한변리사회가 창립 80주년을 맞아 변리 제도와 지식재산 정책 발전, 사회공헌 및 공공가치 실현, 지식재산 경쟁력 강화 등 국내 지식재산 분야 발전에 기여한 개인과 기업·단체를 선정해 수여했다.",
+      "세라젬은 지속적인 연구 개발을 기반으로 국내외 지식재산권을 확보하고, 이를 제품에 적용하는 한."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n6c811ac9",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629028100003",
+    "title": "대한전선, 케이블 생산에 AI 접목 추진…국책과제 선정",
+    "summary": [
+      "(서울=연합뉴스) 조성흠 기자 = 대한전선은 29일 산업통상부와 한국산업기술진흥원(KIAT)이 추진하는 '산업현장문제해결형 산업 AI 에이전트 ..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n1478a4f7",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629032500007",
+    "title": "'커리어 하이' KIA 김호령 \"FA 의식 안 해…20홈런 쳐보고 싶다\"",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 프로야구 KIA 타이거즈가 서울 잠실구장 7연패 사슬을 끊은 날, 마운드에 김태형(19)이 있었다면 타선에는 ..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc13e3cb0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629033600063",
+    "title": "세종시, 다음 달부터 장애인 의료·요양 통합돌봄 본격 시행",
+    "summary": [
+      "(세종=연합뉴스) 양영석 기자 = 세종시는 다음 달 1일부터 65세 미만 중증 장애인을 대상으로 보건·의료·복지 서비스를 통합 제공하는 '장애인..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2b716df6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629033400005",
+    "title": "이소라, 내달 7년 만의 신곡…\"앞으로는 더 많이 노래\"",
+    "summary": [
+      "(서울=연합뉴스) 이태수 기자 = 가수 이소라가 다음 달 7년여 만에 신곡을 발표한다고 소속사 마레힘 엔터테인먼트가 29일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea6c274a",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629033700008",
+    "title": "[인사] 대신증권",
+    "summary": [
+      "[인사] 대신증권."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9acc32ca",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629031000063",
+    "title": "[인사] 지식재산처",
+    "summary": [
+      "[인사] 지식재산처."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9c18856e",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629031500008",
+    "title": "삼성증권 \"금융자산 30억 이상 자산가 업계 첫 1만명 돌파\"",
+    "summary": [
+      "(서울=연합뉴스) 김태종 기자 = 삼성증권[016360] 고객 중 금융자산 30억원 이상 개인 고객 수(법인 제외)가 업계 처음 1만명을 넘었다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf726076c",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629029900003",
+    "title": "SK에코플랜트, 2천48억원 용인 수지삼성2차 재건축 수주",
+    "summary": [
+      "(서울=연합뉴스) 임기창 기자 = SK에코플랜트는 경기 용인시 수지삼성2차아파트 재건축 사업을 수주했다고 29일 밝혔다."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
     ]
   }
 ];
@@ -645,18 +637,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "부동산",
     "mentions": "1550건",
     "trend": "+135%"
   }
