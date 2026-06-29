@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-29 01:41:50
+// 마지막 업데이트: 2026-06-29 03:03:17
 window.NEWS_DB = [
   {
     "id": "nca9f8a56",
     "category": "IT",
     "source": "블로터",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
     "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n12b85d1f",
     "category": "IT",
     "source": "ER 이코노믹리뷰",
-    "time": "15시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrZjBVakExbEVveFhHOU03SFRsb08tTkRNdWg1WkwybGJ5NUN0NjVzZGtMZVl4WEswSmN0d2RPQlprQTNOU1hNcGhwYzBKR05JTkpTTDZtblZJQ1VadXdES24xRVdsN0FLbUE3Qw?oc=5",
     "title": "딥엑스·리벨리온, 엔비디아 맞서 AI 반도체 '생태계 전쟁' 나선다",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "n2aad78a4",
     "category": "사회",
     "source": "스포츠동아",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
@@ -81,7 +81,7 @@ window.NEWS_DB = [
     "id": "n9c1afe03",
     "category": "스포츠",
     "source": "네이트",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IOWp1WENobjJGZ3pwaTI3bzdpMGFFek9Ja1QwLVVyYVJ3bG1lbG5UZzBsajE0cnBwTzFNajlYcnhPNjhjVnlZT3R1YnpwWmtyRmZXSzc5cTkxLTRMU0NCMw?oc=5",
     "title": "2026 'KBO DREAM CUP 독립야구대회' 개막",
     "summary": [
@@ -140,7 +140,7 @@ window.NEWS_DB = [
     "id": "nde229885",
     "category": "IT",
     "source": "한국보험신문",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
     "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
     "summary": [
@@ -163,20 +163,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n64dc67f5",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
-    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
-    "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -254,6 +240,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n31acb708",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "18일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDhOc0ZuU1lzS0NfMjhqY0UzN21yTmNwbE5MSHZKaHlnYXJCNFY5Uk92NXJMN3BTOUdNdzNXdTZhWXJyd2FjcktHZ0N3enRPNlFVbUM2SVdVQdIBWEFVX3lxTFBoTnNLNFJzY0twSGRXSzNDUC0wdEhlbWxGWndGV0FlQVdUcS1xc0JrR3ZuXzA3UFI3OUhjb1lOQVRPeURHd2dwNDVlaHZLZXIwQmFKTzlTaEQ?oc=5",
+    "title": "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림",
+    "summary": [
+      "AI가 구직자 분석해 정책 추천...고용24 맞춤 취업지원 밑그림 아주경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -283,19 +286,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "130일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "125일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
+      "#스타트업"
     ]
   },
   {
@@ -314,323 +315,327 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7ec2cf0c",
+    "id": "n507379fa",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152940",
-    "title": "올해 패션업계 키워드는 '유일무이'…무신사, '대체 불가 플랫폼'으로 도약",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152953",
+    "title": "[테크M 이슈] \"초코파이 넘어 신약으로\"…오리온, 바이오에 꽂힌 이유",
     "summary": [
-      "올해 국내 패션업계의 화두는 '유일무이(唯一無二)'다.",
-      "비슷한 브랜드와 비슷한 디자인이 넘쳐나는 시장에서 살아남는 길은 결국 다른 곳에서는 찾을 수 없는 단독성에 있다는 인식이 업계 전반에 자리잡고 있다.",
-      "단독 상품, 신진 브랜드 큐레이션, 차별화된 콘텐츠 경험까지 모두 같은 방향을 가리킨다."
+      "국내 대표 식품기업 오리온이 바이오 사업 확대에 다시 한번 승부수를 던졌다.",
+      "지난해 리가켐바이오사이언스 최대주주에 오른 데 이어 올해 추가 자금까지 투입하면서 단순 식품회사를 넘어 글로벌 바이오 기업으로의 변신에 속도를 내고 있다.29일 관련업계에 따르면 오리온의 종속회사 팬오리온은 최근 리가켐바이오가 추진하는 5000억원 규모 자금조달에 전략적 투자자(SI)로 참여하기로 했다.",
+      "리가켐바이오는 전환우선주(CPS) 3300억원과 전환사채(CB)."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5238b89e",
+    "id": "n1cb60b9e",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152938",
-    "title": "나무가, 프랑스 패럿 '드론 카메라' 공급",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152948",
+    "title": "LG전자 \"집은 LG가 최고\"...스마트코티지·로봇청소기 신제품 선봬",
     "summary": [
-      "나무가가 매출처 다변화에 속도를 내고 있다.나무가는 프랑스 드론 제조사 패럿에 주변 상황 및 장애물 인식용 카메라를 공급한다고 29일 밝혔다.패넛 '아나피 USA 모델' 대상이다.",
-      "드론 1대에 총 4개의 카메라가 들어간다.",
-      "아나피 USA는 긴급구조 및 기업용 드론이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n25a832e2",
-    "category": "경제",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=152937",
-    "title": "[크립토 브리핑] ETF 순유출 계속...비트코인 9000만원도 위태",
-    "summary": [
-      "비트코인 가격이 연일 하락세를 이어가고 있다.",
-      "미국 연방준비제도(Fed)의 금리 인상 가능성이 거론되고, 비트코인 현물 상장지수펀드(ETF)에서 자금 유출이 이어지는 등 반등 계기를 찾지 못하고 있다.29일 글로벌 가상자산 시황중계 사이트 코인마켓캡에 따르면 이날 오전 8시 40분 기준 비트코인 가격은 전일 동시간 대비 0.56% 하락한 9154만4667원을 기록했다.알트코인은 혼조세다.",
-      "이더리움은 전일 대비 0.01% 상승한 241만4221원."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n1a210764",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026062910394037605",
-    "title": "\"공항 3시간 전 도착? 큰일나\"…나오는 데만 6시간 걸린다는 유럽공항, 무슨 일",
-    "summary": [
-      "공항에는 통상 출발 3시간 전 도착이 '안전선'으로 여겨진다.",
-      "하지만 올여름 유럽에서는 이조차도 턱없이 부족한 시간이 될 것으로 보인다.",
-      "유럽연합(EU)이 도입한 새로운 출입국 시스템(EES·Entry Exit System)이 본격 가동되면서 주요 공항의 입국 절차가 심각한 혼잡을 빚고 있기 때문이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3744b3a0",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026062910340201379",
-    "title": "울산 시내버스, 다시 뛴다…민선 9기 교통서비스 전면 확대",
-    "summary": [
-      "울산시가 민선 9기 출범과 함께 시내버스 서비스 확대 정책을 본격 추진한다.",
-      "이번 정책은 김상욱 울산시장 당선인이 강조해 온 시민 중심 교통정책의 핵심 과제로, 시민 생활과 밀접한 대중교통 서비스를 우선적으로 개선하는 데 초점이 맞춰졌다.",
-      "가장 먼저 7월 1일부터 126번(꽃바위~야음~덕하) 노선 운행이 재개된다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "naabcda06",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687374",
-    "title": "명지대, 日 도쿠시마현 지자체·대학과 글로벌 교류 확대",
-    "summary": [
-      "[서울=뉴시스]박시은 인턴 기자 = 명지대학교는 지난 11일부터 13일까지 일본 도쿠시마현청의 공식 초청을 받아 현지 지방정부 및 주요 대학을 방문하고, 국제교류 협력 확대 방안을 논의했다고 29일 밝혔다.",
-      "이번 방문에는 임연수 명지대 총장을 비롯해 윤종빈 국제교류처장, 이미숙 미래융합대학 학장, 정규상 국제교류지원팀장 등이 참여했다.",
-      "방문단은 도쿠시마현청과 도쿠시마대학교, 도쿠시마문리대학교 및 도쿠시마문리대학교 단기대학부를 방문해 교육·연구·."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n0b76903e",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687393",
-    "title": "드라이브·물놀이·축제…'제주관광 꿀팁' 카카오T로 본다",
-    "summary": [
-      "[제주=뉴시스] 우장호 기자 = 제주관광공사가 여름 휴가철을 맞아 카카오모빌리티와 손잡고 카카오T를 통해 드라이브 코스와 물놀이 명소, 축제 등 제주 여행 정보를 제공한다.",
-      "제주관광공사와 제주도는 여름 성수기 관광객들의 편의를 높이기 위해 카카오모빌리티와 협업한 '여름 제주 200% 즐기는 법' 콘텐츠를 7∼8월 선보인다고 29일 밝혔다.",
-      "이번 콘텐츠는 통합 교통 플랫폼인 카카오 T와 제주 공식 관광정보 플랫폼 비짓제주를 연계해 여행 준비부터."
-    ],
-    "chips": [
-      "#카카오"
-    ]
-  },
-  {
-    "id": "nb11bd664",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026062910385033857",
-    "title": "차 털고 신용카드 쓴 여중생 2명 덜미…한 명은 촉법소년",
-    "summary": [
-      "주차된 차량에서 신용카드를 훔쳐 여러 차례 결제한 중학생 2명이 경찰에 덜미를 붙잡혔다.",
-      "이들 중 한 명은 형사 책임연령 미만인 것으로 알려졌다.",
-      "29일 연합뉴스에 따르면 인천 부평경찰서는 중학생 A양, B양을 특수절도, 사기, 여신전문금융업법 위반 혐의 등으로 붙잡아 조사 중이라고 이날 밝혔다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n2c6da084",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026062910395647482",
-    "title": "국내 피지컬 AI 스타트업, 절반은 로봇 분야",
-    "summary": [
-      "국내 피지컬 인공지능(AI) 스타트업 중 절반은 로봇 분야 기업인 것으로 나타났다.",
-      "스타트업얼라이언스는 29일 국내 피지컬 AI 스타트업 현황을 분석한 '2026 피지컬 AI 스타트업맵' 리포트를 발간했다.",
-      "이번 리포트는 AI를 통해 기계가 물리적 세계를 스스로 인식하고 판단해 자율적으로 행동하는 기술 및 시스템을 '피지컬 AI'로 정의하고, 국내 피지컬 AI 스타트업 149개사를 기술 유형과 적용 산업 기준으로 분류해 생태계 현황."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nc3a08943",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260629/134200033/1",
-    "title": "병의원 CT·엑스레이 전국 11만여대…연평균 3.3%씩 증가",
-    "summary": [
-      "전국 병의원에 설치된 X레이(엑스선 촬영장치) 등 진단용 방사선 발생장치는 지난해 기준 11만여 대로 최근 10년간 연평균 3.3%씩 증가한 것으로 나타났다.질병관리청은 진단용 방사선 발생장치 현황을 체계적으로 파악하기 위해 ‘2025년 진단용 방사선 발생장치 통계 연보’를 처음 발간했다고 29일 밝혔다.진단용 방사선 발생장치는 전산화 단층 촬영장치(CT), 일반 엑스선 촬영장치, 유방촬영장치 등 질병을 진단하기 위해 방사선을 이용하는 의료장비."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n12d84004",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003686878",
-    "title": "밀양재단 대표 공모 8명 접수…'내정설' 당사자도 신청",
-    "summary": [
-      "[밀양=뉴시스] 안지율 기자 = 경남 밀양문화관광재단 대표이사 공개 모집 이전 '특정인 내정설'로 논란을 겪고 있는 가운데 해당 인사가 실제로 공모에 신청한 것으로 알려졌다.",
-      "재단은 지난 19일부터 26일까지 대표이사(1명)와 비상임이사(1명) 공개 모집을 진행했다.",
-      "29일 뉴시스 취재를 종합하면 공모 마감 결과 대표이사 후보에 8명, 비상임이사에 2명이 최종 접수한 것으로 확인됐다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n91ba0ef6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260629_0003687400",
-    "title": "석유 최고가 인하 후 첫 평일 …\"1900원대로는 체감 안돼\"[현장]",
-    "summary": [
-      "[서울=뉴시스]이태성 기자, 조서영·김범준·엄선웅 인턴기자 = 지난 주말 석유 최고가격제 도입 이후 처음으로 가격이 인하된 가운데 서울 지역의 주유소들은 1900원대의 휘발유 가격을 보였다.",
-      "시민들은 가격 상승이 멈춰 다행이라면서도 가격 인하를 체감하려면 적어도 1800원대 정도는 돼야 한다며 아쉬움을 나타냈다.",
-      "29일 오전 찾은 서울 강남구 역삼동의 한 주유소."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd88db1f6",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260629/134200027/1",
-    "title": "3경기 같은 전술·가동되지 않은 플랜B…결국 감독의 ‘총체적 부실’",
-    "summary": [
-      "2026년에도 한국 축구에게 월드컵의 벽은 높았다.",
-      "저 멀리 1954년 스위스 월드컵은 차치하고 1986년 멕시코 대회부터 11회 연속 월드컵 본선 무대를 밟고 있는 ‘단골손님’이 됐지만 여전히 수준 차이가 났다.",
-      "지난 실패를 되새겨 보다 나은 성적을 거두기 위해 각 파트별로 많은 노력을 기울였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbe4a9008",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260629/134200021/1",
-    "title": "윤은혜 “13년째 술 끊었다”…신동엽 “이미 평생 마실 양 다 먹어”",
-    "summary": [
-      "그룹 베이비복스 출신이자 배우인 윤은혜가 13년째 금주 중인 근황을 전했다.",
-      "윤은혜는 28일 SBS TV 예능 프로그램 ‘미운 우리 새끼’에 스페셜 MC로 출연해 다양한 이야기를 나눴다.",
-      "이날 MC 신동엽은 “(윤은혜씨가) 흰 쌀밥과 탄산음료, 술을 끊은 지 무려 13년이나 됐다고 하더라”고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na9eac4b8",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629054500053",
-    "title": "대구 상급병원 의료데이터 통합 관리해 AI 의료기기 개발",
-    "summary": [
-      "(대구=연합뉴스) 박세진 기자 = 대구시는 지역 의료데이터를 인공지능(AI) 의료기기 개발에 적극 활용하기 위해 '의료데이터 활용 활성화 업무협..."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2c5b9ffb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/06/29/QBJZW3WNGVE7POLCLCTWUJDG4M/",
-    "title": "송영길 “정청래, 노무현과 등져 장례식도 참석 못 해” 정청래 “허위 사실 유포 사과하라”",
-    "summary": [
-      "송영길 “정청래, 노무현과 등져 장례식도 참석 못 해” 정청래 “허위 사실 유포 사과하라”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6fc29b8e",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260629/134200003/1",
-    "title": "가족 주식 4500주 몰래 팔아 본인 주식 산 50대…2억 횡령 혐의",
-    "summary": [
-      "가족 소유 주식을 임의로 매도한 남성이 징역형의 집행유예를 선고받았다.광주지법 형사3단독 황은정 판사는 횡령 혐의로 기소된 A 씨(57)에게 징역 8개월에 집행유예 2년을 선고했다고 29일 밝혔다.A 씨는 지난 2020년 6월부터 2021년 7월 사이 가족 소유의 주식 4500주를 임의로 매도하는 등 2억 원 상당을 횡령한 혐의로 기소됐다.A 씨는 자신의 증권계좌 신용을 높이겠다며 가족의 주식을 보관하던 중 이를 횡령해 본인 주식투자 등에 사용."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n15db1746",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629059400052",
-    "title": "경부고속도로 양산IC 인근 5t 화물차 화재…차량 정체",
-    "summary": [
-      "(양산=연합뉴스) 이준영 기자 = 29일 오전 9시 40분께 경부고속도로 경남 양산시 상북면 양산IC 인근에서 부산 방향으로 달리던 5t 화물차..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8aaa4d40",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629012500017",
-    "title": "AI로 푸는 생명과학…유전체·컴퓨터생물학 최신 연구 한자리에",
-    "summary": [
-      "(서울=연합뉴스) 신선미 기자 = 인공지능(AI) 기술이 유전체학 등 생명과학 분야에 적용돼 이뤄낸 연구 활동의 진보를 볼 수 있는 자리가 마련..."
+      "LG전자가 '집' 공략을 강화했다.",
+      "모듈러 주택 'LG 스마트코티지'와 로봇청소기 'LG 홈봇 AI 오브제컬렉션 로니'를 출시했다.29일 LG전자는 모듈러 주택과 로봇청소기 선택의 폭을 넓혔다.LG전자는 스마트코티지 신제품 2종을 선보였다.",
+      "스마트코티지는 LG전자 모듈러 주택이다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n9f6b2f45",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629052900055",
-    "title": "조지훈 전주시장 당선인, 로드맵 중간 점검…시민주권 속도",
+    "id": "nb7aec481",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152950",
+    "title": "엔키화이트햇, 기술특례상장 기술성평가 통과...하반기 코스닥 입성 목표",
     "summary": [
-      "(전주=연합뉴스) 김동철 기자 = 민선 9기 전북 전주시장직 인수위원회인 '시민주권 열린 전주 위원회'가 출범 이후 논의해 온 공약 로드맵의 완..."
+      "지난해 174%의 영업이익 성장률을 기록한 오펜시브 보안 기업 엔키화이트햇이 하반기를 목표로 본격적인 기업공개(IPO) 절차에 돌입한다.엔키화이트햇은 코스닥 기술특례 상장을 위한 기술성평가를 통과했다고 29일 밝혔다.",
+      "기술성평가는 코스닥 기술특례 상장을 위한 관문으로 기업의 기술력과 사업화 가능성을 종합적으로 검증하는 절차다.",
+      "한국거래소가 지정한 전문평가기관으로부터 일정 등급 이상을 획득해야 통과할 수 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2d88ad88",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260629058900062",
-    "title": "[속초소식] 하수처리시설 유휴부지에 주차장 조성…무료 개방",
-    "summary": [],
+    "id": "n55bbb41c",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=152944",
+    "title": "엠로, AI 기반 코오롱인더스트리 구매포탈 시스템 구축",
+    "summary": [
+      "엠로가 에이전틱 AI를 활용해 공급망 리스크에 선제적으로 대응할 수 있는 구매포탈 시스템을 만든다.엠로는 코오롱인더스트리의 차세대 구매포탈 시스템을 구축한다고 29일 밝혔다.이번 프로젝트는 구매 업무의 복잡성 증가와 공급망 리스크 및 규제 확대, 시장 불확실성 심화 등 급변하는 내·외부 환경에 선제적으로 대응하기 위해 추진된다.",
+      "전략 구매, 개발 구매, 조달 구매, 협력사 관리까지 코오롱인더스트리 구매 프로세스 전반을 통합 지원하는 새로운 구매."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n41e2a3a1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687577",
+    "title": "이준, '캐치캐치' 영상에 충격…\"1달 운동 안 해, 비율 조정중\"",
+    "summary": [
+      "[서울=뉴시스] 이종희 기자 = 이준이 '캐치캐치' 영상에 충격을 받고 몸의 비율을 조정 중이라고 밝혔다.",
+      "28일 방송된 KBS 2TV '1박 2일 시즌4'에서는 김종민, 문세윤, 이준, 딘딘, 이용진, 이기택의 무인도 여행기가 전파를 탔다.",
+      "이준, 딘딘, 이기택은 무인도에서 톳, 미역, 꼬시래기, 쌀밥만 들어있는 3단 도시락을 먹고 허기를 호소했다."
+    ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c36f5a6",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026062911480705706",
+    "title": "보험사 보험부채 '낙관적 계산' 막는다…신규·갱신형 보험 손해율 더 보수적으로",
+    "summary": [
+      "앞으로 보험사들은 신규 보험상품과 갱신형 보험의 보험부채를 산출할 때 보다 보수적인 손해율을 적용해야 한다.",
+      "사업비 역시 물가상승률을 반영하고 비용 발생 기간을 임의로 줄일 수 없도록 하는 등 보험부채 평가 기준이 강화된다.",
+      "앞으로 보험사들은 신규 보험상품과 갱신형 보험의 보험부채를 산출할 때 보수적인 손해율을 적용해야 한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73c7e416",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026062911432687674",
+    "title": "'홍명보 선임' 고발…경찰 \"필요한 수사 적극적으로\"",
+    "summary": [
+      "홍명보 전 축구 국가대표팀 감독 선임 과정을 두고 업무상 배임 혐의로 고발당한 정몽규 대한축구협회장에 대해 경찰이 필요한 수사를 적극적으로 진행하겠다는 방침을 내놨다.",
+      "서울경찰청 관계자는 29일 열린 기자간담회에서 \"홍명보 전 감독 선임과 관련해 고소·고발 총 8건이 접수돼서 수사하고 있다\"며 \"행정소송과 형사재판 절차를 지켜볼 필요가 있었고, 이런 사항들 때문에 지연되긴 했지만 관련자 조사와 법리검토를 이어."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b71b4c4",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026062911415979190",
+    "title": "경찰, '서소문 고가 붕괴' 관계자 3명 추가 입건",
+    "summary": [
+      "3명의 사망자가 나온 서울 서소문 고가차도 붕괴 사고를 수사 중인 경찰이 철거 공사 관계자 3명을 추가 입건했다.",
+      "서울경찰청은 서울 서대문구 서소문 고가차도 철거 현장에서 발생한 붕괴 사고와 관련해 감리업체 관계자 2명과 공사업체 현장 관계자 1명 등 3명을 추가 입건했다고 29일 밝혔다.",
+      "서울경찰청 관계자는 이날 열린 정례 기자간담회에서 \"기존 피의자 4명에서 3명을 추가 입건해 현재 총 7명을 대상으로 수사하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7275c246",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026062911230135823",
+    "title": "치매 걸려도 보험금 청구…7월 '무기명' 대리청구인제 시행",
+    "summary": [
+      "다음 달부터 치매보험 무기명 대리청구인 제도가 시행된다.",
+      "치매보험 가입 소비자가 치매에 걸린 뒤 가입 사실을 잊어 보험금 청구에 어려움을 겪을 수 있는 만큼 대리청구인 관련 절차를 간소화한 것이다.",
+      "29일 금융감독원은 다음 달 1일부터 이 같은 내용의 리청구인 지정 제도 개선 사항을 시행할 예정이라고 밝혔다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n8bb03db9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260626/134174874/2",
+    "title": "먼저 어른이 된 아이들…질병∙빈곤 겹친 ‘복합위기가정’의 현실",
+    "summary": [
+      "복합위기가정 아동들이 가족의 질병과 장애, 빈곤 속에서 돌봄 부담을 떠안고 있다.",
+      "6살 성준 군은 시각장애와 뇌병변 장애를 가진 어머니를 돕고, 7살 선오 군은 하반신 마비 아버지와 손이 불편한 어머니의 일상을 보조하고 있다.",
+      "9살 예진 양은 희귀난치병 듀센 근이영양증을 앓는 오빠 곁을 지키며 집안일을 돕고 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd24a5c53",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687624",
+    "title": "경찰, '잠실 개표소 시위' 58건·139명 수사…\"신병처리 등 엄중 대응\"",
+    "summary": [
+      "[서울=뉴시스]조수원 기자 = 경찰이 '6·3 지방선거 투표용지 부족 사태'로 촉발된 서울 송파구 올림픽공원 개표소 봉쇄 시위와 관련해 현재까지 종결된 1건을 포함해 58건, 139명에 대해 수사하고 있다.",
+      "서울경찰청 관계자는 29일 오전 정례 기자간담회에서 이같이 밝혔다.",
+      "경찰에 따르면 대한체육회 산하단체의 올림픽공원 핸드볼경기장 내부 진입을 저지한 혐의(업무방해)를 받는 피의자 9명 중 7명이 특정돼 수사가 진행 중이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9bf40948",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687604",
+    "title": "보험사 계리가정 손질…손해율·사업비 가이드라인 마련",
+    "summary": [
+      "[서울=뉴시스]권안나 기자 = 금융당국이 보험부채에 대한 과소평가를 차단하기 위해 계리가정 관리기준을 마련했다.",
+      "손해율·사업비 가정에 대한 기준을 구체화하고, 계리가정 산출 과정에 대한 내부통제도 강화한다.",
+      "금융당국은 29일 이 같은 내용을 담은 '보험업권 계리감독 선진화 방안' 이행을 위한 보험업감독업무시행세칙 개정안을 시행했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne88f416a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260629_0003687542",
+    "title": "\"치매 걸려도 보험금 수령 걱정없다\"…무기명 대리청구인 제도 신설",
+    "summary": [
+      "[서울=뉴시스]권안나 기자 = 보험 가입자에게 치매가 발병할 경우, 보험 가입사실을 망각해 보험금을 청구하지 못하는 상황을 방지하기 위한 '대리청구인' 제도가 개선된다.",
+      "대리청구인의 성명과 연락처 등을 보관하기 위해 진행하는 복잡한 정보동의 과정을 생략할 수 있도록 하고, 대리청구인을 활용할 수 있는 보험 상품 범위를 확대하는 것이 주요 골자다.",
+      "29일 금융감독원은 치매보험에 대해 대리청구인의 개인정보 동의 없이도 대리청구인 지정이 가능한 '무."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "nd9824487",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629080200005",
+    "title": "'모아나' 드웨인 존슨 \"실사에선 용기 이면의 나약함 보여주고 싶어\"",
+    "summary": [
+      "(서울=연합뉴스) 박원희 기자 = '모아나'(2016)는 전 세계적으로 6억4천만달러(약 9천900억원)의 수입을 거둔 디즈니 인기 애니메이션이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9342c3a0",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629005151007",
+    "title": "[월드컵] 한국 올 뻔했던 마쉬 감독의 캐나다, 남아공 꺾고 16강 선착(종합)",
+    "summary": [
+      "(서울=연합뉴스) 이영호 기자 = 2026 북중미 월드컵 공동 개최국인 캐나다가 남아프리카공화국을 물리치고 가장 먼저 16강 고지를 밟았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n092c8a8e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/golf/2026/06/29/ME3WMYTFGQYGGYRYG4ZWMNJXMI/",
+    "title": "유해란이 만든 기적...10타 차이를 뒤집은 대역전 우승, 첫 메이저 제패 '30억 잭팟'",
+    "summary": [
+      "[스포츠조선 김용 기자] 유해란이 만든 기적! 유해란이 LPGA 투어 메이저 대회인 KPMG 위민스 PGA 챔피언십 트로피를 품었다.",
+      "LPGA 진출 후 생애 첫 메이저 우승 영광을 안았다.",
+      "유해란은 29일(한국시각) 미국 미네소타주 채스카 헤이즐틴내셔널골프클럽에서 막을 내린 위민스 PGA 챔피언십 최종 4라운드에서 2언더파 70타를 치며, 4라운드 합계 1."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e549d80",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "5분 전",
+    "url": "https://www.hankyung.com/article/2026062938427",
+    "title": "장동혁 \"선관위 '입주 청소' 수준으로 청소…사전투표 폐지\"",
+    "summary": [
+      "장동혁 \"선관위 '입주 청소' 수준으로 청소…사전투표 폐지\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff3a926a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/06/29/SJIKTXY3MRDKRB3YBMRZI5TDK4/",
+    "title": "“‘어우덕’ 보여주겠다”...‘디펜딩 챔피언’ 덕수고, 청룡기 1회전 콜드승",
+    "summary": [
+      "“‘어우덕’ 보여주겠다”...‘디펜딩 챔피언’ 덕수고, 청룡기 1회전 콜드승."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n75d45ae9",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260629/134200276/1",
+    "title": "KCC건설, ‘주거 경험’ 혁신 이끈다… 주거 플랫폼 ‘스윗온’ 출시",
+    "summary": [
+      "최근 주택시장의 패러다임이 단순한 입지와 상품성을 넘어, 입주 이후 누릴 수 있는 서비스와 주거 경험을 중심으로 변화하고 있다.",
+      "이러한 흐름에 발맞춰 KCC건설은 ‘스위첸’ 입주민의 주거 편의성과 삶의 질 향상을 목적으로 한 주거 플랫폼 서비스 ‘스윗온(SWITON)’을 선보인다고 밝혔다.",
+      "‘스위첸(SWITZEN)’, ‘스위트(Sweet)’, ‘스위트룸(Suite Room)’의 의미를 결합한 ‘스윗온’은 기존의 하드웨어 중심 스마트홈 시스템을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1540683",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629081600530",
+    "title": "노란봉투법 첫 원청 상대 파업 가시화…플랜트노조 찬성률 79.2%",
+    "summary": [
+      "(서울=연합뉴스) 한혜원 옥성구 기자 = 지난 3월 10일 '노란봉투법'이 시행된 후 하청 노동조합의 원청기업을 상대로 한 첫 적법 파업이 초읽..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n62887c3a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260629081200007",
+    "title": "2스트라이크 이후 홈런 8개 오스틴 vs 초구 홈런 5개 김도영",
+    "summary": [
+      "(서울=연합뉴스) 장현구 기자 = 오스틴 딘(LG 트윈스)과 김도영(KIA 타이거즈)이 벌이는 프로야구 홈런왕 경쟁이 본격적인 무더위 개막과 함..."
+    ],
+    "chips": [
+      "#KBO"
     ]
   }
 ];
@@ -640,8 +645,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
