@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-30 18:33:52
+// 마지막 업데이트: 2026-06-30 19:32:44
 window.NEWS_DB = [
   {
     "id": "n78461dff",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yS3RSTVIyT3VhXzdkUm5xRTU4SzQtRkJwZjZDUllYYkZGRDhrNEtwRzR1NFZxa1VZR2JlT3pPb1Z6YU55Y0tZMkUybkhMbk1ISm1wc3h0a0tGcGRMX0tVLWlMbk5COTE0LUNKYnBpWTJwUVE?oc=5",
     "title": "엔비디아 AI 휴머노이드로 성장동력 확보, \"반도체와 소프트웨어 수직계열화가 장점\"",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n910de8e4",
     "category": "스포츠",
     "source": "네이트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qOGVCbFRiS0ZYaGt1cUJWcnpsTXhobFhydE5VdnZUVTlrNk8zS1NNSzV2Z0dyWThrWnR4N3FQd0pFV3gtdlUyaklBbDZnVW9VTERpaDRNcHJQQnNDRDFlOA?oc=5",
     "title": "신생팀 안산 웨이브스, KBO 드림컵 독립야구대회 우승",
     "summary": [
@@ -32,27 +32,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndc65ba2b",
-    "category": "IT",
-    "source": "디지털데일리",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90RXFvcDk2SFk5cHZDWlo0bi1sSUM1dmlLc04yX3RuTG1xdU84QlhwOVZlajI5d3oyTUxZTTBNS3ByWnZTYnZRTnZ0azdDbjg1NFRGTlAxU1hyTDJTMkZBUDc2UEU?oc=5",
-    "title": "美의 中 반도체 규제 역효과?…AI칩 점유율, 엔비디아↓ 화웨이↑[AI 인포그래픽]",
-    "summary": [
-      "美의 中 반도체 규제 역효과?…AI칩 점유율, 엔비디아↓ 화웨이↑[AI 인포그래픽] 디지털데일리."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#정책"
-    ]
-  },
-  {
     "id": "nf5332d7e",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sa091aVgzV2VFbGRwSjhIWmI4elRpa1lwU0YwdXd0c2pLWGNhY0N5d2RBSEJrdzdmbWR6VjZtdDlQMTc0OFdoM1UteklzOWl1SW5nRFZaSHJkMk3SAWBBVV95cUxNMXdWTjRRbEJSancxRENMemNoWWV0LUlncFFRYTgySThPU2FkenVPZExIUy1OX0FHb3FLX0VqS2QyOU84dlozbHZldVBBV2dYdUxZc2cxVlBWb0lzdlNNUkU?oc=5",
     "title": "엔비디아도 우주 AI 데이터센터 구축 박차…연봉 6억대 채용공고",
     "summary": [
@@ -62,6 +45,21 @@ window.NEWS_DB = [
       "#AI",
       "#엔비디아",
       "#채용"
+    ]
+  },
+  {
+    "id": "ne78b3f05",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "17시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTgwcEsxSGF3NmxJUlNINXFkX04zUUVkYkozWFpsZG84MUo0dXNWWTlDWFNySEFoazJzTElnYlp2dG00WnBjSzZKTTNPS050ZDE1R1N1RlBFZm5JZGRmeTBvZGI5U20wT2JyVW5YSGZWd25IY0NkelE2SkE5N2hYODNSSHJxQnpK?oc=5",
+    "title": "엔비디아 中반도체 점유율 '제로'",
+    "summary": [
+      "엔비디아 中반도체 점유율 '제로' 글로벌이코노믹."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -156,6 +154,21 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
+    ]
+  },
+  {
+    "id": "nf5a3ebaf",
+    "category": "스포츠",
+    "source": "starnewskorea.com",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95MjFXdGZVam85dVZhaEMyQW9sZXdCX3ZreHVZbjRNekpWZ2psU3NGYkVfNU5PSXhlUU1TbHpGUVJwVlNQcmt5a2tWTzNrb1RQYmRrdFNnS1hYbjdWeUtIT0J2aW0yaVZSVWptdmdPakFKMWZiTFE?oc=5",
+    "title": "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주... 2위는 KBO 정상급 타자 김도영",
+    "summary": [
+      "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주...",
+      "2위는 KBO 정상급 타자 김도영 starnewskorea.com."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -277,20 +290,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "90일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -320,42 +319,151 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n94bff68b",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701002400075",
-    "title": "테슬라 美 '오토파일럿' 사고조사 중에 또 인명사고…1명 사망",
+    "id": "n43f810ad",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690232",
+    "title": "[오늘의 주요일정]제주(7월1일 수요일)",
     "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 텍사스에서 오토파일럿(Autopilot) 기능을 사용 중이던 테슬라 차량이 주택가에 돌진해 사고..."
+      "[제주=뉴시스] ▲오전 8시, 고의숙 제주도교육감 취임 행사 '등교부터 하교까지, 함께', 제주북초등학교 등 ▲오전 9시, 위성곤 제주도지사 취임행사 및 간부회의, 제주도청 탐라홀 ▲오후 2시, 제451회 제주도의회(임시회) 제1차 본회의, 제주도의회 본회의장 ▲오후 2시, 2026년 제주교육정책연구센터 공동 교육정책연구 자문협의회, 제주도교육청 오라청사 ▲오후 2시, 제주시 자전거 정비 기능사 자격 취득 과정 교육, 제주시 평생학습관 ▲오후."
+    ],
+    "chips": [
+      "#정책",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n38e8ea99",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/01/GU2WKMJZG43TENRVGUYDMNJVGI/",
+    "title": "'이런 불운이 또 있나' 7점 지원 받은 에르난데스, 66일 만의 승리 절호의 기회였는데…이번에는 비가 가로막았다 [오!쎈 대전]",
+    "summary": [
+      "[OSEN=대전, 조은혜 기자] 불운도 이런 불운이 없다.",
+      "프로야구 한화 이글스 윌켈 에르난데스가 이번에는 날씨의 방해를 받았다.",
+      "에르난데스는 30일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 KT 위즈와의 홈경기에서 선발투수로 등판했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n3b67cba9",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701004900002",
+    "title": "달러-원, 바닥 뚫린 엔저 흐름에 동참 …1,549.50원 마감",
+    "summary": [
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 1,550원대 중반까지 상승폭을 넓히다 제자리로 돌아왔다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "n69877217",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003690482",
+    "title": "'홀란드 결승골' 노르웨이, 코트디부아르 꺾고 북중미 16강 진출[월드컵24시]",
+    "summary": [
+      "[서울=뉴시스] 김진엽 기자 = '골잡이' 엘링 홀란드(맨체스터 시티)를 앞세운 노르웨이 남자 축구 대표팀이 코트디부아르를 누르고 2026 국제축구연맹(FIFA) 북중미 월드컵 16강에 진출했다.",
+      "노르웨이는 1일(한국 시간) 미국 텍사스주 알링턴의 댈러스 스타디움에서 열린 코트디부아르와의 북중미 월드컵 32강전에서 2-1 승리를 거뒀다.",
+      "이로써 월드컵 역대 최고 성적이 16강이었던 노르웨이는 또 한 번 16강에 올랐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3a4253c9",
+    "id": "ne4d5c6fd",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701003300054",
-    "title": "김대중 전남광주교육감 \"세계가 배우러 오는 K-교육특별시 도약\"",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690268",
+    "title": "대구·경북 흐림, 일부 최대 40㎜ 소나기…낮 최고 30도",
     "summary": [
-      "(무안=연합뉴스) 형민우 기자 = 김대중 초대 전남광주통합교육감은 1일 \"세계가 주목하고 세계가 배우러 오는 `대한민국 K-교육특별시'로 당당히..."
+      "[대구=뉴시스] 이상제 기자 = 1일 대구·경북은 대체로 흐리고 비가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"늦은 새벽부터 낮 사이 대구와 경북 남부 일부 지역에 가끔 비가 내리겠고, 늦은 새벽부터 오전 사이 경북중·북부 일부에 소나기가 오겠다\"고 예보했다.",
+      "예상 강수량은 대구와 경북남부 5~10㎜, 경북중·북부 5~40㎜다."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbadad5ec",
+    "id": "n75f999b7",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690263",
+    "title": "민형배 전남광주통합특별시장, 첫 지시로 반도체·안전·민생 챙겼다",
+    "summary": [
+      "[무안=뉴시스] 구용희 기자 = 민형배 전남광주통합특별시장이 취임 첫날 반도체 산업 지원 대책과 재난·재해 대응, 서민생활 안정 대책 마련을 제1호 지시로 내렸다.",
+      "1일 전남광주통합특별시에 따르면 민 시장은 이날 새벽 무안 남악청사에서 열린 전남광주특별시의회 첫 임시회에 참석해 취임선서를 한 뒤 특별시장으로서의 각오와 시정 운영 방향을 밝혔다.",
+      "이후 특별시청 무안청사에서 실·국장들과 만나 반도체 지원 대책, 재난·재해 대비, 서민 안정 대책을."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "ncb8fd331",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/01/GU2TGYZYGQ2WGYJVG4ZTMNBYMY/",
+    "title": "\"충격!\" 日 재정 적자 심각…'2연속 토너먼트 0승' 모리야스 감독 연임 고려→'어디 좋은 후원사 없나' 직접 영업",
+    "summary": [
+      "[스포츠조선 김가을 기자]충격이다.",
+      "일본축구협회가 재정난 탓에 모리야스 하지메 감독 연임을 고려하는 것으로 알려졌다.",
+      "일본의 '데일리신초'는 6월 30일 '우승을 목표로 했던 일본의 2026년 북중미월드컵은 3연속 토너먼트 진출로 마무리됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc083d33d",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701004100091",
+    "title": "美대법, '앱수수료 분쟁' 애플의 법정모독 여부 정식 심리키로",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국 연방대법원이 에픽게임즈와 앱 결제 수수료 분쟁을 벌이고 있는 애플에 '법정모독' 혐의를 적용한 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne84f90a3",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701003400071",
-    "title": "美·중동 7개국, 헤즈볼라 금융기관 겨냥 제재",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701003700072",
+    "title": "[베네수 강진] 사망자 1천900명 넘어…부상자도 1만명대",
     "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 테러리스트 자금추적센터(TFTC) 회원국들이 레바논의 친(親)이란 무장정파 헤즈볼라를 겨냥한 금융제재에 나..."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 지난 24일(현지시간) 베네수엘라 연쇄 강진으로 인한 사망자가 1천900명을 넘어선 것으로 30일 집계됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n05d3924b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701003500527",
+    "title": "전남 완도군에 호우주의보",
+    "summary": [
+      "(광주=연합뉴스) 기상청은 1일 오전 3시 30분을 기해 완도군(여서도 제외)에 호우주의보를 발효한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
@@ -365,7 +473,7 @@ window.NEWS_DB = [
     "id": "nf0ff22c7",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/baseball/2026/07/01/HBRDMMLDGRTDKMBZG4YGIZRWGU/",
     "title": "'4타점 먹방' 류지혁이 공개한 삼성 5연승의 진짜 비밀 [오!쎈 창원]",
     "summary": [
@@ -378,100 +486,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne12a6ef8",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/01/MYYTENDFGA4DQZJWMIZGCYLDMU/",
-    "title": "\"오프너 정말 싫다\" 이래서였나? 다저스 구세주된 KIA 출신 문제아, 2년 연속 WS 등판 이룰까",
-    "summary": [
-      "[스포츠조선 박상경 기자] \"솔직히 정말 싫다.",
-      "견딜 수가 없다.\" 지난 4월 19일(이하 한국시각).",
-      "애리조나 다이아몬드백스전에서 토론토 블루제이스의 두 번째 투수로 마운드에 올라 5이닝을 던지고 내려온 에릭 라우어는 디애슬레틱과의 인터뷰에서 이렇게 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n48d9292e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "30분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/01/2026063022472832040",
-    "title": "'시즌 첫 4안타' 국대 포수 위엄 보소! 올스타전 고대하는 김건희 \"키움팬 여러분, 믿고 응원해주세요\"",
-    "summary": [
-      "오는 9월 나고야-아이치 아시안게임에 나설 '야구 국가대표팀'에 발탁된 키움 히어로즈 포수 김건희(22)가 물오른 타격감과 함께 포수의 진면목을 유감없이 발휘하며 팀의 홈 연패 탈출을 견인했다.",
-      "키움은 30일 서울 고척스카이돔에서 열린 '2026 신한 SOL KBO리그' LG 트윈스와 홈 경기에서 6-0으로 완승, 고척 홈 6연패 사슬을 끊어냈다.",
-      "이날 5번 타자 겸 포수로 선발 출장한 김건희는 타석에서 시즌 첫 4안타(1타점, 1득점) 경기를."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n419dd65e",
+    "id": "n8cb81dbc",
     "category": "사회",
     "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/national/incident/2026/07/01/NZJXYBL3EJCHZNTXKG52N46JII/",
-    "title": "죽어가는 여성을 카메라로… ‘사진 찍는 살인마’ 이동식",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/07/01/RDFUDMGQ5JC43NUOLEJ4UGSW6A/",
+    "title": "[33화] “주공의 붉은 두건을 제게 주십시오”",
     "summary": [
-      "죽어가는 여성을 카메라로… ‘사진 찍는 살인마’ 이동식."
+      "[33화] “주공의 붉은 두건을 제게 주십시오”."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ba92034",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/economy/money/2026/07/01/4EZPTIQO3ZFM7OFKQ7JBIEC2LQ/",
-    "title": "돈의 물길에 올라 타라… 실적이 있는 곳으로 노를 저어라",
-    "summary": [
-      "돈의 물길에 올라 타라… 실적이 있는 곳으로 노를 저어라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6587796f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630081851054",
-    "title": "전남광주통합특별시의회 본회의 0시 첫 개회…필수법규 처리(종합)",
-    "summary": [
-      "(광주·무안=연합뉴스) 형민우 박철홍 기자 = 전남광주통합특별시의회가 1일 0시 첫 본회의를 열고 대한민국 첫 통합 광역의회로서 공식 의정활동을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4073a7a7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "42분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003690479",
-    "title": "트럼프, 대법 출생시민권 유지에 \"입법으로 만회 가능\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 30일(현지 시간) 연방대법원이 출생시민권(birthright citizenship)을 유지한다고 판결하자 \"대통령의 지지를 바탕으로 의회 입법을 통해 쉽게 만회할 수 있다\"며 우회 의사를 드러냈다.",
-      "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 연방대법원의 출생시민권 유지 결정을 \"우리나라로서는 너무 나쁜 일\"이라면서 이같이 밝혔다.",
-      "이어 \"길고 다루기 힘든 헌법 개정은."
-    ],
-    "chips": [
-      "#정치"
     ]
   },
   {
     "id": "n28ed4e18",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260701002800054",
     "title": "민형배 전남광주특별시장 \"행정 역량 묶어 성장의 판 바꿀 것\"",
     "summary": [
@@ -482,26 +514,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd4e7a626",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "54분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003690476",
-    "title": "베네수 야권 지도자 마차도 귀국 불발…\"정부가 방해\"",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 베네수엘라 야권 지도자인 마리아 코리나 마차도가 최근 강진 피해를 입은 자국의 구호 활동을 돕기 위해 귀국을 시도했으나 항공편 탑승이 불발됐다.",
-      "30일(현지 시간) 월스트리트저널(WSJ)에 따르면 마차도는 전날 소셜미디어 엑스(X·옛 트위터)에 올린 영상을 통해 파나마에서 베네수엘라행 항공편 탑승을 시도했으나 실패했다고 밝혔다.",
-      "최근 강진 발생 후 귀국을 타진한 마차도는 지난 28일 파나마시티에서 카라카스행 코파."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nafbbc6be",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153011",
     "title": "넷플릭스의 K-콘텐츠 확대 전략은? '맞춤형'으로 추천하고 '입소문' 타고 팬덤 키운다",
     "summary": [
@@ -513,42 +529,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0e492cf0",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003690473",
-    "title": "美대법 \"성전환자 女스포츠 출전 금지 합헌\"…트럼프 \"승리\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 연방대법원이 생물학적 성을 기준으로 출전자격을 제한하는 주(州)법률이 합헌이라고 판결했다.",
-      "성전환 선수들의 여성 스포츠 종목 출전을 금지한 일부 주 법률에 문제가 없다는 판단이다.",
-      "NBC뉴스와 NPR 등에 따르면 대법원은 30일(현지시간) 웨스트버지니아주와 아이다호주의 성전환 선수 출전 금지법이 합헌이라고 판단했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na899daea",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003690467",
-    "title": "민형배 특별시장 취임…\"압도적 성장으로 지역주도성장 효능 증명\"",
-    "summary": [
-      "[무안=뉴시스] 구용희 기자 = 민형배 전남광주통합특별시장이 1일 취임선서와 함께 대한민국 최초 통합특별시의 출범을 공식 선언했다.",
-      "민 시장은 이날 오전 전남 무안 전남광주통합특별시의회 남악청사에서 취임사를 통해 \"전남광주통합특별시는 대한민국 국가운영 방식의 대전환을 여는 첫 무대”라며 “압도적 성장으로 지역주도성장의 효능을 증명하겠다\"고 밝혔다.",
-      "그는 \"전남과 광주가 다시 하나가 되면서 대한민국을 뒤흔들 거대한 성장축으로 도약할 기회를 맞았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n09690f08",
     "category": "경제",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153015",
     "title": "위메이드·위메이드맥스 동반 상한가…박관호 의장 지분 9200억 매각에 '쩐주' 중국행",
     "summary": [
@@ -561,45 +545,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1c4d1d02",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/world/2026/07/01/2026070101293549771",
-    "title": "美대법 \"트랜스젠더, 여학생 스포츠 참가 금지 합당\"…1·2심 뒤집혔다",
-    "summary": [
-      "트랜스젠더의 학내 여성 스포츠팀 참여 금지는 합당하다고 미국 연방대법원이 30일(현지시간) 판결했다.",
-      "도널드 트럼프 대통령이 트랜스젠더의 여성 스포츠 종목 출전 금지를 골자로 추진하는 '유권자 신분검사 강화 법안'(유권자 ID 법안) 처리에도 영향을 미칠 것으로 보인다.",
-      "대법원은 이날 트랜스젠더 고등학생 베키 페퍼-잭슨(16)과 대학생 린제이 히콕스(25)가 각각 웨스트버지니아주와 아이다호주의 법률에 대해 제기한 소송에서 재판관 6대 3으로 원."
-    ],
-    "chips": [
-      "#정책",
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc29d23d1",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/opinion/2026/07/01/2026063009265195759",
-    "title": "초과세수, 아일랜드처럼 원칙을 세우자[투데이窓/임진]",
-    "summary": [
-      "2024년 다국적기업 이익 미래 위해 축적 횡재성 세수, 일회성 지출에 사용 안해 반도체 이익 일반예산과 구분해 관리해야 우리나라의 법인세 세수가 크게 증가할 것으로 예상된다.",
-      "인공지능 확산으로 고성능 메모리와 첨단 반도체 수요가 크게 늘고 있고, 그 결과 반도체 경기가 빠르게 좋아지고 있다.",
-      "반도체 기업의 실적 개선은 곧 법인세 증가로 이어진다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
     "id": "ncd73b1b7",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260701001900072",
     "title": "\"미래에셋, 스페이스X 공모주 수요파악을 주문 접수로 오해\"",
     "summary": [
@@ -613,7 +562,7 @@ window.NEWS_DB = [
     "id": "nc6114d5c",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153014",
     "title": "삼성전자·SK하이닉스, 서남권 반도체 팹 투자 확정...825조원 투입",
     "summary": [
@@ -632,7 +581,7 @@ window.NEWS_DB = [
     "id": "nc4680a18",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260701/134213383/1",
     "title": "美출생시민권 유지된다…보수성향 대법원이 트럼프 제동",
     "summary": [
@@ -642,6 +591,51 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
+  },
+  {
+    "id": "nee9b1358",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "2시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701001800054",
+    "title": "전남광주특별시의회, '반도체 지원 조례' 1호 안건 의결",
+    "summary": [
+      "(무안=연합뉴스) 형민우 기자 = 1일 출범한 전남광주통합특별시의회가 1호 안건으로 '전남광주통합특별시 글로벌 반도체 전력투자 지원에 관한 조례..."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nc678f435",
+    "category": "IT",
+    "source": "테크M",
+    "time": "2시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153013",
+    "title": "위메이드 최대주주 中 네오펄스 된다...박관호, 9200억원에 지분 전량 매각",
+    "summary": [
+      "박관호 위메이드 이사회 의장이 약 9200억원 규모의 지분 매각 계약을 체결하며 중국 시장 공략을 본격화 한다.",
+      "글로벌 투자 플랫폼과 손잡고 AI 기반 게임 개발과 시장 확대에 총력을 기울인다는 전략이다.",
+      "이번 딜이 마무리되면 위메이드의 최대주주는 박관호 의장에서 중국 계열 투자 플랫폼 '네오펄스'로 변경된다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n08bfb5ac",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260701/134213365/1",
+    "title": "‘58세’ 니콜 키드먼 건강 비결…“명상과 기도로 아침 맞아”",
+    "summary": [
+      "호주 출신 할리우드 톱 배우 니콜 키드먼(58)이 자신의 정신 건강과 신체 균형을 유지하는 특별한 웰빙 루틴을 공개해 화제다.26일(현지 시간) 스페인 연예 매체 HOLA에 따르면 키드먼은 최근 미 피플과의 인터뷰에서 “나는 매일 명상과 기도를 하고, 호흡법의 힘을 믿는다”며 몸만큼이나 마음을 돌보는 웰빙의 중요성을 강조했다.",
+      "이어 평소 요가를 즐기며, 정서적인 위로가 필요할 때는 주변에 적극적으로 포옹을 요청하는 등 단순한 행동을 통해 삶의."
+    ],
+    "chips": [
+      "#의료"
+    ]
   }
 ];
 
@@ -650,20 +644,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
