@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-30 09:02:36
+// 마지막 업데이트: 2026-06-30 11:00:21
 window.NEWS_DB = [
   {
     "id": "ndc65ba2b",
     "category": "IT",
     "source": "디지털데일리",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90RXFvcDk2SFk5cHZDWlo0bi1sSUM1dmlLc04yX3RuTG1xdU84QlhwOVZlajI5d3oyTUxZTTBNS3ByWnZTYnZRTnZ0azdDbjg1NFRGTlAxU1hyTDJTMkZBUDc2UEU?oc=5",
     "title": "美의 中 반도체 규제 역효과?…AI칩 점유율, 엔비디아↓ 화웨이↑[AI 인포그래픽]",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nf5332d7e",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sa091aVgzV2VFbGRwSjhIWmI4elRpa1lwU0YwdXd0c2pLWGNhY0N5d2RBSEJrdzdmbWR6VjZtdDlQMTc0OFdoM1UteklzOWl1SW5nRFZaSHJkMk3SAWBBVV95cUxNMXdWTjRRbEJSancxRENMemNoWWV0LUlncFFRYTgySThPU2FkenVPZExIUy1OX0FHb3FLX0VqS2QyOU84dlozbHZldVBBV2dYdUxZc2cxVlBWb0lzdlNNUkU?oc=5",
     "title": "엔비디아도 우주 AI 데이터센터 구축 박차…연봉 6억대 채용공고",
     "summary": [
@@ -35,17 +35,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nba50951c",
+    "id": "n48f1b7ac",
     "category": "IT",
-    "source": "초이스스탁US",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IeU1YOXN2aHd2bTRMU013T1pWZXRQWmVOSjlTS0UzNXFjaHBtMmN3X0JvcWJfSDVqc3dlY1dwaWVBbG5fQk9rOTJDQlpEbG9CaXJHU2VNUktjamZFaGlZLVc3ajdnTjA?oc=5",
-    "title": "엔비디아 中반도체 점유율 '제로'",
+    "source": "서울경제",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93Rm12dWwzZHVMWWJfd1AzRFB3VTZyZ2RrUHc5TE94OVhidWJvYjJ0bGhmai1VUTQtbFk0T0FCbHRVUkFBZ0V6MElyYkNyNTh3WEHSAVNBVV95cUxNdlR1c0dGQmUtTzlDNHlHTHJiMElFOTJ0MnQweDNLczlMQVo1RlhMbmpLU1Q2MjhHcHpJd3FUSi1vZExGTFBGS1ZVcHZkaVdJSzZWQQ?oc=5",
+    "title": "엔비디아 빈자리 노린 화웨이·캠브리콘…中 AI칩 ‘자급자족’ 시동",
     "summary": [
-      "엔비디아 中반도체 점유율 '제로' 초이스스탁US."
+      "엔비디아 빈자리 노린 화웨이·캠브리콘…中 AI칩 ‘자급자족’ 시동 서울경제."
     ],
     "chips": [
-      "#반도체",
+      "#AI",
       "#엔비디아"
     ]
   },
@@ -97,6 +97,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nca9f8a56",
+    "category": "IT",
+    "source": "블로터",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
+    "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
+    "summary": [
+      "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여 블로터."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
@@ -110,21 +124,6 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
-    ]
-  },
-  {
-    "id": "nc48b08b9",
-    "category": "IT",
-    "source": "시사저널e",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
-    "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
-    "summary": [
-      "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져 시사저널e."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
     ]
   },
   {
@@ -263,20 +262,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n37646dcf",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "33일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
-    "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
@@ -303,6 +288,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "127일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -387,260 +386,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naa9616a2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "방금 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/06/30/HXCQZ2C7YFFQPDKQDMKRVQ4YQ4/",
-    "title": "광주 간 삼성 CEO “원전·LNG 확대 반드시 추진해달라\"",
-    "summary": [
-      "광주 간 삼성 CEO “원전·LNG 확대 반드시 추진해달라\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1e19b19f",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026063017485644367",
-    "title": "교통약자 발 된 나드리콜…도로공사 손길로 안전 더했다",
-    "summary": [
-      "한국도로공사 대구·경북 본부는 30일 대구염색공단 제3공영주차장에서 대구 공공시설관리공단과 함께 교통약자 이동지원 차량인 '나들이 콜' 218대를 대상으로 무상 정비 서비스를 실시했다고 밝혔다.",
-      "이번 정비는 한국도로공사가 보유한 차량 정비 전문인력의 기술 재능기부를 통해 장애인과 고령자 등 교통약자의 안전한 이동을 지원하고, 본격적인 여름철을 앞두고 차량 안전성과 운행 편의를 높이기 위해 마련됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nac8a05f3",
+    "id": "nb4b8e4a7",
     "category": "사회",
     "source": "아시아경제",
     "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026063018003173411",
-    "title": "\"시민의 뜻으로, 새로운 의정부”…김원기號 민선 9기 청사진 나왔다",
+    "url": "https://view.asiae.co.kr/article/2026063019590593054",
+    "title": "김보라 안성시장 \"사회연대경제는 민선 9기 지역문제 해결 핵심 축\"",
     "summary": [
-      "민선 9기 의정부시의 밑그림이 완성됐다.",
-      "의정부 시민주권 인수위원회(위원장 이재준)는 30일 의정부시청 태조홀에서 '성과공유회'를 열고, 지난 활동의 결실인 시정 비전과 100여 개의 핵심 정책과제를 김원기 의정부시장 당선인에게 공식 전달했다.",
-      "이날 발표된 민선 9기 시정구호는 시민 공모를 거쳐 결정된 '시민의 뜻으로, 새로운 의정부'다."
+      "김보라 안성시장이 민선 9기 출범을 앞두고 사회연대경제를 지역 문제 해결의 핵심 정책 수단으로 내세우며 전국 지방정부 간 협력 강화에 나섰다.",
+      "김 시장은 30일 자신의 SNS를 통해 전날 서울 중구 더플라자호텔에서 기초자치단체장 당선자 20여 명이 참석한 사회연대경제 정책간담회를 개최했다고 밝혔다.",
+      "간담회는 전국사회연대경제 지방정부협의회가 주관하고 한국사회가치연대기금이 후원했다."
     ],
     "chips": [
-      "#정책",
-      "#고용"
+      "#정책"
     ]
   },
   {
-    "id": "n36eb6282",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/30/GZSTCOJTMZSGCZDBMU4DSYZZMQ/",
-    "title": "롯데 어쩌나, 손성빈 예비군 훈련 갔다...두산전 2경기 못 뛴다 [잠실 현장]",
-    "summary": [
-      "[잠실=스포츠조선 김용 기자] 예비군 훈련 간 손성빈.",
-      "롯데 자이언츠 손성빈이 두산 베어스와의 주중 3연전 두 경기에 출전하지 못 한다.",
-      "롯데는 30일 잠실구장에서 열리는 두산전을 앞두고 손성빈이 경조사 말소됐다고 알렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b9c4c82",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/future/2026/06/30/2026063008394351184",
-    "title": "로아이, 일 교토 스타트업 행사 참여…글로벌 진출 기반 마련 나선다",
-    "summary": [
-      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] 로아이(ROAI)가 아마존웹서비스(AWS)와 한국산업은행이 함께 운영하는 글로벌진출프로그램을 통해 일본 시장 진출에 속도를 낸다.",
-      "로아이는 오는 7월 1일부터 3일까지 일본 교토에서 열리는 스타트업 행사 IVS 교토 2026에 참가할 예정이라고 30일 밝혔다.",
-      "해당 행사 참가는 글로벌 진출 프로그램 GBEC(Global Bu."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nc1f1a4b8",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/06/30/2026063017053223617",
-    "title": "[내일 날씨] 중부 폭염 속 소나기…제주·남부 장맛비",
-    "summary": [
-      "수요일인 내일(7월1일) 수도권을 중심으로는 소나기가, 제주도와 남부지방에는 강하고 많은 비가 내리겠다.",
-      "기상청은 30일 \"다음 날은 동해상에 위치한 고기압의 가장자리에 들겠지만, 제주도와 남부지방은 제주도 부근 해상에 위치한 정체전선상에서 발달한 저기압의 영향을 받겠다\"고 예보했다.",
-      "오후부터 밤사이 수도권 북부와 강원 중·북부내륙에 소나기가 내리겠으며 예상 강수량은 서울·인천·경기북부 5~60㎜, 강원 중·북부 내륙 5~40㎜로 전망됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc19639a",
+    "id": "n3818247f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690081",
-    "title": "세수 한 번에 시원해진 오후 [오늘의 한 컷]",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690349",
+    "title": "건국 250주년 美 '성조기 논쟁'…\"국기 달면 트럼프 지지 오해 받을라\"",
     "summary": [
-      "[서울=뉴시스] 대구 낮 최고기온이 32도까지 오르며 더운 날씨를 보인 30일 대구 중구 달성공원에 설치된 음수대에서 한 시민이 세수를 하고 있다."
+      "[서울=뉴시스]이기주 인턴 기자 = 미국 건국 250주년을 앞두고 성조기 게양을 둘러싼 논쟁이 커지고 있다.",
+      "정치적 양극화가 심화하면서 일부 미국인들은 국기를 내거는 행위가 단순한 애국심 표현이 아니라 특정 정치 진영에 대한 지지로 해석될 수 있다는 점을 우려하고 있다.",
+      "지난 29일(현지 시간) NBC 뉴스에 따르면 미국 뉴잉글랜드 지역에 거주하는 브루스 왓슨(72)은 수년간 집 앞에 성조기를 걸어왔지만 최근에는 고민에 빠졌다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n52e80e33",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690272",
+    "title": "국평 17억 '장위 푸르지오 마크원' 1순위 청약 경쟁률 9.6대 1",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 윤도영 인턴기자 = 대우건설이 서울 성북구 장위동에 공급하는 '장위 푸르지오 마크원'이 1순위 청약 평균 경쟁률 9.55대 1을 기록했다.",
+      "30일 한국부동산원 청약홈에 따르면 이날 진행된 1순위 청약에서 이 단지는 510가구 모집에 4873명이 신청했다.",
+      "최고 경쟁률은 전용 46㎡형으로 6가구 모집에 487명이 몰려 81.17대 1의 경쟁률을 기록했다."
+    ],
+    "chips": [
+      "#부동산",
+      "#채용"
+    ]
+  },
+  {
+    "id": "nc91e6f57",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260630/134212097/1",
+    "title": "같은 월드컵 탈락인데… 박수받은 日, 야유 속 귀국한 韓",
+    "summary": [
+      "“우리는 세계 최고 수준과 가까워지고 있다.”모리야스 하지메 일본 축구 대표팀 감독은 30일 미국 휴스턴 스타디움에서 열린 ‘삼바 군단’ 브라질과의 2026 북중미 월드컵 32강전을 마친 뒤 이렇게 말했다.",
+      "이날 일본은 대회 역대 최다(5회) 우승국 브라질을 상대로 선제골을 터뜨리며 이변을 일으키는가 했으나 후반 추가 시간 역전골을 허용하며 1-2로 했다.",
+      "모리야스 감독은 “오늘의 패배를 극복한다면 언젠가는 새 역사를 쓸 수 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n211b4a2d",
+    "id": "n75ed3a9d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690361",
+    "title": "정점식, 與 11개 상임위원장 단독 내정에 \"오만의 정치…李 공소취소 어명 영합\"",
+    "summary": [
+      "[서울=뉴시스]김지훈 우지은 전상우 기자 = 정점식 국민의힘 원내대표는 30일 더불어민주당의 11개 상임위원장 단독 내정에 대해 \"국민을 우습게 보는 오만의 정치\"라고 했다.",
+      "특히 서영교 법사위원장 유임 추진에는 \"(이재명 대통령) 공소취소 특검법을 통과시키라는 어명에 영합한 유임\"이라고 했다.",
+      "정 원내대표는 이날 오후 국회에서 상임위원장 선출 등을 위한 본회의 개의에 앞서 비상의원총회를 열고 \"민주당은 2년 전과 똑같은 수법을 쓰고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n73170ae4",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026063019361367755",
+    "title": "'5·18 관련 표지판'에 걸린 군화…광주시, 경위 파악 나서",
+    "summary": [
+      "5·18 민주화운동 관련 비하·조롱 논란이 잇따르는 가운데 광주시 도심에 설치된 '오월길 안내 표지판'에 군화가 걸려 있는 것이 발견돼 경위 파악이 진행되고 있다.",
+      "30일 연합뉴스에 따르면 광주시와 5·18 기념재단은 이날 광주 동구 대인동 광주은행 본점 인근 교차로 전봇대에 설치된 표지판에 군화 한 짝이 걸려 있다는 신고를 접수했다.",
+      "이 표지판은 5·18 사적지 제3호인 옛 광주시외버스터미널 인근에 조성된 오월길을 안."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n295610d5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630185400704",
+    "title": "[부고] 이찬기(강원대 명예교수)씨 별세",
+    "summary": [
+      "[부고] 이찬기(강원대 명예교수)씨 별세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf51fe5f8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630154451530",
+    "title": "최저임금, 노 1만1천900원 vs 사 1만360원…격차 1천540원(종합)",
+    "summary": [
+      "(서울=연합뉴스) 옥성구 기자 = 노동계와 경영계가 내년 최저임금 2차 수정안으로 각각 1만1천900원과 1만360원을 제시했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d1c2b2e",
     "category": "IT",
     "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/06/30/H3G7KQ5BKRC3RMG4WBNBDCXARU/",
-    "title": "애플도 눈독 들인 中 CXMT, 텐센트에 4.5조 D램 공급...메모리 자립 본격화",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/06/30/NWZBASDL3JGTZHBZY2HYQP7MTE/",
+    "title": "李 “호남 반도체 투자는 역사적 보상...차질 없이 반드시 성공”",
     "summary": [
-      "애플도 눈독 들인 中 CXMT, 텐센트에 4.5조 D램 공급...메모리 자립 본격화."
+      "李 “호남 반도체 투자는 역사적 보상...차질 없이 반드시 성공”."
     ],
     "chips": [
-      "#뉴스"
+      "#반도체"
     ]
   },
   {
-    "id": "n36563578",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690270",
-    "title": "포스코 포항제철소, AI 활용 '현장 안전' 높였다",
+    "id": "n5c232d09",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026063019481583566",
+    "title": "노동연구원장에 '내부출신' 이병희 선임연구위원 선임",
     "summary": [
-      "[포항=뉴시스]안병철 기자 = 포스코 포항제철소가 AI를 활용해 품질 관리와 물류 효율, 현장 안전을 높이는 스마트 혁신을 추진하고 있다고 30일 밝혔다.",
-      "포항제철소는 최근 현장 직원들을 대상으로 AI 기반 프로그램인 '바이브코딩'을 도입해 생산성과 안전성을 동시에 높이고 있다.",
-      "바이브코딩은 AI와 자연어로 대화하며 필요한 프로그램을 구현하는 방식이다."
+      "한국노동연구원 신임 원장에 내부 출신인 이병희(60) 선임연구위원이 선임됐다.",
+      "노동연구원은 고용·노동 분야 국책연구기관이다.",
+      "국무총리 산하 경제·인문사회연구회(NRC)는 30일 이사회를 열고 15대 노동연구원장 이 선임연구위원을 선임했다고 밝혔다."
+    ],
+    "chips": [
+      "#고용",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n211a85b4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/06/30/RQKXCO6RPFC7TED33NFJ7I5BJY/",
+    "title": "한병도 “與 상임위원장 아닌 곳까지 막힘 없이”... 국회법 개정 추진",
+    "summary": [
+      "한병도 “與 상임위원장 아닌 곳까지 막힘 없이”... 국회법 개정 추진."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb4c0b676",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/People/article/all/20260630/134212271/1",
+    "title": "[인사]한국관광공사",
+    "summary": [
+      "◇한국관광공사 △국제관광본부장 정석인 △기획조정실장 마정민 △경영지원〃 주상건 △코리아MICE뷰로〃 홍현선 △관광AI데이터〃 도현지."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n6607d5d2",
+    "id": "n2e3647a4",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690274",
-    "title": "[속보]민주당, 후반기 법사위원장에 서영교 추천",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b99afc8",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/economy/2026/06/30/2026063017395832952",
-    "title": "무관세 물량 반토막 난 EU 시장… 韓 철강, 정상외교로 '실리' 챙겼다",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690347",
+    "title": "칠곡군, 모듈형 저속차 시장 선점 나선다…2030년까지 추진",
     "summary": [
-      "한국이 유럽연합(EU)와의 철강 관세 협상에서 타국과 경쟁 없이 안정적으로 수출할 수 있는 전용 쿼터로 총 207.3만 톤을 확보했다.",
-      "EU가 자국 철강산업 보호와 안보 위기 대응을 이유로 무관세 수입 파이를 절반 가까이 줄이는 고강도 수입제한 조치를 단행했음에도 이뤄낸 성과다.",
-      "치열한 다자 협상과 최고위급 정상외교를 총동원한 끝에 자유무역협정(FTA)국가와 비(非)FTA 국가 대비 손실을 최소화하며 실리를 챙겼다는 평가가 나온다."
+      "[칠곡=뉴시스] 박홍식 기자 = 경북 칠곡군이 저속자동차 산업 육성과 시장 선점에 본격적으로 나설 전망이다.",
+      "정희용 의원(국민의힘·경북 고령군·성주군·칠곡군)은 칠곡군이 ‘수요특화 모듈형 저속자동차(LSV) 글로벌혁신 규제자유특구'에 신규 지정됐다고 30일 밝혔다.",
+      "이로써 미국과 유럽 등지를 겨냥한 저속차 산업의 글로벌 테스트베드가 구축될 것으로 기대된다."
     ],
     "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "ndbdb7b9c",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630174100007",
-    "title": "염경엽 LG 감독의 단언 \"마무리 손주영, 내년엔 선발\"",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 염경엽 LG 트윈스 감독은 올 시즌 마무리 투수로 변신해 세이브왕에 도전하는 손주영을 내년 시즌엔 '반드시' ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n780802cf",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630171800083",
-    "title": "中 \"홍콩 국가보안법 시행 6년…394명 체포·180명 유죄판결\"",
-    "summary": [
-      "(베이징=연합뉴스) 김현정 특파원 = 홍콩국가보안법 시행 6년 만에 국가안보를 해친 혐의로 394명이 체포된 것으로 집계됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8c9fd6de",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630093652004",
-    "title": "'개표소 봉쇄' 첫 검찰 송치…경찰 폭행 참가자 2명도 영장(종합2보)",
-    "summary": [
-      "(서울=연합뉴스) 이의진 기자 = 경찰이 26일째 이어지는 잠실 개표소 봉쇄 시위 중 공권력 행사를 적극적으로 방해한 참가자들을 대거 특정해 수..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n134cbbb5",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690257",
-    "title": "이 대통령, HBM 등 SK 반도체 전시 관람…\"냉각 중요하지 않나\" 질문도",
-    "summary": [
-      "[서울=뉴시스]김경록 기자 = 이재명 대통령은 30일 고대역폭메모리(HBM) 등 SK그룹이 제작한 반도체 제품들을 둘러봤다.",
-      "안귀령 청와대 부대변인은 서면브리핑을 내고 이 대통령이 이날 오후 광주 김대중컨벤션센터에서 '서남권 첨단산업 발전비전 국민보고회'에 참석하기 전 SK그룹이 준비한 반도체 전시를 관람했다고 밝혔다.",
-      "이 대통령은 곽노정 SK하이닉스 대표 등과 함께 서버용 D램, HBM, AI 데이터센터용 스토리지 등 전시된 제품들을 봤다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#SK하이닉스",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0d3fa878",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026063017550258429",
-    "title": "NIA AI정책센터 개소…김형철 원장 \"AI 산업·현장 연결하는 핵심 가교 될 것\"",
-    "summary": [
-      "\"인공지능(AI) 정책센터가 AI 산업과 현장을 연결하는 핵심 가교가 되겠다.\" 한국지능정보사회진흥원(NIA) 김형철 원장은 30일 NIA 서울사무소 대회의실에서 열린 AI정책센터 개소식에서 \"AI 정책센터로서 국가 AI 정책·법제 전문성과 실행력을 한층 더 높이겠다\"며 이같이 말했다.",
-      "김 원장은 \"AI 기본·시행계획 수립부터 영향 조사·분석, 법·제도 연구에 이르기까지 국가 AI 정책 전반을 떠받치는 든든한 전문기관으로 발돋움."
-    ],
-    "chips": [
-      "#AI",
       "#정책"
     ]
   },
   {
-    "id": "n40baec64",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/30/2026063014574230033",
-    "title": "쉿 비밀! LG, 1일 선발 투수 함구 \"김진수는 아냐→박시원 아니면...\" 사실상 불펜 데이 선언",
+    "id": "n210deb93",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630180200081",
+    "title": "EU, 내달부터 소액 소포에 3유로 관세…쉬인·테무 등 겨냥",
     "summary": [
-      "대체 및 임시 선발 로테이션으로 힘겨운 일주일을 보낸 LG 트윈스가 또 한 번의 '임기응변' 시험대에 오른다.",
-      "LG는 주중 주전 투수들의 잇따른 부상과 공백 속에서 장현식, 이정용 등을 변칙 선발로 내세우며 3승 3패로 간신히 균형을 맞췄다.",
-      "지난 25일 삼성전 선발 이정용이 5이닝 8실점으로 무너진 데 이어, 29일 롯데전에서는 장현식이 2⅔이닝 4실점으로 패전의 멍에를 썼다."
+      "(파리=연합뉴스) 송진원 특파원 = 프랑스 정부가 사실상 쉬인이나 테무 등 중국 온라인 상거래업체를 겨냥해 도입했던 소액 소포 세금을 내달 1일..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n37e7777b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630170500017",
+    "title": "허위조작정보 규제 내달 7일 시행…기대와 우려 교차",
+    "summary": [
+      "(서울=연합뉴스) 유현민 김채린 기자 = 다음 달 7일부터 온라인에서 법원 판결로 불법 또는 허위조작정보로 확정된 내용을 반복 유통해 수익을 얻..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "ne5d0f0ec",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260630/134211530/1",
+    "title": "“대통령이 쓸 수 있는 카드 많아…유시민·김어준 성하지 못할 것”[황형준의 법정모독]",
+    "summary": [
+      "동아일보 정치 라이브 ＜법정모독＞- 일시: 화·목요일 오전 10~11시- 토크: 김근식 경남대 교수, 김철근 전 개혁신당 사무총장- 진행·연출: 황형준, 심성주- 동아일보 유튜브 : www.youtube.com/@donga-ilbo 국민의힘 장동혁 대표가 당내 비판 세력에 대해 윤리위원회 징계 카드를 꺼내든 것을 두고 차기 당권 경쟁자를 견제하기 위한 포석이라는 해석이 나왔다.",
+      "더불어민주당 당권을 두고 계파 갈등이 격화하는 가운데 과거 ‘비명횡."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n08e016ec",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "24분 전",
+    "url": "https://view.asiae.co.kr/article/2026063019352163851",
+    "title": "[속보]野 \"의장 강제배정 11개 상임위, 위원 전원 사임\"",
+    "summary": [
+      "[속보]野 \"의장 강제배정 11개 상임위, 위원 전원 사임\"."
     ],
     "chips": [
       "#뉴스"
@@ -652,21 +649,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정책",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
