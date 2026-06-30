@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-30 16:41:59
+// 마지막 업데이트: 2026-06-30 17:33:43
 window.NEWS_DB = [
   {
     "id": "n78461dff",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yS3RSTVIyT3VhXzdkUm5xRTU4SzQtRkJwZjZDUllYYkZGRDhrNEtwRzR1NFZxa1VZR2JlT3pPb1Z6YU55Y0tZMkUybkhMbk1ISm1wc3h0a0tGcGRMX0tVLWlMbk5COTE0LUNKYnBpWTJwUVE?oc=5",
     "title": "엔비디아 AI 휴머노이드로 성장동력 확보, \"반도체와 소프트웨어 수직계열화가 장점\"",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n910de8e4",
     "category": "스포츠",
     "source": "네이트",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qOGVCbFRiS0ZYaGt1cUJWcnpsTXhobFhydE5VdnZUVTlrNk8zS1NNSzV2Z0dyWThrWnR4N3FQd0pFV3gtdlUyaklBbDZnVW9VTERpaDRNcHJQQnNDRDFlOA?oc=5",
     "title": "신생팀 안산 웨이브스, KBO 드림컵 독립야구대회 우승",
     "summary": [
@@ -79,22 +79,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne0482e30",
-    "category": "사회",
-    "source": "데일리안",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMkVsVkJMWFV3R1JRQ1Q1RzE1MzJVZWNSc1N5S3pEaHhMMWo3eHFVemd4NGpaOTloT1h4MUtMN2drd3QtcUg0VzBMbmxxRjhmZmNGNXdEc3JjZV9FWTlYMUJhZ1RQdUNYaW90clpabTFzV2RqY2dWR19kM09LU1B3a2VpQ3NlYk1LUHd0X2gtbU1SUnF5djRQSVh1V19VN1ZpaGd6RkVHeDctXzFFRDRQNFpJcm1IVVVnNVJrVmc3MVhZdWtCRkt4N3R6bkJBeFZfSDIxNGYwNnZMaE5GTWo0cm5sa09DczdoWnc4Q21vM2tXbWtlMlJid0FoZzBTczdFVnlMeEJ30gGGAkFVX3lxTFAyRWxWQkxYVXdHUlFDVDVHMTUzMlVlY1JzU3lLekRoeEwxajd4cVV6Z3g0alo5OWhPWHgxS0w3Z2t3dC1xSDRXMExubHFGOGZmY0Y1d0RzcmNlX0VZOVgxQmFnVFB1Q1hpb3RyWlptMXNXZGpjZ1ZHX2QzT0tTUHdrZWlDc2ViTUtQd3RfaC1tTVJScXl2NFBJWHVXX1U3VmloZ3pGRUd4Ny1fMUVENFA0WklybUhVVWc1UmtWZzcxWFl1a0JGS3g3dHpuQkF4Vl9IMjE0ZjA2dkxoTkZNajRybmxrT0NzN2hadzhDbW8za1dta2UyUmJ3QWhnMFNzN0VWeUx4Qnc?oc=5",
-    "title": "AI가 취업확률 분석한다…고용24 맞춤형 고용서비스 공개",
-    "summary": [
-      "AI가 취업확률 분석한다…고용24 맞춤형 고용서비스 공개 데일리안."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
@@ -111,17 +95,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nca9f8a56",
-    "category": "IT",
-    "source": "블로터",
+    "id": "na9c15208",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
-    "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
+    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
     "summary": [
-      "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여 블로터."
+      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
     ],
     "chips": [
-      "#삼성전자"
+      "#AI",
+      "#고용"
     ]
   },
   {
@@ -138,6 +123,21 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
+    ]
+  },
+  {
+    "id": "nc48b08b9",
+    "category": "IT",
+    "source": "시사저널e",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
+    "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
+    "summary": [
+      "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져 시사저널e."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자"
     ]
   },
   {
@@ -323,7 +323,7 @@ window.NEWS_DB = [
     "id": "nafbbc6be",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "4분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153011",
     "title": "넷플릭스의 K-콘텐츠 확대 전략은? '맞춤형'으로 추천하고 '입소문' 타고 팬덤 키운다",
     "summary": [
@@ -335,10 +335,42 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0e492cf0",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003690473",
+    "title": "美대법 \"성전환자 女스포츠 출전 금지 합헌\"…트럼프 \"승리\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 연방대법원이 생물학적 성을 기준으로 출전자격을 제한하는 주(州)법률이 합헌이라고 판결했다.",
+      "성전환 선수들의 여성 스포츠 종목 출전을 금지한 일부 주 법률에 문제가 없다는 판단이다.",
+      "NBC뉴스와 NPR 등에 따르면 대법원은 30일(현지시간) 웨스트버지니아주와 아이다호주의 성전환 선수 출전 금지법이 합헌이라고 판단했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na899daea",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003690467",
+    "title": "민형배 특별시장 취임…\"압도적 성장으로 지역주도성장 효능 증명\"",
+    "summary": [
+      "[무안=뉴시스] 구용희 기자 = 민형배 전남광주통합특별시장이 1일 취임선서와 함께 대한민국 최초 통합특별시의 출범을 공식 선언했다.",
+      "민 시장은 이날 오전 전남 무안 전남광주통합특별시의회 남악청사에서 취임사를 통해 \"전남광주통합특별시는 대한민국 국가운영 방식의 대전환을 여는 첫 무대”라며 “압도적 성장으로 지역주도성장의 효능을 증명하겠다\"고 밝혔다.",
+      "그는 \"전남과 광주가 다시 하나가 되면서 대한민국을 뒤흔들 거대한 성장축으로 도약할 기회를 맞았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n09690f08",
     "category": "경제",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "13분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153015",
     "title": "위메이드·위메이드맥스 동반 상한가…박관호 의장 지분 9200억 매각에 '쩐주' 중국행",
     "summary": [
@@ -351,10 +383,205 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nde9fe975",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/01/LKJLCQINOZCOVGZPPKG24PGCMQ/",
+    "title": "출생시민권도, 관세도…‘취임 첫날' 약속 어디로, 트럼프 2기의 현실",
+    "summary": [
+      "출생시민권도, 관세도…‘취임 첫날' 약속 어디로, 트럼프 2기의 현실."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4efa69df",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/01/MFQWENBYGAZWMZDFGVRGCMBVMY/",
+    "title": "'충격, 아모림은 너무 엄격했다' '소방수' 마이클 캐릭, 단기간에 맨체스터 유나이티드를 변화 성공시킨 비결 공개..'아모림의 5가지 규칙 바꿨다'",
+    "summary": [
+      "[스포츠조선 노주환 기자]'소방수' 마이클 캐릭이 짧은 기간 동안 맨체스터 유나이티드를 변화시킨 비결이 공개됐다.",
+      "영국 매체 '맨체스터 이브닝 뉴스'는 30일 마이클 캐릭 임시 감독이 루벤 아모림의 규칙 여러 개를 폐지하며 맨유 선수단에 거대한 변화를 가져왔다고 보도했다.",
+      "캐릭은 지난 1월, 아모림의 뒤를 이어 맨유 지휘봉을 잡은 후 12승4무2패를 기록하."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a46e9f0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701002300071",
+    "title": "트럼프 \"출생시민권 유지, 큰 불행…의회입법으로 만회 가능\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 30일(현지시간) 자신이 추진했던 '출생 시민권'(Birthright Citi..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5c68ba4d",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "28분 전",
+    "url": "https://view.asiae.co.kr/article/2026070102045681046",
+    "title": "[이슈]전남광주통합특별시의회가 7월1일 자정에 열린 의미는",
+    "summary": [
+      "편집자주자정에 열린 전남광주통합특별시의회 첫 본회의는 광주와 전남이 각각의 광역자치단체 체제를 마감하고 하나의 지방정부로 움직이기 위한 첫 제도적 절차이자, 통합의 성패를 가를 정치·행정 시스템이 본격 가동되는 출발점이란 점에서 많은 의미를 담고 있다.",
+      "특별법이 만든 틀, 조례가 움직인다전남광주통합특별시는 특별법을 근거로 출범했지만 실제 행정은 조례를 통해 운영된다.",
+      "조직 구성과 예산 집행, 각종 행정."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3ebebef2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003690478",
+    "title": "전남광주통합특별시의회 초대 의장 민주 송형곤 의원(종합)",
+    "summary": [
+      "[무안=뉴시스] 구용희 기자 = 전남광주통합특별시의회 초대 의장에 더불어민주당 송형곤 의원이 선출됐다.",
+      "통합특별시의회는 1일 오전 전남 무안 남악청사 본회의장에서 의원 91명 전원이 참석한 가운데 초대 의장 선거를 실시했다.",
+      "이번 의장 선거에는 더불어민주당 송형곤 의원과 진보당 강광석 의원이 후보로 나섰다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nab520ad2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701002000079",
+    "title": "네타냐후 \"무장한 헤즈볼라 있는 한 레바논서 철군 안해\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란이 이스라엘군 철군을 포함한 레바논 분쟁 중단을 미국과의 종전 조건으로 제시했지만, 베냐민 네타냐후 이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n80f19943",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "35분 전",
+    "url": "https://view.asiae.co.kr/article/2026070101472164322",
+    "title": "전남광주통합특별시 1호 조례는 '반도체'",
+    "summary": [
+      "전남광주통합특별시의회가 출범 첫날 처리한 첫 조례안은 반도체 산업 지원 조례였다.",
+      "통합특별시의회는 1일 0시 첫 본회의에서 '전남광주통합특별시 글로벌 반도체 전략투자 지원에 관한 조례안'을 상정했다.",
+      "통합특별시 출범 이후 사실상 첫 정책 조례이자 상징적인 '1호 조례'다.정치권에서는 이를 두고 통합특별시가 출범과 동시에 행정 통합보다 성장 전략을 앞세우겠다는 선언으로 해석하고 있다."
+    ],
+    "chips": [
+      "#반도체",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n625dbe29",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701002100072",
+    "title": "쿠바 \"미국과 협상 진전 없었다\"…美봉쇄 논의 유엔총회 요청",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 쿠바가 몇 달에 걸친 미국과의 협상에서 진전이 없었다며, 미국의 경제·무역 봉쇄 문제를 논의하기 위한 유엔 ..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n720cf5df",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "37분 전",
+    "url": "https://view.asiae.co.kr/article/2026063018331998001",
+    "title": "광주남구도시재생협력센터, '주민·학생과 만드는 마을 콘텐츠'",
+    "summary": [
+      "㈔광주남구도시재생마을협력센터와 송원대학교 앵커사업단은 도심 캠퍼스 리빙랩 프로젝트의 일환으로 '우리 마을 이야기상점: 주민과 학생이 함께 만드는 남구 마을 콘텐츠 프로젝트'를 시작했다고 30일 밝혔다.이번 프로젝트는 지역 주민과 대학생이 함께 남구의 역사, 문화, 생활 자원을 발굴하고 이를 마을별 특성에 맞는 콘텐츠로 제작·활용하기 위해 마련됐다.",
+      "특히 백운광장, 사직동, 양림동을 중심으로 주민의 기억과 생활."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n4b9a3354",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701002200527",
+    "title": "제주시중산간·제주시서부에 호우주의보",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 1일 오전 1시 45분을 기해 제주시중산간·제주시서부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncd73b1b7",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701001900072",
+    "title": "\"미래에셋, 스페이스X 공모주 수요파악을 주문 접수로 오해\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 스페이스X의 미국 나스닥시장 상장 과정에서 한국 개인 투자자들이 공모주를 한 주도 배정받지 못한 것은 주문 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc9421e0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/01/HO2NKEMLQZCFZK6E2ITZFC5KUQ/",
+    "title": "美 하원의원 100일 넘게 잠적… 돌아와선 “우울증이었다”",
+    "summary": [
+      "美 하원의원 100일 넘게 잠적… 돌아와선 “우울증이었다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na7274f4d",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "45분 전",
+    "url": "https://view.asiae.co.kr/article/2026070101354460320",
+    "title": "[르포] 전남광주통합특별시의회 첫 의사봉…통합, 현실이 되다",
+    "summary": [
+      "7월 1일 0시가 가까워져 오자 전남광주통합특별시의회 본회의장 주변엔 묘한 긴장감이 감돌았다.",
+      "수많은 논쟁과 갈등 끝에 성사된 광주·전남 통합이 마침내 현실로 다가오고 있어서다.",
+      "본회의장에 들어선 91명의 특별시의원은 저마다 이름표가 부착된 자리에 앉아 개회를 기다렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nc6114d5c",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "46분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153014",
     "title": "삼성전자·SK하이닉스, 서남권 반도체 팹 투자 확정...825조원 투입",
     "summary": [
@@ -373,7 +600,7 @@ window.NEWS_DB = [
     "id": "nc4680a18",
     "category": "사회",
     "source": "동아일보",
-    "time": "3분 전",
+    "time": "55분 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260701/134213383/1",
     "title": "美출생시민권 유지된다…보수성향 대법원이 트럼프 제동",
     "summary": [
@@ -388,7 +615,7 @@ window.NEWS_DB = [
     "id": "nee9b1358",
     "category": "IT",
     "source": "연합뉴스(경제)",
-    "time": "4분 전",
+    "time": "56분 전",
     "url": "https://www.yna.co.kr/view/AKR20260701001800054",
     "title": "전남광주특별시의회, '반도체 지원 조례' 1호 안건 의결",
     "summary": [
@@ -402,7 +629,7 @@ window.NEWS_DB = [
     "id": "n3018aecd",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
+    "time": "58분 전",
     "url": "https://www.newsis.com/view/NISX20260701_0003690475",
     "title": "진보 윤민호 \"전남광주통합의회 상임위원장 조기 선출은 졸속\"",
     "summary": [
@@ -413,227 +640,6 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
-  },
-  {
-    "id": "nc678f435",
-    "category": "IT",
-    "source": "테크M",
-    "time": "6분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153013",
-    "title": "위메이드 최대주주 中 네오펄스 된다...박관호, 9200억원에 지분 전량 매각",
-    "summary": [
-      "박관호 위메이드 이사회 의장이 약 9200억원 규모의 지분 매각 계약을 체결하며 중국 시장 공략을 본격화 한다.",
-      "글로벌 투자 플랫폼과 손잡고 AI 기반 게임 개발과 시장 확대에 총력을 기울인다는 전략이다.",
-      "이번 딜이 마무리되면 위메이드의 최대주주는 박관호 의장에서 중국 계열 투자 플랫폼 '네오펄스'로 변경된다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n732a8523",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003690469",
-    "title": "네타냐후 \"헤즈볼라 위협 사라질 때까지 레바논 남부 주둔\"",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 베냐민 네타냐후 이스라엘 총리는 30일(현지 시간) 레바논의 친이란 무장 정파 헤즈볼라가 \"위협\"으로 남아 있는 한 이스라엘군은 해당 지역에 계속 주둔하겠다고 밝혔다.",
-      "AFP통신 등에 따르면 네타냐후 총리는 이날 레바논 남부에 주둔한 이스라엘군 주둔지를 방문한 자리에서 이같이 말했다.",
-      "네타냐후 총리는 \"우리의 입장은 분명하다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncd532532",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630193251082",
-    "title": "[월드컵] 독일 총리 \"대단한 경기\" 위로했다가 뭇매(종합)",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 프리드리히 메르츠 독일 총리가 북중미 월드컵 32강전에서 탈락한 축구 대표팀을 위로한다며 \"대단한 경기였다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44ea792d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701001500054",
-    "title": "초대 전남광주통합특별시의희 의장에 송형곤 의원 선출",
-    "summary": [
-      "(무안=연합뉴스) 형민우 기자 = 초대 전남광주통합특별시의회 의장에 송형곤(더불어민주당·고흥1) 의원이 선출됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n08bfb5ac",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260701/134213365/1",
-    "title": "‘58세’ 니콜 키드먼 건강 비결…“명상과 기도로 아침 맞아”",
-    "summary": [
-      "호주 출신 할리우드 톱 배우 니콜 키드먼(58)이 자신의 정신 건강과 신체 균형을 유지하는 특별한 웰빙 루틴을 공개해 화제다.26일(현지 시간) 스페인 연예 매체 HOLA에 따르면 키드먼은 최근 미 피플과의 인터뷰에서 “나는 매일 명상과 기도를 하고, 호흡법의 힘을 믿는다”며 몸만큼이나 마음을 돌보는 웰빙의 중요성을 강조했다.",
-      "이어 평소 요가를 즐기며, 정서적인 위로가 필요할 때는 주변에 적극적으로 포옹을 요청하는 등 단순한 행동을 통해 삶의."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nab5122ff",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260701/134213362/1",
-    "title": "“수영장 갔다 온 후로 귀가 먹먹”…‘이 질환’ 신호",
-    "summary": [
-      "여름철 수영장이나 바닷가를 다녀온 뒤 귀가 먹먹하거나 간질거리는 증상을 경험하는 경우가 있다.",
-      "대부분은 일시적으로 물이 들어간 것으로 여기고 대수롭지 않게 넘긴다.",
-      "하지만 시간이 지나면서 통증이 발생하거나 귓바퀴를 가볍게 당겼을 때 통증이 심해진다면 외이도염을 의심해볼 필요가 있다."
-    ],
-    "chips": [
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "nceae515a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630197451071",
-    "title": "美 '출생시민권' 유지된다…대법원, 트럼프 이민정책에 제동(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 연방대법원은 30일(현지시간) 미국에서 태어난 아이에게 자동으로 시민권을 부여하는 '출생 시민권'(B..."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n92987a1d",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003689894",
-    "title": "국민연금 55조 매도설에 코스피 하락 우려…\"과도한 해석\"",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 국민연금이 국내 주식을 55조원가량 매도할 수 있다는 전망이 나오면서 7월 코스피 향방에 대한 우려가 커지고 있다.",
-      "국민연금의 국내 주식 비중 조정이 본격화될 경우 이른바 '매도 폭탄'이 현실화되는 것 아니냐는 관측도 제기되지만, 전문가들은 실제 시장 영향은 제한적일 수 있다고 보고 있다.",
-      "김광석 한양대 겸임교수(한국경제산업연구원 경제연구실장)는 지난 29일 유튜브 채널 '경제 읽어주는 남자 김광."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfdaea8cc",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "47분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/07/01/EN64BFBSUNAAFC7LJV6GDWUMWY/",
-    "title": "與, 상임위 11개 장악… 법사위원장에 서영교",
-    "summary": [
-      "與, 상임위 11개 장악… 법사위원장에 서영교."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na1228ac4",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "52분 전",
-    "url": "https://www.hankyung.com/article/2026070178411",
-    "title": "\"출생시민권 금지 안돼\"…美대법원, 트럼프 제동",
-    "summary": [
-      "\"출생시민권 금지 안돼\"…美대법원, 트럼프 제동."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09597b96",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "54분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/07/01/L6W7FRMH3NG6TNUDLBNVI6PJJE/",
-    "title": "“홍명보 나가” 쏟아진 야유",
-    "summary": [
-      "“홍명보 나가” 쏟아진 야유."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na0b3601a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "58분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/07/01/RZ6VPDTRLNCJRPKSONWTZZTH4Y/",
-    "title": "아빠는 스파이더맨",
-    "summary": [
-      "아빠는 스파이더맨."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef20e4ca",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/01/CXACJZME65AUVHZHRKZKD64HMY/",
-    "title": "2000년 전 토기 잔 맞아? 요즘 유행하는 머그컵 같네",
-    "summary": [
-      "2000년 전 토기 잔 맞아? 요즘 유행하는 머그컵 같네."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n69583502",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260701/134213318/1",
-    "title": "“모스크바 외곽 러 우주통신센터, 8일만에 또 우크라 드론 피격”",
-    "summary": [
-      "러시아 수도 모스크바 외곽의 두브나에 있는 우주통신센터가 일주일여 만에 다시 우크라이나군의 공격을 받았다고 볼로디미르 젤렌스키 우크라이나 대통령이 30일(현지시간) 밝혔다.우크라이나 일간 ‘키이우 인디펜던트’에 따르면 젤렌스키 대통령은 “오늘 러시아의 전쟁에 대한 우리의 장거리 제재가 다시 한번 두브나 우주통신센터에 도달했다”고 말했다.젤렌스키 대통령은 우크라이나군의 장거리 드론 공격을 ‘장거리 제재’로 칭한다.",
-      "그는 “센터는 특수 위성통신 시."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf6422698",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607017845i",
-    "title": "美대법원,\"미국서 태어나면 미국시민\"인정…트럼프 행정명령 기각",
-    "summary": [
-      "美대법원,\"미국서 태어나면 미국시민\"인정…트럼프 행정명령 기각."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -642,8 +648,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
@@ -654,8 +660,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
