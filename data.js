@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-30 15:47:54
+// 마지막 업데이트: 2026-06-30 16:41:59
 window.NEWS_DB = [
+  {
+    "id": "n78461dff",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yS3RSTVIyT3VhXzdkUm5xRTU4SzQtRkJwZjZDUllYYkZGRDhrNEtwRzR1NFZxa1VZR2JlT3pPb1Z6YU55Y0tZMkUybkhMbk1ISm1wc3h0a0tGcGRMX0tVLWlMbk5COTE0LUNKYnBpWTJwUVE?oc=5",
+    "title": "엔비디아 AI 휴머노이드로 성장동력 확보, \"반도체와 소프트웨어 수직계열화가 장점\"",
+    "summary": [
+      "엔비디아 AI 휴머노이드로 성장동력 확보, \"반도체와 소프트웨어 수직계열화가 장점\" 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n910de8e4",
     "category": "스포츠",
     "source": "네이트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qOGVCbFRiS0ZYaGt1cUJWcnpsTXhobFhydE5VdnZUVTlrNk8zS1NNSzV2Z0dyWThrWnR4N3FQd0pFV3gtdlUyaklBbDZnVW9VTERpaDRNcHJQQnNDRDFlOA?oc=5",
     "title": "신생팀 안산 웨이브스, KBO 드림컵 독립야구대회 우승",
     "summary": [
@@ -16,27 +32,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndc65ba2b",
-    "category": "IT",
-    "source": "디지털데일리",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90RXFvcDk2SFk5cHZDWlo0bi1sSUM1dmlLc04yX3RuTG1xdU84QlhwOVZlajI5d3oyTUxZTTBNS3ByWnZTYnZRTnZ0azdDbjg1NFRGTlAxU1hyTDJTMkZBUDc2UEU?oc=5",
-    "title": "美의 中 반도체 규제 역효과?…AI칩 점유율, 엔비디아↓ 화웨이↑[AI 인포그래픽]",
-    "summary": [
-      "美의 中 반도체 규제 역효과?…AI칩 점유율, 엔비디아↓ 화웨이↑[AI 인포그래픽] 디지털데일리."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#정책"
-    ]
-  },
-  {
     "id": "nf5332d7e",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sa091aVgzV2VFbGRwSjhIWmI4elRpa1lwU0YwdXd0c2pLWGNhY0N5d2RBSEJrdzdmbWR6VjZtdDlQMTc0OFdoM1UteklzOWl1SW5nRFZaSHJkMk3SAWBBVV95cUxNMXdWTjRRbEJSancxRENMemNoWWV0LUlncFFRYTgySThPU2FkenVPZExIUy1OX0FHb3FLX0VqS2QyOU84dlozbHZldVBBV2dYdUxZc2cxVlBWb0lzdlNNUkU?oc=5",
     "title": "엔비디아도 우주 AI 데이터센터 구축 박차…연봉 6억대 채용공고",
     "summary": [
@@ -52,7 +51,7 @@ window.NEWS_DB = [
     "id": "ne78b3f05",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTgwcEsxSGF3NmxJUlNINXFkX04zUUVkYkozWFpsZG84MUo0dXNWWTlDWFNySEFoazJzTElnYlp2dG00WnBjSzZKTTNPS050ZDE1R1N1RlBFZm5JZGRmeTBvZGI5U20wT2JyVW5YSGZWd25IY0NkelE2SkE5N2hYODNSSHJxQnpK?oc=5",
     "title": "엔비디아 中반도체 점유율 '제로'",
     "summary": [
@@ -80,6 +79,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne0482e30",
+    "category": "사회",
+    "source": "데일리안",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMkVsVkJMWFV3R1JRQ1Q1RzE1MzJVZWNSc1N5S3pEaHhMMWo3eHFVemd4NGpaOTloT1h4MUtMN2drd3QtcUg0VzBMbmxxRjhmZmNGNXdEc3JjZV9FWTlYMUJhZ1RQdUNYaW90clpabTFzV2RqY2dWR19kM09LU1B3a2VpQ3NlYk1LUHd0X2gtbU1SUnF5djRQSVh1V19VN1ZpaGd6RkVHeDctXzFFRDRQNFpJcm1IVVVnNVJrVmc3MVhZdWtCRkt4N3R6bkJBeFZfSDIxNGYwNnZMaE5GTWo0cm5sa09DczdoWnc4Q21vM2tXbWtlMlJid0FoZzBTczdFVnlMeEJ30gGGAkFVX3lxTFAyRWxWQkxYVXdHUlFDVDVHMTUzMlVlY1JzU3lLekRoeEwxajd4cVV6Z3g0alo5OWhPWHgxS0w3Z2t3dC1xSDRXMExubHFGOGZmY0Y1d0RzcmNlX0VZOVgxQmFnVFB1Q1hpb3RyWlptMXNXZGpjZ1ZHX2QzT0tTUHdrZWlDc2ViTUtQd3RfaC1tTVJScXl2NFBJWHVXX1U3VmloZ3pGRUd4Ny1fMUVENFA0WklybUhVVWc1UmtWZzcxWFl1a0JGS3g3dHpuQkF4Vl9IMjE0ZjA2dkxoTkZNajRybmxrT0NzN2hadzhDbW8za1dta2UyUmJ3QWhnMFNzN0VWeUx4Qnc?oc=5",
+    "title": "AI가 취업확률 분석한다…고용24 맞춤형 고용서비스 공개",
+    "summary": [
+      "AI가 취업확률 분석한다…고용24 맞춤형 고용서비스 공개 데일리안."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
@@ -92,21 +107,6 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "na9c15208",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
-    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
-    "summary": [
-      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
-    ],
-    "chips": [
-      "#AI",
       "#고용"
     ]
   },
@@ -370,10 +370,55 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc4680a18",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260701/134213383/1",
+    "title": "美출생시민권 유지된다…보수성향 대법원이 트럼프 제동",
+    "summary": [
+      "미국에서 태어난 아이들에게 자동으로 시민권을 부여하는 출생시민권 제도가 유지돼야 한다고 미 연방대법원이 30일(현지 시간) 판결했다.도널드 트럼프 미국 대통령은 2기 행정부 취임 첫날 행정명령을 통해 150년 이상 이어진 출생시민권제도를 사실상 폐지하려 했으나, 보수성향의 대법원 조차도 위헌적이라며 제동을 걸었다.",
+      "AP통신 등에 따르면 미 연방대법원은 이날 도널드 트럼프 행정부의 출생시민권 폐지 행정명령이 위헌이라고 판단했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nee9b1358",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701001800054",
+    "title": "전남광주특별시의회, '반도체 지원 조례' 1호 안건 의결",
+    "summary": [
+      "(무안=연합뉴스) 형민우 기자 = 1일 출범한 전남광주통합특별시의회가 1호 안건으로 '전남광주통합특별시 글로벌 반도체 전력투자 지원에 관한 조례..."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n3018aecd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003690475",
+    "title": "진보 윤민호 \"전남광주통합의회 상임위원장 조기 선출은 졸속\"",
+    "summary": [
+      "[무안=뉴시스] 구용희 기자 = 전남광주통합특별시의회가 1일 공식 출범한 가운데 진보당이 상임위원장 조기 선출과 교섭단체 구성 요건을 강하게 비판하고 나섰다.",
+      "진보당은 전국 최초 통합특별시의회가 출범 초기부터 절차적 정당성과 협치의 원칙을 지켜야 한다고 촉구했다.",
+      "광주 북구 제2선거구 출신 진보당 윤민호 의원은 1일 통합특별시의회 전남 무안 남악청사 본회의장에서 열린 첫 본회의에서 전남광주통합특별시의회 교섭단체 및 위원회 구성과 운영에 관한 조."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nc678f435",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "6분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153013",
     "title": "위메이드 최대주주 中 네오펄스 된다...박관호, 9200억원에 지분 전량 매각",
     "summary": [
@@ -386,56 +431,176 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nac352ad5",
+    "id": "n732a8523",
     "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/nie/2026/07/01/BDMECVOPHZESTIAGTSZ6Q4IIC4/",
-    "title": "[신문은 선생님] [동물 이야기] 부모 모두 새끼 ‘젖’ 먹일 수 있는 물새… 붉은 깃털 갖게 된 이유는?",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003690469",
+    "title": "네타냐후 \"헤즈볼라 위협 사라질 때까지 레바논 남부 주둔\"",
     "summary": [
-      "[신문은 선생님] [동물 이야기] 부모 모두 새끼 ‘젖’ 먹일 수 있는 물새… 붉은 깃털 갖게 된 이유는?."
+      "[서울=뉴시스] 권성근 기자 = 베냐민 네타냐후 이스라엘 총리는 30일(현지 시간) 레바논의 친이란 무장 정파 헤즈볼라가 \"위협\"으로 남아 있는 한 이스라엘군은 해당 지역에 계속 주둔하겠다고 밝혔다.",
+      "AFP통신 등에 따르면 네타냐후 총리는 이날 레바논 남부에 주둔한 이스라엘군 주둔지를 방문한 자리에서 이같이 말했다.",
+      "네타냐후 총리는 \"우리의 입장은 분명하다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf13341cd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/nie/2026/07/01/KSTWNWTLMZB6PEZWRETGTE4G2Q/",
-    "title": "[신문은 선생님] [알립니다] 조선일보 ‘1일 기자 체험’ 참가자 모집",
+    "id": "ncd532532",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630193251082",
+    "title": "[월드컵] 독일 총리 \"대단한 경기\" 위로했다가 뭇매(종합)",
     "summary": [
-      "[신문은 선생님] [알립니다] 조선일보 ‘1일 기자 체험’ 참가자 모집."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "nc7fad8c2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/nie/2026/07/01/G35IF4F4U5C6VB5VCPMCXYHQUI/",
-    "title": "[신문은 선생님] [예쁜 말 바른 말] [451] ‘쫓다’와 ‘좇다’",
-    "summary": [
-      "[신문은 선생님] [예쁜 말 바른 말] [451] ‘쫓다’와 ‘좇다’."
+      "(베를린=연합뉴스) 김계연 특파원 = 프리드리히 메르츠 독일 총리가 북중미 월드컵 32강전에서 탈락한 축구 대표팀을 위로한다며 \"대단한 경기였다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n78c8e0cd",
+    "id": "n44ea792d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701001500054",
+    "title": "초대 전남광주통합특별시의희 의장에 송형곤 의원 선출",
+    "summary": [
+      "(무안=연합뉴스) 형민우 기자 = 초대 전남광주통합특별시의회 의장에 송형곤(더불어민주당·고흥1) 의원이 선출됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n08bfb5ac",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260701/134213365/1",
+    "title": "‘58세’ 니콜 키드먼 건강 비결…“명상과 기도로 아침 맞아”",
+    "summary": [
+      "호주 출신 할리우드 톱 배우 니콜 키드먼(58)이 자신의 정신 건강과 신체 균형을 유지하는 특별한 웰빙 루틴을 공개해 화제다.26일(현지 시간) 스페인 연예 매체 HOLA에 따르면 키드먼은 최근 미 피플과의 인터뷰에서 “나는 매일 명상과 기도를 하고, 호흡법의 힘을 믿는다”며 몸만큼이나 마음을 돌보는 웰빙의 중요성을 강조했다.",
+      "이어 평소 요가를 즐기며, 정서적인 위로가 필요할 때는 주변에 적극적으로 포옹을 요청하는 등 단순한 행동을 통해 삶의."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nab5122ff",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260701/134213362/1",
+    "title": "“수영장 갔다 온 후로 귀가 먹먹”…‘이 질환’ 신호",
+    "summary": [
+      "여름철 수영장이나 바닷가를 다녀온 뒤 귀가 먹먹하거나 간질거리는 증상을 경험하는 경우가 있다.",
+      "대부분은 일시적으로 물이 들어간 것으로 여기고 대수롭지 않게 넘긴다.",
+      "하지만 시간이 지나면서 통증이 발생하거나 귓바퀴를 가볍게 당겼을 때 통증이 심해진다면 외이도염을 의심해볼 필요가 있다."
+    ],
+    "chips": [
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nceae515a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630197451071",
+    "title": "美 '출생시민권' 유지된다…대법원, 트럼프 이민정책에 제동(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 연방대법원은 30일(현지시간) 미국에서 태어난 아이에게 자동으로 시민권을 부여하는 '출생 시민권'(B..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n92987a1d",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003689894",
+    "title": "국민연금 55조 매도설에 코스피 하락 우려…\"과도한 해석\"",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 국민연금이 국내 주식을 55조원가량 매도할 수 있다는 전망이 나오면서 7월 코스피 향방에 대한 우려가 커지고 있다.",
+      "국민연금의 국내 주식 비중 조정이 본격화될 경우 이른바 '매도 폭탄'이 현실화되는 것 아니냐는 관측도 제기되지만, 전문가들은 실제 시장 영향은 제한적일 수 있다고 보고 있다.",
+      "김광석 한양대 겸임교수(한국경제산업연구원 경제연구실장)는 지난 29일 유튜브 채널 '경제 읽어주는 남자 김광."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfdaea8cc",
     "category": "사회",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/nie/2026/07/01/N3AY25O4OVBUNBSKZFOAG6PULY/",
-    "title": "[신문은 선생님] [숨어있는 세계사] 중앙은행·뉴딜 설계한 거장들… 美 경제 대국 이끌었죠",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/07/01/EN64BFBSUNAAFC7LJV6GDWUMWY/",
+    "title": "與, 상임위 11개 장악… 법사위원장에 서영교",
     "summary": [
-      "[신문은 선생님] [숨어있는 세계사] 중앙은행·뉴딜 설계한 거장들… 美 경제 대국 이끌었죠."
+      "與, 상임위 11개 장악… 법사위원장에 서영교."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na1228ac4",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "52분 전",
+    "url": "https://www.hankyung.com/article/2026070178411",
+    "title": "\"출생시민권 금지 안돼\"…美대법원, 트럼프 제동",
+    "summary": [
+      "\"출생시민권 금지 안돼\"…美대법원, 트럼프 제동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n09597b96",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "54분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/07/01/L6W7FRMH3NG6TNUDLBNVI6PJJE/",
+    "title": "“홍명보 나가” 쏟아진 야유",
+    "summary": [
+      "“홍명보 나가” 쏟아진 야유."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na0b3601a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "58분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/07/01/RZ6VPDTRLNCJRPKSONWTZZTH4Y/",
+    "title": "아빠는 스파이더맨",
+    "summary": [
+      "아빠는 스파이더맨."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nef20e4ca",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/01/CXACJZME65AUVHZHRKZKD64HMY/",
+    "title": "2000년 전 토기 잔 맞아? 요즘 유행하는 머그컵 같네",
+    "summary": [
+      "2000년 전 토기 잔 맞아? 요즘 유행하는 머그컵 같네."
     ],
     "chips": [
       "#뉴스"
@@ -445,7 +610,7 @@ window.NEWS_DB = [
     "id": "n69583502",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260701/134213318/1",
     "title": "“모스크바 외곽 러 우주통신센터, 8일만에 또 우크라 드론 피격”",
     "summary": [
@@ -457,176 +622,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9941b280",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003690464",
-    "title": "美 6월 소비자신뢰지수 91.2…유가 하락에 호전",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 미국의 소비자신뢰지수가 6월 들어 호전된 것으로 나타났다.",
-      "이는 유가 하락이 미국 가계에 어느 정도 숨통을 틔워준 것이 영향을 미친 것으로 보인다.",
-      "30일(현지 시간) AP통신, 월스트리트저널(WSJ) 등에 따르면 컨퍼런스보드는 6월 소비자신뢰지수가 91.2로, 5월(90.6)에서 0.6포인트 상승했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n83b1b123",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260701/134213314/1",
-    "title": "‘억대 도박빚’ 고백한 예비 신랑…예비 신부 “정이 있어 가보려 한다”",
-    "summary": [
-      "예비 신랑의 상습적인 인터넷 도박과 억대 빚 고백에도 결혼을 강행하겠다는 예비 신부의 사연이 화제다.28일 한 온라인 커뮤니티에는 ‘인터넷 도박하는 남자와 8월 결혼 예정입니다’라는 제목의 글이 올라왔다.글쓴이 A씨는 “8월 결혼 예정으로 결혼식이 얼마 남지 않았다”며 “(예비 신랑은) 5월 인터넷 도박으로 1억을 잃었다고 한다.",
-      "이 사실을 6월 초에 알았다”고 운을 뗐다.A씨에 따르면 예비 신랑의 도박은 이번이 처음이 아니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5585bf28",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260701/134213311/1",
-    "title": "SUV 바퀴에 다리 깔린 8세 여아, 경찰·시민 힘 합쳐 구조",
-    "summary": [
-      "경기 광주시에서 SUV차량에 깔린 8세 여아를 경찰과 시민이 극적으로 구조했다.30일 경찰 등에 따르면 이날 오후 2시께 경기 광주시 양벌동 한 다세대주택 필로티 주차장에서 A(8)양이 B(40대)씨가 몰던 SUV 차량에 다리가 깔리는 사고가 났다.B씨는 주차장에 진입하는 과정에서 앉아있던 A양을 미처 발견하지 못하고 사고를 낸 것으로 전해졌다.B씨는 사고 직후 차량을 멈췄으나 이미 A양의 다리는 바퀴 아래 깔린 상태였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c0cebde",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260701/134213305/1",
-    "title": "베트남 ‘경기도 다낭시’의 씁쓸한 근황…바가지 상술에 韓 관광객 ‘씁쓸’",
-    "summary": [
-      "한때 한국인 관광객들로 인산인해를 이루며 ‘경기도 다낭시’라는 별칭까지 얻었던 베트남 다낭의 관광 전선에 이상 기류가 감지되고 있다.",
-      "치솟은 현지 물가와 과도한 상술 탓에 한국인 여행객들의 발길이 눈에 띄게 줄어들면서, 현지 주요 상권이 한산한 모습을 보이고 있다.구독자 53만명의 유튜브 채널 ‘세계는요지경 YOZIGYEONG’이 지난달 27일 공개한 현지 영상에 따르면, 다낭 여행의 필수 코스로 꼽히던 한시장은 과거의 활기찬 모습을 찾기 어려."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nf6422698",
     "category": "경제",
     "source": "한국경제",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607017845i",
     "title": "美대법원,\"미국서 태어나면 미국시민\"인정…트럼프 행정명령 기각",
     "summary": [
       "美대법원,\"미국서 태어나면 미국시민\"인정…트럼프 행정명령 기각."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6d50fc59",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701000300098",
-    "title": "푸틴 소유 추정 요트, 4년만에 포착…\"덴마크 해안 출몰\"",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 블라디미르 푸틴 러시아 대통령 소유로 알려진 초호화 요트가 4년 만에 처음으로 레이더에 포착됐다고 덴마크 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n06ddf809",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690061",
-    "title": "전남광주통합의회 1일 개원…초대 의장 선거 등 첫 의사일정 돌입",
-    "summary": [
-      "[무안=뉴시스] 구용희 기자 = 전남광주통합특별시의회가 1일 0시 무안 남악청사 본회의장에서 제1회 임시회 제1차 본회의를 열고 공식 의정활동에 들어갔다.",
-      "개원 첫 본회의에서는 초대 의장 선거가 첫 안건으로 상정됐다.",
-      "의장 후보들의 정견발표에 이어 투표가 진행됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n606b162f",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "32분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/01/2026063015472832077",
-    "title": "11G 연속 안타→타율 3할 돌파! 두산 트레이드 복덩이, 여기서 끝 아니다 \"화요일에 잘 맞으면 그 주 내내 이어지는데...\" [잠실 현장]",
-    "summary": [
-      "두산 베어스의 트레이드 복덩이 김민석(22)이 이번 주 대활약을 예고했다.",
-      "김민석은 30일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 리그 정규시즌 롯데 자이언츠와 홈경기에 5번 타자 및 좌익수로 선발 출장해 3타수 3안타 1타점 2득점으로 활약하며 5-0 승리를 이끌었다.",
-      "왜 두산 구단이 OPS(출루율+장타율) 0.8이 넘는 외국인 타자 다즈 카메론(29)을 포기하는지 그 이유를 알려준 경기였다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n4cfaeca6",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701000200072",
-    "title": "[월드컵] 파라과이, 독일 꺾고 16강 이변에 국가공휴일 선포",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 파라과이가 '전차군단' 독일을 꺾고 2026 국제축구연맹(FIFA) 북중미 월드컵 16강에 진출하면서 산티아..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2f85ade8",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "39분 전",
-    "url": "https://www.hankyung.com/article/202607017837i",
-    "title": "유가하락에 6월 美소비자신뢰지수 소폭상승…고용 인식은 악화",
-    "summary": [
-      "유가하락에 6월 美소비자신뢰지수 소폭상승…고용 인식은 악화."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n24ed4b17",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630081800054",
-    "title": "전남광주통합특별시의회 본회의 0시 첫 개회…통합시대 열어",
-    "summary": [
-      "(광주·무안=연합뉴스) 박철홍 기자 = 전남광주통합특별시의회가 1일 0시 첫 본회의를 열고 대한민국 첫 통합 광역의회로서 공식 의정활동을 시작했..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4d5bcb71",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630196300109",
-    "title": "식지 않는 유럽…헝가리 42도 '신기록', 이탈리아 5명 사망",
-    "summary": [
-      "(로마·파리=연합뉴스) 민경락 송진원 특파원 = 유럽 지역 폭염이 쉽게 식지 않으면서 곳곳에서 최고기온 기록이 잇따라 깨지고 있다."
     ],
     "chips": [
       "#뉴스"
@@ -639,8 +642,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
@@ -650,7 +653,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
