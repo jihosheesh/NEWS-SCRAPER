@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-30 12:38:55
+// 마지막 업데이트: 2026-06-30 13:33:27
 window.NEWS_DB = [
   {
     "id": "ndc65ba2b",
     "category": "IT",
     "source": "디지털데일리",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90RXFvcDk2SFk5cHZDWlo0bi1sSUM1dmlLc04yX3RuTG1xdU84QlhwOVZlajI5d3oyTUxZTTBNS3ByWnZTYnZRTnZ0azdDbjg1NFRGTlAxU1hyTDJTMkZBUDc2UEU?oc=5",
     "title": "美의 中 반도체 규제 역효과?…AI칩 점유율, 엔비디아↓ 화웨이↑[AI 인포그래픽]",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "ne78b3f05",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTgwcEsxSGF3NmxJUlNINXFkX04zUUVkYkozWFpsZG84MUo0dXNWWTlDWFNySEFoazJzTElnYlp2dG00WnBjSzZKTTNPS050ZDE1R1N1RlBFZm5JZGRmeTBvZGI5U20wT2JyVW5YSGZWd25IY0NkelE2SkE5N2hYODNSSHJxQnpK?oc=5",
     "title": "엔비디아 中반도체 점유율 '제로'",
     "summary": [
@@ -50,6 +50,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd5844212",
+    "category": "사회",
+    "source": "네이트",
+    "time": "15시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVaUVpYnFYM1RBeGxvdGtFWWNxT0NYeGxXRW5Ua0c3WC1XUDBVY1JxajZhdUd4ekJMZlpIM1NQbjUxel9yT3BZQjlpejJNY1pkR0hGRXlka3FlbHRsWDFOWQ?oc=5",
+    "title": "미래 유소년 지도자 위한 체험 기회…KBO, 오늘(30일) 보은서 '전국 교육대 티볼대회' 개최",
+    "summary": [
+      "미래 유소년 지도자 위한 체험 기회…KBO, 오늘(30일) 보은서 '전국 교육대 티볼대회' 개최 네이트."
+    ],
+    "chips": [
+      "#KBO",
+      "#교육"
+    ]
+  },
+  {
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
@@ -58,6 +73,22 @@ window.NEWS_DB = [
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
       "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "ne0482e30",
+    "category": "사회",
+    "source": "데일리안",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMkVsVkJMWFV3R1JRQ1Q1RzE1MzJVZWNSc1N5S3pEaHhMMWo3eHFVemd4NGpaOTloT1h4MUtMN2drd3QtcUg0VzBMbmxxRjhmZmNGNXdEc3JjZV9FWTlYMUJhZ1RQdUNYaW90clpabTFzV2RqY2dWR19kM09LU1B3a2VpQ3NlYk1LUHd0X2gtbU1SUnF5djRQSVh1V19VN1ZpaGd6RkVHeDctXzFFRDRQNFpJcm1IVVVnNVJrVmc3MVhZdWtCRkt4N3R6bkJBeFZfSDIxNGYwNnZMaE5GTWo0cm5sa09DczdoWnc4Q21vM2tXbWtlMlJid0FoZzBTczdFVnlMeEJ30gGGAkFVX3lxTFAyRWxWQkxYVXdHUlFDVDVHMTUzMlVlY1JzU3lLekRoeEwxajd4cVV6Z3g0alo5OWhPWHgxS0w3Z2t3dC1xSDRXMExubHFGOGZmY0Y1d0RzcmNlX0VZOVgxQmFnVFB1Q1hpb3RyWlptMXNXZGpjZ1ZHX2QzT0tTUHdrZWlDc2ViTUtQd3RfaC1tTVJScXl2NFBJWHVXX1U3VmloZ3pGRUd4Ny1fMUVENFA0WklybUhVVWc1UmtWZzcxWFl1a0JGS3g3dHpuQkF4Vl9IMjE0ZjA2dkxoTkZNajRybmxrT0NzN2hadzhDbW8za1dta2UyUmJ3QWhnMFNzN0VWeUx4Qnc?oc=5",
+    "title": "AI가 취업확률 분석한다…고용24 맞춤형 고용서비스 공개",
+    "summary": [
+      "AI가 취업확률 분석한다…고용24 맞춤형 고용서비스 공개 데일리안."
     ],
     "chips": [
       "#AI",
@@ -78,21 +109,6 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "na9c15208",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
-    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
-    "summary": [
-      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
-    ],
-    "chips": [
-      "#AI",
       "#고용"
     ]
   },
@@ -199,20 +215,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n5ace0115",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
-    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
-    "summary": [
-      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -386,265 +388,272 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc262c156",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690357",
-    "title": "[프로필]이광재 국회 예결위원장…4선 중진 정책통",
-    "summary": [
-      "[서울=뉴시스]정금민 기자 = 이광재 더불어민주당 의원(경기 하남갑)이 30일 오후 열린 국회 본회의에서 국회 예산결산특별위원장에 선출됐다.",
-      "고(故) 노무현 전 대통령의 핵심 측근이자 '원조 친노'로 꼽히는 이 의원은 1965년생 강원 평창 출신이다.",
-      "이 의원은 원주에서 고등학교를 졸업한 뒤 연세대 법학과를 나왔다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb9560c89",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026063021363751455",
-    "title": "국회, 11개 상임위원장 與 주도 선출…국민의힘 반발",
-    "summary": [
-      "국회가 30일 오후 본회의를 열고 여야 원구성 협상의 최대 쟁점이었던 법제사법위원장을 포함한 11개 상임위원회 위원장을 더불어민주당 주도로 선출했다.",
-      "이날 선출된 상임위원장은 모두 민주당 소속이다.",
-      "법사위원장에는 서영교 의원(4선)이, 정무위원장에는 유동수 의원(3선)이, 재정경제기획위원장에는 조승래 의원(3선)이 각각 선출됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n846e0f90",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690283",
-    "title": "[프로필]김정호 국회 기후에너지환경노동위원장…참여정부 靑 출신",
-    "summary": [
-      "[서울=뉴시스] 이창환 기자 = 제22대 국회 후반기 기후에너지환경노동위원장으로 선출된 김정호 더불어민주당 의원은 경남 김해을 지역구 3선 중진 의원이다.",
-      "김 의원은 1960년 제주 북제주군 추자면에서 태어나 부산으로 이주한 후 부산남고를 졸업하고, 부산대 경제학과에 진학했다.",
-      "1979년 10월 16일 부마민주항쟁 때 학생운동을 시작했고, 민주화 운동을 하다 구속돼 자신의 변론을 맡았던 노무현·문재인 당시 변호사와 인연을 맺었다."
-    ],
-    "chips": [
-      "#정치",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n3e077178",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690309",
-    "title": "[프로필]서삼석 국회 농해수위원장…기초의원·단체장 거친 3선 중진",
-    "summary": [
-      "[서울=뉴시스]김윤영 기자 = 22대 국회 후반기 농해수위원장으로 선출된 서삼석 더불어민주당 의원(전남 영암군무안군신안군)은 21대 국회에서 농림축산식품해양수산위원회 간사를 지낸 바 있어 관련 분야에 해박한 편이다.",
-      "서 의원은 1959년생 전남 무안 출생으로 조선대학교 행정학과를 나와 전남대 대학원에서 행정학 석사, NGO학 박사 학위를 취득했다.",
-      "1988∼1994년 박석무 전 국회의원 보좌관으로 정계에 입문했고, 전남도의원, 민선 3·4·5기."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nf488e098",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690304",
-    "title": "[프로필]이재정 국회 문체위원장…민변 출신 3선 의원",
-    "summary": [
-      "[서울=뉴시스]신재현 기자 = 22대 국회 후반기 문화체육관광위원회 위원장으로 선출된 이재정 더불어민주당 의원(경기 안양시동안구을)은 3선 중진으로, 법조인 출신이다.",
-      "신문법 개정 등 여당이 추진 중인 '언론개혁'을 맡게 될 문체위원장으로서 상임위 활동을 이어갈 것으로 보인다.",
-      "이 의원은 1974년 대구 출생으로 경북대 사법학과를 거쳐 2003년 45회 사법시험에 합격했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf083a73c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/30/GFSDINTCGEZDCNTGGJQTCNRVGE/",
-    "title": "꼴찌팀이 갑자기? 고개숙인 LG 에이스…피홈런 2개 → 4실점 '난타' [고척리포트]",
-    "summary": [
-      "[고척=스포츠조선 김영록 기자] 안우진 효과일까.",
-      "아니면 입단 예정인 맷 데이비슨의 메기 효과일까.",
-      "키움 히어로즈의 화끈한 불방망이가 LG 트윈스 에이스를 당황시켰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc17ce292",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630177800001",
-    "title": "[프로필] 서삼석 농해수위원장…지방 행정 아우른 '호남 풀뿌리'",
-    "summary": [
-      "(서울=연합뉴스) 안정훈 기자 = 전남 무안에서 도의원을 거쳐, 군수, 국회의원을 역임한 3선 의원."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2e72bf44",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630190300109",
-    "title": "이탈리아, 고대 에트루리아 무덤 벽화 265억원에 샀다",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 이탈리아가 개인이 소장해온 고대 에트루리아 문명의 무덤 벽화를 1천500만유로(약 265억원)에 매입했다고 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n626f2ded",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630189100001",
-    "title": "[프로필] 이재정 문체위원장…인권변호사 출신 3선",
-    "summary": [
-      "(서울=연합뉴스) 오규진 기자 = 시민단체·인권변호사 출신 3선 의원."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7099a4f0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630188300001",
-    "title": "[프로필] 조승래 재경위원장…수석대변인·사무총장 역임한 3선",
-    "summary": [
-      "(서울=연합뉴스) 오규진 기자 = 12·3 비상계엄 당시 '이재명의 입'으로 사무총장 등 당의 요직을 두루 역임한 3선 국회의원."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5b5ecca2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/volleyball/2026/06/30/G4YTONRRHE3WIM3BGBQWCMLBGY/",
-    "title": "구단주 결단! 김연경처럼 키운다…이다현, 日 가와사키 임대 이적 [공식발표]",
-    "summary": [
-      "[스포츠조선 이종서 기자] 흥국생명 핑크스파이더스가 깜짝 결정을 내렸다.",
-      "흥국생명은 30일 '미들블로커 이다현(25)이 2026~2027시즌 일본 SV리그 NEC 레드로케츠 가와사키(Red Rockets Kawasaki)로 임대 이적해 한 시즌 동안 활약한다'고 발표했다.",
-      "흥국생명은 \"이다현은 임대 선수로 일본 무대를 경험한 뒤 2027~2028시즌부터 흥."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n007b5320",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/06/30/JSK4ACF4XNE37HZ57I2A42456Y/",
-    "title": "키움 안우진, 선두 LG를 탈삼진 11개로 얼렸다",
-    "summary": [
-      "키움 안우진, 선두 LG를 탈삼진 11개로 얼렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncc411e64",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/06/30/E2ONW7VQU5HSRBQBA5G7AB47JE/",
-    "title": "[속보] 與, 11곳 상임위원장 단독 선출… 野 “밀실 결정, 일방 독주 중단하라”",
-    "summary": [
-      "[속보] 與, 11곳 상임위원장 단독 선출… 野 “밀실 결정, 일방 독주 중단하라”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9585046d",
+    "id": "nbb005f7e",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/sports/2026/06/30/2026063014573383447",
-    "title": "'156㎞ 안우진 11K 미쳤다! 키움, LG 꺾고 고척 홈 6연패 탈출 [고척 현장리뷰]",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/sports/2026/06/30/2026063014572972645",
+    "title": "'안우진 11K 완벽투' 홈 6연패 끊은 키움 감독 인사 \"에이스다운 훌륭한 피칭! 팬 응원에 감사\"",
     "summary": [
-      "키움 히어로즈가 LG 트윈스를 꺾고 홈 6연패의 사슬을 끊어냈다.",
-      "키움은 30일 서울 구로구에 위치한 고척스카이돔에서 열린 LG와 '2026 신한 SOL KBO리그' 홈 경기서 6-0으로 완승했다.",
-      "1회부터 6회까지 5-0까지 달아나며 일찌감치 승기를 잡았다."
+      "\"에이스답게 훌륭한 피칭을 해줬다.\" 사령탑도 에이스의 완벽투와 홈 연패 탈출에 아낌없는 박수를 보냈다.",
+      "설종진(53) 키움 히어로즈 감독이 '리그 선두' LG 트윈스를 꺾고 홈 6연패를 끊어낸 선수단의 활약에 엄지를 치켜세웠다.",
+      "키움은 30일 서울 고척스카이돔에서 열린 '2026 신한 SOL KBO리그' LG와의 홈 경기에서 투타의 완벽한 조화 속에 6-0으로 완승을 거뒀다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nf3d8d295",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026063021183741684",
-    "title": "'월드컵 조기탈락' 사과문 올린 손흥민에…예일대 교수 \"멋진 어른의 본보기\"",
+    "id": "na461b09e",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/world/2026/06/30/2026063021585753192",
+    "title": "블랙록, 신흥국 투자 전망 하향…\"한국·대만 AI 집중 위험\" 경고",
     "summary": [
-      "대한민국 축구 국가대표팀 주장 손흥민이 2026 국제축구연맹(FIFA) 북중미 월드컵 조기 탈락 관련 사과문을 올리자 나종호 미국 예일대 정신의학과 교수가 \"멋진 어른의 본보기를 보여줬다\"며 위로를 전했다.",
-      "30일 손흥민은 자신의 사회관계망서비스(SNS)를 통해 \"대한민국 국민 여러분과 축구를 사랑해 주시는 팬분들께 진심으로 죄송하다\"고 밝혔다.",
-      "그는 \"저 역시 축구를 정말 사랑하는 사람으로서 만약 이런 경기를 지켜봤다."
+      "세계 최대 자산운용사인 블랙록이 투자 전망 보고서에서 한국을 비롯한 신흥시장에 대한 투자 의견을 하향 조정했다.",
+      "인공지능(AI) 관련 종목으로 투자 자금이 집중되는 '쏠림 현상'이 배경으로 꼽혔다.",
+      "30일 블룸버그통신에 따르면 블랙록은 향후 6~12개월간 신흥시장 주식에 대한 투자 의견을 '비중확대(overweight)'에서 '중립(neutral)'으로 하향 조정했다."
     ],
     "chips": [
-      "#손흥민"
+      "#AI"
     ]
   },
   {
-    "id": "nc8a9eecc",
+    "id": "n7cf2d279",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260630/134213030/1",
+    "title": "박미선 “암 투병 후 이봉원과 사이좋아져…행복 시작”",
+    "summary": [
+      "‘신여성’ 박미선이 암 투병 후 남편 이봉원과 사이가 좋아졌다고 밝혔다.30일 오후 유튜브 채널 ‘롤링썬더’를 통해 공개된 웹 예능 ‘신여성’에는 박미선이 게스트로 출연해 이경실, 조혜련, 이선민과 이야기를 나눴다.박미선이 “고생 끝났어! 행복 시작이다”라며 유방암 투병 후 건강한 모습으로 복귀한 근황을 공개했다.",
+      "이어 박미선은 “그 덕에 남편(이봉원)과 사이가 좋아졌다, 사랑이 넘친다”라고 애틋해진 부부 사이를 전해 눈길을 끌었다.박미선은 “."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf401cb20",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260630/134213026/1",
+    "title": "조혜련 “이봉원, 배우 아들 못 알아봐…성 바꾸고 활동”",
+    "summary": [
+      "‘신여성’ 조혜련이 박미선-이봉원의 아들이 배우로 활동 중이라고 밝혔다.30일 오후 유튜브 채널 ‘롤링썬더’를 통해 공개된 웹 예능 ‘신여성’에는 박미선이 게스트로 출연해 이경실, 조혜련, 이선민과 이야기를 나눴다.조혜련이 박미선의 아들이 성을 바꾸고 배우로 활동 중인 근황을 공개했다.",
+      "조혜련은 박미선의 아들이 2년 전 연극 ‘사랑해 엄마’ 오디션에 지원한 사실을 뒤늦게 알았다며 “너무 귀엽고 잘생기고 연기도 잘한다”라고 칭찬했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73542205",
     "category": "사회",
     "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/30/2026063016592266231",
-    "title": "22대 후반기 국회 與 단독 개문발차…野 보이콧에 정국 급랭",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/30/2026063014545486321",
+    "title": "與, 법사위 등 11곳 원 구성 포문 열었다…한성숙 총리 인준도 통과",
     "summary": [
-      "[the300]민주당 몫 11개 상임위원장 우선 선출…국민의힘 반발, 상임위 보이콧 천명 22대 국회 후반기 원 구성이 더불어민주당 주도로 사실상 '개문발차'했다.",
-      "민주당은 30일 국회 본회의에서 민주당 몫 11개 상임위원회 위원장을 우선 선출했다.",
-      "국민의힘 몫으로 남겨둔 7개 상임위원장은 이날 처리하지 않았지만, 여야 협상이 끝내 재개되지 않을 경우 18개 상임위원장 전부를 민주당이 가져갈 가능성도 남아 있다."
+      "[the300] 22대 국회 하반기 원 구성을 위한 11개 상임위원장 선출안이 더불어민주당 주도로 단독 처리됐다.",
+      "국민의힘과 막판까지 신경전을 폈던 법제사법위원장 자리는 결국 여당 품으로 돌아가게 됐다.",
+      "야당은 합의 없는 일방적인 원 구성에 강력히 반발하면서 여야 간 극한 대치 국면으로 흐를 전망이다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n83b44497",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/politics/2026/06/30/2026063021231371535",
-    "title": "[속보] 與, 본회의서 법사위 등 11개 상임위원장 선출",
+    "id": "n03473862",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690442",
+    "title": "'5·18 조롱' 배재고…광주제일고 방문 사과·기권 검토(종합)",
     "summary": [
-      "[the300] 30일 본회의...."
+      "[서울=뉴시스]정예빈 기자 = 전국 고교야구 대회 도중 광주제일고등학교를 향해 \"스타벅스 가야지\"라는 조롱성 응원 구호를 외쳐 논란을 빚은 배재고등학교가 광주제일고를 직접 찾아 사과하겠다는 뜻을 밝힌 것으로 파악됐다.",
+      "반성의 의미로 남은 경기를 기권하는 방안 또한 신중히 논의되고 있는 것으로 나타났다.",
+      "30일 서울시교육청에 따르면 이효준 배재고 교장은 광주제일고 측에 직접 방문해 사과하고 싶다는 의견을 전달했다."
+    ],
+    "chips": [
+      "#KBO",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n8dcb20b9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690404",
+    "title": "민주, 11개 상임위원장 단독 선출…국힘 표결 불참·피켓 시위(종합)",
+    "summary": [
+      "[서울=뉴시스]정금민 하지현 한재혁 전상우 김윤영 기자 = 더불어민주당이 30일 국민의힘이 표결에 불참한 가운데 18개 상임위원회 중 11개 위원회 위원장을 자당 의원으로 선출했다.",
+      "이날 선출된 상임위원장과 예산결산특별위원장은 모두 민주당 소속이다.",
+      "국회는 이날 오후 7시53분께 본회의를 열고 18개 상임위원장 중 법제사법위원회와 운영위원회, 정무위원회, 재정경제기획위원회 등 11개 상임위원장 선출 안을 표결에 부쳤다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf0e174b7",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/politics/2026/06/30/2026063022120181708",
+    "title": "한성숙 총리 인준안, 지명 23일 만에 국회 통과…국힘은 표결 불참",
+    "summary": [
+      "[the300] 한성숙 국무총리 후보자의 인준안이 더불어민주당 주도로 국회 본회의에서 처리됐다.",
+      "국회는 30일 오후 서울 여의도 국회 본관에서 본회의를 열고 한성숙 국무총리 후보자 인준안을 재석 의원 167명 중 166명의 찬성(무효 1명)으로 의결했다.",
+      "이재명 대통령이 지난 7일 한 후보자를 김민석 국무총리의 후임으로 지명한 지 23일 만이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n882413d2",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630193400007",
+    "title": "작년 준우승자 아니시모바, 윔블던테니스 1회전 가볍게 통과",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 지난해 윔블던 테니스대회 여자 단식 준우승자 어맨다 아니시모바(6위·미국)가 올해 대회 첫판을 가볍게 통과했다..."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n99accf11",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690424",
+    "title": "아내 생각에 울컥한 두산 박찬호 \"내가 못 하면 같이 주눅 들어 미안해\"",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 프로야구 두산 베어스 박찬호가 함께 마음고생한 아내를 떠올리며 눈시울을 붉혔다.",
+      "박찬호는 30일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 롯데 자이언츠와의 경기에 7번 타자 유격수로 선발 출전해 4타수 2안타 1홈런 4타점 1득점으로 펄펄 날며 팀의 5-0 승리를 이끌었다.",
+      "0-0으로 맞선 2회말 1사 3루에서 박찬호는 1타점 중전 안타를 쳤고, 6회말에는 롯데 선발 박세웅의 시속 127 ㎞ 스위퍼를 걷."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n95d2c8d3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/volleyball/2026/06/30/MFSTMNBSGAZDAYLDHAZTKMJVHE/",
+    "title": "허수봉 13억·강소휘 8억! → V리그 남녀 연봉킹 등극",
+    "summary": [
+      "[스포츠조선 한동훈 기자] 현대캐피탈 허수봉과 한국도로공사 강소휘가 2026~2027시즌 남녀부 최고 보수 선수에 이름을 올렸다.",
+      "다가오는 V리그 무대를 밟게 될 선수들이 모두 등록을 마쳤다.",
+      "남자부에서는 FA자격을 얻었던 허수봉이 13억원(연봉 8억+옵션 5억)으로 보수 탑에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe554a0a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260630/134212958/1",
+    "title": "[속보]한성숙 총리 임명동의안 통과…국힘 표결 보이콧",
+    "summary": [
+      "김민석 국무총리의 후임으로 지명된 한성숙 국무총리 후보자 임명동의안이 국회 본회의를 통과했다.",
+      "이재명 대통령이 지난달 7일 한 후보자를 지명한 지 23일 만으로, 이 대통령이 임명을 재가하면 한 후보자는 2006년 한명숙 전 국무총리에 이어 헌정사상 두 번째 여성 총리가 된다.국회는 3일 오후 본회의를 열고 찬성 166명, 무효 1명으로 한 후보자에 대한 임명동의안을 가결했다.",
+      "이재명 정부 초대 중소벤처기업부 장관인 한 후보자는 네이버 대표이사."
+    ],
+    "chips": [
+      "#스타트업",
+      "#네이버",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd586b4ab",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690427",
+    "title": "민주콩고 에볼라 사망자 370명 돌파…확산세 빨라져",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 콩고민주공화국(민주콩고)의 에볼라 바이러스 감염 사망자가 370명을 돌파했다.",
+      "30일(현지 시간) 민주콩고 언론 공보부에 따르면 28일 기준 자국 내 에볼라 확진자는 1307명으로 사흘 전과 비교해 104명 늘어난 것으로 집계됐다.",
+      "이 중 사망자는 377명으로 사흘 만에 56명이 늘었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3366d54f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/30/G4ZTQMLDGNSDCMBYGQ4WEOLDGE/",
+    "title": "곽범, 인생 첫 하프 마라톤 중 탈진 \"경련 때문에 발이 아예 안 디뎌져\" ('스튜디오 수제') [순간포착]",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 곽범이 첫 하프 마라톤에 도전했다.",
+      "30일 유튜브 채널 ‘스튜디오 수제’에는 '중도 포기 위기 인생 첫 하프마라톤 끝나고 고삐 풀린 곽범 냉동삼겹살 5인분 풀코스 먹방 | 간절한입 EP.10'라는 제목의 영상이 게재됐다.",
+      "이날 곽범은 첫 하프 마라톤에 도전한다며 “오늘 목표는 21km."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd3ded6a1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260630/134209375/1",
+    "title": "美서 강제 추방된 146명, 귀국날 베네수엘라 강진 참변",
+    "summary": [
+      "도널드 트럼프 미국 행정부의 반(反)이민 정책으로 미국에서 강제 추방된 베네수엘라인 146명이 귀국 첫날인 지난달 24일 발생한 연쇄 강진으로 대거 실종됐다.",
+      "이들은 미국 플로리다주 마이애미에서 출발한 강제송환 항공편을 타고 귀국했다.",
+      "지난달 29일 AP통신 등은 이들이 베네수엘라에 도착한 직후 지진 피해가 집중된 북부 라과이라의 한 호텔에 머물다 지진을 겪게 됐다고 전했다.간신히 살아남은 강제 송환자 리스베스 포르티요 씨(58)는 AP통신과의."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nb21622d4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630192700001",
+    "title": "한성숙 총리 후보자 임명동의안 與주도 국회 통과…국힘 불참",
+    "summary": [
+      "(서울=연합뉴스) 김정진 최주성 정연솔 기자 = 한성숙 국무총리 후보자 임명동의안이 30일 국회 본회의를 통과했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n423d06ed",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "22분 전",
+    "url": "https://view.asiae.co.kr/article/2026063022103272228",
+    "title": "한성숙 국무총리 임명동의안, 국회 본회의 통과",
+    "summary": [
+      "한성숙 국무총리 후보자에 대한 임명동의안이 30일 더불어민주당 주도로 국회 본회의를 통과했다.",
+      "국민의힘은 안건 상정에 반발하며 회의에 불참했다.",
+      "국회는 이날 오후 본회의에서 한 후보자 임명동의안을 재석 의원 167명 중 찬성 166표, 무효 1표로 가결했다."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -653,19 +662,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "뉴스",
     "mentions": "1680건",
     "trend": "+155%"
   }
