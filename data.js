@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-30 17:33:43
+// 마지막 업데이트: 2026-06-30 18:33:52
 window.NEWS_DB = [
   {
     "id": "n78461dff",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yS3RSTVIyT3VhXzdkUm5xRTU4SzQtRkJwZjZDUllYYkZGRDhrNEtwRzR1NFZxa1VZR2JlT3pPb1Z6YU55Y0tZMkUybkhMbk1ISm1wc3h0a0tGcGRMX0tVLWlMbk5COTE0LUNKYnBpWTJwUVE?oc=5",
     "title": "엔비디아 AI 휴머노이드로 성장동력 확보, \"반도체와 소프트웨어 수직계열화가 장점\"",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n910de8e4",
     "category": "스포츠",
     "source": "네이트",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qOGVCbFRiS0ZYaGt1cUJWcnpsTXhobFhydE5VdnZUVTlrNk8zS1NNSzV2Z0dyWThrWnR4N3FQd0pFV3gtdlUyaklBbDZnVW9VTERpaDRNcHJQQnNDRDFlOA?oc=5",
     "title": "신생팀 안산 웨이브스, KBO 드림컵 독립야구대회 우승",
     "summary": [
@@ -32,10 +32,27 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndc65ba2b",
+    "category": "IT",
+    "source": "디지털데일리",
+    "time": "15시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90RXFvcDk2SFk5cHZDWlo0bi1sSUM1dmlLc04yX3RuTG1xdU84QlhwOVZlajI5d3oyTUxZTTBNS3ByWnZTYnZRTnZ0azdDbjg1NFRGTlAxU1hyTDJTMkZBUDc2UEU?oc=5",
+    "title": "美의 中 반도체 규제 역효과?…AI칩 점유율, 엔비디아↓ 화웨이↑[AI 인포그래픽]",
+    "summary": [
+      "美의 中 반도체 규제 역효과?…AI칩 점유율, 엔비디아↓ 화웨이↑[AI 인포그래픽] 디지털데일리."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#정책"
+    ]
+  },
+  {
     "id": "nf5332d7e",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sa091aVgzV2VFbGRwSjhIWmI4elRpa1lwU0YwdXd0c2pLWGNhY0N5d2RBSEJrdzdmbWR6VjZtdDlQMTc0OFdoM1UteklzOWl1SW5nRFZaSHJkMk3SAWBBVV95cUxNMXdWTjRRbEJSancxRENMemNoWWV0LUlncFFRYTgySThPU2FkenVPZExIUy1OX0FHb3FLX0VqS2QyOU84dlozbHZldVBBV2dYdUxZc2cxVlBWb0lzdlNNUkU?oc=5",
     "title": "엔비디아도 우주 AI 데이터센터 구축 박차…연봉 6억대 채용공고",
     "summary": [
@@ -45,21 +62,6 @@ window.NEWS_DB = [
       "#AI",
       "#엔비디아",
       "#채용"
-    ]
-  },
-  {
-    "id": "ne78b3f05",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTgwcEsxSGF3NmxJUlNINXFkX04zUUVkYkozWFpsZG84MUo0dXNWWTlDWFNySEFoazJzTElnYlp2dG00WnBjSzZKTTNPS050ZDE1R1N1RlBFZm5JZGRmeTBvZGI5U20wT2JyVW5YSGZWd25IY0NkelE2SkE5N2hYODNSSHJxQnpK?oc=5",
-    "title": "엔비디아 中반도체 점유율 '제로'",
-    "summary": [
-      "엔비디아 中반도체 점유율 '제로' 글로벌이코노믹."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -110,6 +112,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nca9f8a56",
+    "category": "IT",
+    "source": "블로터",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
+    "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
+    "summary": [
+      "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여 블로터."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
@@ -123,21 +139,6 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
-    ]
-  },
-  {
-    "id": "nc48b08b9",
-    "category": "IT",
-    "source": "시사저널e",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWmZHQURIa0VwcnZHOGdWN1o4U2hZQW5iYi02N1oydG4xX19fc3ljNkZxazI3eEZMRjR3VHJPUjY4eHhwa0FscW1mS2xDLU9Zdk1iblRSTXNUVFAtZlNmWTJsVE5lOWY3amRGRDZZaXJEd9IBdkFVX3lxTE5STUJaNjU1RExtd1I4VnFuclFvaTBLbW42aGJ0OVh4N0RaaVJwTmZtcWpfTnlPYkk4MTdQS1VsZmgyRndzdUliOTRFUU05S2FqS1FkV0FmajBndjN4bjFfM0RvRUIwRG5fSWhMcGIzZ2NlOWVDZHc?oc=5",
-    "title": "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져",
-    "summary": [
-      "시총 1위 내줬던 삼성전자, AI칩 다변화 분위기 속 반전 기대감 커져 시사저널e."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
     ]
   },
   {
@@ -155,21 +156,6 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
-    ]
-  },
-  {
-    "id": "nf5a3ebaf",
-    "category": "스포츠",
-    "source": "starnewskorea.com",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95MjFXdGZVam85dVZhaEMyQW9sZXdCX3ZreHVZbjRNekpWZ2psU3NGYkVfNU5PSXhlUU1TbHpGUVJwVlNQcmt5a2tWTzNrb1RQYmRrdFNnS1hYbjdWeUtIT0J2aW0yaVZSVWptdmdPakFKMWZiTFE?oc=5",
-    "title": "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주... 2위는 KBO 정상급 타자 김도영",
-    "summary": [
-      "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주...",
-      "2위는 KBO 정상급 타자 김도영 starnewskorea.com."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -291,6 +277,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "90일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -320,10 +320,188 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n94bff68b",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701002400075",
+    "title": "테슬라 美 '오토파일럿' 사고조사 중에 또 인명사고…1명 사망",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 텍사스에서 오토파일럿(Autopilot) 기능을 사용 중이던 테슬라 차량이 주택가에 돌진해 사고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3a4253c9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701003300054",
+    "title": "김대중 전남광주교육감 \"세계가 배우러 오는 K-교육특별시 도약\"",
+    "summary": [
+      "(무안=연합뉴스) 형민우 기자 = 김대중 초대 전남광주통합교육감은 1일 \"세계가 주목하고 세계가 배우러 오는 `대한민국 K-교육특별시'로 당당히..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nbadad5ec",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701003400071",
+    "title": "美·중동 7개국, 헤즈볼라 금융기관 겨냥 제재",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 테러리스트 자금추적센터(TFTC) 회원국들이 레바논의 친(親)이란 무장정파 헤즈볼라를 겨냥한 금융제재에 나..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf0ff22c7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/01/HBRDMMLDGRTDKMBZG4YGIZRWGU/",
+    "title": "'4타점 먹방' 류지혁이 공개한 삼성 5연승의 진짜 비밀 [오!쎈 창원]",
+    "summary": [
+      "[OSEN=창원, 손찬익 기자] “요즘은 질 것 같다는 생각이 안 든다”.프로야구 삼성 라이온즈 내야수 류지혁의 한마디에는 최근 팀 분위기가 고스란히 담겨 있었다.",
+      "경기 후반까지 끌려가도 흔들리지 않는다.",
+      "선수들 모두 끝내 뒤집을 수 있다는 믿음을 갖고 있고, 그 자신감은 어느새 5연승으로 이어졌다.류지혁은 지난달 30일 창원NC파크에서 열린 NC 다이노스."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne12a6ef8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/01/MYYTENDFGA4DQZJWMIZGCYLDMU/",
+    "title": "\"오프너 정말 싫다\" 이래서였나? 다저스 구세주된 KIA 출신 문제아, 2년 연속 WS 등판 이룰까",
+    "summary": [
+      "[스포츠조선 박상경 기자] \"솔직히 정말 싫다.",
+      "견딜 수가 없다.\" 지난 4월 19일(이하 한국시각).",
+      "애리조나 다이아몬드백스전에서 토론토 블루제이스의 두 번째 투수로 마운드에 올라 5이닝을 던지고 내려온 에릭 라우어는 디애슬레틱과의 인터뷰에서 이렇게 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n48d9292e",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "30분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/01/2026063022472832040",
+    "title": "'시즌 첫 4안타' 국대 포수 위엄 보소! 올스타전 고대하는 김건희 \"키움팬 여러분, 믿고 응원해주세요\"",
+    "summary": [
+      "오는 9월 나고야-아이치 아시안게임에 나설 '야구 국가대표팀'에 발탁된 키움 히어로즈 포수 김건희(22)가 물오른 타격감과 함께 포수의 진면목을 유감없이 발휘하며 팀의 홈 연패 탈출을 견인했다.",
+      "키움은 30일 서울 고척스카이돔에서 열린 '2026 신한 SOL KBO리그' LG 트윈스와 홈 경기에서 6-0으로 완승, 고척 홈 6연패 사슬을 끊어냈다.",
+      "이날 5번 타자 겸 포수로 선발 출장한 김건희는 타석에서 시즌 첫 4안타(1타점, 1득점) 경기를."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n419dd65e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/national/incident/2026/07/01/NZJXYBL3EJCHZNTXKG52N46JII/",
+    "title": "죽어가는 여성을 카메라로… ‘사진 찍는 살인마’ 이동식",
+    "summary": [
+      "죽어가는 여성을 카메라로… ‘사진 찍는 살인마’ 이동식."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ba92034",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/economy/money/2026/07/01/4EZPTIQO3ZFM7OFKQ7JBIEC2LQ/",
+    "title": "돈의 물길에 올라 타라… 실적이 있는 곳으로 노를 저어라",
+    "summary": [
+      "돈의 물길에 올라 타라… 실적이 있는 곳으로 노를 저어라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6587796f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630081851054",
+    "title": "전남광주통합특별시의회 본회의 0시 첫 개회…필수법규 처리(종합)",
+    "summary": [
+      "(광주·무안=연합뉴스) 형민우 박철홍 기자 = 전남광주통합특별시의회가 1일 0시 첫 본회의를 열고 대한민국 첫 통합 광역의회로서 공식 의정활동을..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4073a7a7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "42분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003690479",
+    "title": "트럼프, 대법 출생시민권 유지에 \"입법으로 만회 가능\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 30일(현지 시간) 연방대법원이 출생시민권(birthright citizenship)을 유지한다고 판결하자 \"대통령의 지지를 바탕으로 의회 입법을 통해 쉽게 만회할 수 있다\"며 우회 의사를 드러냈다.",
+      "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 연방대법원의 출생시민권 유지 결정을 \"우리나라로서는 너무 나쁜 일\"이라면서 이같이 밝혔다.",
+      "이어 \"길고 다루기 힘든 헌법 개정은."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n28ed4e18",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "49분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701002800054",
+    "title": "민형배 전남광주특별시장 \"행정 역량 묶어 성장의 판 바꿀 것\"",
+    "summary": [
+      "(무안=연합뉴스) 형민우 기자 = 민형배 초대 전남광주통합특별시장이 1일 \"통합으로 커진 행정 역량을 모두 묶어 성장의 판을 바꾸겠다\"고 밝혔다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd4e7a626",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "54분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003690476",
+    "title": "베네수 야권 지도자 마차도 귀국 불발…\"정부가 방해\"",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 베네수엘라 야권 지도자인 마리아 코리나 마차도가 최근 강진 피해를 입은 자국의 구호 활동을 돕기 위해 귀국을 시도했으나 항공편 탑승이 불발됐다.",
+      "30일(현지 시간) 월스트리트저널(WSJ)에 따르면 마차도는 전날 소셜미디어 엑스(X·옛 트위터)에 올린 영상을 통해 파나마에서 베네수엘라행 항공편 탑승을 시도했으나 실패했다고 밝혔다.",
+      "최근 강진 발생 후 귀국을 타진한 마차도는 지난 28일 파나마시티에서 카라카스행 코파."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nafbbc6be",
     "category": "IT",
     "source": "테크M",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153011",
     "title": "넷플릭스의 K-콘텐츠 확대 전략은? '맞춤형'으로 추천하고 '입소문' 타고 팬덤 키운다",
     "summary": [
@@ -338,7 +516,7 @@ window.NEWS_DB = [
     "id": "n0e492cf0",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260701_0003690473",
     "title": "美대법 \"성전환자 女스포츠 출전 금지 합헌\"…트럼프 \"승리\"",
     "summary": [
@@ -354,7 +532,7 @@ window.NEWS_DB = [
     "id": "na899daea",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260701_0003690467",
     "title": "민형배 특별시장 취임…\"압도적 성장으로 지역주도성장 효능 증명\"",
     "summary": [
@@ -370,7 +548,7 @@ window.NEWS_DB = [
     "id": "n09690f08",
     "category": "경제",
     "source": "테크M",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153015",
     "title": "위메이드·위메이드맥스 동반 상한가…박관호 의장 지분 9200억 매각에 '쩐주' 중국행",
     "summary": [
@@ -383,161 +561,45 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nde9fe975",
+    "id": "n1c4d1d02",
     "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/01/LKJLCQINOZCOVGZPPKG24PGCMQ/",
-    "title": "출생시민권도, 관세도…‘취임 첫날' 약속 어디로, 트럼프 2기의 현실",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/world/2026/07/01/2026070101293549771",
+    "title": "美대법 \"트랜스젠더, 여학생 스포츠 참가 금지 합당\"…1·2심 뒤집혔다",
     "summary": [
-      "출생시민권도, 관세도…‘취임 첫날' 약속 어디로, 트럼프 2기의 현실."
+      "트랜스젠더의 학내 여성 스포츠팀 참여 금지는 합당하다고 미국 연방대법원이 30일(현지시간) 판결했다.",
+      "도널드 트럼프 대통령이 트랜스젠더의 여성 스포츠 종목 출전 금지를 골자로 추진하는 '유권자 신분검사 강화 법안'(유권자 ID 법안) 처리에도 영향을 미칠 것으로 보인다.",
+      "대법원은 이날 트랜스젠더 고등학생 베키 페퍼-잭슨(16)과 대학생 린제이 히콕스(25)가 각각 웨스트버지니아주와 아이다호주의 법률에 대해 제기한 소송에서 재판관 6대 3으로 원."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4efa69df",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/01/MFQWENBYGAZWMZDFGVRGCMBVMY/",
-    "title": "'충격, 아모림은 너무 엄격했다' '소방수' 마이클 캐릭, 단기간에 맨체스터 유나이티드를 변화 성공시킨 비결 공개..'아모림의 5가지 규칙 바꿨다'",
-    "summary": [
-      "[스포츠조선 노주환 기자]'소방수' 마이클 캐릭이 짧은 기간 동안 맨체스터 유나이티드를 변화시킨 비결이 공개됐다.",
-      "영국 매체 '맨체스터 이브닝 뉴스'는 30일 마이클 캐릭 임시 감독이 루벤 아모림의 규칙 여러 개를 폐지하며 맨유 선수단에 거대한 변화를 가져왔다고 보도했다.",
-      "캐릭은 지난 1월, 아모림의 뒤를 이어 맨유 지휘봉을 잡은 후 12승4무2패를 기록하."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a46e9f0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701002300071",
-    "title": "트럼프 \"출생시민권 유지, 큰 불행…의회입법으로 만회 가능\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 30일(현지시간) 자신이 추진했던 '출생 시민권'(Birthright Citi..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5c68ba4d",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "28분 전",
-    "url": "https://view.asiae.co.kr/article/2026070102045681046",
-    "title": "[이슈]전남광주통합특별시의회가 7월1일 자정에 열린 의미는",
-    "summary": [
-      "편집자주자정에 열린 전남광주통합특별시의회 첫 본회의는 광주와 전남이 각각의 광역자치단체 체제를 마감하고 하나의 지방정부로 움직이기 위한 첫 제도적 절차이자, 통합의 성패를 가를 정치·행정 시스템이 본격 가동되는 출발점이란 점에서 많은 의미를 담고 있다.",
-      "특별법이 만든 틀, 조례가 움직인다전남광주통합특별시는 특별법을 근거로 출범했지만 실제 행정은 조례를 통해 운영된다.",
-      "조직 구성과 예산 집행, 각종 행정."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3ebebef2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003690478",
-    "title": "전남광주통합특별시의회 초대 의장 민주 송형곤 의원(종합)",
-    "summary": [
-      "[무안=뉴시스] 구용희 기자 = 전남광주통합특별시의회 초대 의장에 더불어민주당 송형곤 의원이 선출됐다.",
-      "통합특별시의회는 1일 오전 전남 무안 남악청사 본회의장에서 의원 91명 전원이 참석한 가운데 초대 의장 선거를 실시했다.",
-      "이번 의장 선거에는 더불어민주당 송형곤 의원과 진보당 강광석 의원이 후보로 나섰다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nab520ad2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701002000079",
-    "title": "네타냐후 \"무장한 헤즈볼라 있는 한 레바논서 철군 안해\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이란이 이스라엘군 철군을 포함한 레바논 분쟁 중단을 미국과의 종전 조건으로 제시했지만, 베냐민 네타냐후 이..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n80f19943",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "35분 전",
-    "url": "https://view.asiae.co.kr/article/2026070101472164322",
-    "title": "전남광주통합특별시 1호 조례는 '반도체'",
-    "summary": [
-      "전남광주통합특별시의회가 출범 첫날 처리한 첫 조례안은 반도체 산업 지원 조례였다.",
-      "통합특별시의회는 1일 0시 첫 본회의에서 '전남광주통합특별시 글로벌 반도체 전략투자 지원에 관한 조례안'을 상정했다.",
-      "통합특별시 출범 이후 사실상 첫 정책 조례이자 상징적인 '1호 조례'다.정치권에서는 이를 두고 통합특별시가 출범과 동시에 행정 통합보다 성장 전략을 앞세우겠다는 선언으로 해석하고 있다."
-    ],
-    "chips": [
-      "#반도체",
       "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n625dbe29",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701002100072",
-    "title": "쿠바 \"미국과 협상 진전 없었다\"…美봉쇄 논의 유엔총회 요청",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 쿠바가 몇 달에 걸친 미국과의 협상에서 진전이 없었다며, 미국의 경제·무역 봉쇄 문제를 논의하기 위한 유엔 ..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n720cf5df",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "37분 전",
-    "url": "https://view.asiae.co.kr/article/2026063018331998001",
-    "title": "광주남구도시재생협력센터, '주민·학생과 만드는 마을 콘텐츠'",
-    "summary": [
-      "㈔광주남구도시재생마을협력센터와 송원대학교 앵커사업단은 도심 캠퍼스 리빙랩 프로젝트의 일환으로 '우리 마을 이야기상점: 주민과 학생이 함께 만드는 남구 마을 콘텐츠 프로젝트'를 시작했다고 30일 밝혔다.이번 프로젝트는 지역 주민과 대학생이 함께 남구의 역사, 문화, 생활 자원을 발굴하고 이를 마을별 특성에 맞는 콘텐츠로 제작·활용하기 위해 마련됐다.",
-      "특히 백운광장, 사직동, 양림동을 중심으로 주민의 기억과 생활."
-    ],
-    "chips": [
+      "#정치",
       "#교육"
     ]
   },
   {
-    "id": "n4b9a3354",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "37분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701002200527",
-    "title": "제주시중산간·제주시서부에 호우주의보",
+    "id": "nc29d23d1",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/opinion/2026/07/01/2026063009265195759",
+    "title": "초과세수, 아일랜드처럼 원칙을 세우자[투데이窓/임진]",
     "summary": [
-      "(제주=연합뉴스) 기상청은 1일 오전 1시 45분을 기해 제주시중산간·제주시서부에 호우주의보를 발효한다고 밝혔다."
+      "2024년 다국적기업 이익 미래 위해 축적 횡재성 세수, 일회성 지출에 사용 안해 반도체 이익 일반예산과 구분해 관리해야 우리나라의 법인세 세수가 크게 증가할 것으로 예상된다.",
+      "인공지능 확산으로 고성능 메모리와 첨단 반도체 수요가 크게 늘고 있고, 그 결과 반도체 경기가 빠르게 좋아지고 있다.",
+      "반도체 기업의 실적 개선은 곧 법인세 증가로 이어진다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#반도체"
     ]
   },
   {
     "id": "ncd73b1b7",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260701001900072",
     "title": "\"미래에셋, 스페이스X 공모주 수요파악을 주문 접수로 오해\"",
     "summary": [
@@ -548,40 +610,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndc9421e0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "44분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/01/HO2NKEMLQZCFZK6E2ITZFC5KUQ/",
-    "title": "美 하원의원 100일 넘게 잠적… 돌아와선 “우울증이었다”",
-    "summary": [
-      "美 하원의원 100일 넘게 잠적… 돌아와선 “우울증이었다”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7274f4d",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "45분 전",
-    "url": "https://view.asiae.co.kr/article/2026070101354460320",
-    "title": "[르포] 전남광주통합특별시의회 첫 의사봉…통합, 현실이 되다",
-    "summary": [
-      "7월 1일 0시가 가까워져 오자 전남광주통합특별시의회 본회의장 주변엔 묘한 긴장감이 감돌았다.",
-      "수많은 논쟁과 갈등 끝에 성사된 광주·전남 통합이 마침내 현실로 다가오고 있어서다.",
-      "본회의장에 들어선 91명의 특별시의원은 저마다 이름표가 부착된 자리에 앉아 개회를 기다렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nc6114d5c",
     "category": "IT",
     "source": "테크M",
-    "time": "46분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153014",
     "title": "삼성전자·SK하이닉스, 서남권 반도체 팹 투자 확정...825조원 투입",
     "summary": [
@@ -600,42 +632,12 @@ window.NEWS_DB = [
     "id": "nc4680a18",
     "category": "사회",
     "source": "동아일보",
-    "time": "55분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260701/134213383/1",
     "title": "美출생시민권 유지된다…보수성향 대법원이 트럼프 제동",
     "summary": [
       "미국에서 태어난 아이들에게 자동으로 시민권을 부여하는 출생시민권 제도가 유지돼야 한다고 미 연방대법원이 30일(현지 시간) 판결했다.도널드 트럼프 미국 대통령은 2기 행정부 취임 첫날 행정명령을 통해 150년 이상 이어진 출생시민권제도를 사실상 폐지하려 했으나, 보수성향의 대법원 조차도 위헌적이라며 제동을 걸었다.",
       "AP통신 등에 따르면 미 연방대법원은 이날 도널드 트럼프 행정부의 출생시민권 폐지 행정명령이 위헌이라고 판단했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nee9b1358",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "56분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701001800054",
-    "title": "전남광주특별시의회, '반도체 지원 조례' 1호 안건 의결",
-    "summary": [
-      "(무안=연합뉴스) 형민우 기자 = 1일 출범한 전남광주통합특별시의회가 1호 안건으로 '전남광주통합특별시 글로벌 반도체 전력투자 지원에 관한 조례..."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n3018aecd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "58분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003690475",
-    "title": "진보 윤민호 \"전남광주통합의회 상임위원장 조기 선출은 졸속\"",
-    "summary": [
-      "[무안=뉴시스] 구용희 기자 = 전남광주통합특별시의회가 1일 공식 출범한 가운데 진보당이 상임위원장 조기 선출과 교섭단체 구성 요건을 강하게 비판하고 나섰다.",
-      "진보당은 전국 최초 통합특별시의회가 출범 초기부터 절차적 정당성과 협치의 원칙을 지켜야 한다고 촉구했다.",
-      "광주 북구 제2선거구 출신 진보당 윤민호 의원은 1일 통합특별시의회 전남 무안 남악청사 본회의장에서 열린 첫 본회의에서 전남광주통합특별시의회 교섭단체 및 위원회 구성과 운영에 관한 조."
     ],
     "chips": [
       "#정치"
@@ -648,20 +650,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
