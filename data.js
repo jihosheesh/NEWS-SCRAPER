@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-06-30 14:49:44
+// 마지막 업데이트: 2026-06-30 15:47:54
 window.NEWS_DB = [
+  {
+    "id": "n910de8e4",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qOGVCbFRiS0ZYaGt1cUJWcnpsTXhobFhydE5VdnZUVTlrNk8zS1NNSzV2Z0dyWThrWnR4N3FQd0pFV3gtdlUyaklBbDZnVW9VTERpaDRNcHJQQnNDRDFlOA?oc=5",
+    "title": "신생팀 안산 웨이브스, KBO 드림컵 독립야구대회 우승",
+    "summary": [
+      "신생팀 안산 웨이브스, KBO 드림컵 독립야구대회 우승 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
   {
     "id": "ndc65ba2b",
     "category": "IT",
     "source": "디지털데일리",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90RXFvcDk2SFk5cHZDWlo0bi1sSUM1dmlLc04yX3RuTG1xdU84QlhwOVZlajI5d3oyTUxZTTBNS3ByWnZTYnZRTnZ0azdDbjg1NFRGTlAxU1hyTDJTMkZBUDc2UEU?oc=5",
     "title": "美의 中 반도체 규제 역효과?…AI칩 점유율, 엔비디아↓ 화웨이↑[AI 인포그래픽]",
     "summary": [
@@ -22,7 +36,7 @@ window.NEWS_DB = [
     "id": "nf5332d7e",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sa091aVgzV2VFbGRwSjhIWmI4elRpa1lwU0YwdXd0c2pLWGNhY0N5d2RBSEJrdzdmbWR6VjZtdDlQMTc0OFdoM1UteklzOWl1SW5nRFZaSHJkMk3SAWBBVV95cUxNMXdWTjRRbEJSancxRENMemNoWWV0LUlncFFRYTgySThPU2FkenVPZExIUy1OX0FHb3FLX0VqS2QyOU84dlozbHZldVBBV2dYdUxZc2cxVlBWb0lzdlNNUkU?oc=5",
     "title": "엔비디아도 우주 AI 데이터센터 구축 박차…연봉 6억대 채용공고",
     "summary": [
@@ -38,7 +52,7 @@ window.NEWS_DB = [
     "id": "ne78b3f05",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTgwcEsxSGF3NmxJUlNINXFkX04zUUVkYkozWFpsZG84MUo0dXNWWTlDWFNySEFoazJzTElnYlp2dG00WnBjSzZKTTNPS050ZDE1R1N1RlBFZm5JZGRmeTBvZGI5U20wT2JyVW5YSGZWd25IY0NkelE2SkE5N2hYODNSSHJxQnpK?oc=5",
     "title": "엔비디아 中반도체 점유율 '제로'",
     "summary": [
@@ -50,21 +64,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd5844212",
-    "category": "사회",
-    "source": "네이트",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVaUVpYnFYM1RBeGxvdGtFWWNxT0NYeGxXRW5Ua0c3WC1XUDBVY1JxajZhdUd4ekJMZlpIM1NQbjUxel9yT3BZQjlpejJNY1pkR0hGRXlka3FlbHRsWDFOWQ?oc=5",
-    "title": "미래 유소년 지도자 위한 체험 기회…KBO, 오늘(30일) 보은서 '전국 교육대 티볼대회' 개최",
-    "summary": [
-      "미래 유소년 지도자 위한 체험 기회…KBO, 오늘(30일) 보은서 '전국 교육대 티볼대회' 개최 네이트."
-    ],
-    "chips": [
-      "#KBO",
-      "#교육"
-    ]
-  },
-  {
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
@@ -73,22 +72,6 @@ window.NEWS_DB = [
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
       "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "ne0482e30",
-    "category": "사회",
-    "source": "데일리안",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMkVsVkJMWFV3R1JRQ1Q1RzE1MzJVZWNSc1N5S3pEaHhMMWo3eHFVemd4NGpaOTloT1h4MUtMN2drd3QtcUg0VzBMbmxxRjhmZmNGNXdEc3JjZV9FWTlYMUJhZ1RQdUNYaW90clpabTFzV2RqY2dWR19kM09LU1B3a2VpQ3NlYk1LUHd0X2gtbU1SUnF5djRQSVh1V19VN1ZpaGd6RkVHeDctXzFFRDRQNFpJcm1IVVVnNVJrVmc3MVhZdWtCRkt4N3R6bkJBeFZfSDIxNGYwNnZMaE5GTWo0cm5sa09DczdoWnc4Q21vM2tXbWtlMlJid0FoZzBTczdFVnlMeEJ30gGGAkFVX3lxTFAyRWxWQkxYVXdHUlFDVDVHMTUzMlVlY1JzU3lLekRoeEwxajd4cVV6Z3g0alo5OWhPWHgxS0w3Z2t3dC1xSDRXMExubHFGOGZmY0Y1d0RzcmNlX0VZOVgxQmFnVFB1Q1hpb3RyWlptMXNXZGpjZ1ZHX2QzT0tTUHdrZWlDc2ViTUtQd3RfaC1tTVJScXl2NFBJWHVXX1U3VmloZ3pGRUd4Ny1fMUVENFA0WklybUhVVWc1UmtWZzcxWFl1a0JGS3g3dHpuQkF4Vl9IMjE0ZjA2dkxoTkZNajRybmxrT0NzN2hadzhDbW8za1dta2UyUmJ3QWhnMFNzN0VWeUx4Qnc?oc=5",
-    "title": "AI가 취업확률 분석한다…고용24 맞춤형 고용서비스 공개",
-    "summary": [
-      "AI가 취업확률 분석한다…고용24 맞춤형 고용서비스 공개 데일리안."
     ],
     "chips": [
       "#AI",
@@ -109,6 +92,21 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "na9c15208",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
+    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
+    "summary": [
+      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
+    ],
+    "chips": [
+      "#AI",
       "#고용"
     ]
   },
@@ -388,256 +386,247 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nce1eab3c",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690457",
-    "title": "김 총리, 퇴임 전 '마지막 행보'…올림픽공원 시위 대응 현장 경찰관 격려",
-    "summary": [
-      "[서울=뉴시스]이인준 기자 = 김민석 국무총리는 30일 총리직 퇴임을 앞두고 마지막 공식 행보로 서울 송파경찰서와 송파소방서를 방문했다.",
-      "김 총리는 이날 밤 민방위복을 입고 민기 국무총리비서실장과 함께 송파서를 찾아 한 달 가깝게 올림픽공원 개표소 봉쇄 시위 현장을 대응 중인 경찰관의 노고를 치하했다.",
-      "김 총리는 현장에서 \"개인의 일상을 희생하면서 애쓰는 분들을 우리 사회와 우리 국민들이 잘 인정하고 보상해야 한다고 생각한다\"면서 \"최전선에서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf47be6be",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690458",
-    "title": "美대법원, 출생시민권 유지…트럼프 행정명령 차단",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국에서 태어난 아이들에게 무조건 시민권을 부여하는 출생시민권 제도는 유지돼야 한다고 미 연방대법원이 30일(현지 시간) 판결했다.",
-      "AP통신 등에 따르면 미 연방대법원은 이날 도널드 트럼프 행정부의 출생시민권 폐지 행정명령을 취소해달라는 소송을 원심과 마찬가지로 인용했다.",
-      "트럼프 대통령은 지난해 1월 취임 직후 미국의 출생시민권제도를 사실상 폐지하는 행정명령에 서명했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nae9281be",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630197300071",
-    "title": "美대법 \"트랜스젠더의 여학생 스포츠팀 참여 금지 합당\" 판결",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 연방대법원은 30일(현지시간) 트랜스젠더가 학내 여성 스포츠팀에 참여할 수 없도록 하는 것이 합당하다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndefd582a",
+    "id": "nac352ad5",
     "category": "사회",
     "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/06/30/Y4OP6LNK5NCBNPISYV33MLD2AM/",
-    "title": "[유재덕의 공유주방] [25] 生死를 함께 품은 예술",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/national/nie/2026/07/01/BDMECVOPHZESTIAGTSZ6Q4IIC4/",
+    "title": "[신문은 선생님] [동물 이야기] 부모 모두 새끼 ‘젖’ 먹일 수 있는 물새… 붉은 깃털 갖게 된 이유는?",
     "summary": [
-      "[유재덕의 공유주방] [25] 生死를 함께 품은 예술."
+      "[신문은 선생님] [동물 이야기] 부모 모두 새끼 ‘젖’ 먹일 수 있는 물새… 붉은 깃털 갖게 된 이유는?."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5b425d45",
+    "id": "nf13341cd",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630196400085",
-    "title": "유럽 재무장 가속…영국도 국방비 30조원 증액",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/national/nie/2026/07/01/KSTWNWTLMZB6PEZWRETGTE4G2Q/",
+    "title": "[신문은 선생님] [알립니다] 조선일보 ‘1일 기자 체험’ 참가자 모집",
     "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국이 군 장비와 방위 기술에 150억파운드(약 30조8천억원)를 추가로 투입해 2029년까지 국방비를 연 ..."
+      "[신문은 선생님] [알립니다] 조선일보 ‘1일 기자 체험’ 참가자 모집."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "nc7fad8c2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/national/nie/2026/07/01/G35IF4F4U5C6VB5VCPMCXYHQUI/",
+    "title": "[신문은 선생님] [예쁜 말 바른 말] [451] ‘쫓다’와 ‘좇다’",
+    "summary": [
+      "[신문은 선생님] [예쁜 말 바른 말] [451] ‘쫓다’와 ‘좇다’."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd02cf435",
+    "id": "n78c8e0cd",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260630_0003690452",
-    "title": "트럼프 모로코산 비료 관세 유예…\"美 농가 지원\"",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/national/nie/2026/07/01/N3AY25O4OVBUNBSKZFOAG6PULY/",
+    "title": "[신문은 선생님] [숨어있는 세계사] 중앙은행·뉴딜 설계한 거장들… 美 경제 대국 이끌었죠",
     "summary": [
-      "[서울=뉴시스] 권성근 기자 = 도널드 트럼프 미국 대통령은 이란 전쟁 여파로 비료 가격이 상승하자 미 농가를 지원하기 위해 모로코산 인산염 비료에 대해 관세 부과를 일시 유예하기로 했다.",
-      "30일(현지 시간) 폭스비즈니스 등 외신에 따르면 트럼프 대통령은 전날 포고령을 통해 \"미국 농업 수요를 충족할 충분한 비료 공급 확보에 대한 위협과 관련된 비상사태\"를 선포하면서 8개월간 또는 비상사태가 종료될 때까지 모로코산 인산염 비료에 관세를 부과하지."
+      "[신문은 선생님] [숨어있는 세계사] 중앙은행·뉴딜 설계한 거장들… 美 경제 대국 이끌었죠."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n69583502",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260701/134213318/1",
+    "title": "“모스크바 외곽 러 우주통신센터, 8일만에 또 우크라 드론 피격”",
+    "summary": [
+      "러시아 수도 모스크바 외곽의 두브나에 있는 우주통신센터가 일주일여 만에 다시 우크라이나군의 공격을 받았다고 볼로디미르 젤렌스키 우크라이나 대통령이 30일(현지시간) 밝혔다.우크라이나 일간 ‘키이우 인디펜던트’에 따르면 젤렌스키 대통령은 “오늘 러시아의 전쟁에 대한 우리의 장거리 제재가 다시 한번 두브나 우주통신센터에 도달했다”고 말했다.젤렌스키 대통령은 우크라이나군의 장거리 드론 공격을 ‘장거리 제재’로 칭한다.",
+      "그는 “센터는 특수 위성통신 시."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nedc560b6",
+    "id": "n9941b280",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630197200071",
-    "title": "[속보] 美대법원, '출생시민권 금지' 트럼프 이민정책에 제동",
-    "summary": [],
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003690464",
+    "title": "美 6월 소비자신뢰지수 91.2…유가 하락에 호전",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 미국의 소비자신뢰지수가 6월 들어 호전된 것으로 나타났다.",
+      "이는 유가 하락이 미국 가계에 어느 정도 숨통을 틔워준 것이 영향을 미친 것으로 보인다.",
+      "30일(현지 시간) AP통신, 월스트리트저널(WSJ) 등에 따르면 컨퍼런스보드는 6월 소비자신뢰지수가 91.2로, 5월(90.6)에서 0.6포인트 상승했다고 밝혔다."
+    ],
     "chips": [
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "n688ed508",
+    "id": "n83b1b123",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260701/134213314/1",
+    "title": "‘억대 도박빚’ 고백한 예비 신랑…예비 신부 “정이 있어 가보려 한다”",
+    "summary": [
+      "예비 신랑의 상습적인 인터넷 도박과 억대 빚 고백에도 결혼을 강행하겠다는 예비 신부의 사연이 화제다.28일 한 온라인 커뮤니티에는 ‘인터넷 도박하는 남자와 8월 결혼 예정입니다’라는 제목의 글이 올라왔다.글쓴이 A씨는 “8월 결혼 예정으로 결혼식이 얼마 남지 않았다”며 “(예비 신랑은) 5월 인터넷 도박으로 1억을 잃었다고 한다.",
+      "이 사실을 6월 초에 알았다”고 운을 뗐다.A씨에 따르면 예비 신랑의 도박은 이번이 처음이 아니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5585bf28",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260701/134213311/1",
+    "title": "SUV 바퀴에 다리 깔린 8세 여아, 경찰·시민 힘 합쳐 구조",
+    "summary": [
+      "경기 광주시에서 SUV차량에 깔린 8세 여아를 경찰과 시민이 극적으로 구조했다.30일 경찰 등에 따르면 이날 오후 2시께 경기 광주시 양벌동 한 다세대주택 필로티 주차장에서 A(8)양이 B(40대)씨가 몰던 SUV 차량에 다리가 깔리는 사고가 났다.B씨는 주차장에 진입하는 과정에서 앉아있던 A양을 미처 발견하지 못하고 사고를 낸 것으로 전해졌다.B씨는 사고 직후 차량을 멈췄으나 이미 A양의 다리는 바퀴 아래 깔린 상태였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c0cebde",
+    "category": "경제",
+    "source": "동아일보",
     "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260630196900072",
-    "title": "미 6월 소비자신뢰지수, 유가하락에 호전…구직여건 인식은 악화",
+    "url": "https://www.donga.com/news/Society/article/all/20260701/134213305/1",
+    "title": "베트남 ‘경기도 다낭시’의 씁쓸한 근황…바가지 상술에 韓 관광객 ‘씁쓸’",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 소비자들이 체감하는 경제 상황과 전망을 수치화한 소비자신뢰지수가 6월 들어 호전됐다."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "n558b5695",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260630/134213155/1",
-    "title": "[프로필] 한성숙 신임 국무총리…AI·플랫폼 전문가에서 국정 2인자로",
-    "summary": [
-      "이재명 정부의 두 번째 국무총리로 1일 한성숙 총리가 임명된다.",
-      "국내 대표 플랫폼 기업인 네이버를 이끌었던 정보기술(IT) 전문가 출신으로, 기업 경영과 정부 정책을 모두 경험한 첫 여성 총리다.한 총리는 이날 국회 임명동의 절차를 마친 뒤 이재명 대통령의 임명안 재가를 받았다.",
-      "제50대 국무총리로 공식 임명되는 날은 7월 1일이다."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#네이버",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf0850727",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "16분 전",
-    "url": "https://www.hankyung.com/article/202606307816i",
-    "title": "6년만에 최고의 2분기 보낸 美증시,반기 마지막날도 상승",
-    "summary": [
-      "6년만에 최고의 2분기 보낸 美증시,반기 마지막날도 상승."
+      "한때 한국인 관광객들로 인산인해를 이루며 ‘경기도 다낭시’라는 별칭까지 얻었던 베트남 다낭의 관광 전선에 이상 기류가 감지되고 있다.",
+      "치솟은 현지 물가와 과도한 상술 탓에 한국인 여행객들의 발길이 눈에 띄게 줄어들면서, 현지 주요 상권이 한산한 모습을 보이고 있다.구독자 53만명의 유튜브 채널 ‘세계는요지경 YOZIGYEONG’이 지난달 27일 공개한 현지 영상에 따르면, 다낭 여행의 필수 코스로 꼽히던 한시장은 과거의 활기찬 모습을 찾기 어려."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0d8f3503",
-    "category": "사회",
-    "source": "조선일보",
+    "id": "nf6422698",
+    "category": "경제",
+    "source": "한국경제",
     "time": "18분 전",
-    "url": "https://www.chosun.com/opinion/2026/07/01/J4TCDKXECJEWJIX5QM5C7G2NYQ/",
-    "title": "[채승우의 카메라 타임머신] 60년 전 한강은 수영장이었다",
+    "url": "https://www.hankyung.com/article/202607017845i",
+    "title": "美대법원,\"미국서 태어나면 미국시민\"인정…트럼프 행정명령 기각",
     "summary": [
-      "[채승우의 카메라 타임머신] 60년 전 한강은 수영장이었다."
+      "美대법원,\"미국서 태어나면 미국시민\"인정…트럼프 행정명령 기각."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n107bfaf6",
+    "id": "n6d50fc59",
     "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260630/134212867/2",
-    "title": "[사설]민선 9기 지방정부 출범… 몸집 키워야 ‘소멸 위기’ 넘는다",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701000300098",
+    "title": "푸틴 소유 추정 요트, 4년만에 포착…\"덴마크 해안 출몰\"",
     "summary": [
-      "6·3 지방선거 결과 구성된 민선 9기 지방정부가 1일 출범했다.",
-      "새로 뽑힌 전국 16개 시도와 227개 시군구의 단체장, 지방의원들은 저마다 민생 회복과 소통 강화를 약속하며 4년의 임기를 시작했다.",
-      "특히 광주광역시와 전남도는 하나로 합쳐져 ‘전남광주통합특별시’로 새롭게 출발했다."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 블라디미르 푸틴 러시아 대통령 소유로 알려진 초호화 요트가 4년 만에 처음으로 레이더에 포착됐다고 덴마크 ..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nf81c4cf5",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "19분 전",
-    "url": "https://www.hankyung.com/article/2026063078117",
-    "title": "교황 레오 14세, 유리천장 깼다…이탈리아 수녀, 교황청 장관 임명",
-    "summary": [
-      "교황 레오 14세, 유리천장 깼다…이탈리아 수녀, 교황청 장관 임명."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f881f3f",
+    "id": "n06ddf809",
     "category": "사회",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260630/134213145/2",
-    "title": "[속보]李대통령, 한성숙 총리 임명안 재가…임명일자 7월1일",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260630_0003690061",
+    "title": "전남광주통합의회 1일 개원…초대 의장 선거 등 첫 의사일정 돌입",
     "summary": [
-      "이재명 대통령이 30일 한성숙 국무총리 후보자 임명안을 재가했다.청와대는 이날 “이 대통령이 한성숙 국무총리 임명안을 재가했다”며 “임명일자는 7월 1일”이라고 밝혔다.",
-      "이에 따라 한 총리는 이재명 정부의 두 번째 국무총리이자 제50대 국무총리로 공식 취임하게 됐다.",
-      "2006년 한명숙 전 국무총리 이후 약 20년 만의 여성 국무총리다.한 총리는 2017년부터 7년간 네이버 대표이사를 지낸 기업인 출신으로, 이재명 정부 초대 중소벤처기업부 장관을."
+      "[무안=뉴시스] 구용희 기자 = 전남광주통합특별시의회가 1일 0시 무안 남악청사 본회의장에서 제1회 임시회 제1차 본회의를 열고 공식 의정활동에 들어갔다.",
+      "개원 첫 본회의에서는 초대 의장 선거가 첫 안건으로 상정됐다.",
+      "의장 후보들의 정견발표에 이어 투표가 진행됐다."
     ],
     "chips": [
-      "#스타트업",
-      "#네이버",
       "#정치"
     ]
   },
   {
-    "id": "n4762359a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260630/134212869/2",
-    "title": "[사설]與 상임위 배분, 총리 인준 강행… 독주-보이콧 2년 더 봐야 하나",
-    "summary": [
-      "더불어민주당이 30일 국회 본회의에서 22대 후반기 국회 상임위원장 배분을 단독으로 처리했다.",
-      "여야가 팽팽히 맞섰던 법제사법위원장을 비롯해 11곳 위원장을 민주당 몫으로 일방 선출했고, 나머지 7곳은 나중에 정하겠다고 했다.",
-      "국민의힘은 표결을 거부한 뒤 어떤 상임위원장도 맡지 않겠다고 했다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7c805b41",
+    "id": "n606b162f",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/06/30/MQ3DENBXG44GCZRRMJRWEZJTMM/",
-    "title": "돗자리 깔판...김선태, 월드컵 탈락요인 '빌드업 부재' 짚었다 \"이강인만 고군분투\" ('김선태')",
+    "source": "머니투데이",
+    "time": "32분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/01/2026063015472832077",
+    "title": "11G 연속 안타→타율 3할 돌파! 두산 트레이드 복덩이, 여기서 끝 아니다 \"화요일에 잘 맞으면 그 주 내내 이어지는데...\" [잠실 현장]",
     "summary": [
-      "[OSEN=김수형 기자] 유튜버 김선태가 대한민국 축구대표팀의 월드컵 조별리그 탈락을 현장에서 지켜본 뒤 전술 부재를 지적했다.",
-      "경기 중 내놓은 분석이 경기 후 평가와 맞아떨어지면서 \"돗자리 깔아야 하는 것 아니냐\"는 반응도 이어졌다.김선태는 30일 자신의 유튜브 채널을 통해 월드컵 응원차 멕시코를 찾은 영상을 공개했다.현장에서 생애 첫 월드컵 직관에 나선."
+      "두산 베어스의 트레이드 복덩이 김민석(22)이 이번 주 대활약을 예고했다.",
+      "김민석은 30일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 리그 정규시즌 롯데 자이언츠와 홈경기에 5번 타자 및 좌익수로 선발 출장해 3타수 3안타 1타점 2득점으로 활약하며 5-0 승리를 이끌었다.",
+      "왜 두산 구단이 OPS(출루율+장타율) 0.8이 넘는 외국인 타자 다즈 카메론(29)을 포기하는지 그 이유를 알려준 경기였다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4cfaeca6",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701000200072",
+    "title": "[월드컵] 파라과이, 독일 꺾고 16강 이변에 국가공휴일 선포",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 파라과이가 '전차군단' 독일을 꺾고 2026 국제축구연맹(FIFA) 북중미 월드컵 16강에 진출하면서 산티아..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nba62ea0f",
-    "category": "경제",
+    "id": "n2f85ade8",
+    "category": "사회",
     "source": "한국경제",
-    "time": "45분 전",
-    "url": "https://www.hankyung.com/article/2026063077927",
-    "title": "'9조 재산' 궈타이밍, 골프 치며 선크림 발라준 여성과 불륜설",
+    "time": "39분 전",
+    "url": "https://www.hankyung.com/article/202607017837i",
+    "title": "유가하락에 6월 美소비자신뢰지수 소폭상승…고용 인식은 악화",
     "summary": [
-      "'9조 재산' 궈타이밍, 골프 치며 선크림 발라준 여성과 불륜설."
+      "유가하락에 6월 美소비자신뢰지수 소폭상승…고용 인식은 악화."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n24ed4b17",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630081800054",
+    "title": "전남광주통합특별시의회 본회의 0시 첫 개회…통합시대 열어",
+    "summary": [
+      "(광주·무안=연합뉴스) 박철홍 기자 = 전남광주통합특별시의회가 1일 0시 첫 본회의를 열고 대한민국 첫 통합 광역의회로서 공식 의정활동을 시작했..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d5bcb71",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630196300109",
+    "title": "식지 않는 유럽…헝가리 42도 '신기록', 이탈리아 5명 사망",
+    "summary": [
+      "(로마·파리=연합뉴스) 민경락 송진원 특파원 = 유럽 지역 폭염이 쉽게 식지 않으면서 곳곳에서 최고기온 기록이 잇따라 깨지고 있다."
     ],
     "chips": [
       "#뉴스"
@@ -650,20 +639,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "정책",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "채용",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
