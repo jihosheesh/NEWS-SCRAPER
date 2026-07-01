@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-01 11:03:00
+// 마지막 업데이트: 2026-07-01 12:53:02
 window.NEWS_DB = [
   {
     "id": "nb902b743",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSXBlaG94UU9lWll0VlAxTWFQcXprS2VrTk5NZ3dtYlpTdHlPbGg3YUI0QXlQdkNxRGxqOUVVdm9IRzJ1Q1ZiUkdPSXVBY29jRDVlNVZXQTRhTDRvdlNISjk4TkN3UjhGencxQ0xBWXVwSEE?oc=5",
     "title": "엔비디아 새 AI 반도체로 '제2의 전성기' 기회, 삼성전자 SK하이닉스 HBM4 역할 커져",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nf25b1254",
     "category": "스포츠",
     "source": "네이트",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVkpyTjRTUlhVSzZudDRPbDZKb045QkNUclpPSHM3NGZRcm5oemZVVzJiUDdzdWNkR0VYM2lPM2NwMlpaTmNwa2pIYndSV3k4cnViR2Z4RUFlYnFaV1dHNw?oc=5",
     "title": "프로야구 신인 드래프트 지명 참가 신청 접수…8월 22일 마감",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n1f9ed23e",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4LWhfdGg4T3VaNUxZdEljNU5zXzFIdWRpQnJTQmxpZEd1emY4bkR2bEdCMlUxNjNza1ZyM0Q4V1REWVdGcG1jUk1qSFFPRnFJQVlwbEdB?oc=5",
     "title": "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "nff8a2cfa",
     "category": "IT",
     "source": "네이트",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yRlFvd2xvWGwxZVVsazVORkFlbnN3ZzV3NEtWUV8xYnYxVU5lbDQwVGdMXzRiQmZ3ZVk1cVhDNlVNenNiNWd0WHlib2ZmRzBMMHNZ?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
@@ -61,20 +61,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
-    ]
-  },
-  {
-    "id": "n008e2f9b",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "20시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZlFXekZRMFRXSlJ5TmtScEI1VlhpLW5EbjVzclJTbGhrNTV6azMwOHpSOHEwNHlwWl9uZXBPTEI4bTNQeVdUaEUwZWxqc21JQVJ6T0ljMFdVQXFwbDZTWQ?oc=5",
-    "title": "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행",
-    "summary": [
-      "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -188,6 +174,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf5a3ebaf",
+    "category": "스포츠",
+    "source": "starnewskorea.com",
+    "time": "6일 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95MjFXdGZVam85dVZhaEMyQW9sZXdCX3ZreHVZbjRNekpWZ2psU3NGYkVfNU5PSXhlUU1TbHpGUVJwVlNQcmt5a2tWTzNrb1RQYmRrdFNnS1hYbjdWeUtIT0J2aW0yaVZSVWptdmdPakFKMWZiTFE?oc=5",
+    "title": "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주... 2위는 KBO 정상급 타자 김도영",
+    "summary": [
+      "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주...",
+      "2위는 KBO 정상급 타자 김도영 starnewskorea.com."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
@@ -260,17 +261,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n71a254ee",
+    "id": "n32bf68e2",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
-    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+    "source": "v.daum.net",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
     "summary": [
-      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
     ],
     "chips": [
-      "#부동산",
       "#금리",
       "#환율"
     ]
@@ -381,260 +381,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3cbc7e2b",
+    "id": "na1cc829a",
     "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003691780",
-    "title": "'피의게임X', 세계관 대통합…진정한 최강자 가린다",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692426",
+    "title": "트럼프도 춤춘 그 곡 'Y.M.C.A.'…'빌리지 피플' 빅터 윌리스 별세(종합)",
     "summary": [
-      "[서울=뉴시스] 이종희 기자 = 서바이벌 예능 '피의 게임' 시리즈가 세계관을 하나로 통합해 진정한 최강자를 가린다.",
-      "1일 웨이브 오리지널 예능 '피의 게임X' 제작발표회가 온라인을 통해 진행됐다.",
-      "행사에는 전채영 PD를 비롯해 이상민, 박지민, 이태균, 정근우, 이진형, 현성주, 하승진, 윤비, 홍진호, 서출구, 허성범, 김경훈, 강지후, 김남희, 김유현, 이관희, 곽범, 신승용, 최연청 등이 참석했다."
+      "[서울=뉴시스]이재훈 기자 = 1970년대 세계적인 인기를 누린 미국 디스코 그룹 '빌리지 피플(Village People)'의 리드보컬 겸 프런트맨 빅터 윌리스(Victor Willis)가 별세했다.",
+      "1일(현지시간) 미국 뉴욕타임스(NYT) 등 외신에 따르면, 빌리지 피플 측은 공식 성명을 통해 \"빅터 윌리스가 짧은 투병 끝에 지난 6월 29일 세상을 떠났다\"고 밝혔다.",
+      "사인의 구체적인 내용은 공개되지 않았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd968543c",
+    "id": "nac985ea8",
     "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260701/134220094/1",
-    "title": "MBK, 日 재팬웰빙 2조원대 매각 성공… “자금 확보에 홈플러스 책임론 재점화”",
-    "summary": [
-      "사모펀드 MBK파트너스가 일본 시니어케어 기업 재팬웰빙을 약 2조 원에 매각해 투자금 회수에 성공한 것으로 알려졌다.",
-      "자연스럽게 기업회생 절차가 진행 중인 홈플러스에 대한 지원 여부에 관심이 몰리는 분위기다.",
-      "재팬웰빙 매각으로 자금을 확보했다고 해도 해당 자금이 홈플러스에 투입될 수 있다는 것은 아니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8465c849",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026070120005625829",
-    "title": "[속보]지방세시스템 오류 지속…지방세 납부기한 7일까지 연장",
-    "summary": [
-      "[속보]지방세시스템 오류 지속…지방세 납부기한 7일까지 연장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0f5ffca5",
-    "category": "IT",
     "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/future/2026/07/01/2026070115244384035",
-    "title": "뷰티모델은 여성만? 업계 관행 깬 바비톡, 배우 강하늘 모델 발탁",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/01/2026070121423183796",
+    "title": "與 \"이 대통령, 원내지도부 만찬서 '국정과제 입법 속도' 당부\"",
     "summary": [
-      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] 메디컬 뷰티 플랫폼 바비톡이 배우 강하늘을 신규 모델로 발탁하고 다음달 31일까지 여름 브랜드 캠페인 '톡한 자만 살아남는다'를 전개한다고 1일 밝혔다.",
-      "캠페인 슬로건은 여러 채널을 오가며 시술 정보를 일일이 찾기보다 바비톡으로 필요한 정보를 효율적으로 탐색하는 사람을 '톡한 자'로 표현해 바비톡을 시술 정보 탐색의 스마트한."
+      "[the300] 이재명 대통령이 여당 원내지도부와의 만찬에서 입법 속도전을 강조한 것으로 전해졌다.",
+      "이주희 더불어민주당 원내대변인은 1일 이 대통령과의 만찬 후 서면브리핑을 통해 \"이 대통령은 3기 원내대표단 출범을 크게 축하하면서 하반기 국정과제 관련 입법안 처리에 더욱 속도를 내 줄 것을 당부했다\"고 밝혔다.",
+      "이 원내대변인은 \"한병도 원내대표는 이 대통령의 최근 해외순방 성과와 대한민국의 대도약을 일궈낼 3대 메가프로젝트 추진에 감사를 표하."
     ],
     "chips": [
-      "#스타트업"
+      "#정책",
+      "#정치"
     ]
   },
   {
-    "id": "nb15b92a6",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026070119572721383",
-    "title": "민경선 시장, 취임 첫날 '소통 행정' 시동…시장실 1층 이전·직통문자 도입",
-    "summary": [
-      "민경선 고양특례시장이 취임 첫날부터 시민과의 소통 강화를 전면에 내세우며 시정 혁신에 시동을 걸었다.",
-      "현충탑 참배로 민선 9기의 출발을 알린 데 이어 시장실 개방, 직통문자 운영, 시정회의 공개 등을 담은 첫 결재를 단행하며 '열린 고양' 구현 의지를 밝혔다.",
-      "민 시장은 1일 오전 고양시 현충공원을 찾아 순국선열과 호국영령의 희생을 기리며 공식 일정을 시작했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncf2630ab",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260701/134217776/1",
-    "title": "종합특검, ‘양평고속도로 백지화 의혹’ 원희룡 피의자 입건해 조사",
-    "summary": [
-      "‘양평고속도로 노선 변경’ 의혹을 수사 중인 2차 종합특검(특별검사 권창영)이 원희룡 전 국토교통부 장관을 피의자로 입건하고 조사받으러 나오라고 요구했다.1일 특검은 최근 원 전 장관에게 출석 요구를 통보했지만 폐문부재로 송달되지 않았다고 밝혔다.",
-      "원 전 장관 측은 특검과 연락이 닿지 않았던 것으로 전해졌다.",
-      "원 전 장관은 이날 자신의 페이스북에 “장관으로서 정무적 결단을 내린 게 죄라면 구차하게 피하지 않겠다”며 “억지 부리지 말고 죄가 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfa52c328",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026070119550213036",
-    "title": "지하철 4호선 방화 시도 40대 남성 구속…\"도망 염려\"",
-    "summary": [
-      "지하철 열차 안에서 라이터와 살충제 스프레이로 방화를 시도한 40대 남성이 구속됐다.부동식 서울중앙지법 영장전담 부장판사는 1일 현주전차방화미수 혐의를 받는 김모씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 \"도망할 염려가 있다\"며 구속영장을 발부했다.",
-      "김 씨는 지난달 29일 오후 9시 20분께 지하철 4호선 명동역에서 충무로역으로 향하던 열차 안에서 출입문 비상 개폐장치를 향해 라이터를 켜고 살충제 스."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n80be3c1a",
+    "id": "nef89e93e",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/01/G44DMMZRGI4WMNZUG5TDKNRYMM/",
-    "title": "구창모·이우성, NC 6월 MVP 선정…동료들이 직접 뽑았다 [오!쎈 창원]",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/01/GVQWGMJQGNSDQNZQGQ2TKNZYGI/",
+    "title": "롯데 새로운 영웅이 탄생했다! 박재엽 연장 10회 결승타 폭발→최준용 BSV 딛고 두산 5-2 제압…이이무라 첫 승 [잠실 리뷰]",
     "summary": [
-      "[OSEN=손찬익 기자] 프로야구 NC 다이노스가 6월 팀 MVP로 투수 구창모와 외야수 이우성을 선정했다.NC는 2일 창원NC파크에서 열린 삼성 라이온즈와의 홈경기에 앞서 6월 MVP 시상식을 열고 구창모와 이우성에게 시상금 100만 원을 전달했다.NC는 매월 말 코칭스태프의 추천으로 후보를 선정한 뒤 선수단과 현장 직원들의 투표를 통해 투수와 야수 부문."
+      "[OSEN=잠실, 이후광 기자] 롯데가 최준용의 블론세이브를 딛고 천신만고 끝 승리를 쟁취했다.프로야구 롯데 자이언츠는 1일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 두산 베어스와의 시즌 11차전에서 연장 접전 끝 5-2로 승리했다.롯데는 전날 0-5 완패를 설욕하며 시즌 34승 2무 42패를 기록했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n7c452f36",
+    "id": "nfbbf55e8",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260701/134218930/1",
-    "title": "음바페, 홀란, 메시…북중미 월드컵 골든부트 경쟁 뜨겁다",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/07/01/MI3TIZRQHA4WEMRTGIYWKMRZMQ/",
+    "title": "[MSI] 한화생명은 순항 기대, T1은 험난한 첫 관문…8강 대진 확정",
     "summary": [
-      "월드컵 토너먼트 통산 최다골 기록을 새로 쓴 킬리안 음바페(프랑스)와 탁월한 골 결정력을 보여주고 있는 엘링 홀란(노르웨이).",
-      "그리고 가장 적게 뛰면서도 득점 공동 선두를 달리고 있는 리오넬 메시(아르헨티나)까지.",
-      "세계적 골잡이들의 2026 북중미 월드컵 골든부트(득점왕) 경쟁이 갈수록 뜨거워지고 있다.●‘토너먼트의 왕’ 음바페프랑스는 1일 미국 뉴욕 뉴저지 스타디움에서 열린 북중미 월드컵 32강전에서 스웨덴을 3-0으로 꺾고 16강에 올랐다."
+      "일단 1라운드에선 LCK 2개팀의 희비가 엇갈렸다.",
+      "1일 플레이인 스테이지를 마친 후 대전광역시 대전컨벤션센터에서 열린 2026 MSI(미드 시즌 인비테이셔널) 조 추첨에서 LCK 1번 시드인 한화생명e스포츠는 같은 지역 팀들이 만나지 않는 규칙에 따라 출전팀 가운데 약체로 꼽히는 LCP(아시아태평양)의 TSW(팀 시크릿 웨일즈)와 브래킷 스테이지(8강 본."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "neba300bc",
-    "category": "사회",
+    "id": "n4302e8e0",
+    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701190100065",
-    "title": "퇴근길 인천지하철 신연수역서 전동차 고장…승객들 하차",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260628053753007",
+    "title": "[프로야구 잠실전적] 롯데 5-2 두산",
     "summary": [
-      "(인천=연합뉴스) 홍현기 기자 = 1일 오후 6시 30분께 인천지하철 1호선 신연수역에 정차한 인천시청역 방면 전동차의 출입문 1개가 고장 났다..."
+      "[프로야구 잠실전적] 롯데 5-2 두산."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n606413e8",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260701/134220060/2",
-    "title": "“16강이다!” 100만명 몰려나온 멕시코시티…3명 압사",
+    "id": "n4234d0b8",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/01/2026070121195220872",
+    "title": "가수 박규리 근황 \"뇌출혈 이후 건강검진…대장암 양성종양 발견\"",
     "summary": [
-      "멕시코 축구 대표팀이 2026 북중미 월드컵 16강에 진출한 것을 축하하기 위해 100만 명이 넘는 인파가 거리로 쏟아져 나온 멕시코시티에서 3명이 압사를 당했다.1일(현지시간) 영국 BBC 보도에 따르면 멕시코시티 보건당국은 지난달 30일 밤(현지시간) 독립기념비인 ‘앙헬 데 라 인데펜덴시아(독립의 천사)’ 인근에서 열린 월드컵 응원 행사 도중 발생한 사고로 19세 여성과 48세 여성, 44세 남성 등 3명이 숨졌다고 밝혔다.이날 멕시코가 에."
+      "트로트 가수 박규리가 건강프로그램을 통해 근황을 전했다.",
+      "지난달 30일 방송된 TV조선 '건강한 집2'에서는 '내 몸을 되살리는 하루 한 끼의 기적'이라는 주제로 다양한 건강 관리법을 소개했다.",
+      "게스트로 출연한 박규리는 \"어느덧 40대 후반이다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nf357fbce",
+    "id": "n5f32f55a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701194700007",
+    "title": "[프로야구 대전전적] kt 7-4 한화",
+    "summary": [
+      "[프로야구 대전전적] kt 7-4 한화."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n3cafa360",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260630190752007",
+    "title": "[프로야구 고척전적] LG 10-4 키움",
+    "summary": [
+      "[프로야구 고척전적] LG 10-4 키움."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nbd721813",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692380",
+    "title": "박재엽 결승타·이이무라 첫승…롯데, 연장 끝 두산 5-2 제압",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 프로야구 롯데 자이언츠가 연장 10회초 터진 박재엽의 결승타에 힘입어 두산 베어스를 눌렀다..",
+      "롯데는 1일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 두산과의 원정 경기에서 5-2로 이겼다.",
+      "이날 승리로 8위 롯데(34승 2무 42패)는 전날 당했던 0-5 영봉패를 설욕했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n0502a231",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/01/HAZGCOJQGY4WGYLGGY4WGM3EGM/",
+    "title": "불펜 데이로 상대 에이스를 이겼다...'오스틴 홈런 2방+천성호 대타 결승타' 메가트윈스포 폭발, LG 10-4 대승 [고척 리뷰]",
+    "summary": [
+      "[OSEN=고척, 한용섭 기자] 프로야구 LG 트윈스가 키움 히어로즈를 꺾고 2연패에서 벗어났다.",
+      "LG는 1일 서울 고척 스카이돔에서 열린 2026 KBO리그 키움과 경기에서 10-4로 승리했다.",
+      "오스틴이 투런 홈런 2방을 터뜨리며 홈런 단독 1위가 됐다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf52bf6f8",
     "category": "사회",
     "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701190000060",
-    "title": "서해선 능곡∼김포공항 하행선 전기 공급 장애…퇴근길 시민 불편",
+    "url": "https://www.yna.co.kr/view/AKR20260701194200064",
+    "title": "괴산 농로서 경운기 3m 아래 계곡 추락…70대 숨져",
     "summary": [
-      "(고양=연합뉴스) 노승혁 기자 = 1일 오후 6시 3분께 서해선 열차 운행이 일시적으로 중단돼 퇴근길 시민들이 불편을 겪었다."
+      "(괴산=연합뉴스) 이성민 기자 = 1일 충북 괴산군 감물면의 한 농로에서 경운기가 3m 아래 계곡으로 추락해 70대 운전자 A씨가 숨졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3393815a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692331",
-    "title": "\"비 맞아도 '이것' 못 참지\"…대구치맥페스티벌 열기 '후끈'",
+    "id": "nc701c64b",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/01/2026070115095650896",
+    "title": "'대타 천성호 결승타→오스틴 홈런 선두 등극' 불펜데이 LG, '에이스' 나온 키움 잡았다! [고척 현장리뷰]",
     "summary": [
-      "[대구=뉴시스] 이상제 기자 = \"비가 와도 맞으면서 치맥 축제를 즐길 겁니다.",
-      "오늘 하루 흠뻑 젖어보겠습니다.\" '치맥26(이륙)' 대한민국 대표 여름 축제 '2026 대구치맥페스티벌'이 열린 1일 오후 대구시 달서구 두류공원에서 만난 박준영(24)씨가 손에 있는 맥주잔을 하늘로 치켜들며 이렇게 말했다.",
-      "박 씨와 함께 축제장을 찾은 최영훈(28)씨는 \"주차 자리를 잡으려고 반차까지 내고 퇴근 시간보다 일찍 도착했다\"며 \"날씨가 흐린 가운데 비."
+      "LG 트윈스가 키움 히어로즈를 상대로 전날(6월 30일) 당한 완패를 되갚았다.",
+      "LG는 1일 서울 구로구에 위치한 고척스카이돔에서 열린 '2026 신한 SOL KBO리그' 키움과 원정 경기서 10-4로 이겼다.",
+      "4-4로 맞선 8회초 4점을 뽑아 경기를 품었다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n072e9894",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/01/MNQTKNBQGY3WGM3FGRRTAMLBGI/",
-    "title": "한헤진, ♥기성용과 결혼 13주년 자축..연애시절 사진 공개 “늘 고마워 여보”",
-    "summary": [
-      "[OSEN=박하영 기자] 배우 한혜진이 기성용과 결혼 13주년을 맞아 비하인드 사진을 공개했다.",
-      "1일 한혜진은 자신의 계정에 “저희 오늘 결혼 13주년이에요.",
-      "추억 더듬어 가며 둘만 있었던 시절 사진들 모아봤어요."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd6aa13f9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701189600051",
-    "title": "음주운전 의심 차량 신고…경찰, CCTV 운전자 추적",
-    "summary": [
-      "(부산=연합뉴스) 차근호 기자 = 부산 사상경찰서는 음주 운전 의심 차량 신고가 접수돼 해당 차량의 운전자를 추적하고 있다고 1일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n016ceee9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692384",
-    "title": "한찬식 靑 민정수석, 중수청 준비단 방문…\"준비상황 보고받고 점검\"",
-    "summary": [
-      "[서울=뉴시스]김경록 기자 = 한찬식 청와대 민정수석이 1일 중대범죄수사청 개청준비단을 방문해 준비 상황을 점검했다.",
-      "청와대는 이날 한 수석이 중수청 개청준비단을 방문해 준비 상황을 전반적으로 보고받고 점검했다고 밝혔다.",
-      "중수청은 기존 검찰의 수사권한을 이어받는 행정안전부 산하 수사기관으로, 새로 제정된 중수청 설치법상 오는 10월 2일 출범을 앞두고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne5ac62b3",
-    "category": "사회",
+    "id": "na4ce2d9f",
+    "category": "스포츠",
     "source": "뉴시스",
     "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692381",
-    "title": "[단독]'투표지 부족' 사태 한 달…대법원, 첫 선거소송 심리",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692418",
+    "title": "'7회 9득점 빅이닝' NC, 삼성 6연승 저지…10-5 대역전승",
     "summary": [
-      "[서울=뉴시스]김정현 기자 = 대법원이 이른바 '투표용지 부족 사태'가 발생한 6·3 국회의원 재보궐 선거와 제9회 전국동시지방선거의 무효를 요구하는 첫 선거소송의 심리에 착수한 것으로 파악됐다.",
-      "1일 법조계 등에 따르면, 대법원 1부(주심 마용주 대법관)는 최근 자유와혁신 문태광 수원갑 당협추진위원장이 중앙선거관리위원회를 상대로 제기한 '6·3 국회의원 재·보궐선거 겸 제9회 전국동시지방선거 무효' 사건을 배당 받아 법리 검토에 착수했다."
+      "[서울=뉴시스]문채현 기자 = 프로야구 NC 다이노스가 끈질긴 뒷심을 발휘하며 삼성 라이온즈의 6연승을 저지했다.",
+      "NC는 1일 창원NC파크에서 열린 2026 신한 쏠 KBO리그 홈 경기에서 삼성을 상대로 10-5 대역전극을 작성했다.",
+      "경기 중반까지 내내 끌려가던 NC는 7회를 빅이닝으로 만들고 경기를 뒤집었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7c0174d7",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692423",
+    "title": "LG 오스틴, 키움전 25·26호포 폭발…홈런 단독 선두 재탈환(종합)",
+    "summary": [
+      "[서울=뉴시스]문채현 기자 = 프로야구 LG 트윈스 최고의 외인 오스틴 딘이 멀티 홈런을 폭발하며 리그 홈런 단독 선두 자리를 되찾았다.",
+      "오스틴은 1일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 키움 히어로즈전에 3번 타자 1루수로 선발 출전해 5회와 9회 홈런을 쏘아 올렸다.",
+      "그는 양 팀이 2-2로 맞서던 5회초 2사 2루에 키움 선발 라울 알칸타라의 3구째 시속 149㎞ 바깥쪽 공을 밀어 쳐 우측 담장을 넘기는 비거리 120m."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf3200686",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/01/2026070121073516393",
+    "title": "100만 인파 뒤엉킨 멕시코 16강 축제…3명 질식사 참변",
+    "summary": [
+      "멕시코의 월드컵 16강 진출 축하 행사에서 대규모 군중이 뒤엉키며 3명이 질식해 숨지는 사고가 발생했다.",
+      "1일(현지시간) 로이터통신에 따르면 멕시코시티 보건부는 이날 새벽 월드컵 16강 진출 축하 행사를 위해 팬들이 거리로 몰려들면서 3명이 질식사했다고 밝혔다.",
+      "당국에 따르면 응급 구조대는 '파세오 데 라 레포르마' 거리 주변 곳곳에서 의식을 잃고 쓰러진 3명을 발견해 응급 처치를 시도했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf9ba9239",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260701/134220642/1",
+    "title": "농협, 법 개정 전 자체 개혁 속도… 개혁과제 75% 이행",
+    "summary": [
+      "농협이 지배구조와 선거·인사제도, 내부통제 전반에 대한 자체 개혁 작업에 속도를 내고 있다.",
+      "농협개혁위원회가 지난 3월 내놓은 혁신 권고안 가운데 상당수 과제가 법 개정 이전 단계에서 이미 이행되거나 선제 착수된 것으로 나타났다.농협개혁위원회는 지난달 30일 제8차 회의를 열고 지난 3월 24일 발표한 혁신 권고안에 따른 13개 자체 개혁과제, 16개 세부과제의 추진 현황을 종합 점검했다고 밝혔다.이번 점검 결과 세부과제 16개 가운데 8개 과."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n4f776f8b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "20분 전",
+    "url": "https://www.hankyung.com/article/2026070105087",
+    "title": "멕시코 16강행 축하 행사에 100만명 몰리더니…3명 질식사",
+    "summary": [
+      "멕시코 16강행 축하 행사에 100만명 몰리더니…3명 질식사."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -643,19 +645,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "tag": "KBO",
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
