@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-01 13:45:57
+// 마지막 업데이트: 2026-07-01 14:57:18
 window.NEWS_DB = [
   {
     "id": "nb902b743",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSXBlaG94UU9lWll0VlAxTWFQcXprS2VrTk5NZ3dtYlpTdHlPbGg3YUI0QXlQdkNxRGxqOUVVdm9IRzJ1Q1ZiUkdPSXVBY29jRDVlNVZXQTRhTDRvdlNISjk4TkN3UjhGencxQ0xBWXVwSEE?oc=5",
     "title": "엔비디아 새 AI 반도체로 '제2의 전성기' 기회, 삼성전자 SK하이닉스 HBM4 역할 커져",
     "summary": [
@@ -19,24 +19,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf25b1254",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "10시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVkpyTjRTUlhVSzZudDRPbDZKb045QkNUclpPSHM3NGZRcm5oemZVVzJiUDdzdWNkR0VYM2lPM2NwMlpaTmNwa2pIYndSV3k4cnViR2Z4RUFlYnFaV1dHNw?oc=5",
-    "title": "프로야구 신인 드래프트 지명 참가 신청 접수…8월 22일 마감",
-    "summary": [
-      "프로야구 신인 드래프트 지명 참가 신청 접수…8월 22일 마감 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n1f9ed23e",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4LWhfdGg4T3VaNUxZdEljNU5zXzFIdWRpQnJTQmxpZEd1emY4bkR2bEdCMlUxNjNza1ZyM0Q4V1REWVdGcG1jUk1qSFFPRnFJQVlwbEdB?oc=5",
     "title": "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다",
     "summary": [
@@ -52,7 +38,7 @@ window.NEWS_DB = [
     "id": "nff8a2cfa",
     "category": "IT",
     "source": "네이트",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yRlFvd2xvWGwxZVVsazVORkFlbnN3ZzV3NEtWUV8xYnYxVU5lbDQwVGdMXzRiQmZ3ZVk1cVhDNlVNenNiNWd0WHlib2ZmRzBMMHNZ?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
@@ -61,6 +47,34 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
+    ]
+  },
+  {
+    "id": "n008e2f9b",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZlFXekZRMFRXSlJ5TmtScEI1VlhpLW5EbjVzclJTbGhrNTV6azMwOHpSOHEwNHlwWl9uZXBPTEI4bTNQeVdUaEUwZWxqc21JQVJ6T0ljMFdVQXFwbDZTWQ?oc=5",
+    "title": "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행",
+    "summary": [
+      "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n910de8e4",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qOGVCbFRiS0ZYaGt1cUJWcnpsTXhobFhydE5VdnZUVTlrNk8zS1NNSzV2Z0dyWThrWnR4N3FQd0pFV3gtdlUyaklBbDZnVW9VTERpaDRNcHJQQnNDRDFlOA?oc=5",
+    "title": "신생팀 안산 웨이브스, KBO 드림컵 독립야구대회 우승",
+    "summary": [
+      "신생팀 안산 웨이브스, KBO 드림컵 독립야구대회 우승 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -174,21 +188,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf5a3ebaf",
-    "category": "스포츠",
-    "source": "starnewskorea.com",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95MjFXdGZVam85dVZhaEMyQW9sZXdCX3ZreHVZbjRNekpWZ2psU3NGYkVfNU5PSXhlUU1TbHpGUVJwVlNQcmt5a2tWTzNrb1RQYmRrdFNnS1hYbjdWeUtIT0J2aW0yaVZSVWptdmdPakFKMWZiTFE?oc=5",
-    "title": "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주... 2위는 KBO 정상급 타자 김도영",
-    "summary": [
-      "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주...",
-      "2위는 KBO 정상급 타자 김도영 starnewskorea.com."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
@@ -200,6 +199,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
+    ]
+  },
+  {
+    "id": "nde229885",
+    "category": "IT",
+    "source": "한국보험신문",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
+    "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
+    "summary": [
+      "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장” 한국보험신문."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -247,17 +260,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n71a254ee",
+    "id": "n32bf68e2",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
-    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+    "source": "v.daum.net",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
     "summary": [
-      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
     ],
     "chips": [
-      "#부동산",
       "#금리",
       "#환율"
     ]
@@ -290,20 +302,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
-    ]
-  },
-  {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "128일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -382,252 +380,255 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naff78052",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026070122441977883",
-    "title": "최원용 평택시장 취임…‘1호 결재’는 30분 생활권 구축 TF",
-    "summary": [
-      "최원용 경기 평택시장이 1일 취임식을 갖고 민선 9기 평택시정의 닻을 올렸다.",
-      "취임 첫 행보는 환경미화원들과의 간담회였다.",
-      "시민의 일상과 가장 가까운 현장에서 민생의 목소리를 듣겠다는 의지를 보여준 것이다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "na0eed9cc",
+    "id": "nd8f3d536",
     "category": "사회",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/01/GAYTKYZVGNSGIZJZMQYDEZDGGA/",
-    "title": "32기 영식 \"순자·영숙 둘 다 알아보고 싶어\"···데프콘 \"솔직해서 좋아\"('나는 솔로')",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/opinion/column/2026/07/01/4AO2RCIYPNGQPP2KFI33B7H24I/",
+    "title": "[양상훈 칼럼] 민주당 대표 몸값이 800조원?",
     "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘나는 솔로’ 데프콘이 32기 영식의 깔끔한 태도에 감탄했다.1일 방영된 SBS 예능 ‘나는 SOLO - 나는 솔로’(이하 ‘나는 솔로’)에서는 전날 영식이 순자와 데이트 후 마음이 많이 기울었으나 영숙의 확고한 지지 같은 마음을 듣고 마음이 흔들렸다.영식은 “나는 어제 영숙님이랑."
+      "[양상훈 칼럼] 민주당 대표 몸값이 800조원?."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nabc7f17b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026070122393970869",
-    "title": "민선 9기 창원시 첫 정기인사 예고 … 전보 최소·주요 현안 직위 공모",
-    "summary": [
-      "경남 창원특례시가 민선 9기 첫 정기인사인 2026년 하반기 정기인사를 예고하고 승진 예정 인원과 인사 기준 등을 공개했다.",
-      "이번 승진 규모는 국장급(4급) 4명, 과장급(5급) 24명, 6급 44명, 7급 69명, 8급 110명 등 총 251명이다.",
-      "시는 이번 민선 9기 첫 정기인사 핵심 방향으로 전보 최소화를 통한 조직 안정화, 시장 핫라인인 전략조정실TF 구성을 통한 신속한 의사결정과 효율적 행정체계 구축, 주요 현안 직위 공모를 통한 속."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85706da8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/01/LBOMOOCG45EITL4HBYIEUFASHQ/",
-    "title": "[속보] 미 하원 “한국 정부, 쿠팡 차별적 규제…中서 노트북 회수 작전까지 요구”",
-    "summary": [
-      "[속보] 미 하원 “한국 정부, 쿠팡 차별적 규제…中서 노트북 회수 작전까지 요구”."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "ndb5dcf56",
+    "id": "n41d0d918",
     "category": "스포츠",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026070122385966751",
-    "title": "로버츠 감독, 새 역사를 썼다…MLB 역대 최소 경기 1000승",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/01/MZSGGNZQGM3WCMZRGMZWINDGGU/",
+    "title": "40년 만의 역사 쓴 멕시코, 충격적 비극에 눈물…축하 행사 중 3명 압사",
     "summary": [
-      "데이브 로버츠 LA 다저스 감독이 메이저리그(MLB) 사령탑 최소 경기 1000승을 기록했다.",
-      "로버츠 감독이 이끄는 다저스는 1일(한국시간) 미국 캘리포니아주 웨스트 새크라멘토 서터 헬스 파크에서 열린 2026 오클랜드 애슬레틱스와 방문 경기에서 9-3으로 이겼다.",
-      "이로써 로버츠 감독은 MLB 역사상 69번째, 현역 감독으로는 3번째로 1000승 고지를 밟았다."
+      "[스포츠조선 박상경 기자] 40년 만의 토너먼트 승리, 그러나 생각지도 못한 비극이 발생했다.",
+      "영국 BBC는 1일(한국시각) '멕시코시티에서 열린 2026 북중미월드컵 32강전 승리 축제 도중 44세 남성과 48세 여성, 19세 여성이 숨졌다'고 전했다.",
+      "이들은 멕시코가 1986 멕시코 대회 이후 월드컵 결선 토너먼트에서 승리한 것을 축하하기 위해 멕시코시."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n241384f8",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
+    "id": "n39eda703",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692464",
+    "title": "인도 6월 제조업 PMI 54.2·0.8P↓… \"수요 둔화\"",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 아시아 제3위 경제대국 인도의 체감경기를 보여주는 2026년 6월 HSBC 제조업 구매관리자 지수(PMI 확정치)는 54.2를 기록했다고 PTI 통신과 마켓워치, 비즈니스 스탠더드 등이 1일 보도했다.",
+      "매체는 S&P 글로벌이 이날 발표한 관련 통계를 인용해 6월 제조업 PMI가 전월 55.0에서 0.8 포인트 저하했다고 전했다.",
+      "속보치 54.5에서 0.3 포인트 하향 조정했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5060e8dd",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701197700530",
-    "title": "[속보] 행안부 \"지방세시스템 정상화…재발 방지 최선\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf7f915bb",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/2026070105521",
-    "title": "금감원, JTBC 회사채 불완전판매 여부 본다",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/01/MVRDCOBZMZTGMOJUGY3GEZJWHE/",
+    "title": "\"실내에서 계속 준비\" 대타로만 5번째, 이게 어디 쉽나, 4년 전 헤어졌더라면 어쩔 뻔, 극적인 동점 투런포→9득점 대역전 드라마 발판",
     "summary": [
-      "금감원, JTBC 회사채 불완전판매 여부 본다."
+      "[창원=스포츠조선 정현석 기자] 대타로 나서 홈런을 때려내는 것은 결코 쉽지 않은 임무다.",
+      "하지만 준비된 베테랑 외야수 권희동(36)은 예외였다.",
+      "벼랑 끝 연패 위기에서 팀을 구출한 결정적 한 방이 터졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7818ac5a",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026070105551",
-    "title": "스펙은 최고, 몸값은 최저…'AI 비서'로 취업난 다루다",
+    "id": "nbb03e342",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/01/MU4DIM3BG44TEMRQG5SGEOJVMQ/",
+    "title": "KBO리그 역사상 최초 장면이 나왔다…부모님은 웃을까 울까",
     "summary": [
-      "스펙은 최고, 몸값은 최저…'AI 비서'로 취업난 다루다."
+      "[대전=스포츠조선 이종서 기자] KBO리그 역사상 이런 장면은 없었다.",
+      "KT 위즈는 1일 대전 한화생명볼파크에서 열린 한화 이글스와의 경기에서 7대4로 승리했다.",
+      "KT가 7-3으로 앞선 9회말."
     ],
     "chips": [
-      "#AI",
-      "#취업"
+      "#KBO"
     ]
   },
   {
-    "id": "n9d84c888",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701097352001",
-    "title": "국힘 \"투표지 부족 때 뭐했나\"…행안장관 \"선거 개입하란 거냐\"(종합2보)",
-    "summary": [
-      "(서울=연합뉴스) 이정현 조다운 이율립 기자 = 여야는 1일 국회 투표용지 부족 사태 국정조사 특별위원회에서 선관위의 부실한 선거 관리로 국민 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n80824379",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692438",
-    "title": "제10대 부여군의회 전반기 의장에 백용달 의원",
-    "summary": [
-      "[부여=뉴시스] 조명휘 기자 = 제10대 부여군의회 전반기 의장에 백용달(국민의힘·나선거구) 의원이 선출됐다.",
-      "군의회는 1일 본회의장에서 제301회 임시회 제1차 본회의를 열고 전반기 원구성을 끝냈다.",
-      "의장에 선출된 백 의원은 5대 부여군의원과 6대 부여군의회 하반기 의장을 지낸 이력이 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n121361e3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/2026070105561",
-    "title": "진옥동 신한금융 회장 \"12년간 청년창작 지원 보람…참신함 담은 29초 매년 놀라워\"",
-    "summary": [
-      "진옥동 신한금융 회장 \"12년간 청년창작 지원 보람…참신함 담은 29초 매년 놀라워\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a219841",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692441",
-    "title": "소지섭 \"어제로도 돌아가기 싫다\"…뜻밖의 속내",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 배우 소지섭이 과거 신인시절을 회상했다.",
-      "1일 유튜브 채널 유튜브하지영에는 '지금은 김부장 시대.",
-      "초대박 인터뷰 START\"라는 제목의 영상이 올라왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd2816c5",
+    "id": "n058969bf",
     "category": "사회",
     "source": "동아일보",
     "time": "14분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260701/134220619/1",
-    "title": "“與 운동권 세력 무너지고…결국 李대통령이 이길것”[정치를 부탁해]",
+    "url": "https://www.donga.com/news/Inter/article/all/20260701/134220963/1",
+    "title": "日이와테현 앞바서 규모 6 지진…쓰나미 우려 없어",
     "summary": [
-      "동아일보 정치 라이브 ＜정치를 부탁해＞- 일시: 월·수요일 오전 10~11시- 토크: 김종혁 전 국민의힘 최고위원, 박원석 전 정의당 의원- 진행·연출: 조동주 김선우 - 동아일보 유튜브 : www.youtube.com/@donga-ilbo 국민의힘 장동혁 대표 측이 한동훈 무소속 의원을 지원했던 당내 인사들에 대한 징계를 검토한 정황이 알려진 가운데 김종혁 전 국민의힘 최고위원은 “권위는 모두 사라지고 제도적 권력만 남은 당 대표가 칼을 휘두."
+      "1일 오후 9시 8분께 일본 이와테(岩手)현 앞바다에서 규모 6 지진이 발생했다.",
+      "현지 공영 NHK,요미우리신문 등에 따르면 일본 기상청은 이같이 밝히고 진원지는 이와테현 앞바다, 진원의 깊이는 40㎞라고 추정했다.",
+      "기상청은 이번 지진으로 쓰나미(津波·지진해일) 우려는 없다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8090040a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260701/134220951/1",
+    "title": "‘광주 여고생 살해’ 장윤기 부친은 현직 경찰관…증거인멸 도왔다",
+    "summary": [
+      "광주 길거리에서 여고생을 살해한 장윤기(23)의 친부가 현직 경찰관임에도 아들의 범행 증거를 은폐한 것으로 드러났다.1일 광주지검에 따르면 장윤기는 지난 5월 5일 오전 0시 11분쯤 광주 광산구 월계동 한 대학교 인근 도로에서 강간 목적으로 고등학생 이채원 양(16)을 흉기로 찔러 살해하고, 이 양을 도우려고 달려온 고등학생 고 모 군(17)을 흉기로 찔러 살해하려 한 혐의를 받는다.앞서 이 범행이 있기 전 같은 달 3일 함께 식당에서 일했던."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n2a980e08",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260701/134220945/1",
+    "title": "변요한, ♥티파니와 럽스타…뮤지컬 공개 응원 “최고!”",
+    "summary": [
+      "배우 변요한이 아내인 소녀시대 겸 배우 티파니 영을 응원했다.변요한은 1일 자신의 인스타그램 스토리에 뮤지컬 ‘유미의 세포들’을 관람한 인증샷을 올리며 “배우들, 음악, 무대 좋은 공연 감사합니다”라며 “최고!!!”라고 적었다.이와 함께 변요한은 티파니 영 계정을 태그하며 애정을 드러냈다.티파니 영은 인기 웹툰을 원작으로 한 뮤지컬 ‘유미의 세포들’에서 유미 역을 맡아 무대에 오르고 있다.",
+      "이에 남편 변요한이 직접 응원에 나서 훈훈함을 자아낸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfa712a6c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260701/134220940/1",
+    "title": "차은우, 군 복무 중 ‘천주교 세례’ 받고 정식 신자 됐다",
+    "summary": [
+      "배우 겸 가수 차은우가 군 복무 중 천주교 세례를 받았다.1일 뉴스1 취재 결과, 차은우는 지난달 군 복무 중 천주교 세례를 받았다.",
+      "국방부 군악대대 팡파르대 상병으로 복무 중인 차은우는 종교 활동의 일환으로 영내에서 거행된 예식에 참석해 세례를 받은 것으로 확인됐다.그간 공식적으로 특정 종교를 밝힌 적이 없던 차은우가 군 생활을 계기로 정식 가톨릭 신자로서 첫발을 내디뎠다는 점에서 눈길을 끈다.특히 올해 초 발생한 세무 관련 논란 이후, 그가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7171e1e",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "21분 전",
+    "url": "https://www.hankyung.com/article/202607010560i",
+    "title": "美 증시, 제조업 활동 회복에 낙폭 축소",
+    "summary": [
+      "美 증시, 제조업 활동 회복에 낙폭 축소."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n659fa016",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701200200004",
+    "title": "법무장관 \"광주 여고생 살해범 부친이 경찰…증거인멸 처벌 어려워\"",
+    "summary": [
+      "(서울=연합뉴스) 박재현 기자 = '광주 여고생 살해범' 장윤기의 부친이 현직 경찰 신분으로 증거를 인멸하고도 친족간 특례에 따라 처벌을 피했다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n58d87da2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701184551051",
+    "title": "부산도시철도 전동차에 방화예고 쪽지 붙인 50대 긴급체포(종합)",
+    "summary": [
+      "(부산=연합뉴스) 민영규 차근호 기자 = 부산도시철도 전동차에 방화를 예고하는 쪽지를 붙인 50대 남성이 경찰에 붙잡혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nccd7da7c",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692462",
+    "title": "[속보]뉴욕증시, 반도체주 차익실현에 하락 출발…다우 장중 상승 전환",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 aci27@newsis.com."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n790266db",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701200400098",
+    "title": "벨기에 제2도시 고층아파트 화재로 6명 사망·다수 부상",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 1일(현지시간) 벨기에 제2 도시 안트베르펜의 고층 아파트에서 불이 나 최소 6명이 숨지고 다수가 다쳤다고..."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n353a5657",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692440",
+    "title": "트럼프 \"이란 비핵화 잘 진행되고 있어…회담 잘 했다\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국과 이란이 1일(현지 시간) 카타르에서 간접 협상을 진행 중인 것으로 알려진 가운데, 도널드 트럼프 미 대통령은 \"이란 비핵화는 잘 진행되고 있다\"고 주장했다.",
+      "트럼프 대통령은 이날 메릴랜드주 앤드루스합동기지에서 전용기인 에어포스원에 탑승하기 앞서 취재진에 이란과 협상에 대해 이같이 전하며 \"그들은 매우 좋은 회담을 했고 지켜볼 것이다\"고 말했다.",
+      "이어 \"우리는 사흘밤 동안 그들을 매우 강하게 공격했었지만."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n3a08762f",
+    "id": "n0f76a6f0",
     "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701189152530",
+    "title": "지방세시스템 오류 12시간만 정상화…행안부 \"재발방지 최선\"(종합)",
+    "summary": [
+      "(서울=연합뉴스) 차민지 홍준석 기자 = 1일 전남광주통합특별시 출범과 인천광역시 행정체제 개편에 따른 데이터 전환 작업 과정에서 장애를 겪었던..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfb115069",
+    "category": "사회",
     "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/2026070105571",
-    "title": "배달 수수료 꼬집은 '송곳 풍자' 빛났다",
+    "time": "47분 전",
+    "url": "https://www.hankyung.com/article/2026070105737",
+    "title": "李 대통령 \"끔찍한 폭력\"…'태움' 간호사 사망, 엄단 지시",
     "summary": [
-      "배달 수수료 꼬집은 '송곳 풍자' 빛났다."
+      "李 대통령 \"끔찍한 폭력\"…'태움' 간호사 사망, 엄단 지시."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4be341f2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701197100082",
-    "title": "유럽 향하는 캐나다…내년 유로비전 가요제 참가",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 캐나다가 내년에 열리는 유럽 국가 대항 가요제 유로비전 송 콘테스트(이하 유로비전)에 참가한다고 대회를 주..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb1401eb2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701185651009",
-    "title": "트럼프 유세곡 'YMCA' 부른 빌리지 피플의 빅터 윌리스 별세(종합)",
-    "summary": [
-      "(서울·워싱턴=연합뉴스) 임수정 기자 백나리 특파원 = 디스코 그룹 빌리지 피플의 리드 싱어 빅터 윌리스가 지난 달 30일(현지시간) 별세했다고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc9d40ade",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003691515",
-    "title": "취임식 오후 5시에 연 까닭은?…'참교육' '시민임명식'",
-    "summary": [
-      "[부천 수원=뉴시스]우은식 기자, 최유리 김드보라 인턴기자 = 부천시는 1일 오전 10시 시청 2층 어울림마당에서 민선 9기 조용익 시장 취임식을 개최했다.",
-      "'시민임명식'이란 행사 이름에는 시민이 시정의 주인이자 출발점이라는 시민주권 가치가 반영됐다.",
-      "이날 행사는 취임 선서, 축사, 국내외 교류도시 축하 영상, 식전 및 식후 공연으로 구성돼 조 시장의 취임을 축하했다."
-    ],
-    "chips": [
-      "#교육"
+      "#정치"
     ]
   }
 ];
@@ -643,8 +644,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
