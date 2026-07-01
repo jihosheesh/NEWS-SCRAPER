@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-01 17:35:18
+// 마지막 업데이트: 2026-07-01 18:35:49
 window.NEWS_DB = [
   {
     "id": "nb902b743",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSXBlaG94UU9lWll0VlAxTWFQcXprS2VrTk5NZ3dtYlpTdHlPbGg3YUI0QXlQdkNxRGxqOUVVdm9IRzJ1Q1ZiUkdPSXVBY29jRDVlNVZXQTRhTDRvdlNISjk4TkN3UjhGencxQ0xBWXVwSEE?oc=5",
     "title": "엔비디아 새 AI 반도체로 '제2의 전성기' 기회, 삼성전자 SK하이닉스 HBM4 역할 커져",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nf25b1254",
     "category": "스포츠",
     "source": "네이트",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVkpyTjRTUlhVSzZudDRPbDZKb045QkNUclpPSHM3NGZRcm5oemZVVzJiUDdzdWNkR0VYM2lPM2NwMlpaTmNwa2pIYndSV3k4cnViR2Z4RUFlYnFaV1dHNw?oc=5",
     "title": "프로야구 신인 드래프트 지명 참가 신청 접수…8월 22일 마감",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n1f9ed23e",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4LWhfdGg4T3VaNUxZdEljNU5zXzFIdWRpQnJTQmxpZEd1emY4bkR2bEdCMlUxNjNza1ZyM0Q4V1REWVdGcG1jUk1qSFFPRnFJQVlwbEdB?oc=5",
     "title": "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "nff8a2cfa",
     "category": "IT",
     "source": "네이트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yRlFvd2xvWGwxZVVsazVORkFlbnN3ZzV3NEtWUV8xYnYxVU5lbDQwVGdMXzRiQmZ3ZVk1cVhDNlVNenNiNWd0WHlib2ZmRzBMMHNZ?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
@@ -293,18 +293,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n98a572df",
+    "id": "nbcfe41a7",
     "category": "IT",
-    "source": "대한민국 정책브리핑",
-    "time": "63일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "source": "연합뉴스TV",
+    "time": "128일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
-      "#스타트업",
-      "#정책"
+      "#스타트업"
     ]
   },
   {
@@ -323,57 +322,222 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2ae728b6",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260702_0003692476",
-    "title": "[속보]美 \"멕시코·케나다와 무역협정 갱신안해…협상까진 유효\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n5d1caebe",
+    "id": "n977bb970",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702002300081",
-    "title": "'친러' 우크라 재벌 테러 관련자 1명 체포 후 석방",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003692479",
+    "title": "[속보]베네수엘라 강진 사망자 2000명 넘어…2295명",
     "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 모나코 수사 당국은 친러시아 성향 우크라이나 재벌을 노린 폭탄 테러 사건과 관련해 1일(현지시간) 외국인 한..."
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 aci27@newsis.com."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7bfb56c7",
+    "id": "ndd90ca6b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260702_0003692473",
-    "title": "中왕이, 美루비오와 통화서 \"대만 문제에 신중해야\" 압박",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003692474",
+    "title": "밴스 美부통령 \"도하 협상 호르무즈에 초점…순조롭다\"",
     "summary": [
-      "[서울=뉴시스] 김예진 기자 = 왕이 중국공산당 중앙정치국 위원 겸 외교부장은 지난달 30일 마코 루비오 미국 국무장관과 전화 통화를 가지고 대만 문제에 신중해야 한다고 압박했다.",
-      "1일 신화통신에 따르면 전날 왕 부장은 전날 루비오 장관과 전화 통화에서 양국은 전략적 안정이라는 건설적인 관계를 구축하기 위한 올바른 방향을 확고히 유지해야 한다고 말했다.",
-      "그는 그러면서 대만 문제는 중국에게 매우 중대한 의미가 있다며 미국 측이 대만 관련 사안을."
+      "[워싱턴=뉴시스] 이윤희 특파원 = JD 밴스 미국 부통령은 1일(현지 시간) 카타르 도하에서 이뤄지고 있는 미국과 이란의 협상이 호르무즈 해협 개방 유지에 초점을 둘 것이라고 설명했다.",
+      "밴스 부통령은 이날 메릴랜드주 앤드루스합동기지에서 이란과 협상 상황에 대한 취재진 질문에 \"지금 기술 협상단이 도하에서 이란, 카타르 등과 마주 앉아 세부 사항을 논의하고 있다\"며 \"상업 선박이 실제로 통행하도록 하고있으며 이미 놀라운 방향으로 진전이 시작됐다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "ndca381ec",
+    "id": "n95be84c0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260702/134221230/1",
+    "title": "“우산 한 번 찔렀을 뿐인데”…中 세계 최대 유리 다리 ‘쩍’ 갈라졌다",
+    "summary": [
+      "중국 중부의 유명 관광지에서 유리 바닥 패널이 외부 충격으로 파손되는 아찔한 사고가 발생했다.",
+      "지난달 29일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면, 허난성에 위치한 바오취안 절벽 관광지에서 한 소년이 들고 있던 우산으로 유리 바닥을 찌르는 사건이 벌어졌다.",
+      "이 충격으로 바닥 패널 일부에 금이 갔고, 현장에 있던 직원들은 즉시 관광객들을 대피시키며 긴급 조치에 나섰다.사고가 난 플랫폼은 2023년 기네스 세계 기록에도 등재된."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb3a7b7c8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260702/134221225/1",
+    "title": "다리미 없이 8분 만에…구겨진 옷 펴주는 휴대용 기기 英서 화제",
+    "summary": [
+      "구겨진 옷을 다리미 없이도 손 쉽게 주름을 제거할 수 있는 의류 관리기기가 등장해 화제다.영국 런던의 의류 관리기기 브랜드 에어로녹스의 ‘에어로녹스 GO’는 다리미나 스팀기 없이 간편하게 의류에 있는 주름을 완화할 수 있는 제품이다.",
+      "셔츠 등 상의를 전용 공기주머니에 넣고 기기를 작동하면 내부로 따뜻한 공기가 순환하며 옷을 부풀려 주름을 완화한다.",
+      "일반 다리미처럼 열판을 직접 대거나 스팀기를 이용해 물을 가열하는 방식이 아닌 열풍 방식을 적용해."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nedc1d0e7",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260702/134221222/1",
+    "title": "美 “멕시코·케나다와 무역협정 갱신안해”…10년간만 유효",
+    "summary": [
+      "도널드 트럼프 미국 행정부가 북미지역 무역협정인 미국-멕시코-캐나다 협정(USMCA)을 갱신하지 않기로 했다고 1일(현지 시간) 밝혔다.",
+      "제이미슨 그리어 미국무역대표부(USTR) 대표는 이날 성명을 통해 USMCA 공동 검토를 위해 멕시코, 캐나다와의 화상회의를 진행했으며 “미국은 USMCA를 현행 행태로 갱신하는 것에 동의하지 않았다.",
+      "그 결과 USMCA는 갱신되지 않았다”고 발표했다.USMCA는 북미자유협정(NAFTA)을 대체한 무역협정이다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n43f0a5ed",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702002100071",
-    "title": "[속보] 美당국자 \"캐나다·멕시코와 협의하는동안 USMCA 효력유지\"",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702003800079",
+    "title": "이란 \"카타르 회담 마무리…양해각서 위반 신고채널 구축 합의\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 카타르 도하를 방문한 이란 종전 실무협상단이 중재국들과의 회담을 마무리했다고 이란 국영 IRNA 통신이 1..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n19048ad0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702003400072",
+    "title": "[베네수 강진] 사망자 약 2천300명으로 늘어…7일간 국가 애도 기간",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 최근 베네수엘라에서 발생한 연쇄 강진으로 인한 누적 사망자가 2천명을 훌쩍 넘긴 것으로 1일(현지시간) 집계..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n33500ba5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003692475",
+    "title": "모나코 당국, '친러' 우크라 재벌 테러 관련 1명 체포했다 석방",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 모나코 당국은 1일(현지 시간) 친러시아 성향으로 알려진 우크라이나 재벌 등을 다치게 한 폭발 사건을 수사하는 과정에서 1명을 체포했다고 석방했다고 밝혔다.",
+      "AP통신 등에 따르면 모나코 검찰총장 명의의 성명에 따르면 이날 오전 외국 국적자가 모나코에서 구금됐다.",
+      "성명은 \"추가 확인이 필요하다고 판단돼 경찰 구금 상태에서 조사를 받았다\"고 설명하면서도 이 외국 국적자가 이날 오후 석방됐다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9b6b270d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/02/GZRDQYLCHEZWKZJSHA2DGYRXHE/",
+    "title": "[월드컵] \"홍명보 퇴진사태\" BBC의 촌철살인과 반전의 희망가. 홍명보 감독 퇴진→한국 축구 위기→한국 추월한 일본축구. \"한국축구, 전환점 최적의 시기\"",
+    "summary": [
+      "[스포츠조선 류동혁 기자] 영국 BBC는 홍명보 전 대한민국 월드컵 대표팀 감독의 사퇴를 대서특필했다.",
+      "단, 홍 감독의 사퇴에 집중하진 않았다.",
+      "한국 축구의 구조적 문제점과 거기에 따른 결과물이 홍 감독의 사퇴라는 결론을 내렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90d1dc60",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702003600072",
+    "title": "[속보] 베네수엘라 강진 사망자 2천명 넘겨",
     "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e6141e4",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702003100075",
+    "title": "오픈AI 다룬 영화 '아티피셜', 표류 끝 '기생충' 배급사와 계약",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 인공지능(AI) 기업 오픈AI를 적나라하게 다룬 영화 '아티피셜'이 아마존의 변심으로 표류한 끝..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n3213be16",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/07/02/72T5VV5N7BF3BIC36VPIDRMSKY/",
+    "title": "무료로 풀린 중국 AI의 무서운 야심",
+    "summary": [
+      "무료로 풀린 중국 AI의 무서운 야심."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n65fd5e0d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/07/02/5RYQPS2TOFHQHNZEJIJEONZACI/",
+    "title": "[34화] 관우 “이 술이 식기 전에 돌아오겠소”",
+    "summary": [
+      "[34화] 관우 “이 술이 식기 전에 돌아오겠소”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n816dddbb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/07/02/6CDV7HCNOZCSJECZTYIZHZBLBA/",
+    "title": "몸 전체를 하나의 흐름으로… 뇌를 안심시키는 리듬 운동",
+    "summary": [
+      "몸 전체를 하나의 흐름으로… 뇌를 안심시키는 리듬 운동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5569705",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "40분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/02/2026070114400153929",
+    "title": "최고 연봉 감독의 브라질과 풀뿌리 축구에 집중 투자한 프랑스 [★월드컵 비즈 이종성④]",
+    "summary": [
+      "2026 국제축구연맹(FIFA) 북중미 월드컵 32강전이 진행되는 가운데 여러 축구 강국의 대표팀이 화제가 되고 있다.",
+      "그 중에서도 최고 연봉 감독을 둔 브라질과 아마추어 축구에 거액을 투자한 프랑스가 관심을 집중시키고 있다.",
+      "비니시우스를 키운 북중미 월드컵 최고 연봉 감독 안첼로티 브라질은 지난 2002 한일 월드컵 우승 이후 월드컵에서 우승을 차지하지 못했다."
+    ],
     "chips": [
       "#뉴스"
     ]
@@ -382,7 +546,7 @@ window.NEWS_DB = [
     "id": "n061e3de5",
     "category": "경제",
     "source": "머니투데이",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/world/2026/07/02/2026070201152599545",
     "title": "\"쿠팡을 범죄 조직 취급\"…美 의회, 한국 규제 정조준",
     "summary": [
@@ -396,38 +560,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9db54f89",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692466",
-    "title": "美하원, 韓쿠팡차별 보고서 발표…\"국정원이 기기회수 강요\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 하원 법제사법위원회(법사위)가 1일(현지 시간) 대규모 개인정보 유출 사건과 관련해 한국 정부가 쿠팡의 중국 내 회수 작전을 강요했다는 취지의 조사보고서를 공개했다.",
-      "하원 법사위는 이날 발표한 34쪽 분량의 중간보고서 '경쟁 차단 : 미국 소유 기업에 대한 한국의 차별적 공격'에서 이같이 주장했다.",
-      "보고서 사실상 한국 정부의 쿠팡 차별을 주장하기 위해 작성됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n246d5546",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702001900071",
-    "title": "[속보] 美, 현행 북미무역협정 갱신않기로…\"추가 협의 지속\"",
-    "summary": [],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
     "id": "n5f4eb948",
     "category": "경제",
     "source": "머니투데이",
-    "time": "34분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/opinion/2026/07/02/2026063017225233617",
     "title": "K푸드·K뷰티를 넥스트 먹거리로[MT시평/최성락]",
     "summary": [
@@ -441,24 +577,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8c5aa7db",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692135",
-    "title": "[오늘의 주요일정]식품의약품안전처(7월2일 목요일)",
-    "summary": [
-      "[서울=뉴시스] ◇처장 ▲14:00 식의약 안심과제 대국민 보고회 ◇차장 ▲09:00 차관회의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na5c47a79",
     "category": "IT",
     "source": "테크M",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153057",
     "title": "엔씨 야심작 '신더시티' 본격 알리기 돌입...스팀 페이지 띄웠다",
     "summary": [
@@ -470,72 +592,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nea9b25f3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "43분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/02/GA3DOYJYMQ2TSMBSMRTGMMJYGA/",
-    "title": "‘천하의 해리 케인도 쩔쩔 맨다!’ 콩고에게 선제골 허용한 잉글랜드, 허둥지둥하다 0-1 뒤지며 전반종료",
-    "summary": [
-      "[OSEN=서정환 기자] 네덜란드와 독일에 이어 거함 잉글랜드까지 탈락할까? 잉글랜드는 2일 미국 조지아주 애틀란타 스타디움에서 개최된 2026 FIFA 북중미월드컵 32강전에서 전반 7분 만에 콩고민주공화국에 실점을 허용하며 0-1로 뒤진 채 전반전을 마쳤다.",
-      "잉글랜드는 슈퍼스타들이 총출동했다.",
-      "4-2-3-1의 잉글랜드는 해리 케인 원톱에 마커스 래시포드."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndb50cab7",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "43분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701200651085",
-    "title": "워시 연준의장 \"인플레 위험 낮아졌지만…물가 너무 높아\"(종합)",
-    "summary": [
-      "(런던·워싱턴=연합뉴스) 김지연 홍정규 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)의 케빈 워시 의장은 1일(현지시간) 최근 미국의 인..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb237b2d2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "51분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/02/GZQWIYTBGE4DANLGHAZWMNLFGY/",
-    "title": "얼마만인가. 김태형 감독 이렇게 활짝 웃다니! → 반갑다 잘왔다 이이무라!",
-    "summary": [
-      "[잠실=스포츠조선 한동훈 기자] 이게 얼마만인가.",
-      "김태형 롯데 자이언츠 감독이 오랜만에 함박 웃음을 지었다.",
-      "7연승 기간에도 옅은 미소를 유지했던 김 감독은 새 아시아쿼터 투수 이이무라 쇼타의 역투를 보고 활짝 웃었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nff569038",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "54분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/02/MI3TEM3GMZSGMYLFGIZDKMZRMU/",
-    "title": "[오피셜]'하이재킹 성공' 첼시 알론소 감독 '1호 영입' 확정, 인터밀란 향하던 이탈리아 국대 영건 풀백 펠레스트라와 6년 계약..'아탈란타에 이적료 총 6000만유로 지불'",
-    "summary": [
-      "[스포츠조선 노주환 기자]EPL 첼시의 이번 여름 이적 시장 1호 영입은 수비수다.",
-      "이탈리아 출신 젊은 풀백 마르코 팔레스타라다.",
-      "첼시는 1일(한국시각) 공식 채널을 통해 '아탈란타로부터 마르코 팔레스트라 영입을 확정했다'고 발표했다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
     "id": "n3e9ad7d5",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153052",
     "title": "[中 안긴 위메이드] 최대주주 교체 후폭풍...계열사·위믹스 향방은",
     "summary": [
@@ -551,7 +611,7 @@ window.NEWS_DB = [
     "id": "n32c8a186",
     "category": "스포츠",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153056",
     "title": "위메이드맥스, 中 시장 전략 본격화 기대감...손면석 대표 \"신작 개발 '이상 무'\"",
     "summary": [
@@ -566,7 +626,7 @@ window.NEWS_DB = [
     "id": "n38f99ebd",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153055",
     "title": "[인사] 신한은행",
     "summary": [
@@ -574,65 +634,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n157866f0",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/world/2026/07/02/2026070201024489728",
-    "title": "美연준 의장 \"물가 너무 높다…금리 힌트는 안 줄 것\"",
-    "summary": [
-      "미국 중앙은행인 연방준비제도(Fed·연준)의 케빈 워시 의장이 1일(현지시간) 인플레이션 위험이 낮아졌지만 물가가 여전히 너무 높은 수준이라고 밝혔다.",
-      "로이터 통신에 따르면 워시 의장은 이날 유럽중앙은행(ECB) 주최로 포르투갈 신트라에서 열린 중앙은행 포럼에서 패널로 참석해 \"인플레이션 리스크가 낮아졌다\"면서도 이같이 말했다.",
-      "워시 의장은 \"연준은 물가 안정을 이행할 것\"이라며 \"그게 연준이 할 일이고 목적\"이라고 말했다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n84153f08",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607020612i",
-    "title": "\"메타,남는 컴퓨팅 파워로 클라우드사업진출\"…주가 급등",
-    "summary": [
-      "\"메타,남는 컴퓨팅 파워로 클라우드사업진출\"…주가 급등."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n842bc66a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/02/FIWBWYP2VFFMTEFDQ5SR7IIZWQ/",
-    "title": "가정폭력 피해자 90%가 방치돼 있다",
-    "summary": [
-      "가정폭력 피해자 90%가 방치돼 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n03a2f564",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260702/134221081/1",
-    "title": "그랜섬 “미국 주식 보유 말라”…최대 70% 하락 가능성 경고",
-    "summary": [
-      "미국 증시가 역사상 최대 규모의 버블 국면에 진입했다는 경고가 나왔다.30일(현지시간) 미국 매체 머니와이즈에 따르면 월가의 대표적 비관론자로 꼽히는 제레미 그랜섬 글로벌 투자운용사 GMO 공동 창업자는 최근 팟캐스트 ‘더 다이어리 오브 어 CEO’에 출연해 이같이 밝혔다.그랜섬은 인공지능(AI) 기대감으로 상승한 미국 증시가 과열 국면에 들어섰다고 평가하며, “미국 역사상 가장 큰 투자 버블”이라고 말했다.",
-      "특히 최근 5년간 S&P500이 7."
-    ],
-    "chips": [
-      "#AI"
     ]
   }
 ];
@@ -642,14 +643,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
