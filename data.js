@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-01 21:30:48
+// 마지막 업데이트: 2026-07-01 22:26:49
 window.NEWS_DB = [
   {
     "id": "nb902b743",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSXBlaG94UU9lWll0VlAxTWFQcXprS2VrTk5NZ3dtYlpTdHlPbGg3YUI0QXlQdkNxRGxqOUVVdm9IRzJ1Q1ZiUkdPSXVBY29jRDVlNVZXQTRhTDRvdlNISjk4TkN3UjhGencxQ0xBWXVwSEE?oc=5",
     "title": "엔비디아 새 AI 반도체로 '제2의 전성기' 기회, 삼성전자 SK하이닉스 HBM4 역할 커져",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nf25b1254",
     "category": "스포츠",
     "source": "네이트",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVkpyTjRTUlhVSzZudDRPbDZKb045QkNUclpPSHM3NGZRcm5oemZVVzJiUDdzdWNkR0VYM2lPM2NwMlpaTmNwa2pIYndSV3k4cnViR2Z4RUFlYnFaV1dHNw?oc=5",
     "title": "프로야구 신인 드래프트 지명 참가 신청 접수…8월 22일 마감",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n1f9ed23e",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4LWhfdGg4T3VaNUxZdEljNU5zXzFIdWRpQnJTQmxpZEd1emY4bkR2bEdCMlUxNjNza1ZyM0Q4V1REWVdGcG1jUk1qSFFPRnFJQVlwbEdB?oc=5",
     "title": "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "nff8a2cfa",
     "category": "IT",
     "source": "네이트",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yRlFvd2xvWGwxZVVsazVORkFlbnN3ZzV3NEtWUV8xYnYxVU5lbDQwVGdMXzRiQmZ3ZVk1cVhDNlVNenNiNWd0WHlib2ZmRzBMMHNZ?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
@@ -61,6 +61,20 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
+    ]
+  },
+  {
+    "id": "n008e2f9b",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZlFXekZRMFRXSlJ5TmtScEI1VlhpLW5EbjVzclJTbGhrNTV6azMwOHpSOHEwNHlwWl9uZXBPTEI4bTNQeVdUaEUwZWxqc21JQVJ6T0ljMFdVQXFwbDZTWQ?oc=5",
+    "title": "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행",
+    "summary": [
+      "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -96,27 +110,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb9060fe2",
-    "category": "사회",
-    "source": "AI라이프경제",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44RWxBejhNRzl6QzlOYnZFOURDUzlCZWF1MWFXcEdNaTV0TjZGTUF1dHdiZUJVN0JYRWhrVVdEdDJWcDdYeVBMQmhlTEdDV1ZSdW11RGItdjc4bHhGdHo2YVk3YXMxUkxtczhBQk0wZw?oc=5",
-    "title": "[AI 정부정책] \"AI가 맞춤 일자리·인재 찾는다\"…노동부, 고용서비스 전면 디지털 전환 시동 |",
-    "summary": [
-      "[AI 정부정책] \"AI가 맞춤 일자리·인재 찾는다\"…노동부, 고용서비스 전면 디지털 전환 시동 | AI라이프경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n6b58f8f3",
+    "id": "ne2b1cf35",
     "category": "사회",
     "source": "아주경제",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTnSAVhBVV95cUxNb1drV0lkT2VwV2RXQlh6dXZLOTVuc0JxUGFRdW0wVlI0aWptSE5TdjV4Umd4YTVVNk1fTTNCeG1EZmxxcVpwMXdyNFVET1dfY3lEVWFBREE5?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
       "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
@@ -158,6 +156,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2aad78a4",
+    "category": "사회",
+    "source": "sports.donga.com",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
+    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
+    "summary": [
+      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 sports.donga.com."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
@@ -172,21 +185,6 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
-    ]
-  },
-  {
-    "id": "nf5a3ebaf",
-    "category": "스포츠",
-    "source": "starnewskorea.com",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95MjFXdGZVam85dVZhaEMyQW9sZXdCX3ZreHVZbjRNekpWZ2psU3NGYkVfNU5PSXhlUU1TbHpGUVJwVlNQcmt5a2tWTzNrb1RQYmRrdFNnS1hYbjdWeUtIT0J2aW0yaVZSVWptdmdPakFKMWZiTFE?oc=5",
-    "title": "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주... 2위는 KBO 정상급 타자 김도영",
-    "summary": [
-      "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주...",
-      "2위는 KBO 정상급 타자 김도영 starnewskorea.com."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -322,319 +320,318 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne723cfe3",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692229",
-    "title": "2035년 韓 곡물자급률 16%대 추락…식량안보 취약해져",
-    "summary": [
-      "[세종=뉴시스]박광온 기자 = 우리나라 곡물 자급률이 10년 후에는 19%대에서 16%대로 떨어질 것이라는 국제기구 전망이 나왔다.",
-      "쌀 생산을 중심으로 국내 곡물 생산 기반이 약해지는 가운데 농림수산물 무역적자도 160억 달러 규모로 이어질 것으로 예상되면서, 식량 수입 의존과 공급망 관리 부담이 커질 수 있다는 분석이다.",
-      "특히 국제 곡물 가격과 환율, 물류 차질 등 대외 변동성이 커지고 있는 상황에서 외부 변수에 대한 취약성이 더욱 커질 수."
-    ],
-    "chips": [
-      "#환율",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n2c3d2aa4",
+    "id": "n11126548",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692269",
-    "title": "종교인구 감소 시대…조계종, 포교사 제도 미래 모색",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026070207205778523",
+    "title": "'월 20만~25만원 숙식 지원'…경기도기숙사 입사생 모집",
     "summary": [
-      "[서울=뉴시스]이수지 기자 = 저출산과 고령화, 종교인구 감소 등 급변하는 사회환경 속에서 대한불교조계종이 미래 포교의 방향을 모색하는 논의의 장을 마련한다.",
-      "대한불교조계종이 오는 8일 서울 한국불교역사문화기념관 국제회의장에서 '포교사단 40년 성찰과 미래발전을 위한 토론회'를 개최한다.",
-      "이번 토론회는 지난 40년간 운영해 온 포교사 제도를 객관적으로 점검하고, 변화한 사회환경에 맞는 재가 포교의 역할과 비전을 재정립하기 위해 마련됐다."
+      "경기도가 대학생과 청년의 주거비 부담을 덜고 안정적인 생활환경을 지원하기 위해 오는 13일부터 20일까지 경기도기숙사 하반기 정기 입사생을 모집한다.",
+      "모집 정원은 대학생 1명(장애인)과 청년(15~39세) 12명이다.",
+      "다만 모집 기간 중 기존 입사생이 퇴사하면 선발인원이 늘어날 수 있다."
     ],
     "chips": [
+      "#채용",
+      "#교육",
       "#환경"
     ]
   },
   {
-    "id": "ne327416f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692183",
-    "title": "美, '중국 임상' 본격 견제…\"빅파마 5곳 실태조사\"",
-    "summary": [
-      "[서울=뉴시스]황재희 기자 = 미국 하원이 일라이 릴리 등 5개 빅파마를 상대로 중국 내 임상시험에 대한 실태조사에 착수했다.",
-      "미국의 첨단 바이오 기술의 유출을 막고, 국가 안보를 강화하기 위함이다.",
-      "2일 한국바이오협회 바이오경제연구센터 및 로이터통신 등 외신에 따르면, 존 물레나르 미국 하원 중국공산당특별위원회 위원장은 지난달 29일 머크, 애브비, 일라이 릴리, 화이자, 브리스톨마이어스스큅(BMS) 등 5개사에 서한을 보내 중국 임상시험 관."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n514017b0",
-    "category": "사회",
-    "source": "뉴시스",
+    "id": "neadb9619",
+    "category": "스포츠",
+    "source": "아시아경제",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260702_0003692495",
-    "title": "루프트한자, ITA등 유럽 항공사 4개월만에 이스라엘 재취항",
+    "url": "https://view.asiae.co.kr/article/2026070207234488044",
+    "title": "경기도서관 '무박2일' 여름방학 심야 독서캠프 연다",
     "summary": [
-      "[서울=뉴시스] 차미례 기자 = 유럽의 국제항공사 3개가 미-이스라엘과 이란의 전쟁으로 중단됐던 이스라엘 행 항공기 운항을 7월 1일 부터 재개했다고 이스라엘공항공사(IAA)와 해당 항공사들이 공식 발표했다.",
-      "독일의 루프트한자는 프랑크푸르트 공항과 이스라엘 텔 아비브 부근 벤 구리온 국제공항 사이의 항공기 운항을 매일 2편씩 계속한다고 밝혔다.",
-      "또한 뮌헨- 텔 아비브 노선도 8월 1일부터 재개하고, 이 역시 하루에 2편씩 운행하기로 했다고 발표."
+      "경기도서관이 이달 6일부터 17일까지 여름방학 심야 독서캠프 '잠들지 않는 경기도서관' 참가자 100명을 선착순 모집한다.",
+      "'잠들지 않는 경기도서관'은 이달 26일 오후 9시부터 27일 오전 7시까지 무박 2일 일정으로 진행된다.",
+      "도서관을 단순히 책을 읽는 공간이 아닌, 즐기고 머무는 복합문화공간으로 경험할 수 있도록 놀이와 공연, 몰입형 독서 프로그램을 제공한다."
     ],
     "chips": [
-      "#뉴스"
+      "#채용"
     ]
   },
   {
-    "id": "n4797f45e",
+    "id": "n3afcb29a",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003692492",
+    "title": "트럼프 행정부, USMCA 갱신 거부…\"美 무역적자 줄여야\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자, 이윤희 특파원 = 도널드 트럼프 미국 행정부가 1일(현지시간) '미국·멕시코·캐나다 협정(USMCA)'을 현행대로 갱신하지 않고 개정을 위한 장기 협상에 들어가겠다고 밝혔다.",
+      "제이미슨 그리어 미 무역대표부(USTR) 대표는 USMCA 발효 6년인 이날 성명에서 \"USMCA는 당사국 대표들로 구성된 USMCA 자유무역위원회가 2026년 7월1일 협정에 대한 공동 검토를 실시하도록 규정하고 있다\"며 \"3국은 협정에 따."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n350e52fd",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702009400055",
-    "title": "전북 흐리고 오후 한때 소나기…낮 기온 26∼30도",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701190300005",
+    "title": "비상계엄 다음날 아내를 잃었다…\"삶의 취약한 기반이 화두였죠\"",
     "summary": [
-      "(전주=연합뉴스) 나보배 기자 = 목요일인 2일 전북은 대체로 흐리겠다."
+      "(서울=연합뉴스) 박원희 기자 = 아침을 먹기 위해 앉은 남자 앞에 뜨끈한 미역국과 밥이 놓인다.",
+      "생일을 맞은 남자를 위해 아내가 차린 밥상이다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n366df66b",
+    "id": "n84b9bf06",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026070116582043568",
+    "title": "[클릭 e종목]\"삼전·닉스처럼 실적 뛰는데…밸류는 별로인 종목\"",
+    "summary": [
+      "흥국증권이 호텔신라의 목표주가를 8만원에서 6만5000원으로 내렸다.",
+      "투자의견은 매수를 유지했다.",
+      "2일 박종렬 흥국증권 연구원은 \"올해와 내년 수익예상치는 올라갈 것이지만 12개월 선행 주가수익비율(PER)은 14.7배, 주가순자산비율(PBR)은 1.6배 수준으로 밸류에이션 매력이 높지 않다\"며 \"향후 전향적인 주주환원 확대 의지 표명과 적극적인 기업가치 제고 노력을 병행할 필요가 있다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n71081bdf",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003692522",
+    "title": "멕시코 16강 진출에 140만 인파 모여들어…4명 사망 불상사",
+    "summary": [
+      "[서울=뉴시스]박지혁 기자 = 멕시코에서 2026 북중미 월드컵 16강 진출과 함께 140만 인파가 길거리 행사장으로 몰린 가운데 4명이 사망하는 안타까운 일이 발생했다.",
+      "2일(한국시간) AP통신에 따르면, 전날 멕시코의 수도 멕시코시티 도심에서 열린 멕시코의 16강 진출 축하 행사에서 4명이 숨진 것으로 확인됐다.",
+      "멕시코는 전날 에콰도르와 32강전에서 2-0으로 승리하며 16강 진출을 확정했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56f94f03",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692452",
+    "title": "한세대학교, 2026학년도 대학원 후기 신입생·편입생 모집",
+    "summary": [
+      "[군포=뉴시스] 박석희 기자 = 경기 군포시 한세대학교가 2026학년도 대학원 2차 후기 신입생과 편입생 모집을 실시한다.",
+      "원서 및 서류 접수는 오는 7월13일부터 30일까지 대학원 홈페이지 입학지원시스템을 통해 진행된다.",
+      "이번 모집에서 일반대학원은 박사과정 27명, 석사과정 28명 등 총 55명을 선발한다."
+    ],
+    "chips": [
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "ne7b6a363",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692443",
+    "title": "[인사] 한세대학교",
+    "summary": [
+      "[군포=뉴시스] 박석희 기자 = ◇대학본부 산하 ▲대외협력처 사회봉사센터장 송봉규(IT학부 융합보안전공) ◇부속기관 ▲평생교육원장 정지영(예술학부 음악전공) ◇학과장(전공주임) ▲인문사회학부 미디어커뮤니케이션전공주임 이인혜(인문사회학부 미디어커뮤니케이션전공), ▲인문사회학부 경영학전공주임 유혜영(인문사회학부 경영학전공) ▲인문사회학부 사회복지학전공주임 이영글(인문사회학부 사회복지학전공) ▲IT학부 융합보안전공주임 방제완(IT학부 융합보안전공)."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n112c00f7",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026063014162437092",
+    "title": "정은보 거래소 이사장 \"전세계 거래소 일부만 살아남아…글로벌 무한경쟁\" [코스피 1만시대]",
+    "summary": [
+      "정은보 한국거래소 이사장이 글로벌 무한경쟁 시대를 맞아 단순하게 증권거래만 중개하는 전통적인 개념의 거래소는 대부분 사라질 것이라고 경고했다.",
+      "발 빠른 디지털 혁신과 해외 투자자의 국내 자본시장 접근성 개선, 부실기업(좀비기업) 퇴출 등 글로벌 시대에서 살아남기 위해 한국거래소가 근본적인 개혁을 추진할 것이라고 강조했다.",
+      "발 빠른 디지털 혁신 통한 근본 개혁 추진해야 살아남을 수 있어정 이사장은 지난달 25일."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "n6633c160",
     "category": "사회",
     "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702008600087",
-    "title": "[베네수 강진 르포] 공항도 풍비박산…\"운행하는데 1년 이상 걸릴 듯\"",
+    "url": "https://www.yna.co.kr/view/AKR20260701116400065",
+    "title": "인천시, 불법 의심 생활형 숙박시설 1천807곳 실태조사",
     "summary": [
-      "(라과이라주·카라카스&lt;베네수엘라&gt;=연합뉴스) 송광호 특파원 = 베네수엘라로 들어오는 가장 큰 관문인 시몬 볼리바르 국제공항."
+      "(인천=연합뉴스) 홍현기 기자 = 인천에 대거 들어선 생활형 숙박시설의 불법 활용을 막기 위해 지방자치단체가 실태 조사에 나섰다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne33b233d",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/02/GE2GEYLGGEYDQMRQHAZTIYLFG4/",
-    "title": "뉴욕증시, 반도체주 매도세에 약세 마감",
-    "summary": [
-      "인공지능(AI) 관련 반도체 종목의 매도세가 이어지면서 뉴욕증시가 일제히 하락했다.",
-      "1일(현지시각) 뉴욕증시에서 다우존스30 산업평균지수는 전장보다 13.96포인트(-0.03%) 내린 5만2305.24에 거래를 마쳤다.",
-      "스탠더드앤드푸어스(S&P) 500 지수는 전장보다 16.13포인트(-0.22%) 내린 7483.23에, 기술주 중심의 나스닥 종합지수는."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n6bcd1be3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/02/G4ZTQYRRMVRTGZDFGUZTQM3DG4/",
-    "title": "임라라, 손민수 십자인대 파열에 쌍둥이 '독박육아'..\"울고 싶다\" 한탄 ('슈돌') [순간포착]",
-    "summary": [
-      "[OSEN=지민경 기자] 코미디언 임라라가 풋살을 하다가 십자인대가 파열된 손민수를 대신해 독박육아를 하게 됐다.1일 오후 방송된 KBS2 ‘슈퍼맨이 돌아왔다’에는 다리 부상을 당한 손민수와 독박육아를 하게 된 임라라의 모습이 담겼다.이날 손민수는 다리에 깁스를 한 채 목발을 짚고 등장해 눈길을 끌었다.",
-      "그는 \"육아하다가 갑자기 저녁에 너무 답답해서 풋살을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89db07c3",
+    "id": "nd34bf20f",
     "category": "사회",
     "source": "연합뉴스",
     "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702009300057",
-    "title": "부산·울산·경남 흐리고 경남내륙 소나기…최고 5∼20㎜",
+    "url": "https://www.yna.co.kr/view/AKR20260702013300072",
+    "title": "스위프트·켈시, 뉴욕 '비밀 결혼식' 임박…정황 잇따라 확인",
     "summary": [
-      "(울산=연합뉴스) 장지현 기자 = 목요일인 2일 부산·울산·경남은 대체로 흐리겠다."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 팝스타 테일러 스위프트(36)와 미국프로풋볼(NFL) 스타 트래비스 켈시(36)의 뉴욕 매디슨스퀘어가든..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n72ace12d",
+    "id": "nf06fd406",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702013000004",
+    "title": "김현기 강남구청장 취임…1호 결재는 '재건축 신화 프로젝트'",
+    "summary": [
+      "(서울=연합뉴스) 정준영 기자 = 서울 강남구는 김현기 구청장이 취임 첫날인 지난 1일 재건축·재개발 신속 추진 종합계획인 '강남 재건축 신속화..."
+    ],
+    "chips": [
+      "#재건축"
+    ]
+  },
+  {
+    "id": "nb5a2ad97",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702008300007",
-    "title": "[월드컵 전적] 잉글랜드 2-1 콩고민주공화국",
-    "summary": [
-      "[월드컵 전적] 잉글랜드 2-1 콩고민주공화국."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n178db884",
-    "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260702/134221249/1",
-    "title": "중소기업 남성 10명 중 8명 “육아휴직·근로시간 단축 사용 못해”",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260702/134221282/1",
+    "title": "‘케인 멀티골’ 잉글랜드, 콩고민주공화국에 2-1 진땀승",
     "summary": [
-      "중소기업의 남성 근로자 10명 중 8명은 육아휴직과 육아기 근로시간 단축을 사용한 적이 없는 것으로 나타났다.한국여성정책연구원은 2일 이 같은 내용을 담은 ‘이슈페이퍼:중소사업체 근로자의 일생활균형 실태와 정책방향’ 보고서를 발표했다.",
-      "‘육아휴직’은 8세 이하 또는 초등학교 2학년 이하 자녀를 둔 근로자가 최대 1년간 휴직할 수 있는 제도다.",
-      "다음달 20일부터는 육아휴직을 사용할 수 있는 최소 기간이 30일에서 1주일로 짧아진다.‘육아기 근로시."
-    ],
-    "chips": [
-      "#정책",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n2716c150",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701156600530",
-    "title": "노사 최저임금 줄다리기 계속…1만1천900원 vs 1만360원 좁힐까",
-    "summary": [
-      "(서울=연합뉴스) 한혜원 기자 = 내년도 최저임금을 얼마로 할지 노동계와 경영계가 2일 줄다리기를 이어간다."
+      "잉글랜드가 ‘에이스’ 해리 케인의 활약 속에 2026 국제축구연맹(FIFA) 북중미 월드컵 16강에 진출했다.잉글랜드는 2일(한국시간) 미국 애틀랜타 스타디움에서 열린 대회 32강전에서 콩고민주공화국에 2-1 역전승을 거뒀다.이날 잉글랜드는 전반 7분 만에 콩고민주공화국에 선제골을 내주며 끌려갔다.",
+      "브라이언 시펭가가 페널티 박스 안에서 오른발 슈팅으로 잉글랜드의 골망을 갈랐다.",
+      "기선제압을 당한 잉글랜드는 이후 공세를 펼쳤지만 콩고민주공화국 골키."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n02aaaaac",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701178600003",
-    "title": "정부, 외국인 과학 인재 '톱티어 비자' 문턱 낮춘다",
-    "summary": [
-      "(서울=연합뉴스) 신창용 기자 = 앞으로 해외 우수 인재 인정 기준이 넓어진다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ned76d30d",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701178500063",
-    "title": "세종시 시장실 3개 왜? \"기업유치 전까진 공식시장실 사용 안해\"",
-    "summary": [
-      "(세종=연합뉴스) 양영석 기자 = 조상호 세종시장이 취임과 함께 시청사 내 기존 집무실 외에 연서면 산업단지 인근과 시청 내 별도 공간에 집무실..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3d90d95d",
+    "id": "n5e6ed913",
     "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701185100002",
-    "title": "AI 보안테스트하다 전산장애…금융위 \"경미하면 제재 면책\"",
+    "source": "한경IT",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/202607019700g",
+    "title": "구글 맹추격에도 격차 벌린 네이버…'AI 검색' 전면 배치 \"통했다\"",
     "summary": [
-      "(서울=연합뉴스) 강류나 기자 = 금융당국이 금융회사의 인공지능(AI) 보안테스트 과정 등에서 발생한 전산 장애에 대해 제재를 일부 면책해준다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n325de952",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "30분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/02/LO4N3FIMJ5CV3PTL225UWKYBXQ/",
-    "title": "‘9200억 엑시트’ 박관호, 2년 전부터 매각 준비했나… 中 자본 먹잇감 된 위메이드",
-    "summary": [
-      "‘9200억 엑시트’ 박관호, 2년 전부터 매각 준비했나… 中 자본 먹잇감 된 위메이드."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc7d98f96",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "30분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/02/5IJPR6CQW5FB7O7BAY3ET6VPQ4/",
-    "title": "[비즈톡톡] 엔비디아와 손잡았지만… SK텔레콤 ‘15GW AI 팩토리’ 실현 가능성은",
-    "summary": [
-      "[비즈톡톡] 엔비디아와 손잡았지만… SK텔레콤 ‘15GW AI 팩토리’ 실현 가능성은."
+      "구글 맹추격에도 격차 벌린 네이버…'AI 검색' 전면 배치 \"통했다\"."
     ],
     "chips": [
       "#AI",
-      "#엔비디아"
+      "#네이버"
     ]
   },
   {
-    "id": "n8c27ff94",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260702/134219867/2",
-    "title": "‘유보통합 3법’ 국회서 발목… 예산 못 받은 다문화 학급 ‘번역기 수업’",
+    "id": "n01416312",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/2026070102631",
+    "title": "\"따봤자 백만원짜리 신분증\"…대학생들까지 등 돌리자 '비명'",
     "summary": [
-      "지난달 23일 충북의 한 국공립어린이집에서는 특수학급을 전담하는 교사가 체육 수업이 한창인 교실과 다른 교실을 바쁘게 오가고 있었다.",
-      "해당 교사는 체육 수업에 참여한 아이들을 책임지며 소리에 민감해 체육 수업을 받을 수 없는 장애아동을 함께 돌봐야 했다.",
-      "이 어린이집의 김향미 원장은 “유치원과 달리 어린이집은 특수학급 전담 교사 인건비가 전액 지원되지 않는다”며 “아이마다 교사를 배치하는 것은 엄두도 낼 수 없다”고 말했다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne7758888",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260702/134219865/2",
-    "title": "“선행 학습보다 놀이 먼저”… 교육부 ‘영유아 사교육 인식 개선’ 캠페인",
-    "summary": [
-      "“아이들이 조급함이 아닌 놀이와 경험 속에서 행복하게 자라게 해주세요.” 최교진 교육부 장관은 지난달 30일 ‘영유아 사교육 인식 개선’ 릴레이 챌린지의 첫 주자로 소셜네트워크서비스(SNS)에 이 같은 메시지를 올렸다.",
-      "교육부는 영유아기 과도한 사교육과 선행 학습에 대한 사회적 우려를 환기하기 위해 국민 참여형 영유아 사교육 인식 개선 캠페인에 나섰다.",
-      "최 장관이 시작한 릴레이 챌린지는 누구나 참여할 수 있다."
+      "\"따봤자 백만원짜리 신분증\"…대학생들까지 등 돌리자 '비명'."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n8c16c6cf",
+    "id": "n77c646d4",
     "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260702/134220443/2",
-    "title": "은희경이 응시한 ‘몸의 시간’",
+    "source": "한국경제",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/202606306579i",
+    "title": "일 못하는 근로자 해고하는 것도 '일'이다 [율촌의 노동법 라운지]",
     "summary": [
-      "영국 밴드 오아시스(Oasis)가 16년 만에 재결합해 한국을 찾았던 지난해 10월.",
-      "이는 소설가 은희경(67)에게도 마음 들뜨는 일이었다.",
-      "비록 공연장을 찾진 못했지만, 오랜 팬의 아쉬움은 7년 만에 내놓은 신작 장편소설 ‘시간의 감촉’(문학동네)에 녹아들었다.“전설적인 밴드의 내한 공연이라니, 감히 꿈도 꾸지 못했던 시절의 열렬한 팬으로서 놀랍고 반갑지만 그래도 자신에게 이명이 없을 때 왔어야 한다고 투덜댄다.” 지난달 30일 서울 종로구의."
+      "일 못하는 근로자 해고하는 것도 '일'이다 [율촌의 노동법 라운지]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na5c47a79",
-    "category": "IT",
-    "source": "테크M",
-    "time": "4시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153057",
-    "title": "엔씨 야심작 '신더시티' 본격 알리기 돌입...스팀 페이지 띄웠다",
+    "id": "n2d1968d0",
+    "category": "스포츠",
+    "source": "연합뉴스(경제)",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260625035100898",
+    "title": "[우분투칼럼] 2026 북중미 월드컵에서 소외된 아프리카",
     "summary": [
-      "엔씨가 자회사 빅파이어 게임즈에서 개발 중인 신작 '신더시티'의 스팀 페이지를 열었다고 1일 밝혔다.신더시티는 과거 'LLL' 프로젝트명으로 알려졌던 오픈월드 시네마틱 3인칭 슈터(TPS)다.",
-      "지난해 8월 독일 쾰른에서 열린 '게임스컴 2025'에서 선을 보였으며, 같은 해 11월 부산 벡스코에서 열린 '지스타 2025' 시연을 통해 이용자들을 만났다.신더시티는 파괴된 서울을 무대로 한 거대한 오픈월드와 다수의 이용자가 함께 협력하는 대규모 플."
+      "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다.",
+      "우분투 칼럼에는 인류 ..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ne2f0dc0d",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/202607010491i",
+    "title": "금값 계속 하락…미국 금리 인상 우려에 4000달러 붕괴",
+    "summary": [
+      "금값 계속 하락…미국 금리 인상 우려에 4000달러 붕괴."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nf932e349",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260701/134215921/2",
+    "title": "“건강검진은 정상인데 왜 늘 피곤할까”…뜻밖의 원인 [건강팩트체크]",
+    "summary": [
+      "건강검진 결과가 정상인데도 늘 피곤하다면 수면장애, 스트레스, 빈혈 등이 원인일 수 있다.",
+      "의사가 피로를 부르는 생활습관과 병원을 찾아야 하는 위험 신호를 설명했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd377740c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260702/134221260/2",
+    "title": "‘여고생 살해범’ 아버지가 경찰…리얼돌 등 증거 인멸했다",
+    "summary": [
+      "광주 도심에서 일면식도 없는 여고생을 살해한 장윤기(23)의 범행과 관련한 증거를 현직 경찰인 그의 아버지가 훼손·폐기한 정황이 확인됐다.",
+      "하지만 검찰은 형법상 ‘친족간 특례’를 들어 장윤기 아버지를 증거인멸 혐의로 형사 입건하지 않았다.",
+      "1일 광주지검에 따르면 성폭력범죄 처벌 등에 관한 특례법 위반(강간 등 살인·성폭행)·살인미수 등 혐의를 받는 장윤기가 기소되기 전 구속 상태로 수사를 받던 기간 중 주거지에 있던 성인용품(리얼돌) 다수와 휴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2e5a8028",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "41분 전",
+    "url": "https://www.hankyung.com/article/2026070206957",
+    "title": "탈중국 하려다 '날벼락'…애플, 인도서 아이폰18 실물 유출",
+    "summary": [
+      "탈중국 하려다 '날벼락'…애플, 인도서 아이폰18 실물 유출."
     ],
     "chips": [
       "#뉴스"
@@ -647,18 +644,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "채용",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
