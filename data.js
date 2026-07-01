@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-01 15:53:28
+// 마지막 업데이트: 2026-07-01 16:46:01
 window.NEWS_DB = [
   {
     "id": "nb902b743",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSXBlaG94UU9lWll0VlAxTWFQcXprS2VrTk5NZ3dtYlpTdHlPbGg3YUI0QXlQdkNxRGxqOUVVdm9IRzJ1Q1ZiUkdPSXVBY29jRDVlNVZXQTRhTDRvdlNISjk4TkN3UjhGencxQ0xBWXVwSEE?oc=5",
     "title": "엔비디아 새 AI 반도체로 '제2의 전성기' 기회, 삼성전자 SK하이닉스 HBM4 역할 커져",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nf25b1254",
     "category": "스포츠",
     "source": "네이트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVkpyTjRTUlhVSzZudDRPbDZKb045QkNUclpPSHM3NGZRcm5oemZVVzJiUDdzdWNkR0VYM2lPM2NwMlpaTmNwa2pIYndSV3k4cnViR2Z4RUFlYnFaV1dHNw?oc=5",
     "title": "프로야구 신인 드래프트 지명 참가 신청 접수…8월 22일 마감",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n1f9ed23e",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4LWhfdGg4T3VaNUxZdEljNU5zXzFIdWRpQnJTQmxpZEd1emY4bkR2bEdCMlUxNjNza1ZyM0Q4V1REWVdGcG1jUk1qSFFPRnFJQVlwbEdB?oc=5",
     "title": "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다",
     "summary": [
@@ -96,22 +96,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb9060fe2",
-    "category": "사회",
-    "source": "AI라이프경제",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44RWxBejhNRzl6QzlOYnZFOURDUzlCZWF1MWFXcEdNaTV0TjZGTUF1dHdiZUJVN0JYRWhrVVdEdDJWcDdYeVBMQmhlTEdDV1ZSdW11RGItdjc4bHhGdHo2YVk3YXMxUkxtczhBQk0wZw?oc=5",
-    "title": "[AI 정부정책] \"AI가 맞춤 일자리·인재 찾는다\"…노동부, 고용서비스 전면 디지털 전환 시동 |",
-    "summary": [
-      "[AI 정부정책] \"AI가 맞춤 일자리·인재 찾는다\"…노동부, 고용서비스 전면 디지털 전환 시동 | AI라이프경제."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#고용"
-    ]
-  },
-  {
     "id": "n6b58f8f3",
     "category": "사회",
     "source": "아주경제",
@@ -124,6 +108,21 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "na9c15208",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
+    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
+    "summary": [
+      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
+    ],
+    "chips": [
+      "#AI",
       "#고용"
     ]
   },
@@ -262,17 +261,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n71a254ee",
+    "id": "n32bf68e2",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
-    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+    "source": "v.daum.net",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
     "summary": [
-      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
     ],
     "chips": [
-      "#부동산",
       "#금리",
       "#환율"
     ]
@@ -338,10 +336,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nff569038",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/02/MI3TEM3GMZSGMYLFGIZDKMZRMU/",
+    "title": "[오피셜]'하이재킹 성공' 첼시 알론소 감독 '1호 영입' 확정, 인터밀란 향하던 이탈리아 국대 영건 풀백 펠레스트라와 6년 계약..'아탈란타에 이적료 총 6000만유로 지불'",
+    "summary": [
+      "[스포츠조선 노주환 기자]EPL 첼시의 이번 여름 이적 시장 1호 영입은 수비수다.",
+      "이탈리아 출신 젊은 풀백 마르코 팔레스타라다.",
+      "첼시는 1일(한국시각) 공식 채널을 통해 '아탈란타로부터 마르코 팔레스트라 영입을 확정했다'고 발표했다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "nb029e62d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702000900099",
+    "title": "\"불법 이민자 나가라\" 남아공 곳곳 시위…900여명 체포",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 남아프리카공화국의 반(反)이민단체들이 '불법 이민자 출국 최후통첩' 시한으로 정한 지난달 30일(현지..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n3e9ad7d5",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "18분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153052",
     "title": "[中 안긴 위메이드] 최대주주 교체 후폭풍...계열사·위믹스 향방은",
     "summary": [
@@ -354,10 +382,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n45aa9aa0",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003692471",
+    "title": "워시 연준 의장 \"물가 너무 높아…안정 달성할 것\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 케빈 워시 미국 중앙은행인 연방준비제도(Fed·연준) 의장은 1일(현지 시간) 인플레이션 위험은 낮아졌으나 물가가 높다고 평가하며, 물가 안정을 달성하겠다고 밝혔다.",
+      "AP통신, 야후파이낸스 등에 따르면 그는 이날 유럽중앙은행(ECB) 주최로 포르투갈 신트라에서 열린 중앙은행 포럼에 참석해 최근 4개월 동안 인플레이션 기대와 함께 인플레이션 위험도 낮아졌다고 말했다.",
+      "하지만 \"우리는 모두 주변을 둘러봤고, 물가가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n42250069",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701167252079",
+    "title": "美·이란 협상단, 도하서 간접 회담…동결자산·호르무즈 논의(종합2보)",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란의 종전 협상 실무대표단이 1일(현지시간) 카타르 도하에서 간접 회담을 했다고 AFP, 로이터 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n32c8a186",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "27분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153056",
     "title": "위메이드맥스, 中 시장 전략 본격화 기대감...손면석 대표 \"신작 개발 '이상 무'\"",
     "summary": [
@@ -372,7 +430,7 @@ window.NEWS_DB = [
     "id": "n38f99ebd",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "29분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153055",
     "title": "[인사] 신한은행",
     "summary": [
@@ -383,56 +441,147 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2e5c5b87",
+    "id": "n7f15e9d4",
     "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/07/02/WOETI53XVVGKNISZL47ADVUWEA/",
-    "title": "사관학교 통합 속도전… 現 고2 입시부터 검토",
+    "source": "뉴시스",
+    "time": "42분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003690643",
+    "title": "\"양육비 안 받겠다더니\"…이혼 9년 뒤 날아온 수천만원 청구서",
     "summary": [
-      "사관학교 통합 속도전… 現 고2 입시부터 검토."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n6cbfca01",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/07/02/ED7OJJNUSVFQROOML4PHZH35AM/",
-    "title": "윤호중 행안 “투표지 부족, 언론 보도로 알아”",
-    "summary": [
-      "윤호중 행안 “투표지 부족, 언론 보도로 알아”."
+      "[서울=뉴시스]박윤서 인턴 기자 = 협의이혼 당시 양육비 전액을 남편이 부담하기로 했는데, 9년이 지나 남편으로부터 '양육비 전액을 청구한다'는 소장을 받았다는 여성의 사연이 전해졌다.",
+      "1일 YTN 라디오 '조인섭 변호사의 상담소'에는 이같은 사연이 전해졌다.",
+      "중환자실에서 일하는 간호사 A씨는 9년 전 남편의 사업 실패로 빚더미에 안고 협의이혼을 진행했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6b3926ad",
+    "id": "n81b93f9b",
     "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/07/02/ZIS5GULUA5FOZPQZDEGUNSSZ3U/",
-    "title": "이번엔 필리버스터 무력화… 더 거세진 與 입법 독주",
+    "source": "뉴시스",
+    "time": "43분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003691965",
+    "title": "\"우산 한 번 찔렀을 뿐인데\"…中 세계 최대 유리 다리 '쩍' 갈라졌다",
     "summary": [
-      "이번엔 필리버스터 무력화… 더 거세진 與 입법 독주."
+      "[서울=뉴시스]허준희 인턴 기자 = 중국 중부의 유명 관광지에서 유리 바닥 패널이 외부 충격으로 파손되는 아찔한 사고가 발생했다.",
+      "지난달 29일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면, 허난성에 위치한 바오취안 절벽 관광지에서 한 소년이 들고 있던 우산으로 유리 바닥을 찌르는 사건이 벌어졌다.",
+      "이 충격으로 바닥 패널 일부에 금이 갔고, 현장에 있던 직원들은 즉시 관광객들을 대피시키며 긴급 조치에 나섰다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb06d3bbf",
+    "id": "n9599c13d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "44분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692033",
+    "title": "\"열나고 옆구리가 아파요\"…여름철 '이 질환' 주의",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 고온다습한 여름철에는 식중독, 장염, 피부질환, 온열질환 등에 대한 경각심은 높지만, 신우신염에 대한 인지도는 상대적으로 낮은 편이다.",
+      "그러나 신우신염 역시 여름철에 환자 수가 뚜렷하게 증가하는 질환으로 주의가 요구된다.",
+      "2일 건강보험심사평가원 통계에 따르면 신우신염 환자 수는 계절적 변동 양상을 보였다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n84153f08",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/202607020612i",
+    "title": "\"메타,남는 컴퓨팅 파워로 클라우드사업진출\"…주가 급등",
+    "summary": [
+      "\"메타,남는 컴퓨팅 파워로 클라우드사업진출\"…주가 급등."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n842bc66a",
     "category": "사회",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/07/02/TXSCCWSCR5CNHKOO7DULE55MSM/",
-    "title": "일본 전설들은 큰 물로, 한국 전설들은 예능으로",
+    "time": "48분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/07/02/FIWBWYP2VFFMTEFDQ5SR7IIZWQ/",
+    "title": "가정폭력 피해자 90%가 방치돼 있다",
     "summary": [
-      "일본 전설들은 큰 물로, 한국 전설들은 예능으로."
+      "가정폭력 피해자 90%가 방치돼 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e10f4d7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "49분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702001300071",
+    "title": "美하원 법사위 \"한국, 美기업 차별적 공격…쿠팡 계속 표적\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 한국 정부가 쿠팡을 비롯한 미국 기업을 차별적으로 대우하고 있다고 주장하는 미국 연방 의회 보고서가 1일(..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n03a2f564",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "51분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260702/134221081/1",
+    "title": "그랜섬 “미국 주식 보유 말라”…최대 70% 하락 가능성 경고",
+    "summary": [
+      "미국 증시가 역사상 최대 규모의 버블 국면에 진입했다는 경고가 나왔다.30일(현지시간) 미국 매체 머니와이즈에 따르면 월가의 대표적 비관론자로 꼽히는 제레미 그랜섬 글로벌 투자운용사 GMO 공동 창업자는 최근 팟캐스트 ‘더 다이어리 오브 어 CEO’에 출연해 이같이 밝혔다.그랜섬은 인공지능(AI) 기대감으로 상승한 미국 증시가 과열 국면에 들어섰다고 평가하며, “미국 역사상 가장 큰 투자 버블”이라고 말했다.",
+      "특히 최근 5년간 S&P500이 7."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n2524336c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "52분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260702/134221079/1",
+    "title": "美中 외교수장 통화…왕이 “대만 사안 더욱 신중 기해야”",
+    "summary": [
+      "왕이 중국 외교부장이 마코 루비오 미국 국무장관에게 미국이 대만 사안을 더욱 신중히 다뤄야 한다고 촉구했다.1일 신화통신에 따르면 왕 부장은 전날 루비오 장관과 전화 통화를 가졌다.왕 부장은 올해 5월 베이징에서 시진핑 중국 국가주석과 도널드 트럼프 미국 대통령이 전략적 안정에 기반한 건설적인 양국 관계 구축을 포함한 일련의 공동 합의를 도출했다며 “향후 3년 이상의 양국 관계 발전을 위한 전략적 지침과 방향을 제시한 것”이라고 말했다.이어 양."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf7b3a4aa",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "59분 전",
+    "url": "https://www.hankyung.com/article/202607020610i",
+    "title": "엔화 '날개없는 추락'…일본 개입해도 안된다? [김현석의 퀵브리프]",
+    "summary": [
+      "엔화 '날개없는 추락'…일본 개입해도 안된다? [김현석의 퀵브리프]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb19afc18",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/medical/2026/07/02/DAGR4KBZY5DRXAL3XGYBXZIRV4/",
+    "title": "‘다리가 저릿’ 하지불안증후군… 근육량 적으면 발생 위험 2.7배",
+    "summary": [
+      "‘다리가 저릿’ 하지불안증후군… 근육량 적으면 발생 위험 2.7배."
     ],
     "chips": [
       "#뉴스"
@@ -442,7 +591,7 @@ window.NEWS_DB = [
     "id": "nbfd6cd27",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260701201200109",
     "title": "그리스 산불 확산…북부 지역서 2명 사망",
     "summary": [
@@ -453,76 +602,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nca45be9a",
+    "id": "nc45e1239",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/02/2026070200163596761",
-    "title": "美 6월 민간고용 9만8000명 증가…예상치 밑돌아",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/nie/2026/07/02/BDAKN4TVYRFXXMA2Y2QP2I5PNM/",
+    "title": "[신문은 선생님] [뉴스 속의 한국사] 일제강점기 조선인들 ‘인조 석유’ 생산에 동원됐죠",
     "summary": [
-      "미국의 6월 민간 부문 고용 증가폭이 시장 전망을 밑돌면서 경기 둔화 흐름을 이어갔다.",
-      "미 고용정보업체 오토매틱데이터프로세싱(ADP)은 미국의 6월 민간기업 고용이 전달 대비 9만8000명 증가했다고 1일(현지시간) 밝혔다.",
-      "지난 5월 고용 증가폭(12만2천명)보다 2만명 이상 줄어든 수준으로 다우존스가 집계한 전문가 전망치(11만명)에도 미치지 못했다."
-    ],
-    "chips": [
-      "#고용",
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n78cd0ad7",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692089",
-    "title": "그랜섬 \"미국 주식 보유 말라”…최대 70% 하락 가능성 경고",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 미국 증시가 역사상 최대 규모의 버블 국면에 진입했다는 경고가 나왔다.",
-      "30일(현지시간) 미국 매체 머니와이즈에 따르면 월가의 대표적 비관론자로 꼽히는 제레미 그랜섬 글로벌 투자운용사 GMO 공동 창업자는 최근 팟캐스트 '더 다이어리 오브 어 CEO'에 출연해 이같이 밝혔다.",
-      "그랜섬은 인공지능(AI) 기대감으로 상승한 미국 증시가 과열 국면에 들어섰다고 평가하며, \"미국 역사상 가장 큰 투자 버블\"이라고 말했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n17dad7c2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702000800071",
-    "title": "116일 행방불명 후 우울증 고백…美하원의원에 갑론을박",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미국에서 공화당 연방 하원의원이 100일 넘게 사라졌다 돌아와 우울증 진단을 고백하면서 갑론을박이 이어지고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3d213185",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702000300082",
-    "title": "유럽 인플레 둔화…6월 물가 2.8％↑, 시장 예상 밑돌아",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 국제유가가 안정되면서 유럽 물가 상승세가 다소 둔화한 것으로 나타났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na31ac16c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701200300071",
-    "title": "美, 미국체류 쿠바인 일가족 3명 체포…\"위장단체서 활동\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 조준형 특파원 = 미국 트럼프 행정부는 쿠바 공산당 정권을 위해 미국에서 체제 전복을 도모하는 활동을 벌인 혐의로 미국 내 ..."
+      "[신문은 선생님] [뉴스 속의 한국사] 일제강점기 조선인들 ‘인조 석유’ 생산에 동원됐죠."
     ],
     "chips": [
       "#뉴스"
@@ -532,7 +619,7 @@ window.NEWS_DB = [
     "id": "n3bfb7d51",
     "category": "IT",
     "source": "동아일보",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260701/134219461/2",
     "title": "삼성전자 8세대 폴더블, AI시대 새 라인업 예고",
     "summary": [
@@ -544,101 +631,6 @@ window.NEWS_DB = [
       "#AI",
       "#삼성전자"
     ]
-  },
-  {
-    "id": "n01d8d36e",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260701/134219479/2",
-    "title": "‘젊은 부자’ 인플레… PB센터 문턱 높이는 금융사",
-    "summary": [
-      "‘자산이 3억 원이시면 전문 PB센터가 아닌 일선 영업점을 방문하셔야 합니다.’ 금융사들이 자산가를 대상으로 특화 서비스를 제공하는 프라이빗뱅킹(PB)의 문턱을 높이고 있다.",
-      "주식시장 호황과 반도체 성과급에 힘입은 ‘젊은 부자’들이 늘어나면서 고액 자산가의 개념을 재설정하고 있는 셈이다.",
-      "금융사들은 PB 서비스를 받을 자격을 높이고 등급을 세분화해 최고급 서비스를 제공하는 등 서비스 차별화에 공을 들이고 있다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nead11bcb",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260701/134219476/2",
-    "title": "보이스피싱 구제 신청, 은행 안가고 앱으로도 가능해져",
-    "summary": [
-      "앞으로는 보이스피싱 피해자가 은행 영업점 등을 직접 방문하지 않고 모바일 앱으로도 피해 구제 신청 서류를 제출할 수 있다.",
-      "저축은행으로 돈을 보내면 이체 기록에 은행명이 명확히 나타나도록 표기 방식도 바꾸기로 했다.",
-      "금융감독원은 1일 보이스피싱 피해자가 비대면으로 피해 구제를 신청하고 범죄 의심 계좌를 더 효율적으로 확인할 수 있도록 금융권 업무 체계를 개편한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ec3dc05",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260701/134219383/2",
-    "title": "규제 피한 안양 만안-남양주도 집값 들썩… 풍선효과 우려",
-    "summary": [
-      "지난해 10·15 부동산대책 이후 경기권 비(非)규제지역 18곳에서 지난해 11월부터 올해 5월까지 6개월간 15조 원이 넘는 돈이 주택 매입에 사용된 것으로 나타났다.",
-      "이는 전년 같은 기간 대비 2배 이상 늘어난 것으로, 규제에 따른 ‘풍선효과’라는 해석이 나온다.",
-      "경기 화성시 동탄구, 용인시 기흥구, 구리시가 신규 규제지역으로 지정되면서 인접 지역으로의 풍선효과를 낳을 수 있다는 우려가 제기된다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nd0819d46",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003691379",
-    "title": "\"과거 투자 공식 안 통한다\"…고환율 뉴노멀 시대 투자 전략 바꿔야",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 신우진 인턴기자 = 글로벌 거시경제 기준이 바뀌는 ‘뉴노멀’ 시대에 들어서면서, 과거 투자 공식에만 의존하기보다 통화를 분산하고 실물자산 비중을 늘리는 방식으로 포트폴리오를 재편해야 한다는 제언이 나왔다.",
-      "최근의 고환율 현상도 과거 금융위기 때처럼 단순한 자본 유출이 아니라는 점에서, 막연한 불안보다 분산 투자 전략이 중요하다는 분석이다.",
-      "오건영 신한은행 프리미어 패스파인더 단장은 지난달 29일 구독자 392만 명."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n4424034c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "32분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692457",
-    "title": "이탈리아 \"호르무즈 기뢰 제거에 두달 필요\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 호르무즈 해협에 설치된 지뢰를 제거하는 데 최소 2개월이 걸릴 것이라는 관측이 이탈리아 측에서 나왔다.",
-      "1일(현지 시간) 현지 안사(ANSA) 통신 등에 따르면 이탈리아 합동작전사령부 조만니 마리아 얀누치 사령관은 이날 상·하원 외교·국방위원회에서 \"추산에 따르면 호르무즈 해협에는 수십 기의 기뢰가 있으며, 이를 제거하는 데 약 두 달이 필요하다\"고 밝혔다.",
-      "그는 그러면서 \"이들 기뢰는 정교하고 첨단 기술이 적용."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2692bb4e",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "37분 전",
-    "url": "https://www.hankyung.com/article/202607010593i",
-    "title": "워시,\"물가안정\"강조속 \"가격위험 하락\" 언급…매파 입장 완화 조짐?",
-    "summary": [
-      "워시,\"물가안정\"강조속 \"가격위험 하락\" 언급…매파 입장 완화 조짐?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -647,8 +639,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
