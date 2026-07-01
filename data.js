@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-01 20:32:59
+// 마지막 업데이트: 2026-07-01 21:30:48
 window.NEWS_DB = [
   {
     "id": "nb902b743",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSXBlaG94UU9lWll0VlAxTWFQcXprS2VrTk5NZ3dtYlpTdHlPbGg3YUI0QXlQdkNxRGxqOUVVdm9IRzJ1Q1ZiUkdPSXVBY29jRDVlNVZXQTRhTDRvdlNISjk4TkN3UjhGencxQ0xBWXVwSEE?oc=5",
     "title": "엔비디아 새 AI 반도체로 '제2의 전성기' 기회, 삼성전자 SK하이닉스 HBM4 역할 커져",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nf25b1254",
     "category": "스포츠",
     "source": "네이트",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVkpyTjRTUlhVSzZudDRPbDZKb045QkNUclpPSHM3NGZRcm5oemZVVzJiUDdzdWNkR0VYM2lPM2NwMlpaTmNwa2pIYndSV3k4cnViR2Z4RUFlYnFaV1dHNw?oc=5",
     "title": "프로야구 신인 드래프트 지명 참가 신청 접수…8월 22일 마감",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n1f9ed23e",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4LWhfdGg4T3VaNUxZdEljNU5zXzFIdWRpQnJTQmxpZEd1emY4bkR2bEdCMlUxNjNza1ZyM0Q4V1REWVdGcG1jUk1qSFFPRnFJQVlwbEdB?oc=5",
     "title": "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "nff8a2cfa",
     "category": "IT",
     "source": "네이트",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yRlFvd2xvWGwxZVVsazVORkFlbnN3ZzV3NEtWUV8xYnYxVU5lbDQwVGdMXzRiQmZ3ZVk1cVhDNlVNenNiNWd0WHlib2ZmRzBMMHNZ?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
@@ -131,7 +131,7 @@ window.NEWS_DB = [
     "id": "nca9f8a56",
     "category": "IT",
     "source": "블로터",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTHFqUi10aUtEV0JBeU5VOUwyR0lBb29kUWN1MGdQWEhWTzZ3TkcyUUNOOGFWcHZrUmd2cHNZV3hoX0F1Y3hqSW1kVC1Lb2Ryd2lmQjNEa2F4TXNNR1lmTzRnMnA3dnBh0gFsQVVfeXFMUGhWX0FKTTlHSFh0TXNvenE2YkVlaGNBNVlnTURGaXJfRTgzUlFRSFhXWkpLaTJBWVo1SXJJNEZxc1BobUhzX05XbGh4bEc2VDdYUC1jZmxocnQwRHJjRllhdm1Bb291LVhDV0pu?oc=5",
     "title": "[박종면칼럼] 삼성전자 ‘글로벌 시총 1위’를 위하여",
     "summary": [
@@ -161,7 +161,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "5일 전",
+    "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -322,131 +322,109 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n98c93d80",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692340",
-    "title": "[오늘의 주요일정]국토교통부(7월02일 목요일)",
-    "summary": [
-      "[서울=뉴시스] 홍찬선 기자 = ◇장관 ▲09:30 국무총리 취임식(세종) ◇1차관 ▲별도일정 없음 ◇2차관 ▲09:30 국무총리 취임식(세종) ▲13:00 크루즈 감속유도 현장시연(천안, 비공개) ◇대도시권광역교통위원장 ▲09:30 국무총리 취임식(세종) ▲15:00 인천계양지구 현장점검(인천, 비공개) ◎공감언론 뉴시스 mania@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79747f72",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692250",
-    "title": "지하철 등 리튬배터리·PM 반입 제한 첫날…\"안전 공감, 실효성 의문\"",
-    "summary": [
-      "[서울=뉴시스]이태성 기자, 엄선웅 인턴기자 = 서울 지하철과 KTX, 무궁화호 등 철도에서 대용량 리튬배터리와 개인형 이동장치(PM) 반입 제한이 시행된 첫날인 지난 1일, 현장에서는 제도를 모르는 시민이 대부분이었다.",
-      "시민들은 안전을 위한 취지에는 공감하면서도 실효성에는 의문을 제기했다.",
-      "이날 오전 서울 중구 동대문역사문화공원역은 평소와 다름없이 이용객들로 분주한 모습이었다."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n276c3e12",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692237",
-    "title": "[오늘의 주요일정]해양수산부(7월2일 목요일)",
-    "summary": [
-      "[서울=뉴시스]정진형 기자 = ◇장관 ▲통상일정 ◇차관 ▲통상일정 ◎공감언론 뉴시스 formation@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n50e8fe57",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003691703",
-    "title": "점포 줄이고 인력 슬림화…오프라인 유통업계, 생존 위한 '효율 경영'",
-    "summary": [
-      "[서울=뉴시스]동효정 기자 = 오프라인 유통업계가 소비 침체와 온라인 중심의 시장 재편에 대응해 사업 효율화에 속도를 내면서 인력 운영 방식에도 변화가 나타나고 있다.",
-      "유통산업 규제와 디지털 전환, 인공지능(AI) 기술 확산 등이 맞물리면서 과거처럼 인력을 늘려 성장하기보다 생산성과 전문성을 높이는 방향으로 무게 중심이 옮겨가는 모습이다.",
-      "2일 유통업계와 각 사 지속가능경영 보고서에 따르면 이마트의 정규직 수는 2023년 2만2485명에서 20."
-    ],
-    "chips": [
-      "#AI",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n32221157",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/07/02/4KPLYYZOLNCWBA6BWULR5MVW6Y/",
-    "title": "‘밀가루 0%’ 어육·두부로 속 채운 조봉창 명인 어육바, 1개 650원 초특가 공구",
-    "summary": [
-      "‘밀가루 0%’ 어육·두부로 속 채운 조봉창 명인 어육바, 1개 650원 초특가 공구."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n231b8de2",
+    "id": "ne723cfe3",
     "category": "경제",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/economy/money/2026/07/02/NFEZ4NKVQJCIDICELPT4MQFSPY/",
-    "title": "수퍼개미 남석관 “코스피 1만 가능, 다만 삼성전자 말고 이것 사라”",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692229",
+    "title": "2035년 韓 곡물자급률 16%대 추락…식량안보 취약해져",
     "summary": [
-      "수퍼개미 남석관 “코스피 1만 가능, 다만 삼성전자 말고 이것 사라”."
+      "[세종=뉴시스]박광온 기자 = 우리나라 곡물 자급률이 10년 후에는 19%대에서 16%대로 떨어질 것이라는 국제기구 전망이 나왔다.",
+      "쌀 생산을 중심으로 국내 곡물 생산 기반이 약해지는 가운데 농림수산물 무역적자도 160억 달러 규모로 이어질 것으로 예상되면서, 식량 수입 의존과 공급망 관리 부담이 커질 수 있다는 분석이다.",
+      "특히 국제 곡물 가격과 환율, 물류 차질 등 대외 변동성이 커지고 있는 상황에서 외부 변수에 대한 취약성이 더욱 커질 수."
     ],
     "chips": [
-      "#삼성전자"
+      "#환율",
+      "#수출"
     ]
   },
   {
-    "id": "neacdff20",
+    "id": "n2c3d2aa4",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/02/HFRDSZTFMI2DAMBYMY3GCZRXMY/",
-    "title": "DNA의 힘…손태영, 美 길거리서 찍은 '키 182cm' 권상우♥ 똑닮은 아들 깜짝 공개",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692269",
+    "title": "종교인구 감소 시대…조계종, 포교사 제도 미래 모색",
     "summary": [
-      "[OSEN=박근희 기자] 배우 손태영이 미국에서의 평화로운 일상을 공유한 가운데, 아빠 권상우를 쏙 빼닮은 아들의 폭풍 성장 근황을 공개했다.2일 손태영은 자신의 SNS 채널을 통해 미국에서 보내고 있는 다채로운 일상생활이 담긴 여러 장의 사진을 게재했다.공개된 사진 속 손태영은 이국적이면서도 평화로운 분위기가 물씬 풍기는 미국을 배경으로 여유로운 시간을."
+      "[서울=뉴시스]이수지 기자 = 저출산과 고령화, 종교인구 감소 등 급변하는 사회환경 속에서 대한불교조계종이 미래 포교의 방향을 모색하는 논의의 장을 마련한다.",
+      "대한불교조계종이 오는 8일 서울 한국불교역사문화기념관 국제회의장에서 '포교사단 40년 성찰과 미래발전을 위한 토론회'를 개최한다.",
+      "이번 토론회는 지난 40년간 운영해 온 포교사 제도를 객관적으로 점검하고, 변화한 사회환경에 맞는 재가 포교의 역할과 비전을 재정립하기 위해 마련됐다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "ne327416f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692183",
+    "title": "美, '중국 임상' 본격 견제…\"빅파마 5곳 실태조사\"",
+    "summary": [
+      "[서울=뉴시스]황재희 기자 = 미국 하원이 일라이 릴리 등 5개 빅파마를 상대로 중국 내 임상시험에 대한 실태조사에 착수했다.",
+      "미국의 첨단 바이오 기술의 유출을 막고, 국가 안보를 강화하기 위함이다.",
+      "2일 한국바이오협회 바이오경제연구센터 및 로이터통신 등 외신에 따르면, 존 물레나르 미국 하원 중국공산당특별위원회 위원장은 지난달 29일 머크, 애브비, 일라이 릴리, 화이자, 브리스톨마이어스스큅(BMS) 등 5개사에 서한을 보내 중국 임상시험 관."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd33b4755",
+    "id": "n514017b0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003692495",
+    "title": "루프트한자, ITA등 유럽 항공사 4개월만에 이스라엘 재취항",
+    "summary": [
+      "[서울=뉴시스] 차미례 기자 = 유럽의 국제항공사 3개가 미-이스라엘과 이란의 전쟁으로 중단됐던 이스라엘 행 항공기 운항을 7월 1일 부터 재개했다고 이스라엘공항공사(IAA)와 해당 항공사들이 공식 발표했다.",
+      "독일의 루프트한자는 프랑크푸르트 공항과 이스라엘 텔 아비브 부근 벤 구리온 국제공항 사이의 항공기 운항을 매일 2편씩 계속한다고 밝혔다.",
+      "또한 뮌헨- 텔 아비브 노선도 8월 1일부터 재개하고, 이 역시 하루에 2편씩 운행하기로 했다고 발표."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4797f45e",
     "category": "사회",
     "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702005700034",
-    "title": "서해선 오늘 첫 열차부터 정상운행…\"전기 복구 완료\"",
+    "url": "https://www.yna.co.kr/view/AKR20260702009400055",
+    "title": "전북 흐리고 오후 한때 소나기…낮 기온 26∼30도",
     "summary": [
-      "(서울=연합뉴스) 김문성 기자 = 전기 공급 장애로 차질을 빚은 서해선의 열차 운행이 2일 첫차부터 정상화된다."
+      "(전주=연합뉴스) 나보배 기자 = 목요일인 2일 전북은 대체로 흐리겠다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n91806617",
-    "category": "IT",
+    "id": "n366df66b",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702005500072",
-    "title": "뉴욕증시, 반도체주 매도에 약세 마감…마이크론 10% 급락",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702008600087",
+    "title": "[베네수 강진 르포] 공항도 풍비박산…\"운행하는데 1년 이상 걸릴 듯\"",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 인공지능(AI) 관련 반도체 종목의 매도세가 이어지면서 1일(현지시간) 뉴욕증시가 약세로 마감했다."
+      "(라과이라주·카라카스&lt;베네수엘라&gt;=연합뉴스) 송광호 특파원 = 베네수엘라로 들어오는 가장 큰 관문인 시몬 볼리바르 국제공항."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne33b233d",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/02/GE2GEYLGGEYDQMRQHAZTIYLFG4/",
+    "title": "뉴욕증시, 반도체주 매도세에 약세 마감",
+    "summary": [
+      "인공지능(AI) 관련 반도체 종목의 매도세가 이어지면서 뉴욕증시가 일제히 하락했다.",
+      "1일(현지시각) 뉴욕증시에서 다우존스30 산업평균지수는 전장보다 13.96포인트(-0.03%) 내린 5만2305.24에 거래를 마쳤다.",
+      "스탠더드앤드푸어스(S&P) 500 지수는 전장보다 16.13포인트(-0.22%) 내린 7483.23에, 기술주 중심의 나스닥 종합지수는."
     ],
     "chips": [
       "#AI",
@@ -454,87 +432,155 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n805f94b8",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026070205100540574",
-    "title": "[속보]뉴욕증시, 반도체 부진에 일제히 하락 마감",
-    "summary": [
-      "1일(현지시간) 미국의 3대 지수는 하락세로 마감했다.",
-      "다우존스 지수는 장중 사상 최고치를 경신한 후 내림세로 전환했다.",
-      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 0.03% 내리며 마감했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n63036624",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026070205070736358",
-    "title": "트럼프, 건국 250주년 앞두고 경제성과와 협상 낙관론 강조",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 독립기념일을 앞두고 국내 경제 성과와 이란 협상 진전을 동시에 부각했다.",
-      "반도체 기업 마이크론의 '트럼프 저축계좌' 기여를 \"역사적 투자\"라고 치켜세우는 한편, 이란과의 후속 협상에 대해서는 \"비핵화가 순조롭게 진행되고 있다\"며 낙관론을 폈다.",
-      "트럼프 대통령은 1일(현지시간) 트루스소셜을 통해 미국 메모리 반도체 기업 마이크론이 '트럼프 저축계좌'에 2억5000만달러를 기여하기로 했다고."
-    ],
-    "chips": [
-      "#반도체",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n688731e4",
+    "id": "n6bcd1be3",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702005100072",
-    "title": "국제유가, 미·이란 협상 낙관에 하락…브렌트 2%↓",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/02/G4ZTQYRRMVRTGZDFGUZTQM3DG4/",
+    "title": "임라라, 손민수 십자인대 파열에 쌍둥이 '독박육아'..\"울고 싶다\" 한탄 ('슈돌') [순간포착]",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미 대통령이 카타르에서 열린 미·이란 간 회담이 순조롭게 진행됐다고 밝히면서 1일(현지시간) ..."
+      "[OSEN=지민경 기자] 코미디언 임라라가 풋살을 하다가 십자인대가 파열된 손민수를 대신해 독박육아를 하게 됐다.1일 오후 방송된 KBS2 ‘슈퍼맨이 돌아왔다’에는 다리 부상을 당한 손민수와 독박육아를 하게 된 임라라의 모습이 담겼다.이날 손민수는 다리에 깁스를 한 채 목발을 짚고 등장해 눈길을 끌었다.",
+      "그는 \"육아하다가 갑자기 저녁에 너무 답답해서 풋살을."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf866c324",
+    "id": "n89db07c3",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701178800001",
-    "title": "선관위 국조특위, 오늘 송파 선관위·올림픽공원 현장조사",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702009300057",
+    "title": "부산·울산·경남 흐리고 경남내륙 소나기…최고 5∼20㎜",
     "summary": [
-      "(서울=연합뉴스) 권희원 조다운 기자 = 국회 6·3 지방선거 투표용지 부족 사태 국정조사특위는 2일 서울 송파구 선거관리위원회와 잠실 올림픽공..."
+      "(울산=연합뉴스) 장지현 기자 = 목요일인 2일 부산·울산·경남은 대체로 흐리겠다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n63b2957d",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "38분 전",
-    "url": "https://view.asiae.co.kr/article/2026070204535732993",
-    "title": "워시 Fed 의장, 독립성 의지 강조…시장엔 인플레 안도 신호",
+    "id": "n72ace12d",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702008300007",
+    "title": "[월드컵 전적] 잉글랜드 2-1 콩고민주공화국",
     "summary": [
-      "케빈 워시 미국 Fed 의장이 중앙은행 독립성과 2% 물가 목표를 재확인했다.",
-      "다만 최근 기대 인플레이션이 낮아졌다고 평가하자 시장에서는 향후 기준금리 인상에 대한 경계감이 일부 완화됐다.",
-      "또 워시 의장은 Fed의 대차대조표를 줄여야 한다는 기존 입장도 재차 밝혔다."
+      "[월드컵 전적] 잉글랜드 2-1 콩고민주공화국."
     ],
     "chips": [
-      "#금리"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n178db884",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260702/134221249/1",
+    "title": "중소기업 남성 10명 중 8명 “육아휴직·근로시간 단축 사용 못해”",
+    "summary": [
+      "중소기업의 남성 근로자 10명 중 8명은 육아휴직과 육아기 근로시간 단축을 사용한 적이 없는 것으로 나타났다.한국여성정책연구원은 2일 이 같은 내용을 담은 ‘이슈페이퍼:중소사업체 근로자의 일생활균형 실태와 정책방향’ 보고서를 발표했다.",
+      "‘육아휴직’은 8세 이하 또는 초등학교 2학년 이하 자녀를 둔 근로자가 최대 1년간 휴직할 수 있는 제도다.",
+      "다음달 20일부터는 육아휴직을 사용할 수 있는 최소 기간이 30일에서 1주일로 짧아진다.‘육아기 근로시."
+    ],
+    "chips": [
+      "#정책",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n2716c150",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701156600530",
+    "title": "노사 최저임금 줄다리기 계속…1만1천900원 vs 1만360원 좁힐까",
+    "summary": [
+      "(서울=연합뉴스) 한혜원 기자 = 내년도 최저임금을 얼마로 할지 노동계와 경영계가 2일 줄다리기를 이어간다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n02aaaaac",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701178600003",
+    "title": "정부, 외국인 과학 인재 '톱티어 비자' 문턱 낮춘다",
+    "summary": [
+      "(서울=연합뉴스) 신창용 기자 = 앞으로 해외 우수 인재 인정 기준이 넓어진다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned76d30d",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701178500063",
+    "title": "세종시 시장실 3개 왜? \"기업유치 전까진 공식시장실 사용 안해\"",
+    "summary": [
+      "(세종=연합뉴스) 양영석 기자 = 조상호 세종시장이 취임과 함께 시청사 내 기존 집무실 외에 연서면 산업단지 인근과 시청 내 별도 공간에 집무실..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3d90d95d",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701185100002",
+    "title": "AI 보안테스트하다 전산장애…금융위 \"경미하면 제재 면책\"",
+    "summary": [
+      "(서울=연합뉴스) 강류나 기자 = 금융당국이 금융회사의 인공지능(AI) 보안테스트 과정 등에서 발생한 전산 장애에 대해 제재를 일부 면책해준다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n325de952",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "30분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/02/LO4N3FIMJ5CV3PTL225UWKYBXQ/",
+    "title": "‘9200억 엑시트’ 박관호, 2년 전부터 매각 준비했나… 中 자본 먹잇감 된 위메이드",
+    "summary": [
+      "‘9200억 엑시트’ 박관호, 2년 전부터 매각 준비했나… 中 자본 먹잇감 된 위메이드."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7d98f96",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "30분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/02/5IJPR6CQW5FB7O7BAY3ET6VPQ4/",
+    "title": "[비즈톡톡] 엔비디아와 손잡았지만… SK텔레콤 ‘15GW AI 팩토리’ 실현 가능성은",
+    "summary": [
+      "[비즈톡톡] 엔비디아와 손잡았지만… SK텔레콤 ‘15GW AI 팩토리’ 실현 가능성은."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
     ]
   },
   {
     "id": "n8c27ff94",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260702/134219867/2",
     "title": "‘유보통합 3법’ 국회서 발목… 예산 못 받은 다문화 학급 ‘번역기 수업’",
     "summary": [
@@ -551,7 +597,7 @@ window.NEWS_DB = [
     "id": "ne7758888",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260702/134219865/2",
     "title": "“선행 학습보다 놀이 먼저”… 교육부 ‘영유아 사교육 인식 개선’ 캠페인",
     "summary": [
@@ -567,7 +613,7 @@ window.NEWS_DB = [
     "id": "n8c16c6cf",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260702/134220443/2",
     "title": "은희경이 응시한 ‘몸의 시간’",
     "summary": [
@@ -580,56 +626,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf10eca6d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260702/134220449/2",
-    "title": "그 시절 국민 필수품 ‘성냥’ 만들던 1982년産 800t 무게 의성 윤전기",
-    "summary": [
-      "1978년 8월 11일자 동아일보에는 ‘성냥값 18% 올라’라는 제목의 기사가 실렸다.",
-      "가격 상승이 기사로 다뤄질 정도로 성냥이 국민 생활필수품이었음을 보여준다.",
-      "이즈음 전국 성냥공장들은 대량생산과 자동화를 위한 전략을 꾀하기 시작했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n893104ac",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026070203595028701",
-    "title": "베네수 사망자 약 2300명으로 증가…7일간 국가 애도 기간",
-    "summary": [
-      "최근 베네수엘라에서 발생한 연쇄 강진으로 인한 누적 사망자가 2000명을 훌쩍 넘긴 것으로 1일(현지시간) 집계됐다.",
-      "AFP통신 등 외신에 따르면 이날 호르헤 로드리게스 베네수엘라 국회의장은 지난달 24일 발생한 강진으로 현재까지 공식 확인된 사망자가 2295명이라고 밝혔다.",
-      "부상자는 1만1267명으로 집계됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc46cd99a",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702004300002",
-    "title": "달러-원, 인플레 우려 덜어 준 워시에 상승분 반납 …1,551.20원 마감",
-    "summary": [
-      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 상승분을 반납하며 1,550원대 초반으로 다시 내려앉았다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "na5c47a79",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153057",
     "title": "엔씨 야심작 '신더시티' 본격 알리기 돌입...스팀 페이지 띄웠다",
     "summary": [
@@ -647,20 +647,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "채용",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
