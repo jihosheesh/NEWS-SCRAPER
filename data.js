@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-01 14:57:18
+// 마지막 업데이트: 2026-07-01 15:53:28
 window.NEWS_DB = [
   {
     "id": "nb902b743",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSXBlaG94UU9lWll0VlAxTWFQcXprS2VrTk5NZ3dtYlpTdHlPbGg3YUI0QXlQdkNxRGxqOUVVdm9IRzJ1Q1ZiUkdPSXVBY29jRDVlNVZXQTRhTDRvdlNISjk4TkN3UjhGencxQ0xBWXVwSEE?oc=5",
     "title": "엔비디아 새 AI 반도체로 '제2의 전성기' 기회, 삼성전자 SK하이닉스 HBM4 역할 커져",
     "summary": [
@@ -16,6 +16,20 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "nf25b1254",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVkpyTjRTUlhVSzZudDRPbDZKb045QkNUclpPSHM3NGZRcm5oemZVVzJiUDdzdWNkR0VYM2lPM2NwMlpaTmNwa2pIYndSV3k4cnViR2Z4RUFlYnFaV1dHNw?oc=5",
+    "title": "프로야구 신인 드래프트 지명 참가 신청 접수…8월 22일 마감",
+    "summary": [
+      "프로야구 신인 드래프트 지명 참가 신청 접수…8월 22일 마감 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -38,7 +52,7 @@ window.NEWS_DB = [
     "id": "nff8a2cfa",
     "category": "IT",
     "source": "네이트",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yRlFvd2xvWGwxZVVsazVORkFlbnN3ZzV3NEtWUV8xYnYxVU5lbDQwVGdMXzRiQmZ3ZVk1cVhDNlVNenNiNWd0WHlib2ZmRzBMMHNZ?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
@@ -47,34 +61,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
-    ]
-  },
-  {
-    "id": "n008e2f9b",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZlFXekZRMFRXSlJ5TmtScEI1VlhpLW5EbjVzclJTbGhrNTV6azMwOHpSOHEwNHlwWl9uZXBPTEI4bTNQeVdUaEUwZWxqc21JQVJ6T0ljMFdVQXFwbDZTWQ?oc=5",
-    "title": "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행",
-    "summary": [
-      "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n910de8e4",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qOGVCbFRiS0ZYaGt1cUJWcnpsTXhobFhydE5VdnZUVTlrNk8zS1NNSzV2Z0dyWThrWnR4N3FQd0pFV3gtdlUyaklBbDZnVW9VTERpaDRNcHJQQnNDRDFlOA?oc=5",
-    "title": "신생팀 안산 웨이브스, KBO 드림컵 독립야구대회 우승",
-    "summary": [
-      "신생팀 안산 웨이브스, KBO 드림컵 독립야구대회 우승 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -110,6 +96,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb9060fe2",
+    "category": "사회",
+    "source": "AI라이프경제",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44RWxBejhNRzl6QzlOYnZFOURDUzlCZWF1MWFXcEdNaTV0TjZGTUF1dHdiZUJVN0JYRWhrVVdEdDJWcDdYeVBMQmhlTEdDV1ZSdW11RGItdjc4bHhGdHo2YVk3YXMxUkxtczhBQk0wZw?oc=5",
+    "title": "[AI 정부정책] \"AI가 맞춤 일자리·인재 찾는다\"…노동부, 고용서비스 전면 디지털 전환 시동 |",
+    "summary": [
+      "[AI 정부정책] \"AI가 맞춤 일자리·인재 찾는다\"…노동부, 고용서비스 전면 디지털 전환 시동 | AI라이프경제."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#고용"
+    ]
+  },
+  {
     "id": "n6b58f8f3",
     "category": "사회",
     "source": "아주경제",
@@ -122,21 +124,6 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "na9c15208",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDddIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
-    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
-    "summary": [
-      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
-    ],
-    "chips": [
-      "#AI",
       "#고용"
     ]
   },
@@ -185,6 +172,21 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
+    ]
+  },
+  {
+    "id": "nf5a3ebaf",
+    "category": "스포츠",
+    "source": "starnewskorea.com",
+    "time": "6일 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95MjFXdGZVam85dVZhaEMyQW9sZXdCX3ZreHVZbjRNekpWZ2psU3NGYkVfNU5PSXhlUU1TbHpGUVJwVlNQcmt5a2tWTzNrb1RQYmRrdFNnS1hYbjdWeUtIT0J2aW0yaVZSVWptdmdPakFKMWZiTFE?oc=5",
+    "title": "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주... 2위는 KBO 정상급 타자 김도영",
+    "summary": [
+      "'남아공전 패배' 이강인 고개 들자! 15주 연속 스타랭킹 1위 질주...",
+      "2위는 KBO 정상급 타자 김도영 starnewskorea.com."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -260,16 +262,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n32bf68e2",
+    "id": "n71a254ee",
     "category": "경제",
-    "source": "v.daum.net",
-    "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
-    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
+    "source": "뉴시스",
+    "time": "19일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
+    "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
     "summary": [
-      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
+      "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\" 뉴시스."
     ],
     "chips": [
+      "#부동산",
       "#금리",
       "#환율"
     ]
@@ -380,255 +383,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd8f3d536",
+    "id": "n2e5c5b87",
     "category": "사회",
     "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/opinion/column/2026/07/01/4AO2RCIYPNGQPP2KFI33B7H24I/",
-    "title": "[양상훈 칼럼] 민주당 대표 몸값이 800조원?",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/07/02/WOETI53XVVGKNISZL47ADVUWEA/",
+    "title": "사관학교 통합 속도전… 現 고2 입시부터 검토",
     "summary": [
-      "[양상훈 칼럼] 민주당 대표 몸값이 800조원?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41d0d918",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/football/2026/07/01/MZSGGNZQGM3WCMZRGMZWINDGGU/",
-    "title": "40년 만의 역사 쓴 멕시코, 충격적 비극에 눈물…축하 행사 중 3명 압사",
-    "summary": [
-      "[스포츠조선 박상경 기자] 40년 만의 토너먼트 승리, 그러나 생각지도 못한 비극이 발생했다.",
-      "영국 BBC는 1일(한국시각) '멕시코시티에서 열린 2026 북중미월드컵 32강전 승리 축제 도중 44세 남성과 48세 여성, 19세 여성이 숨졌다'고 전했다.",
-      "이들은 멕시코가 1986 멕시코 대회 이후 월드컵 결선 토너먼트에서 승리한 것을 축하하기 위해 멕시코시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n39eda703",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692464",
-    "title": "인도 6월 제조업 PMI 54.2·0.8P↓… \"수요 둔화\"",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 아시아 제3위 경제대국 인도의 체감경기를 보여주는 2026년 6월 HSBC 제조업 구매관리자 지수(PMI 확정치)는 54.2를 기록했다고 PTI 통신과 마켓워치, 비즈니스 스탠더드 등이 1일 보도했다.",
-      "매체는 S&P 글로벌이 이날 발표한 관련 통계를 인용해 6월 제조업 PMI가 전월 55.0에서 0.8 포인트 저하했다고 전했다.",
-      "속보치 54.5에서 0.3 포인트 하향 조정했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5060e8dd",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/01/MVRDCOBZMZTGMOJUGY3GEZJWHE/",
-    "title": "\"실내에서 계속 준비\" 대타로만 5번째, 이게 어디 쉽나, 4년 전 헤어졌더라면 어쩔 뻔, 극적인 동점 투런포→9득점 대역전 드라마 발판",
-    "summary": [
-      "[창원=스포츠조선 정현석 기자] 대타로 나서 홈런을 때려내는 것은 결코 쉽지 않은 임무다.",
-      "하지만 준비된 베테랑 외야수 권희동(36)은 예외였다.",
-      "벼랑 끝 연패 위기에서 팀을 구출한 결정적 한 방이 터졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbb03e342",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/01/MU4DIM3BG44TEMRQG5SGEOJVMQ/",
-    "title": "KBO리그 역사상 최초 장면이 나왔다…부모님은 웃을까 울까",
-    "summary": [
-      "[대전=스포츠조선 이종서 기자] KBO리그 역사상 이런 장면은 없었다.",
-      "KT 위즈는 1일 대전 한화생명볼파크에서 열린 한화 이글스와의 경기에서 7대4로 승리했다.",
-      "KT가 7-3으로 앞선 9회말."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n058969bf",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260701/134220963/1",
-    "title": "日이와테현 앞바서 규모 6 지진…쓰나미 우려 없어",
-    "summary": [
-      "1일 오후 9시 8분께 일본 이와테(岩手)현 앞바다에서 규모 6 지진이 발생했다.",
-      "현지 공영 NHK,요미우리신문 등에 따르면 일본 기상청은 이같이 밝히고 진원지는 이와테현 앞바다, 진원의 깊이는 40㎞라고 추정했다.",
-      "기상청은 이번 지진으로 쓰나미(津波·지진해일) 우려는 없다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8090040a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260701/134220951/1",
-    "title": "‘광주 여고생 살해’ 장윤기 부친은 현직 경찰관…증거인멸 도왔다",
-    "summary": [
-      "광주 길거리에서 여고생을 살해한 장윤기(23)의 친부가 현직 경찰관임에도 아들의 범행 증거를 은폐한 것으로 드러났다.1일 광주지검에 따르면 장윤기는 지난 5월 5일 오전 0시 11분쯤 광주 광산구 월계동 한 대학교 인근 도로에서 강간 목적으로 고등학생 이채원 양(16)을 흉기로 찔러 살해하고, 이 양을 도우려고 달려온 고등학생 고 모 군(17)을 흉기로 찔러 살해하려 한 혐의를 받는다.앞서 이 범행이 있기 전 같은 달 3일 함께 식당에서 일했던."
+      "사관학교 통합 속도전… 現 고2 입시부터 검토."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n2a980e08",
+    "id": "n6cbfca01",
     "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260701/134220945/1",
-    "title": "변요한, ♥티파니와 럽스타…뮤지컬 공개 응원 “최고!”",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/07/02/ED7OJJNUSVFQROOML4PHZH35AM/",
+    "title": "윤호중 행안 “투표지 부족, 언론 보도로 알아”",
     "summary": [
-      "배우 변요한이 아내인 소녀시대 겸 배우 티파니 영을 응원했다.변요한은 1일 자신의 인스타그램 스토리에 뮤지컬 ‘유미의 세포들’을 관람한 인증샷을 올리며 “배우들, 음악, 무대 좋은 공연 감사합니다”라며 “최고!!!”라고 적었다.이와 함께 변요한은 티파니 영 계정을 태그하며 애정을 드러냈다.티파니 영은 인기 웹툰을 원작으로 한 뮤지컬 ‘유미의 세포들’에서 유미 역을 맡아 무대에 오르고 있다.",
-      "이에 남편 변요한이 직접 응원에 나서 훈훈함을 자아낸다."
+      "윤호중 행안 “투표지 부족, 언론 보도로 알아”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfa712a6c",
+    "id": "n6b3926ad",
     "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260701/134220940/1",
-    "title": "차은우, 군 복무 중 ‘천주교 세례’ 받고 정식 신자 됐다",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/07/02/ZIS5GULUA5FOZPQZDEGUNSSZ3U/",
+    "title": "이번엔 필리버스터 무력화… 더 거세진 與 입법 독주",
     "summary": [
-      "배우 겸 가수 차은우가 군 복무 중 천주교 세례를 받았다.1일 뉴스1 취재 결과, 차은우는 지난달 군 복무 중 천주교 세례를 받았다.",
-      "국방부 군악대대 팡파르대 상병으로 복무 중인 차은우는 종교 활동의 일환으로 영내에서 거행된 예식에 참석해 세례를 받은 것으로 확인됐다.그간 공식적으로 특정 종교를 밝힌 적이 없던 차은우가 군 생활을 계기로 정식 가톨릭 신자로서 첫발을 내디뎠다는 점에서 눈길을 끈다.특히 올해 초 발생한 세무 관련 논란 이후, 그가."
+      "이번엔 필리버스터 무력화… 더 거세진 與 입법 독주."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc7171e1e",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "21분 전",
-    "url": "https://www.hankyung.com/article/202607010560i",
-    "title": "美 증시, 제조업 활동 회복에 낙폭 축소",
+    "id": "nb06d3bbf",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/07/02/TXSCCWSCR5CNHKOO7DULE55MSM/",
+    "title": "일본 전설들은 큰 물로, 한국 전설들은 예능으로",
     "summary": [
-      "美 증시, 제조업 활동 회복에 낙폭 축소."
+      "일본 전설들은 큰 물로, 한국 전설들은 예능으로."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n659fa016",
+    "id": "nbfd6cd27",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701200200004",
-    "title": "법무장관 \"광주 여고생 살해범 부친이 경찰…증거인멸 처벌 어려워\"",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701201200109",
+    "title": "그리스 산불 확산…북부 지역서 2명 사망",
     "summary": [
-      "(서울=연합뉴스) 박재현 기자 = '광주 여고생 살해범' 장윤기의 부친이 현직 경찰 신분으로 증거를 인멸하고도 친족간 특례에 따라 처벌을 피했다..."
+      "(로마=연합뉴스) 민경락 특파원 = 그리스에서 발생한 산불이 확산하면서 피해가 잇따르고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n58d87da2",
+    "id": "nca45be9a",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701184551051",
-    "title": "부산도시철도 전동차에 방화예고 쪽지 붙인 50대 긴급체포(종합)",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/02/2026070200163596761",
+    "title": "美 6월 민간고용 9만8000명 증가…예상치 밑돌아",
     "summary": [
-      "(부산=연합뉴스) 민영규 차근호 기자 = 부산도시철도 전동차에 방화를 예고하는 쪽지를 붙인 50대 남성이 경찰에 붙잡혔다."
+      "미국의 6월 민간 부문 고용 증가폭이 시장 전망을 밑돌면서 경기 둔화 흐름을 이어갔다.",
+      "미 고용정보업체 오토매틱데이터프로세싱(ADP)은 미국의 6월 민간기업 고용이 전달 대비 9만8000명 증가했다고 1일(현지시간) 밝혔다.",
+      "지난 5월 고용 증가폭(12만2천명)보다 2만명 이상 줄어든 수준으로 다우존스가 집계한 전문가 전망치(11만명)에도 미치지 못했다."
     ],
     "chips": [
-      "#뉴스"
+      "#고용",
+      "#교육",
+      "#의료"
     ]
   },
   {
-    "id": "nccd7da7c",
+    "id": "n78cd0ad7",
     "category": "IT",
     "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692462",
-    "title": "[속보]뉴욕증시, 반도체주 차익실현에 하락 출발…다우 장중 상승 전환",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692089",
+    "title": "그랜섬 \"미국 주식 보유 말라”…최대 70% 하락 가능성 경고",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 aci27@newsis.com."
+      "[서울=뉴시스]김혜경 기자 = 미국 증시가 역사상 최대 규모의 버블 국면에 진입했다는 경고가 나왔다.",
+      "30일(현지시간) 미국 매체 머니와이즈에 따르면 월가의 대표적 비관론자로 꼽히는 제레미 그랜섬 글로벌 투자운용사 GMO 공동 창업자는 최근 팟캐스트 '더 다이어리 오브 어 CEO'에 출연해 이같이 밝혔다.",
+      "그랜섬은 인공지능(AI) 기대감으로 상승한 미국 증시가 과열 국면에 들어섰다고 평가하며, \"미국 역사상 가장 큰 투자 버블\"이라고 말했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n17dad7c2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702000800071",
+    "title": "116일 행방불명 후 우울증 고백…美하원의원에 갑론을박",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미국에서 공화당 연방 하원의원이 100일 넘게 사라졌다 돌아와 우울증 진단을 고백하면서 갑론을박이 이어지고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3d213185",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702000300082",
+    "title": "유럽 인플레 둔화…6월 물가 2.8％↑, 시장 예상 밑돌아",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 국제유가가 안정되면서 유럽 물가 상승세가 다소 둔화한 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na31ac16c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260701200300071",
+    "title": "美, 미국체류 쿠바인 일가족 3명 체포…\"위장단체서 활동\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 조준형 특파원 = 미국 트럼프 행정부는 쿠바 공산당 정권을 위해 미국에서 체제 전복을 도모하는 활동을 벌인 혐의로 미국 내 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3bfb7d51",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260701/134219461/2",
+    "title": "삼성전자 8세대 폴더블, AI시대 새 라인업 예고",
+    "summary": [
+      "삼성전자가 22일(현지 시간) 영국에서 열리는 ‘갤럭시 언팩’을 앞두고 8세대 폴더블폰 라인업에 새로운 선택지가 추가될 것임을 예고했다.",
+      "기존 폴드, 플립과는 다른 화면 비율 및 폼팩터를 갖춘 새로운 폴더블폰을 선보이려는 것이다.",
+      "삼성전자는 1일 오전 글로벌 공식 인스타그램과 유튜브를 통해 차세대 폴더블폰 티저 영상(사진)을 공개했다."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n01d8d36e",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260701/134219479/2",
+    "title": "‘젊은 부자’ 인플레… PB센터 문턱 높이는 금융사",
+    "summary": [
+      "‘자산이 3억 원이시면 전문 PB센터가 아닌 일선 영업점을 방문하셔야 합니다.’ 금융사들이 자산가를 대상으로 특화 서비스를 제공하는 프라이빗뱅킹(PB)의 문턱을 높이고 있다.",
+      "주식시장 호황과 반도체 성과급에 힘입은 ‘젊은 부자’들이 늘어나면서 고액 자산가의 개념을 재설정하고 있는 셈이다.",
+      "금융사들은 PB 서비스를 받을 자격을 높이고 등급을 세분화해 최고급 서비스를 제공하는 등 서비스 차별화에 공을 들이고 있다."
     ],
     "chips": [
       "#반도체"
     ]
   },
   {
-    "id": "n790266db",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701200400098",
-    "title": "벨기에 제2도시 고층아파트 화재로 6명 사망·다수 부상",
+    "id": "nead11bcb",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260701/134219476/2",
+    "title": "보이스피싱 구제 신청, 은행 안가고 앱으로도 가능해져",
     "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 1일(현지시간) 벨기에 제2 도시 안트베르펜의 고층 아파트에서 불이 나 최소 6명이 숨지고 다수가 다쳤다고..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n353a5657",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20260701_0003692440",
-    "title": "트럼프 \"이란 비핵화 잘 진행되고 있어…회담 잘 했다\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국과 이란이 1일(현지 시간) 카타르에서 간접 협상을 진행 중인 것으로 알려진 가운데, 도널드 트럼프 미 대통령은 \"이란 비핵화는 잘 진행되고 있다\"고 주장했다.",
-      "트럼프 대통령은 이날 메릴랜드주 앤드루스합동기지에서 전용기인 에어포스원에 탑승하기 앞서 취재진에 이란과 협상에 대해 이같이 전하며 \"그들은 매우 좋은 회담을 했고 지켜볼 것이다\"고 말했다.",
-      "이어 \"우리는 사흘밤 동안 그들을 매우 강하게 공격했었지만."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0f76a6f0",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260701189152530",
-    "title": "지방세시스템 오류 12시간만 정상화…행안부 \"재발방지 최선\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 차민지 홍준석 기자 = 1일 전남광주통합특별시 출범과 인천광역시 행정체제 개편에 따른 데이터 전환 작업 과정에서 장애를 겪었던..."
+      "앞으로는 보이스피싱 피해자가 은행 영업점 등을 직접 방문하지 않고 모바일 앱으로도 피해 구제 신청 서류를 제출할 수 있다.",
+      "저축은행으로 돈을 보내면 이체 기록에 은행명이 명확히 나타나도록 표기 방식도 바꾸기로 했다.",
+      "금융감독원은 1일 보이스피싱 피해자가 비대면으로 피해 구제를 신청하고 범죄 의심 계좌를 더 효율적으로 확인할 수 있도록 금융권 업무 체계를 개편한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfb115069",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "47분 전",
-    "url": "https://www.hankyung.com/article/2026070105737",
-    "title": "李 대통령 \"끔찍한 폭력\"…'태움' 간호사 사망, 엄단 지시",
+    "id": "n4ec3dc05",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260701/134219383/2",
+    "title": "규제 피한 안양 만안-남양주도 집값 들썩… 풍선효과 우려",
     "summary": [
-      "李 대통령 \"끔찍한 폭력\"…'태움' 간호사 사망, 엄단 지시."
+      "지난해 10·15 부동산대책 이후 경기권 비(非)규제지역 18곳에서 지난해 11월부터 올해 5월까지 6개월간 15조 원이 넘는 돈이 주택 매입에 사용된 것으로 나타났다.",
+      "이는 전년 같은 기간 대비 2배 이상 늘어난 것으로, 규제에 따른 ‘풍선효과’라는 해석이 나온다.",
+      "경기 화성시 동탄구, 용인시 기흥구, 구리시가 신규 규제지역으로 지정되면서 인접 지역으로의 풍선효과를 낳을 수 있다는 우려가 제기된다."
     ],
     "chips": [
-      "#정치"
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nd0819d46",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003691379",
+    "title": "\"과거 투자 공식 안 통한다\"…고환율 뉴노멀 시대 투자 전략 바꿔야",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 신우진 인턴기자 = 글로벌 거시경제 기준이 바뀌는 ‘뉴노멀’ 시대에 들어서면서, 과거 투자 공식에만 의존하기보다 통화를 분산하고 실물자산 비중을 늘리는 방식으로 포트폴리오를 재편해야 한다는 제언이 나왔다.",
+      "최근의 고환율 현상도 과거 금융위기 때처럼 단순한 자본 유출이 아니라는 점에서, 막연한 불안보다 분산 투자 전략이 중요하다는 분석이다.",
+      "오건영 신한은행 프리미어 패스파인더 단장은 지난달 29일 구독자 392만 명."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "n4424034c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260701_0003692457",
+    "title": "이탈리아 \"호르무즈 기뢰 제거에 두달 필요\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 호르무즈 해협에 설치된 지뢰를 제거하는 데 최소 2개월이 걸릴 것이라는 관측이 이탈리아 측에서 나왔다.",
+      "1일(현지 시간) 현지 안사(ANSA) 통신 등에 따르면 이탈리아 합동작전사령부 조만니 마리아 얀누치 사령관은 이날 상·하원 외교·국방위원회에서 \"추산에 따르면 호르무즈 해협에는 수십 기의 기뢰가 있으며, 이를 제거하는 데 약 두 달이 필요하다\"고 밝혔다.",
+      "그는 그러면서 \"이들 기뢰는 정교하고 첨단 기술이 적용."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2692bb4e",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "37분 전",
+    "url": "https://www.hankyung.com/article/202607010593i",
+    "title": "워시,\"물가안정\"강조속 \"가격위험 하락\" 언급…매파 입장 완화 조짐?",
+    "summary": [
+      "워시,\"물가안정\"강조속 \"가격위험 하락\" 언급…매파 입장 완화 조짐?."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -644,12 +653,12 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "삼성전자",
     "mentions": "1550건",
     "trend": "+135%"
   }
