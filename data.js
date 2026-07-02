@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-02 00:29:36
+// 마지막 업데이트: 2026-07-02 01:38:55
 window.NEWS_DB = [
   {
     "id": "nb902b743",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSXBlaG94UU9lWll0VlAxTWFQcXprS2VrTk5NZ3dtYlpTdHlPbGg3YUI0QXlQdkNxRGxqOUVVdm9IRzJ1Q1ZiUkdPSXVBY29jRDVlNVZXQTRhTDRvdlNISjk4TkN3UjhGencxQ0xBWXVwSEE?oc=5",
     "title": "엔비디아 새 AI 반도체로 '제2의 전성기' 기회, 삼성전자 SK하이닉스 HBM4 역할 커져",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "n1f9ed23e",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4LWhfdGg4T3VaNUxZdEljNU5zXzFIdWRpQnJTQmxpZEd1emY4bkR2bEdCMlUxNjNza1ZyM0Q4V1REWVdGcG1jUk1qSFFPRnFJQVlwbEdB?oc=5",
     "title": "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다",
     "summary": [
@@ -35,14 +35,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf3ca5039",
+    "id": "nff8a2cfa",
     "category": "IT",
-    "source": "v.daum.net",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9CUFk3Z3M5alMzVzlkNFZjdV9YVmktT2ZtTnZ2N2w1ZWxVRjl6bmRyTDVJUGZvNEFpdFpLbnVwUmtXTFU5MHc?oc=5",
+    "source": "네이트",
+    "time": "23시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yRlFvd2xvWGwxZVVsazVORkFlbnN3ZzV3NEtWUV8xYnYxVU5lbDQwVGdMXzRiQmZ3ZVk1cVhDNlVNenNiNWd0WHlib2ZmRzBMMHNZ?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
-      "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집 v.daum.net."
+      "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집 네이트."
     ],
     "chips": [
       "#스타트업",
@@ -50,11 +50,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n008e2f9b",
+    "id": "n60642578",
     "category": "스포츠",
     "source": "네이트",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZlFXekZRMFRXSlJ5TmtScEI1VlhpLW5EbjVzclJTbGhrNTV6azMwOHpSOHEwNHlwWl9uZXBPTEI4bTNQeVdUaEUwZWxqc21JQVJ6T0ljMFdVQXFwbDZTWQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDSmgxU2VHMG5SbGFpa01NbDdBWFNsUVJvcXA4M0ptdXRRWlZnTmlia211TzBhZ0JpREcwNElXeWs1WnM0SjhIdDVsZjVOQ3NUX2RTV2U2aW1OaFpNTGc5Ng?oc=5",
     "title": "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행",
     "summary": [
       "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행 네이트."
@@ -96,11 +96,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne2b1cf35",
+    "id": "n6b58f8f3",
     "category": "사회",
     "source": "아주경제",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTnSAVhBVV95cUxNb1drV0lkT2VwV2RXQlh6dXZLOTVuc0JxUGFRdW0wVlI0aWptSE5TdjV4Umd4YTVVNk1fTTNCeG1EZmxxcVpwMXdyNFVET1dfY3lEVWFBREE5?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
       "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
@@ -174,20 +174,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3bd4827",
-    "category": "경제",
-    "source": "매일경제 마켓",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16RjZGUm44NHN3UXpzNnNJLVp6YmViNU1sdnZVUC1sM194Tmg4T291U3RqMTVUMkFrVEVjMUtzWllqVTZfelVJWDRVeXlfSzFWMXc?oc=5",
-    "title": "금융시장 이틀째 충격…코스피 5,400도 깨져, 환율 1,480원대",
-    "summary": [
-      "금융시장 이틀째 충격…코스피 5,400도 깨져, 환율 1,480원대 매일경제 마켓."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "nf5a3ebaf",
     "category": "스포츠",
     "source": "starnewskorea.com",
@@ -217,6 +203,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nde229885",
+    "category": "IT",
+    "source": "한국보험신문",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
+    "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
+    "summary": [
+      "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장” 한국보험신문."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n9cecfc4c",
     "category": "부동산",
     "source": "한국경제",
@@ -243,6 +243,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
+    ]
+  },
+  {
+    "id": "n7c9e9138",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "19일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaTJiYVJiLWtIZnlfZ3VRWm9HeW5QTWhMemtKSDYwdnFZNkRwVmhPN3B3aEpNeVdsLU82V0k3Q0t2Tm9sNHQ5QUJHeF9VcW1XTDNHdGNDMERRZ9IBVEFVX3lxTE5UMmczREttNy14TjBUVE1NeG1kNUQ3WDNZbko4N3JQb3RKY1hEc29pNjFJaHFnUzRzSnFLOVVrano4QWpNSklVTVRyTWxzV1k0ZFVyMQ?oc=5",
+    "title": "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각",
+    "summary": [
+      "1500원대서 내려오지 않는 원·달러 환율…통화정책 변화 촉각 한국경제."
+    ],
+    "chips": [
+      "#환율",
+      "#정책"
     ]
   },
   {
@@ -276,20 +291,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n37646dcf",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "34일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
-    "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
@@ -317,6 +318,22 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
+    ]
+  },
+  {
+    "id": "n5d84bfb2",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153051",
+    "title": "[카드뉴스] AI 시대, 강한 기업은 무엇이 다를까?.. LG CNS가 AI 화이트해커를 투입한 이유",
+    "summary": [
+      "AI는 이제 기업의 생산성을 높이는 핵심 기술이 되었지만, AI가 발전할수록 해킹도 더 빠르고 정교해지고 있습니다.",
+      "보안 전문가만으로는 늘어나는 위협을 감당하기 어려워지자 기업들은 새로운 방법을 선택하기 시작했는데요.AI가 만든 위협을 AI로 막는 것.",
+      "LG CNS는 AWS의 AI 보안 기술을 실제 업무에 적용하며 사람과 AI가 함께 보안을 책임지는 새로운 방식을 도입했습니다."
+    ],
+    "chips": [
+      "#AI"
     ]
   },
   {
@@ -352,281 +369,265 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n65b86ef6",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026070209290991862",
-    "title": "[인사] 아시아투데이",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ebb0549",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026070209290687820",
-    "title": "ABL생명, 행정안전부 ‘재해경감 우수기업’ 재인증 획득",
-    "summary": [
-      "ABL생명은 행정안전부가 주관하는 '재해경감 우수기업' 재인증을 획득했다고 2일 밝혔다.",
-      "'재해경감 우수기업 인증'은 재난 발생 시에도 기업의 핵심 업무를 중단 없이 지속할 수 있도록 '재해경감활동 관리체계'를 구축하고 이를 실효성 있게 운영하는 기관을 정부가 심사해 인증하는 제도다.",
-      "2023년 최초로 인증을 획득한 ABL생명은 이번 갱신 심사에서 자연재해, 화재, 전산장애 등 다양한 재난 상황에 대비한 재해경감활동 관리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb11f6d13",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/living/2026/07/02/2026070209201798486",
-    "title": "맥주를 슬러시로 즐긴다…하이트진로, '테라 슬러시 생' 출시",
-    "summary": [
-      "하이트진로가 슬러시 형태의 생맥주 '테라 슬러시 생(生)'을 출시한다고 2일 밝혔다.",
-      "테라 슬러시 생은 테라 생맥주를 슬러시로 차갑게 즐길 수 있는 제품이다.",
-      "영하 7도의 아이스 거품으로 최대 약 60분 간 시원한 음용감을 유지할 수 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0e34d8c2",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026070209053698161",
-    "title": "美 존스법 유예 만료 앞두고…공화당 지도부 \"연장 안 된다\"",
-    "summary": [
-      "미국 공화당 지도부가 도널드 트럼프 행정부가 유가 안정을 위해 한시적으로 시행 중인 '존스법(Jones Act)' 유예 조치를 오는 8월 16일 예정대로 종료하라고 공개적으로 촉구했다.",
-      "블룸버그에 따르면 공화당 소속 마이크 존슨 하원의장, 스티브 스컬리스 하원 원내대표를 비롯한 공화당 의원 52명은 1일(현지시간) 트럼프 대통령에게 보낸 서한에서 \"지금의 존스법 유예는 적대국들이 미국의 해상 우위를 약하게 만드는 허점으로."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5a55cb8e",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026070209282380681",
-    "title": "[인사] KB국민은행",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea5661a6",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/stock/2026/07/02/2026070209270827129",
-    "title": "7000으로 미끄러진 코스피…증권주 동반 하락",
-    "summary": [
-      "[특징주] 코스피가 15거래일 만에 7000대로 내려오면서 증권주들이 동반하락 중이다.",
-      "2일 오전 9시22분 현재 코리아에셋투자증권은 전날 대비 910원(11.71%) 내린 6860원에 거래되고 있다.",
-      "미래에셋증권(-7.45%), 키움증권(-6.91%), 상상인증권(-6.07%), SK증권(-5.24%), 한화투자증권(-4.82%), 삼성증권(-4.44%), 부국증권(-4.04%), 현대차증권(-3.92%) 등도 동반 하락 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d1f3b18",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/living/2026/07/02/2026070209092570666",
-    "title": "\"출국 전 시원한 막국수\"…농심, 인천공항 라운지서 배홍동막국수 선봬",
-    "summary": [
-      "농심이 공항 면세구역 라운지 '스카이허브라운지'에서 '배홍동막국수'를 선보인다고 2일 밝혔다.",
-      "이번 협업은 스카이허브라운지 지점 중 인천국제공항 제2여객터미널 내 2개 라운지를 대상으로 이달부터 다음달까지 약 두 달 간 진행된다.",
-      "컵라면이 아닌 공항 라운지에서 직접 조리된 배홍동 막국수를 맛볼 수 있다는 점에서 이전 협업과 차별화된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6248b17d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260702_0003692795",
-    "title": "DL이앤씨, 국토부 상호협력평가서 '최우수'…\"상생 경쟁력 입증\"",
-    "summary": [
-      "[서울=뉴시스]정유선 기자 = DL이앤씨는 국토교통부가 발표한 '2025년 건설사업자간 상호협력평가'에서 최고 등급인 '최우수'를 획득했다고 2일 밝혔다.",
-      "상호협력평가는 종합건설사업자와 전문건설사업자 간, 대기업과 중소기업 간 상호협력관계를 구축해 산업의 균형 발전을 이루고 공사 수행의 효율성을 높이기 위해 정부가 도입한 제도다.",
-      "협력업자와 공동도급 실적·하도급 실적, 협력업자 육성, 신인도 등을 종합 평가해 등급을 부여한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n75b4c10b",
+    "id": "n321233a1",
     "category": "IT",
-    "source": "뉴시스",
+    "source": "조선비즈IT",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260702_0003692854",
-    "title": "아크릴, 11억 규모 공급 계약…AI 데이터센터 시장 진출",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/02/BURVKI4VZREPDDK7FHASPXWPLE/",
+    "title": "앤트로픽, 신약 개발 AI ‘클로드 사이언스’ 공개…소외 질환 치료제 발굴 추진",
     "summary": [
-      "[서울=뉴시스] 김경택 기자 = 인공지능 전환(AX) 인프라 전문기업 아크릴이 인공지능(AI) 인프라 운영 플랫폼 'GPUBASE'를 기반으로 AI 데이터센터 시장에 진출한다.",
-      "아크릴은 국내 모듈형 데이터센터(MDC) 구축·공급 사업에 11억원 규모의 1차 GPUBASE 공급계약을 체결했다고 2일 밝혔다.",
-      "회사 측에 따르면 이번 계약은 모듈형 데이터센터에 적용되는 보급형 GPUBASE 공급 건이다."
+      "앤트로픽, 신약 개발 AI ‘클로드 사이언스’ 공개…소외 질환 치료제 발굴 추진."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n4a68e841",
-    "category": "경제",
+    "id": "n0711ca23",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026070210372907318",
+    "title": "KLPGA-LPGA, BMW 챔피언십 한국 선수 출전권 합의 불발",
+    "summary": [
+      "한국여자프로골프(KLPGA)와 미국여자프로골프(LPGA)가 오는 10월 한국에서 열리는 LPGA 투어 BMW 레이디스 챔피언십의 선수 출전권에 합의를 이루지 못했다.",
+      "KLPGA는 이 대회에 KLPGA 투어 멤버가 30명까지 출전할 수 있도록 LPGA 투어에 요청했지만 끝내 받아들여지지 않았다고 2일 밝혔다.",
+      "KLPGA는 지난해 10월부터 최소 30명의 선수가 출전해야 KLPGA 투어 공식 대회로 인정할 수 있다며 LPGA 투어와 협상을 벌였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1800559",
+    "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260702_0003692849",
-    "title": "제주 물가 또 올랐다…유가 급등에 전년 동월 대비 3.4%",
-    "summary": [
-      "[제주=뉴시스] 우장호 기자 = 제주지역 항공교통비와 공업제품, 농축수산물 가격이 오르며 소비자물가 상승세가 이어지고 있다.",
-      "2일 국가데이터처 제주사무소가 발표한 '2026년 6월 제주특별자치도 소비자물가동향'에 따르면 6월 소비자물가지수는 119.54(2020년=100)로 전달보다 0.1%, 지난해 같은 달보다 3.4% 각각 상승했다.",
-      "전년 동월 기준 상승률은 지난 4월 2.6%, 5월 3.3%에 이어 석 달 연속 확대된 것이다."
-    ],
+    "url": "https://www.newsis.com/view/NISX20260702_0003692937",
+    "title": "[속보]산업장관 \"100일 내 충청권 투자 종합지원계획 마련\"",
+    "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc23352ea",
-    "category": "IT",
-    "source": "머니투데이",
+    "id": "nc64abe90",
+    "category": "부동산",
+    "source": "아시아경제",
     "time": "1분 전",
-    "url": "https://www.mt.co.kr/stock/2026/07/02/2026070209234742326",
-    "title": "앤로보틱스, 中 제니솜로보틱스와 맞손…사족보행로봇 양산 추진",
+    "url": "https://view.asiae.co.kr/article/2026070210372200040",
+    "title": "대신자산신탁, 분당 양지마을 사업시행자 지정 신청",
     "summary": [
-      "앤로보틱스가 로봇 대량생산 체계를 구축하며 본격적인 사족보행로봇 양산에 나선다.",
-      "앤로보틱스는 세계 최대 사족보행로봇 생산업체인 중국 제니솜로보틱스(GENISOM ROBOTICS)와 부품 인프라 및 생산 기술을 공유하는 전략적 제휴를 체결하고 국내 로봇 제조공장 설립을 본격화한다고 2일 밝혔다.",
-      "앤로보틱스는 이번 제휴를 기점으로 경기도 성남에 위치한 제조 인프라를 기반으로 생산 라인을 우선 구축한다."
+      "대신증권 계열사 대신자산신탁은 경기도 성남시 분당구 양지마을 통합재건축사업의 사업시행자 지정 신청을 완료했다.",
+      "2일 대신자산신탁에 따르면 이번 신청은 지난달 주민설명회 이후 사업시행자 지정 동의서 징구를 시작한 지 10일 만에 이뤄진 것으로 조합원들의 높은 관심과 지지가 확인됐다.",
+      "사업시행자로 지정되면 대신자산신탁은 정비사업위원회 구성과 시공사 선정 등 후속 절차를 정비사업 전문성을 바탕으로 속도감 있게."
     ],
     "chips": [
-      "#뉴스"
+      "#재건축"
     ]
   },
   {
-    "id": "n291ed4d6",
-    "category": "IT",
+    "id": "n0bc57e57",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026070209340482612",
+    "title": "순천시의회, 전반기 의장 유영철·부의장 이향기 의원 선출",
+    "summary": [
+      "전남 순천시의회(의장 유영철)는 1일 제296회 임시회 제1차 본회의를 열고 제10대 전반기 의장에 유영철 의원, 부의장에 이향기 의원을 선출했다.",
+      "이날 실시된 의장 선거에서는 유영철 의원이 19표를 얻어 5표를 얻은 이복남 의원을 제치고 제10대 전반기 순천시의회 의장으로 당선됐으며, 부의장에는 이향기 의원이 선출됐다.유영철 의장은 당선 소감을 통해 \"아낌없는 성원과 지지로 제10대 전반기 의장으로 선출해 주셔서 깊이."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "neb455cc9",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026070210363993422",
+    "title": "與, 형사소송법 개정 TF 구성…\"보완수사권 폐지 신속히 논의\"",
+    "summary": [
+      "더불어민주당이 검찰개혁 과제인 보완수사권 폐지 등을 논의하기 위해 형사소송법 개정 태스크포스(TF)를 구성하겠다고 밝혔다.",
+      "한병도 민주당 당대표 직무대행 겸 원내대표는 2일 국회에서 열린 정책조정회의에서 \"검찰개혁 완성에 박차를 가하겠다\"며 \"치열한 토론과 깊이 있는 숙의로 모든 지혜를 모아 빠른 시간 안에 완성도 높은 개정안을 도출해 내겠다\"고 말했다.",
+      "원내대표단, 정책위, 법제사법위원회를 중심으로 TF를 꾸려."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9c8d1c44",
+    "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260702_0003692846",
-    "title": "삼기, 로봇 부품 포트폴리오 확대…상체에 이어 전신으로 확장",
+    "url": "https://www.newsis.com/view/NISX20260702_0003693076",
+    "title": "[대구소식]대구보건대, 국제기구·글로벌보건 강화 프로그램 운영 등",
     "summary": [
-      "[서울=뉴시스] 김경택 기자 = 삼기는 글로벌 휴머노이드 기업향 상체 프레임 공급을 시작으로 로봇 부품 포트폴리오를 골반·하체 구조물까지 전신으로 확대한다고 2일 밝혔다.",
-      "회사 측에 따르면 사업 확장의 첫 단계는 현재 진행 중인 휴머노이드 상체 프레임의 개발과 초도 시작 물량 공급이다.",
-      "알루미늄 다이캐스팅 기술과 생산 역량을 바탕으로 안정적인 품질과 생산성을 확보하는 데 집중할 예정이다."
+      "[대구=뉴시스] 박준 기자 = 대구보건대학교는 한달빛글로컬보건연합대학 재학생 36명이 참여한 가운데 2026 국제기구·글로벌보건 진로역량 강화 프로그램을 운영했다고 2일 밝혔다.",
+      "이번 프로그램은 글로컬대학30 프로젝트의 일환으로 유엔(UN)과 국제기구, 지속가능발전목표(SDGs)에 대한 이해를 높이고 글로벌 보건 분야 진로 탐색 기회를 제공하기 위해 마련됐다.",
+      "프로그램은 유엔협회세계연맹(WFUNA)과 공동으로 운영했으며 국제기구 진출 사례와 글."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "ndd6a2c72",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003693078",
+    "title": "경기도 6월 소비자물가 3.3% ↑…석유류 껑충",
+    "summary": [
+      "[수원=뉴시스] 변근아 기자 = 경기도 소비자물가 상승률이 2개월 연속 3%대를 기록했다.",
+      "2일 경인지방데이터청의 '6월 경기도 소비자물가동향'에 따르면 소비자물가지수는 120.15(2020년=100)로 전년 동월 대비 3.3% 상승했다.",
+      "소비자물가 상승률은 1월 2%, 2월 2.1%로 연초 안정적인 수준을 유지했으나 중동전쟁 발발 이후 3월 2.2%, 4월 2.7%, 5월 3.3% 등으로 상승곡선을 그리고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n703af034",
+    "id": "n1744994b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003693064",
+    "title": "충남대 'ORCA 세미나'…개방형 바이오연구 공간 소개",
+    "summary": [
+      "[대전=뉴시스]유순상 기자 = 충남대학교는 전날 교내에서 대학 소속 교원 및 연구원 학생 연구자 등이 참석한 가운데 'ORCA 세미나(ORCA Introduction Seminar)'를 개최했다고 2일 밝혔다.",
+      "글로벌 기업인 애질런트 테크로놀로지(Agilent Technologies Inc.)사와 협력으로 지난 5월 문을 연 오픈형 바이오제약 연구 허브 'ORCA'(Open Biopharma Research Hub for CNU-Agilent)."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n796adb30",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702039000003",
-    "title": "현대로템 조직개편…항공우주 강화·미래사업 역량 통합",
-    "summary": [
-      "(서울=연합뉴스) 홍규빈 기자 = 현대로템이 미래 사업 경쟁력 강화를 위해 조직 개편을 단행했다고 1일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naf251a27",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702038400053",
-    "title": "경북도, 전국 하나로마트서 여름과일 최대 27% 할인 판매",
-    "summary": [
-      "(안동=연합뉴스) 손대성 기자 = 경북도가 소비심리 회복과 과수 농가 지원을 위해 전국 하나로마트 60곳에서 신비복숭아와 자두 등 경북 여름과일..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0883d5ea",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702037800002",
-    "title": "코빗, 모바일 앱 홈 화면 개편…\"주요 시장 지표 한눈에 확인\"",
-    "summary": [
-      "(서울=연합뉴스) 박수현 기자 = 국내 가상자산 거래소 코빗이 모바일 애플리케이션 홈 화면을 새롭게 개편했다고 2일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n613f9bb3",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702031200001",
-    "title": "韓총리 \"물가 관리 최우선…對중동협력 방안도 미리 준비\"",
-    "summary": [
-      "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 2일 중동전쟁 장기화 상황과 관련해 \"서민 생활에 부담이 되는 물가 관리에 최우선 집중해야 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n18a5df0d",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702036600003",
-    "title": "대우건설, '기술명인' 첫 선임…\"인재 우대·노하우 전수\"",
-    "summary": [
-      "(서울=연합뉴스) 임기창 기자 = 대우건설은 사내 전문가를 우대하고 기술과 노하우를 전파하고자 임직원 대상 '기술 명인' 제도를 도입했다고 2일..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9ce6972a",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260702036200002",
-    "title": "[게시판] 관세청, '원산지 국민감시단' 17일까지 공개 모집",
-    "summary": [
-      "[게시판] 관세청, '원산지 국민감시단' 17일까지 공개 모집."
-    ],
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702059900063",
+    "title": "[세종소식] '해외 선진 농업현장 연수' 참가 청년 농업인 15명 모집",
+    "summary": [],
     "chips": [
       "#채용"
     ]
   },
   {
-    "id": "n4d5169cd",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/202607020891i",
-    "title": "[마켓라이브] 코스피 6% 급락…유가증권시장 매도 사이드카",
+    "id": "nd5776b25",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260702/134222566/1",
+    "title": "“역대급 보안 비상”…뉴욕을 멈춰 세운 스타 커플의 결혼식",
     "summary": [
-      "[마켓라이브] 코스피 6% 급락…유가증권시장 매도 사이드카."
+      "세계적인 팝스타 테일러 스위프트와 미국프로풋볼(NFL) 스타 트래비스 켈리의 결혼식이 열리는 이번 주말 뉴욕 매디슨스퀘어가든(MSG) 주변이 전 세계의 주목을 받고 있다.",
+      "지난 1일(현지 시간) 뉴욕타임스(NYT) 보도에 따르면, 이번 행사는 목요일 리허설 디너를 시작으로 금요일 본식까지 이틀에 걸쳐 철저히 비공개로 진행된다.현장 경찰 관계자들은 이번 행사를 주변 지역에까지 광범위한 영향을 미치는 대규모 이벤트로 보고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n94a674f9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702064400057",
+    "title": "울주군, 도심 흉물 불법 현수막 잔재물 일제 정비",
+    "summary": [
+      "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 도심 속 위험 요소이자 흉물로 방치된 불법 현수막 잔재물을 제거하기 위해 일제 정비 사업에 나선..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n547cb7c0",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702062600009",
+    "title": "\"中 1∼5월 車수출 400만대 돌파…올해 1천만대 가능성\"",
+    "summary": [
+      "(서울=연합뉴스) 차병섭 기자 = 1∼5월 중국의 자동차 수출량이 이미 400만대를 넘겼고 올 한해 수출 규모가 1천만대에 이를 수 있다는 관측..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n7c1fbaaa",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702057400008",
+    "title": "KB증권, '소비자 보호의 날' 맞이 보이스피싱 예방 영상 제작",
+    "summary": [
+      "(서울=연합뉴스) 이민영 기자 = KB증권은 3분기 '소비자보호의 날'을 맞아 보이스피싱 예방법 관련 영상을 제작해 배포했다고 2일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne0093813",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260702/134222524/2",
+    "title": "이재용 “삼성의 꿈, 충청에서 결실…선제적 투자 통해 선순환 구조 만들겠다”",
+    "summary": [
+      "이재용 삼성전자 회장이 2일 이재명 대통령 주재로 충남 아산에서 열린 ‘충청권 첨단산업 발전비전 국민보고회’에서 “삼성의 꿈이 이곳 충청에서 뿌리내리고 자라고 결실을 봤다”며 “선제적 투자를 통해 기업 성장과 지역경제 발전이 맞물리는 선순환 구조를 만들겠다”고 말했다.2일 이 회장은 대한민국 대도약 3대 메가프로젝트 후속으로 열린 ‘충청권 첨단산업 발전비전 국민보고회’에 참석해 이같이 밝혔다.",
+      "행사에는 이재명 대통령을 비롯해 정부 관계자와 충청."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n58958231",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702057600008",
+    "title": "한화운용, 美VC 마시펜과 합작법인 '마시펜아시아' 설립",
+    "summary": [
+      "(서울=연합뉴스) 고은지 기자 = 한화자산운용은 미국 독립계 벤처캐피탈(VC)인 마시펜 캐피탈 파트너스와 문화산업 투자를 전담하는 합작법인 '마..."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n5b30bd0f",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702056400002",
+    "title": "기획처, '협동조합의 날' 행사…내년 재도약 원년 선포",
+    "summary": [
+      "(세종=연합뉴스) 송정은 기자 = 기획예산처는 2일 서울 코엑스 마곡컨벤션센터에서 '2026 협동조합의 날' 기념행사를 열고 내년을 재도약의 원..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8248d5d3",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702057000011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 10:30."
     ],
     "chips": [
       "#뉴스"
@@ -639,14 +640,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
