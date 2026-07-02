@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-02 15:59:15
+// 마지막 업데이트: 2026-07-02 17:47:45
 window.NEWS_DB = [
   {
     "id": "nb6df5091",
     "category": "스포츠",
     "source": "starnewskorea.com",
-    "time": "2시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
     "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
     "summary": [
@@ -111,16 +111,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n39e7993d",
+    "id": "n6b58f8f3",
     "category": "사회",
-    "source": "v.daum.net",
+    "source": "아주경제",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5bS1BSHRuV3Fqb3h6VW4yaGYzSWtjVXIzZVRGeS1vTVM2WHdfQ1Y1WFprTjc3TVJjRXRKbHIyWFB5RHZHdEE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
     ],
     "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nc5a25e66",
+    "category": "사회",
+    "source": "헤럴드경제",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yUmlXdEFvaDdfSmlkcGU4XzlVMzFkQXpEZjhpaUc4bWJzQ0tSeXVoOUFveUZGYVBjQXVVOGc1V0RJNDA4el9oVk5ieS1qU0dNVk5TZmtn?oc=5",
+    "title": "AI가 취업·채용 돕는다…고용24, 맞춤형 AI 고용서비스 3종 공개",
+    "summary": [
+      "AI가 취업·채용 돕는다…고용24, 맞춤형 AI 고용서비스 3종 공개 헤럴드경제."
+    ],
+    "chips": [
+      "#AI",
       "#채용",
       "#취업",
       "#고용"
@@ -290,18 +307,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
+    "id": "n5a1617c5",
     "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "140일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "source": "헤럴드경제",
+    "time": "51일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
-      "#재건축"
+      "#전세"
     ]
   },
   {
@@ -321,10 +338,42 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0ea89b21",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/03/GRTDENDGGMZDMOJVGZSDONJWMI/",
+    "title": "대박! BBC '日 미남 MF, 에버턴-본머스 영입 문의'…북중미 활약이 도화선?",
+    "summary": [
+      "[스포츠조선 박상경 기자] 2026 북중미월드컵에서 인상적인 활약을 펼친 나카무라 게이토(랭스)의 잉글랜드 프리미어리그 진출설이 불거져 나왔다.",
+      "영국 BBC는 3일(한국시각) '에버턴과 본머스, 풀럼이 나카무라 영입에 관심을 보이고 있다'고 전했다.",
+      "매체는 '에버턴과 본머스는 랭스에 나카무라 영입을 위해 어떤 조건이 필요한 지 문의했다'며 '일단 팀 내 공."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n51c5cb26",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/03/MZTDSN3DGFSGCMZVMRRDSNBYGU/",
+    "title": "100억 FA 잘 샀다는 말 이러니 나온다…\"타점왕 기대해도 된다\" 사령탑도 응원했다",
+    "summary": [
+      "[대전=스포츠조선 이종서 기자] \"이정도 왔으면 끝까지 가야죠.\" 한화 이글스는 올 시즌을 앞두고 과감하게 지갑을 열었다.",
+      "FA 시장에 나온 강백호를 4년 총액 100억원에 영입했다.",
+      "지난해 강백호는 다소 주춤한 모습을 보여줬다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nb4cb3976",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "12분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153089",
     "title": "AI 에이전트 권한 통제도 보안 영역으로...소프트캠프, 신규 설루션 2종 공개",
     "summary": [
@@ -335,10 +384,71 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2e179a4f",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703002100002",
+    "title": "달러-원, 야간서 예상 밑돈 美 고용에 낙폭 확대…1,540.00원 마감",
+    "summary": [],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n5fbeede3",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703001800091",
+    "title": "앤트로픽, 삼성과 AI칩 생산 논의…삼성 파운드리 '부활' 신호탄",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 모델 '클로드' 개발사 앤트로픽이 삼성전자와 AI 칩 생산을 논의 중인 것으로 나타났..."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nc62b3f4b",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003693803",
+    "title": "\"AI 시대, 정답만 찾는 공부는 끝났다”…서울대 교수가 제시한 공부법",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 신우진 인턴기자 = 인공지능(AI)의 급격한 발전으로 지식의 단순 재현 능력보다 새로운 문제에 유연하게 대응하는 ‘학습 민첩성’이 미래 인재의 핵심 역량이라는 제언이 나왔다.",
+      "주입식 문제 풀이와 점수 중심 교육에서 벗어나, 스스로 의미를 창출하는 독서와 내재적 동기 기반 학습으로의 전환이 필요하다는 분석이다.",
+      "신종호 서울대 교육학과 교수는 지난달 30일 구독자 110만 명 유튜브 채널 ‘책과삶’에 출연해 \"배운 것을."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n4d2b322a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/03/MMZDEMLEGFQTEMRZG4YGGYTGGU/",
+    "title": "어제는 4-6 연장 11회 극적 무승부→오늘은 5-7 뒤집은 9회 끝내기...이범호 감격 \"끝까지 포기 않아 좋은 결과\"",
+    "summary": [
+      "[OSEN=광주, 이선호 기자] \"끝까지 포기 않고 좋은 결과 만들었다\"KIA 타이거즈가 극적인 역전승을 거두며 3연승을 달렸다.",
+      "2일 광주-기아 챔피언스필드에서 열린 2026프로야구 SSG 랜더스와 경기를 8-7로 잡았다.",
+      "전날 4시간 22분자리 무승부 연장혈투에 이어 이틀연속 끈질긴 야구로 기어코 승리를 따냈다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n06f89926",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "18분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153090",
     "title": "이찬진 금감원장 만난 가상자산사업자들 \"경영환경 어려워...규제 다시 고려해달라\"",
     "summary": [
@@ -351,10 +461,58 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1e41c0a2",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694162",
+    "title": "美 고용 둔화에도 연준은 '인플레 우선'…금리 동결 무게",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 미국의 6월 고용지표가 시장 예상치를 크게 밑돌며 최근 3개월간 이어진 강한 고용 흐름이 다소 둔화됐지만, 연방준비제도(Fed·연준)는 여전히 인플레이션 억제에 정책 초점을 맞추며 당분간 기준금리를 동결할 가능성이 크다는 분석이 나왔다.",
+      "다만 연내 추가 금리 인상 가능성도 여전히 남아 있다는 평가다.",
+      "3일(현지 시간) 야후 파이낸스에 따르면 미국의 6월 비농업부문 고용은 5만7000명 증가하는 데 그쳐 시장 예상치."
+    ],
+    "chips": [
+      "#금리",
+      "#정책",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n7460151d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/03/MZSGEZTGGQYDSOBYHE2TAZRQGA/",
+    "title": "\"커피 배달 부탁해\" SF 신박한 루키 헤이징, 이정후가 밝힌 'K-커피' 문화는",
+    "summary": [
+      "[스포츠조선 박상경 기자] '루키 헤이징(Rookie hazing)'은 메이저리그의 짖���? 전통이다.",
+      "갓 프로 무대에 데뷔한 신인들에게 '팀의 일원'이 됐음을 상징하는 문화다.",
+      "우스꽝스런 옷을 입고 출근하게 하거나, 심부름을 시키는 등 팀마다 각양각색의 아이디어를 내놓는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n67eebc7d",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703001600009",
+    "title": "[월드컵] 손흥민 절친이 특별히 챙긴 물건은?…메시도 '박장대소'",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 2026 북중미 월드컵 32강전을 앞두고 마이애미로 이동하던 아르헨티나 축구대표팀이 공항 보안검색..."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
     "id": "n8333129b",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "55분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153085",
     "title": "[카드뉴스] 2030년 보안의 판이 뒤집힌다.. KT가 지금 '양자암호'에 올인하는 이유",
     "summary": [
@@ -367,115 +525,71 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncd2707f6",
+    "id": "nbfe77b5d",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/03/2026070300553558377",
-    "title": "트럼프 또 나토에 불만…\"미국에 돈 제일 많이 내는데 혜택 없어\"",
+    "source": "연합뉴스",
+    "time": "59분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703001500085",
+    "title": "WHO, 크루즈선발 한타바이러스 집단감염 종료 선언",
     "summary": [
-      "도널드 트럼프 미국 대통령이 2일(현지시간) \"북대서양조약기구(NATO·나토)에 미국이 돈을 제일 많이 내는데도 어떤 혜택도 얻지 못하고 있다\"고 주장했다.",
-      "트럼프 대통령은 이날 오전 소셜미디어 트루스소셜에 올린 글에서 \"말도 안 된다\"며 이같이 밝혔다.",
-      "이란전쟁 이후 나토 회원국들이 필요할 때 협조하지 않는다고 강하게 비난했던 데 이어 다시 한번 불만을 표한 것으로 풀이된다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nde4fb563",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/03/QYV4JO6WNVFA3AOEMBOHEXZ7BM/",
-    "title": "中당국 “베이징 빌딩 들이받은 조종사, 일기에 극단 선택 암시”",
-    "summary": [
-      "中당국 “베이징 빌딩 들이받은 조종사, 일기에 극단 선택 암시”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nffd39db6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/03/INSX5Z3FEFDRVKCO3TWTGQZ6VA/",
-    "title": "‘李 사건’ 수사남용 조사단에… 대검 감찰부장 “공정성 의문”",
-    "summary": [
-      "‘李 사건’ 수사남용 조사단에… 대검 감찰부장 “공정성 의문”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne71f5d52",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260702_0003692641",
-    "title": "\"닭가슴살은 삶지 말고 쪄라\"…백지연의 동안 몸매 비결 브런치",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 방송인 백지연이 60대에도 꾸준한 자기 관리로 변함없는 몸매를 유지하는 비법인 건강식단을 공개해 화제다.",
-      "최근 백지연은 자신의 유튜브 채널 '지금백지연'에서 자신만의 브런치 레시피를 소개했다.",
-      "먼저 닭가슴살을 준비한 그는 \"닭가슴살은 삶지 말고 쪄야 한다\"며 \"우유에 30분 정도 담가두면 비린내가 사라지고 육질이 부드러워진다\"고 말했다."
+      "(런던=연합뉴스) 김지연 특파원 = 세계보건기구(WHO)가 2일(현지시간) 대서양 크루즈선에서 발생한 한타바이러스 집단감염 사태의 종료를 선언했..."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nabb94d37",
+    "id": "n4f99b261",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/labor/2026/07/03/UZ5PJ55VFBHVNPBYVIGZSX2RJI/",
-    "title": "당일치기 심사·판정하는 노동위… 거짓 주장 못 거른다",
-    "summary": [
-      "당일치기 심사·판정하는 노동위… 거짓 주장 못 거른다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3de9fd2e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/labor/2026/07/03/XUUJ264UNBF7FJIXSR76L2M7BQ/",
-    "title": "노동위, 노란봉투법 이후 사건 40% 급증",
-    "summary": [
-      "노동위, 노란봉투법 이후 사건 40% 급증."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1a398e91",
-    "category": "경제",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694160",
-    "title": "비트코인, 美 고용지표 부진에 반등…6만2000달러 터치",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003693378",
+    "title": "\"딸이라는 이유로 평생 맞았다\"…60대 여성의 끔찍한 어린 시절",
     "summary": [
-      "[서울=뉴시스]박미선 기자 = 미국의 6월 고용지표가 시장 예상치를 크게 밑돌면서 비트코인이 반등했다.",
-      "2일(현지 시간) 야후파이낸스에 따르면 6만 달러를 밑돌았던 비트코인은 이날 한때 6만2000달러를 돌파했다.",
-      "비트코인은 지난달 금리 인상 우려가 커지면서 한 달 동안 20% 급락해 최근 4년 사이 가장 큰 월간 낙폭을 기록했다."
+      "[서울=뉴시스]김성은 인턴 기자 = 태어나자마자 딸이라는 이유로 친부에게 끔찍한 학대를 당했다는 60대 여성의 사연이 전해졌다.",
+      "지난 1일 JTBC '사건반장'에서는 어린 시절 친부의 폭력과 학대로 수십 년이 지난 지금까지도 고통 속에 살아가고 있다는 60대 여성 A씨의 사연이 소개됐다.",
+      "A씨에 따르면 아버지는 아들을 간절히 원했다고 한다."
     ],
     "chips": [
-      "#금리",
-      "#고용"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a5a571c",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202607033077i",
+    "title": "세메스, AI 포럼 2026 개최…\"반도체 장비 패러다임 전환\"",
+    "summary": [
+      "세메스, AI 포럼 2026 개최…\"반도체 장비 패러다임 전환\"."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n14f55c80",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003693618",
+    "title": "\"변 가늘어지고 체중감소\"…젊은층 '이 암' 급증",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 대장암은 오랫동안 중·장년층과 노년층에서 주로 발생하는 암으로 알려져 왔다.",
+      "실제로 나이가 들수록 대장암 발생 위험은 증가한다.",
+      "그러나 최근에는 비교적 젊은 연령층에서도 대장암 환자가 늘어나면서 더 이상 노인병으로만 볼 수 없는 질환이 되고 있다."
+    ],
+    "chips": [
+      "#의료"
     ]
   },
   {
     "id": "nf6bc2e83",
     "category": "경제",
     "source": "한국경제",
-    "time": "17분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607022265i",
     "title": "대구요트협회, 광복 81주년 '청년 독도 요트 항해 프로젝트' 출항",
     "summary": [
@@ -489,7 +603,7 @@ window.NEWS_DB = [
     "id": "nd7acc87f",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "19분 전",
+    "time": "2시간 전",
     "url": "https://biz.chosun.com/it-science/ict/2026/07/03/LX4H4WVH2VEFNMBI7YSB364O4M/",
     "title": "“앤트로픽, 삼성전자와 자제 칩 생산 논의”",
     "summary": [
@@ -503,7 +617,7 @@ window.NEWS_DB = [
     "id": "n599ac5c0",
     "category": "경제",
     "source": "한국경제",
-    "time": "21분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026070230291",
     "title": "김명수 전 합참의장, 내란가담 혐의 기소",
     "summary": [
@@ -514,121 +628,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n30aa5acb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703000900072",
-    "title": "美블루아울 사모대출펀드, 2분기 7조원대 투자자 환매 요청",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 사모대출펀드 운용사인 블루아울 캐피털(이하 블루아울)이 운용 중인 2개 펀드에서 2분기 중 총 7조원대 투자..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n125e1488",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703000500099",
-    "title": "민주콩고 에볼라 사망자 400명 넘어…우간다선 마버그 감염 확인",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)에서 에볼라 사망자가 400명을 넘어서며 확산세가 꺾이지 않고 있다...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb69747a4",
     "category": "사회",
     "source": "동아일보",
-    "time": "29분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260702/134227099/2",
     "title": "[지표로 보는 경제]7월 3일",
     "summary": [
       "[지표로 보는 경제]7월 3일."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne285f02f",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260702/134227195/2",
-    "title": "고물가에 가성비 ‘오프프라이스 매장’ 뜬다",
-    "summary": [
-      "고물가의 장기화로 소비 패턴이 프리미엄과 초저가로 갈리는 ‘K자형 소비’ 흐름이 이어지면서 유통사들이 가성비 매장인 ‘오프 프라이스’ 채널을 강화하고 있다.",
-      "브랜드 제품을 합리적인 가격에 사려는 소비자들을 겨냥해 새로운 성장 동력으로 키우려는 것이다.",
-      "2일 신세계백화점은 회사가 직접 운영하는 오프 프라이스 매장 ‘신세계 팩토리스토어’ 사업 확대에 나선다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n968bea8b",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260702/134227197/2",
-    "title": "SK “협력사와 상생” 8700억 기술-금융 지원 나서",
-    "summary": [
-      "SK그룹이 협력사에 대한 대금 지급 시기를 앞당기고 반도체 생태계의 경쟁력 강화를 위해 8700억 원 규모의 기술·금융 지원에 나선다.",
-      "1차 협력사뿐 아니라 2·3차 협력사까지 대금 지급 조건을 개선하고, 반도체 소재·부품·장비(소부장) 기업에는 실증시설과 연구개발(R&D) 지원을 확대해 상생협력 체계를 강화하겠다는 취지다.",
-      "공정거래위원회는 2일 서울 중구 SK텔레콤 타워에서 SK하이닉스와 SK텔레콤, SK에코플랜트 등 SK그룹 7개 계열사 및."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nbc6d0867",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260702/134227180/2",
-    "title": "해외 우수인재 유치 ‘K-테크패스’ 문턱 낮춘다",
-    "summary": [
-      "정부가 해외 우수 인재 유치 제도인 ‘K-테크패스(Tech Pass)’의 문턱을 대폭 낮춘다.",
-      "학력·경력·연봉 중심의 정량 평가 외에 기술 전문성 등을 반영하는 정성 평가 방식 등이 추가된다.",
-      "테크패스는 반도체 등 첨단산업 분야 해외 우수 인재에게 국내 최우수 인재 거주비자(F-2-T)와 세제·주거 지원 등을 제공하는 프로그램이다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "ncdc933b8",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703000700003",
-    "title": "LH 신임 사장에 이성훈 국토교통비서관",
-    "summary": [
-      "(서울=연합뉴스) 임기창 기자 = 약 8개월간 공석이던 한국토지주택공사(LH) 사장에 이성훈 청와대 국토교통비서관이 낙점됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36d09517",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "34분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/03/2026070300171596449",
-    "title": "\"운전 취소당한 거 아냐?\" 여자 4호, '애주가' 26기 영철 면허 '의심'",
-    "summary": [
-      "여자 4호가 '애주가' 이미지의 26기 영철을 향해 운전면허를 의심하며 거침없는 농담을 던졌다.",
-      "2일 방영된 SBS Plus '나는 SOLO, 그 후 사랑은 계속된다' 172회에서는 26기 영철과 여자 4호의 데이트가 공개됐다.",
-      "데이트에 나가기 전부터 두 사람은 뜻밖의 상황으로 웃음을 안겼다."
     ],
     "chips": [
       "#뉴스"
@@ -640,21 +647,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "tag": "AI",
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "삼성전자",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "채용",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
