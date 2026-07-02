@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-02 17:47:45
+// 마지막 업데이트: 2026-07-02 19:08:34
 window.NEWS_DB = [
   {
     "id": "nb6df5091",
     "category": "스포츠",
     "source": "starnewskorea.com",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
-    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
+    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
     "summary": [
-      "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위...",
+      "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위...",
       "2위는 KBO 홈런 1위 김도영 starnewskorea.com."
     ],
     "chips": [
@@ -111,14 +111,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6b58f8f3",
+    "id": "n04ff92de",
     "category": "사회",
-    "source": "아주경제",
+    "source": "v.daum.net",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rMVM4WE5iYkc3YUMwYk9QZnU4S2xRMVJISjRpQ1Nub0V0VHo4NWhfQjNfRXN5V3kyMDdGR3o3UUN5M3pOYzlLVDhBbHBzdVRWWDBGXw?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
     ],
     "chips": [
       "#채용",
@@ -234,20 +234,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f660c1e",
-    "category": "IT",
-    "source": "전라매일",
-    "time": "14일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
-    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
-    "summary": [
-      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -307,25 +293,254 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5a1617c5",
-    "category": "부동산",
-    "source": "헤럴드경제",
-    "time": "51일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "64일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "140일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
     ],
     "chips": [
       "#부동산",
-      "#전세"
+      "#재건축"
+    ]
+  },
+  {
+    "id": "nf0ee21e2",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694164",
+    "title": "앤트로픽, 삼성전자와 AI 칩 생산 검토…2나노 파운드리 '주목'",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 인공지능(AI) 모델 '클로드' 개발사인 앤트로픽이 자체 AI 칩 개발 초기 작업에 착수한 가운데, 잠재적 위탁생산(파운드리) 파트너로 삼성전자를 검토하고 있다는 외신 보도가 나왔다.",
+      "2일(현지 시간) 디인포메이션에 따르면 앤트로픽은 삼성전자의 2나노미터(nm) 공정과 첨단 패키징 기술 활용 가능성을 검토하고 있다.",
+      "다만 프로젝트는 아직 초기 단계로 구체적인 칩 설계나 생산 작업은 시작되지 않았으며, 최종적으로 사."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n0f102af0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260702_0003694086",
+    "title": "흐린 대구·경북, 일부 최대 30㎜ 소나기…낮 최고 31도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 3일 대구·경북은 대체로 흐리고 소나기가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"늦은 오후부터 저녁 사이 경북북부내륙과 경북북동산지 일부 지역에 소나기가 오는 곳이 있겠다\"고 예보했다.",
+      "예상 강수량은 5~30㎜다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3da3fc2f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026070304014604032",
+    "title": "美 블루아울 사모대출펀드, 2분기에도 47억달러 환매 요청",
+    "summary": [
+      "미국 사모대출 운용사 블루아울캐피털의 주요 비상장 사모대출 펀드 두 곳이 2분기에도 대규모 환매 요청에 직면했다.",
+      "2일(현지시간) 블룸버그통신에 따르면 블루아울이 투자자들에게 보낸 서한에서 약 340억달러 규모의 대표 펀드인 '블루아울 크레디트 인컴 코프'(OCIC)는 2분기 중 전체 지분의 18.8%에 해당하는 36억달러 규모의 환매 요청을 받았다.",
+      "이 펀드는 1분기에도 지분의 21.9%, 금액으로는 42억달러 규모의 환매 요청."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3bc3c2bc",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/international/us/2026/07/03/QM4KHFGODRFETCZROMIE2HLRWA/",
+    "title": "빅터 차 “韓이 우크라 지원 안 하면 러가 北지원 중단할 수도”",
+    "summary": [
+      "빅터 차 “韓이 우크라 지원 안 하면 러가 北지원 중단할 수도”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf185dd6a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/international/us/2026/07/03/GGAA4CADWZEYHNHNGZ47YIMKLM/",
+    "title": "백악관 “이재명 정부, 쿠팡 표적 삼아… 불공정 관행 용납하지 않을 것”",
+    "summary": [
+      "백악관 “이재명 정부, 쿠팡 표적 삼아… 불공정 관행 용납하지 않을 것”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na080b7ba",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/03/GRSTOYRXHFQTQYRVMNSTIOJTGQ/",
+    "title": "'파울 타구 맞고 1군 말소' 모두가 기다렸던 2년 연속 20홈런 타자, 첫 실전 소화...무안타보다 반가운 복귀 신호 [오!쎈 퓨처스]",
+    "summary": [
+      "[OSEN=손찬익 기자] 오른쪽 복숭아뼈 타박상으로 1군 엔트리에서 말소된 프로야구 삼성 라이온즈 내야수 김영웅이 1군 복귀를 향한 첫발을 내디뎠다.김영웅은 지난달 25일 잠실 LG 트윈스전에서 자신의 파울 타구에 오른쪽 복숭아뼈를 강하게 맞았고 26일 대구 KT 위즈전을 앞두고 1군 엔트리에서 말소됐다.김영웅은 지난 2일 경산볼파크에서 열린 KIA 타이거."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne95d728d",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "35분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260703/134229034/1",
+    "title": "美 고용 둔화에도 연준은 ‘인플레 우선’…금리 동결 무게",
+    "summary": [
+      "미국의 6월 고용지표가 시장 예상치를 크게 밑돌며 최근 3개월간 이어진 강한 고용 흐름이 다소 둔화됐지만, 연방준비제도(Fed·연준)는 여전히 인플레이션 억제에 정책 초점을 맞추며 당분간 기준금리를 동결할 가능성이 크다는 분석이 나왔다.",
+      "다만 연내 추가 금리 인상 가능성도 여전히 남아 있다는 평가다.3일(현지 시간) 야후 파이낸스에 따르면 미국의 6월 비농업부문 고용은 5만7000명 증가하는 데 그쳐 시장 예상치(11만3000명)를 크게 밑돌았."
+    ],
+    "chips": [
+      "#금리",
+      "#정책",
+      "#고용"
+    ]
+  },
+  {
+    "id": "neebb7eb2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "35분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260703/134229031/1",
+    "title": "美동부지역 기록적 폭염 강타…독립 250주년 행사 비상",
+    "summary": [
+      "미국 동부 지역을 역대급 중심으로 폭염이 기승을 부리고 있다.",
+      "폭염은 이번 주말까지 이어질 전망인데, 4일(현지 시간) 각지에서 예정된 250주년 독립기념일 행사에 비상이 걸렸다.2일 AP통신에 따르면 미 국립기상청은 이날 기록적인 폭염이 미 중부와 동부 지역 대부분에서 오는 3일까지 지속되고, 동부 해안지역의 경우 주말까지 이어질 것이라고 발표했다.",
+      "CNN은 기상청을 인용해 동부지역 전역에 걸쳐 약 1억6000만명이 폭염 경보 대상에 포함돼."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndcd1b9e4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260703/134229028/1",
+    "title": "주름 하나 없는 엄정화, 하와이에서도 놓치지 않은 건강 루틴…아침 메뉴는?",
+    "summary": [
+      "가수 겸 배우 엄정화(56)가 여행 중 챙겨 먹는 아침 식단을 공개했다.엄정화는 지난달 26일 자신의 유튜브 채널 ‘Umaizing 엄정화TV’를 통해 하와이 마우이섬 여행 영상을 게시했다.엄정화는 해변을 배경으로 아침 스트레칭을 마친 뒤 아침 식사 준비에 나섰다.엄정화는 먼저 셀러리와 케일을 깨끗이 손질한 뒤, 잘게 다진 양파와 토마토를 팬에 볶아 재료를 준비했다.",
+      "이어 달걀 네 개를 볼에 풀어 소금으로 간을 맞췄다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nbf2b0a28",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260703/134229025/1",
+    "title": "고준희도 실천하는 ‘고단백 식단’…비프 샐러드가 대사 건강에 좋은 이유",
+    "summary": [
+      "화려한 비주얼 뒤에 숨겨진 철저한 자기관리를 공개한 배우 고준희가 그 비결로 단백질 위주의 식단을 꼽았다.지난달 29일 유튜브 채널 ‘고준희 GO’에 ‘촬영 전날, 배우 고준희는 뭘 할까? | 고준희 밀착 24시’라는 제목의 영상이 게재됐다.",
+      "공개된 영상 속에서 고준희는 촬영 전날임에도 불구하고 고단백 식단을 챙기며 프로다운 면모를 보였다.",
+      "고준희는 식사 메뉴로 비프 콥 샐러드를 선택한 이유에 대해 “어제 인바디 측정 결과 단백질이 부족하다는."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nfdf88217",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703002400071",
+    "title": "美, 국제형사재판소 관할권 부인…트럼프 기소 가능성 대비용?",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 법무부는 국제형사재판소(ICC)의 미국인에 대한 재판 관할권을 인정하지 않겠다고 2일(현지시간) 밝혔..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a6c3878",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026070216162759936",
+    "title": "하루 1시간 더 오래 앉으면 암 사망 위험 9%↑…\"중간중간 일어나야\"[과학을읽다]",
+    "summary": [
+      "하루 동안 오래 앉아 있는 시간이 한 시간 늘어날 때마다 암으로 사망할 위험이 9%씩 증가한다는 연구 결과가 나왔다.",
+      "특히 단순히 '얼마나 오래 앉아 있었는지'보다 30분 이상 연속해서 앉아 있는 습관 자체가 암 발생과 사망 위험을 높이는 것으로 나타났다.",
+      "영국 글래스고대학교 연구팀은 영국 바이오뱅크(UK Biobank) 참가자 9만1292명을 평균 12년 이상 추적 관찰한 결과를 국제학술지 PLOS Medicine에 3일 발표했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n8efe97f4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260702093000017",
+    "title": "[건강포커스] \"오래 앉아 있을수록 암 위험↑…가벼운 움직임 늘리면 위험↓\"",
+    "summary": [
+      "(서울=연합뉴스) 이주영 기자 = 하루 중 장시간 연속해서 앉아 있는 것은 암 발생 및 사망 위험 증가와 관련이 있으며, 앉아 있는 시간을 가벼..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nad261454",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/07/03/ADQWOSLUZ5DT5I3OXGQRMYSJBE/",
+    "title": "[35화] 사람 중에는 여포가 으뜸, 말 중에는 적토가 최고라더니!",
+    "summary": [
+      "[35화] 사람 중에는 여포가 으뜸, 말 중에는 적토가 최고라더니!."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "na67184d8",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153093",
     "title": "[김효민의 AI시대 사고(思考)] 프롬프트 엔지니어링은 왜 과대평가되었는가",
     "summary": [
@@ -338,42 +553,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0ea89b21",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/03/GRTDENDGGMZDMOJVGZSDONJWMI/",
-    "title": "대박! BBC '日 미남 MF, 에버턴-본머스 영입 문의'…북중미 활약이 도화선?",
-    "summary": [
-      "[스포츠조선 박상경 기자] 2026 북중미월드컵에서 인상적인 활약을 펼친 나카무라 게이토(랭스)의 잉글랜드 프리미어리그 진출설이 불거져 나왔다.",
-      "영국 BBC는 3일(한국시각) '에버턴과 본머스, 풀럼이 나카무라 영입에 관심을 보이고 있다'고 전했다.",
-      "매체는 '에버턴과 본머스는 랭스에 나카무라 영입을 위해 어떤 조건이 필요한 지 문의했다'며 '일단 팀 내 공."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n51c5cb26",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/03/MZTDSN3DGFSGCMZVMRRDSNBYGU/",
-    "title": "100억 FA 잘 샀다는 말 이러니 나온다…\"타점왕 기대해도 된다\" 사령탑도 응원했다",
-    "summary": [
-      "[대전=스포츠조선 이종서 기자] \"이정도 왔으면 끝까지 가야죠.\" 한화 이글스는 올 시즌을 앞두고 과감하게 지갑을 열었다.",
-      "FA 시장에 나온 강백호를 4년 총액 100억원에 영입했다.",
-      "지난해 강백호는 다소 주춤한 모습을 보여줬다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb4cb3976",
     "category": "IT",
     "source": "테크M",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153089",
     "title": "AI 에이전트 권한 통제도 보안 영역으로...소프트캠프, 신규 설루션 2종 공개",
     "summary": [
@@ -387,7 +570,7 @@ window.NEWS_DB = [
     "id": "n2e179a4f",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260703002100002",
     "title": "달러-원, 야간서 예상 밑돈 美 고용에 낙폭 확대…1,540.00원 마감",
     "summary": [],
@@ -399,7 +582,7 @@ window.NEWS_DB = [
     "id": "n5fbeede3",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260703001800091",
     "title": "앤트로픽, 삼성과 AI칩 생산 논의…삼성 파운드리 '부활' 신호탄",
     "summary": [
@@ -415,7 +598,7 @@ window.NEWS_DB = [
     "id": "nc62b3f4b",
     "category": "IT",
     "source": "뉴시스",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260702_0003693803",
     "title": "\"AI 시대, 정답만 찾는 공부는 끝났다”…서울대 교수가 제시한 공부법",
     "summary": [
@@ -429,26 +612,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4d2b322a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/03/MMZDEMLEGFQTEMRZG4YGGYTGGU/",
-    "title": "어제는 4-6 연장 11회 극적 무승부→오늘은 5-7 뒤집은 9회 끝내기...이범호 감격 \"끝까지 포기 않아 좋은 결과\"",
-    "summary": [
-      "[OSEN=광주, 이선호 기자] \"끝까지 포기 않고 좋은 결과 만들었다\"KIA 타이거즈가 극적인 역전승을 거두며 3연승을 달렸다.",
-      "2일 광주-기아 챔피언스필드에서 열린 2026프로야구 SSG 랜더스와 경기를 8-7로 잡았다.",
-      "전날 4시간 22분자리 무승부 연장혈투에 이어 이틀연속 끈질긴 야구로 기어코 승리를 따냈다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n06f89926",
     "category": "사회",
     "source": "테크M",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153090",
     "title": "이찬진 금감원장 만난 가상자산사업자들 \"경영환경 어려워...규제 다시 고려해달라\"",
     "summary": [
@@ -461,58 +628,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1e41c0a2",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694162",
-    "title": "美 고용 둔화에도 연준은 '인플레 우선'…금리 동결 무게",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 미국의 6월 고용지표가 시장 예상치를 크게 밑돌며 최근 3개월간 이어진 강한 고용 흐름이 다소 둔화됐지만, 연방준비제도(Fed·연준)는 여전히 인플레이션 억제에 정책 초점을 맞추며 당분간 기준금리를 동결할 가능성이 크다는 분석이 나왔다.",
-      "다만 연내 추가 금리 인상 가능성도 여전히 남아 있다는 평가다.",
-      "3일(현지 시간) 야후 파이낸스에 따르면 미국의 6월 비농업부문 고용은 5만7000명 증가하는 데 그쳐 시장 예상치."
-    ],
-    "chips": [
-      "#금리",
-      "#정책",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n7460151d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/03/MZSGEZTGGQYDSOBYHE2TAZRQGA/",
-    "title": "\"커피 배달 부탁해\" SF 신박한 루키 헤이징, 이정후가 밝힌 'K-커피' 문화는",
-    "summary": [
-      "[스포츠조선 박상경 기자] '루키 헤이징(Rookie hazing)'은 메이저리그의 짖���? 전통이다.",
-      "갓 프로 무대에 데뷔한 신인들에게 '팀의 일원'이 됐음을 상징하는 문화다.",
-      "우스꽝스런 옷을 입고 출근하게 하거나, 심부름을 시키는 등 팀마다 각양각색의 아이디어를 내놓는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n67eebc7d",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703001600009",
-    "title": "[월드컵] 손흥민 절친이 특별히 챙긴 물건은?…메시도 '박장대소'",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 2026 북중미 월드컵 32강전을 앞두고 마이애미로 이동하던 아르헨티나 축구대표팀이 공항 보안검색..."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
     "id": "n8333129b",
     "category": "IT",
     "source": "테크M",
-    "time": "55분 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153085",
     "title": "[카드뉴스] 2030년 보안의 판이 뒤집힌다.. KT가 지금 '양자암호'에 올인하는 이유",
     "summary": [
@@ -522,123 +641,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "nbfe77b5d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "59분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703001500085",
-    "title": "WHO, 크루즈선발 한타바이러스 집단감염 종료 선언",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 세계보건기구(WHO)가 2일(현지시간) 대서양 크루즈선에서 발생한 한타바이러스 집단감염 사태의 종료를 선언했..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n4f99b261",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260702_0003693378",
-    "title": "\"딸이라는 이유로 평생 맞았다\"…60대 여성의 끔찍한 어린 시절",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 태어나자마자 딸이라는 이유로 친부에게 끔찍한 학대를 당했다는 60대 여성의 사연이 전해졌다.",
-      "지난 1일 JTBC '사건반장'에서는 어린 시절 친부의 폭력과 학대로 수십 년이 지난 지금까지도 고통 속에 살아가고 있다는 60대 여성 A씨의 사연이 소개됐다.",
-      "A씨에 따르면 아버지는 아들을 간절히 원했다고 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a5a571c",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607033077i",
-    "title": "세메스, AI 포럼 2026 개최…\"반도체 장비 패러다임 전환\"",
-    "summary": [
-      "세메스, AI 포럼 2026 개최…\"반도체 장비 패러다임 전환\"."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n14f55c80",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260702_0003693618",
-    "title": "\"변 가늘어지고 체중감소\"…젊은층 '이 암' 급증",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 대장암은 오랫동안 중·장년층과 노년층에서 주로 발생하는 암으로 알려져 왔다.",
-      "실제로 나이가 들수록 대장암 발생 위험은 증가한다.",
-      "그러나 최근에는 비교적 젊은 연령층에서도 대장암 환자가 늘어나면서 더 이상 노인병으로만 볼 수 없는 질환이 되고 있다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf6bc2e83",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/202607022265i",
-    "title": "대구요트협회, 광복 81주년 '청년 독도 요트 항해 프로젝트' 출항",
-    "summary": [
-      "대구요트협회, 광복 81주년 '청년 독도 요트 항해 프로젝트' 출항."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd7acc87f",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "2시간 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/03/LX4H4WVH2VEFNMBI7YSB364O4M/",
-    "title": "“앤트로픽, 삼성전자와 자제 칩 생산 논의”",
-    "summary": [
-      "“앤트로픽, 삼성전자와 자제 칩 생산 논의”."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n599ac5c0",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026070230291",
-    "title": "김명수 전 합참의장, 내란가담 혐의 기소",
-    "summary": [
-      "김명수 전 합참의장, 내란가담 혐의 기소."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb69747a4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260702/134227099/2",
-    "title": "[지표로 보는 경제]7월 3일",
-    "summary": [
-      "[지표로 보는 경제]7월 3일."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -653,13 +655,13 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "삼성전자",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "삼성전자",
     "mentions": "1680건",
     "trend": "+155%"
   }
