@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-03 08:47:50
+// 마지막 업데이트: 2026-07-03 11:25:15
 window.NEWS_DB = [
   {
     "id": "nda209a8b",
     "category": "IT",
     "source": "뉴스투데이",
-    "time": "3시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zNDN1MWRGZU9vSmxPR2V0UXdueXFRcnRsZGxpTDhFVEhwUzhnR3Z1eHZmRU9zbHhpVFFWOWNBbDFDaHQ5T2NXcm9XUTVuOHg1YTFnWjRHdTdaaG1nWFE?oc=5",
     "title": "‘AI 거품론’과 삼성전자 SK하이닉스의 ‘보험’",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nec851840",
     "category": "경제",
     "source": "이투데이",
-    "time": "6시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNm9sbTdsUzYzbTZSOW5VVnNna25pd0pFQ2h4aTczdVpla1ZRWGJjLWxoRU01Rlk5b0RLb3hHTHRCckRleE1FelJBNWYwYzVreVBaMw?oc=5",
     "title": "한은 금리 인상에 '환율ㆍ시장금리' 안정화될까⋯\"비용충격 악화가 변수\"",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n48c48642",
     "category": "IT",
     "source": "더구루",
-    "time": "7시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZktmUFNHOWg1Yjl4WVkxSk5kbXd4UUw5bVN2X2hqY0lMTkpfN0lSUWxfSjB5UUZzaE9kTEtxNnVtR2cwNENMRlFiX1JGUHlfNWkxZE5NZ2JFSlpQdEpMWkxnbw?oc=5",
     "title": "[단독] '엔비디아 날개 단' 두산, AI 휴머노이드 로드맵 전격 공개…독일 점유율 10배 폭풍 성장 정조준",
     "summary": [
@@ -48,15 +48,29 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne8170296",
+    "id": "nb6df5091",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLejF4VGVGVlFyTHJkWEtydGtySUtjM3BVRXEzTVhPa3dxdkFLY3pwNEpEZlpKNWNJa25yM3Jwa1ZQLWRfWDdaZ3RFbkgyamhLSnhfSFFkLVgzclc4bG1QbXdWcUpycVU3enpwaUY1VdIBb0FVX3lxTFBLejF4VGVGVlFyTHJkWEtydGtySUtjM3BVRXEzTVhPa3dxdkFLY3pwNEpEZlpKNWNJa25yM3Jwa1ZQLWRfWDdaZ3RFbkgyamhLSnhfSFFkLVgzclc4bG1QbXdWcUpycVU3enpwaUY1VQ?oc=5",
-    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영 - 머니투데이",
+    "source": "starnewskorea.com",
+    "time": "22시간 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
+    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
     "summary": [
-      "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위...",
-      "2위는 KBO 홈런 1위 김도영 - 머니투데이 머니투데이."
+      "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위...",
+      "2위는 KBO 홈런 1위 김도영 starnewskorea.com."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n95597478",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIZzdlX2ExQ0Nabkx6TW01eUlQQzFJTVh6cXpmMzBJRENNUkFrcTRjOUhhUTRJdUxicmFDRmw2d0pVZDhlQTVoeXZtZ0VHM1VNQ1VJc05RMVhJVTFQcWFCTg?oc=5",
+    "title": "[프로야구] 2027 KBO 신인드래프트 참가 접수 시작…오는 8월 22일까지 진행",
+    "summary": [
+      "[프로야구] 2027 KBO 신인드래프트 참가 접수 시작…오는 8월 22일까지 진행 네이트."
     ],
     "chips": [
       "#KBO"
@@ -95,20 +109,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n60642578",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDSmgxU2VHMG5SbGFpa01NbDdBWFNsUVJvcXA4M0ptdXRRWlZnTmlia211TzBhZ0JpREcwNElXeWs1WnM0SjhIdDVsZjVOQ3NUX2RTV2U2aW1OaFpNTGc5Ng?oc=5",
-    "title": "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행",
-    "summary": [
-      "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nf5332d7e",
     "category": "IT",
     "source": "연합뉴스",
@@ -141,33 +141,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n04ff92de",
+    "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
     "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rMVM4WE5iYkc3YUMwYk9QZnU4S2xRMVJISjRpQ1Nub0V0VHo4NWhfQjNfRXN5V3kyMDdGR3o3UUN5M3pOYzlLVDhBbHBzdVRWWDBGXw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
       "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
     ],
     "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "nc5a25e66",
-    "category": "사회",
-    "source": "헤럴드경제",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yUmlXdEFvaDdfSmlkcGU4XzlVMzFkQXpEZjhpaUc4bWJzQ0tSeXVoOUFveUZGYVBjQXVVOGc1V0RJNDA4el9oVk5ieS1qU0dNVk5TZmtn?oc=5",
-    "title": "AI가 취업·채용 돕는다…고용24, 맞춤형 AI 고용서비스 3종 공개",
-    "summary": [
-      "AI가 취업·채용 돕는다…고용24, 맞춤형 AI 고용서비스 3종 공개 헤럴드경제."
-    ],
-    "chips": [
-      "#AI",
       "#채용",
       "#취업",
       "#고용"
@@ -221,20 +204,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nde229885",
-    "category": "IT",
-    "source": "한국보험신문",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
-    "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
-    "summary": [
-      "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장” 한국보험신문."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n9cecfc4c",
     "category": "부동산",
     "source": "한국경제",
@@ -278,14 +247,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31af3cbd",
+    "id": "n32bf68e2",
     "category": "경제",
-    "source": "에너지경제신문",
+    "source": "v.daum.net",
     "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
-    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
     "summary": [
-      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
     ],
     "chips": [
       "#금리",
@@ -320,6 +289,21 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "65일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
     ]
   },
   {
@@ -388,250 +372,61 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7f820512",
+    "id": "n86e6bcae",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026070317460878083",
-    "title": "용인시, 리브스메드와 550억 투자유치 MOU 체결…의료기기 산업 거점 강화",
-    "summary": [
-      "경기 용인특례시(시장 이상일)가 첨단 의료기기 제조기업 ㈜리브스메드와 손잡고 지역 내 메디컬 산업 생태계 확장에 나선다.",
-      "용인특례시는 3일 시청 접견실에서 ㈜리브스메드와 '공장 설립 및 투자 유치를 위한 업무협약(MOU)'을 체결했다고 밝혔다.",
-      "이번 협약에 따라 용인특례시는 리브스메드의 공장 설립 과정 전반에 걸쳐 인허가 등 행정 지원을 제공하고, 기업 활동이 원활히 진행될 수 있도록 맞춤형 행정 서비스를 지원한다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6e45104e",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260703/134233103/1",
-    "title": "삼성, 호남 425조 이어 영남 60조 투자… 권역별 첨단산업 거점 조성",
-    "summary": [
-      "삼성이 호남권에 425조 원 규모 투자 계획을 밝힌 데 이어 영남권에도 약 60조 원을 투입한다.",
-      "권역별 산업 특성에 맞춰 첨단 제조·AI·에너지·조선 거점을 구축하고 지역 경제 활성화와 일자리 창출을 동시에 추진하겠다는 구상이다.삼성은 3일 경남 진주시 경상국립대에서 열린 ‘영남권 첨단산업 발전비전 국민보고회’에서 영남을 ‘글로벌 피지컬 AI 혁신 클러스터’로 조성하기 위해 약 60조 원을 투자할 계획이라고 밝혔다.이번 투자에는 삼성전자, 삼."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n2206d59e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703112952017",
-    "title": "한국판 스타링크 띄운다…2035년 세계 시장점유율 3% 확보(종합)",
-    "summary": [
-      "(서울=연합뉴스) 조승한 기자 = 정부가 위성 수백기로 구축되는 한국형 저궤도 위성통신망을 2035년까지 완성하고 달 착륙 시점도 2030년으로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7219e2a1",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703139400081",
-    "title": "폭염 지나가니 산불 기승…축구장 1천330개 면적 불탄 프랑스",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 기록적인 폭염이 지나간 프랑스가 이번엔 동시다발적인 산불로 몸살을 앓고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4fe3b1ca",
-    "category": "사회",
-    "source": "뉴시스",
+    "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695496",
-    "title": "민주당 경남도의원 \"국힘, 의장단 배분 요구 거부땐 보이콧\"",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/03/MJSTCZBTHAYTSOBTMQYGIMLEGY/",
+    "title": "이창섭, ‘흑백2’ 선재스님 조카였다..“한 번도 이모라 불러본 적 無” (이창섭&저창섭)",
     "summary": [
-      "[창원=뉴시스]홍정명 기자 = 경남도의회 더불어민주당 김경수 대표의원 등은 3일 오후 도의회 4층 문화강좌실에서 의원총회를 열어 전반기 의장단 후보를 내지 않기로 결정했다고 밝혔다.",
-      "민주당은 \"지난 2018년 제11대 의회 때 다수당이었던 민주당은 국민의힘에 부의장 1석과 상임위원장 2석을 양보한 바 있다\"면서 \"이에 국민의힘에 도민의 민의를 반영한 의석수 비율에 따른 합리적인 의장단 구성을 요구하며, 부의장 1석과 상임위원장 2석을 제안했으나."
+      "[OSEN=박하영 기자] 이창섭이 '외당이모'이자 사찰음식 명장 1호 선재스님을 만났다.",
+      "3일 유튜브 채널 ‘이창섭&저창섭’에는 ‘선재 스님이 이모면 생기는 일’이라는 제목의 영상이 게재됐다.이날 이창섭은 “오늘은 드디어 이모를 만나러 간다.",
+      "연예계에 제가 가지고 있는 가장 큰 권력 바로 선재스님을 만나러 갑니다”라고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8fb9d5be",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695462",
-    "title": "\"일본, 인도와 밀월 배경엔 '中견제'…일부 온도차도\"(종합)",
-    "summary": [
-      "[서울·베이징=뉴시스]김예진 기자, 박정규 특파원 = 나렌드라 모디 인도 총리와 다카이치 사나에(高市早苗) 일본 총리가 중국 견제를 염두에 두고 '밀월' 관계를 연출했으나, 일부 온도차도 보인다는 분석이 일본 언론에서 나왔다.",
-      "◆반도체·중요광물 협력에 2조엔 투자까지…경제 안보 협력 강화 3일 요미우리신문, 니혼게이자이신문(닛케이) 등을 종합하면 인도 수도 뉴델리를 방문한 다카이치 총리는 전날 모디 총리와 약 1시간 반 간 회담했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n0bd41a11",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695494",
-    "title": "나주시, 장애인콜택시 18대로 확대…교통약자 편의 강화",
-    "summary": [
-      "[나주=뉴시스]이창우 기자 = 전남광주통합특별시 나주시가 교통약자 이동권 보장과 이동 편의 향상을 위해 장애인콜택시 특별교통수단을 증차했다.",
-      "3일 나주시에 따르면 이날 나주시장애인연합회관에서 특별교통수단 신규 차량 전달식을 열고 본격적인 운행을 시작했다.",
-      "이번에 도입한 차량은 휠체어 슬로프를 갖춘 특별교통수단으로, 노후 차량 1대를 교체하고 신규 차량 1대를 추가 확보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n51bad878",
+    "id": "n6baacd28",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/03/HAZDCNJZMNRTOOJYGI2DSNZQHA/",
-    "title": "'속전속결→사태수습' HERE WE GO 속보! 독일축구협회, '성적 부진' 나겔스만 경질→'리버풀 레전드' 클롭 협상 시작..'2년 만에 현장 복귀'",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/03/MVQTCZBTMU4DIZJQHEYTGY3DMY/",
+    "title": "홈런-홈런-홈런, 또 터졌다...강백호, 3경기 연속 홈런, 타점 1위 질주",
     "summary": [
-      "[스포츠조선 노주환 기자]이번 북중미월드컵에서 실망스런 성적을 낸 독일 축구 대표팀 율리안 나겔스만 감독이 감독직에서 물러났다.",
-      "독일축구협회는 바로 차기 감독 선임 절차에 들어갔다.",
-      "후임은 리버풀 레전드 사령탑 위르겐 클롭이 될 가능성이 매우 높다."
+      "[OSEN=잠실, 한용섭 기자] 프로야구 한화 이글스 강백호가 3경기 연속 홈런을 터뜨렸다.",
+      "강백호는 3일 서울 잠실구장에서 열린 LG 트윈스와 경기에 4번 지명타자로 선발 출장했다.",
+      "강백호는 1회 2사 1루에서 2루수 포구 실책으로 출루했다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n438b4bfb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/economy/real_estate/2026/07/03/MVTGKZRXMNQTANTEGMYDGYTDGI/",
-    "title": "KIND, 신입·경력 공개 채용…15일까지 접수",
-    "summary": [
-      "한국해외인프라도시개발지원공사(이하 KIND)는 오는 15일까지 2026년 신규 인재 채용을 실시한다고 3일 밝혔다.",
-      "이번 채용에서는 정규직과 계약직을 포함해 총 19명을 선발한다.",
-      "모집 분야는 ▲경력직 도시컨설팅 1명 ▲경력직 사업 개발(플랜트) 1명 ▲경력직 사업 개발(인프라·플랜트) 2명 ▲경력직 펀드관리 3명 ▲신입직 일반 4명 ▲신입직 보훈 1명 ▲."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n2f424d95",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/03/GA2TSY3EGY4GIMLGME4TQOBWGE/",
-    "title": "신예은, 첫사랑 미모 뽐내며 애교 포즈 [O! STAR 숏폼]",
-    "summary": [
-      "[OSEN=민경훈 기자] 배우 신예은이 3일 오후 서울 성수동 매장에서 뷰티 아울렛 브랜드 포토 행사에 참석했다.배우 신예은이 포즈를 취하고 있다.",
-      "2026.07.03 / rumi@osen.co.kr."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n50f3c4c1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695390",
-    "title": "스마트인재개발원, AI 콘퍼런스…\"선택 넘어 기본 역량\"",
-    "summary": [
-      "[전남광주=뉴시스] 배상현 기자 = 스마트인재개발원이 3일 광주 CGI센터 3층 대회의실에서 'AI Transformation 2026: AX가 만드는 새로운 기회' 콘퍼런스를 개최했다.",
-      "이번 콘퍼런스는 AI 기술이 산업과 일자리 전반에 가져오는 변화를 짚어보고, AI 시대에 필요한 역량과 준비 방향을 공유하기 위해 마련됐다.",
-      "행사는 온·오프라인 생중계 방식으로 진행됐으며, AI와 디지털 전환에 관심 있는 지역 청년 및 구직자 등이 온·오프라인."
-    ],
-    "chips": [
-      "#AI",
-      "#재건축",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "na50f34c7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703139000061",
-    "title": "추미애, 간호사 '태움' 사망에 \"공정 근로환경 만들것\" 지시",
-    "summary": [
-      "(수원=연합뉴스) 최찬흥 기자 = 추미애 경기도지사는 최근 광주의 한 병원에서 일하던 20대 간호사가 '태움'으로 불리는 직장 내 괴롭힘 끝에 ..."
-    ],
-    "chips": [
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n8d8a165d",
-    "category": "경제",
+    "id": "n28eb3ce6",
+    "category": "IT",
     "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026070317320401362",
-    "title": "中-日 25개 항공노선 운항 '제로'…반사이익 본 나라는?",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026070320134069780",
+    "title": "[단독]이언주, '합성 음란물 유포' 기업인 경찰에 고소",
     "summary": [
-      "냉랭한 중일 관계가 수개월째 이어지고 있는 가운데 지난달 양국을 잇는 25개 항공노선에서 모든 항공편의 운항이 취소된 것으로 전해졌다.",
-      "3일 연합뉴스에 따르면 중국 매체 제일재경·글로벌타임스는 이날 항공정보 플랫폼 '항반관자(航班管家) DAST'를 인용해 지난달 중국 본토 발 일본행 항공편 가운데 1488편이 취소돼 취소율이 37.5%에 이르렀다고 보도했다.",
-      "일례로 베이징 다싱 국제공항과 일본 오사카 간사이 국제공항을."
+      "이언주 더불어민주당 의원이 자신의 얼굴을 합성한 음란 이미지와 모욕성 게시물을 사회관계망서비스(SNS)에 유포한 박사 출신 기업인을 경찰에 고소했다.",
+      "이 의원 법률대리인 법무법인 오른하늘은 성폭력처벌법상 허위영상물 편집·반포 및 모욕 혐의로 기업인 A씨를 서울경찰청 사이버수사과에 고소했다고 3일 밝혔다.이 의원 측은 고소장을 통해 \"선정적 합성 이미지와 성적 비하 표현을 결합한 게시물은 정치적 의견 표명이나."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n28900366",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703139200053",
-    "title": "법원, 경주대 교직원 임금체불 학교법인 원석학원 파산선고",
-    "summary": [
-      "(경주=연합뉴스) 손대성 기자 = 신경주대학교가 소속된 학교법인 원석학원(이사장 김영호)이 법원으로부터 파산을 선고받았다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n3870a991",
+    "id": "n61570e56",
     "category": "사회",
     "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260703/134232930/1",
-    "title": "셀트리온, 2분기 영업이익률 33%… “합병 이슈 털어내고 성장 본궤도”",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260703/134233969/2",
+    "title": "김민석 “배재고 사과 다행…역사교육으로 조롱·혐오 종식시켜야”",
     "summary": [
-      "셀트리온은 올해 2분기 연결기준 매출 1조3000억 원, 영업이익 4300억 원의 경영실적(잠정)을 기록했다고 3일 밝혔다.",
-      "작년 동기 대비 매출이 35.2%, 영업이익은 77.3% 성장한 수치로 전반적인 수익성이 대폭 개선된 실적을 보였다.",
-      "이에 따라 영업이익률은 25%에서 33% 수준으로 뛰었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd729232",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026070317320505350",
-    "title": "\"해코지 당할라\" 배재고 '지역 비하 논란'에 한시적 사복 허용",
-    "summary": [
-      "전국고교야구대회에서 부적절한 응원 구호로 논란이 일었던 서울 배재고등학교가 학생들의 안전을 우려해 한시적으로 사복 착용을 허용하기로 했다.",
-      "3일 배재고 학부모 등에 따르면 배재고는 당분간 학생들이 교복 대신 사복을 입고 등교하도록 안내했다.",
-      "교복을 입은 학생들이 외부에서 위해를 당할 수 있다는 우려가 제기되면서다."
+      "김민석 전 국무총리가 5·18 민주화운동을 폄훼하는 응원 구호로 논란을 빚은 배재고 야구부가 상대팀인 광주제일고를 찾아 사과하기로 한 것과 관련해 “올바른 역사교육으로 5·18 조롱과 혐오를 종식시켜야 한다”고 밝혔다.김 전 총리는 3일 자신의 엑스(X·옛 트위터)에 ‘올바른 역사교육으로 5·18 조롱과 혐오를 종식시킵시다’라는 제목의 글을 올리고 “배재고 야구부 학생들이 광주제일고를 찾아 사과하고 5·18 민주묘지를 참배한다고 한다”며 “늦었."
     ],
     "chips": [
       "#KBO",
@@ -639,14 +434,213 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7feee51a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "14분 전",
-    "url": "https://www.hankyung.com/article/202607034652H",
-    "title": "배재고, 교복 대신 사복 등교…근조화환까지 등장",
+    "id": "n41c593f7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/03/GBTDAYTCMNSDMN3GMYYDINLBGU/",
+    "title": "\"조타를 위해 이겼다\" 호날두, 21번 유니폼 입고 눈물...리버풀은 안필드에 'Forever 20' 영구 추모",
     "summary": [
-      "배재고, 교복 대신 사복 등교…근조화환까지 등장."
+      "[OSEN=정승우 기자] 크리스티아누 호날두(41, 알 나스르)가 디오구 조타의 유니폼을 들고 눈물을 흘렸다.",
+      "포르투갈의 승리는 세상을 떠난 동료를 향한 헌정이었다.영국 '데일리 메일'은 3일(한국시간) \"호날두가 크로아티아전 승리 후 조타의 이름이 새겨진 유니폼을 입고 눈물을 보였다.",
+      "포르투갈은 조타를 위해 이겼다\"라고 보도했다.포르투갈은 이날 2026."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naa101b20",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695611",
+    "title": "한화 강백호, LG전서 선제 솔로포 '쾅'…3경기 연속 홈런",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 프로야구 한화 이글스의 강백호가 3경기 연속 대포를 가동했다.",
+      "강백호는 3일 잠실구장에서 벌어진 2026 신한 쏠 KBO리그 LG 트윈스와의 경기에 4번 지명타자로 선발 출전해 0-0으로 맞선 6회초 왼쪽 담장을 넘기는 선제 솔로 홈런을 쏘아올렸다.",
+      "6회초 1사 주자 없는 상황에 타석에 들어서 LG 선발 라클란 웰스를 상대한 강백호는 볼카운트 1볼-2스트라이크에서 5구째 시속 145㎞ 가운데 높은 직구를 노려쳐 홈."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n80c11fd0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/opinion/manmulsang/2026/07/03/HXV2PGV26FG4RBT7F575AXMIFY/",
+    "title": "[만물상] “그따위로 축구하려면”",
+    "summary": [
+      "[만물상] “그따위로 축구하려면”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n720592a1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695587",
+    "title": "시중은행마저 고객정보 유출 사고…내부통제 다시 도마",
+    "summary": [
+      "[서울=뉴시스] 이정필 기자 = 국내 대형 시중은행에서 고객 개인정보가 유출되는 사고가 발생했다.",
+      "고객 자금을 직접 다루며 가장 안전해야 할 은행마저 허점을 드러내면서 민감한 개인정보가 금융권에서도 지속적으로 새고 있다는 지적이 커진다.",
+      "3일 금융권에 따르면 우리은행에서는 최근 대체불가토큰(NFT) 플랫폼 구축 프로젝트를 수행한 외부 개발업체가 임의로 보관하고 있던 개인정보 1만7551건이 해당 업체 직원의 과실로 유출되는 사고가 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd5cb3dcc",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260703/134233958/1",
+    "title": "WMO “향후 몇달 엘니뇨 급격히 강해져 극단적 기후 가능성 커”",
+    "summary": [
+      "열대 태평양에서 발생한 엘니뇨 현상이 앞으로 몇 달 동안 급격히 강해질 것으로 예상되며, 이로 인해 세계 여러 지역에서 폭염, 가뭄, 폭우 및 기타 극한 기상 현상이 발생할 가능성이 높아질 것이라고 세계기상기구(WMO)가 3일 경고했다.WMO의 월간 글로벌 계절기후 업데이트에 따르면 엘니뇨는 2026년 7월부터 9월까지 강력하게 발전할 것으로 예상된다.",
+      "주요 세계 기상예측 기관들의 다중 모델 앙상블 예측에 따르면 주요 모니터링 지역에서 계절 평."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n34c3d6c9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260703/134233955/1",
+    "title": "폭염 덮친 프랑스…31만원 에어컨 사려 몸싸움까지",
+    "summary": [
+      "프랑스에서 기록적인 폭염이 이어지는 가운데 저가 에어컨을 구매하려는 시민들이 대형 할인마트로 몰리면서 곳곳에서 몸싸움과 고성이 오가는 소동이 벌어졌다.지난 2일(현지 시간) 프랑스24에 따르면 독일계 할인마트 리들(Lidl)은 이날 프랑스 전역의 매장에서 이동식 에어컨과 선풍기 등 냉방기기 20만 대를 할인 판매했다.",
+      "다른 매장에서는 에어컨 가격이 1200유로(약 210만원)를 웃도는 경우가 대부분이었지만, 리들은 기본형 이동식 에어컨을 최저."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd273e7e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695609",
+    "title": "영탑사 문화유산 담은 에코백…관광명품점서 인기",
+    "summary": [
+      "[당진=뉴시스]김덕진 기자 = 충남 당진시는 3일 문화체육관광부 지정 전통사찰 영탑사를 배경으로 만든 에코백이 서울 한국관광명품점에서 절찬리에 판매 중이라고 밝혔다.",
+      "시에 따르면 이 에코백은 지난 3월 코엑스에서 열린 내나라여행박람회에 출품된 후 한국을 찾은 관광객이 즐겨 찾는 쇼핑 명소 중 하나인 명품점에 입점했다.",
+      "명품점은 대한민국관광기념품 공모전 수상 제품을 비롯해 나전칠기, 섬유, 보석, 잡화 등 순수 국내 제작 상품들만 판매한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6f9a209f",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026070320094590399",
+    "title": "[내일날씨]전국 흐리고 남부·제주 장맛비…제주 산지 150㎜ 이상",
+    "summary": [
+      "토요일인 4일은 전국이 대체로 흐리고, 제주도와 남부 지방을 중심으로 장마 전선의 영향이 이어지겠다.",
+      "전남 남부와 제주도에 이어 새벽부터 그 밖의 전남권과 경남 남해안, 오전부터 그 밖의 경남권, 밤부터 충청권 남부와 전북·경북 남부로 비가 확대되겠다.",
+      "오전까지 전남 남부와 제주도를 중심으로 돌풍과 함께 천둥·번개를 동반한 시간당 20∼30㎜의 강한 비가 내리겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n36f49589",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260703/134233948/1",
+    "title": "‘정보사 요원 명단 유출’ 문상호, 1심 징역 2년 불복…쌍방항소",
+    "summary": [
+      "12·3 비상계엄 당시 부정선거 의혹 수사를 위한 제2수사단 구성을 위해 정보사 요원 명단을 민간인에게 유출한 혐의로 1심에서 실형을 선고받은 문상호 전 정보사령관 사건이 항소심으로 넘어간다.3일 법조계에 따르면 문 전 사령관이 지난달 30일 서울중앙지법에 항소장을 제출한 데 이어 내란특검팀(특별검사 조은석)도 지난 1일 항소장을 제출했다.",
+      "서울중앙지법 형사합의26부(부장판사 이현경)는 지난달 26일 군형법상 군기누설, 개인정보보호법 위반 등."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9e07e16e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703156400082",
+    "title": "[월드컵] '32강 탈락' 독일 나겔스만 감독 사임",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 율리안 나겔스만(38) 독일 축구대표팀 감독이 북중미 월드컵 조기 탈락에 책임을 지고 중도 사퇴했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3e78b148",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026070319474679484",
+    "title": "사진 찍으려면 기본 30분…수원 명물 장미 훼손 60대 \"꺾꽂이하려고\"",
+    "summary": [
+      "경기 수원시의 한 유명 장미 명소에서 장미꽃과 가지를 무단으로 꺾어간 피의자가 범행 동기와 관련해 \"삽목(꺾꽂이)하려고 했다\"고 진술한 것으로 알려졌다.",
+      "\"꺾꽂이하려 했다\"…혐의 인정3일 경찰에 따르면 수원팔달경찰서는 지난달 29일 절도 혐의를 받는 60대 여성 A씨를 피의자 신분으로 소환조사했다.",
+      "A씨는 경찰 조사에서 혐의를 인정하며 \"삽목하려고 했다\"고 진술한 것으로 전해졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1519f2d8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703147900004",
+    "title": "[날씨] 전국 흐리고 남부지방 장맛비…제주 산지 150㎜ 이상 폭우",
+    "summary": [
+      "(서울=연합뉴스) 정지수 기자 = 토요일인 4일은 전국이 대체로 흐리고 제주도와 남부 지방에는 장맛비가 이어지겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n87d787d5",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "29분 전",
+    "url": "https://view.asiae.co.kr/article/2026070319553231907",
+    "title": "시진핑, 육·공군 장성 2명 대장 승진…군 지도부 공백 보강",
+    "summary": [
+      "시진핑 중국 국가주석이 중앙군사위 감찰 책임자와 공군부사령관을 각각 상장(대장)으로 승진시켰다.",
+      "3일 중국중앙TV(CCTV)에 따르면 시 주석은 이날 장성민 중앙군사위 부주석 주재로 베이징에서 열린 진급식에서 장수광 중국 인민해방군 육군 기율검사위원회 중장과 왕강 공군 부사령원(부사령관)에게 상장 진급 명령서를 수여했다.",
+      "중국에서 상장은 한국군의 대장급으로, 현역 장교가 받을 수 있는 최고 군 계급이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf9c7d10d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703125051001",
+    "title": "당정청 워크숍서 '원팀' 강조…전대 주자들에 플래시 세례(종합)",
+    "summary": [
+      "(서울=연합뉴스) 김정진 박재하 정연솔 기자 = 더불어민주당 의원들이 3일 한 자리에 모여 이재명 정부 집권 2년 차 국정과제와 22대 후반기 ..."
     ],
     "chips": [
       "#뉴스"
@@ -659,20 +653,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "채용",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
