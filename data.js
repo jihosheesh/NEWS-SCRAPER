@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-03 13:41:01
+// 마지막 업데이트: 2026-07-03 15:48:03
 window.NEWS_DB = [
   {
     "id": "nda209a8b",
     "category": "IT",
     "source": "뉴스투데이",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zNDN1MWRGZU9vSmxPR2V0UXdueXFRcnRsZGxpTDhFVEhwUzhnR3Z1eHZmRU9zbHhpVFFWOWNBbDFDaHQ5T2NXcm9XUTVuOHg1YTFnWjRHdTdaaG1nWFE?oc=5",
     "title": "‘AI 거품론’과 삼성전자 SK하이닉스의 ‘보험’",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nec851840",
     "category": "경제",
     "source": "이투데이",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNm9sbTdsUzYzbTZSOW5VVnNna25pd0pFQ2h4aTczdVpla1ZRWGJjLWxoRU01Rlk5b0RLb3hHTHRCckRleE1FelJBNWYwYzVreVBaMw?oc=5",
     "title": "한은 금리 인상에 '환율ㆍ시장금리' 안정화될까⋯\"비용충격 악화가 변수\"",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n48c48642",
     "category": "IT",
     "source": "더구루",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZktmUFNHOWg1Yjl4WVkxSk5kbXd4UUw5bVN2X2hqY0lMTkpfN0lSUWxfSjB5UUZzaE9kTEtxNnVtR2cwNENMRlFiX1JGUHlfNWkxZE5NZ2JFSlpQdEpMWkxnbw?oc=5",
     "title": "[단독] '엔비디아 날개 단' 두산, AI 휴머노이드 로드맵 전격 공개…독일 점유율 10배 폭풍 성장 정조준",
     "summary": [
@@ -221,14 +221,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nde229885",
+    "id": "n78705fb2",
     "category": "IT",
-    "source": "한국보험신문",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
-    "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
+    "source": "유니콘팩토리",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWnNlNmVCQ1gxZWZCTURNaXRQY1JGdWR6OVltQWZSa2xGeEwza3ZXNXRsQWJ1Tk96X0wxMlgtc2FpUm04YVhpRDhqY29hSlN1RE9Na1pHeEtyN3ZiYzg1b0NQY1JwU2RtazlQLQ?oc=5",
+    "title": "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국'",
     "summary": [
-      "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장” 한국보험신문."
+      "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국' 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -250,20 +250,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f660c1e",
-    "category": "IT",
-    "source": "전라매일",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
-    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
-    "summary": [
-      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -278,14 +264,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31af3cbd",
+    "id": "n32bf68e2",
     "category": "경제",
-    "source": "에너지경제신문",
+    "source": "v.daum.net",
     "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
-    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
     "summary": [
-      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
     ],
     "chips": [
       "#금리",
@@ -320,6 +306,21 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "65일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
     ]
   },
   {
@@ -388,260 +389,254 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n246bfe4f",
+    "id": "n420c09a2",
     "category": "사회",
     "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/politics/blue_house/2026/07/03/Q5QZGZI7TNE4ZCXBAI7NRRRAXI/",
-    "title": "[단독] 李대통령, 장동혁 대표 가족상에 근조화환 보냈다",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/07/04/7D3TQ67FQZHUNO774SN3Y72DBI/",
+    "title": "“강북 개발땐 공공기여 부담 절반 축소”",
     "summary": [
-      "[단독] 李대통령, 장동혁 대표 가족상에 근조화환 보냈다."
+      "“강북 개발땐 공공기여 부담 절반 축소”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n763eee63",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/national/transport-environment/2026/07/04/MD6PXTF2KBABXCFIQMSMNNAV54/",
+    "title": "주말 나들이 실내로 가야겠네",
+    "summary": [
+      "주말 나들이 실내로 가야겠네."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74010e02",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/07/04/WXO2ZSFJQZB2RJD6Y6VE6Q5UE4/",
+    "title": "로봇 축구, 내가 이길테야",
+    "summary": [
+      "로봇 축구, 내가 이길테야."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44915396",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/national/welfare-medical/2026/07/04/HQX4V6REMRE4TJNZN3EXDHZDN4/",
+    "title": "믿을 건 선풍기와 냉감이불뿐… 쪽방촌은 올여름이 특히 두렵다",
+    "summary": [
+      "믿을 건 선풍기와 냉감이불뿐… 쪽방촌은 올여름이 특히 두렵다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb7b2e01",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "7분 전",
+    "url": "https://www.hankyung.com/article/2026070351611",
+    "title": "서울시, 기부채납 부담 확 낮춘다…공공기여율 60→30%",
+    "summary": [
+      "서울시, 기부채납 부담 확 낮춘다…공공기여율 60→30%."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n52228942",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "13분 전",
+    "url": "https://www.hankyung.com/article/2026070351621",
+    "title": "경찰, '딸 임용 특혜 의혹' 유승민 前의원 입건",
+    "summary": [
+      "경찰, '딸 임용 특혜 의혹' 유승민 前의원 입건."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf553a31",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704000400071",
+    "title": "美재무, 트럼프의 '가상화폐 대박' 논란에 \"문제없어 보여\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 재집권 후 재산이 급격히 불어난 도널드 트럼프 미국 대통령의 '가상화폐 대박' 논란에 대해 스콧 베선트 미..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nde6d6909",
+    "id": "n26d2439b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694350",
+    "title": "10년 연애 끝 성매매 발각…이별 통보하자 \"재산 나눠달라\" 적반하장",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 10년간 결혼을 전제로 교제하고 동거해 온 남자친구의 성매매 사실을 알게 되어 결별을 선언하자 오히려 재산분할과 대여금 반환을 요구하며 소송을 걸어 고통받고 있는 30대 여성의 사연에 대한 법조계의 조언이 전해졌다.",
+      "3일 YTN 라디오 '조인섭 변호사의 상담소'에서는 병원에서 만난 의료기기 영업사원과 10년째 교제하다 배신을 당한 간호사 A씨의 고민이 소개됐다.",
+      "A씨와 상대방은 양가 부모님의 응원 속에 오랜."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc2d6d7fc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "36분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695078",
+    "title": "폴란드 여객기 '납치 오신호'에…3개국 전투기 뜨고 회항 소동",
+    "summary": [
+      "[서울=뉴시스]정우영 인턴 기자 = 폴란드 바르샤바에서 이스라엘 텔아비브로 향하던 폴란드 항공 여객기가 하이재킹(공중납치) 오신호를 보내 주변 3개국 전투기가 비상 출격하는 소동이 벌어졌다.",
+      "1일(현지시간) 글로벌 항공 매체 에어로타임에 따르면 승객 180여명을 태우고 바르샤바를 출발한 'LOT 폴란드 항공' LO155편 여객기는 운항 중 불법 침입과 납치를 뜻하는 국제 표준 스쿼크 코드(Squawk Code) '7500'을 송신했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n580f8139",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "36분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694363",
+    "title": "조민아 \"매일 줄넘기 1000개씩…예전엔 35분에 3000개\"",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 가수 조민아(42)가 몸매 관리의 비결로 '줄넘기'를 언급했다.",
+      "지난 1일 가수 서인영(41)의 유튜브 채널 영상에 출연한 조민아는 복근 운동으로 줄넘기를 추천했다.",
+      "그는 \"예전에는 매일 3000개씩 했는데 지금은 시간이 없어서 1000개를 한다\"면서 \"3000개를 해도 35분밖에 안 걸린다\"고 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n102cd8c6",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695644",
-    "title": "'7경기 6홈런' 한화 강백호 \"타율 3할·30홈런·100타점 해보고 싶다\"",
+    "time": "43분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694456",
+    "title": "최미나수 \"단식원도 다녀왔다\"…몸매·멘탈 관리 비법 공개",
     "summary": [
-      "[서울=뉴시스]김희준 기자 = 최근 홈런쇼를 펼치고 있는 프로야구 한화 이글스의 강백호가 타율 3할과 30홈런, 100타점 동시 달성에 대한 의욕을 한껏 드러냈다.",
-      "강백호는 3일 잠실구장에서 벌어진 2026 신한 쏠 KBO리그 LG 트윈스와의 경기에 4번 지명타자로 선발 출전해 홈런 두 방을 몰아치는 등 4타수 2안타 4타점 2득점으로 불꽃타를 휘둘렀다.",
-      "강백호 뿐 아니라 노시환의 홈런포까지 터진 한화는 선두 LG를 8-1로 완파하며 기세를 한."
+      "[서울=뉴시스]김성은 인턴 기자 = 방송인 최미나수가 탄탄한 몸매와 미모를 유지하는 자신만의 관리 비법을 공개했다.",
+      "미스 어스 우승자이자 넷플릭스 예능 '솔로지옥'으로 얼굴을 알린 최미나수는 2일 유튜브 채널 '일일칠'에 출연해 \"힐을 신을 때가 많다 보니 다리 관리를 꾸준히 한다\"며 붓기 관리부터 식단, 멘탈 관리까지 자신의 일상을 소개했다.",
+      "그는 가장 먼저 하체 관리 비결을 공개했다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n521d029b",
+    "id": "n59755f88",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/03/SNWJZNJISJBFZPZWQF4EHWKBAE/",
-    "title": "‘투표용지 부족 집회’ 보며 골프 연습하고 수당…선관위 직원, 정직 1개월",
+    "source": "동아일보",
+    "time": "47분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260704/134235121/1",
+    "title": "하메네이 시신, 美 독립기념일에 공개…이란, 상징성 극대화",
     "summary": [
-      "‘투표용지 부족 집회’ 보며 골프 연습하고 수당…선관위 직원, 정직 1개월."
+      "미국과 이스라엘 공습으로 사망한 아야톨라 알리 하메네이 전 이란 최고지도자의 장례식이 미국 독립기념일인 오는 4일(현지 시간)에 시작되는 가운데 이란이 종교적·정치적 상징성을 극대화하려는 의도를 담았다는 분석이 나온다.3일(현지 시간) AP통신, CNN에 따르면 하메네이의 시신은 오는 4일 공개될 예정이다.",
+      "이날은 미국이 도널드 트럼프 미국 대통령의 연설을 비롯한 대규모 기념행사를 열어 독립기념일을 기념하는 날과 겹친다.장례 일정은 시아파의 주."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n47e474c0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/03/2026070322084391497",
-    "title": "[한번에쓱]승리 주역들은 줄을 서시오! '랜더스 6-4로 잡은' 삼성",
-    "summary": [
-      "삼성 박진만 감독과 선수들이 3일 인천SSG랜더스필드에서 열리는 2026KBO리그 SSG랜더스와 삼성라이온즈 경기에서 6-4로 승리한 후 하이파이브를 나누며 자축하고 있다.",
-      "결승타와 3타점 주인공 구자욱, 승리투수 원태인, 솔로홈런과 2루타로 2타점을 올린 최형우가 박진만감독과 하이파이브를 나누고 있다.",
-      "삼성 박진만 감독과 선수들이 3일 인천SSG랜더스필드에서 열리는 2026KBO리그 SSG랜더스와 삼성라이온즈 경기에서 6."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n4e05a905",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/03/MNSGINBRMZSWGYZUGUZTKNBZMY/",
-    "title": "즐라탄, '크로아티아 득점 취소'에 극대노...\"완벽한 도둑질, 호날두는 팀을 인질로 잡고 있어\"",
-    "summary": [
-      "[OSEN=정승우 기자] 즐라탄 이브라히모비치(45)가 포르투갈과 크로아티아의 월드컵 경기 판정에 강한 불만을 드러냈다.",
-      "크리스티아누 호날두(41, 포르투갈)를 향한 비판도 거침없었다.이탈리아 '가제타 델로 스포르트'는 3일(한국시간) \"즐라탄 이브라히모비치가 크로아티아의 득점 취소 장면을 두고 '도둑질'이라고 표현했다.",
-      "그는 포르투갈과 스페인의 16강전을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd8fdd057",
+    "id": "n8bf2e5e4",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703146051081",
-    "title": "친러 우크라 재벌 노린 모나코 테러…인터폴, 우크라女 수배(종합)",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 모나코 공국에 거주하는 친러시아 성향 우크라이나 재벌을 노린 폭탄 테러의 용의자로 우크라이나 국적의 30대 ..."
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4f20cf50",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703161100082",
-    "title": "핵무기 빗장 푸는 유럽…리투아니아도 금지 해제하기로",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 유럽 안보 환경이 급변하면서 핀란드에 이어 발트해 연안국 리투아니아도 자국에 핵무기를 배치할 수 있도록 법..."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nd4e27e28",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/07/03/KQBIQ3TL65AYDNFW2GZMDXNOHM/",
-    "title": "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다”",
-    "summary": [
-      "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8051048f",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/03/2026070322233024561",
-    "title": "[한번에쓱]'고명준 거포본능이 깨어난다' 삼성전 2홈런 기록하며 타격감 찾아",
-    "summary": [
-      "SSG 거포 고명준이 3일 인천SSG랜더스필드에서 열리는 2026KBO리그 SSG랜더스와 삼성라이온즈 경기에서 2홈런을 기록하며 타격감을 깨웠다.",
-      "8회말 솔로홈런을 터트린 고명준이 홈인하고 있다.",
-      "하지만 랜더스는 삼성에 4-6으로 패하며 7연패에 빠졌다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n93c906f5",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695645",
-    "title": "'회식 몇 번 한 걸로'…숨진 20대 소방관 비하 댓글, 경찰 수사",
-    "summary": [
-      "[전남광주=뉴시스]변재훈 기자 = 직장 내 괴롭힘(갑질)을 호소하다 스스로 생을 마감한 20대 여성 소방관을 비하하는 공무원 내부 익명 게시판 댓글에 대해 경찰이 수사에 나섰다.",
-      "광주경찰청 사이버범죄수사대는 광산소방서 소속 고(故) A소방교 유족이 최근 '전남광주특별시 공무원 내부 익명게시판에 A소방교에 대해 비하하는 듯한 댓글을 쓴 작성자를 처벌해 달라'며 고소장을 접수했다.",
-      "유족은 고소장에서 \"익명 내부 게시판에 A소방교의 죽음에 대해 '회."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nccdf2757",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703160700007",
-    "title": "프로야구 2위 삼성, SSG 완파…1위 LG와 1.5경기 차(종합)",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 프로야구 2위 삼성 라이온즈가 SSG 랜더스를 꺾고 1위 LG 트윈스를 1.5경기 차로 추격했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5b664da9",
+    "id": "n9e0b67d0",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/03/2026070322084815957",
-    "title": "\"회식 몇 번 하자고 한 걸로\"…숨진 여성 소방관 비하한 공무원들",
+    "source": "한국경제",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/2026070351767",
+    "title": "가상의 무속인 '조말례' 가스라이팅…지인 부부에 66억원 뜯었다",
     "summary": [
-      "직장 내 갑질을 호소하다 스스로 목숨을 끊은 20대 여성 소방교를 비하하는 글이 전남광주통합특별시 공무원 게시판에 잇따라 올라와 경찰이 수사에 나섰다.",
-      "3일 광주경찰청에 따르면 최근 전남광주 광산소방서 소속 A 소방교의 죽음을 비하한 게시글 작성자를 처벌해 달라는 내용의 유족 고소장이 접수됐다.",
-      "고소장에는 \"상사가 회식을 몇 번 하자고 한 것 가지고\" 등 A 소방교를 비하하는 내용의 글이 공무원 내부 게시판에 게시됐다며 작성자를 사자명예훼손 등."
+      "가상의 무속인 '조말례' 가스라이팅…지인 부부에 66억원 뜯었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n19e58eaa",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/03/2026070321502571382",
-    "title": "이동국 세 딸, 폭풍 성장 근황…모델 언니보다 키 큰 수아 '깜짝'",
-    "summary": [
-      "전 축구선수 이동국의 세 딸 근황이 공개됐다.",
-      "지난 2일 이동국의 아내 이수진씨는 자신의 인스타그램에 사진을 게재했다.",
-      "사진에는 서울 성동구 성수동에서 열린 브랜드 팝업스토어에 참석한 딸들의 모습이 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0bf6e541",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695652",
-    "title": "與워크숍서 당권주자 한 테이블…장외선 檢수사권 등 신경전(종합)",
-    "summary": [
-      "[서울=뉴시스] 김난영 정금민 권신혁 김윤영 기자 = 더불어민주당 차기 당권 주자들이 당내 워크숍에 나란히 참석했다.",
-      "이들은 한 테이블에 앉아 서로 웃으며 화기애애한 모습을 보였지만, 당내 현안을 두고는 장외 공방을 벌였다.",
-      "정청래 전 대표와 김민석 전 국무총리, 송영길 의원은 3일 오후 서울 용산에서 열린 의원 워크숍에 따로 도착했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d332fed",
+    "id": "n6b01cf80",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260703/134234910/1",
-    "title": "‘옥문아’ 윤종신 “‘좋니’로 27년 만의 음방 1위…저작권료도 1위”",
+    "time": "49분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260703/134235118/1",
+    "title": "손흥민, 음바페보다 빨랐다…최고 스프린트 ‘시속 35.2㎞’",
     "summary": [
-      "‘옥탑방의 문제아들’ 가수 윤종신이 ‘좋니’를 최고의 효자곡으로 꼽았다.3일 오후 방송된 KBS 2TV 예능 프로그램 ‘옥탑방의 문제아들’(이하 ‘옥문아’)에는 연예계 소문난 단짝, 31년 지기 가수 윤종신과 감독 장항준의 이야기가 이어졌다.많은 명곡을 탄생시킨 가요계 거장 윤종신은 그동안 대진운이 좋지 않아 음악 방송 1위를 하지 못했다고 고백해 모두를 놀라게 했다.",
-      "이후 윤종신은 워너원, 선미 등의 쟁쟁한 경쟁자를 꺾고, ‘좋니’로 데뷔 2."
+      "손흥민(34·LA FC)이 2026 국제축구연맹(FIFA) 북중미 월드컵에서 골과 도움 등 공격 포인트를 기록하지 못했지만, 30대 중반에도 그의 스피드는 여전히 ‘월드 클래스’였다.3일(한국시간) 영국 BBC에 따르면 손흥민은 FIFA가 발표한 대회 조별리그 1차전 기준 가장 빠른 스프린트 순위에서 시속 35.2㎞로 48개국 선수 중 ‘전 토트넘 동료’ 제드 스펜스(잉글랜드)와 공동 7위에 이름을 올렸다.이는 같은 기간 시속 35.1㎞를 기록."
     ],
     "chips": [
-      "#뉴스"
+      "#손흥민"
     ]
   },
   {
-    "id": "n82c479e7",
+    "id": "n81aa3ee8",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260703/134234907/1",
-    "title": "홍명보 선임 논란 재점화…박주호 2년 전 폭로 영상 재조명",
+    "time": "49분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260703/134235113/1",
+    "title": "‘부임 3연패’ 마줄스 농구 감독 “4쿼터 들어 분위기 넘어가”",
     "summary": [
-      "2024년 홍명보 감독 선임 과정을 둘러싼 논란이 다시 불거진 가운데, 당시 전력강화위원회 내부를 폭로했던 박주호의 유튜브 영상이 축구팬들 사이에서 재조명되고 있다.박주호 해설위원이 오는 6일 서울 올림픽파크텔에서 출범하는 ‘K-축구 혁신위원회’ 위원으로 참여하는 만큼, 과거 그가 공개했던 감독 선임 과정과 대한축구협회 운영을 둘러싼 문제 제기에 다시 관심이 쏠리고 있다.지난 2024년 7월 8일 구독자 74만명을 보유한 캡틴 파추호 유튜브 채."
+      "2027 국제농구연맹(FIBA) 농구 월드컵 아시아 예선 1라운드 탈락 위기에 직면한 니콜라이스 마줄스(라트비아) 한국 남자 농구 대표팀 감독이 아쉬웠던 4쿼터를 패인으로 꼽았다.마줄스 감독은 3일 고양소노아레나에서 열린 대만과의 대회 아시아 예선 1라운드 B조 5차전에서 80-82 역전패를 당한 뒤 기자회견에서 “정말 아쉬운 경기였다.",
+      "3쿼터 동안 잡고 있었던 분위기가 4쿼터에서 날아갔다”고 전했다.이어 “4쿼터에 브랜든 길벡을 제대로 막지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfc258981",
+    "id": "n993ea219",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694349",
-    "title": "평생 뒷바라지했는데 명절 선물로 '썩은 굴비'…어머니 울린 아들 부부",
+    "source": "동아일보",
+    "time": "50분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260703/134235110/1",
+    "title": "‘딸 인천대 교수 특혜 임용 의혹’ 유승민 경찰 조사…11시간만에 귀가",
     "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 아들 부부가 독립 후 어머니에게 명절 선물로 '썩은 굴비'를 보냈다는 사연이 전해졌다.",
-      "지난 1일 JTBC '사건반장'은 세 살 어린 남동생 때문에 어머니가 고생하고 있다는 30대 여성 A씨의 제보를 보도했다.",
-      "A씨의 남동생은 어릴 때부터 잔병치레가 심했다."
+      "딸의 인천대학교 교수 임용 특혜 의혹과 관련해 입건된 유승민 전 국회의원이 경찰에서 약 11시간 동안 피의자 조사를 받은 뒤 귀가했다.3일 경찰 등에 따르면 인천경찰청 반부패경제범죄수사대는 이날 오전 10시부터 유 전 의원을 피의자 신분으로 불러 조사한 뒤 오후 10시 무렵 귀가 조치했다.유 전 의원은 딸인 유담 인천대 무역학부 교수의 임용 과정에서 인천대의 공정한 채용 업무를 방해한 혐의를 받고 있다.유 전 의원은 조사를 마친 뒤 취재진을 만."
     ],
     "chips": [
-      "#뉴스"
+      "#수출",
+      "#채용",
+      "#정치",
+      "#교육"
     ]
   }
 ];
@@ -651,8 +646,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -662,7 +657,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "채용",
     "mentions": "1810건",
     "trend": "+175%"
   }
