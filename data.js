@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-03 15:48:03
+// 마지막 업데이트: 2026-07-03 17:12:30
 window.NEWS_DB = [
   {
     "id": "nda209a8b",
     "category": "IT",
     "source": "뉴스투데이",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zNDN1MWRGZU9vSmxPR2V0UXdueXFRcnRsZGxpTDhFVEhwUzhnR3Z1eHZmRU9zbHhpVFFWOWNBbDFDaHQ5T2NXcm9XUTVuOHg1YTFnWjRHdTdaaG1nWFE?oc=5",
     "title": "‘AI 거품론’과 삼성전자 SK하이닉스의 ‘보험’",
     "summary": [
@@ -18,10 +18,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n3964de2f",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NMllWMXFlaDFlUW1oZGtIdWNyLVNycl9QbEpNeGNFbkxnVTF4NXJpSXdtWGRTV1lNMG1CTzRVaU5pdktDV19mcGFaTXpiSDN6Ml9zb2JCM05kREV5TFNTYg?oc=5",
+    "title": "[오피셜] KBO 올스타전 드림·나눔 유니폼 공개",
+    "summary": [
+      "[오피셜] KBO 올스타전 드림·나눔 유니폼 공개 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nec851840",
     "category": "경제",
     "source": "이투데이",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNm9sbTdsUzYzbTZSOW5VVnNna25pd0pFQ2h4aTczdVpla1ZRWGJjLWxoRU01Rlk5b0RLb3hHTHRCckRleE1FelJBNWYwYzVreVBaMw?oc=5",
     "title": "한은 금리 인상에 '환율ㆍ시장금리' 안정화될까⋯\"비용충격 악화가 변수\"",
     "summary": [
@@ -36,7 +50,7 @@ window.NEWS_DB = [
     "id": "n48c48642",
     "category": "IT",
     "source": "더구루",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZktmUFNHOWg1Yjl4WVkxSk5kbXd4UUw5bVN2X2hqY0lMTkpfN0lSUWxfSjB5UUZzaE9kTEtxNnVtR2cwNENMRlFiX1JGUHlfNWkxZE5NZ2JFSlpQdEpMWkxnbw?oc=5",
     "title": "[단독] '엔비디아 날개 단' 두산, AI 휴머노이드 로드맵 전격 공개…독일 점유율 10배 폭풍 성장 정조준",
     "summary": [
@@ -48,29 +62,15 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb6df5091",
+    "id": "ne8170296",
     "category": "스포츠",
-    "source": "starnewskorea.com",
+    "source": "머니투데이",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
-    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLejF4VGVGVlFyTHJkWEtydGtySUtjM3BVRXEzTVhPa3dxdkFLY3pwNEpEZlpKNWNJa25yM3Jwa1ZQLWRfWDdaZ3RFbkgyamhLSnhfSFFkLVgzclc4bG1QbXdWcUpycVU3enpwaUY1VdIBb0FVX3lxTFBLejF4VGVGVlFyTHJkWEtydGtySUtjM3BVRXEzTVhPa3dxdkFLY3pwNEpEZlpKNWNJa25yM3Jwa1ZQLWRfWDdaZ3RFbkgyamhLSnhfSFFkLVgzclc4bG1QbXdWcUpycVU3enpwaUY1VQ?oc=5",
+    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영 - 머니투데이",
     "summary": [
-      "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위...",
-      "2위는 KBO 홈런 1위 김도영 starnewskorea.com."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n95597478",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIZzdlX2ExQ0Nabkx6TW01eUlQQzFJTVh6cXpmMzBJRENNUkFrcTRjOUhhUTRJdUxicmFDRmw2d0pVZDhlQTVoeXZtZ0VHM1VNQ1VJc05RMVhJVTFQcWFCTg?oc=5",
-    "title": "[프로야구] 2027 KBO 신인드래프트 참가 접수 시작…오는 8월 22일까지 진행",
-    "summary": [
-      "[프로야구] 2027 KBO 신인드래프트 참가 접수 시작…오는 8월 22일까지 진행 네이트."
+      "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위...",
+      "2위는 KBO 홈런 1위 김도영 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#KBO"
@@ -221,14 +221,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n78705fb2",
+    "id": "nde229885",
     "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWnNlNmVCQ1gxZWZCTURNaXRQY1JGdWR6OVltQWZSa2xGeEwza3ZXNXRsQWJ1Tk96X0wxMlgtc2FpUm04YVhpRDhqY29hSlN1RE9Na1pHeEtyN3ZiYzg1b0NQY1JwU2RtazlQLQ?oc=5",
-    "title": "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국'",
+    "source": "한국보험신문",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
+    "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
     "summary": [
-      "창업도, 재도전도 부정적…갈길 먼 '벤처 4대 강국' 유니콘팩토리."
+      "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장” 한국보험신문."
     ],
     "chips": [
       "#스타트업"
@@ -250,6 +250,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6f660c1e",
+    "category": "IT",
+    "source": "전라매일",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
+    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
+    "summary": [
+      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -264,14 +278,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n32bf68e2",
+    "id": "n41662a21",
     "category": "경제",
-    "source": "v.daum.net",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
-    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
+    "source": "이코노미스트",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iSWRhLVNaYWE4OGtUTkJaaHhXT0dWZmlJLXkyWGVqQlRLdE4wbF9HZXR4cHVEcTFJc2NHWXU0Sk9QZnRNaGluRzNUNW5zbmtKRGl3Q2htc09Wa1l1c2RVQzVR?oc=5",
+    "title": "금리 오르고 환율 뛰고…코스피랠리 흔들 ‘3대 변수’",
     "summary": [
-      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
+      "금리 오르고 환율 뛰고…코스피랠리 흔들 ‘3대 변수’ 이코노미스트."
     ],
     "chips": [
       "#금리",
@@ -306,21 +320,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n98a572df",
-    "category": "IT",
-    "source": "대한민국 정책브리핑",
-    "time": "65일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책"
     ]
   },
   {
@@ -376,7 +375,7 @@ window.NEWS_DB = [
     "id": "nf3817920",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153112",
     "title": "국내 SI '빅3' 보안 투자액 들여다보니...규모는 삼성SDS, 증가율은 현대오토에버",
     "summary": [
@@ -389,56 +388,231 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n420c09a2",
+    "id": "n5f26ff34",
     "category": "사회",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/04/7D3TQ67FQZHUNO774SN3Y72DBI/",
-    "title": "“강북 개발땐 공공기여 부담 절반 축소”",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694987",
+    "title": "시어머니 방문 거절에 남편 \"이혼하자\"…\"친정은 되고 시댁은 안 되나\" 갑론을박",
     "summary": [
-      "“강북 개발땐 공공기여 부담 절반 축소”."
+      "[서울=뉴시스]김성은 인턴 기자 = 시어머니의 방문을 거절했다가 남편으로부터 이혼 통보를 받았다는 여성의 사연이 공개돼 온라인에서 갑론을박이 이어지고 있다.",
+      "지난 2일 한 온라인 커뮤니티에는 '시어머니 방문 거절했다가 남편이 이혼하재요'라는 제목의 글이 올라왔다.",
+      "결혼 8년 차라고 밝힌 작성자 A씨는 \"시어머니가 다음 달 서울에 올 일이 있다며 집에 들르고 싶다고 한 달 전부터 연락을 주셨다\"며 \"하지만 어머님이 오시면 솔직히 너무 힘들다\"고."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n763eee63",
+    "id": "nab853f6c",
     "category": "사회",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/national/transport-environment/2026/07/04/MD6PXTF2KBABXCFIQMSMNNAV54/",
-    "title": "주말 나들이 실내로 가야겠네",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704001600075",
+    "title": "스포티파이 음원 1위 순위 조작해 20배 수익…베팅 시장 논란",
     "summary": [
-      "주말 나들이 실내로 가야겠네."
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 폴리마켓·칼시 등 온라인 예측 베팅 시장이 급속도로 성장하면서 배당금을 노리고 음원 순위를 조작하는 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n74010e02",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/04/WXO2ZSFJQZB2RJD6Y6VE6Q5UE4/",
-    "title": "로봇 축구, 내가 이길테야",
+    "id": "n25d275f0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704001500071",
+    "title": "美민주, 트럼프 재산증식 정조준할듯…11월 선거에 트럼프 명운",
     "summary": [
-      "로봇 축구, 내가 이길테야."
+      "(워싱턴=연합뉴스) 조준형 특파원 = 도널드 트럼프 미국 대통령이 집권 2기 첫해인 작년 재산을 수조원 상당 불린 것으로 나타나면서 야당인 민주..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc9b1cfa5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/04/MI4WGMRYGZRTANZXGVRDMMTEMY/",
+    "title": "美 뉴욕시장 ‘에어컨 25.6도’ 당부에… 공화당 ‘사회주의’ 맹공",
+    "summary": [
+      "미국 동부 지역에 기록적 폭염이 강타한 가운데, 뉴욕시의 에어컨 절전 권고를 두고 미 정계가 충돌했다.",
+      "조란 맘다니 뉴욕시장의 “에어컨 온도를 25.6도(화씨 78도)로 맞춰달라”는 당부에 공화당이 ‘공산주의’라며 맹공을 퍼부으면서다.",
+      "발단은 지난 1일(현지시각) 맘다니 시장의 엑스(X·옛 트위터) 게시물이었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n44915396",
+    "id": "n23cf2207",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260704/134234502/2",
+    "title": "홍명보 미국 떠나고… 박지성이 韓축구 재건 맡는다",
+    "summary": [
+      "박지성 국제축구연맹(FIFA) 분과위원회 위원(사진)이 위기에 빠진 한국 축구의 개혁을 위해 전면에 나선다.",
+      "문화체육관광부는 박지성 위원과 최휘영 문체부 장관이 공동위원장을 맡는 ‘K-축구 혁신위원회’가 6일 서울 송파구 올림픽파크텔에서 출범식을 연다고 3일 발표했다.",
+      "혁신위는 홍명보 전 감독이 이끈 한국 축구 대표팀이 2026 북중미 월드컵에서 조별리그 문턱을 넘지 못하며 팬들에게 큰 실망감을 안긴 것을 계기로 구성됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1c8136b2",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260704/134234495/2",
+    "title": "[2026 북중미월드컵]월드컵 일정",
+    "summary": [
+      "[2026 북중미월드컵]월드컵 일정."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n841185dd",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260704/134234505/2",
+    "title": "센서에 희비 엇갈린 동갑내기 전설",
+    "summary": [
+      "크로아티아와 포르투갈의 2026 북중미 월드컵 32강전이 열린 3일 캐나다 토론토 스타디움.",
+      "1-2로 끌려가던 크로아티아는 후반 추가시간 13분에 요슈코 그바르디올이 왼발 슈팅으로 극적인 동점골을 터뜨렸다.",
+      "크로아티아 선수들은 두 팔을 번쩍 들며 환호했고, 포르투갈 선수들은 고개를 숙였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n68b7dd82",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260704/134234972/2",
+    "title": "특공 당첨확률 높은 장애인만 모집, 서울 등서 30여채 불법분양",
+    "summary": [
+      "청각장애인 명의로 장애인 특별공급 아파트 30여 채를 불법 분양받아 되판 일당이 무더기로 붙잡혔다.",
+      "이들이 2020년 6월부터 5년여간 불법으로 분양받은 아파트의 분양가 총액만 208억 원에 달하는 것으로 조사됐다.",
+      "3일 경기북부경찰청 반부패·경제범죄수사2대는 주택법 위반 혐의로 50대 남성 브로커 김모 씨를 구속하고 모집책 3명과 이들에게 명의를 빌려준 청각장애인 36명을 검찰에 넘겼다고 밝혔다."
+    ],
+    "chips": [
+      "#부동산",
+      "#채용"
+    ]
+  },
+  {
+    "id": "ndb87cb10",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "32분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/04/MFQWCM3BGMZGMN3CME2TEZJRHE/",
+    "title": "대타 카드 적중! 최주환의 짜릿한 동점타, \"초반 승부를 놓치면 불리하다고 생각해 초구를 공략한게 통했다\" [오!쎈 고척]",
+    "summary": [
+      "[OSEN=고척, 홍지수 기자] 프로야구 키움 히어로즈가 경기 막판 집중력을 앞세워 2연패를 끊었다.",
+      "대타 카드가 적중했다.키움은 3일 고척스카이돔에서 열린 2026 신한 SOL KBO리그 두산 베어스와 홈경기에서 6-5 재역전승을 거뒀다.",
+      "7회 강승호에게 역전 2점 홈런을 맞았지만, 8회 대타 최주환의 동점 적시타와 안치홍의 결승 희생플라이로 승부를 다시."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd97240bf",
     "category": "사회",
     "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/national/welfare-medical/2026/07/04/HQX4V6REMRE4TJNZN3EXDHZDN4/",
-    "title": "믿을 건 선풍기와 냉감이불뿐… 쪽방촌은 올여름이 특히 두렵다",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/04/MM2TAYJZMIYTCNBSMJRDEZRUGM/",
+    "title": "하메네이 장례식 하루 앞으로… 이란 우호국, 테헤란 집결",
     "summary": [
-      "믿을 건 선풍기와 냉감이불뿐… 쪽방촌은 올여름이 특히 두렵다."
+      "미국과 이스라엘의 공습으로 사망한 아야톨라 알리 하메네이 전 이란 최고지도자의 공식 장례식 시작을 하루 앞둔 3일(현지시간), 이란 우호국 지도자들의 조문 행렬이 이어졌다.",
+      "AFP통신 등 외신에 따르면, 블라디미르 푸틴 러시아 대통령의 최측근인 드미트리 메드베데프 러시아 국가안보회의 부의장은 이날 조문단과 함께 테헤란에 도착했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n56ac2594",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704001400071",
+    "title": "\"트럼프, 건국250주년 사면 검토…힙합거물 콤스 포함될지 주목\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령이 건국 250주년을 맞아 사면을 검토하고 있다고 CBS 방송이 복수의 소식통을 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd81e6c63",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20260704_0003695672",
+    "title": "몰도바 총리 돌연 사퇴…산두 대통령과 갈등설 확산",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 알렉산드루 문테아누 몰도바 총리가 3일(현지 시간) 돌연 사임을 발표했다.",
+      "최근 마이아 산두 몰도바 대통령의 친인척 특혜 채용 의혹이 불거진 데 이어 대통령과의 갈등설까지 제기되면서 정국의 불확실성이 확대되는 모습이다.",
+      "러시아 국영 리아노보스티 통신에 따르면 문테아누 총리는 페이스북을 통해 \"제가 더 이상 제 원칙과 신념에 따라 직무를 수행할 수 없다는 것을 깨달은 순간, 저는 사임을 결심했다\"고 밝혔다."
+    ],
+    "chips": [
+      "#채용",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n61813a12",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704001200072",
+    "title": "맘다니 \"에어컨 25.6도로\" 당부에 美 시끌…'공산주의'까지 소환",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 뉴욕 등 미국 동부지역에 기록적인 폭염이 닥친 가운데, 조란 맘다니 뉴욕시장이 시민들에게 에어컨 설정 온도를..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2fe8964f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694682",
+    "title": "배에서 '쿵쿵' 박동소리…혹시 '이 질환' 신호?[몸의경고]",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 복부대동맥류는 파열되기 전까지 뚜렷한 증상이 없어 더 위험한 대표적 혈관질환이다.",
+      "평소에는 별다른 통증 없이 지내다가 건강검진이나 다른 질환 검사 과정에서 우연히 발견되는 경우가 많다.",
+      "하지만 부풀어 오른 대동맥이 파열되면 생명을 위협하는 응급상황으로 이어질 수 있어 주의가 필요하다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8d8306f9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695009",
+    "title": "백희나 그림책 '알사탕', 부산문화회관 무대 오른다",
+    "summary": [
+      "[부산=뉴시스]진민현 기자 = 부산문화회관은 여름방학을 맞아 뮤지컬 '알사탕'을 오는 8월22일 부산문화회관 중극장에서 오전 11시, 오후 2시, 오후 4시30분 등 총 3회 공연한다고 4일 밝혔다.",
+      "뮤지컬 '알사탕'은 아동문학계의 노벨상으로 불리는 '아스트리드 린드그렌 추모상'을 수상한 백희나 작가의 동명 그림책을 원작으로 한 작품이다.",
+      "누구에게도 쉽게 말을 걸지 못하는 주인공 '동동이'가 마음의 소리를 들을 수 있는 신비한 알사탕을 얻게 되."
     ],
     "chips": [
       "#뉴스"
@@ -448,7 +622,7 @@ window.NEWS_DB = [
     "id": "ndb7b2e01",
     "category": "경제",
     "source": "한국경제",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026070351611",
     "title": "서울시, 기부채납 부담 확 낮춘다…공공기여율 60→30%",
     "summary": [
@@ -462,7 +636,7 @@ window.NEWS_DB = [
     "id": "n52228942",
     "category": "경제",
     "source": "한국경제",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026070351621",
     "title": "경찰, '딸 임용 특혜 의혹' 유승민 前의원 입건",
     "summary": [
@@ -470,173 +644,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "ncf553a31",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704000400071",
-    "title": "美재무, 트럼프의 '가상화폐 대박' 논란에 \"문제없어 보여\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 재집권 후 재산이 급격히 불어난 도널드 트럼프 미국 대통령의 '가상화폐 대박' 논란에 대해 스콧 베선트 미..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n26d2439b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "33분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694350",
-    "title": "10년 연애 끝 성매매 발각…이별 통보하자 \"재산 나눠달라\" 적반하장",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 10년간 결혼을 전제로 교제하고 동거해 온 남자친구의 성매매 사실을 알게 되어 결별을 선언하자 오히려 재산분할과 대여금 반환을 요구하며 소송을 걸어 고통받고 있는 30대 여성의 사연에 대한 법조계의 조언이 전해졌다.",
-      "3일 YTN 라디오 '조인섭 변호사의 상담소'에서는 병원에서 만난 의료기기 영업사원과 10년째 교제하다 배신을 당한 간호사 A씨의 고민이 소개됐다.",
-      "A씨와 상대방은 양가 부모님의 응원 속에 오랜."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc2d6d7fc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "36분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695078",
-    "title": "폴란드 여객기 '납치 오신호'에…3개국 전투기 뜨고 회항 소동",
-    "summary": [
-      "[서울=뉴시스]정우영 인턴 기자 = 폴란드 바르샤바에서 이스라엘 텔아비브로 향하던 폴란드 항공 여객기가 하이재킹(공중납치) 오신호를 보내 주변 3개국 전투기가 비상 출격하는 소동이 벌어졌다.",
-      "1일(현지시간) 글로벌 항공 매체 에어로타임에 따르면 승객 180여명을 태우고 바르샤바를 출발한 'LOT 폴란드 항공' LO155편 여객기는 운항 중 불법 침입과 납치를 뜻하는 국제 표준 스쿼크 코드(Squawk Code) '7500'을 송신했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n580f8139",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "36분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694363",
-    "title": "조민아 \"매일 줄넘기 1000개씩…예전엔 35분에 3000개\"",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 가수 조민아(42)가 몸매 관리의 비결로 '줄넘기'를 언급했다.",
-      "지난 1일 가수 서인영(41)의 유튜브 채널 영상에 출연한 조민아는 복근 운동으로 줄넘기를 추천했다.",
-      "그는 \"예전에는 매일 3000개씩 했는데 지금은 시간이 없어서 1000개를 한다\"면서 \"3000개를 해도 35분밖에 안 걸린다\"고 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n102cd8c6",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "43분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694456",
-    "title": "최미나수 \"단식원도 다녀왔다\"…몸매·멘탈 관리 비법 공개",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 방송인 최미나수가 탄탄한 몸매와 미모를 유지하는 자신만의 관리 비법을 공개했다.",
-      "미스 어스 우승자이자 넷플릭스 예능 '솔로지옥'으로 얼굴을 알린 최미나수는 2일 유튜브 채널 '일일칠'에 출연해 \"힐을 신을 때가 많다 보니 다리 관리를 꾸준히 한다\"며 붓기 관리부터 식단, 멘탈 관리까지 자신의 일상을 소개했다.",
-      "그는 가장 먼저 하체 관리 비결을 공개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n59755f88",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "47분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260704/134235121/1",
-    "title": "하메네이 시신, 美 독립기념일에 공개…이란, 상징성 극대화",
-    "summary": [
-      "미국과 이스라엘 공습으로 사망한 아야톨라 알리 하메네이 전 이란 최고지도자의 장례식이 미국 독립기념일인 오는 4일(현지 시간)에 시작되는 가운데 이란이 종교적·정치적 상징성을 극대화하려는 의도를 담았다는 분석이 나온다.3일(현지 시간) AP통신, CNN에 따르면 하메네이의 시신은 오는 4일 공개될 예정이다.",
-      "이날은 미국이 도널드 트럼프 미국 대통령의 연설을 비롯한 대규모 기념행사를 열어 독립기념일을 기념하는 날과 겹친다.장례 일정은 시아파의 주."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8bf2e5e4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e0b67d0",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "48분 전",
-    "url": "https://www.hankyung.com/article/2026070351767",
-    "title": "가상의 무속인 '조말례' 가스라이팅…지인 부부에 66억원 뜯었다",
-    "summary": [
-      "가상의 무속인 '조말례' 가스라이팅…지인 부부에 66억원 뜯었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b01cf80",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "49분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260703/134235118/1",
-    "title": "손흥민, 음바페보다 빨랐다…최고 스프린트 ‘시속 35.2㎞’",
-    "summary": [
-      "손흥민(34·LA FC)이 2026 국제축구연맹(FIFA) 북중미 월드컵에서 골과 도움 등 공격 포인트를 기록하지 못했지만, 30대 중반에도 그의 스피드는 여전히 ‘월드 클래스’였다.3일(한국시간) 영국 BBC에 따르면 손흥민은 FIFA가 발표한 대회 조별리그 1차전 기준 가장 빠른 스프린트 순위에서 시속 35.2㎞로 48개국 선수 중 ‘전 토트넘 동료’ 제드 스펜스(잉글랜드)와 공동 7위에 이름을 올렸다.이는 같은 기간 시속 35.1㎞를 기록."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n81aa3ee8",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "49분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260703/134235113/1",
-    "title": "‘부임 3연패’ 마줄스 농구 감독 “4쿼터 들어 분위기 넘어가”",
-    "summary": [
-      "2027 국제농구연맹(FIBA) 농구 월드컵 아시아 예선 1라운드 탈락 위기에 직면한 니콜라이스 마줄스(라트비아) 한국 남자 농구 대표팀 감독이 아쉬웠던 4쿼터를 패인으로 꼽았다.마줄스 감독은 3일 고양소노아레나에서 열린 대만과의 대회 아시아 예선 1라운드 B조 5차전에서 80-82 역전패를 당한 뒤 기자회견에서 “정말 아쉬운 경기였다.",
-      "3쿼터 동안 잡고 있었던 분위기가 4쿼터에서 날아갔다”고 전했다.이어 “4쿼터에 브랜든 길벡을 제대로 막지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n993ea219",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "50분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260703/134235110/1",
-    "title": "‘딸 인천대 교수 특혜 임용 의혹’ 유승민 경찰 조사…11시간만에 귀가",
-    "summary": [
-      "딸의 인천대학교 교수 임용 특혜 의혹과 관련해 입건된 유승민 전 국회의원이 경찰에서 약 11시간 동안 피의자 조사를 받은 뒤 귀가했다.3일 경찰 등에 따르면 인천경찰청 반부패경제범죄수사대는 이날 오전 10시부터 유 전 의원을 피의자 신분으로 불러 조사한 뒤 오후 10시 무렵 귀가 조치했다.유 전 의원은 딸인 유담 인천대 무역학부 교수의 임용 과정에서 인천대의 공정한 채용 업무를 방해한 혐의를 받고 있다.유 전 의원은 조사를 마친 뒤 취재진을 만."
-    ],
-    "chips": [
-      "#수출",
-      "#채용",
-      "#정치",
-      "#교육"
     ]
   }
 ];
@@ -646,18 +653,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "채용",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "AI",
     "mentions": "1810건",
     "trend": "+175%"
   }
