@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-03 21:56:18
+// 마지막 업데이트: 2026-07-03 22:55:27
 window.NEWS_DB = [
   {
     "id": "nda209a8b",
     "category": "IT",
     "source": "뉴스투데이",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zNDN1MWRGZU9vSmxPR2V0UXdueXFRcnRsZGxpTDhFVEhwUzhnR3Z1eHZmRU9zbHhpVFFWOWNBbDFDaHQ5T2NXcm9XUTVuOHg1YTFnWjRHdTdaaG1nWFE?oc=5",
     "title": "‘AI 거품론’과 삼성전자 SK하이닉스의 ‘보험’",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n3964de2f",
     "category": "스포츠",
     "source": "네이트",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NMllWMXFlaDFlUW1oZGtIdWNyLVNycl9QbEpNeGNFbkxnVTF4NXJpSXdtWGRTV1lNMG1CTzRVaU5pdktDV19mcGFaTXpiSDN6Ml9zb2JCM05kREV5TFNTYg?oc=5",
     "title": "[오피셜] KBO 올스타전 드림·나눔 유니폼 공개",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nec851840",
     "category": "경제",
     "source": "이투데이",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNm9sbTdsUzYzbTZSOW5VVnNna25pd0pFQ2h4aTczdVpla1ZRWGJjLWxoRU01Rlk5b0RLb3hHTHRCckRleE1FelJBNWYwYzVreVBaMw?oc=5",
     "title": "한은 금리 인상에 '환율ㆍ시장금리' 안정화될까⋯\"비용충격 악화가 변수\"",
     "summary": [
@@ -44,21 +44,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n48c48642",
-    "category": "IT",
-    "source": "더구루",
-    "time": "20시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZktmUFNHOWg1Yjl4WVkxSk5kbXd4UUw5bVN2X2hqY0lMTkpfN0lSUWxfSjB5UUZzaE9kTEtxNnVtR2cwNENMRlFiX1JGUHlfNWkxZE5NZ2JFSlpQdEpMWkxnbw?oc=5",
-    "title": "[단독] '엔비디아 날개 단' 두산, AI 휴머노이드 로드맵 전격 공개…독일 점유율 10배 폭풍 성장 정조준",
-    "summary": [
-      "[단독] '엔비디아 날개 단' 두산, AI 휴머노이드 로드맵 전격 공개…독일 점유율 10배 폭풍 성장 정조준 더구루."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -91,6 +76,22 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "n1f9ed23e",
+    "category": "IT",
+    "source": "지디넷코리아",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4LWhfdGg4T3VaNUxZdEljNU5zXzFIdWRpQnJTQmxpZEd1emY4bkR2bEdCMlUxNjNza1ZyM0Q4V1REWVdGcG1jUk1qSFFPRnFJQVlwbEdB?oc=5",
+    "title": "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다",
+    "summary": [
+      "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다 지디넷코리아."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -141,14 +142,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n39e7993d",
+    "id": "n6b58f8f3",
     "category": "사회",
-    "source": "v.daum.net",
+    "source": "아주경제",
     "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5bS1BSHRuV3Fqb3h6VW4yaGYzSWtjVXIzZVRGeS1vTVM2WHdfQ1Y1WFprTjc3TVJjRXRKbHIyWFB5RHZHdEE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
     ],
     "chips": [
       "#채용",
@@ -221,20 +222,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nde229885",
-    "category": "IT",
-    "source": "한국보험신문",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
-    "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
-    "summary": [
-      "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장” 한국보험신문."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n9cecfc4c",
     "category": "부동산",
     "source": "한국경제",
@@ -278,14 +265,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31af3cbd",
+    "id": "n32bf68e2",
     "category": "경제",
-    "source": "에너지경제신문",
+    "source": "v.daum.net",
     "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
-    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
     "summary": [
-      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
     ],
     "chips": [
       "#금리",
@@ -323,321 +310,335 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "need574ed",
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "65일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n9fe8a73a",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695681",
-    "title": "전남광주특별시 출범 첫 주말 20~60㎜ 장맛비",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260704/134235342/1",
+    "title": "브라운 전 미 합참의장 “트럼프 정부 군을 정치로 오염”",
     "summary": [
-      "[전남광주=뉴시스]류형근 기자 = 통합특별시 출범 첫 주말인 4일 전남광주지역은 정체전선의 영향을 받아 장맛비가 내릴 것으로 예상된다.",
-      "광주기상청에 따르면 전남광주 지역은 전날부터 이날 오전 5시50분까지 진도 서거차도 53.5㎜, 완도 신지도 53㎜, 해남 땅끝 44㎜, 고흥 도화 36.5㎜, 여수 소리도 33㎜, 강진 마량 26㎜, 광주 무등산 4.5㎜의 강수량을 기록했다.",
-      "또 전남광주지역은 제주도부근 해상에 위치한 정체전선의 영향으로 돌풍."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n08d9f15c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704008200504",
-    "title": "[북한날씨] 평안도·함경도 대체로 흐리고 곳에 따라 비",
-    "summary": [
-      "(서울=연합뉴스) 권수현 기자 = 북한은 4일 평안도와 함경도는 대체로 흐리고 새벽부터 저녁 사이 곳에 따라 비가 내리겠다고 기상청이 예보했다...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n66af1f3c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/04/GUZTAOLCGVQTEN3EGNSDONBSGA/",
-    "title": "나겔스만, 파라과이에 무너지고 독일 전설들에 맞았다…“실험 과다·DNA 실종” 혹평 폭발",
-    "summary": [
-      "[OSEN=이인환 기자] 독일 축구가 다시 감독의 이름을 지웠다.독일은 북중미 월드컵 32강에서 파라과이에 승부차기 끝 4-5로 졌다.",
-      "1-1로 120분을 마친 뒤 승부차기에서 무너졌다.",
-      "2018년과 2022년 조별리그 탈락에 이어 2026년에도 16강 문을 열지 못했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6abdd6fc",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704006000007",
-    "title": "[월드컵 전적] 이집트 1-1 <승부차기 4-2> 호주",
-    "summary": [
-      "[월드컵 전적] 이집트 1-1 <승부차기 4-2> 호주."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc412525",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695683",
-    "title": "푸틴, 우크라 점령지 \"루한스크 공화국 해방 완수\" 선언",
-    "summary": [
-      "[모스크바=신화/뉴시스] 강영진 기자 = 블라디미르 푸틴 러시아 대통령이 3일(현지시각) 러시아군이 우크라이나 점령지 루한스크인민공화국의 \"완전 해방\"을 완수했다고 발표했다.",
-      "푸틴은 통합 합동 부대 그룹의 임시 지휘소 가운데 한 곳에서 열린 회의에서 \"통합 합동 부대 그룹의 부대와 편제들이 (러시아 연방) 군 총참모부가 수립한 작전 계획에 따라 임무를 수행하고 있음을 밝힌다.",
-      "최근 루한스크인민공화국의 완전 해방이 완수됐다\"라고 말했다."
+      "지난해 피트 헤그세스 미 국방장관에 의해 해임된 찰스 브라운 전 미 합동참모의장이 3일(현지시각) 도널드 트럼프 미 대통령 정부가 주요 민주당 도시들에 군을 배치한 행위가 군을 정치로 오염시킨 일이라고 비판했다고 미 월스트리트저널(WSJ)이 보도했다.",
+      "브라운은 이날 포린어페어스에 실린 다른 2명과 공동 기고문에서 범죄 소탕 같은 “정치적으로 논쟁적인 임무”를 위해 군을 미국 도시들에 투입한 것은 군의 전통적인 비정치적 역할을 훼손하고 전투 임무."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "ndb7c8225",
-    "category": "사회",
+    "id": "n0cc92b84",
+    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704007600057",
-    "title": "부산·울산·경남 토요일 대체로 흐려…최대 40㎜ 비",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704011300007",
+    "title": "[월드컵] 이강인 \"제 몫 더 잘 해냈어야 하는데…더 성장하겠다\"",
     "summary": [
-      "(울산=연합뉴스) 장지현 기자 = 토요일인 4일 부산·울산·경남 지역은 대체로 흐리고 비가 내리겠다."
+      "(서울=연합뉴스) 최송아 기자 = 축구 국가대표팀의 핵심 미드필더 이강인(파리 생제르맹)이 2026 북중미 월드컵의 아쉬운 결과에 책임감을 갖고..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n459ecf15",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704007500055",
-    "title": "전북 대체로 흐리고 비…예상 강수량 5∼20㎜",
+    "id": "n659b2bc9",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/04/2026070407333980904",
+    "title": "'韓 축구 에이스는 변명하지 않았다' 이강인 \"내가 더 잘했어야...아쉬움보단 책임 먼저\" 월드컵 탈락 후 남긴 진심",
     "summary": [
-      "(전주=연합뉴스) 백도인 기자 = 토요일인 4일 전북은 대체로 흐리고 비가 내리겠다."
+      "한국 축구대표팀의 핵심 공격수 이강인(25·파리 생제르맹)이 2026 국제축구연맹(FIFA) 북중미 월드컵 32강 진출 실패에 깊은 책임감을 드러내며 고개 숙였다.",
+      "이강인은 3일 자신의 (SNS)소셜 미디어를 통해 북중미 월드컵 일정을 모두 마친 소회를 밝혔다.",
+      "그는 \"이번 월드컵은 선수로서 많은 것을 찬찬히 돌아보게 만든 대회였다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n06d3349f",
+    "id": "n684be801",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/07/04/HE4TIZLFMMZWKYZXGQZTSMBYGA/",
+    "title": "방탄소년단, 아르헨티나 시 의회 만장일치로 ‘명예 외빈’ 선정",
+    "summary": [
+      "[OSEN=최이정 기자] 그룹 방탄소년단(BTS)이 전 세계 음악 시장에서 적수 없는 '장기 집권'을 이어가고 있다.",
+      "아르헨티나 시 의회에서는 만장일치로 ‘명예 외빈’으로 선정됐다.글로벌 오디오·음원 스트리밍 플랫폼 스포티파이의 최신 차트(집계 기간: 6월 26일~7월 2일)에 따르면, 방탄소년단의 정규 5집 ‘아리랑’(ARIRANG)은 대형 팝스타들의 거."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nda9791dc",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694761",
+    "title": "객실 밖에서도 수익 낸다…호텔업계, 김치·맥주 등 F&B 사업 다각화",
+    "summary": [
+      "[서울=뉴시스]이주혜 기자 = 호텔 업계가 김치 수출에 나서고 맥주를 출시하며 식음료(F&B) 사업을 강화하고 있다.",
+      "프리미엄 수요가 증가하는 가운데 사업 다각화로 안정적인 수익 창출에 나서는 것으로 풀이된다.",
+      "4일 업계에 따르면 조선호텔앤리조트는 최근 시그니처 맥주 '조선 라거'를 선보였다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n75aedbfb",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/04/2026070407314791210",
+    "title": "'성추행 피해' 여군, 이름 바꾸고 부대 옮겼는데...\"또, 상관이 알몸으로 덮쳐\"",
+    "summary": [
+      "성범죄 피해로 부대를 옮긴 20대 여성 부사관이 새 부대에서도 직속 상관에게 성폭행당한 사건이 발생했다.",
+      "JTBC '사건반장'은 지난 2일 방송에서 20대 육군 부사관 A씨의 제보 내용을 공개했다.",
+      "이에 따르면 2021년 임관한 그는 자대 배치 6개월 만에 남성 상관으로부터 성추행과 폭행을 당했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc0851592",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704010400075",
+    "title": "웹툰 '나 혼자만 레벨업' 극장판 나온다…美애니메엑스포서 공개",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 웹툰 '나 혼자만 레벨업'(이하 나홉렙)이 극장판 애니메이션으로 돌아온다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc411e90",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/07/04/MZTDIYJRMUYDANBRHBSTOZRTGI/",
-    "title": "‘농구판 홍명보인가?’ 대만에 치욕의 19점차 역전패...한국 탈락 위기에도 마줄스 감독 “아직 기회는 있다!” [오!쎈 고양]",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/04/GRQTCMBRGE4DIODCME3TIZBYMQ/",
+    "title": "2500탈삼진 대기록 -1개...에르난데스 사흘 휴식 등판, 왜 류현진 5일 LG전으로 미뤄졌을까",
     "summary": [
-      "[OSEN=고양, 서정환 기자] 니콜라스 마줄스 감독이 한국대표팀을 맡은 후 성적은 0승 3패다.",
-      "농구월드컵 진출은커녕 아시아에서 동네북이 된 한국농구다.",
-      "남자농구대표팀은 3일 고양소노아레나에서 개최된 2027 FIBA 농구월드컵 아시아지역 윈도우3에서 대만에 연장 접전 끝에 80-82로 역전패를 당했다."
+      "[OSEN=잠실, 한용섭 기자] 프로야구 한화 이글스는 3일 잠실구장에서 열린 LG 트윈스와 경기에서 8-1 완승을 거뒀다.",
+      "선발투수 화이트가 7이닝 무실점으로 호투했고, 중심타자 강백호가 홈런 2방을 터뜨리며 4타점을 기록했다.",
+      "노시환도 투런 홈런으로 승리에 쐐기를 더했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na795d04e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704010800065",
+    "title": "인천 을왕동 해수욕장서 60대 여성 물에 빠져 사망",
+    "summary": [
+      "(인천=연합뉴스) 최은지 기자 = 인천 을왕동 해수욕장에서 60대 여성이 물에 빠져 숨졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n13eff4eb",
-    "category": "IT",
+    "id": "n3d08365f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260704_0003695696",
+    "title": "천안논산고속도로서 사고 후 도로에 서 있던 40대 후행 차가 들이받아",
+    "summary": [
+      "[공주=뉴시스]김덕진 기자 = 지난 3일 오후 10시47분께 천안논산고속도로 천안방향 245㎞ 지점(공주시 우성면 목천리)에서 도로에 서 있던 40대를 SUV가 들이 받았다.",
+      "4일 공주소방서에 따르면 목격자가 \"주행 중 밖에 사람이 쓰러져 있다\"고 신고했다.",
+      "구급대는 도로에 쓰러져 심정지 상태인 A(40대)씨를 발견하고 병원으로 옮겼지만 끝내 숨졌다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "na215f287",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260704_0003695692",
+    "title": "구미시의회, 미래 비전 담은 대표 슬로건 공모",
+    "summary": [
+      "[구미=뉴시스] 박홍식 기자 = 경북 구미시의회는 제10대 의회 정체성과 미래 비전을 담은 대표 슬로건을 공모한다고 4일 밝혔다.",
+      "시민이 바라는 의회 모습과 향후 의회가 나아갈 방향을 시민과 함께 정립하기 위해서다.",
+      "공모 기간은 오는 13일까지 시민 누구나 참여할 수 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na8afc5df",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703121000052",
+    "title": "장맛비에도 낙동강 녹조 확산…물금·매리 7월 역대 최고 수치",
+    "summary": [
+      "(창원=연합뉴스) 박영민 기자 = 장마철이 시작됐음에도 낙동강 하류 녹조가 확산하면서 물금·매리 지점의 유해남조류 세포 수가 7월 관측치 중 역..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3ca77a08",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/MI3DGNLEMNTDIMJUHE2GGNZUMU/",
+    "title": "기독교 음악에 가슴 튕기는 안무? 가희 퍼포먼스 갑론을박 \"무리수vs틀 깼다\" [핫피플]",
+    "summary": [
+      "[OSEN=김수형 기자] 그룹 애프터스쿨 출신 가희가 CCM 신곡을 발표한 가운데, 뮤직비디오 속 퍼포먼스를 두고 온라인에서 갑론을박이 이어지고 있다.지난달 29일 기독교 콘텐츠 채널 '들어볼까'에는 가희가 참여한 '시편 24편 King of Glory' 뮤직비디오가 공개됐다.해당 곡은 성경 시편을 현대적인 음악으로 재해석하는 '시편 150 프로젝트'의 일."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na0541b79",
+    "category": "경제",
     "source": "아시아경제",
-    "time": "26분 전",
-    "url": "https://view.asiae.co.kr/article/2026070314200110152",
-    "title": "[AI세계속으로]AI 인프라 공급 과잉?…증시 흔든 메타發 쇼크",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026070311213041180",
+    "title": "재능보다 무서운 건 '이것'…유독 한 손이 더 능숙해진 이유[실험노트]",
     "summary": [
-      "이번주 메타가 인공지능(AI) 인프라 중 남는 컴퓨팅 자원을 유료로 대여·판매하는 '네오 클라우드' 사업을 검토 중이라는 소식에 글로벌 반도체 주가가 급락하는 소동이 벌어졌다.",
-      "AI 인프라 투자를 공격적으로 늘린 메타가 성과 압박을 받는 가운데 오는 29일(이하 현지시간) 2분기 실적 발표에서 제시할 청사진이 AI 투자심리 흐름을 결정짓는 분수령이 될 전망이다.",
-      "블룸버그통신은 지난 1일 메타가 내부적으로 '메타 컴퓨트'."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nd8244e25",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694885",
-    "title": "울산대곡박물관 특별전, 17일 밤 '천전리 별빛탐험대' 운영",
-    "summary": [
-      "[울산=뉴시스] 구미현 기자 = 울산대곡박물관이 17일 특별기획전 '반구대로 37.956㎞'와 연계한 야간 체험 프로그램 '천전리 별빛탐험대'를 운영한다고 4일 밝혔다.",
-      "이번 행사는 서부 울산의 풍부한 역사문화 자산과 천체 관측을 접목한 이야기하기(스토리텔링)형 프로그램으로, 세계유산과 여름밤 별하늘을 함께 체험하며 역사와 우주를 흥미롭게 만날 수 있도록 기획됐다.",
-      "프로그램은 3부로 나눠 진행된다."
+      "편집자주지금 먹으면 하나, 기다리면 두 개.",
+      "아이들의 선택을 지켜본 마시멜로 실험을 기억하시나요? 단순한 연구는 때로 삶을 보는 방식을 바꿉니다.",
+      "실험 데이터로 우리의 일상을 새롭게 읽어봅니다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd026548b",
+    "id": "n3f6da1f3",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026070216080979646",
+    "title": "\"요즘 누가 반팔 입어요?\"…더울수록 긴팔 찾는 2030, 이유가[지금사는방식]",
+    "summary": [
+      "편집자주요즘 사람들은 무엇을 살까요.",
+      "다이소에서 꼭 집어오는 생활용품부터 올리브영에서 품절을 부르는 화장품, 줄 서서 사는 빵까지.",
+      "익숙한 소비 장면 속에는 지금의 시장 흐름이 고스란히 담겨 있습니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc372a178",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/04/2026070407170411271",
+    "title": "'엇박자' 트럼프-네타냐후, 조만간 미국서 회담…종전 한뜻 될까",
+    "summary": [
+      "도널드 트럼프 미국 대통령과 베냐민 네타냐후 이스라엘 총리가 조만간 미국에서 회담하기로 했다.",
+      "이란전쟁 종식을 둘러싸고 이견이 있던 만큼 회담 시점과 논의 내용이 주목된다.",
+      "AFP통신은 이스라엘 총리실을 인용해 트럼프 대통령과 네타냐후 총리가 3일(현지시간) 통화하면서 조만간 미국에서 회담하기로 합의했다고 보도했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd39625d6",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "25분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/04/2026070407307297615",
+    "title": "'신입사원 강회장' 손현주, 병상 연기의 일인자",
+    "summary": [
+      "출연 분량 관계 없이 극 지배하는 묵직한 아우라 짧은 등장과 목소리만으로 인물 생애 설득한 관록 배우가 화면을 장악하기 위해 반드시 많이 움직이고 오래 말해야 하는 것은 아니다.",
+      "단 한 번의 눈빛, 짧게 떨리는 입술, 힘겹게 내뱉는 숨만으로도 장면 전체의 공기를 바꾸는 배우도 있다.",
+      "JTBC 토일드라마 '신입사원 강회장'의 손현주가 그렇다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea080519",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026070214125202163",
+    "title": "\"브라질산보다 국내산이 더 싸요\"…40년만 엔저에 흔들리는 日 밥상 [뭔日있슈]",
+    "summary": [
+      "편집자주도쿄에 상주 중인 국제부 기자가 한 주간 일본에서 보고 들은 이야기를 전해드립니다.",
+      "매주 토요일 업데이트 이번 주 일본에서는 엔화 약세가 이슈가 됐습니다.",
+      "엔화 가치가 달러당 162엔대까지 떨어지며 '40년 만에 맞는 역사적 엔저'라는 보도가 이어졌습니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2c86c8f2",
+    "category": "스포츠",
+    "source": "동아일보",
     "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695682",
-    "title": "러 외무부, \"우크라 공격에 민간인 8500명 사망\" 부각",
+    "url": "https://www.donga.com/news/Sports/article/all/20260704/134235313/1",
+    "title": "호주, 승부차기서 이집트에 밀려 32강 탈락…아시아 전멸",
     "summary": [
-      "[모스크바=신화/뉴시스] 강영진 기자 = 로디온 미로시니크 러시아 외무부 순회대사는 3일(현지시각) 2022년 2월 이후 우크라이나군의 공격으로 러시아에서 8500명에 가까운 민간인이 목숨을 잃었다고 밝혔다.",
-      "미로시니크는 2022년 2월부터 지난달 30일까지 사상자 총수가 3만913명에 이르며 이 중 사망자가 약 8434명이라고 밝혔다.",
-      "미로시니크는 지난 3개월 동안 우크라이나가 러시아 42개 지역에서 민간 기반 시설을 공격해 파손했다고 말했다."
+      "호주가 승부차기 혈투 끝에 이집트에 밀려 2026 북중미 월드컵 32강에서 탈락했다.호주는 4일(한국 시간) 미국 댈러스 스타디움에서 열린 이집트와의 2026 국제축구연맹(FIFA) 북중미 월드컵 32강전에서 연장전까지 1-1로 비긴 뒤 승부차기에서 2-4로 패배했다.D조에서 튀르키예(2-0 승), 미국 0-2 패), 파라과이(0-0 무)에 1승 1무 1패(승점 4)를 거둬 2위로 토너먼트를 밟은 호주는 2회 연속 16강 진출에 도전했지만 실패."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5fafc942",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/GE4TAOJTMEYTMYLBGEYDSMZWMM/",
-    "title": "전현무, 직접 만든 단체티 ‘한정판’ 출시 예정..“판매량 저조? 내가 다 살 것” (‘나혼산’)[순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘나 혼자 산다’ 전현무가 직접 그린 티셔츠를 판매할 예정이라고 밝혔다.",
-      "3일 방송된 MBC 예능 ‘나 혼자 산다’에서는 무지개 회원들이 함께한 ‘제1회 무지개 하계 수련회’가 진행된 가운데 전현무가 단체티를 공개했다.이날 전현무는 팀 배정이 끝나고 “본격적으로 겡미하기 전에 단결과 협동 정신을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n78e786f1",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "55분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/04/3BBGWEFNQJDQVPF3N2YSW34GLQ/",
-    "title": "“한국엔 머스크가 없는 게 아니라, 그를 키울 시스템이 없다”",
-    "summary": [
-      "“일론 머스크가 이끄는 테슬라와 스페이스X는 전형적인 ‘파괴적 혁신’의 사례다.",
-      "머스크는 아무도 정답을 모르는 미지의 세계에서 전 재산을 걸고 모든 위험을 감수하는, 남이 보지 못하는 혁신을 꿰뚫어 보는 천재다.”한국과 일본, 중국의 비교경영 연구 권위자인 장세진 싱가포르국립대(NUS) 림킴산(Lim Kim San) 석좌교수는 ‘한국 대기업은 왜 일본을 이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n77426c63",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "55분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/04/VC3SE6NBEVDBLFRYYGMQUYPYCA/",
-    "title": "[인터뷰] 영수증 月 200만장 데이터 분석하는 ‘영끌’… 배수혁 대표 “쇼핑용 AI 에이전트 개발 목표”",
-    "summary": [
-      "[인터뷰] 영수증 月 200만장 데이터 분석하는 ‘영끌’… 배수혁 대표 “쇼핑용 AI 에이전트 개발 목표”."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n30c06740",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "55분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/04/KSKQ665JBBB4TGM4IJMKKP42WQ/",
-    "title": "“머스크의 미션, 전통적 경제가치 초월… 파산 위험은 동력”",
-    "summary": [
-      "남아프리카공화국(남아공) 요하네스버그대 심리학과 클로드-엘렌 마이어(Claude-Hélène Mayer) 교수는 최근 ‘이코노미조선’과 인터뷰에서 “일론 머스크가 품은 개인적 사명감은 전통적인 경제가치를 초월한다”면서 “이는 매우 강력하며 쉽게 흔들리지 않는다”고 평가했다.마이어 교수는 2025년 ‘국제정신의학리뷰’에 머스크의 생애를 실존 심리학과 ‘트랜스."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndd24bf3c",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "55분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/04/QFBMFPH6MBAOTGRB7CF2R3AR5U/",
-    "title": "“머스크는 독재자가 아닌 ‘수석 엔지니어’, 그가 없으면 혁신 끝나”",
-    "summary": [
-      "“스타십이 공중에서 폭발했을 때 일론 머스크와 스페이스X 엔지니어는 오히려 환호했다.",
-      "리더가 사전에 리스크를 명확히 인지하고 승인했기 때문이다.",
-      "더 빠르게 전진하기 위한 데이터 수집 용도의 포용적인 실패가 머스크 리더십의 핵심이다.”우주·항공 저널리즘의 권위자이자 미국 과학 매체 아스테크니카의 수석 우주 기자인 에릭 버거는 6월 24일 ‘이코노미조선’과 인."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n72a5d53a",
-    "category": "부동산",
+    "id": "n3d6ab8f5",
+    "category": "경제",
     "source": "아시아경제",
-    "time": "56분 전",
-    "url": "https://view.asiae.co.kr/article/2026070216280327293",
-    "title": "동탄·기흥 갭투자 수요, 남양주·군포로 옮겨붙여…\"이러다 수도권 전체 묶일라\"[부동산AtoZ]",
+    "time": "35분 전",
+    "url": "https://view.asiae.co.kr/article/2026070115493915147",
+    "title": "'밀당'은 이제 그만…美에서 뜨는 '직진' 연애 트렌드[세계는Z금]",
     "summary": [
-      "최근 신규 규제지역으로 지정된 동탄·기흥·구리는 지난해 10·15 대책 직후 임대보증금을 활용한 매수가 급증한 바 있다.",
-      "작년 11월 이들 세 지역의 자금조달계획서 제출건수 중 임대보증금을 신고한 비율은 28.1%였다.",
-      "이후 12월 35.5%, 올해 1월엔 33.7%를 기록했다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n886b331a",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "56분 전",
-    "url": "https://view.asiae.co.kr/article/2026070208402534929",
-    "title": "[단독]구리 갭투자 6개월새 반토막…규제 묶기 5개월전 투기수요 떠났다[부동산AtoZ]",
-    "summary": [
-      "신규 규제지역으로 묶인 동탄·기흥·구리에서 세를 끼고 집을 사는 갭투자 비중이 올 상반기 들어 크게 줄어든 것으로 나타났다.",
-      "이달 초 투기 과열을 우려해 정부가 이들 지역을 토지거래허가구역 등 3중 규제 지역으로 지정한 직후 시장에선 '뒷북' 논란이 있었는데, 수치로 확인된 셈이다.",
-      "매매는 갭투자 대신 기존 주택 처분 대금 등 현금을 갖춘 실수요자들이 채웠다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nfe63083a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260704/134235280/1",
-    "title": "‘나혼산’ 기안84·김대호, 랜덤 비빔밥 재료 공개…대형 양푼 등장",
-    "summary": [
-      "‘나 혼자 산다’ 무지개 회원들의 랜덤 비빔밥이 공개됐다.지난 3일 오후 방송된 MBC 예능 프로그램 ‘나 혼자 산다’에서는 무지개 회원들이 총출동한 ‘제1회 무지개 하계 수련회’ 이야기가 담겼다.이날 전현무, 기안84, 배나라, 서범준, 이선민, 코드 쿤스트, 김대호, 박경혜, 박지현, 조이, 민호, 구성환과 뒤늦게 합류한 김신영까지 무지개 회원이 총출동한 ‘제1회 무지개 하계 수련회’가 펼쳐졌다.",
-      "하계 수련회 프로그램을 기획한 전현무는 단상."
+      "편집자주Z세대(1990년대 후반~2010년대 초반 출생자)는 빠르게 변화하는 시대 속에서 문화와 트렌드를 주도하며, 사회 전반에서 새로운 기준을 만들어가는 세대로 주목받고 있다.",
+      "[세계는Z금]에서는 전 세계 Z세대의 삶과 가치관을 조명하며, 그들이 어떻게 사회를 변화시키고 있는지를 들여다보고자 한다.",
+      "미국 Z세대 사이에서 무심한 척하는 '밀당'보다 자신의 감정을 솔직하게 표현하는 연애 방식이 새로운 트렌드로 떠오르고."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n88a3d969",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260704/134235277/1",
-    "title": "“메시 옆 호위무사들, 손흥민은 뭐냐”…홍명보 전술에 박문성 일침",
+    "id": "nc9f62a38",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "55분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703124200030",
+    "title": "[신상잇슈] CJ제일제당 '비비고 김부각'·벤슨-하츠투하츠 '레몬탱'",
     "summary": [
-      "축구 해설위원 박문성이 리오넬 메시와 손흥민의 활용법을 비교하며 “선수의 수준이 아니라 감독의 수준이 차이를 만든다”고 주장했다.계속 곱씹게 되는 대한민국 대표팀의 사활이 걸린 남아프리카공화국과의 월드컵 조별리그 최종전에선 에이스 손흥민은 선발로 출전하지 못했고, 결국 무득점으로 패하며 32강 진출에 실패했다.",
-      "당시 선발 명단 구성과 선수 기용에 대한 최종 결정 권한은 전 적으로 홍명보 전 감독에게 있었다.최근 공개된 한 유튜브 콘텐츠에서 박문."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "ne995eada",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260704/134235274/1",
-    "title": "제주, 최대 150㎜ 이상 장맛비…낮 최고 26~28도",
-    "summary": [
-      "토요일인 4일 제주에는 최대 150㎜ 이상 장맛비가 내리겠다.제주지방기상청은 “이날 제주에는 정체전선의 영향으로 늦은 밤까지 비가 내리겠다”고 예보했다.예상 강수량은 제주도 30~80㎜(많은 곳 중산간 120㎜ 이상, 산지 150㎜ 이상)이다.특히 이날 오전까지 시간당 20~30㎜의 강하고 많은 비가 내리는 곳도 있겠다.아침 최저기온은 22~23도(평년 21~22도), 낮 최고기온은 26~28도(평년 25~28도)로 분포하겠다.바다의 물결은 제."
+      "[신상잇슈] CJ제일제당 '비비고 김부각'·벤슨-하츠투하츠 '레몬탱'."
     ],
     "chips": [
       "#뉴스"
@@ -656,8 +657,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
