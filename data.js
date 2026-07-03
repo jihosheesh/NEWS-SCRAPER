@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-03 19:00:40
+// 마지막 업데이트: 2026-07-03 20:17:20
 window.NEWS_DB = [
   {
     "id": "nda209a8b",
     "category": "IT",
     "source": "뉴스투데이",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zNDN1MWRGZU9vSmxPR2V0UXdueXFRcnRsZGxpTDhFVEhwUzhnR3Z1eHZmRU9zbHhpVFFWOWNBbDFDaHQ5T2NXcm9XUTVuOHg1YTFnWjRHdTdaaG1nWFE?oc=5",
     "title": "‘AI 거품론’과 삼성전자 SK하이닉스의 ‘보험’",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n3964de2f",
     "category": "스포츠",
     "source": "네이트",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NMllWMXFlaDFlUW1oZGtIdWNyLVNycl9QbEpNeGNFbkxnVTF4NXJpSXdtWGRTV1lNMG1CTzRVaU5pdktDV19mcGFaTXpiSDN6Ml9zb2JCM05kREV5TFNTYg?oc=5",
     "title": "[오피셜] KBO 올스타전 드림·나눔 유니폼 공개",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nec851840",
     "category": "경제",
     "source": "이투데이",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNm9sbTdsUzYzbTZSOW5VVnNna25pd0pFQ2h4aTczdVpla1ZRWGJjLWxoRU01Rlk5b0RLb3hHTHRCckRleE1FelJBNWYwYzVreVBaMw?oc=5",
     "title": "한은 금리 인상에 '환율ㆍ시장금리' 안정화될까⋯\"비용충격 악화가 변수\"",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n48c48642",
     "category": "IT",
     "source": "더구루",
-    "time": "17시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZktmUFNHOWg1Yjl4WVkxSk5kbXd4UUw5bVN2X2hqY0lMTkpfN0lSUWxfSjB5UUZzaE9kTEtxNnVtR2cwNENMRlFiX1JGUHlfNWkxZE5NZ2JFSlpQdEpMWkxnbw?oc=5",
     "title": "[단독] '엔비디아 날개 단' 두산, AI 휴머노이드 로드맵 전격 공개…독일 점유율 10배 폭풍 성장 정조준",
     "summary": [
@@ -323,42 +323,172 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncf677b60",
+    "id": "ndd668a92",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/04/MRSGGZDFMY3DAOLFMMZTINTEGY/",
-    "title": "'1점차 진땀승' 원종현이 지켰다…\"순간적으로 홈은 늦었다고 판단해 2루 송구, 더블플레이로 이어져\" [오!쎈 고척]",
-    "summary": [
-      "[OSEN=고척, 홍지수 기자] 프로야구 키움 히어로즈가 경기 후반 집중력을 앞세워 짜릿한 재역전승을 거두며 2연패에서 벗어났다.",
-      "키움은 3일 고척스카이돔에서 열린 2026 신한 SOL KBO리그 두산 베어스와 홈경기에서 6-5로 승리했다.",
-      "7회 역전을 허용했지만 8회 대타 최주환의 동점 적시타와 안치홍의 결승 희생플라이가 터지며 승부를 다시 뒤집었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n3d6edc15",
-    "category": "사회",
     "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695675",
-    "title": "하메네이 장례식 4개월 만에 개시…중·러·중동 인사 집결",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694541",
+    "title": "[주말의 OTT] FIGHT, 싸워",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = 미국과 이스라엘의 공습으로 사망한 아야톨라 알리 하메네이의 장례 절차가 사망 약 4개월 만에 시작됐다.",
-      "이란 정부는 6일간 이어지는 대규모 추모 행사를 통해 후계 체제의 안정성과 국가 결속을 대내외에 과시하는 데 주력하고 있다.",
-      "뉴욕타임즈(NYT), AP통신 등에 따르면 이란 국영 언론이 3일(현지 시간) 공개한 사진에는 이란 정부 고위 인사와 외국 대표단, 종교 지도자, 민병대 관계자들이 하메네이의 관을 찾아."
+      "[서울=뉴시스] 손정빈 기자 = 7월 첫 번째 주말 쿠팡플레이·넷플릭스·웨이브 신작을 정리했다.",
+      "◇국대:로드 투 노스 아메리카(쿠팡플레이) 대한민국 축구 황금세대의 북중미 월드컵 여정을 담은 쿠팡플레이 다큐멘터리 '국대:로드 투 노스 아메리카'는 지난달 25일 공개된 5화를 통해 대표팀의 또 다른 뜨거운 서사를 펼쳐냈다.",
+      "이번 편 중심에는 오랜 부상과 재활을 견뎌낸 핵심 스트라이커 조규성이 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "nf87bc600",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/06/30/IIQ4HUXROVCGTNFXJUDNHYJFNI/",
+    "title": "돈 아깝다고 오래된 프라이팬 쓰면 안 돼요, 손잡이 탈부착형 3종 합쳐 딱 8만원",
+    "summary": [
+      "돈 아깝다고 오래된 프라이팬 쓰면 안 돼요, 손잡이 탈부착형 3종 합쳐 딱 8만원."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4bbcac03",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/04/GRSGIMZQGZQTKMDCGM4TMZRZGA/",
+    "title": "로마노 “HERE WE GO SOON” 클롭, 독일 감독직 수락 보도…나겔스만 후임 협상 급물살",
+    "summary": [
+      "[OSEN=이인환 기자] 위르겐 클롭의 독일 복귀 시계가 마지막 칸으로 갔다.파브리치오 로마노는 4일(한국시간) 자신의 SNS에 클롭이 독일 대표팀 감독직을 수락했고, 최종 합의 전 계약 세부 조건 확인이 진행 중이라고 전했다.",
+      "게시물에는 “HERE WE GO SOON”이라는 표현이 붙었다.",
+      "클롭의 감독 복귀가 독일 대표팀 벤치로 향한다는 신호다.독일축구협."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1af701ea",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/06/21/QC4CFZZGZJDJPPTM52C2LKLHOE/",
+    "title": "주름 수 347개→54개 임상, 서울대 보톡스 세럼을 기자가 직접 바른 후 느낀 변화",
+    "summary": [
+      "주름 수 347개→54개 임상, 서울대 보톡스 세럼을 기자가 직접 바른 후 느낀 변화."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9cf78b0e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695487",
+    "title": "인천, 낮 30도 안팎 더위…오전 소나기 예보",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 4일 인천은 낮 동안 30도 안팎의 무더위가 이어지겠다.",
+      "하늘은 동해상에 위치한 고기압의 가장자리에 들어 가끔 구름 많다가 저녁부터 흐려지겠다.",
+      "수도권기상청은 \"아침 최저기온은 23도, 낮 최고기온은 29도 내외의 분포를 보이겠다\"며 \"오전 사이 5~20㎜ 사이 소나기가 내리는 곳이 있겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a3d86bf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694771",
+    "title": "제천 청풍호, 아고다 선정 '아시아 숨은 호수 여행지' 이름 올려",
+    "summary": [
+      "[서울=뉴시스]김수빈 인턴 기자 = 디지털 여행 플랫폼 '아고다'가 선정한 '아시아 숨은 호수 여행지'에 충북 제천의 청풍호가 이름을 올렸다.",
+      "2일 아고다에 따르면 최근 자연 속에서 여유를 즐기려는 여행객이 늘어나면서 잘 알려지지 않은 호수 여행지가 새로운 휴양지로 주목받고 있다.",
+      "아고다는 번잡한 관광지를 벗어나 고요한 자연과 아름다운 풍경을 만끽할 수 있는 아시아의 숨은 호수 여행지 6곳을 선정해 소개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne99015e4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695649",
+    "title": "[오늘의 주요일정]국회(7월4일 토요일)",
+    "summary": [
+      "[서울=뉴시스] ◇국회의장 19:00 WSL 서핑대회(거북섬 웨이브파크) ◇의원실 세미나 15:00 서미화 의원실 등, 환자의 알 권리 보장과 건전한 의료기관 광고 질서 확립을 위한 국회 토론회(의원회관 제2세미나실)."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb391a50b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/national/welfare-medical/2026/07/04/2GCSBF4O7RGG3K7XAE5VWFXNPY/",
+    "title": "[단독] 환자 채워 연명 ‘좀비 요양병원’ 퇴출",
+    "summary": [
+      "[단독] 환자 채워 연명 ‘좀비 요양병원’ 퇴출."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n75072865",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704003700071",
+    "title": "대규모 퍼레이드 취소…美동부 폭염에 건국250주년 행사 차질",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 동부를 덮친 폭염으로 미 건국 250주년 기념행사에 차질이 빚어지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne4e44013",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704003600002",
+    "title": "달러-원, 미 독립기념일 휴장에 엔화 연동…1,530원 마감",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc8bfd52",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704003200091",
+    "title": "'앤트로픽 AI 수출통제 해제' 이끈 건 아모데이 아닌 브라운 CCO",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 앤트로픽의 최상위 인공지능(AI) 모델에 대한 미국 행정부의 수출 통제 해제를 이끈 것은 다리오 아모..."
+    ],
+    "chips": [
+      "#AI",
+      "#수출"
+    ]
+  },
+  {
     "id": "nd513bcef",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260704002800099",
     "title": "'러 점령' 자포리자 원전, 21번째 외부 전력 끊겨",
     "summary": [
@@ -369,96 +499,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne266c8de",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704002700087",
-    "title": "페트로 콜롬비아 대통령, 트럼프와 통화…마약 대책 등 논의",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 퇴임을 앞둔 구스타보 페트로 콜롬비아 대통령이 3일(현지시간) 도널드 트럼프 미국 대통령과 전화 통화를..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n23143465",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704002500075",
-    "title": "\"4만톤 음식물이 썩어간다\"…연기 다음엔 악취로 고통받는 LA",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 로스앤젤레스(LA) 식료품 냉동창고 대형화재가 간신히 진압됐지만 그 안에 보관된 4만톤 분량의 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6a23d1a2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704002100099",
-    "title": "교황 美자유메달 수상…\"독립 250주년, 건국이념 성찰하길\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 미국 출신인 레오 14세 교황이 3일(현지시간) 미국 최고의 영예 중 하나인 '필라델피아 자유메달'(..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2171e5ee",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "50분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/04/MQ4WEOJRMYZTKOJQMVQWKYRXME/",
-    "title": "솔로포→만루싹쓸이→솔로포 미친타격...다들 알고도 못하는데 김휘집은 깨달았나 \"힘 빼고 가볍게 타격한다\" [오!쎈 광주]",
-    "summary": [
-      "[OSEN=광주, 이선호 기자] \"힘 빼고 타격한다\".NC 다이노스 내야수 김휘집(24)이 미친타격을 했다.",
-      "3일 광주-기아 챔피언스필드에서 열린 2026프로야구 KIA 타이거즈와의 경기에서 5타석4타수3안타2홈런1볼넷5타점의 맹타를 휘둘렀다.",
-      "팀의 11-3 승리를 이끌었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n6d128e7f",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/07/04/MY3TUNVMLBACXJT44ANOXWKCCA/",
-    "title": "“글로벌 기업들, AI에 2조달러 투입… 이익 내려면 4조달러 매출 나와야”",
-    "summary": [
-      "“글로벌 기업들, AI에 2조달러 투입… 이익 내려면 4조달러 매출 나와야”."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ne665a27c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/07/04/BHFSIJJ4XVDORNAVIXSR3VI6UM/",
-    "title": "‘5초 미학’ 하모유비끼부터 어죽까지… 남해안의 갯장어 노포들",
-    "summary": [
-      "‘5초 미학’ 하모유비끼부터 어죽까지… 남해안의 갯장어 노포들."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n46e0d340",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260704/134235245/1",
     "title": "손연재, 운동 후 쌀국수 먹어도 군살 제로…놀라운 몸매",
     "summary": [
@@ -474,7 +518,7 @@ window.NEWS_DB = [
     "id": "n371cf2a4",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260704/134235242/1",
     "title": "승무원 출신 류이서 “올백 16시간 헤어라인 많이 빠져”",
     "summary": [
@@ -489,7 +533,7 @@ window.NEWS_DB = [
     "id": "n28bdf9b6",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260704/134235239/1",
     "title": "2세 성별 공개한 세븐 “지난주에 확인…공주님이다”",
     "summary": [
@@ -505,7 +549,7 @@ window.NEWS_DB = [
     "id": "n7a5d8c51",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260704/134235236/1",
     "title": "손담비 “출산 100일 후 탈모 심해…남편은 노화로 탈모”",
     "summary": [
@@ -517,42 +561,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na1671c4b",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695155",
-    "title": "\"축구 안 본다더니\"…미국, 월드컵 시청 기록 또 갈아치웠다",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 미국 축구대표팀(USMNT)의 2026 북중미 월드컵 32강전 승리 경기가 영어권 축구 중계 역사상 가장 많은 시청자를 끌어모으며 새 기록을 썼다.",
-      "미국 폭스스포츠에 따르면 지난 2일(현지 시간) 미국이 보스니아 헤르체고비나를 2-0으로 꺾은 경기는 평균 2440만 명이 시청했다.",
-      "이는 영어권 중계 기준 역대 축구 경기 최고 시청 기록이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n02f69ac5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695673",
-    "title": "모나코 폭탄 테러 용의자 독일 도주…인터폴, 남장한 우크라 여성 수배",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 세계적인 부호들이 거주하는 모나코에서 발생한 폭탄 테러의 유력 용의자로 독일에 거주하는 우크라이나 국적 여성이 지목돼 국제 경찰의 추적을 받고 있다.",
-      "수사당국은 용의자가 남장을 하고 범행을 저지른 뒤 여러 유럽 국가를 거쳐 독일로 도주한 것으로 보고 있다.",
-      "가디언에 따르면 국제형사경찰기구(인터폴)는 3일(현지 시간) 아나스타시아 베레조프스카(39)에 대해 적색수배를 발령했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nf5079e81",
     "category": "사회",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153118",
     "title": "횡령·부당대출 이어 이번엔 개인정보…우리은행 '신뢰 회복' 또 시험대",
     "summary": [
@@ -568,7 +580,7 @@ window.NEWS_DB = [
     "id": "nff61c7e7",
     "category": "경제",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153115",
     "title": "게임주 침체기에도 엔씨는 달렸다...국민연금이 반년간 67만주 담은 이유",
     "summary": [
@@ -584,7 +596,7 @@ window.NEWS_DB = [
     "id": "n49a3b5c8",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153117",
     "title": "[카드뉴스] 네이버와 다음이 동시에 바꾸는 '검색의 미래'.. 이제 AI에게 물어보는 시대입니다",
     "summary": [
@@ -601,7 +613,7 @@ window.NEWS_DB = [
     "id": "nf3817920",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153112",
     "title": "국내 SI '빅3' 보안 투자액 들여다보니...규모는 삼성SDS, 증가율은 현대오토에버",
     "summary": [
@@ -614,26 +626,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5f26ff34",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694987",
-    "title": "시어머니 방문 거절에 남편 \"이혼하자\"…\"친정은 되고 시댁은 안 되나\" 갑론을박",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 시어머니의 방문을 거절했다가 남편으로부터 이혼 통보를 받았다는 여성의 사연이 공개돼 온라인에서 갑론을박이 이어지고 있다.",
-      "지난 2일 한 온라인 커뮤니티에는 '시어머니 방문 거절했다가 남편이 이혼하재요'라는 제목의 글이 올라왔다.",
-      "결혼 8년 차라고 밝힌 작성자 A씨는 \"시어머니가 다음 달 서울에 올 일이 있다며 집에 들르고 싶다고 한 달 전부터 연락을 주셨다\"며 \"하지만 어머님이 오시면 솔직히 너무 힘들다\"고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ndb7b2e01",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026070351611",
     "title": "서울시, 기부채납 부담 확 낮춘다…공공기여율 60→30%",
     "summary": [
@@ -650,8 +646,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "3110건",
+    "trend": "+375%"
   },
   {
     "rank": 2,
