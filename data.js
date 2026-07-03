@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-03 11:25:15
+// 마지막 업데이트: 2026-07-03 13:41:01
 window.NEWS_DB = [
   {
     "id": "nda209a8b",
     "category": "IT",
     "source": "뉴스투데이",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zNDN1MWRGZU9vSmxPR2V0UXdueXFRcnRsZGxpTDhFVEhwUzhnR3Z1eHZmRU9zbHhpVFFWOWNBbDFDaHQ5T2NXcm9XUTVuOHg1YTFnWjRHdTdaaG1nWFE?oc=5",
     "title": "‘AI 거품론’과 삼성전자 SK하이닉스의 ‘보험’",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nec851840",
     "category": "경제",
     "source": "이투데이",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNm9sbTdsUzYzbTZSOW5VVnNna25pd0pFQ2h4aTczdVpla1ZRWGJjLWxoRU01Rlk5b0RLb3hHTHRCckRleE1FelJBNWYwYzVreVBaMw?oc=5",
     "title": "한은 금리 인상에 '환율ㆍ시장금리' 안정화될까⋯\"비용충격 악화가 변수\"",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n48c48642",
     "category": "IT",
     "source": "더구루",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZktmUFNHOWg1Yjl4WVkxSk5kbXd4UUw5bVN2X2hqY0lMTkpfN0lSUWxfSjB5UUZzaE9kTEtxNnVtR2cwNENMRlFiX1JGUHlfNWkxZE5NZ2JFSlpQdEpMWkxnbw?oc=5",
     "title": "[단독] '엔비디아 날개 단' 두산, AI 휴머노이드 로드맵 전격 공개…독일 점유율 10배 폭풍 성장 정조준",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "nb6df5091",
     "category": "스포츠",
     "source": "starnewskorea.com",
-    "time": "22시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
     "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
     "summary": [
@@ -141,16 +141,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb424412f",
+    "id": "n6b58f8f3",
     "category": "사회",
-    "source": "v.daum.net",
+    "source": "아주경제",
     "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
     ],
     "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nc5a25e66",
+    "category": "사회",
+    "source": "헤럴드경제",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yUmlXdEFvaDdfSmlkcGU4XzlVMzFkQXpEZjhpaUc4bWJzQ0tSeXVoOUFveUZGYVBjQXVVOGc1V0RJNDA4el9oVk5ieS1qU0dNVk5TZmtn?oc=5",
+    "title": "AI가 취업·채용 돕는다…고용24, 맞춤형 AI 고용서비스 3종 공개",
+    "summary": [
+      "AI가 취업·채용 돕는다…고용24, 맞춤형 AI 고용서비스 3종 공개 헤럴드경제."
+    ],
+    "chips": [
+      "#AI",
       "#채용",
       "#취업",
       "#고용"
@@ -176,7 +193,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "7일 전",
+    "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -201,6 +218,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
+    ]
+  },
+  {
+    "id": "nde229885",
+    "category": "IT",
+    "source": "한국보험신문",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
+    "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
+    "summary": [
+      "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장” 한국보험신문."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -247,14 +278,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n32bf68e2",
+    "id": "n31af3cbd",
     "category": "경제",
-    "source": "v.daum.net",
+    "source": "에너지경제신문",
     "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
-    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
+    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
-      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
+      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
     ],
     "chips": [
       "#금리",
@@ -289,21 +320,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n98a572df",
-    "category": "IT",
-    "source": "대한민국 정책브리핑",
-    "time": "65일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책"
     ]
   },
   {
@@ -372,275 +388,257 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n86e6bcae",
+    "id": "n246bfe4f",
     "category": "사회",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/03/MJSTCZBTHAYTSOBTMQYGIMLEGY/",
-    "title": "이창섭, ‘흑백2’ 선재스님 조카였다..“한 번도 이모라 불러본 적 無” (이창섭&저창섭)",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/politics/blue_house/2026/07/03/Q5QZGZI7TNE4ZCXBAI7NRRRAXI/",
+    "title": "[단독] 李대통령, 장동혁 대표 가족상에 근조화환 보냈다",
     "summary": [
-      "[OSEN=박하영 기자] 이창섭이 '외당이모'이자 사찰음식 명장 1호 선재스님을 만났다.",
-      "3일 유튜브 채널 ‘이창섭&저창섭’에는 ‘선재 스님이 이모면 생기는 일’이라는 제목의 영상이 게재됐다.이날 이창섭은 “오늘은 드디어 이모를 만나러 간다.",
-      "연예계에 제가 가지고 있는 가장 큰 권력 바로 선재스님을 만나러 갑니다”라고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6baacd28",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/03/MVQTCZBTMU4DIZJQHEYTGY3DMY/",
-    "title": "홈런-홈런-홈런, 또 터졌다...강백호, 3경기 연속 홈런, 타점 1위 질주",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 한화 이글스 강백호가 3경기 연속 홈런을 터뜨렸다.",
-      "강백호는 3일 서울 잠실구장에서 열린 LG 트윈스와 경기에 4번 지명타자로 선발 출장했다.",
-      "강백호는 1회 2사 1루에서 2루수 포구 실책으로 출루했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n28eb3ce6",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026070320134069780",
-    "title": "[단독]이언주, '합성 음란물 유포' 기업인 경찰에 고소",
-    "summary": [
-      "이언주 더불어민주당 의원이 자신의 얼굴을 합성한 음란 이미지와 모욕성 게시물을 사회관계망서비스(SNS)에 유포한 박사 출신 기업인을 경찰에 고소했다.",
-      "이 의원 법률대리인 법무법인 오른하늘은 성폭력처벌법상 허위영상물 편집·반포 및 모욕 혐의로 기업인 A씨를 서울경찰청 사이버수사과에 고소했다고 3일 밝혔다.이 의원 측은 고소장을 통해 \"선정적 합성 이미지와 성적 비하 표현을 결합한 게시물은 정치적 의견 표명이나."
+      "[단독] 李대통령, 장동혁 대표 가족상에 근조화환 보냈다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n61570e56",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260703/134233969/2",
-    "title": "김민석 “배재고 사과 다행…역사교육으로 조롱·혐오 종식시켜야”",
-    "summary": [
-      "김민석 전 국무총리가 5·18 민주화운동을 폄훼하는 응원 구호로 논란을 빚은 배재고 야구부가 상대팀인 광주제일고를 찾아 사과하기로 한 것과 관련해 “올바른 역사교육으로 5·18 조롱과 혐오를 종식시켜야 한다”고 밝혔다.김 전 총리는 3일 자신의 엑스(X·옛 트위터)에 ‘올바른 역사교육으로 5·18 조롱과 혐오를 종식시킵시다’라는 제목의 글을 올리고 “배재고 야구부 학생들이 광주제일고를 찾아 사과하고 5·18 민주묘지를 참배한다고 한다”며 “늦었."
-    ],
-    "chips": [
-      "#KBO",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n41c593f7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/03/GBTDAYTCMNSDMN3GMYYDINLBGU/",
-    "title": "\"조타를 위해 이겼다\" 호날두, 21번 유니폼 입고 눈물...리버풀은 안필드에 'Forever 20' 영구 추모",
-    "summary": [
-      "[OSEN=정승우 기자] 크리스티아누 호날두(41, 알 나스르)가 디오구 조타의 유니폼을 들고 눈물을 흘렸다.",
-      "포르투갈의 승리는 세상을 떠난 동료를 향한 헌정이었다.영국 '데일리 메일'은 3일(한국시간) \"호날두가 크로아티아전 승리 후 조타의 이름이 새겨진 유니폼을 입고 눈물을 보였다.",
-      "포르투갈은 조타를 위해 이겼다\"라고 보도했다.포르투갈은 이날 2026."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naa101b20",
+    "id": "nde6d6909",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695611",
-    "title": "한화 강백호, LG전서 선제 솔로포 '쾅'…3경기 연속 홈런",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695644",
+    "title": "'7경기 6홈런' 한화 강백호 \"타율 3할·30홈런·100타점 해보고 싶다\"",
     "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 한화 이글스의 강백호가 3경기 연속 대포를 가동했다.",
-      "강백호는 3일 잠실구장에서 벌어진 2026 신한 쏠 KBO리그 LG 트윈스와의 경기에 4번 지명타자로 선발 출전해 0-0으로 맞선 6회초 왼쪽 담장을 넘기는 선제 솔로 홈런을 쏘아올렸다.",
-      "6회초 1사 주자 없는 상황에 타석에 들어서 LG 선발 라클란 웰스를 상대한 강백호는 볼카운트 1볼-2스트라이크에서 5구째 시속 145㎞ 가운데 높은 직구를 노려쳐 홈."
+      "[서울=뉴시스]김희준 기자 = 최근 홈런쇼를 펼치고 있는 프로야구 한화 이글스의 강백호가 타율 3할과 30홈런, 100타점 동시 달성에 대한 의욕을 한껏 드러냈다.",
+      "강백호는 3일 잠실구장에서 벌어진 2026 신한 쏠 KBO리그 LG 트윈스와의 경기에 4번 지명타자로 선발 출전해 홈런 두 방을 몰아치는 등 4타수 2안타 4타점 2득점으로 불꽃타를 휘둘렀다.",
+      "강백호 뿐 아니라 노시환의 홈런포까지 터진 한화는 선두 LG를 8-1로 완파하며 기세를 한."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n80c11fd0",
+    "id": "n521d029b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/07/03/SNWJZNJISJBFZPZWQF4EHWKBAE/",
+    "title": "‘투표용지 부족 집회’ 보며 골프 연습하고 수당…선관위 직원, 정직 1개월",
+    "summary": [
+      "‘투표용지 부족 집회’ 보며 골프 연습하고 수당…선관위 직원, 정직 1개월."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n47e474c0",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/03/2026070322084391497",
+    "title": "[한번에쓱]승리 주역들은 줄을 서시오! '랜더스 6-4로 잡은' 삼성",
+    "summary": [
+      "삼성 박진만 감독과 선수들이 3일 인천SSG랜더스필드에서 열리는 2026KBO리그 SSG랜더스와 삼성라이온즈 경기에서 6-4로 승리한 후 하이파이브를 나누며 자축하고 있다.",
+      "결승타와 3타점 주인공 구자욱, 승리투수 원태인, 솔로홈런과 2루타로 2타점을 올린 최형우가 박진만감독과 하이파이브를 나누고 있다.",
+      "삼성 박진만 감독과 선수들이 3일 인천SSG랜더스필드에서 열리는 2026KBO리그 SSG랜더스와 삼성라이온즈 경기에서 6."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4e05a905",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/opinion/manmulsang/2026/07/03/HXV2PGV26FG4RBT7F575AXMIFY/",
-    "title": "[만물상] “그따위로 축구하려면”",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/03/MNSGINBRMZSWGYZUGUZTKNBZMY/",
+    "title": "즐라탄, '크로아티아 득점 취소'에 극대노...\"완벽한 도둑질, 호날두는 팀을 인질로 잡고 있어\"",
     "summary": [
-      "[만물상] “그따위로 축구하려면”."
+      "[OSEN=정승우 기자] 즐라탄 이브라히모비치(45)가 포르투갈과 크로아티아의 월드컵 경기 판정에 강한 불만을 드러냈다.",
+      "크리스티아누 호날두(41, 포르투갈)를 향한 비판도 거침없었다.이탈리아 '가제타 델로 스포르트'는 3일(한국시간) \"즐라탄 이브라히모비치가 크로아티아의 득점 취소 장면을 두고 '도둑질'이라고 표현했다.",
+      "그는 포르투갈과 스페인의 16강전을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n720592a1",
+    "id": "nd8fdd057",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695587",
-    "title": "시중은행마저 고객정보 유출 사고…내부통제 다시 도마",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703146051081",
+    "title": "친러 우크라 재벌 노린 모나코 테러…인터폴, 우크라女 수배(종합)",
     "summary": [
-      "[서울=뉴시스] 이정필 기자 = 국내 대형 시중은행에서 고객 개인정보가 유출되는 사고가 발생했다.",
-      "고객 자금을 직접 다루며 가장 안전해야 할 은행마저 허점을 드러내면서 민감한 개인정보가 금융권에서도 지속적으로 새고 있다는 지적이 커진다.",
-      "3일 금융권에 따르면 우리은행에서는 최근 대체불가토큰(NFT) 플랫폼 구축 프로젝트를 수행한 외부 개발업체가 임의로 보관하고 있던 개인정보 1만7551건이 해당 업체 직원의 과실로 유출되는 사고가 발생했다."
+      "(파리=연합뉴스) 송진원 특파원 = 모나코 공국에 거주하는 친러시아 성향 우크라이나 재벌을 노린 폭탄 테러의 용의자로 우크라이나 국적의 30대 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd5cb3dcc",
+    "id": "n4f20cf50",
     "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260703/134233958/1",
-    "title": "WMO “향후 몇달 엘니뇨 급격히 강해져 극단적 기후 가능성 커”",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703161100082",
+    "title": "핵무기 빗장 푸는 유럽…리투아니아도 금지 해제하기로",
     "summary": [
-      "열대 태평양에서 발생한 엘니뇨 현상이 앞으로 몇 달 동안 급격히 강해질 것으로 예상되며, 이로 인해 세계 여러 지역에서 폭염, 가뭄, 폭우 및 기타 극한 기상 현상이 발생할 가능성이 높아질 것이라고 세계기상기구(WMO)가 3일 경고했다.WMO의 월간 글로벌 계절기후 업데이트에 따르면 엘니뇨는 2026년 7월부터 9월까지 강력하게 발전할 것으로 예상된다.",
-      "주요 세계 기상예측 기관들의 다중 모델 앙상블 예측에 따르면 주요 모니터링 지역에서 계절 평."
+      "(베를린=연합뉴스) 김계연 특파원 = 유럽 안보 환경이 급변하면서 핀란드에 이어 발트해 연안국 리투아니아도 자국에 핵무기를 배치할 수 있도록 법..."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "n34c3d6c9",
+    "id": "nd4e27e28",
     "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260703/134233955/1",
-    "title": "폭염 덮친 프랑스…31만원 에어컨 사려 몸싸움까지",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/07/03/KQBIQ3TL65AYDNFW2GZMDXNOHM/",
+    "title": "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다”",
     "summary": [
-      "프랑스에서 기록적인 폭염이 이어지는 가운데 저가 에어컨을 구매하려는 시민들이 대형 할인마트로 몰리면서 곳곳에서 몸싸움과 고성이 오가는 소동이 벌어졌다.지난 2일(현지 시간) 프랑스24에 따르면 독일계 할인마트 리들(Lidl)은 이날 프랑스 전역의 매장에서 이동식 에어컨과 선풍기 등 냉방기기 20만 대를 할인 판매했다.",
-      "다른 매장에서는 에어컨 가격이 1200유로(약 210만원)를 웃도는 경우가 대부분이었지만, 리들은 기본형 이동식 에어컨을 최저."
+      "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfd273e7e",
+    "id": "n8051048f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/03/2026070322233024561",
+    "title": "[한번에쓱]'고명준 거포본능이 깨어난다' 삼성전 2홈런 기록하며 타격감 찾아",
+    "summary": [
+      "SSG 거포 고명준이 3일 인천SSG랜더스필드에서 열리는 2026KBO리그 SSG랜더스와 삼성라이온즈 경기에서 2홈런을 기록하며 타격감을 깨웠다.",
+      "8회말 솔로홈런을 터트린 고명준이 홈인하고 있다.",
+      "하지만 랜더스는 삼성에 4-6으로 패하며 7연패에 빠졌다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n93c906f5",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695645",
+    "title": "'회식 몇 번 한 걸로'…숨진 20대 소방관 비하 댓글, 경찰 수사",
+    "summary": [
+      "[전남광주=뉴시스]변재훈 기자 = 직장 내 괴롭힘(갑질)을 호소하다 스스로 생을 마감한 20대 여성 소방관을 비하하는 공무원 내부 익명 게시판 댓글에 대해 경찰이 수사에 나섰다.",
+      "광주경찰청 사이버범죄수사대는 광산소방서 소속 고(故) A소방교 유족이 최근 '전남광주특별시 공무원 내부 익명게시판에 A소방교에 대해 비하하는 듯한 댓글을 쓴 작성자를 처벌해 달라'며 고소장을 접수했다.",
+      "유족은 고소장에서 \"익명 내부 게시판에 A소방교의 죽음에 대해 '회."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nccdf2757",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260703160700007",
+    "title": "프로야구 2위 삼성, SSG 완파…1위 LG와 1.5경기 차(종합)",
+    "summary": [
+      "(서울=연합뉴스) 김경윤 기자 = 프로야구 2위 삼성 라이온즈가 SSG 랜더스를 꺾고 1위 LG 트윈스를 1.5경기 차로 추격했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5b664da9",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/03/2026070322084815957",
+    "title": "\"회식 몇 번 하자고 한 걸로\"…숨진 여성 소방관 비하한 공무원들",
+    "summary": [
+      "직장 내 갑질을 호소하다 스스로 목숨을 끊은 20대 여성 소방교를 비하하는 글이 전남광주통합특별시 공무원 게시판에 잇따라 올라와 경찰이 수사에 나섰다.",
+      "3일 광주경찰청에 따르면 최근 전남광주 광산소방서 소속 A 소방교의 죽음을 비하한 게시글 작성자를 처벌해 달라는 내용의 유족 고소장이 접수됐다.",
+      "고소장에는 \"상사가 회식을 몇 번 하자고 한 것 가지고\" 등 A 소방교를 비하하는 내용의 글이 공무원 내부 게시판에 게시됐다며 작성자를 사자명예훼손 등."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n19e58eaa",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/03/2026070321502571382",
+    "title": "이동국 세 딸, 폭풍 성장 근황…모델 언니보다 키 큰 수아 '깜짝'",
+    "summary": [
+      "전 축구선수 이동국의 세 딸 근황이 공개됐다.",
+      "지난 2일 이동국의 아내 이수진씨는 자신의 인스타그램에 사진을 게재했다.",
+      "사진에는 서울 성동구 성수동에서 열린 브랜드 팝업스토어에 참석한 딸들의 모습이 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0bf6e541",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003695609",
-    "title": "영탑사 문화유산 담은 에코백…관광명품점서 인기",
-    "summary": [
-      "[당진=뉴시스]김덕진 기자 = 충남 당진시는 3일 문화체육관광부 지정 전통사찰 영탑사를 배경으로 만든 에코백이 서울 한국관광명품점에서 절찬리에 판매 중이라고 밝혔다.",
-      "시에 따르면 이 에코백은 지난 3월 코엑스에서 열린 내나라여행박람회에 출품된 후 한국을 찾은 관광객이 즐겨 찾는 쇼핑 명소 중 하나인 명품점에 입점했다.",
-      "명품점은 대한민국관광기념품 공모전 수상 제품을 비롯해 나전칠기, 섬유, 보석, 잡화 등 순수 국내 제작 상품들만 판매한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6f9a209f",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026070320094590399",
-    "title": "[내일날씨]전국 흐리고 남부·제주 장맛비…제주 산지 150㎜ 이상",
-    "summary": [
-      "토요일인 4일은 전국이 대체로 흐리고, 제주도와 남부 지방을 중심으로 장마 전선의 영향이 이어지겠다.",
-      "전남 남부와 제주도에 이어 새벽부터 그 밖의 전남권과 경남 남해안, 오전부터 그 밖의 경남권, 밤부터 충청권 남부와 전북·경북 남부로 비가 확대되겠다.",
-      "오전까지 전남 남부와 제주도를 중심으로 돌풍과 함께 천둥·번개를 동반한 시간당 20∼30㎜의 강한 비가 내리겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36f49589",
-    "category": "사회",
-    "source": "동아일보",
     "time": "19분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260703/134233948/1",
-    "title": "‘정보사 요원 명단 유출’ 문상호, 1심 징역 2년 불복…쌍방항소",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695652",
+    "title": "與워크숍서 당권주자 한 테이블…장외선 檢수사권 등 신경전(종합)",
     "summary": [
-      "12·3 비상계엄 당시 부정선거 의혹 수사를 위한 제2수사단 구성을 위해 정보사 요원 명단을 민간인에게 유출한 혐의로 1심에서 실형을 선고받은 문상호 전 정보사령관 사건이 항소심으로 넘어간다.3일 법조계에 따르면 문 전 사령관이 지난달 30일 서울중앙지법에 항소장을 제출한 데 이어 내란특검팀(특별검사 조은석)도 지난 1일 항소장을 제출했다.",
-      "서울중앙지법 형사합의26부(부장판사 이현경)는 지난달 26일 군형법상 군기누설, 개인정보보호법 위반 등."
+      "[서울=뉴시스] 김난영 정금민 권신혁 김윤영 기자 = 더불어민주당 차기 당권 주자들이 당내 워크숍에 나란히 참석했다.",
+      "이들은 한 테이블에 앉아 서로 웃으며 화기애애한 모습을 보였지만, 당내 현안을 두고는 장외 공방을 벌였다.",
+      "정청래 전 대표와 김민석 전 국무총리, 송영길 의원은 3일 오후 서울 용산에서 열린 의원 워크숍에 따로 도착했다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n9e07e16e",
+    "id": "n0d332fed",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703156400082",
-    "title": "[월드컵] '32강 탈락' 독일 나겔스만 감독 사임",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260703/134234910/1",
+    "title": "‘옥문아’ 윤종신 “‘좋니’로 27년 만의 음방 1위…저작권료도 1위”",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 율리안 나겔스만(38) 독일 축구대표팀 감독이 북중미 월드컵 조기 탈락에 책임을 지고 중도 사퇴했다."
+      "‘옥탑방의 문제아들’ 가수 윤종신이 ‘좋니’를 최고의 효자곡으로 꼽았다.3일 오후 방송된 KBS 2TV 예능 프로그램 ‘옥탑방의 문제아들’(이하 ‘옥문아’)에는 연예계 소문난 단짝, 31년 지기 가수 윤종신과 감독 장항준의 이야기가 이어졌다.많은 명곡을 탄생시킨 가요계 거장 윤종신은 그동안 대진운이 좋지 않아 음악 방송 1위를 하지 못했다고 고백해 모두를 놀라게 했다.",
+      "이후 윤종신은 워너원, 선미 등의 쟁쟁한 경쟁자를 꺾고, ‘좋니’로 데뷔 2."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3e78b148",
+    "id": "n82c479e7",
     "category": "스포츠",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026070319474679484",
-    "title": "사진 찍으려면 기본 30분…수원 명물 장미 훼손 60대 \"꺾꽂이하려고\"",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260703/134234907/1",
+    "title": "홍명보 선임 논란 재점화…박주호 2년 전 폭로 영상 재조명",
     "summary": [
-      "경기 수원시의 한 유명 장미 명소에서 장미꽃과 가지를 무단으로 꺾어간 피의자가 범행 동기와 관련해 \"삽목(꺾꽂이)하려고 했다\"고 진술한 것으로 알려졌다.",
-      "\"꺾꽂이하려 했다\"…혐의 인정3일 경찰에 따르면 수원팔달경찰서는 지난달 29일 절도 혐의를 받는 60대 여성 A씨를 피의자 신분으로 소환조사했다.",
-      "A씨는 경찰 조사에서 혐의를 인정하며 \"삽목하려고 했다\"고 진술한 것으로 전해졌다."
+      "2024년 홍명보 감독 선임 과정을 둘러싼 논란이 다시 불거진 가운데, 당시 전력강화위원회 내부를 폭로했던 박주호의 유튜브 영상이 축구팬들 사이에서 재조명되고 있다.박주호 해설위원이 오는 6일 서울 올림픽파크텔에서 출범하는 ‘K-축구 혁신위원회’ 위원으로 참여하는 만큼, 과거 그가 공개했던 감독 선임 과정과 대한축구협회 운영을 둘러싼 문제 제기에 다시 관심이 쏠리고 있다.지난 2024년 7월 8일 구독자 74만명을 보유한 캡틴 파추호 유튜브 채."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1519f2d8",
+    "id": "nfc258981",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703147900004",
-    "title": "[날씨] 전국 흐리고 남부지방 장맛비…제주 산지 150㎜ 이상 폭우",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694349",
+    "title": "평생 뒷바라지했는데 명절 선물로 '썩은 굴비'…어머니 울린 아들 부부",
     "summary": [
-      "(서울=연합뉴스) 정지수 기자 = 토요일인 4일은 전국이 대체로 흐리고 제주도와 남부 지방에는 장맛비가 이어지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n87d787d5",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "29분 전",
-    "url": "https://view.asiae.co.kr/article/2026070319553231907",
-    "title": "시진핑, 육·공군 장성 2명 대장 승진…군 지도부 공백 보강",
-    "summary": [
-      "시진핑 중국 국가주석이 중앙군사위 감찰 책임자와 공군부사령관을 각각 상장(대장)으로 승진시켰다.",
-      "3일 중국중앙TV(CCTV)에 따르면 시 주석은 이날 장성민 중앙군사위 부주석 주재로 베이징에서 열린 진급식에서 장수광 중국 인민해방군 육군 기율검사위원회 중장과 왕강 공군 부사령원(부사령관)에게 상장 진급 명령서를 수여했다.",
-      "중국에서 상장은 한국군의 대장급으로, 현역 장교가 받을 수 있는 최고 군 계급이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf9c7d10d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703125051001",
-    "title": "당정청 워크숍서 '원팀' 강조…전대 주자들에 플래시 세례(종합)",
-    "summary": [
-      "(서울=연합뉴스) 김정진 박재하 정연솔 기자 = 더불어민주당 의원들이 3일 한 자리에 모여 이재명 정부 집권 2년 차 국정과제와 22대 후반기 ..."
+      "[서울=뉴시스]이지우 인턴 기자 = 아들 부부가 독립 후 어머니에게 명절 선물로 '썩은 굴비'를 보냈다는 사연이 전해졌다.",
+      "지난 1일 JTBC '사건반장'은 세 살 어린 남동생 때문에 어머니가 고생하고 있다는 30대 여성 A씨의 제보를 보도했다.",
+      "A씨의 남동생은 어릴 때부터 잔병치레가 심했다."
     ],
     "chips": [
       "#뉴스"
@@ -653,20 +651,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
