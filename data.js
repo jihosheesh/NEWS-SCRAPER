@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-04 06:10:03
+// 마지막 업데이트: 2026-07-04 09:13:19
 window.NEWS_DB = [
   {
     "id": "nda209a8b",
@@ -42,20 +42,6 @@ window.NEWS_DB = [
     "summary": [
       "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위...",
       "2위는 KBO 홈런 1위 김도영 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n95597478",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIZzdlX2ExQ0Nabkx6TW01eUlQQzFJTVh6cXpmMzBJRENNUkFrcTRjOUhhUTRJdUxicmFDRmw2d0pVZDhlQTVoeXZtZ0VHM1VNQ1VJc05RMVhJVTFQcWFCTg?oc=5",
-    "title": "[프로야구] 2027 KBO 신인드래프트 참가 접수 시작…오는 8월 22일까지 진행",
-    "summary": [
-      "[프로야구] 2027 KBO 신인드래프트 참가 접수 시작…오는 8월 22일까지 진행 네이트."
     ],
     "chips": [
       "#KBO"
@@ -107,6 +93,20 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
+    ]
+  },
+  {
+    "id": "n60642578",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDSmgxU2VHMG5SbGFpa01NbDdBWFNsUVJvcXA4M0ptdXRRWlZnTmlia211TzBhZ0JpREcwNElXeWs1WnM0SjhIdDVsZjVOQ3NUX2RTV2U2aW1OaFpNTGc5Ng?oc=5",
+    "title": "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행",
+    "summary": [
+      "[프로야구] '역대 최소' 388경기 만에 700만 관중 돌파…월드컵도 못 막은 KBO 흥행 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -177,7 +177,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "8일 전",
+    "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -208,7 +208,7 @@ window.NEWS_DB = [
     "id": "n9cecfc4c",
     "category": "부동산",
     "source": "한국경제",
-    "time": "11일 전",
+    "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZ9IBVEFVX3lxTE51WFJELUd0OUVyTmJ4RXJGTTZTSS1TQy0wWktPaE9uUjRCMGlpSnY4Q2tVVk8zT3dUUHRnTWJPRGoxZm5rS25Dc0xHNHk2WHF5S09CUw?oc=5",
     "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
     "summary": [
@@ -223,7 +223,7 @@ window.NEWS_DB = [
     "id": "n6f660c1e",
     "category": "IT",
     "source": "전라매일",
-    "time": "15일 전",
+    "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
     "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
     "summary": [
@@ -237,7 +237,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "17일 전",
+    "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -251,7 +251,7 @@ window.NEWS_DB = [
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
-    "time": "25일 전",
+    "time": "26일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
     "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
@@ -266,7 +266,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "35일 전",
+    "time": "36일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -281,7 +281,7 @@ window.NEWS_DB = [
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "141일 전",
+    "time": "142일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
     "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
@@ -356,280 +356,298 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n51609dd4",
+    "id": "ne71f55a2",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695862",
-    "title": "국힘 \"정부의 호남 반도체 몰아주기, 김민석 당선 위한 얄팍한 수작\"",
+    "source": "동아일보",
+    "time": "방금 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260704/134235935/1",
+    "title": "피에스타 린지, 5일 비연예인 연인과 결혼…팀 내 세 번째",
     "summary": [
-      "[서울=뉴시스] 전상우 기자 = 국민의힘은 4일 이재명 정부의 '3대 메가 프로젝트' 일환인 호남 반도체 투자 계획에 대해 \"친명계 김민석 전 국무총리를 어떻게든 당선시켜 보겠다는 얄팍한 수작에 불과하다\"고 밝혔다.",
-      "박성훈 국민의힘 수석대변인은 이날 오후 논평을 내고 \"이재명 대통령이 SNS를 통해 정부의 '3대 메가 프로젝트'를 자화자찬하며 특유의 말장난으로 국민을 기만하고 나섰다\"며 이같이 말했다.",
-      "박 수석대변인은 \"지지율과 무관한 순수한."
+      "그룹 피에스타 린지(36·임민지)가 결혼한다.4일 가요계 관계자에 따르면 린지는 오는 5일 서울 모처에서 결혼식을 올린다.",
+      "린지의 예비 남편은 비연예인이다.이로써 린지는 팀 내 세 번째로 결혼한다.",
+      "앞서 2020년 멤버 재이, 2024년 옐(혜미)가 웨딩마치를 울린 바 있다.린지는 2012년 피에스타로 데뷔해 ‘비스타’ ‘아무것도 몰라요’ ‘짠해’ 등의 곡으로 활동했다."
     ],
     "chips": [
-      "#반도체",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n82ad4b00",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/04/GU3GCZTBGBTGIZJWHA4WKZLCG4/",
+    "title": "무사 만루→홍창기 병살타→'좌완 킬러' 송찬의 대타…염갈량이 설명한 대타 기용 시점",
+    "summary": [
+      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스는 4일 잠실구장에서 한화 이글스와 시즌 8차전 맞대결을 한다.",
+      "염경엽 감독은 4일 경기에 앞서 취재진 브리핑 도중 전날 송찬의 대타 시점에 대해 언급했다.",
+      "LG는 3일 한화전에서 0-6으로 뒤진 8회말 7~9번 하위타선에서 3타자 연속 안타로 무사 만루 찬스를 잡았다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n6b3fedbc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260704_0003695928",
+    "title": "與 \"필리버스터·패스트트랙, 野 민생 발목잡기 도구…제도 정비에 최선\"",
+    "summary": [
+      "[서울=뉴시스]신재현 기자 = 더불어민주당이 4일 국민의힘을 향해 \"민생 발목잡기 도구로 전락한 필리버스터와 패스트트랙 제도를 정비해 본연의 역할을 하게끔 최선을 다하겠다\"고 예고했다.",
+      "김성회 원내대변인은 이날 서면브리핑을 통해 \"국회를 멈춘 국민의힘은 반성하고 민주당의 국회 정상화에 협조하길 촉구한다\"고 밝혔다.",
+      "김 원내대변인은 \"국민의힘은 자신들의 과거를 되돌아보길 바란다\"며 \"22대 국회 전반기에만 31건의 필리버스터를 강행했다\"고 비판했."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n5a2cce93",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695817",
-    "title": "허경환, 불미스러운 일 겪었다 \"누구 짓이야\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = MBC TV 예능물 '놀면 뭐하니?' 현장을 웃음으로 초토화시킨 아찔한 사고가 발생한다.",
-      "4일 오후 6시30분 방송되는 '놀면 뭐하니?'에선 '놀뭐골' 마을 청년회 유재석, 하하, 허경환, 주우재, 곽범이 마을 일을 함께 해나가며 웃음과 소동이 끊이지 않는 하루를 보낸다.",
-      "청년회 5인방은 논밭을 이용해서 만든 '물놀이장'을 점검하러 나선다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c5fcb8d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694627",
-    "title": "기술·서비스 발전하는데…인식·투자부족은 과제[펨테크 뜬다③]",
-    "summary": [
-      "[서울=뉴시스]송종호 기자 = 국내 펨테크 산업이 빠르게 외형을 키우고 있다.",
-      "여성 건강을 중심으로 한 디지털 헬스케어 서비스가 다양해지면서 시장 저변도 확대되는 것이다.",
-      "다만 산업 성장 속도에 비해 투자와 시장 인식은 아직 이를 충분히 뒷받침하지 못하고 있다는 지적이 나온다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n84cdb739",
+    "id": "n4121bdbf",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704028600009",
-    "title": "세계의 날씨(7월4일)",
-    "summary": [],
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704035400063",
+    "title": "경찰, 천안서 에어컨 기사 살해한 50대 구속영장",
+    "summary": [
+      "(천안=연합뉴스) 김준범 기자 = 천안동남경찰서는 에어컨 설치 기사를 흉기로 찔러 숨지게 한 혐의(살인)로 50대 A씨에 대해 구속영장을 신청할..."
+    ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd9662c72",
-    "category": "사회",
+    "id": "nb7264741",
+    "category": "스포츠",
     "source": "동아일보",
     "time": "9분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260703/134223732/2",
-    "title": "“올여름 유행은 젤리”…젤리백·젤리슈즈 매출 400% 뛰었다 [요즘소비]",
+    "url": "https://www.donga.com/news/Sports/article/all/20260704/134235932/1",
+    "title": "16강 대진 완성…프랑스, 28.89%로 유력 ‘우승 후보’",
     "summary": [
-      "젤리슈즈와 젤리백 등 젤리 소재 패션 아이템이 올여름 SNS를 중심으로 인기를 끌고 있다.",
-      "W컨셉, 29CM, 지그재그 등 주요 플랫폼에서 관련 매출과 검색량이 크게 늘며 Y2K 감성과 장마철 실용성을 갖춘 여름 아이템으로 주목받고 있다."
+      "2026 국제축구연맹(FIFA) 북중미 월드컵 16강 대진표가 완성된 가운데, 프랑스가 유력한 우승 후보로 평가됐다.4일(한국 시간) 북중미 대회 32강 일정이 마무리됐다.오는 5일 오전 2시 캐나다와 모로코의 맞대결을 시작으로 8일 스위스-콜롬비아의 경기까지 총 8개의 16강 경기가 펼쳐진다.통계 매체 ‘옵타’는 이번 대회 개막전 슈퍼컴퓨터로 예측한 우승 후보에서 16.1%로 스페인이 가장 높은 확률을 받았다고 밝힌 바 있다.32강이 종료되고."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n21f74d86",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695791",
-    "title": "\"삼전·닉스 1주도 없어\"…불안한 투자자 위한 생존 전략",
-    "summary": [
-      "[서울=뉴시스]정우영 인턴 기자 = 주식 시장의 변동성이 커진 상황에서 개인 투자자들이 롱런하기 위해서는 대중의 쏠림에 휩쓸리지 않고 자신만의 투자 속도를 유지해야 한다는 전문가 조언이 나왔다.",
-      "4일 윤지호 투자 평론가는 구독자 393만명을 보유한 유튜브 채널 '지식인사이드'에 출연해 주식 시장의 본질을 '마이너스섬 게임'으로 정의하며 이같이 밝혔다.",
-      "강세장에서는 모두가 돈을 버는 것처럼 보여도 결국 마지막까지 살아남는 승자는 소수에 불과하다는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc9888ee5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/07/04/GNQWMMJRMZRDCMJTHE2WKZTBMU/",
-    "title": "'포에버 아이브' 시작…올 여름 휴가 확정, 다이브 취향 저격",
-    "summary": [
-      "[OSEN=장우영 기자] ‘MZ 워너비 아이콘’ 아이브(IVE : 안유진·가을·레이·장원영·리즈·이서)가 이색 협업으로 음악과 공연을 넘어선 폭넓은 행보를 보였다.소속사 스타쉽엔터테인먼트에 따르면 아이브는 지난 1일부터 에버랜드와 함께하는 스페셜 콜라보 프로젝트 'ForEVER IVE(포에버 아이브)'의 현장 운영을 시작하고 다양한 콘텐츠를 선보이는 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n443117fd",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704028200030",
-    "title": "세계 식량가격, 2개월 연속 하락세…유지류·육류는 상승",
-    "summary": [
-      "(서울=연합뉴스) 김세린 기자 = 농림축산식품부는 유엔 식량농업기구(FAO)가 발표한 지난달 세계 식량가격지수가 130.3으로 전달(130.8)..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4e21db0d",
+    "id": "n872186a1",
     "category": "사회",
     "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704034100073",
+    "title": "도쿄서 아베 전 총리 '회고전'…총격 당시 마이크 등 전시",
+    "summary": [
+      "(도쿄=연합뉴스) 조성미 특파원 = 2022년 총격으로 숨진 아베 신조 전 일본 총리의 유품을 전시하는 회고전이 4∼12일 도쿄 고토구 도쿄국제..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c7b5eaf",
+    "category": "사회",
+    "source": "조선일보",
     "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704026351056",
-    "title": "제주서 3층 건물 석축 일부 무너져 주민 대피…인명피해 없어(종합)",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/MNRTMZJVMQ2DSNDDGBRTCN3GGA/",
+    "title": "최유정 응원 왔다가 트리플 크라운…아이오아이, 데뷔 10주년 '겹경사'",
     "summary": [
-      "(서귀포=연합뉴스) 고성식 기자 = 제주에서 3층 건물을 떠받든 석축 일부가 무너져 내려 건물 내부 주민들이 대피했다."
+      "[OSEN=장우영 기자] 그룹 아이오아이(I.O.I)가 음악방송 트리플 크라운의 기쁨을 함께 했다.정채연은 4일 자신의 소셜 계정 스토리에 “유정이 응원 갔다가 1위상도 직접 받고 행복했다.",
+      "또 하나의 추억을 만들어 주셔서 감사해요”라는 글과 사진을 게재했다.공개된 사진에는 이날 방송된 MBC ‘쇼! 음악중심’에서 1위를 차지하고 트로피와."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3350f12b",
+    "id": "nf99b56cd",
     "category": "스포츠",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "12분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/04/GJQTMMLDMUZGIOJSMY4DOOBQGQ/",
-    "title": "'2701호' 같은 일 또 벌어지면 '명장' 클롭도 독일 대표팀 맡기 부담",
+    "url": "https://www.newsis.com/view/NISX20260704_0003695882",
+    "title": "장준봉 KBO 기록위원, 역대 17번째 1000경기 출장 달성",
     "summary": [
-      "[OSEN=우충원 기자] 독일 축구대표팀이 월드컵 탈락의 충격 속에 결국 변화를 선택했다.",
-      "율리안 나겔스만 감독은 지휘봉을 내려놓았고, 차기 사령탑으로는 위르겐 클롭이 유력하게 거론되고 있다.",
-      "하지만 독일 대표팀이 해결해야 할 문제는 감독 교체만으로 끝나지 않는다."
+      "[서울=뉴시스]문채현 기자 = 장준봉 한국야구위원회(KBO) 기록위원이 역대 17번째 1000경기 출장 기록을 달성했다.",
+      "장준봉 기록위원은 4일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 한화 이글스와 LG 트윈스의 경기에 나서며 통산 1000경기 출장을 완성했다.",
+      "KBO 기록위원의 1000경기 출장은 앞서 16차례 기록됐다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n4adf2020",
+    "id": "n86aa7f86",
     "category": "사회",
-    "source": "동아일보",
+    "source": "뉴시스",
     "time": "12분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260704/134235847/2",
-    "title": "제주서 3층 건물 하단 석축 무너져…“붕괴 위험 대비 중”",
+    "url": "https://www.newsis.com/view/NISX20260703_0003695204",
+    "title": "\"틀니, 일반 치약 안돼요\"…'이것' 사용해야 안전",
     "summary": [
-      "제주에서 노후 빌라 건물의 하단 석축 일부가 무너져 주민들이 긴급 대피했다.4일 제주도소방안전본부에 따르면 이날 오전 9시58분경 서귀포시 서귀동 서귀포자치경찰대 인근 3층 건물 하단이 무너져 내렸다는 신고가 접수됐다.이에 소방당국과 경찰 등은 건물 내부에 있던 주민 7명을 대피시킨 뒤 해당 건물 주변에 안전 통제선을 설치하는 등 출입을 통제했다.다행히 부상자는 없는 것으로 전해졌다.",
-      "확인 결과 건물을 지탱하는 석축 일부가 무너져 붕괴 위험이."
+      "[서울=뉴시스]황재희 기자 = 틀니는 치약이나 주방세제가 아닌 의치세정제로 닦아야 한다.",
+      "의치세정제를 입안에 직접 사용하는 용도로 사용해서는 안된다.",
+      "식품의약품안전처는 어르신들이 많이 사용하는 제품인 의약외품 ‘의치세정제’의 올바른 사용법, 주의사항 등 안전 사용 정보를 안내한다고 4일 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8806e723",
-    "category": "부동산",
-    "source": "연합뉴스",
+    "id": "n47ac70d4",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704028400064",
-    "title": "이사용 사다리 고압선 접촉…충주 아파트 901가구 3시간여 정전",
+    "url": "https://www.newsis.com/view/NISX20260704_0003695922",
+    "title": "김민석·정청래 주말 사이 '호남 구애'…송영길은 청년 행사(종합)",
     "summary": [
-      "(충주=연합뉴스) 김형우 기자 = 4일 오전 7시 30분께 충북 충주시 주덕읍 화곡리의 한 아파트 단지에서 이사용 차량 사다리가 넘어지며 고압선..."
+      "[서울=뉴시스]신재현 기자 = 더불어민주당 주요 당권 주자인 김민석 전 국무총리와 정청래 전 대표가 4일 각각 전북 익산과 전남 하의도를 방문하는 등 호남 민심 잡기에 나섰다.",
+      "송영길 의원은 당 전국대학생위원회 행사에서 \"2030 세대에 대한 근본적인 대책을 수립하겠다\"고 말하며 청년 당원들과의 접촉면을 넓혔다.",
+      "김 전 총리는 이날 X(엑스·구 트위터)에 \"총리 퇴임 후 첫 주말을 보내는 익산에서, 익산을 넘어 전북, 나아가 대한민국의 새로운."
     ],
     "chips": [
-      "#부동산"
+      "#교육"
     ]
   },
   {
-    "id": "nba27a555",
+    "id": "n3226fdb6",
     "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/04/DK5ZIZ73NBBTJGWAKGE7FMK6I4/",
-    "title": "MLB 송성문, 오타니 상대로 내야 안타+도루 성공",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704031800005",
+    "title": "'악마의 바이올린' 재현에 객석 기립박수…뮤지컬 '파가니니'",
     "summary": [
-      "MLB 송성문, 오타니 상대로 내야 안타+도루 성공."
+      "(서울=연합뉴스) 권지현 기자 = 라이브 밴드가 잠시 반주를 멈춘 가운데 주연 배우가 혼자 붉은 스포트라이트 조명을 받으며 클래식 명곡 '라 캄..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf48ec762",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260704/134235814/1",
-    "title": "“N번방과 비교도 안 돼” 김수현 협박한 김세의…하체사진 공개·1800억 협박도",
-    "summary": [
-      "김세의 가로세로연구소(가세연) 대표가 유튜브 방송에서 김수현 배우의 하체 노출 사진을 공개하면서 공개 사과를 강요하고, 배우 고(故) 김새론이 미성년자 시절부터 교제했다는 허위 사실을 퍼뜨리면서 “N번방하고 비교가 안 된다”고 협박을 일삼은 정황이 검찰 공소장에 담긴 것으로 확인됐다.4일 뉴스1이 박은정 조국혁신당 의원실을 통해 확보한 공소장에 따르면 서울중앙지검은 김 대표가 유튜브 라이브 방송에서 ‘드라마 공개 보류가 아니라 취소를 해야지 공."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n50c600a5",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260704/134235812/1",
-    "title": "보스턴 채프먼, 개인 통산 1364K 달성…MLB 불펜 사상 최다 신기록",
-    "summary": [
-      "보스턴 레드삭스의 아롤디스 채프먼이 불펜투수로서 메이저리그(MLB) 역사에 새 기록을 남겼다.채프먼은 4일(한국 시간) 미국 캘리포니아주 애너하임의 에인절 스타디움에서 열린 2026 MLB LA 에인절스와의 경기에 9회 등판해 1이닝 2피안타 1탈삼진 무실점을 기록했다.그는 팀이 5-2로 앞서던 9회말 등판해 첫 상대였던 덴저 구스만을 3구삼진으로 잡아냈다.이는 채프먼의 빅리그 통산 1364번째 탈삼진으로, 그는 호이트 윌헬름을 제치고 MLB."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n52ee9e75",
+    "id": "ndb14c901",
     "category": "IT",
-    "source": "한국경제",
-    "time": "50분 전",
-    "url": "https://www.hankyung.com/article/2026070454757",
-    "title": "이준석, 정보통신망법 개정안 발의…\"사이버렉카 범죄수익 몰수\"",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260704/134235925/1",
+    "title": "‘中 메모리’ 카드까지 꺼내든 애플…AI가 뒤집은 ‘부품 갑을’ 전쟁",
     "summary": [
-      "이준석, 정보통신망법 개정안 발의…\"사이버렉카 범죄수익 몰수\"."
+      "애플이 결국 중국산 메모리 카드까지 꺼내 들었다.",
+      "인공지능(AI) 서버 열풍으로 메모리 부족 현상이 심해지자 고육책을 낸 셈이다.",
+      "삼성전자, SK하이닉스, 마이크론 중심의 기존 공급망을 흔들어 부품 가격을 낮추겠다는 전략이다."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자",
+      "#SK하이닉스",
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndb24791b",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "20분 전",
+    "url": "https://view.asiae.co.kr/article/2026070215222373196",
+    "title": "'비상장' 앤트로픽·오픈AI 주식 보유하는 방법은 [주末머니]",
+    "summary": [
+      "인공지능(AI) 기업 앤트로픽(Anthropic)과 오픈AI(OpenAI)가 주식시장 상장을 준비하는 가운데, 기업공개(IPO) 이벤트를 노린 양사의 비상장 지분을 편입한 상품이 주목받고 있다.",
+      "장치영 하나증권 연구원은 \"IPO 내용이 구체화하는 단계에서는 비상장 지분을 보유하는 상장사에 투자하는 방법 외에도 비상장 지분을 직접 편입한 상장지수펀드(ETF)와 폐쇄형 펀드를 활용할 수 있다\"며 이같이 말했다.",
+      "두 상품 모두 거래소에 상장돼."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n8cab06a1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704020152004",
+    "title": "오세훈 \"결별 대상은 尹잘못된 판단…지지세력과 관계 유지해야\"(종합2보)",
+    "summary": [
+      "(서울=연합뉴스) 황재하 기자 = 오세훈 서울시장이 윤석열 전 대통령을 지지하는 세력과 관계를 유지해야 한다면서 한동훈 무소속 의원이나 개혁신당..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n822b22cc",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "26분 전",
+    "url": "https://view.asiae.co.kr/article/2026070417470013603",
+    "title": "[2026월드컵]강렬한 여운 남기며 잠든 阿 돌풍…16강 대진 확정",
+    "summary": [
+      "아프리카 돌풍이 잠들지 않은듯 잠들며 2026 북중미 월드컵 16강 대진이 4일(한국시간) 확정됐다.",
+      "전통의 유럽ㆍ남미 강세에 개최국 3개국의 선전이 더해진 구도다.",
+      "미국, 캐나다, 멕시코 등 개최국 3개국을 제외하면 16강에 오른 나머지 13개국 중 절반이 넘는 7개국이 유럽 팀이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na917c483",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026070454777",
-    "title": "5·18 조롱 논란 사과 앞두고…광주일고 폭탄 협박",
+    "id": "nf038389e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260704/134235917/2",
+    "title": "“안목해변 동쪽 4㎞ 상어 출몰” 안전문자…작년에도 목격",
     "summary": [
-      "5·18 조롱 논란 사과 앞두고…광주일고 폭탄 협박."
+      "강원 강릉시 안목해변 인근 해상에서 상어가 출몰했다.",
+      "4일 강릉시는 오후 안전 안내 문자를 통해 “안목해변 동쪽 4km 해상에서 상어 출몰.",
+      "해양레저 및 해수욕 활동 시 안전에 유의해 주시기 바란다”고 주의를 당부했다.최근 몇 년간 동해안에서 상어가 잇따라 출몰, 바다를 찾는 피서객들의 각별한 주의가 요망된다.지난해 7월에는 강릉시 안목해변에서 약 3km 떨어진 해상에서 청새리상어 1마리가 목격됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5d94f50a",
-    "category": "경제",
+    "id": "n23312c6d",
+    "category": "사회",
     "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607045204i",
-    "title": "\"쇼핑기록 좀 털어갈게요\"…샤넬이 '수상한 문자' 보낸 속사정 [안혜원의 명품의세계]",
+    "time": "46분 전",
+    "url": "https://www.hankyung.com/article/2026070454697",
+    "title": "\"병실까지 울음소리 들렸다\"…간호사 '태움' 참교육한 환자",
     "summary": [
-      "\"쇼핑기록 좀 털어갈게요\"…샤넬이 '수상한 문자' 보낸 속사정 [안혜원의 명품의세계]."
+      "\"병실까지 울음소리 들렸다\"…간호사 '태움' 참교육한 환자."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "nf589b22d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026070454537",
-    "title": "\"러브버그 가고 더 독한 놈 왔다\"…도심 습격한 해충의 정체",
+    "id": "nfe8c834b",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "49분 전",
+    "url": "https://view.asiae.co.kr/article/2026070417194415405",
+    "title": "테일러 스위프트, 뉴욕서 이틀간 비공개 초호화 결혼식 '주목'",
     "summary": [
-      "\"러브버그 가고 더 독한 놈 왔다\"…도심 습격한 해충의 정체."
+      "미국의 팝스타 테일러 스위프트와 미국프로풋볼(NFL)의 트래비스 켈시가 뉴욕에서 화려한 결혼식을 진행했다.",
+      "3일(현지시간) AFP 통신 등 외신은 스위프트의 홍보 담당자인 트리 페인이 성명을 통해 \"결혼식은 양가 가족이 함께한 가운데 진행됐으며, 친구인 애덤 샌들러가 주례를 맡았다\"라고 밝혔다.",
+      "이어 \"테일러와 트래비스는 들러리 신부나 들러리 신랑을 두지 않았다\"며 \"테일러의 남동생인 오스틴 스위프트가 신부 측 들러."
     ],
     "chips": [
-      "#뉴스"
+      "#채용"
+    ]
+  },
+  {
+    "id": "n901442ee",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "53분 전",
+    "url": "https://view.asiae.co.kr/article/2026070214484558933",
+    "title": "금융사 ETF 투자 \"금리만 보면 낭패\"…이제 '이것' 집중해야 [주末머니]",
+    "summary": [
+      "대형 은행, 카드 네트워크사, 거래소 등이 담긴 금융 ETF에 투자할 때 금리 흐름 외에도 디지털 자산 등 각국 정책에 집중해야 한다는 조언이 나왔다.",
+      "최보원 한국투자증권 연구원은 \"미국-이란 충돌 발생 이후에는 국채금리 흐름이 대형 금융 ETF의 등락을 좌우했지만, 하반기에는 다양한 금융서비스 기업들로 관심을 넓혀야 한다\"며 이같이 밝혔다.",
+      "다양한 국가에서 디지털 자산과 스테이블코인에 대한 정책을 공격적으로 추진하."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
     ]
   }
 ];
@@ -639,20 +657,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3240건",
-    "trend": "+395%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "채용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
