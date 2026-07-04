@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-04 14:28:23
+// 마지막 업데이트: 2026-07-04 15:54:19
 window.NEWS_DB = [
   {
     "id": "nda209a8b",
@@ -126,6 +126,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n62961c50",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVFWb2dWNExIeDNoejJZb1BmTUltUWt2bE45OTlXaW14Sy0wV2xNS0FwQjA1QWtBemVkTFNxclI5YmNHYUVfQU12V3pVZWREVnkxMEhyUHBRcWJYNVdBTS03Z0NyV1VzQ09Od211akdSVy1NeWNEeTRsczRnNkFuNnRrQjJ1RERl?oc=5",
+    "title": "'SK하이닉스 독주' 깨진다… 삼성 HBM4, 2027년 안방 탈환 신호탄",
+    "summary": [
+      "'SK하이닉스 독주' 깨진다… 삼성 HBM4, 2027년 안방 탈환 신호탄 글로벌이코노믹."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
@@ -174,23 +189,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfbd428d5",
-    "category": "IT",
-    "source": "중앙일보",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
-    "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
-    "summary": [
-      "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다 중앙일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스",
-      "#채용"
-    ]
-  },
-  {
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
@@ -220,20 +218,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f660c1e",
-    "category": "IT",
-    "source": "전라매일",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
-    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
-    "summary": [
-      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -248,14 +232,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31af3cbd",
+    "id": "n32bf68e2",
     "category": "경제",
-    "source": "에너지경제신문",
+    "source": "v.daum.net",
     "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
-    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
+    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
     "summary": [
-      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
+      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
     ],
     "chips": [
       "#금리",
@@ -293,10 +277,164 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "66일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n9f1ea70b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260705_0003696008",
+    "title": "유럽 정상들, 美독립 250주년 축하…\"대서양 동맹 수호\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 각국 유럽 지도자들이 4일(현지 시간) 미국 독립선언 250주년을 맞아 축하 인사를 건넸다.",
+      "공유된 가치를 수호하며 대서양 동맹을 이어가자고 했다.",
+      "4일(현지 시간) 유로뉴스, BBC 등에 따르면 찰스 3세 영국 국왕은 도널드 트럼프 미국 대통령에게 축전을 보내 \"양국은 갈등을 극복하고 세계에서 가장 긴밀하고 생산적인 동맹 중 하나를 구축했다\"고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n303ae39b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/05/MUYGKM3GMJQWIYZUHEYGMYLBME/",
+    "title": "“강민호가 최원태를 살렸다” 6실점 하고도 승리투수, 포수가 이렇게 중요하다…2:6→13:7 대역전극 숨은 공신",
+    "summary": [
+      "[OSEN=인천, 길준영 기자] 프로야구 삼성 라이온즈 최원태가 무려 6실점을 하고도 타선의 도움으로 승리투수가 됐다.",
+      "삼성은 4일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에서 13-7 대승을 거뒀다.",
+      "3연승을 질주하며 주말 3연전 위닝시리즈를 확보했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n0a82bf13",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260705000200082",
+    "title": "독일 극우 AfD, 100년 전 나치와 같은날 전당대회",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 독일 정당 지지율 1위를 달리는 극우 성향 독일대안당(AfD)이 4일(현지시간) 격렬한 반대 시위 속에 전..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1051c5a1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/05/GNTDKMDFMZTGEZTFGRTDEZLFGA/",
+    "title": "초아, 쌍둥이子 모유수유 끝→고삐 풀렸다..3년만에 '맥주 드링킹' \"신나\"",
+    "summary": [
+      "[OSEN=김나연 기자] 크레용팝 출신 초아(본명 허민진)가 마지막 모유수유를 하며 먹먹한 심경을 전했다.4일 초아는 자신의 소셜 계정에 \"엄마가 되고 나서야 비로소 알게 된 것.",
+      "모유수유는 결코 쉬운 일이 아니라는 것\"이라며 영상을 올렸다.그는 \"자유로운 식단과 긴 외출 등 당연했던 것들을 잠시 내려놓아야 했지만 미숙아로 태어난 둥이들을 위해 백일까지 해."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba0fa735",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/05/GM4GGMBUGM3DEZBYGIZGIMLFGI/",
+    "title": "의류 브랜드 만든 이동휘, 연예인 협찬·할인 마케팅 NO “사 입는 건 못 막아”(전참시)",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 이동휘가 최근 론칭한 의류 브랜드를 언급했다.4일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 이동휘, 박소영 아나운서가 출연했다.이동휘는 연극 ‘타인의 삶’에 함께 출연하는 배우, 스태프들 대상으로 옷과 레고를 나눔 하겠다고 했다.",
+      "물건 정리가 끝나자 엄청난 관심이 쏟아졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n77ab3309",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "43분 전",
+    "url": "https://www.newsis.com/view/NISX20260704_0003696006",
+    "title": "\"미국·이란, 파키스탄 중재로 11일 협상 재개…핵 문제도 논의\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 미국과 이란의 차기 협상이 오는 11일(현지 시간) 파키스탄 중재로 열릴 예정이라는 사우디아라비아 언론 보도가 나왔다.",
+      "4일(현지 시간) 사우디아라비아 국영 알 아라비야 방송은 소식통을 인용해 파키스탄이 11일 미국과 이란의 차기 협상을 주최할 예정이라고 전했다.",
+      "소식통에 따르면 이번 협상에서는 미국의 이란 제재, 이란 동결 자산, 핵 프로그램 등 세 가지 의제가 논의될 전망이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n394de989",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "51분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694495",
+    "title": "윤혜진, 당근·브로콜리·달걀로 채운 건강 식단 공개…발레로 몸매 관리까지",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 방송인 윤혜진이 자신의 SNS에 건강 식단 사진을 공개했다.",
+      "지난 1일 공개된 그의 식단에는 당근, 브로콜리, 달걀, 견과류 등이 담겨 있었다.",
+      "이 식단은 단백질, 식이섬유, 건강한 지방이 고루 갖춰져 있다는 특징이 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf08a6d82",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694661",
+    "title": "최화정 \"다이어트에 진짜 좋다\"…여름철 토마토 국수 레시피 공개",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 방송인 최화정(65)이 다이어트 국수 레시피를 소개했다.",
+      "2일 최화정은 자신의 유튜브 채널 영상을 통해 여름에 어울리는 다이어트 국수 만드는 법을 공유했다.",
+      "최화정은 토마토를 활용해서 만든 냉국수를 만들었는데, 국수에 오이와 토마토 주스를 추가해서 시원한 맛을 냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c3b6916",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260705000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "na995599a",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153124",
     "title": "[글로벌] 팔란티어 CEO, 오픈AI·앤트로픽 판매 방식 비판...\"기업은 데이터 통제권 원해\"",
     "summary": [
@@ -311,7 +449,7 @@ window.NEWS_DB = [
     "id": "n12034ae6",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153123",
     "title": "[글로벌] 구글, EU '안드로이드 독점' 소송 최종 패소...7조원대 과징금 확정",
     "summary": [
@@ -326,7 +464,7 @@ window.NEWS_DB = [
     "id": "n67645c61",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153122",
     "title": "[글로벌] 테슬라, 직원 AI 사용액 주 200달러로 제한...빅테크 비용 통제 확산",
     "summary": [
@@ -340,160 +478,69 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6060d247",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/GFTGENZWGM2TOMRSGYZTGNJZGU/",
-    "title": "이동휘, 700만 원 ‘품바옷’ 해명 “기사마다 가격 올라..원래 100만 원 대”(전참시)[순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 배우 이동휘가 '품바옷'에 대해 해명했다.4일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 이동휘, 박소영 아나운서가 출연했다.전현무는 이동휘에게 화제를 모았던 ‘품바옷’에 대해 언급했다.",
-      "전현무는 “700만 원짜리라는?”이라고 물었고 이동휘는 손을 저으며 ”100만 원대 가격이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7a19b32",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/MRTDQZBTGYZTAMBWGRRTIMBRMY/",
-    "title": "공유·김고은, '도깨비' 명장면 재현 \"너무 늙어..징그럽다\" 민망(도깨비 10주년)",
-    "summary": [
-      "[OSEN=김나연 기자] 배우 공유와 김고은이 '도깨비' 명장면을 재현하며 추억을 되새겼다.4일 tvN에서는 '도깨비 10주년 여행' 첫 회가 방송됐다.이날 '도깨비' 주연 배우 공유, 이동욱, 유인나, 김고은은 '도깨비' 촬영지인 강릉으로 여행을 떠났다.",
-      "작품 내에서 공유와 김고은이 곳곳을 누비던 차와 똑같은 차를 타로 추억여행에 나선 이들은 가장 먼저."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne48f1a81",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/GBRDQN3CHBRDOODGGU3DKZBWGA/",
-    "title": "S.E.S 슈, 고1 된 子에게 \"엄마, 오래 사세요\" 들어('동치미')",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘속풀이쇼 동치미’ S.E.S 슈가 어느덧 고등학교 1학년이 된 아들의 성숙한 발언에 충격을 받았다고 전했다.4일 방영한 MBN ‘속풀이쇼 동치미’(이하 ‘동치미’)에서는 슈가 등장했다.",
-      "슈는 10년 만의 방송 출연이라며 긴장한 내색을 보였다.",
-      "슈는 농구 선수 출신 임효성과 결혼,."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n850eba74",
+    "id": "n396f9dac",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704042300082",
-    "title": "찰스 3세, 트럼프에 축전…\"다음 250년도 공동가치 지키자\"",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704042400054",
+    "title": "평범한 자취방과 달랐던 장윤기의 원룸…\"물건 거의 없어\"",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 찰스 3세 영국 국왕은 미국 건국 250주년 기념일인 4일(현지시간) \"다음 250년을 내다보며 우리가 공..."
+      "(전남광주=연합뉴스) 정회성 기자 = 성폭행 목적의 납치를 시도하다가 일면식 없는 여고생을 살해한 혐의로 기소된 장윤기(23)의 자취방이 또래 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n503e84fd",
-    "category": "스포츠",
+    "id": "nde76f91c",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704042100061",
-    "title": "안산 단원구 저수지서 물에 빠진 60대 숨져…경찰 조사",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704042500079",
+    "title": "\"美·이란 협상, 11일 파키스탄서 재개 전망…핵 논의 포함\"",
     "summary": [
-      "(안산=연합뉴스) 권준우 기자 = 4일 오후 8시 37분께 경기 안산시 단원구의 한 저수지에서 60대 남성 A씨가 물에 빠졌다."
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간의 종전 합의 후속 협상이 오는 11일 재개될 예정이라고 사우디아라비아 국영 방송 알 아라비..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2129ed4d",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704042000007",
-    "title": "'2골 1도움' 37세 포항 완델손 \"어린 선수들, 안일하게 살지마!\"",
+    "id": "n14882385",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026070422083604687",
+    "title": "김민석, 광주 군공항서 당대표 출마 선언…호남서 첫 승부수",
     "summary": [
-      "(안양=연합뉴스) 이영호 기자 = \"10년 전부터 독하게 마음먹고 몸 관리를 한 결과입니다.\"."
+      "김민석 전 국무총리가 더불어민주당 당대표 출마를 위해 오는 6일 전남광주통합특별시를 찾는다.",
+      "광주 5·18민주묘지를 참배한 뒤 광주 군공항에서 출마를 공식 선언할 예정으로, 이재명 정부의 핵심 국정과제인 국가균형발전과 호남 민심을 동시에 겨냥한 행보로 풀이된다.",
+      "4일 정치권에 따르면 김 전 총리는 오는 6일 광주 5·18민주묘지를 참배한 뒤 광주 군공항에서 8·17 전당대회 당대표 출마를 공식 선언할 예정이다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n401f75ba",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704041800007",
-    "title": "'선발 전환' LG 장현식 \"후반기엔 더 많은 이닝 책임질 것\"",
-    "summary": [
-      "(서울=연합뉴스) 김동한 기자 = 지난달 선발 투수로 보직이 바뀐 프로야구 LG 트윈스의 장현식(31)이 후반기엔 더욱 선발 다운 투구를 보여주..."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nae7ba9d7",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "46분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003696001",
-    "title": "LG 염경엽 감독 \"지키는 야구로 이겨…오스틴 추가 타점도 승리에 영향\"",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 LG 트윈스가 투타의 고른 활약에 힘입어 한화 이글스를 격파했다.",
-      "LG 염경엽 감독은 팀을 승리로 이끈 선수들에게 엄지를 세웠다.",
-      "LG는 4일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 한화와의 홈 경기에서 5-3으로 이겼다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne6fb32fe",
+    "id": "n092643ce",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "48분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695989",
-    "title": "\"SK하이닉스, 美상장 주관 수수료 0.5% 검토…2000억원 넘을 듯\"",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026070419452354371",
+    "title": "정형중 해남소방서장·박보영 완도소방서장 취임…\"현장 안전 총력\"",
     "summary": [
-      "[서울=뉴시스]고재은 기자 = SK하이닉스가 미국주식예탁증서(ADR) 상장을 추진하는 가운데 상장 주관사들에 조달 금액의 0.5%를 수수료로 지급하는 방안을 검토하고 있다는 보도가 나왔다.",
-      "4일(현지시간) 인베스팅닷컴 등이 인용한 블룸버그통신에 따르면 SK하이닉스는 오는 10일 미국 나스닥시장에 ADR을 상장할 예정이다.",
-      "발행 규모는 전체 상장 주식의 약 2.5% 수준이다."
+      "전남 해남소방서와 완도소방서가 신임 서장 체제를 맞이하며 '현장 중심의 재난 대응'과 '예방 중심의 소방행정'을 핵심 과제로 제시했다.",
+      "두 신임 서장은 취임 첫날부터 재난 취약지 점검과 순직 동료 추모 등 현장 최일선에서 공식 일정을 시작하며 안전한 지역 사회를 만들겠다는 강력한 의지를 드러냈다.'소방행정 전문가' 정형중 해남서장, 재난 취약지 점검으로 첫발제21대 해남소방서장으로 취임한 정형중 소방정은 취임 첫."
     ],
     "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nd1af8b32",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "58분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695995",
-    "title": "'7승 수확' LG 장현식 \"구원 5승은 선발투수의 눈물…책임감 갖고 던져\"",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 LG 트윈스 투수 장현식이 한화 이글스 강타선을 꽁꽁 묶으며 팀의 승리에 앞장섰다.",
-      "선발 투수 전환 후 좋은 흐름을 타는 장현식은 남다른 책임감을 갖고 공을 던졌다.",
-      "장현식은 4일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 한화와의 홈 경기에 선발 등판해 5이닝(88구) 3피안타 2사사구 3탈삼진 무실점으로 호투했다."
-    ],
-    "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
     "id": "n1b33a9b2",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153120",
     "title": "[주말에 뭐먹지] \"다이어터 냉동고 필수품\"...CJ제일제당이 만든 혁신적 김치볶음밥",
     "summary": [
@@ -506,26 +553,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfac4481e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695942",
-    "title": "우크라, 러 상트페테르부르크 타격…러 \"루한스크주 완전 점령\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 우크라이나가 러시아 상트페테르부르크 인근 석유 기반시설과 군사 목표물을 공격했다.",
-      "볼로디미르 젤렌스키 우크라이나 대통령은 4일(현지시간) 소셜미디어 텔레그램에 \"지난밤 우크라이나의 장거리 제제가 러시아 상트페테르부르크 인근 목표물에 도달했다\"며 \"군은 러시아의 전쟁 자금을 만들어내는 항만 석유 기반시설을 타격했다\"고 밝혔다.",
-      "그러면서 \"중요 군사 목표인 크론슈타트도 성공적으로 타격했다\"며 \"우크라이나 국경에서 8."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n7a1818a5",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607045651i",
     "title": "발달장애 가족의 '보이지 않는 아이들' 위한 예술치유축제 개최",
     "summary": [
@@ -536,24 +567,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n29b79cc4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/04/GUYDEYLFGMYTCMRSMNRTGOLEMM/",
-    "title": "어제는 견제사, 오늘은 리터치 망각...KIA 왜 이러나, 또 주루미스에 울었다 [오!쎈 광주]",
-    "summary": [
-      "어제는 견제사, 오늘은 리터치 망각...KIA 왜 이러나, 또 주루미스에 울었다 [오!쎈 광주]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na949629a",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026070456357",
     "title": "英 찰스 3세, 美 건국 250주년 축전…\"공동 가치 지켜나갈 것\"",
     "summary": [
@@ -567,7 +584,7 @@ window.NEWS_DB = [
     "id": "n7d6a3521",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260704/134236042/1",
     "title": "英·佛 “호르무즈에 軍 파견 준비 완료” 이란 “모험주의 책임져야”",
     "summary": [
@@ -581,7 +598,7 @@ window.NEWS_DB = [
     "id": "n38ab62ff",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026070456307",
     "title": "1231회 로또 1등 17명…당첨금은 각 16억5299만원",
     "summary": [
@@ -595,7 +612,7 @@ window.NEWS_DB = [
     "id": "nabfcd021",
     "category": "부동산",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260704/134236037/1",
     "title": "세입자 흉기에 찔린 에어컨 설치기사 끝내 숨져…구속영장 청구",
     "summary": [
@@ -609,27 +626,13 @@ window.NEWS_DB = [
     "id": "n56b3d366",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260704/134236032/1",
     "title": "1231회 로또 1등 각 16억씩…자동 14명·수동 2명·반자동 1명",
     "summary": [
       "4일 제1231회 동행복권 로또 추첨 결과 4, 13, 14, 18, 31, 38이 1등 당첨 번호로 결정됐다.",
       "2등 보너스 번호는 15이다.6개 번호를 모두 맞춘 1등 당첨자는 17명이다.",
       "각각 16억5299만74원을 받는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc439bd38",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026070456237",
-    "title": "靑 경제수석 \"메가프로젝트, 박정희 산업화에 비견될 규모\"",
-    "summary": [
-      "靑 경제수석 \"메가프로젝트, 박정희 산업화에 비견될 규모\"."
     ],
     "chips": [
       "#뉴스"
@@ -642,8 +645,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -654,8 +657,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
