@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-04 15:54:19
+// 마지막 업데이트: 2026-07-04 16:52:34
 window.NEWS_DB = [
   {
     "id": "nda209a8b",
@@ -33,15 +33,15 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne8170296",
+    "id": "nb6df5091",
     "category": "스포츠",
-    "source": "머니투데이",
+    "source": "starnewskorea.com",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLejF4VGVGVlFyTHJkWEtydGtySUtjM3BVRXEzTVhPa3dxdkFLY3pwNEpEZlpKNWNJa25yM3Jwa1ZQLWRfWDdaZ3RFbkgyamhLSnhfSFFkLVgzclc4bG1QbXdWcUpycVU3enpwaUY1VdIBb0FVX3lxTFBLejF4VGVGVlFyTHJkWEtydGtySUtjM3BVRXEzTVhPa3dxdkFLY3pwNEpEZlpKNWNJa25yM3Jwa1ZQLWRfWDdaZ3RFbkgyamhLSnhfSFFkLVgzclc4bG1QbXdWcUpycVU3enpwaUY1VQ?oc=5",
-    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영 - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
+    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
     "summary": [
-      "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위...",
-      "2위는 KBO 홈런 1위 김도영 - 머니투데이 머니투데이."
+      "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위...",
+      "2위는 KBO 홈런 1위 김도영 starnewskorea.com."
     ],
     "chips": [
       "#KBO"
@@ -232,14 +232,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n32bf68e2",
+    "id": "n31af3cbd",
     "category": "경제",
-    "source": "v.daum.net",
+    "source": "에너지경제신문",
     "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
-    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
+    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
-      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
+      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
     ],
     "chips": [
       "#금리",
@@ -292,10 +292,120 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfa572574",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/05/GY3TKYRZMFQWIYZVMZRDAMZUMY/",
+    "title": "한 이닝 3실책 자멸→2이닝 11실점 대참사, 굿이라도 해야하나…8연패 탈출 기회가 허무하게 사라졌다",
+    "summary": [
+      "[OSEN=인천, 길준영 기자] 프로야구 SSG 랜더스가 4회와 5회 무려 11실점을 헌납하며 충격적인 역전패를 당했다.",
+      "SSG는 4일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 삼성 라이온즈와의 경기에서 7-13 역전패를 당했다.",
+      "한 번 크게 리드를 잡았다가 실책으로 허무하게 역전을 허용해 더욱."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n55efeaee",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/05/GZRDEN3EGBQTMYLGGU2DMNTGHE/",
+    "title": "'이게 다 홍명보 감독 때문이다!' 월드컵 망친 한국선수들, 이강인 제외 빅리그 이적설 전무",
+    "summary": [
+      "[OSEN=서정환 기자] 이게 다 홍명보 감독 때문이다.",
+      "이강인(25)을 제외하면 한국선수들의 빅리그 이적설이 전무하다.",
+      "2026 북중미 월드컵이 유럽축구 여름 이적시장의 판도를 바꾸고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne0218f0c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "51분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/05/2026070412035516002",
+    "title": "'美 출국' 홍명보 얼굴에 '빨간 X' 쳐졌다... 월드컵 참사 후 BBC, 경질 감독 공개",
+    "summary": [
+      "홍명보 전 한국 축구대표팀 감독이 영국 BBC가 조명한 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 하차 감독 '7인'에 이름을 올렸다.",
+      "영국 BBC 축구 프로그램 '매치 오브 더 데이'는 3일 공식 소셜미디어(SNS)를 통해 이번 월드컵을 끝으로 대표팀을 떠난 7명의 사령탑 사진을 공개했다.",
+      "해당 이미지에는 자진 사퇴한 홍명보 전 한국 대표팀 감독과 율리안 나겔스만 전 독일 감독 등의 얼굴 위로 붉은색 'X'가 표기됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4fa1adbc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "51분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694413",
+    "title": "다리 저려 병원 갔는데…\"원인은 허리라구요?\"",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 우리 몸의 통증은 때때로 원인 부위가 아닌 다른 곳에서 먼저 나타난다.",
+      "의학에서는 이를 '연관통'이라 부른다.",
+      "예컨대 어깨가 결려 파스를 붙였는데 알고 보니 목 디스크가 원인인 경우, 팔이 저려 어깨 질환을 의심했지만 실제로는 목에서 신경이 눌린 경우가 대표적이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5d68bf1f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694762",
+    "title": "\"청년예술가 창작 활동 지원\"…부산진구, 전시공간 운영",
+    "summary": [
+      "[부산=뉴시스]원동화 기자 = 부산 부산진구가 청년예술가의 창작 활동을 지원하고 지역 문화생태계 활성화를 위한 전시공간 운영 사업을 추진한다.",
+      "부산진구는 '청년친화도시 청년예술가 전시공간 운영 사업'을 추진한다고 5일 밝혔다.",
+      "이번 사업은 올해 청년친화도시 앵커사업의 하나다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned67bace",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260703_0003694306",
+    "title": "부산교육청 소속 도서관 10곳, 여름 독서교실 운영",
+    "summary": [
+      "[부산=뉴시스] 하경민 기자 = 부산시교육청 소속 10개 도서관은 여름방학을 맞아 내달 4~6일 초등학교 3~4학년 학생을 대상으로 '2026년 여름 독서교실'을 운영한다고 5일 밝혔다.",
+      "이들 도서관은 독서교실 담당 사서와 학생들이 함께하는 다양한 활동 중심 프로그램을 마련한다.",
+      "참가 학생들은 아침독서, 도서관 이용 교육, 책 속 인물에게 보내는 손편지 쓰기, 전문 강사와 함께하는 독서 특강 등 도서관별 특색 있는 프로그램을 체험할 수 있다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n999de737",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704042351082",
+    "title": "찰스 3세, 트럼프에 축전…\"다음 250년도 공동가치 지키자\"(종합)",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 찰스 3세 영국 국왕은 미국 건국 250주년 기념일인 4일(현지시간) \"다음 250년을 내다보며 우리가 공..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n9f1ea70b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260705_0003696008",
     "title": "유럽 정상들, 美독립 250주년 축하…\"대서양 동맹 수호\"",
     "summary": [
@@ -308,28 +418,12 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n303ae39b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/05/MUYGKM3GMJQWIYZUHEYGMYLBME/",
-    "title": "“강민호가 최원태를 살렸다” 6실점 하고도 승리투수, 포수가 이렇게 중요하다…2:6→13:7 대역전극 숨은 공신",
-    "summary": [
-      "[OSEN=인천, 길준영 기자] 프로야구 삼성 라이온즈 최원태가 무려 6실점을 하고도 타선의 도움으로 승리투수가 됐다.",
-      "삼성은 4일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에서 13-7 대승을 거뒀다.",
-      "3연승을 질주하며 주말 3연전 위닝시리즈를 확보했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n0a82bf13",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260705000200082",
-    "title": "독일 극우 AfD, 100년 전 나치와 같은날 전당대회",
+    "title": "독일 극우 AfD, 100년 전 나치와 같은날 전당대회 열었다",
     "summary": [
       "(베를린=연합뉴스) 김계연 특파원 = 독일 정당 지지율 1위를 달리는 극우 성향 독일대안당(AfD)이 4일(현지시간) 격렬한 반대 시위 속에 전..."
     ],
@@ -338,78 +432,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1051c5a1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/05/GNTDKMDFMZTGEZTFGRTDEZLFGA/",
-    "title": "초아, 쌍둥이子 모유수유 끝→고삐 풀렸다..3년만에 '맥주 드링킹' \"신나\"",
+    "id": "n2cd54cd3",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/05/2026070421442065353",
+    "title": "'16년간 무려 6번째' 롯데 2군, 팀 노히트 '또' 해냈다! LG 상대 KKKKKKKKKK... '박세진→이민석→박정민' 압권투",
     "summary": [
-      "[OSEN=김나연 기자] 크레용팝 출신 초아(본명 허민진)가 마지막 모유수유를 하며 먹먹한 심경을 전했다.4일 초아는 자신의 소셜 계정에 \"엄마가 되고 나서야 비로소 알게 된 것.",
-      "모유수유는 결코 쉬운 일이 아니라는 것\"이라며 영상을 올렸다.그는 \"자유로운 식단과 긴 외출 등 당연했던 것들을 잠시 내려놓아야 했지만 미숙아로 태어난 둥이들을 위해 백일까지 해."
+      "롯데 자이언츠 퓨처스팀(2군)이 또 한 번 팀 노히트를 해냈다.",
+      "롯데 퓨처스팀은 4일 부산 사직야구장에서 열린 2026 메디힐 KBO 퓨처스리그 정규시즌 LG 트윈스 2군과 홈 경기에서 5-0으로 승리했다.",
+      "롯데 타선이 장·단 10안타를 몰아칠 동안 LG 타자들은 볼넷 외에 출루하지 못하면서 팀 노히트 기록이 탄생했다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nba0fa735",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/05/GM4GGMBUGM3DEZBYGIZGIMLFGI/",
-    "title": "의류 브랜드 만든 이동휘, 연예인 협찬·할인 마케팅 NO “사 입는 건 못 막아”(전참시)",
+    "id": "n47dfd5e6",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/05/2026070415141995220",
+    "title": "'07년생 초신성 데뷔전 퇴장'→오히려 웃은 이정효 감독 \"벌금 내면 된다... 승리 축하금 받은 셈 칠 것\" [수원 현장]",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 이동휘가 최근 론칭한 의류 브랜드를 언급했다.4일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 이동휘, 박소영 아나운서가 출연했다.이동휘는 연극 ‘타인의 삶’에 함께 출연하는 배우, 스태프들 대상으로 옷과 레고를 나눔 하겠다고 했다.",
-      "물건 정리가 끝나자 엄청난 관심이 쏟아졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n77ab3309",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "43분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003696006",
-    "title": "\"미국·이란, 파키스탄 중재로 11일 협상 재개…핵 문제도 논의\"",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 미국과 이란의 차기 협상이 오는 11일(현지 시간) 파키스탄 중재로 열릴 예정이라는 사우디아라비아 언론 보도가 나왔다.",
-      "4일(현지 시간) 사우디아라비아 국영 알 아라비야 방송은 소식통을 인용해 파키스탄이 11일 미국과 이란의 차기 협상을 주최할 예정이라고 전했다.",
-      "소식통에 따르면 이번 협상에서는 미국의 이란 제재, 이란 동결 자산, 핵 프로그램 등 세 가지 의제가 논의될 전망이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n394de989",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "51분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694495",
-    "title": "윤혜진, 당근·브로콜리·달걀로 채운 건강 식단 공개…발레로 몸매 관리까지",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 방송인 윤혜진이 자신의 SNS에 건강 식단 사진을 공개했다.",
-      "지난 1일 공개된 그의 식단에는 당근, 브로콜리, 달걀, 견과류 등이 담겨 있었다.",
-      "이 식단은 단백질, 식이섬유, 건강한 지방이 고루 갖춰져 있다는 특징이 있다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf08a6d82",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "52분 전",
-    "url": "https://www.newsis.com/view/NISX20260703_0003694661",
-    "title": "최화정 \"다이어트에 진짜 좋다\"…여름철 토마토 국수 레시피 공개",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 방송인 최화정(65)이 다이어트 국수 레시피를 소개했다.",
-      "2일 최화정은 자신의 유튜브 채널 영상을 통해 여름에 어울리는 다이어트 국수 만드는 법을 공유했다.",
-      "최화정은 토마토를 활용해서 만든 냉국수를 만들었는데, 국수에 오이와 토마토 주스를 추가해서 시원한 맛을 냈다."
+      "수원 삼성이 고비마다 빛난 베테랑의 헌신과 신예의 데뷔전 퇴장 악재를 팀으로 극복하며 값진 승점 3을 챙겼다.",
+      "이정효 감독은 위기를 기회로 바꾼 선수들을 향해 엄지를 치켜세웠다.",
+      "수원은 4일 오후 7시 30분 수원월드컵경기장에서 열린 하나은행 K리그2 16라운드 홈경기에서 전반 21분에 터진 강현묵의 선제 결승골에 힘입어 성남FC를 1-0으로 제압했다."
     ],
     "chips": [
       "#뉴스"
@@ -419,7 +467,7 @@ window.NEWS_DB = [
     "id": "n7c3b6916",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "54분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260705000100011",
     "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
@@ -434,7 +482,7 @@ window.NEWS_DB = [
     "id": "na995599a",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153124",
     "title": "[글로벌] 팔란티어 CEO, 오픈AI·앤트로픽 판매 방식 비판...\"기업은 데이터 통제권 원해\"",
     "summary": [
@@ -449,7 +497,7 @@ window.NEWS_DB = [
     "id": "n12034ae6",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153123",
     "title": "[글로벌] 구글, EU '안드로이드 독점' 소송 최종 패소...7조원대 과징금 확정",
     "summary": [
@@ -464,7 +512,7 @@ window.NEWS_DB = [
     "id": "n67645c61",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153122",
     "title": "[글로벌] 테슬라, 직원 AI 사용액 주 200달러로 제한...빅테크 비용 통제 확산",
     "summary": [
@@ -481,7 +529,7 @@ window.NEWS_DB = [
     "id": "n396f9dac",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260704042400054",
     "title": "평범한 자취방과 달랐던 장윤기의 원룸…\"물건 거의 없어\"",
     "summary": [
@@ -492,24 +540,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nde76f91c",
+    "id": "n6246a6e7",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704042500079",
-    "title": "\"美·이란 협상, 11일 파키스탄서 재개 전망…핵 논의 포함\"",
+    "source": "머니투데이",
+    "time": "2시간 전",
+    "url": "https://www.mt.co.kr/society/2026/07/04/2026070423132874167",
+    "title": "'캐나다 국적' JK 김동욱, 배재고 또 옹호 \"애들 정치에 이용 마라\"",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간의 종전 합의 후속 협상이 오는 11일 재개될 예정이라고 사우디아라비아 국영 방송 알 아라비..."
+      "가수 JK김동욱이 '스타벅스 응원구호'로 5·18 민주화운동을 조롱했다는 비난을 받는 배재고등학교 야구를 옹호했다.",
+      "4일 JK김동욱은 자신의 인스타그램에 \"살면서 실수는 할 수 있다\"며 \"아이들 미래를 짓밟고 정치 희생양을 만드는 게 할 짓이냐\"고 목소리를 냈다.",
+      "그는 대한야구소프트볼협회가 발표한 배재고 야구부의 전국대회 출전 6개월 정지 처분에 대해 과도하다며 \"애들을 정치에 이용하지 말라\"고 지적했다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO",
+      "#정치",
+      "#교육"
     ]
   },
   {
     "id": "n14882385",
     "category": "사회",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026070422083604687",
     "title": "김민석, 광주 군공항서 당대표 출마 선언…호남서 첫 승부수",
     "summary": [
@@ -525,7 +577,7 @@ window.NEWS_DB = [
     "id": "n092643ce",
     "category": "경제",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026070419452354371",
     "title": "정형중 해남소방서장·박보영 완도소방서장 취임…\"현장 안전 총력\"",
     "summary": [
@@ -540,7 +592,7 @@ window.NEWS_DB = [
     "id": "n1b33a9b2",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153120",
     "title": "[주말에 뭐먹지] \"다이어터 냉동고 필수품\"...CJ제일제당이 만든 혁신적 김치볶음밥",
     "summary": [
@@ -556,7 +608,7 @@ window.NEWS_DB = [
     "id": "n7a1818a5",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202607045651i",
     "title": "발달장애 가족의 '보이지 않는 아이들' 위한 예술치유축제 개최",
     "summary": [
@@ -570,7 +622,7 @@ window.NEWS_DB = [
     "id": "na949629a",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026070456357",
     "title": "英 찰스 3세, 美 건국 250주년 축전…\"공동 가치 지켜나갈 것\"",
     "summary": [
@@ -584,7 +636,7 @@ window.NEWS_DB = [
     "id": "n7d6a3521",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260704/134236042/1",
     "title": "英·佛 “호르무즈에 軍 파견 준비 완료” 이란 “모험주의 책임져야”",
     "summary": [
@@ -592,50 +644,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#정치"
-    ]
-  },
-  {
-    "id": "n38ab62ff",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026070456307",
-    "title": "1231회 로또 1등 17명…당첨금은 각 16억5299만원",
-    "summary": [
-      "1231회 로또 1등 17명…당첨금은 각 16억5299만원."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nabfcd021",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260704/134236037/1",
-    "title": "세입자 흉기에 찔린 에어컨 설치기사 끝내 숨져…구속영장 청구",
-    "summary": [
-      "충남 천안에서 세입자와 시비가 붙어 말다툼 벌이다 흉기에 찔려 중태에 빠졌던 에어컨 설치기사가 끝내 숨졌다.4일 천안동남경찰서는 에어컨 설치기사 A(60대)씨가 병원에서 치료를 받던 중 이날 오전 10시25분께 숨졌다고 밝혔다.이에 따라 경찰은 이날 세입자 B(50대)씨에게 살인미수에서 살인 혐의로 바꿔 적용해 구속 영장을 청구했다.이번 사건은 지난 3일 오후 2시41분께 봉명동의 한 원룸형 다가구주택에서 에어컨 설치 중 A씨와 B씨가 시비가."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n56b3d366",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260704/134236032/1",
-    "title": "1231회 로또 1등 각 16억씩…자동 14명·수동 2명·반자동 1명",
-    "summary": [
-      "4일 제1231회 동행복권 로또 추첨 결과 4, 13, 14, 18, 31, 38이 1등 당첨 번호로 결정됐다.",
-      "2등 보너스 번호는 15이다.6개 번호를 모두 맞춘 1등 당첨자는 17명이다.",
-      "각각 16억5299만74원을 받는다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -645,8 +653,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
@@ -657,8 +665,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
