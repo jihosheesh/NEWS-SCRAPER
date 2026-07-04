@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-04 12:58:31
+// 마지막 업데이트: 2026-07-04 14:28:23
 window.NEWS_DB = [
   {
     "id": "nda209a8b",
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "ne8170296",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLejF4VGVGVlFyTHJkWEtydGtySUtjM3BVRXEzTVhPa3dxdkFLY3pwNEpEZlpKNWNJa25yM3Jwa1ZQLWRfWDdaZ3RFbkgyamhLSnhfSFFkLVgzclc4bG1QbXdWcUpycVU3enpwaUY1VdIBb0FVX3lxTFBLejF4VGVGVlFyTHJkWEtydGtySUtjM3BVRXEzTVhPa3dxdkFLY3pwNEpEZlpKNWNJa25yM3Jwa1ZQLWRfWDdaZ3RFbkgyamhLSnhfSFFkLVgzclc4bG1QbXdWcUpycVU3enpwaUY1VQ?oc=5",
     "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영 - 머니투데이",
     "summary": [
@@ -142,14 +142,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc76d53d9",
+    "id": "n39e7993d",
     "category": "사회",
-    "source": "네이트",
+    "source": "v.daum.net",
     "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtelNZN21IMndPZ2lCWmJfeV9EUU5MUGFXaVRJNm5VaTAzYUpJOUNqaXZ2cFZxcmtsaUVmQVNCVTZwYVBhZGNBQjZ4cnFHSnlMUllR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5bS1BSHRuV3Fqb3h6VW4yaGYzSWtjVXIzZVRGeS1vTVM2WHdfQ1Y1WFprTjc3TVJjRXRKbHIyWFB5RHZHdEE?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 네이트."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
     ],
     "chips": [
       "#채용",
@@ -248,14 +248,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n32bf68e2",
+    "id": "n31af3cbd",
     "category": "경제",
-    "source": "v.daum.net",
+    "source": "에너지경제신문",
     "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOW03dXY1eTQ4TC10RlUxRU5zeXRnbVROZ2UxTjdvRy15LXVkNWVOS0lrX3F1WW1Dc2xocW9TNDZCVVEtME9WMEZhYnY2TTg?oc=5",
-    "title": "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
+    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
-      "美 금리인상 조짐-외국인 주식 매도, 환율 올려… 물가상승 압박 v.daum.net."
+      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
     ],
     "chips": [
       "#금리",
@@ -278,18 +278,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
+    "id": "n5a1617c5",
     "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "142일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "source": "헤럴드경제",
+    "time": "53일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
-      "#재건축"
+      "#전세"
     ]
   },
   {
@@ -340,10 +340,160 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6060d247",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/GFTGENZWGM2TOMRSGYZTGNJZGU/",
+    "title": "이동휘, 700만 원 ‘품바옷’ 해명 “기사마다 가격 올라..원래 100만 원 대”(전참시)[순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 배우 이동휘가 '품바옷'에 대해 해명했다.4일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 이동휘, 박소영 아나운서가 출연했다.전현무는 이동휘에게 화제를 모았던 ‘품바옷’에 대해 언급했다.",
+      "전현무는 “700만 원짜리라는?”이라고 물었고 이동휘는 손을 저으며 ”100만 원대 가격이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na7a19b32",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/MRTDQZBTGYZTAMBWGRRTIMBRMY/",
+    "title": "공유·김고은, '도깨비' 명장면 재현 \"너무 늙어..징그럽다\" 민망(도깨비 10주년)",
+    "summary": [
+      "[OSEN=김나연 기자] 배우 공유와 김고은이 '도깨비' 명장면을 재현하며 추억을 되새겼다.4일 tvN에서는 '도깨비 10주년 여행' 첫 회가 방송됐다.이날 '도깨비' 주연 배우 공유, 이동욱, 유인나, 김고은은 '도깨비' 촬영지인 강릉으로 여행을 떠났다.",
+      "작품 내에서 공유와 김고은이 곳곳을 누비던 차와 똑같은 차를 타로 추억여행에 나선 이들은 가장 먼저."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne48f1a81",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/GBRDQN3CHBRDOODGGU3DKZBWGA/",
+    "title": "S.E.S 슈, 고1 된 子에게 \"엄마, 오래 사세요\" 들어('동치미')",
+    "summary": [
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘속풀이쇼 동치미’ S.E.S 슈가 어느덧 고등학교 1학년이 된 아들의 성숙한 발언에 충격을 받았다고 전했다.4일 방영한 MBN ‘속풀이쇼 동치미’(이하 ‘동치미’)에서는 슈가 등장했다.",
+      "슈는 10년 만의 방송 출연이라며 긴장한 내색을 보였다.",
+      "슈는 농구 선수 출신 임효성과 결혼,."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n850eba74",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704042300082",
+    "title": "찰스 3세, 트럼프에 축전…\"다음 250년도 공동가치 지키자\"",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 찰스 3세 영국 국왕은 미국 건국 250주년 기념일인 4일(현지시간) \"다음 250년을 내다보며 우리가 공..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n503e84fd",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704042100061",
+    "title": "안산 단원구 저수지서 물에 빠진 60대 숨져…경찰 조사",
+    "summary": [
+      "(안산=연합뉴스) 권준우 기자 = 4일 오후 8시 37분께 경기 안산시 단원구의 한 저수지에서 60대 남성 A씨가 물에 빠졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2129ed4d",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704042000007",
+    "title": "'2골 1도움' 37세 포항 완델손 \"어린 선수들, 안일하게 살지마!\"",
+    "summary": [
+      "(안양=연합뉴스) 이영호 기자 = \"10년 전부터 독하게 마음먹고 몸 관리를 한 결과입니다.\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n401f75ba",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260704041800007",
+    "title": "'선발 전환' LG 장현식 \"후반기엔 더 많은 이닝 책임질 것\"",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 지난달 선발 투수로 보직이 바뀐 프로야구 LG 트윈스의 장현식(31)이 후반기엔 더욱 선발 다운 투구를 보여주..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nae7ba9d7",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "46분 전",
+    "url": "https://www.newsis.com/view/NISX20260704_0003696001",
+    "title": "LG 염경엽 감독 \"지키는 야구로 이겨…오스틴 추가 타점도 승리에 영향\"",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 프로야구 LG 트윈스가 투타의 고른 활약에 힘입어 한화 이글스를 격파했다.",
+      "LG 염경엽 감독은 팀을 승리로 이끈 선수들에게 엄지를 세웠다.",
+      "LG는 4일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 한화와의 홈 경기에서 5-3으로 이겼다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne6fb32fe",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "48분 전",
+    "url": "https://www.newsis.com/view/NISX20260704_0003695989",
+    "title": "\"SK하이닉스, 美상장 주관 수수료 0.5% 검토…2000억원 넘을 듯\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = SK하이닉스가 미국주식예탁증서(ADR) 상장을 추진하는 가운데 상장 주관사들에 조달 금액의 0.5%를 수수료로 지급하는 방안을 검토하고 있다는 보도가 나왔다.",
+      "4일(현지시간) 인베스팅닷컴 등이 인용한 블룸버그통신에 따르면 SK하이닉스는 오는 10일 미국 나스닥시장에 ADR을 상장할 예정이다.",
+      "발행 규모는 전체 상장 주식의 약 2.5% 수준이다."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nd1af8b32",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "58분 전",
+    "url": "https://www.newsis.com/view/NISX20260704_0003695995",
+    "title": "'7승 수확' LG 장현식 \"구원 5승은 선발투수의 눈물…책임감 갖고 던져\"",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 프로야구 LG 트윈스 투수 장현식이 한화 이글스 강타선을 꽁꽁 묶으며 팀의 승리에 앞장섰다.",
+      "선발 투수 전환 후 좋은 흐름을 타는 장현식은 남다른 책임감을 갖고 공을 던졌다.",
+      "장현식은 4일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 한화와의 홈 경기에 선발 등판해 5이닝(88구) 3피안타 2사사구 3탈삼진 무실점으로 호투했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n1b33a9b2",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153120",
     "title": "[주말에 뭐먹지] \"다이어터 냉동고 필수품\"...CJ제일제당이 만든 혁신적 김치볶음밥",
     "summary": [
@@ -356,152 +506,68 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4f7c7ed8",
+    "id": "nfac4481e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695987",
-    "title": "'캐나다 국적' JK김동욱, '5·18 조롱' 배재고 또 또 옹호",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260704_0003695942",
+    "title": "우크라, 러 상트페테르부르크 타격…러 \"루한스크주 완전 점령\"",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = '5·18 민주화운동 조롱 구호'로 공분을 산 배재고등학교 야구부가 중징계를 받은 가운데, 가수 JK김동욱이 이들을 공개 옹호하고 나서 또 다른 설화를 자초하고 있다.",
-      "JK김동욱은 4일 자신의 소셜 미디어에 \"살면서 실수는 할 수 있다\"며 \"아이들 미래를 짓밟고 정치 희생양을 만드는 게 할 짓이냐\"고 적었다.",
-      "대한야구소프트볼협회의 '전국대회 출전 6개월 정지' 처분을 과도하다고 비난한 그는 \"애들을 정치에 이용하지."
+      "[서울=뉴시스] 이재우 기자 = 우크라이나가 러시아 상트페테르부르크 인근 석유 기반시설과 군사 목표물을 공격했다.",
+      "볼로디미르 젤렌스키 우크라이나 대통령은 4일(현지시간) 소셜미디어 텔레그램에 \"지난밤 우크라이나의 장거리 제제가 러시아 상트페테르부르크 인근 목표물에 도달했다\"며 \"군은 러시아의 전쟁 자금을 만들어내는 항만 석유 기반시설을 타격했다\"고 밝혔다.",
+      "그러면서 \"중요 군사 목표인 크론슈타트도 성공적으로 타격했다\"며 \"우크라이나 국경에서 8."
     ],
     "chips": [
-      "#KBO",
-      "#정치",
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "nbe78d48b",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/04/2026070415141580020",
-    "title": "'33분 만에 수원 퇴장→0득점 패배' 전경준 감독 \"어떻게든 골 만들어보려 했는데...\" [수원 현장]",
+    "id": "n7a1818a5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202607045651i",
+    "title": "발달장애 가족의 '보이지 않는 아이들' 위한 예술치유축제 개최",
     "summary": [
-      "전경준 성남FC 감독이 수원 삼성전 패배 이후 짙은 아쉬움을 삼켰다.",
-      "수적 우위를 점하고도 상대의 밀집 수비를 뚫어내지 못한 공격력 부재가 뼈아팠다.",
-      "성남은 4일 오후 7시 30분 수원월드컵경기장에서 열린 하나은행 K리그2 16라운드 원정 경기에서 전반 21분 강현묵에게 결승골을 내주며 수원에 0-1로 패했다."
+      "발달장애 가족의 '보이지 않는 아이들' 위한 예술치유축제 개최."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9861261b",
+    "id": "n29b79cc4",
     "category": "사회",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/MQYTGZJRMQZDANJXHBRTSOLBHA/",
-    "title": "김영철, 일본어 시험 응시 준비→성시경에 경외감 느껴 \"일본어 공부 어떻게 한 거야?\" ('오리지널') [순간포착]",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/04/GUYDEYLFGMYTCMRSMNRTGOLEMM/",
+    "title": "어제는 견제사, 오늘은 리터치 망각...KIA 왜 이러나, 또 주루미스에 울었다 [오!쎈 광주]",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 김영철이 일본어 능력시험을 보기 위해 준비하고 있다고 알렸다.",
-      "지난 3일 유튜브 채널 ‘김영철 오리지널’에는 '7월에도 폭설이 온다는 일본 소도시에서 만취한 김영철에게 생긴 일(2박3일 풀코스)'라는 제목의 영상이 게재됐다.이날 김영철은 일본 니키타로 여행을 떠났다."
+      "어제는 견제사, 오늘은 리터치 망각...KIA 왜 이러나, 또 주루미스에 울었다 [오!쎈 광주]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n13a949b7",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695951",
-    "title": "[KBO 내일의 선발투수]7월5일(일)",
+    "id": "na949629a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026070456357",
+    "title": "英 찰스 3세, 美 건국 250주년 축전…\"공동 가치 지켜나갈 것\"",
     "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 7월5일(일)> ▲고척(오후 2시) 두산 (최민석) - (김윤하) 키움 ▲잠실(오후 6시) 한화 (류현진) - (앤더스 톨허스트) LG ▲문학(오후 6시) 삼성 (양창섭) - (김건우) SSG ▲광주(오후 6시) NC (커티스 테일러) - (김규성) KIA ▲수원(오후 6시) 롯데 (박세웅) - (맷 사우어) KT."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nf0cf7f26",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/football/2026/07/04/GNRWINDBMVTGCN3FMQ3WKNZQGE/",
-    "title": "전북 정정용 감독, \" 선수들이 퍼포먼스를 더 끌어 올릴 수 있도록 노력하겠다\"[현장인터뷰]",
-    "summary": [
-      "[OSEN=전주, 우충원 기자] \"운동장에서 선수들이 퍼포먼스를 더 끌어 올릴 수 있도록 노력하겠다\".",
-      "전북은 4일 전주월드컵경기장에서 열린 하나은행 K리그1 2026 16라운드 강원FC와 홈경기에서 1-2로 패했다.전북 정정용 감독은 경기 후 \"한 달 넘는 기간 동안 휴식기를 마친 뒤 펼친 경기서 승리를 거두지 못해 팬들께 죄송하다\"라면서 \"기회가 왔을."
+      "英 찰스 3세, 美 건국 250주년 축전…\"공동 가치 지켜나갈 것\"."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n010b6e97",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695981",
-    "title": "'16안타 폭발' 삼성, SSG 8연패 몰아넣고 3연승…NC, 연이틀 KIA 제압(종합)",
-    "summary": [
-      "[서울=뉴시스]문채현 박윤서 기자 = 프로야구 삼성 라이온즈가 SSG 랜더스를 8연패로 몰아넣었다.",
-      "먼저 승기를 잡은 SSG는 4회에만 수비 실책 3개를 쏟아내고 무너졌다.",
-      "삼성은 4일 인천 SSG랜더스필드에서 열린 2026 신한 쏠 KBO리그 원정 경기에서 SSG를 13-7로 눌렀다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n4b098da1",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/04/2026070421301874406",
-    "title": "유재석, 월드컵 중계권 이슈에 음소거 시청…남아공전 패배에 침묵",
-    "summary": [
-      "MBC 예능프로그램 '놀면 뭐하니?' 출연진이 월드컵 중계권 문제로 오디오 없이 국가대표 축구 경기를 시청했다.",
-      "4일 방송된 '놀면 뭐하니?'에서는 녹화 당일 열린 '2026 FIFA 북중미 월드컵' 조별리그 3차전 한국과 남아프리카공화국의 경기를 지켜보는 멤버들의 모습이 담겼다.",
-      "유재석 하하 주우재 곽범 허경환은 중계권 이슈로 월드컵 오디오 송출이 불가능해지자 빗소리만 흐르는 적막 속에서 화면만으로 경기를 관람하는 이색 풍경을 연출했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n543606ca",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260704_0003695957",
-    "title": "강원·포항, 나란히 승리…대전은 부천과 2-2 무승부(종합)",
-    "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 프로축구 K리그1 강원FC가 전북현대 원정에서 승점 3을 추가했다.",
-      "강원은 4일 오후 7시30분 전주월드컵경기장에서 열린 전북과의 하나은행 K리그1 2026 16라운드 원정 경기에서 2-1 승리를 거뒀다.",
-      "이날 승리한 강원은 7승6무3패(승점 27)로 리그 2위가 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9aba1d16",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/04/2026070421354726738",
-    "title": "에어컨 설치하다 흉기 찔린 기사 끝내 사망…50대 남성 구속영장 신청",
-    "summary": [
-      "충남 천안의 한 주택에서 에어컨 설치 작업 중 흉기에 찔린 60대 설치 기사가 치료받던 중 숨졌다.",
-      "4일 뉴스1에 따르면 천안동남경찰서는 살인 혐의로 50대 남성 A씨에 대해 구속영장을 신청했다.",
-      "A씨는 전날 오후 2시40분쯤 천안 동남구의 한 다가구주택에서 60대 에어컨 기사 B씨와 말다툼을 벌이다 흉기로 찌른 혐의를 받는다."
-    ],
-    "chips": [
-      "#의료"
     ]
   },
   {
     "id": "n7d6a3521",
     "category": "사회",
     "source": "동아일보",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260704/134236042/1",
     "title": "英·佛 “호르무즈에 軍 파견 준비 완료” 이란 “모험주의 책임져야”",
     "summary": [
@@ -512,72 +578,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndcc0385d",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703151451007",
-    "title": "[프로야구] 5일 선발투수",
+    "id": "n38ab62ff",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026070456307",
+    "title": "1231회 로또 1등 17명…당첨금은 각 16억5299만원",
     "summary": [
-      "[프로야구] 5일 선발투수."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n608064ed",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260703151251007",
-    "title": "[프로야구 중간순위] 4일",
-    "summary": [
-      "[프로야구 중간순위] 4일."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n949dfdc7",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/04/2026070416035493080",
-    "title": "7회 김택연 무사 만루 위기서 '삼진-삼진-땅볼' 무실점 대탈출! 두산, 키움 맹추격 뿌리치며 '주말 시리즈 1승 1패 원점' [고척 현장리뷰]",
-    "summary": [
-      "두산 베어스가 키움 히어로즈를 꺾고 전날(3일) 패배를 설욕했다.",
-      "두 팀이 1승씩 주고받은 가운데, 이제 위닝시리즈의 주인공은 5일 경기에서 가려진다.",
-      "두산은 4일 서울 고척스카이돔에서 펼쳐진 키움과 2026 신한 SOL KBO 리그 정규시즌 원정 경기에서 8-5로 승리했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc9bcf765",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260704030251062",
-    "title": "강원 고성 비무장지대서 산불…공중 진화율 70%, 헬기 철수(종합)",
-    "summary": [
-      "(강원 고성=연합뉴스) 이재현 기자 = 강원 고성군 동부전선 비무장지대(DMZ)에서 발생한 산불이 70%의 공중 진화율을 보이는 가운데 진화 헬..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8c26152a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/sports/football/2026/07/04/G44DIY3CGZSWGMBXGM4DIYJXGY/",
-    "title": "‘송준석-이유현 연속골’ 강원, ‘이승우 만회골’ 전북 2-1 꺾고 K1 2위 점프",
-    "summary": [
-      "‘송준석-이유현 연속골’ 강원, ‘이승우 만회골’ 전북 2-1 꺾고 K1 2위 점프."
+      "1231회 로또 1등 17명…당첨금은 각 16억5299만원."
     ],
     "chips": [
       "#뉴스"
@@ -587,7 +595,7 @@ window.NEWS_DB = [
     "id": "nabfcd021",
     "category": "부동산",
     "source": "동아일보",
-    "time": "39분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260704/134236037/1",
     "title": "세입자 흉기에 찔린 에어컨 설치기사 끝내 숨져…구속영장 청구",
     "summary": [
@@ -601,7 +609,7 @@ window.NEWS_DB = [
     "id": "n56b3d366",
     "category": "사회",
     "source": "동아일보",
-    "time": "39분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260704/134236032/1",
     "title": "1231회 로또 1등 각 16억씩…자동 14명·수동 2명·반자동 1명",
     "summary": [
@@ -614,32 +622,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0ccfd0e7",
+    "id": "nc439bd38",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026070420580088841",
-    "title": "1231회 로또 '4, 13, 14, 18, 31, 38'…1등 당첨금 16억5000만원",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026070456237",
+    "title": "靑 경제수석 \"메가프로젝트, 박정희 산업화에 비견될 규모\"",
     "summary": [
-      "로또복권 운영사 동행복권은 제1231회 로또복권 추첨에서 '4, 13, 14, 18, 31, 38'이 1등 당첨번호로 뽑혔다고 4일 밝혔다.",
-      "2등 보너스 번호는 '15'다.",
-      "당첨번호 6개를 모두 맞힌 1등 당첨자는 17명으로 16억5299만원씩 받는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc9eb713",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026070420504478154",
-    "title": "새벽 강남 도로에 누워있던 40대 남성, 택시에 치여 숨져",
-    "summary": [
-      "서울 강남경찰서는 도로에 누워있던 남성을 밟고 지나가 숨지게 한 혐의로 60대 택시기사 A씨를 입건해 조사하고 있다고 4일 밝혔다.",
-      "A씨는 이날 오전 4시께 서울 강남구 논현동의 한 도로에서 택시를 몰다 길바닥에 있던 40대 남성 B씨를 치어 숨지게 한 혐의를 받는다.",
-      "이 사고에 앞서 술에 취한 상태였던 B씨는 우회전 중이던 다른 승용차의 사이드미러에 살짝 부딪힌 뒤 도로에 눕게 된 것으로 파악됐다."
+      "靑 경제수석 \"메가프로젝트, 박정희 산업화에 비견될 규모\"."
     ],
     "chips": [
       "#뉴스"
@@ -652,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "2070건",
-    "trend": "+215%"
-  },
-  {
-    "rank": 3,
     "tag": "AI",
     "mentions": "1810건",
     "trend": "+175%"
+  },
+  {
+    "rank": 3,
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
