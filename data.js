@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-05 16:54:20
+// 마지막 업데이트: 2026-07-05 17:55:25
 window.NEWS_DB = [
   {
     "id": "n0540d305",
     "category": "IT",
     "source": "한국경제",
-    "time": "56분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSQk1LQVZDSE1oLV84WWd2bXhzeFE1WnN2Z3FveTQ5d1ZtQ1hMX1doMTJyVzVLaE1tRUEzdkhaWWc3RElQSDdZWVNBaGZDaEN6SV90RndqVXk4QdIBVEFVX3lxTE1NdFlQd0hzNjhvUmpJc3hwbGFIaE5wcFhJZ0lZd1AzUk9US1YwajNxd1VSa1hrNHZuVnhSWEVNTGRYb2c1ZENXdE9OcDlvM2hQdFFuVQ?oc=5",
     "title": "中 내수 90% 장악한 '레드칩 원팀'…엔비디아 연합군 흔든다",
     "summary": [
@@ -276,18 +276,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
+    "id": "n5a1617c5",
     "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "143일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "source": "헤럴드경제",
+    "time": "54일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
-      "#재건축"
+      "#전세"
     ]
   },
   {
@@ -307,10 +307,144 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbbbba9f1",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/06/2026070600590197316",
+    "title": "이영표, 남아공 졸전 예상했나 \"감독이 마음에 걸렸다\"…무슨 일?",
+    "summary": [
+      "이영표가 대한민국 대 남아공전이 어렵게 풀릴 것을 경기 전부터 예감했다.",
+      "5일 방영된 KBS2 '사장님 귀는 당나귀 귀' 364회에서는 전현무와 이영표가 북중미 월드컵 예선 3차전 대한민국 대 남아공전 현장에서 중계를 준비하는 모습이 그려졌다.",
+      "이날 전반전이 끝난 뒤 경기가 예상보다 어렵게 풀리자 전현무와 이영표는 한숨을 내쉬었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc6735c4c",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260706001400091",
+    "title": "'토큰맥싱' 지고 '모델맥싱' 뜬다…쉬운 작업은 저렴한 AI에",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 기업 인공지능(AI) 사용료 부담이 커지면서 AI 업계의 흐름이 무제한 사용을 권하던 '토큰맥싱'에서..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nb77b93d6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260706_0003696455",
+    "title": "남유럽 동시다발 산불 확산…그리스·포르투갈·스페인 대규모 피해",
+    "summary": [
+      "[아네테=AP/뉴시스]이재준 기자 = 남유럽에서 대형 산불이 동시 다발적으로 발생하면서 포르투갈, 그리스, 스페인 등에서 소방당국과 유럽연합(EU)이 총력 대응에 나섰다.",
+      "그리스에서는 아테네 서쪽 마을 마드나 인근 소나무 숲에서 발생한 산불이 강풍을 타고 빠르게 확산했다.",
+      "당국은 소방관 수백명과 항공기 29대를 투입해 진화 작업을 벌이고 있으며 해가 지기 전까지 화재 확산을 차단하는 데 주력하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6ecb9638",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260706001300072",
+    "title": "美 폭염으로 최소 25명 숨져…동부 이번엔 뇌우·홍수주의보",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국을 덮친 기록적인 폭염으로 최소 25명이 숨지는 등 인명 피해가 잇따랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2f27a73c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/06/MVSDEOBXHFRWEZBXGRRDQZBQHA/",
+    "title": "'본헤드' 주루사 → 다이빙 슈퍼캐치 → 동점 3루타 → 데뷔 5년만 첫 타점…열탕냉탕 '쥐락펴락'한 ?은 재능 [수원포커스]",
+    "summary": [
+      "[수원=스포츠조선 김영록 기자] 경기 전체의 흐름을 한 선수가 쥐락펴락했다.",
+      "좋은 쪽으로 발휘되면 스타성이고, 나쁜 쪽으로 발휘되면 경기를 망친 '역적'이 된다.",
+      "어쩌면 이날의 주인공이 될뻔한 선수가 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nece4dd11",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260706001500527",
+    "title": "강원 영월·평창평지에 호우주의보…정선평지에 호우주의보 유지",
+    "summary": [
+      "(춘천=연합뉴스) 기상청은 6일 오전 2시 15분을 기해 강원도 영월·평창평지에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4b448315",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260706001200009",
+    "title": "북반구는 설설 끓는데…아르헨티나, 중부지역까지 강추위 확산",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 폭염이 북반구를 강타하고 있는 가운데, 현재 겨울을 보내고 있는 남반구 아르헨티나에 강한 한파가 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b7a6422",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "42분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/06/6CAHIRSAGFB75C4QO3XQBIIGME/",
+    "title": "與 “5·18 성역” 발언 이병태에 사퇴 압박…“헌정가치 훼손\"",
+    "summary": [
+      "與 “5·18 성역” 발언 이병태에 사퇴 압박…“헌정가치 훼손\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f83121e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "55분 전",
+    "url": "https://www.newsis.com/view/NISX20260706_0003696454",
+    "title": "마크롱, 곧 시리아 방문 예정…아사드 축출 후 첫 서방 정상",
+    "summary": [
+      "[다마스쿠스=AP/뉴시스]이재준 기자 = 프랑스 에마뉘엘 마크롱 대통령이 곧 시리아를 방문할 예정이라고 시리아 국영 매체가 5일(현지시간) 보도했다.",
+      "시리아 국영 SANA 통신은 2024년 바샤르 알아사드 전 대통령 축출 이후 처음으로 서방 정상급 지도자로 마크롱 대통령이 시리아를 찾는다고 전했다.",
+      "통신에 따르면 마크롱 대통령은 지난해 5월 파리에서 시리아 아흐메드 알샤라 대통령과 만나 유럽연합(EU)과 미국을 상대로 대시리아 제재 완화를 추진."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n0a3e242f",
     "category": "IT",
     "source": "동아일보",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260706/134241062/1",
     "title": "“AI 넘어 양자컴퓨터까지 잇는다”… AI 시대 ‘숨은 지배자’ 위드웨이브",
     "summary": [
@@ -324,42 +458,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6701a2a4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/06/GI3TONBZMI3DEYJZMQ4TINTBMM/",
-    "title": "LG-삼성 '투톱 체제' 재편되나 → KT 최악 대진. 키움전인데 안우진+알칸타라",
-    "summary": [
-      "[스포츠조선 한동훈 기자] '3강 구도'에 균열이 생겼다.",
-      "KT가 주춤하면서 LG와 삼성의 투톱 체제로 재편되는 분위기다.",
-      "전반기 마지막 3연전에 꼴찌 키움을 만나는데 하필 원투펀치 안우진 알칸타라가 나올 차례다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n225c3680",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/football/2026/07/06/MQ2TQZLBMQ2WKZLGGJSTKNZSHA/",
-    "title": "'품격'이 다른 '차세대 리더' 이강인, 새 미래 기약! \"도피\"→\"VIP 통로 이용\" 사실무근…도 넘은 홍명보 감독 비난",
-    "summary": [
-      "[스포츠조선 김성원 기자]이강인(25·파리생제르맹)이 '차세대 리더'다운 품격으로 침묵을 깼다.",
-      "그는 성적 부진으로 자진 사퇴한 홍명보 전 월드컵대표팀 감독과 함께 지난달 30일 '선발대'로 귀국했다.",
-      "한국 축구는 2026년 북중미월드컵에서 처참한 성적표를 받아 들었지만, 이강인은 실패하지 않았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n495b3e23",
     "category": "사회",
     "source": "뉴시스",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260706_0003696453",
     "title": "이스라엘, 레바논 남부 나바티예 공습…드론 베이루트 비행",
     "summary": [
@@ -372,97 +474,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfdd27404",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/06/MRQWEYJYHBSTKNTDG42WMM3FGE/",
-    "title": "\"'도깨비' 악귀 분장만 2시간·삼신할매는 8시간\"..10년 만에 공개된 비하인드",
-    "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] '도깨비' 배우들이 10주년을 맞아 다시 뭉친 가운데, 당시 악귀와 삼신할매 분장에 숨겨진 비하인드가 공개됐다.5일 방송된 tvN '함께여서 찬란하神-도깨비 10주년 여행' 2회에서는 공유, 이동욱, 김고은, 유인나가 강릉으로 추억 여행을 떠난 모습이 그려졌다.공유는 \"10년이라는 시간이 지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2ab8cf96",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260706001000071",
-    "title": "백인우월주의 단체 독립기념일 행진에…美장관 \"표현의 자유\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 독립기념일에 백인우월주의 단체가 수도 워싱턴DC에서 행진해 논란이 확산하는 가운데 내무장관이 이들의 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n14edf22e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260706000900099",
-    "title": "이스라엘, 슬로베니아 상주 대사 첫 지명…새 보수 정부와 밀착",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 이스라엘은 5일(현지시간) 슬로베니아에 첫 상주 대사를 지명했다고 현지 일간 타임스오브이스라엘과 AF..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndb357b46",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/06/MQ4DOMDGMUZTQZBXMVRTGNRWMI/",
-    "title": "‘기세 좋았는데’ 롯데 스윕 왜 무산됐나, ‘KS MVP 출신’ 50억 타격기계에 당하다 “김현수 투런포 덕에 승리”",
-    "summary": [
-      "[OSEN=수원, 이후광 기자] 롯데 자이언츠의 스윕을 저지한 자 누구인가.",
-      "프로야구 KT 위즈는 5일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 롯데 자이언츠와의 시즌 7차전에서 4-2로 승리했다.KT는 가까스로 3연패에서 탈출하며 시즌 45승 1무 35패를 기록했다.",
-      "반면 2연승 상승세가 끊긴 롯데는 36승 2무 44패가 됐다."
-    ],
-    "chips": [
-      "#KBO",
-      "#채용"
-    ]
-  },
-  {
-    "id": "na5558305",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260706000800527",
-    "title": "강원 정선평지에 호우주의보",
-    "summary": [
-      "(춘천=연합뉴스) 기상청은 6일 오전 1시 5분을 기해 정선평지에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf90b7295",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "53분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260706000600527",
-    "title": "경북 영주 호우주의보 해제",
-    "summary": [
-      "(대구=연합뉴스) 기상청은 경북 영주에 발령했던 호우주의보를 6일 오전 1시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "naca9f191",
     "category": "사회",
     "source": "뉴시스",
-    "time": "53분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260703_0003695033",
     "title": "아침 첫발 내디딜 때 짜릿…여름철 '이 질환' 주의",
     "summary": [
@@ -475,26 +490,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n57f6e52d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260706_0003696452",
-    "title": "트럼프 \"이란 지도부 장례식에 다 모여…단번에 제거 가능하나 협상 위해 안한다\"",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 도널드 트럼프 미국 대통령은 이란 최고지도자 아야툴라 알리 하메네이 장례식에 이란 지도부가 모두 모이지만 외교 협상을 위해 군사 행동에 나서지 않겠다고 밝혔다.",
-      "미국 인터넷 매체 액시오스는 트럼프 대통령이 인터뷰에서 하메네이 장례식에 참석한 이란 지도부를 언급하며 \"모두 그곳에 모여 있다.",
-      "한 번이면 모두 제거할 수 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "naafd6180",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/entertainment/2026/07/06/2026070523525037780",
     "title": "'사당귀' 이영표, 남아공전 선발 변화에 멘붕 \"전술 의도 모르겠다\"",
     "summary": [
@@ -507,25 +506,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9177e677",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026070600363131259",
-    "title": "카타르 \"호르무즈 등 모든 해상 활동 정상화\"",
+    "id": "n268ceaf1",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "2시간 전",
+    "url": "https://www.chosun.com/economy/science/2026/07/06/I3E4UCMMVVHLLL7CK3QNCT2BE4/",
+    "title": "AI 에이전트는 ‘전기 먹는 하마’… 챗봇보다 최대 137배 많이 쓴다",
     "summary": [
-      "카타르 정부가 호르무즈 해협 등 걸프 지역 해상이 상대적으로 안정화됨에 따라 지난 1주일간 부과했던 자국 선박의 해상 활동 제한을 모두 풀고 정상화를 선언했다.",
-      "카타르 교통부(MOT)는 5일(현지시간) 엑스(옛 트위터)에 \"이날부로 모든 종류 선박의 해상 항행 활동은 정상적으로 재개된다\"며 \"모두가 해상 규제와 지도를 준수하고 운항에 앞서 또는 운항 중 필요한 모든 안전 장비를 확인하기를 촉구한다\"고 밝혔다."
+      "AI 에이전트는 ‘전기 먹는 하마’… 챗봇보다 최대 137배 많이 쓴다."
     ],
     "chips": [
-      "#정책"
+      "#AI"
     ]
   },
   {
     "id": "na511aff3",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260705/134208353/1",
     "title": "[Campus＆]세계 6위에 오른 한양대, ‘사랑의 실천’이 완성한 글로벌 초일류의 품격",
     "summary": [
@@ -542,7 +540,7 @@ window.NEWS_DB = [
     "id": "nfcb3342b",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260705/134239759/3",
     "title": "관람객 몰린 IBM ‘시스템 투’… SKT-KT 양자암호 기술 눈길",
     "summary": [
@@ -557,7 +555,7 @@ window.NEWS_DB = [
     "id": "n801817f7",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260705/134239727/2",
     "title": "‘위메이드’ 품은 차이나 머니, K게임 흔든다",
     "summary": [
@@ -573,7 +571,7 @@ window.NEWS_DB = [
     "id": "n0c50349b",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/07/06/2026070521560726752",
     "title": "'전날 실책→결승 홈런→3연패 탈출' KT 김현수, 축하보다 사과 먼저 했다 \"스기모토 정말 미안해\" [수원 현장]",
     "summary": [
@@ -586,26 +584,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne95c6699",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260705_0003696448",
-    "title": "\"스타벅스가 5·18과 무슨 관계?\"…이진숙, 배재고에 응원 화환",
-    "summary": [
-      "[서울=뉴시스]박지혁 기자 = 이진숙 국민의힘 의원이 경기 중 '스타벅스 가야지'라는 응원 구호로 논란이 된 배재고 야구부에 5일 응원 화환을 보냈다.",
-      "이 의원은 이날 자신의 소셜네트워크서비스(SNS)를 통해 \"이재명 정권은 생각에도 '수갑'을 채울 것인가\"라며 배재고에 보낸 화환 사진을 게재했다.",
-      "화환 리본에는 '스타벅스가 5·18과 무슨 관계가 있나'라고 적혀 있다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n4ad6d5a3",
     "category": "부동산",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026070565981",
     "title": "삼성전자 사내 주택대출, '국평' 85㎡ 이하로 제한",
     "summary": [
@@ -619,7 +601,7 @@ window.NEWS_DB = [
     "id": "n4e903dbd",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/07/06/2026070523145290608",
     "title": "\"오초아 닮으면 피자 1년 공짜\" 멕시코 이색 대회 '초인기'... 선수 본인까지 등장 \"다음엔 내가 심사위원\"",
     "summary": [
@@ -632,19 +614,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2d62657c",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/05/2026070523234554993",
-    "title": "'사당귀' 남아공전 비하인드 공개…이영표 \"감독이 중요해\" 예언까지",
+    "id": "n578ef03b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3시간 전",
+    "url": "https://www.chosun.com/opinion/chosun_column/2026/07/05/23NI7VW3XZCRXGVGYZGXLGEDIQ/",
+    "title": "[朝鮮칼럼] ‘핵보유국 인정’ 요구하는 북한, 비핵화는 환상이다",
     "summary": [
-      "이영표가 북중미 월드컵 예선 대한민국 대 남아공전 중계 비하인드에서 감독의 중요성을 강조하며 2002년 월드컵 당시 히딩크 감독에게 다시 기회를 얻었던 일화를 공개했다.",
-      "5일 방영된 KBS2 '사장님 귀는 당나귀 귀' 364회에서는 전현무, 이영표가 북중미 월드컵 예선 3차전 '대한민국 대 남아공' 현장에서 중계를 준비하는 모습이 그려졌다.",
-      "경기 당일 오후 전현무와 이영표는 중계 현장으로 이동하며 대화를 나눴다."
+      "[朝鮮칼럼] ‘핵보유국 인정’ 요구하는 북한, 비핵화는 환상이다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n1768ad68",
+    "category": "IT",
+    "source": "테크M",
+    "time": "3시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153127",
+    "title": "AI 팩토리 vs 코로케이션...통신사, AIDC 사업 승자는?",
+    "summary": [
+      "통신사가 인공지능(AI) 데이터센터(DC)를 주목했다.",
+      "SK텔레콤은 '아시아 AI 인프라 허브' 도약을 선언했다.",
+      "LG유플러스는 경기 파주에 수도권 최대 AIDC를 구축 중이다."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -659,15 +655,15 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "채용",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "삼성전자",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
