@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-06 14:57:13
+// 마지막 업데이트: 2026-07-06 17:36:37
 window.NEWS_DB = [
+  {
+    "id": "nf7640601",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqeDI5Vnc2VFRQZ2Z5Z0QzbXl1WjQwUm1yWXJETXZ1NTF4SjVwbHhiNU1TNUFQcUZockxuNFFUMmJfUzVQUDRLbHRrdEJwTnhuMlpKNV9ZWWpLSXPSAWBBVV95cUxPQ24xbTVJRFh6SzR2MEwxeUsybVBXSGhSUEY3ZW40UGRlaUI0ZFVOdVZ4U3JNMnBNVWplX09hV3gxY1B1Q0l6MWJscW9iWFV3MUhWemVPYlNlZEI5UDRHM3g?oc=5",
+    "title": "\"엔비디아, 차세대 AI서버 '카이버' 출시 1년 지연…제조 난관\"",
+    "summary": [
+      "\"엔비디아, 차세대 AI서버 '카이버' 출시 1년 지연…제조 난관\" 연합뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n45286247",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxbVlFaWFiT2MwMHM3WFBWbWlSdTNJcEtxSW43a093bnJpV0pxOHNkVUlDai0zU0VGTFdyMkRfUmNDNjBlM0hZSDZYTWlFT19RTmdGcTJVUTlydDFMS1NzaEluT1pfQy15OXhaNl9tWHlWdFk?oc=5",
     "title": "엔비디아 차세대 AI 서버 시스템 '출시 지연' 전망 나와, \"삼성전기 포함 기판 기업 주가 하락 원인\"",
     "summary": [
@@ -20,7 +35,7 @@ window.NEWS_DB = [
     "id": "n604b1b15",
     "category": "IT",
     "source": "뉴스임팩트",
-    "time": "17시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VWG5yTGVTeWcxa3NBcmpvbEdlazF2WTc4VjBwZnEyZmNONWtOUW5ma0V4RGNlMkUxZjRVbmR3cENXOUt3dDBtTG5sWG9FNVd6MmlHS2cyUllxa1hKcGRlU0xSWk1wREgzUjI1N3VRSWRCQQ?oc=5",
     "title": "[이슈] 삼성전자 HBM4 양산, SK하이닉스 우위 HBM 시장 경쟁 본격화",
     "summary": [
@@ -64,6 +79,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n48c48642",
+    "category": "IT",
+    "source": "더구루",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZktmUFNHOWg1Yjl4WVkxSk5kbXd4UUw5bVN2X2hqY0lMTkpfN0lSUWxfSjB5UUZzaE9kTEtxNnVtR2cwNENMRlFiX1JGUHlfNWkxZE5NZ2JFSlpQdEpMWkxnbw?oc=5",
+    "title": "[단독] '엔비디아 날개 단' 두산, AI 휴머노이드 로드맵 전격 공개…독일 점유율 10배 폭풍 성장 정조준",
+    "summary": [
+      "[단독] '엔비디아 날개 단' 두산, AI 휴머노이드 로드맵 전격 공개…독일 점유율 10배 폭풍 성장 정조준 더구루."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "nb6df5091",
     "category": "스포츠",
     "source": "starnewskorea.com",
@@ -93,22 +123,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1f9ed23e",
-    "category": "IT",
-    "source": "지디넷코리아",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4LWhfdGg4T3VaNUxZdEljNU5zXzFIdWRpQnJTQmxpZEd1emY4bkR2bEdCMlUxNjNza1ZyM0Q4V1REWVdGcG1jUk1qSFFPRnFJQVlwbEdB?oc=5",
-    "title": "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다",
-    "summary": [
-      "[유미's 픽] \"엔비디아 쿠다 장벽 넘자\"…AI 반도체, SW 경쟁 불붙었다 지디넷코리아."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n48c9b6b7",
     "category": "IT",
     "source": "v.daum.net",
@@ -120,22 +134,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업",
-      "#채용"
-    ]
-  },
-  {
-    "id": "nf5332d7e",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sa091aVgzV2VFbGRwSjhIWmI4elRpa1lwU0YwdXd0c2pLWGNhY0N5d2RBSEJrdzdmbWR6VjZtdDlQMTc0OFdoM1UteklzOWl1SW5nRFZaSHJkMk3SAWBBVV95cUxNMXdWTjRRbEJSancxRENMemNoWWV0LUlncFFRYTgySThPU2FkenVPZExIUy1OX0FHb3FLX0VqS2QyOU84dlozbHZldVBBV2dYdUxZc2cxVlBWb0lzdlNNUkU?oc=5",
-    "title": "엔비디아도 우주 AI 데이터센터 구축 박차…연봉 6억대 채용공고",
-    "summary": [
-      "엔비디아도 우주 AI 데이터센터 구축 박차…연봉 6억대 채용공고 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
       "#채용"
     ]
   },
@@ -291,10 +289,238 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9752adfa",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260707/134248330/1",
+    "title": "베네수 강진 잔해 속 11일 버틴 생존자 4명 극적 구조",
+    "summary": [
+      "베네수엘라를 강타한 규모 7.2와 7.5의 연쇄 강진으로 붕괴한 건물 잔해에 갇혀 있던 생존자 4명이 지진 발생 267시간 만에 극적으로 구조됐다.6일(현지 시간) 현지 매체 엘나시오날에 따르면 구조대는 전날 오후 9시께 북부 라과이라주 카라베예다 지역의 붕괴 건물 잔해에서 어린이 2명과 여성 1명, 남성 1명 등 4명을 구조했다.이들은 지난달 24일 오후 6시(현지 시간) 발생한 강진 이후 267시간 동안 잔해 속에 갇혀 있다가 구조된 것으로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a9c5e7f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260707003300085",
+    "title": "영국·폴란드 등 유럽 4개국 \"방위비 조달 위한 다자체계 진전\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국과 네덜란드, 핀란드, 폴란드는 방위비 확보를 위한 '다자간 방위 메커니즘'(MDM)을 2027년 출범 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf6b65fb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260706_0003697314",
+    "title": "\"위고비·마운자로 맞고 인생 바꼈다\"…여성 취업·결혼 27% 증가",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 위고비, 마운자로 등 GLP-1(글루카곤 유사 펩타이드-1) 계열 비만치료제 사용을 통한 체중 감량이 건강 개선을 넘어 여성들의 취업과 결혼 등 사회적 성취에도 결정적인 영향을 미친다는 연구 결과가 나왔다.",
+      "1일(현지 시간) 미국 매체 더힐에 따르면 레베카 다이아몬드 미국 하버드대 경제학 교수는 최근 한 언론 매체와의 인터뷰에서 서던캘리포니아대(USC)의 ‘미국 이해 연구(Understanding Americ."
+    ],
+    "chips": [
+      "#취업",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n7a28e9d4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/07/GE3TONZXGUZDIYZQGQYTEOBSG4/",
+    "title": "\"이정후, 이동 가능성\" ATL → TB, 줄 있는 트레이드설…그런데 SF가 과연 내줄까",
+    "summary": [
+      "[스포츠조선 박상경 기자] 주가가 오른 덕분일까.",
+      "트레이드 마감 시한에 맞춰 각 팀이 분주히 움직이는 가운데 이정후(샌프란시스코 자이언츠)의 이름이 다시 언급돼 관심이 쏠린다.",
+      "미국 스포팅뉴스는 6일(한국시각) 탬파베이 레이스의 야수 보강 가능성을 전하면서 이정후의 이름을 언급했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n76768b52",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260707003100075",
+    "title": "AI배우가 장편영화 주연으로…틸리 노우드, '미스얼라인드' 출연",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 지난해 할리우드에서 큰 논란을 불렀던 '인공지능(AI) 배우'가 장편 영화에서 주연을 맡는다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nf5aee07d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260707003000079",
+    "title": "마크롱, 시리아 방문…'아사드 축출' 후 유럽 정상으론 처음",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 에마뉘엘 마크롱 프랑스 대통령이 바샤르 알아사드 독재 정권 축출과 정권 교체 이후 유럽 국가 지도자로는 처..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0a2769d1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260707/134248310/1",
+    "title": "美 연봉 상위 직업 20개 중 19개가 ‘이 직업’…왜 이렇게 많이 버나 봤더니",
+    "summary": [
+      "미국에서 가장 높은 소득을 올리는 직업군은 의사인 것으로 나타났다.",
+      "미국 노동통계국(BLS) 자료에 따르면 연봉 상위 20개 직업 중 19개가 의사 또는 치과의사 계열이었으며, 비(非)의료직은 20위를 차지한 항공기 조종사가 유일하게 포함된 것으로 집계됐다.",
+      "5일(현지 시간) USA투데이에 따르면 미국의 연봉 상위 20개 직업 중 19개가 의사 혹은 치과의사 계열이었다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb53ead02",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260707_0003698098",
+    "title": "트럼프 \"우크라戰 종식, 사람들 생각보다 훨씬 가까워\"",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 도널드 트럼프 미국 대통령이 러시아-우크라이나 전쟁 종식 가능성이 예상보다 가까워졌다고 밝혔다.",
+      "트럼프 대통령은 6일(현지시간) 백악관에서 열린 '트럼프 계좌' 출시 행사에서 기자들과 만나 \"사람들이 생각하는 것보다 (종식에) 훨씬 가까워지고 있다고 생각한다\"고 말했다.",
+      "트럼프 대통령은 블라디미르 푸틴 러시아 대통령과 볼로디미르 젤렌스키 우크라이나 대통령 모두 전쟁을 끝내길 원하고 있다고 주장했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n27f78a3d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260707002900099",
+    "title": "내전 중인 수단서 폐금광 붕괴로 15명 사망",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 수단에서 폐금광이 붕괴해 최소 15명이 숨지고 1명이 다쳤다고 수단광물자원공사(SMRC)가 6일(현지..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3e99dcec",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/07/HFSTENJQMJSDAOJUHE4WCMJUHA/",
+    "title": "나토 사무총장 “7일 수백억 달러 방산 계약 발표”",
+    "summary": [
+      "마르크 뤼터 북대서양조약기구(NATO·나토) 사무총장은 7일(현지 시각) 튀르키예 수도 앙카라에서 열리는 나토 정상회의에서 대규모 신규 방위산업 계약을 발표할 예정이라고 6일 밝혔다.",
+      "로이터 통신에 따르면 뤼터 사무총장은 앙카라에서 기자회견을 열고 “억지와 방어에 필요한 핵심 장비를 제공할 수백억 달러 규모의 새로운 계약을 발표하겠다”고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n997bcf29",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "36분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/07/07/2026070609153330535",
+    "title": "6G 이동통신과 AI 융합의 과제[청계광장/이성엽]",
+    "summary": [
+      "AI 작동 지능형 이동통신 4년뒤 상용화 투자 급증 비해 요금은 제자리 한계 직면 규제 풀어 통신사의 새 수익원 만들어야 이동통신은 약 10년마다 새로운 세대로 발전해 왔다.",
+      "1980년대 1G(generation)는 음성통화만 가능했으나, 1990년대 2G는 디지털 기술을 도입해 문자메시지를 가능하게 했다.",
+      "2000년대 3G는 휴대전화로 인터넷을 사용할 수 있게 했고, 2010년대 4G는 스마트폰을 통해 동영상 서비스를 이용하는 시대를 열었다."
+    ],
+    "chips": [
+      "#AI",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n09ee4b2b",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "36분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/07/07/2026070608445544250",
+    "title": "AI 시대 교황이 인간들에 던진 메시지[투데이 窓/최연구]",
+    "summary": [
+      "레오 13세 산업혁명때 인간 존엄성 천명 레오 14세 \"AI,인간처럼 사랑할 수 없어\" 기술 발전은 인간성과 공동선에 맞춰야 1648년 베스트팔렌 조약 이후 근대적 정교분리 원칙이 자리잡은 지 370여 년이 흘렀다.",
+      "하지만 중세 유럽의 권력 중심이었던 교황청의 영향력은 오늘날에도 여전히 크다.",
+      "전 세계 가톨릭 신자는 14억 명이 넘는다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nebbb845b",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "54분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/07/2026070701334342115",
+    "title": "\"충북청주는 충청북도의 자부심\"... 신용한 충청북도지사·이장섭 청주시장 명예 구단주 위촉",
+    "summary": [
+      "프로축구 K리그2 충북청주가 명예 구단주를 위촉했다.",
+      "충북청주는 \"지난 4일 19시 30분 청주종합경기장에서 열린 2026 K리그2 16라운드 대구FC와 홈경기에 앞서 신용한 충청북도지사와 이장섭 청주시장의 명예 구단주 위촉식이 진행됐다\"고 6일 밝혔다.",
+      "이날 행사에 김현주 대표이사를 비롯한 이상식 충청북도의회 의장과 임은성 청주시의회 의장, 윤건영 충청북도교육감 등이 참석했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n74dc89eb",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "56분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260707/134248297/1",
+    "title": "“장마철 관절이 욱신”…‘이 증상’ 겹치면 악화신호",
+    "summary": [
+      "장마철에는 높은 습도와 잦은 기온 변화로 인해 자가면역질환 환자들이 피로감이나 통증 악화를 호소하는 경우가 적지 않다.비가 오는 날씨 자체가 질환을 직접 악화시키는 것은 아니지만, 낮은 기압과 높은 습도로 인해 관절과 근육의 통증을 더 민감하게 느낄 수 있고, 활동량 감소와 수면의 질 저하가 겹치면서 전반적인 컨디션이 떨어질 수 있다.",
+      "전문가들은 류마티스관절염, 전신홍반루푸스, 강직척추염과 같은 만성 염증성 질환은 생활 리듬이 무너지면 증상이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5ffb6212",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "56분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260707/134248294/1",
+    "title": "우크라 드론, 2500㎞ 날아 시베리아 타격…러 최대 정유소 피격",
+    "summary": [
+      "우크라이나군이 국경에서 2500㎞ 이상 떨어진 러시아 후방의 정유공장을 드론으로 타격했다.6일(현지시간) AP통신과 우크라이나 매체 그와라미디어(Gwara Media) 등 외신에 따르면 우크라이나 장거리 드론이 서시베리아 남부 옴스크에 위치한 러시아 최대 정유공장을 공습했다.",
+      "우크라이나 측은 이번 공격이 전면전 이후 러시아 영토 깊숙한 곳을 겨냥한 최장거리 타격 중 하나라고 설명했다.옴스크 정유공장은 러시아 석유기업 가즈프롬네프트가 보유한 핵심."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "na26a51a6",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153151",
     "title": "두나무·네이버 합병 연말로 밀렸다...또다시 3개월 연장",
     "summary": [
@@ -310,7 +536,7 @@ window.NEWS_DB = [
     "id": "na29dc29b",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153149",
     "title": "연이은 해킹 사태에 커지는 보안 경보...국내 게임사 정보보호 투자 살펴보니",
     "summary": [
@@ -326,7 +552,7 @@ window.NEWS_DB = [
     "id": "n40502c1f",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153148",
     "title": "항공권·숙소·공연·골프까지...국내 여가 플랫폼, 여름 혜택 총출동",
     "summary": [
@@ -341,7 +567,7 @@ window.NEWS_DB = [
     "id": "n75006d9d",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153150",
     "title": "美 최대 서브컬처 행사 모인 K-게임...'미래시'·'나혼렙: 카르마' 출격",
     "summary": [
@@ -354,281 +580,56 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n824e96a0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260706_0003698089",
-    "title": "호르무즈 해협 통과 선박 3분의 1 '오만 연안 항로' 이용",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 미국과 이란 간 휴전 합의가 불안정하게 유지되는 가운데 최근 호르무즈 해협을 통과한 선박 3분의 1가량이 오만 연안 항로를 이용한 것으로 나타났다.",
-      "6일(현지 시간) CNN은 해상 추적업체 '마린트래픽'을 인용해 지난 3일부터 5일까지 호르무즈 해협을 통과한 선박은 총 108척으로, 이 가운데 30척이 오만 연안 항로를 따라 이동했다고 보도했다.",
-      "마린트래픽에 따르면 선박 통과량은 3일 43척으로 가장 많았고, 4."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb04525d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260706156800109",
-    "title": "2천700㎞ 날아간 우크라 드론…러 옴스크 정유공장 타격",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 우크라이나가 국경에서 2천㎞ 이상 떨어진 러시아 후방의 정유공장을 타격하면서 장거리 타격 능력을 과시했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nda2183a4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/06/NLQLSWYWKJHXPCYVOLVJIVMBN4/",
-    "title": "[우정아의 아트 스토리] [639] 중력을 이기는 사랑",
-    "summary": [
-      "[우정아의 아트 스토리] [639] 중력을 이기는 사랑."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1df5e02c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/opinion/column/2026/07/06/X5NIP7VHHRCX3JK3OJZV4HD644/",
-    "title": "[광화문·뷰] 부럽다, 카보베르데",
-    "summary": [
-      "[광화문·뷰] 부럽다, 카보베르데."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b83d223",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/06/MVRGMYJVHFSTCOJWHAYWEMLBGM/",
-    "title": "이수지, 연이은 백화점 목격담에 빠른 해명 \"지하 식품관만 간다\" ('아근진') [순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 이수지의 백화점 목격담 전해졌다.",
-      "6일 방송된 SBS ‘아니 근데 진짜!’(이하 '아근진')에는 ‘원조 짐승돌’ 2PM이 오랜만에 한자리에 뭉쳐 눈길을 끌었다.",
-      "이날 2PM 멤버들과 이수지는 사적으로 본 적이 있다고 밝혀 놀라움을 자아냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e6e9aa0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/06/ME3TQOBVMYYDENJWHBRWKOJWMM/",
-    "title": "\"다니엘헤니 신인 때가 보여\"..'심혜진 조카' 심재원, 실력까지 완벽 '매력 올킬' [핫피플]",
-    "summary": [
-      "[OSEN=김수형 기자] 배우 심혜진의 친조카 심재원이 훈훈한 비주얼과 뛰어난 노래 실력으로 방송 후 뜨거운 관심을 받고 있다.6일 방송된 TV조선 '조선의 사랑꾼'에서는 방송 5주년 기념 노래자랑이 펼쳐진 가운데, 심혜진의 조카 심재원이 등장해 시선을 사로잡았다.심재원이 모습을 드러내자 출연진들은 수려한 외모에 감탄을 쏟아냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5f78b031",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260706157151007",
-    "title": "U18 여자배구, 태국 꺾고 아시아선수권 19년 만에 결승 진출(종합)",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 18세 이하(U-18) 여자 배구 대표팀이 적지에서 태국을 꺾고 19년 만에 2026 U-18 아시아여자배구선..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74665ccf",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260706/134248109/2",
-    "title": "LA 한식당에도 ‘홍명보 출입 금지’…“미국 간다고 달라질 것 같나”",
-    "summary": [
-      "2026 북중미 월드컵 조별리그 탈락의 책임을 지고 사퇴한 홍명보 전 한국 축구 대표팀 감독이 미국으로 출국한 가운데, 미국 로스앤젤레스(LA)의 한 한식당에도 ‘홍명보 출입 금지’ 안내문이 붙어 화제다.5일 엑스(X·옛 트위터)에는 ‘홍명보 미국 출국 소식을 들은 LA 한식당 사장님’이라는 설명과 함께 한 한식당 출입문에 ‘홍명보는 출입 금지’라고 적힌 안내문을 붙이는 영상이 공개됐다.이에 축구 팬들은 해당 영상 아래 “미국으로 간다고 달라질."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naef1acc4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260706157300071",
-    "title": "트럼프 \"우크라전 종식, 사람들 생각보다 가까워지고 있어\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 6일(현지시간) 러시아-우크라이나 전쟁과 관련, \"사람들이 생각하는 것보다 (..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n030c06ad",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260706_0003698086",
-    "title": "러, 키이우 또 미사일·드론 공습…14명 사망·60명 부상",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 6일(현지시간) 러시아가 우크라이나 수도 키이우를 또다시 대규모 미사일·드론으로 공격했다.",
-      "이번 공격으로 키이우와 키이우주에서 최소 14명이 숨지고 약 60명이 다쳤다.",
-      "우크라이나 매체 키이우 인디펜던트 등에 따르면 러시아군은 이날 새벽 미사일과 드론을 동원한 복합 공격을 감행했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n084b58e5",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260706156900108",
-    "title": "나토 사무총장 \"7일 수백억달러 신규 방산 계약 발표\"",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 마르크 뤼터 북대서양조약기구(NATO·나토) 사무총장은 튀르키예 수도 앙카라에서 열리는 나토 정상회의 첫..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naebea3fd",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260706/134247637/2",
-    "title": "[사설]‘고용 없는 성장’ 돌파구는 서비스업… 잠자는 法부터 깨워야",
-    "summary": [
-      "반도체 초호황에도 고용시장 전망이 밝지 않다.",
-      "성장 온기가 실물 경기와 구직 시장으로 잘 퍼지지 않고 있기 때문이다.",
-      "만성적 ‘고용 없는 성장’을 극복하지 못하면 고용 한파에 취약한 청년층이 가장 큰 피해를 본다."
-    ],
-    "chips": [
-      "#반도체",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n0e4ff0fa",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "28분 전",
-    "url": "https://www.hankyung.com/article/202607068914i",
-    "title": "美 증시, 반도체 등 기술주 다시 반등…나스닥 1%↑",
-    "summary": [
-      "美 증시, 반도체 등 기술주 다시 반등…나스닥 1%↑."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n7c19968e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260706/134247642/2",
-    "title": "[사설]이란전에 ‘트럼프 만세’ ‘2조 벌 듯’… 정유사들의 추한 짬짜미",
-    "summary": [
-      "2월 미국-이란 전쟁 발발 직후 SK에너지·HD현대오일뱅크·GS칼텍스·에쓰오일 등 정유 4사가 조직적으로 담합해 부당한 이득을 취한 사실이 검찰 수사로 드러났다.",
-      "이들 정유사는 2024년 7월부터 상호 가격 정보를 공유해 왔고, 그 담합을 통해 최소 14조2000억 원어치의 석유를 판매했다고 검찰은 밝혔다.",
-      "한국석유공사의 가격정보사이트인 오피넷에 따르면 2월 28일 이란전 발발 당일 1690원대였던 전국 주유소 휘발유 평균 가격은 5일 만에 1."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd0a14bce",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260706/134248102/1",
-    "title": "트럼프 후계자, 밴스로 무게추…“루비오는 출마 안해”",
-    "summary": [
-      "도널드 트럼프 미국 대통령의 후계자가 되기 위한 공화당 대선후보 경쟁에서 JD 밴스 부통령이 우위를 점한 것으로 보인다는 미국 언론의 평가가 나왔다.미국 액시오스는 6일(현지 시간) 최근 밴스 부통령의 분주한 대외활동을 주목하며 “밴스가 TV, 여론조사, 국제정치 무대에서 보여준 활약은 적어도 현재로서는 그가 2028년 출마할 경우 트럼프 대통령의 명실상부한 정치적 후계자로 보이도록 한다”고 전했다.트럼프 대통령은 현재 두번째 임기를 보내고 있."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb13712f2",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260706_0003698087",
-    "title": "한일전 진땀승으로 벼랑 끝 탈출…이우석 \"천당과 지옥을 오갔다\"",
-    "summary": [
-      "[고양=뉴시스]김희준 기자 = 한국 남자 농구 대표팀이 한일전을 승리로 장식하고 2027 국제농구연맹(FIBA) 월드컵 예선 2라운드 진출에 성공하는데 앞장선 이우석(상무)이 \"천당과 지옥을 오갔다\"며 초조했던 마음을 털어놨다.",
-      "이우석은 한국 남자 농구 대표팀이 6일 고양 소노 아레나에서 열린 2027 FIBA 월드컵 아시아 예선 1라운드 B조 최종 6차전 일본과의 홈 경기에서 81-79로 승리한 뒤 믹스드존에서 취재진과 만나 이같은 소감을 밝."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n071f1ea9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260706_0003698077",
-    "title": "이란 대통령, 하메네이 장례식 참석 위해 이라크행",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 마수드 페제시키안 이란 대통령이 최고지도자 알리 하메네이의 장례식 참석을 위해 이라크를 방문한다.",
-      "6일(현지 시간) 이란 반관영 ISNA 통신에 따르면 페제시키안 대통령은 8일 이라크 나자프와 카르발라에서 열리는 하메네이의 장례 행사에 참석할 예정이다.",
-      "ISNA는 하메네이의 장남 모스타파 하메네이와 모하마드 바게르 갈리바프 의회 의장도 이라크에서 열리는 장례 행사에 참석할 것이라는 앞선 보도는 사실이 아니라고 전."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd97141e2",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "46분 전",
-    "url": "https://www.hankyung.com/article/2026070689117",
-    "title": "돌연사 유족, 보험금 받으려면…法 \"부검으로 사인 밝혀야\"",
-    "summary": [
-      "돌연사 유족, 보험금 받으려면…法 \"부검으로 사인 밝혀야\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35fb20fe",
+    "id": "n3bd8ba84",
     "category": "경제",
     "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026070688921",
-    "title": "팀코리아, 60조 캐나다 잠수함 수주 불발",
+    "url": "https://www.hankyung.com/article/202607078939i",
+    "title": "\"재고바닥\"외친지 2주만에 \"원유 공급과잉\"우려로",
     "summary": [
-      "팀코리아, 60조 캐나다 잠수함 수주 불발."
+      "\"재고바닥\"외친지 2주만에 \"원유 공급과잉\"우려로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n045598bb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2시간 전",
+    "url": "https://www.chosun.com/special/special_section/2026/07/07/WXF4L2CVRFEOXKY5VAHTSMBUKQ/",
+    "title": "소변 때문에 화장실 들락날락… ‘참당귀·황기 추출물’로 해결",
+    "summary": [
+      "소변 때문에 화장실 들락날락… ‘참당귀·황기 추출물’로 해결."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndfe2140b",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/202607078934i",
+    "title": "마이크로소프트,전체 인력의 2.1% 해고",
+    "summary": [
+      "마이크로소프트,전체 인력의 2.1% 해고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n19202539",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026070689011",
+    "title": "대법 \"정부, 한화오션에 227억 돌려줘라\"",
+    "summary": [
+      "대법 \"정부, 한화오션에 227억 돌려줘라\"."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "엔비디아",
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
