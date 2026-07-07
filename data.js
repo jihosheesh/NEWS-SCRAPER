@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-07 11:37:13
+// 마지막 업데이트: 2026-07-07 14:05:44
 window.NEWS_DB = [
+  {
+    "id": "n05d10a89",
+    "category": "IT",
+    "source": "디지털투데이",
+    "time": "37분 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iV0lUVFpwYTl1VS1paENSeEZXWmJfczdEQkwwU2g1bXFPenJ0bGs4dUdRYmo2VGNPLTNtQ0NQUzk1eHpfYmlORjN4cnFPRTZTdEpyUm56NzR1VEtTendKVS1ndjAxd1dmeEhWTVk3U0wyeG8?oc=5",
+    "title": "딥시크, 자체 AI 칩 개발 추진…엔비디아·화웨이 의존 줄인다",
+    "summary": [
+      "딥시크, 자체 AI 칩 개발 추진…엔비디아·화웨이 의존 줄인다 디지털투데이."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nb30e2fb3",
     "category": "IT",
     "source": "Naver Blog",
-    "time": "2시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ19lVndfWDE5UWVmV0NBc05Pc0pZd29GOHVNSXRaVHAyNm5ITXExOHVHdU1vdVg1MjlNZEt0SjVGRnFlMmpocnNOQ1pmLWVUY0dkMXFoMUxFNGI5U2xzTDhJM1p6dVljTGdvZWQ4V1I4UVVGU2ZkbEZNMXdNaE1rZDRLVVlfTG1wQnR6LUhsOA?oc=5",
     "title": "[삼성 반도체 점검]삼성전자, HBM4로 종합반도체 실효성 가늠 : 네이버 블로그",
     "summary": [
@@ -18,14 +33,29 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc1ae5921",
+    "category": "IT",
+    "source": "아시아타임즈",
+    "time": "7시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GWnBRbTd1cEtWNzZvNW5KRmFYeWJLNG13OGNIMUo2TU1IWnowMDJJaF9Ha2dKaHFDTHlkOVV1TjlZb2JYVE5mWnVCLTg4Qm0zblQwZktDMXl0QkUydWc?oc=5",
+    "title": "삼성전자, 잘 키운 ‘파운드리’ HBM 안 부럽다",
+    "summary": [
+      "삼성전자, 잘 키운 ‘파운드리’ HBM 안 부럽다 아시아타임즈."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "nd1f8edbe",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "5시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZSEtBNXE2Slo3RVVfTkxHNzlsSzhpQmdUV3JUZXd6UTFOMmd2ejc2MklDQVNTTmFVQTZrZW9JYWpXY3lWMDhTSVFONDEtOFVjZ0M5RXpiWnBLVngtVTNiZU13N01rc19XRkxEcC1aaGlqNFU?oc=5",
-    "title": "엔비디아 AI 반도체 호황 '독식' 시대 저무나, AMD 구글 이어 중국 추격도 빨라져",
+    "title": "엔비디아 AI 반도체 '독식 시대' 저무나, AMD 구글 이어 중국 추격도 빨라져",
     "summary": [
-      "엔비디아 AI 반도체 호황 '독식' 시대 저무나, AMD 구글 이어 중국 추격도 빨라져 비즈니스포스트."
+      "엔비디아 AI 반도체 '독식 시대' 저무나, AMD 구글 이어 중국 추격도 빨라져 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -34,24 +64,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n964b07a5",
-    "category": "IT",
-    "source": "블로터",
-    "time": "9시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qWUcyNy1TRnQxTnJqdHZIU1E3Sks2dXhDd0FlQ1ZHZUJTd3lzOFRCMEp0LWZMUTBDWWlMUDJodVlQQVJjaU93b01wMVFJMEJpQkxjUUdfeGJ6NlVEcjRLel90R1pFRWxP0gFsQVVfeXFMTUV5MHl1RGg5STk4SUtyc2R2aDl6aGl0d0pMQXZ4bGNVdVF3dFJ3U2VPd0FfRDBRX3N0dnNTQTExUXR3Y2VmbXhFaWgzSHBrczJfQTJ5b09VeGRuZjRRN3BIMEYyaTl6RjJmVjN2?oc=5",
-    "title": "엔비디아·애플 뛰어 넘은 삼성…새로 쓰는 글로벌 테크 산업 역사",
-    "summary": [
-      "엔비디아·애플 뛰어 넘은 삼성…새로 쓰는 글로벌 테크 산업 역사 블로터."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nf7640601",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "18시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqeDI5Vnc2VFRQZ2Z5Z0QzbXl1WjQwUm1yWXJETXZ1NTF4SjVwbHhiNU1TNUFQcUZockxuNFFUMmJfUzVQUDRLbHRrdEJwTnhuMlpKNV9ZWWpLSXPSAWBBVV95cUxPQ24xbTVJRFh6SzR2MEwxeUsybVBXSGhSUEY3ZW40UGRlaUI0ZFVOdVZ4U3JNMnBNVWplX09hV3gxY1B1Q0l6MWJscW9iWFV3MUhWemVPYlNlZEI5UDRHM3g?oc=5",
     "title": "\"엔비디아, 차세대 AI서버 '카이버' 출시 1년 지연…제조 난관\"",
     "summary": [
@@ -60,23 +76,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "nc4b0f988",
-    "category": "IT",
-    "source": "쿠키뉴스",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
-    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
-    "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -98,7 +97,7 @@ window.NEWS_DB = [
     "id": "nb6df5091",
     "category": "스포츠",
     "source": "starnewskorea.com",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
     "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
     "summary": [
@@ -273,14 +272,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
+    "id": "n4a365471",
     "category": "스포츠",
-    "source": "테크M",
-    "time": "97일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "source": "v.daum.net",
+    "time": "121일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbDRsNzJDT3JrUU5UZ1dGREM0RndpdFlCUlFsbHhTbXNaWUtzTFpDeV9lRkw0ZnViblc3Qlh2Y055by1WWVVPZVpUR3Jpd2s?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 v.daum.net."
     ],
     "chips": [
       "#KBO"
@@ -352,299 +351,290 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na3a64fb5",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026070720361898630",
-    "title": "'부정선거 현수막' 제작한 시민단체 대표 구속영장 기각",
-    "summary": [
-      "경찰이 불법 정치자금으로 혐중 정서와 부정선거 의혹을 조장하는 현수막을 제작한 혐의를 받는 시민단체 대표에 대한 신병 확보에 나섰지만 불발됐다.",
-      "김지현 서울남부지법 영장전담 부장판사는 7일 오후 정치자금법 위반 혐의를 받는 김모 애국현수막 대표에 대한 구속 전 피의자 심문(영장실질심사)을 연 뒤 구속영장을 기각했다.",
-      "김 부장판사는 \"피의자가 범죄 혐의 성부에 관해 다투고 있으나 이미 확보된 증거자료에 비춰 보."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nac81f240",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026070720361694295",
-    "title": "與, 당권경쟁 4파전되나…'친문' 고민정 등판",
-    "summary": [
-      "고민정 더불어민주당 의원이 8·17 전당대회 당대표 선거에 출마한다.",
-      "친문(친문재인)계인 고 의원은 민주당 당권주자 가운데 유일한 여성 후보이자 40대 후보로 가장 젊다.",
-      "7일 고 의원 측은 8일 오전 9시40분 국회 소통관에서 기자회견을 열고 출마 선언을 하겠다고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0a314b12",
+    "id": "nd8849e9b",
     "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260707_0003699793",
-    "title": "[속보]종합특검, '계엄 메시지 전달' 김태효 前 국가안보실 1차장 구속영장 청구",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5e1e95ec",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026070718444979099",
-    "title": "동부권 교육계, \"순천 글로컬·여수 수산업 결합, 지역 인재 양성\"",
+    "url": "https://www.newsis.com/view/NISX20260707_0003699854",
+    "title": "[속보] 차세대중형위성 4호, 한반도 첫 교신 성공",
     "summary": [
-      "전남·광주 통합교육청 시대를 맞아 여수·순천·광양 등 동부권 교육계가 지역 최대 현안인 '우수 인재 유출 방지'와 '권역별 교육격차 해소'를 위해 본격적인 해법 찾기에 나섰다.",
-      "지역의 고등교육 및 첨단 산업 자원을 공교육과 결합하고, 초연결 디지털 생태계를 통해 교육 기회의 균등을 이뤄야 한다는 데 현장 전문가들의 뜻이 모였다.",
-      "7일 교육계에 따르면 K-교육특별시 준비위원회와 여수·순천·광양교육지원청은 광양교육."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n07a76a0c",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/07/2026070716593932299",
-    "title": "'혐중·부정선거' 현수막 단체 대표 구속영장 기각",
-    "summary": [
-      "법원 \"증거인멸·도망 염려 있다고 보기 어려워\" '내일로미래로' 대표 심문기일, 오는 9일로 변경 혐중 표현과 부정선거 의혹을 담은 현수막 달기 운동을 벌여온 단체 대표에 대한 구속영장이 법원에서 기각됐다.",
-      "서울남부지법 김지현 영장전담 부장판사는 7일 오후 정치자금법 위반 혐의를 받는 김모 '애국현수막' 대표에 대한 구속 전 피의자 심문(영장실질심사)을 열고 \"구속해야 할 사유와 상당성을 인정하기 어렵다\"며 구속영장을 기각했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n71a8b302",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260707_0003699791",
-    "title": "송영길 \"전당대회 완주…선호투표로 김민석과 통합\"",
-    "summary": [
-      "[서울=뉴시스]권신혁 기자 = 차기 당대표 선거 출마를 예고한 송영길 더불어민주당 의원이 7일 \"(전당대회) 완주를 안 할 수가 없다\"며 \"오히려 끝까지 완주해야 (김민석 전 총리와) 통합이 되지 않겠느냐\"라고 말했다.",
-      "송영길 의원은 이날 오후 MBC 조승원의 뉴스하이킥에 출연해 \"(김 전 총리) 페이스메이커는 없다\"며 이같이 전했다.",
-      "송 의원은 \"출마한 사람이 당선되려고 나오지 떨어지려고 나오겠느냐\"라며 \"선호 투표가 도입됐기 때문에 오히려."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd257e911",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260707_0003699792",
-    "title": "'장윤기 증거인멸' 강력팀장 직위해제…경찰서장 등 6명 대기발령",
-    "summary": [
-      "[서울=뉴시스]이태성 기자 = 증거인멸, 경찰 유착 등 각종 의혹이 제기된 '광주 여고생 살인사건'과 관련해 경찰청이 사건 수사 관계자와 지휘 라인을 업무에서 배제했다.",
-      "경찰청은 7일 오후 언론 공지를 통해 \"'광주 여고생 살인사건' 관련 경찰수사 과정에 제기된 각종 의혹을 명확하게 밝히기 위해 전날 긴급체포된 강력팀장을 직위해제했다\"고 밝혔다.",
-      "그 외 사건 수사 관계자와 경찰서 지휘관도 직무에서 배제했다."
+      "[서울=뉴시스]심지혜 기자 = 우주항공청, 농촌진흥청, 산림청은 ‘차세대중형위성 4호(CAS500-4)’가 해외 지상국과 3차례 교신 이후 발사 약 6시간 38분 후인 한국시간 7일 오후 10시 50분에 대전 한국항공우주연구원 지상국과 첫 교신에 성공했다고 밝혔다.",
+      "◎공감언론 뉴시스 siming@newsis.com."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n335344bc",
+    "id": "n4e461ed1",
     "category": "경제",
-    "source": "한국경제",
-    "time": "6분 전",
-    "url": "https://www.hankyung.com/article/2026070712847",
-    "title": "어린이 최소 78명 HIV 감염…파키스탄 병원 발칵 뒤집혔다",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260707/134254876/2",
+    "title": "청춘 앞에 놓인 끝없는 허들[정덕현의 그 영화 이 대사]〈114〉",
     "summary": [
-      "어린이 최소 78명 HIV 감염…파키스탄 병원 발칵 뒤집혔다."
+      "“난 앞만 보고 달려.”―조시 사프디 ‘마티 슈프림‘청춘의 야망은 어디로 튈지 알 수 없는 탁구공 같은 걸까.",
+      "‘마티 슈프림’은 탁구에 천재적인 재능을 가진 마티 마우저(티모테 샬라메 분)가 챔피언의 꿈을 향해 끝없이 질주하는 이야기다.",
+      "샬라메는 6년간의 탁구 훈련으로 대역 없이 연기를 해냈다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "nc04ce855",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/07/2026070720140329283",
-    "title": "\"중국, 최첨단 AI 모델 해외 접근 제한 검토…국가안보 관리 강화\"",
+    "id": "n99fbc908",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260707/134254666/2",
+    "title": "북핵 동결 구상이 韓 안보에 위험한 이유[기고/차두현]",
     "summary": [
-      "중국 정부가 자국의 최첨단 인공지능(AI) 모델에 대한 해외 접근을 제한하는 방안을 검토하고 있는 것으로 알려졌다.",
-      "미국과 마찬가지로 국가안보를 이유로 AI 기술 보호를 강화하려는 움직임으로 풀이된다.",
-      "7일(현지시간) 로이터통신에 따르면 중국 상무부는 최근 한 달 동안 중국 대표 AI 기업들과 잇따라 회의를 열고 공개되지 않은 차세대 AI 모델을 포함한 첨단 AI의 해외 이용 제한 방안을 논의했다."
+      "이재명 대통령은 6월 8일 취임 1주년 기자회견을 통해 국제 제재 가능성과 우리의 높은 대외 경제 의존도를 근거로 “우리가 북한처럼 될 수는 없지 않나”라며 자체 핵무장 주장을 “무책임한 소리”라고 일축했다.",
+      "이 대통령은 장기적으로 한반도 비핵화를 목표로 하되, 단기적으로는 북한이 ‘체제 위협’을 느끼지 않게 해 핵무기에 의존하지 않도록 하는 이른바 ‘동결’ 협상이 필요하다고 주장했다.",
+      "한반도의 긴장 완화를 우선 추구하자는 취지는 이해되나, 북."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n655c9c5d",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260707/134254659/2",
+    "title": "대학 간판이 미래를 보장한다?… AI 시대, 흔들리는 대학의 아성[맹성현의 AI시대 생존 가이드]",
+    "summary": [
+      "《채용 플랫폼 진학사 캐치가 발표한 ‘2026 채용 트렌드 리포트’에 따르면 2025년 국내 대기업의 정규직 신입 채용 공고는 전년 대비 43% 줄었다.",
+      "한국은행의 분석에서는 챗GPT 등장 이후 3년간 사라진 청년 일자리 약 21만 개의 대부분이 인공지능(AI) 노출도가 높은 업종에서 발생했다.",
+      "신입 채용 공고는 2023년 이후 35% 감소했고, 대졸 청년 실업률이 전체 실업률을 웃도는 보기 드문 역전 현상까지 나타났다.》."
+    ],
+    "chips": [
+      "#AI",
+      "#한은",
+      "#채용",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nb0e82855",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260707/134254669/2",
+    "title": "허균이 먹은 숭어는 숭어? 가숭어?[김창일의 갯마을 탐구]〈148〉",
+    "summary": [
+      "여느 때와 다름없던 평온한 바다가 갑자기 파닥거렸다.",
+      "끓어오르는 듯한 일렁거림이 빠르게 밀려왔다.",
+      "집으로 달려가기도 하고, 급하게 어선의 시동을 걸어 바다로 나가기도 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n67b96806",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260707174100109",
+    "title": "이탈리아, 러시아에 기밀 유출한 전 정보요원 등 2명 체포",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 러시아에 기밀 정보를 유출한 혐의를 받는 전직 이탈리아 정보기관 요원 등이 로마 검찰에 체포됐다고 로이터통신..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n72cf10e8",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260707176000072",
+    "title": "美 5월 무역적자 776억달러…14개월 만에 최대",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 지난 5월 미국의 무역적자가 늘며 1년 2개월 만에 최대 수준을 기록했다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nb24b0f15",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260707175100001",
+    "title": "李대통령, 나토 사무총장 면담…IP4 소인수 회담도 참석",
+    "summary": [
+      "(앙카라=연합뉴스) 임형섭 설승은 기자 = 북대서양조약기구(NATO·나토) 정상회의 참석을 위해 튀르키예를 방문한 이재명 대통령은 7일 오후(현..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7164d7cd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260707171851079",
+    "title": "\"호르무즈서 중재국 카타르 LNG선도 이란 공격받아…폭발 위험\"(종합)",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협에서 이란 이슬람혁명수비대(IRGC)의 미사일 공격을 받은 액화천연가스(LNG) 운반선이 화재..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n53de0eba",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/08/XMOHTN4LD5HCPIHVLWTIB6PP3M/",
+    "title": "장윤기 부친과 알던 수사 경찰... “선배님, 함구하라 했어요” 전화",
+    "summary": [
+      "장윤기 부친과 알던 수사 경찰... “선배님, 함구하라 했어요” 전화."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5825a2fd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260707_0003699853",
+    "title": "이 대통령, 나토-IP4 소인수회담 참석…방산 협력 논의",
+    "summary": [
+      "[앙카라·서울=뉴시스] 김지은 조재완 기자 = 이재명 대통령은 7일(현지시간) 튀르키예 앙카라에서 열린 북대서양조약기구(NATO·나토) 인도·태평양 파트너국(IP4) 회의에 참석해 방산 협력 확대 방안 등을 논의했다.",
+      "이 대통령은 이날 오후 마르크 뤼터 나토 사무총장과 함께 일본·뉴질랜드·호주 등 IP4 최고위급이 참석하는 소인수 회담에 참석했다.",
+      "IP4는 나토 가맹국은 아니지만, 협력 관계에 있는 한국·일본·뉴질랜드·호주 등 4개국을 지칭한다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n77c6ef53",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/07/GEZDKZTFGVTGCZJXG4YTSMZVGI/",
+    "title": "최형우 1800타점→구자욱 3출루→디아즈 쐐기포…삼성, LG 잡고 38일만의 1위 탈환! 전반기 1위 결정전 기선제압 [대구리뷰]",
+    "summary": [
+      "[대구=스포츠조선 김영록 기자] \"이번 3연전에 '올인'하는 모습을 보여드리겠다.",
+      "전반기를 1위로 끝내면, 우리 선수들에게도 큰 자산이 될 거다.\" 박진만 삼성 라이온즈 감독의 진심이 묵직하게 와닿은 걸까.",
+      "삼성 라이온즈가 전반기 마지막 3연전에서 반전을 이뤄냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1a0db54e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/07/MQ4DQNBWGQZDQNRQGA3WCNBZMU/",
+    "title": "최정 홈런 없었으면.. '아찔' → \"최근 개인적으로 도움 안 되는 느낌\" [잠실 현장]",
+    "summary": [
+      "[잠실=스포츠조선 한동훈 기자] SSG 랜더스가 '한 시즌 두 번째 10연패' 불명예 앞에서 간신히 살아났다.",
+      "SSG 레전드 최정과 고졸신인 김민준이 난세의 영웅이었다.",
+      "SSG는 7일 잠실에서 열린 두산 베어스와 경기에서 4대2로 승리했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n677ded38",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260707_0003699808",
+    "title": "이 대통령 \"한-나토, 무기체계 공동 생산·운용하는 '방산 파트너십 2.0' 격상 제안\"",
+    "summary": [
+      "[앙카라·서울=뉴시스] 김지은 조재완 기자 = 튀르키예를 방문 중인 이재명 대통령은 7일(현지시간) 북대서양조약기구(NATO·나토) 방산포럼에 참석해 \"단순히 무기체계를 거래하는 현재의 방산 협력을 넘어 무기체계를 함께 연구하고, 함께 생산하며, 함께 운용하는 '한-나토 방위산업 파트너십 2.0'으로 격상하자\"고 제안했다.",
+      "이 대통령은 이날 오후 앙카라 컨벤션센터에서 열린 나토 방산포럼 네 번째 세션 기조연설에서 \"국제에너지기구 회원국들이 전략."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd27e11d7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260707_0003699560",
+    "title": "이시영, 아들과 야외 수영장 데이트 \"더 크기 전에 많이 놀아야지\"",
+    "summary": [
+      "[서울=뉴시스]박재민 인턴 기자 = 배우 이시영이 아들과 함께 수영장에서 즐거운 시간을 보내는 모습을 공개했다.",
+      "이시영은 7일 소셜미디어에 \"아직도 이안이랑 노는 게 너무 너무 좋다.",
+      "더 크기 전에 진짜 많이 놀러 다녀야지\"라는 글과 함께 사진 여러 장을 올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e43507e",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "37분 전",
+    "url": "https://www.hankyung.com/article/2026070713411",
+    "title": "신동국, 한미사이언스株 1727억원어치 장외매수",
+    "summary": [
+      "신동국, 한미사이언스株 1727억원어치 장외매수."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f16152f",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026070713207",
+    "title": "\"연봉 3억도 못 버티네\"…AI붐에 신음하는 실리콘밸리",
+    "summary": [
+      "\"연봉 3억도 못 버티네\"…AI붐에 신음하는 실리콘밸리."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "ne02de0ca",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/07/GQ3WCZRUGAYGMYLBMFSGKOLGME/",
-    "title": "뮤지, '1박2일' 불화설 언급 \"문세윤이 딘딘 때문에 전화해, 한 대 치고 싶다고\" ('알딸딸한 참견') [순간포착]",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 뮤지가 문세윤과의 통화 내용을 밝혔다.",
-      "7일 유튜브 채널 '알딸딸한 참견'에는 '무개념 졸업식 딘딘 이미지 떡상 비결 | 알딸참 시즌3 EP.3'라는 제목의 영상이 게재됐다.이날 뮤지는 딘딘을 보며 KBS 예능 '1박2일'을 떠올렸다.",
-      "해당 프로그램은 딘딘이 7년간 출연 중인 국민 예능이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne0dcf4e8",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260707_0003699780",
-    "title": "SSG 신인 김민준, 데뷔 첫 퀄리티스타트…두 번째 승리 '보인다'",
-    "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 SSG 랜더스가 미래 에이스로 기대하는 우완 신인 투수 김민준이 데뷔 이래 최고의 투구를 펼쳤다.",
-      "김민준은 7일 잠실구장에서 벌어진 2026 신한 쏠 KBO리그 두산 베어스와의 경기에 선발 등판해 6이닝 동안 4개의 안타와 1개의 사사구만 내주고 두산 타선을 무실점으로 봉쇄했다.",
-      "83개의 공을 던진 김민준은 삼진은 6개를 솎아내며 안정적인 투구를 선보였다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n13e596e2",
+    "id": "n4c688338",
     "category": "경제",
     "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/2026070712217",
-    "title": "한여름 올바른 물 섭취 방법…\"'많이'보다 '자주' 마셔야\"",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026070707426",
+    "title": "\"BTS·코르티스 활약 기대\"…폭락장서 엔터주 '스포트라이트' [종목+]",
     "summary": [
-      "한여름 올바른 물 섭취 방법…\"'많이'보다 '자주' 마셔야\"."
+      "\"BTS·코르티스 활약 기대\"…폭락장서 엔터주 '스포트라이트' [종목+]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n656b03da",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/07/2026070719262597279",
-    "title": "'무려 700억' 이강인 아틀레티코행, 아시아 역대 이적료 2위... 손흥민·김민재까지 제쳤다",
+    "id": "nf4e04171",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026070713147",
+    "title": "﻿﻿소방청, 호우 대비 긴급상황 점검 회의 개최…8일 상황대책반 선제 가동",
     "summary": [
-      "대한민국 축구대표팀의 핵심 미드필더 이강인(파리 생제르맹)이 스페인 라리가의 명문 아틀레티코 마드리드로 향한다.",
-      "2026 국제축구연맹(FIFA) 북중미월드컵 조별리그 탈락의 아쉬움을 뒤로하고, 초대형 이적의 주인공이 됐다.",
-      "유럽 축구 이적시장 전문가 파브리시오 로마노는 6일(한국시간) 이강인이 아틀레티코 마드리드로 향한다고 밝혔다."
-    ],
-    "chips": [
-      "#손흥민",
-      "#채용"
-    ]
-  },
-  {
-    "id": "n8eb4433b",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/07/2026070720194851052",
-    "title": "정점식 \"이 대통령, 전월세 세입자 시각에서 부동산 정책 내놓으라\"",
-    "summary": [
-      "[the300] 정점식 국민의힘 원내대표가 이재명정부를 향해 \"부동산 정책의 초점을 '다주택자'와 '투기꾼'에만 두지 말고, 전월세 세입자의 시각에서 균형 잡힌 정책을 내놓길 바란다\"고 밝혔다.",
-      "정 원내대표는 7일 SNS(소셜미디어)를 통해 \"전세가 완전히 사라지면 서울에서도 뉴욕이나 런던처럼 서민들이 월급을 버는 만큼 족족 월세로 갖다 내야 하는 '서민 월세지옥'이 펼쳐질 것\"이라며 이같이 밝혔다.",
-      "정 원내대표는 \"서울의 전세 신규 계약과 재."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n76ed1345",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260707/134254594/1",
-    "title": "[속보]‘장윤기 사건’ 당시 광주광산경찰서장 등 6명 대기발령",
-    "summary": [
-      "‘장윤기 사건’ 당시 광주광산경찰서장 등 6명 대기발령."
+      "﻿﻿소방청, 호우 대비 긴급상황 점검 회의 개최…8일 상황대책반 선제 가동."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n123fec08",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026070720183883615",
-    "title": "[날씨] 내일 중부 최대 200mm '물폭탄'…호우특보 주의",
-    "summary": [
-      "수요일인 8일은 전국 대부분 지역에 비가 내리는 가운데 낮 최고기온은 30도 이상으로 올라 무더위가 이어지겠다.",
-      "중부지방과 전북, 전남 북서부, 경북 중북부에는 많은 비가 내리면서 호우특보 가능성이 있겠다.",
-      "돌풍과 함께 천둥·번개를 동반하는 곳이 있겠으니 안전사고에 유의해야겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncfd7bdf4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260707/134251909/1",
-    "title": "종합특검, 김건희 최측근 유경옥 조사…상당 부분 진술 거부",
-    "summary": [
-      "2차 종합특검(특별검사 권창영)이 윤석열 정부 대통령 관저 이전 특혜 의혹과 관련해 윤 전 대통령 부인 김건희 여사의 최측근 유경옥 전 대통령실 행정관을 조사했다.7일 종합특검은 유 전 행정관을 특정범죄가중법상 알선수재 방조 혐의 피의자 신분으로 불러 조사했다.",
-      "유 전 행정관은 2022년 대통령 관저 이전 공사 당시 김 여사와 친분이 있는 업체인 21그램 등이 김 여사에게 디올 의류 등 금품을 건네는 과정에 전반적으로 관여한 혐의를 받고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2933059b",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260707/134254574/1",
-    "title": "7일부터 ‘사이버렉카 방지법’ 시행…무엇이 달라지나",
-    "summary": [
-      "불법·허위조작정보 유통을 막기 위한 개정 정보통신망법이 7일부터 본격 시행된다.",
-      "방송미디어통신위원회(이하 방미통위)는 7월 7일 국무회의에서 불법·허위조작정보 유통방지를 위한 ‘정보통신망 이용 촉진 및 정보보호 등에 관한 법률’(이하 정보통신망법) 시행령 일부개정령안이 의결됐다고 밝혔다.",
-      "이른바 ‘가짜뉴스법’, ‘사이버렉카 방지법’으로 불리는 이번 개정안은 악성 유포자 차단과, 플랫폼의 사회적 책임 강화를 골자로 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na286165d",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260707/134251886/1",
-    "title": "민형배 “군공항 이전 전에도 반도체 산단 착수 가능”",
-    "summary": [
-      "민형배 전남광주통합특별시장은 7일 호남권 반도체 클러스터 입지로 선정된 광주 군공항 부지에 대해 “군공항 이전 전에도 반도체 산단 착수가 가능하다”고 밝혔다.민 시장은 이날 오전 광주 군공항 탄약고 이전 예정 부지를 찾아 현재 상황과 공사 절차를 점검했다.",
-      "이어 오후에는 장성군 동화면 신장성변전소 예정 부지로 이동해 345㎸(킬로볼트) 송·변전 설비 건설 계획과 전력 공급 일정을 보고받았다.",
-      "이후 화순군 이서면 동복댐을 방문해 취수·정수 계통과."
-    ],
-    "chips": [
-      "#반도체"
     ]
   }
 ];
@@ -654,20 +644,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
