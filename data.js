@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-08 21:59:04
+// 마지막 업데이트: 2026-07-08 23:06:14
 window.NEWS_DB = [
   {
     "id": "n139660b1",
     "category": "IT",
     "source": "마켓인",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zZVJ4bmhiaWRoTmt6TzM2NWxpY2pwcS0yVl9SN0dYV0NldVRBcC0wOWwxVEhUTVh6dTZKZHZieU95OUE0ZXFqLVRFWmNDVlFoZ2IyVWdjcHdxWWl4aTF2ZzFuZFB0b0Q3aXE4U1AtOEhjUWc?oc=5",
     "title": "\"중국, 엔비디아 H200 AI칩 제한적 구매 허용 추진\"…AI 육성에 선회",
     "summary": [
@@ -17,14 +17,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd2edf54f",
+    "id": "n53349509",
     "category": "IT",
-    "source": "v.daum.net",
+    "source": "파이낸셜뉴스",
     "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOTTg5ZWNaVExMbUZ5aEVRUm0wa2dUU0txYjljYU04WFI0ck4yVFVCRGc1TFhPZzRaUks0UVoyMWZZTkp3VmkxQVp2Zll1U05BUldjYQ?oc=5",
-    "title": "中 AI 칩 시장, 화웨이가 엔비디아 추월",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbWFSWXE4UnRzejZFSnY1M05IcDJkSmtKSGdCaEE5M2JMRmZEeEdCUWtzLWpjSFliSUtxU0JQeXZsWU9rVENJREt5S3JYc0lGZ2tNb2VlVTNrdw?oc=5",
+    "title": "엔비디아 밀어낸 화웨이…中 AI칩 '세대교체' 시작됐다",
     "summary": [
-      "中 AI 칩 시장, 화웨이가 엔비디아 추월 v.daum.net."
+      "엔비디아 밀어낸 화웨이…中 AI칩 '세대교체' 시작됐다 파이낸셜뉴스."
     ],
     "chips": [
       "#AI",
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n84f4e27e",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNG9uYjB6V2xNLXdRS0V2WWVfTVZYZlhrWnYzWVYzdGVocERlVTZvUmNua2VQTTNBSUVtYmRQSDh3QThCQzNCUUZNNjJkaGZxb2JRS2EtOTN1VXPSAWBBVV95cUxQSkhwLUFjMlFLTVhnY0NfN1B3OVc1SUF6OERxcTR1YWJTME82TmdNWXJySDhhV1NDcVgyeXA5Zy1XbEo1aWZZZWFMZDI1UkQ4NF94M1ZyR0xKbkxSSlZKbkU?oc=5",
     "title": "중국 AI 칩 '脫엔비디아'…화웨이, 엔비디아 제쳤다",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n8783922f",
     "category": "IT",
     "source": "딜사이트",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ObFhyaEczRjBiVVZhektlWlE1ZTZTU3BobmlxTXE4OUxsNUlwcmthMzZjaElNVDRYTEs1ei1yanlOSWNEWWJwZEN0Rzh2NFk?oc=5",
     "title": "[삼성 반도체 점검] 삼성전자, HBM4로 종합반도체 실효성 가늠",
     "summary": [
@@ -125,11 +125,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4288bc75",
+    "id": "ne098ec77",
     "category": "IT",
     "source": "v.daum.net",
     "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SaVQtRUd0Unh5WnBHeGZ2NGtzNFNtek8xVnFRd3VhVnFGQUVDdEpURUlfa2FqWS1LUlBQd2Fmdng1YzNmTEtDQ09UNU1iLUdJaWlTRw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWEI2T2RRNGVBTktrLW1KbThpRHpMRXd5TUhKdGNmeEhUcDAtTTY2M1pQSFUzdWFXdGxPbDFieXJxSC1IMi1qMzQwUFhQY0k?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
       "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집 v.daum.net."
@@ -167,21 +167,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n2aad78a4",
-    "category": "사회",
-    "source": "스포츠동아",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
-    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
-    "summary": [
-      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 스포츠동아."
-    ],
-    "chips": [
       "#취업",
       "#고용"
     ]
@@ -317,41 +302,287 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f75efaf",
+    "id": "ne9937fa3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260709_0003701692",
-    "title": "美 국방, 이스라엘 방문 취소…네타냐후 \"실망 안 해\"",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260709_0003701760",
+    "title": "신한증권 \"기아, 현대차 대비 40% 할인 과도\"…목표가 24만원↑",
     "summary": [
-      "[서울=뉴시스] 신효령 기자 = 미국과 이란의 무력 충돌이 다시 격화한 가운데 피트 헤그세스 미국 국방장관의 이스라엘 방문이 취소됐다.",
-      "베냐민 네타냐후 이스라엘 총리는 이를 두고 \"실망하지 않았다\"며 오히려 긍정적 의미가 있을 수 있다는 취지의 발언을 내놨다.",
-      "이스라엘 일간 타임스오브이스라엘(TOI) 등에 따르면 네타냐후 총리는 9일(현지시간) 언론인이자 전 우파 크네세트(의회) 의원인 샤론 갈과의 팟캐스트 인터뷰에서 헤그세스 장관의 이스라엘."
+      "[서울=뉴시스] 박주연 기자 = 신한투자증권이 기아에 대한 투자의견 '매수'를 유지하고, 목표주가를 기존 22만원에서 24만원으로 상향했다.",
+      "박광래 신한투자증권 연구위원은 9일 보고서를 내고 기아의 2분기 매출액을 전년 동기 대비 10.5% 증가한 32조4309억원, 영업이익을 5.0% 증가한 2조9017억원으로 각각 추정했다.",
+      "시장 컨센서스(영업이익 2조7876억원)를 4.1% 웃도는 수치다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc81ee433",
+    "id": "n9f2da119",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260709017500009",
-    "title": "골드만삭스 \"AI발 실적잔치 막바지…반도체 쏠림 과했다\"",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260709_0003701743",
+    "title": "오비고, 차량용 인카 게임 플랫폼 '픽조이' 서비스 로드맵 공개",
     "summary": [
-      "(서울=연합뉴스) 정주호 기자 = 지난 실적 시즌을 이끌었던 인공지능(AI)발 실적 서프라이즈 행진이 2분기(4∼6월) 실적 발표에는 재현되기 ..."
+      "[서울=뉴시스] 김경택 기자 = 모빌리티 라이프 AX(인공지능 전환) 플랫폼 전문기업 오비고는 차량용 인카 게임(In-Car Gaming) 플랫폼 '픽조이(PickJoy)'의 미래 비전과 중장기 서비스 고도화 로드맵을 공개했다고 9일 밝혔다.",
+      "회사 측에 따르면 오비고는 다양한 게임 콘텐츠 소싱과 기술적 플랫폼 고도화를 통해 차량 내부를 엔터테인먼트 공간으로 진화시킬 방침이다.",
+      "현재 오비고는 국내외 글로벌 완성차(OEM) 파트너사·주요 차량 브랜."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nc7c35dd7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260709027000051",
+    "title": "[부산소식] 클래식부산·부산문화회관 '사계' 창작 공연",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n067483c9",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260709028200004",
+    "title": "관악구 '실전형 AI 전문 마케터 양성교육' 참여 청년 모집",
+    "summary": [
+      "(서울=연합뉴스) 정준영 기자 = 서울 관악구(구청장 박준희)는 인공지능(AI) 시대에 맞춰 콘텐츠 마케터를 양성하기 위해 'AI 미니컴퍼니C ..."
     ],
     "chips": [
       "#AI",
-      "#반도체"
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n5c7a81ef",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260709027900007",
+    "title": "MLB 벌랜더, 올 시즌 마치고 은퇴 \"내 몸이 버텨주지 못해\"",
+    "summary": [
+      "(서울=연합뉴스) 김경윤 기자 = 한시대를 풍미했던 최고의 투수 저스틴 벌랜더(43·디트로이트 타이거스)가 2026시즌을 끝으로 현역에서 은퇴한..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2eca9509",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260709026800527",
+    "title": "서산 등 충남 3곳 호우주의보…천안 등 5곳 호우경보 유지",
+    "summary": [
+      "(대전=연합뉴스) 기상청은 9일 오전 7시 50분을 기해 서산·당진·태안에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n146ee87b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260709_0003701752",
+    "title": "[속보]경부일반선 부강역~서창역 집중호우…열차 운행 중단",
+    "summary": [
+      "[서울=뉴시스] 홍찬선 기자 = ◎공감언론 뉴시스 mania@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n737e15de",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260709_0003701722",
+    "title": "4대 국제경제기구 수장 \"이란戰 해결·호르무즈 재개방 촉구\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 국제에너지기구(IEA)와 국제통화기금(IMF), 세계은행그룹(WBG), 세계무역기구(WTO) 수장들은 이란전쟁 해결을 향한 추가 진전과 호르무즈 해협 재개방을 촉구했다.",
+      "경제 관련 4개 기구 수장들은 이란전쟁이 에너지·무역·세계 경제에 미치는 여파에 공동 대응하기 위해 지난 4월 고위 조정 그룹 회의를 구성한 바 있다.",
+      "4개 기구 수장은 8일(현지시간) 공동 성명에서 \"우리는 분쟁 해결을 향한 추가 진전과 호르무."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nc8fcdbb2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/09/MI2GKZRVG4ZTKN3BGBRDENTCG4/",
+    "title": "트럼프, 이란 향해 “또 선박공격시 더 심하게 당할것”",
+    "summary": [
+      "미군이 이틀째 이란 공습에 나선 가운데, 도널드 트럼프 미국 대통령은 이란이 추가로 상선을 공격할 경우 강경 대응하겠다고 경고했다.",
+      "트럼프 대통령은 8일(현지 시각) 자신의 소셜미디어(SNS) 트루스소셜에 이란 공격 장면으로 추정되는 이미지와 영상을 잇달아 올리며 “이는 어제 이란이 호르무즈 해협을 통과하던 선박을 공격한 데 대한 보복 조치”라고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndc81c2e5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260709/134264209/1",
+    "title": "李대통령, 울란바타르 도착…오늘 몽골 대통령과 정상회담",
+    "summary": [
+      "이재명 대통령이 9일 오전(현지 시간) 몽골 울란바타르에 도착해 국빈방문 일정에 들어갔다.",
+      "청와대는 한국 대통령이 국빈 자격으로 몽골을 찾은 것은 15년 만이라고 설명했다.이 대통령은 이날 몽골 정부 청사에서 개최되는 공식환영식에 참석한 뒤 후렐수흐 몽골 대통령과 정상회담을 한다.",
+      "이 자리에서 양국 정상은 핵심광물과 공급망, 한반도 평화 등에 논의할 것으로 보인다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb7127530",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260709/134264192/1",
+    "title": "‘AI 안경’으로 데이트 여성 몰래 찍어 SNS 올려…남성 수사",
+    "summary": [
+      "경찰이 인공지능(AI) 안경을 이용해 데이트 상대 여성을 몰래 촬영한 뒤 온라인에 게시한 남성을 조사하고 있다.8일 경찰에 따르면 서울 강서경찰서는 데이트 상대를 AI 안경으로 무단 촬영한 혐의로 남성을 수사하고 있다.이 남성은 메타의 AI 안경을 쓰고 자신이 데이트하는 모습을 몰래 촬영한 뒤 해당 장면들을 소셜네트워크서비스(SNS)에 올린 것으로 전해졌다.",
+      "그는 또 영상 등을 촬영하는 과정에서 AI 안경의 촬영 표시등을 가린 채, 자신이 쓰고."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nf38dab7f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "34분 전",
+    "url": "https://www.hankyung.com/article/2026070941116",
+    "title": "\"LG이노텍, 2분기 실적 기대치 넘어설 전망\"-대신",
+    "summary": [
+      "\"LG이노텍, 2분기 실적 기대치 넘어설 전망\"-대신."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2481b82f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "35분 전",
+    "url": "https://www.hankyung.com/article/202607083610i",
+    "title": "\"BTS보다 불닭에 눈길\"…완전히 뒤바뀐 K컬처 투자 지형도",
+    "summary": [
+      "\"BTS보다 불닭에 눈길\"…완전히 뒤바뀐 K컬처 투자 지형도."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc410501",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260709020300011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 07:30."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncddf62e7",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "36분 전",
+    "url": "https://www.hankyung.com/article/202607083177i",
+    "title": "현기증 나는 2차전지주…현 시점 최적의 투자전략은?",
+    "summary": [
+      "현기증 나는 2차전지주…현 시점 최적의 투자전략은?."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f76f6f8",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "42분 전",
+    "url": "https://www.hankyung.com/article/202607094078H",
+    "title": "\"18살 몸으로 돌아갈래\"…매년 30억 쏟아부은 억만장자 근황",
+    "summary": [
+      "\"18살 몸으로 돌아갈래\"…매년 30억 쏟아부은 억만장자 근황."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n67694b37",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260706025100898",
+    "title": "[우분투칼럼] 메르카토르 지도를 바로잡는 대한민국",
+    "summary": [
+      "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다.",
+      "우분투 칼럼에는 인류 ..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nfae987dd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/It/article/all/20260708/134258808/2",
+    "title": "오래 앉아 있으면 암 사망 위험 ↑…어떻게 해야 할까? [건강팩트체크]",
+    "summary": [
+      "한 번에 30분 이상 자리에서 일어나지 않고 오래 앉아 있는 습관은 암 사망 위험 증가와 관련이 있지만, 중간중간 일어나 가볍게 움직이면 그 위험이 낮아질 수 있다는 연구 결과가 나와 관심을 끌었다.사무직을 비롯한 현대인 상당수는 하루 약 8~9시간가량 앉아서 보내고, 1시간 이상 연속해서 앉아 있는 일도 흔하기 때문이다.이 연구의 핵심 메시지는 간단하다.하루에 얼마나 오래 앉아 있는지만 중요한 것이 아니라, 어떻게 앉아 있는지도 중요할 수 있."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n615f41e1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/09/WTLLYMIRGNGIXDFZGI6S5ZGBYU/",
+    "title": "윤석열 ‘체포 방해’ 오늘 첫 대법원 선고...소부 재판 최초 TV생중계",
+    "summary": [
+      "윤석열 ‘체포 방해’ 오늘 첫 대법원 선고...소부 재판 최초 TV생중계."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "ne3c835fb",
     "category": "사회",
     "source": "동아일보",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260709/134264149/1",
     "title": "이준영, 유키스 데뷔 후 편의점 알바 “매니저에게 들킨 후 울어”",
     "summary": [
@@ -363,209 +594,12 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6847518d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/09/2026070905594060712",
-    "title": "'8강 대진표 확정' 월드컵 우승 확률 공개, 메시의 아르헨은 '3위'",
-    "summary": [
-      "2026 국제축구연맹(FIFA) 북중미 월드컵 8강 대진표가 확정된 가운데 축구 통계 매체들은 일제히 프랑스의 우승을 점쳤다.",
-      "통계 매체 옵타(OPTA)가 9일(한국시간) 공개한 북중미 월드컵 8강 진출팀의 우승 확률에 따르면 프랑스는 27.32%로 스페인(21.33%), 아르헨티나(17.28%), 잉글랜드(16.48%) 등을 제치고 1위에 올랐다.",
-      "노르웨이(6.57%), 스위스(3.78%), 모로코(3.66%), 벨기에(3.58%)가 그 뒤를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ff72e80",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260709017300504",
-    "title": "[북한날씨] 전 지역에 비…내일까지 최고 150㎜",
-    "summary": [
-      "(서울=연합뉴스) 전명훈 기자 = 북한은 9일 전 지역에서 곳에 따라 비가 내리겠다고 기상청이 예보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a6c9f6f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260709_0003701689",
-    "title": "미군, 이틀 연속 이란 공습…트럼프 \"이란, 상선 재공격시 상황 더 악화\"(종합)",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미군 중부사령부는 8일(현지시간) 호르무즈 해협 인근에서 상업 선박을 공격한 이란에 추가 공습을 단행했다.",
-      "트럼프 대통령은 전날 이란의 상선 공격에 대한 보복이라며 이란이 추가 공격을 할 경우 상황은 더 악화될 것이라고 경고했다.",
-      "중부사령부는 이날 소셜미디어 엑스(X·옛 트위터)에 \"최고 통수권자(도널드 트럼프 대통령)의 지시에 따라 중부사령부가 이란에 대한 추가 공습을 개시했다\"며 \"이는 그들(이란)이 호르무즈."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9da1f00b",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260709017000075",
-    "title": "[월드컵] 저스틴 비버, BTS와 한 무대 선다…내달 하프타임쇼 참여",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 팝가수 저스틴 비버가 방탄소년단(BTS), 마돈나, 샤키라와 같은 무대에 오르게 됐다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n5aa9e5e5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260709_0003701693",
-    "title": "전남광주 밤사이 비피해 30여건…9일도 최대 200㎜",
-    "summary": [
-      "[전남광주=뉴시스]이영주 기자 = 밤사이 많은 비로 전남광주에서 침수 피해 등 30여 건이 접수됐다.",
-      "9일 광주기상청, 전남광주소방본부 등에 따르면 전남광주 북서부 권역 10개 시군을 중심으로 호우특보가 내려져있다.",
-      "담양군과 영광군 낙월면에 호우경보가, 장성·함평·목포·신안·나주·광주에 호우주의보가 발령된 상태다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7b96489b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260709017100527",
-    "title": "충남 청양에 호우경보…공주·계룡에 호우경보 유지",
-    "summary": [
-      "(대전=연합뉴스) 기상청은 9일 오전 6시 35분을 기해 청양에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n673e5f8c",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/tech/2026/07/09/2026070608191873123",
-    "title": "\"홍릉은 '한국형 켄들스퀘어'…지역특구 협력하며 바이오 생태계 확장\"",
-    "summary": [
-      "[인터뷰]임환 서울홍릉강소특구사업단장 [이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] 세계 최대 바이오 클러스터인 미국 보스턴은 핵심 거점인 켄들스퀘어가 포화 상태에 이르자, 인근 워터타운·월섬·우번 등으로 기업과 연구시설이 확산되는 '허브-스포크(Hub-and-Spoke)' 구조로 성장하고 있다.",
-      "켄들스퀘어가 위치한 케임브리지 외 지역으로 유입된 벤처캐피털(VC) 투자비."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n4c972b20",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260709/134264134/1",
-    "title": "이란 “트럼프, 살인자이자 범죄자”…美 공습재개 비난",
-    "summary": [
-      "이란이 미국의 공습 재개를 강력하게 비판하며 도널드 트럼프 미국 대통령에 대한 원색적인 비난을 이어갔다.",
-      "CNN 등에 따르면 이란 카젬 가리바바디 외교부 차관은 8일(현지 시간) X를 통해 트럼프 대통령의 이란에 대한 추가 공격 감행 의지에 대해 “범죄자이자 살인자인 트럼프에게는 그가 이해하는 언어, 즉 힘의 언어로 말해야 한다”며 강경 대응을 시사했다.",
-      "가리바바디 차관은 “트럼프의 발언은 힘의 표시가 아니라, 수년간 무력, 제재, 위협에 기반."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n108f46bd",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/09/2026070906200190287",
-    "title": "홍영기 \"남편 21살에 정관수술…의사가 짠하다고 할인\"",
-    "summary": [
-      "인플루언서 홍영기(33)가 21살에 미성년자 남편과 결혼할 수밖에 없었던 이유를 털어놨다.",
-      "지난 8일 유튜브 채널 '노빠꾸탁재훈'에는 얼짱 출신 인플루언서 홍영기가 게스트로 출연해 이야기를 나눴다.",
-      "영상에서 홍영기는 \"남편은 제 이상형\"이라며 \"같이 피팅모델을 하다가 만났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6deccc13",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/09/2026070906360445210",
-    "title": "애플·브로드컴, 45조원 반도체 동맹…美서 150억개 칩 생산",
-    "summary": [
-      "애플과 브로드컴과 300억달러(약 45조원) 규모의 맞춤형 반도체(ASIC) 파트너십을 연장하면서 150억개의 미국산 칩을 생산하겠다고 8일(현지시간) 밝혔다.",
-      "애플이 지난해 출범한 미국제조프로그램(AMP) 중 최대 규모의 계약이다.",
-      "브로드컴은 이번 계약에 따라 15억달러(약 2조3000억원) 규모의 설비 투자를 단행해 미국 콜로라도주 포트콜린스의 반도체 제조시설을 확장, 애플의 무선통신 관련 부품을 생산할 계획이다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n804fd5c7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260709/134264120/1",
-    "title": "강경화 주미대사 “한미, 쿠팡 사태 안정적 관리 공감대”",
-    "summary": [
-      "강경화 주미대사가 8일(현지 시간) ‘쿠팡 사태’와 관련해 “양국 정부 간에는 이러한 문제가 한미 관계에 부담이 되지않도록, 안정적으로 관리하자는 공감대가 형성돼 있다”고 강조했다.강 대사는 이날 미국 워싱턴 주미대사관에서 특파원간담회를 열고 이같이 말했다.",
-      "그는 “대사관은 미국 측과 지속적 협의를 통해 우리 입장을 분명하고 일관되게 설명해나가겠다”고 강조했다.최근 미국 연방하원 법사위원회는 한국 정부가 미국 기업인 쿠팡을 차별적으로 공격한다는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09cb310d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260709/134264127/1",
-    "title": "中 면역관문억제제 또 국내 허가…국산 신약은 언제쯤",
-    "summary": [
-      "중국 바이오기업이 개발한 면역관문억제제가 국내 시장에 잇따라 진입하고 있다.",
-      "미국과 유럽 빅파마가 주도해 온 면역항암제 시장에 중국 기업들의 존재감이 커지는 가운데 국내 기업들은 아직 자체 개발 면역관문억제제를 상용화하지 못한 상황이다.업계에서는 기술력의 문제가 아니라 개발 속도와 임상 투자 환경의 차이가 현재의 격차를 만들고 있다는 분석이 나온다.8일 업계에 따르면 식품의약품안전처는 지난 1일 알보젠코리아가 수입하는 PD-1 면역관문억제제 ‘."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n7e8b6865",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "47분 전",
-    "url": "https://www.hankyung.com/article/2026070940427",
-    "title": "미군, 이란 추가 공습…호르무즈 상선 공격 대응",
-    "summary": [
-      "미군, 이란 추가 공습…호르무즈 상선 공격 대응."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n32a19d23",
     "category": "부동산",
     "source": "연합뉴스(경제)",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260708162800003",
-    "title": "종부세 공정비율 80%로 올리면 주택분 보유세 8.7조→10.1조",
+    "title": "종부세 공정가액비율 80%로 올리면 주택분 보유세 8.7조→10.1조",
     "summary": [
       "(세종=연합뉴스) 오진송 기자 = 종합부동산세 공정시장가액비율을 현행 60%에서 80%로 올릴 경우 올해 주택분 보유세가 10조원을 넘어설 것이..."
     ],
@@ -574,59 +608,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd6e36aa2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "58분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/09/HANENFHG7FEFFH2OR53VPIYI74/",
-    "title": "백태웅 “김민석, 계엄 극복 최전선에서 목숨 걸고 뛰어... 진심 폄훼 말라”",
-    "summary": [
-      "백태웅 “김민석, 계엄 극복 최전선에서 목숨 걸고 뛰어... 진심 폄훼 말라”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c7f0c50",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "58분 전",
-    "url": "https://www.hankyung.com/article/202607083410i",
-    "title": "경기도에 웃돈 주고 쓰레기 버리던 은평구… 마포구청장 바뀌자 대반전",
-    "summary": [
-      "경기도에 웃돈 주고 쓰레기 버리던 은평구… 마포구청장 바뀌자 대반전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2dba2b8e",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "58분 전",
-    "url": "https://www.hankyung.com/article/202607093944i",
-    "title": "[여기는 논설실] 이코노미스트 김용범, 정책실장 김용범",
-    "summary": [
-      "[여기는 논설실] 이코노미스트 김용범, 정책실장 김용범."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n11835c1b",
+    "id": "nf01d581e",
     "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "58분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260708176900057",
-    "title": "울산산업 인공지능 전환 협의체 출범 \"대한민국 AX 거점으로\"",
+    "source": "조선비즈IT",
+    "time": "2시간 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/09/GTLIOYI5JNFOLBSUCUCWUFIWYM/",
+    "title": "팔란티어식 ‘현장 엔지니어’ 채용 늘리는 빅테크… 韓 IT서비스 업계 긴장",
     "summary": [
-      "(울산=연합뉴스) 김근주 기자 = 울산 산업 인공지능 전환(AX) 사업을 담당하는 민관 협의체가 9일 출범한다."
+      "팔란티어식 ‘현장 엔지니어’ 채용 늘리는 빅테크… 韓 IT서비스 업계 긴장."
     ],
     "chips": [
-      "#AI"
+      "#채용"
     ]
   }
 ];
@@ -636,20 +628,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "채용",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
