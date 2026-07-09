@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-09 15:52:00
+// 마지막 업데이트: 2026-07-09 17:47:24
 window.NEWS_DB = [
   {
     "id": "nbe0a91d8",
     "category": "IT",
     "source": "매일경제",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pNjM3NVdqM2c2UWx3TkNrM0Zxb3hjUDZkOW9UUmt6M2lCQTE5Qnd3RVFGUk5YemZIMHVSamVSalBxMDk0MUNfMnl1b2Mwa01VUHE5WDFB?oc=5",
     "title": "“H200 구매 허용한다”…中 수출길 열린 엔비디아",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n139660b1",
     "category": "IT",
     "source": "마켓인",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zZVJ4bmhiaWRoTmt6TzM2NWxpY2pwcS0yVl9SN0dYV0NldVRBcC0wOWwxVEhUTVh6dTZKZHZieU95OUE0ZXFqLVRFWmNDVlFoZ2IyVWdjcHdxWWl4aTF2ZzFuZFB0b0Q3aXE4U1AtOEhjUWc?oc=5",
     "title": "\"중국, 엔비디아 H200 AI칩 제한적 구매 허용 추진\"…AI 육성에 선회",
     "summary": [
@@ -73,22 +73,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n604b1b15",
-    "category": "IT",
-    "source": "뉴스임팩트",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VWG5yTGVTeWcxa3NBcmpvbEdlazF2WTc4VjBwZnEyZmNONWtOUW5ma0V4RGNlMkUxZjRVbmR3cENXOUt3dDBtTG5sWG9FNVd6MmlHS2cyUllxa1hKcGRlU0xSWk1wREgzUjI1N3VRSWRCQQ?oc=5",
-    "title": "[이슈] 삼성전자 HBM4 양산, SK하이닉스 우위 HBM 시장 경쟁 본격화",
-    "summary": [
-      "[이슈] 삼성전자 HBM4 양산, SK하이닉스 우위 HBM 시장 경쟁 본격화 뉴스임팩트."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -181,6 +165,23 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nfbd428d5",
+    "category": "IT",
+    "source": "중앙일보",
+    "time": "14일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
+    "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
+    "summary": [
+      "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다 중앙일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스",
+      "#채용"
     ]
   },
   {
@@ -330,10 +331,147 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n48280a13",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/10/GNRTEMRZG43TEYRRGQ4WCNRXGA/",
+    "title": "오러클린 작별인사? 전반기 1위 세리머니 중 돌발 호명 → 2만4000명 홈팬 박수에 화답 [대구스케치]",
+    "summary": [
+      "[대구=스포츠조선 김영록 기자] 마지막 작별인사에 걸맞은 교감이었다.",
+      "연장계약 두번을 불평없이 받아들이고, 17경기 83⅓이닝을 책임져준 투수에게 아낌없는 박수가 쏟아졌다.",
+      "구단 측 설명처럼, 단지 그것뿐이었을까."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb87c4bd6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/10/MEZDKYLBMU2DKYLDMU2GCMTBMM/",
+    "title": "'날벼락' 부상 악재, 569안타 기적 이렇게 끝나나 \"대체 선수까지 검토\"",
+    "summary": [
+      "[잠실=스포츠조선 나유리 기자]KBO리그에서 뛴 4시즌 동안 무려 569안타를 쳤다.",
+      "타격왕의 전설도 이렇게 끝이 나는 걸까.",
+      "SSG 랜더스 외국인 타자 기예르모 에레디아가 부상으로 전력에서 이탈했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd3b978d4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260710002600075",
+    "title": "선거 격전지 된 텍사스…민주 후보, 공화 3배규모 수백억원 모금",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 공화당의 텃밭으로 여겨지던 텍사스주(州)에서 민주당 상원의원 후보가 공화당 후보를 압도하는 거액..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5a92d067",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260710002500091",
+    "title": "하이닉스 美상장 하루 앞두고…마이크론 \"미국 내 375조원 투자\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = SK하이닉스의 미국 주식예탁증서(ADR) 상장을 하루 앞두고 마이크론이 대규모 미국 내 투자를 발표했..."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nc020adcc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260710_0003703469",
+    "title": "이란 외무부, 美공습은 \"중대한 전쟁 범죄…이란 이익 침해 허용안해\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 이란 외무부는 9일(현지 시간) 자국을 타격한 미국의 공습을 전쟁 범죄라며 규탄했다.",
+      "이란 외무부는 이날 홈페이지를 통해 영문 성명문을 내어 \"미국의 테러 군대가 남부 연안 지방 여러 곳과 성지 마슈하드로 향하는 철도 노선의 동부 지방 교량 두 곳을 겨냥해 감행한 침략적 공격을 강력히 규탄한다\"고 밝혔다.",
+      "그러면서 \"이러한 공격은 의심할 여지 없이 중대한 전쟁범죄\"라고 비판했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbdfa7512",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260710_0003703471",
+    "title": "루비오 美국무, 교황청 국무원장과 우크라 종전 논의",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 러시아와 우크라이나 전쟁 종식 의지를 거듭 타진한 가운데, 마코 루비오 미국 국무장관이 교황청과 종전 방안을 논의했다.",
+      "토미 피고트 국무부 대변인은 9일(현지 시간) \"루비오 장관이 오늘 교황청 국무원장 파롤린 추기경과 통화했다\"고 밝혔다.",
+      "이어 \"양측은 러시아 우크라이나 전쟁을 협상을 통해 종식하기 위한 노력을 논의했다\"고 설명했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb43e3f30",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/10/MEZGGMLCGZRWEZRSMYYDEYZWGM/",
+    "title": "이스라엘 국방 “대이란 군사작전 재개 준비돼… 독자적 공습도 가능”",
+    "summary": [
+      "미국과 이란의 호르무즈 해협을 둘러싼 갈등으로 중동 지역에서 무력 충돌이 재개된 가운데, 이스라엘 국방부 장관이 이란 내 군사작전을 위한 준비를 마쳤다고 밝혔다.",
+      "9일(현지 시각) 이스라엘 카츠 이스라엘 국방부 장관은 공군 조종사 수료식 연설에서 “이스라엘군은 이란에 대한 군사 작전 재개를 위해 경계 태세를 유지하며 만반의 준비를 갖추고 있다”고 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nafbc3231",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260710002400087",
+    "title": "[월드컵] 역전 드라마 더 뜨거워졌다…역전승 13회로 최다",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 2026 북중미 월드컵 16강전에서 0-2로 이집트에 뒤지고 있던 아르헨티나가 경기를 뒤집는 데 걸린 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3426dcaf",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "37분 전",
+    "url": "https://www.newsis.com/view/NISX20260709_0003701951",
+    "title": "\"20년 휠체어 탄 아버지 위해\"…아들이 만든 '걷는 로봇' 기적",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 다발성경화증으로 20년 넘게 휠체어 생활을 해온 아버지를 위해 아들이 산업용 사족보행 로봇을 개조해 이동 장비로 만든 사연이 화제를 모으고 있다.",
+      "지난 5일(현지 시간) 구독자 571만명을 보유한 유튜브 채널 'JLaservideo'의 운영자 제이크 레이저는 최근 이 같은 내용을 담은 영상을 공개했다.",
+      "레이저는 영상 초반에 이 프로젝트를 시작하게 된 진심을 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n9659ff0b",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "37분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153258",
     "title": "피해도 투자도 커지는데...정보보호의 날마다 '위상 논란' 되풀이, 왜?",
     "summary": [
@@ -351,7 +489,7 @@ window.NEWS_DB = [
     "id": "na463a7fd",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "47분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153265",
     "title": "[글로벌] 2026년 상반기 AI 안전성 인덱스 공개...\"빅테크 AI 안전 약속 후퇴\"",
     "summary": [
@@ -367,7 +505,7 @@ window.NEWS_DB = [
     "id": "nd48c44be",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "48분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153264",
     "title": "[글로벌] 中, 첨단 AI 모델 해외 접근 제한 검토...알리바바·바이트댄스와 논의",
     "summary": [
@@ -380,145 +518,68 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb9834e4f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/10/ZBYOKNVGYNGAZC7IM37QRQSNKM/",
-    "title": "대법, 檢미래위 ‘김용 재판기록 요청’ 불허",
-    "summary": [
-      "대법, 檢미래위 ‘김용 재판기록 요청’ 불허."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n22d56875",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/incident/2026/07/10/CN7OASFECFBOVLSBVJ3GFBJZ6I/",
-    "title": "‘피습 자작극’ 정이한, 10년지기와 공모… 경찰에 범행 시인하고도 선거 완주",
-    "summary": [
-      "‘피습 자작극’ 정이한, 10년지기와 공모… 경찰에 범행 시인하고도 선거 완주."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1a3edd71",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/welfare-medical/2026/07/10/3BA2KHF3IBBTHC7UJVX6ATX5PQ/",
-    "title": "韓 노년층 빈곤율 30%대로 첫 하락… 그래도 OECD 1위",
-    "summary": [
-      "韓 노년층 빈곤율 30%대로 첫 하락… 그래도 OECD 1위."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfce7b3ef",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/labor/2026/07/10/KWTOQ56JKNHWBMTWDQGONI4B4Q/",
-    "title": "노란봉투법 근거 된 판결, 대법서 뒤집혀",
-    "summary": [
-      "노란봉투법 근거 된 판결, 대법서 뒤집혀."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n019222fe",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026071000382017436",
-    "title": "美 신규 실업수당 청구 21만5000건…전망치 하회",
-    "summary": [
-      "미국 신규 실업수당 청구 건수가 감소하며 노동시장이 안정적인 상태를 유지하고 있는 것으로 나타났다.",
-      "미국 노동부는 지난주(6월 28일~7월 4일) 신규 실업수당 청구가 21만5000건으로 한 주 전보다 2000건 감소했다고 집계됐다고 9일(현지시간) 밝혔다.",
-      "이는 다우존스가 집계한 전문가 전망치 21만8000건을 밑도는 수치다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "ne2c2fb07",
+    "id": "n385fda35",
     "category": "IT",
     "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260709_0003702684",
-    "title": "\"애 아빠 화 많이 났어요. 환불해 주세요\"…SK하이닉스 급락에 개미들 자조",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260709_0003703137",
+    "title": "\"메모리 가격만 보지 마라\"…전문가가 본 반도체 투자 기준은 '이것'",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 삼성전자를 제치고 국내 시가총액 1위에 올랐던 SK하이닉스가 급락하면서 온라인에서는 이른바 주식 환불 밈(meme)이 확산하고 있다.",
-      "최근 사회관계망서비스(SNS)에는 주가 하락을 마주한 투자자들의 심정을 풍자한 게시물이 잇따라 올라왔다.",
-      "가장 화제가 된 게시물은 최태원 SK그룹 회장을 향해 \"하이닉스 주식 아직 안 뜯은 새 건데 환불 가능할까요? 우리 애 아빠가 화가 많이 났어요."
+      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 메모리 반도체 시장에서 '가격의 시대'가 저물고 '생산량의 시대'가 열리고 있다는 분석이 나왔다.",
+      "업황을 판단할 때 단순히 메모리 가격 움직임보다 기업들의 생산능력 확대 속도와 공급 경쟁력을 봐야 한다는 것이다.",
+      "박승영 한화투자증권 플러스사업부 포트폴리오전략팀장은 최근 구독자 302만 명을 보유한 유튜브 채널 '삼프로TV_3PROTV'에 출연해 \"가격보다 생산량에 주목해야 한다\"며 반도체를 바라보."
     ],
     "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
+      "#반도체"
     ]
   },
   {
-    "id": "n0dce172e",
-    "category": "IT",
+    "id": "n0481b8ab",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260710000800072",
-    "title": "뉴욕 연은총재 \"AI 수요, 주요 인플레 우려 요인\"",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260710001051079",
+    "title": "이스라엘 국방 \"대이란 작전 재개 준비돼…필요시 3번째 공습도\"(종합)",
     "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 존 윌리엄스 미국 뉴욕 연방준비은행(연은) 총재는 미국의 인플레이션을 자극하는 주요 요인으로 인공지능(AI)..."
+      "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협을 둘러싼 갈등 속에 미국과 이란 간 무력 충돌이 재개된 가운데, 이스라엘 국방부 장관이 이란..."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "n36f2b397",
+    "id": "n0eadfbd8",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260710_0003703466",
-    "title": "\"SK하이닉스, ADR 공모가 주당 149달러 제시\"",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026070966191",
+    "title": "EU도 '유럽 우선주의' 강화",
     "summary": [
-      "[서울=뉴시스] 김예진 기자 = 10일(현지 시간) 미국주식예탁증서(ADR) 상장을 앞둔 SK하이닉스가 잠정 공모가를 주당 149달러(약 22만 5000원)로 제시했다고 페멕스 등이 9일 보도했다.",
-      "이는 같은 날 한국 증시에서 거래를 마친 SK하이닉스 보통주 종가를 ADR 기준으로 환산한 가격보다 약 3.1% 높은 수준이다.",
-      "SK하이닉스의 ADR 공모에 글로벌 투자자 자금이 대거 몰리며 흥행 조짐을 보이고 있다."
+      "EU도 '유럽 우선주의' 강화."
     ],
     "chips": [
-      "#SK하이닉스"
+      "#뉴스"
     ]
   },
   {
-    "id": "n3e0523b1",
+    "id": "n14cfb986",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260709_0003703464",
-    "title": "李대통령 내외 몽골 '서울의 거리' 깜짝방문…노점 떡볶이 맛보며 소통",
+    "source": "조선일보",
+    "time": "2시간 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/10/JZDLNGETSJDU7PQY3IGEDMUIOU/",
+    "title": "美로 떠났던 홍명보 “청문회 출석하겠다”",
     "summary": [
-      "[울란바타르=뉴시스]조재완 기자 = 몽골을 국빈 방문 중인 이재명 대통령과 김혜경 여사는 9일(현지시간) 울란바타르의 '서울의 거리'를 찾아 시민들과 소통했다.",
-      "서울의 거리는 1995년 서울과 울란바타르의 자매결연을 계기로 조성된 거리로, 한국 브랜드 편의점과 음식점이 들어서 있다.",
-      "한국 전통양식의 정자인 '서울정'도 세워져 있다."
+      "美로 떠났던 홍명보 “청문회 출석하겠다”."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
     "id": "n48bf52c0",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "21분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260709/134270022/2",
     "title": "상반기 부진 현대車, 신차 7대 출격 반등 노린다",
     "summary": [
@@ -533,7 +594,7 @@ window.NEWS_DB = [
     "id": "ne95433c0",
     "category": "사회",
     "source": "동아일보",
-    "time": "21분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260709/134270037/2",
     "title": "고속도로 휴게소 직접 계약… 저가 커피-24시 편의점 가능",
     "summary": [
@@ -549,7 +610,7 @@ window.NEWS_DB = [
     "id": "n70a711ea",
     "category": "IT",
     "source": "동아일보",
-    "time": "21분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260709/134270039/2",
     "title": "[단독]이재용, 이달 말 젠슨 황과 회동 추진… ‘광주 팹’ 투자 등 논의 전망",
     "summary": [
@@ -567,7 +628,7 @@ window.NEWS_DB = [
     "id": "n832f4fae",
     "category": "경제",
     "source": "동아일보",
-    "time": "21분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260709/134269960/2",
     "title": "공정위, 미래에셋의 코빗 인수 승인",
     "summary": [
@@ -578,66 +639,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "nf447297a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260709_0003703052",
-    "title": "\"가짜 학생증으로 北식당 갔다\"…베이징 옥류관 방문 후기 화제",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 우연지 인턴기자 = 중국 베이징에 위치한 북한 식당 '옥류관' 방문 후기가 온라인에서 화제가 되고 있다.",
-      "지난 7일 사회관계망서비스 엑스(X)에는 \"북한 식당에 페이크(가짜) ID로 간 썰 푼다\"라는 문구와 함께 베이징의 한 북한 식당 내부 사진이 게재됐다.",
-      "한국인으로 추정되는 작성자 A씨는 중국 대학에 재학 중인 친구를 방문하던 중 베이징에 북한 식당이 있다는 사실을 알게 돼 호기심에 방문했다고 밝혔다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne0fe0bb9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260710000500083",
-    "title": "中 신발공장 화재로 28명 사망…시진핑 \"원인규명·책임추궁\"",
-    "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 중국 동남부 푸젠성 한 신발공장에서 불이나 28명이 숨졌다고 중국 관영 매체들이 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n58113284",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "37분 전",
-    "url": "https://view.asiae.co.kr/article/2026071000140313870",
-    "title": "李대통령, 김혜경 여사와 몽골 '서울의 거리' 한식 먹방",
-    "summary": [
-      "몽골을 국빈 방문 중인 이재명 대통령이 김혜경 여사와 9일(현재시간) 울란바타르 '서울의 거리'를 찾았다.",
-      "안귀령 청와대 부대변인은 이날 서면 브리핑을 내고 이 대통령 내외가 서울의 거리에서 한국 문화 현장을 둘러보고 몽골 국민과 소통하는 시간을 가졌다고 밝혔다.",
-      "서울의 거리는 1995년 서울과 울란바타르의 자매결연을 계기로 조성된 거리로, 한국 브랜드 편의점과 음식점 등 한국 문화를 곳곳에서 접할 수 있는 공간이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6703f8bd",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "43분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260710000300072",
-    "title": "미 6월 기존주택 거래 2.4% 감소…집값은 사상 최대",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 지난달 미국의 주택 거래가 감소하며 전망치를 밑돌았다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
   }
 ];
 
@@ -645,21 +646,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
+    "tag": "AI",
     "mentions": "1810건",
     "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
