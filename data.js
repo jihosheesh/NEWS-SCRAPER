@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-10 17:40:21
+// 마지막 업데이트: 2026-07-10 19:14:46
 window.NEWS_DB = [
   {
     "id": "n259d82ec",
     "category": "스포츠",
     "source": "네이트",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FTjVINHB3aDV6MDVMbDZxUHhJb3htMUl4bTVyWUZqU0twckVaZ1FiY05aeHhzUWxJYlZHanRrTzZ5a01LZENwSDJPRGJ6Wjd4TjFDNzFn?oc=5",
     "title": "조민영, 야구장에 나타난 '손흥민?' [포토엔HD]",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n3a07552f",
     "category": "IT",
     "source": "KPI뉴스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpeVRTallaOXdpZFRabnBsTWprbzU5bnc2bGVTWXpKaHFhbGJHYU9zbnFjUXZsaG5XeHVnR1hXUU45MnQtckpnWkdOdzNERXJpanVZ0gFTQVVfeXFMUGl5VFNqWVo5d2lkVFpucGxNamtvNTludzZsZVNZekpocWFsYkdhT3NucWNRdmxobld4dWdHWFdRTjkydC1ySmdaR053M0RFcmlqdVk?oc=5",
     "title": "HBM 판도 흔드는 ′베이스 다이′…삼성전자에 기회 왔다",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n6b32d80e",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pNmE1TXhjTS12VkdSTmZVX3h4bjlEclhJbFBSdEZaNDNVUG1KR3lDVmFwaW95XzB0Z1dWaEdCVGVwTF8wVHRTTko1TzRnVV9GT2I1aWp3?oc=5",
     "title": "[AI는 지금] 엔비디아 H200 손에 넣는 中 AI…딥시크·알리바바 성능 경쟁 빨라지나",
     "summary": [
@@ -138,6 +138,38 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndda47320",
+    "category": "사회",
+    "source": "이치저널",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
+    "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
+    "summary": [
+      "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다 이치저널."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nb424412f",
+    "category": "사회",
+    "source": "v.daum.net",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
+    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
+    "summary": [
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
@@ -149,21 +181,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n2aad78a4",
-    "category": "사회",
-    "source": "스포츠동아",
-    "time": "14일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
-    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
-    "summary": [
-      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 스포츠동아."
-    ],
-    "chips": [
       "#취업",
       "#고용"
     ]
@@ -229,20 +246,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f660c1e",
-    "category": "IT",
-    "source": "전라매일",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PM3NaYWdZY2dfbVI5eWItQnQxeFR5d0J3eDNWMmlsel9PS0Nhb3E1LXVHcGtMa3Fsa0d6cThfSVlhM0VzdnhhMFNWdjZOLTRDRnc?oc=5",
-    "title": "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련",
-    "summary": [
-      "전북 초격차 스타트업, 투자사와 맞손… 글로벌 유니콘 성장 발판 마련 전라매일."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -302,116 +305,222 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "142일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "72일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
     ],
     "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
+      "#스타트업",
+      "#정책"
     ]
   },
   {
-    "id": "nfe8ed9f6",
+    "id": "n891997ae",
     "category": "IT",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/07/11/WOFELS53GRFATNPXDFWMTAZEVQ/",
-    "title": "최태원 “반도체 사이클 벗어나 구조적 변화...美 팹 건설 검토”",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026071104053420315",
+    "title": "SK하이닉스, 나스닥 시초가 170달러…\"메모리 부족 2030년까지\"",
     "summary": [
-      "최태원 “반도체 사이클 벗어나 구조적 변화...美 팹 건설 검토”."
+      "SK하이닉스의 미국주식예탁증서(ADR)가 미국 나스닥 상장 첫 거래에서 공모가(149달러)보다 약 14% 높은 170달러로 출발했다.",
+      "인공지능(AI) 투자 확대에 힘입어 메모리 반도체 공급 부족이 2030년 이후까지 이어질 수 있다는 전망이 나오면서 글로벌 투자자들의 매수세가 몰렸다.",
+      "11일(현지시간) 오후 2시 52분 현재 나스닥에서 SK하이닉스는 공모가 대비 13.25% 오른 168.74달러에 거래 중이다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nf1ca2fee",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/11/GJQTIZBXGAZTEZDEGJQTOZTEHA/",
+    "title": "'말라서 경기 어렵다'던 그 잔디, FIFA, 결승전 뒤 잘라 판다...최대 451만 원",
+    "summary": [
+      "[OSEN=정승우 기자] 국제축구연맹(FIFA)이 2026 북중미 월드컵 결승전이 열리는 경기장의 잔디 조각을 최대 3,000달러(약 451만 원)에 판매한다.'디 애슬레틱'은 11일(이하 한국시간) \"FIFA가 2026 월드컵 결승전이 열리는 뉴욕·뉴저지 스타디움의 잔디 조각을 온라인으로 판매하고 있다\"라고 보도했다.가장 저렴한 상품의 가격은 450달러(."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7366a937",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705062",
+    "title": "이란 협상단장 \"미국과 전쟁, 이란 항복으로 끝나지 않을 것\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 미국과 종전 협상단장을 맡은 모하마드 바게르 갈리바프 이란 의회 의장은 10일(현지시간) 미국과 전쟁이 결코 이란의 항복으로 끝나지 않을 것이라고 강조했다.",
+      "이란 관영 IRNA통신에 따르면 갈리바프 의장은 이날 아흐마드 무자니 인도네시아 국민협의회 의장과 만나 \"우리는 한 번도 전쟁을 추구한 적이 없지만 코란은 우리에게 압제자에 맞서 저항하고 굴복하지 말라는 과제를 부여했다\"며 \"그렇기 때문에 이란 국민은 결코."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc452f1b9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711003900079",
+    "title": "이란 전쟁 '시계제로'인데…美, 중동서 스텔스전투기 F-22 철수",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간의 무력 충돌이 재개되고 도널드 트럼프 미국 대통령이 이란에 휴전 종료를 통보하는 등 이란 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3ef5b0ab",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711004100091",
+    "title": "美에어택시 개발사 '베타', 배양 장기 싣고 500㎞ 시험비행",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국의 도심항공교통(UAM) 기업 '베타'가 연방 정부가 주관하는 프로그램에 맞춘 차세대 항공기 시험..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c23bc66",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705063",
+    "title": "SK하이닉스, 나스닥 상장 첫날 170달러 안팎 거래…공모가 대비 14% ↑",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = SK하이닉스 미국주식예탁증서(ADR)가 나스닥 상장 첫날인 10일(현지시간) 공모가 149달러보다 14% 오른 170달러 안팎에서 움직이고 있다.",
+      "AP통신에 따르면 SK하이닉스 ADR은 이날 오후 2시34분 현재 공모가 보다 20.18달러(13.45%) 상승한 169.18달러에 거래됐다.",
+      "SK하이닉스 ADR은 이날 임시 종목코드인 'SKHYV'로 이뤄졌다."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n99dd34b8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260711/134278423/1",
+    "title": "트럼프 “나는 이란의 제거 대상 1순위…무슨 일 생기면 이란 폭격 지시”",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 10일(현지시간) 이란이 자신을 암살하려는 계획을 실행에 옮기면 대규모 폭격을 하라는 지시를 내려놨다고 밝혔다.트럼프 대통령은 이날 뉴욕포스트와 인터뷰에서 “나는 오래전부터 그들의 (암살) 명단에 올라 있었다.",
+      "우리가 지금 상대하는 것이 그런 것”이라며 “다만 한 가지는 무슨 일이 생길 경우 그들을 그들이 한 번도 본 적이 없는 수준으로 폭격하라는 지시를 내려놨다는 점”이라고 말했다.트럼프 대통령은 이스라엘이 자신을."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n759c210d",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711003400072",
+    "title": "SK하이닉스, 나스닥서 170달러 안팎 거래…공모가 대비 14%↑",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 10일(현지시간) 미국주식예탁증서(ADR) 상장을 통해 나스닥에 입성한 SK하이닉스가 170달러 안팎에서 움..."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n0d9458df",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711002351072",
+    "title": "'나스닥 입성' 최태원 \"반도체 사이클 벗어나 구조적 변화\"(종합)",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 최태원 SK그룹 회장은 반도체 시장이 과거처럼 단순한 공급 과잉과 부족이 반복되는 '사이클 산업'에서 벗어나..."
     ],
     "chips": [
       "#반도체"
     ]
   },
   {
-    "id": "n2a5aaea4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260710146751108",
-    "title": "\"튀르키예, S-400 걸프 국가에 매각\"…F-35 도입 열리나(종합)",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예 정부가 미국산 F-35 전투기 도입 프로그램의 장애물이었던 러시아제 S-400 방공시스템을 걸프..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nde946a54",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705060",
-    "title": "기아, 美 텔루라이드 46만대 리콜…전동 시트 모터 화재 우려",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 기아 미국법인이 북미 시장에서 판매한 텔루라이드 46만여대에 대해 전동 시트 모터 과열로 인한 화재 발생 우려로 신규 리콜을 실시한다고 AP통신이 10일(현지시간) 보도했다.",
-      "이들 차량은 같은 문제로 2024년 리콜된 바 있다.",
-      "리콜 대상은 2019년 1월9일부터 2024년 5월29일 사이 생산된 2020~2024년형 텔룰라이드 46만2689대다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b42d91f",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260710_0003704431",
-    "title": "\"AI가 찍어준 종목 믿지 마세요…정답 아닌 '그럴듯한 답'\"",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 생성형 인공지능(AI)을 활용한 투자가 늘고 있는 가운데 AI가 추천한 종목을 그대로 믿기보다 투자 판단의 보조 도구로 활용해야 한다는 전문가들의 조언이 나왔다.",
-      "AI는 정답이 아닌 그럴듯한 답을 제시하는 만큼 최종 투자 판단은 스스로 내려야 한다는 조언이다.",
-      "이시한 성신여대 걈임교수는 지난 9일 구독자 50만 명의 유튜브 채널 '경제 읽어주는 남자'의 'AI가 찍어준 종목, 믿고 사도 될까?' 편에 출연해 AI."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n1fec086d",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711002600091",
-    "title": "다음 AI전장은 사무에이전트…앤트로픽·오픈AI·스페이스X 격돌",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 업계의 다음 격전지로 사무용 에이전트가 부상하고 있다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n7376de64",
+    "id": "n0e1010de",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/11/MJSGEMZUGI2DKYRSMEZWMNLCMM/",
-    "title": "\"이제 정말 마지막이구나\" 잠실구장의 LG-두산 레전드, 현역 시절 기억 남는 순간은?",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/11/MY2TKMZWGM3DMMJZGJSDAZTFMQ/",
+    "title": "'벨기에전은 과연?' 메리노의 야말 감싸기...\"5골보다 이니에스타의 결승골 하나가 낫다\"",
     "summary": [
-      "[OSEN=잠실, 홍지수 기자] 잠실야구장에서 오랜 시간을 보낸 KBO리그 레전드들이 오랜만에 만났다.",
-      "한때 라이벌이었지만, 지금은 잠실 시절의 기억을 공유하는 추억의 스타다.",
-      "프로야구 LG 트윈스 레전드 박용택과 두산 베어스 레전드 김재호가 10일 잠실야구장에서 열린 2026 퓨처스 올스타전 무대에서 만났다."
+      "[OSEN=정승우 기자] 미켈 메리노(30, 아스날)가 아직 이번 월드컵에서 한 골에 그친 라민 야말(19, 바르셀로나)을 향해 믿음을 보냈다.",
+      "많은 골보다 가장 중요한 순간 터지는 한 골이 필요하다는 이야기다.스페인은 2026 국제축구연맹(FIFA) 북중미 월드컵 16강에서 포르투갈을 꺾고 8강에 올랐다.",
+      "승부를 가른 주인공은 메리노였다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d2f842d",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "49분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260711/134278409/1",
+    "title": "최태원 “조건 맞으면 美든 어디든 팹 검토…아무데나 지을순 없어”",
+    "summary": [
+      "“구조적인 변화는 일어났다.",
+      "옛날과 똑같은 사이클로 움직이지 않는다는 건 확실하다.”최태원 SK그룹 회장이 10일(현지 시간) 미국 뉴욕 나스닥 본사에서 열린 SK하이닉스 미국주식예탁증서(ADR) 상장 관련 국내 기자 간담회에서 이같이 말했다.",
+      "호황과 불황을 거듭해 온 메모리 반도체 시장 주기를 인공지능(AI) 혁명이 완전히 뒤바꿨다는 의미다.최 회장은 “사이클이 완전히 없어진 건 아니겠지만, 지금은 수요와 공급 사이 갭(격차)이 매우 크다”며."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n1a73b123",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "55분 전",
+    "url": "https://www.chosun.com/international/us/2026/07/11/KZAALCGKZBDK7GG3GCGF65PIVI/",
+    "title": "트럼프 “이란에 휴전 종료 단호히 통보… 대화는 계속”",
+    "summary": [
+      "트럼프 “이란에 휴전 종료 단호히 통보… 대화는 계속”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2dc8ce7e",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260710_0003704472",
+    "title": "\"반도체 끝난 것 아니다\"…염승환 \"레버리지 투자부터 정리해야\"",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 반도체를 비롯한 국내 증시가 급락하는 가운데 레버리지 투자에 따른 반대매매 위험을 경계하고, 실적이 견조한 기업은 장기적인 관점에서 접근해야 한다는 전문가 조언이 나왔다.",
+      "염승환 LS증권 이사는 지난 9일 구독자 52만2000명을 보유한 유튜브 채널 '경제 원탑'에 출연해 최근 증시 급락에 대해 \"강세장이 끝났다고 생각하지는 않는다\"고 말하며 단기적으로는 시장 충격이 이어질 수 있다고 밝혔다."
+    ],
+    "chips": [
+      "#반도체"
     ]
   },
   {
     "id": "n1815fc66",
     "category": "사회",
     "source": "동아일보",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260711/134278402/1",
     "title": "“직장만 있으면 지방 내려가서 살고 싶다”…4년차 직장인 글 화제",
     "summary": [
@@ -426,7 +535,7 @@ window.NEWS_DB = [
     "id": "n22f95dcd",
     "category": "사회",
     "source": "동아일보",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260711/134278399/1",
     "title": "“남편 사망보험금 수익자가 시어머니…변경 안 하겠다는데 제가 예민한가요”",
     "summary": [
@@ -437,42 +546,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n454aab09",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260711/134278394/1",
-    "title": "SK하닉, 상장 첫날 주당 174달러에 거래…공모가 대비 17% 급등",
-    "summary": [
-      "SK하이닉스가 10일(현지시간) 미국 나스닥 상장 첫날부터 17% 급등했다.",
-      "로이터 통신에 따르면, SK하이닉스 주식예탁증서(ADR)는 이날 오후 12시 26분 기준 공모가(149달러)보다 17.22% 오른 174.66달러에 거래되고 있다.SK하이닉스 ADR은 이날 170달러에 거래를 시작했는데, 이는 최근 한국 증시에서 3거래일 간 평균 주가 대비 2.7% 프리미엄이 붙은 수준이다.",
-      "이에 대해 최근 급등세 이후 조정을 받았던 반도체주에 대한."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n5d455ce2",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260711/134278389/1",
-    "title": "SK하이닉스, 40조 조달해 ‘반도체 영토’ 넓힌다…몸값 재평가 시동",
-    "summary": [
-      "SK하이닉스가 10일 미국주식예탁증서(ADR) 발행을 통해 나스닥에 입성했다.SK하이닉스는 ADR 공모를 통해 256억700만 달러(약 40조원)를 조달할 수 있게 됐다.업계에서는 SK하이닉스가 ADR 발행으로 대규모 반도체 시설 투자에 필요한 자금 조달 기반을 확보했다는데 의미를 두고 있다.또 나스닥 상장으로 글로벌 투자자들의 접근성이 확대되고, 주가도 재평가될 것이란 기대감이 나온다.최태원 SK그룹 회장은 이날 오전(현지시간) 미국 뉴욕 타."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "n95bb6e1e",
     "category": "IT",
     "source": "한국경제",
-    "time": "28분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026071189041",
     "title": "최태원 \"AI칩 늘 부족…고객들 공급 5~6배 늘리길 원해\"",
     "summary": [
@@ -486,7 +563,7 @@ window.NEWS_DB = [
     "id": "nfd892943",
     "category": "경제",
     "source": "한국경제",
-    "time": "30분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026071189031",
     "title": "9시30분 벨 누르자 거래 시작…\"웰컴 투 나스닥\"",
     "summary": [
@@ -500,7 +577,7 @@ window.NEWS_DB = [
     "id": "n167f8e9e",
     "category": "IT",
     "source": "아시아경제",
-    "time": "31분 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026071102085616405",
     "title": "[일문일답]최태원 \"메모리 공급 더 빨리 늘려야…미국도 예외 아니다\"",
     "summary": [
@@ -513,25 +590,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3e5b6e33",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/11/MQYGENZQMZSTAMDCHFRGMNRTME/",
-    "title": "우크라이나, 러시아 에너지 시설 타격…휘발유 생산 65% 수준까지 떨어져",
-    "summary": [
-      "우크라이나가 10일(현지시각) 러시아 내 정유시설과 원유 터미널, 저장시설, 유조선 등 주요 에너지 기반 시설을 잇따라 공격했다고 밝혔다.",
-      "로이터 통신 등에 따르면, 우크라이나 총참모부는 이날 텔레그램을 통해 러시아 남부 크라스노다르 지역의 일스키 정유공장에서 화재가 발생했으며 레닌그라드 지역의 우스트루가 정유단지도 타격했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n82b98c21",
     "category": "IT",
     "source": "아시아경제",
-    "time": "33분 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026071101552009397",
     "title": "최태원 SK 회장 \"AI 수요, 공급 확대 속도 앞질러…미국 팹도 검토\"",
     "summary": [
@@ -548,7 +610,7 @@ window.NEWS_DB = [
     "id": "n9cc7c097",
     "category": "IT",
     "source": "한국경제",
-    "time": "39분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607118908i",
     "title": "최태원 \"반도체 투자속도 지금보다 10배 빨라야…안그러면 시장 위축될 것\"",
     "summary": [
@@ -559,38 +621,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0b0100df",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711002300072",
-    "title": "최태원 \"반도체 옛날같은 사이클로 움직이지 않아…구조적 변화\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 최태원 SK그룹 회장은 반도체 시장이 과거처럼 단순한 공급 과잉과 부족이 반복되는 '사이클 산업'에서 벗어나..."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "ne9c462ea",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711002200087",
-    "title": "브라질판 '염전노예'…3대·55년간 노동 착취당한 여성 구조",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 55년 동안 3대에 걸쳐 노동력을 착취당한 브라질의 한 여성이 예순이 넘어서야 극적으로 구조돼 자유를 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n91cd6bf1",
     "category": "IT",
     "source": "한국경제",
-    "time": "51분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607118915i",
     "title": "'나스닥' SK하이닉스, 170달러 출발…공모가 대비 14%↑",
     "summary": [
@@ -599,38 +633,6 @@ window.NEWS_DB = [
     "chips": [
       "#SK하이닉스"
     ]
-  },
-  {
-    "id": "n3920bb02",
-    "category": "IT",
-    "source": "테크M",
-    "time": "52분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153301",
-    "title": "[윤종영의 IT로 보는 세상] 노이즈 캔슬링 사회, 완벽한 연결이 만든 완벽한 단절",
-    "summary": [
-      "지하철에서 주위를 돌아보면 열에 아홉은 이어폰을 끼고 있다.",
-      "물론 필자도 예외는 아니다.",
-      "노이즈 캔슬링 기능 덕분에 우리는 시끄러운 지하철 안에서도 고요 속에 있을 수 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8c999d7",
-    "category": "사회",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153294",
-    "title": "IT서비스社 '젊은 피'가 사라진다...매출 성장에도 청년 채용 '뚝'",
-    "summary": [
-      "국내 주요 IT 서비스 기업들이 매출성장과 무관하게 신규 채용 규모를 줄이고 있다.",
-      "그 여파로 30세 미만 직원 비중이 대부분 낮아진 것으로 나타났다.",
-      "일부 기업에서는 정규직 직원 3명 중 1명이 50대로 확인됐다.10일 삼성SDS와 LG CNS, 현대오토에버, 포스코DX, 롯데이노베이트, 신세계아이앤씨 등 국내 IT 서비스 기업 6곳의 지속가능경영보고서를 분석한 결과 롯데이노베이트를 제외한 5곳에서 3년 전 대비 신규 채용 인력이 감소한 것으."
-    ],
-    "chips": [
-      "#채용"
-    ]
   }
 ];
 
@@ -638,19 +640,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
+    "tag": "AI",
+    "mentions": "2200건",
+    "trend": "+235%"
+  },
+  {
+    "rank": 2,
     "tag": "반도체",
     "mentions": "2070건",
     "trend": "+215%"
   },
   {
-    "rank": 2,
-    "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
-  },
-  {
     "rank": 3,
-    "tag": "뉴스",
+    "tag": "SK하이닉스",
     "mentions": "1810건",
     "trend": "+175%"
   }
