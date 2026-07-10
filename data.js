@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-10 19:14:46
+// 마지막 업데이트: 2026-07-10 20:59:10
 window.NEWS_DB = [
+  {
+    "id": "n33718b4c",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkpyb2hoYVJZSU9oVDlvdjNVT1dkOFBkeHBJcEZGYW9OLWFlVF9rdWd1ZkJMSkNEcGczaTVlcGk0YWtKSFhFc0x1bGFzYkhjUnhzWmZJS0JibkFkQndOWGtwa2d6MXg1LVBiUXlUNFpyc3ZJT3U5ZXdJbUxHVjNsa1l0Qm9zaG55?oc=5",
+    "title": "삼성 파운드리, 3년 만의 월간 흑자…동력은 내부 HBM 물량",
+    "summary": [
+      "삼성 파운드리, 3년 만의 월간 흑자…동력은 내부 HBM 물량 글로벌이코노믹."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
   {
     "id": "n259d82ec",
     "category": "스포츠",
     "source": "네이트",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FTjVINHB3aDV6MDVMbDZxUHhJb3htMUl4bTVyWUZqU0twckVaZ1FiY05aeHhzUWxJYlZHanRrTzZ5a01LZENwSDJPRGJ6Wjd4TjFDNzFn?oc=5",
     "title": "조민영, 야구장에 나타난 '손흥민?' [포토엔HD]",
     "summary": [
@@ -20,7 +34,7 @@ window.NEWS_DB = [
     "id": "n3a07552f",
     "category": "IT",
     "source": "KPI뉴스",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpeVRTallaOXdpZFRabnBsTWprbzU5bnc2bGVTWXpKaHFhbGJHYU9zbnFjUXZsaG5XeHVnR1hXUU45MnQtckpnWkdOdzNERXJpanVZ0gFTQVVfeXFMUGl5VFNqWVo5d2lkVFpucGxNamtvNTludzZsZVNZekpocWFsYkdhT3NucWNRdmxobld4dWdHWFdRTjkydC1ySmdaR053M0RFcmlqdVk?oc=5",
     "title": "HBM 판도 흔드는 ′베이스 다이′…삼성전자에 기회 왔다",
     "summary": [
@@ -35,7 +49,7 @@ window.NEWS_DB = [
     "id": "n6b32d80e",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pNmE1TXhjTS12VkdSTmZVX3h4bjlEclhJbFBSdEZaNDNVUG1KR3lDVmFwaW95XzB0Z1dWaEdCVGVwTF8wVHRTTko1TzRnVV9GT2I1aWp3?oc=5",
     "title": "[AI는 지금] 엔비디아 H200 손에 넣는 中 AI…딥시크·알리바바 성능 경쟁 빨라지나",
     "summary": [
@@ -44,6 +58,21 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "n82c49f7f",
+    "category": "사회",
+    "source": "Vietnam.vn",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOEVmdGpidWJTLTZ2UExGbDlXa3k0MWRHZWt3RS05V2ZtZDNzYnd3RjduMVdLVjJudkZIQXRYWEpvRTRyUEw3QkMyN2Z6UTB6ZlV2Ml85YUctOWRWWkIzMnNJUW5YbkZTSEJmdXMxQllUNm9rd1doTXlwaFVjWU1XQmFqdWo0UQ?oc=5",
+    "title": "구직자들에게 더욱 가까운 곳에서 일자리 정보를 제공합니다.",
+    "summary": [
+      "구직자들에게 더욱 가까운 곳에서 일자리 정보를 제공합니다."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -138,22 +167,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndda47320",
-    "category": "사회",
-    "source": "이치저널",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
-    "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
-    "summary": [
-      "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다 이치저널."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
@@ -183,23 +196,6 @@ window.NEWS_DB = [
       "#AI",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "nfbd428d5",
-    "category": "IT",
-    "source": "중앙일보",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
-    "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
-    "summary": [
-      "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다 중앙일보."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스",
-      "#채용"
     ]
   },
   {
@@ -320,10 +316,193 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n168a68ac",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/11/7PSQLGDAX5BIREGKN3NWX4QRE4/",
+    "title": "하이닉스 美나스닥 상장… 40조원 실탄 쥐었다",
+    "summary": [
+      "하이닉스 美나스닥 상장… 40조원 실탄 쥐었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n16e2598c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260710140200004",
+    "title": "동생한테 찔리고 \"혼자 다쳤다\" 진술한 형…유죄 선고는 못 막아",
+    "summary": [
+      "(서울=연합뉴스) 이영섭 기자 = 친동생이 휘두른 흉기에 찔린 형이 수사 기관에 \"나 혼자 다친 것\"이라며 범행을 숨겨주려 했으나 결국 동생의 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32632877",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711005551072",
+    "title": "뉴욕증시 'SK하이닉스 첫날' 상승 마감…나스닥 0.3%↑(종합)",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = SK하이닉스가 미국 뉴욕 증시에 데뷔한 10일(현지시간) 3대 주요 지수는 일제히 소폭 상승했다."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n570fccd7",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711005800034",
+    "title": "체감온도 33도 안팎 무더위…경기·강원 등 곳곳 소나기",
+    "summary": [
+      "(서울=연합뉴스) 조현영 기자 = 토요일인 11일은 전국이 무더운 가운데 일부 지역에 소나기가 내리겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83699ce9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711006400071",
+    "title": "美, 한국 이어 핵심광물 협의체 '포지' 의장국 맡기로",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미국이 주도하는 핵심광물 다자 협의체 '포지'(FORGE) 의장국을 한국에 이어 미국이 맡는다고 미 국무부..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n96612113",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/11/GZRWGOJUMRRTAOJRMNSWENZZGU/",
+    "title": "\"故최진실, 배우의 길 열어줘\" 남궁민, 공대생이 '트리플대상' 받기까지 ('옥탑방')",
+    "summary": [
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 배우 남궁민이 故 최진실과의 인연을 공개하며 배우의 길을 열어준 은인이라고 감사한 마음을 전했다.10일 방송된 KBS2 예능 '옥탑방의 문제아들'에는 배우 남궁민이 게스트로 출연했다.이날 남궁민은 '스토브리그', '검은 태양', '연인'으로 연기대상을 세 차례 수상한 트리플 대상 배우가 되기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncebc547f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/11/G44TSNZRMI2WKNTCHA4TKMDCGU/",
+    "title": "드래프트 좌절→日 독립리그행…깨달음 얻은 롯데 육성선수 “실망감 컸지만 많은 도움 됐다” [퓨처스 올스타]",
+    "summary": [
+      "[OSEN=잠실, 홍지수 기자] 좌절을 맛봤지만, 오히려 깨달음을 얻은 계기가 됐다.",
+      "진짜 ‘전쟁’은 이제 시작이다.",
+      "프로야구 롯데 자이언츠 육성선수 조민영의 도전이 이어지고 있다.건대부중, 신일고 졸업 후 프로 입단을 꿈꾼 조민영은 KBO 드래프트에서 좌절을 겪었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ned6692e3",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260710_0003703893",
+    "title": "삼성전자·SK하이닉스 성과급 낙수효과?…동탄·이천서 수입차 판매 '활황'",
+    "summary": [
+      "[서울=뉴시스]남주현 기자 = SK하이닉스 주력 생산기지가 위치한 경기 이천과, 삼성전자 반도체 공장을 비롯해 동탄신도시를 품고있는 경기 화성의 올해 수입차 신규 등록 대수가 큰 폭으로 증가한 것으로 나타났다.",
+      "올해 초 두 업체의 성과급 지급 및 임금·단체협상(임단협) 타결에 따른 소비 심리 회복이 '경기 남부 반도체 벨트'의 수입차 구매로 이어졌다는 분석이 나온다.",
+      "11일 한국수입자동차협회(KAIDA)에 따르면 이천시의 올해 1~5월 수입차."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n64bc9a2e",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "31분 전",
+    "url": "https://view.asiae.co.kr/article/2026071105275033076",
+    "title": "[뉴욕증시]중동 긴장에도 일제히 상승 마감…SK하이닉스 13.08% ↑",
+    "summary": [
+      "10일(현지시간) 미국의 3대 지수는 중동 분쟁의 긴장이 지속되고 있음에도 불구하고 기술주 강세에 힘입어 일제히 상승세로 마감했다.",
+      "이날 나스닥에 데뷔한 SK하이닉스는 공모가 대비 13.08% 오른 168.49달러로 장을 마쳤다.",
+      "뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 149.60포인트(0.29%) 올라간 5만2637.01에 마감했다."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n9aa9ba93",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705068",
+    "title": "뉴욕증시, 미·이란 긴장에도 상승 마감…SK하이닉스, 12.76% ↑",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 뉴욕 증시가 10일(현지시간) 미국과 이란간 긴장에도 상승 마감했다.",
+      "CNBC에 따르면 뉴욕증권거래소(NYSE)에서 다우존스 30 산업평균지수는 전장 대비 149.60포인트(0.29%) 상승한 5만2637.01에 마감했다.",
+      "스탠더드앤드푸어스(S&P) 500 지수는 전장보다 31.75포인트(0.42%) 오른 7575.39에 거래를 마쳤다."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "ndf825da6",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "56분 전",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705065",
+    "title": "최태원 \"반도체 산업 구조적 변화…어떻게든 공급 늘려야\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 최태원 SK그룹 회장은 공급과잉과 부족이 반복되던 세계 반도체 시장이 구조적으로 변화했다고 평가하며, 메모리 반도체 생산 능력을 계속 확대해야 한다고 10일(현지 시간) 밝혔다.",
+      "최 회장은 이날 뉴욕 나스닥 본사에서 열린 SK하이닉스의 미국주식예탁증서(ADR) 상장 오프닝 행사 후 기자간담회를 열고 이같이 진단했다.",
+      "최 회장은 인공지능(AI) 발전을 계기로 반도체 산업이 사이클에서 탈피했다고 보느냐는 질문에."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n41e8bfcd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260711/134278426/1",
+    "title": "이란 협상단장 “미국과 전쟁, 이란 항복으로 끝나지 않을 것”",
+    "summary": [
+      "미국과 종전 협상단장을 맡은 모하마드 바게르 갈리바프 이란 의회 의장은 10일(현지시간) 미국과 전쟁이 결코 이란의 항복으로 끝나지 않을 것이라고 강조했다.이란 관영 IRNA통신에 따르면 갈리바프 의장은 이날 아흐마드 무자니 인도네시아 국민협의회 의장과 만나 “우리는 한 번도 전쟁을 추구한 적이 없지만 코란은 우리에게 압제자에 맞서 저항하고 굴복하지 말라는 과제를 부여했다”며 “그렇기 때문에 이란 국민은 결코 불의 앞에 무릎 꿇지 않을 것”이라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n891997ae",
     "category": "IT",
     "source": "아시아경제",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026071104053420315",
     "title": "SK하이닉스, 나스닥 시초가 170달러…\"메모리 부족 2030년까지\"",
     "summary": [
@@ -338,83 +517,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf1ca2fee",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/11/GJQTIZBXGAZTEZDEGJQTOZTEHA/",
-    "title": "'말라서 경기 어렵다'던 그 잔디, FIFA, 결승전 뒤 잘라 판다...최대 451만 원",
-    "summary": [
-      "[OSEN=정승우 기자] 국제축구연맹(FIFA)이 2026 북중미 월드컵 결승전이 열리는 경기장의 잔디 조각을 최대 3,000달러(약 451만 원)에 판매한다.'디 애슬레틱'은 11일(이하 한국시간) \"FIFA가 2026 월드컵 결승전이 열리는 뉴욕·뉴저지 스타디움의 잔디 조각을 온라인으로 판매하고 있다\"라고 보도했다.가장 저렴한 상품의 가격은 450달러(."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7366a937",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705062",
-    "title": "이란 협상단장 \"미국과 전쟁, 이란 항복으로 끝나지 않을 것\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미국과 종전 협상단장을 맡은 모하마드 바게르 갈리바프 이란 의회 의장은 10일(현지시간) 미국과 전쟁이 결코 이란의 항복으로 끝나지 않을 것이라고 강조했다.",
-      "이란 관영 IRNA통신에 따르면 갈리바프 의장은 이날 아흐마드 무자니 인도네시아 국민협의회 의장과 만나 \"우리는 한 번도 전쟁을 추구한 적이 없지만 코란은 우리에게 압제자에 맞서 저항하고 굴복하지 말라는 과제를 부여했다\"며 \"그렇기 때문에 이란 국민은 결코."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc452f1b9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711003900079",
-    "title": "이란 전쟁 '시계제로'인데…美, 중동서 스텔스전투기 F-22 철수",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간의 무력 충돌이 재개되고 도널드 트럼프 미국 대통령이 이란에 휴전 종료를 통보하는 등 이란 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3ef5b0ab",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711004100091",
-    "title": "美에어택시 개발사 '베타', 배양 장기 싣고 500㎞ 시험비행",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국의 도심항공교통(UAM) 기업 '베타'가 연방 정부가 주관하는 프로그램에 맞춘 차세대 항공기 시험..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c23bc66",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "32분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705063",
-    "title": "SK하이닉스, 나스닥 상장 첫날 170달러 안팎 거래…공모가 대비 14% ↑",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = SK하이닉스 미국주식예탁증서(ADR)가 나스닥 상장 첫날인 10일(현지시간) 공모가 149달러보다 14% 오른 170달러 안팎에서 움직이고 있다.",
-      "AP통신에 따르면 SK하이닉스 ADR은 이날 오후 2시34분 현재 공모가 보다 20.18달러(13.45%) 상승한 169.18달러에 거래됐다.",
-      "SK하이닉스 ADR은 이날 임시 종목코드인 'SKHYV'로 이뤄졌다."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "n99dd34b8",
     "category": "사회",
     "source": "동아일보",
-    "time": "32분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260711/134278423/1",
     "title": "트럼프 “나는 이란의 제거 대상 1순위…무슨 일 생기면 이란 폭격 지시”",
     "summary": [
@@ -426,54 +532,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n759c210d",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711003400072",
-    "title": "SK하이닉스, 나스닥서 170달러 안팎 거래…공모가 대비 14%↑",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 10일(현지시간) 미국주식예탁증서(ADR) 상장을 통해 나스닥에 입성한 SK하이닉스가 170달러 안팎에서 움..."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n0d9458df",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711002351072",
-    "title": "'나스닥 입성' 최태원 \"반도체 사이클 벗어나 구조적 변화\"(종합)",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 최태원 SK그룹 회장은 반도체 시장이 과거처럼 단순한 공급 과잉과 부족이 반복되는 '사이클 산업'에서 벗어나..."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n0e1010de",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "47분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/11/MY2TKMZWGM3DMMJZGJSDAZTFMQ/",
-    "title": "'벨기에전은 과연?' 메리노의 야말 감싸기...\"5골보다 이니에스타의 결승골 하나가 낫다\"",
-    "summary": [
-      "[OSEN=정승우 기자] 미켈 메리노(30, 아스날)가 아직 이번 월드컵에서 한 골에 그친 라민 야말(19, 바르셀로나)을 향해 믿음을 보냈다.",
-      "많은 골보다 가장 중요한 순간 터지는 한 골이 필요하다는 이야기다.스페인은 2026 국제축구연맹(FIFA) 북중미 월드컵 16강에서 포르투갈을 꺾고 8강에 올랐다.",
-      "승부를 가른 주인공은 메리노였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8d2f842d",
     "category": "IT",
     "source": "동아일보",
-    "time": "49분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260711/134278409/1",
     "title": "최태원 “조건 맞으면 美든 어디든 팹 검토…아무데나 지을순 없어”",
     "summary": [
@@ -488,39 +550,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a73b123",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "55분 전",
-    "url": "https://www.chosun.com/international/us/2026/07/11/KZAALCGKZBDK7GG3GCGF65PIVI/",
-    "title": "트럼프 “이란에 휴전 종료 단호히 통보… 대화는 계속”",
-    "summary": [
-      "트럼프 “이란에 휴전 종료 단호히 통보… 대화는 계속”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2dc8ce7e",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260710_0003704472",
-    "title": "\"반도체 끝난 것 아니다\"…염승환 \"레버리지 투자부터 정리해야\"",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 반도체를 비롯한 국내 증시가 급락하는 가운데 레버리지 투자에 따른 반대매매 위험을 경계하고, 실적이 견조한 기업은 장기적인 관점에서 접근해야 한다는 전문가 조언이 나왔다.",
-      "염승환 LS증권 이사는 지난 9일 구독자 52만2000명을 보유한 유튜브 채널 '경제 원탑'에 출연해 최근 증시 급락에 대해 \"강세장이 끝났다고 생각하지는 않는다\"고 말하며 단기적으로는 시장 충격이 이어질 수 있다고 밝혔다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "n1815fc66",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260711/134278402/1",
     "title": "“직장만 있으면 지방 내려가서 살고 싶다”…4년차 직장인 글 화제",
     "summary": [
@@ -532,24 +565,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n22f95dcd",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260711/134278399/1",
-    "title": "“남편 사망보험금 수익자가 시어머니…변경 안 하겠다는데 제가 예민한가요”",
-    "summary": [
-      "결혼 전 가입한 보험 사망보험금 수익자를 시어머니로 유지하겠다는 남편과 이를 이해하기 어렵다는 아내의 사연이 온라인 상에서 화제다.지난 8일 온라인 커뮤니티에는 ‘남편 사망보험금 수익자 시어머니, 변경 안 하겠다는데 제가 예민한가요?’라는 제목의 글이 올라왔다.작성자 A씨는 결혼한 이후 보험을 정리하면서 남편의 보험증권을 확인하다 사망보험금 수익자가 자신이나 법정상속인이 아닌 시어머니로 지정되어 있다는 것을 알게됐다.초반에는 결혼 전 가입한 보."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n95bb6e1e",
     "category": "IT",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026071189041",
     "title": "최태원 \"AI칩 늘 부족…고객들 공급 5~6배 늘리길 원해\"",
     "summary": [
@@ -563,7 +582,7 @@ window.NEWS_DB = [
     "id": "nfd892943",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026071189031",
     "title": "9시30분 벨 누르자 거래 시작…\"웰컴 투 나스닥\"",
     "summary": [
@@ -577,9 +596,9 @@ window.NEWS_DB = [
     "id": "n167f8e9e",
     "category": "IT",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://view.asiae.co.kr/article/2026071102085616405",
-    "title": "[일문일답]최태원 \"메모리 공급 더 빨리 늘려야…미국도 예외 아니다\"",
+    "title": "[일문일답] 최태원 회장 \"메모리 공급 10배 빨라져야\"",
     "summary": [
       "최태원 SK그룹 회장이 인공지능(AI) 확산으로 메모리 수요가 공급을 크게 앞지르고 있다며 생산능력을 빠르게 확대해야 한다고 밝혔다.",
       "미국 내 메모리 팹 건설 가능성에 대해서는 전력과 용수, 부지 등 조건이 충족될 경우 검토할 수 있지만, 건설을 확정한 것은 아니라고 설명했다.",
@@ -593,24 +612,24 @@ window.NEWS_DB = [
     "id": "n82b98c21",
     "category": "IT",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://view.asiae.co.kr/article/2026071101552009397",
-    "title": "최태원 SK 회장 \"AI 수요, 공급 확대 속도 앞질러…미국 팹도 검토\"",
+    "title": "최태원 SK 회장 \"AI 수요, 공급 확대 속도 앞질러…메모리 산업 구조적 변화\"",
     "summary": [
-      "최태원 SK그룹 회장이 인공지능(AI) 확산에 따른 메모리 수요 증가 속도가 공급 확대 속도를 앞지르고 있다며, SK하이닉스가 미국을 포함한 해외 생산 거점도 검토할 수 있다고 밝혔다.",
-      "다만 미국 내 팹 건설이 확정된 것은 아니며 전력과 용수, 대규모 부지 등 사업 조건이 충족돼야 한다고 선을 그었다.",
-      "최 회장은 10일(현지시간) 미국 뉴욕에서 열린 특파원 간담회에서 미국 내 메모리 팹 건설 가능성에 대해 \"지금은 어디가 됐."
+      "최태원 SK그룹 회장이 인공지능(AI) 확산으로 메모리 반도체 산업에 구조적 변화가 일어났다고 진단했다.",
+      "AI 학습과 서비스 이용이 늘면서 저장해야 할 데이터가 급증해, 메모리 수요가 공급 확대 속도를 지속해서 앞지르는 새로운 국면에 들어섰다는 설명이다.",
+      "또 미국을 비롯한 해외 팹 투자 가능성도 열어뒀다."
     ],
     "chips": [
       "#AI",
-      "#SK하이닉스"
+      "#반도체"
     ]
   },
   {
     "id": "n9cc7c097",
     "category": "IT",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202607118908i",
     "title": "최태원 \"반도체 투자속도 지금보다 10배 빨라야…안그러면 시장 위축될 것\"",
     "summary": [
@@ -618,20 +637,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n91cd6bf1",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/202607118915i",
-    "title": "'나스닥' SK하이닉스, 170달러 출발…공모가 대비 14%↑",
-    "summary": [
-      "'나스닥' SK하이닉스, 170달러 출발…공모가 대비 14%↑."
-    ],
-    "chips": [
-      "#SK하이닉스"
     ]
   }
 ];
@@ -641,18 +646,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
-    "tag": "SK하이닉스",
+    "tag": "뉴스",
     "mentions": "1810건",
     "trend": "+175%"
   }
