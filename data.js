@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-11 17:45:11
+// 마지막 업데이트: 2026-07-11 18:44:02
 window.NEWS_DB = [
   {
     "id": "n33718b4c",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkpyb2hoYVJZSU9oVDlvdjNVT1dkOFBkeHBJcEZGYW9OLWFlVF9rdWd1ZkJMSkNEcGczaTVlcGk0YWtKSFhFc0x1bGFzYkhjUnhzWmZJS0JibkFkQndOWGtwa2d6MXg1LVBiUXlUNFpyc3ZJT3U5ZXdJbUxHVjNsa1l0Qm9zaG55?oc=5",
     "title": "삼성 파운드리, 3년 만에 월간 흑자 기록…동력은 내부 HBM 물량",
     "summary": [
@@ -137,6 +137,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb424412f",
+    "category": "사회",
+    "source": "v.daum.net",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
+    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
+    "summary": [
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
@@ -196,20 +212,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
-    ]
-  },
-  {
-    "id": "nde229885",
-    "category": "IT",
-    "source": "한국보험신문",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
-    "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
-    "summary": [
-      "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장” 한국보험신문."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -301,26 +303,57 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "143일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "73일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
     ],
     "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n062c6768",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/12/GQZDQZJYGYZGKYZRGMZTANJTHE/",
+    "title": "\"몸값 비싸지만, 삼진 적고 타율 높다\" 이정후 트레이드설 재점화…美 저명기자는 왜 PHI행 추천했나",
+    "summary": [
+      "[OSEN=조형래 기자] “몸값은 비싸지만…”미국 스포츠매체 ‘ESPN’의 제프 파산 기자는 지난 10일(이하 한국시간) 포스트시즌 후보팀들의 트레이드 전망에 대해 언급했다.",
+      "파산 기자는 이정후를 필라델피아 필리스에 최적의 후보로 언급했다.",
+      "필라델피아는 현재 52승 43패로 내셔널리그 동부지구 공동 2위에 올라았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7588b25d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705292",
+    "title": "데이트할 때도 '이 음식'으로…제이제이, 잘록한 허리비결?",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 운동 인플루언서 제이제이가 남편인 배우 줄리엔 강과의 데이트에서도 건강식을 선택한 근황을 공개했다.",
+      "제이제이는 지난 4일 자신의 사회관계망서비스(SNS)에 \"오랜만에 데이트를 했다.",
+      "건강한 거 먹으니 배는 안 차는데 돈은 많이 쓰고 집에 오니 라면 당기네."
+    ],
+    "chips": [
+      "#의료"
     ]
   },
   {
     "id": "n678f794d",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "16분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153308",
     "title": "[위클리 IT템] 귀가 즐거운 여름...주목할 오디오 신제품 3종",
     "summary": [
@@ -333,16 +366,130 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9c0d70b8",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/12/2026071202252435407",
-    "title": "'월 10억 저작권료' 소연, 예명으로도 곡 작업 \"새로운 도전 하고파\"",
+    "id": "n6d95a084",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20250713000851007",
+    "title": "[표] 최근 10년간 윔블던 테니스 여자 단식 우승자",
     "summary": [
-      "월 최고 10억 원의 저작권료 수익으로 화제를 모았던 소연이 새로운 도전을 위해 예명으로도 곡을 작업하고 있다고 밝혔다.",
-      "11일 방영된 JTBC '아는 형님' 536화에서는 걸그룹 아이들 멤버들이 새 앨범 활동을 앞두고 출연해 입담을 뽐냈다.",
-      "이날 이수근은 아이들의 전학신청서를 살펴보다 리더 소연의 별명에 주목했다."
+      "[표] 최근 10년간 윔블던 테니스 여자 단식 우승자."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3491daff",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712001700007",
+    "title": "노스코바, 복식 파트너 무호바 꺾고 윔블던 첫 우승",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 린다 노스코바(12위·체코)가 2026 윔블던 테니스대회(총상금 6천420만 파운드)에서 생애 첫 메이저 테니..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb0fa8890",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712001600072",
+    "title": "美법무부, '새 에어포스원 보안 우려' 보도 NYT 기자들에 소환장",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 법무부가 도널드 트럼프 대통령의 새 전용기(에어포스원) 관련 보안 우려를 보도한 뉴욕타임스(NYT) 기..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfaeda80d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/politics/blue_house/2026/07/12/2M5AO7XZPBFUJMXTS7FYKKBQRM/",
+    "title": "‘6·3 선거 반성한다더니…’ 한달 만에 되살아난 민주당 ‘폭주 본색’",
+    "summary": [
+      "‘6·3 선거 반성한다더니…’ 한달 만에 되살아난 민주당 ‘폭주 본색’."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne290f445",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/national/people/2026/07/12/HHWGTUD35BGGPHIH7CA7E5L74E/",
+    "title": "내 인생의 생선 고등어… 굽는 냄새만으로도 배가 불렀다",
+    "summary": [
+      "내 인생의 생선 고등어… 굽는 냄새만으로도 배가 불렀다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n325e45e4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/07/12/VA7VGWZ4D5FNVJYK5RQSXAMUTI/",
+    "title": "원화 스테이블코인·온체인 파생상품, 제도권 내 끌어들여야",
+    "summary": [
+      "원화 스테이블코인·온체인 파생상품, 제도권 내 끌어들여야."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n43018506",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705307",
+    "title": "\"쳐다봐도 말 나오더라\"…메시, 불륜설 상대 기자 만나 직접 입 열었다",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 리오넬 메시가 최근 온라인에서 확산한 불륜설을 직접 언급하며 루머를 일축했다.",
+      "최근 아르헨티나 매체 TN에 따르면 메시는 2026 국제축구연맹(FIFA) 북중미 월드컵 32강전 카보베르데와의 경기에서 승리한 뒤 믹스트존(공동취재구역)에서 아르헨티나 방송사 텔레페 소속 기자 소피 마르티네스를 만났다.",
+      "메시는 마르티네스를 발견하자 먼저 다가가 인사를 건넸고 인터뷰에 앞서 \"내가 쳐다보면 뭐라 하고 인사하면 왜 인."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf14a65d6",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712001500091",
+    "title": "메타, 인스타 공개사진 AI 활용 기능 사흘만에 삭제",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 메타가 인공지능(AI) 이미지 모델에서 사회관계망서비스(SNS) 공개 사진을 활용할 수 있는 기능을 ..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "ndf470346",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "57분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705446",
+    "title": "이란·오만, 호르무즈 해협 안전 항행 논의…\"외교로 긴장 완화\"",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 이란과 오만이 최근 중동 지역 긴장 고조 속에서 외교적 해법과 호르무즈 해협의 안전한 항행 방안을 논의했다.",
+      "11일(현지 시간) 이란 국영 타스님 통신에 따르면 아바스 아라그치 이란 외무장관은 오만 무스카트에서 바드르 알 부사이디 오만 외무장관은과 회담을 갖고 최근 역내 정세와 외교적 해결 방안을 협의했다.",
+      "알부사이디 장관은 회담에서 \"역내 추가 긴장을 막기 위해 외교를 활용해야 한다\"는 오만의 입장을 밝히며, 미."
     ],
     "chips": [
       "#뉴스"
@@ -352,7 +499,7 @@ window.NEWS_DB = [
     "id": "n98bcc71f",
     "category": "IT",
     "source": "뉴시스",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260712_0003705441",
     "title": "'AI'만 붙이면 주가 오른다?…반짝 랠리 후 힘 빠진 美 기업들",
     "summary": [
@@ -365,226 +512,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9d2a7a12",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/12/MU4TSYZUGUYTAYJSG43WGZTFMM/",
-    "title": "'견주' 김태형 감독, 애완견 세리머니...퍼포먼스상 황성빈 \"감독님 지분이 70%. 상금으로 선물 드려야죠\" [올스타전]",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 롯데 자이언츠 황성빈이 올스타전에서 김태형 감독의 '애완견'으로 변신해 '퍼포먼스상'을 수상했다.",
-      "11일 서울 잠실구장에서 열린 2026 KBO리그 올스타전.",
-      "황성빈은 7회말 강아지 모자를 쓰고, 하네스를 착용하고 '애완견'으로 변신해 그라운드에 등장했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n1202e4c6",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "37분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/12/HE4TGZJZHFTDQMBXME4TMNBXG4/",
-    "title": "\"브레이크 중 마무리\" 오러클린 결별결단, 다음 타깃은 미야지, '우승' 향한 총력전, 삼성은 멈추지 않는다",
-    "summary": [
-      "[스포츠조선=정현석 기자]삼성 라이온즈가 큰 결단을 내렸다.",
-      "부상 대체 외국인 투수로 인연을 이어온 잭 오러클린과 결별하고, 메이저리그 통산 132경기(선발 119경기) 경력을 자랑하는 우완 투수 크리스 페덱을 영입하며 선발 마운드 강화에 나섰다.",
-      "삼성 라이온즈는 11일 새 외국인 투수 크리스 페덱과 47만 3333달러에 계약을 체결했다고 공식 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n020adc77",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "43분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705270",
-    "title": "\"이름도 홀란으로\"…월드컵 맹활약에 페루 부모들 작명 열풍",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵에서 맹활약을 펼치고 있는 노르웨이 국가대표 공격수 엘링 홀란의 인기가 페루 신생아 작명으로 번지고 있다.",
-      "지난 10일(현지시간) 페루21 등 현지 매체에 따르면 페루 국가신원등록청은 최근 수백 명의 부모가 자녀의 이름을 홀란으로 등록했다고 밝혔다.",
-      "등록 현황을 보면 홀란이라는 이름을 가진 신생아는 468명이고, 엘링 홀란이라는 이름을 그대로 등록한 사례는 91명으."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc69d0de1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712001400071",
-    "title": "美하원 규칙위, '한국의 美기업 차별 보고' NDAA 반영에 제동",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 연방하원의 일부 의원이 한국의 미국기업 차별이 미국의 국가안보에 미치는 영향을 평가해 의회에 보고토록..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf590901a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705223",
-    "title": "에스파 지젤 뼈말라 복근에 배꼽 피어싱까지…\"생각보다 안 아팠다\"",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 에스파 멤버 지젤이 군살 없는 몸매와 배꼽 피어싱을 공개해 눈길을 끌었다.",
-      "지젤은 지난 9일 자신의 사회관계망서비스(SNS)에 \"hola\"라는 짧은 글과 함께 여러 장의 사진을 게재했다.",
-      "공개된 사진 속 지젤은 강렬한 스모키 메이크업에 크롭 스타일로 티셔츠를 올려 잘록한 허리와 탄탄한 복근을 드러냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c4e910d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "52분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711045051098",
-    "title": "스페인 남부 산불, 역대 최악 피해 우려…사망 12명·실종 7명(종합)",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 지난 9일(현지시간) 스페인 남부 안달루시아 지방을 덮친 대형 산불로 인한 사망자가 늘어난 가운데 완진을 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na326d809",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/12/HEYDIMJXHE3WMZBUGI3DMYRZMQ/",
-    "title": "나루토·드래곤볼·IOI·GOAT·텍사스&잠실오씨, 웃음 바다 만든 올스타 퍼포먼스…하지만 누구도 황성빈을 넘지 못했다 [올스타]",
-    "summary": [
-      "[OSEN=잠실, 길준영 기자] 프로야구 올스타 선수들이 유쾌한 퍼포먼스로 팬들의 웃음을 자아냈다.",
-      "‘2026 신한 SOL KBO 올스타전’이 11일 서울 잠실구장에서 개최됐다.",
-      "신구장 건설을 위해 철거가 예정된 잠실구장에서 열리는 마지막 올스타전이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc1679c39",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/football/2026/07/12/HEYTGYJYGM4WINZYGBSTKZTGMI/",
-    "title": "\"난 홀란과 다르다!\" 해리 케인. 홀란을 평가하다. \"우린 완전 다른 플레이. 포지션 완전 다르다\"",
-    "summary": [
-      "[스포츠조선 류동혁 기자] \"난 홀란과 다르다\" 잉글랜드 에이스 스트라이커 해리 케인은 이렇게 말했다.",
-      "노르웨이 에이스 엘링 홀란에 대한 얘기다.",
-      "잉글랜드와 노르웨이는 12일 오전 6시(이하 한국시각) 2026년 북중미월드컵 8강전에서 맞대결을 펼친다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3febd47c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712001200079",
-    "title": "이란·오만 외무 회담…\"호르무즈 안전 통항 보장방안 논의\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협 통제권을 둘러싸고 미국과 이란 간 무력 충돌이 벌어진 가운데, 이란과 오만이 외무장관 회담에..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ca8e9fc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705291",
-    "title": "\"이래서 11㎏ 뺐나\"…홍현희가 공개한 다이어트 식단 보니",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 개그우먼 홍현희가 철저한 다이어트 식단을 공개해 눈길을 끌었다.",
-      "홍현희는 최근 자신의 사회관계망서비스(SNS)에 식사 사진 한 장을 게재했다.",
-      "공개된 사진에는 닭가슴살 잡곡김밥과 월남쌈, 샐러드가 정갈하게 차려져 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n94ce4c0d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712000800084",
-    "title": "베트남 푸꾸옥 바다서 고속정 전복…인도인 관광객 15명 사망",
-    "summary": [
-      "(하노이=연합뉴스) 박진형 특파원 = 베트남 남부의 유명 관광지인 안장성 푸꾸옥섬 근처 바다에서 관광객들을 태운 고속정이 전복, 인도인 관광객 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n63b886ff",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/12/2026071200510934987",
-    "title": "[한번에쓱] '성빈아 이 퍼포먼스 괜찮겠나?' 걱정스런 눈빛의 김태형 감독",
-    "summary": [
-      "'감독님, 목줄 단디잡으십쇼!' 드림올스타 황성빈이 11일 잠실구장에서 열리는 '2026 SOL KBO리그 올스타전에서 김태형 감독과 올스타퍼포먼스를 하고 있다.",
-      "황성빈은 이 퍼포먼스로 경기종료후 진행된 시상식에서 베스트 퍼포먼스상을 수상했다.",
-      "'뼈 이리 주라!' 총알처럼 네발로 달려가는 황성빈 입으로 뼈를 무는 퍼포먼스까지...."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne8914af5",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/12/2026071200113837719",
-    "title": "韓전도 뛰었던 남아공 선수 '충격 사망'... \"이제 25세인데\" FIFA 회장도 애통",
-    "summary": [
-      "한국전에도 출전했던 남아프리카공화국 국가대표 미드필더 제이든 애덤스가 세상을 떠났다.",
-      "로이터 통신은 11일(한국시간) \"2026 국제축구연맹(FIFA) 북중미 월드컵에서 남아공의 조별리그 3경기에 모두 출전했던 애덤스가 사망했다고 남아공 체육부가 발표했다\"며 \"사인은 공개되지 않았다\"고 전했다.",
-      "남아공은 이번 대회에서 사상 처음으로 월드컵 토너먼트 진출을 이뤄냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nacf92724",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/12/2026071116415615984",
-    "title": "'구자욱 발언 현실화' 역대급 호수비 '마지막 잠실 올스타전' 수놓다, 두산 PARK 듀오 환상 글러브 토스 '클라쓰' [잠실 현장]",
-    "summary": [
-      "마지막 잠실구장 올스타전에서 역대급 환상적인 호수비가 나왔다.",
-      "'별들의 축제' 2026 신한 SOL KBO 올스타전이 11일 서울 잠실야구장에서 펼쳐졌다.",
-      "결과는 나눔 올스타의 10-2 완승."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nb9981dec",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260711/134279501/1",
     "title": "李 대통령, 서울공항 도착…3박5일 나토·몽골 순방 마무리",
     "summary": [
@@ -599,7 +530,7 @@ window.NEWS_DB = [
     "id": "n3ef7bd6c",
     "category": "IT",
     "source": "아시아경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://view.asiae.co.kr/article/2026070915493785246",
     "title": "중국의 '삼전닉스' CXMT 상장에 올라탈 수혜주는? [주末머니]",
     "summary": [
@@ -616,7 +547,7 @@ window.NEWS_DB = [
     "id": "nab740db7",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1",
     "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
     "summary": [
@@ -631,7 +562,7 @@ window.NEWS_DB = [
     "id": "nef7d9e1c",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260711/134279467/1",
     "title": "미·이란 긴장 재고조…파키스탄·사우디 “누구에게도 이익 안 돼”",
     "summary": [
@@ -641,6 +572,69 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
+  },
+  {
+    "id": "na1bd9c14",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260711/134279455/1",
+    "title": "유럽, 호르무즈 ‘자발적 통행료’ 검토…강제 부과는 반대",
+    "summary": [
+      "유럽 국가들이 호르무즈 해협의 안전 확보를 위한 방안으로 국제기구의 승인을 전제로 한 ‘자발적 서비스 요금’ 도입을 검토하고 있는 것으로 알려졌다.",
+      "다만 국제법상 통행권을 침해하는 강제 통행료 부과에는 반대 입장을 유지하고 있다.11일(현지 시간) 가디언에 따르면 유럽은 유엔 산하 국제해사기구(IMO)의 지지를 받는 것을 전제로, 호르무즈 해협을 이용하는 선박들이 항해 안전과 환경 보호 등을 위한 서비스 비용을 자발적으로 부담하는 방안을 논의하."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n92f340f0",
+    "category": "IT",
+    "source": "테크M",
+    "time": "5시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153307",
+    "title": "[글로벌] 오픈AI·메타, 업무용 AI 에이전트 동시 공개...앤트로픽에 도전장",
+    "summary": [
+      "오픈AI와 메타가 같은 날 차세대 인공지능(AI) 모델과 업무용 AI 에이전트를 공개했습니다.",
+      "AI 경쟁의 중심이 모델 성능에서 이메일 작성, 일정 관리, 문서 작업, 코딩 등을 직접 수행하는 기업용 에이전트로 옮겨가는 모습입니다.오픈AI는 지난 9일(현지시간) 차세대 주력 모델 'GPT-5.6 솔'과 업무용 AI 에이전트 '챗GPT 워크'를 출시했습니다.",
+      "GPT-5.6은 지난달 공개가 예고됐으나 미국 정부가 국가안보와 사이버보안 관련 추가 검."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n3465d8db",
+    "category": "IT",
+    "source": "테크M",
+    "time": "5시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153306",
+    "title": "[글로벌] S&P, 오라클 신용등급 'BBB-'로 강등...AI 인프라 투자 부담 반영",
+    "summary": [
+      "국제신용평가사 스탠더드앤드푸어스(S&P)가 오라클 신용등급을 투기등급 바로 위 단계까지 낮췄습니다.",
+      "인공지능(AI) 인프라 사업 확대에 필요한 대규모 투자가 재무 부담으로 이어지고 있다는 판단입니다.S&P는 지난 9일(현지시간) 소프트웨어·클라우드 기업 오라클의 신용등급을 기존 'BBB'에서 'BBB-'로 한단계 하향 조정했다고 발표했습니다.",
+      "BBB-는 투자적격등급 가운데 가장 낮은 등급으로, 이보다 한 단계 낮아지면 투기등급인 정크본드로 분류."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n75917e4d",
+    "category": "IT",
+    "source": "테크M",
+    "time": "5시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153305",
+    "title": "[글로벌] 전기차 음극재 中 점유율 94.2%...미·유럽 공급망 규제에도 쏠림 지속",
+    "summary": [
+      "미국과 유럽을 중심으로 배터리 공급망 규제가 강화되고 있지만, 전기차용 음극재 시장은 여전히 중국 기업이 대부분을 차지하는 것으로 나타났습니다.",
+      "중국을 제외한 시장이 빠르게 성장하고 있음에도 공급망 다변화는 더디게 진행되고 있다는 분석입니다.시장조사업체 SNE리서치에 따르면 올해 1월부터 5월까지 글로벌 전기차용 음극재 적재량은 56만3000톤으로, 지난해 같은 기간 47만9000톤보다 17.6% 증가했습니다.같은 기간 중국을 제외한 글로벌 시."
+    ],
+    "chips": [
+      "#정책",
+      "#전기차"
+    ]
   }
 ];
 
@@ -649,14 +643,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
