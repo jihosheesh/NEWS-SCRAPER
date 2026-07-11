@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-11 11:43:41
+// 마지막 업데이트: 2026-07-11 12:53:35
 window.NEWS_DB = [
   {
     "id": "n33718b4c",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkpyb2hoYVJZSU9oVDlvdjNVT1dkOFBkeHBJcEZGYW9OLWFlVF9rdWd1ZkJMSkNEcGczaTVlcGk0YWtKSFhFc0x1bGFzYkhjUnhzWmZJS0JibkFkQndOWGtwa2d6MXg1LVBiUXlUNFpyc3ZJT3U5ZXdJbUxHVjNsa1l0Qm9zaG55?oc=5",
     "title": "삼성 파운드리, 3년 만에 월간 흑자 기록…동력은 내부 HBM 물량",
     "summary": [
@@ -16,11 +16,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc70c87c0",
+    "id": "n259d82ec",
     "category": "스포츠",
     "source": "네이트",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iSU9pNnpFNWJlcEtRRlpjU25QcG04dlRCRko1Z0lvT3hTWVRZblNjZ3NORDNGaGtxc0lKa2htWXVmMWk3d3JzVHFDeW4xZEZCUHBfWldBWExseHVaZHJJZ1VqNWt5eUtNbzhxcVJMaGVsUkVWZkE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FTjVINHB3aDV6MDVMbDZxUHhJb3htMUl4bTVyWUZqU0twckVaZ1FiY05aeHhzUWxJYlZHanRrTzZ5a01LZENwSDJPRGJ6Wjd4TjFDNzFn?oc=5",
     "title": "조민영, 야구장에 나타난 '손흥민?' [포토엔HD]",
     "summary": [
       "조민영, 야구장에 나타난 '손흥민?' [포토엔HD] 네이트."
@@ -107,6 +107,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb6df5091",
+    "category": "스포츠",
+    "source": "starnewskorea.com",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
+    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
+    "summary": [
+      "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위...",
+      "2위는 KBO 홈런 1위 김도영 starnewskorea.com."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "ne098ec77",
     "category": "IT",
     "source": "v.daum.net",
@@ -119,22 +134,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
-    ]
-  },
-  {
-    "id": "nb424412f",
-    "category": "사회",
-    "source": "v.daum.net",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
-    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
-    "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -229,20 +228,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n646824f1",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WZWY5ZXlFNllvSUVqQkhPZTRoT3pmT1E5MUFkTmR2dGF1NkxfaEMxcnJ6QmZ6S1JSalpOV0k2UF9hN0F0QnV4TFoySHJIYlU?oc=5",
-    "title": "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드]",
-    "summary": [
-      "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드] v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -257,14 +242,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nabfa15b0",
+    "id": "n31af3cbd",
     "category": "경제",
-    "source": "YTN",
-    "time": "31일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
-    "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
+    "source": "에너지경제신문",
+    "time": "33일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
+    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
     ],
     "chips": [
       "#금리",
@@ -314,6 +299,22 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
+    ]
+  },
+  {
+    "id": "nef414906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "143일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
+    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+    "summary": [
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -381,253 +382,254 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6730286f",
-    "category": "사회",
-    "source": "연합뉴스",
+    "id": "n7fed2c14",
+    "category": "스포츠",
+    "source": "머니투데이",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711049000704",
-    "title": "시인·수필가·소설가 등단…최종두 전 경상일보 사장 별세",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071121210225839",
+    "title": "'300억 초호화 결혼' 테일러 스위프트…뉴욕시에 지불한 금액은?",
     "summary": [
-      "(서울=연합뉴스) 이충원 기자 = 울산 지역 언론인으로 활동하는 한편, 시인·수필가·소설가로도 등단한 최종두(崔鐘斗) 전 경상일보 사장이 11일..."
+      "미국 팝스타 테일러 스위프트(36)가 결혼식을 올리기 위해 뉴욕시에 허가비만 2억원이 넘는 돈을 지불한 사실이 알려졌다.",
+      "10일 AFP에 따르면, 조란 맘다니 뉴욕시장은 결혼식 관련 경찰 초과 근무 비용을 스위프트가 변제할 것인지 묻는 말에 \"이미 해당 행사와 그에 대한 대응을 위해 16만 달러가 넘는 비용을 냈다\"고 밝혔다.",
+      "16억 달러는 한화 2억4000만원 상당이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndf3d91f4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260711/134279373/1",
-    "title": "“이성윤·박규환 최고위원 물러나야”…與 친석계, 일제히 비판 목소리",
-    "summary": [
-      "더불어민주당에서 친명(친이재명)이자 친석(친김민석)으로 분류되는 의원들이 11일 친청(친정청래)으로 칭해지는 이성윤·박규환 최고위원을 일제히 비판하고 나섰다.이들은 이 최고위원이 내달 있을 전당대회에 최고위원 출마를 준비하고 있고, 박 최고위원은 대표직을 사퇴한 정청래 전 대표가 지명한 최고위원인 만큼 두 사람 모두 직에서 물러나야 한다고 했다.8·17 전당대회에 대한 선호투표제와 선출직 청년 최고위원 도입 여부를 놓고 다음날(12일) 또다시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n48fa612a",
-    "category": "IT",
+    "id": "n1fa0904b",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/11/MI3TIYTDG4YDENDBME3TMZDFHA/",
-    "title": "‘대학교수’ 된 유연석, 열정 가득 “마지막 수업도 꽉 채워..기운 받아” (주말연석극)[순간포착]",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/07/11/ZHMHWHVF6RG57E4QY7V626PWII/",
+    "title": "잠실야구장에 등장한 갸루·구준표·강아지...팬들 사로잡은 이색 퍼포먼스",
     "summary": [
-      "[OSEN=박하영 기자] 배우 유연석이 특임교수로 활동하고 있는 근황을 전했다.",
-      "11일 유튜브 채널 ‘유연석의 주말연석극’에는 ‘양세종과 행당동에 심고갑니다’라는 제목의 영상이 게재됐다.이날 유연석과 양세종은 서울 성동구에 위치한 육아종합지원센터 앞 화단 꾸미기에 나섰다.",
-      "역새 ‘심고 갑니다’에 가장 큰 부지라고."
+      "잠실야구장에 등장한 갸루·구준표·강아지...팬들 사로잡은 이색 퍼포먼스."
     ],
     "chips": [
-      "#AI",
-      "#교육"
+      "#KBO"
     ]
   },
   {
-    "id": "n469bc607",
+    "id": "n49eb4ea2",
     "category": "사회",
-    "source": "동아일보",
+    "source": "조선일보",
     "time": "13분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260710/134273980/2",
-    "title": "우리는 스피커를 사는 걸까, 전설을 사는 걸까 [리뷰로그]",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/11/MMYGMYLGHAZDOYZRHE2TOZJTGA/",
+    "title": "김고은, 공유 비주얼에 감탄 또 감탄 “진짜 잘생겼다”(도깨비 10주년 여행)[순간포착]",
     "summary": [
-      "마샬 액톤3 지미 헨드릭스 에디션 리뷰.",
-      "기자 4인의 청음 평가와 디자인, 음질, 록 헤리티지가 만드는 특별한 경험을 직접 확인했다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 김고은이 공유의 얼굴에 감탄했다.11일 방송된 tvN 20주년 특집 ‘함께여서 찬란하神 - 도깨비 10주년 여행’에서는 방영 10주년을 기념해 강릉에서 특별한 파티를 여는 이야기가 그려졌다.이동욱은 ‘도깨비’의 순간들을 담은 포토 에세이를 꺼내들었다.",
+      "명장면과 명대사를 한 권에 담은 포토 에세이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n42a672e5",
+    "id": "nc53d413a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711048900527",
-    "title": "전북 군산 오존주의보 발령",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711050400098",
+    "title": "유로스타, 55도까지 견디는 새 차량 도입…\"폭염 일상화 대비\"",
     "summary": [
-      "(전주=연합뉴스) 11일 오후 8시를 기해 전북 군산에 오존주의보가 내려졌다고 환경부 한국환경공단이 전했다."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽이 올여름 기록적인 무더위로 시달리고 있는 가운데, 유로스타가 섭씨 55도까지 끄떡없는 새 차량을 도입..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf790ecdb",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071121361484649",
+    "title": "[한번에쓱] '눈화장과 입술은 어쩔수가 없네!' 여자분장 유토",
+    "summary": [
+      "나눔올스타 유토가 11일 잠실구장에서 열리는 '2026 SOL KBO리그 올스타전에서 올스타퍼포먼스를 하고 있다.."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nfb331cda",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/11/MFTGMN3EGBRDEN3EMEYWEZBVGM/",
+    "title": "‘월드컵 영웅 맞대결’ 전북이 이겼다…김진규+이승우+김예건 연속골 전북, 현대가더비 울산에 3-1 완승",
+    "summary": [
+      "[OSEN=서정환 기자] 월드컵 영웅들이 맞붙은 현대가 더비에서 전북현대가 웃었다.",
+      "전북은 11일 울산 문수축구경기장에서 열린 '하나은행 K리그1 2026' 17라운드에서 울산HD를 3-1로 크게 이겼다.",
+      "승점 29점의 전북(8승5무4패)이 2위로 올라섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0042c14f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/11/2026071120033981020",
+    "title": "韓 충격 탈락에도 황인범만 뜬 이유 \"포르투, 월드컵 전부터 지켜봤다\"",
+    "summary": [
+      "한국 축구는 월드컵에서 충격적인 탈락을 겪었지만, 황인범(30·페예노르트)의 이름값은 더 커졌다.",
+      "포르투갈 명문 FC포르투가 황인범에게 관심을 보내는 것으로 전해졌다.",
+      "네덜란드 매체 부트발프리메르는 11일(한국시간) 포르투갈 매체 헤코르드를 인용해 \"포르투가 2026 국제축구연맹(FIFA) 북중미 월드컵에서 뛰어난 활약을 펼친 황인범을 영입 레이더에 올려놓았다\"고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d721bce",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711049900527",
+    "title": "전북 군산 오존주의보 해제",
+    "summary": [
+      "(전주=연합뉴스) 전북 군산에 내려진 오존주의보가 11일 오후 9시 해제됐다고 환경부 한국환경공단이 전했다."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "na2d525f6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705401",
-    "title": "천용성, 신곡 '어우!' 발매…\"코믹 일렉트로 댄스 팝\"",
+    "id": "n46771caf",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711050300007",
+    "title": "[프로축구 김천전적] 김천 1-1 부천",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = '한국대중음악상'(한대음) 3회 수상에 빛나는 싱어송라이터 천용성이 새로운 음악적 시도를 담은 디지털 싱글 '어우!'를 최근 발매했다.",
-      "그간 정규 1집 '김일성이 죽던 해'(2019)를 비롯해 '대설주의보'(2019), '보리차'(2021) 등 리얼리즘을 기반 삼은 소소한 일상의 서사를 담백하게 풀어내며 평단의 지지를 받아온 천용성은 이번 신곡을 통해 기존의 포크·팝 감각을 미드템포 전자 리듬과 질감으로 확장했다."
+      "[프로축구 김천전적] 김천 1-1 부천."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n82110d36",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026071120272657167",
-    "title": "트럼프 '차단위협' 미·캐나다 연결 다리 7월 말 개통",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 통행을 막겠다고 위협했던 미-캐나다 양국을 잇는 다리가 이달 말 개통한다고 AFP통신이 11일(현지시간) 보도했다.",
-      "보도에 따르면 캐나다 인프라부는 이날 성명에서 \"오늘 캐나다와 미시간주는 미국 정부의 지원 아래 오는 27일 고디 하우 국제대교를 개통하기로 합의했다\"고 발표했다.",
-      "미국 미시간주 디트로이트와 캐나다 온타리오주 윈저를 잇는 이 다리는 45억달러(약 7조원)가 투입돼 2018년 공사."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n21cb32ac",
-    "category": "사회",
+    "id": "nd7a83364",
+    "category": "IT",
     "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260711/134279366/1",
-    "title": "“국민 볼펜 지켜”…상폐 위기 모나미, 기사회생에 대표 감사문 공개",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260711/134279406/1",
+    "title": "삼성은 파운드리, SK는 메모리 세일즈…이재용·최태원 미국행 주목",
     "summary": [
-      "한때 상장 폐지 위기에 놓였던 국내 문구기업 모나미가 최근 애국기업 응원 움직임에 힘입어 주가가 급등하자 감사 인사를 전했다.모나미는 11일 자사 홈페이지에 송재화 사장의 자필 감사문을 팝업창을 띄웠다.송 사장은 “최근 온라인을 통해 확산되고 있는 모나미 응원 물결을 보며 깊은 감동과 함께 막중한 책임을 느끼고 있다”며 “상장 폐지가 될 수 있는 어려운 상황 속에서도 모나미를 믿고 응원하며 함께해주신 여러분의 마음은 저희에게 무엇과도 바꿀 수."
+      "국내 반도체 양대 산맥을 이끌고 있는 삼성전자와 SK그룹 수장이 이번 주말 미국 서부와 동부에서 나란히 행보를 이어가고 있다.",
+      "이재용 삼성전자 회장은 지난 7일(현지시간)부터 미국 아이다호에서 닷새간 열리는 선밸리 콘퍼런스에 참석 중이며 최태원 SK그룹 회장은 SK하이닉스의 나스닥 상장을 계기로 뉴욕을 찾았다.",
+      "재계에선 이들이 각각 미국에서 어떤 글로벌 고객사와 파트너사를 만나 네트워킹 및 세일즈 활동을 펼칠지 주목하고 있다.11일 업계에 따르."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n10a330b5",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711050200007",
+    "title": "[프로축구 광주전적] 포항 3-0 광주",
+    "summary": [
+      "[프로축구 광주전적] 포항 3-0 광주."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0eb8568f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/11/GYZGGMTBGNSWKNRUGVSTON3DME/",
-    "title": "‘제이쓴♥’ 홍현희, 子에 곧 키 따라잡힐 듯..“좀 천천히 커줘” 호소",
-    "summary": [
-      "[OSEN=임혜영 기자] 개그우먼 홍현희가 아들과의 일상을 공유했다.홍현희는 11일 개인 채널에 “준범아 좀 천천히 커줘ㅋㅋㅋㅋㅋ”, “키 차이”, “후”라는 글과 함께 사진 한 장을 게재했다.공개된 사진 속 홍현희는 아들과 함께 한 전시장을 방문한 모습이다.",
-      "홍현희는 육아 중인 만큼 티셔츠에 편안한 치마 차림이며 모자를 거꾸로 착용해 ‘장꾸미’를 더했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n62a68904",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/07/11/EKKMGVZP4NFINKJ5RPE33HERJY/",
-    "title": "‘현역 최고령’ 최형우, 올스타전에서도 최고령 출장 신기록 달성",
-    "summary": [
-      "‘현역 최고령’ 최형우, 올스타전에서도 최고령 출장 신기록 달성."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n17277946",
+    "id": "nd4319cce",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260711/134279356/2",
-    "title": "활 들고 걸어나간 김혜경 여사, 주위서 ‘빵’ 터졌다",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260710/134274938/2",
+    "title": "축구 보다가 “한국 기업 잘나가네”…월드컵 전광판에 숨겨진 비밀",
     "summary": [
-      "몽골을 국빈 방문한 이재명 대통령 부부가 11일(현지 시간) 전통 활쏘기를 관람한 뒤 직접 체험했다.",
-      "이 대통령 부부는 이날 오전 울란바타르 국립체육경기장 내 활쏘기 경기장을 찾아 직접 활을 들었다.",
-      "남성은 과녁에서 75m, 여성은 65m 떨어진 곳에서 활을 쏜다."
+      "월드컵이나 올림픽 같은 국제 스포츠 경기를 보다 보면 문득 이런 생각이 든다.“한국 기업 잘나가네”경기장 사이드라인 전광판에는 익숙한 국내 기업 로고가 쉴 새 없이 등장한다.",
+      "하지만 여기에는 방송과 디지털 기술이 결합된 최첨단 광고 시스템이 숨어 있다.같은 시간 영국 시청자는 영국 기업 광고를, 브라질 시청자는 브라질 기업 광고를 보고 있다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n726e66a0",
+    "id": "nae67abe0",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260711/134279403/1",
+    "title": "‘홍명보호 1골1도움’ 황인범, 포르투갈 명가 포르투 러브콜",
+    "summary": [
+      "한국 남자 축구 대표팀의 핵심 미드필더인 황인범(30·페예노르트)이 포르투갈 명문 포르투의 관심을 받고 있다.포르투갈 매체 ‘헤코르드’는 11일(한국 시간) “한국인 선수 황인범이 포르투의 관심 대상에 올랐다”고 보도했다.매체는 “페예노르트 소속의 미드필더는 2026 국제축구연맹(FIFA) 북중미 월드컵에서 좋은 활약을 펼쳤다”고 덧붙였다.황인범은 프로축구 K리그1 대전하나시티즌, 밴쿠버 화이트캡스(미국), 루빈 카잔(러시아), FC서울, 올림."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0eeb53c0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705399",
-    "title": "[속보]강호필 전 지상작전사령관 13일 구속심사…내란 가담 혐의",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7de622b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711048400009",
-    "title": "'트럼프 차단 위협' 미·캐나다 다리 이달 말 비로소 개통",
-    "summary": [
-      "(서울=연합뉴스) 강훈상 기자 = 도널드 트럼프 미 대통령이 통행을 차단하겠다고 위협했던 양국을 잇는 다리가 이달 말 개통한다고 AFP 통신이 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9b826854",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "31분 전",
-    "url": "https://view.asiae.co.kr/article/2026071120093439269",
-    "title": "10만 팔로워 인플루언서의 두 얼굴…'로맨스 스캠'으로 120억 뜯어",
-    "summary": [
-      "생성형 인공지능(AI)을 이용해 가짜 온라인 신분을 만들어 미국 노인들에게 접근한 뒤 120억원이 넘는 돈을 가로챈 가나 출신 인플루언서가 미국에서 재판받게 됐다.",
-      "10일(현지시간) 영국 BBC 방송 등 외신은 '아부 트리카'라는 이름으로 활동하면서 10만명 이상의 팔로워를 둔 프레데릭 쿠미가 전날 미국으로 이송됐다고 보도했다.",
-      "쿠미는 미국 노인들을 대상으로 '로맨스 스캠'(연애 빙자 사기)을 통해 800만달러(약 120억원) 넘."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n78c904df",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "31분 전",
-    "url": "https://view.asiae.co.kr/article/2026071009385188819",
-    "title": "[주末머니]비트코인, 언제 사야 할까?",
-    "summary": [
-      "비트코인 가격이 5만달러선까지 내릴 때 매수해야 한다는 분석이 나왔다.",
-      "비트코인 가격은 6만3000달러선까지 떨어졌지만 수급 상황이나 규제 환경 등을 고려할 때 즉각적인 추세 전환이 나타나기 어려워서다.",
-      "11일 상상인증권의 '상상인 크립토 심리지수'에 따르면 32.8까지 내려갔다."
-    ],
-    "chips": [
-      "#정책",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n384c65a6",
-    "category": "사회",
-    "source": "연합뉴스",
     "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711048500004",
-    "title": "'내란 가담' 강호필 前 육군 지상작전사령관 영장…13일 심사",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705408",
+    "title": "모즈타바 \"아버지 피의 복수는 국민 요구…반드시 이뤄질 것\"",
     "summary": [
-      "(서울=연합뉴스) 박재현 기자 = 3대 특검 이후 남은 의혹을 수사하는 권창영 2차 종합특별검사팀이 '내란 가담 의혹'과 관련해 강호필 전 육군..."
+      "[서울=뉴시스] 이재은 기자 = 이란의 최고지도자인 모즈타바 하메네이가 부친인 알리 하메네이 전 최고자도자의 피살과 최근 두 차례 전쟁에서 숨진 이들에 대한 복수를 반드시 실행하겠다고 밝혔다.",
+      "11일(현지시간) 공개된 서면 메시지에 따르면 모즈타바는 \"우리는 여러분의 순결한 피와 두 전쟁에서 희생된 모든 순교자들의 피에 대해 범죄자이자 수치스러운 살인자들에게 복수할 것을 맹세한다\"며 \"이는 우리 국민의 요구이며 반드시 이뤄져야 한다\"고 말다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n01e66c3b",
+    "id": "n835cd9fa",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "37분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/11/2026071120425788862",
+    "title": "\"한국도 39.9도 찍었다\" 경산 '최악 더위'...이중 열돔에 갇혔다",
+    "summary": [
+      "대구와 경북 대부분 지역에 폭염특보가 내려진 가운데 경산시 하양읍의 낮 기온이 39.9도까지 치솟는 등 찜통더위가 이어졌다.",
+      "11일 대구기상청에 따르면 이날 오후 4시 기준 주요 지점의 최고기온은 △경산 하양 39.9도 △대구 동구 신암 38.4도 △경주 37.4도 △포항 기계·고령 37.2도 △달성 옥포 36.7도 △구미 36.4도 △영천 화북 36.2도 △김천·칠곡 36도 등이다.",
+      "현재 대구와 구미·영천·경산·청도·고령·성주·칠곡·의성·청송."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n20be1b2f",
     "category": "경제",
     "source": "아시아경제",
-    "time": "34분 전",
-    "url": "https://view.asiae.co.kr/article/2026071120092735866",
-    "title": "이란 최고지도자 \"복수, 국민 요구…반드시 실행\"",
+    "time": "37분 전",
+    "url": "https://view.asiae.co.kr/article/2026071120071731005",
+    "title": "군산 무녀도에 해양레저 복합 관광시설 '오션팔레트' 개장",
     "summary": [
-      "아야톨라 모즈타바 하메네이 이란 최고지도자가 개전 초 미국과 이스라엘의 공습에 사망한 부친 아야톨라 알리 하메네이 등 희생자들의 복수를 다짐했다.",
-      "아야톨라 모즈타바는 11일(현지시간) 최근 치러진 부친의 장례식 관련 서면 메시지를 발표했다.",
-      "그는 \"우리는 흉악하고 수치스러운 살인자들로부터 당신과 이 두 차례의 전쟁에서 희생된 모든 순교자의 순결한 피에 대한 복수를 다짐한다\"며 \"이 복수는 우리 국민의 요구이며."
+      "파도 소리와 아이들의 웃음소리가 뒤섞이는 계절, 전북 군산 무녀도 앞바다에 여름을 통째로 담은 공간이 문을 열었다.",
+      "군산시가 조성한 해양레저 복합 관광시설 '오션팔레트'가 10일 정식 개장하며 서해안 체류형 관광의 새 지평을 열었다.인공파도가 밀려오는 파도풀, 하늘과 바다가 맞닿은 듯한 인피니티풀, 파란 물살을 가르는 서핑장까지, 오션팔레트는 그 이름처럼 다채로운 색의 팔레트를 바다 위에 펼쳐놓은 듯하다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3cb873a0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260711/134279396/1",
+    "title": "특검, 강호필 전 육군 지상작전사령관 구속영장 청구…‘내란 가담’ 혐의",
+    "summary": [
+      "2차 종합특검팀(특별검사 권창영)이 12·3 비상계엄 선포 당시 지구 계엄사령관 역할을 맡아 관련 회의에 참여하는 등 내란에 가담한 의혹을 받는 강호필 전 육군 지상작전사령관에 대해 구속영장을 청구했다.11일 법조계에 따르면 특검팀은 전날(10일) 강 전 사령관에 대해 내란중요임무종사 혐의로 구속영장을 청구했다.서울중앙지법 이종록 내란 영장전담 부장판사는 오는 13일 오전 10시 20분 강 전 사령관에 대한 구속 전 피의자 심문(영장실질심사)을."
     ],
     "chips": [
       "#뉴스"
@@ -640,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
