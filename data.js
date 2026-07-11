@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-11 04:53:31
+// 마지막 업데이트: 2026-07-11 07:05:34
 window.NEWS_DB = [
   {
     "id": "n33718b4c",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkpyb2hoYVJZSU9oVDlvdjNVT1dkOFBkeHBJcEZGYW9OLWFlVF9rdWd1ZkJMSkNEcGczaTVlcGk0YWtKSFhFc0x1bGFzYkhjUnhzWmZJS0JibkFkQndOWGtwa2d6MXg1LVBiUXlUNFpyc3ZJT3U5ZXdJbUxHVjNsa1l0Qm9zaG55?oc=5",
     "title": "삼성 파운드리, 3년 만에 월간 흑자 기록…동력은 내부 HBM 물량",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n259d82ec",
     "category": "스포츠",
     "source": "네이트",
-    "time": "19시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FTjVINHB3aDV6MDVMbDZxUHhJb3htMUl4bTVyWUZqU0twckVaZ1FiY05aeHhzUWxJYlZHanRrTzZ5a01LZENwSDJPRGJ6Wjd4TjFDNzFn?oc=5",
     "title": "조민영, 야구장에 나타난 '손흥민?' [포토엔HD]",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n3a07552f",
     "category": "IT",
     "source": "KPI뉴스",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpeVRTallaOXdpZFRabnBsTWprbzU5bnc2bGVTWXpKaHFhbGJHYU9zbnFjUXZsaG5XeHVnR1hXUU45MnQtckpnWkdOdzNERXJpanVZ0gFTQVVfeXFMUGl5VFNqWVo5d2lkVFpucGxNamtvNTludzZsZVNZekpocWFsYkdhT3NucWNRdmxobld4dWdHWFdRTjkydC1ySmdaR053M0RFcmlqdVk?oc=5",
     "title": "HBM 판도 흔드는 ′베이스 다이′…삼성전자에 기회 왔다",
     "summary": [
@@ -125,7 +125,7 @@ window.NEWS_DB = [
     "id": "nb6df5091",
     "category": "스포츠",
     "source": "starnewskorea.com",
-    "time": "8일 전",
+    "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
     "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
     "summary": [
@@ -171,7 +171,7 @@ window.NEWS_DB = [
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
-    "time": "11일 전",
+    "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
@@ -187,7 +187,7 @@ window.NEWS_DB = [
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
-    "time": "11일 전",
+    "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
@@ -217,7 +217,7 @@ window.NEWS_DB = [
     "id": "n9cecfc4c",
     "category": "부동산",
     "source": "한국경제",
-    "time": "18일 전",
+    "time": "19일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZ9IBVEFVX3lxTE51WFJELUd0OUVyTmJ4RXJGTTZTSS1TQy0wWktPaE9uUjRCMGlpSnY4Q2tVVk8zT3dUUHRnTWJPRGoxZm5rS25Dc0xHNHk2WHF5S09CUw?oc=5",
     "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
     "summary": [
@@ -246,7 +246,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "24일 전",
+    "time": "25일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -260,7 +260,7 @@ window.NEWS_DB = [
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
-    "time": "32일 전",
+    "time": "33일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
     "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
@@ -275,7 +275,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "42일 전",
+    "time": "43일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -290,7 +290,7 @@ window.NEWS_DB = [
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "59일 전",
+    "time": "60일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
@@ -305,7 +305,7 @@ window.NEWS_DB = [
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
-    "time": "72일 전",
+    "time": "73일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -383,260 +383,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n769861a5",
+    "id": "n672555bc",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705245",
-    "title": "트럼프 “이란, 암살시도할 경우 전국이 파괴”“미사일 1000기 장전”",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705312",
+    "title": "\"스마트 돌봄\"…우송대, 대전 중구청 등과 민·관·학 협약",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 미국 대통령이 10일 트루스소셜에 자신에 대한 암살이나 암살 시도가 있을 경우 이란 전역이 완전히 파괴될 것이라고 경고했다.",
-      "트럼프 대통령은 “이란이 미국의 현직 대통령, 지금은 나에 대해 지구 어디에서든 암살 혹은 암살 기도가 있을 경우 이란에 대한 공격 명령이 내려져 있다”고 올렸다.",
-      "트럼프는 “1000발의 미사일이 장전되어 이란을 겨냥해 있다”며 “미군은 1년 동안 이란 전역에서 몰살과 파괴를."
+      "[대전=뉴시스]유순상 기자 = 우송대학교는 바이오헬스 혁신융합대학사업단과 산학협력단은 지난 10일 대전 중구청에서 대전 중구의사회, 국민건강보험공단 대전중부지사, 중구청과 민·관·학 스마트돌봄 업무협약을 체결했다고 11일 밝혔다.",
+      "5개 기관은 각기관 보유 전문성과 자원을 연계, 지역 주민이 체감할 수 있는 건강관리 서비스를 제공한다.",
+      "지역 어르신을 위한 건강 돌봄 프로그램을 공동 추진하고 바이오헬스 기술과 의료·복지 서비스를 연계한 지역 맞춤형."
     ],
     "chips": [
-      "#정치"
+      "#교육",
+      "#의료"
     ]
   },
   {
-    "id": "n297f4495",
+    "id": "n0c757b22",
     "category": "사회",
-    "source": "아시아경제",
+    "source": "뉴시스",
     "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026071113482819063",
-    "title": "'음료 피습 자작극' 정이한 전 후보, 범행 전날 CCTV 확보… 공모여부 수사 확대",
+    "url": "https://www.newsis.com/view/NISX20260709_0003702825",
+    "title": "담낭암은 무조건 간 절제?…\"안해도 생존율 비슷\"",
     "summary": [
-      "6·3 지방선거를 앞두고 '음료 피습 자작극' 혐의로 구속된 정이한 전 개혁신당 부산시장 후보의 범행 전 정황이 담긴 CCTV가 확보되면서 경찰 수사가 확대되고 있다.",
-      "경찰은 확보한 영상과 디지털 자료 등을 토대로 사전 공모 여부와 선거캠프 관계자 등의 개입 가능성을 확인하고 있다.",
-      "11일 경찰과 법조계 등에 따르면 경찰이 확보한 지난 4월 26일 헬스장 CCTV에는 정 전 후보가 십년지기인 헬스 트레이너 A씨와 나란히 앉아."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8bcf4174",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705244",
-    "title": "경남과학교육원, 큐브위성개발 체험교실…고2 30명 대상",
-    "summary": [
-      "[진주=뉴시스] 차용현 기자 = 경남과학교육원이 11일 도내 고등학교 2학년 학생 30명을 대상으로 '제1기 큐브위성 개발 체험교실'을 운영했다.",
-      "이번 프로그램은 항공우주공학 분야 진로를 희망하는 학생들에게 우주과학 분야 체험 기회를 제공하고 미래 우주과학 인재를 양성하기 위해 마련됐다.",
-      "큐브위성은 가로·세로·높이가 각각 10㎝ 이하, 질량 1.33㎏ 이하의 초소형 인공위성이다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n9ca379fd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705247",
-    "title": "민주 \"장동혁, 음모론 갇혀…제1야당 대표 자격 있나\"",
-    "summary": [
-      "[서울=뉴시스]권신혁 기자 = 더불어민주당은 11일 장동혁 국민의힘 대표를 향해 \"음모론에 갇혀 민생을 팽개쳤다\"며 \"제1야당 대표 자격이 있느냐\"고 물었다.",
-      "이주희 민주당 원내대변인은 이날 오전 국회 소통관에서 기자회견을 열고 \"장동혁 국민의힘 대표가 이재명 대통령과 더불어민주당, 중앙선거관리위원회를 '민주주의를 훼손하는 거대한 카르텔'로 규정했다\"며 이같이 말했다.",
-      "이 원내대변인은 \"품격을 지켜야 할 제1야당의 대표가 스스로 음모론 프레임에."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb4a8db11",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026071113400709176",
-    "title": "수급률 늘었는데도…여성 노인 국민연금 월평균 24만원",
-    "summary": [
-      "우리나라 만 66세 이상 여성 노인의 공적연금 수급률과 소득 증가율이 지난 10년간 남성보다 높았으나, 실질적인 소득 금액은 여전히 노후 생계를 잇기에 턱없이 부족한 수준으로 나타났다.",
-      "11일 국민연금연구원 김만수·안준홍·이예인 연구원의 '공적연금 수급에 따른 여성 노인의 소득구성과 소비수준 변화 분석 연구' 보고서에 따르면 만 66세 이상 여성 노인의 총소득은 2013년부터 2023년까지 10년 동안 94.9% 증가해 남성 노."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9932da60",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/11/GE4TANJTMNRGEMLGMEZWINBTG4/",
-    "title": "트럼프 “이란이 내 암살 시도할 경우 전 지역 완전히 몰살·파괴”",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 10일(현지 시각) 이란이 자신을 겨냥한 암살을 시도할 경우 이란 전역에 대규모 보복을 가하겠다고 경고했다.",
-      "트럼프 대통령은 이날 소셜미디어 트루스소셜에 올린 글에서 “이란 정부가 여러 차례 공언해 온 위협대로 현직 미국 대통령, 즉 나를 암살하거나 암살을 시도할 경우 1000기의 미사일이 이미 이란을 겨냥해 장전돼 있으며 수."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n357334a3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705243",
-    "title": "\"고온다습 남서풍\"…제주 또 '잠 못든 밤', 나흘째 열대야",
-    "summary": [
-      "[제주=뉴시스] 김수환 기자 = 제주에서 밤사이 최저기온이 25도를 웃도는 열대야 현상이 나흘째 이어지고 있다.",
-      "11일 제주기상청에 따르면 전날 밤부터 이날 아침까지 최저기온이 제주(북부) 27.4도, 서귀포(남부) 27.2도, 고산(서부) 26.2도를 기록했다.",
-      "열대야는 오후 6시1분부터 다음날 오전 9시까지 최저기온이 25도 이상 유지되는 현상을 말한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nec918cca",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026071113384905006",
-    "title": "쿠바서 또 전국 대정전…올해 들어 네 번째",
-    "summary": [
-      "만성적인 에너지난에 시달리는 쿠바에서 또다시 전국 규모의 정전이 발생했다.",
-      "쿠바 국영전력청(UNE)은 10일(현지시간) 소셜미디어 엑스(X)를 통해 이날 오후 4시30분께 국가 전력 시스템이 전면 차단됐다고 밝혔다.",
-      "쿠바에서 전국적인 대정전이 발생한 것은 올해 들어 네 번째다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n661da4fe",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026071113341698231",
-    "title": "테일러 스위프트 결혼식, 뉴욕시 허가 비용만 2억원 넘어",
-    "summary": [
-      "세계적인 팝스타 테일러 스위프트가 미국프로풋볼(NFL) 선수 트래비스 켈시와 비공개 결혼식을 치른 가운데 이 비공개 결혼식을 위해 스위프트 측이 뉴욕시에 지불한 돈이 2억원이 넘는다는 사실이 확인됐다.",
-      "10일(현지시간) AP통신 등 외신은 이날 조란 맘다니 뉴욕 시장이 기자회견에서 \"스위프트는 해당 행사와 행사 대응을 위해 16만달러(약 2억4000만원) 이상을 허가 비용으로 지불했다\"며 \"허가는 행사가 열리기 며칠 전에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb9cb1334",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260711/134278922/1",
-    "title": "남편과 다투다 홧김에…두살 아들 있는 집에 불지른 엄마",
-    "summary": [
-      "남편과 다투다 홧김에 두살배기 자녀가 있는 집에 불을 지른 30대 여성이 경찰에 붙잡혔다.",
-      "경기 용인동부경찰서는 A(30대·여)씨를 현주건조물방화 혐의로 입건했다고 11일 밝혔다.",
-      "A씨는 지난 10일 오전 7시39분께 용인시 처인구 자택에서 침실 바닥에 불을 지른 혐의를 받고 있다.그는 남편과 다투다 화를 참지 못하고 방화를 저지른 것으로 파악됐다.이 불로 집에 같이 있던 2살 자녀 B군이 연기 흡입 등으로 인근 병원으로 옮겨졌으나 생명에는 지."
+      "[서울=뉴시스] 류난영 기자 = 치료가 어려운 담낭암은 수술이 가능하면 생존율을 높이기위해 수술 범위가 커지는 경우가 많은데 앞으로 수술 범위를 최소화해 환자 부담을 줄이는 방향으로 기준이 바뀔 전망이다.",
+      "김홍범·김형석 삼성서울병원 간담췌외과 교수 연구팀은 외과 분야 세계 최상위 학술지인 '국제외과학회지'(International Journal of Surgery) 최근호에 T1·T2 담낭암 환자에서 림프절 및 간의 절제를 최소화 해도 장기 생."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n15f160c8",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260711/134278919/1",
-    "title": "서울 동남·서남권 폭염경보 상향…“야외활동 자제”",
-    "summary": [
-      "기상청은 11일 오후 2시를 기해 서울 동남권과 서남권의 폭염주의보를 폭염경보로 상향한다고 밝혔다.폭염경보는 일 최고체감온도 35도 이상이 이틀 이상 이어질 것으로 예상되거나 더위로 큰 피해가 우려될 때 발효된다.폭염경보가 상향된 서울 동남권은 송파구·강동구·강남구·서초구를, 서남권은 양천구·강서구·구로구·금천구·영등포구·동작구·관악구를 포함한다.기상청은 전국 대부분 지역에서 최고체감온도가 33도 안팎, 경기 남부와 전북, 경상권을 중심으로는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n83e80408",
+    "id": "ndbf3134d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711030600063",
-    "title": "\"길 끊겨 못가요\" \"오이·토마토 썩어\"…침수에 허탈한 주민들",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711038400001",
+    "title": "李대통령, 몽골 나담축제 주빈 참석…金여사와 함께 활쏘기 체험",
     "summary": [
-      "(공주·부여=연합뉴스) 양영석 기자 = \"길이 끊겨서 못 가요.",
-      "이번 비에 둑이 또 무너져서 복구공사하고 있어\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndfa56d52",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711032200009",
-    "title": "쿠바, 또 대규모 정전…\"국가 전력망 전면 차단\"",
-    "summary": [
-      "(서울=연합뉴스) 곽민서 기자 = 만성적인 에너지난에 시달리는 쿠바에서 또다시 대규모 정전이 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4be68a33",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711032000061",
-    "title": "두 살 자녀 있던 집에 불 지른 혐의…30대 여성 조사",
-    "summary": [
-      "(용인=연합뉴스) 김솔 기자 = 남편과 다투다가 두 살배기 자녀가 있던 집 안에 불을 지른 혐의로 30대 여성이 경찰에 입건됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne974e6e7",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "37분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711030400072",
-    "title": "외신 \"SK하이닉스, 화려한 美데뷔\"…월가 \"반도체 랠리 가능성\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 10일(현지시간) 미국주식예탁증서(ADR)를 통해 뉴욕 증시에 입성한 SK하이닉스에 대해 주요 외신과 월가 ..."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n7653b575",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260711/134278824/1",
-    "title": "이 꽃, 왜 이렇게 불쾌하죠? - 폭력이 된 화환[청계천 옆 사진관]",
-    "summary": [
-      "이 꽃, 왜 이렇게 불쾌하죠? - 폭력이 된 화환[청계천 옆 사진관]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n51b1c809",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "58분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/07/11/LGRGX2GEKNBUVPPHBGCNH37SGU/",
-    "title": "김민석 “대통령 뒷받침은 내가 제일”…정청래 “李 끝까지 지킬 사람은 나”",
-    "summary": [
-      "김민석 “대통령 뒷받침은 내가 제일”…정청래 “李 끝까지 지킬 사람은 나”."
+      "(울란바타르=연합뉴스) 임형섭 설승은 기자 = 이재명 대통령은 국빈 방문 마지막 날인 11일(현지시간) 몽골 최대 명절인 나담 축제에 공식 주빈..."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "nffd546e9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705308",
+    "title": "美-中 이어 日 ‘재사용 로켓 걸음마’…실험센터에서 발사 후 착륙",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 일본의 실험용 재사용 로켓이 11일 첫 시험 비행에서 성공적으로 발사되어 안전하게 착륙했다고 AP 통신이 11일 보도했다.",
+      "재사용 가능 우주선 실험체 로켓(RV-X)은 일본 우주항공연구개발기구(JAXA)의 노시로 시험센터에서 1분도 채 안 되는 비행 동안 이륙해 공중에서 정지 비행을 한 후 수평으로 이동하다가 착륙했다.",
+      "이날 실험은 우주 팬 단체인 NVS가 전 과정을 생중계했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf658174b",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260710_0003704421",
+    "title": "반도체 투자 기대감 커지는 광주…첨단3지구 분양권 시장 온기",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 이우경인턴기자 = 총 895조원 규모의 반도체 투자가 예정된 전남광주통합특별시가 정부와 대기업의 '3대 메가프로젝트' 핵심 거점으로 떠오르면서 지역 부동산시장에도 관심이 쏠리고 있다.",
+      "지난달 29일 열린 '대한민국 대도약 3대 메가프로젝트 국민보고회'에서 정부와 삼성전자, SK하이닉스는 총 895조원 규모의 반도체 투자 계획을 발표했다.",
+      "투자 계획이 추진되면 산업 기반 확대와 함께 고용 창출이 예상되면서 지역 주택."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스",
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n9b0bf027",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260711/134279130/1",
+    "title": "韓총리, 청주 모충동 침수 피해현장 점검…“상습 침수지역 전수조사”",
+    "summary": [
+      "한성숙 국무총리가 11일 오전 집중호우가 있었던 충북 청주시 서원구 모충동을 방문해 피해 상황을 점검했다.현장에 도착한 한 총리는 청주시 관계자로부터 침수 피해 현황과 청주시에서 추진 중인 하수도 정비사업에 대해 보고받았다.한 총리는 “이전 수준 이상의 이상기후가 있을 수 있다”면서 청주시에 하수도 정비사업을 조속히 마무리해달라고 요청했다.또 집중호우 시 하천 수위 상승으로 인한 도심지 침수를 막기 위해 설치된 재해예방시설(모충1배수문)을 함께."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nc40cc0b5",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/11/MJSDSYLGMJSWMOBYGJSTKMZSGE/",
+    "title": "\"메시 남기려고 그러지!\"→'대낮의 강도 같은 행위' 아르헨티나 편파판정 논란 일파만파…'불만 커지고 있다' 폭발",
+    "summary": [
+      "[스포츠조선 김가을 기자]이 모든 것은 다 '축구의 신' 리오넬 메시(아르헨티나) 때문인 것일까.",
+      "편파판정 논란이 일파만파 퍼지고 있다.",
+      "아프리카의 '죈 아프리크'는 11일(이하 한국시각) '아르헨티나와 붙은 국가대표팀의 불만이 커지고 있다'며 이집트와 알제리 사례를 거론했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n09a0dda1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/07/11/GU4GGOJZMFSGINRRGYYTAZBZGA/",
+    "title": "비투비 이민혁, 붉은 조명 속 심박수 폭발 'Spicy'",
+    "summary": [
+      "[OSEN=최이정 기자] 그룹 비투비의 이민혁(HUTA)이 심박수를 폭발시키는 뜨겁고 강렬한 ‘Spicy’ 매력으로 컴백 화력을 끌어올렸다.이민혁(HUTA)의 새 싱글 앨범 ‘TEMPERATURE’는 오는 15일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+      "이에 앞서 비투비 컴퍼니는 공식 SNS 채널을 통해 이민혁의 새 싱글 앨범 ‘TEMPERAT."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n526092e8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711038300064",
+    "title": "단양 남한강서 수상보트 2대 충돌…50대 2명 부상",
+    "summary": [
+      "(청주=연합뉴스) 전창해 기자 = 11일 낮 12시 59분께 충북 단양군 단양읍 상진리 남한강에서 수상보트 2대가 충돌했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd5595de3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711038100055",
+    "title": "퇴비 업체서 지붕 패널 교체하던 60대 추락사",
+    "summary": [
+      "(익산=연합뉴스) 나보배 기자 = 11일 오후 1시 30분께 전북 익산시 왕궁면의 한 퇴비 제조업체에서 지붕 패널 교체 작업을 하던 Ａ(60대)..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n72e57e57",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260711/134279097/2",
+    "title": "골 기회 놓쳤다고 살해 협박…콜롬비아 선수 귀국도 못해",
+    "summary": [
+      "2026 북중미 월드컵에서 득점 기회를 살리지 못한 콜롬비아 선수가 살해 위협을 받아 귀국길에 오르지 못한 것으로 전해졌다.",
+      "콜롬비아축구협회는 11일(한국 시간) 공식 성명서를 내고 “스위스와 경기 이후 하민톤 캄파스와 그의 가족을 향한 생명과 신변에 대한 위협을 강력히 규탄한다”며 “어떤 선수도, 주변인들도 스포츠 무대에서 국가를 대표해 섰다는 이유로 위협을 받아서는 안 된다”고 밝혔다.",
+      "콜롬비아축구협회는 수사 당국에 협박자를 찾아내는 등 필."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n917ebc24",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260711/134279110/1",
+    "title": "김정은·시진핑, 북중 조약 65주년 축전 교환…“조중친선 전략적 발전”",
+    "summary": [
+      "북중 우호협력 및 상호원조조약 체결 65주년을 맞아 김정은 북한 국무위원장과 시진핑 중국 국가주석이 축전을 주고받으며 북중 협력관계를 강화하고자 하는 의지를 드러냈다.11일 북한 조선중앙통신에 따르면 김 위원장은 이날 시 주석에게 축전을 보내 “나는 총서기동지와 함께 훌륭한 역사와 전통을 주추로 하는 조중친선을 새로운 높이로 인도하여 가장 강력하고 전략적인 사회주의국가간관계의 본보기로 발전시켜나갈 용의가 있다”고 밝혔다.김 위원장은 “65년 전."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nca2b8344",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260711/134279107/1",
+    "title": "‘둘째는 한국 출산’ 안영미, 랍스터 올라간 조리원 식단 공개",
+    "summary": [
+      "코미디언 안영미가 출산 후 조리원에서 회복 중인 근황을 전했다.안영미는 10일 소셜미디어에 “3일 뒤면 이 호강도 끝이닷”이라는 글과 함께 사진을 게재했다.공개된 사진에는 랍스타 한 마리가 통째로 나온 조리원 식사가 담겼다.",
+      "안영미는 해당 게시물에 ‘시간아 천천히’라는 이진아의 노래를 첨부했다.안영미는 2004년 KBS 19기 공채 코미디언으로 데뷔 후 ‘SNL 코리아’, ‘라디오스타’ 등에서 다수의 예능에서 활약했다.그는 2015년부터 교제한."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n980624da",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711037800001",
+    "title": "與전준위원장 \"청년최고위원제 시대정신…최고위 신속의결해야\"",
+    "summary": [
+      "(서울=연합뉴스) 최평천 기자 = 더불어민주당 전당대회준비위원회 이학영 위원장은 11일 8·17 전당대회에서 청년 최고위원제를 도입하기로 한 전..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd59ae9ac",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202607082383i",
+    "title": "카드 게임의 고수는 어떻게 주식 투자 고수가 됐나 [김정남의 주식투자 프레임]",
+    "summary": [
+      "카드 게임의 고수는 어떻게 주식 투자 고수가 됐나 [김정남의 주식투자 프레임]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n36de24bf",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202607107963H",
+    "title": "\"월드컵 볼수록 화난다\"…나랏돈 수백억 날린 '고대 3인방' [혈세 누수 탐지기]",
+    "summary": [
+      "\"월드컵 볼수록 화난다\"…나랏돈 수백억 날린 '고대 3인방' [혈세 누수 탐지기]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nac3893fa",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026071192537",
+    "title": "\"아들 교도소 가니까 정리하려고\"…장윤기 父, 증거인멸 의혹 부인",
+    "summary": [
+      "\"아들 교도소 가니까 정리하려고\"…장윤기 父, 증거인멸 의혹 부인."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -646,8 +644,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
