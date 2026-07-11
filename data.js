@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-11 18:44:02
+// 마지막 업데이트: 2026-07-11 19:58:49
 window.NEWS_DB = [
   {
     "id": "n33718b4c",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkpyb2hoYVJZSU9oVDlvdjNVT1dkOFBkeHBJcEZGYW9OLWFlVF9rdWd1ZkJMSkNEcGczaTVlcGk0YWtKSFhFc0x1bGFzYkhjUnhzWmZJS0JibkFkQndOWGtwa2d6MXg1LVBiUXlUNFpyc3ZJT3U5ZXdJbUxHVjNsa1l0Qm9zaG55?oc=5",
     "title": "삼성 파운드리, 3년 만에 월간 흑자 기록…동력은 내부 HBM 물량",
     "summary": [
@@ -16,11 +16,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n16107a45",
+    "id": "n259d82ec",
     "category": "스포츠",
     "source": "네이트",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCUnNGeHlwbEFKMVBUWTJ6Tll1aHJZeldUc2dPU2ZRS3lXdzQ5R2hhTkxvaXZpVi1DNVY5T041dEZrcjhnM05VdFNzUnVnZy1Ub1EwQkVEaERDT0FuTlg0aVR0Yk85blBN?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FTjVINHB3aDV6MDVMbDZxUHhJb3htMUl4bTVyWUZqU0twckVaZ1FiY05aeHhzUWxJYlZHanRrTzZ5a01LZENwSDJPRGJ6Wjd4TjFDNzFn?oc=5",
     "title": "조민영, 야구장에 나타난 '손흥민?' [포토엔HD]",
     "summary": [
       "조민영, 야구장에 나타난 '손흥민?' [포토엔HD] 네이트."
@@ -137,17 +137,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb424412f",
+    "id": "ndda47320",
     "category": "사회",
-    "source": "v.daum.net",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
-    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
+    "source": "이치저널",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
+    "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
+      "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다 이치저널."
     ],
     "chips": [
-      "#채용",
+      "#AI",
       "#취업",
       "#고용"
     ]
@@ -318,10 +318,179 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n13a081a2",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/12/2026071204260474712",
+    "title": "박서진 父, 8년 숨긴 난청 고백 \"보청기 비싸 자식한테 미안해서…\"",
+    "summary": [
+      "박서진의 아버지가 7~8년 전부터 난청을 겪고도 보청기 비용이 부담돼 자식들에게 말하지 못했다고 고백했다.",
+      "11일 방영된 KBS2 '살림하는 남자들 시즌2' 464회에서는 트로트 가수 박서진이 아버지를 모시고 이비인후과를 찾는 모습이 그려졌다.",
+      "이날 박서진은 아버지의 청력 이상을 의심하고 가까운 병원에서 검사를 의뢰했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n62c028bf",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705295",
+    "title": "\"복근 없어져서 당황\"…'육상 카리나' 김민지가 공개한 24시간 다이어트 루틴",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 육상선수 김민지(30)가 복근을 만들기 위해 진행하는 자신만의 운동 루틴을 공개했다.",
+      "10일 김민지는 자신의 유튜브 채널에 '처음 찍는 24시간 다이어트 브이로그'라는 제목의 영상을 게시했다.",
+      "김민지는 24시간 내에 복근이 보이도록 만들기 위해 다이어트를 진행했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50bffdc2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712001251079",
+    "title": "이란·오만, 호르무즈 회담…CNN \"오만, 남북 2개 항로 제안\"(종합)",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협 통제권을 둘러싸고 미국과 이란 간 무력 충돌이 벌어진 가운데, 이란과 오만이 외무장관 회담을..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3323911",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705449",
+    "title": "트럼프, NYT 기자들에 소환장…에어포스원 보도 후 '언론 압박' 논란",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 도널드 트럼프 행정부가 뉴욕타임스(NYT) 기자 여러 명에게 연방대배심 출석을 요구하는 소환장을 발부했다.",
+      "NYT가 이번 주 트럼프 대통령이 카타르로부터 기증받은 새 전용기 '에어포스원'의 보안 문제를 보도한 직후 나온 조치다.",
+      "11일(현지시간) 뉴욕타임스(NYT)에 따르면 기자들에게 오는 수요일 뉴욕 맨해튼 연방대배심에 출석해 증언할 것을 요구하는 소환장이 발부됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n54d8a747",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712002100091",
+    "title": "올트먼에 가려졌던 브록먼, 오픈AI 2인자 굳히며 실권 장악",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 기업공개(IPO)를 앞둔 챗GPT 개발사 오픈AI의 실권이 공동창업자 그레그 브록먼 사장에게 집중되고..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n3cf8694d",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/12/2026071117545641341",
+    "title": "[오늘 날씨] 낮 최고 37도, 전국 '폭염특보'…남부 비 소식",
+    "summary": [
+      "일요일인 오늘(12일)은 전국이 가끔 구름 많겠고 낮 최고기온이 37도까지 올라 무더울 전망이다.",
+      "남부 지역에는 비가 내리겠다.",
+      "기상청에 따르면 이날 오전 6시부터 전남남해안과 경남서부에 비 내리는 곳이 있겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5ce15b2f",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "35분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/12/2026071204130315807",
+    "title": "민니 \"방콕 집은 세 채…母, 리조트 운영\"…집안 스케일 '깜짝'",
+    "summary": [
+      "아이들의 태국 멤버 민니가 남다른 집안 스케일로 모두를 놀라게 했다.",
+      "11일 방영된 JTBC '아는 형님' 536화에서는 걸그룹 아이들 멤버들이 새 앨범 활동을 앞두고 출연해 입담을 뽐냈다.",
+      "이날 서장훈은 태국 멤버 민니에게 집안 배경과 연습생 시절에 대해 물었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2768b894",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "45분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/12/2026071203282062257",
+    "title": "\"클롭 감독 확신\" 독일 얼마나 기뻤으면... 협상 중인데, 축구협회는 발표부터 했다",
+    "summary": [
+      "독일축구협회(DFB)는 위르겐 클롭 감독 선임에 얼마나 진심인 것일까.",
+      "아직 계약이 완료되지도 않았는데, DFB가 먼저 클롭 감독과 협상 사실을 공개했다.",
+      "로이터통신은 12일(한국시간) \"DFB가 지난 주말 미국 뉴욕에서 클롭 감독과 첫 논의를 마쳤으며, 클롭 감독이 독일 축구대표팀을 맡는 계약을 성사시킬 수 있다고 자신한다고 밝혔다\"고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf67c39f5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712002000071",
+    "title": "美국무, '반정부 시위' 5주년 쿠바에 \"늦기 전 개혁하라\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 마코 루비오 미국 국무부 장관은 11일(현지시간) 대규모 반정부 시위가 발생한 지 5년째를 맞은 쿠바 정권..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2f0c91f4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "58분 전",
+    "url": "https://www.newsis.com/view/NISX20260707_0003699276",
+    "title": "하수처리장이 공원으로…삼성E&A '지하화 기술'[짤막영상]",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 이우경인턴기자 = 과거 도심의 대표적 기피 시설로 꼽히던 하수처리장이 기술력을 바탕으로 새로운 도시 인프라의 모델을 제공한다.",
+      "삼성E&A가 제시한 '지하화 하수처리 기술'이 그 중심에 있다.",
+      "12일 삼성E&A 공식 유튜브 채널에 '미래를 위한 선택, 지하화 하수처리장'이라는 제목의 영상이 공개됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0541037a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712001900009",
+    "title": "룰라 환경정책에 브라질 아마존 파괴 10년래 최저…전년比 38%↓",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 브라질 정부가 추진한 환경 정책으로 상반기 아마존 열대우림의 산림 파괴 규모가 10년 만에 가장 ..."
+    ],
+    "chips": [
+      "#정책",
+      "#환경"
+    ]
+  },
+  {
     "id": "n062c6768",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/world-baseball/2026/07/12/GQZDQZJYGYZGKYZRGMZTANJTHE/",
     "title": "\"몸값 비싸지만, 삼진 적고 타율 높다\" 이정후 트레이드설 재점화…美 저명기자는 왜 PHI행 추천했나",
     "summary": [
@@ -337,7 +506,7 @@ window.NEWS_DB = [
     "id": "n7588b25d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260711_0003705292",
     "title": "데이트할 때도 '이 음식'으로…제이제이, 잘록한 허리비결?",
     "summary": [
@@ -353,7 +522,7 @@ window.NEWS_DB = [
     "id": "n678f794d",
     "category": "IT",
     "source": "테크M",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153308",
     "title": "[위클리 IT템] 귀가 즐거운 여름...주목할 오디오 신제품 3종",
     "summary": [
@@ -366,52 +535,40 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6d95a084",
+    "id": "n258c0d0b",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20250713000851007",
-    "title": "[표] 최근 10년간 윔블던 테니스 여자 단식 우승자",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/2026/07/12/KYGWNG7WEJF4XNQYSWH76LKHXI/",
+    "title": "올 여름 유럽이라면, 무조건 ‘아이다’… 베로나 페스티벌 110% 즐기는 법",
     "summary": [
-      "[표] 최근 10년간 윔블던 테니스 여자 단식 우승자."
+      "해가 뉘엿뉘엿 넘어가는 밤 9시, 객석 곳곳에 하나둘씩 촛불이 켜진다.",
+      "2000년 전 로마 원형경기장 돌계단에 걸터앉은 관객들이 개막을 기다리며 밝힌 촛불이다.",
+      "흰 옷 입은 여성 안내원이 무대에 올라 징을 치면 공연이 곧 시작된다는 뜻이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3491daff",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712001700007",
-    "title": "노스코바, 복식 파트너 무호바 꺾고 윔블던 첫 우승",
-    "summary": [
-      "(서울=연합뉴스) 김동한 기자 = 린다 노스코바(12위·체코)가 2026 윔블던 테니스대회(총상금 6천420만 파운드)에서 생애 첫 메이저 테니..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb0fa8890",
+    "id": "n676058de",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712001600072",
-    "title": "美법무부, '새 에어포스원 보안 우려' 보도 NYT 기자들에 소환장",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/national_general/2026/07/12/QDS3SA5KRBFIZAORHJTMJ5RN6Y/",
+    "title": "석유곤로에 솥단지 들고 간 그 시절 캠핑… ‘트란지스터’도 필수템",
     "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 법무부가 도널드 트럼프 대통령의 새 전용기(에어포스원) 관련 보안 우려를 보도한 뉴욕타임스(NYT) 기..."
+      "석유곤로에 솥단지 들고 간 그 시절 캠핑… ‘트란지스터’도 필수템."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
     "id": "nfaeda80d",
     "category": "사회",
     "source": "조선일보",
-    "time": "44분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/politics/blue_house/2026/07/12/2M5AO7XZPBFUJMXTS7FYKKBQRM/",
     "title": "‘6·3 선거 반성한다더니…’ 한달 만에 되살아난 민주당 ‘폭주 본색’",
     "summary": [
@@ -422,100 +579,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne290f445",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "44분 전",
-    "url": "https://www.chosun.com/national/people/2026/07/12/HHWGTUD35BGGPHIH7CA7E5L74E/",
-    "title": "내 인생의 생선 고등어… 굽는 냄새만으로도 배가 불렀다",
-    "summary": [
-      "내 인생의 생선 고등어… 굽는 냄새만으로도 배가 불렀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n325e45e4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "44분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/07/12/VA7VGWZ4D5FNVJYK5RQSXAMUTI/",
-    "title": "원화 스테이블코인·온체인 파생상품, 제도권 내 끌어들여야",
-    "summary": [
-      "원화 스테이블코인·온체인 파생상품, 제도권 내 끌어들여야."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n43018506",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "47분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705307",
-    "title": "\"쳐다봐도 말 나오더라\"…메시, 불륜설 상대 기자 만나 직접 입 열었다",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 리오넬 메시가 최근 온라인에서 확산한 불륜설을 직접 언급하며 루머를 일축했다.",
-      "최근 아르헨티나 매체 TN에 따르면 메시는 2026 국제축구연맹(FIFA) 북중미 월드컵 32강전 카보베르데와의 경기에서 승리한 뒤 믹스트존(공동취재구역)에서 아르헨티나 방송사 텔레페 소속 기자 소피 마르티네스를 만났다.",
-      "메시는 마르티네스를 발견하자 먼저 다가가 인사를 건넸고 인터뷰에 앞서 \"내가 쳐다보면 뭐라 하고 인사하면 왜 인."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf14a65d6",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "50분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712001500091",
-    "title": "메타, 인스타 공개사진 AI 활용 기능 사흘만에 삭제",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 메타가 인공지능(AI) 이미지 모델에서 사회관계망서비스(SNS) 공개 사진을 활용할 수 있는 기능을 ..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ndf470346",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "57분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705446",
-    "title": "이란·오만, 호르무즈 해협 안전 항행 논의…\"외교로 긴장 완화\"",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 이란과 오만이 최근 중동 지역 긴장 고조 속에서 외교적 해법과 호르무즈 해협의 안전한 항행 방안을 논의했다.",
-      "11일(현지 시간) 이란 국영 타스님 통신에 따르면 아바스 아라그치 이란 외무장관은 오만 무스카트에서 바드르 알 부사이디 오만 외무장관은과 회담을 갖고 최근 역내 정세와 외교적 해결 방안을 협의했다.",
-      "알부사이디 장관은 회담에서 \"역내 추가 긴장을 막기 위해 외교를 활용해야 한다\"는 오만의 입장을 밝히며, 미."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n98bcc71f",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705441",
-    "title": "'AI'만 붙이면 주가 오른다?…반짝 랠리 후 힘 빠진 美 기업들",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 인공지능(AI) 열풍에 편승하기 위해 사명을 바꾼 미국 상장사들이 초기에는 주가 상승 효과를 누렸지만, 대부분 이를 유지하지 못한 것으로 나타났다.",
-      "11일(현지 시간) 파이낸셜타임스(FT)에 따르면 2023년 이후 최소 27개 미국 상장사가 AI 관련 용어를 사명에 추가하거나 AI 중심 기업으로 사업 방향을 전환했다.",
-      "가장 대표적인 사례는 한때 운동화 제조업체였던 올버즈다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "nb9981dec",
     "category": "사회",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260711/134279501/1",
     "title": "李 대통령, 서울공항 도착…3박5일 나토·몽골 순방 마무리",
     "summary": [
@@ -530,7 +597,7 @@ window.NEWS_DB = [
     "id": "n3ef7bd6c",
     "category": "IT",
     "source": "아시아경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://view.asiae.co.kr/article/2026070915493785246",
     "title": "중국의 '삼전닉스' CXMT 상장에 올라탈 수혜주는? [주末머니]",
     "summary": [
@@ -547,7 +614,7 @@ window.NEWS_DB = [
     "id": "nab740db7",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1",
     "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
     "summary": [
@@ -562,7 +629,7 @@ window.NEWS_DB = [
     "id": "nef7d9e1c",
     "category": "사회",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260711/134279467/1",
     "title": "미·이란 긴장 재고조…파키스탄·사우디 “누구에게도 이익 안 돼”",
     "summary": [
@@ -572,69 +639,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "na1bd9c14",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260711/134279455/1",
-    "title": "유럽, 호르무즈 ‘자발적 통행료’ 검토…강제 부과는 반대",
-    "summary": [
-      "유럽 국가들이 호르무즈 해협의 안전 확보를 위한 방안으로 국제기구의 승인을 전제로 한 ‘자발적 서비스 요금’ 도입을 검토하고 있는 것으로 알려졌다.",
-      "다만 국제법상 통행권을 침해하는 강제 통행료 부과에는 반대 입장을 유지하고 있다.11일(현지 시간) 가디언에 따르면 유럽은 유엔 산하 국제해사기구(IMO)의 지지를 받는 것을 전제로, 호르무즈 해협을 이용하는 선박들이 항해 안전과 환경 보호 등을 위한 서비스 비용을 자발적으로 부담하는 방안을 논의하."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n92f340f0",
-    "category": "IT",
-    "source": "테크M",
-    "time": "5시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153307",
-    "title": "[글로벌] 오픈AI·메타, 업무용 AI 에이전트 동시 공개...앤트로픽에 도전장",
-    "summary": [
-      "오픈AI와 메타가 같은 날 차세대 인공지능(AI) 모델과 업무용 AI 에이전트를 공개했습니다.",
-      "AI 경쟁의 중심이 모델 성능에서 이메일 작성, 일정 관리, 문서 작업, 코딩 등을 직접 수행하는 기업용 에이전트로 옮겨가는 모습입니다.오픈AI는 지난 9일(현지시간) 차세대 주력 모델 'GPT-5.6 솔'과 업무용 AI 에이전트 '챗GPT 워크'를 출시했습니다.",
-      "GPT-5.6은 지난달 공개가 예고됐으나 미국 정부가 국가안보와 사이버보안 관련 추가 검."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n3465d8db",
-    "category": "IT",
-    "source": "테크M",
-    "time": "5시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153306",
-    "title": "[글로벌] S&P, 오라클 신용등급 'BBB-'로 강등...AI 인프라 투자 부담 반영",
-    "summary": [
-      "국제신용평가사 스탠더드앤드푸어스(S&P)가 오라클 신용등급을 투기등급 바로 위 단계까지 낮췄습니다.",
-      "인공지능(AI) 인프라 사업 확대에 필요한 대규모 투자가 재무 부담으로 이어지고 있다는 판단입니다.S&P는 지난 9일(현지시간) 소프트웨어·클라우드 기업 오라클의 신용등급을 기존 'BBB'에서 'BBB-'로 한단계 하향 조정했다고 발표했습니다.",
-      "BBB-는 투자적격등급 가운데 가장 낮은 등급으로, 이보다 한 단계 낮아지면 투기등급인 정크본드로 분류."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n75917e4d",
-    "category": "IT",
-    "source": "테크M",
-    "time": "5시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153305",
-    "title": "[글로벌] 전기차 음극재 中 점유율 94.2%...미·유럽 공급망 규제에도 쏠림 지속",
-    "summary": [
-      "미국과 유럽을 중심으로 배터리 공급망 규제가 강화되고 있지만, 전기차용 음극재 시장은 여전히 중국 기업이 대부분을 차지하는 것으로 나타났습니다.",
-      "중국을 제외한 시장이 빠르게 성장하고 있음에도 공급망 다변화는 더디게 진행되고 있다는 분석입니다.시장조사업체 SNE리서치에 따르면 올해 1월부터 5월까지 글로벌 전기차용 음극재 적재량은 56만3000톤으로, 지난해 같은 기간 47만9000톤보다 17.6% 증가했습니다.같은 기간 중국을 제외한 글로벌 시."
-    ],
-    "chips": [
-      "#정책",
-      "#전기차"
-    ]
   }
 ];
 
@@ -643,14 +647,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
