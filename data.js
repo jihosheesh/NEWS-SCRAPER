@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-11 07:05:34
+// 마지막 업데이트: 2026-07-11 09:16:26
 window.NEWS_DB = [
   {
     "id": "n33718b4c",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkpyb2hoYVJZSU9oVDlvdjNVT1dkOFBkeHBJcEZGYW9OLWFlVF9rdWd1ZkJMSkNEcGczaTVlcGk0YWtKSFhFc0x1bGFzYkhjUnhzWmZJS0JibkFkQndOWGtwa2d6MXg1LVBiUXlUNFpyc3ZJT3U5ZXdJbUxHVjNsa1l0Qm9zaG55?oc=5",
     "title": "삼성 파운드리, 3년 만에 월간 흑자 기록…동력은 내부 HBM 물량",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n259d82ec",
     "category": "스포츠",
     "source": "네이트",
-    "time": "21시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FTjVINHB3aDV6MDVMbDZxUHhJb3htMUl4bTVyWUZqU0twckVaZ1FiY05aeHhzUWxJYlZHanRrTzZ5a01LZENwSDJPRGJ6Wjd4TjFDNzFn?oc=5",
     "title": "조민영, 야구장에 나타난 '손흥민?' [포토엔HD]",
     "summary": [
@@ -31,25 +31,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3a07552f",
-    "category": "IT",
-    "source": "KPI뉴스",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpeVRTallaOXdpZFRabnBsTWprbzU5bnc2bGVTWXpKaHFhbGJHYU9zbnFjUXZsaG5XeHVnR1hXUU45MnQtckpnWkdOdzNERXJpanVZ0gFTQVVfeXFMUGl5VFNqWVo5d2lkVFpucGxNamtvNTludzZsZVNZekpocWFsYkdhT3NucWNRdmxobld4dWdHWFdRTjkydC1ySmdaR053M0RFcmlqdVk?oc=5",
-    "title": "HBM 판도 흔드는 ′베이스 다이′…삼성전자에 기회 왔다",
-    "summary": [
-      "HBM 판도 흔드는 ′베이스 다이′…삼성전자에 기회 왔다 KPI뉴스."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "nbe0a91d8",
     "category": "IT",
     "source": "매일경제",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pNjM3NVdqM2c2UWx3TkNrM0Zxb3hjUDZkOW9UUmt6M2lCQTE5Qnd3RVFGUk5YemZIMHVSamVSalBxMDk0MUNfMnl1b2Mwa01VUHE5WDFB?oc=5",
     "title": "“H200 구매 허용한다”…中 수출길 열린 엔비디아",
     "summary": [
@@ -79,7 +64,7 @@ window.NEWS_DB = [
     "id": "n163a3950",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzbXkxZmFBM0pzb01LYS13Z1RGX3BRd2dQZWVrdmlOY1g3dUtJY1VTVUVXcVVJMWowcmxibjNsNVBHbTZSNWQzb2lrRUtrLVFLdThtOEU2OFhqUmFiZHF3T1RQSFVBR0oycENHMg?oc=5",
     "title": "엔비디아 독주 흔들리나…AMD·구글·중국까지 AI 반도체 추격전",
     "summary": [
@@ -152,22 +137,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndda47320",
-    "category": "사회",
-    "source": "이치저널",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
-    "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
-    "summary": [
-      "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다 이치저널."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
@@ -197,6 +166,38 @@ window.NEWS_DB = [
       "#AI",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n2aad78a4",
+    "category": "사회",
+    "source": "스포츠동아",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
+    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
+    "summary": [
+      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 스포츠동아."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nfbd428d5",
+    "category": "IT",
+    "source": "중앙일보",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
+    "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
+    "summary": [
+      "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다 중앙일보."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스",
+      "#채용"
     ]
   },
   {
@@ -368,7 +369,7 @@ window.NEWS_DB = [
     "id": "n1a1c536d",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "3분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153298",
     "title": "[카드뉴스] 세계가 40조원을 맡겼다.. SK하이닉스가 'AI 시대의 핵심 기업'이 된 이유는?",
     "summary": [
@@ -383,258 +384,260 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n672555bc",
+    "id": "n50a4338f",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705312",
-    "title": "\"스마트 돌봄\"…우송대, 대전 중구청 등과 민·관·학 협약",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/entertainments/celebrity/2026/07/11/SOOL7CNAGRCBDMSL6FJWGELVPM/",
+    "title": "‘둘째는 한국 출산’ 안영미, 랍스터 올라간 조리원 식단 공개",
     "summary": [
-      "[대전=뉴시스]유순상 기자 = 우송대학교는 바이오헬스 혁신융합대학사업단과 산학협력단은 지난 10일 대전 중구청에서 대전 중구의사회, 국민건강보험공단 대전중부지사, 중구청과 민·관·학 스마트돌봄 업무협약을 체결했다고 11일 밝혔다.",
-      "5개 기관은 각기관 보유 전문성과 자원을 연계, 지역 주민이 체감할 수 있는 건강관리 서비스를 제공한다.",
-      "지역 어르신을 위한 건강 돌봄 프로그램을 공동 추진하고 바이오헬스 기술과 의료·복지 서비스를 연계한 지역 맞춤형."
+      "‘둘째는 한국 출산’ 안영미, 랍스터 올라간 조리원 식단 공개."
     ],
     "chips": [
-      "#교육",
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n0c757b22",
+    "id": "nfd340765",
     "category": "사회",
     "source": "뉴시스",
     "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260709_0003702825",
-    "title": "담낭암은 무조건 간 절제?…\"안해도 생존율 비슷\"",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705260",
+    "title": "\"또 줄 서겠네\"…2년 전 품절 대란 부른 성심당 안녕 크레페 돌아왔다",
     "summary": [
-      "[서울=뉴시스] 류난영 기자 = 치료가 어려운 담낭암은 수술이 가능하면 생존율을 높이기위해 수술 범위가 커지는 경우가 많은데 앞으로 수술 범위를 최소화해 환자 부담을 줄이는 방향으로 기준이 바뀔 전망이다.",
-      "김홍범·김형석 삼성서울병원 간담췌외과 교수 연구팀은 외과 분야 세계 최상위 학술지인 '국제외과학회지'(International Journal of Surgery) 최근호에 T1·T2 담낭암 환자에서 림프절 및 간의 절제를 최소화 해도 장기 생."
+      "[서울=뉴시스]전민영 인턴 기자 = 대전 대표 베이커리 성심당이 여름 시즌을 맞아 인기 과일 디저트를 잇달아 재출시하며 소비자들의 관심을 끌고 있다.",
+      "성심당 케익부띠끄는 10일 공식 인스타그램을 통해 \"많은 분들이 기다려주셨던 안녕 크레페가 다시 돌아왔다\"고 밝혔다.",
+      "이어 \"한 장 한 장 정성스럽게 구운 크레페와 촉촉한 시트를 층층이 쌓고 고소한 커스터드 크림과 부드러운 생크림을 번갈아 샌드해 더욱 풍성한 맛을 담았다\"며 \"상큼한 샤인머스캣과."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "ndbf3134d",
+    "id": "nf5e484c1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/11/MJSGGYRXGU2TKNBXHA4TGZDFG4/",
+    "title": "'괴물급 활약' 누구보다 당당한 올스타 류현진 \"후반기 목표는 오직 가을야구\" [올스타전 현장]",
+    "summary": [
+      "[잠실=스포츠조선 김용 기자] \"개인적인 목표는 없다.",
+      "작년처럼 가을야구에 갈 수 있으면 좋겠다.\" '괴물' 류현진(한화)이 성공적인 전반기를 마치고 축제의 무대에 선다.",
+      "류현진은 11일 잠실구장에서 열리는 KBO리그 올스타전 나눔 올스타로 감독 추천 선수로 선발됐다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n93b304bf",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260711/134279258/1",
+    "title": "잠실에서의 마지막 올스타전도 만원관중…뜨거운 열기 속 5년 연속 매진",
+    "summary": [
+      "서울에 내려진 폭염 특보에도 프로야구의 열기는 뜨거웠다.",
+      "올스타전이 열리는 잠실구장에 만원 관중이 들었다.한국야구위원회(KBO)는 11일 잠실구장에서 벌어지는 2026 KBO 올스타전 입장권 2만3750장이 모두 팔렸다고 밝혔다.코로나19로 인해 2020년과 2021년 올스타전이 열리지 않은 가운데 2022년부터 올해까지 5년 연속 매진 행진을 벌였다.이번 시즌 프로야구는 역대 전반기 최다 관중 신기록을 세웠다.",
+      "전반기 424경기 만에 총 76."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd7fb8259",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/11/GQYWGYTFG42WEY3GHFRWKM3CMU/",
+    "title": "'자발적 미혼모' 사유리, 옷 안 벗겨지는게 신기할 정도…장난꾸러기 엄마",
+    "summary": [
+      "[OSEN=장우영 기자] 방송인 사유리가 아들 젠과의 일상으로 훈훈함을 자아냈다.사유리는 11일 자신의 소셜 계정에 “노을”이라는 짧은 글과 함께 여러 장의 사진을 게재했다.공개된 사진에서 사유리는 아들 젠과 이국적인 풍경을 배경으로 놀이터에서 장난기 넘치는 시간을 보내고 있다.",
+      "사유리 특유의 유쾌한 에너지가 사진을 뚫고 나오는 가운데 아들 젠은 사랑스러운."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nefe0858a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/11/GRRTOYJRHEYDQOJWMIYGKYZXGM/",
+    "title": "“불펜 동료, 팬들에게 죄송하다” 갑자기 등판 취소에 올스타 불참까지, 무릎 아픈 오타니 사죄의 변",
+    "summary": [
+      "[OSEN=조형래 기자] LA 다저스 오타니 쇼헤이는 올스타전에서 볼 수 없다.",
+      "무릎 부상으로 올스타전 불참을 결정했고, 전반기 잔여 등판도 취소됐다.",
+      "오타니는 거듭 사죄의 말을 전했다.데이브 로버츠 다저스 감독은 11일(이하 한국시간) 미국 캘리포니아주 유니클로필드 앳 다저스타디움에서 열린 애리조나 다이아몬드백스와의 경기를 앞두고 오타니의 선발 등판 취소."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6cb1c545",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711038400001",
-    "title": "李대통령, 몽골 나담축제 주빈 참석…金여사와 함께 활쏘기 체험",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711044300055",
+    "title": "순창 한우농장서 올해 첫 럼피스킨병 발생…긴급 방역",
     "summary": [
-      "(울란바타르=연합뉴스) 임형섭 설승은 기자 = 이재명 대통령은 국빈 방문 마지막 날인 11일(현지시간) 몽골 최대 명절인 나담 축제에 공식 주빈..."
+      "(순창=연합뉴스) 나보배 기자 = 전북자치도는 순창군의 한 한우농장에서 올해 처음으로 럼피스킨병이 발생했다고 11일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncda2b6c9",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260711/134279253/1",
+    "title": "최태원, SK하이닉스 美상장 최고의 날 ‘S KHY’ 띄어쓰기 티커 띄운 까닭",
+    "summary": [
+      "최태원 SK그룹 회장이 SK하이닉스 미국주식예탁증서(ADR)의 미국 나스닥 상장을 기념하며 사회관계망서비스(SNS)에 올린 게시물이 화제다.11일 업계에 따르면 최 회장은 이날 자신의 SNS에 미국 뉴욕 타임스스퀘어 대형 전광판에 송출된 SK하이닉스 상장 기념 영상을 게시했다.",
+      "영상에는 이날 나스닥에 상장한 ‘역사적인 날’ 글로벌 자본주의의 중심가에서 SK하이닉스 이니셜이 대형 전광판을 통해 상영되는 모습이 담겼다.최 회장은 영상 게시물과 함께."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n21094bef",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260711/134279250/1",
+    "title": "박지현, 시카고전 7분44초 소화…WNBA LA스파크스 2연승",
+    "summary": [
+      "미국여자프로농구(WNBA)에서 활약 중인 박지현(로스앤젤레스 스파크스)이 7분44초 동안 코트를 누비며 팀의 2연승에 힘을 보탰다.로스앤젤레스(LA) 스파크스는 11일(한국 시간) 미국 캘리포니아주 LA의 크립토닷컴 아레나에서 열린 2026 WNBA 정규리그 시카고 스카이와의 경기에서 102-87 승리를 거뒀다.이날 승리로 LA 스파크스는 10승11패를 기록, 9위에 위치했다.벤치에서 경기를 시작한 박지현은 7분44초 동안 코트를 누볐다.한 차."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ae9a675",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260711/134279247/1",
+    "title": "“백악관을 좀 더 먼 곳에서 보게되나”…라파예트 광장 등 울타리 설치 논란",
+    "summary": [
+      "미국 워싱턴 백악관 주변의 공공장소에 울타리를 설치하는 방안이 추진중이어서 관광객들이 백악관을 구경하는 거리가 멀어질 전망이다.10일 워싱턴 포스트(WP) 보도에 따르면 도널드 트럼프 행정부는 백악관 뒤편에 위치한 관광객과 시위대가 자주 모이는 라파예트 광장에 영구적으로 울타리를 설치하는 방안을 추진하고 있다.10일 오후 공개된 제안서에서 따르면 행정부 관계자들은 이러한 조치가 공원에 대한 미국인들의 접근권과 대통령 보호의 필요성 사이에서 균형."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nffd546e9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260711_0003705308",
-    "title": "美-中 이어 日 ‘재사용 로켓 걸음마’…실험센터에서 발사 후 착륙",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 일본의 실험용 재사용 로켓이 11일 첫 시험 비행에서 성공적으로 발사되어 안전하게 착륙했다고 AP 통신이 11일 보도했다.",
-      "재사용 가능 우주선 실험체 로켓(RV-X)은 일본 우주항공연구개발기구(JAXA)의 노시로 시험센터에서 1분도 채 안 되는 비행 동안 이륙해 공중에서 정지 비행을 한 후 수평으로 이동하다가 착륙했다.",
-      "이날 실험은 우주 팬 단체인 NVS가 전 과정을 생중계했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf658174b",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260710_0003704421",
-    "title": "반도체 투자 기대감 커지는 광주…첨단3지구 분양권 시장 온기",
-    "summary": [
-      "[서울=뉴시스] 강세훈 기자, 이우경인턴기자 = 총 895조원 규모의 반도체 투자가 예정된 전남광주통합특별시가 정부와 대기업의 '3대 메가프로젝트' 핵심 거점으로 떠오르면서 지역 부동산시장에도 관심이 쏠리고 있다.",
-      "지난달 29일 열린 '대한민국 대도약 3대 메가프로젝트 국민보고회'에서 정부와 삼성전자, SK하이닉스는 총 895조원 규모의 반도체 투자 계획을 발표했다.",
-      "투자 계획이 추진되면 산업 기반 확대와 함께 고용 창출이 예상되면서 지역 주택."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스",
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n9b0bf027",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260711/134279130/1",
-    "title": "韓총리, 청주 모충동 침수 피해현장 점검…“상습 침수지역 전수조사”",
-    "summary": [
-      "한성숙 국무총리가 11일 오전 집중호우가 있었던 충북 청주시 서원구 모충동을 방문해 피해 상황을 점검했다.현장에 도착한 한 총리는 청주시 관계자로부터 침수 피해 현황과 청주시에서 추진 중인 하수도 정비사업에 대해 보고받았다.한 총리는 “이전 수준 이상의 이상기후가 있을 수 있다”면서 청주시에 하수도 정비사업을 조속히 마무리해달라고 요청했다.또 집중호우 시 하천 수위 상승으로 인한 도심지 침수를 막기 위해 설치된 재해예방시설(모충1배수문)을 함께."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nc40cc0b5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/football/2026/07/11/MJSDSYLGMJSWMOBYGJSTKMZSGE/",
-    "title": "\"메시 남기려고 그러지!\"→'대낮의 강도 같은 행위' 아르헨티나 편파판정 논란 일파만파…'불만 커지고 있다' 폭발",
-    "summary": [
-      "[스포츠조선 김가을 기자]이 모든 것은 다 '축구의 신' 리오넬 메시(아르헨티나) 때문인 것일까.",
-      "편파판정 논란이 일파만파 퍼지고 있다.",
-      "아프리카의 '죈 아프리크'는 11일(이하 한국시각) '아르헨티나와 붙은 국가대표팀의 불만이 커지고 있다'며 이집트와 알제리 사례를 거론했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09a0dda1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/07/11/GU4GGOJZMFSGINRRGYYTAZBZGA/",
-    "title": "비투비 이민혁, 붉은 조명 속 심박수 폭발 'Spicy'",
-    "summary": [
-      "[OSEN=최이정 기자] 그룹 비투비의 이민혁(HUTA)이 심박수를 폭발시키는 뜨겁고 강렬한 ‘Spicy’ 매력으로 컴백 화력을 끌어올렸다.이민혁(HUTA)의 새 싱글 앨범 ‘TEMPERATURE’는 오는 15일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
-      "이에 앞서 비투비 컴퍼니는 공식 SNS 채널을 통해 이민혁의 새 싱글 앨범 ‘TEMPERAT."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n526092e8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711038300064",
-    "title": "단양 남한강서 수상보트 2대 충돌…50대 2명 부상",
-    "summary": [
-      "(청주=연합뉴스) 전창해 기자 = 11일 낮 12시 59분께 충북 단양군 단양읍 상진리 남한강에서 수상보트 2대가 충돌했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd5595de3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711038100055",
-    "title": "퇴비 업체서 지붕 패널 교체하던 60대 추락사",
-    "summary": [
-      "(익산=연합뉴스) 나보배 기자 = 11일 오후 1시 30분께 전북 익산시 왕궁면의 한 퇴비 제조업체에서 지붕 패널 교체 작업을 하던 Ａ(60대)..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n72e57e57",
-    "category": "스포츠",
-    "source": "동아일보",
+    "id": "nbba436cb",
+    "category": "경제",
+    "source": "머니투데이",
     "time": "12분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260711/134279097/2",
-    "title": "골 기회 놓쳤다고 살해 협박…콜롬비아 선수 귀국도 못해",
+    "url": "https://www.mt.co.kr/culture/2026/07/11/2026071117462841461",
+    "title": "'세계 1위 수난' 셰플러 이어 코다도 컷 탈락... 유해란 2R 공동 3위, 메이저 2연패 도전 [LPGA]",
     "summary": [
-      "2026 북중미 월드컵에서 득점 기회를 살리지 못한 콜롬비아 선수가 살해 위협을 받아 귀국길에 오르지 못한 것으로 전해졌다.",
-      "콜롬비아축구협회는 11일(한국 시간) 공식 성명서를 내고 “스위스와 경기 이후 하민톤 캄파스와 그의 가족을 향한 생명과 신변에 대한 위협을 강력히 규탄한다”며 “어떤 선수도, 주변인들도 스포츠 무대에서 국가를 대표해 섰다는 이유로 위협을 받아서는 안 된다”고 밝혔다.",
-      "콜롬비아축구협회는 수사 당국에 협박자를 찾아내는 등 필."
+      "미국프로골프(PGA) 투어에선 스코티 셰플러(30·미국)가, 미국여자프로골프(LPGA) 투어에선 넬리 코다(28·미국)이 나란히 컷 탈락의 수모를 겪었다.",
+      "코다는 11일(한국시간) 프랑스 에비앙레뱅의 에비앙 리조트 골프 클럽(파71)에서 열린 미국여자프로골프(LPGA) 투어 네 번째 메이저 대회 아문디 에비앙 챔피언십(총상금 910만달러) 2라운드에서 버디 3개와 보기 하나를 묶어 2타를 줄이고도 중간 합계 1오버파 14."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n917ebc24",
+    "id": "n36ce8b2f",
     "category": "사회",
-    "source": "동아일보",
+    "source": "뉴시스",
     "time": "13분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260711/134279110/1",
-    "title": "김정은·시진핑, 북중 조약 65주년 축전 교환…“조중친선 전략적 발전”",
+    "url": "https://www.newsis.com/view/NISX20260711_0003705351",
+    "title": "양양서 수산물 채취하던 80대 여성 의식 잃은 채 발견",
     "summary": [
-      "북중 우호협력 및 상호원조조약 체결 65주년을 맞아 김정은 북한 국무위원장과 시진핑 중국 국가주석이 축전을 주고받으며 북중 협력관계를 강화하고자 하는 의지를 드러냈다.11일 북한 조선중앙통신에 따르면 김 위원장은 이날 시 주석에게 축전을 보내 “나는 총서기동지와 함께 훌륭한 역사와 전통을 주추로 하는 조중친선을 새로운 높이로 인도하여 가장 강력하고 전략적인 사회주의국가간관계의 본보기로 발전시켜나갈 용의가 있다”고 밝혔다.김 위원장은 “65년 전."
+      "[강릉=뉴시스]이순철 기자 = 강원 양양군 남애해변에서 수산물을 채취하던 80대 여성이 A씨가 의식을 잃은 채 발견됐다.",
+      "강릉해경에 따르면 11일 오후 2시 9분께 양양군 남애 1리 해변 거북바위 인근 백사장(수제선 인근)에 여성 1명(80대)이 의식을 잃은 채 쓰러져 있다는 신고를 접수됐다.",
+      "신고를 받은 강릉해경은 소방과 함께 긴급 출동해 심폐소생술 등 응급처치를 실시했다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "nca2b8344",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "nbc32f33a",
+    "category": "스포츠",
+    "source": "머니투데이",
     "time": "14분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260711/134279107/1",
-    "title": "‘둘째는 한국 출산’ 안영미, 랍스터 올라간 조리원 식단 공개",
+    "url": "https://www.mt.co.kr/society/2026/07/11/2026071117245031017",
+    "title": "[내일 날씨] 전국 '펄펄' 끓는 날씨…낮 최고 37도",
     "summary": [
-      "코미디언 안영미가 출산 후 조리원에서 회복 중인 근황을 전했다.안영미는 10일 소셜미디어에 “3일 뒤면 이 호강도 끝이닷”이라는 글과 함께 사진을 게재했다.공개된 사진에는 랍스타 한 마리가 통째로 나온 조리원 식사가 담겼다.",
-      "안영미는 해당 게시물에 ‘시간아 천천히’라는 이진아의 노래를 첨부했다.안영미는 2004년 KBS 19기 공채 코미디언으로 데뷔 후 ‘SNL 코리아’, ‘라디오스타’ 등에서 다수의 예능에서 활약했다.그는 2015년부터 교제한."
+      "일요일(12일)은 전국이 가끔 구름 많겠고 낮 최고기온이 37도까지 올라 무더울 전망이다.",
+      "남부 지역에는 비가 내리겠다.",
+      "11일 기상청에 따르면 내일 오전 6시부터 전남남해안과 경남서부에 비 내리는 곳이 있겠다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n980624da",
+    "id": "n7ee968fd",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/11/2026071115331759277",
+    "title": "'차세대 손흥민·이강인 길 막히나' 金 실패 시 '역대급 후폭풍' 확실시... 뒤 없는 이민성호 '배수의 진'",
+    "summary": [
+      "대한민국 U-23 축구대표팀의 지휘봉을 잡은 이민성 감독이 사령탑 취임 당시 공언했던 첫 다짐과 전혀 다른 방식으로 아시안게임 대표팀 선수들을 선발하며 스스로 배수의 진을 쳤다.",
+      "실력이 출중한 미필 유망주들을 외면한 채 이미 병역 의무를 마친 군필 선수들을 대거 승선시키는 모순된 선택을 감행하면서 비판 여론이 들끓고 있다.",
+      "이민성 감독은 과거 U-23 대표팀 사령탑 취임식 당시 \"동기부여를 갖고 선수를 위해서라도 내 한 몸이 부숴지더라도 선수들."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "na8b29704",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/11/2026071117400977350",
+    "title": "세종포천고속도로 '5중 연쇄 추돌'…60대 남성 심정지",
+    "summary": [
+      "세종포천고속도로에서 연쇄 추돌 사고가 발생해 심정지 등 인명피해가 났다.",
+      "11일 뉴스1에 따르면 이날 오후 2시25분쯤 경기 하남시 세종포천고속도로 포천 방향 고덕터널에서 5중 추돌 사고가 발생했다.",
+      "사고는 1차로를 주행 중이던 트라제 승용차가 앞서가던 K5 승용차를 들이받으면서 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n23d3932d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260711037800001",
-    "title": "與전준위원장 \"청년최고위원제 시대정신…최고위 신속의결해야\"",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711043600083",
+    "title": "베이징서 북중조약 65주년 행사…연회에 '서열 5위' 차이치 참석",
     "summary": [
-      "(서울=연합뉴스) 최평천 기자 = 더불어민주당 전당대회준비위원회 이학영 위원장은 11일 8·17 전당대회에서 청년 최고위원제를 도입하기로 한 전..."
+      "(베이징=연합뉴스) 한종구 특파원 = 북한과 중국이 맺은 우호협력 및 상호원조조약(북중 우호조약) 체결 65주년을 기념하는 행사가 중국 베이징에..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd59ae9ac",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607082383i",
-    "title": "카드 게임의 고수는 어떻게 주식 투자 고수가 됐나 [김정남의 주식투자 프레임]",
+    "id": "n300a86ab",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711029751001",
+    "title": "金 \"대통령 뒷받침은 내가 잘해\"…鄭 \"대통령 지킬 사람은 나\"(종합)",
     "summary": [
-      "카드 게임의 고수는 어떻게 주식 투자 고수가 됐나 [김정남의 주식투자 프레임]."
+      "(서울=연합뉴스) 최평천 기자 = 더불어민주당 당권 주자들은 주말인 11일에도 지역을 돌며 '명심(明心·이 대통령의 의중) 경쟁'에 나섰다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36de24bf",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607107963H",
-    "title": "\"월드컵 볼수록 화난다\"…나랏돈 수백억 날린 '고대 3인방' [혈세 누수 탐지기]",
-    "summary": [
-      "\"월드컵 볼수록 화난다\"…나랏돈 수백억 날린 '고대 3인방' [혈세 누수 탐지기]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nac3893fa",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026071192537",
-    "title": "\"아들 교도소 가니까 정리하려고\"…장윤기 父, 증거인멸 의혹 부인",
-    "summary": [
-      "\"아들 교도소 가니까 정리하려고\"…장윤기 父, 증거인멸 의혹 부인."
-    ],
-    "chips": [
-      "#뉴스"
+      "#정치"
     ]
   }
 ];
@@ -644,20 +647,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
