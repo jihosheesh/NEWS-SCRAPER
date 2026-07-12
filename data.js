@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-12 05:16:54
+// 마지막 업데이트: 2026-07-12 07:58:34
 window.NEWS_DB = [
   {
     "id": "n676ea3c9",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "2시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBON0FQRHA0UjFxTDV2Nms0OWpjTjE5VWhvQklHRDRDaEViUW4zYS1VSDh1VXZsMkpVZk1HX2ZYcnZ6VnEtRWJTM2RBNmhsMHkyODF1bzlQWFlLLW51bWVnVXVfanJ1Ynkta0lDVA?oc=5",
     "title": "유출 논란 '모두의 창업' 아이디어, 전국서 보호 상담 시작",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7ad5a643",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRjVsTDR2ZFV5WTMtNjNqT2VucEpCdmpOQkFmc2Z2SGpnNDNXbkxZU2xXeXdTazFiN3dZOU9nMTEtLUpkbHFkNzBkak9NTWQxVlZBVkdOQnBBUW9DZk95SW80Sm8?oc=5",
     "title": "“엔비디아 의존 끝낸다”…메타, 9월 자체 AI 칩 양산 돌입",
     "summary": [
@@ -45,11 +45,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n259d82ec",
+    "id": "n16107a45",
     "category": "스포츠",
     "source": "네이트",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FTjVINHB3aDV6MDVMbDZxUHhJb3htMUl4bTVyWUZqU0twckVaZ1FiY05aeHhzUWxJYlZHanRrTzZ5a01LZENwSDJPRGJ6Wjd4TjFDNzFn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCUnNGeHlwbEFKMVBUWTJ6Tll1aHJZeldUc2dPU2ZRS3lXdzQ5R2hhTkxvaXZpVi1DNVY5T041dEZrcjhnM05VdFNzUnVnZy1Ub1EwQkVEaERDT0FuTlg0aVR0Yk85blBN?oc=5",
     "title": "조민영, 야구장에 나타난 '손흥민?' [포토엔HD]",
     "summary": [
       "조민영, 야구장에 나타난 '손흥민?' [포토엔HD] 네이트."
@@ -124,7 +124,7 @@ window.NEWS_DB = [
     "id": "nb6df5091",
     "category": "스포츠",
     "source": "starnewskorea.com",
-    "time": "9일 전",
+    "time": "10일 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
     "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
     "summary": [
@@ -139,7 +139,7 @@ window.NEWS_DB = [
     "id": "ne098ec77",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "10일 전",
+    "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWEI2T2RRNGVBTktrLW1KbThpRHpMRXd5TUhKdGNmeEhUcDAtTTY2M1pQSFUzdWFXdGxPbDFieXJxSC1IMi1qMzQwUFhQY0k?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
@@ -186,7 +186,7 @@ window.NEWS_DB = [
     "id": "n2aad78a4",
     "category": "사회",
     "source": "스포츠동아",
-    "time": "15일 전",
+    "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
@@ -201,7 +201,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "16일 전",
+    "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -246,7 +246,7 @@ window.NEWS_DB = [
     "id": "n9cecfc4c",
     "category": "부동산",
     "source": "한국경제",
-    "time": "19일 전",
+    "time": "20일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZ9IBVEFVX3lxTE51WFJELUd0OUVyTmJ4RXJGTTZTSS1TQy0wWktPaE9uUjRCMGlpSnY4Q2tVVk8zT3dUUHRnTWJPRGoxZm5rS25Dc0xHNHk2WHF5S09CUw?oc=5",
     "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
     "summary": [
@@ -261,7 +261,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "25일 전",
+    "time": "26일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -275,7 +275,7 @@ window.NEWS_DB = [
     "id": "n31af3cbd",
     "category": "경제",
     "source": "에너지경제신문",
-    "time": "33일 전",
+    "time": "34일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
     "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
@@ -290,7 +290,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "43일 전",
+    "time": "44일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -305,7 +305,7 @@ window.NEWS_DB = [
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "60일 전",
+    "time": "61일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
@@ -383,250 +383,250 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0f1d2926",
+    "id": "n0da70d13",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705709",
-    "title": "남해 왕지항 인근 해상서 낚시어선 좌초…3명 경상",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260712/134282367/2",
+    "title": "“외국인 같은 외모에 친자 의심”…아이 버리고 가출한 친모·유기한 계부",
     "summary": [
-      "[남해=뉴시스] 차용현 기자 = 12일 오전 11시55분께 경남 남해군 왕지항 인근 해상에서 승선원 22명이 탑승한 낚시어선 A호(9.77t·사천선적)가 암초에 좌초됐다.",
-      "이 사고로 승객 3명이 가벼운 찰과상을 입었지만 생명에는 지장이 없는 것으로 확인됐다.",
-      "신고를 접수한 사천해양경찰서는 경비함정과 사천파출소, 하동파출소, 구조대를 현장에 급파해 승선원 안전조치에 나섰다."
+      "친자가 아니라는 사실이 드러날 것을 두려워 아이를 남겨둔 채 가출한 친모와, 뒤늦게 친자가 아니라는 사실을 알게 된 뒤 아이를 보육원에 유기한 계부에게 법원이 징역형의 집행유예를 선고했다.12일 법조계에 따르면 의정부지법 형사9단독 김보현 판사는 아동복지법 위반(아동유기·방임) 혐의로 기소된 40대 여성에게 징역 1년 6개월에 집행유예 3년을, 50대 남성에게 징역 1년에 집행유예 3년을 각각 선고했다.두 사람은 2008년 동거를 시작한 뒤 혼."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncf75d445",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712027800062",
-    "title": "강원 인구의 날 기념식…\"청년 머물고 아이 웃는 곳 만들겠다\"",
-    "summary": [
-      "(춘천=연합뉴스) 박영서 기자 = 강원도는 지난 11일 인구보건복지협회와 함께 춘천 강원창작개발센터에서 제15회 인구의 날 기념식을 개최했다고 ..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nb91e5100",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260712/134281314/1",
-    "title": "인스타 사진으로 AI 이미지 만든다더니…메타, 사흘 만에 ‘백기’",
-    "summary": [
-      "메타가 인스타그램의 공개 사진을 활용해 인공지능(AI) 이미지를 만드는 기능을 중단했다.",
-      "서비스 기능을 발표한 지 고작 사흘 만이다.메타는 10일(현지 시간) 공식 블로그를 통해 메타 AI의 이미지 생성 기능 중 하나인 ‘인스타그램 계정 언급(@·멘션)’ 서비스를 더 이상 제공하지 않는다고 밝혔다.이 기능은 메타 AI 앱에서 특정 인스타그램 공개 계정을 태그하면, 해당 계정에 올라온 사진을 바탕으로 새로운 AI 이미지를 만들어주는 방식이다.하지."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n06833356",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260712/134281310/1",
-    "title": "경찰, ‘한동훈 당원게시판 사건’ 수사 재시동…홍보국 관계자 조사",
-    "summary": [
-      "국민의힘 당원 게시판에 한동훈 당시 대표와 가족 명의로 윤석열 전 대통령 부부를 비방하는 글이 게시됐다는 의혹과 관련해 경찰이 수사에 재시동을 걸었다.12일 뉴스1 취재에 따르면 서울경찰청 사이버수사대는 최근 국민의힘 당원 게시판을 관리했던 홍보국 관계자를 소환해 조사했다.앞서 경찰은 2024년 11월 국민의힘 당원 게시판에 윤 대통령과 김건희 여사를 비방하는 다수의 글을 게시한 ‘한동훈’이라는 이름의 작성자에 대한 스토킹 처벌법 위반 및 정보."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf5e8599f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712027500054",
-    "title": "목포대·순천대, '통합의대 절충안' 답변 결과 '촉각'",
-    "summary": [
-      "(전남광주=연합뉴스) 형민우 기자 = 민형배 전남광주통합특별시장이 목포대와 순천대에 제안한 '의대·대학병원' 설립 절충안에 대한 답변 요구 시한..."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nb9ae6605",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712027600073",
-    "title": "日기초단체 4곳 중 1곳, 5년새 10% 이상 인구 감소",
-    "summary": [
-      "(도쿄=연합뉴스) 조성미 특파원 = 일본 기초 자치단체 4곳 중 1곳에서 지난 5년간 10%를 넘는 급격한 인구 감소율을 기록한 것으로 조사됐다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n60d7344d",
+    "id": "nff1f424d",
     "category": "사회",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/07/12/HBSTCNJTMQZTIY3DMQZDGYLEHA/",
-    "title": "이예준, 한여름 장마송 ‘우산 없는 밤’ 발매",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/07/12/CTNVWISYTRG2ROQO4Q37OA5V7E/",
+    "title": "처방전 공개한 김민석...이성윤에 “계속 문제제기? 대장동 검사 같은 짓”",
     "summary": [
-      "[OSEN=김채연 기자] 가수 이예준이 장마송 ‘우산 없는 밤’을 발매한다.이예준은 12일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘우산 없는 밤’을 발매한다.‘우산 없는 밤’은 우산을 써도 작은 바람에 어깨를 적시는 비처럼, 피할 수 없는 많은 것들에 부딪히며 하루하루를 지나고 있는 사람들에게 우산 없이 비에 젖어도 괜찮다고, 언젠가 구름은."
+      "처방전 공개한 김민석...이성윤에 “계속 문제제기? 대장동 검사 같은 짓”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne1e38b64",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260712/134281298/1",
-    "title": "수도권 규제 확대 반사이익…비규제지역 거래 69% 늘어",
+    "id": "nc52c84fd",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705791",
+    "title": "화성 아파트 상가서 벽돌 낙하 사고…통제 조치",
     "summary": [
-      "정부가 경기 남부 반도체 벨트를 추가로 규제지역으로 지정하면서 수도권 규제지역이 40곳으로 늘어남났다.",
-      "과거 대책 발표 이후 비규제지역의 거래량이 크게 늘었던 만큼 이번에도 규제를 피한 지역으로 수요가 이동할지 주목된다.12일 업계에 따르면, 국토교통부와 경기도는 지난달 30일 경기도 화성시 동탄구, 용인시 기흥구, 구리시 등 3곳을 투기과열지구, 조정대상지역, 토지거래허가구역으로 지정했다.이에 따라 수도권 규제지역은 기존 서울 25곳, 경기."
+      "[수원=뉴시스] 변근아 기자 = 12일 오후 2시39분께 경기 화성시 동탄구 석우동의 한 아파트 상가 구조물에서 벽돌이 떨어지는 사고가 발생했다.",
+      "이 사고로 인한 인명피해는 발생하지 않았다.",
+      "목격자 신고를 접수하고 출동한 소방은 장비 1대와 인원 3명을 투입해 통제선을 설치하는 등 조처하고 현장을 시에 인계했다."
     ],
     "chips": [
-      "#반도체",
-      "#정책"
+      "#부동산"
     ]
   },
   {
-    "id": "n1aeb6ee6",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260712/134281287/1",
-    "title": "케인, 우승컵 들면 11억 번다…잉글랜드 보너스만 380억",
-    "summary": [
-      "해리 케인(바이에른 뮌헨)이 잉글랜드에 60년 만의 월드컵 우승을 안길 경우, 본인은 약 11억 6000만원의 우승 보너스를 받고 선수단과 코칭스태프는 총 1900만 파운드(약 382억원)를 나눠 갖게 된다.영국 일간 가디언은 10일(현지시간) 잉글랜드축구협회(FA)가 월드컵 개막 전 선수단과 합의한 보너스 지급안을 공개하며, 케인이 다음 주 미국 뉴욕에서 월드컵 우승 트로피를 들어 올릴 경우 선수단과 코칭스태프에게 국제축구연맹(FIFA) 우승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na6a73f56",
+    "id": "n5991ebdd",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705703",
-    "title": "보은군, 여름방학 장애학생 돌봄 '보은 곳·누리' 운영",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705780",
+    "title": "[울산소식]S-OIL 임직원, 사랑의 제빵 봉사 등",
     "summary": [
-      "[보은=뉴시스] 박은수 기자 = 충북 보은군은 여름방학 기간 장애학생을 대상으로 계절학기 돌봄 프로그램 '보은 곳·누리'를 운영한다고 12일 밝혔다.",
-      "대상은 군에 거주하는 초·중·고 장애 학생이다.",
-      "오는 27일부터 다음 달 7일까지 보은군장애인가족지원센터에서 진행된다."
+      "[울산=뉴시스] 조현철 기자 = 울산적십자사는 최근 S-OIL 임직원 11명이 빵나눔터에서 취약계층을 위한 사랑의 제빵 봉사활동을 진행했다고 12일 밝혔다.",
+      "이번 제빵봉사에서 S-OIL 임직원은 적십자봉사원과 함께 단팥빵 210개를 만들었다.",
+      "S-OIL은 빵나눔터 운영 지원·위기가정 지원 등 적십자 인도주의 활동을 위한 다양한 사회공헌 활동을 펼치고 있다."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "ncf98e189",
+    "id": "n22f20b30",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705552",
+    "title": "\"순찰차에 7시간 방치\"…경찰견 2마리 숨지게 한 美 경찰관 기소",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 미국에서 경찰견 2마리를 무더운 순찰차 안에 장시간 방치해 숨지게 한 경찰관이 동물학대 혐의 등으로 기소됐다.",
+      "영국 BBC는 10일(현지 시간) 미국 뉴저지주 세일럼카운티 보안관실 소속 경찰관 코디 헨더슨이 경찰견 2마리를 차량 안에 방치해 폐사하게 한 혐의로 형사 기소됐다고 보도했다.",
+      "검찰에 따르면 헨더슨은 지난 5월 29일 벨기에 말리노이즈 종인 '립'과 스프링어 스패니얼 종인 '부머'를 약 7시간 동안."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n79e20bc1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712041000064",
+    "title": "충북서 폭염 속 온열질환자 잇따라…3명 추가 발생",
+    "summary": [
+      "(청주=연합뉴스) 천경환 기자 = 폭염 경보가 발효된 12일 충북에서 열사병 등 온열 질환 환자가 잇따라 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf3ba10df",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705778",
+    "title": "카타르 전 국왕 셰이크 하마드 서거…향년 74세",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 카타르를 에너지 부국으로 이끌었다는 평가를 받는 셰이크 하마드 빈 칼리파 알사니 전 카타르 국왕(에미르)이 별세했다.",
+      "알자지라 방송에 따르면 카타르 왕실은 12일(현지 시간) \"신의 법도와 운명에 대한 확고한 믿음으로, 왕실은 이날 아침 서거하신 고(故) 셰이드 하마드 전 국왕의 상실에 대해 깊이 애도한다\"고 밝혔다.",
+      "셰이드 하마드 전 국왕은 1995년부터 2013년까지 카타르를 통치했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncbc4e670",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712040500084",
+    "title": "美日 등, '남중국해 판결' 10주년에 \"中 영유권 주장 근거없다\"",
+    "summary": [
+      "(하노이=연합뉴스) 박진형 특파원 = 중국과 필리핀 간 남중국해 영유권 분쟁에 대한 국제상설중재재판소(PCA)의 역사적인 판결 10주년을 맞아 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5eeeea30",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705701",
-    "title": "김용범, 잠재성장률 3% 언급하며 \"韓경제 장기 추세 달라질 가능성\"",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260712/134282045/1",
+    "title": "환율 1400원대로 내려오자 ‘달러 쇼핑’…예금잔액 9조원 급증",
     "summary": [
-      "[서울=뉴시스]김경록 기자 = 김용범 청와대 정책실장은 12일 \"한동안 비현실적으로 들리던 잠재성장률 3% 회복까지도 완전히 손닿지 않는 목표만은 아니라는 논의가 나오기 시작했다\"며 \"한국은 더 이상 과거의 추세선 위에 있지 않다.",
-      "우리 자신도 다 이해하지 못한 채, 한 번도 가보지 않은 성장경로에 이미 들어섰는지 모른다\"고 밝혔다.",
-      "김 실장은 이날 낮 페이스북에 \"(2025년) 하반기부터 분위기가 달라졌는데, 공교롭게도 그 변곡점은 새 정부."
+      "두 달간 1500원을 웃돌던 원-달러 환율이 1400원대로 내려오자 낮은 가격에 달러를 사두려는 수요가 몰리면서 달러예금 잔액이 9조 원 가량 늘었다.12일 금융권에 따르면 5대 은행(KB국민·신한·하나·우리·NH농협)의 달러예금 잔액은 9일 기준 709억400만 달러로 집계됐다.",
+      "9일 원-달러 환율 주간거래 종가(오후 3시 반 기준)로 환산하면 약 106조7900억 원 규모다.",
+      "달러예금 잔액은 2022년 12월 말(744억1600만 달러) 이."
     ],
     "chips": [
-      "#정책"
+      "#환율"
     ]
   },
   {
-    "id": "nf96f62c1",
+    "id": "n258b3b51",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705706",
-    "title": "엎드려 자다 구토한 신생아 방치한 산후도우미, 무죄",
-    "summary": [
-      "[남양주=뉴시스]이호진 기자 = 엎드려 자던 아기가 구토한 것을 모르고 방치했다가 아동복지법 위반 혐의로 기소된 산후도우미가 법정에서 무죄를 선고받았다.",
-      "의정부지법 남양주지원 형사4단독 권순범 판사는 아동복지법상 아동유기·방임 혐의로 재판에 넘겨진 A(53·여)씨에게 무죄를 선고했다고 12일 밝혔다.",
-      "산후도우미 파견업체에서 일하던 A씨는 지난 2024년 10월 11일 오후 1시15분께 남양주시 소재 고객의 집에서 생후 1개월된 B군이 엎드린 상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne59eaf4d",
-    "category": "IT",
-    "source": "조선일보",
+    "source": "연합뉴스",
     "time": "14분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/07/12/36CSL5JEKJGNDCANODBVDSJRHU/",
-    "title": "구글·메타가 스마트 글래스 시장에 계속 도전하는 이유는 로봇?... 테슬라조차 없는 1인칭 영상 노린다",
+    "url": "https://www.yna.co.kr/view/AKR20260712040800054",
+    "title": "특별수사단, '장윤기 사건' 수사 지휘 라인 형사과장 소환조사",
     "summary": [
-      "구글·메타가 스마트 글래스 시장에 계속 도전하는 이유는 로봇?... 테슬라조차 없는 1인칭 영상 노린다."
+      "(전남광주=연합뉴스) 정다움 기자 = '장윤기 사건'을 둘러싼 수사 비위 의혹을 규명 중인 경찰이 당시 수사를 지휘했던 형사과장을 조사하고 있다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd87a122f",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "19분 전",
-    "url": "https://www.hankyung.com/article/202607129931i",
-    "title": "\"AI 잘쓰면 월급 150만원 더 준다\"...인사평가도 반영 [도쿄나우]",
-    "summary": [
-      "\"AI 잘쓰면 월급 150만원 더 준다\"...인사평가도 반영 [도쿄나우]."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n5b9428a5",
+    "id": "n998a9a13",
     "category": "사회",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/202607129933i",
-    "title": "'반값 선거운동' 김상욱, 선거비 한도의 64%만 쓰고도 이겼다",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/12/HHIEEO3245A2BEITNPGT52JKKE/",
+    "title": "2016년엔 ‘브렉시트 반대’ 의원 피살, 2026년엔 브렉시트 앞장선 정치 거물 피살",
     "summary": [
-      "'반값 선거운동' 김상욱, 선거비 한도의 64%만 쓰고도 이겼다."
+      "2016년엔 ‘브렉시트 반대’ 의원 피살, 2026년엔 브렉시트 앞장선 정치 거물 피살."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n2a142590",
+    "id": "nb7098019",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712027300030",
-    "title": "석촌호수 수영·123층 스카이런…롯데물산, 아쿠아슬론 개최",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712040600053",
+    "title": "버려지던 참외의 변신…칠곡군, 친환경 가죽 개발 및 상품화",
     "summary": [
-      "(서울=연합뉴스) 정수연 기자 = 롯데물산은 석촌호수를 헤엄치고 롯데월드타워 계단을 오르는 '2026 롯데 아쿠아슬론'이 1천여명이 참여한 가운..."
+      "(칠곡=연합뉴스) 김현태 기자 = 경북 칠곡군은 버려지던 참외로 친환경 가죽 개발과 상품화에 성공했다고 12일 밝혔다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n82f42f9f",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260712/134282274/2",
+    "title": "익산 단독주택 화장실서 60대 시신 뒤늦게 발견…화재 흔적도",
+    "summary": [
+      "전북 익산의 한 단독주택에서 60대 남성이 숨진 채 발견돼 경찰이 정확한 사망 경위를 조사하고 있다.12일 경찰과 소방당국에 따르면 이날 오전 8시 30분경 익산시 춘포면의 한 단독주택에서 “평소 장애를 앓던 주민이 며칠째 보이지 않는다”는 마을 이장의 신고가 접수됐다.현장에 출동한 경찰은 집 안에서 화재 흔적을 발견하고 소방당국에 협조를 요청했으며, 이후 잠겨 있던 화장실 안에서 60대 남성이 숨져 있는 것을 발견했다.발견 당시 시신은 부패가."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n28eeadc5",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "24분 전",
-    "url": "https://www.hankyung.com/article/202607119292i",
-    "title": "\"'10년 신뢰'로 모스크바 발레 올림픽서 나란히 金 땄다\"",
+    "id": "ncbf15e25",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711026451008",
+    "title": "SNS 미담주·3대 메가 수혜주…급락장서 튀어 오른 테마주들(종합)",
     "summary": [
-      "\"'10년 신뢰'로 모스크바 발레 올림픽서 나란히 金 땄다\"."
+      "(서울=연합뉴스) 김유향 정수연 기자 = 지난주 국내 증시가 하락세를 보인 가운데, 실적이나 수주 근거보다는 지역 연고 또는 SNS 미담 등을 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c9df61a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "33분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260712/134282080/1",
+    "title": "육아휴직 10명 중 4명은 아빠…상반기 급여수급자 10만명 돌파",
+    "summary": [
+      "올해 상반기 육아휴직급여 수급자가 10만 명을 넘어선 가운데 ‘아빠 육아휴직’ 비율이 40%에 육박하는 것으로 나타났다.고용노동부는 12일 이 같은 내용이 담긴 ‘2026년 상반기 일·가정 양립 지원제도 활용 실적’을 공개했다.",
+      "노동부에 따르면 올해 상반기 육아휴직급여 수급자는 10만3983명으로 전년 동기(9만4993명) 대비 9.5% 늘었다.",
+      "이 중 남성 수급자는 4만320명으로 전체 수급자의 38.8%를 차지했다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "nfe702b2c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "41분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/07/12/T464XNN4TJFGBGVSH2F4R4DZEQ/",
+    "title": "통일부, 동해 해군장병 실종에 “수색·송환 관련 대북 협조 요청”",
+    "summary": [
+      "통일부, 동해 해군장병 실종에 “수색·송환 관련 대북 협조 요청”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne7fc5cf4",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "48분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/12/4U2K5GS3V5C67G66UXIF5LLMHI/",
+    "title": "머스크·올트먼 또 설전… “사기꾼 올트먼” vs “투자자 속이는 건 머스크”",
+    "summary": [
+      "머스크·올트먼 또 설전… “사기꾼 올트먼” vs “투자자 속이는 건 머스크”."
     ],
     "chips": [
       "#뉴스"
@@ -639,20 +639,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
