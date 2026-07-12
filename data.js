@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-12 01:44:06
+// 마지막 업데이트: 2026-07-12 05:16:54
 window.NEWS_DB = [
+  {
+    "id": "n676ea3c9",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBON0FQRHA0UjFxTDV2Nms0OWpjTjE5VWhvQklHRDRDaEViUW4zYS1VSDh1VXZsMkpVZk1HX2ZYcnZ6VnEtRWJTM2RBNmhsMHkyODF1bzlQWFlLLW51bWVnVXVfanJ1Ynkta0lDVA?oc=5",
+    "title": "유출 논란 '모두의 창업' 아이디어, 전국서 보호 상담 시작",
+    "summary": [
+      "유출 논란 '모두의 창업' 아이디어, 전국서 보호 상담 시작 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
   {
     "id": "n7ad5a643",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "2시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRjVsTDR2ZFV5WTMtNjNqT2VucEpCdmpOQkFmc2Z2SGpnNDNXbkxZU2xXeXdTazFiN3dZOU9nMTEtLUpkbHFkNzBkak9NTWQxVlZBVkdOQnBBUW9DZk95SW80Sm8?oc=5",
     "title": "“엔비디아 의존 끝낸다”…메타, 9월 자체 AI 칩 양산 돌입",
     "summary": [
@@ -31,11 +45,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n16107a45",
+    "id": "n259d82ec",
     "category": "스포츠",
     "source": "네이트",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCUnNGeHlwbEFKMVBUWTJ6Tll1aHJZeldUc2dPU2ZRS3lXdzQ5R2hhTkxvaXZpVi1DNVY5T041dEZrcjhnM05VdFNzUnVnZy1Ub1EwQkVEaERDT0FuTlg0aVR0Yk85blBN?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FTjVINHB3aDV6MDVMbDZxUHhJb3htMUl4bTVyWUZqU0twckVaZ1FiY05aeHhzUWxJYlZHanRrTzZ5a01LZENwSDJPRGJ6Wjd4TjFDNzFn?oc=5",
     "title": "조민영, 야구장에 나타난 '손흥민?' [포토엔HD]",
     "summary": [
       "조민영, 야구장에 나타난 '손흥민?' [포토엔HD] 네이트."
@@ -49,7 +63,7 @@ window.NEWS_DB = [
     "id": "n84f4e27e",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNG9uYjB6V2xNLXdRS0V2WWVfTVZYZlhrWnYzWVYzdGVocERlVTZvUmNua2VQTTNBSUVtYmRQSDh3QThCQzNCUUZNNjJkaGZxb2JRS2EtOTN1VXPSAWBBVV95cUxQSkhwLUFjMlFLTVhnY0NfN1B3OVc1SUF6OERxcTR1YWJTME82TmdNWXJySDhhV1NDcVgyeXA5Zy1XbEo1aWZZZWFMZDI1UkQ4NF94M1ZyR0xKbkxSSlZKbkU?oc=5",
     "title": "중국 AI 칩 '脫엔비디아'…화웨이, 엔비디아 제쳤다",
     "summary": [
@@ -95,7 +109,7 @@ window.NEWS_DB = [
     "id": "nec851840",
     "category": "경제",
     "source": "이투데이",
-    "time": "8일 전",
+    "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNm9sbTdsUzYzbTZSOW5VVnNna25pd0pFQ2h4aTczdVpla1ZRWGJjLWxoRU01Rlk5b0RLb3hHTHRCckRleE1FelJBNWYwYzVreVBaMw?oc=5",
     "title": "한은 금리 인상에 '환율ㆍ시장금리' 안정화될까⋯\"비용충격 악화가 변수\"",
     "summary": [
@@ -156,7 +170,7 @@ window.NEWS_DB = [
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
-    "time": "12일 전",
+    "time": "13일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
@@ -204,7 +218,7 @@ window.NEWS_DB = [
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "16일 전",
+    "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -218,7 +232,7 @@ window.NEWS_DB = [
     "id": "nde229885",
     "category": "IT",
     "source": "한국보험신문",
-    "time": "17일 전",
+    "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbHdjUmRLTnY2NGM0cVBTc29tUjFSd1BUa2lYMzFfcWp0Sko0djdtaG5lLWV5a3ZRU29jcC1vOEFxS3YtWHhQN1ROOENFbDNaaVQ1NDNvbjFJQl8tNkJDZlZSOWtBWUgtdVVn0gFvQVVfeXFMT2JsdXVnNlFYZlY2X3NnN2RRYzNnMHoyZl9oenR4eGdwVm9rSU9Mei1YQWhJQWhic2JXcDRyTzRHTUdZcHhSRS1CLW1kQVFCUHhFMXRCejF6LThubzBlUjJPc2Y4STY5S2NBbVJOREFn?oc=5",
     "title": "해빗팩토리, 중기부 유니콘브릿지 사업 선정… “K-핀테크로 성장”",
     "summary": [
@@ -244,20 +258,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64dc67f5",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
-    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
-    "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -272,14 +272,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nabfa15b0",
+    "id": "n31af3cbd",
     "category": "경제",
-    "source": "YTN",
-    "time": "31일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
-    "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
+    "source": "에너지경제신문",
+    "time": "33일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
+    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
     ],
     "chips": [
       "#금리",
@@ -314,6 +314,22 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "na615995a",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153310",
+    "title": "KB국민은행, 취약계층 채무 최대 90% 감면…포용금융 확대",
+    "summary": [
+      "KB국민은행이 기초생활수급자와 차상위계층 등 금융 취약계층을 대상으로 특수채권 원금을 최대 90%까지 감면하는 특별 채무감면 제도를 시행한다.",
+      "장기 연체로 경제활동에 어려움을 겪는 고객의 신용 회복을 지원하고, 금융 취약계층의 재기를 돕기 위한 포용금융 행보를 한층 강화하는 모습이다.KB국민은행은 오는 13일부터 사회적 배려 대상자를 위한 특별 채무감면 제도를 운영한다고 12일 밝혔다.",
+      "이번 제도는 채무 부담을 크게 줄여 금융거래 정상화와 경제."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -367,140 +383,117 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9298b9ae",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153289",
-    "title": "[써봤다] \"이어폰-카메라 노예 탈출기\"...메타-레이벤 안경에 지갑 열린 사연",
-    "summary": [
-      "*이 기사에 쓰인 모든 사진은 메타 스마트 안경으로 촬영한 것입니다.40대라 \"라떼는~말이야~\"를 자주 외치는 워킹맘 기자 '라떼워킹맘'은 요즘 세상이 달라지고 있음을 너무나 실감해.",
-      "'라떼워킹맘'이 20대 때 \"미래에는 이러는거 아니야?\"라고 농담삼아서 했던 이야기들이 지금 하나씩 현실이 되고 있거든.",
-      "스마트폰, 인공지능(AI), 스마트워치 등으로 세상은 놀랄만큼 변화하고 있는 상황이지.스마트폰과 AI만으로도 이미 충분히 놀랄만한 일들이 많은."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n2fa22b03",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260712/134280206/1",
-    "title": "국힘 “김용범, ‘오징어 게임’ 증시 주범…李, 즉각 경질하라”",
-    "summary": [
-      "국민의힘은 12일 최근 국내 증시의 극심한 급등락 현상과 관련해 “김용범 정책실장은 지금 당장 국민 앞에 직접 사죄하고, 이재명 대통령은 섣부른 정책이 불러온 참혹한 실패에 대해 무거운 책임을 물어 김 실장을 즉각 경질하라”고 했다.국민의힘 최보윤 수석대변인은 이날 ‘오징어 게임 증시의 주범, 모든 화살은 김 실장을 향한다’는 제목의 논평을 내고 “지금 대한민국 증시는 하루아침에 승자와 패자가 뒤바뀌고 한 번의 급락에 국민의 자산이 강제청산으로."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf8477aa7",
+    "id": "n0f1d2926",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705600",
-    "title": "\"호남 품어야\" 與 당권 경쟁 후끈…지역 연고자 출마 러시(종합)",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705709",
+    "title": "남해 왕지항 인근 해상서 낚시어선 좌초…3명 경상",
     "summary": [
-      "[전남광주=뉴시스]송창헌 기자 = 더불어민주당 8·17 전당대회를 앞두고 당의 심장부이자 호남정치 1번지인 광주와 호남정치의 본산이자 'DJ정신의 종가'인 전남을 향한 구애 경쟁이 뜨겁게 달아오르고 있다.",
-      "최대 격전지이자 권리당원이 밀집한 광주·전남의 표심을 잡기 위해 당권 주자들이 잇따라 지역을 찾은 데 이어 호남 연고 정치인들의 최고위원 출마 선언도 줄을 잇고 있다.",
-      "12일 지역 정가에 따르면 3자 대결로 압축되는 당권 레이스는 김민석 전."
+      "[남해=뉴시스] 차용현 기자 = 12일 오전 11시55분께 경남 남해군 왕지항 인근 해상에서 승선원 22명이 탑승한 낚시어선 A호(9.77t·사천선적)가 암초에 좌초됐다.",
+      "이 사고로 승객 3명이 가벼운 찰과상을 입었지만 생명에는 지장이 없는 것으로 확인됐다.",
+      "신고를 접수한 사천해양경찰서는 경비함정과 사천파출소, 하동파출소, 구조대를 현장에 급파해 승선원 안전조치에 나섰다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbf1b9c6f",
+    "id": "ncf75d445",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705599",
-    "title": "질병청, 포항·경산 '폭염중대경보'에 온열질환 예방 수칙 당부",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712027800062",
+    "title": "강원 인구의 날 기념식…\"청년 머물고 아이 웃는 곳 만들겠다\"",
     "summary": [
-      "[서울=뉴시스]박정영 기자 = 경북 포항과 경산에 사상 처음으로 폭염중대경보가 발표된 가운데 질병관리청이 건강수칙 준수를 당부했다.",
-      "질병청은 12일 전국적인 폭염특보와 함께 경북 남부 일부 지역에 폭염중대경보가 발령됨에 따라 온열질환 예방을 위한 건강수칙 준수를 당부했다고 밝혔다.",
-      "폭염중대경보는 일 최고체감온도 35도 이상이 2일 이상 관측된 지역에서 일 최고체감온도 38도 또는 일최고기온 39도 이상 예상될 시 발령된다."
+      "(춘천=연합뉴스) 박영서 기자 = 강원도는 지난 11일 인구보건복지협회와 함께 춘천 강원창작개발센터에서 제15회 인구의 날 기념식을 개최했다고 ..."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "ned952609",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705501",
-    "title": "리센느 미나미, BTS 정국 언급에 \"엄마가 빨리 보라고\"",
-    "summary": [
-      "[서울=뉴시스] 이종희 기자 = 그룹 리센느 미나미가 최근 방탄소년단(BTS) 정국의 언급으로 성덕(성공한 덕후)이 된 소감을 밝혔다.",
-      "11일 방송된 MBC '전지적 참견 시점'에는 리센느가 출연했다.",
-      "방송에선 주요 음원 차트 최상위권을 휩쓸며 뜨거운 사랑을 받고 있는 리센느에게 \"인기를 실감하느냐\"는 질문이 쏟아졌다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "ncdd28a87",
-    "category": "스포츠",
-    "source": "조선일보",
+    "id": "nb91e5100",
+    "category": "IT",
+    "source": "동아일보",
     "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/07/12/MMYDKOJRMJTDSMZWHFSTQMZVGM/",
-    "title": "[공식]방탄소년단, 코로나 위로 담았던 곡으로…'라이프 고즈 온' MV 6억뷰 돌파",
+    "url": "https://www.donga.com/news/Economy/article/all/20260712/134281314/1",
+    "title": "인스타 사진으로 AI 이미지 만든다더니…메타, 사흘 만에 ‘백기’",
     "summary": [
-      "[스포츠조선 정빛 기자] 방탄소년단(BTS)의 '라이프 고즈 온(Life Goes On)' 뮤직비디오가 유튜브 조회 수 6억 회를 돌파했다.",
-      "지난 2020년 발매된 방탄소년단의 미니 7집 '비(BE) (Deluxe Edition)' 타이틀곡 '라이프 고즈 온(Life Goes On)' 뮤직비디오는 12일 오전 0시 34분경 유튜브 조회 수 6억 회를 넘어섰."
+      "메타가 인스타그램의 공개 사진을 활용해 인공지능(AI) 이미지를 만드는 기능을 중단했다.",
+      "서비스 기능을 발표한 지 고작 사흘 만이다.메타는 10일(현지 시간) 공식 블로그를 통해 메타 AI의 이미지 생성 기능 중 하나인 ‘인스타그램 계정 언급(@·멘션)’ 서비스를 더 이상 제공하지 않는다고 밝혔다.이 기능은 메타 AI 앱에서 특정 인스타그램 공개 계정을 태그하면, 해당 계정에 올라온 사진을 바탕으로 새로운 AI 이미지를 만들어주는 방식이다.하지."
     ],
     "chips": [
-      "#환경"
+      "#AI"
     ]
   },
   {
-    "id": "n86d4ee2a",
-    "category": "스포츠",
-    "source": "뉴시스",
+    "id": "n06833356",
+    "category": "사회",
+    "source": "동아일보",
     "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705546",
-    "title": "잉글랜드-노르웨이 8강전 '굴절 논란'…FIFA는 반박[월드컵24시]",
+    "url": "https://www.donga.com/news/Society/article/all/20260712/134281310/1",
+    "title": "경찰, ‘한동훈 당원게시판 사건’ 수사 재시동…홍보국 관계자 조사",
     "summary": [
-      "[서울=뉴시스]안경남 기자 = 2026 북중미 월드컵 잉글랜드와 노르웨이의 8강전 주드 벨링엄의 동점골 과정에서 공이 카메라 와이어에 맞고 굴절됐다는 의혹이 제기됐다.",
-      "12일(한국 시간) 미국 마이애미 스타디움에서 열린 대회 8강전에서 잉글랜드가 연장 접전 끝에 노르웨이를 2-1로 꺾고 4강에 올랐다.",
-      "노르웨이가 전반 36분 안드레아스 시엘데루프의 선제골로 앞서갔다."
+      "국민의힘 당원 게시판에 한동훈 당시 대표와 가족 명의로 윤석열 전 대통령 부부를 비방하는 글이 게시됐다는 의혹과 관련해 경찰이 수사에 재시동을 걸었다.12일 뉴스1 취재에 따르면 서울경찰청 사이버수사대는 최근 국민의힘 당원 게시판을 관리했던 홍보국 관계자를 소환해 조사했다.앞서 경찰은 2024년 11월 국민의힘 당원 게시판에 윤 대통령과 김건희 여사를 비방하는 다수의 글을 게시한 ‘한동훈’이라는 이름의 작성자에 대한 스토킹 처벌법 위반 및 정보."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n02c3594c",
+    "id": "nf5e8599f",
     "category": "사회",
     "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712019600005",
-    "title": "[가요소식] BTS '라이프 고즈 온' 뮤직비디오 6억뷰 돌파",
+    "url": "https://www.yna.co.kr/view/AKR20260712027500054",
+    "title": "목포대·순천대, '통합의대 절충안' 답변 결과 '촉각'",
     "summary": [
-      "(서울=연합뉴스) 김선우 기자 =."
+      "(전남광주=연합뉴스) 형민우 기자 = 민형배 전남광주통합특별시장이 목포대와 순천대에 제안한 '의대·대학병원' 설립 절충안에 대한 답변 요구 시한..."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb9ae6605",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712027600073",
+    "title": "日기초단체 4곳 중 1곳, 5년새 10% 이상 인구 감소",
+    "summary": [
+      "(도쿄=연합뉴스) 조성미 특파원 = 일본 기초 자치단체 4곳 중 1곳에서 지난 5년간 10%를 넘는 급격한 인구 감소율을 기록한 것으로 조사됐다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6f82f976",
-    "category": "IT",
+    "id": "n60d7344d",
+    "category": "사회",
     "source": "조선일보",
     "time": "9분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/07/12/MU4DQZTGMZTGKMRRGNRWMNBSMU/",
-    "title": "국세청장 “반도체 세수 쏠림 우려… 미래대응기금 꼭 필요”",
+    "url": "https://www.chosun.com/entertainments/music/2026/07/12/HBSTCNJTMQZTIY3DMQZDGYLEHA/",
+    "title": "이예준, 한여름 장마송 ‘우산 없는 밤’ 발매",
     "summary": [
-      "임광현 국세청장은 12일 “반도체 특수로 인한 추가 세수를 3대 메가 프로젝트 지원 등 국가의 장기적 경쟁력 강화에 사용코자 하는 미래대응기금 조성방안은 꼭 필요한 정책”이라고 했다.",
-      "임 청장은 이날 엑스(X·옛 트위터)에 ‘오늘의 세수, 내일의 경쟁력이 되려면’이라는 글을 올리고 이같이 밝혔다.",
-      "그는 “지속 가능한 재정은 세수를 얼마나 많이 확보하느냐뿐만."
+      "[OSEN=김채연 기자] 가수 이예준이 장마송 ‘우산 없는 밤’을 발매한다.이예준은 12일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘우산 없는 밤’을 발매한다.‘우산 없는 밤’은 우산을 써도 작은 바람에 어깨를 적시는 비처럼, 피할 수 없는 많은 것들에 부딪히며 하루하루를 지나고 있는 사람들에게 우산 없이 비에 젖어도 괜찮다고, 언젠가 구름은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne1e38b64",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260712/134281298/1",
+    "title": "수도권 규제 확대 반사이익…비규제지역 거래 69% 늘어",
+    "summary": [
+      "정부가 경기 남부 반도체 벨트를 추가로 규제지역으로 지정하면서 수도권 규제지역이 40곳으로 늘어남났다.",
+      "과거 대책 발표 이후 비규제지역의 거래량이 크게 늘었던 만큼 이번에도 규제를 피한 지역으로 수요가 이동할지 주목된다.12일 업계에 따르면, 국토교통부와 경기도는 지난달 30일 경기도 화성시 동탄구, 용인시 기흥구, 구리시 등 3곳을 투기과열지구, 조정대상지역, 토지거래허가구역으로 지정했다.이에 따라 수도권 규제지역은 기존 서울 25곳, 경기."
     ],
     "chips": [
       "#반도체",
@@ -508,136 +501,132 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n608d5307",
+    "id": "n1aeb6ee6",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712019300030",
-    "title": "롯데百, 본점 스포츠관 리뉴얼 2주년 기념 '고객 감사제'",
-    "summary": [
-      "(서울=연합뉴스) 정수연 기자 = 롯데백화점은 명동 본점에서 오는 19일까지 스포츠관 리뉴얼 2주년을 기념한 고객 감사제를 진행한다고 12일 밝..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n52ff6fdf",
-    "category": "부동산",
     "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260712/134280184/1",
-    "title": "오세훈 “부동산 대토론회, 공급·전월세 안정이 핵심 의제돼야”",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260712/134281287/1",
+    "title": "케인, 우승컵 들면 11억 번다…잉글랜드 보너스만 380억",
     "summary": [
-      "오세훈 서울시장이 12일 “부동산 정책 국민대토론회의 핵심 의제는 공급과 전월세 안정이어야 한다”고 밝혔다.",
-      "23일 이재명 대통령이 주재하는 부동산 정책에 대한 공개 대토론회를 앞두고 세금 문제 대신 공급 문제가 주요 의제라는 점을 확인한 것이다.",
-      "오 시장은 이날 페이스북을 통해 먼저 “부동산 문제를 놓고 국민의 목소리를 직접 듣겠다는 취지로 대국민 토론회를 열게 된 것을 반갑게 생각한다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n051151ac",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026071210255029111",
-    "title": "\"보완 수사권 폐지, 누굴 위한 것인가\" 부산 돌려차기 피해자 항변",
-    "summary": [
-      "'부산 돌려차기' 사건 피해자 김모씨가 검찰의 보완 수사권 폐지를 골자로 한 형사소송법 개정안에 대해 반대 의견을 냈다.",
-      "12일 연합뉴스에 따르면 김씨는 \"객관적인 시각에서 사건을 다시 들여다볼 수 있는 안전장치는 꼭 필요하다\"라고 강조했다.",
-      "앞서 김씨가 겪은 '부산 돌려차기' 사건은 당초 '묻지 마 폭행' 사건으로 알려졌다."
+      "해리 케인(바이에른 뮌헨)이 잉글랜드에 60년 만의 월드컵 우승을 안길 경우, 본인은 약 11억 6000만원의 우승 보너스를 받고 선수단과 코칭스태프는 총 1900만 파운드(약 382억원)를 나눠 갖게 된다.영국 일간 가디언은 10일(현지시간) 잉글랜드축구협회(FA)가 월드컵 개막 전 선수단과 합의한 보너스 지급안을 공개하며, 케인이 다음 주 미국 뉴욕에서 월드컵 우승 트로피를 들어 올릴 경우 선수단과 코칭스태프에게 국제축구연맹(FIFA) 우승."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nadeebea6",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026071210340539832",
-    "title": "KT, AI 스테이션으로 'WSIS 프라이즈 2026' 챔피언상 수상",
+    "id": "na6a73f56",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705703",
+    "title": "보은군, 여름방학 장애학생 돌봄 '보은 곳·누리' 운영",
     "summary": [
-      "KT는 스위스 제네바에서 열린 '정보사회세계정상회의(WSIS) 프라이즈 2026' 시상식에서 'KT AI 스테이션'이 정보·지식 접근 부문 챔피언상을 수상했다고 12일 밝혔다.",
-      "10일(현지시간) 열린 WSIS 프라이즈는 국제전기통신연합(ITU)이 주관하는 정보사회 분야 시상식이다.",
-      "전 세계에서 출품된 1595개 프로젝트를 대상으로 온라인 투표와 전문가 심사를 거쳐 수상작을 선정한다."
+      "[보은=뉴시스] 박은수 기자 = 충북 보은군은 여름방학 기간 장애학생을 대상으로 계절학기 돌봄 프로그램 '보은 곳·누리'를 운영한다고 12일 밝혔다.",
+      "대상은 군에 거주하는 초·중·고 장애 학생이다.",
+      "오는 27일부터 다음 달 7일까지 보은군장애인가족지원센터에서 진행된다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ncf98e189",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705701",
+    "title": "김용범, 잠재성장률 3% 언급하며 \"韓경제 장기 추세 달라질 가능성\"",
+    "summary": [
+      "[서울=뉴시스]김경록 기자 = 김용범 청와대 정책실장은 12일 \"한동안 비현실적으로 들리던 잠재성장률 3% 회복까지도 완전히 손닿지 않는 목표만은 아니라는 논의가 나오기 시작했다\"며 \"한국은 더 이상 과거의 추세선 위에 있지 않다.",
+      "우리 자신도 다 이해하지 못한 채, 한 번도 가보지 않은 성장경로에 이미 들어섰는지 모른다\"고 밝혔다.",
+      "김 실장은 이날 낮 페이스북에 \"(2025년) 하반기부터 분위기가 달라졌는데, 공교롭게도 그 변곡점은 새 정부."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nf96f62c1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705706",
+    "title": "엎드려 자다 구토한 신생아 방치한 산후도우미, 무죄",
+    "summary": [
+      "[남양주=뉴시스]이호진 기자 = 엎드려 자던 아기가 구토한 것을 모르고 방치했다가 아동복지법 위반 혐의로 기소된 산후도우미가 법정에서 무죄를 선고받았다.",
+      "의정부지법 남양주지원 형사4단독 권순범 판사는 아동복지법상 아동유기·방임 혐의로 재판에 넘겨진 A(53·여)씨에게 무죄를 선고했다고 12일 밝혔다.",
+      "산후도우미 파견업체에서 일하던 A씨는 지난 2024년 10월 11일 오후 1시15분께 남양주시 소재 고객의 집에서 생후 1개월된 B군이 엎드린 상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne59eaf4d",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/07/12/36CSL5JEKJGNDCANODBVDSJRHU/",
+    "title": "구글·메타가 스마트 글래스 시장에 계속 도전하는 이유는 로봇?... 테슬라조차 없는 1인칭 영상 노린다",
+    "summary": [
+      "구글·메타가 스마트 글래스 시장에 계속 도전하는 이유는 로봇?... 테슬라조차 없는 1인칭 영상 노린다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd87a122f",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/202607129931i",
+    "title": "\"AI 잘쓰면 월급 150만원 더 준다\"...인사평가도 반영 [도쿄나우]",
+    "summary": [
+      "\"AI 잘쓰면 월급 150만원 더 준다\"...인사평가도 반영 [도쿄나우]."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "nd1c2bd4d",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/12/GJTDGYTBMFRTMNZVG44DIMZVMM/",
-    "title": "로지 오도넬, 단독토크쇼 미련없이 하차한 이유 “통장에 1500억원 찍혀있어서”[Oh!llywood]",
+    "id": "n5b9428a5",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/202607129933i",
+    "title": "'반값 선거운동' 김상욱, 선거비 한도의 64%만 쓰고도 이겼다",
     "summary": [
-      "[OSEN=강서정 기자] 미국 코미디언 겸 배우 로지 오도넬이 토크쇼 전성기 시절 1억 달러(약 1,500억 원)의 자산을 확인한 뒤 미련 없이 방송을 떠났다고 밝혔다.11일(현지시간) 미국 연예매체 페이지식스는 오도넬이 자신의 대표 프로그램인 '더 로지 오도넬 쇼(The Rosie O'Donnell Show)'를 하차한 이유를 공개했다.그는 \"통장에 1억."
+      "'반값 선거운동' 김상욱, 선거비 한도의 64%만 쓰고도 이겼다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2a142590",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712027300030",
+    "title": "석촌호수 수영·123층 스카이런…롯데물산, 아쿠아슬론 개최",
+    "summary": [
+      "(서울=연합뉴스) 정수연 기자 = 롯데물산은 석촌호수를 헤엄치고 롯데월드타워 계단을 오르는 '2026 롯데 아쿠아슬론'이 1천여명이 참여한 가운..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n52e68caf",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/07/12/GAZDKZLCMIZGGN3BMJTDONRWME/",
-    "title": "신한금융 이사회 의장, 영국서 투자자들 소통",
-    "summary": [
-      "곽수근 신한금융지주 이사회 의장이 지난 6일부터 닷새간 영국 런던과 에든버러를 방문해 글로벌 투자자와 기관 관계자들을 대상으로 기업설명(IR) 활동을 했다.",
-      "12일 신한지주에 따르면 곽 의장은 영국 현지에서 글로벌 자산운용사 프랭클린 템플턴 산하 클리어브릿지 인베스트먼트와 픽텟 애셋 매니지먼트를 비롯한 주요 기관투자자들과 만났다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nae0d3795",
+    "id": "n28eeadc5",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712019900007",
-    "title": "[월드컵] 잉글랜드 동점골 오심 논란…\"골킥이 카메라 케이블 맞았다\"",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/202607119292i",
+    "title": "\"'10년 신뢰'로 모스크바 발레 올림픽서 나란히 金 땄다\"",
     "summary": [
-      "(서울=연합뉴스) 이영호 기자 = 잉글랜드와 노르웨이의 2026 북중미 월드컵 8강전에서 전반 추가시간 터진 잉글랜드 주드 벨링엄의 동점 골 직..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09be07d1",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "10분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/12/HLFHBB6AMZHEDLZPMGVLRW5N74/",
-    "title": "삼성전자 용인 반도체 공장 양산 1~2년 당긴다… 2029년 첫 가동",
-    "summary": [
-      "삼성전자 용인 반도체 공장 양산 1~2년 당긴다… 2029년 첫 가동."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nb8e3a5c1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712019200053",
-    "title": "영주 급류 실종자 수색 나흘째…예천·상주까지 수색 확대",
-    "summary": [
-      "(영주=연합뉴스) 김선형 기자 = 경북 영주시 남원천에서 호우 속 급류에 휩쓸려 실종된 70대 남성을 찾기 위한 수색 작업이 나흘째 이어지고 있..."
+      "\"'10년 신뢰'로 모스크바 발레 올림픽서 나란히 金 땄다\"."
     ],
     "chips": [
       "#뉴스"
@@ -649,21 +638,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
+  },
+  {
+    "rank": 2,
     "tag": "AI",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
-    "rank": 2,
-    "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
-  },
-  {
     "rank": 3,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
