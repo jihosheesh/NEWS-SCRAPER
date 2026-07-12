@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-12 20:00:49
+// 마지막 업데이트: 2026-07-12 21:39:36
 window.NEWS_DB = [
   {
     "id": "n676ea3c9",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBON0FQRHA0UjFxTDV2Nms0OWpjTjE5VWhvQklHRDRDaEViUW4zYS1VSDh1VXZsMkpVZk1HX2ZYcnZ6VnEtRWJTM2RBNmhsMHkyODF1bzlQWFlLLW51bWVnVXVfanJ1Ynkta0lDVA?oc=5",
     "title": "유출 논란 '모두의 창업' 아이디어, 전국서 보호 상담 시작",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7ad5a643",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRjVsTDR2ZFV5WTMtNjNqT2VucEpCdmpOQkFmc2Z2SGpnNDNXbkxZU2xXeXdTazFiN3dZOU9nMTEtLUpkbHFkNzBkak9NTWQxVlZBVkdOQnBBUW9DZk95SW80Sm8?oc=5",
     "title": "“엔비디아 의존 끝낸다”…메타, 9월 자체 AI 칩 양산 돌입",
     "summary": [
@@ -28,6 +28,20 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "nea732ef0",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtby12c1phWFI5a2ZoSjZxMk5hQTYxNndWb0dwSmpvNHRfNTh2ZkhiUmNCVzQzVnpFZDNMSVNMbUx4MGxOOUY4aktsSHRETWt1M3E4?oc=5",
+    "title": "굿바이 잠실 야구장 [MK포토]",
+    "summary": [
+      "굿바이 잠실 야구장 [MK포토] 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -42,21 +56,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n16107a45",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCUnNGeHlwbEFKMVBUWTJ6Tll1aHJZeldUc2dPU2ZRS3lXdzQ5R2hhTkxvaXZpVi1DNVY5T041dEZrcjhnM05VdFNzUnVnZy1Ub1EwQkVEaERDT0FuTlg0aVR0Yk85blBN?oc=5",
-    "title": "조민영, 야구장에 나타난 '손흥민?' [포토엔HD]",
-    "summary": [
-      "조민영, 야구장에 나타난 '손흥민?' [포토엔HD] 네이트."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
     ]
   },
   {
@@ -75,21 +74,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n82c49f7f",
-    "category": "사회",
-    "source": "Vietnam.vn",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOEVmdGpidWJTLTZ2UExGbDlXa3k0MWRHZWt3RS05V2ZtZDNzYnd3RjduMVdLVjJudkZIQXRYWEpvRTRyUEw3QkMyN2Z6UTB6ZlV2Ml85YUctOWRWWkIzMnNJUW5YbkZTSEJmdXMxQllUNm9rd1doTXlwaFVjWU1XQmFqdWo0UQ?oc=5",
-    "title": "구직자들에게 더욱 가까운 곳에서 일자리 정보를 제공합니다.",
-    "summary": [
-      "구직자들에게 더욱 가까운 곳에서 일자리 정보를 제공합니다."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n84f4e27e",
     "category": "IT",
     "source": "연합뉴스",
@@ -105,21 +89,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8783922f",
-    "category": "IT",
-    "source": "딜사이트",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ObFhyaEczRjBiVVZhektlWlE1ZTZTU3BobmlxTXE4OUxsNUlwcmthMzZjaElNVDRYTEs1ei1yanlOSWNEWWJwZEN0Rzh2NFk?oc=5",
-    "title": "[삼성 반도체 점검] 삼성전자, HBM4로 종합반도체 실효성 가늠",
-    "summary": [
-      "[삼성 반도체 점검] 삼성전자, HBM4로 종합반도체 실효성 가늠 딜사이트."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "nec851840",
     "category": "경제",
     "source": "이투데이",
@@ -132,21 +101,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "nb6df5091",
-    "category": "스포츠",
-    "source": "starnewskorea.com",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
-    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
-    "summary": [
-      "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위...",
-      "2위는 KBO 홈런 1위 김도영 starnewskorea.com."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -197,6 +151,37 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nccb73b86",
+    "category": "IT",
+    "source": "인베스트조선",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
+    "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
+    "summary": [
+      "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 인베스트조선."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n2aad78a4",
+    "category": "사회",
+    "source": "스포츠동아",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
+    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
+    "summary": [
+      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 스포츠동아."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
@@ -240,6 +225,20 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "n646824f1",
+    "category": "스포츠",
+    "source": "v.daum.net",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WZWY5ZXlFNllvSUVqQkhPZTRoT3pmT1E5MUFkTmR2dGF1NkxfaEMxcnJ6QmZ6S1JSalpOV0k2UF9hN0F0QnV4TFoySHJIYlU?oc=5",
+    "title": "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드]",
+    "summary": [
+      "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드] v.daum.net."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -347,300 +346,281 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3aaa170d",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/future/2026/07/13/2026070916555478448",
-    "title": "\"토종 소형 스텔스 무인기 승부수\"…미래전 게임체인저 노리는 이곳",
-    "summary": [
-      "[스타트UP스토리] 김정호 에이디시스템 대표 [이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] \"최근에는 세계 최대 민간 드론 제조업체인 중국 DJI의 30㎝급 소형 드론도 레이더에 탐지될 정도로 드론 탐지 기술이 빠르게 발전하고 있습니다.",
-      "미래전에서 저피탐 능력을 갖춘 '스텔스 무인기'는 선택이 아니라 필수 기술이 될 것입니다.\" 김정호 에이디시스템 대표는 최근 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n4157b45f",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/society/2026/07/13/2026071223294985611",
-    "title": "불륜 충격에 8㎏ 빠진 아내의 이혼 통보…남편은 \"진짜 전 재산 줘야하나\"",
-    "summary": [
-      "회사 직원과 불륜을 저질러 아내에게 이혼을 요구받은 40대 남성이 재산 분할에 대한 고민을 털어놨다.",
-      "지난 12일 유튜브 채널 '양나래 변호사'에는 결혼 9년 차, 아들 하나를 두고 있는 40대 남성의 사연이 전해졌다.",
-      "사연자는 지난해 연말부터 회사 직원과 부적절한 관계를 이어오다 3개월 만에 아내에게 발각됐다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1c5cd65a",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705900",
-    "title": "브라이언, 300평대 대저택 공개…\"건축비만 20억 이상\"",
-    "summary": [
-      "[서울=뉴시스] 이종희 기자 = 가수 브라이언이 자신의 로망을 실현한 300평대 단독주택을 공개했다.",
-      "12일 방송된 SBS '미운 우리 새끼'에는 브라이언의 집을 찾은 임원희와 김희철, 서남용의 모습이 그려졌다.",
-      "지상 2층, 지하 1층 규모의 약 300평 단독주택인 브라이언의 집은 평소 그가 꿈꿔왔던 로망을 그대로 구현한 공간이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n22d5b7f3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705901",
-    "title": "전인화, 유동근 닮은 아들 지상 근황 공개…\"내 사랑\"",
-    "summary": [
-      "[서울=뉴시스] 이종희 기자 = 배우 전인화가 아들 지상과 보낸 일상을 공개했다.",
-      "전인화는 12일 소셜미디어에 \"내 사랑 두 아들\"이라는 짧은 글과 함께 사진을 공개했다.",
-      "사진에는 아들 지상과 반려견들이 함께 시간을 보내는 모습이 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n309e18d6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705902",
-    "title": "카리나 \"키 168㎝인데 팔 짧아…별명 '티라노'\"",
-    "summary": [
-      "[서울=뉴시스] 이종희 기자 = 에스파 카리나가 신체 컴플렉스에 대해 언급했다.",
-      "12일 방송된 JTBC '냉장고를 부탁해'에는 카리나가 출연했다.",
-      "이날 카리나는 정호영 셰프에게 내적 친밀감을 느낀다고 말해 눈길을 끌었다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n2ada74c8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705906",
-    "title": "최다니엘, 왕게임서 연상 누나와 첫 키스…\"너무 예뻐 보였다\"",
-    "summary": [
-      "[서울=뉴시스] 이종희 기자 = 배우 최다니엘이 첫 키스에 얽힌 사연을 고백했다.",
-      "12일 방송된 SBS '미운 우리 새끼'에서는 최다니엘이 스페셜 MC로 출연했다.",
-      "방송에서 서장훈은 \"최다니엘이 첫키스를 왕게임을 하다가 연상의 누나와 했다고 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n988de7e0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/13/2026071300210714878",
-    "title": "메시 '향수 냄새' 잊지 못하는 야잔 \"10m 밖에서도 나더라, 꿈 같은 경험\"... 실력에도 깜놀 \"고개를 쉴새 없이 돌려\" [상암 현장]",
-    "summary": [
-      "야잔(30)이 '축구 황제' 리오넬 메시(40)와 맞붙은 기억을 떠올렸다.",
-      "서울은 지난 12일 서울월드컵경기장에서 열린 '하나은행 K리그1 2026' 17라운드 홈 경기에서 득점 없이 0-0으로 비겼다.",
-      "양 팀은 승점 1점씩 나눠 가졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n34a4e469",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/13/2026071304182366011",
-    "title": "최다니엘, '♥장도연'과 촬영 중 설렘 인정 \"친해져서 너무 좋아\"",
-    "summary": [
-      "최다니엘이 장도연 때문에 '구기동 프렌즈' 출연을 결심했다고 밝힌 가운데 함께 촬영하며 설렌 적이 있다고 솔직하게 고백했다.",
-      "12일 방영된 SBS '미운 우리 새끼' 503회에서는 배우 최다니엘이 게스트로 출연해 근황을 전했다.",
-      "이날 서장훈은 최다니엘에게 최근 출연한 예능 '구기동 프렌즈'를 언급하며 \"최근에 최다니엘 씨가 '구기동 프렌즈'에 출연했는데 장도연 씨 때문에 출연을 결심했다고 들었다\"고 말을 걸었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c4599c0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/13/GJSDANJUGRSTEYJXGE3GCN3FGE/",
-    "title": "\"PSG가 서류 발송 안 했다\"...'이강인(25, 아틀레티코)' 오피셜이 안 뜨는 이유 \"이미 완료된 이적, 발표 계속 미뤄진다\"",
-    "summary": [
-      "[OSEN=고성환 기자] 이강인(25, 파리 생제르맹)이 아틀레티코 마드리드 이적을 이미 마무리했다.",
-      "하지만 파리 생제르맹(PSG)이 시간을 끄는 바람에 '오피셜'이 늦어지고 있다는 소식이다.아틀레티코 소식을 다루는 '에스토 에스 알레띠'는 12일(한국시간) \"아틀레티코 마드리드가 한국 국가대표 이강인의 영입을 아직 공식 발표하지 않는 진짜 이유를 알아보자."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na0382af3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/13/G42DGZDDGJRDQMJUHA3DMNZZHA/",
-    "title": "\"엉망진창이다\" 무려 '12.5G' 압도적 1위 질주인데…다저스 벌써 휴가 갔나, 갑자기 왜 이래?",
-    "summary": [
-      "[OSEN=이상학 객원기자] 메이저리그 최고 승률을 질주 중인 LA 다저스가 전반기 막판 눈에 띄게 무기력해졌다.",
-      "올스타 휴식기를 앞두고 선수들의 마음은 벌써 휴가를 간 것 같다.",
-      "다저스는 지난 12일(이하 한국시간) 애리조나 다이아몬드 백스와의 홈경기에서 2-9 완패를 당했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n889cee10",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/13/Z3UMTROXMJEXXBOOOJEWVCHCQQ/",
-    "title": "美 물가 가늠할 이벤트 쏟아진다…이번 주 월가의 눈길은?",
-    "summary": [
-      "美 물가 가늠할 이벤트 쏟아진다…이번 주 월가의 눈길은?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44ffa18f",
+    "id": "n390b6531",
     "category": "경제",
     "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026071304352466982",
-    "title": "김주형, 스코틀랜드서 33개월 만에 우승…통산 4승",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026062309293951338",
+    "title": "\"면사랑이 뭐죠?\"…오뚜기 사돈기업의 힘겨운 홀로서기",
     "summary": [
-      "그는 13일(한국시간) 영국 스코틀랜드 노스 베릭의 르네상스 클럽(파70)에서 열린 미국프로골프(PGA) 투어 제네시스 스코티시 오픈(총상금 900만달러) 4라운드에서 보기 없이 버디 6개를 골라냈다.",
-      "최종 합계 17언더파 263타를 적어낸 김주형은 호주 교포 이민우(15언더파 265타)를 2타 차로 따돌리고 정상에 올랐다.",
-      "김주형은 2023년 10월 슈라이너스 칠드런스 오픈 이후 33개월 만에 통산 4승을 수확했."
+      "오뚜기 주문자상표부착생산(OEM) 업체 이미지를 벗기 위한 면사랑의 체질 개선 작업이 속도를 내지 못하고 있다.",
+      "소비자 시장에 뛰어든 지 5년이 지났지만, 지난해 소비자간거래(B2C) 매출 비중은 여전히 한 자릿수에 머물렀다.",
+      "오히려 오뚜기 거래에서 발생한 매출이 소비자 사업 규모를 넘어섰다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf78a4c29",
+    "id": "n5c33c997",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705951",
+    "title": "[속보]미 중부사 \"통수권자 명령으로 이란 추가공습 개시\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne5876939",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705948",
+    "title": "부산, 가끔 구름 많고 무더운 날씨…낮 최고기온 31도",
+    "summary": [
+      "[부산=뉴시스]진민현 기자 = 13일 부산 지역은 가끔 구름이 많다가 밤부터 흐려지겠다고 부산기상청은 예보했다.",
+      "이날 낮 최고기온은 31도, 14일 아침 최저기온은 25도로 예상됐다.",
+      "현재 부산 전역에는 폭염주의보가 발효 중으로 당분간 최고체감온도가 33도 이상으로 올라 더울 것으로 전망됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n13000e23",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705937",
+    "title": "태국 방콕 술집서 새벽 대형 화재…최소 27명 사망",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 태국 수도 방콕의 한 술집에서 대형 화재가 발생해 최소 27명이 숨지고 다수가 다치는 참사가 발생했다.",
+      "13일(현지 시간) AP통신 등에 따르면 이날 자정께 방콕 북부 라드프라오 지역에 위치한 '나 라드프라오' 술집에서 화재가 발생했다.",
+      "화재 신고는 이날 자정께 접수됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb507560b",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026071306310223796",
+    "title": "[속보]미군 \"군통수권자 지시로 이란에 추가 공습 개시\"",
+    "summary": [
+      "[속보]미군 \"군통수권자 지시로 이란에 추가 공습 개시\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1318eeaa",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713002900071",
-    "title": "방콕 북부 술집서 심야 화재로 최소 27명 사망",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713005951071",
+    "title": "미군 \"이란에 추가공습 개시…호르무즈 상선 공격역량 약화\"",
     "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 13일(현지시간) 새벽 태국 방콕 북부의 한 술집에서 불이 나 최소 27명이 사망했다고 AP통신이 보도했다..."
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미군 중부사령부는 12일(현지시간) 호르무즈 해협에서 상선을 위협하는 이란을 상대로 추가 공습을 개시했다고..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nff0af9c6",
+    "id": "n396f4a05",
     "category": "사회",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260713/134284469/2",
-    "title": "삼성전자 용인 팹 건설… 1기 완공 2년 앞당긴다",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260709160500062",
+    "title": "[유형재의 새록새록] 숲속 육아 전쟁, 어미 꾀꼬리의 세상 가장 고운 노래",
     "summary": [
-      "정부와 삼성전자가 경기 용인 국가산업단지에 들어설 총 6개 반도체 팹(Fab·제조공장) 중 첫 번째 팹의 가동 시점을 당초 계획보다 2년 빠른 2029년으로 앞당긴다.",
-      "용인 국가산단 건설 속도를 높여 글로벌 메모리 반도체 공급망 경쟁에서 주도권을 확실히 굳히겠다는 전략이다.",
-      "12일 반도체 업계에 따르면 6일 대통령 주재로 열린 ‘메가프로젝트 민관합동 점검회의’에서 삼성전자의 용인 국가산단 내 첫 번째 팹 가동 목표를 기존 2031년에서 2029."
+      "(강릉=연합뉴스) 유형재 기자 = 어미 꾀꼬리가 갓 태어난 새끼가 있는 둥지로 돌아가기 직전 세상 가장 아름답고 부드러운 소리를 내며 작은 숲을..."
     ],
     "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n83241adc",
+    "id": "n9915956c",
     "category": "경제",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260713/134284467/2",
-    "title": "SK하이닉스, 나스닥 첫날 공모가보다 13% 상승",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712022600030",
+    "title": "유업계, 우유 대신 외식 키운다…커피전문점·레스토랑으로 확장",
     "summary": [
-      "미국주식예탁증서(ADR)를 통해 미국 나스닥에 상장한 SK하이닉스가 첫 거래일에 공모가 대비 약 13% 올랐다.",
-      "코스피에 상장된 SK하이닉스 본주보다 16%가량 높은 가격이다.",
-      "SK하이닉스의 미국예탁주식(ADS)은 10일(현지 시간) 공모가(149달러)보다 12.76% 오른 168.01달러에 첫날 조건부 거래를 마쳤다."
+      "(서울=연합뉴스) 김세린 기자 = 유업계가 커피·레스토랑·디저트 등 외식 사업을 미래 성장동력으로 육성하며 수익원 다변화에 나서고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63711a81",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712050000057",
+    "title": "현대차 노조, 임협 난항으로 오늘부터 부분 파업",
+    "summary": [
+      "(울산=연합뉴스) 김근주 기자 = 국내 최대 자동차 업계 노동조합인 현대자동차 노조(금속노조 현대차지부)가 임금협상 난항으로 13일 파업에 들어..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85ef793d",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260712_0003705907",
+    "title": "SK하이닉스, 美 나스닥 상장…하루 만에 13% 뛰어[간추린 주말 뉴스]",
+    "summary": [
+      "[서울=뉴시스]박지혁 기자 = SK하이닉스 미국주식예탁증서(ADR)가 나스닥 데뷔 첫날 13% 넘게 급등하며 흥행에 성공했다.",
+      "ADR 가격이 국내 본주 종가보다 약 16% 높은 수준에서 형성되면서 오는 13일 국내 증시에서 본주 주가와 외국인 수급에 어떤 영향을 미칠지 주목된다.",
+      "10일(현지시간) 미국 나스닥에서 SK하이닉스 ADR은 공모가(149달러)보다 14.1% 높은 170달러에 거래를 시작해 장중 177달러까지 올랐다."
     ],
     "chips": [
       "#SK하이닉스"
     ]
   },
   {
-    "id": "nc9d7c10a",
+    "id": "n4fd2bb55",
     "category": "사회",
     "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260713/134284465/2",
-    "title": "‘경산 39.9도’ 첫 폭염중대경보 “야외활동 중지”",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260713/134284874/1",
+    "title": "트럼프 “호르무즈 열려 있다…이란 사정없이 폭격”",
     "summary": [
-      "지난달 1일 첫 도입된 ‘폭염중대경보’가 12일 경북 경산과 포항에 처음 발령됐다.",
-      "전국 대부분 지역에도 폭염특보가 이어지는 가운데 이번 폭염은 13일까지 절정에 이를 것으로 전망된다.",
-      "폭염중대경보 발령으로 질병관리청은 야외활동 즉시 중단 등 온열질환 예방을 위한 건강수칙 준수를 당부했다."
+      "미국이 호르무즈 해협에서 민간 선박을 도발한 이란을 상대로 대규모 보복 공습을 감행했다.",
+      "도널드 트럼프 미국 대통령은 이번 공습으로 해협의 안전을 확보했다고 공언하며 이란의 해협 봉쇄 주장을 일축했다.트럼프 대통령은 12일(현지시간) NBC 및 CNN 방송과의 전화 인터뷰에서 “어젯밤 이란을 매우 강력하게 타격했다”며 “호르무즈 해협은 열려 있으며, 그들을 사정없이 폭격했다”고 밝혔다.이번 군사 조치는 미 중부사령부(CENTCOM)의 주도로 진."
     ],
     "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nfa9e927c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260713/134284463/2",
-    "title": "대법 “보완수사권 폐지 부작용 막을 보완책 필요”",
-    "summary": [
-      "대법원이 검사의 보완수사권을 폐지하는 내용의 형사소송법 개정안에 대해 “입법 정책적으로 결정할 사안”이라면서도 “부작용을 방지하기 위한 충분한 보완 방안이 함께 마련될 필요가 있다”고 밝혔다.",
-      "대법원 법원행정처가 보완수사권 존폐와 관련한 의견을 표명한 건 이번이 처음이다.",
-      "법원행정처는 최근 더불어민주당 김용민 의원과 조국혁신당 박은정 의원이 대표 발의한 형사소송법 개정안에 대해 이 같은 내용이 담긴 검토 의견서를 국회에 제출했다고 12일 밝혔다."
-    ],
-    "chips": [
-      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "n58b4f6f2",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713002100009",
-    "title": "[월드컵] 아르헨-잉글랜드, 외나무다리서 만난 '축구 그 이상의 라이벌'",
+    "id": "nde54b87b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/13/MYZWKYZUMQZTIZJQGQ4GCZJUMM/",
+    "title": "양준혁이 또..아내도 몰래 300평 사업 들통났다. \"왜 자꾸 일 저질러\" 분농 ('사당귀')",
     "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = \"그저 축구일 뿐이다.\"."
+      "[OSEN=김수형 기자] '양신' 양준혁이 또 한 번 대형 사업 계획을 공개했다.",
+      "하지만 정작 아내는 방송을 통해 처음 알게 됐고, \"왜 이렇게 일을 저지를까\"라며 분노를 터뜨렸다.12일 방송된 KBS2 '사장님 귀는 당나귀 귀'에서는 조서형 셰프가 양준혁의 포항 해산물 사업을 돕기 위해 다시 찾은 모습이 그려졌다.앞서 양준혁은 방어 양식장과 횟집 운영의."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n79315b3b",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713002800007",
-    "title": "신네르, 츠베레프 꺾고 윔블던 2연패…메이저 통산 5회 우승",
+    "id": "n0d0ff68a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/international/us/2026/07/13/6BBKKQAWLRFFPPQTED2IBEYTNE/",
+    "title": "美정가, 그레이엄 의원 사망에 충격… 의회 내 최대 우군 잃은 트럼프",
     "summary": [
-      "(서울=연합뉴스) 안홍석 기자 = 남자 테니스 세계 1위 얀니크 신네르(이탈리아)가 2026 윔블던 테니스대회(총상금 6천420만파운드) 우승을..."
+      "美정가, 그레이엄 의원 사망에 충격… 의회 내 최대 우군 잃은 트럼프."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d6effaa",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "15분 전",
+    "url": "https://www.hankyung.com/article/202606294316i",
+    "title": "[스타트업]근감소증 치료제 개발하는 애니머스큐어 연내 2상 결과 나와… 비만약과 병용 추진",
+    "summary": [
+      "[스타트업]근감소증 치료제 개발하는 애니머스큐어 연내 2상 결과 나와… 비만약과 병용 추진."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n9b537744",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "17분 전",
+    "url": "https://www.hankyung.com/article/202606294124i",
+    "title": "[COVER STORY⑥ COMPANY]클래시스 “써마지와 붙어도 통했다… 2030년 국내 매출 2000억 도전”",
+    "summary": [
+      "[COVER STORY⑥ COMPANY]클래시스 “써마지와 붙어도 통했다… 2030년 국내 매출 2000억 도전”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd1ed2278",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "29분 전",
+    "url": "https://view.asiae.co.kr/article/2026071016313496309",
+    "title": "금융당국, 산은·수은·기은 경영평가 착수…이달 '성적표' 나온다",
+    "summary": [
+      "금융당국이 산업은행과 수출입은행, IBK기업은행 등 국책은행의 지난해 경영실적을 평가하는 절차에 착수했다.",
+      "평가 결과는 임직원 성과급뿐 아니라 다음 연도 예산과 정원에도 영향을 미친다.",
+      "기관별 최종 등급은 이달 중 발표될 것으로 보인다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n185caf2c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "34분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/13/RFS3ZTZIHVB6HJK6PA72M6ETWI/",
+    "title": "한강, 노벨상 후 첫 공개 활동 “문학의 진실한 순간이 우릴 연결”",
+    "summary": [
+      "한강, 노벨상 후 첫 공개 활동 “문학의 진실한 순간이 우릴 연결”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne6110e7b",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "34분 전",
+    "url": "https://view.asiae.co.kr/article/2026071306042505430",
+    "title": "신네르, 윔블던 2연패…\"지난 2주간 정말 행복했다\"",
+    "summary": [
+      "세계랭킹 1위 얀니크 신네르(이탈리아)가 2026 윔블던 테니스대회(총상금 6420만파운드)에서 2연패를 달성했다.",
+      "신네르는 13일(한국시간) 영국 런던의 올잉글랜드클럽에서 열린 대회 마지막 날 남자 단식 결승에서 알렉산더 츠베레프(3위·독일)에게 3시간 46분 만에 3-1(6-7<7-9> 7-6<7-2> 6-3 6-4)로 승리했다.",
+      "지난해 대회 결승에서 첫 윔블던 우승을 달성한 이후 2년 연속 정상에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n619c24da",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260712025600004",
+    "title": "서울시, 소규모 정비사업 전자투표·총회 도입시 최대 300만원",
+    "summary": [
+      "(서울=연합뉴스) 김준태 기자 = 서울시가 모아주택 등 소규모 정비사업으로 전자투표·온라인총회 지원을 확대한다고 13일 밝혔다."
+    ],
+    "chips": [
+      "#교육"
     ]
   }
 ];
@@ -650,8 +630,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
