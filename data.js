@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-12 17:51:16
+// 마지막 업데이트: 2026-07-12 18:50:03
 window.NEWS_DB = [
   {
     "id": "n676ea3c9",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBON0FQRHA0UjFxTDV2Nms0OWpjTjE5VWhvQklHRDRDaEViUW4zYS1VSDh1VXZsMkpVZk1HX2ZYcnZ6VnEtRWJTM2RBNmhsMHkyODF1bzlQWFlLLW51bWVnVXVfanJ1Ynkta0lDVA?oc=5",
     "title": "유출 논란 '모두의 창업' 아이디어, 전국서 보호 상담 시작",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7ad5a643",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRjVsTDR2ZFV5WTMtNjNqT2VucEpCdmpOQkFmc2Z2SGpnNDNXbkxZU2xXeXdTazFiN3dZOU9nMTEtLUpkbHFkNzBkak9NTWQxVlZBVkdOQnBBUW9DZk95SW80Sm8?oc=5",
     "title": "“엔비디아 의존 끝낸다”…메타, 9월 자체 AI 칩 양산 돌입",
     "summary": [
@@ -347,10 +347,102 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n894efe95",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705924",
+    "title": "친트럼프 美 그레이엄 상원의원 별세…트럼프 \"진정한 애국자\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 권성근 고재은 기자 = 친(親)트럼프 계열 4선 린지 그레이엄 공화당 상원의원(사우스캐롤라이나)이 별세했다.",
+      "그레이엄 의원실은 12일(현지 시간) 소셜미디어(SNS) 엑스(X·옛 트위터)를 통해 \"의원이 전날(11일) 짧고 갑작스러운 투병 끝에 별세했다\"고 발표했다.",
+      "뉴욕타임스(NYT), 가디언 등에 따르면 그레이엄 의원은 2003년부터 사우스캐롤라이나주를 대표하는 상원의원으로 활동했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n51a46ebb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/10/MU2DOOBXG44DAOJQGZSTANRQG4/",
+    "title": "9회 1사 만루 위기→병살타 엔딩 승리→11년 만에 전반기 1위...박진만 \"2008 베이징올림픽 생각나 유격수 전진 배치\"",
+    "summary": [
+      "[OSEN=대구, 한용섭 기자] 11년 만에 전반기 1위다.",
+      "1점 차 앞선 9회 1사 만루 역전 위기에서 병살타로 처리해 승리를 지켰다.",
+      "프로야구 삼성 라이온즈가 전반기 마지막 경기에서 LG 트윈스를 꺾고 2015년 이후 11년 만에 전반기 1위를 차지했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8dded35f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/13/MMZDAMBXGNRTQNRXGI3WMZBSMU/",
+    "title": "FIFA는 결국 침묵했다. 英 BBC의 직격탄 \"콴사는 2경기 징계. 왜 발로군 징계는 취소했나\" FIFA 징계위원장 묵묵부답",
+    "summary": [
+      "[스포츠조선 류동혁 기자] 국제축구연맹(FIFA)은 폴라린 발로군의 징계 유예의 이유에 대해 결국 침묵했다.",
+      "영국 BBC는 12일(한국시각) 'FIFA 징계위원회 위원장은 미국 스트라이커 폴라린 발로군이 퇴장 이후 출전 정지 처분을 피한 결정에 관한 BBC의 질문에 답변을 거부했다'고 보도했다.",
+      "미국의 에이스 공격수 발로군은 보스니아-헤르체고비나와의 32강."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9fea2c2c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "50분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/07/13/EKAARIG2UJAXPNHS7KKZ2RPJMY/",
+    "title": "[41화] 황실을 위해 눈물 짓던 충신이 옥새를 보더니…",
+    "summary": [
+      "[41화] 황실을 위해 눈물 짓던 충신이 옥새를 보더니…."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n722feb20",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "50분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/07/13/JOSP37IPKFAKJJRRS7GUBIDCGA/",
+    "title": "중국판 인스타그램 ‘샤오홍슈’는 어떻게 100조원 가치 소셜미디어가 됐나",
+    "summary": [
+      "중국판 인스타그램 ‘샤오홍슈’는 어떻게 100조원 가치 소셜미디어가 됐나."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb38b11cb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "56분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705929",
+    "title": "美 \"이란 방공망·해군 고속정 공격\"…이란 \"케슘섬, 공격받아\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 미국과 이란의 무력 충돌이 격화하고 있는 가운데 호르무즈 해협 인근의 케슘섬이 공격받은 것으로 전해졌다.",
+      "이란 관영 IRNA 통신은 12일(현지 시간) \"적이 케슘섬을 향해 미사일을 발사했다\"며 인명 피해는 보고되지 않았다고 보도했다.",
+      "통신은 케슘섬 주지사를 인용 \"일요일 오후 10~11발의 적의 발사체가 케슘섬을 강타했다\"고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "na6a6745e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260713002000084",
     "title": "아세안, 미얀마와 외교장관 회의…평화 합의안 이행 촉구",
     "summary": [
@@ -364,7 +456,7 @@ window.NEWS_DB = [
     "id": "ne09a4aa7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260713_0003705928",
     "title": "이란 매체 \"케슘섬, 적 공격받아…미사일 발사돼\"",
     "summary": [
@@ -380,7 +472,7 @@ window.NEWS_DB = [
     "id": "n9148410d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260713001700087",
     "title": "칠레 축제 현장에 차량 돌진…6명 사망",
     "summary": [
@@ -394,7 +486,7 @@ window.NEWS_DB = [
     "id": "n3a8afaec",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "42분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260713001600072",
     "title": "SK하이닉스 ADR 연계 레버리지 ETF 13∼14일 美출시 '봇물'",
     "summary": [
@@ -408,7 +500,7 @@ window.NEWS_DB = [
     "id": "n5296c04f",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260713001200108",
     "title": "시리아 의회 개원…알아사드 축출 후 1년반만에 활동 시작",
     "summary": [
@@ -419,26 +511,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64e0e0a2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "54분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/13/MRRTOZBXMVQWMYJSGVRWENBWG4/",
-    "title": "\"첫 결승전서 우승 행복\" 송진우의 후배들, 4번 없이도 44년만 우승, 대회 5관왕도 탄생[청룡기]",
-    "summary": [
-      "세광고가 전통의 강호 경북고를 꺾고 청룡기 첫 우승을 차지했다.",
-      "세광고는 12일 목동구장에서 열린 제81회 청룡기 전국고교야구선수권대회 겸 주말리그 왕중왕전(조선일보·스포츠조선·대한야구소프트볼협회 공동 주최) 경북고와의 결승전에서 6대2로 승리하며 1954년 창단 후 처음으로 청룡기 트로피를 품었다.",
-      "세광고는 송진우가 활약하던 1982년 황금사자기 첫 우승."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "na389cd09",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260713_0003705927",
     "title": "[속보]이란 매체 \"케슘섬 향해 적 미사일 발사돼\"",
     "summary": [
@@ -449,74 +525,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nad13de35",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260713_0003705923",
-    "title": "젤렌스키 \"정치 전략 바꿔야\" 내각 개편 예고…총리 사임",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 볼로디미르 젤렌스키 우크라이나 대통령은 새로운 정치 전략 이행을 위해 내각 개편에 나설 것이라며 인적 쇄신을 예고했다.",
-      "젤렌스키 대통령은 12일(현지 시간) 소셜미디어 엑스(X·옛 트위터)를 통해 \"율리아 스비리덴코 총리와 세부 사항을 논의했다\"며 \"내각 개편이 필요하다는 데 의견을 모았다\"고 밝혔다.",
-      "스비리덴코 총리도 교체 대상인 것으로 전해졌다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd2d97ac2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/13/MY2TQYTGMMYTQYRZGJTDQNBXGA/",
-    "title": "‘와’ 삼성 우승에 이토록 진심이다! 어떻게 시즌 도중 현역 빅리거 품었나, 벌써 기대 폭발 “구단이 좋은 투수 데려왔다고 들었다”",
-    "summary": [
-      "[OSEN=이후광 기자] 이토록 우승에 진심이라니.",
-      "삼성은 어떻게 대체 외국인투수로 현역 메이저리거를 데려올 수 있었을까.",
-      "프로야구 삼성 라이온즈는 지난 11일 “부상 대체 외국인선수로 뛰어온 잭 오러클린과 계약 연장 대신 최근까지 메이저리그에서 뛴 우완투수 크리스 페덱에게 선발 마운드의 한 축을 맡도록 할 계획이다”라고 공식 발표하며 총액 47만3333달."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n16f1b5ba",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/football/2026/07/13/MJTDSMRSMU3WENLEGQ4GCMBVHE/",
-    "title": "[단독]또 한명의 젊은 유럽파 탄생! 부천이 애지중지 키운 이충현, 독일 2부 마그데부르크 전격 이적 '윤도영과 한솥밥'",
-    "summary": [
-      "[스포츠조선 박찬준 기자]또 한명의 유럽파가 탄생했다.",
-      "K리그 이적시장에 정통한 관계자는 \"부천의 유망주 이충현이 독일 분데스리가2 마그데부르크로 임대 이적한다\"고 전했다.",
-      "이어 \"이충현이 이미 독일로 떠났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n164ae79e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260710_0003704649",
-    "title": "\"주말에 쭉 잤는데도 피곤하네\"…몸이 보내는 경고",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = \"충분히 잠을 잤는데도 아침부터 몸이 무겁고, 주말 내내 쉬어도 피곤함이 가시지 않아요.“ 직장인 정모(38)씨는 최근 몇 달 동안 이유를 알 수 없는 피로에 시달렸다.",
-      "업무 중 집중력이 급격히 떨어지고 사소한 실수가 잦아졌으며, 퇴근 후에는 아무것도 하지 못한 채 잠자리에 드는 날이 반복됐다.",
-      "처음에는 과로 때문이라고 생각했지만 휴가를 다녀온 뒤에도 피로는 좀처럼 나아지지 않았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n275a92c3",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026071203941",
     "title": "대북·대이란 공화당 강경파…'트럼프 측근' 그레이엄 의원 별세",
     "summary": [
@@ -530,7 +542,7 @@ window.NEWS_DB = [
     "id": "n96b1152f",
     "category": "IT",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283216/2",
     "title": "[단독]‘꿈의 소재’ 실리콘 음극재로 방산 시장 정조준",
     "summary": [
@@ -546,7 +558,7 @@ window.NEWS_DB = [
     "id": "nf658c906",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283231/2",
     "title": "올여름 평균휴가 3.8일… 대기업이 0.9일 더 길어",
     "summary": [
@@ -562,7 +574,7 @@ window.NEWS_DB = [
     "id": "n556f6c27",
     "category": "경제",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283233/2",
     "title": "원-달러 환율 1400원대 하락에 달러예금 9조 증가",
     "summary": [
@@ -578,7 +590,7 @@ window.NEWS_DB = [
     "id": "n5baee0e5",
     "category": "부동산",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283276/2",
     "title": "작년 종부세, 강남3구가 33% 냈다… 성동구 41% 급증",
     "summary": [
@@ -594,7 +606,7 @@ window.NEWS_DB = [
     "id": "na62a34fb",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202607120414i",
     "title": "유해란, 연장 접전 끝 우승…2회 연속 LPGA '메이저 퀸'",
     "summary": [
@@ -608,25 +620,11 @@ window.NEWS_DB = [
     "id": "n15765472",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026071203767",
     "title": "'차이나 머니' 집결한 홍콩, 세계 최대 역외 자산관리 시장 등극",
     "summary": [
       "'차이나 머니' 집결한 홍콩, 세계 최대 역외 자산관리 시장 등극."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nae49da0f",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "5시간 전",
-    "url": "https://www.hankyung.com/article/2026071203687",
-    "title": "이란 최고지도자 군사고문 \"호르무즈, 원폭 수십 개보다 중요\"",
-    "summary": [
-      "이란 최고지도자 군사고문 \"호르무즈, 원폭 수십 개보다 중요\"."
     ],
     "chips": [
       "#뉴스"
@@ -639,18 +637,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1420건",
     "trend": "+115%"
   }
