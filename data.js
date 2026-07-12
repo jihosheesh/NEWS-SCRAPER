@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-12 15:49:20
+// 마지막 업데이트: 2026-07-12 16:45:01
 window.NEWS_DB = [
   {
     "id": "n676ea3c9",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBON0FQRHA0UjFxTDV2Nms0OWpjTjE5VWhvQklHRDRDaEViUW4zYS1VSDh1VXZsMkpVZk1HX2ZYcnZ6VnEtRWJTM2RBNmhsMHkyODF1bzlQWFlLLW51bWVnVXVfanJ1Ynkta0lDVA?oc=5",
     "title": "유출 논란 '모두의 창업' 아이디어, 전국서 보호 상담 시작",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7ad5a643",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRjVsTDR2ZFV5WTMtNjNqT2VucEpCdmpOQkFmc2Z2SGpnNDNXbkxZU2xXeXdTazFiN3dZOU9nMTEtLUpkbHFkNzBkak9NTWQxVlZBVkdOQnBBUW9DZk95SW80Sm8?oc=5",
     "title": "“엔비디아 의존 끝낸다”…메타, 9월 자체 AI 칩 양산 돌입",
     "summary": [
@@ -60,21 +60,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe0a91d8",
-    "category": "IT",
-    "source": "매일경제",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pNjM3NVdqM2c2UWx3TkNrM0Zxb3hjUDZkOW9UUmt6M2lCQTE5Qnd3RVFGUk5YemZIMHVSamVSalBxMDk0MUNfMnl1b2Mwa01VUHE5WDFB?oc=5",
-    "title": "“H200 구매 허용한다”…中 수출길 열린 엔비디아",
-    "summary": [
-      "“H200 구매 허용한다”…中 수출길 열린 엔비디아 매일경제."
-    ],
-    "chips": [
-      "#엔비디아",
-      "#수출"
-    ]
-  },
-  {
     "id": "n82c49f7f",
     "category": "사회",
     "source": "Vietnam.vn",
@@ -101,6 +86,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n163a3950",
+    "category": "IT",
+    "source": "mstoday.co.kr",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzbXkxZmFBM0pzb01LYS13Z1RGX3BRd2dQZWVrdmlOY1g3dUtJY1VTVUVXcVVJMWowcmxibjNsNVBHbTZSNWQzb2lrRUtrLVFLdThtOEU2OFhqUmFiZHF3T1RQSFVBR0oycENHMg?oc=5",
+    "title": "엔비디아 독주 흔들리나…AMD·구글·중국까지 AI 반도체 추격전",
+    "summary": [
+      "엔비디아 독주 흔들리나…AMD·구글·중국까지 AI 반도체 추격전 mstoday.co.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -347,66 +348,173 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0da1c9ff",
+    "id": "n34f49f74",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713000800071",
+    "title": "\"野와 문제는 그레이엄이 풀었는데\"…의회 최대우군 잃은 트럼프",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 12일(현지시간) 자신의 최측근인 린지 그레이엄 연방 상원의원(공화·사우스캐롤..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n73a99fa0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713001300108",
+    "title": "[속보] 이란 당국 \"게슘섬에 적 포탄 10여발 떨어져\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbb17212b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713000700087",
+    "title": "쿠바, 전력망은 복구했지만…수요의 절반도 공급 못해",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 쿠바가 전국적인 대정전 이후 약 38시간 만에 전력망을 모두 복구했다고 현지 관영 매체 쿠바데바테가 1..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad13de35",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705923",
+    "title": "젤렌스키 \"정치 전략 바꿔야\" 내각 개편 예고…총리 사임",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 볼로디미르 젤렌스키 우크라이나 대통령은 새로운 정치 전략 이행을 위해 내각 개편에 나설 것이라며 인적 쇄신을 예고했다.",
+      "젤렌스키 대통령은 12일(현지 시간) 소셜미디어 엑스(X·옛 트위터)를 통해 \"율리아 스비리덴코 총리와 세부 사항을 논의했다\"며 \"내각 개편이 필요하다는 데 의견을 모았다\"고 밝혔다.",
+      "스비리덴코 총리도 교체 대상인 것으로 전해졌다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd2d97ac2",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/13/BH6SYFYWTNDHLNPQ4HK3QHFGFY/",
-    "title": "“멋있게 입수해야지” 잠실판 철인 3종 경기",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/13/MY2TQYTGMMYTQYRZGJTDQNBXGA/",
+    "title": "‘와’ 삼성 우승에 이토록 진심이다! 어떻게 시즌 도중 현역 빅리거 품었나, 벌써 기대 폭발 “구단이 좋은 투수 데려왔다고 들었다”",
     "summary": [
-      "“멋있게 입수해야지” 잠실판 철인 3종 경기."
+      "[OSEN=이후광 기자] 이토록 우승에 진심이라니.",
+      "삼성은 어떻게 대체 외국인투수로 현역 메이저리거를 데려올 수 있었을까.",
+      "프로야구 삼성 라이온즈는 지난 11일 “부상 대체 외국인선수로 뛰어온 잭 오러클린과 계약 연장 대신 최근까지 메이저리그에서 뛴 우완투수 크리스 페덱에게 선발 마운드의 한 축을 맡도록 할 계획이다”라고 공식 발표하며 총액 47만3333달."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n16f1b5ba",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/13/MJTDSMRSMU3WENLEGQ4GCMBVHE/",
+    "title": "[단독]또 한명의 젊은 유럽파 탄생! 부천이 애지중지 키운 이충현, 독일 2부 마그데부르크 전격 이적 '윤도영과 한솥밥'",
+    "summary": [
+      "[스포츠조선 박찬준 기자]또 한명의 유럽파가 탄생했다.",
+      "K리그 이적시장에 정통한 관계자는 \"부천의 유망주 이충현이 독일 분데스리가2 마그데부르크로 임대 이적한다\"고 전했다.",
+      "이어 \"이충현이 이미 독일로 떠났다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n553de712",
+    "id": "naa3931d7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/13/GY3GKMBRGVRTQOJRMU2TSMBRMU/",
+    "title": "'강력한 도발, 그가 수비의 구멍이다' 잉글랜드 레전드 웨인 루니라서 이런 지적이 가능하다..\"메시는 아르헨 수비의 약점\"",
+    "summary": [
+      "[스포츠조선 노주환 기자]\"메시는 아르헨티나 수비의 약점이 될 수 있다.\" EPL 맨체스터 유나이티드 레전드 출신 전문가 웨인 루니가 'GOAT' 리오넬 메시를 잠재적인 '구멍'으로 꼽았다.",
+      "주장 메시가 이끄는 아르헨티나 축구 대표팀은 오는 16일 오전 4시(이하 한국시각) 미국 애틀랜타 스타디움에서 잉글랜드와 2026년 북중미월드컵 4강전을 갖는다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "nd7b3d888",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/13/GIZGIYTEMY2TKNJRGE4WMNZXGU/",
+    "title": "\"고우석, 트윈스 역사상 최초 투수!\" 이런 진기록이 있었다니…등번호 1번, 감독 눈도장 제대로 받았다",
+    "summary": [
+      "[OSEN=이상학 객원기자] 메이저리그 데뷔의 꿈을 이룬 고우석(27·미네소타 트윈스)이 두 번째 등판에서 첫 홀드를 신고했다.",
+      "미네소타 트윈스 구단 최초로 등번호 1번을 단 투수라는 진기록도 드러났다.",
+      "고우석은 지난 12일(이하 한국시간) 미국 미네소타주 미니애폴리스 타깃필드에서 열린 2026 메이저리그 LA 에인절스와의 홈경기에 8회 구원 등판, 1이닝."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndba80534",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713000600009",
+    "title": "[월드컵] 아르헨 '검은 완장'의 비밀은…대표팀 '전설의 주장' 라틴 추모",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나 축구대표팀 선수들이 11일(현지시간) 미국 캔자스시티 스타디움에서 열린 2026 국제축..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n164ae79e",
     "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/13/O252EM7TDJBGBEFRTN2I5C3E44/",
-    "title": "계엄 반대하며 전역 뜻 밝혔던 강호필, 2차 특검은 “내란 도왔다” 영장 청구",
+    "source": "뉴시스",
+    "time": "43분 전",
+    "url": "https://www.newsis.com/view/NISX20260710_0003704649",
+    "title": "\"주말에 쭉 잤는데도 피곤하네\"…몸이 보내는 경고",
     "summary": [
-      "계엄 반대하며 전역 뜻 밝혔던 강호필, 2차 특검은 “내란 도왔다” 영장 청구."
+      "[서울=뉴시스] 류난영 기자 = \"충분히 잠을 잤는데도 아침부터 몸이 무겁고, 주말 내내 쉬어도 피곤함이 가시지 않아요.“ 직장인 정모(38)씨는 최근 몇 달 동안 이유를 알 수 없는 피로에 시달렸다.",
+      "업무 중 집중력이 급격히 떨어지고 사소한 실수가 잦아졌으며, 퇴근 후에는 아무것도 하지 못한 채 잠자리에 드는 날이 반복됐다.",
+      "처음에는 과로 때문이라고 생각했지만 휴가를 다녀온 뒤에도 피로는 좀처럼 나아지지 않았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf4380fe9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/national/regional/2026/07/13/7QM3PYRA2VG3JFPRSAMBRNDG3E/",
-    "title": "칼날은 지휘부로… 광주경찰청도 압수수색",
+    "id": "n275a92c3",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026071203941",
+    "title": "대북·대이란 공화당 강경파…'트럼프 측근' 그레이엄 의원 별세",
     "summary": [
-      "칼날은 지휘부로… 광주경찰청도 압수수색."
+      "대북·대이란 공화당 강경파…'트럼프 측근' 그레이엄 의원 별세."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n62e0623b",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/13/MEXT6GGNAVCE5M4DVJXWRQ6XUE/",
-    "title": "AI로 뚝딱 만든 사이트, 까딱하면 해킹 당한다",
-    "summary": [
-      "AI로 뚝딱 만든 사이트, 까딱하면 해킹 당한다."
-    ],
-    "chips": [
-      "#AI"
     ]
   },
   {
     "id": "n96b1152f",
     "category": "IT",
     "source": "동아일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283216/2",
     "title": "[단독]‘꿈의 소재’ 실리콘 음극재로 방산 시장 정조준",
     "summary": [
@@ -422,7 +530,7 @@ window.NEWS_DB = [
     "id": "nf658c906",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283231/2",
     "title": "올여름 평균휴가 3.8일… 대기업이 0.9일 더 길어",
     "summary": [
@@ -438,7 +546,7 @@ window.NEWS_DB = [
     "id": "n556f6c27",
     "category": "경제",
     "source": "동아일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283233/2",
     "title": "원-달러 환율 1400원대 하락에 달러예금 9조 증가",
     "summary": [
@@ -454,7 +562,7 @@ window.NEWS_DB = [
     "id": "n5baee0e5",
     "category": "부동산",
     "source": "동아일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283276/2",
     "title": "작년 종부세, 강남3구가 33% 냈다… 성동구 41% 급증",
     "summary": [
@@ -470,7 +578,7 @@ window.NEWS_DB = [
     "id": "n45f4fb42",
     "category": "사회",
     "source": "뉴시스",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260712_0003705916",
     "title": "트럼프 \"호르무즈 개방돼 있어…이란에 기회 줬지만 날려버려\"(종합)",
     "summary": [
@@ -483,24 +591,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n54e5c7cd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "37분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712034453009",
-    "title": "'親트럼프 강경파' 그레이엄 의원 별세…트럼프 \"진정한 애국자\"(종합3보)",
-    "summary": [
-      "(서울=연합뉴스) 신재우 기자 = 도널드 트럼프 미국 대통령의 측근으로 꼽히는 공화당 린지 그레이엄 연방 상원의원(사우스캐롤라이나)이 갑작스러운..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n15707251",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "43분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260710_0003704671",
     "title": "최용수 전 감독의 신사동 빌딩, 시세 최소 225억…23년 만에 가치 9배",
     "summary": [
@@ -513,56 +607,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n60ddf67c",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705919",
-    "title": "'메이저 2연승' 유해란 \"3주 만에 트로피 2개…너무 행복해\"(종합)",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = 유해란이 미국여자프로골프(LPGA) 투어 아문디 에비앙 챔피언십(총상금 910만 달러)을 제패해 메이저 대회 2연승을 달성했다.",
-      "유해란은 12일(한국 시간) 프랑스 에비앙레뱅의 에비앙 리조트 골프클럽(파71)에서 열린 대회 최종 4라운드에서 버디와 보기를 1개씩 적어 이븐파 71타를 쳤다.",
-      "나흘 합계 19언더파 265타의 유해란은 브룩 헨더슨(캐나다)과 공동 1위를 기록했고, 18번 홀(파5)에서 치른 연장 1차."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne49de682",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "46분 전",
-    "url": "https://www.newsis.com/view/NISX20260709_0003702539",
-    "title": "윤은혜가 즐겨 먹는 3가지 조합 샐러드…\"41세 피부 탄력 이걸(?)로 채운다\"",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 가수 겸 배우 윤은혜가 피부 노화 방지와 탄력 관리에 효과적인 영양 만점 식단을 공개하며 팬들의 시선을 사로잡았다.",
-      "지난달 21일, 윤은혜는 자신의 소셜네트워크서비스(SNS)를 통해 토마토 카프레제 샐러드를 즐기는 일상을 공유했다.",
-      "공개된 사진 속 샐러드는 토마토와 생모짜렐라 치즈, 루비레드 키위가 어우러져 화려한 색감을 자랑했으며, 정갈한 플레이팅으로 눈길을 사로잡았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3ab22665",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712056851007",
-    "title": "유해란, LPGA 에비앙 챔피언십 우승…2회 연속 메이저 제패(종합)",
-    "summary": [
-      "(서울=연합뉴스) 최태용 기자 = 유해란이 2회 연속 미국여자프로골프(LPGA) 투어 메이저 대회를 제패하며 새 메이저 퀸의 탄생을 알렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na62a34fb",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "48분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607120414i",
     "title": "유해란, 연장 접전 끝 우승…2회 연속 LPGA '메이저 퀸'",
     "summary": [
@@ -573,58 +621,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n15aa2a2d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n869aa4e9",
+    "id": "n15765472",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026071223470931304",
-    "title": "유해란, 연장 우승 버디…메이저 대회 2연승 질주(종합)",
+    "source": "한국경제",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/2026071203767",
+    "title": "'차이나 머니' 집결한 홍콩, 세계 최대 역외 자산관리 시장 등극",
     "summary": [
-      "유해란이 메이저 대회 2연승에 성공했다.",
-      "그는 12일(한국시간) 프랑스 에비앙레뱅의 에비앙 리조트 골프클럽(파71· 6479야드)에서 열린 미국여자프로골프(LPGA) 투어 2026시즌 네 번째 메이저 대회 아문디 에비앙 챔피언십 (총상금 910만달러) 4라운드에서 타수를 줄이지 못해 브룩 헨더슨(캐나다)에게 동타(19언더파 265타)를 허용했지만 18번 홀(파5)에서 속개된 연장 첫 번째 홀에서 우승 버디를 낚았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79773e17",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712058100087",
-    "title": "베네수엘라 '대규모 재건' 시동…주택 2만5천채 공급 추진",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 베네수엘라 정부가 지난달 발생한 연쇄 지진으로 보금자리를 잃은 수만 명의 이재민과, 추가 피해가 우려되..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ned8a0d36",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026071223163927014",
-    "title": "[속보] 유해란, 연장 우승…메이저 대회 2연승 '환호'",
-    "summary": [
-      "[속보] 유해란, 연장 우승…메이저 대회 2연승 '환호'."
+      "'차이나 머니' 집결한 홍콩, 세계 최대 역외 자산관리 시장 등극."
     ],
     "chips": [
       "#뉴스"
@@ -637,8 +641,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
