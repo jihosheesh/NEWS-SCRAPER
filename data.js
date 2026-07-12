@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-12 21:39:36
+// 마지막 업데이트: 2026-07-12 22:37:29
 window.NEWS_DB = [
   {
     "id": "n676ea3c9",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBON0FQRHA0UjFxTDV2Nms0OWpjTjE5VWhvQklHRDRDaEViUW4zYS1VSDh1VXZsMkpVZk1HX2ZYcnZ6VnEtRWJTM2RBNmhsMHkyODF1bzlQWFlLLW51bWVnVXVfanJ1Ynkta0lDVA?oc=5",
     "title": "유출 논란 '모두의 창업' 아이디어, 전국서 보호 상담 시작",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7ad5a643",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRjVsTDR2ZFV5WTMtNjNqT2VucEpCdmpOQkFmc2Z2SGpnNDNXbkxZU2xXeXdTazFiN3dZOU9nMTEtLUpkbHFkNzBkak9NTWQxVlZBVkdOQnBBUW9DZk95SW80Sm8?oc=5",
     "title": "“엔비디아 의존 끝낸다”…메타, 9월 자체 AI 칩 양산 돌입",
     "summary": [
@@ -28,20 +28,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "nea732ef0",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtby12c1phWFI5a2ZoSjZxMk5hQTYxNndWb0dwSmpvNHRfNTh2ZkhiUmNCVzQzVnpFZDNMSVNMbUx4MGxOOUY4aktsSHRETWt1M3E4?oc=5",
-    "title": "굿바이 잠실 야구장 [MK포토]",
-    "summary": [
-      "굿바이 잠실 야구장 [MK포토] 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -56,6 +42,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
+    ]
+  },
+  {
+    "id": "n16107a45",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCUnNGeHlwbEFKMVBUWTJ6Tll1aHJZeldUc2dPU2ZRS3lXdzQ5R2hhTkxvaXZpVi1DNVY5T041dEZrcjhnM05VdFNzUnVnZy1Ub1EwQkVEaERDT0FuTlg0aVR0Yk85blBN?oc=5",
+    "title": "조민영, 야구장에 나타난 '손흥민?' [포토엔HD]",
+    "summary": [
+      "조민영, 야구장에 나타난 '손흥민?' [포토엔HD] 네이트."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
     ]
   },
   {
@@ -101,6 +102,21 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "nb6df5091",
+    "category": "스포츠",
+    "source": "starnewskorea.com",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
+    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
+    "summary": [
+      "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위...",
+      "2위는 KBO 홈런 1위 김도영 starnewskorea.com."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -228,20 +244,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n646824f1",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WZWY5ZXlFNllvSUVqQkhPZTRoT3pmT1E5MUFkTmR2dGF1NkxfaEMxcnJ6QmZ6S1JSalpOV0k2UF9hN0F0QnV4TFoySHJIYlU?oc=5",
-    "title": "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드]",
-    "summary": [
-      "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드] v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -331,10 +333,179 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n3dc7a97d",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705960",
+    "title": "'축구의 신' 메시, 잉글랜드와 첫 맞대결 \"매 순간 즐겨야\"[월드컵24시]",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 아르헨티나 '축구의 신' 리오넬 메시가 '축구 종가' 잉글랜드와 첫 맞대결을 앞두고 기대감을 나타냈다.",
+      "아르헨티나는 오는 16일 오전 4시(한국 시간) 미국 애틀랜타 스타디움에서 잉글랜드와 2026 국제축구연맹(FIFA) 북중미 월드컵 준결승전을 벌인다.",
+      "ESPN에 따르면 메시는 \"아르헨티나 국민이 우리만큼 즐기고 있다니 기쁘다\"며 \"(2022년 카타르 대회에서) 세계 챔피언이 된 뒤, 경쟁력을 유지해 준결승에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb8088ea1",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713008900011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 07:30."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nffda6ece",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260710/134268519/3",
+    "title": "“나물리에를 아시나요?”…봄동 열풍은 끝나지 않았다 [그 마을엔 청년이 산다]",
+    "summary": [
+      "장바구니를 든 청년들이 산비탈에 쪼그리고 앉아 방금 꺾은 나물을 입에 넣는다.“향이 훨씬 깊은데?”“이건 햇볕을 덜 받아서 단맛이 나네”줄기의 탄력을 살피고, 잎맥을 들여다본다.",
+      "마트 비닐봉지 속 나물이 아니라 산에서 막 올라온 생명의 맛을 이야기한다.",
+      "전남 구례에 전국 최초의 ‘나물사관학교’가 생겼다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n9f4c0c1a",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713010600004",
+    "title": "양천구, 목동 재건축 대비 '100년 하수도 체계' 구축한다",
+    "summary": [
+      "(서울=연합뉴스) 정준영 기자 = 서울 양천구(구청장 이기재)는 목동아파트 재건축사업이 본격화함에 따라 '목동아파트 주변 하수도 정비 기본 및 ..."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
+    "id": "n46b9ce1d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/13/GZSDSMJWGA2TOYJRHEZDENLGGE/",
+    "title": "'땅볼-땅볼-삼진-뜬공' 이정후, 전반기 최종전도 무안타...팀은 짜릿한 역전 드라마 [SF 리뷰]",
+    "summary": [
+      "[OSEN=손찬익 기자] '바람의 손자' 이정후(샌프란시스코 자이언츠)가 전반기 최종전에서도 무안타로 침묵했다.",
+      "이정후는 13일(이하 한국시간) 미국 캘리포니아주 샌프란시스코 오라클 파크에서 열린 콜로라도 로키스와의 홈경기에서 무안타로 침묵했다.",
+      "시즌 타율 3할6리에서 3할2리로 하락했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6b030841",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705936",
+    "title": "시리아 의회, 아사드 정권 붕괴 1년7개월 만에 개원",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 시리아 의회가 바샤르 알 아사드 정권 붕괴 1년 7개월 만에 임시 개원했다.",
+      "시리아 SANA통신 등에 따르면 시리아 인민의회는 12일(현지 시간) 다마스쿠스에서 총 의석수 210석 중 206명이 참석한 가운데 개원식을 했다.",
+      "시리아 정부는 2024년 12월 아사드 정권을 축출하면서 기존 의회를 해산하고 5년간 적용되는 임시 헌법 선언을 채택했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5955edbc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713011300504",
+    "title": "[북한날씨] 전 지역 구름 많다 흐려져…평안도·황해도 비",
+    "summary": [
+      "(서울=연합뉴스) 권수현 기자 = 북한은 13일 전 지역에서 가끔 구름이 많다가 밤부터 차차 흐려지겠으며 평안도는 밤까지, 황해도는 아침부터 오..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncd24fc15",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260713/134284967/1",
+    "title": "[속보]해군 “실종 병사 시신 동해상서 발견해 수습”",
+    "summary": [
+      "해군은 13일 동해 해상에서 실종된 승조원의 시신을 수습했다고 밝혔다.",
+      "해군은 이날 오전 5시58분쯤 거진 동방 52㎞ 해상에서 전날 동해 경비임무 함정에서 실종된 해군 병사의 시신을 발견해 수습했다고 전했다.",
+      "해군에 따르면 전날 오전 강원 고성군 거진읍 동방 50여 km 해상에서 경비 임무를 수행 중인 호위함에서 병사 1명이 실종됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92443954",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260709_0003702666",
+    "title": "'애사비' 열풍…식사 전 식초 한 잔 정말 몸에 좋을까",
+    "summary": [
+      "[서울=뉴시스] 김종민 기자 = 최근 연예인들의 몸매 관리 비법으로 주목받으며 이른바 '애사비'로 불리는 애플 사이다 비니거(사과 발효 식초) 열풍이 거세다.",
+      "식사 전에 물에 희석해 마시면 혈당 조절과 다이어트에 탁월한 효과가 있다는 소문이 SNS와 온라인 커뮤니티를 통해 확산하면서 많은 이들이 이를 찾고 있다.",
+      "그러나 전문가들은 이러한 효능이 일부 제한된 연구 결과를 과장하거나 선택적으로 해석한 것에 가깝다며 주의를 당부했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n36e21d3d",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713008200071",
+    "title": "70∼80대는 물론 92세 현역도…美연방의원 고령화 괜찮나",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = '전세계에서 가장 명성이 높은 요양원.'."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "n063400dd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705967",
+    "title": "해군 \"동해 경비임무중 실종된 해군 병사, 끝내 숨진 채 발견\"",
+    "summary": [
+      "[서울=뉴시스] 옥승욱 기자 = 지난 12일 오전 동해 해상에서 실종된 해군 병사가 끝내 숨진 채 발견됐다.",
+      "해군은 \"13일 오전 5시58분께 거진 동방 52㎞ 해상에서 전날(12일) 동해 경비임무 함정에서 실종된 해군 병사의 시신을 발견해 수습했다\"고 밝혔다.",
+      "12일 오전 동해 거진 동방 해상에서 경비임무 수행 중인 해군 함정 병사 1명이 실종되는 일이 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n903c66b8",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "25분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153311",
     "title": "[MSI 브리핑] \"바론 스틸 한 방에 무너진 LPL\"...한화생명, BLG 꺾고 창단 첫 MSI 우승 신화",
     "summary": [
@@ -346,190 +517,100 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n390b6531",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026062309293951338",
-    "title": "\"면사랑이 뭐죠?\"…오뚜기 사돈기업의 힘겨운 홀로서기",
-    "summary": [
-      "오뚜기 주문자상표부착생산(OEM) 업체 이미지를 벗기 위한 면사랑의 체질 개선 작업이 속도를 내지 못하고 있다.",
-      "소비자 시장에 뛰어든 지 5년이 지났지만, 지난해 소비자간거래(B2C) 매출 비중은 여전히 한 자릿수에 머물렀다.",
-      "오히려 오뚜기 거래에서 발생한 매출이 소비자 사업 규모를 넘어섰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c33c997",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260713_0003705951",
-    "title": "[속보]미 중부사 \"통수권자 명령으로 이란 추가공습 개시\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne5876939",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260713_0003705948",
-    "title": "부산, 가끔 구름 많고 무더운 날씨…낮 최고기온 31도",
-    "summary": [
-      "[부산=뉴시스]진민현 기자 = 13일 부산 지역은 가끔 구름이 많다가 밤부터 흐려지겠다고 부산기상청은 예보했다.",
-      "이날 낮 최고기온은 31도, 14일 아침 최저기온은 25도로 예상됐다.",
-      "현재 부산 전역에는 폭염주의보가 발효 중으로 당분간 최고체감온도가 33도 이상으로 올라 더울 것으로 전망됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13000e23",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260713_0003705937",
-    "title": "태국 방콕 술집서 새벽 대형 화재…최소 27명 사망",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 태국 수도 방콕의 한 술집에서 대형 화재가 발생해 최소 27명이 숨지고 다수가 다치는 참사가 발생했다.",
-      "13일(현지 시간) AP통신 등에 따르면 이날 자정께 방콕 북부 라드프라오 지역에 위치한 '나 라드프라오' 술집에서 화재가 발생했다.",
-      "화재 신고는 이날 자정께 접수됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb507560b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026071306310223796",
-    "title": "[속보]미군 \"군통수권자 지시로 이란에 추가 공습 개시\"",
-    "summary": [
-      "[속보]미군 \"군통수권자 지시로 이란에 추가 공습 개시\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1318eeaa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713005951071",
-    "title": "미군 \"이란에 추가공습 개시…호르무즈 상선 공격역량 약화\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미군 중부사령부는 12일(현지시간) 호르무즈 해협에서 상선을 위협하는 이란을 상대로 추가 공습을 개시했다고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n396f4a05",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260709160500062",
-    "title": "[유형재의 새록새록] 숲속 육아 전쟁, 어미 꾀꼬리의 세상 가장 고운 노래",
-    "summary": [
-      "(강릉=연합뉴스) 유형재 기자 = 어미 꾀꼬리가 갓 태어난 새끼가 있는 둥지로 돌아가기 직전 세상 가장 아름답고 부드러운 소리를 내며 작은 숲을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9915956c",
-    "category": "경제",
+    "id": "n250bbd38",
+    "category": "부동산",
     "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712022600030",
-    "title": "유업계, 우유 대신 외식 키운다…커피전문점·레스토랑으로 확장",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713009000004",
+    "title": "김현기 강남구청장 \"매일 아침 재건축부터 챙긴다\"",
     "summary": [
-      "(서울=연합뉴스) 김세린 기자 = 유업계가 커피·레스토랑·디저트 등 외식 사업을 미래 성장동력으로 육성하며 수익원 다변화에 나서고 있다."
+      "(서울=연합뉴스) 정준영 기자 = 서울 강남구는 지난 8일 김현기 구청장 주재로 첫 재건축 공정관리 점검회의를 열어 민선 9기 착공 예정 사업장..."
     ],
     "chips": [
-      "#뉴스"
+      "#재건축"
     ]
   },
   {
-    "id": "n63711a81",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712050000057",
-    "title": "현대차 노조, 임협 난항으로 오늘부터 부분 파업",
-    "summary": [
-      "(울산=연합뉴스) 김근주 기자 = 국내 최대 자동차 업계 노동조합인 현대자동차 노조(금속노조 현대차지부)가 임금협상 난항으로 13일 파업에 들어..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85ef793d",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705907",
-    "title": "SK하이닉스, 美 나스닥 상장…하루 만에 13% 뛰어[간추린 주말 뉴스]",
-    "summary": [
-      "[서울=뉴시스]박지혁 기자 = SK하이닉스 미국주식예탁증서(ADR)가 나스닥 데뷔 첫날 13% 넘게 급등하며 흥행에 성공했다.",
-      "ADR 가격이 국내 본주 종가보다 약 16% 높은 수준에서 형성되면서 오는 13일 국내 증시에서 본주 주가와 외국인 수급에 어떤 영향을 미칠지 주목된다.",
-      "10일(현지시간) 미국 나스닥에서 SK하이닉스 ADR은 공모가(149달러)보다 14.1% 높은 170달러에 거래를 시작해 장중 177달러까지 올랐다."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n4fd2bb55",
+    "id": "n194670f6",
     "category": "사회",
     "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260713/134284874/1",
-    "title": "트럼프 “호르무즈 열려 있다…이란 사정없이 폭격”",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260713/134284920/1",
+    "title": "[속보]美, 이란 이틀연속 공습…“호르무즈 상선 위협 응징”",
     "summary": [
-      "미국이 호르무즈 해협에서 민간 선박을 도발한 이란을 상대로 대규모 보복 공습을 감행했다.",
-      "도널드 트럼프 미국 대통령은 이번 공습으로 해협의 안전을 확보했다고 공언하며 이란의 해협 봉쇄 주장을 일축했다.트럼프 대통령은 12일(현지시간) NBC 및 CNN 방송과의 전화 인터뷰에서 “어젯밤 이란을 매우 강력하게 타격했다”며 “호르무즈 해협은 열려 있으며, 그들을 사정없이 폭격했다”고 밝혔다.이번 군사 조치는 미 중부사령부(CENTCOM)의 주도로 진."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nde54b87b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/13/MYZWKYZUMQZTIZJQGQ4GCZJUMM/",
-    "title": "양준혁이 또..아내도 몰래 300평 사업 들통났다. \"왜 자꾸 일 저질러\" 분농 ('사당귀')",
-    "summary": [
-      "[OSEN=김수형 기자] '양신' 양준혁이 또 한 번 대형 사업 계획을 공개했다.",
-      "하지만 정작 아내는 방송을 통해 처음 알게 됐고, \"왜 이렇게 일을 저지를까\"라며 분노를 터뜨렸다.12일 방송된 KBS2 '사장님 귀는 당나귀 귀'에서는 조서형 셰프가 양준혁의 포항 해산물 사업을 돕기 위해 다시 찾은 모습이 그려졌다.앞서 양준혁은 방어 양식장과 횟집 운영의."
+      "미 중부사령부(CENTCOM)가 이란에 대한 추가 공습을 개시했다.",
+      "전날에 이어 이틀 연속 이란에 대한 미국의 대(對)이란 공습이 이어진 것이다.",
+      "공습 지역은 호르무즈해협 인근 이란 영토로 이슬람혁명수비대(IRGC)의 미사일 시설과 드론 저장고로 알려졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0d0ff68a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/international/us/2026/07/13/6BBKKQAWLRFFPPQTED2IBEYTNE/",
-    "title": "美정가, 그레이엄 의원 사망에 충격… 의회 내 최대 우군 잃은 트럼프",
+    "id": "n0aae9f99",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260711042600004",
+    "title": "\"롬, 리니지W 저작권 침해 아냐\"…엔씨소프트 소송서 패소",
     "summary": [
-      "美정가, 그레이엄 의원 사망에 충격… 의회 내 최대 우군 잃은 트럼프."
+      "(서울=연합뉴스) 이영섭 기자 = 레드랩게임즈와 카카오게임즈가 출시한 다중접속역할수행게임(MMORPG) '롬(ROM): 리멤버 오브 마제스티'가..."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "nb6dc4f02",
+    "category": "사회",
+    "source": "ZDNet Korea",
+    "time": "36분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260712175741",
+    "title": "‘지역사회 일차의료 혁신 시범사업’, 의계-한의계 모두 부정적",
+    "summary": [
+      "[지디넷코리아]정부가 추진하는 지역사회 일차의료 혁신 시범사업에 대해 의료계와 한의계 모두 부정적인 입장을 밝히며 난항이 예상된다.최근 보건복지부는 동네 의원이 지역 주민에게 질병 치료, 예방, 건강관리 등의 포괄적인 서비스를 제공하도록 지원하는 ‘지역사회 일차의료 혁신 시범사업’의 참여기관 공모를 오는 8월5일까지 진행한다고 밝혔다.이번 시범사업은 지역 주민이 평소 이용하는 동네 의원에서 질병 치료뿐만 아니라 예방, 건강관리, 돌봄 연계까지."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "na4af0ac0",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "36분 전",
+    "url": "https://www.hankyung.com/article/202607120024i",
+    "title": "\"원조를 얕봤고, 원팀은 흔들렸다\"…캐나다 잠수함전 진짜 패인 [조철오의 방산노트]",
+    "summary": [
+      "\"원조를 얕봤고, 원팀은 흔들렸다\"…캐나다 잠수함전 진짜 패인 [조철오의 방산노트]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb5615114",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "50분 전",
+    "url": "https://www.hankyung.com/article/2026071304937",
+    "title": "\"순이익 30% 성과급으로\"…현대차 노조, 오늘부터 부분파업",
+    "summary": [
+      "\"순이익 30% 성과급으로\"…현대차 노조, 오늘부터 부분파업."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n192a4652",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026071304877",
+    "title": "월요일 낮 최고 37도 '찜통더위'…오후 곳곳 소나기 [날씨]",
+    "summary": [
+      "월요일 낮 최고 37도 '찜통더위'…오후 곳곳 소나기 [날씨]."
     ],
     "chips": [
       "#뉴스"
@@ -539,7 +620,7 @@ window.NEWS_DB = [
     "id": "n4d6effaa",
     "category": "IT",
     "source": "한경IT",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202606294316i",
     "title": "[스타트업]근감소증 치료제 개발하는 애니머스큐어 연내 2상 결과 나와… 비만약과 병용 추진",
     "summary": [
@@ -547,80 +628,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n9b537744",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "17분 전",
-    "url": "https://www.hankyung.com/article/202606294124i",
-    "title": "[COVER STORY⑥ COMPANY]클래시스 “써마지와 붙어도 통했다… 2030년 국내 매출 2000억 도전”",
-    "summary": [
-      "[COVER STORY⑥ COMPANY]클래시스 “써마지와 붙어도 통했다… 2030년 국내 매출 2000억 도전”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd1ed2278",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "29분 전",
-    "url": "https://view.asiae.co.kr/article/2026071016313496309",
-    "title": "금융당국, 산은·수은·기은 경영평가 착수…이달 '성적표' 나온다",
-    "summary": [
-      "금융당국이 산업은행과 수출입은행, IBK기업은행 등 국책은행의 지난해 경영실적을 평가하는 절차에 착수했다.",
-      "평가 결과는 임직원 성과급뿐 아니라 다음 연도 예산과 정원에도 영향을 미친다.",
-      "기관별 최종 등급은 이달 중 발표될 것으로 보인다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n185caf2c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "34분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/13/RFS3ZTZIHVB6HJK6PA72M6ETWI/",
-    "title": "한강, 노벨상 후 첫 공개 활동 “문학의 진실한 순간이 우릴 연결”",
-    "summary": [
-      "한강, 노벨상 후 첫 공개 활동 “문학의 진실한 순간이 우릴 연결”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne6110e7b",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "34분 전",
-    "url": "https://view.asiae.co.kr/article/2026071306042505430",
-    "title": "신네르, 윔블던 2연패…\"지난 2주간 정말 행복했다\"",
-    "summary": [
-      "세계랭킹 1위 얀니크 신네르(이탈리아)가 2026 윔블던 테니스대회(총상금 6420만파운드)에서 2연패를 달성했다.",
-      "신네르는 13일(한국시간) 영국 런던의 올잉글랜드클럽에서 열린 대회 마지막 날 남자 단식 결승에서 알렉산더 츠베레프(3위·독일)에게 3시간 46분 만에 3-1(6-7<7-9> 7-6<7-2> 6-3 6-4)로 승리했다.",
-      "지난해 대회 결승에서 첫 윔블던 우승을 달성한 이후 2년 연속 정상에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n619c24da",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260712025600004",
-    "title": "서울시, 소규모 정비사업 전자투표·총회 도입시 최대 300만원",
-    "summary": [
-      "(서울=연합뉴스) 김준태 기자 = 서울시가 모아주택 등 소규모 정비사업으로 전자투표·온라인총회 지원을 확대한다고 13일 밝혔다."
-    ],
-    "chips": [
-      "#교육"
     ]
   }
 ];
@@ -630,8 +637,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
