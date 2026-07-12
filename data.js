@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-12 16:45:01
+// 마지막 업데이트: 2026-07-12 17:51:16
 window.NEWS_DB = [
   {
     "id": "n676ea3c9",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBON0FQRHA0UjFxTDV2Nms0OWpjTjE5VWhvQklHRDRDaEViUW4zYS1VSDh1VXZsMkpVZk1HX2ZYcnZ6VnEtRWJTM2RBNmhsMHkyODF1bzlQWFlLLW51bWVnVXVfanJ1Ynkta0lDVA?oc=5",
     "title": "유출 논란 '모두의 창업' 아이디어, 전국서 보호 상담 시작",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7ad5a643",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRjVsTDR2ZFV5WTMtNjNqT2VucEpCdmpOQkFmc2Z2SGpnNDNXbkxZU2xXeXdTazFiN3dZOU9nMTEtLUpkbHFkNzBkak9NTWQxVlZBVkdOQnBBUW9DZk95SW80Sm8?oc=5",
     "title": "“엔비디아 의존 끝낸다”…메타, 9월 자체 AI 칩 양산 돌입",
     "summary": [
@@ -60,6 +60,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbe0a91d8",
+    "category": "IT",
+    "source": "매일경제",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pNjM3NVdqM2c2UWx3TkNrM0Zxb3hjUDZkOW9UUmt6M2lCQTE5Qnd3RVFGUk5YemZIMHVSamVSalBxMDk0MUNfMnl1b2Mwa01VUHE5WDFB?oc=5",
+    "title": "“H200 구매 허용한다”…中 수출길 열린 엔비디아",
+    "summary": [
+      "“H200 구매 허용한다”…中 수출길 열린 엔비디아 매일경제."
+    ],
+    "chips": [
+      "#엔비디아",
+      "#수출"
+    ]
+  },
+  {
     "id": "n82c49f7f",
     "category": "사회",
     "source": "Vietnam.vn",
@@ -86,22 +101,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n163a3950",
-    "category": "IT",
-    "source": "mstoday.co.kr",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzbXkxZmFBM0pzb01LYS13Z1RGX3BRd2dQZWVrdmlOY1g3dUtJY1VTVUVXcVVJMWowcmxibjNsNVBHbTZSNWQzb2lrRUtrLVFLdThtOEU2OFhqUmFiZHF3T1RQSFVBR0oycENHMg?oc=5",
-    "title": "엔비디아 독주 흔들리나…AMD·구글·중국까지 AI 반도체 추격전",
-    "summary": [
-      "엔비디아 독주 흔들리나…AMD·구글·중국까지 AI 반도체 추격전 mstoday.co.kr."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
       "#엔비디아"
     ]
   },
@@ -169,7 +168,7 @@ window.NEWS_DB = [
     "id": "ndda47320",
     "category": "사회",
     "source": "이치저널",
-    "time": "11일 전",
+    "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
     "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
     "summary": [
@@ -348,40 +347,102 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n34f49f74",
+    "id": "na6a6745e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713000800071",
-    "title": "\"野와 문제는 그레이엄이 풀었는데\"…의회 최대우군 잃은 트럼프",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713002000084",
+    "title": "아세안, 미얀마와 외교장관 회의…평화 합의안 이행 촉구",
     "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 12일(현지시간) 자신의 최측근인 린지 그레이엄 연방 상원의원(공화·사우스캐롤..."
+      "(하노이=연합뉴스) 박진형 특파원 = 아세안(ASEAN·동남아시아국가연합) 회원국들이 군사정권 수장 출신 민 아웅 흘라잉 대통령이 이끄는 미얀마..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n73a99fa0",
+    "id": "ne09a4aa7",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713001300108",
-    "title": "[속보] 이란 당국 \"게슘섬에 적 포탄 10여발 떨어져\"",
-    "summary": [],
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705928",
+    "title": "이란 매체 \"케슘섬, 적 공격받아…미사일 발사돼\"",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 미국과 이란의 무력 충돌이 격화하고 있는 가운데 호르무즈 해협 인근의 케슘섬이 공격받은 것으로 전해졌다.",
+      "이란 관영 IRNA 통신은 12일(현지 시간) \"적이 케슘섬을 향해 미사일을 발사했다\"며 인명 피해는 보고되지 않았다고 보도했다.",
+      "통신은 케슘섬 주지사를 인용 \"일요일 오후 10~11발의 적의 발사체가 케슘섬을 강타했다\"고 전했다."
+    ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbb17212b",
+    "id": "n9148410d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713000700087",
-    "title": "쿠바, 전력망은 복구했지만…수요의 절반도 공급 못해",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713001700087",
+    "title": "칠레 축제 현장에 차량 돌진…6명 사망",
     "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 쿠바가 전국적인 대정전 이후 약 38시간 만에 전력망을 모두 복구했다고 현지 관영 매체 쿠바데바테가 1..."
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 12일(현지시간) 칠레의 한 축제 현장에서 차량이 인파를 덮쳐 6명이 사망했다고 현지 경찰이 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3a8afaec",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713001600072",
+    "title": "SK하이닉스 ADR 연계 레버리지 ETF 13∼14일 美출시 '봇물'",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = SK하이닉스의 미국주식예탁증서(ADR)와 연계한 레버리지 상장지수펀드(ETF)가 이번주 초 뉴욕증시에 잇따라..."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n5296c04f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260713001200108",
+    "title": "시리아 의회 개원…알아사드 축출 후 1년반만에 활동 시작",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 시리아 과도정부 체제에서 새로 구성된 의회가 12일(현지시간) 첫 활동을 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n64e0e0a2",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "54분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/13/MRRTOZBXMVQWMYJSGVRWENBWG4/",
+    "title": "\"첫 결승전서 우승 행복\" 송진우의 후배들, 4번 없이도 44년만 우승, 대회 5관왕도 탄생[청룡기]",
+    "summary": [
+      "세광고가 전통의 강호 경북고를 꺾고 청룡기 첫 우승을 차지했다.",
+      "세광고는 12일 목동구장에서 열린 제81회 청룡기 전국고교야구선수권대회 겸 주말리그 왕중왕전(조선일보·스포츠조선·대한야구소프트볼협회 공동 주최) 경북고와의 결승전에서 6대2로 승리하며 1954년 창단 후 처음으로 청룡기 트로피를 품었다.",
+      "세광고는 송진우가 활약하던 1982년 황금사자기 첫 우승."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na389cd09",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003705927",
+    "title": "[속보]이란 매체 \"케슘섬 향해 적 미사일 발사돼\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 ksk@newsis.com."
     ],
     "chips": [
       "#뉴스"
@@ -391,7 +452,7 @@ window.NEWS_DB = [
     "id": "nad13de35",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260713_0003705923",
     "title": "젤렌스키 \"정치 전략 바꿔야\" 내각 개편 예고…총리 사임",
     "summary": [
@@ -407,7 +468,7 @@ window.NEWS_DB = [
     "id": "nd2d97ac2",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/baseball/2026/07/13/MY2TQYTGMMYTQYRZGJTDQNBXGA/",
     "title": "‘와’ 삼성 우승에 이토록 진심이다! 어떻게 시즌 도중 현역 빅리거 품었나, 벌써 기대 폭발 “구단이 좋은 투수 데려왔다고 들었다”",
     "summary": [
@@ -423,7 +484,7 @@ window.NEWS_DB = [
     "id": "n16f1b5ba",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/football/2026/07/13/MJTDSMRSMU3WENLEGQ4GCMBVHE/",
     "title": "[단독]또 한명의 젊은 유럽파 탄생! 부천이 애지중지 키운 이충현, 독일 2부 마그데부르크 전격 이적 '윤도영과 한솥밥'",
     "summary": [
@@ -436,55 +497,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naa3931d7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/13/GY3GKMBRGVRTQOJRMU2TSMBRMU/",
-    "title": "'강력한 도발, 그가 수비의 구멍이다' 잉글랜드 레전드 웨인 루니라서 이런 지적이 가능하다..\"메시는 아르헨 수비의 약점\"",
-    "summary": [
-      "[스포츠조선 노주환 기자]\"메시는 아르헨티나 수비의 약점이 될 수 있다.\" EPL 맨체스터 유나이티드 레전드 출신 전문가 웨인 루니가 'GOAT' 리오넬 메시를 잠재적인 '구멍'으로 꼽았다.",
-      "주장 메시가 이끄는 아르헨티나 축구 대표팀은 오는 16일 오전 4시(이하 한국시각) 미국 애틀랜타 스타디움에서 잉글랜드와 2026년 북중미월드컵 4강전을 갖는다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "nd7b3d888",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/13/GIZGIYTEMY2TKNJRGE4WMNZXGU/",
-    "title": "\"고우석, 트윈스 역사상 최초 투수!\" 이런 진기록이 있었다니…등번호 1번, 감독 눈도장 제대로 받았다",
-    "summary": [
-      "[OSEN=이상학 객원기자] 메이저리그 데뷔의 꿈을 이룬 고우석(27·미네소타 트윈스)이 두 번째 등판에서 첫 홀드를 신고했다.",
-      "미네소타 트윈스 구단 최초로 등번호 1번을 단 투수라는 진기록도 드러났다.",
-      "고우석은 지난 12일(이하 한국시간) 미국 미네소타주 미니애폴리스 타깃필드에서 열린 2026 메이저리그 LA 에인절스와의 홈경기에 8회 구원 등판, 1이닝."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndba80534",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713000600009",
-    "title": "[월드컵] 아르헨 '검은 완장'의 비밀은…대표팀 '전설의 주장' 라틴 추모",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나 축구대표팀 선수들이 11일(현지시간) 미국 캔자스시티 스타디움에서 열린 2026 국제축..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n164ae79e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "43분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260710_0003704649",
     "title": "\"주말에 쭉 잤는데도 피곤하네\"…몸이 보내는 경고",
     "summary": [
@@ -500,7 +516,7 @@ window.NEWS_DB = [
     "id": "n275a92c3",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026071203941",
     "title": "대북·대이란 공화당 강경파…'트럼프 측근' 그레이엄 의원 별세",
     "summary": [
@@ -514,7 +530,7 @@ window.NEWS_DB = [
     "id": "n96b1152f",
     "category": "IT",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283216/2",
     "title": "[단독]‘꿈의 소재’ 실리콘 음극재로 방산 시장 정조준",
     "summary": [
@@ -530,7 +546,7 @@ window.NEWS_DB = [
     "id": "nf658c906",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283231/2",
     "title": "올여름 평균휴가 3.8일… 대기업이 0.9일 더 길어",
     "summary": [
@@ -546,7 +562,7 @@ window.NEWS_DB = [
     "id": "n556f6c27",
     "category": "경제",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283233/2",
     "title": "원-달러 환율 1400원대 하락에 달러예금 9조 증가",
     "summary": [
@@ -562,7 +578,7 @@ window.NEWS_DB = [
     "id": "n5baee0e5",
     "category": "부동산",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260712/134283276/2",
     "title": "작년 종부세, 강남3구가 33% 냈다… 성동구 41% 급증",
     "summary": [
@@ -575,42 +591,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n45f4fb42",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260712_0003705916",
-    "title": "트럼프 \"호르무즈 개방돼 있어…이란에 기회 줬지만 날려버려\"(종합)",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 도널드 트럼프 미국 대통령은 12일(현지 시간) 호르무즈 해협은 \"항행하는 모든 선박에 개방돼 있다\"고 밝혔다.",
-      "호르무즈 통제권을 둘러싸고 미국과 이란 간 무력 충돌이 벌어지고 있는 가운데 트럼프 대통령의 이번 발언은 미국이 해협 주도권을 가지고 있음을 강조하려는 발언으로 풀이된다.",
-      "알자지라, 로이터통신 등 외신에 따르면 트럼프 대통령은 이날 NBC방송 시사 프로그램 '미트 더 프레스'와의 인터뷰에서 이같이 말했."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n15707251",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260710_0003704671",
-    "title": "최용수 전 감독의 신사동 빌딩, 시세 최소 225억…23년 만에 가치 9배",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = 축구 국가대표 출신 최용수 전 감독이 과거 매입한 서울 강남구 신사동 빌딩의 현재 가치가 200억원을 훌쩍 넘어선 것으로 나타났다.",
-      "20여 년 전 매입 가격과 비교하면 190억원에 달하는 시세 차익이다.",
-      "'아크부동산중개법인' 공식 유튜브 채널의 최근 영상 따르면, 2000년 K리그 MVP 수상 뒤 역대 최고 이적료로 2001년 J리그로 진출했던 최 전 감독은 2003년 신사동 소재 대지면적 501.9㎡(약 151."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "na62a34fb",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607120414i",
     "title": "유해란, 연장 접전 끝 우승…2회 연속 LPGA '메이저 퀸'",
     "summary": [
@@ -624,11 +608,25 @@ window.NEWS_DB = [
     "id": "n15765472",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026071203767",
     "title": "'차이나 머니' 집결한 홍콩, 세계 최대 역외 자산관리 시장 등극",
     "summary": [
       "'차이나 머니' 집결한 홍콩, 세계 최대 역외 자산관리 시장 등극."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nae49da0f",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "5시간 전",
+    "url": "https://www.hankyung.com/article/2026071203687",
+    "title": "이란 최고지도자 군사고문 \"호르무즈, 원폭 수십 개보다 중요\"",
+    "summary": [
+      "이란 최고지도자 군사고문 \"호르무즈, 원폭 수십 개보다 중요\"."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +639,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
