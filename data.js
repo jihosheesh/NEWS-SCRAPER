@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-13 19:10:47
+// 마지막 업데이트: 2026-07-13 20:48:55
 window.NEWS_DB = [
   {
     "id": "na125e512",
     "category": "IT",
     "source": "코인리더스",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCOGhmR1ZfWUJTTzIxMkMtRnZaYkZBY21XQURLOUVjWlJyMThGVUJCY21QMzE1UDNYd2NjNHl0c3VWRjg4NXkzODBR?oc=5",
     "title": "AMD vs 엔비디아 vs 브로드컴(AVGO), AI 반도체주 3파전 승자는?",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n5b23d959",
     "category": "IT",
     "source": "전자신문",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjQVVYNFpsaTFoeHZtbVV1YV9QUENQTW9MTmxtTmZjb1hjczk1aTdrN0xnZi1BZEpFcER2SXp1WE9FT01uQTRoMDhMNE5fdw?oc=5",
     "title": "퓨리오사AI, NPU 내년 '4만장' 2배 증산…엔비디아 독점에 도전",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n33718b4c",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkpyb2hoYVJZSU9oVDlvdjNVT1dkOFBkeHBJcEZGYW9OLWFlVF9rdWd1ZkJMSkNEcGczaTVlcGk0YWtKSFhFc0x1bGFzYkhjUnhzWmZJS0JibkFkQndOWGtwa2d6MXg1LVBiUXlUNFpyc3ZJT3U5ZXdJbUxHVjNsa1l0Qm9zaG55?oc=5",
     "title": "삼성 파운드리, 3년 만에 월간 흑자 기록…동력은 내부 HBM 물량",
     "summary": [
@@ -73,22 +73,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "nb30e2fb3",
-    "category": "IT",
-    "source": "Naver Blog",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ19lVndfWDE5UWVmV0NBc05Pc0pZd29GOHVNSXRaVHAyNm5ITXExOHVHdU1vdVg1MjlNZEt0SjVGRnFlMmpocnNOQ1pmLWVUY0dkMXFoMUxFNGI5U2xzTDhJM1p6dVljTGdvZWQ4V1I4UVVGU2ZkbEZNMXdNaE1rZDRLVVlfTG1wQnR6LUhsOA?oc=5",
-    "title": "[삼성 반도체 점검]삼성전자, HBM4로 종합반도체 실효성 가늠 : 네이버 블로그",
-    "summary": [
-      "[삼성 반도체 점검]삼성전자, HBM4로 종합반도체 실효성 가늠 : 네이버 블로그 Naver Blog."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#네이버"
     ]
   },
   {
@@ -137,6 +121,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndda47320",
+    "category": "사회",
+    "source": "이치저널",
+    "time": "13일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
+    "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
+    "summary": [
+      "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다 이치저널."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
@@ -148,6 +148,37 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nccb73b86",
+    "category": "IT",
+    "source": "인베스트조선",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
+    "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
+    "summary": [
+      "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 인베스트조선."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n2aad78a4",
+    "category": "사회",
+    "source": "스포츠동아",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
+    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
+    "summary": [
+      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 스포츠동아."
+    ],
+    "chips": [
       "#취업",
       "#고용"
     ]
@@ -196,6 +227,20 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "n646824f1",
+    "category": "스포츠",
+    "source": "v.daum.net",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WZWY5ZXlFNllvSUVqQkhPZTRoT3pmT1E5MUFkTmR2dGF1NkxfaEMxcnJ6QmZ6S1JSalpOV0k2UF9hN0F0QnV4TFoySHJIYlU?oc=5",
+    "title": "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드]",
+    "summary": [
+      "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드] v.daum.net."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -273,353 +318,319 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "103일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "145일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "nb36dbf94",
-    "category": "사회",
-    "source": "서울특별시",
-    "time": "255일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
-    "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n353eac36",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260714/134292671/1",
-    "title": "이란 외무, 트럼프 ‘호르무즈 안전비용’ 징수에 “전적으로 옳다” 조롱",
-    "summary": [
-      "아바스 아라그치 이란 외무장관이 호르무즈 해협의 안전한 통항 보장을 대가로 해협을 통과하는 화물가액의 20%를 ‘안전 비용’ 명목으로 부과하겠다는 도널드 트럼프 미국 대통령의 발표에 조롱 조의 반응을 내놓았다.아라그치 장관은 13일(현지시간) 엑스(X)에 “POTUS(미국 대통령)가 전적으로 옳다”며 “호르무즈 해협을 통과하는 상선들의 안전하고 확실한 통행을 보장해 주는 누구든, 그 대가로 보상을 받아야 한다”고 적었다.그는 “이란은 항상 이."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n971af315",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/07/14/2026071320014977915",
-    "title": "\"의식 없는 열사병 환자 물 먹이면 안돼요\"",
-    "summary": [
-      "기도 넘어가 질식 가능성… 의식 있을 땐 마시게 해 체온↓ 탈수때 소금 섭취도 위험… \"배출위해 소변으로 수분빠져\" 지구촌 전체를 강타한 엘니뇨(해수 온난화) 여파로 유럽에 이어 미국에서도 1950년 이래 가장 극심한 이상고온과 폭염현상이 나타났다.",
-      "우리나라는 올해 가장 강력한 폭염을 경고하는 '폭염중대경보'를 신설했는데 전날(12일) 경북 남부 일부 지역에서 처음 발령되면서 올여름 역대급 무더위가 예고됐다.",
-      "문제는 폭염 때 의외로 '잘못된 대."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na8a25b71",
+    "id": "n3f9ced39",
     "category": "IT",
-    "source": "머니투데이",
+    "source": "뉴시스",
     "time": "5분 전",
-    "url": "https://www.mt.co.kr/economy/2026/07/14/2026071319592229075",
-    "title": "\"추가 세수, 미래대응 재원으로… 기업 투자 시간표대로 지원\"",
+    "url": "https://www.newsis.com/view/NISX20260714_0003707711",
+    "title": "뉴욕증시, 대이란 봉쇄·반도체주 급락에 하락…SK하이닉스 ADR 9%↓",
     "summary": [
-      "국가재정전략회의 李대통령, 운용원칙 제시 이재명 대통령이 AI(인공지능) 혁명에 따른 반도체 슈퍼사이클(초호황기)로 발생한 대규모 추가 세수를 미래 대응을 위한 전략적 투자재원으로 활용하겠다며 '미래대응기금' 신설과 활용방안의 청사진을 제시했다.",
-      "특히 반도체, 피지컬 AI, AI데이터센터 3대 메가프로젝트 투자가 기업의 시간표대로 적시에 이뤄지도록 정부역량을 총동원해 지원하겠다고 강조했다.",
-      "◇\"추가 세수, 'AI 패권 결정 골든타임'에 쓰일 소."
+      "[서울=뉴시스] 신효령 기자 = 13일(현지시간) 미국 뉴욕증시가 미국·이란 충돌 재격화와 인공지능(AI) 투자에 대한 경계감에 일제히 하락했다.",
+      "SK하이닉스 미국예탁주식(ADR)을 비롯한 반도체주에 매도세가 집중됐다.",
+      "CNBC와 마켓워치 등에 따르면 이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수는 전 거래일보다 138.37포인트(0.26%) 떨어진 5만2498.64에 거래를 마쳤다."
     ],
     "chips": [
       "#AI",
       "#반도체",
-      "#정치"
+      "#SK하이닉스"
     ]
   },
   {
-    "id": "n2cc431d0",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/living/2026/07/14/2026071319564275636",
-    "title": "'K백화점 큰손' 외국인 연매출 1조시대 연다",
-    "summary": [
-      "롯데·신세계·현대 '빅3' 모두 상반기에만 5000억 돌파 뷰티·패션 물론 해외명품 인기… \"K체험 명소 자리매김\" 국내 대형 백화점 3사가 올해 상반기 역대급 외국인 매출을 거뒀다.",
-      "외국인 관광객들이 도심 주요 점포에서 해외명품을 비롯해 K패션, K뷰티 상품을 대거 구입하면서다.",
-      "이런 매출흐름이 이어지면 올해 처음으로 백화점 3사 모두 외국인 연매출 1조원을 넘어 사상 최대실적을 달성할 것으로 기대된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74eba5f0",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/finance/2026/07/14/2026071320034550836",
-    "title": "1년전 스크래핑 금지 예고에도 '강건너 불구경'… 금융소비자만 애탄다",
-    "summary": [
-      "'보안·데이터처리 우수' API망 구축, 비용·시간 부담 금융사 단 한곳도 요청한적 없어… 개보위, 관리 소홀 \"자동화 방식 서류 수집 막힐땐 고객 대출심사등 지연\" 오는 8월부터 소비자가 금융업무에서 10년 전처럼 종이서류를 제출해야 하는 상황이 발생하는 데는 금융사와 데이터 제공기관, 개인정보보호위원회(이하 개보위)의 책임 미루기가 있었다.",
-      "개인정보보호법이 지난해 개정되면서 스크래핑 금지가 예고됐음에도 API(응용프로그래밍 인터페이스) 망구."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf1f6d45e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260714/134292669/1",
-    "title": "트럼프 “16일에 대국민 연설”…연설 내용·주제는 안 밝혀",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 한국 시간으로 오는 17일 오전 10시에 대국민 연설을 한다고 밝혔다.트럼프 대통령은 13일(현지시간) 트루스소셜에 자신이 “목요일(13일) 동부시간으로 오후 9시(한국 시간 17일 오전 10시)에 대국민 연설을 할 것”이라고 적었다.연설 주제나 내용은 밝히지 않았다.다만 최근 이란이 호르무즈 해협을 오가는 상선을 공격하고 이에 미국이 이란 공습을 재개했다는 점에서 17일 연설은 이란과 관련됐을 가능성이 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n714854c1",
+    "id": "n47ee3ab0",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714005151071",
-    "title": "트럼프 \"16일 저녁 대국민 연설\"…이란 관련 발언 주목",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260714007951071",
+    "title": "트럼프 \"오늘 밤과 내일 이란 세게 때릴 것…MOU는 시험이었다\"",
     "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 16일(현지시간) 오후 9시 대국민 연설을 하겠다고 밝혔다."
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 13일(현지시간) 휴전 중 교전이 재개된 이란을 \"오늘 밤에도, 내일도 세게 ..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nd42e6450",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026071404004859767",
-    "title": "[속보]트럼프 \"동부시간 16일 저녁 9시 대국민 연설\"",
-    "summary": [
-      "[속보]트럼프 \"동부시간 16일 저녁 9시 대국민 연설\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3f34002",
+    "id": "n30c58eb8",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260713_0003707545",
-    "title": "대구·경북, '낮 37도' 최강 폭염…늦은 오후 최대 40㎜ 비",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 14일 대구·경북은 대체로 흐리고 비가 오는 곳이 있을 것으로 예상된다.",
-      "대구기상청은 이날 \"늦은 오후부터 대구와 경북 일부 지역에 5~40㎜의 비가 내리겠다\"고 예보했다.",
-      "아침 최저기온은 23~27도(평년 18~22도), 낮 최고기온은 31~37도(평년 26~31도)로 예측된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne66b147f",
-    "category": "사회",
-    "source": "뉴시스",
+    "source": "연합뉴스",
     "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260714_0003707700",
-    "title": "美, 국제형사재판소 해체 착수 선언…韓 탈퇴 압박할듯",
+    "url": "https://www.yna.co.kr/view/AKR20260714009400062",
+    "title": "강릉 닷새째 열대야…강원 대부분 오후에 비",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 행정부가 국제형사재판소(ICC)의 관할권을 부정하는데 그치지 않고, 재판소를 실질적으로 무력화하기 위한 조치에 착수한다고 13일(현지 시간) 선언했다.",
-      "세계 125개국이 가입한 ICC에는 한국 역시 회원국으로 참여하고 있다.",
-      "미국은 다른 국가들의 ICC 탈퇴를 적극 촉구할 방침이라, 한국에도 압박이 가해질 전망이다."
+      "(춘천=연합뉴스) 양지웅 기자 = 화요일인 14일 강원은 잠 못 이루는 열대야가 이어졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1173a454",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260714_0003707707",
-    "title": "[속보]트럼프 \"미 동부시간 16일 오후 9시 대국민연설\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8fb6d733",
+    "id": "n0afd350c",
     "category": "사회",
     "source": "연합뉴스",
     "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714005300072",
-    "title": "미 금융당국, 은행권에 불법이민자 대출 억제 주문",
+    "url": "https://www.yna.co.kr/view/AKR20260714008800079",
+    "title": "'토라 연구, 이스라엘 국가가치' 입법…초정통파 병역면제 포석",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 금융당국이 불법 이민자를 상대로 한 대출의 문턱을 놓일 것을 은행권에 주문했다고 월스트리트저널(WSJ)..."
+      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 의회(크네세트)는 13일(현지시간) 유대교 경전인 토라 연구를 유대인과 국가의 '근본 가치'로 선..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb1388371",
+    "id": "n73016aea",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/14/TAOCFDUXO5DVNB5IC52UNYXXII/",
+    "title": "한 달도 못 간 美·이란 MOU…원점으로 되돌아간 전쟁",
+    "summary": [
+      "한 달도 못 간 美·이란 MOU…원점으로 되돌아간 전쟁."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5921da41",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714005200085",
-    "title": "\"두바이, 호르무즈 해협 우회할 항구 신설 계획\"",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260714008400034",
+    "title": "전국 대부분 지역에 비…강원 동해안·경북권 최고체감온도 35도",
     "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 아랍에미리트(UAE) 두바이 소유 물류기업 DP월드가 UAE 동쪽 해안에 새로운 항구와 컨테이너 터미널을 만..."
+      "(서울=연합뉴스) 김채린 기자 = 화요일인 14일은 전국 곳곳에 비가 내리겠다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na651e719",
-    "category": "사회",
+    "id": "n7204ac10",
+    "category": "부동산",
     "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260714_0003707703",
-    "title": "[속보] 美, 이란 해상봉쇄 재개…한국시간 15일 새벽5시 시행",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003707610",
+    "title": "[오늘의 주요일정]국토교통부(7월14일 화요일)",
     "summary": [
-      "[서울=뉴시스] 신효령 기자 = ◎공감언론 뉴시스 snow@newsis.com."
+      "[서울=뉴시스] ◇장관 ▲10:00 국무회의(서울) ▲14:30 주택공급 확대방안 경청 토론회(서울) ▲17:30 산하기관장 임명장 전수식(정동) ◇1차관 ▲통상일정 ◇2차관 ▲17:30 산하기관장 임명장 전수식(정동) ◇대도시권광역교통위원장 ▲통상일정."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf250681d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714005100071",
-    "title": "[속보] 트럼프 \"미 동부시간 16일 저녁 9시 대국민 연설\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7f617afa",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026071403470952560",
-    "title": "美, 메인주에서도 ICE 연루된 사망자 발생",
+    "id": "n14c9a2f6",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003707469",
+    "title": "\"프린터·프로젝터 넘어 로봇으로 확장\"…한국엡손, 작년 매출 28% 영업익 6% '증가'",
     "summary": [
-      "미국 메인주에서 이민세관단속국(ICE) 요원이 연루된 총격 사건이 발생해 1명이 숨졌다.",
-      "텍사스주 휴스턴에서 ICE 요원의 차량 검문 과정에서 사망자가 나온 지 엿새 만이다.",
-      "라이언 펙토 메인주 하원의장은 13일(현지시간) 페이스북에 \"오늘 아침 비디퍼드에서 총격 사건이 발생했다\"며 \"ICE 요원이 연루됐다\"고 밝혔다."
+      "[서울=뉴시스] 홍세희 기자 = 한국엡손의 2025년 회계연도 매출액과 영업이익이 전년 대비 모두 증가하며 실적 호조를 보인 것으로 나타났다.",
+      "14일 한국엡손 감사보고서에 따르면 이 회사는 2025년도 회계연도(2025년 4월~2026년 3월)에 매출 2276억원, 영업이익 30억원을 기록했다.",
+      "이는 전년 대비 각각 28%, 6.6% 증가한 것이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n17cbecfd",
+    "id": "n3492db2d",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260713_0003707164",
+    "title": "하반기 첫 수출도 역대 최대치…'세계 4강 진입' 청신호",
+    "summary": [
+      "[세종=뉴시스]이수정 기자 = 상반기 역대 최대 수출 실적을 기록한 우리나라가 하반기 첫 수출 성적표에서도 역대 최고 기록을 이어갔다.",
+      "인공지능(AI) 투자 확대에 따른 반도체 수출이 전년 동기 대비 두 배 이상 늘며 전체 수출 증가를 견인한 가운데 정부가 목표로 제시한 '세계 수출 4강' 달성 기대감도 한층 커지는 분위기다.",
+      "14일 관세청에 따르면 이달 1~10일 수출은 298억3900만 달러로 전년 동기 대비 53.9% 증가했다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#수출"
+    ]
+  },
+  {
+    "id": "n9d8a7437",
     "category": "사회",
     "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260714/134292662/1",
-    "title": "對이란 해상봉쇄, 韓시간 15일 새벽 5시 시작…“미준수시 강제조치”",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260714/134292691/1",
+    "title": "[속보] 트럼프 “13~14일 이란 강하게 칠 것…MOU는 테스트였다”",
     "summary": [
-      "미국 측이 이란에 대한 해상 봉쇄가 한국시간으로 오는 15일 오전 5시에 시작된다고 밝혔다.로이터통신에 따르면 미군이 주도하는 다국적 해상 감시기구인 ‘합동해양정보센터’(JMIC)는 13일(현지시간) 모든 이란 항구와 연안 지역에 대한 해상 봉쇄가 그리니치 평균시(GMT) 기준 14일 오후 8시(한국시간 15일 오전 5시)에 모든 국적의 선박을 대상으로 시작된다고 공지했다.JMIC는 봉쇄 조치가 “이란의 항구 및 석유 터미널을 포함한 이란 해안."
+      "[속보] 트럼프 “13~14일 이란 강하게 칠 것…MOU는 테스트였다”."
     ],
     "chips": [
-      "#채용"
+      "#뉴스"
     ]
   },
   {
-    "id": "n0dace9b9",
+    "id": "n6014ee75",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714004900072",
-    "title": "국제유가, 美 대이란 재봉쇄에 급등…WTI 10% 가까이 수직상승",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260714/134292689/1",
+    "title": "“트럼프, 16일 대국민 연설서 외국의 2020년 대선 개입 다룰 예정”",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미국 대통령이 호르무즈 해협에서 이란 항구 및 연안을 오가는 선박에 대한 봉쇄를 재개하겠다고 ..."
+      "도널드 트럼프 미국 대통령이 오는 16일 대국민 연설에서 지난 2020년 미국 대선에 외국 세력이 개입하려 했다는 정보 보고서를 언급할 예정인 것으로 알려졌다.미국의 진보 성향 케이블 뉴스 채널인 MS NOW의 제이크 테일러 기자는 13일(현지시간) 엑스(X)에서 두 명의 백악관 관계자를 인용해 트럼프 대통령이 16일 연설에서 “2020년 대선에 개입하려는 외국 세력의 계획을 드러낸다고 백악관이 주장하는 최근 기밀 해제된 정보 보고서에 대해 언."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n85d1fd0e",
+    "id": "nca58c9ca",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260714/134292686/1",
+    "title": "트럼프, 이란 해상봉쇄 재개…국제유가 9% 넘게 폭등",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 이란 선박에 대한 해상봉쇄를 재개한다고 발표하면서 국제유가가 9% 넘게 폭등했다.13일(현지시간) 브렌트유 선물은 전 거래일보다 9.6% 급등한 배럴당 83.30달러, 미국 서부텍사스산원유(WTI) 선물은 9.4% 오른 78.14달러를 기록했다.유가는 트럼프 대통령이 미국이 이란에 대한 해상봉쇄를 다시 시행한다고 발표한 직후 급등했다.트럼프 대통령은 자신의 소셜미디어를 통해 “이란 선박과 이란의 고객만 출입을 막는."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0c9d5389",
     "category": "사회",
     "source": "조선일보",
     "time": "1시간 전",
-    "url": "https://www.chosun.com/international/japan/2026/07/14/GEP23X66ZZCM7NVTFW7QHE37IQ/",
-    "title": "시대 거스른 일본의 “여성 천황 불가”… 다음 아젠다는 ‘3대 핵원칙’ 폐기",
+    "url": "https://www.chosun.com/international/us/2026/07/14/J44EMTHONJA6PGPJEJFTNAHCZI/",
+    "title": "美 15일부터 이란 해상봉쇄... 트럼프, 17일 대국민 연설",
     "summary": [
-      "시대 거스른 일본의 “여성 천황 불가”… 다음 아젠다는 ‘3대 핵원칙’ 폐기."
+      "美 15일부터 이란 해상봉쇄... 트럼프, 17일 대국민 연설."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n162150d6",
+    "id": "n82979831",
     "category": "사회",
-    "source": "조선일보",
+    "source": "동아일보",
     "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/travel/2026/07/14/JJ3BLVGAMBEFTC6I2ANVTCDQBA/",
-    "title": "장국영의 고독과 밀크티 한 잔… 홍콩의 소울이 담긴 ‘차찬텡’의 원조",
+    "url": "https://www.donga.com/news/Culture/article/all/20260714/134291817/2",
+    "title": "“가장 느린 방식으로 쓴 소설, 장애에 대한 시선 바꿀수 있길”",
     "summary": [
-      "장국영의 고독과 밀크티 한 잔… 홍콩의 소울이 담긴 ‘차찬텡’의 원조."
+      "머리는 안 다쳤어요.” 2013년, 2년간의 병원 생활을 마치고 돌아온 소설가 황시운(50)은 소셜미디어에 이런 글을 올렸다.",
+      "2011년 사고로 하반신이 마비된 뒤였다.",
+      "몸은 달라졌지만 소설은 계속 쓸 수 있단 걸 세상에 알리고 싶었다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5faff3ee",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260714004951072",
+    "title": "국제유가, 美 대이란 재봉쇄에 급등…WTI 10% 가까이 수직상승(종합)",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미국 대통령이 대이란 해상 봉쇄를 재개한다고 밝히면서 13일(현지시간) 국제 유가가 10% 가..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n357ab371",
+    "category": "IT",
+    "source": "테크M",
+    "time": "3시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153339",
+    "title": "미국 빅테크, AI 투자 회수 관심사로...국내 IT서비스도 2분기 실적 공개 목전",
+    "summary": [
+      "국내 주요 IT서비스 기업들이 이달 말부터 2분기 실적을 발표한다.",
+      "시장의 관심은 AI와 데이터센터에 대한 투자 확대가 클라우드 매출과 수익성 개선으로 이어지는지에 쏠린다.",
+      "미국에서도 알파벳(구글)과 마이크로소프트, 아마존, 메타 등 빅테크의 실적 발표를 앞두고 대규모 AI 설비투자 회수 가능성이 주요 쟁점으로 떠올랐다.국내에서는 삼성SDS가 오는 30일 2분기 실적을 공개한다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n45faa2bb",
+    "category": "IT",
+    "source": "테크M",
+    "time": "3시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153341",
+    "title": "[카드뉴스] AI 검색은 시작일 뿐.. 네이버가 안전·투자·광고까지 AI로 연결하는 이유는?",
+    "summary": [
+      "네이버의 AI 전략이 검색을 넘어 빠르게 확장되고 있습니다.",
+      "AI탭과 쇼핑 AI 에이전트 등 이용자와 만나는 서비스가 늘어나자 AI 안전 관리 범위를 서비스 전반으로 넓혔고, 네이버페이는 AI를 활용해 스타트업과 투자자를 연결하기 시작했습니다.",
+      "광고 분야에서는 AI가 광고 대상을 찾고 노출을 최적화하며 실제 구매와 매출 성장까지 이끌고 있습니다.안전하게 운영하고, 새로운 기회를 연결하고, 수익으로 확장하는 네이버의 AI 전략에 대해 알아볼까요?."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n816aa603",
+    "category": "IT",
+    "source": "테크M",
+    "time": "3시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153340",
+    "title": "[부고] 목진원(유베이스 그룹 대표이사)씨 장인상",
+    "summary": [
+      "▲김정서 씨 별세, 목진원(유베이스 그룹 대표이사)씨 장인상=서울성모병원 장례식장 12호실.",
+      "발인 15일 오전 6시 30분.",
+      "장지 성남시장례문화사업소–유토피아."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5145eabd",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "4시간 전",
+    "url": "https://www.hankyung.com/article/202607142866i",
+    "title": "中 패션기업 쉬인, 뉴욕·런던서 퇴짜 맞고 8월 홍콩 IPO",
+    "summary": [
+      "中 패션기업 쉬인, 뉴욕·런던서 퇴짜 맞고 8월 홍콩 IPO."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n024ae2c5",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/2026/07/14/FYJDXIE43VDJVBOPNJTYFLTJSI/",
-    "title": "[굿모닝 멤버십] 홍콩 재개발 광풍 속에서 살아남은 1950년대 카페",
+    "id": "n72218f54",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "4시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260714003534",
+    "title": "최태원 \"AI는 안보 문제…정부 지속 투자해야\"",
     "summary": [
-      "[굿모닝 멤버십] 홍콩 재개발 광풍 속에서 살아남은 1950년대 카페."
+      "[지디넷코리아]최태원 SK그룹 회장이 \"범용인공지능(AGI) 시대가 올 때까지 정부가 지속 투자해야 한다\"고 밝혔다.",
+      "13일(한국시간) 밤 방송된 미국 '더 식스 파이브(The Six Five)' 프로그램에서 진행자 다니엘 뉴먼 퓨처럼그룹 대표가 '메모리 반도체 사이클이 언제까지 지속될 것으로 보느냐'고 묻자, 최 회장은 \"이건 사이클 문제가 아니다\"라며 \"설령 경제나 금융이 투자를 뒷받침하지 못하더라도 완벽한 AI를 볼 때까지 이 사이클을 유."
     ],
     "chips": [
-      "#재건축"
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nf52e6b7f",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "4시간 전",
+    "url": "https://www.hankyung.com/article/202607132810i",
+    "title": "월가,\"SK하이닉스 美IPO성공,다른 기술기업들은 쉽지않아\"",
+    "summary": [
+      "월가,\"SK하이닉스 美IPO성공,다른 기술기업들은 쉽지않아\"."
+    ],
+    "chips": [
+      "#SK하이닉스"
     ]
   }
 ];
@@ -628,21 +639,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "tag": "AI",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
