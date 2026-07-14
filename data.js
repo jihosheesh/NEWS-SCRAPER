@@ -1,27 +1,12 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-14 19:01:10
+// 마지막 업데이트: 2026-07-14 20:49:00
 window.NEWS_DB = [
   {
-    "id": "ned5ab335",
-    "category": "IT",
-    "source": "시사저널e",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xNUM0VnBvZTgwZGtZRVhfVWV5MWduY3RGZVo1T18yMnhWM0RKZTlQU0hTeTI2UFhtNzh2YnQ5QVdJallYczE0MkRzRkl0SGdvQ0xfQlhjdGplLWNTY25fQW9NbkVGTGx6eGkxaWpBMjNUUQ?oc=5",
-    "title": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 아성 흔들까",
-    "summary": [
-      "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 아성 흔들까 시사저널e."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n6078599a",
+    "id": "nd2f674a4",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "9시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GOHphYUdES2dPQTdHZjlKanI3NG5mLXMxNVRKQVZYc2hiTUtuSkxZeDVoMmZudmlYUjVsMmVMUW1fR1BpVjJESlRPVGR4TVE?oc=5",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xcy12VTJlUFFERUpHWWZacXVmbDVjWm5rYkJQV0dSZ20wd2JXaTR4UlVKYkY5OWwtZWRKTGtKU3lzd3NSWHc?oc=5",
     "title": "“이천서 보자”에 술렁…메모리사 SK하이닉스는 왜 파운드리 인력 수혈 나섰나 [칩칩팹팹]",
     "summary": [
       "“이천서 보자”에 술렁…메모리사 SK하이닉스는 왜 파운드리 인력 수혈 나섰나 [칩칩팹팹] v.daum.net."
@@ -35,7 +20,7 @@ window.NEWS_DB = [
     "id": "n443a94d9",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbjQ2MlUxZkpZLXpzc1F1ZVBhTGd2eC1fSWpxakdHcHh3THI1el9NeXp4bEJER1BqWHF2dzAwWTItczJ3V3RDTVZQTGRHVkwyd1BTbnJpcDktcWdzaWZPQkdnQnJvbHhuRFpfNllvakJGQjJ0RmUzNmRHRzlXN1ZDa01R0gGWAUFVX3lxTE9BZDVLZjlfWm1LbGlESnlpSGh2em8yTUlsT0ktcXl0clUtMXV0aE4taU1TLXNqNFR0QmtteWo2NS1zUXIxS29EZHBBQmlEaHo2Z3BFZ0JBeXRoeUgwOF9hR1hFaXg3TkhCM0JfajhJV1luVFFtVDUwd25kT05STjFPTWxjOU1wekRiZzFiQm1pV2QxZG94QQ?oc=5",
     "title": "엔비디아, AI칩 中 우회 수출 차단 조치… 아시아 고객사 심사 강화 - 조선비즈",
     "summary": [
@@ -51,7 +36,7 @@ window.NEWS_DB = [
     "id": "n6229e236",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVV9OcTgxMVdsYktNRjNzaV8xOGptOXNYcGFON1pZc1FlVTdBTEhmTXZOeHpLeXpFUlpLdUQyamp6anZaS3NTS1RyaTR6TmhPSGNfNEdsbGkyTHVxNGZWNXdhTmwtRWFBRndSWUUtRkRCLUE?oc=5",
     "title": "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠슨 황 고민 커져",
     "summary": [
@@ -68,7 +53,7 @@ window.NEWS_DB = [
     "id": "n18f2a499",
     "category": "IT",
     "source": "미디어펜",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dS1uaWR2QXZsMGdESlVJSVNRbEVOcjV6YXMzWlVMOGF3cHRlbDEyQmFWZko3NkdTallrYm82UHFxODlTOWRld3UtUHROYml2T0UzTw?oc=5",
     "title": "[반도체 승부수②] '올인원' 삼성 vs '초연합' 하이닉스…HBM4 생존 방정식",
     "summary": [
@@ -79,10 +64,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n624c542d",
+    "category": "IT",
+    "source": "디지털데일리",
+    "time": "20시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nZFhRc0lZWXZzYTkwSUdXM2Rka2tDYjl4X2trSC1qY3pSVUdjTDdqaTA0RGZ6TjQzUVpBakk4WDRqclFWWkNaVlRuOXF6ZUpFaGRFUkcyRkhKUzZZaE5IeG9BZEI?oc=5",
+    "title": "엔비디아 물량 쏟아지자 팹 증설 속도전…TSMC, 대만 자이에 AI 반도체 패키징 공장 2개 추가",
+    "summary": [
+      "엔비디아 물량 쏟아지자 팹 증설 속도전…TSMC, 대만 자이에 AI 반도체 패키징 공장 2개 추가 디지털데일리."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "na11bfa3c",
     "category": "IT",
     "source": "빅데이터뉴스",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwUlhURzFCWFhuT21kdG0xTlBfRGxKLTBOaVdPMi16N3NhaEJMZnh4UzVvczI1QTJwejVmQXdPbzVvVlFaMnRpbmRoeVJNbXFmc0RvbEpueG92YlJSR3AwYTh2Z2pmRlZIaDhQNGJLZTZrSXBjbFdkNlBYb2k?oc=5",
     "title": "[삼성전자 상반기 톺아보기①] 메모리 호황 속 파운드리는 여전히 숙제",
     "summary": [
@@ -214,20 +215,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n646824f1",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WZWY5ZXlFNllvSUVqQkhPZTRoT3pmT1E5MUFkTmR2dGF1NkxfaEMxcnJ6QmZ6S1JSalpOV0k2UF9hN0F0QnV4TFoySHJIYlU?oc=5",
-    "title": "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드]",
-    "summary": [
-      "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드] v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -302,6 +289,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "104일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -317,328 +318,334 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1fb251b1",
-    "category": "부동산",
+    "id": "nbb656d51",
+    "category": "경제",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260714_0003708746",
-    "title": "학교·공원 인접 단지 청약 경쟁률…젊은 도시서 3배 높아",
+    "url": "https://www.newsis.com/view/NISX20260715_0003709481",
+    "title": "뉴욕증시, 물가 둔화에 일제히 상승…나스닥 0.9%↑",
     "summary": [
-      "[서울=뉴시스] 강세훈 기자, 신연경 인턴기자 = 학교와 공원을 도보권에 둔 아파트의 청약 열기가 평균 연령이 낮은 '젊은 도시'에서 더욱 두드러지는 것으로 나타났다.",
-      "같은 입지 조건을 갖춘 단지라도 지역의 연령 구성에 따라 청약 성적이 크게 갈렸다.",
-      "14일 분양업계와 한국부동산원 청약홈에 따르면 지난해부터 올해 상반기까지 전국에서 분양한 아파트 355개 단지 가운데 반경 300m 안에 학교와 공원을 모두 갖춘 단지는 47곳이었다."
+      "[서울=뉴시스] 문예성 기자 = 미국의 인플레이션 우려가 완화한 가운데 반도체주가 강세를 보이면서 뉴욕증시가 14일(현지 시간) 일제히 상승 마감했다.",
+      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수는 전 거래일보다 9.63포인트(0.02%) 오른 5만2508.27에 거래를 마쳤다.",
+      "스탠더드앤드푸어스(S&P)500지수는 전장보다 28.25포인트(0.38%) 상승한 7543.59에, 기술주 중심의 나스닥종합지수는 233.83포인트(0.9."
     ],
     "chips": [
-      "#부동산",
-      "#교육"
+      "#반도체"
     ]
   },
   {
-    "id": "n6932c3b3",
+    "id": "na8044d59",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715005800071",
-    "title": "\"트럼프, 네타냐후에 시리아·레바논서 군 철수하라 요구\"",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003709471",
+    "title": "\"트럼프, 네타냐후에 시리아·레바논 점령군 철수 요구\"",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 최근 베냐민 네타냐후 이스라엘 총리에게 시리아와 레바논에서 이스라엘 군을 철수..."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 최근 베냐민 네타냐후 이스라엘 총리에게 시리아와 레바논 점령지에서 군대를 철수하라고 요구했다고 미국 언론 액시오스가 14일(현지 시간) 전했다.",
+      "매체에 따르면 트럼프 대통령은 지난 9일 네타냐후 총리와 통화에서 \"그들은 당신들이 거기 있는 것을 원하지 않는다.",
+      "재배치해야 한다\"며 이같이 요구했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n4b4d96ea",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715005400072",
-    "title": "美뉴욕주, '대형 데이터센터 건설 1년 유예' 최초 도입",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 뉴욕주가 미국 내 50개 주(州) 가운데 최초로 대형 데이터센터 건설을 유예하는 정책을 도입했다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nab90a13a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/15/JRPCSLBJHBBHRCPOFJDH5AUUXM/",
-    "title": "NYT “한국 알루미늄 기업, 트럼프 회사에 30억원 지급”",
-    "summary": [
-      "NYT “한국 알루미늄 기업, 트럼프 회사에 30억원 지급”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne9690731",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715005300091",
-    "title": "구글 AI 책임자 \"AGI 도래 눈앞…美 주도 규제기관 신설해야\"",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 구글의 인공지능(AI) 부문 책임자가 범용인공지능(AGI)이 목전에 다가온 만큼 미국이 주도하는 규제..."
-    ],
-    "chips": [
-      "#AI",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n250b7ff7",
+    "id": "n2d9808f9",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/15/GVQWINJYHE3TEYJUGEYGMNZXMY/",
-    "title": "차세대 축구황제 ‘음바페 VS 야말 전격 성사됐다!’ 프랑스 대 스페인 월드컵 4강전 베스트11 발표",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/15/2026071415064086584",
+    "title": "\"홍명보 선임 주도했다\"→월드컵 참사 후 '잠적'→'꼼수' 청문회 불출석 가능성... '도피성 해외 취업 논란' 장본인 선택은",
     "summary": [
-      "[OSEN=서정환 기자] 월드컵 결승에 갈 차세대 축구황제는 누구일까.",
-      "FIFA 랭킹 1위 프랑스는 15일 오전 4시(한국시간) 미국 텍사스주 알링턴 AT&T 스타디움에서 개최되는 는 2026 FIFA 북중미 월드컵 4강전에서 랭킹 3위 스페인을 상대한다.",
-      "두 팀 중 승자가 아르헨티나 대 잉글랜드의 승자와 결승전에서 만난다."
+      "대한민국 축구대표팀을 2026 국제축구연맹(FIFA) 북중미월드컵 조별리그 탈락이라는 사상 최악의 참사로 몰고 간 핵심 책임자들의 행보가 엇갈리고 있다.",
+      "홍명보 전 감독이 청문회 출석 의사를 밝히며 정면돌파를 선언한 반면, 감독 선임을 주도했던 이임생 전 대한축구협회 기술본부 총괄이사는 캄보디아 프로축구 무대로 취업해 잠행을 이어가는 분위기다.",
+      "현재 국회 문화체육관광위원회는 오는 22일 대한축구협회 청문회 개최를 확정하고 운영 및 감독 선임 과."
     ],
     "chips": [
-      "#뉴스"
+      "#취업",
+      "#정치"
     ]
   },
   {
-    "id": "nb6e735cd",
+    "id": "n12f8a1d5",
     "category": "사회",
-    "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260715/134300661/1",
-    "title": "김무열♥ ‘16㎏ 감량’ 윤승아의 아침 식단…“탄수화물·식이섬유·단백질 다 잡았다”",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260714_0003708363",
+    "title": "당 부담 낮추고 식이섬유 채우고…식품업계, 황제의 곡물 '파로' 주목",
     "summary": [
-      "출산 후 16㎏ 감량에 성공한 배우 윤승아(44)가 아침 식사로 과일을 즐겨먹는 모습을 공개했다.지난 12일 윤승아는 자신의 유튜브 채널을 영상을 통해 여름 일상을 공유했다.",
-      "윤승아는 아침 식사 메뉴로 사과, 망고와 프렌치 토스트를 준비했고, 그릭 요거트를 곁들여서 함께 먹었다.윤승아의 아침 식단은 과일을 중심으로 구성돼서 펙틴 등 식이섬유가 풍부하다.",
-      "식이섬유는 장 건강을 돕고, 혈당이 급격히 오르지 않도록 방지하는 효과가 있다."
+      "[서울=뉴시스]김상윤 기자 = 식이섬유 섭취량을 적극적으로 늘리는 '파이버맥싱'이 새로운 건강 관리 방식으로 떠오르면서 식품업계가 고대 곡물 '파로'를 활용한 제품을 잇따라 선보이고 있다.",
+      "14일 업계에 따르면 헬시 플레저와 웰니스 트렌드가 확산하면서 단순히 칼로리를 줄이는 데서 벗어나 식이섬유와 통곡물 등 영양 성분을 따져 식품을 선택하는 소비자가 늘고 있다.",
+      "최근에는 단백질에 집중됐던 영양 관리 수요가 식이섬유로 넓어지는 모습이다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n6ba336f5",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260715/134300658/1",
-    "title": "출산 후 21㎏ 감량 손담비, 운동으로 만든 ‘직각어깨’ 눈길",
+    "id": "nad727e58",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/15/2026071505144772841",
+    "title": "김호영, 사과했지만 '옥장판' 해명은 아니었다…옥주현과 '기싸움'",
     "summary": [
-      "가수 겸 배우 손담비가 비 오는 날에도 운동을 거르지 않는 일상을 공개해 눈길을 끌었다.손담비는 최근 자신의 인스타그램에 “비 오는 날은 운동이지.",
-      "비 와서 머리 부스스”라는 글과 함께 운동 중인 사진을 올렸다.",
-      "사진 속 손담비는 자이로토닉 스튜디오에서 거울을 보며 셀카를 찍고 있었다."
+      "뮤지컬 배우 김호영이 긴 침묵을 깨고 '죄송하다'는 입장을 밝혔다.",
+      "다만 사과의 대상이 '옥장판 논란' 옥주현은 아니었다.",
+      "김호영은 지난 14일 자신의 인스타그램 스토리에 \"벌써 매진이라 죄송합니다!!!!!!\"라는 글과 함께 자신의 놀란 모습을 담은 사진을 올렸다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n216867fd",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "34분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260715/134300655/1",
-    "title": "이성민, 10㎏ 감량하더니…몰라보게 홀쭉해진 얼굴",
-    "summary": [
-      "배우 이성민의 한층 홀쭉해진 근황이 공개됐다.",
-      "패션 잡지 데이즈드코리아는 13일 소셜미디어에 “화보 촬영장에 나타난 교육부장관 최강석, 이성민.",
-      "그의 화보 촬영을 방해하는 자가 있다면 철저히 응징할 것”이라는 글과 함께 영상 1개를 올렸다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n808b4e57",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "34분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260715/134300652/1",
-    "title": "문가영, 휴대폰 속 얼굴 옆에서도 굴욕 없는 미모",
-    "summary": [
-      "배우 문가영이 수수한 메이크업과 옷차림에도 화려한 미모를 자랑했다.",
-      "문가영은 14일 소셜미디어에 별다른 말 없이 사진 여러 장을 올렸다.",
-      "공개된 사진에는 문가영이 차를 타고 한강 다리를 건너는 모습이 담겼다.문가영이 들고 있는 휴대폰 화면에는 본인 얼굴 사진이 띄워져 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n50e77fd3",
+    "id": "naed88b36",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715005000072",
-    "title": "워런 버핏, 게이츠재단 기부 20년만에 중단…게이츠와 거리두기",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715007551071",
+    "title": "美, 대이란 해상봉쇄 개시…전함 20여척·군용기 수백대 동원(종합)",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = '투자의 구루(스승)'로 불리는 워런 버핏(95) 버크셔해서웨이(이하 버크셔) 이사회 의장이 빌 게이츠 마이..."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미국이 미 동부시간으로 14일 오후 4시(한국 기준 15일 오전 5시)를 기해 대이란 해상 봉쇄를 재개했다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n171e3738",
+    "id": "ne083cdfc",
     "category": "사회",
     "source": "뉴시스",
-    "time": "52분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003709467",
-    "title": "트럼프 \"대러 제재안에 이란·헤즈볼라도 추가 검토\"",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003709482",
+    "title": "'초복' 전북 낮까지 가끔 비…낮 28~31도 폭염·열대야",
     "summary": [
-      "[서울=뉴시스] 문예성 기자 = 도널드 트럼프 미국 대통령이 의회에서 추진 중인 대러시아 제재 법안에 이란과 친이란 무장정파 헤즈볼라를 추가하는 방안을 검토하고 있다고 밝혔다.",
-      "트럼프 대통령은 14일(현지 시간) 백악관 집무실에서 \"(제재에) 이란을 포함시킬 텐데, 이는 매우 중요한 일“이라면서 \"헤즈볼라도 포함시킬 가능성이 있다\"고 말했다.",
-      "그는 초당적으로 추진 중인 대러시아 제재 법안에 대해 \"세부 내용이 확정되면 통과될 가능성이 크다\"고."
+      "[전북=뉴시스]고석중 기자 = 초복인 15일 수요일 전북지역은 이동하는 저기압의 영향을 받아 대체로 흐리고 낮까지 가끔 비가 내리겠다.",
+      "기상청에 따르면 예상 강수량은 5~40㎜다.",
+      "비가 내리는 지역에서는 가시거리가 짧아지고 도로가 미끄러울 수 있어 차량 운행 시 감속 등 교통안전에 유의해야 한다."
     ],
     "chips": [
-      "#정책",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n572e4db6",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026071505405824009",
+    "title": "[뉴욕증시]CPI 둔화·반도체 반등에 상승 마감",
+    "summary": [
+      "14일(현지시간) 미국 뉴욕증시 3대 지수는 일제히 상승 마감했다.",
+      "미국의 6월 소비자물가지수(CPI) 상승률이 예상 밖 둔화를 보인 가운데 반도체 업종이 반등에 성공하면서 지수를 견인했다.",
+      "또 도널드 트럼프 미국 대통령이 호르무즈 해협을 지나는 선박에 통행료 부과 계획을 하루 만에 철회하면서 국제유가 오름세도 제한적이었다."
+    ],
+    "chips": [
+      "#반도체",
       "#정치"
     ]
   },
   {
-    "id": "n2ab27bc7",
-    "category": "IT",
-    "source": "테크M",
-    "time": "57분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153383",
-    "title": "[K-NPU] 퓨리오사AI, NPU 시장 확산 본격화...정부 '마중물'에 삼성 '지원사격'(종합)",
+    "id": "n480532f9",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/15/GE3WIYRTHFSTMYLDMEZDKNDCHA/",
+    "title": "S&P500·나스닥 동반 상승... SK하이닉스 ADR 27% 급등",
     "summary": [
-      "국산 신경망처리장치(NPU)가 시장 확산 국면에 접어들고 있다.",
-      "퓨리오사AI가 올해 초 2세대 NPU '레니게이드' 양산을 본격화한 이후 급물살을 타는 모습이다.",
-      "정부는 공공을 중심으로 향후 5년간 시장 확산 마중물 역할을 수행한다."
+      "14일(현지시각) 뉴욕증권거래소(NYSE)에서 스탠더드앤드푸어스(S&P)500 지수와 나스닥 지수가 동반 상승하며 장을 마쳤다.",
+      "미국 물가 지표가 시장 예상보다 크게 둔화하며 중앙은행 연방준비제도(연준)가 기준금리를 올릴 것이라는 시장 공포가 잦아진 것으로 풀이된다.",
+      "반면 우량주를 모아놓은 다우존스30산업평균지수는 대형 정보기술(IT) 기업 IBM 주가가."
     ],
     "chips": [
-      "#AI"
+      "#SK하이닉스",
+      "#금리"
     ]
   },
   {
-    "id": "n2f06501b",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153376",
-    "title": "웹툰·웹소설 원작 콘텐츠 '전성시대'...전문가 \"IP 생태계 키울 전문 지원책 시급\"",
+    "id": "nc0b3709d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/15/HFRTMOJXGQYGKNBYGAZWGNBRGY/",
+    "title": "마이너 강등 위기 몰렸던 韓 국가대표 외야수, ML 생존 성공했다…DFA→보스턴 이적",
     "summary": [
-      "웹툰을 원작으로 한 영상 콘텐츠가 흥행을 이어가면서 콘텐츠 산업의 핵심 지식재산권(IP)으로 자리매김 하고 있다.",
-      "넷플릭스와 SBS 등에 방영 중인 '김부장'과 공개 직후 화제성 1위를 기록했던 '참교육' 등은 네이버웹툰이 원작이다.",
-      "케이블 드라마 1·2위를 차지했던 '내일도 출근'과 '닥터 섬보이'는 카카오페이지 작품이다.웹툰 IP를 기반으로 한 작품들이 국내외에서 잇따라 성과를 내면서 웹툰 IP 확보 경쟁도 치열해지고 있다."
+      "[OSEN=길준영 기자] 디트로이트 타이거즈에서 DFA(지명할당) 되며 방출 위기에 몰렸던 저마이 존스(29)가 새로운 팀을 찾았다.",
+      "미국매체 MLB트레이드루머스는 15일(한국시간) ”보스턴 레드삭스가 디트로이트 타이거즈에서 외야수 저마이 존스를 영입한다고 보스턴 글로브 알렉스 스파이어 기자가 보도했다.",
+      "지난주 존스를 DFA 한 디트로이트는 그 대가로 추후."
     ],
     "chips": [
-      "#네이버",
-      "#카카오",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc61e8e7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/15/MYYGIYLFG5QWGNBQMUYTCNTFMM/",
+    "title": "김준호, '대학 동기' 유지태 조롱 \"블루스 타임에 냅다 한국 무용 추더라‥다들 피해\" ('이민정') [순간포착]",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 김준호가 대학 동기인 배우 유지태를 놀려 웃음을 안겼다.",
+      "14일 유튜브 채널 '이민정MJ'에는 '3시간 내내 신나게 떠들고 간 유지태.",
+      "짠한형 때 한풀이 하러 옴 *유지태 인생 설명회'라는 제목의 영상이 게재됐다."
+    ],
+    "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nff289008",
+    "id": "n65b89c3d",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/15/2026071505153498755",
+    "title": "미군 \"대이란 추가 공습…호르무즈 해상 봉쇄도 재개\"",
+    "summary": [
+      "[미국-이란 전쟁] 국제유가 2%대 상승…브렌트유 85달러 돌파 미군이 14일(현지시간) 이란에 대한 해상 봉쇄를 재개하며 고강도 압박에 나섰다.",
+      "나흘째 대이란 공습도 이어갔다.",
+      "중동을 관할하는 미군 중부사령부는 이날 X(옛 트위터)를 통해 \"오늘 오후 4시(한국시간 15일 오전 5시)부터 이란 항구와 해안 지역을 오가는 선박에 대한 해상 봉쇄를 재개했다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb8e53bc",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/15/2026071505072291627",
+    "title": "이천수 \"'어린놈이 감히?' 성질내던 시대 끝…논리와 축구로 설득하라\"",
+    "summary": [
+      "전 국가대표 이천수가 차기 축구대표팀 사령탑의 자질로 화려한 명성보다는 탄탄한 전술적 역량을 우선시해야 한다고 강조했다.",
+      "이천수는 지난 13일 유튜브 채널 '리춘수'를 통해 \"이름과 나이로 선수들을 꺾는 시대는 끝났다.",
+      "이제는 논리와 축구로 설득해야 한다\"고 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfec0f96b",
     "category": "사회",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260715/134300685/1",
+    "title": "갑자기 문 닫은 홈플러스…쌓인 포인트·문화센터 수강료 환불 ‘혼란’",
+    "summary": [
+      "홈플러스가 대형마트 전 점포의 임시휴업에 들어가면서 소비자들이 보유한 포인트 사용과 문화센터 수강료 환불을 둘러싼 혼란이 커지고 있다.",
+      "갑작스러운 영업 중단에도 구체적인 후속 안내가 충분하지 않다는 지적이 나온다.갑작스런 영업 중단에…포인트 별도 안내도 없어15일 업계에 따르면 홈플러스는 지난 13일부터 대형마트 전 점포의 임시휴업에 들어갔다.",
+      "일부 직원들도 당일 출근한 뒤에야 영업 중단 사실을 전달받은 것으로 알려졌다.홈플러스는 휴업 이후에도."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e900e04",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715008800034",
+    "title": "전국 비바람 주의…최고기온 36도 '후텁지근'",
+    "summary": [
+      "(서울=연합뉴스) 정지수 기자 = 수요일인 15일은 전국이 대체로 흐린 가운데 오후까지 가끔 비가 내리는 곳이 있겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbd0a2c20",
+    "category": "경제",
     "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/incident/2026/07/15/P5V63IA5Q5B4BASPID2JJOM6LI/",
-    "title": "사람 죽여 이런 짓까지… ‘생모의 죽음’ 이용해 정적 제거한 연산군",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/15/EDHTI3N7TFHNLC6HHYBRGMOQDE/",
+    "title": "예상 밑돈 물가에 한숨 돌린 뉴욕 증시, 나스닥 0.9%↑",
     "summary": [
-      "사람 죽여 이런 짓까지… ‘생모의 죽음’ 이용해 정적 제거한 연산군."
+      "예상 밑돈 물가에 한숨 돌린 뉴욕 증시, 나스닥 0.9%↑."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3e46792d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/2026/07/15/LPEVGPL7SREE3CRDMZ662QTLNQ/",
-    "title": "3m 이무기 꼬랑지 잡고 질질… 차원이 다른 미국의 땅꾼들",
-    "summary": [
-      "3m 이무기 꼬랑지 잡고 질질… 차원이 다른 미국의 땅꾼들."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n543a7971",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003709468",
-    "title": "105일 걸린 최저임금 심의…1만700원으로 최종 결정(종합)",
-    "summary": [
-      "[세종=뉴시스]박정영 기자 = 내년도 최저임금이 1만700원으로 결정됐다.",
-      "총 심의 기간은 105일로 법정 기간인 90일을 훌쩍 넘겼지만, 최종 고시는 지킬 수 있을 것으로 예상된다.",
-      "최저임금위원회(최임위)는 지난 14일 오후 정부세종청사에서 제14차 전원회의를 열고 내년도 시간당 최저임금을 1만700원으로 의결했다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n861c4ec0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260714_0003708921",
-    "title": "\"알약 너무 작으면 사지 마세요\"…약사가 밝힌 종합비타민 고르는 법",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 종합비타민은 누구나 챙겨 먹어야 하는 영양제가 아니라는 전문가의 조언이 나왔다.",
-      "충분히 식사하는 사람이라면 굳이 복용할 필요가 없으며, 제품을 고를 때도 알약 크기 등을 확인해야 한다는 것이다.",
-      "지난 12일 구독자 272만 명을 보유한 유튜브 채널 '김작가 TV'에 출연한 정재훈 약사는 음식 섭취량이 적은 사람이라면 종합비타민이 도움이 될 수 있지만, 충분히 식사하는 사람은 굳이 챙겨 먹을 필요가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44eebdd7",
+    "id": "n42290022",
     "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153382",
-    "title": "[K-NPU] SCP에서 GPU·NPU 골라 쓴다...삼성SDS, 퓨리오사AI NPUaaS 16일 출시",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715008400072",
+    "title": "뉴욕증시, 물가우려 완화 속 반도체 랠리 재개…나스닥 1%↑",
     "summary": [
-      "삼성SDS가 퓨리오사AI 신경망처리장치(NPU)를 삼성 클라우드 플랫폼(SCP)에서 서비스형 플랫폼 형태로 제공한다.",
-      "고객의 AI 추론 작업을 분석해 GPU와 NPU 중 비용과 성능에 적합한 자원을 자동으로 배정하는 서비스도 준비했다.최정진 삼성SDS 그룹장은 14일 서울 중구 더 플라자 호텔에서 열린 '2026 K-NPU 테크 웨이브'에서 \"레니게이드 기반 서비스형 NPU(NPUaaS)를 오는 16일 정식 출시한다\"고 밝혔다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n7ee4ae70",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153380",
-    "title": "[카드뉴스] AI는 집을 움직이고 웹OS는 수익을 만든다.. 달라진 LG전자의 성장공식은?",
-    "summary": [
-      "냉장고와 TV를 잘 만드는 회사로 익숙했던 LG전자가 새로운 성장동력을 키우고 있습니다.",
-      "AI 홈 허브 '씽큐 온'을 아파트에 연결해 가전뿐 아니라 조명과 난방, 엘리베이터, 주차까지 관리하고, 전 세계에 보급된 2억7000만대의 웹OS TV는 콘텐츠와 광고를 연결하는 플랫폼으로 바꾸고 있습니다.",
-      "제품을 한 번 판매하는 것에서 벗어나 고객의 집과 일상에 계속 연결되는 기업으로 변화하고 있는데요.가전회사에서 AI·플랫폼 기업으로 향하는 LG전자의."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 인플레이션 우려가 완화된 가운데 인공지능(AI) 관련 반도체 업종이 강세를 펼치면서 14일(현지시간)..."
     ],
     "chips": [
       "#AI",
-      "#부동산"
+      "#반도체"
     ]
   },
   {
-    "id": "n8a7d2969",
+    "id": "n41e842e9",
     "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/202607155449i",
-    "title": "트럼프 \"호르무즈 통행료 20%, 걸프국 무역협정으로 대체\"[이상은의 워싱턴나우]",
+    "source": "아시아경제",
+    "time": "38분 전",
+    "url": "https://view.asiae.co.kr/article/2026071504464509847",
+    "title": "[속보]CPI 둔화·반도체 반등에 일제히 상승 마감",
     "summary": [
-      "트럼프 \"호르무즈 통행료 20%, 걸프국 무역협정으로 대체\"[이상은의 워싱턴나우]."
+      "14일(현지시간) 미국의 3대 지수는 미국의 소비자물가지수(CPI) 상승률 둔화와 반도체 업종의 반등에 힘입어 일제히 상승세로 마쳤다.",
+      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 0.02% 오르며 마감했다.",
+      "대형주 중심의 S&P500지수는 0.38%, 기술주 중심의 나스닥지수는 0.90% 상승해 장을 마무리했다."
     ],
     "chips": [
-      "#수출"
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nc53d3e78",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "43분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715008300079",
+    "title": "이란 남부 시리크·반다르아바스, 美 미사일 공격받아",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미군이 14일(현지시간) 대이란 해상 봉쇄를 앞두고 이란에 대한 추가 공습에 나선 가운데 이란 남부 호르모..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8b765e16",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "46분 전",
+    "url": "https://view.asiae.co.kr/article/2026071505020613598",
+    "title": "트럼프, 16일 대국민연설서 \"선거·투표기기 내용 다룰 것\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 오는 16일(현지시간) 예정된 대국민 연설에서 미국의 선거 제도와 투표기기 문제를 다룰 것이라고 예고했다.",
+      "트럼프 대통령은 14일 백악관에서 알리 알자이디 이라크 총리와 회담하던 중 취재진으로부터 대국민 연설에서 '투표기기와 선거의 무결성' 문제가 다뤄질지를 묻자 \"그 주제와 관련이 있을 것\"이라고 답했다.",
+      "그는 구체적인 연설 내용에 대해서는 \"아껴두고 싶다\"면서도 \"그 외에도 몇 가지."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8cd3ff82",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026071504452805749",
+    "title": "케빈 워시 \"인플레 책임은 Fed…AI는 가장 중대한 변화\"",
+    "summary": [
+      "케빈 워시 미국 연방준비제도(Fed) 의장이 예상보다 크게 둔화한 6월 소비자물가에도 인플레이션과의 싸움에서 승리를 선언하기는 이르다고 선을 그었다.",
+      "워시 의장은 지속해서 높은 물가를 용납하지 않겠다고 강조했다.",
+      "동시에 통화정책 소통과 대차대조표, 데이터 활용 방식 등을 전면 재검토하는 이른바 Fed의 '체제 변화'도 예고했다."
+    ],
+    "chips": [
+      "#AI",
+      "#정책"
     ]
   }
 ];
@@ -647,21 +654,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
+  },
+  {
+    "rank": 2,
+    "tag": "반도체",
     "mentions": "2070건",
     "trend": "+215%"
   },
   {
-    "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
-  },
-  {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
