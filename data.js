@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-14 22:45:39
+// 마지막 업데이트: 2026-07-14 23:41:46
 window.NEWS_DB = [
   {
     "id": "ned5ab335",
     "category": "IT",
     "source": "시사저널e",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xNUM0VnBvZTgwZGtZRVhfVWV5MWduY3RGZVo1T18yMnhWM0RKZTlQU0hTeTI2UFhtNzh2YnQ5QVdJallYczE0MkRzRkl0SGdvQ0xfQlhjdGplLWNTY25fQW9NbkVGTGx6eGkxaWpBMjNUUQ?oc=5",
     "title": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 아성 흔들까",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nd2f674a4",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xcy12VTJlUFFERUpHWWZacXVmbDVjWm5rYkJQV0dSZ20wd2JXaTR4UlVKYkY5OWwtZWRKTGtKU3lzd3NSWHc?oc=5",
     "title": "“이천서 보자”에 술렁…메모리사 SK하이닉스는 왜 파운드리 인력 수혈 나섰나 [칩칩팹팹]",
     "summary": [
@@ -32,10 +32,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n443a94d9",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "15시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbjQ2MlUxZkpZLXpzc1F1ZVBhTGd2eC1fSWpxakdHcHh3THI1el9NeXp4bEJER1BqWHF2dzAwWTItczJ3V3RDTVZQTGRHVkwyd1BTbnJpcDktcWdzaWZPQkdnQnJvbHhuRFpfNllvakJGQjJ0RmUzNmRHRzlXN1ZDa01R0gGWAUFVX3lxTE9BZDVLZjlfWm1LbGlESnlpSGh2em8yTUlsT0ktcXl0clUtMXV0aE4taU1TLXNqNFR0QmtteWo2NS1zUXIxS29EZHBBQmlEaHo2Z3BFZ0JBeXRoeUgwOF9hR1hFaXg3TkhCM0JfajhJV1luVFFtVDUwd25kT05STjFPTWxjOU1wekRiZzFiQm1pV2QxZG94QQ?oc=5",
+    "title": "엔비디아, AI칩 中 우회 수출 차단 조치… 아시아 고객사 심사 강화 - 조선비즈",
+    "summary": [
+      "엔비디아, AI칩 中 우회 수출 차단 조치… 아시아 고객사 심사 강화 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#수출"
+    ]
+  },
+  {
     "id": "n6229e236",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVV9OcTgxMVdsYktNRjNzaV8xOGptOXNYcGFON1pZc1FlVTdBTEhmTXZOeHpLeXpFUlpLdUQyamp6anZaS3NTS1RyaTR6TmhPSGNfNEdsbGkyTHVxNGZWNXdhTmwtRWFBRndSWUUtRkRCLUE?oc=5",
     "title": "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠슨 황 고민 커져",
     "summary": [
@@ -52,7 +68,7 @@ window.NEWS_DB = [
     "id": "n18f2a499",
     "category": "IT",
     "source": "미디어펜",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dS1uaWR2QXZsMGdESlVJSVNRbEVOcjV6YXMzWlVMOGF3cHRlbDEyQmFWZko3NkdTallrYm82UHFxODlTOWRld3UtUHROYml2T0UzTw?oc=5",
     "title": "[반도체 승부수②] '올인원' 삼성 vs '초연합' 하이닉스…HBM4 생존 방정식",
     "summary": [
@@ -60,22 +76,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n2af0d2c1",
-    "category": "IT",
-    "source": "초이스스탁",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMjM0Wm1rYS1IU2l3b0tHSnpLZUl0alJTXzdobTNNT0ZuUnhxTk03ZjFxem1fREpLcTZ3MkNjQ1doQWtOVlBhR2ItWUNweWlGMEZ2VVNYbG90WEdkUjlZaUEteDRzWWc?oc=5",
-    "title": "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀",
-    "summary": [
-      "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀 초이스스탁."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -90,20 +90,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n1e984679",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nenp1dU15cnpmeWlTU3NPVF94Vmh2NlNibjJreWRjX2FuT0kyT2o3R2M0NHBuUXh0MjNnVmlJWmh5ZnhoMzRZeDlWd3E4a3RXTjVj?oc=5",
-    "title": "2026 신한 SOL KBO 리그 올스타전",
-    "summary": [
-      "2026 신한 SOL KBO 리그 올스타전 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -227,6 +213,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9cecfc4c",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "22일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZ9IBVEFVX3lxTE51WFJELUd0OUVyTmJ4RXJGTTZTSS1TQy0wWktPaE9uUjRCMGlpSnY4Q2tVVk8zT3dUUHRnTWJPRGoxZm5rS25Dc0xHNHk2WHF5S09CUw?oc=5",
+    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
+    "summary": [
+      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -301,334 +302,344 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "152일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "104일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
-      "#부동산",
-      "#재건축"
+      "#KBO"
     ]
   },
   {
-    "id": "n69fb06c3",
+    "id": "n2f3113c8",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153384",
+    "title": "[크립토 브리핑] 비트코인 상승에도 불안 여전...중동 리스크 '변수'",
+    "summary": [
+      "비트코인을 비롯한 가상자산 가격이 전날 하락분을 회복하며 반등했다.",
+      "15일 글로벌 가상자산 시황중계 사이트 코인마켓캡에 따르면 이날 오전 8시 30분 기준 비트코인 가격은 전일 동시간 대비 3.86% 오른 9643만원을 기록했다.",
+      "알트코인은 엇갈린 흐름을 보이고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n70d79daa",
     "category": "경제",
     "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026071507451698688",
-    "title": "[프로필] 관세청 신임 차장에 박헌 인천공항세관장 임명",
+    "url": "https://view.asiae.co.kr/article/2026071508411582101",
+    "title": "디티에스, 애니테크와 ORC 폐열회수 발전시스템 수주 계약",
     "summary": [
-      "관세청은 신임 차장에 박헌 인천공항세관장을 임명했다고 15일 밝혔다.",
-      "박 신임 차장은 행정고시(44회) 출신으로, 관세청 정보데이터정책관, 기획조정관, 국제관세협력국장 등을 역임하면서 정책 수립 능력과 정무적 감각을 검증받았다.",
-      "관세청 내부에서 박 신임 차장은 대표적인 기획·인사, 정보데이터 전문가로 꼽힌다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nc38d4f10",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026071507442094903",
-    "title": "이재준 시장 \"수원방문의해 1500만 관광객 기대…글로벌 관광도시 도약\"",
-    "summary": [
-      "이재준 수원시장이 \"수원을 관광객이 찾아오고 머무르고 다시 찾는 도시로 만들겠다\"고 밝혔다.",
-      "이재준 시장은 14일 시청 중회의실에서 열린 '수원 방문의 해 추진위원회 1차 정기회의'에 참석해 \"정조대왕의 유산을 비롯해 문화예술, 스포츠, 첨단산업을 연결한 관광 자원을 발굴해 세계인이 찾는 도시를 만들겠다\"고 말했다.",
-      "이어 \"관광객이 찾고, 머물고, 소비하고, 다시 찾는 선순환 구조를 만들기 위해서는 먹거리와 교통 등."
+      "디티에스가 애니테크와 국내 최초 1.5MW급 유기 랭킨 사이클(ORC) 폐열회수 발전시스템 설치·계약을 체결했다.",
+      "15일 디티에스에 따르면 이번 프로젝트는 애니테크의 고형폐기물연료(SRF) 소각 과정에서 발생하는 약 175℃ 수준의 중·저온 저압 스팀 폐열을 회수해 ORC 발전시스템으로 전력을 생산하는 사업이다.",
+      "생산된 전력은 사업장 내 송풍기와 펌프 등 주요 보조 설비의 전력원으로 활용돼 전력 구매 비용을 절감하고 에너지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0b27fcad",
+    "id": "n3b9510ea",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/15/2026071507552625813",
+    "title": "야말 '살인 태클'에 뒹군 음바페 \"발목 노렸는데 노카드!\"... '오심 논란' 속 스페인 결승행, 프랑스 충격 탈락",
+    "summary": [
+      "스페인 '신성' 라민 야말(20)이 프랑스 에이스 킬리안 음바페(28)를 거친 태클로 쓰러뜨리는 판정 논란 속에 스페인이 프랑스를 완파했다.",
+      "영국 '더선'은 15일(한국시간) \"야말이 음바페에게 거친 태클을 가하고도 카드 징계를 피하면서 디디에 데샹 프랑스 감독이 거세게 분노했다\"고 전했다.",
+      "스페인은 이날 미국 미국 텍사스주 댈러스 스타디움에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 준결승에서 프랑스를 2-0으로 꺾었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne5edd7e3",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026071508402478110",
+    "title": "금융피해 예방, 학교서 배운다…서울시교육청, '경제·금융' 교육",
+    "summary": [
+      "'전세 사기, 불법 대출 피해…' 서울시교육청이 이 같은 금융피해를 예방하기 위해 학생들의 경제·금융 이해력 향상을 위한 공개수업과 교사 직무연수를 실시했다.",
+      "15일 시교육청은 지난 9일부터 이날까지 '2026 경제·금융교육 직무연수'와 '경제·금융교육 활성화 수업'을 연계 운영했다고 밝혔다.",
+      "시교육청과 예금보험공사 본사에서 중등교사 45명을 대상으로 진행한 직무연수에서는 ▲경제·금융교육과 학생들의 일상 ▲시뮬레."
+    ],
+    "chips": [
+      "#전세",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n5aa2a468",
     "category": "경제",
-    "source": "아시아경제",
+    "source": "머니투데이",
     "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026071415032726174",
-    "title": "옷 도매·소매 연결하는 '동대문 플랫폼' 딜리셔스 테슬라 상장 [IPO현미경]",
+    "url": "https://www.mt.co.kr/tech/2026/07/15/2026071508193267821",
+    "title": "\"단순히 두꺼운 것으론 안돼\"…Z8 주름없애려 삼성이 도입한 이 것",
     "summary": [
-      "패션 B2B 플랫폼 '신상마켓'을 운영하는 딜리셔스가 코스닥 상장에 나선다.",
-      "이 회사는 이익미실현기업 특례, 일명 '테슬라 요건'으로 상장을 추진한다.",
-      "상장예비심사 기준연도인 2024년 세전손실이 177억원에 달해 일반 요건을 충족하지 못했기 때문이다."
+      "삼성전자가 차세대 갤럭시 폴더블 스마트폰인 Z8 시리즈에 처음으로 '플렉스 티타늄(Flex Titanium)' 디스플레이를 적용한다고 15일 밝혔다.",
+      "새롭게 선보이는 플렉스 티타늄 기술은 디스플레이의 내구성을 강화하면서도 화면 주름을 획기적으로 개선해 매끄럽고 완성도 높은 시청 경험을 제공할 것으로 기대된다.",
+      "━기술적 난제 극복한 티타늄 기술…슬림 디자인·유연성·내구성 확보━ 삼성전자는 이번 Z8 시리즈 디스플레이에 플라스틱 필름 대신 '티타늄."
     ],
     "chips": [
-      "#정치"
+      "#삼성전자"
     ]
   },
   {
-    "id": "ncb84043a",
-    "category": "스포츠",
-    "source": "아시아경제",
+    "id": "n4fc7ba86",
+    "category": "경제",
+    "source": "머니투데이",
     "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026071507435284679",
-    "title": "이기형 김포시장 \"시민과 함께 김포 대도약\"…민선9기 시정비전 본격화",
+    "url": "https://www.mt.co.kr/politics/2026/07/15/2026071507473314351",
+    "title": "안철수 \"한동훈, 창당할 거면 친한계 '여의도 렉카' 배제하길\"",
     "summary": [
-      "경기 김포시(시장 이기형)가 민선9기 시정철학과 미래비전을 담은 시정목표 '시민과 함께 김포 大도약'의 공식 디자인을 확정하고 본격적인 비전 확산에 나섰다.",
-      "시는 지난 6월 김포시장직 인수위원회 전체회의에서 시정목표와 시정방향을 확정한 데 이어 지난 1일 민선9기 출범 취임식에서 이를 시민들에게 공식 선포했다.",
-      "이번 디자인 확정은 시정철학을 시각적으로 구현해 시민들이 일상에서 쉽게 공감하고 체감할 수 있도록 하."
+      "[the300] 안철수 국민의힘 의원이 한동훈 무소속 의원을 향해 \"한 의원이 창당을 한다면 친한계 '여의도 렉카'들은 배제하시길 권한다\"고 밝혔다.",
+      "안 의원은 15일 SNS(소셜미디어)에 \"한 의원의 대리인을 자처하며 발설하는 '입'들의 행태가 가관\"이라며 이같이 적었다.",
+      "안 의원과 한 의원은 최근 12·3 비상계엄 당시 행적을 둘러싼 법정 증언을 계기로 공개 공방을 이어가고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nced8419f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003709535",
-    "title": "[속보]트럼프 \"이란, 협상 안 하면 내주 모든 발전소·교량 파괴할 것\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 ironn108@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nabd06ff2",
+    "id": "n77ab8fcd",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715016800009",
-    "title": "\"엔비디아 H200 중국 출하 시작\"…주가 4% ↑",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026071508395164496",
+    "title": "하만카돈, 휴대용 홈 스피커 '오닉스 스튜디오 9' 출시",
     "summary": [
-      "(서울=연합뉴스) 정주호 기자 = 미국 정부 고위 관계자가 14일(현지시간) 의회에서 엔비디아의 첨단 인공지능(AI) 칩 H200이 중국에 출하..."
+      "삼성전자 오디오 자회사 하만의 하만카돈 브랜드가 15일 '오닉스 스튜디오 9'를 출시했다.",
+      "하만카돈 오닉스 스튜디오 9는 새로운 콘스탄트 사운드 필드(CSF) 기술을 적용해 오닉스 스튜디오 시리즈 중 가장 뛰어난 사운드를 구현했다.",
+      "원활한 연결을 위한 오라캐스트 지원, 교체 가능한 배터리를 포함한 업그레이드된 기능을 제공한다."
     ],
     "chips": [
-      "#AI",
-      "#엔비디아"
+      "#삼성전자",
+      "#전기차"
     ]
   },
   {
-    "id": "nfc834729",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003709532",
-    "title": "[오늘의 증시]美 CPI 3.5% '예상 하회'…코스피, 반도체 훈풍에 상승 기대감↑",
-    "summary": [
-      "[서울=뉴시스]송혜리 기자 = 15일 국내 증시는 미국 물가 둔화에 따른 금리 인상 우려 완화와 반도체주 강세에 힘입어 상승 출발할 것으로 전망된다.",
-      "미국 6월 소비자물가지수(CPI)가 시장 예상치를 밑돌면서 엔비디아와 SK하이닉스 미국주식예탁증서(ADR) 등 주요 반도체주가 급등했고 코스피200 야간선물도 5% 넘게 오르며 투자심리가 개선됐다.",
-      "간밤 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수는 전 거래일보다 9.63포인트(0.02%)."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#SK하이닉스",
-      "#금리"
-    ]
-  },
-  {
-    "id": "n5f5c542c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260715/134300808/1",
-    "title": "서산서 친구에게 흉기 휘두르고 도주 40대…3시간만에 붙잡혀",
-    "summary": [
-      "충남 서산의 한 영화관에서 친구에게 흉기를 휘두르고 달아난 40대 남성이 경찰에 붙잡혔다.서산경찰서는 살인미수 혐의로 A 씨를 붙잡아 조사 중이라고 15일 밝혔다.A 씨는 전날 오후 10시께 서산 동문동의 한 영화관 매표소 앞에서 친구인 40대 B 씨를 흉기로 찌른 혐의다.B 씨는 좌측 가슴 부위를 다쳐 병원에 옮겨져 수술을 받았으나 다행히 생명에는 지장이 없는 것으로 전해졌다.A 씨는 극장 밖에서 대기하다 B 씨가 영화를 보고 나오자 범행을."
-    ],
-    "chips": [
-      "#채용",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9b987432",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260715/134300805/1",
-    "title": "민경욱 전 의원, 부정선거 강연 도중 쓰러져",
-    "summary": [
-      "민경욱 전 미래통합당 의원이 14일 부정선거를 주제로 강연을 하던 중 쓰러진 것으로 전해졌다.자유와혁신 최고위원을 맡고 있는 김상현 국대떡볶이 대표는 이날 자신의 소셜네트워크서비스(SNS)를 통해 “민경욱 전 국회의원이 오늘 오후 2시부터 시작된 행사에 참석해 강의를 하던 중 오후 5시 30분 경 의식을 잃고 쓰러져, 서울 소재 A병원 응급실로 이송됐다”고 알렸다.이어 “현재까지 의식불명인 상태이고, 호흡은 돌아온 상황”이라며 “뇌 병변이 의심."
-    ],
-    "chips": [
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne8650f0b",
+    "id": "n509eb7fe",
     "category": "사회",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003709529",
-    "title": "부산대, 산학협력 기반 융합보안 전문인력 양성 추진",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003709664",
+    "title": "\"실패해도 괜찮아\"…국현, 여름방학 특별 프로그램 무료 운영",
     "summary": [
-      "[부산=뉴시스] 하경민 기자 = 부산대학교가 산학협력 기반 융합보안 연구·산업 생태계 조성에 필요한 석·박사급 전문인력 양성에 본격적으로 나선다.",
-      "부산시는 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 '2026년도 융합보안 핵심인재 양성사업' 공모에 부산대가 최종 선정됐다고 15일 밝혔다.",
-      "이번 선정에 따라 부산대는 2031년까지 총사업비 60억5000만원 지원받아 전 산업으로 확산하는 보안 위협에 대응할 전문 기술인력을 양성하기."
+      "[서울=뉴시스] 박현주 미술전문 기자 = 실패도 배움이 되는 미술관.",
+      "국립현대미술관(MMCA)은 아이공간 '그래도 해보던 날들' 전시와 연계한 여름방학 특별 프로그램을 오는 8월 1일부터 16일까지 서울관 교육동 열린교육공간+에서 운영한다고 15일 밝혔다.",
+      "이번 프로그램은 전시의 핵심 주제인 '시도'와 '실패'를 확장해 어린이들이 실패를 두려워하기보다 새로운 도전과 성장의 과정으로 받아들일 수 있도록 기획됐다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n938a2f38",
+    "id": "nb55c0582",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003709511",
-    "title": "\"러 군, 모스크바 공격한 우크라 무인기 24시간에 340대 요격\" --모스크바 시장",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003709608",
+    "title": "이장원, 100살 할아버지 공개…육사 출신 6·25 참전용사",
     "summary": [
-      "[서울=뉴시스] 차미례 기자 = 모스크바를 목표로 공격해 온 우크라이나의 무인기들이 지난 24시간 동안 340대나 방공망에 의해 요격 당했다고 세르게이 소비야닌 모스크바 시장이 14일(현지 시간) 발표했다.",
-      "\"지난 24시간 동안 우크라이나 무인기 340대가 모스크바 지역을 목표로 공격해왔다.",
-      "대부분은 시 외곽의 원거리에서 우리 방공 자산에 의해 무력화되었고, 50여 대는 모스크바 상공에 까지 접근해 왔지만 역시 제거되었다\"고 소비야닌 시장은 밝."
+      "[서울=뉴시스] 남정현 기자 = 가수 배다해와 페퍼톤스 이장원 부부가 100세 할아버지와의 합가 생활을 공개했다.",
+      "14일 방송된 SBS 예능 '동상이몽2-너는 내 운명' 말미에는 이장원·배다해 부부의 예고편이 공개됐다.",
+      "예고 영상에서 배다해는 \"이장원씨의 할아버지께서 올해 100세이시다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5f253bc0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003709571",
+    "title": "\"1회용품 안쓰는 공공청사\"…인천시, 시·군·구 교차점검",
+    "summary": [
+      "[인천=뉴시스] 함상환 기자 = 인천시는 공공기관의 1회용품 사용 저감 정책이 현장에서 얼마나 실천되고 있는지를 객관적으로 검증하기 위해 시와 11개 군·구가 참여하는 '공공기관 1회용컵 반입률 합동(교차)점검'을 실시했다고 15일 밝혔다.",
+      "이번 점검은 단순한 실태조사를 넘어 공공정책의 이행 여부를 지속적으로 확인하는 관리체계를 구축하기 위해 처음으로 '교차방식'을 도입했다.",
+      "시는 '공공기관이 먼저 변화해야 시민사회로 친환경 문화가 확산될 수."
+    ],
+    "chips": [
+      "#정책",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nda1429d6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003709665",
+    "title": "캐나다 전직 의원, 총기 400여정, 대포 불법 보관 적발",
+    "summary": [
+      "[서울=뉴시스] 강영진 기자 = 캐나다의 한 전직 의원이 13일(현지시각)자택에 수백 정의 총기와 골동품 대포를 보관한 것이 경찰에 의해 적발돼 체포됐다고 미 뉴욕타임스(NYT)가 14일 보도했다.",
+      "왕립캐나다기마경찰 매니토바 지부가 기자회견에서 밝힌 바에 따르면 이 무기들은 캐나다 의회에서 13년을 보낸 잉키 마크가 보관하고 있던 것이다.",
+      "경찰관들은 수색에서 발견한 총기는 400점 이상이며 탄약과 골동품 대포도 있었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncfd24248",
+    "id": "n1ab7fd84",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/15/2026071508283372086",
+    "title": "배다해♥이장원, 100세 할아버지와 합가…\"이장원이 원망해\"",
+    "summary": [
+      "가수 이장원(43) 배다해(42) 부부가 100세 할아버지와 함께 사는 근황이 공개됐다.",
+      "지난 14일 방송된 SBS '동상이몽2-너는 내 운명' 마지막에는 이장원 배다해 부부가 등장한 다음 주 방송 예고편이 공개됐다.",
+      "두 사람은 결혼 6년 차에도 신혼의 분위기를 풍기는 모습으로 등장했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n629183ea",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026071508373848971",
+    "title": "넥스트아이, 산삼 건기식 '헤라셀원' 월 매출 20억원 안착",
+    "summary": [
+      "넥스트아이가 판매 중인 산삼 배양근 건강기능식품 '헤라셀원'이 월 매출 20억원 안팎을 기록하고 있다.",
+      "15일 넥스트아이에 따르면 헤라셀원은 지난해 12월 판매를 시작한 이후 매월 1만개 이상 꾸준히 팔리며 출시 7개월 만에 누적 판매량 9만개, 누적 매출 132억원을 넘어섰다.",
+      "원료 수급 여건상 매일 오전 정해진 시간 한정 수량을 판매하지만 매월 완판될 만큼 수요가 몰리고 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n7ece6463",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260715/134301022/1",
+    "title": "활동 중단 선언 후 첫 근황…덱스, 몸 더 좋아졌네",
+    "summary": [
+      "방송인 덱스가 근황을 전했다.덱스는 14일 아무런 멘트 없이 여러 장의 사진을 공개했다.",
+      "덱스는 청바지에 흰색 티셔츠, 모자와 안경을 착용하고 있는 거울 셀카를 찍고 있다.앞서 덱스는 지난달 116만 구독자를 보유한 유튜브 채널 활동을 잠정 중단한다고 밝혔다.덱스는 “당분간 쉬게 됐다.",
+      "내부적으로는 이미 이야기를 마쳤다”며 “이유는 여러 가지다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n805cba26",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/07/15/WX7SWF4HZVGFTMGIOPVZBDR2VQ/",
+    "title": "트럼프 전화에 ‘징계 유예’…발로건 “엄청난 논란 예상”",
+    "summary": [
+      "트럼프 전화에 ‘징계 유예’…발로건 “엄청난 논란 예상”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n723ad7fb",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715020200004",
-    "title": "재산세 내는 달…서초구, 다양한 납세편의서비스 운영",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715030900008",
+    "title": "KB증권 \"에스엠, 2분기 실적 기대치 밑돌 것…목표가↓\"",
     "summary": [
-      "(서울=연합뉴스) 정준영 기자 = 서울 서초구(구청장 전성수)는 재산세 납부의 달을 맞아 다양한 납세 편의 서비스를 제공한다고 15일 밝혔다."
+      "(서울=연합뉴스) 이민영 기자 = KB증권은 15일 에스엠[041510]의 2분기 실적이 기대치를 밑돌 것이라며 목표주가를 12만2천원에서 10..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndae90ce1",
+    "id": "nb5737551",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715017100009",
-    "title": "\"미국 SK온·현대차 합작 공장, 전기차 배터리 양산 돌입\"",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715029700008",
+    "title": "DB증권 \"중국, 기계·전기제품 수출↑…하반기 AI 투자 지속\"",
     "summary": [
-      "(애틀랜타=연합뉴스) 이종원 통신원 = SK온과 현대차그룹의 배터리 생산 합작법인이 북미 공장 가동을 시작하며 미국 조지아주 현대자동차 공장에 ..."
+      "(서울=연합뉴스) 김유아 기자 = DB증권[016610]은 중국의 수출이 상반기 첨단 제조업을 중심으로 두 자릿수 성장세를 보인 가운데, 하반기..."
     ],
     "chips": [
-      "#전기차"
+      "#AI",
+      "#수출"
     ]
   },
   {
-    "id": "n40517aaa",
+    "id": "n8576eff9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715026300030",
+    "title": "롯데마트 토이저러스, 4주간 '플레이데이'…방학 맞아 특가 행사",
+    "summary": [
+      "(서울=연합뉴스) 조민정 기자 = 롯데마트 토이저러스는 여름 방학을 맞아 오는 16일부터 8월 12일까지 4주간 대규모 완구 행사인 '토이저러스..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c2442d6",
     "category": "스포츠",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260715/134301005/1",
+    "title": "체감온도 33도에 습도↑ ‘사우나 더위’…전국 곳곳 소나기",
+    "summary": [
+      "초복이자 수요일인 15일은 전국 곳곳에 소나기가 내리는 가운데 내륙을 중심으로 낮 최고기온이 36도까지 오르며 무더위가 이어지겠다.이날 기상청은 “오늘은 강원동해안과 경상권을 중심으로 최고체감온도가 33도 안팎으로 오르겠고, 경북권은 35도 안팎까지 올라 무덥겠다”고 예보했다.이날 오후까지 전국에 가끔 비가 내리는 곳이 있겠다.",
+      "예상 강수량은 서울·인천·경기 5~20㎜, 강원내륙·산지 5~20㎜, 대전·세종·충남·충북 5~20㎜, 전북 5~40."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0a8527c9",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715019700007",
-    "title": "[월드컵] 스페인에 완패한 프랑스 데샹 감독 \"심판 자격 있나\" 불만",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715028700008",
+    "title": "한화증권 \"코웨이, 2분기 렌털 계정 최대 순증 추정\"",
     "summary": [
-      "(서울=연합뉴스) 오명언 기자 = 2026 북중미 월드컵 준결승에서 스페인에 무기력하게 패배한 프랑스 축구대표팀의 디디에 데샹 감독이 주심의 판..."
+      "(서울=연합뉴스) 경수현 기자 = 한화투자증권은 15일 코웨이[021240]와 관련해 올해 2분기 렌털 계정이 역대 최대 규모로 순증했을 것으로..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n43ee3d40",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715017300011",
-    "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-    "summary": [
-      "[연합뉴스 이 시각 헤드라인] - 07:30."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9ac74f1c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260715/134300775/1",
-    "title": "누명 벗은 김수현, 1년4개월만에 CF로 활동 재개",
-    "summary": [
-      "배우 김수현이 1년 4개월의 공백기를 깨고 공식 활동을 재개했다.15일 필리핀의 의류 브랜드 ‘벤치(BENCH)’의 벤 찬 회장은 이날 자신의 소셜네트워크서비스(SNS)에 김수현과 함께한 광고 캠페인 촬영 현장 사진을 공개했다.공개된 사진 속 김수현은 꽃다발을 든 채 미소를 지으며 현장 스태프들과 인사를 나누고 있다.앞서 김수현은 지난해 3월 유튜브 채널 ‘가로세로연구소’가 제기한 사생활 의혹에 휩싸이면서 사실상 대외 활동을 중단했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c5d3827",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "34분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260715/134300742/1",
-    "title": "트럼프 대국민 연설 ‘투표기기 결함’ 꺼낸다…부정선거론 재점화할 듯",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 16일(현지시간)로 예정된 대국민 연설이 “아주 큰 발표가 될 것”이라며 선거와 투표기기 취약성 문제를 다룰 것을 시사했다.",
-      "트럼프 대통령은 14일(현지시간) 백악관에서 열린 알리 알자이디 이라크 총리와의 회담에서 ‘대국민 연설’에서 투표기기 문제가 다뤄지는지 묻는 취재진의 질문에 “(내용은) 아껴두고 싶다”면서도 “그 주제와 관련된 내용이 맞다”고 말했다.",
-      "이어 “이외에도 몇 가지 더 발표할 것이 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n30903a71",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "44분 전",
-    "url": "https://www.hankyung.com/article/2026071555587",
-    "title": "'AI 투자' 열풍에 주가 25%↓…소프트웨어주 줄줄이 '급락'",
-    "summary": [
-      "'AI 투자' 열풍에 주가 25%↓…소프트웨어주 줄줄이 '급락'."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nada834e8",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713037400898",
-    "title": "[우리품의 아프리카인](43) \"이젠 지하철 제옆에도 사람들이 앉아요\"",
-    "summary": [
-      "(서울=연합뉴스) 박세진 기자 = \"한국에 온 것은 제 인생 최고의 결정 가운데 하나였습니다.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n544502bf",
+    "id": "n3cc57cea",
     "category": "사회",
     "source": "조선일보",
-    "time": "45분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/15/CE3V72G7QFCP5MIGBTPPTKG7TM/",
-    "title": "[어떻게생각] 똑같은 정보 노출인데…‘점집’은 기각, ‘개농장’은 승소, 왜?",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/07/15/GNRGEYLDGI4WGMLDMYYTSZBRGQ/",
+    "title": "코르티스, 뒷심도 미쳤다..美 빌보드 또 '상승세'",
     "summary": [
-      "[어떻게생각] 똑같은 정보 노출인데…‘점집’은 기각, ‘개농장’은 승소, 왜?."
+      "[OSEN=선미경 기자] 그룹 코르티스가 미국 빌보드 차트에서도 매서운 뒷심을 발휘하고 있다.15일 빅히트 뮤직은 “코르티스가 지난 5월 4일 발매한 미니 2집 ‘그린그린(GREENGREEN)’이 7월 18일 자 빌보드 메인 앨범 차트 ‘빌보드 200’ 82위를 차지했다”라고 밝혔다.빌보드가 발표한 최신 차트에 따르면 코르티스의 ‘그린그린’은 ‘빌보드 20."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n08fa54d4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "45분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/15/CGND4EYLHJEBPECVJQBG3ZHGMY/",
-    "title": "[단독] ‘법안 심사 숙려 기간’ 있으나마나...법사위서 졸속 통과한 39건 중 절반이 특검법",
-    "summary": [
-      "[단독] ‘법안 심사 숙려 기간’ 있으나마나...법사위서 졸속 통과한 39건 중 절반이 특검법."
-    ],
-    "chips": [
-      "#정책"
     ]
   }
 ];
@@ -638,20 +649,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
