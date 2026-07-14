@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-14 17:02:26
+// 마지막 업데이트: 2026-07-14 19:01:10
 window.NEWS_DB = [
+  {
+    "id": "ned5ab335",
+    "category": "IT",
+    "source": "시사저널e",
+    "time": "7시간 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xNUM0VnBvZTgwZGtZRVhfVWV5MWduY3RGZVo1T18yMnhWM0RKZTlQU0hTeTI2UFhtNzh2YnQ5QVdJallYczE0MkRzRkl0SGdvQ0xfQlhjdGplLWNTY25fQW9NbkVGTGx6eGkxaWpBMjNUUQ?oc=5",
+    "title": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 아성 흔들까",
+    "summary": [
+      "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 아성 흔들까 시사저널e."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n6078599a",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GOHphYUdES2dPQTdHZjlKanI3NG5mLXMxNVRKQVZYc2hiTUtuSkxZeDVoMmZudmlYUjVsMmVMUW1fR1BpVjJESlRPVGR4TVE?oc=5",
     "title": "“이천서 보자”에 술렁…메모리사 SK하이닉스는 왜 파운드리 인력 수혈 나섰나 [칩칩팹팹]",
     "summary": [
@@ -20,7 +35,7 @@ window.NEWS_DB = [
     "id": "n443a94d9",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbjQ2MlUxZkpZLXpzc1F1ZVBhTGd2eC1fSWpxakdHcHh3THI1el9NeXp4bEJER1BqWHF2dzAwWTItczJ3V3RDTVZQTGRHVkwyd1BTbnJpcDktcWdzaWZPQkdnQnJvbHhuRFpfNllvakJGQjJ0RmUzNmRHRzlXN1ZDa01R0gGWAUFVX3lxTE9BZDVLZjlfWm1LbGlESnlpSGh2em8yTUlsT0ktcXl0clUtMXV0aE4taU1TLXNqNFR0QmtteWo2NS1zUXIxS29EZHBBQmlEaHo2Z3BFZ0JBeXRoeUgwOF9hR1hFaXg3TkhCM0JfajhJV1luVFFtVDUwd25kT05STjFPTWxjOU1wekRiZzFiQm1pV2QxZG94QQ?oc=5",
     "title": "엔비디아, AI칩 中 우회 수출 차단 조치… 아시아 고객사 심사 강화 - 조선비즈",
     "summary": [
@@ -36,7 +51,7 @@ window.NEWS_DB = [
     "id": "n6229e236",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVV9OcTgxMVdsYktNRjNzaV8xOGptOXNYcGFON1pZc1FlVTdBTEhmTXZOeHpLeXpFUlpLdUQyamp6anZaS3NTS1RyaTR6TmhPSGNfNEdsbGkyTHVxNGZWNXdhTmwtRWFBRndSWUUtRkRCLUE?oc=5",
     "title": "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠슨 황 고민 커져",
     "summary": [
@@ -53,7 +68,7 @@ window.NEWS_DB = [
     "id": "n18f2a499",
     "category": "IT",
     "source": "미디어펜",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dS1uaWR2QXZsMGdESlVJSVNRbEVOcjV6YXMzWlVMOGF3cHRlbDEyQmFWZko3NkdTallrYm82UHFxODlTOWRld3UtUHROYml2T0UzTw?oc=5",
     "title": "[반도체 승부수②] '올인원' 삼성 vs '초연합' 하이닉스…HBM4 생존 방정식",
     "summary": [
@@ -67,7 +82,7 @@ window.NEWS_DB = [
     "id": "na11bfa3c",
     "category": "IT",
     "source": "빅데이터뉴스",
-    "time": "17시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwUlhURzFCWFhuT21kdG0xTlBfRGxKLTBOaVdPMi16N3NhaEJMZnh4UzVvczI1QTJwejVmQXdPbzVvVlFaMnRpbmRoeVJNbXFmc0RvbEpueG92YlJSR3AwYTh2Z2pmRlZIaDhQNGJLZTZrSXBjbFdkNlBYb2k?oc=5",
     "title": "[삼성전자 상반기 톺아보기①] 메모리 호황 속 파운드리는 여전히 숙제",
     "summary": [
@@ -76,22 +91,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n8307c128",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXk2Zkxad2lMYXFjSTRfbjY5M3hlUm5VM1NPQW4xcE8tdEdZV3RDN09wZVgxVVkxb3FvYUdrWWxRQUtNenNJbU5PTkcyeVlUZ01nN0ZLLW9KZmtxMm1hZmdfVy1BRTV4bnVEcUM1aVB0MHRxeV9OZWdIdm1DeHhQdE04M3dlekk?oc=5",
-    "title": "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀",
-    "summary": [
-      "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀 글로벌이코노믹."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -318,10 +317,195 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1fb251b1",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260714_0003708746",
+    "title": "학교·공원 인접 단지 청약 경쟁률…젊은 도시서 3배 높아",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 신연경 인턴기자 = 학교와 공원을 도보권에 둔 아파트의 청약 열기가 평균 연령이 낮은 '젊은 도시'에서 더욱 두드러지는 것으로 나타났다.",
+      "같은 입지 조건을 갖춘 단지라도 지역의 연령 구성에 따라 청약 성적이 크게 갈렸다.",
+      "14일 분양업계와 한국부동산원 청약홈에 따르면 지난해부터 올해 상반기까지 전국에서 분양한 아파트 355개 단지 가운데 반경 300m 안에 학교와 공원을 모두 갖춘 단지는 47곳이었다."
+    ],
+    "chips": [
+      "#부동산",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n6932c3b3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715005800071",
+    "title": "\"트럼프, 네타냐후에 시리아·레바논서 군 철수하라 요구\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 최근 베냐민 네타냐후 이스라엘 총리에게 시리아와 레바논에서 이스라엘 군을 철수..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4b4d96ea",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715005400072",
+    "title": "美뉴욕주, '대형 데이터센터 건설 1년 유예' 최초 도입",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 뉴욕주가 미국 내 50개 주(州) 가운데 최초로 대형 데이터센터 건설을 유예하는 정책을 도입했다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nab90a13a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/15/JRPCSLBJHBBHRCPOFJDH5AUUXM/",
+    "title": "NYT “한국 알루미늄 기업, 트럼프 회사에 30억원 지급”",
+    "summary": [
+      "NYT “한국 알루미늄 기업, 트럼프 회사에 30억원 지급”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne9690731",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715005300091",
+    "title": "구글 AI 책임자 \"AGI 도래 눈앞…美 주도 규제기관 신설해야\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 구글의 인공지능(AI) 부문 책임자가 범용인공지능(AGI)이 목전에 다가온 만큼 미국이 주도하는 규제..."
+    ],
+    "chips": [
+      "#AI",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n250b7ff7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "32분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/15/GVQWINJYHE3TEYJUGEYGMNZXMY/",
+    "title": "차세대 축구황제 ‘음바페 VS 야말 전격 성사됐다!’ 프랑스 대 스페인 월드컵 4강전 베스트11 발표",
+    "summary": [
+      "[OSEN=서정환 기자] 월드컵 결승에 갈 차세대 축구황제는 누구일까.",
+      "FIFA 랭킹 1위 프랑스는 15일 오전 4시(한국시간) 미국 텍사스주 알링턴 AT&T 스타디움에서 개최되는 는 2026 FIFA 북중미 월드컵 4강전에서 랭킹 3위 스페인을 상대한다.",
+      "두 팀 중 승자가 아르헨티나 대 잉글랜드의 승자와 결승전에서 만난다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb6e735cd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "33분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260715/134300661/1",
+    "title": "김무열♥ ‘16㎏ 감량’ 윤승아의 아침 식단…“탄수화물·식이섬유·단백질 다 잡았다”",
+    "summary": [
+      "출산 후 16㎏ 감량에 성공한 배우 윤승아(44)가 아침 식사로 과일을 즐겨먹는 모습을 공개했다.지난 12일 윤승아는 자신의 유튜브 채널을 영상을 통해 여름 일상을 공유했다.",
+      "윤승아는 아침 식사 메뉴로 사과, 망고와 프렌치 토스트를 준비했고, 그릭 요거트를 곁들여서 함께 먹었다.윤승아의 아침 식단은 과일을 중심으로 구성돼서 펙틴 등 식이섬유가 풍부하다.",
+      "식이섬유는 장 건강을 돕고, 혈당이 급격히 오르지 않도록 방지하는 효과가 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n6ba336f5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "33분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260715/134300658/1",
+    "title": "출산 후 21㎏ 감량 손담비, 운동으로 만든 ‘직각어깨’ 눈길",
+    "summary": [
+      "가수 겸 배우 손담비가 비 오는 날에도 운동을 거르지 않는 일상을 공개해 눈길을 끌었다.손담비는 최근 자신의 인스타그램에 “비 오는 날은 운동이지.",
+      "비 와서 머리 부스스”라는 글과 함께 운동 중인 사진을 올렸다.",
+      "사진 속 손담비는 자이로토닉 스튜디오에서 거울을 보며 셀카를 찍고 있었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n216867fd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "34분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260715/134300655/1",
+    "title": "이성민, 10㎏ 감량하더니…몰라보게 홀쭉해진 얼굴",
+    "summary": [
+      "배우 이성민의 한층 홀쭉해진 근황이 공개됐다.",
+      "패션 잡지 데이즈드코리아는 13일 소셜미디어에 “화보 촬영장에 나타난 교육부장관 최강석, 이성민.",
+      "그의 화보 촬영을 방해하는 자가 있다면 철저히 응징할 것”이라는 글과 함께 영상 1개를 올렸다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n808b4e57",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "34분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260715/134300652/1",
+    "title": "문가영, 휴대폰 속 얼굴 옆에서도 굴욕 없는 미모",
+    "summary": [
+      "배우 문가영이 수수한 메이크업과 옷차림에도 화려한 미모를 자랑했다.",
+      "문가영은 14일 소셜미디어에 별다른 말 없이 사진 여러 장을 올렸다.",
+      "공개된 사진에는 문가영이 차를 타고 한강 다리를 건너는 모습이 담겼다.문가영이 들고 있는 휴대폰 화면에는 본인 얼굴 사진이 띄워져 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50e77fd3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715005000072",
+    "title": "워런 버핏, 게이츠재단 기부 20년만에 중단…게이츠와 거리두기",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = '투자의 구루(스승)'로 불리는 워런 버핏(95) 버크셔해서웨이(이하 버크셔) 이사회 의장이 빌 게이츠 마이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n171e3738",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003709467",
+    "title": "트럼프 \"대러 제재안에 이란·헤즈볼라도 추가 검토\"",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 도널드 트럼프 미국 대통령이 의회에서 추진 중인 대러시아 제재 법안에 이란과 친이란 무장정파 헤즈볼라를 추가하는 방안을 검토하고 있다고 밝혔다.",
+      "트럼프 대통령은 14일(현지 시간) 백악관 집무실에서 \"(제재에) 이란을 포함시킬 텐데, 이는 매우 중요한 일“이라면서 \"헤즈볼라도 포함시킬 가능성이 있다\"고 말했다.",
+      "그는 초당적으로 추진 중인 대러시아 제재 법안에 대해 \"세부 내용이 확정되면 통과될 가능성이 크다\"고."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
     "id": "n2ab27bc7",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "57분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153383",
     "title": "[K-NPU] 퓨리오사AI, NPU 시장 확산 본격화...정부 '마중물'에 삼성 '지원사격'(종합)",
     "summary": [
@@ -337,7 +521,7 @@ window.NEWS_DB = [
     "id": "n2f06501b",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153376",
     "title": "웹툰·웹소설 원작 콘텐츠 '전성시대'...전문가 \"IP 생태계 키울 전문 지원책 시급\"",
     "summary": [
@@ -352,10 +536,70 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nff289008",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/incident/2026/07/15/P5V63IA5Q5B4BASPID2JJOM6LI/",
+    "title": "사람 죽여 이런 짓까지… ‘생모의 죽음’ 이용해 정적 제거한 연산군",
+    "summary": [
+      "사람 죽여 이런 짓까지… ‘생모의 죽음’ 이용해 정적 제거한 연산군."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3e46792d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/2026/07/15/LPEVGPL7SREE3CRDMZ662QTLNQ/",
+    "title": "3m 이무기 꼬랑지 잡고 질질… 차원이 다른 미국의 땅꾼들",
+    "summary": [
+      "3m 이무기 꼬랑지 잡고 질질… 차원이 다른 미국의 땅꾼들."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n543a7971",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003709468",
+    "title": "105일 걸린 최저임금 심의…1만700원으로 최종 결정(종합)",
+    "summary": [
+      "[세종=뉴시스]박정영 기자 = 내년도 최저임금이 1만700원으로 결정됐다.",
+      "총 심의 기간은 105일로 법정 기간인 90일을 훌쩍 넘겼지만, 최종 고시는 지킬 수 있을 것으로 예상된다.",
+      "최저임금위원회(최임위)는 지난 14일 오후 정부세종청사에서 제14차 전원회의를 열고 내년도 시간당 최저임금을 1만700원으로 의결했다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n861c4ec0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260714_0003708921",
+    "title": "\"알약 너무 작으면 사지 마세요\"…약사가 밝힌 종합비타민 고르는 법",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 종합비타민은 누구나 챙겨 먹어야 하는 영양제가 아니라는 전문가의 조언이 나왔다.",
+      "충분히 식사하는 사람이라면 굳이 복용할 필요가 없으며, 제품을 고를 때도 알약 크기 등을 확인해야 한다는 것이다.",
+      "지난 12일 구독자 272만 명을 보유한 유튜브 채널 '김작가 TV'에 출연한 정재훈 약사는 음식 섭취량이 적은 사람이라면 종합비타민이 도움이 될 수 있지만, 충분히 식사하는 사람은 굳이 챙겨 먹을 필요가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n44eebdd7",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153382",
     "title": "[K-NPU] SCP에서 GPU·NPU 골라 쓴다...삼성SDS, 퓨리오사AI NPUaaS 16일 출시",
     "summary": [
@@ -370,7 +614,7 @@ window.NEWS_DB = [
     "id": "n7ee4ae70",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153380",
     "title": "[카드뉴스] AI는 집을 움직이고 웹OS는 수익을 만든다.. 달라진 LG전자의 성장공식은?",
     "summary": [
@@ -384,190 +628,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n54c00496",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260715/134300593/1",
-    "title": "신지, ‘kt 시구 거절 논란’ 사과…코요태 ‘축하 공연’ 취소",
-    "summary": [
-      "혼성그룹 ‘코요태’가 멤버 신지의 프로야구 KT 위즈 홈경기 행사 관련 논란으로 결국 예정됐던 축하 공연을 취소했다.소속사 제이지스타는 14일 입장을 내고 “KT 위즈 팬 여러분의 우려를 겸허히 수용해 8월2일 예정된 축하 공연 행사를 진행하지 않기로 구단 측과 합의했다”고 밝혔다.당초 코요태는 경기 후 축하 공연을 진행할 예정이었으나, 행사 조율 과정에서 추가 제안받은 신지의 시구를 고사하며 논란이 불거졌다.",
-      "소속사는 한화 이글스의 열성 팬인."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n944b2562",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715004000099",
-    "title": "나이지리아, '반이민시위' 남아공에 손해배상 청구 검토",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 최근 반(反)이민 정서가 고조된 남아프리카공화국에서 약 한 달 새 5만3천여명의 외국인이 추방되거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n624ebc06",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003709464",
-    "title": "인천 108㎜ 폭우…외국인근로자 8명 대피·일부 정전(종합)",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 호우·강풍특보가 내려진 인천에 폭우가 쏟아지며 외국인 근로자 8명이 대피하는 등 피해가 속출했다.",
-      "15일 인천소방본부에 따르면 전날 오후 9시부터 이날 0시까지 풍수해 관련 119 신고가 85건 접수됐다.",
-      "전날 오후 6시54분께 강화군 하점면에서는 휀스가 전도되며 인근에 있던 외국인 근로자 8명이 주변 주민대피시설로 대피했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nae6ce0a4",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715003400087",
-    "title": "[월드컵] 4강중 누가 결승행?…기록으로 본 킬러본능과 징크스",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 2026 북중미 월드컵 4강전이 전통의 강호이자 국제축구연맹(FIFA) 랭킹 '빅4'의 대결로 압축되면..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n71ec8197",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715003800527",
-    "title": "경기 가평에 호우주의보 해제",
-    "summary": [
-      "(의정부=연합뉴스) 기상청은 경기 가평에 발령했던 호우주의보를 15일 오전 1시 30분을 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf9d18c1b",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715003700527",
-    "title": "경기 양평동부에 호우주의보 해제",
-    "summary": [
-      "(수원=연합뉴스) 기상청은 경기 양평동부에 발령했던 호우주의보를 15일 오전 1시 30분을 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncd7fd2c5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/international/us/2026/07/15/EQUBWMFQEVCGFARWZOHYPHIXVY/",
-    "title": "트럼프, 통행료 20% 하루만에 번복… “중동과 투자협정으로 대체”",
-    "summary": [
-      "트럼프, 통행료 20% 하루만에 번복… “중동과 투자협정으로 대체”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6d84feaf",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "34분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/15/MUYTQNBYGNQWIOBUMVQTKMZVMQ/",
-    "title": "'마이너 ERA 7.94' 대전 예수, 빅리그 깜짝 복귀? \"와이스도 선택지\" 현지 매체 전망 떴다…실현 가능성은",
-    "summary": [
-      "[스포츠조선 박상경 기자] 과연 라이언 와이스(휴스턴 애스트로스)가 메이저리그에 깜짝 복귀할까.",
-      "휴스턴이 또 마운드 부상 악재를 만나자 와이스의 복귀 가능성이 거론됐다.",
-      "미국 MLB트레이드루머스(MLBTR)는 14일 우완 마이크 버로우스의 15일짜리 부상자명단(IL) 등재 소식을 전하면서 대체 선발 후보들을 언급했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne15838f7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003709461",
-    "title": "이란 키시섬·케슘섬서 잇단 폭발…\"美 발사체 기반시설 인근 타격“",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 미국과 이란 간 군사적 충돌이 이어지는 가운데 이란 남부 페르시아만의 키시섬과 케슘섬에서 잇따라 폭발이 발생했다.",
-      "14일(현지 시간) 이란 혁명수비대(IRGC) 계열 타스님통신에 따르면 미국 발사체가 키시섬의 수도·전력 시설 인근에서 폭발했다.",
-      "타스님통신은 폭발로 인한 시설 피해 규모와 인명 피해 여부는 아직 확인되지 않았다고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n944e792c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/15/GRSTIOJQGY4DQM3GMM4WKYRRGA/",
-    "title": "\"이렇게 오래 뛸 줄 몰랐다. 1위, 내 일처럼 기뻐\" 끝까지 '푸른 피'였던 오러클린의 진한 이별포옹과 컴백희망",
-    "summary": [
-      "[스포츠조선 정현석 기자]후반기 대비 선수단 훈련이 펼쳐진 14일 오후, 대구 삼성라이온즈파크.",
-      "훈련을 마친 선수단이 실내 연습장에 모였다.",
-      "잠시 가슴 뭉클한 정적이 감돌았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n319dd3a7",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003709463",
-    "title": "최임위 공익위원 \"도급제 적용 등 최저임금 제도 개선 권고\"(종합)",
-    "summary": [
-      "[세종=뉴시스]박정영 기자 = 최저임금위원회(최임위) 공익위원들이 도급제 근로자의 최저임금 적용 방식과 결정기준 등을 연구하기 위한 제도 개선 추진단의 설치를 정부에 권고했다.",
-      "15일 최임위에 따르면 공익위원들은 전날 권고문을 통해 \"인공지능(AI) 확산과 플랫폼을 매개로 하는 사업의 성장, 산업 구조의 재편 등 경제사회 전반이 급변하는 시대에 최저임금 심의에 있어 매년 유사한 논의가 반복·공전하는 상황을 개선하고 논의의 진전을 위해 제도 개선."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n2972ede2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "47분 전",
-    "url": "https://www.newsis.com/view/NISX20260714_0003709447",
-    "title": "유럽항공안전청, 중동 5개국 영공 비행 자제 권고",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 미국과 이란 간 군사 충돌이 다시 격화되는 가운데 유럽항공안전청(EASA)이 중동 5개국 영공에 대한 비행 안전 권고를 강화하고 항공사들에 바레인, 쿠웨이트, 카타르, 아랍에미리트(UAE), 오만만 상공의 비행을 피할 것을 권고했다.",
-      "14일(현지 시간) EASA는 공지문을 통해 이 같은 내용을 발표했다.",
-      "이번 권고는 오는 29일까지 유효하다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8a7d2969",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202607155449i",
     "title": "트럼프 \"호르무즈 통행료 20%, 걸프국 무역협정으로 대체\"[이상은의 워싱턴나우]",
     "summary": [
@@ -576,64 +640,6 @@ window.NEWS_DB = [
     "chips": [
       "#수출"
     ]
-  },
-  {
-    "id": "nd378199e",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714185552530",
-    "title": "내년 최저임금 시간당 1만700원…올해보다 3.7% 인상(종합2보)",
-    "summary": [
-      "(세종=연합뉴스) 한혜원 옥성구 기자 = 내년도 최저임금이 시간당 1만700원으로 최종 결정됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n04787c83",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260715/134300502/1",
-    "title": "노동계 “최저임금, 턱없이 부족” vs 경영계 “동결했어야”",
-    "summary": [
-      "내년도 최저임금이 올해보다 380원 오른 1만700원으로 결정됐다.",
-      "이에 노동계는 “생계 보장 기능을 회복하기에는 턱없이 부족하다”고 주장한 반면 경영계는 “영세·중소기업과 소상공인의 지불여력을 고려하면 동결돼야 했다”고 평가했다.최저임금위원회(최임위)는 14일 오후 정부세종청사에서 제14차 전원회의를 열고 내년도 시간당 최저임금을 1만700원으로 의결했다.",
-      "월 209시간 기준으로 환산하면 223만6300원이다.근로자위원 간사인 류기섭 한국노동."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nafb969f9",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260715/134300496/1",
-    "title": "“버티기도 힘든데 또 오른다”…중기·소상공인 “최저임금 인상 유감”",
-    "summary": [
-      "2027년도 최저임금이 올해보다 3.7% 오른 시간당 1만700원으로 결정되자 중소기업과 소상공인 업계는 일제히 유감을 표하며 정부에 경영 부담 완화 대책과 제도 개선을 촉구했다.소상공인연합회(소공연)는 14일 입장문을 통해 “역대 최대 부채와 경기 침체 속에서 하루하루 버티고 있는 소상공인의 절박한 현실을 외면한 결정”이라며 “최저임금 추가 인상은 소상공인들에게 또다른 부담을 안겨주게 됐다”고 밝혔다.소공연은 이번 인상률이 물가상승률을 웃도는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nccb1322d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/15/BUUQ7JFQH5ASLDJKIVJEPDCAQE/",
-    "title": "결국 깨진 20년 우정...버핏, 기부 대상에서 게이츠 재단 영구 제외",
-    "summary": [
-      "결국 깨진 20년 우정...버핏, 기부 대상에서 게이츠 재단 영구 제외."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -641,19 +647,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
-  },
-  {
-    "rank": 2,
     "tag": "AI",
     "mentions": "2070건",
     "trend": "+215%"
   },
   {
+    "rank": 2,
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
+  },
+  {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "부동산",
     "mentions": "1550건",
     "trend": "+135%"
   }
