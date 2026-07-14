@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-14 13:05:45
+// 마지막 업데이트: 2026-07-14 15:15:38
 window.NEWS_DB = [
   {
-    "id": "nd265fef3",
+    "id": "n6078599a",
     "category": "IT",
-    "source": "헤럴드경제",
-    "time": "4시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuZ3NzOEpTY2FMMTgzTXpFbW1Ua25CdnB6VGJQeEZYN3UtcEFDaHpmNW5pWFdwS3c4dllXemV1TUNtbmwwczFmS2ZHU0xSVXlHNF9abXJB?oc=5",
+    "source": "v.daum.net",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GOHphYUdES2dPQTdHZjlKanI3NG5mLXMxNVRKQVZYc2hiTUtuSkxZeDVoMmZudmlYUjVsMmVMUW1fR1BpVjJESlRPVGR4TVE?oc=5",
     "title": "“이천서 보자”에 술렁…메모리사 SK하이닉스는 왜 파운드리 인력 수혈 나섰나 [칩칩팹팹]",
     "summary": [
-      "“이천서 보자”에 술렁…메모리사 SK하이닉스는 왜 파운드리 인력 수혈 나섰나 [칩칩팹팹] 헤럴드경제."
+      "“이천서 보자”에 술렁…메모리사 SK하이닉스는 왜 파운드리 인력 수혈 나섰나 [칩칩팹팹] v.daum.net."
     ],
     "chips": [
       "#반도체",
@@ -17,10 +17,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n443a94d9",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbjQ2MlUxZkpZLXpzc1F1ZVBhTGd2eC1fSWpxakdHcHh3THI1el9NeXp4bEJER1BqWHF2dzAwWTItczJ3V3RDTVZQTGRHVkwyd1BTbnJpcDktcWdzaWZPQkdnQnJvbHhuRFpfNllvakJGQjJ0RmUzNmRHRzlXN1ZDa01R0gGWAUFVX3lxTE9BZDVLZjlfWm1LbGlESnlpSGh2em8yTUlsT0ktcXl0clUtMXV0aE4taU1TLXNqNFR0QmtteWo2NS1zUXIxS29EZHBBQmlEaHo2Z3BFZ0JBeXRoeUgwOF9hR1hFaXg3TkhCM0JfajhJV1luVFFtVDUwd25kT05STjFPTWxjOU1wekRiZzFiQm1pV2QxZG94QQ?oc=5",
+    "title": "엔비디아, AI칩 中 우회 수출 차단 조치… 아시아 고객사 심사 강화 - 조선비즈",
+    "summary": [
+      "엔비디아, AI칩 中 우회 수출 차단 조치… 아시아 고객사 심사 강화 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#수출"
+    ]
+  },
+  {
     "id": "n6229e236",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVV9OcTgxMVdsYktNRjNzaV8xOGptOXNYcGFON1pZc1FlVTdBTEhmTXZOeHpLeXpFUlpLdUQyamp6anZaS3NTS1RyaTR6TmhPSGNfNEdsbGkyTHVxNGZWNXdhTmwtRWFBRndSWUUtRkRCLUE?oc=5",
     "title": "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠슨 황 고민 커져",
     "summary": [
@@ -37,7 +53,7 @@ window.NEWS_DB = [
     "id": "n18f2a499",
     "category": "IT",
     "source": "미디어펜",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dS1uaWR2QXZsMGdESlVJSVNRbEVOcjV6YXMzWlVMOGF3cHRlbDEyQmFWZko3NkdTallrYm82UHFxODlTOWRld3UtUHROYml2T0UzTw?oc=5",
     "title": "[반도체 승부수②] '올인원' 삼성 vs '초연합' 하이닉스…HBM4 생존 방정식",
     "summary": [
@@ -48,26 +64,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n624c542d",
-    "category": "IT",
-    "source": "디지털데일리",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nZFhRc0lZWXZzYTkwSUdXM2Rka2tDYjl4X2trSC1qY3pSVUdjTDdqaTA0RGZ6TjQzUVpBakk4WDRqclFWWkNaVlRuOXF6ZUpFaGRFUkcyRkhKUzZZaE5IeG9BZEI?oc=5",
-    "title": "엔비디아 물량 쏟아지자 팹 증설 속도전…TSMC, 대만 자이에 AI 반도체 패키징 공장 2개 추가",
-    "summary": [
-      "엔비디아 물량 쏟아지자 팹 증설 속도전…TSMC, 대만 자이에 AI 반도체 패키징 공장 2개 추가 디지털데일리."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "na11bfa3c",
     "category": "IT",
     "source": "빅데이터뉴스",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwUlhURzFCWFhuT21kdG0xTlBfRGxKLTBOaVdPMi16N3NhaEJMZnh4UzVvczI1QTJwejVmQXdPbzVvVlFaMnRpbmRoeVJNbXFmc0RvbEpueG92YlJSR3AwYTh2Z2pmRlZIaDhQNGJLZTZrSXBjbFdkNlBYb2k?oc=5",
     "title": "[삼성전자 상반기 톺아보기①] 메모리 호황 속 파운드리는 여전히 숙제",
     "summary": [
@@ -82,7 +82,7 @@ window.NEWS_DB = [
     "id": "n8307c128",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXk2Zkxad2lMYXFjSTRfbjY5M3hlUm5VM1NPQW4xcE8tdEdZV3RDN09wZVgxVVkxb3FvYUdrWWxRQUtNenNJbU5PTkcyeVlUZ01nN0ZLLW9KZmtxMm1hZmdfVy1BRTV4bnVEcUM1aVB0MHRxeV9OZWdIdm1DeHhQdE04M3dlekk?oc=5",
     "title": "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀",
     "summary": [
@@ -215,20 +215,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n646824f1",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WZWY5ZXlFNllvSUVqQkhPZTRoT3pmT1E5MUFkTmR2dGF1NkxfaEMxcnJ6QmZ6S1JSalpOV0k2UF9hN0F0QnV4TFoySHJIYlU?oc=5",
-    "title": "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드]",
-    "summary": [
-      "KBO리그에도 '메시'가 있다, 종목·국적 초월한 '전설의 품격' [신화섭의 스포츠 인사이드] v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -300,6 +286,20 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "104일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -384,260 +384,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb7a7d6fc",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260714_0003708347",
-    "title": "벨링엄 결승골에도 '무표정'…빅토리아 베컴, 뜻밖의 월드컵 '밈' 등극",
-    "summary": [
-      "[서울=뉴시스]김수빈 인턴 기자 = 잉글랜드와 노르웨이의 2026 국제축구연맹(FIFA) 북중미 월드컵 8강전에서 멀티골을 터뜨린 주드 벨링엄 대신 빅토리아 베컴이 뜻밖의 온라인 밈(meme) 주인공으로 떠올랐다.",
-      "최근 영국 가디언, 인디펜던트, 데일리메일에 따르면 영국 걸그룹 스파이스 걸스 출신이자 데이비드 베컴의 아내인 빅토리아는 지난 11일(현지 시간) 미국 마이애미에서 열린 잉글랜드와 노르웨이의 월드컵 8강전을 가족과 함께 관람했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00574005",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260714_0003707848",
-    "title": "\"시댁 반찬 안 먹는 게 죄?\"…냉장고 속 반찬이 부른 부부 갈등",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 입에 안 맞는 시댁 반찬을 먹지 않았다는 이유로 남편과 갈등을 겪었다는 여성의 사연이 전해졌다.",
-      "12일 한 온라인 커뮤니티에 '입에 안 맞는 시댁 반찬'이라는 제목의 글이 올라왔다.",
-      "맞벌이 부부 생활을 하고 있는 작성자 A씨는 \"엄마가 김치나 반찬을 만들어 주신다\"면서 \"결혼 후에도 밑반찬과 김치를 해주셨다\"고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6909b53",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260714_0003707881",
-    "title": "단백질 줄이고 탄수화물 늘려라?…GLP-1 자극하는 반전 식사법",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 비싼 비만 치료제나 무리한 약물 복용 없이도 식욕 억제 호르몬을 체내에서 자연스럽게 높여 체지방을 감량하고 수명을 연장할 수 있는 최적의 식사법이 제시됐다.",
-      "미국의 유력 매체 뉴욕포스트는 최근 '오젬픽' 등 체중 감량 효과가 있는 글루카곤유사펩타이드-1(GLP-1) 계열 약물이 선풍적인 인기를 끌고 있지만 부작용에 대한 우려도 함께 커지는 상황이라고 보도했다.",
-      "이런 가운데 약물 없이 식단만으로 GLP-1 호르."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc26271f",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260713_0003706484",
-    "title": "\"뛰어 내려라\"…8강 탈락 노르웨이 쇠를로트, 연인까지 협박 시달려",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 노르웨이 축구 국가대표 공격수 알렉산데르 쇠를로트가 2026 북중미 월드컵 8강 탈락 이후 거센 악플 공세에 시달리고 있으며 그의 연인까지 살해 협박성 댓글의 대상이 됐다.",
-      "노르웨이 매체 'VG'는 12일(현지시간) 쇠를로트가 잉글랜드와의 월드컵 8강전 패배 이후 SNS에서 심한 비난을 받고 있으며 연인 레나 셀네스 역시 악성 댓글을 받고 있다고 보도했다.",
-      "노르웨이는 이날 미국 마이애미 스타디움에서 열린 잉글."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4dd6edc1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/14/HEZDIZBRGYZWKNDDGEYTQZJXGM/",
-    "title": "제니 회사 찾다 뭇매 맞은 유튜버, 사과 엔딩…\"사생으로 보일 줄 몰라, 이용한 것 아냐\"[전문]",
-    "summary": [
-      "[스포츠조선 조민정 기자] 블랙핑크 제니를 만나기 위해 소속사까지 찾아갔다가 논란에 휩싸인 유튜버 '포테이토 터틀'이 결국 고개를 숙였다.",
-      "유튜버 포테이토 터틀(본명 송지윤)은 14일 자신의 SNS를 통해 장문의 사과문을 올리고 최근 불거진 논란에 대해 사과했다.",
-      "그는 \"최근 제가 올린 영상으로 불편함을 느끼신 모든 분들께 진심으로 사과드린다\"며 \"댓글을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6a97ba55",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/14/HBSTMZLBGNRDCNDCMFQTMOJUMI/",
-    "title": "'도림동피셜' 이강인, 아틀레티코 마드리드 메디컬 테스트…'3년 전처럼' 韓 팬 앞에서 '첫 선' 보이나",
-    "summary": [
-      "대한민국의 여름이 다시 한번 들썩인다.",
-      "'에이스' 이강인(25·파리생제르맹·PSG)이 새 유니폼으로 갈아입고 한국에서 '첫선'을 보일 가능성이 높다.",
-      "이강인의 아틀레티코 마드리드(스페인) 이적 '오피셜'이 임박했다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2c941006",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714180500073",
-    "title": "허가 취소됐다 뒤집힌 日 오이원전…법원, 운전 정지 청구 기각",
-    "summary": [
-      "(도쿄=연합뉴스) 조성미 특파원 = 지진으로 원자력발전소 사고가 우려된다며 일본 간사이전력 오이(大飯) 원전 3·4호기 인근 지역 주민들이 낸 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ac425db",
+    "id": "n973550d7",
     "category": "경제",
     "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026071421514886919",
-    "title": "美 6월 소비자물가 상승률 3.5%…예상치 하회",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026071500131572662",
+    "title": "[속보]트럼프 \"통행료 20%, 중동국과의 무역·투자협정으로 대체\"",
     "summary": [
-      "미국 노동부 노동통계국이 6월 소비자물가지수(CPI)가 전년 동월 대비 3.5% 상승했다고 14일(현지시간) 밝혔다.",
-      "상승률은 5월(4.2%) 대비 큰 폭으로 둔화했으며, 다우존스가 집계한 전문가 예상(3.8%)도 밑돌았다.",
-      "전월 대비로는 0.4% 하락했다."
+      "[속보]트럼프 \"통행료 20%, 중동국과의 무역·투자협정으로 대체\"."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "nbf741fe2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714182300527",
-    "title": "인천 강화에 호우경보…북부 등 4곳 호우주의보 유지",
-    "summary": [
-      "(인천=연합뉴스) 기상청은 14일 오후 9시 45분을 기해 인천 강화에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c75d048",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714182000004",
-    "title": "사흘여간 폭염 지속 서울서 어제 온열질환자 11명 속출",
-    "summary": [
-      "(서울=연합뉴스) 김준태 기자 = 연일 이어지는 폭염 속에 지난 13일 서울에서 두 자릿수의 온열질환자가 발생한 것으로 확인됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nafe5e9db",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714180400053",
-    "title": "\"SNS서 같은 학과 여학생 성희롱\"…경찰, 경북대 재학생 수사",
-    "summary": [
-      "(대구=연합뉴스) 박세진 기자 = 경북대 재학생이 온라인상에서 같은 학과 여학우들을 상대로 성희롱 발언을 일삼았다는 신고가 접수돼 경찰이 수사에..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2cb6e90a",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260714181600063",
-    "title": "'모두의 창업' 정보 유출에 경찰, AI 솔루션 업체 등 압수수색",
-    "summary": [
-      "(대전=연합뉴스) 김소연 기자 = 중소벤처기업부 '모두의 창업' 프로젝트의 개인정보 유출 경위를 수사 중인 경찰이 관련 업체를 압수수색 하는 등..."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nb28a6a31",
+    "id": "n7eac1073",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "27분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/14/2026071421352598709",
-    "title": "[속보]美 6월 소비자물가지수 전년비 3.5%↑…예상치 하회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/15/G4ZTCZRVGI3DAYRUGA4WEMDGGY/",
+    "title": "누가 악성 계약이라 했나, 이정후 1억1300만 달러 재평가 \"합리적 몸값, 한국 시장도 중요한데…트레이드 상상 불가\"",
     "summary": [
-      "미국의 6월 소비자물가지수(CPI)가 전년동월대비 3.5% 상승했다고 미 노동부 노동통계국이 14일(현지시간) 발표했다.",
-      "전월 4.2%로 급등했던 것에 비해 둔화했고 시장 예상치를 밑돌았다...."
+      "[OSEN=이상학 객원기자] 샌프란시스코 자이언츠의 베테랑 담당 기자가 이정후(27)의 트레이드 가능성을 낮게 봤다.",
+      "성적 대비 몸값이 합리적이고, 한국 시장에 진출한 샌프란시스코의 장기적인 비전을 고려할 때 트레이드는 현실적이지 않다고 주장했다.",
+      "‘샌프란시스코 크로니클’ 수잔 슬러서 기자는 지난 14일(이하 한국시간) 지역 라디오 ’KNBR 더 스포츠 리."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n64c9e9a7",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "31분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/14/G7DBVZ4WQJHSZJWTG5SSKGSTRQ/",
-    "title": "손정의 “2040년 휴머노이드 로봇 시장 규모 6경원…인프라에 年 7400조원 필요”",
-    "summary": [
-      "손정의 “2040년 휴머노이드 로봇 시장 규모 6경원…인프라에 年 7400조원 필요”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n77c49699",
+    "id": "n11d5df50",
     "category": "경제",
     "source": "아시아경제",
-    "time": "36분 전",
-    "url": "https://view.asiae.co.kr/article/2026071421234167980",
-    "title": "TV서 기어 나오던 '링' 귀신 배우, 노숙 생활 중 사망",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026071500114068425",
+    "title": "美 6월 CPI 전년 대비 3.5%…6년 만에 첫 마이너스",
     "summary": [
-      "할리우드판 공포 영화 '링'에 출연하며 미국 아역 스타 배우로 이름을 알렸던 다베이 체이스가 거액의 유산을 남기고 사망한 것으로 전해졌다.",
-      "그는 눈을 감기 전 노숙 생활을 한 것으로 알려져 대중에게 충격을 주고 있다.",
-      "미국 연예 매체 '피플'은 13일(현지시간) 다베이 체이스의 유산 상속 관련 서류를 입수했다고 보도했다."
+      "지난달 국제유가 하락에 힘입어 미국의 소비자물가 상승률이 예상보다 빠르게 둔화한 것으로 나타났다.",
+      "에너지뿐 아니라 의류와 중고차, 자동차 보험 등 광범위한 품목에서 물가 압력이 약화하면서 이달 미국 중앙은행인 연방준비제도(Fed)의 금리 인상 가능성도 크게 낮아졌다.",
+      "다만 미국과 이란의 무력 충돌이 재개되며 국제유가가 다시 급등하고 있어 물가 불안이 완전히 해소된 것은 아니라는 평가가 나온다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n476c24f5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260715000700527",
+    "title": "고양 등 경기 5곳 호우주의보 해제",
+    "summary": [
+      "(의정부=연합뉴스) 기상청은 경기 고양·의정부·양주·포천·동두천에 내렸던 호우주의보를 15일 0시 10분을 기해 해제한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83eefc51",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/15/MIYDEN3DMIYDSMRYGU2WKOBXGU/",
+    "title": "NC 불펜포수가 日 요미우리 입단까지…'헝그리 정신'으로 일군 기적, \"믿을 수 없는 기분, 이승엽 코치님 잘 부탁드립니다\"",
+    "summary": [
+      "[OSEN=조형래 기자] KBO리그의 불펜 포수가 일본프로야구 2군을 거쳐서 일본프로야구 최고 명문 구단에 입단했다.",
+      "이건희(26)가 그 주인공이었다.요미우리 자이언츠는 14일, 2군 리그에 참가하고 있는 독립리그 구단인 하야테 벤처스 시즈오카 소속의 이건희와 육성선수 계약을 체결했다고 발표했다.",
+      "이건희는 경북고 단국대를 졸업한 뒤 프로 무대에 선수로 입문."
+    ],
+    "chips": [
+      "#스타트업",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8acafb86",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/15/HEZTOZDFHAZGMMZXMMYGGNRZMM/",
+    "title": "월드컵 0분 배준호, 리옹은 스토크 134경기를 봤다…UCL 예선 앞둔 ‘6호 카드’",
+    "summary": [
+      "[OSEN=이인환 기자] 월드컵에서는 한 번도 뛰지 못했지만 올랭피크 리옹은 배준호가 스토크 시티에서 보낸 3년을 보고 움직였다.프랑스 ‘풋 메르카토’는 14일(한국시간) 리옹이 배준호 영입 작업에 속도를 내고 있다고 보도했다.",
+      "구체적인 이적료와 공식 제안 여부는 공개되지 않았지만 배준호도 프랑스 리그1과 리옹에서 뛰는 선택에 긍정적인 것으로 전해졌다.리옹."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e70283e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/07/15/OEVLSA6R6ZEXNPNYAJCMCAREV4/",
+    "title": "[사설] “보완 수사권 폐지해도 문제 없다”는 정치인 기억해 두자",
+    "summary": [
+      "[사설] “보완 수사권 폐지해도 문제 없다”는 정치인 기억해 두자."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2e3af606",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026071500095364201",
+    "title": "중소기업계 \"최저임금 인상 유감…현장 지불 능력 벗어나\"",
+    "summary": [
+      "내년도 최저임금이 올해보다 3.7%(380원) 오른 시급 1만700원으로 결정된 가운데 중소기업계가 영세기업과 소상공인의 경영 부담이 커질 것이라며 유감스럽다는 입장을 밝혔다.",
+      "14일 중소기업중앙회는 공식 논평을 내고 \"수출 호조와 대기업 실적 개선에 힘입어 경제성장률은 상승하고 있지만, 중소기업과 소상공인 현장은 물가 상승과 내수 침체로 여전히 어려움을 겪고 있다\"며 \"많은 중소기업과 소상공인이 취약 업종에 대한 최."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n17f92556",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260714_0003709450",
+    "title": "이 대통령 \"英, 韓 성장 도운 고마운 나라\"…앤 공주 \"韓 조선 경이로운 수준\"(종합)",
+    "summary": [
+      "[서울=뉴시스]김경록 기자 = 이재명 대통령이 14일 한국을 방문 중인 찰스 3세 영국 국왕의 여동생 앤 공주를 만나 한-영 간 관계 발전 방안을 논의했다.",
+      "이 대통령은 이날 오후 청와대에서 앤 공주를 만나 \"우리 앤 공주를 대한민국 사람들이 많이 기다리고 기대하고 있었는데, 뵙게 돼서 반갑다\"고 말했다.",
+      "이에 앤 공주는 \"너무 좋게 말씀해주셔서 감사하다\"며 \"마지막 한국에 왔었을 때는 동계올림픽 때였다\"고 회상했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8aa3e842",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260714_0003707990",
+    "title": "\"이혼 도장 찍으려다 집값 폭등\"…부동산 '동지애'로 부부관계 회복한 사연",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 집값 급등이 이혼 위기에 놓인 부부의 관계를 오히려 회복시켰다는 사연이 온라인에서 화제다.",
+      "12일 직장인 익명 커뮤니티 블라인드에는 '부동산 때문에 와이프랑 이혼 안 하고 산다'는 제목의 글이 올라왔다.",
+      "작성자 A씨는 2019년 배우자와 함께 첫 신혼집을 8억원에 마련했다고 밝혔다."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "n25121ea5",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "36분 전",
-    "url": "https://www.mt.co.kr/stock/2026/07/14/2026071421005392066",
-    "title": "에코프로비엠 1조2000억 유상증자 급제동…금감원 정정요구",
+    "id": "nd3274f28",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260714187600072",
+    "title": "'AI 붐'에 美은행권 2분기 '깜짝 실적'…스페이스X 상장도 한몫",
     "summary": [
-      "금융감독원이 에코프로비엠의 1조2000억원 규모 유상증자 결정에 대해 정정을 요구했다고 14일 공시했다.",
-      "금감원은 에코프로비엠의 증권신고서가 △형식을 제대로 갖추지 않은 경우 △중요사항에 관한 거짓 기재·표시가 있거나 중요사항이 기재·표시되지 않은 경우 △내용이 불분명해 투자자의 합리적 투자판단을 저해하거나 중대한 오해를 일으킬 수 있는 경우 중 하나에 해당한다고 판단했다.",
-      "이날 금감원 정정요구에 따라 에코프로비엠의 증권신고서는 효력이 정지됐다."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 은행권이 2분기 들어 큰 폭의 순익 증가를 거뒀다고 발표하며 올해 두 번째 실적발표 시즌 돌입을 알렸다..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n25b75dd1",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260714_0003708991",
+    "title": "\"반도체 급락, 성급한 비관은 금물\"…전문가 \"이번 주 TSMC·ASML 실적 주목\"",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 최근 국내 반도체주가 큰 폭으로 하락하면서 투자자들의 불안감이 커지는 가운데, 섣불리 약세장으로 단정하기보다 이번 주 발표되는 미국 반도체 기업들의 실적과 투자 계획을 먼저 확인해야 한다는 전문가의 분석이 나왔다.",
+      "지난 14일 한상희 한화투자증권 수석연구위원은 구독자 303만 명을 보유한 유튜브 채널 '삼프로TV 3PROTV'에 출연해 \"지금은 반등할 가능성이 높은 구간\"이라고 진단했다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n22398f68",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026071500040156670",
+    "title": "내년 최저임금 380원 오른 1만700원…297만명 영향(종합2보)",
+    "summary": [
+      "내년 최저임금이 올해보다 380원(3.7%) 오른 시간당 1만700원으로 결정됐다.",
+      "최저임금위원회는 14일 정부세종청사에서 제14차 전원회의를 열고 이같이 의결했다.",
+      "주휴수당을 포함하면 시간당 1만2840원이며 월 환산액(209시간)으로는 223만6300원이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n264fcc57",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "36분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/14/2026071420333353462",
-    "title": "\"회사에 말 못하겠다\"…일본서 '퇴직' 이어 '휴직 대행' 인기",
+    "id": "nd5247891",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260714_0003707865",
+    "title": "윤현숙 \"1분만 해도 땀 뻘뻘\"…스텝퍼로 나이 잊은 몸매",
     "summary": [
-      "극심한 업무와 스트레스에 시달리는 직장인들을 위한 '휴직 대행' 서비스가 일본에서 확산하고 있다.",
-      "14일 산케이신문에 따르면 일본에서는 회사에 직접 휴직 의사를 전달하기 어려운 직장인들을 대신해 절차를 진행하는 휴직 대행 서비스가 퇴사 대행 서비스에 이어 새로운 수요로 떠오르고 있다.",
-      "매체에 따르면 10년째 휴직 대행 서비스를 운영해온 일본의 한 법률 사무소는 올봄부터 관련 의뢰가 2배로 증가해 한 달에 약 40건의 대행 업무를 처리하고 있다고."
+      "[서울=뉴시스]박세은 인턴 기자 = 그룹 잼 출신 가수 겸 배우 윤현숙이 최근 자신의 다이어트 전후 사진을 공개하며 감량의 비결 중 하나로 스텝퍼를 언급했다.",
+      "그는 자신의 SNS에 사진과 함께 \"에어컨 틀고 티비보면서 스텝퍼 고고\"라며 \"제대로 하면 1분만 해도 땀이 나고 힘들어요\"라고 했다.",
+      "윤현숙이 언급한 스텝퍼는 체중과 다리의 힘을 활용해 제자리에서도 계단 타기를 할 수 있는 구조의 운동기구다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne85666b9",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/15/2026071422254186377",
+    "title": "[오피셜] K리그에서 유럽 깜짝 직행, 등번호 18번! 2007년생 이충현, 독일 2부 마그데부르크 입단",
+    "summary": [
+      "프로축구 K리그1 부천FC에서 뛰던 공격수 이충현(19)이 독일 2.분데스리가(2부) 1.",
+      "FC 마그데부르크에 새 둥지를 틀었다.",
+      "14일 부천과 마그데부르크 구단에 따르면 이충현은 부천을 떠나 한 시즌 간 마그데르부르크 임대 이적을 확정했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n2f886cc4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260714186600005",
+    "title": "조성진과 동료들의 '환상 호흡'…브람스와 함께한 여름밤",
+    "summary": [
+      "(서울=연합뉴스) 권지현 기자 = 피아노가 의미심장하게 소리를 줄여 선창하자 세 개의 현악기 활도 숨을 죽인 듯 조그마한 음으로 화답했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50329275",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260714187300030",
+    "title": "소상공인업계 \"내년 최저임금 인상 유감…부담 완화 대책 시급\"",
+    "summary": [
+      "(서울=연합뉴스) 이상서 기자 = 소상공인업계는 14일 내년도 최저임금이 인상된 데 대해 유감을 나타내고 소상공인의 부담을 완화할 대책을 마련할..."
     ],
     "chips": [
       "#뉴스"
@@ -649,15 +647,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
-  },
-  {
-    "rank": 2,
     "tag": "AI",
     "mentions": "2070건",
     "trend": "+215%"
+  },
+  {
+    "rank": 2,
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
