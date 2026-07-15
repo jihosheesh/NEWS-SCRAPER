@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-15 17:04:34
+// 마지막 업데이트: 2026-07-15 18:54:32
 window.NEWS_DB = [
   {
     "id": "n07177813",
     "category": "IT",
     "source": "여성경제신문",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DcHQyMVNxczMxc0h1QmtGNFpxZFlKVnZpWFBhV1RWc3FqQ2RrSWQ5OFdGZ2dRdGVidFc0ZlpHbFNnQ3EyUGdRS2F2b2hLNmp6Q2QxNXU2SXNGMTBwWHpaQ0pJUVdYNFlEWUVTRTVLc0FNa28?oc=5",
     "title": "칩 장벽도 GPU 앞엔 종이호랑이···中 빗장 풀자 K반도체 'HBM 특수' 기대",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n4544ccfc",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NcFRKZElNclJDR05CSEJMbUROcy1yZUVSejFNZlNOZGw4dTNtbXE0SUJUdUdUQlpjZUc5cmtIQmJWVlhzY1FHRDR0bHlGWUF0Z3NOeEpDUFJjcjREUG5FZEpNdVM0azMtSGFFYQ?oc=5",
     "title": "K방산 이끌 국가대표 스타트업 50곳 뽑는다",
     "summary": [
@@ -33,7 +33,7 @@ window.NEWS_DB = [
     "id": "nae5f094c",
     "category": "사회",
     "source": "아웃소싱타임스",
-    "time": "15시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wOXJFRF9WR3AtRGs1Yk5xX1lxSUZ6T1N5MnFqM0JxSXVrdXlHd19zakdrYmlCMU5uWVdhT3FmQjhpRVQ0QndwR04zbmNnQ0dkcEVISGtaaGUtTm1BeFY1cVM5SHlVSnNDNi00Q0ROMVY3dw?oc=5",
     "title": "[취업뉴스] 정규직 '연봉' vs 아르바이트 '안전' 최우선… 고용형태 따라 달라지는 일자리 선택 기준",
     "summary": [
@@ -225,20 +225,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n00a772cd",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JdHpCU0EtYnRldHI5UnlVNmMzb0ZjckYyR1Y0bUtYZ3dqLUpja0JUYkNYcmFCWC1VaUNrcmRCS0NaUkF6X2c?oc=5",
-    "title": "[IS 이슈] 김지우까지 온다…KBO 드래프트 '빅2' 확정? KIA 3순위 이하 셈법 복잡",
-    "summary": [
-      "[IS 이슈] 김지우까지 온다…KBO 드래프트 '빅2' 확정? KIA 3순위 이하 셈법 복잡 v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -298,6 +284,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n36e7aa3b",
+    "category": "스포츠",
+    "source": "v.daum.net",
+    "time": "126일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdDFkUU9tMnJEUGswWkFuaHFFSXpZTjNGNEFZMFI1b3FnT1dtNHhtY2I4WmFZN050YmVwNUVDY0g1Ym9VX21mSlFKbw?oc=5",
+    "title": "한국은 축구 >>> 야구!…'전세계 인기스포츠 지도' 눈에 띄네",
+    "summary": [
+      "한국은 축구 >>> 야구!…'전세계 인기스포츠 지도' 눈에 띄네 v.daum.net."
+    ],
+    "chips": [
+      "#전세",
+      "#KBO"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -313,10 +314,189 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6ee85e7e",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716005500087",
+    "title": "현상금 수배자에서 미국의 총아로…베네수 실세 카베요의 생존술",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국 정부는 그의 머리에 2천500만달러(370억원)의 현상금을 걸었다.",
+      "연방 검찰은 그가 수 톤(t)..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne3f9511e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/international/us/2026/07/16/AP4BTRMVIRCOPHIYUO5VDZ2SLY/",
+    "title": "前해군장관 “재임 중 한화와 필리 外 또 다른 美조선소 사업 추진”",
+    "summary": [
+      "前해군장관 “재임 중 한화와 필리 外 또 다른 美조선소 사업 추진”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n08ae5e6d",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003711238",
+    "title": "\"앤트로픽, 투자자 미팅 준비…이르면 10월 IPO\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 미국 인공지능(AI) 스타트업 앤트로픽이 올해 말 예정된 기업공개(IPO)를 앞두고 투자자들과 미팅을 조율 중이라고 15일(현지 시간) CNBC가 보도했다.",
+      "소식통에 따르면 앤트로픽 IPO 주관사들은 회사 경영진과 잠재적인(prospective) 투자자 간의 회동 일정을 잡고 있다.",
+      "CNBC는 \"앤트로픽의 IPO 준비가 순조롭게 진행되고 있음을 시사한다\"며 \"주관사들은 공식적인 투자 유치 설명회 등에 앞서 투자자들."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n68fb5973",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/16/36TOMM2GQJBZXPTYKB5MEULFZ4/",
+    "title": "다시 울린 버핏의 경고 “지금 금융시장은 도박판”",
+    "summary": [
+      "다시 울린 버핏의 경고 “지금 금융시장은 도박판”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9c2aed26",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716005300079",
+    "title": "이란 협상단장 \"종전합의 지킬 이유 없어\"…호르무즈 사수 천명",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란이 호르무즈 해협 통제권을 둘러싸고 무력 충돌을 이어가며 종전 양해각서(MOU)가 사실상 폐기 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0da28b72",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716004900072",
+    "title": "워시 美연준의장 \"트럼프에 독립성 갖겠다 반복해 말해\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장은 15일(현지시간) 도널드 트럼프 미 대통령이 통화정책에 개..."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n42f9499f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716003500071",
+    "title": "\"난 트럼프 변호인\" 말실수…美 법무장관 후보, '예스맨' 혼쭐",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = \"저는 그의 변호인입니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5fca6463",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003711233",
+    "title": "EU·우크라 첫 드론 공동생산 협정…\"전장 경험과 유럽 생산력 합친다\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 유럽연합(EU)과 우크라이나가 15일(현지 시간) 드론 공동 생산 협정을 체결했다.",
+      "우크라이나가 범유럽 차원의 드론 협력을 맺은 것은 이번이 처음이다.",
+      "유로뉴스, 도이체벨레(DW) 등에 따르면 우르줄라 폰데어라이엔 EU 집행위원장은 이날 우크라이나 건국기념일을 맞아 수도 키이우를 방문해 이 같은 계획을 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na2b5b737",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "43분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003711237",
+    "title": "美하원 '서머타임' 영구화 법안 통과…상원은 불투명",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 하원이 일광절약시간제(서머타임)를 영구화하는 법안을 통과시켰다.",
+      "입법이 완료될 경우 미 동부와 한국간 시간차는 13시간으로 고정된다.",
+      "15일(현지 시간) 뉴욕타임스(NYT)에 따르면 미 하원은 전날 '션샤인 보호법안'을 찬성 308표, 반대 117표로 통과시켰다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n96a88284",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "45분 전",
+    "url": "https://www.chosun.com/international/us/2026/07/16/CZO2Q5I7E5AQNLJSL5RI23NMQE/",
+    "title": "‘월가 황제’ 다이먼 “한화 필리조선소 보라… 민주주의 무기고 부활”",
+    "summary": [
+      "‘월가 황제’ 다이먼 “한화 필리조선소 보라… 민주주의 무기고 부활”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2248b073",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "54분 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003710622",
+    "title": "EU도 피할 수 없는 인구 절벽…\"2050년 3명 중 1명은 65세 이상\"",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 유럽연합(EU)이 앞으로 인구 감소와 초고령화라는 두 가지 거대한 변화를 동시에 맞게 될 것이라는 전망이 나왔다.",
+      "인구는 줄어들지만 평균수명은 계속 늘어나면서 노동력 부족과 연금·의료비 부담이 갈수록 커질 것이라는 분석이다.",
+      "EU 집행위원회 공동연구센터(JRC)는 14일(현지 시간) 발표한 'EU 인구구조 변화: 도전과 기회' 보고서에서 현재 약 4억 5060만명인 EU 인구가 이미 정점에 도달했다고 밝혔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2f18bf24",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "54분 전",
+    "url": "https://www.chosun.com/national/2026/07/16/BJUJYXQAN5HHPK5DDLJQSHZBZY/",
+    "title": "[굿모닝 멤버십] 도쿄 스카이라인에 나타난 화성의 그림자",
+    "summary": [
+      "[굿모닝 멤버십] 도쿄 스카이라인에 나타난 화성의 그림자."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n1901035c",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153417",
     "title": "[카드뉴스] '나혼렙'은 극장으로, 웹툰 캐릭터는 AI로.. 카카오·네이버가 IP를 키우는 새로운 방법",
     "summary": [
@@ -331,73 +511,76 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6b939286",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003709680",
-    "title": "잎채소 샐러드는 이제 그만, 단백질·식이섬유 꽉 채운 '콩 샐러드'가 뜬다",
+    "id": "n56fbc564",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260716/134309130/1",
+    "title": "“폭염? 더 문제는 습도”…심장·폐 환자 위험 커진다",
     "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 최근 SNS에서 인기를 얻고 있는 '밀도 높은 콩 샐러드(Dense Bean Salad)'가 영양학적 이점과 간편함 덕분에 단순한 트렌드를 넘어 일상의 주식으로 자리 잡고 있다.",
-      "건강 매체 '베리웰헬스'에 따르면, 미국 영양사 로렌 파노프는 \"밀도가 높은 콩 샐러드는 단백질과 식이섬유가 풍부해 안정적인 에너지 수준을 지원하며, 냉장고 보관도 용이해 간편하고 영양가 있는 식사를 위한 필수 메뉴\"라고 소개했다."
+      "전국에서 호우 특보는 해제됐지만 강한 비가 남긴 습도에 무더위가 만나 건강을 위협할 수 있다.",
+      "의료계는 습도가 높은 폭염은 땀의 증발을 방해하여 체온 조절을 어렵게 만들고 심장과 폐에 부담을 증가시킨다며 주의를 당부했다.",
+      "신현영 가톨릭대학교 서울성모병원 가정의학과 교수의 도움말로 습도 높은 여름철 중증 및 만성질환자 건강관리에 대해 알아본다."
     ],
     "chips": [
+      "#교육",
       "#의료"
     ]
   },
   {
-    "id": "nd4d2ee86",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/07/16/2026071309280823551",
-    "title": "은행이 왜 손해보험까지 다 할까 [MT시평/이병건]",
+    "id": "n91e83130",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260716/134309121/1",
+    "title": "권은비, 골프장서 첫 버디 기록…러블리 골프 패션 공개",
     "summary": [
-      "삼성화재해상보험과 삼성생명보험, DB손보와 DB생명, 그리고 KB손보와 KB라이프생명.",
-      "생명보험이나 손해보험이나 다 보험이고 지금은 주력 상품도 보장성보험으로 비슷하다는데, 왜 굳이 따로 있는 것인지 고객은 혼란스럽다.",
-      "혼란스럽기는 투자자도 마찬가지다."
+      "가수 권은비가 골프장에서 버디를 기록한 근황을 공개했다.",
+      "권은비는 15일 소셜미디어에 “첫 버디”라는 글과 함께 사진 여러 장을 올렸다.",
+      "공개된 사진 속 권은비는 하얀색 골프 웨어 상의에 검은색 치마를 매치해 러블리한 골프 룩을 선보였다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfba90a52",
+    "id": "n894d45cc",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/07/16/2026071509062616919",
-    "title": "AX 시대, 평가를 확 바꿔야 한다[청계광장/배상훈]",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260716/134309118/1",
+    "title": "채리나, 신정환 과거 폭로…“군 시절부터 습관성 불법 저질러”",
     "summary": [
-      "지식 암기보다 질문·사고역량이 중요 순위 매기는 것 넘어 성장을 끌어내야 정부,미래형 평가모델 개발·확산해야 학기가 끝났다.",
-      "시험도 끝났고 성적도 매겨졌다.",
-      "하지만 진짜 질문은 이제부터다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "naaa7dedc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003710450",
-    "title": "카페로 돌진한 '공포의 후진'…음주 아니었다, 원인은 수면제",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 한 카페 앞에서 우회전을 하기 위해 교차로로 진입하던 경차가 이상 행동을 하다 가게 정문 유리벽을 강하게 들이받는 사고를 냈다.",
-      "15일 경찰청 유튜브에 올라온 \"'아메리카노 한 잔이요' 후진으로 들어온 손님'이라는 제목의 영상에서는 해당 차량의 모습이 공개됐다.",
-      "차량은 앞뒤로 불안정하게 움직이다 도로변에 설치된 교통 볼라드를 박고 멈췄다."
+      "가수 채리나가 신정환의 과거를 폭로했다.15일 유튜브 채널 ‘닭터신’에는 ‘드디어 나왔다.",
+      "신정환이 꼼짝 못 하는 여자’라는 제목의 영상이 공개됐다.영상에는 채리나는 “신정환씨가 돌 10개를 맞는다고 하면 하나 정도는 맞아줄 수 있다”며 의리를 드러냈다.신정환은 “1995년도에 채리나씨 이름을 제가 지어줬다.",
+      "카리나씨가 채리나씨에 이어서 탑 아니냐”고 거들었다.이에 채리나는 “굉장히 진지하게 고민한 이름이 아니다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n42dfd8d2",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260716/134309113/1",
+    "title": "9년 만 日 찾은 젠슨 황…아키하바라 행사에 이자카야 회동",
+    "summary": [
+      "젠슨 황 엔비디아 최고경영자(CEO)가 약 9개월 만에 일본을 찾았다.",
+      "일본 게임 문화 성지 아키하바라에서 게임 업체 ‘세가(SEGA)’와 행사를 열고, 현지 반도체 업계 관계자들과 이자카야 만찬을 함께 했다.",
+      "니혼게이자이신문(닛케이), 일본 IT매체 PC워치 등에 따르면 황 CEO는 15일 오후 일본 도쿄 아키하바라의 대형 오락실 ‘GiGo 아키하바라 3호관’을 방문했다.황 CEO는 일본 게임사 세가(SEGA)와 게이머 대상 행사를 열고 현지."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
     "id": "n2bd5b02b",
     "category": "사회",
     "source": "테크M",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153415",
     "title": "\"지방 소상공인의 든든한 날개 된다\"...쿠팡, 호남서 지역 상생 '시동'",
     "summary": [
@@ -413,7 +596,7 @@ window.NEWS_DB = [
     "id": "n8f594e8b",
     "category": "사회",
     "source": "테크M",
-    "time": "11분 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153416",
     "title": "공공 실적 쌓는 보안업계...'맞춤형 대응'으로 해외 수요까지 겨냥",
     "summary": [
@@ -426,25 +609,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n67d0ae41",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716002400081",
-    "title": "아비뇽 페스티벌 예술감독 \"한국어 초청은 끝 아닌 시작\"",
-    "summary": [
-      "(아비뇽&lt;프랑스&gt;=연합뉴스) 송진원 특파원 = \"한국어 초청은 끝이 아니라 시작일 뿐이다.",
-      "이제는 28년을 기다릴 필요가 없다.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb79b1f4d",
     "category": "IT",
     "source": "테크M",
-    "time": "17분 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153406",
     "title": "\"국민 5명 중 1명 썼다\" 네이버 'AI탭'...'메이트'와 함께 AI 생태계 공략 '드라이브'",
     "summary": [
@@ -459,184 +627,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n257eb64c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003711230",
-    "title": "伊 배달노동자, 폭염 속 파업…\"기후변화 대가, 노동자가 내선 안돼\"",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 이탈리아 배달 노동자들이 폭염 속 근무 환경 개선을 요구하며 15일(현지 시간) 파업에 돌입한다.",
-      "이탈리아 안사통신 등에 따르면 음식 배달업체 글로보(Glovo)·딜리버루((Deliveroo) 소속 노동조합은 이날 저녁 업무를 중단하고, 이탈리아 전역에서 건강 및 소득 보장을 요구하는 파업에 나설 예정이다.",
-      "앞서 일부 지역 당국은 하루 중 가장 더운 시간대 음식 배달 업무를 중단하도록 명령했다."
-    ],
-    "chips": [
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "nb834ccf2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716002300085",
-    "title": "영국 20대 남성, SNS서 우익당 대표 총격 위협 혐의로 체포",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국개혁당 원로 정치인 피살 사건 여파가 이어지는 가운데 20대 남성이 나이절 패라지 영국개혁당 대표를 총격..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0c60ced5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/16/GRQTGYZTMU4DQOLEG44TIYLEHA/",
-    "title": "EU·우크라, 드론 공동 생산…방위 협력 전면 확대한다",
-    "summary": [
-      "유럽연합(EU)이 우크라이나와 드론 공동 생산을 위한 협정을 체결했다.",
-      "개별 국가 간 이뤄지던 방위 협력이 EU 차원으로 확대된 것이다.",
-      "15일(현지 시각) 유로뉴스 등 외신에 따르면, 우르줄라 폰데어라이엔 EU 집행위원장은 이날 우크라이나 수도 키이우를 방문해 우크라이나와 드론 협정을 체결했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb6db8c1c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "37분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716001600085",
-    "title": "스타머 \"후임엔 훈수 아닌 지지\"…웃음 오간 마지막 총리질의",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 키어 스타머 영국 총리가 15일(현지시간) 하원에서 총리로서 마지막 수요일 정례 총리질의(PMQ)에 나서 작..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2b19cbbb",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "42분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/16/GY4TSM3EGI3WCZTBMQ3TGMRSHA/",
-    "title": "20년 내야수 외길 인생, 왜 돌연 외야 글러브를 꺼냈나…쌍둥이 아빠의 묵직한 한마디 “먹고 살려면 해야죠” [오!쎈 인터뷰]",
-    "summary": [
-      "[OSEN=잠실, 이후광 기자] 중학교 시절부터 20년 가까이 내야수 외길 인생을 걸어온 강승호(32)는 왜 돌연 외야 글러브를 꺼내들었을까.",
-      "프로야구 두산 베어스 김원형 감독은 15일 서울 잠실구장에서 열린 올스타 휴식기 최종 훈련에서 후반기 코너 외야수 운영 플랜을 밝히면서 내야수 강승호의 외야수 변신 소식을 전했다.",
-      "전반기 막바지 김민석과 ‘트레이드."
-    ],
-    "chips": [
-      "#KBO",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb867b737",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "50분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/16/MQZDKZBSMUZDMNZYMY3WKMBVGA/",
-    "title": "\"올해 최악의 판정\" 송성문 챌린지 요청 무시 심판, 美 십자포화…그런데 이게 처음이 아니다?",
-    "summary": [
-      "[스포츠조선 박상경 기자] 반복되는 실수, 어떻게 봐야 할까.",
-      "송성문(샌디에이고 파드리스)의 챌린지 요청을 무시했던 젠 파월 심판에 대한 비난이 거세지고 있다.",
-      "파월 심판은 지난 13일(이하 한국시각) 미국 캘리포니아주 샌디에이고의 펫코 파크에서 펼쳐진 토론토 블루제이스-샌디에이고전에서 2회말 1사 만루 3B에서 송성문의 ABS챌린지 요청을 묵살했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd382ee21",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "54분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003710519",
-    "title": "\"아르헨티나 월드컵 퇴출하라\"…'특혜 판정' 청원에 930만명 서명",
-    "summary": [
-      "[서울=뉴시스]김수빈 인턴 기자 = 아르헨티나 축구대표팀이 국제축구연맹(FIFA)과 심판진으로부터 특혜를 받고 있다는 주장이 확산하면서 월드컵 퇴출 청원에 수백만명이 참여했다.",
-      "지난 14일(한국 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 비공식 청원 사이트 '아르헨티나아웃'(argentinaout.com)에 게시된 아르헨티나의 월드컵 퇴출 청원에 600만명 이상이 서명했다.",
-      "청원은 이후에도 빠르게 확산해 15일 오후 4시10분 기준."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n91bd9e79",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "56분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716002100072",
-    "title": "AI발 증시랠리에 블랙록 운용자산 15조달러 돌파",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 세계 최대 자산운용사인 블랙록의 운용자산 규모가 2분기 글로벌 증시 랠리와 신규 투자자금 유입에 힘입어 15..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "n77f9f5f7",
     "category": "경제",
     "source": "아시아경제",
-    "time": "59분 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026071500055260285",
     "title": "'애국 테마'로 주가 뜬 모나미·에넥스…반짝 급등 넘을까",
     "summary": [
       "한성기업발 '애국 매수'가 모나미와 에넥스 등 다른 토종 장수기업으로 옮겨붙는 모양새다.",
       "이달부터 상장 유지 기준이 강화되면서 상장폐지가 우려되는 기업들을 살리자는 움직임이 확산하며 주가를 끌어올린 것으로 풀이된다.",
       "다만 경영상 호재가 없는 단기적 급등인 만큼 이번 매수세를 실적 개선과 펀더멘털 강화로 이어갈 수 있을지가 관건이 될 전망이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3e9c629",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607167977i",
-    "title": "워런버핏,\"최근 증시,투자보다 도박에 가까워져\"비판",
-    "summary": [
-      "워런버핏,\"최근 증시,투자보다 도박에 가까워져\"비판."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9fb378cf",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/world/2026/07/16/2026071600363436012",
-    "title": "'서머타임 상시화' 美 하원 통과…확정 땐 한미 시차 '13시간 고정'",
-    "summary": [
-      "'서머타임'으로 불리는 일광절약시간제를 연중 내내 상시화하는 법안이 미국 연방의회 하원을 통과했다.",
-      "15일(현지시간) 미 하원에 따르면 일광절약시간제를 상시화하기 위한 '일광보호법안'이 찬성 308표, 반대 117표로 전날 가결됐다.",
-      "일광절약시간제는 해가 일찍 뜨는 여름철에 낮 시간 햇빛을 더 많이 활용해 에너지를 절약하고 야외 활동을 장려하자는 취지로 표준시간대보다 시간을 앞당기는 제도다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nfaac4f65",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607167971i",
-    "title": "다이먼,\"필라델피아 해군조선 부활위해 357억지원\"",
-    "summary": [
-      "다이먼,\"필라델피아 해군조선 부활위해 357억지원\"."
     ],
     "chips": [
       "#뉴스"
@@ -649,14 +649,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
