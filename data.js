@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-16 18:22:26
+// 마지막 업데이트: 2026-07-16 19:26:35
 window.NEWS_DB = [
   {
     "id": "nb4fe9e9c",
     "category": "경제",
     "source": "베타뉴스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nX0NGRE52elNDRk90R2loSHhLdWJFdDhEaVZPZTZ3ekNEUDJpQ0szUF9vSWZ2WTVKNURGN0RvT2M5WWZyVUpleGZEemJGSDhrOGhpVW9lRC1kQkpOMU13Tkh1TXI?oc=5",
     "title": "원·달러 환율, '한은 금리인상·美 물가 둔화'에 장중 1470원대 진입...두 달 만에 최저",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n0b00ae31",
     "category": "IT",
     "source": "코리아포스트 한글판",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mSmJEY29mcnhLdkFZUmE1bnJlOG5IM0pvVmNVMGJ4enMyUWc1dW1JMk5tVHQyaFE2c0d2YW5CZXEzdVlOb3ZZRDBCaXQwdzF4VTh6TVhsMHE2eHB0VVpvLTBOY3pwaXg0LVFiem9R?oc=5",
     "title": "[글로벌 이슈 &분석] TSMC, AI 슈퍼사이클 타고 사상 최대 실적…한국 반도체에도 '훈풍' 이어질까",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n57d17333",
     "category": "IT",
     "source": "OBC 더원방송",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jUzhicURaNWZ5dkt2dTZqS2RkYXdCSEg3Zm5CaU1GNFNRZ3RvVko0dGplckhnNmYwd3NxOTBfWVRyaHRnRkNsdmhWZWRSaTF4S3dpVGF0a19VLWFoY2hkV2JHbDd4RlFt?oc=5",
     "title": "TSMC 2Q 순익, 77%↑ 질주...삼성·하이닉스와 비교",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n5868a989",
     "category": "IT",
     "source": "초이스스탁",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
@@ -183,6 +183,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n04ff92de",
+    "category": "사회",
+    "source": "v.daum.net",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rMVM4WE5iYkc3YUMwYk9QZnU4S2xRMVJISjRpQ1Nub0V0VHo4NWhfQjNfRXN5V3kyMDdGR3o3UUN5M3pOYzlLVDhBbHBzdVRWWDBGXw?oc=5",
+    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
+    "summary": [
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
@@ -196,21 +212,6 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
-    ]
-  },
-  {
-    "id": "n2aad78a4",
-    "category": "사회",
-    "source": "스포츠동아",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
-    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
-    "summary": [
-      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 스포츠동아."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -317,10 +318,229 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nafba8e40",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/17/2026071704111540484",
+    "title": "마이크론, 현대모비스 등과 車반도체 장기공급 계약",
+    "summary": [
+      "미국의 메모리반도체 제조업체 마이크론이 퀄컴·현대모비스 등과 차량용 인공지능(AI) 반도체 장기공급을 위한 전략고객협약을 맺었다고 16일(현지시간) 밝혔다.",
+      "협약에는 현대모비스와 삼성전자의 오디오 부문 자회사 하만 등이 참여했다.",
+      "통신 칩 업체 퀄컴과 비스테온, 조이넥스트, 덴소, 아스테모 등도 동참했다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nc1e62304",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/17/2026071703591849381",
+    "title": "'외도·폭행' 남편 \"아내가 고의로 자극…이혼 증거 수집 이유\"",
+    "summary": [
+      "결혼생활 중 여러 차례 외도, 폭행을 저지른 남편이 아내가 이혼 증거 수집을 이유로 일부러 자신을 자극했다고 주장했다.",
+      "16일 방영된 JTBC '이혼 숙려 캠프' 92화에서는 '진실 공방' 부부의 심리 생리 검사 결과가 발표됐다.",
+      "이날 서장훈은 부부의 검사 결과 발표에 앞서 \"이렇게 직접적으로 진실 공방을 다뤄본 적이 없다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n635a307e",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026071704115407943",
+    "title": "캔자스시티 연은 총재 \"물가 여전히 높아…금리 결정 초점은 인플레\"",
+    "summary": [
+      "제프 슈미드 미국 캔자스시티 연방준비은행(연은) 총재가 인플레이션이 여전히 지나치게 높고 연방준비제도(Fed)의 목표 수준을 너무 오랫동안 웃돌고 있다며 물가 안정이 통화정책의 최우선 과제라고 강조했다.",
+      "또 6월 소비자물가와 생산자물가가 시장 예상보다 낮게 나왔지만, 이를 물가 둔화 추세의 시작으로 판단하기에는 이르다고 경계했다.",
+      "슈미드 총재는 16일(현지시간) 네브래스카에서 캔자스시티 Fed가 개최한 경제 포럼에."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n70680f4c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/17/MY4WCNTFHA3WKOBRHA4DEMTBGI/",
+    "title": "이보다 더 좋을 수 없는 후반기 출발, 오랜만에 웃은 이숭용 감독 “최정 대기록 진심으로 축하”",
+    "summary": [
+      "[OSEN=인천, 길준영 기자] 프로야구 SSG 랜더스 이숭용 감독이 후반기 첫 경기를 승리로 장식하며 기뻐했다.",
+      "SSG는 16일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ KIA 타이거즈와의 경기에서 6-0 완승을 거두고 2연패에서 탈출했다.",
+      "외국인투수 앤서니 베니지아노의 교체 외국인투수로 SSG에 입단한 선발투수 페드."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n85f26f40",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260717004700071",
+    "title": "美중부사령부, 엿새째 이란 야간 공습…\"군사력 추가 약화\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미군 중부사령부는 16일(현지시간) 이란을 겨냥해 추가 공습을 단행했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n14934173",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/16/GQZGKNZSGM4GGYJWMJSDQYZVGY/",
+    "title": "‘최정 11시즌 연속 20홈런+아빌라 데뷔전 승리’ SSG, KIA 6-0 완파…2연패 탈출 [인천 리뷰]",
+    "summary": [
+      "[OSEN=인천, 길준영 기자] 프로야구 SSG 랜더스가 새 외국인투수 페드로 아빌라, 프랜차이즈 스타 최정의 활약을 앞세워 후반기를 기분좋게 시작했다.",
+      "SSG는 16일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ KIA 타이거즈와의 경기에서 6-0으로 승리했다.",
+      "이날 승리로 2연패를 끊는데 성공했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd4f3b446",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003712867",
+    "title": "대구·경북 흐리고 최고 60㎜ 비…낮 최고 27~32도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 17일 대구·경북은 대체로 흐리고 비가 내릴 것으로 예상된다.",
+      "대구지방기상청은 이날 \"대구·경북은 대체로 흐리고 20~60㎜의 비가 내리겠다\"고 예보했다.",
+      "아침 최저기온은 20~24도(평년 18~22도), 낮 최고기온은 27~32도(평년 26~31도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n130d20fd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716206051009",
+    "title": "트럼프 \"이란, 억류 미국인 출국 허용\"…이란은 부인(종합)",
+    "summary": [
+      "(카이로·서울=연합뉴스) 김상훈 특파원 임수정 기자 = 도널드 트럼프 미국 대통령이 15일(현지시간) 이란에 억류됐던 미국인 1명이 풀려난 사실..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1c170546",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713098",
+    "title": "美, 이란 호르모즈간주 일대 추가 공습…이란 \"주권 수호에 全 역량 동원\"",
+    "summary": [
+      "[테헤란·두바이=신화·AP/뉴시스] 이재준 기자 = 미국이 이란에 대한 공격을 확대하는 가운데 남부 호르모즈간주에 추가 공습을 감행했다고 반관영 메흐르 통신이 16일(현지시간) 보도했다.",
+      "이란 반관영 메흐르 통신은 이날 오후 6시10분(한국시간 11시40분)께 미군 발사체가 남부 호르모즈간주 케슘 지역을 타격했다고 전했다.",
+      "통신은 초동 조사가 끝나는 대로 구체적인 상황을 공개하겠다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7d56a665",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260717004400071",
+    "title": "美예측시장 베팅범 잡고 봤더니…\"트럼프 연설원고 담당자\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 예측시장에서 정부의 미공개 정보를 이용해 돈을 번 사람 중 한 명이 도널드 트럼프 대통령의 연설 원고..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne674cbc3",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "30분 전",
+    "url": "https://view.asiae.co.kr/article/2026071703555503009",
+    "title": "트럼프 '강력 지지' 15%로 최저…핵심 지지층 결집 약화",
+    "summary": [
+      "도널드 트럼프 미국 대통령의 국정운영 지지율이 30%대에 머문 가운데 트럼프 대통령을 '강력하게 지지한다'는 응답이 역대 최저 수준으로 떨어졌다는 여론조사 결과가 나왔다.",
+      "전체 지지율에는 큰 변화가 없었지만, 트럼프 대통령의 핵심 정치적 기반인 강성 지지층의 결집력이 약화하고 있다는 분석이 나온다.",
+      "16일(현지시간) 워싱턴포스트(WP)에 따르면 WP와 여론조사기관 입소스가 지난 8~13일 미국 성인 2648명을 조사한 결과."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc26195c0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260717004600108",
+    "title": "러 외무부 \"한국, 나토로 점점 더 기울어…심각한 우려\"",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 러시아 외무부는 16일(현지시간) \"한국이 북대서양조약기구(NATO·나토) 쪽으로 점점 더 기우는 것에 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n22119c3e",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "43분 전",
+    "url": "https://view.asiae.co.kr/article/2026071703432699856",
+    "title": "美, 유학생 체류 최장 4년으로 제한…기존 체류자도 시행일부터 적용",
+    "summary": [
+      "도널드 트럼프 미국 행정부가 외국인 유학생과 교환방문자의 미국 체류 기간을 최대 4년으로 제한하는 규정을 확정했다.",
+      "이미 미국에서 공부하고 있는 유학생에게도 새 제도가 적용된다.",
+      "미 국토안보부(DHS)는 16일(현지시간) F비자 유학생과 J비자 교환방문자, I비자 외국 언론인의 체류 허가 방식을 기존의 '신분 유지 기간'에서 일정한 만료일이 있는 고정 체류 기간 방식으로 전환하는 최종 규정을 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naa1f032b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "44분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260717/134315754/1",
+    "title": "李대통령 “의료개혁 조용히 잘 진행”…정은경 “의정갈등 교훈”",
+    "summary": [
+      "이재명 대통령이 정부의 의료개혁 추진 상황을 긍정적으로 평가했다.",
+      "정은경 보건복지부 장관은 과거 의정갈등의 교훈을 바탕으로 충분한 소통을 통해 의대 정원 확대를 결정했다고 설명했다.이 대통령은 16일 청와대 영빈관에서 열린 보건복지부 업무보고에서 정 장관에게 “의료개혁은 지금 별 무리 없이 잘 진행되고 있느냐”고 물었다.정 장관은 “현재 지역·필수·공공의료 개혁 방안을 만들어 분야별로 하나씩 추진하고 있다”고 답했다.정부는 의대 정원을 연평균."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
     "id": "nadb1df95",
     "category": "경제",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "56분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153474",
     "title": "단일종목 레버리지 신규 출시 잠정 중단…기본예탁금 3000만원으로 상향",
     "summary": [
@@ -332,38 +552,40 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbafa24e3",
+    "id": "n8e6d32d4",
     "category": "사회",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/17/XSMN5EYRHVDKBIDUEAHZRHZC4Y/",
-    "title": "트럼프, 또 ‘부정선거’ 꺼내나...“제발 경제만” 공화당 전전긍긍",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/international/us/2026/07/17/X4PNXFE4CZCY3AOPEVRID3ZEKE/",
+    "title": "이란 문제를 어찌할까… 美상원의원 “최근 20년 內 가장 큰 외교 재앙”",
     "summary": [
-      "트럼프, 또 ‘부정선거’ 꺼내나...“제발 경제만” 공화당 전전긍긍."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n182ddd42",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716213252071",
-    "title": "美, 유학생 비자 4년 제한…체류 韓학생·가족 1만3천명 영향 파장(종합2보)",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 행정부가 미국으로 공부하러 오는 유학생들의 체류 기간을 4년으로 제한했다."
+      "이란 문제를 어찌할까… 美상원의원 “최근 20년 內 가장 큰 외교 재앙”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n05639e37",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713097",
+    "title": "트럼프 연설문 표출 담당자, 내부 정보 이용 의혹 조사",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령 연설문 화면 표출(프롬프터)을 담당해온 백악관 직원이 내부 정보를 이용해 1억원이 넘는 수익을 벌어들인 혐의로 조사를 받고 있는 것으로 드러났다.",
+      "ABC방송은 16일(현지 시간) 소식통을 인용해 대통령 프롬프터 운영자 개브리얼 페레즈가 상품선물거래위원회(CFTC) 조사를 받고 있다고 보도했다.",
+      "페레즈는 2016년 대선 캠페인 때부터 트럼프 대통령 연설문 프롬프터 운영을 담당해온 보좌."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nc6b6b8c1",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/07/17/2026071610471146787",
     "title": "스페인 vs 아르헨 결승전은 '라마시아 더비' [이종성의 스포츠 문화&산업]",
     "summary": [
@@ -379,7 +601,7 @@ window.NEWS_DB = [
     "id": "n8be784c0",
     "category": "IT",
     "source": "머니투데이",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/stock/2026/07/17/2026071615500472269",
     "title": "\"다시 뛰어도 내 계좌는 녹았다\"…삼전닉스 '2배 레버리지'의 배신?[부꾸미]",
     "summary": [
@@ -394,52 +616,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5edb4372",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/07/17/KQV2X4QOGJHTTGKS44LPXEC3VM/",
-    "title": "[45화] “상산 태생으로 이름은 조자룡이라 합니다”",
-    "summary": [
-      "[45화] “상산 태생으로 이름은 조자룡이라 합니다”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n66425981",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/sports/2026/07/17/XMCKY3FA45H7ZMHTTZZL3PZJQ4/",
-    "title": "25년째 하루도 안 거르고 카드 복기한다… 극한의 두뇌 스포츠 82세 ‘브리지’ 현역",
-    "summary": [
-      "25년째 하루도 안 거르고 카드 복기한다… 극한의 두뇌 스포츠 82세 ‘브리지’ 현역."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf4b9e675",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/international/2026/07/17/55MCXMDLOFC7ZOZYW4FFJKHCPI/",
-    "title": "단호한 美사령관 “한국 포병 승진 대상없어”... 백선엽 “못미더우면 시험보자” 역제안",
-    "summary": [
-      "단호한 美사령관 “한국 포병 승진 대상없어”... 백선엽 “못미더우면 시험보자” 역제안."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n9707bccc",
     "category": "사회",
     "source": "뉴시스",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260717_0003713096",
     "title": "브라질 \"미국 25% 관세 부과에 맞대응 조치\" 경고",
     "summary": [
@@ -453,26 +633,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd1317dec",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "26분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/17/2026071702162269695",
-    "title": "최정 마지막 목표 밝혔다 \"600홈런 치면 후회 없이 유니폼 벗을 수 있을 것\" [현장 인터뷰]",
-    "summary": [
-      "\"600홈런 치면 후회 없이 유니폼 벗을 것 같아요.\" KBO리그 홈런 역사의 '살아 있는 전설' 최정(39·SSG 랜더스)이 선수 생활의 마지막 목표를 밝혔다.",
-      "바로 개인 통산 600홈런이다.",
-      "최정은 16일 인천 SSG랜더스필드에서 열린 KIA 타이거즈와 경기를 마친 뒤 취재진과 만나 \"600홈런을 치고 싶은 마음이 좀더 많이 커졌다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "ne39043c0",
     "category": "사회",
     "source": "동아일보",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134315744/1",
     "title": "‘가족관계증명서’ 한고은 vs 임지은, 물 끼얹으며 갈등 폭발",
     "summary": [
@@ -482,157 +646,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n59235e64",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134315741/1",
-    "title": "배나라♥한재아, 공개 열애 끝에 결혼…“정확한 시기는 미정”",
-    "summary": [
-      "배우 배나라(35)와 한재아(33)가 공개 열애 끝에 화촉을 밝힌다.",
-      "16일 배나라의 소속사 YY엔터테인먼트 관계자는 뉴스1에 두 사람이 결혼을 결심하고 준비 중이라면서 “정확한 시기는 미정”이라고 밝혔다.",
-      "배나라와 한재아는 뮤지컬 ‘그리스’ 등을 함께하며 동료 배우에서 연인 사이로 발전했고 오랜 시간 조용히 예쁜 사랑을 키워왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc2e0c134",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "34분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134315737/1",
-    "title": "‘편스토랑’ 추사랑, 야노시호 향한 진심…“엄마는 내 롤모델” 눈물",
-    "summary": [
-      "‘신상출시 편스토랑’ 추사랑이 엄마 야노 시호를 향한 진심을 전하며 눈물을 흘렸다.16일 오후 방송된 KBS2 예능 프로그램 ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 편셰프 야노 시호와 딸 추사랑의 이야기가 담겼다.훌쩍 자란 추사랑이 한국을 찾아 반가움을 안긴 가운데, 만 14세인 추사랑은 최근 사춘기로 예민한 모습으로 야노 시호를 걱정하게 했다.",
-      "추사랑은 학업 스트레스를 토로하며 눈물을 보이기도.",
-      "이에 야노 시호가 딸을 위한 ‘사춘기 파."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd6ce47f6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "34분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134315733/1",
-    "title": "‘언더커버’ 샘킴, 잡채 만들어 극찬…“한식 기준 높아져”",
-    "summary": [
-      "샘 킴이 만든 잡채에 극찬이 쏟아졌다.16일 오후 방송된 tvN 예능 프로그램 ‘언더커버 셰프’에서는 샘 킴, 정지선, 권성준 등 ‘톱 셰프’들이 계급장을 떼고 위장 취업한 해외 식당에서 주방 막내로 활약했다.이날 샘 킴이 직원들을 위한 요리로 한식 메뉴 잡채를 준비했다.",
-      "재료 손질부터 소스 등 요리 과정이 기존 요리법과 달랐지만, 뜻밖의 극찬을 받아 MC 김풍과 다른 셰프들을 놀라게 했다.루크레치아에 이어 메인 셰프 잔피에트로가 한입 크게 맛."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "nd4587019",
-    "category": "IT",
-    "source": "테크M",
-    "time": "36분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153472",
-    "title": "[테크M 이슈] 우버 품에 안기는 '배민'...'슈퍼앱' 시너지로 시장 판도 흔들까",
-    "summary": [
-      "글로벌 모빌리티 플랫폼 우버가 딜리버리 히어로 인수를 공식화하면서 국내 배달앱 시장에서의 변화가 감지된다.",
-      "딜리버리 히어로는 배달의민족(배민)을 서비스하는 우아한형제들의 모회사다.",
-      "인수가 마무리될 경우 우아한형제들은 우버의 손자회사가 된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n25ad5617",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717002800079",
-    "title": "이란매체 \"美, 남부 게슘섬·반다르아바스 공습…UAE 드론 동원\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란의 무력 충돌 엿새째인 16일 오후(이하 현지시간) 미군이 호르무즈 해협 인근 이란 남부 지역을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd3f254f0",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "54분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717002500098",
-    "title": "EU \"구글, 경쟁 AI·검색엔진에 안드로이드 핵심기능 개방하라\"",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 구글은 1년 내로 안드로이드 운영체계를 경쟁사들이 개발한 인공지능(AI) 비서와 호환되도록 개방하고 6개월..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ncbf8bd7b",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153466",
-    "title": "[카드뉴스] 삼성전자가 OLED에 진심인 이유, 게임은 이제 '플레이'보다 '경험'의 시대입니다",
-    "summary": [
-      "예전에는 게임 성능을 높이려면 그래픽카드를 먼저 업그레이드했습니다.",
-      "하지만 게임이 영화처럼 진화한 지금은 이야기가 달라졌습니다.",
-      "실시간 레이트레이싱과 4K 그래픽, HDR, 시네마틱 연출까지 담아내는 시대가 되면서 '얼마나 잘 보여주느냐'가 새로운 경쟁력이 되고 있습니다.삼성전자는 오디세이 OLED G8을 통해 게임의 성능이 아닌 게임경험을 한 단계 끌어올리는 변화에 주목하고 있습니다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n9c544f73",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153469",
-    "title": "침해사고 전문가 한자리에...KISA·플레인비트, 상반기 사고 공유 세미나 연다",
-    "summary": [
-      "한국인터넷진흥원(KISA)이 디지털 포렌식 기업 플레인비트와 함께 상반기 침해사고를 조명한다.KISA는 오는 22일 서울 강남구 한국과학기술회관에서 '2026년 상반기 침해사고 정보공유 세미나'를 연다고 16일 밝혔다.",
-      "이번 세미나는 올해 상반기 발생한 주요 침해사고 사례를 공유하고 고도화되는 사이버 위협과 이에 따른 민·관·학 대응 전략을 논의하기 위해 마련됐다.행사는 디지털 포렌식 및 침해사고 대응 기업 플레인비트가 주관해 기업 보안 담당자."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n58f56cbe",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713094",
-    "title": "후티반군 \"사우디, 예멘 공격 가담하면 석유시설 타격\" 경고",
-    "summary": [
-      "[사나=신화/뉴시스] 이재준 기자 = 예멘 친이란 반군 후티(안사르 알라) 반군 지도자 압둘말리크 알후티는 16일(현지시간) 사우디아라비아가 예멘에 대한 '전면적 공격(확전)'에 가담할 경우 사우디의 석유시설과 주요 기반시설을 미사일과 드론으로 공격하겠다고 경고했다.",
-      "알후티는 이날 후티반군이 운영하는 알마시라 TV 연설에서 사우디가 긴장 완화 과정에서 약속한 사항을 저버렸으며 예멘 국민의 석유 자원 이용과 이동의 자유를 계속 제한하고 있다고 비."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n22efbfb2",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717002600091",
-    "title": "\"트럼프, 빅테크 주식 매입 직후 SNS 홍보 반복…이해충돌 논란\"",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 도널드 트럼프 미국 대통령이 거대 기술기업 등 20여 회사의 주식을 매입한 직후 사회관계망서비스(SN..."
-    ],
-    "chips": [
-      "#정치"
-    ]
   }
 ];
 
@@ -641,20 +654,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "정치",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
