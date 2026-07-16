@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-16 09:39:02
+// 마지막 업데이트: 2026-07-16 10:37:33
 window.NEWS_DB = [
+  {
+    "id": "nb4fe9e9c",
+    "category": "경제",
+    "source": "베타뉴스",
+    "time": "41분 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nX0NGRE52elNDRk90R2loSHhLdWJFdDhEaVZPZTZ3ekNEUDJpQ0szUF9vSWZ2WTVKNURGN0RvT2M5WWZyVUpleGZEemJGSDhrOGhpVW9lRC1kQkpOMU13Tkh1TXI?oc=5",
+    "title": "원·달러 환율, '한은 금리인상·美 물가 둔화'에 장중 1470원대 진입...두 달 만에 최저",
+    "summary": [
+      "원·달러 환율, '한은 금리인상·美 물가 둔화'에 장중 1470원대 진입...두 달 만에 최저 베타뉴스."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
   {
     "id": "n0b00ae31",
     "category": "IT",
     "source": "코리아포스트 한글판",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mSmJEY29mcnhLdkFZUmE1bnJlOG5IM0pvVmNVMGJ4enMyUWc1dW1JMk5tVHQyaFE2c0d2YW5CZXEzdVlOb3ZZRDBCaXQwdzF4VTh6TVhsMHE2eHB0VVpvLTBOY3pwaXg0LVFiem9R?oc=5",
     "title": "[글로벌 이슈 &분석] TSMC, AI 슈퍼사이클 타고 사상 최대 실적…한국 반도체에도 '훈풍' 이어질까",
     "summary": [
@@ -14,21 +29,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#반도체"
-    ]
-  },
-  {
-    "id": "n110aa087",
-    "category": "경제",
-    "source": "MSN",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxPWUI2QUhXd2s1MUhxRjh3VzFxREY2TWZ6eHA0ODViczh6MjlQNDRfUU5lbFRwZ1FPWVdYcG5lMk9xa01fOWdFNjM1cW84RmZXMGJER3J4a2V3ZTRjS1BpREVVVnA0S1FrWG9POWg3azgwNFdoRHkwdXU1dzE3cklxaERzcmdfdk95TnBhZkNYeF9Oa25wc193bHJYVGo4VGFheFhLSDl1dFlfZFpqOFJRcTRPd2xUM09rS2FOdHlJMVFYNDlsTTFtSnRwMk44bjZ2U3lpcmhxVUNUSWFVa0RYa2lOa084ZXpDb015S2xUbzAwc19mQ1RXWDNiVkEyeTN1XzVyOVAwb21lb0toZHZBOFAyd0JfZHNPWDBRTFZqVFVvYXp5dFg3MmFja3FlaXl0UHpZUF9pRmtxaGNrc2RXbGpkNDZIa25CNjBrelVQZ1ZXRURfWk5HWHU2SHVEZWN2NFQ4UnNLZnF4NDZWdDAwZ2NvZHlFVUJ5TWtkb3lweG1BNWRTRE9QR2tveWxEcXA1aEJZRGNfc3RnQ3lZR3hqbllsa3lfcW9pay00ckU4SGJNLUFMSjhkNjFQWExEeFhrRnVCOVlQUHM2dTdsdlVJamltb3NlTENCVm5CZnZJcnd6VkZTRDF2WW9KOWtFZXZKZVhmbHNxODNULUM5MkphQm1sQ2JENkd6a1d5OGV6VTQ3MHZ2ZXNJb0hLSGNWVTNLTE94U2FpLV93RVI4eHBCNEZqMERVQzFvUmxEN2owcW1tOHB1M1ozODhB?oc=5",
-    "title": "한국은행 내일 금리 인상, 결국 증시 이렇게 된다 | 신얼 상상인증권 팀장 | 전략 인사이드",
-    "summary": [
-      "한국은행 내일 금리 인상, 결국 증시 이렇게 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 MSN."
-    ],
-    "chips": [
-      "#금리",
-      "#한은"
     ]
   },
   {
@@ -94,12 +94,12 @@ window.NEWS_DB = [
   {
     "id": "n2af0d2c1",
     "category": "IT",
-    "source": "초이스스탁US",
+    "source": "초이스스탁",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMjM0Wm1rYS1IU2l3b0tHSnpLZUl0alJTXzdobTNNT0ZuUnhxTk03ZjFxem1fREpLcTZ3MkNjQ1doQWtOVlBhR2ItWUNweWlGMEZ2VVNYbG90WEdkUjlZaUEteDRzWWc?oc=5",
     "title": "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀",
     "summary": [
-      "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀 초이스스탁US."
+      "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀 초이스스탁."
     ],
     "chips": [
       "#AI",
@@ -185,12 +185,12 @@ window.NEWS_DB = [
   {
     "id": "n2aad78a4",
     "category": "사회",
-    "source": "sports.donga.com",
+    "source": "스포츠동아",
     "time": "20일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
-      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 sports.donga.com."
+      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 스포츠동아."
     ],
     "chips": [
       "#취업",
@@ -377,263 +377,254 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5d05f19b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026071618023590174",
-    "title": "北, 올해도 ARF 불참할 듯…정부 \"한반도 평화·비핵화 공감대 이끌 것\"",
-    "summary": [
-      "북한이 지난해에 이어 올해도 아세안지역안보포럼(ARF)에 불참할 가능성이 큰 것으로 알려졌다.",
-      "정부는 북한의 참석 여부와 관계없이 ARF에서 한반도 평화공존 정책과 북한 비핵화에 대한 국제사회의 공감대 확보에 나설 방침이다.",
-      "외교부 당국자는 16일 정부서울청사에서 취재진에게 \"정부의 한반도 정책, 북한과의 평화공존, 상생 공동에 대한 공감대를 이끌어내기 위해 (아세안 측에) 계속 설명하고 있다\"고 전했다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "na179b05d",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712702",
-    "title": "'메이저 2연승' 유해란 \"새 목표는 2년 뒤 LA 올림픽 금메달\"",
-    "summary": [
-      "[서울=뉴시스]안경남 기자 = 여자 골프 메이저대회를 2회 연속 제패한 유해란이 새로운 목표를 2년 뒤 올림픽 금메달로 잡았다.",
-      "유해란은 16일 서울 영등포구 콘래드 서울에서 열린 기자회견에서 \"KPMG 여자 PGA 챔피언십 전에는 메이저 우승을 해야 한다는 부담이 있었지만, 이 대회 우승 이후 부담감을 덜어 에비앙 대회에서 또 우승할 수 있었던 것 같다\"며 말했다.",
-      "이어 \"이제 대회에 나가면 티오프 전 대회 아나운서로부터 메이저 챔피언이라는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na8f0f746",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026071618372965696",
-    "title": "국교위, 중학교 근현대사 비중 30%로 확대 추진",
-    "summary": [
-      "국가교육위원회가 중학교 역사 과목 중 근현대사 비중을 현행 20%에서 30%로 확대하는 방안을 추진한다.",
-      "국교위는 16일 정부서울청사에서 열린 제7차 회의에서 교육부가 요청한 '중·고등학교 역사 관련 2022 개정 교육과정 개정' 안건을 재심의하고 이같이 결정했다.",
-      "이날 회의에서 상임위원 표결 결과, 근현대사 비중 20→30% 확대 안건은 상임위원 찬성 13명, 반대 4명, 기권 2명으로 의결됐다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne8153e7a",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712927",
-    "title": "브렌트유, 배럴당 1달러 상승 후 60센트 하락세 유지중…84달러 대",
-    "summary": [
-      "[서울=뉴시스] 김재영 기자 = 국제 유가가 호르무즈 해협 불안에도 16일 약하나마 하락세를 보이고 있다.",
-      "브렌트유 9월 인도분 선물가는 이날 런던 이른 오전 장에 0.7% 정도 떨어져 배럴당 84.37달러에 거래되었다.",
-      "미국의 텍사스서부유도 15센트 내린 배럴당 79.45달러를 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n65bea5c3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712942",
-    "title": "개미에 문턱 높인 '삼전닉스 레버리지' 어떻게 바뀌나…\"변동성 완화 한계\" 지적도",
-    "summary": [
-      "[서울=뉴시스]김민수 기자 = 정부가 단일종목 레버리지 상장지수펀드(ETF) 투자 문턱을 높였다.",
-      "최소 3000만원의 현금을 계좌에 예치해야 하고 1주씩 거래하던 방식도 20주 단위로 바뀐다.",
-      "시장에서는 신규 투자 수요를 억제하는 효과는 있겠지만 변동성까지 완화하기에는 한계가 있다는 반응이 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n88c56dda",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026071618344657699",
-    "title": "인하대, 항공우주·AI 초광역 인재양성 생태계 구축 나선다",
-    "summary": [
-      "인하대학교는 15일 인천 항공우주산학융합원에서 열린 '제2회 인천-제주 초광역 협력 기반 A2CL Summit'에 참여해 항공우주·인공지능 분야의 초광역 인재양성과 지역정주 생태계 구축 방안을 논의했다고 16일 밝혔다.",
-      "A2CL은 'Aerospace & AI Career Ladder'의 약자로, 항공우주(Aerospace)와 인공지능(AI) 분야의 교육, 경력개발, 취업, 재직자 역량 강화와 지역정주를 단계적으로 연결하는 초광역 인재성장 모델이."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc27f700a",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026071508155196200",
-    "title": "권익위 \"집단민원 해결·입찰비리 엄단\"…하반기 역점과제",
-    "summary": [
-      "국민권익위원회가 하반기 중 장기화한 집단·특이민원을 해결하고 입찰 비리, 수당 부당지급 등 구조적 부패 행위에 엄정 대응하겠다고 밝혔다.",
-      "국민권익위원회는 16일 이재명 대통령이 참석한 가운데 합동 업무보고를 실시하고 이 같은 내용을 골자로 한 하반기 4대 역점과제를 발표했다.",
-      "하반기 정책 방향을 ▲권익 보호를 통한 국민 삶의 질 개선 ▲국민 눈높이에 맞는 정상사회 구현으로 정했다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n18ec487b",
+    "id": "n4759ba9f",
     "category": "사회",
     "source": "뉴시스",
     "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712948",
-    "title": "탈진했던 멸종위기 '황금박쥐' 치료 후 제주 만장굴 방사",
+    "url": "https://www.newsis.com/view/NISX20260716_0003712984",
+    "title": "\"레버리지 ETF 책임자는 금융위…상장폐지는 요건 맞지 않아\"[일문일답]",
     "summary": [
-      "[제주=뉴시스] 김수환 기자 = 제주에서 탈진 상태로 발견된 멸종위기 야생생물 붉은박쥐가 치료를 마치고 원래 서식지인 만장굴로 돌아갔다.",
-      "제주야생동물구조센터는 전날 구조한 붉은박쥐(일명 황금박쥐) 1개체를 치료한 뒤 비행 능력이 회복된 것을 확인하고 16일 제주시 구좌읍 만장굴 일원에 방사했다고 16일 밝혔다.",
-      "센터 정밀진료 결과 해당 개체에서는 외상이나 골절 등 특별한 부상은 확인되지 않았으며 탈진 증세가 심한 상태로 확인됐다."
+      "[서울=뉴시스]이지민 최홍 기자 = 정부가 단일종목 레버리지 상장지수펀드(ETF) 출시 50일 만에 제도 보완책을 발표했다.",
+      "투자자 기본 예탁금은 기존 1000만원에서 3000만원으로 상향되고, 오직 현금으로만 가능해진다.",
+      "기본 매수 단위로 20좌로 확대된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8f7cd413",
+    "id": "n2636f47f",
     "category": "경제",
     "source": "한국경제",
-    "time": "5분 전",
-    "url": "https://www.hankyung.com/article/2026071602101",
-    "title": "메모리 휘청이자 코스피 '뚝'…7천피, 하루 만에 무너졌다",
+    "time": "3분 전",
+    "url": "https://www.hankyung.com/article/202607157942H",
+    "title": "양홍석 변호사 \"보완수사 폐지 부작용, 10월 2일 바로 온다\" [인터뷰+]",
     "summary": [
-      "메모리 휘청이자 코스피 '뚝'…7천피, 하루 만에 무너졌다."
+      "양홍석 변호사 \"보완수사 폐지 부작용, 10월 2일 바로 온다\" [인터뷰+]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "neab92227",
+    "id": "n820dc295",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003712682",
+    "title": "조선총독부 지하 비밀 공간…14㎝ 철문 뒤 정체는",
+    "summary": [
+      "[서울=뉴시스]전재경 기자 = 조선총독부 건물 해체 과정의 비화가 공개된다.",
+      "16일 오후 10시20분 방송되는 SBS TV '꼬리에 꼬리를 무는 그날 이야기'는 '1995 파괴의 그날' 편으로 꾸며진다.",
+      "가수 신지와 강균성, 코미디언 박소라가 이야기 친구로 출연한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n94c3129b",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260716/134314539/1",
-    "title": "제헌절 남부 최대 80㎜…토요일 중부엔 200㎜ 폭우 쏟아진다",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003712969",
+    "title": "'NBA 도전' 이현중, 서머리그 개인 최다 22득점 폭발",
     "summary": [
-      "제헌절인 17일 충청권과 남부지방을 중심으로 장맛비가 이어지다가 밤부터 수도권으로 확대되겠다.",
-      "토요일인 18일에는 전국에 비가 내리는 가운데 경기 남부와 충남 북부를 중심으로 200㎜ 이상의 폭우가 예보됐다.",
-      "비는 주말 내내 이어진 뒤 다음주 월요일인 20일 오전 중부지방, 저녁까지 남부지방에 내리겠다.기상청에 따르면 17일 중국 발해만 부근에서 동쪽으로 이동하는 고기압 가장자리에 들겠으나, 충청권과 남부지방, 제주는 정체전선의 영향을 받아 비."
+      "[서울=뉴시스]김희준 기자 = 미국프로농구(NBA) 입성을 노리는 이현중(샌안토니오 스퍼스)이 서머리그 개인 한 경기 최다인 22점을 폭발했다.",
+      "샌안토니오는 16일(한국 시간) 마국 네바다주 라스베이거스의 파빌리온에서 열린 2026 NBA 서머리그 유타 재즈와의 경기에서 94-82로 승리했다.",
+      "교체 출전한 이현중은 22분 27초를 뛰며 3점포 4방을 꽂아넣는 등 22득점 5리바운드 2스틸 1블록슛으로 활약했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "neeb1a186",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716194400001",
-    "title": "李대통령 \"FTA때 농업 양보 요구…상생기금 부족분 정부가 책임\"",
-    "summary": [
-      "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령은 16일 \"자유무역협정(FTA) 등을 체결할 때 농·축산업 분야는 양보를 요구당한다\"며 정부가 ..."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne3b499cd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716195000109",
-    "title": "흔들리는 멜로니…사법개혁·선거제 개편 줄줄이 제동",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 조르자 멜로니 이탈리아 총리의 연립 정부가 추진한 주요 정책이 잇따라 발목이 잡히면서 지지 기반에 균열이 감..."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n954d78f6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716137351004",
-    "title": "'티메프 사태' 집단 환불소송 첫 1심 일부승소…\"여행사가 환불\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 구정모 이영섭 기자 = 티몬·위메프(티메프)에서 여행·숙박상품을 샀다가 미정산 사태로 대금을 돌려받지 못한 소비자들에게 여행사..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b4ea062",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260716/134314536/1",
-    "title": "우크라 드론, 국경서 1400km 떨어진 러 대형 정유공장 타격",
-    "summary": [
-      "러시아 우랄산맥 인근 바시코르토스탄 공화국 살라바트시에 있는 정유공장이 우크라이나의 드론 공격으로 가동을 중단한 것으로 알려졌다.로이터 통신은 16일(현지시간) 우크라이나 국경에서 약 1400km 떨어진 살라바트시의 정유·석유화학 단지 ‘가스프롬 네프테힘 살라바트’가 우크라이나 무인기 공격을 받은 뒤 가동을 중단했다고 업계 소식통 2명을 인용해 보도했다.러시아의 주요 정유시설 가운데 하나인 이 공장은 지난 14일 새벽 드론 공격을 받았다.소식통."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na2514d2e",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716167951004",
-    "title": "경찰, 개표소 출입 막은 '올다르크' 업무방해 혐의 구속영장(종합)",
-    "summary": [
-      "(서울=연합뉴스) 전재훈 조현영 기자 = 경찰이 지난달 올림픽공원 개표소 현장에서 대한체육회 산하 체육단체의 출입을 막은 여성에 대한 구속영장을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nce4144f9",
-    "category": "사회",
+    "id": "n68977e22",
+    "category": "경제",
     "source": "한국경제",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/202607169651i",
+    "title": "[여기는 아비뇽] 2000석 교황청 채운 침묵…아비뇽 여름밤에 내린 한강의 '눈'",
+    "summary": [
+      "[여기는 아비뇽] 2000석 교황청 채운 침묵…아비뇽 여름밤에 내린 한강의 '눈'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4f7a48e6",
+    "category": "사회",
+    "source": "조선일보",
     "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026071603627",
-    "title": "[속보] 공수처, '서해공무원 피격사건 위증 의혹' 인천해경 등 압수수색",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/16/GBRTEMRYMJQWIZBZHBQTCOLFGY/",
+    "title": "정석원, ♥백지영에 \"마이 와이프, 마이 라이프, 마이 러브\"('백지영')",
     "summary": [
-      "[속보] 공수처, '서해공무원 피격사건 위증 의혹' 인천해경 등 압수수색."
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘백지영’ 정석원이 백지영을 향한 사랑을 감추지 않았다.지난 11일 백지영 유튜브에서는 ‘백지영♥정석원 기럭지 물려받아 베트남에서 모델로 데뷔하는 백지영 딸’이라는 영상이 공개됐다.",
+      "이날 백지영와 정석원 가족은 베트남 현지 메이크업, 전통 의상을 입어보기로 했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n49a24efc",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/2026071601531",
-    "title": "배민 주인 바뀐다…우버, DH 22兆에 인수",
+    "id": "naa21c642",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003712970",
+    "title": "기초연금 70% 기준 바뀌나…정은경 \"중위소득으로 변경 검토\"(종합)",
     "summary": [
-      "배민 주인 바뀐다…우버, DH 22兆에 인수."
+      "[세종=뉴시스] 강진아 구무서 기자 = 정은경 보건복지부 장관이 16일 기초연금 개편과 관련해 \"선정 기준을 상대평가 70%로 고정하지 않고 기준 중위소득으로 변경하는 방향으로 개편안을 만들고 있다\"고 밝혔다.",
+      "정 장관은 이날 청와대 영빈관에서 열린 복지부 업무보고에서 \"기초연금 개편에 대해 여러 방안을 갖고 시뮬레이션 하고 있다\"며 \"(저소득 노인에게 더 지원하는)'하후상박' 원칙이 정해져 있고 선정 기준을 기준 중위소득으로 변경하는 두 가지."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ne3ac98fb",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260716/134312927/1",
+    "title": "메리츠금융, 홈플러스에 긴급 자금 2000억원 승인…회생절차 재개",
+    "summary": [
+      "파산 위기에 놓였던 홈플러스가 2000억 원의 긴급 운영자금(DIP)을 수혈받는다.",
+      "홈플러스는 서울회생법원에 즉시항고를 제기해 회생절차 재개에 나선다는 계획이다.16일 메리츠금융그룹은 “홈플러스 임직원과 소상공인이 겪고 있는 어려움을 나누고 금융의 사회적 책임을 다하기 위해 홈플러스 회생을 위한 긴급 운영자금 2000억 원 전액을 지원하기로 결정했다”고 밝혔다.",
+      "메리츠금융 3사(메리츠화재·증권·캐피탈)는 이날 이사회를 열고 홈플러스에 대한 긴급."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n0ac46786",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/16/MI2TOYJUHA2WKMDGGY2DSMZVMY/",
+    "title": "박신양, MBC 예능 뜬다...이석훈X이준X딘딘 '플레이리스트 109' 첫 게스트",
+    "summary": [
+      "[OSEN=연휘선 기자] 배우 박신양이 '플레이리스트 109'에 뜬다.",
+      "16일 첫 방송되는 MBC 예능 '오늘을 버틴 노래-플레이리스트 109'(약칭 '플레이리스트 109') 측은 3MC 가수 이석훈, 배우 이준, 래퍼 딘딘이 박신양과 만나는 1회 티저 영상을 공개했다.",
+      "'플레이리스트 109'는 힘들었던 순간 자신을 다시 일으켜 세운 '버팀송'과 그 노래에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb810f2f6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716166951065",
+    "title": "'인천 흉기난동' 부실대응 경찰관들, 손해배상 판결에 불복(종합)",
+    "summary": [
+      "(인천=연합뉴스) 최은지 기자 = 2021년 '인천 층간소음 흉기난동' 사건 당시 부실하게 대응한 경찰관들이 손해배상을 명령한 1심 판결에 불복..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb9276058",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716202500054",
+    "title": "경찰 \"장윤기 사건 피해자 '온라인 2차 가해' 엄중 처벌\"",
+    "summary": [
+      "(전남광주=연합뉴스) 정회성 기자 = 경찰청 국가수사본부 '장윤기 사건 진상규명' 특별수사단은 16일 \"살해당한 여고생 등 이 사건 피해자와 그..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n82761112",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/16/G4ZGCMTGGE4GINZUGRRWMN3CGU/",
+    "title": "'은퇴하고 나서 선수들 비판하지 마라' 아르헨티나 국대 센터백 로메로의 날선 맞대응, 2-1 극적인 승리 후 잉글랜드 국대 출신 전문가 '최악의 중앙 수비 조합' 비판에 제대로 반격",
+    "summary": [
+      "[스포츠조선 노주환 기자]\"은퇴한 후에 저렇게 어리석게 변하지 않기를 바란다.\" 아르헨티나 국가대표 주전 센터백 크리스티안 로메로가 EPL 맨체스터 유나이티드 레전드 출신 전문가 개리 네빌을 향해 강하게 맞대응해 화제다.",
+      "스페인 매체 마르카는 로메로가 아르헨티나가 북중미월드컵 준결승전에서 잉글랜드에 2대1 역전승을 거둔 후 경기 전 네빌이 아르헨티나 중앙."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n9c93eaee",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716081851009",
+    "title": "이란 내륙 곳곳서 폭음…美, 공습 범위 확대한 듯(종합)",
+    "summary": [
+      "(카이로·서울=연합뉴스) 김상훈 특파원 강훈상 기자 = 미국이 이란 남부 연안을 넘어 수도 테헤란 외곽과 내륙 깊숙한 곳까지 공습 범위를 전격 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2f9fbb82",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716202300527",
+    "title": "경기 동부권 7개 시군 오존주의보 해제",
+    "summary": [
+      "(수원=연합뉴스) 경기 동부권 7개 시군에 내려진 오존주의보가 16일 오후 7시 해제됐다고 환경부 한국환경공단이 전했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n53d471f7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/16/BMRLNRKQHNCUNPB3WZLPZAIJVY/",
+    "title": "공수처, 인천해경 압수수색…‘서해 피격’ 국조특위 위증 혐의",
+    "summary": [
+      "공수처, 인천해경 압수수색…‘서해 피격’ 국조특위 위증 혐의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd54bf398",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "28분 전",
+    "url": "https://www.hankyung.com/article/2026071601451",
+    "title": "\"취약계층·영세업자 지원 확대\"…삼성, 2000억 출연",
+    "summary": [
+      "\"취약계층·영세업자 지원 확대\"…삼성, 2000억 출연."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e622d47",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "28분 전",
+    "url": "https://www.hankyung.com/article/2026071603877",
+    "title": "\"AI로 만든 허위조작정보도 처벌받나\"…방미통위 Q&A 배포",
+    "summary": [
+      "\"AI로 만든 허위조작정보도 처벌받나\"…방미통위 Q&A 배포."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -643,8 +634,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
