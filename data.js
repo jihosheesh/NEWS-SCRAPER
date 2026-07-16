@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-16 15:31:06
+// 마지막 업데이트: 2026-07-16 16:27:31
 window.NEWS_DB = [
   {
     "id": "nb4fe9e9c",
     "category": "경제",
     "source": "베타뉴스",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nX0NGRE52elNDRk90R2loSHhLdWJFdDhEaVZPZTZ3ekNEUDJpQ0szUF9vSWZ2WTVKNURGN0RvT2M5WWZyVUpleGZEemJGSDhrOGhpVW9lRC1kQkpOMU13Tkh1TXI?oc=5",
     "title": "원·달러 환율, '한은 금리인상·美 물가 둔화'에 장중 1470원대 진입...두 달 만에 최저",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n0b00ae31",
     "category": "IT",
     "source": "코리아포스트 한글판",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mSmJEY29mcnhLdkFZUmE1bnJlOG5IM0pvVmNVMGJ4enMyUWc1dW1JMk5tVHQyaFE2c0d2YW5CZXEzdVlOb3ZZRDBCaXQwdzF4VTh6TVhsMHE2eHB0VVpvLTBOY3pwaXg0LVFiem9R?oc=5",
     "title": "[글로벌 이슈 &분석] TSMC, AI 슈퍼사이클 타고 사상 최대 실적…한국 반도체에도 '훈풍' 이어질까",
     "summary": [
@@ -34,12 +34,12 @@ window.NEWS_DB = [
   {
     "id": "n57d17333",
     "category": "IT",
-    "source": "OBC 더원방송",
-    "time": "7시간 전",
+    "source": "OBC 뉴스",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jUzhicURaNWZ5dkt2dTZqS2RkYXdCSEg3Zm5CaU1GNFNRZ3RvVko0dGplckhnNmYwd3NxOTBfWVRyaHRnRkNsdmhWZWRSaTF4S3dpVGF0a19VLWFoY2hkV2JHbDd4RlFt?oc=5",
     "title": "TSMC 2Q 순익, 77%↑ 질주...삼성·하이닉스와 비교",
     "summary": [
-      "TSMC 2Q 순익, 77%↑ 질주...삼성·하이닉스와 비교 OBC 더원방송."
+      "TSMC 2Q 순익, 77%↑ 질주...삼성·하이닉스와 비교 OBC 뉴스."
     ],
     "chips": [
       "#뉴스"
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n3b60d25b",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENWhBZExkSjNtTWE4ZFY2c1VUV1VjVWNkbUFHeEVuSDFxS3JzSjJSaXJuU3AtNmt0M1pycWZXM1BvbXZuMlZPTHFleGlULVFOOUsyRWRCdHVmZw?oc=5",
     "title": "백준호 퓨리오사AI 대표 \"엔비디아 GPU보다 전력 사용 줄인 칩 개발\"",
     "summary": [
@@ -63,16 +63,30 @@ window.NEWS_DB = [
   {
     "id": "n5868a989",
     "category": "IT",
-    "source": "초이스스탁US",
-    "time": "16시간 전",
+    "source": "초이스스탁",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
-      "엔비디아 시총 5조달러 아래로…AI 독주 시험대 초이스스탁US."
+      "엔비디아 시총 5조달러 아래로…AI 독주 시험대 초이스스탁."
     ],
     "chips": [
       "#AI",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "ndd4c5e86",
+    "category": "스포츠",
+    "source": "v.daum.net",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sYWRPRlJZd1BEYXRkMHgySGZhNW1OSjNWVWp0aVpXVHNhOWI2TFk5X01Dano1ZEZ6M0lhclVaUkhVQVN6UXJ4MHNLNlF0dXc?oc=5",
+    "title": "야구, 골프와 만나다…KBO, 10개 구단 골프공 세트 선보인다",
+    "summary": [
+      "야구, 골프와 만나다…KBO, 10개 구단 골프공 세트 선보인다 v.daum.net."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -209,20 +223,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
-    ]
-  },
-  {
-    "id": "n00a772cd",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JdHpCU0EtYnRldHI5UnlVNmMzb0ZjckYyR1Y0bUtYZ3dqLUpja0JUYkNYcmFCWC1VaUNrcmRCS0NaUkF6X2c?oc=5",
-    "title": "[IS 이슈] 김지우까지 온다…KBO 드래프트 '빅2' 확정? KIA 3순위 이하 셈법 복잡",
-    "summary": [
-      "[IS 이슈] 김지우까지 온다…KBO 드래프트 '빅2' 확정? KIA 3순위 이하 셈법 복잡 v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -377,207 +377,214 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2edbf3a1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713077",
-    "title": "트럼프 행정부, 학생 비자 4년 제한…언론비자는 240일(종합)",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 반(反)이민 정책기조를 유지하고 있는 도널드 트럼프 미국 행정부가 외국인 학생과 교환방문자, 언론인의 체류 기간을 대폭 축소한 최종 규정을 16일(현지 시간) 공개했다.",
-      "유학생용 F 비자와 교환방문자용 J 비자 소지자는 4년까지만 체류가 인정되고, 이후에는 별도 신청을 통해 연장해야 한다.",
-      "언론인은 240일로 제한됐다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n53e36a27",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026071700235282619",
-    "title": "美 소매판매 전월比 0.2% ↑…실업수당 청구 전주比 8000건 감소",
-    "summary": [
-      "미국의 6월 소매판매가 완만한 증가세를 이어간 가운데 신규 실업수당 청구 건수는 시장 전망을 밑돌았다.",
-      "소비와 고용시장이 급격히 위축되지 않고 있음을 보여주는 지표로 풀이된다.",
-      "미 상무부는 6월 소매판매가 7686억달러로 전월 대비 0.2% 증가했다고 16일(현지시간) 밝혔다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n8b6a0602",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713078",
-    "title": "[속보] 미군 발사체, 이란 케슘섬 일대 타격…현지 언론 보도",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 yjjs@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd3b7e880",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/07/17/24HVSZHPQJHXDJFPKTKJW74NGI/",
-    "title": "[사설] 빚은 탕감하고 세금은 독촉하라는 대통령의 이중잣대",
-    "summary": [
-      "[사설] 빚은 탕감하고 세금은 독촉하라는 대통령의 이중잣대."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd1211fcd",
+    "id": "n8304c8a4",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/17/ME4TSNRTMEYGKZTFHA3TOMBTGM/",
-    "title": "\"같은 운동선수라 버틸 수 있었다\"…'박승규♥' 예비신부, 결혼 발표 후 첫 심경 \"함께할 미래 꿈꿨다\"",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/17/GYZWCNDFGEYDCYLDGE3TGZDDGU/",
+    "title": "'한화 마운드 초토화' 키움, 후반기 첫 경기부터 기록 썼다…설종진 감독 \"외인 타자들 시너지 돋보여\" [오!쎈 대전]",
     "summary": [
-      "[OSEN=홍지수 기자] 프로야구 삼성 라이온즈 외야수 박승규와 결혼을 앞둔 예비신부가 직접 심경을 전했다.",
-      "박승규와 함께했던 시간들을 돌아보며 \"함께할 미래를 꿈꾸게 됐다\"고 진솔한 마음을 밝혔다.박승규의 예비신부는 최근 자신의 SNS를 통해 \"어쩌다 보니 많은 관심이 쏠려 글을 적어본다\"며 장문의 글을 적었다.그는 \"우선 축하해 주신 많은 삼성 팬분들께."
+      "[OSEN=대전, 조은혜 기자] 프로야구 키움 히어로즈가 후반기 첫 경기에서 한화 이글스를 완파하고 4연패를 끊었다.키움은 16일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 한화와의 원정경기에서 14-5 대승을 거뒀다.",
+      "이날 승리로 4연패 탈출에 성공한 키움은 시즌 30승(57패1무) 고지를 밟았다.",
+      "지난 6월 12~14일 고척 한화전."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nc698dde9",
+    "id": "ne7993fb8",
     "category": "사회",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/17/MU4GIYLEMQYTSZJVGJRDCYTDMI/",
-    "title": "\"죄송한 마음\" 구혜선 돌연 사과 왜?..\"뚱뚱해\" 악플에 솔직 반응",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713088",
+    "title": "미군, 호르무즈 해협 인근 이란 케슘섬 일대 추가 공습",
     "summary": [
-      "[OSEN=김수형 기자] 배우 구혜선이 악성 댓글을 모두 확인한다고 밝힌 데 이어 최근 체중이 늘어난 근황을 전하며 팬들에게 미안한 마음을 전했다.지난 15일 공개된 MBN 유튜브 채널 '김주하의 데이앤나잇' 예고 영상에서 구혜선은 악성 댓글에 대한 솔직한 생각을 털어놨다.이날 김주하가 \"많은 사랑을 받았지만 악플도 받지 않았느냐\"고 묻자, 구혜선은 \"저는."
+      "[테헤란=신화/뉴시스] 이재준 기자 = 미국이 호르무즈 해협 인근 이란 케슘섬 주변 일대를 새로 공습했다고 이란 언론들이 16일(현지시간) 보도했다.",
+      "이란 언론들은 미국과 이란의 무력 충돌이 다시 격화한 가운데 미군이 호르무즈 해협 인근 케슘섬 주변을 추가로 공격했다고 전했다.",
+      "파르스 통신은 현지 당국을 인용해 \"미국이 케슘섬 인근에 미사일 공격을 가했다\"고 타전했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb63cbf86",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003713072",
-    "title": "與, 송영길·김용 후보자격 심야 논의…결론 못 내(종합)",
+    "id": "ne9ab6432",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/17/GNRTONRQG5RWEMDFMIZTEZJWMQ/",
+    "title": "\"오타니, 부끄러운 줄 알아라!\" 오타니도 욕을 먹네, 올스타 불참 후폭풍",
     "summary": [
-      "[서울=뉴시스]권신혁 김난영 정금민 신재현 기자 = 더불어민주당이 16일 당권 주자인 송영길 의원과 최고위원에 출마한 김용 전 민주연구원 부원장의 후보 자격을 심야 논의했으나 결론을 내지 못했다.",
-      "강준현 민주당 수석대변인은 국회 심야 최고위 간담회 직후 기자들과 만나 \"(전당대회 후보) 접수 과정에서 일부 피선거권, (후보) 자격이 있느냐 없느냐 최고위 간담회를 했다\"며 \"내일 오전 8시30분에 비공개 최고위를 개최한다\"고 말했다."
+      "[스포츠조선 나유리 기자]올스타 최다 득표를 기록하고도 몸 상태로 인해 불참.",
+      "현지 언론에서는 보기 드문 쓴소리를 쏟아냈다.",
+      "LA 다저스의 간판이자 메이저리그를 대표하는 '슈퍼 스타' 오타니 쇼헤이는 이번 메이저리그(MLB) 올스타전에 불참했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n42122e0e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/17/GJSDCZDDG5TGMNRWGFRDOOJXGE/",
+    "title": "이정후 트레이드 현실화될까…美 매체, \"전성기 접어든 타자, 어떤 팀에도 어울린다\"",
+    "summary": [
+      "[OSEN=홍지수 기자] 샌프란시스코 자이언츠 이정후가 메이저리그 트레이드 마감시한을 앞두고 다시 한번 '트레이드 유력 후보'로 거론됐다.",
+      "미국 현지에서는 우승 경쟁을 펼치는 팀들이 가장 탐낼 만한 타자 가운데 한 명으로 높은 평가를 내렸다.미국 USA투데이는 16일(한국시간) 트레이드 마감일을 앞두고 우승 후보들이 영입을 노릴 만한 트레이드 후보 톱10을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4007518f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260717002000072",
+    "title": "트럼프, 2기 집권후 모금액 최소 1조원대…'깜깜이' 논란",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미국 대통령이 2기 임기 들어 전례 없는 규모의 모금 활동을 벌이며 대기업과 부유층으로부터 자..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "ne49e1646",
-    "category": "IT",
+    "id": "n1024ab87",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003711765",
-    "title": "\"반도체 랠리 끝?…AI는 이제 시작, 다음 주도주는 '조방원'\"",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713086",
+    "title": "강득구 \"송영길에 '6개월 전 입당' 기준 지나치게 기계적…헌신 생각해 포용해야\"",
     "summary": [
-      "[서울=뉴시스]김혜경 기자, 이송이 인턴기자 = 변동성 장세가 이어지고 있는 가운데 인공지능(AI) 산업의 성장세는 여전히 유효하며, 반도체와 함께 조선·방산·원전·전력기기가 다음 수혜 업종이 될 수 있다는 전망이 나왔다.",
-      "최창규 미래에셋자산운용 ETF컨설팅본부 본부장은 16일 구독자 55만여 명을 보유한 유튜브 채널 '김재원TV'에 출연해 반도체 호황이 끝났다는 시장의 우려에 대해 AI 산업의 성장세를 근거로 장기적인 성장 가능성을 긍정적으로."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "ne81bf7a3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/07/17/5FSIZVJHIRCX7O4EQPTXCN6VEA/",
-    "title": "[사설] “초과이익 분배” 기업인들에 훈계하는 민노총 장관",
-    "summary": [
-      "[사설] “초과이익 분배” 기업인들에 훈계하는 민노총 장관."
+      "[서울=뉴시스]권신혁 기자 = 강득구 더불어민주당 최고위원은 17일 송영길 당대표 후보 출마자격 등에 문제가 제기되는 것을 두고 \"지나치게 기계적인 기준이 적용됐다\"며 \"피치 못할 사정과 그동안 헌신을 생각한다면 더 큰 포용으로 함께 갈 길을 열어줘야 한다\"고 했다.",
+      "강 최고위원은 이날 오전 페이스북에 \"(16일) 밤 10시30분 긴급 최고위원회의가 소집됐다.",
+      "회의에선 송영길 전 대표의 당대표 출마자격과 김용 전 부원장의 최고위원 후보 등록 자."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3fa2ae7a",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717000300085",
-    "title": "[월드컵] 영국 \"FIFA, 아르헨 '포클랜드 우리 땅' 자축 조사해야\"",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 2026 북중미 월드컵 준결승에서 잉글랜드를 상대로 역전승을 거둔 아르헨티나 선수들이 경기 후 그라운드에서 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0f32ede5",
+    "id": "ne36798f2",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716214900072",
-    "title": "美 명문발레단 ABT 수석무용수에 박선미…한국인 세 번째",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 세계 정상급 발레단인 아메리칸발레시어터(ABT)에 한국인 수석무용수가 또 한 명 탄생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0f4768ff",
-    "category": "사회",
-    "source": "연합뉴스",
+    "source": "뉴시스",
     "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716213251071",
-    "title": "트럼프 행정부, 유학생 비자 4년 제한…\"120만명 영향\" 파장(종합)",
+    "url": "https://www.newsis.com/view/NISX20260716_0003712794",
+    "title": "조각가 윤영자가 뿌린 예술의 씨앗…24명의 작가로 피어났다",
     "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미국에 공부하러 온 유학생들의 체류 기간이 앞으로 4년까지로 제한된다."
+      "[서울=뉴시스] 박현주 미술전문 기자 = 한 사람의 예술가는 떠났지만, 그가 뿌린 예술의 씨앗은 지금도 자라고 있다.",
+      "한국 현대조각의 선구자 석주 윤영자(1924~2016) 서거 10주기를 맞아 그의 삶과 작품, 그리고 그가 길러낸 예술의 계보를 조망하는 기념전이 서울 평창동 가나아트센터에서 막을 올렸다.",
+      "가나아트센터와 재단법인 석주문화재단은 '별처럼 남은 이름, 석주 윤영자 서거 10주기 기념전-그리고 석주미술상 수상작가전'을 개최한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2b33aba1",
+    "id": "na44c59f7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003710834",
+    "title": "설레는 여름 휴가…\"출국 전 '이 약' 꼭 챙기세요\"",
+    "summary": [
+      "[서울=뉴시스]이소헌 기자 = 여름 휴가철을 앞두고 여행을 계획하고 있는 사람들이 많아지고 있다.",
+      "특히 해외여행을 가는 경우 혹시 모를 상황들에 대비해 상비약을 챙겨가는 것이 좋다.",
+      "17일 식품의약품안전처 유튜브에 따르면 해외여행을 떠나기 전 가장 먼저 해야 할 일은 여행할 지역의 풍토병과 현재 유행 중인 감염병 현황, 필수 예방 접종을 확인하는 일이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0072b265",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260717001800087",
+    "title": "브라질, 美 25% 관세부과에 맞불…보복관세 절차 착수",
     "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 브라질 정부가 브라질산 수입품에 대한 미국의 25% 관세 부과 조처에 맞서 보복 관세를 추진한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8e492181",
+    "id": "n3f893b7a",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "43분 전",
-    "url": "https://view.asiae.co.kr/article/2026071623472778551",
-    "title": "알로소, 마틴 파 전시에 가구 파트너로 참여",
+    "source": "머니투데이",
+    "time": "29분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/17/2026071700513533737",
+    "title": "美 유학길 까다로워진다…학생비자 4년·언론비자 240일로 제한(상보)",
     "summary": [
-      "알로소(Alloso)는 서울시립 사진미술관에서 열리는 '마틴 파: We Are Martin Parr' 전시에 가구 파트너로 참여한다고 16일 밝혔다.",
-      "알로소는 이번 전시를 통해 서울시립미술관(SeMA)과 세 번째 문화예술 협업을 진행한다.",
-      "이번 협업은 알로소가 보유한 70여 가지 컬러 팔레트를 바탕으로, 작품의 색채를 공간까지 확장한 프로젝트다.영국 사진작가 마틴 파는 밝은 플래시와 채도 높은 원색을 활용해 관광과 소비, 일상 속 인간의."
+      "오는 17일 관보 정식 게재, 60일 후 발효…체류기간 넘길 땐 연장 신청 절차 밟아야 미국에서 유학하는 외국인 학생(F 비자)의 체류 기간이 앞으로는 최대 4년으로 제한된다.",
+      "문화교류 프로그램 방문자(J비자)와 외국 언론인(I 비자) 체류 가간도 축소된다.",
+      "블룸버그와 로이터 통신 등 외신에 따르면 미 국토안보부(DHS)는 16일(현지시간) F 비자를 소지한 외국 유학생의 미국 체류 허용 기간을 최대 4년으로 제한하는 새로운 규정을 최종 발표했."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6db08de0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716213451001",
+    "title": "與최고위, '친명' 송영길·김용 후보 자격 격론…친청계 반대(종합)",
+    "summary": [
+      "(서울=연합뉴스) 서혜림 안정훈 기자 = 더불어민주당 지도부는 16일 심야 긴급 최고위원회 간담회를 열고 8·17 전당대회 당대표 후보로 등록한..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3743d9e7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716186651085",
+    "title": "퇴임 앞둔 스타머 키이우행…\"총리 바뀌어도 우크라 지원 계속\"(종합)",
+    "summary": [
+      "(런던·로마=연합뉴스) 김지연 민경락 특파원 = 키어 스타머 영국 총리가 16일(현지시간) 재임 중 마지막으로 우크라이나를 찾았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90aad633",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/17/2026071618515053528",
+    "title": "'호수비도 했는데...' 발목 다친 김상준, 결국 병원행→승리에도 웃지 못한 삼성",
+    "summary": [
+      "삼성 라이온즈가 후반기 첫 경기를 기분 좋은 승리로 장식하고도 마냥 웃지 못했다.",
+      "내야 수비 강화의 핵심 카드로 꼽히며 공수에서 만점 활약을 펼치던 백업 내야수 김상준(24)이 경기 도중 아찔한 부상으로 그라운드를 떠났기 때문이다.",
+      "김상준은 16일 대구삼성라이온즈파크에서 열린 '2026 신한 SOL KBO리그' 롯데 자이언츠와 홈 경기에 6회말 강민호의 대주자로 교체 투입돼 알짜배기 활약을 펼쳤다."
+    ],
+    "chips": [
+      "#KBO",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd4eae690",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026071559677",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 17일 띠별 추천 점심메뉴",
+    "summary": [
+      "[오늘의 운세] 오늘 뭐 먹지?…7월 17일 띠별 추천 점심메뉴."
     ],
     "chips": [
       "#뉴스"
@@ -587,7 +594,7 @@ window.NEWS_DB = [
     "id": "ndf895995",
     "category": "사회",
     "source": "동아일보",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260716/134315649/1",
     "title": "송영길·김용 전대 출마 제동? 與 심야 최고위, 자격 논의",
     "summary": [
@@ -598,10 +605,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8b7e346b",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/16/2026071623112777579",
+    "title": "'진실공방 부부' 남편, 외도 부인했지만…심리검사 결과는 '거짓'",
+    "summary": [
+      "외도를 부인해온 '진실공방 부부' 남편의 심리생리검사 결과가 '거짓'으로 나왔다.",
+      "16일 방송된 JTBC 예능 프로그램 '이혼숙려캠프'에서는 22기 부부들의 심리생리검사 결과가 공개됐다.",
+      "남편의 외도를 의심해왔던 아내는 \"당신은 타지역 여자와 잠자리를 가진 적이 있냐\"고 물었고, 남편은 \"아니오\"라고 답했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n7b3a0c94",
     "category": "경제",
     "source": "한국경제",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026071605267",
     "title": "아내 살해·폭행 전력 60대 남성 또…교제 여성 살해 '무기징역'",
     "summary": [
@@ -609,23 +632,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n9372213f",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260716/134315106/2",
-    "title": "[사설]3년 반 만의 통화긴축 전환… 확장재정과 엇박자 안 나게",
-    "summary": [
-      "한국은행 금융통화위원회가 16일 기준금리를 연 2.50%에서 2.75%로 0.25%포인트 올렸다.",
-      "2023년 1월 이후 3년 6개월 만의 인상이다.",
-      "지난해 5월 금리를 내린 뒤 8회 연속 이어지던 금리 동결 기조도 깨졌다."
-    ],
-    "chips": [
-      "#금리",
-      "#한은"
     ]
   }
 ];
@@ -635,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "3110건",
+    "trend": "+375%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "금리",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
