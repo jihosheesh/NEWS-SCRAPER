@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-17 18:20:00
+// 마지막 업데이트: 2026-07-17 19:25:06
 window.NEWS_DB = [
   {
     "id": "ne15d9909",
     "category": "IT",
     "source": "머니투데이",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcVlGTXhOTWJxNkNtdFRWZEdCTm9TVm1lcXRFUWJrN3M2enZnWmoyd2NmNTJVODlIMUlvX25uSGNCOHZ4eVkxZlRXYjRRNi15QUx2Rkh5aEpQZHBJYUVQMUtTQ2VQMjRH0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
     "title": "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "na3780e93",
     "category": "IT",
     "source": "헤럴드경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNzhhUVFBeWV1TWw0dFNKaWltb1lURTlzc2NjNWtKWTlUaUxHZE1qUDhuYWM2bW5pZkxLZ3RQRktnbWlBb2xzMV9zZk5RbHMteGhxNDB3?oc=5",
     "title": "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nc281528f",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
     "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
     "summary": [
@@ -317,52 +317,129 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbb3992e0",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718004000072",
-    "title": "[월드컵] 결승전 당일 공기질 '보통' 전망…주최측 \"면밀 주시\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 2026 북중미 월드컵 결승전을 앞두고 개최지인 미국 뉴욕과 뉴저지 일대에 산불 연기로 인한 대기질 악화 경..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf1e6264a",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718004200527",
-    "title": "수원 등 경기 15곳 호우주의보…김포에 호우경보 유지",
-    "summary": [
-      "(수원=연합뉴스) 기상청은 18일 오전 4시를 기해 수원 등 경기 15곳에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne51ddfda",
+    "id": "nd413be02",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718004100527",
-    "title": "원주 등 강원 10곳 호우주의보…춘천 등 4곳 호우주의보 유지",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718006400527",
+    "title": "서울 동남·동북권에 호우경보…서울 서쪽에 호우경보 유지",
     "summary": [
-      "(춘천=연합뉴스) 기상청은 18일 오전 3시를 기해 원주 등 강원 10곳에 호우주의보를 발효한다고 밝혔다."
+      "(서울=연합뉴스) 기상청은 18일 오전 4시를 기해 서울 동남·동북권에 호우경보를 발효한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "ne10578d8",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/18/2026071723344752424",
+    "title": "김영웅 2G 연속 대포→박진만도 흡족! \"페이스 조금씩 찾아가는 것 같아, 우리는 원래 홈런의 팀\"",
+    "summary": [
+      "삼성 라이온즈는 2025시즌 '홈런의 팀'이었다.",
+      "무려 161개의 홈런을 쏘아 올리며 2025시즌 팀 홈런 부문 1위였다.",
+      "그 중심에는 당시 22홈런을 때린 김영웅(23)의 역할이 분명히 있었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc28913de",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718006500527",
+    "title": "천안 등 충남 5곳 호우주의보…아산 등 12곳 호우주의보 유지",
+    "summary": [
+      "(대전=연합뉴스) 기상청은 18일 오전 6시를 기해 천안·공주·부여에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n542bef0c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718006300527",
+    "title": "남양주 등 경기 3곳 호우경보…고양 등 9곳 호우경보 유지",
+    "summary": [
+      "(의정부=연합뉴스) 기상청은 18일 오전 4시를 기해 남양주·구리·가평에 호우경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne71cc844",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718006200527",
+    "title": "세종북부에 호우주의보…세종남부에 호우주의보 유지",
+    "summary": [
+      "(대전=연합뉴스) 기상청은 18일 오전 6시를 기해 세종북부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n988e3acb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713475",
+    "title": "멕시코·과테말라 국경 인근 바다 규모 7.3 지진…인명피해 없어(종합)",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 멕시코 남부 태평양 연안 과테말라 국경 인근 바다에서 규모 7.3의 강력한 지진이 발생해 과테말라와 엘살바도르까지 진동이 느껴졌다.",
+      "지진 발생 초반 쓰나미 경보도 발령됐다.",
+      "AP 통신은 17일(현지 시각) 어느 나라에서도 심각한 피해나 사상자는 보고되지 않았다고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n410144e0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "51분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/18/GZRTSOBRHA4DIOJRGQ2DSNRYG4/",
+    "title": "\"'독도는 우리 땅' 외친 박종우처럼 될지도\" 월드컵 결승전 코앞인데...\"말비나스는 아르헨 것\" 현수막에 FIFA 징계 가능성 제기",
+    "summary": [
+      "[OSEN=고성환 기자] 아르헨티나 선수들이 '독도남' 박종우(37)처럼 징계를 피하지 못하게 될까.",
+      "잉글랜드전 역전승 이후 '포클랜드 제도' 관련 세리머니를 펼치면서 14년 전 박종우의 이름이 다시 언급되고 있다.아르헨티나 '앰비토'는 16일(한국시간) \"FIFA가 말비나스 제도(포클랜드 제도) 관련 현수막에 대해 조사에 착수할 것으로 보인다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd9ac9cf8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713473",
+    "title": "“트럼프, 오바마보다 너 나쁜 이란 핵협상 이끌어낼 것” WP·입소스 여론조사",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 대통령은 이란의 핵무기 개발을 막겠다며 전쟁을 벌이면서 버락 오바마 전 대통령의 2015년 핵 협정이 재앙이라고 비판했다.",
+      "그러면서 자신은 훨씬 더 나은 결과를 만들어낼 것이라고 자신했다.",
+      "워싱턴 포스트(WP)와 입소스가 공동으로 실시한 여론조사에서는 트럼프가 오바마 보다 더 나쁜 협상 결과를 내놓을 것이라는 응답이 월등히 높았다."
+    ],
+    "chips": [
+      "#정치"
     ]
   },
   {
     "id": "n2aaf63cd",
     "category": "경제",
     "source": "머니투데이",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/entertainment/2026/07/18/2026071802564886428",
     "title": "진선규, 남성 호르몬 수치 정상 이하로 떨어져…김종국 \"하체 운동 해야\"",
     "summary": [
@@ -378,7 +455,7 @@ window.NEWS_DB = [
     "id": "n5edf71d0",
     "category": "사회",
     "source": "조선일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/national/court_law/2026/07/18/HR44KJOKDREC3CDEAWFHY5GTMM/",
     "title": "김 대리가 침 흘리며 반한 연예인급 미녀… “제 아내인데요?”",
     "summary": [
@@ -392,7 +469,7 @@ window.NEWS_DB = [
     "id": "na447197f",
     "category": "사회",
     "source": "조선일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/culture-life/food-taste/2026/07/18/EVMSWXZLUNHCVAX7NOYB3NHGGQ/",
     "title": "토박이가 ‘부산 온 절친’에게만 소개하는 비밀의 식당 속편",
     "summary": [
@@ -403,24 +480,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n57520c0b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/international/2026/07/17/AQP5HCJHXRFMHHRPZQCXYLOWFE/",
-    "title": "베오그라드 고원에 핀 ‘대리석의 기적’, 성 사바 성당의 비밀",
-    "summary": [
-      "베오그라드 고원에 핀 ‘대리석의 기적’, 성 사바 성당의 비밀."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nf5179d2e",
     "category": "사회",
     "source": "조선일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/culture-life/culture_general/2026/07/18/C6PAHS42W5AHHHLO7SUEC4J4WY/",
     "title": "옥수수처럼 뿌리내리길 바랐건만… 박완서 혼란스럽게 한 조카의 선택",
     "summary": [
@@ -434,7 +497,7 @@ window.NEWS_DB = [
     "id": "na8972e4b",
     "category": "사회",
     "source": "동아일보",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260718/134319630/1",
     "title": "미군 “호르무즈 해협 상선 추적용 이란 감시탑 성공적 파괴”",
     "summary": [
@@ -448,7 +511,7 @@ window.NEWS_DB = [
     "id": "nbd4c1b7a",
     "category": "사회",
     "source": "동아일보",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260718/134319627/1",
     "title": "캐나다 산불 연기로 워싱턴DC 대기질 악화 ‘코드 퍼플’ 발령",
     "summary": [
@@ -462,24 +525,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n341b448b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718003800075",
-    "title": "'나홀로 집에' 비둘기 아줌마役 브렌다 프리커 별세…향년 81세",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 영화 '나홀로 집에 2'에서 비둘기를 돌보는 아주머니 역할을 맡았던 배우 브렌다 프리커가 세상을 떠났..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n6284d447",
     "category": "사회",
     "source": "동아일보",
-    "time": "59분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260718/134319624/1",
     "title": "아일랜드 첫 아카데미상 수상 여배우 브렌다 프리커 별세…향년 81세",
     "summary": [
@@ -494,7 +543,7 @@ window.NEWS_DB = [
     "id": "n9fc22711",
     "category": "부동산",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260717_0003713347",
     "title": "\"재개발 옆이면 무조건 오른다?\" 빌라 투자자들이 놓치는 위험 신호",
     "summary": [
@@ -511,7 +560,7 @@ window.NEWS_DB = [
     "id": "n6903bf21",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607170970i",
     "title": "\"고기 반찬 못 먹어\"...최고 권력자 거절한 남자의 '반전 결말' [성수영의 그때 그 사람들]",
     "summary": [
@@ -525,7 +574,7 @@ window.NEWS_DB = [
     "id": "na1ef91ad",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260718/134319098/2",
     "title": "메시의 아르헨 vs 푸엔테의 스페인… 챔피언 반지 다툰다",
     "summary": [
@@ -538,26 +587,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc9a75442",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713468",
-    "title": "멕시코 남부 해안 규모 7.4 강진·쓰나미 경보",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 멕시코 남부 치아파스주 인근 해안에서 17일(현지 시각) 규모 7.4의 강력한 지진이 발생했으며 쓰나미 경보도 발령됐다고 신화통신과 로이터 통신 등 외신이 보도했다.",
-      "지진으로 인접국인 과테말라와 엘살바도르에서도 건물들이 흔들렸다.",
-      "미국 지질조사국(USGS)에 따르면 멕시코 푸에르토 마데로 인근에서 발생한 이 지진의 진원 깊이는 10km로 얕았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n38f49716",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.mt.co.kr/sports/2026/07/18/2026071800011725460",
     "title": "'韓 23세 국대' 챔피언스리그 무대 보인다, '무려 1조 6800억' 한국계 女 회장 구단 러브콜 \"놀라운 이적 임박\"",
     "summary": [
@@ -573,7 +606,7 @@ window.NEWS_DB = [
     "id": "n759f9efe",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.mt.co.kr/sports/2026/07/18/2026071720170685640",
     "title": "무너진 시라카와→'불펜 이의리+마무리 조상우'가 막았다... '4위 한계' 넘어설 비장의 카드 될까",
     "summary": [
@@ -589,7 +622,7 @@ window.NEWS_DB = [
     "id": "ndc4e961b",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026071573577",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 18일 띠별 추천 점심메뉴",
     "summary": [
@@ -597,34 +630,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ac16c4d",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "4시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260717231908",
-    "title": "기상청, 대구 수성구 지산1동에 올해 첫 ‘재난성호우 긴급재난문자’",
-    "summary": [
-      "[지디넷코리아]기상청이 시간당 100㎜에 이르는 극단적 호우가 쏟아진 대구 수성구 지산1동에 올해 추가 신설한 재난성 호우 긴급재난문자(CBS)를 발송했다.기상청은 17일 오후 10시 10분 기준 중부지방에 위치한 정체전선 상에서 발달한 중규모 저기압에 의한 다량의 고온다습한 수증기 유입으로 시간당 100㎜에 상당하는 강수가 관측됨에 따라 국민이 위험 상황을 신속하게 인지하고 즉시 안전을 확보할 수 있도록 재난성호우 긴급재난문자가 발송했다고 밝."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndec7e9ca",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "4시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260717231002",
-    "title": "HCL테크와 가디언, 기술 및 운영 전반의 AI 기반 현대화를 위한 파트너십 확대",
-    "summary": [
-      "[지디넷코리아] 뉴욕 및 인도 노이다, 2026년 7월 17일 /PRNewswire/ -- 글로벌 선도 기술 기업 HCL테크(HCLTech)(NSE: HCLTECH)(BSE: HCLTECH)가 7월 16일 미국 최대 상호보험회사 중 하나이자 보험, 은퇴, 자산 관리 및 직원 복지 솔루션의 선도적 제공업체인 가디언 생명보험회사(The Guardian Life Insurance Company of America®•Guardian)와 새로운 7년 계."
-    ],
-    "chips": [
-      "#AI"
     ]
   }
 ];
@@ -639,13 +644,13 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "KBO",
     "mentions": "1420건",
     "trend": "+115%"
   }
