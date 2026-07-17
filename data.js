@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-17 16:25:26
+// 마지막 업데이트: 2026-07-17 17:24:07
 window.NEWS_DB = [
   {
     "id": "ne15d9909",
     "category": "IT",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcVlGTXhOTWJxNkNtdFRWZEdCTm9TVm1lcXRFUWJrN3M2enZnWmoyd2NmNTJVODlIMUlvX25uSGNCOHZ4eVkxZlRXYjRRNi15QUx2Rkh5aEpQZHBJYUVQMUtTQ2VQMjRH0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
     "title": "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "na3780e93",
     "category": "IT",
     "source": "헤럴드경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNzhhUVFBeWV1TWw0dFNKaWltb1lURTlzc2NjNWtKWTlUaUxHZE1qUDhuYWM2bW5pZkxLZ3RQRktnbWlBb2xzMV9zZk5RbHMteGhxNDB3?oc=5",
     "title": "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nc281528f",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
     "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
     "summary": [
@@ -60,21 +60,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "ne414629f",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05ai1KS2VMS1ktNHUzTWpXbGptSHZHemZHSEo2UFB6cWZDbTNoVFJERDhzZjZGWUZjcjBoOHlOdGducGxZX2lYOWVVdkU5R00?oc=5",
-    "title": "\"AI 기반 야구 콘텐츠 제작된다' KBO, WSC Sports와 파트너십 체결",
-    "summary": [
-      "\"AI 기반 야구 콘텐츠 제작된다' KBO, WSC Sports와 파트너십 체결 v.daum.net."
-    ],
-    "chips": [
-      "#AI",
-      "#KBO"
     ]
   },
   {
@@ -153,7 +138,7 @@ window.NEWS_DB = [
     "id": "ndda47320",
     "category": "사회",
     "source": "이치저널",
-    "time": "16일 전",
+    "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
     "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
     "summary": [
@@ -161,6 +146,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n04ff92de",
+    "category": "사회",
+    "source": "v.daum.net",
+    "time": "18일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rMVM4WE5iYkc3YUMwYk9QZnU4S2xRMVJISjRpQ1Nub0V0VHo4NWhfQjNfRXN5V3kyMDdGR3o3UUN5M3pOYzlLVDhBbHBzdVRWWDBGXw?oc=5",
+    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
+    "summary": [
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
+    ],
+    "chips": [
+      "#채용",
       "#취업",
       "#고용"
     ]
@@ -179,21 +180,6 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
-    ]
-  },
-  {
-    "id": "n2aad78a4",
-    "category": "사회",
-    "source": "스포츠동아",
-    "time": "21일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
-    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
-    "summary": [
-      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 스포츠동아."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -302,6 +288,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "107일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -317,62 +317,197 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd4f0912c",
-    "category": "스포츠",
-    "source": "조선일보",
+    "id": "n6284d447",
+    "category": "사회",
+    "source": "동아일보",
     "time": "3분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/18/HEZDOYJRMM2TANBSMMYDKMBXGI/",
-    "title": "\"스파이더맨 캐치? 3번 해봤다\" 1m96 장신의 감각적인 점프 → 연타석 아치까지…수원의 '보물' 떴다 [인터뷰]",
+    "url": "https://www.donga.com/news/Inter/article/all/20260718/134319624/1",
+    "title": "아일랜드 첫 아카데미상 수상 여배우 브렌다 프리커 별세…향년 81세",
     "summary": [
-      "잠실=스포츠조선 김영록 기자] \"메이저리그 시절에 3번 정도 홈런 타구를 훔친 적이 있다.\" 1m96의 큰 키에 어울리지 않은 빠른 스피드, 여기에 날아오르는 듯한 탄력까지.",
-      "KT 위즈 샘 힐리어드가 이틀 연속 잠실 하늘을 수놓았다.",
-      "어제는 자신의 몸이었고, 오늘은 쏘아올린 홈런 타구였다."
+      "1989년 영화 ‘나의 왼발’로 이듬해 아일랜드 여배우로는 처음으로 아카데미 여주조연상을 수상한 브렌다 프리커가 16일 81세의 나이로 별세했다고 BBC 방송이 17일 보도했다.",
+      "그녀의 소속사인 필 벨필드는 성명에서 “16일 밤 더블린에서 ‘건강 악화’ 끝에 별세했다“며 ”우리는 다시는 그녀와 같은 사람을 볼 수 없을 것이며, 그녀가 없는 세상은 더욱 삭막해졌다”고 말했다.영화 ‘나의 왼발’은 뇌성마비를 가지고 태어나 왼발만 움직일 수 있었던."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n79456755",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718003400527",
+    "title": "전북 군산어청도에 호우주의보 해제",
+    "summary": [
+      "(전주=연합뉴스) 기상청은 군산어청도에 내렸던 호우주의보를 18일 오전 2시를 기해 해제한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf915d4ae",
+    "id": "n55c6a7f5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718003300527",
+    "title": "파주남부 등 경기 3곳 호우경보…고양 등 9곳 호우주의보 유지",
+    "summary": [
+      "(의정부=연합뉴스) 기상청은 18일 오전 3시를 기해 파주남부·파주서북부·파주동북부에 호우경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n39aa384d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718003200527",
+    "title": "인천 강화 등에 호우경보…백령도·대청도에 강풍주의보",
+    "summary": [
+      "(인천=연합뉴스) 기상청은 18일 오전 3시를 기해 강화에 호우경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9517e1a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718003100527",
+    "title": "경기 김포에 호우경보…성남 등 8곳 호우주의보 유지",
+    "summary": [
+      "(수원=연합뉴스) 기상청은 18일 오전 3시를 기해 김포에 호우경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9fc22711",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713347",
+    "title": "\"재개발 옆이면 무조건 오른다?\" 빌라 투자자들이 놓치는 위험 신호",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 서울 집값 상승세가 이어지는 가운데 재개발 기대감만으로 빌라 투자에 나서는 것은 위험하다는 부동산 전문가의 경고가 나왔다.",
+      "구독자 272만 명을 보유한 유튜브 채널 ‘김작가TV’는 지난 15일 공개한 영상에서 최근 부동산 시장 흐름과 재개발 투자 전략, 갭투자 등에 대한 분석을 다뤘다.",
+      "채널에 출연한 송희구 작가는 재개발 기대감만으로 빌라를 매수하는 것은 위험하다고 강조했다."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
+    "id": "n19b17932",
     "category": "사회",
     "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/18/MU2DGMJXMVSGINBRGYZDGZDDGQ/",
-    "title": "“황인범, 85억에 포르투 간다” 페예노르트와 원칙적 합의…3년+1년 계약-일요일 메디컬",
+    "time": "34분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/18/HA2TOZDEGFRTOMZTMRRDAMRWGA/",
+    "title": "멕시코·과테말라 인근 해역서 규모 7.3 지진 발생",
     "summary": [
-      "[OSEN=이인환 기자] 황인범(29)이 페예노르트를 떠나 포르투갈 명문 FC포르투 유니폼을 입는다.",
-      "메디컬 테스트를 통과하면 계약 기간 3년에 1년 연장 옵션이 붙은 장기 계약이 완성된다.포르투갈 ‘헤코르드’는 17일(한국시간) “포르투와 페예노르트가 황인범의 이적료 500만 유로(약 85억 원)에 원칙적으로 합의했다.",
-      "황인범은 메디컬 테스트와 계약 체결."
+      "멕시코와 과테말라 국경 인근 바다에서 규모 7.3의 지진이 발생했다.",
+      "지난달 24일 베네수엘라 북부를 강타한 연쇄 강진이 발생한 지 약 3주 만이다.",
+      "미 지질조사국(USGS)에 따르면 멕시코 현지 시각으로 이날 오전 8시 24분쯤(한국 시간 오후 11시 24분) 멕시코 남부 도시 푸에르토마데로에서 남서쪽으로 약 50㎞ 떨어진 태평양 연안에서 측정 규모 7."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf54717e8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/18/HE2WCNZXMI2TQNBRGZTDQYRRME/",
-    "title": "“19금만 찍었더니..\" 이희준 아들, 아빠 직업 모르는 이유 폭소 ('옥탑방')",
+    "id": "n6903bf21",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "39분 전",
+    "url": "https://www.hankyung.com/article/202607170970i",
+    "title": "\"고기 반찬 못 먹어\"...최고 권력자 거절한 남자의 '반전 결말' [성수영의 그때 그 사람들]",
     "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] ‘배우 이희준이 8세 아들이 아직 자신이 배우라는 사실을 제대로 모른다며 유쾌한 일화를 공개했다.17일 방송된 KBS2 ‘옥탑방의 문제아들’에는 배우 진선규와 이희준이 출연해 결혼생활과 가족 이야기를 털어놨다.먼저 이날 진선규는 배우 김보경과 결혼 17년 차라고 밝혔다."
+      "\"고기 반찬 못 먹어\"...최고 권력자 거절한 남자의 '반전 결말' [성수영의 그때 그 사람들]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na1239a73",
+    "id": "n7109980f",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/18/MFQWMY3EHA4WCMJUMRSWEMDGMI/",
-    "title": "'대반전' LG만 만나면 꼬였는데, LG만 만나면 펄펄 난다! 챔피언 7승3패 압도 실화? “6타점 힐리어드가 승리 이끌어”",
+    "time": "43분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/18/MJSGGMTDHAYDAZJZMRTGKZRVG4/",
+    "title": "프랑스 이어 잉글랜드도 \"너무 일찍, 너무 깊게 내려갔다\"...고참 3명, 아르헨전 투헬 전술에 내부 불만 폭발",
     "summary": [
-      "[OSEN=잠실, 이후광 기자] LG만 만나면 작아졌던 KT 위즈가 이제 LG만 만나면 펄펄 난다.",
-      "프로야구 KT 위즈는 17일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 LG 트윈스와의 시즌 10차전에서 6-1로 승리했다.",
-      "3위 KT는 파죽의 5연승을 달리며 2위 LG를 1.5경기 차 턱밑 추격했다."
+      "[OSEN=정승우 기자] 잉글랜드 대표팀 내부에서도 토마스 투헬 감독의 아르헨티나전 운영을 두고 불만이 나온 것으로 알려졌다.",
+      "최소 3명의 고참 선수가 지나치게 이른 수비 전환과 소극적인 경기 운영에 아쉬움을 드러냈다는 보도다.영국 'BBC'는 17일(한국시간) \"아르헨티나와 월드컵 준결승전 막판 잉글랜드가 수비적으로 내려앉은 방식은 대표팀 선수들 사이에서."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na1ef91ad",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "44분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260718/134319098/2",
+    "title": "메시의 아르헨 vs 푸엔테의 스페인… 챔피언 반지 다툰다",
+    "summary": [
+      "‘축구의 신’ 리오넬 메시(아르헨티나)는 “내가 할 수 있는 모든 것을 다 했지만, 챔피언이 되지 못해 가슴이 아프다”며 국가대표팀 은퇴를 선언했다.",
+      "아르헨티나가 이날 미국 뉴저지주 메트라이프 스타디움에서 열린 남미축구선수권대회(코파아메리카) 결승에서 칠레에 승부차기 끝에 패한 뒤였다.",
+      "승부차기 첫 번째 키커로 나와 실축한 메시는 2014 브라질 월드컵, 2015 코파아메리카에 이어 3년 연속 메이저대회 준우승에 그친."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2efa823a",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "44분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260718/134319095/2",
+    "title": "아르헨 대통령 “직관하면 질까봐”… TV로 결승전 시청",
+    "summary": [
+      "월드컵 결승전은 축구팬이라면 누구나 눈으로 담고 싶어 하는 경기다.",
+      "하물며 자국이 펼치는 결승전이라면 말할 나위가 없다.",
+      "하지만 하비에르 밀레이 아르헨티나 대통령(사진)은 ‘직관’ 대신 ‘집관’을 택했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na37e79c2",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "44분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260718/134319093/2",
+    "title": "‘FA’ 르브론 제임스 “어느 팀으로 갈지 미정”",
+    "summary": [
+      "17일 미국 뉴욕에서는 스포츠 페스티벌인 ‘파나틱스 페스트’가 열렸다.",
+      "이 중 팬들의 관심이 가장 집중된 행사는 공개 방송으로 진행된 팟캐스트 ‘마인드 더 게임’이었다.",
+      "이달 초 미국프로농구(NBA) 로스앤젤레스(LA) 레이커스와 결별한 ‘킹’ 르브론 제임스(42·사진)가 출연했기 때문이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n933053a3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/18/GI3DSOBRMMZDGODCGM4TMYLFMU/",
+    "title": "‘역대 16번째 300홈런’ 나성범, 왜 400홈런이 멀게 느껴질까 “(노)시환이처럼 11년 계약이면 도전하겠지만…”",
+    "summary": [
+      "[OSEN=인천, 길준영 기자] 프로야구 KIA 타이거즈 나성범(37)이 통산 300홈런을 달성한 것에 대한 자부심을 내비쳤다.",
+      "나성범은 지난 17일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에 4번 지명타자로 선발출장해 5타수 3안타 1홈런 5타점 1득점을 기록했다.",
+      "1회초 무사 만루 찬스에서 첫."
     ],
     "chips": [
       "#KBO"
@@ -382,7 +517,7 @@ window.NEWS_DB = [
     "id": "nc9a75442",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260718_0003713468",
     "title": "멕시코 남부 해안 규모 7.4 강진·쓰나미 경보",
     "summary": [
@@ -395,66 +530,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd77b5524",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718002400527",
-    "title": "경북 영주·의성에 호우주의보 해제",
-    "summary": [
-      "(대구=연합뉴스) 기상청은 영주·의성에 발령했던 호우주의보를 18일 오전 1시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbcafb62b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718001800527",
-    "title": "대구시중부에 18일 0시 호우주의보 해제",
-    "summary": [
-      "(대구=연합뉴스) 기상청은 대구시중부에 발령했던 호우주의보를 18일 0시 30분을 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b6fe406",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718001700527",
-    "title": "경산 등 경북 4곳 호우주의보 해제…영주·의성에는 유지",
-    "summary": [
-      "(대구=연합뉴스) 기상청은 경산·상주·문경·예천에 내렸던 호우주의보를 18일 0시 30분을 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n049d7d55",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718001600527",
-    "title": "성남 등 경기 4곳 호우주의보…화성 등 4곳 호우주의보 유지",
-    "summary": [
-      "(수원=연합뉴스) 기상청은 18일 0시 30분을 기해 성남·광주·양평서부·양평동부에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nde65e25a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260716_0003711522",
     "title": "\"배변 후 묻어난 피\"…젊은데 혹시 내가 이 암?[몸의경고]",
     "summary": [
@@ -467,42 +546,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6fe98cca",
+    "id": "n27b16e71",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712826",
-    "title": "전국 유일 공공커피박물관 존폐 기로…\"기증자 예우도 없다\"",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/07/18/23O3TR4K65B4BPYNGZVPZULDSM/",
+    "title": "못 낚으면 손톱 뽑힌다… ‘스캠 산업’의 진실",
     "summary": [
-      "[부산=뉴시스]원동화 기자 = \"부산시를 믿고 40년 동안 모은 커피 유물을 기증했는데, 이 유물들이 길거리에 나앉게 생겼습니다.\" 전국 유일의 공공커피박물관인 부산 국제커피박물관이 부산해사국제상사법원 임시청사 조성으로 존폐 기로에 놓였다.",
-      "박물관이 입주한 부산 동구 문화플랫폼 시민마당(옛 부산진역사)이 임시청사로 활용되면서 올해 말 운영 종료 가능성이 제기되고 있기 때문이다.",
-      "16일 뉴시스와 만난 이혜영 국제커피박물관장은 \"기증자에 대한 예우."
+      "못 낚으면 손톱 뽑힌다… ‘스캠 산업’의 진실."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n29e5c381",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712110",
-    "title": "부산교육청, 여름방학 다양한 프로그램…\"캠프·특강·체험\"",
-    "summary": [
-      "[부산=뉴시스] 하경민 기자 = 부산시교육청은 여름방학을 맞아 학생들을 대상으로 한 다양한 프로그램이 운영된다고 18일 밝혔다.",
-      "먼저 부산교육청 창의융합교육원은 오는 22~25일 부산수학문화관에서 초·중·고교 학생 360명을 대상으로 '2026년 부산수학문화관 여름 체험수학 캠프'를 개최한다.",
-      "이번 캠프에서 초등학교 5·6학년 학생들은 콰르토 도형연구소 등 다양한 체험 프로그램을 통해 도형과 공간에 담긴 수학 원리를 탐구하고, 부산수학문화관 전."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
     "id": "ndc4e961b",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026071573577",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 18일 띠별 추천 점심메뉴",
     "summary": [
@@ -513,68 +574,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf7e69578",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319502/1",
-    "title": "키키·하투하·악뮤, 빌보드 선정 상반기 최고의 K-팝",
-    "summary": [
-      "미국 음악 전문 매체 빌보드가 올 상반기 K-팝 신을 결산하는 ‘2026년 최고의 K-팝 노래 25선(THE 25 BEST K-POP SONGS OF 2026 SO FAR)’을 발표했다.15일(현지시간) 빌보드에 따르면, 올 상반기 K-팝 최고의 곡으로 꼽힌 1위는 스타쉽엔터테인먼트 소속 신인 걸그룹 ‘키키(KiiiKiii)’의 ‘404 (New Era)’가 차지했다.",
-      "인터넷 오류 코드인 ‘404’를 역발상으로 뒤집어 새로운 시대로의 진입을 선."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n12bc83ef",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319499/1",
-    "title": "‘K-팝’ 엔하이픈·‘라틴팝’ 산토스 브라보스, 멕시코 월드컵 축제 달궜다",
-    "summary": [
-      "K-팝 대세 그룹 ‘엔하이픈(ENHYPEN)’과 하이브 라틴 팝 그룹 ‘산토스 브라보스(SANTOS BRAVOS)’가 북중미 월드컵 개최 기념 축제에서 무대를 펼쳤다.17일 이들 소속사 하이브(HYBE)에 따르면, 두 팀은 지난 15일(현지시간) 멕시코시티에서 열린 ‘2026 FIFA 북중미 월드컵’ 개최 기념 복합 문화 축제 ‘캄포 마르테 26(CAMPO MARTE 26)’에 출연해 2시간 동안 공연을 진행했다.이날 엔하이픈은 ‘패러독스 인베."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf284c8e5",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319493/1",
-    "title": "‘9월 결혼’ 양나래 변호사, 훈남 예비신랑 공개…“평생 함께할 동반자”",
-    "summary": [
-      "양나래 변호사가 9월의 신부가 되는 소감을 밝혔다.양나래 변호사는 17일 자신의 인스타그램에 “다가오는 9월, 제가 평생을 함께할 소중한 동반자를 만나 결혼하게 됐다”는 글을 게재했다.이어 그는 예비 신랑에 대해 “옳고 그름을 바라보는 가치관이 같고, 함께 꿈꾸는 미래의 방향이 같으며, 서로에게 사랑을 표현하는 방식까지 닮은 참 좋은 사람”이라고 알렸다.또한 양나래 변호사는 “오늘 ‘아침마당’ 방송 이후 기사로 먼저 소식을 접하신 분들도 계실."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4fc0b897",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319489/1",
-    "title": "‘윤주모’ 리센느 미나미 “BTS·트와이스 성덕 됐다…행복해서 잠 못 자”",
-    "summary": [
-      "‘술 빚는 윤주모’ 리센느 미나미가 ‘거제 야호’ 덕분에 성덕이 됐다고 밝혔다.17일 유튜브 채널 ‘술 빚는 윤주모’에는 대세 그룹 리센느의 리브, 미나미, 제나가 윤나라 셰프(술 빚는 윤주모)의 윤주당을 방문해 함께한 영상이 공개됐다.갸루 콘셉트의 콘텐츠를 통해 ‘거제 야호’ 밈을 탄생시킨 미나미.",
-      "미나미는 방탄소년단부터 전지현, 트와이스 등 많은 스타들이 따라 한다는 소식에 “저희도 아이돌을 보면서 꿈꿔왔는데, 그런 선배님들이 저희 것을 따."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
     "id": "n8ac16c4d",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260717231908",
     "title": "기상청, 대구 수성구 지산1동에 올해 첫 ‘재난성호우 긴급재난문자’",
     "summary": [
@@ -588,7 +591,7 @@ window.NEWS_DB = [
     "id": "ndec7e9ca",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260717231002",
     "title": "HCL테크와 가디언, 기술 및 운영 전반의 AI 기반 현대화를 위한 파트너십 확대",
     "summary": [
@@ -602,7 +605,7 @@ window.NEWS_DB = [
     "id": "ne6cdfc8a",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026071714307",
     "title": "서울시, 29개 하천 통제…호우 대비 비상 대응 돌입",
     "summary": [
@@ -616,7 +619,7 @@ window.NEWS_DB = [
     "id": "n8c745c15",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153479",
     "title": "[글로벌] 中, AI 동반자 과몰입 규제...이용자들 AI와 이별에 '충격'",
     "summary": [
@@ -635,14 +638,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
