@@ -1,12 +1,12 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-17 19:25:06
+// 마지막 업데이트: 2026-07-17 20:18:18
 window.NEWS_DB = [
   {
-    "id": "ne15d9909",
+    "id": "n731018b8",
     "category": "IT",
     "source": "머니투데이",
-    "time": "4시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcVlGTXhOTWJxNkNtdFRWZEdCTm9TVm1lcXRFUWJrN3M2enZnWmoyd2NmNTJVODlIMUlvX25uSGNCOHZ4eVkxZlRXYjRRNi15QUx2Rkh5aEpQZHBJYUVQMUtTQ2VQMjRH0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
+    "time": "5시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xZnJjcnhJLXp1UVpqcHYyTFVBRU85UHljRTZIRTc0TjduU2J6WGlaQ0lQLWxYMm5Ib0NBNUZaTlY4czZxVWdaYm81d3Z3bVF3QVljQmEwYm9mU1JBc0t3RlItdjZ6cDZ4UGdRSU9B0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
     "title": "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이",
     "summary": [
       "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이 머니투데이."
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "na3780e93",
     "category": "IT",
     "source": "헤럴드경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNzhhUVFBeWV1TWw0dFNKaWltb1lURTlzc2NjNWtKWTlUaUxHZE1qUDhuYWM2bW5pZkxLZ3RQRktnbWlBb2xzMV9zZk5RbHMteGhxNDB3?oc=5",
     "title": "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nc281528f",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
     "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
     "summary": [
@@ -317,177 +317,189 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd413be02",
+    "id": "ndb0c8fd9",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718006400527",
-    "title": "서울 동남·동북권에 호우경보…서울 서쪽에 호우경보 유지",
-    "summary": [
-      "(서울=연합뉴스) 기상청은 18일 오전 4시를 기해 서울 동남·동북권에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne10578d8",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/18/2026071723344752424",
-    "title": "김영웅 2G 연속 대포→박진만도 흡족! \"페이스 조금씩 찾아가는 것 같아, 우리는 원래 홈런의 팀\"",
-    "summary": [
-      "삼성 라이온즈는 2025시즌 '홈런의 팀'이었다.",
-      "무려 161개의 홈런을 쏘아 올리며 2025시즌 팀 홈런 부문 1위였다.",
-      "그 중심에는 당시 22홈런을 때린 김영웅(23)의 역할이 분명히 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc28913de",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718006500527",
-    "title": "천안 등 충남 5곳 호우주의보…아산 등 12곳 호우주의보 유지",
-    "summary": [
-      "(대전=연합뉴스) 기상청은 18일 오전 6시를 기해 천안·공주·부여에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n542bef0c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718006300527",
-    "title": "남양주 등 경기 3곳 호우경보…고양 등 9곳 호우경보 유지",
-    "summary": [
-      "(의정부=연합뉴스) 기상청은 18일 오전 4시를 기해 남양주·구리·가평에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne71cc844",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718006200527",
-    "title": "세종북부에 호우주의보…세종남부에 호우주의보 유지",
-    "summary": [
-      "(대전=연합뉴스) 기상청은 18일 오전 6시를 기해 세종북부에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n988e3acb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713475",
-    "title": "멕시코·과테말라 국경 인근 바다 규모 7.3 지진…인명피해 없어(종합)",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 멕시코 남부 태평양 연안 과테말라 국경 인근 바다에서 규모 7.3의 강력한 지진이 발생해 과테말라와 엘살바도르까지 진동이 느껴졌다.",
-      "지진 발생 초반 쓰나미 경보도 발령됐다.",
-      "AP 통신은 17일(현지 시각) 어느 나라에서도 심각한 피해나 사상자는 보고되지 않았다고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n410144e0",
-    "category": "스포츠",
     "source": "조선일보",
-    "time": "51분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/18/GZRTSOBRHA4DIOJRGQ2DSNRYG4/",
-    "title": "\"'독도는 우리 땅' 외친 박종우처럼 될지도\" 월드컵 결승전 코앞인데...\"말비나스는 아르헨 것\" 현수막에 FIFA 징계 가능성 제기",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/18/UR5GX45FARGVFDQKSSOTC47XSI/",
+    "title": "더위로 허해졌다면, 홍삼까지 넣은 흑염소 30포 1만6000원 초특가",
     "summary": [
-      "[OSEN=고성환 기자] 아르헨티나 선수들이 '독도남' 박종우(37)처럼 징계를 피하지 못하게 될까.",
-      "잉글랜드전 역전승 이후 '포클랜드 제도' 관련 세리머니를 펼치면서 14년 전 박종우의 이름이 다시 언급되고 있다.아르헨티나 '앰비토'는 16일(한국시간) \"FIFA가 말비나스 제도(포클랜드 제도) 관련 현수막에 대해 조사에 착수할 것으로 보인다."
+      "더위로 허해졌다면, 홍삼까지 넣은 흑염소 30포 1만6000원 초특가."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd9ac9cf8",
+    "id": "n4b28ba8a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713473",
-    "title": "“트럼프, 오바마보다 너 나쁜 이란 핵협상 이끌어낼 것” WP·입소스 여론조사",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713463",
+    "title": "김상혁 \"테일러숍 등 여러 사업 운영…대기업 연봉 이상 매출\"",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 대통령은 이란의 핵무기 개발을 막겠다며 전쟁을 벌이면서 버락 오바마 전 대통령의 2015년 핵 협정이 재앙이라고 비판했다.",
-      "그러면서 자신은 훨씬 더 나은 결과를 만들어낼 것이라고 자신했다.",
-      "워싱턴 포스트(WP)와 입소스가 공동으로 실시한 여론조사에서는 트럼프가 오바마 보다 더 나쁜 협상 결과를 내놓을 것이라는 응답이 월등히 높았다."
+      "[서울=뉴시스]강주희 기자 = 그룹 클릭비 출신 김상혁이 사업가로 성공한 근황을 공개했다.",
+      "17일 방송된 채널A 예능 프로그램 '신랑수업2'에는 김상혁이 새로운 입학생으로 출연했다.",
+      "이날 김상혁은 자신이 운영하는 테일러숍을 찾았다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "na7005ddf",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/18/B3CHSTXC5FDEXJVPBXHB4XHUHA/",
+    "title": "“진짜 모기를 잡네” 10만대 판매 돌파한 감전식 모기퇴치기 조선몰 단독 특가",
+    "summary": [
+      "“진짜 모기를 잡네” 10만대 판매 돌파한 감전식 모기퇴치기 조선몰 단독 특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a1738cf",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718007900072",
+    "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 인공지능(AI) 관련 반도체 종목 매도세가 이어지면서 17일(현지시간) 뉴욕증시가 하락했다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nec2f6ebd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718007600071",
+    "title": "美국토안보장관 \"선거보안에 협조 않는 州공무원 징역살 수도\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 도널드 트럼프 행정부는 17일(현지시간) 연방 정부 차원의 선거 보안 강화 조처에 협조하지 않는 주(..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n2aaf63cd",
+    "id": "n606f8e37",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/18/2026071802564886428",
-    "title": "진선규, 남성 호르몬 수치 정상 이하로 떨어져…김종국 \"하체 운동 해야\"",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713480",
+    "title": "[속보] 뉴욕증시, 반도체 주식 매도세로 3대 지수 하락 마감…나스닥 1.40%↓",
     "summary": [
-      "진선규가 남성 호르몬 수치가 정상 이하로 떨어졌다고 고백했다.",
-      "김종국은 하체 운동을 권했고 이희준은 김종국보다도 높은 호르몬 수치를 자랑해 스튜디오를 술렁이게 했다.",
-      "17일 방영된 KBS2 '옥탑방의 문제아들' 321회에서는 배우 진선규와 이희준이 출연해 근황을 전했다."
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 kjdragon@newsis.com."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n79fba03e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/18/QPFBAVQ6EBEODBFDKDQI47VOSI/",
+    "title": "폭우와 강풍에 끄떡없는 108 살대 3단 자동 우산, 1만4000원 초특가",
+    "summary": [
+      "폭우와 강풍에 끄떡없는 108 살대 3단 자동 우산, 1만4000원 초특가."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5edf71d0",
+    "id": "n0872ec40",
     "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/18/HR44KJOKDREC3CDEAWFHY5GTMM/",
-    "title": "김 대리가 침 흘리며 반한 연예인급 미녀… “제 아내인데요?”",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718007700527",
+    "title": "태백 등 강원 5곳 호우주의보…춘천 등 4곳 호우경보 유지",
     "summary": [
-      "김 대리가 침 흘리며 반한 연예인급 미녀… “제 아내인데요?”."
+      "(춘천=연합뉴스) 기상청은 18일 오전 5시를 기해 태백·정선평지·정선산지·삼척산지·동해산지에 호우주의보를 발효한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na447197f",
+    "id": "n7458981c",
     "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/07/18/EVMSWXZLUNHCVAX7NOYB3NHGGQ/",
-    "title": "토박이가 ‘부산 온 절친’에게만 소개하는 비밀의 식당 속편",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713142",
+    "title": "영국 4시간 바위에 갇힌 어린이…구조대가 꺼낸 건 '주방 세제'",
     "summary": [
-      "토박이가 ‘부산 온 절친’에게만 소개하는 비밀의 식당 속편."
+      "[서울=뉴시스]전민영 인턴 기자 = 영국에서 학교 현장학습에 나섰던 11세 소녀가 거대한 바위 틈에 다리가 끼여 4시간 넘게 고립됐다가 구조대의 기지로 무사히 구조됐다.",
+      "각종 구조 장비로도 소녀를 꺼내지 못하자 구조대는 마찰을 줄이기 위해 주방 세제를 사용했고 소녀는 큰 부상 없이 현장을 걸어서 떠났다.",
+      "지난달 28일(현지시간) 영국 매체 더 인디펜던트에 따르면 영국 데번주 다트무어 국립공원 하운드 토어에서 학교 현장학습을 하던 11세 섀넌 페."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nd83cf595",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718007100527",
+    "title": "인천 옹진에 호우경보…강화 등 5곳 호우경보 유지",
+    "summary": [
+      "(인천=연합뉴스) 기상청은 18일 오전 4시 45분을 기해 옹진에 호우경보를 발효한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf5179d2e",
+    "id": "n71e40e11",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713478",
+    "title": "중부지방 '물폭탄'에 위기경보 '경계' 격상…중대본 2단계 가동",
+    "summary": [
+      "[서울=뉴시스] 강지은 기자 = 행정안전부는 서울·인천·경기·강원 지역에 호우경보가 발효됨에 18일 오전 4시30분부로 풍수해 위기경보를 '경계'로 상향하고, 중앙재난안전대책본부(중대본) 2단계 비상근무를 가동했다고 밝혔다.",
+      "전날부터 현재까지 많은 곳은 120㎜ 이상 비가 내린 가운데, 19일까지 수도권과 강원 지역을 중심으로 많은 곳은 최대 300㎜ 이상의 비가 예보된 상태다.",
+      "이에 따라 윤호중 행안부 장관은 인명피해 방지를 최우선 목표로 지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n58e12871",
     "category": "사회",
     "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/18/C6PAHS42W5AHHHLO7SUEC4J4WY/",
-    "title": "옥수수처럼 뿌리내리길 바랐건만… 박완서 혼란스럽게 한 조카의 선택",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/politics/goverment/2026/07/18/A26BHPHASFD5RN4LQ3R5LAEIRU/",
+    "title": "[단독] 文정부 감사한 감사관 육아휴직 막은 감사원",
     "summary": [
-      "옥수수처럼 뿌리내리길 바랐건만… 박완서 혼란스럽게 한 조카의 선택."
+      "[단독] 文정부 감사한 감사관 육아휴직 막은 감사원."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1f6fa06",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718006800072",
+    "title": "국제유가, 미·이란 확전 양상에 4.5%↑…브렌트 90달러 육박",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란이 다시 무력 충돌하는 국면이 일주일째 이어진 17일(현지시간) 걸프 국가의 민간 인프라까지 타격..."
     ],
     "chips": [
       "#뉴스"
@@ -497,7 +509,7 @@ window.NEWS_DB = [
     "id": "na8972e4b",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260718/134319630/1",
     "title": "미군 “호르무즈 해협 상선 추적용 이란 감시탑 성공적 파괴”",
     "summary": [
@@ -511,7 +523,7 @@ window.NEWS_DB = [
     "id": "nbd4c1b7a",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260718/134319627/1",
     "title": "캐나다 산불 연기로 워싱턴DC 대기질 악화 ‘코드 퍼플’ 발령",
     "summary": [
@@ -540,27 +552,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9fc22711",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713347",
-    "title": "\"재개발 옆이면 무조건 오른다?\" 빌라 투자자들이 놓치는 위험 신호",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 서울 집값 상승세가 이어지는 가운데 재개발 기대감만으로 빌라 투자에 나서는 것은 위험하다는 부동산 전문가의 경고가 나왔다.",
-      "구독자 272만 명을 보유한 유튜브 채널 ‘김작가TV’는 지난 15일 공개한 영상에서 최근 부동산 시장 흐름과 재개발 투자 전략, 갭투자 등에 대한 분석을 다뤘다.",
-      "채널에 출연한 송희구 작가는 재개발 기대감만으로 빌라를 매수하는 것은 위험하다고 강조했다."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
     "id": "n6903bf21",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202607170970i",
     "title": "\"고기 반찬 못 먹어\"...최고 권력자 거절한 남자의 '반전 결말' [성수영의 그때 그 사람들]",
     "summary": [
@@ -574,7 +569,7 @@ window.NEWS_DB = [
     "id": "na1ef91ad",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260718/134319098/2",
     "title": "메시의 아르헨 vs 푸엔테의 스페인… 챔피언 반지 다툰다",
     "summary": [
@@ -587,42 +582,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n38f49716",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/18/2026071800011725460",
-    "title": "'韓 23세 국대' 챔피언스리그 무대 보인다, '무려 1조 6800억' 한국계 女 회장 구단 러브콜 \"놀라운 이적 임박\"",
-    "summary": [
-      "대한민국 국가대표 미드필더가 유럽 최고의 무대에서 뛸 절호의 기회를 잡았다.",
-      "배준호(23·스토크 시티)의 프랑스 명문 올림피크 리옹 이적이 임박했다.",
-      "영국 매체 '풋볼 리그 월드'는 17일(한국시간) \"스토크의 핵심 공격 자원 배준호가 계약 종료를 1년 앞두고 프랑스 거함 리옹의 영입 대상으로 낙점됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n759f9efe",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/18/2026071720170685640",
-    "title": "무너진 시라카와→'불펜 이의리+마무리 조상우'가 막았다... '4위 한계' 넘어설 비장의 카드 될까",
-    "summary": [
-      "KIA 타이거즈의 후반기 첫 승엔 남다른 의미가 담겨 있었다.",
-      "이범호(45) 감독이 이끄는 KIA는 17일 인천 SSG랜더스필드에서 열린 SSG 랜더스와 2026 신한 SOL KBO리그 방문경기에서 6-3으로 이겼다.",
-      "전날 패배로 시작했지만 이날 승리하며 46승 40패 2무로 4위를 지켰다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "ndc4e961b",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026071573577",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 18일 띠별 추천 점심메뉴",
     "summary": [
@@ -630,6 +593,34 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n8ac16c4d",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "5시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260717231908",
+    "title": "기상청, 대구 수성구 지산1동에 올해 첫 ‘재난성호우 긴급재난문자’",
+    "summary": [
+      "[지디넷코리아]기상청이 시간당 100㎜에 이르는 극단적 호우가 쏟아진 대구 수성구 지산1동에 올해 추가 신설한 재난성 호우 긴급재난문자(CBS)를 발송했다.기상청은 17일 오후 10시 10분 기준 중부지방에 위치한 정체전선 상에서 발달한 중규모 저기압에 의한 다량의 고온다습한 수증기 유입으로 시간당 100㎜에 상당하는 강수가 관측됨에 따라 국민이 위험 상황을 신속하게 인지하고 즉시 안전을 확보할 수 있도록 재난성호우 긴급재난문자가 발송했다고 밝."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndec7e9ca",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "6시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260717231002",
+    "title": "HCL테크와 가디언, 기술 및 운영 전반의 AI 기반 현대화를 위한 파트너십 확대",
+    "summary": [
+      "[지디넷코리아] 뉴욕 및 인도 노이다, 2026년 7월 17일 /PRNewswire/ -- 글로벌 선도 기술 기업 HCL테크(HCLTech)(NSE: HCLTECH)(BSE: HCLTECH)가 7월 16일 미국 최대 상호보험회사 중 하나이자 보험, 은퇴, 자산 관리 및 직원 복지 솔루션의 선도적 제공업체인 가디언 생명보험회사(The Guardian Life Insurance Company of America®•Guardian)와 새로운 7년 계."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -639,20 +630,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
