@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-17 15:26:23
+// 마지막 업데이트: 2026-07-17 16:25:26
 window.NEWS_DB = [
   {
     "id": "ne15d9909",
     "category": "IT",
     "source": "머니투데이",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcVlGTXhOTWJxNkNtdFRWZEdCTm9TVm1lcXRFUWJrN3M2enZnWmoyd2NmNTJVODlIMUlvX25uSGNCOHZ4eVkxZlRXYjRRNi15QUx2Rkh5aEpQZHBJYUVQMUtTQ2VQMjRH0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
     "title": "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "na3780e93",
     "category": "IT",
     "source": "헤럴드경제",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNzhhUVFBeWV1TWw0dFNKaWltb1lURTlzc2NjNWtKWTlUaUxHZE1qUDhuYWM2bW5pZkxLZ3RQRktnbWlBb2xzMV9zZk5RbHMteGhxNDB3?oc=5",
     "title": "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nc281528f",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "44분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
     "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
     "summary": [
@@ -60,6 +60,21 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "ne414629f",
+    "category": "스포츠",
+    "source": "v.daum.net",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05ai1KS2VMS1ktNHUzTWpXbGptSHZHemZHSEo2UFB6cWZDbTNoVFJERDhzZjZGWUZjcjBoOHlOdGducGxZX2lYOWVVdkU5R00?oc=5",
+    "title": "\"AI 기반 야구 콘텐츠 제작된다' KBO, WSC Sports와 파트너십 체결",
+    "summary": [
+      "\"AI 기반 야구 콘텐츠 제작된다' KBO, WSC Sports와 파트너십 체결 v.daum.net."
+    ],
+    "chips": [
+      "#AI",
+      "#KBO"
     ]
   },
   {
@@ -117,20 +132,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "ndc5a5570",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jUVpvSW1tN3NaZEdKaTg4cWk5TmFfRERsTG5uU2x2VVBmMW1YRjVTcjVsOF9rd0IxQmJhMVV3aXhDcFZVR3c?oc=5",
-    "title": "폭염 경보 뛰어넘은 야구 열기...KBO 올스타전 5년 연속 매진",
-    "summary": [
-      "폭염 경보 뛰어넘은 야구 열기...KBO 올스타전 5년 연속 매진 v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -316,187 +317,206 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6da91ed8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718001400072",
-    "title": "[속보] 美경보센터 \"진앙 300㎞ 이내 멕·콰테말라 해변 쓰나미 가능성\"",
-    "summary": [],
+    "id": "nd4f0912c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/18/HEZDOYJRMM2TANBSMMYDKMBXGI/",
+    "title": "\"스파이더맨 캐치? 3번 해봤다\" 1m96 장신의 감각적인 점프 → 연타석 아치까지…수원의 '보물' 떴다 [인터뷰]",
+    "summary": [
+      "잠실=스포츠조선 김영록 기자] \"메이저리그 시절에 3번 정도 홈런 타구를 훔친 적이 있다.\" 1m96의 큰 키에 어울리지 않은 빠른 스피드, 여기에 날아오르는 듯한 탄력까지.",
+      "KT 위즈 샘 힐리어드가 이틀 연속 잠실 하늘을 수놓았다.",
+      "어제는 자신의 몸이었고, 오늘은 쏘아올린 홈런 타구였다."
+    ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2be913ba",
+    "id": "nf915d4ae",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/18/MU2DGMJXMVSGINBRGYZDGZDDGQ/",
+    "title": "“황인범, 85억에 포르투 간다” 페예노르트와 원칙적 합의…3년+1년 계약-일요일 메디컬",
+    "summary": [
+      "[OSEN=이인환 기자] 황인범(29)이 페예노르트를 떠나 포르투갈 명문 FC포르투 유니폼을 입는다.",
+      "메디컬 테스트를 통과하면 계약 기간 3년에 1년 연장 옵션이 붙은 장기 계약이 완성된다.포르투갈 ‘헤코르드’는 17일(한국시간) “포르투와 페예노르트가 황인범의 이적료 500만 유로(약 85억 원)에 원칙적으로 합의했다.",
+      "황인범은 메디컬 테스트와 계약 체결."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf54717e8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/18/HE2WCNZXMI2TQNBRGZTDQYRRME/",
+    "title": "“19금만 찍었더니..\" 이희준 아들, 아빠 직업 모르는 이유 폭소 ('옥탑방')",
+    "summary": [
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] ‘배우 이희준이 8세 아들이 아직 자신이 배우라는 사실을 제대로 모른다며 유쾌한 일화를 공개했다.17일 방송된 KBS2 ‘옥탑방의 문제아들’에는 배우 진선규와 이희준이 출연해 결혼생활과 가족 이야기를 털어놨다.먼저 이날 진선규는 배우 김보경과 결혼 17년 차라고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na1239a73",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/18/ME4TAZTBMQ4TAYJRGE4GCZJQGQ/",
-    "title": "‘日 단기 유학→데뷔 첫 구원승’ 이의리, 다시 선발투수로 복귀할 수 있을까 “마무리 전환? 재능이 아깝다”",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/18/MFQWMY3EHA4WCMJUMRSWEMDGMI/",
+    "title": "'대반전' LG만 만나면 꼬였는데, LG만 만나면 펄펄 난다! 챔피언 7승3패 압도 실화? “6타점 힐리어드가 승리 이끌어”",
     "summary": [
-      "[OSEN=인천, 길준영 기자] 프로야구 KIA 타이거즈 이의리(24)가 데뷔 첫 구원승을 따냈다.",
-      "이의리는 17일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에 구원등판해 1⅓이닝 3탈삼진 무실점 승리를 기록했다.",
-      "KIA가 5-3으로 앞선 4회말 2사 1루에서 선발투수 시라카와 케이쇼를 대신해 마운."
+      "[OSEN=잠실, 이후광 기자] LG만 만나면 작아졌던 KT 위즈가 이제 LG만 만나면 펄펄 난다.",
+      "프로야구 KT 위즈는 17일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 LG 트윈스와의 시즌 10차전에서 6-1로 승리했다.",
+      "3위 KT는 파죽의 5연승을 달리며 2위 LG를 1.5경기 차 턱밑 추격했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nc3cdbaab",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/07/18/VIXAPBOMS5H2HD4OFVMIDRPDYI/",
-    "title": "[사설] 주미대사 귀국 이례적 NSC 참석, 위기의 韓美 관계",
-    "summary": [
-      "[사설] 주미대사 귀국 이례적 NSC 참석, 위기의 韓美 관계."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncc76c548",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717064400098",
-    "title": "獨총리 \"프랑스 핵 훈련 참가\"…양국, 핵 협력 강화키로",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 독일이 프랑스가 실시하는 핵 훈련에 참가할 것이라고 프리드리히 메르츠 독일 총리가 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nad1c786c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718000900527",
-    "title": "강화 등 인천 4곳 호우주의보",
-    "summary": [
-      "(인천=연합뉴스) 기상청은 18일 0시를 기해 강화·인천북부·인천남부·인천영종에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35a1f1dd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718000800527",
-    "title": "서울 전역에 호우주의보…하천 범람 등 주의",
-    "summary": [
-      "(서울=연합뉴스) 기상청은 18일 오전 1시를 기해 서울 전역에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n529e091f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/18/HFRDKMBTGVRDOZBYMJSGGNZXMI/",
-    "title": "'8년 80억' 초대형 계약 후 첫 등판…설종진 감독 \"위기 있었지만 선발 역할 잘 수행했다\"",
-    "summary": [
-      "[OSEN=대전, 조은혜 기자] 프로야구 키움 히어로즈가 한화 이글스의 끈질긴 추격을 뿌리치고 한화전 5연승, 후반기 2연승을 작성했다.설종진 감독이 이끄는 키움은 17일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 한화와의 원정경기에서 7-6 진땀승을 거뒀다.",
-      "이날 승리로 2연승이자 한화전 5연승을 달성한 키움은 시즌 전적 31승57패1."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nec82d633",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/opinion/palmyeonbong/2026/07/18/67KA772PXFF4ZPRBC2F6JNTED4/",
-    "title": "[팔면봉] 주미 대사는 한·미 ‘오해’ 풀러 급거 귀국, 주러 대사는 나토 협력 문제로 항의받아. 외",
-    "summary": [
-      "[팔면봉] 주미 대사는 한·미 ‘오해’ 풀러 급거 귀국, 주러 대사는 나토 협력 문제로 항의받아. 외."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4c4d4688",
+    "id": "nc9a75442",
     "category": "사회",
     "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260714_0003709036",
-    "title": "\"토한다고 술 안 깨요\"…응급의학과 의사가 밝힌 '과음'의 위험성",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713468",
+    "title": "멕시코 남부 해안 규모 7.4 강진·쓰나미 경보",
     "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 응급의학과 전문의 남궁인 교수가 술이 우리 몸에 미치는 위험성을 설명하며 과음의 위험성을 거듭 경고했다.",
-      "구독자 14만 명을 보유한 유튜브 채널 '썰닥'은 지난 13일 공개한 영상에서 응급실에서 직접 겪은 사례를 바탕으로 급성 알코올중독부터 췌장염, 알코올성 케톤산증 등 술이 인체에 미치는 위험성을 설명했다.",
-      "채널에 출연한 이대목동병원 응급의학과 남궁인 교수는 \"급성 알코올중독은 흔히 술에 취한 상태로 생각하."
+      "[서울=뉴시스] 구자룡 기자 = 멕시코 남부 치아파스주 인근 해안에서 17일(현지 시각) 규모 7.4의 강력한 지진이 발생했으며 쓰나미 경보도 발령됐다고 신화통신과 로이터 통신 등 외신이 보도했다.",
+      "지진으로 인접국인 과테말라와 엘살바도르에서도 건물들이 흔들렸다.",
+      "미국 지질조사국(USGS)에 따르면 멕시코 푸에르토 마데로 인근에서 발생한 이 지진의 진원 깊이는 10km로 얕았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd77b5524",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718002400527",
+    "title": "경북 영주·의성에 호우주의보 해제",
+    "summary": [
+      "(대구=연합뉴스) 기상청은 영주·의성에 발령했던 호우주의보를 18일 오전 1시를 기해 해제한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbcafb62b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718001800527",
+    "title": "대구시중부에 18일 0시 호우주의보 해제",
+    "summary": [
+      "(대구=연합뉴스) 기상청은 대구시중부에 발령했던 호우주의보를 18일 0시 30분을 기해 해제한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0b6fe406",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718001700527",
+    "title": "경산 등 경북 4곳 호우주의보 해제…영주·의성에는 유지",
+    "summary": [
+      "(대구=연합뉴스) 기상청은 경산·상주·문경·예천에 내렸던 호우주의보를 18일 0시 30분을 기해 해제한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n049d7d55",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718001600527",
+    "title": "성남 등 경기 4곳 호우주의보…화성 등 4곳 호우주의보 유지",
+    "summary": [
+      "(수원=연합뉴스) 기상청은 18일 0시 30분을 기해 성남·광주·양평서부·양평동부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nde65e25a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003711522",
+    "title": "\"배변 후 묻어난 피\"…젊은데 혹시 내가 이 암?[몸의경고]",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = #.",
+      "30대 직장인 이모씨는 최근 변이 가늘어 지고 배변 후 휴지에 피가 묻어 나는 증상을 겪었다.",
+      "처음엔 단순 치질이거나 뭔가 잘못 먹어서 그런가 보다 하고 넘겼다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n58a1abfa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713459",
-    "title": "니카라과, 48년전 전 총리 피살 용의자 송환 갈등으로 이탈리아와 단교 선언",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 니카라과가 48년 전 발생한 이탈리아 전 총리 살해 사건에 연루된 ‘붉은 여단’ 소속 테러범의 송환을 놓고 갈등을 빚던 이탈리아와 16일 외교 관계 단절을 발표했다.",
-      "안토니오 타자니 이탈리아 외무장관은 15일 마드리드에서 열린 유럽인민당 회의에서 니카라과 정부에 알레시오 카시미리를 송환할 것을 촉구했다.",
-      "카시미리는 과거 ‘붉은 여단’ 소속으로 1978년 알도 모로 전 이탈리아 총리 납치 및 살해 사건에 연루된 혐."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd98b1a8b",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713461",
-    "title": "李 \"농업보조금 늘려야…증시 활성화로 농어촌특별세 폭증해 재원 충분\"",
-    "summary": [
-      "[서울=뉴시스]조재완 기자 = 이재명 대통령은 17일 \"이제라도 식량 안보를 지키고 농촌과 농업, 농민을 살리려면 농업보조금을 늘려야 한다\"고 말했다.",
-      "이 대통령은 이날 엑스(X·옛 트위터)에서 우리나라 농업 보조금이 타 선진국에 비해 적다고 적은 송미령 농림식품부 장관의 엑스 글을 공유하며 이같이 말했다.",
-      "이 대통령은 \"농업은 매우 중요한 안보 전략산업\"이라며 \"만약의 비상사태를 대비해 경제적 효율이 없더라도 반드시 국가 생존을 위한 최소한을."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc9ce811b",
+    "id": "n6fe98cca",
     "category": "사회",
     "source": "뉴시스",
     "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713170",
-    "title": "한그루가 끊은 최악의 음주 습관…간 건강엔 '독'",
+    "url": "https://www.newsis.com/view/NISX20260716_0003712826",
+    "title": "전국 유일 공공커피박물관 존폐 기로…\"기증자 예우도 없다\"",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 배우 한그루가 과거 힘들었던 시절 안주 없이 술만 마시던 습관을 털어놓으며 건강에 대한 우려를 낳고 있다.",
-      "전문가들은 공복에 술을 마시는 습관이 간에 더 큰 부담을 줄 수 있다며 주의를 당부한다.",
-      "한그루는 지난 14일 유튜브 채널 '그루니까말이야'에 공개된 영상에서 \"한동안 정말 힘들었을 때 6개월 동안 매일 아이들을 재우고 소주 한 병씩 마셨다\"며 \"혼자 상을 펴놓고 안주도 없이 술만 마셨다."
+      "[부산=뉴시스]원동화 기자 = \"부산시를 믿고 40년 동안 모은 커피 유물을 기증했는데, 이 유물들이 길거리에 나앉게 생겼습니다.\" 전국 유일의 공공커피박물관인 부산 국제커피박물관이 부산해사국제상사법원 임시청사 조성으로 존폐 기로에 놓였다.",
+      "박물관이 입주한 부산 동구 문화플랫폼 시민마당(옛 부산진역사)이 임시청사로 활용되면서 올해 말 운영 종료 가능성이 제기되고 있기 때문이다.",
+      "16일 뉴시스와 만난 이혜영 국제커피박물관장은 \"기증자에 대한 예우."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n29e5c381",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003712110",
+    "title": "부산교육청, 여름방학 다양한 프로그램…\"캠프·특강·체험\"",
+    "summary": [
+      "[부산=뉴시스] 하경민 기자 = 부산시교육청은 여름방학을 맞아 학생들을 대상으로 한 다양한 프로그램이 운영된다고 18일 밝혔다.",
+      "먼저 부산교육청 창의융합교육원은 오는 22~25일 부산수학문화관에서 초·중·고교 학생 360명을 대상으로 '2026년 부산수학문화관 여름 체험수학 캠프'를 개최한다.",
+      "이번 캠프에서 초등학교 5·6학년 학생들은 콰르토 도형연구소 등 다양한 체험 프로그램을 통해 도형과 공간에 담긴 수학 원리를 탐구하고, 부산수학문화관 전."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ndc4e961b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026071573577",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 18일 띠별 추천 점심메뉴",
+    "summary": [
+      "[오늘의 운세] 오늘 뭐 먹지?…7월 18일 띠별 추천 점심메뉴."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "nf7e69578",
     "category": "사회",
     "source": "동아일보",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319502/1",
     "title": "키키·하투하·악뮤, 빌보드 선정 상반기 최고의 K-팝",
     "summary": [
@@ -511,7 +531,7 @@ window.NEWS_DB = [
     "id": "n12bc83ef",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319499/1",
     "title": "‘K-팝’ 엔하이픈·‘라틴팝’ 산토스 브라보스, 멕시코 월드컵 축제 달궜다",
     "summary": [
@@ -525,7 +545,7 @@ window.NEWS_DB = [
     "id": "nf284c8e5",
     "category": "사회",
     "source": "동아일보",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319493/1",
     "title": "‘9월 결혼’ 양나래 변호사, 훈남 예비신랑 공개…“평생 함께할 동반자”",
     "summary": [
@@ -539,7 +559,7 @@ window.NEWS_DB = [
     "id": "n4fc0b897",
     "category": "사회",
     "source": "동아일보",
-    "time": "42분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319489/1",
     "title": "‘윤주모’ 리센느 미나미 “BTS·트와이스 성덕 됐다…행복해서 잠 못 자”",
     "summary": [
@@ -551,26 +571,38 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9e238eaf",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "44분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/17/2026071723093258818",
-    "title": "대구 수성구에 역대 첫 '재난성호우 문자' 발송…최고 단계 호우경보",
+    "id": "n8ac16c4d",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "2시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260717231908",
+    "title": "기상청, 대구 수성구 지산1동에 올해 첫 ‘재난성호우 긴급재난문자’",
     "summary": [
-      "신설 이후 처음 발송…시간당 100㎜ 강수 관측돼 기상청 \"즉시 안전한 곳으로 대피해야\" 17일 밤 대구 수성구 일부 지역에 제도 신설 이후 첫 '재난성호우 긴급재난문자'가 발송됐다.",
-      "시간당 100㎜에 달하는 강수가 관측되면서다.",
-      "기상청에 따르면 이날 밤 10시10분 대구 수성구 지산1동에 재난성호우 긴급재난문자가 발송됐다."
+      "[지디넷코리아]기상청이 시간당 100㎜에 이르는 극단적 호우가 쏟아진 대구 수성구 지산1동에 올해 추가 신설한 재난성 호우 긴급재난문자(CBS)를 발송했다.기상청은 17일 오후 10시 10분 기준 중부지방에 위치한 정체전선 상에서 발달한 중규모 저기압에 의한 다량의 고온다습한 수증기 유입으로 시간당 100㎜에 상당하는 강수가 관측됨에 따라 국민이 위험 상황을 신속하게 인지하고 즉시 안전을 확보할 수 있도록 재난성호우 긴급재난문자가 발송했다고 밝."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "ndec7e9ca",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "2시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260717231002",
+    "title": "HCL테크와 가디언, 기술 및 운영 전반의 AI 기반 현대화를 위한 파트너십 확대",
+    "summary": [
+      "[지디넷코리아] 뉴욕 및 인도 노이다, 2026년 7월 17일 /PRNewswire/ -- 글로벌 선도 기술 기업 HCL테크(HCLTech)(NSE: HCLTECH)(BSE: HCLTECH)가 7월 16일 미국 최대 상호보험회사 중 하나이자 보험, 은퇴, 자산 관리 및 직원 복지 솔루션의 선도적 제공업체인 가디언 생명보험회사(The Guardian Life Insurance Company of America®•Guardian)와 새로운 7년 계."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "ne6cdfc8a",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026071714307",
     "title": "서울시, 29개 하천 통제…호우 대비 비상 대응 돌입",
     "summary": [
@@ -584,7 +616,7 @@ window.NEWS_DB = [
     "id": "n8c745c15",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153479",
     "title": "[글로벌] 中, AI 동반자 과몰입 규제...이용자들 AI와 이별에 '충격'",
     "summary": [
@@ -595,38 +627,6 @@ window.NEWS_DB = [
       "#AI",
       "#정책"
     ]
-  },
-  {
-    "id": "n9db35e8f",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153478",
-    "title": "[글로벌] 애플, AI 서버칩 기업 인수 검토...자체 칩 개발 지연 보완 나서나",
-    "summary": [
-      "애플이 인공지능(AI) 서버용 반도체 경쟁력을 강화하기 위해 관련 기업 인수를 검토하고 있는 것으로 알려졌습니다.",
-      "자체 개발 중인 차세대 서버칩의 일정이 늦어지면서 외부 기술 확보에 나선 것으로 보여집니다.주요 외신들에 따르면 애플은 최근 AI 서버 프로세서를 개발하는 복수의 반도체 스타트업에 인수 의향을 타진하고, 투자은행들과 잠재적인 거래 방안을 논의했습니다.",
-      "다만 구체적인 인수 대상이나 거래 조건은 아직 확정되지 않은 것으로 전해졌습니다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "na043827f",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153477",
-    "title": "[글로벌] 팔란티어 CTO \"中 오픈소스 AI, 美 IP 활용해 개발\"...보호조치 강화 촉구",
-    "summary": [
-      "미국 데이터 분석 기업 팔란티어의 최고기술책임자(CTO) 샴 생커가 중국의 오픈소스 인공지능(AI) 모델이 미국 AI 기업의 지식재산(IP)을 활용해 개발되고 있다며 대응 강화를 촉구했습니다.샴 생커는 지난 15일(현지시간) 미국 펜실베이니아에서 열린 국방 혁신 콘퍼런스에서 중국의 오픈소스 AI 모델 상당수가 미국 AI 연구소의 결과물을 이용한 '증류' 방식으로 만들어졌다고 주장했습니다.증류는 기존 AI 모델이 생성한 결과물을 활용해 더 작은."
-    ],
-    "chips": [
-      "#AI"
-    ]
   }
 ];
 
@@ -635,8 +635,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -647,8 +647,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
