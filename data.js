@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-17 21:15:24
+// 마지막 업데이트: 2026-07-17 22:15:25
 window.NEWS_DB = [
+  {
+    "id": "nb63c7bda",
+    "category": "IT",
+    "source": "edaily.co.kr",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR1UzVFhhMmU1Y040RVJKbFpNY2szaTF5a3NidG9MdHlfaFlfc3lsYVZhd3BSWUQwZGtlMW1aUFVKQk1mcjBWYXR5bjVtYmw3Nmk1Uk9md0k0TnJiT1l4UlowNlhjRDJDMDZlcWFqWVYyd3NtempsYmpvTTZnVmtJUA?oc=5",
+    "title": "애플, 엔비디아 제치고 한때 시총 1위 탈환…AI 투자 '반도체→플랫폼' 재편",
+    "summary": [
+      "애플, 엔비디아 제치고 한때 시총 1위 탈환…AI 투자 '반도체→플랫폼' 재편 edaily.co.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "ne15d9909",
     "category": "IT",
     "source": "머니투데이",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcVlGTXhOTWJxNkNtdFRWZEdCTm9TVm1lcXRFUWJrN3M2enZnWmoyd2NmNTJVODlIMUlvX25uSGNCOHZ4eVkxZlRXYjRRNi15QUx2Rkh5aEpQZHBJYUVQMUtTQ2VQMjRH0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
     "title": "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이",
     "summary": [
@@ -18,26 +34,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na3780e93",
-    "category": "IT",
-    "source": "헤럴드경제",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNzhhUVFBeWV1TWw0dFNKaWltb1lURTlzc2NjNWtKWTlUaUxHZE1qUDhuYWM2bW5pZkxLZ3RQRktnbWlBb2xzMV9zZk5RbHMteGhxNDB3?oc=5",
-    "title": "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀",
-    "summary": [
-      "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀 헤럴드경제."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nc281528f",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
     "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
     "summary": [
@@ -317,107 +317,233 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8dd4e033",
+    "id": "n319ac4e9",
     "category": "사회",
-    "source": "연합뉴스(경제)",
+    "source": "뉴시스",
     "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717031800530",
-    "title": "주된 일자리 퇴직 후 연금 받기까지 '소득 절벽' 13년",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713497",
+    "title": "황현희, '100억 자산가' 수식에 \"한물간 개그맨이 돈 번걸…\"",
     "summary": [
-      "(서울=연합뉴스) 서한기 기자 = 국내 중·고령층이 평생 일해 온 주된 일자리에서 은퇴하는 나이는 평균 52세에 불과하지만, 노후 생활비 마련을..."
+      "[서울=뉴시스]이재훈 기자 = 코미디언 황현희가 자신을 둘러싼 '100억 자산가' 루머에 대해 해명하며 예능 출연을 중단한 심경을 밝혔다.",
+      "황현희는 17일 유튜브 채널 '이홍렬 TV'에 출연해 \"과거 인터뷰에서 개그맨 시절보다 10배 이상 벌었다고 말한 것이 방송을 거치며 '100억 자산가'로 와전됐다\"고 바로잡았다.",
+      "그는 자극적인 수식어에 대한 부담감을 토로하며, \"투자에 성공한 과정과 올바른 방향성을 보여주고 싶었으나 자극적인 타이틀만 주목."
     ],
     "chips": [
-      "#고용"
+      "#뉴스"
     ]
   },
   {
-    "id": "n6163e78d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713486",
-    "title": "미국 확산 설사병, 타코벨 양상추 때문",
+    "id": "ne99af813",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260717001000008",
+    "title": "이달 약세장에도 선방한 중소형주…수익률 대형주 앞질러",
     "summary": [
-      "[애틀란타=AP/뉴시스] 강영진 기자 = 미 연방 보건 당국자들이 16일(현지시각) 밤 미국 5개 주의 타코벨 매장에서 제공된 멕시코산 양상추를 설사를 일으키는 기생충 시클로스포라 집단 감염의 원인으로 지목했다.",
-      "질병통제예방센터(CDC)는 이날 밤 인디애나, 켄터키, 미시간, 오하이오, 웨스트버지니아의 타코벨 식당에서 나오는 잘게 썬 양상추를 먹지 말라고 경고했다.",
-      "30개가 넘는 주에서 기록적인 수의 시클로스포라 감염 사례가 보고됐고, 전문가들."
+      "(서울=연합뉴스) 이민영 기자 = 이달 증시 변동성이 컸던 가운데 중소형주 수익률이 대형주를 앞지른 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n84a5962a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716202100008",
+    "title": "\"500조로 확대한 ETF 시장…운용사, 수탁자 책임역량 고도화 필요\"",
+    "summary": [
+      "(서울=연합뉴스) 임은진 기자 = 상장지수펀드(ETF) 시장이 500조원대 규모로 성장한 만큼 이를 운용하는 자산 운용사의 적극적인 수탁자 책임..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n61d142a7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/18/GJSGCN3GGIZDAMLCG5TDQYRUMU/",
+    "title": "10승 놓쳤지만, KIA 에이스 따돌렸다, '최고투수의 상징' 노리는 무서운 2년 차, 승부는 여기서 갈린다",
+    "summary": [
+      "[스포츠조선 정현석 기자]올 시즌 프로 2년 차를 맞아 에이스급 활약으로 두산 베어스의 선발진 한 축을 든든하게 지키고 있는 최민석(20)이 10승 달성 기회를 다음으로 미뤘다.",
+      "하지만 '최고 투수의 상징'이라 불리는 평균자책점(ERA) 부문에서는 경쟁자들을 따돌리며 독주 체제를 갖췄다.",
+      "최민석은 17일 창원 NC파크에서 열린 NC 다이노스와의 원정 경기에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n77dd9b3e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716140000530",
+    "title": "[위클리 건강] \"근육 욕심에 콩팥 녹는다\"…과한 운동이 부르는 '횡문근융해증'",
+    "summary": [
+      "(서울=연합뉴스) 김길원 기자 = 최근 강원도의 한 군부대에서 병사가 강압적인 팔굽혀펴기를 한 뒤 '횡문근융해증' 진단을 받고 2주간 입원 치료..."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n7abe926d",
+    "id": "na36e0295",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003711831",
-    "title": "국민성장펀드 1호 '신안우이 해상풍력' 첫삽…바람소득 시동[하반기 에너지②]",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713329",
+    "title": "청와대 일주일 [뉴시스Pic]",
     "summary": [
-      "[세종=뉴시스]손차민 기자 = 국민성장펀드 1호 사업인 '신안우이 해상풍력'이 첫삽을 떴다.",
-      "예비타당성조사를 통과하지 못해 한때 사업이 중단될 위기에 놓였으나, 정책금융 지원을 발판 삼아 본궤도에 오른 것이다.",
-      "국내 자본만으로 추진되는 국내 최대 해상풍력 단지인데다가 주민참여형 상생모델인 '바람소득'을 도입한다는 점에서도 주목받고 있다."
+      "◆국가재정전략회의 ◆국무회의 ◆이재명 대통령, 앤 엘리자베스 앨리스 루이즈 영국 공주 접견 ◆국민과 함께하는 두 번째 업무보고 ◆춘추관 기자간담회 ◆직원들과 격려 오찬 ◆'빛의 위원회' 출범 기념 시민."
     ],
     "chips": [
-      "#정책",
-      "#환경"
+      "#정치"
     ]
   },
   {
-    "id": "n22c453e8",
-    "category": "스포츠",
+    "id": "nfcbf69b8",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712726",
-    "title": "돌아온 '고양고양이', 고양시 도시브랜드 경쟁력 살린다",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003711748",
+    "title": "\"GMO 표시 달라집니다\"…12월 간장부터 시행",
     "summary": [
-      "[고양=뉴시스] 송주현 기자 = 경기 고양시는 시 대표 캐릭터 제작해 사용하다 약 4년간 사용을 중단했던 '고양고양이' 캐릭터를 다시 사용한다고 18일 밝혔다.",
-      "시는 지역 대표 특산물인 가와지볍씨의 모양을 캐릭터로 제작해 사용하면서 '고양고양이' 사용을 중단했다.",
-      "'고양고양이'는 지난 2013년 고양시 공식 마스코트로 지정돼 시 SNS와 각종 행사에서 홍보 콘텐츠로 활용되면서 시민을 비롯해 전국적으로 알려졌다."
+      "[서울=뉴시스]송종호 기자 = 오는 12월31일부터 간장, 당류 및 식용유지류에 대한 유전자변형(GMO) 표시가 단계적으로 시행되는 가운데 표시 대상 식품 유형 및 시행시기, 표시방법 등에 대한 관심이 높아지고 있다.",
+      "18일 식약처에 따르면 앞으로는 현행 기준에 더해 최종 제품에 유전자변형 DNA 또는 단백질이 남아 있지 않더라도 간장(한식간장, 양조간장 등), 당류(물엿, 올리고당 등), 식용유지류는 GMO 원료 사용 여부를 표시하도록 했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n255dfe81",
+    "id": "nac758e0d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260715_0003710197",
+    "title": "\"대구 중구 이야기 피어난다\" 봉산공연창작소 8월 무대",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 대구시 중구의 역사와 인물, 문화를 소재로 한 지역 고유의 창작 초연 공연들이 오는 8월 관객들을 찾아온다.",
+      "봉산문화회관은 지역 공연예술 콘텐츠 발굴을 위해 추진한 '2026 봉산문화회관 창작공연 공모사업 봉산공연창작소'의 최종 선정작 3편을 오는 8월 14일부터 29일까지 매주 금·토요일 무대에 올린다고 18일 밝혔다.",
+      "대구 중구청과 대구 중구 도심재생문화재단이 주최하고 봉산문화회관이 주관하는 이번 사업은 지역."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf54ee195",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713483",
-    "title": "美 이란 공습 7일째…국제유가 한 달 만에 최고치 브렌트유 배럴당 88달러",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716180800051",
+    "title": "부산 해운대구, 빈집 리모델링 신혼부부·학생 주거 공간 임대",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 미국 중부 사령부는 17일 소셜미디어 X에 “오후 3시(미국 동부시간) 이란에 대한 7일째 공습을 진행했다”고 올렸다.",
-      "공습 시작 시간은 이란 현지는 밤 10시 30분으로 7일째 야간 공습을 이어갔다.",
-      "중부 사령부는 “사령관의 지시에 따라 이란의 군사 능력을 지속적으로 약화시키기 위해 이뤄졌다”고 밝혔다."
+      "(부산=연합뉴스) 손형주 기자 = 도심에 방치된 빈집이 리모델링을 거쳐 신혼부부, 학생을 위한 공간으로 재탄생했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nade555aa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716157000053",
-    "title": "채무변제 요구 여성 유인해 살해하려 한 70대 항소심도 징역 7년",
+    "id": "n4943379e",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716179500063",
+    "title": "세종시 \"삼성그룹에 세종 국가산단 추가 투자 요청\"",
     "summary": [
-      "(대구=연합뉴스) 김선형 기자 = 대구고법 형사1-3부(송민화 고법판사)는 채무 변제를 요구하는 여성을 야산으로 유인, 살해하려다 미수에 그친 ..."
+      "(세종=연합뉴스) 양영석 기자 = 세종시가 현재 조성 중인 국가산업단지에 삼성 계열사가 원형지 방식으로 투자하는 방안을 검토해달라고 삼성그룹에 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3ab6f5b0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718009200057",
-    "title": "부산·울산·경남 가끔 비…낮 최고 29∼33도",
+    "id": "n9e4e9f6b",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716198200030",
+    "title": "[신상잇슈] 하이트진로 '일품진로 26년산'·엔제리너스-동화약품 '배러'",
     "summary": [
-      "(울산=연합뉴스) 김근주 기자 = 토요일인 18일 부산·울산·경남 지역은 흐리고 곳에 따라 비가 내리겠다."
+      "[신상잇슈] 하이트진로 '일품진로 26년산'·엔제리너스-동화약품 '배러'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n623e3e40",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "15분 전",
+    "url": "https://www.hankyung.com/article/2026071696716",
+    "title": "종합과세 폭탄 맞을라…\"7월부터 '이것' 관리해야\" [고정삼의 절세GPT]",
+    "summary": [
+      "종합과세 폭탄 맞을라…\"7월부터 '이것' 관리해야\" [고정삼의 절세GPT]."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n8353251d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/07/18/KOWJ63V6QZFUDNUUXCQBDQWBTI/",
+    "title": "“간계밥은 사치, 계란찜 서비스도 끝”… ‘금(金)계란’ 서민들 한숨",
+    "summary": [
+      "“간계밥은 사치, 계란찜 서비스도 끝”… ‘금(金)계란’ 서민들 한숨."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb6ff7216",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/economy/science/2026/07/18/ZNP4LZ7KBNEJ3IRHN24GP2EFQM/",
+    "title": "“친구보다 ‘앙숙’을 더 또렷이 기억한다”…뇌 속 ‘인간관계 지도’는 적대감이 좌우",
+    "summary": [
+      "“친구보다 ‘앙숙’을 더 또렷이 기억한다”…뇌 속 ‘인간관계 지도’는 적대감이 좌우."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd75555b9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/18/RUZU6ZFJGBHBDGLFDTVIR5C6CU/",
+    "title": "[단독] 백남준 ‘나의 파우스트’ 김우중 前 대우 회장 부인 손에... 법원, 3점 소유권 인정",
+    "summary": [
+      "[단독] 백남준 ‘나의 파우스트’ 김우중 前 대우 회장 부인 손에... 법원, 3점 소유권 인정."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na8b554ff",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026071806584528064",
+    "title": "소방청, 서울·강원 등 4개 시·도에 중앙긴급구조통제단 가동",
+    "summary": [
+      "소방청은 서울 인천 경기 강원 등 4개 시·도에 호우경보가 발효됨에 따라 18일 오전 4시30분부로 중앙긴급구조통제단을 선제적으로 가동했다.",
+      "통제단은 소방청장 직무대행을 단장으로, 119대응국장을 부단장으로 하며 상황대책반, 긴급대응팀, 현장상황관리반 등으로 구성해 운영한다.",
+      "소방청은 호우 피해와 소방 대응 상황을 실시간 관리하고, 인명 피해 우려 지역에 필요한 소방력을 신속히 지원하는 등 총력 대응할 방침이다."
     ],
     "chips": [
       "#뉴스"
@@ -427,7 +553,7 @@ window.NEWS_DB = [
     "id": "nd73028ad",
     "category": "경제",
     "source": "한국경제",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026071713427",
     "title": "\"성과 국민과 나누겠다\" 삼성에 움직였나…'4조 잭팟' 터졌다",
     "summary": [
@@ -441,7 +567,7 @@ window.NEWS_DB = [
     "id": "n7cd43afa",
     "category": "경제",
     "source": "한국경제",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607170604i",
     "title": "연매출 5억서 84억으로…안동 종갓집 며느리의 성공 스토리 [이광식의 거상열전]",
     "summary": [
@@ -455,7 +581,7 @@ window.NEWS_DB = [
     "id": "n1864467c",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://biz.chosun.com/it-science/ict/2026/07/18/VKCVPJY4LRH3NLPVHQQ7TJE4HY/",
     "title": "[인터뷰] 알란 라가스카 ST마이크로 디렉터 “휴머노이드, 스마트폰값 돼야 대중화… 칩 통합해 원가 낮춘다”",
     "summary": [
@@ -469,7 +595,7 @@ window.NEWS_DB = [
     "id": "n878c73f3",
     "category": "경제",
     "source": "한국경제",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607143583i",
     "title": "술병에 '부산·대천·제주'…주류업계가 지역명 탐내는 이유 [권용훈의 트렌드워치]",
     "summary": [
@@ -480,148 +606,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na29408d5",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718009100530",
-    "title": "서울·인천·경기·강원에 호우경보…중대본 2단계 가동",
-    "summary": [
-      "(서울=연합뉴스) 양정우 기자 = 행정안전부는 18일 서울과 인천, 경기, 강원에 호우경보가 발표됨에 따라 이날 오전 4시 30분 부로 풍수해 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf16099fc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715166600011",
-    "title": "[샷!] 임산부 배지가 왜 중고시장에?",
-    "summary": [
-      "(서울=연합뉴스) 강민지 인턴기자 = 임신 사실을 증명하고 각종 혜택을 받을 수 있는 '임산부 배지'가 중고 거래 플랫폼에서 거래돼 논란이 일고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nda8504f8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/labor/2026/07/18/26L7RN2OP5G3TELVAWWLZC56GA/",
-    "title": "[단독] 최저임금보다 더 받는 실업급여 손본다",
-    "summary": [
-      "[단독] 최저임금보다 더 받는 실업급여 손본다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "nf1f6fa06",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718006800072",
-    "title": "국제유가, 미·이란 확전 양상에 4.5%↑…브렌트 90달러 육박",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란이 다시 무력 충돌하는 국면이 일주일째 이어진 17일(현지시간) 걸프 국가의 민간 인프라까지 타격..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na8972e4b",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260718/134319630/1",
     "title": "미군 “호르무즈 해협 상선 추적용 이란 감시탑 성공적 파괴”",
     "summary": [
       "미군 중부사령부(CENTCOM)는 17일(현지시간) 이란 남동부 차바하르(Chabahar) 샤히드 칼란타리 항구의 감시탑을 파괴했다고 밝혔다.중부사령부는 이날 소셜미디어 엑스(X)를 통해 “미군은 16일 차바하르 샤히드 칼란타리 항구의 감시탑을 성공적으로 파괴했다”며 “이 시설은 수십 년 동안 이슬람혁명수비대(IRGC)가 호르무즈 해협을 통과하는 상선을 추적하고 표적으로 삼는 데 사용해 온 오만만 연안 해상 감시망의 일부”라고 밝혔다.이어 “감."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd4c1b7a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260718/134319627/1",
-    "title": "캐나다 산불 연기로 워싱턴DC 대기질 악화 ‘코드 퍼플’ 발령",
-    "summary": [
-      "캐나다 산불 연기가 워싱턴을 뒤덮자 ‘워싱턴 광역 정부 협의회’는 17일 대기질 경보 ‘코드 퍼플’를 발령했다.",
-      "이는 ‘좋음’부터 ‘위험’까지 6단계 중 ‘위험’ 다음으로 심각한 단계다.",
-      "보건 당국은 어린이, 노인, 심장 또는 폐 질환이 있는 사람들에게 실내에 머물 것을 권고했다."
-    ],
-    "chips": [
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6284d447",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260718/134319624/1",
-    "title": "아일랜드 첫 아카데미상 수상 여배우 브렌다 프리커 별세…향년 81세",
-    "summary": [
-      "1989년 영화 ‘나의 왼발’로 이듬해 아일랜드 여배우로는 처음으로 아카데미 여주조연상을 수상한 브렌다 프리커가 16일 81세의 나이로 별세했다고 BBC 방송이 17일 보도했다.",
-      "그녀의 소속사인 필 벨필드는 성명에서 “16일 밤 더블린에서 ‘건강 악화’ 끝에 별세했다“며 ”우리는 다시는 그녀와 같은 사람을 볼 수 없을 것이며, 그녀가 없는 세상은 더욱 삭막해졌다”고 말했다.영화 ‘나의 왼발’은 뇌성마비를 가지고 태어나 왼발만 움직일 수 있었던."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6903bf21",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/202607170970i",
-    "title": "\"고기 반찬 못 먹어\"...최고 권력자 거절한 남자의 '반전 결말' [성수영의 그때 그 사람들]",
-    "summary": [
-      "\"고기 반찬 못 먹어\"...최고 권력자 거절한 남자의 '반전 결말' [성수영의 그때 그 사람들]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na1ef91ad",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260718/134319098/2",
-    "title": "메시의 아르헨 vs 푸엔테의 스페인… 챔피언 반지 다툰다",
-    "summary": [
-      "‘축구의 신’ 리오넬 메시(아르헨티나)는 “내가 할 수 있는 모든 것을 다 했지만, 챔피언이 되지 못해 가슴이 아프다”며 국가대표팀 은퇴를 선언했다.",
-      "아르헨티나가 이날 미국 뉴저지주 메트라이프 스타디움에서 열린 남미축구선수권대회(코파아메리카) 결승에서 칠레에 승부차기 끝에 패한 뒤였다.",
-      "승부차기 첫 번째 키커로 나와 실축한 메시는 2014 브라질 월드컵, 2015 코파아메리카에 이어 3년 연속 메이저대회 준우승에 그친."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4b17132d",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "5시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260718011003",
-    "title": "GAC, 3000만 번째 차량 생산 기념하며 글로벌 고객과 역사적 순간 공유",
-    "summary": [
-      "[지디넷코리아]광저우, 중국 2026년 7월 17일 /PRNewswire/ -- 3000만 고객의 신뢰, 품질이 이끄는 힘(Trusted by 30 Million, Powered by Quality).",
-      "GAC 그룹(GAC Group)이 7월 16일 GAC 생산공장에서 '3000만 고객 감사 행사(30 Million Customers Appreciation Event)'를 개최했다.",
-      "행사에는 광둥성, 광저우시 및 판위구 관계자와 중국자동차공업협회."
     ],
     "chips": [
       "#뉴스"
@@ -634,14 +626,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "3240건",
+    "trend": "+395%"
   },
   {
     "rank": 2,
-    "tag": "고용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
