@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-17 06:44:11
+// 마지막 업데이트: 2026-07-17 07:37:53
 window.NEWS_DB = [
   {
     "id": "n328ad91e",
     "category": "IT",
     "source": "뉴스케이",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vWXJvak9TTXQ4Nkdwdmx6RzdhR2xQeEZXRlpOdkdIaFotYWJmLUwwYkktSzViejRxSGQ5NGdPcFJ6dmVyX0VGdjBaU0NyN2JwMW5EdHhXd19wQQ?oc=5",
     "title": "아시아뉴스 후지쯔가 글로벌 인공지능(AI) 반도체 선두 주자인 미국 엔비디아의 기술을 도입해 대대적인 AI 로봇 공학 혁신에 나서",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nb4fe9e9c",
     "category": "경제",
     "source": "베타뉴스",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nX0NGRE52elNDRk90R2loSHhLdWJFdDhEaVZPZTZ3ekNEUDJpQ0szUF9vSWZ2WTVKNURGN0RvT2M5WWZyVUpleGZEemJGSDhrOGhpVW9lRC1kQkpOMU13Tkh1TXI?oc=5",
     "title": "원·달러 환율, '한은 금리인상·美 물가 둔화'에 장중 1470원대 진입...두 달 만에 최저",
     "summary": [
@@ -140,7 +140,7 @@ window.NEWS_DB = [
     "id": "ne098ec77",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "15일 전",
+    "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWEI2T2RRNGVBTktrLW1KbThpRHpMRXd5TUhKdGNmeEhUcDAtTTY2M1pQSFUzdWFXdGxPbDFieXJxSC1IMi1qMzQwUFhQY0k?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
@@ -171,7 +171,7 @@ window.NEWS_DB = [
     "id": "n04ff92de",
     "category": "사회",
     "source": "v.daum.net",
-    "time": "17일 전",
+    "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rMVM4WE5iYkc3YUMwYk9QZnU4S2xRMVJISjRpQ1Nub0V0VHo4NWhfQjNfRXN5V3kyMDdGR3o3UUN5M3pOYzlLVDhBbHBzdVRWWDBGXw?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
@@ -187,7 +187,7 @@ window.NEWS_DB = [
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
-    "time": "20일 전",
+    "time": "21일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
@@ -203,7 +203,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "21일 전",
+    "time": "22일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -234,7 +234,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "30일 전",
+    "time": "31일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -248,7 +248,7 @@ window.NEWS_DB = [
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
-    "time": "36일 전",
+    "time": "37일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
@@ -263,7 +263,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "48일 전",
+    "time": "49일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -278,7 +278,7 @@ window.NEWS_DB = [
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "65일 전",
+    "time": "66일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
@@ -293,7 +293,7 @@ window.NEWS_DB = [
     "id": "n98a572df",
     "category": "IT",
     "source": "대한민국 정책브리핑",
-    "time": "78일 전",
+    "time": "79일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -385,255 +385,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3e5bcae3",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713322",
-    "title": "'전·현 에이스' 대결에 신난 바르사 회장 \"결승은 라 마시아의 자랑\"[월드컵24시]",
-    "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵 결승전이 아르헨티나와 스페인의 펼쳐지는 가운데, 스페인 프로축구 프리메라리가 FC바르셀로나의 호안 라포르타 회장이 전·현 주축 선수들의 맞대결에 기쁨을 감추지 않았다.",
-      "아르헨티나와 스페인은 오는 20일 오전 4시(한국 시간) 미국 뉴저지주 이스트러더퍼드의 뉴욕 뉴저지 스타디움에서 월드컵 결승전을 치른다.",
-      "이날 경기는 '남미 챔피언'과 '유럽 챔피언'의 사상 첫 월드컵."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5b3277f1",
+    "id": "n419833a6",
     "category": "경제",
     "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026071715374241053",
-    "title": "북중 우호조약 65주년 맞아 '혈맹' 과시…中서열 1~5위 총출동",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026071616011850821",
+    "title": "'애국 매수'에 3배 급등 후 거래정지까지 당한 주식…무슨 일? [주末머니]",
     "summary": [
-      "중국 공산당 권력 서열 1~5위가 북한과 중국의 우호조약 체결 65주년 행사에 모두 나섰다.",
-      "시진핑 중국 국가주석이 지난달 7년 만에 평양을 찾은 데 이어 양국 최고위급 인사들이 베이징과 평양을 오가며 전략적 연대를 대내외에 과시했다.",
-      "북한과 중국은 조약 체결일인 지난 11일을 전후해 고위급 대표단을 서로 파견했다."
+      "투자자들의 '애국 매수' 열풍이 상장위기에 직면한 기업들을 구해냈다.",
+      "이들 기업은 연일 강한 매수세가 유입되며 급등세가 이어지면서 상장폐지 위기를 모면했으나 단기 급등으로 한성기업은 하루동안 매매거래가 정지됐고 모나미도 매매거래정지 예고 종목에 지정됐다.",
+      "17일 한국거래소에 따르면 전일 한성기업은 하루동안 거래가 정지됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne9b38b1c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717040900001",
-    "title": "한병도 \"趙의장 '개헌 제안' 환영\"…국힘에 논의 참여 촉구",
-    "summary": [
-      "(서울=연합뉴스) 안정훈 기자 = 더불어민주당 한병도 직무대행 겸 원내대표는 제78주년 제헌절인 17일 조정식 국회의장이 '국민주권 개헌'을 제..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na340b775",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713254",
-    "title": "올해 3명 잇달아 사망…서산 억대리 '마을 안녕' 굿판",
-    "summary": [
-      "[서산=뉴시스]김덕진 기자 = 마을 인구 187명의 충남 서산 해미면 억대리 주민들이 최근 동네 사망사고가 잇따르자 무당을 불러 15~16일 충남 서산시 해미면 억대리 마을회관에서 굿판을 벌였다.",
-      "올해만 해도 벌써 동네 젊은이들 3명이 불의의 사고로 목숨을 잃었다.",
-      "60대 한명은 트랙터 사고로, 70대는 바다에서 익사 사고로, 30대 한명은 군대에서 사망했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ed5f6f9",
+    "id": "n9ec298ba",
     "category": "경제",
-    "source": "한국경제",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/202607131754i",
-    "title": "﻿7월 주가 상승을 기대해도 좋은 이유 [조윤남의 사이클투자]",
-    "summary": [
-      "﻿7월 주가 상승을 기대해도 좋은 이유 [조윤남의 사이클투자]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7cad9d82",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260717/134317409/1",
-    "title": "FIFA 월드컵 우승국, 역사상 최초로 ‘챔피언십 반지’ 받는다",
-    "summary": [
-      "아르헨티나 혹은 스페인은 국제축구연맹(FIFA) 월드컵 사상 최초로 ‘챔피언십 반지’를 수상하는 팀이 될 예정이다.FIFA는 17일(한국 시간) 공식 홈페이지를 통해 “2026 북중미 대회 우승국은 역사상 최초로 챔피언십 반지를 받는다”고 공개했다.발표된 영상에 따르면 반지 한쪽 면에는 FIFA 월드컵 트로피가 새겨지며, 다른 면에는 우승 팀의 정체성을 반영해 맞춤 제작될 예정이다.FIFA 측은 “대회 최초로 수여되는 챔피언십 반지는 미국의 상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ae1603d",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/economy/realty/2026/07/17/GQZGGN3CMYYTOMJQGE2WMMRUGQ/",
-    "title": "\"단기임대, 월세보다 수익 좋지만…운영 잘못하면 되레 쪽박\"",
-    "summary": [
-      "[땅집고] “단기임대는 일반 월세보다 수익률이 평균 20~30%쯤 높지만 단순히 빈 방을 빌려주는 임대업이 아닙니다.",
-      "가격 책정과 가동율, 예약 전략 등 다양한 요소를 고려한 운영 비즈니스라는 점을 염두에 둬야 합니다.” 단기임대 플랫폼 단단홈즈가 지난 7월16일 서울 중구 서울스퀘어 4층 상연재 서울역점에서 개최한 공간 운영자(호스트) 대상 사업설명회."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n12e157c4",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260717/134317405/1",
-    "title": "MLB, 경기 중 AI 활용 제동…태블릿 통한 더그아웃 전략 지원 금지",
-    "summary": [
-      "메이저리그(MLB)가 경기 중 더그아웃에서 태블릿PC를 이용해 생성형 인공지능(AI)을 활용하는 관행에 제동을 걸었다.미국 매체 디애슬레틱은 17일(한국 시간) 롭 맨프레드 커미셔너 사무국의 메모를 입수해 “MLB가 더그아웃 태블릿PC를 통한 실시간 전략 지원을 사실상 금지한다”고 보도했다.메모에 따르면 일부 구단은 자체 개발한 애플리케이션을 태블릿PC에 설치해 리그가 허용한 범위를 넘어 사용했다.메모에는 “일부 팀들이 태블릿PC를 원래 의도된."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nb5a76393",
-    "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713315",
-    "title": "19일까지 물폭탄…산사태 위기경보 '주의', 제주는 '관심'",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713348",
+    "title": "[부고]서하경(울산MBC 보도국 부장)씨 시부상",
     "summary": [
-      "[대전=뉴시스] 김양수 기자 = 산림청이 17일 오후 1시30분을 기해 제주를 제외한 전국 15개 시·도에 산사태위기경보를 '주의' 단계로 상향 발령했다.",
-      "제주는 '관심' 단계를 유지한다.",
-      "기상상황과 산사태예측정보 등을 고려한 조치다."
+      "[울산=뉴시스] ▲이명석(향년 79세)씨 별세, 민순금씨 남편상, 이준수(국립수산과학원 연구협력과 연구관)·이민아(고촌고등학교 융합과학교육부장)씨 부친상, 서하경(울산MBC 보도국 부장)씨 시부상, 정영철(한국은행 외자운용원 과장)씨 장인상=17일 오전, 광주 베스트장례문화원, 발인 19일 오전 8시30분."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndd65bc78",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026071710597",
-    "title": "\"아이가 무슨 죄냐\"…길거리서 아기 안고 담배 피운 아빠",
-    "summary": [
-      "\"아이가 무슨 죄냐\"…길거리서 아기 안고 담배 피운 아빠."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb5d45248",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260717/134317400/1",
-    "title": "홍준표 “이재명 정권, 국가방위 무력화한 문재인 전 대통령 답습”",
-    "summary": [
-      "홍준표 전 대구시장이 정부가 추진하고 있는 국군사관학교 통합과 관련해 “삼사 통합이 아니라 각군 전력의 극대화와 전문화가 더 시급한 문제”라고 지적했다.홍 전 시장은 17일 소셜네트워크서비스(SNS)를 통해 “메신저가 신뢰를 잃으면 메시지가 아무리 좋아도 지지 받지 못한다”며 이같이 전했다.이어 “지금 국방개혁이라고 추진하는 삼군 사관학교 통합이 바로 그런 예가 되고 있다”며 “그건 메신저에도 문제가 있고, 메시지에도 문제가 있다”고 더했다.그."
-    ],
-    "chips": [
-      "#정치",
+      "#한은",
       "#교육"
     ]
   },
   {
-    "id": "nda38d635",
+    "id": "n4e194c05",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713318",
-    "title": "LG 오스틴, 3시즌 연속 30홈런에 단 '두 발'…KBO 외국인 역대 3번째",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713345",
+    "title": "\"서울편입 중단\" \"GH 이전재개\"…구리시, 경기도에 공문",
     "summary": [
-      "[서울=뉴시스]문채현 기자 = 프로야구 LG 트윈스의 오스틴 딘이 외국인 선수로서 역대 3번째 3시즌 연속 30홈런에 바짝 다가갔다.",
-      "오스틴은 지난 16일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 KT 위즈와의 경기에 3번 타자 1루수로 선발 출전해 0-0으로 맞선 1회말 첫 타석에서 선제 솔로 홈런을 터뜨렸다.",
-      "1회말 2사 주자 없는 상황에 타석에 들어서 KT 왼손 투수 로건 앨런을 상대한 오스틴은 볼카운트 2볼-2스트라이크에서 시."
+      "[구리=뉴시스]이호진 기자 = 경기 구리시가 경기도에 공공기관 차원의 서울 편입 중단 입장이 담긴 공문을 발송하면서 경기도시공사(GH) 구리 이전이 재개될지 관심이 모아자고 있다.",
+      "17일 경기도와 구리시 등에 따르면 구리시는 지난 14일 경기도에 서울 편입 추진 철회 방침과 함께 GH 이전 절차 재개를 요청하는 내용의 공문을 발송했다.",
+      "앞서 구리시는 2021년 경기도의 지방공기업 경기북부 이전 추진 과정에서 공모 절차를 거쳐 GH 이전 지역으로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4fc15d1e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713338",
+    "title": "'역주행 신화' 리센느, 악플과 전쟁…신고 사이트 개설",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 걸그룹 리센느가 악플러들과 전쟁을 선포했다.",
+      "소속사 더뮤즈엔터테인먼트는 지난16일 공식 홈페이지를 통해 \"리센느의 권익 보호를 위한 신고 사이트를 개설했다\"고 밝혔다.",
+      "이어 \"해당 사이트는 아티스트의 명예를 훼손하는 악성 게시물 및 저작권 침해 사례에 대한 제보를 받아, 보다 신속하고 정확하게 조치하기 위함\"이라고 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf92b8cc",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026071716333109526",
+    "title": "美, 이란 공항·철도·교량까지 공습…이란은 걸프 미군자산 공격",
+    "summary": [
+      "에너지 수송로인 호르무즈 해협 통제권을 둘러싼 미국과 이란의 무력 충돌이 격화하고 있다.",
+      "미국은 해협 연안 군사시설을 넘어 민간 시설과 내륙까지 공습했고 이란은 걸프 지역 미군 자산으로 반격 범위를 넓혔다.",
+      "중동을 관할하는 미군 중부사령부는 소셜미디어 엑스(X·옛 트위터)를 통해 미 동부시간 기준 16일 오후 2시 이란을 겨냥한 야간 공습을 시작했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf62c091",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/17/2026071716110648463",
+    "title": "생일에 산 연금복권 '대박'…1·2등 동시 당첨 \"아버지께 집 선물\"",
+    "summary": [
+      "어머니를 일찍 여읜 뒤 홀로 남매를 키운 아버지에게 보답하고 싶어 꾸준히 복권을 사 온 한 남성이 생일에 구매한 연금복권으로 1등과 2등에 동시에 당첨된 사연이 전해졌다.",
+      "지난 14일 동행복권은 연금복권720+ 제323회차 1·2등 동시 당첨자 A씨의 사연을 공개했다.",
+      "해당 복권은 인천 남동구의 한 복권 판매점에서 판매됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5ece3af",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/17/2026071714351343514",
+    "title": "'손호영 OUT' 롯데, 라인업 변화! '日독립리그 출신' 외야수도 정식 등록했다",
+    "summary": [
+      "롯데 자이언츠가 전날(16일) 패배의 설욕과 분위기 반전을 위해 선발 라인업에변화를 단행했다.",
+      "동시에 퓨처스리그를 폭격하며 눈도장을 찍은 육성선수 조민영을 정식 선수로 등록하며 후반기 대반격을 위한 승부수를 띄웠다.",
+      "롯데는 17일 대구삼성라이온즈파크에서 열리는'2026 신한 SOL KBO리그' 삼성 라이온즈와의 원정 경기를 앞두고 선발 라인업을 공개했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n16a0bd33",
+    "id": "nc0038c45",
     "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260717/134317392/2",
-    "title": "정청래 “큰일났다…후원금 하룻밤새 3억8000만원 쏟아져“",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/17/GGGVVFVBZNBU3F5QBO5XN5MIAM/",
+    "title": "나가기 전 슉슉 뿌리니 머리 볼륨이 확, 카이스트 탈모 스프레이",
     "summary": [
-      "더불어민주당 당 대표 선거에 출마한 정청래 전 대표가 하룻밤 사이 3억 원이 넘는 후원금이 들어왔다고 17일 밝혔다.정 전 대표는 이날 페이스북에 ‘큰일났다.",
-      "정말 고맙다’는 제목으로 “어제 어느 유튜브에서 제 후원계좌가 2000만 원이 아직 덜 찼다고 방송을 했나보다.",
-      "그 방송을 보고 하룻밤 사이 무려 3억8000만 원이 쏟아져 입금됐다”고 올렸다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n41b929fb",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717042400007",
-    "title": "신진서 \"한 달 준비한 게 한 수에 날아갔다\"…초반 변칙에 충격",
-    "summary": [
-      "(서울=연합뉴스) 천병혁 기자 = 바둑 인공지능(AI)과 접바둑 대결에서 완패한 신진서 9단이 대국 초반 카타고(KataGo)의 변칙 수법에 무..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nabd195ef",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "16분 전",
-    "url": "https://www.hankyung.com/article/202607171056i",
-    "title": "靑 \"민항기 국제 공동개발로 연 135兆 수익 목표\"",
-    "summary": [
-      "靑 \"민항기 국제 공동개발로 연 135兆 수익 목표\"."
+      "나가기 전 슉슉 뿌리니 머리 볼륨이 확, 카이스트 탈모 스프레이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb77a5dca",
+    "id": "n84d62e42",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717042300527",
-    "title": "경남 진주·사천 오존주의보 해제",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260717045700530",
+    "title": "내일 중부지방 집중호우…행안장관 \"9개시도에 상황관리관 급파\"",
     "summary": [
-      "(창원=연합뉴스) 경남 진주·사천에 내려진 오존주의보가 17일 오후 3시 해제됐다고 환경부 한국환경공단이 전했다."
+      "(서울=연합뉴스) 차민지 기자 = 윤호중 행정안전부 장관은 18일 새벽부터 중부지방을 중심으로 많은 비가 예보됨에 따라 17일 관계기관 대책회의..."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "na650dc7c",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/17/MBG3PL6DBNEWTGN2YNS3ML2N6Y/",
-    "title": "의정부 아파트서 부부 추락사... 집안엔 자녀 2명 숨진 채 발견",
+    "id": "nca58efa7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260717/134317529/2",
+    "title": "김경수와 盧 묘역 찾은 김민석 “오판과 부족 사과…크게 죄송”",
     "summary": [
-      "의정부 아파트서 부부 추락사... 집안엔 자녀 2명 숨진 채 발견."
+      "더불어민주당 당 대표 선거에 출마한 김민석 전 국무총리가 17일 노무현 전 대통령 묘역을 참배하고 2002년 대선을 앞두고 벌어진 이른바 ‘후보단일화협의회(후단협)’ 사태에 대해 사과했다.",
+      "당시 김 전 총리는 ‘노무현-정몽준 단일화’ 과정에서 정몽준 후보로의 단일화와 노무현 후보의 사퇴를 촉구하며 민주당을 탈당했었다.",
+      "민주당 정청래 전 대표는 이번 전당대회 과정에서 당권 경쟁자인 김 전 총리의 ‘후단협’ 사태를 겨냥한 듯 자신이 ‘노사모’(노무."
     ],
     "chips": [
-      "#부동산"
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8df19f3c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713344",
+    "title": "필리핀서 거액 마약 밀반입, 유통도 했다…30대 징역7년",
+    "summary": [
+      "[울산=뉴시스] 안정섭 기자 = 필리핀에서 수억원대 마약류를 국내에 몰래 들여와 전국 각지에 유통한 운반책이 1심에서 중형을 선고받았다.",
+      "울산지법 형사11부(부장판사 박동규)는 특정범죄 가중처벌 등에 관한 법률 위반 등 혐의로 기소된 A(30대)씨에게 징역 7년을 선고하고 550만원 추징을 명령했다고 17일 밝혔다.",
+      "검찰 공소사실에 따르면 A씨는 지난해 5월 중순 필리핀 마닐라의 한 호텔 주차장에서 현지인으로부터 3억원 상당의 필로폰 약 3㎏과."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n922d0b5c",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260717032651009",
+    "title": "시진핑 \"AI 발전, 한 국가 독주 아닌 교향곡돼야\"…美에 도전장(종합)",
+    "summary": [
+      "(상하이·서울=연합뉴스) 차병섭 특파원 권숙희 기자 = 시진핑 중국 국가주석이 17일 중국의 대표적인 테크 행사에서 급성장하는 글로벌 인공지능(..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n250eb58e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260717/134317041/1",
+    "title": "종합특검 구속영장 기각률 65%…심우정-이시원도 줄줄이 막혀",
+    "summary": [
+      "2차 종합특검(특별검사 권창영)이 심우정 전 검찰총장과 전무곤 전 대검찰청 기획조정부장(검사장)에 대해 청구한 구속영장이 16일 법원에서 기각됐다.",
+      "앞서 강호필 전 지상작전사령관과 이시원 전 공직기강비서관에 대해 특검이 청구한 구속영장도 13, 15일 연달아 기각되면서 막바지로 접어든 종합특검 수사가 난항을 겪고 있다.",
+      "서울중앙지법 부동식 영장전담 부장판사는 16일 심 전 총장과 전 전 검사장에 대해 “증거인멸 염려에 대한 소명이 부족하고 도망."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncff56fad",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/17/GM3GGOLEGBQTAMZWGI2TSMJWGU/",
+    "title": "'결혼의 완성' 5회만에 등장한 이 여배우..남궁민과 일촉즉발 포착",
+    "summary": [
+      "[OSEN=최이정 기자] 상승세를 타고 있는 KBS 2TV 토일 미니시리즈 ‘결혼의 완성’ 남궁민이 정체불명 의문의 여자 이상희와 첫 만남에서 총구를 겨눈 일촉즉발의 순간이 포착됐다.‘결혼의 완성’(연출 김정현·김민태, 극본 정재하, 제작 레드나인픽쳐스·KBS미디어)은 이혼 직전 납치된 아내를 구하기 위해 인면수심의 범죄자와 극한 사투를 벌이게 된 한 남자."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n45f29036",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/17/2026071715503685377",
+    "title": "與, 송영길·김용 전당대회 출마 당무위 의결…친청계 \"예외 인정 유감\"",
+    "summary": [
+      "[the300] 더불어민주당 당무위원회가 송영길 의원의 당 대표 선거 출마와 김용 전 민주연구원 부원장의 최고위원 선거 출마를 승인했다.",
+      "이들 두 후보는 당적 보유 기간 및 당비 미납 등 출마 요건에 맞지 않는다는 지적이 제기됐다.",
+      "친청(진청정래)계는 이번 당무의 결과를 두고 유감이라고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7c41f9e6",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/17/GBRGKOJRGBRTGNTEMY4GMYZZGU/",
+    "title": "'솔로지옥5' 김민지, '주거지 노출' 트라우마 \"살려줘..집 들어갈때 무서워\"[순간포착]",
+    "summary": [
+      "[OSEN=김나연 기자] '솔로지옥5' 김민지가 주거지가 노출된 뒤 트라우마를 고백했다.16일 김민지 유튜브 채널에는 \"서울 월세 가격이 600..? 김민지의 두 번째 서울집은 어디에..\"라는 제목의 영상이 업로드 됐다.이날 영상에는 공인중개사 겸 '솔로지옥3' 출연자 손원익이 출연해 김민지의 이사준비를 돕기 위해 나섰다.",
+      "그는 \"최근에 제가 민지의 영상을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85e9deb9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260717045000001",
+    "title": "李대통령 '빛의위원회' 출범행사…\"누구도 헌법 위 군림 안돼\"",
+    "summary": [
+      "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령은 17일 청와대 영빈관에서 '빛의 위원회' 출범을 기념하는 시민 초청 행사를 개최했다."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -642,15 +650,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "뉴스",
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
