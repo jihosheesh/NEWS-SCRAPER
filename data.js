@@ -1,19 +1,49 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-17 14:30:38
+// 마지막 업데이트: 2026-07-17 15:26:23
 window.NEWS_DB = [
   {
-    "id": "n328ad91e",
+    "id": "ne15d9909",
     "category": "IT",
-    "source": "뉴스케이",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vWXJvak9TTXQ4Nkdwdmx6RzdhR2xQeEZXRlpOdkdIaFotYWJmLUwwYkktSzViejRxSGQ5NGdPcFJ6dmVyX0VGdjBaU0NyN2JwMW5EdHhXd19wQQ?oc=5",
-    "title": "아시아뉴스 후지쯔가 글로벌 인공지능(AI) 반도체 선두 주자인 미국 엔비디아의 기술을 도입해 대대적인 AI 로봇 공학 혁신에 나서",
+    "source": "머니투데이",
+    "time": "25분 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcVlGTXhOTWJxNkNtdFRWZEdCTm9TVm1lcXRFUWJrN3M2enZnWmoyd2NmNTJVODlIMUlvX25uSGNCOHZ4eVkxZlRXYjRRNi15QUx2Rkh5aEpQZHBJYUVQMUtTQ2VQMjRH0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
+    "title": "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이",
     "summary": [
-      "아시아뉴스 후지쯔가 글로벌 인공지능(AI) 반도체 선두 주자인 미국 엔비디아의 기술을 도입해 대대적인 AI 로봇 공학 혁신에 나서 뉴스케이."
+      "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#AI",
       "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "na3780e93",
+    "category": "IT",
+    "source": "헤럴드경제",
+    "time": "29분 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNzhhUVFBeWV1TWw0dFNKaWltb1lURTlzc2NjNWtKWTlUaUxHZE1qUDhuYWM2bW5pZkxLZ3RQRktnbWlBb2xzMV9zZk5RbHMteGhxNDB3?oc=5",
+    "title": "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀",
+    "summary": [
+      "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀 헤럴드경제."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nc281528f",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
+    "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
+    "summary": [
+      "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환 연합뉴스."
+    ],
+    "chips": [
       "#엔비디아"
     ]
   },
@@ -76,23 +106,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6229e236",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVV9OcTgxMVdsYktNRjNzaV8xOGptOXNYcGFON1pZc1FlVTdBTEhmTXZOeHpLeXpFUlpLdUQyamp6anZaS3NTS1RyaTR6TmhPSGNfNEdsbGkyTHVxNGZWNXdhTmwtRWFBRndSWUUtRkRCLUE?oc=5",
-    "title": "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠슨 황 고민 커져",
-    "summary": [
-      "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠슨 황 고민 커져 비즈니스포스트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#수출"
-    ]
-  },
-  {
     "id": "n18f2a499",
     "category": "IT",
     "source": "미디어펜",
@@ -104,22 +117,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n2af0d2c1",
-    "category": "IT",
-    "source": "초이스스탁US",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMjM0Wm1rYS1IU2l3b0tHSnpLZUl0alJTXzdobTNNT0ZuUnhxTk03ZjFxem1fREpLcTZ3MkNjQ1doQWtOVlBhR2ItWUNweWlGMEZ2VVNYbG90WEdkUjlZaUEteDRzWWc?oc=5",
-    "title": "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀",
-    "summary": [
-      "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀 초이스스탁US."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -319,168 +316,265 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n63d1aa52",
+    "id": "n6da91ed8",
     "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260717/134319074/2",
-    "title": "[사설]기초연금 12년 만에 ‘대수술’… 노인빈곤율 개선에 도움 되게",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718001400072",
+    "title": "[속보] 美경보센터 \"진앙 300㎞ 이내 멕·콰테말라 해변 쓰나미 가능성\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2be913ba",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/18/ME4TAZTBMQ4TAYJRGE4GCZJQGQ/",
+    "title": "‘日 단기 유학→데뷔 첫 구원승’ 이의리, 다시 선발투수로 복귀할 수 있을까 “마무리 전환? 재능이 아깝다”",
     "summary": [
-      "정부가 만 65세 이상 고령자 대상의 기초연금 개편을 공식화했다.",
-      "2014년 ‘소득 하위 70%’에게 무조건 지급하는 지금의 방식으로 바꾼 지 12년 만이다.",
-      "16일 청와대 업무보고에서 정은경 보건복지부 장관은 “하후상박(下厚上薄) 원칙하에 기초연금 선정 기준을 ‘기준 중위소득’으로 변경하는 방향으로 개편안을 만들고 있다”고 밝혔다."
+      "[OSEN=인천, 길준영 기자] 프로야구 KIA 타이거즈 이의리(24)가 데뷔 첫 구원승을 따냈다.",
+      "이의리는 17일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에 구원등판해 1⅓이닝 3탈삼진 무실점 승리를 기록했다.",
+      "KIA가 5-3으로 앞선 4회말 2사 1루에서 선발투수 시라카와 케이쇼를 대신해 마운."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc3cdbaab",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/07/18/VIXAPBOMS5H2HD4OFVMIDRPDYI/",
+    "title": "[사설] 주미대사 귀국 이례적 NSC 참석, 위기의 韓美 관계",
+    "summary": [
+      "[사설] 주미대사 귀국 이례적 NSC 참석, 위기의 韓美 관계."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc76c548",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260717064400098",
+    "title": "獨총리 \"프랑스 핵 훈련 참가\"…양국, 핵 협력 강화키로",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 독일이 프랑스가 실시하는 핵 훈련에 참가할 것이라고 프리드리히 메르츠 독일 총리가 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad1c786c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718000900527",
+    "title": "강화 등 인천 4곳 호우주의보",
+    "summary": [
+      "(인천=연합뉴스) 기상청은 18일 0시를 기해 강화·인천북부·인천남부·인천영종에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n35a1f1dd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718000800527",
+    "title": "서울 전역에 호우주의보…하천 범람 등 주의",
+    "summary": [
+      "(서울=연합뉴스) 기상청은 18일 오전 1시를 기해 서울 전역에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n529e091f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/18/HFRDKMBTGVRDOZBYMJSGGNZXMI/",
+    "title": "'8년 80억' 초대형 계약 후 첫 등판…설종진 감독 \"위기 있었지만 선발 역할 잘 수행했다\"",
+    "summary": [
+      "[OSEN=대전, 조은혜 기자] 프로야구 키움 히어로즈가 한화 이글스의 끈질긴 추격을 뿌리치고 한화전 5연승, 후반기 2연승을 작성했다.설종진 감독이 이끄는 키움은 17일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 한화와의 원정경기에서 7-6 진땀승을 거뒀다.",
+      "이날 승리로 2연승이자 한화전 5연승을 달성한 키움은 시즌 전적 31승57패1."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nec82d633",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/opinion/palmyeonbong/2026/07/18/67KA772PXFF4ZPRBC2F6JNTED4/",
+    "title": "[팔면봉] 주미 대사는 한·미 ‘오해’ 풀러 급거 귀국, 주러 대사는 나토 협력 문제로 항의받아. 외",
+    "summary": [
+      "[팔면봉] 주미 대사는 한·미 ‘오해’ 풀러 급거 귀국, 주러 대사는 나토 협력 문제로 항의받아. 외."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c4d4688",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260714_0003709036",
+    "title": "\"토한다고 술 안 깨요\"…응급의학과 의사가 밝힌 '과음'의 위험성",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 응급의학과 전문의 남궁인 교수가 술이 우리 몸에 미치는 위험성을 설명하며 과음의 위험성을 거듭 경고했다.",
+      "구독자 14만 명을 보유한 유튜브 채널 '썰닥'은 지난 13일 공개한 영상에서 응급실에서 직접 겪은 사례를 바탕으로 급성 알코올중독부터 췌장염, 알코올성 케톤산증 등 술이 인체에 미치는 위험성을 설명했다.",
+      "채널에 출연한 이대목동병원 응급의학과 남궁인 교수는 \"급성 알코올중독은 흔히 술에 취한 상태로 생각하."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n861ddd5b",
-    "category": "부동산",
+    "id": "n58a1abfa",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713448",
-    "title": "구미·김천 집중호우…재난안전대책본부 비상 1단계 발령",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713459",
+    "title": "니카라과, 48년전 전 총리 피살 용의자 송환 갈등으로 이탈리아와 단교 선언",
     "summary": [
-      "[안동=뉴시스] 김진호 기자 = 경북 북서부를 중심으로 많은 비가 내리면서 구미와 김천, 경산 등에 호우특보가 발령됐다.",
-      "17일 경북도와 경북소방본부 등에 따르면 이날 오후 4시부터 10시까지 접수된 호우 관련 소방활동은 모두 72건이다.",
-      "유형별로는 도로장애가 42건으로 가장 많았고, 주택 피해 13건, 낙석 3건, 인명구조 1건, 기타 안전조치 13건으로 집계됐다."
+      "[서울=뉴시스] 구자룡 기자 = 니카라과가 48년 전 발생한 이탈리아 전 총리 살해 사건에 연루된 ‘붉은 여단’ 소속 테러범의 송환을 놓고 갈등을 빚던 이탈리아와 16일 외교 관계 단절을 발표했다.",
+      "안토니오 타자니 이탈리아 외무장관은 15일 마드리드에서 열린 유럽인민당 회의에서 니카라과 정부에 알레시오 카시미리를 송환할 것을 촉구했다.",
+      "카시미리는 과거 ‘붉은 여단’ 소속으로 1978년 알도 모로 전 이탈리아 총리 납치 및 살해 사건에 연루된 혐."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na1d81b7c",
+    "id": "nd98b1a8b",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713461",
+    "title": "李 \"농업보조금 늘려야…증시 활성화로 농어촌특별세 폭증해 재원 충분\"",
+    "summary": [
+      "[서울=뉴시스]조재완 기자 = 이재명 대통령은 17일 \"이제라도 식량 안보를 지키고 농촌과 농업, 농민을 살리려면 농업보조금을 늘려야 한다\"고 말했다.",
+      "이 대통령은 이날 엑스(X·옛 트위터)에서 우리나라 농업 보조금이 타 선진국에 비해 적다고 적은 송미령 농림식품부 장관의 엑스 글을 공유하며 이같이 말했다.",
+      "이 대통령은 \"농업은 매우 중요한 안보 전략산업\"이라며 \"만약의 비상사태를 대비해 경제적 효율이 없더라도 반드시 국가 생존을 위한 최소한을."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc9ce811b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260717_0003713170",
+    "title": "한그루가 끊은 최악의 음주 습관…간 건강엔 '독'",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 배우 한그루가 과거 힘들었던 시절 안주 없이 술만 마시던 습관을 털어놓으며 건강에 대한 우려를 낳고 있다.",
+      "전문가들은 공복에 술을 마시는 습관이 간에 더 큰 부담을 줄 수 있다며 주의를 당부한다.",
+      "한그루는 지난 14일 유튜브 채널 '그루니까말이야'에 공개된 영상에서 \"한동안 정말 힘들었을 때 6개월 동안 매일 아이들을 재우고 소주 한 병씩 마셨다\"며 \"혼자 상을 펴놓고 안주도 없이 술만 마셨다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf7e69578",
     "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260717/134319072/2",
-    "title": "[사설]화장률 94%… 매장 중심 낡은 장례환경 개선해야",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319502/1",
+    "title": "키키·하투하·악뮤, 빌보드 선정 상반기 최고의 K-팝",
     "summary": [
-      "국내 화장률은 2024년 기준 94%다.",
-      "장사(葬事) 문화가 ‘매장’에서 ‘화장’으로 완전히 바뀌었지만 관련 인프라는 뒤따르지 못하고 있다.",
-      "화장시설이 부족해 제때 화장을 못 하거나 봉안시설 비용이 치솟는 등 유족들은 상실의 슬픔 속에서 시간적·경제적 어려움마저 겪고 있다."
+      "미국 음악 전문 매체 빌보드가 올 상반기 K-팝 신을 결산하는 ‘2026년 최고의 K-팝 노래 25선(THE 25 BEST K-POP SONGS OF 2026 SO FAR)’을 발표했다.15일(현지시간) 빌보드에 따르면, 올 상반기 K-팝 최고의 곡으로 꼽힌 1위는 스타쉽엔터테인먼트 소속 신인 걸그룹 ‘키키(KiiiKiii)’의 ‘404 (New Era)’가 차지했다.",
+      "인터넷 오류 코드인 ‘404’를 역발상으로 뒤집어 새로운 시대로의 진입을 선."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n12bc83ef",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319499/1",
+    "title": "‘K-팝’ 엔하이픈·‘라틴팝’ 산토스 브라보스, 멕시코 월드컵 축제 달궜다",
+    "summary": [
+      "K-팝 대세 그룹 ‘엔하이픈(ENHYPEN)’과 하이브 라틴 팝 그룹 ‘산토스 브라보스(SANTOS BRAVOS)’가 북중미 월드컵 개최 기념 축제에서 무대를 펼쳤다.17일 이들 소속사 하이브(HYBE)에 따르면, 두 팀은 지난 15일(현지시간) 멕시코시티에서 열린 ‘2026 FIFA 북중미 월드컵’ 개최 기념 복합 문화 축제 ‘캄포 마르테 26(CAMPO MARTE 26)’에 출연해 2시간 동안 공연을 진행했다.이날 엔하이픈은 ‘패러독스 인베."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf284c8e5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "41분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319493/1",
+    "title": "‘9월 결혼’ 양나래 변호사, 훈남 예비신랑 공개…“평생 함께할 동반자”",
+    "summary": [
+      "양나래 변호사가 9월의 신부가 되는 소감을 밝혔다.양나래 변호사는 17일 자신의 인스타그램에 “다가오는 9월, 제가 평생을 함께할 소중한 동반자를 만나 결혼하게 됐다”는 글을 게재했다.이어 그는 예비 신랑에 대해 “옳고 그름을 바라보는 가치관이 같고, 함께 꿈꾸는 미래의 방향이 같으며, 서로에게 사랑을 표현하는 방식까지 닮은 참 좋은 사람”이라고 알렸다.또한 양나래 변호사는 “오늘 ‘아침마당’ 방송 이후 기사로 먼저 소식을 접하신 분들도 계실."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4fc0b897",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260717/134319489/1",
+    "title": "‘윤주모’ 리센느 미나미 “BTS·트와이스 성덕 됐다…행복해서 잠 못 자”",
+    "summary": [
+      "‘술 빚는 윤주모’ 리센느 미나미가 ‘거제 야호’ 덕분에 성덕이 됐다고 밝혔다.17일 유튜브 채널 ‘술 빚는 윤주모’에는 대세 그룹 리센느의 리브, 미나미, 제나가 윤나라 셰프(술 빚는 윤주모)의 윤주당을 방문해 함께한 영상이 공개됐다.갸루 콘셉트의 콘텐츠를 통해 ‘거제 야호’ 밈을 탄생시킨 미나미.",
+      "미나미는 방탄소년단부터 전지현, 트와이스 등 많은 스타들이 따라 한다는 소식에 “저희도 아이돌을 보면서 꿈꿔왔는데, 그런 선배님들이 저희 것을 따."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "n8133230d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260715_0003711170",
-    "title": "꼼수 해외출장 다녀온 지방의원…다음해 출장예산 '삭감'",
+    "id": "n9e238eaf",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "44분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/17/2026071723093258818",
+    "title": "대구 수성구에 역대 첫 '재난성호우 문자' 발송…최고 단계 호우경보",
     "summary": [
-      "[세종=뉴시스]성소의 기자 = 앞으로 지방의회 의원이 위법한 공무국외출장을 다녀오면 해당 출장에 사용한 해외출장비는 다음 연도 예산에서 전액 삭감된다.",
-      "19일 관계부처에 따르면 행정안전부는 이런 내용의 '위법한 공무국외출장에 대한 지방자치단체 처리기준' 예규를 제정해 지난 1일부터 시행하고 있다.",
-      "예규에 의하면 감사원 감사나 외부 감사·조사 결과 지방의회 의원이 공무 국외출장 과정에서 위법 행위로 징계요구와 환수 처분을 받으면 해당 출장에 사용."
+      "신설 이후 처음 발송…시간당 100㎜ 강수 관측돼 기상청 \"즉시 안전한 곳으로 대피해야\" 17일 밤 대구 수성구 일부 지역에 제도 신설 이후 첫 '재난성호우 긴급재난문자'가 발송됐다.",
+      "시간당 100㎜에 달하는 강수가 관측되면서다.",
+      "기상청에 따르면 이날 밤 10시10분 대구 수성구 지산1동에 재난성호우 긴급재난문자가 발송됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n548c14c8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717063200530",
-    "title": "대구 수성구에 첫 '재난성 호우'…15분 31㎜, 1시간 89㎜ 내려",
+    "id": "ne6cdfc8a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026071714307",
+    "title": "서울시, 29개 하천 통제…호우 대비 비상 대응 돌입",
     "summary": [
-      "(서울=연합뉴스) 이재영 기자 = 17일 밤 대구 수성구에 15분간 31.5㎜, 1시간에 89.0㎜의 비가 쏟아지면서 처음으로 '재난성 호우 긴..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1a4e6a95",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717063100009",
-    "title": "뉴욕증시, 거센 반도체주 매도세에 하락 출발",
-    "summary": [
-      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 반도체주를 중심으로 강한 매도세가 나타나면서 하락 출발했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nfe448621",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260717/134319060/2",
-    "title": "유시민이 29년 만에 또 꺼내든 ‘필연적 실패론’[횡설수설/윤완준]",
-    "summary": [
-      "유시민 작가는 노무현 정부 시절 열린우리당 창당을 주도하며 친노 진영의 핵심으로 부상했다.",
-      "2013년 정계에서 은퇴했지만, 8년 전 노무현재단 이사장을 맡고서는 유튜브 진행자로 변신해 정치적 발언을 재개했다.",
-      "그는 ‘강성 팬덤’을 등에 업고 유튜브 등을 통해 현 여당의 주요 현안에 대해 ‘장외에서’ 큰 영향력을 행사해 왔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n817062f8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717062800053",
-    "title": "대구·경북에 100mm 넘게 쏟아부었다…곳곳에 침수 피해 잇따라",
-    "summary": [
-      "(대구=연합뉴스) 윤관식 기자 = 17일 대구·경북 일부 지역에 호우 경보가 내려진 가운데 도로가 통제되고 호우 피해 신고가 빗발치는 등 호우 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb5783b23",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260717/134319076/2",
-    "title": "[오늘과 내일/전승훈]반값여행-출렁다리 공화국",
-    "summary": [
-      "올해 2월 청와대에서 열린 확대국가관광전략회의.",
-      "이재명 대통령이 전남 강진군 관광정책을 극찬하고 나섰다.",
-      "공식 석상에서 벌써 세 번째였다.“강진군의 ‘반값여행’처럼 여행비 부담은 줄이고 혜택은 지역 상권에 돌아가도록 하는 정책을 확대해야 합니다.” 문화체육관광부와 한국관광공사는 부랴부랴 65억 원 예산을 들여 ‘지역사랑 휴가지원 사업(대한민국 반값여행)’을 실시했다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nef1eea8c",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713449",
-    "title": "'K-팝' 엔하이픈·'라틴팝' 산토스 브라보스, 멕시코 월드컵 축제 달궜다",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = K-팝 대세 그룹 '엔하이픈(ENHYPEN)'과 하이브 라틴 팝 그룹 '산토스 브라보스(SANTOS BRAVOS)'가 북중미 월드컵 개최 기념 축제에서 무대를 펼쳤다.",
-      "17일 이들 소속사 하이브(HYBE)에 따르면, 두 팀은 지난 15일(현지시간) 멕시코시티에서 열린 '2026 FIFA 북중미 월드컵' 개최 기념 복합 문화 축제 '캄포 마르테 26(CAMPO MARTE 26)'에 출연해 2시간 동안 공연을 진행했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf16d6ddd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260717062500527",
-    "title": "경북 김천북부에 호우주의보…칠곡·청도에 호우주의보 해제",
-    "summary": [
-      "(대구=연합뉴스) 기상청은 17일 오후 11시를 기해 김천북부에 호우주의보를 발효한다고 밝혔다."
+      "서울시, 29개 하천 통제…호우 대비 비상 대응 돌입."
     ],
     "chips": [
       "#뉴스"
@@ -490,7 +584,7 @@ window.NEWS_DB = [
     "id": "n8c745c15",
     "category": "IT",
     "source": "테크M",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153479",
     "title": "[글로벌] 中, AI 동반자 과몰입 규제...이용자들 AI와 이별에 '충격'",
     "summary": [
@@ -506,7 +600,7 @@ window.NEWS_DB = [
     "id": "n9db35e8f",
     "category": "IT",
     "source": "테크M",
-    "time": "31분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153478",
     "title": "[글로벌] 애플, AI 서버칩 기업 인수 검토...자체 칩 개발 지연 보완 나서나",
     "summary": [
@@ -524,7 +618,7 @@ window.NEWS_DB = [
     "id": "na043827f",
     "category": "IT",
     "source": "테크M",
-    "time": "32분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153477",
     "title": "[글로벌] 팔란티어 CTO \"中 오픈소스 AI, 美 IP 활용해 개발\"...보호조치 강화 촉구",
     "summary": [
@@ -533,114 +627,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
-  },
-  {
-    "id": "ne21dad42",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260717_0003713438",
-    "title": "與전당대회 '빅3' 연휴 일정 소화…金 '적통'·鄭 '호남'·宋 '반청'",
-    "summary": [
-      "[서울=뉴시스] 한재혁 기자 = 더불어민주당 8·17 전당대회 당대표 예비후보가 확정된 17일 김민석·정청래·송영길 당대표 예비후보(기호순)는 후보 등록 후 첫 공식 일정을 소화했다.",
-      "김 후보는 김대중·노무현 전 대통령 묘역을 잇따라 참배하며 적통성을 부각했으며 정 후보는 권리당원이 밀집한 호남 민심에 재차 소구했다.",
-      "송 후보는 자신의 출마자격 제한 논란을 두고 친청(親정청래)계와 다시 한 번 대립 구도를 보였다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8b64f8bb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "53분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/07/17/7ZLHGRHYJZDZDEYPDMCGVSS35M/",
-    "title": "이승만 아닌 신익희 앞세운 국회... 진영 행사 된 제헌절 경축식",
-    "summary": [
-      "이승만 아닌 신익희 앞세운 국회... 진영 행사 된 제헌절 경축식."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0e7216b3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "58분 전",
-    "url": "https://www.hankyung.com/article/2026071714177",
-    "title": "\"공원서 과한 애정행각\" 신고에 출동했더니…현직 경찰관",
-    "summary": [
-      "\"공원서 과한 애정행각\" 신고에 출동했더니…현직 경찰관."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na409837a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/17/2026071721444191279",
-    "title": "[한번에쓱]2사 만루에서 삼진으로 승리지켜내며 '터프한 9회말이야' 조상우",
-    "summary": [
-      "기아 마무리 조상우와 한준수가 17일 인천랜더스필드에서 열리는 '2026 SOL KBO리그 SSG랜더스와 KIA타이거즈의 경기에서 승리한 후 하이파이브를 나누고 있다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n048c25f8",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/17/2026071721101889340",
-    "title": "'무려' 1억 넘었다, '역대 최고액' 월드컵 결승전 티켓가 폭등 \"절대 떨어지진 않을 것\"",
-    "summary": [
-      "2026 국제축구연맹(FIFA) 북중미월드컵 결승전이 미국 스포츠 역사상 가장 비싼 티켓 가격을 기록했다.",
-      "미국 매체 'USA투데이'는 17일(한국시간) \"오는 20일 미국 뉴저지 이스트 러더퍼드의 메트라이프 스타디움에서 열리는 스페인과 아르헨티나의 북중미월드컵 결승전 티켓이 평균 구매가 기준 미국 스포츠 역사상 가장 비싼 가격을 기록했다\"고 보도했다.",
-      "온라인 티켓 예매 플랫폼 '틱픽'에 따르면 이번 결승전의 평균 티켓 구매."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d820035",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/world/2026/07/17/2026071721454637297",
-    "title": "파벌 진흙탕 비껴간 '온건파'…변방의 버넘, 英 총리 초고속 입성",
-    "summary": [
-      "당내 전폭 지지 '단독 추대' 20일 59대 총리 공식 집권 지방 분권·재산업화 선언 영국 집권 노동당의 앤디 버넘 하원의원(56)이 17일(현지시간) 새 당 대표로 취임하면서 키어 스타머 총리의 후임 총리로 확정됐다.",
-      "노동당은 이날 특별 당대회에서 대표 경선 후보로 단독 등록한 버넘 의원을 신임 대표로 선출했다고 발표했다.",
-      "버넘 대표는 오는 20일 영국 59대 총리로 공식 취임할 예정이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9e029801",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "1시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260717220325",
-    "title": "[기경학회 AX칼럼] 공급망 불확실성 시대, AI의 역할",
-    "summary": [
-      "[지디넷코리아]글로벌 경제의 상호의존도가 높아지면서 국가 별 정책∙규제 변경, 생산∙구매 네트워크 다변화 및 기업 간 합종연횡 등에 따른 공급망 관리 불확실성이 증가하고 있다.",
-      "코로나19(COVID-19), 러시아-우크라이나 전쟁, 미국-중국 무역 분쟁 등이 야기한 이슈들은 2025 APEC에서 공급망 안정화가 정상 회의 아젠다로 다루어진 배경 중 하나다.",
-      "이와 같은 글로벌 공급망 리스크는 최근 미국-이란 전쟁 과정의 호르무즈 해협 봉쇄로 또다."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#수출"
-    ]
   }
 ];
 
@@ -648,21 +634,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
