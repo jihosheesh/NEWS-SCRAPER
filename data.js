@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-17 17:24:07
+// 마지막 업데이트: 2026-07-17 18:20:00
 window.NEWS_DB = [
   {
     "id": "ne15d9909",
     "category": "IT",
     "source": "머니투데이",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcVlGTXhOTWJxNkNtdFRWZEdCTm9TVm1lcXRFUWJrN3M2enZnWmoyd2NmNTJVODlIMUlvX25uSGNCOHZ4eVkxZlRXYjRRNi15QUx2Rkh5aEpQZHBJYUVQMUtTQ2VQMjRH0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
     "title": "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "na3780e93",
     "category": "IT",
     "source": "헤럴드경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNzhhUVFBeWV1TWw0dFNKaWltb1lURTlzc2NjNWtKWTlUaUxHZE1qUDhuYWM2bW5pZkxLZ3RQRktnbWlBb2xzMV9zZk5RbHMteGhxNDB3?oc=5",
     "title": "AI 반도체 매도세에 흔들린 엔비디아…애플, 장중 한때 글로벌 시총 1위 복귀",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nc281528f",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
     "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
     "summary": [
@@ -317,10 +317,169 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbb3992e0",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718004000072",
+    "title": "[월드컵] 결승전 당일 공기질 '보통' 전망…주최측 \"면밀 주시\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 2026 북중미 월드컵 결승전을 앞두고 개최지인 미국 뉴욕과 뉴저지 일대에 산불 연기로 인한 대기질 악화 경..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1e6264a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718004200527",
+    "title": "수원 등 경기 15곳 호우주의보…김포에 호우경보 유지",
+    "summary": [
+      "(수원=연합뉴스) 기상청은 18일 오전 4시를 기해 수원 등 경기 15곳에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne51ddfda",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718004100527",
+    "title": "원주 등 강원 10곳 호우주의보…춘천 등 4곳 호우주의보 유지",
+    "summary": [
+      "(춘천=연합뉴스) 기상청은 18일 오전 3시를 기해 원주 등 강원 10곳에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2aaf63cd",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/18/2026071802564886428",
+    "title": "진선규, 남성 호르몬 수치 정상 이하로 떨어져…김종국 \"하체 운동 해야\"",
+    "summary": [
+      "진선규가 남성 호르몬 수치가 정상 이하로 떨어졌다고 고백했다.",
+      "김종국은 하체 운동을 권했고 이희준은 김종국보다도 높은 호르몬 수치를 자랑해 스튜디오를 술렁이게 했다.",
+      "17일 방영된 KBS2 '옥탑방의 문제아들' 321회에서는 배우 진선규와 이희준이 출연해 근황을 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5edf71d0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/18/HR44KJOKDREC3CDEAWFHY5GTMM/",
+    "title": "김 대리가 침 흘리며 반한 연예인급 미녀… “제 아내인데요?”",
+    "summary": [
+      "김 대리가 침 흘리며 반한 연예인급 미녀… “제 아내인데요?”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na447197f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/07/18/EVMSWXZLUNHCVAX7NOYB3NHGGQ/",
+    "title": "토박이가 ‘부산 온 절친’에게만 소개하는 비밀의 식당 속편",
+    "summary": [
+      "토박이가 ‘부산 온 절친’에게만 소개하는 비밀의 식당 속편."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n57520c0b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/international/2026/07/17/AQP5HCJHXRFMHHRPZQCXYLOWFE/",
+    "title": "베오그라드 고원에 핀 ‘대리석의 기적’, 성 사바 성당의 비밀",
+    "summary": [
+      "베오그라드 고원에 핀 ‘대리석의 기적’, 성 사바 성당의 비밀."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5179d2e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/18/C6PAHS42W5AHHHLO7SUEC4J4WY/",
+    "title": "옥수수처럼 뿌리내리길 바랐건만… 박완서 혼란스럽게 한 조카의 선택",
+    "summary": [
+      "옥수수처럼 뿌리내리길 바랐건만… 박완서 혼란스럽게 한 조카의 선택."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na8972e4b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260718/134319630/1",
+    "title": "미군 “호르무즈 해협 상선 추적용 이란 감시탑 성공적 파괴”",
+    "summary": [
+      "미군 중부사령부(CENTCOM)는 17일(현지시간) 이란 남동부 차바하르(Chabahar) 샤히드 칼란타리 항구의 감시탑을 파괴했다고 밝혔다.중부사령부는 이날 소셜미디어 엑스(X)를 통해 “미군은 16일 차바하르 샤히드 칼란타리 항구의 감시탑을 성공적으로 파괴했다”며 “이 시설은 수십 년 동안 이슬람혁명수비대(IRGC)가 호르무즈 해협을 통과하는 상선을 추적하고 표적으로 삼는 데 사용해 온 오만만 연안 해상 감시망의 일부”라고 밝혔다.이어 “감."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbd4c1b7a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260718/134319627/1",
+    "title": "캐나다 산불 연기로 워싱턴DC 대기질 악화 ‘코드 퍼플’ 발령",
+    "summary": [
+      "캐나다 산불 연기가 워싱턴을 뒤덮자 ‘워싱턴 광역 정부 협의회’는 17일 대기질 경보 ‘코드 퍼플’를 발령했다.",
+      "이는 ‘좋음’부터 ‘위험’까지 6단계 중 ‘위험’ 다음으로 심각한 단계다.",
+      "보건 당국은 어린이, 노인, 심장 또는 폐 질환이 있는 사람들에게 실내에 머물 것을 권고했다."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n341b448b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718003800075",
+    "title": "'나홀로 집에' 비둘기 아줌마役 브렌다 프리커 별세…향년 81세",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 영화 '나홀로 집에 2'에서 비둘기를 돌보는 아주머니 역할을 맡았던 배우 브렌다 프리커가 세상을 떠났..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n6284d447",
     "category": "사회",
     "source": "동아일보",
-    "time": "3분 전",
+    "time": "59분 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260718/134319624/1",
     "title": "아일랜드 첫 아카데미상 수상 여배우 브렌다 프리커 별세…향년 81세",
     "summary": [
@@ -332,66 +491,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79456755",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718003400527",
-    "title": "전북 군산어청도에 호우주의보 해제",
-    "summary": [
-      "(전주=연합뉴스) 기상청은 군산어청도에 내렸던 호우주의보를 18일 오전 2시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n55c6a7f5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718003300527",
-    "title": "파주남부 등 경기 3곳 호우경보…고양 등 9곳 호우주의보 유지",
-    "summary": [
-      "(의정부=연합뉴스) 기상청은 18일 오전 3시를 기해 파주남부·파주서북부·파주동북부에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n39aa384d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718003200527",
-    "title": "인천 강화 등에 호우경보…백령도·대청도에 강풍주의보",
-    "summary": [
-      "(인천=연합뉴스) 기상청은 18일 오전 3시를 기해 강화에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na9517e1a",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718003100527",
-    "title": "경기 김포에 호우경보…성남 등 8곳 호우주의보 유지",
-    "summary": [
-      "(수원=연합뉴스) 기상청은 18일 오전 3시를 기해 김포에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n9fc22711",
     "category": "부동산",
     "source": "뉴시스",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260717_0003713347",
     "title": "\"재개발 옆이면 무조건 오른다?\" 빌라 투자자들이 놓치는 위험 신호",
     "summary": [
@@ -405,26 +508,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n19b17932",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "34분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/18/HA2TOZDEGFRTOMZTMRRDAMRWGA/",
-    "title": "멕시코·과테말라 인근 해역서 규모 7.3 지진 발생",
-    "summary": [
-      "멕시코와 과테말라 국경 인근 바다에서 규모 7.3의 지진이 발생했다.",
-      "지난달 24일 베네수엘라 북부를 강타한 연쇄 강진이 발생한 지 약 3주 만이다.",
-      "미 지질조사국(USGS)에 따르면 멕시코 현지 시각으로 이날 오전 8시 24분쯤(한국 시간 오후 11시 24분) 멕시코 남부 도시 푸에르토마데로에서 남서쪽으로 약 50㎞ 떨어진 태평양 연안에서 측정 규모 7."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n6903bf21",
     "category": "경제",
     "source": "한국경제",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607170970i",
     "title": "\"고기 반찬 못 먹어\"...최고 권력자 거절한 남자의 '반전 결말' [성수영의 그때 그 사람들]",
     "summary": [
@@ -435,25 +522,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7109980f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "43분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/18/MJSGGMTDHAYDAZJZMRTGKZRVG4/",
-    "title": "프랑스 이어 잉글랜드도 \"너무 일찍, 너무 깊게 내려갔다\"...고참 3명, 아르헨전 투헬 전술에 내부 불만 폭발",
-    "summary": [
-      "[OSEN=정승우 기자] 잉글랜드 대표팀 내부에서도 토마스 투헬 감독의 아르헨티나전 운영을 두고 불만이 나온 것으로 알려졌다.",
-      "최소 3명의 고참 선수가 지나치게 이른 수비 전환과 소극적인 경기 운영에 아쉬움을 드러냈다는 보도다.영국 'BBC'는 17일(한국시간) \"아르헨티나와 월드컵 준결승전 막판 잉글랜드가 수비적으로 내려앉은 방식은 대표팀 선수들 사이에서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na1ef91ad",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "44분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260718/134319098/2",
     "title": "메시의 아르헨 vs 푸엔테의 스페인… 챔피언 반지 다툰다",
     "summary": [
@@ -466,58 +538,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2efa823a",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260718/134319095/2",
-    "title": "아르헨 대통령 “직관하면 질까봐”… TV로 결승전 시청",
-    "summary": [
-      "월드컵 결승전은 축구팬이라면 누구나 눈으로 담고 싶어 하는 경기다.",
-      "하물며 자국이 펼치는 결승전이라면 말할 나위가 없다.",
-      "하지만 하비에르 밀레이 아르헨티나 대통령(사진)은 ‘직관’ 대신 ‘집관’을 택했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na37e79c2",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260718/134319093/2",
-    "title": "‘FA’ 르브론 제임스 “어느 팀으로 갈지 미정”",
-    "summary": [
-      "17일 미국 뉴욕에서는 스포츠 페스티벌인 ‘파나틱스 페스트’가 열렸다.",
-      "이 중 팬들의 관심이 가장 집중된 행사는 공개 방송으로 진행된 팟캐스트 ‘마인드 더 게임’이었다.",
-      "이달 초 미국프로농구(NBA) 로스앤젤레스(LA) 레이커스와 결별한 ‘킹’ 르브론 제임스(42·사진)가 출연했기 때문이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n933053a3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "44분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/18/GI3DSOBRMMZDGODCGM4TMYLFMU/",
-    "title": "‘역대 16번째 300홈런’ 나성범, 왜 400홈런이 멀게 느껴질까 “(노)시환이처럼 11년 계약이면 도전하겠지만…”",
-    "summary": [
-      "[OSEN=인천, 길준영 기자] 프로야구 KIA 타이거즈 나성범(37)이 통산 300홈런을 달성한 것에 대한 자부심을 내비쳤다.",
-      "나성범은 지난 17일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에 4번 지명타자로 선발출장해 5타수 3안타 1홈런 5타점 1득점을 기록했다.",
-      "1회초 무사 만루 찬스에서 첫."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nc9a75442",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260718_0003713468",
     "title": "멕시코 남부 해안 규모 7.4 강진·쓰나미 경보",
     "summary": [
@@ -530,40 +554,42 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nde65e25a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003711522",
-    "title": "\"배변 후 묻어난 피\"…젊은데 혹시 내가 이 암?[몸의경고]",
+    "id": "n38f49716",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/18/2026071800011725460",
+    "title": "'韓 23세 국대' 챔피언스리그 무대 보인다, '무려 1조 6800억' 한국계 女 회장 구단 러브콜 \"놀라운 이적 임박\"",
     "summary": [
-      "[서울=뉴시스] 류난영 기자 = #.",
-      "30대 직장인 이모씨는 최근 변이 가늘어 지고 배변 후 휴지에 피가 묻어 나는 증상을 겪었다.",
-      "처음엔 단순 치질이거나 뭔가 잘못 먹어서 그런가 보다 하고 넘겼다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n27b16e71",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/07/18/23O3TR4K65B4BPYNGZVPZULDSM/",
-    "title": "못 낚으면 손톱 뽑힌다… ‘스캠 산업’의 진실",
-    "summary": [
-      "못 낚으면 손톱 뽑힌다… ‘스캠 산업’의 진실."
+      "대한민국 국가대표 미드필더가 유럽 최고의 무대에서 뛸 절호의 기회를 잡았다.",
+      "배준호(23·스토크 시티)의 프랑스 명문 올림피크 리옹 이적이 임박했다.",
+      "영국 매체 '풋볼 리그 월드'는 17일(한국시간) \"스토크의 핵심 공격 자원 배준호가 계약 종료를 1년 앞두고 프랑스 거함 리옹의 영입 대상으로 낙점됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n759f9efe",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/18/2026071720170685640",
+    "title": "무너진 시라카와→'불펜 이의리+마무리 조상우'가 막았다... '4위 한계' 넘어설 비장의 카드 될까",
+    "summary": [
+      "KIA 타이거즈의 후반기 첫 승엔 남다른 의미가 담겨 있었다.",
+      "이범호(45) 감독이 이끄는 KIA는 17일 인천 SSG랜더스필드에서 열린 SSG 랜더스와 2026 신한 SOL KBO리그 방문경기에서 6-3으로 이겼다.",
+      "전날 패배로 시작했지만 이날 승리하며 46승 40패 2무로 4위를 지켰다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "ndc4e961b",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026071573577",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 18일 띠별 추천 점심메뉴",
     "summary": [
@@ -577,7 +603,7 @@ window.NEWS_DB = [
     "id": "n8ac16c4d",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260717231908",
     "title": "기상청, 대구 수성구 지산1동에 올해 첫 ‘재난성호우 긴급재난문자’",
     "summary": [
@@ -591,7 +617,7 @@ window.NEWS_DB = [
     "id": "ndec7e9ca",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260717231002",
     "title": "HCL테크와 가디언, 기술 및 운영 전반의 AI 기반 현대화를 위한 파트너십 확대",
     "summary": [
@@ -599,36 +625,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "ne6cdfc8a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026071714307",
-    "title": "서울시, 29개 하천 통제…호우 대비 비상 대응 돌입",
-    "summary": [
-      "서울시, 29개 하천 통제…호우 대비 비상 대응 돌입."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8c745c15",
-    "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153479",
-    "title": "[글로벌] 中, AI 동반자 과몰입 규제...이용자들 AI와 이별에 '충격'",
-    "summary": [
-      "중국 정부가 인공지능(AI) 챗봇에 대한 과도한 정서적 의존을 줄이기 위해 이용 시간과 콘텐츠를 제한하는 규제를 시행했습니다.",
-      "AI 이용이 중단되면서 오랫동안 관계를 맺어온 일부 이용자들은 실제 이별과 비슷한 상실감을 호소하고 있다는 소식입니다.중국 관영 신화통신에 따르면 국가인터넷정보판공실(CAC) 등 5개 부처는 지난 15일 'AI 의인화 상호작용 서비스'의 과도한 이용을 막고, 이용자가 위기 상황에 놓였을 때 플랫폼이 개입하도록 하는 규정."
-    ],
-    "chips": [
-      "#AI",
-      "#정책"
     ]
   }
 ];
@@ -638,14 +634,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
