@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-18 17:19:34
+// 마지막 업데이트: 2026-07-18 18:16:26
 window.NEWS_DB = [
   {
     "id": "n44e1fd61",
     "category": "IT",
     "source": "문화일보",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80a293cHFOVkpYVjdhU3hCNzMzcEhfYmwxNnp6ZkdZWG14bl9pYnJHT1J3ejc3NE1kbUpXZmVLdTNyQld2MHFlSHJBTlhZaEx0?oc=5",
     "title": "AI 반도체 약세에…애플, 엔비디아 제치고 장중 시총 1위 탈환",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n3f49e61e",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMzlaUkRHVGR6eUJ4aXFINk1MaEhNMzRkQ2pQMjJwekN1ZTRXbnVlSDZJdjVnclE4emF1S25fVjFOR1F2dUJVVkVSWHZtdlRhT3A4d1c1am0zSHNaYTdLM2dUVWp6RlFp?oc=5",
     "title": "애플, 장중 시총 1위 탈환…AI 반도체 조정에 엔비디아 제쳤다",
     "summary": [
@@ -107,23 +107,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6229e236",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVV9OcTgxMVdsYktNRjNzaV8xOGptOXNYcGFON1pZc1FlVTdBTEhmTXZOeHpLeXpFUlpLdUQyamp6anZaS3NTS1RyaTR6TmhPSGNfNEdsbGkyTHVxNGZWNXdhTmwtRWFBRndSWUUtRkRCLUE?oc=5",
-    "title": "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠슨 황 고민 커져",
-    "summary": [
-      "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠슨 황 고민 커져 비즈니스포스트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#수출"
-    ]
-  },
-  {
     "id": "n18f2a499",
     "category": "IT",
     "source": "미디어펜",
@@ -135,6 +118,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
+    ]
+  },
+  {
+    "id": "n2af0d2c1",
+    "category": "IT",
+    "source": "초이스스탁US",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMjM0Wm1rYS1IU2l3b0tHSnpLZUl0alJTXzdobTNNT0ZuUnhxTk03ZjFxem1fREpLcTZ3MkNjQ1doQWtOVlBhR2ItWUNweWlGMEZ2VVNYbG90WEdkUjlZaUEteDRzWWc?oc=5",
+    "title": "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀",
+    "summary": [
+      "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀 초이스스탁US."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -319,100 +318,154 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n277652c2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/19/GRQWEOJSMFQWKY3GMEZWCMTDGI/",
-    "title": "모두 경악하게 한 '슈퍼캐치'…김호령, \"잡으려고 뛰었고, '이제 잡을 수 있겠다'는 생각이 들었다\" [오!쎈 인천]",
-    "summary": [
-      "[OSEN=인천, 홍지수 기자] 프로야구 KIA 타이거즈가 SSG 랜더스를 완파했다.",
-      "선발 제임스 네일도 잘 던졌고 타선은 고르게 활약했다.",
-      "이 가운데 돋보이는 선수가 있었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n14989f6d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/19/GMYGEMJTMIYDAMDDG44GEYRYMI/",
-    "title": "'정말 미쳤다, 오버페이 아닌가' 17위 잔류한 토트넘, 맨체스터 시티 '전력 외' 윙어 사비뉴 영입 임박..'이적료 6500만파운드 합의'",
-    "summary": [
-      "[스포츠조선 노주환 기자]EPL 토트넘이 브라질 출신 윙어 사비뉴(맨체스터 시티)를 영입할 것 같다.",
-      "영국 매체 '데일리 메일'은 토트넘이 맨시티로부터 사비뉴 영입에 거의 임박했다고 18일 보도했다.",
-      "합의한 이적료는 6500만파운드로 전했다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "nf6aa4547",
+    "id": "n9611fbfe",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719001700527",
-    "title": "경북 의성·안동 동남부에 호우주의보",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719002700527",
+    "title": "경북 예천에 호우경보…구미 등 18곳 호우주의보 유지",
     "summary": [
-      "(대구=연합뉴스) 기상청은 19일 오전 2시를 기해 의성·안동 동남부에 호우주의보를 발효한다고 밝혔다."
+      "(대구=연합뉴스) 기상청은 19일 오전 3시를 기해 예천에 호우경보를 발효한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na235ee33",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719001900527",
-    "title": "광주동부·광주서부에 호우주의보",
-    "summary": [
-      "(광주=연합뉴스) 기상청은 19일 오전 2시를 기해 광주동부·광주서부에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n83403966",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719001800527",
-    "title": "전남 담양·나주서북부에 호우주의보",
-    "summary": [
-      "(광주=연합뉴스) 기상청은 19일 오전 2시를 기해 담양·나주서북부에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5e06667c",
+    "id": "n62fe6c96",
     "category": "사회",
     "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/19/GIYWKNLEGVRDEMZWHEZDSNJSHA/",
-    "title": "우크라, 러 물류시설·유류기지 대규모 드론 공습…9명 사망·60여명 부상",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/19/DLLUEIJBFFGD7CKWYH6YAGKJVI/",
+    "title": "“아내가 예뻐진다는데 뭐…\" 그러나 끝은 예상과 달랐다",
     "summary": [
-      "우크라이나가 러시아 수도 모스크바 인근과 중부 지역의 물류시설과 유류기지를 겨냥한 대규모 드론 공습을 감행했다.",
-      "러시아 당국은 이번 공격으로 최소 9명이 숨지고 60여명이 다쳤다고 밝혔다.",
-      "이에 대해 우크라이나는 러시아군의 군수 보급망을 겨냥한 작전이었다고 주장했다."
+      "“아내가 예뻐진다는데 뭐…\" 그러나 끝은 예상과 달랐다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nad9bf86d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/07/19/YOW4KPQ7EJE3FCIK7AJ3WCLJAY/",
+    "title": "냉장고가 드물던 시절…아이스케키와 얼음 파동을 겪었던 그 시절 여름",
+    "summary": [
+      "냉장고가 드물던 시절…아이스케키와 얼음 파동을 겪었던 그 시절 여름."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n49eb5ef4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/national/people/2026/07/19/4BVVQXHSQRHYBMOKKED7MCIEAM/",
+    "title": "도쿄 아카사카에서 30만엔어치 고등어를 맛보다...훔치고 싶다 이 기술",
+    "summary": [
+      "도쿄 아카사카에서 30만엔어치 고등어를 맛보다...훔치고 싶다 이 기술."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne0563dbb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/07/19/ASLKRNMOZBHS5EKM6LJ4LYU2FA/",
+    "title": "“우리는 어쩌다 이런 사람으로 살고 있을까”",
+    "summary": [
+      "“우리는 어쩌다 이런 사람으로 살고 있을까”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na658ee48",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003713834",
+    "title": "美중부사 \"이란 공격으로 요르단서 미군 2명 전사·1명 실종\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 이란의 걸프 역내 미군기지 대상 전방위 보복 공격으로 미군 2명이 전사했다고 미군이 밝혔다.",
+      "미국 중부사령부(CENTCOM)는 18일(현지 시간) 소셜미디어 엑스(X·구 트위터)에 \"17일 요르단에서 미군과 연합군이 이란의 탄도미사일·드론 공격을 방어하는 과정에서 미군 장병 2명이 전사했고, 1명이 현재 실종 상태\"라고 발표했다.",
+      "전사자 신원은 유족 통보 후 최소 24시간이 지날 때까지 공개되지 않는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2c497773",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719002400099",
+    "title": "이란 최고지도자 \"美대통령 서명 가치 없어…못잊을 교훈 줄 것\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 아야톨라 세예드 모즈타바 하메네이 이란 최고지도자가 미국이 종전 양해각서(MOU)를 반복적으로 위반했..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n55451d83",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719002300071",
+    "title": "美 \"요르단서 이란 공격 방어하던 미군 2명 전사·1명 실종\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 중동에서 미국과 이란의 무력 갈등 수위가 높아지는 가운데 이란의 미사일 및 드론 공격에 미군 병사 2명이 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6bb5a59c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719002200527",
+    "title": "전북 순창·임실에 호우주의보…남원 등 4곳 호우주의보 유지",
+    "summary": [
+      "(전주=연합뉴스) 기상청은 19일 오전 2시 20분을 기해 순창·임실에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n65faf640",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "54분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003713832",
+    "title": "이란 최고지도자 \"美, MOU 반복 위반…트럼프 서명 무가치\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 이란 정부가 종전 양해각서(MOU) 이행 전면 중단을 공식화한 가운데, 아야톨라 모즈타바 하메네이 최고지도자도 도널드 트럼프 미국 대통령을 직접 겨냥해 입장문을 냈다.",
+      "알자지라 등에 따르면 하메네이 최고지도자는 18일(현지 시간) 국영 IRIB에 공개된 성명에서 \"미국이 이란과의 합의를 반복적으로 위반한 것은 대통령 서명이 가치도 없고 효력도 없다는 사실을 보여줬다\"고 말했다.",
+      "하메네이 최고지도자는 이어 \"미국이."
+    ],
+    "chips": [
+      "#정치"
     ]
   },
   {
     "id": "ne497930a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260719_0003713833",
     "title": "[속보]모즈타바 \"美, MOU 반복적 위반…트럼프 서명 무가치\"",
     "summary": [],
@@ -424,7 +477,7 @@ window.NEWS_DB = [
     "id": "n3eb9f45c",
     "category": "사회",
     "source": "뉴시스",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260719_0003713829",
     "title": "베네수 임시대통령 \"IMF서 지진 긴급지원금 5100억 확보\"",
     "summary": [
@@ -437,24 +490,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3880f2d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719001200099",
-    "title": "우크라, 러 물류창고 대규모 공습…\"9명 사망·60여명 부상\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 우크라이나가 러시아 모스크바 외곽 물류창고 등을 드론으로 공격해 모두 9명이 숨지고 60여명이 다쳤다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nc606876e",
     "category": "경제",
     "source": "한국경제",
-    "time": "36분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026071920907",
     "title": "인천 쿠팡물류센터 불길 외벽 타고 7층까지 번져…밤샘 진화 예상",
     "summary": [
@@ -465,43 +504,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc99b9cd6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712581",
-    "title": "장마에 높아진 집안 습도…'이 질환' 조심하세요",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 장마철 평균 습도는 연중 최고치인 80~90%까지 올라간다.",
-      "햇빛을 많이 볼 수 없기 때문에 피부가 약해지기 쉽고, 비타민 D도 부족해지기 쉽다.",
-      "또 각종 곰팡이나 세균 등이 쉽게 증식할 수 있는 환경이 돼 주위를 청결히 하고 위생수칙을 철저히 지키는 것이 중요하다."
-    ],
-    "chips": [
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n7c2a4c82",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713823",
-    "title": "이란 \"美먼저 깬 MOU 이행중단\"…걸프 식수시설등 공격(종합)",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부가 7일 연속 호르무즈 해협 일대를 비롯한 이란 전방위 공습을 이어간 가운데, 이란 정부가 종전 양해각서(MOU) 이행 중단을 선언했다.",
-      "이란은 쿠웨이트 등 주변국의 미군기지뿐 아니라 민간 인프라까지 타격하고 있다.",
-      "이란 파르스통신에 따르면 카젬 가리바바디 외무부 차관은 18일(현지 시간) \"미국은 이슬라마바드 MOU의 틀 안에서 자국이 부담한 모든 의무를 위반하고 이행을 중단했다\"며 \"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n172f9138",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026071920837",
     "title": "\"종전 MOU 의무 이행 중단\"…이란, 쿠웨이트 발전·담수시설 공습",
     "summary": [
@@ -515,7 +521,7 @@ window.NEWS_DB = [
     "id": "n59d341c7",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026071573797",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 19일 띠별 추천 점심메뉴",
     "summary": [
@@ -529,7 +535,7 @@ window.NEWS_DB = [
     "id": "n25ac247e",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260718/134320366/1",
     "title": "잦아들었던 비 다시 거세져…대구·경북 호우특보 발효",
     "summary": [
@@ -545,7 +551,7 @@ window.NEWS_DB = [
     "id": "ne1aae91a",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260718/134320357/1",
     "title": "이란 외무차관 “美, MOU 완전히 저버려…우리도 의무이행 중단”",
     "summary": [
@@ -559,7 +565,7 @@ window.NEWS_DB = [
     "id": "n005c3417",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026071820417",
     "title": "\"비단뱀 잡아오면 피자 공짜\"…美 플로리다 이색 퇴치 작전",
     "summary": [
@@ -573,7 +579,7 @@ window.NEWS_DB = [
     "id": "ncdb4afc9",
     "category": "사회",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260718/134320342/1",
     "title": "1233회 로또 1등 2, 7, 20, 25, 37, 40…보너스 29",
     "summary": [
@@ -603,7 +609,7 @@ window.NEWS_DB = [
     "id": "n72cf4134",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260718202637",
     "title": "\"생성형 AI 보안 정교화\"…모니터랩, AI 보안 솔루션 고도화",
     "summary": [
@@ -614,20 +620,6 @@ window.NEWS_DB = [
       "#정책",
       "#환경"
     ]
-  },
-  {
-    "id": "n554e18dc",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "6시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260718201643",
-    "title": "KISIA, 국내 정보보호 기업 해외 진출 기회 확대 나서",
-    "summary": [
-      "[지디넷코리아]한국정보보호산업협회(KISIA)가 관계부처와 함께 국내 정보보호 기업의 해외 진출 기회 확대에 나선다.KISIA는 과학기술정보통신부(과기정통부)와 한국인터넷진흥원(KISA)과 함게 '2026 기업연계 초청연수'를 운영하고, KISA 글로벌 사이버보안 협력 네트워크(CAMP)와 비즈니스 상담회를 연계 운영해 국내 정보보호 기업의 참여 기회와 해외 수요기업 및 기관과 직접 교류할 수 있는 기회를 대폭 확대했다고 18일 밝혔다.특히 올."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -636,8 +628,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
