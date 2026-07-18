@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-18 16:16:53
+// 마지막 업데이트: 2026-07-18 17:19:34
 window.NEWS_DB = [
   {
-    "id": "n3f49e61e",
+    "id": "n44e1fd61",
     "category": "IT",
-    "source": "ebn.co.kr",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMzlaUkRHVGR6eUJ4aXFINk1MaEhNMzRkQ2pQMjJwekN1ZTRXbnVlSDZJdjVnclE4emF1S25fVjFOR1F2dUJVVkVSWHZtdlRhT3A4d1c1am0zSHNaYTdLM2dUVWp6RlFp?oc=5",
-    "title": "애플, 장중 시총 1위 탈환…AI 반도체 조정에 엔비디아 제쳤다",
+    "source": "문화일보",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80a293cHFOVkpYVjdhU3hCNzMzcEhfYmwxNnp6ZkdZWG14bl9pYnJHT1J3ejc3NE1kbUpXZmVLdTNyQld2MHFlSHJBTlhZaEx0?oc=5",
+    "title": "AI 반도체 약세에…애플, 엔비디아 제치고 장중 시총 1위 탈환",
     "summary": [
-      "애플, 장중 시총 1위 탈환…AI 반도체 조정에 엔비디아 제쳤다 ebn.co.kr."
+      "AI 반도체 약세에…애플, 엔비디아 제치고 장중 시총 1위 탈환 문화일보."
     ],
     "chips": [
       "#AI",
@@ -18,16 +18,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc281528f",
+    "id": "n3f49e61e",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
-    "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
+    "source": "ebn.co.kr",
+    "time": "17시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMzlaUkRHVGR6eUJ4aXFINk1MaEhNMzRkQ2pQMjJwekN1ZTRXbnVlSDZJdjVnclE4emF1S25fVjFOR1F2dUJVVkVSWHZtdlRhT3A4d1c1am0zSHNaYTdLM2dUVWp6RlFp?oc=5",
+    "title": "애플, 장중 시총 1위 탈환…AI 반도체 조정에 엔비디아 제쳤다",
     "summary": [
-      "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환 연합뉴스."
+      "애플, 장중 시총 1위 탈환…AI 반도체 조정에 엔비디아 제쳤다 ebn.co.kr."
     ],
     "chips": [
+      "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -154,7 +156,7 @@ window.NEWS_DB = [
     "id": "ndda47320",
     "category": "사회",
     "source": "이치저널",
-    "time": "17일 전",
+    "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
     "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
     "summary": [
@@ -317,69 +319,156 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2f770714",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718039551098",
-    "title": "노르웨이 남부 큰불로 주택 100여채 소실…\"역대 최악 화재\"(종합)",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 노르웨이 수도 오슬로 인근 도시에서 대형 화재가 발생해 주택 100여 채가 소실됐다고 로이터통신 등이 보도..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n14f6d6fb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719001300053",
-    "title": "경북 의성군, 단촌면 구계리에 대피명령…누적 강우량 122.5㎜",
-    "summary": [
-      "(안동·의성=연합뉴스) 김선형 기자 = 경북 북부에 많은 비가 내리면서 의성군이 단촌면 구계리 주민들에게 대피 명령을 내렸고, 안동에서도 취약 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2306f895",
+    "id": "n277652c2",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/19/MU3DSNBVGNQWIZJVMFSTQNBRG4/",
-    "title": "\"이정후에게 이치로가 보인다!\" 이런 극찬을 받다니…51번 우상이 뛰었던 그곳, 강렬한 첫인상 남겼다",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/19/GRQWEOJSMFQWKY3GMEZWCMTDGI/",
+    "title": "모두 경악하게 한 '슈퍼캐치'…김호령, \"잡으려고 뛰었고, '이제 잡을 수 있겠다'는 생각이 들었다\" [오!쎈 인천]",
     "summary": [
-      "[OSEN=이상학 객원기자] 이정후(27·샌프란시스코 자이언츠)가 어릴 적 우상 스즈키 이치로(51)가 뛰었던 시애틀 매리너스의 홈구장에서 강렬한 첫인상을 남겼다.",
-      "이정후는 지난 18일(이하 한국시간) 미국 워싱턴주 시애틀 T-모바일파크에서 치러진 2026 메이저리그 시애틀과의 원정경기에 6번 타자 우익수로 선발 출장, 4타수 3안타 2득점 1사구로 4출루."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0239dea9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/19/MQ3WIOJWGFSGIOBYGE2TOOJRGE/",
-    "title": "‘이럴 수가’ 솔로홈런-2루타-만루홈런-안타, 이걸 하루에 다했다니...홀로 7타점 먹방, 1차지명 기대주 제대로 터졌다",
-    "summary": [
-      "[OSEN=이후광 기자] 두산이 안재석의 미친 타격에 힘입어 값진 승리를 쟁취했다.프로야구 두산 베어스는 18일 창원NC파크에서 열린 2026 신한 SOL KBO리그 NC 다이노스와의 시즌 7차전에서 난타전 끝 12-9로 승리했다.",
-      "5위 두산은 2연승을 달리며 시즌 46승 2무 42패를 기록했다.",
-      "4연전 2승(1패) 고지를 선점, 루징시리즈를 피했다."
+      "[OSEN=인천, 홍지수 기자] 프로야구 KIA 타이거즈가 SSG 랜더스를 완파했다.",
+      "선발 제임스 네일도 잘 던졌고 타선은 고르게 활약했다.",
+      "이 가운데 돋보이는 선수가 있었다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
+    "id": "n14989f6d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/19/GMYGEMJTMIYDAMDDG44GEYRYMI/",
+    "title": "'정말 미쳤다, 오버페이 아닌가' 17위 잔류한 토트넘, 맨체스터 시티 '전력 외' 윙어 사비뉴 영입 임박..'이적료 6500만파운드 합의'",
+    "summary": [
+      "[스포츠조선 노주환 기자]EPL 토트넘이 브라질 출신 윙어 사비뉴(맨체스터 시티)를 영입할 것 같다.",
+      "영국 매체 '데일리 메일'은 토트넘이 맨시티로부터 사비뉴 영입에 거의 임박했다고 18일 보도했다.",
+      "합의한 이적료는 6500만파운드로 전했다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "nf6aa4547",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719001700527",
+    "title": "경북 의성·안동 동남부에 호우주의보",
+    "summary": [
+      "(대구=연합뉴스) 기상청은 19일 오전 2시를 기해 의성·안동 동남부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na235ee33",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719001900527",
+    "title": "광주동부·광주서부에 호우주의보",
+    "summary": [
+      "(광주=연합뉴스) 기상청은 19일 오전 2시를 기해 광주동부·광주서부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83403966",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719001800527",
+    "title": "전남 담양·나주서북부에 호우주의보",
+    "summary": [
+      "(광주=연합뉴스) 기상청은 19일 오전 2시를 기해 담양·나주서북부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5e06667c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/19/GIYWKNLEGVRDEMZWHEZDSNJSHA/",
+    "title": "우크라, 러 물류시설·유류기지 대규모 드론 공습…9명 사망·60여명 부상",
+    "summary": [
+      "우크라이나가 러시아 수도 모스크바 인근과 중부 지역의 물류시설과 유류기지를 겨냥한 대규모 드론 공습을 감행했다.",
+      "러시아 당국은 이번 공격으로 최소 9명이 숨지고 60여명이 다쳤다고 밝혔다.",
+      "이에 대해 우크라이나는 러시아군의 군수 보급망을 겨냥한 작전이었다고 주장했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne497930a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003713833",
+    "title": "[속보]모즈타바 \"美, MOU 반복적 위반…트럼프 서명 무가치\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3eb9f45c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003713829",
+    "title": "베네수 임시대통령 \"IMF서 지진 긴급지원금 5100억 확보\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 베네수엘라 연쇄 강진으로 인한 사망자가 5000명을 넘어선 가운데, 베네수엘라 정부는 국제통화기금(IMF)에서 3억4600만 달러(5155억여원)의 긴급 자금 지원을 받기로 했다고 밝혔다.",
+      "AP통신 등에 따르면 델시 로드리게스 임시대통령은 17일(현지 시간) \"베네수엘라가 IMF에서 3억4600만 달러를 확보했다\"고 발표했다.",
+      "크리스탈리나 게오르기에바 IMF 총재도 이날 \"해당 자금이 베네수엘라가 IMF에 보유한."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb3880f2d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719001200099",
+    "title": "우크라, 러 물류창고 대규모 공습…\"9명 사망·60여명 부상\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 우크라이나가 러시아 모스크바 외곽 물류창고 등을 드론으로 공격해 모두 9명이 숨지고 60여명이 다쳤다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc606876e",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "36분 전",
+    "url": "https://www.hankyung.com/article/2026071920907",
+    "title": "인천 쿠팡물류센터 불길 외벽 타고 7층까지 번져…밤샘 진화 예상",
+    "summary": [
+      "인천 쿠팡물류센터 불길 외벽 타고 7층까지 번져…밤샘 진화 예상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nc99b9cd6",
     "category": "사회",
     "source": "뉴시스",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260716_0003712581",
     "title": "장마에 높아진 집안 습도…'이 질환' 조심하세요",
     "summary": [
@@ -396,7 +485,7 @@ window.NEWS_DB = [
     "id": "n7c2a4c82",
     "category": "사회",
     "source": "뉴시스",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260718_0003713823",
     "title": "이란 \"美먼저 깬 MOU 이행중단\"…걸프 식수시설등 공격(종합)",
     "summary": [
@@ -409,72 +498,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1edb3133",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712892",
-    "title": "거장부터 신예까지…부산 금정클래식위크 8월28일 개막",
-    "summary": [
-      "[부산=뉴시스]원동화 기자 = 금정문화회관은 대표 음악축제인 '금정클래식위크'를 오는 8월28일부터 9월5일까지 금빛누리홀과 은빛샘홀에서 개최한다고 19일 밝혔다.",
-      "올해로 3회째를 맞는 금정클래식위크는 '울림'을 주제로 세계적인 클래식 연주자와 차세대 음악가들이 참여해 다양한 무대를 선보인다.",
-      "개막 공연은 8월28일 오후 7시30분 금빛누리홀에서 열리는 '오프닝 콘서트-울림의 서막'이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n33c4d35d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712146",
-    "title": "부산문화회관, 8월 챔버뮤직페스티벌 개최…클래식부터 국악까지",
-    "summary": [
-      "[부산=뉴시스]진민현 기자 = 부산문화회관은 오는 8월26~30일 챔버홀에서 '2026 부산문화회관 챔버뮤직페스티벌'을 개최한다고 19일 밝혔다.",
-      "올해 페스티벌은 '닷새의 밤, 항구에서 세계로 이어지는 실내악'을 주제로 열린다.",
-      "정통 클래식을 비롯해 국악, 재즈, 탱고, 크로스오버, 현대 타악 등 다양한 장르를 선보이며 공연과 교육, 국제 교류를 결합한 실내악 축제로 꾸며진다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ned0ea297",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/19/G42DINJQHE2WGNBUMQ4TEOBZMU/",
-    "title": "판정 불신에 AI 가짜 영상까지…‘음모론 월드컵’, VAR보다 무서운 조작물",
-    "summary": [
-      "[OSEN=이인환 기자] 판정 논란에 인공지능(AI)으로 만든 가짜 영상까지 섞였다.",
-      "2026 북중미 월드컵이 결승 한 경기만을 남겨둔 가운데, 그라운드 밖에서는 사실과 조작물을 구분하는 또 다른 싸움이 벌어지고 있다.논란이 폭발한 경기는 아르헨티나와 이집트의 16강전이었다.",
-      "이집트는 먼저 두 골을 넣고도 후반 13분 사이 세 골을 내주며 2-3으로 역전패."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "na8b5c2e6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719000900527",
-    "title": "화순 등 전남 3곳에 호우주의보",
-    "summary": [
-      "(광주=연합뉴스) 기상청은 19일 0시 50분을 기해 화순·곡성남부·곡성북부에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n172f9138",
     "category": "경제",
     "source": "한국경제",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026071920837",
     "title": "\"종전 MOU 의무 이행 중단\"…이란, 쿠웨이트 발전·담수시설 공습",
     "summary": [
@@ -485,24 +512,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nada57bcd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719000800527",
-    "title": "전북 순창·임실에 호우경보",
-    "summary": [
-      "(전주=연합뉴스) 기상청은 19일 0시 10분을 기해 순창·임실에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n59d341c7",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026071573797",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 19일 띠별 추천 점심메뉴",
     "summary": [
@@ -516,7 +529,7 @@ window.NEWS_DB = [
     "id": "n25ac247e",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260718/134320366/1",
     "title": "잦아들었던 비 다시 거세져…대구·경북 호우특보 발효",
     "summary": [
@@ -532,7 +545,7 @@ window.NEWS_DB = [
     "id": "ne1aae91a",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260718/134320357/1",
     "title": "이란 외무차관 “美, MOU 완전히 저버려…우리도 의무이행 중단”",
     "summary": [
@@ -546,7 +559,7 @@ window.NEWS_DB = [
     "id": "n005c3417",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026071820417",
     "title": "\"비단뱀 잡아오면 피자 공짜\"…美 플로리다 이색 퇴치 작전",
     "summary": [
@@ -557,24 +570,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf99c5476",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026071820297",
-    "title": "李 \"대형 물류시설 안전관리 전면 점검…종합대책 마련\"",
-    "summary": [
-      "李 \"대형 물류시설 안전관리 전면 점검…종합대책 마련\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ncdb4afc9",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260718/134320342/1",
     "title": "1233회 로또 1등 2, 7, 20, 25, 37, 40…보너스 29",
     "summary": [
@@ -590,7 +589,7 @@ window.NEWS_DB = [
     "id": "n640b0302",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260718/134320339/1",
     "title": "李대통령, 쿠팡 화재에 “대형 물류시설 안전 전반 점검…종합대책 마련”",
     "summary": [
@@ -601,32 +600,30 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf3a4a58b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "4시간 전",
-    "url": "https://view.asiae.co.kr/article/2026071821072210835",
-    "title": "李대통령, 인천 쿠팡 물류센터 화재에 \"긴장 끈 놓지 않고 대응…종합대책 마련\"",
+    "id": "n72cf4134",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "5시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260718202637",
+    "title": "\"생성형 AI 보안 정교화\"…모니터랩, AI 보안 솔루션 고도화",
     "summary": [
-      "이재명 대통령은 18일 인천 쿠팡 물류센터에서 발생한 대형 화재와 관련해 \"불길이 완전히 잡히고 상황이 안정될 때까지 긴장의 끈을 놓지 않고 대응하겠다\"고 밝혔다.",
-      "최근 경기도 물류창고 화재에 이어 대형 물류시설에서 화재가 잇따르자 시설 안전관리 체계 전반을 점검하고 재발 방지를 위한 종합대책도 마련하기로 했다.",
-      "이 대통령은 이날 엑스(X·옛 트위터)에 올린 글에서 \"정부는 국가소방동원령을 발령해 가용한 모든 자."
+      "[지디넷코리아]B2B 보안 서비스형 소프트웨어(SECaaS) 전문 기업 모니터랩(대표 이광후)가 생성형 AI 보안 솔루션 'GenAI 시큐리티' 제품 고도화에 나선다.모니터랩은 'GenAI 시큐리티' 기능 고도화를 통해 부서·업무 특성에 맞는 세분화된 보안 정책을 지원하고, 통제 범위를 개발자 환경까지 확대해 솔루션 활용도를 높였다고 18일 밝혔다.GenAI 시큐리티는 기업 내 생성형 AI 활용 과정에서 발생할 수 있는 프롬프트 인젝션, AI."
     ],
     "chips": [
-      "#정치"
+      "#AI",
+      "#정책",
+      "#환경"
     ]
   },
   {
-    "id": "nfa1b064d",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4시간 전",
-    "url": "https://view.asiae.co.kr/article/2026071820541899100",
-    "title": "1233회 로또 1등 31명…당첨금 각 8억4000만원",
+    "id": "n554e18dc",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "6시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260718201643",
+    "title": "KISIA, 국내 정보보호 기업 해외 진출 기회 확대 나서",
     "summary": [
-      "로또복권 운영사 동행복권은 18일 제1233회 로또복권 추첨에서 '2, 7, 20, 25, 37, 40'이 1등 당첨번호로 뽑혔다고 밝혔다.",
-      "2등 보너스 번호는 '29'이다.",
-      "당첨번호 6개를 모두 맞힌 1등 당첨자는 31명으로 8억3797만원씩 받게 된다."
+      "[지디넷코리아]한국정보보호산업협회(KISIA)가 관계부처와 함께 국내 정보보호 기업의 해외 진출 기회 확대에 나선다.KISIA는 과학기술정보통신부(과기정통부)와 한국인터넷진흥원(KISA)과 함게 '2026 기업연계 초청연수'를 운영하고, KISA 글로벌 사이버보안 협력 네트워크(CAMP)와 비즈니스 상담회를 연계 운영해 국내 정보보호 기업의 참여 기회와 해외 수요기업 및 기관과 직접 교류할 수 있는 기회를 대폭 확대했다고 18일 밝혔다.특히 올."
     ],
     "chips": [
       "#뉴스"
@@ -645,14 +642,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
