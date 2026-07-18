@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-18 02:59:34
+// 마지막 업데이트: 2026-07-18 04:04:51
 window.NEWS_DB = [
   {
-    "id": "nb63c7bda",
+    "id": "n3f49e61e",
     "category": "IT",
-    "source": "edaily.co.kr",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR1UzVFhhMmU1Y040RVJKbFpNY2szaTF5a3NidG9MdHlfaFlfc3lsYVZhd3BSWUQwZGtlMW1aUFVKQk1mcjBWYXR5bjVtYmw3Nmk1Uk9md0k0TnJiT1l4UlowNlhjRDJDMDZlcWFqWVYyd3NtempsYmpvTTZnVmtJUA?oc=5",
-    "title": "애플, 엔비디아 제치고 한때 시총 1위 탈환…AI 투자 '반도체→플랫폼' 재편",
+    "source": "ebn.co.kr",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMzlaUkRHVGR6eUJ4aXFINk1MaEhNMzRkQ2pQMjJwekN1ZTRXbnVlSDZJdjVnclE4emF1S25fVjFOR1F2dUJVVkVSWHZtdlRhT3A4d1c1am0zSHNaYTdLM2dUVWp6RlFp?oc=5",
+    "title": "애플, 장중 시총 1위 탈환…AI 반도체 조정에 엔비디아 제쳤다",
     "summary": [
-      "애플, 엔비디아 제치고 한때 시총 1위 탈환…AI 투자 '반도체→플랫폼' 재편 edaily.co.kr."
+      "애플, 장중 시총 1위 탈환…AI 반도체 조정에 엔비디아 제쳤다 ebn.co.kr."
     ],
     "chips": [
       "#AI",
@@ -18,11 +18,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne15d9909",
+    "id": "n731018b8",
     "category": "IT",
     "source": "머니투데이",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcVlGTXhOTWJxNkNtdFRWZEdCTm9TVm1lcXRFUWJrN3M2enZnWmoyd2NmNTJVODlIMUlvX25uSGNCOHZ4eVkxZlRXYjRRNi15QUx2Rkh5aEpQZHBJYUVQMUtTQ2VQMjRH0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xZnJjcnhJLXp1UVpqcHYyTFVBRU85UHljRTZIRTc0TjduU2J6WGlaQ0lQLWxYMm5Ib0NBNUZaTlY4czZxVWdaYm81d3Z3bVF3QVljQmEwYm9mU1JBc0t3RlItdjZ6cDZ4UGdRSU9B0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
     "title": "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이",
     "summary": [
       "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이 머니투데이."
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nc281528f",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
     "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
     "summary": [
@@ -95,7 +95,7 @@ window.NEWS_DB = [
     "id": "n4544ccfc",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NcFRKZElNclJDR05CSEJMbUROcy1yZUVSejFNZlNOZGw4dTNtbXE0SUJUdUdUQlpjZUc5cmtIQmJWVlhzY1FHRDR0bHlGWUF0Z3NOeEpDUFJjcjREUG5FZEpNdVM0azMtSGFFYQ?oc=5",
     "title": "K방산 이끌 국가대표 스타트업 50곳 뽑는다",
     "summary": [
@@ -166,22 +166,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n04ff92de",
-    "category": "사회",
-    "source": "v.daum.net",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rMVM4WE5iYkc3YUMwYk9QZnU4S2xRMVJISjRpQ1Nub0V0VHo4NWhfQjNfRXN5V3kyMDdGR3o3UUN5M3pOYzlLVDhBbHBzdVRWWDBGXw?oc=5",
-    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
-    "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
@@ -195,6 +179,21 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
+    ]
+  },
+  {
+    "id": "n2aad78a4",
+    "category": "사회",
+    "source": "스포츠동아",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
+    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
+    "summary": [
+      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 스포츠동아."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -381,252 +380,253 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n01e1827a",
+    "id": "nfcb9e6f5",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713616",
-    "title": "토요일까지 장맛비 이어져…35도 안팎 무더위 계속[다음주 날씨]",
-    "summary": [
-      "[서울=뉴시스]신유림 기자 = 다음 주(20~26일)는 정체전선의 영향으로 전국 곳곳에 비가 내리겠다.",
-      "비는 토요일(25일)까지 이어지겠으며, 낮 최고 기온이 36도까지 오르는 등 무더위도 계속되겠다.",
-      "18일 기상청에 따르면 월요일(20일)은 전국에 비가 내리겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n20b690f4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713586",
-    "title": "트럼프 게시물 '먼저 보기' 유료 판매…이해충돌 논란 재점화",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 도널드 트럼프 미국 대통령의 소셜미디어 플랫폼 '트루스소셜(Truth Social)' 운영사가 월가의 기관투자자와 거래업체를 대상으로 대통령을 비롯한 주요 계정의 게시물을 일반 이용자보다 먼저 볼 수 있는 유료 서비스를 다음 달 출시한다.",
-      "트럼프 대통령의 게시물이 금융시장에 큰 영향을 미치는 만큼 대통령 발언에 대한 우선 접근권을 판매하는 것 아니냐는 비판과 함께 이해충돌 논란이 다시 불거지고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n170a1426",
-    "category": "스포츠",
-    "source": "머니투데이",
     "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/18/2026071811502794074",
-    "title": "\"외모 집착, 반칙 일삼는 이화여자 축구팀\"…주성치, 한국 비하 논란",
-    "summary": [
-      "중국 배우 겸 감독 주성치(저우싱츠)가 연출한 영화 '쿵푸사커'(쿵푸여족)에 한국 여자축구팀을 비하하는 장면이 담겨 논란이 되고 있다.",
-      "서경덕 성신여대 교수는 지난 17일 SNS(소셜미디어)에 \"이 영화는 예고편뿐 아니라 영화 내에서도 한국 여자축구팀을 비하하는 장면이 담겨 있다.",
-      "아무리 B급 감성이라지만 어눌한 한국말로 실소를 자아내기도 한다\"고 적었다."
-    ],
+    "url": "https://www.newsis.com/view/NISX20260718_0003713632",
+    "title": "[속보]손흥민, 시즌 리그 마수걸이 득점…LA 갤럭시 상대 골 맛",
+    "summary": [],
     "chips": [
-      "#뉴스"
+      "#손흥민"
     ]
   },
   {
-    "id": "n215d8e26",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718028100062",
-    "title": "동해해경청, 강원 동해안 호우특보에 비상대응태세 강화",
-    "summary": [
-      "(동해=연합뉴스) 유형재 기자 = 동해지방해양경찰청은 오는 19일까지 강원 동해안에 호우특보가 발효됨에 따라 해양사고 예방을 위한 안전관리와 비..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n10bf83aa",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713588",
-    "title": "디오픈 출전한 디섐보, 라이 개선으로 2벌타…\"판정에 실망\"",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = LIV 골프에서 뛰는 브라이슨 디섐보(미국)가 시즌 남자 골프 마지막 메이저 대회인 제154회 브리티시 오픈(디오픈·총상금 1775만 달러) 둘째 날 벌타를 받았다.",
-      "디섐보는 18일(한국 시간) 영국 잉글랜드 머지사이드주 사우스포트의 로열 버크데일 골프클럽(파70)에서 열린 대회 2라운드 중 5번 홀(파4)에서 2벌타를 받아 트리플보기를 적었다.",
-      "5번 홀에서 257야드(약 235m) 티샷이 풀숲에 떨어진 뒤 디섐."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf61a286f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/national/2026/07/18/XIGBV6E2TRBUHCE4LLYNHM66JA/",
-    "title": "인천 쿠팡 물류센터 화재로 121명 대피… 소방 ‘대응 1단계’ 발령",
-    "summary": [
-      "인천 쿠팡 물류센터 화재로 121명 대피… 소방 ‘대응 1단계’ 발령."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nda0c7175",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713614",
-    "title": "논산시, 집중호우 대비 비상근무…24시간 상황관리 돌입",
-    "summary": [
-      "[논산=뉴시스]곽상훈 기자 = 충남 논산시가 집중호우에 대비해 비상근무 체제에 돌입했다고 18일 밝혔다.",
-      "기상청에 따르면 남부지방 정체전선이 활성화되면서 18일부터 19일까지 충남 지역에 많은 비가 내릴 것으로 예보됐다.",
-      "이에 따라 시는 호우에 따른 피해를 최소화하기 위해 재난안전대책본부를 중심으로 24시간 상황관리 체계를 가동했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne851bb63",
+    "id": "n898fd02b",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718027800104",
-    "title": "인니, AI 규제 담은 저작권법 개정 추진…구글 \"혁신 저해\"",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713595",
+    "title": "\"AI시대, 지금 즉시 혁신하자\"…39회 한경협 제주포럼 폐막",
     "summary": [
-      "(자카르타=연합뉴스) 손현규 특파원 = 인도네시아가 저작권법을 개정해 인공지능(AI)을 활용한 콘텐츠를 일부 규제하는 방안을 추진하고 나섰다."
+      "[서귀포=뉴시스]이지용 기자 = 올해 39회를 맞은 경제계 최고 지식 교류의 장인 '한국경제인협회(한경협) 경영자 제주하계포럼'이 18일 폐막했다.",
+      "이번 포럼은 '대한민국, AI 강국으로의 대도약(THE AI-DRIVEN KOREA)'을 주제로 15~18일 간 3박4일 일정으로 제주 서귀포시 롯데호텔에서 열렸으며 400여명의 기업인이 참가했다.",
+      "김창범 한경협 상근부회장은 이날 폐회사를 통해 \"3박4일 내내 함께 해주신 모든 분, 후원해주신 분들."
     ],
     "chips": [
-      "#AI",
-      "#정책"
+      "#AI"
     ]
   },
   {
-    "id": "n3769fe4f",
+    "id": "n2597fae3",
     "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/07/18/LSGGZY4NIFAKRIQJVCESO2VH6Y/",
-    "title": "주름 수 347개→54개 임상, 서울대 보톡스 세럼을 기자가 직접 바른 후 느낀 변화",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713622",
+    "title": "'하시4' 이주미, 성형 고백",
     "summary": [
-      "주름 수 347개→54개 임상, 서울대 보톡스 세럼을 기자가 직접 바른 후 느낀 변화."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndb776666",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/07/18/UO4MX76RT5APXBNHQHJBFPXUEI/",
-    "title": "여름 생선의 제왕, 잡자 마자 반건조한 ‘여수 민어’ 한 마리 6200원 초특가",
-    "summary": [
-      "여름 생선의 제왕, 잡자 마자 반건조한 ‘여수 민어’ 한 마리 6200원 초특가."
+      "[서울=뉴시스] 남정현 기자 = '하트시그널4' 출연자 이주미가 성형 수술을 고백했다.",
+      "18일 연예계에 따르면 최근 이주미는 자신의 유튜브 채널에 '분명히 뭔가 달라졌다.",
+      "처음 꺼내는 나의 외모 탐구 이야기'라는 제목의 영상을 게재했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n25c0816c",
+    "id": "n1db1892d",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718027200056",
-    "title": "제주 4·3 행방불명 희생자 진혼제 열려",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260716_0003711580",
+    "title": "\"한약, 허리디스크에 효과 있을까\"…분석해보니",
     "summary": [
-      "(제주=연합뉴스) 박지호 기자 = 제25회 제주4·3 행방불명희생자 진혼제가 18일 제주4·3평화공원 행방불명인 표석 위령제단에서 봉행됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfbe16bb0",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260718/134320032/1",
-    "title": "서울 동부간선도로, 5시간 만에 전구간 통행 재개",
-    "summary": [
-      "집중 호우로 통제됐던 서울 동부간선도로의 통행이 재개됐다.서울시는 18일 오전 11시16분 재난 문자를 통해 “현재 동부간선도로 전 구간(수락지하차도~성수 분기점) 전면 통제가 해제됐다”고 밝혔다.이로써 동부간선도로 전 구간 통제는 5시간여 만에 풀렸다.",
-      "앞서 시는 오전 5시37분 “현재 호우로 인한 중랑천 수위 상승으로 동부간선도로 전 구간 전면 교통 통제 중”이라고 밝힌 바 있다.이날 오전 11시 기상청에 따르면 오는 19일까지 서울시 예상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9cc161ba",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/18/56RPRSCXKFF5TNST6FYIBR7RME/",
-    "title": "한국어로 ’하나 둘 셋!‘ 8000명 베트남 청년들 홀린 K팝 현장",
-    "summary": [
-      "한국어로 ’하나 둘 셋!‘ 8000명 베트남 청년들 홀린 K팝 현장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfb84709e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260718/134320029/1",
-    "title": "어린이집서 낮잠 자던 1살 영아 숨져…경찰 조사",
-    "summary": [
-      "전남광주 한 어린이집에서 낮잠을 자던 영아가 숨져 경찰이 수사에 나섰다.18일 광주경찰청에 따르면 지난 13일 오후 3시10분께 광산구의 한 어린이집에서 A(1)군이 심정지 상태로 발견됐다.A군은 119구급대에 의해 병원으로 옮겨졌으나 결국 숨졌다.",
-      "당시 A군은 어린이집에서 낮잠을 자던 중이었던 것으로 전해졌다.경찰은 어린이집 관계자 등을 상대로 정확한 사고 경위를 조사 중이다.[전남광주=뉴시스]."
+      "[서울=뉴시스] 류난영 기자 = 한약이 허리디스크(요추추간판탈출증) 환자의 척추 수술 위험을 약 29%까지 낮출 수 있다는 연구 결과가 나왔다.",
+      "한약을 꾸준히 복용한 환자의 경우엔 그렇지 않은 경우와 비교해 요추 수술 위험이 낮은 것으로 나타났다.",
+      "자생한방병원 척추관절연구소는 허리디스크 환자를 대상으로 한약 치료와 장기적인 요추 수술 위험의 연관성을 분석한 연구 결과를 SCI(E)급 국제학술지 '최신 약리학 연구'(Frontiers in Pha."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n0b6be45f",
+    "id": "ne4c43e9b",
     "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260718/134320026/1",
-    "title": "지석진, 지예은과 음반 냈다…19일 ‘인기가요’ 출격",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718028000005",
+    "title": "부산, 세계유산 논의 중심 무대로…'한국의 갯벌' 더 넓어진다",
     "summary": [
-      "지석진과 지예은이 17일 오후 6시 각종 음원 플랫폼을 통해 ‘충주지씨’의 두 번째 싱글 ‘아쿠아(AQUA)’를 발매한다.18일 연예계에 따르면 지석진은 최근 소셜미디어를 통해 “충주지씨 17일 발매 됩니다! #AQUA #많관부”라고 했다.‘충주지씨’는 지석진과 지예은이 만든 혼성 그룹이다.이번 ‘아쿠아(AQUA)’는 맑고 투명한 물의 이미지를 청량한 팝 사운드로 풀어낸 곡이다.지난해 공개한 첫 싱글 ‘밀크쉐이크’ 이후 약 1년 만에 선보이는."
+      "(서울=연합뉴스) 김예나 기자 = 인류의 소중한 유산을 보호하고 관리하기 위한 논의의 장이 이달 19일부터 부산에서 펼쳐진다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n261f3932",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/18/2026071811204183976",
-    "title": "\"아기 배변훈련에 최대 670만원\" 미국 부자들의 '그사세 육아'",
+    "id": "n3e069ca0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260718/134319571/1",
+    "title": "정류장 이름이 ‘빨래터’인 이유…서울 한 복판에 있던 생활의 현장[청계천 옆 사진관]",
     "summary": [
-      "미국 부유층, 가사도우미 팀 단위 고용…\"중요한 순간 집중하고 싶다\" 기꺼이 연 억대 비용 지출 미국 부유층 부모들이 육아를 대신 맡아줄 '가사도우미 팀'을 고용하는데 연 수억원 지출을 마다하지 않는다고 월스트리트저널(WSJ)이 17일(현지시간) 보도했다.",
-      "WSJ 보도에 따르면 미국 샌디에이고에 사는 두 아이 엄마 크리스틴 랜디스는 가사도우미 팀 운영에 연 25만달러(3억7000만원)를 쓴다.",
-      "집에서 생활을 함께하는 입주 도우미와 주말 유모,."
+      "지루한 장마에 다들 어떻게 지내고 계시나요.지금도 이리 눅눅하고 힘든데, 옛날에는 더했을 겁니다.",
+      "특히 빨래는 주부들에게 큰 숙제였을 테지요.",
+      "어디서 빨래를 했을까요? 이번 주 백년사진에서는 1926년 7월 13일자 신문에 실린 사진을 골라봤습니다."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n38d9c7b7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260716/134310144/2",
+    "title": "이혼·사별 후 새로운 인연 찾는다…로테이션 소개팅 몰린 5060",
+    "summary": [
+      "“이혼 후 집과 직장만 오가니 새로운 인연을 만날 기회가 없었어요.",
+      "사람들과 어울릴 때는 가족 구성원이나 회사 내 직함이 아닌 ‘나’로 지낼 수 있어요.” (50대 김모 씨)“돌싱(돌아온 싱글)인데 소개는 부담되고 가볍게 인연을 만나보고 싶어요.” (60대 최모 씨)최근 중장년층 사이 ‘모임’과 ‘연애’ 시장이 활성화되고 있다.",
+      "다양한 활동을 하며 여가를 즐기는 ‘액티브 시니어’가 부상하면서 2030세대가 주축을 이뤘던 로테이션 소개팅도 506."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04c96f86",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260718/134320105/1",
+    "title": "이란, 요르단 미군기지 잇단 공격…미군 여러 명 부상",
+    "summary": [
+      "이란이 이번 주 요르단 내 최소 두 곳의 군사기지를 공격해 미군 여러 명이 부상한 것으로 전해졌다.",
+      "다만 현재까지 미국인과 요르단인 사망자는 발생하지 않은 것으로 파악됐다.17일(현지 시간) CBS뉴스에 따르면 익명의 미국 관리들은 이란이 이번 주 최소 두 곳의 요르단 기지를 공격해 미군 여러 명이 다쳤다고 밝혔다.부상자들의 정확한 규모와 부상 정도는 아직 공개되지 않았으며, 현재까지 미국인과 요르단인 사망자는 보고되지 않았다.요르단은 중동 지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f6aa43f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/18/HBSTIMZQMM3GEZRWGQYWEMLGHE/",
+    "title": "'이게 축구야!' 분노 폭발 英 레전드…\"당장 나가\" 토마스 투헬 감독 경질 요구→'멕시코전 환희에 찬 승리는 최악의 결과' 비판",
+    "summary": [
+      "[스포츠조선 김가을 기자]'잉글랜드 레전드' 마이클 오언이 작심 발언했다.",
+      "영국 언론 '데일리메일'은 18일(이하 한국시각) '오언은 멕시코에서 거둔 잉글랜드의 환희에 찬 승리는 최악의 결과였다고 봤다.",
+      "토마스 투헬 잉글랜드 월드컵대표팀 감독은 경질되야 한다고 주장했다'고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6631b6b9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260718/134320100/1",
+    "title": "73세까지 일 원하지만 52.9세 퇴직…‘소득 절벽’ 10여년",
+    "summary": [
+      "중·고령층은 평균 52.9세에 주된 일자리에서 퇴직해 국민연금 등 공적이적 소득을 받기까지 10년 이상 공백이 발생하는 것으로 나타났다.",
+      "이들은 생활비 등을 위해 73세까지 일하기를 원했다.18일 국민연금연구원 ‘퇴직 후 중·고령층의 재취업과 일자리 특성 분석’ 연구에 따르면 2025년 기준 취업을 경험한 중·고령층의 생애 주된 일자리 퇴직 당시 평균 연령은 52.9세였다.",
+      "대표적인 노후소득 보장 제도인 국민연금은 출생연도에 따라 만 61~65."
+    ],
+    "chips": [
+      "#취업",
       "#고용"
     ]
   },
   {
-    "id": "ndc902031",
+    "id": "nf01fb5a0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/18/GVTDAMZZMJSDKMJYHE2TMNTEGA/",
+    "title": "\"쫄보 전술이 망쳤어, 꼬마 천재 메시에게 그토록 오래 자유를 주다니\" 결승행 좌절에 英 전설의 일침.. \"그래도 경질은 아냐\"",
+    "summary": [
+      "[OSEN=강필주 기자] 잉글랜드 전설 앨런 시어러(56)가 아르헨티나와의 준결승 무대에서 치명적인 오판으로 무너진 토마스 투헬(53) 감독을 향해 매서운 질타를 가했다.시어러는 18일(한국시간) 영국 'BBC'에 기고한 칼럼을 통해 투헬 감독의 '새가슴 전술'이 잉글랜드가 60년 만에 결승 무대를 밟을 수 있는 기회를 날려버렸다고 비판했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4fa9c017",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/national/2026/07/18/Q4GB2ELXFNGOHGKJ5LJPO5ATZQ/",
+    "title": "“형사님이 말한 사람 나타났어요”… 눈썰미 좋은 시민 제보에 전선 도둑 ‘덜미’",
+    "summary": [
+      "“형사님이 말한 사람 나타났어요”… 눈썰미 좋은 시민 제보에 전선 도둑 ‘덜미’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n858d9e2e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718021800075",
-    "title": "[인터뷰] 김재겸 롯데홈쇼핑 대표 \"美 이어 佛 팝업…상설 매장도 검토\"",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718027151004",
+    "title": "법원 \"백남준 '나의 파우스트', 故김우중 회장 배우자 소유\"(종합)",
     "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = \"이번에는 로스앤젤레스(LA), 10월에는 프랑스 파리 마레 지구에 팝업스토어를 엽니다."
+      "(서울=연합뉴스) 이영섭 박의래 기자 = 백남준의 작품 '나의 파우스트-경제학'과 '나의 파우스트-영혼성'의 소유권이 고(故) 김우중 대우그룹 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbb15abfc",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718029400007",
+    "title": "MLB 샌디에이고 송성문, 연장서 대타로 나와 실책으로 출루",
+    "summary": [
+      "(서울=연합뉴스) 장현구 기자 = 미국프로야구 메이저리그(MLB) 샌디에이고 파드리스의 한국인 타자 송성문이 후반기 첫 경기에서 연장 10회 대..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n01e54a5d",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718029500530",
+    "title": "파주·동두천 200㎜ 호우…도로 침수·수목 전도 등 540건 피해",
+    "summary": [
+      "(서울=연합뉴스) 양정우 기자 = 17∼18일 이틀간 수도권과 강원도를 중심으로 많은 비가 내리면서 곳곳에서 주택·도로가 침수되거나 나무가 쓰러..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n399ac7f6",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718028800003",
+    "title": "하정우 \"AI로 고용 감소…초과 세수 청년성장에 투자해야\"",
+    "summary": [
+      "(서귀포=연합뉴스) 김윤구 기자 = 하정우 전 청와대 AI미래기획수석이 18일 인공지능(AI) 시대 고용 감소와 양극화에 대비해야 한다고 제언했..."
+    ],
+    "chips": [
+      "#AI",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n30d79d2b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202607169392H",
+    "title": "아이돌 한 팀 데뷔에 100억…\"돈 끌어모아 베팅한다\" [K컬처 인사이드]",
+    "summary": [
+      "아이돌 한 팀 데뷔에 100억…\"돈 끌어모아 베팅한다\" [K컬처 인사이드]."
     ],
     "chips": [
       "#뉴스"
@@ -639,20 +639,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "고용",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
