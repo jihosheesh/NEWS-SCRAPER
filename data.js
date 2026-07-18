@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-18 06:36:23
+// 마지막 업데이트: 2026-07-18 07:31:07
 window.NEWS_DB = [
   {
     "id": "n3f49e61e",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMzlaUkRHVGR6eUJ4aXFINk1MaEhNMzRkQ2pQMjJwekN1ZTRXbnVlSDZJdjVnclE4emF1S25fVjFOR1F2dUJVVkVSWHZtdlRhT3A4d1c1am0zSHNaYTdLM2dUVWp6RlFp?oc=5",
     "title": "애플, 장중 시총 1위 탈환…AI 반도체 조정에 엔비디아 제쳤다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "ne15d9909",
     "category": "IT",
     "source": "머니투데이",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcVlGTXhOTWJxNkNtdFRWZEdCTm9TVm1lcXRFUWJrN3M2enZnWmoyd2NmNTJVODlIMUlvX25uSGNCOHZ4eVkxZlRXYjRRNi15QUx2Rkh5aEpQZHBJYUVQMUtTQ2VQMjRH0gFuQVVfeXFMTzFmcmNyeEktenVRWmpwdjJMVUFFTzlQeWNFNkhFNzRON25TYnpYaVpDSVAtbFgybkhvQ0E1RlpOVjhzNnFVZ1pibzV3dndtUXdBWWNCYTBib2ZTUkFzS3dGUi12NnpwNnhQZ1FJT0E?oc=5",
     "title": "애플, 장중 한때 엔비디아 제치고 시총 1위 탈환…AI 반도체 약세 - 머니투데이",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nc281528f",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
     "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
     "summary": [
@@ -138,7 +138,7 @@ window.NEWS_DB = [
     "id": "ne098ec77",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "16일 전",
+    "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWEI2T2RRNGVBTktrLW1KbThpRHpMRXd5TUhKdGNmeEhUcDAtTTY2M1pQSFUzdWFXdGxPbDFieXJxSC1IMi1qMzQwUFhQY0k?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
@@ -169,7 +169,7 @@ window.NEWS_DB = [
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
-    "time": "21일 전",
+    "time": "22일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
@@ -185,7 +185,7 @@ window.NEWS_DB = [
     "id": "n2aad78a4",
     "category": "사회",
     "source": "스포츠동아",
-    "time": "21일 전",
+    "time": "22일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
@@ -200,7 +200,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "22일 전",
+    "time": "23일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -217,7 +217,7 @@ window.NEWS_DB = [
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "22일 전",
+    "time": "23일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -231,7 +231,7 @@ window.NEWS_DB = [
     "id": "n207a7abe",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "24일 전",
+    "time": "25일 전",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
     "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
     "summary": [
@@ -245,7 +245,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "31일 전",
+    "time": "32일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -259,7 +259,7 @@ window.NEWS_DB = [
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
-    "time": "37일 전",
+    "time": "38일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
@@ -274,7 +274,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "49일 전",
+    "time": "50일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -289,7 +289,7 @@ window.NEWS_DB = [
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "66일 전",
+    "time": "67일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
@@ -379,258 +379,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd0048e69",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026071815322341465",
-    "title": "41도 폭염인데…\"피크타임 에어컨 꺼달라\" 美 공습에 전력 공급 출렁이는 이란",
-    "summary": [
-      "이란에서 폭염이 지속되는 가운데 이란 정부가 국민에게 에어컨 사용을 줄일 것을 요청했다.",
-      "17일(현지시간) 이란 에너지부는 반관영 타스님 통신을 통해 남부 지역의 안정적 전력 공급을 위해 다른 지역 주민들에게 전력 사용을 줄여달라고 전했다.",
-      "에너지부 관계자는 \"남부에서 공습으로 송전선이 손상돼 도시와 인근 지역에 공급 차질이 빚어졌다\"면서 \"가능하면 모든 이란인이 피크시간대에 단 1시간만 에어컨을 꺼주면 좋겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n61d2397c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718031400005",
-    "title": "故서명숙 제주올레 이사장에 모란장 추서…\"관광 발전에 기여\"",
-    "summary": [
-      "(서울=연합뉴스) 임순현 기자 = 지난 4월 향년 68세로 별세한 서명숙 사단법인 제주올레 이사장에게 정부가 국민훈장 모란장을 추서했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n38fa45c8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/18/72IQ4CBJINHKNFOPAA5KKLGYUM/",
-    "title": "‘양평고속道 의혹’ 원희룡 전 장관, 23일 2차 특검 첫 소환 조사",
-    "summary": [
-      "‘양평고속道 의혹’ 원희룡 전 장관, 23일 2차 특검 첫 소환 조사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncee9f1f5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713701",
-    "title": "직장서 알게 된 13살 연상녀 스토킹한 40대, 실형",
-    "summary": [
-      "[남양주=뉴시스]이호진 기자 = 직장에서 만난 연상의 여성을 스토킹하고 주거지에 무단침입한 40대 남성에게 실형이 선고됐다.",
-      "의정부지법 남양주지원 형사4단독 권순범 판사는 스토킹범죄의 처벌 등에 관한 법률 위반과 야간주거침입절도, 협박 등의 혐의로 기소된 A(46)씨에게 징역 10개월을 선고했다고 18일 밝혔다.",
-      "A씨는 지난 4월 12일 오후 7시께 경기 구리시 소재 피해자 B(59·여)씨의 주거지 마당에 들어가 현관문을 두드리다가 반응이 없자."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfcd6785b",
+    "id": "n283da8f7",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/18/GFSGKYTDGQ2TEZJQHE3DONDBGM/",
-    "title": "\"FIFA가 또 아르헨 편애했다\" 또 밀어주기 의혹...\"메시한테 반칙하면 경고, 아르헨은 봐준다\" 英 매체 불만 폭발",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/18/2026071815102464714",
+    "title": "'손호영 OUT→조민영 우익수 전격 선발' 롯데, 페덱 상대 라인업 공개! 노진혁 3B·고승민 1B",
     "summary": [
-      "[OSEN=고성환 기자] \"이번 대회에서 FIFA가 아르헨티나에 보여준 편애와도 맞아떨어지는 장면.\"이집트와 스위스에 이어 잉글랜드 축구 역시 아르헨티나에 패한 뒤 불만을 감추지 못했다.잉글랜드는 지난 16일(이하 한국시간) 미국 조지아주 애틀랜타 스타디움에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 4강전에서 아르헨티나에 1-2로 역전패했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3bc6e724",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718034400007",
-    "title": "'MLS 시즌 첫 골' 손흥민 \"월드컵 이후 한국서 정신적 회복했다\"",
-    "summary": [
-      "(서울=연합뉴스) 최송아 기자 = 2026 북중미 월드컵을 아쉬움 속에 마치고 소속팀으로 돌아가 치른 첫 경기에서 미국프로축구 메이저리그사커(M..."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n985acc07",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260718/134320185/1",
-    "title": "감사원, 해외유학 간 ‘서해 사건’ 감사관 육아휴직 불허…“수사 회피 목적”",
-    "summary": [
-      "감사원이 문재인 정부의 ‘서해 공무원 피살 사건 왜곡 의혹’ 감사에 참여했던 실무 감사관의 육아휴직 신청을 불허한 것으로 확인됐다.",
-      "18일 정치권 등에 따르면 서해 사건 감사에 참여했던 감사관 A씨는 2024년 8월 공무원 국외 장기훈련 제도를 통해 1년 10개월간 영국으로 유학을 떠났고 지난 6월 귀국할 예정이었다.A씨는 영국에 머물고 있는 자녀를 돌보기 위해 올해 말까지 6개월간 육아휴직을 신청했다.",
-      "하지만 감사원은 ‘수사 회피 목적’으로."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6a7e38c9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/18/G42GGMJVMUYGCMTCMJSDQMJRME/",
-    "title": "[속보] 외국인 교체 승부수...KT 보쉴리 방출, 대체 선수 로건과 42만5000달러 계약",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 KT 위즈가 외국인 투수 교체를 단행했다.",
-      "KT는 18일 외국인 투수 로건 앨런(29)과 정식 계약을 맺었다.",
-      "계약 규모는 연봉 42만 5천 달러이다.로건은 지난달 17일 부상을 당한 케일럽 보쉴리(33)의 대체 선수로 KT에 합류했다."
+      "롯데 자이언츠가 직전 경기(16일) 패배의 설욕과 침체된 분위기 반전을 위해 선발 라인업에 대대적인 변화를 단행했다.",
+      "이와 함께 퓨처스리그를 폭격하며 강렬한 눈도장을 찍어 전날(17일) 육성선수에서 정식 등록된 조민영(21)을 곧바로 선발 라인업에 포함하는 파격적인 승부수를 띄웠다.",
+      "롯데는 18일 대구삼성라이온즈파크에서 열리는 '2026 신한 SOL KBO리그' 삼성 라이온즈와의 원정 경기를 앞두고 선발 라인업을 공개했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n8d5e8967",
+    "id": "n4e14b059",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718034100007",
-    "title": "무득점 족쇄 풀었다…홀가분해진 손흥민, 거침없는 비상 예고",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/18/2026071815561514684",
+    "title": "최정-에레디아 다 사라졌다, '외야 서바이벌'이 열린다... \"살아 남는 선수를 쓸 것\" [인천 현장]",
     "summary": [
-      "(서울=연합뉴스) 오명언 기자 = 네 번째 월드컵이 남긴 아쉬움을 털어내고 길었던 리그 무득점의 꼬리표도 깔끔하게 떼어냈다."
+      "기예르모 에레디아가 이탈했다.",
+      "연이어 최정까지 올 시즌 내내 괴롭혔던 고관절 부상의 원인을 찾아내고 치료하기 위해 1군에서 사라졌다.",
+      "SSG 타선에서 크나 큰 비중을 차지하던 두 축이 사라졌다."
     ],
     "chips": [
-      "#손흥민"
+      "#KBO"
     ]
   },
   {
-    "id": "nf6dd4cae",
+    "id": "n5d9df239",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713699",
-    "title": "[부고]강숙희(밀양시 노인장애인과)씨 시모상",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713720",
+    "title": "'58세' 김성령, 어깨 드러내고 '유노윤호♥'",
     "summary": [
-      "[밀양=뉴시스] ▲조영희씨 별세, 강숙희(밀양시 노인장애인과)씨 시모상 = 18일, 경남 밀양시 창밀로(내이동) 한솔장례식장 VIP 2호실, 발인 20일 오전 7시."
+      "[서울=뉴시스] 남정현 기자 = 배우 김성령이 동방신기 유노윤호의 콘서트에 방문했다.",
+      "김성령은 18일 소셜미디어에 \"유노윤호 첫 단독 콘서트.",
+      "멋지다 윤호\"라며 사진을 게재했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n38ab4bd9",
-    "category": "스포츠",
+    "id": "nf1726151",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713683",
-    "title": "트럼프, \"미·중 월드컵 공동 개최, FIFA 회장이 먼저 꺼내\" 깜짝 발언",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713704",
+    "title": "영국, 내년 4월부터 에너지음료 청소년 판매 '금지'한다",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = ' 도널드 트럼프 미국 대통령이 국제축구연맹(FIFA) 회장 잔니 인판티노와 함께 차기 월드컵 개최지를 언급하며 미국과 중국의 공동 개최 가능성을 가볍게 언급했다.",
-      "영국 스포츠 매체 HITC는 18일(현지시간) 트럼프 대통령이 미국 뉴욕 맨해튼에서 열린 FIFA 리셉션에서 인판티노 회장과 대화를 나누던 중 향후 월드컵 개최와 관련해 이 같은 발언을 했다고 보도했다.",
-      "트럼프 대통령은 2026 북중미 월드컵을 언."
+      "[서울=뉴시스]허준희 인턴 기자 = 영국 내에서 16세 미만 청소년에 대한 고카페인 에너지 음료 판매가 내년 4월부터 전면 금지된다.",
+      "16일(현지시간) 영국 매체 가디언과 BBC에 따르면, 영국 정부는 내년 4월부터 리터당 카페인 함량이 150㎎을 넘는 에너지 음료를 16세 미만 청소년에게 판매하는 것을 금지할 방침이다.",
+      "이번 규제는 레드불, 몬스터, 릴렌트리스, 프라임 등 주요 에너지 음료에 적용되며, 다이어트 콜라와 같은 저카페인 탄산음료나."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n923bf28b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713721",
+    "title": "송영길 \"출마자격 논란 깜짝 놀라…국힘인가, 檢개혁 떠들질 말든지\"",
+    "summary": [
+      "[서울=뉴시스] 김난영 기자 = 더불어민주당 당권 주자인 송영길 의원이 자신을 상대로 불거졌던 전당대회 후보 자격 논란을 두고 \"검찰 개혁을 떠들지를 말든지\"라며 강한 불만을 표했다.",
+      "'1인1표제' 보완 필요성도 제시했다.",
+      "송 의원은 18일 경남 민주당원 타운홀 미팅에서 \"감옥에 가서 싸우고 이기고 돌아왔더니 그 기간 동안 공백 때문에 당 대표 출마 자격이 없다고 해서 깜짝 놀랐다\"며 이같이 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n57934bbe",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026071816232188135",
+    "title": "북한, 한미일 군사공조 반발…“지역 안보 불균형 용납 못 해”",
+    "summary": [
+      "북한이 한미일 합참의장 회의를 계기로 3국이 안보협력을 강화하기로 한 데 대해 \"한반도와 아시아·태평양 지역의 평화와 안정을 파괴하는 근원\"이라며 반발했다.",
+      "북한 국방성 대변인은 18일 조선중앙통신을 통해 발표한 담화에서 한미일 군사공조를 두고 \"지역에서 군사적 우위를 차지하고 패권적 지정학적 이익을 추구하려는 변함없는 적대적 기도\"라고 주장했다.",
+      "대변인은 \"한반도 지역에 우려스러운 군사적 대립과 충돌 가능성."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncec48ff7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/18/G5RDMODBGFSTKZBYGY4DSMJWME/",
+    "title": "'육성 신화 도전' 조민영, 데뷔 첫 선발 출장...노진혁 시즌 첫 3루수 선발, '2연패' 롯데 선발 라인업 공개 [오!쎈 대구]",
+    "summary": [
+      "[OSEN=대구, 조형래 기자] 프로야구 롯데 자이언츠가 2연패를 탈출할 라인업을 공개했다.김태형 감독이 이끄는 롯데 자이언츠는 18일 대구 삼성 라이온즈파크에서 열리는 프로야구 정규시즌 삼성 라이온즈와의 경기에 나설 선발 라인업을 공개했다.이날 롯데는 황성빈(중견수) 고승민(1루수) 레이예스(좌익수) 한동희(지명타자) 노진혁(3루수) 한태양(2루수) 전민."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n898fb9ae",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/18/MQ3WENBTHA3TMYLBGQYTQZLBGY/",
+    "title": "155cm 여→남 트렌스젠더 배우가 '전사'라고? 캐스팅 논란 깨부수다 [Oh!llywood]",
+    "summary": [
+      "[OSEN=최이정 기자] 크리스토퍼 놀란의 신작 ‘디 오디세이’가 베일을 벗은 가운데, 놀란 감독 30년 커리어 역사상 최고의 평점을 기록함과 동시에 배우들을 향한 압도적인 오스카 찬사가 쏟아지고 있다.18일(한국시간) 외신 보도에 따르면, 러닝타임 3시간에 달하는 놀란 감독의 판타지 대서사시 ‘디 오디세이’는 글로벌 영화 평론 사이트 로튼 토마토에서 평론."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1624f43",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718037400001",
+    "title": "'친장동혁' 조광한, 경기도당위원장 선거 출마 번복…\"생각접어\"",
+    "summary": [
+      "(서울=연합뉴스) 박수윤 기자 = 국민의힘 조광한 최고위원이 경기도당위원장 출마 의사를 밝힌 지 사흘 만인 18일 불출마를 선언했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n4ee576ea",
+    "id": "nc2dfee7b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718037200104",
+    "title": "메탄올 술로 외국인 6명 숨졌는데…라오스서 솜방망이 기소 논란",
+    "summary": [
+      "(자카르타=연합뉴스) 손현규 특파원 = 2년 전 라오스 유명 관광지에서 메탄올이 든 술을 마신 외국인 관광객 6명이 잇따라 사망한 사건과 관련해..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51f69167",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/18/2026071816114953143",
+    "title": "소방청, 인천 물류창고 9시간 이어진 화재에 '국가소방동원령' 발령",
+    "summary": [
+      "소방청이 인천의 쿠팡 물류창고에서 발생한 화재가 9시간 동안 이어지자 국가소방동원령을 발령했다.",
+      "18일 뉴시스 등에 따르면 소방청은 이날 오후 3시15분 인천 서구 석남동 물류창고 화재 대응을 위해 국가소방동원령을 발령했다.",
+      "국가소방동원령이란 시·도의 소방력만으로 대응이 어렵다고 판단될 때 소방청장이 전국 단위의 소방력과 장비를 동원하는 조치다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0947ff5c",
     "category": "사회",
     "source": "뉴시스",
     "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260718_0003713697",
-    "title": "국가직 7급 공채 1차 응시율 61.1%…작년보다 1.2%p↑",
+    "url": "https://www.newsis.com/view/NISX20260718_0003713696",
+    "title": "실물 이 정도였나…수지, 레드 드레스 입고 여신美 폭발",
     "summary": [
-      "[세종=뉴시스]성소의 기자 = 올해 국가공무원 7급 공개경쟁채용시험(공채) 제1차 시험 응시율이 61.1%로 잠정 집계됐다.",
-      "인사혁신처는 18일 전국 17개 시도 50개 시험장에서 실시된 '2026년도 국가공무원 7급 공채 제1차 시험' 응시 결과, 응시율 61.1%를 기록했다고 밝혔다.",
-      "이는 지난해 응시율 59.9%보다 1.2%포인트 높은 수치다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "ncf35df64",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026071815195137111",
-    "title": "이건태, 한동훈과 '보완수사권 토론' 하루 만에 취소",
-    "summary": [
-      "이건태 더불어민주당 의원이 한동훈 무소속 의원과 검찰 보완수사권 폐지 문제를 놓고 벌이기로 했던 공개토론을 하루 만에 취소했다.",
-      "이 의원은 18일 자신 사회관계망서비스(SNS)를 통해 \"지지해주시는 당원 동지들의 뜻과 우려를 외면하는 것은 옳지 않다고 판단했다\"며 \"이번 토론은 진행하지 않겠다\"고 밝혔다.",
-      "검사 출신인 한 의원은 지난 16일 민주당에 보완수사권 폐지가 국민의 이익에 반하는 이유를 공개적으로 토론하자고."
+      "[서울=뉴시스] 남정현 기자 = 가수 겸 배우 수지가 강렬한 레드 드레스를 입은 근황을 공개했다.",
+      "18일 연예계에 따르면 수지는 최근 소셜미디어에 \"살롱 팝업 귀여워요 줍줍\"이라며 사진을 올렸다.",
+      "사진 속 수지는 강렬한 레드 드레스를 입고 우아한 자태를 뽐냈다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne0150a5b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026071815171030101",
-    "title": "[속보]종합특검, '양평 의혹' 원희룡 전 국토부 장관 23일 소환",
+    "id": "nddbbe41c",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/18/2026071815391589640",
+    "title": "'190억 빚' 임채무, 이번엔 발달장애인 위해 나섰다",
     "summary": [
-      "[속보] 종합특검, '양평 의혹' 원희룡 전 국토부 장관 23일 소환."
+      "배우 임채무(77)가 190억원에 달하는 누적 채무를 안고 있는 상황에서도 이번에는 발달장애인들을 향한 온정의 손길을 뻗었다.",
+      "18일 사회복지법인 다운복지관 등에 따르면 다운복지관은 최근 경기도 양주시 테마파크 두리랜드와 상호 협력을 위한 업무협약을 체결하고 임채무 대표를 공식 홍보대사로 임명했다.",
+      "복지관 측은 \"이번 협약과 홍보대사 위촉을 통해 양 기관은 발달장애인이 보다 안전하고 편안하게 문화·여가 활동을 즐길 수 있도록 상호 협력하고, 다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfa194788",
-    "category": "IT",
+    "id": "n53dde65d",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260718033800089",
-    "title": "한국어로 말하면 중국어 통역…中 WAIC서 최신 스마트기기 눈길",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718036900527",
+    "title": "제주시중산간·제주시서부에 열대야주의보",
     "summary": [
-      "(상하이=연합뉴스) 차병섭 특파원 = \"제가 이어폰을 끼고 (한국어로) 말하면 휴대폰 화면을 통해서 (중국인) 상대방이 이해할 수 있군요.\"."
+      "(제주=연합뉴스) 기상청은 18일 오후 6시를 기해 제주시중산간·제주시서부에 열대야주의보를 발효한다고 밝혔다."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "na5493ee0",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026071815045217566",
-    "title": "7천피 깨지자 엑셀 밟던 증권사들 돌변…\"내려갑니다\" 하향리포트가 더 많았다",
+    "id": "nc0d39a12",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718037000527",
+    "title": "울산서부·울산동부에 열대야주의보",
     "summary": [
-      "삼성전자와 SK하이닉스의 실적 성장세가 이어지고 있지만, 국내 증권사들은 목표주가 상향 기조를 급격히 틀었다.",
-      "18일 금융정보업체 에프앤가이드에 따르면 이달(1~16일) 국내 증권사가 발간한 목표주가 상향 리포트는 249건이지만 하향 리포트는 323건으로 74건 많았다.",
-      "올해 처음으로 목표주가 하향 리포트가 상향 리포트를 넘어서게 됐다."
+      "(울산=연합뉴스) 기상청은 18일 오후 6시를 기해 울산서부·울산동부에 열대야주의보를 발효한다고 밝혔다."
     ],
     "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
+      "#뉴스"
     ]
   },
   {
-    "id": "n6f818b3b",
+    "id": "n32b478ee",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260718036300003",
+    "title": "미얀마 노동자 숨진 공사현장 시공사 대표, 유족 만나 사과",
+    "summary": [
+      "(서울=연합뉴스) 임기창 기자 = KTX 선로 공사 현장에서 미얀마인 이주노동자가 사망한 사건과 관련해 원청 시공사 SK에코플랜트 대표가 18일..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f587a48",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260718/134320180/1",
-    "title": "‘결승 좌절’ 프랑스·잉글랜드 한목소리 “3위 결정전 원치 않아”",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260718/134320193/2",
+    "title": "월드컵 침묵한 손흥민, 리그 가서 터졌다…시즌 첫 골",
     "summary": [
-      "2026 국제축구연맹(FIFA) 북중미 월드컵 결승에 오르지 못한 프랑스와 잉글랜드가 3위 결정전을 희망하지 않았다고 전했다.프랑스와 잉글랜드는 오는 19일 오전 6시(한국 시간) 미국 플로리다주 마이애미가든스의 마이애미 스타디움에서 북중미 대회 3위 결정전을 치른다.두 팀은 이번 대회 우승 후보로 평가받았지만, 결승에 오르지 못했다.프랑스는 지난 15일 스페인에 0-2로 패배했고, 잉글랜드는 16일 ‘디펜딩 챔피언’ 아르헨티나에 1-2로 져서."
+      "2026 북중미 월드컵을 마치고 소속팀 로스앤젤레스 FC(LAFC)에 복귀한 손흥민(34)이 정규리그 시즌 첫 골을 쏘아 올렸다.",
+      "18일(한국 시간) 손흥민은 미국 캘리포니아주 LA의 디그니티 헬스 스포츠 파크에서 열린 LA 갤럭시와의 2026 미국 프로축구 메이저리그사커(MLS) 정규리그 16라운드 원정 경기 중 후반 12분 쐐기골을 터뜨렸다.",
+      "손흥민의 골에 힘입어 LAFC는 3-0으로 승리했다.2-0으로 앞선 상황 손흥민은 마크 델가도가 건."
     ],
     "chips": [
-      "#뉴스"
+      "#손흥민"
     ]
   }
 ];
@@ -640,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
