@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-18 18:16:26
+// 마지막 업데이트: 2026-07-18 19:23:29
 window.NEWS_DB = [
   {
     "id": "n44e1fd61",
     "category": "IT",
     "source": "문화일보",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80a293cHFOVkpYVjdhU3hCNzMzcEhfYmwxNnp6ZkdZWG14bl9pYnJHT1J3ejc3NE1kbUpXZmVLdTNyQld2MHFlSHJBTlhZaEx0?oc=5",
     "title": "AI 반도체 약세에…애플, 엔비디아 제치고 장중 시총 1위 탈환",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n3f49e61e",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMzlaUkRHVGR6eUJ4aXFINk1MaEhNMzRkQ2pQMjJwekN1ZTRXbnVlSDZJdjVnclE4emF1S25fVjFOR1F2dUJVVkVSWHZtdlRhT3A4d1c1am0zSHNaYTdLM2dUVWp6RlFp?oc=5",
     "title": "애플, 장중 시총 1위 탈환…AI 반도체 조정에 엔비디아 제쳤다",
     "summary": [
@@ -107,6 +107,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6229e236",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVV9OcTgxMVdsYktNRjNzaV8xOGptOXNYcGFON1pZc1FlVTdBTEhmTXZOeHpLeXpFUlpLdUQyamp6anZaS3NTS1RyaTR6TmhPSGNfNEdsbGkyTHVxNGZWNXdhTmwtRWFBRndSWUUtRkRCLUE?oc=5",
+    "title": "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠슨 황 고민 커져",
+    "summary": [
+      "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠슨 황 고민 커져 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#수출"
+    ]
+  },
+  {
     "id": "n18f2a499",
     "category": "IT",
     "source": "미디어펜",
@@ -118,22 +135,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n2af0d2c1",
-    "category": "IT",
-    "source": "초이스스탁US",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMjM0Wm1rYS1IU2l3b0tHSnpLZUl0alJTXzdobTNNT0ZuUnhxTk03ZjFxem1fREpLcTZ3MkNjQ1doQWtOVlBhR2ItWUNweWlGMEZ2VVNYbG90WEdkUjlZaUEteDRzWWc?oc=5",
-    "title": "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀",
-    "summary": [
-      "빅테크 투자 폭증에도 우는 AI 반도체…엔비디아·TSMC 숨고르기의 비밀 초이스스탁US."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -318,10 +319,99 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb9c99e1f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003713831",
+    "title": "러 본토 700㎞ 깊숙한 물류센터까지…우크라 드론에 8명 사망",
+    "summary": [
+      "[서울=뉴시스]박영환 기자 = 우크라이나가 전선에서 500~700㎞ 떨어진 러시아 대형 물류센터 2곳을 드론으로 공격해 최소 8명이 숨지고 60여명이 다쳤다.",
+      "공격받은 시설은 러시아 최대 온라인 유통업체 와일드베리스가 소유한 물류센터로, 우크라이나는 이곳들이 드론 생산용 부품과 항법장비의 공급 거점으로 활용됐다고 주장했다.",
+      "미국 CNN은 18일(현지시간) 러시아 탐보프주 코토프스크와 모스크바주 일렉트로스탈에 있는 와일드베리스 물류센터가 우크라이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n38d8e290",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719002800527",
+    "title": "경북 영주·문경에 호우경보…예천에 호우경보 유지",
+    "summary": [
+      "(대구=연합뉴스) 기상청은 19일 오전 3시 10분을 기해 영주·문경에 호우경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb97b540e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719002351071",
+    "title": "美 \"미군 2명 전사·1명 실종\"…이란 직접 공격에 첫 사망(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 중동에서 미국과 이란의 무력 갈등 수위가 높아지는 가운데 이란의 미사일 및 드론 공격에 미군 병사 2명이 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n54c9cd0c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003713835",
+    "title": "\"모즈타바, 전쟁 끝난뒤에 등장할것…첫 접촉은 푸틴\" 러 매체",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 취임 이후 한 차례도 공개 석상에 등장하지 않은 아야톨라 모즈타바 하메네이 이란 최고지도자가 미국·이스라엘과의 전쟁이 끝난 뒤에 모습을 드러낼 것이라는 러시아 매체 보도가 나왔다.",
+      "러시아 타스통신은 18일(현지 시간) 익명의 이란 소식통을 인용해 \"그는 전쟁이 끝나고 안보 상황이 개선될 때까지 공개 석상에 모습을 드러내지 않을 것\"이라고 보도했다.",
+      "소식통은 그러면서 \"최고지도자가 외국 정상과 처음 접촉하게 된다면."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncccdb4ab",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "49분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/19/GA4DCYZSGYZGGMBSGQZWCY3FGA/",
+    "title": "'237일 무득점'에도 PK 양보, 손흥민 이유 밝혔다...\"부앙가가 골 넣으면 내가 넣은 거 같아, 누가 차는진 중요하지 않다\"",
+    "summary": [
+      "[OSEN=고성환 기자] 손흥민(34)이 리그 첫 골이 필요한 상황에서도 드니 부앙가(32, 이상 LAFC)에게 페널티킥을 양보한 이유를 공개했다.LAFC는 18일(한국시간) 미국 캘리포니아주 디그니티 헬스 스포츠 파크에서 열리는 2026시즌 미국 메이저리그사커(MLS) 서부 콘퍼런스 16라운드에서 LA 갤럭시와 '엘 트라피코'에서 3-0 대승을 거두며 2."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n1e869398",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719002500075",
+    "title": "앤트로픽, 메타와 15조원 규모 연산 자원 임대 계약 논의",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 인공지능(AI) 스타트업 앤트로픽이 스페이스X에 이어 메타와도 거액의 연산 자원 임대 계약을 논의하고..."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n9611fbfe",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260719002700527",
     "title": "경북 예천에 호우경보…구미 등 18곳 호우주의보 유지",
     "summary": [
@@ -332,38 +422,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n62fe6c96",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/19/DLLUEIJBFFGD7CKWYH6YAGKJVI/",
-    "title": "“아내가 예뻐진다는데 뭐…\" 그러나 끝은 예상과 달랐다",
-    "summary": [
-      "“아내가 예뻐진다는데 뭐…\" 그러나 끝은 예상과 달랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nad9bf86d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/19/YOW4KPQ7EJE3FCIK7AJ3WCLJAY/",
-    "title": "냉장고가 드물던 시절…아이스케키와 얼음 파동을 겪었던 그 시절 여름",
-    "summary": [
-      "냉장고가 드물던 시절…아이스케키와 얼음 파동을 겪었던 그 시절 여름."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n49eb5ef4",
     "category": "사회",
     "source": "조선일보",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/national/people/2026/07/19/4BVVQXHSQRHYBMOKKED7MCIEAM/",
     "title": "도쿄 아카사카에서 30만엔어치 고등어를 맛보다...훔치고 싶다 이 기술",
     "summary": [
@@ -374,14 +436,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne0563dbb",
+    "id": "n62fe6c96",
     "category": "사회",
     "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/07/19/ASLKRNMOZBHS5EKM6LJ4LYU2FA/",
-    "title": "“우리는 어쩌다 이런 사람으로 살고 있을까”",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/19/DLLUEIJBFFGD7CKWYH6YAGKJVI/",
+    "title": "“아내가 예뻐진다는데 뭐…\" 그러나 끝은 예상과 달랐다",
     "summary": [
-      "“우리는 어쩌다 이런 사람으로 살고 있을까”."
+      "“아내가 예뻐진다는데 뭐…\" 그러나 끝은 예상과 달랐다."
     ],
     "chips": [
       "#뉴스"
@@ -391,7 +453,7 @@ window.NEWS_DB = [
     "id": "na658ee48",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260719_0003713834",
     "title": "美중부사 \"이란 공격으로 요르단서 미군 2명 전사·1명 실종\"",
     "summary": [
@@ -404,52 +466,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2c497773",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719002400099",
-    "title": "이란 최고지도자 \"美대통령 서명 가치 없어…못잊을 교훈 줄 것\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 아야톨라 세예드 모즈타바 하메네이 이란 최고지도자가 미국이 종전 양해각서(MOU)를 반복적으로 위반했..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n55451d83",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719002300071",
-    "title": "美 \"요르단서 이란 공격 방어하던 미군 2명 전사·1명 실종\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 중동에서 미국과 이란의 무력 갈등 수위가 높아지는 가운데 이란의 미사일 및 드론 공격에 미군 병사 2명이 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6bb5a59c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "50분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719002200527",
-    "title": "전북 순창·임실에 호우주의보…남원 등 4곳 호우주의보 유지",
-    "summary": [
-      "(전주=연합뉴스) 기상청은 19일 오전 2시 20분을 기해 순창·임실에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n65faf640",
     "category": "사회",
     "source": "뉴시스",
-    "time": "54분 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260719_0003713832",
     "title": "이란 최고지도자 \"美, MOU 반복 위반…트럼프 서명 무가치\"",
     "summary": [
@@ -462,38 +482,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne497930a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260719_0003713833",
-    "title": "[속보]모즈타바 \"美, MOU 반복적 위반…트럼프 서명 무가치\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3eb9f45c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260719_0003713829",
-    "title": "베네수 임시대통령 \"IMF서 지진 긴급지원금 5100억 확보\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 베네수엘라 연쇄 강진으로 인한 사망자가 5000명을 넘어선 가운데, 베네수엘라 정부는 국제통화기금(IMF)에서 3억4600만 달러(5155억여원)의 긴급 자금 지원을 받기로 했다고 밝혔다.",
-      "AP통신 등에 따르면 델시 로드리게스 임시대통령은 17일(현지 시간) \"베네수엘라가 IMF에서 3억4600만 달러를 확보했다\"고 발표했다.",
-      "크리스탈리나 게오르기에바 IMF 총재도 이날 \"해당 자금이 베네수엘라가 IMF에 보유한."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nc606876e",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026071920907",
     "title": "인천 쿠팡물류센터 불길 외벽 타고 7층까지 번져…밤샘 진화 예상",
     "summary": [
@@ -507,7 +499,7 @@ window.NEWS_DB = [
     "id": "n172f9138",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026071920837",
     "title": "\"종전 MOU 의무 이행 중단\"…이란, 쿠웨이트 발전·담수시설 공습",
     "summary": [
@@ -521,7 +513,7 @@ window.NEWS_DB = [
     "id": "n59d341c7",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026071573797",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 19일 띠별 추천 점심메뉴",
     "summary": [
@@ -535,7 +527,7 @@ window.NEWS_DB = [
     "id": "n25ac247e",
     "category": "사회",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260718/134320366/1",
     "title": "잦아들었던 비 다시 거세져…대구·경북 호우특보 발효",
     "summary": [
@@ -551,7 +543,7 @@ window.NEWS_DB = [
     "id": "ne1aae91a",
     "category": "사회",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260718/134320357/1",
     "title": "이란 외무차관 “美, MOU 완전히 저버려…우리도 의무이행 중단”",
     "summary": [
@@ -565,7 +557,7 @@ window.NEWS_DB = [
     "id": "n005c3417",
     "category": "경제",
     "source": "한국경제",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.hankyung.com/article/2026071820417",
     "title": "\"비단뱀 잡아오면 피자 공짜\"…美 플로리다 이색 퇴치 작전",
     "summary": [
@@ -579,7 +571,7 @@ window.NEWS_DB = [
     "id": "ncdb4afc9",
     "category": "사회",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260718/134320342/1",
     "title": "1233회 로또 1등 2, 7, 20, 25, 37, 40…보너스 29",
     "summary": [
@@ -595,7 +587,7 @@ window.NEWS_DB = [
     "id": "n640b0302",
     "category": "사회",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260718/134320339/1",
     "title": "李대통령, 쿠팡 화재에 “대형 물류시설 안전 전반 점검…종합대책 마련”",
     "summary": [
@@ -606,19 +598,35 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n72cf4134",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "6시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260718202637",
-    "title": "\"생성형 AI 보안 정교화\"…모니터랩, AI 보안 솔루션 고도화",
+    "id": "nf3a4a58b",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "7시간 전",
+    "url": "https://view.asiae.co.kr/article/2026071821072210835",
+    "title": "李대통령, 인천 쿠팡 물류센터 화재에 \"긴장 끈 놓지 않고 대응…종합대책 마련\"",
     "summary": [
-      "[지디넷코리아]B2B 보안 서비스형 소프트웨어(SECaaS) 전문 기업 모니터랩(대표 이광후)가 생성형 AI 보안 솔루션 'GenAI 시큐리티' 제품 고도화에 나선다.모니터랩은 'GenAI 시큐리티' 기능 고도화를 통해 부서·업무 특성에 맞는 세분화된 보안 정책을 지원하고, 통제 범위를 개발자 환경까지 확대해 솔루션 활용도를 높였다고 18일 밝혔다.GenAI 시큐리티는 기업 내 생성형 AI 활용 과정에서 발생할 수 있는 프롬프트 인젝션, AI."
+      "이재명 대통령은 18일 인천 쿠팡 물류센터에서 발생한 대형 화재와 관련해 \"불길이 완전히 잡히고 상황이 안정될 때까지 긴장의 끈을 놓지 않고 대응하겠다\"고 밝혔다.",
+      "최근 경기도 물류창고 화재에 이어 대형 물류시설에서 화재가 잇따르자 시설 안전관리 체계 전반을 점검하고 재발 방지를 위한 종합대책도 마련하기로 했다.",
+      "이 대통령은 이날 엑스(X·옛 트위터)에 올린 글에서 \"정부는 국가소방동원령을 발령해 가용한 모든 자."
     ],
     "chips": [
-      "#AI",
-      "#정책",
-      "#환경"
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfa1b064d",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7시간 전",
+    "url": "https://view.asiae.co.kr/article/2026071820541899100",
+    "title": "1233회 로또 1등 31명…당첨금 각 8억4000만원",
+    "summary": [
+      "로또복권 운영사 동행복권은 18일 제1233회 로또복권 추첨에서 '2, 7, 20, 25, 37, 40'이 1등 당첨번호로 뽑혔다고 밝혔다.",
+      "2등 보너스 번호는 '29'이다.",
+      "당첨번호 6개를 모두 맞힌 1등 당첨자는 31명으로 8억3797만원씩 받게 된다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
