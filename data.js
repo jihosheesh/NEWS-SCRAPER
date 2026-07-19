@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-19 18:16:26
+// 마지막 업데이트: 2026-07-19 19:23:58
 window.NEWS_DB = [
   {
     "id": "n315a413f",
     "category": "IT",
     "source": "월요신문",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kbjlmTkhnRi1vVS1fYzlvckxJdk9rNHNFRktxRzVFSFR0OHowODM4dWE2dks1TnAwOHF2R1Y2QWpWYTBZVUIyaU11ME11dXp1VDFvNnl6WURzbUE3NTlxbXZlV0c3LWN1bUE?oc=5",
     "title": "삼성 파운드리發 인력 대이동 조짐…반도체 채용시장 들썩",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9f206858",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WWXNuVDVOcWtHMGRCdjRHa2hOaUJlWGVLWGkzNVBobFRFV2xtMGFmLXNjZ09hRVd5Zk1lWVFUZHRuUFlOblpUazVpa0pYa2lEV2tqNlA2UjZyUDBxM1BMUdIBYEFVX3lxTE9WWXNuVDVOcWtHMGRCdjRHa2hOaUJlWGVLWGkzNVBobFRFV2xtMGFmLXNjZ09hRVd5Zk1lWVFUZHRuUFlOblpUazVpa0pYa2lEV2tqNlA2UjZyUDBxM1BMUQ?oc=5",
     "title": "中알리바바, AI칩 소프트웨어 무료 공개…엔비디아 쿠다 대항마",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nb9485281",
     "category": "IT",
     "source": "광교신문",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pcTJ6bjdHYndMY01WWml0dGxHLTdsOFdSeUVPaGNoU2JOX2JBU3h4M1cwcGNVdTl4c3dSU3RzRElNSS1jaEs5cTd6UjJpdzRPYjVzSEFTSlpwaGNkV3NyNVNZUzNVMXJO0gFsQVVfeXFMUDVTOW1uQUh2X3NwRzV3R2toc2NIOS1wUVVMazJuVHAzSmhTRmQ0bkY1Z3JlSkIzQllrOVVkS2h4ZGdaV2dOaEl4SkJ2eEdZWVBsVDc5aWlrQ0xuYXFJRVZzYUh3VlpnM3ZzSjl5?oc=5",
     "title": "엔비디아 이후를 준비하는 빅테크…AI 반도체 독립 전쟁",
     "summary": [
@@ -319,10 +319,233 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne1788cce",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003714350",
+    "title": "김시우, 메이저골프 디오픈서 공동 6위…역대 개인 최고 성적",
+    "summary": [
+      "[서울=뉴시스]안경남 기자 = 김시우가 남자골프 시즌 마지막 메이저대회 브리티시 오픈(디오픈 총상금 1775만 달러)에서 자신의 역대 최고 성적인 공동 6위로 대회를 마쳤다.",
+      "김시우는 19일(현지 시간) 영국 사우스포트의 로열 버크데일 골프클럽(파70)에서 열린 제154회 디오픈 챔피언십 최종 4라운드에서 버디 2개, 보기 4개를 묶어 2오버파 72타를 쳤다.",
+      "이로써 최종 합계 6언더파 274타를 적어낸 김시우는 공동 6위를 차지했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na42eeb9f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003714342",
+    "title": "이동건, 박신양과 서먹했던 이유…\"너무 완벽한 배우라서\"",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 배우 이동건이 드라마 '파리의 연인' 촬영 당시 박신양과 서먹한 사이였다고 털어놨다.",
+      "19일 방송된 SBS 예능 프로그램 '미운 우리 새끼'에서는 이동건이 드라마 '파리의 연인'에서 호흡을 맞췄던 김정은과 재회하는 모습이 그려졌다.",
+      "이날 두 사람은 반갑게 포옹했고, 대화의 주제는 자연스럽게 '파리의 연인'으로 이어졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n879852f4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/20/GA4GKZRUMMZGEZLGHBTDCMJYG4/",
+    "title": "'오징어 게임' 정호연, 월드컵 결승 떴다...톰 크루즈·베컴과 시작 알렸다",
+    "summary": [
+      "[OSEN=정승우 기자] 넷플릭스 시리즈 ‘오징어 게임’으로 전 세계에 이름을 알린 배우 정호연이 2026 국제축구연맹(FIFA) 북중미 월드컵 결승전의 시작을 알린다.아르헨티나와 스페인은 20일 오전 4시(이하 한국시간) 미국 뉴저지주 이스트러더퍼드의 뉴욕 뉴저지 스타디움에서 2026 북중미 월드컵 결승전을 치른다.세계 축구의 새로운 챔피언이 탄생하는 결."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n14d4e1c1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "34분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/20/GNSWINJVMMZTQZTGMU3WENDFHE/",
+    "title": "아르헨티나-스페인 결승인데 왜 '16강 탈락' 국가가?...끝내 현실 된 '월드컵 사유화'",
+    "summary": [
+      "[OSEN=정승우 기자] 우려는 현실이 됐다.",
+      "아르헨티나와 스페인이 세계 챔피언 자리를 놓고 맞붙는 월드컵 결승전이 정작 두 나라가 아닌 미국의 국가로 문을 열었다.아르헨티나와 스페인은 20일 오전 4시(이하 한국시간) 미국 뉴저지주 이스트러더퍼드의 뉴욕 뉴저지 스타디움에서 2026 국제축구연맹(FIFA) 북중미 월드컵 결승전을 치렀다.경기 시작에 앞서 미."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9a12ffd7",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720001951007",
+    "title": "김시우, 디오픈 골프서 역대 최고 성적 공동 6위…우승은 폭스(종합)",
+    "summary": [
+      "(서울=연합뉴스) 최태용 기자 = 김시우가 남자골프 시즌 마지막 메이저 대회 브리티시 오픈(이하 디오픈)에서 우승 문턱을 넘지 못했지만, 자신의..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n78439531",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/20/GVSGEMRVGZTDONBWHFTGIZJVGY/",
+    "title": "\"제발 떨어져라, 떨어져라\" 주전 유격수 간절히 기도가 통했다…우중혈투 끝낸 결승타, 롯데를 살렸다",
+    "summary": [
+      "[OSEN=대구, 조형래 기자] “제발 떨어져라, 떨어져라.”프로야구 롯데 자이언츠 주전 유격수 전민재가 대접전의 경기를 끝내는 결승타를 때려냈다.",
+      "전민재는 19일 대구 삼성 라이온즈파크에서 열린 프로야구 정규시즌 삼성 라이온즈와의 경기, 8번 유격수로 선발 출장해 4타수 2안타 3타점으로 활약하면서 팀의 11-8 승리를 이끌었다.행운의 결승타였다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nbd209308",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "53분 전",
+    "url": "https://www.chosun.com/sports/golf/2026/07/20/RB6U6H65JRCBFIHO5FLLSIXKMM/",
+    "title": "김시우, 디 오픈 6위로 메이저 최고 성적...우승은 뉴질랜드 폭스",
+    "summary": [
+      "김시우, 디 오픈 6위로 메이저 최고 성적...우승은 뉴질랜드 폭스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n77e3648a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "53분 전",
+    "url": "https://www.hankyung.com/article/202607203134i",
+    "title": "글로벌 관세 24일 종료.. 301조 국가별 관세 곧 나올 듯[이상은의 워싱턴나우]",
+    "summary": [
+      "글로벌 관세 24일 종료.. 301조 국가별 관세 곧 나올 듯[이상은의 워싱턴나우]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5e0dffd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720001400007",
+    "title": "[최종순위] 디오픈 챔피언십",
+    "summary": [
+      "[최종순위] 디오픈 챔피언십."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne8d65dfb",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "56분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260720/134325368/1",
+    "title": "‘4년 열애’ 임지연·이도현, 골프장 데이트 목격담 “아주 알콩달콩”",
+    "summary": [
+      "배우 임지연(36)과 이도현(31) 커플의 굳건한 애정전선이 연이어 화제를 모으고 있다.20일 연예계에 따르면, 최근 온라인 커뮤니티와 소셜 미디어를 중심으로 두 사람이 한 골프장에서 함께 데이트를 즐겼다는 목격담이 확산됐다.목격담 작성자는 “두 사람이 함께 골프를 치러 온 듯했다”며 “이도현은 TV에서 본 것보다 체격이 훨씬 좋아 운동선수인 줄 알았다.",
+      "두 사람이 아주 알콩달콩 다정해 보였다”고 상황을 전했다.임지연과 이도현은 지난 2022년."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n91319c93",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "56분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260720/134325365/1",
+    "title": "박서진 “5개월 동안 11㎏ 쪘다”…원인은 ‘탕후루와 야식’",
+    "summary": [
+      "가수 박서진(30)이 5개월 동안 11㎏이 쪘다고 밝혔다.18일 KBS2 예능 ‘불후의 명곡’ 2026 왕중왕전 특집에 출연한 박서진은 “다이어트를 하다가 잠시 놓았다”면서 “탕후루도 먹고, 야식도 많이 먹었더니 11㎏이 쪘다”고 말했다.박서진의 사례처럼 다이어트를 중단한 뒤 고열량의 음식을 먹으면 단기간에 체중이 크게 늘어날 수 있다.",
+      "오랫동안 식사량을 제한하다가 이를 중단하면 식욕을 조절하는 호르몬 균형이 변해 평소보다 더 많이 먹게 된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3cd2699f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260720/134325362/1",
+    "title": "이다해 “임신 소식에 세븐 오열…2세 성별은 ‘딸’”",
+    "summary": [
+      "가수 세븐이 아내인 배우 이다해의 임신 소식에 눈물을 흘렸다.이다해는 19일 방송된 SBS TV 예능물 ‘미운 우리 새끼’(미우새)에서 세븐에게 임신 사실을 알린 순간을 전했다.",
+      "그는 “임신 테스트기를 넣은 인형을 들고 레스토랑에 갔다”라며 “남편이 인형을 보더니 울었다”라고 말했다.",
+      "영상 속 세븐은 임신 테스트기를 확인한 뒤 눈물을 쏟았고, 서빙하는 직원에게 임신 사실을 자랑하기도 했다.결혼 3년 만에 찾아온 2세는 딸이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd729f643",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260720/134325359/1",
+    "title": "류혜영 “다이어트 한 적 없다”…악플에 직접 해명",
+    "summary": [
+      "배우 류혜영이 다이어트 의혹을 직접 부인하며 25세 이후로는 살을 뺀 적이 없다고 밝혔다.16일 유튜브 채널 ‘류혜영레몬과밀치회’ 공식 SNS에는 ‘다이어트 해명합니다’라는 제목의 숏폼 영상이 올라왔다.",
+      "영상 속 류혜영은 서울 삼청동의 한 식당에서 식사를 하며 제작진과 이야기를 나눴다.류혜영은 이 자리에서 “다이어트한 적 없다.",
+      "사실은 살도 빠진 적이 없다”고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n140fe4fb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720002000108",
+    "title": "이란 \"다르코빈 원전 건설 현장 피격\" 주장",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 이란이 남서부 다르코빈에 짓고 있는 원자력발전소 현장이 미국의 공습에 타격을 받았다고 19일(현지시간) ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6dfd3554",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720001800091",
+    "title": "'오디세이' 놀런 \"AI는 트로이목마…AI 반감은 건강한 회의주의\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 영화 '오디세이'를 연출한 크리스토퍼 놀런 감독이 인공지능(AI) 기술을 '투명한 트로이 목마'에 빗..."
+    ],
+    "chips": [
+      "#AI",
+      "#의료"
+    ]
+  },
+  {
     "id": "n420130f6",
     "category": "경제",
     "source": "아시아경제",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026072003114231827",
     "title": "김시우, 공동 6위…'아쉽다, 한국인 첫 디 오픈 우승'",
     "summary": [
@@ -335,24 +558,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na8e96203",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260720001900007",
-    "title": "김시우, 디오픈 골프서 역대 최고 성적 공동 6위…우승은 폭스",
-    "summary": [
-      "(서울=연합뉴스) 최태용 기자 = 김시우가 남자골프 시즌 마지막 메이저 대회 브리티시 오픈(이하 디오픈)에서 우승 문턱을 넘지 못했지만, 자신의..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n3815b755",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260720_0003714347",
     "title": "美 국무, 레바논 대통령과 회동서 \"헤즈볼라 무장해제 노력 높게 평가\"",
     "summary": [
@@ -364,25 +573,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncfa1b34b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/20/GZQWINBQHE3TMZDEMY3WGYTCMM/",
-    "title": "'39살 메시 vs 19살 야말' 월드컵 결승 선발 출격...첫 챔피언 반지 주인공은 누구 [선발 라인업 공개]",
-    "summary": [
-      "[OSEN=정승우 기자] 유럽 챔피언 스페인과 남미 챔피언 아르헨티나가 세계 정상 자리를 놓고 맞붙는다.",
-      "스페인은 라민 야말을, 아르헨티나는 ‘캡틴’ 리오넬 메시를 선발로 내세웠다.스페인과 아르헨티나는 20일 오전 4시(한국시간) 미국 뉴저지주 이스트러더퍼드의 뉴욕 뉴저지 스타디움에서 2026 국제축구연맹(FIFA) 북중미 월드컵 결승전을 치른다.스페인은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb15e136c",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260719_0003714142",
     "title": "\"논란도 있었지만 결국 축구는 아름다웠다\"…홍콩 매체가 본 월드컵 결산",
     "summary": [
@@ -395,126 +589,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64e8c78f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/20/PJLALR7UVVCYRHVKGUFAW2OI7A/",
-    "title": "빵 떨어져야 일하던 지휘자 클라이버, 그가 ‘개근’한 음악회는 바로..",
-    "summary": [
-      "빵 떨어져야 일하던 지휘자 클라이버, 그가 ‘개근’한 음악회는 바로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n78007c8a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/national/2026/07/20/S57DLUNV7JHV5ES5I2NGHLCQIQ/",
-    "title": "[굿모닝 멤버십] 싸우지 않고 남의 군대를 굴복시키는 법",
-    "summary": [
-      "[굿모닝 멤버십] 싸우지 않고 남의 군대를 굴복시키는 법."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndfbd7df1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/medical/2026/07/20/VVWITW7T4RDIPCAK4KU7WNOTJY/",
-    "title": "의지가 약해진 건 나이 탓이 아니다… 몸의 ‘통신체계’ 바로 잡는 법",
-    "summary": [
-      "의지가 약해진 건 나이 탓이 아니다… 몸의 ‘통신체계’ 바로 잡는 법."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd3b2ff4b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "53분 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003714346",
-    "title": "페루서 규모 5.5 지진…사망 5명·부상 20명",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 페루 안데스 지역에서 규모 5.5 지진이 발생해 적어도 5명이 숨지고 20명이 다쳤다.",
-      "300명 가량은 집을 잃었다.",
-      "19일(현지시간) AP통신에 따르면 미국 지질조사국(USGS)은 지진이 전날 오후 9시24분께 발생했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n65beb5e5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260720001700072",
-    "title": "맘다니 \"'전범' 네타냐후, 9월 뉴욕 방문시 체포 방안 검토\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 조란 맘다니 미국 뉴욕시장이 베냐민 네타냐후 이스라엘 총리가 오는 9월 유엔 총회 참석차 뉴욕을 방문할 경우..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f584195",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260720001600071",
-    "title": "美국무, 레바논 대통령 만나 이스라엘-레바논 평화합의 이행논의",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 마코 루비오 미국 국무장관이 19일(현지시간) 조셉 아운 레바논 대통령과 만나 앞서 미국이 중재한 레바논과..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6095089e",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260720000600017",
-    "title": "'언더독' 디플러스 기아, 국제전 한 풀었다…EWC 2026 우승",
-    "summary": [
-      "(파리=연합뉴스) 김주환 기자 = e스포츠 월드컵 무대에서 국내외 강호를 연이어 쓰러뜨린 LCK의 '언더독' 디플러스 기아(DK)가 6년 만에 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb0df07eb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003714345",
-    "title": "푸틴 \"김정은과 우호 관계 높이 평가\" 北 외무상 \"金, 러 관계 발전 의지\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 블라디미르 푸틴 러시아 대통령이 19일(현지시간) 김정은 북한 국무위원장과 우호 관계를 높이 평가한다고 밝혔다.",
-      "타스통신과 이즈베스티야 등에 따르면 푸틴 대통령은 이날 러시아 모스크바 크렘린궁에서 최선희 북한 외무상과 회담했다.",
-      "드미트리 페스코프 크렘린궁 대변인은 언론 브리핑에서 푸틴 대통령이 북러 양자 관계를 높게 평가했고 북한의 러시아-우크라이나 전쟁 관련 지원에 다시 한 번 감사의 뜻을 전했다고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nad37d3ca",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153490",
     "title": "우리금융, 종합금융그룹 전환 속도…임종룡 \"고객 확대가 미래 성장의 출발점\"",
     "summary": [
@@ -530,7 +608,7 @@ window.NEWS_DB = [
     "id": "nba2b09fa",
     "category": "경제",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://view.asiae.co.kr/article/2026072000314219684",
     "title": "[디깅 트래블]중력으로 달리고, 두 발로 오르고, 네 발에 몸을 맡겼다",
     "summary": [
@@ -543,76 +621,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na9d6e26b",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260719/134323786/2",
-    "title": "‘압구정’ 재건축 단지에… LG전자, 구독서비스 공급",
-    "summary": [
-      "LG전자가 서울 강남구 압구정 재건축으로 들어설 신축 아파트 단지에 가전 구독 서비스를 공급한다.",
-      "이를 기반으로 B2B(기업 간 거래) 주거 시장 공략에 속도를 낼 방침이다.",
-      "LG전자는 현대건설과 손잡고 압구정 재건축 단지(2·3·5구역) 조합원 7000여 가구가 입주할 신축 아파트에 자사 가전 구독 서비스를 도입할 계획이라고 19일 밝혔다."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n18d0e5df",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260719/134323788/2",
-    "title": "증시 빚투 늘자… 5대은행 가계대출 年목표치보다 3500억 초과",
-    "summary": [
-      "증시가 불장을 이뤄 ‘빚투’(빚내서 투자)가 늘면서 하반기(7∼12월)가 시작되자마자 5대 은행의 가계대출 증가액이 연간 목표치를 3500억 원이나 초과한 것으로 나타났다.",
-      "정부가 가계대출 총량 관리 기조를 유지하며 대출 조이기를 시행하는 가운데, 하반기 은행 대출을 받기가 더 어려워질 가능성이 크다.",
-      "19일 5대 시중은행(KB국민, 신한, 하나, 우리, NH농협)에 따르면 15일 기준 가계대출 잔액(정책성 대출 제외)은 649조6612억 원으."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n713ae811",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260719/134323771/2",
-    "title": "경기도로 번지는 전세난, 올초보다 매물 30% 급감",
-    "summary": [
-      "2072채 규모의 경기 광명시 철산동 ‘철산래미안자이’.",
-      "대단지임에도 전세 매물은 19일 기준 단 2건만 나와 있다.",
-      "특히 신혼부부가 많이 찾는 전용면적 59㎡는 한 건도 없었다."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
-    "id": "n68cb77c2",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260719/134323811/2",
-    "title": "9월부터 해외 은행에서도 원화 계좌 만들어 실시간 결제",
-    "summary": [
-      "이르면 9월부터 외국인이 해외 현지 은행에서 원화 계좌를 만들어 송금하거나 결제할 수 있게 된다.",
-      "지금까지는 외국인이 원화를 쓰려면 한국 은행을 거쳐야 했지만 앞으로는 해외 현지 은행에서도 원화를 자유롭게 거래할 수 있게 된다.",
-      "정부는 1997년 외환위기 이후 30년가량 유지해 온 역외 원화 거래 규제를 풀어 해외에서도 원화를 자유롭게 거래할 수 있도록 정책 기조를 바꾸기로 했다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
     "id": "n5108a7fc",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026071573827",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 20일 띠별 추천 점심메뉴",
     "summary": [
@@ -620,21 +632,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "ne6b01459",
-    "category": "IT",
-    "source": "테크M",
-    "time": "4시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153489",
-    "title": "\"하천 오염 가능성 낮아\" 쿠팡, 화재 수습 총력전…소방관·주민 지원 확대 (종합)",
-    "summary": [
-      "인천 서구 석남동 쿠팡 물류센터 화재가 30시간 넘게 이어지는 가운데 쿠팡이 소방당국 지원과 지역 주민 구호에 총력을 기울이며 사태 수습에 나섰다.",
-      "화재 직후 전 직원이 안전하게 대피한 데 이어 현장 소방대원과 대피 주민을 위한 긴급 지원을 확대하면서 기업의 사회적 책임 이행에도 속도를 내고 있다.19일 업계에 따르면 쿠팡은 화재 발생 직후 지역 주민들이 머물고 있는 인천 신현초등학교 대피소에 구호물품과 식사를 긴급 지원했다."
-    ],
-    "chips": [
-      "#교육"
     ]
   }
 ];
@@ -644,18 +641,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "3240건",
+    "trend": "+395%"
   },
   {
     "rank": 2,
-    "tag": "채용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "채용",
     "mentions": "1550건",
     "trend": "+135%"
   }
