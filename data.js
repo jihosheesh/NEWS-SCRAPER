@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-19 06:48:33
+// 마지막 업데이트: 2026-07-19 07:41:44
 window.NEWS_DB = [
   {
     "id": "n525a80ab",
     "category": "IT",
     "source": "OBC 뉴스",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42LVF2eXVOcjAxZVlUZDZPbFRaZTJtbktTeXZCNU9rbDhBQmVJaTZ5Z0NkTGZ0RUd1aUVMZDlkNlRDNDFmaGNZNDFyYkJ2cG5fc0hEckpCaXQwWGxKU25kMzlMYVZCMkQzMUE?oc=5",
     "title": "알리바바, AI칩 소프트웨어 무료 공개…엔비디아 CUDA에 도전장",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nac76d5c7",
     "category": "IT",
     "source": "초이스스탁US",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oOG5TdXlFLWw0ZTBUNkxqbVc3eEVUVm1WbkgxMS1IemZMVlVsWW1mVXZJd2RZQzVRWlIwenFGQ1ltSG0wOE5HQVNaQ2h5MnpJZ2xyanpUakhVRkhFcVRFcFh5bXVIelU?oc=5",
     "title": "엔비디아 고점 대비 시총 감소… AI 투자 속도 조절 속 애플 장중 1위",
     "summary": [
@@ -32,16 +32,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc281528f",
+    "id": "n44e1fd61",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbXI3d0d5MThZSVVkQ0VKNmxZaHNoQ2Q0OGZNU0Z6d1dnZk9CRTA5UGZYdW1rUHpaWFpLRUk4eWxwRGtheks5VjUyY0RQeHVNTG5vX1IyV25kcE3SAWBBVV95cUxQUXZoQW42NDVtYVp1YlVmVWNOWV9XcWlWeFhFcm43Z2haOUxVUUdrRFdyeFl2a1cxakNHVnpVWFoyZEVFb2taRFZlOS0xTzFwN09lNVpCOXFDY3ZEZTRrR0I?oc=5",
-    "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
+    "source": "문화일보",
+    "time": "21시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80a293cHFOVkpYVjdhU3hCNzMzcEhfYmwxNnp6ZkdZWG14bl9pYnJHT1J3ejc3NE1kbUpXZmVLdTNyQld2MHFlSHJBTlhZaEx0?oc=5",
+    "title": "AI 반도체 약세에…애플, 엔비디아 제치고 장중 시총 1위 탈환",
     "summary": [
-      "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환 연합뉴스."
+      "AI 반도체 약세에…애플, 엔비디아 제치고 장중 시총 1위 탈환 문화일보."
     ],
     "chips": [
+      "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -133,25 +135,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nec851840",
-    "category": "경제",
-    "source": "이투데이",
-    "time": "16일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNm9sbTdsUzYzbTZSOW5VVnNna25pd0pFQ2h4aTczdVpla1ZRWGJjLWxoRU01Rlk5b0RLb3hHTHRCckRleE1FelJBNWYwYzVreVBaMw?oc=5",
-    "title": "한은 금리 인상에 '환율ㆍ시장금리' 안정화될까⋯\"비용충격 악화가 변수\"",
-    "summary": [
-      "한은 금리 인상에 '환율ㆍ시장금리' 안정화될까⋯\"비용충격 악화가 변수\" 이투데이."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
     "id": "ne098ec77",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "17일 전",
+    "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWEI2T2RRNGVBTktrLW1KbThpRHpMRXd5TUhKdGNmeEhUcDAtTTY2M1pQSFUzdWFXdGxPbDFieXJxSC1IMi1qMzQwUFhQY0k?oc=5",
     "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
     "summary": [
@@ -182,7 +169,7 @@ window.NEWS_DB = [
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
-    "time": "22일 전",
+    "time": "23일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
@@ -198,7 +185,7 @@ window.NEWS_DB = [
     "id": "n2aad78a4",
     "category": "사회",
     "source": "스포츠동아",
-    "time": "22일 전",
+    "time": "23일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
     "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
@@ -213,7 +200,7 @@ window.NEWS_DB = [
     "id": "nfbd428d5",
     "category": "IT",
     "source": "중앙일보",
-    "time": "23일 전",
+    "time": "24일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
     "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
     "summary": [
@@ -230,7 +217,7 @@ window.NEWS_DB = [
     "id": "nba91eead",
     "category": "부동산",
     "source": "웹플러스뉴스",
-    "time": "23일 전",
+    "time": "24일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
     "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
@@ -244,7 +231,7 @@ window.NEWS_DB = [
     "id": "n207a7abe",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "25일 전",
+    "time": "26일 전",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
     "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
     "summary": [
@@ -255,10 +242,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n244b01bd",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "33일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
+    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
+    "summary": [
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
-    "time": "38일 전",
+    "time": "39일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
@@ -273,7 +274,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "50일 전",
+    "time": "51일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -288,7 +289,7 @@ window.NEWS_DB = [
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "67일 전",
+    "time": "68일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
@@ -378,257 +379,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n919b9186",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260719/134321921/1",
-    "title": "광화문광장이 물놀이장으로… 8m 미끄럼틀에 모래 놀이터까지",
-    "summary": [
-      "서울 종로구 광화문광장이 수영장과 물 미끄럼틀(워터슬라이드), 바닥분수, 모래 놀이터를 갖춘 도심 속 피서지로 변신한다.19일 서울시는 서울관광재단과 함께 20일부터 다음달 9일까지 광화문광장 일대에서 무료 물놀이 행사 ‘광화문광장 여름 상상 놀이터’를 운영한다고 밝혔다.",
-      "행사장은 △워터웨이브존 △플레이웨이브존 △플레이마켓존 등 3개 구역으로 나뉜다.",
-      "운영 시간은 오후 1시부터 10시까지이며 입장료는 없다.워터웨이브존에는 대형 수영장과 8m 높."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfaebb9e7",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260719_0003714152",
-    "title": "이창욱, 인제 나이트 레이스 우승…'폴 투 윈' 4연승 질주",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 이창욱(금호 SLM)이 2026 오네(O-NE) 슈퍼레이스 챔피언십 4라운드 토요타 가주 레이싱 6000 클래스에서 우승하며 올 시즌 4경기 연속 '폴 투 윈'을 달성했다.",
-      "이창욱은 18일 강원도 인제군 인제 스피디움(3.908㎞·24랩)에서 열린 2026 강원 국제 모터 페스타의 메인 이벤트인 슈퍼레이스 챔피언십 토요타 가주 레이싱 6000 클래스 결승에서 가장 먼저 체커기를 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n97daba14",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260719/134321148/1",
-    "title": "용인 동백지구, 27일부터 자율주행 버스 달린다",
-    "summary": [
-      "경기 용인시는 27일부터 자율주행 버스 시범노선 ‘용인A01번’ 운행을 시작한다고 19일 밝혔다.용인A01번은 2024년 12월 용인세브란스병원 일대가 자율주행 자동차 시범운행지구로 지정된 데 따른 시범노선이다.",
-      "14인승 중형버스 2대가 투입돼 평일 오전 7시 30분부터 오후 4시 30분까지 15∼30분 간격으로 운행한다.노선은 용인세브란스병원을 출발해 동백역, 동백 이마트, 동백도서관을 거쳐 다시 동백역과 용인세브란스병원으로 돌아오는 순환형이."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ndd2873aa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260719_0003714167",
-    "title": "방탄소년단, 72만 관객 '아리랑' 유럽 투어 성료…파리서 피날레",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 글로벌 슈퍼 그룹 '방탄소년단'(BTS)이 전 세계 음악 시장의 중심에서 압도적인 위상을 다시 한번 증명했다.",
-      "19일 소속사 빅히트 뮤직(하이브)에 따르면, 방탄소년단은 지난 18일(현지시간) 프랑스 파리 스타드 드 프랑스(Stade de France)에서 'BTS 월드 투어 '아리랑' 인 파리스'를 성료하며 유럽 투어의 대단원을 장식했다.",
-      "스페인 마드리드, 벨기에 브뤼셀, 영국 런던, 독일 뮌헨을 거쳐 파리로 이."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nac48bdc3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260719_0003714165",
-    "title": "\"차단선 뚫고 우르르\"…인천공항, 중국인 추정 '집단 새치기'에 몸살",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 인천국제공항에서 중국인으로 추정되는 승객들이 집단 새치기를 시도하는 사례가 반복되면서 공항 당국이 대응에 나섰다.",
-      "19일 인천공항공사에 따르면 지난 2일 새벽 인천국제공항 제1여객터미널 탑승 수속 구역에서 수십명의 승객들이 카운터 개방 직후 통제선을 무시하고 돌진하는 상황이 벌어졌다.",
-      "영상 속 승객들은 차단선 밑으로 캐리어를 밀어 넣고 허리를 숙인 채 달려나갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8f808136",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260719/134322185/1",
-    "title": "파리의 숨은 모습 찾기…골목과 사람 담은 51인의 시선",
-    "summary": [
-      "인스타그램에서 ‘해시태그 파리’(#paris)를 검색하면 사진과 영상이 약 1억5000만 건 쏟아진다.",
-      "이 게재물들은 아무래도 에펠탑이나 루브르 피라미드, 퐁네프 다리 등 유명 관광지를 찍은 게 다수다.",
-      "하지만 세계에서 몰려드는 도시인 파리의 ‘보이지 않는 모습’을 포착한 사진가 작품을 볼 수 있는 전시가 서울 성곡미술관에서 열리고 있다.미술관에서 열리고 있는 ‘파리 보이지 않는 파리’는 한국 작가 3명을 포함해 프랑스를 대표하는 작가 등 51."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4d37fabb",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260719_0003714102",
-    "title": "김용범 '레버리지 ETF' 추가 보완책 시사…'왝더독·괴리율' 잡나",
-    "summary": [
-      "[서울=뉴시스] 강수윤 기자 = 삼성전자와 SK하이닉스 단일종목 레버리지 상장지수펀드(ETF)가 주식 시장의 변동성을 키우는 이른바 '왝더독(Wag the Dog·꼬리가 몸통을 흔드는)' 현상의 주범으로 지목된 가운데 정부가 자산운용사와 증권사(LP)의 기계적 매매를 분산시키기 위한 추가 제도 개선에 나설지 주목된다.",
-      "김용범 청와대 정책실장은 19일 KBS '일요진단 라이브'에 출연해 단일종목 레버리지 ETF의 상장폐지 가능성에는 선을 그으면서."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n1ff96d8a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260719/134322496/1",
-    "title": "李, 당무개입 논란 반박…“후보 호불호 의견도 법률 위반 아냐”",
-    "summary": [
-      "이재명 대통령이 청년 기탁금 인상 문제에 의견을 낸 것을 두고 일각에서 제기된 ‘당무 개입’ 주장에 대해 공직선거법상 위법 행위와 일상적 당원 권리행사는 엄연히 다르다며 정면으로 반박했다.",
-      "또 당내 선거에서 특정 후보에 대한 대통령의 호불호 의견 역시 당무 개입이 아님을 강조했다.",
-      "유시민 작가가 앞서 이 대통령을 향해 ‘김민석을 밀어주는 등 당내 선거에 지나치게 개입하고 있다’는 비판에 대해 우회적으로 반박한 것 아니냐는 해석도 나온다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n176c485d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719038400004",
-    "title": "보완수사 요구 늘고 미제 쌓이고…경찰 '사건 적체' 해법은",
-    "summary": [
-      "(서울=연합뉴스) 한지은 조현영 기자 = 검찰의 보완수사 요구가 해마다 늘고 경찰 미제 사건이 증가하면서 형사사법 절차 전반의 지연을 막기 위한..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1350b39f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/19/MM3DIM3BGUYWIZTCGNSTSYZQMI/",
-    "title": "권상우♥손태영 子, 길거리 헌팅 당할만해..디카프리오 머리+182cm↑ \"키 또 컸어\"",
-    "summary": [
-      "[OSEN=하수정 기자] 권상우와 손태영의 첫째 아들이 시간이 지날수록 놀라운 훈남 포스를 드러냈다.19일 채널 'Mrs.뉴저지 손태영'에는 '뉴욕 핫플 다 모여있는 쇼핑 천국 소호 vlog(오랜만에 권상우)'라는 동영상이 업로드됐다.뉴욕 맨해튼에 위치한 소호에서 음식점, 카페, 옷가게 등 3시간 넘게 다양하고 알차게 쇼핑을 마친 손태영은 집이 있는 뉴저지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naa8d5d75",
+    "id": "na2628a3d",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/19/GUZWEODEG4ZGMNRUG42GMN3FGY/",
-    "title": "'올스타 휴식기 효과?' 김혜성, 홈런 포함 3안타 치더니 또 멀티히트 '쾅쾅'",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/19/MI2WIZRVGQYTIMJSMY2WIMBWME/",
+    "title": "4연패 LG 초파격 라인업! → 송찬의(좌) 문성주(중) 이재원(우) 문정빈(1루) [잠실 현장]",
     "summary": [
-      "[OSEN=조은혜 기자] 김혜성이 후반기 시작과 함께 절정의 타격감을 이어갔다.LA 다저스 산하 트리플A 오클라호마시티 코메츠의 김혜성은 19일(이하 한국시간) 미국 워싱턴주 타코마 체니 스타디움에서 열린 타코마 레이니어스(시애틀 매리너스 산하)와의 원정경기에 유격수 겸 5번타자로 선발 출전해 4타수 2안타 1득점을 기록했다.",
-      "후반기 첫 경기였던 전날 트리."
+      "[잠실=스포츠조선 한동훈 기자] LG 트윈스가 4연패를 탈출하기 위해 초파격 라인업을 꺼내들었다.",
+      "LG는 19일 잠실 KT전 연패 탈출이 절실하다.",
+      "후반기 첫 4연전에서 KT에 3경기를 내리 패했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n85a4a27c",
+    "id": "n0ad90a4f",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719039000056",
-    "title": "\"거미줄 같은 죽음의 그물\"…멸종위기 붉은바다거북 구조",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003714143",
+    "title": "관성을 깬 낯선 몰입…코르티스, '쇼'를 벗어난 첫 실험",
     "summary": [
-      "(서귀포=연합뉴스) 김호천 기자 = 제주 서귀포해양경찰서는 거미줄처럼 촘촘한 그물에 걸려 고립된 멸종위기종 붉은바다거북을 무사히 구조해 다시 바..."
+      "[서울=뉴시스]이재훈 기자 = 익숙한 관성과의 충돌은 낯섦을 낳지만, 때로는 그 낯섦이 새로운 몰입의 문을 연다.",
+      "지난 18일 인천 인스파이어 아레나에서 열린 신인류 그룹 '코르티스(CORTIS)'의 첫 단독 투어 '풋 유어 폰 다운(PUT YOUR PHONE DOWN)'을 둘러싼 분분한 반응은 K-팝 공연이 마땅히 갖춰야 할 '쇼'의 문법에 이들이 과감히 균열을 냈기 때문이다.",
+      "미니 2집 '그린그린' 타이틀곡 '레드레드'와 수록곡 '영크리에이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4cec4d9e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719038700108",
-    "title": "튀르키예, 이스탄불·앙카라 등지서 IS 연루 119명 체포",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예 내무부는 극단주의 테러조직 이슬람국가(IS)에 연루된 용의자 119명을 체포했다고 18일(현지시..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5d371add",
+    "id": "n33b08784",
     "category": "IT",
-    "source": "조선비즈IT",
-    "time": "10분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/19/7D6UHJCCLVAYLHI6MIKDEFT5AE/",
-    "title": "245수 불계패 뒤 ‘알파고 정석’으로 설욕… 신진서, 바둑 AI 카타고에 4집반승",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003714185",
+    "title": "'AI' 카타고 잡은 '인간 최강' 신진서 \"3국서도 치열한 승부\"(종합)",
     "summary": [
-      "245수 불계패 뒤 ‘알파고 정석’으로 설욕… 신진서, 바둑 AI 카타고에 4집반승."
+      "[서울=뉴시스] 하근수 기자 = 바둑 세계랭킹 1위 신진서가 인공지능(AI) 카타고(Katago)와 대결에서 첫 승을 거뒀다.",
+      "신진서는 19일 서울 중구 청파로의 한국경제TV스튜디오에서 열린 카타고와의 '쎈수학·한경 기신전' 2국에서 4시간50여분에 걸친 혈투 끝에 290수 만에 4집 반 승을 거뒀다.",
+      "지난 17일 1국에서 245수 만에 흑 불계패했던 이날 승리로 신진서는 1승1패 균형을 맞췄다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "ne1bdbbf3",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719038900005",
-    "title": "나홍진 '호프' 개봉 5일째 200만 관객 돌파…올해 최단 기록",
+    "id": "nef5db038",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260719/134322257/1",
+    "title": "‘경주마식 시세조종’ 등 가상자산 불공정거래 30여건 적발",
     "summary": [
-      "(서울=연합뉴스) 정래원 기자 = 나홍진 감독의 신작 '호프'가 개봉 5일째인 19일 200만 관객을 돌파했다."
+      "특정한 가상자산을 일정 시간대에 집중적으로 주문해 매수세를 유인하는 ‘경주마식 시세조종’ 등 가상자산 불공정거래 30여 건이 금융당국에 적발됐다.",
+      "사건당 평균 부당이득은 14억 원에 달했다.",
+      "19일 금융위원회와 금융감독원은 총 40여 건의 가상자산 불공정거래 조사를 마무리해 이 중 30여 건을 시세조종과 부정거래 혐의로 수사기관에 고발했다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4c1c611f",
-    "category": "사회",
+    "id": "n0468a54f",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/07/19/2NSWTIYNOJHB3OG24MPYFGHJ5E/",
-    "title": "‘與 전대 기탁금’ 놓고 설전… 李 “당무개입? 대통령도 당원”",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/07/19/DJ4HSQE3MBBKXHN2NOY7EG35TU/",
+    "title": "펠레 넘은 올리세, 역대 월드컵 최다 ‘7도움’ 기록 세웠다",
     "summary": [
-      "‘與 전대 기탁금’ 놓고 설전… 李 “당무개입? 대통령도 당원”."
+      "펠레 넘은 올리세, 역대 월드컵 최다 ‘7도움’ 기록 세웠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ee761ed",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003714209",
+    "title": "인천서 고가도로 교각 들이받은 승용차 운전자 사망",
+    "summary": [
+      "[인천=뉴시스] 이루비 기자 = 19일 오전 8시20분께 인천 서해구 석남동 북항사거리에서 청라국제도시 방향으로 운행하던 승용차가 고가도로 아래 교각을 들이받았다.",
+      "이 사고로 운전자 A(60대)씨가 크게 다쳐 119구급대에 의해 인근 병원으로 이송됐으나 결국 숨졌다.",
+      "경찰은 현장 폐쇄회로(CC)TV 영상 등을 토대로 정확한 사고 원인을 조사 중이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n9d378012",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/19/MRQWINRZGFRTEMJQGY3TENJSMU/",
+    "title": "'김현준 리드오프' '천적' 줄줄이 전면배치...삼성, 김진욱 맞춤형 저격 라인업 공개",
+    "summary": [
+      "[대구=스포츠조선 정현석 기자]삼성 라이온즈가 김진욱 맞춤 라인업을 들고 나왔다.",
+      "삼성은 19일 대구 삼성라이온즈파크에서 열리는 롯데 자이언츠와의 홈경기를 앞두고 상대 선발인 '좌완 파이어볼러' 김진욱을 겨냥한 선발 라인업을 발표했다.",
+      "김현준(중견수)-김성윤(우익수)-구자욱(좌익수)-최형우(지명타자)-디아즈(1루수)-전병우(3루수)-류지혁(2루수)-김도환(."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned0ca0c7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719041800109",
+    "title": "끝없는 보복전…러, 키이우에 '최대 규모' 탄도미사일 공격",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 러시아와 우크라이나가 주말 동안 상대국 후방 도심을 겨냥한 대규모 공격을 주고받으면서 민간인 사상자가 속출했..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9d9830bb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003714148",
+    "title": "\"동일본 대지진 직전과 똑같다…대형 지진 가능성 우려\"",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 일본에서 하루 사이 규모 5점대 지진이 연달아 발생하자 국내 지질학자가 대형 지진 가능성을 경고하고 나섰다.",
+      "부산대 지질환경과학과 김기범 교수는 17일 유튜브 채널 '보다'에 출연해 일본 지진 상황을 분석했다.",
+      "그는 \"지난 베네수엘라 대지진 이후 이틀 뒤 일본 지역에서 총 세 건의 지진이 발생했다\"며 각각의 의미를 짚었다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nc433d046",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260719/134322229/1",
+    "title": "스타벅스코리아, 국내 커피 프랜차이즈 업계 최초로 노조 설립",
+    "summary": [
+      "스타벅스코리아에 국내 커피 프랜차이즈 업계 최초의 노동조합이 설립됐다.19일 스타벅스 등에 따르면 회사 소속 일부 노동자들이 16일 전국민주노동조합총연맹(민노총) 산하 전국화학섬유식품산업노동조합연맹에 스타벅스지회를 열었다.",
+      "이들은 공식 홈페이지를 통해 “회사는 허울뿐인 방식으로 파트너들과의 소통 창구를 제한했고, 직접적인 해결 방안보다 어르고 달래는 방법으로 당장의 이슈를 무마했다”며 “노조라는 하나의 목소리로 개선을 요구한다”며 설립 배경을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1a77b09c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/19/2026071915501410529",
+    "title": "'4연승→이후 2승 7패' 무너진 김건우, \"본인에게도 오늘이 중요하다\"는 감독... 반등 신호탄 쏠까 [인천 현장]",
+    "summary": [
+      "김광현이 부상으로 빠진 자리를 채우는 걸 넘어서 토종 1선발로 낙점됐다.",
+      "전반기 4연승, 평균자책점(ERA) 3.23으로 맹활약했으나 이후 단 7패를 떠안는 동안 2승을 더하는데 그쳤다.",
+      "김건우(24·SSG 랜더스)에게도, SSG에도 중요한 경기다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf0b5cd3b",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/19/2026071916040065737",
+    "title": "소방관도 탈진, 병원 실려갔다...인천 '쿠팡 물류센터' 화재 33시간째",
+    "summary": [
+      "인천 서구 석남동 쿠팡 물류센터 화재가 30시간 넘게 이어지고 있는 가운데 진화 작업에 투입된 소방대원이 탈진 증상을 보여 병원으로 이송됐다.",
+      "19일 뉴시스에 따르면 인천소방본부는 전날 오전 6시50분쯤 인천 서해구 석남동 쿠팡 물류센터 8층짜리 건물 6층에서 불이 났다.",
+      "불은 건물 외벽을 타고 6층에서 7층까지 번졌으며, 신고 접수 33시간이 넘은 이날 오후 4시까지도 완전히 꺼지지 않았다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nbb147bac",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260719/134322063/1",
+    "title": "“트럼프 SNS 먼저 보려면 월 1억5000만원”…이해충돌 논란 불가피",
+    "summary": [
+      "도널드 트럼프 미국 대통령과 일부 미국 장관들의 트루스소셜 글을 수 밀리초(1밀리초는 1000분의 1초) 일찍 받아볼 수 있는 유료 서비스가 내달 1일 출시된다.",
+      "17일 영국 일간 파이낸설타임스(FT) 등에 따르면 ‘트럼프 미디어 & 테크놀로지 그룹(TMTG)’는 자신들이 운영하는 소셜미디어(SNS)인 트루스소셜 게시물을 일반 이용자들보다 빠르게 받는 유료 서비스인 ‘트루스 API’를 출시하고, 이용료로 월 최대 10만 달러(약 1억4900만원."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n19b2c21f",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "35분 전",
-    "url": "https://www.hankyung.com/article/202607192596i",
-    "title": "中 지리차가 신기술 공개하면서 '메시' 찬양한 이유 [차이나 워치]",
+    "id": "n4932c2bd",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719042000007",
+    "title": "나마디 조엘진, 남자 100ｍ 10초13…선수 기준 역대 2위 타이",
     "summary": [
-      "中 지리차가 신기술 공개하면서 '메시' 찬양한 이유 [차이나 워치]."
+      "(서울=연합뉴스) 김경윤 기자 = 한국 육상 단거리 기대주 나마디 조엘진(예천군청)이 '선수 기준' 남자 100ｍ 한국 역대 2위 타이기록을 세..."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n803e2b6c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719041400083",
+    "title": "中 SNS서 미리 퍼지는 '공직자 낙마' 소식…관영매체 \"처벌해야\"",
+    "summary": [
+      "(베이징=연합뉴스) 정성조 특파원 = 최근 중국 공직자들의 실각 소식이 사전에 소셜미디어를 통해 알려지는 일이 늘자 중국 관영매체가 온라인 단속..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9af116bf",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/stock/2026/07/19/2026071914252020031",
+    "title": "\"자회사 연속 상장 차단\"…중복상장 금지 영향권 들어온 이 기업",
+    "summary": [
+      "주간 베스트리포트 머니투데이 증권부가 선정한 7월 셋재주(13~16일) 베스트리포트는 △장재혁 메리츠증권 연구원이 LS에 대해 분석한 '자회사 중복상장 가이드라인 업데이트' △장영임 SK증권 연구원이 미래에셋증권에 대해 작성한 '2Q26 프리뷰: 예견된 스페이스X 대규모 평가이익' △ 김영건 미래에셋증권 연구원이 SK하이닉스에 대해 분석한 '시선을 약간만 아래로' 등 3건입니다.",
+      "━\"중복상장 규제, LS그룹 자회사 연쇄 상장 시나리오 차단\"━장."
+    ],
+    "chips": [
+      "#SK하이닉스",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n0b614c23",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719041300005",
+    "title": "BTS, '아리랑' 유럽 투어로 71만7천명 동원…파리서 대미 장식",
+    "summary": [
+      "(서울=연합뉴스) 김선우 기자 = 그룹 방탄소년단이 '아리랑'(ARIRANG) 유럽 투어로 71만명이 넘는 관객을 동원했다고 빅히트 뮤직이 19..."
+    ],
+    "chips": [
+      "#환경"
     ]
   }
 ];
@@ -638,18 +645,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
+    "tag": "KBO",
     "mentions": "1420건",
     "trend": "+115%"
   }
