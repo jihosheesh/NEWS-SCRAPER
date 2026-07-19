@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-19 22:16:07
+// 마지막 업데이트: 2026-07-19 23:17:36
 window.NEWS_DB = [
   {
     "id": "nb1b9ef35",
     "category": "IT",
     "source": "조선일보",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnJSZHlVTzlYRVBxdkUwOVl0bXk0Z0JqQXNwWGJ0WUYzTTh6ajdLZmhRZ0JFVkhCYnBkdS10MWVwTXZQN19SNm1yVlYxb0J5b1dSYXZaZFNLUVA4MUU3aXd4YVBYRnpLTGl1RWtjZllXTDctZ2FMa0UtV0hyNmxxV2JrWQ?oc=5",
     "title": "알리바바, 엔비디아에 도전장… AI 소프트웨어 무료 공개",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n315a413f",
     "category": "IT",
     "source": "월요신문",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kbjlmTkhnRi1vVS1fYzlvckxJdk9rNHNFRktxRzVFSFR0OHowODM4dWE2dks1TnAwOHF2R1Y2QWpWYTBZVUIyaU11ME11dXp1VDFvNnl6WURzbUE3NTlxbXZlV0c3LWN1bUE?oc=5",
     "title": "삼성 파운드리發 인력 대이동 조짐…반도체 채용시장 들썩",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n9f206858",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WWXNuVDVOcWtHMGRCdjRHa2hOaUJlWGVLWGkzNVBobFRFV2xtMGFmLXNjZ09hRVd5Zk1lWVFUZHRuUFlOblpUazVpa0pYa2lEV2tqNlA2UjZyUDBxM1BMUdIBYEFVX3lxTE9WWXNuVDVOcWtHMGRCdjRHa2hOaUJlWGVLWGkzNVBobFRFV2xtMGFmLXNjZ09hRVd5Zk1lWVFUZHRuUFlOblpUazVpa0pYa2lEV2tqNlA2UjZyUDBxM1BMUQ?oc=5",
     "title": "中알리바바, AI칩 소프트웨어 무료 공개…엔비디아 쿠다 대항마",
     "summary": [
@@ -47,14 +47,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb9485281",
+    "id": "n44e1fd61",
     "category": "IT",
-    "source": "광교신문",
-    "time": "18시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pcTJ6bjdHYndMY01WWml0dGxHLTdsOFdSeUVPaGNoU2JOX2JBU3h4M1cwcGNVdTl4c3dSU3RzRElNSS1jaEs5cTd6UjJpdzRPYjVzSEFTSlpwaGNkV3NyNVNZUzNVMXJO0gFsQVVfeXFMUDVTOW1uQUh2X3NwRzV3R2toc2NIOS1wUVVMazJuVHAzSmhTRmQ0bkY1Z3JlSkIzQllrOVVkS2h4ZGdaV2dOaEl4SkJ2eEdZWVBsVDc5aWlrQ0xuYXFJRVZzYUh3VlpnM3ZzSjl5?oc=5",
-    "title": "엔비디아 이후를 준비하는 빅테크…AI 반도체 독립 전쟁",
+    "source": "문화일보",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80a293cHFOVkpYVjdhU3hCNzMzcEhfYmwxNnp6ZkdZWG14bl9pYnJHT1J3ejc3NE1kbUpXZmVLdTNyQld2MHFlSHJBTlhZaEx0?oc=5",
+    "title": "AI 반도체 약세에…애플, 엔비디아 제치고 장중 시총 1위 탈환",
     "summary": [
-      "엔비디아 이후를 준비하는 빅테크…AI 반도체 독립 전쟁 광교신문."
+      "AI 반도체 약세에…애플, 엔비디아 제치고 장중 시총 1위 탈환 문화일보."
     ],
     "chips": [
       "#AI",
@@ -317,304 +317,312 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n769d4852",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026072007123322092",
-    "title": "[날씨]출근길 우산 챙기세요…비 내려도 '찜통더위'",
+    "id": "n20f22206",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003714447",
+    "title": "한울반도체, MLCC 전수검사 시스템 개발…양산 공급 협의",
     "summary": [
-      "월요일인 20일은 중부지방을 중심으로 많은 비가 내리겠다.",
-      "기상청에 따르면 전국에 비가 내리는 가운데 남부지방은 소강상태를 보이겠다.",
-      "예상 강수량은 ▲서울·인천·경기 20~60㎜ ▲서해5도 5~20㎜ ▲강원내륙·산지 5~40㎜ ▲강원 동해안 5~20㎜ ▲대전·세종·충남, 충북 20~80㎜ ▲광주·전남, 전북 5~40㎜ ▲경북 중·북부 20~60㎜ ▲대구·경북 남부 5~40㎜ ▲경남 내륙 5~20㎜ ▲울릉도·독도 5~10㎜ ▲제주 5~20㎜ 등이."
+      "[서울=뉴시스] 김경택 기자 = 한울반도체는 인공지능(AI) 기반 적층세라믹콘덴서(MLCC) 전수검사 시스템 개발을 완료하고 글로벌 고객사들과 양산 공급 협의에 나선다고 20일 밝혔다.",
+      "회사 측에 따르면 AI 서버와 자율주행차, 전기차 확산으로 반도체와 전자부품 산업의 품질 기준이 빠르게 높아지고 있다.",
+      "과거에는 생산품 일부만 검사하는 샘플링 검사가 일반적이었다면 현재는 생산된 제품 전체를 검사하는 전수검사가 새로운 기준으로 자리 잡고 있다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n13f1e1a3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003714444",
+    "title": "오리엔트바이오 \"연구용 영장류 공급 부족…CRO사업 수혜 기대\"",
+    "summary": [
+      "[서울=뉴시스] 김경택 기자 = 바이오 인프라 전문기업 오리엔트바이오는 글로벌 신약개발 확대에 따른 연구용 영장류 공급 부족이 이어지면서 비임상시험(CRO) 사업의 수혜가 기대된다고 20일 밝혔다.",
+      "회사 측에 따르면 오리엔트바이오는 지난 15일 관계회사 오리엔트캄(Orient Cam)과 영장류 CRO 독점사업권 계약을 체결했다.",
+      "오리엔트바이오의 비임상시험 수행 역량과 오리엔트캄의 연구용 영장류 생산 기반을 결합해 비임상 CRO 사업의 글로벌 경."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8cf001b3",
+    "id": "n5f88eaf6",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003714441",
+    "title": "동양, 주식병합 마무리…거래 재개",
+    "summary": [
+      "[서울=뉴시스] 김경택 기자 = 건자재 전문기업 동양은 주식병합 절차를 마무리하고 거래를 재개한다고 20일 밝혔다.",
+      "회사 측에 따르면 동양은 지난달 22일 임시주주총회에서 액면가를 500원에서 1000원으로 높이는 2대 1 병합 안건을 승인했다.",
+      "앞서 동양은 지난달 발행주식 총수의 10.26%인 약 719억원에 해당하는 자사주를 소각하고 이번 2대 1 주식병합을 완료했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbf0061e0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260720/134325719/2",
+    "title": "“홍수 현장서 폭우 맞으며 끼니 해결한 소방관”…中 감동",
+    "summary": [
+      "중국 남서부 홍수 피해 현장에서 수해 복구 작업을 하던 중 폭우를 맞으며 도시락으로 끼니를 해결하는 소방관의 모습이 포착돼 깊은 감동을 주고 있다.",
+      "17일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 최근 온라인상에는 광시좡족 자치구 구이강시에서 한 행인이 촬영한 영상이 확산했다.",
+      "해당 영상에는 광둥성 남부 자오칭 소방서 소속 소방관 리앙환 대원이 구조 작업 중 휴식 시간에 도시락을 먹고 있는 모습이 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n889c09b0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003714446",
+    "title": "삼성바이오, 펩타이드 CDMO 인수…2.7조 규모",
+    "summary": [
+      "[서울=뉴시스]황재희 기자 = 삼성바이오로직스가 국내 바이오업계 최대 규모의 M&A(인수합병)에 나섰다.",
+      "글로벌 펩타이드 CDMO(위탁개발생산) 기업을 인수하면서 비만·당뇨 의약품 분야에 본격 진출한다.",
+      "삼성바이오로직스는 글로벌 펩타이드 CDMO 기업인 폴리펩타이드 그룹(PolyPeptide Group)과 인수 계약을 체결했다고 20일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd92d82c7",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720017000008",
+    "title": "[마켓뷰] 美 증시 약세·중동정세 격화…코스피 변동성 커지나",
+    "summary": [
+      "(서울=연합뉴스) 임은진 기자 = 20일 코스피는 지난주 말 반도체주 하락에 따른 미국 증시 약세와 격화한 중동 지역 정세 영향에 부담을 안고 ..."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n8e6016bf",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/20/GFQTIMJWGE4DENTEGAYGMNRUGM/",
+    "title": "센터백 둘 쓰러지고 엔소는 퇴장..교체 카드까지 잃은 아르헨티나, 결승서 스스로 무너졌다",
+    "summary": [
+      "[OSEN=정승우 기자] 선발 센터백 두 명이 차례로 쓰러졌고 중원의 핵심은 정규시간 종료 직전 퇴장당했다.",
+      "리오넬 스칼로니 감독은 부상에 대응하느라 교체 카드를 빠르게 소진했다.",
+      "아르헨티나의 월드컵 결승전은 스페인에 밀린 것만으로 설명하기 어려웠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc4ec6638",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260720010000004",
-    "title": "서초구, 청계산입구역 일대에 '태극기 배너형 조명'",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720018700004",
+    "title": "한양도성 '다산성곽길' 새 단장 마쳐…\"서울 대표 산책 명소\"",
     "summary": [
-      "(서울=연합뉴스) 정준영 기자 = 서울 서초구(구청장 전성수)는 청계산입구역 인근 청계산로의 가로등 배너형 조명에 태극기를 결합한 '태극기 배너..."
+      "(서울=연합뉴스) 정준영 기자 = 서울 중구(구청장 김길성)는 한양도성 남산 구간인 다산성곽길에 대한 감성가로 조성공사를 마쳤다고 20일 밝혔다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3ca8cc2e",
+    "id": "n14a350f0",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026071316274328226",
-    "title": "'러닝 열풍' 타고 이온음료 2000억대 성장",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720018300005",
+    "title": "싸이 '강남스타일' MV, K팝 최초 유튜브 60억뷰 대기록",
     "summary": [
-      "'헬시 플레저(Healthy Pleasure)' 트렌드의 확산과 러닝과 등산 등 운동을 즐기는 인구가 늘면서 국내 이온음료 시장 성장세가 가파르다.",
-      "20일 시장조사기관 엠브레인이 최근 3년간 이온음료 구매 데이터를 분석한 결과에 따르면 지난해 7월부터 올해 6월까지 구매 추정액은 2048억원으로 전년 대비 7%가량 늘었다.",
-      "이온음료 구매 추정액은 2023년 1900억원대에서 사실상 제자리걸음을 보이다 지난해 하반기부터 급증한 것이다."
+      "(서울=연합뉴스) 이태수 기자 = 가수 싸이의 글로벌 히트곡 '강남스타일' 뮤직비디오가 K팝 사상 최초로 유튜브 조회 수 60억건을 돌파했다고 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n61a7902e",
-    "category": "사회",
+    "id": "n599383be",
+    "category": "경제",
     "source": "연합뉴스(경제)",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260716135700057",
-    "title": "울주복지재단, 설립 이후 올해 최대 규모 직원 채용",
+    "url": "https://www.yna.co.kr/view/AKR20260720017900017",
+    "title": "삼성바이오, 폴리펩타이드 그룹 인수…약 2조7천억원 규모",
     "summary": [
-      "(울산=연합뉴스) 장영은 기자 = 울산 울주복지재단은 '2026년 제1회 직원 채용' 원서 접수를 하고 있다고 20일 밝혔다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "ne9bc2454",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003714367",
-    "title": "미-이란 MOU 파국·미군 사망자 17명·요르단 피습…이스라엘 ‘3차 공습’ 재개하나",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 미국과 함께 2월 이란 공격에 나섰던 이스라엘은 4월 미국과 이란간 휴전 이후 이란 본토에 대한 공습은 중단했다.",
-      "이스라엘은 호르무즈 해협 봉쇄를 둘러싼 미국과 이란간의 산발적인 공습에도 레바논의 헤즈볼라에 대한 공격 외에는 도널드 트럼프 대통령의 ‘확전 자제’ 요청을 따랐다.",
-      "하지만 이란 전쟁의 한 축이었던 이스라엘의 본토 공격이 다시 재개될 지가 관심으로 떠오르고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n515f7ed2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/20/MNSTCNRQGMZTONBTMIZTGNJZGQ/",
-    "title": "\"JTBC 어려워\"→\"시청률 잘 나와야\" '냉부' 안정환·김풍 연이어 절박한 호소[종합]",
-    "summary": [
-      "[스포츠조선 조민정 기자] \"지금 JTBC가 어려워서\" \"시청률 정말 잘 나와야 됩니다\" JTBC의 경영난이 현실화되는 가운데 인기 예능 프로 '냉장고를 부탁해' 출연진이 본방송과 다음 회 예고편에서 연이어 방송사의 현 상황을 떠올리게 하는 발언을 연이어 하고, 제작진은 이를 편집 없이 내보냈다.",
-      "안정환이 JTBC의 어려움을 직접 언급한 데 이어 김풍까지."
+      "(서울=연합뉴스) 신선미 기자 = 삼성바이오로직스[207940]는 글로벌 펩타이드 위탁개발생산(CDMO) 기업을 인수하며 비만·당뇨 치료제 핵심..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb9f5380e",
+    "id": "n0f77dca1",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720014900051",
+    "title": "부산 글로벌창업이민센터 개소…외국인 창업 지원",
+    "summary": [
+      "(부산=연합뉴스) 민영규 기자 = 부산시는 20일 오후 2시 부산유라시아플랫폼에서 '부산 글로벌창업이민센터' 개소식을 하고 본격 운영에 들어간다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd6fbeb99",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "15분 전",
+    "url": "https://www.hankyung.com/article/2026072032866",
+    "title": "반도체 흔들려도 TSMC는 TSMC…\"첨단 공정 지배력 더 커져\"",
+    "summary": [
+      "반도체 흔들려도 TSMC는 TSMC…\"첨단 공정 지배력 더 커져\"."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "naa416c96",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716161300003",
+    "title": "LG TV, 미국 IT매체 선정 화질·콘텐츠 응답속도 최고평가",
+    "summary": [
+      "(서울=연합뉴스) 임성호 기자 = LG전자 TV가 미국 일반 소비자 대상 제품 평가에서 최고점을 획득했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb7e79e0",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "16분 전",
+    "url": "https://www.hankyung.com/article/202607156816i",
+    "title": "실적은 버티는데 주가는 최저점…카카오에 쏟아진 \"AI로 증명하라\"",
+    "summary": [
+      "실적은 버티는데 주가는 최저점…카카오에 쏟아진 \"AI로 증명하라\"."
+    ],
+    "chips": [
+      "#AI",
+      "#카카오"
+    ]
+  },
+  {
+    "id": "nfce748cb",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260716148600008",
+    "title": "'홈플러스 사태' MBK, 오스템임플란트도 구조조정 논란",
+    "summary": [
+      "(서울=연합뉴스) 정회인 기자 = 홈플러스 사태로 사모펀드(PEF)의 인수기업 경영 방식에 대한 비판이 커진 가운데 PEF 운용사인 MBK파트너..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1b62c7c",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "16분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/20/OGE63IEMEJBMXIQGQIWQB5EPYA/",
+    "title": "[알립니다] 젠슨 황·손정의가 알아본 ‘로봇 뇌’ 유니콘 한국 온다… ‘스마트클라우드쇼’ 8월 26일 개최",
+    "summary": [
+      "[알립니다] 젠슨 황·손정의가 알아본 ‘로봇 뇌’ 유니콘 한국 온다… ‘스마트클라우드쇼’ 8월 26일 개최."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nf3d9ec81",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260720/134325480/1",
-    "title": "[속보]토레스 결승골…무적함대 스페인, 16년만에 월드컵 우승",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260720/134325413/1",
+    "title": "패전도, 실점도 대구뿐…‘집에서만 새는’ 세이브 1위 김재윤 [베이스볼 비키니]",
     "summary": [
-      "토레스 결승골…무적함대 스페인, 16년만에 월드컵 우승."
+      "김재윤(36·삼성)은 대구 안팎에서 다른 투수가 됩니다.김재윤은 19일 대구 안방경기에서 팀이 롯데에 8-7로 앞서가던 9회초에 마운드에 올랐습니다.그리고 1사 1, 2루 상황에서 대타 노진혁(37)에게 동점을 허용한 뒤 마운드에서 내려갔습니다.마운드를 이어받은 이승민(26)이 2사 만루 위기에서 전민재(27)에게 싹쓸이 2루타를 맞으면서 김재윤의 자책점도 3점으로 늘었습니다.물론 이 경기 패전도 현재 세이브 1위(23세이브) 김재윤에게 돌아갔."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf51f8153",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003714378",
-    "title": "안정환 \"JTBC 어려워서…\" 회생절차 언급",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 축구선수 출신 안정환이 JTBC의 경영 위기 상황을 정면 언급했다.",
-      "지난 19일 방송된 JTBC 요리 예능물 '냉장고를 부탁해 since 2014'에서는 새로 합류한 유용욱 셰프의 일화가 공개됐다.",
-      "이 과정에서 출연진 사이의 출연료 조정과 인원 감축에 대한 얘기가 오가자, MC 안정환은 \"지금 정말 그럴 판이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n57f6e861",
+    "id": "n37309b03",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260720000351071",
-    "title": "美·이란, '응징과 보복' 악순환 수렁…전면전 한층 가까워져(종합)",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260716/134312103/2",
+    "title": "“왜 이렇게 싸지?”…경매 초보가 피해야 할 권리 3가지 [집과법]",
     "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국과 이란의 교전이 응징과 보복의 악순환 양상을 띠며 격화하고 있다.",
-      "전면전 재개가 임박했다는 관측 속에..."
+      "시세보다 싼 경매 물건에는 이유가 있다.",
+      "유치권·법정지상권·분묘기지권 등 경매 초보가 반드시 알아야 할 위험 권리와 확인법을 정리했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc24f16b3",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260720009200007",
-    "title": "[1보][월드컵] 스페인 16년 만에 우승…메시의 아르헨에 1-0 연장승",
-    "summary": [
-      "(뉴욕·서울=연합뉴스) 박성민 특파원 안홍석 기자 = '무적함대' 스페인이 리오넬 메시가 '라스트 탱고'를 춘 아르헨티나를 물리치고 2026 북..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f106c70",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/20/GE2WEMTEGNSTCNZUGU4TQYJQMU/",
-    "title": "'돌아온 무적함대' 스페인, 메시 라스트 댄스 망쳤다! 아르헨티나 1-0 꺾고 월드컵 우승...16년 만에 '두 번째 별' 달았다",
-    "summary": [
-      "[OSEN=고성환 기자] 리오넬 메시(39, 인터 마이애미)의 라스트 댄스는 해피엔딩이 아니었다.",
-      "스페인이 페란 토레스(26, 바르셀로나)의 천금 같은 결승골에 힘입어 월드컵 챔피언 자리에 올랐다.스페인은 20일 오전 4시(한국시간) 미국 뉴저지주 이스트러더퍼드의 뉴욕 뉴저지 스타디움에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 결승전에서 연장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d4a1ce6",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003714380",
-    "title": "[속보]'무적 함대' 스페인, 아르헨 꺾고 16년 만에 두 번째 월드컵 우승",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9ec19ae7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/07/20/W6VFEL374BE6TJAHUINFLGQBSY/",
-    "title": "‘무적 함대’ 스페인, 아르헨티나 꺾고 2026 북중미 월드컵 우승",
-    "summary": [
-      "‘무적 함대’ 스페인, 아르헨티나 꺾고 2026 북중미 월드컵 우승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb499ab56",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026072007023762753",
-    "title": "[속보]스페인, 아르헨에 1-0 승리 '16년만에 월드컵 정상'",
-    "summary": [
-      "스페인이 디펜딩 챔피언 아르헨티나를 꺾고 2010 남아프리카공화국 대회 우승 이후 16년 만에 두 번째 월드컵 우승 트로피를 품었다.",
-      "스페인은 20일(한국시간) 미국 뉴저지주 이스트러더퍼드의 뉴욕 뉴저지 스타디움에서 열린 2026 북중미 월드컵 결승에서 연장 후반 1분에 터진 페란 토레스의 결승골에 힘입어 아르헨티나를 1-0으로 제압했다.",
-      "스페인이 연장전 후반 종료 직전 아르헨티나에 첫 슈팅을 허용할 정도로 일방적으로 몰."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndbd2ee8f",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "13분 전",
-    "url": "https://www.hankyung.com/article/202607203202H",
-    "title": "[속보] '무적함대' 스페인, 월드컵 우승…아르헨티나에 1-0 승리",
-    "summary": [
-      "[속보] '무적함대' 스페인, 월드컵 우승…아르헨티나에 1-0 승리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1abf3f3a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003714372",
-    "title": "[속보]북중미 월드컵 결승전 스페인 1-0 아르헨티나(연장 후반 종료)",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n680ff70e",
+    "id": "ne280c6e9",
     "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713138300017",
-    "title": "[사다리밖 2030] ⑥ AI 시대, 첫 직장이 사라진다…'경력 사다리' 흔들",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260716/134312928/1",
+    "title": "유일로보틱스-삼성웰스토리, 식음료 로봇 자동화 ‘맞손’",
     "summary": [
-      "(서울=연합뉴스) 한상용 김주환 기자 = 올해 신입 공채를 통해 게임 회사 엔씨소프트에 입사한 게임디자이너 김은호(가명)씨는 캐릭터 성장 구조를..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ncb68a82d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/202607181908i",
-    "title": "해조류·머드로 K뷰티 시장 바늘 꽂은 태광그룹 \"美서 승부 보겠다\" [장서우의 하입:hype]",
-    "summary": [
-      "해조류·머드로 K뷰티 시장 바늘 꽂은 태광그룹 \"美서 승부 보겠다\" [장서우의 하입:hype]."
+      "유일로보틱스의 산업용 로봇 및 자동화 기술과 삼성웰스토리의 식음료 비즈니스 인프라가 만나, 최근 수요가 증가하고 있는 푸드테크 시장에서의 시너지 창출을 위해 손을 잡았다.",
+      "유일로보틱스는 지난 13일 삼성웰스토리와 식음사업 분야의 로봇 자동화 확대 및 공동 기술개발을 위한 업무협약(MOU)을 체결했다고 밝혔다.",
+      "이번 협약은 식음사업과 로봇 제조·활용 분야에서 양사의 전략적 협력체계를 구축하고, 상호 경영자원을 활용해 사업 경쟁력을 강화하며 사업."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8b58e8cc",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260713105800003",
-    "title": "[사다리밖 2030] ③ 서울에선 돈이 안 모인다…월세에 미래가 막힌 청년들",
+    "id": "n52b6a743",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/2026072032726",
+    "title": "\"하나마이크론, 2분기 실적 예상치 웃돌 전망…목표가↑\"-한국",
     "summary": [
-      "(세종=연합뉴스) 오진송 기자 = \"지난 5년간 서울에서 살면서 서울이 집이라고 느껴본 적은 없었어요.",
-      "그저 방 한 칸을 내어준 느낌이죠."
+      "\"하나마이크론, 2분기 실적 예상치 웃돌 전망…목표가↑\"-한국."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "naaf472c1",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260715121700030",
-    "title": "[사다리밖 2030] ② \"경력은 필요한데\"…청년들, 첫 직장으로 중소기업은 '외면'",
-    "summary": [
-      "(서울=연합뉴스) 구정모 이상서 기자 = 기업들이 직무 경험을 갖춘 인재를 선호하는 채용 기조가 확산하면서 청년들은 '경력'이라는 또 하나의 취..."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n49fc3532",
-    "category": "경제",
+    "id": "n8ae964f9",
+    "category": "스포츠",
     "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/202607193029i",
-    "title": "싱가포르로 몰린 인도산 납…런던금속거래소 재고 급증 배경은?",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/202607203238H",
+    "title": "'39세' 메시 막은 '19세' 야말…스페인, 월드컵 2번째 우승 [종합]",
     "summary": [
-      "싱가포르로 몰린 인도산 납…런던금속거래소 재고 급증 배경은?."
+      "'39세' 메시 막은 '19세' 야말…스페인, 월드컵 2번째 우승 [종합]."
     ],
     "chips": [
       "#뉴스"
@@ -627,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "채용",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
