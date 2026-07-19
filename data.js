@@ -1,18 +1,49 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-19 14:27:17
+// 마지막 업데이트: 2026-07-19 15:19:40
 window.NEWS_DB = [
   {
-    "id": "n525a80ab",
+    "id": "n315a413f",
     "category": "IT",
-    "source": "OBC 뉴스",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42LVF2eXVOcjAxZVlUZDZPbFRaZTJtbktTeXZCNU9rbDhBQmVJaTZ5Z0NkTGZ0RUd1aUVMZDlkNlRDNDFmaGNZNDFyYkJ2cG5fc0hEckpCaXQwWGxKU25kMzlMYVZCMkQzMUE?oc=5",
-    "title": "알리바바, AI칩 소프트웨어 무료 공개…엔비디아 CUDA에 도전장",
+    "source": "월요신문",
+    "time": "14분 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kbjlmTkhnRi1vVS1fYzlvckxJdk9rNHNFRktxRzVFSFR0OHowODM4dWE2dks1TnAwOHF2R1Y2QWpWYTBZVUIyaU11ME11dXp1VDFvNnl6WURzbUE3NTlxbXZlV0c3LWN1bUE?oc=5",
+    "title": "삼성 파운드리發 인력 대이동 조짐…반도체 채용시장 들썩",
     "summary": [
-      "알리바바, AI칩 소프트웨어 무료 공개…엔비디아 CUDA에 도전장 OBC 뉴스."
+      "삼성 파운드리發 인력 대이동 조짐…반도체 채용시장 들썩 월요신문."
+    ],
+    "chips": [
+      "#반도체",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n9f206858",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WWXNuVDVOcWtHMGRCdjRHa2hOaUJlWGVLWGkzNVBobFRFV2xtMGFmLXNjZ09hRVd5Zk1lWVFUZHRuUFlOblpUazVpa0pYa2lEV2tqNlA2UjZyUDBxM1BMUdIBYEFVX3lxTE9WWXNuVDVOcWtHMGRCdjRHa2hOaUJlWGVLWGkzNVBobFRFV2xtMGFmLXNjZ09hRVd5Zk1lWVFUZHRuUFlOblpUazVpa0pYa2lEV2tqNlA2UjZyUDBxM1BMUQ?oc=5",
+    "title": "中알리바바, AI칩 소프트웨어 무료 공개…엔비디아 쿠다 대항마",
+    "summary": [
+      "中알리바바, AI칩 소프트웨어 무료 공개…엔비디아 쿠다 대항마 연합뉴스."
     ],
     "chips": [
       "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nb9485281",
+    "category": "IT",
+    "source": "광교신문",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pcTJ6bjdHYndMY01WWml0dGxHLTdsOFdSeUVPaGNoU2JOX2JBU3h4M1cwcGNVdTl4c3dSU3RzRElNSS1jaEs5cTd6UjJpdzRPYjVzSEFTSlpwaGNkV3NyNVNZUzNVMXJO0gFsQVVfeXFMUDVTOW1uQUh2X3NwRzV3R2toc2NIOS1wUVVMazJuVHAzSmhTRmQ0bkY1Z3JlSkIzQllrOVVkS2h4ZGdaV2dOaEl4SkJ2eEdZWVBsVDc5aWlrQ0xuYXFJRVZzYUh3VlpnM3ZzSjl5?oc=5",
+    "title": "엔비디아 이후를 준비하는 빅테크…AI 반도체 독립 전쟁",
+    "summary": [
+      "엔비디아 이후를 준비하는 빅테크…AI 반도체 독립 전쟁 광교신문."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -28,22 +59,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n6f1df12e",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44cE5jZGYzS29PT3VlX2drVEg4bE5tdHAxM3lGTFJHRS1ZZHRpVkZtNVV3WFUwR1RsQ3Q1ZGJmOWNZWFItMGc?oc=5",
-    "title": "AI 반도체 약세에…애플, 장중 엔비디아 꺾고 시총 1위 탈환",
-    "summary": [
-      "AI 반도체 약세에…애플, 장중 엔비디아 꺾고 시총 1위 탈환 v.daum.net."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
       "#엔비디아"
     ]
   },
@@ -121,17 +136,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n18f2a499",
-    "category": "IT",
-    "source": "미디어펜",
+    "id": "n8f783357",
+    "category": "경제",
+    "source": "v.daum.net",
     "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dS1uaWR2QXZsMGdESlVJSVNRbEVOcjV6YXMzWlVMOGF3cHRlbDEyQmFWZko3NkdTallrYm82UHFxODlTOWRld3UtUHROYml2T0UzTw?oc=5",
-    "title": "[반도체 승부수②] '올인원' 삼성 vs '초연합' 하이닉스…HBM4 생존 방정식",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QaU9zRmdZNTlEa0RlUUZ5d0hGSEd1Q01ZWGY2UGE1Nk9UYmhXRGdnNk55RzZES3otQ3BoOWw4ZUxMM08zWU1lUE9VazU1c0k?oc=5",
+    "title": "지난달 외국인 48조원 순유출…환율 일평균 7.6원 변동",
     "summary": [
-      "[반도체 승부수②] '올인원' 삼성 vs '초연합' 하이닉스…HBM4 생존 방정식 미디어펜."
+      "지난달 외국인 48조원 순유출…환율 일평균 7.6원 변동 v.daum.net."
     ],
     "chips": [
-      "#반도체"
+      "#환율"
     ]
   },
   {
@@ -242,20 +257,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n244b01bd",
-    "category": "경제",
-    "source": "스트레이트뉴스",
-    "time": "33일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
-    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
-    "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
@@ -332,10 +333,222 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9965e16d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/opinion/palmyeonbong/2026/07/20/T5GRA46W3FESLN5BJSEU3GI72A/",
+    "title": "[팔면봉] 30대 與 대표 후보 “듣지 않고 가르치려고만 드는 꼰대 민주당”. 외",
+    "summary": [
+      "[팔면봉] 30대 與 대표 후보 “듣지 않고 가르치려고만 드는 꼰대 민주당”. 외."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n60908be3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/20/GU3WCNDDMYZTAMLCG5STAZBQGU/",
+    "title": "韓·美 2500K 대기록, 류현진도 불펜 방화는 어쩔 수 없었다…8회 5실점 참사, 키움전 6연패 탈출 실패",
+    "summary": [
+      "[OSEN=대전, 길준영 기자] 프로야구 한화 이글스 류현진(39)이 대기록을 달성했지만 불펜진이 승리를 날리며 아쉬움을 삼켰다.",
+      "류현진은 19일 대전 한화생명볼파크에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 키움 히어로즈와의 경기에 선발등판해 5⅓이닝 8피안타 1볼넷 1사구 7탈삼진 3실점을 기록했다.1회초 선두타자 추재현과 맷 데이비슨을."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf19472c2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/07/20/UIPGX7BRHRANPBNILFADYUZ63Y/",
+    "title": "[사설] 방향 잃은 외교가 자초한 중·러 압박, 한·미 적신호",
+    "summary": [
+      "[사설] 방향 잃은 외교가 자초한 중·러 압박, 한·미 적신호."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n66bed79f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003713981",
+    "title": "류혜영 \"다이어트 한 적 없다\"…악플에 직접 해명",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 배우 류혜영이 다이어트 의혹을 직접 부인하며 25세 이후로는 살을 뺀 적이 없다고 밝혔다.",
+      "16일 유튜브 채널 '류혜영레몬과밀치회' 공식 SNS에는 '다이어트 해명합니다'라는 제목의 숏폼 영상이 올라왔다.",
+      "영상 속 류혜영은 서울 삼청동의 한 식당에서 식사를 하며 제작진과 이야기를 나눴다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n886cf7ad",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719060651065",
+    "title": "인천 쿠팡물류센터 붕괴 가능성에 인근 대피령…밤샘진화 계속(종합)",
+    "summary": [
+      "(인천=연합뉴스) 홍현기 기자 = 인천 서해구 석남동 쿠팡 물류센터 화재와 관련해 이틀째 밤샘 진화 작업이 이어지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd075a078",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003713960",
+    "title": "박서진 \"5개월 동안 11㎏ 쪘다\"…원인은 '탕후루와 야식'",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 가수 박서진(30)이 5개월 동안 11㎏이 쪘다고 밝혔다.",
+      "18일 KBS2 예능 '불후의 명곡' 2026 왕중왕전 특집에 출연한 박서진은 \"다이어트를 하다가 잠시 놓았다\"면서 \"탕후루도 먹고, 야식도 많이 먹었더니 11㎏이 쪘다\"고 말했다.",
+      "박서진의 사례처럼 다이어트를 중단한 뒤 고열량의 음식을 먹으면 단기간에 체중이 크게 늘어날 수 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0d62bd9d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2286e72f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003714338",
+    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
+    "summary": [
+      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
+      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
+      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6153823d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003714332",
+    "title": "이다해 \"임신 소식에 세븐 오열…2세 성별은 '딸'\"",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 가수 세븐이 아내인 배우 이다해의 임신 소식에 눈물을 흘렸다.",
+      "이다해는 19일 방송된 SBS TV 예능물 '미운 우리 새끼'(미우새)에서 세븐에게 임신 사실을 알린 순간을 전했다.",
+      "그는 \"임신 테스트기를 넣은 인형을 들고 레스토랑에 갔다\"라며 \"남편이 인형을 보더니 울었다\"라고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6edcf40",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719061600072",
+    "title": "이스라엘, 美부정여론 돌리려 'AI문자 발송' 750억원 홍보전",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 이스라엘 정부가 가자 전쟁과 이란 전쟁으로 미국에서 자국에 대한 여론이 악화하자 이를 되돌리기 위해 5천만달..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nb862521e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260719051753108",
+    "title": "美 \"아카바 공항·항구 피해야\"…경고 직후 이란 미사일(종합2보)",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 요르단 당국이 홍해에 접한 아카바 지역의 국제공항과 항구에 소개령을 내렸다고 요르단 암만 주재 미국대사관..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba77bbe7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "49분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260719/134324831/2",
+    "title": "[사설]토착비리 무더기 적발… 뿌리 뽑아야 자치도, 경제도 산다",
+    "summary": [
+      "경찰이 3월부터 토착 비리를 수사해 지방공무원과 지방의원 등 535명을 검찰에 송치하고 20명을 구속했다.",
+      "한 기초자치단체 출신의 전직 공무원은 퇴직 뒤 차명 업체를 설립한 뒤 자신이 일했던 지자체와 79건의 수의 계약을 체결해 약 26억 원을 챙기다 적발됐다.",
+      "특정 기업을 납품업체로 선정하고 이를 위한 예산 편성에 관여한 뒤 해당 기업으로부터 약 4억5000만 원을 사례비 명목으로 받은 광역의원 등도 검거됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf478b92f",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "52분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260719/134324835/2",
+    "title": "[사설]쿠팡 물류센터 또 대형 화재… 이런 위험 전국에 6000곳",
+    "summary": [
+      "18일 오전 인천 서해구 석남동 쿠팡 물류센터에서 큰불이 나 다음 날 밤늦게까지 진화되지 않고 이어졌다.",
+      "쿠팡으로선 2021년 경기 이천 덕평물류센터에서 화재가 발생한 지 5년 만에 비슷한 대형 화재가 일어난 것이다.",
+      "화재 당시 근무 중이던 직원 120여 명은 대피해 인명 피해는 없었으나 밤샘 진화 작업을 벌이던 소방관 2명이 탈진과 연기 흡입으로 병원에 이송됐다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5ef792b5",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "54분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/19/2026071923103671895",
+    "title": "불길 안 잡히는 쿠팡 물류센터...\"붕괴 위험에 긴급 대피령\"",
+    "summary": [
+      "인천 쿠팡 물류센터 화재가 40시간째 계속되는 가운데 건물 일부가 붕괴할 가능성이 제기되면서 지방자치단체가 인근 상가와 공장을 대상으로 대피령을 내렸다.",
+      "인천시 서해구는 19일 오후 11시쯤 안전안내문자를 통해 \"석남동 쿠팡 물류센터 화재에 따른 건물 붕괴 위험으로 쿠팡 남측 상가·공장만 해당된다\"며 \"주거지역은 제외된다\"고 밝혔다.",
+      "대피 대상은 물류센터 램프 구역을 기준으로 반경 116m 안에 있는 상가와 중소 제조업체 등이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n932476ef",
     "category": "경제",
     "source": "동아일보",
-    "time": "3분 전",
+    "time": "55분 전",
     "url": "https://www.donga.com/news/Opinion/article/all/20260719/134324833/2",
     "title": "[사설]한은 ‘네덜란드병’ 우려… 반도체만 바라보단 기회가 위기 될 것",
     "summary": [
@@ -353,7 +566,7 @@ window.NEWS_DB = [
     "id": "n655ba4ff",
     "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "58분 전",
     "url": "https://www.donga.com/news/Opinion/article/all/20260719/134324844/2",
     "title": "[김승련 칼럼]상피제가 필요한 곳이 경찰뿐일까",
     "summary": [
@@ -366,71 +579,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndb876b35",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/19/HBRGGYLDHFQTCODCMUZGMMZSG4/",
-    "title": "티파니, 갈색 단발 변신에 볼터치 톡톡…변요한♥도 반할 역대급 '동안 미모'",
-    "summary": [
-      "[OSEN=박근희 기자] 그룹 소녀시대 출신 배우 티파니 영이 동안 미모를 자랑했다.19일 티파니 영은 자신의 SNS에 빈티지가 근황을 전했다.공개된 사진 속 티파니 영은 작품 '유미의 세포들' 속 캐릭터를 위해 단발 가발을 쓴 모습이다.",
-      "기존의 긴 생머리를 벗어나 상큼한 갈색 단발머리를 완벽하게 소화한 채 카메라를 정면으로 응시하고 있다.특히 양 볼에 콕."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3730c847",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260719/134324842/2",
-    "title": "0.001초 빨리 보는 데 월 10만 달러 [횡설수설/박희창]",
-    "summary": [
-      "‘리얼도널드트럼프(@realDonaldTrump)에 글이 올라오면 전 세계가 반응합니다.",
-      "이에 필적할 만한 신호는 지금까지 없었습니다.’ 최근 도널드 트럼프 미국 대통령 일가의 회사(TMTG)가 월스트리트 투자회사에 돌린 서비스 상품 홍보 자료에 등장하는 문구다.",
-      "해당 서비스는 트럼프 대통령이 트루스소셜에 올리는 게시물을 0.001초 먼저 볼 수 있는 ‘트루스 API’."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nadcf70fa",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260719/134325116/1",
-    "title": "[속보]인천 서해구 “쿠팡 물류센터 붕괴 위험…반경 116m 구민 대피령”",
-    "summary": [
-      "인천 쿠팡 물류센터 화재가 이틀째 이어지는 가운데 건물 붕괴 위험으로 인근 주민들에 대피령이 내려졌다.인천 서해구청은 19일 오후 11시 안전재난문자를 발송해 “쿠팡 화재로 인한 일부 건물 붕괴위험으로 주변 상가 및 사무실 등 반경 116m 지역의 구민들은 즉시 대피하라”고 공지했다.",
-      "이어 1분 뒤 “석남동 쿠팡물류센터 화재에 따른 건물 붕괴 위험으로 쿠팡 남측 상가, 공장만 해당된다”며 “주거지역은 제외된다”고 재안내했다.인천소방본부에 따르면."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1ad22838",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260719_0003713995",
-    "title": "레드벨벳 아이린, '매진' 방콕서 첫 亞 투어 화려한 피날레",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 클래시컬 K-팝 걸그룹 '레드벨벳(Red Velvet)' 멤버 아이린이 첫 단독 아시아 투어를 성료하며, 솔로 아티스트로서의 존재감을 증명했다.",
-      "19일 소속사 SM엔터테인먼트에 따르면, 아이린은 전날 태국 방콕 MCC 홀(MCC Hall)에서 열린 '2026 아이린 아시아 투어 [ 아이-윌 ](2026 IRENE ASIA TOUR [ I-WILL ])'을 전석 매진시키며 화려한 피날레를 장식했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ne6b01459",
     "category": "IT",
     "source": "테크M",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153489",
     "title": "\"하천 오염 가능성 낮아\" 쿠팡, 화재 수습 총력전…소방관·주민 지원 확대 (종합)",
     "summary": [
@@ -442,10 +594,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfe77df3a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026071930957",
+    "title": "[속보] 인천 서해구 \"쿠팡물류센터 붕괴 가능성에 인근 대피령\"",
+    "summary": [
+      "[속보] 인천 서해구 \"쿠팡물류센터 붕괴 가능성에 인근 대피령\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n4d2f2ca0",
     "category": "IT",
     "source": "테크M",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153488",
     "title": "쿠팡, 인천 물류센터 화재 현장지원…지자체와 적극 '협력'",
     "summary": [
@@ -460,172 +626,11 @@ window.NEWS_DB = [
     "id": "nc83ced53",
     "category": "사회",
     "source": "조선일보",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/national/national_general/2026/07/19/RY3KPDDBOVFV7AF3S3BLGEV2ZQ/",
-    "title": "[속보] 인천 쿠팡물류센터 붕괴 우려에 주민 대피령",
+    "title": "인천 쿠팡물류센터 붕괴 우려에 주민 대피령",
     "summary": [
-      "[속보] 인천 쿠팡물류센터 붕괴 우려에 주민 대피령."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09cd34da",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719060600065",
-    "title": "인천 서해구 \"쿠팡물류센터 붕괴 가능성에 인근 대피령\"",
-    "summary": [
-      "(인천=연합뉴스) 홍현기 기자 = 이틀째 화재가 이어지고 있는 인천 쿠팡 물류센터의 일부 구조물이 붕괴할 가능성이 제기돼 지방자치단체가 인근 주..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nabe30bc2",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719060500007",
-    "title": "'5G 무패' 서울, 이제 독주?…김기동 \"그런 생각하면 어려워져\"",
-    "summary": [
-      "(부천=연합뉴스) 최송아 기자 = 프로축구 K리그1 FC서울이 2026 북중미 월드컵 휴식기 전후 무패 행진으로 차곡차곡 승점을 쌓아 나가며 독..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb0c2bc8a",
-    "category": "IT",
-    "source": "테크M",
-    "time": "38분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153487",
-    "title": "통신사, 고객 저변 확장 '한창'...'AI 종잣돈' 확보 총력",
-    "summary": [
-      "통신업계가 고객 저변 확장에 나섰다.",
-      "상품 선택권을 넓혀 가입자 확대를 노린다.",
-      "인공지능(AI) 공략을 위해선 기존 사업이 굳건해야 한다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n9c47f619",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719060200065",
-    "title": "[속보] 인천 서해구 \"인천 쿠팡물류센터 붕괴 가능성에 인근 대피령\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8df8613e",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260719058400007",
-    "title": "장마철에도 후끈 달아오른 KBO리그…역대 최소 경기 800만 관중",
-    "summary": [
-      "(서울=연합뉴스) 천병혁 기자 = 프로야구가 장마에도 아랑곳없이 흥행 열풍을 이어갔다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n674d96de",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "53분 전",
-    "url": "https://www.newsis.com/view/NISX20260719_0003714326",
-    "title": "이란혁명수비대 \"호르무즈 '안전하지 않은' 항로서 선박 2척 사고\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 이란혁명수비대(IRGC)는 19일(현지시간) 이란 당국의 경고를 무시하고 '안전하지 않은 항로'로 호르무즈 해협을 통과하려던 선박 2척이 사고를 당했다고 밝혔다.",
-      "이란 국영 IRNA통신에 따르면 이란혁명수비대는 이날 성명에서 \"미국 테러리스트들의 지원을 받는 '위반 선박' 4척이 항법 장치를 끄고 안전하지 않은 항로를 이용해 호르무즈 해협을 빠져나가려 시도하며 선박 통항을 방해했다\"고 주장했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb01795c1",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "58분 전",
-    "url": "https://www.newsis.com/view/NISX20260719_0003714297",
-    "title": "'류현진 2500K' 한화, 7점 차 리드 놓치고 무승부…롯데는 후반기 첫 승(종합)",
-    "summary": [
-      "[서울=뉴시스]문채현 박윤서 기자 = 프로야구 한화 이글스가 영원한 에이스 류현진의 대기록에도 불구하고 7점 차 리드를 놓치며 연패를 끊지 못했다.",
-      "한화는 19일 대전 한화생명볼파크에서 열린 2026 신한 쏠 KBO리그 홈 경기에서 키움 히어로즈와 연장 11회까지 승부를 이어간 끝에 9-9 무승부를 거뒀다.",
-      "후반기 시작과 동시에 키움에 내리 3연패를 당했던 6위 한화는 이날 다잡은 승리를 놓치고 시즌 40승 3무 43패를 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na8fa2827",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260719_0003714327",
-    "title": "고영표 6이닝 무실점 호투…KT 이강철 감독 \"더할 나위 없이 완벽\"",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 KT 위즈 이강철 감독이 팀을 7연승으로 이끈 선발 투수 고영표의 활약에 찬사를 보냈다.",
-      "KT는 19일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 LG 트윈스와의 원정 경기에서 4-1로 이겼다.",
-      "LG와 4연전 싹쓸이를 포함해 7연승을 달린 KT는 LG를 제치고 2위로 도약했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n574aee72",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026071921361799076",
-    "title": "쿠팡, 소방대원· 지역 주민 구호 물품 지원",
-    "summary": [
-      "인천 석남동 쿠팡 물류센터 화재로 인근 주민들이 대피한 가운데 쿠팡이 주민과 소방관을 위한 긴급 구호 지원에 나섰다.",
-      "쿠팡은 19일 화재로 대피소가 마련된 인천 신현초등학교에 전날 저녁부터 구호물품을 전달했다고 밝혔다.",
-      "매트리스 100개와 속옷 100여점, 물티슈·화장지 수백개, 컵라면 500개 등을 지원했으며, 이날부터 대피 주민들에게 아침·점심·저녁 식사도 제공할 예정이다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n6c1e3bfb",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026071930427",
-    "title": "李, 국힘에 \"당직·공직선거도 구분 못하나…상식 갖추고 논평해야\"",
-    "summary": [
-      "李, 국힘에 \"당직·공직선거도 구분 못하나…상식 갖추고 논평해야\"."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbf48f51d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026071930337",
-    "title": "\"전 세계 모두 코스피만 쳐다본다\"…내일 삼전닉스 향방은",
-    "summary": [
-      "\"전 세계 모두 코스피만 쳐다본다\"…내일 삼전닉스 향방은."
+      "인천 쿠팡물류센터 붕괴 우려에 주민 대피령."
     ],
     "chips": [
       "#뉴스"
@@ -638,8 +643,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -649,9 +654,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
