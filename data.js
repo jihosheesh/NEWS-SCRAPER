@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-19 17:20:21
+// 마지막 업데이트: 2026-07-19 18:16:26
 window.NEWS_DB = [
   {
     "id": "n315a413f",
     "category": "IT",
     "source": "월요신문",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kbjlmTkhnRi1vVS1fYzlvckxJdk9rNHNFRktxRzVFSFR0OHowODM4dWE2dks1TnAwOHF2R1Y2QWpWYTBZVUIyaU11ME11dXp1VDFvNnl6WURzbUE3NTlxbXZlV0c3LWN1bUE?oc=5",
     "title": "삼성 파운드리發 인력 대이동 조짐…반도체 채용시장 들썩",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9f206858",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WWXNuVDVOcWtHMGRCdjRHa2hOaUJlWGVLWGkzNVBobFRFV2xtMGFmLXNjZ09hRVd5Zk1lWVFUZHRuUFlOblpUazVpa0pYa2lEV2tqNlA2UjZyUDBxM1BMUdIBYEFVX3lxTE9WWXNuVDVOcWtHMGRCdjRHa2hOaUJlWGVLWGkzNVBobFRFV2xtMGFmLXNjZ09hRVd5Zk1lWVFUZHRuUFlOblpUazVpa0pYa2lEV2tqNlA2UjZyUDBxM1BMUQ?oc=5",
     "title": "中알리바바, AI칩 소프트웨어 무료 공개…엔비디아 쿠다 대항마",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nb9485281",
     "category": "IT",
     "source": "광교신문",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pcTJ6bjdHYndMY01WWml0dGxHLTdsOFdSeUVPaGNoU2JOX2JBU3h4M1cwcGNVdTl4c3dSU3RzRElNSS1jaEs5cTd6UjJpdzRPYjVzSEFTSlpwaGNkV3NyNVNZUzNVMXJO0gFsQVVfeXFMUDVTOW1uQUh2X3NwRzV3R2toc2NIOS1wUVVMazJuVHAzSmhTRmQ0bkY1Z3JlSkIzQllrOVVkS2h4ZGdaV2dOaEl4SkJ2eEdZWVBsVDc5aWlrQ0xuYXFJRVZzYUh3VlpnM3ZzSjl5?oc=5",
     "title": "엔비디아 이후를 준비하는 빅테크…AI 반도체 독립 전쟁",
     "summary": [
@@ -319,10 +319,144 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n420130f6",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026072003114231827",
+    "title": "김시우, 공동 6위…'아쉽다, 한국인 첫 디 오픈 우승'",
+    "summary": [
+      "김시우가 최고(最古)의 메이저 대회 디 오픈 우승을 아쉽게 놓쳤다.",
+      "그는 20일(한국시간) 영국 잉글랜드 사우스포트의 로열 버크데일 골프클럽(파70·7223야드)에서 열린 2026시즌 마지막 메이저 대회 제154회 디 오픈(총상금 1775만달러) 4라운드에서 버디 2개와 보기 4개를 엮어 2타를 까먹었다.",
+      "2오버파 72타를 적어낸 김시우는 최종 합계 6언더파 274타로 공동 4위까지 밀렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na8e96203",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720001900007",
+    "title": "김시우, 디오픈 골프서 역대 최고 성적 공동 6위…우승은 폭스",
+    "summary": [
+      "(서울=연합뉴스) 최태용 기자 = 김시우가 남자골프 시즌 마지막 메이저 대회 브리티시 오픈(이하 디오픈)에서 우승 문턱을 넘지 못했지만, 자신의..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3815b755",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003714347",
+    "title": "美 국무, 레바논 대통령과 회동서 \"헤즈볼라 무장해제 노력 높게 평가\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 마코 루비오 미국 국무장관은 19일(현지시간) 조제프 아운 레바논 대통령과 회담에서 레바논 정부의 친(親)이란 무장 정파 헤즈볼라 무장해제 노력을 높게 평가했다.",
+      "레바논 국영 NNA통신과 이스라엘 i24NEWS 등에 따르면 루비오 장관은 이날 미국 워싱턴D.C.에서 아운 대통령과 만나 미국과 레바논, 이스라엘이 참여하는 ‘3자 틀(Trilateral Framework)’ 이행 문제를 논의했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ncfa1b34b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/20/GZQWINBQHE3TMZDEMY3WGYTCMM/",
+    "title": "'39살 메시 vs 19살 야말' 월드컵 결승 선발 출격...첫 챔피언 반지 주인공은 누구 [선발 라인업 공개]",
+    "summary": [
+      "[OSEN=정승우 기자] 유럽 챔피언 스페인과 남미 챔피언 아르헨티나가 세계 정상 자리를 놓고 맞붙는다.",
+      "스페인은 라민 야말을, 아르헨티나는 ‘캡틴’ 리오넬 메시를 선발로 내세웠다.스페인과 아르헨티나는 20일 오전 4시(한국시간) 미국 뉴저지주 이스트러더퍼드의 뉴욕 뉴저지 스타디움에서 2026 국제축구연맹(FIFA) 북중미 월드컵 결승전을 치른다.스페인은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb15e136c",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260719_0003714142",
+    "title": "\"논란도 있었지만 결국 축구는 아름다웠다\"…홍콩 매체가 본 월드컵 결산",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 2026 북중미 월드컵이 여러 잡음 속에서도 축구 본연의 매력으로 전 세계 팬들을 하나로 묶었다는 평가가 나왔다.",
+      "19일 홍콩 매체 사우스차이나모닝포스트(SCMP)에 따르면 이번 대회는 사상 최다인 48개 팀이 참가한 역대 최대 규모로 치러졌다.",
+      "이제 스페인과 아르헨티나만이 결승을 남겨두고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n64e8c78f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/20/PJLALR7UVVCYRHVKGUFAW2OI7A/",
+    "title": "빵 떨어져야 일하던 지휘자 클라이버, 그가 ‘개근’한 음악회는 바로..",
+    "summary": [
+      "빵 떨어져야 일하던 지휘자 클라이버, 그가 ‘개근’한 음악회는 바로..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n78007c8a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/national/2026/07/20/S57DLUNV7JHV5ES5I2NGHLCQIQ/",
+    "title": "[굿모닝 멤버십] 싸우지 않고 남의 군대를 굴복시키는 법",
+    "summary": [
+      "[굿모닝 멤버십] 싸우지 않고 남의 군대를 굴복시키는 법."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndfbd7df1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/medical/2026/07/20/VVWITW7T4RDIPCAK4KU7WNOTJY/",
+    "title": "의지가 약해진 건 나이 탓이 아니다… 몸의 ‘통신체계’ 바로 잡는 법",
+    "summary": [
+      "의지가 약해진 건 나이 탓이 아니다… 몸의 ‘통신체계’ 바로 잡는 법."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd3b2ff4b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "53분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003714346",
+    "title": "페루서 규모 5.5 지진…사망 5명·부상 20명",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 페루 안데스 지역에서 규모 5.5 지진이 발생해 적어도 5명이 숨지고 20명이 다쳤다.",
+      "300명 가량은 집을 잃었다.",
+      "19일(현지시간) AP통신에 따르면 미국 지질조사국(USGS)은 지진이 전날 오후 9시24분께 발생했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n65beb5e5",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260720001700072",
     "title": "맘다니 \"'전범' 네타냐후, 9월 뉴욕 방문시 체포 방안 검토\"",
     "summary": [
@@ -336,7 +470,7 @@ window.NEWS_DB = [
     "id": "n9f584195",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260720001600071",
     "title": "美국무, 레바논 대통령 만나 이스라엘-레바논 평화합의 이행논의",
     "summary": [
@@ -347,59 +481,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na17df833",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/07/20/2026071514121419958",
-    "title": "고물가·고환율 고착화를 경계해야[MT시평/오건영]",
-    "summary": [
-      "지난해부터 각종 외신을 통해 미국 트럼프 행정부와 중앙은행인 연준의 갈등이 점점 더 심화되고 있음을 접하게 된다.",
-      "미 연준은 그들의 물가 목표인 2%보다 미국의 물가 상승세가 강하기에 인플레이션 제어를 위해 추가 금리 인하에는 난색을 표하고 있다.",
-      "되려 중동 전쟁 이후 높아진 에너지 가격과 관세로 인한 물가 충격을 우려하며 기준금리 인상 카드를 고민하고 있다."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n23eb9565",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/20/HA3DENZVGNRTOOLGMJSGMNZQGY/",
-    "title": "\"거기 배울 거 많아\" 4년 223억이 전부 아니었네…송성문 샌디에이고행, 김하성 조언이 결정적?",
-    "summary": [
-      "[스포츠조선 박상경 기자] 선수라면 모두가 꿈꾸는 메이저리그, 하지만 양날의 검이기도 하다.",
-      "안정적인 국내에서의 활약을 뒤로 하고 제로베이스에서 시작해야 하는 빅리그는 생존경쟁의 장이다.",
-      "키움 히어로즈에서 지난 시즌을 마치고 메이저리그 포스팅에 나선 송성문에게도 갈등의 순간이 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0738216f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/20/MIYDGMLCHA3DGYLFMNQTMMTEMY/",
-    "title": "충격! 'ERA 6.69 → 3.12' 대반전 라우어, 다저스 트레이드 대상이라고? 작년에도 비슷한 사례 있었다는데",
-    "summary": [
-      "[스포츠조선 박상경 기자] 과연 LA 다저스가 에릭 라우어를 트레이드 카드로 쓸까.",
-      "토론토 블루제이스에서 부진한 모습을 보이다 다저스에서 완전히 다른 투수로 탈바꿈한 라우어의 트레이드 가능성이 제기됐다.",
-      "디애슬레틱의 케이티 우, 파비안 알다야는 19일(한국시각) '라우어가 트레이드 마감일 다저스의 유력한 트레이드 후보가 될 수 있다'고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n6095089e",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260720000600017",
     "title": "'언더독' 디플러스 기아, 국제전 한 풀었다…EWC 2026 우승",
     "summary": [
@@ -410,24 +495,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2d4197ed",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260720001000071",
-    "title": "美CIA, 'AI패권' 작전…UAE 기업의 '中유착 의혹' 비밀조사",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 중앙정보국(CIA)이 아랍에미리트(UAE)의 인공지능(AI) 기업 G42의 중국 유착 의혹을 비밀리에..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "nb0df07eb",
     "category": "사회",
     "source": "뉴시스",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260720_0003714345",
     "title": "푸틴 \"김정은과 우호 관계 높이 평가\" 北 외무상 \"金, 러 관계 발전 의지\"",
     "summary": [
@@ -443,7 +514,7 @@ window.NEWS_DB = [
     "id": "nad37d3ca",
     "category": "IT",
     "source": "테크M",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153490",
     "title": "우리금융, 종합금융그룹 전환 속도…임종룡 \"고객 확대가 미래 성장의 출발점\"",
     "summary": [
@@ -456,89 +527,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a5939e2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/20/GMZDCYRRMRSGGZBZGBSWCODCGI/",
-    "title": "“볼 던지면 답이 없다” 7볼넷에 스스로 무너진 1순위 대형 신인, 156km 던지고 2⅔이닝 조기강판",
-    "summary": [
-      "[OSEN=대전, 길준영 기자] 프로야구 키움 히어로즈 박준현(19)이 후반기 첫 등판에서 데뷔 최다 4사구를 내주고 말았다.",
-      "박준현은 19일 대전 한화생명볼파크에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 한화 이글스와의 경기에 선발등판해 2⅔이닝 2피안타(1피홈런) 7볼넷 4탈삼진 4실점 패배를 당했다.",
-      "1회말 선두타자 오재원에게 안타를 맞."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n2ee6a348",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "58분 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003714341",
-    "title": "우크라, 러 대규모 공세에 사망 20명·부상 142명(종합)",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 러시아가 우크라이나에 대규모 공격을 감행해 적어도 20명이 숨지고 142명이 다쳤다.",
-      "19일(현지시간) 키이우 인디펜던트 등에 따르면 우크라이나군은 러시아가 공격용 드론 125기와 탄도미사일 25발, 지르콘 극초음속 미사일 10발, 그외 미사일 6발 등을 발사했다고 밝혔다.",
-      "러시아 공격 대부분은 수도 키이우를 향했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc1085b1a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260716_0003712516",
-    "title": "\"뿌연 시야 노안인가요?\"…'이 강의' 들어보세요",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 노안과 백내장은 나이가 들면서 같이 오는 경우가 많지만 엄연히 다른 질환으로 증상이 비슷해 구별이 쉽지 않다.",
-      "한림대학교강남성심병원은 20일 오후 3시 본관 3동 4층 미카엘홀에서 '노안 극복을 위한 최신 안과 질환 치료 옵션'을 주제로 건강강좌를 개최한다고 밝혔다.",
-      "이번 강좌는 백내장·녹내장·노안 등 중·장년층에서 흔히 접하는 안과질환에 대한 이해를 높이고, 조기 진단과 적절한 치료를 통해 건강한 시력을 유지할."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne9d68e4a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/07/20/SH7GML5DBNBHDABFE2I4NSYUX4/",
-    "title": "다시 불붙은 민주당 적통론",
-    "summary": [
-      "다시 불붙은 민주당 적통론."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd8a68f11",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003714339",
-    "title": "러 외무 차관 \"韓, 美 '타이폰' 배치시 '안보 위협'에 상응 대응\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 안드레이 루덴코 러시아 외무차관은 19일(현지시간) 한국이 미국의 중거리 지상발사 미사일 체계인 '타이폰(Typhon)'을 배치할 경우 그에 상응하는 비례적 대응이 있을 것이라고 경고했다.",
-      "루덴코 차관은 이날 타스통신과 인터뷰에서 '일본이 미국과 군사훈련 과정에서 타이폰 미사일 체계의 자국 영토 배치에 동의했다.",
-      "이 체계가 한국에도 배치될 가능성이 있는가'라는 질문에 이같이 답했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nba2b09fa",
     "category": "경제",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026072000314219684",
     "title": "[디깅 트래블]중력으로 달리고, 두 발로 오르고, 네 발에 몸을 맡겼다",
     "summary": [
@@ -551,26 +543,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7b98c43a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/20/2026071918484398688",
-    "title": "'韓美 통산 2500K' 류현진이 쓰는 새 역사, '불펜 방화→4G 연속 노디시전'은 옥에 티... 한화-키움 연장 끝 무승부",
-    "summary": [
-      "류현진(39·한화 이글스)이 한국야구 역사에 또 하나의 이정표를 세웠다.",
-      "국내 투수로는 최초로 한·미 통산 2500탈삼진 대업을 이뤘다.",
-      "류현진은 19일 대전 한화생명볼파크에서 열린 키움 히어로즈와 2026 신한 SOL뱅크 KBO리그 홈경기에 선발 등판해 2회초 권혁빈을 헛스윙 삼진으로 잡아냈다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "na9d6e26b",
     "category": "부동산",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260719/134323786/2",
     "title": "‘압구정’ 재건축 단지에… LG전자, 구독서비스 공급",
     "summary": [
@@ -587,7 +563,7 @@ window.NEWS_DB = [
     "id": "n18d0e5df",
     "category": "경제",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260719/134323788/2",
     "title": "증시 빚투 늘자… 5대은행 가계대출 年목표치보다 3500억 초과",
     "summary": [
@@ -603,7 +579,7 @@ window.NEWS_DB = [
     "id": "n713ae811",
     "category": "부동산",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260719/134323771/2",
     "title": "경기도로 번지는 전세난, 올초보다 매물 30% 급감",
     "summary": [
@@ -620,7 +596,7 @@ window.NEWS_DB = [
     "id": "n68cb77c2",
     "category": "경제",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260719/134323811/2",
     "title": "9월부터 해외 은행에서도 원화 계좌 만들어 실시간 결제",
     "summary": [
@@ -636,7 +612,7 @@ window.NEWS_DB = [
     "id": "n5108a7fc",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026071573827",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 20일 띠별 추천 점심메뉴",
     "summary": [
@@ -644,6 +620,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "ne6b01459",
+    "category": "IT",
+    "source": "테크M",
+    "time": "4시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153489",
+    "title": "\"하천 오염 가능성 낮아\" 쿠팡, 화재 수습 총력전…소방관·주민 지원 확대 (종합)",
+    "summary": [
+      "인천 서구 석남동 쿠팡 물류센터 화재가 30시간 넘게 이어지는 가운데 쿠팡이 소방당국 지원과 지역 주민 구호에 총력을 기울이며 사태 수습에 나섰다.",
+      "화재 직후 전 직원이 안전하게 대피한 데 이어 현장 소방대원과 대피 주민을 위한 긴급 지원을 확대하면서 기업의 사회적 책임 이행에도 속도를 내고 있다.19일 업계에 따르면 쿠팡은 화재 발생 직후 지역 주민들이 머물고 있는 인천 신현초등학교 대피소에 구호물품과 식사를 긴급 지원했다."
+    ],
+    "chips": [
+      "#교육"
     ]
   }
 ];
@@ -653,18 +644,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "채용",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
