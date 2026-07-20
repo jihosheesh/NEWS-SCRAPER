@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-20 19:31:27
+// 마지막 업데이트: 2026-07-20 20:28:24
 window.NEWS_DB = [
   {
     "id": "na3559902",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rU3NtWHFQc2U1bXp4UzQ5UmdrLVI2WVRzV3RXTkVvaWZQR05YWHh5TkoyN3pxeV9heFRjcE5MTWtSMWZ6WW9ZbW5fY2RiVWMwa3lpcGVfUWlCdw?oc=5",
     "title": "엔비디아에 도전하는 AI칩 스타트업, 가치 30조원으로 커진다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nb1b9ef35",
     "category": "IT",
     "source": "조선일보",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnJSZHlVTzlYRVBxdkUwOVl0bXk0Z0JqQXNwWGJ0WUYzTTh6ajdLZmhRZ0JFVkhCYnBkdS10MWVwTXZQN19SNm1yVlYxb0J5b1dSYXZaZFNLUVA4MUU3aXd4YVBYRnpLTGl1RWtjZllXTDctZ2FMa0UtV0hyNmxxV2JrWQ?oc=5",
     "title": "알리바바, 엔비디아에 도전장… AI 소프트웨어 무료 공개",
     "summary": [
@@ -120,6 +120,21 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "ne098ec77",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "19일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWEI2T2RRNGVBTktrLW1KbThpRHpMRXd5TUhKdGNmeEhUcDAtTTY2M1pQSFUzdWFXdGxPbDFieXJxSC1IMi1qMzQwUFhQY0k?oc=5",
+    "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
+    "summary": [
+      "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집 v.daum.net."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
     ]
   },
   {
@@ -289,21 +304,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n98a572df",
-    "category": "IT",
-    "source": "대한민국 정책브리핑",
-    "time": "82일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책"
-    ]
-  },
-  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -318,220 +318,217 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n215b7071",
+    "id": "nae743819",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003715794",
-    "title": "[오늘의 주요일정]제주(7월21일 화요일)",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/21/GI4GMMTEMYYTGNJUMM3DOYLFMQ/",
+    "title": "‘심혜진 조카’ 심재원, 잘생겨서 난리 나더니..00년생과 핑크빛 무드(조선의 사랑꾼)[순간포착]",
     "summary": [
-      "[제주=뉴시스] ▲오전 9시, 제주도-서귀포시 현안회의, 제주도청 한라홀 ▲오전 10시, 제6기 양성평등위원회 위촉식, 제주도청 탐라홀 ▲오전 10시, 아시아산림협력기구 업무협약 체결행사, 성산읍사무소 ▲오후 2시, 제453회 제주도의회 임시회 제1차 본회의, 제주도의회 본회의장 ▲오후 2시, 서귀포시 주민참여예산 지역회의조정협의회의, 서귀포시청 1청사 별관 ▲오후 2시, 서귀포시 '화·목한 기억편의점' 개점식, 서귀포시 서부보건소 안덕보건지소."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 심재원이 00년생 소개팅녀와 핑크빛 무드를 형성했다.20일 방송된 TV조선 ‘조선의 사랑꾼’에서는 육캔두잇 멤버들이 단체 미팅을 하는 모습이 그려졌다.멤버들 앞에 4명의 여성이 등장했고, 양상국은 여성들이 심재원의 얼굴만 봐도 웃는다며 불만을 쏟아냈다.",
+      "이들 앞에서 자기소개를 하게 된 심재원은."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c9c249a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003716011",
+    "title": "[속보]미군 \"이란 상대 새로운 공습 개시\"…열흘 연속 맹폭",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3549aaa7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/21/UHTEQU7MSNCEFPFNIQPZZEST2Q/",
+    "title": "푹 젖은 신발에 쏙 넣으면, 다시 신을 때 뽀송뽀송 3만원대 신발 건조기",
+    "summary": [
+      "푹 젖은 신발에 쏙 넣으면, 다시 신을 때 뽀송뽀송 3만원대 신발 건조기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nabe4c01a",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721007300072",
+    "title": "중동 불안·유가 상승에 뉴욕증시 하락…다우 0.6%↓",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 20일(현지시간) 미국 뉴욕 증시는 미·이란 간 군사 충돌과 국제유가 상승세 속에 하락 마감했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n631f4ba8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721006700072",
+    "title": "홍해 '원유 생명줄' 막히면…\"한일 등 아시아 수입국 타격\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 예멘의 친이란 성향 후티 반군이 20일(현지시간) 사우디아라비아에 대한 해상 봉쇄를 선언하면서 원유 및 석유..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5e8ff3cb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/21/DUVPWVSUWNADVOLSINENZNSDJY/",
+    "title": "210만병 판매 넘었다, 평균 56.2% 탈모 완화 임상 ‘카이스트 샴푸’",
+    "summary": [
+      "210만병 판매 넘었다, 평균 56.2% 탈모 완화 임상 ‘카이스트 샴푸’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nccb5d0ac",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003716008",
+    "title": "[오늘의 주요일정]강원(7월21일 화요일)",
+    "summary": [
+      "[강원=뉴시스] ▲오전 10시, 송아지 경매시장 개장, 인제축협 가축시장 ▲오후 2시, 솔올미술관 특별전시 개막식, 강릉솔올미술관 ▲오후 2시, 제천~영월 고속도로 착공식(영월 스포츠파크 실내체육관) ▲오후 6시, 2026년 속초해수욕장 야간 개장, 속초해수욕장 ▲오후 6시, 2026년 문화체육관광부장관기 전국남녀고등학교태권도 품새·격파대회, 철원실내체육관."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n1c67f489",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260721/134333115/1",
+    "title": "“AI 시대에도 의사는 안 사라진다”…2045년에도 대체 불가인 이유",
+    "summary": [
+      "인공지능(AI)과 휴머노이드 로봇이 의료 현장에 빠르게 도입되고 있지만 2045년이 되어도 의사를 완전히 대체하기는 어렵다는 의료계 분석이 나왔다.내과 의사이자 90만명의 팔로워를 보유한 유튜브 채널 ‘닥터딩요’의 운영자 김태균 원장은 최근 자신의 채널을 통해 AI와 휴머노이드 로봇이 의료 행위의 절반 이상을 대체하기는 구조적·기술적·법적 한계로 인해 불가능하다고 진단했다.먼저 그는 로봇이 의사를 대체하지 못하는 가장 큰 오해로 ‘범용 휴머노이."
+    ],
+    "chips": [
+      "#AI",
       "#의료"
     ]
   },
   {
-    "id": "n4b35c137",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721005300091",
-    "title": "MS, 클라우드 '애저'에 AMD AI랙 대거 도입…엔비디아 독주 견제",
+    "id": "n463a745d",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003716009",
+    "title": "[속보] 뉴욕증시, 유가 오르며 소폭 하락 마감…다우 0.59%↓",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 마이크로소프트(MS)가 자사 클라우드 플랫폼 '애저'에 엔비디아 경쟁사인 AMD의 인공지능(AI) 랙..."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n14ba9876",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721004800071",
-    "title": "호르무즈 우회로 홍해까지…미·이란 '중동 양대해협' 전선 위기",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국과 이란의 난타전이 호르무즈 해협을 넘어 홍해로 확대될 우려가 커지고 있다.",
-      "친미(親美) 산유국 사우디..."
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 jeko@newsis.com."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb1091e39",
+    "id": "n72d13e27",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260721/134333112/1",
+    "title": "고창석 01년생 딸, 父 따라 연기자 길 걷는다",
+    "summary": [
+      "배우 고창석이 연기를 지망하고 있는 자신의 딸에 대해 언급했다.20일 공개된 유튜브 웹예능 ‘짠한형’에는 배우 서현철, 고창석, 류수영이 출연했다.고창석은 딸에 대해 “올해 연극과를 졸업했다”며 아내와 자신, 딸이 모두 서울예대 연극과 출신이라고 했다.이어 “교수님도 한 교수님한테 배웠다.",
+      "임도완 교수님한테 제가 첫 제자였는데 우리 딸이 마지막 제자였고 작년에 은퇴하셨다”고 했다.또 “그저께는 저, 와이프, 딸 다 공연이었다”고 뿌듯해했다.고창."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne9a22e55",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721006200072",
+    "title": "중동 정세 불안에 국제유가 상승세 지속…브렌트유 1.3%↑",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 20일(현지시간) 미국과 이란 간 군사적 긴장이 이어지면서 국제유가가 상승세를 이어갔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8f305447",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721005900071",
+    "title": "\"이란 미사일, 방공망 뚫고 요르단 기지 미군 막사 때렸다\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 최근 요르단의 미군 기지를 공격해 미군 2명을 숨지게 한 이란의 미사일 공격이 미군 방공망을 뚫고 장병들이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3743e143",
     "category": "사회",
     "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003716004",
-    "title": "남중국해서 또 충돌…필리핀 \"중국 해경이 폭행\" vs 중국 \"필리핀 먼저\"",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003715797",
+    "title": "회생 재도전 나선 홈플…\"텅빈 매대부터 채우길\"",
     "summary": [
-      "[서울=뉴시스]고재은 기자 = 필리핀이 20일(현지 시간) 중국 해경이 영유권 분쟁 지역인 남중국해 인근에서 필리핀 병력에게 부상을 입혔다고 강하게 비판했다.",
-      "중국 측은 필리핀이 먼저 공격했다며 사실 왜곡이라고 반박했다.",
-      "AP통신 등에 따르면 필리핀군은 소셜미디어 엑스(X·구 트위터)에 성명을 올리고 \"중국 해경 8명을 태운 모터보트 1척이 'BRP 시에라 마드레(BRP Sierra Madre)'함에 불법 접근했다\"며 \"함정 주변을 선회하며 사."
+      "[서울=뉴시스]강은정 기자 = 홈플러스가 가까스로 회생의 불씨를 살린 가운데, 입점 점주들은 \"2000억원 규모의 긴급 운영자금(DIP)을 매장 살리기에 써달라\"고 말했다.",
+      "21일 관련 업계에 따르면 홈플러스는 전날 서울회생법원에 회생절차 폐지 결정에 대한 즉시항고장을 제출했다.",
+      "최대 채권자인 메리츠금융그룹과 최대 주주인 MBK파트너스가 2000억원 조달에 극적으로 합의하면서 기사회생의 발판이 마련됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n988d48ec",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003715870",
-    "title": "대구·경북, 구름 많고 곳곳 비…낮 최고 30~37도",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 21일 대구·경북은 가끔 구름 많은 가운데 비가 내리는 곳이 있을 것으로 예상된다.",
-      "대구지방기상청은 이날 \"낮부터 저녁 사이 곳에 따라 10~60㎜의 비가 내리겠다\"고 예보했다.",
-      "아침 최저기온은 22~25도(평년 19~23도), 낮 최고기온은 30~37도(평년 28~32도)로 예측된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2417c045",
+    "id": "n74e92383",
     "category": "사회",
     "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260721/134333097/1",
-    "title": "‘하시4’ 김지영, 20일 득녀 “곱슬머리 귀여워, 난 이제 도치맘”",
+    "time": "58분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260721/134331966/2",
+    "title": "미디어 아트부터 설치미술 작품까지… 미술관이 된 국제공항",
     "summary": [
-      "‘하트시그널4’ 출신 인플루언서 김지영, 사업가 윤수영 부부가 딸을 출산했다.김지영은 20일 인스타그램에 “열 달 기다린 손님맞이 잘하고 올게요”라며 남편과 함께 산부인과를 찾은 사진을 올렸다.",
-      "이어 아기 사진과 함께 “곱슬머리가 너무 귀엽다, 오전에 포비 잘 낳았어요, 정말 모두의 응원 덕분이에요, 저는 일단 도치맘이 되러 총총”이라며 득녀 소식을 전했다.사진 속 김지영은 환한 얼굴로 남편과 함께 ‘브이’ 포즈를 하고 인증사진을 찍었다."
+      "하루에도 수십만 명이 오가며, 입국 또는 출국하는 여행객이 꼭 통과해야 하는 국제공항.",
+      "대형 쇼핑몰부터 레스토랑, 카페 등 다양한 시설이 사람들을 붙잡으려 경쟁을 벌이는 공항 곳곳에는 조각과 설치, 미디어 아트 등 다양한 미술 콘텐츠들도 자리하고 있다.",
+      "‘누구도 미술품을 보러 온 건 아니지만, 무심코 그것을 감상하게 되는’ 커다란 미술관, 국제공항엔 어떤 미술이 숨쉬고 있는지 살펴봤다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n893e1f83",
+    "id": "n325aab53",
     "category": "사회",
     "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260721/134333093/1",
-    "title": "‘짠한형’ 류수영 “♥박하선에 혼나고 눈물” 고백…폭소",
+    "time": "58분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260721/134331964/2",
+    "title": "최종수 성균관장의 ‘장무상망’ 20년",
     "summary": [
-      "류수영이 아내 박하선에게 혼나고 눈물을 훔쳤다고 고백했다.20일 오후 공개된 유튜브 콘텐츠 ‘짠한형 신동엽’에는 배우 류수영이 동료 고창석, 서현철과 동반 출연해 MC 신동엽, 정호철을 만났다.이 자리에서 류수영이 술을 먹고 귀가한 뒤 아내인 배우 박하선에게 혼났던 기억을 떠올렸다.",
-      "“술 먹고 집에 들어간다고 해놓고 편의점에서 소시지 사 먹고 늦게 들어갔다”라면서 “내가 소시지를 먹는 걸 아내가 별로 좋아하지 않는다”라고 말했다.이를 듣던 신동."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9074a2f9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260721/134333090/1",
-    "title": "英, 성범죄자 ‘화학적 거세’ 의무화 검토…과밀 교도소 해법",
-    "summary": [
-      "영국이 성범죄자의 재범 방지와 과밀 교도소 문제 해소를 위해 ‘화학적 거세’ 프로그램을 확대한다.",
-      "현재 자율 참여 방식으로 운영 중인 제도를 20개 교도소로 넓히는 한편, 최악의 성범죄자에게는 의무 적용하는 방안도 검토 중이다.영국 일간 데일리메일은 18일(현지시간) 영국 법무부가 자율 참여를 전제로 시범 운영하던 화학적 거세 프로그램을 20개 교도소로 확대해 약 6400명의 수용자가 치료를 받을 수 있도록 했다고 보도했다.데이비드 래미 영국."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4e10c112",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260721/134333087/1",
-    "title": "트럼프 “네타냐후 美서 체포될일 없다”…맘다니에 반박",
-    "summary": [
-      "조란 맘다니 미국 뉴욕시장이 베냐민 네타냐후 이스라엘 총리 체포 가능성을 언급하자, 도널드 트럼프 미 대통령이 이를 반박하고 나섰다.",
-      "트럼프 대통령은 20일(현지 시간) 소셜미디어(SNS) 트루스소셜에 “네타냐후는 미국에 머무는 동안 어떤 방식으로든, 어떤 형태로든 체포되지 않을 것이다”고 적었다.트럼프 대통령은 “그는 최근 5만2000명을 살해하고 미군과 다른 이들을 살해하는데 47년을 보낸 이란과 맞서 싸우고 있다”며 “체포돼야할 유일한 사."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na9d92f48",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721004700527",
-    "title": "경기 의정부·양주·포천·동두천에 호우주의보 발효",
-    "summary": [
-      "(의정부=연합뉴스) 기상청은 21일 오전 3시 40분을 기해 경기 의정부·양주·포천·동두천에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8f518765",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721004400527",
-    "title": "서울 서남·서북권에 호우주의보 발효",
-    "summary": [
-      "(서울=연합뉴스) 기상청은 21일 오전 3시 20분을 기해 서울 서남·서북권에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f498fcd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "44분 전",
-    "url": "https://www.chosun.com/international/us/2026/07/21/BKSBQ75OMJEB5GPZK2TF5VFADM/",
-    "title": "트럼프, 美방문 앞둔 네타냐후 엄호… “어떤 방식으로든 체포 안 될 것”",
-    "summary": [
-      "트럼프, 美방문 앞둔 네타냐후 엄호… “어떤 방식으로든 체포 안 될 것”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f8ee439",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "55분 전",
-    "url": "https://www.chosun.com/international/us/2026/07/21/EQXKHYTNCNHJJJ5JSO572EZWNI/",
-    "title": "뉴욕·LA 등 美대도시 고속도로에 30년째 감사 광고… “땡큐 아메리카”",
-    "summary": [
-      "뉴욕·LA 등 美대도시 고속도로에 30년째 감사 광고… “땡큐 아메리카”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb075dd17",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/07/21/YG7PQJ6CGNAIPBHC6TK3BOMSEE/",
-    "title": "[28화] 한일 동맹의 조건",
-    "summary": [
-      "[28화] 한일 동맹의 조건."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n262e92a1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/medical/2026/07/21/MMLPHOU4GNGNJEG4SILCJXJSKU/",
-    "title": "‘대단한 의지의 성취주의자’… 슬프게도, 그의 뇌는 빨리 늙는다",
-    "summary": [
-      "‘대단한 의지의 성취주의자’… 슬프게도, 그의 뇌는 빨리 늙는다."
+      "추사 김정희(秋史 金正喜)가 제자 이상적에게 그려 준 세한도(歲寒圖)엔 ‘장무상망(長毋相忘)’이란 낙관이 찍혀 있다.",
+      "“오래도록 서로 잊지 말자”는 뜻이다.",
+      "그 마음은 시공을 넘어 지금도 이어지고 있다."
     ],
     "chips": [
       "#뉴스"
@@ -541,7 +538,7 @@ window.NEWS_DB = [
     "id": "n803556dd",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153515",
     "title": "네이버, 브룩필드 본사 찾는다...'AI 팩토리' 협력 본격화",
     "summary": [
@@ -559,7 +556,7 @@ window.NEWS_DB = [
     "id": "n86ca6eaf",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153513",
     "title": "정부, 전국민 AI 사용 투 트랙...취약계층 지원 근거 마련·민간 서비스 개발 시동",
     "summary": [
@@ -576,7 +573,7 @@ window.NEWS_DB = [
     "id": "n9a35d0f3",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153514",
     "title": "\"AI 시대 콘텐츠 경쟁력 키운다\" 네이버, 블로그·카페 등 'UGC' 활성화 박차",
     "summary": [
@@ -593,7 +590,7 @@ window.NEWS_DB = [
     "id": "n382423c1",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153511",
     "title": "요기요, '여름철 할인·장바구니 기능' 마련...휴가철 배달 이용자 잡는다",
     "summary": [
@@ -606,28 +603,28 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb38f083b",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "4시간 전",
+    "url": "https://www.chosun.com/national/national_general/2026/07/21/25JA7M7Z55HJNHHN5KDDNQPJRA/",
+    "title": "쿠팡 발화지점 아래층에 ‘리튬로봇 수백대’",
+    "summary": [
+      "쿠팡 발화지점 아래층에 ‘리튬로봇 수백대’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n7452b48d",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://biz.chosun.com/it-science/ict/2026/07/21/QA5U7OWF65FBPMLRGBTVZDLR74/",
     "title": "中 AI ‘키미 K3’ 약진에… 美, 중국산 AI 차단 검토",
     "summary": [
       "中 AI ‘키미 K3’ 약진에… 美, 중국산 AI 차단 검토."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n812c2d52",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/202607205474i",
-    "title": "\"구글, 새로운 서버용 AI 칩 개발 중\" [더인포메이션]",
-    "summary": [
-      "\"구글, 새로운 서버용 AI 칩 개발 중\" [더인포메이션]."
     ],
     "chips": [
       "#AI"
@@ -640,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
     "tag": "엔비디아",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
