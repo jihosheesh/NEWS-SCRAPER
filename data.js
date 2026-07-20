@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-20 16:28:42
+// 마지막 업데이트: 2026-07-20 17:34:41
 window.NEWS_DB = [
   {
     "id": "na3559902",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rU3NtWHFQc2U1bXp4UzQ5UmdrLVI2WVRzV3RXTkVvaWZQR05YWHh5TkoyN3pxeV9heFRjcE5MTWtSMWZ6WW9ZbW5fY2RiVWMwa3lpcGVfUWlCdw?oc=5",
     "title": "엔비디아에 도전하는 AI칩 스타트업, 가치 30조원으로 커진다",
     "summary": [
@@ -18,25 +18,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6b799350",
-    "category": "IT",
-    "source": "디지털데일리",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4VllmYUZtTUdHWFZYTi1aSGxwYXVPMlVEWkhBSDR3dFRvYV9hd25Ib3JjbXY0eDlYMHJxcWFPTlhsUHZ4dUtyblZVNjd3Sm14cXdxMnNmVExibG9YbWF6SVhR?oc=5",
-    "title": "엔비디아 쿠다 독점 장벽 허문다… 알리바바 핀터우, AI 칩 소프트웨어 전격 개방",
-    "summary": [
-      "엔비디아 쿠다 독점 장벽 허문다… 알리바바 핀터우, AI 칩 소프트웨어 전격 개방 디지털데일리."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nb1b9ef35",
     "category": "IT",
     "source": "조선일보",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnJSZHlVTzlYRVBxdkUwOVl0bXk0Z0JqQXNwWGJ0WUYzTTh6ajdLZmhRZ0JFVkhCYnBkdS10MWVwTXZQN19SNm1yVlYxb0J5b1dSYXZaZFNLUVA4MUU3aXd4YVBYRnpLTGl1RWtjZllXTDctZ2FMa0UtV0hyNmxxV2JrWQ?oc=5",
     "title": "알리바바, 엔비디아에 도전장… AI 소프트웨어 무료 공개",
     "summary": [
@@ -44,6 +29,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n44e1fd61",
+    "category": "IT",
+    "source": "문화일보",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80a293cHFOVkpYVjdhU3hCNzMzcEhfYmwxNnp6ZkdZWG14bl9pYnJHT1J3ejc3NE1kbUpXZmVLdTNyQld2MHFlSHJBTlhZaEx0?oc=5",
+    "title": "AI 반도체 약세에…애플, 엔비디아 제치고 장중 시총 1위 탈환",
+    "summary": [
+      "AI 반도체 약세에…애플, 엔비디아 제치고 장중 시총 1위 탈환 문화일보."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -134,6 +135,21 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n0334f5fd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdE1YdkpUSjVXSms1V0FxWUQ0dkh5QkpaOThFSjZHdGxRcVVPTFhrSjZmc2djTjg0MkxsdmdXeUUtTFZWcHNQcE9jQWt0T3FxM20zX2VfUWFlVlZNZk9mZtIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
+    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
+    "summary": [
+      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
+    ],
+    "chips": [
+      "#AI",
       "#고용"
     ]
   },
@@ -287,22 +303,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "152일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -336,10 +336,134 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc81e9a2a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721002300071",
+    "title": "트럼프 \"네타냐후, 美 체류 중 어떤 방식으로도 체포 안될 것\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 20일(현지시간) 베냐민 네타냐후 이스라엘 총리가 미국에 체류하는 동안 어떤 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n51520281",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260721/134333044/1",
+    "title": "“연봉 7500만원에 꿀빤다? 하루종일 동네북”…소방관 아내 분통",
+    "summary": [
+      "소방관 연봉이 업무량 대비 지나치게 높다는 취지의 온라인 게시글에 현직 소방관 아내가 직접 반박하고 나섰다.지난 19일 사회관계망서비스(SNS) 스레드에는 “소방관 12년 근속자의 연봉이 7500만원인 것을 봤다”는 내용으로 시작하는 게시물이 올라왔다.",
+      "작성자는 “진압팀의 하루 평균 화재 출동 횟수가 1건도 되지 않는 곳이 절반 이상이라고 한다”고 주장했다.인사혁신처 공무원 봉급표에 따르면 초임 소방사(1호봉)의 월 기본급은 213만3000원이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea4ee011",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260720167751085",
+    "title": "버넘 영국 총리 취임…\"새 정치·경제모델 만들겠다\"(종합)",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국 집권 노동당의 앤디 버넘(56) 대표가 20일(현지시간) 제59대 영국 총리로 취임했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nde209fdf",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003715780",
+    "title": "월드컵 앞 美 영공 뚫은 항공기…NORAD F-16 출동",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 미국 북미항공우주방위사령부(NORAD)가 2026 국제축구연맹(FIFA) 월드컵 결승을 앞두고 설정된 뉴저지 일대 임시 비행제한구역(TFR)을 침범한 일반 항공기들을 잇따라 차단했다.",
+      "제한 공역에 진입한 항공기는 10대를 넘었으며, 이 가운데 3대는 F-16 전투기의 요격 절차를 거쳐 안전하게 구역 밖으로 유도됐다.",
+      "19일 뉴욕포스트에 따르면 NORAD는 뉴저지 베드민스터와 이스트 러더퍼드 상공에 설정된 임시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n584b8229",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/21/HE3TMNJVHBSTAN3BMM3GGYZYG4/",
+    "title": "EU, 메탄 배출 위반 제재 3년 늦추기로…기후정책 또 후퇴",
+    "summary": [
+      "유럽연합(EU)이 메탄 배출 규정을 위반한 에너지 수입업체에 대한 제재를 3년간 유예하기로 했다.",
+      "중동 정세 악화에 따른 에너지 공급 불안과 주요 액화천연가스(LNG) 수출국의 반발을 고려한 조치다.",
+      "EU 집행위원회는 20일(현지시간) 호르무즈 해협 봉쇄 우려 등으로 글로벌 에너지 공급이 불안정한 상황을 감안해 2027∼2029년 3년 동안 메탄 배출 규."
+    ],
+    "chips": [
+      "#정책",
+      "#수출",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nd10e293f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721002100071",
+    "title": "트럼프 \"이란, 美병사 죽일 때마다 몇배로 대가 치를 것\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 20일(현지시간) 이란의 공격으로 미군 장병이 숨질 때마다 이란이 몇 배로 대..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nae458948",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/21/HFRDQYRSGUYWMM3BMZRWMZBXME/",
+    "title": "'외인 교체&강백호 부상' 우여곡절 한화, 그래도 '서산즈'는 크고 있다…150㎞ 유망주 부상 끝! 시동 걸었다 '3이닝 퍼펙트' [SC 퓨처스]",
+    "summary": [
+      "[스포츠조선 이종서 기자] 부상은 끝났다.",
+      "한화 이글스의 미래 자원이 또 한 번 도약 준비를 마쳤다.",
+      "이기창(21)은 2024년 신인드래프트 5라운드(41순위)로 한화에 지명을 받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5dbfe74c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/21/MQZGIOBTMMZWGMJYG44DQYJYGU/",
+    "title": "'어떤 팀이 지명하겠나' 비하 응원 논란 배재고, 극적 대회 출전...프로, 대학 길도 열리나",
+    "summary": [
+      "[스포츠조선 김용 기자] 프로, 대학은 어떻게 될까.",
+      "논란의 연속이었던 배재고 야구부 '비하 응원' 문제가 일단락됐다.",
+      "대한체육회 스포츠공정위원회는 20일 배재고의 6개월 출전 정지 징계를 1개월로 감경 조치했다."
+    ],
+    "chips": [
+      "#KBO",
+      "#교육"
+    ]
+  },
+  {
     "id": "n891a46f3",
     "category": "사회",
     "source": "동아일보",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260721/134332978/1",
     "title": "61시간 만에 큰불 잡은 인천 쿠팡센터…원인·피해 조사 본격화",
     "summary": [
@@ -355,7 +479,7 @@ window.NEWS_DB = [
     "id": "nc4c22f5d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260721_0003715998",
     "title": "北 외무 \"우크라전, 신성한 전쟁\"…러 외무 \"공헌 결코 잊지 않아\"",
     "summary": [
@@ -371,7 +495,7 @@ window.NEWS_DB = [
     "id": "n9d9de163",
     "category": "사회",
     "source": "동아일보",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260721/134332973/1",
     "title": "“여름되니 소변색 진해졌어요”…‘콩팥’ 위험신호",
     "summary": [
@@ -387,7 +511,7 @@ window.NEWS_DB = [
     "id": "n3d2e8b13",
     "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260721/134332966/1",
     "title": "“선택지 많을수록 좋다?…뇌는 오히려 더 지쳐”",
     "summary": [
@@ -398,24 +522,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n44817c50",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721001200085",
-    "title": "잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 발롱도르를 두 차례 수상하고 리버풀과 잉글랜드 대표팀 감독을 지낸 영국 축구 레전드 케빈 키건이 75세를 일..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n52a2bbbc",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/entertainments/broadcast/2026/07/21/MRSWENTGGIZDQMTDMZSTOOJWGQ/",
     "title": "\"메시 앞 큰절까지?\"…임영웅, 월드컵 결승 현장 포착 '축구 사랑 인증'",
     "summary": [
@@ -427,26 +537,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n77661ba3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/21/GMZWIYRXGZRWKNZRGA2DAZRSGU/",
-    "title": "페덱 이어 보스라니, ML만 49승, 삼성 외인 영입 능력 美쳤다! \"부상 대체외인 레벨이 아니다\"",
-    "summary": [
-      "[스포츠조선 정현석 기자]삼성 라이온즈가 부상으로 이탈한 아리엘 후라도의 대체 외국인 투수로 미국 출신 베테랑 우완 오스틴 보스(34)를 발 빠르게 영입했다.",
-      "계약 조건은 총액 15만 달러다.",
-      "1m88, 97kg의 우수한 신체 조건을 갖춘 보스는 메이저리그(MLB) 무대에서만 통산 210경기에 출전, 17승 20패, 평균자책점 4.84, 이닝당 출루허용률(."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n86ca6eaf",
     "category": "IT",
     "source": "테크M",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153513",
     "title": "정부, 전국민 AI 사용 투 트랙...취약계층 지원 근거 마련·민간 서비스 개발 시동",
     "summary": [
@@ -463,7 +557,7 @@ window.NEWS_DB = [
     "id": "n9a35d0f3",
     "category": "IT",
     "source": "테크M",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153514",
     "title": "\"AI 시대 콘텐츠 경쟁력 키운다\" 네이버, 블로그·카페 등 'UGC' 활성화 박차",
     "summary": [
@@ -480,7 +574,7 @@ window.NEWS_DB = [
     "id": "n382423c1",
     "category": "IT",
     "source": "테크M",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153511",
     "title": "요기요, '여름철 할인·장바구니 기능' 마련...휴가철 배달 이용자 잡는다",
     "summary": [
@@ -496,7 +590,7 @@ window.NEWS_DB = [
     "id": "nce187a38",
     "category": "경제",
     "source": "아시아경제",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026072022245323073",
     "title": "[위너스 클럽] 디 오픈 챔피언 폭스 '속사포 퍼트로 끝냈다'",
     "summary": [
@@ -509,68 +603,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neba825ab",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/07/22/TZBNXXTR25EWFKW5TQOF4GQ3AQ/",
-    "title": "패스 성공률 93%… 스페인 ‘중원의 알파고’ 로드리, 아르헨 농락",
-    "summary": [
-      "패스 성공률 93%… 스페인 ‘중원의 알파고’ 로드리, 아르헨 농락."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37d7388e",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "36분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/21/2026072100494282480",
-    "title": "美휘발유값 다시 갤런당 4달러대…이란 무력충돌 재개 여파",
-    "summary": [
-      "미국과 이란의 무력 충돌이 9일째 이어지면서 미국 주요소 휘발유 가격이 갤런당 4달러선을 다시 넘어섰다.",
-      "20일(현지시간) 전미자동차협회에 따르면 미국의 휘발유 평균 가격이 이날 기준 갤런당 4.003달러(1리터당 약 1570원)로 집계됐다.",
-      "경유 가격은 갤런당 5.108달러까지 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbe6304ea",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260720165751079",
-    "title": "하마스 새 수장에 칼릴 알하야…휴전 협상 주도 초강경파(종합)",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 팔레스타인 무장정파 하마스가 새로운 수장으로 칼릴 알 하야를 선출했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n25243fb0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "48분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721000900087",
-    "title": "관세 장벽에도 멕시코서 中 자동차 판매↑…상반기 점유율 17%",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 멕시코 정부가 아시아산 차량을 겨냥해 고율의 관세를 부과했지만, 올해 상반기 중국 자동차 판매량이 멕시..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7452b48d",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "48분 전",
+    "time": "1시간 전",
     "url": "https://biz.chosun.com/it-science/ict/2026/07/21/QA5U7OWF65FBPMLRGBTVZDLR74/",
     "title": "中 AI ‘키미 K3’ 약진에… 美, 중국산 AI 차단 검토",
     "summary": [
@@ -581,65 +617,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n162f753b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "49분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/21/QUVDXJFN7NFQBPWVLABT3WDEYY/",
-    "title": "[이번 주 뭐 볼까] 요리 장사꾼들의 ‘매출’ 승부",
-    "summary": [
-      "[이번 주 뭐 볼까] 요리 장사꾼들의 ‘매출’ 승부."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n812c2d52",
     "category": "IT",
     "source": "한국경제",
-    "time": "56분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607205474i",
-    "title": "\"구글,새로운 서버용 AI칩 개발중\" [더인포메이션]",
+    "title": "\"구글, 새로운 서버용 AI 칩 개발 중\" [더인포메이션]",
     "summary": [
-      "\"구글,새로운 서버용 AI칩 개발중\" [더인포메이션]."
+      "\"구글, 새로운 서버용 AI 칩 개발 중\" [더인포메이션]."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "nc17ad8eb",
+    "id": "nb99f884e",
     "category": "IT",
-    "source": "동아일보",
-    "time": "58분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260720/134331611/2",
-    "title": "HD현대-네이버클라우드, 조선업 특화 AI 구축 협약",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/202607205471i",
+    "title": "중동 '10일 휴전안' 부상…구글, 추론 전용칩 개발 추진 [빈난새의 개장전요것만]",
     "summary": [
-      "HD현대와 네이버클라우드가 조선업 인공지능(AI) 생태계 구축을 위해 손을 잡았다.",
-      "HD현대 중간지주사 HD한국조선해양은 최근 네이버클라우드와 ‘피지컬 AI 기반 조선 사업 혁신 업무협약(MOU)’을 체결하고 조선업 특화 AI 및 클라우드 인프라 구축 등을 공동으로 추진하기로 했다고 20일 밝혔다.",
-      "두 회사는 조선업 맞춤형 AI 및 클라우드 팩토리를 구축해 생산-연구개발-제조 등 모든 단계에 대한 디지털 전환을 추진하기로 했다."
+      "중동 '10일 휴전안' 부상…구글, 추론 전용칩 개발 추진 [빈난새의 개장전요것만]."
     ],
     "chips": [
-      "#AI",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "ncc6ca52a",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "58분 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003715555",
-    "title": "\"삼전·TSMC 역대급 실적인데\"…반도체株 약세 이유는 '이것'",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 삼성전자와 세계 최대 파운드리 업체 TSMC가 시장 예상치를 웃도는 분기 실적을 발표했음에도, 글로벌 반도체주가 약세를 보인 배경에는 AI 산업의 수익성과 투자 지속 가능성에 대한 시장의 우려가 반영됐다는 분석이 나왔다.",
-      "김광석 한양대 겸임교수는 지난 18일 구독자 50만명의 유튜브 채널 '경제 읽어주는 남자(김광석TV)'의 '역대급 실적발표에도 반도체 주가가 폭락하는 진짜 이유' 편에 출연해 최근 반도체 업."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자"
+      "#뉴스"
     ]
   }
 ];
@@ -648,15 +650,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "AI",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
