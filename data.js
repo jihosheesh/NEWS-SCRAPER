@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-20 17:34:41
+// 마지막 업데이트: 2026-07-20 18:36:30
 window.NEWS_DB = [
   {
     "id": "na3559902",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rU3NtWHFQc2U1bXp4UzQ5UmdrLVI2WVRzV3RXTkVvaWZQR05YWHh5TkoyN3pxeV9heFRjcE5MTWtSMWZ6WW9ZbW5fY2RiVWMwa3lpcGVfUWlCdw?oc=5",
     "title": "엔비디아에 도전하는 AI칩 스타트업, 가치 30조원으로 커진다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nb1b9ef35",
     "category": "IT",
     "source": "조선일보",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnJSZHlVTzlYRVBxdkUwOVl0bXk0Z0JqQXNwWGJ0WUYzTTh6ajdLZmhRZ0JFVkhCYnBkdS10MWVwTXZQN19SNm1yVlYxb0J5b1dSYXZaZFNLUVA4MUU3aXd4YVBYRnpLTGl1RWtjZllXTDctZ2FMa0UtV0hyNmxxV2JrWQ?oc=5",
     "title": "알리바바, 엔비디아에 도전장… AI 소프트웨어 무료 공개",
     "summary": [
@@ -318,10 +318,171 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n40ecfb7f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721003200075",
+    "title": "오락가락 美기생충 사태…\"테일러팜스 양상추서 검출 안돼\"",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국에서 수천 명의 환자를 발생시킨 기생충 감염 사태의 발병 경로가 미궁에 빠지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c97085a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721003700527",
+    "title": "인천 남부에 호우주의보 발효…강화·연평도·우도 주의보 유지",
+    "summary": [
+      "(인천=연합뉴스) 기상청은 21일 오전 3시 10분을 기해 인천 남부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n043bdc90",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260720_0003715474",
+    "title": "\"남편이 집 판 잔금으로 주식했다가 반토막\"…아내는 '부글부글'",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 우연지 인턴기자 = 최근 국내 증시가 급등과 급락을 반복하며 변동성이 커진 가운데 남편이 집을 팔아 마련한 잔금을 주식에 투자했다가 평가액이 절반으로 줄었다는 아내의 사연이 화제다.",
+      "최근 직장인 익명 커뮤니티 블라인드에는 '주식으로 사고 친 남편'이라는 제목의 글이 올라왔다.",
+      "작성자는 \"2주도 안 되는 시간에 주식으로 잔금의 절반을 날렸다고 한다\"며 \"가슴속 깊은 곳에서 부글부글 끓어오르는 느낌\"이라고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nce8e9fb5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003716001",
+    "title": "\"미군 피격·인명피해 제대로 공개 안돼\"…피해 축소 의혹",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국과 이란의 군사충돌이 격화되면서 지난 주말에만 3명의 미군이 사망한 가운데, 미 국방부(전쟁부)가 미군 인명피해 상황을 제대로 공개하지 않고 있다는 지적이 제기됐다.",
+      "뉴욕타임스(NYT)는 20일(현지 시간) 복수 소식통을 인용해 요르단에서 미군 2명이 사망하고 1명이 실종되기 앞서 이란은 지난주 요르단 미군기지를 향해 3차례 공격을 감행했으며, 이로인해 미군 수십명이 다치고 헬기 등이 파손됐다고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n12cc8d0f",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721003600527",
+    "title": "경기 부천에 호우주의보 발효…안산·김포는 주의보 유지",
+    "summary": [
+      "(수원=연합뉴스) 기상청은 21일 오전 3시 10분을 기해 경기 부천에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63b8c215",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721003400085",
+    "title": "스타머에 맞섰던 힐리 전 국방, 버넘 내각 '2인자' 재무장관에",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 20일(현지시간) 취임한 앤디 버넘 영국 총리의 재무장관으로 전임 키어 스타머 전 총리에 반발해 사임했던 존..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n745a78df",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/international/china/2026/07/21/TRWHQBICYFHGNHEPI5PFYKSNSQ/",
+    "title": "‘베이징 덕’은 알고 있다 “이것은 중·EU 무역전쟁의 서막\"",
+    "summary": [
+      "‘베이징 덕’은 알고 있다 “이것은 중·EU 무역전쟁의 서막\"."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nb3097567",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/07/21/4NMZWPARYVDDTDLXSBHRZZZTRQ/",
+    "title": "DJ계 김상현과 단합 논의… 세 번째 만남에 “약속 하고 오지를 않는다”",
+    "summary": [
+      "DJ계 김상현과 단합 논의… 세 번째 만남에 “약속 하고 오지를 않는다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n64f59381",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/national/education/2026/07/21/K6KUAO2TZVBXJFRGASH4NP3L4U/",
+    "title": "한증막은 ‘sauna‘… 뜨끈한 온탕은?",
+    "summary": [
+      "한증막은 ‘sauna‘… 뜨끈한 온탕은?."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44d86fd1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/topclass/topclass_series/2026/07/21/MCOAA6RP7FBRBAYZBE5B7NH5J4/",
+    "title": "‘감정적 행복’을 우선시 할 때 우리가 잃는 것들",
+    "summary": [
+      "인생에서 고통은 피할 수 없잖아요.",
+      "고통 없이는 변화할 수도, 성장할 수도 없다고 생각해요.",
+      "하지만 현대의 치료요법 문화는 삶에서 경험하는 정신적 고통을 피해야 하는 병리이자 자아의 정신 건강을 위협하는 요인으로 평면화하는 경향이 있어요."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n33135c6c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "37분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003716002",
+    "title": "트럼프 \"이란, 미군 병사 사살할 때마다 몇 배로 보복\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 최근 이란 공격으로 미군 병사가 잇따라 사망한 가운데, 도널드 트럼프 미국 대통령이 강력한 보복을 경고했다.",
+      "트럼프 대통령은 20일(현지 시간) 자신의 소셜미디어(SNS) 트루스소셜을 통해 \"이란이 미군 병사를 한 명을 죽일 때마다 그 대가를 몇 배로 치르게 될 것\"이라고 밝혔다.",
+      "그는 \"이 지시는 피트 헤그세스 국방장관, 댄 케인 합참의장, 그리고 모든 군 지휘관에게 전달됐다\"고 강조했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n803556dd",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "53분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153515",
     "title": "네이버, 브룩필드 본사 찾는다...'AI 팩토리' 협력 본격화",
     "summary": [
@@ -336,24 +497,26 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc81e9a2a",
+    "id": "nd1119f87",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721002300071",
-    "title": "트럼프 \"네타냐후, 美 체류 중 어떤 방식으로도 체포 안될 것\"",
+    "source": "뉴시스",
+    "time": "54분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003715999",
+    "title": "버넘 영국 총리, 공식 취임…\"낼부터 국민 숨통 틔워줄 조치 발표\"",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 20일(현지시간) 베냐민 네타냐후 이스라엘 총리가 미국에 체류하는 동안 어떤 ..."
+      "[서울=뉴시스]고재은 기자 = 앤디 버넘 영국 노동당 대표(56)가 20일(현지 시간) 영국의 제 59대 총리로 공식 취임했다.",
+      "그는 새 정부가 영국의 '서킷 브레이커' 같은 역할을 할 것이라고 강조했다.",
+      "가디언, BBC 등에 따르면 버넘 총리는 이날 런던 다우닝가 10번지 총리실 앞에서 취임 연설을 진행했다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
     "id": "n51520281",
     "category": "사회",
     "source": "동아일보",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260721/134333044/1",
     "title": "“연봉 7500만원에 꿀빤다? 하루종일 동네북”…소방관 아내 분통",
     "summary": [
@@ -365,105 +528,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nea4ee011",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260720167751085",
-    "title": "버넘 영국 총리 취임…\"새 정치·경제모델 만들겠다\"(종합)",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국 집권 노동당의 앤디 버넘(56) 대표가 20일(현지시간) 제59대 영국 총리로 취임했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nde209fdf",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "33분 전",
-    "url": "https://www.newsis.com/view/NISX20260720_0003715780",
-    "title": "월드컵 앞 美 영공 뚫은 항공기…NORAD F-16 출동",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 미국 북미항공우주방위사령부(NORAD)가 2026 국제축구연맹(FIFA) 월드컵 결승을 앞두고 설정된 뉴저지 일대 임시 비행제한구역(TFR)을 침범한 일반 항공기들을 잇따라 차단했다.",
-      "제한 공역에 진입한 항공기는 10대를 넘었으며, 이 가운데 3대는 F-16 전투기의 요격 절차를 거쳐 안전하게 구역 밖으로 유도됐다.",
-      "19일 뉴욕포스트에 따르면 NORAD는 뉴저지 베드민스터와 이스트 러더퍼드 상공에 설정된 임시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n584b8229",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/21/HE3TMNJVHBSTAN3BMM3GGYZYG4/",
-    "title": "EU, 메탄 배출 위반 제재 3년 늦추기로…기후정책 또 후퇴",
-    "summary": [
-      "유럽연합(EU)이 메탄 배출 규정을 위반한 에너지 수입업체에 대한 제재를 3년간 유예하기로 했다.",
-      "중동 정세 악화에 따른 에너지 공급 불안과 주요 액화천연가스(LNG) 수출국의 반발을 고려한 조치다.",
-      "EU 집행위원회는 20일(현지시간) 호르무즈 해협 봉쇄 우려 등으로 글로벌 에너지 공급이 불안정한 상황을 감안해 2027∼2029년 3년 동안 메탄 배출 규."
-    ],
-    "chips": [
-      "#정책",
-      "#수출",
-      "#환경"
-    ]
-  },
-  {
-    "id": "nd10e293f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721002100071",
-    "title": "트럼프 \"이란, 美병사 죽일 때마다 몇배로 대가 치를 것\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 20일(현지시간) 이란의 공격으로 미군 장병이 숨질 때마다 이란이 몇 배로 대..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nae458948",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/21/HFRDQYRSGUYWMM3BMZRWMZBXME/",
-    "title": "'외인 교체&강백호 부상' 우여곡절 한화, 그래도 '서산즈'는 크고 있다…150㎞ 유망주 부상 끝! 시동 걸었다 '3이닝 퍼펙트' [SC 퓨처스]",
-    "summary": [
-      "[스포츠조선 이종서 기자] 부상은 끝났다.",
-      "한화 이글스의 미래 자원이 또 한 번 도약 준비를 마쳤다.",
-      "이기창(21)은 2024년 신인드래프트 5라운드(41순위)로 한화에 지명을 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5dbfe74c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/21/MQZGIOBTMMZWGMJYG44DQYJYGU/",
-    "title": "'어떤 팀이 지명하겠나' 비하 응원 논란 배재고, 극적 대회 출전...프로, 대학 길도 열리나",
-    "summary": [
-      "[스포츠조선 김용 기자] 프로, 대학은 어떻게 될까.",
-      "논란의 연속이었던 배재고 야구부 '비하 응원' 문제가 일단락됐다.",
-      "대한체육회 스포츠공정위원회는 20일 배재고의 6개월 출전 정지 징계를 1개월로 감경 조치했다."
-    ],
-    "chips": [
-      "#KBO",
-      "#교육"
-    ]
-  },
-  {
     "id": "n891a46f3",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260721/134332978/1",
     "title": "61시간 만에 큰불 잡은 인천 쿠팡센터…원인·피해 조사 본격화",
     "summary": [
@@ -476,26 +544,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc4c22f5d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003715998",
-    "title": "北 외무 \"우크라전, 신성한 전쟁\"…러 외무 \"공헌 결코 잊지 않아\"",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 북한과 러시아 외무장관이 20일(현지 시간) 회담을 갖고 우크라이나 전쟁에 대한 지지를 재확인하며 양국 밀착을 강조했다.",
-      "타스통신, 리아노보스티통신 등에 따르면 최선희 북한 외무상은 이날 러시아 모스크바에서 세르게이 라브로프 러시아 외무장관을 만났다.",
-      "그는 러우 전쟁이 러시아의 주권을 수호하기 위한 투쟁이라고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n9d9de163",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260721/134332973/1",
     "title": "“여름되니 소변색 진해졌어요”…‘콩팥’ 위험신호",
     "summary": [
@@ -511,7 +563,7 @@ window.NEWS_DB = [
     "id": "n3d2e8b13",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260721/134332966/1",
     "title": "“선택지 많을수록 좋다?…뇌는 오히려 더 지쳐”",
     "summary": [
@@ -522,25 +574,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n52a2bbbc",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/21/MRSWENTGGIZDQMTDMZSTOOJWGQ/",
-    "title": "\"메시 앞 큰절까지?\"…임영웅, 월드컵 결승 현장 포착 '축구 사랑 인증'",
-    "summary": [
-      "[OSEN=김수형 기자]가수 임영웅이 2026 FIFA 북중미 월드컵 결승전 현장을 찾은 근황을 공개했다.임영웅은 최근 자신의 SNS를 통해 월드컵 공식 출입 패스와 함께 경기장 곳곳에서 촬영한 사진 여러 장을 공개했다.공개된 사진에는 2026 FIFA 월드컵 공식 출입 패스를 손에 든 모습이 담겼다.",
-      "결승전이 열린 경기장을 직접 찾은 것.또 다른 사진에서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n86ca6eaf",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153513",
     "title": "정부, 전국민 AI 사용 투 트랙...취약계층 지원 근거 마련·민간 서비스 개발 시동",
     "summary": [
@@ -557,7 +594,7 @@ window.NEWS_DB = [
     "id": "n9a35d0f3",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153514",
     "title": "\"AI 시대 콘텐츠 경쟁력 키운다\" 네이버, 블로그·카페 등 'UGC' 활성화 박차",
     "summary": [
@@ -574,7 +611,7 @@ window.NEWS_DB = [
     "id": "n382423c1",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153511",
     "title": "요기요, '여름철 할인·장바구니 기능' 마련...휴가철 배달 이용자 잡는다",
     "summary": [
@@ -587,26 +624,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nce187a38",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026072022245323073",
-    "title": "[위너스 클럽] 디 오픈 챔피언 폭스 '속사포 퍼트로 끝냈다'",
-    "summary": [
-      "라이언 폭스(뉴질랜드)는 플레이가 빠르다.",
-      "그린에서도 주저하지 않고 자신을 믿는다.",
-      "폭스가 시즌 마지막 메이저 대회 디 오픈에서도 망설임 없는 속사포 루틴으로 클라레 저그를 품에 안았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7452b48d",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://biz.chosun.com/it-science/ict/2026/07/21/QA5U7OWF65FBPMLRGBTVZDLR74/",
     "title": "中 AI ‘키미 K3’ 약진에… 美, 중국산 AI 차단 검토",
     "summary": [
@@ -615,34 +636,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
-  },
-  {
-    "id": "n812c2d52",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/202607205474i",
-    "title": "\"구글, 새로운 서버용 AI 칩 개발 중\" [더인포메이션]",
-    "summary": [
-      "\"구글, 새로운 서버용 AI 칩 개발 중\" [더인포메이션]."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nb99f884e",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/202607205471i",
-    "title": "중동 '10일 휴전안' 부상…구글, 추론 전용칩 개발 추진 [빈난새의 개장전요것만]",
-    "summary": [
-      "중동 '10일 휴전안' 부상…구글, 추론 전용칩 개발 추진 [빈난새의 개장전요것만]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -650,15 +643,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "뉴스",
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
