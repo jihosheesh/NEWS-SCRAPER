@@ -1,11 +1,41 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-21 15:31:34
+// 마지막 업데이트: 2026-07-21 16:28:44
 window.NEWS_DB = [
+  {
+    "id": "nfaa9ec62",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "54분 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2FKQTB1dmFGYmhZbFpFZE9lT2I2T0YySGNTZEN6WE5MWXczLUZwd3RQT0RSVWlKamxZVl82V3cyZDBQSkxjNzZpWWRHTXJLSzdma0xzSmsyMV8tZU5iUTN1QnUzT3dmd3FoVjlUYXVoWTd0UXhqb3JHNE9jLTVKNnZobw?oc=5",
+    "title": "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입",
+    "summary": [
+      "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입 조선일보."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "ncded4fab",
+    "category": "IT",
+    "source": "파이낸셜뉴스",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xZk4tVEhGOUVWYkhEOHRhUU9tV1hMR0dTaXducUZnZGNULThpMXRWZ0ZXRzJCdmhRdkFXa3BPbGNrMGUwaVFEcVIzUnAtRk0xVEpVcE1VSDFzUQ?oc=5",
+    "title": "엔비디아, CPU도 직접 만든다…AMD·인텔 정조준",
+    "summary": [
+      "엔비디아, CPU도 직접 만든다…AMD·인텔 정조준 파이낸셜뉴스."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n9007875e",
     "category": "경제",
     "source": "자유일보",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbWRfRHlIZjVCN2NNUTl0SUFuN3FZbDFNVkZPWHhnYXFSNUpyb0laWml6QWpCWnA5eWstRDFIU0s4b0xzSnctb3hXLWJua0JLNTNpaS11WXo5WUt0dV9YWXBXU21ab1UwcmZn0gFvQVVfeXFMTUhzV0FlZExhb1cyWjZJNGJJSEd6MDBtUG5zTExYVkhjM2ZGM2RTVzRsUXZ3MENPXzhuY3FJZVdPYVFHTW9VRXpLY0FkV0R1YUZRR3F0NmVPbFYxZkowZGdOcGVhU216MTVjams1LTc0?oc=5",
     "title": "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’",
     "summary": [
@@ -19,7 +49,7 @@ window.NEWS_DB = [
     "id": "n3efd7aa7",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZFhGeURJRHhsNzJsQ1FCdFllRmRoUTExcDZubzRVUzhJVk41MU15Y1V6Q1dmM09oSFh5bTF4Nkd2dDlZM25RdmpPREo1SUFFaTlmMmc5ak9KV0XSAWBBVV95cUxPTlhKQmxCZ1pkY2UyT2E4ZC1mUFRfcEotWXJyejE3V2puMkdQcWFEUzdWS2xxZW9Ca0VqSndvZ21FcmxXbW81T1VSZENac0hMc1dacUlYT0R1UjZiSHZ2Ym0?oc=5",
     "title": "中AI기업 즈푸, 국산반도체로 데이터센터 완공…脫엔비디아 속도",
     "summary": [
@@ -28,36 +58,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n5868a989",
-    "category": "IT",
-    "source": "초이스스탁US",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
-    "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
-    "summary": [
-      "엔비디아 시총 5조달러 아래로…AI 독주 시험대 초이스스탁US."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nb1b9ef35",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnJSZHlVTzlYRVBxdkUwOVl0bXk0Z0JqQXNwWGJ0WUYzTTh6ajdLZmhRZ0JFVkhCYnBkdS10MWVwTXZQN19SNm1yVlYxb0J5b1dSYXZaZFNLUVA4MUU3aXd4YVBYRnpLTGl1RWtjZllXTDctZ2FMa0UtV0hyNmxxV2JrWQ?oc=5",
-    "title": "알리바바, 엔비디아에 도전장… AI 소프트웨어 무료 공개",
-    "summary": [
-      "알리바바, 엔비디아에 도전장… AI 소프트웨어 무료 공개 조선일보."
-    ],
-    "chips": [
-      "#AI",
       "#엔비디아"
     ]
   },
@@ -378,257 +378,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n12c65c06",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260721/134339296/2",
-    "title": "삼성전자 ‘로봇 승부수’… 대표 직속 전담조직 시동",
-    "summary": [
-      "삼성전자가 차세대 핵심 성장동력인 로봇 사업을 본격 육성하기 위해 대표이사 직속 전담 컨트롤타워를 신설했다.",
-      "21일 삼성전자는 노태문 대표이사 겸 디바이스경험(DX)부문장(사장) 직속으로 ‘RX(Robotics eXperience)사업추진실’을 신설하는 내용의 조직 개편을 단행했다.",
-      "흩어져 있던 하드웨어, AI·소프트웨어 핵심 기술 개발과 중장기 전략 수립, 상품 기획 등 사업화 전반을 RX사업추진실이 통합해 추진하겠다는 취지에서다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n2d22f5c0",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260721/134339311/2",
-    "title": "JP모건 “코스피 급락은 삼전닉스 레버리지 탓”",
-    "summary": [
-      "코스피가 21일 종가 기준으로 최고점 대비 25.97% 급락한 영향은 단일종목을 포함한 레버리지 상장지수펀드(ETF)의 영향이 컸다는 글로벌 투자은행(IB)의 분석이 나왔다.",
-      "레버리지 ETF가 강제 청산된 규모는 적정 수준의 75%가량에 이른 것으로 추산됐다.",
-      "JP모건은 이날 ‘한국의 디레버리징 과정의 최신 동향’ 보고서를 통해 “(코스피의 급락은) 레버리지 ETF로 인해 증폭됐다”고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n97a95d3f",
+    "id": "nc7886160",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260721/134339313/2",
-    "title": "현대차그룹 “FIFA, 같이 갑시다”… 2030년까지 공식 후원",
-    "summary": [
-      "최근 막을 내린 ‘2026 북중미 월드컵’ 공식 파트너사로 국제축구연맹(FIFA)을 후원한 현대자동차그룹이 2030년까지 FIFA와의 파트너십을 이어나간다.",
-      "21일 현대차그룹은 2030년까지 FIFA 주관 대회 공식 후원사로 참여할 예정이라고 밝혔다.",
-      "현대차그룹 관계자는 “특히 2030 월드컵은 초대 월드컵 이후 100주년을 맞는 대회라 의미를 더할 것”이라고 덧붙였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1f6dbc3d",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260721/134338978/2",
-    "title": "“불안한 주식 대신 예금”… 5대은행 예금잔액 보름새 16조 급증",
-    "summary": [
-      "이달 들어 5대 은행 예금 잔액이 보름 만에 16조 원 가까이 늘어난 것으로 나타났다.",
-      "1년 2개월 만에 가장 많이 불어났다.",
-      "증시가 연일 큰 폭으로 오르내리길 반복하자 불안한 주식 대신 안정적인 은행 예금을 찾는 투자자들이 늘고 있는 것으로 풀이된다.21일 금융권에 따르면 5대 은행(KB국민·신한·하나·우리·NH농협)의 정기예금 잔액은 15일 기준으로 965조2949억 원이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3191dd36",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003716260",
-    "title": "\"20년 넘게 사실혼이었는데\"…남편 사망 후 전처 나타나 연금 요구",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 20년 넘게 사실혼 관계로 함께 살며 자녀까지 키웠지만, 배우자가 숨지자 장례식장에 나타난 전처가 \"법률상 배우자는 나\"라며 유족연금 등을 요구해 법적 분쟁에 놓인 여성의 사연이 전해졌다.",
-      "21일 YTN 라디오 '조인섭 변호사의 상담소'에 따르면 해당 여성은 혼인신고를 하지 않은 채 20년 넘게 남편과 사실상 부부로 살아왔지만, 남편이 법적으로 전처와 이혼하지 않은 사실이 뒤늦게 드러나 법적 보호를 받을 수."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nad069c9c",
-    "category": "경제",
-    "source": "한국경제",
+    "source": "머니투데이",
     "time": "3분 전",
-    "url": "https://www.hankyung.com/article/202607217917i",
-    "title": "노보, 릴리 \"비만치료제 허위광고\"혐의로 소송",
+    "url": "https://www.mt.co.kr/sports/2026/07/22/2026072115230289682",
+    "title": "박준영 '또' 조기강판, '8G 연속 선발승 無' 한화... 달감독 고민이 커진다 [광주 현장]",
     "summary": [
-      "노보, 릴리 \"비만치료제 허위광고\"혐의로 소송."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f359eb8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003717750",
-    "title": "美법원, \"회고록 녹음 공개 막아달라\" 바이든 요청 기각",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 연방 항소법원이 회고록 대필 작가와 나눈 인터뷰 녹음파일과 녹취록의 공개를 막아달라는 조 바이든 전 대통령 요청을 기각했다.",
-      "21일(현지 시간) AP통신에 따르면 워싱턴DC 연방항소법원은 전날 이같이 결정했다.",
-      "다만 바이든 측이 추가 항소를 검토할 수 있도록 결정의 효력을 다음 달 3일까지 유예했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb6aeaf21",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717062",
-    "title": "\"더 말랐네\"…'뼈말라' 수지, 몸매 관리 비결은 '이 운동’",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 배우 겸 가수 수지가 한층 마른 모습으로 해외 공식 행사에 참석하면서 온라인에서 \"건강은 괜찮은 것 아니냐\", \"점점 더 말라지는 것 같다\"는 반응이 이어지고 있다.",
-      "최근 수지는 자신의 사회관계망서비스(SNS)에 글로벌 헤어케어 브랜드 행사 참석 사진을 공개했다.",
-      "오프숄더 드레스를 입은 그는 또렷한 쇄골과 가는 팔, 잘록한 허리 라인을 드러내며 특유의 청순한 분위기를 자아냈다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n5674b085",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/22/GVRWCM3EMRSWEOJTMUZGKOBQMI/",
-    "title": "'男3표' 받은 강유경, 최종 선택은 박우열.. '하트5' 두 커플 탄생",
-    "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다>[OSEN=김수형 기자]'하트시그널5' 강유경이 세 남성의 선택을 받은 끝에 박우열을 최종 선택하며 커플이 성사됐다.21일 방송된 채널A '하트시그널 시즌5'에서는 입주자들의 마지막 선택이 공개됐다.최종 선택을 앞두고 박우열은 강유경에게 진심을 담은 편지를 건넸다.",
-      "이는 이틀 전 강유경에게 받은 편지에 대한 답장이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n285667ed",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717746",
-    "title": "마이크로소프트, 佛 미스트랄과 수십억달러 AI 인프라 이용계약",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 미국 마이크로소프트(MS)가 프랑스의 대표 인공지능(AI) 기업 미스트랄 AI의 유럽 내 컴퓨팅 인프라를 이용하기로 했다.",
-      "유럽의 AI 연산 능력을 확보하는 동시에 현지 기업과 공공기관의 데이터 주권 수요를 공략하려는 행보로 풀이된다.",
-      "21일(현지시간) 양사 공동 발표에 따르면 MS는 미스트랄AI(이하 미스트랄)와 유럽에서 확충하는 그래픽처리장치(GPU) 인프라 일부를 활용하는 수십억달러 규모의 계약을 체결했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n44f6cc50",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722000400079",
-    "title": "무력충돌 중 집중포화 맞은 쿠웨이트, 이란 대사 초치",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 미국의 공습에 대한 이란의 맹렬한 보복으로 집중포화를 맞고 있는 쿠웨이트가 자국 주재 이란 대사를 초치해 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2ae1f337",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/22/HE3DOZBXMFSTMMZWMMZTEYJVMU/",
-    "title": "1회 무사 만루에서 무너지지 않다...데뷔 첫 선발→5이닝 3자책, 감독 칭찬 \"원종해가 1회 위기 넘기고 5이닝 책임져 승리 발판\"",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 NC 다이노스가 LG 트윈스를 꺾고 3연패에서 탈출했다.",
-      "NC는 21일 잠실구장에서 열린 LG와 경기에서 7-5 역전승을 거뒀다.",
-      "14안타를 몰아쳤고, 7회 김휘집이 결승 투런 홈런을 터뜨렸다.NC는 데뷔 첫 선발투수로 등판한 원종해가 1회 무사 만루 위기에서 2점을 허용하면서 끌려갔다."
+      "8경기 연속 선발승이 없다.",
+      "류현진과 오웬 화이트라는 강력한 원투펀치를 갖추고도 한화 이글스가 선발진의 고전과 불펜진의 난조 속에 고개를 떨구고 있다.",
+      "박준영(24)은 다시 한 번 조기 강판됐다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nd5fdc5e9",
+    "id": "na708dbd1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/22/GYYWGYZZG5STGYZTGFTGMOBSHE/",
+    "title": "\"불가능하지 않을걸?\" 이정후 향한 썰썰썰…아무도 모르는 SF 속마음, 결과는",
+    "summary": [
+      "[스포츠조선 박상경 기자] 일말의 가능성은 존재한다.",
+      "하지만 현실이 될지는 아무도 모른다.",
+      "트레이드 마감일을 앞둔 메이저리그의 시선이 바쁘게 돌아가고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n64f0fd57",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722001900108",
+    "title": "푸틴, 11월 APEC 정상회의 간다…李대통령 만남 성사될까",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 블라디미르 푸틴 러시아 대통령이 오는 11월 18∼19일 중국 선전에서 열리는 아시아태평양경제협력체(AP..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n49a9dda1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003716666",
+    "title": "\"하루 5잔 커피, 심장에 약이 될 수도\"…하지만 '이것'은 피해야",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 하루 5잔 정도의 커피를 마시는 것이 심혈관 질환과 제2형 당뇨병 위험을 낮추는 데 도움이 될 수 있다는 연구 결과가 나왔다.",
+      "다만 카페인을 과도하게 섭취하거나 에너지음료 등 고농축 카페인 제품을 마실 경우에는 오히려 심장 건강을 해칠 수 있어 주의가 필요하다.",
+      "20일(현지 시간) 영국 일간지 데일리메일에 따르면, 미국 연구진이 미국심장협회(AHA) 학술지에 발표한 최신 연구에서 설탕이나 시럽, 우유 등을 넣."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n647fbad1",
     "category": "사회",
     "source": "조선일보",
     "time": "11분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/07/22/3XRC3V67LJDDHKX66QYEFEZMYY/",
-    "title": "[사설] 李 “이익 배분은 쟁의 대상 아냐” 옳은 말, 후속 조치 서둘러야",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/22/GJTDGYTFME4WCNBZGMYWIZBYMI/",
+    "title": "역주행인데 첫 정산 아직?…리센느 원이 눈물에, 장도연도 울컥 [Oh!쎈 예고]",
     "summary": [
-      "[사설] 李 “이익 배분은 쟁의 대상 아냐” 옳은 말, 후속 조치 서둘러야."
+      "<방송 시청 후 작성된 리뷰 기사입니다>[OSEN=김수형 기자]최근 음원 역주행으로 주목받고 있는 그룹 리센느 멤버 원이가 첫 정산에 대한 바람을 털어놓으며 눈물을 흘렸다.",
+      "이를 지켜보던 장도연도 함께 울컥했다.21일 유튜브 채널 'TEO 테오'에는 웹예능 '살롱드립' 150회 예고 영상이 공개됐다.",
+      "영상에는 리센느 멤버 원이와 미나미가 출연해 데뷔 비하인."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf3aaaea5",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/202607217964i",
-    "title": "美USTR대표,\"금주 만료될 10%관세 후속 조치 곧 발표\"",
-    "summary": [
-      "美USTR대표,\"금주 만료될 10%관세 후속 조치 곧 발표\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b076f2c",
+    "id": "n44b9410d",
     "category": "사회",
     "source": "연합뉴스",
     "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721189000087",
-    "title": "칠레 폭우로 최소 10명 사망…정부 '재난 사태' 선포",
+    "url": "https://www.yna.co.kr/view/AKR20260722002300072",
+    "title": "캐나다 총리, '50% 관세'에 \"트럼프와 통화…협상 강화 합의\"",
     "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 강풍을 동반한 집중호우가 칠레를 강타하면서 최소 10명이 사망하고, 4명이 실종됐다."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 마크 카니 캐나다 총리는 21일(현지시간) 미국의 새로운 관세 부과 발표와 관련, 도널드 트럼프 미 대통령과..."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n2e2766a3",
-    "category": "사회",
-    "source": "연합뉴스",
+    "id": "n270b891f",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721022852004",
-    "title": "장윤기 특별수사단, 경찰청 국수본 16시간 넘게 압수수색(종합2보)",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/22/MM2DSYJYGMZDOYZQGRSDCNDFHE/",
+    "title": "‘6연패 충격 LG’ 무사 만루, 또 적시타 침묵하다. 5G 득점권 8푼1리…0승 투수 선발 데뷔전에도 패배하다",
     "summary": [
-      "(서울=연합뉴스) 한지은 이밝음 기자 = 검찰과 경찰이 지난 21일 장윤기 사건 부실 수사와 증거인멸 의혹 등을 규명하기 위해 경찰청 국가수사본..."
+      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스가 또 졌다.",
+      "6연패다.LG는 21일 잠실구장에서 열린 NC와 경기에서 5-7 역전패를 당했다.",
+      "5연패의 LG, 3연패의 NC, 모두 물러설 수 없는 총력전이었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n1354933b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722002200071",
+    "title": "트럼프 \"후티 홍해 봉쇄하면 처리할것…이란 곡괭이산 곧 타격\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 21일(현지시간) 예멘의 친(親)이란 무장세력 후티 반군이 홍해 봉쇄를 선언한..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n27f6d9dc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003717754",
+    "title": "유시민 \"'뉴이재명' 수장은 李대통령 가능성…집권 직후부터 기획\"",
+    "summary": [
+      "[서울=뉴시스] 이창환 기자 = 유시민 작가는 21일 \"뉴이재명 그들이 하는 모든 행동 이런 것들이 자칭 '친명'(친이재명)들이 벌이는 난동이 아니고, 집권 직후부터 대통령과 우리가 잘 알지 못하는 어떤 참모들이 기획해서 시작한 것\"이라고 주장했다.",
+      "유 작가는 이날 밤 유튜브 채널 '2분 News' 인터뷰에서 이같이 말하며 \"그렇게 판단해야만 되는 시점에 왔다.",
+      "그러니까 뉴이재명 세력의 수장은 이언주 의원이나 이런 사람이 아니고 이재명 대통령일."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n950cc63e",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "25분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/22/2026072115005982785",
+    "title": "\"평소 스포츠를 좋아하는 만큼\" 걸그룹 힛지스, 23일 고척돔 뜬다 '혜린 시구, 서희 시타'",
+    "summary": [
+      "걸그룹 '힛지스'가 고척스카이돔에 뜬다.",
+      "키움 히어로즈는 \"오는 23일 오후 6시 30분 서울 고척스카이돔에서 열리는 삼성 라이온즈와 홈경기에 걸그룹 '힛지스(HITGS)'를 시구 및 시타자로 선정했다\"고 21일 밝혔다.",
+      "이날 시구는 멤버 혜린이, 시타는 서희가 한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7b47e4d4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721186000005",
-    "title": "뉴진스, 데뷔 4주년에 민지 포함 4인 영상…활동 청신호 켜졌나",
+    "id": "n1d57a403",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "26분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/22/2026072123254325492",
+    "title": "은퇴한 성인배우의 무서운 촉! 스페인 우승 베팅해 23억 '돈벼락'... \"메시 꼴 보기 싫어! 아르헨 망해라\" 저주 통했다",
     "summary": [
-      "(서울=연합뉴스) 이태수 기자 = 걸그룹 뉴진스가 데뷔 4주년 기념일인 22일 민지를 포함한 멤버 4인 전원이 함께하는 영상을 깜짝 공개했다."
+      "전직 성인영화 배우 미아 칼리파가 스페인의 월드컵 우승에 거액을 베팅해 160만 달러(약 23억원)의 당첨금을 따냈다.",
+      "영국 '더선'은 20일(한국시간) \"칼리파가 월드컵 결승전에서 아르헨티나를 꺾고 우승을 차지한 스페인에 베팅해 막대한 수익을 올렸다\"고 보도했다.",
+      "보도에 따르면 칼리파는 정규시간(90분) 내 승패가 아닌 스페인의 최종 우승(트로피 획득)에 100만 달러(15억원)를 걸었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n481a8cd8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717401",
+    "title": "여름철 샌들 즐겨 신는 당신…허리 건강 망칠라",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 여름철에는 쪼리와 샌들을 즐겨 신는 이들이 많다.",
+      "그러나 지지력이 부족한 신발을 오래 신으면 보행이 불안정해지고 허리 부담이 커질 수 있어 주의가 필요하다.",
+      "22일 건강보험심사평가원 척추·관절질환 의료이용 분석(2021년 기준)에 따르면 국내 척추질환 환자 수는 1131만 명으로 전체 인구의 22%, 5명 중 1명꼴이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8cf298b0",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "28분 전",
+    "url": "https://view.asiae.co.kr/article/2026072119503123306",
+    "title": "김효주, 에너지 재충전 완료…'스코틀랜드에 뜬다'",
+    "summary": [
+      "'약속의 땅'에서 우승 트로피를 추가하는 일만 남았다.",
+      "세계랭킹 3위 김효주의 다짐이다.",
+      "그는 23일(한국시간)부터 나흘간 영국 스코틀랜드 노스 에어셔의 던도널드 링크스(파72·6538야드)에서 열리는 미국여자프로골프(LPGA) 투어 ISPS 한다 위민스 스코티시 오픈(총상금 200만달러)에 출전한다."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "nba22e222",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003717751",
+    "title": "사우디 원유선 2척 홍해서 '유턴'…후티 위협 현실화",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 예멘의 친(親)이란 반군 후티의 '해상 봉쇄' 경고가 나온 지 하루 만에 사우디아라비아산 원유를 실은 유조선 2척이 홍해에서 항로를 돌렸다.",
+      "키프로스 매체 사이프러스메일은 21일(현지시간) 런던증권거래소그룹(LSEG)의 선박 추적 자료를 인용해 중국과 인도로 향하던 유조선 2척이 이날 홍해 남쪽 해역에서 운항하다 방향을 틀어 수에즈운하 쪽으로 향했다고 전했다.",
+      "이 매체는 이번 항로 변경이 미국·이란 갈등이 격화하."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1be8c641",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722001700098",
+    "title": "네덜란드도 9월부터 이스라엘 점령지와 무역 중단",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 네덜란드도 이스라엘 정착민이 점령한 팔레스타인 지역에서 생산된 상품 수입을 오는 9월 22일부터 금지하기로..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n0c37bdf1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "55분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260722/134340795/1",
+    "title": "제니, 섹시미 넘치는 비키니 자태…글래머 몸매 ‘눈길’",
+    "summary": [
+      "그룹 블랙핑크 멤버 제니가 섹시한 비키니 수영복 자태를 뽐냈다.21일 제니는 자신의 인스타그램 스토리에 바다에서 수영을 즐기고 있는 모습을 담은 짧은 영상을 게시했다.영상 속에서 제니는 비키니 수영복을 입고 여름 바다에서 수영을 하고 있다.",
+      "이때 제니는 남다른 비키니 수영복 자태를 뽐내면서 글래머 몸매를 드러내고 있어 눈길을 끈다.특히 제니는 건강미 넘치는 미모와 특유의 밝은 미소로 팬들의 마음을 설레게 만들었다.한편 제니는 오는 24일 오후."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5005a033",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "56분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260722/134340789/1",
+    "title": "‘군 입대’ 이준영, 셀프 삭발 사진 공개…김희철과 기념 사진도",
+    "summary": [
+      "배우 이준영(29)이 입대 전 셀프 삭발하는 사진을 올렸다.이준영은 21일 자신의 인스타그램에 삭발하는 사진과 더불어 지인, 동료들과 함께 찍은 사진을 공개했다.사진 속 이준영은 직접 자기 머리카락을 자르며 짧은 헤어스타일로 변신하는 모습이다.",
+      "이준영은 머리를 밀며 웃음을 잃지 않는 모습으로 눈길을 끈다.다른 사진에는 슈퍼주니어의 김희철이 이준영을 안고 있는 모습도 담겼다.",
+      "김희철은 절친한 이준영의 입대를 기념한 사진 촬영에 참석, 우정을 과시."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +647,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
