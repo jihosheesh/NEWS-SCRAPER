@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-21 13:30:54
+// 마지막 업데이트: 2026-07-21 14:39:26
 window.NEWS_DB = [
   {
     "id": "n9007875e",
     "category": "경제",
     "source": "자유일보",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbWRfRHlIZjVCN2NNUTl0SUFuN3FZbDFNVkZPWHhnYXFSNUpyb0laWml6QWpCWnA5eWstRDFIU0s4b0xzSnctb3hXLWJua0JLNTNpaS11WXo5WUt0dV9YWXBXU21ab1UwcmZn0gFvQVVfeXFMTUhzV0FlZExhb1cyWjZJNGJJSEd6MDBtUG5zTExYVkhjM2ZGM2RTVzRsUXZ3MENPXzhuY3FJZVdPYVFHTW9VRXpLY0FkV0R1YUZRR3F0NmVPbFYxZkowZGdOcGVhU216MTVjams1LTc0?oc=5",
     "title": "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’",
     "summary": [
@@ -16,26 +16,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3046e8fe",
-    "category": "IT",
-    "source": "디지털투데이",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YOHF1WW82MWFrYVdwLWtUeVpLTlQyYnk1TkNPazhHbnNCR3B0ejBWY2tBTkpYSG4tUUx5YnZvSXYtMFhWTUhWV3NMYkZiNlZSeHExaFZCUmFVTWUyZV93Z3F3bGVKX1Rtb3M5dVJMNTJ4LWc?oc=5",
-    "title": "제프 베이조스도 베팅…커스프AI, 엔비디아와 AI 반도체 신소재 찾는다",
-    "summary": [
-      "제프 베이조스도 베팅…커스프AI, 엔비디아와 AI 반도체 신소재 찾는다 디지털투데이."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n3efd7aa7",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZFhGeURJRHhsNzJsQ1FCdFllRmRoUTExcDZubzRVUzhJVk41MU15Y1V6Q1dmM09oSFh5bTF4Nkd2dDlZM25RdmpPREo1SUFFaTlmMmc5ak9KV0XSAWBBVV95cUxPTlhKQmxCZ1pkY2UyT2E4ZC1mUFRfcEotWXJyejE3V2puMkdQcWFEUzdWS2xxZW9Ca0VqSndvZ21FcmxXbW81T1VSZENac0hMc1dacUlYT0R1UjZiSHZ2Ym0?oc=5",
     "title": "中AI기업 즈푸, 국산반도체로 데이터센터 완공…脫엔비디아 속도",
     "summary": [
@@ -44,6 +28,21 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n5868a989",
+    "category": "IT",
+    "source": "초이스스탁US",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
+    "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
+    "summary": [
+      "엔비디아 시총 5조달러 아래로…AI 독주 시험대 초이스스탁US."
+    ],
+    "chips": [
+      "#AI",
       "#엔비디아"
     ]
   },
@@ -229,6 +228,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n917184b9",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "29일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
+    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
+    "summary": [
+      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
@@ -303,21 +317,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "159일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
     "id": "nbd744211",
     "category": "IT",
     "source": "테크M",
@@ -379,261 +378,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3d2bb79c",
-    "category": "사회",
+    "id": "nd7816bf4",
+    "category": "스포츠",
     "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026072113565347362",
-    "title": "노바티스, 한국 RLT 공급망에 1400억 투자…생산·치료 인프라 구축",
+    "url": "https://view.asiae.co.kr/article/2026072123383727794",
+    "title": "[속보]잠실 개표소 출입 막은 '올다르크' 구속영장 기각",
     "summary": [
-      "노바티스가 국내 방사성 리간드 치료제(RLT·Radioligand Therapy) 공급망 구축을 위해 약 1400억원을 투자한다.",
-      "정부와 손잡고 국내 생산시설과 물류망, 전문인력 양성 체계를 구축해 암 환자의 치료 접근성을 높이고 국내 방사성의약품 산업 경쟁력을 강화한다는 계획이다.",
-      "보건복지부와 노바티스는 21일 서울 용산 노보텔 앰배서더호텔에서 한국 내 방사성 리간드 치료제 연구개발·생산·치료 생태계 조성을 위한 양해각서(MOU."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nec8de943",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717354",
-    "title": "노바티스, 암 치료제 국내 공급망 구축에 1400억 투자",
-    "summary": [
-      "[서울=뉴시스] 구무서 기자 = 글로벌 제약사 노바티스가 암 치료제 국내 공급망 구축을 위해 1400억원을 투자한다.",
-      "보건복지부는 21일 오후 용산 노보텔 앰배서더 호텔에서 노바티스와 국내 방사성 리간드 치료제 생태계 구축을 위한 양해각서(MOU)를 체결했다고 밝혔다.",
-      "방사성 리간드 치료제(RLT)란 방사성 리간드를 투사해 세포 표적 단백질과 결합, 암 세포의 DNA를 절단해 사멸시키는 치료제다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n1b48923b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717722",
-    "title": "타일러 측, 외압·중단설 해명…\"유튜브 내용 계속 공개\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 미국 방송인 방송인 타일러 라쉬 측이 돌연 불거진 유튜브 활동 중단설 및 각종 음모론을 해명했다.",
-      "유튜브 채널 '타일러볼까요' 제작진은 21일 공식 입장을 내고 \"20일 업로드된 본편 내 티저 영상에 대한 응원과 관심에 진심으로 감사드린다\"며 \"채널 관련 내용이 계속 공개될 예정이니 앞으로도 많은 관심 부탁드린다\"고 밝혔다.",
-      "앞서 타일러는 전날 공개한 영상에서 미국 고위급 비공개 네트워크 '다이얼로그'를 조명한 뒤."
+      "[속보]잠실 개표소 출입 막은 '올다르크' 구속영장 기각."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfa4605ae",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717723",
-    "title": "태안 앞바다서 밍크고래 혼획…불법포획 정황 없어",
-    "summary": [
-      "[태안=뉴시스]최영민 기자 = 충남 태안군 신진항 인근 해상에서 밍크고래 1마리가 어선 그물에 혼획됐다.",
-      "21일 태안해양경찰서에 따르면 이날 오전 4시께 신진항 인근 해상에서 조업 중이던 50t급 근해자망 어선의 그물에 밍크고래가 걸렸다.",
-      "해경은 고래를 신진항으로 옮겨 불법포획 여부를 확인했지만 관련 정황은 발견되지 않았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d570a87",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260721/134339379/1",
-    "title": "SK차이나, 유상감자로 SK이노에 9000억 조달…호남 반도체 산단에 투입될듯",
-    "summary": [
-      "SK이노베이션이 중국법인 SK차이나로부터 9000억 원을 조달한다.",
-      "호남권 반도체 클러스터 및 인공지능(AI) 데이터센터 등을 구축하는 데 필요한 전력 분야 투자를 위한 자금 수혈이라는 분석이 나온다.",
-      "21일 업계에 따르면 SK이노베이션은 이달 말께 이사회를 열고 해외 투자 법인 지분구조 변경에 관한 안건을 의결할 계획이다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nc6638954",
+    "id": "n07e042f3",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721186200005",
-    "title": "경매 나왔던 이병철 회장 글씨 '공수래공수거' 1억원에 낙찰",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721187900098",
+    "title": "EU, 러시아 복귀시킨 베네치아 비엔날레에 보조금 중단",
     "summary": [
-      "(서울=연합뉴스) 박의래 기자 = 호암(湖巖) 이병철 삼성그룹 창업회장의 서예 작품이 경매 시장에서 1억원에 팔렸다."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 이탈리아 베네치아에서 열리는 세계 최대의 현대미술 전시회인 베네치아 비엔날레가 러시아에 판을 깔아줬다는 이..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4ab1fe99",
+    "id": "n867bbe42",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "뉴시스",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721182451007",
-    "title": "선두 삼성, 키움 상대로 7연승…KIA도 대포 3방으로 4연승(종합)",
-    "summary": [
-      "(서울·부산=연합뉴스) 장현구 이대호 기자 = 삼성 라이온즈가 이재현의 결승 솔로포에 힘입어 키움 히어로즈를 상대로 7연승을 내달리며 선두를 굳..."
-    ],
+    "url": "https://www.newsis.com/view/NISX20260721_0003717372",
+    "title": "[속보] 법원, 개표소 막은 '올다르크' 구속영장 기각",
+    "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1ab38588",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717721",
-    "title": "종합특검, 수사기간 30일 연장 요청…\"진상규명 최선 다할 것\"",
+    "id": "nffb26153",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721187300001",
+    "title": "유시민 \"뉴이재명 행동, '자칭 친명'의 난동 아닌 대통령 기획\"",
     "summary": [
-      "[서울=뉴시스]홍연우 기자 = 3대 특검(내란·김건희·순직해병)의 나머지 사건을 들여다보는 2차 종합특별검사팀이 이재명 대통령에게 수사 기간 30일 연장을 요청했다.",
-      "2차 종합특검을 이끄는 권창영 특별검사는 21일 이 대통령에게 30일의 수사 기간 연장을 요청했다고 밝혔다.",
-      "그는 \"종합특검법 개정을 위해 노력해주신 국회 및 정부 관계자 모든 분들께 진심으로 감사드린다\"며 \"특검 수사에 관심을 갖고 법 개정을 지지해주신 국민들께도 깊이 감사드린다."
+      "(서울=연합뉴스) 서혜림 최주성 기자 = 이른바 '재건축론'과 '필패론'을 잇따라 제기하며 이재명 대통령을 비판했던 범여권 논객 유시민 작가가 ..."
+    ],
+    "chips": [
+      "#재건축",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf8a0f9be",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260721/134340004/2",
+    "title": "[사설]李 “영업익 배분, 쟁의 대상 아냐”… 무차별 확장엔 제동 걸어야",
+    "summary": [
+      "이재명 대통령이 21일 국무회의에서 일부 대기업 노조의 ‘영업이익 N% 성과급’ 요구에 대해 “영업이익의 일정 비율을 배분하는 문제가 노동 쟁의의 대상이 되냐”며 “저는 아닌 쪽이 더 높다고 생각한다”고 했다.",
+      "또 “주주도 할 수 없는 일인데 온 사업장이 이걸 갖고 논쟁을 하고 있다”고 지적했다.",
+      "무리한 성과급 제도화 요구와 파업 사태에 대해 대통령이 직접 나서 명확하게 제동을 건 것이다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n570f1510",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026072122093384884",
-    "title": "한화에어로스페이스, 국내 방산기업 최초 해외 공모 채권 발행 … 5억 달러 규모",
-    "summary": [
-      "한화에어로스페이스가 국내 방산·우주항공 기업 최초로 해외 공모채권을 발행했다.",
-      "한화에어로스페이스는 우리 돈 7410억원에 달하는 5억 달러 규모의 조달을 확정했다고 21일 밝혔다.",
-      "유럽, 아시아 등에서 미국 달러채 발행을 위한 수요 예측(북빌딩;book building)을 진행한 결과이다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nbf897e68",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026072178927",
-    "title": "한 달 전 버려졌는데…'새 가족 찾나' 20㎞ 쫓아온 강아지",
-    "summary": [
-      "한 달 전 버려졌는데…'새 가족 찾나' 20㎞ 쫓아온 강아지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35eefea2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026072121443365635",
-    "title": "경남도, '1시간 생활권 시대' 연다 … 광역급행버스 도입 등",
-    "summary": [
-      "\"도민의 이동시간은 줄이고 교통비 부담은 낮추며 글로벌 물류·비즈니스 거점을 조성해 성장 기회를 넓히겠습니다.\" 경상남도가 21일 경남도청 프레스센터에서 민선 9기 교통·물류 정책을 발표하며 이같이 밝혔다.",
-      "경남도는 \"민선 8기에 광역철도 및 도로망 확충, 경남패스 시행, 통행료 인하 등으로 교통·물류 기반을 마련했다\"면서 \"민선 9기에는 이러한 성과를 바탕으로 개별 교통 인프라를 하나의 생활·산업 네트워크로 연."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n52be870b",
+    "id": "n80bbad4a",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260721/134340008/2",
+    "title": "[사설]“원유 재고 사상 최저” “홍해 봉쇄”… 다시 거세지는 ‘3高 파도’",
+    "summary": [
+      "미국과 이란의 무력 충돌이 격화하고 있는 가운데 호르무즈 해협에 이어 중동산 원유의 주요 해상 운송로인 홍해의 바브엘만데브 해협까지 봉쇄 위협을 받고 있다.",
+      "사우디아라비아가 이에 맞서 홍해 상선 보호에 나서는 등 중동 위기가 다시 고조되고 있다.",
+      "이란의 지원을 받는 예멘의 무장세력 후티 반군은 20일 홍해 봉쇄를 선언했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7cedb25c",
+    "category": "IT",
+    "source": "한국경제",
     "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721185000054",
-    "title": "음주사고 후 운전자 바꿔치기 시도한 20대 구속",
+    "url": "https://www.hankyung.com/article/202607217946i",
+    "title": "美증시,반도체 주도 기술주 상승…나스닥 1%↑",
     "summary": [
-      "(전남광주=연합뉴스) 정다움 기자 = 음주운전을 하다가 접촉 사고를 낸 뒤 운전자를 바꿔치기한 20대와 조력자들이 경찰에 덜미를 잡혔다."
+      "美증시,반도체 주도 기술주 상승…나스닥 1%↑."
     ],
     "chips": [
-      "#뉴스"
+      "#반도체"
     ]
   },
   {
-    "id": "n966af271",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/21/GA2WKNRVGYZWCNZRGYYTKMTDGM/",
-    "title": "'롯데 한정' 저승사자, 타케다 드디어 깼다! → 롯데 6회 2사 후 집중타. 6-2 SSG 잡고 2연승 [부산 현장]",
+    "id": "ne3804788",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260721/134340006/2",
+    "title": "[사설]외교관 전원 정보 털렸는데, 정부는 열 달간 까맣게 몰랐다",
     "summary": [
-      "[부산=스포츠조선 한동훈 기자] 롯데 자이언츠가 '천적' 타케다를 드디어 극복했다.",
-      "롯데는 21일 부산 사직구장에서 열린 SSG 랜더스와 경기에서 6대2로 승리했다.",
-      "롯데 선발 비슬리가 6이닝 1실점 호투했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n732a0829",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/07/21/HBSTIODCMNSGCNRYMRSTSMJUGY/",
-    "title": "6개국 184명 유망주가 열전 펼친 WKBL 국제 유소녀 농구 챔피언십, 일본 이토만 미나미·수원제일중 우승",
-    "summary": [
-      "WKBL(한국여자농구연맹)이 지난 19일부터 21일까지 사흘간 서울시립대학교 100주년 기념관에서 개최한 '2026 WKBL 국제 유소녀 농구 챔피언십'이 일본 이토만 미나미 초등학교와 수원제일중학교의 우승으로 막을 내렸다.",
-      "올해로 2회째를 맞은 이번 대회는 지난해보다 규모를 확대해 개최됐다.",
-      "대한민국과 일본, 대만, 몽골, 홍콩, 인도네시아 등 6개국에서."
+      "외교부 산하 국립외교원의 온라인 교육시스템 서버가 지난해 4∼5월부터 올해 2월까지 해킹돼 해외 공관의 외무공무원과 정부 부처 주재관, 외교부 본부와 재외공관 행정직원까지 개인정보 최대 1만 건의 정보가 유출됐다.",
+      "사실상 한국 외교관 전원의 개인정보가 털린 것이다.",
+      "그러나 외교부는 국가정보원의 통보 전까지 10개월 동안이나 해킹 사실을 모르고 있었다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "na3d67016",
+    "id": "n5663c9f6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/21/GQYTKMBTG4ZDQMRYG4ZWIODBMQ/",
+    "title": "백일섭, 졸혼 선언 후 강부자·故이순재에 혼났다 “이제 듣기 싫어”(동상이몽2)",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 스페셜 게스트로 출연한 백일섭이 졸촌에 대해 언급했다.",
+      "21일 방송된 SBS ‘동상이몽2 - 너는 내 운명’에는 배다해, 이장원 부부가 출연했다.백일섭은 배우 생활 62년차라며 “21살 때부터 시작했다”라고 설명했다.",
+      "서장훈은 “그 시대 테토남의 상징이었다”라고 말했고, 백일섭은 “60년도에 인."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd158ac64",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717741",
+    "title": "7월 독일 경기예측 지수 26.3·15.8P↑…\"경기회복 전망 확대\"",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 유럽 최대 경제국 독일의 경기선행을 보여주는 2026년 7월 경기예측 기대 지수는 26.3으로 크게 개선했다고 마켓워치와 RTT 뉴스, dpa 통신 등이 21일 보도했다.",
+      "매체는 유럽경제연구센터(ZEW)가 이날 발표한 관련 지표를 인용해 경기예측 기대 지수가 전월 10.5에서 15.8 포인트 대폭 올랐다고 전했다.",
+      "향후 6개월간 독일 경제에 대한 낙관도를 나타내는 기대지수의 시장 예상치는 17.5인데 실제론 이를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd7b09e0d",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721187800081",
+    "title": "MS, 프랑스 미스트랄과 수십억달러 AI 인프라 이용 계약",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 미국의 마이크로소프트(MS)가 프랑스 대표 인공지능(AI) 기업인 미스트랄 AI의 유럽 내 컴퓨팅 인프라를 ..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n67c7ad83",
     "category": "사회",
     "source": "동아일보",
     "time": "19분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260721/134340353/1",
-    "title": "[속보]‘장윤기 사건 축소 의혹’ 형사과장 구속영장 기각",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260721/134340513/2",
+    "title": "관저 이전 “경부고속道 이후 최고 결단” [횡설수설/윤완준]",
     "summary": [
-      "광주 여고생 살해범 장윤기 사건의 초동수사 축소·은폐 의혹을 받고 있는 광주 광산경찰서의 박모 전 형사과장(경정)에 대한 구속영장이 기각됐다.광주지법은 21일 직권남용권리행사방해 등의 혐의로 경찰청 진상규명 특별수사단이 박 전 형사과장을 상대로 신청한 구속영장을 기각했다.재판부는 “지금까지 소명된 자료만으로는 구속의 필요성을 인정하기 어렵다”고 판단한 것으로 알려졌다.박 경정은 장윤기 사건 수사 과정에서 혐의를 강간살인이 아닌 일반살인으로 적용."
+      "감사원의 윤석열 전 대통령 관저 이전 불법 의혹 감사는 그 자체가 의혹투성이였다.",
+      "대통령직인수위는 2022년 4월경 돌연 김건희 여사와 친분이 있는 영세 업체 ‘21그램’으로 관저 이전·증축 시공 업체를 바꿨다.",
+      "이 업체는 1급 보안시설인 관저의 공사를 할 만한 자격을 전혀 갖추지 못했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n0a2b0c01",
+    "id": "n426d2167",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/21/GFQTEMJQHFQWMNJZHBTDGNTDHA/",
+    "title": "홈런 3방으로 14안타 한화 잡고 4연승 신바람...이범호 \"한준수 흐름 가져왔고 김범수 승리 큰 역할\" [오!쎈 광주]",
+    "summary": [
+      "[OSEN=광주, 이선호 기자] \"한준수와 김범수가 승리에 큰 역할했다\".KIA 타이거즈가 4연승 신바람을 냈다.",
+      "21일 광주-기아 챔피언스필드에서 열린 2026프로야구 한화 이글스와의 팀간 10차전을 7-3으로 승리했다.",
+      "한화를 4연패의 늪에 빠뜨리며 후반기 1패후 4연승을 질주했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na38e3b47",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721183800109",
-    "title": "이탈리아판 '조지플로이드'…모로코 출신 男 체포 중 사망",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717708",
+    "title": "예멘 후티 \"사우디 항구 이용 선박, 어디서든 표적\"",
     "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 모로코 출신 이탈리아 남성이 경찰 체포 과정에서 숨진 사실이 알려지면서 과잉 진압 논란이 확산하고 있다."
+      "[서울=뉴시스] 신효령 기자 = 예멘의 친(親)이란 반군 후티가 사우디아라비아 항구를 이용하는 선박은 예멘군의 작전 범위 안이라면 운항 지역과 관계없이 공격 대상이 될 수 있다고 경고했다.",
+      "사우디를 겨냥한 해상 봉쇄 선언에 이어 글로벌 해운사에 구체적인 운항 금지 지침을 보낸 것이다.",
+      "21일(현지시간) 범아랍권 매체 더뉴아랍 등에 따르면 후티 산하 인도주의작전조정센터(HOCC)는 여러 해운사에 이메일을 보내 \"사우디의 모든 항구에서 화물을 싣거."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1631e054",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/202607217878i",
-    "title": "한국 투자 美 ETF에 지난 주 한 주간 4.5조원 유입",
+    "id": "n07716375",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/21/GVSTGNLFMQZGIZTGMRSGGNRQHA/",
+    "title": "'건강 적신호' 신지, 2세 진지하게 고민 중..\"나를 닮은 아이 기대 돼\" ('귀한 가족') [순간포착]",
     "summary": [
-      "한국 투자 美 ETF에 지난 주 한 주간 4.5조원 유입."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 그룹 코요태 신지가 2세를 진지하게 고민 중이라고 밝혀 눈길을 끌었다.",
+      "21일 방송된 MBN ‘남의 집 귀한 가족’(이하 '귀한 가족') 8회에서는 신지‧문원 부부가 김종민‧빽가를 초대해 진심을 나누는 특별한 하루가 펼쳐졌다.",
+      "이날 김종민은 신지에게 아이 생각은 없느냐고 물었다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc179038c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717725",
+    "title": "트럼프 10% 임시관세 만료 임박…\"새 관세 선택지 준비\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 지난 2월 도입한 10% 글로벌 임시관세가 곧 만료되는 가운데, 이를 대체할 새로운 관세가 이르면 이번주 발표될 전망이다.",
+      "파이낸셜타임스(FT)는 21일(현지 시간) 소식통을 인용해 \"미국 관료들은 트럼프 대통령의 10% 글로벌 관세가 이번주 후반 만료됨에 따라 트럼프 대통령이 수십개국에 새로운 관세를 부과할 수 있도록 선택지들을 마련했다\"고 보도했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "naeb96583",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/21/HFRTMZRYMZRGINJVMNTGCNRRMY/",
+    "title": "반도체주 반등에 뉴욕증시 강세… 나스닥 0.7% 상승",
+    "summary": [
+      "21일(현지 시각) 뉴욕증시가 반도체와 인공지능(AI) 관련주 반등에 힘입어 상승 출발했다.",
+      "이날 오전 10시 1분 현재 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수는 전장보다 177.71포인트(0.34%) 오른 5만2016.97을 기록했다.",
+      "스탠더드앤드푸어스(S&P)500지수는 36.38포인트(0.49%) 상승한 7479.66, 나스닥 종합지수는."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
     ]
   }
 ];
@@ -642,15 +642,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
