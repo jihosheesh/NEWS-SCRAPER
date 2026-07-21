@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-21 16:28:44
+// 마지막 업데이트: 2026-07-21 17:28:49
 window.NEWS_DB = [
   {
     "id": "nfaa9ec62",
     "category": "IT",
     "source": "조선일보",
-    "time": "54분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2FKQTB1dmFGYmhZbFpFZE9lT2I2T0YySGNTZEN6WE5MWXczLUZwd3RQT0RSVWlKamxZVl82V3cyZDBQSkxjNzZpWWRHTXJLSzdma0xzSmsyMV8tZU5iUTN1QnUzT3dmd3FoVjlUYXVoWTd0UXhqb3JHNE9jLTVKNnZobw?oc=5",
     "title": "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "ncded4fab",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xZk4tVEhGOUVWYkhEOHRhUU9tV1hMR0dTaXducUZnZGNULThpMXRWZ0ZXRzJCdmhRdkFXa3BPbGNrMGUwaVFEcVIzUnAtRk0xVEpVcE1VSDFzUQ?oc=5",
     "title": "엔비디아, CPU도 직접 만든다…AMD·인텔 정조준",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n9007875e",
     "category": "경제",
     "source": "자유일보",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbWRfRHlIZjVCN2NNUTl0SUFuN3FZbDFNVkZPWHhnYXFSNUpyb0laWml6QWpCWnA5eWstRDFIU0s4b0xzSnctb3hXLWJua0JLNTNpaS11WXo5WUt0dV9YWXBXU21ab1UwcmZn0gFvQVVfeXFMTUhzV0FlZExhb1cyWjZJNGJJSEd6MDBtUG5zTExYVkhjM2ZGM2RTVzRsUXZ3MENPXzhuY3FJZVdPYVFHTW9VRXpLY0FkV0R1YUZRR3F0NmVPbFYxZkowZGdOcGVhU216MTVjams1LTc0?oc=5",
     "title": "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n3efd7aa7",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZFhGeURJRHhsNzJsQ1FCdFllRmRoUTExcDZubzRVUzhJVk41MU15Y1V6Q1dmM09oSFh5bTF4Nkd2dDlZM25RdmpPREo1SUFFaTlmMmc5ak9KV0XSAWBBVV95cUxPTlhKQmxCZ1pkY2UyT2E4ZC1mUFRfcEotWXJyejE3V2puMkdQcWFEUzdWS2xxZW9Ca0VqSndvZ21FcmxXbW81T1VSZENac0hMc1dacUlYT0R1UjZiSHZ2Ym0?oc=5",
     "title": "中AI기업 즈푸, 국산반도체로 데이터센터 완공…脫엔비디아 속도",
     "summary": [
@@ -228,21 +228,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n917184b9",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "29일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
-    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
-    "summary": [
-      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
@@ -317,6 +302,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "159일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
     "id": "nbd744211",
     "category": "IT",
     "source": "테크M",
@@ -335,7 +335,7 @@ window.NEWS_DB = [
     "id": "ne2db62fb",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153551",
     "title": "후지필름 코리아, 부산서 유네스코 유산 기록 특별전 개최",
     "summary": [
@@ -350,7 +350,7 @@ window.NEWS_DB = [
     "id": "ndc340e29",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "5분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153549",
     "title": "주소, 몸무게, 전화번호까지 유출됐는데...'따릉이 30일 이용' 보상안에 이용자 '부글'",
     "summary": [
@@ -363,10 +363,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "neb9c4419",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722003000072",
+    "title": "UBS \"S&P500 연말 8,100 간다\"…기존 전망치 7,500서 상향",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 글로벌 투자은행 UBS는 올해 미국 뉴욕증시의 3대 주요 지수 중 하나인 S&amp;P500의 전망치를 기존..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nd603f6a6",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "22분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153548",
     "title": "하나은행, 서비스품질지수 11년 연속 1위...대면·콜센터 동시 석권",
     "summary": [
@@ -378,32 +392,111 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc7886160",
+    "id": "n0141918a",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/22/2026072115230289682",
-    "title": "박준영 '또' 조기강판, '8G 연속 선발승 無' 한화... 달감독 고민이 커진다 [광주 현장]",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/22/HBSWMNDCGZRWCZJWMZRDQYZRGY/",
+    "title": "\"수치스럽다\" 무리뉴 극딜에도 버텼던 앤서니 테일러, 결국 휘슬 내려놓는다…\"압박감 심했다\"",
     "summary": [
-      "8경기 연속 선발승이 없다.",
-      "류현진과 오웬 화이트라는 강력한 원투펀치를 갖추고도 한화 이글스가 선발진의 고전과 불펜진의 난조 속에 고개를 떨구고 있다.",
-      "박준영(24)은 다시 한 번 조기 강판됐다."
+      "[스포츠조선 박상경 기자] 잉글랜드를 대표하는 심판 중 한 명으로 꼽히는 앤서니 테일러 심판이 그라운드를 떠난다.",
+      "영국 BBC는 23일(한국시각) 테일러 심판의 은퇴 소식을 전했다.",
+      "테일러 심판은 지난 7일 스페인-포르투갈 간의 2026 북중미월드컵 16강전 주심으로 나섰다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "na708dbd1",
+    "id": "n3cfd804f",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003716710",
+    "title": "\"AI가 사무직 40% 없앤다\"…김대식 교수 \"2008년 금융위기 재현될 수도\"",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 이지윤 인턴기자 = 사람의 개입 없이 여러 업무를 스스로 수행하는 '에이전틱 AI(Agentic AI)'가 확산하면서 화이트칼라 일자리가 크게 줄고, 소비 위축과 금융시장 불안으로 이어질 수 있다는 전문가 전망이 나왔다.",
+      "김대식 카이스트 전기및전자공학부 교수는 21일 구독자 50만 명의 유튜브 채널 '경제 읽어주는 남자'의 'AI가 일자리를 뺏는 순간, 경제는 성장해도 사람은 밀려납니다' 편에 출연해 \"에이전틱 AI."
+    ],
+    "chips": [
+      "#AI",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n3f3642e1",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/22/GYYWGYZZG5STGYZTGFTGMOBSHE/",
-    "title": "\"불가능하지 않을걸?\" 이정후 향한 썰썰썰…아무도 모르는 SF 속마음, 결과는",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/22/GFQTMYRXHE3TAMRXGJSTMNDEGM/",
+    "title": "4G 만에 마이너행 고우석, 결국 '긁어보는 복권'이었나…다시 빅리그 부름 받을 수 있을까",
     "summary": [
-      "[스포츠조선 박상경 기자] 일말의 가능성은 존재한다.",
-      "하지만 현실이 될지는 아무도 모른다.",
-      "트레이드 마감일을 앞둔 메이저리그의 시선이 바쁘게 돌아가고 있다."
+      "[스포츠조선 박상경 기자] 단 4경기 만에 기회가 사라졌다.",
+      "미네소타 트윈스로부터 마이너(트리플A)행 통보를 받은 고우석의 향후 콜업 여부에 관심이 쏠린다.",
+      "올 시즌 마이너리그에서 절치부심 끝에 미네소타로 트레이드돼 빅리그 데뷔의 꿈을 이뤘지만, 단 4경기 만에 다시 마이너리그로 돌아가게 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n402c988c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "32분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/22/GI3WINZQMMZDQNTFMNQTQNBUMQ/",
+    "title": "골키퍼 출신 축구광 NBA 슈퍼스타 빅터 웸반야마의 충격 예언 \"미국 축구강국 될 것. 정말 많은 재능 있다\"",
+    "summary": [
+      "[스포츠조선 류동혁 기자] NBA 최고의 수비수이자 MVP급 레벨의 기량을 가진 빅터 웸반야마.",
+      "샌안토니오 스퍼스를 단숨에 NBA 파이널에 올려놨다.",
+      "2m21의 큰 키에 정확한 외곽슛, 그리고 수준급의 드리블링 테크닉까지 지닌 그는 NBA에서도 본 적이 없는 '신인류'다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8161988e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "32분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/22/ME2DIZRSGE2WEODBHAYTAYTEGY/",
+    "title": "“못 알아볼 뻔” 비니시우스, 월드컵 탈락 뒤 턱선 확 바꿨다…결별했던 여친과 재결합까지",
+    "summary": [
+      "[OSEN=이인환 기자] 비니시우스 주니오르(26)가 월드컵 탈락 뒤 얼굴과 연애 상태를 한꺼번에 바꿨다.브라질 대표팀과 레알 마드리드의 공격수 비니시우스는 최근 브라질 고이아니아에서 열린 피트니스센터 개장 행사에 모습을 드러냈다.",
+      "팬들의 시선은 이전보다 선명해진 턱선에 먼저 꽂혔다.",
+      "옆얼굴이 찍힌 영상과 사진이 퍼지자 다른 사람처럼 보인다는 반응까지 이어."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2f9b3a99",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003717755",
+    "title": "이란 대통령 \"모즈타바와 소통 수준 높아져\"…건강 이상설 진화",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 마수드 페제시키안 이란 대통령이 모습을 드러내지 않고 있는 모즈타바 하메네이 최고지도자와의 접촉이 갈수록 늘고 있다고 밝혔다.",
+      "건강 상태와 국정 수행 능력을 둘러싼 의문이 이어지자 모즈타바가 국정에 관여하고 있다는 점을 강조한 것으로 풀이된다.",
+      "21일(현지시간) 이란 보수 성향 매체인 함샤흐리 신문에 따르면 페제시키안 대통령은 이날 공개된 영상에서 \"최고지도자와의 소통이 날이 갈수록 늘고 있다\"며 \"그의 지침을."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n78cc6183",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "57분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722002500087",
+    "title": "스페인 호텔 체인 멜리아, 美제재에 쿠바서 완전 철수",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 스페인 대표 호텔 체인인 멜리아가 미국의 제재 등으로 전력난을 겪고 있는 쿠바에서 완전히 철수한다."
     ],
     "chips": [
       "#뉴스"
@@ -413,7 +506,7 @@ window.NEWS_DB = [
     "id": "n64f0fd57",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260722001900108",
     "title": "푸틴, 11월 APEC 정상회의 간다…李대통령 만남 성사될까",
     "summary": [
@@ -427,7 +520,7 @@ window.NEWS_DB = [
     "id": "n49a9dda1",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260721_0003716666",
     "title": "\"하루 5잔 커피, 심장에 약이 될 수도\"…하지만 '이것'은 피해야",
     "summary": [
@@ -440,26 +533,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n647fbad1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/22/GJTDGYTFME4WCNBZGMYWIZBYMI/",
-    "title": "역주행인데 첫 정산 아직?…리센느 원이 눈물에, 장도연도 울컥 [Oh!쎈 예고]",
-    "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다>[OSEN=김수형 기자]최근 음원 역주행으로 주목받고 있는 그룹 리센느 멤버 원이가 첫 정산에 대한 바람을 털어놓으며 눈물을 흘렸다.",
-      "이를 지켜보던 장도연도 함께 울컥했다.21일 유튜브 채널 'TEO 테오'에는 웹예능 '살롱드립' 150회 예고 영상이 공개됐다.",
-      "영상에는 리센느 멤버 원이와 미나미가 출연해 데뷔 비하인."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n44b9410d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260722002300072",
     "title": "캐나다 총리, '50% 관세'에 \"트럼프와 통화…협상 강화 합의\"",
     "summary": [
@@ -470,40 +547,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n270b891f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/22/MM2DSYJYGMZDOYZQGRSDCNDFHE/",
-    "title": "‘6연패 충격 LG’ 무사 만루, 또 적시타 침묵하다. 5G 득점권 8푼1리…0승 투수 선발 데뷔전에도 패배하다",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스가 또 졌다.",
-      "6연패다.LG는 21일 잠실구장에서 열린 NC와 경기에서 5-7 역전패를 당했다.",
-      "5연패의 LG, 3연패의 NC, 모두 물러설 수 없는 총력전이었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n1354933b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722002200071",
-    "title": "트럼프 \"후티 홍해 봉쇄하면 처리할것…이란 곡괭이산 곧 타격\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 21일(현지시간) 예멘의 친(親)이란 무장세력 후티 반군이 홍해 봉쇄를 선언한..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n27f6d9dc",
     "category": "사회",
     "source": "뉴시스",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260722_0003717754",
     "title": "유시민 \"'뉴이재명' 수장은 李대통령 가능성…집권 직후부터 기획\"",
     "summary": [
@@ -516,58 +563,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n950cc63e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "25분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/22/2026072115005982785",
-    "title": "\"평소 스포츠를 좋아하는 만큼\" 걸그룹 힛지스, 23일 고척돔 뜬다 '혜린 시구, 서희 시타'",
-    "summary": [
-      "걸그룹 '힛지스'가 고척스카이돔에 뜬다.",
-      "키움 히어로즈는 \"오는 23일 오후 6시 30분 서울 고척스카이돔에서 열리는 삼성 라이온즈와 홈경기에 걸그룹 '힛지스(HITGS)'를 시구 및 시타자로 선정했다\"고 21일 밝혔다.",
-      "이날 시구는 멤버 혜린이, 시타는 서희가 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1d57a403",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "26분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/22/2026072123254325492",
-    "title": "은퇴한 성인배우의 무서운 촉! 스페인 우승 베팅해 23억 '돈벼락'... \"메시 꼴 보기 싫어! 아르헨 망해라\" 저주 통했다",
-    "summary": [
-      "전직 성인영화 배우 미아 칼리파가 스페인의 월드컵 우승에 거액을 베팅해 160만 달러(약 23억원)의 당첨금을 따냈다.",
-      "영국 '더선'은 20일(한국시간) \"칼리파가 월드컵 결승전에서 아르헨티나를 꺾고 우승을 차지한 스페인에 베팅해 막대한 수익을 올렸다\"고 보도했다.",
-      "보도에 따르면 칼리파는 정규시간(90분) 내 승패가 아닌 스페인의 최종 우승(트로피 획득)에 100만 달러(15억원)를 걸었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n481a8cd8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717401",
-    "title": "여름철 샌들 즐겨 신는 당신…허리 건강 망칠라",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 여름철에는 쪼리와 샌들을 즐겨 신는 이들이 많다.",
-      "그러나 지지력이 부족한 신발을 오래 신으면 보행이 불안정해지고 허리 부담이 커질 수 있어 주의가 필요하다.",
-      "22일 건강보험심사평가원 척추·관절질환 의료이용 분석(2021년 기준)에 따르면 국내 척추질환 환자 수는 1131만 명으로 전체 인구의 22%, 5명 중 1명꼴이다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "n8cf298b0",
     "category": "경제",
     "source": "아시아경제",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026072119503123306",
     "title": "김효주, 에너지 재충전 완료…'스코틀랜드에 뜬다'",
     "summary": [
@@ -580,40 +579,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nba22e222",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "33분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003717751",
-    "title": "사우디 원유선 2척 홍해서 '유턴'…후티 위협 현실화",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 예멘의 친(親)이란 반군 후티의 '해상 봉쇄' 경고가 나온 지 하루 만에 사우디아라비아산 원유를 실은 유조선 2척이 홍해에서 항로를 돌렸다.",
-      "키프로스 매체 사이프러스메일은 21일(현지시간) 런던증권거래소그룹(LSEG)의 선박 추적 자료를 인용해 중국과 인도로 향하던 유조선 2척이 이날 홍해 남쪽 해역에서 운항하다 방향을 틀어 수에즈운하 쪽으로 향했다고 전했다.",
-      "이 매체는 이번 항로 변경이 미국·이란 갈등이 격화하."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1be8c641",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "37분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722001700098",
-    "title": "네덜란드도 9월부터 이스라엘 점령지와 무역 중단",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 네덜란드도 이스라엘 정착민이 점령한 팔레스타인 지역에서 생산된 상품 수입을 오는 9월 22일부터 금지하기로..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
     "id": "n0c37bdf1",
     "category": "사회",
     "source": "동아일보",
-    "time": "55분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260722/134340795/1",
     "title": "제니, 섹시미 넘치는 비키니 자태…글래머 몸매 ‘눈길’",
     "summary": [
@@ -628,13 +597,46 @@ window.NEWS_DB = [
     "id": "n5005a033",
     "category": "사회",
     "source": "동아일보",
-    "time": "56분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260722/134340789/1",
     "title": "‘군 입대’ 이준영, 셀프 삭발 사진 공개…김희철과 기념 사진도",
     "summary": [
       "배우 이준영(29)이 입대 전 셀프 삭발하는 사진을 올렸다.이준영은 21일 자신의 인스타그램에 삭발하는 사진과 더불어 지인, 동료들과 함께 찍은 사진을 공개했다.사진 속 이준영은 직접 자기 머리카락을 자르며 짧은 헤어스타일로 변신하는 모습이다.",
       "이준영은 머리를 밀며 웃음을 잃지 않는 모습으로 눈길을 끈다.다른 사진에는 슈퍼주니어의 김희철이 이준영을 안고 있는 모습도 담겼다.",
       "김희철은 절친한 이준영의 입대를 기념한 사진 촬영에 참석, 우정을 과시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n12c65c06",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260721/134339296/2",
+    "title": "삼성전자 ‘로봇 승부수’… 대표 직속 전담조직 시동",
+    "summary": [
+      "삼성전자가 차세대 핵심 성장동력인 로봇 사업을 본격 육성하기 위해 대표이사 직속 전담 컨트롤타워를 신설했다.",
+      "21일 삼성전자는 노태문 대표이사 겸 디바이스경험(DX)부문장(사장) 직속으로 ‘RX(Robotics eXperience)사업추진실’을 신설하는 내용의 조직 개편을 단행했다.",
+      "흩어져 있던 하드웨어, AI·소프트웨어 핵심 기술 개발과 중장기 전략 수립, 상품 기획 등 사업화 전반을 RX사업추진실이 통합해 추진하겠다는 취지에서다."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n2d22f5c0",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260721/134339311/2",
+    "title": "JP모건 “코스피 급락은 삼전닉스 레버리지 탓”",
+    "summary": [
+      "코스피가 21일 종가 기준으로 최고점 대비 25.97% 급락한 영향은 단일종목을 포함한 레버리지 상장지수펀드(ETF)의 영향이 컸다는 글로벌 투자은행(IB)의 분석이 나왔다.",
+      "레버리지 ETF가 강제 청산된 규모는 적정 수준의 75%가량에 이른 것으로 추산됐다.",
+      "JP모건은 이날 ‘한국의 디레버리징 과정의 최신 동향’ 보고서를 통해 “(코스피의 급락은) 레버리지 ETF로 인해 증폭됐다”고 밝혔다."
     ],
     "chips": [
       "#뉴스"
@@ -647,20 +649,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
