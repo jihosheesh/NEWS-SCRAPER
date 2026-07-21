@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-21 18:25:54
+// 마지막 업데이트: 2026-07-21 19:29:14
 window.NEWS_DB = [
+  {
+    "id": "nbceac078",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xLU9NbWhfX2w5ZlUwMEQwaXdwUnJsYUFibndYdjNKN0dvbVV5OUJvZmlpQzF1UVRxZXFKNV85Sk1ESlVkajJyRWJ5WUlRNUVjVE4tUjBzcGVpd0HSAWBBVV95cUxPQ1ZmQmhFTEgyOUhsOVFqSGZDWWJuZXRTcV9YRk9fb0htUGh0Q2RDbERqQzI1X2lZTlEzRGVHZG9PR0o0a3Z1MW1BbmppM1p4enh0anh1YUhsQ2gxbTVuY2U?oc=5",
+    "title": "엔비디아, 차세대 AI플랫폼 '베라루빈' 본격 공급…\"선두 수성\"",
+    "summary": [
+      "엔비디아, 차세대 AI플랫폼 '베라루빈' 본격 공급…\"선두 수성\" 연합뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nfaa9ec62",
     "category": "IT",
     "source": "조선일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2FKQTB1dmFGYmhZbFpFZE9lT2I2T0YySGNTZEN6WE5MWXczLUZwd3RQT0RSVWlKamxZVl82V3cyZDBQSkxjNzZpWWRHTXJLSzdma0xzSmsyMV8tZU5iUTN1QnUzT3dmd3FoVjlUYXVoWTd0UXhqb3JHNE9jLTVKNnZobw?oc=5",
     "title": "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입",
     "summary": [
@@ -21,7 +36,7 @@ window.NEWS_DB = [
     "id": "ncded4fab",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xZk4tVEhGOUVWYkhEOHRhUU9tV1hMR0dTaXducUZnZGNULThpMXRWZ0ZXRzJCdmhRdkFXa3BPbGNrMGUwaVFEcVIzUnAtRk0xVEpVcE1VSDFzUQ?oc=5",
     "title": "엔비디아, CPU도 직접 만든다…AMD·인텔 정조준",
     "summary": [
@@ -35,7 +50,7 @@ window.NEWS_DB = [
     "id": "n9007875e",
     "category": "경제",
     "source": "자유일보",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbWRfRHlIZjVCN2NNUTl0SUFuN3FZbDFNVkZPWHhnYXFSNUpyb0laWml6QWpCWnA5eWstRDFIU0s4b0xzSnctb3hXLWJua0JLNTNpaS11WXo5WUt0dV9YWXBXU21ab1UwcmZn0gFvQVVfeXFMTUhzV0FlZExhb1cyWjZJNGJJSEd6MDBtUG5zTExYVkhjM2ZGM2RTVzRsUXZ3MENPXzhuY3FJZVdPYVFHTW9VRXpLY0FkV0R1YUZRR3F0NmVPbFYxZkowZGdOcGVhU216MTVjams1LTc0?oc=5",
     "title": "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’",
     "summary": [
@@ -43,22 +58,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
-    ]
-  },
-  {
-    "id": "n3efd7aa7",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZFhGeURJRHhsNzJsQ1FCdFllRmRoUTExcDZubzRVUzhJVk41MU15Y1V6Q1dmM09oSFh5bTF4Nkd2dDlZM25RdmpPREo1SUFFaTlmMmc5ak9KV0XSAWBBVV95cUxPTlhKQmxCZ1pkY2UyT2E4ZC1mUFRfcEotWXJyejE3V2puMkdQcWFEUzdWS2xxZW9Ca0VqSndvZ21FcmxXbW81T1VSZENac0hMc1dacUlYT0R1UjZiSHZ2Ym0?oc=5",
-    "title": "中AI기업 즈푸, 국산반도체로 데이터센터 완공…脫엔비디아 속도",
-    "summary": [
-      "中AI기업 즈푸, 국산반도체로 데이터센터 완공…脫엔비디아 속도 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -318,10 +317,207 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n33fcb294",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/finance/2026/07/22/2026072119555191851",
+    "title": "OK, 예별손보에 4000억 수혈 추진… 인수까지 '산 넘어 산'",
+    "summary": [
+      "정상화 목표로 3년간 투자 규제기준 밑도는 킥스비율 증자규모 확대 필요성 대두 공정위 사익편취 제재 여부 당국 심사에 변수될지 주목 OK금융그룹이 예별손해보험 인수를 위해 예금보험공사(이하 예보)로부터 1조1400억원의 지원금을 받고 앞으로 3년간 총 4000억원을 신규 투입하기로 한 것으로 전해졌다.",
+      "다만 금융당국의 보험 계리적가정 강화방침에 따라 예별손보의 정상화를 위해선 최소 5000억원을 증자해야 한다는 추정이 나온다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n7b0122a6",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/22/2026072204005295978",
+    "title": "'100세' 건강 비결?…배다해, 시할아버지 '장수 식단' 들여다보니",
+    "summary": [
+      "이장원, 배다해 부부가 100세 시할아버지의 아침 식단을 공개했다.",
+      "스마트폰으로 택시까지 부를 정도로 정정한 할아버지는 고구마, 달걀, 제철 과일, 채소 주스, 요거트 등으로 구성된 건강식을 10년째 유지하고 있었다.",
+      "21일 방영된 SBS '동상이몽2-너는 내 운명' 448회에서는 이장원, 배다해 부부가 100세 할아버지와 합가한 근황을 공개했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8caf5742",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/tech/2026/07/22/2026072114295054060",
+    "title": "ID 기반·패밀리 계정…네카오, 준비 끝냈다",
+    "summary": [
+      "[MT리포트 - 14세 SNS 규제] ③플랫폼별 안전장치 강화…\"정부 제재 신중 필요\" 목소리 청소년의 숏폼·SNS 과몰입을 막기 위해 정부가 14세 미만 SNS 가입 제한을 추진한다.",
+      "국내외 플랫폼의 인증 체계와 규제 집행력은 크게 다르다.",
+      "해외 선행 사례를 통해 실효성과 개인정보 처리 기준, 우회 가입, 오인 차단 등 문제를 짚어본다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nde86c85d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722002251071",
+    "title": "트럼프 \"후티 홍해 봉쇄시 美가 처리…이란 곡괭이산 곧 타격\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 21일(현지시간) 예멘의 친(親)이란 무장세력 후티 반군이 홍해 봉쇄를 선언한..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n00e4608d",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/estate/2026/07/22/2026072019191575692",
+    "title": "[광화문]이재명 정부의 부동산 클라이맥스",
+    "summary": [
+      "이재명 정부의 2년 차 부동산 정책이 클라이맥스로 향하고 있다.",
+      "이재명 정부는 출범 이후 줄곧 부동산 세제 개편을 강조해왔다.",
+      "세금으로 집값을 잡겠다는 건 아니라고 매번 부인했지만 그간 부동산 대책의 최종 장에는 항상 보유세와 종부세 개편이 자리하고 있었다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nc74ce659",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/22/DESGW36RFJGBNIQBKNK6OAWKPI/",
+    "title": "美 법원서 본안 심리 앞두고 장외전, 쿠팡 “한국 사건”",
+    "summary": [
+      "美 법원서 본안 심리 앞두고 장외전, 쿠팡 “한국 사건”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n80198f48",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722005900079",
+    "title": "레바논 대통령, '내전위험' 경고…트럼프 \"헤즈볼라와 대화할것\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 조셉 아운 레바논 대통령이 21일(현지시간) 도널드 트럼프 미국 대통령에게 레바논 정규군(LAF)에 대한 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3075f956",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003717762",
+    "title": "쿠웨이트, 유조선 피격에 이란 대사 초치…\"불법 공격 멈춰라\"",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 쿠웨이트 정부가 호르무즈해협을 지나던 자국 유조선이 이란의 공격을 받자 자국 주재 이란 대사를 불러 강력히 항의했다.",
+      "쿠웨이트 외무부는 21일(현지시간) 하마드 술라이만 알마샨 외무차관이 모하마드 투툰지 주쿠웨이트 이란 대사를 초치해 공식 항의 서한을 전달했다고 발표했다.",
+      "쿠웨이트 측은 전날 저녁 호르무즈해협을 통과하던 자국 유조선 '키판호'를 이란이 공격해 선원 여러 명이 다쳤다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f86ef35",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717545",
+    "title": "포항 37도·대구 35도…대구·경북 곳곳 소나기",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 22일 대구·경북은 구름 많은 가운데 비가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"오후부터 저녁 사이 곳에 따라 비가 내리겠고, 소강상태를 보이는 곳도 많겠다\"고 예보했다.",
+      "예상 강수량은 경북중·북부내륙 20~60㎜, 대구와 그 밖의 경북 5~40㎜다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8e5498d0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717443",
+    "title": "\"백인만 사는 마을 만들겠다\"…英웨일스에 극우 공동체 추진 '논란’",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 영국 웨일스의 한적한 시골 지역에서 미국 극우 백인 분리주의 운동을 본뜬 공동체 조성 계획이 추진되면서 인종차별 논란이 확산하고 있다.",
+      "20일(현지 시간) 데일리메일에 따르면 영국의 극우 성향 단체인 '우드랜더 이니셔티브(The Woodlander Initiative·TWI)'는 웨일스 포이스주 라나판 파우르 인근 약 2만㎡(약 6100평) 규모의 부지에 공동체를 조성하고 있다.",
+      "해당 단체는 \"누구에게나 개방."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ab1a7ab",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "37분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003717760",
+    "title": "트럼프 \"후티, 홍해 봉쇄땐 처리…이란 곡괭이산 곧 타격\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 예멘의 친(親)이란 성향 반군 후티가 사우디아라비아를 겨냥해 홍해를 봉쇄할 경우 미국이 보복 조치를 단행할 수 있다고 도널드 트럼프 미 대통령이 21일(현지 시간) 경고했다.",
+      "트럼프 대통령은 이날 백악관 집무실에서 조제프 아운 레바논 대통령과 회담에 들어가기전 취재진의 질문에 \"현재까지 그런 일은 일어나지 않았다\"며 \"만약 그와 같은 일이 일어난다면 우리가 처리할 것이다\"고 답했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9fd210f4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "41분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/22/X4WMZTDFKRA45IAHGCVOIKN6XA/",
+    "title": "中 선거 개입 맹비난했던 트럼프 “우리도 한다”…닷새 만에 말 바꿔",
+    "summary": [
+      "中 선거 개입 맹비난했던 트럼프 “우리도 한다”…닷새 만에 말 바꿔."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb8384cee",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "52분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722001351081",
+    "title": "프랑스도 15세 미만 SNS 금지…의회 법안 통과(종합)",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 프랑스 의회가 21일(현지시간) 15세 미만 청소년의 소셜미디어 이용을 금지하는 법안을 통과시켰다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
     "id": "nd89b76c9",
     "category": "사회",
     "source": "동아일보",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260722/134340947/1",
     "title": "사우디 원유선 2척 홍해서 ‘유턴’…후티 위협 현실화",
     "summary": [
@@ -333,26 +529,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd43a6f52",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/22/2026072203125427457",
-    "title": "백일섭, '졸혼' 타이틀 듣기 싫다…故이순재·강부자도 '혼쭐'",
-    "summary": [
-      "백일섭이 '연예계 졸혼 1호'라는 수식어에 불편한 심경을 드러냈다.",
-      "21일 방영된 SBS '동상이몽2-너는 내 운명' 448회에서는 배우 백일섭이 출연해 졸혼 이후 11년 째 혼자 지내는 근황을 전했다.",
-      "이날 김구라는 백일섭을 \"11년째 혼자 살고 있는 연예계 졸혼 1호\"라고 소개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nbd744211",
     "category": "IT",
     "source": "테크M",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153552",
     "title": "모티프, '독파모' 프리뷰 버전 공개...AAII 순위권에 한국 모델 재진입",
     "summary": [
@@ -367,7 +547,7 @@ window.NEWS_DB = [
     "id": "n17634b58",
     "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260722/134340943/1",
     "title": "“이혼도 기념할래요”…새 삶 상징하는 ‘이혼 반지’ 인기",
     "summary": [
@@ -383,7 +563,7 @@ window.NEWS_DB = [
     "id": "nf8a6ddee",
     "category": "사회",
     "source": "동아일보",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260722/134340940/1",
     "title": "이란 대통령 “모즈타바와 소통 수준 높아져”…건강 이상설 진화",
     "summary": [
@@ -399,7 +579,7 @@ window.NEWS_DB = [
     "id": "nee930262",
     "category": "경제",
     "source": "아시아경제",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026072203130060176",
     "title": "경영난 샘터가 내놓은 이병철 글씨…1억원에 새 주인",
     "summary": [
@@ -412,54 +592,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6c8f333f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722004500072",
-    "title": "유엔 총장, 이번주 시리아 방문…\"정치 전환 지지·주권 존중\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 안토니우 구테흐스 유엔 사무총장이 이번 주 시리아를 찾는다.",
-      "유엔 사무총장의 시리아 방문은 2009년 반기문..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5f2d8163",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/22/HA3GKOBZMNSDEMBZGE3WINLEHE/",
-    "title": "'연장 협상도 없다' SF, 올스타 아라에스 트레이드 결심 굳혔나",
-    "summary": [
-      "[OSEN=손찬익 기자] 올스타 내야수 루이스 아라에스가 샌프란시스코 자이언츠를 떠날 가능성이 갈수록 커지고 있다.",
-      "선수는 잔류 의사를 내비쳤지만, 구단은 재계약 협상조차 시작하지 않은 것으로 알려졌다.샌프란시스코 소식을 주로 다루는 '어라운드 더 포그혼'은 22일(이하 한국시간) \"샌프란시스코가 아라에스와 연장 계약을 추진할 뜻을 보이지 않고 있다\"며 \"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncf1b7d2b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722004900527",
-    "title": "충남 당진에 호우경보",
-    "summary": [
-      "(대전=연합뉴스) 기상청은 22일 오전 3시 5분을 기해 충남 당진에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n5b15f5f6",
     "category": "IT",
     "source": "아시아경제",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026072203093056284",
     "title": "하정우 \"AI도 자비처럼 사람의 고통 줄이는 방향으로 가야\"",
     "summary": [
@@ -473,90 +609,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n387eb226",
+    "id": "n4d3ddc1e",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722004700527",
-    "title": "충남 천안에 호우주의보",
-    "summary": [
-      "(대전=연합뉴스) 기상청은 22일 오전 3시를 기해 충남 천안에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5d19f46d",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722004600527",
-    "title": "이천 등 경기 3곳 호우주의보",
-    "summary": [
-      "(수원=연합뉴스) 기상청은 22일 오전 3시를 기해 경기 이천·여주동남부·용인남부에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb803d23b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003717759",
-    "title": "美, 북한 여행금지 1년 연장…일반 여권으로 경유도 제한",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 미국 정부가 자국민의 북한 여행을 다시 1년간 제한한다.",
-      "북한에서 미국인이 체포되거나 장기간 구금될 위험이 해소되지 않았다는 판단이 작용했다.",
-      "21일(현지시간) 미 연방 관보에 따르면 국무부는 미국 여권의 북한 여행 제한을 내년 8월31일까지 1년 연장했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5676c978",
-    "category": "스포츠",
     "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/22/MNSDSOBUG4ZDIMJRMU3DIM3DMQ/",
-    "title": "\"좀비 담배 산 선수 또 있다?\" 사진 유출에 논란 일파만파…침묵하던 구단, 결국 GG 출신 내야수 2군행",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/07/22/NNVFJ2DBOVFNJOFZ4MFDLD7BDA/",
+    "title": "[48화] 적의 화살로 적을 치다… 사흘간의 계략",
     "summary": [
-      "[OSEN=조은혜 기자] '좀비 담배' 파문이 결국 1군 선수의 이탈로 이어졌다.일본 매체 'SmartFLASH'는 지난 13일 에토미데이트(통칭 '좀비 담배') 판매책으로 알려진 인물과 일본프로야구(NPB) 히로시마 도요 카프 현역 주축 선수들이 함께 찍힌 사진을 공개했다.",
-      "논란이 커지자 당초 침묵을 유지하던 히로시마 구단은 일부 선수들의 2군행 등 조치."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n72424e3f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717076",
-    "title": "“20㎞를 끝내 따라왔다”…국토대장정 일행 놓치지 않은 유기견에 ‘먹먹’",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = “처음엔 잠깐 따라오다 말겠지 했는데, 5㎞, 10㎞가 지나도 아이는 떠나지 않았습니다.” 국토대장정에 나선 일행을 무려 20㎞ 동안 끝까지 따라온 유기견의 사연이 전해지며 온라인에서 안타까움을 자아내고 있다.",
-      "한 달 전 길가에 버려졌던 것으로 알려진 이 강아지는 낯선 사람들을 놓치지 않으려 지친 몸을 이끌고 긴 거리를 함께 걸었고, 현재는 임시 보호를 받으며 평생 가족을 기다리고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nead3e76f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003716684",
-    "title": "\"새벽 1시까지 게임만\"…결혼 두 달 앞두고 파혼 고민한 예비신부",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 이지윤 인턴기자 = 결혼을 두 달여 앞두고 동거를 시작한 예비신부가 예비남편의 반복되는 게임 습관 때문에 파혼까지 고민하고 있다는 사연이 공개돼 온라인에서 관심을 모으고 있다.",
-      "최근 한 온라인 커뮤니티에는 '게임 때문에 파혼하기도 하냐'는 제목의 글이 올라왔다.",
-      "작성자 A씨는 결혼을 앞두고 지난달부터 함께 살기 시작했지만, 예비남편의 생활 습관을 알게 되면서 갈등이 커졌다고 털어놨다."
+      "[48화] 적의 화살로 적을 치다… 사흘간의 계략."
     ],
     "chips": [
       "#뉴스"
@@ -566,73 +626,11 @@ window.NEWS_DB = [
     "id": "n7b3d3285",
     "category": "사회",
     "source": "조선일보",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/national/incident/2026/07/22/CQLH233RZRBWVOSIONRLDAOIX4/",
     "title": "괴물 잡으려다 자신이 괴물로… ‘탁 치니 억’ 장본인 박처원",
     "summary": [
       "괴물 잡으려다 자신이 괴물로… ‘탁 치니 억’ 장본인 박처원."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2dff654e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/07/22/P5OCEISLJFHN3MVQWBSHHNTSLE/",
-    "title": "전신 뼈의 25%가 몰려있다… ‘회복 운동’의 시작은 발바닥",
-    "summary": [
-      "전신 뼈의 25%가 몰려있다… ‘회복 운동’의 시작은 발바닥."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2261f76b",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "33분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/22/2026072202492914755",
-    "title": "\"S&P 연말까지 8% 더 오른다\"…UBS도 증시 전망치 상향",
-    "summary": [
-      "글로벌 투자은행 UBS가 올해 미국 뉴욕증시의 3대 주요 지수 중 하나인 S&P500 전망치를 기존 7500에서 8100으로 21일(현지시간) 상향 조정했다.",
-      "지난 5월 골드만삭스, 모간스탠리 등이 이끌었던 S&P500 전망치 상향 대열에 UBS까지 합류한 모양새다.",
-      "UBS의 전망대로라면 올해 말까지 남은 5개월 남짓 동안 S&P500지수가 8% 이상 추가 상승할 여력이 있다는 의미다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na744b346",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "52분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003717756",
-    "title": "푸틴, 11월 中선전 APEC 참석…李대통령과 첫 만남 이뤄지나",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 블라디미르 푸틴 러시아 대통령이 오는 11월18∼19일 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의에 참석한다.",
-      "이재명 대통령도 회의에 참석하면 두 정상의 첫 대면이 이뤄질 가능성이 있어 주목된다.",
-      "21일(현지시간) 러시아 국영 타스통신 등에 따르면 마라트 베르디예프 러시아 외무부 특임대사는 푸틴 대통령이 러시아 대표단을 직접 이끌고 중국을 방문한다고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2213b5f7",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "58분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/22/2026072202222320137",
-    "title": "美, 북한 여행 금지 1년 추가 연장…\"체포·장기구금 위험 여전\"",
-    "summary": [
-      "미국 도널드 트럼프 행정부가 미국인의 북한 여행 금지를 1년 연장했다.",
-      "21일(현지시간) 미 연방 관보에 따르면 미국 국무부는 전날 자국민의 북한 여행 금지를 내년 8월31일까지 1년 연장하는 공지를 발표했다.",
-      "국무부는 \"북한 여행이 미국 시민과 국민의 신체적 안전에 즉각적인 위험을 초래하는 체포 및 장기 구금을 당할 심각한 위험이 여전히 존재한다고 판단한다\"며 \"국무장관이 특별히 승인한 경우를 제외하고 모든 미국 여권은 북한으로 가거나 머무르."
     ],
     "chips": [
       "#뉴스"
@@ -645,18 +643,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
