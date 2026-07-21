@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-21 09:48:28
+// 마지막 업데이트: 2026-07-21 10:41:19
 window.NEWS_DB = [
   {
     "id": "n9007875e",
     "category": "경제",
     "source": "자유일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbWRfRHlIZjVCN2NNUTl0SUFuN3FZbDFNVkZPWHhnYXFSNUpyb0laWml6QWpCWnA5eWstRDFIU0s4b0xzSnctb3hXLWJua0JLNTNpaS11WXo5WUt0dV9YWXBXU21ab1UwcmZn0gFvQVVfeXFMTUhzV0FlZExhb1cyWjZJNGJJSEd6MDBtUG5zTExYVkhjM2ZGM2RTVzRsUXZ3MENPXzhuY3FJZVdPYVFHTW9VRXpLY0FkV0R1YUZRR3F0NmVPbFYxZkowZGdOcGVhU216MTVjams1LTc0?oc=5",
     "title": "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n3046e8fe",
     "category": "IT",
     "source": "디지털투데이",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YOHF1WW82MWFrYVdwLWtUeVpLTlQyYnk1TkNPazhHbnNCR3B0ejBWY2tBTkpYSG4tUUx5YnZvSXYtMFhWTUhWV3NMYkZiNlZSeHExaFZCUmFVTWUyZV93Z3F3bGVKX1Rtb3M5dVJMNTJ4LWc?oc=5",
     "title": "제프 베이조스도 베팅…커스프AI, 엔비디아와 AI 반도체 신소재 찾는다",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n3efd7aa7",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZFhGeURJRHhsNzJsQ1FCdFllRmRoUTExcDZubzRVUzhJVk41MU15Y1V6Q1dmM09oSFh5bTF4Nkd2dDlZM25RdmpPREo1SUFFaTlmMmc5ak9KV0XSAWBBVV95cUxPTlhKQmxCZ1pkY2UyT2E4ZC1mUFRfcEotWXJyejE3V2puMkdQcWFEUzdWS2xxZW9Ca0VqSndvZ21FcmxXbW81T1VSZENac0hMc1dacUlYT0R1UjZiSHZ2Ym0?oc=5",
     "title": "中AI기업 즈푸, 국산반도체로 데이터센터 완공…脫엔비디아 속도",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "nb4fe9e9c",
     "category": "경제",
     "source": "베타뉴스",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nX0NGRE52elNDRk90R2loSHhLdWJFdDhEaVZPZTZ3ekNEUDJpQ0szUF9vSWZ2WTVKNURGN0RvT2M5WWZyVUpleGZEemJGSDhrOGhpVW9lRC1kQkpOMU13Tkh1TXI?oc=5",
     "title": "원·달러 환율, '한은 금리인상·美 물가 둔화'에 장중 1470원대 진입...두 달 만에 최저",
     "summary": [
@@ -153,17 +153,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0334f5fd",
+    "id": "nb424412f",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "v.daum.net",
     "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdE1YdkpUSjVXSms1V0FxWUQ0dkh5QkpaOThFSjZHdGxRcVVPTFhrSjZmc2djTjg0MkxsdmdXeUUtTFZWcHNQcE9jQWt0T3FxM20zX2VfUWFlVlZNZk9mZtIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
-    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
+    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
     ],
     "chips": [
-      "#AI",
+      "#채용",
+      "#취업",
       "#고용"
     ]
   },
@@ -226,6 +227,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n917184b9",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "29일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
+    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
+    "summary": [
+      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -303,21 +319,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "159일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
     "id": "nbd744211",
     "category": "IT",
     "source": "테크M",
@@ -379,258 +380,268 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n16a4050d",
-    "category": "사회",
+    "id": "n0bfe21ee",
+    "category": "스포츠",
     "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072119402603549",
+    "title": "이현재 하남시장, 위례 행정체제 개편 첫발…북위례 ATM 설치 확정",
+    "summary": [
+      "경기 하남시(시장 이현재)가 위례신도시의 행정체제 개편 논의를 본격화하는 한편, 주민 숙원사업이던 현금자동입출금기(ATM) 설치를 확정하며 생활밀착형 행정 성과를 내놨다.",
+      "하남시는 21일 위례동 주민들의 생활 불편 해소와 위례 행정 통합 방안을 논의하기 위한 '위례 현안 TF' 회의를 개최했다고 밝혔다.",
+      "회의에는 민관협치위원회 위원과 위례 시민대표, 행정체제 개편 연구용역을 수행하는 한국행정학회 관계자 등이 참석했."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n00632e68",
+    "category": "사회",
+    "source": "머니투데이",
     "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026072118465521977",
-    "title": "한동훈 \"보완수사권 폐지되면 장윤기 같은 사례 늘어날 것\"",
+    "url": "https://www.mt.co.kr/society/2026/07/21/2026072119181355165",
+    "title": "순천서 초교 통학버스가 철도건널목 차단기 들이받아",
     "summary": [
-      "한동훈 무소속 의원은 21일 \"검찰 보완수사권이 폐지되면 경찰의 조작 사건이 늘어날 것이고, 무능과 태만으로 인해 사건이 왜곡되거나 '장윤기 사건' 같은 사례가 늘어날 수밖에 없다\"고 밝혔다.",
-      "한 의원은 이날 시사저널TV 유튜브 채널에 출연해 진중권 광운대 교수와 대담하면서 \"검찰 보완수사권이 폐지되면 사건 조작이 늘고 '핑퐁 지옥'에 빠질 것\"이라며 \"(더불어민주당이) 있지도 않은 상대를 악마화하는 '섀도복싱'을."
+      "전남광주 순천시에서 초등학교 통학버스가 철도건널목의 진입 차단기를 들이받는 사고를 냈다.",
+      "21일 소방 당국에 따르면 이날 오후 1시50분쯤 순천시 별량면 한 철도건널목에서 70대 남성 A씨가 운전하던 초등학교 통학버스가 차단기를 들이받았다.",
+      "이 사고로 인명 피해는 발생하지 않았지만, 사고 수습을 위해 해당 구간의 철도 이동이 24분가량 통제됐다."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "n1af6cdf0",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721174000008",
-    "title": "로보스타, 애프터마켓서 10%대 급등",
-    "summary": [
-      "(서울=연합뉴스) 코스닥 상장사 로보스타[090360]가 21일 애프터마켓에서 10%대 급등 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbdf516cc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721173800054",
-    "title": "민형배 전남광주특별시장, 국무회의서 '국산 콩 표시제' 건의",
-    "summary": [
-      "(전남광주=연합뉴스) 형민우 기자 = 민형배 전남광주통합특별시장은 21일 국무회의에서 이재명 대통령에게 '국산 콩 표시제' 도입을 건의했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3d53bad0",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260721/134338644/1",
-    "title": "JP모건 “코스피 급락, 레버리지 ETF로 인해 증폭”",
-    "summary": [
-      "코스피가 21일 종가 기준으로 최고점 대비 25.97% 급락한 영향은 단일종목을 포함한 레버리지 상장지수펀드(ETF)의 영향이 컸다는 글로벌 투자은행(IB)의 분석이 나왔다.",
-      "레버리지 ETF가 강제 청산된 규모는 적정 수준의 75%가량에 이른 것으로 추산됐다.",
-      "JP모건은 이날 ‘한국의 디레버리징에 과정의 최신 동향’ 보고서를 통해 “(코스피의 급락은) 레버리지 ETF로 인해 증폭됐다”고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7172a840",
-    "category": "사회",
+    "id": "n5dd6163d",
+    "category": "스포츠",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717629",
-    "title": "조국혁신당 \"선관위 특검 합의, 거대 양당 독점주의 드러낸 것\"",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717587",
+    "title": "방탄소년단, 한국 멋 담은 '노멀' 라이브 클립 공개",
     "summary": [
-      "[서울=뉴시스] 이창환 기자 = 조국혁신당은 21일 더불어민주당과 국민의힘이 6·3 지방선거 투표용지 부족 사태와 관련한 특별검사를 국회 내 국민추천위원회를 꾸려 추천하기로 합의한 데 대해 \"다양한 의견을 수렴해야 하는 민주주의를 왜곡하는 거대 양당의 독점주의와 담합 정치를 노골적으로 드러낸 것\"이라고 했다.",
-      "임명희 조국혁신당 대변인은 이날 오후 논평을 내고 \"더불어민주당과 국민의힘이 제9회 지방선거 당시 발생한 선거관리위원회 투표용지 부족 사."
+      "[서울=뉴시스]이재훈 기자 = 글로벌 슈퍼 그룹 '방탄소년단'(BTS)이 음반, 월드투어, 메가 스포츠 이벤트를 아우르며 존재감을 입증하고 있다.",
+      "21일 소속사 빅히트 뮤직에 따르면 방탄소년단은 이날 공식 유튜브 채널을 통해 정규 5집 '아리랑(ARIRANG)' 수록곡 '노멀(NORMAL)' 라이브 클립을 공개했다.",
+      "'선혜원'을 배경으로 한국 특유의 고즈넉한 멋과 생생한 가창을 담아냈다."
     ],
     "chips": [
-      "#정치"
+      "#환경"
     ]
   },
   {
-    "id": "n9cb8e19e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/21/MIYTANRTMZRWMOBVMI4TSZDFGA/",
-    "title": "'엄마 지젤 번천' 똑 닮은 13세 딸 미모 화제...부모는 세기의 이혼 [Oh!llywood]",
+    "id": "n5fc71fe2",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/policy/2026/07/21/2026072119050457507",
+    "title": "필승교 수위 상승에 소방청 총력 대응…중앙긴급구조통제단 가동",
     "summary": [
-      "[OSEN=최이정 기자] 미국 미식축구(NFL)의 살아있는 전설 톰 브래디(48)가 삼남매와 함께한 행복한 여름휴가 근황을 공개한 가운데, 그의 딸 비비안이 엄마이자 세계적인 톱모델 지젤 번천의 전성기 모습을 빼박아 닮은 비주얼로 전 세계 팬들의 시선을 사로잡았다.톰 브래디는 지난 20일(현지시간) 자신의 개인 인스타그램 계정을 통해 13세 딸 비비안, 그."
+      "소방청이 집중호우로 필승교 수위가 상승하자 중앙긴급구조통제단을 가동하고 임진강 유역 피해 예방과 긴급 대응에 나섰다.",
+      "소방청은 21일 오후 1시10분 중앙긴급구조통제단을 가동한 데 이어 최용철 소방청장 직무대행 주재로 상황판단회의를 열고 필승교 수위와 임진강 유역 현장 상황, 소방력 배치 현황 등을 점검했다고 밝혔다.",
+      "최 직무대행은 필승교와 임진강 주변, 하천·저지대 등 피해 우려 지역에 대한 예찰 활동을 강화하고, 유사시 신속히 대응할 수 있."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9fc4c3f2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/07/21/MUZTOYLGGI3WEY3GMVRDKM3EG4/",
-    "title": "'새 역사 쓴 4학년 챔피언 탄생'…제42회 대통령기 전국탁구대회 성황리 폐막",
-    "summary": [
-      "[OSEN=손찬익 기자] 8일간 경주를 뜨겁게 달군 제42회 대통령기 전국탁구대회가 막을 내렸다.지난 14일부터 21일까지 경주실내체육관에서 열린 이번 대회에는 초등부부터 일반부까지 전국 124개 팀과 단식 877명, 복식 390조가 참가해 한국탁구의 현재와 미래를 한자리에서 선보였다.일반부에서는 국내 정상급 선수들의 치열한 경쟁이 펼쳐졌다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc89c38c9",
+    "id": "nf0915191",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/21/GEZGIZJQMY4TCMDDGI4TIMBRMQ/",
-    "title": "\"KBO ABS 조금 더 넓은 것 이미 알더라. 스마트한 선수\" → 1.5억 단기 대체자는 '게임체인저'가 될 수 있을까 [부산 현장]",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072119342649520",
+    "title": "[한번에쓱] '늠름하게 마운드에 서다!' 키움 승리기원시구 제로베이스원 박건욱",
     "summary": [
-      "[부산=스포츠조선 한동훈 기자] SSG 랜더스 단기 대체 외국인선수 블라이 마드리스가 부산에서 KBO리그 데뷔전을 치른다.",
-      "이숭용 SSG 감독은 마드리스가 훈련하는 모습을 보고 기대감을 키웠다.",
-      "이 감독은 21일 부산 롯데 자이언츠전을 앞두고 마드리스의 태도를 높이 평가했다."
+      "제로베이스원 박건욱이 21일 고척스카이돔에서 열리는 '2026 SOL KBO리그 키움히어로즈와 삼성라이온즈 경기에서 승리기원 마운드시구를 하고 있다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nd32ca869",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721160451001",
-    "title": "국힘, 7개 상임위원장직 수락하기로…보이콧 접고 국회 복귀(종합)",
+    "id": "n7515ba52",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260721/134336047/1",
+    "title": "8년 총액 80억 ‘잭팟’ 터트린 하영민 “키움이 빛날 날, 제가 오게 할 겁니다”",
     "summary": [
-      "(서울=연합뉴스) 이정현 노선웅 조다운 기자 = 국민의힘은 21일 의원총회를 열어 여당이 단독으로 구성하고 남은 7개 상임위원장직을 수락하기로 ..."
+      "야구에서 ‘에이스’는 연승은 이어주고 연패를 끊어주는 투수다.",
+      "팀이 ‘암흑기’를 보내고 있을 때는 연패를 끊어주는 역할이 더 중요하다.",
+      "그런 점에서 키움의 에이스는 하영민(31)이다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4a090998",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026072119361195874",
+    "title": "런던증권거래소, 내년 상반기부터 야간 거래소 신설",
+    "summary": [
+      "영국 런던증권거래소(LSE)가 21일(현지시간) 내년 상반기부터 야간 거래소를 신설할 계획이라고 밝혔다..",
+      "기존 런던증권거래소는 오전 8시부터 오후 4시 30분까지 운영하고 오후 5시부터 다음날 오전 7시 50분까지는 LSE 24에서 거래가 처리된다.",
+      "다만 오후 6시 30분부터 7시까지는 정산을 위해 휴장한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne9079782",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026072119353891080",
+    "title": "조승문 화성 제2부시장 취임…\"중단 없는 화성 도약 위해 다시 헌신\"",
+    "summary": [
+      "조승문 화성특례시 제2부시장이 21일 공식 취임하며 5개월 만에 시정에 복귀했다.",
+      "취임식 대신 민생 현장을 찾는 것으로 첫 일정을 시작하며 민선 9기 시정의 연속성과 안정적인 정책 추진에 힘을 보태겠다는 의지를 밝혔다.",
+      "조 부시장은 이날 제2부시장 소관 부서의 주요 현안을 점검한 데 이어 화성시의회를 방문해 의장단과 상견례를 갖고 시정 발전을 위한 협력 방안을 논의했다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n8d5db681",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260721/134339547/1",
+    "title": "경찰, 강선우 ‘공직임명 대가 후원금’ 의혹 무혐의 처분",
+    "summary": [
+      "무소속 강선우 의원이 전직 서울시의원에게 시설관리공단 이사장직을 약속하고 그 대가로 ‘쪼개기 후원’을 받았다는 의혹에 대해 경찰이 무혐의 처분을 내렸다.",
+      "21일 경찰에 따르면 서울경찰청 광역수사단 공공범죄수사대는 이달 6일 정치자금법 위반 혐의를 받는 강 의원과 전직 서울시의원 김모 씨를 ‘혐의없음’으로 불송치 처분했다.경찰은 수사 결과 통지서에 “김 씨의 강서구 시설관리공단 이사장 임명 시기 등을 고려할 때, 강 의원이 차기 시설관리공단 이사."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n84bed0c5",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026072118384611808",
-    "title": "라가르드 ECB 총재, 조기 퇴진 후 프랑스 대선 출마 가능성 제기",
-    "summary": [
-      "유럽 통화정책 수장인 크리스틴 라가르드 유럽중앙은행(ECB) 총재의 조기 사임설을 두고 추측이 난무하고 있다.",
-      "차기 세계경제포럼(WEF) 의장 내정설에 이어 내년 프랑스 대선에 관여할 것이라는 관측까지 나왔다.",
-      "20일(현지시간) 스위스 일간지 노이에취르허차이퉁(NZZ)은 유로존이 프랑스 대선 출마를 선언한 극우 국민연합(RN) 마린 르펜 의원을 견제하기 위해 차기 ECB 총재를 조기 결정할 수 있다고 전망했다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nb797c6c9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260721/134339003/1",
-    "title": "세살배기 딸 살해하고 야산에 유기한 친모 ‘징역 13년’",
-    "summary": [
-      "세 살배기 딸을 살해한 뒤, 시신을 야산에 유기하고 6년간 범행을 숨긴 30대 친모가 징역 13년을 선고받았다.",
-      "재판부는 “독립된 인격과 무한한 가능성을 지닌 피해 아동을 살해하는 등 친모로서 마땅히 보살펴야 한다는 점을 망각한 채 반인륜적인 일을 저질렀다”고 지적했다.",
-      "수원지법 안산지원 제2형사부(부장판사 박지영)는 21일 살인 등 혐의로 구속기소 된 친모(30대)에 대해 징역 13년을 선고했다."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "ncafec40b",
-    "category": "사회",
+    "id": "n7c390fb5",
+    "category": "부동산",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/2026/07/21/F75AV7N4NJCSZA5EQJCBU4D6WM/",
-    "title": "‘배드민턴 여제’ 안세영, 발 부상 여파로 중국오픈 불참",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/21/GNSTSMLGGQ3DSMDFMI3GMMBQHA/",
+    "title": "정일우, 특이 경력 '눈길' \"커피 레시피로 전세계 검색어 1위\" ('알딸딸한 참견') [순간포착]",
     "summary": [
-      "‘배드민턴 여제’ 안세영, 발 부상 여파로 중국오픈 불참."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 정일우가 '달고나 커피'를 언급했다.",
+      "21일 유튜브 채널 '알딸딸한 참견'에는 '데뷔 20주년 배우 정일우 10년지기 안재현과 거침없이 하이 텐션'이라는 제목의 영상이 게재됐다.이날 정일우 과거 KBS 2TV '편스토랑'에 출연했다고 언급, 정일우의 절친인 안재현은 \"코로나19 시기에 정일."
     ],
     "chips": [
-      "#뉴스"
+      "#전세"
     ]
   },
   {
-    "id": "nb789e4ac",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026072118255278752",
-    "title": "'구더기 속 아내 방치' 前부사관, 2심서도 \"이불 덮고 있어 몰랐다\"",
-    "summary": [
-      "온몸에 구더기가 퍼질 때까지 아내를 장기간 방치해 숨지게 한 혐의를 받는 전직 육군 부사관이 항소심에서도 혐의를 부인했다.",
-      "서울고법 형사5부(부장판사 김용석)는 21일 살인 혐의 사건 항소심 공판에서 30대 전직 부사관 김모씨가 무죄를 주장하는 항소 이유서를 제출했다고 밝혔다.",
-      "김씨 측은 징역 30년을 선고한 1심 판결에 대해 사실오인과 법리오해, 양형부당을 이유로 항소했다며 \"피해자가 치료를 미뤄달라고 했고, 이불."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7584a8e8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721173700073",
-    "title": "\"0∼3시간 수면\"…다카이치 '열일' 어필 SNS에 동정·비판 교차",
-    "summary": [
-      "(도쿄=연합뉴스) 이도연 특파원 = 다카이치 사나에 일본 총리가 소셜미디어(SNS)를 통해 자신이 바쁘게 일하는 모습을 어필하자 온라인에서 걱정..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n38a5a797",
+    "id": "n78a51763",
     "category": "스포츠",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026072118375404340",
-    "title": "최현덕 시장 \"시민이 정책 주인\"…남양주, 100대 과제 안고 '대전환' 시동",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717655",
+    "title": "[경남소식]문화다양성축제 '맘프 2026' 10월 23~25일 개최 등",
     "summary": [
-      "경기 남양주시(시장 최현덕)가 민선 9기 시정 운영의 밑그림을 마련한 시민주권위원회의 활동을 마무리하고 시민 참여를 기반으로 한 '남양주 대전환' 실현에 본격 나선다.",
-      "남양주시는 21일 시청 여유당에서 시민주권위원회 활동 성과를 공유하고 민선 9기 시정 비전과 100대 핵심 과제를 발표하는 시민보고회를 개최했다고 밝혔다.",
-      "보고회에는 최현덕 남양주시장과 경성석 시민주권위원회 인수위원장을 비롯해 인수위원, 시민 등."
+      "[창원=뉴시스]홍정명 기자 = 경남이주민센터는 21일 문화다양성축제 'MAMF(맘프) 2026' 추진위원회 첫 회의를 개최하고 축제 준비에 착수했다.",
+      "유영재 총괄감독은 10월 23일부터 25일까지 창원에서 개최되는 맘프의 각각 주제, 슬로건인 ‘경계를 넘어, 세상이 되다’와 ‘스물하나, 세상이 되다’와 축제 계획을 설명했다.",
+      "올해 주빈국으로는 한민족을 포함해 130여 민족으로 이루어진 다문화국가 우즈베키스탄이 선정됐으며, 회의 후 창원특례시청을."
     ],
     "chips": [
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf3b4d40a",
+    "id": "ncfc145b0",
     "category": "IT",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260721/134339204/1",
-    "title": "SBA “2026 초격차 글로벌 IR·PoC in 도쿄, 韓日 기업 동반 성장 무대로”",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717235",
+    "title": "돈 많아야 연애한다?…\"미혼男 소득 따라 두 배 차이\"",
     "summary": [
-      "창업진흥원과 서울경제진흥원(대표 김현우, 이하 SBA)이 우리나라 초격차 스타트업의 일본 시장 진출과 안착을 도울 ‘2026년 초격차 글로벌 IR & PoC in 도쿄’ 행사를 6월 24일~6월 26일, 일본 도쿄 이노베이션 베이스에서 열었다.",
-      "우리나라 초격차 스타트업 14곳과 일본 대·중견기업 12곳과의 협업을 주선, 기술을 교류하고 동반 성장 방향도 정하도록 도운 자리다.이번 행사에는 건설 기업 후지타, 공조·소재 기업 다이킨 인더스트리와."
+      "[서울=뉴시스] 남정현 기자 = '시사기획창'이 계층과 지역에 따라 연애 양상이 다르게 나타나는 현실을 추적했다.",
+      "21일 오후 10시 방송하는 KBS 1TV '시사기획창'은 '연애 실종' 편으로 진행된다.",
+      "제작진은 지식스타트업 언더스코어에 의뢰해 한국·중국·일본·미국·스페인 등 5개국 국제비교조사를 실시했다."
     ],
     "chips": [
       "#스타트업"
     ]
   },
   {
-    "id": "nccc53dcf",
+    "id": "ndaf64df1",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717619",
-    "title": "인천 도로서 지름 1.5m·깊이 2m 땅꺼짐…인명피해 없어",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/21/GEYGIYLDMEYTSNLCG44TAY3DGI/",
+    "title": "인생 얼마나 잘 살았길래…김호영, 지인이 깜짝 선물 '감동'('투머치 김호영')",
     "summary": [
-      "[인천=뉴시스] 이루비 기자 = 21일 오후 4시39분께 인천 계양구 방축동 한 도로에서 땅 꺼짐(싱크홀) 현상이 발생했다.",
-      "이날 사고로 인명 피해는 없었다.",
-      "싱크홀 규모는 지름 1.5m, 깊이 2m로 파악됐다."
+      "<방송 시청 후 작성된 리뷰 기사입니다>[OSEN=김수형 기자] 방송인 김호영이 일본 여행 마지막 날, 예상치 못한 선물을 받고 감동한 사연을 공개했다.21일 유튜브 채널 '김호영'에는 '일본 여행 3탄! 김호영 2배 이벤트? 도플갱어와 도쿄 스키야키 맛집 먹방'이라는 제목의 영상이 게재됐다.이날 김호영은 귀국을 앞두고 일본 도쿄 교바시의 유명 스키야키 맛."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nf90a77cb",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717631",
+    "title": "안양시, 안양관리역과 교통서비스 협약…철도·버스 연계 강화",
+    "summary": [
+      "[안양=뉴시스] 박석희 기자 = 경기 안양시가 안양관리역과 손잡고 철도와 버스를 연계한 교통서비스 개선에 나선다.",
+      "안양시는 21일 안양역에서 안양관리역과 '지역 상생 교통서비스 활성화'를 위한 업무협약을 체결했다고 밝혔다.",
+      "협약식에는 이계삼 안양시 부시장과 백학선 안양관리역장 등이 참석했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4123a8f6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/21/MY2WKYTFMI4WIM3FMNRDSZDFMM/",
+    "title": "박신양, '파리의 연인' 24년 만에 TV서 라이브..'플레이리스트 109' 첫방 꽉 채워",
+    "summary": [
+      "[OSEN=연휘선 기자] 배우 박신양이 '플레이리스트 109' 첫 방송에서 직접 라이브 무대를 선보인다.",
+      "21일 MBC 새 예능 프로그램 '오늘을 버틴 노래-플레이리스트 109'(약칭 '플레이리스트 109') 측은 이날 밤 첫 방송에 앞서 선공개 영상을 공개했다.",
+      "영상에는 게스트 박신양이 3MC 이석훈, 이준, 딘딘과 함께 버팀송을 부르는 순간이 담겨 이목."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc458c0ab",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://view.asiae.co.kr/article/2026072119302680815",
+    "title": "손호영 강남 전광판에…비스테이지 팬 투표 1위",
+    "summary": [
+      "그룹 지오디(god) 손호영이 팬덤 플랫폼 비스테이지가 진행한 팬 투표에서 1위를 차지했다.",
+      "비스테이지는 투표 코너 '비플픽(b+PICK)'에서 진행한 '비스테이지 대표 강아지' 투표 결과 손호영이 최종 1위에 올랐다고 21일 밝혔다.",
+      "이번 투표는 팬들이 평소 '강아지'라는 애칭으로 부르는 아티스트를 대상으로 진행됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8c702565",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/future/2026/07/21/2026072116063685068",
+    "title": "스몰티켓, 금융위 26년 제2차 '혁신 프리미어 1000'기업 선정",
+    "summary": [
+      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] 인슈어테크 스타트업 스몰티켓은 금융위원회가 발표한 '2026년도 제2차 혁신 프리미어 1000'에 융합지식서비스 분야 기업으로 선정됐다고 21일 밝혔다.",
+      "혁신 프리미어 1000은 금융위를 비롯한 14개 정부 부처가 협업해 산업별로 혁신성과 성장성을 갖춘 중소·중견기업을 발굴하는 국가적 지원 프로그램이다."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   }
 ];
@@ -646,14 +657,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
