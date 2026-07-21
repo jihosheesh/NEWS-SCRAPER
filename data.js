@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-21 11:34:15
+// 마지막 업데이트: 2026-07-21 12:29:56
 window.NEWS_DB = [
   {
     "id": "n9007875e",
     "category": "경제",
     "source": "자유일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbWRfRHlIZjVCN2NNUTl0SUFuN3FZbDFNVkZPWHhnYXFSNUpyb0laWml6QWpCWnA5eWstRDFIU0s4b0xzSnctb3hXLWJua0JLNTNpaS11WXo5WUt0dV9YWXBXU21ab1UwcmZn0gFvQVVfeXFMTUhzV0FlZExhb1cyWjZJNGJJSEd6MDBtUG5zTExYVkhjM2ZGM2RTVzRsUXZ3MENPXzhuY3FJZVdPYVFHTW9VRXpLY0FkV0R1YUZRR3F0NmVPbFYxZkowZGdOcGVhU216MTVjams1LTc0?oc=5",
     "title": "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n3046e8fe",
     "category": "IT",
     "source": "디지털투데이",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YOHF1WW82MWFrYVdwLWtUeVpLTlQyYnk1TkNPazhHbnNCR3B0ejBWY2tBTkpYSG4tUUx5YnZvSXYtMFhWTUhWV3NMYkZiNlZSeHExaFZCUmFVTWUyZV93Z3F3bGVKX1Rtb3M5dVJMNTJ4LWc?oc=5",
     "title": "제프 베이조스도 베팅…커스프AI, 엔비디아와 AI 반도체 신소재 찾는다",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n3efd7aa7",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZFhGeURJRHhsNzJsQ1FCdFllRmRoUTExcDZubzRVUzhJVk41MU15Y1V6Q1dmM09oSFh5bTF4Nkd2dDlZM25RdmpPREo1SUFFaTlmMmc5ak9KV0XSAWBBVV95cUxPTlhKQmxCZ1pkY2UyT2E4ZC1mUFRfcEotWXJyejE3V2puMkdQcWFEUzdWS2xxZW9Ca0VqSndvZ21FcmxXbW81T1VSZENac0hMc1dacUlYT0R1UjZiSHZ2Ym0?oc=5",
     "title": "中AI기업 즈푸, 국산반도체로 데이터센터 완공…脫엔비디아 속도",
     "summary": [
@@ -137,6 +137,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndda47320",
+    "category": "사회",
+    "source": "이치저널",
+    "time": "20일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
+    "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
+    "summary": [
+      "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다 이치저널."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
@@ -149,21 +165,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n0334f5fd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdE1YdkpUSjVXSms1V0FxWUQ0dkh5QkpaOThFSjZHdGxRcVVPTFhrSjZmc2djTjg0MkxsdmdXeUUtTFZWcHNQcE9jQWt0T3FxM20zX2VfUWFlVlZNZk9mZtIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
-    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
-    "summary": [
-      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
-    ],
-    "chips": [
-      "#AI",
       "#고용"
     ]
   },
@@ -226,6 +227,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n917184b9",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "29일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
+    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
+    "summary": [
+      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -303,21 +319,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "159일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
     "id": "nbd744211",
     "category": "IT",
     "source": "테크M",
@@ -379,103 +380,178 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nacd97fd6",
+    "id": "n11189a3f",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717699",
+    "title": "삼성 이재현, 부상 복귀 자축 솔로포…키움 박정훈 상대로 '쾅'",
+    "summary": [
+      "[서울=뉴시스]문채현 기자 = 프로야구 삼성 라이온즈의 이재현이 부상 복귀를 자축하는 홈런을 날렸다.",
+      "이재현은 21일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 키움 히어로즈와의 경기에 9번 타자 유격수로 선발 출전해 8회 홈런을 날렸다.",
+      "그는 양 팀이 6-6으로 팽팽하게 맞서던 8회초 선두타자로 나서 키움 불펜 박정훈과 8구까지 가는 치열한 승부를 벌인 뒤 시속 146㎞ 바깥쪽 투심 패스트볼에 배트를 휘둘러 타구를 좌중간 담장 뒤."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nfdba222a",
     "category": "사회",
     "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260721/134336494/1",
-    "title": "홍해까지 막히나…후티 반군, 사우디에 해상 봉쇄 선언",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260721/134340158/1",
+    "title": "“40도 폭염 끝?”…숨통 트인 유럽, 기온 최대 12도 ‘뚝’",
     "summary": [
-      "예멘의 친이란 무장단체 후티 반군이 사우디아라비아에 대한 해상 봉쇄를 선언하며, 선박 운영 회사들에게도 사우디 내 항구에 기항하지 말라고 경고했다.21일(현지 시간) 블룸버그통신에 따르면 후티 반군은 전날 사우디에 대한 해상 봉쇄를 발표했고, 이날 선박 운영회사들에게 “이번 봉쇄 조치는 사우디 선박뿐 아니라 사우디 항구를 오가는 모든 선박에 적용된다”고 밝혔다.",
-      "또 “사우디를 오가는 선박은 어느 곳에서든 표적이 될 수 있다”고 경고했다.최근 사."
+      "유럽 중부와 발칸반도를 달궜던 기록적인 폭염이 이번주 들어 한풀 꺾이면서 일부 지역은 기온이 평년보다 10~12도 낮아질 것으로 예보됐다.",
+      "다만 폭염이 잦아들더라도 산불 위험과 강한 뇌우 가능성은 남아있다.",
+      "20일(현지 시간) 기상 전문 매체 ‘시비어 웨더 유럽’에 따르면 최근 유럽을 뒤덮었던 폭염은 대기 흐름이 바뀌면서 북유럽에서 내려온 차가운 공기가 중부·동유럽으로 확산되고 있다.이번 기온 하강은 대서양 상공의 고기압 능선이 강화되면서 형성."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6bc34294",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/politics/blue_house/2026/07/21/UAJ7IANS3RAWNMEBVJCAD52654/",
-    "title": "靑, 李 근저당 논란에 해명 “통상적 방식으로 부동산 통해 이뤄져”",
-    "summary": [
-      "靑, 李 근저당 논란에 해명 “통상적 방식으로 부동산 통해 이뤄져”."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nb4a9b228",
+    "id": "ne5718477",
     "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717658",
-    "title": "\"2030년에도 5억명이 만성적 굶주림에 시달려\"…유엔",
-    "summary": [
-      "[로마=AP/뉴시스] 김재영 기자 = 국제사회의 굶주림 예방에도 수 억 명이 밥을 제대로 먹지 못하고 있다는 유엔 보고서가 나왔다.",
-      "21일 배포된 유엔 식량안보 보고서에 따르면 세계 굶주림 인구는 수 년 간 다소 줄어들었으나 2030넌이 되어도 5억 명 이상이 만성적 굶주림에 시달릴 것으로 예상된다.",
-      "이제 아시아가 아니라 아프리카에서 가장 많은 사람들이 굶을 것으로 보인다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n21540998",
-    "category": "사회",
-    "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.chosun.com/opinion/manmulsang/2026/07/21/Q3HZCHUI6VGZFJB7KLRYMOIH44/",
-    "title": "[만물상] ETF 아버지 “레버리지 ETF 안 돼”",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717691",
+    "title": "이란 내무장관, '중재국' 파키스탄 방문해 육군원수와 총리 만나",
     "summary": [
-      "[만물상] ETF 아버지 “레버리지 ETF 안 돼”."
+      "[이슬라마바드(파키스탄)=AP/뉴시스] 김재영 기자 = 이란전쟁 종전협상 중재국인 파키스탄과 카타르가 6월 17일 서명의 종전 양해각서 구제에 열심인 가운데 21일 이란 내무장관이 파키스탄을 방문했다.",
+      "미국과 이란은 이날 오전까지 연속 10일째 심야 공격과 이에 대한 보복 공습을 이어갔다.",
+      "파키스탄은 휴지 조각이 되었다는 양해각서 '살리기'의 외교 노력을 배증해왔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc74f5b2e",
+    "id": "n0e4b048a",
     "category": "경제",
-    "source": "아시아경제",
+    "source": "한국경제",
     "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026072120252376546",
-    "title": "예멘 후티 반군 \"사우디아라비아 항구 이용 말라\" 경고",
+    "url": "https://www.hankyung.com/article/2026072178677",
+    "title": "\"바다서 아들 구하고 사라진 분\"…간절한 수소문 끝내 닿았다",
     "summary": [
-      "예멘의 친이란 반군 후티가 해운사들에 사우디아라비아 항구를 이용하지 말라고 경고했다.",
-      "21일(현지시간) 외신에 따르면 후티 반군은 전날 다수의 글로벌 해운사에 보낸 이메일에서 \"사우디의 모든 항구에서 선박의 화물 선적 및 하역을 금지한다\"고 밝혔다.",
-      "후티는 \"이런 활동은 위반 선박을 제재 위험에 노출할 것\"이라며 \"예멘군의 작전 반경 내 어느 위치에서든 표적이 될 수 있다\"고 말했다."
+      "\"바다서 아들 구하고 사라진 분\"…간절한 수소문 끝내 닿았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nde7d2d8a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260721/134336835/1",
-    "title": "남중국해선 필리핀 충돌, 日 EEZ선 사격훈련…中 영유권 갈등 격화",
-    "summary": [
-      "중국이 필리핀, 베트남 등 동남아시아 주요국과 남중국해 영유권을 두고 격렬한 갈등을 빚고 있다.",
-      "특히 필리핀군은 20일 중국 해경이 양국의 영유권 분쟁지 ‘세컨드토머스 암초’(중국명 런아이자오) 일대에서 자국 병사를 폭행해 부상을 입힌 동영상을 공개하며 중국을 강하게 비판했다.중국과 일본의 갈등 또한 고조되고 있다.",
-      "중국은 19일 러시아 해군과 일본의 배타적경제수역(EEZ)을 항해하고 사격 훈련을 실시했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1404bebb",
+    "id": "n9caa6903",
     "category": "사회",
     "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721094551001",
+    "title": "與전대, '분열주의' 공방 속 예비경선 돌입…'신천지' 변수 돌발(종합)",
+    "summary": [
+      "(서울=연합뉴스) 박경준 김정진 오규진 최주성 기자 = 더불어민주당 8·17 전당대회 당 대표 후보들은 21일 서울시의회 초청 간담회에 참석해 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4b736450",
+    "category": "경제",
+    "source": "한국경제",
     "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721181100079",
-    "title": "예멘 후티 반군 \"사우디 항구 이용 말라\" 해운사에 경고",
+    "url": "https://www.hankyung.com/article/2026072178717",
+    "title": "경매 나온 NBA 전설 체임벌린 재킷…4000원에 샀는데 1억원에 팔렸다",
+    "summary": [
+      "경매 나온 NBA 전설 체임벌린 재킷…4000원에 샀는데 1억원에 팔렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5f9af52f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/21/GM4DANLFHAZDANZRMY2TCMBSME/",
+    "title": "\"이건 불공평하잖아!\" 월드컵 새 역사+56년 만의 대기록 음바페 '골든부트' 논란 폭발…\"인정해선 안 된다→메시에 부당\"",
+    "summary": [
+      "[스포츠조선 김가을 기자]킬리안 음바페(프랑스)의 '골든부트'(득점왕) 수상에 논란이 제기됐다.",
+      "영국 언론 '런던 이브닝 스탠다드'는 21일(이하 한국시각) '리오넬 메시(아르헨티나)가 음바페에게 월드컵 득점왕을 빼앗긴 것인가.",
+      "웨인 루니, 앨런 시어러 등이 음바페의 최근 득점 기록에 의문을 제기했다'고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nde311a86",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260721/134339958/1",
+    "title": "경찰, 장예찬 무혐의 처분…“한동훈 저격, 허위로 단정 못해”",
+    "summary": [
+      "무소속 한동훈 의원이 국민의힘 당원게시판에 노인 비하성 글을 작성했다는 취지로 주장해 고발된 장예찬 전 국민의힘 여의도연구원 부원장이 경찰 조사 결과 무혐의 처분을 받았다.경찰은 한 의원이 해당 글을 작성하지 않았다는 사실이 증명되지 않아 장 전 부원장의 발언을 허위로 단정할 수 없다고 판단했다.21일 경찰 등에 따르면 서울 서부경찰서는 13일 장 전 부원장의 공직선거법상 낙선 목적 허위사실 공표 및 정보통신망법상 허위사실 적시 명예훼손 혐의."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6080e4e8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/21/GMZDAOBVGBRTOZJUMIYGKN3GGU/",
+    "title": "\"13년간 흰쌀밥·탄산음료 끊은 것 아냐\" 윤은혜, 방송 이후 불거진 오해 적극 해명 ('은혜로그인') [순간포착]",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 겸 배우 윤은혜가 과거 한 방송에서 불거진 오해를 해명했다.",
+      "21일 유튜브 채널 '은혜로그인'에는 \"'윤은혜의 7월 데일리템!?' 템 추천에 진심인 사람, 바로 저예요.",
+      "(트러블 고민일 때, 요즘같이 꿉꿉한 더위에 챙기는 아이템, 메이크업템부터 향기템까지)\"라는 제목의 영상이 게재됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc29078fe",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721182400007",
+    "title": "6회 투아웃서 5연속 안타로 4득점…롯데, SSG 잡고 2연승",
+    "summary": [
+      "(부산=연합뉴스) 이대호 기자 = 프로야구 롯데 자이언츠가 2연승과 함께 뒤늦게 시즌 40승 고지를 밟았다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5220d4e6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260721_0003717688",
+    "title": "\"조종사, 어떻게 되나요?\"…경운대 교수진, 예비 파일럿 길잡이 출간",
+    "summary": [
+      "[구미=뉴시스] 박홍식 기자 = 경운대학교 항공운항학과 교수진이 예비 조종사와 항공운항학과 진학을 준비하는 수험생을 위한 안내서 '항공운항학과 교수님들이 알려주는 조종사 되는 지름길'을 출간했다.",
+      "21일 경운대에 따르면 이 책은 항공운항학과 김재욱·이동식·이중봉·정진용 교수 등 4명이 공동 집필했다.",
+      "책에는 군 조종사와 민간항공사 조종사를 꿈꾸는 학생들과 학부모가 가장 궁금해하는 질문 99가지를 문답(FAQ) 형식으로 담았다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n344278b5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721181151079",
+    "title": "예멘 후티 \"사우디 항구 이용하면 어디서든 표적될 것\" 경고(종합)",
     "summary": [
       "(카이로=연합뉴스) 김상훈 특파원 = 사우디아라비아 해상 봉쇄를 예고한 예멘의 친이란 반군 후티가 해운사들에 사우디 항구를 이용하지 말라고 경고..."
     ],
@@ -484,152 +560,73 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2de6a338",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/2026072178497",
-    "title": "\"그런 사실 없다\" 국수본의 반박…장윤기 사건 진실공방",
+    "id": "n4db15be8",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260721182100061",
+    "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
     "summary": [
-      "\"그런 사실 없다\" 국수본의 반박…장윤기 사건 진실공방."
+      "(여주=연합뉴스) 최종호 기자 = 최근 경기 여주시 창동 소양천에서 포획된 악어는 국제멸종위기종인 샴악어로 확인됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2376a317",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717589",
-    "title": "KQ엔터, 에이티즈 향한 악성 게시물에 법적 대응",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 대세 그룹 '에이티즈(ATEEZ)' 소속사 KQ엔터테인먼트가 아티스트 권익 침해 행위에 대한 강경 대응 방침을 재확인했다.",
-      "KQ엔터는 21일 \"허위사실 유포, 명예훼손, 모욕, 성희롱, 사생활 침해 등 아티스트를 향한 위법 행위를 지속적으로 모니터링하고 있다\"며 \"수집된 증거를 바탕으로 엄정하게 법적 절차를 진행 중\"이라고 밝혔다.",
-      "특히 \"게시물 삭제나 계정 탈퇴 여부와 관계없이 확보된 자료는 모두 검토 대상\"이라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd527f791",
-    "category": "사회",
+    "id": "n317f6779",
+    "category": "부동산",
     "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026072120193868689",
-    "title": "박재만 경기교통공사 사장 \"교육·연구 협력으로 조직 경쟁력 높일 것\"",
+    "time": "27분 전",
+    "url": "https://view.asiae.co.kr/article/2026072121024612021",
+    "title": "靑 \"李대통령, 주택 매수인 특수관계 아냐…투명하게 진행\"",
     "summary": [
-      "경기교통공사가 대진대학교와 손잡고 전문인재 양성과 교육·학술 교류 확대에 나선다.",
-      "경기교통공사는 21일 대진대학교와 전문인재 양성 및 교육·학술교류 활성화를 위한 업무협약(MOU)을 체결했다고 밝혔다.",
-      "이번 협약은 양 기관이 보유한 교육·연구 역량과 실무 경험을 바탕으로 교육과 학술 분야의 교류를 활성화하고 지속 가능한 협력체계를 구축하기 위해 마련됐다."
+      "청와대는 21일 이재명 대통령이 성남시 분당구 아파트를 매도한 것과 관련해 \"매수인과 사적 인연이나 특수 관계가 있다는 주장은 사실무근\"이라 밝혔다.",
+      "청와대는 이날 대변인실 명의의 공지를 통해 \"사실관계가 어긋난 주장이나 보도에 유의해 줄 것을 당부드린다\"고 말했다.",
+      "청와대는 \"매매는 통상적 방식으로 부동산을 통해 이뤄졌다\"며 \"매수인의 사정을 배려해 등기를 이전했으며 근저당 설정도 거래 당사자들의 민사상 합의."
     ],
     "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n81f27e6c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717504",
-    "title": "[영월소식]동강뗏목축제 31일 개막…전통과 여름축제 만난다 등",
-    "summary": [
-      "[영월=뉴시스]홍춘봉 기자 = 뗏꾼들의 역사와 전통을 현대적으로 재해석한 제28회 동강뗏목축제가 오는 31일부터 8월 2일까지 사흘간 강원 영월군 동강둔치 일원에서 열린다.",
-      "동강뗏목축제는 물과 자연, 휴식을 주제로 전통 뗏목문화와 현대적인 축제 콘텐츠를 접목한 영월의 대표 여름축제로, 다양한 공연과 체험, 먹거리, 휴식 프로그램을 갖춘 체류형 문화관광축제로 자리매김하고 있다.",
-      "(재)영월문화관광재단이 주관하는 올해 축제는 '멈추지 않는 물길, 꺾."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n650e30d7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260721_0003717431",
-    "title": "평창관광문화재단, 전시·공연으로 문화예술 향유 확대",
-    "summary": [
-      "[평창=뉴시스]이덕화 기자 = 강원 평창관광문화재단이 국내 작가 전시와 어린이 가족 공연을 잇따라 마련하며 지역 문화예술 향유 기회를 넓힌다.",
-      "평창관광문화재단은 28일부터 문화예술회관 2층 작은미술관에서 국내 작가 초대전을 열고 11월까지는 어린이를 위한 '2026 강원 아트박스 공연단'을 운영한다고 21일 밝혔다.",
-      "작은미술관에서는 사진가 조진섭의 '존재하지 않는 사람들'을 시작으로 엄상빈, 이제이, 어지인 작가의 전시와 국립현대미술관 미술은행."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc14aebe8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260721/134339570/1",
-    "title": "“장동혁, 박해받는 예수로 빙의…한동훈은 복당에 느긋”[황형준의 법정모독]",
-    "summary": [
-      "동아일보 정치 라이브 ＜법정모독＞- 일시: 화·목요일 오전 10~11시- 토크: 김근식 경남대 교수, 김철근 전 개혁신당 사무총장- 진행·연출: 김형민 김수은- 동아일보 유튜브 : www.youtube.com/@donga-ilbo국민의힘 장동혁 대표가 최근 서울 올림픽공원 집회에 계속 참석하는 것에 대해 “본인이 소수화되고 고립화되는 것을 정치적 박해(로 여기며) ‘예수의 심정’으로 버티는 것 같다”는 분석이 나왔다."
-    ],
-    "chips": [
+      "#부동산",
       "#정치"
     ]
   },
   {
-    "id": "n047eb14b",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "19분 전",
-    "url": "https://view.asiae.co.kr/article/2026072120145264246",
-    "title": "민경선표 AI 승부수…고양시, 'UN 글로벌 AI 허브' 유치 나섰다",
+    "id": "n386fb0b1",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "29분 전",
+    "url": "https://www.hankyung.com/article/2026072174811",
+    "title": "'서울의 밤'이 관광 콘텐츠로…외국인 \"원더풀, 야장\"",
     "summary": [
-      "경기 고양특례시(시장 민경선)가 미래 인공지능(AI) 산업의 국제 거점 확보를 위한 'UN 글로벌 AI 허브' 유치전에 본격 뛰어들었다.",
-      "민간과 행정이 힘을 합친 원팀(One-Team) 체계를 구축하고 전담 태스크포스(TF)를 가동하는 등 유치전에 속도를 내고 있다.",
-      "고양시는 지난 20일 창조혁신캠퍼스 성사에서 전문가와 시민대표 등이 참석한 가운데 'UN 글로벌 AI 허브 유치 민관 합동 간담회'를 열고 본격적인 유치 활동에 착수했다고."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "na4cb9e63",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "21분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/21/CWD7VIQBGNFXLDDJRQ3LZSH2SU/",
-    "title": "신진서, 최강 바둑 AI 카타고 꺾었다… 2점 접바둑서 1패 뒤 2연승",
-    "summary": [
-      "신진서, 최강 바둑 AI 카타고 꺾었다… 2점 접바둑서 1패 뒤 2연승."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ndef8625a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260721179400004",
-    "title": "'한동훈 게시판 막말' 주장 장예찬 무혐의…경찰 \"비방목적 없어\"",
-    "summary": [
-      "(서울=연합뉴스) 양수연 이의진 기자 = 무소속 한동훈 의원에 관한 허위사실을 유포한 혐의로 고발당한 장예찬 전 여의도연구원 부원장에 대해 경찰..."
+      "'서울의 밤'이 관광 콘텐츠로…외국인 \"원더풀, 야장\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "naa9a274f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "24분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260721/134339724/1",
-    "title": "상호교환성 확보 ‘셀트리온 트룩시마’, 美 처방 가속… 4개월 연속 점유율 1위",
+    "id": "nbc4d3227",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "29분 전",
+    "url": "https://www.hankyung.com/article/202607217311g",
+    "title": "\"연차 없이 2박3일 여행\"…18년만의 '공휴일 효과' 톡톡 [트래블톡]",
     "summary": [
-      "셀트리온 혈액암 치료제가 세계 최대 시장인 미국에서 선도적인 지위를 굳혀가고 있다.셀트리온은 ‘트룩시마(성분명 리툭시맙)’가 미국에서 4개월 연속 점유율 1위를 기록했다고 21일 밝혔다.",
-      "의약품 시장조사업체 아이큐비아(IQVIA) 집계에 따르면 트룩시마는 지난 5월 미국에서 38.6%의 점유율을 기록해 지난 2월 이후 4개월 연속 처방 1위를 유지했다.",
-      "특히 최근 점유율은 처음으로 1위를 기록한 지난 2월 대비 2.8% 끌어올리면서 오리지널 제."
+      "\"연차 없이 2박3일 여행\"…18년만의 '공휴일 효과' 톡톡 [트래블톡]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd28c95a8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/21/IQU7VCCR7BDWHODOUOIDZHGZMA/",
+    "title": "“둘째아들, 나 아닌 첫째가 죽여”.. 자백 번복 계부, 징역 13년 확정",
+    "summary": [
+      "“둘째아들, 나 아닌 첫째가 죽여”.. 자백 번복 계부, 징역 13년 확정."
     ],
     "chips": [
       "#뉴스"
@@ -648,14 +645,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
