@@ -1,6 +1,20 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-22 17:28:24
+// 마지막 업데이트: 2026-07-22 18:23:50
 window.NEWS_DB = [
+  {
+    "id": "nc1f5fa20",
+    "category": "IT",
+    "source": "서울이코노미뉴스",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hSEM0X09GMzhnVjVCMm5KeDVYZ2V6WExJdE8zblhEeU9oMGxNZW5rcndacXc2dEtyXzI5MnJnUWxucTcxUkxGSEdrZWpsTUlqRmVkNGQ5YU9FaDQ4S3pzSHl6b1NyOGo3THlQZzNR?oc=5",
+    "title": "이재용·최태원·이해진이 美 젠슨 황과 만나면...수직통합형 AI 협력 구축",
+    "summary": [
+      "이재용·최태원·이해진이 美 젠슨 황과 만나면...수직통합형 AI 협력 구축 서울이코노미뉴스."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
   {
     "id": "nb70458fd",
     "category": "IT",
@@ -20,7 +34,7 @@ window.NEWS_DB = [
     "id": "n146de188",
     "category": "IT",
     "source": "핀포인트뉴스",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LM0tsanh5Mlh2a0hEN09mZzRscE9WTGdmeHJXc19ybWQtMzBhSTV6RE9jaWEwbEdZOV9zZW1TdHRBcVBSbTNzLURwb2cxd1F3dHppQVhrUWFxeTBzaG11MTBzYTNiV1dlYzRjMTBxUWZhR0HSAXdBVV95cUxQeC1xdk9HdV9OSllhczJHd3JqMmIteVN3MEZPUWx6UEtEVkdNTU1Eb2dsOVV6X193RXpWcmFRNWFDMU9qUGk3RkJSTlVqX0N0N3FKOW56Zl9lVjNfdWN3QThyOUt4anhzcEF2TWoyejdidmY3SksyNA?oc=5",
     "title": "AI 반도체 훈풍에 삼성전자·SK하이닉스 날개짓…반도체 대표주 다시 뜬다",
     "summary": [
@@ -37,7 +51,7 @@ window.NEWS_DB = [
     "id": "ned002032",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWm0tOHI0bUNNZGRReExNOGlBRnFDQUk3c2JvcG53R3l1SjF1bjhhbS1iUDc1YmZ2ZTVvcHdqRU1Ib1lPSWZmVFJQdHNkS0NTeFg0aVNPMVZKLUo2aWR1ejNDY01MWklxSE1iM2RybHRFWDVCam56OGt4b2gyQkMwdw?oc=5",
     "title": "[MUST KNOW5]엔비디아·TSMC·SK하이닉스, AI 반도체 판이 다시 움직인다",
     "summary": [
@@ -54,7 +68,7 @@ window.NEWS_DB = [
     "id": "n0a0d373a",
     "category": "IT",
     "source": "글로벌경제신문",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZdHFWSUp4R3FBWVZGT1phdTNmU3h6Qk16a3VvS2VoYXBNRG5vWHVSSkRoVV9uUGc2WnNUUlVkTEhUaW5IREpITDhRZkZqOXdDMGNBbEoyRXB4VjJhcEpwbVk3QnBmNVRQSzVpOdIBcEFVX3lxTE9wRU9DX0djVFRnZW51SjNNVGUyMEIxUUtlSEVDQTdfYUZMQ1d4NzgyY1BCSlRMY3p0VUNoYVpvelZZeGk2UG44VVBKa0F6eTVlMVktYUYxRkZlN3FmLVZ5d1dyQWxUYnNscDJmcmxoMms?oc=5",
     "title": "엔비디아, 차세대 AI플랫폼 '베라루빈' 본격 공급 통해 \"선두 수성\"",
     "summary": [
@@ -111,20 +125,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nea00511a",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAzR21CNGU3b1V1ZThMMzI0R3VMOWtZbzBaNDQyX2hsOXRsRXdNMGVmVzBVak9SRFpzUWVvQ0M1aEFrbzd1eUE?oc=5",
-    "title": "야구, 골프와 만나다…KBO, 10개 구단 골프공 세트 선보인다",
-    "summary": [
-      "야구, 골프와 만나다…KBO, 10개 구단 골프공 세트 선보인다 v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nae5f094c",
     "category": "사회",
     "source": "아웃소싱타임스",
@@ -137,6 +137,20 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n3d165093",
+    "category": "스포츠",
+    "source": "v.daum.net",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wZUNONTdjWXZkdXJUdzRsV3hIR2dPMHlFQ1laM3hyQlFIOTNXQm51SUtWMWNZd2tPVmZjQnBnT1YyazdqeDlBWHNNUDBBU2JBaUhnSw?oc=5",
+    "title": "[MD포토] KBO 올스타전 'RE:잠실, 야구의 기억을 함께'",
+    "summary": [
+      "[MD포토] KBO 올스타전 'RE:잠실, 야구의 기억을 함께' v.daum.net."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -182,23 +196,6 @@ window.NEWS_DB = [
       "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 인베스트조선."
     ],
     "chips": [
-      "#삼성전자",
-      "#SK하이닉스",
-      "#채용"
-    ]
-  },
-  {
-    "id": "nfbd428d5",
-    "category": "IT",
-    "source": "중앙일보",
-    "time": "27일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb3ZwdHF3VERub0g0ektfdDR3X1AyTi1DcG44WUNGMEhnVHRRaFNaUVVWNmM2TGpGeXByTmk5Tnh5d3dkZTJWN3dlMVl5aDZVRUktVkxn?oc=5",
-    "title": "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다",
-    "summary": [
-      "SK하이닉스 경력 채용에 삼성전자 ‘술렁’…HBM 인재전쟁 불붙었다 중앙일보."
-    ],
-    "chips": [
-      "#반도체",
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
@@ -393,139 +390,145 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n755696ec",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/23/2026072222512638623",
-    "title": "프렌치파파, 동생 삼성 월급으로 美 유학…코피 쏟으며 버텼다",
+    "id": "n2529366a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723004000075",
+    "title": "美애리조나 공화당 경선서 '親트럼프' 부정선거론자 3명 승리",
     "summary": [
-      "'흑백요리사'로 얼굴을 알린 프렌치파파 이동준 셰프가 동생의 월급과 어머니의 퇴직연금 도움으로 미국 요리 유학을 떠났던 사연을 공개했다.",
-      "이동준은 샌프란시스코에서 무급으로 일하며 코피를 쏟고 18㎏이 빠질 만큼 고생했지만 가족들에게 진 빚 때문에 실패하고 싶지 않았다고 털어놨다.",
-      "22일 방영된 tvN '유 퀴즈 온 더 블럭' 352회에서는 프렌치파파 이동준 셰프와 일란성 쌍둥이 동생 이동하 씨가 출연해 이야기를 나눴다."
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 애리조나주(州) 프라이머리(예비선거)에서 도널드 트럼프 대통령의 부정 선거론에 동조하는 공화당 ..."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "nb7a6b950",
-    "category": "부동산",
-    "source": "연합뉴스",
+    "id": "n53ac55b7",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723002900087",
-    "title": "페루 리마 주택가서 불…어린이 등 10명 사망",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/23/MVQTIMLBHA4DIZRRMI3GCYRTMU/",
+    "title": "\"후반기 잘 풀리지 않았는데…\" 한화 에이스가 해냈다! 4연패 탈출, 깜짝 카드도 대적중",
     "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 페루 수도 리마의 한 주택에서 불이 나 미성년자 5명을 포함해 10명이 사망했다."
+      "[광주=스포츠조선 이종서 기자] 한화 이글스가 후반기 처음으로 웃었다.",
+      "한화는 22일 광주 기아챔피언스필드에서 열린 KIA 타이거즈와의 원정경기에서 7대3으로 승리했다.",
+      "한화는 4연패에서 벗어나면서 시즌 41승(3무44패) 째를 거뒀다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2dcaa80b",
-    "category": "경제",
-    "source": "연합뉴스",
+    "id": "n591586b5",
+    "category": "사회",
+    "source": "조선일보",
     "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722159351109",
-    "title": "기업 물류창고까지 때리는 러·우크라…전쟁 속 유통망도 위협(종합)",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/07/23/KJQVLGLDLFETDHF3WQIW7TFI7M/",
+    "title": "게르마늄 솥밥부터 율무 아이스크림까지… DMZ 따라 155마일 맛기행",
     "summary": [
-      "(로마·이스탄불=연합뉴스) 민경락 김동호 특파원 = 서로를 겨눈 러시아와 우크라이나의 공격이 에너지 기반 시설과 수출 보급로에 이어 민간 기업의..."
+      "게르마늄 솥밥부터 율무 아이스크림까지… DMZ 따라 155마일 맛기행."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4dcb8449",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/07/23/EZ7GOR6SFVCC5D5NIZNATCRXQ4/",
+    "title": "나는 몰랐다… 내 책이 누군가에게 ‘힘’이 될 줄은",
+    "summary": [
+      "나는 몰랐다… 내 책이 누군가에게 ‘힘’이 될 줄은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n07033590",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/national/education/2026/07/23/J4POA2645VCATACGO7UE5Z2SF4/",
+    "title": "그림·도자기 배송, ‘send’ 아닌 ‘ship’을 쓰는 이유",
+    "summary": [
+      "그림·도자기 배송, ‘send’ 아닌 ‘ship’을 쓰는 이유."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n10d79c69",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723003700079",
+    "title": "이란 협상단장 \"우리가 석유 못 팔면 아무도 못 판다\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과의 종전 협상에서 이란 협상단을 이끌었던 모하마드 바게르 갈리바프 의회 의장이 원유 수출 및 해협의 ..."
     ],
     "chips": [
       "#수출"
     ]
   },
   {
-    "id": "n5da7a7fa",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/23/MM3TGMZZMJSTIMJWMFSDKMDGME/",
-    "title": "유혜주, 둘째 낳자마자 유튜브 중단 무슨 일…\"잠시 쉬어가려 해\"[전문]",
-    "summary": [
-      "[스포츠조선 조민정 기자] '얼짱시대' 출신 인플루언서 유혜주가 유튜브 활동을 잠시 중단한다고 알리자 팬들의 걱정이 커지고 있다.",
-      "최근 영상을 통해 부친의 건강 악화를 여러 차례 전했던 만큼 응원과 기도 메시지가 이어지고 있다.",
-      "유혜주는 22일 자신이 운영하는 유튜브 채널 '리쥬라이크' 공지사항을 통해 \"가족들과 함께 서로를 돌보는 시간을 보내기 위해 리쥬."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n5b516a00",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/07/23/2026072008151385397",
-    "title": "주식토큰, 자본시장의 새로운 발견[MT시평/정구태]",
-    "summary": [
-      "SK하이닉스의 나스닥 상장은 국내 대기업의 미국 진출이라는 의미를 넘어 한국 자본시장의 구조적 한계를 보여준 사건이다.",
-      "세계 최고 수준의 HBM(고대역폭메모리) 반도체 경쟁력을 갖춘 기업이지만 주식 유통은 오랫동안 국내 시장을 중심으로 이뤄졌다.",
-      "해외 투자자는 국내 계좌 개설과 원화 환전, 제한된 거래시간과 결제 절차를 감수해야 했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n957a90e7",
+    "id": "na3614eff",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/07/23/2026072112594344948",
-    "title": "부동산토론회, 대통령은 말을 아끼고 들어야[정철근/딥포인트]",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003719494",
+    "title": "\"트럼프, 서아프리카 말리 공습 검토…알카에다 연계조직 겨냥\"",
     "summary": [
-      "노무현 정부, 기사 보고 판교 입찰 연기 30차례 대책,야당과 갈등속 대화 시도 이대통령 청년관점에서 정책 들여봐야 2005년 노무현 정부 당시 부동산 문제에 정통했던 한 신문사의 선배는 밤늦게 청와대로부터 전화를 받았다.",
-      "\"오늘 가판신문 기사를 봤는데 상의할 수 없느냐\"는 청와대 고위직의 전화였다.",
-      "이 선배가 쓴 신문의 1면톱 제목은 '판교신도시에 1만가구를 더 짓자'였다."
+      "[서울=뉴시스] 이재은 기자 = 도널드 트럼프 미국 행정부가 서아프리카 말리를 거점으로 활동하는 알카에다 연계 무장단체 이슬람과무슬림지지그룹(JNIM)을 겨냥한 군사행동을 검토하고 있는 것으로 전해졌다.",
+      "워싱턴포스트(WP)는 22일(현지 시간) 현직 및 전직 미국 관리들을 인용해 트럼프 행정부가 말리 내 JNIM을 대상으로 공습 등 군사 옵션을 검토하고 있지만, 행정부 내부에서는 군사 개입을 둘러싸고 의견이 엇갈리고 있다고 보도했다."
     ],
     "chips": [
-      "#부동산",
-      "#정책",
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nefd35fc6",
+    "id": "ncbcc3394",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723003500091",
+    "title": "'스타게이트' 주춤했던 오픈AI, 대규모 AI인프라 구축 재개",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 챗GPT 개발사 오픈AI가 한동안 주춤했던 인공지능(AI) 인프라 확장을 재개하고 있다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n21997b9b",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723002400071",
-    "title": "트럼프, 전사한 미군 귀환식 참석…\"미국인, 전쟁 반대 안해\"",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723001951108",
+    "title": "'사우디 해상 봉쇄' 후티 반군, 선박들에 무전으로 경고(종합)",
     "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 22일(현지시간) 이란 전쟁에서 전사한 미군 장병의 유해 귀환 및 운구 행사에..."
+      "(카이로·이스탄불=연합뉴스) 김상훈 김동호 특파원 = 사우디아라비아를 대상으로 홍해 봉쇄를 선언한 예멘의 친이란 반군 후티가 22일(현지시간) ..."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "ncd928187",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/07/23/GMZWIZDCMQZGGNZTGMZWMMRXMM/",
-    "title": "김정관 “對美 투자 1호, 에너지 부문 논의 중… 8~9월 발표”",
+    "id": "n1830c9e3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "53분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003718813",
+    "title": "\"외모보다 성격\"…Z세대 사이 확산하는 '데이팅다운' 뭐길래",
     "summary": [
-      "김정관 산업통상부 장관은 한·미 무역 합의에 따른 2000억달러 규모의 대미(對美) 투자 1호 프로젝트로 에너지 부문을 논의 중이라고 밝혔다.",
-      "김 장관은 22일(현지 시각) 미국 워싱턴 DC 인근 덜레스 국제공항에서 “현금 흐름이 안정적으로 나올 수 있는 프로젝트가 아무래도 더 나은 프로젝트”라며 “유리한 프로젝트가 에너지 관련 프로젝트라고 생각하고 있다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nab5479cb",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "41분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/23/GI3DIMBVHA4DCMZRHEZTQOBVGI/",
-    "title": "\"위대한 자의 추락은 평범한 자들의 기쁨\" 아르헨 DF, 소신발언...\"유럽 언론의 조롱 저격\" 강렬 메시지 남겼다",
-    "summary": [
-      "[OSEN=고성환 기자] 리산드로 마르티네스(28, 맨체스터 유나이티드)가 '챔피언' 스페인에 축하를 전하면서도 의미심장한 한마디를 남겼다.'디아리오 올레'는 22일(이하 한국시간) \"아르헨티나 대표팀 수비수 마르티네스가 소셜 미디어를 통해 월드컵 결승전에서 스칼로니호의 패배를 기다렸던 이들을 향해 강렬한 메시지를 남겼다.",
-      "그는 '위대한 자의 추락은 평범한."
+      "[서울=뉴시스]김혜경 기자, 강건우 인턴기자 = Z세대 여성들 사이에서 외모보다 성격과 관계의 안정성을 중시하는 새로운 연애 경향이 주목받고 있다.",
+      "이른바 '데이팅다운(dating down)'으로 불리는 현상이다.",
+      "지난 17일(현지 시간) 영국 데일리메일은 자신보다 외모적으로 덜 매력적인 상대를 선택하는 새로운 연애 경향을 소개하며, 지난해 사회관계망서비스(SNS)에서 화제가 된 신조어 '슈렉킹(shrekking)'을 함께 언급했다."
     ],
     "chips": [
       "#뉴스"
@@ -535,7 +538,7 @@ window.NEWS_DB = [
     "id": "nd901b960",
     "category": "사회",
     "source": "뉴시스",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260723_0003719490",
     "title": "이란 \"美, 교량·발전소 공격 땐 중동 에너지시설 보복\"",
     "summary": [
@@ -548,38 +551,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7e4f2dd5",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "54분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/23/2026072301321391319",
-    "title": "[한번에쓱]'강력한 슈팅 시도하는' 정승원",
-    "summary": [
-      "FC서울 정승원이 22일 서울월드컵경기장에서 열린 '하나은행 K리그 2026' FC서울과 포항스틸러스 경기 전반 강력한 슈팅을 시도하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7a41acb2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "55분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723002200082",
-    "title": "포르쉐, 5천명 추가 감원 예고",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 독일 스포츠카업체 포르쉐가 일자리를 기존 계획보다 5천개 더 줄이는 방안을 추진 중이라고 경제지 한델스블라..."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
     "id": "n821c6ef9",
     "category": "사회",
     "source": "뉴시스",
-    "time": "58분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260722_0003717972",
     "title": "\"대리기사 신호위반 사고로 가족 다쳤는데\"…4900만원 신차까지 전손 위기",
     "summary": [
@@ -620,35 +595,48 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf80a6335",
+    "id": "n314cbf57",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003719488",
-    "title": "김정관 \"美와 대미투자 막바지 협의…에너지 중심 논의\"(종합)",
+    "source": "동아일보",
+    "time": "2시간 전",
+    "url": "https://www.donga.com/news/K-TECH Global Leaders/article/all/20260723/134348430/1",
+    "title": "베일 벗은 갤럭시 폴더블 3종… 삼성전자, 울트라부터 워치·젠몬 아이웨어까지 ‘언팩’",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 김정관 산업통상자원부 장관이 하워드 러트닉 미국 상무장관과 만남을 앞두고 한국의 대미투자 프로젝트 선정 관련 협의가 \"지금 상황은 거의 막바지라고 생각하고 있다\"고 22일(현지 시간) 밝혔다.",
-      "김 장관은 이날 미국 워싱턴DC 인근 덜레스국제공항으로 입국하며 대미투자 협의 단계에 대한 특파원들 질문에 \"굉장히 오랫동안 한국에 있을때도 계속 해왔던 상황\"이라며 이같이 말했다.",
-      "이어 \"물론 딜(거래)이라는게 마지막."
+      "삼성전자가 완성도를 한층 높인 폴더블 스마트폰 라인업을 선보였다.",
+      "이와 함께 역대 가장 높은 퍼포먼스를 담은 갤럭시 워치 시리즈와 갤럭시 기기를 통해 축적해 온 하드웨어 기술력을 아이웨어 형태로 확장한 인텔리전트 아이웨어(Intelligent Eyewear)도 공개했다.삼성전자는 22일(현지시간) 영국 런던 올드 빌링스게이트(Old Billingsgate)에서 ‘갤럭시 언팩 2026’ 행사를 열고 새로운 갤럭시 Z 시리즈와 갤럭시 워치 신제품,."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n7884414d",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/202607230428i",
+    "title": "백악관,\"문샷 K3모델,앤스로픽의 페이블 도용해 개발\"",
+    "summary": [
+      "백악관,\"문샷 K3모델,앤스로픽의 페이블 도용해 개발\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8e5d6f2f",
+    "id": "n5a25e20f",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003719250",
-    "title": "\"비오니 허리가 더 쑤시네\"…참고 버티지 마세요",
+    "source": "동아일보",
+    "time": "2시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260722/134347330/2",
+    "title": "가장 얇고 가벼운 폴더블, 화면비율 4:3 차별화",
     "summary": [
-      "[서울=뉴시스] 류난영 기자 = 40대 직장인 김모씨는 최근 몇 달 사이 허리 통증이 눈에 띄게 악화됐다.",
-      "장마와 폭염으로 외출이 줄고 실내에서 앉아 있는 시간이 길어지면서 허리 부담이 커진 것이다.",
-      "냉방이 강한 실내에서 장시간 같은 자세를 유지하다 보니 허리 주변 근육이 쉽게 경직되고 통증도 이전보다 심해졌다."
+      "삼성전자가 여권 크기의 접는 폰을 새롭게 선보이며 폴더블폰 사업 전선을 확장했다.",
+      "영상, 사진, e북(전자책) 등 콘텐츠 감상에 특화된 폴더블폰이다.",
+      "차별화된 화면 비율과 전 세계 폴더블폰 중 가장 가볍다는 강점을 앞세워 하반기(7∼12월) 스마트폰 시장에 승부수를 띄웠다."
     ],
     "chips": [
-      "#의료"
+      "#삼성전자"
     ]
   }
 ];
@@ -658,20 +646,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "삼성전자",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "뉴스",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "삼성전자",
+    "mentions": "1940건",
+    "trend": "+195%"
   }
 ];
 // ====AUTO-GENERATED-END====
