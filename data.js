@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-22 13:31:08
+// 마지막 업데이트: 2026-07-22 14:38:36
 window.NEWS_DB = [
   {
     "id": "nb70458fd",
     "category": "IT",
     "source": "beSUCCESS",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqVDZDV2FJUFRlZmJhMG44ZTBYa1M0LTZCUkEzbG1hRFFmR2xCU0J5YWJsVE14eXdGcWlMVWtHVU5QbDZteWc?oc=5",
     "title": "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n146de188",
     "category": "IT",
     "source": "핀포인트뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LM0tsanh5Mlh2a0hEN09mZzRscE9WTGdmeHJXc19ybWQtMzBhSTV6RE9jaWEwbEdZOV9zZW1TdHRBcVBSbTNzLURwb2cxd1F3dHppQVhrUWFxeTBzaG11MTBzYTNiV1dlYzRjMTBxUWZhR0HSAXdBVV95cUxQeC1xdk9HdV9OSllhczJHd3JqMmIteVN3MEZPUWx6UEtEVkdNTU1Eb2dsOVV6X193RXpWcmFRNWFDMU9qUGk3RkJSTlVqX0N0N3FKOW56Zl9lVjNfdWN3QThyOUt4anhzcEF2TWoyejdidmY3SksyNA?oc=5",
     "title": "AI 반도체 훈풍에 삼성전자·SK하이닉스 날개짓…반도체 대표주 다시 뜬다",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "ned002032",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWm0tOHI0bUNNZGRReExNOGlBRnFDQUk3c2JvcG53R3l1SjF1bjhhbS1iUDc1YmZ2ZTVvcHdqRU1Ib1lPSWZmVFJQdHNkS0NTeFg0aVNPMVZKLUo2aWR1ejNDY01MWklxSE1iM2RybHRFWDVCam56OGt4b2gyQkMwdw?oc=5",
     "title": "[MUST KNOW5]엔비디아·TSMC·SK하이닉스, AI 반도체 판이 다시 움직인다",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "n0a0d373a",
     "category": "IT",
     "source": "글로벌경제신문",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZdHFWSUp4R3FBWVZGT1phdTNmU3h6Qk16a3VvS2VoYXBNRG5vWHVSSkRoVV9uUGc2WnNUUlVkTEhUaW5IREpITDhRZkZqOXdDMGNBbEoyRXB4VjJhcEpwbVk3QnBmNVRQSzVpOdIBcEFVX3lxTE9wRU9DX0djVFRnZW51SjNNVGUyMEIxUUtlSEVDQTdfYUZMQ1d4NzgyY1BCSlRMY3p0VUNoYVpvelZZeGk2UG44VVBKa0F6eTVlMVktYUYxRkZlN3FmLVZ5d1dyQWxUYnNscDJmcmxoMms?oc=5",
     "title": "엔비디아, 차세대 AI플랫폼 '베라루빈' 본격 공급 통해 \"선두 수성\"",
     "summary": [
@@ -69,7 +69,7 @@ window.NEWS_DB = [
     "id": "nfaa9ec62",
     "category": "IT",
     "source": "조선일보",
-    "time": "21시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2FKQTB1dmFGYmhZbFpFZE9lT2I2T0YySGNTZEN6WE5MWXczLUZwd3RQT0RSVWlKamxZVl82V3cyZDBQSkxjNzZpWWRHTXJLSzdma0xzSmsyMV8tZU5iUTN1QnUzT3dmd3FoVjlUYXVoWTd0UXhqb3JHNE9jLTVKNnZobw?oc=5",
     "title": "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입",
     "summary": [
@@ -122,20 +122,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n4544ccfc",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NcFRKZElNclJDR05CSEJMbUROcy1yZUVSejFNZlNOZGw4dTNtbXE0SUJUdUdUQlpjZUc5cmtIQmJWVlhzY1FHRDR0bHlGWUF0Z3NOeEpDUFJjcjREUG5FZEpNdVM0azMtSGFFYQ?oc=5",
-    "title": "K방산 이끌 국가대표 스타트업 50곳 뽑는다",
-    "summary": [
-      "K방산 이끌 국가대표 스타트업 50곳 뽑는다 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -292,14 +278,29 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "112일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "84일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n01f4c085",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "121일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
+    "summary": [
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
     ],
     "chips": [
       "#KBO"
@@ -390,260 +391,269 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0aeee224",
-    "category": "사회",
+    "id": "n8ef0d4fd",
+    "category": "IT",
     "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/22/2026072222201786654",
-    "title": "트럼프 \"이란, 호르무스해협 공격시 다리·발전소 하나씩 폭격할 것\"",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/22/2026072223330589170",
+    "title": "젠틀몬스터, AI 아이웨어 새 디자인 공개…웨어러블 시장 공략",
     "summary": [
-      "도널드 트럼프 미국 대통령은 이란이 호르무즈 해협에서 선박을 공격할 경우 테헤란 핵심 기반시설을 타격하겠다고 경고했다.",
-      "트럼프 대통령은 22일(현지시간) 사회관계망서비스(SNS) 트루스소셜에 \"이 시점부터 이란이 미사일, 로켓, 드론 또는 기타 어떤 장치나 무기를 사용하든 호르무즈 해협에서 선박을 공격할 때마다 미국은 테헤란 수도 내부나 인근을 포함해 다리, 발전소 하나를 폭격해 파괴할 것\"이라고 밝혔다.",
-      "호르무즈 해협 통제권을 두고 미국과 이."
+      "갤럭시 언팩서 차세대 컬렉션 선봬, 통번역·촬영 등 핸즈프리 AI 기능 지원 글로벌 아이웨어 브랜드 젠틀몬스터가 영국에서 열린 '갤럭시 언팩 2026'에서 구글, 삼성전자와 협업한 차세대 인텔리전트 아이웨어 컬렉션의 두 번째 디자인을 공개했다.",
+      "패션 감성과 생성형 AI 기술을 결합한 웨어러블 디바이스로, 올가을 정식 출시를 앞두고 있다.",
+      "새롭게 공개된 제품은 젠틀몬스터 특유의 미니멀한 디자인에 오디오와 카메라, 마이크, 구글 생성형 AI '제미."
     ],
     "chips": [
-      "#정치"
+      "#AI",
+      "#삼성전자"
     ]
   },
   {
-    "id": "nd179992c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722180651071",
-    "title": "트럼프 \"이란, 호르무즈 선박 공격땐 테헤란 교량·발전소 폭격\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 22일(현지시간) 이란이 호르무즈 해협을 지나는 선박을 공격하면 그에 상응해 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n85432966",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/22/2026072217553112529",
-    "title": "'흔들림 없는 김기동호, 10점 차 선두 질주' 김기동 감독 \"서울은 달라졌다! 차이 계속 유지할 것\" [상암 현장]",
-    "summary": [
-      "김기동(55) FC서울 감독이 선두 질주 소감을 전했다.",
-      "서울은 22일 오후 7시30분 서울월드컵경기장에서 열린 포항과의 '하나은행 K리그1 2026' 19라운드 홈 경기에서 정승원의 멀티골 활약에 힘입어 3-1로 승리했다.",
-      "파죽지세 6경기 무패(5승1무) 행진을 이어간 서울은 승점 42(13승3무3패)로 선두를 질주했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1938d113",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/22/ME2TEOBRMNRDGMZXGUZDCMTDGE/",
-    "title": "'음주운전 2회' 이루, 4년 만 복귀에 의미심장 글 \"넘어졌으면 쉬었다 가는 거래\"",
-    "summary": [
-      "[스포츠조선 조민정 기자] 가수 겸 배우 이루가 약 4년 만에 방송과 무대에 복귀한 뒤 의미를 담은 글을 남겨 눈길을 끌었다.",
-      "이루는 22일 자신의 SNS에 \"넘어졌으면 일어나는 게 아니라 쉬었다 가는 거래\"라는 짧은 문구를 게재하며 근황을 전했다.",
-      "앞서 그는 지난 8일 공연 영상을 공개하며 복귀 무대에 오른 소감을 밝힌 바 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1f3857e9",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722181400007",
-    "title": "'선두 질주' FC서울 김기동 감독 \"2위와 승점 10차 유지가 목표\"",
-    "summary": [
-      "(서울=연합뉴스) 이영호 기자 = \"선수들에게 위닝 멘털리티가 생겼습니다!\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n75993014",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/22/2026072222043786317",
-    "title": "삼성전 7연패 끊은 키움 사령탑, 후반기 4승 1패에 대만족! \"매우 고무적→알칸타라 팔꿈치 이상 없길\"",
-    "summary": [
-      "키움 히어로즈가 삼성 라이온즈전 7연패 잔혹사를 마침내 끊어낸 가운데, 설종진(53) 감독 역시 선수들과 팬들에게 감사 인사를 남겼다.",
-      "또한 외국인 1선발 라울 알칸타라(34)를 향한 메시지까지 남겼다.",
-      "키움은 22일 고척스카이돔에서 열린 '2026 신한 SOL Bank KBO리그' 삼성과의 홈경기에서 3-1로 승리하며 후반기 4승 1패(1무) 상승세를 이어갔다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n6907050b",
+    "id": "nd83ad8b9",
     "category": "사회",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/22/MNTGEMRSMQZGCMZSGAZDOYRTHE/",
-    "title": "유노윤호=효리수 천적, 기강 잡는다..“수면 2시간” 하루 일과표 공개 (가짜 김효연)",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/22/MZZOTVXQVFG5TCKRX6UIZGHN34/",
+    "title": "[윤주의 이제는 국가유산] [58] ‘탐라순력도’에 담긴 제주의 동굴",
     "summary": [
-      "영상 시청 후 작성된 리뷰입니다.",
-      "[OSEN=박하영 기자] 유노윤호가 효리수의 기강을 잡았다.",
-      "22일 유튜브 채널 ‘효연의 레벨업’의 콘텐츠 ‘가짜 김효연’에는 ‘무슨 신인이 전담팀까지 있냐고? 효리수 데뷔 대충 할 순 없잖아’라는 제목의 영상이 게재됐다.이날 효리수의 데뷔 전담 TF 팀으로 유노윤호, 딘딘, 존박, 송하영, 채령, 나폴리맛피아가 등장했다."
+      "[윤주의 이제는 국가유산] [58] ‘탐라순력도’에 담긴 제주의 동굴."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5d5fb336",
-    "category": "경제",
+    "id": "n663b8d89",
+    "category": "사회",
     "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/22/2026072222163594643",
-    "title": "[속보]트럼프 \"이란, 선박 공격하면 테헤란 다리·발전소 파괴할 것\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n72cfa98b",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003719431",
-    "title": "'2연패' 포항 박태하 감독 \"부상 많은 건 변명…패배 받아들여야\"",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/22/2026072223294543052",
+    "title": "와이어트, 박보검·션과 폭염 취약계층에 닥터포헤어 1천개 기부",
     "summary": [
-      "[서울=뉴시스] 하근수 기자 = 프로축구 K리그1 포항 스틸러스의 박태하 감독이 FC서울에 무릎 꿇은 뒤 부상으로 인한 어려움을 토로했다.",
-      "포항은 22일 서울월드컵경기장에서 열린 서울과의 하나은행 K리그1 2026 19라운드 원정 경기에서 1-3으로 졌다.",
-      "클리말라에게 선제골, 정승원에게 멀티골을 헌납한 포항(승점 28)은 3위로 도약할 기회를 놓치고 5위에 그쳤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n970cae30",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003719460",
-    "title": "[속보]트럼프 \"이란 선박 공격 때마다 다리나 발전소 하나 파괴\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n145a1f78",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/football/2026/07/22/GVSTQNBVMI4DSZJSGU3GKOBSGU/",
-    "title": "'득점 2위·도움 1위' 마테우스...\"수비가담? 팀이 먼저, 감독님 말씀이 먼저\" [현장인터뷰]",
-    "summary": [
-      "[OSEN=부천, 정승우 기자] \"팀이 먼저고, 감독님 말씀이 먼저다.\"안양은 22일 부천종합운동장에서 열린 부천FC1995와 하나은행 K리그1 2026 19라운드에서 3-2로 승리했다.승점 27점(6승 9무 4패)을 기록한 안양은 리그 6위로 올라섰다.안양은 전반 19분 엘쿠라노의 연결을 받은 최건주의 선제골로 앞서갔다.",
-      "전반 41분 가브리엘에게 동점골을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7a102287",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003718806",
-    "title": "'1500만 분의 1' 확률…호주 여성, 일란성 네쌍둥이 딸 출산",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 호주의 한 여성이 일란성 네쌍둥이 딸을 출산했다.",
-      "의료진은 이처럼 자연적으로 임신한 사례가 약 1500만 분의 1 확률로 발생하는 극히 희귀한 경우라며 호주에서는 처음일 가능성이 있다고 밝혔다.",
-      "22일(현지 시간) 사우스차이나모닝포스트(SCMP)에 따르면 이미 네 명의 자녀를 둔 34세 여성 제니타르 사우 나아모아나는 지난 14일 퀸즐랜드주 로열 브리즈번 여성병원에서 제왕절개 수술로 네쌍둥이를 출산했다."
+      "홀트아동복지회·야나에 전달, 기부 러닝·댓글 캠페인으로 나눔 확대 와이어트(닥터포헤어, 대표 브랜드)가 자사 모델인 배우 박보검과 가수 션과 함께 여름철 폭염에 취약한 한부모가족과 자립준비청년을 위해 닥터포헤어 제품 1,000개를 홀트아동복지회와 사단법인 야나에 기부했다.",
+      "이번 나눔은 폭염으로 건강 관리에 어려움을 겪는 취약계층의 건강한 여름나기를 지원하기 위해 마련됐다.",
+      "와이어트는 50만 명 이상의 구독자를 보유한 션의 유튜브 채널 '션과 함."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n83e8725e",
+    "id": "ne221c574",
     "category": "사회",
     "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260722/134347963/1",
-    "title": "7호선 청라연장선 前책임자 숨진채 발견…‘개통 지연’ 관련 가능성",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260722/134347646/2",
+    "title": "[사설]대공황기 악법까지 꺼내든 트럼프… 다시 도는 美 ‘관세시계’",
     "summary": [
-      "개통 지연 문제가 불거진 서울지하철 7호선 청라연장선의 업무 책임자가 숨진 채 발견됐다.22일 인천 연수경찰서에 따르면 이날 오후 7시경 인천시 도시철도건설본부의 전직 간부가 자택에서 숨진 채 발견됐다.숨진 간부는 지난해 인천시 도시철도건설본부에서 서울지하철 7호선 청라연장선 업무를 이끌어 온 것으로 알려졌다.앞서 지난달 17일 박찬대 인천시장직 인수위원회는 시 도시철도본부가 추진 중인 청라연장사업과 관련해 유정복 전 시정부에서 공정 지연을 은."
+      "도널드 트럼프 미국 대통령이 96년간 잠자던 대공황 시대의 관세법까지 꺼내 이웃 나라 캐나다에 50%의 보복 관세를 부과했다.",
+      "트럼프 행정부는 24일 만료되는 10%의 ‘글로벌 관세’를 대체할 후속 관세도 준비하고 있다.",
+      "중동전쟁으로 잠시 멈췄던 트럼프의 ‘관세 시계’가 11월 미 중간선거를 100여 일 앞두고 다시 돌기 시작했다."
     ],
     "chips": [
-      "#뉴스"
+      "#수출",
+      "#정치"
     ]
   },
   {
-    "id": "n349de208",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260722/134347972/1",
-    "title": "FT “삼성전자, 佛 AI스타트업 미스트랄에 1.7조원 투자 논의”",
-    "summary": [
-      "삼성전자가 프랑스 인공지능(AI) 스타트업 미스트랄에 최대 10억 유로(약 1조6900억 원) 규모의 투자를 논의 중인 것으로 알려졌다.",
-      "22일(현지 시간) 파이낸셜타임스(FT)에 따르면 삼성전자는 현재 진행 중인 미스트랄의 신규 투자유치 라운드에 참여하는 방안을 협의하고 있다.",
-      "FT는 삼성전자가 과거 벤처 투자 부문을 통해 미스트랄에 투자한 데 이어, 이번 라운드에서는 약 10억 유로를 신규 투자할 가능성이 있다고 전했다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n87b3eeb4",
+    "id": "n5dbde47e",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722180300007",
-    "title": "프로야구 한화, KIA 꺾고 4연패 탈출…NC 제치고 6위로(종합)",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/22/MYYWKNBRGU4TMYZZGRRDKMDCGM/",
+    "title": "올러 울린 심우준 리드오프 기용 대적중....후반기 첫 승 김경문 \"잘 풀리지 않았는데 연패 끊어 기쁘다\" [오!쎈 광주]",
     "summary": [
-      "(서울·부산=연합뉴스) 김경윤 이대호 기자 = 프로야구 한화 이글스가 심우준의 활약을 앞세워 KIA 타이거즈를 꺾고 4연패 사슬을 끊었다."
+      "[OSEN=광주, 이선호 기자] \"연패 끊어 기쁘다\".한화 이글스가 후반기 첫 승을 따내며 4연패에서 탈출했다.",
+      "22일 광주-기아 챔피언스필드에서 열린 2026프로야구 KIA 타이거즈와의 팀간 11차전을 7-3으로 승리했다.",
+      "후반기 5경기 1무4패 무승의 터널을 빠져나오는데 성공했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nf3ae1c2c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260722/134345033/1",
-    "title": "檢, 장윤기 분리 수사 지시한 국수본 강력계장 등 조사",
+    "id": "n0a43616a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/22/2026072223282696830",
+    "title": "모엣 & 샹동, 문가영과 여름 라이프스타일 캠페인 성료",
     "summary": [
-      "여고생 살해범 장윤기에 대한 부실 수사 의혹과 관련해 검찰과 경찰이 22일 나란히 경찰청 국가수사본부 간부들을 불러 조사했다.",
-      "전날 검경이 국수본을 동시에 압수수색한 데 이어 경찰 지휘부가 사건 축소에 관여했는지 수사에 속도를 내는 모양새다.",
-      "한편 장윤기 사건을 수사했던 광산서 수사팀은 장윤기를 일반 살인 혐의로 송치하면서 검찰에 “추가 수사로 강간 살인 혐의를 적용해 달라”는 취지의 보고서를 보낸 것으로 파악됐다.광주지검은 22일 국수본 최모."
+      "생트로페 감성 담은 서머 이벤트 개최, 브랜드 철학과 샴페인 문화 제안 샴페인 하우스 모엣 & 샹동이 지난 8일 서울 한남동 더루프에서 하우스 앰배서더 배우 문가영과 함께 '모엣 & 샹동 서머 이벤트'를 열고 브랜드가 제안하는 여름 라이프스타일과 샴페인 문화를 선보였다.",
+      "행사장은 프랑스 남부 생트로페의 여유로운 테라스를 연상시키는 공간으로 꾸며져 방문객들에게 프렌치 리비에라의 감성을 전달했다.",
+      "문가영은 참석자들과 샴페인 토스트를 함께하며 브랜드."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n445beb5c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722099752084",
-    "title": "루비오, 마닐라서 왕이와 회담…\"시진핑 9월 방미 많이 협의\"(종합2보)",
+    "id": "n06018659",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/22/ME4DCZDFG5QWCNLCHEZDMYJVMQ/",
+    "title": "4연패 끝. 이숭용 SSG 감독 \"팬분들께 마음이 무거웠다\" [부산 현장]",
     "summary": [
-      "(하노이=연합뉴스) 박진형 특파원 = 마코 루비오 미국 국무장관이 22일(현지시간) 필리핀 마닐라에서 왕이 중국공산당 중앙외사판공실 주임(외교부..."
+      "[부산=스포츠조선 한동훈 기자] SSG 랜더스가 4연패에서 탈출했다.",
+      "SSG는 22일 부산 사직구장에서 열린 롯데 자이언츠와 경기에서 7대3으로 승리했다.",
+      "선발투수 아빌라가 6이닝 3실점 시즌 2승을 신고했다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n273b9c47",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/22/2026072223255936635",
+    "title": "내셔널지오그래픽 어패럴, 냉감 스니커즈로 여름 기능성 시장 겨냥",
+    "summary": [
+      "듀라론 적용 풋웨어 확대, 스니커즈부터 샌들까지 쾌적한 착화감 강화 더네이쳐홀딩스(대표이사 박영준)가 전개하는 내셔널지오그래픽 어패럴이 냉감 소재 '듀라론(DURARON)'을 적용한 슈즈 라인업을 확대하며 여름철 기능성 풋웨어 시장 공략에 나섰다.",
+      "의류와 침구에 주로 사용되던 냉감 소재를 신발 안감에 적용해 무더운 날씨에도 시원하고 쾌적한 착화감을 제공하는 것이 특징이다.",
+      "듀라론은 피부에 닿는 순간 시원한 촉감을 전달하는 기능성 소재다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n477dd0aa",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260722/134347650/2",
+    "title": "[사설]오세훈 1심 당선무효형…",
+    "summary": [
+      "오세훈 서울시장이 정치 브로커 명태균 씨에게 여론조사를 의뢰하고 자신의 후원자에게 그 비용을 대납하도록 했다는 1심 법원의 판결이 나왔다.",
+      "재판부는 오 시장이 2021년 서울시장 보궐선거를 앞두고 5번에 걸쳐 명 씨의 여론조사 결과를 받아보고, 후원자 김한정 씨가 그 대가로 명 씨에게 2100만 원을 줬다며 오 시장에게 벌금 1000만 원을 선고했다.",
+      "그러면서 “죄질이 좋지 않아 공직 자격 상실형이 불가피하다”고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0946c115",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/22/MYZDAMLBHA2DQNBWGM2TSYRTGE/",
+    "title": "2경기 2승 SSG 아빌라 \"너무 기쁘다\" [부산 현장]",
+    "summary": [
+      "[부산=스포츠조선 한동훈 기자] SSG 새 외국인투수 아빌라가 2경기에서 2승을 수확했다.",
+      "아빌라는 22일 부산 사직구장에서 열린 롯데전 선발 등판, 6이닝 3실점을 기록했다.",
+      "SSG는 7대3으로 승리하며 4연패에서 탈출했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf42701b0",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026072223195821996",
+    "title": "경남도의회 교육위 \"지방교육재정교부금 개편 멈춰라\"",
+    "summary": [
+      "기획예산처와 교육부가 내국세 총액의 20.79％를 지방교육재정교부금 재원으로 산정하는 현행 방식을 폐지하는 움직임을 보이자 경남도의회 교육위원회가 즉각 중단을 촉구했다.",
+      "도의회 교육위는 22일 도의회 브리핑룸에서 기자회견을 열고 \"지역교육을 외면하는 지방교육재정 개편을 즉각 중단하라\"고 외쳤다.",
+      "이들은 \"지방교육재정교부금은 단순한 재원 분배 제도가 아니라 모든 학생에게 동등한 교육 기회를 보장하고 지역 간 교."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nbeb6f35d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722184800527",
+    "title": "경기 고양에 호우주의보…양주 등 4곳 호우주의보 유지",
+    "summary": [
+      "(의정부=연합뉴스) 기상청은 22일 오후 11시 20분을 기해 고양에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n944765b8",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722184700072",
+    "title": "AMD, 엔트로픽에 최대 7조원대 투자…자사 AI칩 구매지원",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 반도체 칩 업체 AMD가 인공지능(AI) 모델 클로드 개발사 앤트로픽에 최대 7조원대 자금을 투자하고, 앤트..."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nc12e56e3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260722/134347648/2",
+    "title": "[사설]수십 년 반복된 ‘지역·필수의료 대책’… 왜 현장은 더 나빠지나",
+    "summary": [
+      "정부가 22일 지방 국립대병원을 육성하고 필수의료와 지역의료 보상을 강화하는 ‘지역·필수·공공의료 강화 추진 전략’을 발표했다.",
+      "지역 국립대병원을 수도권의 ‘빅5’ 수준으로 키우고, 연간 1조6000억 원 규모의 지역필수의료 특별회계와 지역수가를 신설하며, 의료취약지역에 동네 의원과 보건소를 합친 ‘공공보건의원’을 도입한다는 내용이다.",
+      "2000년대 초반 의사들의 필수과목 기피로 시작된 필수의료 위기는 악화 일로를 내달려온 것이 사실이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n9df73e67",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722184500081",
+    "title": "프랑스 덮친 6월 폭염에 5천700명 초과 사망…고령층이 65％",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 지난달 프랑스를 덮친 폭염 기간에 5천700명 넘는 초과 사망자가 발생한 것으로 잠정 집계됐다고 AFP 통신..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf2be80ec",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722183700504",
+    "title": "中 겨냥 '대만해협·ICBM' 직접 거론한 美…韓日은 우회 비판만",
+    "summary": [
+      "(마닐라·서울=연합뉴스) 민선희 김지헌 기자 = 한미일 외교장관이 2주 만에 다시 만나 '단합된 메시지 발신'을 강조했지만, 중국과 북한에 대한..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfcbb0a4d",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260722/134347638/2",
+    "title": "[송평인 칼럼]부동산 탐욕 묶으려다 푼 장기보유공제",
+    "summary": [
+      "이재명 대통령은 1998년 3억6600만 원에 산 분당의 아파트를 29억 원에 팔아 25억3400만의 양도차익을 봤다.",
+      "장기보유공제를 최대치인 80%로 받으면 5억 원 정도에 대해서만 양도소득세를 내게 되는데 그 액수는 2억 원이다.",
+      "얼마 전 한성숙 총리는 20년간 보유한 서울 강남의 아파트를 52억 원에 팔아 세금까지 다 내고도 27억 원이 넘는 돈을 손에 쥐었다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치"
     ]
   }
 ];
@@ -652,19 +662,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
+    "tag": "AI",
     "mentions": "2330건",
     "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "삼성전자",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
+    "tag": "뉴스",
     "mentions": "1810건",
     "trend": "+175%"
   }
