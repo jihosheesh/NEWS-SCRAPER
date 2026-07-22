@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-22 09:47:16
+// 마지막 업데이트: 2026-07-22 10:42:06
 window.NEWS_DB = [
   {
     "id": "nc1f5fa20",
     "category": "IT",
     "source": "서울이코노미뉴스",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hSEM0X09GMzhnVjVCMm5KeDVYZ2V6WExJdE8zblhEeU9oMGxNZW5rcndacXc2dEtyXzI5MnJnUWxucTcxUkxGSEdrZWpsTUlqRmVkNGQ5YU9FaDQ4S3pzSHl6b1NyOGo3THlQZzNR?oc=5",
     "title": "이재용·최태원·이해진이 美 젠슨 황과 만나면...수직통합형 AI 협력 구축",
     "summary": [
@@ -16,25 +16,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1bed3914",
-    "category": "IT",
-    "source": "네이트",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSS0ZuTnJxd2ZQbzFqZmlTeFdxRGVkVEd4V1RlUGpzQVNOWFhZdk0wdVpZRHlsWllzZVcta3ExSExyTzBMNHhMbVEyc0xZZURWeUdmb3QtYVNLWllVSjU5UkstdnZBZXpHbEJFNkhXWi1VcE9iZHkzWQ?oc=5",
-    "title": "이재용·최태원·이해진, 美서 젠슨 황과 회동…HBM·AI 동맹 넓힌다",
-    "summary": [
-      "이재용·최태원·이해진, 美서 젠슨 황과 회동…HBM·AI 동맹 넓힌다 네이트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
     "id": "nb70458fd",
     "category": "IT",
     "source": "beSUCCESS",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqVDZDV2FJUFRlZmJhMG44ZTBYa1M0LTZCUkEzbG1hRFFmR2xCU0J5YWJsVE14eXdGcWlMVWtHVU5QbDZteWc?oc=5",
     "title": "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최",
     "summary": [
@@ -46,25 +31,44 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd31f8c19",
+    "id": "n146de188",
     "category": "IT",
-    "source": "dailycar.co.kr",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QbkkxMVRMRjVLUUJmc0QwUHlDTDFzaUtBTUwtOGpsY2ViNzBDbUlfWXJyTWNuOU1xSTVmeVRXSEJvWG9nLVdtWmtjR0RMTVlCWkpVQi1WeFNRUWZ0YWFEVnBYU3BoaEtVM3hQZ0hNMEI5aGVFd3c?oc=5",
-    "title": "“엔비디아 손절인가”..애플, AI 서버칩 직접 만든다!",
+    "source": "핀포인트뉴스",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LM0tsanh5Mlh2a0hEN09mZzRscE9WTGdmeHJXc19ybWQtMzBhSTV6RE9jaWEwbEdZOV9zZW1TdHRBcVBSbTNzLURwb2cxd1F3dHppQVhrUWFxeTBzaG11MTBzYTNiV1dlYzRjMTBxUWZhR0HSAXdBVV95cUxQeC1xdk9HdV9OSllhczJHd3JqMmIteVN3MEZPUWx6UEtEVkdNTU1Eb2dsOVV6X193RXpWcmFRNWFDMU9qUGk3RkJSTlVqX0N0N3FKOW56Zl9lVjNfdWN3QThyOUt4anhzcEF2TWoyejdidmY3SksyNA?oc=5",
+    "title": "AI 반도체 훈풍에 삼성전자·SK하이닉스 날개짓…반도체 대표주 다시 뜬다",
     "summary": [
-      "“엔비디아 손절인가”..애플, AI 서버칩 직접 만든다! dailycar.co.kr."
+      "AI 반도체 훈풍에 삼성전자·SK하이닉스 날개짓…반도체 대표주 다시 뜬다 핀포인트뉴스."
     ],
     "chips": [
       "#AI",
-      "#엔비디아"
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "ned002032",
+    "category": "IT",
+    "source": "edaily.co.kr",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWm0tOHI0bUNNZGRReExNOGlBRnFDQUk3c2JvcG53R3l1SjF1bjhhbS1iUDc1YmZ2ZTVvcHdqRU1Ib1lPSWZmVFJQdHNkS0NTeFg0aVNPMVZKLUo2aWR1ejNDY01MWklxSE1iM2RybHRFWDVCam56OGt4b2gyQkMwdw?oc=5",
+    "title": "[MUST KNOW5]엔비디아·TSMC·SK하이닉스, AI 반도체 판이 다시 움직인다",
+    "summary": [
+      "[MUST KNOW5]엔비디아·TSMC·SK하이닉스, AI 반도체 판이 다시 움직인다 edaily.co.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#SK하이닉스"
     ]
   },
   {
     "id": "n0a0d373a",
     "category": "IT",
     "source": "글로벌경제신문",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZdHFWSUp4R3FBWVZGT1phdTNmU3h6Qk16a3VvS2VoYXBNRG5vWHVSSkRoVV9uUGc2WnNUUlVkTEhUaW5IREpITDhRZkZqOXdDMGNBbEoyRXB4VjJhcEpwbVk3QnBmNVRQSzVpOdIBcEFVX3lxTE9wRU9DX0djVFRnZW51SjNNVGUyMEIxUUtlSEVDQTdfYUZMQ1d4NzgyY1BCSlRMY3p0VUNoYVpvelZZeGk2UG44VVBKa0F6eTVlMVktYUYxRkZlN3FmLVZ5d1dyQWxUYnNscDJmcmxoMms?oc=5",
     "title": "엔비디아, 차세대 AI플랫폼 '베라루빈' 본격 공급 통해 \"선두 수성\"",
     "summary": [
@@ -79,7 +83,7 @@ window.NEWS_DB = [
     "id": "nfaa9ec62",
     "category": "IT",
     "source": "조선일보",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2FKQTB1dmFGYmhZbFpFZE9lT2I2T0YySGNTZEN6WE5MWXczLUZwd3RQT0RSVWlKamxZVl82V3cyZDBQSkxjNzZpWWRHTXJLSzdma0xzSmsyMV8tZU5iUTN1QnUzT3dmd3FoVjlUYXVoWTd0UXhqb3JHNE9jLTVKNnZobw?oc=5",
     "title": "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입",
     "summary": [
@@ -109,7 +113,7 @@ window.NEWS_DB = [
     "id": "nb4fe9e9c",
     "category": "경제",
     "source": "베타뉴스",
-    "time": "5일 전",
+    "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nX0NGRE52elNDRk90R2loSHhLdWJFdDhEaVZPZTZ3ekNEUDJpQ0szUF9vSWZ2WTVKNURGN0RvT2M5WWZyVUpleGZEemJGSDhrOGhpVW9lRC1kQkpOMU13Tkh1TXI?oc=5",
     "title": "원·달러 환율, '한은 금리인상·美 물가 둔화'에 장중 1470원대 진입...두 달 만에 최저",
     "summary": [
@@ -255,6 +259,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "54일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -296,21 +314,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "160일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
     ]
   },
   {
@@ -379,48 +382,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7d98ebe6",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003719347",
-    "title": "르세라핌 홍은채, 日 프로야구도 주목한다…여름 축제 '주간 게스트'",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 그룹 '르세라핌(LE SSERAFIM)' 홍은채가 일본 프로야구 구단의 초청을 받으며 현지 스포츠 팬들과 접점을 넓힌다.",
-      "22일 소속사 쏘스뮤직(하이브)에 따르면 홍은채는 오는 8월5일 일본 지바 조조 마린 스타디움에서 열리는 지바 롯데 마린스와 사이타마 세이부 라이온스의 경기에 스페셜 게스트로 참석한다.",
-      "이번 출격은 지바 롯데 마린스의 대표 여름 축제인 '블랙 서머 위크(BLACK SUMMER WEEK)'의 일환."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n128b4095",
+    "id": "n0f4247b8",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003719038",
-    "title": "리투아니아, 옛소련 점령 잔재 제거위해 '붉은군대' 전사자 묘지 이전 추진…러와 충돌",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072219412885875",
+    "title": "강훈식 \"AI시대 '한국형 보편지원' 제도 필요…사회안전망 전면 재설계\"",
     "summary": [
-      "[서울=뉴시스] 유세진 기자 = 리투아니아가 옛 소련 점령의 마지막 잔재를 제거하기 위해 수도 빌뉴스 외곽에 있는 2차대전 전사자 묘지 이전을 추진하면서 러시아와의 정치적 충돌의 무대가 됐다고 프랑스24가 22일 보도했다.",
-      "빌뉴스 서쪽 비에비스의 고고학자들은 토양층을 조사하면서 제2차 세계 대전 이후 러시아가 설치한 많은 기념 유적지 중 하나에서 붉은 군대 병사들의 뼈를 조심스럽게 발굴하고 있다.",
-      "우크라이나와 가까운 동맹인 리투아니아는 1990."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n796aa11c",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003719339",
-    "title": "강훈식 \"청년 등 보편적 지원 적극 검토…미래세대 과도한 부담 안 돼\"",
-    "summary": [
-      "[서울=뉴시스] 김지은 기자 = 강훈식 대통령비서실장이 22일 인공지능(AI) 시대에 대응하기 위한 '한국형 보편지원 제도'의 중장기 로드맵을 마련하라고 지시했다.",
-      "강 비서실장은 이날 오후 청와대에서 주재한 수석보좌관회의에서 이같이 말했다고 안귀령 청와대 부대변인인이 서면 브리핑에서 전했다.",
-      "강 실장은 \"AI 시대는 경제 성장과 행정서비스 혁신이라는 기회를 가져오는 동시에 일자리 감소와 양극화 심화라는 엄중한 도전을 안겨줄 것\"이라며 \"청년 고."
+      "청와대가 인공지능(AI) 확산에 따른 일자리 감소와 소득 양극화에 대비해 기존 사회안전망을 전면 재설계하는 '한국형 보편지원' 중장기 로드맵 마련에 착수한다.",
+      "아동·청년·예술인·농어업 종사자·자영업자 등 고용보험 중심의 기존 제도로 충분히 보호하기 어려운 계층을 포괄하되, 재정의 지속가능성과 미래세대 부담을 핵심 원칙으로 삼기로 했다.",
+      "강훈식 대통령비서실장은 22일 오후 주재한 수석보좌관회의에서 \"AI 시대는."
     ],
     "chips": [
       "#AI",
@@ -429,220 +400,243 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n716d98f0",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/22/GRTDEYJVGJRDANBRMJRDKMZSGI/",
-    "title": "김하성 조언 들었을까…LG 새 외인투수, ‘ML 다승왕→통산 112승’ 이름값 화려한데, 39세 나이와 2개월 이닝 공백 괜찮을까",
-    "summary": [
-      "[OSEN=한용섭 기자] 이름값으로는 역대 최고의 외인 선수다.",
-      "MLB 아메리칸리그 다승왕 이력이 있고, MLB 통산 112승 투수다.",
-      "프로야구 LG 트윈스가 화려한 이력의 외국인 투수를 전격 영입했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n11ed0126",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003719341",
-    "title": "코레일, 성희롱·괴롭힘 예방 '뮤지컬 교육’",
-    "summary": [
-      "[서울=뉴시스] 홍찬선 기자 = 한국철도공사(코레일)가 성희롱·괴롭힘 예방 교육을 뮤지컬로 각색해 건강한 조직문화 조성에 나섰다.",
-      "코레일은 22일 오후 대전 본사 대강당에서 ‘뮤지컬로 배우는 성희롱·괴롭힘 예방 교육’ 프로그램을 진행했다고 밝혔다.",
-      "공연은 성희롱과 언어폭력 등 실제 사례를 뮤지컬로 각색해, 직원들이 자신의 언행과 조직문화를 스스로 되돌아볼 수 있도록 구성했다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf43495b6",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260722/134345706/1",
-    "title": "SK하이닉스-인텔, 美 오하이오 팹 거래 일제히 부인",
-    "summary": [
-      "SK하이닉스의 인텔 미국 오하이오 반도체 팹(Fab) 인수설이 제기됐지만 SK하이닉스와 인텔뿐 아니라 정부도 일제히 부인했다.",
-      "22일 SK하이닉스는 공시를 통해 “당사는 인텔의 오하이오 부지 및 팹 인수를 추진하거나 결정한 사실이 없다”고 밝혔다.",
-      "SK하이닉스가 정부 승인을 거쳐 인텔 팹 인수로 미국 투자를 확대한다는 보도가 나오자 즉각 선을 그은 것이다."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n46f02a0d",
+    "id": "n359a0e27",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722150600001",
-    "title": "오세훈 1심 공직상실형에 국힘 당권·대권 구도 변화 촉각",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722168100004",
+    "title": "'명태균이 거짓말' 주장한 오세훈…법원은 \"여론조사 5번 의뢰\"",
     "summary": [
-      "(서울=연합뉴스) 이정현 조다운 노선웅 이율립 기자 = 오세훈 서울시장이 22일 '명태균 여론조사 대납' 의혹 1심 재판에서 공직 상실형을 선고..."
+      "(서울=연합뉴스) 이승연 기자 = '명태균 여론조사 대납 의혹'으로 기소된 오세훈 서울시장이 유죄를 선고받은 데에는 오 시장 주도로 이뤄진 여론..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nff753239",
+    "id": "n5df52883",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722059152004",
-    "title": "김건희, '1천만원 금품 수수' 특검 진술 거부…8시간만에 귀가(종합2보)",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260722/134342944/1",
+    "title": "트럼프 “이란 지하 핵 시설 ‘곡괭이 산’ 조만간 강하게 공격”",
     "summary": [
-      "(과천=연합뉴스) 박재현 최윤선 최원정 기자 = 대통령실 관저 이전 관련 외압 행사 및 금품 수수 등 의혹으로 권창영 2차 종합특검에 출석한 김..."
+      "도널드 트럼프 미국 대통령이 21일 이란 중부 나탄즈 인근의 지하 핵 시설인 이른바 ‘곡괭이산(Pickaxe Mountain)’을 조만간 강하게 공격하겠다고 밝혔다.",
+      "이 산은 이란 핵 프로그램의 미래로 여겨지는 장소다.",
+      "그런 만큼, 공격 성공 시 ‘이란 핵 거점의 사전 제거’라는 이번 전쟁의 목표를 달성할 수 있다는 평가다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n4d308090",
-    "category": "사회",
+    "id": "nf3c86bfe",
+    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722165400054",
-    "title": "종전 합의로 호르무즈 빠져나온 원유 운반선 여수 입항",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722171900007",
+    "title": "브라질 잡은 남자배구 라미레스 감독 \"정신력 성장이 승리 요인\"",
     "summary": [
-      "(여수=연합뉴스) 민현기 기자 = 미국·이란 간 종전 합의로 호르무즈 해협을 빠져나온 원유 운반선이 무사히 국내 입항했다."
+      "(제천=연합뉴스) 김동한 기자 = 세계랭킹 7위 브라질을 꺾은 한국 남자 배구대표팀의 이사나예 라미레스 감독은 지난달 2026 아시아배구연맹(A..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n717bb19e",
+    "id": "nbaf981c4",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260722166800065",
-    "title": "한국GM 노사, 임단협 잠정합의…성과급 1천500만원",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260722/134347217/1",
+    "title": "교통경찰관이 음주 교통사고…서울 관악서 소속 경찰 직위 해제",
     "summary": [
-      "(인천=연합뉴스) 황정환 기자 = 한국지엠(GM) 노사가 17차례의 임금·단체협약(임단협)교섭 끝에 잠정 합의안을 마련했다."
+      "현직 교통경찰관이 음주운전을 하다 교통사고를 내 직위가 해제됐다.22일 서울경찰청은 도로교통법위반(음주운전) 등의 혐의로 입건된 관악경찰서 교통과 소속 40대 경감을 직위해제 했다고 밝혔다.이 경감은 20일 오후 10시 5분경 음주운전을 하다 남부순환로에서 교통사고를 낸 혐의로 서울 방배경찰서에서 불구속 입건돼 수사를 받고 있다.사고 당시 혈중알코올농도는 면허 취소 수준인 0.08% 이상이었던 것으로 조사됐다.경찰은 이 경감을 상대로 정확한 사."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0af9f187",
+    "id": "n9e7264df",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026072219351477803",
+    "title": "한국GM 노사, 임단협 잠정 합의↑기본급 9.2만원↑·성과급 1500만원",
+    "summary": [
+      "한국지엠(GM) 노사가 17차례에 걸친 올해 임금·단체협약(임단협) 교섭 끝에 잠정 합의안을 마련했다.",
+      "22일 전국금속노동조합 한국GM지부에 따르면 노사는 이날 열린 17차 임단협 교섭에서 월 기본급 9만2000원 인상과 성과급 1500만원 지급 등을 골자로 하는 잠정 합의안을 도출했다.",
+      "최대 쟁점이었던 신규 차종 배정과 관련해서는 회사가 내년 3분기 안에 계획을 확정할 수 있도록 노력하겠다는 입장을 제시했고, 노조가 이를 받."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a9e2c09",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003719359",
+    "title": "경찰청, 장윤기 사건 2주 전 광주 광산서 점검…'병합수사 강화' 지침도(종합)",
+    "summary": [
+      "[서울=뉴시스] 최은수 신항섭 기자 = 경찰청이 장윤기 사건 발생 약 2주 전 광주 광산경찰서를 찾아 관계성 범죄 대응체계를 점검하고, 반복되는 관계성 범죄에 대해 병합수사를 강화하는 지침을 일선에 하달한 것으로 드러났다.",
+      "22일 박수민 국민의힘 의원실이 광주경찰청으로부터 제출받은 자료에 따르면 경찰청은 지난 4월 21일 광주광산경찰서에서 '관계성 범죄 현장 점검 및 간담회'를 열었다.",
+      "간담회에는 경찰청 관계성 범죄 태스크포스(TF)를 비롯해."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6d2af6d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003718769",
+    "title": "'호프' 조인성 \"버건디 바지 너무 강렬…'이게 맞나' 싶었다\"",
+    "summary": [
+      "[서울=뉴시스]박재민 인턴 기자 = 배우 조인성이 영화 '호프'에서 입고 등장한 버건디 바지에 얽힌 비하인드를 공개했다.",
+      "조인성은 22일 MBC FM4U '정오의 희망곡 김신영입니다'에 게스트로 출연해 영화 '호프'와 관련한 다양한 이야기를 나눴다.",
+      "한 청취자가 \"(영화에 등장하는) 호포항 사냥꾼들 보고 요즘 아이돌 그룹 코르티스를 닮았다고 한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf60ef49e",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003719355",
+    "title": "MLB 신인 선수, 파울 타구에 급소 맞고도 안타…고환 파열로 수술대",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 메이저리그(MLB) 애슬레틱스 신인 내야수 조슈아 쿠로다-그라우어가 파울 타구에 고환을 맞아 파열이 되는 부상을 당하며 수술대에 올랐다.",
+      "쿠로다-그라우어는 21일(한국 시간) 미국 애리조나주 피닉스의 체이스 필드에서 벌어진 2026 MLB 애리조나 다이아몬드백스와의 원정 경기에 5번 타자 3루수로 선발 출전했다.",
+      "그는 2회초 첫 타석에서 빅리그 데뷔 첫 홈런을 폭발했으나 5회초 두 번째 타석에서 불의의 부상을 입었."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n945cd61b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722170900109",
+    "title": "헝가리 오르반 前총리 새 정부에 반기…\"민주주의 멈춰\"",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 16년 장기 집권 끝에 정권에서 밀려난 오르반 빅토르 전 헝가리 총리가 '적폐 청산' 수사에 반발하며 새 정..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6237d273",
     "category": "스포츠",
     "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260722/134346111/1",
+    "title": "전주원 우리은행 감독 “우승반지 20개 채우는 게 내 농구 목표”",
+    "summary": [
+      "‘호랑이’ 위성우 전 감독(55)이 지휘봉을 내려놨지만 새 시즌을 준비하는 여자프로농구 우리은행 훈련장은 여전히 거친 숨소리와 팽팽한 긴장감으로 가득 차 있었다.",
+      "2026~2027시즌 개막이 3개월 이상 남았지만 우리은행 선수들 사이에선 벌써 “너무 힘들다”는 말이 나온다.",
+      "4월 우리은행 수석코치에서 사령탑으로 승격한 전주원 감독(54)이 혹독한 훈련으로 조직력 다지기에 집중하고 있기 때문이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0140c1d3",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "8분 전",
+    "url": "https://www.hankyung.com/article/2026072202317",
+    "title": "파울 타구에 급소 맞은 MLB 신인…안타 치고 응급수술 '고환 파열'",
+    "summary": [
+      "파울 타구에 급소 맞은 MLB 신인…안타 치고 응급수술 '고환 파열'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf9917b84",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260722169400001",
+    "title": "국힘 \"선관위 사태 진상규명 아직…국조특위 기간 연장해야\"",
+    "summary": [
+      "(서울=연합뉴스) 조다운 기자 = 국민의힘 소속 국회 6·3 지방선거 투표용지 부족 사태 국정조사특별위원회 위원들은 22일 \"투표용지 부족 사태..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8a74914f",
+    "category": "경제",
+    "source": "한국경제",
     "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260722/134346833/1",
-    "title": "잠실개표소 인근서 ‘마약 의심 가루’…경찰, 국과수 검사 의뢰",
+    "url": "https://www.hankyung.com/article/202607229905H",
+    "title": "어트랙션 하나에 '500억원' 배팅…롯데월드의 승부수는? [현장+]",
     "summary": [
-      "서울 송파구 잠실개표소 봉쇄 시위 현장 인근에서 마약으로 의심되는 물질이 발견돼 경찰이 수사에 착수했다.22일 뉴스1 취재에 따르면 서울 송파경찰서는 지난 17일 잠실개표소 봉쇄 시위가 이어지는 서울 송파구 올림픽공원 내 쉼터에 마약이 있다는 신고를 접수했다.쉼터에서는 비닐에 싸인 흰색 가루와 깨진 알약 형태의 물질이 발견된 것으로 파악됐다.",
-      "해당 쉼터는 봉쇄 시위가 벌어지고 있는 핸드볼경기장과 300여 m가량 떨어진 것으로 알려졌다.신고를 받."
+      "어트랙션 하나에 '500억원' 배팅…롯데월드의 승부수는? [현장+]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf52c9db3",
+    "id": "ncd45c00e",
     "category": "사회",
-    "source": "동아일보",
+    "source": "조선일보",
     "time": "11분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260722/134346830/1",
-    "title": "‘블랙요원 명단 유출’ 2년 만에…또 정보요원 신상 노출 우려",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/22/MMYGENJVGMZGCZRYMM4DMYJXMI/",
+    "title": "손나은, 해외서 인기 대박..“데뷔 후 여행마다 번호 따였다” (유튜브하지영)[순간포착]",
     "summary": [
-      "외교부 산하 국립외교원 온라인교육시스템의 해킹 사태로 해외공관에 파견된 정보기관 요원 수백 명의 신상이 유출됐을 가능성이 제기됐다.",
-      "2024년 국군정보사령부의 블랙·화이트요원 명단 유출 사건 이후 2년 만에 정보요원의 신상 관련 보안 문제가 다시 도마 위에 오른 것이다.",
-      "22일 외교부 등에 따르면 아직 정체가 파악되지 않은 해커는 지난해 4~5월 국립외교원 온라인교육시스템 서버를 장악한 뒤 올해 2월 초까지 10개월간 들키지 않고 수시로 접속한."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] 배우 손나은이 해외에서 번호를 따인 적이 있다고 고백했다.22일 유튜브 채널 ‘유튜브하지영’에는 ‘손나은 “소지섭 첫 만남 실물 후기부터 해외 번따까지!” 김부장과 진짜 손나은 공개’라는 제목의 영상이 게재됐다.이날 손나은은 ‘길에서 번호를 물어본다면?’이라는 질문을 뽑았다."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n3088614a",
+    "id": "n4377d8b4",
     "category": "사회",
-    "source": "조선일보",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003719296",
+    "title": "'강뉴부대' 후손들, 감사의정원서 75년 인연 노래하다",
+    "summary": [
+      "[서울=뉴시스] 최현호 기자 = 서울시는 22일 오후 7시30분 광화문광장 '감사의 정원'에서 에티오피아 6·25전쟁 참전용사 후손들로 구성된 '강뉴합창단'과 서울시 예술단이 함께하는 문화교류 공연 '그날의 용기, 오늘의 노래'를 개최했다.",
+      "이번 공연은 6·25전쟁에 참여한 에티오피아 강뉴부대의 헌신을 기억하고 75년 전 전장에서 시작된 양국의 인연을 미래세대의 문화와 우정으로 이어가기 위해 마련됐다.",
+      "이날 행사에는 오세훈 서울시장과 보훈·문화."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n369cbf0c",
+    "category": "경제",
+    "source": "아시아경제",
     "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/22/GNRGKYRWGE3DOMBZGU4DMYZWME/",
-    "title": "'묵언수행' 윤경호, 결국 입 터졌다…13시간 20분 끝 \"앞으론 신중하게 말할 것\" [종합]",
+    "url": "https://view.asiae.co.kr/article/2026072219280270129",
+    "title": "경찰, '300억대 사기 의혹' 차가원 대표 세번째 구속영장 신청",
     "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=장우영 기자] 배우 윤경호가 13시간 20분 동안의 묵언수행을 마쳤다.22일 SBS 유튜브 채널에는 ‘김부장 13% 찍고 13시간 묵언수행한 윤경호의 아~주 조용한(?) 하루’라는 제목의 영상이 공개됐다.묵언수행 5분 전, 라이브 방송을 시작한 윤경호는 오전 7시부터 시작을 한다고 알린 뒤 ‘저는 묵언수행."
+      "경찰이 300억원대 사기 혐의를 받는 연예기획사 원헌드레드 레이블의 차가원 대표에 대해 세 번째 구속영장을 신청했다.",
+      "서울경찰청 광역수사단 금융범죄수사대는 22일 특정경제범죄 가중처벌법상 사기 등 혐의로 차 대표에 대한 구속영장을 신청했다.",
+      "앞서 경찰은 지난달 초와 같은 달 15일 두 차례 구속영장을 신청했지만, 검찰은 범죄사실 보완이 필요하다며 모두 반려하고 추가 수사를 요구했다."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n8371bdaf",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026072218264977770",
-    "title": "\"지독하다\" '악취' 민원 쏟아지더니…서울서 은행나무 최소792그루 사라진다",
-    "summary": [
-      "환경단체 서울환경연합이 올 한해 수종 교체(바꿔심기) 사업으로 서울시에서 사라지는 은행나무가 최소 792그루에 달할 것이라고 밝혔다.",
-      "22일 서울환경연합은 시민 24명과 함께 서울시 25개 자치구의 '2026년 연차별 가로수 계획'을 모니터링한 결과를 발표했다.",
-      "보고서에 따르면 올 한해 수종교체 사업으로 서울시에서 사라지는 은행나무는 최소 792그루에 달하는 것으로 나타났다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nd9d1d07f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/22/MFTDENJWGMZDINJZGI3TOOBVMM/",
-    "title": "\"손가락 절단 야쿠자가 예능에?\"...'불량연애2', 문신은 약과였다 '열도 들썩' [Oh! 재팬]",
-    "summary": [
-      "[OSEN=연휘선 기자] '불량연애2'가 포스터 공개 직후 일본 현지 여론의 뭇매를 맞고 있다.",
-      "지난 21일, 넷플릭스 재팬 측은 공식 SNS를 통해 신규 예능 '불량연애 시즌2'의 예고편과 포스터를 공개했다.",
-      "이 가운데 남성 출연자 오다 유야의 모습이 갑론을박을 자아냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36ab9428",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/22/GQYDGZBUHA3TIMBUME4WGYZSME/",
-    "title": "'사상 초유' 무더위에 외야수가 쓰러졌다…'38.8도' 이례적 폭염, 2군 경기 결국 노게임",
-    "summary": [
-      "[OSEN=조은혜 기자] 일본프로야구(NPB) 2군 경기에서 폭염으로 선수가 경기 도중 쓰러져 병원으로 긴급 이송되는 일이 발생했다.",
-      "결국 경기는 노게임 처리됐다.일본 '데일리스포츠' 등 현지 매체들은 22일 \"지바 롯데 마린스와 오릭스 버팔로스의 팜(2군) 교류전이 폭염으로 인해 노게임 처리됐다\"고 보도했다.",
-      "보도에 따르면 이날 일본 사이타마현 롯데 우라."
-    ],
-    "chips": [
-      "#KBO",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n35436c25",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026072218292588818",
-    "title": "평택 자동차부품 공장서 20대 근로자 사망…설비 점검 중 참변",
-    "summary": [
-      "22일 낮 12시 50분께 경기 평택시 포승읍의 한 자동차 부품 제조업체에서 설비를 점검하던 20대 작업자가 기계에 끼여 숨지는 사고가 발생했다.",
-      "회사측에 따르면 다른 기계 보수업체 소속인 A씨는 당시 공장 내 부품 가공 설비를 점검하던 중 설비가 갑자기 작동하면서 사고를 당했다.",
-      "A씨는 심정지 상태로 병원에 옮겨졌지만 끝내 숨졌다."
-    ],
-    "chips": [
-      "#의료"
     ]
   }
 ];
@@ -651,21 +645,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
+    "tag": "뉴스",
+    "mentions": "2850건",
+    "trend": "+335%"
+  },
+  {
+    "rank": 2,
     "tag": "AI",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
-    "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
-  },
-  {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "고용",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
