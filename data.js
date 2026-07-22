@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-22 18:23:50
+// 마지막 업데이트: 2026-07-22 19:28:52
 window.NEWS_DB = [
   {
     "id": "nc1f5fa20",
     "category": "IT",
     "source": "서울이코노미뉴스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hSEM0X09GMzhnVjVCMm5KeDVYZ2V6WExJdE8zblhEeU9oMGxNZW5rcndacXc2dEtyXzI5MnJnUWxucTcxUkxGSEdrZWpsTUlqRmVkNGQ5YU9FaDQ4S3pzSHl6b1NyOGo3THlQZzNR?oc=5",
     "title": "이재용·최태원·이해진이 美 젠슨 황과 만나면...수직통합형 AI 협력 구축",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nb70458fd",
     "category": "IT",
     "source": "beSUCCESS",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqVDZDV2FJUFRlZmJhMG44ZTBYa1M0LTZCUkEzbG1hRFFmR2xCU0J5YWJsVE14eXdGcWlMVWtHVU5QbDZteWc?oc=5",
     "title": "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n146de188",
     "category": "IT",
     "source": "핀포인트뉴스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LM0tsanh5Mlh2a0hEN09mZzRscE9WTGdmeHJXc19ybWQtMzBhSTV6RE9jaWEwbEdZOV9zZW1TdHRBcVBSbTNzLURwb2cxd1F3dHppQVhrUWFxeTBzaG11MTBzYTNiV1dlYzRjMTBxUWZhR0HSAXdBVV95cUxQeC1xdk9HdV9OSllhczJHd3JqMmIteVN3MEZPUWx6UEtEVkdNTU1Eb2dsOVV6X193RXpWcmFRNWFDMU9qUGk3RkJSTlVqX0N0N3FKOW56Zl9lVjNfdWN3QThyOUt4anhzcEF2TWoyejdidmY3SksyNA?oc=5",
     "title": "AI 반도체 훈풍에 삼성전자·SK하이닉스 날개짓…반도체 대표주 다시 뜬다",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "ned002032",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWm0tOHI0bUNNZGRReExNOGlBRnFDQUk3c2JvcG53R3l1SjF1bjhhbS1iUDc1YmZ2ZTVvcHdqRU1Ib1lPSWZmVFJQdHNkS0NTeFg0aVNPMVZKLUo2aWR1ejNDY01MWklxSE1iM2RybHRFWDVCam56OGt4b2gyQkMwdw?oc=5",
     "title": "[MUST KNOW5]엔비디아·TSMC·SK하이닉스, AI 반도체 판이 다시 움직인다",
     "summary": [
@@ -68,7 +68,7 @@ window.NEWS_DB = [
     "id": "n0a0d373a",
     "category": "IT",
     "source": "글로벌경제신문",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZdHFWSUp4R3FBWVZGT1phdTNmU3h6Qk16a3VvS2VoYXBNRG5vWHVSSkRoVV9uUGc2WnNUUlVkTEhUaW5IREpITDhRZkZqOXdDMGNBbEoyRXB4VjJhcEpwbVk3QnBmNVRQSzVpOdIBcEFVX3lxTE9wRU9DX0djVFRnZW51SjNNVGUyMEIxUUtlSEVDQTdfYUZMQ1d4NzgyY1BCSlRMY3p0VUNoYVpvelZZeGk2UG44VVBKa0F6eTVlMVktYUYxRkZlN3FmLVZ5d1dyQWxUYnNscDJmcmxoMms?oc=5",
     "title": "엔비디아, 차세대 AI플랫폼 '베라루빈' 본격 공급 통해 \"선두 수성\"",
     "summary": [
@@ -125,6 +125,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nea00511a",
+    "category": "스포츠",
+    "source": "v.daum.net",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAzR21CNGU3b1V1ZThMMzI0R3VMOWtZbzBaNDQyX2hsOXRsRXdNMGVmVzBVak9SRFpzUWVvQ0M1aEFrbzd1eUE?oc=5",
+    "title": "야구, 골프와 만나다…KBO, 10개 구단 골프공 세트 선보인다",
+    "summary": [
+      "야구, 골프와 만나다…KBO, 10개 구단 골프공 세트 선보인다 v.daum.net."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nae5f094c",
     "category": "사회",
     "source": "아웃소싱타임스",
@@ -137,20 +151,6 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n3d165093",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wZUNONTdjWXZkdXJUdzRsV3hIR2dPMHlFQ1laM3hyQlFIOTNXQm51SUtWMWNZd2tPVmZjQnBnT1YyazdqeDlBWHNNUDBBU2JBaUhnSw?oc=5",
-    "title": "[MD포토] KBO 올스타전 'RE:잠실, 야구의 기억을 함께'",
-    "summary": [
-      "[MD포토] KBO 올스타전 'RE:잠실, 야구의 기억을 함께' v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -390,187 +390,253 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2529366a",
+    "id": "n0952714e",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723004000075",
-    "title": "美애리조나 공화당 경선서 '親트럼프' 부정선거론자 3명 승리",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/policy/2026/07/23/2026072219394430638",
+    "title": "환경공무관 10년 수당 밀려… 자치구 허덕",
     "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 애리조나주(州) 프라이머리(예비선거)에서 도널드 트럼프 대통령의 부정 선거론에 동조하는 공화당 ..."
+      "서울시, 통상임금 판례 적용 작년 7월 3307억 지급 합의 성동구, 예산부족해 정산 '0원'… 강남·송파 등 부분지불 서울 25개 자치구가 환경공무관에게 줘야 할 밀린 수당과 이자 3307억원을 수개월째 제대로 지급하지 못한 것으로 파악됐다.",
+      "지난해 서울시와 노조의 합의에도 성동구 등은 아직 첫 지급을 시작하지 못했고 재정여건이 상대적으로 나은 강남·송파구 등도 일부만 우선 지급했다.",
+      "서울시는 500억원을 지원하는 한편 올해 하반기 환경공무관."
     ],
     "chips": [
-      "#정치"
+      "#환경"
     ]
   },
   {
-    "id": "n53ac55b7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/23/MVQTIMLBHA4DIZRRMI3GCYRTMU/",
-    "title": "\"후반기 잘 풀리지 않았는데…\" 한화 에이스가 해냈다! 4연패 탈출, 깜짝 카드도 대적중",
-    "summary": [
-      "[광주=스포츠조선 이종서 기자] 한화 이글스가 후반기 처음으로 웃었다.",
-      "한화는 22일 광주 기아챔피언스필드에서 열린 KIA 타이거즈와의 원정경기에서 7대3으로 승리했다.",
-      "한화는 4연패에서 벗어나면서 시즌 41승(3무44패) 째를 거뒀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n591586b5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/07/23/KJQVLGLDLFETDHF3WQIW7TFI7M/",
-    "title": "게르마늄 솥밥부터 율무 아이스크림까지… DMZ 따라 155마일 맛기행",
-    "summary": [
-      "게르마늄 솥밥부터 율무 아이스크림까지… DMZ 따라 155마일 맛기행."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4dcb8449",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/07/23/EZ7GOR6SFVCC5D5NIZNATCRXQ4/",
-    "title": "나는 몰랐다… 내 책이 누군가에게 ‘힘’이 될 줄은",
-    "summary": [
-      "나는 몰랐다… 내 책이 누군가에게 ‘힘’이 될 줄은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n07033590",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/national/education/2026/07/23/J4POA2645VCATACGO7UE5Z2SF4/",
-    "title": "그림·도자기 배송, ‘send’ 아닌 ‘ship’을 쓰는 이유",
-    "summary": [
-      "그림·도자기 배송, ‘send’ 아닌 ‘ship’을 쓰는 이유."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n10d79c69",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723003700079",
-    "title": "이란 협상단장 \"우리가 석유 못 팔면 아무도 못 판다\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 미국과의 종전 협상에서 이란 협상단을 이끌었던 모하마드 바게르 갈리바프 의회 의장이 원유 수출 및 해협의 ..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "na3614eff",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003719494",
-    "title": "\"트럼프, 서아프리카 말리 공습 검토…알카에다 연계조직 겨냥\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 도널드 트럼프 미국 행정부가 서아프리카 말리를 거점으로 활동하는 알카에다 연계 무장단체 이슬람과무슬림지지그룹(JNIM)을 겨냥한 군사행동을 검토하고 있는 것으로 전해졌다.",
-      "워싱턴포스트(WP)는 22일(현지 시간) 현직 및 전직 미국 관리들을 인용해 트럼프 행정부가 말리 내 JNIM을 대상으로 공습 등 군사 옵션을 검토하고 있지만, 행정부 내부에서는 군사 개입을 둘러싸고 의견이 엇갈리고 있다고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncbcc3394",
+    "id": "n098925fa",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723003500091",
-    "title": "'스타게이트' 주춤했던 오픈AI, 대규모 AI인프라 구축 재개",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723005600091",
+    "title": "아마존, AI 조직 인원 감축…\"AI모델 구축은 여전히 중요 과제\"",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 챗GPT 개발사 오픈AI가 한동안 주춤했던 인공지능(AI) 인프라 확장을 재개하고 있다."
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국과 중국의 주요 인공지능(AI) 기업들의 AI 모델 개발 경쟁이 격화하는 가운데 아마존은 관련 조..."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n21997b9b",
+    "id": "n397c7866",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003719498",
+    "title": "이란 의회의장 \"우리 석유 못 팔면 누구도 못 판다\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 이란의 수석 협상대표이자 국회의장인 모하마드 바게르 갈리바프가 이란의 원유 수출이 막힐 경우 다른 국가들도 석유를 수출하지 못할 것이라며 호르무즈 해협을 통한 에너지 공급 차단 가능성을 거듭 시사했다.",
+      "갈리바프 의장은 22일(현지 시간) X(옛 트위터)를 통해 \"이 지역은 전쟁에서 완전히 벗어나거나, 그렇지 않으면 모든 국가가 테헤란과 워싱턴 간 갈등에 휘말리게 될 것\"이라고 밝혔다."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n53a76c3a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/23/2026072219580364207",
+    "title": "엔화, 달러당 163엔… 40년만에 최저 수준",
+    "summary": [
+      "중동전쟁·재정확대 등 영향 중동정세 악화로 달러화가 강세를 보이면서 엔화가치가 약 40년 만에 최저수준으로 떨어졌다.",
+      "니혼게이자이(닛케이)신문에 따르면 21일(현지시간) 미국 뉴욕 외환시장에서 엔/달러 환율은 163엔까지 밀렸다.",
+      "이는 1986년 12월 이후 약 40년 만이다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "na6ac98fa",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "50분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723001951108",
-    "title": "'사우디 해상 봉쇄' 후티 반군, 선박들에 무전으로 경고(종합)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723005700087",
+    "title": "오르테가 '선거 없다' 선언에 유엔도 비판…\"법치주의 퇴행\"",
     "summary": [
-      "(카이로·이스탄불=연합뉴스) 김상훈 김동호 특파원 = 사우디아라비아를 대상으로 홍해 봉쇄를 선언한 예멘의 친이란 반군 후티가 22일(현지시간) ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1830c9e3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "53분 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003718813",
-    "title": "\"외모보다 성격\"…Z세대 사이 확산하는 '데이팅다운' 뭐길래",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 강건우 인턴기자 = Z세대 여성들 사이에서 외모보다 성격과 관계의 안정성을 중시하는 새로운 연애 경향이 주목받고 있다.",
-      "이른바 '데이팅다운(dating down)'으로 불리는 현상이다.",
-      "지난 17일(현지 시간) 영국 데일리메일은 자신보다 외모적으로 덜 매력적인 상대를 선택하는 새로운 연애 경향을 소개하며, 지난해 사회관계망서비스(SNS)에서 화제가 된 신조어 '슈렉킹(shrekking)'을 함께 언급했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd901b960",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003719490",
-    "title": "이란 \"美, 교량·발전소 공격 땐 중동 에너지시설 보복\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 이란이 미국이 자국의 교량이나 발전소를 공격할 경우 중동 지역의 민간 기반시설을 겨냥한 보복에 나서겠다고 경고했다.",
-      "도널드 트럼프 미국 대통령이 호르무즈 해협에서 선박을 공격할 경우 이란의 교량과 발전소를 타격하겠다고 밝힌 데 대한 맞대응 성격이다.",
-      "22일(현지 시간) 이란 준관영 타스님 통신은 익명의 군 소식통을 인용해 \"이란은 미국이 자국의 교량이나 발전소를 공격할 경우 중동의 민간 기반시설, 특히 교량과 에."
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 니카라과에서 향후 선거가 없을 것이라고 공언한 다니엘 오르테가 대통령 발언에 대해 국제사회의 비판이 고..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n821c6ef9",
+    "id": "n6815fca4",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260722_0003717972",
-    "title": "\"대리기사 신호위반 사고로 가족 다쳤는데\"…4900만원 신차까지 전손 위기",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/23/FLU4VI2ITRHM7EDHOS6XBE3PEY/",
+    "title": "결국 재판 가는 맘다니 대표 공약 “임대료 동결, 절차적 문제 있다”",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 대리운전 기사를 불러 귀가하던 일가족이 대리기사의 신호위반으로 교통사고를 당해 가족 모두가 다치고, 출고한 지 얼마 되지 않은 차량까지 전손 처리 위기에 놓였다는 사연이 전해졌다.",
-      "지난 21일 JTBC '사건반장'에는 대리운전 기사의 신호위반으로 교통사고를 당했다는 제보자 A씨의 사연이 소개됐다.",
-      "A씨에 따르면 지난 3일 밤 경기도 화성에서 가족 모임을 마친 뒤 아내와 딸, 함께 대리운전 기사를 호출해 귀가에."
+      "결국 재판 가는 맘다니 대표 공약 “임대료 동결, 절차적 문제 있다”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "na02a265c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/international/us/2026/07/23/M5UECGTZNNAY7NO2FOMOIVZE3M/",
+    "title": "주미 대사에 뿔난 ‘실세’ 한인 단체… “눈치 보며 자리 피해, 실망과 경악”",
+    "summary": [
+      "주미 대사에 뿔난 ‘실세’ 한인 단체… “눈치 보며 자리 피해, 실망과 경악”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf57d6679",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/23/2026072220141677633",
+    "title": "李대통령, 美·남미 순방… 이재용·젠슨 황과 'AI 서밋'",
+    "summary": [
+      "내일부터… 재계 총수 동행 이재명 대통령이 24일(현지시간) 미국 샌프란시스코에서 젠슨 황 엔비디아 CEO(최고경영자) 등 글로벌 빅테크(대형 IT기업) 수장과 국내 재계 총수들을 만나 AI(인공지능)와 반도체 등 첨단산업 협력방안을 논의한다.",
+      "이 대통령은 24일부터 다음달 3일까지 7박11일간 미국과 남미 3개국 순방에 나서 첫 일정으로 미국 '샌프란시스코 AI 서밋'에 참석한다고 청와대가 22일 밝혔다.",
+      "이 대통령은 미국 방문에서 다리오 아."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n704db3a8",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/finance/2026/07/23/2026072219575411904",
+    "title": "손보사, 예실차 개선… 2Q 깜짝실적 예고",
+    "summary": [
+      "삼성화재·현대해상 등 순익↑ 하반기엔 실손개편 효과 기대 국내 대형 손해보험사들이 올해 상반기 시장의 기대치를 크게 웃도는 실적을 거둘 것으로 전망된다.",
+      "예실차 개선 등으로 장기보험이익이 늘면서 본업인 보험손익이 반등한 영향이다.",
+      "하반기에는 도수치료 관리급여 시행에 따른 손해율 하락과 기준금리 인상에 따른 자본건전성 개선효과까지 더해질 것으로 전망된다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n61a7bcf4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/23/MQZGENBUMIZTIN3CHEZDOZLDHA/",
+    "title": "‘111만 유튜버’ 유혜주, 출산 3일만 유튜브 중단..“가족과 서로 돌보는 시간” [전문]",
+    "summary": [
+      "[OSEN=김채연 기자] 얼짱 출신 유튜버 유혜주가 유튜브 활동을 중단한다고 밝혔다.22일 유혜주는 유튜브 채널 ‘리쥬라이크’를 통해 “가족들과 함께 서로를 돌보는 시간을 보내기 위해 리쥬라이크 채널은 잠시 쉬어가려고 한다”고 공지했다.유혜주는 최근 둘째 아들을 출산한 뒤 출산 영상이 오는 8월 3일 공개될 예정이라고 밝힌 바 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n672ce102",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723004900071",
+    "title": "美상원 상무위, 중국車 규제법안 통과…벤츠 美판매 막힐수도",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 연방 상원 상무위원회가 22일(현지시간) 중국 자동차 기업들의 미국 시장 진출을 규제하는 법안을 통과..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "ncad5affa",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723005200085",
+    "title": "[르포] 갤럭시 폴더블폰 언팩에 런던 들썩…퀄컴·구글도 지원사격",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 22일(현지시간) 오후 영국 런던의 명물 타워브리지가 뒤로 보이는 템스강변 건물 올드 빌링스게이트에 전 세계..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n17b0e29d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260722_0003719290",
+    "title": "'대서' 대구·경북, 최대 40㎜ 비 오지만…'37도' 폭염 맹위",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 절기상 가장 덥다는 대서(大暑)인 23일 대구·경북은 가끔 구름 많은 가운데 비가 내리는 곳이 있을 것으로 예상된다.",
+      "대구기상청은 이날 \"오후부터 저녁 사이 경북중·북부 곳에 따라 비가 내리겠고 대구와 경북남부내륙에는 소나기가 오겠다\"고 예보했다.",
+      "예상 강수량은 경북중·북부내륙 5~20㎜, 대구와 경북남부내륙 5~40㎜다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n46d086f3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/international/us/2026/07/23/KZTYW5PRVBFBBBZOBHMRA5JO5Y/",
+    "title": "2주 만에 만난 한·미·일… 中 ICBM, 대만 문제 다 빠진 외교부 발표",
+    "summary": [
+      "2주 만에 만난 한·미·일… 中 ICBM, 대만 문제 다 빠진 외교부 발표."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne3781703",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "48분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003719496",
+    "title": "후티 \"봉쇄 구역 진입 말라\"…선박 대상 무선 경고",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 이란의 지원을 받는 예멘 후티 반군이 사우디아라비아에 대한 해상 봉쇄를 선언한 이후 홍해와 인근 해역을 운항하는 선박들을 대상으로 무선 경고를 송신한 것으로 확인됐다.",
+      "타임오브이스라엘은 22일(현지 시간) 국제해운회의소(ICS)를 인용해 후티 반군이 해당 해역을 지나는 선박들에 무선 경고 메시지를 보낸 사실이 녹음됐다고 보도했다.",
+      "국제해운회의소는 \"후티 반군이 해당 지역의 선박들에게 경고 메시지를 전송한 것이 기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncbccf8ef",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "57분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003719495",
+    "title": "美中, 외교장관회의서 시진핑 9월 방미 조율…\"토대 마련\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국과 중국 외교 수장이 22일(현지 시간) 만나 시진핑 중국 국가주석의 9월 방미 일정을 조율했다.",
+      "마코 루비오 미국 국무장관과 왕이 중국공산당 정치국 위원 겸 외교부장은 이날 필리핀 마닐라에서 동남아시아국가연합(ASEAN·아세안) 외교장관회의를 계기로 미중 외교장관회담을 개최했다.",
+      "양측이 대면 회담은 올해 2월 독일 뮌헨 회담 이후 5개월 만이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n8f2c1788",
     "category": "사회",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202607230443i",
     "title": "美,클래리티법안에 \"태통령 암호화폐 발행·후원금지\"포함",
     "summary": [
@@ -578,65 +644,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#정책"
-    ]
-  },
-  {
-    "id": "nd9842343",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026072203901",
-    "title": "사이버 보안 AI 개발…정부, 기업·기관 공모",
-    "summary": [
-      "사이버 보안 AI 개발…정부, 기업·기관 공모."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n314cbf57",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/K-TECH Global Leaders/article/all/20260723/134348430/1",
-    "title": "베일 벗은 갤럭시 폴더블 3종… 삼성전자, 울트라부터 워치·젠몬 아이웨어까지 ‘언팩’",
-    "summary": [
-      "삼성전자가 완성도를 한층 높인 폴더블 스마트폰 라인업을 선보였다.",
-      "이와 함께 역대 가장 높은 퍼포먼스를 담은 갤럭시 워치 시리즈와 갤럭시 기기를 통해 축적해 온 하드웨어 기술력을 아이웨어 형태로 확장한 인텔리전트 아이웨어(Intelligent Eyewear)도 공개했다.삼성전자는 22일(현지시간) 영국 런던 올드 빌링스게이트(Old Billingsgate)에서 ‘갤럭시 언팩 2026’ 행사를 열고 새로운 갤럭시 Z 시리즈와 갤럭시 워치 신제품,."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n7884414d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/202607230428i",
-    "title": "백악관,\"문샷 K3모델,앤스로픽의 페이블 도용해 개발\"",
-    "summary": [
-      "백악관,\"문샷 K3모델,앤스로픽의 페이블 도용해 개발\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a25e20f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260722/134347330/2",
-    "title": "가장 얇고 가벼운 폴더블, 화면비율 4:3 차별화",
-    "summary": [
-      "삼성전자가 여권 크기의 접는 폰을 새롭게 선보이며 폴더블폰 사업 전선을 확장했다.",
-      "영상, 사진, e북(전자책) 등 콘텐츠 감상에 특화된 폴더블폰이다.",
-      "차별화된 화면 비율과 전 세계 폴더블폰 중 가장 가볍다는 강점을 앞세워 하반기(7∼12월) 스마트폰 시장에 승부수를 띄웠다."
-    ],
-    "chips": [
-      "#삼성전자"
     ]
   }
 ];
@@ -652,14 +659,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "삼성전자",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
