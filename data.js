@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-23 01:33:15
+// 마지막 업데이트: 2026-07-23 03:00:09
 window.NEWS_DB = [
   {
     "id": "naf809918",
     "category": "IT",
     "source": "굿모닝베트남미디어",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRGw1V1I1TTkzdUtRVU9CVk84WXFISHFNYno0cHhNbzZEcEV6cl9JVm1rTHJHQzFCT0p2RlJHUEdYY2Nwd19DSXpISGVmWUJlLXBzeTRQYzRiTTJXWTB6aG1JVElkWnp6LWhYT0YycGw?oc=5",
     "title": "[IT] 한국·미국 AI 리더 총집결…엔비디아 젠슨 황과 실리콘밸리 회동 추진",
     "summary": [
@@ -17,24 +17,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc1f5fa20",
-    "category": "IT",
-    "source": "서울이코노미뉴스",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hSEM0X09GMzhnVjVCMm5KeDVYZ2V6WExJdE8zblhEeU9oMGxNZW5rcndacXc2dEtyXzI5MnJnUWxucTcxUkxGSEdrZWpsTUlqRmVkNGQ5YU9FaDQ4S3pzSHl6b1NyOGo3THlQZzNR?oc=5",
-    "title": "이재용·최태원·이해진이 美 젠슨 황과 만나면...수직통합형 AI 협력 구축",
-    "summary": [
-      "이재용·최태원·이해진이 美 젠슨 황과 만나면...수직통합형 AI 협력 구축 서울이코노미뉴스."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "nb70458fd",
     "category": "IT",
     "source": "beSUCCESS",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqVDZDV2FJUFRlZmJhMG44ZTBYa1M0LTZCUkEzbG1hRFFmR2xCU0J5YWJsVE14eXdGcWlMVWtHVU5QbDZteWc?oc=5",
     "title": "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최",
     "summary": [
@@ -79,7 +65,7 @@ window.NEWS_DB = [
     "id": "n3efd7aa7",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZFhGeURJRHhsNzJsQ1FCdFllRmRoUTExcDZubzRVUzhJVk41MU15Y1V6Q1dmM09oSFh5bTF4Nkd2dDlZM25RdmpPREo1SUFFaTlmMmc5ak9KV0XSAWBBVV95cUxPTlhKQmxCZ1pkY2UyT2E4ZC1mUFRfcEotWXJyejE3V2puMkdQcWFEUzdWS2xxZW9Ca0VqSndvZ21FcmxXbW81T1VSZENac0hMc1dacUlYT0R1UjZiSHZ2Ym0?oc=5",
     "title": "中AI기업 즈푸, 국산반도체로 데이터센터 완공…脫엔비디아 속도",
     "summary": [
@@ -95,7 +81,7 @@ window.NEWS_DB = [
     "id": "nae5f094c",
     "category": "사회",
     "source": "아웃소싱타임스",
-    "time": "7일 전",
+    "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wOXJFRF9WR3AtRGs1Yk5xX1lxSUZ6T1N5MnFqM0JxSXVrdXlHd19zakdrYmlCMU5uWVdhT3FmQjhpRVQ0QndwR04zbmNnQ0dkcEVISGtaaGUtTm1BeFY1cVM5SHlVSnNDNi00Q0ROMVY3dw?oc=5",
     "title": "[취업뉴스] 정규직 '연봉' vs 아르바이트 '안전' 최우선… 고용형태 따라 달라지는 일자리 선택 기준",
     "summary": [
@@ -104,6 +90,22 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n604b1b15",
+    "category": "IT",
+    "source": "뉴스임팩트",
+    "time": "17일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VWG5yTGVTeWcxa3NBcmpvbEdlazF2WTc4VjBwZnEyZmNONWtOUW5ma0V4RGNlMkUxZjRVbmR3cENXOUt3dDBtTG5sWG9FNVd6MmlHS2cyUllxa1hKcGRlU0xSWk1wREgzUjI1N3VRSWRCQQ?oc=5",
+    "title": "[이슈] 삼성전자 HBM4 양산, SK하이닉스 우위 HBM 시장 경쟁 본격화",
+    "summary": [
+      "[이슈] 삼성전자 HBM4 양산, SK하이닉스 우위 HBM 시장 경쟁 본격화 뉴스임팩트."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -186,20 +188,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n207a7abe",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "29일 전",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
-    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
-    "summary": [
-      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -226,6 +214,20 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "54일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -273,6 +275,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n98a572df",
+    "category": "IT",
+    "source": "대한민국 정책브리핑",
+    "time": "84일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UmdvbDlPZzdEZmV4bmpaYjVpQ3JNdmhiclpjLVlPLWhjMUhndVNJSzZOTDFRZU9EZW9BNTJldzVhM2NmU0xUNmltMzhpUm9PbGxTNmUxWUt0SGVkWVMtcm1XLVJqcENydFl0WA?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 대한민국 정책브리핑."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -301,330 +318,336 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "160일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n9fc62902",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153599",
-    "title": "쇼핑엔티 PB '벨리츠', 가격-기능성 앞세워 2년 연속 고성장...실속 패션 자리매김",
-    "summary": [
-      "태광그룹 미디어 계열사 티알엔의 T커머스 채널 쇼핑엔티는 자체 패션 PB 브랜드 '벨리츠'가 지난해에 이어 올해도 꾸준한 성장세를 이어가고 있다고 23일 밝혔다.",
-      "합리적인 가격과 우수한 소재, 편안한 착용감을 바탕으로 일상에서 부담 없이 입을 수 있는 실속형 패션 브랜드로 각광받고 있다는 평가다.실제로 벨리츠는 높은 성장세를 보이고 있다.",
-      "지난해 SS 시즌 대표 상품 '여성 인견 찰랑팬츠 4종'은 목표 대비 152% 팔렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n196bed11",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153596",
-    "title": "뷰티 이어 패션 집중하는 컬리...체질 개선-몸값 높이기로 IPO 재도전 박차",
-    "summary": [
-      "신선식품 새벽배송으로 몸집을 키워온 컬리가 최근 뷰티에 이어 패션 카테고리 확장에 집중하는 모습입니다.",
-      "패션 카테고리 강화가 기업공개(IPO) 재추진을 앞두고 몸값을 높이기 위한 핵심카드로 부상하는 모양새입니다.",
-      "패션이 단가가 높고 마진율이 좋은 카테고리인 만큼, 외형 성장과 수익성 개선이라는 두마리 토끼를 모두 잡을 수 있다는 분석이 나옵니다.23일 관련업계에 따르면 컬리는 올해 초 패션 및 뷰티 MD-마케팅 전문 인력을 두자릿수 규모로 집중."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n20e4b2cb",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153595",
-    "title": "하나증권, 개인형 IRP 수익률 증권사 '3분기 연속 1위'…연금 운용 경쟁력 입증",
-    "summary": [
-      "하나증권이 개인형 퇴직연금(IRP) 수익률에서 3개 분기 연속 증권업계 1위에 오르며 연금 자산관리 경쟁력을 다시 한번 입증했다.",
-      "개인형 IRP뿐 아니라 확정기여형(DC), 확정급여형(DB) 퇴직연금의 장기 수익률에서도 업계 최고 수준의 성과를 기록하면서 연금 시장에서 존재감을 키우고 있다는 평가다.23일 금융감독원 통합연금포털에 따르면 올해 2분기 기준 하나증권의 개인형 IRP 원리금비보장형 1년 수익률은 54.91%로 증권사 가운데 가장 높."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd28d215c",
+    "id": "n15b9e22f",
     "category": "경제",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153594",
-    "title": "신동빈 회장 주식 매도에 놀란 투자자들…롯데쇼핑 장중 7% 급락",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153603",
+    "title": "[테크M 리포트] 넷마블도 사고 얼라인도 샀다...코웨이 지분 경쟁에 주주가치 'UP'",
     "summary": [
-      "신동빈 롯데그룹 회장이 보유 중인 롯데쇼핑 지분 일부를 처분한다는 소식에 롯데쇼핑 주가가 장중 7% 넘게 급락했다.",
-      "시장에서는 최대주주의 대규모 장내 매도 계획이 수급 부담으로 이어질 수 있다는 우려가 커지면서 투자심리가 급격히 위축된 것으로 풀이된다.23일 한국거래소에 따르면 롯데쇼핑은 장중 한때 전 거래일보다 7% 이상 하락, 주당 12만4500원에 거래되며 약세를 보였다.",
-      "최대주주의 지분 매각 계획이 공시된 직후 매도 물량이 쏟아지며 투자."
+      "코웨이의 최대주주인 넷마블이 잇따라 지분 확대에 나서며 지배구조 안정화와 주주가치 제고를 동시에 추진하고 있다.",
+      "행동주의 펀드 '얼라인파트너스가 코웨이 주식을 잇따라 매입하고 있는 가운데 최대주주로서의 영향력을 강화하는 모습이다.",
+      "넷마블과 얼라인파트너스가 동시에 지분 매입에 적극적으로 나서면서 결과적으로는 코웨이의 주주가치 제고와 기업가치 재평가에 대한 기대감도 높아지고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9cc52d6d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003719958",
-    "title": "노슬비 \"가슴 재수술? 샤먼도 예쁘게 살고싶어\"",
+    "id": "n60e87193",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153600",
+    "title": "두바이 빙수에 조각과일...대형마트, '트렌디-실속'으로 여름 입맛 잡는다",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 무속인 노슬비가 가슴 재수술 사실을 솔직하게 털어놓으며 악성 댓글에 대한 생각도 밝혔다.",
-      "노슬비는 22일 소셜미디어에 영상을 올리고 최근 자신을 둘러싼 각종 논란에 직접 입을 열었다.",
-      "그는 \"요즘 제 가슴 때문에 또 난리가 났더라."
+      "대형마트들이 여름 성수기를 맞아 오프라인만의 차별화된 먹거리 경쟁력을 대폭 강화하고 있어 눈길을 끕니다.23일 이마트는 최신 이색 디저트를 가정용 밀키트를 선보였습니다.",
+      "롯데마트는 고물가 시대 속 필수 먹거리인 과일을 소용량-가성비 구조로 재편합니다.",
+      "이마트는 최근 홈디저트 열풍과 트렌디한 식재료에 관심이 많은 소비층을 사로잡기 위해 동남아 지역의 인기 식재료인 자색 참마 '우베'와 세계적인 열풍을 일으킨 '두바이 스타일'을 접목한 이색 팥빙수."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1efa536a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003719912",
-    "title": "스틸리언, 캄보디아 KB프라삭은행에 앱 보안 솔루션 공급",
-    "summary": [
-      "[서울=뉴시스]윤정민 기자 = 국내 모바일 보안 기술이 캄보디아 금융시장에 적용된다.",
-      "국내 금융권에서 검증된 앱 위변조 방지와 보안 키패드 기술이 해외 금융사 모바일뱅킹 보안에도 쓰이게 됐다.",
-      "스틸리언은 KB국민은행 캄보디아 법인인 KB프라삭은행에 모바일 앱 보안 솔루션 '앱수트'를 공급했다고 23일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ff3ea6a",
+    "id": "n441dad82",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003720018",
-    "title": "엔비디아 독주에 도전장…AMD·앤스로픽, 수십조 AI 인프라 동맹",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153598",
+    "title": "구글도 AI투자 부담...2분기 매출 늘었지만 투자지출 확 늘었다",
     "summary": [
-      "[서울=뉴시스]박영환 기자 = 인공지능(AI) 챗봇 클로드를 개발한 앤스로픽이 AMD 칩을 기반으로 한 AI 인프라를 수십조원 규모로 확보하기로 했다.",
-      "AMD도 앤스로픽에 최대 50억달러(약 7조4000억원)를 투자하기로 했다.",
-      "AI 반도체 시장에서 엔비디아를 추격하려는 AMD와 급증한 클로드 이용 수요를 처리할 연산 자원이 필요한 앤스로픽의 이해가 맞아떨어졌다."
+      "구글 모회사 알파벳의 올해 2분기 매출이 시장 전망치를 웃돌았다.",
+      "클라우드 부문과 검색·광고 부문이 이를 견인한 것으로 드러났다.",
+      "다만, 인공지능(AI) 및 데이터센터에 대한 투자로 잉여현금흐름(FCF)이 줄어들면서 주가는 하락하는 모습을 보였다.알파벳은 22일(현지시간) 올해 2분기 매출이 1198억달러, 영업이익은 407억7000만 달러, 순이익은 1121억9000만 달러를 기록했다고 밝혔다."
     ],
     "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
+      "#AI"
     ]
   },
   {
-    "id": "na5a12b20",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723065000064",
-    "title": "동네 이웃주민 화물차로 치고 달아난 80대 체포",
+    "id": "nb3c06a18",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153601",
+    "title": "\"고객이 우선이다\"...이용자 접점 강화하는 가상자산 거래소",
     "summary": [
-      "(충주=연합뉴스) 박건영 기자 = 충북 충주경찰서는 동네 주민을 화물차로 치어 숨지게 한 뒤 현장을 벗어난 혐의(특정범죄가중처벌법상 도주치사 등..."
+      "국내 가상자산 거래소들이 거래 서비스를 제공하는 수준을 넘어 이용자 접점을 넓히기 위한 친화 서비스 전략을 펼치고 있어 주목된다.",
+      "가상자산 시장이 제도권 편입과 함께 대중화 단계에 접어들면서 이용자의 신뢰와 편의성을 높이는 데 초점을 맞추는 모습이다.",
+      "23일 업계에 따르면 코빗은 회원들에게 미래에셋그룹 편입 사실을 직접 알리며 자산 안전성을 강조했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5371535a",
+    "id": "n9182bf91",
     "category": "사회",
-    "source": "연합뉴스(경제)",
+    "source": "아시아경제",
     "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723055800530",
-    "title": "투르크메니스탄과 물 분야 협력 강화…정부 대표단 초청",
+    "url": "https://view.asiae.co.kr/article/2026072311574647570",
+    "title": "이상일 시장 \"교육은 대한민국 미래 위한 투자…지원 아끼지 않을 것\"",
     "summary": [
-      "(서울=연합뉴스) 이재영 기자 = 물 분야에서 투르크메니스탄과 협력을 강화하고자 투르크메니스탄 정부 대표단을 초청했다고 기후에너지환경부가 23일..."
+      "\"대한민국의 미래를 위해서는 교육에 대한 과감한 투자가 중요하다고 생각합니다.",
+      "교육청과 긴밀히 협력하고 특별교부금 확보 등을 통해 학생들에게 필요한 지원이 이뤄질 수 있도록 최선을 다하겠습니다.\" 이상일 용인특례시장이 학생들의 안전한 통학환경 조성과 교육환경 개선을 위한 지원 의지를 강조하며 초등학교 현장을 찾았다.",
+      "이 시장은 23일 오전 처인구 모현읍 왕산초등학교에서 학생들의 안전한 등굣길을 위한 교통지도."
     ],
     "chips": [
+      "#교육",
       "#환경"
     ]
   },
   {
-    "id": "nbcb7a33a",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723064800011",
-    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-    "summary": [
-      "[연합뉴스 이 시각 헤드라인] - 10:30."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf2c0015c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723050300530",
-    "title": "전교조 \"학생부 '복붙' 감사에 분노…현장 모르고 꼬투리 잡아\"",
-    "summary": [
-      "(서울=연합뉴스) 오보람 기자 = 전국교직원노동조합(전교조)은 최근 감사원의 서울시교육청 정기감사 결과를 두고 \"학교 현실을 외면한 결과 중심 ..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ncfa81fd0",
+    "id": "n37a8108e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003719833",
-    "title": "'학생부 복붙·과다 채용' 감사원 지적에…\"학교 현실 외면\"",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003720136",
+    "title": "美애리조나 공화당 경선서 '親트럼프' 부정선거론자 3명 승리",
     "summary": [
-      "[서울=뉴시스]정예빈 기자 = 서울시교육청 정기감사에서 교원 803명이 학교생활기록부(학생부)에 동일 내용을 작성했다는 감사원 지적이 나오자, 전국교직원노동조합(전교조)이 감사 결과 철회와 교육제도 개선을 촉구하고 나섰다.",
-      "전교조는 23일 오전 감사원 앞에서 기자회견을 열고 \"서울시교육청 정기감사 결과는 학교 현실을 외면한 결과 중심 감사\"라며 감사원에 항의서를 전달했다.",
-      "지난 20일 감사원은 '서울특별시교육청 정기감사'를 통해 총 12건의 위."
-    ],
-    "chips": [
-      "#채용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nef5d9c7f",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723065800008",
-    "title": "깜짝성장 선반영한 국고채 금리…채권시장 '8월 기준금리 인상' 촉각",
-    "summary": [
-      "(서울=연합뉴스) 강수지 기자 = 지난 2분기 한국 경제가 반도체 수출 호조에 힘입어 시장 예상을 뛰어넘는 성장세를 나타냈다."
-    ],
-    "chips": [
-      "#반도체",
-      "#금리",
-      "#수출"
-    ]
-  },
-  {
-    "id": "ne9c75784",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723065400051",
-    "title": "부산NGO, 문현금융단지 배후지역 인프라 확충 촉구",
-    "summary": [
-      "(부산=연합뉴스) 오수희 기자 = 부산시민단체협의회와 부산경실련 등은 23일 \"부산 국회의원들과 부산시는 문현금융단지 배후 지역의 슬럼화를 해결..."
+      "[서울=뉴시스] 신효령 기자 = 미국 애리조나주 공화당 예비선거에서 도널드 트럼프 대통령을 지지하는 강경 보수 후보들이 주요 공직 후보 자리를 차지했다.",
+      "2020년 대통령선거 결과에 의문을 제기하거나 이를 뒤집으려 했던 인사 3명이 본선 진출권을 따냈다.",
+      "21일(현지시간) 미국 일간 워싱턴포스트(WP)에 따르면 이날 열린 애리조나주 공화당 주지사 후보 경선에서 앤디 빅스 연방 하원의원은 73.4%의 득표율을 기록하며 데이비드 슈와이커트 하원의원."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0543efac",
+    "id": "n6f6290bd",
     "category": "경제",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/202607231012H",
-    "title": "민주당 차기 당 대표 선호도, 정청래 33.7%·김민석 22%",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/tech/2026/07/23/2026072311380792841",
+    "title": "박윤영 KT 대표 \"미디어 계열사 통합 구체화 안 돼…티빙·웨이브 합병도 요청 없어\"",
     "summary": [
-      "민주당 차기 당 대표 선호도, 정청래 33.7%·김민석 22%."
+      "박윤영 KT 대표가 최근 제기된 KT 미디어 계열사 통합설에 대해 \"구체적으로 결정된 것은 없다\"며 관련 보도를 사실상 부인했다.",
+      "티빙·웨이브 합병과 관련해서도 \"공식적으로 요청받은 것이 없다\"며 기존 입장을 재확인했다.",
+      "박 대표는 23일 서울 중구 SK텔레콤 T타워에서 열린 과학기술정보통신부와 이동통신 3사 최고경영자(CEO) 간담회 이후 기자들과 만나 최근 제기된 미디어 계열사 통합설에 대해 \"뉴스는 봤다\"며 \"시대가 변하는 만큼 여러 고민."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n58c85ef3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/2026072313257",
-    "title": "[속보] 법원, '두물머리 살인' 30대 남성에 징역 27년 선고",
+    "id": "n19711408",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003720316",
+    "title": "대구 공사장서 60대 근로자 추락 숨져",
     "summary": [
-      "[속보] 법원, '두물머리 살인' 30대 남성에 징역 27년 선고."
+      "[대구=뉴시스] 박준 기자 = 대구의 한 공사장에서 작업 중이던 근로자가 추락해 숨졌다.",
+      "23일 대구소방본부 등에 따르면 이날 오전 10시께 수성구 대흥동 한 연구소 신축 공사장에서 근로자 A(60대)씨가 건물 2층 높이에서 떨어졌다.",
+      "A씨는 출동한 119에 의해 병원으로 이송됐으나 숨졌다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "ne01cc149",
+    "id": "nb7f0bca4",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/23/2026072311543430175",
+    "title": "李대통령 \"양도세 감면 횟수 제한, 좋은 생각\"",
+    "summary": [
+      "[the300] 이재명 대통령이 \"부동산 양도세 감면 횟수를 제한하거나 첫 번째는 (감면을) 많이 해주고, 두 번째는 좀 덜 해주는 것도 아주 좋은 생각인 것 같다\"고 밝혔다.",
+      "이 대통령은 23일 서울 여의도 KBS 별관에서 열린 부동산정책 국민 대토론회에서 \"양도세 감면 기회를 무한대로 주는 것은 좀 문제가 있어 보인다.",
+      "한 번 고민해 보면 될 것 같다\"며 이같이 말했다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0dadb3c3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/07/23/G2Z736RWZBCRZB2PAJFG7TDXWA/",
+    "title": "李대통령 “사정 때문에 비거주해도 거주용이라면 실거주와 같이 취급해야”",
+    "summary": [
+      "李대통령 “사정 때문에 비거주해도 거주용이라면 실거주와 같이 취급해야”."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ncd941875",
     "category": "부동산",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/202607231279i",
-    "title": "가양동 옛 CJ공장부지에 아파트 960가구",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/23/2026072311474673940",
+    "title": "李대통령 \"1주택 '실거주용' 아닌 '거주용'이라 하자\"…이유는",
     "summary": [
-      "가양동 옛 CJ공장부지에 아파트 960가구."
+      "[the300] 이재명 대통령이 주택 한 채만 보유하고 직장 및 교육 등 불가피한 사유로 일시적으로 비거주하는 이들을 고려해 '실거주용'이라는 정책 용어를 '거주용'으로 바꾸자고 제안했다.",
+      "이 대통령은 23일 서울 여의도 KBS별관에서 진행된 부동산정책 국민 토론회에서 \"공유하자는 취지\"라며 이같이 밝혔다.",
+      "이 대통령은 \"잠깐 직장이나 애들 교육 때문에 (비주거하는 것을) 어떻게 하라는 것이냐는 지적들이 많다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n48058cd1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003720313",
+    "title": "삼별초 유적 '남해 대장군지', 경남도기념물 지정 예고",
+    "summary": [
+      "[창원=뉴시스]홍정명 기자 = 경남도가 23일 고려시대 삼별초 관련 유적인 '남해 대장군지(南海 大將軍址)'를 경상남도기념물로 지정 예고했다.",
+      "남해군 서면 서호리 일원 1만2503㎡ 규모의 '남해 대장군지'는 고려 후기 대몽항쟁의 과정에서 활동한 삼별초와 관련된 유적으로 전해지고 있다.",
+      "발굴조사 결과 삼별초 거점인 진도 용장성과 유사한 공간 구성인 5단 계단식 구조의 대지 위에 고려 중기에 조성된 건물지를 확장해 대규모 축대, 배수시설 등을 단."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n249147c2",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260723/134350592/1",
+    "title": "李 “실거주 용어, 거주용으로 바꾸자…잠깐 비어도 혜택 동일하게”",
+    "summary": [
+      "이재명 대통령이 통상 부동산 세제 혜택의 기준이 되는 실거주라는 용어를 거주용으로 바꾸고 각종 정책 혜택을 기존 실거주 주택과 동일하게 부여하는 방안을 검토하기로 했다.",
+      "이 대통령은 23일 KBS별관에서 열린 부동산 정책 국민 대토론회에서 “제가 저번 회의 때 ‘실거주라고 하지 말고 거주용이라고 하자’(고 의견을 냈다)”며 “(예를 들어) 거주용으로 가지고 있는데 잠깐 다른 사정 때문에 비거주하지만, 이건 거주용이다라고 하면 실거주와 똑같이 취."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8d6195cc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723093600530",
+    "title": "\"항암 후 남은 유방 미세석회, 전부 제거하지 않아도 된다\"",
+    "summary": [
+      "(서울=연합뉴스) 김잔디 기자 = 유방암 환자는 가슴을 절제하는 수술 전에 항암치료를 받아 종양의 크기를 최대한 줄이는 게 일반적이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a9cac7f",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003720273",
+    "title": "\"대출 많이 받으면 부담금 내자\"…'거시건전성 관리부담금' 도입 제안",
+    "summary": [
+      "[서울=뉴시스]김민수 기자 = 사회적으로 제한된 대출자원을 과도하게 사용하는 차주에게 부담금을 부과해 가계부채를 관리하는 '거시건전성 관리부담금' 도입 제안이 나왔다.",
+      "주택담보인정비율(LTV)·총부채원리금상환비율(DSR) 등 대출 한도를 일률적으로 제한하는 양적 규제를 보완해 가격규제를 통해 주택시장 안정을 유도하자는 취지다.",
+      "23일 이재명 대통령 주재로 열린 '부동산 정책 국민 대토론회'에서 이 같은 내용의 주택금융 규제 개선 방안이 제시됐다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n84031bc3",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/23/2026072311315692016",
+    "title": "\"지방 DSR 규제 배제해 달라\" 제안에 李대통령 \"정책 세분화 필요\"",
+    "summary": [
+      "[the300] 이재명 대통령이 부동산 정책과 관련해 \"타당성 있게 정책을 세분화하는 게 필요하다\"고 밝혔다.",
+      "이 대통령은 23일 서울 여의도 KBS 별관에서 열린 부동산정책 국민 대토론회에서 \"일반적 규제나 대책을 만들면 그 틈새들이 많이 생긴다\"며 이같이 밝혔다.",
+      "이어 \"효율성이 최대화되도록 (정책을) 좀 핀셋형으로, 예를 들면 그 상황에 맞춰서 좀 세분화할 필요가 있다\"며 \"정책 당국자들이 좀 어렵고 업무가 많아지긴 하겠지만 그렇게 하는."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7a1dd6e0",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260723/134349308/2",
+    "title": "인권단체 ‘아동착취’ 누명 씌워 계정 삭제…메타 “AI가 실수했다”",
+    "summary": [
+      "메타의 AI 시스템이 인권단체와 100만 팔로워 사업자 계정을 아동착취물·사기 계정으로 오인해 삭제했다가 복구한 사례가 잇따르고 있다.",
+      "전문가들은 인간 검토 절차가 필요하다고 지적한다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n5c62eba4",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723032755053",
+    "title": "관리규약 회의가 참사로…아파트 관리실 방화 폭발, 8명 부상(종합4보)",
+    "summary": [
+      "(경산=연합뉴스) 이강일 최수호 김선형 박세진 기자 = 경북 경산의 한 아파트 관리실에서 입주민 방화로 폭발·화재가 발생해 8명이 다쳤다."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "n69f42f6a",
+    "id": "n90f16cc2",
     "category": "사회",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/202607231299H",
-    "title": "[속보] 李대통령 \"정책 비난·저항 감수하며 책임지는게 공직자 덕목\"",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723092600055",
+    "title": "얼음·얼음·얼음…전주한옥마을에 무더위 식힐 '얼음길' 생긴다",
     "summary": [
-      "[속보] 李대통령 \"정책 비난·저항 감수하며 책임지는게 공직자 덕목\"."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6506d648",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "24분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/23/2QWLSJUIANHVJIFVDJ6OJ4JXWM/",
-    "title": "틱톡, 국내 브랜드 일본 진출 지원… ‘코리아-JP 크로스보더’ 출시",
-    "summary": [
-      "틱톡, 국내 브랜드 일본 진출 지원… ‘코리아-JP 크로스보더’ 출시."
+      "(전주=연합뉴스) 임채두 기자 = 전북 전주시는 전주한옥마을 곳곳에 시민과 관광객들의 무더위를 식힐 '얼음길'을 조성한다고 23일 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne34a7729",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "32분 전",
-    "url": "https://www.hankyung.com/article/202607231003i",
-    "title": "개인정보위, 틱톡·애플 105억대 과징금…이용자 몰래 개인정보 수집",
+    "id": "n6989cfe3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260723/134350557/2",
+    "title": "밥 안 주고, 개처럼 기어 다니게…사립 유치원 학대 정황에 ‘발칵’",
     "summary": [
-      "개인정보위, 틱톡·애플 105억대 과징금…이용자 몰래 개인정보 수집."
+      "대만의 한 유명 사립 유치원에서 교사들이 원아들을 상습적으로 학대한 정황이 포착됐다.",
+      "확보된 유치원 폐쇄회로(CC)TV에는 아이들을 개처럼 기어 다니게 하는 등의 충격적인 모습이 담겨 있는 것으로 전해졌다.",
+      "피해 아동의 부모들은 최근 원장과 교사들을 상대로 고소장을 제출했다.21일(현지 시간) 대만 매체 FTNN에 따르면 타이베이의 한 사립 유치원에서 아동학대 의혹이 불거졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n999a623b",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "32분 전",
-    "url": "https://www.hankyung.com/article/202607228246i",
-    "title": "\"녹십자, 백신 매출 급감으로 '실적 부진' 전망 ... 하반기에는 뒤집을 것\"",
+    "id": "n920001ef",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723094400009",
+    "title": "\"중국 지리자동차 스페인 포드 유휴공장 일부 인수\"",
     "summary": [
-      "\"녹십자, 백신 매출 급감으로 '실적 부진' 전망 ... 하반기에는 뒤집을 것\"."
+      "(서울=연합뉴스) 주종국 기자 = 중국 지리자동차가 미국 포드의 스페인 유휴 공장 일부를 인수하기로 합의했다고 블룸버그 통신이 익명의 소식통들을..."
     ],
     "chips": [
       "#뉴스"
@@ -636,21 +659,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "부동산",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정책",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
