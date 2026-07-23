@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-23 03:00:09
+// 마지막 업데이트: 2026-07-23 04:08:54
 window.NEWS_DB = [
   {
     "id": "naf809918",
     "category": "IT",
     "source": "굿모닝베트남미디어",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRGw1V1I1TTkzdUtRVU9CVk84WXFISHFNYno0cHhNbzZEcEV6cl9JVm1rTHJHQzFCT0p2RlJHUEdYY2Nwd19DSXpISGVmWUJlLXBzeTRQYzRiTTJXWTB6aG1JVElkWnp6LWhYT0YycGw?oc=5",
     "title": "[IT] 한국·미국 AI 리더 총집결…엔비디아 젠슨 황과 실리콘밸리 회동 추진",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nb70458fd",
     "category": "IT",
     "source": "beSUCCESS",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqVDZDV2FJUFRlZmJhMG44ZTBYa1M0LTZCUkEzbG1hRFFmR2xCU0J5YWJsVE14eXdGcWlMVWtHVU5QbDZteWc?oc=5",
     "title": "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최",
     "summary": [
@@ -48,11 +48,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9007875e",
+    "id": "n7d590f3c",
     "category": "경제",
     "source": "자유일보",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbWRfRHlIZjVCN2NNUTl0SUFuN3FZbDFNVkZPWHhnYXFSNUpyb0laWml6QWpCWnA5eWstRDFIU0s4b0xzSnctb3hXLWJua0JLNTNpaS11WXo5WUt0dV9YWXBXU21ab1UwcmZn0gFvQVVfeXFMTUhzV0FlZExhb1cyWjZJNGJJSEd6MDBtUG5zTExYVkhjM2ZGM2RTVzRsUXZ3MENPXzhuY3FJZVdPYVFHTW9VRXpLY0FkV0R1YUZRR3F0NmVPbFYxZkowZGdOcGVhU216MTVjams1LTc0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ic1dBZWRMYW9XMlo2STRiSUhHejAwbVBuc0xMWFZIYzNmRjNkU1c0bFF2dzBDT184bmNxSWVXT2FRR01vVUV6S2NBZFdEdWFGUUdxdDZlT2xWMWZKMGRnTnBlYVNtejE1Y2prNS03NNIBb0FVX3lxTE1Ic1dBZWRMYW9XMlo2STRiSUhHejAwbVBuc0xMWFZIYzNmRjNkU1c0bFF2dzBDT184bmNxSWVXT2FRR01vVUV6S2NBZFdEdWFGUUdxdDZlT2xWMWZKMGRnTnBlYVNtejE1Y2prNS03NA?oc=5",
     "title": "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’",
     "summary": [
       "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’ 자유일보."
@@ -217,20 +217,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79d12fb6",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "54일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
-    "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -304,17 +290,48 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4a365471",
+    "id": "n01f4c085",
     "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "136일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbDRsNzJDT3JrUU5UZ1dGREM0RndpdFlCUlFsbHhTbXNaWUtzTFpDeV9lRkw0ZnViblc3Qlh2Y055by1WWVVPZVpUR3Jpd2s?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "source": "뉴시스",
+    "time": "121일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
     "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 v.daum.net."
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "160일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
+    "id": "n3f8cfb93",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153604",
+    "title": "[써봤다] 4:3 화면비 폴더블폰은 왜 필요할까...삼성전자 '갤럭시Z폴드8'",
+    "summary": [
+      "삼성전자가 22일(현지시각) 영국 런던에서 '갤럭시 언팩'을 열고 폴더블(접는)폰 신제품 ▲갤럭시 Z폴드8 울트라 ▲갤럭시 Z폴드8 ▲갤럭시 Z플립8을 공개했다.23일 삼성전자는 서울 중구 태평로빌딩에서 언론 대상 신제품 체험회를 개최했다.Z폴드8 울트라와 Z폴드8은 책처럼 양옆으로 접히는 북형 폴더블폰이다.",
+      "Z플립8은 조개처럼 위아래로 접히는 클림쉘형 폴더블폰이다.",
+      "전자는 대화면 후자는 휴대성을 강조했다."
+    ],
+    "chips": [
+      "#삼성전자"
     ]
   },
   {
@@ -366,32 +383,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3c06a18",
-    "category": "IT",
-    "source": "테크M",
+    "id": "n4893d8ed",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153601",
-    "title": "\"고객이 우선이다\"...이용자 접점 강화하는 가상자산 거래소",
+    "url": "https://www.newsis.com/view/NISX20260723_0003720373",
+    "title": "선양 '피치우롱' 출시…복숭아·우롱차 담은 과일차 소주",
     "summary": [
-      "국내 가상자산 거래소들이 거래 서비스를 제공하는 수준을 넘어 이용자 접점을 넓히기 위한 친화 서비스 전략을 펼치고 있어 주목된다.",
-      "가상자산 시장이 제도권 편입과 함께 대중화 단계에 접어들면서 이용자의 신뢰와 편의성을 높이는 데 초점을 맞추는 모습이다.",
-      "23일 업계에 따르면 코빗은 회원들에게 미래에셋그룹 편입 사실을 직접 알리며 자산 안전성을 강조했다."
+      "[대전=뉴시스] 김양수 기자 = 충청지역 향토주류업체인 선양소주가 복숭아와 우롱차를 조합한 신개념 과일차(Tea) 소주 '선양 피치우롱'을 출시하고 과일 소주시장 공략에 나섰다.",
+      "선양소주는 선양 피치우롱을 전국 CU 편의점에서 단독 판매한다고 23일 밝혔다.",
+      "이번 신제품은 최근 2030세대를 중심으로 인기를 끌고 있는 우롱차 음료와 과일을 접목한 제품으로 기존 과일 소주의 강한 단맛 대신 복숭아의 향긋함과 우롱차의 깔끔한 맛을 동시에 즐길 수."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9182bf91",
+    "id": "n9b66198d",
     "category": "사회",
     "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026072311574647570",
-    "title": "이상일 시장 \"교육은 대한민국 미래 위한 투자…지원 아끼지 않을 것\"",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026072313065291824",
+    "title": "경기도, 22일 청소년 복지시설 '간담회 및 법률교육'",
     "summary": [
-      "\"대한민국의 미래를 위해서는 교육에 대한 과감한 투자가 중요하다고 생각합니다.",
-      "교육청과 긴밀히 협력하고 특별교부금 확보 등을 통해 학생들에게 필요한 지원이 이뤄질 수 있도록 최선을 다하겠습니다.\" 이상일 용인특례시장이 학생들의 안전한 통학환경 조성과 교육환경 개선을 위한 지원 의지를 강조하며 초등학교 현장을 찾았다.",
-      "이 시장은 23일 오전 처인구 모현읍 왕산초등학교에서 학생들의 안전한 등굣길을 위한 교통지도."
+      "경기도가정밖청소년지원센터는 청소년복지 현장의 목소리를 듣고 종사자의 안전한 근무환경을 조성하기 위해 22일 한국여성변호사회와 함께 '청소년복지시설 종사자 간담회 및 법률교육'을 진행했다.",
+      "이날 간담회에는 도내 청소년쉼터, 자립지원관, 회복지원시설 26곳 종사자가 참석해 청소년복지시설 운영 과정에서 발생하는 주요 현안과 애로사항을 공유하고 기관 간 협력 방안, 현장 지원체계 강화 방안 등을 논의했다."
     ],
     "chips": [
       "#교육",
@@ -399,130 +415,216 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n37a8108e",
+    "id": "n066ceafb",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003720136",
-    "title": "美애리조나 공화당 경선서 '親트럼프' 부정선거론자 3명 승리",
+    "url": "https://www.newsis.com/view/NISX20260723_0003720350",
+    "title": "\"통영 욕지도 물 걱정 끝\"…해수담수화 시설 10월 착공",
     "summary": [
-      "[서울=뉴시스] 신효령 기자 = 미국 애리조나주 공화당 예비선거에서 도널드 트럼프 대통령을 지지하는 강경 보수 후보들이 주요 공직 후보 자리를 차지했다.",
-      "2020년 대통령선거 결과에 의문을 제기하거나 이를 뒤집으려 했던 인사 3명이 본선 진출권을 따냈다.",
-      "21일(현지시간) 미국 일간 워싱턴포스트(WP)에 따르면 이날 열린 애리조나주 공화당 주지사 후보 경선에서 앤디 빅스 연방 하원의원은 73.4%의 득표율을 기록하며 데이비드 슈와이커트 하원의원."
+      "[창원=뉴시스]홍정명 기자 = 매년 반복된 경남 통영시 욕지도 물 걱정이 해수담수화 시설로 마침표를 찍게 됐다.",
+      "경남도는 욕지도의 안정적 생활용수 공급을 위해 10월 해수담수화 시설 공사에 착수해 내년 1월 완공할 계획이라고 23일 밝혔다.",
+      "이 사업은 경남도와 통영시가 기후에너지환경부에 욕지도 가뭄 대응 상황을 지속해서 공유하고 물 부족 문제 해소를 위해 사업 필요성을 적극적으로 건의해 국비 14억원을 조기 확보하면서 추진하는 것이다."
     ],
     "chips": [
-      "#정치"
+      "#환경"
     ]
   },
   {
-    "id": "n6f6290bd",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/tech/2026/07/23/2026072311380792841",
-    "title": "박윤영 KT 대표 \"미디어 계열사 통합 구체화 안 돼…티빙·웨이브 합병도 요청 없어\"",
+    "id": "nc7b75b67",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003719886",
+    "title": "신동 \"결혼보다 아기 갖고 싶다\" 파격 발언",
     "summary": [
-      "박윤영 KT 대표가 최근 제기된 KT 미디어 계열사 통합설에 대해 \"구체적으로 결정된 것은 없다\"며 관련 보도를 사실상 부인했다.",
-      "티빙·웨이브 합병과 관련해서도 \"공식적으로 요청받은 것이 없다\"며 기존 입장을 재확인했다.",
-      "박 대표는 23일 서울 중구 SK텔레콤 T타워에서 열린 과학기술정보통신부와 이동통신 3사 최고경영자(CEO) 간담회 이후 기자들과 만나 최근 제기된 미디어 계열사 통합설에 대해 \"뉴스는 봤다\"며 \"시대가 변하는 만큼 여러 고민."
+      "[서울=뉴시스] 남정현 기자 = 신동이 '먹친구'로 출격한다.",
+      "24일 오후 9시10분 방송되는 MBN·채널S '전현무계획4' 4회에서는 합천의 토종 흑돼지 맛집을 찾는다.",
+      "이날 전현무는 \"오늘의 먹친구는 대한민국의 고정관념을 깬 사람이자 요요의 아이콘\"이라고 소개한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n19711408",
+    "id": "ncbee1a15",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003720316",
-    "title": "대구 공사장서 60대 근로자 추락 숨져",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003720372",
+    "title": "고창군보건소, 폭염 대비 취약계층 건강관리 강화",
     "summary": [
-      "[대구=뉴시스] 박준 기자 = 대구의 한 공사장에서 작업 중이던 근로자가 추락해 숨졌다.",
-      "23일 대구소방본부 등에 따르면 이날 오전 10시께 수성구 대흥동 한 연구소 신축 공사장에서 근로자 A(60대)씨가 건물 2층 높이에서 떨어졌다.",
-      "A씨는 출동한 119에 의해 병원으로 이송됐으나 숨졌다."
+      "[고창=뉴시스] 김종효 기자 = 전북 고창군보건소가 만성질환자 및 독거노인 등 건강취약계층을 대상으로 온열질환 예방 등 맞춤형 방문건강관리 서비스를 강화한다고 23일 밝혔다.",
+      "보건소는 보건지소와 보건진료소 등에 총 40명의 방문보건 전담 요원을 배치, 방문과 안부전화를 통해 건강취약계층의 건강상태를 수시 점검하는 등 일일 상황관리에 나서고 있다.",
+      "제공하는 주요 서비스는 ▲방문 또는 전화 상담을 통한 혈압, 혈당 등 건강상태 확인 ▲폭염대비 행동."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nb7f0bca4",
+    "id": "n05a475bd",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/23/2026072311543430175",
-    "title": "李대통령 \"양도세 감면 횟수 제한, 좋은 생각\"",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026072312562664624",
+    "title": "진해 소상공인들 \"해사 이전, 상가 문 닫으란 사형선고 … 결사반대\"",
     "summary": [
-      "[the300] 이재명 대통령이 \"부동산 양도세 감면 횟수를 제한하거나 첫 번째는 (감면을) 많이 해주고, 두 번째는 좀 덜 해주는 것도 아주 좋은 생각인 것 같다\"고 밝혔다.",
-      "이 대통령은 23일 서울 여의도 KBS 별관에서 열린 부동산정책 국민 대토론회에서 \"양도세 감면 기회를 무한대로 주는 것은 좀 문제가 있어 보인다.",
-      "한 번 고민해 보면 될 것 같다\"며 이같이 말했다."
+      "정부가 기존 육·해·공군 사관학교를 통폐합해 '국군사관학교'를 대전에 설립하겠다는 계획을 밝혀 민심이 들끓는 가운데, 해군사관학교가 있는 경남 창원특례시 진해구의 소상공인들이 정부 계획 철회를 촉구하고 나섰다.",
+      "진해구소상공인연합회와 진해시민정책연대, 진해미래100년관광포럼 등은 23일 창원시청 프레스센터에서 기자회견을 열었다.",
+      "단체는 \"최근 정부와 국방부가 육해공군 사관학교를 하나로 묶어 대전 자운대에 국."
     ],
     "chips": [
-      "#부동산",
       "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0dadb3c3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/07/23/G2Z736RWZBCRZB2PAJFG7TDXWA/",
-    "title": "李대통령 “사정 때문에 비거주해도 거주용이라면 실거주와 같이 취급해야”",
-    "summary": [
-      "李대통령 “사정 때문에 비거주해도 거주용이라면 실거주와 같이 취급해야”."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncd941875",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/23/2026072311474673940",
-    "title": "李대통령 \"1주택 '실거주용' 아닌 '거주용'이라 하자\"…이유는",
-    "summary": [
-      "[the300] 이재명 대통령이 주택 한 채만 보유하고 직장 및 교육 등 불가피한 사유로 일시적으로 비거주하는 이들을 고려해 '실거주용'이라는 정책 용어를 '거주용'으로 바꾸자고 제안했다.",
-      "이 대통령은 23일 서울 여의도 KBS별관에서 진행된 부동산정책 국민 토론회에서 \"공유하자는 취지\"라며 이같이 밝혔다.",
-      "이 대통령은 \"잠깐 직장이나 애들 교육 때문에 (비주거하는 것을) 어떻게 하라는 것이냐는 지적들이 많다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
-      "#정치",
       "#교육"
     ]
   },
   {
-    "id": "n48058cd1",
+    "id": "n02e7f1e5",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003720313",
-    "title": "삼별초 유적 '남해 대장군지', 경남도기념물 지정 예고",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026072313012472594",
+    "title": "경기도, 우리동네 순환거점 19곳 조성 지원",
     "summary": [
-      "[창원=뉴시스]홍정명 기자 = 경남도가 23일 고려시대 삼별초 관련 유적인 '남해 대장군지(南海 大將軍址)'를 경상남도기념물로 지정 예고했다.",
-      "남해군 서면 서호리 일원 1만2503㎡ 규모의 '남해 대장군지'는 고려 후기 대몽항쟁의 과정에서 활동한 삼별초와 관련된 유적으로 전해지고 있다.",
-      "발굴조사 결과 삼별초 거점인 진도 용장성과 유사한 공간 구성인 5단 계단식 구조의 대지 위에 고려 중기에 조성된 건물지를 확장해 대규모 축대, 배수시설 등을 단."
+      "경기도가 마을 내 자원순환 거점 역할을 수행하는 '우리동네 순환거점'을 총 19곳 조성해 적극 지원한다.",
+      "우리동네 순환거점은 지역 주민들이 주도적으로 참여하는 마을 단위의 친환경 거점 공간이다.",
+      "주민들이 쉽게 방문해 올바른 분리배출을 실천하고 폐기물을 자원화할 수 있도록 마련된 공간으로, 획일적인 운영 방식에서 벗어나 마을 특성과 주민 공동체의 역량에 맞춘 특색 있는 자원순환 프로그램을 전개하고 있다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "ndbb711c2",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/movie/2026/07/23/G5SDAYJSGUYTKNBVGBQWIZDDGU/",
+    "title": "[공식] 우즈, 본격 배우 필모 쌓는다..이병헌X고윤정X이도현 '남벌'로 상업 영화 데뷔",
+    "summary": [
+      "[스포츠조선 조지영 기자] 무협 액션 영화 '남벌'(이모개 감독, 하이브미디어코프 제작)이 가수 겸 배우 조승연(우즈) 출연 소식을 전했다.",
+      "'남벌'은 믿고 보는 이병헌을 시작으로 대세 배우 고윤정, 이도현 캐스팅 소식을 차례로 알리며 일찍이 주목 받은 데 이어, K-아이콘의 대표 주자로 활약하고 있는 조승연이 합류해 작품에 새로운 활력을 불어넣을 것으로."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n249147c2",
+    "id": "nf9fd2c12",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/23/ME3TGMTFMVRTCYRTMY4WCYZWMQ/",
+    "title": "김태형 감독의 메시지다 → 하필 전준우 올라온 날.. 연패도 실책도 없었는데. 이례적 야수+투수 전원 심야 훈련 WHY[부산 현장]",
+    "summary": [
+      "[부산=스포츠조선 한동훈 기자] 연패도 아니다.",
+      "롯데는 22일 부산 SSG전 3대7 패배 후 이례적인 심야 추가 훈련을 실시했다.",
+      "연패가 길어지거나 타격이 침체됐을 때 '특타'는 종종 볼 수 있는 일이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4372bfdf",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723076500530",
+    "title": "강원·시멘트 원하청 상생 협약…노동자 건강권 및 복지 확충",
+    "summary": [
+      "(서울=연합뉴스) 옥성구 기자 = 강원 지역 시멘트 산업의 노동자 건강권 보호와 실질 복지 확충을 위해 원하청이 손을 맞잡기로 했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5df352d7",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026072312593668855",
+    "title": "李대통령 \"전세대출 확대, 집값 폭등 원인 돼\"…추가 규제 강화 시사",
+    "summary": [
+      "이재명 대통령은 23일 전세대출이 아파트 가격 상승과 높은 집값을 유지하는 주요 원인으로 작용했다며 관련 규제 강화를 시사했다.",
+      "전세대출의 공급 규모와 보증 비율을 전반적으로 낮추되 청년·신혼부부와 생애 최초 임차인 등 실수요자는 선별적으로 지원하는 방향도 제시했다.",
+      "이 대통령은 이날 서울 KBS별관에서 열린 '부동산 정책 국민 대토론회'에서 \"전세대출이 집값 폭등 또는 높은 집값 유지의 주원인이기 때문에 확장하."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4ccb451a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723102200061",
+    "title": "\"돈 빌려줘\" 음식점서 난동 뒤 흉기 들고 업주 추격한 30대 체포",
+    "summary": [
+      "(오산=연합뉴스) 김솔 기자 = 경기 오산경찰서는 음식점에서 난동을 부리다가 흉기를 들고 업주를 뒤쫓아가며 위협한 혐의(특수협박, 재물손괴, 업..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63853363",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723102400007",
+    "title": "클리말라 득점포 또 터질까…패배 잊은 FC서울, 울산과 격돌",
+    "summary": [
+      "(서울=연합뉴스) 안홍석 기자 = 패배를 잊은 프로축구 K리그1 선두 FC서울이 공격수 클리말라의 뜨거운 득점포를 앞세워 3연승에 도전한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8937f49c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723101900061",
+    "title": "음주운전으로 붙잡힌 40대 중국인, 마약 혐의로도 입건",
+    "summary": [
+      "(안산=연합뉴스) 강영훈 기자 = 음주운전을 하다가 차에서 잠들어 경찰에 붙잡힌 40대 중국인이 차량 내부에서 발견된 필로폰 투약 도구로 인해 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n78e5f59d",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723101400001",
+    "title": "李대통령 \"보유세강화 대체적 동의…어느 정도와 범위인지 중요\"",
+    "summary": [
+      "(서울=연합뉴스) 임형섭 황윤기 기자 = 이재명 대통령은 23일 \"보유세를 강화해야 한다는 점은 사실 대체적으로 동의하는 것\"이라며 \"그러면 어..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfaeb1660",
     "category": "부동산",
     "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260723/134350592/1",
-    "title": "李 “실거주 용어, 거주용으로 바꾸자…잠깐 비어도 혜택 동일하게”",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260723/134350634/2",
+    "title": "李대통령 “잔금대출, 정책 바뀌었다고 못 받으면 황당무계”",
     "summary": [
-      "이재명 대통령이 통상 부동산 세제 혜택의 기준이 되는 실거주라는 용어를 거주용으로 바꾸고 각종 정책 혜택을 기존 실거주 주택과 동일하게 부여하는 방안을 검토하기로 했다.",
-      "이 대통령은 23일 KBS별관에서 열린 부동산 정책 국민 대토론회에서 “제가 저번 회의 때 ‘실거주라고 하지 말고 거주용이라고 하자’(고 의견을 냈다)”며 “(예를 들어) 거주용으로 가지고 있는데 잠깐 다른 사정 때문에 비거주하지만, 이건 거주용이다라고 하면 실거주와 똑같이 취."
+      "이재명 대통령은 23일 가계대출 총량 규제 강화로 올해 입주를 앞둔 기존 주택 계약자가 어려움을 겪고 있는 것과 관련해 보완책 마련을 지시했다.",
+      "금융당국도 은행권과 협의해보겠다고 밝혔다.이 대통령은 이날 오전 서울 여의도 KBS별관 공개홀에서 열린 ‘부동산정책 국민 대토론회’에서 2년 전 실거주 목적으로 아파트 분양을 받았는데 최근 은행별 대출 한도 소진으로 잔금 대출을 받지 못했다는 일반 시민의 토로에 “저런 지적들이 꽤 있더라."
     ],
     "chips": [
       "#부동산",
@@ -531,126 +633,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8d6195cc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723093600530",
-    "title": "\"항암 후 남은 유방 미세석회, 전부 제거하지 않아도 된다\"",
-    "summary": [
-      "(서울=연합뉴스) 김잔디 기자 = 유방암 환자는 가슴을 절제하는 수술 전에 항암치료를 받아 종양의 크기를 최대한 줄이는 게 일반적이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a9cac7f",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003720273",
-    "title": "\"대출 많이 받으면 부담금 내자\"…'거시건전성 관리부담금' 도입 제안",
-    "summary": [
-      "[서울=뉴시스]김민수 기자 = 사회적으로 제한된 대출자원을 과도하게 사용하는 차주에게 부담금을 부과해 가계부채를 관리하는 '거시건전성 관리부담금' 도입 제안이 나왔다.",
-      "주택담보인정비율(LTV)·총부채원리금상환비율(DSR) 등 대출 한도를 일률적으로 제한하는 양적 규제를 보완해 가격규제를 통해 주택시장 안정을 유도하자는 취지다.",
-      "23일 이재명 대통령 주재로 열린 '부동산 정책 국민 대토론회'에서 이 같은 내용의 주택금융 규제 개선 방안이 제시됐다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n84031bc3",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/23/2026072311315692016",
-    "title": "\"지방 DSR 규제 배제해 달라\" 제안에 李대통령 \"정책 세분화 필요\"",
-    "summary": [
-      "[the300] 이재명 대통령이 부동산 정책과 관련해 \"타당성 있게 정책을 세분화하는 게 필요하다\"고 밝혔다.",
-      "이 대통령은 23일 서울 여의도 KBS 별관에서 열린 부동산정책 국민 대토론회에서 \"일반적 규제나 대책을 만들면 그 틈새들이 많이 생긴다\"며 이같이 밝혔다.",
-      "이어 \"효율성이 최대화되도록 (정책을) 좀 핀셋형으로, 예를 들면 그 상황에 맞춰서 좀 세분화할 필요가 있다\"며 \"정책 당국자들이 좀 어렵고 업무가 많아지긴 하겠지만 그렇게 하는."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7a1dd6e0",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260723/134349308/2",
-    "title": "인권단체 ‘아동착취’ 누명 씌워 계정 삭제…메타 “AI가 실수했다”",
-    "summary": [
-      "메타의 AI 시스템이 인권단체와 100만 팔로워 사업자 계정을 아동착취물·사기 계정으로 오인해 삭제했다가 복구한 사례가 잇따르고 있다.",
-      "전문가들은 인간 검토 절차가 필요하다고 지적한다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n5c62eba4",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723032755053",
-    "title": "관리규약 회의가 참사로…아파트 관리실 방화 폭발, 8명 부상(종합4보)",
-    "summary": [
-      "(경산=연합뉴스) 이강일 최수호 김선형 박세진 기자 = 경북 경산의 한 아파트 관리실에서 입주민 방화로 폭발·화재가 발생해 8명이 다쳤다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n90f16cc2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723092600055",
-    "title": "얼음·얼음·얼음…전주한옥마을에 무더위 식힐 '얼음길' 생긴다",
-    "summary": [
-      "(전주=연합뉴스) 임채두 기자 = 전북 전주시는 전주한옥마을 곳곳에 시민과 관광객들의 무더위를 식힐 '얼음길'을 조성한다고 23일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6989cfe3",
+    "id": "n17a8844e",
     "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260723/134350557/2",
-    "title": "밥 안 주고, 개처럼 기어 다니게…사립 유치원 학대 정황에 ‘발칵’",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260723/134350591/1",
+    "title": "오세훈 1심 시장직 상실형…국힘 “정치자산 잃을 위기”",
     "summary": [
-      "대만의 한 유명 사립 유치원에서 교사들이 원아들을 상습적으로 학대한 정황이 포착됐다.",
-      "확보된 유치원 폐쇄회로(CC)TV에는 아이들을 개처럼 기어 다니게 하는 등의 충격적인 모습이 담겨 있는 것으로 전해졌다.",
-      "피해 아동의 부모들은 최근 원장과 교사들을 상대로 고소장을 제출했다.21일(현지 시간) 대만 매체 FTNN에 따르면 타이베이의 한 사립 유치원에서 아동학대 의혹이 불거졌다."
+      "오세훈 서울시장이 명태균 씨로부터 여론조사 결과를 받고 비용을 제3자에게 대납하게 한 혐의(정치자금법 위반)로 1심에서 시장직 상실형인 벌금 1000만 원을 선고받자 야권에선 당혹감이 이어지고 있다.",
+      "정치적 구심점이 명확하지 않은 상황에서 대권주자인 오 시장이 끝내 시장직을 상실할 경우 2028년 총선과 이후 대선 구도가 요동칠 수 있기 때문이다.",
+      "국민의힘 내 개혁 성향 의원 모임 ‘대안과 미래’ 소속 송석준 의원은 23일 SBS 라디오에서 오."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n920001ef",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723094400009",
-    "title": "\"중국 지리자동차 스페인 포드 유휴공장 일부 인수\"",
-    "summary": [
-      "(서울=연합뉴스) 주종국 기자 = 중국 지리자동차가 미국 포드의 스페인 유휴 공장 일부를 인수하기로 합의했다고 블룸버그 통신이 익명의 소식통들을..."
-    ],
-    "chips": [
-      "#뉴스"
+      "#정치"
     ]
   }
 ];
@@ -659,21 +654,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "부동산",
-    "mentions": "2070건",
-    "trend": "+215%"
-  },
-  {
-    "rank": 2,
     "tag": "뉴스",
     "mentions": "2070건",
     "trend": "+215%"
   },
   {
+    "rank": 2,
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
+  },
+  {
     "rank": 3,
     "tag": "정책",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
