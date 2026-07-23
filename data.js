@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-23 17:29:04
+// 마지막 업데이트: 2026-07-23 18:24:34
 window.NEWS_DB = [
   {
     "id": "ndbedc620",
     "category": "IT",
     "source": "매일경제 마켓",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sQW9jNXhHS3Z5Mms4VUUwMlI0ODZmTXVFQkZueko3SVV5SFdxUFdHU3NKVGdWTDZzaFdmS0w3S3duRzUzWGdyblBaYTJneElFZXc?oc=5",
     "title": "구글 실적 나오자마자…마이클 버리, AI 순환거래 또 비판",
     "summary": [
@@ -364,10 +364,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n896706e8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260724003500087",
+    "title": "페루 중견 시인 소토, 집 앞에서 피살",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 페루의 저명한 시인이자 교육자인 후안 호세 소토 바시갈루포(63)가 자택 앞에서 피살됐다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n209d2657",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260724_0003721282",
+    "title": "페도로우 前 우크라 국방, 대통령의 ‘군혁신 담당 부총리’ 제안 거절",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 미하일로 페도로우 전 우크라이나 국방부 장관(35)이 23일 볼로디미르 젤렌스키 대통령이 제안한 ‘군사 혁신 담당 부총리’직을 거절했다.",
+      "젤렌스키 대통령은 이날 키이우에서 미셸 마틴 아일랜드 총리와 함께 기자회견을 가진 자리에서 페도로우 전 국방장관에게 ‘군사 혁신 담당 부총리’ 직책을 제안했다고 밝혔다.",
+      "젤렌스키 대통령이 새로운 직책을 만들어 제안했으나 당일 수 시간만에 거절 의사를 나타낸 것이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nb8c0ebb2",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "20분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153632",
     "title": "[카드뉴스] AI 경험 확장하는 삼성전자...갤럭시 언팩 또다른 주인공 '제미나이'",
     "summary": [
@@ -381,10 +411,110 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n29783a43",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260723_0003720167",
+    "title": "\"가족 4명이 축의금 10만원\"…직장동료 결혼식 '민폐' 논란",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자 = 직장 동료 결혼식에 가족 4명이 참석해 축의금으로 10만원을 낸 사연이 공개되면서 온라인에서 갑론을박이 벌어지고 있다.",
+      "최근 한 온라인 커뮤니티에는 '가족 4명이 가서 축의금 10만원 낸 게 그렇게 큰 죄인가요?'라는 제목의 글이 올라왔다.",
+      "글쓴이 A씨는 \"서울 강남의 한 유명 웨딩홀에서 열린 직장 동료 결혼식에 아내와 유치원생 자녀 두 명까지 가족 모두가 참석했다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6732d4b4",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/07/24/56BTZFWNGFEHRFPYP3CXNJTYWY/",
+    "title": "내 통증이 가짜였다고?… AI 강사와 ‘만성 통증’ 탈출하기",
+    "summary": [
+      "내 통증이 가짜였다고?… AI 강사와 ‘만성 통증’ 탈출하기."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n5a6bed4e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/culture-life/travel/2026/07/24/IBZ6DSFSUNG4FESFVZWGP2JF3Y/",
+    "title": "모자덮밥 오야코동(親子丼), 사치덮밥 제이타쿠동(贅沢丼)",
+    "summary": [
+      "모자덮밥 오야코동(親子丼), 사치덮밥 제이타쿠동(贅沢丼)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3beb9653",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/international/2026/07/24/LDY5JTN3L5DHDJOL4RQBYMRUFA/",
+    "title": "“인사안 건드리지 마라”… 박정희의 결정적 순간마다 나타난 백선엽",
+    "summary": [
+      "“인사안 건드리지 마라”… 박정희의 결정적 순간마다 나타난 백선엽."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfb98f96e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/07/24/42IBIMBXTJDZLHBG7CJEHL3PK4/",
+    "title": "[50화] “강동 군사를 몽땅 날릴 방도가 있습니다”",
+    "summary": [
+      "[50화] “강동 군사를 몽땅 날릴 방도가 있습니다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n441d2b14",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260724002800091",
+    "title": "통제 뚫은 AI해킹에 백악관도 주시…美하원서 '킬스위치법' 발의",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 오픈AI의 인공지능(AI) 모델이 통제망을 뚫고 개방형(오픈소스) AI 플랫폼 허깅페이스를 해킹한 사..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n35bade85",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723188952098",
+    "title": "EU, 구글에 1조5천억원 과징금…\"디지털 경쟁법 위반\"(종합2보)",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)이 미국 빅테크 구글에 8억9천만 유로(약 1조5천억원)의 과징금을 추가로 부과한다고 23일..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nf77c2277",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260724002700084",
     "title": "아세안 외교장관회의 폐막…'호르무즈 항행·비행 자유' 촉구",
     "summary": [
@@ -398,7 +528,7 @@ window.NEWS_DB = [
     "id": "n081bf2cb",
     "category": "사회",
     "source": "동아일보",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260724/134355928/1",
     "title": "트럼프 “이란 대규모 공격 결정 임박, 이스라엘 요청하면 2분내 참여”",
     "summary": [
@@ -411,39 +541,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb646d5cd",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724001600087",
-    "title": "세계은행 \"베네수엘라 지진 피해 규모 29조원\"",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 지난달 베네수엘라를 강타한 연쇄 지진에 따른 피해 규모가 196억달러(약 29조원)에 이르는 것으로 조..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd6f98bf7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "28분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/24/GZRTKZRZMEZTQMTDGI4WMNRTMM/",
-    "title": "\"연봉 335억 원 요구\" 이탈리아, 과르디올라 요구에 감독 계약 협상 '난항'",
-    "summary": [
-      "[OSEN=정승우 기자] 펩 과르디올라 감독의 이탈리아 축구대표팀 부임 가능성이 낮아지고 있다.",
-      "이탈리아축구협회(FIGC)가 이례적인 재정적 예외까지 약속했지만, 연봉을 둘러싼 입장 차이를 좁히지 못한 것으로 전해졌다.영국 '데일리 메일'은 23일(한국시간) \"펩 과르디올라 감독이 막대한 연봉을 요구하면서 이탈리아 대표팀 제안을 거절할 가능성이 커졌다\"라고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb101587e",
     "category": "경제",
     "source": "머니투데이",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/opinion/2026/07/24/2026072212334119252",
     "title": "[MT시평/김희성]한국,에너지전환은 아직 새벽이다",
     "summary": [
@@ -458,7 +559,7 @@ window.NEWS_DB = [
     "id": "nc37d3c32",
     "category": "IT",
     "source": "머니투데이",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/opinion/2026/07/24/2026072309594024251",
     "title": "中슈퍼컴, 9년만에 세계1위..韓반도체 경고음[투데이窓/박영선]",
     "summary": [
@@ -472,24 +573,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5d961ca9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260723192951071",
-    "title": "트럼프, 사우디 핵협정 하루만에 \"이스라엘 관계정상화 조건부\"(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 23일(현지시간) 사우디아라비아와의 원자력 협정 체결을 사우디의 '아브라함 협..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n742a11ea",
     "category": "사회",
     "source": "동아일보",
-    "time": "31분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260724/134355925/1",
     "title": "“내 성씨 안 따르면 혼인신고 안 해”…아내 모계 성 주장에 남편 ‘당혹’",
     "summary": [
@@ -505,7 +592,7 @@ window.NEWS_DB = [
     "id": "n8542961b",
     "category": "사회",
     "source": "동아일보",
-    "time": "32분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260724/134355922/1",
     "title": "“5년 별거했으니 불륜 아니다?”…상간녀와 여행 사진 올린 남편의 적반하장",
     "summary": [
@@ -520,7 +607,7 @@ window.NEWS_DB = [
     "id": "neb71da07",
     "category": "IT",
     "source": "동아일보",
-    "time": "32분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260724/134355919/1",
     "title": "AI에게 ‘사랑해’ 고백한 남편…“감정적 외도 아닌가요?” 온라인 갑론을박",
     "summary": [
@@ -532,40 +619,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na6e521ab",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "49분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/24/GI2DAMZUGY3TIMLCMU2GGNBWHE/",
-    "title": "\"김민준 눈에 띄게 성장 중, 외인 맞대결에서 씩씩했다\"...막내가 큰일 했다! SSG 한 달 만에 위닝 [오!쎈 부산]",
-    "summary": [
-      "[OSEN=부산, 조형래 기자] 프로야구 SSG 랜더스가 한 달 만에 위닝시리즈를 달성했다.SSG는 23일 부산 사직구장에서 열린 프로야구 정규시즌 롯데 자이언츠와의 경기에서 5-2로 승리를 거뒀다.",
-      "6월 19일~21일, 창원 NC 3연전 이후 33일 만에 위닝시리즈를 달성했다.",
-      "이날 선발 등판한 신인 김민준이 다시 한 번 인생투를 경신."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n3b98e096",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724001400071",
-    "title": "美상무, 한미조선협력에 \"미국내 선박생산량으로 평가할 것\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 하워드 러트닉 미국 상무부 장관은 23일(현지시간) 한미 조선 협력 프로젝트 '마스가(MASGA)'를 본격..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ne089c99e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "55분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260724_0003721275",
     "title": "트럼프-시진핑 정상회담 약속, 中 보잉 200대 구매 약속 이행 지지 부진",
     "summary": [
@@ -575,68 +632,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#정치"
-    ]
-  },
-  {
-    "id": "n4c4670b1",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "59분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003720493",
-    "title": "\"기상캐스터도 AI가?\"…온라인 발칵 뒤집은 날씨 영상의 정체",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 우연지 인턴기자 = 최근 온라인상에서 이른바 'SBS AI 기상캐스터’로 불린 사진이 확산하며 화제가 됐다.",
-      "지난 22일 사회관계망서비스(SNS) 엑스(X) 등에는 한 여성 기상캐스터가 날씨를 전달하는 모습이 담긴 사진이 확산했다.사진 속 인물은 실제 방송 화면처럼 기상 지도를 배경으로 날씨를 설명하는 모습으로, SNS에서는 이를 ‘SBS AI 기상캐스터’라고 소개하는 글들이 확산했다.",
-      "누리꾼들 사이에서는 \"기상캐스."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n10b4dd11",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/24/G5SWIN3BGFQWEYZZHBSDSOBUG4/",
-    "title": "\"미국 오지 말았어야 했는데…\" 한국 떠난 걸 후회하며 방출 걱정했던 거포 유망주, 어떻게 잠재력 폭발했나",
-    "summary": [
-      "[OSEN=이상학 객원기자] 미국에 온 것을 후회하며 불면의 밤을 지샜던 한국 거포 유망주의 잠재력이 마침내 터졌다.",
-      "세인트루이스 카디널스 산하 더블A 스프링필드 카디널스 소속으로 활약 중인 조원빈(20)이 20경기에서 홈런 10개를 몰아치며 폭풍 성장세를 이어갔다.",
-      "조원빈은 지난 23일(이하 한국시간) 미국 아칸소주 스프링데일 아베스트 볼파크에서 열린 노."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n554b0647",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003720949",
-    "title": "여름철 땀·열에 무너지는 피부장벽…습진 주의보",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 여름철에는 높은 기온과 습도로 인해 땀 분비가 증가하고 피부가 장시간 습한 상태에 놓이기 쉽다.",
-      "여기에 강한 자외선과 잦은 샤워, 냉방기 사용으로 인한 피부 건조까지 더해지면 피부장벽이 약해져 습진이 발생하거나 기존 증상이 악화될 수 있어 각별한 관리가 필요하다.",
-      "24일 의료계에 따르면 습진은 염증성 피부질환으로 피부장벽이 손상되면서 외부 자극에 대해 과민반응을 유발할 수 있다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n63e0e7e6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/welfare-medical/2026/07/24/IOATQC5ZUBET7ENYTBMA3O5BBQ/",
-    "title": "24시간 분만 시설에 특별 보상 신설해야",
-    "summary": [
-      "24시간 분만 시설에 특별 보상 신설해야."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -652,8 +647,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
