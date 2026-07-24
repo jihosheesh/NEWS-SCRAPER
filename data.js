@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-24 18:27:58
+// 마지막 업데이트: 2026-07-24 19:29:50
 window.NEWS_DB = [
   {
     "id": "n86abca5f",
     "category": "IT",
     "source": "아주경제",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMWptU1d1bmJhTnJMajE3Z3JFOTRtMElPUV9FQnFoZE1xdmJJX0VBOEtBcEdxTXYtVnNHV1NIb20wa1RCWWgwSkJhS3prU29YNi0yN3ptdld4QdIBWEFVX3lxTFA0cTBPazBPLVc3NGpvWGhOWkE5WmJkeVhSa1UwSjRITjl6ZHpIMjhSbzUtN1h3MFNKWmlDVHBfa2VYcG1HVnFJazdmR0FSVGJ6Ym5QMlo0V0k?oc=5",
     "title": "최태원·젠슨 황, 美서 만찬…AI 반도체 협력 확대 논의",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n2a63f4a7",
     "category": "IT",
     "source": "매일일보",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kQjMtRUxHZ3MwUGpramd5dWJreFhZLXd3NGhrRFFjUDZleDd5OUQtUE9pMFhCcjRWT0FjWEhvZ2hjdFVlZ3RZU3RYTjZ4ZWREN29TZWRVc3gxN19FSk1EZzY4eWo?oc=5",
     "title": "최태원·젠슨 황 美서 만찬… SK·엔비디아 'AI·반도체' 혈맹 강화",
     "summary": [
@@ -92,6 +92,22 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "ndda47320",
+    "category": "사회",
+    "source": "이치저널",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
+    "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
+    "summary": [
+      "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다 이치저널."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -188,6 +204,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5ace0115",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "36일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
+    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
+    "summary": [
+      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -276,20 +306,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n01f4c085",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "123일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
-    "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -305,31 +321,197 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb36dbf94",
+    "id": "n9446018b",
     "category": "사회",
-    "source": "서울특별시",
-    "time": "266일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
-    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003722877",
+    "title": "네타냐후, 28일 트럼프와 회담…이란 공격 논의 전망",
     "summary": [
-      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국과 이란의 무력 충돌이 격화되고 있는 가운데 도널드 트럼프 미국 대통령과 베냐민 네타냐후 이스라엘 총리가 내주 직접 만나 대응방안을 논의할 전망이다.",
+      "24일(현지 시간) 액시오스에 따르면 이스라엘 총리실은 네타냐후 총리가 오는 28일 백악관에서 트럼프 대통령과 회담할 예정이라고 밝혔다.",
+      "네타냐후 총리는 지난 11일 돌연 별세한 린지 그레이엄 상원의원의 장례식에 참석하기 위해 오는 27일 미국으로 출국한다."
     ],
     "chips": [
-      "#취업",
-      "#고용"
+      "#정치"
     ]
   },
   {
-    "id": "n0864b75e",
+    "id": "n318af735",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725003300075",
+    "title": "미 홍역 환자 35년 만에 최대…\"공공보건 실패\" 비난 커져",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 도널드 트럼프 미국 행정부가 백신 회의론을 펼쳐 온 가운데 미국 내 홍역 환자 수가 35년 만에 최대..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n6f1b0361",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/international/us/2026/07/25/GYCNBYJO5RDPJEULLYAG6WEJTU/",
+    "title": "트럼프, EU 과징금에 “큰 대가 치를 것”… 한국도 남 일 같지 않다",
+    "summary": [
+      "트럼프, EU 과징금에 “큰 대가 치를 것”… 한국도 남 일 같지 않다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndabf76de",
     "category": "IT",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003722874",
-    "title": "트럼프, EU 구글 과징금에 \"美기업 약탈…관세 부과\"",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260724_0003722257",
+    "title": "\"이 상품 이해하셨나요?\"…日, AI로 고령층 투자 판단 능력 평가",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령은 유럽연합(EU)이 구글에 1조원이 넘는 과징금을 부과한 것을 \"미국 기업들을 약탈하는 관행\"이라 규정하고 보복성 관세 부과를 예고했다.",
-      "트럼프 대통령은 24일(현지 시간) 소셜미디어(SNS) 트루스소셜에 EU의 구글 과징금이 부당하다며 \"미국 기업들과 나아가 미국 납세자들을 '약탈'하는 관행에 대해 우리가 즉시 301조 조사에 착수할 것\"이라고 밝혔다.",
-      "EU 집행위원회는 전날 디지."
+      "[서울=뉴시스]박세은 인턴 기자 = 일본 정부가 고령층의 금융 투자 활성화를 목표로 투자 판단 능력을 인공지능(AI)로 평가하는 검사 도구 개발에 나선다.",
+      "지난 23일(현지 시각) 니혼게이자이신문 보도에 따르면 일본 후생노동성은 금융청, 소비자청과 힘을 모아 고령 투자자의 인지 능력을 평가하는 AI 기반 검사 도구를 선보이기로 했다.",
+      "개발에는 게이오대 연구진과 노년기 의학 전문 연구기관이 참여하는 것으로 알려졌다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n096e62b6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260724_0003722053",
+    "title": "\"친구 데려오면 120만원 혜택\"…관광객 줄자 '파격 보상' 내건 두바이",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 중동 지역 긴장 여파로 관광객 감소를 겪고 있는 두바이가 해외에 사는 가족이나 친구를 초청한 주민에게 최대 3000디르함(약 120만원) 상당의 호텔·식사·관광 혜택을 제공하는 파격적인 관광 유치 정책을 내놨다.",
+      "해당 제도는 시행 이틀 만에 신청자가 1만건을 넘어서며 예상보다 큰 관심을 끌고 있다.",
+      "24일(현지 시간) 영국 가디언과 아랍에미리트(UAE) 경제 매체 아라비안비즈니스 등에 따르면 두바이 경제관광부."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "na46e8c5c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/25/MQ4GGODCMJTGGNLGGBTGIMJWGA/",
+    "title": "100억 타자 부상 공백 없다…7득점 빅이닝→3연승 질주, 감독이 콕 찍은 선수는 3실점 선발 “박준영이 본인 역할 했다”",
+    "summary": [
+      "[OSEN=대전, 한용섭 기자] 프로야구 한화 이글스가 3연승을 달렸다.",
+      "이제 5할 승률에 1개 차로 다가섰다.",
+      "한화는 24일 대전 한화생명볼파크에서 열린 LG와 경기에서 8-4로 승리했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n3b2f1669",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725001952071",
+    "title": "트럼프 \"EU '美기업 약탈'에 301조 관세…큰 대가 치르게 될 것\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 24일(현지시간) 유럽연합(EU)이 구글에 거액의 과징금을 부과한 데 대해 무..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n511b17e1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725003600079",
+    "title": "이란 매체 \"미군, 오만해서 LPG 운반선에 미사일 공격\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미군이 오만해에서 액화석유가스(LPG) 운반선에 2발의 미사일을 쐈다고 이란 반관영 파르스 통신이 소식통을..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n94291009",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003722876",
+    "title": "\"美국방, 내주 英과 '호르무즈 개방 국제연합' 고위급 회담\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부가 내주 영국과 고위급 회담을 열고 호르무즈 해협 자유 개방을 위한 국제 협력을 논의할 예정이라는 미국 언론 보도가 나왔다.",
+      "액시오스는 24일(현지 시간) 유럽 외교관 2명, 소식통 2명을 인용해 \"미국과 영국이 내주 런던에서 호르무즈 해협 해운 보호를 위한 국제 연합체 구성을 논의하는 회의를 개최하는 방안을 추진하고 있다\"고 보도했다.",
+      "미국에서는 피트 헤그세스 국방장관과 댄 케인 합동참."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne1240c75",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/25/GRRWEMJXMVQTSZJZMZRDIM3EMU/",
+    "title": "\"홍명보 뒤 이을 유력 후보\" 차기 사령탑 가능성 급부상...르나르, 2년 만에 韓 축구와 재연결 \"곧 결정될 가능성 크다\"",
+    "summary": [
+      "[OSEN=고성환 기자] 에르베 르나르(58) 감독이 다시 한번 대한민국 축구대표팀과 연결되고 있다.",
+      "여러 국가의 러브콜을 받고 있는 그가 한국 차기 사령탑 유력 후보 중 한 명이라는 소식이다.프랑스 '풋 메르카토'는 23일(한국시간) \"르나르는 여전히 뜨거운 관심을 받고 있다.",
+      "2026 월드컵 기간 튀니지 대표팀을 잠시 맡았던 그는 지금도 여러 곳에서 강."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3ca819bf",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260724167351085",
+    "title": "유럽 산불에 9만여명 대피…스페인, 국가 비상사태 선포(종합)",
+    "summary": [
+      "(런던·파리=연합뉴스) 김지연 송진원 특파원 = 유럽에서 산불이 계속 확산하면서 주민과 여름 휴양객 9만2천명이 대피했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n420fe1ba",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "49분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/25/GQ3WCMDFHE2DMNBVGM4GMYZVMQ/",
+    "title": "'안타-안타-안타-홈런' 1904일 만의 4안타인데 3연패라니...'동희 자이언츠'가 달갑지 않았던 날",
+    "summary": [
+      "[OSEN=부산, 조형래 기자] 프로야구 롯데 자이언츠가 3연패 수렁에 빠졌다.",
+      "4번 타자 한동희가 올 시즌 손에 꼽을 활약을 펼쳤지만 뒷받침 해줄 만한 선수가 없었다.",
+      "‘동희 자이언츠’라는 썩 달갑지 않은 칭호가 붙을 만한 경기였다.롯데는 24일 부산 사직구장에서 열린 프로야구 정규시즌 KT 위즈와의 경기에서 4-5로 석패했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n121bc042",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "53분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362593/1",
+    "title": "트럼프, EU 구글 과징금에 “美기업 약탈…관세 부과”",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 유럽연합(EU)이 구글에 1조원이 넘는 과징금을 부과한 것을 “미국 기업들을 약탈하는 관행”이라 규정하고 보복성 관세 부과를 예고했다.트럼프 대통령은 24일(현지 시간) 소셜미디어(SNS) 트루스소셜에 EU의 구글 과징금이 부당하다며 “미국 기업들과 나아가 미국 납세자들을 ‘약탈’하는 관행에 대해 우리가 즉시 301조 조사에 착수할 것”이라고 밝혔다.",
+      "EU 집행위원회는 전날 디지털시장법(DMA) 위반을 이유로 구글에."
     ],
     "chips": [
       "#정치"
@@ -339,7 +521,7 @@ window.NEWS_DB = [
     "id": "n48be6b27",
     "category": "사회",
     "source": "동아일보",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260725/134362590/1",
     "title": "“바레인·쿠웨이트, 최근 이란에 최초로 반격 공습” WSJ",
     "summary": [
@@ -354,7 +536,7 @@ window.NEWS_DB = [
     "id": "n6352cebf",
     "category": "경제",
     "source": "동아일보",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260725/134362585/1",
     "title": "“韓 투자자 ‘도박꾼’, 카지노서 빼내기 어렵다”…英 외신 경고",
     "summary": [
@@ -368,7 +550,7 @@ window.NEWS_DB = [
     "id": "n28132b8b",
     "category": "경제",
     "source": "동아일보",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260725/134362582/1",
     "title": "“돌이라고 속였다”…중국인 일당, 美 거북이 500마리 이상 불법 수출",
     "summary": [
@@ -380,94 +562,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n751a1582",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003722875",
-    "title": "[속보]트럼프, EU 구글 과징금에 \"도둑질…상당한 관세 부과\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n695bdc20",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "24분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/25/2026072502561875500",
-    "title": "\"2천만 원인 줄\" 던, 5만원 원목 가구에 500만원 올드카 공개",
-    "summary": [
-      "가수 던이 고전적인 가구와 차량을 공개하며 소신있는 감각을 드러냈다.",
-      "24일 방영된 MBC '나 혼자 산다' 657회에서는 가수 던이 출연해 집에서 보내는 일상을 공개했다.",
-      "이날 던이 공개한 집은 2층 단독주택으로 고전적인 가구들과 오브제들이 눈길을 끌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6dc6c312",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/07/25/C7FITLXOERHA5GIVF6KKEQGAII/",
-    "title": "제임스 본드의 식전주… 다홍빛 ‘아메리카노’의 계절이 왔다",
-    "summary": [
-      "제임스 본드의 식전주… 다홍빛 ‘아메리카노’의 계절이 왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2ed2916e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/07/25/JOGUAGWGIRCGXOEL7NEFO463VU/",
-    "title": "그 많은 자본·인구로도 쉽지 않네… 중국이 ‘축구 굴기’ 실패한 까닭은",
-    "summary": [
-      "그 많은 자본·인구로도 쉽지 않네… 중국이 ‘축구 굴기’ 실패한 까닭은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c9cdcda",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/international/2026/07/25/W4WTCAAAXJB7TLUYB4Q4JMHKQ4/",
-    "title": "부처님은 네팔인인가, 인도인인가… 지옥길 달려 그 답을 찾으라",
-    "summary": [
-      "부처님은 네팔인인가, 인도인인가… 지옥길 달려 그 답을 찾으라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5735738a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/25/6OKHFSGLF5CSDM66KQGCP3HXEM/",
-    "title": "성형하느라 아내가 진 빚만 1억2000만원…",
-    "summary": [
-      "성형하느라 아내가 진 빚만 1억2000만원…."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n3f55514d",
     "category": "IT",
     "source": "테크M",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153675",
     "title": "식약처 회수 공표 오류에 소비자 혼란…정상 치약까지 '리콜 대상' 안내",
     "summary": [
@@ -479,85 +577,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7c4bed26",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "43분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/25/2026072502401688658",
-    "title": "던, 희소병 '만성부신증후군' 고백 \"햇빛 많이 봐야…\"",
-    "summary": [
-      "가수 던이 '만성부신증후군'을 고백하며 햇볕을 자연스럽게 많이 쬐는 일상을 공유했다.",
-      "24일 방영된 MBC '나 혼자 산다' 657회에서는 가수 던이 혼자 사는 단독주택에서 반려견과 일상을 보내는 모습이 그려졌다.",
-      "영상 속 던은 햇살이 가득 들어오는 방 안에서 일어나 반려견 '햇살이'와 인사를 나눴다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74d6089d",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725002100091",
-    "title": "빅테크, 개방형AI 규제반대 서한…\"개방생태계에 美지배력 달려\"",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 엔비디아를 비롯한 미국의 주요 기술기업이 도널드 트럼프 행정부의 개방형(오픈소스) 인공지능(AI) 모..."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n6ac1965a",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "58분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725001951071",
-    "title": "트럼프 \"EU '美기업 약탈'에 301조 관세…큰 대가 치르게 될 것\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 24일(현지시간) 유럽연합(EU)이 구글에 거액의 과징금을 부과한 데 대해 무..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nad599c17",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725002000087",
-    "title": "美가 원했던 '디아블로'…코스타리카 최악 수배범 잡혔다",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국이 거액의 현상금을 걸었던 코스타리카 최악의 범죄자 알레한드로 아리아스 몽헤(41)가 현지 경찰에 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d533c1f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362577/1",
-    "title": "폭우로 도시 마비됐는데…허리까지 찬 물 헤치고 병원 간 中 의사",
-    "summary": [
-      "기록적인 폭우로 도시 곳곳이 침수된 상황에서도 예정된 수술을 위해 허리 높이까지 차오른 물속을 걸어 병원으로 향한 중국 의사의 사연이 온라인에서 화제를 모으고 있다.23일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP) 보도에 따르면 지난 13일 중국 랴오닝성 선양에는 하루 동안 230㎜의 폭우가 쏟아졌다.",
-      "현지 당국은 1951년 기상 관측 이후 가장 많은 비가 내렸다고 밝혔으며 도로 상당수가 물에 잠기고 대중교통 운행도 사실상 중단됐다.당국은."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "n8cacd14a",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153671",
     "title": "韓 진출 공식 선언한 젠스파크...\"3년간 1억달러 투자하고 지사 설립할 것\"",
     "summary": [
@@ -570,22 +593,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n897de36d",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725001900071",
-    "title": "[속보] 트럼프, EU 구글 과징금에 '무역법 301조 관세' 위협",
-    "summary": [],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
     "id": "n45464988",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153665",
     "title": "카카오웹툰 신작, 네이버웹툰과 유사성 논란...업데이트 중단·사실관계 파악 착수",
     "summary": [
@@ -602,7 +613,7 @@ window.NEWS_DB = [
     "id": "na7280e03",
     "category": "IT",
     "source": "한경IT",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607255223i",
     "title": "신진서가 바둑판 위에 남긴 'AI 시대의 답' [조수영의 구설(球說)]",
     "summary": [
@@ -613,19 +624,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0460c828",
+    "id": "na4e81cc4",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/25/2026072500034050610",
-    "title": "윔블던 미녀 '파격 변신' 망사 레깅스+엉덩이춤에 팬들 '충격'... 코스튜크, 박물관 유니폼 벗고 \"30만원 드레스 완판\"",
+    "source": "테크M",
+    "time": "3시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153670",
+    "title": "법원, 최태원 회장 재산분할 9440억원 판결...최태원 측 \"검토 후 재상고 결정\"",
     "summary": [
-      "'테니스 스타' 마르타 코스튜크(24·우크라이나)가 망사 레깅스를 입고 엉덩이를 흔드는 파격적인 춤사위를 선보여 팬들의 이목을 끌었다.",
-      "영국 '더선'은 24일(한국시간) \"코스튜크가 스페인에서 망사 레깅스를 입고 엉덩이를 흔들며 매력을 뽐냈고, 이를 본 팬들은 '눈부시다'고 열광했다\"고 보도했다.",
-      "보도에 따르면 코스튜크가 휴가지에서 착용한 150파운드(약 30만원) 상당의 의상은 이미 매진됐다."
+      "법원이 최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 이혼 소송에 대해 9440억원의 재산분할을 명했다.",
+      "SK그룹 주식도 재산분할에 포함됐다.",
+      "최태원 회장 측은 판결문을 면밀히 검토한 뒤 재상고 여부를 결정할 계획이다.24일 서울고등법원은 최태원 회장과 노소영 관장의 재산분할 소송 파기환송심 선고에서 최 회장이 노 관장에게 재산분할로 9440억원을 지급하라고 판결했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   }
 ];
@@ -634,15 +645,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
