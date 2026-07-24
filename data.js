@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-24 17:30:00
+// 마지막 업데이트: 2026-07-24 18:27:58
 window.NEWS_DB = [
   {
     "id": "n86abca5f",
     "category": "IT",
     "source": "아주경제",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMWptU1d1bmJhTnJMajE3Z3JFOTRtMElPUV9FQnFoZE1xdmJJX0VBOEtBcEdxTXYtVnNHV1NIb20wa1RCWWgwSkJhS3prU29YNi0yN3ptdld4QdIBWEFVX3lxTFA0cTBPazBPLVc3NGpvWGhOWkE5WmJkeVhSa1UwSjRITjl6ZHpIMjhSbzUtN1h3MFNKWmlDVHBfa2VYcG1HVnFJazdmR0FSVGJ6Ym5QMlo0V0k?oc=5",
     "title": "최태원·젠슨 황, 美서 만찬…AI 반도체 협력 확대 논의",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n2a63f4a7",
     "category": "IT",
     "source": "매일일보",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kQjMtRUxHZ3MwUGpramd5dWJreFhZLXd3NGhrRFFjUDZleDd5OUQtUE9pMFhCcjRWT0FjWEhvZ2hjdFVlZ3RZU3RYTjZ4ZWREN29TZWRVc3gxN19FSk1EZzY4eWo?oc=5",
     "title": "최태원·젠슨 황 美서 만찬… SK·엔비디아 'AI·반도체' 혈맹 강화",
     "summary": [
@@ -174,6 +174,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n207a7abe",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "31일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
+    "summary": [
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -215,20 +229,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "n37646dcf",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "57일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
-    "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -320,10 +320,154 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0864b75e",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003722874",
+    "title": "트럼프, EU 구글 과징금에 \"美기업 약탈…관세 부과\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령은 유럽연합(EU)이 구글에 1조원이 넘는 과징금을 부과한 것을 \"미국 기업들을 약탈하는 관행\"이라 규정하고 보복성 관세 부과를 예고했다.",
+      "트럼프 대통령은 24일(현지 시간) 소셜미디어(SNS) 트루스소셜에 EU의 구글 과징금이 부당하다며 \"미국 기업들과 나아가 미국 납세자들을 '약탈'하는 관행에 대해 우리가 즉시 301조 조사에 착수할 것\"이라고 밝혔다.",
+      "EU 집행위원회는 전날 디지."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n48be6b27",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362590/1",
+    "title": "“바레인·쿠웨이트, 최근 이란에 최초로 반격 공습” WSJ",
+    "summary": [
+      "이란의 미국 겨냥 보복 공격에 집중적으로 노출돼 있는 바레인과 쿠웨이트가 최근 이란에 공군 전력을 보내 반격을 가했다고 월스트리트저널(WSJ)이 보도했다.WSJ은 24일(현지 시간) 복수의 소식통을 인용해 “바레인과 쿠웨이트가 이달 초(earlier this month) 전투기를 비밀리에 출격시켜 이란 군사시설을 공격했다”고 전했다.다만 바레인·쿠웨이트 정부는 사실 확인을 거부했다.",
+      "WSJ은 보도에서 정확한 공격 시점, 이란군 피해, 미군 공동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6352cebf",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362585/1",
+    "title": "“韓 투자자 ‘도박꾼’, 카지노서 빼내기 어렵다”…英 외신 경고",
+    "summary": [
+      "영국 경제지 이코노미스트가 최근 급등락을 반복하는 한국 증시와 개인투자자의 공격적인 레버리지 투자를 지적하며 “카지노와 같다”고 평가했다.지난 23일(현지 시간) 영국 이코노미스트는 최근 한국 증시의 급격한 변동과 개인투자자의 레버리지 투자를 집중적으로 조명했다.이코노미스트는 “한국 투자자들에게는 그야말로 파란만장한 여정이었다”며 “코스피지수는 2025년 초 이후 거의 3배로 뛰었지만 지난 6월 이후 약 25％ 하락했다”고 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n28132b8b",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362582/1",
+    "title": "“돌이라고 속였다”…중국인 일당, 美 거북이 500마리 이상 불법 수출",
+    "summary": [
+      "중국인 2명이 미국 토종 거북이 500마리 이상을 홍콩으로 불법 수출한 사실이 알려졌다.24일 홍콩 사우스차이나모닝포스트(SCMP) 등에 따르면 미국 법무부는 뉴욕 스태튼아일랜드에 거주하는 중국인 호킨컹과 마리화오언은 필요한 허가와 신고 없이 미국 토종 거북이를 홍콩으로 보낸 혐의로 기소했다고 밝혔다.",
+      "법원 문서에 따르면 두 사람은 동부상자거북, 서부상자거북, 세발가락상자거북 등 미국 토종 거북이 여러 종을 불법 수출한 것으로 파악됐다.호씨는."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n751a1582",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003722875",
+    "title": "[속보]트럼프, EU 구글 과징금에 \"도둑질…상당한 관세 부과\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n695bdc20",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "24분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/25/2026072502561875500",
+    "title": "\"2천만 원인 줄\" 던, 5만원 원목 가구에 500만원 올드카 공개",
+    "summary": [
+      "가수 던이 고전적인 가구와 차량을 공개하며 소신있는 감각을 드러냈다.",
+      "24일 방영된 MBC '나 혼자 산다' 657회에서는 가수 던이 출연해 집에서 보내는 일상을 공개했다.",
+      "이날 던이 공개한 집은 2층 단독주택으로 고전적인 가구들과 오브제들이 눈길을 끌었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6dc6c312",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/07/25/C7FITLXOERHA5GIVF6KKEQGAII/",
+    "title": "제임스 본드의 식전주… 다홍빛 ‘아메리카노’의 계절이 왔다",
+    "summary": [
+      "제임스 본드의 식전주… 다홍빛 ‘아메리카노’의 계절이 왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ed2916e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/07/25/JOGUAGWGIRCGXOEL7NEFO463VU/",
+    "title": "그 많은 자본·인구로도 쉽지 않네… 중국이 ‘축구 굴기’ 실패한 까닭은",
+    "summary": [
+      "그 많은 자본·인구로도 쉽지 않네… 중국이 ‘축구 굴기’ 실패한 까닭은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c9cdcda",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/international/2026/07/25/W4WTCAAAXJB7TLUYB4Q4JMHKQ4/",
+    "title": "부처님은 네팔인인가, 인도인인가… 지옥길 달려 그 답을 찾으라",
+    "summary": [
+      "부처님은 네팔인인가, 인도인인가… 지옥길 달려 그 답을 찾으라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5735738a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/25/6OKHFSGLF5CSDM66KQGCP3HXEM/",
+    "title": "성형하느라 아내가 진 빚만 1억2000만원…",
+    "summary": [
+      "성형하느라 아내가 진 빚만 1억2000만원…."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n3f55514d",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "39분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153675",
     "title": "식약처 회수 공표 오류에 소비자 혼란…정상 치약까지 '리콜 대상' 안내",
     "summary": [
@@ -335,10 +479,56 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n7c4bed26",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "43분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/25/2026072502401688658",
+    "title": "던, 희소병 '만성부신증후군' 고백 \"햇빛 많이 봐야…\"",
+    "summary": [
+      "가수 던이 '만성부신증후군'을 고백하며 햇볕을 자연스럽게 많이 쬐는 일상을 공유했다.",
+      "24일 방영된 MBC '나 혼자 산다' 657회에서는 가수 던이 혼자 사는 단독주택에서 반려견과 일상을 보내는 모습이 그려졌다.",
+      "영상 속 던은 햇살이 가득 들어오는 방 안에서 일어나 반려견 '햇살이'와 인사를 나눴다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74d6089d",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725002100091",
+    "title": "빅테크, 개방형AI 규제반대 서한…\"개방생태계에 美지배력 달려\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 엔비디아를 비롯한 미국의 주요 기술기업이 도널드 트럼프 행정부의 개방형(오픈소스) 인공지능(AI) 모..."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n6ac1965a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "58분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725001951071",
+    "title": "트럼프 \"EU '美기업 약탈'에 301조 관세…큰 대가 치르게 될 것\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 24일(현지시간) 유럽연합(EU)이 구글에 거액의 과징금을 부과한 데 대해 무..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nad599c17",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260725002000087",
     "title": "美가 원했던 '디아블로'…코스타리카 최악 수배범 잡혔다",
     "summary": [
@@ -349,26 +539,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n32297b65",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/25/MUYDGN3BGFSTMMZZGQ4GEMRZMM/",
-    "title": "상승세 탄 SSG, 구창모 무너뜨리고 3연승 질주…해치 2승째 [인천 리뷰]",
-    "summary": [
-      "[OSEN=손찬익 기자] 프로야구 SSG 랜더스가 NC 다이노스를 누르고 3연승을 달렸다.",
-      "SSG는 지난 24일 인천 SSG랜더스필드에서 열린 홈경기에서 7-3으로 승리했다.",
-      "지난 22일 사직 롯데 자이언츠전 이후 3연승 질주."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n8d533c1f",
     "category": "사회",
     "source": "동아일보",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260725/134362577/1",
     "title": "폭우로 도시 마비됐는데…허리까지 찬 물 헤치고 병원 간 中 의사",
     "summary": [
@@ -383,7 +557,7 @@ window.NEWS_DB = [
     "id": "n8cacd14a",
     "category": "IT",
     "source": "테크M",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153671",
     "title": "韓 진출 공식 선언한 젠스파크...\"3년간 1억달러 투자하고 지사 설립할 것\"",
     "summary": [
@@ -399,7 +573,7 @@ window.NEWS_DB = [
     "id": "n897de36d",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260725001900071",
     "title": "[속보] 트럼프, EU 구글 과징금에 '무역법 301조 관세' 위협",
     "summary": [],
@@ -408,120 +582,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n746b53a3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/25/GFRDQNJTMM3TINZYGFRDMNBTHE/",
-    "title": "'결국, 실패한 지도자를 데려오나' HERE WE GO 속보! 안첼로티-과르디올라에 연달아 거절당한 이탈리아축구협회, 피를로와 국대 감독 협상 중..'3순위와 4년 협상 중'",
-    "summary": [
-      "[스포츠조선 노주환 기자]이탈리아 국가대표 미드필더 출신 안드레아 피를로가 차기 이탈리아 축구 대표팀 사령탑 후보 1순위로 급부상했다.",
-      "당초 그는 사령탑 후보 최상단에 오르지 못했다.",
-      "카를로 안첼로티와 펩 과르디올라가 이탈리아축구협회의 제안을 거절했기 때문이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf2e241e2",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260725/134362574/1",
-    "title": "우승 기쁨도 잠시…스페인 월드컵 상금 733억 중 세금이 220억?",
-    "summary": [
-      "2026 북중미 월드컵 우승으로 5000만달러(약 733억원)의 상금을 확보한 스페인 축구 대표팀이 뜻밖의 세금 문제에 직면했다.미국에서 열린 경기와 관련해 발생한 소득으로 분류될 경우, 우승 상금 일부가 미국 국세청(IRS)의 원천징수 대상이 될 수 있다는 전망이 나왔다.23일(현지 시간) 영국 매체 더 선은 “스페인이 월드컵 우승으로 받은 5000만달러를 모두 가져가기는 어려울 수 있다”며 미국 세법 적용 가능성을 보도했다.스페인은 지난 1."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n32170393",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/07/25/MU4TIY3EMQZWEYZYHEZWCN3GMI/",
-    "title": "\"내 마지막 선택은 필라델피아\" 르브론 제임스, 2년 800만 달러에 필라델피아 전격 입단…통산 5번째 우승 도전",
-    "summary": [
-      "[OSEN=서정환 기자] '킹' 르브론 제임스(42)가 마지막 우승 도전을 위해 새로운 팀을 선택했다.ESPN은 24일(한국시간) \"르브론 제임스가 필라델피아 세븐티식서스와 2년 총액 800만 달러(약 110억 원) 계약을 맺는다\"고 보도했다.",
-      "계약에는 선수 옵션이 포함됐다.지난 시즌 LA 레이커스에서 약 5300만 달러(약 774억 원)를 받은 르브론은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc633f780",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003722872",
-    "title": "이란 외무 \"호르무즈 문제 미해결시 임시 휴전 불가\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부와 13일 연속 무력 충돌을 이어온 이란 정부가 호르무즈 해협 관련 이란 입장이 관철되지 않는 한 임시 휴전을 수용하지 않는다는 입장을 밝혔다.",
-      "알자지라, 아나돌루통신 등이 이란 타스님통신을 인용한 보도에 따르면 아바스 아라그치 외무장관은 24일(현지 시간) 키르기스스탄에서 열린 상하이협력기구(SCO) 외무장관회의 중 기자들과 만나 \"호르무즈 해협과 관련한 우리 요구가 충족되지 않는 한,."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n06c50429",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003722871",
-    "title": "김용범 \"美 AI 서밋에서 삼성·하닉 반도체 계약 발표…빅테크와 AIDC 협약도\"(종합)",
-    "summary": [
-      "[서울=뉴시스]김경록 기자 = 김용범 청와대 정책실장은 24일 이재명 대통령과 한미 양국을 대표하는 반도체·빅테크 CEO들이 미국 샌프란시스코에 모이는 'AI 서밋' 행사에 대해 \"대규모 AIDC(AI데이터센터) 구축 관련 글로벌 기업들로 수요처가 확정된 것이 나오고, 메모리는 삼성과 하이닉스가 각각 특정 반도체 얼마를 새로 장기 계약을 하기로 했다\"고 밝혔다.",
-      "청와대에 따르면, 김 실장은 전날 외신기자 간담회에서 \"지난 번 3대 메가 프로젝트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3a55823c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260725/134362570/1",
-    "title": "“둘 중 누가 더 잘 던지나” 트럼프 돌발 질문에 오타니·야마모토 빵 터졌다",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 백악관을 찾은 로스앤젤레스 다저스 선수단에게 오타니 쇼헤이와 야마모토 요시노부 중 누가 더 뛰어난 투수인지 묻는 돌발 질문을 던져 폭소가 터졌다.23일(현지시간) 뉴욕포스트 등 외신 보도에 따르면 이날 다저스 선수단은 미국 워싱턴DC 백악관 로즈가든에서 열린 월드시리즈 우승 기념행사에 참석했다.",
-      "지난해에 이어 2년 연속 백악관을 방문한 자리였다.",
-      "트럼프 대통령은 목요일 열린 야외 행사에서 선수단을 반갑게 맞으며 몇."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf87e406d",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362565/1",
-    "title": "“혀로 스마트폰 조작한다”…입안에 넣는 ‘마우스패드’ 등장",
-    "summary": [
-      "혀와 머리의 미세한 움직임만으로 스마트폰과 컴퓨터를 조작할 수 있는 웨어러블 기기가 등장했다.",
-      "미국 스타트업 어그멘탈은 23일(현지 시간) 관련 영상을 사회관계망서비스(SNS)에 공개했다.",
-      "오그멘탈이 개발한 ‘마우스패드’는 입안에 착용하는 터치패드 형태의 입력 장치로 혀와 머리의 움직임을 감지해 스마트폰·태블릿·PC의 커서를 제어할 수 있는 장치다."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n45464988",
     "category": "IT",
     "source": "테크M",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153665",
     "title": "카카오웹툰 신작, 네이버웹툰과 유사성 논란...업데이트 중단·사실관계 파악 착수",
     "summary": [
@@ -535,38 +599,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naa99974f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "50분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725001400071",
-    "title": "'총격 파행' 백악관기자단 만찬 오늘 재개…트럼프, 보안강화 속 참석",
+    "id": "na7280e03",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202607255223i",
+    "title": "신진서가 바둑판 위에 남긴 'AI 시대의 답' [조수영의 구설(球說)]",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 24일(현지시간) 총격 사건으로 파행했다가 다시 열리는 백악관출입기자협회(WH..."
+      "신진서가 바둑판 위에 남긴 'AI 시대의 답' [조수영의 구설(球說)]."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc7a8b668",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "53분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725001700098",
-    "title": "'월드컵 8강' 벨기에 축구팀 감독에 네덜란드 '전설' 판 보멀",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 전설적인 수비형 미드필더로 이름을 날린 네덜란드 축구 레전드 마르크 판 보멀(49)이 벨기에 축구 대표팀 ..."
-    ],
-    "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
     "id": "n0460c828",
     "category": "경제",
     "source": "머니투데이",
-    "time": "58분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/07/25/2026072500034050610",
     "title": "윔블던 미녀 '파격 변신' 망사 레깅스+엉덩이춤에 팬들 '충격'... 코스튜크, 박물관 유니폼 벗고 \"30만원 드레스 완판\"",
     "summary": [
@@ -577,67 +627,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "na4e81cc4",
-    "category": "경제",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153670",
-    "title": "법원, 최태원 회장 재산분할 9440억원 판결...최태원 측 \"검토 후 재상고 결정\"",
-    "summary": [
-      "법원이 최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 이혼 소송에 대해 9440억원의 재산분할을 명했다.",
-      "SK그룹 주식도 재산분할에 포함됐다.",
-      "최태원 회장 측은 판결문을 면밀히 검토한 뒤 재상고 여부를 결정할 계획이다.24일 서울고등법원은 최태원 회장과 노소영 관장의 재산분할 소송 파기환송심 선고에서 최 회장이 노 관장에게 재산분할로 9440억원을 지급하라고 판결했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5603c13b",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/25/2026072413280310849",
-    "title": "\"이정후 트레이드 소문, 美 전역 떠들썩→韓시장 투자·티켓 파워로 실현 어려워\" SF 담당 기자 전망",
-    "summary": [
-      "샌프란시스코 자이언츠 외야수 이정후(28)를 둘러싼 트레이드 소문이 미국 현지에서 가열되고 있으나, 실제 성사 가능성은 희박하다는 현지 담당 기자의 분석이 나왔다.",
-      "샌프란시스코 지역 매체 '샌프란시스코 스탠다드'의 자이언츠 담당 기자 존 셰이는 24일(한국시간) 자신의 SNS를 통해 \"최근 미국 전역에서 이정후의 트레이드 소문이 무성한 것은 사실\"이라면서도 \"하지만 실제 성사된다면 여러 가지 이유로 매우 놀라운 일이 될 것\"이라고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89af3401",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/25/2026072410262515796",
-    "title": "이재명 대통령, 美 샌프란시스코 도착…이정후 선수 사인볼 받았다",
-    "summary": [
-      "[the300] 이재명 대통령이 24일 오전 (이하 현지시간) 미국에 도착해 7박11일간의 미국·남미 3개국 순방 첫 일정에 나섰다.",
-      "이 대통령은 김혜경 여사와 함께 공군 1호기를 타고 이날 오전 미국 샌프란시스코 국제공항을 통해 입국했다.",
-      "공항에는 다니엘 루리 샌프란시스코 시장, 강경화 주미국대사, 임정택 주샌프란시스코 총영사 내외, 김한일 샌프란시스코 한인회장, 오미자 민주평통 샌프란협의회장 등이 나와 이 대통령 부부를 맞이했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6c814f79",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/25/2026072410213357688",
-    "title": "[속보]이재명 대통령, 미국 도착…곧 젠슨 황·올트먼 만난다",
-    "summary": [
-      "[the300] 24일(현지시간) 미국 샌프란시스코 국제공항...."
-    ],
-    "chips": [
-      "#정치"
-    ]
   }
 ];
 
@@ -646,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
