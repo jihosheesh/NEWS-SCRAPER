@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-24 20:28:09
+// 마지막 업데이트: 2026-07-24 21:22:06
 window.NEWS_DB = [
   {
     "id": "n86abca5f",
     "category": "IT",
     "source": "아주경제",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMWptU1d1bmJhTnJMajE3Z3JFOTRtMElPUV9FQnFoZE1xdmJJX0VBOEtBcEdxTXYtVnNHV1NIb20wa1RCWWgwSkJhS3prU29YNi0yN3ptdld4QdIBWEFVX3lxTFA0cTBPazBPLVc3NGpvWGhOWkE5WmJkeVhSa1UwSjRITjl6ZHpIMjhSbzUtN1h3MFNKWmlDVHBfa2VYcG1HVnFJazdmR0FSVGJ6Ym5QMlo0V0k?oc=5",
     "title": "최태원·젠슨 황, 美서 만찬…AI 반도체 협력 확대 논의",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n2a63f4a7",
     "category": "IT",
     "source": "매일일보",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kQjMtRUxHZ3MwUGpramd5dWJreFhZLXd3NGhrRFFjUDZleDd5OUQtUE9pMFhCcjRWT0FjWEhvZ2hjdFVlZ3RZU3RYTjZ4ZWREN29TZWRVc3gxN19FSk1EZzY4eWo?oc=5",
     "title": "최태원·젠슨 황 美서 만찬… SK·엔비디아 'AI·반도체' 혈맹 강화",
     "summary": [
@@ -79,10 +79,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nae5f094c",
+    "category": "사회",
+    "source": "아웃소싱타임스",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wOXJFRF9WR3AtRGs1Yk5xX1lxSUZ6T1N5MnFqM0JxSXVrdXlHd19zakdrYmlCMU5uWVdhT3FmQjhpRVQ0QndwR04zbmNnQ0dkcEVISGtaaGUtTm1BeFY1cVM5SHlVSnNDNi00Q0ROMVY3dw?oc=5",
+    "title": "[취업뉴스] 정규직 '연봉' vs 아르바이트 '안전' 최우선… 고용형태 따라 달라지는 일자리 선택 기준",
+    "summary": [
+      "[취업뉴스] 정규직 '연봉' vs 아르바이트 '안전' 최우선… 고용형태 따라 달라지는 일자리 선택 기준 아웃소싱타임스."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n604b1b15",
     "category": "IT",
     "source": "뉴스임팩트",
-    "time": "18일 전",
+    "time": "19일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VWG5yTGVTeWcxa3NBcmpvbEdlazF2WTc4VjBwZnEyZmNONWtOUW5ma0V4RGNlMkUxZjRVbmR3cENXOUt3dDBtTG5sWG9FNVd6MmlHS2cyUllxa1hKcGRlU0xSWk1wREgzUjI1N3VRSWRCQQ?oc=5",
     "title": "[이슈] 삼성전자 HBM4 양산, SK하이닉스 우위 HBM 시장 경쟁 본격화",
     "summary": [
@@ -92,22 +107,6 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "ndda47320",
-    "category": "사회",
-    "source": "이치저널",
-    "time": "24일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
-    "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
-    "summary": [
-      "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다 이치저널."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -187,20 +186,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
-    ]
-  },
-  {
-    "id": "n207a7abe",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "31일 전",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
-    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
-    "summary": [
-      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -306,6 +291,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "151일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -321,10 +320,274 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1c106f2b",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072506210303030",
+    "title": "李대통령, 앤트로픽 CEO 만나 \"韓, 아시아 AI 거점 최적 파트너\" (종합)",
+    "summary": [
+      "이재명 대통령은 24일(현지시간) 다리오 아모데이 앤트로픽 최고경영자(CEO)를 만나 한국을 앤트로픽의 아시아 인공지능(AI) 인프라 핵심 거점으로 육성하기 위한 투자 파트너십 확대 방안을 논의했다.",
+      "양측은 국내 첨단 메모리 반도체 공급 협력을 비롯해 한국 내 AI 데이터센터에 대한 대규모 공동투자, 안전하고 책임 있는 AI 개발·활용 방안 등에 대해 의견을 교환했다.",
+      "이 대통령은 이날 미국 샌프란시스코 시내 한 호텔에서."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n24e37580",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/25/2026072505562179310",
+    "title": "'와' 42세 르브론, 은퇴 대신 필라델피아에서 2년 더 뛴다! \"정말 끝났다고 생각했지만...\"",
+    "summary": [
+      "NBA(미국프로농구)의 살아있는 전설 '킹' 르브론 제임스(42)가 필라델피아 세븐티시서스를 선택하며 생애 다섯 번째 우승을 향한 마지막 도전에 나선다.",
+      "르브론은 25일(한국시간) 자신의 SNS를 통해 필라델피아행을 전격 발표했다.",
+      "르브론의 에이전트인 리치 폴 클러치 스포츠 그룹 CEO(최고경영자)에 따르면, 계약 규모는 2년 800만 달러(약 117억원)다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n47cd5d24",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/25/HA3TMYRYMUZDQNZVGM3TEOBTMY/",
+    "title": "\"삼성전 이래야 확률 높다고 봤다\" 이의리 전격 선발 복귀 왜? 시라카와 불펜행 [광주 현장]",
+    "summary": [
+      "[광주=스포츠조선 김용 기자] \"삼성전, 시라카와보다 이의리 확률이 높다고 봤다.\" KIA 타이거즈 이범호 감독이 결단을 내렸다.",
+      "이의리를 다시 선발로 복귀시킨다.",
+      "이 감독은 24일 광주 키움 히어로즈전을 앞두고 \"이의리가 다음주 삼성 라이온즈전 선발로 나간다\"고 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6200058",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725008100056",
+    "title": "제주, 무더위 이어져…오후 곳에 따라 한때 소나기",
+    "summary": [
+      "(제주=연합뉴스) 전지혜 기자 = 토요일인 25일 제주는 가끔 구름 많겠으며, 늦은 오후에 한때 소나기가 내리는 곳이 있겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb30b263",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003722882",
+    "title": "이란군 사령관 \"순교한 이란인 1명당 미군 1명씩 지옥행\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부와 이란 정권이 2주간 연일 무력 충돌을 이어가면서 인명 피해가 계속 늘어나는 가운데, 이란군이 자국민 사망에 비례하는 수준으로 미군을 사살하겠다고 밝혔다.",
+      "알자지라 등에 따르면 이란 합동작전사령부 하탐 알안비야의 알리 압돌라히 사령관은 24일(현지 시간) 국영 프레스TV 인터뷰에서 \"순교한 이란인 1명당 미군 1명을 지옥으로 보낼 것\"이라고 말했다.",
+      "이어 트럼프 행정부를 향해 \"우리는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc2d75f3e",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/07/25/MNRDEZRRGRRTEOBTMMZGMMDFGU/",
+    "title": "이재명 대통령, 아모데이 앤트로픽 CEO 면담…“AI 협력 확대”",
+    "summary": [
+      "미국·남미 순방 중인 이재명 대통령이 24일(현지시간) 미국 샌프란시스코에서 인공지능(AI) 기업 앤트로픽의 다리오 아모데이 최고경영자(CEO)와 만나 한국 내 투자와 기업 간 협력 확대를 요청했다.",
+      "이 대통령은 이날 아모데이 CEO에게 한국 정부가 AI를 국가 핵심 산업으로 육성하기 위해 관련 투자를 대폭 늘릴 계획이라고 설명했다."
+    ],
+    "chips": [
+      "#AI",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb67d8572",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/HEYDKMTGMM3TIZBWMI3GEMRVMU/",
+    "title": "질투 없다는 이현이..“‘삼성맨’♥남편, 여자들과 있어도? 자신있어” (‘신랑수업2’)[순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘신랑수업2’ 이현이가 질투가 없는 편이라고 밝혔다.",
+      "24일 방송된 채널A 예능 ‘신랑수업2’에서는 김요한이 김성수 후배이자 배우 오연희와 소개팅하는 모습이 그려졌다.이날 김성수에 의해 급 소개팅을 하게 된 김요한은 소개팅녀 배우 오연희와 함께 한강 데이트를 하게 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf0e1a226",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260724_0003722342",
+    "title": "\"버려지던 폐석재 순환자원으로\"…익산시, 업계 재활용 독려",
+    "summary": [
+      "[익산=뉴시스]고석중 기자 = 전북 익산시가 폐기물로 버려지던 폐석재를 조경이나 건설 자재 등으로 재활용할 수 있도록 관련 제도 안내에 나선다.",
+      "업계의 처리 비용 부담을 덜고 자원순환 생태계를 구축하기 위해서다.",
+      "25일 시에 따르면 폐석재가 합법적인 순환자원 활용 품목에 포함됨에 따라 지역 내 석재 제조업계를 대상으로 활용 절차와 준수사항 홍보를 대폭 강화하기로 했다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n8f5a4d29",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725007500063",
+    "title": "대전·세종·충남에 무더위…낮 최고 31∼34도",
+    "summary": [
+      "(대전=연합뉴스) 김소연 기자 = 토요일인 25일 대전·세종·충남 지역에 무더운 날씨가 이어지겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na40b2fe6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260724088700530",
+    "title": "연간 2천만원 초과 일용근로소득 건강보험료 부과 본격 추진",
+    "summary": [
+      "(서울=연합뉴스) 서한기 기자 = 정부가 연간 2천만원을 초과하는 일용근로소득에 건강보험료를 부과하는 방안을 본격 추진하기로 했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n4d6dc30e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260724151200030",
+    "title": "백화점 3사, 5월 매출 명품 비중 40% 돌파…'K'자 양극화 소비",
+    "summary": [
+      "(서울=연합뉴스) 정수연 기자 = 백화점 3사 매출에서 명품 브랜드가 차지하는 비중이 평균 40%를 돌파한 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n11df0578",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003722888",
+    "title": "이 대통령 \"韓, 아시아 AI 핵심 거점\"…앤트로픽 CEO \"韓기업 협력 우선순위\"(종합)",
+    "summary": [
+      "[샌프란시스코=뉴시스] 김지은 기자 = 이재명 대통령은 24일(현지시간) 미국 샌프란시스코에서 글로벌 빅테크 최고경영자(CEO) 면담의 첫 번째 일정으로 다리오 아모데이 앤트로픽 CEO를 만나 인공지능(AI) 분야의 투자와 협력 확대를 당부했다.",
+      "이 대통령은 이날 오후 샌프란시스코 시내 호텔에서 아모데이 CEO와 면담하고 대한민국과 앤트로픽의 동반 성장을 위한 투자 파트너십 확대와 책임 있는 AI 발전을 위한 협력 방안 등에 대해 다양한 의견을."
+    ],
+    "chips": [
+      "#AI",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n89a0c777",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/25/2026072209193535150",
+    "title": "\"이륙 88초 뒤 추락, 인근 호텔 충돌\"...113명 목숨 잃었다[뉴스속오늘]",
+    "summary": [
+      "뉴스를 통해 우리를 웃기고 울렸던 어제의 오늘을 다시 만나봅니다.",
+      "프랑스 파리 샤를 드 골 공항을 출발한 에어프랑스(AF) 소속 콩코드 4590편이 화염에 휩싸여 한 호텔로 추락했다.",
+      "이 비극적 사고로 승객 100명과 승무원 9명, 호텔 직원 4명 등 총 113명이 사망했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n000af030",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/estate/2026/07/25/2026072413471516231",
+    "title": "\"서울 집값 상승률 1위\" 반전의 중랑구...구축 소형 인기",
+    "summary": [
+      "정부의 대출 규제와 규제지역 확대에도 서울 아파트값 상승세가 이어지고 있다.",
+      "다만 매수 심리는 빠르게 위축되면서 가격과 심리가 엇갈리는 모습이다.",
+      "강북권과 경기 남부를 중심으로 상승세는 이어졌지만 거래는 관망세가 짙어지는 분위기다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n75214175",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260724_0003722675",
+    "title": "충남권 최고 체감온도 33도 이상 '무더위'…열대야",
+    "summary": [
+      "[대전=뉴시스]김도현 기자 = 25일 대전·세종·충남 지역은 무더운 날씨가 이어지며 한때 소나기가 내릴 것으로 예보됐다.",
+      "대전지방기상청에 따르면 이날 북태평양고기압 가장자리에 들어 가끔 구름이 많겠다.",
+      "충남권은 대부분 지역에서 폭염 특보가 발효된 가운데 일 최고 체감온도가 33도 이상으로 올라 무더울 것으로 예상됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0b2b2b32",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/estate/2026/07/25/2026072416543351685",
+    "title": "\"서울은 감정가보다 더\" 경매 우르르...경기는 '반값 낙찰'",
+    "summary": [
+      "수도권 아파트 경매시장에서 서울은 감정가를 웃도는 고가 낙찰이 이어졌지만 인천과 경기에서는 저가 낙찰이 늘면서 낙찰가율이 올해 최저 수준으로 떨어졌다.",
+      "24일 경·공매 데이터업체 지지옥션에 따르면 7월 넷째 주(20~24일) 수도권 아파트 경매 진행 건수는 365건으로 전주(307건)보다 18.9% 증가하며 2주 연속 늘었다.",
+      "낙찰률은 45.8%로 전주보다 4.8%포인트 상승했지만 낙찰가율은 84.0%로 6.3%포인트 하락하며 올해 최저치를 기."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nd2a68310",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "21분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/25/ATVL3MOCVRE7NB7J2VVP3E2GBE/",
+    "title": "[르포] “청음실 시스템을 제네시스 G90 오디오에 그대로”… 고품질 음향 구현하는 ‘하만 카랩’ 가보니",
+    "summary": [
+      "[르포] “청음실 시스템을 제네시스 G90 오디오에 그대로”… 고품질 음향 구현하는 ‘하만 카랩’ 가보니."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n13190bfc",
     "category": "IT",
     "source": "아시아경제",
-    "time": "1분 전",
+    "time": "55분 전",
     "url": "https://view.asiae.co.kr/article/2026072505260396592",
     "title": "美 앤트로픽 CEO 만난 李대통령 \"인공지능 투자 대대적 확대\"",
     "summary": [
@@ -338,184 +601,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n58413f02",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003722881",
-    "title": "\"강제노동 관세 취소해달라\" 美업체들 하루만에 소송",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 행정부가 강제노동 근절을 명분으로 한국 등 60개 주요 교역국에 10~12.5%의 새로운 관세를 발표한 가운데, 미 중소기업단체는 하루 만에 취소소송을 제기했다.",
-      "24일(현지시각) AP통신, NBC 등에 따르면 미국 중소기업 두 곳은 이날 트럼프 대통령의 301조 기반 강제노동 관련 관세가 과세 권한을 넘어섰다며 뉴욕 소재 국제무역법원(CIT)에 소송을 냈다.",
-      "소송을 낸 곳은 뉴욕의 향신료."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc8b28e08",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/07/25/KLCSK34Y4NAMDE77ZED3PWEMBM/",
-    "title": "26년 맛집이 함흥냉면 1인분에 1500원만 받는 이유",
-    "summary": [
-      "26년 맛집이 함흥냉면 1인분에 1500원만 받는 이유."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n60d024bb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725005500034",
-    "title": "수도권 등 중부 흐리고 비…전국 무더위·열대야 계속",
-    "summary": [
-      "(서울=연합뉴스) 이의진 기자 = 토요일인 25일에도 수도권과 강원권 등 중부지방은 대체로 흐리고 비가 내리겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n281f05b0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/07/25/OB6UALINCVCGJHARWY45GZZKCA/",
-    "title": "‘저거 진짜 되는거야?’ 의심 뜷고 10만대 판매 돌파, 감전식 모기 퇴치기 특가 공구",
-    "summary": [
-      "‘저거 진짜 되는거야?’ 의심 뜷고 10만대 판매 돌파, 감전식 모기 퇴치기 특가 공구."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9ab59f0d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/07/25/SIPW4VBSMBA47FWL5YP7CQXWAM/",
-    "title": "고반발 파크골프채·가방·공 6종 풀세트, 20만원 조선몰 단독 특가",
-    "summary": [
-      "고반발 파크골프채·가방·공 6종 풀세트, 20만원 조선몰 단독 특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc4161540",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725005200087",
-    "title": "페루·베네수엘라 외교관계 2년 만에 복원",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 페루와 베네수엘라 양국 정부가 지난 2024년 베네수엘라 대선 논란 이후 끊어졌던 외교관계를 복원하기로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n97f3ffa5",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003722884",
-    "title": "[속보]뉴욕증시 혼조 마감…다우 0.46%↑ 나스닥 0.64%↓",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2d019ca0",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725004800001",
-    "title": "李대통령, 앤트로픽 CEO에 \"韓 인공지능 투자 대대적 확대\"",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 임형섭 황윤기 기자 = 미국·남미 순방길에 나선 이재명 대통령이 24일(현지시간) 샌프란시스코에서 미국의 인공지능(AI..."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8a777a10",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725005000079",
-    "title": "사우디 유조선, 홍해 항해 중 공격받아…경미한 손상",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 사우디아라비아 공공교통청은 24일(현지시간) 사우디 회사 소속 유조선 NCC마사호가 홍해 항해 중 공격을 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3867a25e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003722698",
-    "title": "토요일 인천, 낮 최고 32도…저녁까지 5~40㎜ 비 예보",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 25일 인천은 낮 최고 기온이 32도까지 오르는 가운데 저녁까지 비가 내리겠다.",
-      "하늘은 정체전선의 영향을 받아 대체로 흐리겠다.",
-      "수도권기상청은 \"아침 최저기온은 26도, 낮 최고기온은 32도 내외의 분포를 보이겠다\"며 \"새벽부터 비가 시작돼 저녁까지 이어지겠다\"고 예보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6f8860da",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003722632",
-    "title": "경기북부 폭염 속 비 예보…최대 60㎜",
-    "summary": [
-      "[경기북부=뉴시스] 김도희 기자 = 7월 마지막 토요일인 25일 경기북부지역에는 폭염이 이어지는 가운데 곳곳에서 비가 내리겠다.",
-      "수도권기상청에 따르면 이날 일최고체감온도가 33도 안팎으로 오르며 매우 더운 날씨가 이어지겠다.",
-      "당분간 밤사이 기온이 충분히 떨어지지 않아 밤 최저기온이 25도 이상으로 유지되면서 열대야가 나타나는 곳도 있겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5574ab18",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725004700072",
-    "title": "유가, 中·파키스탄 중재설에 6일만에 하락…브렌트유 3.9%↓",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국과 이란의 충돌 격화로 배럴당 100달러를 넘어섰던 국제유가가 24일(현지시간) 중국과 파키스탄의 협상 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8ca09350",
     "category": "IT",
     "source": "동아일보",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260725/134362597/1",
     "title": "李 “韓, AI에 대대적인 투자 확대”…샌프란시스코서 계획 밝혀",
     "summary": [
@@ -528,24 +617,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f1b0361",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/international/us/2026/07/25/GYCNBYJO5RDPJEULLYAG6WEJTU/",
-    "title": "트럼프, EU 과징금에 “큰 대가 치를 것”… 한국도 남 일 같지 않다",
-    "summary": [
-      "트럼프, EU 과징금에 “큰 대가 치를 것”… 한국도 남 일 같지 않다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n152151c0",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607255234i",
     "title": "증시 아직 덜 빠졌다?...실적 좋아도 주가 못 오르는 이유 [월가 백브리핑]",
     "summary": [
@@ -559,70 +634,11 @@ window.NEWS_DB = [
     "id": "n0c01dc13",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607171080i",
     "title": "'시계 덕후' 에릭 클랩튼의 파텍 필립, 77억원에 팔린 이유 [강은영의 옥션 비하인드]",
     "summary": [
       "'시계 덕후' 에릭 클랩튼의 파텍 필립, 77억원에 팔린 이유 [강은영의 옥션 비하인드]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n121bc042",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362593/1",
-    "title": "트럼프, EU 구글 과징금에 “美기업 약탈…관세 부과”",
-    "summary": [
-      "도널드 트럼프 미국 대통령은 유럽연합(EU)이 구글에 1조원이 넘는 과징금을 부과한 것을 “미국 기업들을 약탈하는 관행”이라 규정하고 보복성 관세 부과를 예고했다.트럼프 대통령은 24일(현지 시간) 소셜미디어(SNS) 트루스소셜에 EU의 구글 과징금이 부당하다며 “미국 기업들과 나아가 미국 납세자들을 ‘약탈’하는 관행에 대해 우리가 즉시 301조 조사에 착수할 것”이라고 밝혔다.",
-      "EU 집행위원회는 전날 디지털시장법(DMA) 위반을 이유로 구글에."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n48be6b27",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362590/1",
-    "title": "“바레인·쿠웨이트, 최근 이란에 최초로 반격 공습” WSJ",
-    "summary": [
-      "이란의 미국 겨냥 보복 공격에 집중적으로 노출돼 있는 바레인과 쿠웨이트가 최근 이란에 공군 전력을 보내 반격을 가했다고 월스트리트저널(WSJ)이 보도했다.WSJ은 24일(현지 시간) 복수의 소식통을 인용해 “바레인과 쿠웨이트가 이달 초(earlier this month) 전투기를 비밀리에 출격시켜 이란 군사시설을 공격했다”고 전했다.다만 바레인·쿠웨이트 정부는 사실 확인을 거부했다.",
-      "WSJ은 보도에서 정확한 공격 시점, 이란군 피해, 미군 공동."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6352cebf",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362585/1",
-    "title": "“韓 투자자 ‘도박꾼’, 카지노서 빼내기 어렵다”…英 외신 경고",
-    "summary": [
-      "영국 경제지 이코노미스트가 최근 급등락을 반복하는 한국 증시와 개인투자자의 공격적인 레버리지 투자를 지적하며 “카지노와 같다”고 평가했다.지난 23일(현지 시간) 영국 이코노미스트는 최근 한국 증시의 급격한 변동과 개인투자자의 레버리지 투자를 집중적으로 조명했다.이코노미스트는 “한국 투자자들에게는 그야말로 파란만장한 여정이었다”며 “코스피지수는 2025년 초 이후 거의 3배로 뛰었지만 지난 6월 이후 약 25％ 하락했다”고 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f55514d",
-    "category": "IT",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153675",
-    "title": "식약처 회수 공표 오류에 소비자 혼란…정상 치약까지 '리콜 대상' 안내",
-    "summary": [
-      "식품의약품안전처가 금속성 이물이 검출된 치약에 대해 회수 명령을 내리는 과정에서 제조사의 다른 정상 제품까지 함께 공표하면서 소비자 혼란이 커졌다.",
-      "문제가 된 제품은 특정 제조번호의 치약 1종이었지만, 최초 공지에는 해당 제조업체가 생산하는 수십 개 브랜드 제품이 함께 기재되면서 고객과 판매사들이 혼선을 겪었다.24일 업계에 따르면 식약처는 지난 2일 케이보은제약이 제조한 '뷰카 클래식 구취케어 치약' 가운데 제조번호 20260202A1 제품에."
     ],
     "chips": [
       "#뉴스"
@@ -635,20 +651,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
