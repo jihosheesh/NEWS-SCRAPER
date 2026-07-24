@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-24 16:30:46
+// 마지막 업데이트: 2026-07-24 17:30:00
 window.NEWS_DB = [
   {
     "id": "n86abca5f",
     "category": "IT",
     "source": "아주경제",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMWptU1d1bmJhTnJMajE3Z3JFOTRtMElPUV9FQnFoZE1xdmJJX0VBOEtBcEdxTXYtVnNHV1NIb20wa1RCWWgwSkJhS3prU29YNi0yN3ptdld4QdIBWEFVX3lxTFA0cTBPazBPLVc3NGpvWGhOWkE5WmJkeVhSa1UwSjRITjl6ZHpIMjhSbzUtN1h3MFNKWmlDVHBfa2VYcG1HVnFJazdmR0FSVGJ6Ym5QMlo0V0k?oc=5",
     "title": "최태원·젠슨 황, 美서 만찬…AI 반도체 협력 확대 논의",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n2a63f4a7",
     "category": "IT",
     "source": "매일일보",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kQjMtRUxHZ3MwUGpramd5dWJreFhZLXd3NGhrRFFjUDZleDd5OUQtUE9pMFhCcjRWT0FjWEhvZ2hjdFVlZ3RZU3RYTjZ4ZWREN29TZWRVc3gxN19FSk1EZzY4eWo?oc=5",
     "title": "최태원·젠슨 황 美서 만찬… SK·엔비디아 'AI·반도체' 혈맹 강화",
     "summary": [
@@ -92,22 +92,6 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "ndda47320",
-    "category": "사회",
-    "source": "이치저널",
-    "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yUXoyU3lON1NKakJhcjNOS3dLSXhvNlFaMHdva0tHc1NCQ29McjBCSkIyaklaNHlpUkk4YS1GRU1xOVRCRW1NUXF6R2w1U2NESFlWN0dpNHgzRHhqQy1LSHhuUjIyNW9N?oc=5",
-    "title": "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다",
-    "summary": [
-      "취업 준비부터 면접까지 고용노동부 인공지능이 다 해줍니다 이치저널."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -190,20 +174,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5ace0115",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "36일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
-    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
-    "summary": [
-      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -262,21 +232,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n72b90564",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "59일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
-    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
-    "summary": [
-      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -321,6 +276,50 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n01f4c085",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "123일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
+    "summary": [
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "162일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "266일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n3f55514d",
     "category": "IT",
     "source": "테크M",
@@ -336,10 +335,55 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nad599c17",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725002000087",
+    "title": "美가 원했던 '디아블로'…코스타리카 최악 수배범 잡혔다",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국이 거액의 현상금을 걸었던 코스타리카 최악의 범죄자 알레한드로 아리아스 몽헤(41)가 현지 경찰에 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32297b65",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/25/MUYDGN3BGFSTMMZZGQ4GEMRZMM/",
+    "title": "상승세 탄 SSG, 구창모 무너뜨리고 3연승 질주…해치 2승째 [인천 리뷰]",
+    "summary": [
+      "[OSEN=손찬익 기자] 프로야구 SSG 랜더스가 NC 다이노스를 누르고 3연승을 달렸다.",
+      "SSG는 지난 24일 인천 SSG랜더스필드에서 열린 홈경기에서 7-3으로 승리했다.",
+      "지난 22일 사직 롯데 자이언츠전 이후 3연승 질주."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8d533c1f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362577/1",
+    "title": "폭우로 도시 마비됐는데…허리까지 찬 물 헤치고 병원 간 中 의사",
+    "summary": [
+      "기록적인 폭우로 도시 곳곳이 침수된 상황에서도 예정된 수술을 위해 허리 높이까지 차오른 물속을 걸어 병원으로 향한 중국 의사의 사연이 온라인에서 화제를 모으고 있다.23일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP) 보도에 따르면 지난 13일 중국 랴오닝성 선양에는 하루 동안 230㎜의 폭우가 쏟아졌다.",
+      "현지 당국은 1951년 기상 관측 이후 가장 많은 비가 내렸다고 밝혔으며 도로 상당수가 물에 잠기고 대중교통 운행도 사실상 중단됐다.당국은."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
     "id": "n8cacd14a",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "11분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153671",
     "title": "韓 진출 공식 선언한 젠스파크...\"3년간 1억달러 투자하고 지사 설립할 것\"",
     "summary": [
@@ -352,10 +396,132 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n897de36d",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725001900071",
+    "title": "[속보] 트럼프, EU 구글 과징금에 '무역법 301조 관세' 위협",
+    "summary": [],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n746b53a3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/25/GFRDQNJTMM3TINZYGFRDMNBTHE/",
+    "title": "'결국, 실패한 지도자를 데려오나' HERE WE GO 속보! 안첼로티-과르디올라에 연달아 거절당한 이탈리아축구협회, 피를로와 국대 감독 협상 중..'3순위와 4년 협상 중'",
+    "summary": [
+      "[스포츠조선 노주환 기자]이탈리아 국가대표 미드필더 출신 안드레아 피를로가 차기 이탈리아 축구 대표팀 사령탑 후보 1순위로 급부상했다.",
+      "당초 그는 사령탑 후보 최상단에 오르지 못했다.",
+      "카를로 안첼로티와 펩 과르디올라가 이탈리아축구협회의 제안을 거절했기 때문이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf2e241e2",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260725/134362574/1",
+    "title": "우승 기쁨도 잠시…스페인 월드컵 상금 733억 중 세금이 220억?",
+    "summary": [
+      "2026 북중미 월드컵 우승으로 5000만달러(약 733억원)의 상금을 확보한 스페인 축구 대표팀이 뜻밖의 세금 문제에 직면했다.미국에서 열린 경기와 관련해 발생한 소득으로 분류될 경우, 우승 상금 일부가 미국 국세청(IRS)의 원천징수 대상이 될 수 있다는 전망이 나왔다.23일(현지 시간) 영국 매체 더 선은 “스페인이 월드컵 우승으로 받은 5000만달러를 모두 가져가기는 어려울 수 있다”며 미국 세법 적용 가능성을 보도했다.스페인은 지난 1."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32170393",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/07/25/MU4TIY3EMQZWEYZYHEZWCN3GMI/",
+    "title": "\"내 마지막 선택은 필라델피아\" 르브론 제임스, 2년 800만 달러에 필라델피아 전격 입단…통산 5번째 우승 도전",
+    "summary": [
+      "[OSEN=서정환 기자] '킹' 르브론 제임스(42)가 마지막 우승 도전을 위해 새로운 팀을 선택했다.ESPN은 24일(한국시간) \"르브론 제임스가 필라델피아 세븐티식서스와 2년 총액 800만 달러(약 110억 원) 계약을 맺는다\"고 보도했다.",
+      "계약에는 선수 옵션이 포함됐다.지난 시즌 LA 레이커스에서 약 5300만 달러(약 774억 원)를 받은 르브론은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc633f780",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003722872",
+    "title": "이란 외무 \"호르무즈 문제 미해결시 임시 휴전 불가\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부와 13일 연속 무력 충돌을 이어온 이란 정부가 호르무즈 해협 관련 이란 입장이 관철되지 않는 한 임시 휴전을 수용하지 않는다는 입장을 밝혔다.",
+      "알자지라, 아나돌루통신 등이 이란 타스님통신을 인용한 보도에 따르면 아바스 아라그치 외무장관은 24일(현지 시간) 키르기스스탄에서 열린 상하이협력기구(SCO) 외무장관회의 중 기자들과 만나 \"호르무즈 해협과 관련한 우리 요구가 충족되지 않는 한,."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n06c50429",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003722871",
+    "title": "김용범 \"美 AI 서밋에서 삼성·하닉 반도체 계약 발표…빅테크와 AIDC 협약도\"(종합)",
+    "summary": [
+      "[서울=뉴시스]김경록 기자 = 김용범 청와대 정책실장은 24일 이재명 대통령과 한미 양국을 대표하는 반도체·빅테크 CEO들이 미국 샌프란시스코에 모이는 'AI 서밋' 행사에 대해 \"대규모 AIDC(AI데이터센터) 구축 관련 글로벌 기업들로 수요처가 확정된 것이 나오고, 메모리는 삼성과 하이닉스가 각각 특정 반도체 얼마를 새로 장기 계약을 하기로 했다\"고 밝혔다.",
+      "청와대에 따르면, 김 실장은 전날 외신기자 간담회에서 \"지난 번 3대 메가 프로젝트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3a55823c",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260725/134362570/1",
+    "title": "“둘 중 누가 더 잘 던지나” 트럼프 돌발 질문에 오타니·야마모토 빵 터졌다",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 백악관을 찾은 로스앤젤레스 다저스 선수단에게 오타니 쇼헤이와 야마모토 요시노부 중 누가 더 뛰어난 투수인지 묻는 돌발 질문을 던져 폭소가 터졌다.23일(현지시간) 뉴욕포스트 등 외신 보도에 따르면 이날 다저스 선수단은 미국 워싱턴DC 백악관 로즈가든에서 열린 월드시리즈 우승 기념행사에 참석했다.",
+      "지난해에 이어 2년 연속 백악관을 방문한 자리였다.",
+      "트럼프 대통령은 목요일 열린 야외 행사에서 선수단을 반갑게 맞으며 몇."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf87e406d",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134362565/1",
+    "title": "“혀로 스마트폰 조작한다”…입안에 넣는 ‘마우스패드’ 등장",
+    "summary": [
+      "혀와 머리의 미세한 움직임만으로 스마트폰과 컴퓨터를 조작할 수 있는 웨어러블 기기가 등장했다.",
+      "미국 스타트업 어그멘탈은 23일(현지 시간) 관련 영상을 사회관계망서비스(SNS)에 공개했다.",
+      "오그멘탈이 개발한 ‘마우스패드’는 입안에 착용하는 터치패드 형태의 입력 장치로 혀와 머리의 움직임을 감지해 스마트폰·태블릿·PC의 커서를 제어할 수 있는 장치다."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n45464988",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "40분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153665",
     "title": "카카오웹툰 신작, 네이버웹툰과 유사성 논란...업데이트 중단·사실관계 파악 착수",
     "summary": [
@@ -369,32 +535,44 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na9ec2a78",
+    "id": "naa99974f",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003721522",
-    "title": "이장원 , 100세 할아버지 '장수 식단' 공개…\"10년째 이 식단\"",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725001400071",
+    "title": "'총격 파행' 백악관기자단 만찬 오늘 재개…트럼프, 보안강화 속 참석",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 가수 이장원이 100세 할아버지의 건강 비결로 10년째 이어온 아침 식단을 공개해 관심을 모으고 있다.",
-      "지난 21일 방송된 SBS 예능 프로그램 동상이몽2-너는 내 운명에서는 이장원·배다해 부부의 일상이 공개됐다.",
-      "이날 배다해는 함께 생활하는 시할아버지를 위해 삶은 달걀과 고구마, 양상추, 치즈, 제철 과일을 준비하고 토마토·파프리카·브로콜리를 갈아 만든 채소 음료를 곁들였다."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 24일(현지시간) 총격 사건으로 파행했다가 다시 열리는 백악관출입기자협회(WH..."
     ],
     "chips": [
-      "#의료"
+      "#정치"
     ]
   },
   {
-    "id": "nc1c37620",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/25/MYZTSYZTGI4WIYZUMI3DEN3DHA/",
-    "title": "이란 외무장관 “호르무즈 해협 요구 충족 않으면 휴전 안 해”",
+    "id": "nc7a8b668",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "53분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725001700098",
+    "title": "'월드컵 8강' 벨기에 축구팀 감독에 네덜란드 '전설' 판 보멀",
     "summary": [
-      "아바스 아라그치 이란 외무장관은 “호르무즈 해협에 관한 우리의 요구가 충족되지 않는 한 한시적 휴전을 논의하지 않겠다”고 말했다.",
-      "24일(현지시각) 이란 현지 매체 등에 따르면 아라그치 장관은 키르기스스탄 촐폰아타에서 열린 상하이협력기구(SCO) 외교장관회의에 참석하며 이같이 밝혔다.",
-      "이란의 호르무즈 해협 통제권을 미국이 인정해야 한다는 취지로 풀이된다."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 전설적인 수비형 미드필더로 이름을 날린 네덜란드 축구 레전드 마르크 판 보멀(49)이 벨기에 축구 대표팀 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0460c828",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "58분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/25/2026072500034050610",
+    "title": "윔블던 미녀 '파격 변신' 망사 레깅스+엉덩이춤에 팬들 '충격'... 코스튜크, 박물관 유니폼 벗고 \"30만원 드레스 완판\"",
+    "summary": [
+      "'테니스 스타' 마르타 코스튜크(24·우크라이나)가 망사 레깅스를 입고 엉덩이를 흔드는 파격적인 춤사위를 선보여 팬들의 이목을 끌었다.",
+      "영국 '더선'은 24일(한국시간) \"코스튜크가 스페인에서 망사 레깅스를 입고 엉덩이를 흔들며 매력을 뽐냈고, 이를 본 팬들은 '눈부시다'고 열광했다\"고 보도했다.",
+      "보도에 따르면 코스튜크가 휴가지에서 착용한 150파운드(약 30만원) 상당의 의상은 이미 매진됐다."
     ],
     "chips": [
       "#뉴스"
@@ -404,7 +582,7 @@ window.NEWS_DB = [
     "id": "na4e81cc4",
     "category": "경제",
     "source": "테크M",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153670",
     "title": "법원, 최태원 회장 재산분할 9440억원 판결...최태원 측 \"검토 후 재상고 결정\"",
     "summary": [
@@ -417,228 +595,48 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n92ac2cd8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003722870",
-    "title": "트럼프 \"시진핑·푸틴, 이란전 관여시 매우 좋지 않을 것\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령을 거명하며 이란을 지원하지 말라고 공개 압박했다.",
-      "트럼프 대통령은 24일(현지 시간) 소셜미디어 트루스소셜에 \"사람들이 이란 문제와 관련해 자주 거론하는 두 주요국(중국·러시아)는 내 판단으로는 이란에 관여하고 있지 않다\"면서도 \"만약 관여한다면 그들에게 매우 좋지 않을 것이며(very bad for them), 그들의 이익에도 분."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc0a6d62b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/25/GU4GEYRSMVQTOZJUGBRDAMBYGY/",
-    "title": "\"사생활 침해시 사임\" 취임 기자회견에서 폭탄선언...클롭은 왜 경고장 날렸나",
-    "summary": [
-      "[스포츠조선 박상경 기자] \"내 가족을 괴롭힌다면, 나는 곧바로 떠날 것이다.\" 독일 대표팀 지휘봉을 잡은 위르겐 클롭 감독이 강력한 경고장을 날렸다.",
-      "클롭 감독은 24일(한국시각) 취임 기자회견에서 \"만약 당신들(언론)이 무례하게 행동하고 내 가족을 괴롭히면 나는 그냥 떠날 것\"이라고 말했다.",
-      "그는 \"다른 나라에서는 국가대표팀 감독들이 훨씬 더 나쁜 대우."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne240d295",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/25/G42GKNDFGZTDKMDFMJTGKODEHA/",
-    "title": "하주석 야구보다 더 궁금한 것, 스타 치어리더 아내와의 '생이별' 어쩌나 [광주 현장]",
-    "summary": [
-      "[광주=스포츠조선 김용 기자] \"아내, 이제 내 적이다.",
-      "집에서는 같은 편이지만...\" 하주석 트레이드가 야구계를 들썩이게 했다.",
-      "KIA 타이거즈와 한화 이글스는 23일 광주기아챔피언스필드에서 열린 맞대결을 끝내고 트레이드 사실을 알렸다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n38a19605",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003721822",
-    "title": "\"혀로 스마트폰 조작한다\"…입안에 넣는 '마우스패드' 등장",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 혀와 머리의 미세한 움직임만으로 스마트폰과 컴퓨터를 조작할 수 있는 웨어러블 기기가 등장했다.",
-      "미국 스타트업 어그멘탈은 23일(현지 시간) 관련 영상을 사회관계망서비스(SNS)에 공개했다.",
-      "오그멘탈이 개발한 '마우스패드'는 입안에 착용하는 터치패드 형태의 입력 장치로 혀와 머리의 움직임을 감지해 스마트폰·태블릿·PC의 커서를 제어할 수 있는 장치다."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nc8d00cc8",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/25/MUZDEYJVMM2DCZBUMIZDOZJXGU/",
-    "title": "8년 만에 8연패 '굴욕', LG 총체적 난국이다…선발은 대량 실점, 수비는 실수 연발, 타선은 잔루 남발",
-    "summary": [
-      "[OSEN=대전, 한용섭 기자] 어느덧 8연패다.",
-      "2018년 8월 이후 8년 만에 8연패 굴욕이다.프로야구 LG 트윈스가 연패를 끊지 못했다.",
-      "LG는 24일 대전 한화생명볼파크에서 열린 한화 이글스와 시즌 9차전 맞대결에서 4-8로 패배했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na4d60e97",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724050251001",
-    "title": "李대통령, 샌프란 도착…美측 '이정후 사인볼' 환영 선물(종합)",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 임형섭 황윤기 기자 = 미국·남미 순방길에 오른 이재명 대통령이 24일(현지시간) 미국 샌프란시스코에 도착했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2d3d20d2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260725/134362550/1",
-    "title": "李 대통령, 美샌프란시스코 도착…환영식서 ‘이정후 사인볼’ 선물받아",
-    "summary": [
-      "미국·남미 순방길에 오른 이재명 대통령이 23일(현지시간) 미국 샌프란시스코에 도착해 7박11일 간의 순방 일정에 돌입한다.",
-      "이 대통령과 김혜경 여사, 참모진 등을 태운 공군 1호기(대통령 전용기)는 이날 오전 8시23분께 샌프란시스코 국제공항에 도착했다.",
-      "공항 환영식에는 미측에서 다니엘 루리 샌프란시스코 시장 등이 나왔으며 우리 측에서는 강경화 주미국대사, 임정택 주샌프란총영사 내외 등이 참석했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n220db1df",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725000600072",
-    "title": "뉴욕서 아시아계·유대인 피습…범인 \"알라는 위대\" 흉기 공격",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 뉴욕 맨해튼에서 아시아계 남성과 유대인 남성이 잇달아 흉기에 찔리는 사건이 발생, 경찰이 증오범죄 가능..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfa2d5d5a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003722556",
-    "title": "\"둘 중 누가 더 잘 던지나\" 트럼프 돌발 질문에 오타니·야마모토 빵 터졌다",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 도널드 트럼프 미국 대통령이 백악관을 찾은 로스앤젤레스 다저스 선수단에게 오타니 쇼헤이와 야마모토 요시노부 중 누가 더 뛰어난 투수인지 묻는 돌발 질문을 던져 폭소가 터졌다.",
-      "23일(현지시간) 뉴욕포스트 등 외신 보도에 따르면 이날 다저스 선수단은 미국 워싱턴DC 백악관 로즈가든에서 열린 월드시리즈 우승 기념행사에 참석했다.",
-      "지난해에 이어 2년 연속 백악관을 방문한 자리였다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7a71538f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725000700098",
-    "title": "EU, 틱톡 또 겨냥…\"온라인 위험에 아동 노출시켜\"",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 중국 동영상 공유 플랫폼 틱톡이 아동 보호 기준을 준수하지 않았다는 이유로 유럽연합(EU)에서 거액의 과징..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb5d55a98",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "52분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260725/134362547/1",
-    "title": "‘딸 맘’ 손담비도 “야호”…금발 ‘갸루’로 파격 변신",
-    "summary": [
-      "배우 손담비가 파격적으로 변신했다.손담비는 24일 자신의 인스타그램을 통해 “야호오오오오”라는 글과 함께 영상을 게재했다.공개된 영상 속 손담비는 화려한 패션과 헤어스타일을 선보이는 일명 ‘갸루’ 콘셉트로 변신한 모습이다.",
-      "구릿빛 피부에 강렬한 스모키 메이크업과 민소매에 미니스커트를 입고 늘씬한 몸매를 드러낸 손담비는 노래에 맞춰 춤을 춰 눈길을 끈다.최근 리센느 일본 출신 멤버 미나미는 리더 원이의 유튜브 채널 ‘안녕하세요 원이입니다’를 통해."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n606b43af",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260725/134362544/1",
-    "title": "이지혜, 수억대 자차 번호판 도난 “없어졌다…황당”",
-    "summary": [
-      "그룹 샵 출신 방송인 이지혜가 수억대 자차의 번호판이 없어진 상황을 알렸다.이지혜는 24일 자신의 인스타그램 스토리에 자신의 차량 사진을 찍어 올리며 “번호판이 없어졌..황당”이라는 글을 남겼다.이지혜의 말처럼 그의 차 전면에 있던 번호판이 사라진 모습이다.이지혜의 차량은 1억 중반에서 옵션에 따라 2억 초반까지 가격이 형성된 자동차다.한편 이지혜는 지난 2017년 세무사인 문재완과 결혼해 이듬해 첫째 딸을 얻었고, 이어 2021년 12월 둘째."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n424c0ee7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260725/134362541/1",
-    "title": "권아름, 400만 영화 유튜버 지무비와 열애 중…“예쁘게 봐달라”",
-    "summary": [
-      "배우 권아름(30)이 영화 리뷰 유튜버 지무비(본명 나현갑·36)와 열애 중이다.24일 권아름의 소속사 루크미디어 관계자는 뉴스1에 “권아름이 지무비와 열애 중이다”라며 “구체적인 열애 시기는 확인이 어려우나, 좋은 만남을 이어오는 중이니 예쁘게 봐달라”라고 밝혔다.권아름은 지난 2020년 웹드라마 ‘좋아요가 밥 먹여줍니다’로 데뷔해 드라마 ‘미씽: 그들이 있었다2’ ‘조선변호사’ ‘국민사형투표’ ‘열녀박씨 계약결혼뎐’ ‘마지막 썸머’ 등에 출."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n145ad146",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "54분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724050200001",
-    "title": "李대통령, 샌프란 도착…오늘 젠슨 황 만나 'AI 선언' 발표",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 임형섭 황윤기 기자 = 미국·남미 순방길에 오른 이재명 대통령이 24일(현지시간) 미국 샌프란시스코에 도착했다."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9b13e5ad",
+    "id": "n5603c13b",
     "category": "경제",
-    "source": "한국경제",
+    "source": "머니투데이",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026072451717",
-    "title": "[오늘의 운세] 7월 25일 띠별 운세",
+    "url": "https://www.mt.co.kr/sports/2026/07/25/2026072413280310849",
+    "title": "\"이정후 트레이드 소문, 美 전역 떠들썩→韓시장 투자·티켓 파워로 실현 어려워\" SF 담당 기자 전망",
     "summary": [
-      "[오늘의 운세] 7월 25일 띠별 운세."
+      "샌프란시스코 자이언츠 외야수 이정후(28)를 둘러싼 트레이드 소문이 미국 현지에서 가열되고 있으나, 실제 성사 가능성은 희박하다는 현지 담당 기자의 분석이 나왔다.",
+      "샌프란시스코 지역 매체 '샌프란시스코 스탠다드'의 자이언츠 담당 기자 존 셰이는 24일(한국시간) 자신의 SNS를 통해 \"최근 미국 전역에서 이정후의 트레이드 소문이 무성한 것은 사실\"이라면서도 \"하지만 실제 성사된다면 여러 가지 이유로 매우 놀라운 일이 될 것\"이라고 전했다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n89af3401",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/25/2026072410262515796",
+    "title": "이재명 대통령, 美 샌프란시스코 도착…이정후 선수 사인볼 받았다",
+    "summary": [
+      "[the300] 이재명 대통령이 24일 오전 (이하 현지시간) 미국에 도착해 7박11일간의 미국·남미 3개국 순방 첫 일정에 나섰다.",
+      "이 대통령은 김혜경 여사와 함께 공군 1호기를 타고 이날 오전 미국 샌프란시스코 국제공항을 통해 입국했다.",
+      "공항에는 다니엘 루리 샌프란시스코 시장, 강경화 주미국대사, 임정택 주샌프란시스코 총영사 내외, 김한일 샌프란시스코 한인회장, 오미자 민주평통 샌프란협의회장 등이 나와 이 대통령 부부를 맞이했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6c814f79",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/25/2026072410213357688",
+    "title": "[속보]이재명 대통령, 미국 도착…곧 젠슨 황·올트먼 만난다",
+    "summary": [
+      "[the300] 24일(현지시간) 미국 샌프란시스코 국제공항...."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -654,12 +652,12 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "정치",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   }
