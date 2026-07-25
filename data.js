@@ -1,28 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-25 14:30:32
+// 마지막 업데이트: 2026-07-25 15:22:09
 window.NEWS_DB = [
   {
-    "id": "na4e3f441",
+    "id": "nf5f7d389",
     "category": "IT",
-    "source": "알파경제",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11VUVBTlFUaW1oN2NFZU5YRTdLNXZDQVpfVjR1dC16ZkdjdEttaWhsbXluVXZpNi0td0Fmb1oxQk9QUVNSMFdhb2lhXzE1cFBndVdITVpQXzk4R0JKS3dYX3hOUHdEZ2d3Vjh0d01n?oc=5",
-    "title": "‘1375조원’ 잭팟…삼성·SK·네이버, 엔비디아·브로드컴과 역대급 AI·반도체 동맹",
+    "source": "연합뉴스",
+    "time": "7시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uOVoycjZFd2VZdEROWTI3Z1hpSEpWRG8yOW8xdEphYVd1R21HUjdYUURwOXAwZXlmOG5hYldpeXRHMFFZSTJCSFVHdVZMTEVKWmtQWktkbTFlNDjSAWBBVV95cUxOODJtZ3hTZEpwYXVBVFFRanZjWUNzcUFMMVpZMDgwcmMtOXp0T1dvSUt5M2xDRHRFMU9Nd3JZY094d0lFYzQ2cEpOQ3lnQmJ1ZENnVk1jRE91OEhqTWQwWHA?oc=5",
+    "title": "한미 빅테크 1천400조원 AI 동맹…반도체·AI공급망 구축 본격화(종합)",
     "summary": [
-      "‘1375조원’ 잭팟…삼성·SK·네이버, 엔비디아·브로드컴과 역대급 AI·반도체 동맹 알파경제."
+      "한미 빅테크 1천400조원 AI 동맹…반도체·AI공급망 구축 본격화(종합) 연합뉴스."
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#네이버"
+      "#반도체"
     ]
   },
   {
     "id": "nf5149588",
     "category": "IT",
     "source": "SBS Biz",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMkNFSUpDZ3NpaWg3eUpTeXo1WEQ1bWIwOEthRDhuRWlvSHZWc3dIelpBazZSaklqTTJDdTN4SlZVSDVFa0JqLTd5N1JuT3dTbDdacXBJLWQ?oc=5",
     "title": "이재용·올트먼, 오픈AI 본사서 회동…HBM·파운드리 협의 전망",
     "summary": [
@@ -37,7 +35,7 @@ window.NEWS_DB = [
     "id": "n15215ea1",
     "category": "IT",
     "source": "블로터",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BRDdpbWNlaV9hbFhuR0FUN1pBUW9PZE1XQno1ZS1GSXlSVmpsc1l4a210Q2hqbUxyd3MzUEEteVJJVG9oY2xWNzduZGMyM3oyS196RG9DNzRBbXVkUFdXTW4tbnZpb0hY0gFsQVVfeXFMTlVNVi1OdHZaa0czMWxNZXowOFhPbGIxd3d1TktSV3YtM0lUdW00aDVWT184VUpIUTBxRm9MZ1hjcGI4U0ZwTFZkaDBmUnJHU2tCTk0wbWR1cjN6a3MwUG1hUU5tMnIxTEZFbTll?oc=5",
     "title": "SK, 엔비디아와 5000억달러 AI 협력…MS·앤트로픽도 합류",
     "summary": [
@@ -52,7 +50,7 @@ window.NEWS_DB = [
     "id": "n91d8987e",
     "category": "IT",
     "source": "테크M",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUTVBSGVOd0ZfYjlzblJvWElkUkQxM2twWl9xcTctMUJES0diamQwQUNPVkNzajdIUS04RXhHakN5eU9Sam1uUjQ2dkczdkFJR2ZBdWxTQWFKbWg3djQyQ3BFdTc2Z9IBakFVX3lxTE1WWmNub0NBRWI2U0xRVHhZQU4taktRMFh5cTNvTmhyNjJRS1daNXVCcHlKY1FwSzlueE9wODY4WERjd0JnTU9Id0JuSEtNVy04aEVpNUFXVFQxWlV3NXZlZlJNMmp1b1B3RkE?oc=5",
     "title": "이재명 대통령 '韓 AI 허브 구축'...삼성·SK, 9500억달러 AI 계약 체결",
     "summary": [
@@ -67,7 +65,7 @@ window.NEWS_DB = [
     "id": "n5868a989",
     "category": "IT",
     "source": "초이스스탁US",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
@@ -349,10 +347,71 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf32fa98f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/26/ELJU74U7JBD4XOPWCGCO76ZSKM/",
+    "title": "천하의 트럼프도 이 질문은 어렵나…“조던·르브론 중 누가 최고?”",
+    "summary": [
+      "천하의 트럼프도 이 질문은 어렵나…“조던·르브론 중 누가 최고?”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n260744da",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/26/MY4DQNBZGMZDSNZTGMYGGNZUMY/",
+    "title": "박진영, 농구장 달린 궁궐 같은 집 최초공개..너무 넓어 거실서 스케이트도 가능(전참시)",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 박진영이 궁궐 같은 집을 공개했다.25일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 박진영, 김아영이 출연했다.이날 방송에서 박진영의 집이 최초로 공개되었다.",
+      "황토색의 의상을 입고 등장한 박진영은 찜질방 옷이 아니냐는 의혹을 받자 웃으면서 “집에서 이 옷만 입는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n58a8d024",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/26/GRQWEMDBGFRWKOBWME3GMY3GGU/",
+    "title": "\"죄송하다, 이런 경우는 처음이라…\" 고우석 이물질 퇴장에 美 중계진도 당황, 대체 뭐가 문제야?",
+    "summary": [
+      "[OSEN=이상학 객원기자] “이런 건 처음 본다.”미네소타 트윈스 산하 트리플A 세인트폴 세인츠 소속 투수 고우석(27)이 이물질 사용 의혹 속에 퇴장당했다.",
+      "미네소타로 트레이드된 뒤 세인트폴에서 첫 등판이었지만 공 하나 못 던지고 내려갔다.",
+      "고우석은 지난 25일(이하 한국시간) 미국 미네소타주 세인트폴 CHS필드에서 열린 콜럼버스 클리퍼스(클리블랜드 가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec6a6550",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723030",
+    "title": "\"마운자로 사용 후 7㎏ 감량\"…'유튜브 복귀' 1세대 BJ 김이브 근황 공개",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = '1세대 인터넷방송 진행자(BJ)'로 과거 유명세를 얻었던 김이브(본명 김소진)가 유튜브 라이브 방송을 재개했다.",
+      "지난 23일 김이브는 소셜미디어(SNS)를 통해 \"몇 년 동안 팬더TV에서 방송했는데 여러가지 힘든 점이 있었다\"며 \"유튜브에서 방송을 해볼까 한다\"고 밝혔다.",
+      "2001년 인터넷 방송 활동을 시작한 김이브는 2017년 유튜브 채널 구독자 100만명을 달성하는 등 1세대 BJ로 큰 인기를 얻었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "neaa78d92",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "17분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153689",
     "title": "삼성SDS, 앤트로픽과 파트너십...'클로드' 기반 국내 AX 사업 확대",
     "summary": [
@@ -365,16 +424,105 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7f1d482b",
+    "id": "nf8013f20",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723286",
-    "title": "제니, 여름이다…신곡 '레스 댄 어 러버' 글로벌차트 1위 장악",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723029",
+    "title": "\"폭식 다음 날은 최소한만 먹는다\"…22기 옥순이 밝힌 다이어트 비결",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = K-팝 간판 걸그룹 '블랙핑크' 멤버 겸 글로벌 팝스타 제니(JENNIE)가 신곡으로 글로벌 차트 정상을 밟았다.",
-      "25일 소속사 OA엔터테인먼트(ODDATELIER)에 따르면, 전날 발매된 제니의 새 싱글 '레스 댄 어 러버(Less than a Lover)'는 필리핀, 인도네시아, 브라질 등 전 세계 27개 국가·지역 아이튠즈 '톱 송' 차트 1위에 올랐다.",
-      "올해 발표된 K-팝 솔로곡 중 최다 1위 기록이다."
+      "[서울=뉴시스]이지우 인턴 기자 = 예능 프로그램 '나는 솔로' 22기 옥순이 자신만의 다이어트 비결을 밝혔다.",
+      "24일 옥순은 자신의 소셜미디어(SNS) 계정에 다이어트 전후를 비교한 사진을 올렸다.",
+      "앞서 자신의 몸무게를 47㎏이라고 밝힌 옥순은 꾸준한 관리를 통해 체형을 바꾼 모습을 보여줬다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne7f95d9d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260726000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n86d982a0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723291",
+    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
+    "summary": [
+      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
+      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
+      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ff5a390",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723284",
+    "title": "'나솔' 13기 영수, 성병 루머에 음성 결과지 공개…\"악플 법적 대응\"",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = SBS Plus·ENA 연애 예능물 '나는 솔로'(나솔) 13기 출연자 영수(가명)가 자신을 둘러싼 성병(헤르페스) 감염 루머를 재차 부인하며 법적 대응을 예고했다.",
+      "영수는 25일 자신의 소셜 미디어를 통해 비뇨의학과에서 발급받은 단순포진바이러스(HSV) 항체 검사 결과 보고서를 공개했다.",
+      "공개된 결과지에 따르면 HSV Ab IgG 및 IgM 검사 모두 음성(Negative) 판정을 받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n69de31d0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725059500071",
+    "title": "\"美 대체관세 10년 세수, 무효된 기존관세보다 1천207조원 적어\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 지금까지 발표한 새로운 관세 조치로 확보할 것으로 예상되는 세수가 대법원 판결..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9149126b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725058900099",
+    "title": "러·우 상호 공습 계속…양국서 최소 20명 사망",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 우크라이나와 러시아가 25일(현지시간) 또다시 서로 공습을 주고받으면서 양국에서 전날 밤부터 최소 2..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c3a3a1e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "51분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/25/NW5ERSS2OZBRPNXPPWZBZWV6FA/",
+    "title": "맨해튼서 反이스라엘 증오범죄, 맘다니에 폭발하는 유대계",
+    "summary": [
+      "맨해튼서 反이스라엘 증오범죄, 맘다니에 폭발하는 유대계."
     ],
     "chips": [
       "#뉴스"
@@ -384,117 +532,11 @@ window.NEWS_DB = [
     "id": "n60e7773a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
+    "time": "58분 전",
     "url": "https://www.yna.co.kr/view/AKR20260725059000065",
     "title": "제2경인고속도로서 SUV 전도 사고…2명 부상",
     "summary": [
       "(인천=연합뉴스) 김상연 기자 = 25일 오후 9시 32분께 인천시 미추홀구 제2경인고속도로 문학나들목(IC) 인근에서 스포츠유틸리티차(SUV)..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na17da27a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/MZRGKZBUG4ZWMNJQMRRTCMBRMY/",
-    "title": "'폭탄주 이모' 함순복, 상견례 자리에서도 숨겨둔 폭탄주 공개('동치미')[순간포착]",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘속풀이쇼 동치미’ 스타들의 스타, 폭탄주 이모로 유명한 함순복이 출연했다.25일 방영한 MBN ‘속풀이쇼 동치미’(이하 ‘동치미’)에서는 별주부전 특집이 벌어졌다.",
-      "별주부전에서는 노부부단, 깡주부단으로 나뉘어 사연을 소개하는 형식이었다.",
-      "각양각색 분야에서 주부 전에 타이틀이 달린."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne4cac86c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/GY3TIMZYMI4GIM3CMQZTQNJSHE/",
-    "title": "‘박현호♥’ 은가은, 루머도 힘든데..산후우울증까지 “눈물 많아져” (‘살림남’)[순간포착]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] ‘살림남2’ 은가은이 산후 우울증을 고백했다.",
-      "24일 방송된 KBS 2TV 예능 ‘살림하는 남자들 시즌2’(이하 ‘살림남2’)에서는 박현호, 은가은 부부의 일상이 공개됐다.이날 은가은은 웃었다가 정색했다가 심한 감정기복을 보였다.",
-      "급기야 시장에서 박현호에게 화를 내기까지 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3d4c8f14",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/25/GYYDANJXMQ4WCY3FGQZWCNJTGE/",
-    "title": "프랑스·스페인 덮친 대형 산불…26만명 이상 대피",
-    "summary": [
-      "프랑스와 스페인에서 대형 산불로 25일(현지 시각) 주민 26만명 이상이 대피하는 등 피해가 커지고 있다.",
-      "프랑스 일간 르피가로에 따르면 로랑 누네즈 내무 장관은 이날 낮 상황 브리핑에서 지난 22일 남서부에서 시작된 산불이 계속 번져 현재까지 4만헥타르(㏊) 이상이 소실됐다고 밝혔다.",
-      "올해 들어 프랑스에서 불에 탄 면적은 약 9만8000㏊로 사상 최대."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n17d38c4a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/07/25/GFRTAMLFMQ2TQNZTMM3DEOJSGI/",
-    "title": "\"실감 안 나요\"…리센느, 데뷔 첫 지상파 음방 1위 \"미쳤다구\" [Oh!쎈 이슈]",
-    "summary": [
-      "[OSEN=장우영 기자] 그룹 리센느(RESCENE)가 데뷔 후 첫 지상파 음악방송에서 1위를 차지했다.리센느(원이, 리브, 미나미, 메이, 제나)는 25일 방송된 MBC ‘쇼! 음악중심’에서 리메이크 싱글 ‘Pretty Girl’로 1위를 차지했다.이날 에스파 ‘Lemonade’, 연준 ‘Ice Cream’과 1위 후보에 오른 리센느는 최종 합계 6772."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3cc07590",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723274",
-    "title": "예멘 정부군, 후티 반군 미사일·드론 기지 공습",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 예멘 정부군이 친이란 후티 반군의 미사일·드론 발사기지와 무기고를 공습한 것으로 전해졌다.",
-      "25일(현지 시간) 타임스오브이스라엘 등에 따르면 예멘군 소식통 2명은 \"정부군 공군이 이날 마리브주와 알자우프주에 있는 후티의 미사일·드론 발사기지와 무기고를 겨냥해 공습을 실시했다\"고 밝혔다.",
-      "소식통들은 이번 공습이 후티와 대치 중인 최전선을 따라 이뤄졌으며, 사우디아라비아와 후티 간 4년간 유지됐던 휴전이 붕괴된 이후."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0027b530",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725058800004",
-    "title": "서울시 전수조사 동작대교 진입로 8㎝ 단차 확인…위험 크지 않아",
-    "summary": [
-      "(서울=연합뉴스) 황재하 기자 = 성수대교 진입로에 이어 동작대교 진입로에서도 단차가 발견됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nadcaa6b3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "59분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725058600052",
-    "title": "창원서 해루질 나간 50대 연락 두절…심정지 상태로 발견",
-    "summary": [
-      "(창원=연합뉴스) 박영민 기자 = 경남 창원 앞바다에 해루질(맨손으로 어패류 등을 잡는 일)을 나간 50대 남성 A씨가 연락이 끊긴 뒤 심정지 ..."
     ],
     "chips": [
       "#뉴스"
@@ -530,40 +572,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd764e783",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723271",
-    "title": "태풍 '노을' 25~26일 中 상륙…광둥·홍콩 일대 초긴장",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 제12호 태풍 '노을'이 25일 저녁부터 26일 새벽 사이 중국 광둥성 루펑과 홍콩 인근 지역에 상륙할 것으로 예상되면서 중국 당국이 비상 대응 태세에 돌입했다.",
-      "중국 중앙기상대는 25일 오후 6시(현지 시간)를 기해 태풍 주황색 경보를 발령했다.",
-      "태풍 '노을'은 이날 오후 8시 기준 광둥성 후이둥현 남동쪽 약 140㎞ 해상에서 시속 15~20㎞의 속도로 북상 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc242366b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725056651007",
-    "title": "kt, 팀 최다 타이 9연승 질주…LG, 난타전 끝에 8연패 탈출(종합)",
-    "summary": [
-      "(서울=연합뉴스) 천병혁 김동한 기자 = kt wiz가 파죽의 9연승으로 팀 최다 연승 타이기록을 수립했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n657db905",
     "category": "IT",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607255242i",
     "title": "메모리 부족은 시작일 뿐…AI 시대 돈이 향하는 곳은 [빈난새의 빈틈없이월가]",
     "summary": [
@@ -577,7 +589,7 @@ window.NEWS_DB = [
     "id": "n4ccfb5e3",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026072558057",
     "title": "이강인, 3년 만에 스페인으로…AT마드리드 이적료 '671억'",
     "summary": [
@@ -591,7 +603,7 @@ window.NEWS_DB = [
     "id": "nc881fb4f",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260725/134363554/1",
     "title": "로또 1등 15.9억씩 18명…자동 명당 12곳 어디",
     "summary": [
@@ -607,25 +619,11 @@ window.NEWS_DB = [
     "id": "n8cd5c674",
     "category": "부동산",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026072557997",
     "title": "서울 주택가서 여고생에 흉기 휘두른 10대 구속",
     "summary": [
       "서울 주택가서 여고생에 흉기 휘두른 10대 구속."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n84a34bfa",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260725/134363549/1",
-    "title": "서울 강서구서 여고생에 흉기 휘두른 10대 구속",
-    "summary": [
-      "서울 강서구 화곡동 다세대주택가에서 여고생에게 흉기를 휘두른 10대 남성이 구속됐다.서울남부지법 오하나 판사는 25일 살인미수 혐의를 받는 고등학생 홍 모 군에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “증거 인멸 우려 및 도주 우려가 있다”며 구속영장을 발부했다.앞서 경찰은 전날(24일) 홍 군에 대한 구속영장을 신청했고, 검찰도 이를 받아들여 영장을 청구했다.홍 군은 지난 23일 오후 1시 25분쯤 화곡동 다세대주택가에서 10대."
     ],
     "chips": [
       "#뉴스"
@@ -638,8 +636,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -649,7 +647,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
+    "tag": "KBO",
     "mentions": "1420건",
     "trend": "+115%"
   }
