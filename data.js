@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-25 16:17:10
+// 마지막 업데이트: 2026-07-25 17:19:57
 window.NEWS_DB = [
   {
     "id": "nf5f7d389",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uOVoycjZFd2VZdEROWTI3Z1hpSEpWRG8yOW8xdEphYVd1R21HUjdYUURwOXAwZXlmOG5hYldpeXRHMFFZSTJCSFVHdVZMTEVKWmtQWktkbTFlNDjSAWBBVV95cUxOODJtZ3hTZEpwYXVBVFFRanZjWUNzcUFMMVpZMDgwcmMtOXp0T1dvSUt5M2xDRHRFMU9Nd3JZY094d0lFYzQ2cEpOQ3lnQmJ1ZENnVk1jRE91OEhqTWQwWHA?oc=5",
     "title": "한미 빅테크 1천400조원 AI 동맹…반도체·AI공급망 구축 본격화(종합)",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nf5149588",
     "category": "IT",
     "source": "SBS Biz",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMkNFSUpDZ3NpaWg3eUpTeXo1WEQ1bWIwOEthRDhuRWlvSHZWc3dIelpBazZSaklqTTJDdTN4SlZVSDVFa0JqLTd5N1JuT3dTbDdacXBJLWQ?oc=5",
     "title": "이재용·올트먼, 오픈AI 본사서 회동…HBM·파운드리 협의 전망",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n15215ea1",
     "category": "IT",
     "source": "블로터",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BRDdpbWNlaV9hbFhuR0FUN1pBUW9PZE1XQno1ZS1GSXlSVmpsc1l4a210Q2hqbUxyd3MzUEEteVJJVG9oY2xWNzduZGMyM3oyS196RG9DNzRBbXVkUFdXTW4tbnZpb0hY0gFsQVVfeXFMTlVNVi1OdHZaa0czMWxNZXowOFhPbGIxd3d1TktSV3YtM0lUdW00aDVWT184VUpIUTBxRm9MZ1hjcGI4U0ZwTFZkaDBmUnJHU2tCTk0wbWR1cjN6a3MwUG1hUU5tMnIxTEZFbTll?oc=5",
     "title": "SK, 엔비디아와 5000억달러 AI 협력…MS·앤트로픽도 합류",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n91d8987e",
     "category": "IT",
     "source": "테크M",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUTVBSGVOd0ZfYjlzblJvWElkUkQxM2twWl9xcTctMUJES0diamQwQUNPVkNzajdIUS04RXhHakN5eU9Sam1uUjQ2dkczdkFJR2ZBdWxTQWFKbWg3djQyQ3BFdTc2Z9IBakFVX3lxTE1WWmNub0NBRWI2U0xRVHhZQU4taktRMFh5cTNvTmhyNjJRS1daNXVCcHlKY1FwSzlueE9wODY4WERjd0JnTU9Id0JuSEtNVy04aEVpNUFXVFQxWlV3NXZlZlJNMmp1b1B3RkE?oc=5",
     "title": "이재명 대통령 '韓 AI 허브 구축'...삼성·SK, 9500억달러 AI 계약 체결",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "n5868a989",
     "category": "IT",
     "source": "초이스스탁US",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
@@ -314,10 +314,122 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6bfed217",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/26/GZSGENDCGYYTINTDGVTDQNLBMQ/",
+    "title": "'레전드 그리즈만의 후계자' 이강인이 받은 아틀레티코 마드리드 등번호 7번 무게감 엄청나다..'시메오네가 그를 월드클래스로 키울 것이다'",
+    "summary": [
+      "[스포츠조선 노주환 기자]프랑스 파리생제르맹(PSG)에서 스페인 아틀레티코 마드리드로 이적한 한국 국가대표 이강인의 새 역할과 임무는 부여받은 등번호 7번으로 분명히 알 수 있다.",
+      "직전 7번 유니폼의 주인공은 아틀레티코의 레전드 앙투안 그리즈만(올랜도)이었다.",
+      "아틀레티코 구단은 이강인을 그리즈만의 후계자로 판단, 그 역할을 해달라는 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne89a6132",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723032",
+    "title": "오윤아, 6㎏ 일부러 찌운 이유…\"살 빠지니 몸 너무 안 좋아졌다\"",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 배우 오윤아가 최근 건강을 위해 일부러 체중을 늘렸다고 밝혀 눈길을 끌었다.",
+      "지난 24일 유튜브 채널 'Oh!윤아'에는 오윤아의 본업 모먼트라는 제목의 영상이 공개됐다.",
+      "영상에는 방송 녹화를 앞두고 도시락으로 식사하는 오윤아의 일상이 담겼다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2d08c0cd",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003722937",
+    "title": "950m 상공 열기구서 펼쳐진 '자전거 묘기'…\"두 바퀴 돌고 낙하산 착지\"",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 오스트리아의 한 익스트림 스포츠 선수가 상공에서 열기구에 매달린 채 회전하는 스턴트 묘기를 펼쳤다.",
+      "지난 23일(현지시간) 오스트리아 공영방송 ORF는 익스트림 스포츠 선수 엘리아스 슈베르츨러가 고도 950m 상공에서 열기구에 매달린 채 산악자전거를 탔다고 보도했다.",
+      "슈베르츨러는 두 차례 공중 앞구르기를 한 뒤 낙하산을 펼쳐서 내려갔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n99478132",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260724_0003722275",
+    "title": "남자가 여자보다 방귀 더 많이 뀐다?…호주 연구진이 확인한 '방귀 데이터'",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 하루에 방귀를 몇 번 뀌는 것이 정상일까.",
+      "사람이 깨어 있는 동안 배출하는 방귀는 평균 5차례인 것으로 나타났다.",
+      "남성이 여성보다 소폭 많았고, 저녁 시간대에 가장 잦았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfda86925",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "39분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/26/G44DCYRWGU3TCZJWGY2DIOBRME/",
+    "title": "'반등 성공' 7G 만에 웃었다…7승 달성한 '제2김광현', “포수 덕분에 위기 넘겨” 어떤 조언 있었나 [오!쎈 인천]",
+    "summary": [
+      "[OSEN=인천, 홍지수 기자] 프로야구 SSG 랜더스가 선발 김건우의 호투와 홈런 3방을 앞세워 4연승을 달렸다.",
+      "SSG는 25일 인천 SSG랜더스필드에서 열린 2026 신한 SOL KBO리그 NC 다이노스와 홈경기에서 10-4로 승리했다.",
+      "선발 등판한 김건우가 마침내 웃었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc1bb242e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/26/GA3DQY3FMY2TKZBQGUZTMNZVMU/",
+    "title": "'이게 꿈은 아니겠지' 올 시즌 최초 사건! 선발승→선발승→선발승→선발승",
+    "summary": [
+      "[스포츠조선 나유리 기자]4경기 연속 선발승이라니 이게 꿈은 아니겠지.",
+      "드디어 톱니바퀴가 맞물려 돌아간다.",
+      "SSG 랜더스가 4연승을 달렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc0fb46eb",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "50분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072522352565739",
+    "title": "'패패패패패패패패승' LG 마침내 이겼다! 문정빈·오스틴·박해민 4안타 폭발! 한화 꺾고 8연승 탈출... KT는 9연승 질주 [종합]",
+    "summary": [
+      "LG 트윈스가 마침내 8연패를 탈출하고 후반기 첫 승을 거뒀다.",
+      "LG는 25일 대전한화생명볼파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 방문경기에서 한화 이글스를 15-11로 꺾었다.",
+      "이로써 LG는 7월 8일 대구 삼성 라이온즈전 이후 17일 만에 승리하며 53승 40패로 2위 KT 위즈와 승차를 2.5경기 차로 유지했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n923eb990",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "55분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153693",
     "title": "엔비디아·브룩필드 100억달러 베팅…네이버 'AI 인프라 기업'으로 다시 평가받는다",
     "summary": [
@@ -332,10 +444,56 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndad1365d",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "55분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072523174729985",
+    "title": "[오피셜] 김재환→최희섭→오재일→터커→김현수→나성범→소크라테스→최형우→강백호→문현빈, 그리고 11번째 주인공 KIA 박재현이었다",
+    "summary": [
+      "KIA 타이거즈 외야수 박재현(20)이 2026시즌 기아 홈런존의 세 번째 주인공이 됐다.",
+      "박재현은 25일 광주-KIA 챔피언스필드에서 열린 키움 히어로즈와 경기에 8회말 1사 상황에서 상대 불펜 최현우의 공을 공략, '기아 홈런존'을 직격하는 비거리 125m 솔로포를 터트렸다.",
+      "KIA는 광주-KIA 챔피언스필드 개장 첫해(2014년)부터 우측 잔디석에 '기아 홈런존'을 운영하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74822144",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "57분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725050552081",
+    "title": "서유럽 최악 산불에 26만명 대피…투르드프랑스도 타격(종합2보)",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 프랑스와 스페인을 덮친 최악의 산불로 25일(현지시간) 현재까지 모두 26만명 넘는 주민이 대피했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5e433631",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "57분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072516084168995",
+    "title": "'연승이 이렇게 힘들었나' SSG 3개월 만에 승승승승, 14G 만에 무실점 '김광현 후계자'에 \"한 단계 더 성장하길\" [인천 현장]",
+    "summary": [
+      "시즌 초반 1위를 달렸으나 6연패와 함께 4위로 내려앉았고 13연패를 당하며 8위까지 추락했다.",
+      "그리고는 다시 5연패에 빠지며 9위가 됐고 9연패로 실낱 같은 가을야구 희망도 기대하기 힘들어졌다.",
+      "특히나 13연패의 시작점으로부터 2개월 동안 승률은 0.208로 지옥 같은 시간을 보냈다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "ne2979f04",
     "category": "IT",
     "source": "테크M",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153692",
     "title": "[테크M 이슈] '韓 인터넷 독립투사' 이해진에 빅테크·글로벌 자본이 주목하는 이유",
     "summary": [
@@ -350,7 +508,7 @@ window.NEWS_DB = [
     "id": "n71aa8dc3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260726_0003723296",
     "title": "英매체 \"이란, 런던 공작원 활용 영국 공격 가능\"",
     "summary": [
@@ -366,7 +524,7 @@ window.NEWS_DB = [
     "id": "n5f1b1f21",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/07/26/2026072522101470735",
     "title": "이강인 ATM 입단에 日 누리꾼들, 호평 vs 비난 엇갈려 \"쿠보보다 위 인정\" vs \"또 벤치나 지켜라\"",
     "summary": [
@@ -379,123 +537,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nab4c83f7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/26/MFQTEMRYGU2WKMJTMNQTMOBWGE/",
-    "title": "'7번! 태극마크·UCL·슛돌이까지' 아시아 최초! 이강인, 라리가 빅3 입성... ATM도 \"환영합니다\"",
-    "summary": [
-      "[OSEN=우충원 기자] 기다림은 끝났다.",
-      "이강인이 아틀레티코 마드리드 유니폼을 입었다.",
-      "아시아 선수 최초로 스페인 라리가 '빅3' 구단에서 뛰는 새 역사를 쓰게 됐다.아틀레티코 마드리드는 25일(이하 한국시간) 공식 홈페이지를 통해 \"이강인, 환영합니다!\"라며 영입을 공식 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n02b4b257",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/26/GRRTMNLBMVRGIMDDME3DMOBUGQ/",
-    "title": "후티 “아람코 석유시설 공격”…사우디와 보복전 격화",
-    "summary": [
-      "사우디아라비아와 예멘 후티 반군이 서로의 거점을 겨냥한 보복 공습을 주고받으면서 긴장이 다시 고조되고 있다.",
-      "로이터통신 등에 따르면 후티 반군은 25일(현지 시각) 드론과 미사일로 사우디 국영 석유기업 아람코가 운영하는 지잔과 얀부의 시설을 공격했다고 밝혔다.",
-      "후티 대변인 야히야 사리는 “앞으로 군사 행동을 더욱 확대하겠다”고 경고했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1244b14d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003722578",
-    "title": "\"46세 맞아?\" 황보, 태국서 과감한 비키니 자태… 군살 제로 몸매 비결은 '테니스'",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 걸그룹 '샤크라' 출신 가수 황보가 태국에서 군살 없는 비키니 자태를 보여줬다.",
-      "22일 자신의 SNS를 통해 황보는 태국 여행 중 찍은 사진을 여러 장 공유했다.",
-      "사진 속 그는 올해 46세라는 사실이 믿기지 않을 만큼 군살 없는 몸매를 보여줬다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne47b9f03",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003722274",
-    "title": "축농증에 복용하는 '이 약'…\"90일 넘기지 마세요\"",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 비용종성 만성 비부비동염 환자가 먹는 스테로이드의 안전한 사용 기준이 제시됐다.",
-      "먹는 스테로이드 처방일수가 연간 90일을 넘을 경우 무혈성 골괴사 위험이 약 2.4배, 골다공증 위험이 약 1.6배, 폐렴 위험이 약 1.4배 높아지는 만큼 주의가 요구된다.",
-      "26일 의료계에 따르면 나민석 세브란스병원 이비인후과 교수와 정인경·이명지 연세대 의과대학 의생명시스템정보학교실 교수 연구팀은 비용종성 만성 비부비동염 환자에서."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "ndfb27ec9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003722671",
-    "title": "부산 금정문화재단 '도시숲 예술치유' 2기 참가자 모집",
-    "summary": [
-      "[부산=뉴시스]원동화 기자 = 부산 금정문화재단은 2026 문화로 치유 지원사업 '도시숲 예술치유' 2기 참가자를 오는 27일부터 8월13일까지 모집한다고 26일 밝혔다.",
-      "'도시숲 예술치유'는 지역의 생태 자원을 문화예술 기반 치유 공간으로 활용해 시민들이 자연 속에서 심리적 안정과 회복을 경험할 수 있도록 기획된 프로그램이다.",
-      "지난 6월부터 운영된 1기 프로그램은 참가자 모집 단계부터 높은 관심을 받았으며 명상과 동작, 풍류를 주제로 한 예술."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n39caedeb",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/26/GBSTOZRTGU4WKNJXME2GIYRTHA/",
-    "title": "왜 무사 만루에서 트레이드 이적생 신고식을 했을까. 볼넷, 안타, 2루타→3실점 난타 역전패...하주석은 1타점 2루타 쳤는데",
-    "summary": [
-      "[OSEN=대전, 한용섭 기자] 무사 만루에서 등판할 줄이야.",
-      "KIA 타이거즈에서 한화 이글스로 트레이드된 투수 이형범이 무사 만루에서 등판해 이적 신고식을 치렀다.",
-      "결과는 승계 주자를 모두 득점 허용했고, ⅔이닝 2피안타 1볼넷 3실점으로 호된 신고식을 치렀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfe04f175",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/26/MZTGCNRVMY4WIZDFMM2DQODGGA/",
-    "title": "전현무, ‘이상형’ 원진아와 결국 단둘이 만났다 “DM으로 연락해”(전참시)[핫피플]",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 전현무가 이상형으로 언급했던 원진아와 만났다.25일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 박진영, 김아영이 출연했다.공연장에 도착한 김아영은 대기실을 찾아다니며 인사를 했고 분장실에서 원진아와 만났다.",
-      "이에 전현무는 급격히 당황하는 모습을 보였다.",
-      "이전 방송에서 전현무는 인상 깊."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n57f43c08",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "58분 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260726000300099",
     "title": "후티 \"아람코 석유시설 공격\"…'중동 제2전선' 긴장 고조(종합2보)",
     "summary": [
@@ -506,26 +551,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5e477e8e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072508334265052",
-    "title": "오타니 극렬 안티, 또 폭탄 발언! \"투수 영원히 포기하고 타자에 집중해야\"",
-    "summary": [
-      "오타니 쇼헤이(32·로스앤젤레스 다저스)의 극렬 안티가 또다시 매서운 비판을 제기했다.",
-      "이제 메이저리그에서 투수를 포기하고 타자에 전념해야 한다는 취지의 발언을 한 것이다.",
-      "메이저리그 중계 방송사 'MLB 네트워크'의 간판 프로그램 'MLB 나우'에 출연한 야구 분석가 랍 파커는 24일(한국시간) \"이번 시즌 남은 경기뿐만 아니라 마운드 위 오타니의 모습은 이제 영원히 보지 말아야 한다\"며 강도 높은 폭탄 발언을 했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "neaa78d92",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153689",
     "title": "삼성SDS, 앤트로픽과 파트너십...'클로드' 기반 국내 AX 사업 확대",
     "summary": [
@@ -541,7 +570,7 @@ window.NEWS_DB = [
     "id": "n2a17c477",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026072441777",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 26일 띠별 추천 점심메뉴",
     "summary": [
@@ -555,7 +584,7 @@ window.NEWS_DB = [
     "id": "ne7f95d9d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260726000100011",
     "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
@@ -570,7 +599,7 @@ window.NEWS_DB = [
     "id": "n69de31d0",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260725059500071",
     "title": "\"美 대체관세 10년 세수, 무효된 기존관세보다 1천207조원 적어\"",
     "summary": [
@@ -581,56 +610,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9149126b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725058900099",
-    "title": "러·우 상호 공습 계속…양국서 최소 20명 사망",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 우크라이나와 러시아가 25일(현지시간) 또다시 서로 공습을 주고받으면서 양국에서 전날 밤부터 최소 2..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ef5780c",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/25/2026072522220646028",
-    "title": "'삼성 계속 상승중↑' 승장 박진만 감독 함박웃음 \"원태인이 원태인의 모습으로 돌아왔다\"",
-    "summary": [
-      "삼성 라이온즈의 3연승을 이끈 '승장' 박진만 감독이 승리 소감을 밝혔다.",
-      "삼성은 25일 서울 잠실야구장에서 열린 두산과 2026 신한 SOL KBO 리그 정규시즌 원정경기에서 4-1로 승리했다.",
-      "이로써 전날(24일) 15-4 대승을 거둔 삼성은 최근 3연승에 성공하며 상승세를 계속 이어갔다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n346c5739",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/25/2026072522080131099",
-    "title": "손담비 또 논란...\"신발 신고 침대에? 무슨 매너냐\" 누리꾼 '시끌'",
-    "summary": [
-      "최근 호텔 객실 내에서 비눗방울 놀이를 해 사과했던 가수 손담비가 이번엔 야외에서 신고 다니던 운동화를 그대로 착용한 채 호텔 침대에 앉아 있는 사진을 공개해 누리꾼들이 설전을 벌였다.",
-      "지난 24일 손담비는 자신의 인스타그램에 \"오늘은 일본 여행 마지막 날.",
-      "마지막까지 맛있게 아낌없이 즐기고 가는 중\"이라는 글과 함께 사진 여러 장을 게재했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n3cb592c5",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260725/134363577/1",
     "title": "LG, 난타전 끝에 한화 15-11 제압…8연패 탈출·후반기 첫승",
     "summary": [
@@ -638,6 +621,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "ndce13bdd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134363574/1",
+    "title": "후티, 사우디 아람코 석유시설 공격…예멘 정부군도 후티 거점 공습",
+    "summary": [
+      "예멘의 친이란 후티 반군이 사우디아라비아 국영 석유기업 아람코 시설을 탄도미사일과 드론으로 공격했다고 주장하며 보복 공세를 선언했다.",
+      "이에 맞서 예멘 정부군도 후티 반군의 미사일·드론 기지를 공습하는 등 양측의 군사 충돌이 격화하고 있다.알자지라에 따르면 후티 반군은 25일(현지시간) 성명을 통해 사우디가 호데이다 항구와 카마란섬을 공습했다며 이를 규탄하고, 자국 방공망이 “적기를 요격했다”고 주장했다.이어 보복 차원에서 지잔과 얀부에 있는 사."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -659,8 +657,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
