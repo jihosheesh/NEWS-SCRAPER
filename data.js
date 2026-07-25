@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-25 07:38:00
+// 마지막 업데이트: 2026-07-25 08:39:07
 window.NEWS_DB = [
+  {
+    "id": "n232b8ba1",
+    "category": "IT",
+    "source": "파이낸셜뉴스",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LZ1dkbHRIT2NSdWI2bzlNMi1XUlVULVVYUkw2ajBxVkVIZFpqVFFuSFIwM0RrakpTcHRxRHpLbU1Ja0JOcngyT21JbXNaTzBNWlYyVF9ZT0FCdw?oc=5",
+    "title": "이재용·올트먼, 오픈AI 본사서 회동…HBM·파운드리 협력 모색",
+    "summary": [
+      "이재용·올트먼, 오픈AI 본사서 회동…HBM·파운드리 협력 모색 파이낸셜뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
   {
     "id": "n29d29d57",
     "category": "IT",
     "source": "네이트",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sYmtmQUgxRWNwSGpjZzJsRGgzNVMxZ2QtWjZDUE5qYUI3Vm5KcFRjbEM1NG9fNlJJVE13elAxeXEwcC03eHNtOGIyOVlhY3NCWTVB?oc=5",
     "title": "이재용·올트먼, 오픈AI 본사서 만난다…HBM·파운드리 협의할듯",
     "summary": [
@@ -20,7 +35,7 @@ window.NEWS_DB = [
     "id": "n15215ea1",
     "category": "IT",
     "source": "블로터",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BRDdpbWNlaV9hbFhuR0FUN1pBUW9PZE1XQno1ZS1GSXlSVmpsc1l4a210Q2hqbUxyd3MzUEEteVJJVG9oY2xWNzduZGMyM3oyS196RG9DNzRBbXVkUFdXTW4tbnZpb0hY0gFsQVVfeXFMTlVNVi1OdHZaa0czMWxNZXowOFhPbGIxd3d1TktSV3YtM0lUdW00aDVWT184VUpIUTBxRm9MZ1hjcGI4U0ZwTFZkaDBmUnJHU2tCTk0wbWR1cjN6a3MwUG1hUU5tMnIxTEZFbTll?oc=5",
     "title": "SK, 엔비디아와 5000억달러 AI 협력…MS·앤트로픽도 합류",
     "summary": [
@@ -35,7 +50,7 @@ window.NEWS_DB = [
     "id": "n91d8987e",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUTVBSGVOd0ZfYjlzblJvWElkUkQxM2twWl9xcTctMUJES0diamQwQUNPVkNzajdIUS04RXhHakN5eU9Sam1uUjQ2dkczdkFJR2ZBdWxTQWFKbWg3djQyQ3BFdTc2Z9IBakFVX3lxTE1WWmNub0NBRWI2U0xRVHhZQU4taktRMFh5cTNvTmhyNjJRS1daNXVCcHlKY1FwSzlueE9wODY4WERjd0JnTU9Id0JuSEtNVy04aEVpNUFXVFQxWlV3NXZlZlJNMmp1b1B3RkE?oc=5",
     "title": "이재명 대통령 '韓 AI 허브 구축'...삼성·SK, 9500억달러 AI 계약 체결",
     "summary": [
@@ -50,7 +65,7 @@ window.NEWS_DB = [
     "id": "n5868a989",
     "category": "IT",
     "source": "초이스스탁US",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
@@ -65,7 +80,7 @@ window.NEWS_DB = [
     "id": "nd74f148e",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SdWx3UXZCaWItczV4bkdDZndtYmszeDZZRW9sTFktc0l2TEtsLXdEUDFVSDlyZDFoQ2ZDNWxDR3I0MkpNU3NON0FIRzN6b2ktR0ZTWlQ5bk5iYWvSAWBBVV95cUxQLV83MkRKdmdtZkt5OFRfbzFuaWs5M3o2U3NVMzFlRTR4Qld2MUQ0cjcwREp0UDNlUVpxbkJNdE1BNEl0TEFNbHBFOWJLeGs2TkxZZDdXSnl6RTNLdE1nYkY?oc=5",
     "title": "엔비디아·오픈AI도 불러모은 K반도체…\"韓없이 AI혁명도 없어\"",
     "summary": [
@@ -125,19 +140,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nccb73b86",
-    "category": "IT",
-    "source": "인베스트조선",
-    "time": "29일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
-    "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
+    "id": "nba91eead",
+    "category": "부동산",
+    "source": "웹플러스뉴스",
+    "time": "30일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
+    "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
     "summary": [
-      "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 인베스트조선."
+      "전국 집값 상승세 속…대구·경북은 매매 하락 지속 웹플러스뉴스."
     ],
     "chips": [
-      "#삼성전자",
-      "#SK하이닉스",
-      "#채용"
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n5ace0115",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "37일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
+    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
+    "summary": [
+      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -259,24 +286,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n01f4c085",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "124일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
-    "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
-    "time": "151일 전",
+    "time": "152일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
@@ -284,21 +297,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "162일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
     ]
   },
   {
@@ -385,265 +383,266 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na0275356",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723067",
-    "title": "[프로필]신장식 조국혁신당 신임 대표…창당 1호 영입인재",
-    "summary": [
-      "[서울·수원=뉴시스] 한재혁 권신혁 기자 = 조국혁신당 신임 당대표로 선출된 신장식 조국혁신당 대표는 시민사회 활동과 정당 활동을 두루 거친 창당 1호 영입인재 출신 초선 의원이다.",
-      "신 대표는 1971년 충청북도 청주시에서 태어나 청주중앙초등학교, 청주동중학교, 청주고등학교를 졸업한 뒤 서울대 정치학과에 입학했다.",
-      "이후 제2회 전국동시지방선거 출마를 시작으로 16·17·18대 국회의원총선거에 출마했으나 모두 낙선했다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n61540152",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260725/134363335/1",
-    "title": "‘정치적 중립 논란’ FIFA 회장 조사 불발…IOC “우리 권한 밖”",
-    "summary": [
-      "2026 북중미 월드컵에서 정치적 중립성 규정 위반 의혹이 제기된 잔니 인판티노 국제축구연맹(FIFA) 회장에 대한 국제올림픽위원회(IOC) 조사가 불발됐다.글로벌 스포츠매체 ESPN은 로이터통신 보도를 인용해 IOC가 비영리단체 페어스퀘어(FairSquare)가 인판티노 회장의 정치적 중립성 규정 위반에 대한 민원은 기각했다고 전했다.영국 런던에 본부를 둔 페어스퀘어는 인판티노 회장이 도널드 트럼프 미국 대통령에 대한 지지를 명확히 표명하는."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n774c84a8",
-    "category": "사회",
-    "source": "뉴시스",
+    "id": "n0186d994",
+    "category": "경제",
+    "source": "아시아경제",
     "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003722967",
-    "title": "\"배우자 치매, 남일 아니었다\"…내 치매 위험 최대 74% 높아져",
+    "url": "https://view.asiae.co.kr/article/2026072517340767104",
+    "title": "2주 만에 사라진 미군 이란 공습 발표…트럼프 '대화' 언급",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 배우자가 치매를 진단받으면 함께 사는 배우자의 치매 발병 위험도 최대 74% 높아질 수 있다는 연구 결과가 나왔다.",
-      "미국 뉴욕포스트는 지난 22일(현지 시간) 이 같은 내용을 소개했다.",
-      "대만 국립보건연구원(NHRI) 연구진이 기혼자 95만5105명을 분석한 이번 연구는 지난 20일 국제 의학 학술지 '자마 네트워크 오픈'에 게재됐다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nfd28021e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/25/2026072515492833987",
-    "title": "삼성 라인업 대거 변화, 강민호-최형우-류지혁 선발 라인업 제외... 두산전 선발 출격 명단 공개 [잠실 현장]",
-    "summary": [
-      "전날(24일) 대승을 거둔 삼성이 위닝시리즈 예약에 도전한다.",
-      "삼성은 25일 오후 6시 서울 잠실야구장에서 두산을 상대로 2026 신한 SOL KBO 리그 정규시즌 원정 경기를 치른다.",
-      "삼성은 올 시즌 56승 2무 34패를 기록하며 리그 단독 1위를 질주하고 있다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n3edec4f7",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/25/2026072516121479238",
-    "title": "조국혁신당 신임 당 대표에 신장식…최고위원 차규근·황현선 선출",
-    "summary": [
-      "[the300] 조국혁신당 신임 당 대표로 신장식 후보가 당선됐다.",
-      "최고위원으로는 황현선·차규근 후보가 선출됐다.",
-      "조국혁신당은 25일 오후 2시 수원 컨벤션센터에서 전국당원대회를 열고 새 당대표·최고위원 선거 결과를 발표했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd49984c2",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/25/2026072515493491148",
-    "title": "'이럴수가' 두산 악재, 삼성 상대 '박찬호 제외' 왜?... 원태인 맞서 손아섭 DH 선발 출격 [잠실 현장]",
-    "summary": [
-      "두산 베어스 내야진의 핵심 박찬호가 선발 라인업에서 제외됐다.",
-      "두산은 25일 오후 6시 서울 잠실야구장에서 삼성 라이온즈를 상대로 2026 신한 SOL KBO 리그 정규시즌 홈경기를 치른다.",
-      "두산은 전날(24일) 삼성에 4-15로 완패하며 주말 3연전 중 첫 경기를 내줬다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n14eac4f9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725031700530",
-    "title": "행안부, 폭염 대비 현장점검…\"취약계층 빈틈없이 보호\"",
-    "summary": [
-      "(서울=연합뉴스) 홍준석 기자 = 김광용 행정안전부 재난안전관리본부장은 25일 폭염중대경보가 내려진 대구를 방문해 폭염 대비 상황을 점검했다."
+      "미군이 2주 만에 이란 공습 사실을 발표하지 않았다.",
+      "24일(현지시간) 미 CNN 방송에 따르면 중동을 관할하는 미 중부사령부(CENTCOM)는 미 동부시간 기준 23일까지 13일 연속 이란 내 군사 표적을 공습했다고 엑스(X·옛 트위터)를 통해 알려왔다.",
+      "그러나 24일에는 이 같은 발표가 없었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3461dffa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003722724",
-    "title": "정부, '폭염' 대응 점검…무더위 쉼터 연장·드론 순찰도",
-    "summary": [
-      "[서울=뉴시스] 강지은 기자 = 김광용 행정안전부 재난안전관리본부장은 25일 대구를 방문해 무더위 쉼터 운영관리 실태와 폭염 취약계층 보호 대책을 점검했다.",
-      "이번 점검은 장마 이후 본격적인 무더위가 시작되고, 대구 등 전국적으로 폭염특보가 지속됨에 따라 현장의 대응 상황을 살피기 위해 마련됐다.",
-      "김 본부장은 주민들이 자주 이용하는 내당도서관 무더위 쉼터를 찾아 냉방설비 정상작동 여부, 주말과 공휴일 개방 상황, 휴게공간 관리 상태 등을 확인했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36e66fed",
+    "id": "na5d0c823",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/25/2026072515052650962",
-    "title": "\"펩 온다더니 피를로가 웬말\" 伊 대표팀 감독 부임 임박... 말디니가 밀어붙였다, 팬들은 불만 폭발",
-    "summary": [
-      "펩 과르디올라를 기다렸던 이탈리아 축구대표팀의 최종 선택은 안드레아 피를로였다.",
-      "다만 현지 분위기가 마냥 반갑지만은 않다.",
-      "이탈리아 가제타 델로 스포르트는 24일(한국시간) \"피를로가 이탈리아 대표팀 감독직을 수락했다\"며 \"과르디올라가 제안을 거절한 뒤 파올로 말디니와 레오나르두는 이탈리아 대표팀의 부활에 가장 적합하다고 판단한 인물에게 지휘봉을 맡기기로 했다\"고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne715219d",
-    "category": "사회",
     "source": "뉴시스",
     "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723184",
-    "title": "조국혁신당 당대표에 신장식 선출…최고위원 차규근, 황현선",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723207",
+    "title": "중부 지방 소나기…낮 최고 37도 폭염[내일날씨]",
     "summary": [
-      "[서울·수원=뉴시스] 한재혁 권신혁 기자 = 신장식 조국혁신당 전 당대표 직무대행이 25일 조국혁신당 당대표에 선출됐다.",
-      "신 대표는 4기 당대표 선거에 단독 출마했다.",
-      "신 대표는 이날 오후 경기 수원컨벤션센터에서 열린 2026년 조국혁신당 전당대회에서 찬성 96.7%, 반대 3.3%로 당선됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n53ad3903",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725047600007",
-    "title": "\"그동안 한 게 얼만데\"…최민석 위로한 김원형 두산 감독",
-    "summary": [
-      "(서울=연합뉴스) 김동한 기자 = 현역 시절 통산 134승을 거둔 프로야구 두산 베어스 김원형 감독이 프로 데뷔 후 최악의 투구로 고개를 숙인 ..."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb3650417",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725047200084",
-    "title": "말레이 '이스라엘인 입국금지' 놓고 美와 갈등…주미대사 초치돼",
-    "summary": [
-      "(하노이=연합뉴스) 박진형 특파원 = 이슬람 국가 말레이시아의 이스라엘 국민 입국 제한 정책과 관련해 도널드 트럼프 미국 행정부가 주미 말레이시..."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nc7f1219d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724144400001",
-    "title": "조국혁신당 '신장식號' 출항…조국 부재 속 독자 생존 시험대",
-    "summary": [
-      "(서울=연합뉴스) 김정진 기자 = 조국혁신당 '신장식호'가 25일 닻을 올렸다."
+      "[서울=뉴시스]조수원 기자 = 일요일인 26일은 중부 지방을 중심으로 소나기가 내리겠다.",
+      "또 전국 대부분 지역에서 매우 무더운 날씨를 보이겠다.",
+      "기상청은 25일 \"오늘부터 모레(27일) 사이 중부 지방을 중심으로 소나기가 내리는 곳이 있겠다\"며 \"전국 대부분 지역에 폭염특보가 발효된 가운데, 당분간 매우 무덥겠고 열대야가 나타나는 지역도 많겠다\"고 예보했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb50001e1",
-    "category": "사회",
+    "id": "n4177fe34",
+    "category": "스포츠",
     "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260725/134363322/1",
-    "title": "조국혁신당 새 대표에 단독출마 신장식…찬성률 96.7%",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134363399/1",
+    "title": "이강인 AT마드리드 입단 공식 발표…671억원에 5년 계약",
     "summary": [
-      "조국혁신당 신임 당대표로 신장식 의원이 25일 선출됐다.",
-      "신 의원은 이번 당 대표 선거에 단독 출마하며 사실상 일찌감치 당선을 확정했다.",
-      "조국혁신당은 이날 수원 컨벤션센터에서 전국당원대회(전당대회)를 열고 신 의원을 당대표로 선출했다."
+      "한국 축구대표팀의 공격을 이끌었던 이강인(25)이 프랑스 파리 생제르맹(PSG)을 떠나 스페인 아틀레티코 마드리드(AT마드리드)에 입단했다.",
+      "AT마드리드는 25일 인스타그램 등을 통해 이강인을 영입했다고 발표했다.",
+      "계약기간은 5년이다.구단은 “한국 국가대표 이강인의 이적에 PSG와 합의했다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "ndc1cd685",
+    "id": "n4f7634e7",
     "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260725/134363312/1",
-    "title": "조국 “상위 1% 부동산 공화국 해체해야…2028 총선 준비해달라”",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723195",
+    "title": "김지영♥남성진 아들, 몰라보게 성장…\"훈남이네\"",
     "summary": [
-      "조국 조국혁신당 전 대표가 25일 “지금 한국 정치 지형이 오른쪽으로 위태롭게 기울고 있다”며 “검찰개혁 법안을 둘러싼 집권여당 내부의 혼란에서 알 수 있듯, 대한민국의 개혁 원칙도 흔들리고 있다”고 밝혔다.",
-      "조 전 대표는 이날 경기 수원시 수원컨벤션센터에서 열린 조국혁신당 전국당원대회 영상 축사를 통해 “조국혁신당은 검찰개혁의 선봉 정당을 넘어 한 걸음 더 나아가야 한다.",
-      "본격적으로 불평등을 이기는 정당으로 진화해야 한다”며 이같이 말했다.그."
+      "[서울=뉴시스]전재경 기자 = 배우 김지영이 훌쩍 성장한 아들의 근황을 공개했다.",
+      "김지영은 24일 자신의 소셜미디어에 \"아들 다 컸네\"라는 글과 함께 아들의 프로필 사진으로 보이는 사진을 올렸다.",
+      "공개된 사진 속 아들은 또렷한 이목구비와 눈웃음을 드러내며 카메라를 응시했다."
     ],
     "chips": [
-      "#부동산",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncbd15697",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723127151007",
+    "title": "3년만에 라리가 복귀 이강인…AT 마드리드 '공격의 혈'을 뚫어라(종합)",
+    "summary": [
+      "(서울=연합뉴스) 이영호 기자 = 스페인 프로축구 라리가의 '명가' 아틀레티코 마드리드(AT 마드리드)가 이강인(25)을 품은 가장 큰 이유는 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n48e112ec",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/MZRTSMZSGM2DCOBYGM2DCODDMM/",
+    "title": "이지현, 20년만 쥬얼리 완전체 심경 \"가족 상봉한 느낌..든든했다\"(차오룸)",
+    "summary": [
+      "[OSEN=김나연 기자] 쥬얼리 이지현이 20년만에 멤버들과 함께 완전체 무대를 꾸민 심경을 전했다.24일 차오루 유튜브 채널에는 \"과천 미용실에서 근무하는 쥬얼리 지현 선배님 찾아가서 머리 하고 왔어요\"라는 제목의 영상이 업로드 됐다.이날 차오루는 '차오룸' 콘텐츠를 통해 쥬얼리 이지현과 만나 이야기를 나눴다.",
+      "앞서 이지현은 지난달 '개과천선 서인영' 채."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2de298f9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725029751054",
+    "title": "전남광주 광양에 첫 폭염중대경보…온열질환 피해 잇달아(종합)",
+    "summary": [
+      "(전남광주=연합뉴스) 정다움 민현기 기자 = 전남광주 지역에 처음으로 폭염중대경보가 발효됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4fac92be",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/25/MM4GCYLFGAYDKZJYME2DIYTFMY/",
+    "title": "\"어떤 컨디션인지 체크해볼 필요가 있다\" 하주석 KIA 데뷔전...7번-2루수 선발 출격 [광주 현장]",
+    "summary": [
+      "[광주=스포츠조선 김용 기자] \"어떤 컨디션인지 체크해볼 필요가 있다.\" 한화 이글스가 아닌, KIA 타이거즈 하주석이 드디어 출격 준비를 마쳤다.",
+      "KIA는 25일 광주 기아챔피언스필드에서 키움 히어로즈와 주말 3연전 두 번째 경기를 치른다.",
+      "KIA는 이 경기에 박재현-카스트로-김도영-나성범-한준수-박상준-하주석-김규성-김호령 순의 타순을 작성했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8e9f2b1a",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/07/25/ZMUP5DRWQVEEHLUXX5TVZVJDEU/",
+    "title": "삼성전자, 브로드컴과 AI반도체 손 잡아...5년 간 290조원 규모 협력",
+    "summary": [
+      "삼성전자, 브로드컴과 AI반도체 손 잡아...5년 간 290조원 규모 협력."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "na3a825df",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134363388/1",
+    "title": "‘월드컵 스타’ 보지냐 골키퍼, 칠레 최고 명문팀 간다",
+    "summary": [
+      "2026 북중미 월드컵에서 스페인과 아르헨티나 등 강호들을 상대로 연이은 ‘선방쇼’를 펼치며 일약 세계적인 스타로 떠오른 카보베르데 국가대표 골키퍼 보지냐(40)가 칠레 최고 명문 구단 콜로콜로에 입단한다.",
+      "24일(현지 시간) AP통신에 따르면 콜로콜로는 자유계약선수(FA) 신분인 보지냐와 18개월 계약을 체결하기로 했다.",
+      "콜로콜로는 구단 공식 소셜네트워크서비스(SNS)에 보지냐의 트레이드마크인 곱슬머리 실루엣 이미지를 게시하며 “환영한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3895f745",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725050200056",
+    "title": "프랑스인 21명 제주서 20일간 배움여행…해녀 체험 '최고 인기'",
+    "summary": [
+      "(제주=연합뉴스) 전지혜 기자 = 프랑스인 21명이 3주간 제주에 머무르며 오전에는 한국어를 배우고, 오후에는 제주의 생태·문화를 체험하는 '배..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nefe626f8",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://view.asiae.co.kr/article/2026072517171963697",
+    "title": "신장식, 조국혁신당 대표에 선출…\"민주당과 통합 열려 있어\"",
+    "summary": [
+      "신장식 의원이 25일 조국혁신당의 새 대표로 선출됐다.",
+      "당 대표 선거에 단독으로 입후보한 신 신임 대표는 이날 경기 수원컨벤션센터에서 열린 2026 전국당원대회에서 찬반 투표를 통해 96.7%의 찬성률로 당선됐다.",
+      "신 대표는 \"검찰 개혁을 100% 완수하겠다\"며 \"국민주권 정부가 들어선 지 417일째인데 그동안 민주당은 왜 개혁을 주저하고 방치했나\"라고 말했다."
+    ],
+    "chips": [
       "#정책",
       "#정치"
     ]
   },
   {
-    "id": "n5fe6c63a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260725/134363305/1",
-    "title": "구속영장 사본 빼돌려 친구에게 누설…검찰수사관 유죄 확정",
+    "id": "n3016460c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "24분 전",
+    "url": "https://view.asiae.co.kr/article/2026072517130356494",
+    "title": "\"야외활동 즉시 중단, 생명 위협하는 수준\" 폭염중대경보, 대구·경북 등 첫 확대 발효",
     "summary": [
-      "구속영장 사본 등 수사 정보를 친구에게 누설한 혐의로 재판에 넘겨진 검찰 수사관에게 유죄가 확정됐다.25일 법조계에 따르면 대법원 2부(주심 오경미 대법관)는 최근 위계공무집행방해, 형사사법절차전자화촉진법 위반 혐의를 받는 검찰 수사관의 상고를 기각했다.",
-      "그리고 징역 10개월에 집행유예 2년을 선고한 원심을 확정했다.대구지검 소속 검찰 수사관은 2023년 12월부터 지난해 4월까지 형사사법정보시스템에서 다른 사람의 형사사건 정보를 열람한 뒤 친."
+      "중복(中伏)인 25일 대구와 경북, 경남, 전남 일부 지역에 폭염 최상위 경고 단계인 '폭염중대경보'가 발효됐다.",
+      "기상청은 야외활동을 즉시 중단하고 취약계층 안전을 살필 것을 당부했다.",
+      "기상청은 이날 전남 광양을 시작으로 대구, 경북 고령·포항·경주, 경남 양산 등에 폭염중대경보를 순차적으로 발령했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4766777b",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "36분 전",
-    "url": "https://www.hankyung.com/article/202607244716H",
-    "title": "미용실에 아빠들만 가득 찼다…1700명 몰린 '육아 모임' [발굴단]",
+    "id": "n7fb9e001",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723192",
+    "title": "리센느, 페스티벌도 그립감이 좋다 \"힘 많이 얻고 갑니다\"",
     "summary": [
-      "미용실에 아빠들만 가득 찼다…1700명 몰린 '육아 모임' [발굴단]."
+      "[인천=뉴시스]이재훈 기자 = \"핀볼 게임(Pinball game) / 끝은 어딘지 / 점점 번져가 너의 향기 ♪♬\" 30도가 넘는 무더위도 그룹 '리센느(RESCENE)'가 퍼트리는 무대 향기에, 속절없이 자리를 내어주며 한풀 꺾였다.",
+      "25일 오후 인천 영종도 파라다이스시티에서 열린 여름 음악 축제 '원 유니버스 페스티벌 2026(ONE UNIVERSE FESTIVAL 2026·OUF 2026)'의 플로어는 이들이 뿜어내는 공감각적 심상으로."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n1d5efe33",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723194",
+    "title": "日, 구글·X·메타 등에 시정권고…\"악성 게시물 대응 미흡\"",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 일본 총무성이 구글, 엑스(X·옛 트위터), 메타 등 글로벌 플랫폼 기업 5곳에 악성 게시물 대응이 미흡했다며 시정을 권고했다.",
+      "25일 아사히신문 등에 따르면 총무성은 전날 미국 구글과 X, 메타, 익명 게시판 '바쿠사이닷컴' 운영사 쇼난세이부홈, 니코니코 동영상을 서비스하는 가도카와 자회사 도완고 등 국내외 5개사에 정보유통플랫폼대처법상 공표 의무를 위반했다며 권고했다.",
+      "이 법 시행 이후 행정지도 성격의 권고가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad8f04c5",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260725/134363379/1",
+    "title": "국힘 “李 ‘공식 인증’ 매도인 근저당, 강남서 광교까지 확산 중”",
+    "summary": [
+      "국민의힘이 25일 이재명 대통령이 경기 성남시 분당 아파트 매도 과정에서 17억7000만 원의 근저당권을 설정한 것과 관련해 “이재명표 ‘17.7억 편법 대출 가이드라인’이 이제는 부동산 시장의 보편적 거래 방식이 되고 있다”고 비판했다.국민의힘 조용술 대변인은 논평을 통해 “이 대통령의 분당 아파트 매각 과정에서 활용된 17억7000만 원 규모의 매도인 근저당, 이른바 ‘매도인 금융’ 방식이 이제 강남과 서초를 넘어 광교 등 수도권 고가 아파."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n645766aa",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260725/134363380/1",
+    "title": "국힘 “李대통령 ‘매도인 근저당’, 강남·서초 등 고가아파트 시장으로 확산”",
+    "summary": [
+      "국민의힘이 25일 “이재명표 ‘17.7억 편법 대출 가이드라인’이 이제는 부동산 시장의 보편적 거래 방식이 되고 있다”고 비판했다.조용술 국민의힘 대변인은 논평을 통해 “이재명 대통령의 분당 아파트 매각 과정에서 활용된 17억 7000만 원 규모의 매도인 근저당, 이른바 ‘매도인 금융’ 방식이 이제 강남과 서초를 넘어 광교 등 수도권 고가 아파트 시장으로 빠르게 확산하고 있다”며 이같이 전했다.이어 “이재명 정권은 ‘현금 있는 사람만 집을 사라."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치"
     ]
   }
 ];
@@ -652,21 +651,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "뉴스",
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "엔비디아",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
