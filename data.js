@@ -1,19 +1,18 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-25 10:29:50
+// 마지막 업데이트: 2026-07-25 11:25:16
 window.NEWS_DB = [
   {
-    "id": "n3c5c4217",
+    "id": "ne238cb0f",
     "category": "IT",
-    "source": "브릿지경제",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UUF3b05iTmxMVWJCUTNIb2dYUEl1REY0anBHUTAyNUhJblNRNmJPcUJJamY2eHpzWFpscDFsRTJDdlQxMllIMHR3VW96U2lPeWt5dm9wandjZw?oc=5",
-    "title": "SK-엔비디아, 7500억달러 메모리 공급 협력…AI 반도체 공급망 강화",
+    "source": "한겨레",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ockV2RWYyMWhrc0RzblhtbzdMUTJxZUtqMWFKUnZkbVpQMnZDRDUwZlFFcThXS05YdEZiQWt2QW9BWFkxbkdWdHpEemRPTHZWazd5M0o3a0EyT05OcWVxZVhVUzRNc1I2a05UNGYtVk5LUQ?oc=5",
+    "title": "엔비디아-서울대 AI 공동 연구…NVAITC 설립 협력",
     "summary": [
-      "SK-엔비디아, 7500억달러 메모리 공급 협력…AI 반도체 공급망 강화 브릿지경제."
+      "엔비디아-서울대 AI 공동 연구…NVAITC 설립 협력 한겨레."
     ],
     "chips": [
       "#AI",
-      "#반도체",
       "#엔비디아"
     ]
   },
@@ -21,7 +20,7 @@ window.NEWS_DB = [
     "id": "nf5149588",
     "category": "IT",
     "source": "SBS Biz",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMkNFSUpDZ3NpaWg3eUpTeXo1WEQ1bWIwOEthRDhuRWlvSHZWc3dIelpBazZSaklqTTJDdTN4SlZVSDVFa0JqLTd5N1JuT3dTbDdacXBJLWQ?oc=5",
     "title": "이재용·올트먼, 오픈AI 본사서 회동…HBM·파운드리 협의 전망",
     "summary": [
@@ -36,7 +35,7 @@ window.NEWS_DB = [
     "id": "n15215ea1",
     "category": "IT",
     "source": "블로터",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BRDdpbWNlaV9hbFhuR0FUN1pBUW9PZE1XQno1ZS1GSXlSVmpsc1l4a210Q2hqbUxyd3MzUEEteVJJVG9oY2xWNzduZGMyM3oyS196RG9DNzRBbXVkUFdXTW4tbnZpb0hY0gFsQVVfeXFMTlVNVi1OdHZaa0czMWxNZXowOFhPbGIxd3d1TktSV3YtM0lUdW00aDVWT184VUpIUTBxRm9MZ1hjcGI4U0ZwTFZkaDBmUnJHU2tCTk0wbWR1cjN6a3MwUG1hUU5tMnIxTEZFbTll?oc=5",
     "title": "SK, 엔비디아와 5000억달러 AI 협력…MS·앤트로픽도 합류",
     "summary": [
@@ -51,7 +50,7 @@ window.NEWS_DB = [
     "id": "n91d8987e",
     "category": "IT",
     "source": "테크M",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUTVBSGVOd0ZfYjlzblJvWElkUkQxM2twWl9xcTctMUJES0diamQwQUNPVkNzajdIUS04RXhHakN5eU9Sam1uUjQ2dkczdkFJR2ZBdWxTQWFKbWg3djQyQ3BFdTc2Z9IBakFVX3lxTE1WWmNub0NBRWI2U0xRVHhZQU4taktRMFh5cTNvTmhyNjJRS1daNXVCcHlKY1FwSzlueE9wODY4WERjd0JnTU9Id0JuSEtNVy04aEVpNUFXVFQxWlV3NXZlZlJNMmp1b1B3RkE?oc=5",
     "title": "이재명 대통령 '韓 AI 허브 구축'...삼성·SK, 9500억달러 AI 계약 체결",
     "summary": [
@@ -66,7 +65,7 @@ window.NEWS_DB = [
     "id": "n5868a989",
     "category": "IT",
     "source": "초이스스탁US",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
@@ -150,20 +149,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n5ace0115",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "37일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
-    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
-    "summary": [
-      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -270,6 +255,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n01f4c085",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "124일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
+    "summary": [
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -364,26 +363,238 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd865c23f",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/25/2026072518353028719",
-    "title": "정형돈 \"KBS 계약 끝나 MBC 갔더니 '배신자' 취급…방송 정지\"",
+    "id": "n2ddf00d2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/MEYGGYZTME2WMYTEGNSTGZRVGQ/",
+    "title": "김사랑, 얼굴 가리고 다리에는 흠집 무슨 일…공백기만 무려 '5년째'",
     "summary": [
-      "방송인 정형돈이 KBS 계약만료 후 MBC 예능에 진출한 뒤 배신자 취급을 받았다고 털어놨다.",
-      "25일 유튜브 채널 '하하PD'에는 정형돈이 게스트로 출연해 하하, 양상국, 김원효, 박영진 등과 이야기를 나눴다.",
-      "이날 양상국은 정형돈에게 \"우리가 볼 때는 되게 신 같았다."
+      "[OSEN=장우영 기자] 배우 김사랑이 아름다운 다리 라인에 흠집을 남기고 말았다.김사랑은 25일 자신의 소셜 계정에 “더운데 뭐하세요? 다리에 모기패치입니다”라는 글과 사진을 공개했다.사진에서 김사랑은 메이크업을 받고 있는 듯한 모습을 공개했다.",
+      "민낯 때문인지 휴대폰으로 얼굴을 가린 김사랑은 긴 생머리를 길게 내려뜨려 청순한 분위기를 자아냈다.하지만 김사."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n8fec0f10",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260725/134363515/1",
+    "title": "‘그리즈만 후계자’ 이강인, AT 마드리드서 등번호 ‘7번’ 받는다",
+    "summary": [
+      "파리 생제르맹(PSG·프랑스)을 떠나 스페인 라리가 ‘명문’ 아틀레티코 마드리드로 이적한 이강인(25)이 등번호 ‘7번’을 달고 그라운드를 누빈다.아틀레티코 마드리드는 25일(한국시간) 소셜미디어(SNS)를 통해 “새로운 등번호 7번의 주인공을 소개한다”며 유니폼에 이강인의 이름 ‘KANG IN’과 등번호 ‘7’을 부착하는 영상을 올렸다.구단은 이날 “이강인과 2031년 6월 30일까지 계약을 맺었다”고 발표했다.",
+      "현지 매체에 따르면 이강인의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e9b90c6",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725055100001",
+    "title": "李대통령, EU '러 LNG 韓수출 제재 면제'에 \"경제에 큰 도움\"",
+    "summary": [
+      "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 25일 유럽연합(EU)이 한국에서 러시아 사할린Ⅱ 프로젝트 액화천연가스(LNG)를 수입할 수 ..."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0fe399be",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725055400007",
+    "title": "상무 김기중, 프로야구 첫 이물질 부정투구 적발…10경기 정지",
+    "summary": [
+      "(서울=연합뉴스) 김경윤 기자 = 국내 프로야구에서 이물질 부정투구 단속에 적발된 사례가 처음으로 나왔다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n30cb7c92",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134363502/1",
+    "title": "“트럼프 암살 음모, 거짓 아니었다…美경호국, 전용기 환승 권고”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 최근 이란의 암살 위협이 신빙성 있다고 판단해, 북대서양조약기구(NATO) 정상회의 이후 귀국길에서 항공기를 바꿔탄 것으로 알려졌다.",
+      "뉴욕타임스(NYT)는 24일(현지 시간) 미국 당국자들의 발언을 인용해 트럼프 대통령과 그가 탄 에어포스원을 겨냥한 이란 연계 세력의 위협이 나토 정상회의 기간 포착됐다고 보도했다.",
+      "실제로 트럼프 대통령은 이달 7∼8일 열린 나토 정상회의에 참석할 때는 카타르가 선물한 신형 에어포스원."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2ed1fcb6",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725055200007",
+    "title": "FIFA \"손흥민 이제 34세 한국, 재건 필요…이강인 등 나서야\"",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = 국제축구연맹(FIFA)이 2026 북중미 월드컵에 참가했던 아시아 국가의 성적과 과제를 짚으면서 한국 축구는 ..."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "na7052551",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/25/HBTDQNRUGNTGKNBZMMZDCYZQMQ/",
+    "title": "'손흥민보다 비쌌다' 이강인, 665억 아틀레티코행... 한국축구 새 역사-역대 2위-김민재 1위",
+    "summary": [
+      "[OSEN=우충원 기자] 드디어 공식 발표가 나왔다.",
+      "이강인이 파리 생제르맹(PSG)을 떠나 아틀레티코 마드리드 유니폼을 입었다.",
+      "손흥민의 이적료 기록을 넘어섰고, 한국 선수 최초로 스페인 '빅3' 구단 유니폼을 입는 새 역사를 썼다.아틀레티코 마드리드는 25일(이하 한국시간) 구단 공식 SNS를 통해 이강인 영입을 발표했다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n73d856d5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725055300007",
+    "title": "한화 류현진, 2이닝 4실점 강판…올 시즌 최소 이닝",
+    "summary": [
+      "(서울=연합뉴스) 천병혁 기자 = 10시즌 연속 100이닝 돌파에 도전했던 류현진(한화 이글스)이 올 시즌 최소 이닝 만에 교체됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7d751684",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/07/25/MEZDENJWMIYDGZDGGQYGIYJQMM/",
+    "title": "선미, 원조 뼈말라는 달라···뮤직뱅크 포토존에서 여유롭게 노는 개미 허리",
+    "summary": [
+      "[OSEN=오세진 기자] 가수 선미가 늘씬한 몸매를 뽐냈다.지난 24일 선미는 자신의 소셜 계정에 여러 장의 사진을 공개했다.",
+      "선미는 \"밝은 레몬색 카디건 차가운 하늘색 톱 회색빛 도는 청록색 레인 부츠\"라며 자신의 코디를 설명했다.이번 앨범 콘셉트에 맞춰서 몽환적이고 신비로운 느낌을 한껏 뽐내는 선미는 그간의 차분한 검정 머리카락이 아니라 밝고 연한 갈색."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne583101c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/GJRGMNJSGQ4DCMBUMVRDAMRVMY/",
+    "title": "신주아, 한 달 만에 또 의미심장 글 “인생은 어리석은 날들의 기록”..더 깡말라진 근황",
+    "summary": [
+      "[OSEN=임혜영 기자] 배우 신주아가 의미심장한 글과 함께 근황을 전했다.신주아는 25일 개인 채널에 “근황..",
+      "아름다운 온기를 담고 왔네요”라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속 신주아는 이국적인 분위기가 가득한 장소를 방문하며 힐링하는 모습이다.특히 신주아는 “어떤 시간에도 낭만과 꿈을 잃지 말자”, “인생은 어리석은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncba1d8ea",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003722969",
+    "title": "\"운동으로 허리·무릎 통증 극복\"…50대 인도 부부의 놀라운 변화",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 운동에 열정을 보이는 50대 인도 인플루언서 부부가 소셜미디어(SNS)에서 화제를 모으고 있다.",
+      "25일 홍콩 사우스차이나모닝포스트(SCMP)는 히말라야 산기슭 인근 인도 데라둔에 거주하는 타라 타파(59)와 수실라 타파(56) 부부가 SNS를 통해 자신들의 운동 기록을 남기고 있다고 보도했다.",
+      "두 부부는 오랫동안 장시간 노동에 시달리며 운동과 거리가 먼 삶을 살았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0fc16eec",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "30분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/25/YJ3DSU5H4RH33IC5HZEFWX73H4/",
+    "title": "엔비디아, 서울대와 AI 공동 연구기관 설립 추진",
+    "summary": [
+      "엔비디아, 서울대와 AI 공동 연구기관 설립 추진."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n7212a3ef",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723248",
+    "title": "남태희, K리그1 제주 떠나 호주 브리즈번 이적",
+    "summary": [
+      "[서울=뉴시스]안경남 기자 = 베테랑 미드필더 남태희(35)가 프로축구 K리그1 제주SK를 떠나 호주 브리즈번 로어로 이적했다.",
+      "호주 A-리그 브리즈번은 25일 \"한국 국가대표 출신 남태희를 영입했다\"고 발표했다.",
+      "계약 기간은 1년이며, 1년 연장 옵션이 포함됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na134cf15",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "43분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723013",
+    "title": "\"몸에 그렸더니 심박수·뇌파 측정\"…'전자 문신' 개발, MRI도 가능했다",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 피부에 직접 그리는 전자 문신만으로 심박수와 뇌파를 측정할 수 있는 웨어러블 기술이 개발됐다.",
+      "연구진은 기존 전극의 단점을 보완해 장시간 착용해도 신호가 안정적으로 유지되며 향후 건강 모니터링과 인간-기계 인터페이스(HMI) 분야에 활용될 수 있을 것으로 기대했다.",
+      "미국 펜실베이니아주립대 연구팀은 피부에 직접 그려 사용하는 건식 전극 플랫폼 WE-PPD를 개발해 국제학술지 미국국립과학원회보(PNAS)에 13일."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8e8eb943",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "51분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723233",
+    "title": "트럼프, 기자단 만찬서 독설 퍼부어…살얼음판 된 연회장",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 도널드 트럼프 대통령이 24일(현지 시간) 밤 백악관 출입기자단 만찬 무대에 올라 한 시간 넘게 연설하며, 기자들과 정치인들을 향해 강도 높은 발언을 쏟아냈다.",
+      "CNN, 워싱턴포스트(WP) 등 주요 외신에 따르면 트럼프 대통령은 준비된 원고를 오가며 즉흥적인 말을 하며, 스스로 그 연설 원고를 혹평하기도 했다.",
+      "막판에는 붉은색 '트럼프 2028' 모자를 꺼내 보이며 재선 제한을 넘어선 출마 의사를 시사하는 듯한."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nf16c23e4",
     "category": "사회",
     "source": "동아일보",
-    "time": "2분 전",
+    "time": "58분 전",
     "url": "https://www.donga.com/news/Society/article/all/20260725/134363474/1",
     "title": "‘서해 공무원 피격’ 文 전 대통령 불기소…3년 7개월만",
     "summary": [
@@ -399,7 +610,7 @@ window.NEWS_DB = [
     "id": "nd74a1f04",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "3분 전",
+    "time": "59분 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260725/134363450/1",
     "title": "이강인, 3년만에 스페인 복귀…국내 최대 사이니지 ‘룩스’로 구단 환영 메시지 송출",
     "summary": [
@@ -410,228 +621,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne58cbb85",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/GYYWCMJXMZRGMOJZGRRWGZJZME/",
-    "title": "백진희, 명품백+명품 주얼리 착용 이유 \"오늘 콘셉트는 부내\"('지니이즈백')",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] '지니이즈백' 배우 백진희가 새로운 이미지를 시도했다.25일 백진희 유튜브에서는 'What's in my bag 백진희의 최애 가방 속 찐 추천템 공개!(뷰티템, 열공 노트, 데일리 지니템)'이란 제목이 공개됐다.이날 백진희는 유튜브를 시작하면서부터 100일 기념을 축하받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne240d295",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/25/G42GKNDFGZTDKMDFMJTGKODEHA/",
-    "title": "하주석 야구보다 더 궁금한 것, 스타 치어리더 아내와의 '생이별' 어쩌나 [광주 현장]",
-    "summary": [
-      "[광주=스포츠조선 김용 기자] \"아내, 이제 내 적이다.",
-      "집에서는 같은 편이지만...\" 하주석 트레이드가 야구계를 들썩이게 했다.",
-      "KIA 타이거즈와 한화 이글스는 23일 광주기아챔피언스필드에서 열린 맞대결을 끝내고 트레이드 사실을 알렸다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb3391af1",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723244",
-    "title": "조국혁신당 '신장식 지도부', 사무총장 정춘생·정책위의장 김선민 임명",
-    "summary": [
-      "[서울·수원=뉴시스] 한재혁 권신혁 기자 = 조국혁신당은 신임 당대표와 최고위원을 선출한 25일 당 사무총장과 정책위의장, 대변인 인선을 마쳤다.",
-      "조국혁신당은 이날 언론 공지를 통해 사무총장에 정춘생 의원, 정책위의장에 김선민 의원을 임명했다고 밝혔다.",
-      "직전 대변인이었던 박병언, 임명희 대변인은 유임됐다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n64ef81f7",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723239",
-    "title": "일본 베테랑 미드필더 모리타, EPL 승격팀 헐시티 입단",
-    "summary": [
-      "[서울=뉴시스]안경남 기자 = 일본 축구대표팀 베테랑 미드필더 모리타 히데마사(31)가 잉글랜드 프로축구 프리미어리그(EPL) 승격팀 헐시티에 입단했다.",
-      "헐시티는 25일(한국 시간) \"일본 대표 모리타와 2년 계약했다\"며 \"1년 연장 옵션이 포함돼 있다\"고 밝혔다.",
-      "모리타의 헐시티 입단으로 현재 EPL에서 일본 선수는 미토마 가오루(브라이튼), 엔도 와타루(리버풀), 가마다 다이치(크리스탈 팰리스), 다나카 아오(리즈 유나이티드), 다카이 고토."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "nac44c6c5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/25/MZQTGZBSMI2DOMZSGJRDMNTCGY/",
-    "title": "'경기 끝나고도 특타 훈련' 이재현의 독한 승부욕…다음날 125m 대형 투런포 폭발! 4년 연속 두 자릿수 홈런 [오!쎈 잠실]",
-    "summary": [
-      "[OSEN=잠실, 손찬익 기자] 대승을 거뒀지만 만족하지 않았다.프로야구 삼성 라이온즈 1차 지명 출신 내야수 이재현은 경기 종료 후에도 배트를 놓지 않았다.",
-      "그 집념은 하루 만에 125m짜리 대형 홈런으로 돌아왔다.이재현은 25일 잠실구장에서 열린 두산 베어스전에 5번 유격수로 선발 출장해 시즌 10호 홈런을 터뜨렸다.",
-      "이 한 방으로 프로 데뷔 후 4년."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n6eb60276",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/25/2026072519122319647",
-    "title": "\"테무 경찰\"…올림픽 공원 시위서 경찰관 조롱한 20대 구속 송치",
-    "summary": [
-      "지난달 서울 송파구 올림픽공원 핸드볼경기장 개표소 시위 현장에서 경찰관들에게 욕설하는 등 공무집행을 방해한 20대 남성이 구속 상태로 검찰에 넘겨졌다.",
-      "25일 뉴시스에 따르면 서울 송파경찰서는 특수공무집행방해 혐의를 받는 20대 남성 A씨를 구속 송치하고 나머지 피의자 2명을 불구속 송치했다.",
-      "A씨와 피의자 2명은 지난달 6일 개표소 시위 현장에서 경찰관에게 \"테무 경찰\"이라고 욕설을 한 혐의(공무집행 방해) 등의 혐의를 받는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncf38222d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/25/G5SGCMDFMU2WIOJWME4DQYZYGA/",
-    "title": "“당장 트레이드 요청하라” 강정호 말 들어야하나…김혜성 결승타-안타-볼넷-볼넷-도루 원맨쇼에도, 다저스 관심도 없다",
-    "summary": [
-      "[OSEN=이후광 기자] 진짜 강정호 말을 들어야 하나.LA 다저스 산하 마이너리그 트리플A 오클라호마시티 코메츠 소속의 김혜성은 25일(이하 한국시간) 미국 캘리포니아주 웨스트 새크라멘토에 위치한 서터 헬스 파크에서 열린 2026 마이너리그 새크라멘토 리버캣츠(샌프란시스코 자이언츠 산하)와의 원정경기에 5번 2루수로 선발 출전해 3타수 2안타 3득점 2볼."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n21b692b1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725042351001",
-    "title": "장동혁 \"법원도, 합수본도 못믿어…특검 출범까지 힘 모아야\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 권희원 기자 = 국민의힘 장동혁 대표는 25일 대구를 끝으로 6·3 지방선거 이후 이어온 투표용지 부족 사태 관련 장외 투쟁 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n019aa16c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723230",
-    "title": "장동혁 \"국민들은 소중한 한 표를 빼앗겼다\"",
-    "summary": [
-      "[대구=뉴시스] 정창오 이상제 기자 = 장동혁 국민의힘 대표는 25일 \"우리 국민들은 소중한 한 표를 빼앗겼다\"며 \"그것은 그저 단순한 투표용지 한 장이 아니라 그 투표용지가 모여 대한민국이 만들어지고 대한민국의 미래인 것\"이라고 말했다.",
-      "장 대표는 이날 오후 대구 중구 현대백화점(더현대 대구) 앞 도로에서 열린 '참정권 회복·민주주의 수호 국민결의대회'에 참석해 \"올해는 자유대한민국을 잃고 대한민국의 미래를 잃을 뻔했다\"며 이같이 주장했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f86ee3e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260725/134363459/1",
-    "title": "부산 다대포 인근서 70대 남성 숨진 채 발견",
-    "summary": [
-      "부산 다대포해수욕장 인근 갯바위에서 70대 남성이 숨진 채 발견됐다.",
-      "25일 부산해경에 따르면 이날 오후 12시 24분경 “다대포해수욕장에 사람이 물에 떠있다”는 신고가 접수됐다.출동한 해경은 다대포해수욕장 동측 팔봉섬 맞은편 갯바위에서 70대 남성이 숨져 있는 것을 발견했다.유가족은 남성이 24일 오후 집을 나선 뒤 귀가하지 않자 이날 오전 6시 50분경 112에 실종신고를 한 것으로 전해졌다.해경은 정확한 사망 경위를 조사하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n15aade51",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723238",
-    "title": "조국혁신당 당대표에 신장식…\"합당 논의 열려있으나 적대적 M&A 거부\"(종합)",
-    "summary": [
-      "[서울·수원=뉴시스] 한재혁 권신혁 기자 = 신장식 조국혁신당 전 당대표 직무대행이 25일 조국혁신당 당대표에 선출됐다.",
-      "신 대표는 \"더불어민주당과의 연대와 통합 논의는 열려있다\"면서도 \"적대적 M&A방식 합당 논의를 단호히 거부한다\"고 했다.",
-      "신 대표는 이날 오후 경기 수원컨벤션센터에서 열린 2026년 조국혁신당 전당대회에서 찬성 96.7%, 반대 3.3%로 당선됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8395932b",
+    "id": "n361711ad",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/25/2026072518575520396",
-    "title": "미군, 2주 만에 이란 공습 발표 중단…트럼프 \"이란이 협상 원해\"",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026072557457",
+    "title": "조업 중 그물에 걸린 3.2t 밍크고래…7100만원에 팔렸다",
     "summary": [
-      "미국 중부사령부(CENTCOM)가 지난 2주 동안 매일 이어온 이란 공습 발표를 지난 24일(현지 시간) 하루 동안 중단했다.",
-      "25일 뉴시스에 따르면 중부사령부는 미 동부시간 기준 25일 오전까지 X(구 트위터)에 추가 군사 작전과 관련한 발표를 게재하지 않았다.",
-      "이란 국영 언론 또한 밤사이 자국 내에서 새로운 공습이나 폭발이 발생하지 않았다고 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nece80eca",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725053600007",
-    "title": "남태희, K리그1 제주 떠나 호주 브리즈번으로…1+1년 계약",
-    "summary": [
-      "(서울=연합뉴스) 배진남 기자 = 베테랑 미드필더 남태희(35)가 프로축구 K리그1 제주 SK를 떠나 호주 브리즈번 로어 유니폼을 입는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b8cd1f8",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "30분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/25/2026072518154374035",
-    "title": "박항서 등 3명이 합작한 대기록... 김상식 혼자 넘어 '베트남 19경기 무패' 새 역사 썼다",
-    "summary": [
-      "김상식 감독이 베트남 축구의 새 역사를 썼다.",
-      "전임 감독 3명이 합작했던 대기록을 홀로 뛰어넘었다.",
-      "김상식 감독이 이끄는 베트남 축구 국가대표팀은 24일 태국 촌부리에서 열린 '2026 아세안(ASEAN) 현대컵' 조별리그 A조 1차전 동티모르와의 경기에서 7-0 대승을 거뒀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c99823f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260725053100062",
-    "title": "강원 동해안 해수욕장 주말 19만명 북적…누적 피서객 143만명",
-    "summary": [
-      "(춘천=연합뉴스) 이상학 기자 = 본격적인 피서철 주말을 맞아 강원 동해안 해수욕장에 19만여명의 피서객이 찾았다."
+      "조업 중 그물에 걸린 3.2t 밍크고래…7100만원에 팔렸다."
     ],
     "chips": [
       "#뉴스"
@@ -643,19 +640,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
+    "tag": "AI",
     "mentions": "2330건",
     "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "엔비디아",
     "mentions": "1550건",
     "trend": "+135%"
   }
