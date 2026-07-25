@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-25 19:25:12
+// 마지막 업데이트: 2026-07-25 20:18:07
 window.NEWS_DB = [
   {
     "id": "nf5f7d389",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uOVoycjZFd2VZdEROWTI3Z1hpSEpWRG8yOW8xdEphYVd1R21HUjdYUURwOXAwZXlmOG5hYldpeXRHMFFZSTJCSFVHdVZMTEVKWmtQWktkbTFlNDjSAWBBVV95cUxOODJtZ3hTZEpwYXVBVFFRanZjWUNzcUFMMVpZMDgwcmMtOXp0T1dvSUt5M2xDRHRFMU9Nd3JZY094d0lFYzQ2cEpOQ3lnQmJ1ZENnVk1jRE91OEhqTWQwWHA?oc=5",
     "title": "한미 빅테크 1천400조원 AI 동맹…반도체·AI공급망 구축 본격화(종합)",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nf5149588",
     "category": "IT",
     "source": "SBS Biz",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMkNFSUpDZ3NpaWg3eUpTeXo1WEQ1bWIwOEthRDhuRWlvSHZWc3dIelpBazZSaklqTTJDdTN4SlZVSDVFa0JqLTd5N1JuT3dTbDdacXBJLWQ?oc=5",
     "title": "이재용·올트먼, 오픈AI 본사서 회동…HBM·파운드리 협의 전망",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n15215ea1",
     "category": "IT",
     "source": "블로터",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BRDdpbWNlaV9hbFhuR0FUN1pBUW9PZE1XQno1ZS1GSXlSVmpsc1l4a210Q2hqbUxyd3MzUEEteVJJVG9oY2xWNzduZGMyM3oyS196RG9DNzRBbXVkUFdXTW4tbnZpb0hY0gFsQVVfeXFMTlVNVi1OdHZaa0czMWxNZXowOFhPbGIxd3d1TktSV3YtM0lUdW00aDVWT184VUpIUTBxRm9MZ1hjcGI4U0ZwTFZkaDBmUnJHU2tCTk0wbWR1cjN6a3MwUG1hUU5tMnIxTEZFbTll?oc=5",
     "title": "SK, 엔비디아와 5000억달러 AI 협력…MS·앤트로픽도 합류",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n91d8987e",
     "category": "IT",
     "source": "테크M",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUTVBSGVOd0ZfYjlzblJvWElkUkQxM2twWl9xcTctMUJES0diamQwQUNPVkNzajdIUS04RXhHakN5eU9Sam1uUjQ2dkczdkFJR2ZBdWxTQWFKbWg3djQyQ3BFdTc2Z9IBakFVX3lxTE1WWmNub0NBRWI2U0xRVHhZQU4taktRMFh5cTNvTmhyNjJRS1daNXVCcHlKY1FwSzlueE9wODY4WERjd0JnTU9Id0JuSEtNVy04aEVpNUFXVFQxWlV3NXZlZlJNMmp1b1B3RkE?oc=5",
     "title": "이재명 대통령 '韓 AI 허브 구축'...삼성·SK, 9500억달러 AI 계약 체결",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "n5868a989",
     "category": "IT",
     "source": "초이스스탁US",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
@@ -298,60 +298,187 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3758e114",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/estate/2026/07/26/2026072414494834593",
-    "title": "\"전세 실종, 월세는 320만원\" 난리인데...전세대출 규제 논의에 '술렁'",
-    "summary": [
-      "전세와 월세 가격이 동시에 뛰는 가운데 정부가 전세대출 관리 강화와 다주택자 대출 규제, 거시건전성 관리부담금 도입 등을 잇달아 검토하면서 임대차 시장의 긴장감이 커지고 있다.",
-      "시장에서는 이미 물량 감소와 월세 전환이 진행되는 상황에서 금융 규제까지 더해질 경우 세입자의 주거비 부담이 커질 수 있다는 우려가 제기된다.",
-      "26일 국토교통부 실거래가 공개시스템에 따르면 서울 주요 아파트에서는 전세 최고가 거래가 잇따르고 있다."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세",
-      "#정책"
-    ]
-  },
-  {
-    "id": "na1d3f330",
+    "id": "nd9675de4",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/26/2026072603505823480",
-    "title": "바타, '♥지예은' 생일 되자마자 공개 고백 \"my강아디 생일 축하\"",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/26/DHPQDETXMNFTHLCTAWD4J264VQ/",
+    "title": "주름 수 347개→54개 임상, 서울대 보톡스 세럼을 기자가 직접 바른 후 느낀 변화",
     "summary": [
-      "안무가 바타가 여자친구인 지예은의 생일을 공개적으로 축하하며 애정을 드러냈다.",
-      "26일 바타는 자신의 인스타그램에 26일 0시에 맞춰 여자친구 지예은의 생일을 알리는 게시물을 올렸다.",
-      "바타는 그동안 지예은과 만나며 찍은 사진들을 여러 장 게재하며 두 사람의 뜨거운 애정을 과시했다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "naad9562a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723276",
-    "title": "낮 최고 38도 찜통더위 속 소나기…'폭염중대경보' 지속",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 26일 대구·경북은 가끔 구름 많은 가운데 소나기가 오는 곳이 있을 것으로 예상된다.",
-      "대구지방기상청은 이날 \"오후부터 저녁 사이 대구와 경북(경북남동부 제외) 곳에 따라 5~40㎜의 소나기가 내리겠다\"고 예보했다.",
-      "아침 최저기온은 21~26도(평년 19~24도), 낮 최고기온은 29~38도(평년 28~33도)로 예측된다."
+      "주름 수 347개→54개 임상, 서울대 보톡스 세럼을 기자가 직접 바른 후 느낀 변화."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n088ff924",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260726002600001",
+    "title": "美동포 만난 李대통령 \"韓 반도체공장 없인 세계산업 안 돌아가\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 임형섭 황윤기 기자 = 미국 샌프란시스코를 방문한 이재명 대통령은 25일(현지시간) \"인공지능(AI) 시대라는 새로운 ..."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n293b5b12",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/26/Y42DWL52RNBX3MQ2PKCB5KQAPM/",
+    "title": "귀에 꽂으면 상대 말소리와 TV 소리가 또렷하게 들리는 신기한 이어폰",
+    "summary": [
+      "귀에 꽂으면 상대 말소리와 TV 소리가 또렷하게 들리는 신기한 이어폰."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbc6a6a7e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723252",
+    "title": "인천, 낮 최고기온 32도 무더위…곳에 따라 소나기 예보",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 26일 인천은 열대야가 나타나는 무더위가 이어지고, 곳에 따라 소나기가 내리겠다.",
+      "하늘은 북태평양고기압의 가장자리에 들어 구름 많겠다.",
+      "수도권기상청은 \"아침 최저기온은 26도, 낮 최고기온은 32도 내외의 분포를 보이겠다\"며 \"당분간 밤 사이 기온이 충분이 떨어지지 않아 열대야가 나타나는 곳이 많겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1d35b22f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260724_0003722493",
+    "title": "\"덥다고 무조건 냉동실행?\"…여름철 반려동물 사료 보관법",
+    "summary": [
+      "[서울=뉴시스]김수빈 인턴 기자 = 본격적인 무더위가 이어지는 가운데 반려동물 사료 보관에도 주의가 필요하다.",
+      "펫푸드 브랜드 로얄캐닌은 건사료와 습식사료의 올바른 보관·급여 방법을 안내하고 있다.",
+      "24일 로얄캐닌 홈페이지에 따르면 건사료는 개봉 후 1개월까지 반려동물의 선호도가 가장 높다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na7cfd462",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725057100001",
+    "title": "윤리위 내전에 '기강잡기' 제동…張 '쇄신안'으로 반전 모색",
+    "summary": [
+      "(서울=연합뉴스) 권희원 노선웅 기자 = 국민의힘 장동혁 대표가 6·3 지방선거 이후 윤리위를 통한 '해당 행위자' 징계 방침을 밝혔으나, 중앙..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4311a0d3",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725043500001",
+    "title": "빅3 기선제압 구상…당청 일치·강한 개혁·부동산 해결사",
+    "summary": [
+      "(서울=연합뉴스) 박경준 기자 = 더불어민주당 당 대표 레이스가 예비경선을 마치고 이번 주부터 순회 경선을 포함한 본경선에 접어들며 주자들 간의..."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n9d1bf4c1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260725050900001",
+    "title": "갈길 먼 '선관위 특검법'…수사범위 동상이몽에 형소법도 변수",
+    "summary": [
+      "(서울=연합뉴스) 박경준 권희원 기자 = 더불어민주당과 국민의힘이 선관위 투표용지 부족 사태에 따른 특별검사 법안 처리에 합의했지만, 각론을 놓..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nac0695c7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723275",
+    "title": "[오늘의 주요일정]정치(7월26일 일요일)",
+    "summary": [
+      "[서울=뉴시스] ◇청와대【대통령】 미국 순방 ◇총리실【총리】 12:00 열린브런치(국무총리 서울공관) ◇국방부【장관】 통상일정 ◇외교부【장관】 통상일정 ◇통일부【장관】 통상일정 ◇더불어민주당【당대표 직무대행 겸 원내대표】 공개일정 없움 ◇국민의힘【당대표】 통상업무 【원내대표】 통상 업무 ◇조국혁신당【당대표】 공개일정 없음 【원내대표】 공개일정 없음 ◇개혁신당【당대표】 통상 업무 【원내대표】 21:10 TV조선 '강적들' 출연 ◇진보당【당대표】."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n01265826",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723261",
+    "title": "유노윤호, 군대 말뚝 박을 뻔…\"전문하사 제의받아\"",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 그룹 동방신기 멤버 유노윤호가 군복무 당시 전문 하사를 제안받았다고 밝혔다.",
+      "25일 방송된 JTBC 예능 프로그램 '아는 형님'에는 유노윤호, 비투비 서은광, 오마이걸 효정, 보이넥스트도어 명재현이 게스트로 출연했다.",
+      "이날 유노윤호는 \"제대하고 시간이 6개월이 넘었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd0becf39",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/politics/2026/07/26/XX6UYNQIA5DY5J3EHVUVQQECAQ/",
+    "title": "[단독] '정이한 자작극' 트레이너의 연인은 개혁신당 부산시당 여성위원장",
+    "summary": [
+      "[단독] '정이한 자작극' 트레이너의 연인은 개혁신당 부산시당 여성위원장."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne3a5f8d0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/26/GNSTQYZXGNSWMNDFHFSTINJSHA/",
+    "title": "'슈퍼 루키' 장찬희, 1군 복귀 카운트다운…박진만 감독, \"몸 상태는 정상 수준...한 경기 던지고 1군 올린다\" [오!쎈 잠실]",
+    "summary": [
+      "[OSEN=잠실, 손찬익 기자] 프로야구 삼성 라이온즈의 '슈퍼 루키' 장찬희가 돌아온다.",
+      "오른쪽 팔꿈치 굴곡근 부종으로 잠시 쉼표를 찍었던 장찬희는 퓨처스 등판을 눈앞에 두고 있으며, 이르면 다음 주 1군 마운드에 다시 설 전망이다.박진만 삼성 감독은 지난 25일 잠실 두산 베어스전을 앞두고 장찬희의 복귀 계획을 밝혔다.박진만 감독은 \"원래 오늘 퓨처스리."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n7d8957f8",
     "category": "경제",
     "source": "한국경제",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607255238i",
     "title": "'이스라엘판 슬램덩크' 오테프 다롬, 비극의 땅 가자에서 기적을 만들다",
     "summary": [
@@ -362,173 +489,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n87851d72",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723302",
-    "title": "젤렌스키 \"러시아, 북한군 3만명 추가 배치 추진\"",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 볼로디미르 젤렌스키 우크라이나 대통령이 러시아가 북한군 3만명을 추가로 투입하기 위한 준비를 진행하고 있다고 주장했다.",
-      "25일(현지 시간) 우크라이나 국영 통신 우크린포름에 따르면 젤렌스키 대통령은 이날 영상 연설에서 \"러시아가 북한과의 군사협력을 확대하고 있으며 북한군 3만명을 추가로 데려오려 하고 있다\"고 밝혔다.",
-      "그는 \"(우크라이나와 접경한) 러시아 보로네시주에서는 지난 6월부터 이들을 수용하기 위한 준비가."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n14de9376",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726001551099",
-    "title": "젤렌스키 \"러, 北병력 3만명 추가 파견 원해…접경지 배치 준비\"(종합)",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 25일(현지시간) 러시아가 북한으로부터 병력 3만명을 추가로 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5d56d080",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "54분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726001700072",
-    "title": "대선 앞둔 브라질, 美당국자에 비자 거부…\"선거 개입 시도\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 브라질 정부가 자국 선거 시스템의 신뢰성에 의문을 제기하려는 것으로 판단한 미국 국무부 고위 당국자 2명의 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "neda4db4d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723301",
-    "title": "카타르, 해상 운항 전면 재개…美·이란 충돌로 중단 한달 만",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 카타르가 미국과 이란 간 무력 충돌 여파로 일시 중단했던 해상 운항을 26일부터 전면 재개한다고 밝혔다.",
-      "25일 카타르 교통부는 성명을 통해 \"26일부터 모든 선박의 해상 운항이 정상적으로 재개된다\"고 발표했다.",
-      "교통부는 선박 운항 과정에서 안전을 확보하기 위해 모든 선박이 관련 규정과 지침을 철저히 준수해 달라고 당부했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4d955320",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/26/GNQTSMJYGZQTQNJXMUYWIM3FMQ/",
-    "title": "3000만원 자동차를 눈앞에서 놓쳐, 그 차를 샀는데, 그 차가 공짜로 내 것이 됐다 [광주 현장]",
-    "summary": [
-      "[광주=스포츠조선 김용 기자] \"그 때 너무 아쉬워서 이 차를 샀는데...\" KIA 타이거즈 2년차 외야수 박재현의 기세가 엄청나다.",
-      "지난해 인천고를 졸업하고 입단한 신인.",
-      "그 때부터 남다른 타격 재능과 빠른 발이 이범호 감독의 눈에 띄었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4216323b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723040",
-    "title": "\"두 번 만에 링거 맞았다\"…김영희, 극단적 다이어트 후 \"그냥 먹자\" 결심한 이유",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 코미디언 김영희가 극단적인 식단 조절로 몸에 무리가 와 응급실을 찾았던 경험을 공개했다.",
-      "단기간 체중 감량을 위해 단백질셰이크만 먹었던 당시를 떠올리며 \"이제 그냥 먹자고 했다\"고 털어놓은 가운데, 모델 이혜정은 건강한 다이어트 방법을 조언했다.",
-      "지난 24일 공개된 유튜브 채널 '혜정이, 오늘 뭐해?'에는 모델 이혜정이 김영희의 집을 방문해 냉장고 속 재료로 여름 보양식을 만드는 모습이 담겼다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n1b678a6b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/26/GI2WGOBVMEZGIMRQMJTDGYRRHA/",
-    "title": "'충격, 일본인 프리미어리거 한 명 더 탄생 총 8명' '양현준 동료' 마에다 다이젠, 셀틱→EPL 입스위치 이적..'3년 계약, 이적료 약 1000만파운드'",
-    "summary": [
-      "[스포츠조선 노주환 기자]또 한명의 일본 출신 프리미어리거가 탄생했다.",
-      "EPL 입스위치 타운이 스코틀랜드 명문 셀틱으로부터 일본 축구대표팀 공격수 마에다 다이젠을 완전 영입했다.",
-      "두 구단은 25일(한국시각) 마에다의 이적이 마무리됐다고 공식 발표했다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n0de8e247",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/2026/07/25/LEGWW5SMRJDKTA5UWNVWALVDKE/",
-    "title": "‘비틀즈의 첫 등장 연상’… 프롬스가 주목한 ‘수퍼스타’ 임윤찬",
-    "summary": [
-      "“이 젊은이과 같은 공간에 있는 것 자체가 제 삶에 있어서 엄청난 특권이다.” 영국의 대표적 여름 클래식 축제 프롬스(Proms) 개막 공연에 나선 스물두살 피아니스트에게 영국 공영방송 BBC 진행자들이 흥분한 듯 얘기했다.",
-      "7월17일 저녁 런던 로열 알버트홀에서 BBC 심포니 오케스트라와 라벨 피아노 협주곡 G장조 협연을 끝낸 임윤찬이 주인공이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3999d729",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/07/26/XTIWREX6MNF63FFIX5OIHZKFPQ/",
-    "title": "“빙하 녹기 전 남극서 인생샷”… 오지 크루즈 여행 뜬다",
-    "summary": [
-      "“빙하 녹기 전 남극서 인생샷”… 오지 크루즈 여행 뜬다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9cfd8180",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726001500099",
-    "title": "젤렌스키 \"러, 우크라 접경지 보로네시에 北병력 배치 준비\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 25일(현지시간) 러시아가 우크라이나 접경지인 보로네시에 북한..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n679b0d15",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726001400072",
-    "title": "[속보] 젤렌스키 \"北, 러에 새 탄도미사일 발사대 제공 예정\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n0194d728",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153695",
     "title": "챗GPT·제미나이 이어 클로드까지...삼성SDS에 '러브콜' 쏟아지는 이유는?",
     "summary": [
@@ -538,22 +502,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "nc0fb46eb",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072522352565739",
-    "title": "'패패패패패패패패승' LG 마침내 이겼다! 문정빈·오스틴·박해민 4안타 폭발! 한화 꺾고 8연승 탈출... KT는 9연승 질주 [종합]",
-    "summary": [
-      "LG 트윈스가 마침내 8연패를 탈출하고 후반기 첫 승을 거뒀다.",
-      "LG는 25일 대전한화생명볼파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 방문경기에서 한화 이글스를 15-11로 꺾었다.",
-      "이로써 LG는 7월 8일 대구 삼성 라이온즈전 이후 17일 만에 승리하며 53승 40패로 2위 KT 위즈와 승차를 2.5경기 차로 유지했다."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -575,26 +523,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndad1365d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072523174729985",
-    "title": "[오피셜] 김재환→최희섭→오재일→터커→김현수→나성범→소크라테스→최형우→강백호→문현빈, 그리고 11번째 주인공 KIA 박재현이었다",
-    "summary": [
-      "KIA 타이거즈 외야수 박재현(20)이 2026시즌 기아 홈런존의 세 번째 주인공이 됐다.",
-      "박재현은 25일 광주-KIA 챔피언스필드에서 열린 키움 히어로즈와 경기에 8회말 1사 상황에서 상대 불펜 최현우의 공을 공략, '기아 홈런존'을 직격하는 비거리 125m 솔로포를 터트렸다.",
-      "KIA는 광주-KIA 챔피언스필드 개장 첫해(2014년)부터 우측 잔디석에 '기아 홈런존'을 운영하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ne2979f04",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153692",
     "title": "[테크M 이슈] '韓 인터넷 독립투사' 이해진에 빅테크·글로벌 자본이 주목하는 이유",
     "summary": [
@@ -609,7 +541,7 @@ window.NEWS_DB = [
     "id": "neaa78d92",
     "category": "IT",
     "source": "테크M",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153689",
     "title": "삼성SDS, 앤트로픽과 파트너십...'클로드' 기반 국내 AX 사업 확대",
     "summary": [
@@ -625,7 +557,7 @@ window.NEWS_DB = [
     "id": "n2a17c477",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026072441777",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 26일 띠별 추천 점심메뉴",
     "summary": [
@@ -633,6 +565,67 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n3cb592c5",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "6시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260725/134363577/1",
+    "title": "LG, 난타전 끝에 한화 15-11 제압…8연패 탈출·후반기 첫승",
+    "summary": [
+      "프로야구 LG 트윈스가 한화 이글스를 꺾고 천신만고 끝에 8연패 사슬을 끊었다.LG는 25일 대전 한화생명볼파크에서 열린 2026 신한SOL KBO리그 한화와 정규시즌 원정 경기에서 난타전 끝에 15-11로 승리했다.전날 패배로 8년 만에 8연패 수렁에 빠진 LG는 후반기 첫승과 함께 연패에서 벗어나 분위기를 바꾸는 데 성공했다.시즌 53승(40패)을 거둔 LG는 3위 자리를 지키며 4위 KIA와 격차를 3경기 차이로 벌렸다.반면 4연승에 실패."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ndce13bdd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260725/134363574/1",
+    "title": "후티, 사우디 아람코 석유시설 공격…예멘 정부군도 후티 거점 공습",
+    "summary": [
+      "예멘의 친이란 후티 반군이 사우디아라비아 국영 석유기업 아람코 시설을 탄도미사일과 드론으로 공격했다고 주장하며 보복 공세를 선언했다.",
+      "이에 맞서 예멘 정부군도 후티 반군의 미사일·드론 기지를 공습하는 등 양측의 군사 충돌이 격화하고 있다.알자지라에 따르면 후티 반군은 25일(현지시간) 성명을 통해 사우디가 호데이다 항구와 카마란섬을 공습했다며 이를 규탄하고, 자국 방공망이 “적기를 요격했다”고 주장했다.이어 보복 차원에서 지잔과 얀부에 있는 사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6a6aef9",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "7시간 전",
+    "url": "https://view.asiae.co.kr/article/2026072519084228121",
+    "title": "\"서남해안 판 바꾼다\"…해남·완도, 국비 확보 '총력'",
+    "summary": [
+      "전남 서남해안권의 지도를 바꿀 대규모 국비 확보전이 막을 올렸다.",
+      "전국에서 처음으로 국회 예산결산특별위원장이 직접 지역을 찾은 가운데, AI·기후대응 중심의 '미래 먹거리'를 내세운 해남군과 '전복산업 부흥'이라는 생존 갈림길에 선 완도군이 각각 맞춤형 메가프로젝트와 인프라 확충을 위한 정부의 전폭적인 지원을 촉구했다.",
+      "25일 오전 완도군청 상황실에서는 이광재 국회 예결위원장과 박지원 국회의원(해남·완도·진도."
+    ],
+    "chips": [
+      "#AI",
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n657db905",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "7시간 전",
+    "url": "https://www.hankyung.com/article/202607255242i",
+    "title": "메모리 부족은 시작일 뿐…AI 시대 돈이 향하는 곳은 [빈난새의 빈틈없이월가]",
+    "summary": [
+      "메모리 부족은 시작일 뿐…AI 시대 돈이 향하는 곳은 [빈난새의 빈틈없이월가]."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -642,8 +635,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
