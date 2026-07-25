@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-25 18:16:23
+// 마지막 업데이트: 2026-07-25 19:25:12
 window.NEWS_DB = [
   {
     "id": "nf5f7d389",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uOVoycjZFd2VZdEROWTI3Z1hpSEpWRG8yOW8xdEphYVd1R21HUjdYUURwOXAwZXlmOG5hYldpeXRHMFFZSTJCSFVHdVZMTEVKWmtQWktkbTFlNDjSAWBBVV95cUxOODJtZ3hTZEpwYXVBVFFRanZjWUNzcUFMMVpZMDgwcmMtOXp0T1dvSUt5M2xDRHRFMU9Nd3JZY094d0lFYzQ2cEpOQ3lnQmJ1ZENnVk1jRE91OEhqTWQwWHA?oc=5",
     "title": "한미 빅테크 1천400조원 AI 동맹…반도체·AI공급망 구축 본격화(종합)",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nf5149588",
     "category": "IT",
     "source": "SBS Biz",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMkNFSUpDZ3NpaWg3eUpTeXo1WEQ1bWIwOEthRDhuRWlvSHZWc3dIelpBazZSaklqTTJDdTN4SlZVSDVFa0JqLTd5N1JuT3dTbDdacXBJLWQ?oc=5",
     "title": "이재용·올트먼, 오픈AI 본사서 회동…HBM·파운드리 협의 전망",
     "summary": [
@@ -32,26 +32,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n181df282",
-    "category": "IT",
-    "source": "아주경제",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ON2VwYUJUV1M1Z1JiWDFJWEprUG1ia1dUMmM2WFk3YXQ5Z19Eb2tVb1Z1a2V1S2JWQWlWdzZqX280TEgteTVqZ2R6QmlwcnRNcEg3TzRSdTHSAVhBVV95cUxOTjdlcGFCVFdTNWdSYlgxSVhKa1BtYmtXVDJjNlhZN2F0OWdfRG9rVW9WdWtldUtiVkFpVnc2al9vNExILXk1amdkekJpcHJ0TXBIN080UnUx?oc=5",
-    "title": "삼성전자, 브로드컴과 292조원대 AI 메모리·파운드리 협력...차세대 HBM 경쟁력 입증",
-    "summary": [
-      "삼성전자, 브로드컴과 292조원대 AI 메모리·파운드리 협력...차세대 HBM 경쟁력 입증 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "n15215ea1",
     "category": "IT",
     "source": "블로터",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BRDdpbWNlaV9hbFhuR0FUN1pBUW9PZE1XQno1ZS1GSXlSVmpsc1l4a210Q2hqbUxyd3MzUEEteVJJVG9oY2xWNzduZGMyM3oyS196RG9DNzRBbXVkUFdXTW4tbnZpb0hY0gFsQVVfeXFMTlVNVi1OdHZaa0czMWxNZXowOFhPbGIxd3d1TktSV3YtM0lUdW00aDVWT184VUpIUTBxRm9MZ1hjcGI4U0ZwTFZkaDBmUnJHU2tCTk0wbWR1cjN6a3MwUG1hUU5tMnIxTEZFbTll?oc=5",
     "title": "SK, 엔비디아와 5000억달러 AI 협력…MS·앤트로픽도 합류",
     "summary": [
@@ -63,10 +47,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n91d8987e",
+    "category": "IT",
+    "source": "테크M",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUTVBSGVOd0ZfYjlzblJvWElkUkQxM2twWl9xcTctMUJES0diamQwQUNPVkNzajdIUS04RXhHakN5eU9Sam1uUjQ2dkczdkFJR2ZBdWxTQWFKbWg3djQyQ3BFdTc2Z9IBakFVX3lxTE1WWmNub0NBRWI2U0xRVHhZQU4taktRMFh5cTNvTmhyNjJRS1daNXVCcHlKY1FwSzlueE9wODY4WERjd0JnTU9Id0JuSEtNVy04aEVpNUFXVFQxWlV3NXZlZlJNMmp1b1B3RkE?oc=5",
+    "title": "이재명 대통령 '韓 AI 허브 구축'...삼성·SK, 9500억달러 AI 계약 체결",
+    "summary": [
+      "이재명 대통령 '韓 AI 허브 구축'...삼성·SK, 9500억달러 AI 계약 체결 테크M."
+    ],
+    "chips": [
+      "#AI",
+      "#정치"
+    ]
+  },
+  {
     "id": "n5868a989",
     "category": "IT",
     "source": "초이스스탁US",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PUmVRc3JLMUtVSXZHZHJ0dldlNmxqU2ZIV29oT2NLZ2U4bTZrUGRjZ29aZE9KT1dXNnVxTTg2MVpRZ3VXUzFNdnVwRUJreFNsUUtLcVlFNGxFXzEyQXZvblFERTd1R00?oc=5",
     "title": "엔비디아 시총 5조달러 아래로…AI 독주 시험대",
     "summary": [
@@ -299,10 +298,150 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n3758e114",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/estate/2026/07/26/2026072414494834593",
+    "title": "\"전세 실종, 월세는 320만원\" 난리인데...전세대출 규제 논의에 '술렁'",
+    "summary": [
+      "전세와 월세 가격이 동시에 뛰는 가운데 정부가 전세대출 관리 강화와 다주택자 대출 규제, 거시건전성 관리부담금 도입 등을 잇달아 검토하면서 임대차 시장의 긴장감이 커지고 있다.",
+      "시장에서는 이미 물량 감소와 월세 전환이 진행되는 상황에서 금융 규제까지 더해질 경우 세입자의 주거비 부담이 커질 수 있다는 우려가 제기된다.",
+      "26일 국토교통부 실거래가 공개시스템에 따르면 서울 주요 아파트에서는 전세 최고가 거래가 잇따르고 있다."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세",
+      "#정책"
+    ]
+  },
+  {
+    "id": "na1d3f330",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/26/2026072603505823480",
+    "title": "바타, '♥지예은' 생일 되자마자 공개 고백 \"my강아디 생일 축하\"",
+    "summary": [
+      "안무가 바타가 여자친구인 지예은의 생일을 공개적으로 축하하며 애정을 드러냈다.",
+      "26일 바타는 자신의 인스타그램에 26일 0시에 맞춰 여자친구 지예은의 생일을 알리는 게시물을 올렸다.",
+      "바타는 그동안 지예은과 만나며 찍은 사진들을 여러 장 게재하며 두 사람의 뜨거운 애정을 과시했다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "naad9562a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723276",
+    "title": "낮 최고 38도 찜통더위 속 소나기…'폭염중대경보' 지속",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 26일 대구·경북은 가끔 구름 많은 가운데 소나기가 오는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"오후부터 저녁 사이 대구와 경북(경북남동부 제외) 곳에 따라 5~40㎜의 소나기가 내리겠다\"고 예보했다.",
+      "아침 최저기온은 21~26도(평년 19~24도), 낮 최고기온은 29~38도(평년 28~33도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7d8957f8",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "28분 전",
+    "url": "https://www.hankyung.com/article/202607255238i",
+    "title": "'이스라엘판 슬램덩크' 오테프 다롬, 비극의 땅 가자에서 기적을 만들다",
+    "summary": [
+      "'이스라엘판 슬램덩크' 오테프 다롬, 비극의 땅 가자에서 기적을 만들다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n87851d72",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723302",
+    "title": "젤렌스키 \"러시아, 북한군 3만명 추가 배치 추진\"",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 볼로디미르 젤렌스키 우크라이나 대통령이 러시아가 북한군 3만명을 추가로 투입하기 위한 준비를 진행하고 있다고 주장했다.",
+      "25일(현지 시간) 우크라이나 국영 통신 우크린포름에 따르면 젤렌스키 대통령은 이날 영상 연설에서 \"러시아가 북한과의 군사협력을 확대하고 있으며 북한군 3만명을 추가로 데려오려 하고 있다\"고 밝혔다.",
+      "그는 \"(우크라이나와 접경한) 러시아 보로네시주에서는 지난 6월부터 이들을 수용하기 위한 준비가."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n14de9376",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260726001551099",
+    "title": "젤렌스키 \"러, 北병력 3만명 추가 파견 원해…접경지 배치 준비\"(종합)",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 25일(현지시간) 러시아가 북한으로부터 병력 3만명을 추가로 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5d56d080",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "54분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260726001700072",
+    "title": "대선 앞둔 브라질, 美당국자에 비자 거부…\"선거 개입 시도\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 브라질 정부가 자국 선거 시스템의 신뢰성에 의문을 제기하려는 것으로 판단한 미국 국무부 고위 당국자 2명의 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "neda4db4d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723301",
+    "title": "카타르, 해상 운항 전면 재개…美·이란 충돌로 중단 한달 만",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 카타르가 미국과 이란 간 무력 충돌 여파로 일시 중단했던 해상 운항을 26일부터 전면 재개한다고 밝혔다.",
+      "25일 카타르 교통부는 성명을 통해 \"26일부터 모든 선박의 해상 운항이 정상적으로 재개된다\"고 발표했다.",
+      "교통부는 선박 운항 과정에서 안전을 확보하기 위해 모든 선박이 관련 규정과 지침을 철저히 준수해 달라고 당부했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d955320",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/26/GNQTSMJYGZQTQNJXMUYWIM3FMQ/",
+    "title": "3000만원 자동차를 눈앞에서 놓쳐, 그 차를 샀는데, 그 차가 공짜로 내 것이 됐다 [광주 현장]",
+    "summary": [
+      "[광주=스포츠조선 김용 기자] \"그 때 너무 아쉬워서 이 차를 샀는데...\" KIA 타이거즈 2년차 외야수 박재현의 기세가 엄청나다.",
+      "지난해 인천고를 졸업하고 입단한 신인.",
+      "그 때부터 남다른 타격 재능과 빠른 발이 이범호 감독의 눈에 띄었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n4216323b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260725_0003723040",
     "title": "\"두 번 만에 링거 맞았다\"…김영희, 극단적 다이어트 후 \"그냥 먹자\" 결심한 이유",
     "summary": [
@@ -315,24 +454,26 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3999d729",
-    "category": "사회",
+    "id": "n1b678a6b",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/07/26/XTIWREX6MNF63FFIX5OIHZKFPQ/",
-    "title": "“빙하 녹기 전 남극서 인생샷”… 오지 크루즈 여행 뜬다",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/26/GI2WGOBVMEZGIMRQMJTDGYRRHA/",
+    "title": "'충격, 일본인 프리미어리거 한 명 더 탄생 총 8명' '양현준 동료' 마에다 다이젠, 셀틱→EPL 입스위치 이적..'3년 계약, 이적료 약 1000만파운드'",
     "summary": [
-      "“빙하 녹기 전 남극서 인생샷”… 오지 크루즈 여행 뜬다."
+      "[스포츠조선 노주환 기자]또 한명의 일본 출신 프리미어리거가 탄생했다.",
+      "EPL 입스위치 타운이 스코틀랜드 명문 셀틱으로부터 일본 축구대표팀 공격수 마에다 다이젠을 완전 영입했다.",
+      "두 구단은 25일(한국시각) 마에다의 이적이 마무리됐다고 공식 발표했다."
     ],
     "chips": [
-      "#뉴스"
+      "#EPL"
     ]
   },
   {
     "id": "n0de8e247",
     "category": "사회",
     "source": "조선일보",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/culture-life/2026/07/25/LEGWW5SMRJDKTA5UWNVWALVDKE/",
     "title": "‘비틀즈의 첫 등장 연상’… 프롬스가 주목한 ‘수퍼스타’ 임윤찬",
     "summary": [
@@ -344,28 +485,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne08ee143",
+    "id": "n3999d729",
     "category": "사회",
     "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/politics/2026/07/26/FKCMWQ7CENEN5OTDAGKZBRX5KI/",
-    "title": "오세훈 1심 유죄 후폭풍…‘장·한 전쟁’ 재점화 조짐",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/07/26/XTIWREX6MNF63FFIX5OIHZKFPQ/",
+    "title": "“빙하 녹기 전 남극서 인생샷”… 오지 크루즈 여행 뜬다",
     "summary": [
-      "오세훈 1심 유죄 후폭풍…‘장·한 전쟁’ 재점화 조짐."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0e010b48",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/national/people/2026/07/26/DQJ7FUKRMRDQZE3PPTKH2VZ2WY/",
-    "title": "소금에서 바다향과 단 맛이… 일본 황실 요리장의 비밀 레시피",
-    "summary": [
-      "소금에서 바다향과 단 맛이… 일본 황실 요리장의 비밀 레시피."
+      "“빙하 녹기 전 남극서 인생샷”… 오지 크루즈 여행 뜬다."
     ],
     "chips": [
       "#뉴스"
@@ -375,7 +502,7 @@ window.NEWS_DB = [
     "id": "n9cfd8180",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260726001500099",
     "title": "젤렌스키 \"러, 우크라 접경지 보로네시에 北병력 배치 준비\"",
     "summary": [
@@ -389,7 +516,7 @@ window.NEWS_DB = [
     "id": "n679b0d15",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "32분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260726001400072",
     "title": "[속보] 젤렌스키 \"北, 러에 새 탄도미사일 발사대 제공 예정\"",
     "summary": [],
@@ -398,26 +525,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n17608ec9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "32분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723298",
-    "title": "이란 \"중동 미군기지서 美군용기 11대 파괴\" 주장",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 이란이 지난 2주간 중동 지역 미군 기지에서 전투기와 수송기, 공중급유기 등 미국 군용기 11대를 파괴했다고 주장했다.",
-      "25일(현지 시간) 이란 타스님통신에 따르면 호세인 모헤비 이란 혁명수비대(IRGC) 대변인은 지난 8일부터 22일까지 이란군이 중동 지역 미군 기지에서 미국 군용기 11대를 지상에서 파괴했다고 밝혔다.",
-      "모헤비 대변인은 격납고 안에 있던 F-15 전투기 1대를 비롯해 P-8 해상초계기 1대, C."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n0194d728",
     "category": "IT",
     "source": "테크M",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153695",
     "title": "챗GPT·제미나이 이어 클로드까지...삼성SDS에 '러브콜' 쏟아지는 이유는?",
     "summary": [
@@ -430,56 +541,26 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb1ac3e28",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "54분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723297",
-    "title": "이스라엘 매체 \"美, 대이란 대규모 공습 연기\"",
+    "id": "nc0fb46eb",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072522352565739",
+    "title": "'패패패패패패패패승' LG 마침내 이겼다! 문정빈·오스틴·박해민 4안타 폭발! 한화 꺾고 8연승 탈출... KT는 9연승 질주 [종합]",
     "summary": [
-      "[서울=뉴시스] 문예성 기자 = 이스라엘이 미국의 대규모 대이란 공습이 24~25일(현지 시간) 이뤄질 것으로 예상하고 대비했지만, 도널드 트럼프 미국 대통령이 군사행동을 연기하기로 했다는 보도가 나왔다.",
-      "25일 이스라엘 매체 와이넷에 따르면 이스라엘은 24일 저녁부터 25일 새벽까지 미국의 대규모 대이란 공습 가능성에 대비했지만, 이후 트럼프 대통령이 군사행동을 보류하고 이란이 추가 양보에 나설 시간을 주기로 결정한 것으로 판단했다."
+      "LG 트윈스가 마침내 8연패를 탈출하고 후반기 첫 승을 거뒀다.",
+      "LG는 25일 대전한화생명볼파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 방문경기에서 한화 이글스를 15-11로 꺾었다.",
+      "이로써 LG는 7월 8일 대구 삼성 라이온즈전 이후 17일 만에 승리하며 53승 40패로 2위 KT 위즈와 승차를 2.5경기 차로 유지했다."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n376b8bc3",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "56분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723299",
-    "title": "이 대통령 \"남미와 무역협정 협상 재개…AI 시대 핵심광물 강화 추진\"",
-    "summary": [
-      "[샌프란시스코=뉴시스] 김지은 기자 = 브라질을 시작으로 남미 3개국 순방에 나서는 이재명 대통령은 한국과 남미 관계가 \"새로운 단계에 접어들고 있다\"며 무역협정 협상 재개와 인공지능(AI) 시대 핵심광물 협력 강화를 추진하겠다는 구상을 밝혔다.",
-      "이 대통령은 25일(현지시간) 공개된 에페 통신과 서면 인터뷰에 \"메르코수르(남미공동시장) 회원국들은 농업, 식량 생산, 에너지, 핵심 광물 분야에서 글로벌 선도국이며, 한국은 첨단 제조업, 디지털 기."
-    ],
-    "chips": [
-      "#AI",
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n72750a83",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726001100091",
-    "title": "머스크 터널굴착업체 보링컴퍼니, 29조원 가치로 자금조달 추진",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 일론 머스크가 창업한 지하 터널 굴착 스타트업 보링 컴퍼니의 기업 가치가 4년 만에 3.5배로 뛸 전..."
-    ],
-    "chips": [
-      "#스타트업"
+      "#KBO"
     ]
   },
   {
     "id": "n923eb990",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153693",
     "title": "엔비디아·브룩필드 100억달러 베팅…네이버 'AI 인프라 기업'으로 다시 평가받는다",
     "summary": [
@@ -494,10 +575,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndad1365d",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "3시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072523174729985",
+    "title": "[오피셜] 김재환→최희섭→오재일→터커→김현수→나성범→소크라테스→최형우→강백호→문현빈, 그리고 11번째 주인공 KIA 박재현이었다",
+    "summary": [
+      "KIA 타이거즈 외야수 박재현(20)이 2026시즌 기아 홈런존의 세 번째 주인공이 됐다.",
+      "박재현은 25일 광주-KIA 챔피언스필드에서 열린 키움 히어로즈와 경기에 8회말 1사 상황에서 상대 불펜 최현우의 공을 공략, '기아 홈런존'을 직격하는 비거리 125m 솔로포를 터트렸다.",
+      "KIA는 광주-KIA 챔피언스필드 개장 첫해(2014년)부터 우측 잔디석에 '기아 홈런존'을 운영하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ne2979f04",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153692",
     "title": "[테크M 이슈] '韓 인터넷 독립투사' 이해진에 빅테크·글로벌 자본이 주목하는 이유",
     "summary": [
@@ -512,7 +609,7 @@ window.NEWS_DB = [
     "id": "neaa78d92",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153689",
     "title": "삼성SDS, 앤트로픽과 파트너십...'클로드' 기반 국내 AX 사업 확대",
     "summary": [
@@ -528,7 +625,7 @@ window.NEWS_DB = [
     "id": "n2a17c477",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026072441777",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 26일 띠별 추천 점심메뉴",
     "summary": [
@@ -536,100 +633,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n3cb592c5",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260725/134363577/1",
-    "title": "LG, 난타전 끝에 한화 15-11 제압…8연패 탈출·후반기 첫승",
-    "summary": [
-      "프로야구 LG 트윈스가 한화 이글스를 꺾고 천신만고 끝에 8연패 사슬을 끊었다.LG는 25일 대전 한화생명볼파크에서 열린 2026 신한SOL KBO리그 한화와 정규시즌 원정 경기에서 난타전 끝에 15-11로 승리했다.전날 패배로 8년 만에 8연패 수렁에 빠진 LG는 후반기 첫승과 함께 연패에서 벗어나 분위기를 바꾸는 데 성공했다.시즌 53승(40패)을 거둔 LG는 3위 자리를 지키며 4위 KIA와 격차를 3경기 차이로 벌렸다.반면 4연승에 실패."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ndce13bdd",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260725/134363574/1",
-    "title": "후티, 사우디 아람코 석유시설 공격…예멘 정부군도 후티 거점 공습",
-    "summary": [
-      "예멘의 친이란 후티 반군이 사우디아라비아 국영 석유기업 아람코 시설을 탄도미사일과 드론으로 공격했다고 주장하며 보복 공세를 선언했다.",
-      "이에 맞서 예멘 정부군도 후티 반군의 미사일·드론 기지를 공습하는 등 양측의 군사 충돌이 격화하고 있다.알자지라에 따르면 후티 반군은 25일(현지시간) 성명을 통해 사우디가 호데이다 항구와 카마란섬을 공습했다며 이를 규탄하고, 자국 방공망이 “적기를 요격했다”고 주장했다.이어 보복 차원에서 지잔과 얀부에 있는 사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na6a6aef9",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "5시간 전",
-    "url": "https://view.asiae.co.kr/article/2026072519084228121",
-    "title": "\"서남해안 판 바꾼다\"…해남·완도, 국비 확보 '총력'",
-    "summary": [
-      "전남 서남해안권의 지도를 바꿀 대규모 국비 확보전이 막을 올렸다.",
-      "전국에서 처음으로 국회 예산결산특별위원장이 직접 지역을 찾은 가운데, AI·기후대응 중심의 '미래 먹거리'를 내세운 해남군과 '전복산업 부흥'이라는 생존 갈림길에 선 완도군이 각각 맞춤형 메가프로젝트와 인프라 확충을 위한 정부의 전폭적인 지원을 촉구했다.",
-      "25일 오전 완도군청 상황실에서는 이광재 국회 예결위원장과 박지원 국회의원(해남·완도·진도."
-    ],
-    "chips": [
-      "#AI",
-      "#정치",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n657db905",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "5시간 전",
-    "url": "https://www.hankyung.com/article/202607255242i",
-    "title": "메모리 부족은 시작일 뿐…AI 시대 돈이 향하는 곳은 [빈난새의 빈틈없이월가]",
-    "summary": [
-      "메모리 부족은 시작일 뿐…AI 시대 돈이 향하는 곳은 [빈난새의 빈틈없이월가]."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n90fdb5da",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5시간 전",
-    "url": "https://view.asiae.co.kr/article/2026072519165349570",
-    "title": "여수항 크루즈 24항차 시대 연다…전남광주, 글로벌 선사 공략",
-    "summary": [
-      "전남광주통합특별시가 글로벌 크루즈 시장 회복세에 맞춰 여수항을 남해안 대표 국제 크루즈 거점으로 육성하기 위한 해외 선사 유치전에 나섰다.",
-      "올해 여수항 국제 크루즈 입항이 역대 최대인 24항차로 늘어날 것으로 전망되는 가운데, 전남광주특별시는 해외 선사와의 협력 확대를 통해 기항 횟수를 더욱 늘리고 장기적으로는 모항(母港) 육성 기반 마련에 속도를 낸다는 전략이다.",
-      "전남광주통합특별시는 지난 23일부터 25일까지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n607c7f8c",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5시간 전",
-    "url": "https://view.asiae.co.kr/article/2026072519333563526",
-    "title": "\"역제안 검토를\" vs \"불가\"…순천대·목포대, 27일 의대 재협상",
-    "summary": [
-      "전남·광주 국립 의과대학 설립 문제를 두고 평행선을 달리고 있는 국립순천대학교와 국립목포대학교가 일주일 만에 다시 협상 테이블에 마주 앉는다.",
-      "25일 대학가에 따르면 국립목포대는 통합 대학본부·의과대학·대학병원 소재지에 대한 협의를 다시 하자는 국립순천대의 요청을 수용해 오는 27일 오후 양 지역의 중간 지점에서 만나기로 회신했다.이번 만남은 순천대의 요청으로 성사됐다.",
-      "앞서 순천대는 지난 23일 목포대에 공."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
     ]
   }
 ];
@@ -639,8 +642,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "AI",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
@@ -650,9 +653,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "스타트업",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
