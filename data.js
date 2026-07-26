@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-26 12:20:58
+// 마지막 업데이트: 2026-07-26 13:29:12
 window.NEWS_DB = [
   {
     "id": "n7d99a556",
     "category": "IT",
     "source": "아주경제",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfRDlzLWtiN2tUOG1PWjgyQ2FlTnl4LTBWY01lVE1ON3VUSWFHZ0hneF96U2stNU5DZDRRUzlITnFjSlFOcFpWd1dyUnhXS0dVaHozVnRROEfSAVhBVV95cUxQX0Q5cy1rYjdrVDhtT1o4MkNhZU55eC0wVmNNZVRNTjd1VElhR2dIZ3hfelNrLTVOQ2Q0UVM5SE5xY0pRTnBaVndXclJ4V0tHVWh6M1Z0UThH?oc=5",
     "title": "이재용, 올트먼 만나 AI 인프라 협력 강화…K-반도체 불황 없는 10년 기대",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nc1599ac3",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBCTjh3Y2xSc1dpS0RycVhJVXdPYnB5aUtOTlBRb0RQS2xvV1RmZW9QTkMxU2lnb3RMZUN0NFZLOUM5M1NHM0tXaF9idE5KVzlCa3FhTEo0ZlZZalhyRnFRdU83aHQ0VTJiLWY1R1VVZC10VUhISVdKdk5lWUs0X2NPbGJpRXo0?oc=5",
     "title": "엔비디아·AMD·인텔 상반기 AI 반도체 승자는 누구일까?",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n0ceac5a0",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UMThIbU9BZEhVMHV2MkNpZVhWb1hOSFV2OE1oaFFuR2hoaWJTLTFTS3hiQUpXZmdKUWdTQ2hhQUZRUnI5UThWZ3FRczBKVC1GY1NMVVFwbFVFaWp5OTUtOFZJQXNoUVdDMGFLZEMyX2tGY2c?oc=5",
     "title": "'키미 K3' AI 열풍은 젠슨 황에게 악재, 엔비디아 반도체 중국 수출 당위성 설득력 떨어지나",
     "summary": [
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "n4e9c6f1e",
     "category": "IT",
     "source": "위키트리",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sZlJ1MmRrRkQ4QzNNNkFXTnRwNTdBQVU1V3pEM1NheDZ4bHE2bEZHc1Y4eGlfQmU3Y1I0N1RMSHl1RjkzNlIxVE9mYmRRM0hmS215bkxR?oc=5",
     "title": "삼성전자, 브로드컴과 5년간 2000억 달러 AI 칩 동맹 체결",
     "summary": [
@@ -111,20 +111,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9007875e",
-    "category": "경제",
-    "source": "자유일보",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbWRfRHlIZjVCN2NNUTl0SUFuN3FZbDFNVkZPWHhnYXFSNUpyb0laWml6QWpCWnA5eWstRDFIU0s4b0xzSnctb3hXLWJua0JLNTNpaS11WXo5WUt0dV9YWXBXU21ab1UwcmZn0gFvQVVfeXFMTUhzV0FlZExhb1cyWjZJNGJJSEd6MDBtUG5zTExYVkhjM2ZGM2RTVzRsUXZ3MENPXzhuY3FJZVdPYVFHTW9VRXpLY0FkV0R1YUZRR3F0NmVPbFYxZkowZGdOcGVhU216MTVjams1LTc0?oc=5",
-    "title": "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’",
-    "summary": [
-      "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’ 자유일보."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
@@ -179,6 +165,21 @@ window.NEWS_DB = [
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
       "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
+    "id": "n31af3cbd",
+    "category": "경제",
+    "source": "에너지경제신문",
+    "time": "48일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
+    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
+    "summary": [
+      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
     ],
     "chips": [
       "#금리",
@@ -258,6 +259,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n01f4c085",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "125일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
+    "summary": [
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -284,21 +299,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#재건축"
-    ]
-  },
-  {
-    "id": "n46f59f4d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "205일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
-    "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
     ]
   },
   {
@@ -348,49 +348,62 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n215d6b2b",
+    "id": "nbe4e1281",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/26/2026072622055172135",
+    "title": "사람 잡는 폭염에…밭일하던 100세 여성 숨진 채 발견",
+    "summary": [
+      "30대 외국인도 사망…당분간 '폭염' 온열질환 주의 땡볕 더위가 이어지면서 전북 완주에서 밭일을 하던 100세 여성이 숨지는 등 사고가 잇따라 발생했다.",
+      "26일 뉴시스 등에 따르면 이날 오후 4시쯤 전북 완주군 봉동읍에서 밭일을 하던 100세 여성 A씨가 숨진 채 발견됐다.",
+      "\"어머님이 밭에 쓰러졌다\"는 아들의 신고를 받고 출동한 소방당국은 현장에서 숨진 채 쓰러져있는 A씨를 발견하고 경찰에 인계했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ae760fa",
     "category": "사회",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723733",
-    "title": "광화문 한글 현판 달까…국민 200명이 내놓은 답은 (종합)",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723767",
+    "title": "러2 · 미1의 소유즈 MS-28호 지구 귀환…ISS는 '원정대 75' 개시",
     "summary": [
-      "[서울=뉴시스]김주희 기자 = 광화문 한글 현판 병기 여부를 놓고 전문가와 국민이 한자리에 모였다.",
-      "한글의 상징성과 역사성을 둘러싼 찬반 의견이 맞선 가운데, 참가자들은 다양한 대안과 절충안을 제시했다.",
-      "문화체육관광부와 행정안전부는 26일 서울 서대문구 연세대학교 백양누리에서 첫 번째 '모두의 토론회'를 열고 광화문 한글 현판 병기 방안을 논의했다."
+      "[서울=뉴시스] 김재영 기자 = 미국과 러시아 공동 운영의 국제우주정거장(ISS)에서 도킹이 풀렸던 러시아 유인우주선 소유즈 MS-28호가 26일 오후 카자흐스탄 내 러시아 영구임대 우주기지 바이코누르에 착지해 우주비행사 3명이 무사히 지구에 귀환했다.",
+      "만 8개월, 241일 만에 지구 땅을 밟은 비행사는 러시아 로즈코스모스 소속 2명에다 미 나사 소속 미국인 1명이다.",
+      "ISS행 소유즈 우주선에는 비행사 3명이 탑승하고 언제나 그 중 한 명은 미."
     ],
     "chips": [
-      "#채용",
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n4de2c5c3",
-    "category": "IT",
+    "id": "n2153deab",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723768",
-    "title": "한 총리, 'AI와 지역성장' 전문가 간담회…\"AI·산업·정주정책 연계방안 구체화할 것\"",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723791",
+    "title": "순천 제조공장서 50대 노동자 7ｍ 아래로 추락해 숨져",
     "summary": [
-      "[서울=뉴시스]김경록 기자 = 한성숙 국무총리가 26일 각 분야의 전문가들과 간담회를 열고 'AI와 지역균형 성장' 전략의 해법을 모색했다.",
-      "국무총리실은 보도자료를 내고 한 총리가 이날 서울 종로구 삼청동 국무총리공관에서 제2회 '열린 브런치'를 개최하고 산업·국토·교육·인재·창업 분야 전문가들과 'AI와 지역균형 성장'을 주제로 의견을 나눴다고 밝혔다.",
-      "전문가들은 한 총리에게 글로벌 AI 경쟁력을 높이는 과정에서 국토 균형발전 전략을 함께 추."
+      "[순천=뉴시스] 김석훈 기자 = 전남 순천의 한 제조공장에서 일하던 50대 노동자가 7m 아래로 추락해 숨졌다.",
+      "26일 전남광주통합특별시 소방본부 등에 따르면 이날 오후 7시11분께 순천시 해룡면 해룡산업단지 내 한 제조공장에서 용접 작업을 하던 50대 A씨가 7ｍ 높이에서 추락했다는 신고가 접수됐다.",
+      "119구급대는 현장에서 머리 부위에 출혈이 있는 A씨를 발견했으나 심정지 상태였던 것으로 전해졌다."
     ],
     "chips": [
-      "#AI",
-      "#정책",
-      "#교육"
+      "#의료"
     ]
   },
   {
-    "id": "n50279d5a",
+    "id": "n17ca7be1",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723756",
-    "title": "'15안타 폭발' 롯데, 15-1로 대승 '4연패 탈출'…KT, 창단 첫 10연승 불발",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723775",
+    "title": "롯데, KT 10연승 저지하고 4연패 탈출…키움 김윤하, 18연패 끊어(종합)",
     "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 롯데 자이언츠가 거침없는 상승세를 자랑하던 KT 위즈의 연승 행진을 멈춰세웠다.",
+      "[서울=뉴시스]김희준 박윤서 기자 = 프로야구 롯데 자이언츠가 거침없는 상승세를 자랑하던 KT 위즈의 연승 행진을 멈춰세웠다.",
       "KT는 창단 첫 10연승이 불발됐다.",
       "롯데는 26일 사직구장에서 벌어진 2026 신한 쏠 KBO리그 KT와의 경기에서 뜨거운 타선을 앞세워 15-1로 대승을 거뒀다."
     ],
@@ -399,240 +412,227 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n48099c69",
+    "id": "nea9286e2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723381",
-    "title": "착륙 직전 '쿵'…일본항공 여객기 흔들려 승무원 갈비뼈 골절",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723790",
+    "title": "'붐붐붐' 맞춰 폭탄 터져…케이티 페리, '파이어워크' 무단 쓴 백악관 맹비난",
     "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 일본항공(JAL) 여객기가 착륙을 앞두고 갑작스러운 흔들림을 만나면서 승무원 1명이 갈비뼈가 부러지는 부상을 입었다.",
-      "아사히신문 등 일본 매체에 따르면 21일 오후 5시30분 오이타공항을 출발해 도쿄 하네다공항으로 향하던 일본항공 672편에서 이 같은 일이 벌어졌다.",
-      "매체에 따르면 여객기는 이즈오시마 부근 상공에서 고도 약 5500m로 하강하던 중 갑자기 크게 흔들렸다."
+      "[서울=뉴시스]이재훈 기자 = 미국 팝스타 케이티 페리가 자신의 히트곡을 미군 군사 공격 영상의 배경음악으로 무단 사용한 백악관을 향해 강한 분노를 표출했다.",
+      "25일(현지시간) 버라이어티 등 외신에 따르면, 페리는 이날 소셜 미디어를 통해 \"백악관 틱톡 계정에서 군사 공격 영상의 배경음악으로 '파이어워크(Firework)'가 쓰인 것을 보고 깊은 경악과 분노를 느꼈다\"며 \"승인한 적도, 요청받은 적도 없으며 이를 절대 용납하지 않는다\"고 일갈했."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n24d765cf",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726052400007",
-    "title": "[프로야구 부산전적] 롯데 15-1 kt",
-    "summary": [
-      "[프로야구 부산전적] 롯데 15-1 kt."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n154f2483",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726052300007",
-    "title": "롯데 15안타 불방망이에 kt 10연승 신기록 수립 무산",
-    "summary": [
-      "(서울=연합뉴스) 장현구 기자 = 롯데 자이언츠가 선발 타자 전원 안타를 터뜨리며 kt wiz의 구단 최장 연승 신기록 도전을 막아 세웠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf9afc1b4",
+    "id": "na94aec1a",
     "category": "사회",
     "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/26/2DRLCUBFD5DWNEOMXDGYJBAXMQ/",
-    "title": "[단독] ‘올다르크’ 구속 사유, “해외여행 경험 탓 도피 우려”?",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/26/HEZGCNBVGI4DOYZZMRRTENDCHE/",
+    "title": "소지섭 너란 남자... '김부장' 배우·스태프 전원에 금 선물 '미담' 화제 [핫피플]",
     "summary": [
-      "[단독] ‘올다르크’ 구속 사유, “해외여행 경험 탓 도피 우려”?."
+      "[OSEN=김수형 기자]배우 소지섭이 새 작품을 함께한 배우와 스태프들에게 금을 선물한 사실이 알려지며 또 한 번 미담의 주인공이 됐다.26일 각종 온라인 커뮤니티와 SNS에는 소지섭이 SBS 금토드라마 '김부장' 배우와 스태프들에게 전달한 선물 인증 사진이 공개돼 화제를 모았다.공개된 사진에는 전용 케이스에 담긴 금과 함께 소지섭이 직접 전한 감사 메시지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8e578eac",
+    "id": "n70086b5c",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260726052051007",
+    "title": "한화, 홈런 3방으로 8회에만 10득점…두산 곽빈 다승 공동선두(종합)",
+    "summary": [
+      "(서울=연합뉴스) 장현구 이대호 기자 = 한화 이글스가 8회에만 홈런 3방 등으로 10점을 뽑는 무서운 폭발력을 뽐냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neecb9576",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/26/GUZTIZTFMUYTEN3EHFSDGZTCMQ/",
+    "title": "\"알바 찾기 힘드네\"…'응사' 민도희, 생계 위해 '직접 구직' 나선 현실 근황 ('미우새')",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=박근희 기자] '미운 우리 새끼’ 배우 민도희의 근황과 생생한 구직 현장이 공개됐다.26일 오후 방송된 SBS 예능 ‘미운 우리 새끼’(이하 ‘미우새’)에서는 ‘응답하라 1994’ 속 거침없는 전라도 사투리로 큰 사랑을 받았던 배우 민도희의 일상이 공개됐다.어느덧 서른세 살이 된 민도희의 집이 공개됐다."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
+    "id": "n4faf0210",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260726055200007",
+    "title": "'3연승 무산' 인천 윤정환 감독 \"초반 안일한 플레이 아쉬워\"",
+    "summary": [
+      "(인천=연합뉴스) 오명언 기자 = 시즌 첫 3연승을 눈앞에 뒀다가 무승부에 그친 프로축구 K리그1 인천 유나이티드의 윤정환 감독은 아쉬움을 감추..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na7d5ecd4",
     "category": "스포츠",
     "source": "연합뉴스",
     "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726052100007",
-    "title": "세계 1위 서승재·김원호, 결승서 분패…중국오픈 배드민턴 2위",
+    "url": "https://www.yna.co.kr/view/AKR20260726053751007",
+    "title": "에릭·이동경 1골 1도움…울산, 선두 서울 잡고 6경기 만에 승리(종합)",
     "summary": [
-      "(서울=연합뉴스) 오명언 기자 = 53주 연속 배드민턴 남자 복식 세계랭킹 1위를 달리는 서승재-김원호(이상 삼성생명) 조가 중국 오픈 우승 트..."
+      "(서울·인천=연합뉴스) 이영호 오명언 기자 = 프로축구 K리그1 울산 HD가 '선두' FC서울을 꺾고 6경기 만에 승전고를 울렸다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9ec7f634",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026072620550369586",
-    "title": "이란군 대변인 \"美 공습 멈춰…보복 작전 전면 중단\"",
+    "id": "na1e1bad6",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072618360720933",
+    "title": "'구단 최초 9연승→92일 만에 첫 패배' 정경호 감독 \"전적으로 내 책임... 승리 못 해 죄송하다\" [안양 현장]",
     "summary": [
-      "미국이 이란에 대한 공습을 이틀째 멈추면서, 이란 역시 중동 내 미 동맹국들을 겨냥한 보복 공격을 전면 중단했다고 26일(현지시간) 밝혔다.",
-      "이날 연합뉴스에 따르면 모하마드 아크라미니아 이란군 대변인은 \"미군의 공격이 이틀 전 밤까지 이어졌으나, 최근 이틀 동안은 멈췄다\"며 \"우리의 군사 전략은 기본적으로 보복에 목적을 두고 있으므로 우리도 보복 작전을 중단했다\"고 밝힌 것으로 전해졌다."
+      "구단 최초 10경기 무패행진 도전에 실패하며 아쉬운 패배를 안은 정경호 강원FC 감독이 팬들에게 사과하며 패배의 책임을 자신에게 돌렸다.",
+      "강원은 26일 오후 7시 30분 안양종합운동장에서 열린 하나은행 K리그1 2026 20라운드 FC안양과 원정 경기에서 1-2로 석패했다.",
+      "이로써 구단 최초 9경기 무패행진(5승 4무)을 달리던 강원은 10경기 만에 패배를 기록하며 8승 8무 4패(승점 32)로 리그 3위에 머물렀다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3dbc322a",
-    "category": "사회",
+    "id": "n7155c73a",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/07/26/3OFTTOLAJ5C6TP6UWBMFEXUFPY/",
-    "title": "서승재·김원호, 중국 오픈 결승서 1대2 역전패...부족했던 뒷심",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/26/GY2GKM3DGYZWCYRSMI4GMYZWG4/",
+    "title": "\"빨리 알레띠 유니폼 입고 싶다\"...이강인, 아틀레티코 첫 인사 \"위대한 클럽 합류해 행복\"",
     "summary": [
-      "서승재·김원호, 중국 오픈 결승서 1대2 역전패...부족했던 뒷심."
+      "[OSEN=서정환 기자] \"이 위대한 클럽에 합류하게 돼 정말 행복합니다.\"이강인(25)이 아틀레티코 마드리드 선수로서 첫 공식 인사를 전했다.아틀레티코는 25일(한국시간) 구단 공식 채널을 통해 이강인의 영입을 발표했다.",
+      "계약기간은 2031년까지이며, 이적료는 3500만 유로(약 582억 원)에 옵션이 포함된 것으로 알려졌다.구단은 영입 발표와 함께 이강."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbca57b60",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "30분 전",
-    "url": "https://view.asiae.co.kr/article/2026072620494865911",
-    "title": "\"강제할 수 없어도 계속 점검\"…유네스코가 세계유산 지키는 법",
-    "summary": [
-      "라자르 엘룬두 아소모 유네스코 세계유산센터장은 세계유산위원회에 특정 국가의 행동을 강제할 수단이 없다는 한계를 인정했다.",
-      "대신 각국이 등재 신청과 함께 스스로 수용한 약속, 위원회의 합의와 정기적인 점검, 세계유산영향평가와 공동체 참여를 유산을 지키는 장치로 제시했다.",
-      "일본 사도광산의 역사 해석부터 종묘 주변 개발, 전쟁으로 파괴된 팀북투 복원까지 서로 다른 현안을 관통한 답은 '절차와 협력'이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n455ba809",
+    "id": "n20e4dafe",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726052000007",
-    "title": "곽빈 시속 158㎞·113구 역투…두산, 삼성 잡고 2연패 탈출",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260724167952007",
+    "title": "[프로야구 중간순위] 26일",
     "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 프로야구 두산 베어스가 에이스 곽빈의 투혼을 앞세워 2연패에서 벗어났다."
+      "[프로야구 중간순위] 26일."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n7effaa1a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "53분 전",
-    "url": "https://www.hankyung.com/article/2026072667147",
-    "title": "여자친구 부모님 만난 날 산 복권…예비부부, 20억원 당첨",
+    "id": "nbc416c62",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "29분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072619511262961",
+    "title": "'밀어내기→밀어내기→밀어내기' NC 충격의 9회, 연장 끝 무승부... SSG 5연승 잠시 보류 [인천 현장리뷰]",
     "summary": [
-      "여자친구 부모님 만난 날 산 복권…예비부부, 20억원 당첨."
+      "NC 다이노스가 다 잡은 승리를 눈앞에서 놓쳤다.",
+      "불펜의 방화와 한 발 늦은 교체가 상황을 최악으로 몰았다.",
+      "결국 1승은 1무로 둔갑했다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nba36a5c4",
+    "id": "nc5ca664e",
     "category": "경제",
     "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026072620003943130",
-    "title": "\"사람이 반쪽 됐다\" SNS 발칵…이틀 만에 4㎏ 빠진다는 中 음료 정체",
+    "time": "30분 전",
+    "url": "https://view.asiae.co.kr/article/2026072617573447654",
+    "title": "도서관이 여름 피서지로…전남광주 '북캉스' 프로그램 풍성",
     "summary": [
-      "중국에서 차와 외용 관장약을 섞어 마시는 신종 다이어트법이 사회관계망서비스(SNS)를 중심으로 유행하면서 많은 이들이 설사·복통에 시달리다 병원을 찾는 등 부작용을 호소하고 있다.",
-      "25일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 최근 중국 SNS에서 외용 변비약을 차에 타서 마시는 이색적인 체중 감량법이 유행하고 있다.",
-      "일부 인기 영상에서 인플루언서들은 무설탕 차에 외용 글리세린 관장약을 넣고 병을 흔들어 섞은."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n54eff3c6",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607232121g",
-    "title": "\"시간만 날렸다\" 날벼락…탈모 환자의 '치명적 실수' [오세성의 탈아재]",
-    "summary": [
-      "\"시간만 날렸다\" 날벼락…탈모 환자의 '치명적 실수' [오세성의 탈아재]."
+      "무더위를 피해 멀리 떠나지 않아도 책과 예술을 함께 즐길 수 있는 '도심 속 북캉스'가 열린다.",
+      "전남광주통합특별시 광주도서관은 여름방학과 휴가철을 맞아 8월 한 달 동안 강연과 전시, 체험 행사를 운영한다고 26일 밝혔다.",
+      "무등·산수·하남·디지털정보·시립점자도서관에서는 어린이부터 어르신까지 참여할 수 있는 독서 프로그램과 인문학 강연, 문화 체험을 마련했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf110c146",
+    "id": "nf49e86c1",
     "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026072666857",
-    "title": "남중국해서 베트남 화물선·어선 잇단 침몰…20명 실종",
-    "summary": [
-      "남중국해서 베트남 화물선·어선 잇단 침몰…20명 실종."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n31318e08",
-    "category": "IT",
     "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026072619482033782",
-    "title": "김용범 \"李대통령, 실리콘밸리 킹메이커와 '도원결의'…삼성·SK 다음 타자 키울 것\"",
+    "time": "33분 전",
+    "url": "https://view.asiae.co.kr/article/2026072617512740473",
+    "title": "방학 점심 걱정 덜까…전남광주, 초등생 4500명 '틈새돌봄'",
     "summary": [
-      "김용범 청와대 정책실장은 이재명 대통령과 실리콘밸리 주요 벤처캐피털(VC)의 만남을 \"삼성·SK 같은 우리나라 빅테크의 다음 타자를 키우자는 결의의 자리\"라고 평가하며 \"이번 만남은 한 번의 만남, 한 장의 사진으로 끝나지 않을 것\"이라고 밝혔다.",
-      "정부 주도의 경제개발계획으로 대기업을 육성했던 과거 방식에서 벗어나 한국 스타트업을 글로벌 자본·시장과 직접 연결해 차세대 대기업으로 성장시키겠다는 구상을 내비친 것."
+      "여름방학이 시작되면 맞벌이 가정은 아이의 점심과 돌봄부터 걱정해야 한다.",
+      "학교 급식이 멈추면서 끼니를 챙기기 어렵고, 돌봄 공백도 길어진다.",
+      "전남광주통합특별시가 방학 기간 초등학생 4,500여명에게 점심·저녁과 온종일 돌봄을 제공하는 '초등 방학 틈새돌봄' 사업을 시작한다."
     ],
     "chips": [
-      "#스타트업",
-      "#정책",
-      "#정치"
+      "#교육"
     ]
   },
   {
-    "id": "n876dc442",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026072666787",
-    "title": "아동 성매매 혐의 최영중 전 청주시의원 경찰 출석…4시간가량 조사",
+    "id": "nde32515e",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "37분 전",
+    "url": "https://view.asiae.co.kr/article/2026072621512520988",
+    "title": "중앙그룹 채권투자자들 \"회계처리 의문\"…금감원에 감리요구",
     "summary": [
-      "아동 성매매 혐의 최영중 전 청주시의원 경찰 출석…4시간가량 조사."
+      "JTBC 등 중앙그룹 채권 투자자들이 금융감독원에 회계감리를 요청했다.",
+      "변호인단은 24일 금감원에 JTBC, 중앙홀딩스, 다보중앙, 콘센트리중앙, 메가박스중앙 등 중앙그룹 계열사 5곳의 재무제표와 감사보고서에 대한 감리요구서를 제출했다고 26일 밝혔다.",
+      "변호인단에 따르면 JTBC는 2023년부터 9차례에 걸쳐 신종자본증권 2260억원을 발행했고, 이를 인수한 곳이 대부분 계열회사이거나 계열회사의 신용을 보강해준 특수목적법인."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfebde350",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "2시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260726190346",
-    "title": "KAIST-엔비디아, \"인체동작 파운데이션 모델 개발\"",
+    "id": "n897a1184",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "38분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/26/2026072621355885667",
+    "title": "'김부장' 소지섭, 통 크게 '금' 쐈다…\"동료·스태프 있어야 내가 있어\"",
     "summary": [
-      "[지디넷코리아]KAIST가 엔비디아와 KAIST 내에 '인간물리지능 테크놀로지센터(휴먼 피지컬 AI NVAITC)’를 설립하기로 했다.26일 정진용 KAIST 기계공학과 초빙교수는 \"사전논의를 어느정도 끝내고, 양자간 온라인으로 협약도 체결했다.",
-      "협약 행사는 하반기에 할 예정\"이라며 \"구체적으로 어떤 분야를 협업할지 연구진끼리 논의에 들어갈 것\"이라고 말했다.정 교수는 \"예산이 오가는 건 아니다.",
-      "각자가 알아서 펀딩하고 연구한다."
+      "최고 시청률 23%를 기록한 드라마 '김부장'이 종영한 가운데 주연 배우 소지섭(49)이 동료 배우와 스태프 등에게 금을 선물했다는 사실이 전해졌다.",
+      "26일 SNS(소셜미디어) 등에는 소지섭이 SBS 드라마 '김부장'의 동료 배우 및 스태프 등에게 금을 전달했다는 내용의 글이 공유됐다.",
+      "관련 게시물에는 전용 케이스에 담긴 금 사진이 첨부됐다."
     ],
     "chips": [
-      "#AI",
-      "#엔비디아"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb9518aa4",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026072667337",
+    "title": "미국 공습 멈추자 이란도 보복 중단…협상 재개되나",
+    "summary": [
+      "미국 공습 멈추자 이란도 보복 중단…협상 재개되나."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -642,14 +642,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
