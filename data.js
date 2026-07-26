@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-26 03:00:20
+// 마지막 업데이트: 2026-07-26 04:17:21
 window.NEWS_DB = [
+  {
+    "id": "nc1599ac3",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "36분 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBCTjh3Y2xSc1dpS0RycVhJVXdPYnB5aUtOTlBRb0RQS2xvV1RmZW9QTkMxU2lnb3RMZUN0NFZLOUM5M1NHM0tXaF9idE5KVzlCa3FhTEo0ZlZZalhyRnFRdU83aHQ0VTJiLWY1R1VVZC10VUhISVdKdk5lWUs0X2NPbGJpRXo0?oc=5",
+    "title": "엔비디아·AMD·인텔 상반기 AI 반도체 승자는 누구일까?",
+    "summary": [
+      "엔비디아·AMD·인텔 상반기 AI 반도체 승자는 누구일까? 글로벌이코노믹."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "ndcd83ed9",
     "category": "IT",
     "source": "뉴스로드",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWE3ZDExT2ViWklxREdWTF8xcWRNS1lrZ1BqR0lpRC1LdkNHT3c5UVNsX2VfOHV1N0pHUmNVNE9ycjBLTlFIQ3Fobmh0RFdPamloXy10OVA4N2hFM0RoQUthcS1wQ0NfODl30gFvQVVfeXFMT01SX3NxRmpVWDlJYXNfQVpUN2UyZC15ajQtUEN5YkphNTBaXzNGaDE5SlU2VWZObWtwejBmTUVfd0QxRFhOR0tNOTdnRy1jQkFJejV2ZklQZWUtNzhpVlVpT3Q2T3ZOeDJNMmJ0Q04w?oc=5",
     "title": "이재용·올트먼, 오픈AI 본사서 ‘AI 동맹’ 논의…HBM·파운드리 빅딜 주목",
     "summary": [
@@ -20,11 +36,11 @@ window.NEWS_DB = [
     "id": "n0ceac5a0",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UMThIbU9BZEhVMHV2MkNpZVhWb1hOSFV2OE1oaFFuR2hoaWJTLTFTS3hiQUpXZmdKUWdTQ2hhQUZRUnI5UThWZ3FRczBKVC1GY1NMVVFwbFVFaWp5OTUtOFZJQXNoUVdDMGFLZEMyX2tGY2c?oc=5",
-    "title": "'키미 K3' AI 열풍은 젠슨 황에 악재, 엔비디아 반도체 중국 수출 당위성 설득력 떨어지나",
+    "title": "'키미 K3' AI 열풍은 젠슨 황에게 악재, 엔비디아 반도체 중국 수출 당위성 설득력 떨어지나",
     "summary": [
-      "'키미 K3' AI 열풍은 젠슨 황에 악재, 엔비디아 반도체 중국 수출 당위성 설득력 떨어지나 비즈니스포스트."
+      "'키미 K3' AI 열풍은 젠슨 황에게 악재, 엔비디아 반도체 중국 수출 당위성 설득력 떨어지나 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -37,7 +53,7 @@ window.NEWS_DB = [
     "id": "n4e9c6f1e",
     "category": "IT",
     "source": "위키트리",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sZlJ1MmRrRkQ4QzNNNkFXTnRwNTdBQVU1V3pEM1NheDZ4bHE2bEZHc1Y4eGlfQmU3Y1I0N1RMSHl1RjkzNlIxVE9mYmRRM0hmS215bkxR?oc=5",
     "title": "삼성전자, 브로드컴과 5년간 2000억 달러 AI 칩 동맹 체결",
     "summary": [
@@ -52,7 +68,7 @@ window.NEWS_DB = [
     "id": "nf5f7d389",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uOVoycjZFd2VZdEROWTI3Z1hpSEpWRG8yOW8xdEphYVd1R21HUjdYUURwOXAwZXlmOG5hYldpeXRHMFFZSTJCSFVHdVZMTEVKWmtQWktkbTFlNDjSAWBBVV95cUxOODJtZ3hTZEpwYXVBVFFRanZjWUNzcUFMMVpZMDgwcmMtOXp0T1dvSUt5M2xDRHRFMU9Nd3JZY094d0lFYzQ2cEpOQ3lnQmJ1ZENnVk1jRE91OEhqTWQwWHA?oc=5",
     "title": "한미 빅테크 1천400조원 AI 동맹…반도체·AI공급망 구축 본격화(종합)",
     "summary": [
@@ -67,7 +83,7 @@ window.NEWS_DB = [
     "id": "n181df282",
     "category": "IT",
     "source": "아주경제",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ON2VwYUJUV1M1Z1JiWDFJWEprUG1ia1dUMmM2WFk3YXQ5Z19Eb2tVb1Z1a2V1S2JWQWlWdzZqX280TEgteTVqZ2R6QmlwcnRNcEg3TzRSdTHSAVhBVV95cUxOTjdlcGFCVFdTNWdSYlgxSVhKa1BtYmtXVDJjNlhZN2F0OWdfRG9rVW9WdWtldUtiVkFpVnc2al9vNExILXk1amdkekJpcHJ0TXBIN080UnUx?oc=5",
     "title": "삼성전자, 브로드컴과 292조원대 AI 메모리·파운드리 협력...차세대 HBM 경쟁력 입증",
     "summary": [
@@ -92,22 +108,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
-    ]
-  },
-  {
-    "id": "nfaa9ec62",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2FKQTB1dmFGYmhZbFpFZE9lT2I2T0YySGNTZEN6WE5MWXczLUZwd3RQT0RSVWlKamxZVl82V3cyZDBQSkxjNzZpWWRHTXJLSzdma0xzSmsyMV8tZU5iUTN1QnUzT3dmd3FoVjlUYXVoWTd0UXhqb3JHNE9jLTVKNnZobw?oc=5",
-    "title": "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입",
-    "summary": [
-      "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -140,20 +140,6 @@ window.NEWS_DB = [
       "#AI",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n207a7abe",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "32일 전",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
-    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
-    "summary": [
-      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -287,6 +273,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "152일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nbe3faaa9",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -364,269 +364,276 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndb748a02",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260726/134364801/1",
-    "title": "박지원 “대통령 외교 성과에 당은 신천지 전쟁”",
+    "id": "n8cc6482b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723458",
+    "title": "국힘 \"선관위, '투표율 돌려막기'로 국민 속여…국조 연장·특검 수사 확대\"",
     "summary": [
-      "더불어민주당 박지원 의원은 26일 “대통령께서 해외에서 외교로 성과를 거양 중이면 여야가 돕지는 못할망정 쪽박이라도 깨지 말아야 한다”며 여야 정치권을 향해 일침을 가했다.박 의원은 이날 소셜네트워크서비스(SNS)를 통해 “이재명 대통령께서 미국 SF(샌프란시스코)에서 젠슨 황, 샘 올트먼 등 세계적 빅테크 CEO(최고경영자)들과 만나 AI 선언과 1375조 원 규모의 비즈니스 협력 등 엄청난 보도가 쏟아지고 있다”며 이같이 밝혔다.그는 “도무."
+      "[서울=뉴시스] 이승재 우지은 기자 = 국민의힘은 26일 선거관리위원회의 6·3 지방선거 투표자 수 허위 입력 정황이 드러나고 있는 데 대해 \"투표율 돌려막기로 국민 속인 선관위, 관리 실패가 아니라 민주주의 근간을 흔든 전산 조작 범죄\"라고 했다.",
+      "최보윤 수석대변인은 이날 논평을 내고 \"경기 사례에서는 중앙선관위 실무자가 오입력된 인원을 다른 투표소에 분산하라고 지시하고, 경기선관위 직원이 이를 실행한 혐의로 각각 입건됐다."
     ],
     "chips": [
-      "#AI",
       "#정치"
     ]
   },
   {
-    "id": "n082c3793",
+    "id": "nb71bc6fd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723536",
+    "title": "이 대통령, 샌프란시스코 '피어 39' 방문…글로벌 관광객들과 소통",
+    "summary": [
+      "[샌프란시스코 서울=뉴시스]김경록 김지은 기자 = 미국을 방문한 이재명 대통령이 25일(현지시간) 샌프란시스코 대표 관광지인 '피어 39'(Pier 39)를 방문해 전 세계에서 온 글로벌 관광객들과 소통하는 시간을 가졌다.",
+      "안귀령 청와대 부대변인은 서면 브리핑을 내고 이 대통령과 부인 김혜경 여사가 이날 오후 샌프란시스코 피어 39를 방문해 세계 각국 관광객 및 현지 시민들을 만나 인사를 나누고 소통했다고 밝혔다.",
+      "이 대통령 부부가 등장하자 현."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb6c1f0d8",
     "category": "사회",
     "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/26/2026072611480892860",
-    "title": "교도소 권총탄 100발 행방 묘연…직원 집까지 뒤졌지만 '허탕'",
-    "summary": [
-      "대전교도소에서 권총 실탄 100발이 사라진 사실이 뒤늦게 확인됐다.",
-      "교정당국은 장부 오류부터 직원의 외부 반출 가능성까지 폭넓게 조사했지만 끝내 탄약의 행방을 찾지 못했고 결국 경찰에 수사를 의뢰했다.",
-      "26일 뉴스1에 따르면 법무부 교정본부는 최근 대전교도소에서 발생한 탄약 분실 사건의 정확한 경위를 규명하기 위해 관할 경찰에 수사를 의뢰했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n331668e1",
-    "category": "스포츠",
-    "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726026000007",
-    "title": "손흥민, MLS 3경기 연속 득점포…캔자스시티전 5분 만에 선제골",
+    "url": "https://www.mt.co.kr/politics/2026/07/26/2026072613055370870",
+    "title": "李 대통령 부부, 샌프란 '피어39'서 시민과 깜짝 소통…현지 식당서 식사",
     "summary": [
-      "(서울=연합뉴스) 최송아 기자 = 손흥민(LAFC)이 미국프로축구 메이저리그사커(MLS)에서 3경기 연속 득점포를 가동했다."
+      "[the300] 미국을 방문 중인 이재명 대통령과 김혜경 여사가 25일(현지시간) 미국 샌프란시스코 피어 39(Pier 39)를 방문해 현지 시민·관광객과 소통했다.",
+      "안귀령 청와대 부대변인은 26일 서면 브리핑을 통해 이같이 밝혔다.",
+      "이 대통령 부부가 방문한 피어 39는 바다사자 서식지와 식당, 상점, 거리 공연 등이 어우러진 복합 문화·상업 공간이다."
     ],
     "chips": [
-      "#손흥민"
+      "#정치"
     ]
   },
   {
-    "id": "nd9d7ad92",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/07/26/MEZGCYZQGM2TMZBUMM2WGMDDGU/",
-    "title": "피크앤피치, 오늘(26일) 첫 미니앨범 '말하지' 발매..5년만 컴백",
-    "summary": [
-      "[OSEN=선미경 기자] ‘K-브루노마스’로 불리는 보컬 듀오 피크앤피치(정사강, 이은성)가 컴백한다.피크앤피치는 오늘(26일) 각종 음원 사이트를 통해 첫 번째 미니앨범 ‘말하지’를 발표하고 5년 만에 가요계로 돌아온다.이번 신보는 지난 2021년 발표했던 ‘아이코 아이코(Iko Iko)’ 이후 5년 만으로, 피크앤피치의 오리지널 앨범이라는 점에서 의미가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na4502600",
+    "id": "n09a844b1",
     "category": "스포츠",
     "source": "머니투데이",
     "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072610283875889",
-    "title": "손흥민 골 '또' 터졌다! 3경기 연속골 폭발에 '댄스 세리머니'까지",
+    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072612364828787",
+    "title": "와! '인성 보소' 자신의 타구 낚아채자 헬멧 벗고 경의 표한 외인이 있다, 사령탑 \"착해요, 긴장이 더 풀리면...\"",
     "summary": [
-      "손흥민(34·LAFC)의 골이 또 터졌다.",
-      "어느덧 3경기 연속골 폭발이다.",
-      "손흥민은 26일(한국시간) 미국 BMO 스타디움에서 열리고 있는 2026 미국 메이저리그사커(MLS) 18라운드 홈경기 스포팅 캔자스시티전에서 전반 5분 만에 골망을 흔들었다."
+      "두산 베어스의 새 외국인 타자 유니오 세베리노(27)가 자신의 타구를 낚아챈 김지찬(25·삼성 라이온즈)을 향해 헬멧을 벗으며 경의를 표했다.",
+      "두산은 25일 서울 잠실야구장에서 펼쳐진 삼성과 2026 신한 SOL KBO 리그 정규시즌 홈경기에서 1-4로 패했다.",
+      "이 패배로 두산은 2연패에 빠진 채 47승 3무 44패를 기록, 5위를 유지했다."
     ],
     "chips": [
-      "#손흥민"
+      "#KBO"
     ]
   },
   {
-    "id": "n10d76d09",
-    "category": "IT",
+    "id": "n94789c77",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/07/26/C5BGFKVOZNEOHIIZGKTJ7HOXUE/",
+    "title": "정점식 “보완수사권 폐지하면 정부·여당 동반 몰락할 것”",
+    "summary": [
+      "정점식 “보완수사권 폐지하면 정부·여당 동반 몰락할 것”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf88210eb",
+    "category": "사회",
     "source": "뉴시스",
     "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723497",
-    "title": "수원시, 양자·AI 반도체 거점 구축 본격화…국비 100억 확보",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723538",
+    "title": "ARF 의장성명 채택…\"한반도 완전한 비핵화\" 2년 연속 포함",
     "summary": [
-      "[수원=뉴시스] 박종대 기자 = 경기 수원시가 양자·AI 반도체 검증 인프라 구축에 나서면서 정부 공모를 통해 국비 100억원을 따냈다고 26일 밝혔다.",
-      "산업통상부의 '2026년도 3차 산업혁신기반구축사업'에 성균관대를 주관기관으로 한국전자기술연구원, 차세대융합기술연구원, 소재융합기술연구조합이 힘을 합쳐 응모한 결과다.",
-      "2030년 12월까지 국비 100억원과 시비 15억원 등 총 115억원이 투입된다."
+      "[서울=뉴시스] 옥승욱 기자 = 인도·태평양 지역 외교장관들이 지난 23일(현지시간) 필리핀 마닐라에서 열린 아세안지역안보포럼(ARF) 의장성명을 채택했다.",
+      "25일 공개된 성명에는 2년 연속 \"한반도의 완전한 비핵화\" 문구가 담긴 것으로 확인됐다.",
+      "ARF 의장성명에 따르면 ARF는 아시아·태평양 지역의 정치·안보 문제를 논의하는 아세안(ASEAN) 주도의 핵심 안보 협의체임을 재확인했다."
     ],
     "chips": [
-      "#AI",
-      "#반도체"
+      "#정치"
     ]
   },
   {
-    "id": "n67f91a44",
+    "id": "n1ddcff8c",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260726/134364785/1",
-    "title": "부활한 손흥민, 3경기 연속골 조준…캔자스시티전 선발 출격",
-    "summary": [
-      "미국 프로축구 메이저리그사커(MLS) 로스앤젤레스FC(LAFC) 공격수 손흥민이 스포르팅 캔자스시티를 상대로 3경기 연속골에 도전한다.LAFC는 26일 오전 11시30분(한국 시간) 미국 LA의 BMO 스타디움에서 캔자스시티와의 2026 미국 MLS 18라운드 홈 경기를 치른다.현재 LAFC는 승점 30(9승 3무 5패)으로 서부 콘퍼런스 3위, 캔자스시티는 승점 14(4승 2무 10패)로 서부 콘퍼런스 15위다.구단 사회관계망서비스(SNS)에."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "nc10154b3",
-    "category": "부동산",
     "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/07/26/WG6ZSSYOLZDHFCGJTEXM42XWXM/",
-    "title": "작년 봄 20·30대 주택 보유율 30% 밑으로… 대출 꽉 막힌 올해는 더 떨어진다",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/07/26/MQ4DMNRUMFSTGMTEGYYDAMTGMI/",
+    "title": "MSI와 EWC를 거쳐 다시 국내 무대로…LCK 3~4라운드, 더 뜨거워진 '진짜 승부' 시작",
     "summary": [
-      "작년 봄 20·30대 주택 보유율 30% 밑으로… 대출 꽉 막힌 올해는 더 떨어진다."
+      "국제 대회에서 엇갈린 희비를 뒤로 하고 LCK 팀들이 다시 국내 무대에서 만난다.",
+      "2026 LCK(리그 오브 레전드 챔피언스 코리아) 정규 시즌이 29일 본격적인 후반부 경쟁에 돌입한다.",
+      "국가대표의 아이치-나고야아시안게임 참가로 인해 예년보다 한 라운드 줄어들며 4주간의 짧은 일정으로 3~4라운드를 치른다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6c5a5d30",
-    "category": "부동산",
-    "source": "동아일보",
+    "id": "na434cd31",
+    "category": "IT",
+    "source": "연합뉴스",
     "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260726/134364782/1",
-    "title": "충주 아파트서 흉기들고 초등생 야단친 50대 입건",
+    "url": "https://www.yna.co.kr/view/AKR20260726028600089",
+    "title": "필즈상 수상·'타임표지 장식' 로봇…中, 이공계 성과에 '자신감'",
     "summary": [
-      "충북 충주경찰서는 초등학생들을 흉기로 위협한 혐의(특수협박)로 50대 남성 A 씨를 불구속 입건해 조사하고 있다고 26일 밝혔다.A 씨는 지난 17일 오후 7시쯤 충주의 한 아파트 단지 안에서 B 군 등 초등학생 3명을 흉기로 위협한 혐의를 받는다.술에 취한 상태였던 A 씨는 B 군 등이 자신의 누나와 실랑이하는 모습을 보고 학생들을 꾸짖기 위해 인근 분리수거장에서 흉기를 가져온 것으로 조사됐다.당시 A 씨는 피해 학생들과 일정 거리를 둔 상태."
+      "(상하이=연합뉴스) 차병섭 특파원 = 최근 인공지능(AI)·로봇·수학 등 이공계 분야에서 중국 출신의 젊은 연구자와 기업인이 잇따라 주목받자 중..."
     ],
     "chips": [
-      "#부동산"
+      "#AI"
     ]
   },
   {
-    "id": "n592e82eb",
+    "id": "n90aec09d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723520",
+    "title": "경기신보, 하반기 중소기업·소상공인 지원사업 설명회",
+    "summary": [
+      "[수원=뉴시스] 박상욱 기자 = 경기신용보증재단(경기신보)은 도내 중소기업과 소상공인을 위한 '2026년 하반기 지원사업 설명회'를 개최했다고 26일 밝혔다.",
+      "이번 설명회 1부에서는 사업 운영에 필용한 세무지식 강의와 경영에 필요한 글로벌 경제환경 전망 등 인사이트를 제공했다.",
+      "2부에서는 민선9기 도정 기조에 맞춘 민생회복(Support), 미래성장(Scale-up), 열린경영(Synergy), 내부혁신(Smart) 등 '4S 전략'을 발표했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n0ed86940",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260726027100004",
+    "title": "재산분할 최태원 9천440억원 역대 최고…'8조' 권혁빈 이혼소송 9월 선고",
+    "summary": [
+      "(서울=연합뉴스) 이영섭 기자 = 최태원(65) SK그룹 회장이 노소영(65) 아트센터 나비 관장에게 재산분할로 지급해야 할 9천440억원은 국..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n49dfa0fe",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260726029100001",
+    "title": "野, 李대통령 '재외국민 전자투표' 언급에 \"고양이에 생선 맡겨\"",
+    "summary": [
+      "(서울=연합뉴스) 박수윤 기자 = 국민의힘은 방미 중인 이재명 대통령이 재외국민 전자투표 도입 가능성을 언급하자 26일 \"고양이에게 생선을 맡기..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n761065d0",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723489",
-    "title": "[속보]LAFC 손흥민, MLS 3경기 연속골 폭발",
-    "summary": [],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "nb3655750",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723498",
-    "title": "폭염에 열대야… 잠못드는 부산 [뉴시스Pic]",
-    "summary": [
-      "[서울·부산=뉴시스] 조수정 하경민 기자 = 부산, 울산, 경남지역에 폭염과 열대야가 이어지고 있는 가운데 25일 밤 부산 광안리해수욕장이 피서 인파로 인산인해를 이뤘다.",
-      "부산에는 지난 18일부터 폭염특보가 발효 중이며, 19일부터 열대야 현상이 이어지고 있다.",
-      "◎공감언론 뉴시스 chocrystal@newsis.com, yulnetphoto@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb72a3c20",
-    "category": "사회",
     "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/26/2026072611410911930",
-    "title": "샤워기로 때리고 흉기 휘두른 친모…10년간 딸 학대한 끝에 법정구속",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072611195648793",
+    "title": "'OPS 0.829→0.819→0.657' 멈춰선 국대 외야수, '왜' 롯데 특타도 2군 충격 요법도 통하지 않나",
     "summary": [
-      "수년간 미성년자인 친딸을 폭행하고 흉기를 휘두르는 등 학대를 일삼은 50대 친모가 실형을 선고받고 법정구속 됐다.",
-      "26일 뉴시스에 따르면 청주지법 형사4단독은 아동복지법 위반(아동학대) 혐의로 불구속기소 된 A씨(55)에게 징역 2년을 선고하고 법정구속했다.",
-      "또 80시간의 아동학대 치료프로그램 이수와 3년간 아동 관련 기관 취업제한을 명령했다."
+      "국가대표 외야수 윤동희(23·롯데 자이언츠)가 좀처럼 반등의 실마리를 찾지 못하고 있다.",
+      "롯데는 25일 수원KT위즈파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 방문경기에서 KT 위즈에 1-6으로 져 4연패에 빠졌다.",
+      "타선이 침묵한 가운데서도 롯데에 추격 기회는 있었다."
     ],
     "chips": [
-      "#취업"
+      "#KBO"
     ]
   },
   {
-    "id": "nbbe127e2",
-    "category": "스포츠",
-    "source": "뉴시스",
+    "id": "n6a64f2c1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260724/134359620/2",
+    "title": "8월에는 시원한 강원도로…태백·양구 피서 포인트",
+    "summary": [
+      "폭염을 피해 시원한 휴식을 원하는 여행객들을 위해 강원특별자치도와 강원관광재단이 태백시와 양구군을 8월 '이달의 추천 여행지'로 선정했다.",
+      "최성현 강원관광재단 대표이사는 \"고원의 서늘한 축제를 즐기고 싶다면 태백을, 호수와 예술 곁에서 쉬어가고 싶다면 양구를 추천한다\"며 두 지역의 매력을 강조했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n35b69fbb",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723494",
-    "title": "[수원소식]경기남부보훈지청, 유엔군 참전의 날 행사 등",
+    "url": "https://www.yna.co.kr/view/AKR20260726028800001",
+    "title": "李대통령, 美샌프란 명소 찾아 시민들과 소통…식당서 저녁식사",
     "summary": [
-      "[수원=뉴시스] 박종대 기자 = 경기남부보훈지청과 경기 오산시가 6·25전쟁 첫 전투지인 죽미령에서 유엔군 참전의 날 기념 도보행사 '7·27 PEACE RACE'를 열었다고 26일 밝혔다.",
-      "죽미령은 개전 10일 만에 유엔군 스미스특수임무부대가 북한군과 처음 교전해 부대원 540명 중 181명이 전사·실종된 격전지다.",
-      "전날 죽미령에서 열린 행사에서는 가족 단위 시민 100여 명이 참배와 평화숲길 걷기, 참전 22개국 소개존 등을 체험했다."
+      "(샌프란시스코=연합뉴스) 임형섭 황윤기 기자 = 미국·남미 순방 중인 이재명 대통령은 25일(현지시간) 오후 미국 샌프란시스코 관광 명소인 '피..."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "nb601ca2d",
+    "id": "n6bfddb77",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726025500530",
-    "title": "주요 10개 대학 합격생 2%는 검정고시 출신…10년새 최대",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260726/134365005/1",
+    "title": "美중간선거 D-100…“트럼프 하원 내주고 상원 수성은 아슬아슬”",
     "summary": [
-      "(세종=연합뉴스) 고상민 기자 = 서울대와 연세대, 고려대를 비롯한 주요 10개 대학 합격생 가운데 검정고시 출신이 최근 10년새 최대 규모를 ..."
+      "100일 앞으로 다가온 미국 중간선거에서 집권 공화당이 하원 다수당 지위를 민주당에 내줄 위기에 처했다는 분석이 지배적이다.25일(현지시간) AFP통신은 각종 여론조사와 선거 예측 모델이 민주당의 하원 탈환 가능성을 높게 점치고 있으며, 상원 역시 공화당이 근소한 차이로 수성하거나 민주당에 역전당할 수 있는 초박빙 승부가 예상된다고 전했다.11월 3일 실시되는 중간선거는 26일로 100일을 앞두게 된다.",
+      "하원 전체와 상원 3분의 1을 새로 뽑게."
     ],
     "chips": [
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "naf8f38b4",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726025200007",
-    "title": "18세 김도현, '세계 1위' 조명우 잡고 전국당구대회 최연소 우승",
+    "id": "nb9da22ed",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/2026072662927",
+    "title": "폭우에도 \"정시 출근\"…직장인 10명 중 4명 근무조정 못 한다",
     "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 한국 당구 '특급 유망주' 김도현(상동고부설방통고)이 세계 랭킹 1위 조명우(서울시청)를 꺾고 전국대회 역대 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3357b921",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726025300055",
-    "title": "우회전 통근버스에 숨진 초등생…전북경찰, 내일부터 단속 강화",
-    "summary": [
-      "(전주=연합뉴스) 정경재 기자 = 전북 군산에서 우회전 통근버스에 초등학생이 치여 숨진 것과 관련해 경찰이 고강도 단속 대책을 내놨다."
+      "폭우에도 \"정시 출근\"…직장인 10명 중 4명 근무조정 못 한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc19cce0f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/26/NGEEYOMVIFAR5AP67NJIJ6WZZI/",
-    "title": "고대 한반도 영향 받은 日 아스카·후지와라, 세계유산 됐다",
-    "summary": [
-      "고대 한반도 영향 받은 日 아스카·후지와라, 세계유산 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1d7553be",
+    "id": "nf1abdf9c",
     "category": "경제",
     "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/policy/2026/07/26/2026072611205792125",
-    "title": "\"정체성\" vs \"원형 보존\"...'광화문 한글 현판' 전문가 의견 엇갈려",
+    "time": "35분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/26/2026072610393051630",
+    "title": "더페이스샵, 美월마트 1600여개 매장 입점…\"북미 공략 확대\"",
     "summary": [
-      "국민 참여 '모두의 토론회' 개최...전문가 발제 광화문 현판에 한글을 병기하는 방안을 놓고 국가 정체성을 반영해야 한다는 의견과 문화유산 원형을 유지해야 한다는 의견이 맞섰다.",
-      "다만 충분한 공론화와 사회적 합의를 거쳐 정책을 결정해야 한다는 데에는 공감대가 형성됐다.",
-      "26일 연세대 백양누리 그랜드볼룸에서 열린 '모두의 토론회'에서는 '광화문 현판 한글 병기'를 주제로 전문가 발제와 국민 숙의 토론이 진행됐다."
+      "LG생활건강의 K뷰티 브랜드 더페이스샵이 미국 최대 유통업체 월마트 오프라인 매장에 입점하고 북미 시장 공략을 강화한다고 26일 밝혔다.",
+      "더페이스샵은 이날부터 미국 월마트 오프라인 매장 1600여곳에서 대표 클렌징 라인 '미감수 브라이트(Rice Water Bright)'를 비롯한 주요 제품 5종을 판매한다.",
+      "2024년 캐나다 월마트 입점에 이어 미국 시장까지 오프라인 유통망을 확대한 것이다."
     ],
     "chips": [
-      "#정책"
+      "#의료"
+    ]
+  },
+  {
+    "id": "n295dbbbb",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "36분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260726/134357431/1",
+    "title": "들어서는 순간 온 몸을 감싸는 포근함…남양성모성지를 가다",
+    "summary": [
+      "그런 마음이 들 때가 있다.",
+      "혼자, 호젓하게, 뭔가 내면의 충만함을 느끼며 그냥 걷고 싶은….",
+      "그런데 여행처럼 마음먹고 어딘가를 찾는 것은 좀 번거롭고, 그렇다고 동네 산책처럼 마냥 가벼운 것도 싫다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -636,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "정치",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
