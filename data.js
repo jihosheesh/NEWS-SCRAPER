@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-26 08:46:34
+// 마지막 업데이트: 2026-07-26 09:39:15
 window.NEWS_DB = [
   {
     "id": "nc1599ac3",
@@ -18,26 +18,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0b5690bb",
-    "category": "IT",
-    "source": "데일리인베스트",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZjRjM0hyMjlKWDB3Tkk1RzlnampsNWtWTk43LVAwMHRySDRTbnU0N05xcGFZVFVZWk1jMUZPWU1Ld3NIWTY1SU1BUno4azFGb1JYaHNpN1dwNEJ6aWJ6ck1OTTV4RXh3TlpB0gFvQVVfeXFMUFRIak9Ca1VKUmVSMGJITUxMWjBiS2FoVG5iMkstT3Jsa0I1cjcxcmk1UDlERUduLXgtd0lsbHJhYzlvVUJER2NPZVJLNFlCQkRnclBabVFveXFFZDBpR0FCSnBHLUhuMjNJbXN4UDJF?oc=5",
-    "title": "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까",
-    "summary": [
-      "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까 데일리인베스트."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "ndcd83ed9",
     "category": "IT",
     "source": "뉴스로드",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbWE3ZDExT2ViWklxREdWTF8xcWRNS1lrZ1BqR0lpRC1LdkNHT3c5UVNsX2VfOHV1N0pHUmNVNE9ycjBLTlFIQ3Fobmh0RFdPamloXy10OVA4N2hFM0RoQUthcS1wQ0NfODl30gFvQVVfeXFMT01SX3NxRmpVWDlJYXNfQVpUN2UyZC15ajQtUEN5YkphNTBaXzNGaDE5SlU2VWZObWtwejBmTUVfd0QxRFhOR0tNOTdnRy1jQkFJejV2ZklQZWUtNzhpVlVpT3Q2T3ZOeDJNMmJ0Q04w?oc=5",
     "title": "이재용·올트먼, 오픈AI 본사서 ‘AI 동맹’ 논의…HBM·파운드리 빅딜 주목",
     "summary": [
@@ -52,7 +36,7 @@ window.NEWS_DB = [
     "id": "n0ceac5a0",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UMThIbU9BZEhVMHV2MkNpZVhWb1hOSFV2OE1oaFFuR2hoaWJTLTFTS3hiQUpXZmdKUWdTQ2hhQUZRUnI5UThWZ3FRczBKVC1GY1NMVVFwbFVFaWp5OTUtOFZJQXNoUVdDMGFLZEMyX2tGY2c?oc=5",
     "title": "'키미 K3' AI 열풍은 젠슨 황에게 악재, 엔비디아 반도체 중국 수출 당위성 설득력 떨어지나",
     "summary": [
@@ -69,7 +53,7 @@ window.NEWS_DB = [
     "id": "n4e9c6f1e",
     "category": "IT",
     "source": "위키트리",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sZlJ1MmRrRkQ4QzNNNkFXTnRwNTdBQVU1V3pEM1NheDZ4bHE2bEZHc1Y4eGlfQmU3Y1I0N1RMSHl1RjkzNlIxVE9mYmRRM0hmS215bkxR?oc=5",
     "title": "삼성전자, 브로드컴과 5년간 2000억 달러 AI 칩 동맹 체결",
     "summary": [
@@ -78,6 +62,21 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "n35355d5b",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zSU16SF9HVm9yWnpZNkZrdWhiY053S0ZOY2ZsZ0p2cmkzNlFnZlBkZ1pSbVlUdW5mWHI5YWVodnRPVzZNaVgwSWJXdTgway1wbFVsTUtwdGMyVnfSAWBBVV95cUxPblFPOFlOeEdHR0k2THFkcHBJcElIVXlxemxxWW5nV0dTOFFaTC1KQ3l0Y09BMWtBZlVFOERmVU9QUzFVUHc1RlRNMl8taVNGR2s0MGtJY1ZCbW1WVV9sVFM?oc=5",
+    "title": "이재용·올트먼, 오픈AI 본사서 만난다…HBM·파운드리 협의할듯",
+    "summary": [
+      "이재용·올트먼, 오픈AI 본사서 만난다…HBM·파운드리 협의할듯 연합뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
     ]
   },
   {
@@ -125,6 +124,20 @@ window.NEWS_DB = [
       "#AI",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n207a7abe",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "33일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
+    "summary": [
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -258,20 +271,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "153일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nef414906",
     "category": "사회",
     "source": "연합뉴스",
@@ -349,300 +348,288 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb1ab7507",
+    "id": "n012667cb",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726041800371",
-    "title": "\"AI 시대일수록 손으로 접는 창의성 중요\"…美서 K종이접기 주목",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026072618355481722",
+    "title": "에이피알, 산업부 반도체 국책과제 맡았다…뷰티 디바이스 핵심기술 내재화",
     "summary": [
-      "(서울=연합뉴스) 박현수 기자 = \"인공지능(AI) 기술이 빠르게 발전할수록 인간만이 지닌 창의성과 감성, 인성교육의 중요성은 더욱 커집니다.\"."
+      "에이피알은 지난 23일 서울 송파구 롯데월드타워 76층에서 '산업통상자원부 반도체첨단산업기술개발사업 과제 선정 킥오프(Kick-off) 미팅'을 개최했다고 26일 밝혔다.",
+      "행사에는 신재우 에이피알 R&D센터장과 과제 책임자인 박동희 기술연구실장을 비롯해 국내 대학 연구소와 정부출연연구기관 등 참여기관 관계자들이 참석했다.",
+      "이번 행사는 산업통상자원부가 추진하는 반도체첨단산업기술개발사업의 단계별 목표와 프로젝트."
     ],
     "chips": [
-      "#AI",
+      "#반도체",
       "#교육"
     ]
   },
   {
-    "id": "nfd88728e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726043700079",
-    "title": "요르단 한국 제품·문화 홍보 행사에 이틀간 2만명 방문",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 주요르단대사관은 요르단 문화부와 공동으로 한국 제품과 문화 홍보 행사를 개최했다고 26일(현지시간) 밝혔다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n80b417d8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723656",
-    "title": "[세계유산위] '12신의 거처' 올림푸스산, 부산 회의 유일한 복합유산 등재",
-    "summary": [
-      "[부산·서울=뉴시스] 이수지 한이재 기자 = 그리스 신화 속 올림푸스 12신의 거처로 여겨져 온 올림푸스산이 유네스코 세계유산에 등재됐다.",
-      "이번 부산 세계유산위원회 등재 심사 목록 가운데 자연적 가치와 문화적 가치를 함께 인정받은 유일한 복합유산이다.",
-      "26일 부산 벡스코에서 열린 제48차 유네스코 세계유산위원회에서 그리스의 '올림푸스산 일대(The Wider Area of Mount Olympus)'를 세계유산 목록에 등재하기로 결정했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndaf0cd07",
+    "id": "n61d9616f",
     "category": "사회",
     "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260726/134366226/1",
-    "title": "‘정점식에 멱살’ 권영진 사과에도…“거취 표명해야” 목소리 커져",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260726/134367256/2",
+    "title": "10대 형제 파도 휩쓸리자…바다 뛰어든 남성 2명 심정지 상태로 이송",
     "summary": [
-      "국민의힘 권영진 의원(대구 달서병)이 국회 상임위원회 배분에 항의하며 정점식 원내대표의 멱살을 잡는 등 물리력을 행사한 것에 대한 비판 여론이 커지고 있다.",
-      "권 의원에 대한 중징계를 요구하는 징계요청서가 중앙윤리위원회에 잇달아 접수됐고, “스스로 거취를 표명해야 한다”는 목소리에 힘이 실리고 있다.",
-      "권 의원의 자진 탈당 가능성도 거론된다.최수진 원내수석대변인은 26일 서울 여의도 국회에서 기자들과 만나 “재발 방지를 위해서라도 강력한 조치를 해."
+      "강원 고성에서 파도에 휩쓸린 10대 아이들을 구하기 위해 바다에 뛰어든 성인 남성 2명이 심정지 상태로 병원으로 이송됐다.26일 강원소방본부 등에 따르면 이날 오후 2시 10분경 고성군 현내면 화진포 해수욕장에서 10대 형제가 파도에 떠내려간다는 신고가 접수됐다.",
+      "신고를 받은 해경과 소방은 인력 45명, 장비 13대를 투입해 구조에 나섰다.",
+      "이보다 먼저 형제의 아버지와 인근에 있던 40~50대로 추정되는 남성 2명이 구조를 시도했다."
     ],
     "chips": [
-      "#정치"
+      "#의료"
     ]
   },
   {
-    "id": "n1053b2e0",
+    "id": "nc458b59d",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/26/HE4WGY3FGYZDCZTEGU2DMYLDMY/",
-    "title": "\"9연승 했는데 격차가 안 줄어드네\" 강철매직의 푸념…KT 구단 최다 연승 도전하는데, 삼성도 7연속 위닝이라니 [오!쎈 부산]",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/07/26/MMYTSNRYMM2GCYJUMMZTKMRTMM/",
+    "title": "'세계 최강 귀환' 송세라, 극적인 9-8 승리... 4년 만에 세계선수권 제패",
     "summary": [
-      "[OSEN=부산, 조형래 기자] “9연승을 했는데 격차가 안 줄어드네요.”이강철 KT 위즈 감독은 26일 부산 사직구장에서 열리는 프로야구 정규시즌 롯데 자이언츠와의 경기를 앞두고 순위싸움과 관련해서 푸념을 늘어놓았다.KT는 전날(25일) 사직 롯데전을 6-1로 승리하면서 구단 최다 연승 타이 기록인 9연승을 질주했다.",
-      "지난 2019년 6월 23일 수원 N."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc829a4d2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/26/MQ3TENLCGJQTOOBWMNSTCODCHA/",
-    "title": "사람 잡을 폭염, 훈련도 위험하다...텅 빈 광주기아챔피언스필드 [광주 현장]",
-    "summary": [
-      "[광주=스포츠조선 김용 기자] 훈련도 접게 한 폭염.",
-      "야구를 해도 되나 싶을 정도의 더위다.",
-      "KIA 타이거즈 선수단도 결단을 내릴 수밖에 없었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n28912900",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/football/2026/07/26/GRSWIZLDGBQTINTDMIZDAOLDGA/",
-    "title": "\"3000명+αX동호인 선거권X모바일 투표?\" 내일 K-축구혁신위 4차 회의, KFA 선거인단 확대안 시선집중",
-    "summary": [
-      "[스포츠조선 전영지 기자]대한축구협회(KFA) 선거인단 확대 방안이 본격적으로 논의된다.",
-      "24일 이용수 회장 직무대행 체제에서 첫 개최된 KFA 제6차 이사회 사흘 만인 27일 오전 10시 K-축구 혁신위(이하 혁신위) 제4차 회의가 열린다.",
-      "KFA가 제시할 새로운 선거인단 개편안에 관심이 쏠린다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne4fdd95d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723705",
-    "title": "경주 낮 최고 39도…대구·경북 극단적 폭염, 밤엔 열대야",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 대구와 경북 지역에 폭염특보가 발효된 가운데 경주 지역의 기온이 39도까지 오르는 등 생명을 위협하는 수준의 극단적인 무더위가 기승을 부리고 있다.",
-      "26일 대구지방기상청에 따르면 이날 최고기온은 자동기상관측장비(AWS) 기준 경주 39.0도, 포항 기계 38.8도, 경산 하양 38.3도, 고령 38.2도, 대구 달성 옥포 38.1도, 대구 북구 38.0도 등을 기록했다.",
-      "현재 대구(군위 제외)와 경북 경산, 청도."
+      "[OSEN=우충원 기자] 한국 여자 펜싱의 간판 송세라(부산광역시청)가 4년 만에 세계선수권대회 개인전 정상에 오르며 다시 세계 최강의 자리를 되찾았다.송세라는 25일(현지시간) 홍콩에서 열린 2026 펜싱 세계선수권대회 여자 에페 개인전 결승에서 줄리아 리치(이탈리아)를 9-8로 꺾고 금메달을 목에 걸었다.2022년 카이로 세계선수권에서 개인전과 단체전을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n72fbd966",
+    "id": "n1036790d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/26/GA4GGM3GGJSTSYLBMI2TMOLDMY/",
+    "title": "강훈, 구썸녀 지예은♥바타 열애 기사로 접해.. \"박수 치며 봤다\" 폭소('런닝맨')",
+    "summary": [
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 배우 강훈이 '런닝맨'에 임대 멤버로 복귀한 가운데, 과거 러브라인을 형성했던 지예은과 유쾌한 티키타카를 선보였다.26일 방송되는 SBS '런닝맨'에서는 약 7개월 만에 임대 멤버로 돌아온 강훈의 모습이 공개된다.이날 강훈은 \"신입은 아니다\"라며 여유 있게 자신을 소개했고, 이를 들은 김종국."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb724ddc9",
     "category": "IT",
-    "source": "조선비즈IT",
-    "time": "9분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/26/O2ZLWJB35BHBNKDFTLXOC2UJVY/",
-    "title": "버라이즌, 구글과 10억달러 데이터센터 통신 계약",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026072618313174954",
+    "title": "도쿄 뒤흔든 '더현대'…매출 목표 30% 뛰어넘었다",
     "summary": [
-      "버라이즌, 구글과 10억달러 데이터센터 통신 계약."
+      "현대백화점은 더현대 글로벌의 첫 플래그십 정규 매장인 '더현대(THE HYUNDAI, ザ·ヒョンデ)'가 입점한 일본 도쿄 오모테산도의 복합쇼핑몰 도큐 플라자 오모카도에서 2030세대 방문객이 매장 오픈 이전보다 5배 이상 증가했다고 26일 밝혔다.",
+      "현대백화점은 지난 10일 도큐 플라자 오모카도 3층에 더현대의 첫 해외 플래그십 정규 매장을 열었다.",
+      "박동용 현대백화점 더현대 글로벌 팀장은 \"패션과 라이프스타일 트렌드에 민감한."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "nb10bc4a7",
+    "id": "nba14f0b2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723703",
-    "title": "\"낮엔 찜통, 밤엔 열대야\"…전북 연일 폭염에 건강관리 '비상'",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723652",
+    "title": "대낮에 거리낌 없이 담배 피우는 청소년 무리… \"숨지도 않아\"",
     "summary": [
-      "[전북=뉴시스]고석중 기자 = 전북지역은 연일 한낮 찜통더위와 밤사이 열대야가 이어지면서 건강관리와 각종 시설 안전관리에 비상이 걸렸다.",
-      "26일 전주기상지청에 따르면 이날 고창과 임실의 폭염 '주의보'가 '경보'로 격상되며 정읍, 김제, 전주, 남원, 익산 등 총 7개 시·군에 폭염경보가 발효 중이다.",
-      "나머지 완주, 진안, 무주, 장수, 순창, 부안, 군산(어청도 제외) 7개 시·군에도 폭염주의보가 내려져 있다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n61d7a9cf",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072616001049380",
-    "title": "\"뭔가 잘못됐다\" 고전하는 외인→6번 강등, 김휘집 4번 출격 'NC 파격 라인업' 가동... '팔 부상' 이우성 또 결장 [인천 현장]",
-    "summary": [
-      "외국인 타자 블레인 크림(29·NC 다이노스)가 4번에서 6번으로 내려섰다.",
-      "그 자리를 김휘집(24)이 대체한다.",
-      "NC는 26일 인천 SSG랜더스필드에서 열리는 SSG 랜더스와 2026 신한 SOL KBO리그 방문경기에 나선다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n7e7d05ba",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/07/26/2026072611154085721",
-    "title": "공보의 90% 사라졌다…해법 놓고 의사 vs 한의사 '동상이몽', 무슨 일",
-    "summary": [
-      "의료취약지에서 의료로 군 복무를 대체하는 의사가 '공중보건의'(공보의)다.",
-      "지역의료 공백을 메꿔야 할 이들이지만, 신규 의과 공보의 수가 2010년 966명에서 올해 92명으로 급감(90.5%↓)했다.",
-      "사실상 공보의 씨가 말라가는 시점인데, 의사들과 한의사들이 서로 다른 '공보의 공백 해법'을 내놓으면서 장외 신경전이 이어진다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ndb2add00",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723702",
-    "title": "전남광주 광산구, 재난관리평가 2년 연속 '우수' 등급",
-    "summary": [
-      "[전남광주=뉴시스]이영주 기자 = 전남광주 광산구는 행정안전부 주관 재난관리평가에서 2년 연속 '우수' 평가를 받았다고 26일 밝혔다.",
-      "행정안전부는 자치단체 등을 대상으로 재난안전 예산운영과 재난관리기금 관리실적, 재해구호 기반 확보 등을 평가했다.",
-      "이번 평가에서 광산구는 광주 5개 자치구 중 유일하게 우수 등급을 획득했다."
+      "[서울=뉴시스]허준희 인턴 기자 = 대낮에 서울 도심 한복판에서 중학생으로 추정되는 청소년들이 거리를 활보하며 흡연하는 모습이 포착됐다.",
+      "26일 소셜네트워크서비스(SNS)에는 서대문구 가좌역 인근 모래내시장 부근에서 촬영된 청소년들의 흡연 사진과 목격담이 올라왔다.",
+      "작성자 A씨는 \"숨지도 않고 대낮에 길빵(길거리에서 걸어 다니거나 노상에서 담배를 피우는 행위)을 하더라\"라며 \"장소는 모래내시장 근처다\"라고 설명했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb66daa77",
+    "id": "nede6b795",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726043500530",
-    "title": "월요일도 대구 등 경상권 '극한 더위'…최고 체감온도 38도 이상",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260726014551054",
+    "title": "폭염 속 전남광주 온열질환 추정 사상자 잇따라(종합)",
     "summary": [
-      "(서울=연합뉴스) 오보람 기자 = 장마 이후 본격적인 무더위가 찾아온 가운데 월요일인 27일에도 대구 등 경상권을 중심으로 '극한 더위'가 이어..."
+      "(전남광주=연합뉴스) 민현기 기자 = 폭염 속 전남광주에서 온열질환 추정으로 인한 사상자가 잇따랐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n895a32f0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726043200005",
-    "title": "[세계유산위] \"잊을 수 없는 부산 기억\"…첫 세계유산 등재한 상투메 프린시페",
-    "summary": [
-      "(부산=연합뉴스) 김예나 기자 = \"이 특별한 회의에서 우리의 첫 세계유산을 등재했습니다.",
-      "부산에서 잊을 수 없는 기억을 갖고 갑니다.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n46c4947b",
+    "id": "n6c008d59",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/26/2026072614433631353",
-    "title": "트럼프, 이란 공습 이틀째 보류…대화로 돌아서나",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723711",
+    "title": "'최태원부터 이재용까지'…역대 재벌가 이혼·재산분할 어떻게 갈렸나",
     "summary": [
-      "[미국-이란 전쟁] \"군 수뇌부, 트럼프에 요격 미사일 부족 경고\" 13일 연속 이어졌던 미군의 대이란 공습이 24일(현지시간)을 기점으로 중단됐다.",
-      "미국과 이란의 무력 충돌은 일단 소강 국면에 접어든 모양새다.",
-      "다만 친이란 세력인 예멘 후티 반군과 사우디아라비아가 충돌하면서 역내 군사적 긴장은 여전히 팽팽하다."
+      "[서울=뉴시스]박선정 기자 = 최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 이혼 소송은 국내 재벌가 이혼사에서 가장 큰 규모의 재산분할 사례로 기록될 전망이다.",
+      "법원이 최 회장에게 노 관장에게 9440억원을 지급하라고 판단하면서 기업 총수의 주식이 재산분할 대상이 될 수 있는지를 둘러싼 논란도 다시 주목받고 있다.",
+      "26일 법조계에 따르면 서울고법 가사1부(부장판사 이상주)는 24일 최 회장과 노 관장의 재산분할 파기환송심 선고기일을 열고."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb4dca90d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/26/2026072616070039253",
-    "title": "'세계의 벽 높았다' 한국 남자 대표팀, 브라질 2군에 1승 2패 마무리... 신호진 15점·정한용 14점",
+    "id": "n7d28323e",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "21분 전",
+    "url": "https://www.hankyung.com/article/2026072665791",
+    "title": "대교·교원·웅진이 '시니어 학습지' 공들이는 까닭",
     "summary": [
-      "이사나예 라미레즈 감독이 이끄는 한국 남자배구 국가대표팀(세계랭킹 26위)이 '세계 강호' 브라질(7위) 2군과 세 번의 평가전을 1승 2패로 마무리했다.",
-      "한국은 26일 충북 제천체육관에서 열린 '대한민국 배구 국가대표팀 평가전 2026 제천' 남자부 3차전에서 브라질에 세트 점수 1-3(25-16, 23-25, 22-25, 22-25)으로 졌다.",
-      "아포짓스파이커로 나선 신호진이 15점, 아웃사이드히터 정한용이 14점으로 쌍포 역할을 했다."
+      "대교·교원·웅진이 '시니어 학습지' 공들이는 까닭."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n72cf1d70",
+    "id": "n162227cf",
     "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260726/134366824/2",
-    "title": "일면식도 없는 상인에 흉기 휘두른 40대…범행 2시간만에 검거",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723714",
+    "title": "강원 고성 화진포 해상서 아이 구하던 2명 심정지·2명 부상",
     "summary": [
-      "일면식도 없는 시장 상인에게 흉기를 휘두른 40대가 경찰에 붙잡혔다.",
-      "전북 무주경찰서는 특수상해 혐의로 40대 남성을 체포해 조사 중이라고 26일 밝혔다.",
-      "이 남성은 이날 낮 12시 50분경 무주군 무주읍의 한 시장에서 60대 상인을 흉기로 찌르고 달아난 혐의를 받는다.상인은 복부와 어깨 등을 다쳐 병원으로 이송됐다."
+      "[고성=뉴시스]이순철 기자 = 강원 고성군 화진포 해변 인근 바다에서 아이들이 파도에 쓸려 떠내려가는 것을 보고 이들을 구하기 위해 바다에 뛰어들었다가 성인 남성 2명 심정지 상태로 병원으로 이송됐다.",
+      "속초해양경찰서는 26일 오후 2시 10분께 화진포 콘도 앞에서 아이 2명이 해상에 표류되어 구조중이던 성인 남성 2명이 의식이 없는 상태로 구조되어 병원에 이송됐다고 밝혔다.",
+      "이날 오후 고성군 화진포 남단 인근 콘도 앞 해상에서 아이 2명이 파도."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "na2c6f5a9",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "25분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260726/134366023/1",
-    "title": "韓, 빅테크와 9500억 달러 AI 동맹…‘대체불가 핵심’ 부상",
+    "id": "n730f42cc",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026072665851",
+    "title": "HD현대, 마스가 첫 수주…美 항만크레인 4기 계약",
     "summary": [
-      "삼성전자와 SK그룹, 현대자동차그룹 등 국내 주요 대기업들이 샌프란시스코 ‘AI(인공지능) 서밋’에서 엔비디아, 브로드컴 등 글로벌 빅테크 기업들과 총 9500억 달러(약 1390조 원) 규모의 초대형 인공지능(AI) 인프라 및 반도체·모빌리티 파트너십을 공개했다.",
-      "그간 전통적인 하드웨어 제조나 부품을 공급하는 역할에 머무르던 한국 기업들이 이제 세계 AI 인프라와 피지컬 AI 생태계의 병목을 해소할 수 있는 ‘대체 불가한 핵심 파트너’로 자리."
+      "HD현대, 마스가 첫 수주…美 항만크레인 4기 계약."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3cc48b53",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026072665801",
+    "title": "\"삼성 스마트 글라스로 AI 경험 확장\"",
+    "summary": [
+      "\"삼성 스마트 글라스로 AI 경험 확장\"."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "na577fe48",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026072665831",
+    "title": "기업 3곳 중 1곳, 운임 상승 반영 못해",
+    "summary": [
+      "기업 3곳 중 1곳, 운임 상승 반영 못해."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc1fca188",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/K-TECH Global Leaders/article/all/20260726/134367179/1",
+    "title": "LG화학, 차세대 수전해 기술 개발… 그린수소 생산 시간 2배↑·안정성 개선",
+    "summary": [
+      "LG화학이 적은 양의 이리듐(Ir)으로도 장기간 안정적인 수소 생산이 가능한 고분자전해질막(PEM) 수전해 전극 기술을 개발했다.",
+      "차세대 그린수소 생산 소재 상용화 가능성을 높였다는 평가다.LG화학은 26일 CTO 산하 기반기술연구소 연구팀이 PEM 수전해 전극 성능과 내구성을 획기적으로 향상시키는 계면안정화 기술을 개발했다고 밝혔다.",
+      "이번 연구에는 한국과학기술연구원 고재현 선임연구원 연구팀이 개발 소재 작용 기작(매커니즘) 규명에 참여했다고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2f20fad1",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026072666331",
+    "title": "'돈 버는 AI' 내건 KT…금융권 AX 사업 본격화",
+    "summary": [
+      "'돈 버는 AI' 내건 KT…금융권 AX 사업 본격화."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n071bb2d0",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026072666341",
+    "title": "中 AI 모델 규제에 반기 든 美 빅테크",
+    "summary": [
+      "中 AI 모델 규제에 반기 든 美 빅테크."
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자"
+      "#정책"
+    ]
+  },
+  {
+    "id": "nf4e434f7",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723712",
+    "title": "\"돈 모아도 집 못 산다\"…2030 주택 보유율 첫 20%대 추락",
+    "summary": [
+      "[세종=뉴시스]임소현 기자 = 지난해 20·30세대의 '내 집 마련' 비율이 현행 통계 작성 이후 처음으로 20%대로 떨어졌다.",
+      "청년층의 주택 보유율은 역대 최저를 기록한 반면 고령층과의 격차는 사상 최대까지 벌어지면서 주택을 중심으로 한 세대 간 자산 양극화가 심화되는 모습이다.",
+      "26일 국가데이터처 국가통계포털(KOSIS)에 따르면 지난해 39세 이하 청년층의 거주 주택 보유율은 27.7%로 집계됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n433df8b4",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/2026072666381",
+    "title": "SKT, 독자 AI 모델 기반 스타트업 지원 나선다",
+    "summary": [
+      "SKT, 독자 AI 모델 기반 스타트업 지원 나선다."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nddbd09dc",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "27분 전",
+    "url": "https://www.hankyung.com/article/2026072665691",
+    "title": "K뷰티에 빠진 외국인, 올해 결제액 1조 전망",
+    "summary": [
+      "K뷰티에 빠진 외국인, 올해 결제액 1조 전망."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -652,14 +639,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 3,
