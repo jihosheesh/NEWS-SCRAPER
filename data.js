@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-26 16:19:14
+// 마지막 업데이트: 2026-07-26 17:20:34
 window.NEWS_DB = [
   {
     "id": "nea668dd3",
     "category": "IT",
     "source": "Naver Blog",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVFLWVVhVnhQemJMVU4xXzJEMjJXWGhSLUNLQlhaTG1LYVdPQzJ5empMMllUODVvVFg5VHl6b05GQ1VwQjRCT3ZmU2hfazU4dW9yRDVWcFVUQTNrdkRtNWZFTlVEalgwQVBUZ2RtRFc4UlBqeFNfeTNBTFVvTDNBM0tNcGt6Rlh6bTl4ZmlKOA?oc=5",
     "title": "[주식전망] 삼성전자 ‘슈퍼위크’ 돌입…1400조원 잭팟 효과 볼까 : 네이버 블로그",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n7d99a556",
     "category": "IT",
     "source": "아주경제",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfRDlzLWtiN2tUOG1PWjgyQ2FlTnl4LTBWY01lVE1ON3VUSWFHZ0hneF96U2stNU5DZDRRUzlITnFjSlFOcFpWd1dyUnhXS0dVaHozVnRROEfSAVhBVV95cUxQX0Q5cy1rYjdrVDhtT1o4MkNhZU55eC0wVmNNZVRNTjd1VElhR2dIZ3hfelNrLTVOQ2Q0UVM5SE5xY0pRTnBaVndXclJ4V0tHVWh6M1Z0UThH?oc=5",
     "title": "이재용, 올트먼 만나 AI 인프라 협력 강화…K-반도체 불황 없는 10년 기대",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nc1599ac3",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBCTjh3Y2xSc1dpS0RycVhJVXdPYnB5aUtOTlBRb0RQS2xvV1RmZW9QTkMxU2lnb3RMZUN0NFZLOUM5M1NHM0tXaF9idE5KVzlCa3FhTEo0ZlZZalhyRnFRdU83aHQ0VTJiLWY1R1VVZC10VUhISVdKdk5lWUs0X2NPbGJpRXo0?oc=5",
     "title": "엔비디아·AMD·인텔 상반기 AI 반도체 승자는 누구일까?",
     "summary": [
@@ -48,10 +48,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0b5690bb",
+    "category": "IT",
+    "source": "데일리인베스트",
+    "time": "16시간 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZjRjM0hyMjlKWDB3Tkk1RzlnampsNWtWTk43LVAwMHRySDRTbnU0N05xcGFZVFVZWk1jMUZPWU1Ld3NIWTY1SU1BUno4azFGb1JYaHNpN1dwNEJ6aWJ6ck1OTTV4RXh3TlpB0gFvQVVfeXFMUFRIak9Ca1VKUmVSMGJITUxMWjBiS2FoVG5iMkstT3Jsa0I1cjcxcmk1UDlERUduLXgtd0lsbHJhYzlvVUJER2NPZVJLNFlCQkRnclBabVFveXFFZDBpR0FCSnBHLUhuMjNJbXN4UDJF?oc=5",
+    "title": "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까",
+    "summary": [
+      "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까 데일리인베스트."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "n0ceac5a0",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UMThIbU9BZEhVMHV2MkNpZVhWb1hOSFV2OE1oaFFuR2hoaWJTLTFTS3hiQUpXZmdKUWdTQ2hhQUZRUnI5UThWZ3FRczBKVC1GY1NMVVFwbFVFaWp5OTUtOFZJQXNoUVdDMGFLZEMyX2tGY2c?oc=5",
     "title": "'키미 K3' AI 열풍은 젠슨 황에게 악재, 엔비디아 반도체 중국 수출 당위성 설득력 떨어지나",
     "summary": [
@@ -62,21 +78,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#수출"
-    ]
-  },
-  {
-    "id": "n4e9c6f1e",
-    "category": "IT",
-    "source": "위키트리",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sZlJ1MmRrRkQ4QzNNNkFXTnRwNTdBQVU1V3pEM1NheDZ4bHE2bEZHc1Y4eGlfQmU3Y1I0N1RMSHl1RjkzNlIxVE9mYmRRM0hmS215bkxR?oc=5",
-    "title": "삼성전자, 브로드컴과 5년간 2000억 달러 AI 칩 동맹 체결",
-    "summary": [
-      "삼성전자, 브로드컴과 5년간 2000억 달러 AI 칩 동맹 체결 위키트리."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
     ]
   },
   {
@@ -334,132 +335,236 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8b25aa2a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/27/HBTDCMZVMQZDKMZWHAZDEMJTGA/",
-    "title": "\"손흥민 떠난 자리, 이제 이강인\"...오스마르 \"한국에 아틀레티코 유니폼 넘쳐날 것\"",
+    "id": "n01b63df5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260725_0003723103",
+    "title": "일본 평균 수명 다시 증가…여성 87.3세로 41년 연속 세계 1위",
     "summary": [
-      "[OSEN=서정환 기자] \"이강인이 오면서 한국에서는 아틀레티코 마드리드 유니폼을 입은 사람들을 많이 보게 될 것이다.\"스페인 'AS'는 26일(한국시간) 서울 이랜드에서 뛰고 있는 스페인 출신 수비수 오스마르 이바녜스와 인터뷰를 통해 이강인의 아틀레티코 마드리드 이적이 한국에 가져올 변화를 조명했다.오스마르는 2014년 FC서울에서 K리그 무대에 데뷔한."
+      "[서울=뉴시스]장인혜 인턴 기자 = 일본인의 평균 수명이 코로나19 영향으로 감소한 뒤 다시 증가세로 돌아섰다.",
+      "지난 24일 일본 NHK에 따르면, 일본 후생노동성이 발표한 2025년 일본인의 평균 수명은 여성 87.33세, 남성 81.35세로 집계됐다.",
+      "전년보다 여성은 0.20세, 남성은 0.25세 늘었다."
     ],
     "chips": [
-      "#손흥민"
+      "#뉴스"
     ]
   },
   {
-    "id": "n431aa84e",
+    "id": "n7172f944",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727001200082",
+    "title": "[속보] \"베를린 차량돌진 테러 용의자 사살\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb4c58793",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723515",
+    "title": "이 대통령, 두 번째 방문국 브라질 도착…공군 차기 대형수송기 C-390 시찰",
+    "summary": [
+      "[브라질리아=뉴시스] 김지은 기자 = 이재명 대통령이 26일(현지시간) 오후 두 번쨰 방문국인 브라질에 도착했다.",
+      "이 대통령과 부인 김혜경 여사, 참모진 등이 탑승한 공군 1호기는 이날 낮 1시께 브라질리아 공군기지에 착륙했다.",
+      "우리 측에서는 최영한 주브라질대사, 배성훈 브라질리아 한인회장, 브라질 측에서는 치아구 포지우 외교부 의전장, 페르난두 피멘테우 주한대사, 수잔 클리방크 외교부 아태차관보 등이 나와 이 대통령 부부를 맞이했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfbaa78f9",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/27/GRSWMMRZMM4WEOJUMJQTSYZVMM/",
-    "title": "‘안타-안타-3루타-2루타-2루타-2루타-안타-2루타’ 8연속 안타→7득점 폭발...LG 홀드왕 사이드암, 1이닝 KK 무실점",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/27/MZRWCOJUG5STCN3DHFRWENTFGA/",
+    "title": "오해라면 번복 되나? 고우석 징계 기다림, 美 매체도 \"미친 상황이 벌어졌다\"",
     "summary": [
-      "[OSEN=대전, 한용섭 기자] 프로야구 LG 트윈스가 퓨처스리그에서 8타자 연속 안타를 터뜨렸다.",
-      "LG는 26일 서산구장에서 열린 2026 퓨처스리그 한화와 경기에서 8-3으로 승리했다.",
-      "3회 8타자 연속 안타로 7득점, 승기를 잡았다."
+      "[스포츠조선 나유리 기자]다시 들여다봐도 억울함이 커보이는 상황.",
+      "징계 여부를 기다리고 있는 고우석에게는 너무나 답답한 시간만 흘러가고 있다.",
+      "미네소타 트윈스 산하 트리플A팀인 세인트폴 세인츠 소속인 고우석이 황당한 상황에 놓였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9babc0a",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/07/27/2026072609483526388",
+    "title": "AI가 대체할 수 없는 것들[투데이 窓]",
+    "summary": [
+      "AI영상 범람, '배우의 실종''연기의 소멸' 감정 기계적 조립, 진짜·가짜 흐려져도 '인간의 신체'가 건네는 감동 선명해져 챗GPT가 사용자들의 얼굴을 만화 캐릭터로 바꿔주며 대중화의 포문을 연지 일 년 남짓, AI(인공지능) 이미징 기술이 급속도로 발전하고 있다.",
+      "엉성한 오류로 놀림당하던 것은 옛말이 되고, 이제는 유심히 보지 않으면 깜빡 속을 정도로 정교한 AI 영상들이 늘어난다.",
+      "얼마 전 극장을 찾았는데 본영화 시작 전에 상영되는 광고의."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n56928d8a",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/07/27/2026072212350575848",
+    "title": "[MT시평/배정석] 민주주의 흔드는 '영향력 공작'",
+    "summary": [
+      "트럼프 대통령은 지난 16일 대국민 연설에서 자신이 패배한 2020년 대선에 중국이 개입한 정황을 공개했다.",
+      "이미 알려진 사실을 재탕하며 선거제도의 신뢰를 훼손하여 재선 실패 시, 불복의 빌미를 만들려는 시도라는 비판이 뒤따랐다.",
+      "하지만, 미국 선거에 외세의 개입 시도가 있었던 것은 확인된 사실이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n72f806b1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727001100072",
+    "title": "美뉴저지주, 진열대 전자가격표 도입 유예…유통노조 반발 고려",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 뉴저지주가 상점 상품진열대의 종이 가격표를 디지털 디스플레이(전자가격표)로 당분간 대체하지 못하도록 하..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7fc30da0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "32분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/27/GU3TMNJWGYZTOMBSGIZDAOBVGE/",
+    "title": "\"SF, 이정후 트레이드 불가 선언\" 빅뉴스! '바람의 손자' 샌프란시스코 남는다…그렇다면 옵트 아웃은",
+    "summary": [
+      "[스포츠조선 박상경 기자] 말 많고 탈 많던 트레이드설이 종지부를 찍을까.",
+      "샌프란시스코 자이언츠가 이정후를 트레이드할 계획이 없다는 소식이 전해졌다.",
+      "USA투데이의 밥 나이팅게일 기자는 26일(한국시각) '샌프란시스코는 올 여름 이정후를 트레이드할 계획이 없다'고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne7645551",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003723818",
+    "title": "이란 외무 \"이스라엘 사주 받은 우크라가 이란 상선 공격…1명 사망\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 아바스 아라그치 이란 외무부 장관은 26일(현지 시간) 이스라엘의 사주를 받은 우크라이나가 자국 상선을 공격해 선원 1명이 사망했다고 주장했다.",
+      "그는 이날 소셜미디어 엑스(X)를 통해 \"(볼로디미르) 젤렌스키가 이란 상선을 공격해 선원 1명을 사망하게 했다\"고 밝혔다.",
+      "그러면서 \"이는 유럽을 자신의 전쟁에 끌어들이기 위해 이스라엘의 사주를 받아 자행한 명백한 유엔 헌정 위반\"이라고 비판했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1c6a3cf5",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "47분 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/27/2026072604523345458",
+    "title": "[속보]이재명 대통령, 브라질 도착…국빈방문 일정 '스타트'",
+    "summary": [
+      "[the300] 26일(현지시간) 브라질 브라질리아 공군기지...."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb9eae794",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727000900071",
+    "title": "진짜 농담일까…트럼프 툭하면 '3선' 언급에 '2028' 모자까지",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 24일(현지시간) 밤 백악관출입기자협회(WHCA) 만찬에서 연설을 하던 도널드 트럼프 미 대통령은 갑자기 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n135543b7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "50분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260726/134334135/1",
+    "title": "[Tech&]﻿“로밍, 더 간편하게 이용할 수 없을까요?” 고객 의견으로 확 달라진 LG유플러스 로밍 서비스",
+    "summary": [
+      "“해외에 도착했는데 데이터가 바로 연결되지 않으면 난감하더라고요.",
+      "해외에 도착하자마자 공항에서 휴대전화 전원을 켜고 바로 로밍 서비스를 이용할 수 있으면 좋겠다고 생각했어요.”해외여행이나 출장을 떠날 때 로밍 서비스를 미리 신청해도 이용 과정에서 불편을 겪는 경우가 있다.",
+      "현지 도착 시간에 맞춰 로밍 시작 시간을 설정해야 하거나, 가족과 함께 여행할 때 데이터를 나눠 쓰는 과정이 번거롭게 느껴지기도 한다.LG유플러스는 이 같은 고객 불편을 해결."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd6b8153",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "55분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/27/2026072615500051642",
+    "title": "'삼성 보스 잡았다' 9명의 이름 일일이 꺼내 칭찬한 두산 사령탑 \"세베리노 멀티히트 KBO 리그 적응 고무적!\"",
+    "summary": [
+      "두산 베어스가 '1선발' 곽빈의 무실점 역투를 앞세워 주말 3연전 마지막 경기를 승리로 장식했다.",
+      "사령탑은 곽빈을 비롯해 야수들을 골고루 칭찬했다.",
+      "두산은 26일 서울 잠실야구장에서 열린 삼성과 2026 신한 SOL KBO 리그 정규시즌 홈경기에서 7-0 완승을 거뒀다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "na14ec54b",
+    "id": "n03601f9e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727000800079",
-    "title": "이란외무 \"우크라, 이란 상선 공격해 선원 사망…이스라엘 사주\"",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260726002000001",
+    "title": "李대통령, 브라질 도착…남미 3개국 순방 일정 스타트",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 아바스 아라그치 이란 외무부 장관은 26일(현지시간) 이스라엘의 사주를 받은 우크라이나가 자국 상선을 공격..."
+      "(브라질리아=연합뉴스) 임형섭 황윤기 기자 = 미국 샌프란시스코 방문 일정을 마치고 남미로 향한 이재명 대통령이 26일(현지시간) 브라질의 수도..."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n743b28d5",
+    "id": "na37fe693",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003722268",
-    "title": "항생제, 무조건 내성 생긴다?…\"잘못된 의학상식\"",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003723816",
+    "title": "[속보]이 대통령, 두번째 순방국 브라질 도착…나흘간 국빈 방문",
     "summary": [
-      "[서울=뉴시스]이소헌 기자 = 아플 때 우리는 흔하게 병원과 약국에서 항생제를 처방받는 경우가 많다.",
-      "항생제에 대한 잘못된 정보가 많이 퍼져 있는 가운데, 올바르게 알고 복용하는 것이 중요하다.",
-      "27일 식품의약품안전처 유튜브에 따르면 우리나라는 항생제 사용률이 높다고 알려져 있는 가운데, 항생제 내성 등과 관련해 정확하지 않은 정보가 많다."
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 kje1321@newsis.com."
     ],
     "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n86165818",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003723811",
-    "title": "WSJ \"SK하이닉스 ADR 프리미엄은 AI 거래 과열의 또 다른 신호\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 미국에서 거래되는 SK하이닉스 미국주식예탁증서(ADR)에 한국 증시 상장 본주(보통주)보다 상당히 높은 프리미엄이 붙은 데 대해 월스트리트저널(WSJ)이 \"인공지능(AI) 거래 과열의 또 다른 신호\"라고 분석했다.",
-      "26일(현지 시간) WSJ은 SK하이닉스의 미국 ADR 가격이 환율을 반영한 한국 증시 본주 가격보다 상당히 높은 수준에서 거래되고 있다며 이같이 경고했다.",
-      "지난 10일 뉴욕증시에서 SK하이닉스 ADR."
-    ],
-    "chips": [
-      "#AI",
-      "#SK하이닉스",
-      "#환율"
-    ]
-  },
-  {
-    "id": "na817d1fb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003722310",
-    "title": "한국인 정신 건강에 '빨간불'…일본 이어 주요 18개국 중 두 번째로 심각",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 한국인의 정신 건강 상태가 세계 주요 18개국 가운데 최하위권에 속한다는 조사 결과가 나왔다.",
-      "한국은 일본과 함께 정신적으로 가장 힘든 국가군에 포함된 반면, 태국과 스위스는 상대적으로 정신적 웰빙 수준이 높은 것으로 나타났다.",
-      "영국 매체 데일리메일은 23일(현지시간) 보험회사 AXA와 시장조사업체 입소스가 18~75세 성인 1만9000명을 대상으로 유럽과 아시아, 북미, 남미 등 18개국의 정신 건강 상태를."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n03740fc6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/27/CDI7LU37A5G4HJRRB6C2D7WZ7Y/",
-    "title": "강력한 ‘오일머니’ 파워, 러·우 신경전… 세계유산위는 총성 없는 외교 전쟁터",
-    "summary": [
-      "강력한 ‘오일머니’ 파워, 러·우 신경전… 세계유산위는 총성 없는 외교 전쟁터."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n379432f3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "43분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727000300071",
-    "title": "네타냐후 \"이란이 핵 포기해야 한다고 깨달을 때 전쟁 끝날 것\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 베냐민 네타냐후 이스라엘 총리는 26일(현지시간) 이란 전쟁 종식 조건에 대해 \"이(이란) 정권이 바뀌거나..."
-    ],
-    "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
     "id": "n167d78ac",
     "category": "IT",
     "source": "동아일보",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/It/article/all/20260726/134367243/2",
     "title": "유튜브-메타, ‘AI로 뚝딱’ 저품질 콘텐츠 돈줄 끊고 추천 배제",
     "summary": [
@@ -475,7 +580,7 @@ window.NEWS_DB = [
     "id": "n6875fb12",
     "category": "부동산",
     "source": "동아일보",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260726/134367228/2",
     "title": "전월세난 여파, 서울아파트 평균전세가 7억 넘었다",
     "summary": [
@@ -492,7 +597,7 @@ window.NEWS_DB = [
     "id": "n372e3c4e",
     "category": "IT",
     "source": "동아일보",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260726/134367190/2",
     "title": "[단신]우리은행, 핵심 전략에 ‘데이터 영업-내부 통제’",
     "summary": [
@@ -505,70 +610,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4f9f5529",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "49분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260726/134367196/2",
-    "title": "“스트레스 확 풀려요” 말랑이 장난감 인기",
-    "summary": [
-      "26일 서울 종로구 창신동 문구완구시장에서 시민들이 ‘말랑이’를 둘러보고 있다.",
-      "말랑이는 폴리우레탄 폼으로 만들어진 부드러운 장난감이다.",
-      "손으로 주물럭거린 후 천천히 원래 형태로 복구되는 특성이 있어 스트레스 해소용으로 인기를 끌고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba462a0c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "49분 전",
-    "url": "https://www.newsis.com/view/NISX20260723_0003720187",
-    "title": "갈비 힘줄 뜯다 잇몸뼈 박살…치과의사가 경고한 '음식 먹는 습관'",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 나이가 들수록 치아는 한 번 손상되면 회복이 쉽지 않다.",
-      "오래도록 자신의 치아를 사용하려면 양치뿐 아니라 평소 음식을 먹는 습관도 점검해야 한다는 조언이 나왔다.",
-      "개그우먼 이성미는 최근 자신의 유튜브 채널에서 치과의사 이치중 원장에게 \"100세까지 내 치아와 잇몸뼈로 살려면 어떻게 관리해야 하느냐\"고 물었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2f8c39ae",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727000500085",
-    "title": "\"세계 방산업계 스타트업 투자 역대 최대 6조원\"",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 드론이나 자율 시스템이 전쟁 양상을 뒤집어 놓으면서 세계 주요 방산업체가 스타트업에 사상 최대 규모의 돈을 ..."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nb17d0963",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726057200071",
-    "title": "트럼프, 이란전 출구전략 갈팡질팡…NYT \"구미맞는 선택지 없어\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 지난 1월 8일(현지시간) 공개된 뉴욕타임스(NYT) 인터뷰에서 \"내겐 국제법..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nee51af67",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026072441977",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…7월 27일 띠별 추천 점심메뉴",
     "summary": [
@@ -579,59 +624,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3f4ad34f",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153697",
-    "title": "LG전자, 노크온 냉장고 누적 500만대 판매...기능성 소재 확장 '교두보'",
-    "summary": [
-      "'똑똑'LG전자의 '노크온(인스타부)' 냉장고가 누적 판매 500만대를 돌파했다.",
-      "1분에 1대가 팔린 셈이다.",
-      "LG전자는 세계 경제 불확실성에도 불구하고 가전 성장세를 유지하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8dbacd6",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/26/VUMZ23FUABEKJNGXEQGRJ5ZOIE/",
-    "title": "[기고] AI 강국 되려면 대학에 투자해야 한다",
-    "summary": [
-      "[기고] AI 강국 되려면 대학에 투자해야 한다."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n760334b3",
+    "id": "n2df472de",
     "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026072667517",
-    "title": "'몸값 125조' 메모리 공룡 CXMT, 中 증시 상장…삼전닉스에 도전장",
+    "source": "아시아경제",
+    "time": "2시간 전",
+    "url": "https://view.asiae.co.kr/article/2026072623513269409",
+    "title": "이란군 대변인 \"미국이 타격 멈춰 보복 작전 중단\"",
     "summary": [
-      "'몸값 125조' 메모리 공룡 CXMT, 中 증시 상장…삼전닉스에 도전장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n22d79cfe",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026072667437",
-    "title": "\"호르무즈서 유조선 폭발…지정 항로 이탈해 기뢰 충돌\"",
-    "summary": [
-      "\"호르무즈서 유조선 폭발…지정 항로 이탈해 기뢰 충돌\"."
+      "미국이 이틀 연속 이란에 대한 공습을 중단한 가운데, 이란도 중동 지역의 미 동맹국들을 겨냥한 보복 공격을 전면 중단했다.",
+      "하마드 아크라미니아 이란군 대변인은 26일(현지시간) \"미군의 공격이 이틀 전 밤까지 이어졌으나, 최근 이틀 동안은 멈췄다\"며 \"우리의 군사 전략은 기본적으로 보복에 목적을 두고 있으므로 우리도 보복 작전을 중단했다\"고 밝혔다.",
+      "이와 관련 이란 고위 소식통은 외신에 \"이란의 기본 입장은 '공격에."
     ],
     "chips": [
       "#뉴스"
@@ -643,21 +645,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
-  },
-  {
-    "rank": 2,
     "tag": "뉴스",
     "mentions": "2200건",
     "trend": "+235%"
   },
   {
+    "rank": 2,
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
+  },
+  {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
