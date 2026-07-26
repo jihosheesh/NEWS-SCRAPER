@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-26 18:18:33
+// 마지막 업데이트: 2026-07-26 19:26:10
 window.NEWS_DB = [
   {
     "id": "nea668dd3",
     "category": "IT",
     "source": "Naver Blog",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVFLWVVhVnhQemJMVU4xXzJEMjJXWGhSLUNLQlhaTG1LYVdPQzJ5empMMllUODVvVFg5VHl6b05GQ1VwQjRCT3ZmU2hfazU4dW9yRDVWcFVUQTNrdkRtNWZFTlVEalgwQVBUZ2RtRFc4UlBqeFNfeTNBTFVvTDNBM0tNcGt6Rlh6bTl4ZmlKOA?oc=5",
     "title": "[주식전망] 삼성전자 ‘슈퍼위크’ 돌입…1400조원 잭팟 효과 볼까 : 네이버 블로그",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n7d99a556",
     "category": "IT",
     "source": "아주경제",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfRDlzLWtiN2tUOG1PWjgyQ2FlTnl4LTBWY01lVE1ON3VUSWFHZ0hneF96U2stNU5DZDRRUzlITnFjSlFOcFpWd1dyUnhXS0dVaHozVnRROEfSAVhBVV95cUxQX0Q5cy1rYjdrVDhtT1o4MkNhZU55eC0wVmNNZVRNTjd1VElhR2dIZ3hfelNrLTVOQ2Q0UVM5SE5xY0pRTnBaVndXclJ4V0tHVWh6M1Z0UThH?oc=5",
     "title": "이재용, 올트먼 만나 AI 인프라 협력 강화…K-반도체 불황 없는 10년 기대",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nc1599ac3",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBCTjh3Y2xSc1dpS0RycVhJVXdPYnB5aUtOTlBRb0RQS2xvV1RmZW9QTkMxU2lnb3RMZUN0NFZLOUM5M1NHM0tXaF9idE5KVzlCa3FhTEo0ZlZZalhyRnFRdU83aHQ0VTJiLWY1R1VVZC10VUhISVdKdk5lWUs0X2NPbGJpRXo0?oc=5",
     "title": "엔비디아·AMD·인텔 상반기 AI 반도체 승자는 누구일까?",
     "summary": [
@@ -48,10 +48,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0b5690bb",
+    "category": "IT",
+    "source": "데일리인베스트",
+    "time": "18시간 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZjRjM0hyMjlKWDB3Tkk1RzlnampsNWtWTk43LVAwMHRySDRTbnU0N05xcGFZVFVZWk1jMUZPWU1Ld3NIWTY1SU1BUno4azFGb1JYaHNpN1dwNEJ6aWJ6ck1OTTV4RXh3TlpB0gFvQVVfeXFMUFRIak9Ca1VKUmVSMGJITUxMWjBiS2FoVG5iMkstT3Jsa0I1cjcxcmk1UDlERUduLXgtd0lsbHJhYzlvVUJER2NPZVJLNFlCQkRnclBabVFveXFFZDBpR0FCSnBHLUhuMjNJbXN4UDJF?oc=5",
+    "title": "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까",
+    "summary": [
+      "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까 데일리인베스트."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "n0ceac5a0",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UMThIbU9BZEhVMHV2MkNpZVhWb1hOSFV2OE1oaFFuR2hoaWJTLTFTS3hiQUpXZmdKUWdTQ2hhQUZRUnI5UThWZ3FRczBKVC1GY1NMVVFwbFVFaWp5OTUtOFZJQXNoUVdDMGFLZEMyX2tGY2c?oc=5",
     "title": "'키미 K3' AI 열풍은 젠슨 황에게 악재, 엔비디아 반도체 중국 수출 당위성 설득력 떨어지나",
     "summary": [
@@ -62,21 +78,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#수출"
-    ]
-  },
-  {
-    "id": "n35355d5b",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zSU16SF9HVm9yWnpZNkZrdWhiY053S0ZOY2ZsZ0p2cmkzNlFnZlBkZ1pSbVlUdW5mWHI5YWVodnRPVzZNaVgwSWJXdTgway1wbFVsTUtwdGMyVnfSAWBBVV95cUxPblFPOFlOeEdHR0k2THFkcHBJcElIVXlxemxxWW5nV0dTOFFaTC1KQ3l0Y09BMWtBZlVFOERmVU9QUzFVUHc1RlRNMl8taVNGR2s0MGtJY1ZCbW1WVV9sVFM?oc=5",
-    "title": "이재용·올트먼, 오픈AI 본사서 만난다…HBM·파운드리 협의할듯",
-    "summary": [
-      "이재용·올트먼, 오픈AI 본사서 만난다…HBM·파운드리 협의할듯 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
     ]
   },
   {
@@ -111,22 +112,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb424412f",
-    "category": "사회",
-    "source": "v.daum.net",
-    "time": "27일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
-    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
-    "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 v.daum.net."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
@@ -138,6 +123,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n6b58f8f3",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "27일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
+    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
+    "summary": [
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
+    ],
+    "chips": [
+      "#채용",
       "#취업",
       "#고용"
     ]
@@ -319,128 +320,249 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n18d76d5d",
+    "id": "n996425f8",
     "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/07/27/LOTPSKEFNZALLH77EKPKCEBPCU/",
-    "title": "곧게 세우려고 힘줄수록 굳는 허리… 척추 S자 곡선 살리는 3분 운동",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/27/2026072703432037648",
+    "title": "'응사 윤진이' 민도희, 작품 공백기에 카페 알바 \"자존감 높아졌다\"",
     "summary": [
-      "곧게 세우려고 힘줄수록 굳는 허리… 척추 S자 곡선 살리는 3분 운동."
+      "배우 민도희가 공연이 없을 때 아르바이트를 하며 지낸 근황을 털어놨다.",
+      "26일 방영된 SBS '미운 우리 새끼' 505회에서는 배우 민도희가 뮤지컬 공연이 끝난 후 아르바이트를 구하는 모습이 그려졌다.",
+      "이날 민도희는 구인·구직 사이트를 보며 \"다 주말이다."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
+    "id": "nd609c9b9",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/stock/2026/07/27/2026072619524523497",
+    "title": "\"널뛰는 증시? 오히려 좋아\"…발 빠른 '옥석 가리기' 액티브ETF 뜬다",
+    "summary": [
+      "편입 종목 탄력적 조절 장점 올해 들어 순자산 13조 증가 인기에 신상품도 잇단 출시 규제완화, 시장 활성화 기대 연일 사이드카(프로그램 매매 일시정지)가 발동되는 등 변동성이 극심한 시장에서 빠른 대응이 가능한 액티브ETF(상장지수펀드)가 주목받는다.",
+      "특히 AI(인공지능) 투자와 관련한 새로운 뉴스들이 시장을 흔들고 금리 불확실성, 지정학적 이슈 등 글로벌 주요 이슈에 따라 시장이 출렁대며 편입종목에 따른 수익률 격차가 커지면서 액티브 ETF."
+    ],
+    "chips": [
+      "#AI",
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nd29306cc",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/stock/2026/07/27/2026072619502376435",
+    "title": "\"현금 3000만원 있어야 물타기도 가능\"…레버리지 투기판 식을까",
+    "summary": [
+      "변동성 확대에 31일 조기시행 대용증권 미인정, 현금만 가능 내달 괴리율 관리책임도 강화 단타 차단·시장과열 완화 기대 금융당국이 삼성전자·SK하이닉스 단일종목레버리지ETF(상장지수펀드) 대책을 당초 예정보다 빠르게 시행키로 하면서 시장과열이 완화될지 주목된다.",
+      "예탁금을 현금 3000만원으로 상향하는 등의 방안이 오는 31일부터 시행되는 등 당국의 '수요 억제책'이 본격화했다.",
+      "금융위원회와 금융감독원은 지난 24일 '단일종목레버리지 상품 기본예."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nc8057a1b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727002500079",
+    "title": "이란 외무부 \"美와 메시지 교환·중재국 활동 지속\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간의 메시지 교환을 비롯해 중재국들의 활동이 현재도 계속해서 이어지고 있다고 에스마일 바가이 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb3510b74",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/medical/2026/07/27/LQQATD4IIFBXBGTDAIMCT2KTCI/",
-    "title": "“갱년기, 남자·여자로서 끝인가요?”… 성호르몬 공백 메우는 5가지 습관",
-    "summary": [
-      "“갱년기, 남자·여자로서 끝인가요?”… 성호르몬 공백 메우는 5가지 습관."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n68bf22d8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/07/27/JXNEF67FKRGFXMNDAIS2QUWHFA/",
-    "title": "[51회] 팔다리를 잘라 솥에 삶고… 기괴한 잔치",
-    "summary": [
-      "[51회] 팔다리를 잘라 솥에 삶고… 기괴한 잔치."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8bdf3365",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/national/education/2026/07/27/OEJGRQ2RMVCR3J42HWW7XH2WGQ/",
-    "title": "뾰족한 압정 ‘tack’이 승마할 때는 다른 뜻?",
-    "summary": [
-      "뾰족한 압정 ‘tack’이 승마할 때는 다른 뜻?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n369de19c",
+    "id": "ncb3247a0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003723815",
-    "title": "네타냐후 \"이란이 핵프로그램 중단해야 한다고 인식했을 때 전쟁 종식\"",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723672",
+    "title": "\"가스레인지 바꿨더니 천식 증상 개선\"…실내 이산화질소 70% 줄어",
     "summary": [
-      "[서울=뉴시스] 김예진 기자 = 베냐민 네타냐후 이스라엘 총리는 26일(현지 시간) 이란과의 전쟁 종식과 관련 “(이란) 정권이 전복되거나 핵 프로그램을 중단해야 한다는 점을 스스로 인식할 정도로 충분히 약화됐을 때\"라고 밝혔다.",
-      "그는 이날 폭스뉴스와의 인터뷰에서 \"합의가 있든 없든\" 이란의 핵 프로그램은 종료돼야 한다며 이같이 말했다.",
-      "네타냐후 총리는 이란에 대한 대규모 공습을 재개할지 여부는 \"많은 측면에서\" 도널드 트럼프 미국 대통령의 결."
+      "[서울=뉴시스]김성은 인턴 기자 = 가스레인지를 전기 인덕션으로 교체한 천식 환자들의 호흡기 증상이 뚜렷하게 개선됐다는 연구 결과가 나왔다.",
+      "실내 공기오염 물질인 이산화질소(NO₂) 농도가 크게 줄면서 응급실 방문과 학교·직장 결석 및 결근도 감소한 것으로 나타났다.",
+      "지난 23일(현지 시간) 미국 IT·기술 매체 씨넷(CNET)에 따르면 미국 오하이오주 메트로헬스시스템과 케이스웨스턴리저브대학교 연구진이 지역사회 기관 6곳과 함께 진행한 연구에는."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n561c3fb7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727001551082",
+    "title": "'IS 추종' 베를린 퀴어축제 테러 용의자 사살(종합)",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 독일 베를린에서 성소수자 축제 인파를 공격해 30명의 사상자를 낸 테러 용의자 압둘 발루트(21)가 범행 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n36d71af2",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/27/2026072619455691481",
+    "title": "대형마트 '새벽배송' 동트나… 유통법 개정 논의 속도",
+    "summary": [
+      "이커머스 급성장에 홈플러스 사태, 규제 완화 목소리 커져 의무휴업·심야영업 자율화 거론… 골목상권 반발 거셀듯 홈플러스 사태를 계기로 대형마트 규제완화 논의가 다시 힘을 얻고 있다.",
+      "새벽배송 허용은 물론 의무휴업 규제까지 전향적인 완화에 긍정적인 분위기가 엿보인다.",
+      "하지만 소상공인 단체들이 거세게 반발하며 실력행사에 나설 채비를 하고 있어 논의방향에 관심이 모아진다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "na550781d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260726_0003723706",
+    "title": "'폭염중대경보' 대구·경북 무더위 계속…낮 최고 38도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 27일 대구·경북은 가끔 구름 많은 가운데 무더위가 이어질 것으로 예상된다.",
+      "대구지방기상청은 이날 \"대구, 경북 대부분 지역에 폭염특보가 발효된 가운데 당분간 매우 무덥겠고 열대야가 나타나는 지역도 많겠다\"고 예보했다.",
+      "아침 최저기온은 21~26도(평년 20~24도), 낮 최고기온은 33~38도(평년 28~33도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naf300799",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003723814",
+    "title": "원전 밀어붙인 트럼프, 아들·사위·장관까지 얽혔다…백악관 \"이해충돌 조작\"",
+    "summary": [
+      "[서울=뉴시스]박영환 기자 = 도널드 트럼프 미국 대통령이 사우디아라비아에 미국 원전 기술을 제공하는 협정을 추진하는 가운데, 트럼프 가족과 각료·후원자가 관여했거나 투자한 기업들도 원전 확대정책의 잠재적 수혜자로 거론됐다.",
+      "이들이 사우디 협정을 설계했다는 증거는 없지만, 행정부의 원전정책과 주변 인사들의 관련 사업이 여러 층위에서 맞물려 있다는 것이다.",
+      "뉴욕타임스(NYT)는 26일(현지시간) 사우디 협정과 트럼프 행정부의 원전 확대정책에 연결."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n94f1052c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003723822",
+    "title": "베를린 차량돌진 테러 용의자, 경찰 작전 중 사살",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 독일 베를린에서 발생한 차량돌진 테러 사건의 용의자가 26일(현지 시간) 사살된 것으로 전해졌다.",
+      "BBC 등에 따르면 베를린 경찰은 이날 성명을 내어 전날 발생한 테러 사건의 용의자가 사살됐다고 밝혔다.",
+      "경찰에 따르면 용의자는 이날 오후 6시께 베를린 서부 슈판다우에서 발견됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0b76e5a3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/27/MM3DCMJZHA3GKYTEMI4TAZBRGM/",
+    "title": "돌격대장에서 야수조장으로…승부욕의 마황이 후배들에게, \"10살이 어린데, 패기가 잘 안 보인다\"",
+    "summary": [
+      "[OSEN=부산, 조형래 기자] “우리가 10살이 어린데, 패기가 잘 안보이더라.”프로야구 롯데 자이언츠 팀의 주장은 현재 마무리 투수 김원중이 맡고 있다.",
+      "그리고 ‘마황’ 황성빈은 현재 롯데의 야수조장을 맡게 됐다.",
+      "기존 주장이었던 전준우가 2군으로 내려가면서 김태형 감독은 황성빈에게 직접 야수조장을 부탁했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n2b30a535",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727002000072",
+    "title": "브라질, 아르헨 밀레이 '정권 모욕' 발언에 자국대사 소환",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 브라질 외무부는 하비에르 밀레이 아르헨티나 대통령이 브라질 상파울루를 방문해 루이스 이나시우 룰라 다시우바 ..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nebaa3d53",
+    "id": "n398771b7",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727001300071",
-    "title": "美공습·이란 보복 2주만에 중단…불안한 '물밑대화' 소강 국면",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727001700075",
+    "title": "낙태시킨 美10대 잔혹살해…유명가수 D4vd 범행 추가증거 나와",
     "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 중동 지역 군사적 긴장을 다시 끌어올렸던 미국과 이란 간의 무력 공방이 2주 만에 소강 국면을 보이고 있다..."
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미 유명 싱어송라이터 데이비드(D4vd·본명 데이비드 앤서니 버크)가 미성년자를 잔혹하게 살해 혐의로..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n710c19ff",
+    "id": "nf78d39c8",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260726002051001",
-    "title": "李대통령, 브라질 도착해 수송기 시찰…룰라와 회담 예정(종합)",
+    "source": "조선일보",
+    "time": "58분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/27/MOCNLPWGB5EODBUAHMQW4BZCAE/",
+    "title": "‘30명 사상’ 베를린 성소수자 축제 테러범 사살",
     "summary": [
-      "(브라질리아=연합뉴스) 임형섭 황윤기 기자 = 미국 샌프란시스코 방문 일정을 마치고 남미로 향한 이재명 대통령이 26일(현지시간) 브라질의 수도..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2bd5e024",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "50분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727001500082",
-    "title": "'IS 추종' 베를린 차량돌진 테러범 검거작전 중 사살",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 독일 베를린에서 인파를 향해 차량을 몰아 30명의 사상자를 낸 혐의를 받는 용의자 압둘 발루트(21)가 2..."
+      "‘30명 사상’ 베를린 성소수자 축제 테러범 사살."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n02c2d7c0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "51분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003723821",
-    "title": "[속보]\"독일 베를린 차량돌진 테러 용의자 사살\"",
+    "id": "nfaf1e065",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/27/HE3DONJSMU4TAYRVMUYWMMDCHE/",
+    "title": "충격의 부정 투구 이물질 논란, 1군 에이스 투수 10G 징계였으면 정말 난리났다",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 aci27@newsis.com."
+      "[스포츠조선 김용 기자] 고의가 아니라면 어쩔 것인가.",
+      "미국 메이저리그와 KBO리그에, 동시에 투수 이물질 폭탄이 터졌다.",
+      "미국에서 뛰는 고우석(미네소타)은 최근 마이너리그 트리플A 등판을 하다 퇴장 조치를 당했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5f2bc92f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/international/japan/2026/07/27/FOAQD65ALFEPNHTSWOS24CZONQ/",
+    "title": "‘죽을 각오’에서 ‘즐기겠다’로…일본 스포츠의 ‘근성’이 변한다",
+    "summary": [
+      "‘죽을 각오’에서 ‘즐기겠다’로…일본 스포츠의 ‘근성’이 변한다."
     ],
     "chips": [
       "#뉴스"
@@ -450,7 +572,7 @@ window.NEWS_DB = [
     "id": "naa290d39",
     "category": "IT",
     "source": "테크M",
-    "time": "55분 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153698",
     "title": "현대백화점, 도쿄 '더현대' 안착...방문객 5배-매출 목표 30% 상회",
     "summary": [
@@ -462,115 +584,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9b136e84",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "57분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/27/2026072702104611435",
-    "title": "[속보] 아! 끝내 징계 받은 고우석, 10G 출전정지 처분 \"이물질 사용 혐의→26일 경기부터 소급 적용\"",
-    "summary": [
-      "메이저리그 재집입을 노리던 고우석(28·미네소타 트윈스 산하 트리플A 세인트폴 세인츠)이 이적 후 첫 마이너리그 등판에서 발생한 '글러브 부정물질 논란'으로 결국 10경기 출장정지 중징계를 받았다.",
-      "26일(한국시간) 현지 매체 '존 커버리지 미네소타' 소속 테오도르 토렙슨 기자와 미네소타 구단을 전담 취재해 온 브랜든 워른 기자 등 현지 취재진에 따르면 마이너리그 사무국은 고우석에게 이물질 사용 혐의로 10경기 출장정지 처분을 내렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n01b63df5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260725_0003723103",
-    "title": "일본 평균 수명 다시 증가…여성 87.3세로 41년 연속 세계 1위",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 일본인의 평균 수명이 코로나19 영향으로 감소한 뒤 다시 증가세로 돌아섰다.",
-      "지난 24일 일본 NHK에 따르면, 일본 후생노동성이 발표한 2025년 일본인의 평균 수명은 여성 87.33세, 남성 81.35세로 집계됐다.",
-      "전년보다 여성은 0.20세, 남성은 0.25세 늘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7172f944",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727001200082",
-    "title": "[속보] \"베를린 차량돌진 테러 용의자 사살\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb4c58793",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260726_0003723515",
-    "title": "이 대통령, 두 번째 방문국 브라질 도착…공군 차기 대형수송기 C-390 시찰",
-    "summary": [
-      "[브라질리아=뉴시스] 김지은 기자 = 이재명 대통령이 26일(현지시간) 오후 두 번쨰 방문국인 브라질에 도착했다.",
-      "이 대통령과 부인 김혜경 여사, 참모진 등이 탑승한 공군 1호기는 이날 낮 1시께 브라질리아 공군기지에 착륙했다.",
-      "우리 측에서는 최영한 주브라질대사, 배성훈 브라질리아 한인회장, 브라질 측에서는 치아구 포지우 외교부 의전장, 페르난두 피멘테우 주한대사, 수잔 클리방크 외교부 아태차관보 등이 나와 이 대통령 부부를 맞이했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na9babc0a",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/opinion/2026/07/27/2026072609483526388",
-    "title": "AI가 대체할 수 없는 것들[투데이 窓]",
-    "summary": [
-      "AI영상 범람, '배우의 실종''연기의 소멸' 감정 기계적 조립, 진짜·가짜 흐려져도 '인간의 신체'가 건네는 감동 선명해져 챗GPT가 사용자들의 얼굴을 만화 캐릭터로 바꿔주며 대중화의 포문을 연지 일 년 남짓, AI(인공지능) 이미징 기술이 급속도로 발전하고 있다.",
-      "엉성한 오류로 놀림당하던 것은 옛말이 되고, 이제는 유심히 보지 않으면 깜빡 속을 정도로 정교한 AI 영상들이 늘어난다.",
-      "얼마 전 극장을 찾았는데 본영화 시작 전에 상영되는 광고의."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n56928d8a",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/opinion/2026/07/27/2026072212350575848",
-    "title": "[MT시평/배정석] 민주주의 흔드는 '영향력 공작'",
-    "summary": [
-      "트럼프 대통령은 지난 16일 대국민 연설에서 자신이 패배한 2020년 대선에 중국이 개입한 정황을 공개했다.",
-      "이미 알려진 사실을 재탕하며 선거제도의 신뢰를 훼손하여 재선 실패 시, 불복의 빌미를 만들려는 시도라는 비판이 뒤따랐다.",
-      "하지만, 미국 선거에 외세의 개입 시도가 있었던 것은 확인된 사실이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1c6a3cf5",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/27/2026072604523345458",
-    "title": "[속보]이재명 대통령, 브라질 도착…국빈방문 일정 '스타트'",
-    "summary": [
-      "[the300] 26일(현지시간) 브라질 브라질리아 공군기지...."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n135543b7",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260726/134334135/1",
     "title": "[Tech&]﻿“로밍, 더 간편하게 이용할 수 없을까요?” 고객 의견으로 확 달라진 LG유플러스 로밍 서비스",
     "summary": [
@@ -586,7 +603,7 @@ window.NEWS_DB = [
     "id": "n167d78ac",
     "category": "IT",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/It/article/all/20260726/134367243/2",
     "title": "유튜브-메타, ‘AI로 뚝딱’ 저품질 콘텐츠 돈줄 끊고 추천 배제",
     "summary": [
@@ -602,7 +619,7 @@ window.NEWS_DB = [
     "id": "n6875fb12",
     "category": "부동산",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260726/134367228/2",
     "title": "전월세난 여파, 서울아파트 평균전세가 7억 넘었다",
     "summary": [
@@ -619,7 +636,7 @@ window.NEWS_DB = [
     "id": "n372e3c4e",
     "category": "IT",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260726/134367190/2",
     "title": "[단신]우리은행, 핵심 전략에 ‘데이터 영업-내부 통제’",
     "summary": [
@@ -638,14 +655,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
