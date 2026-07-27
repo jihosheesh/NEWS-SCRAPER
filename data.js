@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-27 01:32:35
+// 마지막 업데이트: 2026-07-27 03:00:47
 window.NEWS_DB = [
+  {
+    "id": "nea668dd3",
+    "category": "IT",
+    "source": "Naver Blog",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVFLWVVhVnhQemJMVU4xXzJEMjJXWGhSLUNLQlhaTG1LYVdPQzJ5empMMllUODVvVFg5VHl6b05GQ1VwQjRCT3ZmU2hfazU4dW9yRDVWcFVUQTNrdkRtNWZFTlVEalgwQVBUZ2RtRFc4UlBqeFNfeTNBTFVvTDNBM0tNcGt6Rlh6bTl4ZmlKOA?oc=5",
+    "title": "[주식전망] 삼성전자 ‘슈퍼위크’ 돌입…1400조원 잭팟 효과 볼까 : 네이버 블로그",
+    "summary": [
+      "[주식전망] 삼성전자 ‘슈퍼위크’ 돌입…1400조원 잭팟 효과 볼까 : 네이버 블로그 Naver Blog."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#네이버"
+    ]
+  },
   {
     "id": "n3c6395fa",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "58분 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2x4cFBWUmR2R21uMVhjdkwyNHZyMS0zTTZPd2tBcGtPSTNXbmU1eDJLamVNUTQ5NFJjRUtFOWRmR0N1NlpKeGdpNURlYVZwX2NSODluMUhhcUJxNUNQbmRpaWxQSjhBYnpIeFRaaGxfUXE4Ml9LbVp1QTl3NDVMdzZITFdadDQ1?oc=5",
     "title": "엔비디아-SK그룹 5000억 달러 AI 동맹 결성… 글로벌 반도체 10배 팽창 전망",
     "summary": [
@@ -21,7 +36,7 @@ window.NEWS_DB = [
     "id": "n47c62171",
     "category": "IT",
     "source": "헤럴드경제",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGt1WHhSaWc5M2dCbGN4cVRHRFZQSDRIa25teDU4R3g2M2EteFRkWnFRdEF2X0hJTjEweEszRmtCZWEzZGEyaU8ybGJNUlFJT2p5RUtn?oc=5",
     "title": "SK, 빅테크와 7500억달러 반도체 협력…최태원 “엔비디아와 세계 최고 AI팩토리 구축” [한·미 AI 동맹]",
     "summary": [
@@ -37,7 +52,7 @@ window.NEWS_DB = [
     "id": "nbc085d9f",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrc0FqYWlPM2lETkExc2lPd3pET0Z1a2NNS2ZWcHdwbF9SSjQ3R2l2dE1vOEJEMTRQYlk1cFpIRUZHdWhrY3FYMXpRWnU5MDFDMXExQ25MYW1DdElYTmZNbVhuWGlRckZm?oc=5",
     "title": "HBM부터 파운드리까지…美 빅테크가 K반도체 꽉 잡았다",
     "summary": [
@@ -48,33 +63,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nea668dd3",
+    "id": "n0b5690bb",
     "category": "IT",
-    "source": "Naver Blog",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVFLWVVhVnhQemJMVU4xXzJEMjJXWGhSLUNLQlhaTG1LYVdPQzJ5empMMllUODVvVFg5VHl6b05GQ1VwQjRCT3ZmU2hfazU4dW9yRDVWcFVUQTNrdkRtNWZFTlVEalgwQVBUZ2RtRFc4UlBqeFNfeTNBTFVvTDNBM0tNcGt6Rlh6bTl4ZmlKOA?oc=5",
-    "title": "[주식전망] 삼성전자 ‘슈퍼위크’ 돌입…1400조원 잭팟 효과 볼까 : 네이버 블로그",
+    "source": "데일리인베스트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZjRjM0hyMjlKWDB3Tkk1RzlnampsNWtWTk43LVAwMHRySDRTbnU0N05xcGFZVFVZWk1jMUZPWU1Ld3NIWTY1SU1BUno4azFGb1JYaHNpN1dwNEJ6aWJ6ck1OTTV4RXh3TlpB0gFvQVVfeXFMUFRIak9Ca1VKUmVSMGJITUxMWjBiS2FoVG5iMkstT3Jsa0I1cjcxcmk1UDlERUduLXgtd0lsbHJhYzlvVUJER2NPZVJLNFlCQkRnclBabVFveXFFZDBpR0FCSnBHLUhuMjNJbXN4UDJF?oc=5",
+    "title": "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까",
     "summary": [
-      "[주식전망] 삼성전자 ‘슈퍼위크’ 돌입…1400조원 잭팟 효과 볼까 : 네이버 블로그 Naver Blog."
+      "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까 데일리인베스트."
     ],
     "chips": [
+      "#반도체",
       "#삼성전자",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n7d99a556",
-    "category": "IT",
-    "source": "아주경제",
-    "time": "18시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfRDlzLWtiN2tUOG1PWjgyQ2FlTnl4LTBWY01lVE1ON3VUSWFHZ0hneF96U2stNU5DZDRRUzlITnFjSlFOcFpWd1dyUnhXS0dVaHozVnRROEfSAVhBVV95cUxQX0Q5cy1rYjdrVDhtT1o4MkNhZU55eC0wVmNNZVRNTjd1VElhR2dIZ3hfelNrLTVOQ2Q0UVM5SE5xY0pRTnBaVndXclJ4V0tHVWh6M1Z0UThH?oc=5",
-    "title": "이재용, 올트먼 만나 AI 인프라 협력 강화…K-반도체 불황 없는 10년 기대",
-    "summary": [
-      "이재용, 올트먼 만나 AI 인프라 협력 강화…K-반도체 불황 없는 10년 기대 아주경제."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
+      "#SK하이닉스"
     ]
   },
   {
@@ -106,6 +107,36 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "nb6df5091",
+    "category": "스포츠",
+    "source": "starnewskorea.com",
+    "time": "24일 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
+    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
+    "summary": [
+      "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위...",
+      "2위는 KBO 홈런 1위 김도영 starnewskorea.com."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne098ec77",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "25일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWEI2T2RRNGVBTktrLW1KbThpRHpMRXd5TUhKdGNmeEhUcDAtTTY2M1pQSFUzdWFXdGxPbDFieXJxSC1IMi1qMzQwUFhQY0k?oc=5",
+    "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
+    "summary": [
+      "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집 v.daum.net."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
     ]
   },
   {
@@ -272,20 +303,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "153일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nef414906",
     "category": "사회",
     "source": "연합뉴스",
@@ -302,198 +319,179 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n46f59f4d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "205일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
-    "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nda008119",
+    "id": "n3c253989",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153710",
-    "title": "엔비디아는 왜 네이버를 골랐나…답은 'GPU'가 아니라 '운영 능력'",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153715",
+    "title": "AWS 출신 김나영 대표 선임한 고팍스…\"경영 정상화·고파이 해결 속도\"",
     "summary": [
-      "엔비디아가 네이버에 10억달러(약 1조5000억원)를 투자하며 전략적 파트너십을 맺은 배경에 업계의 관심이 쏠리고 있다.",
-      "단순한 지분 투자를 넘어 글로벌 AI 인프라 사업을 함께 추진하기로 한 만큼, 엔비디아가 세계 수많은 기업 가운데 왜 네이버를 선택했느냐는 것이다.",
-      "업계에서는 그 답이 GPU가 아닌 '운영 능력'에 있다고 보고 있다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "ne08b0510",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153708",
-    "title": "구글 맞서 '인터넷 독립군' 자처했던 이해진의 네이버…이젠 AI 인프라 수출국으로 '우뚝'",
-    "summary": [
-      "네이버가 20여 년간 지켜온 '인터넷 주권'이 이제는 새로운 기업가치로 평가받기 시작했다.",
-      "한때 국내 검색시장을 지키는 토종 플랫폼으로 불렸던 네이버는 엔비디아와 브룩필드의 100억달러(약 14조6000억원) 규모 협력을 발판으로 글로벌 AI 인프라 사업자로 변신을 선언했다.",
-      "시장에서는 이번 딜을 단순한 투자 유치가 아니라 네이버의 기업가치를 다시 계산하게 만드는 전환점으로 보고 있다.27일 업계에 따르면 네이버는 엔비디아로부터 10억달러 규모."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#네이버",
-      "#수출"
-    ]
-  },
-  {
-    "id": "nf7eb2811",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153709",
-    "title": "또 다시 해커 표적된 위믹스...위믹스달러 522만개 비정상 발행",
-    "summary": [
-      "위메이드의 블록체인 플랫폼 '위믹스'에서 또 다시 보안 사고가 발생했다.",
-      "스테이블코인 위믹스달러 관련 컨트랙트의 오너 권한이 탈취되면서 비정상적인 토큰이 발행됐고, 다른 자산으로 전환돼 외부 유출이 포착된 것.",
-      "지난해 2월 대규모 해킹 사태로 가상자산 거래소 상장폐지 수순을 밟은 위믹스가 또 다시 보안 이슈를 겪으며 생태계 신뢰도에 타격을 입은 모습이다."
+      "국내 가상자산 거래소 고팍스가 아마존웹서비스(AWS)코리아 출신 금융 전문가를 새 수장으로 영입하며 경영 정상화에 본격 시동을 걸었다.",
+      "장기간 해결되지 못한 고파이(GoFi) 미상환 사태를 매듭짓고 제도권 편입에 맞춰 거래소 경쟁력을 회복하겠다는 전략이다.고팍스는 27일 김나영 전 AWS코리아 금융사업개발부문 총괄을 신임 대표이사로 선임했다고 밝혔다.김 대표는 하버드 비즈니스스쿨(MBA) 출신의 국제재무분석사(CFA)로, AWS코리아에서 국내."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2884a17d",
-    "category": "경제",
+    "id": "nf5fa5b25",
+    "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153703",
-    "title": "[크립토 브리핑] 비트코인, 9500만원선 회복...중동 리스크 완화·ETF 자금 유입세 지속",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153714",
+    "title": "특금법 숨통 튼 네이버…두나무 인수 '최대 걸림돌' 완화",
     "summary": [
-      "비트코인이 중동 지정학적 긴장 완화와 미국 비트코인 현물 상장지수펀드(ETF)로의 자금 유입에 힘입어 9500만원선을 회복하며 강세를 이어가고 있다.",
-      "다만 시장 심리는 여전히 '공포' 구간에 머물러 추가 상승 여부는 미국 통화정책과 중동 정세가 좌우할 전망이다.27일 오전 8시 30분 기준 빗썸에서 비트코인은 전일 대비 0.85% 오른 9524만원에 거래됐다.",
-      "글로벌 시황 기준으로는 6만5300달러 안팎에서 움직이며 6만5000달러선을 회복했다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "na2ee3850",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026072710301418347",
-    "title": "청호나이스 \"자사몰 6월 매출 전년比 300%↑\"",
-    "summary": [
-      "청호나이스는 자사몰 '청호나이스몰'의 지난달 매출이 전년 동월 대비 300% 증가했다고 27일 밝혔다.",
-      "청호나이스는 지난 4월 새롭게 구축한 자사몰을 열고 제품 탐색부터 계약, 결제까지 이어지는 온라인 구매 환경을 개선해 제공했다.",
-      "이후 온라인 전용 혜택과 프로모션을 강화한 결과 두 달여 만에 매출이 증가했다는 설명이다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "ne1753e4a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003724253",
-    "title": "PD수첩, 축구협회 전력강화위 회의록 공개한다",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = MBC 'PD수첩'이 대한축구협회 감사보고서를 자세히 들여다봤다.",
-      "28일 오후 10시20분 방송에서 제작진은 대한축구협회가 쌓아온 '실패의 빌드업'을 되짚어본다.",
-      "조별리그 탈락이라는 충격적 결과로 막을 내린 2026 FIFA 북중미 월드컵."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n69745bc1",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026072409473935879",
-    "title": "[초동시각]'합의·원칙'은 사라지고 '표결'만 남은 국회",
-    "summary": [
-      "\"오늘 회부된 법안 검토보고서를 오늘 졸속 부실하게 작성해서….\" 19대 국회 후반기 법제사법위원장을 맡았던 고(故) 이상민 전 의원은 여야 지도부에 골칫덩이였다.",
-      "편법을 받아들이지 않는 특유의 우직함 때문이다.",
-      "여야 원내대표가 가까스로 합의안을 도출해 본회의에 법안을 처리하려 해도 버티는 일이 잦았다."
+      "네이버와 두나무의 결합을 가로막던 규제 리스크가 일부 완화됐다.",
+      "대통령 직속 규제합리화위원회가 가상자산사업자 대주주 적격성 심사 기준에 예외 규정을 마련하도록 개선을 권고하면서다.",
+      "업계에서는 네이버가 추진 중인 두나무 편입 작업의 최대 변수 가운데 하나가 해소됐다는 평가가 나온다.27일 정보기술(IT) 및 금융권에 따르면 규제합리화위원회 성장분과위원회는 지난 24일 특정금융정보법(특금법) 시행령 개정안을 심사하고 대주주 적격성 심사 기준을 보완."
     ],
     "chips": [
       "#정책",
+      "#네이버",
       "#정치"
     ]
   },
   {
-    "id": "n2e053dcd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003724236",
-    "title": "\"현장 모르나\"…소상공인들, 최저임금 이의제기",
-    "summary": [
-      "[서울=뉴시스]강은정 기자 = 고용노동부(노동부)가 지난 16일 내년도 적용 최저임금으로 시급 1만700원을 고시한 가운데, 소상공인 계는 \"현장을 외면한 결정\"이라며 노동부에 재심의를 요청한다.",
-      "소상공인연합회(소공연)는 27일 오전 10시 30분 세종시 노동부 청사 앞에서 기자회견을 열고 '2027년 적용 최저임금안 이의제기서'를 공식 제출한다고 밝혔다.",
-      "송치영 소공연 회장은 \"내년도 최저임금 인상으로 월급 기준 약 7만9000원, 연봉 기준."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n5047f277",
+    "id": "n095b93ce",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003723928",
-    "title": "AI 시대 보안 거점 뜬다…'충청 정보보호 클러스터' 본격 가동",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153713",
+    "title": "[템터뷰] \"AI가 만든 PPT도 내 마음대로 수정\"...미리캔버스가 '편집'에 올인하는 이유",
     "summary": [
-      "[서울=뉴시스]심지혜 기자 = 세종·대전·충북·충남의 지역 전략산업과 정보보호 산업을 연계하는 ‘충청 정보보호 클러스터’ 운영이 본격화됐다.",
-      "과학기술정보통신부와 한국인터넷진흥원은 세종시에서 충청권 지방정부와 '충청 정보보호 클러스터 개소식'을 개최했다고 27일 밝혔다.",
-      "지역 거점 정보보호 클러스터는 수도권에 집중된 정보보호 기업과 전문인력, 기반시설을 지역으로 확산하고 지역 전략산업과 정보보호 산업이 함께 성장할 수 있는 기반을 마련하기 위해."
+      "\"AI가 프레젠테이션 초안을 만드는 시대는 이미 왔습니다.",
+      "이제 중요한 것은 AI가 만든 결과물을 이용자들이 얼마나 자유롭게 사용할 수 있느냐입니다.",
+      "AI가 만든 초안이 보기 좋은 결과물에서 끝나는 것이 아니라, 사용자가 자신의 의도에 맞게 계속 발전 시킬 수 있는 문서가 되도록 만드는 것이 저희 팀의 중요한 과제입니다\"미리캔버스를 운영하는 미리디의 박현범 에디터팀 리드는 AI 시대에도 변하지 않는 경쟁력은 '편집'이라고 강조했다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n7ad99f70",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/tech/2026/07/27/2026072708570681492",
-    "title": "디즈니플러스, 이정후·송성문 메이저리그 '생중계' 나선다",
+    "id": "n196a57b6",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153712",
+    "title": "통신업계, 사회공헌 '다각화'...'AI·일자리·안전·보훈'까지 신경 쓴다",
     "summary": [
-      "OTT(온라인동영상서비스) 디즈니플러스가 실시간 콘텐츠 라인업을 확장한다.",
-      "디즈니플러스는 스포츠 전문 채널 SPOTV와 협약을 맺고 이날부터 오늘 10월까지 메이저리그 정규·포스트시즌 경기를 하루에 한 경기씩 실시간 중계한다고 27일 밝혔다.",
-      "이정후, 송성문 등 한국 선수 소속팀 경기를 포함해 주요 경기만 중계한다."
+      "통신업계가 사회공헌 활동을 다양화하고 있다.",
+      "▲인공지능(AI) 보급 ▲일자리 창출 ▲안전 ▲보훈 등의 기여를 늘리고 있다.",
+      "최근 통신사의 사회공헌은 삶과 밀접한 영역의 노력을 강조하는 분위기다.27일 SK텔레콤 KT LG유플러스는 사회공헌 활동을 확대한다고 밝혔다.AI 시대 전 국민의 AI 전환(AX)을 지원한다.SK텔레콤은 이날부터 8월10일까지 '모두의 프롬프트' 공모전을 개최한다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#고용"
     ]
   },
   {
-    "id": "nb52fd0f4",
+    "id": "n6916ba7a",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072712000906906",
+    "title": "李대통령 \"중수청 개청 만전 기하라…공직사회 선공후사 중요\"",
+    "summary": [
+      "미국·남미 3개국을 순방 중인 이재명 대통령이 26일(현지시간) 중대범죄수사청(중수청) 개청 준비 상황을 보고받고 \"만전을 기하라\"며 \"공직사회의 공사 구분과 선공후사 원칙이 잘 지켜지는 게 중요하다\"고 강조했다.",
+      "강유정 청와대 수석대변인은 이날 브라질 브라질리아 현지 브리핑을 통해 이 대통령이 수석보좌관회의를 주재하고 이같이 지시했다고 밝혔다.",
+      "이번 수석보좌관회의는 이 대통령이 현지에서 화상으로 청와대를 연."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n528bba5d",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/thebio/2026/07/27/2026072708233431124",
+    "title": "10년간 여성 '고위험음주율', 30대부터 증가세…남성은 전연령서 감소",
+    "summary": [
+      "질병청, '음주 관련 지표 심층분석' 결과 발표 女 30대 이상서 월간폭음률·고위험음주율↑ 남성은 전연령서 고위험음주율 감소세 음주자 상당수 음주행태 위험…59%가 폭음 한국 월간폭음률, OECD 5위 최근 10년간 우리나라 남성의 음주율이 전 연령대에서 전반적으로 감소한 반면, 여성은 30대 이상에서 고위험 음주율이 증가세를 나타냈다.",
+      "남녀 관계없이 매달 술을 마시는 사람의 59%가 폭음하는 등 음주자 중 상당수가 건강 위험이 높은 음주 행태."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n3a5bb56d",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/society/2026/07/27/2026072711134740156",
+    "title": "경찰 \"'김병기 사건' 수사 마무리 노력 중\"…10개월째 장기화",
+    "summary": [
+      "방시혁 수사는 \"마무리 단계\" 이혜훈·전한길 수사도 조만간 종결 불법 정치자금 수수 등 13개 의혹을 받는 김병기 무소속 의원에 대한 경찰 수사가 장기화되고 있다.",
+      "경찰은 제기된 의혹들에 대해 검토가 필요한 사안이 남아있다는 입장이다.",
+      "박정보 서울경찰청장은 27일 오전 서울 종로구 서울경찰청에서 열린 정례 기자간담회에서 \"일부 혐의는 결론낼 수 있을 정도로 수사가 마무리됐다\"면서도 \"의혹 건수가 많다보니 검토해야 할 사안도 많다\"고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7a424099",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/economy/2026/07/27/2026072709055264934",
+    "title": "공정위 조사 시작되자 수급사업자에 지연이자 11.6억 준 '라인건설'",
+    "summary": [
+      "수급사업자에 하도급 대금을 법정지급기한을 넘겨 지급해 발생한 지연이자를 주지 않은 라인건설이 공정거래위원회로부터 제재를 받았다.",
+      "공정위는 라인건설의 이같은 불공정 하도급 거래 행위에 대해 시정명령을 부과했다고 27일 밝혔다.",
+      "라인건설은 이지더원(EG the1) 등 아파트 브랜드를 보유한 종합건설업체다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "ne2c06658",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/economy/2026/07/27/2026072708222546914",
+    "title": "KDI \"재생에너지 보급, 전력계통·자본조달·보급지원 병행돼야\"",
+    "summary": [
+      "재생에너지 보급 가속화와 정책 효율화를 위한 과제를 모두 해결하기 위해 보조금 제도의 합리화, 전력계통 확충, 자본조달 환경 정비가 통합적으로 필요하다는 제언이 나왔다.",
+      "한국개발연구원(KDI)은 27일 '재생에너지의 효과적 보급확대를 위한 정책과제' 보고서를 발간해 이같이 밝혔다.",
+      "정부가 2030년 목표치로 제시한 재생에너지 100GW(태양광 87GW·풍력 9GW·기타 4GW) 누적 보급량은 과거 대비 4배 빠른 보급속도를 요구한다."
+    ],
+    "chips": [
+      "#정책",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nc72142b5",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072711464949923",
+    "title": "온실가스 CO₂, 고부가가치 에탄올로 바꾼다…국내 연구진, 상용화 성능 입증[과학을읽다]",
+    "summary": [
+      "온실가스인 이산화탄소(CO₂)를 재생연료와 화학 원료로 쓰이는 고부가가치 에탄올로 고효율 전환하는 촉매 기술이 개발됐다.",
+      "실제 산업용 시스템에서도 높은 성능을 입증해 탄소중립 실현을 위한 이산화탄소 자원화 기술의 상용화 가능성을 높였다는 평가다.",
+      "한국연구재단은 성균관대학교 화학공학과 이효영 교수 연구팀이 이산화탄소를 에탄올로 선택적으로 전환하는 단일 원자 이합체 전기촉매를 개발했다고 27일 밝혔다."
+    ],
+    "chips": [
+      "#교육",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n322805ef",
     "category": "IT",
     "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026072708550652620",
-    "title": "AI 시대 대비 LNG 공급망 전략 다시 짠다…민간 비축·887만t 저장능력 확충",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072711434339419",
+    "title": "과기정통부, AMD와 개방형 AI 반도체 생태계 구축…국산 NPU 활용",
     "summary": [
-      "정부가 인공지능(AI) 데이터센터와 반도체 클러스터 확산, 중동발 지정학적 리스크 등에 대응하기 위해 천연가스 비축체계와 공급망을 전면 재정비한다.",
-      "공공 중심이던 비축체계에 민간 참여를 확대하고, AI 기반 수급관리 시스템을 도입하는 한편 2038년까지 LNG 저장능력을 최대 887만t으로 늘리는 등 에너지 안보 강화에 나선다.",
-      "산업통상부는 27일 이 같은 내용을 담은 '제16차 장기 천연가스 수급계획(2026~2038)'을 확정·공."
+      "정부가 미국의 반도체 기업 AMD와 협력해 인공지능(AI) 반도체 생태계 구축에 나선다.",
+      "AMD의 중앙처리장치(CPU), 그래픽처리장치(CPU)와 국산 신경망처리장치(NPU)를 연계해 개방형 생태계를 조성할 계획이다.",
+      "과학기술정보통신부는 배경훈 부총리가 23일(현지시간) 미국 샌프란시스코에서 개최된 'AMD 어드밴싱 AI 2026' 행사에서 리사 수 AMD 회장 겸 최고경영자(CEO)와 만나 '과기정통부-AMD 간 AI반도체 생태계 협력에 관한."
     ],
     "chips": [
       "#AI",
@@ -501,150 +499,150 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n60cd81aa",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/27/2026072710271519743",
-    "title": "[속보]국민의힘 최고위 \"'권영진에 최고수준 징계 필요 공감대\"",
-    "summary": [
-      "[the300] 27일 국민의힘 최고위원회의...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nddf7c7b9",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/policy/2026/07/27/2026072710153253223",
-    "title": "한국전력, 'ICA 컴플라이언스 어워즈' 국내기업 최초 대상 수상",
-    "summary": [
-      "문화·윤리 부문…김동철 사장 취임 후 고강도 윤리문화 내재화 프로세스 결실 한국전력이 국제컴플라이언스협회(이하'ICA')가 주관하는'2026 ICA 컴플라이언스 어워즈 아시아·태평양'(ICA Compliance Awards APAC 2026)에서 국내 기업 중 유일하게 대상을 수상했다고 27일 밝혔다.",
-      "ICA는 전 세계 155개국에 네트워크를 둔 글로벌 컴플라이언스 분야 세계 최고 권위 기관이다.",
-      "영국 등 유럽 중심으로 'ICA 컴플라이언스 어."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36346ae5",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003724225",
-    "title": "中, 日 영토 갈등 댜오위다오 다큐 5부작 제작 전세계 방송",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 중국이 일본과 영토 갈등 중인 동중국해 댜오위다오(일본명 센카쿠 열도)에 대한 다큐멘터리 5부작을 제작해 27일부터 전세계에 방영한다.",
-      "중국 관영 중앙(CC)TV 산하 방송사 CGTN(중국국제TV네트워크)이 제작한 다큐멘터리 ‘댜오위다오: 파도 아래 숨겨진 진상’은 27일부터 31일까지 CGTN 영어 채널에서 5회에 걸쳐 방송된다.",
-      "또한 75분 분량의 다큐멘터리 영화 버전도 27일과 8월 2일 두 차례 CGTN."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "n1471643c",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/27/2026072710092922126",
-    "title": "이상훈 \"25년간 장난감 6000점 모았다…10억 들어\"",
-    "summary": [
-      "개그맨 이상훈(44)이 25년 동안 모은 장난감이 6000점을 넘어섰으며 수집에만 약 10억원을 들였다고 밝혔다.",
-      "27일 방송되는 SBS Plus '신빨토크쇼 귀묘한 이야기2'에는 이상훈과 안주미가 게스트로 출연한다.",
-      "선공개 영상에서 이상훈은 현재 운영 중인 장난감 박물관을 소개하며 \"장난감을 모으다가 사업으로까지 이어졌다\"며 \"25년 넘게 수집해 200평 규모 공간에 장난감 6000점 이상을 전시하고 있다\"고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n10176198",
+    "id": "n7eeaaf12",
     "category": "경제",
     "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026072710280904809",
-    "title": "펄어비스 '붉은사막' 올해 신규 IP 중 스팀 매출 1위",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072711365602907",
+    "title": "'흑백요리사'식 서바이벌 도입…국세청, K-술 스타 발굴 나선다",
     "summary": [
-      "펄어비스는 지난 3월 출시한 '붉은사막'이 올해 출시된 신규 지식재산(IP) 중 스팀에서 가장 높은 매출을 기록했다고 27일 밝혔다.",
-      "글로벌 시장조사업체 알리네아 애널리틱스가 최근 공개한 보고서에 따르면 '붉은사막'은 지난 3월 출시 이후 스팀에서 1억9000만달러(약 2800억원) 이상의 매출을 올렸다.",
-      "올해 출시된 스팀 게임 중 '포르자 호라이즌 6', '바이오하자드 레퀴엠'에 이어 세 번째로 높은 매출이자, 할인·프로모션 행."
+      "국세청이 우수한 중소 주류 제조업체를 발굴해 해외 수출을 지원하는 '2026 K-SUUL AWARDS'를 개최한다.",
+      "지난해 처음 열린 행사에 이어 올해는 전통주뿐 아니라 일반 중소 주류업체까지 참가 대상을 확대하고, 지방 예선과 외국인 심사단을 도입해 K-주류의 글로벌 경쟁력 강화에 나선다.",
+      "국세청은 다음달 14일까지 수출을 희망하는 중소 주류 제조업체를 대상으로 참가 신청을 받는다고 27일 밝혔다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n07c8dd3a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003724567",
+    "title": "진주바이오산업진흥원, 경영평가 7년 연속 최고 '가' 등급",
+    "summary": [
+      "[진주=뉴시스] 정경규 기자 = 경남 진주바이오산업진흥원이 2026년(2025년 실적) 지방자치단체 출자·출연기관 경영실적평가에서 최고 등급인 '가' 등급을 획득하며 7년 연속 최고 등급을 달성했다고 27일 밝혔다.",
+      "이번 평가는 지방공공기관을 대상으로 경영관리와 경영성과 등 2개 분야 31개 지표를 종합 평가했다.",
+      "이번 성과는 민선 9기 진주시가 역점 추진하는 우주항공·그린바이오 등 미래산업 육성 정책과 연계해 진주바이오산업진흥원이 창업부터 연."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n19fc5dfd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003724606",
+    "title": "이 대통령 \"첨단산업 이끌 한국새빛가속기 첫삽…미래성장동력 뒷받침\"",
+    "summary": [
+      "[서울=뉴시스] 김지은 기자 = 이재명 대통령은 27일 차세대 반도체, 첨단소재 등의 기초·응용 연구에 활용되는 '한국새빛가속기'가 본격적인 건설에 들어간 데 대해 \"이곳에서 시작될 혁신과 발견이 대한민국의 미래 성장동력으로 자라날 수 있도록, 정부가 끝까지 뒷받침하겠다\"고 밝혔다.",
+      "이 대통령은 이날 X(옛 트위터)에 관련 기사를 공유하며 \"대한민국 과학기술과 첨단 산업의 미래를 이끌 '한국새빛가속기'가 오늘 힘차게 첫 삽을 떴다\"고 적었다."
+    ],
+    "chips": [
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne0b0358f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727081800003",
+    "title": "[인사] 전력거래소",
+    "summary": [
+      "[인사] 전력거래소."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd62c02ea",
+    "id": "n3938ddd4",
     "category": "사회",
     "source": "연합뉴스",
     "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727043500051",
-    "title": "부산 카페 10년 새 3배로 증가…3년 생존율 43.7%",
+    "url": "https://www.yna.co.kr/view/AKR20260727081100530",
+    "title": "복지부, 암 데이터 연구 경진대회…내달 24일까지 참가신청 접수",
     "summary": [
-      "(부산=연합뉴스) 오수희 기자 = 부산지역의 카페 수가 10년 사이 3배로 늘어났지만, 3년 이상 생존하는 비율은 절반에도 미치지 못한 것으로 ..."
+      "(서울=연합뉴스) 성서호 기자 = 보건복지부는 국립암센터, 한국보건의료정보원과 제4차 케이-큐어(K-CURE) 데이터 경진대회를 열고 다음 달 ..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nff3f5869",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003724535",
+    "title": "주일미군 사령관 \"사령부 215명 증원…24시간 대응 체제\"",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 주일미군이 사령부 인력을 200명 넘게 늘리며 행정 중심 조직에서 유사시 작전을 계획·조정하는 통합군사령부로의 전환에 나섰다.",
+      "스티븐 조스트 주일미군 사령관(공군 중장)은 26일 공개된 아사히신문과의 인터뷰에서 지난해부터 사령부 인력 약 215명을 증원했다고 밝혔다.",
+      "조스트 사령관은 최근 자위대 통합방재훈련을 통해 1년 반 전에는 발휘하기 어려웠던 신속한 대응과 작전 계획, 의사결정 능력을 보여줬다고 평가했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na22eebd1",
+    "id": "n9d83fad3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003724597",
+    "title": "충남대병원, '모자 의료 협력 시범 사업' 충남 권역 대표 기관 선정",
+    "summary": [
+      "[대전=뉴시스]김도현 기자 = 충남대병원이 보건복지부 '모자 의료 진료 협력 시범 사업' 충남 권역 대표 기관으로 선정됐다.",
+      "27일 충남대병원에 따르면 사업 기간은 이날부터 오는 2027년까지며 충남대병원을 대표 기관으로 대전·충남 지역 분만 의료기관 등 총 9개 기관이 참여한다.",
+      "참여 기관들은 모자의료 진료 협력 체계 구축 및 운영, 진료 협력 프로토콜 마련, 고위험 산모·신생아 전원 체계 구축 등 긴밀한 협력으로 권역 내 필수 모자 의료 기."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "neadffc51",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727059700063",
-    "title": "[인사] 지식재산처",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727083300055",
+    "title": "군산서 꽃게 불법 유통 적발…적발과정서 용의 차량 바다 빠져",
     "summary": [
-      "[인사] 지식재산처."
+      "(군산=연합뉴스) 정경재 기자 = 전북 군산의 한 선착장에서 금어기인 꽃게를 잡아 유통하려 한 운송업자가 해경 단속에 적발됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5211d82d",
-    "category": "경제",
+    "id": "na412ade6",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/07/27/HYGBSP6OVFBGJPEA2FIWRVX6SU/",
+    "title": "애플 이르면 내년 6월 첫 스마트 안경 공개",
+    "summary": [
+      "애플 이르면 내년 6월 첫 스마트 안경 공개."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd2212096",
+    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727056500008",
-    "title": "코스닥협회, 제18회 대한민국코스닥대상 신청 접수 시작",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727082800007",
+    "title": "한기범희망나눔, 장기기증 인식 개선 위한 자선 농구경기 개최",
     "summary": [
-      "(서울=연합뉴스) 김유향 기자 = 코스닥협회가 제18회 대한민국코스닥대상 신청을 접수하다고 27일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a6d1361",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727060100017",
-    "title": "[인사] 한국지능정보사회진흥원",
-    "summary": [
-      "[인사] 한국지능정보사회진흥원."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd7be41d2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260727/134369917/1",
-    "title": "권상우 아들, 아빠 판박이였네…17세 훈남 비주얼 눈길",
-    "summary": [
-      "배우 권상우 아들 권룩희가 아빠와 함께한 일상을 공개했다.",
-      "권룩희는 27일 소셜미디어에 태양 모양 이모티콘과 함께 사진 여러 장을 올렸다.",
-      "사진 속 권룩희는 권상우와 함께 카페에서 여유로운 시간을 보냈다."
+      "(서울=연합뉴스) 오명언 기자 = 사단법인 한기범희망나눔이 어린이 심장병 환우를 돕고 생명나눔 문화를 확산하기 위한 자선 농구 경기를 연다."
     ],
     "chips": [
       "#뉴스"
@@ -656,21 +654,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
-  },
-  {
-    "rank": 3,
     "tag": "반도체",
     "mentions": "1810건",
     "trend": "+175%"
+  },
+  {
+    "rank": 3,
+    "tag": "뉴스",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
