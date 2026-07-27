@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-27 19:29:46
+// 마지막 업데이트: 2026-07-27 20:28:49
 window.NEWS_DB = [
   {
     "id": "nad2051b5",
     "category": "IT",
     "source": "블로터",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMFBUdGJQMWJ3TTZIeFZ3T01oTnZudlVwSjNscHRqUU54WDZ1VzAwS1hVR3hmSkRUcnoybGl0R0lGWU5nY0xIeVkyN05yOEhIb20yNERFelFvTW1fRkJ5SXF6Z0tfVzRh0gFsQVVfeXFMUFlRbWY3bUwtdTVRUjFKYUREYWpLb0hhMmxHN2owcjRyeTF1T3BvVnVFZFJHbHVmYUNxbkFkX3ZiRndCRUlObmNobDYzbFNsZ1lpUGY5RFJNdm1XSGNkc0hhSXp5by04bVpHNjFa?oc=5",
     "title": "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n586a0cf7",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
     "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "na55a2983",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01V3pWcmw4emZJTzc3cXYyX0lWOFpWcjFiYjZ2ZE5lRXRLUm1aSkpoRzBQMXpBdW9GbmFWQkZNb2hHbEoxeVVTYnh3b1I2TUUtYWxpN0QweHZOQjU3aGlpSmVvckZLYUlMbkR5ZWVhRFdqbVE?oc=5",
     "title": "SK 현대차 네이버 포함 한국 기업과 엔비디아 협력은 '윈-윈' 외신 평가, \"AI 시장 판도 바꾼다\"",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n27e32122",
     "category": "IT",
     "source": "위클리서울",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUmduZDdDWmtGOC12MTVPT09IZEZmUWhCMUh4TERrQnVLeWxmakhDN1l6eUdzNDc0RDZTQUVOLS0td2ZLUjQ2NzA0WlJUWkFyVENrYjhXdzlic0tzZXRaRXc0Z0xwRXUxc25MNw?oc=5",
     "title": "‘9500억달러’ 반도체 빅딜…삼성은 2나노, SK는 HBM 승부",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "n4caae55c",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zc3B3SEp4bllzMUtTbmN5bzNuY2tvd3FyRXdseXk3X0RKM3JvVVgyekk5a1pULXJLdHVURUZrQ2dNTVlYMElqTWduVHNJaDZOZ1pHNzlramNMRFNrU3FMVE9pUW94cWdf?oc=5",
     "title": "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\"",
     "summary": [
@@ -81,7 +81,7 @@ window.NEWS_DB = [
     "id": "n3c6395fa",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2x4cFBWUmR2R21uMVhjdkwyNHZyMS0zTTZPd2tBcGtPSTNXbmU1eDJLamVNUTQ5NFJjRUtFOWRmR0N1NlpKeGdpNURlYVZwX2NSODluMUhhcUJxNUNQbmRpaWxQSjhBYnpIeFRaaGxfUXE4Ml9LbVp1QTl3NDVMdzZITFdadDQ1?oc=5",
     "title": "엔비디아-SK그룹, 5000억 달러 AI 동맹 결성… 글로벌 반도체 10배 팽창 전망",
     "summary": [
@@ -287,6 +287,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n01f4c085",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "126일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
+    "summary": [
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nef414906",
     "category": "사회",
     "source": "연합뉴스",
@@ -303,287 +317,246 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n46f59f4d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "206일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
-    "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc779fced",
+    "id": "nf3d61e91",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026072804281033112",
-    "title": "맥쿼리 \"美·이란 합의 땐 연말 원유시장 공급 과잉\"",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003725519",
+    "title": "통영시장 선거 재개표, 당락 그대로…기존 44표에서 38표 차이로",
     "summary": [
-      "미국과 이란이 중간선거를 앞두고 긴장 완화에 나설 경우 국제유가 시장이 연말 이전 다시 공급 과잉 국면으로 돌아설 수 있다는 전망이 나왔다.",
-      "27일(현지시간) 블룸버그통신에 따르면 맥쿼리의 비카스 드위베디 에너지 전략가는 지난 24일 인터뷰에서 미·이란 간 긴장 완화 가능성에 대해 \"수개월이 아니라 수주 내 이뤄질 수 있다\"며 \"미국은 현재 일종의 풋옵션을 보유하고 있지만, 시간이 갈수록 그 가치는 줄어들고 있으며."
+      "[통영=뉴시스] 신정철 기자 = 6·3전국동시지방선거에서 44표 차로 승부가 갈렸던 경남 통영시장 선거 재검표가 결국 당락은 바뀌지 않았다.",
+      "경상남도선거관리위원회가 지난 27일 오후부터 28일 새벽 3시까지 경남선관위 6층에서 실시한 재검표 결과 더불어민주당 강석주 후보가 3만3626표, 국민의힘 천영기 후보가 3만3588표를 얻어 강 후보의 당선을 그대로 확정됐다.",
+      "강 후보의 득표수는 기존과 같았고, 천 후보는 6표 늘었다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n21501f9e",
-    "category": "경제",
+    "id": "ncf2f3090",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003725516",
+    "title": "경남경찰청, '통영 60대 여성 살인 사건' 용의자 영상 공개",
+    "summary": [
+      "[통영=뉴시스] 신정철 기자 = 경남경찰청은 사건 발생 한달이 넘도록 미궁에 빠진 '통영 60대 여성 살인 사건' 용의자 영상을 공개했다.",
+      "경남경찰청은 지난 27일 피해자 유족의 동의를 얻어 CCTV에 담긴 신원미상 용의자 A씨의 영상을 처음 공개했다.",
+      "영상은 건장한 체격의 30~40대 남성으로 추정되는 용의자 모습이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd8ec6cbc",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/28/U6E6EJZWMJHHZEAOVPBYPAAIL4/",
+    "title": "선풍기 치우고 실링팬을 쓴 후 집안 냉방 효율에 온 변화, 최저 10만원대 초특가",
+    "summary": [
+      "선풍기 치우고 실링팬을 쓴 후 집안 냉방 효율에 온 변화, 최저 10만원대 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2934a47b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728006800034",
+    "title": "전국 무더위 이어져…오후 중부·경북 지역 소나기",
+    "summary": [
+      "(서울=연합뉴스) 김채린 기자 = 화요일인 28일은 전국 대부분 지역에서 무더위와 열대야가 이어지겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e05e274",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/MRRDEZJWMJSGKZJSG43WGYRTMY/",
+    "title": "‘비덩’ 이정진, 이영자 이상형이었다 “보면 빨려 들어가는 나쁜 남자”(남겨서 뭐하게)[순간포착]",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 이영자가 이정진을 이상형으로 꼽았다.27일 방송된 tvN STORY ‘남겨서 뭐하게’에는 배우 이정진이 출연했다.이정진은 이영자를 보자마자 살이 많이 빠졌다며 인사를 건넸다.",
+      "이영자는 이정진과 11년 전 인연이라고 설명했다.",
+      "이정진은 예능 프로그램, 장애인 유도국가대표 홍보대사를 하고 있는 근황."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0ce59b2c",
+    "category": "IT",
     "source": "연합뉴스",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728003900071",
-    "title": "트럼프, FOMC 앞 또 금리인하 압박…\"세계에서 가장 낮아야\"",
+    "url": "https://www.yna.co.kr/view/AKR20260728005000091",
+    "title": "MS \"AI로 AI 막는다\"…보안 특화한 자체 모델·플랫폼 공개",
     "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 27일(현지시간) 미국 중앙은행인 연방준비제도(Fed·연준)를 향해 다시 한번..."
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI)을 활용한 사이버 공격 우려가 커진 상황에서 마이크로소프트(MS)가 보안에 특화한 자체..."
     ],
     "chips": [
-      "#금리",
-      "#정치"
+      "#AI"
     ]
   },
   {
-    "id": "n4e3c8d9e",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/tech/2026/07/28/2026072717534184951",
-    "title": "오늘부터 갤Z폴드8 사전판매…더블 스토리지 제공",
-    "summary": [
-      "삼성전자가 '갤럭시 Z 폴드8' 시리즈와 '갤럭시 Z 플립8'의 사전 판매를 28일부터 8월3일까지 진행한다.",
-      "국내 공식 출시는 8월7일이며 사전구매시 같은 달 4일부터 제품을 받아 개통할 수 있다.",
-      "저장용량을 2배로 늘려주는 '더블스토리지'와 최대 50% 잔존가 보장, 분실보상을 담은 '뉴갤럭시 AI(인공지능) 구독클럽'을 앞세워 구매부담도 낮췄다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n407b5120",
+    "id": "n3737e8fd",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/28/2026072719450367081",
-    "title": "정성호 법무 사의 재표명 \"검찰개혁 95% 달성… 견제받지 않는 권력은 위험\"",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260728/134376188/1",
+    "title": "‘소년공 닮은꼴’ 李-룰라…李 “노동자 정체성 잃지 않을 것”",
     "summary": [
-      "\"보완수사권 폐지와 무관… 정부 결론 따를 것\" 공소청·중수청 출범 앞두고 리더십 공백 우려 정성호 법무부 장관이 사퇴 의지를 거듭 밝혔다.",
-      "검찰개혁의 큰 틀이 완성된 만큼 자신의 소명을 다했다는 취지로 말하면서도 보완수사권 폐지에 대한 반발의 성격은 아니라고 선을 그었다.",
-      "법조계에서는 공소청·중대범죄수사청 출범 준비 과정에 차질이 빚어지는 것 아니냐는 우려가 커지고 있다."
+      "‘소년공 출신’ 공통점을 가진 이재명 대통령과 루이스 이나시우 룰라 다 시우바 대통령은 27일(현지 시간) 140분간 정상회담을 통해 돈독한 우정을 확인했다.이 대통령은 이날 정상회담 후 공동언론발표에서 “내일 상파울루에 제가 방문하면 우리 대통령께서 젊은 시절에 일했던 금속노조 사무실을 방문해 볼 생각”이라며 “그곳에서 우리 대통령께서 노동자들의 현실을 잊지 않고 또 끊임없이 모든 사람들이 더 나은 삶을 살 수 있도록 노력해 왔던 그곳에서 대."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n2e89d115",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/stock/2026/07/28/2026072720111723313",
-    "title": "급락 벗어난 코스피, 실적·금리 시험대",
-    "summary": [
-      "외인 하루 2.9조 순매도 전환, 개인·기관 쌍끌이 매수로 소화 하이닉스 등 대형주 실적발표, 美·日·英 금리위크 예의주시 코스피지수가 27일 반도체주 추가 급락의 공포를 딛고 6700대로 소폭 반등했다.",
-      "외국인 매도물량을 개인·기관이 받아내면서 하방을 지지했다.",
-      "대내외 변수가 산적한 가운데 시장의 관심은 이번주에 예정된 실적·금리의 향방에 쏠린다."
-    ],
-    "chips": [
-      "#반도체",
-      "#금리"
-    ]
-  },
-  {
-    "id": "n713deaec",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/tech/2026/07/28/2026072714492585752",
-    "title": "진화한 티타늄, 주름 잡고 배터리 더 오래",
-    "summary": [
-      "삼성, 갤Z폴드8 소재 혁신 플레이트·합금필름 결합 기술 내구·유연성확보…두께 줄여 배터리 공간 재설계로 용량↑ 삼성전자가 '갤럭시Z폴드8' 시리즈에 티타늄 기반의 새로운 디스플레이와 실리콘·카본 배터리를 적용하며 또한번 혁신을 이뤘다.",
-      "화면의 주름은 물론 내구성과 두께·무게, 배터리 성능을 동시에 개선했다.",
-      "문성훈 삼성전자 MX(모바일경험)사업부 하드웨어담당 부사장은 지난 23일(현지시간) 영국 런던에서 브리핑을 통해 \"완벽한 폴더블(접히는)."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n8a18057b",
+    "id": "n06d484cd",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725086",
-    "title": "\"이건 몰랐죠?\" 맥도날드 전 직원이 밝힌 '꿀팁' 주문법 화제",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/GE4WMY3GGMYTQYTBGIZTEY3DMQ/",
+    "title": "양상국·유일한, '인기녀' 이유빈 두고 삼각관계 “환상 같은 느낌”(조선의 사랑꾼)[순간포착]",
     "summary": [
-      "[서울=뉴시스]이준형 기자 = 맥도날드의 전 직원이 공개한 '꿀팁' 주문법이 인터넷상에서 큰 화제를 모으고 있다.",
-      "26일(현지 시간) 미국 뉴욕포스트에 따르면 해당 전 직원은 틱톡에서 사람들에게 알려지지 않은 맥도날드 이용 팁들을 공유했다.",
-      "가장 먼저 눈길을 끈 것은 갓 튀겨낸 신선한 감자튀김을 받는 방법이다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 유일한이 연애 초보 같은 모습을 보였다.27일 방송된 TV조선 ‘조선의 사랑꾼’에는 육캔두잇 멤버들이 미팅을 하는 모습이 그려졌다.유일한과 이유빈의 데이트.",
+      "이유빈은 유일한과의 대화가 시작되자 미소를 보였다.",
+      "이유빈은 유독 긴장한 유일한에게 거짓말을 했냐고 묻는가 하면, 유일한에게 “소현 님이랑."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n24720f43",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003725518",
-    "title": "트럼프, 7월 FOMC 앞두고 \"연준 기준금리 인하해야\"",
+    "id": "n2f205aeb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/28/ZCNFWJYJABC4DKMRZPISDKTYD4/",
+    "title": "파크골프채 딱 이것만 보고 고르세요, 10만~50만원 가격대별 성능 총정리",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 연방준비제도(Fed·연준)의 기준금리 결정을 앞두고 \"금리는 인하돼야 한다\"고 압박했다.",
-      "트럼프 대통령은 27일(현지 시간) 대통령 전용기 에어포스원에서 취재진에 연준의 금리정책과 관련해 이같이 말했다.",
-      "그는 \"이 나라의 국내총생산(GDO)은 8%, 9%, 10%, 12%까지 (성장)될 수 있다."
-    ],
-    "chips": [
-      "#금리",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4dffd536",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026072804073329443",
-    "title": "美 국무부 차관보 \"정전협정은 한미동맹의 출발점\"",
-    "summary": [
-      "마이클 디솜브레 미국 국무부 동아시아태평양 담당 차관보는 27일(현지시간) 한국전쟁 정전협정 73주년을 맞아 정전협정이 한미동맹의 출발점이었다며 동맹의 중요성을 강조했다.",
-      "디솜브레 차관보는 이날 오전 미국 워싱턴DC 한국전쟁기념공원에서 열린 정전협정 73주년 기념행사에서 \"1953년 7월 27일은 적대행위의 종식만을 의미하지 않는다\"며 \"공동의 희생으로 지켜낸 지속적인 한미동맹이 탄생한 날이기도 하다\"고 말했다."
+      "파크골프채 딱 이것만 보고 고르세요, 10만~50만원 가격대별 성능 총정리."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9de3fa5d",
+    "id": "n89879d5e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728001151071",
-    "title": "트럼프 \"이란과 합의 가능성 꽤 있어…실패시 다시 군사행동\"(종합)",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728005600072",
+    "title": "토론토 美영사관에 4개월만에 또 총격…인명피해는 없어",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 27일(현지시간) 이란과 협상을 진행 중이며 합의 성사 가능성이 있다고 밝혔다..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n37737428",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725389",
-    "title": "대구·경북, 폭염중대경보 속 찜통더위…낮 최고 34~38도",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 28일 대구·경북은 가끔 구름 많은 가운데 소나기가 오는 곳이 있을 것으로 예상된다.",
-      "대구지방기상청은 이날 \"경북중·북부에 늦은 새벽부터 오후 사이 곳에 따라 5~40㎜의 소나기가 내리겠다\"고 예보했다.",
-      "아침 최저기온은 25~26도(평년 20~24도), 낮 최고기온은 34~38도(평년 28~33도)로 예측된다."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 27일(현지시간) 캐나다 토론토 시내에 위치한 미국 영사관 건물에 총격이 발생, 경찰이 수사 중이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n10b22a3c",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003725521",
-    "title": "이 대통령 \"한-남미 무역협정 미룰 수 없어…브라질과 핵심광물·공급망 협력 확대\"(종합2보)",
+    "id": "nad731fe9",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728006700061",
+    "title": "분당서 택시가 오피스텔 건물 들이받아…70대 기사 사망",
     "summary": [
-      "[브라질리아=뉴시스] 김지은 기자 = 브라질을 국빈 방문한 이재명 대통령은 27일(현지시간) 루이스 이나시우 룰라 다시우바 브라질 대통령과 정상회담을 하고 올해를 '한-브라질 전략적 동반자 관계' 도약의 원년으로 선포하고 핵심광물과 공급망 협력 등을 강화하기로 했다.",
-      "이 대통령은 이날 한-브라질 정상회담 직후 브라질 대통령 관저인 아우보라다 궁에서 열린 공동 언론 발표에서 \"브라질은 세계 11위의 경제 대국이자 글로벌 공급망과 식량안보의 핵심축."
+      "(성남=연합뉴스) 강영훈 기자 = 28일 오전 1시 9분께 경기 성남시 분당구에서 택시가 오피스텔 건물 벽면을 들이받는 사고가 났다."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd8ab6dcf",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260728/134376244/1",
+    "title": "한-브라질 136분 정상회담…‘우주·핵심광물·공급망’ 전방위 밀착",
+    "summary": [
+      "한국과 브라질은 27일(현지시간) 이재명 대통령의 국빈방문 계기 루이스 이나시우 룰라 다시우바 대통령과 정상회담을 통해 7건의 양해각서(MOU)를 체결했다.양 정상은 경제·안보·우주항공·산업·교류 협력 전반을 아우르는 공동언론발표를 통해 메르코수르(남미공동시장) 무역협정(TA) 협상 재개에도 뜻을 모았다.",
+      "양국은 김용범 청와대 정책실장과 제랄도 알키민 브라질 부통령 간 핫라인 실무그룹을 개설해 정상 간 합의 구체화에 나설 계획이다.이 대통령은."
+    ],
+    "chips": [
+      "#정책",
       "#수출",
       "#정치"
     ]
   },
   {
-    "id": "naebc08a6",
+    "id": "nad55dd1e",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728003000071",
-    "title": "美차관보 \"한국전 희생 없었다면…\" 정전협정 기념식서 '울먹'",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260728/134376241/1",
+    "title": "김혜경 여사, 브라질 영부인과 예술작품 관람…“양국 매우 닮아있음 느껴”",
     "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 마이클 디솜브레 미국 국무부 동아시아태평양 담당 차관보는 한국전쟁 정전협정 73주년인 27일(현지시간) 정..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n03d36d32",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728003500079",
-    "title": "\"네타냐후, 트럼프와 회담 위해 가자 '국제안정화군' 배치 강행\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 베냐민 네타냐후 이스라엘 총리가 도널드 트럼프 미국 대통령과의 정상회담을 성사하기 위해 안보 분야 각료회의..."
+      "이재명 대통령의 부인 김혜경 여사가 27일(현지시간) 루이스 이나시우 룰라 다 시우바 브라질 대통령의 부인 잔자 여사와 브라질 예술작품 전시를 함께 관람하며 양국의 문화적 공감대에 관한 대화를 나눴다.안귀령 청와대 부대변인은 서면브리핑을 내고 김 여사와 잔자 여사가 이날 오전 브라질리아에 위치한 연방회계감사원 문화센터에서 브라질 전통 문화를 모티브로 한 예술작품을 함께 관람했다고 밝혔다.김 여사는 브라질 전통 축제에서 영감을 받은 작품들을 잔자."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n5aac3a52",
+    "id": "nae837268",
     "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/international/us/2026/07/28/TQZCCSJO65CGRIJ6YCXXHCAMVA/",
-    "title": "트럼프 “이란 지도부가 회담 요청… 실패 시 매우 강력한 군사 행동”",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260728/134376237/1",
+    "title": "포옹·팔짱에 손하트…소년공 출신 한-브라질 정상 ‘브로맨스 케미’",
     "summary": [
-      "트럼프 “이란 지도부가 회담 요청… 실패 시 매우 강력한 군사 행동”."
+      "브라질을 국빈 방문한 이재명 대통령이 루이스 이나시우 룰라 다 시우바 브라질 대통령과의 정상회담에서 시종일관 화기애애한 모습을 보이며 정상 간 우애를 다졌다.이 대통령은 이날 브라질리아 대통령 관저인 아우보라다 궁에서 룰라 대통령과 136분간 정상회담을 가졌다.",
+      "지난 2월 룰라 대통령의 방한 이후 5개월 만의 정상회담이자 지난달 프랑스에서 열린 주요7개국(G7) 정상회의에서의 만남 이후 한 달여만의 정상 간 재회다.정상회담에 앞서 진행된 공식환."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n4bf70ddf",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/07/28/5TAFDHTLVZC6NGD33VW2IU2HHY/",
-    "title": "각별한 우정 표현한 李·룰라 “노동자 정체성 잃지말자”",
-    "summary": [
-      "각별한 우정 표현한 李·룰라 “노동자 정체성 잃지말자”."
-    ],
+    "id": "n27485ea9",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003725527",
+    "title": "[속보]뉴욕증시, 반도체주 하락 속 혼조세 마감…다우 0.5%↑·나스닥 0.18%↓",
+    "summary": [],
     "chips": [
-      "#뉴스"
+      "#반도체"
     ]
   },
   {
-    "id": "nd40c3112",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/2026/07/28/J7AYU2LOENEIRHQ6G66MRQVE4A/",
-    "title": "통영시장 12시간 밤샘 수개표... 44표차→38표차, 이변은 없어",
+    "id": "n620bb05a",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725090",
+    "title": "\"8000억 풀린다\"…삼전 행사에 전통시장도 '들썩'",
     "summary": [
-      "통영시장 12시간 밤샘 수개표... 44표차→38표차, 이변은 없어."
+      "[서울=뉴시스]강은정 기자 = '국민과 함께, 삼성전자 감사 페스티벌' 효과로 8000억원 규모의 온누리상품권이 풀릴 것으로 예상되는 가운데, 전국 전통시장·골목상권 소상공인들은 \"구원투수가 나타났다\"며 반색하고 있다.",
+      "28일 가전업계 등에 따르면 삼성전자는 지난 6월 8일부터 4주간 구매액의 20%를 디지털 온누리상품권으로 지급하는 행사를 진행했다.",
+      "삼성전자가 올해 5월 노사합의 타결 직후 내놓은 '5년간 5조원 사회 공헌 약속'의 후속 조치."
     ],
     "chips": [
-      "#뉴스"
+      "#삼성전자"
     ]
   },
   {
     "id": "n0a09e733",
     "category": "사회",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026072792001",
     "title": "룰라 만난 이 대통령 \"우주·핵심광물 공급망 협력\"",
     "summary": [
@@ -594,47 +567,63 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3cb32d1b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/07/28/JR63U7EEVRADJHARDLZJBSAJZM/",
-    "title": "한달만에 다시 만난 李·룰라 “한국·남미 FTA 서두르자”",
-    "summary": [
-      "한달만에 다시 만난 李·룰라 “한국·남미 FTA 서두르자”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n21c245e1",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://view.asiae.co.kr/article/2026072723430472880",
-    "title": "李 \"2026년 한·브라질 관계 도약 원년 선포\"…핵심광물·방산·우주 협력 넓힌다",
-    "summary": [
-      "브라질을 국빈 방문 중인 이재명 대통령은 27일(현지시간) 루이스 이나시우 룰라 다시우바 브라질 대통령과 정상회담을 하고 올해를 '한·브라질 전략적 동반자 관계 도약의 원년'으로 선포했다.",
-      "양국 정상은 핵심 광물 공급망과 에너지·방산·항공우주·반도체 등 경제안보와 미래 첨단산업 전반으로 협력을 확대하기로 했다.",
-      "이 대통령은 이날 브라질리아 아우보라다궁에서 정상회담을 마친 뒤 공동언론발표를 통해 \"지난 2월 '."
-    ],
-    "chips": [
-      "#반도체",
-      "#정치"
-    ]
-  },
-  {
     "id": "n64744540",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153733",
     "title": "그라비티, 라그나로크 후속작 中 판호 획득...MMORPG 시장 재도전",
     "summary": [
       "그라비티가 중국 시장 공략을 위한 신작 라인업을 확대했다.",
       "대표 IP '라그나로크'를 활용한 차세대 MMORPG가 중국 서비스 허가를 획득하면서다.",
       "그라비티는 MMORPG 신작 '선경전설: 수호영항적애2(중문명 仙境传说：守护永恒的爱2)'가 중국 국가신문출판서로부터 외자 판호를 획득했다고 27일 밝혔다.중국 국가신문출판서는 지난 23일 공식 홈페이지를 통해 외자 판호 승인 게임 명단을 공개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n352a5835",
+    "category": "경제",
+    "source": "테크M",
+    "time": "3시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153732",
+    "title": "은행권 주담대 7.5% 시대…갈아타기도 막혔다, 차주 '이중고'",
+    "summary": [
+      "은행권 주택담보대출 금리가 연 7.5%를 넘어선 가운데 대출 갈아타기마저 사실상 막히면서 차주들의 이자 부담이 빠르게 커지고 있다.",
+      "한국은행의 추가 기준금리 인상 가능성이 여전한 데다 은행권의 대출 총량 관리까지 겹치면서 하반기 가계부채 리스크가 한층 확대될 것이란 우려가 나온다.27일 금융권에 따르면 KB국민·신한·하나·우리·NH농협은행 등 5대 시중은행의 주택담보대출 금리는 연 4.84~7.57% 수준으로 형성됐다."
+    ],
+    "chips": [
+      "#금리",
+      "#한은"
+    ]
+  },
+  {
+    "id": "nc8e042a7",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/202607289209i",
+    "title": "엔비디아 \"보증 설테니 우리 제품 사라\"…유가 하락에도 반도체주 약세[박신영의 개장전 요것만]",
+    "summary": [
+      "엔비디아 \"보증 설테니 우리 제품 사라\"…유가 하락에도 반도체주 약세[박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "na75a1b93",
+    "category": "IT",
+    "source": "테크M",
+    "time": "4시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153731",
+    "title": "NHN 품 안긴 이노그리드...이테크시스템도 100억 쐈다",
+    "summary": [
+      "NHN클라우드 자회사로 편입된 이노그리드에 이테크시스템이 100억원을 투자한다.",
+      "현재의 최대주주가 경영 전반의 방향키를 쥐고 이전 최대주주가 사업 파트너로 참여하는 구조다.",
+      "27일 금융감독원 전자공시시스템에 따르면 이노그리드는 지난 24일 이테크시스템을 대상으로 99억9999만원 규모의 제3자배정 유상증자를 추진한다고 공시했다."
     ],
     "chips": [
       "#뉴스"
@@ -646,19 +635,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "정치",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   }
