@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-27 17:31:53
+// 마지막 업데이트: 2026-07-27 18:29:46
 window.NEWS_DB = [
   {
     "id": "nad2051b5",
     "category": "IT",
     "source": "블로터",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMFBUdGJQMWJ3TTZIeFZ3T01oTnZudlVwSjNscHRqUU54WDZ1VzAwS1hVR3hmSkRUcnoybGl0R0lGWU5nY0xIeVkyN05yOEhIb20yNERFelFvTW1fRkJ5SXF6Z0tfVzRh0gFsQVVfeXFMUFlRbWY3bUwtdTVRUjFKYUREYWpLb0hhMmxHN2owcjRyeTF1T3BvVnVFZFJHbHVmYUNxbkFkX3ZiRndCRUlObmNobDYzbFNsZ1lpUGY5RFJNdm1XSGNkc0hhSXp5by04bVpHNjFa?oc=5",
     "title": "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n586a0cf7",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
     "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "na55a2983",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01V3pWcmw4emZJTzc3cXYyX0lWOFpWcjFiYjZ2ZE5lRXRLUm1aSkpoRzBQMXpBdW9GbmFWQkZNb2hHbEoxeVVTYnh3b1I2TUUtYWxpN0QweHZOQjU3aGlpSmVvckZLYUlMbkR5ZWVhRFdqbVE?oc=5",
     "title": "SK 현대차 네이버 포함 한국 기업과 엔비디아 협력은 '윈-윈' 외신 평가, \"AI 시장 판도 바꾼다\"",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n27e32122",
     "category": "IT",
     "source": "위클리서울",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUmduZDdDWmtGOC12MTVPT09IZEZmUWhCMUh4TERrQnVLeWxmakhDN1l6eUdzNDc0RDZTQUVOLS0td2ZLUjQ2NzA0WlJUWkFyVENrYjhXdzlic0tzZXRaRXc0Z0xwRXUxc25MNw?oc=5",
     "title": "‘9500억달러’ 반도체 빅딜…삼성은 2나노, SK는 HBM 승부",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "n4caae55c",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zc3B3SEp4bllzMUtTbmN5bzNuY2tvd3FyRXdseXk3X0RKM3JvVVgyekk5a1pULXJLdHVURUZrQ2dNTVlYMElqTWduVHNJaDZOZ1pHNzlramNMRFNrU3FMVE9pUW94cWdf?oc=5",
     "title": "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\"",
     "summary": [
@@ -81,7 +81,7 @@ window.NEWS_DB = [
     "id": "n3c6395fa",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2x4cFBWUmR2R21uMVhjdkwyNHZyMS0zTTZPd2tBcGtPSTNXbmU1eDJLamVNUTQ5NFJjRUtFOWRmR0N1NlpKeGdpNURlYVZwX2NSODluMUhhcUJxNUNQbmRpaWxQSjhBYnpIeFRaaGxfUXE4Ml9LbVp1QTl3NDVMdzZITFdadDQ1?oc=5",
     "title": "엔비디아-SK그룹, 5000억 달러 AI 동맹 결성… 글로벌 반도체 10배 팽창 전망",
     "summary": [
@@ -318,12 +318,100 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n359cac34",
+    "id": "n9f08da3b",
     "category": "사회",
     "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727154151081",
+    "title": "프랑스·스페인 산불 확산세 '주춤'…폭염 앞두고 진화 속도전(종합)",
+    "summary": [
+      "(파리·런던=연합뉴스) 송진원 김지연 특파원 = 6일째 맹렬히 번진 프랑스 남서부 권역의 산불이 27일(현지시간) 확산세를 일시 멈췄으나 28일..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naf1c7fa0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003725512",
+    "title": "이 대통령 \"노동자 정체성 잃지 않을 것\"…룰라 \"교육·노동·민주주의 국가 운명 바꿔\"(종합)",
+    "summary": [
+      "[브라질리아·서울=뉴시스] 김지은 김경록 기자 = 브라질을 국빈 방문한 이재명 대통령은 27일(현지시간) 루이스 이나시우 룰라 다시우바 브라질 대통령과 만나 '소년공 출신'이라는 공통점을 거론하며 \"저나 룰라 대통령께서 노동자의 정체성을 잃지 않고 끊임없이 더 많은 사람의 더 나은 삶을 위해서 함께 노력했으면 좋겠다\"고 밝혔다.",
+      "이 대통령은 이날 오후 한-브라질 정상회담 직후 브라질 대통령 관저인 아우보라다 궁에서 열린 공동 언론 발표 서두에서."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n5788da68",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003724966",
+    "title": "\"30년 헌신했는데\"…상속받은 땅 몰래 판 남편의 한마디",
+    "summary": [
+      "[서울=뉴시스]이준형 기자 = 재혼 후 30년 넘게 가정에 헌신해 온 아내가 남편의 일방적인 재산 처분으로 이혼 위기에 처한 사연이 전해졌다.",
+      "최근 JTBC '사건반장'은 30년간 친아버지처럼 모신 새아버지로부터 배신을 당했다는 40대 제보자 A씨의 억울한 사연을 공개했다.",
+      "A씨에 따르면 제보자의 어머니는 어릴 적 남편을 여읜 후 미용실을 운영하며 두 딸을 악착같이 키워왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5aac3a52",
+    "category": "사회",
+    "source": "조선일보",
     "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727164600001",
-    "title": "李대통령 \"브라질, 공급망 핵심축…韓-메르코수르 무역협정 중요\"",
+    "url": "https://www.chosun.com/international/us/2026/07/28/TQZCCSJO65CGRIJ6YCXXHCAMVA/",
+    "title": "트럼프 “이란 지도부가 회담 요청… 실패 시 매우 강력한 군사 행동”",
+    "summary": [
+      "트럼프 “이란 지도부가 회담 요청… 실패 시 매우 강력한 군사 행동”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4bf70ddf",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/07/28/5TAFDHTLVZC6NGD33VW2IU2HHY/",
+    "title": "각별한 우정 표현한 李·룰라 “노동자 정체성 잃지말자”",
+    "summary": [
+      "각별한 우정 표현한 李·룰라 “노동자 정체성 잃지말자”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd40c3112",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/national/2026/07/28/J7AYU2LOENEIRHQ6G66MRQVE4A/",
+    "title": "통영시장 재검표 이변 없었다… 강석주 시장 당선 확인",
+    "summary": [
+      "통영시장 재검표 이변 없었다… 강석주 시장 당선 확인."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n91dd6ed2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727164651001",
+    "title": "李대통령 \"브라질, 공급망 핵심축…韓-메르코수르 무역협정 중요\"(종합)",
     "summary": [
       "(브라질리아=연합뉴스) 임형섭 황윤기 기자 = 브라질을 국빈 방문한 이재명 대통령은 27일(현지시간) \"통상 환경의 불확실성이 커지는 시대에 한..."
     ],
@@ -334,40 +422,99 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7b88455a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728001900085",
-    "title": "젤렌스키 \"러, 10월초 최대 50만명 동원할것…北 3만 추가파병\"",
+    "id": "n4aaae415",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003724875",
+    "title": "\"HBM은 괜찮지만 낸드는 부담…호재 겹치면 반도체주 반등 가능\"",
     "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 러시아가 오는 9월 총선 이후 30만∼50만명 규모의 대규모 동원령을..."
+      "[서울=뉴시스]이지우 인턴 기자 = 반도체 업종이 최근 조정을 받고 있지만 인공지능(AI) 산업 성장에 따라 중장기 전망은 여전히 긍정적이라는 분석이 나왔다.",
+      "27일 구독자 303만명 유튜브 채널 '삼프로TV' 영상에 출연한 소현철 상지대학교 국가안보융합학과 외래교수는 변동성이 심한 시장이지만 반도체주는 향후 반등 가능성이 존재한다고 평가했다.",
+      "소 교수는 \"우리 실적을 결정하는 독립 변수는 미국 하이퍼스케일러의 투자가 어떻게 될 것이냐는 점\"이."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0a09e733",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "20분 전",
+    "url": "https://www.hankyung.com/article/2026072792001",
+    "title": "룰라 만난 이 대통령 \"우주·핵심광물 공급망 협력\"",
+    "summary": [
+      "룰라 만난 이 대통령 \"우주·핵심광물 공급망 협력\"."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nf1a89618",
+    "id": "n5c64a83b",
     "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/07/28/GMYWGYRUGY4DEMRTGBTGEOLGMU/",
-    "title": "韓-브라질, 희토류 공급망 손잡는다… 우주 협력도 속도",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727166651001",
+    "title": "李대통령, 룰라와 '손하트'로 우정 과시…140분간 정상회담(종합)",
     "summary": [
-      "한국이 브라질과 희토류 공급망 협력을 강화한다.",
-      "우주산업 분야 협력에도 속도를 낸다.",
-      "청와대 등에 따르면 정부는 27일(현지 시각) 이재명 대통령의 브라질 국빈 방문을 계기로 브라질 정부와 공급망 협력 등을 담은 양해각서(MOU) 7건을 체결했다고 발표했다."
+      "(브라질리아=연합뉴스) 임형섭 황윤기 기자 = 이재명 대통령은 27일(현지시간) 한 달 만에 재회한 루이스 이나시우 룰라 다시우바 브라질 대통령..."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "nc8ee7b62",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728002700075",
+    "title": "머스크 \"난 前조만장자\" 자산 반토막…스페이스X 급락에 '폭삭'",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 스페이스X와 테슬라 주가가 연일 하락하면서 두 회사를 이끄는 일론 머스크의 재산도 한 달여 만에 반토..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1a5dd979",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003724693",
+    "title": "\"8평 반지하가 월세 50만원\"…서울 월세의 현실",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 이우경인턴기자 = 최근 서울·수도권을 중심으로 월세가 가파르게 오르고 전세사기 여파까지 이어지면서 청년층의 주거 불안이 심화하는 가운데, 인기 유튜브 채널 '워크맨'이 다룬 서울 월세 탐방 영상이 공감을 얻고 있다.",
+      "지난 22일 유튜브 채널 '워크맨'에서 공개된 '사회초년생 살만한 서울 월세 현실' 영상에서는 걸그룹 프로미스나인의 멤버들이 일일 공인중개보조원으로 변신해 사회초년생 의뢰인의 자취방 구하기에 나섰다."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "n7597b11e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/culture-life/travel/2026/07/28/Y32XUXAPKJBTTEXQQQGL7S3XZY/",
+    "title": "이소룡이 숨어서 가족들과 밥먹던 곳… 식민지 홍콩의 역사 품은 지미스 키친",
+    "summary": [
+      "이소룡이 숨어서 가족들과 밥먹던 곳… 식민지 홍콩의 역사 품은 지미스 키친."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n64744540",
     "category": "IT",
     "source": "테크M",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153733",
     "title": "그라비티, 라그나로크 후속작 中 판호 획득...MMORPG 시장 재도전",
     "summary": [
@@ -380,30 +527,15 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne2c83c05",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725477",
-    "title": "이 대통령 \"한-브라질 전략적 동반자 관계' 도약 원년…핵심광물·공급망 협력 확대\"",
-    "summary": [
-      "[브라질리아=뉴시스] 김지은 기자 = 브라질을 국빈 방문한 이재명 대통령은 27일(현지시간) 루이스 이나시우 룰라 다시우바 브라질 대통령과 정상회담을 하고 올해를 '한-브라질 전략적 동반자 관계' 도약의 원년으로 선포하고 핵심광물과 공급망 협력 등을 강화하기로 했다.",
-      "이 대통령은 이날 한-브라질 정상회담 직후 브라질 대통령 관저인 아우보라다 궁에서 열린 공동 언론 발표에서 \"브라질은 세계 11위의 경제 대국이자 글로벌 공급망과 식량안보의 핵심축."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n76804823",
     "category": "사회",
     "source": "동아일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260728/134375980/2",
     "title": "李 “韓-남미 무역협정 미룰 수 없어…브라질과 공급망 협력 확대”",
     "summary": [
-      "이재명 대통령이 27일(현지 시간) 루이스 이나시우 룰라 다 시우바 브라질 대통령과 정상회담 직후 “우리는 통상 환경의 불확실성이 커지는 시대일수록 한국과 메르코수르(남아메리카 공동시장) 간 무역협정은 더 이상 미룰 수 없는 중요한 과제라는 것에 깊이 공감했다”고 밝혔다.",
-      "이와 함께 “양국 기업과 기관 간 핵심 광물 공급망의 전 주기에 걸친 협력 확대 필요성에 공감했다”고도 강조했다.이 대통령은 이날 브라질리아에서 열린 정상회담 후 공동언론발표."
+      "이재명 대통령이 27일(현지 시간) 루이스 이나시우 룰라 다 시우바 브라질 대통령과 정상회담 직후 “우리는 통상 환경의 불확실성이 커지는 시대일수록 한국과 메르코수르(남아메리카 공동시장) 간 무역협정은 더이상 미룰 수 없는 중요한 과제라는 것에 깊이 공감했다”고 밝혔다.",
+      "이와 함께 “양국 기업과 기관 간 핵심 광물 공급망의 전 주기에 걸친 협력 확대 필요성에 공감했다”고도 강조했다.룰라 대통령은 “보호주의와 양극화가 높아지고 있는 와중에도 양극."
     ],
     "chips": [
       "#수출",
@@ -415,7 +547,7 @@ window.NEWS_DB = [
     "id": "nc7b78743",
     "category": "사회",
     "source": "동아일보",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260728/134376169/1",
     "title": "“7만원 가까이 썼는데 커피 더 시켜라”…카페 ‘1인 1음료’ 갑론을박",
     "summary": [
@@ -429,7 +561,7 @@ window.NEWS_DB = [
     "id": "n352a5835",
     "category": "경제",
     "source": "테크M",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153732",
     "title": "은행권 주담대 7.5% 시대…갈아타기도 막혔다, 차주 '이중고'",
     "summary": [
@@ -445,7 +577,7 @@ window.NEWS_DB = [
     "id": "nc8e042a7",
     "category": "IT",
     "source": "한국경제",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607289209i",
     "title": "엔비디아 \"보증 설테니 우리 제품 사라\"…유가 하락에도 반도체주 약세[박신영의 개장전 요것만]",
     "summary": [
@@ -457,55 +589,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc2e27f69",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "36분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/28/MEYGMNZZGZSTINBQGJRDGZRWGI/",
-    "title": "트럼프 “이란과 심도 있는 협상 중… 실패 시 군사행동”",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 이란과의 외교적 합의 실패 시 강력한 군사행동에 나설 수 있다고 강조했다.",
-      "27일(현지 시각) 미국 온라인 매체 악시오스에 따르면 트럼프 대통령은 이날 악시오스 인터뷰에서 “이란과 매우 심도 있는 협상을 진행 중”이라면서도 “협상이 성과를 내지 못한다면, 우리는 매우 강력한 군사행동으로 돌아갈 것”이라고 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8e51b287",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "36분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003725506",
-    "title": "트럼프 \"이란과 협상 중…결렬 시 강력한 군사작전 재개\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 도널드 트럼프 미국 대통령은 이란과의 외교 협상에 기회를 주기 위해 군사 공격을 일시 중단했지만, 협상이 결렬될 경우 군사 작전을 다시 확대할 수 있다고 밝혔다.",
-      "트럼프 대통령은 27일(현지 시간) 액시오스와의 인터뷰에서 \"이란과 심도 있는 대화를 진행 중\"이라며 \"대화가 결실을 맺지 못하면 강력한 군사 행동에 다시 나설 것\"이라고 말했다.",
-      "그는 외교에 얼마나 시간을 줄 것이냐는 질문에는 \"시간이 많지 않다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n217ef737",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727164500001",
-    "title": "우주발사장 이용 간소화·공급망 협력…브라질과 MOU 7건 체결",
-    "summary": [
-      "(브라질리아=연합뉴스) 임형섭 황윤기 기자 = 정부는 27일(현지시간) 이재명 대통령의 국빈 방문을 계기로 브라질 정부와 우주 산업 및 공급망 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n7e582c1c",
     "category": "IT",
     "source": "동아일보",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260728/134375983/2",
     "title": "韓-브라질, 공급망·에너지 등 MOU 7건 체결…경제협력 강화",
     "summary": [
@@ -519,72 +606,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n977e093b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "44분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/28/GA2DINZXMYZGKOBSGVRDCYTEG4/",
-    "title": "1타 기자들의 온라인 현피...로마노-플레텐베르크 ‘가짜뉴스’ 공개 난타전…“팔로워 늘리는 법 묻더니” 반격",
-    "summary": [
-      "[OSEN=이인환 기자] 유럽 이적시장 정보를 놓고 경쟁해온 파브리치오 로마노와 플로리안 플레텐베르크가 ‘가짜뉴스’라는 표현을 꺼내며 공개 난타전을 벌였다.",
-      "과거 사적인 메시지와 삭제된 보도, 출처 표기 문제까지 한꺼번에 튀어나왔다.바이에른 뮌헨 전문 매체 ‘바바리안 풋볼 워크스’는 27일(한국시간) 두 기자가 X에서 충돌한 전 과정을 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13d04dc1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "48분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725468",
-    "title": "한-브라질, 정상회담 계기 항공우주·에너지 등 MOU 7건 체결",
-    "summary": [
-      "[브라질리아·서울=뉴시스]이인준 김지은 기자 = 한국과 브라질은 27일(현지시간) 이재명 대통령 국빈 방문을 계기로 우주, 체육 등 분야에서 총 7건의 양해각서(MOU)에 서명했다.",
-      "양국 정부는 이날 오후 이 대통령과 루이스 이나시우 룰라 다시우바 브라질 대통령이 임석한 가운데 서명식을 개최했다.",
-      "양측은 우주, 체육, 교육, 에너지, 산업기술 등 5건의 MOU에 서명하고 영화, 사이버보안 협력 등 2건은 별도 서명 후 체결 사실을 발표했다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb8704a13",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "56분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/28/MM2TKNLDGI2TQMZQMEYTQNBRMY/",
-    "title": "이럴수가...伊 레전드, 러 도박업체 연루 의혹 '대표팀 감독 후보 제외'",
-    "summary": [
-      "[스포츠조선 박상경 기자] 차기 이탈리아 대표팀 사령탑 후보로 지목된 안드레아 피를로 감독이 러시아 베팅업체와 연루됐다는 충격적 의혹이 제기됐다.",
-      "영국 BBC는 27일(한국시각) '피를로 감독이 러시아 베팅회사와 연루 의혹으로 며칠 간 논란을 겪은 뒤 후보군에서 사퇴하겠다는 뜻을 드러냈다'고 전했다.",
-      "2006 독일월드컵 우승 멤버인 피를로 감독은 2017년."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndf0fccd6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728000200087",
-    "title": "콜롬비아 대선 당선인 \"쿠바·니카라과와 단교할 것\"",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 아벨라르도 데 라 에스프리에야 콜롬비아 대통령 당선인은 오는 8월 7일 취임에 맞춰 쿠바, 니카라과와의..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "na75a1b93",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153731",
     "title": "NHN 품 안긴 이노그리드...이테크시스템도 100억 쐈다",
     "summary": [
@@ -600,7 +625,7 @@ window.NEWS_DB = [
     "id": "n0fbcfa6d",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153727",
     "title": "AI 성장 동력 삼은 SK쉴더스, 국내외 해킹대회서 두각",
     "summary": [
@@ -610,37 +635,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
-  },
-  {
-    "id": "n6f1d917b",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607289210i",
-    "title": "엔비디아의 오픈AI 지급보증에 다시 불거진 'AI순환금융'",
-    "summary": [
-      "엔비디아의 오픈AI 지급보증에 다시 불거진 'AI순환금융'."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nab559c8a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260728/134376006/2",
-    "title": "李-룰라, 한 달 만에 재회하며 포옹…브라질 국빈 방문 시작",
-    "summary": [
-      "브라질을 방문 중인 이재명 대통령은 27일(현지 시간) 브라질리아에서 열린 공식 환영식에 참석하며 브라질 국빈 방문 일정을 본격적으로 시작했다.",
-      "이 대통령과 루이스 이나시우 룰라 다 시우바 브라질 대통령은 지난달 G7(주요 7개국) 정상회의 이후 약 한 달 만에 브라질에서 재회했다.이 대통령과 김혜경 여사는 이날 오전 브라질리아 대통령관저 아우보라다 궁에서 룰라 대통령 부부의 영접을 받았다.",
-      "이 대통령은 검은 정장에 파란색, 흰색, 빨간색이 교."
-    ],
-    "chips": [
-      "#정치"
-    ]
   }
 ];
 
@@ -648,9 +642,9 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "정치",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
@@ -661,8 +655,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
