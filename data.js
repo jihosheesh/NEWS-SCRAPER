@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-27 13:52:29
+// 마지막 업데이트: 2026-07-27 14:57:59
 window.NEWS_DB = [
   {
     "id": "nad2051b5",
     "category": "IT",
     "source": "블로터",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMFBUdGJQMWJ3TTZIeFZ3T01oTnZudlVwSjNscHRqUU54WDZ1VzAwS1hVR3hmSkRUcnoybGl0R0lGWU5nY0xIeVkyN05yOEhIb20yNERFelFvTW1fRkJ5SXF6Z0tfVzRh0gFsQVVfeXFMUFlRbWY3bUwtdTVRUjFKYUREYWpLb0hhMmxHN2owcjRyeTF1T3BvVnVFZFJHbHVmYUNxbkFkX3ZiRndCRUlObmNobDYzbFNsZ1lpUGY5RFJNdm1XSGNkc0hhSXp5by04bVpHNjFa?oc=5",
     "title": "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n586a0cf7",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
     "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "na55a2983",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01V3pWcmw4emZJTzc3cXYyX0lWOFpWcjFiYjZ2ZE5lRXRLUm1aSkpoRzBQMXpBdW9GbmFWQkZNb2hHbEoxeVVTYnh3b1I2TUUtYWxpN0QweHZOQjU3aGlpSmVvckZLYUlMbkR5ZWVhRFdqbVE?oc=5",
     "title": "SK 현대차 네이버 포함 한국 기업과 엔비디아 협력은 '윈-윈' 외신 평가, \"AI 시장 판도 바꾼다\"",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n27e32122",
     "category": "IT",
     "source": "위클리서울",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUmduZDdDWmtGOC12MTVPT09IZEZmUWhCMUh4TERrQnVLeWxmakhDN1l6eUdzNDc0RDZTQUVOLS0td2ZLUjQ2NzA0WlJUWkFyVENrYjhXdzlic0tzZXRaRXc0Z0xwRXUxc25MNw?oc=5",
     "title": "‘9500억달러’ 반도체 빅딜…삼성은 2나노, SK는 HBM 승부",
     "summary": [
@@ -63,10 +63,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n4caae55c",
+    "category": "IT",
+    "source": "녹색경제신문",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zc3B3SEp4bllzMUtTbmN5bzNuY2tvd3FyRXdseXk3X0RKM3JvVVgyekk5a1pULXJLdHVURUZrQ2dNTVlYMElqTWduVHNJaDZOZ1pHNzlramNMRFNrU3FMVE9pUW94cWdf?oc=5",
+    "title": "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\"",
+    "summary": [
+      "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\" 녹색경제신문."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "n3c6395fa",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2x4cFBWUmR2R21uMVhjdkwyNHZyMS0zTTZPd2tBcGtPSTNXbmU1eDJLamVNUTQ5NFJjRUtFOWRmR0N1NlpKeGdpNURlYVZwX2NSODluMUhhcUJxNUNQbmRpaWxQSjhBYnpIeFRaaGxfUXE4Ml9LbVp1QTl3NDVMdzZITFdadDQ1?oc=5",
     "title": "엔비디아-SK그룹, 5000억 달러 AI 동맹 결성… 글로벌 반도체 10배 팽창 전망",
     "summary": [
@@ -76,22 +91,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n0b5690bb",
-    "category": "IT",
-    "source": "데일리인베스트",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZjRjM0hyMjlKWDB3Tkk1RzlnampsNWtWTk43LVAwMHRySDRTbnU0N05xcGFZVFVZWk1jMUZPWU1Ld3NIWTY1SU1BUno4azFGb1JYaHNpN1dwNEJ6aWJ6ck1OTTV4RXh3TlpB0gFvQVVfeXFMUFRIak9Ca1VKUmVSMGJITUxMWjBiS2FoVG5iMkstT3Jsa0I1cjcxcmk1UDlERUduLXgtd0lsbHJhYzlvVUJER2NPZVJLNFlCQkRnclBabVFveXFFZDBpR0FCSnBHLUhuMjNJbXN4UDJF?oc=5",
-    "title": "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까",
-    "summary": [
-      "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까 데일리인베스트."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -382,250 +381,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9319fbf8",
+    "id": "ndda1ef09",
     "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260727/134375821/2",
-    "title": "“캠핑의자 하나 들고 갔다가 ‘퇴거’…” 해수욕장서 무슨 일?",
-    "summary": [
-      "한 해수욕장을 찾은 이용객이 개인용 캠핑의자를 반입했다가 퇴거를 요구받았다는 사연이 전해져 논란이 일고 있다.",
-      "20일 SNS(소셜네트워크 서비스)와 온라인 커뮤니티에는 ‘영덕 경정리해수욕장에서 말 그대로 쫓겨났다’는 내용의 글이 게시됐다.",
-      "제보자는 최근 26개월 된 딸과 함께 휴가차 경북 영덕의 경정리해수욕장에 방문했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na420298e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725475",
-    "title": "젤렌스키 \"푸틴, 최대 50만명 추가 동원 준비…9월 선거 후 확대 가능\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 볼로디미르 젤렌스키 우크라이나 대통령은 러시아가 최대 50만 명 규모의 추가 병력 동원을 준비하고 있으며, 오는 9월 하원 선거 이후 동원령을 확대할 가능성이 있다고 주장했다.",
-      "27일(현지 시간) 키이우포스트 등에 따르면 젤렌스키 대통령은 우크라이나 정보기관 정보를 인용해 블라디미르 푸틴 러시아 대통령이 우크라이나 전쟁을 지속하기 위해 30만~50만 명 규모의 병력을 추가로 확보할 계획을 세우고 있다고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne55f21b4",
-    "category": "사회",
-    "source": "연합뉴스",
+    "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727165600005",
-    "title": "[세계유산위] 17개국 손님과 함께 나눈 사찰음식 한 상…\"세계는 하나의 꽃\"",
+    "url": "https://www.chosun.com/opinion/taepyeongro/2026/07/27/XQSP7MXBF5E4FPEG7IM3NR6IEI/",
+    "title": "[태평로] ‘문조털래유 해체 작전’ 실패의 조짐",
     "summary": [
-      "(부산=연합뉴스) 김예나 기자 = \"한 그릇의 음식에 담긴 우주와 생명의 이치를 함께 나누며, 우리의 삶이 서로 깊이 연결돼 있음을 되새기는 자..."
+      "[태평로] ‘문조털래유 해체 작전’ 실패의 조짐."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n074747ac",
+    "id": "n865d4834",
     "category": "사회",
-    "source": "동아일보",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026072723450276770",
+    "title": "천영기 전 통영시장, '44표 차' 선거 재검표서 영상 촬영 요청",
+    "summary": [
+      "지난 6월 3일 치러진 제9회 전국동시지방선거에서 44표 차이로 당락이 갈렸던 경남 통영시장 선거 투표에 대한 재검표가 27일 오후 경남선거관리위원회에서 시작됐다.",
+      "경남선관위는 이날 통영시선관위에 있던 통영시장선거 투표지 보관함을 경남선관위 6층 대회의실로 옮긴 뒤 재검표를 진행했다.",
+      "재검표에는 소청인인 국민의힘 천영기 전 시장과 더불어민주당 강석주 현 시장 측 대리인, 참관인, 선거관리위원 등이 참석했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n49acb9ba",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026072792017",
+    "title": "축구 친선경기 선수들 신경전 말리다…여성 심판, 뇌진탕 봉변",
+    "summary": [
+      "축구 친선경기 선수들 신경전 말리다…여성 심판, 뇌진탕 봉변."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c397a15",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/opinion/correspondent_column/2026/07/27/ZJYLGOWOAZCCZOM3T4F3MDJ3GM/",
+    "title": "[특파원 리포트] 잔치가 끝나고 남는 불편한 질문",
+    "summary": [
+      "[특파원 리포트] 잔치가 끝나고 남는 불편한 질문."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e609fa3",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/opinion/column/2026/07/27/LTVKAT54GRC4ZK3WZBU2SDIWEY/",
+    "title": "[전문기자의 시선] 호남 반도체에 웬 反美 구호… 한국은 어떻게 대응할 것인가",
+    "summary": [
+      "[전문기자의 시선] 호남 반도체에 웬 反美 구호… 한국은 어떻게 대응할 것인가."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n48d4ba86",
+    "category": "사회",
+    "source": "조선일보",
     "time": "13분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260727/134375813/1",
-    "title": "서해안고속도로 서천IC 부근서 ‘황산누출’ 사고…주민 대피",
+    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/27/T3WPDYVCEJDKTML4RV5O3YMGTA/",
+    "title": "[박길성의 소셜노트] 바다 없는 해군사관학교, ‘땅멀미’가 날 것 같다",
     "summary": [
-      "27일 오후 4시 52분께 충남 서천군 오석리 서해안고속도로 서천IC 인근을 달리던 23t 탱크로리에서 황산이 유출되는 사고가 발생했다.서천군 등에 따르면 이 사고로 다행히 인명피해는 발생하지 않았지만 해당 구간 인근의 진출입이 전면 차단됐다.신고를 받고 출동한 소방당국은 급하게 중화작업을 펼치고 있는 것으로 알려졌다.서천군은 사고가 나자 즉각 안전문자를 통해 “인근 주민들은 피부 노출을 최소화하고, 대피하길 바란다”고 알렸다.이에 따라 오후."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf650ba41",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260727/134375810/1",
-    "title": "“가려워 비볐는데”…中남성 눈에서 모낭충 1000마리",
-    "summary": [
-      "눈이 가렵고 건조하다는 이유로 반복해서 눈을 비빈 중국 남성이 눈 속에 1000마리가 넘는 모낭충이 기생해 시력 저하까지 겪는 일이 발생했다.",
-      "전문가는 눈 비비기와 위생 관리 부족이 원인이 될 수 있다고 지적했다.지난 24일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 중국 후베이성에 거주하는 36세 남성 위(余) 씨는 약 6개월 동안 눈의 불편함을 겪었다.",
-      "그는 눈이 마르고 가려우며 끈적이는 느낌이 지속되자 눈을 세게 비비거나."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb13d777e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260727/134375807/1",
-    "title": "“왜 만들었는지 아무도 모른다”…美 관광마을 아래 발견된 지하 터널",
-    "summary": [
-      "캘리포니아의 한 마을에서 발견된 지하 터널망이 화제가 됐다.26일(현지시간) 미국 캘리포니아포스트는 캘리포니아 중부 해안의 작은 마을 솔뱅의 터널을 두고 다양한 추측이 오가고 있다고 보도했다.솔뱅은 1911년 덴마크계 미국인 교육자들이 토지를 매입해 문화·교육 공동체를 조성하면서 설립됐고, 이후 덴마크의 건축양식을 본뜬 건물들이 들어섰다.",
-      "오늘날까지 잘 보존된 덴마크풍 건축물은 관광객들을 솔뱅으로 끌어들이는 주요 볼거리로 자리를 잡았다.다양한."
+      "[박길성의 소셜노트] 바다 없는 해군사관학교, ‘땅멀미’가 날 것 같다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n06936097",
+    "id": "na348fd0e",
     "category": "사회",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/27/MYZWMNBSMUYDGMZZMRSGMNTBGE/",
-    "title": "독보적인 아우라..김혜수, 50대 맞아? 난리난 드레스핏",
-    "summary": [
-      "[OSEN=김수형 기자] ‘배우 김혜수가 독보적인 비주얼로 촬영 현장을 빛냈다.김혜수는 27일 자신의 SNS에 \"#지금불륜이문제가아닙니다\"라는 해시태그와 함께 여러 장의 촬영장 비하인드 사진을 공개했다.공개된 사진 속 김혜수는 강렬한 원색 스타일링을 완벽하게 소화하며 시선을 사로잡았다.",
-      "몸매 라인이 드러나는 블루 컬러 드레스부터 화려한 그린 의상까지 자신만."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne80cbc04",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725484",
-    "title": "국힘, '尹 허위발언' 397억 반환 위기에 \"李 재판도 결론 내야\"(종합)",
-    "summary": [
-      "[서울=뉴시스]하지현 한은진 우지은 기자 = 윤석열 전 대통령이 27일 허위사실 공표에 따른 공직선거법 위반 혐의 사건 1심에서 징역형 집행유예를 선고받았다.",
-      "국민의힘은 대법원에서 형이 확정될 경우 2022년 대선 떄 보전받은 선거비용 397억원을 반환해야 하는 상황에 처했다.",
-      "국민의힘은 \"당 차원의 준비는 돼 있다\"며 \"이재명 대통령 사건 재판도 신속히 재개해 결론을 내야 한다\"고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na7781feb",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725490",
-    "title": "[속보]뉴욕증시, 美-이란 소강상태에 상승 출발…나스닥 1%↑",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb10ac351",
-    "category": "사회",
-    "source": "뉴시스",
+    "source": "아시아경제",
     "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725474",
-    "title": "[세계유산위] 범어사 찾은 세계 17개국 대표단…사찰음식으로 나눈 공존의 철학",
+    "url": "https://view.asiae.co.kr/article/2026072723373768715",
+    "title": "\"이란 외무부 '美, 스스로 판 수렁에 빠져…협상 요구 안 해'\"",
     "summary": [
-      "[부산=뉴시스] 이수지 기자 = 제48차 유네스코 세계유산위원회에 참석한 세계 각국 대표단이 천년고찰 범어사에서 한국의 국가무형유산 '사찰음식'을 함께 나누며 불교의 공존과 나눔의 철학을 체험했다.",
-      "대한불교조계종은 범어사, 한국불교문화사업단과 함께 27일 부산 범어사 선문화체험관에서 세계유산위원회 개최를 기념하는 사찰음식 만찬을 열었다.",
-      "이날 만찬에는 일본, 중국, 태국, 말레이시아, 라오스 등 아시아 국가를 비롯해 스위스, 우크라이나, 튀르키."
+      "호르무즈 해협을 둘러싼 미국과 이란의 무력 충돌이 사흘째 멈춘 가운데 이란 정부가 미국과의 협상 재개 가능성에 선을 그으며 강경 기조를 재확인했다.",
+      "27일(현지시간) 이란 국영 IRNA통신 등에 따르면 에스마일 바가이 이란 외무부 대변인은 이날 정례 브리핑에서 파키스탄과 카타르 등 중재국이 제안한 휴전 및 협상 복귀안과 관련해 \"이란이 미국에 협상 재개를 요청한 적은 없다\"고 밝혔다.",
+      "바가이 대변인은 \"3일 안에 이란을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n61913f85",
+    "id": "n18a0e375",
     "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/national/regional/honam/2026/07/27/WLWSFNUM2BBYBJPZD3JYTTC2YM/",
-    "title": "女소방관 죽음으로 내몬 ‘직장 괴롭힘’… 光州 소방관 15명 징계",
+    "source": "아시아경제",
+    "time": "26분 전",
+    "url": "https://view.asiae.co.kr/article/2026072723315160958",
+    "title": "유엔 사무총장 후보 7명으로…우간다, 오투누 합류",
     "summary": [
-      "女소방관 죽음으로 내몬 ‘직장 괴롭힘’… 光州 소방관 15명 징계."
+      "우간다 정부가 올라라 오투누(75) 전 외무장관을 차기 유엔 사무총장 후보로 공식 추천했다.",
+      "이에 따라 각국 정부의 추천을 받은 차기 유엔 사무총장 후보는 모두 7명으로 늘었다.",
+      "27일(현지시간) AFP통신과 우간다 매체 인디펜던트 등에 따르면 우간다 외교부는 전날 성명을 내고 오투누 전 장관을 유엔 사무총장 후보로 공식 추천했다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n306f4fe1",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/2026072791707",
-    "title": "황정민·류승룡도 맞았나…조재윤 \"각목으로 머리 때려\"",
-    "summary": [
-      "황정민·류승룡도 맞았나…조재윤 \"각목으로 머리 때려\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n842aaa77",
+    "id": "nfba592c4",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727155151082",
-    "title": "베를린 퀴어축제 테러 선거판 흔드나…극우당 반사이익(종합)",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725493",
+    "title": "후티 \"사우디 원유 인프라 시설 드론 공격…보복 작전\"",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 30명의 사상자를 낸 베를린 퀴어축제 테러 사건이 두 달 앞으로 다가온 독일 3개주 의회 선거에 적지 않은..."
+      "[서울=뉴시스] 이재은 기자 = 이란의 지원을 받는 예멘 후티 반군이 사우디아라비아의 원유 공급 및 운송 시설을 겨냥한 드론 공격을 감행했다고 주장했다.",
+      "27일(현지 시간) 후티 반군 군사 대변인 야히야 사리는 성명을 통해 \"사우디아라비아 동부에서 홍해 연안 도시 얀부까지 이어지는 원유 공급 및 운송과 관련된 여러 민감한 시설과 지점을 드론으로 타격했다\"고 밝혔다.",
+      "사리는 이번 공격이 사우디아라비아 드론이 예멘 영공을 침범한 데 대한 보복 차원."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n897c9e4a",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260727/134375883/2",
+    "title": "[사설]韓 첨단기술 빼내던 산업스파이, 이젠 인재들에 ‘검은손’",
+    "summary": [
+      "반도체 전기차 등 한국 첨단기술을 노리는 해외 ‘기술 사냥꾼들’이 표적을 기술 인재로 옮기고 있다고 한다.",
+      "산업 스파이를 투입해 기술을 빼 오는 ‘두더지 수법’보다 ‘기술 인력 탈취’가 더 저렴하고 효과적이라는 것이다.",
+      "연구 인력을 데려오면 수년간 축적한 연구 노하우, 시행착오 데이터, 업무 수행 방식을 모두 얻을 수 있기 때문이다."
+    ],
+    "chips": [
+      "#반도체",
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n16e55cf0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725497",
+    "title": "이 대통령, 6주 만에 재회한 룰라와 '팔짱'…브라질, 기병대 의전으로 국빈 환영",
+    "summary": [
+      "[브라질리아·서울=뉴시스]김경록 김지은 기자 = 이재명 대통령이 27일(현지시간) 루이스 이나시우 룰라 다 시우바 브라질 대통령과 약 6주 만에 재회하며 브라질 국빈 방문 공식 일정을 시작했다.",
+      "이 대통령은 이날 오전 브라질의 수도 브라질리아에 위치한 브라질 대통령관저 아우보라다 궁에서 공식환영식을 가졌다.",
+      "말을 탄 수십명의 기병대가 아우보라다 궁 밖에서부터 국빈인 이 대통령이 탑승한 차량을 호위했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n522e98f3",
+    "id": "n6ea98493",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727155351054",
-    "title": "목포대-순천대, 대학통합 협상 결렬…의대 설립도 '안갯속'(종합)",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260727/134375887/2",
+    "title": "[사설]선거법 위반 尹 당선무효형… 확정 땐 정치권에 거센 태풍",
     "summary": [
-      "(전남광주=연합뉴스) 형민우 기자 = 전남광주 국립 의과대학 설립을 위해 통합을 추진했던 목포대와 순천대의 협상이 끝내 결렬됐다."
+      "윤석열 전 대통령이 지난 20대 대선에서 허위 사실을 공표한 혐의로 1심에서 징역 1년 6개월에 집행유예 3년을 선고받았다.",
+      "대선 당선무효형이 나온 것은 헌정 사상 처음 있는 일이다.",
+      "대선 후보가 공직선거법 위반으로 벌금 100만 원 이상의 확정 판결을 받으면 후보의 소속 정당은 보전받은 선거비용을 국고로 반환해야 된다."
     ],
     "chips": [
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "n8af4b153",
+    "id": "ndfba47b1",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727165200079",
-    "title": "사우디 \"이라크발 드론 요격…이란 지원받는 민병대 소행\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 사우디아라비아가 이라크발 드론 공격을 막아냈다며 공격의 배후로 이란의 지원을 받는 민병대를 지목했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ned576169",
-    "category": "경제",
-    "source": "한국경제",
+    "source": "동아일보",
     "time": "33분 전",
-    "url": "https://www.hankyung.com/article/202607279151i",
-    "title": "동양, 유진그룹 마포통합사옥으로 이전 \"계열사 협업 강화\"",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260727/134375885/2",
+    "title": "[사설]건보 적자, 지출 조정 없이 직장인 지갑만으로 못 메워",
     "summary": [
-      "동양, 유진그룹 마포통합사옥으로 이전 \"계열사 협업 강화\"."
+      "정부가 최상위 계층의 건강보험료 상한액과 저소득층의 하한액을 모두 인상하는 건보료 부과 체계 개편을 추진 중이다.",
+      "개편안에 따르면 월 소득 1억2000만 원 이상인 직장 가입자 상위 0.04%의 건보료는 월 459만 원에서 최대 612만 원으로 오른다.",
+      "월 소득 28만 원인 하위 1%의 건보료도 최저임금과 연동돼 월 1만80원에서 2만2000원으로 인상된다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc9adf263",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727166600001",
+    "title": "李대통령, 룰라와 한 달 만에 재회하며 포옹…정상회담 시작",
+    "summary": [
+      "(브라질리아=연합뉴스) 임형섭 황윤기 기자 = 이재명 대통령은 27일(현지시간) 한 달 만에 재회한 루이스 이나시우 룰라 다시우바 브라질 대통령..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd7d68c77",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "35분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725489",
+    "title": "트럼프, 공화당 상원에 \"2주내 선거법 개정안 처리해라\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 중간선거를 99일 앞둔 27일(현지 시간) 공화당 상원 지도부를 겨냥해 2주 내로 선거법 개정안을 통과시키라고 촉구했다.",
+      "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 \"존 튠(공화당 상원 원내대표)은 상원이 세이브 아메리카법안을 통과시키기 전까지, 혹은 그보다 훨씬 더 나은 방법으로 필리버스터를 폐지하기 전까지 상원이 자리를 뜨도록 허용해서는 안 된다\"고 적었다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7663a532",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "35분 전",
+    "url": "https://view.asiae.co.kr/article/2026072723225052444",
+    "title": "[뉴욕증시]중동 긴장 완화에 유가 하락…일제히 상승 중",
+    "summary": [
+      "27일(현지시간) 미국의 3대 지수는 중동 지역의 긴장 완화로 국제유가가 하락하면서 일제히 상승하고 있다.",
+      "뉴욕증권거래소(NYSE)에서 오전 10시 현재 다우존스30산업평균지수(다우지수)는 전 거래일보다 422.85포인트(0.81%) 상승한 5만2370.10을 가리키고 있다.",
+      "대형주 중심의 S&P500지수는 29.65포인트(0.41%) 오른 7441.64, 기술주 중심의 나스닥지수는 84.71포인트(0.31%) 뛴 2만5060.23을 기록 중이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd4ba34fa",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "38분 전",
-    "url": "https://www.hankyung.com/article/2026072791797",
-    "title": "주말 새 2명 또 숨졌다…올여름 온열질환 사망자 8명",
+    "id": "n2fa4ad4f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260727/134375589/2",
+    "title": "[횡설수설/우경임]‘스몰 장례식’",
     "summary": [
-      "주말 새 2명 또 숨졌다…올여름 온열질환 사망자 8명."
+      "관혼상제(冠婚喪祭)에는 그 시대의 가치와 문화가 반영되기 마련이다.",
+      "취업과 독립이 늦어지며 성인식(冠)은 사라졌고, 혼인 건수가 줄면서 ‘공장식’ 결혼식(婚)은 보기 힘들어졌다.",
+      "제사(祭)를 지내는 집도 드물다."
     ],
     "chips": [
-      "#뉴스"
+      "#취업"
     ]
   }
 ];
@@ -635,8 +648,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
@@ -647,8 +660,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
