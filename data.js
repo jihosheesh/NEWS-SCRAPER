@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-27 16:41:19
+// 마지막 업데이트: 2026-07-27 17:31:53
 window.NEWS_DB = [
   {
     "id": "nad2051b5",
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n586a0cf7",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
     "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "na55a2983",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01V3pWcmw4emZJTzc3cXYyX0lWOFpWcjFiYjZ2ZE5lRXRLUm1aSkpoRzBQMXpBdW9GbmFWQkZNb2hHbEoxeVVTYnh3b1I2TUUtYWxpN0QweHZOQjU3aGlpSmVvckZLYUlMbkR5ZWVhRFdqbVE?oc=5",
     "title": "SK 현대차 네이버 포함 한국 기업과 엔비디아 협력은 '윈-윈' 외신 평가, \"AI 시장 판도 바꾼다\"",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "n4caae55c",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zc3B3SEp4bllzMUtTbmN5bzNuY2tvd3FyRXdseXk3X0RKM3JvVVgyekk5a1pULXJLdHVURUZrQ2dNTVlYMElqTWduVHNJaDZOZ1pHNzlramNMRFNrU3FMVE9pUW94cWdf?oc=5",
     "title": "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\"",
     "summary": [
@@ -106,21 +106,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
-    ]
-  },
-  {
-    "id": "nb6df5091",
-    "category": "스포츠",
-    "source": "starnewskorea.com",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
-    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
-    "summary": [
-      "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위...",
-      "2위는 KBO 홈런 1위 김도영 starnewskorea.com."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -318,10 +303,71 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n46f59f4d",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "206일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
+    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
+    "summary": [
+      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n359cac34",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727164600001",
+    "title": "李대통령 \"브라질, 공급망 핵심축…韓-메르코수르 무역협정 중요\"",
+    "summary": [
+      "(브라질리아=연합뉴스) 임형섭 황윤기 기자 = 브라질을 국빈 방문한 이재명 대통령은 27일(현지시간) \"통상 환경의 불확실성이 커지는 시대에 한..."
+    ],
+    "chips": [
+      "#수출",
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n7b88455a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728001900085",
+    "title": "젤렌스키 \"러, 10월초 최대 50만명 동원할것…北 3만 추가파병\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 러시아가 오는 9월 총선 이후 30만∼50만명 규모의 대규모 동원령을..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf1a89618",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/07/28/GMYWGYRUGY4DEMRTGBTGEOLGMU/",
+    "title": "韓-브라질, 희토류 공급망 손잡는다… 우주 협력도 속도",
+    "summary": [
+      "한국이 브라질과 희토류 공급망 협력을 강화한다.",
+      "우주산업 분야 협력에도 속도를 낸다.",
+      "청와대 등에 따르면 정부는 27일(현지 시각) 이재명 대통령의 브라질 국빈 방문을 계기로 브라질 정부와 공급망 협력 등을 담은 양해각서(MOU) 7건을 체결했다고 발표했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n64744540",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "14분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153733",
     "title": "그라비티, 라그나로크 후속작 中 판호 획득...MMORPG 시장 재도전",
     "summary": [
@@ -334,10 +380,56 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne2c83c05",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725477",
+    "title": "이 대통령 \"한-브라질 전략적 동반자 관계' 도약 원년…핵심광물·공급망 협력 확대\"",
+    "summary": [
+      "[브라질리아=뉴시스] 김지은 기자 = 브라질을 국빈 방문한 이재명 대통령은 27일(현지시간) 루이스 이나시우 룰라 다시우바 브라질 대통령과 정상회담을 하고 올해를 '한-브라질 전략적 동반자 관계' 도약의 원년으로 선포하고 핵심광물과 공급망 협력 등을 강화하기로 했다.",
+      "이 대통령은 이날 한-브라질 정상회담 직후 브라질 대통령 관저인 아우보라다 궁에서 열린 공동 언론 발표에서 \"브라질은 세계 11위의 경제 대국이자 글로벌 공급망과 식량안보의 핵심축."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n76804823",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260728/134375980/2",
+    "title": "李 “韓-남미 무역협정 미룰 수 없어…브라질과 공급망 협력 확대”",
+    "summary": [
+      "이재명 대통령이 27일(현지 시간) 루이스 이나시우 룰라 다 시우바 브라질 대통령과 정상회담 직후 “우리는 통상 환경의 불확실성이 커지는 시대일수록 한국과 메르코수르(남아메리카 공동시장) 간 무역협정은 더 이상 미룰 수 없는 중요한 과제라는 것에 깊이 공감했다”고 밝혔다.",
+      "이와 함께 “양국 기업과 기관 간 핵심 광물 공급망의 전 주기에 걸친 협력 확대 필요성에 공감했다”고도 강조했다.이 대통령은 이날 브라질리아에서 열린 정상회담 후 공동언론발표."
+    ],
+    "chips": [
+      "#수출",
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nc7b78743",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260728/134376169/1",
+    "title": "“7만원 가까이 썼는데 커피 더 시켜라”…카페 ‘1인 1음료’ 갑론을박",
+    "summary": [
+      "성인 4명과 어린아이 1명이 카페에서 샌드위치와 수프, 케이크 등을 포함해 6만원 넘게 주문했지만, ‘1인 1음료’ 방침에 따라 음료를 추가로 주문했다는 사연이 알려지며 갑론을박이 벌어졌다.26일 사회관계망서비스(SNS) 스레드에는 음식과 영수증 사진을 담은 한 카페 이용 후기가 올라왔다.작성자는 성인 4명과 35개월 아이 1명이 함께 카페를 방문해 “샌드위치 4개와 커피 3잔, 수프 1개, 케이크 1개를 주문했다”고 밝혔다.공개된 영수증에는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n352a5835",
     "category": "경제",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "25분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153732",
     "title": "은행권 주담대 7.5% 시대…갈아타기도 막혔다, 차주 '이중고'",
     "summary": [
@@ -350,10 +442,119 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc8e042a7",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "29분 전",
+    "url": "https://www.hankyung.com/article/202607289209i",
+    "title": "엔비디아 \"보증 설테니 우리 제품 사라\"…유가 하락에도 반도체주 약세[박신영의 개장전 요것만]",
+    "summary": [
+      "엔비디아 \"보증 설테니 우리 제품 사라\"…유가 하락에도 반도체주 약세[박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nc2e27f69",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/28/MEYGMNZZGZSTINBQGJRDGZRWGI/",
+    "title": "트럼프 “이란과 심도 있는 협상 중… 실패 시 군사행동”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 이란과의 외교적 합의 실패 시 강력한 군사행동에 나설 수 있다고 강조했다.",
+      "27일(현지 시각) 미국 온라인 매체 악시오스에 따르면 트럼프 대통령은 이날 악시오스 인터뷰에서 “이란과 매우 심도 있는 협상을 진행 중”이라면서도 “협상이 성과를 내지 못한다면, 우리는 매우 강력한 군사행동으로 돌아갈 것”이라고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8e51b287",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "36분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003725506",
+    "title": "트럼프 \"이란과 협상 중…결렬 시 강력한 군사작전 재개\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 도널드 트럼프 미국 대통령은 이란과의 외교 협상에 기회를 주기 위해 군사 공격을 일시 중단했지만, 협상이 결렬될 경우 군사 작전을 다시 확대할 수 있다고 밝혔다.",
+      "트럼프 대통령은 27일(현지 시간) 액시오스와의 인터뷰에서 \"이란과 심도 있는 대화를 진행 중\"이라며 \"대화가 결실을 맺지 못하면 강력한 군사 행동에 다시 나설 것\"이라고 말했다.",
+      "그는 외교에 얼마나 시간을 줄 것이냐는 질문에는 \"시간이 많지 않다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n217ef737",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727164500001",
+    "title": "우주발사장 이용 간소화·공급망 협력…브라질과 MOU 7건 체결",
+    "summary": [
+      "(브라질리아=연합뉴스) 임형섭 황윤기 기자 = 정부는 27일(현지시간) 이재명 대통령의 국빈 방문을 계기로 브라질 정부와 우주 산업 및 공급망 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7e582c1c",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "40분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260728/134375983/2",
+    "title": "韓-브라질, 공급망·에너지 등 MOU 7건 체결…경제협력 강화",
+    "summary": [
+      "한국과 브라질이 27일(현지 시간) 정상회담을 계기로 우주산업과 공급망, 에너지, 인공지능(AI) 및 반도체 등 첨단 전략 산업 등 분야에서 협력을 강화하는 내용의 양해각서(MOU) 7건을 체결했다.한국과 브라질 정부는 이날 브라질리아에서 이재명 대통령과 루이스 이나시우 룰라 다 시우바 브라질 대통령과의 정상회담을 마친 후 MOU 서명식을 열었다.",
+      "양국 정부는 우주 분야에서 △국내 기업의 브라질 발사장 이용 시 ‘발사 허가 절차’ 등 양국 간."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n977e093b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/28/GA2DINZXMYZGKOBSGVRDCYTEG4/",
+    "title": "1타 기자들의 온라인 현피...로마노-플레텐베르크 ‘가짜뉴스’ 공개 난타전…“팔로워 늘리는 법 묻더니” 반격",
+    "summary": [
+      "[OSEN=이인환 기자] 유럽 이적시장 정보를 놓고 경쟁해온 파브리치오 로마노와 플로리안 플레텐베르크가 ‘가짜뉴스’라는 표현을 꺼내며 공개 난타전을 벌였다.",
+      "과거 사적인 메시지와 삭제된 보도, 출처 표기 문제까지 한꺼번에 튀어나왔다.바이에른 뮌헨 전문 매체 ‘바바리안 풋볼 워크스’는 27일(한국시간) 두 기자가 X에서 충돌한 전 과정을 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n13d04dc1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "48분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725468",
+    "title": "한-브라질, 정상회담 계기 항공우주·에너지 등 MOU 7건 체결",
+    "summary": [
+      "[브라질리아·서울=뉴시스]이인준 김지은 기자 = 한국과 브라질은 27일(현지시간) 이재명 대통령 국빈 방문을 계기로 우주, 체육 등 분야에서 총 7건의 양해각서(MOU)에 서명했다.",
+      "양국 정부는 이날 오후 이 대통령과 루이스 이나시우 룰라 다시우바 브라질 대통령이 임석한 가운데 서명식을 개최했다.",
+      "양측은 우주, 체육, 교육, 에너지, 산업기술 등 5건의 MOU에 서명하고 영화, 사이버보안 협력 등 2건은 별도 서명 후 체결 사실을 발표했다."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
     "id": "nb8704a13",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "5분 전",
+    "time": "56분 전",
     "url": "https://www.chosun.com/sports/world-football/2026/07/28/MM2TKNLDGI2TQMZQMEYTQNBRMY/",
     "title": "이럴수가...伊 레전드, 러 도박업체 연루 의혹 '대표팀 감독 후보 제외'",
     "summary": [
@@ -369,7 +570,7 @@ window.NEWS_DB = [
     "id": "ndf0fccd6",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260728000200087",
     "title": "콜롬비아 대선 당선인 \"쿠바·니카라과와 단교할 것\"",
     "summary": [
@@ -380,40 +581,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nec3f61aa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727167400071",
-    "title": "이란전 전사자서 빠진 미군 4명…'해외작전'으로 따로 집계 논란",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미군이 이란과의 전쟁에서 발생한 전사자 수를 종전 양해각서(MOU) 파기 시점을 기준으로 따로따로 집계해 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n42a83b78",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/28/MM3DKZBTMEZTCNJZHFRGMMJWGU/",
-    "title": "'삼성 계약 무산' 한국행 거절한 이유가 있었네! 대반전 시작됐다",
-    "summary": [
-      "[스포츠조선 나유리 기자]삼성 라이온즈행 소문이 돌았던 찰리 반즈가 LA 다저스에 잔류해 빅리그에서 호투를 펼쳤다.",
-      "다저스 반즈는 27일(이하 한국시각) 뉴욕 메츠와의 원정 경기에서 팀의 5번째 투수로 8회말 등판했다.",
-      "다저스는 3-8로 경기가 크게 기울자 필승조를 아끼고 반즈에게 등판 기회를 줬다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na75a1b93",
     "category": "IT",
     "source": "테크M",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153731",
     "title": "NHN 품 안긴 이노그리드...이테크시스템도 100억 쐈다",
     "summary": [
@@ -426,24 +597,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndc212f65",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/GZRTEODEGM3DCOJUGFQWMNZSMY/",
-    "title": "“유재석에 설렜다” 정선희, 리얼 '심쿵'했던 모먼트 어땠길래 ('짠한형')",
-    "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 개그우먼 정선희가 신인 시절 유재석의 작은 배려에 설렜다가 수십 년 뒤 뜻밖의 진실을 듣게 된 일화를 공개했다.27일 공개된 유튜브 채널 '짠한형 신동엽'에는 '정선희 문천식 [짠한형 EP.155] 레전드 현실 남매 모먼트'라는 제목의 영상이 게재됐다.이날 신동엽과 문천식은 과거 정선희의 높."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n0fbcfa6d",
     "category": "IT",
     "source": "테크M",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153727",
     "title": "AI 성장 동력 삼은 SK쉴더스, 국내외 해킹대회서 두각",
     "summary": [
@@ -455,26 +612,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2d3c0af2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/28/MM4TKN3DMYYDKYRTGRRWKOJQGU/",
-    "title": "‘어떻게 올라온 1군인데’ 0이닝 3실점 참사→LG 70억 보상선수 하루 만에 2군행 좌절…삼성 亞쿼터는 왜 사라졌나",
-    "summary": [
-      "[OSEN=이후광 기자] 프로야구 LG 트윈스 좌완투수 최지명이 시즌 콜업 첫날 극심한 난조를 보이며 다시 2군행을 통보받았다.",
-      "LG 트윈스는 경기가 없는 27일 좌완투수 최지명을 1군 엔트리에서 제외했다.",
-      "최지명은 지난 26일 대전 한화 이글스전에 구원 등판해 0이닝 3피안타(1피홈런) 3실점으로 크게 흔들렸다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n6f1d917b",
     "category": "IT",
     "source": "한국경제",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607289210i",
     "title": "엔비디아의 오픈AI 지급보증에 다시 불거진 'AI순환금융'",
     "summary": [
@@ -486,90 +627,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nae11706f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725233",
-    "title": "해외여행 중 아이 몸이 불덩이…\"어떤 약 먹이죠?\"",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 본격적인 하계 휴가철이 시작되면서 가족 단위 해외 여행객이 늘고 있다.",
-      "이 시기에는 뎅기열, 말라리아, 홍역 등 해외 유입 감염병도 집중되는 시기다.",
-      "28일 질병관리청에 따르면 지난해 해외유입 감염병은 633명으로, 이 가운데 뎅기열이 110명(17.4)으로 가장 많았다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n43881da3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725018",
-    "title": "화가 김민정의 한지·먹·불 30년…첫 모노그래프 파이돈서 출간",
-    "summary": [
-      "[서울=뉴시스] 박현주 미술전문 기자 = 한지와 먹, 불을 매체로 동양의 서예와 수묵 전통을 현대 추상으로 확장해온 김민정의 30여 년 작업 세계가 세계적인 미술 전문 출판사 파이돈(Phaidon)의 모노그래프로 출간된다.",
-      "갤러리현대는 파이돈 계열 예술·디자인 전문 출판사 모나첼리(Monacelli)가 오는 9월 16일 김민정의 첫 모노그래프를 출간한다고 밝혔다.",
-      "현재 파이돈 공식 홈페이지에서 예약 판매를 진행 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3d0ec743",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "41분 전",
-    "url": "https://view.asiae.co.kr/article/2026072722101818230",
-    "title": "[위너스 클럽] 코이번 \"9번 홀 퍼팅이 결정적이었다\"",
-    "summary": [
-      "지난달 프로로 전향한 2005년생 잭슨 코이번(미국)이 일을 냈다.",
-      "그는 27일(한국시간) 미국 미네소타주 블레인의 TPC 트윈시티스(파71·7431야드)에서 열린 미국프로골프(PGA) 투어 3M 오픈(총상금 880만 달러)에서 3타 차 우승(25언더파 259타)을 차지했다.",
-      "프로 데뷔 4번째 대회인 3M 오픈에서 세계랭킹 1위 스코티 셰플러(미국·22언더파 262타)를 따돌렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n23d00bc3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725157",
-    "title": "자진 탈당 권유 받은 권영진…대구 정치권도 '술렁'",
-    "summary": [
-      "[대구=뉴시스] 정창오 기자 = 후반기 국회 상임위원회 배정 기준에 불만을 제기하는 과정에서 정점식 원내대표의 멱살을 잡고 폭언을 행사한 권영진(대구 달서병) 의원에 대해 국민의힘 지도부가 자진 탈당을 권유할 것으로 알려지면서 대구 정치권도 술렁이고 있다.",
-      "28일 뉴시스 취재를 종합하면 국민의힘 최고위는 권 의원이 자진 탈당에 응하지 않으면 윤리위원회를 소집해 제명을 포함한 최고 수준의 징계에 착수한다는 방침이다.",
-      "이와 관련해 홍준표 전 대구시."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne6e8aaac",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003724478",
-    "title": "\"페인트통인 줄 알았는데\"…100년 넘은 고택 지하서 돈다발 발견",
-    "summary": [
-      "[서울=뉴시스]이준형 기자 = 영국의 한 부부가 100년이 넘은 고택 지하에 숨겨져 있던 돈다발을 발견해 화제를 모으고 있다.",
-      "26일(현지 시간) 미국 뉴욕포스트에 따르면 영국에 거주하는 루이사와 남편 댄은 자신들이 살고 있는 1900년대 이전에 지어진 고택의 지하실 계단 밑에서 벽돌로 막혀 있는 공간을 발견했다.",
-      "공간 안에는 오래된 페인트통 하나가 놓여 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nab559c8a",
     "category": "사회",
     "source": "동아일보",
-    "time": "54분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260728/134376006/2",
     "title": "李-룰라, 한 달 만에 재회하며 포옹…브라질 국빈 방문 시작",
     "summary": [
@@ -580,65 +641,6 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
-  },
-  {
-    "id": "n312fd20d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "58분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728001100071",
-    "title": "트럼프 \"이란과 심도있는 협상중…실패시 매우 강력한 군사행동\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 27일(현지시간) 이란과의 외교적 합의가 실패할 경우 강력한 군사행동에 나설 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc9fc58c9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260728/134376074/1",
-    "title": "54세 박진영 “20년째 이렇게 먹는다”…유기농 식단의 힘",
-    "summary": [
-      "가수 박진영(54)이 건강을 유지하는 유기농 식단을 공개했다.지난 25일 MBC 예능프로그램 ‘전지적 참견 시점’에 출연한 박진영은 아침에 올리브유 두 잔, 그릭요거트, 견과류, 제철 과일, 당근 주스, 꿀에 절인 마늘과 무로 차려진 ‘유기농 식단’을 먹는다고 밝혔다.20년 동안 유기농 식단을 지켜온 박진영은 나이에 비해 피부도 좋고, 몸 관리에 힘쓰는 것으로 알려졌다.",
-      "그는 “과거 아토피가 있어서 항상 가려웠다”면서 “공부해서 직접 (해결 방."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc2e30307",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727167100071",
-    "title": "이란전 균열 보인 트럼프·네타냐후, 백악관 회담서 시험대",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 이란전을 함께 시작했지만 전쟁이 이어지는 과정에서 균열상을 드러낸 도널드 트럼프 미국 대통령과 베냐민 네타..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6a8fe5b6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260728/134376067/1",
-    "title": "정선희 “아버지 빚 10년 넘게 갚아…항상 빚에 쪼들려”",
-    "summary": [
-      "코미디언 정선희가 아버지가 진 빚을 10년 넘게 갚았다고 했다.정선희는 27일 유튜브 예능프로그램 ‘짠한형’에서 빚에 관해 얘기했다.신동엽은 “갑자기 옛날 생각이 난다.",
-      "개인적으로 정선희 가족사에 대해서 다 알지는 못하지만 아버지가 멋있는 분인 건 안다”고 말했다.이어 “예전에 (아버지) 사업이 망해서 생긴 빚이 있는데 정선희가 열심히 일하면서 갚았다.",
-      "그걸 완벽하게 다 갚고 어머니와 둘이 제주도 여행을 갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -646,21 +648,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "정치",
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
