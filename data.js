@@ -1,45 +1,46 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-27 09:03:25
+// 마지막 업데이트: 2026-07-27 11:02:03
 window.NEWS_DB = [
   {
-    "id": "n907b32b0",
+    "id": "nad2051b5",
     "category": "IT",
-    "source": "네이트",
+    "source": "블로터",
     "time": "1시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ENzBaZE15UkFaMkhxNDZGRUpuZ250R0VlWjhzY21paFlmaXBfTGh2VFplZ3NxelpyMWFlNjMxS3FTOU4zRkQ0dUtVVDI0MHhic0tV?oc=5",
-    "title": "엔비디아, AI로 반도체 설계 자동화 강화…삼성·TSMC도 활용",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMFBUdGJQMWJ3TTZIeFZ3T01oTnZudlVwSjNscHRqUU54WDZ1VzAwS1hVR3hmSkRUcnoybGl0R0lGWU5nY0xIeVkyN05yOEhIb20yNERFelFvTW1fRkJ5SXF6Z0tfVzRh0gFsQVVfeXFMUFlRbWY3bUwtdTVRUjFKYUREYWpLb0hhMmxHN2owcjRyeTF1T3BvVnVFZFJHbHVmYUNxbkFkX3ZiRndCRUlObmNobDYzbFNsZ1lpUGY5RFJNdm1XSGNkc0hhSXp5by04bVpHNjFa?oc=5",
+    "title": "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다",
     "summary": [
-      "엔비디아, AI로 반도체 설계 자동화 강화…삼성·TSMC도 활용 네이트."
+      "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다 블로터."
     ],
     "chips": [
       "#AI",
-      "#반도체",
       "#엔비디아"
     ]
   },
   {
-    "id": "nbef89016",
+    "id": "n586a0cf7",
     "category": "IT",
-    "source": "라이센스뉴스",
+    "source": "뉴스퀘스트",
     "time": "2시간 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qeGxFdGxSbUlPU201S19rU1R1YjhSOXZ0bi1SWG13bk0wdkR2WEk5eDNET0p0RHJUNUc2WllZV1VGTV9MQ0NnMDFYSlYzYnkzalZXUHJtVUVfYzhOUGFwaXlyOGloeFE0MjVZ?oc=5",
-    "title": "\"AI 생태계 조성 어렵네\"…TSMC 생산 레니게이드 선택한 삼성SDS의 고민",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
+    "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
     "summary": [
-      "\"AI 생태계 조성 어렵네\"…TSMC 생산 레니게이드 선택한 삼성SDS의 고민 라이센스뉴스."
+      "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주 뉴스퀘스트."
     ],
     "chips": [
-      "#AI"
+      "#AI",
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
-    "id": "n8effed44",
+    "id": "n8eddd465",
     "category": "IT",
-    "source": "글로벌에픽",
+    "source": "뉴시스",
     "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUk5WOGU0ZnpybTVlcjRxVC0zT0dZM19UUmYyWkZBTFFJOFIxX1FMOGViNDQ3eEhmYktIQ25qaWdmLVY0bzNCNzFEdVJTazh6TmQ4VHpqVVdJNzUzejRKd3ZuVzFvb19ub2hqUEpWM05kT0F4T2lYbVQ2eHQ?oc=5",
-    "title": "이재용 회장, AI 반도체 네트워크 확장 ‘동분서주’",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uTElaTjFGSEg5ZjBjNlZWdWVBZ0t2WTJSSk9ZTHNYVWhJOG5UWm1xX1l0dmlLckFpb1p3VHlvQWYtdXhaNEJHUkFCMGZLNURHeTBucHljUDhQTGttRzVOenJ1WThzX2t2T2w0MnE0al95ODZQSngwd9IBeEFVX3lxTE1uTElaTjFGSEg5ZjBjNlZWdWVBZ0t2WTJSSk9ZTHNYVWhJOG5UWm1xX1l0dmlLckFpb1p3VHlvQWYtdXhaNEJHUkFCMGZLNURHeTBucHljUDhQTGttRzVOenJ1WThzX2t2T2w0MnE0al95ODZQSngwdw?oc=5",
+    "title": "AI 반도체, '장기공급계약 시대'…\"메모리부터 부품까지 물량 확보전\"",
     "summary": [
-      "이재용 회장, AI 반도체 네트워크 확장 ‘동분서주’ 글로벌에픽."
+      "AI 반도체, '장기공급계약 시대'…\"메모리부터 부품까지 물량 확보전\" 뉴시스."
     ],
     "chips": [
       "#AI",
@@ -47,10 +48,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na55a2983",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01V3pWcmw4emZJTzc3cXYyX0lWOFpWcjFiYjZ2ZE5lRXRLUm1aSkpoRzBQMXpBdW9GbmFWQkZNb2hHbEoxeVVTYnh3b1I2TUUtYWxpN0QweHZOQjU3aGlpSmVvckZLYUlMbkR5ZWVhRFdqbVE?oc=5",
+    "title": "SK 현대차 네이버 등 한국 기업과 엔비디아 협력은 '윈-윈' 외신 평가, \"AI 시장 판도 바꾼다\"",
+    "summary": [
+      "SK 현대차 네이버 등 한국 기업과 엔비디아 협력은 '윈-윈' 외신 평가, \"AI 시장 판도 바꾼다\" 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n27e32122",
+    "category": "IT",
+    "source": "위클리서울",
+    "time": "5시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUmduZDdDWmtGOC12MTVPT09IZEZmUWhCMUh4TERrQnVLeWxmakhDN1l6eUdzNDc0RDZTQUVOLS0td2ZLUjQ2NzA0WlJUWkFyVENrYjhXdzlic0tzZXRaRXc0Z0xwRXUxc25MNw?oc=5",
+    "title": "‘9500억달러’ 반도체 빅딜…삼성은 2나노, SK는 HBM 승부",
+    "summary": [
+      "‘9500억달러’ 반도체 빅딜…삼성은 2나노, SK는 HBM 승부 위클리서울."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "n3c6395fa",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2x4cFBWUmR2R21uMVhjdkwyNHZyMS0zTTZPd2tBcGtPSTNXbmU1eDJLamVNUTQ5NFJjRUtFOWRmR0N1NlpKeGdpNURlYVZwX2NSODluMUhhcUJxNUNQbmRpaWxQSjhBYnpIeFRaaGxfUXE4Ml9LbVp1QTl3NDVMdzZITFdadDQ1?oc=5",
     "title": "엔비디아-SK그룹, 5000억 달러 AI 동맹 결성… 글로벌 반도체 10배 팽창 전망",
     "summary": [
@@ -60,36 +91,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "nbc085d9f",
-    "category": "IT",
-    "source": "ebn.co.kr",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrc0FqYWlPM2lETkExc2lPd3pET0Z1a2NNS2ZWcHdwbF9SSjQ3R2l2dE1vOEJEMTRQYlk1cFpIRUZHdWhrY3FYMXpRWnU5MDFDMXExQ25MYW1DdElYTmZNbVhuWGlRckZm?oc=5",
-    "title": "HBM부터 파운드리까지…美 빅테크가 K반도체 꽉 잡았다",
-    "summary": [
-      "HBM부터 파운드리까지…美 빅테크가 K반도체 꽉 잡았다 ebn.co.kr."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n0b5690bb",
-    "category": "IT",
-    "source": "데일리인베스트",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZjRjM0hyMjlKWDB3Tkk1RzlnampsNWtWTk43LVAwMHRySDRTbnU0N05xcGFZVFVZWk1jMUZPWU1Ld3NIWTY1SU1BUno4azFGb1JYaHNpN1dwNEJ6aWJ6ck1OTTV4RXh3TlpB0gFvQVVfeXFMUFRIak9Ca1VKUmVSMGJITUxMWjBiS2FoVG5iMkstT3Jsa0I1cjcxcmk1UDlERUduLXgtd0lsbHJhYzlvVUJER2NPZVJLNFlCQkRnclBabVFveXFFZDBpR0FCSnBHLUhuMjNJbXN4UDJF?oc=5",
-    "title": "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까",
-    "summary": [
-      "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까 데일리인베스트."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -105,21 +106,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
-    ]
-  },
-  {
-    "id": "ne098ec77",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWEI2T2RRNGVBTktrLW1KbThpRHpMRXd5TUhKdGNmeEhUcDAtTTY2M1pQSFUzdWFXdGxPbDFieXJxSC1IMi1qMzQwUFhQY0k?oc=5",
-    "title": "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집",
-    "summary": [
-      "\"내일의 유니콘 찾습니다\"…기보, 벤처캠프 참여 스타트업 모집 v.daum.net."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
     ]
   },
   {
@@ -286,6 +272,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "154일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nef414906",
     "category": "사회",
     "source": "연합뉴스",
@@ -380,16 +380,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf295d288",
+    "id": "n3d9581bf",
     "category": "부동산",
     "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026072718024746500",
-    "title": "김윤덕 장관 \"건설 금융 지원 필요성 공감…민간정비사업 용적률 상향은 우려\"",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026072719581780510",
+    "title": "이억원 \"핀셋 지원으로 청년·신혼부부 등 실수요자 불편 해소\"",
     "summary": [
-      "김윤덕 국토부장관은 주택 공급 확대를 위해 민간 주택 공급자에 대한 금융과 세제 지원 확대가 필요하다는 주장에 대해서는 \"적극 공감하고 있다\"며 금융당국과 지속적인 협의를 이어나가겠다고 밝혔다.",
-      "다만 민간 정비사업의 규제 완화를 통한 주택 공급에 대해서는 주택 멸실에 따른 집값 상승이 우려된다며 선을 그었다.",
-      "김윤덕 국토부 장관은 27일 서울 중구 대한상공회의소에서 열린 부동산 정책 국민 토론회에서 주택 공급자."
+      "이억원 금융위원장은 27일 조만간 발표할 부동산 대책 방향과 관련해 \"핀셋 지원으로 (가계 대출 관리) 기조는 저해하지 않으면서 청년·신혼부부 등 실수요자의 불편함을 해소하도록 고민 중\"이라고 말했다.",
+      "이 위원장은 이날 오후 서울 중구 대한상공회의소에서 열린 부동산정책 국민 대토론회에 참석해 \"실제 건의사항 중 가장 많은 부분이 금융이다.",
+      "(국민들은) 대출 문제가 그만큼 제일 불편하신 것\"이라며 이같이 밝혔다."
     ],
     "chips": [
       "#부동산",
@@ -397,245 +397,245 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8ce8d624",
+    "id": "nfd336a44",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725132",
-    "title": "물벼락 맞으며 더위탈출 [오늘의 한 컷]",
-    "summary": [
-      "[서울=뉴시스] 제4회 유엔남구 물놀이축제'가 열린 27일 부산 남구 용호별빛공원에서 어린이들이 물벼락을 맞으며 더위를 식히고 있다.",
-      "내달 3일까지 열리는 이번 행사에서는 풀장 10개와 에어슬라이드 7개, 워터클라이밍, 페달보트 등이 마련되고, 물총싸움과 버블파티도 펼쳐진다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb3bd6555",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003724927",
-    "title": "\"하루 식사 시간 9시간으로 제한하면 치매 예방\"",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 하루 식사 시간을 9시간 이내로 제한하고 잠들기 4시간 전부터 금식하면 노년기 인지 기능 저하를 늦추는 데 도움이 될 수 있다는 연구 결과가 나왔다.",
-      "26일(현지시간) 영국 가디언에 따르면 미국 러트거스대 연구진은 과체중 또는 비만인 50~79세 여성 47명을 대상으로 '시간 제한 식사(Time-restricted eating)' 연구를 진행했다.",
-      "연구진은 참가자 모두에게 6개월 동안 하루 섭취 열량을 500칼로리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9588e240",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003724328",
-    "title": "'충주 찰옥수수'로 만든 햄버거…전국 맥도날드 매장 출시",
-    "summary": [
-      "[서울=뉴시스] 강지은 기자 = 충북 충주시 찰옥수수를 활용한 햄버거와 강원 홍천군 쌀을 활용한 사이드 메뉴 등이 전국의 한국맥도날드 매장에서 출시된다.",
-      "행정안전부는 27일 정부서울청사에서 충주시와 홍천군, 경남 진주시와 창녕군, 한국맥도날드와 '지역-기업 상생 협업 업무 협약'을 체결했다고 밝혔다.",
-      "이번 협약은 4개 시·군과 한국맥도날드가 지역 특산물을 활용한 제품 개발 협업 체계를 구축하고, 이를 통해 지역경제 활성화를 이끌어내기 위해 마련."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n95d6da3f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725347",
-    "title": "김천시, 추풍령휴게소 양방향 식품안심구역 지정",
-    "summary": [
-      "[김천=뉴시스] 박홍식 기자 = 경북 김천시는 국내 첫 고속도로 휴게소 추풍령휴게소 상·하행선을 식품 안심 구역으로 지정했다고 27일 밝혔다.",
-      "'식품안심구역'은 위생 수준이 우수한 업소가 밀집한 지역을 지자체가 지정·관리하는 제도다.",
-      "추풍령휴게소 양방향 내 한식·중식·스낵 코너, 카페 등 전 식품접객업소는 식약처 위생등급 지정을 마치고 철저한 위생 관리를 거쳐 방문객을 맞이하게 된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb6352bd4",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026072717592335864",
-    "title": "뉴스펀캐스트, 애드인에듀와 AI·디지털 인재 키운다",
-    "summary": [
-      "콘텐츠 프로덕션 뉴스펀캐스트는 애드인에듀 아카데미 구로가산센터와 'K디지털 트레이닝 첨단산업·디지털 핵심 실무인재 양성' 업무협약을 맺었다고 27일 밝혔다.",
-      "프로젝트 기반 실무 교육과 기술 교류, 취업 연계를 함께 추진해 디지털 콘텐츠 산업 환경 변화에 대응하고, AI·디지털 분야 실무 역량을 갖춘 인재를 양성한다.",
-      "애드인에듀 아카데미 구로가산센터는 기업 수요를 반영한 직무 분석과 교육과정 개발·운영, 수료생."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#교육",
-      "#환경"
-    ]
-  },
-  {
-    "id": "ne23f7e18",
-    "category": "사회",
-    "source": "조선일보",
     "time": "5분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/27/5E3FOOZNAJANXFQVW4BCK6ROPU/",
-    "title": "[속보] ‘대선 허위 발언’ 尹 1심 선고에 항소...“사실오인·법리오해\"",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725077",
+    "title": "[세계유산위] 부산서 신규 세계유산 25건 등재…한국 갯벌은 확대 등재",
     "summary": [
-      "[속보] ‘대선 허위 발언’ 尹 1심 선고에 항소...“사실오인·법리오해\"."
+      "[서울=뉴시스]한이재 기자 = 부산에서 열린 제48차 유네스코 세계유산위원회를 통해 총 25건의 유산이 세계유산으로 새로 등재됐고, '한국의 갯벌'을 포함한 2건은 확대등재(대폭경계변경)됐다.",
+      "또 1건은 세계유산 등재 기준이 변경됐다.",
+      "세계유산위원회는 지난 24일 오후부터 27일까지 세계유산 등재 과정(의제8) 심의를 마무리했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2af4d7cd",
-    "category": "부동산",
-    "source": "아시아경제",
+    "id": "n31edd386",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026072717570531671",
-    "title": "김윤덕 장관 \"부동산 정책 1번은 청년·신혼부부…사전청약 약속 이행\"",
+    "url": "https://www.yna.co.kr/view/AKR20260727159700083",
+    "title": "中, 美 '강제노동' 관세에 \"전형적 보호주의…단호히 반대\"",
     "summary": [
-      "정부가 청년과 신혼부부를 최우선에 두는 주거 정책 기조를 확인하고, 사전청약자들에 대해서도 기존 약속을 차질 없이 이행하겠다는 의지를 밝혔다.",
-      "27일 오후 서울 중구 대한상공회의소에서 한성숙 국무총리 주재로 열린 '부동산 정책 국민 대토론회'에서 김윤덕 국토교통부 장관은 \"청년 세대의 아버지로서 고민을 많이 하고 있다\"며 청년층과 신혼부부의 주거 문제 해결 의지를 밝혔다.",
-      "서울에서 대학원 진학을 앞두고 있다는."
+      "(베이징=연합뉴스) 한종구 특파원 = 미국 도널드 트럼프 행정부가 '강제노동'을 이유로 한국과 중국 등 주요 교역국에 추가 관세를 부과하기로 하..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n663d2357",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727160100052",
+    "title": "'창녕 마늘' 소스 해외시장 진출…맥도날드·행안부와 상생 협업",
+    "summary": [
+      "(창녕=연합뉴스) 박영민 기자 = 경남 창녕군은 27일 정부서울청사에서 행정안전부, 한국맥도날드와 지역 특산물을 활용한 제품 개발 및 해외시장 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n00510564",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260727/134375228/2",
+    "title": "여주 하천에 둥둥 샴악어, 30대 주인 입건…“일광욕 중 사라져”",
+    "summary": [
+      "경기 여주시 소양천에서 발견된 국제멸종위기종 1급 샴악어의 주인이 경찰에 붙잡혔다.27일 여주경찰서는 야생생물보호및관리에관한법률 위반 혐의로 30대 남성을 입건해 조사하고 있다고 밝혔다.그는 2023년 인터넷 파충류 거래 카페에서 샴악어를 120만 원에 구매해 사육한 혐의를 받고 있다.",
+      "샴악어는 밀렵과 서식지 파괴로 개체수가 줄면서 1975년 국제멸종위기종 1급으로 지정돼 상업적 거래가 금지돼 있다.또 샴악어는 국제자연보전연맹(IUCN)이 정한."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad932d9e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725435",
+    "title": "\"미국과 이란을 협상장으로 끌어내려는 중재국 노력에 상당한 진전\"",
+    "summary": [
+      "[카이로(이집트)=AP/뉴시스] 김재영 기자 = 이란전쟁 종전협상 중재국들이 미국과 이란을 협상 테이블로 다시 끌어내 전면전 재발을 막는 노력에서 진전을 거뒀다고 27일 중동 지역 관리 2명이 말했다.",
+      "미군의 심야 및 새벽 공격과 이에 대한 이란의 인근 아랍국 낮 보복공격이 25일(토)부터 27일까지 연속 사흘 중단된 가운데 들리는 소식으로 주목된다.",
+      "익명을 조건으로 소식을 전한 이 관리들에 따르면 카타르와 파키스탄 등 중재국은 미국과 이란 사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n356bb70d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725436",
+    "title": "中, 남중국해 분쟁해역서 베트남 선원 47명 구조…실종자 수색(종합)",
+    "summary": [
+      "[서울·베이징=뉴시스]구자룡 기자, 박정규 특파원 = 남중국해에서 영유권 분쟁을 빚고 있는 중국과 베트남이 베트남 어선의 전복 사고를 계기로 선원을 구조하고 감사 표시로 화답했다.",
+      "중국이 베트남과 영유권 갈등을 빚고 있는 남중국해 스프래틀리 군도(중국명 난사군도·필리핀명 칼라얀 군도·베트남명 쯔엉사 군도)의 피어리 크로스 암초(중국명 융수자오) 인근에서 침몰한 베트남 선박의 선원 47명을 구조했다.",
+      "선박에는 모두 62명이 탑승하고 있었으며 나머."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6e2fcd87",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727159100008",
+    "title": "'의약품 제조업' 넥스아이 등 3개사 코스닥 상장예심 신청",
+    "summary": [
+      "(서울=연합뉴스) 김유향 기자 = 한국거래소 코스닥시장본부는 넥스아이와 아델, 제논 등 총 3개 기업의 상장예비심사 신청서를 접수했다고 27일 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5fe69ea",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725118",
+    "title": "강동구 천호동 노부모 부양 특공 1가구 줍줍에 306명 신청",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 윤도영 인턴기자 = 서울 강동구 천호동 'e편한세상 강동 프레스티지원' 무순위 특별공급 청약에 306명이 몰렸다.",
+      "27일 한국부동산원 청약홈에 따르면 이날 진행된 e편한세상 강동 프레스티지원 무순위 특별공급(노부모부양) 청약에서 전용 84㎡ 1가구 모집에 306건이 접수되며 306대 1의 경쟁률을 기록했다.",
+      "해당 물량은 불법행위로 인한 취소분을 재공급한 것으로, 청약통장 가입 여부와 관계없이 청약 신청이 가능했다."
     ],
     "chips": [
       "#부동산",
-      "#정책",
-      "#교육"
+      "#채용"
     ]
   },
   {
-    "id": "nd8e79b56",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "5분 전",
-    "url": "https://www.hankyung.com/article/2026072788821",
-    "title": "'슬립테크'가 삶의 질 바꾼다…잠자리 바꾸는 의학·기술 총집결",
+    "id": "ne32b02f1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/27/GM4TKNJRGY3GGNBTGRRTANDBHE/",
+    "title": "김정난, 허남준·최산 인기에 진심 가득 충고 \"고통 즐길 여유 있으면 만나\" [순간포착]",
     "summary": [
-      "'슬립테크'가 삶의 질 바꾼다…잠자리 바꾸는 의학·기술 총집결."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 김정난이 여성들에게 충고했다.",
+      "27일 유튜브 채널 '김정난'에는 '여름 별미! 믹서기 하나로 끝내는 김정난표 초간단 열무김치'라는 제목의 영상이 게재됐다.",
+      "이날 김정난은 열무김치를 만들며 제작진과 대화를 나눠 눈길을 끌었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3332796e",
+    "id": "nc2f594eb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/27/GU2DKYZTGE2GINJUHFTDAMTDMU/",
+    "title": "“너무 짜증나지만”.. 손담비, 연이은 논란 해명 후 일본에서 힐링 “웃으면 복이 와”",
+    "summary": [
+      "[OSEN=임혜영 기자] 가수 겸 배우 손담비가 심경을 전했다.손담비는 27일 개인 채널에 “너무 짜증 나는데 뭐 어쩌겠어요.",
+      "오늘도 (파이팅)”이라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속 손담비는 일본 여행을 만끽하는 모습이다.",
+      "손담비는 민소매 블라우스, 와이드 팬츠로 남다른 패션 센스를 뽐내고 있으며 무."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9169d5a1",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026072719522772541",
+    "title": "30일 축협 청문회…조정식 국회의장 \"국민적 관심, 투명·공정 조직 거듭나야\"",
+    "summary": [
+      "오는 30일 대한축구협회(축협) 국회 청문회를 앞둔 가운데 조정식 국회의장이 문화체육관광부를 향해 \"축구협회가 투명하고 공정한 조직으로 거듭날 수 있도록 중심을 잡아 달라\"라고 당부했다.",
+      "조 의장은 27일 국회에서 최휘영 문체부 장관을 만나 축협 청문회를 언급하며 \"이번 월드컵을 계기로 대한축구협회의 운영 문제가 국민의 관심사가 됐다\"며 이같이 강조했다.",
+      "축협은 국가대표팀 감독 선임 과정에서 불공정 논란에 휩싸였."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7d883285",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727159800007",
+    "title": "K리그2 화성, 검증된 스트라이커 일류첸코 영입",
+    "summary": [
+      "(서울=연합뉴스) 이영호 기자 = 차두리 감독이 지휘하는 프로축구 K리그2 화성FC가 검증된 스트라이커 일류첸코(35·독일)를 영입했다고 27일..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nadfda614",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/07/27/GZSWGNRZMVRDSMRUMY4GGNRWGU/",
-    "title": "\"K-스포츠의 힘, 여러분 덕분입니다\" 대한체육회 창립106주년, 체육유공자X모범-유공직원X노사문화유공자 포상식[오피셜]",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/27/GJQTQZBRGA2WCOBYGY3WCNRZMY/",
+    "title": "신태용, 선수 폭행 논란 1년 정지…KFA 비공개 수위, 인니 구단이 공개하고 감독직 유지",
     "summary": [
-      "[스포츠조선 전영지 기자]대한체육회가 27일 오후 2시 서울올림픽파크텔 2층 런던홀에서 '대한체육회 창립 106주년 기념 포상식'을 개최했다.",
-      "이번 포상식은 대한체육회 창립 106주년을 맞아 대한민국 체육 발전에 기여한 유공자와 모범직원, 유공직원의 공적을 기리고 감사의 뜻을 전하고자 마련됐다.",
-      "유승민 대한체육회장은 이날 행사에서는 체육유공자 15명에게 공."
+      "[OSEN=이인환 기자] 신태용 감독은 대한축구협회(KFA)로부터 1년 자격정지 처분을 받았지만 인도네시아 페르시자 자카르타 감독직은 그대로 유지한다.",
+      "KFA가 공개하지 않았던 징계 수위는 현 소속팀이 직접 확인한 뒤 외부에 먼저 밝혔다.페르시자는 26일 구단 홈페이지에 공식 성명을 내고 신 감독 징계와 관련해 KFA에 직접 확인 절차를 밟았다고 발표했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5307e45c",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026072717565427925",
-    "title": "서울 오피스 신규 임대차 규모, 1년여 만에 최대…공실률은 4.2%로 상승[부동산AtoZ]",
-    "summary": [
-      "올해 2분기 서울 도심에 새 오피스가 잇달아 들어서면서 공실률은 높아졌지만 기업들의 이전과 증평이 이어지며 신규 임대 규모가 약 1년 만에 가장 컸던 것으로 나타났다.",
-      "상업용 부동산 투자는 감소했지만 호텔 투자만 5분기 연속 늘었다.",
-      "27일 CBRE코리아의 '2026년 2분기 서울 상업용 부동산 시장 보고서'에 따르면 올 2분기 서울 도심·강남·여의도권역에 있는 A급 오피스 신규 임대차 면적은 14만3881㎡로 지난해 1분기 이후."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nef661bbf",
-    "category": "IT",
+    "id": "n92285f05",
+    "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260727/134374225/1",
-    "title": "농협, 국산 전략작물 가공식품 특별 할인전… 전국 하나로마트서 29일까지",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260727/134372933/1",
+    "title": "“오세훈 1심·권영진 멱살·선관위 사태까지…장동혁에 우주 기운 모여”[정치를 부탁해]",
     "summary": [
-      "농협경제지주는 오는 29일까지 전국 농협하나로마트에서 국산 전략작물 가공식품 특별 할인전을 진행한다고 밝혔다.이번 행사는 농림축산식품부의 ‘전략작물 오프라인 소비판촉 지원사업’의 하나로 마련됐다.",
-      "전략작물은 벼 대신 재배할 수 있는 밀과 콩, 가루쌀 등을 뜻한다.행사 품목은 농협 가루쌀 과자인 우리쌀칩과 쌀로팝을 비롯해 쌀튀김가루, 쌀부침가루, 국산콩 두유와 두부류, 국산밀 가락국수 등이다.행사 대상 상품을 구매하면 1만원당 3000원을 할인받."
+      "동아일보 정치 라이브 ＜정치를 부탁해＞- 일시: 월·수요일 오전 10~11시- 토크: 정광재 동연정치연구소장, 김준일 시사평론가- 진행·연출: 강경석 김선우- 동아일보 유튜브 : www.youtube.com/@donga-ilbo 오세훈 서울시장의 정치자금법 위반 혐의에 대한 1심 선고와 친한(친한동훈)계로 분류되는 권영진 의원의 ‘멱살잡이’ 파문, 선거관리위원회의 투표율 허위 입력 등이 겹치며 장동혁 국민의힘 대표에 유리한 국면이 형성되고 있다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n5a8cb404",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "6분 전",
-    "url": "https://www.hankyung.com/article/202607279013i",
-    "title": "대한폴로연맹, 2026 유·청소년 하계훈련 성료",
-    "summary": [
-      "대한폴로연맹, 2026 유·청소년 하계훈련 성료."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd1bf98fb",
+    "id": "n35edf36c",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727150000063",
-    "title": "대전송전탑대책위 \"신정읍∼신계룡 송전선로 대안 노선 거부\"",
+    "source": "아시아경제",
+    "time": "19분 전",
+    "url": "https://view.asiae.co.kr/article/2026072719421761981",
+    "title": "李대통령, 프랑스·스페인 산불 피해 위로…\"하루빨리 진화되길\"",
     "summary": [
-      "(대전=연합뉴스) 변선진 기자 = 신정읍∼신계룡 345kV 송전선로 건설을 반대하는 대전송전탑백지화대책위원회(이하 대책위)가 27일 \"어떠한 대..."
+      "이재명 대통령은 27일 프랑스와 스페인에서 이어지고 있는 대규모 산불과 관련해 피해 주민들에게 위로를 전하고 조속한 진화를 기원했다.",
+      "이 대통령은 이날 엑스(X·옛 트위터)에 올린 메시지에서 \"프랑스와 스페인에서 계속되고 있는 산불로 큰 피해가 발생하고 있다는 소식에 안타까움을 금할 수 없다\"며 \"예기치 못한 재난으로 어려움을 겪고 계신 모든 분들께 위로의 말씀을 전한다\"고 밝혔다.",
+      "산불 현장에서 진화와 구조 작업."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n83a4ab80",
+    "id": "na5a897d0",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727149600061",
-    "title": "\"일광욕시키다 사라져\"…여주 샴악어 소유주 입건",
+    "source": "아시아경제",
+    "time": "27분 전",
+    "url": "https://view.asiae.co.kr/article/2026072719345254752",
+    "title": "기아 노조, 파업권 확보…'5년 무분규 타결' 기록 깨지나",
     "summary": [
-      "(여주=연합뉴스) 강영훈 기자 = 경기 여주시의 한 하천변에서 발견된 국제멸종위기종 1급 샴악어의 주인이 사건 발생 8일 만에 경찰에 검거됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d156c66",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260727150600052",
-    "title": "경남도의회 예결위, 15조5천억 규모 도청 2회 추경안 수정 의결",
-    "summary": [
-      "(창원=연합뉴스) 김선경 기자 = 경남도의회 도청 소관 예산결산특별위원회는 27일 제435회 임시회 기간 중 제2차 회의를 열고 2026년도 제..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e87f271",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/2026072789861",
-    "title": "美 '원투펀치'에 쓰러진 日 NEC·도시바…삼전닉스에 재연될까",
-    "summary": [
-      "美 '원투펀치'에 쓰러진 日 NEC·도시바…삼전닉스에 재연될까."
+      "기아 노동조합이 임금·단체 협상(임단협)과 관련해 합법적 파업권을 확보했다.",
+      "27일 연합뉴스에 따르면 중앙노동위원회(중노위)는 이날 오후 3시부터 진행된 기아 임단협 교섭 관련 쟁의 조정에서 중지를 결정했다.",
+      "노사 간 입장차가 커 조정에 실패한 것이다."
     ],
     "chips": [
       "#뉴스"
@@ -648,8 +648,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
@@ -660,8 +660,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "부동산",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
