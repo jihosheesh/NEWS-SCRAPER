@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-27 15:54:27
+// 마지막 업데이트: 2026-07-27 16:41:19
 window.NEWS_DB = [
   {
     "id": "nad2051b5",
     "category": "IT",
     "source": "블로터",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMFBUdGJQMWJ3TTZIeFZ3T01oTnZudlVwSjNscHRqUU54WDZ1VzAwS1hVR3hmSkRUcnoybGl0R0lGWU5nY0xIeVkyN05yOEhIb20yNERFelFvTW1fRkJ5SXF6Z0tfVzRh0gFsQVVfeXFMUFlRbWY3bUwtdTVRUjFKYUREYWpLb0hhMmxHN2owcjRyeTF1T3BvVnVFZFJHbHVmYUNxbkFkX3ZiRndCRUlObmNobDYzbFNsZ1lpUGY5RFJNdm1XSGNkc0hhSXp5by04bVpHNjFa?oc=5",
     "title": "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n27e32122",
     "category": "IT",
     "source": "위클리서울",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUmduZDdDWmtGOC12MTVPT09IZEZmUWhCMUh4TERrQnVLeWxmakhDN1l6eUdzNDc0RDZTQUVOLS0td2ZLUjQ2NzA0WlJUWkFyVENrYjhXdzlic0tzZXRaRXc0Z0xwRXUxc25MNw?oc=5",
     "title": "‘9500억달러’ 반도체 빅딜…삼성은 2나노, SK는 HBM 승부",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "n4caae55c",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zc3B3SEp4bllzMUtTbmN5bzNuY2tvd3FyRXdseXk3X0RKM3JvVVgyekk5a1pULXJLdHVURUZrQ2dNTVlYMElqTWduVHNJaDZOZ1pHNzlramNMRFNrU3FMVE9pUW94cWdf?oc=5",
     "title": "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\"",
     "summary": [
@@ -81,7 +81,7 @@ window.NEWS_DB = [
     "id": "n3c6395fa",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2x4cFBWUmR2R21uMVhjdkwyNHZyMS0zTTZPd2tBcGtPSTNXbmU1eDJLamVNUTQ5NFJjRUtFOWRmR0N1NlpKeGdpNURlYVZwX2NSODluMUhhcUJxNUNQbmRpaWxQSjhBYnpIeFRaaGxfUXE4Ml9LbVp1QTl3NDVMdzZITFdadDQ1?oc=5",
     "title": "엔비디아-SK그룹, 5000억 달러 AI 동맹 결성… 글로벌 반도체 10배 팽창 전망",
     "summary": [
@@ -258,6 +258,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n72b90564",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "62일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
+    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
+    "summary": [
+      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -284,21 +299,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbc92ef7c",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "158일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aOS1oakU2ZWFhaGNNM0FKdW9xYzdWZ3JrRmZJTlpQNXVNbmRBSllTSXNmbzh1TDR0MURoN3lsRVNETVhxQzdqVVNDaERRandpTHplMFZVZE1HdUxmbzlLcDNJcWQ4YXJvSHc0?oc=5",
-    "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능",
-    "summary": [
-      "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -350,10 +350,70 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb8704a13",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/28/MM2TKNLDGI2TQMZQMEYTQNBRMY/",
+    "title": "이럴수가...伊 레전드, 러 도박업체 연루 의혹 '대표팀 감독 후보 제외'",
+    "summary": [
+      "[스포츠조선 박상경 기자] 차기 이탈리아 대표팀 사령탑 후보로 지목된 안드레아 피를로 감독이 러시아 베팅업체와 연루됐다는 충격적 의혹이 제기됐다.",
+      "영국 BBC는 27일(한국시각) '피를로 감독이 러시아 베팅회사와 연루 의혹으로 며칠 간 논란을 겪은 뒤 후보군에서 사퇴하겠다는 뜻을 드러냈다'고 전했다.",
+      "2006 독일월드컵 우승 멤버인 피를로 감독은 2017년."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf0fccd6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728000200087",
+    "title": "콜롬비아 대선 당선인 \"쿠바·니카라과와 단교할 것\"",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 아벨라르도 데 라 에스프리에야 콜롬비아 대통령 당선인은 오는 8월 7일 취임에 맞춰 쿠바, 니카라과와의..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nec3f61aa",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260727167400071",
+    "title": "이란전 전사자서 빠진 미군 4명…'해외작전'으로 따로 집계 논란",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미군이 이란과의 전쟁에서 발생한 전사자 수를 종전 양해각서(MOU) 파기 시점을 기준으로 따로따로 집계해 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n42a83b78",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/28/MM3DKZBTMEZTCNJZHFRGMMJWGU/",
+    "title": "'삼성 계약 무산' 한국행 거절한 이유가 있었네! 대반전 시작됐다",
+    "summary": [
+      "[스포츠조선 나유리 기자]삼성 라이온즈행 소문이 돌았던 찰리 반즈가 LA 다저스에 잔류해 빅리그에서 호투를 펼쳤다.",
+      "다저스 반즈는 27일(이하 한국시각) 뉴욕 메츠와의 원정 경기에서 팀의 5번째 투수로 8회말 등판했다.",
+      "다저스는 3-8로 경기가 크게 기울자 필승조를 아끼고 반즈에게 등판 기회를 줬다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "na75a1b93",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "24분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153731",
     "title": "NHN 품 안긴 이노그리드...이테크시스템도 100억 쐈다",
     "summary": [
@@ -366,10 +426,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndc212f65",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/GZRTEODEGM3DCOJUGFQWMNZSMY/",
+    "title": "“유재석에 설렜다” 정선희, 리얼 '심쿵'했던 모먼트 어땠길래 ('짠한형')",
+    "summary": [
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 개그우먼 정선희가 신인 시절 유재석의 작은 배려에 설렜다가 수십 년 뒤 뜻밖의 진실을 듣게 된 일화를 공개했다.27일 공개된 유튜브 채널 '짠한형 신동엽'에는 '정선희 문천식 [짠한형 EP.155] 레전드 현실 남매 모먼트'라는 제목의 영상이 게재됐다.이날 신동엽과 문천식은 과거 정선희의 높."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n0fbcfa6d",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "28분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153727",
     "title": "AI 성장 동력 삼은 SK쉴더스, 국내외 해킹대회서 두각",
     "summary": [
@@ -381,38 +455,121 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0351bc8f",
-    "category": "사회",
+    "id": "n2d3c0af2",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/28/EJ4IVZYULNCRNDHFOQCEYHUP34/",
-    "title": "李 판례가 尹 유죄 근거 됐다… “국민이 어떻게 이해했는지가 중요”",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/28/MM4TKN3DMYYDKYRTGRRWKOJQGU/",
+    "title": "‘어떻게 올라온 1군인데’ 0이닝 3실점 참사→LG 70억 보상선수 하루 만에 2군행 좌절…삼성 亞쿼터는 왜 사라졌나",
     "summary": [
-      "李 판례가 尹 유죄 근거 됐다… “국민이 어떻게 이해했는지가 중요”."
+      "[OSEN=이후광 기자] 프로야구 LG 트윈스 좌완투수 최지명이 시즌 콜업 첫날 극심한 난조를 보이며 다시 2군행을 통보받았다.",
+      "LG 트윈스는 경기가 없는 27일 좌완투수 최지명을 1군 엔트리에서 제외했다.",
+      "최지명은 지난 26일 대전 한화 이글스전에 구원 등판해 0이닝 3피안타(1피홈런) 3실점으로 크게 흔들렸다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n6f1d917b",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "33분 전",
+    "url": "https://www.hankyung.com/article/202607289210i",
+    "title": "엔비디아의 오픈AI 지급보증에 다시 불거진 'AI순환금융'",
+    "summary": [
+      "엔비디아의 오픈AI 지급보증에 다시 불거진 'AI순환금융'."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nae11706f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725233",
+    "title": "해외여행 중 아이 몸이 불덩이…\"어떤 약 먹이죠?\"",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 본격적인 하계 휴가철이 시작되면서 가족 단위 해외 여행객이 늘고 있다.",
+      "이 시기에는 뎅기열, 말라리아, 홍역 등 해외 유입 감염병도 집중되는 시기다.",
+      "28일 질병관리청에 따르면 지난해 해외유입 감염병은 633명으로, 이 가운데 뎅기열이 110명(17.4)으로 가장 많았다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n43881da3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725018",
+    "title": "화가 김민정의 한지·먹·불 30년…첫 모노그래프 파이돈서 출간",
+    "summary": [
+      "[서울=뉴시스] 박현주 미술전문 기자 = 한지와 먹, 불을 매체로 동양의 서예와 수묵 전통을 현대 추상으로 확장해온 김민정의 30여 년 작업 세계가 세계적인 미술 전문 출판사 파이돈(Phaidon)의 모노그래프로 출간된다.",
+      "갤러리현대는 파이돈 계열 예술·디자인 전문 출판사 모나첼리(Monacelli)가 오는 9월 16일 김민정의 첫 모노그래프를 출간한다고 밝혔다.",
+      "현재 파이돈 공식 홈페이지에서 예약 판매를 진행 중이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n222b165e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/07/28/LASMZ7MQQNF2PIFTG7LQZGXRLQ/",
-    "title": "李 선거법 재판은 중단 상태… 벌금 100만원 이상 확정 땐 與 434억 반환해야",
+    "id": "n3d0ec743",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "41분 전",
+    "url": "https://view.asiae.co.kr/article/2026072722101818230",
+    "title": "[위너스 클럽] 코이번 \"9번 홀 퍼팅이 결정적이었다\"",
     "summary": [
-      "李 선거법 재판은 중단 상태… 벌금 100만원 이상 확정 땐 與 434억 반환해야."
+      "지난달 프로로 전향한 2005년생 잭슨 코이번(미국)이 일을 냈다.",
+      "그는 27일(한국시간) 미국 미네소타주 블레인의 TPC 트윈시티스(파71·7431야드)에서 열린 미국프로골프(PGA) 투어 3M 오픈(총상금 880만 달러)에서 3타 차 우승(25언더파 259타)을 차지했다.",
+      "프로 데뷔 4번째 대회인 3M 오픈에서 세계랭킹 1위 스코티 셰플러(미국·22언더파 262타)를 따돌렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n23d00bc3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003725157",
+    "title": "자진 탈당 권유 받은 권영진…대구 정치권도 '술렁'",
+    "summary": [
+      "[대구=뉴시스] 정창오 기자 = 후반기 국회 상임위원회 배정 기준에 불만을 제기하는 과정에서 정점식 원내대표의 멱살을 잡고 폭언을 행사한 권영진(대구 달서병) 의원에 대해 국민의힘 지도부가 자진 탈당을 권유할 것으로 알려지면서 대구 정치권도 술렁이고 있다.",
+      "28일 뉴시스 취재를 종합하면 국민의힘 최고위는 권 의원이 자진 탈당에 응하지 않으면 윤리위원회를 소집해 제명을 포함한 최고 수준의 징계에 착수한다는 방침이다.",
+      "이와 관련해 홍준표 전 대구시."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
+    "id": "ne6e8aaac",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260727_0003724478",
+    "title": "\"페인트통인 줄 알았는데\"…100년 넘은 고택 지하서 돈다발 발견",
+    "summary": [
+      "[서울=뉴시스]이준형 기자 = 영국의 한 부부가 100년이 넘은 고택 지하에 숨겨져 있던 돈다발을 발견해 화제를 모으고 있다.",
+      "26일(현지 시간) 미국 뉴욕포스트에 따르면 영국에 거주하는 루이사와 남편 댄은 자신들이 살고 있는 1900년대 이전에 지어진 고택의 지하실 계단 밑에서 벽돌로 막혀 있는 공간을 발견했다.",
+      "공간 안에는 오래된 페인트통 하나가 놓여 있었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nab559c8a",
     "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "54분 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260728/134376006/2",
     "title": "李-룰라, 한 달 만에 재회하며 포옹…브라질 국빈 방문 시작",
     "summary": [
@@ -425,38 +582,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31da8b6c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/politics/blue_house/2026/07/28/BYXL3OWM7ZBJNCR5K5ETTVW44M/",
-    "title": "李 “정통망법 시행, 허위·조작 사례에 단호히 대응하라”",
-    "summary": [
-      "李 “정통망법 시행, 허위·조작 사례에 단호히 대응하라”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n781d3daf",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/07/28/YCW3QGP2CBDLDC3NOLWX6HXQBQ/",
-    "title": "“한국과 남미, 새 단계로… 메르코수르 FTA 조속 체결”",
-    "summary": [
-      "“한국과 남미, 새 단계로… 메르코수르 FTA 조속 체결”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n312fd20d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "11분 전",
+    "time": "58분 전",
     "url": "https://www.yna.co.kr/view/AKR20260728001100071",
     "title": "트럼프 \"이란과 심도있는 협상중…실패시 매우 강력한 군사행동\"",
     "summary": [
@@ -467,26 +596,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n14f9b9d4",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003723981",
-    "title": "\"헬멧 벗고 인적사항 적어라\"…아파트 보안요원 요구에 음식 두고 떠난 배달원",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 한 배달기사가 아파트 측에서 출입을 하려면 헬멧을 벗고 개인정보를 작성하라는 요구를 받자 배달을 포기한 영상이 온라인 상에서 화제다.",
-      "지난 26일 온라인 커뮤니티에는 배달기사가 아파트 출입을 거부당하는 모습이 담긴 유튜브 영상이 올라왔다.",
-      "해당 영상 속에 따르면 배달기사가 부산 한 아파트를 방문해 음식 배달을 하려했지만 보안 직원으로부터 헬멧을 벗은 후 인적 사항을 작성한 후 출입하라는 안내를 받았다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nc9fc58c9",
     "category": "사회",
     "source": "동아일보",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260728/134376074/1",
     "title": "54세 박진영 “20년째 이렇게 먹는다”…유기농 식단의 힘",
     "summary": [
@@ -501,7 +614,7 @@ window.NEWS_DB = [
     "id": "nc2e30307",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260727167100071",
     "title": "이란전 균열 보인 트럼프·네타냐후, 백악관 회담서 시험대",
     "summary": [
@@ -515,123 +628,13 @@ window.NEWS_DB = [
     "id": "n6a8fe5b6",
     "category": "사회",
     "source": "동아일보",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260728/134376067/1",
     "title": "정선희 “아버지 빚 10년 넘게 갚아…항상 빚에 쪼들려”",
     "summary": [
       "코미디언 정선희가 아버지가 진 빚을 10년 넘게 갚았다고 했다.정선희는 27일 유튜브 예능프로그램 ‘짠한형’에서 빚에 관해 얘기했다.신동엽은 “갑자기 옛날 생각이 난다.",
       "개인적으로 정선희 가족사에 대해서 다 알지는 못하지만 아버지가 멋있는 분인 건 안다”고 말했다.이어 “예전에 (아버지) 사업이 망해서 생긴 빚이 있는데 정선희가 열심히 일하면서 갚았다.",
       "그걸 완벽하게 다 갚고 어머니와 둘이 제주도 여행을 갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf4d8242a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003724469",
-    "title": "\"응급실 갔다더니 프러포즈\"…선 넘은 남편 장난에 '지쳐가는 아내'",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 상대방이 고통을 호소하는데도 장난을 멈추지 않고 선을 넘는 남편 때문에 정신적 고통을 겪고 있다는 한 아내의 사연이 전해졌다.",
-      "지난 26일 방송된 JTBC '사건반장'의 '별별상담소' 코너에는 남편의 철없는 장난과 적반하장 태도로 지칠 대로 지쳤다는 30대 여성 A씨의 사연이 공개됐다.",
-      "대학 시절부터 알고 지낸 두 살 연상의 남편과 결혼했다는 A씨는 연애 시절부터 남편의 장난이 다소 과했다고 털어놨다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n0adae9b4",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260728/134376060/1",
-    "title": "80평에서 49평 이사간 이지혜 “한강이 안 보인다”",
-    "summary": [
-      "방송인 이지혜가 80평대 집에 살다가 49평 구축 아파트로 이사했다.이지혜는 27일 자신의 유튜브 채널에서 이사 과정을 공개했다.이지헤는 인터리어 공사 전 집을 공개하며 “예전에는 80평대에 살았다면 여기는 49평”이라고 했다.그러면서 “줄어드는 거긴 하지만 알차게 인테리어해서 살면 괜찮을 것 같다”고 말했다.새로 이사간 집 창 밖으로 학교가 보였다.",
-      "이지혜는 “한강이 보여야 하는데 층이 낮아서 안 보인다”고 했다.인테리어는 약 7주 간 공사를."
-    ],
-    "chips": [
-      "#부동산",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n010246db",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "32분 전",
-    "url": "https://view.asiae.co.kr/article/2026072800185083983",
-    "title": "현대위아 노조 \"86% 매출 증가 방산 매각 반대 … 회사 자체 흔들려\"",
-    "summary": [
-      "전국금속노동조합 경남지부 현대위아지회가 현대위아 특수사업부 매각 추진을 강하게 반대하고 나섰다.",
-      "금속노조 경남지부 현대위아지회는 27일 경남도청 프레스센터에서 기자회견을 열고 \"현대자동차그룹과 현대위아 사측이 일방적으로 추진하는 현대위아 특수사업부의 현대로템 매각을 단호히 반대한다\"고 외쳤다.",
-      "노조는 \"현대차그룹과 현대위아는 방산 일원화와 신사업 집중이라는 허울 좋은 명분을 내세우고 있지만, 이번 매각."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfd261457",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003724772",
-    "title": "신동 \"37kg 빼고 아이스하키 시작\"…운동이 요요 막는다",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 가수 신동이 37kg 감량 후, 체중 유지 비결로 꾸준한 운동이 중요하다며 아이스하키를 언급했다.",
-      "단순히 살을 빼는 것을 넘어 감량한 몸을 오래 유지하기 위해서는 운동 습관이 중요하다는 연구 결과도 나오고 있다.",
-      "신동은 최근 채널S '전현무계획4'에 출연해 \"살을 빼고 나니 운동을 해야겠다는 생각이 들었다\"며 \"그래서 시작한 게 아이스하키\"라고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na2683186",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728000500099",
-    "title": "세네갈 대통령 신당 창당…내년 지방선거 앞 前여당과 경쟁",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 바시루 디오마예 파예 세네갈 대통령이 새로운 정당을 창당하며 자신을 2024년 집권으로 이끈 세네갈애..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n23416157",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "42분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725500",
-    "title": "프랑스 파리서 흉기 난동…여성 3명 부상, 용의자 체포",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 프랑스 파리 북부에서 여성 3명을 흉기로 공격한 남성이 경찰에 체포됐다.",
-      "피해자 2명은 중상을 입었지만 생명에는 지장이 없는 것으로 전해졌다.",
-      "유로뉴스에 따르면 사건은 27일(현지시간) 오전 11시30분께 파리 북서부 포르트 드 클리시(Porte de Clichy) 인근에서 발생했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc92c5b96",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "52분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/28/2026072717502489877",
-    "title": "신태용 '10년 자격정지' 징계 소문에 인도네시아 매체 \"1년 징계가 맞다, 한국 내에서만 적용\" 확인",
-    "summary": [
-      "프로축구 K리그1 울산 HD 감독 시절 선수들과 갈등을 빚고 부임 65일 만에 경질됐던 신태용(56) 페르시자 자카르타(인도네시아) 감독이 대한축구협회로부터 '1년 자격정지' 징계를 받은 것으로 알려졌다.",
-      "앞서 인도네시아 현지에선 10년 자격정지 소문까지 돌았으나, 현지 매체들은 구단 발표를 토대로 관련 소식을 전하고 있다.",
-      "인도네시아 매체 오케이존은 27일(한국시간) \"대한축구협회가 신태용 감독에게 10년 자격정지 징계를 내렸다는 소문은 사실."
     ],
     "chips": [
       "#뉴스"
@@ -644,18 +647,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
+    "tag": "정치",
     "mentions": "1550건",
     "trend": "+135%"
   }
