@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-28 00:21:07
+// 마지막 업데이트: 2026-07-28 01:32:00
 window.NEWS_DB = [
   {
     "id": "nf5e9c278",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10TXpuTDlLeTFUVkkyZ2xEcUtTYTVGNGFWYkYwVHBFYjhlWlU1WTlkNHJVa0VtTUw2OVFZVmxuazFCRE4wd1hCVDRVZEtUMlNOTkRUaDZuUWg1Sm_SAWBBVV95cUxPS08xdzZ5bnZFQW1VcmNsdzdKQXROdEhRRnJfSDlFX0pGSDM3UDVjUUk2UU1DSWJaRm1CM21TLW1uZmNBaEpZeDdCZ21WeU5xZzJHZzZZWmRLM2J3Q05MeVM?oc=5",
     "title": "애플, 15개월 만에 세계 시총 1위 탈환…AI 투자의 '역설'(종합)",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n51366351",
     "category": "IT",
     "source": "미디어펜",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40WUNlT1g1X3JEZ1E5Y0ticXRKNEhZVGJmVVRPV3czcXpkQXVFRFNjUUlndUVlRmNnUkczV09Dd0I2cEJvUzFuNnlVWS1tZ2RXRkg0N9IBWEFVX3lxTE5nNF9BRWRyMmxVS3M3MEU4NFhFSnRQWHREYUZoeHlaTkFLck5pN2EzS1l6SXREUXF4em1KcmxXVGEwQVR6VFZRLTRQa0tYLWV5SWx5MnpTWEk?oc=5",
     "title": "[美증시 특징주] 반도체 엔비디아 오픈AI 순환금융에 직격…하이닉스·마이크론 급락",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nad2051b5",
     "category": "IT",
     "source": "블로터",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMFBUdGJQMWJ3TTZIeFZ3T01oTnZudlVwSjNscHRqUU54WDZ1VzAwS1hVR3hmSkRUcnoybGl0R0lGWU5nY0xIeVkyN05yOEhIb20yNERFelFvTW1fRkJ5SXF6Z0tfVzRh0gFsQVVfeXFMUFlRbWY3bUwtdTVRUjFKYUREYWpLb0hhMmxHN2owcjRyeTF1T3BvVnVFZFJHbHVmYUNxbkFkX3ZiRndCRUlObmNobDYzbFNsZ1lpUGY5RFJNdm1XSGNkc0hhSXp5by04bVpHNjFa?oc=5",
     "title": "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n586a0cf7",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
     "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
     "summary": [
@@ -63,25 +63,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4caae55c",
+    "id": "n27e32122",
     "category": "IT",
-    "source": "녹색경제신문",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zc3B3SEp4bllzMUtTbmN5bzNuY2tvd3FyRXdseXk3X0RKM3JvVVgyekk5a1pULXJLdHVURUZrQ2dNTVlYMElqTWduVHNJaDZOZ1pHNzlramNMRFNrU3FMVE9pUW94cWdf?oc=5",
-    "title": "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\"",
+    "source": "위클리서울",
+    "time": "19시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUmduZDdDWmtGOC12MTVPT09IZEZmUWhCMUh4TERrQnVLeWxmakhDN1l6eUdzNDc0RDZTQUVOLS0td2ZLUjQ2NzA0WlJUWkFyVENrYjhXdzlic0tzZXRaRXc0Z0xwRXUxc25MNw?oc=5",
+    "title": "‘9500억달러’ 반도체 빅딜…삼성은 2나노, SK는 HBM 승부",
     "summary": [
-      "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\" 녹색경제신문."
+      "‘9500억달러’ 반도체 빅딜…삼성은 2나노, SK는 HBM 승부 위클리서울."
     ],
     "chips": [
-      "#반도체",
-      "#삼성전자"
+      "#반도체"
     ]
   },
   {
     "id": "n0b5690bb",
     "category": "IT",
     "source": "데일리인베스트",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZjRjM0hyMjlKWDB3Tkk1RzlnampsNWtWTk43LVAwMHRySDRTbnU0N05xcGFZVFVZWk1jMUZPWU1Ld3NIWTY1SU1BUno4azFGb1JYaHNpN1dwNEJ6aWJ6ck1OTTV4RXh3TlpB0gFvQVVfeXFMUFRIak9Ca1VKUmVSMGJITUxMWjBiS2FoVG5iMkstT3Jsa0I1cjcxcmk1UDlERUduLXgtd0lsbHJhYzlvVUJER2NPZVJLNFlCQkRnclBabVFveXFFZDBpR0FCSnBHLUhuMjNJbXN4UDJF?oc=5",
     "title": "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까",
     "summary": [
@@ -156,17 +155,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2aad78a4",
+    "id": "n0334f5fd",
     "category": "사회",
-    "source": "스포츠동아",
-    "time": "31일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
-    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
+    "source": "뉴시스",
+    "time": "28일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdE1YdkpUSjVXSms1V0FxWUQ0dkh5QkpaOThFSjZHdGxRcVVPTFhrSjZmc2djTjg0MkxsdmdXeUUtTFZWcHNQcE9jQWt0T3FxM20zX2VfUWFlVlZNZk9mZtIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
+    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
     "summary": [
-      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 스포츠동아."
+      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
     ],
     "chips": [
-      "#취업",
+      "#AI",
       "#고용"
     ]
   },
@@ -316,319 +315,341 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n595f2a46",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026072809054173307",
-    "title": "휴넷, 10월 '포사이트 코리아 2027' 개최",
-    "summary": [
-      "휴넷은 오는 10월 1일 그랜드 인터컨티넨탈 서울 파르나스에서 '휴넷CEO 포럼 - 포사이트 코리아 2027'을 개최한다고 28일 밝혔다.",
-      "올해로 3회를 맞는 '포사이트 코리아'는 기업 경영자와 의사결정권자를 대상으로 차기 연도 사업계획 수립에 필요한 핵심 경영 이슈와 전략을 제시하는 사업계획 특화 포럼이다.",
-      "기업들이 내년도 경영 전략을 준비하는 시기에 맞춰 하루 동안 사업계획 전반에 필요한 핵심 내용을 다루며 실행 방향과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nce17a238",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026072809204952903",
-    "title": "\"딥테크 예비창업자 발굴·지원\" 원자력연, 창업아이디어 경진대회",
-    "summary": [
-      "원자력 방사선 분야 딥테크 예비창업자를 발굴하기 위한 경진대회가 열렸다.",
-      "한국원자력연구원(원자력연)은 '제1회 창업아이디어 경진대회'를 개최했다고 28일 밝혔다.",
-      "대회는 전날 6개 팀이 경합하는 방식으로 열렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf741b555",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026072809201848488",
-    "title": "[부고] 김상욱(제이브이엠 대표이사)씨 부친상",
-    "summary": [
-      "[부고] 김상욱(제이브이엠 대표이사)씨 부친상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8413dbbe",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003725818",
-    "title": "동아오츠카, 포카리스웨트 500㎖ 무라벨로…\"100만병 당 비닐 900㎏↓\"",
-    "summary": [
-      "[서울=뉴시스]이주혜 기자 = 동아오츠카가 포카리스웨트 500㎖ 무라벨 제품을 출시했다고 28일 밝혔다.",
-      "비닐 사용량을 줄이고 분리배출 편의성을 높였다.",
-      "동아오츠카는 2024년 340㎖ 제품에 처음으로 무라벨을 적용한 데 이어 500㎖ 제품까지 무라벨 라인업을 확대했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4148d87a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003725816",
-    "title": "\"OTT 혜택부터 1TB 업그레이드까지\"…이통3사, 갤Z8 사전판매 시작",
-    "summary": [
-      "[서울=뉴시스]박은비 기자 = 이동통신3사가 삼성전자의 차세대 폴더블폰 갤럭시 Z8 시리즈 사전판매를 시작했다.",
-      "대화면이 특징인 만큼 온라인동영상서비스(OTT) 맞춤 요금제나 할인 혜택을 기획했다.",
-      "28일 이동통신업계에 따르면 SK텔레콤과 KT, LG유플러스는 이날부터 다음달 3일까지 삼성전자의 갤럭시 Z 폴드8 울트라·폴드8·플립8 사전판매를 진행한다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nf514277f",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026072809190841923",
-    "title": "[인사] 아주경제",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nddf42e01",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003725808",
-    "title": "검찰, '서해 공무원 피격' 수사 해경 간부들 불기소…사건 6년만",
-    "summary": [
-      "[서울=뉴시스]박선정 기자 = 검찰이 '서해 공무원 피격 사건' 수사를 했던 간부들을 불기소 처분했다.",
-      "사건이 벌어진 지 약 6년 만이다.",
-      "28일 법조계에 따르면 서울중앙지검 공공수사1부(부장검사 윤수정)는 직권남용과 허위공문서 작성 등 혐의로 입건된 윤성현 당시 해양경찰청 수사정보국장과 김태균 당시 해경 형사과장을 최근 불기소 처분했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc1fa9552",
+    "id": "n76a05a60",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/stock/2026/07/28/2026072809035753686",
-    "title": "이니텍, 에이아이웍스·하이퍼놀로지와 'AI 얼라이언스' 구축",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153738",
+    "title": "누리하우스, '2026 서울콘\" 공동 개최...글로벌 인플루언서 3000팀 모은다",
     "summary": [
-      "이니텍은 에이아이웍스, 하이퍼놀로지와 AI(인공지능) 기반 산업 혁신과 기업의 AX(인공지능 전환) 가속화를 위한 전략적 업무협약(MOU)을 체결했다고 28일 밝혔다.",
-      "이번 협약은 이니텍과 하이퍼놀로지가 지난 6월 19일 체결한 'AI 산업 지능화 및 디지털 보안 기술 협력' 업무협약을 3사 협력 체계로 확대한 것이다.",
-      "3사는 각사가 보유한 산업 AI와 생성형 AI, 금융 IT 구축·운영 역량을 결합해 제조·금융·공공 등 다양한 산업에서 AI."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n8f26a57c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260728/134376920/1",
-    "title": "갤Z폴드8 시리즈 최대 공식지원금 57.5만원…울트라는 할인해도 200만원",
-    "summary": [
-      "삼성전자의 새 폴더블폰 ‘갤럭시Z8’ 시리즈에 이동통신 3사가 최대 50만원의 공통지원금을 예고했다.",
-      "유통망에서 예고한 추가지원금까지 적용하면 최대 57만5000원의 지원이 보장된다.",
-      "다만 이통사별로 최소 8만5000~10만원 이상 요금제를 이용해야만 받을 수 있는 금액이다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n18f5dfcc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003725822",
-    "title": "헤지스, 아티스트 크리트와 협업…'컬렉터블 아트피스' 출시",
-    "summary": [
-      "[서울=뉴시스]오제일 기자 = 생활문화기업 LF의 프리미엄 캐주얼 브랜드 헤지스(HAZZYS)가 클래식 패션을 예술과 컬렉터블(Collectible) 문화로 확장하는 새로운 브랜드 프로젝트를 선보인다고 28일 밝혔다.",
-      "헤지스는 3D 아티스트 크리트(CCREATT)와 협업한 '서울 시리즈(SEOUL Series)'를 명동 플래그십 스토어 '스페이스H 서울'에서 전시하고, 이를 소장용으로 재해석한 컬렉터블 아트피스를 내달 1일부터 한정 판매한다."
+      "누리하우스가 서울경제진흥원과 손잡고 '2026 서울콘'의 글로벌 경쟁력 강화에 나선다.누리하우스는 서울경제진흥원과 '2026 서울콘' 공동 개최를 위한 업무협약을 체결했다고 28일 밝혔다.",
+      "이번 행사는 오는 12월 서울 동대문디자인플라자에서 개최된다.",
+      "이번 협약에 따라 누리하우스는 서울콘 공동 개최 기관으로 참여해 글로벌 인플루언서 초청부터 브랜드 매칭, 홍보 마케팅, 현장 운영까지 박람회형 프로그램 전반을 총괄한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc562a519",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/stock/2026/07/28/2026072809153466634",
-    "title": "[속보] 코스피 이어 코스닥도 매도 방향 사이드카 발동",
+    "id": "n8957134c",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153734",
+    "title": "[카드뉴스] 오픈AI도, 구글도, 앤트로픽도.. 왜 모두 삼성SDS를 선택했을까?",
     "summary": [
-      "28일 코스닥 시장에서 매도 방향 사이드카가 발동됐다.",
-      "사이드카는 코스닥150 선물 지수가 6% 이상 하락, 1분 이상 지속돼 시장 안정을 위해 발동됐다.",
-      "올해 들어 코스닥 시장에서 사이드카가 발동된 것은 26번째, 매도 방향은 12번째다."
+      "오픈AI와 구글클라우드에 이어 이번에는 앤트로픽까지 삼성SDS를 선택했습니다.",
+      "서로 다른 AI 모델을 만드는 글로벌 기업들이 왜 같은 파트너를 찾고 있는 걸까요? 답은 AI 기술 자체보다, 그 AI를 기업의 업무에 어떻게 연결하느냐에 있습니다.이제 AI 경쟁은 더 뛰어난 모델을 만드는 것을 넘어, 기업이 실제로 활용할 수 있는 환경을 얼마나 완성도 높게 구축하느냐로 옮겨가고 있는데요.",
+      "세계 AI 기업들이 삼성SDS와 손을 잡는 이유는 무엇일까요."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n54e27fee",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260728/134376894/1",
-    "title": "비비 ‘무대 논란’ 후…말없이 공개한 워터밤 비하인드",
-    "summary": [
-      "가수 비비가 ‘워터밤 서울 2026’ 비하인드 사진을 공개했다.",
-      "비비는 27일 소셜미디어에 “#ice your summer”이라는 글과 함께 사진 여러 장을 올렸다.",
-      "사진 속 비비는 무대 뒤 공간에서 무대 의상을 입고 다양한 사진을 남겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n832cde3d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260728/134376884/1",
-    "title": "LPBA 조예은, ‘캄보디아 특급’ 스롱 꺾고 32강 진출 ‘이변’",
-    "summary": [
-      "여자프로당구(LPBA) 조예은이 ‘캄보디아 특급’ 스롱 피아비(우리금융캐피탈)를 꺾는 이변을 연출하고 32강에 안착했다.조예은은 27일 경기 고양시의 고양 킨텍스 PBA 스타디움에서 열린 스롱과의 프로당구 2026~2027시즌 3차 투어 ‘친환경 건축자재 에스와이 PBA-LPBA 챔피언십’ LPBA 64강에서 25-12(16이닝)로 이겼다.1이닝에 4점, 2이닝에 5점을 올리며 빠르게 치고 나간 조예은은 7이닝부터 3이닝 동안 7점을 기록해 1."
-    ],
-    "chips": [
+      "#AI",
       "#환경"
     ]
   },
   {
-    "id": "neb0bfeab",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/28/2026072809177222418",
-    "title": "'유부녀 킬러' 공효진, 살인과 살림 사이 아슬아슬",
+    "id": "n5f38cef3",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153736",
+    "title": "삼성전자·통신사, '8세대 갤럭시Z' 사전판매 경쟁 '점화'...승자는?",
     "summary": [
-      "하이라이트 영상 공개 '유부녀 킬러' 공효진이 가족에게 정체를 숨긴 채 다시 총을 든다.",
-      "MBC 새 금토 드라마 '유부녀 킬러' 측은 28일 킬러와 워킹맘 사이를 오가는 유보나(공효진)의 이중생활을 담은 하이라이트 영상을 공개했다.",
-      "영상은 짧은 형기를 마치고 세상으로 돌아오는 범죄자들과 여전히 고통 속에 살아가는 피해자들의 모습을 대비해 보여주며 시작한다."
+      "삼성전자와 통신사가 스마트폰 ▲갤럭시 Z폴드8 울트라 ▲갤럭시 Z폴드8 ▲갤럭시 Z플립8 예약판매를 개시했다.",
+      "사전 구매자는 8월4일부터 제품을 받을 수 있다.",
+      "국내 공식 출시일은 8월7일이다.28일 삼성전자 SK텔레콤 KT LG유플러스는 폴더블(접는)폰 '8세대 갤럭시 Z시리즈' 예약판매 경쟁에 돌입했다.Z폴드8 울트라 출고가는 ▲램(RAM) 12기가바이트(GB)+저장공간 256GB 257만7300원 ▲램 12GB+저장공간 5."
     ],
     "chips": [
-      "#뉴스"
+      "#삼성전자"
     ]
   },
   {
-    "id": "n7ca65ba9",
+    "id": "n64f2a48b",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/07/28/2026072809024263337",
-    "title": "갤럭스, 박태용 부사장 신임대표 선임…석차옥·박태용 각자대표 체제로",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153737",
+    "title": "[크립토 브리핑] 'FOMC 앞둔 관망' 비트코인 6만3000달러대로 후퇴",
     "summary": [
-      "내년 IPO 앞두고 성장 기반 강화 차원 조직개편 일환…기능별 C-level 책임 경영체계도 확립 인공지능(AI) 신약개발 기업 갤럭스가 박태용 부사장을 신임 대표이사로 선임하고, 석차옥·박태용 각자대표 체제로 전환한다.",
-      "갤럭스는 지난 24일 이사회를 열고 박태용 부사장을 신임 대표이사로 선임했다고 28일 밝혔다.",
-      "이번 각자대표 체제 전환은 장기적인 성장 기반을 강화하고, 내년 말 목표로 추진 중인 기업공개(IPO)를 보다 체계적으로 준비하기."
+      "비트코인이 미국 연방공개시장위원회(FOMC)를 앞둔 관망세 속에 6만3000달러대로 밀려났다.",
+      "미국 기술주 약세와 인공지능(AI) 투자심리 위축이 겹치면서 위험자산 전반에 매도세가 유입된 가운데, 위믹스는 해킹 사고 여파로 이틀새 두 자릿수 하락하며 국내 가상자산 시장 투자심리를 더욱 얼어붙게 했다.28일 오전 8시 기준 글로벌 가상자산 시황 사이트 코인마켓캡에 따르면 비트코인은 24시간 전보다 2% 넘게 하락한 6만3000달러 후반에서 거래됐."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n2f5911f6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728011200005",
-    "title": "[세계유산위] 2천500명과 하나 된 장사익 \"아리랑, 한국인 DNA에 담겨\"",
+    "id": "nfcb0e2d7",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072808040207963",
+    "title": "\"세계 유일 EV 대량생산 시설 보유…중추신경계 질환 신약 개발 중\"",
     "summary": [
-      "(부산=연합뉴스) 김예나 기자 = \"고(故) 박동진 명창께서 '우리 것은 소중한 것이여'라고 하셨죠.",
-      "한국의 유산은 우리가 아름답게 여기고 잘 ..."
+      "경기 김포에 위치한 MD헬스케어(엠디헬스케어) 본사에는 '미생물 세포외소포(EV·Extracellular Vesicle)' 원료 의약품을 생산할 수 있는 시설이 구축돼 있다.",
+      "락토바실러스 파라카제이(Lactobacillus paracasei)라는 유산균이 분비하는 나노 입자, 이른바 'LpEV'를 대량으로 만들어낸다.",
+      "회사는 이를 기반으로 신약 개발과 건강기능식품, 화장품 등 개발 사업을 병행하며 EV 플랫폼 상용화를 추진하고 있다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n9cbe073f",
+    "id": "n63a2a04a",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728034000057",
-    "title": "울산교육청, 여름방학 유아 돌봄 기관 17곳으로 확대",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/policy/2026/07/28/2026072810223994655",
+    "title": "인천시, 내달 3일부터 인천형 예비사회적기업 모집",
     "summary": [
-      "(울산=연합뉴스) 김근주 기자 = 울산교육청은 유치원 여름방학 기간에도 방과후 과정과 돌봄을 지속 운영해 맞벌이 가정 등의 돌봄 공백을 최소화한..."
+      "인천시는 다음달 3일부터 21일까지 '2026년 제2차 인천형 예비사회적기업 지정 공모'를 실시한다고 28일 밝혔다.",
+      "대상은 현재 인천시에 소재한 예비사회적기업 지정 희망기업 및 장애인기업 등이다.",
+      "선정기업에는 △이차보전금 지원 △전문교육 및 컨설팅 참여 △중앙부처 등 공모사업 신청자격 부여 △공공기관 우선구매 대상 및 지원 등 다양한 혜택이 제공된다."
     ],
     "chips": [
+      "#채용",
       "#교육"
     ]
   },
   {
-    "id": "n05b20840",
+    "id": "n3ca6c51d",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728028200030",
-    "title": "CJ대한통운-대신택배, 대형·비규격 상품 배송 협업",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/thebio/2026/07/28/2026072810203576277",
+    "title": "목암생명과학연구소, AI 기반 mRNA 설계 플랫폼 개발 착수",
     "summary": [
-      "(서울=연합뉴스) 조민정 기자 = CJ대한통운은 대신정기화물자동차(대신택배)와 전략적 협력을 통해 대형·비규격 상품으로 배송 서비스 영역을 확대..."
+      "목암생명과학연구소가 'AI 기반 맞춤형 mRNA 구조체 설계 플랫폼 개발 및 실증' 과제 주관기관으로 선정됐다고 28일 밝혔다.",
+      "이번 과제는 과학기술정보통신부가 지원하는 '바이오·의료기술개발사업'의 일환으로 2026년부터 2030년까지 총 45억원의 정부출연금을 지원받아 수행된다.",
+      "고려대와 한양대가 공동 연구기관으로 참여해 차세대 mRNA 백신과 치료제 개발을 위한 연구를 진행한다."
+    ],
+    "chips": [
+      "#AI",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n4ab095d8",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026072719485765563",
+    "title": "'이의신청' 늘었다고 경찰 불신?…결론 뒤집힌 건 고작 2%",
+    "summary": [
+      "사건 처리기간이 늘어나고 이의신청이 폭증했다는 수치가 경찰 수사역량이 부족하다는 것을 보여주는 지표처럼 활용되고 있지만, 실제로 검찰에서 경찰 판단이 뒤집힌 비율은 2% 수준에 불과한 것으로 나타났다.",
+      "사건 처리기간도 수사권 조정 이전 수준까지 회복한 것으로 확인됐다.",
+      "수치의 배경과 함의를 고려하지 않고 수사기관에 대한 불신을 키우는 것은 일선 수사를 위축시키거나 정상적인 수사 결과마저 부정하는 부작용으로."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8a279c10",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728034100062",
-    "title": "원주시·원주DB '원데이 농구교실' 성료… 선수단 재능기부",
+    "id": "n13297717",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003726039",
+    "title": "'층간소음' 이웃 살해 양민준 징역 25년에 쌍방 항소…檢 \"형량 가벼워\"",
     "summary": [
-      "(원주=연합뉴스) 임보연 기자 = 강원 원주시는 원주DB프로미 프로농구단과 함께 추진한 '원주DB프로미와 함께하는 원데이 농구교실'을 성황리에 ..."
+      "[천안=뉴시스]김도현 기자 = 윗집에서 '층간 소음'이 생긴다며 이웃인 70대 노인을 살해한 혐의로 징역 25년을 선고받은 양민준(48)씨와 검찰이 각각 항소를 제기했다.",
+      "28일 지역 법조계에 따르면 살인, 특수재물손괴 혐의로 징역 25년을 선고받은 양씨는 지난 23일 대전지법 천안지원에 항소장을 제출했다.",
+      "이후 다음 날인 24일 검찰도 항소를 제기하면서 쌍방 항소가 이뤄졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9286fa3c",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/07/28/RZEI7FKMZBE2LHP2E3AI2GJJPM/",
-    "title": "한 달 새 정기예금 21조 늘었다…증시에서 예금으로 역(逆)머니무브 움직임",
-    "summary": [
-      "한 달 새 정기예금 21조 늘었다…증시에서 예금으로 역(逆)머니무브 움직임."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b69cddc",
-    "category": "경제",
+    "id": "na83f7368",
+    "category": "부동산",
     "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260728/134376847/1",
-    "title": "[속보]코스피 급락에 매도 사이드카 발동",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260728/134377580/1",
+    "title": "군포 74%·부천 36% 거래량↑…서울 규제에 실수요 몰렸다",
     "summary": [
-      "[속보]코스피, 미국발 찬바람에 급락 출발…5%대 하락."
+      "서울과 수도권 핵심 지역의 공급 부족과 규제 강화 영향으로 올해 부천과 군포의 아파트 거래량이 지난해보다 최대 74% 급증한 것으로 나타났다.",
+      "서울 접근성이 좋고 가격 부담이 상대적으로 낮은 비규제 지역으로 실수요가 이동하는 ‘풍선효과’가 나타났다는 분석이다.28일 국토교통부 실거래가 공개시스템에 따르면 올해 1월 1일부터 7월 27일까지 부천에서 거래된 아파트는 총 4688건으로 지난해 같은 기간(3439건)보다 1249건(36.3%) 증가했."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
+    "id": "neb456ee3",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/28/2026072810232790924",
+    "title": "NS홈쇼핑, AI 혁신 가속화...'엔송이'로 생산성 8배 ↑",
+    "summary": [
+      "NS홈쇼핑은 콘텐츠 제작 AI(인공지능) '엔송이'를 활용해 업무 생산성을 향상시키는 등 업무 혁신을 위해 AI를 적극 활용하고 있다고 28일 밝혔다.",
+      "엔송이는 TV컨텐츠사업본부와 IT본부가 함께 기획·개발한 AI 기반 콘텐츠 제작 시스템이다.",
+      "방송 화면 제작과 쇼호스트·상품 합성, 이미지 생성 등 방송 제작 현장에 필요한 기능을 지원한다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nb49164a7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260728/134377577/1",
+    "title": "카페 의자 분리돼 ‘우당탕’…손님 다치게 한 업주 벌금형",
+    "summary": [
+      "카페 의자를 제대로 점검하지 않아 손님을 다치게 한 혐의로 재판에 넘겨진 40대 업주에게 벌금형이 선고됐다.인천지법 형사11단독 신창용 판사는 과실치상 혐의로 기소된 무인카페 업주 A(49)씨에게 벌금 70만원을 선고했다고 28일 밝혔다.A씨는 지난해 8월19일 오후 8시49분께 인천 부평구 부개동에 있는 자신이 운영하는 무인카페에서 손님 B(51)씨를 다치게 한 혐의로 재판에 넘겨졌다.당시 B씨는 의자에 앉던 중 의자 받침대 고정핀이 분리되며."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n0d3168fb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/HA3TQNTGMI4TCMJTMEYGCM3BMQ/",
+    "title": "조승우 아역이었어? 문우진, ‘동궁’ 첫 등장부터 압도…서늘한 내면연기",
+    "summary": [
+      "[OSEN=강서정 기자] 배우 문우진이 넷플릭스 시리즈 '동궁'에서 조승우의 어린 시절을 완벽하게 그려내며 강렬한 존재감을 발산했다.문우진은 지난 17일 공개된 넷플릭스 시리즈 '동궁'(연출 최정규, 극본 권소라·서재원)에서 왕(조승우 분)의 어린 시절을 맡아 짧은 등장만으로도 깊은 인상을 남겼다.'동궁'은 귀(鬼)의 세계를 넘나드는 능력을 지닌 구천과 비."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb9d58f42",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003726040",
+    "title": "엔화, 美 기준금리 동향 관망에 1달러=163엔대 후반 하락 출발",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 엔화 환율은 28일 미국 기준금리 동향에 관심이 모아지는 가운데 엔 매도, 달러 매수가 유입하면서 1달러=163엔대 후반으로 내려 시작했다.",
+      "도쿄 외환시장에서 엔화 환율은 이날 오전 8시30분 시점에 1달러=163.73~163.74엔으로 전일 오후 5시 대비 0.21엔 하락했다.",
+      "연방준비제도(Fed 연준)는 28~29일(현지시간) 열리는 연방공개시장위원회(FOMC)에서 5회의 연속으로 기준금리를 동결한다는 관측이."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
+    "id": "n8389000a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260728/134377574/1",
+    "title": "아일릿 ‘틱-택’, 스포티파이서 2억 스트리밍 돌파…통산 세 번째",
+    "summary": [
+      "그룹 아일릿(ILLIT)의 ‘틱-택’(Tick-Tack)이 스포티파이에서 2억 스트리밍을 돌파했다.28일 스포티파이에 따르면 아일릿(윤아, 민주, 모카, 원희, 이로하) 미니 2집 ‘아이 윌 라이크 유’(I‘LL LIKE YOU)의 수록곡 ’틱-택‘이 지난 26일 기준 누적 2억 23만 727회 재생됐다.",
+      "이로써 아일릿은 통산 세 번째 2억 스트리밍 곡을 가지게 됐다.’틱-택‘은 시시각각 변하는 시끄러운 속마음을 담은 팝 장르의 곡이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c777040",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026072809582518791",
+    "title": "AI 보안 연합체 띄운 엔비디아…네이버·SKT 합류(종합)",
+    "summary": [
+      "엔비디아가 주요 빅테크, 사이버 보안 기업과 출범한 글로벌 인공지능(AI) 보안 연합체 '오픈 시큐어 AI 얼라이언스'에 네이버, SK텔레콤이 함께 참여한다.",
+      "AI 보안 위협이 급속도로 확산하는 가운데 국내 기업의 초기 연합체 합류는 AI 생태계 주도권 확보에 긍정적인 영향을 미칠 것으로 보인다.",
+      "엔비디아는 AI 안전과 사이버 보안을 강화하기 위한 오픈 시큐어 AI 얼라이언스를 출범하고 회원사를 중심으로 AI 활용과 신뢰도 향."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n83905cce",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/28/2026072809491929731",
+    "title": "애경산업·동성제약, 中 푸단대와 맞손…피부과학·AI 연구 협력 확대",
+    "summary": [
+      "태광그룹 계열 애경산업과 동성제약이 중국 연구중심대학인 푸단대학교 장강연구원과 피부과학 및 뷰티 연구개발 협력을 위한 전략적 업무협약(MOU)을 체결했다.",
+      "양측은 이번 협약을 통해 피부과학과 화장품, 의약·헬스케어 분야에서 장기 협력 체계를 구축하고 공동 연구와 기술 사업화를 추진한다.",
+      "연구 역량과 제품 개발 경험, 임상·연구 네트워크를 공유하며 글로벌 시장 진출 기반도 함께 마련할 계획이다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n04863cf4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003726017",
+    "title": "조국혁신당 \"수사권 우회로 남기면 검찰개혁 포기…與, 당론 준수해야\"",
+    "summary": [
+      "[서울=뉴시스] 이창환 기자 = 조국혁신당은 28일 검사의 보완수사권 폐지 등이 담기는 형사소송법 개정안과 관련해 \"보완수사권이나 전건송치를 슬그머니 숨겨두는 것을 포함해 검찰 수사권을 우회적으로 남기는 일은 없어야 한다\"고 했다.",
+      "김준형 조국혁신당 원내대표는 이날 오전 국회에서 열린 의원총회에서 이같이 말하며 \"그것은 검찰개혁의 포기다.",
+      "검찰개혁의 대원칙을 뒤집는 것은 광장에서 함께 싸워온 동지의 등에 칼을 꽂는 것이며 국민과의 약속을 저버리."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb75db72e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003726024",
+    "title": "창녕군, 맥도날드와 손잡고 창녕마늘 해외시장 진출",
+    "summary": [
+      "[창녕=뉴시스] 안지율 기자 = 경남 창녕군은 정부서울청사에서 한국맥도날드와 함께 지역 농특산물의 해외시장 진출과 판로 확대를 위한 상생협약을 체결했다고 28일 밝혔다.",
+      "이번 협약으로 창녕마늘을 활용한 소스가 해외 시장에 출시될 예정이다.",
+      "창녕군은 지난 27일 정부서울청사에서 행정안전부와 충주시, 홍천군, 진주시, 한국맥도날드와 함께 지역 특산물 활용 협업 제품 개발 및 해외시장 진출을 위한 상생협약(MOU)을 체결했다 이번 협약은 행정안전부."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5cd0f72d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260728/134377567/2",
+    "title": "국힘 “檢 보완수사권 폐지, 국민이 졸속 법안 실험대상 돼”",
+    "summary": [
+      "국민의힘은 28일 더불어민주당이 추진 중인 검찰 보완수사권 폐지 법안을 두고 “우리 국민이 졸속 법안의 실험 대상이 됐다”고 비판했다.정점식 국민의힘 원내대표는 이날 국회에서 열린 원내대책회의에서 “민주당이 30일 국회 본회의에서 검찰의 보완수사권 폐지를 처리하겠다고 밝혔다.",
+      "피해자 보호 수단을 확대하고 상호 견제를 강화하는 대안이라고 자평했다”며 이같이 말했다.",
+      "이어 “그렇게 좋은 개정안이라면 왜 정성호 법무부장관이 그 좋은 검찰개혁을 계속하."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8db60ef1",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026072810274532223",
+    "title": "여주시, 베트남 계절근로자 20명 첫 입국…금융·건강 지원 '원스톱",
+    "summary": [
+      "경기 여주시(시장 이충우)가 올해 하반기 외국인 계절근로자 입국을 시작하며 금융과 건강 지원을 결합한 맞춤형 환영 프로그램을 운영했다.",
+      "여주시는 지난 27일 베트남 계절근로자 20명의 첫 입국을 맞아 환영 행사를 개최했다고 28일 밝혔다.",
+      "이번 입국은 하반기 외국인 계절근로자 입국의 시작인 동시에 여주시와 베트남 지방정부 간 업무협약(MOU)을 통해 입국한 첫 번째 계절근로자들이라는 점에서 의미를 더했다."
+    ],
+    "chips": [
+      "#의료"
     ]
   }
 ];
@@ -637,21 +658,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "tag": "AI",
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "뉴스",
     "mentions": "1810건",
     "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
