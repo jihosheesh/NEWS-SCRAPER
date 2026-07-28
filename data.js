@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-28 17:29:43
+// 마지막 업데이트: 2026-07-28 18:26:47
 window.NEWS_DB = [
   {
     "id": "nb69089aa",
     "category": "IT",
     "source": "한겨레",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YnhuU2t6aVJaMmd5LXJmWlp4OE95OWRUeHhONlRkM3kzZzdsWG9HTzJhZDQ5WVZaRE9QVkxrak1GMk9nS0Q5M2I1SzE5S2Z2R3FyV2R2N2RySFhEOWhWVQ?oc=5",
     "title": "엔비디아 ‘순환거래’에 전세계 반도체주 ‘휘청’…AI 투자 리스크 재점화",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "n56f0e747",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fSFFnQ2l0emJMeWU4Rll6NkM4TVBleUNQb29vTlc0TWNLSS1jaEpkUHpwOVFtZ3ROUVBSRzdvSEFpSWlGRjdGbkRyTjh6TmRhazBrd3o0S0lHSmxkaV9IU2tOUzQ?oc=5",
     "title": "엔비디아와 ‘자본 동맹’ 네이버, ‘각 세종’ AI 팩토리로 키운다",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "nc2d73c88",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwc1V4SnJRUDVSLVpuZWtVOFNudVBUeFlQUG1Ia0s3Q1dISlRDOXg1UTlpNTN2RnJRaGtPTmNXajF0azNjMHlsY1JHcU02bnloQVNqSFBqYTRvZVJHbXNocFZuSklIUVdWQTVvR1I4YWF1Mms?oc=5",
     "title": "엔비디아 '데이터센터 임대' 사업도 직접 나선다, 미국 텍사스에 최대 500억 달러 투자",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "nd7688cb4",
     "category": "IT",
     "source": "투데이충남",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKd2VaaE5XZ0dpcDlqRVJXQUJpcmZWNFlCTHk2X0FHXzd4c0hhXy1QenJTcmRrdzFtMXBRcmh4ZG4zTmFpZ0F3WFN4OGZkZUU2UG5jMnJYd2E4X2dNeEt1RUxaS0F2OGcwaF9kTmtUTmdQUQ?oc=5",
     "title": "대전시, 제5기 D-유니콘 출범…유망 스타트업 6개사 집중 육성",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "n26d285ac",
     "category": "IT",
     "source": "더에이아이",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzX1E0cjRrRGpNWW9mVlRtcFB6d0RKYUlhSndpVnNlSXhUZUNJSGVvRV9RR0pDLXhEY2NJVUM2NXFRQVU0d1VIaDBEQ0o2ZVZFUDFTTHdhYWFWVlV1ZTZxN1FMNDlSdmxvWlE?oc=5",
     "title": "HBM 두뇌가 된 베이스다이, 데이터량 폭증이 만든 새 ‘승부처’",
     "summary": [
@@ -171,6 +171,34 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nba91eead",
+    "category": "부동산",
+    "source": "웹플러스뉴스",
+    "time": "33일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
+    "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
+    "summary": [
+      "전국 집값 상승세 속…대구·경북은 매매 하락 지속 웹플러스뉴스."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n207a7abe",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "35일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
+    "summary": [
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -244,35 +272,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n37646dcf",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "61일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
-    "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n72b90564",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "63일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
-    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
-    "summary": [
-      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -317,41 +316,205 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe0cf3b7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/29/GVSTIZJVMVSTIMZZGE2DGYLFHA/",
-    "title": "'에이스가 어쩌다...' 1이닝 8실점 고개 떨군 올러, 후반기 3경기 연속 부진→3연패 충격",
+    "id": "n8ebe1149",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/finance/2026/07/29/2026072820210418047",
+    "title": "연체율 관리 급한 상호금융, 집단대출 완화에 기대 ↑",
     "summary": [
-      "[대구=스포츠조선 박재만 기자] 전반기 KIA 타이거즈의 에이스였던 올러가 후반기 들어 완전히 다른 투수가 됐다.",
-      "믿었던 1선발은 고개를 떨군 채 마운드를 내려와야 했다.",
-      "KIA 타이거즈 외국인 투수 올러는 28일 대구 라이온즈파크에서 열린 삼성 라이온즈와의 경기에 선발 등판해 1이닝 7피안타 3볼넷 8실점(8자책점)을 기록하며 스스로 무너졌다."
+      "가계대출 영업제한 돌파구 시중은행과 금리경쟁 관건 정부의 집단대출 규제완화로 상호금융권이 기대하는 분위기다.",
+      "올해 신규 가계대출 취급이 제한된 상황에서 집단대출은 그나마 막힌 숨통을 틀 수 있는 방법이다.",
+      "특히 연체율 관리가 시급한 지방의 금고·조합 중심으로 집단대출을 취급하려는 수요가 클 것으로 전망된다."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n994c2d06",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/industry/2026/07/29/2026072820143239069",
+    "title": "키옥시아 '10배 보은'… SK하이닉스, 세전익 100조 넘본다",
+    "summary": [
+      "메리츠證, 영업익 60조·지분매각 차익 등 40조 추정 HBM 수요·D램 등 가격 상승 영향… 성장 지속 전망 SK하이닉스가 8년 전에 단행한 키옥시아(Kioxia·옛 도시바 메모리사업부) 투자가 결실을 맺으며 분기 세전이익이 100조원을 넘어설 것이라는 전망이 나왔다.",
+      "세전이익 100조원 돌파는 HBM(고대역폭메모리)을 필두로 한 메모리반도체(이하 메모리) 사업호조에 40조원 규모의 투자회수 이익이 영업외이익으로 합산된 결과다."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n1b3a7b99",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003727195",
+    "title": "트럼프-젤렌스키 백악관 회동…\"역대 가장 좋은 관계\" 평가",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 우크라이나의 볼로디미르 젤렌스키 대통령이 28일(현지 시간) 백악관에서 도널드 트럼프 미국 대통령과 회담했다.",
+      "두 정상 모두 국내 정치적으로 어려움을 겪고 있지만, 양국 관계는 어느 때보다 가까워졌다는 평가가 나온다.",
+      "이날 뉴욕타임스(NYT)에 따르면 젤렌스키 대통령은 이번 회담에서 교착 상태에 빠진 러시아·우크라이나 평화 협상을 재개하고, 특히 방공망 강화를 위한 미국의 추가 무기 지원을 요청한 것으로 알려졌다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1dd126ca",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729003300071",
+    "title": "트럼프, 네타냐후·젤렌스키와 잇단 비공개회담…전쟁 돌파구 모색",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 28일(현지시간) 베냐민 네타냐후 이스라엘 총리 및 볼로디미르 젤렌스키 우크라..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na03c7864",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026072903152652769",
+    "title": "트럼프 \"합의 안 하면 이란 교량·발전소 사라질 것\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 28일(현지시간) 이란과의 대화가 진전되고 있다고 밝히면서도 합의가 이뤄지지 않을 경우 교량과 발전소 등 주요 기반시설을 대거 파괴할 수 있다고 위협했다.",
+      "트럼프 대통령은 이날 폭스뉴스와의 전화 인터뷰에서 \"이란은 나와 핵 문제를 논의하지 않았다고 주장하겠지만, 핵 문제는 우리 대화의 전부\"라며 \"이란은 절대 핵무기를 보유하지 못할 것이고, 그들도 이를 알고 있다\"고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3435d35f",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/29/2026072819543893694",
+    "title": "상파울루서 '세일즈 외교'… 양국 기업인과 협력 확대 모색",
+    "summary": [
+      "李대통령, 브라질 국빈방문 룰라와 136분 정상회담… 교육·에너지 등 MOU 7건 성과 공동 언론발표 후 손하트, '소년공 동지' 각별한 우정 과시 경제사절단과 비즈니스 라운드 테이블 참석, 투자 등 논의 브라질을 국빈방문한 이재명 대통령이 브라질리아에서 열린 정상회담에서 양국 협력관계를 공고히 한 뒤 브라질 경제의 심장인 상파울루로 향했다.",
+      "이 대통령은 한-브라질 기업인들을 만나 실질적인 경제협력 방안을 논의했다.",
+      "이 대통령은 지난 27일 밤."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "na869f04a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/29/2026072902544510047",
+    "title": "박소율, 문희준에 '장원영 다이어트' 권유…결과 '극대노'",
+    "summary": [
+      "박소율이 남편 문희준에게 저작 운동을 오래하는 '아이돌 다이어트'를 권유했지만 문희준이 강한 거부감을 드러내며 폭소를 안겼다.",
+      "28일 방영된 SBS '동상이몽2 너는 내 운명' 449회에서는 문희준이 다이어트를 하는 모습이 그려졌다.",
+      "이날 박소율은 남편의 다이어트를 위해 샐러드와 삶은 달걀, 닭가슴살로 식사를 꾸렸다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n86ca448f",
-    "category": "스포츠",
+    "id": "neb72996b",
+    "category": "사회",
     "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/29/MZSDGOJYGNQTANLBMI3DCZBVGU/",
-    "title": "박세웅 2⅔이닝 충격 강판, 롯데 어렵나 했는데…김태형 감독 \"이닝 확실하게 책임진 현도훈 칭찬하고 싶다\"",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/national/2026/07/29/3VXPV3WKSFE2HGZCTGRNWRIUGY/",
+    "title": "[굿모닝 멤버십] 눈웃음 한 번에… 여포, 넙죽 엎드리더니",
     "summary": [
-      "[OSEN=대전, 조은혜 기자] 프로야구 롯데 자이언츠가 시즌 최다 20안타를 몰아치고 한화 이글스를 제압했다.김태형 감독이 이끄는 롯데는 28일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 한화와의 원정경기에서 9-3으로 승리했다.",
-      "이날 승리로 롯데는 2연승으로 시즌 전적 42승51패2무를 만들었다.지난 26일 사직 KT전에서도 15안타."
+      "[굿모닝 멤버십] 눈웃음 한 번에… 여포, 넙죽 엎드리더니."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a4ef2ab",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/07/29/BYPJTUGXI5BWHLHPEFFA7J5OO4/",
+    "title": "신림동 칼부림 3년⋯ 그 골목은 아직도 공포에 떤다",
+    "summary": [
+      "신림동 칼부림 3년⋯ 그 골목은 아직도 공포에 떤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c340630",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/economy/money/2026/07/29/HF3XJZPYXZC3HK65WWIOFLTKT4/",
+    "title": "한살 때 1000만원 vs. 스무살에 1000만원… 무시무시한 ‘복리’ 작동법",
+    "summary": [
+      "한살 때 1000만원 vs. 스무살에 1000만원… 무시무시한 ‘복리’ 작동법."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n507ba1f1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/national/education/2026/07/29/S5LHSUSRQFDRLLKEKVB2M4VYBM/",
+    "title": "호텔에서 ‘turndown’은 ‘거절하다’가 아니라 서비스?",
+    "summary": [
+      "호텔에서 ‘turndown’은 ‘거절하다’가 아니라 서비스?."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc79d78c",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729002800091",
+    "title": "메타, '블랙록 80% 지분' 합작사 세워 20조원 AI데이터센터 구축",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 페이스북 운영사 메타가 세계 최대 자산운용사 블랙록과 함께 140억 달러(약 20조원) 규모 인공지능..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n75f73911",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "45분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260729/134384232/1",
+    "title": "李대통령 “상파울루, ‘한국문화의 날’ 기념일 제정…신뢰·존중 보여주는 상징”",
+    "summary": [
+      "이재명 대통령은 28일(현지시간) 브라질 동포들을 만나 “상파울루 주(州)가 한인 이민의 날, 한국 문화의 날을 공식 기념일로 지정하고 한글의 날까지 제정한 것은 브라질 사회가 한국 동포를 얼마나 신뢰하고 존중하는지 보여주는 상징”이라며 “동포 여러분들께서 쌓아온 신뢰 위에서 대한민국과 브라질의 관계가 더 깊어지고 있다”고 했다.이 대통령은 이날 낮 브라질 상파울루의 그랜드하얏트 호텔에서 브라질 동포 간담회를 열고 “어제 다섯 번째로 만난 룰라."
+    ],
+    "chips": [
+      "#정치"
     ]
   },
   {
     "id": "n1ff0cd9a",
     "category": "IT",
     "source": "테크M",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153778",
     "title": "카카오, AI 기술부터 일상까지...오픈소스 공개·펫레터로 AI 생태계 입지 확대",
     "summary": [
@@ -368,7 +531,7 @@ window.NEWS_DB = [
     "id": "n3cc85eb0",
     "category": "사회",
     "source": "테크M",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153777",
     "title": "CJ ENM, 아마존 프라임 비디오 인도와 '맞손'...K-콘텐츠 공략 본격화",
     "summary": [
@@ -384,7 +547,7 @@ window.NEWS_DB = [
     "id": "nab55f265",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260729001100072",
     "title": "한인 주지사 후보에 美정가 주목…\"민주당 주류 흔드는 좌파\"",
     "summary": [
@@ -398,7 +561,7 @@ window.NEWS_DB = [
     "id": "nd1c0f6cf",
     "category": "사회",
     "source": "뉴시스",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260729_0003727194",
     "title": "젤렌스키 \"트럼프와 패트리엇·평화협상 논의\"",
     "summary": [
@@ -413,7 +576,7 @@ window.NEWS_DB = [
     "id": "n34e37088",
     "category": "IT",
     "source": "테크M",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153772",
     "title": "하이브, 아티스트 종횡무진에 공연·앨범·MD '껑충'...최대 실적 이어간다(종합)",
     "summary": [
@@ -429,7 +592,7 @@ window.NEWS_DB = [
     "id": "ne9446c1b",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260729002300085",
     "title": "\"FIFA, 월드컵 운영 자회사 세워 민간에 지분 매각 추진\"",
     "summary": [
@@ -443,7 +606,7 @@ window.NEWS_DB = [
     "id": "nfd614969",
     "category": "IT",
     "source": "테크M",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153776",
     "title": "'가디언 테일즈' 흥행 잇는다...카카오게임즈·콩 스튜디오, 다시 '맞손'",
     "summary": [
@@ -469,167 +632,6 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
-  },
-  {
-    "id": "n2fabde8e",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003727192",
-    "title": "호르무즈 긴장 완화에 유가 4% 급락…\"공급 리스크는 여전\"",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 국제유가가 이란이 사우디아라비아, 오만과 호르무즈 해협 문제를 논의했다는 소식에 하락했다.",
-      "28일(현지 시간) CNBC에 따르면 브렌트유 선물은 전장 대비 3.9% 하락한 배럴당 84.91달러를 기록했다.",
-      "미국 서부텍사스산원유(WTI) 선물도 3.3% 내린 배럴당 79.87달러에 거래됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbeaec124",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728131551109",
-    "title": "젤렌스키 \"트럼프와 패트리엇 면허 논의…외교절차 재개 공감\"(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 28일(현지시간) 미국 워싱턴DC 백악관에서 도널드 트럼프 미국 대통..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne1decfe7",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003726396",
-    "title": "美 남성 \"AI가 아동 성범죄자로 허위 지목\"…구글 상대 200억 소송",
-    "summary": [
-      "[서울=뉴시스]이준형 기자 = 미국의 보수 논객이 구글의 인공지능(AI)이 자신을 아동 성범죄자로 허위 지목해 명예를 훼손했다며 제기한 약 200억원 규모의 손해배상 소송이 본격적인 재판 절차에 들어가게 됐다.",
-      "지난 25일(현지 시간)미국 매체 뉴욕포스트에 따르면 미국 델라웨어주 상급법원의 메건 애덤스 판사는 보수 논객 로비 스타벅이 구글을 상대로 낸 1500만 달러(약 219억원) 규모의 명예훼손 및 정신적 피해보상 청구 소송에서 구글 측의."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n16166097",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729001800001",
-    "title": "李대통령 \"임기 초 최대한 많은 나라 방문…경제협력 큰 도움\"",
-    "summary": [
-      "(상파울루=연합뉴스) 임형섭 황윤기 기자 = 브라질을 국빈 방문한 이재명 대통령은 28일(현지시간) \"국가 간 관계를 정상화·심화하기 위해 임기..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9c85a0b3",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026072821394569591",
-    "title": "넘버 3 유해란의 위대한 도전…'이번엔 메이저 3연승'",
-    "summary": [
-      "세계랭킹 3위 유해란이 영국에서 위대한 도전에 나선다.",
-      "유해란은 30일(한국시간) 영국 잉글랜드 랭커셔 로열 리덤 앤드 세인트 앤스 골프클럽(파72·6601야드)에서 열리는 미국여자프로골프(LPGA) 투어 2026시즌 마지막 메이저 대회 AIG 위민스 오픈(총상금 1000만 달러)에 출전한다.",
-      "그는 이 대회에서 메이저 대회 3연속 우승이라는 진기록에 도전한다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n45293a84",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607291645i",
-    "title": "월가, 이젠 한국 증시보고 투자 결정한다[박신영의 개장전 요것만]",
-    "summary": [
-      "월가, 이젠 한국 증시보고 투자 결정한다[박신영의 개장전 요것만]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf8724d60",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607291646i",
-    "title": "AI가 엮은 운명…코스피와 나스닥 100 동조화",
-    "summary": [
-      "AI가 엮은 운명…코스피와 나스닥 100 동조화."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n61069f51",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729000600072",
-    "title": "美 카드사 비자, 인력 7% 감축…\"결제 산업 변곡점 대응\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 글로벌 결제망 업체 비자가 급변하는 업계 환경에 적응하기 위해 전체 인력의 약 7%에 해당하는 2천600명을..."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nba0a38fa",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607291652i",
-    "title": "휘발유값 반등에 美 7월소비자신뢰지수 다시 하락",
-    "summary": [
-      "휘발유값 반등에 美 7월소비자신뢰지수 다시 하락."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nec7c1dc5",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260729/134384134/2",
-    "title": "트럼프, 젤렌스키와 백악관 회담 종료…휴전 제안 푸틴에 전할 듯",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 28일(현지 시간) 백악관에서 볼로디미르 젤렌스키 우크라이나 대통령과 만나 러시아·우크라이나 전쟁 종식을 위한 새로운 외교적 해법을 논의했다.",
-      "한때 경색됐던 양국 관계가 회복 조짐을 보이는 모양새다.",
-      "뉴욕타임스(NYT) 등에 따르면 젤렌스키 대통령은 트럼프 대통령과의 예정된 회담을 갖기 위해 이날 오전 9시40분경 백악관에 도착했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5f4bb38e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260729/134384154/1",
-    "title": "스윙스, 마운자로 투약 고백…“실패하면 위절제술”",
-    "summary": [
-      "래퍼 스윙스가 비만 치료를 위해 ‘마운자로’를 투약 중이라고 밝힌 가운데 “이것마저 실패하면 위절제술을 하겠다”고 말하며 체중 감량에 대한 의지를 드러냈다.지난 24일 유튜브 채널 ‘딘딘은 딘딘’에 공개된 영상에서 딘딘과 래퍼 매드클라운, 스윙스는 일본 도쿄의 한 돈가스 식당을 찾아 식사했다.스윙스가 빠른 속도로 돈가스를 먹는 모습을 본 딘딘은 “형이 돈가스를 우리보다 작은 거 시켰나?”라고 물었고, 매드클라운은 “똑같은 걸 시켰는데 속도가 2."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -637,7 +639,7 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
+    "tag": "정치",
     "mentions": "1940건",
     "trend": "+195%"
   },
@@ -649,7 +651,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "정치",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   }
