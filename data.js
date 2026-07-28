@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-28 16:30:52
+// 마지막 업데이트: 2026-07-28 17:29:43
 window.NEWS_DB = [
   {
     "id": "nb69089aa",
     "category": "IT",
     "source": "한겨레",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YnhuU2t6aVJaMmd5LXJmWlp4OE95OWRUeHhONlRkM3kzZzdsWG9HTzJhZDQ5WVZaRE9QVkxrak1GMk9nS0Q5M2I1SzE5S2Z2R3FyV2R2N2RySFhEOWhWVQ?oc=5",
     "title": "엔비디아 ‘순환거래’에 전세계 반도체주 ‘휘청’…AI 투자 리스크 재점화",
     "summary": [
@@ -19,26 +19,26 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n78e9414a",
+    "id": "n56f0e747",
     "category": "IT",
-    "source": "아이씨엔매거진",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQYU1rZ2hOYXl2WUgtNFQzUnB3eGU3c2t4dTVFb1RsQ1FUc2VoVi1lSHI5MGVpYURIenFEVnF5OC1jWFliOU1MMTF4RlVaVlFOU3BsaUk1VkZ3LUZNWWI3UkI4VTBSV2hxMzF0WFdMUllNOHFudGNIRjVqUzZGVzM1ZmgxbHB4M2VCTzJUXzNEczRMeVVXajNlYUdKZWpXd25ZY1BsZU1fWE1TMjRQckt3cGNnQ2hndzhtZGdHVXJuOGI4Z0t5RlJWS01na21BcXF0TndYSkRDRWVwS0JNekZKUU12RmlKd3gtZWFTaEtuYm5iVDNWRjkxLUlyS1ZnXzExTFlfaDNBUDREdjNVVklUcDQ1OU1XRnFObzk0?oc=5",
-    "title": "AI가 반도체 직접 설계 엔비디아 신기술 공개",
+    "source": "서울경제TV",
+    "time": "8시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fSFFnQ2l0emJMeWU4Rll6NkM4TVBleUNQb29vTlc0TWNLSS1jaEpkUHpwOVFtZ3ROUVBSRzdvSEFpSWlGRjdGbkRyTjh6TmRhazBrd3o0S0lHSmxkaV9IU2tOUzQ?oc=5",
+    "title": "엔비디아와 ‘자본 동맹’ 네이버, ‘각 세종’ AI 팩토리로 키운다",
     "summary": [
-      "AI가 반도체 직접 설계 엔비디아 신기술 공개 아이씨엔매거진."
+      "엔비디아와 ‘자본 동맹’ 네이버, ‘각 세종’ AI 팩토리로 키운다 서울경제TV."
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#엔비디아"
+      "#엔비디아",
+      "#네이버"
     ]
   },
   {
     "id": "nc2d73c88",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwc1V4SnJRUDVSLVpuZWtVOFNudVBUeFlQUG1Ia0s3Q1dISlRDOXg1UTlpNTN2RnJRaGtPTmNXajF0azNjMHlsY1JHcU02bnloQVNqSFBqYTRvZVJHbXNocFZuSklIUVdWQTVvR1I4YWF1Mms?oc=5",
     "title": "엔비디아 '데이터센터 임대' 사업도 직접 나선다, 미국 텍사스에 최대 500억 달러 투자",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "nd7688cb4",
     "category": "IT",
     "source": "투데이충남",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKd2VaaE5XZ0dpcDlqRVJXQUJpcmZWNFlCTHk2X0FHXzd4c0hhXy1QenJTcmRrdzFtMXBRcmh4ZG4zTmFpZ0F3WFN4OGZkZUU2UG5jMnJYd2E4X2dNeEt1RUxaS0F2OGcwaF9kTmtUTmdQUQ?oc=5",
     "title": "대전시, 제5기 D-유니콘 출범…유망 스타트업 6개사 집중 육성",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "n26d285ac",
     "category": "IT",
     "source": "더에이아이",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzX1E0cjRrRGpNWW9mVlRtcFB6d0RKYUlhSndpVnNlSXhUZUNJSGVvRV9RR0pDLXhEY2NJVUM2NXFRQVU0d1VIaDBEQ0o2ZVZFUDFTTHdhYWFWVlV1ZTZxN1FMNDlSdmxvWlE?oc=5",
     "title": "HBM 두뇌가 된 베이스다이, 데이터량 폭증이 만든 새 ‘승부처’",
     "summary": [
@@ -156,17 +156,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0334f5fd",
+    "id": "n2aad78a4",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "29일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdE1YdkpUSjVXSms1V0FxWUQ0dkh5QkpaOThFSjZHdGxRcVVPTFhrSjZmc2djTjg0MkxsdmdXeUUtTFZWcHNQcE9jQWt0T3FxM20zX2VfUWFlVlZNZk9mZtIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
-    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
+    "source": "sports.donga.com",
+    "time": "32일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
+    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
     "summary": [
-      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
+      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 sports.donga.com."
     ],
     "chips": [
-      "#AI",
+      "#취업",
       "#고용"
     ]
   },
@@ -317,10 +317,41 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbe0cf3b7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/29/GVSTIZJVMVSTIMZZGE2DGYLFHA/",
+    "title": "'에이스가 어쩌다...' 1이닝 8실점 고개 떨군 올러, 후반기 3경기 연속 부진→3연패 충격",
+    "summary": [
+      "[대구=스포츠조선 박재만 기자] 전반기 KIA 타이거즈의 에이스였던 올러가 후반기 들어 완전히 다른 투수가 됐다.",
+      "믿었던 1선발은 고개를 떨군 채 마운드를 내려와야 했다.",
+      "KIA 타이거즈 외국인 투수 올러는 28일 대구 라이온즈파크에서 열린 삼성 라이온즈와의 경기에 선발 등판해 1이닝 7피안타 3볼넷 8실점(8자책점)을 기록하며 스스로 무너졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n86ca448f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/29/MZSDGOJYGNQTANLBMI3DCZBVGU/",
+    "title": "박세웅 2⅔이닝 충격 강판, 롯데 어렵나 했는데…김태형 감독 \"이닝 확실하게 책임진 현도훈 칭찬하고 싶다\"",
+    "summary": [
+      "[OSEN=대전, 조은혜 기자] 프로야구 롯데 자이언츠가 시즌 최다 20안타를 몰아치고 한화 이글스를 제압했다.김태형 감독이 이끄는 롯데는 28일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 한화와의 원정경기에서 9-3으로 승리했다.",
+      "이날 승리로 롯데는 2연승으로 시즌 전적 42승51패2무를 만들었다.지난 26일 사직 KT전에서도 15안타."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n1ff0cd9a",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "19분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153778",
     "title": "카카오, AI 기술부터 일상까지...오픈소스 공개·펫레터로 AI 생태계 입지 확대",
     "summary": [
@@ -337,7 +368,7 @@ window.NEWS_DB = [
     "id": "n3cc85eb0",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "20분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153777",
     "title": "CJ ENM, 아마존 프라임 비디오 인도와 '맞손'...K-콘텐츠 공략 본격화",
     "summary": [
@@ -350,10 +381,39 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nab55f265",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729001100072",
+    "title": "한인 주지사 후보에 美정가 주목…\"민주당 주류 흔드는 좌파\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 중서부의 대표적인 경합주인 위스콘신에서 치러질 민주당 주지사 예비선거(프라이머리)를 앞두고 '민주사회주..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd1c0f6cf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003727194",
+    "title": "젤렌스키 \"트럼프와 패트리엇·평화협상 논의\"",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 볼로디미르 젤렌스키 우크라이나 대통령이 도널드 트럼프 미국 대통령과 백악관에서 만나 패트리엇 미사일 요격체계 확보와 우크라이나 전쟁 종식을 위한 외교 재개 방안 등을 논의했다.",
+      "28일(현지 시간) CNN 등에 따르면 젤렌스키 대통령은 이날 백악관에서 트럼프 대통령과 회담한 뒤 엑스(X·옛 트위터)를 통해 \"우크라이나 국민의 생명을 보호하고 평화를 진전시키기 위해 함께 노력해 준 모든 것에 감사한다\"고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n34e37088",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "33분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153772",
     "title": "하이브, 아티스트 종횡무진에 공연·앨범·MD '껑충'...최대 실적 이어간다(종합)",
     "summary": [
@@ -366,10 +426,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne9446c1b",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729002300085",
+    "title": "\"FIFA, 월드컵 운영 자회사 세워 민간에 지분 매각 추진\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 국제축구연맹(FIFA)이 월드컵 대회를 운영할 자회사를 신설하고 민간에 그 일부 지분을 매각하는 방안을 추진..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nfd614969",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "51분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153776",
     "title": "'가디언 테일즈' 흥행 잇는다...카카오게임즈·콩 스튜디오, 다시 '맞손'",
     "summary": [
@@ -385,7 +459,7 @@ window.NEWS_DB = [
     "id": "n065a26cf",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260729_0003727193",
     "title": "이 대통령 \"상파울루, '한국문화의 날' 기념일 제정…신뢰·존중 보여주는 상징\"",
     "summary": [
@@ -400,7 +474,7 @@ window.NEWS_DB = [
     "id": "n2fabde8e",
     "category": "경제",
     "source": "뉴시스",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260729_0003727192",
     "title": "호르무즈 긴장 완화에 유가 4% 급락…\"공급 리스크는 여전\"",
     "summary": [
@@ -413,87 +487,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc7ee03f7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/29/GQZGCZRWGE4DOZBVGE4GEMLGGY/",
-    "title": "\"톱3가 아니라 넘버원이 되겠다\" 진화하는 '중견수' 김지찬의 미친 수비력과 스프레이 히트",
-    "summary": [
-      "[대구=스포츠조선] 삼성 라이온즈의 '작은 거인' 김지찬이 공수주에서 완벽한 활약을 펼치며 주중 3연전 첫 경기를 승리로 이끌었다.",
-      "김지찬은 28일 대구 라이온즈파크에서 열린 KIA 타이거즈와의 홈경기에 1번 타자 중견수로 선발 출전해 5타수 4안타 1볼넷 2타점 3득점을 기록, 5타석 전 타석 출루라는 놀라운 집념으로 팀의 12대5 대승을 견인했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e20ddf3",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/29/2026072816182468301",
-    "title": "'12경기 만에 7이닝 QS+' 얼마나 마음 고생 심했으면... 돌아온 LG 외인 에이스 \"잃을 것 없단 마인드로 마운드 올랐다\"",
-    "summary": [
-      "\"잃을 것 없다는 마음이었다.\" LG 트윈스 외국인 투수 앤더스 톨허스트(27)가 간만의 호투로 에이스의 컴백을 알렸다.",
-      "톨허스트는 28일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 리그 정규시즌 키움 히어로즈와 홈 경기에서 7이닝 6피안타(1피홈런) 무사사구 7탈삼진 3실점으로 LG의 5-3 승리를 이끌었다.",
-      "5월 7일 잠실 두산 베어스전 이후 무려 2개월, 12경기 만의 퀄리티 스타트 플러스(선발 7이닝 이상 3자책점 이하)로 시."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n9996b5af",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/29/GY2TMZBQGNSGKMZSGBTDGNLEG4/",
-    "title": "'진짜 소름 끼친다' 오타니 목소리까지 위조했다니, 배신 사건의 전말",
-    "summary": [
-      "[스포츠조선 나유리 기자]진짜 소름이 끼친다.",
-      "'내부의 적'은 목소리까지 위조했었다.",
-      "미국 'ESPN'은 오는 7월 29일(이하 한국시각)부터 6부작 팟캐스트 다큐멘터리 '오타니 쇼헤이의 배신(The Betrayal of Shohei Ohtani)' 방영을 시작한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne3e6f5f7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/29/GY2WIMDCMUZDCMZRGA4DGOBUME/",
-    "title": "'실책-실책-실책' 키움 자멸 덕분, '후반기 최하위' LG가 '시즌 최하위'에 승리 당하다",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 '후반기 최하위' LG 트윈스가 '시즌 최하위' 키움 히어로즈를 이겼다.",
-      "키움이 연이어 결정적인 실책을 하며 자멸한 덕분이다.",
-      "LG는 28일 잠실구장에서 열린 키움과 경기에서 5-3으로 승리했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne9b8762a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/29/GFTGCNBZMUZWCOJWHBRTSOLDHE/",
-    "title": "차승원도 인정한 '시청률 보증수표' 임영웅 \"드라마에 끼워 넣자\" 폭소 ('산골총각')",
-    "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 배우 차승원이 임영웅의 남다른 '시청률 파워'를 언급하며 특별출연을 제안해 웃음을 안겼다.28일 방송된 SBS 예능 '산골총각 영웅'에서는 차승원, 임영웅, 김도훈이 저녁 식사를 마친 뒤 설거지를 걸고 그네 멀리뛰기 대결을 펼쳤다.이날 꼴찌를 기록한 차승원은 설거지 당첨 위기에 놓였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nbeaec124",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260728131551109",
     "title": "젤렌스키 \"트럼프와 패트리엇 면허 논의…외교절차 재개 공감\"(종합)",
     "summary": [
@@ -507,7 +504,7 @@ window.NEWS_DB = [
     "id": "ne1decfe7",
     "category": "IT",
     "source": "뉴시스",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260728_0003726396",
     "title": "美 남성 \"AI가 아동 성범죄자로 허위 지목\"…구글 상대 200억 소송",
     "summary": [
@@ -522,7 +519,7 @@ window.NEWS_DB = [
     "id": "n16166097",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260729001800001",
     "title": "李대통령 \"임기 초 최대한 많은 나라 방문…경제협력 큰 도움\"",
     "summary": [
@@ -533,26 +530,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n02a7d8c2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003725732",
-    "title": "\"43번 가서 '굿' 남기고 별점 1점\"…리뷰 테러에 가게 접은 횟집 사장",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 한 이용자가 43번이나 방문한 식당에 매번 별점 1점을 남긴 사실이 알려지며 논란이 일고 있다.",
-      "27일 JTBC '사건반장'에 따르면 인천의 한 자영업자는 유명 지도 앱에서 동네 식당 리뷰를 살펴보다 이상한 점을 발견했다.",
-      "평소 손님이 많고 맛있기로 소문난 단골 횟집의 별점이 5점 만점에 2점대로 지나치게 낮았던 것이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n9c85a0b3",
     "category": "IT",
     "source": "아시아경제",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026072821394569591",
     "title": "넘버 3 유해란의 위대한 도전…'이번엔 메이저 3연승'",
     "summary": [
@@ -568,7 +549,7 @@ window.NEWS_DB = [
     "id": "n45293a84",
     "category": "경제",
     "source": "한국경제",
-    "time": "31분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607291645i",
     "title": "월가, 이젠 한국 증시보고 투자 결정한다[박신영의 개장전 요것만]",
     "summary": [
@@ -579,24 +560,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n15579cc2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729000500087",
-    "title": "월드컵 끝나자 치안 '구멍'…대낮 멕시코시티 중심가서 총격",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 관광객과 현지인들이 붐비는 멕시코시티 주요 관광지와 고급 명품 거리에서 살인·강도 사건이 잇달아 현지 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nf8724d60",
     "category": "IT",
     "source": "한국경제",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607291646i",
     "title": "AI가 엮은 운명…코스피와 나스닥 100 동조화",
     "summary": [
@@ -610,7 +577,7 @@ window.NEWS_DB = [
     "id": "n61069f51",
     "category": "사회",
     "source": "연합뉴스(경제)",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260729000600072",
     "title": "美 카드사 비자, 인력 7% 감축…\"결제 산업 변곡점 대응\"",
     "summary": [
@@ -624,11 +591,41 @@ window.NEWS_DB = [
     "id": "nba0a38fa",
     "category": "경제",
     "source": "한국경제",
-    "time": "43분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607291652i",
     "title": "휘발유값 반등에 美 7월소비자신뢰지수 다시 하락",
     "summary": [
       "휘발유값 반등에 美 7월소비자신뢰지수 다시 하락."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec7c1dc5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260729/134384134/2",
+    "title": "트럼프, 젤렌스키와 백악관 회담 종료…휴전 제안 푸틴에 전할 듯",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 28일(현지 시간) 백악관에서 볼로디미르 젤렌스키 우크라이나 대통령과 만나 러시아·우크라이나 전쟁 종식을 위한 새로운 외교적 해법을 논의했다.",
+      "한때 경색됐던 양국 관계가 회복 조짐을 보이는 모양새다.",
+      "뉴욕타임스(NYT) 등에 따르면 젤렌스키 대통령은 트럼프 대통령과의 예정된 회담을 갖기 위해 이날 오전 9시40분경 백악관에 도착했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5f4bb38e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260729/134384154/1",
+    "title": "스윙스, 마운자로 투약 고백…“실패하면 위절제술”",
+    "summary": [
+      "래퍼 스윙스가 비만 치료를 위해 ‘마운자로’를 투약 중이라고 밝힌 가운데 “이것마저 실패하면 위절제술을 하겠다”고 말하며 체중 감량에 대한 의지를 드러냈다.지난 24일 유튜브 채널 ‘딘딘은 딘딘’에 공개된 영상에서 딘딘과 래퍼 매드클라운, 스윙스는 일본 도쿄의 한 돈가스 식당을 찾아 식사했다.스윙스가 빠른 속도로 돈가스를 먹는 모습을 본 딘딘은 “형이 돈가스를 우리보다 작은 거 시켰나?”라고 물었고, 매드클라운은 “똑같은 걸 시켰는데 속도가 2."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +638,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
