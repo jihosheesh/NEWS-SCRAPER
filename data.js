@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-28 13:32:09
+// 마지막 업데이트: 2026-07-28 14:47:42
 window.NEWS_DB = [
   {
     "id": "nb69089aa",
     "category": "IT",
     "source": "한겨레",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YnhuU2t6aVJaMmd5LXJmWlp4OE95OWRUeHhONlRkM3kzZzdsWG9HTzJhZDQ5WVZaRE9QVkxrak1GMk9nS0Q5M2I1SzE5S2Z2R3FyV2R2N2RySFhEOWhWVQ?oc=5",
     "title": "엔비디아 ‘순환거래’에 전세계 반도체주 ‘휘청’…AI 투자 리스크 재점화",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nc2d73c88",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwc1V4SnJRUDVSLVpuZWtVOFNudVBUeFlQUG1Ia0s3Q1dISlRDOXg1UTlpNTN2RnJRaGtPTmNXajF0azNjMHlsY1JHcU02bnloQVNqSFBqYTRvZVJHbXNocFZuSklIUVdWQTVvR1I4YWF1Mms?oc=5",
     "title": "엔비디아 '데이터센터 임대' 사업도 직접 나선다, 미국 텍사스에 최대 500억 달러 투자",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nd7688cb4",
     "category": "IT",
     "source": "투데이충남",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKd2VaaE5XZ0dpcDlqRVJXQUJpcmZWNFlCTHk2X0FHXzd4c0hhXy1QenJTcmRrdzFtMXBRcmh4ZG4zTmFpZ0F3WFN4OGZkZUU2UG5jMnJYd2E4X2dNeEt1RUxaS0F2OGcwaF9kTmtUTmdQUQ?oc=5",
     "title": "대전시, 제5기 D-유니콘 출범…유망 스타트업 6개사 집중 육성",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n26d285ac",
     "category": "IT",
     "source": "더에이아이",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzX1E0cjRrRGpNWW9mVlRtcFB6d0RKYUlhSndpVnNlSXhUZUNJSGVvRV9RR0pDLXhEY2NJVUM2NXFRQVU0d1VIaDBEQ0o2ZVZFUDFTTHdhYWFWVlV1ZTZxN1FMNDlSdmxvWlE?oc=5",
     "title": "HBM 두뇌가 된 베이스다이, 데이터량 폭증이 만든 새 ‘승부처’",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "nf5e9c278",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "15시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10TXpuTDlLeTFUVkkyZ2xEcUtTYTVGNGFWYkYwVHBFYjhlWlU1WTlkNHJVa0VtTUw2OVFZVmxuazFCRE4wd1hCVDRVZEtUMlNOTkRUaDZuUWg1Sm_SAWBBVV95cUxPS08xdzZ5bnZFQW1VcmNsdzdKQXROdEhRRnJfSDlFX0pGSDM3UDVjUUk2UU1DSWJaRm1CM21TLW1uZmNBaEpZeDdCZ21WeU5xZzJHZzZZWmRLM2J3Q05MeVM?oc=5",
     "title": "애플, 15개월 만에 세계 시총 1위 탈환…AI 투자의 '역설'(종합)",
     "summary": [
@@ -122,20 +122,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9007875e",
-    "category": "경제",
-    "source": "자유일보",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbWRfRHlIZjVCN2NNUTl0SUFuN3FZbDFNVkZPWHhnYXFSNUpyb0laWml6QWpCWnA5eWstRDFIU0s4b0xzSnctb3hXLWJua0JLNTNpaS11WXo5WUt0dV9YWXBXU21ab1UwcmZn0gFvQVVfeXFMTUhzV0FlZExhb1cyWjZJNGJJSEd6MDBtUG5zTExYVkhjM2ZGM2RTVzRsUXZ3MENPXzhuY3FJZVdPYVFHTW9VRXpLY0FkV0R1YUZRR3F0NmVPbFYxZkowZGdOcGVhU216MTVjams1LTc0?oc=5",
-    "title": "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’",
-    "summary": [
-      "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’ 자유일보."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
@@ -168,6 +154,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0334f5fd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdE1YdkpUSjVXSms1V0FxWUQ0dkh5QkpaOThFSjZHdGxRcVVPTFhrSjZmc2djTjg0MkxsdmdXeUUtTFZWcHNQcE9jQWt0T3FxM20zX2VfUWFlVlZNZk9mZtIBeEFVX3lxTE5taktkTldYajFPaDQ4dkNPLVhCSW9fNFl0RWNSX1FMdC1JYjBLTzk1M0lTYXhqOF9VVDhYOEViNnhDaUlhSVRfNHg0dnRLUGJaMTVpdDBsS0NoTWtKU2Q3QkNKWWFOYWZxOWZoR0o4VXFmRVN5ZmFDdQ?oc=5",
+    "title": "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개",
+    "summary": [
+      "AI가 자격증 추천…노동부, 신규 고용서비스 3종 공개 뉴시스."
+    ],
+    "chips": [
+      "#AI",
+      "#고용"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -190,6 +191,21 @@ window.NEWS_DB = [
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
       "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
+    "id": "n31af3cbd",
+    "category": "경제",
+    "source": "에너지경제신문",
+    "time": "50일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
+    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
+    "summary": [
+      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
     ],
     "chips": [
       "#금리",
@@ -284,22 +300,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "160일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n46f59f4d",
     "category": "스포츠",
     "source": "머니투데이",
@@ -380,262 +380,260 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne39b0f10",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727161",
-    "title": "거제시, 사상 첫 ‘면·동장회의’ 유튜브 생중계",
-    "summary": [
-      "[거제=뉴시스] 신정철 기자 = 경남 거제시(시장 변광용)는 28일, 지역 현안을 공유하고 지방자치 현장을 생생하게 전달하기 위해 면·동장 회의를 사상 처음으로 유튜브로 실시간 생중계했다.",
-      "거제시의 이번 생중계는 행정의 가장 최접점에서 주민들과 호흡하는 면·동장들의 현장 목소리와 시정 방향을 주민들에게 숨김없이 공개함으로써 열린 행정을 실현하겠다는 의지를 담았다.",
-      "이날 회의는 거제시청 중회의실에서 변광용 시장의 주재로 개최됐으며, 18개 면·동."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7affeaf8",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727160",
-    "title": "진선미 \"홍명보, 자택 인근 호텔 등서 법인카드 1400만원 결제…별도 소명서 미제출\"",
-    "summary": [
-      "[서울=뉴시스]김윤영 기자 = 홍명보 전 축구 국가대표팀 감독이 자택 인근 호텔·식당 등에서 총 1400만원을 결제하고도 별도의 소명서를 제출하지 않은 것으로 확인됐다.",
-      "대한축구협회 역시 법인카드 사적 유용으로 대국민 사과문까지 냈던 10년이 지난 지금도 백화점 결제를 반복하고 있는 것으로 나타났다.",
-      "진선미 더불어민주당 의원이 28일 대한축구협회로부터 받은 협회 법인카드 사용 내역을 분석한 자료에 따르면, 2024년 7월부터 지난 5월까지 쓴."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n96b5833a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/medical/2026/07/28/NOX4T72M4NELPGSYJXPMFYYVLA/",
-    "title": "휴가 시작하면 몸살…혹시 '레저 시크니스'?",
-    "summary": [
-      "휴가 시작하면 몸살…혹시 '레저 시크니스'?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29471f1d",
+    "id": "n0f7a1a1f",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/28/G42DGNBZG5RTSYJWGVSWMNZSGU/",
-    "title": "'화끈하다' 알론소의 첼시, 첫 경기부터 10골 난타전...6-4로 시드니 제압",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/28/HA4TGZTGMIYDGY3DGMYDOMLGME/",
+    "title": "8볼넷 줘도 20안타 치면 이긴다! 롯데, 245분 대혈투 9-3 한화 제압 → 선발 전원 안타 + 한 시즌 팀 최다 안타 [대전 현장]",
     "summary": [
-      "[OSEN=정승우 기자] 사비 알론소 감독의 첼시 데뷔전은 시작부터 화끈했다.",
-      "첼시는 웨스턴 시드니 원더러스와 10골을 주고받는 난타전 끝에 6-4로 승리했다.",
-      "후반 교체로 들어온 주앙 페드루는 10분 만에 해트트릭을 완성했다.첼시는 28일(이하 한국시간) 호주에서 열린 프리시즌 첫 경기에서 웨스턴 시드니를 6-4로 꺾었다."
+      "[대전=스포츠조선 한동훈 기자] 롯데 자이언츠가 4시간이 넘는 혈투 끝에 한화 이글스를 물리쳤다.",
+      "6시 30분에 시작한 경기는 10시 35분에 끝났다.",
+      "롯데는 28일 대전 한화생명볼파크에서 열린 한화 이글스전 9대3으로 승리했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n84aa09cc",
+    "id": "n1242f2c6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260728/134384086/1",
+    "title": "상반기 1000만 넘게 몰려든 K-관광… 서울 넘어 전국으로 퍼진 ‘외국인 손짓’",
+    "summary": [
+      "해외 유입 인구가 상반기에만 1000만 명 고지를 돌파하며 국내 관광 시장이 양적 확대와 질적 성장을 동시에 이뤄냈다.",
+      "지방 관문을 통한 유입이 크게 늘고 소비 규모 역시 급격히 확장되는 양상이다.문화체육관광부는 지난 6월 국내를 찾은 타국 방문객이 199만 명으로, 지난해 같은 달과 비교해 23.1% 불어났다고 발표했다.",
+      "이에 따라 올해 1월부터 6월까지 누적 입국자 수는 1071만 명에 도달했다.권역별로는 중국이 65만 명을 기록하며 전체."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec5b66ee",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/opinion/2026/07/29/WDM6HANRUZD5VJL3MMY7Y5J2UE/",
+    "title": "[채승우의 카메라 타임머신] 눈보라 속에도 굳건한 육사 졸업식",
+    "summary": [
+      "[채승우의 카메라 타임머신] 눈보라 속에도 굳건한 육사 졸업식."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb44db01c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/28/J223E3PHLJEYXFGBHGEHSEBT24/",
+    "title": "[장일영의 세월에 장사 있다] 위고비 혁명? 비만 치료의 빛과 그림자",
+    "summary": [
+      "[장일영의 세월에 장사 있다] 위고비 혁명? 비만 치료의 빛과 그림자."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b1510a9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/GFQWGMZZGA2TIYLBMYZGGMTBMY/",
+    "title": "설마 '한입' 먹고 끝? 이지현, 새 모이 먹듯 식사하는 미용인 '현실' 공감",
+    "summary": [
+      "[OSEN=김수형 기자] 그룹 쥬얼리 출신 이지현이 미용인들의 바쁜 현실을 담은 일상을 공개하며 공감을 자아냈다.이지현은 28일 자신의 SNS에 \"미용인들의 한입 식사\"라는 글과 함께 짧은 영상을 게재했다.공개된 영상에는 이지현이 잠시 짬을 내 과자를 한입 베어 물고 허기를 달래는 모습이 담겼다.",
+      "제대로 된 식사를 하기 어려운 듯 잠깐의 틈을 이용해 간식을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n311f764a",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026072823421516945",
+    "title": "박완수 경남지사 \"폭염·가뭄, 도민 생명 직결\" … 현장 중심 적극 대응 주문",
+    "summary": [
+      "\"모든 공직자는 비상한 각오로 현장을 한 번 더 살피고 적극적으로 대응해 달라.\" 박완수 경남도지사가 28일 도청 재난안전대책본부에서 '폭염·가뭄 비상대책회의'를 열고 연일 계속되는 불볕더위와 가뭄에 대한 총력 대응을 지시했다.",
+      "박 도지사는 \"지금의 폭염과 가뭄은 도민 생명과 직결된 엄중한 재난 상황\"이라며 \"행정의 최우선 목표는 단 한 명의 인명피해도 나지 않게 하는 것이다\"고 말했다.",
+      "이어 \"온열질환 사망자 대부."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c3aff36",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003726053",
-    "title": "식사 중 물 한잔의 반전…\"오히려 음식 더 먹게 만든다\"",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727181",
+    "title": "美 소비자신뢰 다시 하락…유가 반등에 경기 불안 커져",
     "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 식사 중 물을 마시는 것이 실제로는 음식 섭취량을 늘릴 수 있다는 연구 결과가 나왔다.",
-      "지난 26일(현지시간) 영국 데일리메일은 미국 코넬대학교와 펜실베이니아주립대학교 연구진의 논문을 인용해서 식사 중 물을 마시는 습관이 음식 섭취량 증가에 영향을 준다고 보도했다.",
-      "연구진은 성인 86명을 대상으로 소고기 칠리 또는 치킨 티카 마살라를 원하는 만큼 먹는 실험을 진행했다."
+      "[서울=뉴시스]박미선 기자 = 미국과 이란 간 무력 충돌이 격화되면서 휘발유 가격이 다시 오르자 미국 소비자들의 경제 신뢰도가 이달 하락한 것으로 나타났다.",
+      "28일(현지 시간) AP통신에 따르면 미국 민간 경제조사기관 콘퍼런스보드는 7월 소비자신뢰지수가 90.8을 기록해 6월(92.2)보다 하락했다.",
+      "현재의 기업 환경과 노동시장에 대한 평가는 114.9로 전월보다 3.6p(포인트) 떨어졌으며, 3개월 연속 하락세를 이어갔다."
     ],
     "chips": [
-      "#교육"
+      "#환경"
     ]
   },
   {
-    "id": "nccdd9de7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/28/GRRWKNBXHE3GEMRZMZQWMMDGGY/",
-    "title": "LG 코치진 변경, 염갈량이 직접 답했다 \"전력 보강 차원…김일경 QC코치, 선수들과 소통 최고\" [잠실포커스]",
+    "id": "n5c0adc5f",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/28/2026072823363744629",
+    "title": "트럼프 \"한미동맹 엄숙한 약속…인·태 평화의 기둥\"",
     "summary": [
-      "[잠실=스포츠조선 김영록 기자] \"코치진 변경은 성적에 큰 도움이 되지 않는다.\" 사령탑 스스로 거듭 밝혀온 소신을 뒤집었다.",
-      "8연패의 아픔, 최근 1승9패의 무게감은 그만큼 무거웠다.",
-      "28일 잠실구장에서 만난 염경엽 LG 감독은 전날 코치진 변경에 대한 질문에 \"더 잘하기 위해서, 전력보강 차원\"이라고 설명했다."
+      "도널드 트럼프 미국 대통령이 한국전 정전협정 73주년을 맞아 한미동맹을 강조했다.",
+      "트럼프 대통령은 27일(현지시간) 발표한 한국전 참전용사 정전기념일 포고문에서 \"(한국)전쟁이 끝난 지 70년이 넘었지만 미국과 한국은 공동의 희생으로 단련되고 자유에 대한 변함없는 사랑으로 굳건한 동맹 아래 단합돼 있다\"고 밝혔다.",
+      "이어 \"이런 유대는 인도·태평양 전역의 평화와 안정의 기둥이며 세계평화에 위협이 되는 악과 억압의 세력에 맞서 함께 싸우겠다는 엄숙."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "nd5770dda",
+    "id": "n15f63648",
     "category": "사회",
     "source": "뉴시스",
     "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003726108",
-    "title": "\"인스타 다이어트가 독 됐나\"…영국 20대 여성 당뇨병 70% 급증",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727174",
+    "title": "이스라엘 국방 \"美, 이란 에너지시설 공격 막아\"…대이란 온도차",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 영국 20대 여성의 제2형 당뇨병 진단이 10년 사이 70% 급증한 것으로 나타났다.",
-      "전문가들은 술 소비 증가와 사회관계망서비스(SNS) 사용 확대, 반복적인 다이어트, 임신성 당뇨병 등이 복합적으로 영향을 미쳤을 가능성이 있다고 분석했다.",
-      "지난 26일(현지 시간) 영국 데일리메일에 따르면, 영국 임페리얼 칼리지 런던 연구진은 최근 연구를 통해 영국 여성 20~29세의 제2형 당뇨병 진단이 지난 10년 동안."
+      "[서울=뉴시스]박미선 기자 = 이스라엘 이스라엘 카츠 국방장관이 28일(현지 시간) 미국이 경제·에너지 문제를 우려해 이스라엘의 이란 에너지 시설 공격을 막아왔다고 밝혔다.",
+      "CNN에 따르면 카츠 장관은 이스라엘 채널14 주최 컨퍼런스에서 \"우리는 이란의 에너지 목표물을 매우 타격하고 싶어 하지만, 미국이 현재로서는 이를 승인하지 않고 있다\"고 말했다.",
+      "그는 미국은 이러한 공격이 이란의 주변국 보복을 촉발하고 국제 유가 위기로 이어질 수 있다는."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n156d9a1b",
+    "id": "ne6649d66",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "뉴시스",
     "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728136553073",
-    "title": "日구마모토서 규모 7.1 강진…쇼핑몰 일부 붕괴·韓中서도 흔들림(종합2보)",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727175",
+    "title": "트럼프, 한국戰 참전용사 추모…\"한미는 변함없는 동맹\"",
     "summary": [
-      "(도쿄=연합뉴스) 조성미 이도연 특파원 = 일본 규슈 서부 구마모토현 우키시 인근에서 28일 오후 4시 27분께 규모 7.1 강진(일본 기상청 ..."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 한국전쟁 정전협정 체결 73주년을 맞아 참전용사들의 희생을 기리고 한미동맹의 굳건함을 강조하는 성명을 냈다.",
+      "28일(현지 시간) 백악관에 따르면 트럼프 대통령은 전날 발표한 '한국전쟁 참전용사 정전 기념일' 메시지에서 \"전쟁이 끝난 지 70여년이 지난 지금도 미국과 대한민국은 굳건한 동맹으로 단결돼 있다\"며 \"그 유대는 인도·태평양 전역의 평화와 안정의 기둥\"이라고 밝혔다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n4f496d97",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728172600007",
-    "title": "[프로야구 대구전적] 삼성 12-5 KIA",
-    "summary": [
-      "[프로야구 대구전적] 삼성 12-5 KIA."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na351b55c",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728172500007",
-    "title": "밀어서 타구 속도 170㎞ 괴력…LG 문정빈 \"손에 감각 안 느껴져\"",
-    "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 흔히 타자들은 배트 중심에 맞아서 홈런이 됐을 때 감각이 느껴지지 않는다고 말한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1756eaf5",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728152100002",
-    "title": "\"올해 상반기 가상자산 해킹 피해 1.6조…과반수 北 소행\"",
-    "summary": [
-      "(서울=연합뉴스) 박수현 기자 = 올해 상반기 세계에서 가상자산 해킹으로 11억 달러(약 1조 6천억원)가 도난당했으며, 피해액 과반수는 북한 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0190eb38",
+    "id": "n04a25837",
     "category": "사회",
     "source": "동아일보",
-    "time": "38분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260728/134379755/1",
-    "title": "중흥건설·중흥토건, 중노위 사용자성 판정에 행정소송 제기",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260728/134383708/2",
+    "title": "[사설]호르무즈 군함 파견 검토… 기준은 ‘국익’, 행동은 ‘국제공조’로",
     "summary": [
-      "중흥건설과 중흥토건이 타워크레인 노조와 교섭할 ‘진짜 사장’이라는 중앙노동위원회의 판정에 불복해 행정소송을 냈다.",
-      "‘노란봉투법’(개정 노동조합법) 시행 이후 원청 기업이 사용자성 판단에 불복해 법적 소송을 제기한 두 번째 사례다.28일 중흥건설·중흥토건은 한국노동조합총연맹(한국노총) 소속 한국타워크레인조종사노조의 사용자라는 중앙노동위 판정을 수용할 수 없다며 24일 서울행정법원에 행정소송 및 집행정지 신청을 제기했다고 밝혔다.중흥건설 측이 행정."
+      "정부가 호르무즈 해협 통항의 안전에 기여하기 위해 군함 등을 파견하는 방안을 검토하고 있다.",
+      "지난주 국가안전보장회의(NSC) 상임위에서 초계함 등 전력 리스트를 구체적으로 논의했다고 한다.",
+      "그동안 정부는 군함 투입은 최후의 수단이 될 것이라며 파견 여부 자체를 결정하지 않았는데, 이제는 파견으로 방향을 잡고 어떤 군 자산을 보낼지 협의하는 단계까지 나아간 것이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne3560dd5",
-    "category": "IT",
+    "id": "n0ffcc9d5",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/28/2026072823231963810",
+    "title": "주한미군, 오산공군기지 '백린' 누출 사고…\"백린 결정화, 잔류물 원인\"",
+    "summary": [
+      "[the300](종합 2보) \"EOD 출동, 탄약 통제 후 안전 관리…인명 피해 없어\" 평택시, 사고 접수 후 대피령 발령…30분 후 해제 '해프닝' 경기 평택시 서탄면에 위치한 미군 부대 오산공군기지(K-55)에서 백린(白燐) 누출 사고 발생은 백린의 결정화에 의한 잔류물 때문인 것으로 파악됐다.",
+      "주한 미7공군 소속 제51전투비행단은 28일 밤 오산기지 홈페이지를 통해 \"정기적인 탄약 점검 중 기지 전문가들이 백린의 결정화로 인해 탄약 상자."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba2b2ef6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728176200001",
+    "title": "[속보] 법사위 소위, '보완수사권 폐지' 형소법 개정안 與주도 의결",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a31309f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727176",
+    "title": "與 전대 투표 첫날… 宋 \"대통령과 신뢰\" 鄭 \"조국혁신당과 합당\" 金 \"대통령 억울하지 않게\"(종합)",
+    "summary": [
+      "[서울=뉴시스]김윤영 이창환 신재현 기자 = 더불어민주당 신임 당대표·최고위원 선출을 위한 본경선의 권리당원 투표가 28일 충청권부터 시작된 가운데 민주당 당권 주자들이 본격 당심 잡기에 들어갔다.",
+      "후보들은 정책 구상, 당청관계, 통합·확장 등을 앞세우며 각자 지지를 호소했다.",
+      "민주당은 이날부터 이틀 간 충청권(충남·충북·대전·세종) 권리당원 온라인 투표를 진행한다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "na206cb87",
+    "category": "사회",
     "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260728/134380550/1",
-    "title": "中CXMT 증설-엔비디아 ‘투자 돌려막기’ 우려에 韓증시 녹다운",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260728/134383712/2",
+    "title": "[사설]인구 20% 고령자, 4% 외국인… ‘초고령-다문화’ 인프라 급하다",
     "summary": [
-      "중국과 미국에서 연이어 발생한 반도체 악재로 28일 코스피는 역대 두 번째로 큰 하락 폭을 보였다.",
-      "이날 하루 새 코스피 시가총액 600조 원이 증발하며 2개월 만에 5000조 원대가 깨졌다.아시아 주요국 반도체 종목이 줄줄이 휘청인 가운데 국내 주식시장은 일본, 대만 등과 비교해 유독 높은 하락률을 보였다.",
-      "삼성전자와 SK하이닉스가 코스피 시총 절반 가량을 차지할 정도로 쏠림 현상이 심하다 보니, 반도체 악재에 터지자 국내 주식시장의 취약성이."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n347a22a3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "44분 전",
-    "url": "https://www.hankyung.com/article/2026072815747",
-    "title": "방콕 도로 막은 '웃통남'…알고보니 한국인 50대 불법체류자",
-    "summary": [
-      "방콕 도로 막은 '웃통남'…알고보니 한국인 50대 불법체류자."
+      "지난해 65세 이상 인구(노인) 비중이 20%를 돌파해 유엔이 정한 초고령사회에 진입했다.",
+      "외국인 인구도 4%를 넘어 경제협력개발기구(OECD)의 ‘다인종·다문화 국가’ 기준(5%)에 한 발 더 다가섰다.",
+      "유례없는 초고속 고령화와 다문화 사회 전환이 동시에 진행되고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7e30ccf9",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "45분 전",
-    "url": "https://view.asiae.co.kr/article/2026072821443573989",
-    "title": "\"생활고에 다시 교도소 가려고\"…상인 흉기 찌른 40대 구속",
-    "summary": [
-      "전북 무주경찰서는 전통시장에서 상인을 흉기로 찌르고 달아난 혐의(살인미수)로 A씨(40대)를 구속했다고 28일 밝혔다.",
-      "A씨는 지난 26일 낮 12시 50분께 무주군 무주읍의 한 전통시장에서 상인 B씨(60대)를 흉기로 찌르고 도주한 혐의를 받고 있다.",
-      "경찰은 범행 2시간여 만에 무주의 한 버스터미널에서 A씨를 체포했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8fdcfc5d",
+    "id": "n8b6b8ba8",
     "category": "사회",
     "source": "아시아경제",
-    "time": "46분 전",
-    "url": "https://view.asiae.co.kr/article/2026072821452777896",
-    "title": "\"K자 양극화 심화\"…내년 기준 중위소득 인상률 6.7% '역대 최고'(종합)",
+    "time": "22분 전",
+    "url": "https://view.asiae.co.kr/article/2026072823252912926",
+    "title": "트럼프 \"한미동맹, 인도태평양 평화의 기둥\"…北 비핵화 언급은 빠져",
     "summary": [
-      "각종 복지제도의 선정 기준이 되는 '기준 중위소득'이 역대 최대 폭인 6.7% 오르면서 4인 가구 기준 692만9885원으로 결정됐다.",
-      "기초생활수급자가 매달 받는 생계급여는 221만7563원이 된다.",
-      "정부는 소득 증가뿐 아니라 최저생활에 필요한 지출 수준을 보다 현실적으로 반영하도록 6년 만에 산정 방식을 개편했다."
+      "도널드 트럼프 미국 대통령이 한국전쟁 정전협정 체결 73주년을 맞아 한미동맹을 \"인도·태평양 평화와 안정의 기둥\"이라고 평가했다.",
+      "다만 지난해 기념 메시지에 담겼던 북한 비핵화와 북미 정상회동 관련 내용은 이번에는 포함되지 않았다.",
+      "트럼프 대통령은 27일(현지시간) 발표한 기념 메시지에서 \"전쟁이 끝난 지 70년이 넘었지만 미국과 한국은 공동의 희생으로 단련되고 자유에 대한 변함없는 사랑으로 결속된 굳건한 동맹으."
     ],
     "chips": [
-      "#의료"
+      "#정치"
     ]
   },
   {
-    "id": "n2fd92c98",
+    "id": "n3dec130b",
     "category": "사회",
-    "source": "동아일보",
-    "time": "47분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260728/134379651/1",
-    "title": "경찰, ‘여중생 성매매’ 최영중 前청주시의원 구속영장 신청",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728175200054",
+    "title": "전남경찰청, '사건 배당 의혹' 경찰 간부 감찰",
     "summary": [
-      "경찰이 여중생 성매매 혐의를 받는 최영중 전 충북 청주시의원(35)에 대해 28일 구속영장을 신청했다.",
-      "최 전 의원을 상대로 15시간가량 조사를 한 지 하루 만이다.",
-      "충북 청주청원경찰서는 이날 최 전 시의원에 대해 아동·청소년의 성 보호에 관한 법률상 미성년자의제강간, 성착취물 제작, 성판매 권유, 성착취 목적 대화 등의 혐의로 사전 구속영장을 신청했다고 밝혔다."
+      "(전남광주=연합뉴스) 정다움 기자 = 현직 경찰 간부가 지인인 고소인의 사건을 특정 수사팀에 배당했다는 의혹으로 감찰 조사를 받고 있다."
     ],
     "chips": [
       "#뉴스"
@@ -648,20 +646,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
