@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-28 10:48:21
+// 마지막 업데이트: 2026-07-28 11:39:16
 window.NEWS_DB = [
   {
     "id": "nb69089aa",
     "category": "IT",
     "source": "한겨레",
-    "time": "2시간 전",
+    "time": "38분 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YnhuU2t6aVJaMmd5LXJmWlp4OE95OWRUeHhONlRkM3kzZzdsWG9HTzJhZDQ5WVZaRE9QVkxrak1GMk9nS0Q5M2I1SzE5S2Z2R3FyV2R2N2RySFhEOWhWVQ?oc=5",
     "title": "엔비디아 ‘순환거래’에 전세계 반도체주 ‘휘청’…AI 투자 리스크 재점화",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nc2d73c88",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwc1V4SnJRUDVSLVpuZWtVOFNudVBUeFlQUG1Ia0s3Q1dISlRDOXg1UTlpNTN2RnJRaGtPTmNXajF0azNjMHlsY1JHcU02bnloQVNqSFBqYTRvZVJHbXNocFZuSklIUVdWQTVvR1I4YWF1Mms?oc=5",
     "title": "엔비디아 '데이터센터 임대' 사업도 직접 나선다, 미국 텍사스에 최대 500억 달러 투자",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nd7688cb4",
     "category": "IT",
     "source": "투데이충남",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKd2VaaE5XZ0dpcDlqRVJXQUJpcmZWNFlCTHk2X0FHXzd4c0hhXy1QenJTcmRrdzFtMXBRcmh4ZG4zTmFpZ0F3WFN4OGZkZUU2UG5jMnJYd2E4X2dNeEt1RUxaS0F2OGcwaF9kTmtUTmdQUQ?oc=5",
     "title": "대전시, 제5기 D-유니콘 출범…유망 스타트업 6개사 집중 육성",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n26d285ac",
     "category": "IT",
     "source": "더에이아이",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzX1E0cjRrRGpNWW9mVlRtcFB6d0RKYUlhSndpVnNlSXhUZUNJSGVvRV9RR0pDLXhEY2NJVUM2NXFRQVU0d1VIaDBEQ0o2ZVZFUDFTTHdhYWFWVlV1ZTZxN1FMNDlSdmxvWlE?oc=5",
     "title": "HBM 두뇌가 된 베이스다이, 데이터량 폭증이 만든 새 ‘승부처’",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "nf5e9c278",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10TXpuTDlLeTFUVkkyZ2xEcUtTYTVGNGFWYkYwVHBFYjhlWlU1WTlkNHJVa0VtTUw2OVFZVmxuazFCRE4wd1hCVDRVZEtUMlNOTkRUaDZuUWg1Sm_SAWBBVV95cUxPS08xdzZ5bnZFQW1VcmNsdzdKQXROdEhRRnJfSDlFX0pGSDM3UDVjUUk2UU1DSWJaRm1CM21TLW1uZmNBaEpZeDdCZ21WeU5xZzJHZzZZWmRLM2J3Q05MeVM?oc=5",
     "title": "애플, 15개월 만에 세계 시총 1위 탈환…AI 투자의 '역설'(종합)",
     "summary": [
@@ -119,6 +119,20 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#정책"
+    ]
+  },
+  {
+    "id": "n9007875e",
+    "category": "경제",
+    "source": "자유일보",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbWRfRHlIZjVCN2NNUTl0SUFuN3FZbDFNVkZPWHhnYXFSNUpyb0laWml6QWpCWnA5eWstRDFIU0s4b0xzSnctb3hXLWJua0JLNTNpaS11WXo5WUt0dV9YWXBXU21ab1UwcmZn0gFvQVVfeXFMTUhzV0FlZExhb1cyWjZJNGJJSEd6MDBtUG5zTExYVkhjM2ZGM2RTVzRsUXZ3MENPXzhuY3FJZVdPYVFHTW9VRXpLY0FkV0R1YUZRR3F0NmVPbFYxZkowZGdOcGVhU216MTVjams1LTc0?oc=5",
+    "title": "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’",
+    "summary": [
+      "한은 기준금리 인상·코스피 급락에 주식시장→ 은행 ‘머니무브’ 자유일보."
+    ],
+    "chips": [
+      "#금리"
     ]
   },
   {
@@ -198,21 +212,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31af3cbd",
-    "category": "경제",
-    "source": "에너지경제신문",
-    "time": "50일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdzFuSlNnb1VDUXdjckF1U1FqWnA5NzdTNnVYemZtbmRBTFBVcmZadjlfR2pjT29QRU5EZjlOMm1vUXB4djBpbmk1SEFHN1NvX296QUVraFNXdHM?oc=5",
-    "title": "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+]",
-    "summary": [
-      "“주식만 보면 안 된다”...환율·채권금리가 보내는 경고 [머니+] 에너지경제신문."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
     "id": "n79d12fb6",
     "category": "부동산",
     "source": "Chosunbiz",
@@ -256,6 +255,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n72b90564",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "63일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
+    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
+    "summary": [
+      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -285,32 +299,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncbcb6c77",
+    "id": "n01f4c085",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "142일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "source": "뉴시스",
+    "time": "127일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
     "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "166일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
     ]
   },
   {
@@ -379,257 +378,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nebef6eb3",
+    "id": "n5727dba3",
     "category": "경제",
     "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026072819474996882",
-    "title": "CJ제일제당, 전분당 사업부 분할 매각 추진…\"여러 옵션 검토 중\"",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026072818222080257",
+    "title": "강진쌀, 호주·필리핀 첫 수출…해외 판로 넓힌다",
     "summary": [
-      "CJ제일제당이 전분당 사업 부문 매각을 추진한다.",
-      "28일 관련 업계에 따르면 CJ제일제당은 주요 재무적 투자자(FI)를 상대로 전분당 사업부 분할 매각을 위한 가능성을 타진하고 있다.",
-      "전분당은 옥수수 전분을 주원료로 물엿, 포도당, 과당 등을 생산하는 사업으로 음료 등 가공식품에 당류로 쓰인다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n182584ea",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728166800054",
-    "title": "민형배 전남광주시장 \"친환경 농축수산물 인증사업 활성화 필요\"",
-    "summary": [
-      "(전남광주=연합뉴스) 정다움 기자 = 민형배 전남광주통합특별시장은 28일 국무회의에 참석해 \"항생제 사용을 줄이고 안전한 농·축·수산물임을 알릴..."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nd0ba0f00",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728033351371",
-    "title": "서경덕 \"슈퍼드라이 티셔츠 건곤감리 오류\"…업체 \"이미 판매중단\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 정아란 기자 = 글로벌 패션브랜드 슈퍼드라이가 판매했던 티셔츠에 태극기 '건곤감리' 문양을 잘못 사용한 사실이 알려져 논란이 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd3e7593f",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728166700054",
-    "title": "전남광주 매곡동서 후진하던 덤프트럭에 깔린 보행자 숨져",
-    "summary": [
-      "(전남광주=연합뉴스) 정다움 기자 = 28일 오후 6시께 전남광주 북구 매곡동 한 아파트 신축공사 현장 인근 도로에서 후진하던 덤프트럭에 보행자..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n31c9727f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728166400504",
-    "title": "주한미군, 오산기지 백린 누출에 \"비상대응팀 상황 수습 중\"",
-    "summary": [
-      "(서울=연합뉴스) 김철선 기자 = 주한미군은 28일 오산공군기지에서 발생한 백린 누출 사고와 관련해 비상대응팀을 소집해 상황 수습에 최선을 다하..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n34ecdcee",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/07/28/GI4WKOBZGZTDSYZYMRRDKNBXGI/",
-    "title": "로아주는 복귀했는데…김하성은 과연? 일단 전망은 나쁘지 않다, 하지만...",
-    "summary": [
-      "[스포츠조선 박상경 기자] 일단 전망은 나쁘지 않다.",
-      "애틀랜타 브레이브스가 부상자 명단(IL)에 있던 로날드 아쿠냐 주니어를 복귀시켰다.",
-      "왼쪽 햄스트링(허벅지 뒷근육) 부상으로 6월 11일 IL에 등재된 아쿠냐는 지난 13일 김하성과 함께 루키리그팀인 FCL 브레이브스에서 재활 경기를 시작했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n675e292c",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260728/134382639/1",
-    "title": "정부, 대미투자 1호로 텍사스 가스복합화력발전소 건설 유력검토",
-    "summary": [
-      "한미 무역합의에 따른 ‘대미 투자 1호 프로젝트’로 미국 텍사스주 엔시날에 대규모 가스복합화력발전소를 건설하는 사업이 유력하게 부상했다.",
-      "총 2000억 달러 규모의 전략적 대미 투자가 에너지 사업을 시작으로 첫발을 떼는 셈이다.28일 정부와 관련 업계에 따르면 산업통상부는 텍사스 가스복합화력발전 사업을 대미 투자 1호 후보로 좁히고 미국 상무부와 막바지 협의를 진행하고 있다.",
-      "김정관 산업부 장관은 22∼25일(현지 시간) 미국 워싱턴을 방문해."
+      "전남광주통합특별시 강진군이 지역 쌀 수출업체의 해외시장 개척을 지원하며 강진쌀 수출 기반을 넓혀가고 있다.",
+      "올해는 호주와 필리핀을 새 수출국으로 추가했고, 미국으로의 유기농 쌀 수출도 이어지고 있다.",
+      "28일 강진군에 따르면 지난해 강진쌀은 몽골, 미국, 일본, 뉴질랜드 등으로 총 404톤이 수출됐다."
     ],
     "chips": [
       "#수출"
     ]
   },
   {
-    "id": "n57bd36e2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026072819400183844",
-    "title": "\"집 조명 심하게 흔들려\"…中 언론 \"日 규슈 강진, 상하이서도 감지\"",
+    "id": "n4e2195f8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260728/134379614/1",
+    "title": "단일종목 레버리지 투자 비중 20% 이내 제한 검토",
     "summary": [
-      "일본 규슈 구마모토현에서 발생한 규모 7.1 강진 여파로 인해 진앙에서 약 900㎞ 떨어진 상하이 등 중국 동부 지역에서도 흔들림이 감지된 것으로 확인됐다.",
-      "28일 중국신문망 등 중국 다수 언론사에 따르면 지진 발생 직후 저장성, 상하이, 장쑤성 등에 거주하는 중국 누리꾼들은 사회관계망서비스(SNS)에 \"집 조명이 심하게 흔들렸다\", \"사무실에 앉아 있는데 흔들림이 느껴졌다\"는 등의 글을 잇달아 올렸다."
+      "금융당국이 개인이 보유한 금융 투자상품 중 단일종목 레버리지 상품이 차지하는 비중을 20% 이내로 묶는 총량 관리 방안을 검토하고 있다.",
+      "레버리지 기본예탁금을 늘리는 규제를 이달 말로 앞당긴 가운데, 수요가 꺾이지 않으면 추가 카드를 내놓겠다는 방침이다.이억원 금융위원장은 28일 서울 영등포구 여의도 금융투자협회에서 간담회를 열고 “31일 시행되는 기본예탁금 강화 등 보완 방안의 정책효과를 면밀히 점검하는 한편으로, 수요가 충분히 진정되지 않을."
     ],
     "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
-    "id": "n7648be5a",
+    "id": "na37933de",
     "category": "스포츠",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026072819391279803",
-    "title": "평택 K-55미군기지 백린 누출…주민 '긴급 대피' 명령",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260728/134383213/1",
+    "title": "미군 오산공군기지 탄두서 백린 누출…인명피해 없어",
     "summary": [
-      "경기 평택 K-55 미군기지 내부에서 유독성 화학물질인 백린(白燐)이 누출돼 시가 긴급 대피령을 내렸다.",
-      "28일 소방과 경찰 등에 따르면 이날 오후 4시 54분쯤 평택시 서탄면 미군부대 오산공군기지(K-55)에서 백린이 누출됐다.",
-      "백린은 공산소와 만나 하얀 연기를 생성하기 때문에 군에서 이동시 연막으로 사용된다."
+      "경기 평택시 미 오산 공군기지에서 백린(白燐)이 누출됐다는 신고가 접수돼 주민 대피령이 내려졌으나 36분 만에 해제됐다.",
+      "현재까지 인명 피해는 없는 것으로 확인됐다.28일 경찰과 소방 당국 등에 따르면 이날 오후 5시 7분경 평택시 서탄면 오산 공군기지 내에서 백린이 누출됐다는 신고가 접수됐다.",
+      "주한미군 측은 “탄두에서 화학물질 누출이 의심된다”고 신고했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n64beb246",
+    "id": "nc52539ed",
     "category": "사회",
     "source": "조선일보",
     "time": "9분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/28/FPHNRPPVBVHD7FT5L3B5IDM3XY/",
-    "title": "특검 ‘계엄 가담’ 김현태 전 707단장 징역 18년 구형",
+    "url": "https://www.chosun.com/international/international_general/2026/07/28/MI2TKMRWMUZDOMZSMQ3GEMLFMQ/",
+    "title": "IAEA “日 구마모토 강진에도 센다이 원전 이상 없어…현재 정상 가동”",
     "summary": [
-      "특검 ‘계엄 가담’ 김현태 전 707단장 징역 18년 구형."
+      "국제원자력기구(IAEA)가 일본 규슈 구마모토현에서 발생한 규모 7.1 강진과 관련해 인근 원자력발전소에서 현재까지 피해나 안전상 문제는 확인되지 않았다고 설명했다.",
+      "IAEA는 28일 엑스(X·옛 트위터)를 통해 “일본 원자력규제위원회(NRA)가 진앙에서 약 100㎞ 떨어진 센다이 원자력발전소에서 이번 규모 7.1 지진으로 인한 피해 또는 안전 문제는 발생."
     ],
     "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
-    "id": "n7ea9b9cd",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026072819291666814",
-    "title": "[속보] \"구마모토 대형쇼핑몰 일부 붕괴, 내부에 다수 갇힌듯\"",
-    "summary": [
-      "[속보] \"구마모토 대형쇼핑몰 일부 붕괴, 내부에 다수 갇힌듯\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb9efd091",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "16분 전",
-    "url": "https://www.hankyung.com/article/202607281188i",
-    "title": "AI순환금융우려에 中반도체쇼크…글로벌 반도체주 '최악의 날'",
-    "summary": [
-      "AI순환금융우려에 中반도체쇼크…글로벌 반도체주 '최악의 날'."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n6928ffcc",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727090",
-    "title": "안양시, 운전석 없는 자율주행셔틀 만안구까지 확대",
-    "summary": [
-      "[안양=뉴시스] 박석희 기자 = 경기 안양시가 운전석 없는 자율주행셔틀 '주야로 레벨4(Lv4)'의 운행 범위를 동안구에서 만안구까지 확대한다.",
-      "시는 다음달 부터 관악역–안양예술공원–안양수목원을 연결하는 순환 노선을 새로 운영할 계획이다.",
-      "관광지와 생활 거점을 잇는 이 노선은 시민 이동 편의와 지역 관광 활성화를 동시에 겨냥한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n45d710da",
+    "id": "n074532e4",
     "category": "사회",
     "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260728/134383085/2",
-    "title": "[속보]日구마모토 강진에 대형쇼핑몰 일부 붕괴…다수 갇힌 듯",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260728/134383272/2",
+    "title": "日경찰 “강진 붕괴 구마모토 쇼핑몰, 상당수 사망자 추정”",
     "summary": [
-      "일본 규슈 구마모토현에서 발생한 규모 7.1 강진으로 대형 복합 쇼핑몰 일부가 붕괴돼 다수의 사람이 건물 안에 갇힌 것으로 전해졌다.28일 야후재팬 등 현지 매체에 따르면 일본 총무성 소방청은 구마모토현 가시마마치의 상업시설 ‘이온몰 구마모토’에서 2층 일부가 붕괴했다고 밝혔다.",
-      "현재 건물 내부에 다수의 사람이 갇혀 있어 소방당국이 구조 작업을 서두르고 있다.당시 약 1.5km 떨어진 가시마마치 시청에 있던 직원은 “쿵” 하는 큰 소리가 들렸다."
+      "일본 규슈 구마모토현에서 발생한 규모 7.1 강진으로 대형 복합 쇼핑몰 일부가 붕괴된 가운데, 사망자가 다수 발생했을 가능성이 있다는 외신 보도가 나왔다.",
+      "28일 야후재팬 등 현지 매체에 따르면 구마모토현 경찰은 구마모토현 가시마정에 있는 대형 쇼핑몰 ‘이온몰 구마모토’에 대해 “사망자가 다수 발생했을 가능성이 크다”며 “정확한 사망자 수를 확인하는 데는 시간이 걸릴 것으로 보인다”고 밝혔다.앞서 현지 보도에 따르면 이날 오후 6시경 “쇼핑몰에."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7c0ff4e9",
+    "id": "n303cf745",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727092",
-    "title": "전진숙 \"국회도서관 광주분원 건립 환영\"…중외공원 제안",
-    "summary": [
-      "[전남광주=뉴시스]송창헌 기자 = 더불어민주당 전진숙 국회의원이 28일 조정식 국회의장이 취임 후 첫 기자간담회에서 국회도서관 광주분원 건립을 약속한 데 대해 적극 환영하며, 북구 국립광주박물관 옆 중외공원 일원을 최적지로 제안했다 .",
-      "조 의장은 이날 후반기 국회 비전과 과제를 발표하며 국회 세종의사당 건립과 행정수도 특별법 연내 통과와 함께 국회도서관 광주분원 건립을 약속했다.",
-      "전 의원은 \"국회도서관 광주분원 건립을 정말 환영한다\"며 \"수도권."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n59c01a2e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727087",
-    "title": "주일中대사관 흉기 난입 자위대 장교 기소에…中, 진상규명 촉구(종합)",
-    "summary": [
-      "[서울·베이징=뉴시스]문예성 기자, 박정규 특파원 = 일본 검찰이 지난 3월 주일 중국대사관에 흉기를 들고 침입한 일본 육상자위대 현역 장교를 기소한 가운데 중국이 일본 정부에 철저한 진상 규명과 재발 방지 대책 마련을 촉구했다.",
-      "주일 중국대사관은 27일 성명을 통해 \"지난 3월 24일 일본 자위대 현역 장교가 흉기를 소지한 채 중국대사관에 무단 침입해 중국 측을 폭력적으로 위협했다\"면서 \"이는 '외교관계에 관한 빈 협약'을 심각하게 위반한 것."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncca906a5",
-    "category": "IT",
     "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/economy/2026/07/28/BMUDN4WI4NBHBPOSNBPGZYTAKE/",
-    "title": "코스피 10.8% 폭락... “AI투자 사이클 의구심 커져”",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/G5SDCOBYMUZTSNRTME4DQNRWGY/",
+    "title": "박지윤, 핫도그 맘껏 먹고도 늘씬 허리..통나무로 인증 “못 믿겠지만 날씬”",
     "summary": [
-      "코스피 10.8% 폭락... “AI투자 사이클 의구심 커져”."
+      "[OSEN=임혜영 기자] 아나운서 출신 방송인 박지윤이 늘씬한 청바지 핏을 자랑했다.박지윤은 28일 개인 채널에 양평의 두물머리를 방문한 사진을 게재했다.박지윤은 설탕과 케첩, 머스터드를 뿌린 핫도그를 먹으며 힐링을 즐기고 있다.",
+      "박지윤은 “모자라도 없었으면 뚜껑 날아갈 뻔.",
+      "이 와중에 맛있었던 핫도그면 진짜 맛있는 거”라며 무더위에도 먹는 것에 진심인 모."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ae8cca1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727123",
+    "title": "검찰, '양정원 수사 무마 의혹' 강남경찰서 추가 유착 정황 파악",
+    "summary": [
+      "[서울=뉴시스]조수원 기자 = 강남경찰서 경찰관이 금품을 받고 인플루언서 양정원씨 관련 사기 사건을 무마했다는 의혹을 수사 중인 검찰이 추가 유착 정황을 포착했다.",
+      "28일 뉴시스 취재에 따르면 서울남부지검 금융·증권범죄합동수사부(신동환 부장검사)는 양씨의 남편인 이모씨의 휴대전화 통화 내역을 통해 강남서 수사2과 경찰관 2명의 이름이 언급된 사실을 파악했다.",
+      "현재까진 강남서 수사1과 소속이었던 송모 경감만 연루된 것으로 알려졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd1439df5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260728/134379820/1",
+    "title": "친족 증거인멸까지 면책하는 한국…프랑스는 ‘숨겨주기만’ 허용",
+    "summary": [
+      "현직 경찰관이 자신의 아들인 여고생 살해범 장윤기(24·사진)의 범행과 관련한 증거 인멸을 시도한 데 이어 전북의 한 경찰관도 불법촬영 혐의를 받는 10대 아들의 휴대전화를 폐기한 것으로 밝혀졌다.",
+      "이에 따라 70년 넘게 유지된 ‘친족 특례’ 제도의 개선이 필요하다는 목소리도 커지고 있다.",
+      "현행 형법은 범인의 친족이 범인을 은닉시키거나 증거를 인멸하는 행위를 할 때 처벌을 면제해주는 친족 특례를 두고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n333db7cb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/MJSDCN3CMU3DQNTFGUYWCN3BGM/",
+    "title": "'금융맨♥' 효민, ON&OFF 확실하네....46kg 실감나는 비주얼",
+    "summary": [
+      "[OSEN=김수형 기자] ‘티아라 출신 효민이 중국 출장 중 남다른 패션 감각을 뽐냈다.효민은 28일 자신의 SNS에 \"Hangzhou ➙ Shanghai 출장 일지\"라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속 효민은 회색 민소매 베스트와 와이드 팬츠를 매치한 셋업 스타일링으로 세련된 분위기를 자아냈다.",
+      "군더더기 없는 실루엣과 잘록한 허리 라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1c629645",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/28/42OMPCXGXRB7BAONER27GM3JNM/",
+    "title": "마약사범 3년째 2만명대…밀수·제조범 역대 최고",
+    "summary": [
+      "마약사범 3년째 2만명대…밀수·제조범 역대 최고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc5c16003",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728168300009",
+    "title": "IAEA \"일본지진 후 센다이 원전 피해 없다고 통보받아\"",
+    "summary": [
+      "(서울=연합뉴스) 곽민서 기자 = 국제원자력기구(IAEA)는 28일 오후 일본 규슈 서부 구마모토현 우키시 일대에서 일어난 규모 7.1 강진과 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0aac70bf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727095",
+    "title": "'22살' 원이 \"나이 드니 눈물 많아져\"",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 그룹 리센느의 리더 원이가 최근 자주 기쁨의 눈물을 흘린다고 했다.",
+      "28일 공개된 웹예능 '살롱드립'에는 그룹 리센느의 원이와 미나미가 출연했다.",
+      "진행자 장도연이 \"여긴 왜 이렇게 눈물 날 일이 많냐\"고 묻자, 원이는 \"나이가 들면 눈물이 많아지나 싶다\"고 답했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n660eab2b",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728167900007",
+    "title": "뮌헨 이사 \"선수 영입에 마케팅 무관…김민재도 실력 본 것\"",
+    "summary": [
+      "(서울=연합뉴스) 최송아 기자 = 국가대표 수비수 김민재가 활약하는 독일 프로축구의 '명가' 바이에른 뮌헨의 마케팅 담당 고위 관계자는 선수 영..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc73bfd9a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727107",
+    "title": "최민희 \"김민석에 섭섭…본인 지지 안 하면 구박\"",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 최민희 더불어민주당 최고위원 후보는 김민석 당대표 후보가 중도 확장을 내세우면서도 정작 자신을 지지하지 않는 최고위원 후보들을 구박하는 듯하다며 섭섭한 심경을 밝혔다.",
+      "최 후보는 28일 CBS 라디오 '박성태의 뉴스쇼'에 출연해 김 후보가 자신을 지지하는 최고위원 후보 5명이 모두 당선돼야 한다는 취지로 '5대 3이 아니라 5대 0이 돼야 한다'고 언급한 데 대해 \"김민석 후보님께 섭섭하다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na2867c61",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727119",
+    "title": "[세계유산위] '대한민국관' 12만명 돌파…내일 운영 종료",
+    "summary": [
+      "[서울=뉴시스]한이재 기자 = 제48차 유네스코 세계유산위원회가 열리고 있는 부산 벡스코 내 개최국 공식전시관 '대한민국관'이 개관 9일 만에 누적 관람객 12만명을 돌파했다.",
+      "폐회를 하루 앞둔 28일 국가유산청과 국가유산진흥원에 따르면 전날인 27일 기준으로 '대한민국관'의 누적 관람객 수는 10만명을 넘어섰고, 이날 1만5347명이 방문하며 누적 12만2167명을 기록했다.",
+      "일자별로 보면, 20일 7391명, 21일 7129명, 22일 96."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a979186",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "31분 전",
+    "url": "https://view.asiae.co.kr/article/2026072820075317422",
+    "title": "안전등급 '보통'인데 무너진 보릿돌교…인명피해는 없어(종합)",
+    "summary": [
+      "경북 포항시 구룡포읍 한 해상 인도교가 붕괴돼 관광객과 낚시객들이 한때 고립됐으나 모두 구조됐다.",
+      "해당 다리는 지난해 안전점검에서 '보통'에 해당하는 C등급을 받은 것으로 알려졌다.",
+      "현재까지 인명피해는 없는 것으로 확인됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2f9f51de",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728167200030",
+    "title": "CJ제일제당, 전분당 사업 매각 추진...\"미래 혁신 차원\"",
+    "summary": [
+      "(서울=연합뉴스) 홍국기 기자 = CJ제일제당이 전분당 사업 부문 매각을 추진한다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -639,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
