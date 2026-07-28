@@ -1,26 +1,28 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-28 08:53:29
+// 마지막 업데이트: 2026-07-28 09:51:10
 window.NEWS_DB = [
   {
     "id": "nb69089aa",
     "category": "IT",
     "source": "한겨레",
-    "time": "58분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YnhuU2t6aVJaMmd5LXJmWlp4OE95OWRUeHhONlRkM3kzZzdsWG9HTzJhZDQ5WVZaRE9QVkxrak1GMk9nS0Q5M2I1SzE5S2Z2R3FyV2R2N2RySFhEOWhWVQ?oc=5",
-    "title": "엔비디아 순환거래에 ‘AI 투자 리스크’ 재점화…애플에 시총 1위 뺏겨",
+    "title": "엔비디아 ‘순환거래’에 전세계 반도체주 ‘휘청’…AI 투자 리스크 재점화",
     "summary": [
-      "엔비디아 순환거래에 ‘AI 투자 리스크’ 재점화…애플에 시총 1위 뺏겨 한겨레."
+      "엔비디아 ‘순환거래’에 전세계 반도체주 ‘휘청’…AI 투자 리스크 재점화 한겨레."
     ],
     "chips": [
       "#AI",
-      "#엔비디아"
+      "#반도체",
+      "#엔비디아",
+      "#전세"
     ]
   },
   {
     "id": "nc2d73c88",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwc1V4SnJRUDVSLVpuZWtVOFNudVBUeFlQUG1Ia0s3Q1dISlRDOXg1UTlpNTN2RnJRaGtPTmNXajF0azNjMHlsY1JHcU02bnloQVNqSFBqYTRvZVJHbXNocFZuSklIUVdWQTVvR1I4YWF1Mms?oc=5",
     "title": "엔비디아 '데이터센터 임대' 사업도 직접 나선다, 미국 텍사스에 최대 500억 달러 투자",
     "summary": [
@@ -34,7 +36,7 @@ window.NEWS_DB = [
     "id": "nd7688cb4",
     "category": "IT",
     "source": "투데이충남",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKd2VaaE5XZ0dpcDlqRVJXQUJpcmZWNFlCTHk2X0FHXzd4c0hhXy1QenJTcmRrdzFtMXBRcmh4ZG4zTmFpZ0F3WFN4OGZkZUU2UG5jMnJYd2E4X2dNeEt1RUxaS0F2OGcwaF9kTmtUTmdQUQ?oc=5",
     "title": "대전시, 제5기 D-유니콘 출범…유망 스타트업 6개사 집중 육성",
     "summary": [
@@ -45,10 +47,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n26d285ac",
+    "category": "IT",
+    "source": "더에이아이",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzX1E0cjRrRGpNWW9mVlRtcFB6d0RKYUlhSndpVnNlSXhUZUNJSGVvRV9RR0pDLXhEY2NJVUM2NXFRQVU0d1VIaDBEQ0o2ZVZFUDFTTHdhYWFWVlV1ZTZxN1FMNDlSdmxvWlE?oc=5",
+    "title": "HBM 두뇌가 된 베이스다이, 데이터량 폭증이 만든 새 ‘승부처’",
+    "summary": [
+      "HBM 두뇌가 된 베이스다이, 데이터량 폭증이 만든 새 ‘승부처’ 더에이아이."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "nf5e9c278",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10TXpuTDlLeTFUVkkyZ2xEcUtTYTVGNGFWYkYwVHBFYjhlWlU1WTlkNHJVa0VtTUw2OVFZVmxuazFCRE4wd1hCVDRVZEtUMlNOTkRUaDZuUWg1Sm_SAWBBVV95cUxPS08xdzZ5bnZFQW1VcmNsdzdKQXROdEhRRnJfSDlFX0pGSDM3UDVjUUk2UU1DSWJaRm1CM21TLW1uZmNBaEpZeDdCZ21WeU5xZzJHZzZZWmRLM2J3Q05MeVM?oc=5",
     "title": "애플, 15개월 만에 세계 시총 1위 탈환…AI 투자의 '역설'(종합)",
     "summary": [
@@ -56,22 +72,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "n586a0cf7",
-    "category": "IT",
-    "source": "뉴스퀘스트",
-    "time": "23시간 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
-    "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
-    "summary": [
-      "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주 뉴스퀘스트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자"
     ]
   },
   {
@@ -148,6 +148,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n2aad78a4",
+    "category": "사회",
+    "source": "sports.donga.com",
+    "time": "32일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Wm9najhvbjhBYndLZHhUQjlVTkRRc0MyS3hPVDFQS0RkOHpaQnJDVEJvampOTlJ3a3BBU1JJZHhTNDdfY1pscXRTRTlpNFp6SmZwY1ZHbzFBRnVvRThia0RPN2wtdDlNTVJxODhvTlFDZw?oc=5",
+    "title": "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공",
+    "summary": [
+      "김천시, ‘일자리 스마트매칭 취업박람회’ 성황…18명 현장 취업 성공 sports.donga.com."
+    ],
+    "chips": [
       "#취업",
       "#고용"
     ]
@@ -240,6 +255,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n72b90564",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "63일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
+    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
+    "summary": [
+      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -269,48 +299,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "160일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "166일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n46f59f4d",
+    "id": "n01f4c085",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "207일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
+    "source": "뉴시스",
+    "time": "127일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
     "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
     ],
     "chips": [
-      "#손흥민",
       "#KBO"
     ]
   },
@@ -380,258 +378,265 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8894b6bf",
+    "id": "n92b0032a",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/28/2026072817445930934",
+    "title": "\"바이에른 뮌헨이 김민재 영입한 이유는...\" 구단 이사가 직접 밝혔다",
+    "summary": [
+      "독일 명문 바이에른 뮌헨의 루벤 카스퍼 마케팅·세일즈 담당 이사가 한국과 깊은 인연과 팬덤 확장, 유소년 인재 양성에 대한 구단의 비전을 상세히 밝혔다.",
+      "특히 대한민국 간판 센터백 김민재(31)의 영입 배경과 그에 따른 파급 효과를 직접 설명하며 한국 시장에 대한 각별한 애정을 드러냈다.",
+      "카스퍼 이사는 28일 국내 취재진과 화상 인터뷰를 통해 오는 4일 오후 8시 제주월드컵경기장에서 열리는 제주SK와 친선경기를 앞두고 방한 소감과 마케팅 전략을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n93ca5445",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727072",
+    "title": "전남광주 도심서 덤프트럭에 깔린 40대 여성 심정지",
+    "summary": [
+      "[전남광주=뉴시스]이영주 기자 = 28일 오후 6시께 전남광주 북구 매곡동 한 공사현장 주변 도로에서 40대 여성 A씨가 덤프트럭에 깔렸다.",
+      "이 사고로 크게 다친 A씨가 심정지 상태로 이송돼 치료를 받고 있다.",
+      "당국은 정확한 사고 경위를 조사하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n564472a3",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260728/134382726/1",
+    "title": "대우건설, 3387억 강남원효성빌라 재건축 시공사 선정 취소",
+    "summary": [
+      "대우건설은 28일 공시를 통해 강남원효성빌라 재건축정비사업조합이 총회에서 자사에 대한 시공사 선정을 취소했다고 밝혔다.",
+      "공사금액은 약 3387억 원이다.강남원효성빌라 재건축사업은 서울 서초구 반포동 서래마을 일대에 지하 6층~지상 4층, 132가구 규모의 공동주택과 부대복리시설을 조성하는 사업이다.",
+      "대우건설은 지난해 6월 시공사로 선정됐다."
+    ],
+    "chips": [
+      "#재건축"
+    ]
+  },
+  {
+    "id": "n7818d5cb",
     "category": "경제",
     "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026072815250264607",
-    "title": "[클릭 e종목]\"PI첨단소재, 방열시트 덜 팔려도 연간 이익은 오를 것\"",
-    "summary": [
-      "삼성증권이 28일 PI첨단소재의 목표주가를 기존 3만1000원에서 2만8000원으로 하향하면서도 투자의견은 '매수'를 유지했다.",
-      "방열시트 매출 부진에도 연간 이익은 성장할 것이라는 기대감을 반영했다.",
-      "장정훈 삼성증권 연구원은 \"목표가 산정에 쓰이는 12개월 선행 EPS(주당순이익) 값이 7.6% 낮아진 데 따른 것\"이라며 \"투자의견 '매수'를 유지하는 것은 현 주가가 2026년 PER(주가수익비율) 10.6배로 동 업종 대비 현저한 저평가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n93dc2f8c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260728/134381783/1",
-    "title": "특검, ‘국회·선관위 군 투입’ 김현태 징역 18년 등 구형…“내란 행동대장들”",
-    "summary": [
-      "12·3 비상계엄 당시 국회와 중앙선거관리위원회에 군 병력을 투입한 혐의로 재판에 넘겨진 김현태 전 육군 특수전사령부 707특수임무단장(대령) 등 군 지휘관 7명에게 특검이 징역 10년에서 징역 18년에 달하는 중형을 각각 구형했다.",
-      "내란특검(특별검사 조은석)은 28일 서울중앙지법 형사합의37-2부(부장판사 오창섭 류창성 장성훈) 심리로 열린 김 전 대령의 내란 중요임무 종사 등 혐의 사건의 결심공판에서 김 전 단장에게 징역 18년을 구형했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n55e8ddcd",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026072817520907332",
-    "title": "[속보] 평택 K-55 미군기지서 백린 누출 신고…재난문자 발송",
-    "summary": [
-      "28일 오후 5시 7분께 경기 평택시 서탄면 K-55 미군기지에서 백린(白燐)이 누출됐다는 112 신고가 접수됐다.",
-      "평택시는 재난문자를 발송해 \"K-55 미군기지 내 백린 누출.",
-      "인근 주민은 피부에 노출되지 않도록 안전한 곳으로 대피하시기 바랍니다\"고 알렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n829f57c7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260728/134381657/1",
-    "title": "[단독] 檢, 수백억 사기 혐의 차가원 구속영장 청구",
-    "summary": [
-      "검찰이 수백억 원대 사기 혐의를 받는 차가원 피아크그룹 회장 겸 원헌드레드 대표에 대해 구속영장을 청구했다.",
-      "앞서 경찰은 지난달 두 차례에 걸쳐 차 대표에 대한 구속영장을 신청했지만 검찰이 두 번 모두 반려했다.28일 서울중앙지검은 이날 특정경제범죄 가중처벌법상 사기 등 혐의로 차 대표에 대한 구속영장을 서울중앙지법에 청구했다.",
-      "경찰은 지난달 차 대표에 대한 구속영장을 두 차례 신청했지만 검찰은 범죄사실 구성을 보완하라는 취지로 모두 반려한 바."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n56443bd3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727015",
-    "title": "달서아트센터, 가을학기 수강생 모집…체험형 교육 강화",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 달서문화재단 달서아트센터 예술아카데미는 내달 3일부터 '가을학기' 수강생을 모집한다고 28일 밝혔다.",
-      "이번 가을학기는 9월1일부터 11월30일까지다.",
-      "특히 센터 내 기획 공연 및 전시와 연계한 체험형 교육 프로그램을 대폭 늘려 예술교육의 차별화를 시도한다."
-    ],
-    "chips": [
-      "#채용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n236ad8a3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003726753",
-    "title": "또 '북한군 카드' 꺼낸 우크라 속내는?…\"국제 지원·韓 유인 포석\"",
-    "summary": [
-      "[서울=뉴시스]신정원 기자 = 볼로디미르 젤렌스키 우크라이나 대통령이 또다시 '북한군 러시아 파병설'을 꺼내든 것은 내부 정국 위기 국면을 전환하는 한편 국제사회의 지원 명분을 확보하고 한국의 개입을 유도하기 위한 전략이 깔려 있다는 분석이 나왔다.",
-      "NK뉴스는 27일(현지 시간) 전문가들을 인용해 젤렌스키 대통령이 연일 '북한 카드'를 강조하는 배경에 국제사회로부터 군사·재정적 지원 명분을 확보하는 한편 러시아의 확전 움직임에 경각심을 높이려는."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1227b0f0",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026072817425860113",
-    "title": "서해해경청, 고흥서 어업인 구명조끼 착용 캠페인",
-    "summary": [
-      "서해지방해양경찰청이 본격적인 여름 휴가철을 맞아 어업인 구명조끼 착용 문화 확산과 연안사고 예방을 위한 현장 안전활동에 나섰다.",
-      "서해해경은 28일 고흥군 어선안전조업국에서 어업인 구명조끼 착용 문화 확산을 위한 합동 캠페인을 실시했다고 밝혔다.",
-      "이번 캠페인은 최근 확대 시행된 어선 구명조끼 착용 의무화 제도가 현장에 안정적으로 정착할 수 있도록 하고, 어업인의 안전의식을 높이기 위해 마련됐다.이날 행사에는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n172e54ce",
-    "category": "IT",
-    "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727014",
-    "title": "[올댓차이나] 대만 증시, 글로벌 반도체 동반 약세에 4.65% 급락 마감",
+    "url": "https://view.asiae.co.kr/article/2026072818411303606",
+    "title": "檢, 수백억대 사기 혐의 연예기획사 대표 차가원 영장 청구",
     "summary": [
-      "[서울=뉴시스]이재준 기자 = 대만 타이베이 증시는 28일 뉴욕과 아시아 증시에서 반도체주가 급락한 여파로 3거래일 연속 하락한 채 마감했다.",
-      "인공지능(AI)과 반도체 관련 대형주를 중심으로 매도가 쏟아지면서 사상 3번째 낙폭을 기록하며 2달 만에 4만2000선을 내줬다 자취안(加權) 지수는 이날 전일 대비 2030.83포인트, 4.65% 내려간 4만1603.36으로 폐장했다.",
-      "장중 최고인 4만3221.93으로 출발한 지수는 4만1565.00까."
+      "검찰이 300억원대 사기 혐의를 받는 차가원 피아크그룹 회장 겸 연예기획사 원헌드레드 레이블 대표에 대해 구속영장을 청구했다.",
+      "28일 법조계에 따르면 서울중앙지검은 이날 차 대표에 대해 특정경제범죄 가중처벌법상 사기 등 혐의로 구속영장을 청구했다.",
+      "이번 구속영장 청구는 서울경찰청 광역수사단 금융범죄수사대가 지난 22일 세 번째 구속영장을 신청한 데 따른 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nebfcf488",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026072818444011451",
+    "title": "[속보] \"규슈강진에 최소 50명 병원 이송…대형쇼핑몰서 폭발음\"",
+    "summary": [
+      "[속보] \"규슈강진에 최소 50명 병원 이송…대형쇼핑몰서 폭발음\"."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n49f66a07",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727070",
+    "title": "미군 오산공군기지 '백린 누출' 조치 완료…대피령 해제(종합2보)",
+    "summary": [
+      "[평택=뉴시스] 양효원 기자 = 28일 오후 5시2분께 경기 평택시 서탄면 주한미군 오산공군기지(K-55)에서 백린 누출 사고가 났다.",
+      "\"탄두에서 화학물질 누출이 의심된다\"는 관계자 신고를 접수한 경기소방은 시에 해당 내용을 통보한 뒤 미군 EOD(폭발물 처리반)와 현장 통제 및 해독 작업에 나서 오후 6시36분 작업을 완료했다.",
+      "투입한 소방력은 장비 14대와 소방관 38명 등이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd0cb765d",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260728/134382677/1",
+    "title": "‘오픈웨이트 서한’으로 글로벌 AI 판도 격변··· 독파모는 방파제가 되어줄까",
+    "summary": [
+      "지난 7월 16일, 중국의 AI 스타트업 문샷 AI가 초거대 AI 모델 ‘키미 K3(Kimi K3)’를 전격 공개했다.",
+      "키미 3은 2조 8000억 개의 초대형 매개변수로 구성된 전문가 혼합(MoE) 구조의 모델로 오픈AI나 앤트로픽 등이 독점적이고 자체 서버에서 유료로 서비스를 제공하는 것과 달리 모델 가중치를 완전히 공개하고 누구나 자체 서버로 다운로드해서 사용할 수 있도록 해 투명성과 활용도를 높였다.",
+      "성능 측면에서도 클로드 오퍼스 5 및."
     ],
     "chips": [
       "#AI",
-      "#반도체"
+      "#스타트업"
     ]
   },
   {
-    "id": "n7d73e883",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727008",
-    "title": "국회의장실, 조 의장 '대통령 연임 국민 선택 문제' 발언에 \"원론적 입장 밝힌 것\"",
-    "summary": [
-      "[서울=뉴시스]신재현 기자 = 국회의장실이 28일 '현직 대통령 연임 문제는 국민의 선택 문제'라는 조정식 국회의장 언급에 \"연임 가능성을 열어뒀다는 보도는 발언 취지와 전혀 다르다\"고 해명했다.",
-      "장현주 국회의장실 공보수석은 이날 국회 본청에서 취재진과 만나 \"오늘 기자 간담회에서 권력 구조 개편, 개헌 관련한 조 의장 답변은 국민적 공감대와 정치권 합의를 바탕으로 (논의가) 진행돼야 한다는 원론적 입장을 밝힌 것\"이라고 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na751d93b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728154100504",
-    "title": "인요한 적십자사 회장 인준 미뤄져…공직윤리위, 내달 재논의",
-    "summary": [
-      "(서울=연합뉴스) 하채림 기자 = 지난달 대한적십자사 회장으로 선출된 인요한 전 국회의원의 대통령 인준이 여당 전당대회 이후로 미뤄지게 됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1706c5cd",
+    "id": "n0b954450",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728155800007",
-    "title": "연패 끊은 키움 김윤하…설종진 감독 \"터널 지났으니 좋은 일만\"",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728162000061",
+    "title": "[인사] 경기 화성시",
     "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 프로야구 역대 최다 연패 공동 2위이자 선발 투수 최다인 18연패 늪에서 빠져나온 김윤하(키움 히어로즈)의 승..."
+      "[인사] 경기 화성시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf85bd2da",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/28/2026072810560966913",
+    "title": "中 에어컨·냉방테마 ETF 돈 몰린다…폭염이 바꾼 투자 지도",
+    "summary": [
+      "[MT리포트-폭염시대 기후청구서]④냉각 테마 ETF도 관심 유럽 등 전 세계를 덮친 폭염이 글로벌 소비와 투자 흐름까지 바꾸고 있다.",
+      "이에 관련 개별 종목은 물론, 냉방과 전력망 인프라를 테마로 한 ETF(상장지수펀드)도 관심을 모으고 있다.",
+      "28일 중국 관영지 글로벌타임스(GT) 등을 종합하면 유럽에서 중국산 에어컨은 물론 아이스크림·슬러시 기계와 반려동물용 냉방 제품까지 관련 소비자 제품 수요가 급증하고 있다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n1580804d",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/future/2026/07/28/2026072817022732821",
+    "title": "AI가 부정행위도 잡는다…그렙, 혁신 프리미어 1000 선정",
+    "summary": [
+      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] AI(인공지능) 기반 에듀테크 기업 그렙이 중소벤처기업부 등 14개 부처가 공동 운영하는 '2026년도 제2차 혁신 프리미어 1000' 기업에 선정됐다고 28일 밝혔다.",
+      "혁신 프리미어 1000은 혁신성과 성장 잠재력을 갖춘 중소·중견기업을 선정해 정책금융기관의 금융·비금융 지원을 연계하는 국가 프로그램이다."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
+    "id": "na3c8d3bb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728161600083",
+    "title": "[일지] 1995년 한신 대지진 이후 일본 주요 강진",
+    "summary": [
+      "(도쿄·베이징=연합뉴스) 조성미 정성조 특파원 = 28일 오후 4시 27분께 일본 규슈 서부 구마모토현 우키시 인근에서 규모 7.1(일본 기상청..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e9a726a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727064",
+    "title": "검찰 \"장윤기 사건 송치보고서에 보완수사 요청 없었다\"",
+    "summary": [
+      "[전남광주=뉴시스]박기웅 기자 = 검찰은 '장윤기 사건'을 수사한 경찰이 송치 당시 제출한 추가 수사보고서에는 강간 등 살인 혐의 검토 경위가 담겼지만 보완수사를 요청하는 취지의 내용은 없었다고 밝혔다.",
+      "28일 광주지검에 따르면 광주 광산경찰서가 지난 5월14일 사건을 송치하면서 첨부한 A4용지 2쪽 분량의 추가 수사보고서에는 장윤기의 범행 동기가 성범죄일 가능성을 검토한 내용이 담겼다.",
+      "보고서에는 훼손된 리얼돌과 공기계에서 발견된 불법촬영물,."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2d777032",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003726852",
+    "title": "중동전쟁에 유럽 관광객 발길 '뚝'…동남아 관광지 직격탄",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 중동 전쟁으로 항공료가 급등하고 주요 환승 공항의 운항 차질이 이어지면서 유럽 관광객 의존도가 높은 동남아 관광지들이 어려움을 겪었다.",
+      "미국 일간 뉴욕타임스(NYT)는 28일(현지시간) 미국과 이스라엘이 지난 2월 말 이란을 공격한 이후 일부 항공 노선의 운임이 두 배까지 올랐다고 보도했다.",
+      "유럽과 아시아를 연결하는 두바이와 도하 공항의 항공편도 반복적으로 변경됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9e668819",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026072818423707958",
+    "title": "파이온엑스, 비핵심 자산 매각해 유동성 확보…과천 부동산 취득 추진",
+    "summary": [
+      "코스닥 상장사 파이온엑스(900100)는 사업과 직접적인 연관성이 낮은 비핵심 자산과 해외 부동산을 순차적으로 매각해 현금 유동성을 확보하고, 이를 성장성과 자산가치가 높은 국내 부동산 투자에 활용하는 자산 재편 전략을 추진하고 있다고 28일 밝혔다.",
+      "회사는 이번 자산 매각으로 마련한 재원을 재무구조 개선과 신규 사업 기반 확보, 실물자산 확대에 집중적으로 활용할 예정이다.",
+      "특히 수도권 핵심 입지로 평가받는 경기도."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "na441a77a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/GU4TINRXHFSWCYRWMVTDMMRUGI/",
+    "title": "장도연 최초로 울었다...리센느 원이x미나미 답변에 '눈물' 흘린 이유는 ('살롱드립2')",
+    "summary": [
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] ‘그룹 리센느(RESCENE)의 진심 어린 고백에 방송인 장도연이 결국 눈물을 보였다.28일 공개된 유튜브 채널 '살롱드립2'에는 '원이짱 미나미짱 상담하러 교무실로 오이데-★ | EP.150 리센느 원이·미나미'라는 제목의 영상이 게재됐다.이날 리센느는 데뷔 초 쉽지 않았던 활동기를 솔직하."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n38218e64",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/28/GM3DIYRRG5RDSMZSGJRTQZLFMM/",
+    "title": "‘왜 바꾼거야?’ 물음표→느낌표 되나! 1위 마운드 4안타 폭격, 두산 새 외인 자신감 붙었다 “오늘 기분 좋아요” [오!쎈 인천]",
+    "summary": [
+      "[OSEN=인천, 이후광 기자] 두산 새 외국인타자가 물음표를 느낌표를 바꾸는 걸까.프로야구 두산 베어스 김원형 감독은 28일 인천SSG랜더스필드에서 열리는 2026 신한 SOL KBO리그 SSG 랜더스와의 시즌 10차전에 앞서 취재진과 만나 새 외국인타자 유니오 세베리노를 향한 기분 좋은 예감을 전했다.",
+      "세베리노는 지난 2일 총액 20만 달러(약 3억 원."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n41dfbdac",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026072817475190197",
-    "title": "화성시, 전국 특례시 최초 ‘대한적십자사 화성특례시지부’ 출범",
-    "summary": [
-      "경기 화성특례시가 전국 특례시 가운데 처음으로 대한적십자사 시지부를 출범시키며 지역 맞춤형 인도주의 활동 강화에 나섰다.",
-      "화성특례시(시장 정명근)는 28일 대한적십자사 경기도지사가 '대한적십자사 화성특례시지부'를 창립했다고 밝혔다.",
-      "이번 지부 출범은 민선 9기 시정 슬로건인 '모두의 행복, 더 큰 화성' 실현을 위한 민·관 협력 기반을 한층 강화하는 계기가 될 전망이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc8a3e1cd",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260728/134380786/1",
-    "title": "알고리즘랩스, 교보증권 ‘AI 비즈 어시스턴트’ 구축 사업 수주",
-    "summary": [
-      "기업용 AI(인공지능) 에이전트 플랫폼 기업 알고리즘랩스는 교보증권의 사내 생성형 AI 프로젝트인 ‘AI Biz Assistant 구축 사업’의 최종 사업자로 선정됐다고 28일 밝혔다.AI Biz Assistant는 교보증권이 구축하려는 내부 LLM(거대언어모델) 기반의 맞춤형 업무 지원 시스템이다.",
-      "알고리즘랩스 측은 “다수의 금융사에 자체 솔루션인 AI-Canvas를 바탕으로 AI 기반 서비스를 제공한 노하우와 금융 도메인에 특화된 기술력을."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nd04f2f6e",
+    "id": "nd8996753",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728155400008",
-    "title": "SK디앤디, 1천400억원 주주배정 유상증자 결정",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/28/2026072818105166968",
+    "title": "CJ제일제당, 전분당 사업 매각 추진…\"여러 가능성 검토 중\"",
     "summary": [
-      "(서울=연합뉴스) 코스피 상장사 SK디앤디[210980]는 채무상환자금 등 약 1천400억원을 조달하고자 주주배정 유상증자를 결정했다고 28일 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne4a5bdb1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728155000004",
-    "title": "\"호텔방 좌우로 흔들려\"…일본 강진에 韓관광객 현지서 당황·불안",
-    "summary": [
-      "(서울=연합뉴스) 이의진 기자 = 28일 오후 일본 규슈 구마모토에서 규모 7.1 강진이 발생하자 일본 현지에 있거나 곧 방문하려던 한국인 관광..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf4deb5a0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/28/V2TRJW3L2NCFPBODAICACXGQME/",
-    "title": "[속보]평택 K-55미군기지 내 백린 누출...대피 명령",
-    "summary": [
-      "[속보]평택 K-55미군기지 내 백린 누출...대피 명령."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf1ebcc2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/07/28/B5FYREADNJGJLLPO4ADB3RGHQA/",
-    "title": "‘기자 폭행’ 잠실 집회 참가자 2명 구속영장 기각",
-    "summary": [
-      "‘기자 폭행’ 잠실 집회 참가자 2명 구속영장 기각."
+      "CJ제일제당이 전분당 사업부문 매각을 검토한다.",
+      "성장성과 수익성이 낮은 사업 부문을 과감히 정리하겠다는 차원으로 풀이된다.",
+      "28일 업계에 따르면 CJ제일제당은 핵심소재 사업부문 내에 있는 전분당 사업 매각을 위한 작업을 진행 중이다."
     ],
     "chips": [
       "#뉴스"
@@ -644,20 +649,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "스타트업",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
