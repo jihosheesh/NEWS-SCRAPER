@@ -1,26 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-27 23:21:54
+// 마지막 업데이트: 2026-07-28 00:21:07
 window.NEWS_DB = [
   {
-    "id": "n62419653",
+    "id": "nf5e9c278",
     "category": "IT",
-    "source": "bntnews.co.kr",
-    "time": "1시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zQXA0U1RLTllpbkl1UkNmVWVUVzdiTmFWQ2pEU1hBVmJzcU01S2RiSjJZLWJxR2JCYTc4TlVtQk1EZ21vM3plelBXUENDbWZHYWtnNGdDX096NlpuVWNlNzBaanM?oc=5",
-    "title": "엔비디아 주가 5% 급락…AI 투자 우려 커져",
+    "source": "연합뉴스",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10TXpuTDlLeTFUVkkyZ2xEcUtTYTVGNGFWYkYwVHBFYjhlWlU1WTlkNHJVa0VtTUw2OVFZVmxuazFCRE4wd1hCVDRVZEtUMlNOTkRUaDZuUWg1Sm_SAWBBVV95cUxPS08xdzZ5bnZFQW1VcmNsdzdKQXROdEhRRnJfSDlFX0pGSDM3UDVjUUk2UU1DSWJaRm1CM21TLW1uZmNBaEpZeDdCZ21WeU5xZzJHZzZZWmRLM2J3Q05MeVM?oc=5",
+    "title": "애플, 15개월 만에 세계 시총 1위 탈환…AI 투자의 '역설'(종합)",
     "summary": [
-      "엔비디아 주가 5% 급락…AI 투자 우려 커져 bntnews.co.kr."
+      "애플, 15개월 만에 세계 시총 1위 탈환…AI 투자의 '역설'(종합) 연합뉴스."
     ],
     "chips": [
-      "#AI",
-      "#엔비디아"
+      "#AI"
     ]
   },
   {
     "id": "n51366351",
     "category": "IT",
     "source": "미디어펜",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40WUNlT1g1X3JEZ1E5Y0ticXRKNEhZVGJmVVRPV3czcXpkQXVFRFNjUUlndUVlRmNnUkczV09Dd0I2cEJvUzFuNnlVWS1tZ2RXRkg0N9IBWEFVX3lxTE5nNF9BRWRyMmxVS3M3MEU4NFhFSnRQWHREYUZoeHlaTkFLck5pN2EzS1l6SXREUXF4em1KcmxXVGEwQVR6VFZRLTRQa0tYLWV5SWx5MnpTWEk?oc=5",
     "title": "[美증시 특징주] 반도체 엔비디아 오픈AI 순환금융에 직격…하이닉스·마이크론 급락",
     "summary": [
@@ -36,7 +35,7 @@ window.NEWS_DB = [
     "id": "nad2051b5",
     "category": "IT",
     "source": "블로터",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMFBUdGJQMWJ3TTZIeFZ3T01oTnZudlVwSjNscHRqUU54WDZ1VzAwS1hVR3hmSkRUcnoybGl0R0lGWU5nY0xIeVkyN05yOEhIb20yNERFelFvTW1fRkJ5SXF6Z0tfVzRh0gFsQVVfeXFMUFlRbWY3bUwtdTVRUjFKYUREYWpLb0hhMmxHN2owcjRyeTF1T3BvVnVFZFJHbHVmYUNxbkFkX3ZiRndCRUlObmNobDYzbFNsZ1lpUGY5RFJNdm1XSGNkc0hhSXp5by04bVpHNjFa?oc=5",
     "title": "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다",
     "summary": [
@@ -51,7 +50,7 @@ window.NEWS_DB = [
     "id": "n586a0cf7",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
     "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
     "summary": [
@@ -67,7 +66,7 @@ window.NEWS_DB = [
     "id": "n4caae55c",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zc3B3SEp4bllzMUtTbmN5bzNuY2tvd3FyRXdseXk3X0RKM3JvVVgyekk5a1pULXJLdHVURUZrQ2dNTVlYMElqTWduVHNJaDZOZ1pHNzlramNMRFNrU3FMVE9pUW94cWdf?oc=5",
     "title": "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\"",
     "summary": [
@@ -259,6 +258,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n72b90564",
+    "category": "부동산",
+    "source": "v.daum.net",
+    "time": "62일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
+    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
+    "summary": [
+      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -288,350 +302,330 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "165일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n46f59f4d",
+    "id": "n01f4c085",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "206일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
+    "source": "뉴시스",
+    "time": "126일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
     "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
     ],
     "chips": [
-      "#손흥민",
       "#KBO"
     ]
   },
   {
-    "id": "n66024740",
+    "id": "n595f2a46",
     "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072809054173307",
+    "title": "휴넷, 10월 '포사이트 코리아 2027' 개최",
+    "summary": [
+      "휴넷은 오는 10월 1일 그랜드 인터컨티넨탈 서울 파르나스에서 '휴넷CEO 포럼 - 포사이트 코리아 2027'을 개최한다고 28일 밝혔다.",
+      "올해로 3회를 맞는 '포사이트 코리아'는 기업 경영자와 의사결정권자를 대상으로 차기 연도 사업계획 수립에 필요한 핵심 경영 이슈와 전략을 제시하는 사업계획 특화 포럼이다.",
+      "기업들이 내년도 경영 전략을 준비하는 시기에 맞춰 하루 동안 사업계획 전반에 필요한 핵심 내용을 다루며 실행 방향과."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nce17a238",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072809204952903",
+    "title": "\"딥테크 예비창업자 발굴·지원\" 원자력연, 창업아이디어 경진대회",
+    "summary": [
+      "원자력 방사선 분야 딥테크 예비창업자를 발굴하기 위한 경진대회가 열렸다.",
+      "한국원자력연구원(원자력연)은 '제1회 창업아이디어 경진대회'를 개최했다고 28일 밝혔다.",
+      "대회는 전날 6개 팀이 경합하는 방식으로 열렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf741b555",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072809201848488",
+    "title": "[부고] 김상욱(제이브이엠 대표이사)씨 부친상",
+    "summary": [
+      "[부고] 김상욱(제이브이엠 대표이사)씨 부친상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8413dbbe",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003725818",
+    "title": "동아오츠카, 포카리스웨트 500㎖ 무라벨로…\"100만병 당 비닐 900㎏↓\"",
+    "summary": [
+      "[서울=뉴시스]이주혜 기자 = 동아오츠카가 포카리스웨트 500㎖ 무라벨 제품을 출시했다고 28일 밝혔다.",
+      "비닐 사용량을 줄이고 분리배출 편의성을 높였다.",
+      "동아오츠카는 2024년 340㎖ 제품에 처음으로 무라벨을 적용한 데 이어 500㎖ 제품까지 무라벨 라인업을 확대했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4148d87a",
+    "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003725632",
-    "title": "케이엠제약, 3억 규모 자사주 취득 결정",
+    "url": "https://www.newsis.com/view/NISX20260728_0003725816",
+    "title": "\"OTT 혜택부터 1TB 업그레이드까지\"…이통3사, 갤Z8 사전판매 시작",
     "summary": [
-      "[서울=뉴시스] 김경택 기자 = 케이엠제약은 주주가치 제고, 주가 안정을 위해 3억원 규모의 자사주 취득을 결정했다고 28일 밝혔다.",
-      "취득 예상 기간은 다음 달 10일부터 오는 9월 10일까지다.",
-      "회사 측에 따르면 케이엠제약은 발행주식 총수의 3.72%에 해당하는 자사주 20만7612주를 장내 직접 취득한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne96a6adc",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026072808190528003",
-    "title": "\"생존 위해 물방울 핥았다\"…태평양서 한 달 표류한 美 남성, 극적 구조",
-    "summary": [
-      "미국의 한 남성이 돛대가 부러진 요트를 타고 태평양에서 30일간 표류하다 하와이 인근 해상에서 극적으로 구조된 사연이 전해졌다.",
-      "27일(현지시간) 영국 가디언에 따르면 캘리포니아주에 사는 카이 사토(39)는 지난달 7일 캘리포니아 카탈리나섬에서 출발해 태평양을 혼자 횡단하는 첫 항해에 나섰다.",
-      "그러나 항해 도중 요트의 돛대가 부러졌고, 항법에 사용하던 휴대전화마저 방전되면서 항해는 순식간에 악몽으로 바뀌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n914ec74a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725357",
-    "title": "'제주 은갈치에 고지대 산수박까지' 이마트 '고래잇 페스타'에서",
-    "summary": [
-      "[서울=뉴시스]권민지 기자 = 이마트는 30일부터 다음달 2일까지 나흘간 제철 신선식품과 휴가용품, 가전 등을 최대 50% 할인하는 '고래잇 페스타'를 진행한다고 28일 밝혔다.",
-      "행사에서는 제주 생은갈치와 참다랑어회, 전복 등 제철 수산물을 특가에 선보인다.",
-      "대표 상품인 '제주 생은갈치'는 신세계포인트 적립 시 최대 50% 할인한 마리당 2990원에 판매한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ec9930e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260727_0003725430",
-    "title": "1000원 벽 허문다…롯데마트·슈퍼, '980원 두부·콩나물' PB 어디까지",
-    "summary": [
-      "[서울=뉴시스]권민지 기자 = 롯데마트·슈퍼가 용량을 늘리고 가격은 낮춘 자체브랜드(PB) 두부와 콩나물을 출시하며 초저가 먹거리 경쟁을 이어간다.",
-      "롯데마트·슈퍼는 신선 PB '오늘좋은 더 큰 두부'와 '오늘좋은 더 많은 콩나물'을 출시했다고 28일 밝혔다.",
-      "이번 신제품은 기존 '오늘좋은 두부'와 '오늘좋은 콩나물'을 리뉴얼한 상품이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n62331d29",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026072808165910753",
-    "title": "등에 스틱 꽂혔는데…6시간 넘게 16㎞ 걸어 병원 간 美 간호사",
-    "summary": [
-      "한 미국 남성이 등산 도중 스틱에 등을 관통당하는 사고를 당했다.",
-      "그는 고통 속에서도 16㎞를 걸어 무사히 하산한 것으로 알려져 이목이 쏠린다.",
-      "미 CNN 방송은 미국 몬태나주 출신 데이비드 시팔디가 최근 친구 2명과 함께 몬태나주 최고봉인 '그래니트 피크'를 오르다가 미끄러지는 사고를 당했다고 보도했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n72cc1aa6",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026072808183421538",
-    "title": "뉴온, 190억원 규모 3자배정 유상증자 완료",
-    "summary": [
-      "뉴온이 제3자배정 유상증자를 통해 성장 투자 기반을 확보한다.",
-      "뉴온이 최대주주인 케이피엠테크를 대상으로 진행한 제3자배정 유상증자를 마무리하고 성장 기반 강화에 나선다고 28일 밝혔다.",
-      "이날 상장되는 신주는 보통주 918만 7620주로 신주 발행가는 주당 2068원이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4be893e5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/07/28/GBSWIOJRG5SGIZDBG5RDSMZQMI/",
-    "title": "투모로우바이투게더, 7년 서사 담은 'LAYERS OF US' 개최",
-    "summary": [
-      "[OSEN=선미경 기자] 그룹 투모로우바이투게더가 7주년을 특별하게 기념한다.투모로우바이투게더는 오는 8월 13일부터 9월 6일까지 서울 성동구에 위치한 더 서울라이티움에서 데뷔 7주년을 맞아 ‘LAYERS OF US’를 개최한다.이번 전시는 투모로우바이투게더의 7년 서사를 시각적으로 구현한 이벤트다.",
-      "투모로우바이투게더 멤버들이 지난 7년 동안 쌓아온 서사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba21d10f",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026072808173714637",
-    "title": "관악구·샤로수길 상인회, ‘상인협동조합’ 설립",
-    "summary": [
-      "서울 관악구(구청장 박준희)는 샤로수길 상인회가 서울시 로컬브랜드 상권 가운데 처음으로 상인협동조합을 설립하고 상인 주도형 성장 모델 구축에 나섰다고 28일 밝혔다.샤로수길은 개성 있는 음식점과 카페, 소매점 등이 밀집해 젊은 창업가와 방문객이 모이는 관악구의 대표 골목상권이다.",
-      "이번 조합 설립은 상인들이 개별 점포 중심 운영에서 벗어나 함께 수익사업을 발굴하고 운영하는 기반을 마련했다는 점에서 의미가 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n12bd3818",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003725594",
-    "title": "벌꿀오소리·카피바라·정어리 3만 마리…아쿠아플라넷 일산 새 식구",
-    "summary": [
-      "[서울=뉴시스]김정환 관광전문 이주창 인턴 기자 = 경기 고양시 일산서구 한류월드로 아쿠아플라넷 일산이 여름 성수기를 맞아 최근 벌꿀오소리, 카피바라, 정어리 떼 등 신규 생물을 선보였다.",
-      "특히 벌꿀오소리는 국내에서 처음 공개됐다.",
-      "이들 신규 생물 도입을 위해 아쿠아플라넷 일산의 수의사, 아쿠아리스트 등이 해외 동물 전문가들과 약 2년에 걸쳐 협력해 서식 환경을 조성하고 사육 관리 체계를 마련했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nc3ad2d14",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/GZSWKYJVMJSDANDBMI3DSOJXMM/",
-    "title": "'치어리더 은퇴' 김한나, 아들맘 된다…\"딸 원해서 조금 당했지만\"",
-    "summary": [
-      "[OSEN=장우영 기자] 치어리더 출신 김한나가 아들맘이 된다.김한나는 28일 자신의 소셜 계정에 “4월 1일 만우절에 진행했던 젠더리빌.",
-      "그리고 로봇이 되어버린 김정석 씨.",
-      "달래야 사랑해”라는 글과 영상을 공개했다.영상에는 젠더리빌을 하고 있는 김한나와 남편 김정석의 모습이 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3a8da296",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728022800008",
-    "title": "iM증권, LX세미콘 목표가↓…\"올해 영업익 28% 감소 전망\"",
-    "summary": [
-      "(서울=연합뉴스) 김유아 기자 = iM증권은 28일 LX세미콘[108320]의 올해 연간 영업이익이 작년보다 30% 가까이 줄어들 것으로 보인다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7a573407",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/politics/north_korea/2026/07/28/D7KACAQLSFEGNP6SCEHSHYXGYM/",
-    "title": "北, ‘전승절 73주년’ 대대적 행사... 6·25 복식 갖춘 종대 행진",
-    "summary": [
-      "北, ‘전승절 73주년’ 대대적 행사... 6·25 복식 갖춘 종대 행진."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3e41eb63",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728005300001",
-    "title": "李대통령, 룰라와 '정상외교' MOU 성과…상파울루로 출발",
-    "summary": [
-      "(브라질리아=연합뉴스) 임형섭 황윤기 기자 = 이재명 대통령은 27일(현지시간) 루이스 이나시우 룰라 다시우바 브라질 대통령과 정상외교 일정을 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne13ecdd9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260728/134376441/1",
-    "title": "정호영 “음식 늦었다고 계산대 발로 차고 어깨 밀쳐”",
-    "summary": [
-      "정호영 셰프가 진상손님에게 폭행을 당한 적이 있다고 했다.정호영은 27일 방송한 KBS 2TV 예능프로그램 ‘말자쇼’에 나와 진상손님 관련 얘기를 했다.정호영은 “일식엔 회가 있지 않나.",
-      "그런데 외부에서 회를 포장해 와서 초장과 간장을 세팅해달라고 요구하는 손님이 있었다”고 말했다.그러면서 “정중하게 어렵다고 설명했지만 이해하지 못하더라”고 했다.정호영은 폭행당한 적도 있다고 했다.그는 “음식이 늦게 나갔다.",
-      "우리 응대가 부족했던 부분도 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na59d766b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260728/134376438/1",
-    "title": "‘친구 살해’ 정재환과 모친, 롤렉스 시계부터 챙겼다…“찾아야 파는데”",
-    "summary": [
-      "“롤렉스 시계는 어디 있냐?”경북 경산에서 중학교 동창을 잔혹하게 살해한 혐의를 받는 정재환(24)이 경찰에 체포되기 직전까지 가장 먼저 챙기려 한 것은 롤렉스였다.27일 중앙일보 등에 따르면, 사건 당일 피해자의 연락을 받고 대구에서 경산으로 달려온 친구 B 씨는 오전 4시 35분께 정재환의 자택에 도착했다.",
-      "경찰이 현장에 도착하기 전이었다.B 씨는 또 다른 매체를 통해 “정재환이 롤렉스 시계와 차에 있던 현금 2000만 원을 자신의 어머니에."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n84e4b3a3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/28/MDWBWQHAKVFCJJQ26ERWVZ4DXQ/",
-    "title": "‘호프’ 4DX 관람한 BTS 정국 “너무 재밌다”... CGV는 ‘호프’ 내리고 ‘스파이더맨’에 몰아줘",
-    "summary": [
-      "‘호프’ 4DX 관람한 BTS 정국 “너무 재밌다”... CGV는 ‘호프’ 내리고 ‘스파이더맨’에 몰아줘."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6106e1fc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728019000087",
-    "title": "'무법천지' 아이티서 10년 만에 선거…12월 대선 치른다",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 갱단 출몰과 정치적 혼란 속에 10년간 선거를 단 한 번도 치르지 못한 아이티 국민들이 마침내 올해 1..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nec970246",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260728/134376425/1",
-    "title": "애플, 15개월 만에 세계 시총 1위 탈환…엔비디아, AI 투자 우려에 ↓",
-    "summary": [
-      "애플이 27일(현지시간) 엔비디아를 제치고 세계 시가총액 1위라는 타이틀을 차지했다.",
-      "애플이 엔비디아를 넘어선 것은 장 마감 기준으로 지난해 4월 이후 15개월 만이다.CNBC에 따르면 애플 주가는 이날 전 거래일 대비 1.17% 오른 336.91달러로 마감했다.",
-      "시가총액은 4조9500억달러로 늘었다."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nf0261f98",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728015000007",
-    "title": "톱10만 10번 김시우, 이번에는?…PGA 투어 로켓클래식 30일 개막",
-    "summary": [
-      "(서울=연합뉴스) 최태용 기자 = 톱10 진입 횟수 성적만을 본다면 미국프로골프(PGA) 투어에서 2위를 달리는 김시우가 1주간 휴식을 취한 뒤..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na9219865",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "21분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260728012901",
-    "title": "삼성전자 \"갤럭시Z폴드8, 여권에서 최대 영감\"",
-    "summary": [
-      "[지디넷코리아][런던(영국)=이기종 기자] 삼성전자가 \"올해 폴더블폰 라인업에 추가한 갤럭시Z폴드8에 가장 큰 영감을 준 것은 여권\"이라고 밝혔다.",
-      "지난 22일(현지시간) 영국 런던에서 열린 폴더블폰 공개 행사를 앞두고 이 제품은 '여권 형태 폴더블폰'이라고 불렸다.",
-      "갤럭시Z폴드8은 이제껏 삼성전자가 출시한 북 타입 폴더블폰 Z폴드 시리즈보다 위아래 길이가 짧고 좌우 폭이 넓다."
+      "[서울=뉴시스]박은비 기자 = 이동통신3사가 삼성전자의 차세대 폴더블폰 갤럭시 Z8 시리즈 사전판매를 시작했다.",
+      "대화면이 특징인 만큼 온라인동영상서비스(OTT) 맞춤 요금제나 할인 혜택을 기획했다.",
+      "28일 이동통신업계에 따르면 SK텔레콤과 KT, LG유플러스는 이날부터 다음달 3일까지 삼성전자의 갤럭시 Z 폴드8 울트라·폴드8·플립8 사전판매를 진행한다."
     ],
     "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "ncaa061c5",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "34분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260728/134376382/1",
-    "title": "남자 주니어 핸드볼, 아시아선수권 제패…통산 4번째 우승",
+    "id": "nf514277f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026072809190841923",
+    "title": "[인사] 아주경제",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nddf42e01",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003725808",
+    "title": "검찰, '서해 공무원 피격' 수사 해경 간부들 불기소…사건 6년만",
     "summary": [
-      "한국 남자 주니어(20세 이하) 핸드볼 대표팀이 아랍에미리트(UAE)를 꺾고 통산 4번째 아시아주니어선수권대회 우승을 달성했다.박현종 감독이 이끄는 주니어 대표팀은 27일(한국 시간) 중국 추저우에서 열린 UAE와의 제19회 아시아남자주니어선수권대회 결승전에서 25-24 승리를 거뒀다.이로써 주니어 대표팀은 1988년 제1회, 1992년 제3회, 2018년 제16회 대회에 이어 통산 4번째로 아시아주니어선수권대회 정상을 밟았다.또한 이번 대회에."
+      "[서울=뉴시스]박선정 기자 = 검찰이 '서해 공무원 피격 사건' 수사를 했던 간부들을 불기소 처분했다.",
+      "사건이 벌어진 지 약 6년 만이다.",
+      "28일 법조계에 따르면 서울중앙지검 공공수사1부(부장검사 윤수정)는 직권남용과 허위공문서 작성 등 혐의로 입건된 윤성현 당시 해양경찰청 수사정보국장과 김태균 당시 해경 형사과장을 최근 불기소 처분했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc1fa9552",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/stock/2026/07/28/2026072809035753686",
+    "title": "이니텍, 에이아이웍스·하이퍼놀로지와 'AI 얼라이언스' 구축",
+    "summary": [
+      "이니텍은 에이아이웍스, 하이퍼놀로지와 AI(인공지능) 기반 산업 혁신과 기업의 AX(인공지능 전환) 가속화를 위한 전략적 업무협약(MOU)을 체결했다고 28일 밝혔다.",
+      "이번 협약은 이니텍과 하이퍼놀로지가 지난 6월 19일 체결한 'AI 산업 지능화 및 디지털 보안 기술 협력' 업무협약을 3사 협력 체계로 확대한 것이다.",
+      "3사는 각사가 보유한 산업 AI와 생성형 AI, 금융 IT 구축·운영 역량을 결합해 제조·금융·공공 등 다양한 산업에서 AI."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n8f26a57c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260728/134376920/1",
+    "title": "갤Z폴드8 시리즈 최대 공식지원금 57.5만원…울트라는 할인해도 200만원",
+    "summary": [
+      "삼성전자의 새 폴더블폰 ‘갤럭시Z8’ 시리즈에 이동통신 3사가 최대 50만원의 공통지원금을 예고했다.",
+      "유통망에서 예고한 추가지원금까지 적용하면 최대 57만5000원의 지원이 보장된다.",
+      "다만 이통사별로 최소 8만5000~10만원 이상 요금제를 이용해야만 받을 수 있는 금액이다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n18f5dfcc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003725822",
+    "title": "헤지스, 아티스트 크리트와 협업…'컬렉터블 아트피스' 출시",
+    "summary": [
+      "[서울=뉴시스]오제일 기자 = 생활문화기업 LF의 프리미엄 캐주얼 브랜드 헤지스(HAZZYS)가 클래식 패션을 예술과 컬렉터블(Collectible) 문화로 확장하는 새로운 브랜드 프로젝트를 선보인다고 28일 밝혔다.",
+      "헤지스는 3D 아티스트 크리트(CCREATT)와 협업한 '서울 시리즈(SEOUL Series)'를 명동 플래그십 스토어 '스페이스H 서울'에서 전시하고, 이를 소장용으로 재해석한 컬렉터블 아트피스를 내달 1일부터 한정 판매한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc562a519",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/stock/2026/07/28/2026072809153466634",
+    "title": "[속보] 코스피 이어 코스닥도 매도 방향 사이드카 발동",
+    "summary": [
+      "28일 코스닥 시장에서 매도 방향 사이드카가 발동됐다.",
+      "사이드카는 코스닥150 선물 지수가 6% 이상 하락, 1분 이상 지속돼 시장 안정을 위해 발동됐다.",
+      "올해 들어 코스닥 시장에서 사이드카가 발동된 것은 26번째, 매도 방향은 12번째다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n54e27fee",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260728/134376894/1",
+    "title": "비비 ‘무대 논란’ 후…말없이 공개한 워터밤 비하인드",
+    "summary": [
+      "가수 비비가 ‘워터밤 서울 2026’ 비하인드 사진을 공개했다.",
+      "비비는 27일 소셜미디어에 “#ice your summer”이라는 글과 함께 사진 여러 장을 올렸다.",
+      "사진 속 비비는 무대 뒤 공간에서 무대 의상을 입고 다양한 사진을 남겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n832cde3d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260728/134376884/1",
+    "title": "LPBA 조예은, ‘캄보디아 특급’ 스롱 꺾고 32강 진출 ‘이변’",
+    "summary": [
+      "여자프로당구(LPBA) 조예은이 ‘캄보디아 특급’ 스롱 피아비(우리금융캐피탈)를 꺾는 이변을 연출하고 32강에 안착했다.조예은은 27일 경기 고양시의 고양 킨텍스 PBA 스타디움에서 열린 스롱과의 프로당구 2026~2027시즌 3차 투어 ‘친환경 건축자재 에스와이 PBA-LPBA 챔피언십’ LPBA 64강에서 25-12(16이닝)로 이겼다.1이닝에 4점, 2이닝에 5점을 올리며 빠르게 치고 나간 조예은은 7이닝부터 3이닝 동안 7점을 기록해 1."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "neb0bfeab",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/28/2026072809177222418",
+    "title": "'유부녀 킬러' 공효진, 살인과 살림 사이 아슬아슬",
+    "summary": [
+      "하이라이트 영상 공개 '유부녀 킬러' 공효진이 가족에게 정체를 숨긴 채 다시 총을 든다.",
+      "MBC 새 금토 드라마 '유부녀 킬러' 측은 28일 킬러와 워킹맘 사이를 오가는 유보나(공효진)의 이중생활을 담은 하이라이트 영상을 공개했다.",
+      "영상은 짧은 형기를 마치고 세상으로 돌아오는 범죄자들과 여전히 고통 속에 살아가는 피해자들의 모습을 대비해 보여주며 시작한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ca65ba9",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/thebio/2026/07/28/2026072809024263337",
+    "title": "갤럭스, 박태용 부사장 신임대표 선임…석차옥·박태용 각자대표 체제로",
+    "summary": [
+      "내년 IPO 앞두고 성장 기반 강화 차원 조직개편 일환…기능별 C-level 책임 경영체계도 확립 인공지능(AI) 신약개발 기업 갤럭스가 박태용 부사장을 신임 대표이사로 선임하고, 석차옥·박태용 각자대표 체제로 전환한다.",
+      "갤럭스는 지난 24일 이사회를 열고 박태용 부사장을 신임 대표이사로 선임했다고 28일 밝혔다.",
+      "이번 각자대표 체제 전환은 장기적인 성장 기반을 강화하고, 내년 말 목표로 추진 중인 기업공개(IPO)를 보다 체계적으로 준비하기."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n2f5911f6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728011200005",
+    "title": "[세계유산위] 2천500명과 하나 된 장사익 \"아리랑, 한국인 DNA에 담겨\"",
+    "summary": [
+      "(부산=연합뉴스) 김예나 기자 = \"고(故) 박동진 명창께서 '우리 것은 소중한 것이여'라고 하셨죠.",
+      "한국의 유산은 우리가 아름답게 여기고 잘 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9cbe073f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728034000057",
+    "title": "울산교육청, 여름방학 유아 돌봄 기관 17곳으로 확대",
+    "summary": [
+      "(울산=연합뉴스) 김근주 기자 = 울산교육청은 유치원 여름방학 기간에도 방과후 과정과 돌봄을 지속 운영해 맞벌이 가정 등의 돌봄 공백을 최소화한..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n05b20840",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728028200030",
+    "title": "CJ대한통운-대신택배, 대형·비규격 상품 배송 협업",
+    "summary": [
+      "(서울=연합뉴스) 조민정 기자 = CJ대한통운은 대신정기화물자동차(대신택배)와 전략적 협력을 통해 대형·비규격 상품으로 배송 서비스 영역을 확대..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a279c10",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728034100062",
+    "title": "원주시·원주DB '원데이 농구교실' 성료… 선수단 재능기부",
+    "summary": [
+      "(원주=연합뉴스) 임보연 기자 = 강원 원주시는 원주DB프로미 프로농구단과 함께 추진한 '원주DB프로미와 함께하는 원데이 농구교실'을 성황리에 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9286fa3c",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/07/28/RZEI7FKMZBE2LHP2E3AI2GJJPM/",
+    "title": "한 달 새 정기예금 21조 늘었다…증시에서 예금으로 역(逆)머니무브 움직임",
+    "summary": [
+      "한 달 새 정기예금 21조 늘었다…증시에서 예금으로 역(逆)머니무브 움직임."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b69cddc",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260728/134376847/1",
+    "title": "[속보]코스피 급락에 매도 사이드카 발동",
+    "summary": [
+      "[속보]코스피, 미국발 찬바람에 급락 출발…5%대 하락."
     ],
     "chips": [
       "#뉴스"
@@ -644,20 +638,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "삼성전자",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
