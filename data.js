@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-28 09:51:10
+// 마지막 업데이트: 2026-07-28 10:48:21
 window.NEWS_DB = [
   {
     "id": "nb69089aa",
     "category": "IT",
     "source": "한겨레",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YnhuU2t6aVJaMmd5LXJmWlp4OE95OWRUeHhONlRkM3kzZzdsWG9HTzJhZDQ5WVZaRE9QVkxrak1GMk9nS0Q5M2I1SzE5S2Z2R3FyV2R2N2RySFhEOWhWVQ?oc=5",
     "title": "엔비디아 ‘순환거래’에 전세계 반도체주 ‘휘청’…AI 투자 리스크 재점화",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nc2d73c88",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwc1V4SnJRUDVSLVpuZWtVOFNudVBUeFlQUG1Ia0s3Q1dISlRDOXg1UTlpNTN2RnJRaGtPTmNXajF0azNjMHlsY1JHcU02bnloQVNqSFBqYTRvZVJHbXNocFZuSklIUVdWQTVvR1I4YWF1Mms?oc=5",
     "title": "엔비디아 '데이터센터 임대' 사업도 직접 나선다, 미국 텍사스에 최대 500억 달러 투자",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nd7688cb4",
     "category": "IT",
     "source": "투데이충남",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKd2VaaE5XZ0dpcDlqRVJXQUJpcmZWNFlCTHk2X0FHXzd4c0hhXy1QenJTcmRrdzFtMXBRcmh4ZG4zTmFpZ0F3WFN4OGZkZUU2UG5jMnJYd2E4X2dNeEt1RUxaS0F2OGcwaF9kTmtUTmdQUQ?oc=5",
     "title": "대전시, 제5기 D-유니콘 출범…유망 스타트업 6개사 집중 육성",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n26d285ac",
     "category": "IT",
     "source": "더에이아이",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzX1E0cjRrRGpNWW9mVlRtcFB6d0RKYUlhSndpVnNlSXhUZUNJSGVvRV9RR0pDLXhEY2NJVUM2NXFRQVU0d1VIaDBEQ0o2ZVZFUDFTTHdhYWFWVlV1ZTZxN1FMNDlSdmxvWlE?oc=5",
     "title": "HBM 두뇌가 된 베이스다이, 데이터량 폭증이 만든 새 ‘승부처’",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "nf5e9c278",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10TXpuTDlLeTFUVkkyZ2xEcUtTYTVGNGFWYkYwVHBFYjhlWlU1WTlkNHJVa0VtTUw2OVFZVmxuazFCRE4wd1hCVDRVZEtUMlNOTkRUaDZuUWg1Sm_SAWBBVV95cUxPS08xdzZ5bnZFQW1VcmNsdzdKQXROdEhRRnJfSDlFX0pGSDM3UDVjUUk2UU1DSWJaRm1CM21TLW1uZmNBaEpZeDdCZ21WeU5xZzJHZzZZWmRLM2J3Q05MeVM?oc=5",
     "title": "애플, 15개월 만에 세계 시총 1위 탈환…AI 투자의 '역설'(종합)",
     "summary": [
@@ -75,16 +75,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4caae55c",
+    "id": "n586a0cf7",
     "category": "IT",
-    "source": "녹색경제신문",
+    "source": "뉴스퀘스트",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zc3B3SEp4bllzMUtTbmN5bzNuY2tvd3FyRXdseXk3X0RKM3JvVVgyekk5a1pULXJLdHVURUZrQ2dNTVlYMElqTWduVHNJaDZOZ1pHNzlramNMRFNrU3FMVE9pUW94cWdf?oc=5",
-    "title": "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\"",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
+    "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
     "summary": [
-      "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\" 녹색경제신문."
+      "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주 뉴스퀘스트."
     ],
     "chips": [
+      "#AI",
       "#반도체",
       "#삼성전자"
     ]
@@ -255,21 +256,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n72b90564",
-    "category": "부동산",
-    "source": "v.daum.net",
-    "time": "63일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbmFhNWhCWXJIZjYyaXZQU0p3NUI0RE9HMnk1MkU0RU1LY1VNbXNWZ05RQ09VZWtoRGpldWtyZFBOcHdqanFpUVZZbGgzTE0?oc=5",
-    "title": "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구",
-    "summary": [
-      "20년 살았더니 쫓겨날 판…장기전세 수백 가구, ‘집값 폭락’ 경고하고 분양전환 요구 v.daum.net."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -299,17 +285,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n01f4c085",
+    "id": "ncbcb6c77",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "127일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
+    "source": "연합뉴스",
+    "time": "142일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnpqeGFqMS1JdGlvcmhrdDNQaDBYcWRSNlk2Vy1GWGpxT00waGs1Yy02dTlnMHpzcWdXdDFEa0RER0NlZnlzTkRnN0UtbUF6ZjVTRFZrRmw3NEnSAWBBVV95cUxNd09Lck93SlZhdlZLbmU2bjQydXNVS0pKQ3ZGMFJha1lqaGtDdzNrMHZheUN6MmF3MDZHeTB3dVdoa0lWdHRPTXZrNjI5LTY5eWctMG9YZi1MNUNzZGNqWTM?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 연합뉴스."
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "166일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
     ]
   },
   {
@@ -378,268 +379,257 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n92b0032a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/28/2026072817445930934",
-    "title": "\"바이에른 뮌헨이 김민재 영입한 이유는...\" 구단 이사가 직접 밝혔다",
-    "summary": [
-      "독일 명문 바이에른 뮌헨의 루벤 카스퍼 마케팅·세일즈 담당 이사가 한국과 깊은 인연과 팬덤 확장, 유소년 인재 양성에 대한 구단의 비전을 상세히 밝혔다.",
-      "특히 대한민국 간판 센터백 김민재(31)의 영입 배경과 그에 따른 파급 효과를 직접 설명하며 한국 시장에 대한 각별한 애정을 드러냈다.",
-      "카스퍼 이사는 28일 국내 취재진과 화상 인터뷰를 통해 오는 4일 오후 8시 제주월드컵경기장에서 열리는 제주SK와 친선경기를 앞두고 방한 소감과 마케팅 전략을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n93ca5445",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727072",
-    "title": "전남광주 도심서 덤프트럭에 깔린 40대 여성 심정지",
-    "summary": [
-      "[전남광주=뉴시스]이영주 기자 = 28일 오후 6시께 전남광주 북구 매곡동 한 공사현장 주변 도로에서 40대 여성 A씨가 덤프트럭에 깔렸다.",
-      "이 사고로 크게 다친 A씨가 심정지 상태로 이송돼 치료를 받고 있다.",
-      "당국은 정확한 사고 경위를 조사하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n564472a3",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260728/134382726/1",
-    "title": "대우건설, 3387억 강남원효성빌라 재건축 시공사 선정 취소",
-    "summary": [
-      "대우건설은 28일 공시를 통해 강남원효성빌라 재건축정비사업조합이 총회에서 자사에 대한 시공사 선정을 취소했다고 밝혔다.",
-      "공사금액은 약 3387억 원이다.강남원효성빌라 재건축사업은 서울 서초구 반포동 서래마을 일대에 지하 6층~지상 4층, 132가구 규모의 공동주택과 부대복리시설을 조성하는 사업이다.",
-      "대우건설은 지난해 6월 시공사로 선정됐다."
-    ],
-    "chips": [
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n7818d5cb",
+    "id": "nebef6eb3",
     "category": "경제",
     "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026072818411303606",
-    "title": "檢, 수백억대 사기 혐의 연예기획사 대표 차가원 영장 청구",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026072819474996882",
+    "title": "CJ제일제당, 전분당 사업부 분할 매각 추진…\"여러 옵션 검토 중\"",
     "summary": [
-      "검찰이 300억원대 사기 혐의를 받는 차가원 피아크그룹 회장 겸 연예기획사 원헌드레드 레이블 대표에 대해 구속영장을 청구했다.",
-      "28일 법조계에 따르면 서울중앙지검은 이날 차 대표에 대해 특정경제범죄 가중처벌법상 사기 등 혐의로 구속영장을 청구했다.",
-      "이번 구속영장 청구는 서울경찰청 광역수사단 금융범죄수사대가 지난 22일 세 번째 구속영장을 신청한 데 따른 것이다."
+      "CJ제일제당이 전분당 사업 부문 매각을 추진한다.",
+      "28일 관련 업계에 따르면 CJ제일제당은 주요 재무적 투자자(FI)를 상대로 전분당 사업부 분할 매각을 위한 가능성을 타진하고 있다.",
+      "전분당은 옥수수 전분을 주원료로 물엿, 포도당, 과당 등을 생산하는 사업으로 음료 등 가공식품에 당류로 쓰인다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nebfcf488",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026072818444011451",
-    "title": "[속보] \"규슈강진에 최소 50명 병원 이송…대형쇼핑몰서 폭발음\"",
-    "summary": [
-      "[속보] \"규슈강진에 최소 50명 병원 이송…대형쇼핑몰서 폭발음\"."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n49f66a07",
+    "id": "n182584ea",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727070",
-    "title": "미군 오산공군기지 '백린 누출' 조치 완료…대피령 해제(종합2보)",
-    "summary": [
-      "[평택=뉴시스] 양효원 기자 = 28일 오후 5시2분께 경기 평택시 서탄면 주한미군 오산공군기지(K-55)에서 백린 누출 사고가 났다.",
-      "\"탄두에서 화학물질 누출이 의심된다\"는 관계자 신고를 접수한 경기소방은 시에 해당 내용을 통보한 뒤 미군 EOD(폭발물 처리반)와 현장 통제 및 해독 작업에 나서 오후 6시36분 작업을 완료했다.",
-      "투입한 소방력은 장비 14대와 소방관 38명 등이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd0cb765d",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260728/134382677/1",
-    "title": "‘오픈웨이트 서한’으로 글로벌 AI 판도 격변··· 독파모는 방파제가 되어줄까",
-    "summary": [
-      "지난 7월 16일, 중국의 AI 스타트업 문샷 AI가 초거대 AI 모델 ‘키미 K3(Kimi K3)’를 전격 공개했다.",
-      "키미 3은 2조 8000억 개의 초대형 매개변수로 구성된 전문가 혼합(MoE) 구조의 모델로 오픈AI나 앤트로픽 등이 독점적이고 자체 서버에서 유료로 서비스를 제공하는 것과 달리 모델 가중치를 완전히 공개하고 누구나 자체 서버로 다운로드해서 사용할 수 있도록 해 투명성과 활용도를 높였다.",
-      "성능 측면에서도 클로드 오퍼스 5 및."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n0b954450",
-    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728162000061",
-    "title": "[인사] 경기 화성시",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728166800054",
+    "title": "민형배 전남광주시장 \"친환경 농축수산물 인증사업 활성화 필요\"",
     "summary": [
-      "[인사] 경기 화성시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf85bd2da",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/28/2026072810560966913",
-    "title": "中 에어컨·냉방테마 ETF 돈 몰린다…폭염이 바꾼 투자 지도",
-    "summary": [
-      "[MT리포트-폭염시대 기후청구서]④냉각 테마 ETF도 관심 유럽 등 전 세계를 덮친 폭염이 글로벌 소비와 투자 흐름까지 바꾸고 있다.",
-      "이에 관련 개별 종목은 물론, 냉방과 전력망 인프라를 테마로 한 ETF(상장지수펀드)도 관심을 모으고 있다.",
-      "28일 중국 관영지 글로벌타임스(GT) 등을 종합하면 유럽에서 중국산 에어컨은 물론 아이스크림·슬러시 기계와 반려동물용 냉방 제품까지 관련 소비자 제품 수요가 급증하고 있다."
+      "(전남광주=연합뉴스) 정다움 기자 = 민형배 전남광주통합특별시장은 28일 국무회의에 참석해 \"항생제 사용을 줄이고 안전한 농·축·수산물임을 알릴..."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "n1580804d",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/future/2026/07/28/2026072817022732821",
-    "title": "AI가 부정행위도 잡는다…그렙, 혁신 프리미어 1000 선정",
-    "summary": [
-      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] AI(인공지능) 기반 에듀테크 기업 그렙이 중소벤처기업부 등 14개 부처가 공동 운영하는 '2026년도 제2차 혁신 프리미어 1000' 기업에 선정됐다고 28일 밝혔다.",
-      "혁신 프리미어 1000은 혁신성과 성장 잠재력을 갖춘 중소·중견기업을 선정해 정책금융기관의 금융·비금융 지원을 연계하는 국가 프로그램이다."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업",
-      "#정책"
-    ]
-  },
-  {
-    "id": "na3c8d3bb",
+    "id": "nd0ba0f00",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728161600083",
-    "title": "[일지] 1995년 한신 대지진 이후 일본 주요 강진",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728033351371",
+    "title": "서경덕 \"슈퍼드라이 티셔츠 건곤감리 오류\"…업체 \"이미 판매중단\"(종합)",
     "summary": [
-      "(도쿄·베이징=연합뉴스) 조성미 정성조 특파원 = 28일 오후 4시 27분께 일본 규슈 서부 구마모토현 우키시 인근에서 규모 7.1(일본 기상청..."
+      "(서울=연합뉴스) 정아란 기자 = 글로벌 패션브랜드 슈퍼드라이가 판매했던 티셔츠에 태극기 '건곤감리' 문양을 잘못 사용한 사실이 알려져 논란이 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1e9a726a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003727064",
-    "title": "검찰 \"장윤기 사건 송치보고서에 보완수사 요청 없었다\"",
+    "id": "nd3e7593f",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728166700054",
+    "title": "전남광주 매곡동서 후진하던 덤프트럭에 깔린 보행자 숨져",
     "summary": [
-      "[전남광주=뉴시스]박기웅 기자 = 검찰은 '장윤기 사건'을 수사한 경찰이 송치 당시 제출한 추가 수사보고서에는 강간 등 살인 혐의 검토 경위가 담겼지만 보완수사를 요청하는 취지의 내용은 없었다고 밝혔다.",
-      "28일 광주지검에 따르면 광주 광산경찰서가 지난 5월14일 사건을 송치하면서 첨부한 A4용지 2쪽 분량의 추가 수사보고서에는 장윤기의 범행 동기가 성범죄일 가능성을 검토한 내용이 담겼다.",
-      "보고서에는 훼손된 리얼돌과 공기계에서 발견된 불법촬영물,."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2d777032",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260728_0003726852",
-    "title": "중동전쟁에 유럽 관광객 발길 '뚝'…동남아 관광지 직격탄",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 중동 전쟁으로 항공료가 급등하고 주요 환승 공항의 운항 차질이 이어지면서 유럽 관광객 의존도가 높은 동남아 관광지들이 어려움을 겪었다.",
-      "미국 일간 뉴욕타임스(NYT)는 28일(현지시간) 미국과 이스라엘이 지난 2월 말 이란을 공격한 이후 일부 항공 노선의 운임이 두 배까지 올랐다고 보도했다.",
-      "유럽과 아시아를 연결하는 두바이와 도하 공항의 항공편도 반복적으로 변경됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e668819",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026072818423707958",
-    "title": "파이온엑스, 비핵심 자산 매각해 유동성 확보…과천 부동산 취득 추진",
-    "summary": [
-      "코스닥 상장사 파이온엑스(900100)는 사업과 직접적인 연관성이 낮은 비핵심 자산과 해외 부동산을 순차적으로 매각해 현금 유동성을 확보하고, 이를 성장성과 자산가치가 높은 국내 부동산 투자에 활용하는 자산 재편 전략을 추진하고 있다고 28일 밝혔다.",
-      "회사는 이번 자산 매각으로 마련한 재원을 재무구조 개선과 신규 사업 기반 확보, 실물자산 확대에 집중적으로 활용할 예정이다.",
-      "특히 수도권 핵심 입지로 평가받는 경기도."
+      "(전남광주=연합뉴스) 정다움 기자 = 28일 오후 6시께 전남광주 북구 매곡동 한 아파트 신축공사 현장 인근 도로에서 후진하던 덤프트럭에 보행자..."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "na441a77a",
+    "id": "n31c9727f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260728166400504",
+    "title": "주한미군, 오산기지 백린 누출에 \"비상대응팀 상황 수습 중\"",
+    "summary": [
+      "(서울=연합뉴스) 김철선 기자 = 주한미군은 28일 오산공군기지에서 발생한 백린 누출 사고와 관련해 비상대응팀을 소집해 상황 수습에 최선을 다하..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n34ecdcee",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/28/GI4WKOBZGZTDSYZYMRRDKNBXGI/",
+    "title": "로아주는 복귀했는데…김하성은 과연? 일단 전망은 나쁘지 않다, 하지만...",
+    "summary": [
+      "[스포츠조선 박상경 기자] 일단 전망은 나쁘지 않다.",
+      "애틀랜타 브레이브스가 부상자 명단(IL)에 있던 로날드 아쿠냐 주니어를 복귀시켰다.",
+      "왼쪽 햄스트링(허벅지 뒷근육) 부상으로 6월 11일 IL에 등재된 아쿠냐는 지난 13일 김하성과 함께 루키리그팀인 FCL 브레이브스에서 재활 경기를 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n675e292c",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260728/134382639/1",
+    "title": "정부, 대미투자 1호로 텍사스 가스복합화력발전소 건설 유력검토",
+    "summary": [
+      "한미 무역합의에 따른 ‘대미 투자 1호 프로젝트’로 미국 텍사스주 엔시날에 대규모 가스복합화력발전소를 건설하는 사업이 유력하게 부상했다.",
+      "총 2000억 달러 규모의 전략적 대미 투자가 에너지 사업을 시작으로 첫발을 떼는 셈이다.28일 정부와 관련 업계에 따르면 산업통상부는 텍사스 가스복합화력발전 사업을 대미 투자 1호 후보로 좁히고 미국 상무부와 막바지 협의를 진행하고 있다.",
+      "김정관 산업부 장관은 22∼25일(현지 시간) 미국 워싱턴을 방문해."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n57bd36e2",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026072819400183844",
+    "title": "\"집 조명 심하게 흔들려\"…中 언론 \"日 규슈 강진, 상하이서도 감지\"",
+    "summary": [
+      "일본 규슈 구마모토현에서 발생한 규모 7.1 강진 여파로 인해 진앙에서 약 900㎞ 떨어진 상하이 등 중국 동부 지역에서도 흔들림이 감지된 것으로 확인됐다.",
+      "28일 중국신문망 등 중국 다수 언론사에 따르면 지진 발생 직후 저장성, 상하이, 장쑤성 등에 거주하는 중국 누리꾼들은 사회관계망서비스(SNS)에 \"집 조명이 심하게 흔들렸다\", \"사무실에 앉아 있는데 흔들림이 느껴졌다\"는 등의 글을 잇달아 올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7648be5a",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026072819391279803",
+    "title": "평택 K-55미군기지 백린 누출…주민 '긴급 대피' 명령",
+    "summary": [
+      "경기 평택 K-55 미군기지 내부에서 유독성 화학물질인 백린(白燐)이 누출돼 시가 긴급 대피령을 내렸다.",
+      "28일 소방과 경찰 등에 따르면 이날 오후 4시 54분쯤 평택시 서탄면 미군부대 오산공군기지(K-55)에서 백린이 누출됐다.",
+      "백린은 공산소와 만나 하얀 연기를 생성하기 때문에 군에서 이동시 연막으로 사용된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n64beb246",
     "category": "사회",
     "source": "조선일보",
     "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/28/GU4TINRXHFSWCYRWMVTDMMRUGI/",
-    "title": "장도연 최초로 울었다...리센느 원이x미나미 답변에 '눈물' 흘린 이유는 ('살롱드립2')",
+    "url": "https://www.chosun.com/national/court_law/2026/07/28/FPHNRPPVBVHD7FT5L3B5IDM3XY/",
+    "title": "특검 ‘계엄 가담’ 김현태 전 707단장 징역 18년 구형",
     "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] ‘그룹 리센느(RESCENE)의 진심 어린 고백에 방송인 장도연이 결국 눈물을 보였다.28일 공개된 유튜브 채널 '살롱드립2'에는 '원이짱 미나미짱 상담하러 교무실로 오이데-★ | EP.150 리센느 원이·미나미'라는 제목의 영상이 게재됐다.이날 리센느는 데뷔 초 쉽지 않았던 활동기를 솔직하."
+      "특검 ‘계엄 가담’ 김현태 전 707단장 징역 18년 구형."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n38218e64",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/28/GM3DIYRRG5RDSMZSGJRTQZLFMM/",
-    "title": "‘왜 바꾼거야?’ 물음표→느낌표 되나! 1위 마운드 4안타 폭격, 두산 새 외인 자신감 붙었다 “오늘 기분 좋아요” [오!쎈 인천]",
-    "summary": [
-      "[OSEN=인천, 이후광 기자] 두산 새 외국인타자가 물음표를 느낌표를 바꾸는 걸까.프로야구 두산 베어스 김원형 감독은 28일 인천SSG랜더스필드에서 열리는 2026 신한 SOL KBO리그 SSG 랜더스와의 시즌 10차전에 앞서 취재진과 만나 새 외국인타자 유니오 세베리노를 향한 기분 좋은 예감을 전했다.",
-      "세베리노는 지난 2일 총액 20만 달러(약 3억 원."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd8996753",
+    "id": "n7ea9b9cd",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/living/2026/07/28/2026072818105166968",
-    "title": "CJ제일제당, 전분당 사업 매각 추진…\"여러 가능성 검토 중\"",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026072819291666814",
+    "title": "[속보] \"구마모토 대형쇼핑몰 일부 붕괴, 내부에 다수 갇힌듯\"",
     "summary": [
-      "CJ제일제당이 전분당 사업부문 매각을 검토한다.",
-      "성장성과 수익성이 낮은 사업 부문을 과감히 정리하겠다는 차원으로 풀이된다.",
-      "28일 업계에 따르면 CJ제일제당은 핵심소재 사업부문 내에 있는 전분당 사업 매각을 위한 작업을 진행 중이다."
+      "[속보] \"구마모토 대형쇼핑몰 일부 붕괴, 내부에 다수 갇힌듯\"."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nb9efd091",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "16분 전",
+    "url": "https://www.hankyung.com/article/202607281188i",
+    "title": "AI순환금융우려에 中반도체쇼크…글로벌 반도체주 '최악의 날'",
+    "summary": [
+      "AI순환금융우려에 中반도체쇼크…글로벌 반도체주 '최악의 날'."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n6928ffcc",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727090",
+    "title": "안양시, 운전석 없는 자율주행셔틀 만안구까지 확대",
+    "summary": [
+      "[안양=뉴시스] 박석희 기자 = 경기 안양시가 운전석 없는 자율주행셔틀 '주야로 레벨4(Lv4)'의 운행 범위를 동안구에서 만안구까지 확대한다.",
+      "시는 다음달 부터 관악역–안양예술공원–안양수목원을 연결하는 순환 노선을 새로 운영할 계획이다.",
+      "관광지와 생활 거점을 잇는 이 노선은 시민 이동 편의와 지역 관광 활성화를 동시에 겨냥한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n45d710da",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260728/134383085/2",
+    "title": "[속보]日구마모토 강진에 대형쇼핑몰 일부 붕괴…다수 갇힌 듯",
+    "summary": [
+      "일본 규슈 구마모토현에서 발생한 규모 7.1 강진으로 대형 복합 쇼핑몰 일부가 붕괴돼 다수의 사람이 건물 안에 갇힌 것으로 전해졌다.28일 야후재팬 등 현지 매체에 따르면 일본 총무성 소방청은 구마모토현 가시마마치의 상업시설 ‘이온몰 구마모토’에서 2층 일부가 붕괴했다고 밝혔다.",
+      "현재 건물 내부에 다수의 사람이 갇혀 있어 소방당국이 구조 작업을 서두르고 있다.당시 약 1.5km 떨어진 가시마마치 시청에 있던 직원은 “쿵” 하는 큰 소리가 들렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c0ff4e9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727092",
+    "title": "전진숙 \"국회도서관 광주분원 건립 환영\"…중외공원 제안",
+    "summary": [
+      "[전남광주=뉴시스]송창헌 기자 = 더불어민주당 전진숙 국회의원이 28일 조정식 국회의장이 취임 후 첫 기자간담회에서 국회도서관 광주분원 건립을 약속한 데 대해 적극 환영하며, 북구 국립광주박물관 옆 중외공원 일원을 최적지로 제안했다 .",
+      "조 의장은 이날 후반기 국회 비전과 과제를 발표하며 국회 세종의사당 건립과 행정수도 특별법 연내 통과와 함께 국회도서관 광주분원 건립을 약속했다.",
+      "전 의원은 \"국회도서관 광주분원 건립을 정말 환영한다\"며 \"수도권."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n59c01a2e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003727087",
+    "title": "주일中대사관 흉기 난입 자위대 장교 기소에…中, 진상규명 촉구(종합)",
+    "summary": [
+      "[서울·베이징=뉴시스]문예성 기자, 박정규 특파원 = 일본 검찰이 지난 3월 주일 중국대사관에 흉기를 들고 침입한 일본 육상자위대 현역 장교를 기소한 가운데 중국이 일본 정부에 철저한 진상 규명과 재발 방지 대책 마련을 촉구했다.",
+      "주일 중국대사관은 27일 성명을 통해 \"지난 3월 24일 일본 자위대 현역 장교가 흉기를 소지한 채 중국대사관에 무단 침입해 중국 측을 폭력적으로 위협했다\"면서 \"이는 '외교관계에 관한 빈 협약'을 심각하게 위반한 것."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncca906a5",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/economy/2026/07/28/BMUDN4WI4NBHBPOSNBPGZYTAKE/",
+    "title": "코스피 10.8% 폭락... “AI투자 사이클 의구심 커져”",
+    "summary": [
+      "코스피 10.8% 폭락... “AI투자 사이클 의구심 커져”."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -649,18 +639,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "스타트업",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
