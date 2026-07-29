@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-29 19:28:51
+// 마지막 업데이트: 2026-07-29 20:20:10
 window.NEWS_DB = [
   {
     "id": "n7f676ee9",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1emtHOE9od2tsSUJFSnlfbm85VDZQLUNPTWtadHl4X3VMZnVRUU8ydXM1UUhSSmFwYkRJM1BPWkFkbVFlZmhaczlBREpjSVoyVmItX0pLZkUyb0xBaEp4LXpuZklVdGNPQVpjT1Y2UkNCc0FfdXdN?oc=5",
     "title": "엔비디아, AI로 반도체 설계까지 가속…자체 AI칩 개발 장벽도 낮춘다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n319886b4",
     "category": "IT",
     "source": "더스쿠프",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n56609ab4",
     "category": "IT",
     "source": "스타트업엔(StartupN)",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "nadcbed93",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
@@ -61,21 +61,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#수출"
-    ]
-  },
-  {
-    "id": "n94aa4795",
-    "category": "IT",
-    "source": "서울Pn",
-    "time": "21시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
-    "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
-    "summary": [
-      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
     ]
   },
   {
@@ -139,6 +124,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb70458fd",
+    "category": "IT",
+    "source": "beSUCCESS",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqVDZDV2FJUFRlZmJhMG44ZTBYa1M0LTZCUkEzbG1hRFFmR2xCU0J5YWJsVE14eXdGcWlMVWtHVU5QbDZteWc?oc=5",
+    "title": "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최",
+    "summary": [
+      "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최 beSUCCESS."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
     "id": "n04a5a105",
     "category": "경제",
     "source": "자유일보",
@@ -173,12 +173,12 @@ window.NEWS_DB = [
   {
     "id": "n6b58f8f3",
     "category": "사회",
-    "source": "아주경제",
+    "source": "ajunews.com",
     "time": "30일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
     ],
     "chips": [
       "#채용",
@@ -203,12 +203,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "49일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -335,168 +335,245 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naa389b37",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003728936",
-    "title": "워시 美연준 의장 \"물가 목표치 오직 2%…흔들림 없다\"",
+    "id": "n55ec8076",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/30/2LCMAYKNSJGRFCUYIWOSCVMCXQ/",
+    "title": "라면에 넣어 끓이니 기가 막혀, 동해에서 홍게 잡는 즉시 살만 발라내 산지 직송",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 연방준비제도(Fed·연준)가 기준금리를 5회 연속 동결한 29일(현지 시간) 케빈 워시 의장은 물가상승률 2%를 달성하기 위해 전념하겠다는 의지를 거듭 강조했다.",
-      "워시 의장은 이날 연방공개시장위원회(FOMC) 기자회견에서 \"지난 5년간의 높은 인플레이션은 일부 가계, 기업 및 시장 전문가들에게 연준의 암묵적 인플레이션 목표치가 2%를 약간 상회한다는 떨쳐내기 힘든 잘못된 인상을 남겼다\"며 \"다시 한 번."
+      "라면에 넣어 끓이니 기가 막혀, 동해에서 홍게 잡는 즉시 살만 발라내 산지 직송."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n912f7b0d",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730012200091",
+    "title": "메타, 분기 매출 87.8조원…주당이익, 시장기대치 하회",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 페이스북·인스타그램 운영사 메타는 2분기 매출이 608억 달러(약 87조8천억원)로 집계됐다고 29일..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n12072737",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730012300072",
+    "title": "뉴욕증시, 연준 금리동결속 채권금리 상승에 하락…다우 2%↓",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미 연방준비제도(Fed·연준)가 기준금리를 동결한 뒤 인플레이션 위험 우려 속에 미국 장기채 금리가 급등하면..."
     ],
     "chips": [
       "#금리"
     ]
   },
   {
-    "id": "nf903f48b",
+    "id": "n7caef8d0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003728927",
+    "title": "추격하는 순찰차 들이받고 도주하던 40대 경찰에 검거",
+    "summary": [
+      "[진주=뉴시스] 정경규 기자 = 경남 진주에서 대낮에 40대 남성이 승용차를 몰고 달아나다 가로 막히자 순찰차를 들이받고 경찰에 검거됐다.",
+      "진주경찰서에 따르면 29일 오후3시께 진주의 한 사찰에서 40대 A씨가 사찰 관계자와 다툼이 벌어졌다는 신고가 접수됐다.이에 경찰은 신고를 받고 현장에 출동해 승용차를 몰고 달아나던 A씨를 추격하기 시작했다.",
+      "A씨는 경찰의 정지신호에도 무시하고 인근 산청군으로 도망갔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63ab2de3",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003728951",
+    "title": "[속보] 미국채 30년물 금리 장중 5.244%…2007년 이후 최고",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 ironn108@newsis.com."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n8b0bcd3f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003728944",
+    "title": "[오늘의 주요일정]강원(7월30일 목요일)",
+    "summary": [
+      "[강원=뉴시스] ▲오전 10시30분, 속초시 보훈회관 BF인증 현판식, 속초시보훈회관 ▲오전 11시, 제4회 철원군장애인연합회 어울림 게이트볼대회(동송게이트볼장) ▲오전 11시, 소양강댐사업 어린이 체험형 홍보관 조성 업무협약식, 양구군청 중회의실 ▲오후 1시30분, 태백 장성성당 강원특별자치도 등록문화유산 지정 학술대회, 시청 대회의실 ▲오후 2시, 타운홀 미팅-포남1동, 강릉시 포남1동 주민센터 ▲오후 2시, 민선9기 시민 소통·공감 간담회."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c8d96e6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728918",
+    "title": "[오늘의 주요일정]울산(7월30일 목요일)",
+    "summary": [
+      "[울산=뉴시스] ▲오전 9시30분, 주한 중국 대사 방문, 시청 접견실 ▲오전 10시, 중국 투자기업 간담회, 시청 2층 대회의실 ▲오전 11시, 주한 중국 대사 관광지 시찰, 십리대숲·태화루 등 ▲오후 2시, 통합방위실무위원회, 통합방위종합상황실."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n53be4662",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/30/233JUYZRWNFSJMNY3WABYDFOOU/",
+    "title": "82만봉 팔렸다, ‘옥주부’ 정종철 돈가스 1개 3800원 단독 특가",
+    "summary": [
+      "82만봉 팔렸다, ‘옥주부’ 정종철 돈가스 1개 3800원 단독 특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a6d8de8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/30/MU3TENTBMFRDAMTDGBSDGOLEMY/",
+    "title": "‘157km’ 미국 도전한 유망주, 1년 만에 또 방출…최악의 제구력, KBO로 돌아와야 하나",
+    "summary": [
+      "[OSEN=한용섭 기자] 1년 만에 또 방출이다.",
+      "미국 무대에 도전한 투수 심준석(22)이 뉴욕 메츠 산하 루키리그 FCL 메츠에서 방출됐다.",
+      "FCL 메츠는 29일(이하 한국시간) 심준석을 방출했다고 밝혔다.심준석은 지난 24일 루키리그 FCL 카디널스와 경기에서 구원 등판해 ⅔이닝 1피안타 3볼넷 1탈삼진 1피홈런 4실점을 기록했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8c7cbbf9",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730009500072",
-    "title": "국제유가, 중동 충돌 재개에 8% 급등…브렌트 종가 90달러대",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730011751072",
+    "title": "미국채 30년물 금리 5.2%대로 급등…2007년 이후 최고(종합)",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란이 지난 주말 이후 잠시 중단됐던 무력 공방을 재개하면서 국제 유가가 29일(현지시간) 8% 가까..."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 연방준비제도(Fed·연준)가 29일(현지시간) 기준금리를 현 3.50∼3.75%로 동결 결정한 이후 미..."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n825b58d5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/30/7TEZETFO5FHAHJOHMGVXOFXZJ4/",
+    "title": "아직도 ‘코로나 청문회’하는 美 의회…트럼프 집권 후반기 예고편?",
+    "summary": [
+      "아직도 ‘코로나 청문회’하는 美 의회…트럼프 집권 후반기 예고편?."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n805cec04",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003728942",
-    "title": "이 대통령 \"한-칠레 FTA 현실 반영해 진화해야…광물자원 파트너십 MOU\"",
-    "summary": [
-      "[산티아고=뉴시스] 김지은 기자 = 남미를 순방 중인 이재명 대통령이 29일(현지시간) 호세 안토니오 카스트 칠레 대통령과의 정상회담 의제와 관련해 \"한-칠레 간 자유무역협정(FTA)이 새로운 현실을 반영하도록 진화해야 한다\"고 밝혔다.",
-      "이 대통령은 한-칠레 정상회담을 앞두고 이날 공개된 에페(EFE) 통신과 서면 인터뷰에서 \"오늘날 경제는 디지털 무역, 인공지능(AI), 청정기술, 회복력 있는 공급망, 탄소 중립 전환을 중심으로 재편되고 있다."
-    ],
-    "chips": [
-      "#AI",
-      "#수출",
-      "#정치",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n6af9cce2",
+    "id": "nac6b3fc2",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003728941",
-    "title": "트럼프 '이란 두들겨 팰 것' 발언에 브렌트유 90달러 재돌파(종합)",
+    "source": "연합뉴스(경제)",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730003852071",
+    "title": "美금리 3.50∼3.75% 5연속 동결…연준 의장 \"인플레 2% 목표\"(종합2보)",
     "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미국과 이란간 긴장이 고조되면서 29일(현지시간) 국제 유가가 급등했다.",
-      "CNBC에 따르면 이날 오후 2시54분 기준 9월 인도분 브렌트유 선물은 ICE선물거래소에서 전장 대비 6.50달러(7.73%) 상승한 배럴당 90.59달러에 거래됐다.",
-      "9월 인도분 미국 서부텍사스산원유(WTI) 선물은 뉴욕상품거래소에서 전장 대비 5.37달러(6.78%) 오른 배럴당 84.63달러에 거래됐다."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)는 29일(현지시간) 기준금리를 3.50∼3.75%로 동결했다."
     ],
     "chips": [
-      "#뉴스"
+      "#금리"
     ]
   },
   {
-    "id": "n4076a87a",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730009100072",
-    "title": "워시 \"완화된 인플레이션 목표 없어…오직 2% 목표만 존재\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장은 29일(현지시간) \"완화된(soft) 인플레이션 목표는 없..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n96b4cb2e",
+    "id": "n4cf388c1",
     "category": "경제",
     "source": "연합뉴스(경제)",
     "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730007200072",
-    "title": "美연준 '깜짝 금리인상' 없었지만 '매파적 동결'…인상의견 3명",
+    "url": "https://www.yna.co.kr/view/AKR20260730010800072",
+    "title": "국제금값, 美연준 금리동결에 '안도'…금리 결정후 1%↑",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미 연방준비제도(Fed·연준)가 29일(현지시간) 기준금리를 연 3.50∼3.75%로 유지했지만, 연준 내부..."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 연방준비제도(Fed·연준)가 29일(현지시간) 기준금리를 동결하면서 국제 금값이 상승했다."
     ],
     "chips": [
       "#금리"
     ]
   },
   {
-    "id": "nae6011b2",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728565",
-    "title": "젠슨 황 \"AI, 일자리 뺏지 않아…업무를 자동화할 뿐\"",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 인공지능(AI)은 인간의 일자리를 없애는 것이 아니라 업무 일부를 자동화할 뿐이라고 주장했다.",
-      "29일(현지시간) 미국 경제매체 포춘에 따르면 황 CEO는 최근 미국 실리콘밸리 스타트업 행사에서 \"많은 업무는 AI로 자동화되겠지만, 모든 직업은 형태만 바뀔 뿐 새로운 일자리도 함께 생겨날 것\"이라고 말했다.",
-      "이어 \"AI가 일자리를 파괴한다는 이야기는 완전히 거꾸로 된 해석\"이라."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#스타트업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n552cdf9a",
+    "id": "n4b27dc19",
     "category": "경제",
     "source": "한국경제",
-    "time": "34분 전",
-    "url": "https://www.hankyung.com/article/202607304320i",
-    "title": "트럼프 '금리 인하' 압박에도…워시는 \"인플레 지속\" 강조 [Fed워치]",
+    "time": "21분 전",
+    "url": "https://www.hankyung.com/article/202607304326i",
+    "title": "\"오늘 뉴스가 뭐냐\"…날선 기자들 질문에 진땀 흘린 워시 의장 [Fed워치]",
     "summary": [
-      "트럼프 '금리 인하' 압박에도…워시는 \"인플레 지속\" 강조 [Fed워치]."
+      "\"오늘 뉴스가 뭐냐\"…날선 기자들 질문에 진땀 흘린 워시 의장 [Fed워치]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8fa4cb4c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/202607304333i",
+    "title": "워시, 매파 발언에도 정책은 비둘기…금리 동결에도 국채금리 급등 [박신영의 개장전 요것만]",
+    "summary": [
+      "워시, 매파 발언에도 정책은 비둘기…금리 동결에도 국채금리 급등 [박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n9423c2e2",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/202607304330i",
+    "title": "[질의응답] 워시 \"목표는 오직 2% 인플레 달성…시장 금리 상승이 긴축 효과\"[Fed워치]",
+    "summary": [
+      "[질의응답] 워시 \"목표는 오직 2% 인플레 달성…시장 금리 상승이 긴축 효과\"[Fed워치]."
     ],
     "chips": [
       "#금리"
     ]
   },
   {
-    "id": "ndf94c0c1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730008300072",
-    "title": "[속보] 연준 워시 \"동료들 간 많은 상호작용…진짜 집안싸움이었다\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb7b1ddd9",
-    "category": "사회",
+    "id": "n37400627",
+    "category": "경제",
     "source": "동아일보",
-    "time": "39분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260730/134391936/1",
-    "title": "이집트서 美 소유 LNG 저장설비 드론 공격설…이집트는 부인",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260730/134391947/1",
+    "title": "李 “한-칠레 FTA 진화해야”…오늘 정상회담서 핵심광물 공급망 논의",
     "summary": [
-      "미국 소유 가스 운반선이 이집트 다미에타항에서 드론의 공격을 받았다고 해상 보안업체 엠브레이가 밝혔다.",
-      "다만 이집트 당국은 드론 공격을 받았다는 주장을 부인했다.29일(현지시간) 아랍뉴스 등에 따르면 엠브레이는 초기 사고 평가에서 미국 소유 마셸제도 선적 ‘부유식 액화천연가스(LNG) 저장 시설’이 최소 1대의 드론 공격을 받았다고 보고했다.",
-      "이 사건에 대해 배후를 자처한 세력은 현재 없다고도 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f82f46c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "40분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260730/134391933/1",
-    "title": "李대통령, ‘韓 FTA 1호’ 칠레 공식방문…핵심광물·공급망 남미 확장",
-    "summary": [
-      "이재명 대통령은 29일(현지시간) 브라질에 이은 두 번째 남미 순방국 칠레에 도착했다.",
-      "칠레 신(新)정부 지도부와 조기 신뢰를 구축하고, 자유무역협정(FTA) 현대화를 통한 무역·교역 활성화에 집중할 전망이다.브라질 국빈 방문 일정을 마무리하고 상파울루를 출발한 이 대통령은 이날 오후 칠레 산티아고 아르투로 메리노 베니테스 공항에 도착했다.",
-      "이 대통령은 만찬 동포간담회를 시작으로 1박2일 칠레 공식방문에 돌입한다.이 대통령은 오는 30일 칠레."
+      "칠레를 공식방문한 이재명 대통령이 29일 “한-칠레 자유무역협정(FTA)은 새로운 현실을 반영하도록 진화해야 한다”고 밝혔다.",
+      "이 대통령은 29일(현지시간) 칠레 수도 산티아고에 도착해 30일 호세 안토니오 카스트 대통령과 정상회담을 갖는다.",
+      "한-칠레 정상회담을 계기로 양국이 광물 자원 파트너십 양해각서(MOU)를 체결할 것으로 보인다.이 대통령은 한-칠레 정상회담을 앞두고 이날 공개된 에페(EFE) 통신과 서면 인터뷰에서 “오늘날 경제는 디지."
     ],
     "chips": [
       "#수출",
@@ -504,130 +581,46 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n98a19c37",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "48분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/30/GI3TGOJTGRRTEZJSHFRDGNBXMU/",
-    "title": "'1선발급 아쿼 맞네' 한화 대만 복덩이, 류현진보다 먼저 9승 달성…다승 공동 선두 등극했다",
+    "id": "ncb142d68",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "47분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260730/134391941/1",
+    "title": "李, 日구마모토 강진 애도…“韓도 연대의 마음으로 함께”",
     "summary": [
-      "[OSEN=대전, 조은혜 기자] 프로야구 한화 이글스 왕옌청이 KBO리그 데뷔 후 처음으로 2경기 연속 7이닝을 소화, 시즌 9승을 달성했다.왕옌청은 29일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 롯데 자이언츠와의 홈경기에서 선발투수로 등판해 7이닝 7피안타(1피홈런) 1볼넷 2탈삼진 2실점으로 호투했다."
+      "이재명 대통령이 29일 일본 구마모토현 강진에 대해 “많은 인명과 재산 피해가 발생했다는 소식에 안타까움을 금할 수 없다”며 “이번 지진으로 희생되신 분들의 명복을 빌며, 유가족 여러분께 깊은 애도를 표한다”고 밝혔다.이 대통령은 이날 오후 자신의 엑스(X·구 트위터)를 통해 “갑작스러운 재난으로 삶의 터전을 잃고 어려움을 겪고 계신 주민들께도 위로의 마음을 전한다”며 이같이 말했다.이어 “부상자들께서 하루빨리 회복하시고, 실종되신 분들 모두가."
     ],
     "chips": [
-      "#KBO"
+      "#정치"
     ]
   },
   {
-    "id": "ndd4fe2b5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "53분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/30/ME3GCOJSGQZWGYTEGE3WMMDGGM/",
-    "title": "눈에는 눈, 이에는 이! \"피해자 회복 전까지 가해자도 출전 금지\"...브라질 축구, '살인 태클'에 이례적 징계 화제",
+    "id": "n4427706f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "50분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260730/134391172/2",
+    "title": "나를 잊은 세상을 향해 몸을 던져라",
     "summary": [
-      "[OSEN=고성환 기자] 브라질 리그에서 좀처럼 찾아보기 힘든 징계가 나왔다.",
-      "끔찍한 태클을 범한 선수에게 다친 상대 선수가 다시 뛸 수 있을 때까지 경기장을 떠나라는 명령이 내려졌다.",
-      "미국 '워싱턴 포스트'는 29일(이하 한국시간) \"브라질 법원이 부상당한 가브리에우 페키가 훈련에 복귀할 때까지 그에게 태클한 빅토르 가브리에우에게 출전 정지 징계를 내렸다."
+      "당신은 날 모르겠지만….”골방에 틀어박힌 피터가 편지를 긁적인다.",
+      "그러다 범죄 발생 알림이 뜨면 스파이더맨 슈트를 입고 거리로 나선다.",
+      "가족도, 친구도 없는 피터가 할 일은 오로지 범죄자를 잡아들이는 일뿐."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4df040ba",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "57분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730003851071",
-    "title": "美금리 3.50∼3.75%로 5연속 동결…\"9대3 표결로 동결 결정\"(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)는 29일(현지시간) 기준금리를 3.50∼3.75%로 동결했다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n3e78da77",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607294141i",
-    "title": "Fed, 美 기준금리 5연속 동결…위원 3명은 '인상' 주장 [Fed 워치]",
-    "summary": [
-      "Fed, 美 기준금리 5연속 동결…위원 3명은 '인상' 주장 [Fed 워치]."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n1085770d",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153801",
-    "title": "소상공인 지원부터 연금 관리까지...네이버페이, 상생·AI 다 잡는다",
-    "summary": [
-      "네이버페이(Npay)가 소상공인 지원과 인공지능(AI) 기반 금융 서비스 확대를 통해 플랫폼 경쟁력 강화에 나서고 있다.",
-      "'Npay 커넥트'를 활용하는 소상공인의 수수료 부담을 낮추는 한편, AI를 활용한 연금 관리 서비스까지 선보이며 금융 플랫폼에서 생활 전반으로 영향력을 넓히는 모습이다.올해 연말까지...소상공인 결제 수수료 걱정 '뚝'29일 네이버페이는 오프라인 통합 단말기 'Npay 커넥트'를 이용하는 소상공인을 대상으로 결제 수수료를."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n316f7a39",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607294140i",
-    "title": "[속보] Fed, 美 기준금리 연 3.5~3.75%로 동결 [Fed 워치]",
-    "summary": [
-      "[속보] Fed, 美 기준금리 연 3.5~3.75%로 동결 [Fed 워치]."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n2650f723",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730003800071",
-    "title": "[2보] 美연준, 5연속 금리 동결…한미 금리차 1.00%P",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)는 29일(현지시간) 기준금리를 3.50∼3.75%로 동결했다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n6bbb3870",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/30/PUZDYMI74FHWTHZBBD7UQROQ2M/",
-    "title": "美연준 금리 동결 했지만 의견 갈렸다...3명 ‘인상’ 주장",
-    "summary": [
-      "美연준 금리 동결 했지만 의견 갈렸다...3명 ‘인상’ 주장."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nbd5024f8",
+    "id": "n2acf8b4d",
     "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/07/30/5QEOHEXFQNH4PNZODYPSDFEPN4/",
-    "title": "흩어진 움직임 하나로… 전신 리듬 ‘회복 운동’",
+    "source": "동아일보",
+    "time": "50분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260730/134391170/2",
+    "title": "“성범죄 실형 받은 목사가 다시 강단에… 교회내 성폭력 제대로 직시해야”",
     "summary": [
-      "흩어진 움직임 하나로… 전신 리듬 ‘회복 운동’."
+      "“성범죄로 실형을 받은 목사가 다시 강단에 설 수 있다는 게 말이 되겠습니까.” 22일 서울 종로구 한국기독교회관에서 한국기독교교회협의회(NCCK) 여성위원회(위원장 김은정 목사·사진)가 주최한 ‘교회 성폭력 예방과 극복을 위한 교단 순회간담회 결과 보고회’가 열렸다.",
+      "이날 보고회는 교회 내 성차별·성폭력 문화를 극복하기 위해 2021년 NCCK 내 교단을 대상으로 시작한 대장정의 마무리.",
+      "김은정 위원장은 이날 한국기독교회관에서 가진 인터뷰에서."
     ],
     "chips": [
       "#뉴스"
@@ -639,21 +632,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "금리",
+    "tag": "뉴스",
     "mentions": "2330건",
     "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "금리",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
