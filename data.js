@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-29 09:52:25
+// 마지막 업데이트: 2026-07-29 10:51:24
 window.NEWS_DB = [
   {
     "id": "n319886b4",
     "category": "IT",
     "source": "더스쿠프",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n7d8fb97f",
     "category": "IT",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43NnEzZWFtcko3R21ZZ3ZXTjlSd0ZHel9YTzhvN1Z6QWMtQThUNEpZRDc4QzM3SUx0MU9WNjIyVEV1SXhjXzFJbEZOSWlWZUo3Znk5WjZuM0NGZw?oc=5",
     "title": "엔비디아 직원이 반도체 밀수까지?…서류 위조 혐의 '구속'",
     "summary": [
@@ -32,10 +32,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n56609ab4",
+    "category": "IT",
+    "source": "스타트업엔(StartupN)",
+    "time": "7시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
+    "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
+    "summary": [
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nadcbed93",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
@@ -49,25 +63,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n94aa4795",
-    "category": "IT",
-    "source": "서울Pn",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
-    "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
-    "summary": [
-      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
     "id": "nf142e3df",
     "category": "IT",
     "source": "조선일보",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3laSVpIUnppQ2Z4X3EyalNYdzhxM0JESFJfQjJNNmRuS1hCRUpURVMwUnN4QVJzVWdrQ2xZT1hiSWcyY0pNTGh4ZFBOSVctQndrbW5JeWRQWm5LRjR1Zk1iazJIWUo3WWptTm5tQ0gxaDFPLVhvaHhYcXZUMkptZzNIOA?oc=5",
     "title": "D램 3년, HBM 4년으로 격차 좁혀… 中 반도체 추격 속도 무섭다",
     "summary": [
@@ -92,16 +91,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4caae55c",
+    "id": "n586a0cf7",
     "category": "IT",
-    "source": "녹색경제신문",
+    "source": "뉴스퀘스트",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zc3B3SEp4bllzMUtTbmN5bzNuY2tvd3FyRXdseXk3X0RKM3JvVVgyekk5a1pULXJLdHVURUZrQ2dNTVlYMElqTWduVHNJaDZOZ1pHNzlramNMRFNrU3FMVE9pUW94cWdf?oc=5",
-    "title": "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\"",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
+    "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
     "summary": [
-      "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\" 녹색경제신문."
+      "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주 뉴스퀘스트."
     ],
     "chips": [
+      "#AI",
       "#반도체",
       "#삼성전자"
     ]
@@ -183,20 +183,6 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "nba91eead",
-    "category": "부동산",
-    "source": "웹플러스뉴스",
-    "time": "34일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CdXdIZGFaa0s5NGtnUURYczJ4VVdGSzlMSzRxcUNtbjFrMmlJVmhlaFlYTk9fWmwybklPZU9pOTNibHAtTTNFZloyN3lza2NtQVRqU0E2bVJYQWN3RGRRTUdkbGZaTVpSU1Y0?oc=5",
-    "title": "전국 집값 상승세 속…대구·경북은 매매 하락 지속",
-    "summary": [
-      "전국 집값 상승세 속…대구·경북은 매매 하락 지속 웹플러스뉴스."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -303,6 +289,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "167일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
     "id": "n46f59f4d",
     "category": "스포츠",
     "source": "머니투데이",
@@ -381,263 +382,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2b7ea75f",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026072918504673088",
-    "title": "흔들리는 LIV 골프, 시즌 최종전도 취소 위기",
-    "summary": [
-      "극심한 자금난에 시달리고 있는 LIV 골프가 시즌 최종전 개최를 포기할 것으로 보인다.",
-      "골프 전문 매체 플러싱 잇 골프는 29일(한국시간) LIV 골프가 다음 달 개최할 예정이던 시즌 최종전 팀 챔피언십 미시간 대회 취소를 30일 공식 발표할 예정이라고 보도했다.",
-      "LIV 골프 측은 관련 보도에 관한 입장을 묻는 질의에 답변하지 않았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b8c2ce1",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728806",
-    "title": "삼성물산 건설, 2분기 영업익 71% 증가…반도체·해외 플랜트 호조",
-    "summary": [
-      "[서울=뉴시스] 강세훈 기자 = 삼성물산 건설부문이 반도체 공사와 해외 플랜트 프로젝트 호조에 힘입어 올해 2분기 두 자릿수 매출 성장과 함께 큰 폭의 영업이익 증가를 기록했다.",
-      "29일 삼성물산 실적 발표에 따르면 건설부문은 올해 2분기 매출 3조9880억원, 영업이익 2020억원을 기록했다.",
-      "매출은 전년 동기 대비 17.5%, 영업이익은 71.2% 증가했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n85daa862",
+    "id": "nd230c767",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729120651005",
-    "title": "황정민, 사생활 의혹에 \"스토킹 피해\"…'호프' 측도 \"법적 검토\"(종합)",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/29/2026072919431684263",
+    "title": "김태효 前 안보실 1차장 구속 기소…계엄 정당화 메시지 전달 혐의",
     "summary": [
-      "(서울=연합뉴스) 장진리 정래원 기자 = 배우 황정민 측이 온라인상에서 불거진 사생활 의혹을 부인하며 스토킹 범죄 피의자가 작성한 악의적인 게시..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb420acb6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728803",
-    "title": "'김관영 내란 동조 의혹 제기' 이원택 전북도지사, 경찰 출석",
-    "summary": [
-      "[전주=뉴시스]강경호 기자 = 김관영 전 전북도지사의 '내란 동조' 의혹 등 허위사실 공표 혐의로 고발당한 이원택 전북도지사가 경찰에 출석했다.",
-      "지난 5월7일 식비 대납 의혹으로 경찰 소환조사를 받은 것에 이어 두 번째다.",
-      "전북경찰청 반부패경제범죄수사대는 29일 오후 6시께 공직선거법 위반(허위사실 공표) 등 혐의로 고발당한 이원택 지사를 소환해 조사하고 있다."
+      "내란중요임무종사 혐의…종합특검 \"尹·신원식 추후 기소\" 김태효 전 대통령실 국가안보실 1차장이 구속 상태로 재판에 넘겨졌다.",
+      "김 전 차장은 12·3 비상계엄 선포 후 우방국에 계엄을 정당화하는 메시지를 전달했다는 혐의를 받는다.",
+      "2차 종합특검팀(특검팀·특별검사 권창영)은 29일 내란중요임무종사 등 혐의를 받는 김 전 차장을 구속 기소 했다고 밝혔다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n377b3fc9",
+    "id": "n32a0c815",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260729/134390799/1",
+    "title": "현대엔지니어링, 영업정지 집행정지 인용…정상 영업 지속",
+    "summary": [
+      "현대엔지니어링이 경기 안성 서울세종고속도로 교량 붕괴 사고로 받은 3개월 영업정지 처분에 대해 제기한 집행정지 신청이 법원에서 받아들여졌다.현대건설은 종속회사인 현대엔지니어링이 지난 23일 신청한 영업정지 행정처분 집행정지가 인용됐다고 29일 공시했다.이번 처분은 지난해 2월 경기 안성시 서울세종고속도로 천안~안성 구간 청룡천교 건설 현장에서 발생한 붕괴 사고와 관련됐다.",
+      "당시 교량 구조물이 무너지면서 근로자 4명이 숨지고 6명이 다쳤다.서울시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n62ef247f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260729/134387562/1",
+    "title": "美·이란 교전 재개…사우디까지 나서며 중동 긴장 최고조",
+    "summary": [
+      "이란 혁명수비대가 28일(현지 시간) 요르단의 미군 기지를 공격했다.",
+      "이어 29일에는 호르무즈 해협을 통과하던 유조선 3척을 타격했다.",
+      "중동을 관할하는 미군 중부사령부도 같은 날 사우디아라비아군과 함께 이라크의 친(親)이란 무장단체들을 정밀 타격했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4478c93f",
     "category": "스포츠",
     "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729121851530",
-    "title": "행안장관, 가평 햇빛소득마을 준비상황·폭염 대응 점검(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20260729177000007",
+    "title": "변진재, KPGA 데이비드골프투어 7차 연장전 끝에 우승",
     "summary": [
-      "(서울=연합뉴스) 차민지 기자 = 윤호중 행정안전부 장관은 29일 경기 가평군 조종면 상판리를 찾아 주민 주도의 에너지 자치모델인 '햇빛소득마을..."
+      "(서울=연합뉴스) 최태용 기자 = 변진재가 한국프로골프(KPGA) 데이비드골프 투어에서 7차 연장전 끝에 우승했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0a6e8b48",
+    "id": "n75aef687",
     "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260729/134390569/1",
-    "title": "날씨 걱정없는 휴가… 인스파이어 리조트, 물놀이·미식·웰니스 프로그램 총출동",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729034651030",
+    "title": "롯데호텔 서울, 객실 줄이고 의료시설 확대…멤버십도 개편(종합)",
     "summary": [
-      "인스파이어 엔터테인먼트 리조트는 여름 성수기를 맞아 물놀이와 미식, 웰니스 프로그램을 확대 운영한다고 29일 밝혔다.",
-      "폭염과 갑작스러운 비가 반복되는 날씨 속에서도 실내외에서 휴가를 즐길 수 있도록 콘텐츠를 다양화했다고 설명했다.실내 워터파크 ‘스플래시 베이’에서는 다음 달 17일까지 성인 전용 ‘나이트 라운지’를 오후 8시부터 3시간 동안 운영한다.",
-      "야간 입장권을 구매하면 주류를 자유롭게 즐길 수 있고 주말에는 라이브 공연도 열린다고 전했다."
+      "(서울=연합뉴스) 이상서 기자 = 롯데호텔앤리조트는 무료 멤버십 프로그램 '롯데호텔 리워즈' 멤버십을 전면 개편해 오는 9월부터 혜택과 서비스를..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nba1dfe49",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/future/2026/07/29/2026072916530068528",
+    "title": "\"기업들 RE100 즉시 이행 가능\"…에이치에너지, 단기 PPA 출시",
+    "summary": [
+      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] 재생에너지 플랫폼 기업 에이치에너지가 발전소 자산관리 서비스 '솔라온케어'를 통해 1년·3년 단위의 단기 PPA(전력구매계약) 상품을 출시했다고 29일 밝혔다.",
+      "에이치에너지 관계자는 \"이번 단기 PPA 출시는 그간 20년 장기 계약이 표준이었던 국내 PPA 시장에 '단기 계약'이라는 새로운 대안을 제시했다는 점에서 의미가 있."
+    ],
+    "chips": [
+      "#스타트업",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nf1205d0a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729175500017",
+    "title": "빌 게이츠, 방한 추진…AI·원전 협력 논의 주목",
+    "summary": [
+      "(서울=연합뉴스) 오지은 기자 = 마이크로소프트(MS) 공동창업자이자 게이츠재단 이사장인 빌 게이츠가 이르면 내달 한국을 방문해 한성숙 국무총리..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n2d70effb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728832",
+    "title": "해운대 카페 '비키니 손님' 입장 제지…예절인가 차별인가",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 해수욕장 인근 카페에 비키니 차림으로 들어갔다가 입장을 제지당했다는 사연이 온라인에서 확산하며 논란이 일고 있다.",
+      "지난 28일 스레드에는 해운대 앞 카페에서 비키니 차림으로 음료를 주문하려다 직원으로부터 제지받았다는 내용의 글이 올라왔다.",
+      "작성자는 \"테이크아웃을 하려고 주문하러 들어갔는데 복장 때문에 바깥에 계시면 음료를 가져다드리겠다는 말을 들었다\"고 주장했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3a7a891f",
-    "category": "경제",
-    "source": "아시아경제",
+    "id": "n2055dcee",
+    "category": "사회",
+    "source": "조선일보",
     "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026072917352902996",
-    "title": "“독립정신과 기업가정신은 한 뿌리”… 양재생 부산상의 회장, 부산독립운동기념관 가치 강조",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/29/GBSWCYTEGYZTINJRGM4WINDDGI/",
+    "title": "정준원, 얼굴 얼마나 붓길래? “개판..표정 연기 안 보일 정도” (유튜브하지영)",
     "summary": [
-      "부산상공회의소 양재생 회장이 부산독립운동기념관을 단순한 역사 보존 공간이 아닌 미래 경쟁력을 키우는 지역 핵심 자산으로 만들어야 한다고 강조했다.",
-      "부산상공회의소는 양재생 회장이 29일 오후 부산시청 대회의실에서 열린 광복 81주년 기념 '부산독립운동기념관 설립 정책토론회'에서 '부산의 미래 경쟁력과 역사문화자산의 가치'를 주제로 기조발제를 했다고 전했다.이번 토론회는 부산독립운동기념관 건립 추진위원회 주최."
+      "[OSEN=박하영 기자] 배우 정준원이 자신만의 붓기 관리법을 공개했다.29일 유튜브 채널 ‘유튜브하지영’에는 ‘구도원? 언슬전의 정준원 배우 출격!!! 여전한 선배미에 장꾸미 추가요!!!!’라는 제목의 영상이 게재됐다.이날 하지영은 “관리 어떻게 하시냐”라고 물었다.",
+      "정준원은 “제가 잘 붓는다.",
+      "되게 잘 부어서 아침부터 뭐 나가야 되고 이러면 전날에 안."
     ],
     "chips": [
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbfea8b60",
-    "category": "사회",
+    "id": "n7a2b8119",
+    "category": "IT",
     "source": "뉴시스",
     "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728792",
-    "title": "1조 '지방 지원 기금', 고용률 0.61%p↑…청년층은 '미미'",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728834",
+    "title": "[올댓차이나] 대만 증시, 반도체주 급락에 나흘째 3.76%↓…\"4만선 겨우 방어\"",
     "summary": [
-      "[서울=뉴시스]박정영 기자 = 1조원 규모의 '지방소멸대응기금'이 인구감소지역의 고용률을 0.61%포인트(p) 높였지만 청년들에게는 긍정적 영향을 미치지 못한 것으로 나타났다.",
-      "한국노동연구원은 29일 이 같은 내용을 담은 '지방소멸대응기금이 지역고용 및 인구에 미치는 영향' 연구보고서를 발간했다.",
-      "지방소멸대응기금은 인구 감소로 인한 지방 소멸 위기에 대응하기 위해 2022년부터 2031년까지 인구감소지역 등에 매년 1조원을 지원하는 제도다."
+      "[서울=뉴시스]이재준 기자 = 대만 타이베이 증시는 29일 글로벌 반도체주 약세와 인공지능(AI) 투자 과열 우려로 4거래일 연속 크게 하락한 채 마감했다.",
+      "자취안(加權) 지수는 이날 전일보다 1564.18 포인트, 3.76% 내려간 4만39.18로 폐장했다.",
+      "4월30일 이래 3개월 만에 최저 수준으로 주저앉았다."
     ],
     "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n9b513a21",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/football/2026/07/29/GE3TQY3BMJSWEZRYMU3TEMTDGU/",
-    "title": "5066일 만의 부천전...제라드 \"파주는 상대를 복잡하게 만드는 팀, 리그 차이에 얽매이지 않겠다\" [현장인터뷰]",
-    "summary": [
-      "[OSEN=부천, 정승우 기자] 파주 프런티어 FC가 프로 구단 출범 이후 처음으로 K리그1 팀을 상대한다.",
-      "목표는 부천FC1995를 넘어 코리아컵 16강에 진출하는 것이다.파주는 29일 오후 7시 부천종합운동장에서 부천과 2026-2027 하나은행 코리아컵 3라운드 경기를 치른다.파주는 앞선 2라운드에서 FC강릉에 두 차례 리드를 허용하고도 3-2 역전승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ned684ba2",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728800",
-    "title": "[올댓차이나] 홍콩 증시, 中 경기부양 기대에 사흘째 상승 마감…H주 2.22%↑",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 홍콩 증시는 29일 중국공산당 정치국 회의를 앞두고 경기부양에 대한 기대가 투자심리를 유지하면서 매수 선행으로 3거래일 연속 오른 채 마감했다.",
-      "반도체 관련주 등 그간 상승세를 보인 종목에서 상대적으로 부진한 인터넷 플랫폼주와 자동차주로 자금이 이동하는 순환매가 활발했다.",
-      "항셍지수는 이날 전일 대비 497.07 포인트, 1.96% 올라간 2만5807.92로 폐장했다."
-    ],
-    "chips": [
+      "#AI",
       "#반도체",
-      "#정치"
+      "#SK하이닉스"
     ]
   },
   {
-    "id": "n2255ac5f",
+    "id": "n15aafe39",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/29/MRSWCODFMNRDKM3GMY3DQZRVGE/",
+    "title": "'재혼 앞둔' 서인영, 자녀 계획 싹 바꿨다…\"셋 낳으려 했는데 지금은 생각 없어\" ('개과천선') [순간포착]",
+    "summary": [
+      "[OSEN=박근희 기자] 가수 서인영이 재혼을 앞두고 자녀 계획이 180도 바뀐 사연을 솔직하게 털어놓았다.29일 오후 유튜브 채널 ‘개과천선 서인영’에는 '대한민국에서 제일 비싼 댄서 불러서 컴백 준비하는 서인영 (+수술 부작용,댄스 배틀)'이라는 제목의 영상이 게재됐다.이날 아이키는 서인영의 예비 신랑을 언급하며 \"언니 근데 보니까 너무 인상 좋으시던데."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee2b86f3",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/29/2026072919151329843",
+    "title": "경기도교육청 소속 20대 주무관 숨진 채 발견…경찰 수사",
+    "summary": [
+      "경기도교육청 소속 20대 남성 주무관이 숨진 채 발견돼 경찰이 수사에 나섰다.",
+      "29일 뉴스1과 용인서부경찰서에 따르면 지난 23일 정오쯤 경기 용인시 수지구 한 아파트 화단에서 입주민 A씨가 숨진 채 발견됐다.",
+      "A씨는 경기도교육청 소속 주무관으로, 용인시 한 초등학교 행정실에서 근무해 왔던 것으로 전해졌다."
+    ],
+    "chips": [
+      "#부동산",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n3f57d69a",
+    "category": "사회",
+    "source": "머니투데이",
     "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729173000055",
-    "title": "이원택 전북지사 '김관영 내란 방조 의혹 제기' 혐의 경찰 조사",
+    "url": "https://www.mt.co.kr/industry/2026/07/29/2026072911400933923",
+    "title": "권영찬 교수, 경남 CEO 대상 '성공을 위한 회복탄력성' 특강 개최",
     "summary": [
-      "(전주=연합뉴스) 정경재 김문경 기자 = 6·3 지방선거 더불어민주당 당내 경선을 앞두고 허위 사실을 공표한 혐의 등으로 고발된 이원택 전북특별..."
+      "권영찬닷컴 대표 권영찬 교수가 경남 지역 주요 기업 CEO들을 대상으로 오는 8월 중순 경남 밀양의 한 콘도에서 특별 강연을 진행한다고 밝혔다.",
+      "이번 강연의 주제는 '성공을 위한 회복탄력성 올리기'로, 급변하는 경영 환경 속에서 리더들이 갖추어야 할 심리적 안정과 위기 극복 능력을 중심으로 다뤄질 예정이다.",
+      "권 교수는 방송인 겸 기업 컨설턴트로서 다양한 강연과 저술 활동을 통해 '긍정의 힘'과 '회복탄력성'을 강조해 왔다."
     ],
     "chips": [
-      "#정치"
+      "#환경"
     ]
   },
   {
-    "id": "ndb77a218",
-    "category": "IT",
+    "id": "n06c285a5",
+    "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260729/134390413/1",
-    "title": "[인터뷰] 미래 모빌리티 따라 자동차 튜닝도 진화한다…’한국자동차튜너협회’",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260729/134390764/2",
+    "title": "정성호, 공개 사의 표명했는데…靑 “공소청 출범·안착까지 봐야”",
     "summary": [
-      "자동차 튜닝을 떠올리면 여전히 배기음을 키우거나 차체를 낮추고 외관을 꾸미는 모습을 먼저 연상하는 사람이 많다.",
-      "하지만 자동차 산업이 전기차와 소프트웨어 정의 차량(SDV), 자율주행 시대로 빠르게 전환되면서 튜닝의 개념도 근본적으로 달라지고 있다.엔진과 변속기를 손보던 시대를 지나 이제는 배터리 열관리와 전장 시스템, 사용자 경험(UX), 소프트웨어 기반 기능 확장이 새로운 튜닝 영역으로 떠오르고 있다.",
-      "앞으로 자율주행차가 보편화되면 자동차는."
+      "청와대가 공개 사의를 표명한 정성호 법무부 장관을 향해 공소청이 제도적으로 안착할 때까지 장관의 책임을 다해야 한다고 밝혔다.",
+      "홍익표 청와대 정무수석은 29일 MBC 라디오에 출연해 정 장관의 사의 표명에 대해 “검찰개혁이 진행 중이고 공소청과 중대범죄수사청이 10월에 출범해야 한다.",
+      "공소청 주무부처는 법무부”라며 “주무부처 장관이 이 문제를 정리하고 제도적으로 잘 안착할 때까지 역할을 해야 한다”고 말했다."
     ],
     "chips": [
-      "#전기차"
+      "#의료"
     ]
   },
   {
-    "id": "nc34a0fac",
-    "category": "사회",
+    "id": "na37739dd",
+    "category": "스포츠",
     "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729172400083",
-    "title": "中레서판다 대만서 첫공개…中대표단 대만방문 무산 놓고선 공방",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729174600098",
+    "title": "\"우리 경기에서 손떼라\"…EU도 FIFA 지분 매각 계획에 반발",
     "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 중국 상하이에서 대만으로 보내진 레서판다가 타이베이에서 처음 일반에 공개됐다."
+      "(브뤼셀·런던=연합뉴스) 현윤경 김지연 특파원 = 국제축구연맹(FIFA)이 월드컵 대회 등을 운영할 자회사를 만들어 민간에 지분을 매각하는 방안..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n97041ae8",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026072918203103904",
-    "title": "박완수 경남지사, 다이빙 주한중국대사와 교류·협력 확대 논의",
-    "summary": [
-      "박완수 경남도지사가 29일 도청을 찾은 다이빙(戴兵, Dai Bing) 주한중국대사와 한중 관계 발전에 발맞춘 지방정부 간 교류·협력 확대 방안을 논의했다.",
-      "박 도지사는 \"최근 양국 정상 간 교류를 계기로 한중 관계가 미래지향적 협력의 방향으로 나아가고 있다\"면서 유학생 교류와 관광 교류 활성화를 상생 발전을 위한 협력 방안으로 제안했다.",
-      "이어 \"경남의 유학생 중 중국인 유학생은 베트남에 이어 두 번째로 많다\"며 \"중국의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n54f5aef4",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026072918384447200",
-    "title": "양산시, 13개 유관기관과 '여성폭력 방지' 맞손… 간담회·캠페인 추진",
-    "summary": [
-      "여성폭력 예방은 지역사회가 함께 풀어야 할 과제라는 공감대가 확산되고 있다.",
-      "경남 양산시가 '양산 방문의 해'를 맞아 지역 내 13개 유관기관과 함께 여성폭력 사각지대 해소를 위한 밀착형 공조 체계 구축에 나섰다.",
-      "양산시는 여성폭력방지 캠페인 수행기관인 양산가족상담센터와 함께 '양산방문의 해, 폭력 없는 안전한 양산'을 슬로건으로 지역 내 여성폭력 예방 협력체계 구축에 나섰다고 29일 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne09ab733",
+    "id": "n8017e0d3",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/29/GAYTOY3EGE4DSMZSMI4TCYZXME/",
-    "title": "한화 강백호, 정상 훈련 시작! → 그런데 복귀 일정 안 나왔다.. 왜? [대전 현장]",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728819",
+    "title": "AG 사격 국가대표, 차량에 실탄 818발 보관했다가 태극마크 박탈",
     "summary": [
-      "[대전=스포츠조선 한동훈 기자] 한화 이글스 중심타자 강백호가 옆구리를 다친 뒤 훈련에 복귀했다.",
-      "하지만 1군 복귀 시점은 아직 불투명하다.",
-      "강백호는 29일 대전 한화생명볼파크에서 열리는 롯데 자이언츠와 경기에 앞서 타격 훈련에 참가했다."
+      "[서울=뉴시스]김희준 기자 = 2026 아이치·나고야 아시안게임(AG) 사격 산탄총 트랩 종목 국가대표로 선발된 선수가 산탄(실탄)을 초과 보관했다가 적발돼 태극마크를 박탈당했다.",
+      "29일 대한사격연맹 관계자에 따르면 올해 아시안게임 국가대표로 선발된 A 선수는 지난 22일 충북 진천선수촌에 자신의 차량을 주차한 뒤 중국 항저우에서 열린 국제사격연맹(ISSF) 월드컵 출전을 위해 출국했다.",
+      "이 과정에서 A 선수는 트렁크를 열어놓은 채 선수촌을 떠."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0166cfe6",
+    "id": "n6efe7781",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/29/MI2TANJXMJSDANZXGQ4GMZRSGQ/",
-    "title": "LG 손주영은 공포특급? 블론 0인데 9이닝당 볼넷 6.28개라니…\"그만큼 어려운 시즌, 아직 성장중인 선수\" [잠실포커스]",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728056",
+    "title": "행안장관, 가평 찾아 폭염 대응 살펴…'햇빛소득마을' 점검도",
     "summary": [
-      "[잠실=스포츠조선 김영록 기자] \"선발할 때도 볼넷이 많은 편이었는데…\" 깜짝 마무리 변신 후 26경기.",
-      "하지만 은근 매경기 위태위태하다.",
-      "LG 트윈스 손주영 이야기다."
+      "[서울=뉴시스] 강지은 기자 = 윤호중 행정안전부 장관은 29일 경기 가평군을 방문해 무더위 쉼터 운영과 드론 예찰 등 지방자치단체의 폭염 대응 상황을 점검했다.",
+      "이번 방문은 지난 27일 폭염중대경보 발효와 함께 폭염 위기경보가 '심각'으로 격상되고, 중앙재난안전대책본부(중대본)가 가동됨에 따라 강화된 폭염 대응 체계를 살피기 위해 마련됐다.",
+      "윤 장관은 무더위 쉼터를 방문해 운영 상황을 점검하고, 쉼터 관리자와 이용자인 어르신 등 주민들의 의견."
     ],
     "chips": [
       "#뉴스"
@@ -650,20 +652,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
