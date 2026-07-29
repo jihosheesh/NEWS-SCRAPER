@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-29 14:45:02
+// 마지막 업데이트: 2026-07-29 15:36:26
 window.NEWS_DB = [
+  {
+    "id": "n7f676ee9",
+    "category": "IT",
+    "source": "이코노미트리뷴",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1emtHOE9od2tsSUJFSnlfbm85VDZQLUNPTWtadHl4X3VMZnVRUU8ydXM1UUhSSmFwYkRJM1BPWkFkbVFlZmhaczlBREpjSVoyVmItX0pLZkUyb0xBaEp4LXpuZklVdGNPQVpjT1Y2UkNCc0FfdXdN?oc=5",
+    "title": "엔비디아, AI로 반도체 설계까지 가속…자체 AI칩 개발 장벽도 낮춘다",
+    "summary": [
+      "엔비디아, AI로 반도체 설계까지 가속…자체 AI칩 개발 장벽도 낮춘다 이코노미트리뷴."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n319886b4",
     "category": "IT",
     "source": "더스쿠프",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
@@ -17,25 +33,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7d8fb97f",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43NnEzZWFtcko3R21ZZ3ZXTjlSd0ZHel9YTzhvN1Z6QWMtQThUNEpZRDc4QzM3SUx0MU9WNjIyVEV1SXhjXzFJbEZOSWlWZUo3Znk5WjZuM0NGZw?oc=5",
-    "title": "엔비디아 직원이 반도체 밀수까지?…서류 위조 혐의 '구속'",
-    "summary": [
-      "엔비디아 직원이 반도체 밀수까지?…서류 위조 혐의 '구속' 한국경제."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n56609ab4",
     "category": "IT",
     "source": "스타트업엔(StartupN)",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
@@ -49,7 +50,7 @@ window.NEWS_DB = [
     "id": "nadcbed93",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
@@ -63,25 +64,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n94aa4795",
-    "category": "IT",
-    "source": "서울Pn",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
-    "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
-    "summary": [
-      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
     "id": "nf142e3df",
     "category": "IT",
     "source": "조선일보",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3laSVpIUnppQ2Z4X3EyalNYdzhxM0JESFJfQjJNNmRuS1hCRUpURVMwUnN4QVJzVWdrQ2xZT1hiSWcyY0pNTGh4ZFBOSVctQndrbW5JeWRQWm5LRjR1Zk1iazJIWUo3WWptTm5tQ0gxaDFPLVhvaHhYcXZUMkptZzNIOA?oc=5",
     "title": "D램 3년, HBM 4년으로 격차 좁혀… 中 반도체 추격 속도 무섭다",
     "summary": [
@@ -135,6 +121,21 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nb70458fd",
+    "category": "IT",
+    "source": "beSUCCESS",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqVDZDV2FJUFRlZmJhMG44ZTBYa1M0LTZCUkEzbG1hRFFmR2xCU0J5YWJsVE14eXdGcWlMVWtHVU5QbDZteWc?oc=5",
+    "title": "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최",
+    "summary": [
+      "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최 beSUCCESS."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
     ]
   },
   {
@@ -246,12 +247,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "78일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -382,28 +383,240 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na11c42be",
+    "id": "n34c6678c",
     "category": "사회",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/29/AFCB3E63FFBCTJ5UGBSCPJF2AM/",
-    "title": "[부산에 가면] 피란 수도의 영도다리를 건너며",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/07/30/ZBCOISOIUVHHZDL3YGTNUIRFN4/",
+    "title": "HD한국조선해양, 2분기 영업이익 1.6조… 72% 급증",
     "summary": [
-      "[부산에 가면] 피란 수도의 영도다리를 건너며."
+      "HD한국조선해양, 2분기 영업이익 1.6조… 72% 급증."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nce0e6b77",
+    "id": "n23182f8f",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/07/30/QSTGQUVBXJCWFESON6RUJ6EO3E/",
+    "title": "신입 가르치는 AI… 눈높이에 맞춰 문답식 설명",
+    "summary": [
+      "신입 가르치는 AI… 눈높이에 맞춰 문답식 설명."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nb8e76c0f",
     "category": "사회",
     "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/international/us/2026/07/29/SHPLT3RLPBBVLHFPWD3LCBYVDI/",
-    "title": "트럼프, 이란 기습 공격에 “두들겨 팰 것”… 욕설 쓰며 고강도 응징 예고",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/auto/2026/07/30/QXTHULO425G7NOI7DEBQBFGPIY/",
+    "title": "부산시장 관용차는 카니발 하이브리드… 지역 매출 1위 르노 車 못 타는 까닭은",
     "summary": [
-      "트럼프, 이란 기습 공격에 “두들겨 팰 것”… 욕설 쓰며 고강도 응징 예고."
+      "부산시장 관용차는 카니발 하이브리드… 지역 매출 1위 르노 車 못 타는 까닭은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nac7e2980",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/07/30/ST47BSQFG5CJBJWV7U2PYIZWXM/",
+    "title": "삼성 신형 폴더블폰 상위 모델 두뇌, 모두 퀄컴 제품",
+    "summary": [
+      "삼성전자가 지난 22일(현지시각) ‘갤럭시 언팩 2026’에서 공개한 신형 폴더블폰·스마트워치 라인업에 탑재된 모바일 애플리케이션 프로세서(AP) 물량을 퀄컴이 다수 차지한 것으로 알려졌다.",
+      "최상위 폴더블폰과 스마트워치 전 모델에 퀄컴 스냅드래곤 8 엘리트 5세대가 탑재된 반면 삼성전자의 AP 엑시노스 시리즈는 일부 보급형 제품에만 탑재돼 명맥을 유지하는."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n38527681",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260729/134390376/2",
+    "title": "지방銀 中企연체율 11년만에 최고… ‘K자 양극화’ 심화",
+    "summary": [
+      "전북 익산시에서 10년 이상 첨단 농장(스마트팜)을 운영하는 조모 씨(48)는 초기 설비 투자를 위해 받은 은행 대출 이자가 올라 부담이 크다.",
+      "조 씨는 “국제유가 상승으로 기름값, 운영비가 크게 올랐는데 이자 내느라 신규 설비 투자는 엄두도 못 내고 있다”고 하소연했다.",
+      "지방 기업들의 자금줄 역할을 하는 5개 지방은행의 중소기업 연체율이 11년 3개월 만에 가장 높은 수준인 것으로 나타났다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nd22e147f",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260729/134390393/2",
+    "title": "‘상장 대박’ 中 CXMT, 주식 8조 인센티브로",
+    "summary": [
+      "상장 직후 단숨에 중국 증시 시가총액 1위에 오른 중국 최대 D램 업체 창신메모리테크놀로지(CXMT)의 주이밍 회장이 직원들에게 약 8조2000억 원을 지급한다.",
+      "27일(현지 시간) 블룸버그통신에 따르면 주 회장은 5월 기업공개(IPO) 신청서에서 자신이 보유한 주식 가운데 40% 상당인 7억6790만 주를 직원 인센티브로 출연하겠다고 했다.",
+      "상장 첫날 주가 급등으로 이 주식 가치는 56억 달러(약 8조2057억 원)에 달한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6b5df82b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260729/134390395/2",
+    "title": "해외명품부터 K브랜드까지… 관세청, ‘짝퉁’ 410만건 적발",
+    "summary": [
+      "지식재산권을 침해한 이른바 ‘짝퉁’ 제품 410만여 점이 세관 당국에 적발됐다.",
+      "29일 관세청은 올해 5, 6월 전국 34개 세관에서 ‘지식재산권 침해 물품 특별단속’을 실시한 결과 국내로 들어오려던 위조 상품 45만2927점을 적발했다고 밝혔다.",
+      "1년 전(17만7000여 점)보다 2.5배로 늘었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0656f7d5",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260729/134390559/2",
+    "title": "[단독]공정시장가액비율 60→80% 상향… 초고가 주택 종부세 ‘핀셋 증세’",
+    "summary": [
+      "정부가 현재 60%인 공정시장가액비율을 최고 80%까지 단계적으로 높여 초고가 주택의 종합부동산세 부담을 늘리기로 가닥을 잡았다.",
+      "공정시장가액비율이 오르면 집값이 비쌀수록 세금을 매기는 금액인 과세표준이 큰 폭으로 증가한다.",
+      "주택 수에 따른 세율 구분도 없애고 높은 누진세율을 공통 적용해 고가 주택 전반에서 세금을 더 걷는 방안이 추진된다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n392d5b42",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729186700071",
+    "title": "\"美요격미사일 재고 40% 이하로…패트리엇·사드 합쳐 1천발\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 이란과의 전쟁으로 미군 요격미사일 재고가 급감해 전쟁 이전의 40% 수준에 불과하다는 분석이 제기됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ec2757a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729165551109",
+    "title": "그리스 파로스·크레타섬에 산불…소방관 2명 사망(종합)",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 그리스 관광지인 파로스섬과 크레타섬에 산불이 발생해 이를 진압하던 소방관 2명이 순직했다고 AFP통신 등이 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n30190bd3",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730000800072",
+    "title": "국제유가, 중동 무력충돌 재개에 7%대 급등↑…브렌트 90달러대",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란이 지난 주말 이후 잠시 중단됐던 무력 공방을 재개하면서 국제 유가가 29일(현지시간) 장중 급등..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb2b3fde7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729187400071",
+    "title": "美관리·中대사, 뼈있는 발언…\"충돌은 안돼\" \"대만은 레드라인\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 주미 중국대사관에서 열린 중국 인민해방군 창설 99주년 기념식에서 미국과 중국이 협력을 내세우면서도 '뼈 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n60543f15",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728188",
+    "title": "\"10분 뒤 한명 더 와요\" 사정해도…6인석 못 앉게한 카페 사장",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 방학을 맞은 중학생 아이들이 카페 6인석에 앉았다가 \"명수가 맞지 않는다\"는 이유로 퇴장 요구를 받은 사연이 전해졌다.",
+      "지난 27일 JTBC '사건반장'에 따르면 올해 중학교에 입학한 아들을 둔 40대 여성 A씨는 최근 아이에게 황당한 이야기를 전해 들었다.",
+      "A씨의 아들은 방학을 맞아 친구들과 영어 캠프를 준비하기 위해 동네 카페에 모이기로 한 아이는 6인석 테이블에 자리를 잡고 음료와 빵, 쿠키 등을 주문했."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n95c4a0b1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003727922",
+    "title": "\"오늘 자고 갈게\"…연락 없이 온 시어머니 숙박 거절한 며느리, 누리꾼 갑론을박",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 이지윤 인턴기자 = 연락 없이 집을 찾아온 시어머니가 \"오늘 자고 가겠다\"고 하자 숙박을 정중히 거절했다는 며느리의 사연이 알려지며 온라인에서 갑론을박이 벌어졌다.",
+      "지난 28일 한 온라인 커뮤니티에는 연락 없이 찾아온 시어머니의 숙박 요청을 거절했다는 내용의 글이 올라왔다.",
+      "작성자는 \"시어머니가 연락도 없이 갑자기 집에 오셔서 오늘 자고 가겠다고 하셨다\"며 \"방도 준비되지 않았고 다음 날 아침 일찍 일정이 있어 숙박."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4536371e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728121",
+    "title": "\"내 월급, 오빠 결혼·사업 자금으로\"…1억 빚 떠안고 가족 벗어난 20대 여성",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 부모에게 월급을 관리당하고 오빠의 결혼 자금과 사업 대출까지 떠안았던 20대 후반 여성이 \"가족에게서 벗어나야 한다\"며 용달차를 타고 집을 빠져나온 사연이 전해졌다.",
+      "지난 28일 JTBC '사건반장'은 가족의 통제와 경제적 부담 속에서 지내다 독립을 선택한 한 여성의 사연을 소개했다.",
+      "방송에 따르면 제보자는 20대 후반 여성으로, 위로 오빠 한 명이 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8825295e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728341",
+    "title": "밤샘 장사로 시부모 생일 놓쳤더니…시모 폭언 편든 남편에 아내 '눈물'",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 남편 휴대전화에서 자신을 험담하는 시어머니와 이를 말리지 않은 남편의 대화를 본 자영업자 아내가 \"왜 한 번도 내 편을 안 들어주느냐\"고 토로한 사연이 공개됐다.",
+      "지난 28일 JTBC '사건반장'에 따르면, 식당을 시작한 지 얼마 되지 않은 초보 자영업자 A씨는 저녁부터 다음 날 새벽까지 장사하는 생활을 이어가면서 아이들을 돌보고 집안일까지 해야 하는 탓에 시부모 생신까지 제때 챙기지 못했다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
@@ -413,7 +626,7 @@ window.NEWS_DB = [
     "id": "nf9ce8dcd",
     "category": "사회",
     "source": "연합뉴스(경제)",
-    "time": "8분 전",
+    "time": "59분 전",
     "url": "https://www.yna.co.kr/view/AKR20260729186900001",
     "title": "李대통령 \"한-칠레 FTA, 환경에 맞게 진화해야…핵심광물 협력\"",
     "summary": [
@@ -424,223 +637,6 @@ window.NEWS_DB = [
       "#정치",
       "#환경"
     ]
-  },
-  {
-    "id": "n466605ec",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/29/GQ2DSNBZGI2DINBRMJRWCZLDGE/",
-    "title": "두산의 굴욕, 19세 신인 선수에게 또 당했다...7월에만 2승, 김광현도 못한 기록까지 [인천 현장]",
-    "summary": [
-      "[인천=스포츠조선 김용 기자] 7월에만 두산 상대로 2승 거둔 19세 신인 투수.",
-      "SSG 랜더스가 두산 베어스에 전날 패배를 설욕했다.",
-      "SSG는 29일 인천 SSG랜더스필드에서 열린 두산전에서 6대2로 승리했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb6b3da33",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/29/EB4QVVHZ2ZBMPN3ZLPNSO74BWQ/",
-    "title": "[이미도의 아라비안 舞飛 나이트] [16] ‘희망’이라는 이름의 ‘희생’",
-    "summary": [
-      "[이미도의 아라비안 舞飛 나이트] [16] ‘희망’이라는 이름의 ‘희생’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naf82769a",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026072923354678024",
-    "title": "여행사는 \"규슈 정상\"이라는데…구마모토 관광당국, 자체 투어 전면 취소",
-    "summary": [
-      "일본 규슈 구마모토현을 강타한 규모 7.1의 지진으로 여름휴가철 일본 여행을 앞둔 국내 관광객의 불안이 커지고 있다.",
-      "항공편은 상당수 운항을 재개했지만 신칸센과 지역 교통망에는 차질이 이어지고 있다.",
-      "현지 관광당국은 자체 여행상품을 중단하고 관광시설별 안전 점검에 들어간 반면, 국내 여행업계는 후쿠오카와 유후인 중심 상품에 미치는 영향은 제한적이라고 보고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44ff0037",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728917",
-    "title": "성수대교 단차 점검한 오세훈 \"검증 결과 투명하게 공개\"",
-    "summary": [
-      "[서울=뉴시스] 박대로 기자 = 오세훈 서울시장이 29일 오후 성수대교 남단 연결 램프 단차 발생 구간 현장 시험 진행 상황을 직접 확인했다.",
-      "오 시장은 성수대교 남단 연결 램프 현장에서 그간의 조치 현황과 단차 발생 구간 안전 관리 대책을 보고 받은 뒤 외부 구조·토질 분야 전문가가 참여한 현장 시험 진행 상황을 직접 살폈다.",
-      "이날 시험은 아스팔트 포장을 제거한 뒤 지반 상태, 지지력 등을 확인하는 방식으로 진행됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd4bf3e7f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728912",
-    "title": "송영길·김민석 첫 TV토론서 \"자기정치\" 협공…정청래 \"일대일로 하자\"(종합)",
-    "summary": [
-      "[서울=뉴시스]정금민 김난영 김윤영 기자 = 더불어민주당 8·17 전당대회에 나선 당 대표 후보들이 29일 첫 TV토론에서 보완수사권 폐지 골자 '형사소송법 개정안' 처리 과정·지방선거 책임론 등 이슈별로 충돌했다.",
-      "주로 송영길·김민석 후보의 협공, 정청래 후보의 맞대응으로 토론이 진행된 가운데, 다음달 1일 첫 순회경선을 앞두고 각 주자별 신경전이 거세지는 모습이다.",
-      "송영길·정청래·김민석 후보(기호순)의 신경전은 모두발언 순서부터 시작됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb3f59917",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729183700083",
-    "title": "中해경 또 대만 최전방 섬 인근 순찰…대만해경에 경고장면 공개",
-    "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 중국 해경이 한 달 만에 또다시 대만 관할 최전방 섬인 진먼다오(금문도) 인근 해역에서 정례 순찰을 실시했..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8c1909b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729008100001",
-    "title": "李대통령, 3박 4일 브라질 일정 마무리…칠레 향발",
-    "summary": [
-      "(상파울루=연합뉴스) 임형섭 황윤기 기자 = 이재명 대통령은 3박 4일간의 브라질 방문을 마무리하고 29일(현지시간) 다음 행선지인 칠레로 출국..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5985320f",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260729/134391061/2",
-    "title": "[사설]‘대미투자 1호’ 텍사스 가스플랜트… 韓 기업 참여 최대한으로",
-    "summary": [
-      "한미 무역합의에 따른 ‘대미 투자 1호’ 대상으로 가스복합화력발전소 건설 사업이 유력하게 검토되고 있다고 한다.",
-      "작년 11월 한미 정상회담 결과를 담은 ‘조인트 팩트시트’(공동 설명자료)가 발표된 지 8개월 만이다.",
-      "총 2000억 달러(약 290조 원) 규모의 대미 투자 사업이 첫 시동을 거는 셈이다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "ne46ca7f0",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003727200",
-    "title": "이 대통령, 상파울루서 세 번째 순방국 칠레로 출발",
-    "summary": [
-      "[상파울루=뉴시스] 김지은 기자 = 이재명 대통령이 브라질 국빈 방문 일정을 마치고 29일(현지시간) 세 번째 순방국인 칠레로 향했다.",
-      "이 대통령과 부인 김혜경 여사, 수행단을 태운 공군 1호기는 이날 오전 상파울루 과룰류스 국제공항에서 칠레 산티아고로 이륙했다.",
-      "이 대통령은 지난 26일부터 나흘간 이어진 브라질 국빈 방문에서 루이스 이나시우 룰라 다 시우바 브라질 대통령과 정상회담을 하고 무역협정 재개와 핵심광물과 에너지, 공급망 등의 협력."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n13437262",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260729/134391065/2",
-    "title": "[사설]反헌법적 발언으로 개헌론에 찬물 끼얹은 조정식 의장",
-    "summary": [
-      "조정식 국회의장이 28일 밤 페이스북에 글을 올려 “현직 대통령의 연임은 개헌 논의 대상이 아니다”고 밝혔다.",
-      "조 의장은 ‘대통령 임기 연장 또는 중임 변경을 위한 개헌이 이뤄지더라도 당시 대통령에게는 적용되지 않는다’고 규정한 헌법 128조 2항은 존중돼야 한다며 “본의와 다르게 오해와 논란을 불러일으킨 점에 대해 유감스럽게 생각한다”고 했다.",
-      "이날 기자간담회에서 현직 대통령 연임 개헌에 대해 “국민 선택의 문제”라고 발언한 것을 두고 이재명."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n65bd63b9",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260729/134391606/2",
-    "title": "촬영장서 뇌출혈로 쓰러진 전승재, 2년 투병 끝 별세",
-    "summary": [
-      "드라마 촬영 대기 중 뇌출혈로 쓰러졌던 배우 전승재가 별세했다.",
-      "향년 47세29일 연예계에 따르면 전승재는 약 2년간의 투병 끝에 이날 세상을 떠났다.",
-      "고인의 빈소는 경기 수원시 쉴낙원경기장례식장 특3호실에 마련됐다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf5ba0c7f",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728911",
-    "title": "키움, 4시간26분 혈투 끝 승리…서건창 \"이런 경기는 처음…이겨서 다행\"",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 프로야구 키움 히어로즈의 베테랑 타자 서건창이 한 경기 개인 최다 안타 타이기록을 세웠다.",
-      "그는 자신의 활약에 기뻐하기에 앞서 4시간 26분간 이어진 혈투에 혀를 내둘렀다.",
-      "서건창은 29일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 LG 트윈스와의 원정 경기에 1번 지명타자로 선발 출전해 6타수 5안타 2타점 3득점 1도루 맹활약을 펼쳤다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb15b9b25",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260729/134391063/2",
-    "title": "[사설]느닷없이 ‘의원 평가’ 꺼내든 장동혁, 주객이 뒤바뀌었다",
-    "summary": [
-      "국민의힘 장동혁 지도부가 소속 국회의원과 시도지사 평가 기준을 마련하기 위한 ‘선출직 공직자 평가혁신 태스크포스(TF)’를 29일 출범시켰다.",
-      "소속 선출직 공직자 전원을 대상으로 하는 평가 규칙을 새로 만들겠다고 한다.",
-      "당 안팎에서는 장동혁 대표가 2028년 23대 총선까지 염두에 두고 TF를 통해 자기 세력화에 본격적으로 나선 것이란 시각이 지배적이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6c2f4aed",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729186400007",
-    "title": "김도영 31호·오스틴 30호·힐리어드 26·27호…불붙은 홈런쇼(종합)",
-    "summary": [
-      "(서울·인천=연합뉴스) 천병혁 이대호 김동한 기자 = 프로야구 홈런레이스가 폭염만큼 뜨겁게 달아올랐다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
   }
 ];
 
@@ -649,20 +645,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
