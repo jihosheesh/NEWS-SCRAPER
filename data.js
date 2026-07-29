@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-29 15:36:26
+// 마지막 업데이트: 2026-07-29 16:28:33
 window.NEWS_DB = [
   {
     "id": "n7f676ee9",
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "nadcbed93",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
@@ -64,10 +64,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n94aa4795",
+    "category": "IT",
+    "source": "서울Pn",
+    "time": "18시간 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
+    "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
+    "summary": [
+      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
     "id": "nf142e3df",
     "category": "IT",
     "source": "조선일보",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3laSVpIUnppQ2Z4X3EyalNYdzhxM0JESFJfQjJNNmRuS1hCRUpURVMwUnN4QVJzVWdrQ2xZT1hiSWcyY0pNTGh4ZFBOSVctQndrbW5JeWRQWm5LRjR1Zk1iazJIWUo3WWptTm5tQ0gxaDFPLVhvaHhYcXZUMkptZzNIOA?oc=5",
     "title": "D램 3년, HBM 4년으로 격차 좁혀… 中 반도체 추격 속도 무섭다",
     "summary": [
@@ -121,21 +136,6 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nb70458fd",
-    "category": "IT",
-    "source": "beSUCCESS",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqVDZDV2FJUFRlZmJhMG44ZTBYa1M0LTZCUkEzbG1hRFFmR2xCU0J5YWJsVE14eXdGcWlMVWtHVU5QbDZteWc?oc=5",
-    "title": "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최",
-    "summary": [
-      "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최 beSUCCESS."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책"
     ]
   },
   {
@@ -203,12 +203,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "49일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -247,12 +247,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "biz.heraldcorp.com",
+    "source": "헤럴드경제",
     "time": "78일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
@@ -383,67 +383,238 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n34c6678c",
-    "category": "사회",
+    "id": "nb118bcc5",
+    "category": "스포츠",
     "source": "조선일보",
     "time": "3분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/07/30/ZBCOISOIUVHHZDL3YGTNUIRFN4/",
-    "title": "HD한국조선해양, 2분기 영업이익 1.6조… 72% 급증",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/30/GZSTGN3DMQ4GMM3EHE3WGNBRGM/",
+    "title": "\"감사했고, 절실했다\" 한화에서 잊혀지던 유격수→KIA 이적 후 첫 타석, 과연 무엇을 보았을까",
     "summary": [
-      "HD한국조선해양, 2분기 영업이익 1.6조… 72% 급증."
+      "[대구=스포츠조선 정현석 기자]승차 없는 5위로 밀리며 위기에 봉착했던 KIA 타이거즈.",
+      "29일 연패를 끊으며 반등의 발판을 마련했다.",
+      "어둠 속에서도 피어오르는 희망의 빛."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n23182f8f",
-    "category": "IT",
+    "id": "n42c60492",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/07/30/QSTGQUVBXJCWFESON6RUJ6EO3E/",
-    "title": "신입 가르치는 AI… 눈높이에 맞춰 문답식 설명",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/volleyball/2026/07/30/GUYDEOJRG5STCOLEMUZTOMDGGY/",
+    "title": "\"신장 188cm에 강한 공격력 갖췄다\" 흥국생명 새 에이스 되나? 드디어 입국 완료",
     "summary": [
-      "신입 가르치는 AI… 눈높이에 맞춰 문답식 설명."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nb8e76c0f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/economy/auto/2026/07/30/QXTHULO425G7NOI7DEBQBFGPIY/",
-    "title": "부산시장 관용차는 카니발 하이브리드… 지역 매출 1위 르노 車 못 타는 까닭은",
-    "summary": [
-      "부산시장 관용차는 카니발 하이브리드… 지역 매출 1위 르노 車 못 타는 까닭은."
+      "[스포츠조선 나유리 기자]흥국생명 핑크스파이더스의 외국인 선수 옌시 킨델란(등록명 킨델란)이 29일 한국에 입국했다.",
+      "킨델란은 메디컬 테스트를 마친 뒤 8월부터 선수단에 합류해 새 시즌 준비에 본격적으로 나설 예정이다.",
+      "킨델란은 2003년생 쿠바 출신 신장 1m88의 아포짓 스파이커로, 최근 두 시즌 동안 루마니아 리그에서 활약하며 뛰어난 공격력을 선보였다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nac7e2980",
-    "category": "IT",
+    "id": "n178c32e3",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/07/30/ST47BSQFG5CJBJWV7U2PYIZWXM/",
-    "title": "삼성 신형 폴더블폰 상위 모델 두뇌, 모두 퀄컴 제품",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/30/GBRTIMBZGQ3TEZJQGU2DQMJRHA/",
+    "title": "日 유학 마치고 돌아온 김서현, 본격 실전 돌입→1이닝 무실점, 그런데…",
     "summary": [
-      "삼성전자가 지난 22일(현지시각) ‘갤럭시 언팩 2026’에서 공개한 신형 폴더블폰·스마트워치 라인업에 탑재된 모바일 애플리케이션 프로세서(AP) 물량을 퀄컴이 다수 차지한 것으로 알려졌다.",
-      "최상위 폴더블폰과 스마트워치 전 모델에 퀄컴 스냅드래곤 8 엘리트 5세대가 탑재된 반면 삼성전자의 AP 엑시노스 시리즈는 일부 보급형 제품에만 탑재돼 명맥을 유지하는."
+      "[스포츠조선 이종서 기자] 일본 단기 유학을 마치고 돌아온 한화 이글스의 투수들이 첫 실전 점검을 했다.",
+      "한화는 지난 7일 일본 지바현 이치카와시에 위치한 넥스트 베이스볼 애슬레틱스랩에 김서현과 권민규를 파견했다.",
+      "올 시즌을 앞두고 다녀온 김진욱은 18경기에서 5승5패 평균자책점 3.19로 롯데 자이언츠의 에이스로 거듭났다."
     ],
     "chips": [
-      "#삼성전자"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd04a7df2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730001400071",
+    "title": "美 \"'호르무즈 보험 강매' 이란 기관 2곳 제재…IRGC의 자금줄\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 재무부와 국무부는 29일(현지시간) 이란이 호르무즈 해협을 통과하는 상선들에서 사실상 '통행료'를 갈..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n147be7c6",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "25분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/30/2026073001004390930",
+    "title": "日 강진에 반도체도 흔들…\"TSMC 생산 재개에 일정시간 소요\"",
+    "summary": [
+      "세계 최대 파운드리업체(반도체 위탁생산) 대만 TSMC가 일본 구마모토현 공장 생산을 재개하기까지 일정 시간이 소요될 것이라고 밝혔다고 교도통신이 29일 보도했다.",
+      "보도에 따르면 TSMC는 구마모토현에서 발생한 규모 7.1의 강진으로 제조장비를 재조정하는 데 일정 시간이 걸릴 것이라고 발표했다.",
+      "TSMC는 구마모토현 기쿠요마치에서 TSMC 1공장을 운영 중이다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n5ab09194",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "27분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/30/2026072918145847168",
+    "title": "'논란' 女 심판이 난투극 휘말렸다→'아찔' 뇌진탕 증세까지 \"어떻게든 버티려 했지만...\"",
+    "summary": [
+      "남자 선수들의 집단 난투극을 말리려던 여성 심판이 링 바닥에 쓰러지듯 그라운드에 넘어져 뇌진탕 증세를 보이는 불상사가 발생했다.",
+      "부상을 입은 심판은 결국 끝까지 경기를 관장하지 못한 채 교체됐다.",
+      "스포츠 전문 매체 'ESPN'은 28일(한국시간) \"메츠(프랑스)와 포르투나 시타르트(네덜란드)의 프리시즌 친선경기 중 플레이어 간의 충돌을 말리려던 여성 심판이 그라운드에 쓰러져 경기장을 떠나야 했다\"고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n422ff916",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728566",
+    "title": "\"땀·자외선에 더 괴롭다\"…숙면 망치는 '이 질환'",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 무더위와 높은 습도가 이어지는 여름철에는 아토피 피부염이 악화되기 쉽다.",
+      "아토피 피부염은 건조한 겨울철에 심해진다고 알려져 있으나, 실제 임상 현장에서는 여름철에도 증상이 악화되어 내원하는 환자들이 적지 않다.",
+      "고온다습한 환경, 과도한 땀 분비, 강한 자외선, 잦은 물놀이와 샤워 등 여름철 특유의 환경 요인이 피부 장벽을 자극하기 때문이다."
+    ],
+    "chips": [
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "na0b7f699",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "28분 전",
+    "url": "https://view.asiae.co.kr/article/2026072919155391571",
+    "title": "일본계 보험회사 솜포, 2027년부터 PGA 투어 대회 개최",
+    "summary": [
+      "일본계 보험회사 솜포가 2027년부터 미국프로골프(PGA) 투어를 후원한다.",
+      "PGA 투어는 29일(한국시간) 솜포와 다년간의 신규 파트너십을 체결했다고 발표했다.",
+      "솜포를 후원사로 받아들여 내년 7월 미국 캘리포니아주 내파에서 대회를 개최한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5b03303",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728545",
+    "title": "\"로봇 선생님이라더니\"…제작사가 '리얼돌' 업체 인수? 美 고교 발칵",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 강건우 인턴기자 = 미국의 한 고등학교가 인공지능(AI) 기반 인간형 로봇을 교실에 도입하는 시범사업을 추진하면서 논란이 일고 있다.",
+      "로봇 제작사가 과거 성인용 인형 이른바 리얼돌 업체를 인수한 이력이 알려지면서다.",
+      "영국 일간 가디언은 지난 26일(현지 시간) 미국 뉴욕주 살라망카 고등학교가 올해 가을부터 인간형 로봇 ‘샐리(Sally)’를 활용한 시범 프로그램을 진행할 예정이라고 보도했다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n84d1b4b8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730001000087",
+    "title": "두 달여 앞둔 브라질 대선…룰라 여론조사서 선두",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 브라질 대선을 두 달여 앞두고 진행된 여론조사에서 통산 4선에 도전하는 루이스 이나시우 룰라 다시우바 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd7a19e31",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730001700079",
+    "title": "[속보] \"이집트서 美 운영 LNG 저장설비 무인기 피격\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncbc36bc4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730000900072",
+    "title": "캐나다 산불 여전히 890건…G7 중 유일하게 전담 대응기구 없어",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 캐나다가 역대 최악의 산불 사태에 직면했지만, 연방정부 차원의 산불 대응 전담 기구가 없어 통합 대응에 한계..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7bf98c34",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "42분 전",
+    "url": "https://www.hankyung.com/article/202607304284i",
+    "title": "외환전문가들 \"연준 금리동결시 달러값 하락 압력커질 것\"",
+    "summary": [
+      "외환전문가들 \"연준 금리동결시 달러값 하락 압력커질 것\"."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n1cbed61f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/30/2J2BTZNEVRDEXO43CU4T5VTUWM/",
+    "title": "伊 축구 “다시 만치니”",
+    "summary": [
+      "伊 축구 “다시 만치니”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n81a6681a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "53분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003728924",
+    "title": "러, 젤렌스키 주장 일축…\"애국자 충분…추가 동원 필요 없어\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 러시아 고위 안보 당국자는 러시아가 최대 50만명 규모 2차 동원령을 내릴 것이라는 볼로디미르 젤렌스키 우크라이나 대통령의 주장을 일축했다.",
+      "29일(현지시간) 러시아 일간 코메르산트에 따르면 드미트리 메드베데프 러시아 국가안보회의 부의장은 계약병을 통해 러시아군 병력을 충원하기 위한 방안을 논의하기 위해 전날 열린 국가안보회의 산하 부처간 위원회 회의에서 이같이 밝혔다.",
+      "회의 참석자인 아르템 조가 우랄연방관구 전."
+    ],
+    "chips": [
+      "#정치"
     ]
   },
   {
     "id": "n38527681",
     "category": "IT",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "58분 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260729/134390376/2",
     "title": "지방銀 中企연체율 11년만에 최고… ‘K자 양극화’ 심화",
     "summary": [
@@ -459,7 +630,7 @@ window.NEWS_DB = [
     "id": "nd22e147f",
     "category": "경제",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "58분 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260729/134390393/2",
     "title": "‘상장 대박’ 中 CXMT, 주식 8조 인센티브로",
     "summary": [
@@ -469,173 +640,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b5df82b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260729/134390395/2",
-    "title": "해외명품부터 K브랜드까지… 관세청, ‘짝퉁’ 410만건 적발",
-    "summary": [
-      "지식재산권을 침해한 이른바 ‘짝퉁’ 제품 410만여 점이 세관 당국에 적발됐다.",
-      "29일 관세청은 올해 5, 6월 전국 34개 세관에서 ‘지식재산권 침해 물품 특별단속’을 실시한 결과 국내로 들어오려던 위조 상품 45만2927점을 적발했다고 밝혔다.",
-      "1년 전(17만7000여 점)보다 2.5배로 늘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0656f7d5",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260729/134390559/2",
-    "title": "[단독]공정시장가액비율 60→80% 상향… 초고가 주택 종부세 ‘핀셋 증세’",
-    "summary": [
-      "정부가 현재 60%인 공정시장가액비율을 최고 80%까지 단계적으로 높여 초고가 주택의 종합부동산세 부담을 늘리기로 가닥을 잡았다.",
-      "공정시장가액비율이 오르면 집값이 비쌀수록 세금을 매기는 금액인 과세표준이 큰 폭으로 증가한다.",
-      "주택 수에 따른 세율 구분도 없애고 높은 누진세율을 공통 적용해 고가 주택 전반에서 세금을 더 걷는 방안이 추진된다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n392d5b42",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729186700071",
-    "title": "\"美요격미사일 재고 40% 이하로…패트리엇·사드 합쳐 1천발\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 이란과의 전쟁으로 미군 요격미사일 재고가 급감해 전쟁 이전의 40% 수준에 불과하다는 분석이 제기됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ec2757a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729165551109",
-    "title": "그리스 파로스·크레타섬에 산불…소방관 2명 사망(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 그리스 관광지인 파로스섬과 크레타섬에 산불이 발생해 이를 진압하던 소방관 2명이 순직했다고 AFP통신 등이 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30190bd3",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730000800072",
-    "title": "국제유가, 중동 무력충돌 재개에 7%대 급등↑…브렌트 90달러대",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란이 지난 주말 이후 잠시 중단됐던 무력 공방을 재개하면서 국제 유가가 29일(현지시간) 장중 급등..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb2b3fde7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729187400071",
-    "title": "美관리·中대사, 뼈있는 발언…\"충돌은 안돼\" \"대만은 레드라인\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 주미 중국대사관에서 열린 중국 인민해방군 창설 99주년 기념식에서 미국과 중국이 협력을 내세우면서도 '뼈 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n60543f15",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728188",
-    "title": "\"10분 뒤 한명 더 와요\" 사정해도…6인석 못 앉게한 카페 사장",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 방학을 맞은 중학생 아이들이 카페 6인석에 앉았다가 \"명수가 맞지 않는다\"는 이유로 퇴장 요구를 받은 사연이 전해졌다.",
-      "지난 27일 JTBC '사건반장'에 따르면 올해 중학교에 입학한 아들을 둔 40대 여성 A씨는 최근 아이에게 황당한 이야기를 전해 들었다.",
-      "A씨의 아들은 방학을 맞아 친구들과 영어 캠프를 준비하기 위해 동네 카페에 모이기로 한 아이는 6인석 테이블에 자리를 잡고 음료와 빵, 쿠키 등을 주문했."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n95c4a0b1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003727922",
-    "title": "\"오늘 자고 갈게\"…연락 없이 온 시어머니 숙박 거절한 며느리, 누리꾼 갑론을박",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 이지윤 인턴기자 = 연락 없이 집을 찾아온 시어머니가 \"오늘 자고 가겠다\"고 하자 숙박을 정중히 거절했다는 며느리의 사연이 알려지며 온라인에서 갑론을박이 벌어졌다.",
-      "지난 28일 한 온라인 커뮤니티에는 연락 없이 찾아온 시어머니의 숙박 요청을 거절했다는 내용의 글이 올라왔다.",
-      "작성자는 \"시어머니가 연락도 없이 갑자기 집에 오셔서 오늘 자고 가겠다고 하셨다\"며 \"방도 준비되지 않았고 다음 날 아침 일찍 일정이 있어 숙박."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4536371e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728121",
-    "title": "\"내 월급, 오빠 결혼·사업 자금으로\"…1억 빚 떠안고 가족 벗어난 20대 여성",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 부모에게 월급을 관리당하고 오빠의 결혼 자금과 사업 대출까지 떠안았던 20대 후반 여성이 \"가족에게서 벗어나야 한다\"며 용달차를 타고 집을 빠져나온 사연이 전해졌다.",
-      "지난 28일 JTBC '사건반장'은 가족의 통제와 경제적 부담 속에서 지내다 독립을 선택한 한 여성의 사연을 소개했다.",
-      "방송에 따르면 제보자는 20대 후반 여성으로, 위로 오빠 한 명이 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8825295e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728341",
-    "title": "밤샘 장사로 시부모 생일 놓쳤더니…시모 폭언 편든 남편에 아내 '눈물'",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 남편 휴대전화에서 자신을 험담하는 시어머니와 이를 말리지 않은 남편의 대화를 본 자영업자 아내가 \"왜 한 번도 내 편을 안 들어주느냐\"고 토로한 사연이 공개됐다.",
-      "지난 28일 JTBC '사건반장'에 따르면, 식당을 시작한 지 얼마 되지 않은 초보 자영업자 A씨는 저녁부터 다음 날 새벽까지 장사하는 생활을 이어가면서 아이들을 돌보고 집안일까지 해야 하는 탓에 시부모 생신까지 제때 챙기지 못했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf9ce8dcd",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "59분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729186900001",
-    "title": "李대통령 \"한-칠레 FTA, 환경에 맞게 진화해야…핵심광물 협력\"",
-    "summary": [
-      "(서울=연합뉴스) 고동욱 기자 = 남미를 순방 중인 이재명 대통령은 29일 \"한-칠레 자유무역협정(FTA)은 변화한 환경에 맞춰 진화해야 한다\"..."
-    ],
-    "chips": [
-      "#수출",
-      "#정치",
-      "#환경"
     ]
   }
 ];
@@ -650,13 +654,13 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1810건",
     "trend": "+175%"
   }
