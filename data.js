@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-29 13:32:58
+// 마지막 업데이트: 2026-07-29 14:45:02
 window.NEWS_DB = [
   {
     "id": "n319886b4",
     "category": "IT",
     "source": "더스쿠프",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n7d8fb97f",
     "category": "IT",
     "source": "한국경제",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43NnEzZWFtcko3R21ZZ3ZXTjlSd0ZHel9YTzhvN1Z6QWMtQThUNEpZRDc4QzM3SUx0MU9WNjIyVEV1SXhjXzFJbEZOSWlWZUo3Znk5WjZuM0NGZw?oc=5",
     "title": "엔비디아 직원이 반도체 밀수까지?…서류 위조 혐의 '구속'",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n56609ab4",
     "category": "IT",
     "source": "스타트업엔(StartupN)",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "nadcbed93",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
@@ -63,10 +63,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n94aa4795",
+    "category": "IT",
+    "source": "서울Pn",
+    "time": "16시간 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
+    "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
+    "summary": [
+      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
     "id": "nf142e3df",
     "category": "IT",
     "source": "조선일보",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3laSVpIUnppQ2Z4X3EyalNYdzhxM0JESFJfQjJNNmRuS1hCRUpURVMwUnN4QVJzVWdrQ2xZT1hiSWcyY0pNTGh4ZFBOSVctQndrbW5JeWRQWm5LRjR1Zk1iazJIWUo3WWptTm5tQ0gxaDFPLVhvaHhYcXZUMkptZzNIOA?oc=5",
     "title": "D램 3년, HBM 4년으로 격차 좁혀… 中 반도체 추격 속도 무섭다",
     "summary": [
@@ -91,16 +106,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4caae55c",
+    "id": "n586a0cf7",
     "category": "IT",
-    "source": "녹색경제신문",
+    "source": "뉴스퀘스트",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zc3B3SEp4bllzMUtTbmN5bzNuY2tvd3FyRXdseXk3X0RKM3JvVVgyekk5a1pULXJLdHVURUZrQ2dNTVlYMElqTWduVHNJaDZOZ1pHNzlramNMRFNrU3FMVE9pUW94cWdf?oc=5",
-    "title": "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\"",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pR3RHZFZhQzBNQU1qQmJnV0NRR1dsQnI4QUZ3OVR1bVlVSnhEWDdWWHRPeTNTM1NvTGZ1XzVRblpNS1BSVElFY1ZWZm40Ukk4S1ZVRnM0NkR5Y0tIcEswbEhJMS1VMWctRnc4aFNuRdIBc0FVX3lxTE14Z1dydnlzVzNBUEhDVWdZSkVDeEVLTjlyMTR6NkNoTGpid0dVT3pTTGZHVEhBdnBaU29MTjFlM0I4V05Nb3lHcEZlSUhaUzlfTjVwZTdHaTExSmJFRzVaWldoY29yYnpJd2psbllmczN0WTA?oc=5",
+    "title": "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주",
     "summary": [
-      "삼성전자, HBM5에 2나노 공정 적용…\"기술 리더십 강화\" 녹색경제신문."
+      "“한국 없인 AI 혁명 불가”…삼성전자, 오픈AI 동맹으로 HBM·파운드리 동반 질주 뉴스퀘스트."
     ],
     "chips": [
+      "#AI",
       "#반도체",
       "#삼성전자"
     ]
@@ -119,21 +135,6 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nb70458fd",
-    "category": "IT",
-    "source": "beSUCCESS",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqVDZDV2FJUFRlZmJhMG44ZTBYa1M0LTZCUkEzbG1hRFFmR2xCU0J5YWJsVE14eXdGcWlMVWtHVU5QbDZteWc?oc=5",
-    "title": "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최",
-    "summary": [
-      "스타트업얼라이언스·유니콘팜, ‘스타트업 마무리 정책 대안 포럼’ 개최 beSUCCESS."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책"
     ]
   },
   {
@@ -381,257 +382,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0f62044d",
+    "id": "na11c42be",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728811",
-    "title": "김재덕 안무 \"바흐 음악을 몸에 수혈받는다\"…현대무용 새 지평여는 시댄스",
-    "summary": [
-      "[서울=뉴시스] 최희정 기자 = 올해로 29주년을 맞은 '서울세계무용축제(SIDance 2026, 이하 시댄스)'가 동시대적인 클래식을 담은 안무부터 대중 매체를 통해 얼굴을 알린 스타 무용가의 진솔한 무대까지, 현대무용의 벽을 허무는 장을 마련한다.",
-      "올해 시댄스는 '협업'을 넘어 '연결'을 이야기한다.",
-      "한국을 포함한 8개국이 참가해, 해외초청, 국제합작, 국내초청, 기획제작을 통해 총 31편의 작품을 선보인다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n685bbba4",
-    "category": "사회",
-    "source": "뉴시스",
+    "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728894",
-    "title": "안규백 장관, '가혹행위 논란' 계룡대 근무지원단 진상조사 지시",
+    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/29/AFCB3E63FFBCTJ5UGBSCPJF2AM/",
+    "title": "[부산에 가면] 피란 수도의 영도다리를 건너며",
     "summary": [
-      "[서울=뉴시스] 옥승욱 기자 = 안규백 국방부 장관이 국방부 직할부대인 계룡대 근무지원단에서 후임병 '식고문' 등 가혹행위 증언이 이어지자 진상조사에 나설 것을 지시했다.",
-      "국방부 관계자는 29일 \"안규백 장관은 사안의 엄중함과 객관성을 고려해 국방부 감사관실에 계룡대 근무지원단 사건에 대한 감사를 지시했다\"며 \"조사 결과에 따라 엄정하게 조치하겠다\"고 밝혔다.",
-      "최근 계룡대 근무지원단 군사경찰대대에서 복무하는 해병대 병사들한테 선임병들이 후임병들."
+      "[부산에 가면] 피란 수도의 영도다리를 건너며."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0e827740",
-    "category": "스포츠",
-    "source": "뉴시스",
+    "id": "nce0e6b77",
+    "category": "사회",
+    "source": "조선일보",
     "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728888",
-    "title": "계속되는 자이언트 킬링…K리그1 서울·울산 코리아컵 3R 탈락",
+    "url": "https://www.chosun.com/international/us/2026/07/29/SHPLT3RLPBBVLHFPWD3LCBYVDI/",
+    "title": "트럼프, 이란 기습 공격에 “두들겨 팰 것”… 욕설 쓰며 고강도 응징 예고",
     "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 프로축구 K리그1 강호들이 하위 리그 팀에 발목 잡히는 이변이 또 일어났다.",
-      "'선두' FC서울과 상위권에 자리한 울산 HD가 탈락했다.",
-      "서울은 29일 오후 7시 부산구덕운동장에서 열린 K리그2 부산아이파크와의 2026~2027시즌 하나은행 코리아컵 3라운드 원정 경기에서 0-2로 패배했다."
+      "트럼프, 이란 기습 공격에 “두들겨 팰 것”… 욕설 쓰며 고강도 응징 예고."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n02f286eb",
+    "id": "nf9ce8dcd",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729186900001",
+    "title": "李대통령 \"한-칠레 FTA, 환경에 맞게 진화해야…핵심광물 협력\"",
+    "summary": [
+      "(서울=연합뉴스) 고동욱 기자 = 남미를 순방 중인 이재명 대통령은 29일 \"한-칠레 자유무역협정(FTA)은 변화한 환경에 맞춰 진화해야 한다\"..."
+    ],
+    "chips": [
+      "#수출",
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n466605ec",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/29/GQ2DSNBZGI2DINBRMJRWCZLDGE/",
+    "title": "두산의 굴욕, 19세 신인 선수에게 또 당했다...7월에만 2승, 김광현도 못한 기록까지 [인천 현장]",
+    "summary": [
+      "[인천=스포츠조선 김용 기자] 7월에만 두산 상대로 2승 거둔 19세 신인 투수.",
+      "SSG 랜더스가 두산 베어스에 전날 패배를 설욕했다.",
+      "SSG는 29일 인천 SSG랜더스필드에서 열린 두산전에서 6대2로 승리했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb6b3da33",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/29/EB4QVVHZ2ZBMPN3ZLPNSO74BWQ/",
+    "title": "[이미도의 아라비안 舞飛 나이트] [16] ‘희망’이라는 이름의 ‘희생’",
+    "summary": [
+      "[이미도의 아라비안 舞飛 나이트] [16] ‘희망’이라는 이름의 ‘희생’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naf82769a",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026072923354678024",
+    "title": "여행사는 \"규슈 정상\"이라는데…구마모토 관광당국, 자체 투어 전면 취소",
+    "summary": [
+      "일본 규슈 구마모토현을 강타한 규모 7.1의 지진으로 여름휴가철 일본 여행을 앞둔 국내 관광객의 불안이 커지고 있다.",
+      "항공편은 상당수 운항을 재개했지만 신칸센과 지역 교통망에는 차질이 이어지고 있다.",
+      "현지 관광당국은 자체 여행상품을 중단하고 관광시설별 안전 점검에 들어간 반면, 국내 여행업계는 후쿠오카와 유후인 중심 상품에 미치는 영향은 제한적이라고 보고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44ff0037",
     "category": "사회",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728887",
-    "title": "'특검 공소취소 권한 부여 문제'에…宋 \"檢이 결자해지\" 鄭 \"당론 다시 묻겠다\" 金 \"국민 공감대 따라야\"",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728917",
+    "title": "성수대교 단차 점검한 오세훈 \"검증 결과 투명하게 공개\"",
     "summary": [
-      "[서울=뉴시스] 김난영 김윤영 기자 = 더불어민주당 당권 주자인 송영길·정청래·김민석 후보는 29일 조작기소 특검에 공소취소 권한을 부여하는 문제에 관해 각각 \"검찰이 결자해지 해야 한다\", \"당론을 다시 묻자\", \"국민 공감대를 따르자\"는 입장을 밝혔다.",
-      "송 후보는 이날 MBC TV토론에서 사실상 공소취소 권한을 부여하는 '조작기소 특검 법안'에 관한 사회자 공통 질문에 \"특검이 조작 사안을 밝혀내 기소하고, 그 내용이 정리되면 검찰에 송치해."
+      "[서울=뉴시스] 박대로 기자 = 오세훈 서울시장이 29일 오후 성수대교 남단 연결 램프 단차 발생 구간 현장 시험 진행 상황을 직접 확인했다.",
+      "오 시장은 성수대교 남단 연결 램프 현장에서 그간의 조치 현황과 단차 발생 구간 안전 관리 대책을 보고 받은 뒤 외부 구조·토질 분야 전문가가 참여한 현장 시험 진행 상황을 직접 살폈다.",
+      "이날 시험은 아스팔트 포장을 제거한 뒤 지반 상태, 지지력 등을 확인하는 방식으로 진행됐다."
     ],
     "chips": [
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "n3930d65b",
+    "id": "nd4bf3e7f",
     "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/national/regional/yeongnam/2026/07/29/DVD73HIMHBBXBOBIZOOJ2JPAEM/",
-    "title": "붕괴 3개월 전 “쾅쾅 소리 난다” 신고에도…포항 보릿돌교 무너져",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728912",
+    "title": "송영길·김민석 첫 TV토론서 \"자기정치\" 협공…정청래 \"일대일로 하자\"(종합)",
     "summary": [
-      "붕괴 3개월 전 “쾅쾅 소리 난다” 신고에도…포항 보릿돌교 무너져."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n32ef5067",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/07/29/MZSGGMRVGA4DSMBTGJQTKODCGA/",
-    "title": "르브론 영입 필라델피아! 드디어 순위가 나왔다. NBA 파워랭킹. 1위 샌안, 2위 뉴욕, 필라델피아는 몇 위?",
-    "summary": [
-      "[스포츠조선 류동혁 기자] 드디어 나왔다.",
-      "르브론 제임스가 가세한 필라델피아 76ers의 다음 시즌 랭킹은 몇 위일까.",
-      "르브론 제임스의 필라델피아 이적이 공식 발표된 직후, 핵심 초점은 필라델피아의 위치였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne8ebb365",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729183800007",
-    "title": "'아빌라표 슬라이더' 장착한 SSG 김민준 \"직구처럼 세게 던져\"",
-    "summary": [
-      "(인천=연합뉴스) 김동한 기자 = 프로야구 SSG 랜더스의 고졸 신인 김민준(20)이 경기 초반 위기를 넘길 때 꺼내 든 결정구는 최근 페드로 ..."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n09cde117",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/29/UAQMOS2XJBHAFNVVY2UYEBDCJQ/",
-    "title": "치열한 홈런왕 경쟁...김도영, 오스틴, 힐리어드 나란히 대포 가동",
-    "summary": [
-      "치열한 홈런왕 경쟁...김도영, 오스틴, 힐리어드 나란히 대포 가동."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n24f06160",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260728170151007",
-    "title": "[프로야구 창원전적] kt 10-3 NC",
-    "summary": [
-      "[프로야구 창원전적] kt 10-3 NC."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n2d4ec60e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729183400004",
-    "title": "폭염경보 내려진 서울…어제 온열질환자 8명 발생",
-    "summary": [
-      "(서울=연합뉴스) 황재하 기자 = 연일 기승을 부리는 폭염으로 서울에서 온열질환자가 속출하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n05dfa74f",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729183500007",
-    "title": "홈런 선두 김도영, 31호 스리런 '쾅'…KIA, 삼성 잡고 4위 복귀",
-    "summary": [
-      "(서울=연합뉴스) 천병혁 기자 = KIA 타이거즈가 김도영의 홈런포를 앞세워 하루 만에 4위에 복귀했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8b14a28a",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026072922145030123",
-    "title": "정부 \"단일종목 레버리지 개인별 투자한도로 총량관리\"",
-    "summary": [
-      "정부가 단일종목 레버리지 상장지수펀드(ETF) 거래가 증시 변동성을 키우는 요인으로 지목되자 개인별 투자한도를 설정하는 등 투자 규모 총량 관리에 나선다.",
-      "구윤철 부총리 겸 재정경제부 장관은 29일 정부서울청사에서 관계기관과 '긴급 시장상황점검회의'(F4 회의)를 열고 이 같은 내용의 대응 방안을 발표했다.",
-      "이날 회의에는 구 부총리를 비롯해 신현송 한국은행 총재, 이억원 금융위원장, 이찬진 금융감독원장, 하준경 청와."
-    ],
-    "chips": [
-      "#한은"
-    ]
-  },
-  {
-    "id": "nfe416acd",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026072922071423820",
-    "title": "시민 아이디어가 정책으로…의정부 '문화도시 정책페스타' 개최",
-    "summary": [
-      "시민이 직접 제안한 아이디어를 정책으로 발전시키고 축제처럼 체험하는 자리가 의정부에서 열린다.",
-      "의정부문화관광재단은 다음 달 7일부터 8일까지 이틀간 의정부예술의전당에서 '2026 제4회 문화도시 정책페스타'를 개최한다고 29일 밝혔다.",
-      "올해 행사는 '모두의 아이디어, 빛나는 의정부'를 슬로건으로 내걸었다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n80a72a17",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729181752002",
-    "title": "당국 \"단일종목레버리지 개인투자한도 설정·긴급시 안정화조치\"(종합)",
-    "summary": [
-      "(세종=연합뉴스) 이세원 기자 = 경제·금융당국은 단일종목 레버리지 상장지수펀드(ETF) 거래가 증시 변동성을 키우는 원인으로 지목된 것과 관련..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8c5a6f52",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "39분 전",
-    "url": "https://view.asiae.co.kr/article/2026072921525516847",
-    "title": "민주 당권주자 첫 TV토론…'민생'·'개혁'·'안정' 키워드로",
-    "summary": [
-      "더불어민주당 8·17 전당대회 당대표 선거에 출마한 송영길·정청래·김민석 후보(기호순)가 29일 첫 방송토론에서 각각 '민생을 챙기는 당대표', '당의 정통성과 개혁성', '안정적인 국정 파트너'를 전면에 내세우며 당원들의 지지를 호소했다.",
-      "세 후보는 이날 서울 마포구 MBC에서 열린 당대표 후보자 합동토론회 모두발언에서 차기 당대표가 갖춰야 할 리더십을 제시하는 한편, 자신이 이재명 정부의 성공과 내년 지방선거 승리."
+      "[서울=뉴시스]정금민 김난영 김윤영 기자 = 더불어민주당 8·17 전당대회에 나선 당 대표 후보들이 29일 첫 TV토론에서 보완수사권 폐지 골자 '형사소송법 개정안' 처리 과정·지방선거 책임론 등 이슈별로 충돌했다.",
+      "주로 송영길·김민석 후보의 협공, 정청래 후보의 맞대응으로 토론이 진행된 가운데, 다음달 1일 첫 순회경선을 앞두고 각 주자별 신경전이 거세지는 모습이다.",
+      "송영길·정청래·김민석 후보(기호순)의 신경전은 모두발언 순서부터 시작됐다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0f6fe7fa",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "42분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260729/134391383/2",
-    "title": "금융당국 “삼전닉스 레버리지, 개인별 투자한도 설정”",
+    "id": "nb3f59917",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729183700083",
+    "title": "中해경 또 대만 최전방 섬 인근 순찰…대만해경에 경고장면 공개",
     "summary": [
-      "정부가 증시 변동성을 키우는 요인으로 지목된 단일종목 레버리지 상품에 개인별 투자한도를 설정하기로 했다.",
-      "개인의 ‘총 투자금액’ 중 단일종목 레버리지 상품 투자액을 20% 이내로 제한하는 방안이 예시로 제시됐다.구윤철 부총리 겸 재정경제부 장관은 29일 오후 정부서울청사에서 신현송 한국은행 총재, 이억원 금융위원장, 이찬진 금융감독원장, 하준경 경제성장수석과 관계기관 합동 긴급 시장상황점검회의를 열고 국내외 금융시장 동향과 대응 방향을 논의했다."
+      "(베이징=연합뉴스) 한종구 특파원 = 중국 해경이 한 달 만에 또다시 대만 관할 최전방 섬인 진먼다오(금문도) 인근 해역에서 정례 순찰을 실시했..."
     ],
     "chips": [
-      "#한은"
+      "#뉴스"
     ]
   },
   {
-    "id": "nc705a960",
+    "id": "nb8c1909b",
     "category": "사회",
-    "source": "동아일보",
-    "time": "43분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260729/134391387/1",
-    "title": "“의사보다 많이 번다”…일본 최고 연봉 직업 1위는 ‘이것’",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729008100001",
+    "title": "李대통령, 3박 4일 브라질 일정 마무리…칠레 향발",
     "summary": [
-      "일본에서 평균 연봉이 가장 높은 직업은 항공기 조종사인 것으로 나타났다.",
-      "의사와 대학 교수 등 전문직이 상위권을 차지한 가운데, 평균 연봉 1000만엔(약 8800만원)을 넘는 직종은 전체 143개 가운데 5개에 그쳤다.29일(현지 시간) 일본 매체 동양경제에 따르면 일본 후생노동성이 발표한 ‘2025년 임금구조기본통계조사’를 바탕으로 143개 직종의 추정 연봉을 분석한 결과, 항공기 조종사의 평균 연봉은 1632만엔(약 1억4500만원)으로."
+      "(상파울루=연합뉴스) 임형섭 황윤기 기자 = 이재명 대통령은 3박 4일간의 브라질 방문을 마무리하고 29일(현지시간) 다음 행선지인 칠레로 출국..."
     ],
     "chips": [
-      "#교육"
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5985320f",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260729/134391061/2",
+    "title": "[사설]‘대미투자 1호’ 텍사스 가스플랜트… 韓 기업 참여 최대한으로",
+    "summary": [
+      "한미 무역합의에 따른 ‘대미 투자 1호’ 대상으로 가스복합화력발전소 건설 사업이 유력하게 검토되고 있다고 한다.",
+      "작년 11월 한미 정상회담 결과를 담은 ‘조인트 팩트시트’(공동 설명자료)가 발표된 지 8개월 만이다.",
+      "총 2000억 달러(약 290조 원) 규모의 대미 투자 사업이 첫 시동을 거는 셈이다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "ne46ca7f0",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003727200",
+    "title": "이 대통령, 상파울루서 세 번째 순방국 칠레로 출발",
+    "summary": [
+      "[상파울루=뉴시스] 김지은 기자 = 이재명 대통령이 브라질 국빈 방문 일정을 마치고 29일(현지시간) 세 번째 순방국인 칠레로 향했다.",
+      "이 대통령과 부인 김혜경 여사, 수행단을 태운 공군 1호기는 이날 오전 상파울루 과룰류스 국제공항에서 칠레 산티아고로 이륙했다.",
+      "이 대통령은 지난 26일부터 나흘간 이어진 브라질 국빈 방문에서 루이스 이나시우 룰라 다 시우바 브라질 대통령과 정상회담을 하고 무역협정 재개와 핵심광물과 에너지, 공급망 등의 협력."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n13437262",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260729/134391065/2",
+    "title": "[사설]反헌법적 발언으로 개헌론에 찬물 끼얹은 조정식 의장",
+    "summary": [
+      "조정식 국회의장이 28일 밤 페이스북에 글을 올려 “현직 대통령의 연임은 개헌 논의 대상이 아니다”고 밝혔다.",
+      "조 의장은 ‘대통령 임기 연장 또는 중임 변경을 위한 개헌이 이뤄지더라도 당시 대통령에게는 적용되지 않는다’고 규정한 헌법 128조 2항은 존중돼야 한다며 “본의와 다르게 오해와 논란을 불러일으킨 점에 대해 유감스럽게 생각한다”고 했다.",
+      "이날 기자간담회에서 현직 대통령 연임 개헌에 대해 “국민 선택의 문제”라고 발언한 것을 두고 이재명."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n65bd63b9",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260729/134391606/2",
+    "title": "촬영장서 뇌출혈로 쓰러진 전승재, 2년 투병 끝 별세",
+    "summary": [
+      "드라마 촬영 대기 중 뇌출혈로 쓰러졌던 배우 전승재가 별세했다.",
+      "향년 47세29일 연예계에 따르면 전승재는 약 2년간의 투병 끝에 이날 세상을 떠났다.",
+      "고인의 빈소는 경기 수원시 쉴낙원경기장례식장 특3호실에 마련됐다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf5ba0c7f",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728911",
+    "title": "키움, 4시간26분 혈투 끝 승리…서건창 \"이런 경기는 처음…이겨서 다행\"",
+    "summary": [
+      "[서울=뉴시스]문채현 기자 = 프로야구 키움 히어로즈의 베테랑 타자 서건창이 한 경기 개인 최다 안타 타이기록을 세웠다.",
+      "그는 자신의 활약에 기뻐하기에 앞서 4시간 26분간 이어진 혈투에 혀를 내둘렀다.",
+      "서건창은 29일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 LG 트윈스와의 원정 경기에 1번 지명타자로 선발 출전해 6타수 5안타 2타점 3득점 1도루 맹활약을 펼쳤다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb15b9b25",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260729/134391063/2",
+    "title": "[사설]느닷없이 ‘의원 평가’ 꺼내든 장동혁, 주객이 뒤바뀌었다",
+    "summary": [
+      "국민의힘 장동혁 지도부가 소속 국회의원과 시도지사 평가 기준을 마련하기 위한 ‘선출직 공직자 평가혁신 태스크포스(TF)’를 29일 출범시켰다.",
+      "소속 선출직 공직자 전원을 대상으로 하는 평가 규칙을 새로 만들겠다고 한다.",
+      "당 안팎에서는 장동혁 대표가 2028년 23대 총선까지 염두에 두고 TF를 통해 자기 세력화에 본격적으로 나선 것이란 시각이 지배적이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6c2f4aed",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729186400007",
+    "title": "김도영 31호·오스틴 30호·힐리어드 26·27호…불붙은 홈런쇼(종합)",
+    "summary": [
+      "(서울·인천=연합뉴스) 천병혁 이대호 김동한 기자 = 프로야구 홈런레이스가 폭염만큼 뜨겁게 달아올랐다."
+    ],
+    "chips": [
+      "#KBO"
     ]
   }
 ];
@@ -641,8 +649,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
@@ -652,9 +660,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
