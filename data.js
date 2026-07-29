@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-29 16:28:33
+// 마지막 업데이트: 2026-07-29 17:26:28
 window.NEWS_DB = [
   {
     "id": "n7f676ee9",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1emtHOE9od2tsSUJFSnlfbm85VDZQLUNPTWtadHl4X3VMZnVRUU8ydXM1UUhSSmFwYkRJM1BPWkFkbVFlZmhaczlBREpjSVoyVmItX0pLZkUyb0xBaEp4LXpuZklVdGNPQVpjT1Y2UkNCc0FfdXdN?oc=5",
     "title": "엔비디아, AI로 반도체 설계까지 가속…자체 AI칩 개발 장벽도 낮춘다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n319886b4",
     "category": "IT",
     "source": "더스쿠프",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n56609ab4",
     "category": "IT",
     "source": "스타트업엔(StartupN)",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "nadcbed93",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
@@ -67,7 +67,7 @@ window.NEWS_DB = [
     "id": "n94aa4795",
     "category": "IT",
     "source": "서울Pn",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
     "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
     "summary": [
@@ -232,12 +232,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "61일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -367,10 +367,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "naf3199fb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003728929",
+    "title": "이집트서 美 소유 LNG 저장설비 드론 공격설…이집트는 부인",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 미국 소유 가스 운반선이 이집트 다미에타항에서 드론의 공격을 받았다고 해상 보안업체 엠브레이가 밝혔다.",
+      "다만 이집트 당국은 드론 공격을 받았다는 주장을 부인했다.",
+      "29일(현지시간) 아랍뉴스 등에 따르면 엠브레이는 초기 사고 평가에서 미국 소유 마셸제도 선적 '부유식 액화천연가스(LNG) 저장 시설'이 최소 1대의 드론 공격을 받았다고 보고했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ne96914f5",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "5분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153805",
     "title": "'펍지' 웃었고 '서브노티카2' 날았다...크래프톤 '프랜차이즈 IP' 승부수 적중(종합)",
     "summary": [
@@ -383,184 +399,227 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb118bcc5",
+    "id": "na005ed7d",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/30/GZSTGN3DMQ4GMM3EHE3WGNBRGM/",
-    "title": "\"감사했고, 절실했다\" 한화에서 잊혀지던 유격수→KIA 이적 후 첫 타석, 과연 무엇을 보았을까",
-    "summary": [
-      "[대구=스포츠조선 정현석 기자]승차 없는 5위로 밀리며 위기에 봉착했던 KIA 타이거즈.",
-      "29일 연패를 끊으며 반등의 발판을 마련했다.",
-      "어둠 속에서도 피어오르는 희망의 빛."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n42c60492",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/volleyball/2026/07/30/GUYDEOJRG5STCOLEMUZTOMDGGY/",
-    "title": "\"신장 188cm에 강한 공격력 갖췄다\" 흥국생명 새 에이스 되나? 드디어 입국 완료",
-    "summary": [
-      "[스포츠조선 나유리 기자]흥국생명 핑크스파이더스의 외국인 선수 옌시 킨델란(등록명 킨델란)이 29일 한국에 입국했다.",
-      "킨델란은 메디컬 테스트를 마친 뒤 8월부터 선수단에 합류해 새 시즌 준비에 본격적으로 나설 예정이다.",
-      "킨델란은 2003년생 쿠바 출신 신장 1m88의 아포짓 스파이커로, 최근 두 시즌 동안 루마니아 리그에서 활약하며 뛰어난 공격력을 선보였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n178c32e3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/30/GBRTIMBZGQ3TEZJQGU2DQMJRHA/",
-    "title": "日 유학 마치고 돌아온 김서현, 본격 실전 돌입→1이닝 무실점, 그런데…",
-    "summary": [
-      "[스포츠조선 이종서 기자] 일본 단기 유학을 마치고 돌아온 한화 이글스의 투수들이 첫 실전 점검을 했다.",
-      "한화는 지난 7일 일본 지바현 이치카와시에 위치한 넥스트 베이스볼 애슬레틱스랩에 김서현과 권민규를 파견했다.",
-      "올 시즌을 앞두고 다녀온 김진욱은 18경기에서 5승5패 평균자책점 3.19로 롯데 자이언츠의 에이스로 거듭났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd04a7df2",
-    "category": "사회",
     "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730001400071",
-    "title": "美 \"'호르무즈 보험 강매' 이란 기관 2곳 제재…IRGC의 자금줄\"",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729174652098",
+    "title": "\"FIFA, 지분매각안 승인 시한 9월 설정…협회당 580억 제안\"(종합2보)",
     "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 재무부와 국무부는 29일(현지시간) 이란이 호르무즈 해협을 통과하는 상선들에서 사실상 '통행료'를 갈..."
+      "(브뤼셀·런던=연합뉴스) 현윤경 김지연 특파원 = 월드컵 등 국제 축구 대회의 운영을 맡을 자회사를 신설, 민간에 지분을 매각하는 방안을 추진하..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n147be7c6",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "25분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/30/2026073001004390930",
-    "title": "日 강진에 반도체도 흔들…\"TSMC 생산 재개에 일정시간 소요\"",
-    "summary": [
-      "세계 최대 파운드리업체(반도체 위탁생산) 대만 TSMC가 일본 구마모토현 공장 생산을 재개하기까지 일정 시간이 소요될 것이라고 밝혔다고 교도통신이 29일 보도했다.",
-      "보도에 따르면 TSMC는 구마모토현에서 발생한 규모 7.1의 강진으로 제조장비를 재조정하는 데 일정 시간이 걸릴 것이라고 발표했다.",
-      "TSMC는 구마모토현 기쿠요마치에서 TSMC 1공장을 운영 중이다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n5ab09194",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "27분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/30/2026072918145847168",
-    "title": "'논란' 女 심판이 난투극 휘말렸다→'아찔' 뇌진탕 증세까지 \"어떻게든 버티려 했지만...\"",
-    "summary": [
-      "남자 선수들의 집단 난투극을 말리려던 여성 심판이 링 바닥에 쓰러지듯 그라운드에 넘어져 뇌진탕 증세를 보이는 불상사가 발생했다.",
-      "부상을 입은 심판은 결국 끝까지 경기를 관장하지 못한 채 교체됐다.",
-      "스포츠 전문 매체 'ESPN'은 28일(한국시간) \"메츠(프랑스)와 포르투나 시타르트(네덜란드)의 프리시즌 친선경기 중 플레이어 간의 충돌을 말리려던 여성 심판이 그라운드에 쓰러져 경기장을 떠나야 했다\"고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n422ff916",
+    "id": "n532c4b72",
     "category": "사회",
     "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728566",
-    "title": "\"땀·자외선에 더 괴롭다\"…숙면 망치는 '이 질환'",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260728_0003726578",
+    "title": "\"잠들기 4시간 전 먹지말라\"…체중 감량 넘어 기억력까지 지키는 식사법",
     "summary": [
-      "[서울=뉴시스] 류난영 기자 = 무더위와 높은 습도가 이어지는 여름철에는 아토피 피부염이 악화되기 쉽다.",
-      "아토피 피부염은 건조한 겨울철에 심해진다고 알려져 있으나, 실제 임상 현장에서는 여름철에도 증상이 악화되어 내원하는 환자들이 적지 않다.",
-      "고온다습한 환경, 과도한 땀 분비, 강한 자외선, 잦은 물놀이와 샤워 등 여름철 특유의 환경 요인이 피부 장벽을 자극하기 때문이다."
+      "[서울=뉴시스]장인혜 인턴 기자 = 하루 식사 시간을 8시간 안팎으로 제한하고 잠들기 최소 4시간 전부터 음식을 먹지 않는 식습관이 체중 감량뿐만 아니라 기억력과 문제 해결 능력 등 인지 기능 유지에도 도움을 준다는 연구 결과가 나왔다.",
+      "영국 가디언은 26일(현지 시간) 미국 러트거스대학교 연구진이 진행한 시간제한 식사 연구 결과를 보도했다.",
+      "해당 연구는 미국영양학회 연례 학술대회 '뉴트리션 2026'에서 발표됐다."
     ],
     "chips": [
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "na0b7f699",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "28분 전",
-    "url": "https://view.asiae.co.kr/article/2026072919155391571",
-    "title": "일본계 보험회사 솜포, 2027년부터 PGA 투어 대회 개최",
-    "summary": [
-      "일본계 보험회사 솜포가 2027년부터 미국프로골프(PGA) 투어를 후원한다.",
-      "PGA 투어는 29일(한국시간) 솜포와 다년간의 신규 파트너십을 체결했다고 발표했다.",
-      "솜포를 후원사로 받아들여 내년 7월 미국 캘리포니아주 내파에서 대회를 개최한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf5b03303",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728545",
-    "title": "\"로봇 선생님이라더니\"…제작사가 '리얼돌' 업체 인수? 美 고교 발칵",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 강건우 인턴기자 = 미국의 한 고등학교가 인공지능(AI) 기반 인간형 로봇을 교실에 도입하는 시범사업을 추진하면서 논란이 일고 있다.",
-      "로봇 제작사가 과거 성인용 인형 이른바 리얼돌 업체를 인수한 이력이 알려지면서다.",
-      "영국 일간 가디언은 지난 26일(현지 시간) 미국 뉴욕주 살라망카 고등학교가 올해 가을부터 인간형 로봇 ‘샐리(Sally)’를 활용한 시범 프로그램을 진행할 예정이라고 보도했다."
-    ],
-    "chips": [
-      "#AI",
       "#교육"
     ]
   },
   {
-    "id": "n84d1b4b8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730001000087",
-    "title": "두 달여 앞둔 브라질 대선…룰라 여론조사서 선두",
+    "id": "nd8e0f8ee",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/30/MEYTGZRTGA4WCYJQMI3WINBSMQ/",
+    "title": "'이런 선수가 왜 방출됐나' 오기 전 꼴찌 → 4위 기적이 일어났다",
     "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 브라질 대선을 두 달여 앞두고 진행된 여론조사에서 통산 4선에 도전하는 루이스 이나시우 룰라 다시우바 ..."
+      "[스포츠조선 나유리 기자]그저 우연의 일치일까.",
+      "키움 히어로즈가 외국인 타자 효과를 톡톡히 보고있다.",
+      "'이적생' 맷 데이비슨의 존재감이 확실하다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd7a19e31",
+    "id": "n849ecd92",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730001700079",
-    "title": "[속보] \"이집트서 美 운영 LNG 저장설비 무인기 피격\"",
-    "summary": [],
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730001752079",
+    "title": "英 앰브리 \"이집트서 美 소유 LNG 저장설비 무인기 피격\"(종합)",
+    "summary": [
+      "(카이로·런던=연합뉴스) 김상훈 김지연 특파원 = 이집트의 지중해 다미에타 항구에 있는 미국 소유 액화천연가스(LNG) 저장 설비가 드론(무인기..."
+    ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncbc36bc4",
+    "id": "nf7e59980",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/30/MUYDGNJVHEYTIOJTMJRDAMDFGQ/",
+    "title": "이집트서 美 소유 LNG 저장선 드론 피격… 선박 2척 화재",
+    "summary": [
+      "이집트 지중해 연안의 다미에타항에 정박해 있던 미국 소유 액화천연가스(LNG) 부유식 저장·재기화설비(FSRU)가 드론 공격을 받은 것으로 전해졌다.",
+      "피격된 선박에서 발생한 불은 인근 선박으로 번졌으나 인명 피해는 발생하지 않았다.",
+      "로이터통신은 29일(현지시각) 영국 해양보안업체 앰브리의 초기 분석을 인용해 다미에타항의 가스 저장선이 드론에 피격됐다고 보도."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb43a5e00",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260730/134391903/1",
+    "title": "“음주만큼 해롭다”…간 건강 위협하는 의외의 주범은 ‘설탕’",
+    "summary": [
+      "간 건강을 위협하는 주 원인으로 술 외에도 설탕이 있다는 전문가의 경고가 나왔다.지난 23일(현지시간) 미국 뉴욕타임스는 과한 설탕 섭취가 간 건강에 해를 끼치는 습관이라고 보도했다.간은 혈액을 걸러내고, 혈당 수치를 유지하는 등 신체 건강에서 중요한 역할을 수행한다.",
+      "지방이 간에 축적되는 ‘지방간’이 발생할 경우 염증과 흉터를 유발하고, 간경변 등 심각한 질환을 유발할 수 있다.",
+      "오랫동안 지방간의 주요 원인으로는 술이 지목됐고, 실제로 전문가."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n1f678718",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260730/134391900/1",
+    "title": "‘5회 9득점’ 키움, 18-11로 LG 격파…서건창, 3324일 만에 5안타",
+    "summary": [
+      "프로야구 키움 히어로즈가 4시간 26분간의 난타전 끝에 전날 패배를 설욕, 갈 길 바쁜 LG 트윈스를 잡았다.키움은 29일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 LG와의 원정 경기에서 18-11 대승을 거뒀다.",
+      "전날(28일) 패배를 설욕한 최하위 키움은 시즌 36승(2무 61패)째를 기록했다.",
+      "3위 LG는 연승을 이어가지 못하고 시즌 54승 42패를 기록했다.키움 선발 하영민은 3⅔이닝 10피안타(1홈런) 7실점으로 크게 부진했으."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc9bf1909",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260730/134391897/1",
+    "title": "트럼프 ‘이란 두들겨 팰 것’ 발언에 국제 유가 급등…브렌트유 7% ↑",
+    "summary": [
+      "미국과 이란간 긴장이 고조되면서 29일(현지시간) 국제 유가가 급등했다.CNBC에 따르면 이날 오전 9시56분 기준 9월 인도분 브렌트유 선물은 ICE선물거래소에서 이날 전장 대비 6.04달러(7.18%) 상승한 배럴당 90.13달러에 거래되고 있다.9월 인도분 미국 서부텍사스산원유(WTI) 선물은 뉴욕상품거래소에서 전장 대비 5.58달러(7.04%) 오른 배럴당 84.84달러에 거래 중이다.CNBC는 도널드 트럼프 미국 대통령이 이란의 요르단."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n07619e6e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260730/134391894/1",
+    "title": "성수대교 단차 점검한 오세훈 “검증 결과 투명하게 공개”",
+    "summary": [
+      "오세훈 서울시장이 29일 오후 성수대교 남단 연결 램프 단차 발생 구간 현장 시험 진행 상황을 직접 확인했다.오 시장은 성수대교 남단 연결 램프 현장에서 그간의 조치 현황과 단차 발생 구간 안전 관리 대책을 보고 받은 뒤 외부 구조·토질 분야 전문가가 참여한 현장 시험 진행 상황을 직접 살폈다.이날 시험은 아스팔트 포장을 제거한 뒤 지반 상태, 지지력 등을 확인하는 방식으로 진행됐다.",
+      "현재까지 교량 구조 안전성에는 이상이 없는 것으로 확인됐지만."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd76a86f6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "36분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003728925",
+    "title": "FIFA, '월드컵 운영 자회사' 추진 논란…트럼프 사위 일가 관여",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 국제축구연맹(FIFA)이 월드컵 등 국제 축구 대회 운영을 맡을 자회사를 신설하고 민간에 자회사 지분을 일부 매각하는 계획을 세워 반발을 사고 있다.",
+      "잔니 안판티노 FIFA 회장이 주도하는 이 계획은 도널드 트럼프 미국 대통령 사위 재러드 쿠슈너의 형제인 조슈아 쿠슈너가 설립한 트라이브 캐피털이 뒷받침하고 있다고 CNBC는 전했다.",
+      "인판티노 회장은 트럼프 대통령과 밀접한 관계로 알려져 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0a879bd5",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730000900072",
-    "title": "캐나다 산불 여전히 890건…G7 중 유일하게 전담 대응기구 없어",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260729173051055",
+    "title": "'허위사실 공표 혐의' 이원택 전북지사 소환 조사…혐의 부인(종합)",
     "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 캐나다가 역대 최악의 산불 사태에 직면했지만, 연방정부 차원의 산불 대응 전담 기구가 없어 통합 대응에 한계..."
+      "(전주=연합뉴스) 정경재 나보배 김문경 기자 = 6·3 지방선거 더불어민주당 당내 경선을 앞두고 허위 사실을 공표한 혐의 등으로 고발된 이원택 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n43e1cb86",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/sports/golf/2026/07/30/GU2TIOJTMZTDIZDBMJQWMYTEMI/",
+    "title": "'해체 위기' LIV골프, 결국 시즌 최종전마저 취소…결국 역사 속으로 사라지나",
+    "summary": [
+      "[스포츠조선 박상경 기자] 결국 LIV골프는 역사 속으로 사라지는 걸까.",
+      "미국 매체 프런트오피스스포츠(FOS)는 29일(한국시각) 소식통 발언을 인용해 '내달 말 디트로이트 세인트 존스 리조트의 더 카디널에서 개최될 예정이었던 LIV골프 팀 챔피언십 미시간이 취소될 예정'이라고 전했다.",
+      "이 대회는 LIV골프 한 시즌을 마감하는 대회다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7344bab7",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730002500087",
+    "title": "네이마르, 브라질 대표팀서 은퇴…\"나의 시간 끝나\"",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 브라질 축구의 간판 공격수 네이마르(34·산투스)가 대표팀 은퇴를 선언했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n10f79d36",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "56분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003727958",
+    "title": "\"아기가 거의 다 먹었는데\"…시판 이유식서 플라스틱 조각 나와",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 이지윤 인턴기자 = 시판 이유식에서 플라스틱 이물질이 발견됐다는 부모의 사연이 온라인에 올라오면서 영유아 식품 안전을 둘러싼 우려가 커지고 있다.",
+      "지난 28일 한 사회관계망서비스(SNS)에는 \"시판 이유식에서 플라스틱이 나왔다\"는 내용의 글이 올라왔다.",
+      "작성자 A씨는 \"너무 화가 난다\"며 \"아기가 이유식을 거의 다 먹은 뒤 플라스틱을 발견했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n641f9ee9",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202607304299i",
+    "title": "기아,9,4000억 투자…멕시코산 EV3로 북미 공략",
+    "summary": [
+      "기아,9,4000억 투자…멕시코산 EV3로 북미 공략."
     ],
     "chips": [
       "#뉴스"
@@ -570,7 +629,7 @@ window.NEWS_DB = [
     "id": "n7bf98c34",
     "category": "경제",
     "source": "한국경제",
-    "time": "42분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202607304284i",
     "title": "외환전문가들 \"연준 금리동결시 달러값 하락 압력커질 것\"",
     "summary": [
@@ -578,68 +637,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
-    ]
-  },
-  {
-    "id": "n1cbed61f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "47분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/30/2J2BTZNEVRDEXO43CU4T5VTUWM/",
-    "title": "伊 축구 “다시 만치니”",
-    "summary": [
-      "伊 축구 “다시 만치니”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n81a6681a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "53분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003728924",
-    "title": "러, 젤렌스키 주장 일축…\"애국자 충분…추가 동원 필요 없어\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 러시아 고위 안보 당국자는 러시아가 최대 50만명 규모 2차 동원령을 내릴 것이라는 볼로디미르 젤렌스키 우크라이나 대통령의 주장을 일축했다.",
-      "29일(현지시간) 러시아 일간 코메르산트에 따르면 드미트리 메드베데프 러시아 국가안보회의 부의장은 계약병을 통해 러시아군 병력을 충원하기 위한 방안을 논의하기 위해 전날 열린 국가안보회의 산하 부처간 위원회 회의에서 이같이 밝혔다.",
-      "회의 참석자인 아르템 조가 우랄연방관구 전."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n38527681",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "58분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260729/134390376/2",
-    "title": "지방銀 中企연체율 11년만에 최고… ‘K자 양극화’ 심화",
-    "summary": [
-      "전북 익산시에서 10년 이상 첨단 농장(스마트팜)을 운영하는 조모 씨(48)는 초기 설비 투자를 위해 받은 은행 대출 이자가 올라 부담이 크다.",
-      "조 씨는 “국제유가 상승으로 기름값, 운영비가 크게 올랐는데 이자 내느라 신규 설비 투자는 엄두도 못 내고 있다”고 하소연했다.",
-      "지방 기업들의 자금줄 역할을 하는 5개 지방은행의 중소기업 연체율이 11년 3개월 만에 가장 높은 수준인 것으로 나타났다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nd22e147f",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "58분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260729/134390393/2",
-    "title": "‘상장 대박’ 中 CXMT, 주식 8조 인센티브로",
-    "summary": [
-      "상장 직후 단숨에 중국 증시 시가총액 1위에 오른 중국 최대 D램 업체 창신메모리테크놀로지(CXMT)의 주이밍 회장이 직원들에게 약 8조2000억 원을 지급한다.",
-      "27일(현지 시간) 블룸버그통신에 따르면 주 회장은 5월 기업공개(IPO) 신청서에서 자신이 보유한 주식 가운데 40% 상당인 7억6790만 주를 직원 인센티브로 출연하겠다고 했다.",
-      "상장 첫날 주가 급등으로 이 주식 가치는 56억 달러(약 8조2057억 원)에 달한다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -649,20 +646,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
