@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-29 21:17:45
+// 마지막 업데이트: 2026-07-29 22:18:06
 window.NEWS_DB = [
   {
     "id": "n7f676ee9",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1emtHOE9od2tsSUJFSnlfbm85VDZQLUNPTWtadHl4X3VMZnVRUU8ydXM1UUhSSmFwYkRJM1BPWkFkbVFlZmhaczlBREpjSVoyVmItX0pLZkUyb0xBaEp4LXpuZklVdGNPQVpjT1Y2UkNCc0FfdXdN?oc=5",
     "title": "엔비디아, AI로 반도체 설계까지 가속…자체 AI칩 개발 장벽도 낮춘다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n319886b4",
     "category": "IT",
     "source": "더스쿠프",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n56609ab4",
     "category": "IT",
     "source": "스타트업엔(StartupN)",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "nadcbed93",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
@@ -67,7 +67,7 @@ window.NEWS_DB = [
     "id": "n94aa4795",
     "category": "IT",
     "source": "서울Pn",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
     "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
     "summary": [
@@ -203,12 +203,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "49일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -247,12 +247,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "78일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -262,12 +262,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "테크M",
+    "source": "techm.kr",
     "time": "119일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
     ],
     "chips": [
       "#KBO"
@@ -290,12 +290,12 @@ window.NEWS_DB = [
   {
     "id": "nef414906",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "161일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
     "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
     "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 yna.co.kr."
+      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
     ],
     "chips": [
       "#채용",
@@ -319,10 +319,275 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n854f72c0",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260730/134392007/1",
+    "title": "“선수·관중 안전이 최우선”…계속되는 폭염에 프로축구 K리그도 긴장",
+    "summary": [
+      "당분간 전국 대부분 지역에 무더위가 계속해서 이어질 거로 예고된 가운데, 프로축구 K리그도 안전에 집중하고 있다.30일 현재 하나은행 K리그1 2026은 20라운드까지 진행됐다.",
+      "K리그2는 오는 주말 19라운드를 치를 예정이다.승강 플레이오프 등을 포함하면 1부, 2부 모두 절반 이상의 일정을 소화한 셈이다.라운드가 하프라인을 넘은 만큼 선수단의 체력 관리가 화두인 시점인데, 날씨까지 예년보다 더 더워 쉽지 않은 시즌을 치르는 중이다.최근 선수."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea163e07",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260730/134392004/1",
+    "title": "100원 모자라 양념장 추가했더니…“마진 20원 남는다” 고객에 쪽지 쓴 업주",
+    "summary": [
+      "배달 앱의 최소 주문 금액을 맞추기 위해 메뉴에 등록된 추가 옵션을 주문한 고객이 사장으로부터 “마진이 남지 않는다”는 취지의 항의성 쪽지를 받아 논란이 일고 있다.최근 각종 온라인 커뮤니티와 SNS(소셜네트워크서비스)에서 한 막국수 전문점에서 전달받은 사장의 메모 사진과 사연이 공유되며 누리꾼들의 공분을 사고 있다.고객 A씨는 배달 앱을 통해 물막국수와 왕만두를 주문했다.",
+      "주문 합계 금액이 1만1900원이 나오자, 해당 가게가 설정한 최소 주."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3a411fce",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/07/30/GCWLDVYZBZEPHEM6WNIYQMKA6Q/",
+    "title": "“1시간 30달러” 집 안에 들어온 ‘미완성’ 청소 휴머노이드",
+    "summary": [
+      "“1시간 30달러” 집 안에 들어온 ‘미완성’ 청소 휴머노이드."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ad7d22e",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/30/GVTDSZRSGJSWCM3GGZTDQOLCMU/",
+    "title": "美 30년물 국채 금리 5.2%대 돌파… 19년 만에 최고치",
+    "summary": [
+      "미국 30년 만기 장기 국채 금리가 29일(현지시각) 연 5.2%를 돌파하며 2007년 7월 이후 19년 만에 최고치로 치솟았다.",
+      "이날 미국 연방준비제도(연준)가 기준금리를 동결했지만, 다수 위원이 인상을 강력히 주장하며 통화 긴축 경계감이 시장을 강타한 여파로 풀이된다.",
+      "전문가들은 물가 상승(인플레이션) 장기화 우려가 채권 투매를 부추기면서 주택 담보 대."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n4f1781ca",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/30/2026073006352718968",
+    "title": "\"월드컵 보이콧 가능성도\" FIFA 월드컵 자회사 신설 깜짝 계획에 전 세계 축구계 반발",
+    "summary": [
+      "월드컵 등 국제 축구대회 운영을 맡을 자회사를 신설하고 민간에 자회사 지분을 일부 매각하려는 국제축구연맹(FIFA) 시도에 전 세계 축구계가 거세게 반발하고 있다.",
+      "FIFA는 자신들의 계획을 지지하는 회원국 축구협회와 그렇지 않은 축구협회에 대한 지원금에 엄청난 차이가 날 것이라는 사실상 협박성 메시지까지 더했지만, 유럽축구연맹(UEFA)을 중심으로 내년 여자 월드컵 보이콧 가능성까지 제기되고 있다.",
+      "29일(한국시간) 디애슬레틱, dpa통신 등."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea112d46",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003727359",
+    "title": "남편이 같은 학교 학부모와 '외도'…상간녀에 \"동네 떠나라\" 가능할까",
+    "summary": [
+      "[서울=뉴시스]김수빈 인턴 기자 = 남편의 외도 상대가 아들과 같은 학교에 다니는 학생의 엄마였다는 사연이 전해졌다.",
+      "29일 YTN 라디오 '조인섭 변호사의 상담소'에 따르면 중학생 아들을 둔 여성 A씨는 \"남편의 바람 상대가 다름 아닌 제 아들과 같은 학교에 다니는 학생의 엄마였다\"며 \"학교 공개수업에 가도 그 여자가 제 앞에 앉아 있었고, 학원 설명회에서도 어김없이 마주쳐야 했다\"고 토로했다.",
+      "이어 \"집안 분위기를 눈치챈 아이가 불안 증세를."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n627b96b8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/30/MM4DAZLDME3TIOBWMVSTGZBWGU/",
+    "title": "자레드 레토, ‘미성년자 성폭행 및 성추행’ 충격 폭로 터졌다 [Oh!llywood]",
+    "summary": [
+      "[OSEN=최이정 기자] 할리우드의 유명 배우이자 밴드 '서티 세컨즈 투 마스(Thirty Seconds to Mars)'의 프론트맨인 자레드 레토(54)가 미성년자를 포함한 복수의 여성들로부터 성폭행 및 성추행을 당했다는 폭로가 나와 전 세계 연예계에 거대한 충격을 안기고 있다.",
+      "이에 대해 자레드 레토 측은 관련 의혹을 전면 부인하며 강경한 입장을 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e64477a",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026072915190826092",
+    "title": "코르티스·캣츠아이도 역부족…\"하이브, 억울한 평가절하\"[클릭 e종목]",
+    "summary": [
+      "삼성증권은 30일 하이브에 대해 투자의견 매수를 유지하고 목표주가를 33만원에서 28만원으로 하향했다.",
+      "최민하 삼성증권 연구원은 \"단기 주가 변동성이 커진 상황에서 올해부터 내년까지 수익성 전망치를 보수적으로 하향해 목표주가를 15% 낮추나 성장 스토리는 유효하다고 판단해 투자의견 매수는 유지한다\"고 말했다.",
+      "최 연구원은 올해 2분기 하이브의 실적이 시장 기대치를 상회했다고 강조했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n171af067",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/30/GM2DCOBYGM3DQZTDG5RWCMJXMI/",
+    "title": "1이닝 10실점→1이닝 9실점, 필승조 투입해도 대참사…176홀드 베테랑도, 153km 사이드암도 버티지 못하다",
+    "summary": [
+      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스 마운드 또다시 대참사를 당했다.",
+      "LG는 29일 잠실구장에서 열린 키움 히어로즈와 경기에서 11-18로 패배했다.",
+      "마운드는 무려 23안타를 얻어맞았다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf4edf578",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026072914555170834",
+    "title": "SK하이닉스, 목표주가 420만원→280만원…그래도 ‘매수’ 외친 이유는[클릭e종목]",
+    "summary": [
+      "미래에셋증권은 30일 SK하이닉스에 대해 낸드플래시 계약가격 하향 가능성과 중국 노광기 국산화 이슈를 반영해 목표주가를 기존 420만원에서 280만원으로 33% 하향 조정했다.",
+      "투자의견은 '매수'를 유지했다.",
+      "김영건 미래에셋증권 연구원은 이날 보고서에서 \"중국 이슈가 2028년까지의 실적 추정치에 미칠 영향은 제한적이라는 판단하에 목표 배수만 하향했다\"며 \"업계 전반의 주가 하락에 따라 목표 주가순자산배수(P/B)를 4.6배."
+    ],
+    "chips": [
+      "#SK하이닉스",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n317c171c",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026072907305446242",
+    "title": "5년간 26배 성장…'중국판 아크테릭스' 코오롱스포츠, 中매출 1조 돌파",
+    "summary": [
+      "코오롱인더스트리FnC의 아웃도어 브랜드 코오롱스포츠가 처음으로 올해 상반기 중국에서 매출 6000억원을 넘어선 것으로 예상된다.",
+      "지난해 코오롱인더스트리FnC부문의 상반기 매출을 웃도는 규모다.",
+      "50여년간 축적한 아웃도어 헤리티지와 상품 경쟁력을 앞세워 프리미엄 시장을 공략한 전략이 통했다는 분석이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2936e31e",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/30/2026073006591549466",
+    "title": "메타, 순이익 예상치 미달…자본지출은 또 상향, 시간외 주가 10% 급락",
+    "summary": [
+      "메타 플랫폼스가 29일(현지시간) 장 마감 후 시장 예상에 못 미치는 올 2분기 순이익과 올 3분기 매출액 가이던스를 제시하고 올해 자본지출 전망을 또 다시 상향 조정하면서 시간외거래에서 주가가 10% 가까이 하락하고 있다.",
+      "메타는 이날 장 마감 후 올 2분기 주당순이익(EPS)이 6.18달러로 집계됐다고 밝혔다.",
+      "이는 전년 동기 7.14달러에 비해 줄어든 것으로 팩트셋이 애널리스트들을 대상으로 조사한 전망치 7.19달러에도 미달하는 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n446de5d3",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003728975",
+    "title": "매파적 금리 동결 택한 美 연준…한은, 백투백 인상 나설까",
+    "summary": [
+      "[서울=뉴시스]김래현 기자 = 미국 연방준비제도(Fed·연준)가 목표 수준을 웃도는 물가 상승률에 '매파적 동결'을 선택했다.",
+      "한국은행도 인플레이션 우려가 완화되지 않으면 다음달 곧바로 추가 금리 인상에 나설 수 있을 것으로 보인다.",
+      "연준은 28~29일(현지 시간) 열린 연방공개시장위원회(FOMC) 회의에서 기준금리를 연 3.50~3.75%로 동결했다."
+    ],
+    "chips": [
+      "#금리",
+      "#한은"
+    ]
+  },
+  {
+    "id": "nbbb6f844",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730009151072",
+    "title": "워시 \"인플레이션 목표는 2%뿐…마법지팡이 없어\"(종합)",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장은 29일(현지시간) 인플레이션을 단번에 해결할 '마법지팡이(..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n61a23acd",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730020000004",
+    "title": "강남구, 재건축 '신속추진 전문가 지원단' 출범",
+    "summary": [
+      "(서울=연합뉴스) 정준영 기자 = 서울 강남구(구청장 김현기)는 재건축 사업의 갈등을 줄이고 행정절차를 당기기 위해 전문가 41명으로 구성한 '..."
+    ],
+    "chips": [
+      "#재건축"
+    ]
+  },
+  {
+    "id": "n3ed98d42",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003728979",
+    "title": "보령 주포면서 공장 화재…1000만원 재산피해",
+    "summary": [
+      "[보령=뉴시스]최영민 기자 = 30일 오전 1시께 충남 보령시 주포면 관산리의 한 공장에서 화재가 발생했다.",
+      "보령소방서 등에 따르면 불이 나자 현장에 있던 작업자 2명은 곧장 대피해 다행히 인명피해는 발생하지 않았다.",
+      "불은 집진기 설비 일부를 태운 후 1000여만원의 재산피해를 냈으며 1시간여가 지난 오전 2시 2분께 꺼졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne8bb78f1",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026072916192168026",
+    "title": "한국 어린이 예방접종률 '세계 최고 수준'",
+    "summary": [
+      "우리나라 어린이 국가예방접종률이 해외 주요 국가보다 높은 수준을 유지하는 것으로 나타났다.",
+      "특히 6세 완전접종률은 90.5%로 2018년 통계 작성 이후 가장 높았다.",
+      "질병관리청은 30일 이러한 내용을 담은 '2025년 전국 어린이 예방접종률 현황'을 발표했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
     "id": "n643356d7",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "13분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153808",
     "title": "[가봤다] 퇴근 시간 강남에 모인 iOS 개발자들...따라가봤더니",
     "summary": [
@@ -335,296 +600,50 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n513881a6",
-    "category": "사회",
+    "id": "n4363cb24",
+    "category": "부동산",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003728958",
-    "title": "[속보] 파키스탄 북부서 검문소 공격에 경찰 7명 피살",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003728957",
+    "title": "'개발업자' 트럼프, 백악관·개선문 이어 공항 재건축 발표",
     "summary": [
-      "[서울=뉴시스] 차미례 기자 = 파키스탄 북부 키베르 파크툰크와 주의 한 경찰 검문소에서 무장 괴한들의 습격으로 경찰관 7명이 죽고 여러 명이 부상 당했다고 경찰이 29일 밤(현지 시간) 발표했다.",
-      "◎공감언론 뉴시스 cmr@newsis.com."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 부동산 개발업자 출신인 도널드 트럼프 미국 대통령이 29일(현지 시간) 새로운 워싱턴DC 건설 프로젝트를 발표했다.",
+      "백악관 무도회장 신축, 개선문 건립에 이어 이번에는 인근 국제공항 재건축이다.",
+      "트럼프 대통령은 이날 백악관 집무실에서 약 225억 달러(약 31조원) 규모의 워싱턴 덜레스국제공항 재건축을 추진한다고 밝혔다."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n26784b99",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260730/134391988/1",
+    "title": "뉴욕시장 ‘비거주 고가주택 보유자’ 명단 전격 공개…증세 드라이브",
+    "summary": [
+      "미국 뉴욕시가 고가 ‘세컨드 하우스(임시거처·별장)’를 소유한 부유층 명단을 대거 공개하며 증세 드라이브를 걸었다.",
+      "부유층 증세를 통한 주택 가격 안정화와 세수 확대를 핵심 공약으로 내세워 당선된 ‘민주 사회주의자’ 조란 맘다니 뉴욕시장이 추진하는 주요 세제 개혁 방안 중 하나다.28일(현지시간) 월스트리트저널(WSJ) 보도에 따르면, 맘다니 행정부는 최근 시장 가치 500만 달러(약 72억 원) 이상인 시내 세컨드 하우스 96만 건의 정보를."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb8d1b3db",
+    "id": "n4a0fc989",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728362",
-    "title": "'상미당 정신' 허영인 회장, 상생 뿌리 내리고 글로벌 도약 이끌어",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260723198100065",
+    "title": "[인천 새출발] 김진규 검단구청장 \"재정 조속확충…최우선과제는 교육\"",
     "summary": [
-      "[서울=뉴시스] 이혜원 기자 = 허영인 상미당홀딩스 회장이 창업주 고(故) 허창성 명예회장으로부터 이어받은 '상미당 정신'을 바탕으로 나눔과 상생, 글로벌 도약을 동시에 견인하고 있다.",
-      "청년 장학사업과 장애인 제빵교육, 푸드뱅크 지원 등 사회공헌을 꾸준히 확대하고, 파리바케뜨를 앞세워 세계 15개국에서 750여개 매장을 통해 'K-베이커리' 영토를 넓히고 있다.",
-      "30일 업계에 따르면 상미당홀딩스는 1998년 푸드뱅크 사업 참여를 계기로 사회공헌."
+      "(인천=연합뉴스) 천정인 기자 = 김진규 인천 검단구청장은 30일 \"구민들이 분구로 인한 행정서비스의 변화를 체감할 수 있도록 차근차근 기반을 ..."
     ],
     "chips": [
       "#교육"
-    ]
-  },
-  {
-    "id": "nf58d85e0",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/29/G4YTEOLBGRTGKZJSMI2TAYZTMQ/",
-    "title": "\"韓 축구 초대형 호재!\" '빅 클럽' 리버풀이 지켜본다는 이한범, '스텝 업' 기회 임박…'벨기에 명문' 주요 영입 후보→'선수 본인도 이적 가능성 시사'",
-    "summary": [
-      "[스포츠조선 김가을 기자]'제2 김민재' 이한범(미트윌란)의 '스텝 업'이 임박했다.",
-      "유럽 이적 시장에 정통한 사샤 타볼리에리 기자는 28일(이하 한국시각) 개인 계정을 통해 '클럽 브뤼헤(벨기에)가 이한범 영입에 박차를 가하고 있다.",
-      "대한민국 수비수 이한범은 미트윌란과 협상을 진행 중인 클럽 브뤼헤의 주요 영입 후보다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd2f10cc4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003728955",
-    "title": "'기온 36도' 전남광주 폭염특보 지속",
-    "summary": [
-      "[전남광주=뉴시스]류형근 기자 = 전남광주지역은 폭염특보가 유지되면서 매우 덥겠다.",
-      "30일 광주기상청에 따르면 전남광주지역은 북태평양고기압의 영향을 받아 오후 기온이 36도까지 오르겠으며 밤에도 25도 이상이 유지돼 열대야가 나타나겠다.",
-      "광주·담양·장성·보성·여수·광양·순천·장흥·강진·영암·흑산도·홍도·나주동남부·곡성·고흥·해남북부·완도(여서도 제외)·무안북부지역은 기온이 35도 이상이 이틀연속 지속돼 폭염경보가 내려졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1ee9a2ec",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/30/MU2WGOJXGNSGKYZYG43GCNJZG4/",
-    "title": "박지성, 한국 축구에 일침 “감독 선출부터 매끄럽지 못해···경기 보며 속상해”(‘유퀴즈’)[순간포착]",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘유퀴즈 온 더 블럭’ 축구 혁신위원장 박지성이 북중미 월드컵과 관련해 일침을 가했다.29일 방영된 tvN ‘유퀴즈 온 더 블럭’(이하 ‘유퀴즈’)에서는 축구 혁신위원장 박지성이 등장했다.",
-      "이번 북중미 월드컵과 관련해 이영표, 박주호까지 혁신위원으로 나서면서 박지성은 위원장을 맡아."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n72e520f5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730014500064",
-    "title": "충북, 가끔 구름 많고 무더위 지속…낮 최고 32∼35도",
-    "summary": [
-      "(청주=연합뉴스) 전창해 기자 = 목요일인 30일 충북은 가끔 구름이 많고 무더운 날씨가 이어지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na94a874b",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003728948",
-    "title": "美 30년 만기 국채 수익률 5.2%대 급등…2007년 이후 최고",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미국 연방준비제도(Fed·연준)가 29일(현지시간) 기준금리를 동결한 이후 30년 만기 미국 국채 수익률이 5.2%를 돌파했다.",
-      "CNBC에 따르면 30년 만기 미국 국채 수익률은 10.5bp(1bp=0.01%p) 상승해 5.201%를 기록했다.",
-      "장중에는 5.244%까지 치솟아 2007년 7월 이후 최고치를 기록했다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "ne01d9ade",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729173900008",
-    "title": "[코스피·코스닥 전 거래일(29일) 주요공시]",
-    "summary": [
-      "[코스피·코스닥 전 거래일(29일) 주요공시]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfdb2cbd6",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/30/MM4TQNZZME2TMNZYME4DKMTCGE/",
-    "title": "박지성, ♥김민지와 결혼 후 미모 꽃 폈다(‘유퀴즈’)[순간포착]",
-    "summary": [
-      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] ‘유퀴즈 온 더 블럭’ 축구 혁신위원장 박지성이 뒤늦게 피어난 미모에 대해 쑥스러운 듯 해명했다.29일 방영된 tvN ‘유퀴즈 온 더 블럭’(이하 ‘유퀴즈’)에서는 한국 축구의 발전을 위해 축구 혁신위원장 박지성이 등장했다.",
-      "박지성은 “신뢰를 잃었다고 생각한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a9a4341",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730014400056",
-    "title": "제주, 무더위 이어져…낮 최고기온 32∼34도",
-    "summary": [
-      "(제주=연합뉴스) 박지호 기자 = 30일 제주에는 무더위가 이어지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n64d276c8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730012251091",
-    "title": "메타, 주당이익 기대치 미달에 주가↓…현금흐름도 90% 급감(종합)",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 페이스북·인스타그램 운영사 메타가 시장 기대치에 못 미치는 주당순이익(EPS)과 3분기 전망치를 내놓..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7aa899e9",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729144800003",
-    "title": "국토부, 스마트도시 포털 개편…지자체·기업 온라인 매칭 지원",
-    "summary": [
-      "(세종=연합뉴스) 오진송 기자 = 국토교통부는 지방정부와 기업이 스마트도시 사업 파트너를 온라인에서 쉽게 찾을 수 있도록 '스마트도시 종합포털'..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n78e3e6c0",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "17분 전",
-    "url": "https://www.hankyung.com/article/2026072938691",
-    "title": "\"삼전닉스 충분히 조정받아…올해 들어 첫 매수구간 진입\"",
-    "summary": [
-      "\"삼전닉스 충분히 조정받아…올해 들어 첫 매수구간 진입\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na4d02a7b",
-    "category": "스포츠",
-    "source": "연합뉴스(경제)",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729156800030",
-    "title": "중기부, '사회혁신 소셜벤처 리그' 공모…최대 1억5천만원 지원",
-    "summary": [
-      "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부는 혁신적인 아이디어를 보유한 창업가를 발굴하기 위해 '모두의 창업: 사회혁신 소셜벤처 리그' 도..."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n90afbf76",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729159800002",
-    "title": "반도체 호황에 제조업 체감경기 4년 1개월 만에 최고",
-    "summary": [
-      "(서울=연합뉴스) 임지우 기자 = 반도체 경기 호황 등에 제조업 체감 경기가 4년여 만에 최고를 기록했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n874b5ee3",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "17분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/30/3V2UYJBERZCLDHDMYFTYT5QWUU/",
-    "title": "[비즈톡톡] 中, DUV 기술 자립 성공했지만… 14나노 이하 공정은 여전히 ‘벽’",
-    "summary": [
-      "[비즈톡톡] 中, DUV 기술 자립 성공했지만… 14나노 이하 공정은 여전히 ‘벽’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00b78af6",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "17분 전",
-    "url": "https://www.hankyung.com/article/202607292298i",
-    "title": "다이소, 이런 것도 판다고?…'5000원' 신제품에 관심 폭발 [권 기자의 장바구니]",
-    "summary": [
-      "다이소, 이런 것도 판다고?…'5000원' 신제품에 관심 폭발 [권 기자의 장바구니]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n300681e3",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260729155900002",
-    "title": "가상자산사업자 과반, 부채비율 요건 미충족…생존 위기",
-    "summary": [
-      "(서울=연합뉴스) 유동현 기자 = 가상자산사업자(VASP) 과반이 다음 달 새로 도입되는 진입규제인 '부채비율 200% 이하' 기준을 충족하지 ..."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n85f711c4",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260730/134391963/1",
-    "title": "美연준 기준금리 5연속 동결…위원 3명은 “0.25%P 올려야”",
-    "summary": [
-      "미국 연방준비제도(Fed·연준)가 29일(현지 시간) 연방공개시장위원회(FOMC) 정례회의를 열고 기준금리를 3.50~3.75%로 동결했다.",
-      "올해 들어 5차례 연속 동결 결정이다.",
-      "다만 일부 위원이 금리 인상을 주장하며 반대표를 던지는 등 최근 유가 급등과 인플레이션 우려가 지속되는 상황이 FOMC 내부 분위기에 영향을 미친 것으로 전해졌다.연준은 이날 금리 동결이 FOMC 위원 12명 가운데 찬성 9표, 반대 3표의 표결로 결정됐다고 밝혔다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n8fd4592d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "52분 전",
-    "url": "https://www.hankyung.com/article/202607304344i",
-    "title": "장기물 금리 급등에 주가도 하락…\"Fed가 싸움서 물러섰다\" [Fed 워치]",
-    "summary": [
-      "장기물 금리 급등에 주가도 하락…\"Fed가 싸움서 물러섰다\" [Fed 워치]."
-    ],
-    "chips": [
-      "#금리"
     ]
   }
 ];
@@ -634,20 +653,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "금리",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "부동산",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
