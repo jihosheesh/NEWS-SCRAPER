@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-30 14:44:18
+// 마지막 업데이트: 2026-07-30 15:36:51
 window.NEWS_DB = [
+  {
+    "id": "ndddda4d0",
+    "category": "IT",
+    "source": "서울경제",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10cTNGNDh1d1Q1Q2c2SkwySTJaZkZ1TThXSk92R05kMThBQ3JNTTVVcDQ2ZnZjOHhCM2ZfVGg4TmJEd01pN0JhSHBNd0QtMXJOaEHSAVNBVV95cUxNdjhNT2duenFEemd0VkRsUE1ldmVFN3NMZk9VRWlCeWY2dEp0ckNVTDIwYURhMjZMU09PNUoxNFJXVFlFcWtBcWJvY2RqdEplaG0xMA?oc=5",
+    "title": "AI기업 5곳과 LTA 추가 협의…삼성 “파운드리도 조만간 흑자”",
+    "summary": [
+      "AI기업 5곳과 LTA 추가 협의…삼성 “파운드리도 조만간 흑자” 서울경제."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
   {
     "id": "n0c06c07a",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
@@ -34,7 +49,7 @@ window.NEWS_DB = [
     "id": "n6aa2d332",
     "category": "경제",
     "source": "Chosunbiz",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
@@ -76,12 +91,12 @@ window.NEWS_DB = [
   {
     "id": "nadcbed93",
     "category": "IT",
-    "source": "businesspost.co.kr",
+    "source": "비즈니스포스트",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
-      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 businesspost.co.kr."
+      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -103,20 +118,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
-    ]
-  },
-  {
-    "id": "nf142e3df",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3laSVpIUnppQ2Z4X3EyalNYdzhxM0JESFJfQjJNNmRuS1hCRUpURVMwUnN4QVJzVWdrQ2xZT1hiSWcyY0pNTGh4ZFBOSVctQndrbW5JeWRQWm5LRjR1Zk1iazJIWUo3WWptTm5tQ0gxaDFPLVhvaHhYcXZUMkptZzNIOA?oc=5",
-    "title": "D램 3년, HBM 4년으로 격차 좁혀… 中 반도체 추격 속도 무섭다",
-    "summary": [
-      "D램 3년, HBM 4년으로 격차 좁혀… 中 반도체 추격 속도 무섭다 조선일보."
-    ],
-    "chips": [
-      "#반도체"
     ]
   },
   {
@@ -183,12 +184,12 @@ window.NEWS_DB = [
   {
     "id": "n6b58f8f3",
     "category": "사회",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "time": "31일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
     ],
     "chips": [
       "#채용",
@@ -302,12 +303,12 @@ window.NEWS_DB = [
   {
     "id": "nbe3faaa9",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "168일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
     "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ arunews.com."
     ],
     "chips": [
       "#부동산",
@@ -381,264 +382,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n01ba69d8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730698",
-    "title": "\"러 1년만에 우크라 향해 북한제 미사일 발사한 듯\"",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 러시아가 1년여 만에 우크라이나 공습에 북한제 미사일을 사용한 것으로 보인다고 싱가포르 스트레이츠타임스(ST) 등 외신이 30일(현지 시간) 보도했다.",
-      "보도에 따르면 지난 밤사이 러시아 공격으로 우크라이나 중부 크리비리흐 마을에 미사일이 떨어져 일가족이 사망했는데, 여기에 북한 미사일이 쓰였을 가능성이 높다고 한다.",
-      "러시아는 과거에도 우크라이나에 KN-23(화성-11가), KN-24(화성-11나) 등 미사일을 발."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4427aed1",
+    "id": "nc006bcbe",
     "category": "사회",
     "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/opinion/contribution/2026/07/30/GXMNVINWBRGAZNOSLUKWCG5S7Q/",
-    "title": "[기고] 무너진 교권 살릴 열쇠, 학부모가 쥐고 있다",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/money/2026/07/31/DTWTOU6NDBBTLHDTXBVOFEHOKM/",
+    "title": "ETF 아버지 “단일종목 레버리지… 상장폐지가 아닌 ‘자연사’ 시켜야”",
     "summary": [
-      "[기고] 무너진 교권 살릴 열쇠, 학부모가 쥐고 있다."
+      "ETF 아버지 “단일종목 레버리지… 상장폐지가 아닌 ‘자연사’ 시켜야”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n36e51d93",
+    "id": "n1098ddae",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/special/announcement/2026/07/31/Z33QESIH4ZFRXPEEZW6J57KEVE/",
+    "title": "[알립니다] ‘韓·中·日 미래 인사이트 크루즈 기행’ 떠납니다",
+    "summary": [
+      "[알립니다] ‘韓·中·日 미래 인사이트 크루즈 기행’ 떠납니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne6af964b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/07/31/VJD6MAYXWBEHZNNV2XIEKSDSKU/",
+    "title": "케빈 워시 “이젠 떠먹여주는 연준 기대 말라”",
+    "summary": [
+      "케빈 워시 “이젠 떠먹여주는 연준 기대 말라”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9f00feaf",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/07/31/EBJP3G2PCJBKXBY7FBP7I4ELVQ/",
+    "title": "한화그룹, 김동관 수석부회장으로 임명",
+    "summary": [
+      "한화그룹, 김동관 수석부회장으로 임명."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c1f2e57",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730195200009",
-    "title": "뉴욕증시, 마이크로소프트 실적·반도체 강세 힘입어 상승 출발",
-    "summary": [],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "ne287260d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/30/GZTDKZDCMJTDINZWMY3TGZBWGQ/",
-    "title": "강유석, 쌀수저 자랑 “할아버지 감자·쌀 농사 지어···쌀 사먹어 본 적 없어”('언니네 산지직송')",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260730/134397317/2",
+    "title": "[단독]삼전닉스, 임원 평가-사원 채용때 ‘AI 능력’ 본다",
     "summary": [
-      "Screenshot<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] '언니네 산지직송3’ 배우 강유석이 조부 덕분에 쌀을 사 먹어 본 적이 없다고 밝혀 시선을 끌었다.30일 첫 방영한 tvN 예능 ‘언니네 산지직송3’에서는 염정아, 김선영, 강유석, 노윤서가 첫 만남을 가졌다.",
-      "산지로 떠나기 전 이들은 서로 만나 서로의 인연을 확인."
+      "삼성전자가 올해 연말 예정된 임원 평가에서 AI 전환(AX) 배점을 기존보다 최대 10배 높인 것으로 나타났다.",
+      "SK하이닉스도 신입 채용에서 자기소개서를 없애고 반나절 동안 AI·직무 역량을 검증하는 ‘반나절 심층면접’을 신설했다.",
+      "한국 시가총액 1·2위 기업이 인사평가와 신입 선발 기준으로 ‘AI 역량’을 내세우며 AX 전략에 힘을 싣는 것이다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#삼성전자",
+      "#SK하이닉스",
+      "#채용"
     ]
   },
   {
-    "id": "n87743e07",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730625",
-    "title": "투모로우바이투게더 '굿 보이 곤 배드'도 넘겼다…11번째 1억뷰 뮤비",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 그룹 '투모로우바이투게더'(TXT·투바투)의 '굿 보이 고곤 배드(Good Boy Gone Bad)' 뮤직비디오가 유튜브 조회 수 1억 회를 돌파했다.",
-      "30일 소속사 빅히트 뮤직(하이브)에 따르면, 이 뮤직비디오는 이날 오전 11시 35분께 1억 뷰를 넘어섰다.",
-      "팀 통산 11번째 1억 뷰 기록이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb0b59c2d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/30/2026073023001010614",
-    "title": "국회, '축구협회 제도 개선' 결의문 채택…\"지배구조 혁신·파벌 청산\"",
-    "summary": [
-      "[the300] 국회 문화체육관광위원회가 '대한축구협회 공공성 및 투명성 제고를 위한 제도 개선 이행 촉구 결의문'을 채택했다.",
-      "여야는 30일 서울 여의도 국회 문체위에서 열린 대한축구협회 청문회에서 축구협회 제도 개선 이행 촉구 결의문을 채택했다.",
-      "이재정 문체위원장은 \"최근 축구협회를 둘러싸고 여러 논란이 있다\"고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n608e4911",
+    "id": "nf2e1bc66",
     "category": "부동산",
     "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260730/134398329/2",
-    "title": "[사설]‘속도전’ 외친 공공택지 청약 지연 70%… 공급 병목부터 풀어야",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260730/134397332/2",
+    "title": "서울아파트 매매-전세가… 강북권 중심 상승폭 확대",
     "summary": [
-      "정부가 공공주도 주택 공급에서 속도전을 외치고 있지만 현장에서는 속도감이 아직 느껴지지 않고 있다.",
-      "사전청약까지 받은 수도권 공공택지조차 본청약이 몇 년씩 지연되는 일이 벌어진다.",
-      "입주가 기약 없이 미뤄지는 사이 당국을 믿고 청약한 당첨자들의 주거 불안도 커지고 있다."
+      "정부의 세제개편안 발표를 앞두고 서울 아파트 가격 상승폭이 2주 연속 둔화됐다.",
+      "보유세 부담이 늘어날 것이라는 전망에 강남권에서는 관망세를 보이는 등 상승세가 약해졌지만, 상대적으로 가격이 낮은 강북권은 오름폭이 확대됐다.",
+      "30일 한국부동산원이 발표한 7월 넷째 주 주간 아파트 가격 동향(27일 조사)에 따르면 서울 아파트 매매 가격은 전주(0.27%) 대비 0.25% 올랐다."
     ],
     "chips": [
-      "#뉴스"
+      "#부동산",
+      "#전세"
     ]
   },
   {
-    "id": "n198cda02",
+    "id": "n3e30f673",
     "category": "사회",
     "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260730/134398333/2",
-    "title": "[사설]1년 반 공백 메운 스틸 美대사, 동맹 현안 조율 창구 되길",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260730/134397334/2",
+    "title": "도수치료 막자 비급여 ‘신장분사치료’ 금액 3배로… 실손보험 풍선효과",
     "summary": [
-      "미셸 박 스틸 주한 미국대사가 30일 한국에 부임했다.",
-      "이로써 미국 도널드 트럼프 2기 행정부 출범 이후 1년 반 동안 이어진 주한 미국대사 공석이 해소됐다.",
-      "남편과 함께 인천공항에 도착한 스틸 대사는 “한미동맹은 세계에서 가장 강력한 동맹 중 하나”라며 “어느 때보다 강력하고, 안전하며, 번영할 것”이라고 말했다."
+      "이달부터 도수치료가 동일한 표준가격(회당 4만3850원)을 받는 관리급여로 바뀐 가운데, 유사한 비급여 치료에 대한 실손보험 청구가 크게 늘어나는 일종의 ‘풍선효과’가 나타났다.",
+      "30일 보험업계에 따르면 7개 손해보험사(메리츠·삼성·현대·KB·DB·한화·흥국)에 청구된 이달 초 8일간 하루 평균 신장분사치료 금액은 3억4500만 원으로 집계됐다.",
+      "전월 동기(1억1300만 원)와 비교하면 3배로 늘었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb4f4c51e",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730712",
-    "title": "\"고대 카르텔\" \"빵집 면접\"…여야, 청문회서 축구협회 한목소리 질타(종합)",
+    "id": "nfb1de19d",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260730/134397283/2",
+    "title": "美연준 기준금리 ‘매파적 동결’… 고물가에 9월엔 인상 가능성",
     "summary": [
-      "[서울=뉴시스]한은진 김진엽 이창환 기자 = 여야는 30일 대한축구협회 청문회에서 축구협회의 운영 문제와 홍명보 전 축구 국가대표팀 감독 선임 과정 등을 한목소리로 질타했다.",
-      "여야는 이날 국회 문화체육관광위원회 주최로 열린 축구협회 청문회에서 정몽규 전 대한축구협회장과 홍 전 감독 등을 상대로 감독 선임 과정과 협회 운영에 대해 문제를 제기했다.",
-      "임오경 더불어민주당 의원은 이날 국회 문화체육관광위원회 대한축구협회 현안 관련 청문회에서 정몽규 전."
+      "미국 연방준비제도(Fed·연준)가 29일(현지 시간) 연방공개시장위원회(FOMC) 정례회의에서 기준(정책)금리를 연 3.50∼3.75%로 5차례 연속 동결하면서도 매파적(통화 긴축 성향) 기조를 유지했다.",
+      "중동 정세 불안에 따른 국제유가 상승으로 고물가 현상이 이어지고 있어 9월 기준금리를 올릴 것이라는 관측이 우세하다.",
+      "미 연준의 매파적 기조가 이어지며 한국은행도 다음 달 혹은 10월 금융통화위원회에서 2차례 연속 기준금리 인상에 나설 것이란."
     ],
     "chips": [
+      "#금리",
+      "#한은",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n211dd3a9",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003730718",
+    "title": "국제유가, 호르무즈 재개방 가능성에 하락…브렌트유 90달러 밑으로",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 이란과 오만이 호르무즈 해협 관리를 두고 협상해 해협 재개방 가능성이 거론되면서 국제 유가는 하락세를 보이고 있다.",
+      "국제 유가 기준물인 북해산 브렌트유는 90달러 밑으로 하락했다.",
+      "30일 오후 1시 30분(현지 시간) 기준 영국 런던 ICE선물거래소에서 국제유가 기준인 브렌트유 9월 인도분 선물 가격은 전장 대비 1.42달러(1.56%) 하락한 89.32달러에 거래되고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9c9853ac",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730195400071",
+    "title": "트럼프, 최측근 정치적 유산 '러 제재 법안' 관세 무기로 삼나",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 갑자기 세상을 떠난 최측근에 대한 우정일까.",
+      "관세 권한 확보 극대화를 위한 포석일까."
+    ],
+    "chips": [
+      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "n52008001",
+    "id": "nbcf2d511",
     "category": "경제",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260730/134398331/2",
-    "title": "[사설]“마법 지팡이는 없다”… 곧 닥칠 美 금리 인상 충격 대비해야",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003729346",
+    "title": "\"파이어족 목표 버려라\"…난이도 높아진 시장, 3040 재테크 로드맵은",
     "summary": [
-      "미국 연방준비제도(Fed·연준)가 기준금리를 동결했다.",
-      "분위기는 만장일치로 동결했던 지난달 회의와 달라졌다.",
-      "위원 12명 중 3명이 금리 인상 의견을 냈다."
+      "[서울=뉴시스]서이현 인턴 기자 = 20대 때는 소액으로 투자 연습을 하고 30~40대에 본격적으로 리스크 관리와 현금 확보에 집중해야 안전하다는 전문가의 조언이 나왔다.",
+      "26일 유튜브 채널 '강지영의 동그라미'에 출연한 오건영 신한 프리미어 패스파인더 단장이 안전한 재테크를 위한 투자 로드맵을 제안했다.",
+      "오건영 단장은 먼저 환율·금리·주가의 변화를 짚었다."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
+    "id": "n80b61f11",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730186952085",
+    "title": "영국 기준금리 3.75% 유지…중동 확전시 대응 시사(종합2보)",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국 중앙은행인 잉글랜드은행(BOE)이 30일(현지시간) 기준금리를 연 3.75%로 동결하면서 이란 전쟁이 ..."
     ],
     "chips": [
       "#금리"
     ]
   },
   {
-    "id": "ndd08e3e0",
+    "id": "n86dd774d",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730168651099",
-    "title": "이집트 \"다미에타항 LNG 선박 화재, 드론 공격이 원인\"(종합)",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 이집트 정부는 29일(현지시간) 지중해 다미에타 항구에서 발생한 액화천연가스(LNG) 관련 선박 화재..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd3f194c3",
-    "category": "스포츠",
     "source": "연합뉴스",
     "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730194600007",
-    "title": "홍명보, 축구 유튜버·셀럽 향해 \"협회·현장 들어가 바꾸라\"",
+    "url": "https://www.yna.co.kr/view/AKR20260730189251099",
+    "title": "이란 \"요르단·쿠웨이트 美기지 공격…전투기 등 파괴\" 주장(종합)",
     "summary": [
-      "(서울=연합뉴스) 최송아 기자 = 국회 청문회에 출석한 홍명보 전 축구 국가대표팀 감독이 대한축구협회에 대해 미디어를 통해 비판 목소리를 내는 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n324efcdf",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260730/134397991/2",
-    "title": "치매 연구 돕는 ‘뇌 기증자’ 723명 [횡설수설/우경임]",
-    "summary": [
-      "“인간으로서 우리는 몇 광년 떨어진 은하를 식별하고 원자보다 작은 입자를 연구할 수 있다.",
-      "하지만 우리 두 귀 사이에 자리 잡은 3파운드(약 1.4kg)짜리 물질의 비밀은 여전히 풀지 못했다.” 2013년 4월 버락 오바마 전 미국 대통령은 ‘뇌 이니셔티브’를 출범시키며 그 필요성을 이렇게 설명했다.",
-      "‘과학의 오지’인 뇌를 연구하는 데 45억 달러를 투자하겠다는 계획도 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1f4513ac",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730284",
-    "title": "줄리엔 강 아내 \"병원비 64만원…앞으로는 매달 100만원대 예상\"",
-    "summary": [
-      "[서울=뉴시스]박재민 인턴 기자 = 방송인 줄리엔 강의 아내 제이제이가 반려견 병원비를 공개했다.",
-      "제이제이는 30일 소셜미디어에 \"돈 잡아먹는 귀신.",
-      "원래 한 달에 한 번 검진인데 그나마 유지가 잘 되어서 올해는 2~3개월로 텀이 늘었어요\"라는 글과 함께 영수증 사진을 올렸다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2cfaafa2",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730094452007",
-    "title": "'월드컵 부진' 축구협회, 국회 청문회선 부인·회피로 철벽 방어(종합2보)",
-    "summary": [
-      "(서울=연합뉴스) 최송아 박경준 기자 = 국회 문화체육관광위원회 소속 여야 의원들이 청문회를 통해 대한축구협회의 행정 난맥상을 짚었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n005e3744",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "49분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/30/2026073022512324668",
-    "title": "이란 \"요르단 美공군기지 공격해 F-35 3대 파괴\"",
-    "summary": [
-      "이란이 30일(현지시간) 요르단 미군기지를 공격해 F-35 전투기를 파괴했다고 주장했다.",
-      "이란 국영 IRRB 방송에 따르면 이란 이슬람혁명수비대(IRGC)는 이날 요르단 알아즈라크 공군기지를 탄도미사일로 공격해 미군 F-35 전투기 3대가 완파되고 3대가 심각하게 손상됐다고 밝혔다.",
-      "IRGC는 이번 공격은 미국의 이란 케슘섬 공격에 대한 대응으로 항공기 계류장 및 정비 격납고를 표적으로 삼았다고 했다."
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 이란 혁명수비대(IRGC)는 30일(현지시간) 미국 공격에 대한 보복으로 요르단과 쿠웨이트의 미군 기..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd5ca4a76",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "53분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/30/2026073015513972264",
-    "title": "덕수고 13연속 전국대회 결승 무패! 17년 만의 한도 풀었다... 유신고 7-4 꺾고 대통령배 우승",
+    "id": "n56454827",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730195600072",
+    "title": "원/달러 환율 야간장서 한때 1,420원 밑 급락…엔화값 급등 동조",
     "summary": [
-      "정윤진 감독이 이끄는 덕수고등학교가 13연속 전국대회 결승 무패의 기록을 이어갔다.",
-      "그리고 그 끝에는 17년 만의 대통령배 우승 트로피가 기다리고 있었다.",
-      "덕수고는 30일 경북 포항야구장에서 열린 제60회 대통령배 전국고교야구대회 결승전에서 유신고를 연장 10회 승부치기 끝에 7-4로 꺾고 우승을 차지했다."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 엔화 강세에 힘입어 원/달러 환율이 9개월 만에 장중 한때 달러당 1,420원선 밑으로 하락했다."
     ],
     "chips": [
-      "#KBO",
-      "#정치",
-      "#교육"
+      "#환율"
+    ]
+  },
+  {
+    "id": "n43d139dd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003729748",
+    "title": "소방서 앞 막아선 황당한 불법주차…연락했더니 \"쉬는 날인 줄\"",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = 소방서 차고 문 바로 앞에 차를 대놓고 \"휴무일인 줄 알았다\"는 황당한 핑계를 댄 차주의 행동이 전해지면서 누리꾼의 분노를 사고 있다.",
+      "30일 스레드에는 인천 지역 소방서에서 근무하는 소방대원 A씨에 의해 소방서 차고 출입구를 막아선 일반 승용차 사진 한 장이 공개됐다.",
+      "A씨가 주차 차량에 적힌 번호로 연락을 취하자 차주는 \"소방서가 문을 안 열고 쉬는 날인 줄 알았다\"고 해명한 것으로 알려졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1c4aef62",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "52분 전",
+    "url": "https://www.hankyung.com/article/202607306705i",
+    "title": "\"애플은 안전자산\"vs \"반도체 오르면 끝난다\"[박신영의 개장전 요것만]",
+    "summary": [
+      "\"애플은 안전자산\"vs \"반도체 오르면 끝난다\"[박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n39a14119",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026073066837",
+    "title": "아들이랑 친해지려고 준 총, 되레 끔찍한 비극 불렀다",
+    "summary": [
+      "아들이랑 친해지려고 준 총, 되레 끔찍한 비극 불렀다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -648,20 +649,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
+  },
+  {
+    "rank": 2,
+    "tag": "AI",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "tag": "반도체",
     "mentions": "1810건",
     "trend": "+175%"
-  },
-  {
-    "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
