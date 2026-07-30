@@ -1,26 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-30 21:23:18
+// 마지막 업데이트: 2026-07-30 22:21:48
 window.NEWS_DB = [
-  {
-    "id": "ndddda4d0",
-    "category": "IT",
-    "source": "서울경제",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10cTNGNDh1d1Q1Q2c2SkwySTJaZkZ1TThXSk92R05kMThBQ3JNTTVVcDQ2ZnZjOHhCM2ZfVGg4TmJEd01pN0JhSHBNd0QtMXJOaEHSAVNBVV95cUxNdjhNT2duenFEemd0VkRsUE1ldmVFN3NMZk9VRWlCeWY2dEp0ckNVTDIwYURhMjZMU09PNUoxNFJXVFlFcWtBcWJvY2RqdEplaG0xMA?oc=5",
-    "title": "AI기업 5곳과 LTA 추가 협의…삼성 “파운드리도 조만간 흑자”",
-    "summary": [
-      "AI기업 5곳과 LTA 추가 협의…삼성 “파운드리도 조만간 흑자” 서울경제."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
   {
     "id": "n0c06c07a",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
@@ -34,7 +19,7 @@ window.NEWS_DB = [
     "id": "nf99a2aa1",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTVFqRDdjd1FCX2RUcERXaElYN3hDNnpRM3JOQXJfREVUMENDdVRXWHl0NTNPRFd1OFcyaVFSRnpwTnNSanlUMExIY0NuX0p3Q2NqT1ZSZGVkV1c1U3BKbUJXSHItekgxVzB2RjFmYw?oc=5",
     "title": "삼성전자, 메모리 70% 장기 계약...HBM·파운드리는 추격",
     "summary": [
@@ -49,7 +34,7 @@ window.NEWS_DB = [
     "id": "n6aa2d332",
     "category": "경제",
     "source": "Chosunbiz",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
@@ -109,7 +94,7 @@ window.NEWS_DB = [
     "id": "n94aa4795",
     "category": "IT",
     "source": "서울Pn",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
     "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
     "summary": [
@@ -152,15 +137,31 @@ window.NEWS_DB = [
   {
     "id": "n542b0c9d",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Zdnl3ckNweGdrdkxuSUNEMGFFVG1hTjkyMFVhN3AyVy12MjE5OE1OQ2FjdGVnWFF0ckNnMDhnMkJsaTNkTFVyRXNBUmRhOVlrQlhTeFdyN2ZnTFpZYkxseg?oc=5",
     "title": "애슬레틱스 구단주 KBO 방문…허구연 총재와 야구 교류 논의",
     "summary": [
-      "애슬레틱스 구단주 KBO 방문…허구연 총재와 야구 교류 논의 네이트."
+      "애슬레틱스 구단주 KBO 방문…허구연 총재와 야구 교류 논의 news.nate.com."
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "n0b5690bb",
+    "category": "IT",
+    "source": "dailyinvest.kr",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZjRjM0hyMjlKWDB3Tkk1RzlnampsNWtWTk43LVAwMHRySDRTbnU0N05xcGFZVFVZWk1jMUZPWU1Ld3NIWTY1SU1BUno4azFGb1JYaHNpN1dwNEJ6aWJ6ck1OTTV4RXh3TlpB0gFvQVVfeXFMUFRIak9Ca1VKUmVSMGJITUxMWjBiS2FoVG5iMkstT3Jsa0I1cjcxcmk1UDlERUduLXgtd0lsbHJhYzlvVUJER2NPZVJLNFlCQkRnclBabVFveXFFZDBpR0FCSnBHLUhuMjNJbXN4UDJF?oc=5",
+    "title": "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까",
+    "summary": [
+      "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까 dailyinvest.kr."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -193,21 +194,6 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n917184b9",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "38일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
-    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
-    "summary": [
-      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
     ]
   },
   {
@@ -256,12 +242,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "62일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -286,12 +272,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "techm.kr",
+    "source": "테크M",
     "time": "120일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -314,14 +300,285 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na05815d4",
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "168일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
+    "id": "n4659524f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026073107213695686",
+    "title": "구로구, 생활폐기물 감량 서울시 평가 우수구 선정",
+    "summary": [
+      "서울 구로구(구청장 장인홍)가 서울시의 '생활폐기물 다이어트 천만시민 실천 프로젝트' 2차 성과평가에서 우수구로 선정돼 시비 1억원을 추가로 확보했다고 31일 밝혔다.앞서 1차 성과평가에서 장려구로 선정돼 받은 시비 8000만원을 더하면 총 1억8000만원의 사업비를 지원받는다.",
+      "2차 평가에서 1차보다 한 단계 높은 등급을 받았다.",
+      "이번 평가는 생활폐기물 감량 실적과 재활용품 분리배출 참여도, 자치구 특화사업 추진 실적 등."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n095aebc6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "방금 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260731/134399068/1",
+    "title": "3m 높이 파도 뚫고 10세 구한 16세 안전 요원…트럼프 “백악관 초청할 것”",
+    "summary": [
+      "미국 캘리포니아 해변에서 거센 파도에 휩쓸려 목숨을 잃을 뻔한 10세 어린이를 구조한 16세 신참 수상 안전 요원이 도널드 트럼프 대통령의 극찬을 받으며 현지에서 화제를 모으고 있다.폭스뉴스 등 외신에 따르면 지난 25일(현지 시간) 캘리포니아주 산타크루즈 시브라이트 해변에서 강력한 이안류 현상이 발생했다.",
+      "당시 물놀이를 즐기던 10세 추정 어린이는 높이 3m에 달하는 파도에 순식간에 휘말려 바다 쪽으로 떠밀려갔다.",
+      "현장에 있던 인명구조원 라이."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n560f08cc",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026073107203391866",
+    "title": "경기도, 팥배나무 추출물서 탈모 완화 효과 확인…특허 출원·제품 개발",
+    "summary": [
+      "국내 산지에 흔히 자라는 팥배나무가 탈모 완화 소재로 활용될 가능성이 확인됐다.",
+      "경기도산림환경연구소는 관련 특허를 출원한 데 이어 천연 추출물을 활용한 제품 개발까지 마치며 산림자원의 바이오산업 활용에 속도를 내고 있다.",
+      "경기도산림환경연구소는 31일 팥배나무 가지와 열매 추출물에서 항산화·항염증 효과와 모유두세포 활성 효과를 확인하고 이를 활용한 탈모 완화용 제품 개발을 완료했다고 밝혔다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n14f8a809",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026073107195987894",
+    "title": "'독자에서 작가로'…경기도서관 책공방에서 도민의 책 36권 탄생",
+    "summary": [
+      "경기도서관은 오는 8월3일 지하 1층 책공방에서 '책 만드는 프로그램 1기 출판기념회'를 열고 도민이 직접 쓰고 만든 36권의 책을 소개한다.",
+      "참여자들은 지난 5월부터 7월까지 10주간 전문 강사의 지도를 받아 소재 발굴과 글쓰기, 원고 수정, 편집, 디자인 등 책이 만들어지는 전 과정을 체험했다.",
+      "완성된 도서는 시집 10권, 그림책 10권, 수필 8권, 사진책 8권 등 총 36권으로 평범한 일상에서 발견한 생각과 감정, 가족과 함께한."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n82879e64",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026073107181483650",
+    "title": "李대통령, 22년 만에 아르헨티나 공식방문…리튬 공급망·메르코수르 협상",
+    "summary": [
+      "이재명 대통령이 30일(현지시간) 밤 아르헨티나 부에노스아이레스에 도착해 2박 3일간의 공식 방문 일정에 들어간다.",
+      "대한민국 대통령의 아르헨티나 공식 방문은 22년 만이다.",
+      "미국 샌프란시스코와 브라질·칠레를 거친 이번 순방의 마지막 방문국이다."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4c168551",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260731/134399061/1",
+    "title": "“차 들어올 건데요” 사람이 몸으로 막는 주차장…법적 처벌 가능한가",
+    "summary": [
+      "주차장에서 차량 대신 사람이 먼저 들어가 주차 공간을 선점하는 행위가 잇따르고 있지만 현행법상 직접 처벌하기는 어려운 것으로 나타났다.",
+      "온라인 커뮤니티에는 주차 자리를 몸으로 막아선 사람 때문에 피해를 보았다는 글이 끊이지 않고 올라온다.",
+      "한 작성자는 “빈자리에 차를 대려고 하니 어떤 사람이 서서 ‘남편 차 올 거니까 다른 데 주차해라’라며 막아섰다”고 적었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4177ddba",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260731/134399058/1",
+    "title": "李대통령 부부, 칠레 ‘한국의 거리’ 방문…시민·동포들과 하이파이브",
+    "summary": [
+      "이재명 대통령과 김혜경 여사는 30일(현지시간) 칠레 산티아고 ‘한국의 거리’를 방문했다고 안귀령 청와대 부대변인이 서면브리핑을 통해 밝혔다.한국의 거리는 산티아고 시내 한인회관과 한인 상가가 모여있는 파트로나토 지역 약 600m 구간으로 칠레한인회가 명칭 변경 사업을 추진, 최근 구청 및 구의회 승인 절차를 거쳐 한국의 거리로 변경됐다.지난 2022년 인근에 조성된 서울의 거리에 이어 한국의 거리가 더해지면서 한국과 칠레의 우호와 교류, 칠레."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfe6fc7c4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260731/134399050/1",
+    "title": "이경실, 이혼 직후 전남편과 놀이공원 찾은 이유…23년 만에 고백",
+    "summary": [
+      "코미디언 이경실이 이혼 직후 전남편과 놀이공원을 찾았던 이유를 20여 년 만에 밝혔다.이경실은 지난 30일 딸 손수아와 함께 개설한 유튜브 채널 ‘우리 엄마 이경실’의 첫 영상에서 당일치기 단양 여행 중 놀이공원에 대한 추억을 떠올렸다.영상에서 이경실은 “에버랜드에 가고 싶다.",
+      "너희 어렸을 때 정기권을 끊어서 자주 갔다”며 “이혼하고 한 번 가고 안 갔다”고 말했다.이어 “그때 (전남편과 함께 간 모습이) 기사로 나갔고, 친정엄마가 ‘왜 만났냐."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c9ed134",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731015500009",
+    "title": "美 반도체주 폭등…반도체지수 1년3개월만 최대 상승",
+    "summary": [
+      "(서울=연합뉴스) 정주호 기자 = 투매세에 시달렸던 미국 반도체주가 30일(현지시간) 일제히 폭등하며 급반전했다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "na8d99511",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003730754",
+    "title": "\"후티 반군, 이라크 친이란 무장세력과 공조해 사우디 공격\"",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 예멘의 친이란 후티 반군이 이라크 무장세력과 공조해 이라크 영토에서 사우디아라비아를 공격했다는 주장이 제기됐다.",
+      "30일(현지 시간) 주요 외신은 중동 지역 당국자 2명을 인용해 최근 사우디를 겨냥한 공격 가운데 일부가 후티 반군과 이라크 친이란 무장세력에 의해 공동으로 수행된 것으로 평가된다고 전했다.",
+      "이들 당국자는 공격이 이란 이슬람혁명수비대(IRGC)의 지휘 아래 이라크 영토에서 이뤄졌다고 주장했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8c188e71",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "11분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/31/KPNKMQBZQVEQ3ONXZBYYAEGSDU/",
+    "title": "애플 3분기 아이폰·맥북 덕분에 사상 최고 매출…서비스 부문은 부진",
+    "summary": [
+      "애플 3분기 아이폰·맥북 덕분에 사상 최고 매출…서비스 부문은 부진."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec296327",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003730774",
+    "title": "[오늘의 주요일정]대전·세종·충남(7월31일 금요일)",
+    "summary": [
+      "[대전=뉴시스] ▲오전 8시, 천안시 원성2지구 원성커뮤니케이션센터 건축설계 최종보고회, 중회의실 ▲오전 9시30분, 천안시 주요사업 현장방문(도심권), 불당,대흥,쌍용동 일원 ▲오전 9시30분, 태안군 민선9기 첫 읍·면 방문, 원북면 ▲오전 10시, 대전YMCA 주관 청소년 모의투표 당선증 전달, 대전시 응접실 ▲오전 10시, 세종시 시정5기 읍·면·동 시민과의 대화(부강면), 부강면 행정복지센터 ▲오전 10시, 부여군 임업인단체 간담회,."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92567f8e",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003730765",
+    "title": "김세인, 생활고·노출 연기 감행 고백…\"가족 부양 위해\"",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 배우 김세인이 과거 집안의 극심한 생활고로 인해 노출 연기를 감행해야 했던 사연을 털어놨다.",
+      "김세인은 지난 30일 방송된 MBN '특종세상'에 출연해 데뷔 초 겪었던 생활사와 연예계를 떠났던 이유를 밝혔다.",
+      "사업가였던 아버지 밑에서 자란 김세인은 IMF 외환위기 이후 가계가 급격히 기울었다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nbadeb175",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/07/31/AANCMD7UGVHINJAYW3R5DRX6OQ/",
+    "title": "애플, 메모리 가격 상승세에도 전망치 웃도는 호실적",
+    "summary": [
+      "애플, 메모리 가격 상승세에도 전망치 웃도는 호실적."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n236d71cd",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731015600007",
+    "title": "EPL 차별 행위 징계 강화…선수·감독 가리지 않고 10경기 아웃",
+    "summary": [
+      "(서울=연합뉴스) 오명언 기자 = 잉글랜드 축구 무대에서 인종차별 등 차별적 언행을 한 선수나 지도자는 다가오는 새 시즌부터 최소 10경기 출전..."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n28761645",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731012200053",
-    "title": "대구·경북 '폭염·열대야' 지속…낮 최고 38도",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730136600053",
+    "title": "[현장] 폭염 피하려 야영장으로…평일 '도심 캠핑' 인기",
     "summary": [
-      "(대구=연합뉴스) 박세진 기자 = 금요일인 31일 대구·경북은 대체로 맑겠고 폭염이 이어지겠다."
+      "(대구=연합뉴스) 김용민 기자 = 연일 37∼38도에 이르는 폭염이 이어지면서 대구지역 야영장이 도심 피서지로 인기를 끌고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9577e2ae",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730178800001",
+    "title": "[오늘의 국회일정](31일·금)",
+    "summary": [
+      "[오늘의 국회일정](31일·금)."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nccd0864c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026073168047",
+    "title": "국제유가, 홍해 다국적 해상방위 논의에 하락…WTI 1%↓",
+    "summary": [
+      "국제유가, 홍해 다국적 해상방위 논의에 하락…WTI 1%↓."
     ],
     "chips": [
       "#뉴스"
@@ -331,7 +588,7 @@ window.NEWS_DB = [
     "id": "n7c0fb065",
     "category": "IT",
     "source": "테크M",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153871",
     "title": "메타, 2분기 매출 확대에도 수익성 울상...AI 투자 부담으로",
     "summary": [
@@ -344,159 +601,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9332bff8",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731008000072",
-    "title": "'AI 투자손실' 헤지펀드 시추에이셔널, 시타델에 자산 매각",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 인공지능(AI) 분야 테마 투자로 유명한 헤지펀드 시추에이셔널 어웨어니스(이하 시추에이셔널)가 큰 손실을 본..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n17e26ee2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731011600064",
-    "title": "충북 낮 최고 35도 무더위 계속…가끔 구름 많아",
-    "summary": [
-      "(청주=연합뉴스) 천경환 기자 = 금요일인 31일 충북은 가끔 구름이 많은 가운데 무더위가 이어지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd94ca815",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260731/134398987/1",
-    "title": "‘A급’ 장영란 채널 PD, 6평 옥탑방 공개…안타까운 청년 현실",
-    "summary": [
-      "방송인 장영란의 유튜브 채널 PD가 자신의 집을 공개했다.장영란은 29일 유튜브 채널에 ‘장영란 메인PD가 6평짜리 옥탑에서 결혼 준비하는 이유? (예비신혼부부,서울 집값)’이라는 제목의 영상을 올렸다.이날 장영란은 자신의 채널인 ‘A급 장영란’의 윤정 PD 집을 찾았다.그의 집은 엘리베이터 탑층에서 걸어서 올라가야 하는 옥탑방이었다.",
-      "집 내부엔 옵션으로 제공된 냉장고와 세탁기를 제외하고 별다른 가전·가구도 없었다.그는 집에 과도와 수저도 없다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n5dc7f5e8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731011500034",
-    "title": "오늘도 전국에 무더위·열대야 지속…낮 최고 37도",
-    "summary": [
-      "(서울=연합뉴스) 한지은 기자 = 금요일인 31일 중부지방은 가끔 구름이 많겠고 남부지방과 제주도는 대체로 맑겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n753378f1",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003729099",
-    "title": "\"파란불이 폭염보다 무섭다\"…2030 개미들, 배달앱 삭제하고 '지갑 봉쇄'",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = 국내외 증시 하락세로 계좌 평가 손실을 뜻하는 '파란불'이 켜진 2030세대 개인 투자자들이 배달 애플리케이션을 지우고 지출을 극도로 줄이는 지갑 봉쇄에 나섰다.",
-      "주요 지수가 무너지며 계좌 평가 손익이 연일 마이너스를 기록하자 청년 투자자들 사이에서는 소비를 줄여 투자 손실을 메우려는 움직임이 확산하고 있다.",
-      "여름철 폭염 속에서도 외식을 피하고 생활비를 바짝 죄는 절약 행태가 온·오프라인 공간에서 두드러진다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf93c5635",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260731/134398984/1",
-    "title": "‘내란 가담’ 박성재 전 법무장관 항소심 오늘 첫 재판…1심 징역 25년",
-    "summary": [
-      "12·3 비상계엄 당시 내란에 가담한 혐의로 1심에서 징역 25년을 선고받은 박성재 전 법무부 장관의 항소심이 31일 시작된다.내란전담재판부인 서울고법 형사1부(부장판사 윤성식)는 이날 오후 2시 내란중요임무종사 등 혐의를 받는 박 전 장관의 첫 공판기일을 연다.박 전 장관은 2024년 12월 3일 비상계엄 선포 직후 법무부 간부회의를 소집해 출국 금지팀에 비상대기 명령을 내리고, 교정시설 수용 공간 확보와 합동수사본부 검사 파견 검토 등을 지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n28df1d60",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003730741",
-    "title": "사우디 '홍해 상선 보호' 14개국 참여 해상 방위 연합 창설 발표",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 사우디아라비아가 30일(현지 시간) 홍해에서 국제 상선과 에너지 수송로를 보호하기 위해 14개 국가가 참여하는 '다국적 해상 방위 연합' 창설 계획을 발표했다.",
-      "이번 발표는 예멘 친이란 후티 반군이 최근 사우디 봉쇄를 선언하고 홍해 바브엘만데브 해협을 지나는 유조선을 공격한 가운데 나왔다.",
-      "아랍권 매체 알자지라 등 외신에 따르면 사우디를 비롯해 쿠웨이트, 카타르, 바레인 등 걸프협력회의(GCC) 국가와 파키스탄,."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n28c5e900",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003729952",
-    "title": "\"의식도 호흡도 없다\"…지하철역서 쓰러진 시민 구한 출근길 경찰과 시민들",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = 출근길 서울 지하철역 승강장에서 의식을 잃고 쓰러진 60대 남성이 현장에 있던 경찰관과 시민들의 신속한 심폐소생술 덕분에 목숨을 구했다.",
-      "30일 서울경찰 유튜브 채널 영상에 따르면, 지하철 2호선 왕십리역 승강장에서 한 남성이 에스컬레이터를 타고 내려오던 중 갑자기 의식을 잃고 바닥으로 넘어졌다.",
-      "움직이는 에스컬레이터 끝단에 쓰러져 위험천만한 상황이 연출되자 이를 목격한 시민들이 순식간에 몰려들었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbadf32db",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/31/HA3GEMRXHEYDINJWMNQWGZLCMM/",
-    "title": "\"살이 쏙 빠졌네\"...랄랄, 운동복 입고 뽐낸 '슬림 비주얼'",
-    "summary": [
-      "[OSEN=박근희 기자] 방송인 랄랄이 운동으로 가꾼 한층 슬림해진 근황을 공개했다.30일 랄랄은 자신의 SNS를 통해 \"운동을 할수록 인내심이 늘어\"라는 글과 함께 사진을 게재했다.공개된 사진 속에는 편안한 모자와 민소매 스포츠웨어를 착용한 채 셀카를 찍고 있는 랄랄의 모습이 담겼다.특히 눈에 띄는 것은 이전보다 살이 쏙 빠진 듯한 그의 비주얼이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1591df34",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/golf/2026/07/31/HAZTENJYGUZWINDGMNQWEYTFGQ/",
-    "title": "\"많이 언급되진 않지만…\" 넬리 코르다가 꼽은 좋은 스윙의 비결, '이것' 떠올리라는데",
-    "summary": [
-      "[스포츠조선 박상경 기자] 여자 세계랭킹 1위 넬리 코르다(미국)가 꼽은 좋은 스윙을 만드는 비결은 뭘까.",
-      "세 번째 메이저 제패 및 그랜드슬램을 노리는 코르다가 좋은 스윙을 만드는 비결을 공개했다.",
-      "코르다는 영국 토크스포트와의 인터뷰에서 \"내가 항상 먼저 떠올리는 건 템포\"라고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n68b0e27f",
     "category": "경제",
     "source": "한국경제",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026073167797",
     "title": "이란 \"요르단·쿠웨이트 미군기지 공격…전투기 파괴\" 주장",
     "summary": [
@@ -507,42 +615,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n251a38c3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003730750",
-    "title": "부산, 맑고 무더운 날씨…낮 최고기온 39도",
-    "summary": [
-      "[부산=뉴시스] 하경민 기자 = 31일 부산지역은 대체로 맑고 무더운 날씨가 이어질 것으로 부산기상청은 예보했다.",
-      "부산에는 폭염중대경보(중부, 서부)와 폭염경보(동부)가 발효 중이며, 지난 18일부터 열대야주의보가 내려졌다.",
-      "이날 낮 최고기온은 39도, 내일 아침 최저기온은 26도로 예상됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndda2bfb4",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026073106001216016",
-    "title": "유해란, 5언더파 신바람…'메이저 3연승 진군은 시작됐다'",
-    "summary": [
-      "세계랭킹 3위 유해란이 메이저 대회 3연승을 위한 진군을 시작했다.",
-      "유해란은 31일(한국시간) 영국 잉글랜드 랭커셔 로열 리덤 앤드 세인트 앤스 골프클럽(파71·6601야드)에서 끝난 미국여자프로골프(LPGA) 투어 2026시즌 마지막 메이저 대회 AIG 위민스 오픈(총상금 1000만달러) 1라운드에서 버디 6개와 보기 1개를 적어냈다.",
-      "5언더파 67타를 작성한 유해란은 지난달 일본여자프로골프(JLPGA) 투어 산토리 레이디스 오픈 우승자인."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "n2c782452",
     "category": "경제",
     "source": "한국경제",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026073064031",
     "title": "\"5개월도 너무 길다\" 한숨…농촌 곳곳 누비는 버스의 비밀",
     "summary": [
@@ -550,80 +626,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n92357b7d",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/202607305245g",
-    "title": "하나둘 기술 빼가더니…삼전닉스 파랗게 질리게 한 '中반도체 회사'",
-    "summary": [
-      "하나둘 기술 빼가더니…삼전닉스 파랗게 질리게 한 '中반도체 회사'."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nac97d1eb",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/2026073057296",
-    "title": "6월 외국인 국내주식 49.3조 순매도…반년째 '팔자'",
-    "summary": [
-      "6월 외국인 국내주식 49.3조 순매도…반년째 '팔자'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne9b94734",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/national/2026/07/31/T6HRLH7H45FO3HOGYNMRDAJTVE/",
-    "title": "[굿모닝 멤버십] 오픈AI와 앤스로픽은 무엇을 노리나",
-    "summary": [
-      "[굿모닝 멤버십] 오픈AI와 앤스로픽은 무엇을 노리나."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nfa6e1e08",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "22분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/07/31/IU5WJN3JKRHZRBO4OVC5BDZEZQ/",
-    "title": "윤구 구글코리아 사장 “소비자 시선 체류 시간 1.2초, 광고 후 기도하는 마케팅은 끝났다”",
-    "summary": [
-      "“과거의 마케팅은 광고를 태워놓고 기도하는 것이었다.",
-      "이제는 확신을 갖고 태우는 시대다.",
-      "마케팅이 감각의 영역에서 과학과 수학의 영역으로 넘어오고 있다.” 7월 15일 서울 중구 신라호텔에서 ‘이코노미조선’과 만난 윤구 구글코리아 사장의 진단이다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n87d1a413",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026073016553056332",
-    "title": "[1mm금융톡]국책은행 지방 이전설에 금융권 들썩…“집단행동 확대도 검토”",
-    "summary": [
-      "공공기관 지방 이전 가능성이 거론되면서 금융권의 긴장감이 높아지고 있다.",
-      "산업은행·기업은행·수출입은행 등 3대 국책은행 노동조합이 다음 달 대규모 반대 집회를 예고한 가운데 정부가 구체적인 이전 방침을 내놓을 경우 반대 움직임이 금융권 전반으로 확산될 수 있다는 관측이 나온다.",
-      "31일 금융권에 따르면 한국산업은행·중소기업은행·한국수출입은행 노조는 다음 달 11일 서울 영등포구 은행로 산업은행 본점 앞에서 조."
-    ],
-    "chips": [
-      "#수출"
     ]
   }
 ];
@@ -633,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
-  },
-  {
-    "rank": 3,
     "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
+  },
+  {
+    "rank": 3,
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
