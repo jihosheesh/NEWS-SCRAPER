@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-30 08:52:29
+// 마지막 업데이트: 2026-07-30 09:48:35
 window.NEWS_DB = [
   {
     "id": "nf99a2aa1",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTVFqRDdjd1FCX2RUcERXaElYN3hDNnpRM3JOQXJfREVUMENDdVRXWHl0NTNPRFd1OFcyaVFSRnpwTnNSanlUMExIY0NuX0p3Q2NqT1ZSZGVkV1c1U3BKbUJXSHItekgxVzB2RjFmYw?oc=5",
     "title": "삼성전자, 메모리 70% 장기 계약...HBM·파운드리는 추격",
     "summary": [
@@ -19,12 +19,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
-    "time": "6시간 전",
+    "source": "Chosunbiz",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n319886b4",
     "category": "IT",
     "source": "더스쿠프",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
@@ -122,12 +122,12 @@ window.NEWS_DB = [
   {
     "id": "nad2051b5",
     "category": "IT",
-    "source": "블로터",
-    "time": "2일 전",
+    "source": "bloter.net",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMFBUdGJQMWJ3TTZIeFZ3T01oTnZudlVwSjNscHRqUU54WDZ1VzAwS1hVR3hmSkRUcnoybGl0R0lGWU5nY0xIeVkyN05yOEhIb20yNERFelFvTW1fRkJ5SXF6Z0tfVzRh0gFsQVVfeXFMUFlRbWY3bUwtdTVRUjFKYUREYWpLb0hhMmxHN2owcjRyeTF1T3BvVnVFZFJHbHVmYUNxbkFkX3ZiRndCRUlObmNobDYzbFNsZ1lpUGY5RFJNdm1XSGNkc0hhSXp5by04bVpHNjFa?oc=5",
     "title": "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다",
     "summary": [
-      "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다 블로터."
+      "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다 bloter.net."
     ],
     "chips": [
       "#AI",
@@ -169,12 +169,12 @@ window.NEWS_DB = [
   {
     "id": "n6b58f8f3",
     "category": "사회",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "time": "31일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
     ],
     "chips": [
       "#채용",
@@ -199,12 +199,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "50일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -316,6 +316,55 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nda485773",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153866",
+    "title": "MS, 분기 매출 시장전망치 상회...연간 애저 매출 1000억 달러 첫 돌파",
+    "summary": [
+      "마이크로소프트(MS)가 클라우드와 AI 서비스 수요에 힘입어 두 자릿수 성장세를 이어갔다.",
+      "애저 매출이 43% 늘었고, 마이크로소프트 365 코파일럿 유료 이용자 수는 3000만명을 넘었다.MS는 29일(현지시간) 2026회계연도 4분기(4~6월) 매출이 전년 동기 대비 18% 증가한 900억달러를 기록했다고 밝혔다.",
+      "시장조사업체 런던증권거래소그룹(LSEG)의 시장 전망치인 876억2000만달러를 넘어선 수치다.영업이익은 18% 늘어난 406억."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "neb112da7",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153865",
+    "title": "LG전자, \"하반기 불확실성 가중...AIDC·로봇 사업 본격화\"(종합)",
+    "summary": [
+      "LG전자가 2026년 2분기 실적을 공개했다.",
+      "역대 2분기 기준 최대 성적을 달성했다.",
+      "하반기에도 이 기세를 이어갈 수 있을지는 미지수다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nf87234af",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153840",
+    "title": "카카오, AI 윤리부터 시민 교육까지...'AI 시대' 책임감 다한다",
+    "summary": [
+      "카카오가 인공지능(AI) 시대에 걸맞은 AI 생태계 구축에 속도를 내고 있다.",
+      "AI 윤리 전문가들로 구성된 외부 자문단과 함께 AI 윤리 거버넌스를 강화하는 동시에 미래 세대를 위한 AI 시민성 교육 체계 마련에도 나서며 기술 개발을 넘어 AI가 지닌 신뢰성과 이로 인해 발생하는 사회적 책임까지 아우르는 모습이다.AI 시대, 올바른 윤리 체계는?30일 카카오가 AI 윤리 거버넌스 강화를 위해 'AI&기술윤리소위원회’의 외부 전문 자문단을 발족했."
+    ],
+    "chips": [
+      "#AI",
+      "#카카오",
+      "#교육"
+    ]
+  },
+  {
     "id": "ndd8f88c0",
     "category": "IT",
     "source": "테크M",
@@ -332,314 +381,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na1424103",
+    "id": "n6888e22c",
     "category": "IT",
-    "source": "테크M",
+    "source": "조선비즈IT",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153857",
-    "title": "삼성SDS, B300 90% 이상 가동...클라우드 대외 매출 75% 증가(종합)",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/30/QL2NONNR5JDV7OW7YZHSTGRGLE/",
+    "title": "LG디스플레이, 국민성장펀드 1조5000억원 확보… OLED에 3조원 투자",
     "summary": [
-      "삼성SDS가 클라우드와 물류 사업 부문 성장에 힘입어 2분기 외형과 수익성을 함께 개선했다.",
-      "하반기에도 클라우드 사업을 중심으로 IT서비스 부문 성장세를 이어갈 계획이다.",
-      "AI 데이터센터와 서비스형 GPU(GPUaaS) 투자도 확대한다.삼성SDS는 30일 연결 기준 잠정실적 공시를 통해 2분기 매출 3조7178억원, 영업이익 2318억원을 기록했다고 밝혔다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "na0396c4b",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153860",
-    "title": "\"여름 휴가객 잡아라\"...마이리얼트립·놀유니버스, 취향·지역 맞춤 패키지 '총출동'",
-    "summary": [
-      "여행 플랫폼들이 여름휴가 시즌을 맞아 관광객들의 수요를 잡기 위해 각양각색 패키지 상품 및 프로모션을 선보이고 있다.",
-      "마이리얼트립은 데이터 기반 지자체 협업으로 국내 여행 수요를 확대하는 한편, 놀유니버스는 특정 취향을 겨냥한 테마형 패키지 상품을 선보이며 고객 접점 넓히기에 나섰다.올 여름 '공주'로 떠나요...마이리얼트립과 함께30일 마이리얼트립은 강릉에 이어 '공주 페스타'를 내달 17일까지 진행하며 지자체와 데이터 기반 관광 협업을 넓힌."
+      "LG디스플레이, 국민성장펀드 1조5000억원 확보… OLED에 3조원 투자."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf848edde",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153861",
-    "title": "초록빛 새단장 마친 CJ제일제당 '얼티브'...텁텁함 잡고 두유 시장 도전",
-    "summary": [
-      "CJ제일제당의 식물성 웰니스 브랜드 얼티브(ALTIVE)가 브랜드를 새 단장하고 신제품까지 선보이며 몸집을 키웁니다.",
-      "프로틴 음료에 머물렀던 라인업이 이번엔 두유 시장으로 뻗어나갑니다.CJ제일제당은 30일 얼티브의 로고와 패키지 디자인을 새롭게 바꿨다고 밝혔습니다.",
-      "자연을 떠올리게 하는 초록빛 나뭇잎 모티프를 넣어 식물성 브랜드다운 느낌을 살렸고, 여기에 젊은 감각을 더해 훨씬 산뜻해진 패키지로 탈바꿈했습니다.대표 제품인 프로틴 음료의 맛도 손."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n45a76422",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026073017511475310",
-    "title": "전국 항만 물동량 4.8% 감소…컨테이너는 증가세 전환",
-    "summary": [
-      "올해 2분기 전국 항만 물동량이 중동 정세 불안 등의 영향으로 감소세를 이어갔다.",
-      "다만 컨테이너 물동량은 1분기 감소세를 벗어나 증가세로 돌아서며 회복 조짐을 나타냈다.",
-      "해양수산부는 2026년 2분기 전국 무역항에서 처리한 총 물동량이 3억7595만t으로 지난해 같은 기간보다 4.8% 감소했다고 30일 밝혔다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n6f6b0edc",
+    "id": "nb77d54df",
     "category": "스포츠",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/30/GEZTSNRUMVTDGMZRG5QTGYRRMM/",
+    "title": "페라자 문현빈 동시에 사라졌다! 한화, 롯데전 라인업 공개 → 최인호 이원석 이진영 OF [대전 현장]",
+    "summary": [
+      "[대전=스포츠조선 한동훈 기자] 한화 이글스 문현빈이 선발 명단에서 제외됐다.",
+      "외국인타자 페라자도 빠졌다.",
+      "한화는 30일 대전 한화생명 볼파크에서 롯데 자이언츠와 주중 3연전 마지막 경기를 펼친다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n038dd724",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/30/HA3DOM3CGZQTAMZVGBSWINLDG4/",
+    "title": "황정민 스토킹 사건, 유독 강한 '중립기어'…앞선 학습효과 때문인가 [Oh!쎈 이슈]",
+    "summary": [
+      "[OSEN=최이정 기자] 배우 황정민의 사생활 관련 루머와 통화 녹음 파일이 온라인상에 확산되며 파장을 일으킨 가운데, 대중과 연예계 사이에서 유독 섣부른 판단을 지양하는 '중립기어' 분위기가 강하게 형성돼 눈길을 끈다.",
+      "앞선 몇몇 배우들의 사생활 이슈와 사건의 파장, 그리고 그 결말을 지켜본 학습효과 탓인지, 상황을 보다 면밀히 지켜보고 편향되지 않은 시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n48a9dbab",
+    "category": "부동산",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730011",
-    "title": "정일우 \"日 데뷔작 '범죄자', 신인의 마음으로 임했죠\"",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730529",
+    "title": "佛 남서부 산불, 약해져 집나온 22만명 중 8만명 귀가 허용",
     "summary": [
-      "[서울=뉴시스] 이종희 기자 = 배우 정일우가 출연한 아마존 프라임 시리즈 '범죄자'가 국내 시청자와 만난다.",
-      "30일 서울 용산구 CGV 용산아이파크몰에서 아마존 프라임 시리즈 '범죄자' 기자간담회가 진행됐다.",
-      "행사에는 정일우와 마츠나가 다이시 감독이 참석했다."
+      "[레즈-캡 페레(프랑스)=AP/뉴시스] 김재영 기자 = 프랑스 당국은 30일 남서부의 초대형 산불로 집을 버리고 피난했던 주민 중 8만 4000명에게 집으로 돌아가도 된다고 말했다.",
+      "그간 수도 파리의 4배가 되는 1200㎢를 불태웠던 산불 진화에 큰 고비를 넘긴 것으로 보인다.",
+      "이날 귀가가 허용된 소도시는 9개다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd7833322",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/industry/2026/07/30/2026073015561925714",
-    "title": "배터리 3사 적자 터널 끝냈다…7분기만에 '동반 흑자'",
-    "summary": [
-      "(종합) LG에너지솔루션·삼성SDI·SK온 등 국내 배터리 3사가 길었던 적자 터널에서 일제히 빠져나왔다.",
-      "전기차 캐즘(일시적 수요둔화)이 이어지는 상황에서 미국을 중심으로 에너지저장장치(ESS) 수요를 선점하고 원가 절감에 나선 효과가 동반 흑자 기록으로 이어졌다.",
-      "30일 배터리업계에 따르면 올해 2분기 국내 배터리 3사는 모두 영업이익 흑자를 기록했다."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n44d9e2b8",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026073017494264507",
-    "title": "\"서로 다른 채널에 같은 영화\"…MPP 중복편성 최대 98%",
-    "summary": [
-      "복수채널사용사업자(MPP)가 계열 내 여러 채널에 동일 콘텐츠를 반복 편성한 뒤 묶음으로 거래하는 구조가 유료방송사의 콘텐츠 사용료 부담을 키우고 시청자의 실질적인 선택지를 줄일 수 있다는 분석이 나왔다.",
-      "유성진 숭실대 교수는 30일 한국프레스센터에서 열린 '유료방송 채널거래 시장 개선 방안 마련' 특별세미나에서 MPP 9개사, 43개 채널의 조합에 대한 분석 자료를 바탕으로 중복 편성 실태를 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc4039efe",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/stock/2026/07/30/2026073017252555931",
-    "title": "신한운용, 3300억 BTL 펀드 조성… \"생산적 금융 앞장서\"",
-    "summary": [
-      "신한자산운용이 총 3300억원 규모의 '생산적금융지역성장/발전 BTL(임대형 민자사업) 펀드' 투자자 모집을 완료하고 투자약정을 체결한다고 30일 밝혔다.",
-      "이번 펀드는 투자자별 맞춤형으로 △일반형(1600억원, 만기 26년)과 △영구폐쇄형(1700억원)으로 이원화해 조성됐다.",
-      "펀드 참여자는 주요 시중은행·보험사 등 우량 금융기관들이다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n91e86bca",
-    "category": "IT",
-    "source": "머니투데이",
+    "id": "n84fc2cfa",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "3분 전",
-    "url": "https://www.mt.co.kr/policy/2026/07/30/2026073017425265408",
-    "title": "부산항만공사-HD현대삼호 항만장비·기술 고도화 맞손",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/30/ME2WGYRRHAYTCMJXGM4TAZDCGU/",
+    "title": "롯데 절망적 상황 아니다 → 김태형 감독 \"민재만 살아나면 전체적으로 나쁘지 않다\" [대전 현장]",
     "summary": [
-      "피지컬 AI 기반 장비 등 항만운영 기술개발 추진 부산항만공사(BPA)가 30일 HD현대삼호와 피지컬 AI 기반 항만 미래기술 공동 연구개발 업무협약을 체결하고 항만 장비·기술 고도화에 나섰다.",
-      "앞서 BPA 등은 지난 4월 전남 영암군 HD현대삼호 본사에서 기술협력 체계 구축 및 협력 정례화 방안을 논의했고 이번 협약을 통해 스마트 항만 기술 분야 공동 연구개발 범위와 방향을 구체화했다.",
-      "앞으로 △스마트항만 솔루션 △피지컬 AI 기술을 적용한."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n084ec969",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/economy/market_trend/2026/07/30/Z2QVIUYT2JCCDIDTPDPWY3ALGM/",
-    "title": "중국 대신 미국으로... 아모레퍼시픽, 미주 매출 57% 껑충",
-    "summary": [
-      "중국 대신 미국으로... 아모레퍼시픽, 미주 매출 57% 껑충."
+      "[대전=스포츠조선 한동훈 기자] \"(전)민재만 살아나면..\" 김태형 롯데 자이언츠 감독이 주전 유격수 전민재의 부활을 기원했다.",
+      "김 감독은 30일 대전 한화생명볼파크에서 열리는 한화 이글스전을 앞두고 타선이 전반적으로 살아나는 모양새라고 평가했다.",
+      "전민재가 마지막 퍼즐을 맞춰주길 희망했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n47718efd",
+    "id": "n62d7eea1",
     "category": "사회",
-    "source": "조선일보",
+    "source": "아시아경제",
     "time": "4분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/30/IUQ2WAUV4NE6HFHLRPPKRLGJKI/",
-    "title": "검찰, ‘급식실 손가락 절단’ 사고 영양교사 기소유예",
+    "url": "https://view.asiae.co.kr/article/2026073018434988863",
+    "title": "구마모토 강진 사망자 34명으로 늘었다",
     "summary": [
-      "검찰, ‘급식실 손가락 절단’ 사고 영양교사 기소유예."
+      "일본 구마모토 강진으로 인한 사망자가 34명인 것으로 집계됐다.",
+      "교도통신·NHK 등에 따르면 지난 28일 발생한 일본 구마모토 강진으로 발생한 사망자가 30일 오후 기준 34명으로 늘었다.",
+      "일본제지 야쓰시로 공장에서 사망자 8명, 폭발 후 건물 일부가 붕괴한 대형 쇼핑센터 '이온몰 구마모토'에서 사망자 7명이 나온 것으로 집계됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n53f5ae0d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260730/134396010/2",
-    "title": "“면접비 봉투에 편지 한 장“…국토안전관리원, 취준생 울린 ‘깜짝 배려’",
-    "summary": [
-      "국토안전관리원이 2026년도 제1차 직원 채용 면접을 마친 지원자들에게 면접비와 함께 격려 편지를 전달해 화제를 모았다.",
-      "편지에는 취업준비생들의 노고를 위로하고 응원하는 메시지가 담겼으며, 일부 온라인 커뮤니티에서도 따뜻한 채용 문화라는 긍정적인 반응이 이어졌다."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
-    "id": "nc453bede",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730525",
-    "title": "김제서 90세 여성 숨져 '열사병'…전북 온열질환 사망 2명",
-    "summary": [
-      "[전주=뉴시스]강경호 기자 = 폭염이 이어지는 가운데 전북에서 온열질환으로 인해 90대 여성이 숨졌다.",
-      "전북 지역에서는 올해 두번째 온열질환으로 인한 사망자다.",
-      "30일 전북특별자치도와 전북 김제소방서 등에 따르면 지난 29일 오후 4시14분께 김제시 하동의 한 텃밭에서 A(90·여)씨가 쓰러진 채 발견됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na2378fcd",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/industry/2026/07/30/2026073017344032899",
-    "title": "HL만도 2분기 영업이익 1070억원…전년동기대비 2.8%↑",
-    "summary": [
-      "HL만도가 올해 2분기 매출 2조5000억원, 영업이익 1070억원을 기록했다고 30일 공시했다.",
-      "지난해 같은 기간 대비 각각 3.9%, 2.8% 증가한 수치다.",
-      "북미 전기차 선도 업체와 중국 전기차 기업, 인도·유럽 고객사 중심의 외형 성장 시현이 실적을 견인했다."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "nfddd639f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730527",
-    "title": "'단일종목 레버리지' 총량규제 속도…정부 \"논의 거쳐 투자한도 결정\"",
-    "summary": [
-      "[서울=뉴시스] 최홍 기자 = 금융당국이 조만간 업계 논의를 거쳐 단일종목 레버리지 관련 계좌별 투자한도를 확정할 계획이다.",
-      "또 거래비용에 대한 부담 금액과 투자자 모의거래 대상도 공식화하겠다고 했다.",
-      "금융위원회는 30일 이같은 내용의 '단일종목 레버리지 상품 추가조치 과제별 설명자료'를 배포했다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n5d7f08cb",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260730/134395422/1",
-    "title": "[단독] ‘수유동 오피스텔 살인사건’ 피의자, 성 관련 범죄로 처벌받은 적 있다",
-    "summary": [
-      "‘수유동 오피스텔 살인 사건‘의 피의자 50대 나모 씨가 음란물 수백 건을 구매해 소지하는 등 성(性) 관련 범죄로 처벌을 받았던 것으로 확인됐다.",
-      "법원은 30일 나 씨에 대한 구속영장을 발부했다.나 씨의 판결문에 따르면 의정부지법은 2021년 3월 아동 청소년의 성보호에 관한 법률 위반(음란물소지)으로 기소된 나 씨에게 1심에서 징역 10개월, 집행유예 2년을 선고했다.",
-      "나 씨는 2019년 12월 랜덤채팅 애플리케이션(앱)으로 만난 상대방에게."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba8e0cc6",
+    "id": "n1cedd34a",
     "category": "사회",
     "source": "연합뉴스",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730117753527",
-    "title": "LG전자, 2분기 매출·영업익 '분기 최대'…관세 환급효과 3천억(종합2보)",
+    "url": "https://www.yna.co.kr/view/AKR20260730175051007",
+    "title": "이용수 축구협회장 직무대행 \"중징계 불복 항소 취하 않겠다\"(종합)",
     "summary": [
-      "(서울=연합뉴스) 조성흠 강태우 기자 = LG전자가 올해 2분기 매출과 영업이익 모두 2분기 기준 역대 최대 실적을 거뒀다."
+      "(서울=연합뉴스) 오명언 기자 = 대한축구협회가 문화체육관광부 특정감사 결과에 불복해 낸 소송과 관련해 국회가 항소 취하 의향을 묻자, 축구협회..."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "ndbe074fd",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026073017464260212",
-    "title": "금투협, 증권사에 \"금가분리 지켜달라\" 주의 서신",
-    "summary": [
-      "금융당국이 증권사에 가상자산 관련 업무를 할 때 금가분리(금융·가상자산 분리) 원칙을 지켜달라고 당부했다.",
-      "30일 가상자산업계 등에 따르면 금융투자협회는 이날 각 증권사에 '가상자산 관련 업무 추진 시 유의사항 전파'라는 제목의 업무서신을 보냈다.",
-      "이 서신은 금융감독원 요청에 따라 보내진 것으로 알려졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n530360c1",
+    "id": "n0a5b019f",
     "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260730/134397060/1",
-    "title": "아우디, 브랜드 첫 풀사이즈 SUV ‘Q9’ 공개… 고급차 라인업 재편",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730180200062",
+    "title": "\"북한 무인기 아닌 게 천만다행\" 철원 주민들 가슴 '철렁'",
     "summary": [
-      "아우디가 브랜드 역사상 처음으로 풀사이즈 스포츠유틸리티차량(SUV) ‘아우디 Q9(Audi Q9)’을 공개했다.",
-      "Q9은 SUV 라인업 중 최상위 모델로, 넓은 실내 공간과 탑승 환경, 각종 기술을 갖추고 새로운 플래그십 SUV로 자리한다.게르놋 될너 아우디 AG 이사회 의장은 “앞으로 아우디가 말하는 ‘Vorsprung durch Technik(기술을 통한 진보)’은 차 안에서의 경험을 중심으로 다시 정의될 것이다.",
-      "자동차는 이제 단순한 이동수."
+      "(철원·서울=연합뉴스) 양지웅 김철선 기자 = \"민통 초소입니다.",
+      "현 시간부로 전방 상황에 대하여 철수해주셔야 합니다\"."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "n73d4f34c",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260730/134394825/1",
-    "title": "AI 투자에 현금 쏟아붓는 빅테크…메타, 잉여현금흐름 91% 급감",
+    "id": "n6baf9283",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730557",
+    "title": "미국인 대다수 \"이란과의 전쟁, 가치 없다\"…공화당원도 37% 달해",
     "summary": [
-      "인공지능(AI) 데이터센터와 첨단 AI 칩 확보에 막대한 돈을 쏟아붓는 빅테크들의 현금 상황에 ‘빨간불’이 켜지고 있다.",
-      "AI가 매출 성장을 이끌고 있지만, 벌어들인 현금을 AI 인프라 추가 투자에 대부분 다시 사용하고 있기 때문이다.29일(현지 시간) 메타에 따르면 2분기(4~6월) 이 회사의 잉여현금흐름(FCF)은 7억8400만 달러(약 1조 원)로, 지난해 같은 기간 85억5000만 달러(약 12조 원) 대비 91% 감소했다."
+      "[워싱턴=AP/뉴시스] 유세진 기자 = 대부분의 미국인들은 이란 전쟁이 싸울 가치가 없었다고 말하며, 이란 전쟁과 관련해 도널드 트럼프 미 대통령에 대한 지지율은 지난달 이후 약간 하락했다고 AP-NORC의 새로운 여론조사가 밝혔다.",
+      "이는 트럼프 대통령의 이란 전쟁 접근 방식에 대한 강력한 비판을 보여주는 것이다.",
+      "전쟁은 트럼프가 당초 예상했던 것보다 훨씬 더 오래 지속되고 있다."
     ],
     "chips": [
-      "#AI"
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne579fbdf",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730508",
+    "title": "탁구대표팀 \"AG 금메달 1~2개 목표…중국에 위축되는 느낌 없어\"(종합)",
+    "summary": [
+      "[진천=뉴시스]박윤서 기자 = 2026 아이치-나고야 아시안게임(AG)을 대비해 훈련에 돌입한 한국 탁구 대표팀이 금메달 1~2개를 내걸었다.",
+      "최영일 탁구 대표팀 총감독은 30일 충북 진천국가대표선수촌에서 열린 2026 아이치-나고야 아시안게임 미디어데이에서 취재진과 만나 \"금메달 1~2개를 바라보고 있다.",
+      "다른 종목에서도 은메달과 동메달을 챙길 수 있도록 하겠다\"고 각오를 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n321e5cff",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730579",
+    "title": "울진서 첫 온열질환 사망, 밭일 하던 80대…체온은 38도",
+    "summary": [
+      "[울진=뉴시스]안병철 기자 = 경북 울진에서 폭염 속 밭일을 하던 80대가 열사병으로 숨졌다.",
+      "30일 경북소방본부 등에 따르면 지난 29일 오후 1시25분께 울진군 울진읍 읍남리의 한 밭에서 A(80대)씨가 쓰러져 있는 것을 아내가 발견해 119에 신고했다.",
+      "A씨는 출동한 구급대에 의해 인근 병원으로 이송됐지만 숨졌다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "naa9aebad",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "10분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/07/30/E5GYIUCGO5HNPGVB6P7ZT3IBWA/",
+    "title": "삼성전자, 반도체 스타트업 투자·기술 확보에 8000억 출자",
+    "summary": [
+      "삼성전자, 반도체 스타트업 투자·기술 확보에 8000억 출자."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n4bc1f54e",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730180400061",
+    "title": "'32억 전세사기' 해외 도피 검찰수사관 구속 송치",
+    "summary": [
+      "(화성=연합뉴스) 김지원 기자 = 경기 화성 동탄에서 수십억대 전세 사기를 저지르고 해외로 달아났다가 국내로 강제 송환된 검찰 수사관이 검찰에 ..."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "nf0c51667",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026073018365675532",
+    "title": "장동혁 \"선관위 특검, 공소시효 남았다면 총·대선 등 모둔 선거 수사 가능\"",
+    "summary": [
+      "장동혁 국민의힘 대표가 본회의를 통과한 6·3 지방선거 투표용지 부족 사태 특검법상 수사 범위와 관련해 \"공소시효만 남아있다면 모든 수사가 가능하다\"고 주장했다.",
+      "장 대표는 30일 특검법 통과 후 국회에서 기자회견을 열고 \"수사 대상 협의 과정에서 가장 중요하게 생각하고 마지막까지 합의를 이루는 데 쟁점이었을 특검법 조항은 2조 제10호\"라며 이같이 밝혔다.",
+      "특검법 2조 10호는 '선거관리위원회 선거 관리 시스템 관리."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3df4936d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730179800055",
+    "title": "편의점 직원 흉기로 찌르고 현금 챙겨 도주 40대 구속",
+    "summary": [
+      "(전주=연합뉴스) 김문경 기자 = 새벽 시간대 편의점에 침입해 점원을 흉기로 찌르고 현금을 훔쳐 달아난 40대가 구속됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04a5d3d5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "11분 전",
+    "url": "https://www.hankyung.com/article/2026073064661",
+    "title": "\"이름 있는 회사라 믿었는데\"…보고서 실체 알고보니 '충격'",
+    "summary": [
+      "\"이름 있는 회사라 믿었는데\"…보고서 실체 알고보니 '충격'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f9d7697",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/2026073064701",
+    "title": "美 \"반격할 차례\" 공습 재개…이란은 中 미사일 400기 구매",
+    "summary": [
+      "美 \"반격할 차례\" 공습 재개…이란은 中 미사일 400기 구매."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -649,8 +646,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
@@ -661,8 +658,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
