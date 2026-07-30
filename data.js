@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-30 13:32:00
+// 마지막 업데이트: 2026-07-30 14:44:18
 window.NEWS_DB = [
   {
     "id": "n0c06c07a",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nf99a2aa1",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTVFqRDdjd1FCX2RUcERXaElYN3hDNnpRM3JOQXJfREVUMENDdVRXWHl0NTNPRFd1OFcyaVFSRnpwTnNSanlUMExIY0NuX0p3Q2NqT1ZSZGVkV1c1U3BKbUJXSHItekgxVzB2RjFmYw?oc=5",
     "title": "삼성전자, 메모리 70% 장기 계약...HBM·파운드리는 추격",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n6aa2d332",
     "category": "경제",
     "source": "Chosunbiz",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
@@ -76,12 +76,12 @@ window.NEWS_DB = [
   {
     "id": "nadcbed93",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "businesspost.co.kr",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
-      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 비즈니스포스트."
+      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -183,12 +183,12 @@ window.NEWS_DB = [
   {
     "id": "n6b58f8f3",
     "category": "사회",
-    "source": "아주경제",
+    "source": "ajunews.com",
     "time": "31일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
     ],
     "chips": [
       "#채용",
@@ -242,12 +242,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "62일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -257,12 +257,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "79일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -381,264 +381,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7f03e1bc",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026073022311106906",
-    "title": "정명근 화성시장, 폭염 대응시설 현장점검…\"시민 안전 빈틈없이\"",
-    "summary": [
-      "경기 화성특례시가 연일 이어지는 폭염에 대응해 무더위쉼터와 스마트쉘터 등 폭염 대응시설에 대한 현장점검을 강화하며 시민 안전 확보에 나섰다.",
-      "화성특례시(시장 정명근)는 30일 폭염주의보가 지속되는 가운데 온열질환 등 인명피해를 예방하기 위해 관계부서와 함께 관내 무더위쉼터와 스마트쉘터를 대상으로 현장점검을 실시했다고 밝혔다.",
-      "이날 정명근 화성시장은 서신면 해운경로당 무더위쉼터와 병점역 버스정류소 스마트."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne6482c2c",
+    "id": "n01ba69d8",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730675",
-    "title": "美 주간 신규 실업수당 청구 19만7000건…전주 대비 소폭 상승",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730698",
+    "title": "\"러 1년만에 우크라 향해 북한제 미사일 발사한 듯\"",
     "summary": [
-      "[서울=뉴시스] 권성근 기자 = 지난주 실업수당을 신청한 미국인 수는 약간 늘어났지만, 미 노동시장은 여전히 견조한 흐름을 이어가고 있는 것으로 나타났다.",
-      "AP통신 등에 따르면 미 노동부는 30일(현지 시간) 지난주 신규 실업수당 청구 건수가 한 주 전보다 9000건 증가한 19만7000건으로 집계됐다고 발표했다.",
-      "데이터 제공업체 팩트셋이 집계한 전문가 전망치 20만7000건을 밑돌았다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n572abe93",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/politics/2026/07/30/2026073022151913545",
-    "title": "배현진 \"HDC 임직원이 축협서 배임·횡령…'몸통' 정몽규 수사해야\"",
-    "summary": [
-      "[the300] 배현진 국민의힘 의원이 대한축구협회 청문회에서 현대산업개발(HDC) 임직원의 축구협회 자문직 겸직, 횡령·배임 의혹과 관련해 정부에 정몽규 전 대한축구협회장을 고발하라고 촉구했다.",
-      "배 의원은 30일 서울 여의도 국회 문화체육관광위원회에서 개최한 축구협회 청문회에서 \"(HDC 임원) A씨가 스스로 손을 들고 축구협회에 갔겠느냐\"며 \"지시받은 직원은 횡령·배임 혐의로 수사를 받는데 그 직원을 보내고 쓰고 관리한 정몽규 전 회장은 왜."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n93e7e35a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003729662",
-    "title": "'공정성 의혹\" 홍명보 \"특혜 없었다…법인카드, 개인 사용도 안 해\"(종합)",
-    "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 홍명보 전 한국 남자 축구 대표팀 감독이 자신을 둘러싼 공정성 의혹을 전면 부인했다.",
-      "홍명보 전 감독은 30일 서울 여의도 국회에서 열린 문화체육관광위원회의 대한축구협회 청문회에 증인으로 참석했다.",
-      "홍 전 감독은 지난 2024년 7월 위르겐 클린스만(독일) 전 감독 후임으로 대표팀을 이끌게 됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf1f3b4c8",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/world/2026/07/30/2026073022164618853",
-    "title": "\"일본 여행 필수 코스였는데\"…디즈니랜드·유니버설 입장료 줄인상",
-    "summary": [
-      "일본을 대표하는 테마파크들이 잇따라 입장권 가격을 올리면서 일본 여행객들의 부담이 커지고 있다.",
-      "지난 29일 NHK 등 일본 현지 매체에 따르면 도쿄 디즈니랜드 운영사 오리엔탈랜드는 오는 10월 11일과 17일, 24일 등 일부 주말 성인 1일권 가격을 기존보다 오른 1만2400엔(약 10만9000원)으로 책정했다.",
-      "그동안 성인 입장권 가격은 7900엔부터 최대 1만900엔 수준이었다."
+      "[서울=뉴시스] 권성근 기자 = 러시아가 1년여 만에 우크라이나 공습에 북한제 미사일을 사용한 것으로 보인다고 싱가포르 스트레이츠타임스(ST) 등 외신이 30일(현지 시간) 보도했다.",
+      "보도에 따르면 지난 밤사이 러시아 공격으로 우크라이나 중부 크리비리흐 마을에 미사일이 떨어져 일가족이 사망했는데, 여기에 북한 미사일이 쓰였을 가능성이 높다고 한다.",
+      "러시아는 과거에도 우크라이나에 KN-23(화성-11가), KN-24(화성-11나) 등 미사일을 발."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7d2be7c1",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026073022230602748",
-    "title": "화성시, AI로 민원 예측…'문제해결형 도시데이터 플랫폼' 구축 착수",
-    "summary": [
-      "경기 화성특례시(시장 정명근)가 도시 곳곳에 흩어진 데이터를 하나로 연결해 시민이 민원을 제기하기 전에 문제를 예측하고 대응하는 인공지능(AI) 기반 행정체계 구축에 나섰다.",
-      "화성시는 30일 시청 본관 상황실에서 '문제해결형 도시데이터플랫폼 구축 사업' 착수보고회를 열고 데이터 기반 행정 전환을 위한 본격적인 사업 추진에 들어갔다고 밝혔다.",
-      "이번 사업은 행정안전부의 '공공부문 인공지능(AI) 서비스 지원 공모사업'에."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n9d2002e4",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/stock/2026/07/30/2026073021377058722",
-    "title": "[시선강탈] LG생활건강 vs 셀트리온 vs 대한전선, 공략법은?",
-    "summary": [
-      "▶ 진행 - 이수연 앵커 ▶ 출연 - 이용준 MTNW 어드바이저 송필호 MTNW 어드바이저 최태훈 MTNW 어드바이저 ▶▶▶ 시선강탈 공략주 이용준 관심주 - LG생활건강 - 미국 실적 업고 급성장… 2분기 영업이익 1,028억 - 면세 채널 회복과 북미 수출 수요 증가 - 화장품 부문 영업이익 444억으로 흑자 전환 - 목표가 330,000원 / 손절가 270,000원 송필호 관심주 - 셀트리온 - 글로벌 바이오 시밀러 기업 - 2분기 영업이."
-    ],
-    "chips": [
-      "#수출",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd7d0c21d",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/07/30/MYZDAZTEMIZDMNZSGYYGMYZYMY/",
-    "title": "미국 6월 PCE 물가 3.7% 상승…시장 전망 근접",
-    "summary": [
-      "미국의 6월 개인소비지출(PCE) 물가지수가 전년 동월보다 3.7% 오른 것으로 나타났다.",
-      "전월과 비교하면 0.1% 하락했다.",
-      "미 상무부는 30일(현지 시각) 6월 PCE 물가지수를 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n812378c1",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/30/2026073019092968977",
-    "title": "\"지면 우리 욕하니까\" 16년간 韓 심판 '월드컵 0명 배출' 지적에 문진희 위원장 '황당 궤변'",
-    "summary": [
-      "대한축구협회의 파행 행정을 규명하기 위해 열린 국회 청문회에서 문진희 대한축구협회 심판위원장의 자격 미달성 발언과 안하무인 격 태도가 의원들의 거센 공분을 샀다.",
-      "이정문 더불어민주당 의원은 30일 열린 국회 문화체육관광위원회 청문회에서 \"이번 월드컵에 170명의 심판이 갔다고 들었다.",
-      "왜 한국은 한 명도 보내지 못했느냐\"며 국제 무대에서 실종된 한국 축구 심판진의 위상을 꼬집었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n25eebfbe",
+    "id": "n4427aed1",
     "category": "사회",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/30/GJTGCNZVMFQWIMDBMU3GKMBSGA/",
-    "title": "'호날두와 재회?' 맨유 성골, \"오일 머니 NO, 오직 유럽 빅클럽만 원해\".. 사우디행 가능성 '제로'",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/opinion/contribution/2026/07/30/GXMNVINWBRGAZNOSLUKWCG5S7Q/",
+    "title": "[기고] 무너진 교권 살릴 열쇠, 학부모가 쥐고 있다",
     "summary": [
-      "[OSEN=강필주 기자] 맨체스터 유나이티드(맨유) 성골 출신 마커스 래시포드(29)가 사우디아라비아 알 나스르에서 과거 동료 크리스티아누 호날두와 재회할 것이라는 소문을 부인하고 나섰다.유럽 이적시장 전문가 파브리치오 로마노는 30일(한국시간) 자신의 유튜브 채널을 통해 최근 소셜 미디어(SNS)를 중심으로 퍼진 래시포드의 알 나스르 이적설을 정면으로 일."
+      "[기고] 무너진 교권 살릴 열쇠, 학부모가 쥐고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n18269989",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730668",
-    "title": "태도 논란 불거진 심판위원장·답변 회피한 축구협회 간부들",
-    "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 대한축구협회가 국회 문화체육관광위원회 청문회에서 질타를 받은 가운데, 논란이 될 장면이 나왔다.",
-      "30일 국회에서 문체위의 대한축구협회에 대한 청문회가 진행됐다.",
-      "국회의원과 증인이 서로 언성을 높이는 장면이 나오기도 했다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb424537b",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730604",
-    "title": "[KBO 내일의 선발투수]7월31일(금)",
-    "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 7월31일(금)> ▲잠실(오후 6시30분) LG (송승기) - (잭로그) 두산 ▲사직(오후 6시30분) 삼성 (원태인) - (김진욱) 롯데 ▲수원(오후 6시30분) 한화 (류현진) - (소형준) KT ▲창원(오후 6시30분) KIA (양현종) - (토다 나츠키) NC ▲고척(오후 6시30분) SSG (김건우) - (박준현) 키움."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5144b867",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260730/134398400/1",
-    "title": "법원, ‘민주당 전대 선호투표제’ 효력정지 가처분 기각",
-    "summary": [
-      "더불어민주당이 8·17 전당대회 당 대표 경선에 선호투표제를 도입한 것에 대한 효력정지 가처분 신청이 법원에서 기각됐다.",
-      "전국 순회 경선이 이틀 앞으로 다가온 가운데 당권 주자 캠프들도 법원의 결정이 어떤 영향을 미치게 될지 촉각을 곤두세우는 분위기다.",
-      "서울남부지법 민사합의51부(부장판사 권성수)는 30일 유튜버 김모 씨가 민주당을 상대로 제기한 효력정지 가처분 신청을 기각했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbe5fd287",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724168155007",
-    "title": "[프로야구] 31일 선발투수",
-    "summary": [
-      "[프로야구] 31일 선발투수."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n536b5e3c",
+    "id": "n36e51d93",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730192000051",
-    "title": "파업 8일째 부산 반도체기업 리노공업 노사 첫 교섭 결렬",
-    "summary": [
-      "(부산=연합뉴스) 오수희 기자 = 부산 기업 중 시가총액 1위인 반도체 테스트 부품 기업 리노공업[058470] 노조가 전면 파업 중인 상황에서..."
-    ],
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730195200009",
+    "title": "뉴욕증시, 마이크로소프트 실적·반도체 강세 힘입어 상승 출발",
+    "summary": [],
     "chips": [
       "#반도체"
     ]
   },
   {
-    "id": "n8d42c362",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724167955007",
-    "title": "[프로야구 중간순위] 30일",
+    "id": "ne287260d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/30/GZTDKZDCMJTDINZWMY3TGZBWGQ/",
+    "title": "강유석, 쌀수저 자랑 “할아버지 감자·쌀 농사 지어···쌀 사먹어 본 적 없어”('언니네 산지직송')",
     "summary": [
-      "[프로야구 중간순위] 30일."
+      "Screenshot<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] '언니네 산지직송3’ 배우 강유석이 조부 덕분에 쌀을 사 먹어 본 적이 없다고 밝혀 시선을 끌었다.30일 첫 방영한 tvN 예능 ‘언니네 산지직송3’에서는 염정아, 김선영, 강유석, 노윤서가 첫 만남을 가졌다.",
+      "산지로 떠나기 전 이들은 서로 만나 서로의 인연을 확인."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "nd827c994",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "24분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260730/134398449/1",
-    "title": "[IT하는법] 신형 노트북의 코파일럿(AI) 키, 끄거나 다른 키로 바꾸려면?",
+    "id": "n87743e07",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730625",
+    "title": "투모로우바이투게더 '굿 보이 곤 배드'도 넘겼다…11번째 1억뷰 뮤비",
     "summary": [
-      "최근 출시되는 노트북 중에는 누르기만 하면 마이크로소프트의 AI 서비스 ‘코파일럿(Copilot)’이 실행되는 전용 키를 갖춘 제품이 많다.",
-      "이 키는 우측 Alt 키 바로 옆, 과거 우측 Ctrl 키가 있던 자리에 배치되는 경우가 대부분이다.물론 코파일럿을 자주 쓰는 사용자라면 이 키를 통해 AI 기능을 빠르게 불러올 수 있어 편리하다.",
-      "하지만 코파일럿을 거의 쓰지 않거나, AI를 쓰더라도 챗GPT나 제미나이, 클로드 등 다른 서비스를 주로 이."
+      "[서울=뉴시스]이재훈 기자 = 그룹 '투모로우바이투게더'(TXT·투바투)의 '굿 보이 고곤 배드(Good Boy Gone Bad)' 뮤직비디오가 유튜브 조회 수 1억 회를 돌파했다.",
+      "30일 소속사 빅히트 뮤직(하이브)에 따르면, 이 뮤직비디오는 이날 오전 11시 35분께 1억 뷰를 넘어섰다.",
+      "팀 통산 11번째 1억 뷰 기록이다."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb0b59c2d",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/politics/2026/07/30/2026073023001010614",
+    "title": "국회, '축구협회 제도 개선' 결의문 채택…\"지배구조 혁신·파벌 청산\"",
+    "summary": [
+      "[the300] 국회 문화체육관광위원회가 '대한축구협회 공공성 및 투명성 제고를 위한 제도 개선 이행 촉구 결의문'을 채택했다.",
+      "여야는 30일 서울 여의도 국회 문체위에서 열린 대한축구협회 청문회에서 축구협회 제도 개선 이행 촉구 결의문을 채택했다.",
+      "이재정 문체위원장은 \"최근 축구협회를 둘러싸고 여러 논란이 있다\"고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n608e4911",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260730/134398329/2",
+    "title": "[사설]‘속도전’ 외친 공공택지 청약 지연 70%… 공급 병목부터 풀어야",
+    "summary": [
+      "정부가 공공주도 주택 공급에서 속도전을 외치고 있지만 현장에서는 속도감이 아직 느껴지지 않고 있다.",
+      "사전청약까지 받은 수도권 공공택지조차 본청약이 몇 년씩 지연되는 일이 벌어진다.",
+      "입주가 기약 없이 미뤄지는 사이 당국을 믿고 청약한 당첨자들의 주거 불안도 커지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n198cda02",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260730/134398333/2",
+    "title": "[사설]1년 반 공백 메운 스틸 美대사, 동맹 현안 조율 창구 되길",
+    "summary": [
+      "미셸 박 스틸 주한 미국대사가 30일 한국에 부임했다.",
+      "이로써 미국 도널드 트럼프 2기 행정부 출범 이후 1년 반 동안 이어진 주한 미국대사 공석이 해소됐다.",
+      "남편과 함께 인천공항에 도착한 스틸 대사는 “한미동맹은 세계에서 가장 강력한 동맹 중 하나”라며 “어느 때보다 강력하고, 안전하며, 번영할 것”이라고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb4f4c51e",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730712",
+    "title": "\"고대 카르텔\" \"빵집 면접\"…여야, 청문회서 축구협회 한목소리 질타(종합)",
+    "summary": [
+      "[서울=뉴시스]한은진 김진엽 이창환 기자 = 여야는 30일 대한축구협회 청문회에서 축구협회의 운영 문제와 홍명보 전 축구 국가대표팀 감독 선임 과정 등을 한목소리로 질타했다.",
+      "여야는 이날 국회 문화체육관광위원회 주최로 열린 축구협회 청문회에서 정몽규 전 대한축구협회장과 홍 전 감독 등을 상대로 감독 선임 과정과 협회 운영에 대해 문제를 제기했다.",
+      "임오경 더불어민주당 의원은 이날 국회 문화체육관광위원회 대한축구협회 현안 관련 청문회에서 정몽규 전."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n52008001",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260730/134398331/2",
+    "title": "[사설]“마법 지팡이는 없다”… 곧 닥칠 美 금리 인상 충격 대비해야",
+    "summary": [
+      "미국 연방준비제도(Fed·연준)가 기준금리를 동결했다.",
+      "분위기는 만장일치로 동결했던 지난달 회의와 달라졌다.",
+      "위원 12명 중 3명이 금리 인상 의견을 냈다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "ndd08e3e0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730168651099",
+    "title": "이집트 \"다미에타항 LNG 선박 화재, 드론 공격이 원인\"(종합)",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 이집트 정부는 29일(현지시간) 지중해 다미에타 항구에서 발생한 액화천연가스(LNG) 관련 선박 화재..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd3f194c3",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730194600007",
+    "title": "홍명보, 축구 유튜버·셀럽 향해 \"협회·현장 들어가 바꾸라\"",
+    "summary": [
+      "(서울=연합뉴스) 최송아 기자 = 국회 청문회에 출석한 홍명보 전 축구 국가대표팀 감독이 대한축구협회에 대해 미디어를 통해 비판 목소리를 내는 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n324efcdf",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260730/134397991/2",
+    "title": "치매 연구 돕는 ‘뇌 기증자’ 723명 [횡설수설/우경임]",
+    "summary": [
+      "“인간으로서 우리는 몇 광년 떨어진 은하를 식별하고 원자보다 작은 입자를 연구할 수 있다.",
+      "하지만 우리 두 귀 사이에 자리 잡은 3파운드(약 1.4kg)짜리 물질의 비밀은 여전히 풀지 못했다.” 2013년 4월 버락 오바마 전 미국 대통령은 ‘뇌 이니셔티브’를 출범시키며 그 필요성을 이렇게 설명했다.",
+      "‘과학의 오지’인 뇌를 연구하는 데 45억 달러를 투자하겠다는 계획도 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1f4513ac",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730284",
+    "title": "줄리엔 강 아내 \"병원비 64만원…앞으로는 매달 100만원대 예상\"",
+    "summary": [
+      "[서울=뉴시스]박재민 인턴 기자 = 방송인 줄리엔 강의 아내 제이제이가 반려견 병원비를 공개했다.",
+      "제이제이는 30일 소셜미디어에 \"돈 잡아먹는 귀신.",
+      "원래 한 달에 한 번 검진인데 그나마 유지가 잘 되어서 올해는 2~3개월로 텀이 늘었어요\"라는 글과 함께 영수증 사진을 올렸다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2cfaafa2",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730094452007",
+    "title": "'월드컵 부진' 축구협회, 국회 청문회선 부인·회피로 철벽 방어(종합2보)",
+    "summary": [
+      "(서울=연합뉴스) 최송아 박경준 기자 = 국회 문화체육관광위원회 소속 여야 의원들이 청문회를 통해 대한축구협회의 행정 난맥상을 짚었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n005e3744",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "49분 전",
+    "url": "https://www.mt.co.kr/world/2026/07/30/2026073022512324668",
+    "title": "이란 \"요르단 美공군기지 공격해 F-35 3대 파괴\"",
+    "summary": [
+      "이란이 30일(현지시간) 요르단 미군기지를 공격해 F-35 전투기를 파괴했다고 주장했다.",
+      "이란 국영 IRRB 방송에 따르면 이란 이슬람혁명수비대(IRGC)는 이날 요르단 알아즈라크 공군기지를 탄도미사일로 공격해 미군 F-35 전투기 3대가 완파되고 3대가 심각하게 손상됐다고 밝혔다.",
+      "IRGC는 이번 공격은 미국의 이란 케슘섬 공격에 대한 대응으로 항공기 계류장 및 정비 격납고를 표적으로 삼았다고 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd5ca4a76",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "53분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/30/2026073015513972264",
+    "title": "덕수고 13연속 전국대회 결승 무패! 17년 만의 한도 풀었다... 유신고 7-4 꺾고 대통령배 우승",
+    "summary": [
+      "정윤진 감독이 이끄는 덕수고등학교가 13연속 전국대회 결승 무패의 기록을 이어갔다.",
+      "그리고 그 끝에는 17년 만의 대통령배 우승 트로피가 기다리고 있었다.",
+      "덕수고는 30일 경북 포항야구장에서 열린 제60회 대통령배 전국고교야구대회 결승전에서 유신고를 연장 10회 승부치기 끝에 7-4로 꺾고 우승을 차지했다."
+    ],
+    "chips": [
+      "#KBO",
+      "#정치",
+      "#교육"
     ]
   }
 ];
@@ -647,7 +647,7 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
+    "tag": "뉴스",
     "mentions": "1940건",
     "trend": "+195%"
   },
@@ -659,7 +659,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   }
