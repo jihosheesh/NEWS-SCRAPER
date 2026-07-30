@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-30 11:35:36
+// 마지막 업데이트: 2026-07-30 12:31:09
 window.NEWS_DB = [
   {
     "id": "nf99a2aa1",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTVFqRDdjd1FCX2RUcERXaElYN3hDNnpRM3JOQXJfREVUMENDdVRXWHl0NTNPRFd1OFcyaVFSRnpwTnNSanlUMExIY0NuX0p3Q2NqT1ZSZGVkV1c1U3BKbUJXSHItekgxVzB2RjFmYw?oc=5",
     "title": "삼성전자, 메모리 70% 장기 계약...HBM·파운드리는 추격",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n6aa2d332",
     "category": "경제",
     "source": "Chosunbiz",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
@@ -62,12 +62,12 @@ window.NEWS_DB = [
   {
     "id": "nadcbed93",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "businesspost.co.kr",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
-      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 비즈니스포스트."
+      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -135,6 +135,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n542b0c9d",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Zdnl3ckNweGdrdkxuSUNEMGFFVG1hTjkyMFVhN3AyVy12MjE5OE1OQ2FjdGVnWFF0ckNnMDhnMkJsaTNkTFVyRXNBUmRhOVlrQlhTeFdyN2ZnTFpZYkxseg?oc=5",
+    "title": "애슬레틱스 구단주 KBO 방문…허구연 총재와 야구 교류 논의",
+    "summary": [
+      "애슬레틱스 구단주 KBO 방문…허구연 총재와 야구 교류 논의 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n0b5690bb",
     "category": "IT",
     "source": "데일리인베스트",
@@ -148,21 +162,6 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nb6df5091",
-    "category": "스포츠",
-    "source": "starnewskorea.com",
-    "time": "28일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMm5icnpMS3ZXWEhjMTBGWUY5WTBnWko2akRFZEJwSVdoaW9HZl96NVo0WS14X0NucWZjYU9weDAxdUJkSXdzY0VVYk9zMkFiZGJLRnRpalJVSDhYZHpxWl9JelR1MF9qbTNmM0gybFhIRmVPeEE?oc=5",
-    "title": "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위... 2위는 KBO 홈런 1위 김도영",
-    "summary": [
-      "'조별리그 탈락에도' 이강인 인기 굳건, 16주 연속 스타랭킹 1위...",
-      "2위는 KBO 홈런 1위 김도영 starnewskorea.com."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -184,12 +183,12 @@ window.NEWS_DB = [
   {
     "id": "n6b58f8f3",
     "category": "사회",
-    "source": "아주경제",
+    "source": "ajunews.com",
     "time": "31일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
     ],
     "chips": [
       "#채용",
@@ -243,12 +242,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "62일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -316,6 +315,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n7c0fb065",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153871",
+    "title": "메타, 2분기 매출 확대에도 수익성 울상...AI 투자 부담으로",
+    "summary": [
+      "메타가 시장 전망을 웃도는 매출을 거뒀다.",
+      "반면 영업이익과 순이익은 감소했다.",
+      "AI 투자 확대의 영향이다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "n664f0410",
     "category": "경제",
     "source": "테크M",
@@ -366,276 +381,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neb112da7",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153865",
-    "title": "LG전자, \"하반기 불확실성 가중...AIDC·로봇 사업 본격화\"(종합)",
-    "summary": [
-      "LG전자가 2026년 2분기 실적을 공개했다.",
-      "역대 2분기 기준 최대 성적을 달성했다.",
-      "하반기에도 이 기세를 이어갈 수 있을지는 미지수다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n4e445f24",
+    "id": "n02b36fd7",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730187600504",
-    "title": "軍, 연합훈련 참가 美무인기에 '두루미' 발령…자칫 격추할 뻔",
-    "summary": [
-      "(서울=연합뉴스) 김철선 기자 = 우리 군 당국이 한미 연합훈련을 위해 접경지역 일대를 비행하던 미군 무인기를 북한 무인기 등 위협 세력으로 오..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nff648dac",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260730/134397349/1",
-    "title": "‘1만6000명 개인정보 유출’ KT에 과징금 540억 부과…역대 네 번째 규모",
-    "summary": [
-      "개인정보보호위원회(개인정보위)가 불법 펨토셀(소형 기지국)을 통한 개인정보 유출 사고와 관련해 KT에 과징금 539억7900만 원을 부과했다.",
-      "개인정보위는 29일 전체회의를 열고 개인정보 보호법을 위반한 KT에 과징금 부과와 시정명령, 개선권고, 공표명령을 의결했다고 30일 밝혔다.",
-      "개인정보위가 한 기업에 부과한 과징금 가운데 쿠팡, SK텔레콤, 구글에 이어 역대 네 번째로 큰 규모다.이번 처분은 지난해 9월 경기 광명과 서울 금천 등에서 KT."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n88acf8ac",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/opinion/manmulsang/2026/07/30/YTGY7K7J5NHRPO4LXUGGPKDCEQ/",
-    "title": "[만물상] ‘너무 하얀’ 그래미",
-    "summary": [
-      "[만물상] ‘너무 하얀’ 그래미."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7440035b",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/sports/2026/07/30/2026073019095217742",
-    "title": "'프로야구 경기 중인데...' 50대 남성, 경찰 행세 끝에 붙잡혀 구속",
-    "summary": [
-      "잠실야구장에서 경광봉과 무전기 등을 차고 경찰 행세를 하던 50대 남성이 경찰에 붙잡혀 구속됐다.",
-      "머니투데이의 30일 보도에 따르면 서울 송파경찰서는 지난 25일 50대 남성 A씨를 경찰제복장비법(경찰제복 및 경찰장비의 규제에 관한 법률) 위반 혐의로 긴급체포해 구속했다.",
-      "A씨는 지난 25일 프로야구 두산 베어스와 삼성 라이온즈 경기가 열린 서울 송파구 잠실야구장에서 '경찰 POLICE'라는 문구가 적힌 표식을 비롯해 경광봉과 무전기 등 경찰."
-    ],
-    "chips": [
-      "#KBO",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n6dc2e6ac",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/30/2026073020214263885",
-    "title": "동탄 '32억 전세사기' 검찰수사관, 해외 도피 끝 구속송치",
-    "summary": [
-      "경기 화성 동탄 일대에서 수십억원대 전세 사기를 저지르고 해외로 달아났다가 강제 송환된 서울중앙지검 소속 검찰수사관이 검찰에 넘겨졌다.",
-      "30일 화성동탄경찰서는 사기 혐의로 서울중앙지검 소속 수사관 A씨를 수원지검에 구속 송치했다고 밝혔다.",
-      "A씨는 2022년부터 지난해까지 화성 동탄신도시 등지에 오피스텔 등 70여 채를 보유한 상태에서 임차인 25명의 전세 보증금 합산 32억원을 돌려주지 않은 혐의를 받는다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#전세"
-    ]
-  },
-  {
-    "id": "n1d2f13d3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730165651109",
-    "title": "가뭄·폭염·산불 '3중고' 유럽…기록적 저수위, 원전도 멈춰(종합)",
-    "summary": [
-      "(로마·이스탄불=연합뉴스) 민경락 김동호 특파원 = 기록적 폭염에 산불, 가뭄까지 가세하면서 유럽 전역이 시름하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c2cc76a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730644",
-    "title": "법원, '민주당 선호투표제' 효력정지 가처분 기각",
-    "summary": [
-      "[서울=뉴시스]이태성 김정현 기자 = 더불어민주당 전당대회준비위원회(전준위)가 당대표 경선 선호투표제를 도입하기 위해 당헌·당규 개정을 추진한 것이 문제라는 취지로 제기된 가처분 신청이 받아들여지지 않았다.",
-      "30일 법조계에 따르면 서울남부지법 민사합의51부(부장판사 권성수)는 이날 유튜버 김모씨가 더불어민주당을 상대로 제기한 효력정지 가처분 신청 사건을 기각했다.",
-      "'선호투표제'는 유권자가 후보를 순차 기명한 뒤 1차 투표에서 과반 득표자가 없으."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1adc1493",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730645",
-    "title": "경찰직협 '순환인사 반대' 릴레이 삭발 예고…투쟁위 결성(종합)",
-    "summary": [
-      "[서울=뉴시스]최은수 이태성 기자 = 경찰관 노조 대안 조직인 전국경찰직장협의회(경찰직협)가 정부의 강제 순환인사 방침에 대응하기 위한 공동투쟁위원회를 구성하고 삭발 투쟁을 포함한 강경 단체행동을 예고했다.",
-      "30일 경찰직협은 '강제 순환인사 반대 등 경찰근무환경 개선을 위한 공동투쟁위원회(투쟁위)'가 전날에 이어 이날 오전 서울 서대문구 경찰청 직협사무실에서 연이틀 회의를 열었다고 밝혔다.",
-      "투쟁위는 내부 조직 운영 및 법적 검토 등 준비 작업을."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n69742ca2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260730/134397059/1",
-    "title": "‘여중생 성매매 혐의’ 최영중 前청주시의원 구속…“증거인멸·도주우려”",
-    "summary": [
-      "여중생 성매매 혐의를 받는 최영중 전 충북 청주시의원(35)이 30일 구속됐다.이날 청주지법 태지영 영장전담 부장판사는 미성년자의제강간 등 혐의를 받는 최 전 의원에 대한 구속 전 피의자 심문을 진행한 뒤 “증거 인멸과 도주 우려가 있다”며 영장을 발부했다.최 전 의원은 2024년 10월부터 지난해 5월까지 두 차례에 걸쳐 차량과 모텔 등에서 여중생과 성관계를 맺고, 나체 사진을 촬영해 보내라고 요구한 혐의를 받는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9ec792fa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003730643",
-    "title": "[인사]NSP통신",
-    "summary": [
-      "[서울=뉴시스] ◇편집국 ▲경제부장 유명환."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea526d19",
-    "category": "경제",
     "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026073020271825761",
-    "title": "유로존 올해 2분기 GDP 0.4% 성장…중동전쟁 불구 예상 웃돌아",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026073021284769900",
+    "title": "검찰 미래위, '김학의 출국금지 수사' 진상조사한다",
     "summary": [
-      "유로존(유로화 사용 21개국) 경제가 중동전쟁 충격 속에서도 올해 2분기 성장했다.",
-      "30일 유럽연합(EU) 통계기구인 유로스타트에 따르면 유로화를 사용하는 21개국 국내총생산(GDP)의 전 분기 대비 올해 2분기 성장률은 0.4%인 것으로 집계됐다.",
-      "이번 실적은 시장 예상치(0.2%)를 상회했다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n6f0f91a3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/07/30/MFSDCMJTME3GMYTEGMZGGNTCMQ/",
-    "title": "‘축구협회 청문회날에 멀티골 대폭발’ 손흥민, MLS 올스타전 최고의 별 됐다",
-    "summary": [
-      "[OSEN=서정환 기자] 한국축구 청문회가 열린 날 '캡틴' 손흥민(34, LAFC)이 폭발했다.",
-      "MLS 올스타는 30일(한국시간) 미국 노스캐롤라이나주 샬럿 뱅크 오브 아메리카 스타디움에서 열린 2026 MLS 올스타전에서 리가 MX 올스타를 4-3으로 꺾었다.이날 MLS의 주장 완장을 차고 선발 출전한 손흥민은 전반에만 두 골을 터뜨리며 승리의 일등공신."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n9056794b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730187000083",
-    "title": "대만 \"日 지진피해 지원 민간성금 계좌 개설…한달간 모금\"",
-    "summary": [
-      "(베이징=연합뉴스) 정성조 특파원 = 대만 정부는 지난 28일 일본 구마모토에서 발생한 규모 7.1 강진의 피해 복구를 지원하기 위한 민간 기부..."
+      "검찰 수사권 남용 의혹을 규명하기 위해 출범한 검찰인권존중미래위원회(검찰 미래위)가 김학의 전 법무부 차관 긴급 출국금지 사건 수사 과정에서 발생한 인권 침해·권한 남용 의혹에 대한 진상조사에 나서기로 했다.",
+      "30일 법조계에 따르면 미래위는 최근 차규근 조국혁신당 의원 측에 김학의 긴급 출국금지 사건 수사를 진상규명이 필요하다고 보고 다음달 중 진상조사를 권고할 예정이라고 통보했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf038e1e6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/30/HBSTGNDGGAZTAYJZMFSDKMBWGA/",
-    "title": "'폐암 졸업' 이혜영, 솔직하게 털어놓은 속마음.. \"항암 때 가려 먹어, 진짜 힘들었다\" ('혜영이는못말려') [순간포착]",
-    "summary": [
-      "[OSEN=박근희 기자] 배우 겸 가수 이혜영이 햄버거 먹방과 함께 그간의 고생스러웠던 투병 생활을 솔직하게 털어놓았다.30일 오후 유튜브 채널 ‘혜영이는 못말려’에는 ‘폐암 투병 6년차, 마지막 검사를 앞둔 이혜영 ft.",
-      "공지사항’이라는 제목의 영상이 게재됐다.햄버거를 맛있게 먹는 이혜영을 보고 제작진은 \"진짜 잘 먹네.",
-      "이렇게 잘 먹는 사람이 (항암 치."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8521d4bc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730188100065",
-    "title": "경찰, 인천 쿠팡물류센터 화재 관련 밤까지 압수수색(종합)",
-    "summary": [
-      "(인천=연합뉴스) 홍현기 기자 = 대형 화재가 발생했다가 109시간여 만에 진화된 인천 서해구 석남동 쿠팡 물류센터를 대상으로 경찰이 강제 수사..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n97ba62dd",
+    "id": "nb638b530",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260730/134397827/1",
-    "title": "밤11시 동네빵집서 국대감독 면접…홍명보 “부당한 요구 안해”",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260730/134398299/1",
+    "title": "‘안산 필로폰 투약’ 中 국적 40대 버스기사 약물운전 혐의도 적용",
     "summary": [
-      "국회 문화체육관광위원회 소속 여야 의원들이 30일 대한축구협회에 대한 청문회에서 불공정한 축구 대표팀 사령탑 선임 절차와 축구협회 운영 난맥상을 추궁하며 홍명보 전 대표팀 감독과 정몽규 전 대한축구협회장을 강하게 질타했다.특혜 의혹 속에 2024년 7월 대표팀 지휘봉을 잡은 홍 전 감독은 2026 북중미 월드컵에서 1승 2패로 조별리그 문턱을 넘지 못했다.",
-      "이날 더불어민주당 조계원 의원은 “감독이 불공정하게 선임됐기 때문에 리더십을 발휘하지 못."
+      "음주운전 혐의로 검거됐다가 마약 투약 혐의까지 드러난 40대 시내버스 기사에 대해 경찰이 약물운전 혐의도 적용해 검찰에 넘길 예정이다.경기 안산단원경찰서는 마약류 관리법 위반, 도로교통법위반(약물운전, 음주운전) 등 혐의로 중국 국적 A씨를 검찰에 구속 송치할 계획이라고 30일 밝혔다.",
+      "A씨는 지난 5월 말부터 최근까지 SNS로 필로폰을 10여 차례 구매해 투약한 혐의를 받는다.",
+      "그는 또 마약의 영향으로 정상적으로 운전하기 어려울 우려가 있는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n947d5eb8",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730665",
+    "title": "\"중국 시장 장악했던 나이키 왜?\"…中 애국 소비에 '고전'",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 한때 중국 스니커즈 시장을 장악했던 나이키가 현지 소비자들의 외면 속에 고전하고 있다.",
+      "중국 스포츠웨어 시장은 성장세를 이어가고 있지만 나이키 중국 매출은 오히려 30% 감소했다.",
+      "'궈차오(國潮·China Chic)'로 불리는 애국 소비 열풍과 현지 브랜드 경쟁에서 밀린 결과라는 분석이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neef03324",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730656",
+    "title": "정성호, 21일 필리버스터로 '與 보완수사권 폐지 추진' 비판한 국힘 의원에 \"잘했다\"",
+    "summary": [
+      "[서울=뉴시스]한은진 기자 = 정성호 법무부 장관이 이른바 '2차 종합특검 연장법' 국회 필리버스터(무제한 토론) 당시 더불어민주당의 검찰 보완수사권 폐지 추진을 비판한 김태규 국민의힘 의원을 향해 \"잘했다\"고 언급한 사실이 30일 알려졌다.",
+      "김 의원은 지난 21일 본회의에서 \"민주당은 검찰의 보완수사권조차도 필요없다고 하면서 국가 사법시스템을 다 망가뜨려 놓았다\"며 \"검찰이 싫어서 공수청을 만드시지 않았나.",
+      "그리고 썩 내키지 않으니 특검하자고."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nfe2bf018",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/30/MI3WMZTCHE2TQN3EGQYTGMTFHA/",
-    "title": "존박, 걸그룹 커버 고집하는 이유 \"보이그룹 노래 잘 부르기 어려워\" ('월간다음') [순간포착]",
+    "id": "n7aa45067",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730647",
+    "title": "'송찬의 스리런' LG, 키움에 5-3 역전승…임찬규, 시즌 10승 선착",
     "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 존박이 걸그룹 커버곡을 업로드하는 이유를 밝혔다.",
-      "23일 오후 7시에 공개된 ‘월간다음’ 4화에는 게스트 존박과 단독 MC HYNN(박혜원)이 호흡을 맞춘 모습이 담겨 눈길을 끌었다.이날 HYNN은 존박의 유튜브 채널을 언급하며 \"걸그룹 커버 이야기를 하지 않을 수 없다."
+      "[서울=뉴시스]문채현 기자 = 프로야구 LG 트윈스가 송찬의의 역전 홈런을 앞세워 키움 히어로즈를 상대로 짜릿한 역전승을 거뒀다.",
+      "임찬규는 리그에서 가장 먼저 10승을 채웠다.",
+      "LG는 30일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 홈 경기에서 키움을 5-3으로 꺾었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5a7bc4eb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730189800054",
+    "title": "폭염 속 여수 웅천동 일대 정전",
+    "summary": [
+      "(여수=연합뉴스) 장아름 기자 = 30일 오후 9시 6분께 전남광주 여수시 웅천동 일대에서 정전이 발생했다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n68eb3ede",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260730/134398274/2",
+    "title": "“길 한복판서 기어다녀”…대낮 마약하고 수원역 배회한 20대 여성 입건",
+    "summary": [
+      "대낮에 마약을 투약한 채 수원역 인근을 배회한 20대 여성이 경찰에 입건됐다.",
+      "이 여성은 수원역 인근에서 바닥을 기어다니는 등 이상 행동을 보인 것으로 알려졌다.",
+      "30일 경기 수원팔달경찰서는 마약류 관리에 관한 법률 위반 혐의로 20대 여성을 입건했다고 밝혔다.이 여성은 29일 오전 9시 20분경 마약을 투약한 채 수원역 로데오거리를 배회한 혐의를 받는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5daeecc9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/07/30/2HO6KZYGDRBSVOL3OHWQQJJ4IM/",
+    "title": "정청래, 옛 경쟁자 박찬대 만나 “우리는 동지”",
+    "summary": [
+      "정청래, 옛 경쟁자 박찬대 만나 “우리는 동지”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n42b8061d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730189400108",
+    "title": "튀르키예 외무, 하마스 새 지도자 알하야 회동",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 하칸 피단 튀르키예 외무장관이 29일(현지시간) 팔레스타인 무장정파 하마스의 새 지도자 칼릴 알하야를 접..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n603d91f5",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730652",
+    "title": "영국 셸, 이란전쟁 기간의 2분기에 14조원 순익…전년의 배",
+    "summary": [
+      "[서울=뉴시스] 김재영 기자 = 영국 석유 기업 셸의 2분기 순익이 이란전쟁으로 인한 유가 급등에 힘입어 이 기업 사상 두 번째로 큰 규모에 달했다.",
+      "30일 발표에 따르면 6월까지 3개월 기간 분기에 셸은 98억 달러(14조 원)를 기록해 전년 동기의 43억 달러 배를 넘었다.",
+      "셸은 올 상반기 순익이 전년 동기간에 비해 70% 급증했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne61a9c33",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://view.asiae.co.kr/article/2026073021144655792",
+    "title": "\"비싸면 깨끗할 줄 알았는데\"…7500원 커피 얼음서 세균 3배",
+    "summary": [
+      "여름철 소비가 늘어나는 식용얼음 가운데 일부 업체에서 사용한 얼음의 세균수가 기준치를 초과한 것으로 나타났다.",
+      "특히 한 카페의 얼음에서는 허용 기준의 3배에 달하는 세균이 검출됐다.",
+      "409건 중 4건 세균수 초과30일 식품의약품안전처는 지난달 29부터 이달 10일까지 커피전문점·패스트푸드점·편의점 등에서 아이스 음료에 사용되는 식용얼음 409건을 수거·검사한 결과, 4건이 세균수 기준을 초과해 관할 관청에서 행정처분."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc189d01b",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026073021191059864",
+    "title": "이란 혁명수비대 \"요르단 미군 기지 공격해 F-35 전투기 3대 파괴\"",
+    "summary": [
+      "이란 혁명수비대(IRGC)가 미군의 공격에 대한 보복으로 요르단 내 미군 알아즈라크 공군기지를 공격했다고 주장했다.",
+      "이란 국영 IRIB 방송 등에 따르면 IRGC는 30일(현지시간) 설명을 통해 \"오늘 아침 여러 발의 탄도미사일로 알아즈라크 공군기지 내 미군 F-35 전투기 주기장과 정비 격납고를 공격했다\"며 \"이 공격으로 F-35 전투기 3대를 완전히 파괴했으며, 다른 전투기 3대에도 심각한 손상을 입혔다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb3a739e1",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/07/30/MNSTIMZTGM4DCMJRMJRWEOLCGE/",
+    "title": "영국 기준금리 3.75% 동결…중동발 물가 불확실성 경계",
+    "summary": [
+      "영국 중앙은행인 잉글랜드은행(BOE)이 30일(현지 시각) 통화정책위원회를 열고 기준금리를 연 3.75%로 유지했다.",
+      "BOE는 지난해 12월 기준금리를 0.25%포인트 내린 이후 올해 열린 다섯 차례 회의에서 모두 동결을 결정했다.",
+      "통화정책위원 9명 중 6명은 동결에 표를 던졌고, 나머지 3명은 기준금리를 4%로 0.25%포인트 올려야 한다고 주장했다."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n6de09425",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/30/MYZDMZTGGUYDQMZQG5STGN3FMU/",
+    "title": "\"누가 마네킹이야?\"...이영애, 올블랙 장착하고 소름 돋는 '실물 핏'",
+    "summary": [
+      "[OSEN=박근희 기자] 배우 이영애가 마네킹마저 기죽이는 완벽한 실물 비주얼을 자랑했다.30일 이영애는 자신의 SNS를 통해 여러 장의 사진을 게재하며 근황을 전했다.공개된 사진 속에는 명품 브랜드 행사에 참석해 다양한 포즈를 취하고 있는 이영애의 모습이 담겨 있다.",
+      "이날 이영애는 시크한 매력이 돋보이는 올블랙 자켓에 올블랙 부츠를 매치해 독보적인 아우라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne007f8ab",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/202607306648i",
+    "title": "'내부 갈등' KT, 에이밍과 결별…KRX 지우와 원딜 트레이드",
+    "summary": [
+      "'내부 갈등' KT, 에이밍과 결별…KRX 지우와 원딜 트레이드."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n195e872c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260730/134398094/1",
+    "title": "영풍 석포제련소 오염토양 정화 등 자료 비공개 요청에…경북행심위 “공익 차원 공개 필요“ 재결",
+    "summary": [
+      "영풍 석포제련소의 오염토양 정화 관련 자료 공개 범위를 두고 영풍과 경상북도행정심판위원회가 다른 판단을 내놨다.",
+      "영풍은 시설 정보와 정화 방법 등이 경영·영업상 비밀에 해당한다며 비공개 의견을 냈지만, 경북행심위는 주민 건강과 안전에 관련된 정보인 만큼 공개 필요성이 더 크다고 판단했다.30일 업계에 따르면 경북행심위는 지난달 말 봉화군이 정보공개 청구인에게 내린 석포제련소 관련 정보 부분공개 결정처분을 취소하는 재결을 내렸다.청구인은 지난 1."
+    ],
+    "chips": [
+      "#채용",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n10dc30f7",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730188900007",
+    "title": "고압적 태도 심판위원장·간부들 책임 회피…질타받은 축구협회",
+    "summary": [
+      "(서울=연합뉴스) 최송아 기자 = 2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 후폭풍으로 국회 청문회에 불려 간 축구협회 고위 관계자..."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -645,8 +647,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
