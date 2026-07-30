@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-30 15:36:51
+// 마지막 업데이트: 2026-07-30 16:29:37
 window.NEWS_DB = [
   {
     "id": "ndddda4d0",
     "category": "IT",
     "source": "서울경제",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10cTNGNDh1d1Q1Q2c2SkwySTJaZkZ1TThXSk92R05kMThBQ3JNTTVVcDQ2ZnZjOHhCM2ZfVGg4TmJEd01pN0JhSHBNd0QtMXJOaEHSAVNBVV95cUxNdjhNT2duenFEemd0VkRsUE1ldmVFN3NMZk9VRWlCeWY2dEp0ckNVTDIwYURhMjZMU09PNUoxNFJXVFlFcWtBcWJvY2RqdEplaG0xMA?oc=5",
     "title": "AI기업 5곳과 LTA 추가 협의…삼성 “파운드리도 조만간 흑자”",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n0c06c07a",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nf99a2aa1",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTVFqRDdjd1FCX2RUcERXaElYN3hDNnpRM3JOQXJfREVUMENDdVRXWHl0NTNPRFd1OFcyaVFSRnpwTnNSanlUMExIY0NuX0p3Q2NqT1ZSZGVkV1c1U3BKbUJXSHItekgxVzB2RjFmYw?oc=5",
     "title": "삼성전자, 메모리 70% 장기 계약...HBM·파운드리는 추격",
     "summary": [
@@ -48,12 +48,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
-    "time": "12시간 전",
+    "source": "biz.chosun.com",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -198,6 +198,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n917184b9",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "38일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
+    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
+    "summary": [
+      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -229,12 +244,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "62일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -243,12 +258,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "62일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -298,21 +313,6 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "arunews.com",
-    "time": "168일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ arunews.com."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
     ]
   },
   {
@@ -382,261 +382,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc006bcbe",
+    "id": "n3cc9dd6f",
     "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/economy/money/2026/07/31/DTWTOU6NDBBTLHDTXBVOFEHOKM/",
-    "title": "ETF 아버지 “단일종목 레버리지… 상장폐지가 아닌 ‘자연사’ 시켜야”",
-    "summary": [
-      "ETF 아버지 “단일종목 레버리지… 상장폐지가 아닌 ‘자연사’ 시켜야”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1098ddae",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/special/announcement/2026/07/31/Z33QESIH4ZFRXPEEZW6J57KEVE/",
-    "title": "[알립니다] ‘韓·中·日 미래 인사이트 크루즈 기행’ 떠납니다",
-    "summary": [
-      "[알립니다] ‘韓·中·日 미래 인사이트 크루즈 기행’ 떠납니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne6af964b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/07/31/VJD6MAYXWBEHZNNV2XIEKSDSKU/",
-    "title": "케빈 워시 “이젠 떠먹여주는 연준 기대 말라”",
-    "summary": [
-      "케빈 워시 “이젠 떠먹여주는 연준 기대 말라”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f00feaf",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/07/31/EBJP3G2PCJBKXBY7FBP7I4ELVQ/",
-    "title": "한화그룹, 김동관 수석부회장으로 임명",
-    "summary": [
-      "한화그룹, 김동관 수석부회장으로 임명."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c1f2e57",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260730/134397317/2",
-    "title": "[단독]삼전닉스, 임원 평가-사원 채용때 ‘AI 능력’ 본다",
-    "summary": [
-      "삼성전자가 올해 연말 예정된 임원 평가에서 AI 전환(AX) 배점을 기존보다 최대 10배 높인 것으로 나타났다.",
-      "SK하이닉스도 신입 채용에서 자기소개서를 없애고 반나절 동안 AI·직무 역량을 검증하는 ‘반나절 심층면접’을 신설했다.",
-      "한국 시가총액 1·2위 기업이 인사평가와 신입 선발 기준으로 ‘AI 역량’을 내세우며 AX 전략에 힘을 싣는 것이다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자",
-      "#SK하이닉스",
-      "#채용"
-    ]
-  },
-  {
-    "id": "nf2e1bc66",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260730/134397332/2",
-    "title": "서울아파트 매매-전세가… 강북권 중심 상승폭 확대",
-    "summary": [
-      "정부의 세제개편안 발표를 앞두고 서울 아파트 가격 상승폭이 2주 연속 둔화됐다.",
-      "보유세 부담이 늘어날 것이라는 전망에 강남권에서는 관망세를 보이는 등 상승세가 약해졌지만, 상대적으로 가격이 낮은 강북권은 오름폭이 확대됐다.",
-      "30일 한국부동산원이 발표한 7월 넷째 주 주간 아파트 가격 동향(27일 조사)에 따르면 서울 아파트 매매 가격은 전주(0.27%) 대비 0.25% 올랐다."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
-    "id": "n3e30f673",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260730/134397334/2",
-    "title": "도수치료 막자 비급여 ‘신장분사치료’ 금액 3배로… 실손보험 풍선효과",
-    "summary": [
-      "이달부터 도수치료가 동일한 표준가격(회당 4만3850원)을 받는 관리급여로 바뀐 가운데, 유사한 비급여 치료에 대한 실손보험 청구가 크게 늘어나는 일종의 ‘풍선효과’가 나타났다.",
-      "30일 보험업계에 따르면 7개 손해보험사(메리츠·삼성·현대·KB·DB·한화·흥국)에 청구된 이달 초 8일간 하루 평균 신장분사치료 금액은 3억4500만 원으로 집계됐다.",
-      "전월 동기(1억1300만 원)와 비교하면 3배로 늘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfb1de19d",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260730/134397283/2",
-    "title": "美연준 기준금리 ‘매파적 동결’… 고물가에 9월엔 인상 가능성",
-    "summary": [
-      "미국 연방준비제도(Fed·연준)가 29일(현지 시간) 연방공개시장위원회(FOMC) 정례회의에서 기준(정책)금리를 연 3.50∼3.75%로 5차례 연속 동결하면서도 매파적(통화 긴축 성향) 기조를 유지했다.",
-      "중동 정세 불안에 따른 국제유가 상승으로 고물가 현상이 이어지고 있어 9월 기준금리를 올릴 것이라는 관측이 우세하다.",
-      "미 연준의 매파적 기조가 이어지며 한국은행도 다음 달 혹은 10월 금융통화위원회에서 2차례 연속 기준금리 인상에 나설 것이란."
-    ],
-    "chips": [
-      "#금리",
-      "#한은",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n211dd3a9",
-    "category": "경제",
     "source": "뉴시스",
     "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003730718",
-    "title": "국제유가, 호르무즈 재개방 가능성에 하락…브렌트유 90달러 밑으로",
+    "url": "https://www.newsis.com/view/NISX20260731_0003730723",
+    "title": "이 대통령, 카스트 대통령과 '손가락 하트'…한-칠레 정상회담 시작",
     "summary": [
-      "[서울=뉴시스] 권성근 기자 = 이란과 오만이 호르무즈 해협 관리를 두고 협상해 해협 재개방 가능성이 거론되면서 국제 유가는 하락세를 보이고 있다.",
-      "국제 유가 기준물인 북해산 브렌트유는 90달러 밑으로 하락했다.",
-      "30일 오후 1시 30분(현지 시간) 기준 영국 런던 ICE선물거래소에서 국제유가 기준인 브렌트유 9월 인도분 선물 가격은 전장 대비 1.42달러(1.56%) 하락한 89.32달러에 거래되고 있다."
+      "[산티아고·서울=뉴시스]김경록 김지은 기자 = 이재명 대통령이 30일(현지시간) 칠레의 수도 산티아고에서 호세 안토니오 카스트 칠레 대통령을 만나며 한-칠레 정상회담 일정을 시작했다.",
+      "이 대통령은 이날 오전 칠레 산티아고 모네다 대통령궁 앞 헌법광장에서 칠레 공식 방문 환영식을 가졌다.",
+      "이 대통령은 칠레의 국기색인 빨강·파랑·흰색이 들어간 넥타이를, 부인 김혜경 여사는 노란색 투피스를 착용했다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c9853ac",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730195400071",
-    "title": "트럼프, 최측근 정치적 유산 '러 제재 법안' 관세 무기로 삼나",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 갑자기 세상을 떠난 최측근에 대한 우정일까.",
-      "관세 권한 확보 극대화를 위한 포석일까."
-    ],
-    "chips": [
-      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "nbcf2d511",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003729346",
-    "title": "\"파이어족 목표 버려라\"…난이도 높아진 시장, 3040 재테크 로드맵은",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 20대 때는 소액으로 투자 연습을 하고 30~40대에 본격적으로 리스크 관리와 현금 확보에 집중해야 안전하다는 전문가의 조언이 나왔다.",
-      "26일 유튜브 채널 '강지영의 동그라미'에 출연한 오건영 신한 프리미어 패스파인더 단장이 안전한 재테크를 위한 투자 로드맵을 제안했다.",
-      "오건영 단장은 먼저 환율·금리·주가의 변화를 짚었다."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n80b61f11",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730186952085",
-    "title": "영국 기준금리 3.75% 유지…중동 확전시 대응 시사(종합2보)",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국 중앙은행인 잉글랜드은행(BOE)이 30일(현지시간) 기준금리를 연 3.75%로 동결하면서 이란 전쟁이 ..."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n86dd774d",
+    "id": "n2492f5fa",
     "category": "사회",
     "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731001700087",
+    "title": "'아르헨티나 혐오' 외국인 입국금지·추방…밀레이 긴급명령",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 아르헨티나 정부가 자국에 대한 혐오 메시지를 유포하거나 폭력을 선동하는 외국인에 대한 입국 금지와 추방..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb792e53a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731002000071",
+    "title": "美 \"이란 '美전투기 파괴' 주장 거짓…미사일 요격되거나 도달 실패\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미군은 30일(현지시간) 최근 이란의 공격으로 미군 전투기 6대가 파괴되거나 손상됐다는 이란 측 주장에 대..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d8505cb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/31/MFSWIODEMI3WIZBZHEZWGOBVG4/",
+    "title": "‘0이닝 3실점→2군행’ 70억 FA 보상선수, 3이닝 무실점 승리…LG 홀드왕 사이드암, 또 2실점→ERA 14.00",
+    "summary": [
+      "[OSEN=한용섭 기자] 올 시즌 프로야구 첫 1군 등판에서 충격의 ‘0이닝 3실점’을 기록한 LG 트윈스 투수 최지명이 2군으로 내려간 뒤 첫 경기에서 3이닝 무실점으로 승리투수가 됐다.",
+      "최지명은 30일 이천 LG챔피언스파크에서 열린 2026 퓨처스리그 고양 히어로즈와 경기에서 구원투수로 등판해 3이닝 1피안타 1볼넷 무실점으로 구원승을 기록했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n0e67062a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/31/GBRTKMJXHEYDENJYMY2GMMLBGA/",
+    "title": "대타 아닌가? 감독님이 나를 믿어주시는구나! → 한화 이도윤의 생애 첫 끝내기, 이렇게 나왔다 [대전 현장]",
+    "summary": [
+      "[대전=스포츠조선 한동훈 기자] \"일단 제가 타석에 들어갈 줄도 몰랐고요.\" 한화 이글스 이도윤이 극적인 끝내기 안타를 터뜨렸다.",
+      "이도윤은 자신이 대타로 교체될 줄 알았다.",
+      "기회가 주어지자 최소한 동점은 만들겠다는 마음으로 타석에 섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb480c34f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/31/MNQTKZJZGIYTEYJQGRQWENLGGM/",
+    "title": "'이도윤 대타' 안 쓴 김경문, 별점 5점 역전 드라마 → \"득점권 타점이 없어 힘든 경기였는데\" [대전 현장]",
+    "summary": [
+      "[대전=스포츠조선 한동훈 기자] 한화 이글스가 극적인 역전 드라마를 찍었다.",
+      "한화는 30일 대전 롯데전 9회말 뒤집기 쇼를 펼치며 3대2로 승리했다.",
+      "9회말 1사 만루에서 이도윤이 우익수 키를 넘기는 끝내기 2루타를 폭발했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3319cd11",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/07/31/HAYGKNLEMY4DON3DMVSGEMZXMM/",
+    "title": "\"콜업 or 트레이드 or 방출\" 남은 시간 단 3일, 김하성 운명 결정된다…애틀랜타의 선택은",
+    "summary": [
+      "[스포츠조선 박상경 기자] 이제 남은 시간은 단 3일이다.",
+      "김하성의 재활 경기 일정이 막바지에 다다르면서 애틀랜타 브레이브스의 선택에 관심이 쏠리고 있다.",
+      "지난 4일 오른손 중지 염증으로 부상자 명단(IL)에 오른 김하성은 13일 루키리그 FCL 브레이브스에서 재활 경기를 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nefdea9a3",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/31/2026073016535567358",
+    "title": "'와' LG 다시 1위권 싸움 가세하나→'6명' 일일이 언급한 승장 염갈량 \"더운 날씨에도 많은 팬 응원 덕분에 오랜만에 위닝시리즈\"",
+    "summary": [
+      "'후반기 돌풍의 팀' 키움 히어로즈를 상대로 위닝시리즈에 성공한 LG 트윈스.",
+      "'승장' 염경엽 LG 감독이 승리 소감을 밝혔다.",
+      "LG는 30일 서울 잠실야구장에서 펼쳐진 키움과 2026 신한 SOL KBO 리그 정규시즌 홈경기에서 5-3으로 승리했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc781143e",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730189251099",
-    "title": "이란 \"요르단·쿠웨이트 美기지 공격…전투기 등 파괴\" 주장(종합)",
+    "url": "https://www.newsis.com/view/NISX20260730_0003729100",
+    "title": "여캠 BJ에 거액 후원하고 호텔서 밀회까지…'팬심'이라는 남편",
     "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 이란 혁명수비대(IRGC)는 30일(현지시간) 미국 공격에 대한 보복으로 요르단과 쿠웨이트의 미군 기..."
+      "[서울=뉴시스]전민영 인턴 기자 = 여성 BJ에게 매달 거액을 후원하고 호텔에서 단둘이 만난 남편 때문에 이혼을 고민하는 여성의 사연이 전해졌다.",
+      "30일 YTN 라디오 '조인섭 변호사의 상담소'에는 결혼 8년 차 딩크 부부로 살아온 30대 여성 A씨의 사연이 소개됐다.",
+      "온라인 쇼핑몰을 운영하는 A씨는 남편과 맞벌이를 하며 평온한 결혼생활을 이어왔다고 했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n56454827",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730195600072",
-    "title": "원/달러 환율 야간장서 한때 1,420원 밑 급락…엔화값 급등 동조",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 엔화 강세에 힘입어 원/달러 환율이 9개월 만에 장중 한때 달러당 1,420원선 밑으로 하락했다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n43d139dd",
+    "id": "n04d3e919",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003729748",
-    "title": "소방서 앞 막아선 황당한 불법주차…연락했더니 \"쉬는 날인 줄\"",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026073100422635798",
+    "title": "국민의힘 경남도의원들 \"해군사관학교 이전 반대 … 통합·이전 계획 철회하라\"",
     "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 소방서 차고 문 바로 앞에 차를 대놓고 \"휴무일인 줄 알았다\"는 황당한 핑계를 댄 차주의 행동이 전해지면서 누리꾼의 분노를 사고 있다.",
-      "30일 스레드에는 인천 지역 소방서에서 근무하는 소방대원 A씨에 의해 소방서 차고 출입구를 막아선 일반 승용차 사진 한 장이 공개됐다.",
-      "A씨가 주차 차량에 적힌 번호로 연락을 취하자 차주는 \"소방서가 문을 안 열고 쉬는 날인 줄 알았다\"고 해명한 것으로 알려졌다."
+      "국민의힘 소속 경남도의원들이 정부의 육·해 공군 사관학교 통합 및 해군사관학교 이전 계획에 강하게 반발했다.",
+      "의원들은 30일 경남도의회 현관 앞에서 기자회견을 열고 \"정부의 사관학교 통합·이전 계획에 대해 강력히 반대한다\"고 밝혔다.",
+      "의원들은 \"정부가 발표한 육·해·공군 통합 국군사관학교 창설 계획은 1946년 개교 이래 80년 역사를 이어온 해군사관학교를 사실상 폐교하는 독단적 결정\"이라며 \"정부는 오랜 역사와."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "n1c4aef62",
+    "id": "n2122fe22",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "26분 전",
+    "url": "https://view.asiae.co.kr/article/2026073100403131992",
+    "title": "민주당 진해지역 시·도의원 \"해군사관학교, 진해에 있어야\"",
+    "summary": [
+      "정부의 육·해·공군 사관학교 통합 추진 계획에 지역사회가 술렁이는 가운데 더불어민주당 경남 창원시 진해지역 시·도의원들이 진해 해군사관학교 이전을 강하게 반대하고 나섰다.",
+      "민주당 진해지역 시·도의원들은 30일 창원특례시청 프레스센터에서 기자회견을 열고 \"해군사관학교는 대한민국 해군의 본거지이자 군항 도시인 진해에 있어야 한다\"라며 해군사관학교의 진해 존치를 촉구했다.",
+      "이들은 \"해군사관학교는 1946년 개교."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nb2a12936",
     "category": "IT",
     "source": "한국경제",
-    "time": "52분 전",
-    "url": "https://www.hankyung.com/article/202607306705i",
-    "title": "\"애플은 안전자산\"vs \"반도체 오르면 끝난다\"[박신영의 개장전 요것만]",
+    "time": "28분 전",
+    "url": "https://www.hankyung.com/article/202607316731i",
+    "title": "로봇이 '쓰봉' 묶고 전구교체…구글 제미나이 로보틱스2 공개",
     "summary": [
-      "\"애플은 안전자산\"vs \"반도체 오르면 끝난다\"[박신영의 개장전 요것만]."
+      "로봇이 '쓰봉' 묶고 전구교체…구글 제미나이 로보틱스2 공개."
     ],
     "chips": [
-      "#반도체"
+      "#뉴스"
     ]
   },
   {
-    "id": "n39a14119",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026073066837",
-    "title": "아들이랑 친해지려고 준 총, 되레 끔찍한 비극 불렀다",
+    "id": "nd9ead79a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260730_0003730342",
+    "title": "\"담배, 평생 입에도 안 댔는데 폐암\"…원인은 무엇?",
     "summary": [
-      "아들이랑 친해지려고 준 총, 되레 끔찍한 비극 불렀다."
+      "[서울=뉴시스] 류난영 기자 = 매년 8월 1일은 '세계 폐암의 날'이다.",
+      "폐암의 위험성을 알리고 조기 검진과 예방의 중요성을 알리기 위해 2012년 제정됐다.",
+      "폐암은 국내 암 사망 원인 1위를 차지하는 질환이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd490d76e",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "29분 전",
+    "url": "https://view.asiae.co.kr/article/2026073101000542567",
+    "title": "美 6월 PCE 전년 대비 3.7%↑…전망치 부합",
+    "summary": [
+      "미국의 6월 물가 상승률이 미·이란 휴전기에 나타난 휘발유 가격 하락에 힘입어 전월보다 둔화했다.",
+      "다만 최근 중동 지역의 무력 충돌이 다시 격화되면서 유가가 반등하고 있어 물가 둔화가 일시적일 수 있다는 관측이 나온다.",
+      "미 상무부 경제분석국(BEA)은 6월 개인소비지출(PCE) 가격지수가 전년 동월 대비 3.7% 상승했다고 30일(현지시간) 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nae5b3c12",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260731/134398883/1",
+    "title": "허영만, 낙상 사고 후 근황 “건강 회복 위해 노력”",
+    "summary": [
+      "낙상사고로 대외 활동을 중단한 만화가 허영만(79) 화백이 오랜 인연들에게 마음을 전하며 회복에 전념 중이다.30일 허영만 소셜 미디어에 따르면, 허영만은 최근 50여 권의 만화일기 속 인연들에게 직접 제작한 판화를 전달하고 있다.공개된 사진에는 한강 작가의 노벨문학상 수상 순간부터 지인들과의 일상을 기록한 만화일기가 담겼다.",
+      "허영만 측은 “오래전부터 마음에 품어왔던 판화에 마음을 담아 전해드리고 있다”며 “(허영만) 선생님께서도 차분히 건강."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n7f47b046",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260731/134398880/1",
+    "title": "‘13㎏ 감량’ 강미나 “아침 밥, 국 말아 먹던 습관 버렸다”",
+    "summary": [
+      "가수 겸 배우 강미나가 13㎏ 감량의 비결을 밝혔다.29일 tvN 드라마 ‘내일도 출근!’ 종영 기념 인터뷰에 참석한 강미나는 “작품이 오피스물이라서 고등학생 이미지를 탈피하기 위해 감량을 선택했다”고 말했다.",
+      "이어 “극중 서핑하면서 수영복을 입는 장면이 있어서 감량하기도 했다”고 덧붙였다.강미나는 “제일 많이 뺐을 때는 13㎏ 정도 차이가 났다”면서 “천천히 긴 시간에 걸쳐 체중을 감량했다”고 설명했다.",
+      "그는 “밥을 줄이려고 노력했다”며 “아."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n03561b90",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260731/134398877/1",
+    "title": "장윤정, 이혼설 넘어 ‘사망설’까지 “영정 사진 기분 나빴다”",
+    "summary": [
+      "가수 장윤정이 자신을 둘러싼 가짜뉴스에 황당해했다.",
+      "장윤정은 30일 방송된 KBS 2TV 요리 예능물 ‘신상출시 편스토랑’에서 모델 야노 시호와 만나 이야기를 나누던 중, 과거 가짜뉴스 피해 경험을 털어놨다.이날 야노 시호가 추성훈과의 이혼설에 대해 언급하자, 장윤정 역시 남편 도경완과의 루머를 언급하며 “저도 이혼했다는 가짜뉴스가 정말 많았다”고 공감했다.장윤정은 특히 “얼마 전에는 병에 걸려 죽었다는 사망설까지 돌았다”며 충격적인 일화를 전."
     ],
     "chips": [
       "#뉴스"
@@ -649,20 +651,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
