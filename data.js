@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-31 17:29:40
+// 마지막 업데이트: 2026-07-31 18:28:28
 window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n20482ffd",
     "category": "IT",
     "source": "연합인포맥스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
@@ -33,7 +33,7 @@ window.NEWS_DB = [
     "id": "nc06eaff3",
     "category": "IT",
     "source": "한국경제",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczVid3c4TkUydmFFU2Rfd0IwVkN5NFNUOGMxM09aYkNTVVhxYnpoNFFYN3E1R1Z3cUlacjZUNXhJNHE4Tkg0d3BDcVhfM3VBdy1jbmRSSG5HQQ?oc=5",
     "title": "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올",
     "summary": [
@@ -47,12 +47,12 @@ window.NEWS_DB = [
   {
     "id": "n8ba4b4fa",
     "category": "IT",
-    "source": "mt.co.kr",
+    "source": "머니투데이",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lNHJLZzhEdGREMDBvNktGLTdtQ1A4ZEFZaTVDYnA1clN0OE40Nm9hQkE0T0RaeGJfZHdXV3lJNFdrNWhEN08wZEFuRHRQU3pDYktvQ0w1dnNFemcwMnhIMWZMMm9TOXPSAWxBVV95cUxQaV8tWDFiNGs5QUE2WERwaE5JRmRjbDMta2twQlYtcXlhTF9GYTVRNHlTeDdzUGhGa0V6MkhrcDY2QlgtUXlCdWVDUXVVQ25FSkh1ek1OU1U4OXBBbkJMdkdtLUZOQ0EtZkhjSVA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 mt.co.kr."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 머니투데이."
     ],
     "chips": [
       "#스타트업"
@@ -76,12 +76,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -90,12 +90,12 @@ window.NEWS_DB = [
   {
     "id": "nf633ad61",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TeXR5VDlRTVNUQlNqWWJkU1pIZXNjRzZhSXZhT1F2MjY4N3p0VzFGU2twWmxscU01cnRQNUI0NjRmTUFlNkhVS1ZJRUtKekNyb0FB?oc=5",
     "title": "[ST포토] 고예지 치어리더, '쭉쭉'",
     "summary": [
-      "[ST포토] 고예지 치어리더, '쭉쭉' 네이트."
+      "[ST포토] 고예지 치어리더, '쭉쭉' news.nate.com."
     ],
     "chips": [
       "#뉴스"
@@ -241,12 +241,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "63일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -313,58 +313,158 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naaf29cdc",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801002900091",
-    "title": "美국무부, AI생성 '엉터리' 아프리카 지도 썼다가 국제회의 망신",
+    "id": "ne74d030e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731352",
+    "title": "출근 20분 빨라진 남편, 블랙박스 보니…여직원과 몰래 카풀",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국 국무부가 국제회의 발표 자료에 인공지능(AI)으로 생성한 엉터리 아프리카 지도를 사용했다가 들통..."
+      "[서울=뉴시스]장인혜 인턴 기자 = 결혼 4년 차 맞벌이 아내가 남편이 한 달 넘게 다른 여성 직원을 매일 아침 차로 태워 출근시킨 사실을 뒤늦게 알게 됐다며 서운함을 토로해 온라인에서 논란이 일고 있다.",
+      "31일 온라인 커뮤니티에는 \"매일 아침 여직원 태워다 주는 남편, 제가 속 좁은 건가요?\"라는 제목의 글이 올라왔다.",
+      "작성자 A씨는 결혼 4년 차 맞벌이 부부라고 밝히며 \"남편은 평소 성격이 무던하고 착한 사람\"이라며 \"주변에서도 법 없이 살."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "n11648def",
+    "id": "nec166afa",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260801/134404848/1",
+    "title": "트럼프 “이란, 강력하게 타격할 것…신뢰 잃어가고 있어”",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 31일(현지 시간) 대(對)이란 공습 의지를 강력하게 드러냈다.",
+      "AP통신, NBC 등에 따르면 그는 이날 메릴랜드주 캠프 데이비드에서 내각 회의를 열어 이란에 대해 “우리는 그들을 매우 강력하게 타격할 것”이라고 밝혔다.",
+      "그는 그러면서 “어느 시점에는 그들이 ‘우리는 더는 견딜 수 없다’고 말하게 될 것”이라고 말했다.트럼프 대통령은 이란 측 협상단을 비판하며, 그들이 자신을 “화나게 만들 뿐”이라고 말했다.그는 “."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n69856a25",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801004200001",
+    "title": "아르헨서 내년부터 원유 수입…리튬 채굴 공동프로젝트 추진",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 임형섭 황윤기 기자 = 아르헨티나를 공식 방문 중인 이재명 대통령은 31일(현지시간) 하비에르 밀레이 아르헨티나 대..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n10eb1e3b",
     "category": "경제",
     "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102144338561",
-    "title": "구성환, 시장 뒤집은 이선민 인기에 깜짝 \"20대에 서태지급\"",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/01/2026080102452528718",
+    "title": "[속보]靑 \"브라질·아르헨티나와 한-메르코수르 무역협정 협상 연내 재개 합의\"",
     "summary": [
-      "구성환이 시장 곳곳에서 이어진 이선민의 인기에 깜짝 놀랐다.",
-      "31일 방영된 MBC '나 혼자 산다' 658회에서는 배우 구성환이 코미디언 이선민과 함께 시장을 방문하는 모습이 그려졌다.",
-      "이날 구성환은 이선민과 시장 곳곳을 둘러보며 고기, 파김치, 두부 등 다양한 식자재를 구매했다."
+      "[the300] 31일(현지시간) 아르헨티나 부에노스아이레스 프레스센터, 위성락 청와대 국가안보실장 브리핑...."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n031da562",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102593495959",
+    "title": "구성환, 옥상에 반려견 '꽃분이' 새겼다…펫로스 이겨낸 추모 '뭉클'",
+    "summary": [
+      "구성환이 핑크빛으로 새롭게 꾸민 집 옥상을 공개한 가운데 세상을 떠난 반려견 꽃분이의 그림과 이름을 벽에 새겨 뭉클함을 자아냈다.",
+      "31일 방영된 MBC '나 혼자 산다' 658회에서는 코미디언 이선민이 배우 구성환의 집을 방문하는 모습이 그려졌다.",
+      "이날 구성환은 이선민에게 집을 소개하던 중 최근 핑크빛으로 페인트칠한 옥상을 공개했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6f8e7be7",
+    "id": "n458e31c4",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "24분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/01/2026080102443042244",
+    "title": "[속보]한-아르헨 회담…\"경제공동위, 에너지자원협력위 재가동\"",
+    "summary": [
+      "[the300] 31일(현지시간) 아르헨티나 부에노스아이레스 프레스센터, 위성락 청와대 국가안보실장 브리핑...."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3712d9ab",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "25분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/01/2026080102434017756",
+    "title": "[속보]한-아르헨 회담…\"이중과세방지협정 최종 타결\"",
+    "summary": [
+      "[the300] 31일(현지시간) 아르헨티나 부에노스아이레스 프레스센터, 위성락 청와대 국가안보실장 브리핑...."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1aeb3855",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/01/J3UYVFMXKRDURJEBPRNQ422POE/",
+    "title": "中 CXMT, 메모리 3강 도전장⋯ 한국 반도체가 가야 할 길은",
+    "summary": [
+      "中 CXMT, 메모리 3강 도전장⋯ 한국 반도체가 가야 할 길은."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n34f275ed",
     "category": "사회",
     "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/01/GAZTQOBVGA4DGNJUGI3TSMTBGE/",
-    "title": "이란 혁명수비대 “美 공중호위 유조선 2척 공격”…호르무즈 긴장 고조",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/01/AFDMOIEFAJGFHHKJ7IHOOPVYU4/",
+    "title": "이토록 우아한 가자미라니… ‘맛의 달인’ 71권 속 성하 가자미를 맛보다",
     "summary": [
-      "이란 이슬람혁명수비대(IRGC)가 31일(현지시각) 미군의 공중 호위를 받으며 호르무즈 해협을 통과하려던 유조선 2척을 공격해 운항을 중단시켰다고 주장했다.",
-      "미국 측은 즉각 입장을 내놓지 않았다.",
-      "이란 국영·반관영 매체들에 따르면 혁명수비대는 이날 성명을 통해 “유조선 2척이 미 중부사령부의 기만전술에 넘어가 경고를 무시하고 미군의 공중 호위를 받으며 안전."
+      "이토록 우아한 가자미라니… ‘맛의 달인’ 71권 속 성하 가자미를 맛보다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n441804b5",
+    "id": "naec1ffb9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/01/U5P3PS3BPFBKBHF3P7HMU7WHB4/",
+    "title": "검소하나 누추하지 않은 꽃, 싸리 3형제를 아시나요",
+    "summary": [
+      "검소하나 누추하지 않은 꽃, 싸리 3형제를 아시나요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3444e273",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801002800071",
-    "title": "트럼프 \"이스라엘 매우 만족\"…하마스 무장해제 합의 호응 압박",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801002851071",
+    "title": "트럼프 \"이스라엘 매우 만족\"…하마스 무장해제 합의 호응 압박(종합)",
     "summary": [
       "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 31일(현지시간) 팔레스타인의 친이란 무장정파 하마스의 무장해제 합의와 관련해..."
     ],
@@ -373,25 +473,84 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfefe7276",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/01/HFQTOMJUGIYTENRSGM2WMNBWGI/",
-    "title": "'드디어 KIA 제쳤다' LG 꺾고 4위 도약…흐뭇한 김원형 감독 \"김대한, 오늘 계기로 더 자신감 있는 모습 보여주길\"",
+    "id": "nf0035c17",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731171651085",
+    "title": "스페인, 이주민 수만명 난입에 수습 안간힘…\"4만8천명 돌아가\"(종합)",
     "summary": [
-      "[OSEN=잠실, 조은혜 기자] 프로야구 두산 베어스가 LG 트윈스와의 잠실 라이벌 매치에서 승리하고 4위로 도약했다.김원형 감독이 이끄는 두산은 31일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 LG 트윈스와의 홈경기에서 4-2로 승리했다.",
-      "이날 승리로 2연승을 만든 두산은 시즌 전적 51승34패3무를 마크, NC 다이노스에게 패한 KIA 타."
+      "(런던=연합뉴스) 김지연 특파원 = 아프리카 모로코에서 스페인 자치도시 세우타로 수만 명이 밀려 들어오는 국경 위기가 빚어져 스페인 정부가 대응..."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c677801",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732362",
+    "title": "스페인 총리, 세우타 이주민 사태에 \"영토 보전에 대한 침해\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 페드로 산체스 스페인 총리는 북아프리카 모로코와 국경을 접한 스페인령 세우타에 수만명에 달하는 불법 이주민이 유입된 데 대해 \"스페인의 영토 보전에 대한 침해\"라며 강력 규탄했다.",
+      "현지 엘파이스, AP통신 등에 따르면 그는 이날 세우타에 방문해 이같이 말했다.",
+      "그는 모로코를 '동맹국'이라고 언급하며, 대응을 지지하면서도 지금까지보다 \"더 신속하고 훨씬 강력한 대응\"을 해달라고 요청했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9a62e11c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "45분 전",
+    "url": "https://view.asiae.co.kr/article/2026080102084489361",
+    "title": "\"딱 2잔 마셨어요\"…면허정지 수치인데 '취소'된 이유",
+    "summary": [
+      "\"제가 '그만'이라고 할 때까지 부는 겁니다.",
+      "더, 더, 더.\" 지난달 31일 오후 10시께 서울 서초구 서초IC 진출입로.",
+      "음주 측정기가 '삐익' 소리를 내자 20대 운전자 백모씨의 얼굴에는 당황한 기색이 역력했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ab39555",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "49분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801003100075",
+    "title": "'스파이더맨4', 북미 박스오피스서 시사회 흥행성적 역대 최고",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 영화 '스파이더맨' 시리즈의 네 번째 작품 '스파이더맨: 브랜드 뉴 데이'(이하 '스파이더맨 4')가..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba87362a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202607318766i",
+    "title": "\"실연 뒤 하루 15시간 쏟았더니\"...1300억원으로 되돌아왔다[성수영의 그때 그 사람들]",
+    "summary": [
+      "\"실연 뒤 하루 15시간 쏟았더니\"...1300억원으로 되돌아왔다[성수영의 그때 그 사람들]."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "nbf374167",
     "category": "사회",
     "source": "뉴시스",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260801_0003732360",
     "title": "민주콩고 에볼라 확진 3500명 넘어…'빠른 속도'로 역대 2번째 규모 기록",
     "summary": [
@@ -404,86 +563,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n90989fbe",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731264",
-    "title": "\"정관수술 무섭다\" 피하더니…둘째 생기자 '낙태' 요구한 남편",
-    "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 정관수술을 거부하다가 예기치 않게 둘째 아이가 생기자 아내에게 낙태를 강요하고 나선 남편의 황당한 사연이 알려졌다.",
-      "31일 JTBC '사건반장'은 둘째 임신 후 남편과 시댁 식구들로부터 낙태를 강요받고 있다는 40대 여성 A씨의 사연을 소개했다.",
-      "A씨는 아이를 갖지 않는 이른바 '딩크족'으로 결혼 생활을 즐기며 살아왔으나, 결혼 4년 차에 뜻밖의 임신을 하게 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0967ba51",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731442",
-    "title": "나이 들수록 살 안 빠지는 진짜 이유, '의지 탓' 하기 전에 알아야 할 것들",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 나이가 들면서 식단을 조절하고 운동을 시작해 봐도 예전만큼 효과가 나타나지 않아 답답함을 느끼기 쉽다.",
-      "호르몬 변화와 일상생활 패턴 등 체중이 쉽게 줄지 않는 원인에 대한 과학적 설명이 나왔다.",
-      "미국 건강 매체 '에브리데이 헬스(Everyday Health)'에 따르면, 이는 단순한 의지 부족 문제가 아닌 우리 몸 내부에서 벌어지는 복합적인 생리학적 변화와 깊은 연관이 있다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nfc38fdfe",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731561",
-    "title": "\"16kg 감량 성공\" 한혜연, 44kg 유지 비결은?…더 날렵해진 각선미 근황 공개",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 스타일리스트 겸 방송인 한혜연이 다이어트 성공 후 변함없는 날씬한 몸매를 선보이며 근황을 전했다.",
-      "한혜연은 30일 자신의사회관계망서비스(SNS)에 일상 속 모습을 담은 사진을 공개했다.",
-      "사진 속 그는 다리 라인이 자연스럽게 드러나는 세련된 스타일링을 선보이며 특유의 감각적인 패션 소화력을 뽐냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n93d645ec",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801002700071",
-    "title": "트럼프 \"이란 강하게 타격할 것…이란 거짓말에 신뢰 잃고 있어\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 31일(현지시간) 이란에 대한 강력한 공습 의지를 거듭 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0aec8dec",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801002500085",
-    "title": "영국 법원, '초대형 중국 대사관' 반대 주민 소송 기각",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국 법원이 31일(현지시간) 런던 도심에 초대형 중국 대사관을 건립하는 데 반대하는 주민들이 제기한 소송을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n80dec8de",
     "category": "IT",
     "source": "테크M",
-    "time": "40분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153905",
     "title": "이민원 SOOP 대표 \"상황 엄중 인식...생태계 중심 쇄신 속도낸다\"",
     "summary": [
@@ -496,41 +579,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd58648d2",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "40분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/01/2026080101454713091",
-    "title": "'아르헨 공식방문' 李 대통령…\"핵심광물 공급망 협력 MOU 체결\"",
-    "summary": [
-      "[the300] 아르헨티나를 공식방문 중인 이재명 대통령이 \"이번 방문에서 양국은 리튬 협력의 성공 경험을 바탕으로 '핵심광물 공급망 협력 양해각서(MOU)'를 체결한다\"고 밝혔다.",
-      "이 대통령은 31일(현지시간) 공개된 스페인어권 통신사 에페(EFE)와의 인터뷰에서 \"이 양해각서는 핵심광물 공급망 전반의 협력 체계를 구축하기 위한 것\"이라며 \"한국은 이차전지 소재 등 부문에서 첨단산업 역량을 갖추고 있어 한국이 아르헨티나의 광물 고부가가치화 전."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf42e8070",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "44분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/01/GM3WMY3GMI2WCYRUHFRDIMBWGM/",
-    "title": "\"와우~\" '대구 일몰 악몽' 씻어낸 믿기지 않는 인생수비, 원태인에 진 빚 갚고, 장찬희와 삼성 1위 모두 지켰다",
-    "summary": [
-      "[스포츠조선 정현석 기자]지난 7월19일 대구 삼성-롯데전.",
-      "0-0이던 3회초 롯데 공격 2사 1,2루.",
-      "레이예스가 삼성 선발 원태인의 직구를 친 타구가 중견수 쪽으로 높게 솟아올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n5448f3eb",
     "category": "사회",
     "source": "동아일보",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260801/134404628/2",
     "title": "검찰 수사권, 78년만에 완전 폐지",
     "summary": [
@@ -546,7 +598,7 @@ window.NEWS_DB = [
     "id": "nb547b0d5",
     "category": "사회",
     "source": "동아일보",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260801/134404630/2",
     "title": "與, 靑특별감찰관 후보에 ‘검사 출신’ 최길수 변호사 추천",
     "summary": [
@@ -562,7 +614,7 @@ window.NEWS_DB = [
     "id": "ne5a86f47",
     "category": "사회",
     "source": "동아일보",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260801/134404640/2",
     "title": "경남 양산 41.4도… 관측이래 최악 폭염",
     "summary": [
@@ -573,68 +625,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "necef9fe5",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "49분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260801/134404308/2",
-    "title": "‘그들만의 리그’ 이후 72년… 여자프로야구가 돌아온다",
-    "summary": [
-      "난달 기준으로 전 세계에서 ‘프로야구 선수’가 직업인 여성은 0명이었다.",
-      "그러나 미국여자프로야구리그(WPBL)가 2일 공식 출범하면 60명이 프로야구 선수가 된다.",
-      "미국에 여자프로야구가 생기는 건 영화 ‘그들만의 리그’로 유명했던 전미여자프로야구리그(AAGPBL)가 1954년 해체된 이후 72년 만이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nee3b68db",
-    "category": "IT",
-    "source": "테크M",
-    "time": "54분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153901",
-    "title": "[기자수첩] 기술적 창의성의 얼굴",
-    "summary": [
-      "한가온 모스픽 대표는 애플 디벨로퍼 아카데미에 들어가면서 처음 엑스코드(애플용 앱 통합 개발・배포 도구)와 피그마(디자인 플랫폼)를 설치했다.",
-      "소프트웨어(SW) 개발을 전공하지 않았고 맥북으로 애플리케이션을 만들어본 적도 없었다.그는 현재 눈 깜빡임만으로 의사를 표현하도록 돕는 앱 '모스픽'을 개발해 회사를 운영하고 있다.",
-      "몸이 마비돼 말하거나 손을 움직이기 어려운 환자를 위한 서비스다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1bbded9d",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "55분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153902",
-    "title": "SOOP 2Q 매출·영업이익 모두 '감소'...세무조사·리그 일정이 발목",
-    "summary": [
-      "SOOP이 세무조사 여파와 주요 게임 리그 일정 조정에 따른 광고 비수기가 겹치며 다소 부진한 2분기 성적표를 냈습니다.",
-      "SOOP은 31일 2026년 2분기 매출은 1038억원, 영업이익은 126억원, 당기순이익은 87억원을 기록했고 발표했습니다.",
-      "이는 동기 대비 매출은 2%, 영업이익은 무려 40% 감소한 수치입니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef265a9f",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "56분 전",
-    "url": "https://www.hankyung.com/article/2026073188671",
-    "title": "日銀, 금리 동결…\"인상 속도 높일 수도\"",
-    "summary": [
-      "日銀, 금리 동결…\"인상 속도 높일 수도\"."
-    ],
-    "chips": [
-      "#금리"
-    ]
   }
 ];
 
@@ -643,12 +633,12 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   },
