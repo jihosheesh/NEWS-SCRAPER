@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-31 13:31:56
+// 마지막 업데이트: 2026-07-31 14:46:41
 window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nf78a6a0d",
     "category": "IT",
     "source": "글로벌경제신문",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1YWYwRF9iSDc2QV9uT1pObkN5cnRxSGd2cVFOZ01DN3l6N0xZTXkxcDctNXp0RmtwdDFQazhFOXdCalJUQkFxdE5pallMZk1uazU0ZnNzdWF3Y01XaEFneU8xRmN0OWRPNzc4Yi03czHSAXBBVV95cUxQNWFmMERfYkg3NkFfbk9aTm5DeXJ0cUhndnFRTmdNQzd5ejdMWU15MXA3LTV6dEZrcHQxUGs4RTl3QmpSVEJBcXROaWpZTGZNbms1NGZzc3Vhd2NNV2hBZ3lPMUZjdDlkTzc3OGItN3Mx?oc=5",
     "title": "삼성전자, HBM4·테일러 2공장 '승부수'…\"HBM·파운드리 경쟁력 회복\" 기대감",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n20482ffd",
     "category": "IT",
     "source": "연합인포맥스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "nc06eaff3",
     "category": "IT",
     "source": "한국경제",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczVid3c4TkUydmFFU2Rfd0IwVkN5NFNUOGMxM09aYkNTVVhxYnpoNFFYN3E1R1Z3cUlacjZUNXhJNHE4Tkg0d3BDcVhfM3VBdy1jbmRSSG5HQQ?oc=5",
     "title": "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올",
     "summary": [
@@ -85,20 +85,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "nf633ad61",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TeXR5VDlRTVNUQlNqWWJkU1pIZXNjRzZhSXZhT1F2MjY4N3p0VzFGU2twWmxscU01cnRQNUI0NjRmTUFlNkhVS1ZJRUtKekNyb0FB?oc=5",
-    "title": "[ST포토] 고예지 치어리더, '쭉쭉'",
-    "summary": [
-      "[ST포토] 고예지 치어리더, '쭉쭉' 네이트."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   },
   {
@@ -150,12 +136,12 @@ window.NEWS_DB = [
   {
     "id": "n94aa4795",
     "category": "IT",
-    "source": "go.seoul.co.kr",
+    "source": "서울Pn",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
     "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
     "summary": [
-      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 go.seoul.co.kr."
+      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
     ],
     "chips": [
       "#스타트업",
@@ -212,12 +198,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "straightnews.co.kr",
+    "source": "스트레이트뉴스",
     "time": "45일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
     ],
     "chips": [
       "#금리"
@@ -226,12 +212,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "ytn.co.kr",
+    "source": "YTN",
     "time": "51일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
       "#금리",
@@ -291,6 +277,20 @@ window.NEWS_DB = [
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
       "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n01f4c085",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "130일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
+    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
+    "summary": [
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
     ],
     "chips": [
       "#KBO"
@@ -378,259 +378,267 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5de7e6eb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732328",
-    "title": "스페인, \"세우타 무단 난입자 5만명 중 2.5만명 스스로 되돌아가\"",
-    "summary": [
-      "[서울=뉴시스] 김재영 기자 = 스페인 내무부는 31일 오후 2시(한국시간 오후 9시)께 전날 아침부터 모로코 북단 소재 자국 자치령 세우타에 5만 명이 일시에 무단 난입했으며 현재 이 중 2만 5000명 정도가 자진해 모로코로 되돌아갔다고 웹사이트에서 말했다.",
-      "앞서 인구 8만 7000명의 세우타 자치령 수반은 \"6만 명이 하루 새 들어왔으며 이를 지탱할 수 없다\"며 중앙정부의 개입과 지원을 요구했다.",
-      "세우타는 지중해 지브롤터 해협을 사이에 두."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0f2c52e3",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026073122254450254",
-    "title": "최현덕 시장 \"광역교통·보행 조화되는 시민 중심 도시 만들겠다\"",
-    "summary": [
-      "최현덕 남양주시장이 정부에 광역교통망 확충을 공식 건의하며 서울 접근성과 시민 이동 편의 개선에 본격 나섰다.",
-      "왕숙신도시 등 대규모 개발사업으로 급증하는 교통 수요에 대응하기 위한 선제적 행보다.",
-      "최 시장은 31일 서울 송파문화예술회관에서 열린 '더나은 보행도시 국제심포지엄'에 참석해 김용석 대도시권광역교통위원회 위원장을 만나 남양주시 주요 광역교통 현안에 대한 정부 차원의 지원을 요청했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13efc11d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731172500098",
-    "title": "EU \"테무, 작년 EU 역외보조금 규정 조사 방해\"",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 중국 전자상거래 업체 테무가 작년 12월 유럽연합(EU)의 역외 보조금 규정에 따른 조사를 방해했다고 EU..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd8658b5f",
+    "id": "n50ccebf8",
     "category": "사회",
     "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260731/134404620/2",
-    "title": "“6살 소년 향해 돌진한 흑곰 쫓아낸 반려견…‘영웅견’ 표창 받았다”",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260731/134404746/2",
+    "title": "“숨 참고 수중 푸시업 86회”…기네스 신기록 세운 인도 요가 강사",
     "summary": [
-      "미국 코네티컷주의 한 반려견이 6살 소년을 향해 달려드는 야생 흑곰을 쫓아낸 사실이 알려져 화제다.",
-      "이 반려견은 공로를 인정받아 지역 정치인들로부터 표창을 받았다.20일(현지시간) 뉴욕포스트 등 외신에 따르면 미국 코네티컷주 토링턴에 거주하는 6살 콜튼 타자라는 4일 집 앞에서 놀던 중 갑자기 흑곰과 마주쳤다.공개된 폐쇄회로(CCTV) 영상에는 흑곰이 콜튼을 향해 달려들었고, 놀란 소년이 그 자리에서 몸을 움츠리는 긴박한 순간이 담겼다."
+      "인도의 한 요가 강사가 숨을 단 한 번 들아마신 뒤 물속에서 팔굽혀펴기 86개를 해 기네스 세계기록을 경신했다.",
+      "이 남성은 꾸준한 훈련을 통해 물속에서 최대 6분간 숨을 참을 수 있는 능력을 갖춘 것으로 알려졌다.",
+      "31일(현지시간) NDTV 등 외신에 따르면 카말 칼로이(38)는 맨몸 운동 기술과 호흡 조절 훈련을 바탕으로 한 번의 호흡만으로 가장 많은 수중 팔굽혀펴기(남자 부문)를 수행해 기네스 세계기록을 세웠다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nec48c25d",
+    "id": "ne909fedc",
     "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/31/GBRWGNBVMVSDGOBXGM3WCNTCMM/",
+    "title": "[제5회 BSA] '레이디' 신혜선, 여우주연상 \"모두가 함께 만든 사라킴, 더 좋은 연기로 보답\"",
+    "summary": [
+      "[스포츠조선 백지은 기자] 신혜선이 여우주연상을 받았다.",
+      "31일 오후 인천 파라다이스시티에서 제5회 청룡시리즈어워즈가 열렸다.",
+      "신혜선은 '레이디 두아'에서 사라 킴으로 다채로운 페르소나를 구현해 내며 '연기 차력쇼'라는 말이 나올 정도로 압도적인 존재감을 드러냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naedab899",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/31/2026073123352540054",
+    "title": "노보텔 수원, 프렌치 미식과 여름 호캉스 즐긴다",
+    "summary": [
+      "프렌치&누들 프로모션부터 객실 패키지·빙수까지 8월 특별 혜택 노보텔 앰배서더 수원이 8월을 맞아 미식과 휴식을 함께 즐길 수 있는 레스토랑 프로모션과 객실 패키지, 시즌 한정 디저트를 선보인다.",
+      "호텔 뷔페 레스토랑 '더 스퀘어'에서는 오는 9월 30일까지 '프렌치&누들(French & Noodle)' 프로모션을 진행한다.",
+      "비프 부르기뇽과 라따뚜이를 곁들인 문어 요리, 니스식 샐러드, 명란 파스타, 우육짜장, 속초 물회 등을 비롯해 크림 브륄레."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n72b1d801",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260731/134404742/1",
+    "title": "이란 “미군 공중호위 받으며 호르무즈 통과하려던 유조선 2척 타격”",
+    "summary": [
+      "이란 이슬람혁명수비대(IRGC)는 31일(현지 시간) 미군의 공중 호위를 받으며 호르무즈 해협을 통과하려던 유조선 2척을 타격해 운항을 중단시켰다고 발표했다.",
+      "타스님통신에 따르면 IRGC는 이날 성명을 내어 이날 새벽 미국 중부사령부(CENTCOM)에 현혹된 유조선 2척이 이란의 반복된 경고를 무시한 채, 미군의 공중 호위를 받으며 신고되지 않은 항로를 통해 호르무즈 해협을 통과하려 했다고 밝혔다.",
+      "IRGC는 해당 유조선 2척을 타격해 운항을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd99c384d",
+    "category": "사회",
     "source": "조선일보",
     "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/31/GVTDAODFGMYTAZLGGM2DSMZSGM/",
-    "title": "[제5회 BSA] 김재원-전소영, 남녀신인상 \"아름다운 김고은-건우야 고마워\"",
+    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/31/B77EUSBY6NGZPAX4J7BZKJJL5Y/",
+    "title": "[정수윤의 길을 걸으며] [40] ‘플립 턴’과 모래시계",
     "summary": [
-      "[스포츠조선 백지은 기자] 배우 김재원과 전소영이 남녀신인상을 받았다.",
-      "31일 오후 인천 파라다이스시티에서 제5회 청룡시리즈어워즈가 열렸다.",
-      "김재원은 '유미의세포들3'에서 순록 역을 맡아 특유의 멍뭉미를 탄탄한 연기력으로 살려냈다."
+      "[정수윤의 길을 걸으며] [40] ‘플립 턴’과 모래시계."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n13399fa6",
+    "id": "ncb0fa276",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/31/2026073123333057869",
+    "title": "롱샴, 9월 파리서 첫 아트 페스티벌 연다",
+    "summary": [
+      "예술·패션·퍼포먼스 한자리에, 국제 아티스트 30여 명 참여 프랑스 럭셔리 패션 하우스 롱샴이 오는 9월 프랑스 파리 마레 지구에서 예술과 창의성을 아우르는 문화 행사 '롱샴 아트 페스티벌(Longchamp Art Festival)'을 개최한다.",
+      "오는 9월 4일부터 6일까지 열리는 이번 행사는 롱샴이 오랜 기간 이어온 예술 후원과 창작 활동을 하나의 문화 경험으로 확장한 프로젝트다.",
+      "시각예술과 디자인, 무용, 음악, 퍼포먼스, 디지털 아트 등."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a4408ad",
     "category": "스포츠",
     "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/31/G43DMMRWGFSWMNZVME2TGZBWMQ/",
+    "title": "'역대 최초' 형에게 당한 굴욕, 오늘은 이겼다→KBO 17호 기록까지…\"무조건 잡아야겠다는 생각했죠\"",
+    "summary": [
+      "[수원=스포츠조선 이종서 기자] \"무조건 잡아야 한다는 생각밖에 없었네요.\" 박영현(KT 위즈)은 31일 수원 KT위즈파크에서 열린 한화 이글스와의 경기에 9회초 올라와 1이닝 1안타 무실점을 기록했다.",
+      "선두타자 허인서를 유격수 땅볼로 잡은 박영현은 이도윤에게 던진 초구가 안타로 이어졌다.",
+      "심우준을 유격수 뜬공으로 잡으며 2아웃."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n14fcbcfc",
+    "category": "경제",
+    "source": "머니투데이",
     "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/31/HFSTKYLEMIZDAMJSGAYTMNBWGY/",
-    "title": "[제5회 BSA] '기리고' 전소영, 신인여우상 \"건우야 고마워\"",
+    "url": "https://www.mt.co.kr/living/2026/07/31/2026073123321741336",
+    "title": "젠틀몬스터, 프라다와 협업한 아이웨어 컬렉션 공개",
     "summary": [
-      "[스포츠조선 백지은 기자] 전소영이 신인여우상을 받았다.",
-      "31일 오후 인천 파라다이스시티에서 제5회 청룡시리즈어워즈가 열렸다.",
-      "전소영은 '기리고'에서 유세아 역을 맡아 복잡한 에너지와 내면을 안정적으로 연기에 녹여내며 차세대 기대주로 우뚝섰다."
+      "10종 국내 판매 시작, 클래식과 실험적 디자인의 조화 담아 글로벌 패션 아이웨어 브랜드 젠틀몬스터가 프라다(PRADA)와 협업한 신규 아이웨어 컬렉션을 국내에 선보였다.",
+      "이번 컬렉션은 프라다의 클래식한 미학과 젠틀몬스터의 독창적인 디자인 철학을 결합한 10종의 아이웨어로 구성됐다.",
+      "정교한 렌즈 실루엣과 구조적인 프론트 디자인, 프라다의 시그니처 삼각 로고, 젠틀몬스터 특유의 조형적인 티타늄 템플이 조화를 이루는 것이 특징이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n995dbad0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731171600085",
-    "title": "스페인 총리 \"이주민 난입은 영토 공격…신속히 내보낼 것\"",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 페드로 산체스 스페인 총리가 북아프리카 모로코에서 스페인 자치도시 세우타로 수만 명이 밀려 들어온 데 대해 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6dc977f0",
+    "id": "ndfdb7073",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/31/GU4DGYRYHBQTKMRYGY2TEYJWMQ/",
-    "title": "[제5회 BSA] '순록이' 김재원, 신인남우상 \"아름다운 김고은 덕분\"",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/31/GQZTAZDBGJTDQNRXGM3WEZLCMM/",
+    "title": "[제5회 BSA] '허수아비' 박해수, 남우주연상 \"다음달 태어나는 둘째의 축복인듯\"",
     "summary": [
-      "[스포츠조선 백지은 기자] 배우 김재원이 신인남우상을 받았다.",
+      "[스포츠조선 백지은 기자] 박해수가 남우주연상을 받았다.",
       "31일 오후 인천 파라다이스시티에서 제5회 청룡시리즈어워즈가 열렸다.",
-      "김재원은 '유미의세포들3'에서 순록 역을 맡아 특유의 멍뭉미를 탄탄한 연기력으로 살려냈다."
+      "박해수는 '허수아비'에서 형사 강태주 역을 맡아 아픔과 선함을 우직하게 표현해 내며 '재발견'이란 평을 받았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf31c358f",
-    "category": "스포츠",
-    "source": "뉴시스",
+    "id": "nb63d222e",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/living/2026/07/31/2026073123203542989",
+    "title": "스타벅스, 레드빈 말차 코코 프라푸치노 선보여",
+    "summary": [
+      "코코 프라푸치노 라인업 확대, 개점 27주년 기념 프로모션도 진행 스타벅스 코리아(대표이사 신동우)가 새로운 여름 시즌 음료 '레드빈 말차 코코 프라푸치노'를 선보이며 코코 프라푸치노 라인업을 확대했다.",
+      "신제품은 달콤한 단팥과 유기농 제주 말차, 쫀득한 펄 토핑, 코코넛 베이스를 조합한 프리미엄 프라푸치노다.",
+      "익숙한 말차와 단팥의 풍미에 코코넛과 펄 토핑을 더해 디저트처럼 즐길 수 있도록 구성했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nffdbb9ae",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260731/134404458/2",
+    "title": "[사설]“메가특구 주 52시간 완화”… 특구 밖으로도 단계적 확대하라",
+    "summary": [
+      "정부가 첨단 산업과 지역 균형 발전을 위해 새로 만들 ‘메가특구특별법’에 주 52시간 근로제 완화 등을 포함하는 구상을 여당 의원들에게 설명했다고 한다.",
+      "메가특구 입주 기업에 경영계가 기업 활동과 투자의 걸림돌로 지목한 노동 규제 족쇄를 유연하게 풀어준다는 내용이다.",
+      "정부 법안대로 법이 마련되면 기업의 지방 투자를 촉진하고 노동조합법 제2·3조 개정안(노란봉투법) 시행으로 기울어진 노사 관계의 균형을 맞추는 계기가 될 수 있다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nd6b09c11",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731174500071",
+    "title": "영 김 美하원 동아태 소위원장, 北 IT 위장취업 저지법 발의",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 영 김 미국 하원 외교위원회 동아시아태평양 소위원장(공화·캘리포니아)이 북한의 외화벌이 수단 중 하나인 I..."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
+    "id": "n2180a76c",
+    "category": "사회",
+    "source": "동아일보",
     "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732276",
-    "title": "[KBO 내일의 선발투수]8월1일(토)",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260731/134404462/2",
+    "title": "[사설]美 드론 격추할 뻔한 軍… 손발 안 맞는 ‘불통 동맹’ 누구 탓인가",
     "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 8월1일(토)> ▲잠실(오후 6시) LG (카를로스 카라스코) - (곽빈) 두산 ▲사직(오후 6시) 삼성 (오스틴 보스) - (제레미 비슬리) 롯데 ▲수원(오후 6시) 한화 (브루스 짐머맨) - (배제성) KT ▲창원(오후 6시) KIA (황동하) - (라일리 톰슨) NC ▲고척(오후 6시) SSG (타케다 쇼타) - (김윤하) 키움."
+      "우리 군이 한미 연합훈련 중이던 미군 무인기를 격추할 뻔한 사건이 발생했다.",
+      "군은 지난달 30일 오후 경기 북부 접경지역에서 미확인 비행체를 포착하고 방공작전 경보인 ‘두루미’를 발령해 요격 태세에 나섰다.",
+      "일부 지역엔 주민 긴급 대피 문자가 발송되기도 했다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n626a1e73",
+    "id": "n9e90ad9e",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732343",
+    "title": "[속보]뉴욕증시, 혼조 출발…반도체 강세",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 aci27@newsis.com."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n525902ab",
     "category": "사회",
     "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260730_0003729608",
-    "title": "1945년 히로시마 원폭 초고온이 만든 '신종 금속' 발견",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732342",
+    "title": "경찰직협 \"보완수사권 폐지 환영…형사사법체계 새로운 전환점\"",
     "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 1945년 일본 히로시마에 투하된 원자폭탄이 지금까지 지구상에 존재하지 않던 새로운 금속 물질을 만들어냈다는 연구 결과가 나왔다.",
-      "30일(현지 시간) 영국 데일리메일에 따르면 이탈리아 피렌체 대학교 연구진은 히로시마만 해변 모래에서 수집한 원폭 낙하물 입자인 히로시마이트(Hiroshimaite)를 분석하던 중, 원자 폭발 시 생성된 새로운 금속 물질을 발견했다고 발표했다.",
-      "연구 결과는 국제 학술지 사이언스 어."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n0c96eb49",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732275",
-    "title": "[KBO 오늘의 경기 결과]7월31일(금)",
-    "summary": [
-      "[서울=뉴시스] [KBO]오늘의 경기 결과<2026년 7월31일(금)> ▲LG 2 - 4 두산(잠실) 패 송승기 승 잭로그 ▲삼성 9 - 7 롯데(사직) 승 원태인 패 이이무라 쇼타 ▲한화 3 - 5 KT(수원) 패 류현진 승 주권 ▲KIA 4 - 10 NC(창원) 패 양현종 승 토다 나츠키 ▲SSG 7 - 12 키움(고척) 패 김건우 승 정현우."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8fd0bc8a",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724168156007",
-    "title": "[프로야구] 1일 선발투수",
-    "summary": [
-      "[프로야구] 1일 선발투수."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n1d0f60ca",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724167956007",
-    "title": "[프로야구 중간순위] 31일",
-    "summary": [
-      "[프로야구 중간순위] 31일."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na7711dc6",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "29분 전",
-    "url": "https://view.asiae.co.kr/article/2026073122020743614",
-    "title": "22년 지킨 월정사 내려놓고…정념 스님, 총무원장 도전장",
-    "summary": [
-      "대한불교조계종 제4교구 본사인 오대산 월정사를 22년간 이끌어온 정념 스님이 주지직에서 물러났다.",
-      "오는 9월 치러질 제38대 조계종 총무원장 선거 출마를 위한 사실상의 출사표로 받아들여진다.",
-      "정념 스님은 31일 조계종 총무원에 사직서를 제출하고 '대한불교조계종 제4교구 월정사 교구장직을 내려놓으며 드리는 말씀'을 발표했다."
+      "[서울=뉴시스]이다솜 기자 = 전국경찰직장협의회(직협)가 검사의 보완수사권을 전면 폐지하는 내용을 골자로 한 형사소송법 개정안이 국회 본회의를 통과한 것에 대해 환영의 뜻을 밝혔다.",
+      "직협은 31일 입장문을 내고 \"국회 본회의에서 형사소송법 개정안이 통과되며 대한민국 형사사법체계는 수사와 기소의 분리라는 새로운 전환점을 맞이했다\"고 밝혔다.",
+      "이어 \"이번 개정은 특정 기관의 권한을 확대하거나 축소하는 문제가 아니라 국민의 기본권 보호와 책임 있는."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n60d87705",
+    "id": "n866833fc",
     "category": "경제",
     "source": "아시아경제",
-    "time": "36분 전",
-    "url": "https://view.asiae.co.kr/article/2026073121550439600",
-    "title": "사찰음식, 미래 먹거리 해법 찾는다…4개국 전문가 서울 집결",
+    "time": "30분 전",
+    "url": "https://view.asiae.co.kr/article/2026073123102872644",
+    "title": "민선 9기 김해시장직 인수위, 백서 발간 … 시 누리집 공개",
     "summary": [
-      "한국 사찰음식이 지속 가능한 미래 음식으로서 지닌 가치를 살펴보는 국제학술 행사가 열린다.",
-      "한국불교문화사업단은 다음 달 20일 오후 1시부터 5시까지 서울 종로구 한국불교역사문화기념관 전통문화예술공연장에서 '2026년 사찰음식 국제학술 심포지엄'을 개최한다고 31일 밝혔다.",
-      "지난해에 이어 두 번째로 열리는 이번 심포지엄은 사찰음식 국가무형유산 지정 1주년을 기념해 마련됐다."
+      "민선 9기 경남 김해시장직 인수위원회가 백서를 발간해 31일 김해시에 전달했다.",
+      "정영두 김해시장 취임 준비를 도왔던 인수위는 지난 6월 12일부터 7월 1일까지 진행한 인수위 활동과 민선 9기 시정 운영 방향, 핵심과제 제안 등을 백서에 담았다.",
+      "인수위 활동 기간 시민 300여명을 대상으로 한 설문조사와 지난 6월 25일 동상동 어울림센터에서 개최한 '정영두 당선인과 시민과의 만남' 결과, 대중교통 인프라 확충, 장유여객터미."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n08176a47",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "38분 전",
-    "url": "https://view.asiae.co.kr/article/2026073121505229145",
-    "title": "'장윤기 사건' 지휘 전 형사과장, 구속영장 또 기각",
+    "id": "n01a6dec3",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731174300009",
+    "title": "뉴욕증시, 아마존 실적·반도체 강세 속 혼조 출발",
     "summary": [
-      "'장윤기 사건' 수사를 일선에서 지휘했던 광주 광산경찰서 전 형사과장에 대해 경찰이 재신청한 사전구속영장이 또다시 기각됐다.",
-      "정교형 광주지법 영장전담 부장판사는 31일 직권남용권리행사방해와 직무유기 혐의를 받는 광주경찰청 소속 A 경정의 구속 전 피의자 심문(영장실질심사)을 진행하고, 경찰청 '장윤기 사건 진상규명' 특별수사단이 신청한 구속영장을 기각했다.정 부장판사는 \"종전 구속영장 기각 이후 추가로 확보된."
+      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 아마존 실적발표와 반도체주 강세 등을 소화하며 혼조세로 출발했다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc8ae4e8",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731171400530",
-    "title": "노동장관, 극한 폭염에 택배 상하차장 점검…9월까지 감독 강화",
-    "summary": [
-      "(서울=연합뉴스) 옥성구 기자 = 사람 잡는 역대급 폭염이 계속되자 김영훈 고용노동부 장관이 더위에 취약한 택배 상·하차장을 불시에 찾아 폭염 ..."
-    ],
-    "chips": [
-      "#고용"
+      "#반도체"
     ]
   }
 ];
@@ -640,18 +648,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
+    "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "스타트업",
     "mentions": "1420건",
     "trend": "+115%"
   }
