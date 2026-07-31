@@ -1,25 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-31 11:41:18
+// 마지막 업데이트: 2026-07-31 12:37:24
 window.NEWS_DB = [
-  {
-    "id": "n755b2277",
-    "category": "IT",
-    "source": "헤럴드경제",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GZW9EV3ZxN1hFR2RUdU4wbURobmRTQ3o2eDZYVFMxdFpnZmI0RnJ2eU5PVVBQTGtNNFRnaHlmZEdLUC14eFozRm5WVjM0dUxwa0N5WHN3?oc=5",
-    "title": "삼성·SK, 美 실리콘밸리 반도체 학회서 ‘HBM’ 자존심 대결",
-    "summary": [
-      "삼성·SK, 美 실리콘밸리 반도체 학회서 ‘HBM’ 자존심 대결 헤럴드경제."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
   {
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -30,10 +16,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf78a6a0d",
+    "category": "IT",
+    "source": "글로벌경제신문",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1YWYwRF9iSDc2QV9uT1pObkN5cnRxSGd2cVFOZ01DN3l6N0xZTXkxcDctNXp0RmtwdDFQazhFOXdCalJUQkFxdE5pallMZk1uazU0ZnNzdWF3Y01XaEFneU8xRmN0OWRPNzc4Yi03czHSAXBBVV95cUxQNWFmMERfYkg3NkFfbk9aTm5DeXJ0cUhndnFRTmdNQzd5ejdMWU15MXA3LTV6dEZrcHQxUGs4RTl3QmpSVEJBcXROaWpZTGZNbms1NGZzc3Vhd2NNV2hBZ3lPMUZjdDlkTzc3OGItN3Mx?oc=5",
+    "title": "삼성전자, HBM4·테일러 2공장 '승부수'…\"HBM·파운드리 경쟁력 회복\" 기대감",
+    "summary": [
+      "삼성전자, HBM4·테일러 2공장 '승부수'…\"HBM·파운드리 경쟁력 회복\" 기대감 글로벌경제신문."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "n20482ffd",
     "category": "IT",
     "source": "연합인포맥스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
@@ -47,7 +48,7 @@ window.NEWS_DB = [
     "id": "nc06eaff3",
     "category": "IT",
     "source": "한국경제",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczVid3c4TkUydmFFU2Rfd0IwVkN5NFNUOGMxM09aYkNTVVhxYnpoNFFYN3E1R1Z3cUlacjZUNXhJNHE4Tkg0d3BDcVhfM3VBdy1jbmRSSG5HQQ?oc=5",
     "title": "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올",
     "summary": [
@@ -149,12 +150,12 @@ window.NEWS_DB = [
   {
     "id": "n94aa4795",
     "category": "IT",
-    "source": "서울Pn",
+    "source": "go.seoul.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
     "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
     "summary": [
-      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
+      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 go.seoul.co.kr."
     ],
     "chips": [
       "#스타트업",
@@ -195,12 +196,12 @@ window.NEWS_DB = [
   {
     "id": "n6b58f8f3",
     "category": "사회",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "time": "32일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
     ],
     "chips": [
       "#채용",
@@ -211,12 +212,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "straightnews.co.kr",
+    "source": "스트레이트뉴스",
     "time": "45일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
     ],
     "chips": [
       "#금리"
@@ -377,251 +378,259 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n059a8e10",
+    "id": "n86ec52ca",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026073121280412846",
+    "title": "20대 투자 천재 레버리지 매매…반도체주 급등락 원인이었나",
+    "summary": [
+      "인공지능(AI) 산업의 예언자라 불리던 투자자 리오폴드 애션브레너(25)가 이끄는 투자 회사 '시추에이셔널 어웨어니스(SA)'가 최근 거듭된 AI 주가 폭락으로 인해 마진콜(증거금 요구)을 당할 위기에 처했던 것으로 전해졌다.",
+      "이 때문에 SA는 보유 자산 대부분을 강제 매각할 위기에 처할 뻔했다가 세계 최대 헤지펀드 시타델에 극적으로 인수됐다.",
+      "블룸버그 통신은 31일(현지시간) SA 마진콜 사태를 지난 27~29일 반도체 기업 주."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n1fdbdcf6",
     "category": "사회",
-    "source": "동아일보",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260731/134404248/1",
-    "title": "작가 산호, 한국인 최초로 ‘만화계 오스카상’ 미국 아이스너상 수상",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732321",
+    "title": "'패트 기간 단축' 개정안…여 \"식물국회 끝내야\" 야 \"입법 폭주\"(종합)",
     "summary": [
-      "산호 작가가 한국인 최초로 ‘만화계 오스카상’으로 불리는 미국 아이스너상을 수상했다.",
-      "아이스너상 주관사 미국 코믹콘 인터내셔널은 24일(현지시간) ‘제38회 윌 아이스너 코믹 산업상’에서 산호 작가의 ‘장례식 케이크 전문점 연옥당’을 ‘최우수 아시아 만화 미국판’ 으로 선정했다.",
-      "이 부문은 북미에서 영어로 출간된 아시아 만화 번역 작품 중 최우수 작품을 선정해 시상한다."
+      "[서울=뉴시스]신재현 이승재 권신혁 우지은 전상우 기자 = 패스트트랙(신속처리안건) 심사 기간을 단축하는 내용의 국회법 개정안이 31일 국회 본회의에 상정됐다.",
+      "필리버스터(무제한 토론)에 돌입한 국민의힘은 \"더불어민주당이 일하는 국회를 표방하며 법안을 단 4일만에 통과시키려 한다\"고 비판했다.",
+      "이에 민주당은 \"식물 국회의 불명예스러운 사슬을 끊어내야 한다\"고 반박했다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9799f0a2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732302",
-    "title": "박지원 \"김대중의 박지원, 이재명의 정성호…측근은 죽음을 각오해야\"(종합)",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 박지원 전 국가정보원장이 정성호 법무부 장관을 이재명 대통령의 핵심 측근으로 평가하며 검찰개혁 완수를 강조했다.",
-      "박 전 원장은 30일 광주방송(KBC) '여의도 초대석'에 출연해 \"대통령도 인간이고 사람이기 때문에 자신의 울분 같은 것을 측근에게 토로할 필요가 있다\"며 \"그러한 역할을 해주는 것이 정성호 장관의 역할\"이라고 말했다.",
-      "이어 \"김대중 대통령의 파트너는 박지원이었고, 이재명 대통령은 정성호 장관이라."
-    ],
-    "chips": [
+      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "n71534003",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732295",
-    "title": "\"수학 잘하면 억대 연봉\"…월가·실리콘밸리, 신입에 21억원 베팅",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 미국 월가와 실리콘밸리가 소수의 수학·컴퓨터과학 인재를 확보하기 위해 거액의 보상 경쟁을 벌이고 있다.",
-      "일부 최상위 신입 인재는 첫해 보상 규모가 150만 달러(약 21억원)에 달하는 것으로 전해졌다.",
-      "30일(현지 시간) 월스트리트저널(WSJ)에 따르면 제인스트리트와 옵티버 등 월가 금융권의 퀀트 트레이딩 기업과 오픈AI, 앤트로픽 등 인공지능(AI) 기업들이 극소수의 뛰어난 수학 전공자와 컴퓨터과학 인재를."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n415902a4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/national/2026/07/31/HC6AMJ5C5FAVHMOQR4MKB2Y5VA/",
-    "title": "경찰, ‘공직선거법 위반 혐의’ 안병윤 예천군수 구속영장 신청",
-    "summary": [
-      "경찰, ‘공직선거법 위반 혐의’ 안병윤 예천군수 구속영장 신청."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne549d94c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732288",
-    "title": "소방서 차고 앞 막아놓고 \"운영 안 하는 줄 알았다\"…누리꾼 비판 쇄도",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 소방서 차고문 앞에 차량을 주차한 운전자가 운영하지 않는 소방서인 줄 알았다고 해명한 사연이 알려지면서 온라인에서 비판이 이어지고 있다.",
-      "지난 30일 한 소방관은 스레드를 통해 소방서 차고문 앞에 주차된 차량 사진을 공개하며 \"소방서 차고문 앞에 주차를 해서 전화하니 '소방서 안 하는 줄 알았다'고 하더라\"고 밝혔다.",
-      "이어 \"차고문이 닫혀 있어도 주차하면 안 된다\"며 \"우리는 24시간 쉬는 날 없이 교대하면서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1782d033",
+    "id": "n585b5bb3",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/31/GMYDSNTEGM2WCNLBGQ3GCNTCG4/",
-    "title": "홈런 영상 \"귀하다\" 댓글에 긁혔다?…강백호 돌아오자 '직관 홈런'으로 답했다",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/31/2026073116340480540",
+    "title": "'와' 그 짧은 공에 두 번이나 홈인이라니! 힐리어드 주루에 한화가 홀렸다... KT 4연승 질주 [수원 현장리뷰]",
     "summary": [
-      "[수원=스포츠조선 이종서 기자] \"저 그래도 30개는 쳤는데….\" 심우준(한화)은 지난 22일 광주 기아챔피언스필드에서 열린 KIA 타이거즈와의 경기에서 홈런을 쳤다.",
-      "애덤 올러의 슬라이더가 몰리자 놓치지 않고 받아쳐 좌측 담장을 넘겼다.",
-      "이날 심우준의 홈런 영상이 SNS에 올라오자 강백호(한화)는 '귀하다'는 말을 썼다."
+      "KT 위즈 외국인 타자 샘 힐리어드가 신들린 주루로 마법사 군단의 연승을 이끌었다.",
+      "KT는 31일 수원KT위즈파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 홈 경기에서 한화 이글스에 5-3으로 승리했다.",
+      "이로써 4연승을 질주한 2위 KT는 57승 2무 36패로 선두 삼성 라이온즈(59승 2무 37패)와 승차를 0.5경기로 유지했다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "ne50a753c",
-    "category": "사회",
-    "source": "조선일보",
+    "id": "n0800c004",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/07/31/P6JQC34JXBHFTKVRJ4X5MQQ2S4/",
-    "title": "KBS 새 이사장에 정재권 ‘임시’ 선출…“미임명 이사 7명 조속히 추천돼야”",
+    "url": "https://www.yna.co.kr/view/AKR20260731170400007",
+    "title": "'만년 유망주' 김대한 2홈런 폭발…두산, LG와 라이벌전 승리",
     "summary": [
-      "KBS 새 이사장에 정재권 ‘임시’ 선출…“미임명 이사 7명 조속히 추천돼야”."
+      "(서울=연합뉴스) 이대호 기자 = 프로야구 두산 베어스가 '만년 유망주' 김대한의 데뷔 첫 멀티 홈런(한 경기 2홈런 이상)을 앞세워 LG 트윈..."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nbfdf0158",
+    "id": "na1413cc0",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/sports/2026/07/31/2026073115401382937",
+    "title": "'대박' 멀티홈런 대폭발! 고교시절 오타니로 불린 두산 사나이 '드디어 잠재력 터지나' LG와 잠실 라이벌전 기선 제압 [잠실 현장리뷰]",
+    "summary": [
+      "두산 베어스가 LG 트윈스와 주말 3연전 중 첫 경기에서 승리, 기선 제압에 성공했다.",
+      "두산은 31일 서울 잠실야구장에서 펼쳐진 LG와 2026 신한 SOL KBO 리그 정규시즌 홈 경기에서 4-2로 승리했다.",
+      "이 승리로 두산은 51승 45패 3무를 마크하며 리그 단독 5위를 유지했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd17cd8c1",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "연합뉴스",
     "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732271",
-    "title": "박지원 \"수사권 박탈된 검사들, 윤석열·한동훈 원망하라\"",
+    "url": "https://www.yna.co.kr/view/AKR20260731170000063",
+    "title": "'폭발' 한화에어로 임직원 3명 추가 입건…\"안전관리 지휘라인\"",
     "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 박지원 더불어민주당 의원이 검찰 수사권 축소에 반발하는 검사들을 향해 현 검찰개혁은 윤석열 전 대통령과 한동훈 의원이 자초한 결과라며 이들을 원망해야 한다고 주장했다.",
-      "박 의원은 30일 광주방송(KBC) '여의도 초대석'에 출연해 \"해방 후 지금까지 검찰이 얼마나 독재자, 군사독재의 시녀로서 무고한 국민을 죽이고 조작했느냐\"며 \"최근에는 특히 윤석열, 한동훈이 불을 지르면서 검찰이 완전히 개혁된 것\"이라고 말."
+      "(대전=연합뉴스) 김소연 기자 = 7명의 사상자가 발생한 한화에어로스페이스 폭발 사고의 원인을 수사하는 경찰이 안전관리 지휘체계에 있는 한화에어..."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n7af29063",
-    "category": "사회",
-    "source": "조선일보",
+    "id": "n17746cc4",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/07/31/MUYDIOJTMVTGMMZXMI4GIZJXMU/",
-    "title": "혜리, 나시 즐겨 입는 이유..“내 어깨 예뻐, 승모근 가리면 완벽” [순간포착]",
+    "url": "https://www.yna.co.kr/view/AKR20260731170100007",
+    "title": "[프로야구 잠실전적] 두산 4-2 LG",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] 그룹 걸스데이 출신 배우 혜리가 찐템들을 소개했다.",
-      "31일 유튜브 채널 ‘혜리’는 ‘혤돈혤산 혜리취향 이 영상은 유료 광고를 포함하고 있지 않습니다’라는 제목의 영상이 게재됐다.이날 혜리는 “2026년도 반이나 지나갔다.",
-      "상반기에 뭘 했는지 되짚어보다가 상반기 결산템을 한번 소개를 드려볼까 생각."
+      "[프로야구 잠실전적] 두산 4-2 LG."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "na5e1265b",
+    "id": "nf050a755",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "뉴시스",
     "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731167300065",
-    "title": "김포선관위, '선거운동 수당 불법 지급' 후보자 등 2명 고발",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732319",
+    "title": "하녀복 입고 \"주인님\"…메이드카페 유흥주점 분류 검토",
     "summary": [
-      "(김포=연합뉴스) 황정환 기자 = 경기 김포시선거관리위원회는 6·3 지방선거에서 선거운동 수당을 현금으로 지급한 혐의(정치자금법 위반)로 김포..."
+      "[서울=뉴시스] 구무서 기자 = 정부가 변종 메이드카페를 유흥주점으로 분류하는 방안을 검토 중이다.",
+      "31일 관계부처에 따르면 성평등가족부와 식품의약품안전처(식약처)는 인허가 단계에서 변종 메이드카페를 유흥주점으로 분류하는 방안을 논의 중이다.",
+      "일본에서 시작한 것으로 알려진 메이드카페는 여성 종업원이 하녀(메이드) 복장을 하고 손님을 \"주인님\"이라고 부르며 식·음료 등을 제공하는 곳으로, 국내에는 지난해부터 도입되고 있다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n177baaff",
-    "category": "사회",
-    "source": "연합뉴스",
+    "id": "n33308f3f",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731168100004",
-    "title": "정성호 \"이제 검사는 수사 못해…부작용시 신속 보완·수정해야\"",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/31/MEYDOMZTGVSGCYZQHFQTKY3DGM/",
+    "title": "'박준순 투런포→김대한 멀티포' 두산 홈런 3방으로 이겼다! LG 4-2 제압하고 2연승 [잠실 리뷰]",
     "summary": [
-      "(서울=연합뉴스) 박재현 기자 = 정성호 법무부 장관은 31일 형사소송법 개정안의 국회 통과와 관련해 \"처음 가는 길에서 선의나 기대와는 달리 ..."
+      "[OSEN=잠실, 조은혜 기자] 프로야구 두산 베어스가 LG 트윈스와의 잠실 라이벌 매치에서 승리하고 2연승을 만들었다.김원형 감독이 이끄는 두산은 31일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 LG 트윈스와의 홈경기에서 4-2로 승리했다.",
+      "이날 승리로 2연승을 만든 두산은 시즌 전적 51승34패3무를 마크했다.송승기가 선발 등판한 LG는."
     ],
     "chips": [
-      "#정치"
+      "#KBO"
     ]
   },
   {
-    "id": "n4ac91cb6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731168000085",
-    "title": "영국 북해 개발 논란 속 BP 북해사업 매각 추진",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국 에너지 기업 BP가 지난 60년간 유지해온 북해 사업 부문을 매각하기로 했다고 31일(현지시간) 밝혔다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0eb5d5e",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731168200073",
-    "title": "키옥시아 2분기 순익 작년 46배…AI 특수에 7∼9월도 31배 전망",
-    "summary": [
-      "(도쿄=연합뉴스) 이도연 특파원 = 일본의 낸드플래시 제조사 키옥시아 홀딩스(이하 키옥시아)가 올해 4∼6월 자사의 순이익이 작년 동기 대비 4..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n32121a3b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260731/134404241/1",
-    "title": "‘불법촬영’ 아들 휴대폰 폐기한 아빠 경찰…수사팀, 알고도 보고 안 해",
-    "summary": [
-      "현직 경찰관이 여교사를 불법 촬영하려던 혐의로 수사를 받는 아들의 휴대전화를 파손한 사건과 관련해 아들의 불법촬영을 수사하던 경찰이 휴대전화가 파손됐으며, 아버지가 경찰이란 것을 상부에 보고하지 않았단 사실이 드러났다.31일 뉴시스 취재를 종합하면 전북 전주시 모 파출소에 근무하는 A경감의 고등학생 아들 B군은 성폭력 범죄의 처벌 등에 관한 특례법 위반(카메라 등 이용 촬영) 혐의로 수사를 받고 지난달 말 검찰에 송치됐다.B군은 지난 5월 말."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0cebbbbc",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260731/134404238/1",
-    "title": "국힘, 檢총장대행 사의에 “국민 보호해야 할 순간, 자리 던져”",
-    "summary": [
-      "국민의힘은 31일 구자현 검찰총장 직무대행이 사의를 표명한 데 대해 “명분은 ‘형사사법 체계의 붕괴에 대한 책임’이라지만, 정작 국민을 보호해야 할 마지막 순간에 자리를 던져버린 핑계에 지나지 않는다”고 했다.박충권 국민의힘 수석대변인은 이날 오후 논평을 내어 “수장들의 도미노 사퇴, 수사 공백의 피해는 고스란히 국민 몫”이라며 이같이 말했다.앞서 구 대행은 이날 오후 6시 서울 서초구 대검찰청 청사를 나서며 “법조계를 비롯한 각계 전문가들과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a322258",
+    "id": "n4eddb962",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260731/134404235/1",
-    "title": "K리그1 제주 골키퍼 허재원, 독일 바이에른 뮌헨 임대 이적",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260731/134404501/1",
+    "title": "한화 류현진, 역대 8번째 10시즌 연속 100이닝…시즌 9승은 무산",
     "summary": [
-      "프로축구 K리그1 제주 SK의 골키퍼 허재원(18)이 독일 분데스리가에 진출한다.제주는 31일 “구단 산하 유소년 출신 골키퍼 허재원이 독일 분데스리가 바이에른 뮌헨으로 임대 이적한다”고 밝혔다.임대 기간은 2027년 1월까지 6개월이고, 일정 조건을 충족하면 완전 이적 조항이 발동되는 옵션이 포함됐다.이로써 허재원은 지난 2009년 핀란드 리그로 이적한 권정혁 이후 17년 만에 유럽리그에 진출한 한국인 골키퍼가 됐다.아울러 유럽 5대 빅리그(."
+      "프로야구 한화 이글스의 토종 에이스 류현진이 KBO리그 10시즌 연속 100이닝을 달성했다.류현진은 31일 수원 KT위즈파크에서 열린 2026 신한 쏠 KBO리그 KT 위즈와의 원정 경기에 선발 등판해 5⅓이닝 7피안타 2사사구 3탈삼진 4실점을 기록했다.이날 경기 전까지 올 시즌 95이닝을 던졌던 류현진은 이날 5⅓이닝을 추가하며 100이닝을 넘어섰다.데뷔 시즌인 2006년부터 201⅔이닝을 소화했던 류현진은 이듬해인 2007년 211이닝을."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nee497c53",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/society/2026/07/31/2026073121111521797",
+    "title": "경찰, '언론인 금품 제공 의혹' 안병윤 예천군수 구속영장 신청",
+    "summary": [
+      "경북경찰청이 지방선거를 앞두고 언론인들에게 금품을 전달한 혐의를 받는 안병윤 예천군수에 대해 31일 구속영장을 신청했다.",
+      "경북경찰청 반부패수사2대는 31일 공직선거법 위반 혐의를 받는 안병윤 예천군수에 대해 구속 영장을 신청했다고 밝혔다.",
+      "경찰 관계자는 \"사안의 중대성을 고려해 구속영장을 신청했다\"며 \"현재 진행 중인 수사와 관련한 구체적인 내용은 밝힐 수 없다\"고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n57091642",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073121121525163",
+    "title": "이혜영, 투병 6년 만에 희소식 \"폐암 졸업…아직 완치는 아냐\"",
+    "summary": [
+      "방송인 이혜영이 \"폐암에서 졸업했다\"며 호전된 상태를 알렸다.",
+      "31일 인터넷 커뮤니티에 따르면 지난 30일 유튜브 채널 '혜영이는 못말려'에는 '폐암 투병 6년차, 마지막 검사를 앞둔 이혜영'이라는 제목의 영상이 올라왔다.",
+      "영상에는 5차 추적검사를 받으러 병원에 방문한 이혜영의 모습이 담겼다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n01ba65dd",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026073121180401699",
+    "title": "무더위에 열대야까지…경남권 낮기온 39도 이상[내일날씨]",
+    "summary": [
+      "토요일인 1일은 전국 대부분 지역에서 무더위가 이어지고, 밤사이 열대야가 나타나는 곳이 많겠다.특히 폭염 중대경보가 내려진 경남권을 중심으로 극심한 더위가 예상돼 건강관리에 각별히 유의해야 한다.",
+      "경남 일부 지역의 낮 최고기온은 39도 이상까지 치솟겠다.",
+      "그 밖의 전국 대부분 지역에서도 당분간 최고 체감온도가 35도 안팎을 기록하며 무더운 날씨가 계속되겠다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8b7a910c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/07/31/4WMSFCBNYFDSHEHYM4AFOWA4SE/",
+    "title": "伊 축구 ‘빗장 수비’ 전설 저물었다… 프랑코 바레시 별세",
+    "summary": [
+      "伊 축구 ‘빗장 수비’ 전설 저물었다… 프랑코 바레시 별세."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndebbccc4",
+    "id": "ncac5b14e",
     "category": "경제",
     "source": "한국경제",
-    "time": "40분 전",
-    "url": "https://www.hankyung.com/article/202607318128g",
-    "title": "SK하닉 '억대 성과급'에도 부글부글…\"적자 때 임금 조정\" 발칵",
+    "time": "20분 전",
+    "url": "https://www.hankyung.com/article/2026073188357",
+    "title": "정성호 법무장관 \"이제 검사는 수사 못 한다…처음 가는 길\"",
     "summary": [
-      "SK하닉 '억대 성과급'에도 부글부글…\"적자 때 임금 조정\" 발칵."
+      "정성호 법무장관 \"이제 검사는 수사 못 한다…처음 가는 길\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5dbbf66e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260731/134404433/2",
+    "title": "공원 산책하는데 너구리가 갑자기…70대 여성 손가락 물려",
+    "summary": [
+      "충북 제천의 한 공원에서 너구리가 시민들을 공격하는 일이 벌어졌다.",
+      "30일 오후 8시50분경 충북 제천시 청전동 시민공원에서 너구리가 출몰해 시민 2명이 다쳤다.당시 70대 여성은 너구리에게 손가락을 물려 병원으로 옮겨졌다.",
+      "또 다른 시민 60대 여성은너구리를 피해 달아나다 넘어져 어깨를 다친 뒤 병원으로 이송됐다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc1f07222",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/202607318834H",
+    "title": "김재원, '청룡시리즈' 신인남우상…\"너무 예쁜 고은누나\" 미소",
+    "summary": [
+      "김재원, '청룡시리즈' 신인남우상…\"너무 예쁜 고은누나\" 미소."
     ],
     "chips": [
       "#뉴스"
@@ -634,18 +643,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "KBO",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "정치",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
