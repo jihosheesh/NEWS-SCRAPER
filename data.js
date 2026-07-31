@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-31 16:32:10
+// 마지막 업데이트: 2026-07-31 17:29:40
 window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -16,25 +16,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf78a6a0d",
-    "category": "IT",
-    "source": "글로벌경제신문",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1YWYwRF9iSDc2QV9uT1pObkN5cnRxSGd2cVFOZ01DN3l6N0xZTXkxcDctNXp0RmtwdDFQazhFOXdCalJUQkFxdE5pallMZk1uazU0ZnNzdWF3Y01XaEFneU8xRmN0OWRPNzc4Yi03czHSAXBBVV95cUxQNWFmMERfYkg3NkFfbk9aTm5DeXJ0cUhndnFRTmdNQzd5ejdMWU15MXA3LTV6dEZrcHQxUGs4RTl3QmpSVEJBcXROaWpZTGZNbms1NGZzc3Vhd2NNV2hBZ3lPMUZjdDlkTzc3OGItN3Mx?oc=5",
-    "title": "삼성전자, HBM4·테일러 2공장 '승부수'…\"HBM·파운드리 경쟁력 회복\" 기대감",
-    "summary": [
-      "삼성전자, HBM4·테일러 2공장 '승부수'…\"HBM·파운드리 경쟁력 회복\" 기대감 글로벌경제신문."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "n20482ffd",
     "category": "IT",
     "source": "연합인포맥스",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
@@ -48,7 +33,7 @@ window.NEWS_DB = [
     "id": "nc06eaff3",
     "category": "IT",
     "source": "한국경제",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczVid3c4TkUydmFFU2Rfd0IwVkN5NFNUOGMxM09aYkNTVVhxYnpoNFFYN3E1R1Z3cUlacjZUNXhJNHE4Tkg0d3BDcVhfM3VBdy1jbmRSSG5HQQ?oc=5",
     "title": "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올",
     "summary": [
@@ -71,6 +56,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "nf99a2aa1",
+    "category": "IT",
+    "source": "뉴스톱",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTVFqRDdjd1FCX2RUcERXaElYN3hDNnpRM3JOQXJfREVUMENDdVRXWHl0NTNPRFd1OFcyaVFSRnpwTnNSanlUMExIY0NuX0p3Q2NqT1ZSZGVkV1c1U3BKbUJXSHItekgxVzB2RjFmYw?oc=5",
+    "title": "삼성전자, 메모리 70% 장기 계약...HBM·파운드리는 추격",
+    "summary": [
+      "삼성전자, 메모리 70% 장기 계약...HBM·파운드리는 추격 뉴스톱."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
@@ -104,12 +104,12 @@ window.NEWS_DB = [
   {
     "id": "n319886b4",
     "category": "IT",
-    "source": "thescoop.co.kr",
+    "source": "더스쿠프",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
-      "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전] thescoop.co.kr."
+      "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전] 더스쿠프."
     ],
     "chips": [
       "#반도체",
@@ -133,12 +133,12 @@ window.NEWS_DB = [
   {
     "id": "nadcbed93",
     "category": "IT",
-    "source": "businesspost.co.kr",
+    "source": "비즈니스포스트",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
-      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 businesspost.co.kr."
+      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -313,10 +313,177 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "naaf29cdc",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801002900091",
+    "title": "美국무부, AI생성 '엉터리' 아프리카 지도 썼다가 국제회의 망신",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국 국무부가 국제회의 발표 자료에 인공지능(AI)으로 생성한 엉터리 아프리카 지도를 사용했다가 들통..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n11648def",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102144338561",
+    "title": "구성환, 시장 뒤집은 이선민 인기에 깜짝 \"20대에 서태지급\"",
+    "summary": [
+      "구성환이 시장 곳곳에서 이어진 이선민의 인기에 깜짝 놀랐다.",
+      "31일 방영된 MBC '나 혼자 산다' 658회에서는 배우 구성환이 코미디언 이선민과 함께 시장을 방문하는 모습이 그려졌다.",
+      "이날 구성환은 이선민과 시장 곳곳을 둘러보며 고기, 파김치, 두부 등 다양한 식자재를 구매했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6f8e7be7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/01/GAZTQOBVGA4DGNJUGI3TSMTBGE/",
+    "title": "이란 혁명수비대 “美 공중호위 유조선 2척 공격”…호르무즈 긴장 고조",
+    "summary": [
+      "이란 이슬람혁명수비대(IRGC)가 31일(현지시각) 미군의 공중 호위를 받으며 호르무즈 해협을 통과하려던 유조선 2척을 공격해 운항을 중단시켰다고 주장했다.",
+      "미국 측은 즉각 입장을 내놓지 않았다.",
+      "이란 국영·반관영 매체들에 따르면 혁명수비대는 이날 성명을 통해 “유조선 2척이 미 중부사령부의 기만전술에 넘어가 경고를 무시하고 미군의 공중 호위를 받으며 안전."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n441804b5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801002800071",
+    "title": "트럼프 \"이스라엘 매우 만족\"…하마스 무장해제 합의 호응 압박",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 31일(현지시간) 팔레스타인의 친이란 무장정파 하마스의 무장해제 합의와 관련해..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfefe7276",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/01/HFQTOMJUGIYTENRSGM2WMNBWGI/",
+    "title": "'드디어 KIA 제쳤다' LG 꺾고 4위 도약…흐뭇한 김원형 감독 \"김대한, 오늘 계기로 더 자신감 있는 모습 보여주길\"",
+    "summary": [
+      "[OSEN=잠실, 조은혜 기자] 프로야구 두산 베어스가 LG 트윈스와의 잠실 라이벌 매치에서 승리하고 4위로 도약했다.김원형 감독이 이끄는 두산은 31일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 LG 트윈스와의 홈경기에서 4-2로 승리했다.",
+      "이날 승리로 2연승을 만든 두산은 시즌 전적 51승34패3무를 마크, NC 다이노스에게 패한 KIA 타."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nbf374167",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732360",
+    "title": "민주콩고 에볼라 확진 3500명 넘어…'빠른 속도'로 역대 2번째 규모 기록",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 아프리카 중부 콩고민주공화국(민주콩고)에서 에볼라 확진자가 3500명을 넘어섰다.",
+      "에볼라 유행 가운데 사상 2번째로 규모가 크다.",
+      "CNN, 신화통신 등에 따르면 이날 민주콩고 보건당국은 에볼라 확진자가 3532명, 사망자는 1556명으로 늘었다고 발표했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n90989fbe",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731264",
+    "title": "\"정관수술 무섭다\" 피하더니…둘째 생기자 '낙태' 요구한 남편",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = 정관수술을 거부하다가 예기치 않게 둘째 아이가 생기자 아내에게 낙태를 강요하고 나선 남편의 황당한 사연이 알려졌다.",
+      "31일 JTBC '사건반장'은 둘째 임신 후 남편과 시댁 식구들로부터 낙태를 강요받고 있다는 40대 여성 A씨의 사연을 소개했다.",
+      "A씨는 아이를 갖지 않는 이른바 '딩크족'으로 결혼 생활을 즐기며 살아왔으나, 결혼 4년 차에 뜻밖의 임신을 하게 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0967ba51",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731442",
+    "title": "나이 들수록 살 안 빠지는 진짜 이유, '의지 탓' 하기 전에 알아야 할 것들",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 나이가 들면서 식단을 조절하고 운동을 시작해 봐도 예전만큼 효과가 나타나지 않아 답답함을 느끼기 쉽다.",
+      "호르몬 변화와 일상생활 패턴 등 체중이 쉽게 줄지 않는 원인에 대한 과학적 설명이 나왔다.",
+      "미국 건강 매체 '에브리데이 헬스(Everyday Health)'에 따르면, 이는 단순한 의지 부족 문제가 아닌 우리 몸 내부에서 벌어지는 복합적인 생리학적 변화와 깊은 연관이 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nfc38fdfe",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731561",
+    "title": "\"16kg 감량 성공\" 한혜연, 44kg 유지 비결은?…더 날렵해진 각선미 근황 공개",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 스타일리스트 겸 방송인 한혜연이 다이어트 성공 후 변함없는 날씬한 몸매를 선보이며 근황을 전했다.",
+      "한혜연은 30일 자신의사회관계망서비스(SNS)에 일상 속 모습을 담은 사진을 공개했다.",
+      "사진 속 그는 다리 라인이 자연스럽게 드러나는 세련된 스타일링을 선보이며 특유의 감각적인 패션 소화력을 뽐냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n93d645ec",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801002700071",
+    "title": "트럼프 \"이란 강하게 타격할 것…이란 거짓말에 신뢰 잃고 있어\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 31일(현지시간) 이란에 대한 강력한 공습 의지를 거듭 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0aec8dec",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801002500085",
+    "title": "영국 법원, '초대형 중국 대사관' 반대 주민 소송 기각",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국 법원이 31일(현지시간) 런던 도심에 초대형 중국 대사관을 건립하는 데 반대하는 주민들이 제기한 소송을..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n80dec8de",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "40분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153905",
     "title": "이민원 SOOP 대표 \"상황 엄중 인식...생태계 중심 쇄신 속도낸다\"",
     "summary": [
@@ -329,10 +496,105 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd58648d2",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "40분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/01/2026080101454713091",
+    "title": "'아르헨 공식방문' 李 대통령…\"핵심광물 공급망 협력 MOU 체결\"",
+    "summary": [
+      "[the300] 아르헨티나를 공식방문 중인 이재명 대통령이 \"이번 방문에서 양국은 리튬 협력의 성공 경험을 바탕으로 '핵심광물 공급망 협력 양해각서(MOU)'를 체결한다\"고 밝혔다.",
+      "이 대통령은 31일(현지시간) 공개된 스페인어권 통신사 에페(EFE)와의 인터뷰에서 \"이 양해각서는 핵심광물 공급망 전반의 협력 체계를 구축하기 위한 것\"이라며 \"한국은 이차전지 소재 등 부문에서 첨단산업 역량을 갖추고 있어 한국이 아르헨티나의 광물 고부가가치화 전."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf42e8070",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/01/GM3WMY3GMI2WCYRUHFRDIMBWGM/",
+    "title": "\"와우~\" '대구 일몰 악몽' 씻어낸 믿기지 않는 인생수비, 원태인에 진 빚 갚고, 장찬희와 삼성 1위 모두 지켰다",
+    "summary": [
+      "[스포츠조선 정현석 기자]지난 7월19일 대구 삼성-롯데전.",
+      "0-0이던 3회초 롯데 공격 2사 1,2루.",
+      "레이예스가 삼성 선발 원태인의 직구를 친 타구가 중견수 쪽으로 높게 솟아올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5448f3eb",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "49분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260801/134404628/2",
+    "title": "검찰 수사권, 78년만에 완전 폐지",
+    "summary": [
+      "보완수사권을 포함한 검사의 전면 수사권을 폐지하는 형사소송법 개정안이 31일 국회 본회의를 통과했다.",
+      "이에 따라 10월 2일 검찰청 폐지와 함께 78년 만에 수사와 기소가 완전히 분리된다.",
+      "하지만 야당의 반대와 법무부 등 정부 내 우려 속에 범여권 강경파 주도로 전면적인 형사사법체계 개편이 이뤄지면서 혼란이 불가피할 것이라는 목소리가 커지고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb547b0d5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "49분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260801/134404630/2",
+    "title": "與, 靑특별감찰관 후보에 ‘검사 출신’ 최길수 변호사 추천",
+    "summary": [
+      "더불어민주당이 31일 청와대 특별감찰관 후보로 검사 출신 최길수 변호사(60·사법연수원 23기)를 추천했다.",
+      "이재명 대통령이 지난해 7월 후보 추천을 국회에 요청한다고 밝힌 지 1년여 만에 임명 절차가 본격화된 것.",
+      "국민의힘이 올 4월 검사 출신 강지식 변호사(60·사법연수원 27기)를 추천한 가운데 민주당은 8월까지 추천 절차를 마무리한다는 방침이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne5a86f47",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "49분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260801/134404640/2",
+    "title": "경남 양산 41.4도… 관측이래 최악 폭염",
+    "summary": [
+      "한낮 기온이 41.4도까지 치솟은 31일 경남 양산의 도심 곳곳은 진공 상태에 가까울 정도로 적막감이 감돌았다.",
+      "도시 전체가 거대한 찜통처럼 변하면서 시민들이 실외 활동을 극단적으로 줄인 탓이다.",
+      "양산시 물금읍에서 만난 주민 김진구 씨(40)는 “밖에 잠깐만 나와도 숨이 턱 막힌다”며 “사우나 증기보다 강렬한 열기가 얼굴을 쓸고 지나간다”고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "necef9fe5",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "49분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260801/134404308/2",
+    "title": "‘그들만의 리그’ 이후 72년… 여자프로야구가 돌아온다",
+    "summary": [
+      "난달 기준으로 전 세계에서 ‘프로야구 선수’가 직업인 여성은 0명이었다.",
+      "그러나 미국여자프로야구리그(WPBL)가 2일 공식 출범하면 60명이 프로야구 선수가 된다.",
+      "미국에 여자프로야구가 생기는 건 영화 ‘그들만의 리그’로 유명했던 전미여자프로야구리그(AAGPBL)가 1954년 해체된 이후 72년 만이다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nee3b68db",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "54분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153901",
     "title": "[기자수첩] 기술적 창의성의 얼굴",
     "summary": [
@@ -348,7 +610,7 @@ window.NEWS_DB = [
     "id": "n1bbded9d",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "55분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153902",
     "title": "SOOP 2Q 매출·영업이익 모두 '감소'...세무조사·리그 일정이 발목",
     "summary": [
@@ -361,275 +623,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na03c9029",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801001800099",
-    "title": "북아프리카 알제리서 버스 계곡 추락…최소 25명 사망",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 북아프리카 알제리에서 31일(현지시간) 오전 버스가 계곡 아래로 추락해 최소 25명이 사망했다고 AP..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n971a7834",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732358",
-    "title": "'이란, 호르무즈 통과 시도 유조선 타격' 소식에 국제유가 상승세",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 이란이 호르무즈 해협을 통과하려던 유조선 2척을 타격했다는 소식에 31일(현지 시간) 국제유가는 상승하고 있다.",
-      "CNBC에 따르면 이날 뉴욕상업거래소에서 9월 인도분 미국 서부텍사스산원유(WTI) 선물 가격은 장중 한때 배럴당 2.2% 오른 85.41달러였다.",
-      "ICE선물거래소에서 9월 인도분 브렌트유 선물 가격도 장중 한때 1.5% 상승한 배럴당 90.36달러를 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n18318501",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/01/HE3TIMTGMRRWIZBUMNSDCN3EGI/",
-    "title": "18구 던져 12구가 파울→1사 2,3루 무실점 삭제…LG 1차지명, 선발 대신 불펜 수업 받나",
-    "summary": [
-      "[OSEN=한용섭 기자] 프로야구 LG 트윈스 투수 이민호가 퓨처스리그에서 불펜투수로 등판해 3경기 연속 호투를 이어갔다.",
-      "이민호는 31일 이천 LG챔피언스파크에서 열린 고양 히어로즈와 경기에서 불펜 투수로 등판해 ⅔이닝 1탈삼진 무실점을 기록했다.",
-      "이민호는 0-5로 뒤진 5회 1사 2,3루에서 투수 양진혁에 이어 마운드에 올랐다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n6910005b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/GRSDKOBVHBRWMNLDMI4TGMJUG4/",
-    "title": "비주얼에 비율까지 완벽, 변우석[O! STAR 숏폼]",
-    "summary": [
-      "[OSEN=조은정 기자]제5회 청룡시리즈어워즈 레드카펫 및 포토월 행사가 31일 인천 파라다이스시티에서 열렸다.청룡시리즈어워즈는 2022년 대한민국 최초로 시도된 오리지널 스트리밍 시리즈를 대상으로 하는 시상식이다.",
-      "사회는 전현무와 임윤아로 5년 연속 호흡을 맞춘다.변우석이 레드카펫을 밟고 있다.",
-      "/cej@osen.co.kr[사진]박준형 기자 [OSEN=조."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n902dde56",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801001500071",
-    "title": "트럼프, 스페인 '이주민 난입'에 \"재앙…민주 집권시 美도 침략당해\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 31일(현지시간) 북아프리카와 국경을 맞댄 스페인 세우타 지역의 이주민 난입 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n67e6fe0a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/01/HEYWMMBWGJTDONJVGI2TGOJQMI/",
-    "title": "송찬의는 직구로, 문정빈은 슬라이더로 잡았다 → 김택연이 밝힌 '역으로 가자' 볼배합 배경은 [잠실 현장]",
-    "summary": [
-      "[잠실=스포츠조선 한동훈 기자] 두산 베어스 김택연이 LG 트윈스 중심타선을 무력화시키며 팀 승리에 힘을 보탰다.",
-      "두산은 31일 잠실에서 열린 LG와 경기에서 4대2로 승리했다.",
-      "김대한이 시즌 1호 2호 홈런을 폭발했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9d9b3b0d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731896",
-    "title": "\"트럼프 얼굴 박힌 여권 없어서 못 판다\"…문의 폭주에 25만부로 확대",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 도널드 트럼프 미국 대통령의 얼굴이 새겨진 독립 250주년 기념 여권이 예상보다 큰 인기를 끌면서 미국 국무부가 당초 계획보다 늘어난 25만부를 발급하기로 했다.",
-      "미국 워싱턴포스트(WP)는 30일(현지시간) \"미 국무부가 '압도적인 수요'를 이유로 트럼프 대통령의 이미지가 담긴 기념 여권 발급 규모를 25만부로 확대한다고 밝혔다\"고 보도했다.",
-      "이 여권은 미국 독립 250주년을 기념하기 위해 제작된 것으로, 백."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na2cda60b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003730883",
-    "title": "\"사람이 먼저\"라며 주차칸 몸으로 버틴 여성…남편이 대신 '사과'",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 주차 공간을 선점하기 위해 사람이 자리를 막아선 주차장 '알박기' 행위가 포착돼 논란이 되고 있다.",
-      "30일 JTBC '사건반장'은 지난 25일 전북 순창의 한 주차장에서 벌어진 주차 시비 영상을 공개했다.",
-      "제보자에 따르면 당시 남편과 함께 주차장에 들어선 그는 빈자리가 단 한 곳뿐인 것을 발견하고 주차를 시도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n652febd1",
-    "category": "IT",
-    "source": "테크M",
-    "time": "29분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153898",
-    "title": "[우버의 공습] 규제에 꽁꽁 묶인 韓 플랫폼...정부, 국내 생존경쟁 '나몰라라' ③",
-    "summary": [
-      "우버가 딜리버리 히어로를 인수했다.",
-      "\"우리가 어떤 민족입니까\"를 외치던 배달의 민족은 독일로, 그리고 미국 기업에 인수됐다.",
-      "이는 한국 인터넷 업계와 스타트업 생태계에 던지는 중요한 화두다."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nb173c66a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "31분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134404806/1",
-    "title": "‘악뮤’ 이수현 “정신 무너져 몸도 망가졌다”…독한 다이어트 고백",
-    "summary": [
-      "정신적으로 힘든 시기를 겪으며 집에만 머물렀던 가수 이수현이 하루 두 끼 식단과 강도 높은 운동으로 몸과 마음을 회복하고 있는 근황을 공개했다.가수 이수현이 철저한 식단 관리와 운동으로 다이어트를 이어가고 있는 근황을 공개하며, 과거 정신적으로 힘들었던 시기와 이를 극복하기 위해 스스로 단련하고 있다고 털어놨다.지난 30일 구독자 169만명의 유튜브 채널 ‘인생84’에 공개된 영상에서 이수현은 현재 하루 두 끼만 먹으며 체중을 관리하고 있다고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5868dfeb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260724_0003721880",
-    "title": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 본격적인 여름 휴가철이 다가오면서 장거리 이동이나 야외활동을 계획하는 사람들이 늘고 있다.",
-      "그러나 생리통이나 생리과다 등 생리 관련 증상으로 인해 휴가 일정을 조정하거나 여행을 온전히 즐기지 못하는 여성들도 적지 않다.",
-      "여름철에는 높은 기온과 습도로 월경 중 불편감이 더욱 부담스럽게 느껴질 수 있고, 반복되는 통증이나 과도한 생리량은 진통제나 생리 용품을 준비하는 것만으로 충분히 해결하기 어려울 수 있기 때문이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1262952e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "31분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134404803/1",
-    "title": "“돈에 환장한 사람 같다고”…박미선, 복귀 후 악플에 상처",
-    "summary": [
-      "코미디언 박미선이 암 투병 후 방송 복귀 과정에서 받은 상처를 고백했다.31일 유튜브 채널 ‘김영철 오리지널’에는 박미선이 게스트로 출연한 영상이 공개됐다.영상에서 박미선은 “내가 아프려고 해서 아픈 게 아니다.",
-      "조용히 지나가려고 했는데 조혜련이 방송에 나가 너무 우는 바람에 본의 아니게 굉장히 시끄럽게 아웃팅이 됐다”라고 말했다.이어 “아픈 사람의 이미지가 프레임으로 씌워져 있는 상태에서 ‘아픈데 쉬지.",
-      "뭐 하러 나오나’ 이런 글이 너무 많았."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na241ee9d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "31분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260801/134404800/1",
-    "title": "[오늘날씨]토요일도 전국 찜통더위…‘낮 최고 39도’에 열대야",
-    "summary": [
-      "토요일인 1일은 전국에서 폭염이 계속되고 밤에는 열대야도 25도 이상으로 오르는 등 찜통더위가 이어질 전망이다.기상청은 “중부지방은 가끔 구름 많겠고, 남부지방과 제주도는 대체로 맑겠다”고 전날 예보했다.전국 대부분 지역에 폭염특보가 발효된 가운데 당분간 전국 대부분 지역에서 최고 체감온도가 35도 안팎으로 올라 무덥겠다.당분간 기온은 평년(최저 22~25도, 최고 29~33도)보다 높겠다.경남권(부산중부, 부산서부, 울산동부, 양산, 창원,."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19c53e92",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260801/134404797/1",
-    "title": "“일론 머스크인 줄 알았네”… SNS 달군 中 ‘도플갱어’ 바비큐 사장",
-    "summary": [
-      "중국에서 일론 머스크 테슬라 최고경영자(CEO)와 놀라울 정도로 닮은 외모의 바비큐 식당 사장이 화제를 모으고 있다.지난 30일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면, 중국 산시성 퉁촨에서 바비큐 식당을 운영하는 마젠핑 씨가 머스크와 닮은 외모로 온라인에서 큰 화제를 모으고 있다.",
-      "마젠핑 씨가 식당에서 음식을 서빙하는 영상이 중국 소셜네트워크서비스(SNS)에 공개된 후 130만 개 이상의 좋아요를 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na2f36eee",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "47분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/01/UISLKVUD2BGPFBRE4QK5S7G5YM/",
-    "title": "불법 이민자 하루 6만명 상륙… 8만명 사는 스페인령 소도시 마비",
-    "summary": [
-      "불법 이민자 하루 6만명 상륙… 8만명 사는 스페인령 소도시 마비."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6eea3990",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "51분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801000500072",
-    "title": "미 7월 미시간대 소비심리지수 55.2…2개월 연속 개선",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 7월 미국 소비자들의 경제 심리가 2개월 연속 개선세를 이어갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naaa35341",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801000400099",
-    "title": "민주콩고 에볼라 확진자 3천500명 넘어…역대 2번째 규모",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(DRC)에서 에볼라 확진자가 3천500명을 넘어 확산세가 이어지고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd8af0c6d",
+    "id": "nef265a9f",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607318884H",
-    "title": "진선규, 아내에게 \"정신 차려!\"·윤경호 \"말이 많아서\"…'청룡시리즈' 말말말",
+    "time": "56분 전",
+    "url": "https://www.hankyung.com/article/2026073188671",
+    "title": "日銀, 금리 동결…\"인상 속도 높일 수도\"",
     "summary": [
-      "진선규, 아내에게 \"정신 차려!\"·윤경호 \"말이 많아서\"…'청룡시리즈' 말말말."
+      "日銀, 금리 동결…\"인상 속도 높일 수도\"."
     ],
     "chips": [
-      "#뉴스"
+      "#금리"
     ]
   }
 ];
@@ -639,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3240건",
-    "trend": "+395%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "스타트업",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
