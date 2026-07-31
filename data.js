@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-31 14:46:41
+// 마지막 업데이트: 2026-07-31 15:40:42
 window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nf78a6a0d",
     "category": "IT",
     "source": "글로벌경제신문",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1YWYwRF9iSDc2QV9uT1pObkN5cnRxSGd2cVFOZ01DN3l6N0xZTXkxcDctNXp0RmtwdDFQazhFOXdCalJUQkFxdE5pallMZk1uazU0ZnNzdWF3Y01XaEFneU8xRmN0OWRPNzc4Yi03czHSAXBBVV95cUxQNWFmMERfYkg3NkFfbk9aTm5DeXJ0cUhndnFRTmdNQzd5ejdMWU15MXA3LTV6dEZrcHQxUGs4RTl3QmpSVEJBcXROaWpZTGZNbms1NGZzc3Vhd2NNV2hBZ3lPMUZjdDlkTzc3OGItN3Mx?oc=5",
     "title": "삼성전자, HBM4·테일러 2공장 '승부수'…\"HBM·파운드리 경쟁력 회복\" 기대감",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n20482ffd",
     "category": "IT",
     "source": "연합인포맥스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "nc06eaff3",
     "category": "IT",
     "source": "한국경제",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczVid3c4TkUydmFFU2Rfd0IwVkN5NFNUOGMxM09aYkNTVVhxYnpoNFFYN3E1R1Z3cUlacjZUNXhJNHE4Tkg0d3BDcVhfM3VBdy1jbmRSSG5HQQ?oc=5",
     "title": "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올",
     "summary": [
@@ -166,12 +166,12 @@ window.NEWS_DB = [
   {
     "id": "nc01e8f2e",
     "category": "사회",
-    "source": "브릿지경제",
+    "source": "viva100.com",
     "time": "32일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
-      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
+      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 viva100.com."
     ],
     "chips": [
       "#AI",
@@ -182,12 +182,12 @@ window.NEWS_DB = [
   {
     "id": "n6b58f8f3",
     "category": "사회",
-    "source": "아주경제",
+    "source": "ajunews.com",
     "time": "32일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
     ],
     "chips": [
       "#채용",
@@ -378,32 +378,241 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n50ccebf8",
+    "id": "nf360dcfc",
     "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260731/134404746/2",
-    "title": "“숨 참고 수중 푸시업 86회”…기네스 신기록 세운 인도 요가 강사",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/08/01/MYQG2V5CW5BJLNIDPPVBD75YTI/",
+    "title": "풍경만큼 오래 남는 풍미… 휴가지서 맛있는 ‘독서 한 끼’",
     "summary": [
-      "인도의 한 요가 강사가 숨을 단 한 번 들아마신 뒤 물속에서 팔굽혀펴기 86개를 해 기네스 세계기록을 경신했다.",
-      "이 남성은 꾸준한 훈련을 통해 물속에서 최대 6분간 숨을 참을 수 있는 능력을 갖춘 것으로 알려졌다.",
-      "31일(현지시간) NDTV 등 외신에 따르면 카말 칼로이(38)는 맨몸 운동 기술과 호흡 조절 훈련을 바탕으로 한 번의 호흡만으로 가장 많은 수중 팔굽혀펴기(남자 부문)를 수행해 기네스 세계기록을 세웠다."
+      "풍경만큼 오래 남는 풍미… 휴가지서 맛있는 ‘독서 한 끼’."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne909fedc",
-    "category": "스포츠",
+    "id": "nb22b4fb9",
+    "category": "사회",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/31/GBRWGNBVMVSDGOBXGM3WCNTCMM/",
-    "title": "[제5회 BSA] '레이디' 신혜선, 여우주연상 \"모두가 함께 만든 사라킴, 더 좋은 연기로 보답\"",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/01/VHHYBBAVZVFONOFTF7O2N7BTYU/",
+    "title": "[TV조선] ‘트랙터 드라이버’ 애심 엄마",
     "summary": [
-      "[스포츠조선 백지은 기자] 신혜선이 여우주연상을 받았다.",
-      "31일 오후 인천 파라다이스시티에서 제5회 청룡시리즈어워즈가 열렸다.",
-      "신혜선은 '레이디 두아'에서 사라 킴으로 다채로운 페르소나를 구현해 내며 '연기 차력쇼'라는 말이 나올 정도로 압도적인 존재감을 드러냈다."
+      "[TV조선] ‘트랙터 드라이버’ 애심 엄마."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na58338f5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/08/01/J5RFGAZG55FFRM6TJOQOPAGCBQ/",
+    "title": "[윤고은의 장르별미] 서늘한 피서지같은 기묘하고 아름다운 이야기",
+    "summary": [
+      "[윤고은의 장르별미] 서늘한 피서지같은 기묘하고 아름다운 이야기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32ecfb0b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/08/01/JQLZ6H3NEJA5TPY7EASOSZAANU/",
+    "title": "거짓말·조종 일삼는 인간… 그들의 권력을 빼앗아라",
+    "summary": [
+      "거짓말·조종 일삼는 인간… 그들의 권력을 빼앗아라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4f21d0ab",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732355",
+    "title": "\"소주 두 병 마시고 1시간 운전\"…휴가철 음주단속 30분 만에 면허취소",
+    "summary": [
+      "[서울=뉴시스]이다솜 기자 = \"그만할 때까지 쭉 부세요.",
+      "더, 더, 더, 더, 됐습니다.\" 휴가철이 한창인 지난달 31일 밤 9시께 서울 양화대교 남단.",
+      "여름 휴가철을 맞아 서울 마포경찰서 교통 경찰관들이 무더운 열대야 속에 음주 운전 특별 단속에 나섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85fc8888",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732344",
+    "title": "튀르키예, '호르무즈' 대안 육상 경로 건설 추진…\"3년 내 완공\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 튀르키예는 최근 이란 전쟁으로 통과가 어려워진 핵심 해상 통로 호르무즈 해협의 대안이 될 새 육상 경로를 3년 내 완성할 계획이라고 현지 예니샤파크, 휴리엣데일리뉴스 등이 31일(현지시간) 보도했다.",
+      "보도에 따르면 압둘카디르 우랄로을루 튀르키예 교통인프라 장관은 이날 기자들에게 이라크 남부 알파우 항구와 튀르키예, 유럽을 연결하는 '개발도로' 사업을 올해 안에 착공하는 것을 목표로 하고 있다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n94e02f5e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731145",
+    "title": "부모 이혼, 우울증 위험 41% 높지만…진짜 원인은 따로 있었다",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 어린 시절 부모의 이혼을 경험한 사람은 성인이 된 뒤 우울증을 진단받을 가능성이 더 높지만 그 배경에는 부모의 정신건강 문제가 더 큰 영향을 미칠 수 있다는 연구 결과가 나왔다.",
+      "캐나다 토론토대 에스메 풀러-톰슨 교수 연구팀은 미국 성인 12만8264명을 분석한 결과를 의학 저널 정신의학 연구에 29일(현지시간) 발표했다.",
+      "연구진은 2021~2024년 미국 행동위험요인감시체계 자료를 활용해 어린 시절 성적·신."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf4b35857",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731346",
+    "title": "\"외벌이 남편한테 집안일 시키는 게 잘못?\"…전업주부 아내의 하소연에 '시끌'",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 외벌이 남편에게 주말 집안일을 시키는 것을 두고 전업주부 아내와 시어머니가 갈등을 빚은 사연이 전해졌다.",
+      "지난 29일 온라인 커뮤니티에는 '외벌이가 남편 집안일 시키면 잘못된 건가요?'라는 제목의 사연이 올라왔다.",
+      "7살 딸을 둔 3인 가족의 전업주부라고 밝힌 작성자 A씨는 자신을 외벌이 가정의 아내라고 소개하며 남편에게 주말 집안일을 시키는 문제로 겪은 갈등을 털어놓았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naaa35341",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801000400099",
+    "title": "민주콩고 에볼라 확진자 3천500명 넘어…역대 2번째 규모",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(DRC)에서 에볼라 확진자가 3천500명을 넘어 확산세가 이어지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee828150",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731175700001",
+    "title": "韓-아르헨 정상회담…핵심광물 공급망·무역협상 재개 등 논의",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 임형섭 황윤기 기자 = 아르헨티나를 공식 방문한 이재명 대통령은 31일(현지시간) 하비에르 밀레이 대통령과 정상회담..."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n14a385b8",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731175500109",
+    "title": "교황청 순자산 4.4조원…금·부동산값 호조로 1천500억↑",
+    "summary": [
+      "(바티칸=연합뉴스) 민경락 특파원 = 교황청의 순자산이 작년 한 해 금과 부동산 가격 상승에 힘입어 증가한 것으로 나타났다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n2085c930",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "38분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/01/2026073116474712281",
+    "title": "일본축구 '파격 선택' 또 나왔다, 이민성호 AG 금메달 못 따면 '진짜 굴욕'",
+    "summary": [
+      "일본축구협회가 자국에서 열리는 아시안게임에서도 파격적인 선택을 내렸다.",
+      "23세 이하(U23) 대표팀이 출전하고, 최대 3명까지 24세 이상 선수(와일드카드)를 포함될 수 있지만 일본은 와일드카드 없이 21세 이하(U21) 대표팀으로 출전하는 것이다.",
+      "오롯이 금메달을 위해 정반대의 선택을 한 이민성호 입장에선 기회이자, 동시에 큰 부담이기도 하다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n72312eba",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "39분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/01/2026073116342023062",
+    "title": "\"KT 팬과 함께해 행복해요\" 유럽·아시아·아프리카 팬들도 위즈파크에 흠뻑 빠졌다! KT-수원시 합작 야구 투어 성공적 시작",
+    "summary": [
+      "프로야구 KT 위즈가 연고지 수원특례시와 연계한 특별한 프로그램으로 전 세계에서 모인 관광객들을 야구팬으로 돌변시키며 야구 투어 프로젝트의 성공적인 시작을 알렸다.",
+      "KT는 31일 수원KT위즈파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 홈 경기에서 한화 이글스에 5-3으로 승리했다.",
+      "투·타 모두 짜임새 있는 경기력을 보여준 KT다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n86411b7c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n20234da8",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "42분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073123510579398",
+    "title": "김고은, 청룡시리즈어워즈 대상…\"많은 기회 달라\" 눈물 소감",
+    "summary": [
+      "배우 김고은(35)이 올해 청룡시리즈어워즈에서 대상의 영예를 안았다.",
+      "김고은은 31일 인천 파라다이스시티에서 열린 제5회 청룡시리즈어워즈에서 대상을 수상했다.",
+      "김고은은 넷플릭스 '은중과 상연'·'자백의 대가'와 티빙 '유미의 세포들' 시즌3에 출연해 글로벌 시청자들의 사랑을 받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50ccebf8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260731/134404746/2",
+    "title": "“숨 참고 수중 푸시업 86회”…기네스 신기록 세운 인도 요가 강사",
+    "summary": [
+      "인도의 한 요가 강사가 숨을 단 한 번 들이마신 뒤 물속에서 팔굽혀펴기 86개를 해 기네스 세계기록을 경신했다.",
+      "이 남성은 꾸준한 훈련을 통해 물속에서 최대 6분간 숨을 참을 수 있는 능력을 갖춘 것으로 알려졌다.",
+      "31일(현지시간) NDTV 등 외신에 따르면 카말 칼로이(38)는 맨몸 운동 기술과 호흡 조절 훈련을 바탕으로 한 번의 호흡만으로 가장 많은 수중 팔굽혀펴기(남자 부문)를 수행해 기네스 세계기록을 세웠다."
     ],
     "chips": [
       "#뉴스"
@@ -413,7 +622,7 @@ window.NEWS_DB = [
     "id": "naedab899",
     "category": "경제",
     "source": "머니투데이",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/living/2026/07/31/2026073123352540054",
     "title": "노보텔 수원, 프렌치 미식과 여름 호캉스 즐긴다",
     "summary": [
@@ -424,222 +633,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n72b1d801",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260731/134404742/1",
-    "title": "이란 “미군 공중호위 받으며 호르무즈 통과하려던 유조선 2척 타격”",
-    "summary": [
-      "이란 이슬람혁명수비대(IRGC)는 31일(현지 시간) 미군의 공중 호위를 받으며 호르무즈 해협을 통과하려던 유조선 2척을 타격해 운항을 중단시켰다고 발표했다.",
-      "타스님통신에 따르면 IRGC는 이날 성명을 내어 이날 새벽 미국 중부사령부(CENTCOM)에 현혹된 유조선 2척이 이란의 반복된 경고를 무시한 채, 미군의 공중 호위를 받으며 신고되지 않은 항로를 통해 호르무즈 해협을 통과하려 했다고 밝혔다.",
-      "IRGC는 해당 유조선 2척을 타격해 운항을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd99c384d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/07/31/B77EUSBY6NGZPAX4J7BZKJJL5Y/",
-    "title": "[정수윤의 길을 걸으며] [40] ‘플립 턴’과 모래시계",
-    "summary": [
-      "[정수윤의 길을 걸으며] [40] ‘플립 턴’과 모래시계."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb0fa276",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/living/2026/07/31/2026073123333057869",
-    "title": "롱샴, 9월 파리서 첫 아트 페스티벌 연다",
-    "summary": [
-      "예술·패션·퍼포먼스 한자리에, 국제 아티스트 30여 명 참여 프랑스 럭셔리 패션 하우스 롱샴이 오는 9월 프랑스 파리 마레 지구에서 예술과 창의성을 아우르는 문화 행사 '롱샴 아트 페스티벌(Longchamp Art Festival)'을 개최한다.",
-      "오는 9월 4일부터 6일까지 열리는 이번 행사는 롱샴이 오랜 기간 이어온 예술 후원과 창작 활동을 하나의 문화 경험으로 확장한 프로젝트다.",
-      "시각예술과 디자인, 무용, 음악, 퍼포먼스, 디지털 아트 등."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a4408ad",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/07/31/G43DMMRWGFSWMNZVME2TGZBWMQ/",
-    "title": "'역대 최초' 형에게 당한 굴욕, 오늘은 이겼다→KBO 17호 기록까지…\"무조건 잡아야겠다는 생각했죠\"",
-    "summary": [
-      "[수원=스포츠조선 이종서 기자] \"무조건 잡아야 한다는 생각밖에 없었네요.\" 박영현(KT 위즈)은 31일 수원 KT위즈파크에서 열린 한화 이글스와의 경기에 9회초 올라와 1이닝 1안타 무실점을 기록했다.",
-      "선두타자 허인서를 유격수 땅볼로 잡은 박영현은 이도윤에게 던진 초구가 안타로 이어졌다.",
-      "심우준을 유격수 뜬공으로 잡으며 2아웃."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n14fcbcfc",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/living/2026/07/31/2026073123321741336",
-    "title": "젠틀몬스터, 프라다와 협업한 아이웨어 컬렉션 공개",
-    "summary": [
-      "10종 국내 판매 시작, 클래식과 실험적 디자인의 조화 담아 글로벌 패션 아이웨어 브랜드 젠틀몬스터가 프라다(PRADA)와 협업한 신규 아이웨어 컬렉션을 국내에 선보였다.",
-      "이번 컬렉션은 프라다의 클래식한 미학과 젠틀몬스터의 독창적인 디자인 철학을 결합한 10종의 아이웨어로 구성됐다.",
-      "정교한 렌즈 실루엣과 구조적인 프론트 디자인, 프라다의 시그니처 삼각 로고, 젠틀몬스터 특유의 조형적인 티타늄 템플이 조화를 이루는 것이 특징이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndfdb7073",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/07/31/GQZTAZDBGJTDQNRXGM3WEZLCMM/",
-    "title": "[제5회 BSA] '허수아비' 박해수, 남우주연상 \"다음달 태어나는 둘째의 축복인듯\"",
-    "summary": [
-      "[스포츠조선 백지은 기자] 박해수가 남우주연상을 받았다.",
-      "31일 오후 인천 파라다이스시티에서 제5회 청룡시리즈어워즈가 열렸다.",
-      "박해수는 '허수아비'에서 형사 강태주 역을 맡아 아픔과 선함을 우직하게 표현해 내며 '재발견'이란 평을 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb63d222e",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/living/2026/07/31/2026073123203542989",
-    "title": "스타벅스, 레드빈 말차 코코 프라푸치노 선보여",
-    "summary": [
-      "코코 프라푸치노 라인업 확대, 개점 27주년 기념 프로모션도 진행 스타벅스 코리아(대표이사 신동우)가 새로운 여름 시즌 음료 '레드빈 말차 코코 프라푸치노'를 선보이며 코코 프라푸치노 라인업을 확대했다.",
-      "신제품은 달콤한 단팥과 유기농 제주 말차, 쫀득한 펄 토핑, 코코넛 베이스를 조합한 프리미엄 프라푸치노다.",
-      "익숙한 말차와 단팥의 풍미에 코코넛과 펄 토핑을 더해 디저트처럼 즐길 수 있도록 구성했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nffdbb9ae",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260731/134404458/2",
-    "title": "[사설]“메가특구 주 52시간 완화”… 특구 밖으로도 단계적 확대하라",
-    "summary": [
-      "정부가 첨단 산업과 지역 균형 발전을 위해 새로 만들 ‘메가특구특별법’에 주 52시간 근로제 완화 등을 포함하는 구상을 여당 의원들에게 설명했다고 한다.",
-      "메가특구 입주 기업에 경영계가 기업 활동과 투자의 걸림돌로 지목한 노동 규제 족쇄를 유연하게 풀어준다는 내용이다.",
-      "정부 법안대로 법이 마련되면 기업의 지방 투자를 촉진하고 노동조합법 제2·3조 개정안(노란봉투법) 시행으로 기울어진 노사 관계의 균형을 맞추는 계기가 될 수 있다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nd6b09c11",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731174500071",
-    "title": "영 김 美하원 동아태 소위원장, 北 IT 위장취업 저지법 발의",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 영 김 미국 하원 외교위원회 동아시아태평양 소위원장(공화·캘리포니아)이 북한의 외화벌이 수단 중 하나인 I..."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "n2180a76c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260731/134404462/2",
-    "title": "[사설]美 드론 격추할 뻔한 軍… 손발 안 맞는 ‘불통 동맹’ 누구 탓인가",
-    "summary": [
-      "우리 군이 한미 연합훈련 중이던 미군 무인기를 격추할 뻔한 사건이 발생했다.",
-      "군은 지난달 30일 오후 경기 북부 접경지역에서 미확인 비행체를 포착하고 방공작전 경보인 ‘두루미’를 발령해 요격 태세에 나섰다.",
-      "일부 지역엔 주민 긴급 대피 문자가 발송되기도 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e90ad9e",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732343",
-    "title": "[속보]뉴욕증시, 혼조 출발…반도체 강세",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 aci27@newsis.com."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n525902ab",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732342",
-    "title": "경찰직협 \"보완수사권 폐지 환영…형사사법체계 새로운 전환점\"",
-    "summary": [
-      "[서울=뉴시스]이다솜 기자 = 전국경찰직장협의회(직협)가 검사의 보완수사권을 전면 폐지하는 내용을 골자로 한 형사소송법 개정안이 국회 본회의를 통과한 것에 대해 환영의 뜻을 밝혔다.",
-      "직협은 31일 입장문을 내고 \"국회 본회의에서 형사소송법 개정안이 통과되며 대한민국 형사사법체계는 수사와 기소의 분리라는 새로운 전환점을 맞이했다\"고 밝혔다.",
-      "이어 \"이번 개정은 특정 기관의 권한을 확대하거나 축소하는 문제가 아니라 국민의 기본권 보호와 책임 있는."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n866833fc",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "30분 전",
-    "url": "https://view.asiae.co.kr/article/2026073123102872644",
-    "title": "민선 9기 김해시장직 인수위, 백서 발간 … 시 누리집 공개",
-    "summary": [
-      "민선 9기 경남 김해시장직 인수위원회가 백서를 발간해 31일 김해시에 전달했다.",
-      "정영두 김해시장 취임 준비를 도왔던 인수위는 지난 6월 12일부터 7월 1일까지 진행한 인수위 활동과 민선 9기 시정 운영 방향, 핵심과제 제안 등을 백서에 담았다.",
-      "인수위 활동 기간 시민 300여명을 대상으로 한 설문조사와 지난 6월 25일 동상동 어울림센터에서 개최한 '정영두 당선인과 시민과의 만남' 결과, 대중교통 인프라 확충, 장유여객터미."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n01a6dec3",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731174300009",
-    "title": "뉴욕증시, 아마존 실적·반도체 강세 속 혼조 출발",
-    "summary": [
-      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 아마존 실적발표와 반도체주 강세 등을 소화하며 혼조세로 출발했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
   }
 ];
 
@@ -648,18 +641,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "부동산",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "스타트업",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   }
