@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-31 15:40:42
+// 마지막 업데이트: 2026-07-31 16:32:10
 window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nf78a6a0d",
     "category": "IT",
     "source": "글로벌경제신문",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1YWYwRF9iSDc2QV9uT1pObkN5cnRxSGd2cVFOZ01DN3l6N0xZTXkxcDctNXp0RmtwdDFQazhFOXdCalJUQkFxdE5pallMZk1uazU0ZnNzdWF3Y01XaEFneU8xRmN0OWRPNzc4Yi03czHSAXBBVV95cUxQNWFmMERfYkg3NkFfbk9aTm5DeXJ0cUhndnFRTmdNQzd5ejdMWU15MXA3LTV6dEZrcHQxUGs4RTl3QmpSVEJBcXROaWpZTGZNbms1NGZzc3Vhd2NNV2hBZ3lPMUZjdDlkTzc3OGItN3Mx?oc=5",
     "title": "삼성전자, HBM4·테일러 2공장 '승부수'…\"HBM·파운드리 경쟁력 회복\" 기대감",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n20482ffd",
     "category": "IT",
     "source": "연합인포맥스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "nc06eaff3",
     "category": "IT",
     "source": "한국경제",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczVid3c4TkUydmFFU2Rfd0IwVkN5NFNUOGMxM09aYkNTVVhxYnpoNFFYN3E1R1Z3cUlacjZUNXhJNHE4Tkg0d3BDcVhfM3VBdy1jbmRSSG5HQQ?oc=5",
     "title": "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올",
     "summary": [
@@ -62,12 +62,12 @@ window.NEWS_DB = [
   {
     "id": "n8ba4b4fa",
     "category": "IT",
-    "source": "머니투데이",
+    "source": "mt.co.kr",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lNHJLZzhEdGREMDBvNktGLTdtQ1A4ZEFZaTVDYnA1clN0OE40Nm9hQkE0T0RaeGJfZHdXV3lJNFdrNWhEN08wZEFuRHRQU3pDYktvQ0w1dnNFemcwMnhIMWZMMm9TOXPSAWxBVV95cUxQaV8tWDFiNGs5QUE2WERwaE5JRmRjbDMta2twQlYtcXlhTF9GYTVRNHlTeDdzUGhGa0V6MkhrcDY2QlgtUXlCdWVDUXVVQ25FSkh1ek1OU1U4OXBBbkJMdkdtLUZOQ0EtZkhjSVA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 머니투데이."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 mt.co.kr."
     ],
     "chips": [
       "#스타트업"
@@ -88,14 +88,28 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf633ad61",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TeXR5VDlRTVNUQlNqWWJkU1pIZXNjRzZhSXZhT1F2MjY4N3p0VzFGU2twWmxscU01cnRQNUI0NjRmTUFlNkhVS1ZJRUtKekNyb0FB?oc=5",
+    "title": "[ST포토] 고예지 치어리더, '쭉쭉'",
+    "summary": [
+      "[ST포토] 고예지 치어리더, '쭉쭉' 네이트."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n319886b4",
     "category": "IT",
-    "source": "더스쿠프",
+    "source": "thescoop.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
-      "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전] 더스쿠프."
+      "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전] thescoop.co.kr."
     ],
     "chips": [
       "#반도체",
@@ -119,12 +133,12 @@ window.NEWS_DB = [
   {
     "id": "nadcbed93",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "businesspost.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
-      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 비즈니스포스트."
+      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -166,12 +180,12 @@ window.NEWS_DB = [
   {
     "id": "nc01e8f2e",
     "category": "사회",
-    "source": "viva100.com",
+    "source": "브릿지경제",
     "time": "32일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
-      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 viva100.com."
+      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
     ],
     "chips": [
       "#AI",
@@ -182,12 +196,12 @@ window.NEWS_DB = [
   {
     "id": "n6b58f8f3",
     "category": "사회",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "time": "32일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
     ],
     "chips": [
       "#채용",
@@ -283,20 +297,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n01f4c085",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "130일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
-    "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n95ae41aa",
     "category": "사회",
     "source": "mstoday.co.kr",
@@ -361,10 +361,134 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na03c9029",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801001800099",
+    "title": "북아프리카 알제리서 버스 계곡 추락…최소 25명 사망",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 북아프리카 알제리에서 31일(현지시간) 오전 버스가 계곡 아래로 추락해 최소 25명이 사망했다고 AP..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n971a7834",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732358",
+    "title": "'이란, 호르무즈 통과 시도 유조선 타격' 소식에 국제유가 상승세",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 이란이 호르무즈 해협을 통과하려던 유조선 2척을 타격했다는 소식에 31일(현지 시간) 국제유가는 상승하고 있다.",
+      "CNBC에 따르면 이날 뉴욕상업거래소에서 9월 인도분 미국 서부텍사스산원유(WTI) 선물 가격은 장중 한때 배럴당 2.2% 오른 85.41달러였다.",
+      "ICE선물거래소에서 9월 인도분 브렌트유 선물 가격도 장중 한때 1.5% 상승한 배럴당 90.36달러를 기록했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n18318501",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/01/HE3TIMTGMRRWIZBUMNSDCN3EGI/",
+    "title": "18구 던져 12구가 파울→1사 2,3루 무실점 삭제…LG 1차지명, 선발 대신 불펜 수업 받나",
+    "summary": [
+      "[OSEN=한용섭 기자] 프로야구 LG 트윈스 투수 이민호가 퓨처스리그에서 불펜투수로 등판해 3경기 연속 호투를 이어갔다.",
+      "이민호는 31일 이천 LG챔피언스파크에서 열린 고양 히어로즈와 경기에서 불펜 투수로 등판해 ⅔이닝 1탈삼진 무실점을 기록했다.",
+      "이민호는 0-5로 뒤진 5회 1사 2,3루에서 투수 양진혁에 이어 마운드에 올랐다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n6910005b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/GRSDKOBVHBRWMNLDMI4TGMJUG4/",
+    "title": "비주얼에 비율까지 완벽, 변우석[O! STAR 숏폼]",
+    "summary": [
+      "[OSEN=조은정 기자]제5회 청룡시리즈어워즈 레드카펫 및 포토월 행사가 31일 인천 파라다이스시티에서 열렸다.청룡시리즈어워즈는 2022년 대한민국 최초로 시도된 오리지널 스트리밍 시리즈를 대상으로 하는 시상식이다.",
+      "사회는 전현무와 임윤아로 5년 연속 호흡을 맞춘다.변우석이 레드카펫을 밟고 있다.",
+      "/cej@osen.co.kr[사진]박준형 기자 [OSEN=조."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n902dde56",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801001500071",
+    "title": "트럼프, 스페인 '이주민 난입'에 \"재앙…민주 집권시 美도 침략당해\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 31일(현지시간) 북아프리카와 국경을 맞댄 스페인 세우타 지역의 이주민 난입 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n67e6fe0a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/01/HEYWMMBWGJTDONJVGI2TGOJQMI/",
+    "title": "송찬의는 직구로, 문정빈은 슬라이더로 잡았다 → 김택연이 밝힌 '역으로 가자' 볼배합 배경은 [잠실 현장]",
+    "summary": [
+      "[잠실=스포츠조선 한동훈 기자] 두산 베어스 김택연이 LG 트윈스 중심타선을 무력화시키며 팀 승리에 힘을 보탰다.",
+      "두산은 31일 잠실에서 열린 LG와 경기에서 4대2로 승리했다.",
+      "김대한이 시즌 1호 2호 홈런을 폭발했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9d9b3b0d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731896",
+    "title": "\"트럼프 얼굴 박힌 여권 없어서 못 판다\"…문의 폭주에 25만부로 확대",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 도널드 트럼프 미국 대통령의 얼굴이 새겨진 독립 250주년 기념 여권이 예상보다 큰 인기를 끌면서 미국 국무부가 당초 계획보다 늘어난 25만부를 발급하기로 했다.",
+      "미국 워싱턴포스트(WP)는 30일(현지시간) \"미 국무부가 '압도적인 수요'를 이유로 트럼프 대통령의 이미지가 담긴 기념 여권 발급 규모를 25만부로 확대한다고 밝혔다\"고 보도했다.",
+      "이 여권은 미국 독립 250주년을 기념하기 위해 제작된 것으로, 백."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na2cda60b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003730883",
+    "title": "\"사람이 먼저\"라며 주차칸 몸으로 버틴 여성…남편이 대신 '사과'",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 주차 공간을 선점하기 위해 사람이 자리를 막아선 주차장 '알박기' 행위가 포착돼 논란이 되고 있다.",
+      "30일 JTBC '사건반장'은 지난 25일 전북 순창의 한 주차장에서 벌어진 주차 시비 영상을 공개했다.",
+      "제보자에 따르면 당시 남편과 함께 주차장에 들어선 그는 빈자리가 단 한 곳뿐인 것을 발견하고 주차를 시도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n652febd1",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "29분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153898",
     "title": "[우버의 공습] 규제에 꽁꽁 묶인 韓 플랫폼...정부, 국내 생존경쟁 '나몰라라' ③",
     "summary": [
@@ -378,119 +502,103 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf360dcfc",
+    "id": "nb173c66a",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/08/01/MYQG2V5CW5BJLNIDPPVBD75YTI/",
-    "title": "풍경만큼 오래 남는 풍미… 휴가지서 맛있는 ‘독서 한 끼’",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134404806/1",
+    "title": "‘악뮤’ 이수현 “정신 무너져 몸도 망가졌다”…독한 다이어트 고백",
     "summary": [
-      "풍경만큼 오래 남는 풍미… 휴가지서 맛있는 ‘독서 한 끼’."
+      "정신적으로 힘든 시기를 겪으며 집에만 머물렀던 가수 이수현이 하루 두 끼 식단과 강도 높은 운동으로 몸과 마음을 회복하고 있는 근황을 공개했다.가수 이수현이 철저한 식단 관리와 운동으로 다이어트를 이어가고 있는 근황을 공개하며, 과거 정신적으로 힘들었던 시기와 이를 극복하기 위해 스스로 단련하고 있다고 털어놨다.지난 30일 구독자 169만명의 유튜브 채널 ‘인생84’에 공개된 영상에서 이수현은 현재 하루 두 끼만 먹으며 체중을 관리하고 있다고."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb22b4fb9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/01/VHHYBBAVZVFONOFTF7O2N7BTYU/",
-    "title": "[TV조선] ‘트랙터 드라이버’ 애심 엄마",
-    "summary": [
-      "[TV조선] ‘트랙터 드라이버’ 애심 엄마."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na58338f5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/08/01/J5RFGAZG55FFRM6TJOQOPAGCBQ/",
-    "title": "[윤고은의 장르별미] 서늘한 피서지같은 기묘하고 아름다운 이야기",
-    "summary": [
-      "[윤고은의 장르별미] 서늘한 피서지같은 기묘하고 아름다운 이야기."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n32ecfb0b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/08/01/JQLZ6H3NEJA5TPY7EASOSZAANU/",
-    "title": "거짓말·조종 일삼는 인간… 그들의 권력을 빼앗아라",
-    "summary": [
-      "거짓말·조종 일삼는 인간… 그들의 권력을 빼앗아라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f21d0ab",
+    "id": "n5868dfeb",
     "category": "사회",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732355",
-    "title": "\"소주 두 병 마시고 1시간 운전\"…휴가철 음주단속 30분 만에 면허취소",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260724_0003721880",
+    "title": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]",
     "summary": [
-      "[서울=뉴시스]이다솜 기자 = \"그만할 때까지 쭉 부세요.",
-      "더, 더, 더, 더, 됐습니다.\" 휴가철이 한창인 지난달 31일 밤 9시께 서울 양화대교 남단.",
-      "여름 휴가철을 맞아 서울 마포경찰서 교통 경찰관들이 무더운 열대야 속에 음주 운전 특별 단속에 나섰다."
+      "[서울=뉴시스] 류난영 기자 = 본격적인 여름 휴가철이 다가오면서 장거리 이동이나 야외활동을 계획하는 사람들이 늘고 있다.",
+      "그러나 생리통이나 생리과다 등 생리 관련 증상으로 인해 휴가 일정을 조정하거나 여행을 온전히 즐기지 못하는 여성들도 적지 않다.",
+      "여름철에는 높은 기온과 습도로 월경 중 불편감이 더욱 부담스럽게 느껴질 수 있고, 반복되는 통증이나 과도한 생리량은 진통제나 생리 용품을 준비하는 것만으로 충분히 해결하기 어려울 수 있기 때문이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n85fc8888",
+    "id": "n1262952e",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732344",
-    "title": "튀르키예, '호르무즈' 대안 육상 경로 건설 추진…\"3년 내 완공\"",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134404803/1",
+    "title": "“돈에 환장한 사람 같다고”…박미선, 복귀 후 악플에 상처",
     "summary": [
-      "[서울=뉴시스] 김예진 기자 = 튀르키예는 최근 이란 전쟁으로 통과가 어려워진 핵심 해상 통로 호르무즈 해협의 대안이 될 새 육상 경로를 3년 내 완성할 계획이라고 현지 예니샤파크, 휴리엣데일리뉴스 등이 31일(현지시간) 보도했다.",
-      "보도에 따르면 압둘카디르 우랄로을루 튀르키예 교통인프라 장관은 이날 기자들에게 이라크 남부 알파우 항구와 튀르키예, 유럽을 연결하는 '개발도로' 사업을 올해 안에 착공하는 것을 목표로 하고 있다고 밝혔다."
+      "코미디언 박미선이 암 투병 후 방송 복귀 과정에서 받은 상처를 고백했다.31일 유튜브 채널 ‘김영철 오리지널’에는 박미선이 게스트로 출연한 영상이 공개됐다.영상에서 박미선은 “내가 아프려고 해서 아픈 게 아니다.",
+      "조용히 지나가려고 했는데 조혜련이 방송에 나가 너무 우는 바람에 본의 아니게 굉장히 시끄럽게 아웃팅이 됐다”라고 말했다.이어 “아픈 사람의 이미지가 프레임으로 씌워져 있는 상태에서 ‘아픈데 쉬지.",
+      "뭐 하러 나오나’ 이런 글이 너무 많았."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n94e02f5e",
+    "id": "na241ee9d",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731145",
-    "title": "부모 이혼, 우울증 위험 41% 높지만…진짜 원인은 따로 있었다",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260801/134404800/1",
+    "title": "[오늘날씨]토요일도 전국 찜통더위…‘낮 최고 39도’에 열대야",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 어린 시절 부모의 이혼을 경험한 사람은 성인이 된 뒤 우울증을 진단받을 가능성이 더 높지만 그 배경에는 부모의 정신건강 문제가 더 큰 영향을 미칠 수 있다는 연구 결과가 나왔다.",
-      "캐나다 토론토대 에스메 풀러-톰슨 교수 연구팀은 미국 성인 12만8264명을 분석한 결과를 의학 저널 정신의학 연구에 29일(현지시간) 발표했다.",
-      "연구진은 2021~2024년 미국 행동위험요인감시체계 자료를 활용해 어린 시절 성적·신."
+      "토요일인 1일은 전국에서 폭염이 계속되고 밤에는 열대야도 25도 이상으로 오르는 등 찜통더위가 이어질 전망이다.기상청은 “중부지방은 가끔 구름 많겠고, 남부지방과 제주도는 대체로 맑겠다”고 전날 예보했다.전국 대부분 지역에 폭염특보가 발효된 가운데 당분간 전국 대부분 지역에서 최고 체감온도가 35도 안팎으로 올라 무덥겠다.당분간 기온은 평년(최저 22~25도, 최고 29~33도)보다 높겠다.경남권(부산중부, 부산서부, 울산동부, 양산, 창원,."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf4b35857",
+    "id": "n19c53e92",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731346",
-    "title": "\"외벌이 남편한테 집안일 시키는 게 잘못?\"…전업주부 아내의 하소연에 '시끌'",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260801/134404797/1",
+    "title": "“일론 머스크인 줄 알았네”… SNS 달군 中 ‘도플갱어’ 바비큐 사장",
     "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 외벌이 남편에게 주말 집안일을 시키는 것을 두고 전업주부 아내와 시어머니가 갈등을 빚은 사연이 전해졌다.",
-      "지난 29일 온라인 커뮤니티에는 '외벌이가 남편 집안일 시키면 잘못된 건가요?'라는 제목의 사연이 올라왔다.",
-      "7살 딸을 둔 3인 가족의 전업주부라고 밝힌 작성자 A씨는 자신을 외벌이 가정의 아내라고 소개하며 남편에게 주말 집안일을 시키는 문제로 겪은 갈등을 털어놓았다."
+      "중국에서 일론 머스크 테슬라 최고경영자(CEO)와 놀라울 정도로 닮은 외모의 바비큐 식당 사장이 화제를 모으고 있다.지난 30일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면, 중국 산시성 퉁촨에서 바비큐 식당을 운영하는 마젠핑 씨가 머스크와 닮은 외모로 온라인에서 큰 화제를 모으고 있다.",
+      "마젠핑 씨가 식당에서 음식을 서빙하는 영상이 중국 소셜네트워크서비스(SNS)에 공개된 후 130만 개 이상의 좋아요를 기록했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na2f36eee",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/01/UISLKVUD2BGPFBRE4QK5S7G5YM/",
+    "title": "불법 이민자 하루 6만명 상륙… 8만명 사는 스페인령 소도시 마비",
+    "summary": [
+      "불법 이민자 하루 6만명 상륙… 8만명 사는 스페인령 소도시 마비."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6eea3990",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801000500072",
+    "title": "미 7월 미시간대 소비심리지수 55.2…2개월 연속 개선",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 7월 미국 소비자들의 경제 심리가 2개월 연속 개선세를 이어갔다."
     ],
     "chips": [
       "#뉴스"
@@ -500,7 +608,7 @@ window.NEWS_DB = [
     "id": "naaa35341",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260801000400099",
     "title": "민주콩고 에볼라 확진자 3천500명 넘어…역대 2번째 규모",
     "summary": [
@@ -511,124 +619,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nee828150",
+    "id": "nd8af0c6d",
     "category": "경제",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731175700001",
-    "title": "韓-아르헨 정상회담…핵심광물 공급망·무역협상 재개 등 논의",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 임형섭 황윤기 기자 = 아르헨티나를 공식 방문한 이재명 대통령은 31일(현지시간) 하비에르 밀레이 대통령과 정상회담..."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n14a385b8",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731175500109",
-    "title": "교황청 순자산 4.4조원…금·부동산값 호조로 1천500억↑",
-    "summary": [
-      "(바티칸=연합뉴스) 민경락 특파원 = 교황청의 순자산이 작년 한 해 금과 부동산 가격 상승에 힘입어 증가한 것으로 나타났다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n2085c930",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "38분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/01/2026073116474712281",
-    "title": "일본축구 '파격 선택' 또 나왔다, 이민성호 AG 금메달 못 따면 '진짜 굴욕'",
-    "summary": [
-      "일본축구협회가 자국에서 열리는 아시안게임에서도 파격적인 선택을 내렸다.",
-      "23세 이하(U23) 대표팀이 출전하고, 최대 3명까지 24세 이상 선수(와일드카드)를 포함될 수 있지만 일본은 와일드카드 없이 21세 이하(U21) 대표팀으로 출전하는 것이다.",
-      "오롯이 금메달을 위해 정반대의 선택을 한 이민성호 입장에선 기회이자, 동시에 큰 부담이기도 하다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n72312eba",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "39분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/01/2026073116342023062",
-    "title": "\"KT 팬과 함께해 행복해요\" 유럽·아시아·아프리카 팬들도 위즈파크에 흠뻑 빠졌다! KT-수원시 합작 야구 투어 성공적 시작",
-    "summary": [
-      "프로야구 KT 위즈가 연고지 수원특례시와 연계한 특별한 프로그램으로 전 세계에서 모인 관광객들을 야구팬으로 돌변시키며 야구 투어 프로젝트의 성공적인 시작을 알렸다.",
-      "KT는 31일 수원KT위즈파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 홈 경기에서 한화 이글스에 5-3으로 승리했다.",
-      "투·타 모두 짜임새 있는 경기력을 보여준 KT다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n86411b7c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n20234da8",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "42분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073123510579398",
-    "title": "김고은, 청룡시리즈어워즈 대상…\"많은 기회 달라\" 눈물 소감",
-    "summary": [
-      "배우 김고은(35)이 올해 청룡시리즈어워즈에서 대상의 영예를 안았다.",
-      "김고은은 31일 인천 파라다이스시티에서 열린 제5회 청룡시리즈어워즈에서 대상을 수상했다.",
-      "김고은은 넷플릭스 '은중과 상연'·'자백의 대가'와 티빙 '유미의 세포들' 시즌3에 출연해 글로벌 시청자들의 사랑을 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n50ccebf8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "57분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260731/134404746/2",
-    "title": "“숨 참고 수중 푸시업 86회”…기네스 신기록 세운 인도 요가 강사",
-    "summary": [
-      "인도의 한 요가 강사가 숨을 단 한 번 들이마신 뒤 물속에서 팔굽혀펴기 86개를 해 기네스 세계기록을 경신했다.",
-      "이 남성은 꾸준한 훈련을 통해 물속에서 최대 6분간 숨을 참을 수 있는 능력을 갖춘 것으로 알려졌다.",
-      "31일(현지시간) NDTV 등 외신에 따르면 카말 칼로이(38)는 맨몸 운동 기술과 호흡 조절 훈련을 바탕으로 한 번의 호흡만으로 가장 많은 수중 팔굽혀펴기(남자 부문)를 수행해 기네스 세계기록을 세웠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naedab899",
-    "category": "경제",
-    "source": "머니투데이",
+    "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://www.mt.co.kr/living/2026/07/31/2026073123352540054",
-    "title": "노보텔 수원, 프렌치 미식과 여름 호캉스 즐긴다",
+    "url": "https://www.hankyung.com/article/202607318884H",
+    "title": "진선규, 아내에게 \"정신 차려!\"·윤경호 \"말이 많아서\"…'청룡시리즈' 말말말",
     "summary": [
-      "프렌치&누들 프로모션부터 객실 패키지·빙수까지 8월 특별 혜택 노보텔 앰배서더 수원이 8월을 맞아 미식과 휴식을 함께 즐길 수 있는 레스토랑 프로모션과 객실 패키지, 시즌 한정 디저트를 선보인다.",
-      "호텔 뷔페 레스토랑 '더 스퀘어'에서는 오는 9월 30일까지 '프렌치&누들(French & Noodle)' 프로모션을 진행한다.",
-      "비프 부르기뇽과 라따뚜이를 곁들인 문어 요리, 니스식 샐러드, 명란 파스타, 우육짜장, 속초 물회 등을 비롯해 크림 브륄레."
+      "진선규, 아내에게 \"정신 차려!\"·윤경호 \"말이 많아서\"…'청룡시리즈' 말말말."
     ],
     "chips": [
       "#뉴스"
@@ -641,18 +639,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "3240건",
+    "trend": "+395%"
   },
   {
     "rank": 2,
-    "tag": "부동산",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "스타트업",
     "mentions": "1420건",
     "trend": "+115%"
   }
