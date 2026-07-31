@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-31 09:07:24
+// 마지막 업데이트: 2026-07-31 10:52:13
 window.NEWS_DB = [
   {
     "id": "n755b2277",
     "category": "IT",
     "source": "헤럴드경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GZW9EV3ZxN1hFR2RUdU4wbURobmRTQ3o2eDZYVFMxdFpnZmI0RnJ2eU5PVVBQTGtNNFRnaHlmZEdLUC14eFozRm5WVjM0dUxwa0N5WHN3?oc=5",
     "title": "삼성·SK, 美 실리콘밸리 반도체 학회서 ‘HBM’ 자존심 대결",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -33,7 +33,7 @@ window.NEWS_DB = [
     "id": "n20482ffd",
     "category": "IT",
     "source": "연합인포맥스",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
@@ -47,7 +47,7 @@ window.NEWS_DB = [
     "id": "nc06eaff3",
     "category": "IT",
     "source": "한국경제",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczVid3c4TkUydmFFU2Rfd0IwVkN5NFNUOGMxM09aYkNTVVhxYnpoNFFYN3E1R1Z3cUlacjZUNXhJNHE4Tkg0d3BDcVhfM3VBdy1jbmRSSG5HQQ?oc=5",
     "title": "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올",
     "summary": [
@@ -104,7 +104,7 @@ window.NEWS_DB = [
     "id": "n319886b4",
     "category": "IT",
     "source": "더스쿠프",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
@@ -165,7 +165,7 @@ window.NEWS_DB = [
     "id": "nad2051b5",
     "category": "IT",
     "source": "블로터",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMFBUdGJQMWJ3TTZIeFZ3T01oTnZudlVwSjNscHRqUU54WDZ1VzAwS1hVR3hmSkRUcnoybGl0R0lGWU5nY0xIeVkyN05yOEhIb20yNERFelFvTW1fRkJ5SXF6Z0tfVzRh0gFsQVVfeXFMUFlRbWY3bUwtdTVRUjFKYUREYWpLb0hhMmxHN2owcjRyeTF1T3BvVnVFZFJHbHVmYUNxbkFkX3ZiRndCRUlObmNobDYzbFNsZ1lpUGY5RFJNdm1XSGNkc0hhSXp5by04bVpHNjFa?oc=5",
     "title": "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다",
     "summary": [
@@ -377,255 +377,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nefa04260",
-    "category": "스포츠",
-    "source": "뉴시스",
+    "id": "n347d210b",
+    "category": "사회",
+    "source": "동아일보",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732207",
-    "title": "골프존, 2분기 영업이익 66억…전년대비 66.5%↓",
+    "url": "https://www.donga.com/news/Politics/article/all/20260731/134404172/2",
+    "title": "스틸 주한 美대사, 부임 후 첫 SNS “세종대왕 동상 보며 한국의 뛰어난 혁신 떠올려”",
     "summary": [
-      "[서울=뉴시스]강은정 기자 = 골프존은 올해 2분기(4~6월) 연결 기준 영업이익이 전년 동기 대비 66.5% 감소한 66억2400만원이라고 31일 공시했다.",
-      "금융감독원의 전자공시시스템에 따르면 지난 2분기 매출액은 1012억800만원으로 지난해 같은 기간보다 16.4% 줄었다.",
-      "골프존은 \"국내 매출이 감소하면서 영업이익이 줄었다\"며 \"미국, 중국 사업을 확대하고 영업 및 마케팅 활동을 강화하면서 인건비, 마케팅비, 용역비 등도 증가했다\"고 말."
+      "미셸 스틸 신임 주한미국대사가 31일 서울 광화문 세종대왕 동상을 찾은 뒤 “여러분과 만들어갈 여정이 기대된다”고 밝혔다.",
+      "전날 주한미국대사로 부임한 뒤 올린 처음 올린 엑스(X·옛 트위터) 게시물이다.스틸 대사는 이날 오후 자신의 엑스에 세종대왕 동상 앞에서 촬영한 사진과 함께 “오늘 세종대왕 동상을 지나며 한국의 뛰어난 혁신과 리더십의 유산을 다시금 떠올렸다”고 적었다.",
+      "이어 영어로도 같은 취지의 글을 올리며 “앞으로의 여정이 기대된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n31bb63d3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732186",
-    "title": "김혜수, 24년 전 조여정 첫인상 공개",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 배우 김혜수가 조여정을 처음 만났을 때를 언급했다.",
-      "김혜수는 30일 유튜브 채널 '피디씨 by PDC'에 쿠팡 플레이 드라마 '지금 불륜이 문제가 아닙니다'에 출연한 배우 조여정·김지훈·김재철과 함께 출연해 다양한 이야기를 나눴다.",
-      "김혜수는 \"여정씨와 '장희빈' 때 처음 만났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nedea737b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731836",
-    "title": "[속보]구자현 검찰총장 대행, '보완수사권 폐지'에 사직서 제출",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8fc8c40f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732205",
-    "title": "금융위, '중복상장 원칙금지·예외허용' 내달 3일 시행",
-    "summary": [
-      "[서울=뉴시스]이지민 기자 = 금융당국이 중복상장 원칙금지·예외허용을 위한 세부 규정을 확정하고, 다음 달 3일부터 본격 시행하기로 했다.",
-      "금융위원회는 31일 정례회의를 열고 중복상장 제도 개선을 위한 한국거래소 상장규정 및 공시규정 일부개정안을 승인했다.",
-      "앞서 금융위와 한국거래소는 지난 6일 관련 규정 및 가이드라인을 발표하고, 기업 및 금융투자업계 등으로부터 의견을 수렴한 바 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f90180d",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260731/134403195/2",
-    "title": "학부모·교원 반발에…美교육구, 사람 닮은 ‘AI 로봇 교사’ 계획 보류",
-    "summary": [
-      "미국 뉴욕주의 한 학군이 사람 형태의 AI 로봇 교사 프로젝트를 시작하려다 학부모와 교사들의 반발에 부딪혀 잠정 보류했다.",
-      "학생들의 사생활 침해 우려와 함께, 해당 로봇 제작사가 성인용 인형 제작업체와 연관돼 있다는 점이 문제로 지적됐다."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "ncc4ec471",
+    "id": "n46e2ff0c",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731153000002",
-    "title": "중복상장 규제, 내달 3일부터 시행…'3%룰 준용' 유지키로",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260731/134403208/1",
+    "title": "코스피, 사상 최대 17.91% 급등하며 하루 만에 86% 손실 만회",
     "summary": [
-      "(서울=연합뉴스) 배영경 기자 = 금융당국이 마련한 '중복상장 원칙금지·예외허용' 관련 규정과 가이드라인 최종안이 확정돼 다음 달 3일부터 본격..."
+      "코스피가 31일 사상 최대 상승률(17.91%)을 기록한 건 전날(현지시간) 미국 주식시장에서 나타난 반도체주의 급등 영향이 컸다.",
+      "여기에 최근 국내 증시의 큰 하락세 이후 외국인을 중심으로 ‘저가 매수’가 몰리며 반등에 성공했다.",
+      "코스피는 최근 사흘간 총 1162.19포인트가 빠졌는데, 이날 하루에 손실의 86%를 만회했다."
     ],
     "chips": [
-      "#정책"
+      "#반도체"
     ]
   },
   {
-    "id": "na7c5fc67",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260731/134400959/2",
-    "title": "해외여행 ‘전화 스트레스’ 없앤다…AI가 바꾸는 로밍서비스 [트렌디깅]",
+    "id": "n051166a8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/football/2026/07/31/GVSDCYJSGAZGEOJRGU3TOMBZG4/",
+    "title": "\"홍명보 감독 전범같은 취급 받아...일본선 볼수없는 풍경\" 국회 청문회 바라보는 日매체의 시선",
     "summary": [
-      "“로밍을 할까 유심을 살까?” 해외여행 준비 과정에 나오는 대표적인 고민 중 하나다.",
-      "공항에서 로밍을 위해 통신사 매장을 찾아 줄을 서는 것도 익숙한 풍경이다.",
-      "데이터가 잘 터지는지, 국제전화 요금은 얼마나 나오는지도 고민거리다.해외여행객들의 준비 행동 패턴이 달라지고 있다."
+      "[스포츠조선 전영지 기자]국회 문화체육관광위원회(이하 문체위)의 대한축구협회 현안 관련 청문회는 '이웃' 일본 미디어에서도 뜨거운 화제가 됐다.",
+      "30일 문체위 청문회는 오전 10시 시작돼 오후 10시40분까지 12시간이 넘도록 진행됐다.",
+      "정몽규 대한축구협회 전 회장, 홍명보 A대표팀 감독, 이용수 축구협회 회장 직무대행(부회장), 김승희 전무, 김정배 전."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2bc58673",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732033",
+    "title": "염정아, SNS 개설 후 반전 일상…남편·동료와 다정한 투샷 공개",
+    "summary": [
+      "[서울=뉴시스]박재민 인턴 기자 = 배우 염정아가 소셜미디어 개설 후 다양한 일상 사진을 공개했다.",
+      "염정아는 30일 소셜미디어에 별다른 말 없이 사진 여러 장을 올렸다.",
+      "사진 속 염정아는 배우 최윤지와 식당에서 셀카를 찍었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne48d4482",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/31/GRSTSNBUG44DAMJUGM3TAYTBGQ/",
+    "title": "육성선수→1군 4시즌 활약→방출→치어리더 결혼→울산 창단멤버, 파란만장 외야수 현역 은퇴 “지도자로 제2의 인생 시작”",
+    "summary": [
+      "[OSEN=길준영 기자] 프로야구 울산 웨일즈 변상권(29)이 현역 은퇴를 선언했다.",
+      "울산은 31일 구단 공식 SNS를 통해 “빛나는 열정으로 그라운드를 지켜온 변상권 선수가 선수 생활을 마무리하고, 지도자로서 새로운 제2의 인생을 시작하게 되었습니다”며 변상권의 현역 은퇴 소식을 전했다.",
+      "변상권은 2018년 넥센(현 키움) 육성선수로 입단해 프로 커리어를."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n848f4829",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732286",
+    "title": "[올댓차이나] 대만 증시, AI 투자 기대로 엿새만에 급등 마감…7.98%↑ 사상 최대 상승폭",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 대만 타이베이 증시는 31일 미국 대형기업을 중심으로 인공지능(AI) 관련 대규모 투자가 이어진다는 전망이 확산하면서 기술주에 매수세가 몰려 6거래일 만에 급반등 마감했다.",
+      "자취안(加權) 지수는 이날 전일 대비 3186.45 포인트, 7.98% 치솟은 4만3119.75로 폐장했다.",
+      "상승폭은 사상 최대를 기록했다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n832f0be5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731154600054",
-    "title": "전남광주 북구, 시설공단 이사장 후보 2명 부적합…재공모",
+    "id": "nc3947dc6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/07/31/MNQTMNZQG4YGCODCG44GCYJVMU/",
+    "title": "폭염이 사람 잡는다! \"두통 구토 증세\" 롯데 손성빈 급거 교체, 황성빈도 어지럼증 호소 [오!쎈 부산]",
     "summary": [
-      "(전남광주=연합뉴스) 정다움 기자 = 전남광주 북구는 31일 북구시설관리공단 임원추천위원회가 추천한 이사장 후보 2명에 대해 부적합하다고 판단해..."
+      "[OSEN=부산, 조형래 기자] 결국 더위가 사람을 잡았다.",
+      "폭염이 기승을 부리는 가운데, 롯데 포수 손성빈이 경기를 제대로 소화하지 못하고 그라운드를 떠났다.손성빈은 31일 부산 사직구장에서 열리는 프로야구 정규시즌 삼성 라이온즈와의 경기, 8번 포수로 선발 출장했지만 1이닝만 소화하고 겨체됐다.하지만 2회초 1사 후 디아즈 타석 때 포수 손성빈이 이상을."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ndb827d80",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732282",
+    "title": "정성호 \"형소법 개정안 부작용 나올 시 보완에 주저하지 않길\"",
+    "summary": [
+      "[서울=뉴시스]권지원 기자 = 검사의 보완수사권을 전면 폐지한 형사소송법 개정안이 국회 본회의를 통과한 가운데, 정성호 법무부 장관은 새로운 형사사법제도 시행에 따른 부작용이 발생할 시 신속한 보완을 해야한다고 당부했다.",
+      "정 장관은 사회관계망서비스(SNS)을 통해 \"처음 가는 길에서 선의나 기대와는 달리 부작용이 나온다면 신속히 보완, 수정하는데도 주저하지 않기를 바란다\"고 이같이 밝혔다.",
+      "정 장관은 \"앞으로 새로운 형사사법제도가 정의 실현과."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n31fec601",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731165800007",
+    "title": "K리그1 제주 GK 허재원, 뮌헨에 6개월 임대…완전이적 옵션 포함",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = 프로축구 K리그1 제주 SK의 허재원(18)이 한국 골키퍼로는 처음으로 유럽 빅리그 직행에 성공했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7ef6f650",
+    "id": "ne7385309",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731155000004",
-    "title": "\"시설 수용 저항\" 탈시설 장애인 故김진수 2주기 합동추모제",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731165700052",
+    "title": "'이준석은 중국 공산당과 연관' 허위 글 쓴 누리꾼, 벌금 50만원",
     "summary": [
-      "(서울=연합뉴스) 정지수 기자 = 장애인 시설 수용에 저항했던 고(故) 김진수 전 김포장애인자립생활센터 소장의 2주기를 맞아 추모제가 열렸다."
+      "(창원=연합뉴스) 정종호 기자 = 개혁신당 이준석 대표가 중국 공산당과 연관됐다는 허위 글을 인터넷 카페에 게시한 누리꾼에게 벌금형이 내려졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0b1b830f",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731155100053",
-    "title": "경산아파트방화로 50대 피해여성 1명 사망…사망자 2명으로 늘어",
+    "id": "n559b88d7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260731/134404160/1",
+    "title": "전남광주 폭염 온열질환 5명 추가…가축폐사·양식장 피해 10억 넘어",
     "summary": [
-      "(경산=연합뉴스) 최수호 기자 = 경북 경산시 아파트 관리사무소 방화 사건으로 중상을 입고 치료를 받던 부상자 가운데 추가 사망자가 발생했다."
+      "전남광주 전역에 폭염특보가 발효 중인 가운데 온열질환자와 가축폐사가 속출하고 있다.",
+      "31일 질병관리청와 전남도에 따르면 전날 하루 전남광주에서는 5명이 온열질환으로 응급실을 찾았다.",
+      "이날 오후 2시 23분쯤 순천시에서 70대 여성이 구토 증세와 함께 체온이 37.7도까지 올라 병원 치료를 받았다.앞서 오후 2시 20분쯤에도 순천시 80대 여성이 체온이 38.6도까지 오르는 등 온열질환 증세를 보였다."
     ],
     "chips": [
-      "#부동산"
+      "#의료"
     ]
   },
   {
-    "id": "nfcc7ca2e",
+    "id": "n1b218746",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731117552009",
+    "title": "WSJ \"테슬라, 中사업부 매각 검토\"…머스크 \"가짜뉴스\" 반박(종합)",
+    "summary": [
+      "(서울=연합뉴스) 김아람 기자 = 전기차 기업 테슬라가 항공우주 기업 스페이스X와의 합병 가능성을 염두에 두고 중국 사업부 매각을 검토하고 있다..."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "nfb5b962f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260731/134404155/1",
+    "title": "김민주, KLPGA 오로라월드 챔피언십 2라운드 단독 선두",
+    "summary": [
+      "김민주가 한국여자프로골프(KLPGA) 투어 오로라월드 챔피언십(총상금 10억원) 둘째 날 단독 선두에 올랐다.김민주는 31일 강원도 원주시 오로라 골프&리조트(파72)에서 열린 대회 2라운드에서 버디 7개, 보기 2개, 더블 보기 1개를 묶어 3언더파 69타를 쳤다.중간 합계 10언더파 134타를 작성한 김민주는 1라운드 공동 선두에서 단독 선두로 올라섰다.",
+      "9언더파 135타를 적어낸 2위 이예원에 한 타 차로 앞섰다.2022년부터 정규투어에서."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44a90641",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731165000008",
+    "title": "효성, 애프터마켓서 10%대 급등",
+    "summary": [
+      "(서울=연합뉴스) 코스피 상장사 효성[004800]이 31일 애프터마켓에서 10%대 급등 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n08b08764",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732265",
+    "title": "\"숨 막히는 양산의 한낮… 주민들, '양산'으로 41도 폭염 견뎠다\"",
+    "summary": [
+      "[양산=뉴시스] 안지율 기자 = 31일 오후 2시 경남 양산의 도심은 뜨겁게 달궈진 아스팔트 위로 아지랑이가 피어올랐다.",
+      "올해 최고치를 기록하며 3일 연속 40도를 넘긴 것은 사상 처음이다.양산시가 폭염중대경보를 발령한 지 일주일째 분지 지형 특유의 갇힌 공기와 북태평양·티베트 고기압의 영향으로 도심은 '찜통' 그 자체였다.",
+      "주거밀집지역에서 만난 택배기사 이모(45)씨는 \"살수차가 지나가면 잠깐 시원해져요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04004c5f",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731149700011",
-    "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731084853073",
+    "title": "일본은행, 기준금리 1% 유지…경제 성장률 전망 0.6%로 상향(종합2보)",
     "summary": [
-      "[연합뉴스 이 시각 헤드라인] - 18:00."
+      "(도쿄=연합뉴스) 조성미 이도연 특파원 = 일본 중앙은행인 일본은행이 31일 금융정책결정회의에서 기준금리인 단기 정책금리를 현행 '1% 정도'로..."
     ],
     "chips": [
-      "#뉴스"
+      "#금리",
+      "#정책"
     ]
   },
   {
-    "id": "n637f7759",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260731/134402359/1",
-    "title": "K디지털트레이닝 ‘동아 MX 스쿨’ 교육생, 기업 성공사례 검색 AI 웹서비스 개발",
+    "id": "n8a3dfef5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "51분 전",
+    "url": "https://www.hankyung.com/article/2026073186461",
+    "title": "韓·美·日 '환율공조'…원달러 1418원",
     "summary": [
-      "채용 시장에서 실무형 프로젝트 경험의 중요성이 갈수록 커지고 있다.",
-      "실무 현장과 연결된 프로젝트를 경험하며 희망 직무에서 요구되는 역량을 쌓을 수 있기 때문이다.",
-      "K-디지털 트레이닝(KDT) 과정인 ‘동아 MX 스쿨 2기’ 교육생들의 활동이 주목받는 이유도 여기에 있다."
+      "韓·美·日 '환율공조'…원달러 1418원."
     ],
     "chips": [
-      "#AI",
-      "#채용",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n832250aa",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/K-TECH Global Leaders/article/all/20260731/134403182/1",
-    "title": "[K-TECH 글로벌 리더스]HL만도, 사업 구조전환 가속도…부품사 넘어 SDV·로보틱스 핵심기업으로",
-    "summary": [
-      "HL만도가 전통적인 자동차 차대 부품 제조 기업에서 소프트웨어 중심 차량(SDV) 부품 및 로봇 기술을 아우르는 미래 모빌리티 솔루션 기업으로의 체질 개선을 본격화하고 있습니다.",
-      "지난 60여 년간 축적해 온 제동·조향·서스펜션 분야의 정밀 제어 기술과 대량 양산 역량을 바탕으로 차세대 전동화 부품과 로봇 관절 부품 시장을 동시에 공략하는 전략을 펼치고 있습니다.로봇 액추에이터 전담 조직 신설…로봇 관절 부품 시장 진출HL만도는 최근 조직 개편을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n24d422cd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/07/31/HZGHPBRY45DXHITHDLFNSBUQYM/",
-    "title": "‘보완수사권 완전 폐지’ 형소법 개정안에 대법원 “재판 길어질 수 있어 현행 구속제도 손봐야”",
-    "summary": [
-      "‘보완수사권 완전 폐지’ 형소법 개정안에 대법원 “재판 길어질 수 있어 현행 구속제도 손봐야”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nee8ed15b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/economy/2026/07/31/HHPFGRGNURDF3L4H7ZOYLC3AH4/",
-    "title": "풀무원, 30개 품목 가격 평균 6.7% 올린다",
-    "summary": [
-      "풀무원, 30개 품목 가격 평균 6.7% 올린다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n50750a68",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/07/31/ILZZQWXSFNDT7MD2T7CEYS3ESE/",
-    "title": "[속보] SK, SK실트론 지분 70.6% 2.3조에 두산 매각",
-    "summary": [
-      "[속보] SK, SK실트론 지분 70.6% 2.3조에 두산 매각."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1d32fe74",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/07/31/KUFMAAGFCVE7HJ3V6PBTTL6AJU/",
-    "title": "보완수사권 폐지되자... 김민석 “李 성과” 정청래 “盧에 보고”",
-    "summary": [
-      "보완수사권 폐지되자... 김민석 “李 성과” 정청래 “盧에 보고”."
-    ],
-    "chips": [
-      "#뉴스"
+      "#환율"
     ]
   }
 ];
@@ -635,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
