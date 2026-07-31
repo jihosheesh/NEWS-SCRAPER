@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-31 07:58:28
+// 마지막 업데이트: 2026-07-31 09:07:24
 window.NEWS_DB = [
+  {
+    "id": "n755b2277",
+    "category": "IT",
+    "source": "헤럴드경제",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GZW9EV3ZxN1hFR2RUdU4wbURobmRTQ3o2eDZYVFMxdFpnZmI0RnJ2eU5PVVBQTGtNNFRnaHlmZEdLUC14eFozRm5WVjM0dUxwa0N5WHN3?oc=5",
+    "title": "삼성·SK, 美 실리콘밸리 반도체 학회서 ‘HBM’ 자존심 대결",
+    "summary": [
+      "삼성·SK, 美 실리콘밸리 반도체 학회서 ‘HBM’ 자존심 대결 헤럴드경제."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
   {
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -16,25 +30,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf78a6a0d",
-    "category": "IT",
-    "source": "글로벌경제신문",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1YWYwRF9iSDc2QV9uT1pObkN5cnRxSGd2cVFOZ01DN3l6N0xZTXkxcDctNXp0RmtwdDFQazhFOXdCalJUQkFxdE5pallMZk1uazU0ZnNzdWF3Y01XaEFneU8xRmN0OWRPNzc4Yi03czHSAXBBVV95cUxQNWFmMERfYkg3NkFfbk9aTm5DeXJ0cUhndnFRTmdNQzd5ejdMWU15MXA3LTV6dEZrcHQxUGs4RTl3QmpSVEJBcXROaWpZTGZNbms1NGZzc3Vhd2NNV2hBZ3lPMUZjdDlkTzc3OGItN3Mx?oc=5",
-    "title": "삼성전자, HBM4·테일러 2공장 '승부수'…\"HBM·파운드리 경쟁력 회복\" 기대감",
-    "summary": [
-      "삼성전자, HBM4·테일러 2공장 '승부수'…\"HBM·파운드리 경쟁력 회복\" 기대감 글로벌경제신문."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "n20482ffd",
     "category": "IT",
     "source": "연합인포맥스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
@@ -48,7 +47,7 @@ window.NEWS_DB = [
     "id": "nc06eaff3",
     "category": "IT",
     "source": "한국경제",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczVid3c4TkUydmFFU2Rfd0IwVkN5NFNUOGMxM09aYkNTVVhxYnpoNFFYN3E1R1Z3cUlacjZUNXhJNHE4Tkg0d3BDcVhfM3VBdy1jbmRSSG5HQQ?oc=5",
     "title": "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올",
     "summary": [
@@ -88,6 +87,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf633ad61",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TeXR5VDlRTVNUQlNqWWJkU1pIZXNjRzZhSXZhT1F2MjY4N3p0VzFGU2twWmxscU01cnRQNUI0NjRmTUFlNkhVS1ZJRUtKekNyb0FB?oc=5",
+    "title": "[ST포토] 고예지 치어리더, '쭉쭉'",
+    "summary": [
+      "[ST포토] 고예지 치어리더, '쭉쭉' 네이트."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n319886b4",
     "category": "IT",
     "source": "더스쿠프",
@@ -104,13 +117,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "스포츠",
-    "source": "startupn.kr",
+    "category": "IT",
+    "source": "스타트업엔(StartupN)",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
     ],
     "chips": [
       "#스타트업"
@@ -283,20 +296,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n01f4c085",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "130일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
-    "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n95ae41aa",
     "category": "사회",
     "source": "mstoday.co.kr",
@@ -378,260 +377,252 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n94919a4b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026073116574951167",
-    "title": "HD현대, 2분기 영업이익 4조 돌파…조선·정유가 실적 견인",
-    "summary": [
-      "HD현대가 조선과 건설기계, 에너지, 전력기기 등 전 사업 부문의 고른 성장에 힘입어 올해 2분기 역대급 실적을 거뒀다.",
-      "HD현대는 31일 공시를 통해 연결 기준 2분기 매출 22조4094억원, 영업이익 4조1246억원을 기록했다고 밝혔다.",
-      "전년 동기 대비 매출은 30.2%, 영업이익은 262.2% 증가했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n17f63b02",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/politics/blue_house/2026/07/31/G25V2BW6IFEDNAYPALFFMU666I/",
-    "title": "[속보] 靑, ‘보완수사권 폐지’ 형소법 국회 통과에 “국회 판단 존중”",
-    "summary": [
-      "[속보] 靑, ‘보완수사권 폐지’ 형소법 국회 통과에 “국회 판단 존중”."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n737ba211",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026073116431985414",
-    "title": "국가 항만계획 반영 '쾌거'…목포항 미래 청사진 본격화",
-    "summary": [
-      "전남광주통합특별시 목포시가 해양수산부의 '제4차 전국 항만기본계획 수정계획(2026~2030)'에 핵심 현안사업을 대거 반영시키며 목포항을 물류·산업·관광이 융합된 서남권 핵심 해양거점항만으로 육성하기 위한 기반을 마련했다.시는 최근 해양수산부가 발표한 제4차 전국 항만기본계획 수정계획에 시가 지속적으로 건의해 온 주요 항만 개발사업이 반영됐다.",
-      "항만기본계획은 국가 항만정책의 방향과 개발 비전을 제시하는 최상."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n70f4f275",
+    "id": "nefa04260",
     "category": "스포츠",
-    "source": "동아일보",
+    "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260731/134400118/1",
-    "title": "72년 만에 부활한 美 여자프로야구, 김라경 WPBL 첫 투구 주인공으로 나서",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732207",
+    "title": "골프존, 2분기 영업이익 66억…전년대비 66.5%↓",
     "summary": [
-      "지난달 기준으로 전 세계에서 ‘프로야구 선수’가 직업인 여성은 0명이었다.",
-      "그러나 미국여자프로야구리그(WPBL)가 2일 공식 출범하면 60명이 프로야구 선수가 된다.",
-      "미국에 여자프로야구가 생기는 건 1954년 전미여자프로야구(AAGPBL) 해체 이후 72년 만이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n4cd87136",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/07/31/2026073115490258286",
-    "title": "GC녹십자, 2분기 매출 4212억·영업익 17억…\"하반기 수익 회복 기대\"",
-    "summary": [
-      "독감백신 원액 매출 인식 시점 순연 GC녹십자웰빙 지분 전량 매각 영향 \"하반기 고수익 품목 매출 집중\" GC녹십자가 연결 기준 올해 2분기 매출액은 4212억원으로 전년 동기 대비 15.8% 감소했다고 31일 공시했다.",
-      "영업이익은 17억원으로 전년보다 93.8% 감소했으며 당기 순이익도 11억을 기록해 전년 대비 96.6% 줄었다.",
-      "GC녹십자 별도 사업 부문별 매출은 혈장분획제제 1384억원, 백신 제제 552억원, 처방(전문)의약품 865억."
+      "[서울=뉴시스]강은정 기자 = 골프존은 올해 2분기(4~6월) 연결 기준 영업이익이 전년 동기 대비 66.5% 감소한 66억2400만원이라고 31일 공시했다.",
+      "금융감독원의 전자공시시스템에 따르면 지난 2분기 매출액은 1012억800만원으로 지난해 같은 기간보다 16.4% 줄었다.",
+      "골프존은 \"국내 매출이 감소하면서 영업이익이 줄었다\"며 \"미국, 중국 사업을 확대하고 영업 및 마케팅 활동을 강화하면서 인건비, 마케팅비, 용역비 등도 증가했다\"고 말."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n14ce748b",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/industry/2026/07/31/2026073115004293150",
-    "title": "LG화학 석화·첨단 '쌍끌이'에 3개 분기만에 흑자전환",
-    "summary": [
-      "(종합) LG화학이 올해 2분기에 석유화학의 수익성 회복에 힘입어 6000억원에 육박하는 영업이익을 냈다.",
-      "석유화학이 전체 영업이익의 71%를 떠받치며 반등을 이끈 가운데 하반기부터는 양극재와 분리막, 반도체·모빌리티(이동수단) 소재 등 미래 성장 사업의 외형 확대에도 속도가 붙을 전망이다.",
-      "LG화학은 올해 2분기 연결기준 매출이 14조1759억원, 영업이익은 5996억원을 기록했다고 31일 밝혔다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n92785c61",
+    "id": "n31bb63d3",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/society/2026/07/31/2026073116351884851",
-    "title": "택시비 안내고… 지구대에서 만취 소란… 고개숙인 춘천시의원",
-    "summary": [
-      "김지숙 더불어민주당 춘천시의원이 술에 취해 지구대에서 소란을 벌인 사건에 대해 공식 사과했다.",
-      "김 의원은 31일 시청 브리핑룸에서 기자회견을 열고 \"택시비 미결제와 지구대에서의 소란으로 춘천 시민들에게 큰 실망과 걱정을 안겨드려 머리 숙여 진심으로 사과드린다\"고 했다.",
-      "김 의원은 \"당일 지구대에서 나온 뒤 귀가하던 중 횡단보도 앞에서 넘어져 응급실에서 치료를 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9d1e5316",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/industry/2026/07/31/2026073115194169594",
-    "title": "골드팡, 랩 에메랄드 적용 '베르시아 컬렉션' 출시",
-    "summary": [
-      "주얼리 브랜드 골드팡(대표 이용수)이 '베르시아 에메랄드 랩다이아 컬렉션'을 출시했다고 31일 밝혔다.",
-      "천연 에메랄드는 내포물과 균열이 많은 보석이다.",
-      "업체 측은 \"최근 기술 발전으로 천연석과 같은 물리적·화학적 성분을 가진 '랩 에메랄드'가 구현되면서 보석 시장에서 새로운 대안으로 떠오르고 있다\"고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncf0fb443",
-    "category": "사회",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/07/31/UVVKQF2QNZB4ZAG5UUSOLBHJMI/",
-    "title": "단일종목 레버리지 상품 규제 첫날, 거래대금 ‘뚝’…12조원대서 3조원대로 급감",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732186",
+    "title": "김혜수, 24년 전 조여정 첫인상 공개",
     "summary": [
-      "단일종목 레버리지 상품 규제 첫날, 거래대금 ‘뚝’…12조원대서 3조원대로 급감."
+      "[서울=뉴시스] 남정현 기자 = 배우 김혜수가 조여정을 처음 만났을 때를 언급했다.",
+      "김혜수는 30일 유튜브 채널 '피디씨 by PDC'에 쿠팡 플레이 드라마 '지금 불륜이 문제가 아닙니다'에 출연한 배우 조여정·김지훈·김재철과 함께 출연해 다양한 이야기를 나눴다.",
+      "김혜수는 \"여정씨와 '장희빈' 때 처음 만났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nedea737b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731836",
+    "title": "[속보]구자현 검찰총장 대행, '보완수사권 폐지'에 사직서 제출",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8fc8c40f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732205",
+    "title": "금융위, '중복상장 원칙금지·예외허용' 내달 3일 시행",
+    "summary": [
+      "[서울=뉴시스]이지민 기자 = 금융당국이 중복상장 원칙금지·예외허용을 위한 세부 규정을 확정하고, 다음 달 3일부터 본격 시행하기로 했다.",
+      "금융위원회는 31일 정례회의를 열고 중복상장 제도 개선을 위한 한국거래소 상장규정 및 공시규정 일부개정안을 승인했다.",
+      "앞서 금융위와 한국거래소는 지난 6일 관련 규정 및 가이드라인을 발표하고, 기업 및 금융투자업계 등으로부터 의견을 수렴한 바 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4f90180d",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260731/134403195/2",
+    "title": "학부모·교원 반발에…美교육구, 사람 닮은 ‘AI 로봇 교사’ 계획 보류",
+    "summary": [
+      "미국 뉴욕주의 한 학군이 사람 형태의 AI 로봇 교사 프로젝트를 시작하려다 학부모와 교사들의 반발에 부딪혀 잠정 보류했다.",
+      "학생들의 사생활 침해 우려와 함께, 해당 로봇 제작사가 성인용 인형 제작업체와 연관돼 있다는 점이 문제로 지적됐다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "ncc4ec471",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731153000002",
+    "title": "중복상장 규제, 내달 3일부터 시행…'3%룰 준용' 유지키로",
+    "summary": [
+      "(서울=연합뉴스) 배영경 기자 = 금융당국이 마련한 '중복상장 원칙금지·예외허용' 관련 규정과 가이드라인 최종안이 확정돼 다음 달 3일부터 본격..."
     ],
     "chips": [
       "#정책"
     ]
   },
   {
-    "id": "neb8ec71a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732069",
-    "title": "'盧 사위' 곽상언, 형소법에 반대표…\"곧 다가올 국민 고통 눈에 보여\"",
-    "summary": [
-      "[서울=뉴시스]신재현 기자 = 곽상언 더불어민주당 의원이 31일 검찰 보완수사권 폐지 등이 담긴 형사소송법 개정안에 반대표를 던지며 \"곧 다가올 국민 고통이 눈에 보인다\"고 밝혔다.",
-      "고(故) 노무현 전 대통령 사위인 곽 의원은 이날 본회의에서 진행된 형사소송법 개정안 표결에서 반대표를 던졌다.",
-      "투표에 참여한 178명 의원 가운데 175명이 찬성표, 2명이 반대표, 1명이 기권표를 던졌다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1875151b",
+    "id": "na7c5fc67",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732061",
-    "title": "울산TP, '거점형 스마트시티 아이디어 해커톤' 개최",
-    "summary": [
-      "[울산=뉴시스] 조현철 기자 = 울산테크노파크는 최근 울산스타트업허브 U-STAR홀에서 도시문제 해결과 시민 체감형 스마트 서비스 발굴을 위한 '2026 울산 거점형 스마트시티 아이디어 해커톤'을 개최했다고 31일 밝혔다.",
-      "울산시가 주최하고 울산TP가 주관한 이번 해커톤은 울산 거점형 스마트도시 조성사업을 통해 수집·적재되고 있는 스마트도시 공공데이터를 활용해 시민들이 일상에서 체감할 수 있는 혁신 서비스를 발굴하고자 마련됐다."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n67512b89",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731732",
-    "title": "부산 동구 \"북항환승센터 공사중지명령 사전 통지\"",
-    "summary": [
-      "[부산=뉴시스] 이아름 기자 = 부산 동구가 북항환승센터 사업 시행사에 대해 공사중지명령을 사전 통지할 예정이다.",
-      "동구는 31일 건축법 제16조에 따라 북항환승센터 사업 시행사인 피큐건설에 공사중지명령을 사전 통지할 예정이라고 밝혔다.",
-      "구는 \"건축허가 내용을 변경하려면 관할 구청의 허가를 받아야 하는데, 해당 시행사는 허가를 받지 않고 공사를 진행했다\"고 이유를 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n54801653",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732074",
-    "title": "대구 지방선거 비용 161억원 보전…청구액 16억원 감액",
-    "summary": [
-      "[대구=뉴시스]정재익 기자 = 대구시선거관리위원회는 6·3 지방선거 등에 출마한 정당과 후보자에게 선거비용 161억원을 보전했다고 31일 밝혔다.",
-      "선거비용 보전은 후보자가 선거운동을 위해 지출한 비용 전부 또는 일부를 국가나 지방자치단체가 부담하는 제도다.",
-      "대구선관위는 후보자들이 제출한 보전 청구 내용을 서면 심사하고 현장 조사한 결과 적법하지 않거나 기준을 벗어난 비용 등 약 16억원을 감액했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n086e2ea7",
-    "category": "경제",
-    "source": "아시아경제",
+    "source": "동아일보",
     "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026073116533344712",
-    "title": "GC녹십자, 2Q 영업익 94%↓…\"독감백신 반영 이연 영향\"",
+    "url": "https://www.donga.com/news/Economy/article/all/20260731/134400959/2",
+    "title": "해외여행 ‘전화 스트레스’ 없앤다…AI가 바꾸는 로밍서비스 [트렌디깅]",
     "summary": [
-      "GC녹십자는 연결 기준 올 2분기 매출이 4212억원, 영업이익 17억원으로 잠정 집계됐다고 31일 공시했다.",
-      "전년 동기와 비교해 각각 15.8%, 93.8% 감소한 수치다.",
-      "이번 실적은 GC녹십자웰빙이 연결 대상에서 제외되고 계절성 고마진 품목의 매출 인식이 하반기로 이연된 영향이 있다.통상 GC녹십자의 독감백신 원액 매출은 2분기에 반영돼 왔지만 올해 세계보건기구(WHO) 지정 기관의 독감 유행 균주 표준품 확보 일정이 지연되면서."
+      "“로밍을 할까 유심을 살까?” 해외여행 준비 과정에 나오는 대표적인 고민 중 하나다.",
+      "공항에서 로밍을 위해 통신사 매장을 찾아 줄을 서는 것도 익숙한 풍경이다.",
+      "데이터가 잘 터지는지, 국제전화 요금은 얼마나 나오는지도 고민거리다.해외여행객들의 준비 행동 패턴이 달라지고 있다."
     ],
     "chips": [
-      "#의료"
+      "#AI"
     ]
   },
   {
-    "id": "nbb725337",
+    "id": "n832f0be5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731154600054",
+    "title": "전남광주 북구, 시설공단 이사장 후보 2명 부적합…재공모",
+    "summary": [
+      "(전남광주=연합뉴스) 정다움 기자 = 전남광주 북구는 31일 북구시설관리공단 임원추천위원회가 추천한 이사장 후보 2명에 대해 부적합하다고 판단해..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ef6f650",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731155000004",
+    "title": "\"시설 수용 저항\" 탈시설 장애인 故김진수 2주기 합동추모제",
+    "summary": [
+      "(서울=연합뉴스) 정지수 기자 = 장애인 시설 수용에 저항했던 고(故) 김진수 전 김포장애인자립생활센터 소장의 2주기를 맞아 추모제가 열렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0b1b830f",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731155100053",
+    "title": "경산아파트방화로 50대 피해여성 1명 사망…사망자 2명으로 늘어",
+    "summary": [
+      "(경산=연합뉴스) 최수호 기자 = 경북 경산시 아파트 관리사무소 방화 사건으로 중상을 입고 치료를 받던 부상자 가운데 추가 사망자가 발생했다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nfcc7ca2e",
     "category": "경제",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731140200527",
-    "title": "효성티앤씨 2분기 영업이익 1천888억원…작년 대비 157.5%↑",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731149700011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
     "summary": [
-      "(서울=연합뉴스) 코스피 상장사 효성티앤씨[298020]는 연결 기준 올해 2분기 영업이익이 1천888억원으로 지난해 동기보다 157.5% 증가..."
+      "[연합뉴스 이 시각 헤드라인] - 18:00."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6e96c5d0",
+    "id": "n637f7759",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731138800002",
-    "title": "금융위, '정보유출' 롯데카드 제재 감경…업무정지 4.5→1.5개월",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260731/134402359/1",
+    "title": "K디지털트레이닝 ‘동아 MX 스쿨’ 교육생, 기업 성공사례 검색 AI 웹서비스 개발",
     "summary": [
-      "(서울=연합뉴스) 김지연 기자 = 금융위원회가 지난해 해킹사고로 고객 297만명의 정보가 유출된 롯데카드에 1.5개월 업무정지와 과징금 50억원..."
+      "채용 시장에서 실무형 프로젝트 경험의 중요성이 갈수록 커지고 있다.",
+      "실무 현장과 연결된 프로젝트를 경험하며 희망 직무에서 요구되는 역량을 쌓을 수 있기 때문이다.",
+      "K-디지털 트레이닝(KDT) 과정인 ‘동아 MX 스쿨 2기’ 교육생들의 활동이 주목받는 이유도 여기에 있다."
+    ],
+    "chips": [
+      "#AI",
+      "#채용",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n832250aa",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/K-TECH Global Leaders/article/all/20260731/134403182/1",
+    "title": "[K-TECH 글로벌 리더스]HL만도, 사업 구조전환 가속도…부품사 넘어 SDV·로보틱스 핵심기업으로",
+    "summary": [
+      "HL만도가 전통적인 자동차 차대 부품 제조 기업에서 소프트웨어 중심 차량(SDV) 부품 및 로봇 기술을 아우르는 미래 모빌리티 솔루션 기업으로의 체질 개선을 본격화하고 있습니다.",
+      "지난 60여 년간 축적해 온 제동·조향·서스펜션 분야의 정밀 제어 기술과 대량 양산 역량을 바탕으로 차세대 전동화 부품과 로봇 관절 부품 시장을 동시에 공략하는 전략을 펼치고 있습니다.로봇 액추에이터 전담 조직 신설…로봇 관절 부품 시장 진출HL만도는 최근 조직 개편을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf833c620",
+    "id": "n24d422cd",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731138400053",
-    "title": "대구시, 두류공원 '국가도시공원' 지정 추진…시민 추진단 출범",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/07/31/HZGHPBRY45DXHITHDLFNSBUQYM/",
+    "title": "‘보완수사권 완전 폐지’ 형소법 개정안에 대법원 “재판 길어질 수 있어 현행 구속제도 손봐야”",
     "summary": [
-      "(대구=연합뉴스) 황수빈 기자 = 대구시는 두류공원을 국가도시공원으로 지정하기 위한 '시민참여 거버넌스 추진단'을 출범했다고 31일 밝혔다."
+      "‘보완수사권 완전 폐지’ 형소법 개정안에 대법원 “재판 길어질 수 있어 현행 구속제도 손봐야”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee8ed15b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/economy/2026/07/31/HHPFGRGNURDF3L4H7ZOYLC3AH4/",
+    "title": "풀무원, 30개 품목 가격 평균 6.7% 올린다",
+    "summary": [
+      "풀무원, 30개 품목 가격 평균 6.7% 올린다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50750a68",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/07/31/ILZZQWXSFNDT7MD2T7CEYS3ESE/",
+    "title": "[속보] SK, SK실트론 지분 70.6% 2.3조에 두산 매각",
+    "summary": [
+      "[속보] SK, SK실트론 지분 70.6% 2.3조에 두산 매각."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1d32fe74",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/07/31/KUFMAAGFCVE7HJ3V6PBTTL6AJU/",
+    "title": "보완수사권 폐지되자... 김민석 “李 성과” 정청래 “盧에 보고”",
+    "summary": [
+      "보완수사권 폐지되자... 김민석 “李 성과” 정청래 “盧에 보고”."
     ],
     "chips": [
       "#뉴스"
@@ -644,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "스타트업",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
