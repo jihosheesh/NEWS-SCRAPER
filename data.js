@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-07-31 18:28:28
+// 마지막 업데이트: 2026-07-31 19:34:13
 window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -19,28 +19,13 @@ window.NEWS_DB = [
     "id": "n20482ffd",
     "category": "IT",
     "source": "연합인포맥스",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
       "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 | 연합인포맥스."
     ],
     "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nc06eaff3",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczVid3c4TkUydmFFU2Rfd0IwVkN5NFNUOGMxM09aYkNTVVhxYnpoNFFYN3E1R1Z3cUlacjZUNXhJNHE4Tkg0d3BDcVhfM3VBdy1jbmRSSG5HQQ?oc=5",
-    "title": "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올",
-    "summary": [
-      "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올 한국경제."
-    ],
-    "chips": [
-      "#반도체",
       "#삼성전자"
     ]
   },
@@ -76,26 +61,43 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
     ]
   },
   {
+    "id": "nc4b0f988",
+    "category": "IT",
+    "source": "쿠키뉴스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
+    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
+    "summary": [
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nf633ad61",
     "category": "스포츠",
-    "source": "news.nate.com",
+    "source": "네이트",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TeXR5VDlRTVNUQlNqWWJkU1pIZXNjRzZhSXZhT1F2MjY4N3p0VzFGU2twWmxscU01cnRQNUI0NjRmTUFlNkhVS1ZJRUtKekNyb0FB?oc=5",
     "title": "[ST포토] 고예지 치어리더, '쭉쭉'",
     "summary": [
-      "[ST포토] 고예지 치어리더, '쭉쭉' news.nate.com."
+      "[ST포토] 고예지 치어리더, '쭉쭉' 네이트."
     ],
     "chips": [
       "#뉴스"
@@ -241,12 +243,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "63일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#부동산"
@@ -313,16 +315,155 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne74d030e",
+    "id": "n651a1d96",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801005100091",
+    "title": "오픈AI, 활성이용자 10억명 달성…출시 3년 8개월만",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 오픈AI가 인공지능(AI) 모델 챗GPT를 출시한 지 3년 8개월 만에 이용자 수 10억 명을 달성했..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n6a5a553b",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/01/2026080104121153176",
+    "title": "트럼프 승리 맞혀 뜨더니…\"52조원 벌금 매겨야\" 뉴욕주 불법도박 소송",
+    "summary": [
+      "미국 뉴욕주 당국이 31일(현지시간) 금융·정치 예측시장 플랫폼 '칼시'를 상대로 불법도박 혐의로 소송을 제기했다.",
+      "도널드 트럼프 행정부는 예측시장 플랫폼의 자율규제에 무게를 두면서 연방정부 관할을 주장하는 상황에서 향후 법원의 판단에 따라 미국 내 예측시장 플랫폼 산업의 판도가 요동칠 것으로 보인다.",
+      "민주당 소속의 캐시 호컬 뉴욕주지사와 레티샤 제임스 뉴욕주 검찰총장은 이날 성명을 통해 칼시가 뉴욕주 게임위원회의 인가 없이 '불법 도박' 사업."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n22027b8c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/08/01/3NS7WPXX5NFZVOGNLAPTL36BXM/",
+    "title": "韓·아르헨 정상, 핵심광물 MOU 체결...원유 수입 늘리기로",
+    "summary": [
+      "韓·아르헨 정상, 핵심광물 MOU 체결...원유 수입 늘리기로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naa1e5ce2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731352",
-    "title": "출근 20분 빨라진 남편, 블랙박스 보니…여직원과 몰래 카풀",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732363",
+    "title": "EU \"테무, 지난해 EU 역외 보조금 조사 의무 위반\"",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 결혼 4년 차 맞벌이 아내가 남편이 한 달 넘게 다른 여성 직원을 매일 아침 차로 태워 출근시킨 사실을 뒤늦게 알게 됐다며 서운함을 토로해 온라인에서 논란이 일고 있다.",
-      "31일 온라인 커뮤니티에는 \"매일 아침 여직원 태워다 주는 남편, 제가 속 좁은 건가요?\"라는 제목의 글이 올라왔다.",
-      "작성자 A씨는 결혼 4년 차 맞벌이 부부라고 밝히며 \"남편은 평소 성격이 무던하고 착한 사람\"이라며 \"주변에서도 법 없이 살."
+      "[서울=뉴시스] 김예진 기자 = 유럽연합(EU)은 31일(현지 시간) 중국계 온라인 유통업체 테무가 역외 보조금 규정에 근거한 조사 협조 의무를 위반했다고 밝혔다.",
+      "유로뉴스 등에 따르면 EU 집행위원회는 이날 \"더블린에 있는 자회사에 대한 현장조사 과정에서 테무가 여러 사안에 대해 적극적으로 협조해야 할 의무를 위반한 것으로 잠정 판단했다\"고 밝혔다.",
+      "앞서 지난해 12월 초 EU 경쟁당국은 테무가 중국 정부로부터 보조금을 받아 경쟁 시장을 왜곡."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3448055f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732371",
+    "title": "트럼프, 스페인 이민 사태 \"재앙…공화당 집권 못하면 같은일\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 최근 스페인의 대규모 이민자 유입 사태를 \"재앙\"이라고 칭하며 반(反)이민 정책 기조를 강조했다.",
+      "트럼프 대통령은 31일(현지 시간) 미 메릴랜드주 캠프 데이비드 별장에서 개최한 각료회의에서 \"어제 스페인을 지켜보면서 그곳에서 일어난 재앙을 목격했다\"며 \"마치 수십만명의 사람들이 한 국가를 침공한 것처럼 보였다\"고 말했다.",
+      "이어 11월 중간선거에서 \"공화당 의원들이 당선되지 못하면."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n33f73615",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080103163047230",
+    "title": "김신영, 구성환 집들이 초대받고 후회 \"이 집 다신 안 와\"…왜?",
+    "summary": [
+      "코미디언 김신영이 구성환의 요리 실력에 인상을 찌푸렸다.",
+      "31일 방영된 MBC '나 혼자 산다' 658회에서는 구성환이 초복을 맞아 이선민, 김신영을 집으로 초대해 요리를 대접하는 모습이 그려졌다.",
+      "이날 라디오 스케줄로 이선민보다 늦게 구성환의 집에 도착한 김신영은 무거운 짐을 들고 5층 계단을 올라 숨을 헐떡였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nce12aeff",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731968",
+    "title": "넷플릭스 사무실서 영화 사본 도난…1500억 소송 휘말려",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 넷플릭스가 아직 공개되지 않은 영화 파일이 담긴 하드디스크를 도난당한 뒤 영화 제작사로부터 거액의 손해배상 소송을 당했다.",
+      "30일(현지 시간) 영국 가디언에 따르면 넷플릭스는 미국 로스앤젤레스(LA) 사무실에서 발생한 하드디스크 도난 사건과 관련해 1억500만 달러(약 1503억원) 규모의 손해배상 청구 소송에 휘말렸다.",
+      "문제가 된 하드디스크에는 아직 개봉하지 않은 제2차 세계대전 첩보 스릴러 영화 '포티튜드."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6bcb993",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732136",
+    "title": "대구·경북 주말 찜통더위 기승…낮 최고 포항 38도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 1일 대구·경북은 대체로 맑은 가운데 무더위가 이어질 것으로 예상된다.",
+      "대구지방기상청은 이날 \"대구·경북 전 지역에 폭염특보가 발효된 가운데 당분간 최고체감온도가 33도 이상(폭염경보 지역 35도 이상)으로 올라 무덥겠다\"고 예보했다.",
+      "아침 최저기온은 23~27도(평년 20~24도), 낮 최고기온은 34~38도(평년 29~34도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3fe8cab5",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "46분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260801/134404847/1",
+    "title": "[속보]韓·아르헨 정상회담…‘원유 공급선’ 남미로 확대 물꼬",
+    "summary": [
+      "청와대가 31일(현지 시간) 이재명 대통령이 하비에르 밀레이 아르헨티나 대통령과 정상회담을 갖고 원유 공급선을 남미로 확대할 수 있는 실질적인 전기를 마련했다고 밝혔다.",
+      "정상회담을 계기로 한국 기업의 이중과세 부담을 줄이는 이중과세방지협정이 최종 타결됐다.위성락 국가안보실장은 이날 아르헨티나 수도 부에노스아이레스에 마련된 프레스센터에서 브리핑을 갖고 “우리 기업은 올해 아르헨티나산 원유를 시범 도입했고 이를 바탕으로 내년부터 수입을 개시할 예정."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc44b504a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801003400072",
+    "title": "뉴욕주, 예측 시장 플랫폼 '칼시' 고소…\"불법 도박 운영\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 뉴욕주 정부가 대형 예측 시장 플랫폼인 '칼시'를 상대로 불법 도박 운영 혐의로 소송을 제기했다."
     ],
     "chips": [
       "#뉴스"
@@ -332,7 +473,7 @@ window.NEWS_DB = [
     "id": "nec166afa",
     "category": "사회",
     "source": "동아일보",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260801/134404848/1",
     "title": "트럼프 “이란, 강력하게 타격할 것…신뢰 잃어가고 있어”",
     "summary": [
@@ -348,7 +489,7 @@ window.NEWS_DB = [
     "id": "n69856a25",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260801004200001",
     "title": "아르헨서 내년부터 원유 수입…리튬 채굴 공동프로젝트 추진",
     "summary": [
@@ -362,7 +503,7 @@ window.NEWS_DB = [
     "id": "n10eb1e3b",
     "category": "경제",
     "source": "머니투데이",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/politics/2026/08/01/2026080102452528718",
     "title": "[속보]靑 \"브라질·아르헨티나와 한-메르코수르 무역협정 협상 연내 재개 합의\"",
     "summary": [
@@ -376,7 +517,7 @@ window.NEWS_DB = [
     "id": "n031da562",
     "category": "경제",
     "source": "머니투데이",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102593495959",
     "title": "구성환, 옥상에 반려견 '꽃분이' 새겼다…펫로스 이겨낸 추모 '뭉클'",
     "summary": [
@@ -389,70 +530,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n458e31c4",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "24분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/01/2026080102443042244",
-    "title": "[속보]한-아르헨 회담…\"경제공동위, 에너지자원협력위 재가동\"",
-    "summary": [
-      "[the300] 31일(현지시간) 아르헨티나 부에노스아이레스 프레스센터, 위성락 청와대 국가안보실장 브리핑...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3712d9ab",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "25분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/01/2026080102434017756",
-    "title": "[속보]한-아르헨 회담…\"이중과세방지협정 최종 타결\"",
-    "summary": [
-      "[the300] 31일(현지시간) 아르헨티나 부에노스아이레스 프레스센터, 위성락 청와대 국가안보실장 브리핑...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1aeb3855",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "28분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/01/J3UYVFMXKRDURJEBPRNQ422POE/",
-    "title": "中 CXMT, 메모리 3강 도전장⋯ 한국 반도체가 가야 할 길은",
-    "summary": [
-      "中 CXMT, 메모리 3강 도전장⋯ 한국 반도체가 가야 할 길은."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n34f275ed",
+    "id": "na95312a0",
     "category": "사회",
     "source": "조선일보",
-    "time": "28분 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/01/AFDMOIEFAJGFHHKJ7IHOOPVYU4/",
-    "title": "이토록 우아한 가자미라니… ‘맛의 달인’ 71권 속 성하 가자미를 맛보다",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/01/EBBDMXMILRBD5JZBGH5GR52T3A/",
+    "title": "“일부러 매칭 안 시켜준다고?”… ‘온라인 데이트’ 시장 과금 굴레로 속절없이 추락",
     "summary": [
-      "이토록 우아한 가자미라니… ‘맛의 달인’ 71권 속 성하 가자미를 맛보다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naec1ffb9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "28분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/01/U5P3PS3BPFBKBHF3P7HMU7WHB4/",
-    "title": "검소하나 누추하지 않은 꽃, 싸리 3형제를 아시나요",
-    "summary": [
-      "검소하나 누추하지 않은 꽃, 싸리 3형제를 아시나요."
+      "“일부러 매칭 안 시켜준다고?”… ‘온라인 데이트’ 시장 과금 굴레로 속절없이 추락."
     ],
     "chips": [
       "#뉴스"
@@ -462,7 +547,7 @@ window.NEWS_DB = [
     "id": "n3444e273",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "36분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260801002851071",
     "title": "트럼프 \"이스라엘 매우 만족\"…하마스 무장해제 합의 호응 압박(종합)",
     "summary": [
@@ -473,40 +558,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf0035c17",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731171651085",
-    "title": "스페인, 이주민 수만명 난입에 수습 안간힘…\"4만8천명 돌아가\"(종합)",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 아프리카 모로코에서 스페인 자치도시 세우타로 수만 명이 밀려 들어오는 국경 위기가 빚어져 스페인 정부가 대응..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c677801",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732362",
-    "title": "스페인 총리, 세우타 이주민 사태에 \"영토 보전에 대한 침해\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 페드로 산체스 스페인 총리는 북아프리카 모로코와 국경을 접한 스페인령 세우타에 수만명에 달하는 불법 이주민이 유입된 데 대해 \"스페인의 영토 보전에 대한 침해\"라며 강력 규탄했다.",
-      "현지 엘파이스, AP통신 등에 따르면 그는 이날 세우타에 방문해 이같이 말했다.",
-      "그는 모로코를 '동맹국'이라고 언급하며, 대응을 지지하면서도 지금까지보다 \"더 신속하고 훨씬 강력한 대응\"을 해달라고 요청했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n9a62e11c",
     "category": "경제",
     "source": "아시아경제",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026080102084489361",
     "title": "\"딱 2잔 마셨어요\"…면허정지 수치인데 '취소'된 이유",
     "summary": [
@@ -519,24 +574,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7ab39555",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801003100075",
-    "title": "'스파이더맨4', 북미 박스오피스서 시사회 흥행성적 역대 최고",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 영화 '스파이더맨' 시리즈의 네 번째 작품 '스파이더맨: 브랜드 뉴 데이'(이하 '스파이더맨 4')가..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nba87362a",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202607318766i",
     "title": "\"실연 뒤 하루 15시간 쏟았더니\"...1300억원으로 되돌아왔다[성수영의 그때 그 사람들]",
     "summary": [
@@ -547,26 +588,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbf374167",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732360",
-    "title": "민주콩고 에볼라 확진 3500명 넘어…'빠른 속도'로 역대 2번째 규모 기록",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 아프리카 중부 콩고민주공화국(민주콩고)에서 에볼라 확진자가 3500명을 넘어섰다.",
-      "에볼라 유행 가운데 사상 2번째로 규모가 크다.",
-      "CNN, 신화통신 등에 따르면 이날 민주콩고 보건당국은 에볼라 확진자가 3532명, 사망자는 1556명으로 늘었다고 발표했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "n80dec8de",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153905",
     "title": "이민원 SOOP 대표 \"상황 엄중 인식...생태계 중심 쇄신 속도낸다\"",
     "summary": [
@@ -582,7 +607,7 @@ window.NEWS_DB = [
     "id": "n5448f3eb",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260801/134404628/2",
     "title": "검찰 수사권, 78년만에 완전 폐지",
     "summary": [
@@ -598,7 +623,7 @@ window.NEWS_DB = [
     "id": "nb547b0d5",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260801/134404630/2",
     "title": "與, 靑특별감찰관 후보에 ‘검사 출신’ 최길수 변호사 추천",
     "summary": [
@@ -609,22 +634,6 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
-  },
-  {
-    "id": "ne5a86f47",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260801/134404640/2",
-    "title": "경남 양산 41.4도… 관측이래 최악 폭염",
-    "summary": [
-      "한낮 기온이 41.4도까지 치솟은 31일 경남 양산의 도심 곳곳은 진공 상태에 가까울 정도로 적막감이 감돌았다.",
-      "도시 전체가 거대한 찜통처럼 변하면서 시민들이 실외 활동을 극단적으로 줄인 탓이다.",
-      "양산시 물금읍에서 만난 주민 김진구 씨(40)는 “밖에 잠깐만 나와도 숨이 턱 막힌다”며 “사우나 증기보다 강렬한 열기가 얼굴을 쓸고 지나간다”고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -633,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정치",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
