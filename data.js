@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-01 04:13:44
+// 마지막 업데이트: 2026-08-01 05:59:19
 window.NEWS_DB = [
   {
     "id": "na3d392e4",
     "category": "IT",
     "source": "미디어파인",
-    "time": "56분 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdVBCS1NrVG5IUi1iQXZneElHR1NUWmFTUGlLNTJRdzdpT3E0ZkwtUEVWRzJtTmJhb2VQNWpuYTRDZkxlY2NJVElKWHdHeWFnUnZBR3BQX0NtajREc1NMUTUxcFg1NHV2Uy1xRXB3?oc=5",
     "title": "엔비디아, 애플 제치고 시총 1위 탈환-AI 반도체 경쟁력 다시 입증",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n028b05fa",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "2시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVN093ZW80cTFTb0hsNHh5TXdQNUs4YndTOGx4RlBwY3E5bnlaSTF1ZHozOWJkS2pQMjVfUUpZUUNEaGxZQmJZTVVjbDdCYU96S3hDakxESmRVQQ?oc=5",
     "title": "엔비디아, 나흘 만에 시가총액 1위 복귀",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n0511673c",
     "category": "IT",
     "source": "포커스온경제",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jaTU2R2NkV1BxdC1PMy1TWHpqdlo3Z2FLV3plQzFSSkt3blJCeU5adlhoTzQ1b1F6ME81Zml1aHFuQ0M1S1Mw?oc=5",
     "title": "중국 AI스타트업 문샷, 미국규제 회피 엔비디아 최신칩 2만개 확보 드러나",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "22시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -65,12 +65,12 @@ window.NEWS_DB = [
   {
     "id": "n20482ffd",
     "category": "IT",
-    "source": "news.einfomax.co.kr",
+    "source": "연합인포맥스",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
-      "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 | news.einfomax.co.kr."
+      "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 | 연합인포맥스."
     ],
     "chips": [
       "#삼성전자"
@@ -94,7 +94,7 @@ window.NEWS_DB = [
     "id": "nf99a2aa1",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTVFqRDdjd1FCX2RUcERXaElYN3hDNnpRM3JOQXJfREVUMENDdVRXWHl0NTNPRFd1OFcyaVFSRnpwTnNSanlUMExIY0NuX0p3Q2NqT1ZSZGVkV1c1U3BKbUJXSHItekgxVzB2RjFmYw?oc=5",
     "title": "삼성전자, 메모리 70% 장기 계약...HBM·파운드리는 추격",
     "summary": [
@@ -137,6 +137,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf633ad61",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TeXR5VDlRTVNUQlNqWWJkU1pIZXNjRzZhSXZhT1F2MjY4N3p0VzFGU2twWmxscU01cnRQNUI0NjRmTUFlNkhVS1ZJRUtKekNyb0FB?oc=5",
+    "title": "[ST포토] 고예지 치어리더, '쭉쭉'",
+    "summary": [
+      "[ST포토] 고예지 치어리더, '쭉쭉' 네이트."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n56609ab4",
     "category": "IT",
     "source": "스타트업엔(StartupN)",
@@ -168,12 +182,12 @@ window.NEWS_DB = [
   {
     "id": "nc01e8f2e",
     "category": "사회",
-    "source": "viva100.com",
+    "source": "브릿지경제",
     "time": "32일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
-      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 viva100.com."
+      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
     ],
     "chips": [
       "#AI",
@@ -214,12 +228,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "ytn.co.kr",
+    "source": "YTN",
     "time": "51일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
       "#금리",
@@ -279,20 +293,6 @@ window.NEWS_DB = [
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
       "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n01f4c085",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "130일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
-    "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
     ],
     "chips": [
       "#KBO"
@@ -380,259 +380,260 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0c838efa",
+    "id": "nce2f41f2",
     "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/national/transport-environment/2026/08/01/XOR2DHB7FNCF7AV5QOB5SZ62UM/",
-    "title": "양산 나흘째 40도 넘겨...최고기온 기록 또 경신할 듯",
+    "source": "동아일보",
+    "time": "방금 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260801/134405194/2",
+    "title": "치료제 없는 ‘죽음의 에볼라’ 1500명 사망…“최악의 속도로 확산 중”",
     "summary": [
-      "양산 나흘째 40도 넘겨...최고기온 기록 또 경신할 듯."
+      "‘분디부조 변종 에볼라’가 급속히 확산 중인 서아프리카 콩고민주공화국(민주콩고)에서 31일(현지 시간) 누적 사망자가 3500명을 넘었다.",
+      "역대 두 번째로 큰 규모의 에볼라 유행이다.",
+      "방역 대응이 감염 확산 속도를 따라가지 못하고 있다는 지적이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n55a8baf1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/01/GNRGKYZUGM4TKM3BGQYTOMZSG4/",
-    "title": "\"이강인 보려고 4만km?\" ATM이 지구 한 바퀴 도는 진짜 이유",
-    "summary": [
-      "[OSEN=우충원 기자] 아틀레티코 마드리드가 올여름 프리시즌에서 40000km가 넘는 장거리 이동도 마다하지 않는 이유는 단 하나였다.",
-      "바로 이강인의 폭발적인 상업적 가치를 극대화하기 위해서다.스페인 통신사 에페는 1일(한국시간) \"아틀레티코는 이강인 효과를 최대한 활용하기 위해 15일 동안 4만km 이상을 이동하는 일정을 소화한다\"고 보도했다.디에고 시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc4a126cc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732545",
-    "title": "日외무성 \"中, 동중국해에 구조물 24개째 설치…매우 유감\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 일본 정부가 중국이 동중국해 경제수역 미획정 해역에서 구조물을 추가 설치하고 있다며 유감을 표명했다.",
-      "니혼게이자이신문(닛케이), 지지통신 등에 따르면 외무성은 1일 \"동중국해 일본-중국 '중간선' 서쪽 해역에서 중국이 구조물 1기를 새로 설치하는 움직임을 확인했다\"고 밝혔다.",
-      "그러면서 \"동중국해 배타적경제수역(EEZ)과 대륙붕 경계가 획정되지 않은 상황에서 이 같은 움직임은 매우 유감스럽다\"며 가나이 마사아키 외."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd187e7d9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801032200065",
-    "title": "인천 간석동서 크레인에 전선 손상돼 60호 정전…복구 중",
-    "summary": [
-      "(인천=연합뉴스) 신민재 기자 = 1일 오전 8시 45분께 인천시 남동구 간석동 공사 현장에서 작업 중이던 크레인에 전선이 손상되는 사고가 발생..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n58f51df9",
+    "id": "na416d33e",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/01/GM4TGZJUMJSTKMJQGUYTMZTDMQ/",
-    "title": "[속보] '무릎 통증 맞아?' 오타니, 시속 180㎞ 총알포 폭발…24호 역전 투런 쾅!",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732610",
+    "title": "'체감 36도' 훌쩍…경기남부 곳곳 폭염특보·열대야주의보",
     "summary": [
-      "[OSEN=손찬익 기자] 하루를 쉬었던 오타니 쇼헤이가 곧바로 홈런포를 가동했다.",
-      "왼쪽 무릎 통증 우려를 지운 그는 180㎞가 넘는 총알 같은 타구로 역전 투런 홈런을 터뜨리며 다저스타디움을 열광의 도가니로 만들었다.일본 스포츠 매체 '스포니치 아넥스'​는 1일(이하 한국시간) \"오타니가 보스턴 레드삭스와의 홈경기에서 2경기 만에 시즌 24호 홈런을 터뜨렸."
+      "[수원=뉴시스] 박종대 기자 = 1일 경기남부 곳곳에 폭염특보가 내려진 가운데 낮 최고체감온도가 36도를 웃도는 곳이 나왔다.",
+      "기상청에 따르면 이날 오후 1시 기준 안성 서운의 체감온도는 36.7도, 오산 남촌은 36.4도, 여주 금사는 36.4도, 수원은 33.8도를 기록했다.",
+      "기상청은 오후 2시40분을 기해 오산·평택·이천·안성·광주·용인시남부·여주시동남부·여주시서부에 폭염경보를, 광명·과천·안산·시흥·수원·성남·안양·군포·의왕·화성·용인시."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbc2fa011",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731916",
-    "title": "\"장 끝나도 계좌창 열었다 닫았다\"…이거 병인가요?[주식 우울증②]",
+    "id": "n1234c1f8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134405305/1",
+    "title": "슬리피, 결혼 후 일 끊긴 사연…“아내가 부부 예능 다 거절”",
     "summary": [
-      "[서울=뉴시스]송종호 기자 = \"요 며칠 옆자리 부장이 주식만 들여다보며 한숨을 쉬더니 부서 분위기까지 가라앉았습니다.",
-      "그러다 금요일 코스피가 반등하자 표정이 확 달라졌습니다.",
-      "주가를 따라 사람 기분도 오르내리는 걸 보니, 요즘은 부서 분위기조차 종목창이 좌우하는 것 같습니다.\" 40대 직장인 A씨의 말이다."
+      "가수 슬리피가 결혼 발표 당시 아내와 함께 출연해 달라는 방송 섭외를 잇달아 거절한 뒤 일이 줄었다고 밝혔다.슬리피는 지난달 30일 유튜브 채널 ‘슬리피맞아요’에 공개된 영상에서 아내 김나현씨와 결혼 생활과 시험관 시술 등에 관한 이야기를 나눴다.제작진이 두 사람의 이야기를 궁금해하는 사람이 많다고 하자 슬리피는 “사실 많이 안 했다”고 말했다.이어 “결혼한다고 했을 때 아내와 함께 출연해 달라는 프로그램이 열몇 개 정도 들어왔다”며 “그런데."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb9596bcb",
+    "id": "n83b954df",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801021951007",
-    "title": "MLB 미네소타, 트레이드로 마운드 보강…고우석에 악재(종합)",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732605",
+    "title": "이어지는 불볕 더위…프로야구 부산·창원 경기 폭염으로 취소(종합)",
     "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 미국프로야구 메이저리그(MLB) 미네소타 트윈스가 트레이드를 통해 마운드를 보강했다."
+      "[서울=뉴시스]김희준 기자 = 폭염이 이어지면서 결국 프로야구 2경기가 취소됐다.",
+      "한국야구위원회(KBO)는 1일 오후 6시 사직구장에서 열릴 예정이던 삼성 라이온즈-롯데 자이언츠전과 창원 NC파크에서 펼쳐질 예정이던 KIA 타이거즈-NC 다이노스전이 폭염으로 취소됐다고 밝혔다.",
+      "KBO리그 규정에 따르면 하루 최고 기온이 섭씨 35도 이상인 상태가 2일 이상 지속될 것으로 예상될 때 폭염 경보가 발령되며, 경기 시작 시간을 기준으로 강풍, 폭염,."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nf1058599",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732480",
-    "title": "첼시, 규정 위반 자진 신고…'승점 삭감' 면하고 벌금 195억",
-    "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 잉글랜드 프로축구 프리미어리그(EPL) 첼시가 에이전트 수수료 지급 관련 규정을 위반한 혐의로 1000만 파운드(약 195억원)의 벌금 징계를 받았다.",
-      "영국 매체 'BBC'는 1일(한국 시간) \"첼시는 벌금을 받았지만, 승점 삭감 징계는 면했다\"고 보도했다.",
-      "매체에 따르면 첼시는 지난 2009년부터 2022년 사이 에이전트 수수료 지급 관련 규정을 위반했다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "neab2a111",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732560",
-    "title": "붓·물감·작업복까지…김종학 작업실 옮겨왔다",
-    "summary": [
-      "[강릉=뉴시스] 박현주 미술전문 기자 = 1일 강릉시립미술관 솔올 특별전 '화가 김종학'에 재현된 작가의 작업실.",
-      "실제 작업도구와 작업복, 물감 등을 통해 김종학의 창작 현장을 생생하게 보여준다.",
-      "전시는 10월 25일까지 열린다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc325b61",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260801/134404870/1",
-    "title": "에어컨은 꿈도 못꾸던 시절, 사람들은 ‘이곳’에 모여들었다[청계천 옆 사진관]",
-    "summary": [
-      "불기둥이 도시를 짓누르는 듯한 여름입니다.",
-      "그것도 쉽지 않은 것이 오늘(8월 1일) 아침 신문 1면에 실린 사진을 보면, 부산 해운대 해수욕장은 백사장이 너무 뜨거운 나머지 오히려 한산합니다.",
-      "더위를 피해 물가로 향하던 계절인데, 이제는 바닷가마저 비어갑니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4d531d86",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026080112554097843",
-    "title": "춘천시, 공지천 교량 새단장…2028년까지 명품 수변경관으로 탈바꿈",
-    "summary": [
-      "강원도 춘천시가 시민들의 대표 휴식공간인 공지천 일대를 주·야간 모두 즐길 수 있는 명품 수변공간으로 탈바꿈시키기 위한 교량 디자인 개선사업에 본격 착수한다.",
-      "시는 지난달 31일 시청 중회의실에서 '공지천 교량디자인 개선사업 디자인 및 실시설계 용역 최종보고회'를 열고 공지천교와 구름다리교, 호반교 등 3개 교량과 주변 연계공간의 최종 디자인과 사업 추진 방향을 점검했다고 1일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n542dc53d",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026080112505993607",
-    "title": "김보라 시장 \"시민 목소리가 시정의 출발…열린 행정 지속할 것\"",
-    "summary": [
-      "경기 안성시(시장 김보라)가 민선 9기 출범과 함께 2주간 이어온 '2026년 하반기 정책공감토크'를 마무리하며 시민과의 현장 소통을 시정 운영의 출발점으로 삼겠다는 의지를 분명히 했다.",
-      "안성시는 지난 31일 마지막 정책공감토크를 열고 시정 운영 방향을 설명하는 한편 주민들과 자유로운 대화를 통해 생활 현안과 지역 발전 방안을 청취했다고 밝혔다.",
-      "이날 일죽면 주민들은 파크골프장 시설 개선과 노후 도로 보수를 건의했고."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nacb203ad",
+    "id": "n926a431b",
     "category": "사회",
     "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134405197/1",
-    "title": "노홍철, 30년 기른 수염과 이별…“거울 보다 깜짝 놀라”",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260801/134405302/1",
+    "title": "중국 “美 추가제재, 경제적 강압…신장에 ‘강제노동’ 없다”",
     "summary": [
-      "방송인 노홍철이 30년간 기르던 수염을 깎았다.",
-      "지난달 31일 유튜브 채널 ‘노홍철’에는 ‘노홍철이 30년간 기르던 수염을 싹 다 깎은 이유는’이라는 제목의 영상이 공개됐다.",
-      "공개된 영상에서는 독일로 여행을 떠난 노홍철의 모습이 그려졌다.노홍철은 자주 사용하던 면도기 브랜드의 회사를 찾아가 다양한 설명을 들었다."
+      "도널드 트럼프 미국 행정부가 43개 중국 기업을 ‘위구르 강제노동방지법(UFLPA)’상 제재 대상으로 추가 지정하며 강제노동 논란 관련 공세 수위를 높인 데 대해 중국 정부가 강하게 반발했다.상무부는 1일 홈페이지에 게시한 기자회견 형식의 대변인 입장문을 통해 “미국이 어떤 사실적 근거도 없이 이른바 인권과 강제노동을 명분으로 자국법을 적용해 중국 기업에 일방적 제재를 계속 가하는 것으로, 전형적인 경제적 강압”이라고 밝혔다.상무부는 “양국은."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n49774782",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801031100009",
-    "title": "미국·이란 갈등 속 호르무즈 해협 입구서 유조선 또 피격",
-    "summary": [
-      "(서울=연합뉴스) 신재우 기자 = 호르무즈 해협 근처를 지나던 유조선이 미확인 발사체에 맞아 운항 불능 상태에 빠졌다고 영국해사무역기구(UKMT..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n831bf2c6",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "33분 전",
-    "url": "https://view.asiae.co.kr/article/2026080112402685627",
-    "title": "민주당, 충남서 순회 경선 시작…후보들 견제 본격화",
-    "summary": [
-      "더불어민주당 8·17 전당대회 첫 순회경선이 1일 충남 공주에서 열린 가운데, 당 대표·최고위원 후보들은 한목소리로 '이재명 정부 성공'과 총선 승리를 강조하면서도 당 운영 방향과 지도부 책임론을 놓고 치열한 공방을 벌였다.",
-      "이날 오전 충남 교통연수원에서 열린 당 대표 및 최고위원 선출을 위한 충남 합동 연설회에서 김민석 후보는 '선거 승리', 정청래 후보는 '개혁' , 송영길 후보는 '정통성'을 각각 강조했다.김 후보는."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0c008aad",
+    "id": "n91256c15",
     "category": "사회",
     "source": "조선일보",
-    "time": "34분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/08/01/GXBFRXXPF5GEXPJR7WU6PHIWWE/",
-    "title": "김민석 “명청대전 지옥문 닫아야” 정청래 “강력한 개혁” 송영길 “유시민에 침묵 당대표 필요없어”",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/international/europe/2026/08/01/4542YUCGD5FJPAYPOBWRQAJWK4/",
+    "title": "‘불법 이민자 6만명 상륙’ 하루 만에 진정…스페인령 세우타 뒤흔든 난민 대란, 왜 벌어졌나",
     "summary": [
-      "김민석 “명청대전 지옥문 닫아야” 정청래 “강력한 개혁” 송영길 “유시민에 침묵 당대표 필요없어”."
+      "‘불법 이민자 6만명 상륙’ 하루 만에 진정…스페인령 세우타 뒤흔든 난민 대란, 왜 벌어졌나."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n77f9bd30",
+    "id": "n170bba0a",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801031200056",
-    "title": "위성곤 제주지사 \"고수온 피해 양식장, 염지하수 활용 검토\"",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732604",
+    "title": "'스파이더맨4', 개봉 4일만 200만 돌파…'아바타' 보다 빠르다",
     "summary": [
-      "(제주=연합뉴스) 김호천 기자 = 위성곤 제주도지사는 1일 고수온 피해를 본 넙치 육상 양식장을 돌아보고, 염지하수 활용을 위한 제도 개선 가능..."
+      "[서울=뉴시스] 이종희 기자 = 영화 '스파이더맨: 브랜드 뉴 데이'가 개봉 4일 만에 200만 관객을 돌파했다.",
+      "배급사 소니 픽쳐스는 '스파이더맨: 브랜드 뉴 데이'는 개봉 4일째인 이날 오전 12시5분 누적 관객수 210만7469명을 넘겼다고 1일 밝혔다.",
+      "이는 지난 2023년 이후 개봉한 외화 중 가장 빠르게 200만 관객을 동원한 기록이다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nb3f522dc",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260801/134405299/1",
+    "title": "기록적인 폭염에…프로야구 부산·창원 경기 전격 취소",
+    "summary": [
+      "기록적인 폭염 탓에 부산과 창원에서 열릴 예정인 프로야구 경기가 취소됐다.한국야구위원회(KBO)는 1일 “사직에서 열릴 예정이었던 삼성과 롯데 경기, 창원에서 열릴 예정이었던 KIA와 NC 경기의 폭염 취소를 결정했다”고 밝혔다.창원, 부산 지역은 전날부터 폭염 중대경보가 발효된 상태다.",
+      "KBO는 “이날 경기 개시 시각 시각에도 기온이 37도 이상 지속된다는 예보에 따라 관람객과 선수단의 안전 및 건강 보호를 최우선으로 고려해 취소를 결정했다”."
+    ],
+    "chips": [
+      "#KBO",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8db77de4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/01/3UA6F6HEGVE7ZKATZZO3B5LYFM/",
+    "title": "프로야구 부산·창원 경기, 폭염으로 취소",
+    "summary": [
+      "프로야구 부산·창원 경기, 폭염으로 취소."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n19aac35e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801035600054",
+    "title": "순천경실련 \"전남 의대 설립 회의 전과정 생중계해야\"",
+    "summary": [
+      "(순천=연합뉴스) 형민우 기자 = 순천경제정의실천시민연합(순천경실련)은 오는 2일 전남광주 장흥에서 열릴 의과대학 및 대학병원 설립 관련 회의를..."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "ncdfd0025",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732581",
+    "title": "'당론 위반'…민주당 정읍시의원들 내홍 격화",
+    "summary": [
+      "[정읍=뉴시스] 김종효 기자 = 민주당 소속 전북 정읍시의원들이 의회 의장단 구성을 놓고 사전협의 결과 즉 자당 후보의 의장 선출에 실패한 데 이어 특정할 수 없는 표 이탈자 색출에까지 나서는 등 혼란이 커지고 있다.",
+      "제10대 의회 의장을 선출한 지난달 7일 정읍시의회 제314회 임시회에서는 무소속 이복형 후보와 민주당 황혜숙 후보가 의장 자리를 놓고 맞붙어 17명의 의원 중 9표를 얻은 이복형 후보가 의장에 당선됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a87ec47",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026080114434749902",
+    "title": "전국이 '펄펄'…경남 양산은 41.6도 찍었다, 역대 최고기온 경신[날씨]",
+    "summary": [
+      "1일 전국 대부분 지역에 폭염특보가 발효된 가운데 경남 양산의 기온이 41.6도까지 치솟으며 국내 기상관측 사상 최고기온을 기록했다.",
+      "이는 전날 양산에서 측정된 41.4도를 하루 만에 넘어선 것으로, 122년 국내 기상관측 역사상 가장 높은 기온이다.",
+      "이날 양산의 기온은 낮 12시 14분 처음 40도에 도달한 뒤 계속 올라 41.6도를 기록했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "na28101e2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801035500505",
+    "title": "[인사] 서울뉴스통신",
+    "summary": [
+      "[인사] 서울뉴스통신."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0eeee069",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801035300057",
+    "title": "[르포] 울산 폭염 중대경보 첫날…국가정원 '텅', 실내는 '북적'",
+    "summary": [
+      "(울산=연합뉴스) 장지현 기자 = \"날씨가 더운 수준이 아니라 무서운 정도네요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n825d9b03",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801035200007",
+    "title": "KBO, 기록적인 폭염에 경기 시작 시간 최대 1시간 늦추기로",
+    "summary": [
+      "(서울=연합뉴스) 장현구 기자 = 기록적인 폭염이 이어지면서 한국야구위원회(KBO)가 1일부터 프로야구 경기를 탄력적으로 운용하기로 했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne6f938b0",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "24분 전",
+    "url": "https://view.asiae.co.kr/article/2026073015021956788",
+    "title": "'먹고 마시고 투자하라'…급락장 방어엔 음식료株 [주末머니]",
+    "summary": [
+      "급락으로 냉각된 주식시장에서 그간 소외됐던 음식료주가 방어 측면에서 주목받고 있다.",
+      "건강 지향 소비와 해외 수출 등 투자 매력도 높다는 평가도 나온다.",
+      "한국거래소에 따르면 지난달 29일 기준 최근 한달 코스피 수익율은 -33%를 기록한 반면, 코스피 음식료·담배 지수는 +4%로 방어주로서의 면모를 뽐냈다."
+    ],
+    "chips": [
+      "#수출",
+      "#의료"
+    ]
+  },
+  {
+    "id": "ned855b6a",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "27분 전",
+    "url": "https://view.asiae.co.kr/article/2026080114023518712",
+    "title": "\"2000원 스티커로 된다\"…메타 AI 안경 '몰카 방지' 기능 무용지물",
+    "summary": [
+      "메타가 몰래 촬영을 막기 위해 도입한 인공지능(AI) 안경의 사생활 보호 기능이 장당 1달러대 스티커 한장에 무용지물이 될 수 있다는 지적이 나왔다.",
+      "지난달 31일(현지시간) 정보기술(IT) 전문 매체 엔가제트는 틱톡숍에서 구입한 스티커를 2세대 레이밴 메타 AI글래스에 붙였다.",
+      "그 결과, 촬영 중임을 알리는 발광다이오드(LED)가 외부에서 거의 보이지 않는데도 카메라는 정상적으로 작동했다."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -642,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "스타트업",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
