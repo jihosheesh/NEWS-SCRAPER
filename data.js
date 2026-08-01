@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-01 01:32:51
+// 마지막 업데이트: 2026-08-01 03:00:47
 window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "20시간 전",
+    "source": "arunews.com",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -32,12 +32,12 @@ window.NEWS_DB = [
   {
     "id": "n8ba4b4fa",
     "category": "IT",
-    "source": "mt.co.kr",
+    "source": "머니투데이",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lNHJLZzhEdGREMDBvNktGLTdtQ1A4ZEFZaTVDYnA1clN0OE40Nm9hQkE0T0RaeGJfZHdXV3lJNFdrNWhEN08wZEFuRHRQU3pDYktvQ0w1dnNFemcwMnhIMWZMMm9TOXPSAWxBVV95cUxQaV8tWDFiNGs5QUE2WERwaE5JRmRjbDMta2twQlYtcXlhTF9GYTVRNHlTeDdzUGhGa0V6MkhrcDY2QlgtUXlCdWVDUXVVQ25FSkh1ek1OU1U4OXBBbkJMdkdtLUZOQ0EtZkhjSVA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 mt.co.kr."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 머니투데이."
     ],
     "chips": [
       "#스타트업"
@@ -62,7 +62,7 @@ window.NEWS_DB = [
     "id": "n6aa2d332",
     "category": "경제",
     "source": "Chosunbiz",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
@@ -87,6 +87,20 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nf633ad61",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TeXR5VDlRTVNUQlNqWWJkU1pIZXNjRzZhSXZhT1F2MjY4N3p0VzFGU2twWmxscU01cnRQNUI0NjRmTUFlNkhVS1ZJRUtKekNyb0FB?oc=5",
+    "title": "[ST포토] 고예지 치어리더, '쭉쭉'",
+    "summary": [
+      "[ST포토] 고예지 치어리더, '쭉쭉' 네이트."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -121,12 +135,12 @@ window.NEWS_DB = [
   {
     "id": "nadcbed93",
     "category": "IT",
-    "source": "businesspost.co.kr",
+    "source": "비즈니스포스트",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
-      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 businesspost.co.kr."
+      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -168,12 +182,12 @@ window.NEWS_DB = [
   {
     "id": "nc01e8f2e",
     "category": "사회",
-    "source": "브릿지경제",
+    "source": "viva100.com",
     "time": "32일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
-      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
+      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 viva100.com."
     ],
     "chips": [
       "#AI",
@@ -285,20 +299,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n01f4c085",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "130일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
-    "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n95ae41aa",
     "category": "사회",
     "source": "mstoday.co.kr",
@@ -312,6 +312,22 @@ window.NEWS_DB = [
       "#AI",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nbb2994a5",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153909",
+    "title": "계산대에 오른 AI...특화 업무부터 운영·보안까지 갈래 확장",
+    "summary": [
+      "기업의 AI 활용 범위가 확대되면서 관련 제품의 갈래도 다양해지고 있다.",
+      "문서 처리와 매장 운영 등 특화 시장을 겨냥한 제품들이 잇달아 산업 현장에 도입되고 있다.1일 업계에 따르면 최근 기업의 AI 전환(AX)을 지원하는 다양한 제품들이 현장에서 상품성을 검증받고 있다.",
+      "개별 업무에 특화된 설루션부터 개발·운영 플랫폼, 에이전트 통제, 취약점 진단에 이르기까지 AI 도입과 활용 전반에서 수요가 늘어날 전망이다.유통·제조 특화 서비스 도입..."
+    ],
+    "chips": [
+      "#AI"
     ]
   },
   {
@@ -364,278 +380,250 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne8e455a1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260801/134405095/1",
-    "title": "‘관저 특혜’ 의혹 윤한홍, 종합특검 첫 소환…“나와 관련 없어” 부인",
-    "summary": [
-      "‘대통령 관저 이전 특혜’ 의혹을 수사 중인 2차 종합특검(특별검사 권창영)이 1일 무자격 업체 ‘21그램’의 부당 선정에 관여한 혐의를 받는 윤한홍 국민의힘 의원을 첫 소환했다.종합특검은 이날 오전 10시부터 경기 과천 특검팀 사무실에서 직권남용권리행사방해 혐의로 윤 의원에 대한 피의자 조사를 진행한다.",
-      "지난 3월 ‘1호 강제수사’ 이후 4개월여 만이다.윤 의원은 이날 오전 9시37분쯤 정장 차림으로 특검팀에 출석했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n01d13266",
+    "id": "n1749d1e7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732495",
-    "title": "교육감 선거인단 모집에 학생 동원 의혹…교사 해임요구",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732540",
+    "title": "고속道 화재 25t 트럭, 가드레일 뚫고 추락…운전자 대피",
     "summary": [
-      "[수원=뉴시스] 박종대 기자 = 경기도평택교육지원청이 6·3 경기도교육감 진보 단일후보 경선 과정에서 학생을 선거인단 모집에 동원한 의혹을 받는 고교 교사 A씨에 대해 학교 측에 해임을 요구했다.",
-      "1일 경기도의회 국민의힘 김현석 의원이 해당 교육지원청으로부터 제출받은 복무감사 조사 결과에 따르면 A씨는 지난 4월 수업 시간 중 한 학생에게 교육감 예비후보 선거인단 가입 링크가 담긴 문자를 보냈고 이 링크가 다른 학생들에게 전달돼 단체대화방에 게."
+      "[고양=뉴시스] 김도희 기자 = 1일 오전 6시28분께 경기 고양시 덕양구 서울문산고속도로 남고양IC 인근에서 토사를 실은 25t 트럭에 불이 났다.",
+      "이후 트럭은 가드레일을 뚫고 난간 밖으로 추락했다.",
+      "트럭 운전자는 스스로 대피해 크게 다치지 않은 것으로 파악됐다."
     ],
     "chips": [
-      "#채용",
-      "#정치",
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n5f3233a3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/economy/2026/08/01/2026080109331221592",
-    "title": "7월 수출 989억 달러로 '역대 2위'…연내 1조 달러 수출 '청신호'",
+    "id": "n070dd8bc",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732421",
+    "title": "'38도 폭염' 실내 온열질환 2배 급증…\"적정 냉방 유지\"",
     "summary": [
-      "(종합) 우리나라 7월 수출이 반도체를 중심으로 IT·자동차·선박·소비재까지 고르게 늘며 1000억달러에 육박했다.",
-      "5개월 연속 800억달러를 웃돌고 올해 누적 수출도 6000억달러에 육박하면서 연간 수출 1조달러 달성에 청신호가 켜졌다.",
-      "1일 산업통상부가 발표한 '2026년 7월 수출입 동향'에 따르면 지난달 수출은 전년 동기 대비 62.8% 증가한 988억9000만달러를 기록했다."
+      "[서울=뉴시스] 강지은 기자 = 연일 기록적인 무더위가 지속되고 있는 가운데, 일 최고기온이 38도에 달하는 극한 폭염 시에는 실내에서도 온열질환자 비중이 2배 가량 증가하는 것으로 나타났다.",
+      "행정안전부는 1일 올여름 유럽과 일본 등 해외에서 발생한 폭염 인명 피해가 냉방이 어려운 주택에 집중된 사례를 소개하며, 폭염 특보 시 적극적인 실내 냉방 가동과 무더위 쉼터 이용 등을 당부했다.",
+      "올여름 관측 사상 가장 더운 폭염을 겪고 있는 프랑스는 지."
     ],
     "chips": [
-      "#반도체",
-      "#수출"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb91bf4a6",
+    "id": "n5c877aa0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731961",
+    "title": "\"앞이 안 보이더라도, 사진으로 추억은 남기세요\"[당신 옆 장애인]",
+    "summary": [
+      "[서울=뉴시스] 구무서 기자 = \"비장애인에게 사진은 놀이가 됐지만 장애인에게는 사진이 가진 본질, 기록과 추억이라는 가치가 더 크죠.",
+      "앞이 안 보인다고 해도 사진을 찍고 다시 추억할 수 있다면 삶이 더 풍요로워져요.\" 1일 뉴시스와 인터뷰를 나눈 시각장애인인 김태훈(51) 사진작가는 젊은 시절 소위 잘 나가는 벤처기업인이었다.",
+      "한 때 모 언론사에서 뽑았던 21세기를 이끌 젊은 벤처인으로 꼽혀 신문에 이름이 나가기도 했다."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nf0357018",
     "category": "IT",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026080110273668162",
-    "title": "오픈AI, 활성 이용자 10억명 돌파…챗GPT 출시 3년8개월 만",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731580",
+    "title": "\"쓰던 폰 꼭 가져오세요\"…삼성·애플, 중고폰까지 품나[폰 리스시대②]",
     "summary": [
-      "오픈AI의 인공지능(AI) 서비스 활성 이용자 수가 10억명을 넘어섰다.",
-      "오픈AI는 31일(현지시간) 자사 AI의 활성 이용자가 10억명을 돌파했고, 기업 고객도 200만곳을 넘어섰다고 밝혔다.",
-      "2022년 11월 30일 챗GPT를 출시한 지 3년 8개월 만이다."
+      "[서울=뉴시스]윤현성 기자 = 새 스마트폰을 판매한 제조사가 1~3년 뒤 같은 제품을 다시 거둬들이는 시장이 열리고 있다.",
+      "애플의 기기 리스와 삼성전자의 잔존가 보장형 구독이 확산하면 제조사는 신제품 판매뿐 아니라 반납·검수·재판매까지 제품의 생애주기 전반에 개입할 수 있게 된다.",
+      "소비자는 중고폰을 직접 팔아야 하는 번거로움을 줄일 수 있다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "na05427e5",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/01/MYZWEOLBMVTDSYZSMNQTAMBUMI/",
+    "title": "후반기 3승10패 파멸적 추락…\"LG 우승 돕겠다\" 이젠 진짜 카라스코 뿐인데, 상대를 잘못 만났다 [SC포커스]",
+    "summary": [
+      "[스포츠조선 김영록 기자] 메이저리그 112승, 39세 베테랑 외인이 후반기 추락하고 있는 LG 트윈스의 '날개'가 될 수 있을까.",
+      "카라스코는 1일 잠실구장에서 열리는 두산 베어스와의 한지붕 라이벌전에 선발등판한다.",
+      "역대 한국에 왔던 외국인 투수 중 무게감은 최고치다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf710f1e8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260801/134405169/2",
+    "title": "‘엄마 외모 창피해’ 결혼식 안 부른 직원 해고한 기업 회장",
+    "summary": [
+      "중국의 한 기업 회장이 어머니의 외모가 창피하다는 이유로 결혼식에 초대하지 않은 직원을 해고한 사실이 뒤늦게 알려졌다.",
+      "지난달 30일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 허난성 신샹시에 있는 허난 광산 크레인의 창업자인 추이페이쥔 회장은 21일 직원 자녀를 대상으로 여름 인턴십 및 연수 프로그램을 실시했다.",
+      "추이 회장은 개회식에서 효(孝)의 중요성 강조하며 “부모를 공경하는 것이 제대로 된 사람이 되기 위한 기본”이라고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0029bb75",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/GMYWKNJXGQYDEYLBGQ2WKNDEMU/",
+    "title": "은가은♥박현호, 2년안에 이혼설 도는데..축의금 30만원 갈등 '시母 삼자대면'(살림남)",
+    "summary": [
+      "[OSEN=하수정 기자] 은가은, 박현호가 쇼윈도 부부, 이혼설 등을 해명한 지 얼마나 됐다고, 이번에는 축의금 갈등을 빚는다.‘트로트 1호 부부’ 은가은, 박현호가 축의금을 둘러싸고 현실적인 부부 갈등을 빚는다.1일(토) 밤 10시 35분 방송되는 KBS 2TV ‘살림하는 남자들 시즌2’(이하 ‘살림남’)에서는 출산 후 육아와 생업을 병행 중인 은가은과."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncabd1d85",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801029200009",
+    "title": "허위정보 우려에…구글, '항공·위성사진 AI편집' 하루만에 철회",
+    "summary": [
+      "(서울=연합뉴스) 임화섭 기자 = 항공사진과 위성사진 등 지리정보를 바탕으로 지구 표면의 모습을 보여주는 서비스 '구글 어스'가 인공지능(AI)..."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n8e0d2fd2",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732501",
-    "title": "'만취' 45㎞ 씽씽…밤사이 2시간만에 음주운전 13명 적발",
-    "summary": [
-      "[수원=뉴시스] 양효원 기자 = 경기남부경찰청은 휴가철 음주운전 특별 단속을 벌여 13건의 음주 운전자를 적발했다고 1일 밝혔다.",
-      "이번 단속은 휴가철 전국 일제 단속 일환이다.",
-      "지난달 31일 오후 10시부터 이달 1일 0시까지 2시간 동안 경기남부 관내 유흥가와 번화가, 고속도로 톨게이트(TG) 등 음주운전 취약지 22곳에서 이뤄졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb23df01d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003730972",
-    "title": "[단독]양양 10억 풍력기금 지급 논란…\"깜빡해서 누락\"",
-    "summary": [
-      "[양양=뉴시스] 이순철 기자 = 한계령 초입 마을인 양양군 서면 공수전리 마을에 풍력발전단지 조성과 관련된 배당금이 일부 주민에 미지급돼 논란이 일고 있다.",
-      "1일 뉴시스 취재를 종합하면 양양군 서면 공수전리에서 펜션을 운영하는 A씨는 최근 마을 앞에 건설된 풍력 발전시설과 관련 지난 2022년에 풍력 발전 업체로부터 마을발전기금 10억을 받아 가구당 1000만원씩 배당된 사실을 알게됐다.",
-      "하지만 A씨에게 배당금이 전달되지 않았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n196115ba",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732425",
-    "title": "\"아들 하나는 있어야\"는 옛말?…70대 고령층에서도 두드러진 '딸 선호'",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 자녀 관련 인식을 조사한 결과 아들보다 딸을 선호하는 사람이 많은 것으로 나타나 남아선호 사상이 약해졌다는 분석이 나왔다.",
-      "최근 한국리서치는 만 18세 이상 남녀 1000명을 대상으로 진행한 '2026 자녀·육아인식조사' 결과를 발표했다.",
-      "보고서에 따르면 '딸이 하나는 있어야 한다'는 응답은 62%로 나타났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb097a43d",
+    "id": "n74bf2ff0",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/08/01/2026073109570124644",
-    "title": "계속된 피로·자꾸 붓는 얼굴…면역 균형이 보내는 '갑상선'의 경고",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/international/us/2026/08/01/AGOR2SSMRNCOHBEKNX53MZBHZE/",
+    "title": "베선트 메모에 적힌 ‘엔화 100억달러 매수’…美, 15년 만에 日 시장 개입?",
     "summary": [
-      "고령화시대의 건강관리 '건(健)테크' (265) 갑상선기능저하증 머니투데이가 고령화 시대의 건강관리 '건(健)테크'를 연재합니다.",
-      "100세 고령화 시대 건강관리 팁을 전달하겠습니다.",
-      "피곤하고 체중이 늘어났다면 단순히 '나이가 들어서'라고 생각하기 쉽다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6f540376",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801011251071",
-    "title": "\"미국·이스라엘, 이번 주말 이란 에너지 인프라 공습 계획\"(종합)",
-    "summary": [
-      "(워싱턴·서울=연합뉴스) 박성민 특파원 신재우 기자 = 미국과 이스라엘이 이번 주말(8월 1∼2일) 이란의 에너지 인프라를 대상으로 역대 가장 ..."
+      "베선트 메모에 적힌 ‘엔화 100억달러 매수’…美, 15년 만에 日 시장 개입?."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nde6d1790",
+    "id": "n2a9fee5d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801025400083",
-    "title": "中 출입국 규정 강화…산업·기술안보 위협 땐 자국민 출국 제한",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801029000371",
+    "title": "[인사] 한국국제교류재단(KF)",
     "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 중국이 산업·기술안보를 해칠 우려가 있는 자국민의 출국을 제한할 수 있도록 출입국 관리 규정을 강화했다."
+      "[인사] 한국국제교류재단(KF)."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6b186bf3",
+    "id": "nf1edf6fa",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026080110123437766",
-    "title": "머스크의 실탄 1억달러, 美중간선거 공화당 지원사격",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801028700062",
+    "title": "인제서 화물차가 가드레일 들이받아…60대 운전자 중상",
     "summary": [
-      "세계 최고 부자인 일론 머스크 스페이스X·테슬라 최고 경영자(CEO)가 오는 11월 미국의 중간선거를 앞두고 공화당에 1억달러가 넘는 거액을 지원할 예정인 것으로 알려졌다.",
-      "미국 정치매체 악시오스와 뉴욕타임스(NYT) 등은 지난 31일(현지시간) 머스크가 직접 설립한 슈퍼팩(Super PAC·정치 자금 모금 단체) '아메리카 팩'을 되살리고 있다며 이와 같이 보도했다.",
-      "아메리카 팩은 2024년 대통령 선거 당시 도널드 트럼프 당시 공."
+      "(인제=연합뉴스) 류호준 기자 = 1일 오전 9시 42분께 강원 인제군 인제읍 한 도로에서 60대 A씨가 몰던 1t 화물차가 가드레일을 들이받았..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne7f3570b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801028600005",
+    "title": "'해적'이 된 서민준, 하늘을 날다…'갤럭시 노바 온 스테이지'",
+    "summary": [
+      "(서울=연합뉴스) 임순현 기자 = 지난달 31일 서울아트센터 도암홀에서 열린 '갤럭시 노바 온 스테이지'는 한국 무용계의 미래를 책임질 젊은 무..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc6f326a6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134405159/1",
+    "title": "QWER, ‘펜타포트’ 메인 스테이지 장악…경쾌 밴드 퍼포먼스",
+    "summary": [
+      "걸밴드 QWER이 청량한 음악으로 ‘펜타포트 락 페스티벌’를 꽉 채웠다.QWER은 지난달 31일 인천 송도달빛축제공원에서 열린 ‘2026 인천펜타포트 락 페스티벌’에 출격했다.이날 QWER은 일본 데뷔곡이자 애니메이션 ‘도굴왕’의 오프닝곡 ‘쇼 다운’으로 공연의 포문을 연 뒤 ‘지구정복’, ‘가짜 아이돌’, ‘피오니어’, ‘오버드라이브’, ‘배드 해빗’, ‘눈물참기’, ‘아워 보야지’, ‘고민중독’까지 빈틈없는 세트리스트로 무대를 장식했다.특히."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb0a98e1",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "33분 전",
+    "url": "https://www.hankyung.com/article/2026080191487",
+    "title": "이언주 \"'보완수사권 폐지' 형소법 개정 유감…신중했어야\"",
+    "summary": [
+      "이언주 \"'보완수사권 폐지' 형소법 개정 유감…신중했어야\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf4046b79",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "45분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/08/01/R35FQSIGNZDZVLBNIH76KLG5O4/",
+    "title": "한동훈 “보완수사권 폐지, ‘좀비 정치’ 사례… 공천권 국민에게 줘야”",
+    "summary": [
+      "한동훈 “보완수사권 폐지, ‘좀비 정치’ 사례… 공천권 국민에게 줘야”."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n14737941",
+    "id": "n501ebde1",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026080110190755501",
-    "title": "[부고] 박찬대(인천광역시장)씨 모친상",
+    "source": "한국경제",
+    "time": "58분 전",
+    "url": "https://www.hankyung.com/article/2026080191407",
+    "title": "與 \"남미 순방, 미래 성장동력 확보…실용외교 결실 뒷받침\"",
     "summary": [
-      "[부고] 박찬대(인천광역시장)씨 모친상."
+      "與 \"남미 순방, 미래 성장동력 확보…실용외교 결실 뒷받침\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5933053d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/01/G5SGKNZUMVSDOMLBMJRTQMDGGQ/",
-    "title": "'17년 기다림 끝!' 한국 골키퍼 최초 바이에른 뮌헨 입단...주인공은 18세 허재원",
-    "summary": [
-      "[OSEN=우충원 기자] 한국 축구에 새로운 이정표가 세워졌다.",
-      "제주SK 유소년 출신 골키퍼 허재원(18)이 독일 분데스리가 명문 바이에른 뮌헨 유니폼을 입는다.제주SK는 1일 \"허재원이 바이에른 뮌헨으로 이적한다\"며 \"2027년 1월까지 6개월 임대 계약을 맺었고, 일정 조건을 충족하면 완전 이적이 가능한 옵션도 포함됐다\"고 발표했다.이번 이적은 제주SK."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2c79c7ec",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "13분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153907",
-    "title": "[카드뉴스] e스포츠는 이제 '중계'보다 '팬덤'이다.. SOOP이 글로벌 게임사들의 파트너가 된 이유는?",
-    "summary": [
-      "라이엇 게임즈, 블리자드, 텐센트, EA까지.",
-      "글로벌 게임사들이 SOOP과의 협력을 잇달아 확대하고 있습니다.",
-      "단순히 중계를 맡기기 위해서만은 아닙니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7b267552",
+    "id": "n814c5a14",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080110085292799",
-    "title": "효연 \"수영, 기력 없어 보여\"…'정경호와 결별' 간접 언급?",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202607318280i",
+    "title": "8시간 연속 근무는 옛말…잘게 쪼개 일하니 성과가 '쑥' [한명현의 오피스로그]",
     "summary": [
-      "그룹 소녀시대 효연(36)이 유닛 효리수로 함께 활동 중인 유리(36), 수영(36)을 향한 애정을 내비쳤다.",
-      "지난달 29일 유튜브 채널 '효연의 레벨업'에는 효연, 유리, 수영이 MBC 사옥을 방문해 '쇼! 음악중심' CP(총 프로듀서)를 만나 이야기를 나누는 모습이 그려졌다.",
-      "영상에서 세 사람은 CP에게 앞으로 효리수의 계획을 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2b9c1dea",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/international/asia/2026/08/01/MXF6J2FLCFEPJGX77M5MYADAKU/",
-    "title": "“李 요청하면 평양 가겠다”…印尼 프라보워, 대북 대화 중재 의사 공개",
-    "summary": [
-      "“李 요청하면 평양 가겠다”…印尼 프라보워, 대북 대화 중재 의사 공개."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfab573a6",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026080110162244188",
-    "title": "'관저 의혹' 윤한홍 의원 종합특검 피의자 조사 출석",
-    "summary": [
-      "대통령실 관저 이전 과정에서 부지 변경과 시공업체 선정에 부당하게 개입했다는 의혹을 받는 윤한홍 국민의힘 의원이 1일 권창영 2차 종합특검팀에 출석했다.",
-      "윤 의원은 이날 오전 9시 30분께 직권남용권리행사방해 혐의를 받는 피의자 신분으로 특검에 나왔다.",
-      "윤석열 정부 당시 청와대 이전 태스크포스(TF) 팀장을 맡았던 윤 의원은 관저 이전 업무를 총괄하면서 부지와 공사업체 선정 과정에 부당한 영향력을 행사한 혐의를 받."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5edfd8aa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801024300004",
-    "title": "휴가철 금요일밤 전국 음주운전 320건 적발…면허취소 185건",
-    "summary": [
-      "(서울=연합뉴스) 윤민혁 기자 = 본격적인 여름 휴가철을 맞은 금요일 밤 전국에서 수백명이 음주운전을 하다 경찰 단속에 걸렸다."
+      "8시간 연속 근무는 옛말…잘게 쪼개 일하니 성과가 '쑥' [한명현의 오피스로그]."
     ],
     "chips": [
       "#뉴스"
@@ -648,20 +636,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "삼성전자",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
