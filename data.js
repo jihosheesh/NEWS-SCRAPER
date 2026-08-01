@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-01 12:18:30
+// 마지막 업데이트: 2026-08-01 13:29:16
 window.NEWS_DB = [
   {
     "id": "na3d392e4",
     "category": "IT",
     "source": "미디어파인",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdVBCS1NrVG5IUi1iQXZneElHR1NUWmFTUGlLNTJRdzdpT3E0ZkwtUEVWRzJtTmJhb2VQNWpuYTRDZkxlY2NJVElKWHdHeWFnUnZBR3BQX0NtajREc1NMUTUxcFg1NHV2Uy1xRXB3?oc=5",
     "title": "엔비디아, 애플 제치고 시총 1위 탈환-AI 반도체 경쟁력 다시 입증",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n028b05fa",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVN093ZW80cTFTb0hsNHh5TXdQNUs4YndTOGx4RlBwY3E5bnlaSTF1ZHozOWJkS2pQMjVfUUpZUUNEaGxZQmJZTVVjbDdCYU96S3hDakxESmRVQQ?oc=5",
     "title": "엔비디아, 나흘 만에 시가총액 1위 복귀",
     "summary": [
@@ -60,14 +60,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8ba4b4fa",
+    "id": "n0c06c07a",
     "category": "IT",
-    "source": "mt.co.kr",
+    "source": "유니콘팩토리",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lNHJLZzhEdGREMDBvNktGLTdtQ1A4ZEFZaTVDYnA1clN0OE40Nm9hQkE0T0RaeGJfZHdXV3lJNFdrNWhEN08wZEFuRHRQU3pDYktvQ0w1dnNFemcwMnhIMWZMMm9TOXPSAWxBVV95cUxQaV8tWDFiNGs5QUE2WERwaE5JRmRjbDMta2twQlYtcXlhTF9GYTVRNHlTeDdzUGhGa0V6MkhrcDY2QlgtUXlCdWVDUXVVQ25FSkh1ek1OU1U4OXBBbkJMdkdtLUZOQ0EtZkhjSVA?oc=5",
-    "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
+    "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 mt.co.kr."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -105,32 +105,18 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "쿠키뉴스",
+    "source": "kukinews.com",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
     ],
     "chips": [
       "#AI",
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n56609ab4",
-    "category": "IT",
-    "source": "스타트업엔(StartupN)",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
-    "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
-    "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -163,6 +149,22 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
+    ]
+  },
+  {
+    "id": "n04a5a105",
+    "category": "경제",
+    "source": "자유일보",
+    "time": "20일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SRzBTRWRPMy1lVTc4ZWVKbkl4dEZLdVdQTzJGVVBtOVJXUVQyUmwxakF4bkRHcjFYaUt6aUdrQjZaaW50dkotOTRkbklveG5nQUE2YkhQalF4ZDdiTDZyb1hLT0t0aVBNdFhr0gFvQVVfeXFMT010ZzFPSEdRZ0lGaU4yeW1pUzUxVm1lUG1MRW9ib0JqMWhSY09pVlV0UVM2dHBHTFhLRmREU0FYSjhlVFMtSDlEYnZTSXlJVVRaNWppa1d4eEtaVlVzUVMxOUI5U21teFQxU1NxczU4?oc=5",
+    "title": "물가·환율·집값 '3중 압박'…한은 금리 인상 초읽기",
+    "summary": [
+      "물가·환율·집값 '3중 압박'…한은 금리 인상 초읽기 자유일보."
+    ],
+    "chips": [
+      "#부동산",
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -209,20 +211,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n244b01bd",
-    "category": "경제",
-    "source": "스트레이트뉴스",
-    "time": "46일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
-    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
-    "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
-    ],
-    "chips": [
-      "#금리"
     ]
   },
   {
@@ -315,6 +303,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "159일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nf3f90ec9",
     "category": "IT",
     "source": "테크M",
@@ -364,91 +366,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1507cb92",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/society/2026/08/01/2026080121020063924",
-    "title": "서울 온열질환자 5명 늘어 누적 158명…\"다음주 37도까지 오른다\"",
-    "summary": [
-      "서울 누적 온열질환자 58명…2명 사망 오는 4일 낮 최고기온 37도까지 오를 듯 꺾이지 않는 폭염으로 서울에서 온열질환자 5명이 추가로 발생해 누적 온열질환자가 158명으로 늘었다.",
-      "1일 뉴스1에 따르면 지난달 31일 서울에 온열질환자 5명이 추가됐다.",
-      "지난 5월15일부터 지난달 31일까지 서울의 누적 온열질환자는 158명으로, 그 중 2명이 숨졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2480e01e",
-    "category": "스포츠",
+    "id": "nf2b93752",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732739",
-    "title": "거침없는 KT, 이틀 연속 한화 꺾고 5연승 신바람…70일 만에 1위 탈환",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732750",
+    "title": "의정부 동부간선도로 진입로서 7중 추돌 사고",
     "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 KT 위즈가 5연승을 질주하면서 70일 만에 1위 자리를 되찾았다.",
-      "KT는 1일 수원 KT위즈파크에서 벌어진 2026 신한 쏠 KBO리그 한화 이글스와의 경기에서 7-4로 승리했다.",
-      "이틀 연속 한화를 꺾으며 5연승을 내달린 KT는 58승 2무 36패, 승률 0.617을 기록해 이날 폭염으로 경기를 치르지 않은 삼성 라이온즈(59승 2무 37패·승률 0.615)를 제치고 단독 선두로 나섰다."
+      "[의정부=뉴시스] 송주현 기자 = 경기 의정부시 장암동 한 도로에서 7중 추돌 교통사고가 발생했다.",
+      "1일 오후 9시께 의정부시 장암동 동부간선도로 진입로에서 발생한 7중 추돌 교통사고로 1명이 경상을 입고 병원에서 치료 중이다.",
+      "다행히 큰 인명 피해는 발생하지 않았다."
     ],
     "chips": [
-      "#KBO"
+      "#의료"
     ]
   },
   {
-    "id": "ne5a6d7e6",
+    "id": "nf3c6072e",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801049500009",
-    "title": "뒤바뀐 AI 왕좌…WSJ \"오픈AI 챗GPT 공들이다 앤트로픽에 추월\"",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/MZSDQZRRMQ4TIZJQGRTDKMTFMI/",
+    "title": "이현이, 초등 아들 AI 책 집필에 감동 \"아이가 AI를 시켜서..\"('워킹맘이현이')",
     "summary": [
-      "(서울=연합뉴스) 김승욱 기자 = 생성형 인공지능(AI) 열풍을 일으킨 오픈AI가 소비자용 챗봇에 집중하는 사이 경쟁사 앤트로픽에 AI 주도권을..."
+      "<리뷰 : 방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=오세진 기자] '워킹맘이현이' 모델 이현이가 큰아들 윤서의 AI 활용에 감동했다.1일 이현이의 유튜브에서는 ‘AI를 쓸수록 바보가 된다고요? 뇌 과학자 장동선의 돈 버는 AI 필승법 대공개’란 영상이 공개됐다.",
+      "이현이는 뇌 과학자 장동선 박사와 활발히 AI 사용에 대해 이야기를 나누었다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "nd8997f66",
+    "id": "nf7940ed5",
     "category": "사회",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/GRQTCMJZMM3DGZDFG4ZDKOBTGA/",
-    "title": "개리, 미련없이 연예계 떠나더니..아내·子과 이민 고민하나 \"방콕에 살아도..\" [핫피플]",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732743",
+    "title": "이탈리아, '세우타 사태'에 스페인 국경 통제…EU 22개국은 긴급회의 요구",
     "summary": [
-      "[OSEN=하수정 기자] 리쌍 출신 개리가 해외를 여행 중인 근황을 공개했다.개리는 1일 \"뱅콕에 살아도 좋겠다는 생각이\"라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속에는 개리가 가족들과 태국으로 여행을 떠난 모습이 담겨 있다.",
-      "개리는 아내, 아들과 태국의 수도 방콕을 찾았고, 평범한 길거리를 비롯해 여러 관광지를 돌아다니면서 행복한 시간을 보."
+      "[서울=뉴시스] 이재우 기자 = 이탈리아가 스페인령 세우타에서 발생한 이주민 난입 사태를 이유로 스페인발 항공·해상 입국자에 대한 한시적 국경 통제를 재도입했다.",
+      "스페인과 이탈리아 모두 솅겐조약 회원국이다.",
+      "솅겐조약은 유럽 연합(EU) 회원국간 자유로운 통행을 규정한 협정으로 솅겐조약 가입국 사이에는 원칙적으로 국경 검문 없이 이동할 수 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncac7257b",
+    "id": "naa61c0b8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/01/MM2GIYLEMUYTKYZXG4YTIYJQGY/",
+    "title": "‘인중→입꼬리 성형’ 맹승지, 이마거상 고민 토로했다 혼쭐 “얼굴로 욕심내지 마”",
+    "summary": [
+      "[OSEN=임혜영 기자] 코미디언 출신 맹승지가 이마거상을 고민하다가 팬들의 만류에 포기했다.맹승지는 지난 7월 31일 개인 채널에 “요즘 세대는 스마트폰 때문에 노화가 빨라져서 20~30대도 이마거상 많이 한다고 하네요! 인위적인 거 같지도 않아서 고민되네요? 할까요? 말까요?”라는 글을 게재하며 이마거상을 고민 중인 모습을 보였다.이와 함께 공개한 영상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1035bc80",
     "category": "스포츠",
     "source": "조선일보",
     "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/01/GBQWGNRXGM4TKYRSMZQTIOJXMY/",
-    "title": "한화 새 외인에 7실점 악몽 선사! 5연승 KT, 삼성 끌어내리고 70일 만에 1위 도약…배제성 373일 만에 감격 승리 [수원 리뷰]",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/01/HAYTEZLBGE3WCMLGGNRTENRVGM/",
+    "title": "뜬공 실책 '불안' → 1이닝 7실점 난타 '충격' → 문현빈 교체 후 삼중살 '악몽'…노시환X허인서 홈런포 부질없네. KT, 한화 잡고 5연승+70일만의 선두 탈환 [수원리뷰]",
     "summary": [
-      "[OSEN=수원, 이후광 기자] KT가 드디어 삼성을 끌어내리고 1위로 올라섰다.",
-      "프로야구 KT 위즈는 1일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 한화 이글스와의 시즌 10번째 맞대결에서 7-4로 승리했다.",
-      "KT는 파죽의 5연승을 질주하며 폭염으로 사직 경기가 취소된 1위 삼성 라이온즈를 제치고 1위로 올라섰다."
+      "[수원=스포츠조선 김영록 기자] KT 위즈의 타선이 불을 뿜었다.",
+      "'투수 장인'이 구축한 막강 불펜은 또한번 그 가치를 증명했다.",
+      "한창 불붙던 다이너마이트 타선에 찬물을 뿌려졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ce41a30",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801053100007",
+    "title": "무더위와도 싸우는 FC서울 김기동 \"8월, 지지 않고 버텨보겠다\"",
+    "summary": [
+      "(전주=연합뉴스) 안홍석 기자 = \"무더운 8월, 지지 않고 버티는 쪽으로 해보겠습니다.\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndcd52601",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801047300005",
+    "title": "폭염보다 뜨거웠던 펜타포트…英 매시브어택 '시대유감' 열창도",
+    "summary": [
+      "(인천=연합뉴스) 이태수 기자 = '왜 기다려왔잖아∼ 모든 삶을 포기하는 소리를∼ 이 세상이 모두 미쳐버릴 일이 벌어질 것 같네∼!'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1abf86c8",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801053000007",
+    "title": "2골 내주고 헤이스 ２골…K리그2 수원, 충북청주와 극적 무승부",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = 프로축구 K리그2(2부) 수원 삼성이 충북청주에 덜미를 잡힐 뻔했다가 헤이스의 연속골로 극적인 무승부를 거뒀다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0bc8db38",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801052900081",
+    "title": "EU 22개국, '세우타 사태' 긴급 화상회의 소집 요구",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 유럽연합(EU)의 22개 회원국이 스페인 세우타의 모로코 이주민 난입 사태와 관련해 유럽 내무장관들의 긴급 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6e403c86",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732745",
+    "title": "'뼈아픈 동점골' 허용 천안시티, 용인과 비겨…아산은 홈에서 성남에 승리",
+    "summary": [
+      "[천안·아산=뉴시스]최영민 기자 = K리그2 천안시티FC(천안)가 경기 막판 통한의 동점골로 홈 승리를 놓쳤다.",
+      "천안은 1일 천안종합운동장에서 열린 하나은행 K리그2 20라운드 용인FC(용인)와 경기에서 후반 추가시간 상대에 동점골을 허용해 2:2로 비겼다.",
+      "최근 4연패에 시달리던 천안은 이날 경기 초반에도 용인 공격수 가브리엘에게 전반 14분 선제골을 허용하며 불안하게 출발했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe03ac11",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003730894",
+    "title": "95㎏ 감량 50대 남성…'이 음식' 끊고 매일 같은 식단 먹은 결과",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 영국의 한 50대 남성이 패스트푸드를 끊고 규칙적인 식단과 운동을 2년 가까이 이어간 끝에 약 95㎏을 감량했다.",
+      "29일 영국 매체 더 미러에 따르면 영국 켄트주에 거주하는 브래드 로저스는 어린 시절부터 체중 문제를 겪었지만 20대에는 세미프로 축구선수로 활동했다.",
+      "그러나 운동을 멀리하고 배달 음식과 패스트푸드를 즐기면서 체중은 2021년 168.3㎏까지 늘었고 조금만 걸어도 숨이 차 아들과 축구를 할 수조차."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2bb687c2",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/01/2026080115043050490",
+    "title": "'어깨 부상→2군 강등' 복귀 373일 만의 예비역 승리에 KT 모두가 기뻐했다! 사령탑도 함박웃음 \"자기 역할 다했다\" [수원 현장]",
+    "summary": [
+      "우여곡절 끝에 승리를 챙긴 '예비역 1년 차' 배제성(30)에 KT 위즈 모두가 기뻐했다.",
+      "배제성은 1일 수원KT위즈파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 한화 이글스와 홈 경기에 선발 등판해 5이닝 7피안타(2피홈런) 2볼넷 3탈삼진 4실점으로 한화의 7-4 승리를 이끌었다.",
+      "이로써 KT는 5연승을 내달리며 58승 2무 36패(승률 0.617)로 이날 폭염 취소로 경기가 없던 삼성 라이온즈(59승 2무 37패·승률 0.615."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n386dae51",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801049151001",
-    "title": "김민석, '與대표 첫 경선' 충청 당원투표서 정청래에 박빙 승리(종합)",
+    "id": "naa61ca89",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "32분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/01/2026080121294331313",
+    "title": "중동 美 대사관들 자국민에 \"출국 준비 권고…확전 가능성 있어\"",
     "summary": [
-      "(대전·서울=연합뉴스) 김남권 최평천 안정훈 기자 = 더불어민주당 김민석 후보가 당 대표 선출을 위한 첫 순회 경선(충청권) 권리당원 투표에서 ..."
+      "요르단·이스라엘·이라크·UAE 주재 美 대사관 보안 경고 게재 \"중동 지역 예기치 못한 확전 가능성…이란 행보 예측 불가능\" 중동 지역 주재 미국 대사관들이 역내 분쟁이 예상치 못하게 악화될 수 있다며 현지에 체류 중인 자국민들에게 출국 준비를 권고했다.",
+      "1일 뉴스1과 AFP통신 등 외신에 따르면 요르단 암만과 이스라엘 예루살렘, 이라크 바그다드, 아랍에미리트(UAE) 아부다비 주재 미 공관들은 이날 SNS(소셜미디어)와 공식 홈페이지에 서로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf3aaf8e6",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "39분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/01/2026080121412113267",
+    "title": "소음 문제로 말다툼하다 흉기…같은 병실 환자 살해한 70대 체포",
+    "summary": [
+      "요양병원에 입원 중이던 70대 남성이 같은 병실 환자를 흉기로 살해해 경찰에 붙잡혔다.",
+      "1일 뉴시스에 따르면 광주 북부경찰서는 살인 혐의로 A씨를 현행범 체포해 조사하고 있다.",
+      "A씨는 이날 오후 6시43분쯤 광주 북구 한 요양병원에서 같은 병실 환자인 70대 남성 B씨를 살해한 혐의를 받는다."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "na560dfe3",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "42분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/01/2026080115252624182",
+    "title": "'혼돈의' 잠실 연장 11회말→경기 다 끝났는데 '격렬 항의' 왜 두산 김원형 감독은 더그아웃 박차고 나갔나 [잠실 현장]",
+    "summary": [
+      "김원형 두산 베어스 감독이 경기가 끝난 뒤 격렬하게 항의했다.",
+      "혼돈의 잠실야구장 연장 11회말이었다.",
+      "두산은 1일 서울 잠실야구장에서 펼쳐진 LG 트윈스와 2026 신한 SOL KBO 리그 정규시즌 홈경기에서 2-2 무승부를 거뒀다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ndef3ea50",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "43분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260801/134405589/1",
+    "title": "서울 찜통더위 지속…온열질환자 5명 늘어 누적 158명",
+    "summary": [
+      "연일 이어지는 찜통더위로 서울에서 온열질환자 5명이 추가로 발생해 누적 온열질환자가 158명으로 늘었다.1일 서울시에 따르면 전날(31일) 온열질환자 5명이 추가됐다.",
+      "올해 5월 15일부터 전날까지 서울의 누적 온열질환자는 158명으로, 이 가운데 2명이 숨졌다.서울 동남권과 서남권, 동북권 19개 자치구에는 폭염경보가 발효 중이다.",
+      "서북권 6개 자치구에는 폭염주의보가, 서울 전역에는 열대야주의보가 내려져 있다.서울시는 지난달 29일 오전 11."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6dbf4f3d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "43분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134405585/1",
+    "title": "김민하, 청룡시리즈 어워즈 축하 무대 소감 “너무 떨리고 벅찬 순간”",
+    "summary": [
+      "배우 김민하가 “너무 떨리고 벅찬 순간이었다”며 제5회 청룡시리즈어워즈에서 축하 무대를 선보인 소감을 밝혔다.",
+      "김민하는 1일 자신의 사회관계망서비스(SNS) 계정에 “너무나도 떨렸고 벅찬 순간이었습니다! 소중한 순간 정말 감사드리고 모든 수상자 분들 진심으로 축하드립니다”라는 글과 함께 여러 장의 사진을 공개했다.",
+      "공개된 사진은 축하 무대 전후에 찍힌 것으로 김민하의 다양한 표정이 담겼다."
     ],
     "chips": [
       "#뉴스"
@@ -458,182 +630,11 @@ window.NEWS_DB = [
     "id": "nc47395b5",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260801050900030",
     "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
     "summary": [
       "(서울=연합뉴스) 홍국기 기자 = 맥도날드 '충주 찰옥수수 치즈 크로켓 버거'에서 돌이 씹힌다는 민원이 잇달아 접수되면서 판매가 조기 종료됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7a2470df",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801051100081",
-    "title": "'英총리 교체로 공석' 맨체스터시장 선거 집권 노동당 압승",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 앤디 버넘 영국 총리가 하원의원으로 자리를 옮기면서 공석이 된 그레이터 맨체스터 시장 보궐선거에서 노동당이 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbced290b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732737",
-    "title": "1235회 로또 1등 각 30억씩…자동7명·수동2명(종합)",
-    "summary": [
-      "[서울=뉴시스]최은수 기자 = 1일 제1235회 동행복권 로또 추첨 결과 6, 7, 11, 15, 39, 43이 1등 당첨 번호로 결정됐다.",
-      "2등 보너스 번호는 20이다.",
-      "6개 번호를 모두 맞춘 1등 당첨자는 9명이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n05b2ce36",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/01/MI3GEMBZMY4DCNZWGFQTQMLCMI/",
-    "title": "한화 억장 와르르! 1이닝 7피안타 7실점이라니…불안요소 대폭발 → 노시환X허인서 홈런포로 만회 [수원현장]",
-    "summary": [
-      "[수원=스포츠조선 김영록 기자] \"직구보다 (포크볼성)체인지업, 슬라이더를 더 많이 던지는 모습이 눈에 띈다.",
-      "베테랑 타자들은 한번 상대해보면 맞춰갈 가능성이 높다.",
-      "오늘은 다른 모습을 보여줘야하지 않을까.\" 박용택 해설위원이 꼽은 한화 이글스의 불안요소가 제대로 터졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb0cc2766",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/01/2026080117400471202",
-    "title": "김민석, 與충청권 경선서 박빙 승리…최고위원은 '친청' 최민희 1위",
-    "summary": [
-      "[the300](종합) 충북·충남 김민석, 대전·세종 정청래 1위…'0.44%p'차로 金 승리 최민희, 4개 지역 모두 1위…2위는 '친명' 박선원 8·17 더불어민주당 전당대회 권역별 순회경선 첫 일정인 충청권(충남·충북·대전·세종) 권리당원 투표에서 김민석 후보가 45.05% 득표율로 승리를 거뒀다.",
-      "2위인 정청래 후보와 303표(0.44%p) 차로 초박빙 승부를 벌였다.",
-      "소병훈 민주당 중앙당 선거관리위원장은 1일 대전컨벤션센터에서 열린 당."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5912ffad",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/01/2026080115030014210",
-    "title": "'한 이닝 7득점 대폭발' 폭염보다 뜨거운 KT, 70일 만의 1위 탈환! 한화 7-4 꺾고 파죽 5연승 [수원 현장리뷰]",
-    "summary": [
-      "KT 위즈가 이틀 연속 한화 이글스 선발 투수들을 무너트리며 파죽의 5연승을 질주했다.",
-      "KT는 1일 수원KT위즈파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 홈 경기에서 한화에 7-4로 승리했다.",
-      "이로써 KT는 5연승을 내달리며 58승 2무 36패(승률 0.617)로 이날 폭염 취소로 경기가 없던 삼성 라이온즈(59승 2무 37패·승률 0.615)와 승차를 지우고 승률에서 앞선 1위로 올라섰다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nbea45b62",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026080120545066537",
-    "title": "1235회 로또 1등 9명…당첨금 각 30억9000만원",
-    "summary": [
-      "로또복권 운영사 동행복권은 1일 제1235회 로또복권 추첨에서 '6, 7, 11, 15, 39, 43'이 1등 당첨번호로 뽑혔다고 밝혔다.",
-      "2등 보너스 번호는 '20'이다.",
-      "당첨번호 6개를 모두 맞힌 1등 당첨자는 9명으로 30억9096만원씩 받게 된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na5111963",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/01/2026080118333380883",
-    "title": "한국 꺾고 남아공 새 역사 쓴 브로스 감독, 눈물의 은퇴 \"가족과 떨어져 힘들었다\"",
-    "summary": [
-      "2026 국제축구연맹(FIFA) 북중미 월드컵에서 한국을 꺾고 남아프리카공화국 축구의 새 역사를 쓴 휴고 브로스(74) 감독이 눈물 속에 은퇴를 선언했다.",
-      "남아공 매체 IOL은 1일(한국시간) \"브로스 감독이 남아공축구협회에서 열린 기자회견을 통해 대표팀 감독직 사임을 공식 발표했다\"며 \"이로써 브로스 감독과 남아공 대표팀의 동행도 막을 내렸다\"고 전했다.",
-      "벨기에 출신인 브로스 감독은 1952년생 베테랑 지도자다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nddf919f9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732734",
-    "title": "1235회 로또 1등 6, 7, 11, 15, 39, 43…보너스 20",
-    "summary": [
-      "[서울=뉴시스]최은수 기자 = 1일 제1235회 동행복권 로또 추첨 결과 6, 7, 11, 15, 39, 43이 1등 당첨 번호로 결정됐다.",
-      "2등 보너스 번호는 20이다.",
-      "6개 번호를 모두 맞춘 1등 당첨자는 9명이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf3cdadc1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732730",
-    "title": "이란군 \"美 방패되는 모든 국가, 전쟁의 불길 휩싸일 것\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 이란군 고위 관계자는 1일(현지시간) \"이슬람 국가들은 미국의 범죄 행위를 주시하며 미국과 협력 관계를 재검토해야 한다\"고 촉구했다.",
-      "이란 반관영 메흐르통신에 따르면 이란군 합동작전사령부인 하탐 알안비야의 알리 압돌라히 사령관은 이날 성명에서 \"그렇지 않고 스스로를 범죄적이고 침략적인 미국의 방패로 내세우는 모든 국가는 전쟁의 불길 속에서 불타게 될 것\"이라며 이같이 밝혔다.",
-      "그는 \"미국은 역내 전쟁을 광범위한."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd941a748",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260801/134405582/1",
-    "title": "트레저헌터 in 진안 사전등록…제대로 즐기고 5000만 원 받는 법",
-    "summary": [
-      "전라북도 진안군(이하 진안군)과 한국수자원공사가 주최하고 동아일보와 플랫폼 기업 퓨잇이 주관하는 지역탐방형 보물찾기 축제 ‘트레저헌터 in 진안’이 8월 1일부터 사전등록에 들어간다.",
-      "누구나 손쉽게 즐기는 보물찾기 형식인 이 행사의 참가자들에게는 5000만 원의 상금과 수백 종 이상의 경품이 주어질 예정이다.8월 29일부터 9월 19일까지 3주간 진행 예정인 트레저헌터 in 진안의 무대는 진안군 내 명소 일곱 곳이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n208e94bb",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134405577/1",
-    "title": "‘란제리 룩’ 제니, 발등 위에 새로 새긴 천사 타투 ‘눈길’ [N샷]",
-    "summary": [
-      "블랙핑크 제니가 발등 위에 새긴 천사 모양의 타투로 국내외 팬들의 이목을 끌고 있다.영국 런던에서 활약 중인 유명 타투이스트는 최근 자신의 사회관계망서비스(SNS) 계정에 제니가 올린 사진 게시물을 ‘리그램’한 뒤 “내가 새긴 문신(Tatoo by me on)”이라는 글과 함께 제니의 계정을 태그해 올렸다.공개된 사진은 제니가 지난달 31일 올린 것과 같은 것으로 몸매가 드러나는 란제리룩을 입고 있는 제니의 모습이 담겼다."
     ],
     "chips": [
       "#뉴스"
@@ -646,8 +647,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
@@ -657,9 +658,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
