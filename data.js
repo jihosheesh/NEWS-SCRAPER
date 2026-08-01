@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-01 15:21:34
+// 마지막 업데이트: 2026-08-01 16:18:54
 window.NEWS_DB = [
   {
     "id": "na3d392e4",
     "category": "IT",
     "source": "미디어파인",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdVBCS1NrVG5IUi1iQXZneElHR1NUWmFTUGlLNTJRdzdpT3E0ZkwtUEVWRzJtTmJhb2VQNWpuYTRDZkxlY2NJVElKWHdHeWFnUnZBR3BQX0NtajREc1NMUTUxcFg1NHV2Uy1xRXB3?oc=5",
     "title": "엔비디아, 애플 제치고 시총 1위 탈환-AI 반도체 경쟁력 다시 입증",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n028b05fa",
     "category": "IT",
     "source": "fnnews.com",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVN093ZW80cTFTb0hsNHh5TXdQNUs4YndTOGx4RlBwY3E5bnlaSTF1ZHozOWJkS2pQMjVfUUpZUUNEaGxZQmJZTVVjbDdCYU96S3hDakxESmRVQQ?oc=5",
     "title": "엔비디아, 나흘 만에 시가총액 1위 복귀",
     "summary": [
@@ -105,12 +105,12 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "kukinews.com",
+    "source": "쿠키뉴스",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
     ],
     "chips": [
       "#AI",
@@ -275,12 +275,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "techm.kr",
+    "source": "테크M",
     "time": "122일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -366,109 +366,136 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8c57945f",
+    "id": "n48be9768",
     "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/02/MZSTENLCGEZTCZBQMM3TQYJSGU/",
-    "title": "이준, 20년만에 NO모자이크 발레복 착용 \"죽고 싶다\"('워크맨')",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003732772",
+    "title": "이란 서부서 폭발음…당국 \"과거 전쟁 때 남은 포탄 폭발\"",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 이준이 20년 만에 발레복을 입었다.지난 7월 31일 유튜브 채널 ‘워크맨’에는 '20년 만에 무용 후배들 잡도리 하는 교생쌤ㅣ무용과 교생ㅣ워크맨ㅣ이준라는 제목의 영상이 게재됐다.이날 이준은 이준이 워크맨 진행 1주년 및 조회수 500만 돌파를 기념해 한 예술고등학교 무용과 교생에 도전했다."
+      "[서울=뉴시스] 신효령 기자 = 이란 서부에서 강한 폭발음이 들렸으나, 현지 당국은 과거 전쟁 당시 남겨진 포탄이 화재의 열기로 폭발한 것이라고 밝혔다.",
+      "1일(현지시간) 이란 국영 IRNA통신과 반관영 메흐르통신 등 현지 매체에 따르면 이날 오후 1시께 케르만샤주 이슬라마바드에가르브의 동부 우회도로 인근에서 큰 폭발음이 발생했다.",
+      "소방·구조 인력과 군·보안 전문가들은 현장에 출동해 폭발 원인을 조사했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n799ac2a5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731943",
+    "title": "'자다깨다' 중년의 여름…\"수면장애, 이렇게 관리\"",
+    "summary": [
+      "[서울=뉴시스]황재희 기자 = 장마 이후 열대야가 이어지며 수면장애를 겪는 중년층이 많아지고 있다.",
+      "중년 이후 나타나는 신체적 변화와 질환으로 수면의 질이 낮아질 수 있어 조기 관리가 중요하다.",
+      "2일 동국제약에 따르면, 무더위로 인한 수면장애 동반 질환의 경우 방치하면 증상이 악화될 수 있어 조기에 관리하는 것이 필요하다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne66f9209",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003731719",
+    "title": "금정문화재단, 부산국제공연예술제 자원활동가 모집",
+    "summary": [
+      "[부산=뉴시스]원동화 기자 = 부산 금정문화재단은 오는 9일까지 2026 부산국제공연예술제 자원활동가 '브파프렌즈(B.P.A.Friends)' 5기를 모집한다고 2일 밝혔다.",
+      "브파프렌즈는 'Busan Performing Arts Friends'의 줄임말로, 지역 청년들이 축제 운영 전반에 직접 참여하며 공연예술 현장을 경험하고 실무 역량을 키울 수 있도록 운영하는 시민 참여형 프로그램이다.",
+      "재단은 사전교육과 현장 활동을 통해 공연예술 분야에 대."
+    ],
+    "chips": [
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "ncfa2b263",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003728349",
+    "title": "\"부산항 노을 품은 SUP 어때요\" 영도서 바다 체험 교실",
+    "summary": [
+      "[부산=뉴시스] 이아름 기자 = 부산항 노을을 배경으로 바다를 즐길 수 있는 해양 레포츠 체험이 영도에서 열린다.",
+      "부산 영도구는 시민과 관광객들이 해양 레포츠를 보다 쉽고 친근하게 즐길 수 있도록 '영도 FUNFUN 바다 체험 교실'을 운영한다고 2일 밝혔다.",
+      "체험은 오는 29일부터 9월20일까지 매주 토·일요일 한국해양대학교 아치나루와 인근 해역에서 진행된다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n3c1b6937",
+    "id": "ne0746e0c",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/02/GQYWKMDBHFSTGNLFGBRGEZJVGM/",
-    "title": "33홈런인데 솔로포 20개라니, 1~2번 밥상이 초라하다...이범호 \"주자없이 김도영 혼자치면 너무 아깝다\"",
-    "summary": [
-      "[OSEN=창원, 이선호 기자] \"혼자치면 너무 아깝다\".KIA 타이거즈 간판타자 김도영(23)이 홈런폭주 모드에 돌입한 가운데 이범호 감독이 아쉬움을 털어놓았다.",
-      "나홀로 솔로홈런 보다는 그 이상의 홈런이 필요하다는 것이다.",
-      "그러기 위해서는 테이블세터진의 출루가 절실하다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79bdea2e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/02/GNRTQOBQMZQWIY3DGFRGGODEMY/",
-    "title": "'음뵈모 멀티골' 맨유, '이강인 합류 전' ATM에 2-1 역전승",
-    "summary": [
-      "[OSEN=정승우 기자] 맨체스터 유나이티드가 브라이언 음뵈모의 멀티골을 앞세워 이강인(25)이 합류하기 전인 아틀레티코 마드리드에 역전승을 거뒀다.맨유는 1일(한국시간) 스웨덴 솔나에서 열린 아틀레티코와의 프리시즌 친선 경기에서 2-1로 승리했다.아틀레티코가 경기 시작 5분 만에 앞서갔다.",
-      "코너킥 이후 코케가 연결한 공을 아르나우 오르티스가 페널티 박스."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2f5f2c4e",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732439",
-    "title": "호날두 결혼식서 만난다?…앙숙 하빕·맥그리거 재회설",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = UFC 역사상 가장 치열한 라이벌로 꼽히는 하빕 누르마고메도프와 코너 맥그리거가 크리스티아누 호날두의 결혼식에서 재회할 가능성이 제기됐다.",
-      "지난달 30일(현지시간) 미국 격투기 전문 매체 블러디 엘보우는 두 선수가 호날두와 조지나 로드리게스의 결혼식에 모두 초청받았다는 관측이 나오면서 뜻밖의 재회가 성사될 수 있다고 보도했다.",
-      "다만 실제 초청 여부와 결혼식 일정은 공식적으로 확인되지 않은 상태다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c6e5137",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732466",
-    "title": "\"권은비·비비 비켜!\" 서인영, 한 달 만에 4㎏ 감량하고 워터밤 출격 선언",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 가수 서인영이 파격적인 체중 감량 근황을 공개하며 여름 무대 출격을 예고했다.",
-      "서인영은 지난달 31일 자신의 유튜브 채널 '개과천선 서인영'을 통해 워터밤 무대를 앞두고 몸 관리에 돌입한 모습을 공개했다.",
-      "공개된 영상에서 서인영은 워터밤 무대를 준비하며 후배 가수들의 퍼포먼스를 살펴봤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n98e1e8d1",
-    "category": "사회",
-    "source": "뉴시스",
     "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732467",
-    "title": "\"만두 60개 먹던 영케이 맞아?\"…컴백 위해 10㎏ 감량했다",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/02/MQ3TAYJZHBQTONZUMM2WGOLGGY/",
+    "title": "오른쪽 아닌 중앙에서도 통했다...음뵈모, ATM전 멀티골 \"명확한 계획이 있었다\"",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 그룹 데이식스(DAY6) 멤버 영케이가 컴백을 앞두고 체중 10㎏을 감량한 과정을 공개했다.",
-      "평소 남다른 식사량으로 알려진 그가 무대 위 모습을 위해 식습관을 조절하며 변화를 이뤄냈다고 밝혔다.",
-      "영케이는 지난달 31일 방송된 KBS 2TV '더 시즌즈-성시경의 고막남친'에 출연해 신곡 무대와 함께 근황을 전했다."
+      "[OSEN=정승우 기자] 브라이언 음뵈모(27, 맨유)가 맨체스터 유나이티드의 새로운 최전방 선택지로 떠올랐다.",
+      "익숙한 오른쪽 측면이 아닌 원톱으로 선발 출전해 두 골을 터뜨리며 아틀레티코 마드리드전 역전승을 이끌었다.맨유는 1일(이하 한국시간) 스웨덴 스톡홀름에서 열린 아틀레티코와의 프리시즌 친선 경기에서 2-1로 승리했다.아틀레티코가 전반 5분 아르나우."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n076c9bbb",
+    "id": "ne2bf981b",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732472",
-    "title": "출산 후 16㎏ 감량 최연수…다시 시작한 '이것' 왜 좋을까",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802000300071",
+    "title": "\"美유럽사령관, 펜타곤에 이스라엘 방어용 해군전력 부족 호소\"",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 셰프 최현석의 딸이자 배우 겸 인플루언서 최연수가 출산 후 체중 관리와 운동 근황을 공개했다.",
-      "최연수는 지난달 31일 자신의 사회관계망서비스(SNS)에서 출산 후 몸무게 변화에 대한 질문에 \"16㎏을 빼고 11㎏이 남았다\"고 답했다.",
-      "다이어트 비법을 묻자 \"요즘 재활 느낌으로 다시 필라테스도 하고 있고 웬만하면 한 끼는 먹고 싶은 것, 한 끼는 다이어트 식단으로 해보려고 한다\"고 말했다."
+      "(워싱턴=연합뉴스) 백나리 특파원 = 미군 유럽사령관이 해군전력 추가 지원이 없으면 이스라엘 방어보다 러시아 견제를 통한 미 본토 보호를 선택할..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n509dae08",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802000700081",
+    "title": "\"배고픔·냉대에 좌절\"…세우타서 발길 돌린 이민자들",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 지난달 말 국경을 넘어 북아프리카 스페인 땅 세우타에 도착한 불법 이민자들이 녹록지 않은 현지 상황에 좌절해..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb2ee7f79",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801053951064",
+    "title": "K리그2 수원 팬들, 역전골 취소 판정에 \"심판 나와\" 점거 시위(종합)",
+    "summary": [
+      "(청주=연합뉴스) 박건영 이성민 기자 = 1일 프로축구 K리그2 수원 삼성과 충북청주FC의 경기가 열린 청주종합운동장에서 수원 팬들이 역전 골을..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6a21df05",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802000200063",
+    "title": "태안 만리포 등 일대 기습 단수…피서객 \"씻을 물 없어 생수 사\"",
+    "summary": [
+      "(태안=연합뉴스) 변선진 기자 = 본격적인 피서철을 맞은 주말 충남 태안군 주요 관광지 일대에서 갑작스럽게 단수가 이뤄져 피서객과 주민이 불편을..."
     ],
     "chips": [
       "#뉴스"
@@ -478,7 +505,7 @@ window.NEWS_DB = [
     "id": "n07a3cb27",
     "category": "사회",
     "source": "동아일보",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260802/134405612/1",
     "title": "‘놀토’ 정해인, 정답 맞히고 수줍은 ‘캐치캐치’ 춤…반전 매력",
     "summary": [
@@ -489,57 +516,42 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4c762910",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "id": "nafced1ba",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026073183507",
+    "title": "[오늘의 운세] 8월 2일 띠별 운세",
     "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+      "[오늘의 운세] 8월 2일 띠별 운세."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n26b5af64",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801054000108",
-    "title": "러, 연일 키이우 공습…우크라는 러 컨테이너선 격침",
+    "id": "nc34d9da5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026073182647",
+    "title": "[오늘의 운세] 2026년 8월 2일 별자리 운세",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 러시아와 우크라이나는 1일(현지시간) 상대방의 산업 인프라를 노린 강도 높은 공습을 이어갔다."
+      "[오늘의 운세] 2026년 8월 2일 별자리 운세."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4f4595f6",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "43분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801053900064",
-    "title": "K리그2 수원 팬들, 역전골 취소 판정에 \"심판 나와\" 점거 시위",
+    "id": "nf494542c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026073172407",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 2일 띠별 추천 점심메뉴",
     "summary": [
-      "(청주=연합뉴스) 박건영 이성민 기자 = 1일 프로축구 K리그2 수원 삼성과 충북청주FC의 경기가 열린 청주종합운동장에서 수원 팬들이 역전 골을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc79bed69",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801052800001",
-    "title": "'친명후보' 내건 金, 예상외 303표차 승리…'석패' 鄭 저력도 확인",
-    "summary": [
-      "(대전·서울=연합뉴스) 최평천 안정훈 기자 = 더불어민주당 8·17 전당대회 첫 순회경선 지역인 충청권에서 권리 당원들은 이른바 '진짜 친명(친..."
+      "[오늘의 운세] 오늘 뭐 먹지?…8월 2일 띠별 추천 점심메뉴."
     ],
     "chips": [
       "#뉴스"
@@ -549,7 +561,7 @@ window.NEWS_DB = [
     "id": "ncf509e3e",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260801231002",
     "title": "2026 AI 제품 응용 엑스포, 쑤저우서 개막",
     "summary": [
@@ -565,7 +577,7 @@ window.NEWS_DB = [
     "id": "nb1622a2b",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260801/134405603/1",
     "title": "의정부 동부간선도로 진입로서 7중 추돌 사고",
     "summary": [
@@ -579,7 +591,7 @@ window.NEWS_DB = [
     "id": "n0b1c745e",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134405598/1",
     "title": "‘장기하♥’ 윤가이, 여름 홋카이도 여행 인증…더 예뻐진 근황",
     "summary": [
@@ -595,7 +607,7 @@ window.NEWS_DB = [
     "id": "n6bc3c15c",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134405594/1",
     "title": "이동욱, 김고은 대상에 ‘흐뭇’…10년 넘게 이어지는 ‘도깨비’ 의리",
     "summary": [
@@ -610,25 +622,11 @@ window.NEWS_DB = [
     "id": "n58c4e388",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026080194177",
     "title": "삼전닉스 레버리지 ETF 후폭풍…\"김용범 경질해야\" 56.3%",
     "summary": [
       "삼전닉스 레버리지 ETF 후폭풍…\"김용범 경질해야\" 56.3%."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc47395b5",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "3시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801050900030",
-    "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
-    "summary": [
-      "(서울=연합뉴스) 홍국기 기자 = 맥도날드 '충주 찰옥수수 치즈 크로켓 버거'에서 돌이 씹힌다는 민원이 잇달아 접수되면서 판매가 조기 종료됐다."
     ],
     "chips": [
       "#뉴스"
@@ -641,8 +639,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
