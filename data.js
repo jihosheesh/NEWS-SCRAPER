@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-01 18:18:03
+// 마지막 업데이트: 2026-08-01 19:25:11
 window.NEWS_DB = [
   {
     "id": "na3d392e4",
     "category": "IT",
     "source": "미디어파인",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdVBCS1NrVG5IUi1iQXZneElHR1NUWmFTUGlLNTJRdzdpT3E0ZkwtUEVWRzJtTmJhb2VQNWpuYTRDZkxlY2NJVElKWHdHeWFnUnZBR3BQX0NtajREc1NMUTUxcFg1NHV2Uy1xRXB3?oc=5",
     "title": "엔비디아, 애플 제치고 시총 1위 탈환-AI 반도체 경쟁력 다시 입증",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n028b05fa",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVN093ZW80cTFTb0hsNHh5TXdQNUs4YndTOGx4RlBwY3E5bnlaSTF1ZHozOWJkS2pQMjVfUUpZUUNEaGxZQmJZTVVjbDdCYU96S3hDakxESmRVQQ?oc=5",
     "title": "엔비디아, 나흘 만에 시가총액 1위 복귀",
     "summary": [
@@ -62,12 +62,12 @@ window.NEWS_DB = [
   {
     "id": "n0c06c07a",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "unicornfactory.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" 유니콘팩토리."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" unicornfactory.co.kr."
     ],
     "chips": [
       "#스타트업"
@@ -216,12 +216,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "ytn.co.kr",
+    "source": "YTN",
     "time": "52일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
       "#금리",
@@ -260,12 +260,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "81일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -317,10 +317,103 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n99aca803",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802001800108",
+    "title": "러 모스크바 시내 카페에서 폭발…3명 사망·15명 부상",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 1일(현지시간) 저녁 러시아 모스크바 도심에서 폭발이 발생해 3명이 숨지고 15명이 다쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n99e2c5f7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003732778",
+    "title": "이탈리아 화산지대서 규모 4.7 지진…26명 다쳐",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 이탈리아 남부 나폴리 인근의 화산지대에서 규모 4.7의 지진이 발생해 26명이 다쳤다.",
+      "1일(현지시간) 이탈리아 국립지질화산연구소(INGV)와 영국 일간 가디언 등에 따르면 전날 오후 7시 46분께 나폴리 서쪽 캄피 플레그레이 지역에서 규모 4.7의 지진이 발생했다.",
+      "진앙은 북위 40.83도, 동경 14.14도이며 진원 깊이는 약 3㎞다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04369dde",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "39분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/02/GY4WEMJTMFSDOMJVHBTDIZRXMU/",
+    "title": "'챔피언' 아스널, 더 강해진다! 브라질 1티어 '이적료 1600억원에 기마랑이스 영입 마무리'...라이스+기마랑이스 '최강 중원 듀오' 구성",
+    "summary": [
+      "[스포츠조선 박찬준 기자]'디펜딩챔피언' 아스널의 전력강화 욕심이 끝이 없다.",
+      "브라질과 뉴캐슬의 '에이스' 브루노 기마랑이스 영입을 눈 앞에 두고 있다.",
+      "1일(한국시각) 브라질 1티어 기자로 불리는 브루노 안드라데는 브라질 'ESPN'을 통해 '아스널이 지난 금요일(31일) 밤 기마랑이스 영입을 마무리했다'고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5aaea6d1",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "45분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/02/HA4WEMBXGFQTOOLBMMZDQY3GGM/",
+    "title": "\"감독님과 400승, 500승도 함께\"→\"자욱이가 있으면 하지 않을까\"…예비 FA와 우승 도전 감독, 누가 유혹하는 것일까",
+    "summary": [
+      "[OSEN=부산, 조형래 기자] 이미 사령탑과 선수 사이에는 긍정적인 교감이 이뤄지고 있다.",
+      "물론 비즈니스의 영역이지만 이들은 오랫동안 함께할 수 있을까.박진만 삼성 라이온즈 감독은 지난달 31일 사직 롯데전에서 통산 300승을 달성했다.",
+      "2022년 허삼영 전 감독의 자진사퇴로 감독대행으로 부임한 박진만 감독이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73c1eadc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260801_0003732600",
+    "title": "\"161㎏→98㎏, 63㎏ 감량 성공\"…24세 美여성의 비결은 '걷기'",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 고강도 운동과 극단적인 다이어트 대신 꾸준한 걷기로 삶을 바꾼 미국 여성의 사연이 공개됐다.",
+      "지난달 30일(현지 시간) 미국 매체 피플에 따르면, 미국 매사추세츠주에 거주하는 애슐리 체리스몬드(24)는 161㎏까지 늘었던 체중을 약 63㎏ 감량하며 건강한 생활 습관을 되찾았다.",
+      "그는 무리한 운동보다 집 주변을 걷는 작은 변화에서 감량 여정을 시작했다."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "naf14f062",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802001500108",
+    "title": "이탈리아 나폴리 인근 규모 4.7 지진…26명 부상",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 이탈리아 남부 나폴리 인근에서 지진이 발생해 20명 넘는 부상자가 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n3ab0475b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260802_0003732777",
     "title": "英노동당, '버넘 안방' 지켰다…맨체스터시장 보궐선거 압승",
     "summary": [
@@ -336,7 +429,7 @@ window.NEWS_DB = [
     "id": "nbb674bd7",
     "category": "사회",
     "source": "조선일보",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/politics/2026/08/02/AO6LKKVHZRASHPRYKWTINHYLDE/",
     "title": "유시민·김어준도 못 막는 ‘李 재판 지우기’ 집착증",
     "summary": [
@@ -350,7 +443,7 @@ window.NEWS_DB = [
     "id": "nb2a4c3ea",
     "category": "사회",
     "source": "조선일보",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/national/national_general/2026/08/02/ETMQEM6LW5DJXB7VY336KRFC5M/",
     "title": "1958년 중앙청에서 열린 공무원들 ‘눈사람 만들기 대회’",
     "summary": [
@@ -361,39 +454,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6c6baf14",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/culture-life/2026/08/02/XVJAK7GNFFEDXOD377M4YQB6DY/",
-    "title": "맨발로 무대 오른 27세 트럼펫 스타… 옛 수도원을 뒤흔들다",
-    "summary": [
-      "독일 라인가우 페스티벌 개막 공연 영상을 보다 눈길이 멈췄다.",
-      "알랭 알티놀뤼가 지휘하는 프랑크푸르트 방송교향악단과 협연한 트럼펫 주자가 남달랐기 때문이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n23455adf",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/02/FSIYS2CBW5FERDPBZLBBIBDCYU/",
-    "title": "AI로 생산성 열 배 끌어올리기, 어떻게 가능할까?",
-    "summary": [
-      "AI로 생산성 열 배 끌어올리기, 어떻게 가능할까?."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "n9282e7b4",
     "category": "IT",
     "source": "뉴시스",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260731_0003731889",
     "title": "中 비행 중 드론 레이저 무선 충전 성공…배터리 한계 넘나",
     "summary": [
@@ -410,7 +474,7 @@ window.NEWS_DB = [
     "id": "n6df20233",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "34분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260802001200071",
     "title": "트럼프, 논란의 사법피해자기금 재추진 위협하며 측근 인준 압박",
     "summary": [
@@ -424,7 +488,7 @@ window.NEWS_DB = [
     "id": "n113c0c5f",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260801051800001",
     "title": "李대통령, 남미 3개국 순방 마무리…독일 향해 출발",
     "summary": [
@@ -435,43 +499,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n63db02cc",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "38분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732759",
-    "title": "이 대통령, 아르헨서 마지막 방문지 독일로 출발…동포 오찬간담회 예정",
-    "summary": [
-      "[부에노스아이레스=뉴시스] 김지은 기자 = 이재명 대통령이 1일(현지시간) 아르헨티나 공식 방문 일정을 마치고 독일로 향했다.",
-      "이 대통령과 부인 김혜경 여사, 수행단을 태운 공군 1호기는 이날 오후 부에노스아이레스 에세이사 국제공항에서 이륙했다.",
-      "이 대통령은 아르헨티나 대통령과 정상회담을 통해 한-메르코수르 무역협정 협상을 연내 재개하는 한편 핵심광물 및 에너지 협력에 뜻을 모았다."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8cb76163",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "51분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003732775",
-    "title": "EU 법무·내무장관들, 4일 '세우타 사태' 긴급 화상회의",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 유럽연합(EU)이 북아프리카의 스페인령 세우타에서 발생한 대규모 이주민 유입 사태를 논의하기 위해 오는 4일(현지시간) 긴급 화상회의를 연다.",
-      "올해 하반기 EU 의장국인 아일랜드의 미할 마틴 총리는 1일 엑스(X·옛 트위터)를 통해 4일 EU 법무·내무 이사회를 소집하겠다고 예고했다.",
-      "세우타 국경 상황을 점검하고 회원국 공동 대응책을 논의할 예정이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nf3f90ec9",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153912",
     "title": "[글로벌] 오픈AI, GPT-5.6 루나 가격 80% 인하...中 오픈웨이트 모델 견제",
     "summary": [
@@ -487,7 +518,7 @@ window.NEWS_DB = [
     "id": "n72111934",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153911",
     "title": "[글로벌] 딥시크, 中 네이멍구에 1GW 규모 AI 데이터센터 추진",
     "summary": [
@@ -504,7 +535,7 @@ window.NEWS_DB = [
     "id": "n462dc7a2",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153910",
     "title": "[글로벌] EU, 100억유로 지원해 'AI 기가팩토리' 최대 7곳 건설",
     "summary": [
@@ -517,24 +548,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne2bf981b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802000300071",
-    "title": "\"美유럽사령관, 펜타곤에 이스라엘 방어용 해군전력 부족 호소\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미군 유럽사령관이 해군전력 추가 지원이 없으면 이스라엘 방어보다 러시아 견제를 통한 미 본토 보호를 선택할..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n07a3cb27",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260802/134405612/1",
     "title": "‘놀토’ 정해인, 정답 맞히고 수줍은 ‘캐치캐치’ 춤…반전 매력",
     "summary": [
@@ -548,7 +565,7 @@ window.NEWS_DB = [
     "id": "nafced1ba",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026073183507",
     "title": "[오늘의 운세] 8월 2일 띠별 운세",
     "summary": [
@@ -562,7 +579,7 @@ window.NEWS_DB = [
     "id": "nc34d9da5",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026073182647",
     "title": "[오늘의 운세] 2026년 8월 2일 별자리 운세",
     "summary": [
@@ -576,7 +593,7 @@ window.NEWS_DB = [
     "id": "nf494542c",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026073172407",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 2일 띠별 추천 점심메뉴",
     "summary": [
@@ -590,7 +607,7 @@ window.NEWS_DB = [
     "id": "ncf509e3e",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260801231002",
     "title": "2026 AI 제품 응용 엑스포, 쑤저우서 개막",
     "summary": [
@@ -606,7 +623,7 @@ window.NEWS_DB = [
     "id": "nb1622a2b",
     "category": "사회",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260801/134405603/1",
     "title": "의정부 동부간선도로 진입로서 7중 추돌 사고",
     "summary": [
@@ -615,22 +632,6 @@ window.NEWS_DB = [
     "chips": [
       "#의료"
     ]
-  },
-  {
-    "id": "n0b1c745e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134405598/1",
-    "title": "‘장기하♥’ 윤가이, 여름 홋카이도 여행 인증…더 예뻐진 근황",
-    "summary": [
-      "배우 윤가이가 홋카이도 여행 중에 찍은 사진을 공개했다.윤가이는 1일 자신의 사회관계망서비스(SNS)에 “여름 홋카이도”라는 글과 함께 여러 장의 사진을 올렸다.공개된 사진 속에서 윤가이는 여행지에서 다양한 포즈를 취했다.",
-      "특히 이동 중에 찍은 ‘셀카’에서는 귀여운 표정과 물오른 미모가 돋보이는 모습이다.한편 장기하와 윤가이는 지난 6월 말 열애 사실을 외부에 공개했다.",
-      "두 사람은 2023년 ‘SNL 코리아 리부트 시즌4’를 통해 인연을 맺은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -638,15 +639,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "뉴스",
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
