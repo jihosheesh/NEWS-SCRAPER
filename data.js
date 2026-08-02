@@ -1,6 +1,21 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-02 12:19:48
+// 마지막 업데이트: 2026-08-02 13:30:27
 window.NEWS_DB = [
+  {
+    "id": "n2d8dc056",
+    "category": "IT",
+    "source": "ebn.co.kr",
+    "time": "8시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yM0Z5dUpWZjBxZjdFa0V0VHpYUmlGbml3eUhsRmszVmRCTjN0bURLT0hFY0xqNHJVMXJhU3RJVzItQXJzN1F4WVktak5obEFuRkZFbGFmcy1xMmh3bFRob0I0TG16VWJz?oc=5",
+    "title": "中 문샷, 알리바바와 '엔비디아 칩 2만장' 사용 계약…美 반도체 우회 확보",
+    "summary": [
+      "中 문샷, 알리바바와 '엔비디아 칩 2만장' 사용 계약…美 반도체 우회 확보 ebn.co.kr."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n8eacd9a0",
     "category": "IT",
@@ -46,12 +61,12 @@ window.NEWS_DB = [
   {
     "id": "n0c06c07a",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "unicornfactory.co.kr",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" 유니콘팩토리."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" unicornfactory.co.kr."
     ],
     "chips": [
       "#스타트업"
@@ -104,6 +119,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf633ad61",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TeXR5VDlRTVNUQlNqWWJkU1pIZXNjRzZhSXZhT1F2MjY4N3p0VzFGU2twWmxscU01cnRQNUI0NjRmTUFlNkhVS1ZJRUtKekNyb0FB?oc=5",
+    "title": "[ST포토] 고예지 치어리더, '쭉쭉'",
+    "summary": [
+      "[ST포토] 고예지 치어리더, '쭉쭉' 네이트."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nadcbed93",
     "category": "IT",
     "source": "비즈니스포스트",
@@ -123,32 +152,16 @@ window.NEWS_DB = [
   {
     "id": "n94aa4795",
     "category": "IT",
-    "source": "서울Pn",
+    "source": "go.seoul.co.kr",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
     "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
     "summary": [
-      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
+      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 go.seoul.co.kr."
     ],
     "chips": [
       "#스타트업",
       "#채용"
-    ]
-  },
-  {
-    "id": "nfaa9ec62",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2FKQTB1dmFGYmhZbFpFZE9lT2I2T0YySGNTZEN6WE5MWXczLUZwd3RQT0RSVWlKamxZVl82V3cyZDBQSkxjNzZpWWRHTXJLSzdma0xzSmsyMV8tZU5iUTN1QnUzT3dmd3FoVjlUYXVoWTd0UXhqb3JHNE9jLTVKNnZobw?oc=5",
-    "title": "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입",
-    "summary": [
-      "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -184,28 +197,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8296c130",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "37일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdlNlT1V1c0JEREhHYjZfZnl1bFJrMVI1M3ZaQ28teUdNMkVlSWVZYnJONk1kdXdGVUNRc3lBd2xIU2VzWmdER0FfaVcyc0c3eWNFVGhMMndsY3pRTGdWUGVxM05mTjlROW5vX2Rhcm5CUHRZR0EtdDlWQUdxQ2JGRWtXYw?oc=5",
-    "title": "남아공전 0-1 패배 대참사, 축구 박지성은 작심 비판…‘KBO 최초’ 박지성은 뭐라고 했을까",
-    "summary": [
-      "남아공전 0-1 패배 대참사, 축구 박지성은 작심 비판…‘KBO 최초’ 박지성은 뭐라고 했을까 조선일보."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "straightnews.co.kr",
+    "source": "스트레이트뉴스",
     "time": "47일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
     ],
     "chips": [
       "#금리"
@@ -315,328 +314,315 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf74334b8",
-    "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153917",
-    "title": "\"해킹 여진 여전\"...SKT·KT·LG유플러스, 2분기 실적 전망은?",
-    "summary": [
-      "SK텔레콤 KT LG유플러스가 2026년 2분기 실적을 공개한다.",
-      "SK텔레콤과 KT는 해킹에 희비가 엇갈렸다.",
-      "SK텔레콤은 작년 4월 파악한 '가입자식별모듈(USIM, 유심) 정보 유출' 사고 터널을 벗어났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc66833a3",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153916",
-    "title": "[타봤다] 지붕을 열자 아들이 웃었다...미니 컨버터블 S, 첫 오픈카의 설렘",
-    "summary": [
-      "자동차의 지붕이 사라지면 무엇이 달라질까.",
-      "스위치를 누르자 머리 위를 덮고 있던 루프가 천천히 뒤로 접혔다.",
-      "한여름 햇살이 따가웠지만 뺨을 스치고 지나가는 바람 덕에 그마저 싫지 않았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nab5983e0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733227",
-    "title": "인니, 연락선 화재로 5명 사망 41명 실종…인근 배들이 225명 구조",
-    "summary": [
-      "[수라비야(인도네시아)=AP/뉴시스] 김재영 기자 = 인도네시아 자바섬 근해에서 2일 271명을 태운 페리에 불이 나 최소한 5명이 숨지고 수십 명이 실종되었다고 관리들이 말했다.",
-      "무티아라 센토사 2호는 인니 두 번째 도시인 동부 자바의 수라바야에서 동쪽의 큰 술라웨시섬 남부도시 무카사르로 가던 길이었다.",
-      "선객 232명과 승무원 39명이 탔으며 이날 오전 6시에서 7시 사이 수메넴 지역 근해서 불이 났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd13215b3",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733171",
-    "title": "'홈런 3방·고영표 호투' KT, 한화 12-1 완파하고 6연승…선두 질주",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 KT 위즈가 투타의 고른 활약을 앞세워 파죽의 6연승을 질주했다.",
-      "KT는 2일 수원 KT위즈파크에서 열린 2026 신한 쏠 KBO리그 한화 이글스와의 홈 경기에서 12-1로 대승을 거뒀다.",
-      "전날 한회를 7-4로 잡고 선두 탈환에 성공한 KT(59승 2무 36패)는 연승 행진을 이어가며 1위 수성에 성공했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nda428b27",
+    "id": "neb281c50",
     "category": "경제",
-    "source": "아시아경제",
+    "source": "뉴시스",
     "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026080221130201575",
-    "title": "李대통령, 3일 귀국 직후 청와대로 출근…부동산·증시 현안 점검",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733250",
+    "title": "OPEC 플러스, 9월도 전달보다 일 18.8만 배럴 증산 결정…연속 6차",
     "summary": [
-      "이재명 대통령이 3일 7박11일간의 남미 순방을 마치고 귀국하는 즉시 청와대로 출근해 부동산 정책과 주식시장 등 국내 현안을 점검한다.",
-      "이 대통령은 순방 기간 누적된 민생·경제 현안을 직접 챙긴 뒤 이틀간 27개 부처·기관으로부터 업무보고를 받으며 국정 운영의 고삐를 다시 죌 계획이다.",
-      "강유정 청와대 수석대변인은 2일 공지를 통해 \"이 대통령은 7박11일의 남미 순방을 마치고 귀국하는 대로 청와대로 출근해 부동산 정책."
+      "[서울=뉴시스] 김재영 기자 = 확대 석유수출국기구(OPEC) 플러스는 2일 주요 7개국 화상 회의를 갖고 9월에도 8월보다 일 산유량을 18만 8000배럴 증산하기로 결정했다.",
+      "이란전쟁이 2월 28일 시작된 후 오펙 멤버인 이란의 호르무즈 해협 봉쇄로 중동 석유 수출이 최소한 하루 1000만 배럴 감소하고 이에 따라 중동 및 오펙의 원유 생산이 많이 줄었다.",
+      "이 와중에도 오펙 플러스는 비록 서류상이지만 3월부터 월간 회의에서 계속 블록 내 산."
     ],
     "chips": [
-      "#부동산",
-      "#정책",
-      "#정치"
+      "#수출"
     ]
   },
   {
-    "id": "nbc812fe7",
+    "id": "n562428ee",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733219",
+    "title": "안보현 \"안 해 본 알바 없어…일용직 많이 해\"",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 안보현이 무명 배우 시절 했던 아르바이트 경험에 대해 밝혔다.",
+      "2일 유튜브 채널 '요정재형'에는 '너희 이야기는 드라마로 써도 돼'라는 제목의 영상이 공개됐다.",
+      "이날 안보현과 정은채가 출연했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4bd62c9d",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/02/MQ4DAZJRGU3DAZBQGQ2TMZTGME/",
-    "title": "야구장을 워터밤으로, 권은비 [O! SPORTS 숏폼]",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/08/02/G44DCYRZHAYTGNJXMYYDINDBMQ/",
+    "title": "\"내가 골든스테이트에서 뛸 때와 비슷하잖아!\" 케빈 듀란트의 극찬. \"르브론의 필라델피아, 25득점 이상 선수가 4명. 완벽한 우승후보\"",
     "summary": [
-      "[OSEN=잠실, 조은정 기자]2일 서울 잠실야구장에서 2026 신한 SOL KBO리그 두산 베어스와 LG 트윈스의 경기가 열렸다.이날 두산은 벤자민, LG는 톨허스트를 선발로 내세웠다.",
-      "클리닝타임에 권은비가 공연을 하고 있다.",
-      "2026.08.02 /cej@osen.co.kr."
+      "[스포츠조선 류동혁 기자] 2016~2017시즌 NBA는 충격적인 팀이 탄생했다.",
+      "당대 최상급 전력을 과시한 골든스테이트 워리어스가 지구 1옵션 케빈 듀란트마저 영입했다.",
+      "듀란트는 3시즌을 골든스테이트에서 뛰었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc75f8695",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/football/2026/08/02/G4YGIMLDGZSWEY3GGQYTEYJRGQ/",
+    "title": "'뮌헨 콤파니 감독이 지켜봤다!' 제주, 인천과 3-3 대혈투...'이동경 멀티골' 울산, 안양 3-1 격파(종합)",
+    "summary": [
+      "[OSEN=서정환 기자] 빈센트 콤파니 바이에른 뮌헨 감독도 제주를 지켜봤다.",
+      "제주SK는 2일 제주월드컵경기장에서 열린 하나은행 K리그1 2026 21라운드 홈경기에서 인천과 3-3으로 비겨 승부를 가리지 못했다.",
+      "제주는 승점 28로 7위, 인천은 승점 29로 6위를 유지했다.제주는 오는 4일 홈에서 세계적 명문 바이에른 뮌헨과 친선전을 치른다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n364aeb05",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802054600007",
+    "title": "'2타점 결승타' 두산 박찬호 \"야구는 나쁜 놈…정말 쉽지 않다\"",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 결승타를 터뜨려 팀의 3연승을 이끈 데뷔 13년 차 프로야구 두산 베어스의 유격수 박찬호(31)는 아직도 야구..."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n042996fb",
+    "id": "nb9fa54e0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733195",
-    "title": "김희철, '아형' 하차 이유 묻자 강호동 소환",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733257",
+    "title": "이 대통령 \"한국·독일 많이 닮아…라인강·한강 기적으로 세계 놀라게 해\"(종합)",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 슈퍼주니어 김희철이 11년 만에 '아는 형님' 하차하게 된 이유를 밝혔다.",
-      "1일 유튜브 채널 '에겐남 스윙스'에는 '아이돌 최초, 컨트롤 디스전에 참여할 뻔한 우주대스타 김희철'이라는 제목의 영상이 게재됐다.",
-      "김희철은 '아는형님'을 그만둔 이유에 대해 \"'아는형님'을 매주 목요일에 녹화한다."
+      "[프랑크푸르트·서울=뉴시스]김지은 조재완 기자 = 이재명 대통령은 2일(현지시간) 독일 프랑크푸르트에서 교민들과 만나 \"대한민국과 독일은 많이 닮아 있다\"며 \"두 나라 모두 전쟁과 분단의 아픔을 딛고 일어섰다\"고 밝혔다.",
+      "이 대통령은 프랑크푸르트 시내 한 호텔에서 열린 동포 오찬 간담회에서 이같이 말하며 \"독일은 라인강의 기적으로, 대한민국은 한강의 기적으로 세계를 놀라게 했다\"고 강조했다.",
+      "이어 \"무엇보다 두 나라 모두 국민의 성실함과 연대로."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n52413b77",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003732955",
-    "title": "\"美학부모, 자녀 등하교로 1년에 7000분 운전대 잡는다\"",
-    "summary": [
-      "[서울=뉴시스]박지혁 기자, 이지윤 기자 = 학령기 자녀를 둔 미국 부모들은 등하교와 방과 후 활동을 위해 1년에 근무일 기준 약 15일을 운전하는 것으로 나타났다.",
-      "새 학기에는 자녀 일정 조율과 식사 준비, 수면 관리 등 일상 전반에서 부담이 커지는 것으로 조사됐다.",
-      "미국 뉴욕포스트는 최근 식품기업 밥 에번스가 의뢰하고 미국 시장조사기관 토커리서치가 실시한 설문조사를 인용해 새 학기 동안 부모들이 겪는 시간 부담과 생활 변화를 소개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n10fd6db0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/02/HCKVHHBQ2ZFIPM6KLNO4AM2PNU/",
-    "title": "[단독] 윤한홍 “金여사 소개로 21그램 연락처 전달했지만…김오진이 확대 해석한 듯”",
-    "summary": [
-      "[단독] 윤한홍 “金여사 소개로 21그램 연락처 전달했지만…김오진이 확대 해석한 듯”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne0df2bdb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/02/7S6NOGHYUBGTRAXXPU4C7LM5DM/",
-    "title": "서울 신림동 4층 상가에서 불...130여 명 대피",
-    "summary": [
-      "서울 신림동 4층 상가에서 불...130여 명 대피."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1fa0126d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802047700527",
-    "title": "경남 진주·사천 오존주의보 발령",
-    "summary": [
-      "(창원=연합뉴스) 2일 오후 7시를 기해 경남 진주·사천에 오존주의보가 내려졌다고 환경부 한국환경공단이 전했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "na28e9bbe",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802051100062",
-    "title": "강원 평창 국도서 차량 3중 추돌 사고…2명 중상",
-    "summary": [
-      "(평창=연합뉴스) 이상학 기자 = 2일 오후 4시 30분께 강원 평창군 용평면 31번 국도에서 승용차와 RV 차량 등이 잇따라 부딪히는 3중 추..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne90ccc0e",
+    "id": "nfd50c592",
     "category": "스포츠",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733217",
+    "title": "안보현, 김우빈과 인연 공개 \"19살 때 만나\"",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 배우 안보현이 배우가 된 계기에 대해 밝혔다.",
+      "2일 유튜브 채널 '요정재형'에는 '너희 이야기는 드라마로 써도 돼'라는 제목의 영상이 공개됐다.",
+      "이날 안보현과 정은채가 출연했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0d378fbb",
+    "category": "사회",
     "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802054400079",
+    "title": "모스크바 시장 \"고급 식당 자폭 테러는 테러 행위\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 세르게이 소뱌닌 모스크바 시장은 모스크바의 한 고급 식당에서 발생한 폭탄 공격을 테러 행위로 규정하고 규탄..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7884a948",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802051200007",
-    "title": "'장단 13안타' 두산, 잠실 더비서 LG 꺾고 3연승 행진",
+    "url": "https://www.chosun.com/sports/basketball/2026/08/02/GE2GKZLFMQZTANBQGVSDIYLGGU/",
+    "title": "[현장분석] 양인영 부상결장 하나은행. 아란마레에 완패, 아쉬운 4강 탈락. 삼성생명 어부지리 4강 진출 확정",
     "summary": [
-      "(서울=연합뉴스) 김동한 기자 = 프로야구 두산 베어스가 장단 13안타를 몰아친 타선의 화력을 앞세워 3연승을 이어갔다."
+      "[부천=스포츠조선 류동혁 기자] 부천 하나은행이 일본 아란마레에게 패했다.",
+      "하나은행은 2일 부천실내체육관에서 열린 '2026 ticketLINK WKBL 퓨처스리그' 조별리그 A조 3차전에서 77대101로 완패했다.",
+      "고서연이 22득점, 스나가와 나츠키가 13득점, 박진영이 16득점으로 분전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n03ebbf20",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260802/134409566/1",
+    "title": "여자 청소년 핸드볼, 멕시코 꺾고 세계선수권 본선 진출",
+    "summary": [
+      "한국 여자 청소년(18세 이하) 핸드볼 대표팀이 멕시코를 완파하고 세계여자청소년선수권대회 본선에 올랐다.박정진 감독이 이끄는 여자 청소년 대표팀은 1일(한국 시간) 루마니아에서 열린 멕시코와의 제11회 국제핸드볼연맹(IHF) 세계여자청소년선수권대회 예선 B조 최종 3차전에서 40-17로 이겼다.전반을 19-12로 마친 한국은 고삐를 늦추지 않았고, 후반을 21-5로 가져오면서 멕시코에 23점 차 완승을 거뒀다.김은율(정신여고), 이수아, 이연주."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2350824f",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260802/134409562/1",
+    "title": "‘3점포 쾅’ KT 김현수, KBO 통산 4000루타 달성…역대 4번째",
+    "summary": [
+      "프로야구 KT 위즈 베테랑 타자 김현수가 개인 통산 4000루타 대기록을 달성했다.김현수는 2일 수원 KT위즈파크에서 열린 2026 신한 쏠 KBO리그 한화 이글스와의 홈 경기에 2번 타자 1루수로 선발 출전해 6회말 3점 홈런을 날렸다.팀이 3-0으로 앞선 6회말 2사 1, 2루에서 김현수는 한화 좌완 불펜 조동욱의 슬라이더를 통타해 가운데 담장을 넘겼다.이날 경기 전까지 통산 3996루타를 기록한 김현수는 홈런 한 방으로 4000루타를 채웠."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nc9b384ed",
-    "category": "사회",
+    "id": "n8df6acdc",
+    "category": "스포츠",
     "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260802/134408803/1",
-    "title": "친명 “최민희 비매너 눈살”…친청 “당내 일베 박살낼 것”",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260802/134409558/1",
+    "title": "대전, 광주 꺾고 10경기 만에 승리…‘이동경 멀티골’ 울산은 2위 도약",
     "summary": [
-      "더불어민주당 8·17 전당대회 첫 주말 순회경선 최고위원 투표에서는 당선권인 1~5위를 친명(친이재명)계 3명과 친청(친정청래)계 2명이 양분하며 치열한 계파 대리전이 벌어졌다.2일 민주당 중앙당선거관리위원회에 따르면 이날 부산·울산·경남 경선에선 전날 충청권과 마찬가지로 최민희 박선원 한민수 서미화 김용 후보(득표율 순)가 당선권인 1~5위에 안착했다.",
-      "이번 주말 경선에서 누적 득표율 1위(경남 가중치 5% 반영)는 최민희 후보(22.58%)."
+      "프로축구 K리그1 대전하나시티즌이 ‘최하위’ 광주FC를 제물로 10경기 만에 승리를 거뒀다.대전은 2일 대전월드컵경기장에서 열린 광주와의 하나은행 K리그1 2026 21라운드 홈 경기에서 2-0으로 이겼다.이로써 대전은 지난 5월 2일 광주를 5-0으로 완파한 뒤 3개월 만의 승리를 따내며 9경기 무승(5무4패) 사슬을 끊었다.",
+      "홈에서는 시즌 개막 후 첫 승전고를 울렸다.긴 터널을 빠져나온 대전은 5승8무8패(승점 23)를 기록, 11위까지 곤."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n8e007ae6",
+    "id": "n9d479104",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260802/134409555/1",
+    "title": "KT, 파죽의 6연승·선두 질주…두산 3연승·롯데 3연패 탈출",
+    "summary": [
+      "프로야구 KT 위즈가 투타의 고른 활약을 앞세워 파죽의 6연승을 질주했다.KT는 2일 수원 KT위즈파크에서 열린 2026 신한 쏠 KBO리그 한화 이글스와의 홈 경기에서 12-1로 대승을 거뒀다.전날 한회를 7-4로 잡고 선두 탈환에 성공한 KT(59승 2무 36패)는 연승 행진을 이어가며 1위 수성에 성공했다.KT는 후반기 14경기에서 12승 1무 1패의 호성적을 거두며 무서운 상승세를 과시했다.대패를 떠안은 6위 한화(46승 3무 49패)는."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n32ed2360",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802054200007",
+    "title": "고영표, 20이닝 연속 무실점 쾌투…6연승 kt 단독 선두 질주(종합)",
+    "summary": [
+      "(서울=연합뉴스) 천병혁 김동한 기자 = kt wiz가 파죽의 6연승으로 단독 선두를 지켰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n03cc392b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "42분 전",
+    "url": "https://www.hankyung.com/article/202608020341i",
+    "title": "獨서 동포 만난 李 \"파독 광부·간호사 숭고한 희생 기억\"",
+    "summary": [
+      "獨서 동포 만난 李 \"파독 광부·간호사 숭고한 희생 기억\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2c7b7583",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801051751007",
-    "title": "[프로야구 잠실전적] 두산 8-3 LG",
+    "time": "43분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802054100007",
+    "title": "[프로축구 중간순위] 2일",
     "summary": [
-      "[프로야구 잠실전적] 두산 8-3 LG."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n4bd6a460",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "40분 전",
-    "url": "https://view.asiae.co.kr/article/2026080220393177875",
-    "title": "[내일날씨]\"에어컨 없이 못 버틴다\" 전국 폭염특보…광주·대구 최고 39도",
-    "summary": [
-      "월요일인 3일은 전국 대부분 지역에서 무더위와 열대야가 이어지겠다.",
-      "이날 아침 최저기온은 23∼27도, 낮 최고기온은 32∼39도로 예보됐다.전국 대부분 지역에 폭염특보가 발효됐으며 특히 전남권과 경상권에는 최고기온이 39도 이상으로 올라 생명을 위협하는 수준의 극단적인 더위가 예상된다.",
-      "이 외 지역에서도 최고 체감온도가 35도 안팎으로 올라 무덥겠다."
+      "[프로축구 중간순위] 2일."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7da5b796",
+    "id": "nf6c244ef",
     "category": "사회",
-    "source": "테크M",
-    "time": "49분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153914",
-    "title": "SKT '달리기' vs KT '안전'...통신사, 웨어러블 시장 '격돌'",
+    "source": "조선일보",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/08/02/WY562Q4255CVHNVED2P7FNFP44/",
+    "title": "“급유하고 그냥 가기 뭐해서...” 李 독일 간담회장 빵 터졌다",
     "summary": [
-      "SK텔레콤과 KT가 '스마트시계' 확산에 나섰다.",
-      "SK텔레콤은 개인(B2C)을 주목했다.",
-      "KT는 기업(B2B)을 겨냥했다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n4af2c2a0",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "55분 전",
-    "url": "https://view.asiae.co.kr/article/2026080220243570993",
-    "title": "롯데마트, 베트남 북부 박장 첫 출점…신흥 산업도시 공략 본격화",
-    "summary": [
-      "롯데마트가 베트남 북부 신흥 산업도시 박장에 신규 점포를 열고 북부 사업 확대에 속도를 낸다.",
-      "롯데마트는 7월 30일 베트남 북부 박장시에 현지 17호점인 '박장점'을 오픈했다고 2일 밝혔다.",
-      "그동안 호치민 등 남부를 중심으로 점포망을 확대해 온 롯데마트는 하노이 2개 점포에 이어 박장까지 진출하며 북부 사업을 본격 확대한다."
+      "“급유하고 그냥 가기 뭐해서...” 李 독일 간담회장 빵 터졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n275b0d8d",
+    "id": "n2b25d378",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "56분 전",
+    "url": "https://www.hankyung.com/article/202608020355g",
+    "title": "정의선 회장, 튀르키예서 아이오닉3 양산 준비 점검…\"품질 최우선\"",
+    "summary": [
+      "정의선 회장, 튀르키예서 아이오닉3 양산 준비 점검…\"품질 최우선\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n02372397",
     "category": "사회",
-    "source": "동아일보",
-    "time": "55분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260802/134408905/2",
-    "title": "주말 저녁 美 인앤아웃 매장서 총격 테러…3명 숨져",
+    "source": "한국경제",
+    "time": "59분 전",
+    "url": "https://www.hankyung.com/article/2026080203567",
+    "title": "'北 극비작전 실패' 보도하자…트럼프 행정부, 기자 상대로 취재원 색출",
     "summary": [
-      "미국 아이다호주의 한 인앤아웃 버거 매장에서 총격 사건이 발생해 최소 3명이 숨지고 2명이 다쳤다.",
-      "총격전이 매장 밖까지 이어지면서 쇼핑센터 일대는 대피하는 시민들로 큰 혼란에 빠졌다.1일(현지시간) 뉴욕타임스(NYT) 등에 따르면 이날 오후 2시 30분경 트윈폴스 경찰에는 인앤아웃 버거 매장 안에서 총격 사건이 발생했다는 신고가 접수됐다.",
-      "사건이 발생한 매장은 지난달 24일 문을 연 신규 매장이다."
+      "'北 극비작전 실패' 보도하자…트럼프 행정부, 기자 상대로 취재원 색출."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4c7e7c85",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/People/article/all/20260802/134408205/1",
-    "title": "트리플보기 딛고 샷이글…이다연, 아홉수 깨고 10승 대역전극",
-    "summary": [
-      "‘오뚝이’ 이다연(29)이 막판 대역전극을 펼치며 한국여자프로골프(KLPGA)투어 통산 10승을 달성했다.이다연은 2일 강원 원주 오로라 골프 앤드 리조트(파72)에서 끝난 오로라월드 챔피언십 최종 4라운드에서 이글 1개, 버디 4개, 트리플보기 1개를 묶어 3언더파 69타를 쳤다.",
-      "최종합계 12언더파 276타를 적어 낸 이다연은 김수지(30)를 1타 차로 제치고 정상에 올랐다.",
-      "우승 상금은 1억8000만 원.지난해 9월 하나금융그룹 챔피언십."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nff4f705a",
+    "id": "nfe105b6b",
     "category": "경제",
-    "source": "아시아경제",
+    "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026080220054448843",
-    "title": "\"시신 200구 안치 대비\"…스페인, 세우타 익사자 수색 이어가",
+    "url": "https://www.hankyung.com/article/2026080203537",
+    "title": "정청래, 부울경서 반격…누적 득표율 45.51%로 김민석 역전 [종합]",
     "summary": [
-      "스페인 당국이 북아프리카의 스페인 영토 세우타로 수만 명의 이주민이 대거 넘어오는 과정에서 숨진 희생자들의 시신을 찾기 위해 수색 작업을 이어가고 있다.",
-      "2일(현지시간) 스페인 국영방송 RTVE는 경찰 당국이 아직 수습되지 못한 익사자를 찾기 위해 세우타 인근 해역을 수색하고 있다고 보도했다.",
-      "한 경찰 관계자는 \"바다에는 아직도 더 많은 시신이 있다\"라고 이야기했다."
+      "정청래, 부울경서 반격…누적 득표율 45.51%로 김민석 역전 [종합]."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n85761229",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "3시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260802185639",
+    "title": "삼성, '유효 판단' 오우라 美특허 상대 항소...무효분쟁 항소 5건으로 확대",
+    "summary": [
+      "[지디넷코리아]삼성전자가 오우라 스마트링 특허 1건이 유효하다고 판단한 미국 특허심판원(PTAB) 결정에 불복하고 미국 연방항소법원(CAFC)에 항소했다.앞서 삼성전자는 오우라 특허 11건을 상대로 무효심판을 청구해 특허심판원에서 6건은 무효, 5건은 유효라는 판단을 받았다.",
+      "이번에 삼성전자가 항소하면서 특허심판원이 유효라고 판단한 오우라 특허 5건 모두에 대해 항소했다.스마트링은 반지 형태 웨어러블 제품이다.",
+      "여러 센서로 신체·건강정보를 스마."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#의료"
     ]
   }
 ];
@@ -646,20 +632,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "KBO",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
