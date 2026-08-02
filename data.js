@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-02 21:17:10
+// 마지막 업데이트: 2026-08-02 22:17:21
 window.NEWS_DB = [
   {
     "id": "n2d8dc056",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yM0Z5dUpWZjBxZjdFa0V0VHpYUmlGbml3eUhsRmszVmRCTjN0bURLT0hFY0xqNHJVMXJhU3RJVzItQXJzN1F4WVktak5obEFuRkZFbGFmcy1xMmh3bFRob0I0TG16VWJz?oc=5",
     "title": "中 문샷, 알리바바와 '엔비디아 칩 2만장' 사용 계약…美 반도체 우회 확보",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "na5600956",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HeGEtOUdPYkw1enRmd2pkc2lCNUdfS1lONFNlMzVoU05VWVF3cUdwbS0yOUpiVEoxdjQ3bFY5N2pwNGQzeEs3RURXT21vMFZLM1F3OEJn?oc=5",
     "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n8eacd9a0",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94bnllX2ZpcTBkVDl6RFVyX1l2cVAwUXpSUVhrSFpJdEtuRVZiVUtzVGJiQnNZUHJQQ08ySU5DM3FGSjFaekpqTEpPQl9BRlo5dmNqZXNiX0dzR2_SAWBBVV95cUxOWThBa2J6cUI0a2FrUVpDdm9OQmUtemw3eUR4WmlQS3dHU3M0dEc4dEhJeldXN1Z2Z2tqM3NfTWxESmVmb3E2dzU5bDlsM0pIWW9wZ3BhcjFqN3FJNnR4a20?oc=5",
     "title": "엔비디아, 나흘 만에 시가총액 1위 복귀…애플, 7%대 폭락",
     "summary": [
@@ -121,7 +121,7 @@ window.NEWS_DB = [
     "id": "nc4b0f988",
     "category": "IT",
     "source": "쿠키뉴스",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
@@ -152,7 +152,7 @@ window.NEWS_DB = [
     "id": "n94aa4795",
     "category": "IT",
     "source": "서울Pn",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
     "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
     "summary": [
@@ -198,12 +198,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "스트레이트뉴스",
+    "source": "straightnews.co.kr",
     "time": "47일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
     ],
     "chips": [
       "#금리"
@@ -212,12 +212,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "ytn.co.kr",
+    "source": "YTN",
     "time": "53일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
       "#금리",
@@ -313,10 +313,261 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd0b0059a",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026080307143542467",
+    "title": "마포푸르메어린이도서관, 배리어프리 공간으로 재개관",
+    "summary": [
+      "서울 마포구(구청장 유동균)의 공공도서관인 마포푸르메어린이도서관이 개관 10주년을 맞아 개선 공사를 마치고 다시 문을 열었다.",
+      "마포푸르메어린이도서관은 푸르메재단 넥슨어린이재활병원 안에 있는 도서관으로, 장애 어린이와 비장애 어린이가 함께 책을 읽는 문화공간이다.",
+      "병원을 이용하는 어린이도 편하게 이용할 수 있는 것이 특징으로, 도서관 안에서만 열람할 수 있는 토이북을 입원 환아에게 직접 배송하는 '북드림' 서."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n4069370b",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026073115245881630",
+    "title": "'명품'도 제친 삼성전자…백화점 가전매출 2배 늘었다",
+    "summary": [
+      "삼성전자의 온누리상품권 환급 행사가 백화점 소비 공식을 뒤흔들었다.",
+      "백화점 매출을 이끌던 명품 및 하이주얼리, 패션 등을 제치고 가전이 6월 전체 상품군 가운데 가장 높은 매출 신장률을 기록한 것이다.",
+      "롯데·신세계·현대백화점 모두 가전 매출이 전년 동기 대비 80~115% 급증하며 이례적인 성장세를 나타냈다."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nbd899537",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003733308",
+    "title": "[속보]트럼프 \"이란과 호르무즈 관련 합의…비핵화 합의도 있을 것\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = ◎공감언론 뉴시스 lje@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9eaba46d",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026080307115830238",
+    "title": "[속보]트럼프 \"미국, 일본과 좋은 관계라 엔화 개입\"",
+    "summary": [
+      "[속보]트럼프 \"미국, 일본과 좋은 관계라 엔화 개입\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na64447fd",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026080307113023563",
+    "title": "[날씨]푹푹 찌는 더위…오늘은 체감온도 몇도까지",
+    "summary": [
+      "월요일인 3일은 전국 대부분 지역에 폭염특보가 발효된 가운데 전남권·경상권 일부에는 폭염중대경보가 이어지며 낮 최고기온이 40도에 육박하는 무더위가 이어지겠다.",
+      "오후 한때 일부 지역에 소나기가 내리겠지만 비가 그친 뒤 높은 습도 속에 기온이 올라 더 더울 전망이다.",
+      "기상청에 따르면 주요 도시별 낮 최고기온은 서울 37도, 인천 34도, 춘천 35도, 강릉 34도, 대전 37도, 청주 37도, 전주 36도, 광주 39도, 대구 39도, 부."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d9735c7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003733303",
+    "title": "[인사]국가데이터처",
+    "summary": [
+      "[세종=뉴시스] ◇과장급 전보 ▲산업동향과장 정선경 ▲가계수지동향과장 박순옥 ▲표본과장 최재혁 ▲국가데이터혁신과장 이철희 ▲행정통계과장 송주화 ▲호남지방데이터청 지역통계과장 백종립."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0a70f3af",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/03/GNQWIZDDHAZDKYZZGRQTAYTEGE/",
+    "title": "손민수, 뼈를 깎는 재활 치료 중…\"목발 없이 걷기 연습, 육아 복귀가 목표\" ('엔조이커플')",
+    "summary": [
+      "[OSEN=박근희 기자] 손민수가 부상 이후 뼈를 깎는 재활 치료에 매진하며 육아 복귀를 향한 강한 의지를 드러냈다.2일 오후 유튜브 채널 ‘엔조이커플’에는 ‘아무리 피곤해도 쌍둥이 데리고 나가는 이유’라는 제목의 영상이 게재됐다.손민수는 부상 회복을 위해 병원을 방문해 \"도수치료랑 실밥 제거한다고 합니다\"라고 말하며 치료를 받았다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n61b008fb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/03/MNRDSMZSGA2DGNBZHA3TAZBZGI/",
+    "title": "\"벅차게 감사\" 김고은 '대상' 짤이 몇 개야..조카 환호→이동욱 미소→이상이 리액션까지 [핫피플]",
+    "summary": [
+      "[OSEN=김수형 기자] 배우 김고은의 청룡시리즈어워즈 대상 수상 이후 훈훈한 후일담이 계속 이어지고 있다.김고은은 1일 자신의 SNS에 \"너무나 벅차게 감사하고 행복했습니다.",
+      "축하해주셔서 감사합니다\"라는 글과 함께 제5회 청룡시리즈어워즈 현장과 가족들의 반응이 담긴 영상을 공개했다.영상 속 가족들은 TV 앞에 모여 수상 결과를 지켜봤고, 김고은의 이름이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec75b082",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003733307",
+    "title": "미성년자 간음 20대 징역 3년…法 \"심신미약 인정 안 돼\"",
+    "summary": [
+      "[충주=뉴시스] 연현철 기자 = 알고 지낸 미성년자에게 성범죄를 저지른 20대에게 실형이 선고됐다.",
+      "3일 법조계에 따르면 청주지법 충주지원 형사1부(부장판사 빈태욱)는 최근 아동·청소년의 성보호에 관한 법률 위반(위계등간음) 혐의로 기소된 A(20대)씨에게 징역 3년을 선고했다.",
+      "A씨는 2024년 7월 알고 지내던 미성년 피해자를 간음한 혐의로 재판에 넘겨졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a8be301",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803009300009",
+    "title": "伊프리스미안, AI전력인프라 겨냥 美 전기자재 업체 인수 추진",
+    "summary": [
+      "(서울=연합뉴스) 정주호 기자 = 이탈리아의 세계 최대 전선·케이블 제조업체 프리스미안(Prysmian)이 미국 전기자재업체 애트코어(Atkor..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nf1c61987",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003733306",
+    "title": "[속보]트럼프 \"이란과 내일 협상 시작…무력 사용 원치 않아\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = ◎공감언론 뉴시스 lje@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n78be7328",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731135100055",
+    "title": "[벼랑끝노인] ③ 홀몸노인 245만 시대…고립된 노후, 커지는 돌봄 공백",
+    "summary": [
+      "(전국종합=연합뉴스) \"어르신, 오늘도 나와계셨네요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8e740b65",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260731132100063",
+    "title": "대전시, 지하상가 입찰 의혹 검찰서도 '무혐의'…법적조치 가나",
+    "summary": [
+      "(대전=연합뉴스) 박주영 기자 = 대전시가 중앙로지하도상가의 상가 일반경쟁입찰과정에서 조회수를 조작했다는 의혹과 관련, 경찰에 이어 검찰 조사에..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n48b0c48a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802049800001",
+    "title": "[오늘의 국회일정](3일·월)",
+    "summary": [
+      "[오늘의 국회일정](3일·월)."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0197e3cd",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260802/134409367/1",
+    "title": "울산, ‘멀티골’ 이동경 앞세워 안양 3-1로 꺾고 리그 2위 도약[어제의 프로축구]",
+    "summary": [
+      "프로축구 K리그1(1부) 울산이 이동경의 멀티골을 앞세워 안양을 꺾고 리그 2위로 올라섰다.울산은 2일 울산문수경기장에서 열린 안양과의 2026시즌 K리그1 안방경기에서 3-1로 역전승을 거뒀다.",
+      "1-1로 맞서던 후반 28분 안양 수비수 권경원과 골키퍼 김정훈이 페널티 에어리어에서 공을 한번에 처리하지 못했고, 이동경이 앞으로 흘러나온 공을 빈 골문 안에 집어넣으며 며 역전 골을 터뜨렸다.",
+      "이동경은 2-1로 앞선 후반 32분엔 프리킥으로 쐐기골."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncd44c6e0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/international/us/2026/08/03/DNWCMH4RTRDN5EOFHTHPFYKVUQ/",
+    "title": "[속보] 트럼프 “이란과 호르무즈 해협 관련 합의… 핵 합의도 있을 것“",
+    "summary": [
+      "[속보] 트럼프 “이란과 호르무즈 해협 관련 합의… 핵 합의도 있을 것“."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n27593cff",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260803/134410028/1",
+    "title": "트럼프, 중동 긴장 속 골프 우승 자랑…“연습 시간 없었는데 골프 우승”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 대규모 이란 공습을 전격 보류한다고 발표한 다음 날인 2일(현지시간) 자신이 소유한 골프장의 클럽 챔피언십 우승을 했다고 밝혔다.트럼프 대통령은 이날 소셜미디어 트루스소셜에 “베드민스터 클럽 챔피언십 우승 샷!”이라는 글과 함께 13초짜리 동영상을 올렸다.",
+      "동영상에는 뉴저지주 베드민스터의 ‘트럼프 내셔널 골프클럽’을 찾은 그가 약 30m 거리에서 어프로치샷을 날려 공을 홀컵 가까이 붙이는 장면이 담겼다.트럼프 대통령."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "n8d38e7dc",
     "category": "경제",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "25분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153919",
     "title": "쿠팡 PB 손잡은 중소 제조사들…매출 늘자 R&D 재투자 '선순환'",
     "summary": [
@@ -328,294 +579,43 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc2b35d68",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/03/MJSDGZLBHFTGIOJRMU2WEZBYGU/",
-    "title": "'강정호 고액과외' 소용없던 김대한, '이천 베어스'가 살렸다 → 휘문고 오타니 잠재력, 드디어 터지나",
+    "id": "n4a90ac3f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "40분 전",
+    "url": "https://www.hankyung.com/article/2026080304757",
+    "title": "국힘, 오늘 청와대 앞 최고…'보완수사권 폐지법' 거부권 촉구",
     "summary": [
-      "[스포츠조선 한동훈 기자] \"바이오 메카닉이라는 프로그램을 통해서 정밀하게 분석했다.\" '휘문고 오타니' 두산 베어스 외야수 김대한이 프로 8년차에 드디어 잠재력을 터뜨린 것일까.",
-      "김대한이 최근 불을 뿜는 장타력을 과시하며 심상치 않은 타격감을 과시했다.",
-      "김대한은 2일 잠실 LG 트윈스전 4타수 2안타 2타점 2득점 활약하며 8대3 승리에 앞장섰다."
+      "국힘, 오늘 청와대 앞 최고…'보완수사권 폐지법' 거부권 촉구."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nda74f15b",
-    "category": "부동산",
+    "id": "n0a118fa6",
+    "category": "경제",
     "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260803/134410007/1",
-    "title": "美 워싱턴주 대형산불로 5000가구 대피…비상사태 선포",
+    "time": "41분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260803/134410013/1",
+    "title": "“노재팬 완전히 끝났다”…상반기 日 맥주 수입액 10년 중 최대",
     "summary": [
-      "미국 워싱턴주 제2 도시인 스포캔시 인근에서 대형 산불이 발생해 5000가구가 대피하고 주택과 건물 약 600채가 불탔다.2일(현지시간) AFP통신 등 외신에 따르면 스포캔시 인근에서 산불이 최소 3건 발생해 8.2제곱마일(약 21㎢)이 넘는 지역이 불에 탔다.",
-      "당국은 스포캔 대부분에 최고 단계인 3단계 대피령을 내렸다.인구 약 23만 명의 스포캔에서 촬영된 영상에는 주택들이 잇따라 화염에 휩싸이거나 잿더미로 변한 모습이 담겼다."
+      "일본 맥주 수입이 최근 10년간 상반기 기준 최고치를 기록했다.",
+      "2019년 일본 제품 불매운동(노재팬) 여파로 급감했던 수입 규모가 불매운동 이전 수준을 넘어선 것이다.업계에서는 일본 제품에 대한 소비자들의 거부감이 크게 옅어진 데다 엔저와 양국 관계 개선 등이 맞물리면서 일본 맥주가 국내 수입맥주수입맥주 시장에서 다시 존재감을 키우고 있다는 분석이 나온다.3일 관세청 수출입무역통계에 따르면 올해 상반기 일본 맥주 수입액은 4592만달러로 집계."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "n3b8320fb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802037500530",
-    "title": "19∼39세 여성 62% \"성관계시 항상 피임\"…3년새 10%p↑",
-    "summary": [
-      "(서울=연합뉴스) 서한기 기자 = 2025년 기준 한국 여성의 성관계 시 피임 실천율과 현대적 피임 방법 사용 비율이 2022년에 비해 전반적으..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8f24cc70",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803006200056",
-    "title": "제주, 무더위 이어져…낮 최고기온 33∼34도",
-    "summary": [
-      "(제주=연합뉴스) 전지혜 기자 = 월요일인 2일 제주는 대체로 맑고 산지는 오후에 가끔 구름 많겠으며, 무더위가 이어지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n540957d3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/03/MEZWGZTEHEYTANJTGE3DSYLGGI/",
-    "title": "'홍명보 감독이 문제였네!' 손흥민, 5경기에서 6골 대폭발...이런 선수를 벤치에 두다니",
-    "summary": [
-      "[OSEN=서정환 기자] '캡틴' 손흥민(34·LAFC)이 또 골망을 흔들었다.손흥민은 미국 메이저리그사커(MLS) 정규리그서 4경기 연속골을 터뜨리며 LAFC의 선두 경쟁을 이끌고 있다.",
-      "MLS 올스타전까지 포함하면 공식전 5경기 연속 득점이다.",
-      "국가대표팀 주장 손흥민은 북중미 월드컵 당시의 부진은 완전히 털어냈다."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "n6421e97d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803005900064",
-    "title": "충북 오후에 소나기…낮 최고 37도",
-    "summary": [
-      "(청주=연합뉴스) 이성민 기자 = 3일 충북에는 오후부터 소나기가 내리는 곳이 있겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n991e53b0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803005800053",
-    "title": "대구·경북 낮 기온 39도 불볕더위…일부 지역 5∼40㎜ 소나기",
-    "summary": [
-      "(대구=연합뉴스) 황수빈 기자 = 3일 대구와 경북은 낮 기온이 39도까지 올라 무덥겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n897ff957",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732462",
-    "title": "한전, 재무위험 관리 '경계'로 격상…자회사까지 부담 번지나",
-    "summary": [
-      "[세종=뉴시스]손차민 기자 = 한국전력공사가 전력구입비 상승으로 재무위험이 커졌다고 보고 내부 관리 단계를 격상한 것으로 확인됐다.",
-      "전기요금 인상이 쉽지 않은 상황에서 한전의 재무 부담이 자회사까지 번질 수 있다는 우려가 커지고 있다.",
-      "3일 에너지 업계에 따르면 한전은 지난 6월 재무위험 관리 단계를 '경계'로 상향했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n232ca126",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003733279",
-    "title": "전북, 낮 34~36도 찜통더위…식중독지수 '위험' 단계",
-    "summary": [
-      "[전북=뉴시스]고석중 기자 = 3일 월요일 전북지역은 대체로 맑은 하늘을 보이는 가운데, 밤낮을 가리지 않는 무더위가 이어질 전망이다.",
-      "기상청에 따르면 지난밤 사이 고창·김제·완주 등 10개 시·군에 열대야가 나타나며 잠 못 이루는 밤이 이어졌다.",
-      "한낮에는 찜통더위가 맹위를 떨치겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74dda7c4",
+    "id": "nc0bd0264",
     "category": "사회",
     "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260803/134409999/1",
-    "title": "美워싱턴주 잇단 대형 산불…“600채 피해·5000가구 대피”",
+    "time": "43분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260803/134410010/1",
+    "title": "새벽 대구 서구 재활용업체서 불…5시간째 진화 중",
     "summary": [
-      "미국 북서부 워싱턴 동부에서 잇단 산불이 발생해 최소 600채의 건물이 파괴되고 수천 가구가 대피했다.2일(현지 시간) AP통신 등에 따르면 워싱턴주 제2의 도시 스포캔 인근에서 산불이 최소 3건 발생했다.",
-      "8.2제곱마일(약 21㎢)이 넘는 지역이 불에 탔다.당국은 스포캔 대부분에 최고 단계인 3단계 대피령을 내렸다.",
-      "당국은 이번 화재로 약 5000가구가 대피하고 600채에 달하는 건물이 피해를 입었다고 밝혔다.뉴욕타임스(NYT)가 인용한 소셜."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb9df47ef",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003732149",
-    "title": "\"우울증까지 치료한다고?\"…영역 넓히는 'K-톡신'",
-    "summary": [
-      "[서울=뉴시스]이소헌 기자 = 피부 개선과 주름 관리 등 미용 의료 영역에서 주로 활용되는 보툴리눔 톡신 제제에 대해 국내 제약바이오 기업들이 미용을 넘어 치료까지 적응증을 확대하며 영역을 넓히고 있다.",
-      "3일 제약바이오업계에 따르면 종근당바이오는 최근 회사의 보툴리눔 톡신 제제 '티엠버스주 100unit'이 미국 식품의약국(FDA)으로부터 주요우울장애(MDD)를 적응증으로 하는 임상 1상 시험 계획을 승인받았다.",
-      "티엠버스주는 독일 기관의 독점."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n43cfe369",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801020500530",
-    "title": "한국잡월드, 청년 응원 프로젝트 '너의 근황을 들려줘' 공모전",
-    "summary": [
-      "(서울=연합뉴스) 옥성구 기자 = 고용노동부 산하 종합직업체험관 한국잡월드가 오는 31일까지 청년 응원 프로젝트 '너의 근황을 들려줘' 공모전을..."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n60de2465",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260730166000505",
-    "title": "[소셜＋] \"구직자 추천용이라더니\"…알바몬 '일방적 평판 공유' 논란",
-    "summary": [
-      "(서울=연합뉴스) 서효주 인턴기자 = \"2번 연속 면접 노쇼\", \"연락 없이 무단결근.\"."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "na05d1936",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802032500004",
-    "title": "서울시, 채무위기 청년 227명 맞춤 진단·자립기반 마련 지원",
-    "summary": [
-      "(서울=연합뉴스) 김동규 기자 = 서울시복지재단 청년동행센터는 작년 한 해 동안 서울시 채무 위기 청년 227명에게 채무진단보고서를 발급하고 맞..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8bf38304",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802032600004",
-    "title": "서울시, 내달 17일 양재 aT센터서 '시니어 일자리박람회'",
-    "summary": [
-      "(서울=연합뉴스) 김동규 기자 = 서울시는 다음 달 17일 서초구 양재 aT센터에서 열리는 '서울시 시니어 일자리박람회 2026'에 참여할 기업..."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n2f00259b",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "16분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/03/7GTMHOUJK5FI5FWLIJYGXZ2RU4/",
-    "title": "공장과 로봇 묶는 ‘AI 두뇌’… IT서비스 업계, 공장 OS 선점 경쟁",
-    "summary": [
-      "공장과 로봇 묶는 ‘AI 두뇌’… IT서비스 업계, 공장 OS 선점 경쟁."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n17438036",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003730828",
-    "title": "[오늘의 주요일정]경제(8월3일월요일)",
-    "summary": [
-      "[세종=뉴시스] ▲~5일 여한구 산업통상부 통상교섭본부장, 국외출장(방글라데시) ▲10:00 송미령 농림축산식품부 장관, 농특세 활용 농업·농촌 성장전략 전문가 회의(서울) ▲13:30 김성환 기후에너지환경부 장관, 업무보고 사전브리핑 및 기자간담회(서울)."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n00147d60",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260803/134409996/1",
-    "title": "“한국에 시체 37건 발견”…허위 사실 유포 ‘97만 유튜버’ 日귀화선언 논란",
-    "summary": [
-      "한국에서 훼손된 시신이 대거 발견됐다는 허위 영상을 올려 경찰에 송치된 한국인 유튜버가 일본 귀화를 추진하겠다고 밝혔다.2일 방송계에 따르면 구독자 약 95만 명을 보유한 유튜브 채널 ‘한국인 선생님 대보짱’ 운영자 조모 씨(33)는 자신의 공개 영상을 통해 “한국 국적을 포기하고 일본으로 귀화하기로 했다”고 밝혔다.조 씨는 “7년 전부터 일본인이 되고 싶다는 생각을 해왔다.",
-      "국적을 포기하면 가족관계증명서에서도 이름이 빠지기 때문에 쉽게 결정하."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b0a6f5e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260803/134409991/1",
-    "title": "“언니 죽으면 유산은 우리 애 몫”…병원서 우연히 들은 동생 부부의 말",
-    "summary": [
-      "건강검진에서 큰 병이 의심된다는 소견을 받고 방문한 병원에서 자신이 세상을 떠나면 재산을 상속받게 될 것이라는 대화를 나누는 동생 부부의 이야기를 우연히 듣고 충격을 받았다는 40대 여성의 사연이 전해졌다.31일 YTN 라디오 ‘조인섭 변호사의 상담소’에는 평생 결혼하지 않고 혼자 살아온 40대 여성 A 씨의 사연이 소개됐다.대기업에 다니며 내 집을 마련하고 꾸준히 재산을 불려 온 A 씨에게 가장 가까운 가족은 여동생이었다.A 씨는 “주말이면."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n4756818c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/03/MS2VRRE4AFA2JMLWUXZQECTUL4/",
-    "title": "한국 기업이 작심하고 개발한 비거리 특화 드라이버, 22만원대 초특가 히트",
-    "summary": [
-      "한국 기업이 작심하고 개발한 비거리 특화 드라이버, 22만원대 초특가 히트."
+      "3일 오전 1시쯤 대구 서구 상리동의 한 재활용 업체에서 원인을 알 수 없는 불이 나 소방 당국이 5시간째 진화 작업을 벌이고 있다.현재까지 확인된 인명피해는 없는 것으로 전해졌다.서구는 “재활용공장 화재로 연기가 확산하고 있으니 외출을 자제하고 창문을 닫아달라”는 내용의 재난문자를 발송했다.경찰과 소방 당국은 불길이 잡히는 대로 정확한 화재 원인과 피해 규모를 파악할 예정이다.(대구=뉴스1)."
     ],
     "chips": [
       "#뉴스"
@@ -628,8 +628,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -639,9 +639,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "고용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
