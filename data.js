@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-02 01:32:35
+// 마지막 업데이트: 2026-08-02 03:00:30
 window.NEWS_DB = [
   {
     "id": "n8eacd9a0",
@@ -32,12 +32,12 @@ window.NEWS_DB = [
   {
     "id": "n20482ffd",
     "category": "IT",
-    "source": "연합인포맥스",
+    "source": "news.einfomax.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
     "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
     "summary": [
-      "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 | 연합인포맥스."
+      "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 | news.einfomax.co.kr."
     ],
     "chips": [
       "#삼성전자"
@@ -75,12 +75,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
-    "time": "2일 전",
+    "source": "Chosunbiz",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
@@ -89,12 +89,12 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "쿠키뉴스",
+    "source": "kukinews.com",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
     ],
     "chips": [
       "#AI",
@@ -106,12 +106,12 @@ window.NEWS_DB = [
   {
     "id": "n319886b4",
     "category": "IT",
-    "source": "thescoop.co.kr",
+    "source": "더스쿠프",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vejNwTVBhYkJNbHlNMHRPVFE2M0RWbWVoNzRJTzZHR1YwOEdlbWFBQmJfdmR0ZktkUUJzVFd3UjdKU29DNW5KVlNwaXZJdTJ2Q0FKY1VOdlVUMm5wcG1kSm9kcERpRWlVbWZsOU5R?oc=5",
     "title": "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전]",
     "summary": [
-      "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전] thescoop.co.kr."
+      "“돈 빌려줄 테니 제품 사!” 반도체 고점론 부추긴 엔비디아 ‘매도자 금융’ [경제용어사전] 더스쿠프."
     ],
     "chips": [
       "#반도체",
@@ -121,12 +121,12 @@ window.NEWS_DB = [
   {
     "id": "nadcbed93",
     "category": "IT",
-    "source": "businesspost.co.kr",
+    "source": "비즈니스포스트",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
-      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 businesspost.co.kr."
+      "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -228,12 +228,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "64일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#부동산"
@@ -242,12 +242,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "64일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -314,319 +314,324 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0ccb227b",
+    "id": "n7da5b796",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003732910",
-    "title": "광주송정역 인근 폐 유흥시설, 공영주차장 조성 제동…의회 반대",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153914",
+    "title": "SKT '달리기' vs KT '안전'...통신사, 웨어러블 시장 '격돌'",
     "summary": [
-      "[전남광주=뉴시스]이영주 기자 = 광주송정역 맞은편에 장기 방치된 폐 유흥시설을 철거하고 공영주차장(쌈지쉼터)을 조성하는 사업이 의회의 반대로 제동이 걸렸다.",
-      "사업이 관련 상임위원회(상임위)를 무리 없이 통과했음에도 예산결산특별위원회(예결위)에서 최종 무산되면서 상임위 심사 결과를 충분히 반영하지 않았다는 지적이 제기된다 2일 전남광주 광산구와 광산구의회 등에 따르면 의회는 지난달 30일 열린 제306회 제5차 예산결산특별위원회에서 1차 추경안."
+      "SK텔레콤과 KT가 '스마트시계' 확산에 나섰다.",
+      "SK텔레콤은 개인(B2C)을 주목했다.",
+      "KT는 기업(B2B)을 겨냥했다."
     ],
     "chips": [
-      "#뉴스"
+      "#삼성전자"
     ]
   },
   {
-    "id": "n21efe29f",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802012100011",
-    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-    "summary": [
-      "[연합뉴스 이 시각 헤드라인] - 10:30."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n10d0032a",
+    "id": "nde73a7b1",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003732909",
-    "title": "고전과 현대, 음악으로 이어지다…서울서 실내악 축제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153913",
+    "title": "삼성전자·LG전자, 韓 히트펌프 주도권 경쟁 '점화'",
     "summary": [
-      "[서울=뉴시스] 조기용 기자 = 고전과 현대를 아우르는 실내악이 이달 울려 퍼진다.",
-      "공연기획사 스테이지원에 따르면 오는 9~14일 서울 거암아트홀과 예술의전당에서 '랑데뷰 드 라 무지크 페스티벌 2026'이 열린다.",
-      "2022년 시작한 축제는 올해로 5회차를 맞았다."
+      "삼성전자와 LG전자의 '히트펌프' 경쟁이 점화했다.",
+      "히트펌프는 전기를 이용한 냉난방공조(HVAC) 기기다.",
+      "친환경 냉난방 기기로 주목을 받고 있다."
     ],
     "chips": [
-      "#뉴스"
+      "#삼성전자",
+      "#환경"
     ]
   },
   {
-    "id": "nc0b13826",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260802/134406043/1",
-    "title": "놀란은 익선동 소금빵·맷 데이먼은 야구장…‘오디세이’ 팀, 한국 푹 빠졌다",
-    "summary": [
-      "영화 ‘오디세이’ 팀이 국내 공식 일정을 앞두고 한국 문화를 즐기는 모습으로 화제를 모으고 있다.영화 ‘오디세이’의 크리스토퍼 놀란 감독과 엠마 토마스 프로듀서, 배우 맷 데이먼, 샤를리즈 테론은 지난 1일 입국했다.",
-      "이들은 입국 현장에서 팬들과 일일이 사진을 촬영하는 등 다정한 팬서비스를 선보이며 뜨거운 환영을 받았다.특히 맷 데이먼은 입국 직후 고척스카이돔을 찾아 키움 히어로즈 홈경기를 직관했다.",
-      "키움 유니폼을 입고 한국 프로야구 특유의 응."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8891795d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802016400052",
-    "title": "마산의료원, 신경과·소아청소년과 전문의 1명씩 충원",
-    "summary": [
-      "(창원=연합뉴스) 이정훈 기자 = 경남도는 마산의료원이 신경과, 소아청소년과 전문의를 1명씩 새로 충원해 진료를 시작했다고 2일 밝혔다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n5b4c2b86",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003732911",
-    "title": "서울 서북권 폭염특보 격상…서울 전역 폭염경보",
-    "summary": [
-      "[서울=뉴시스]이태성 기자 = 기상청은 2일 오전 11시를 기해 서울 서북권에 폭염경보를 발효한다고 밝혔다.",
-      "해당하는 행정 구역은 은평구, 종로구, 마포구, 서대문구, 중구, 용산구다.",
-      "이로써 서울 전역에 폭염경보가 내려지게 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5b3ebf53",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802015600030",
-    "title": "BGF리테일, CU PB '피빅' 패키지로 레드닷 디자인 본상 수상",
-    "summary": [
-      "(서울=연합뉴스) 김세린 기자 = 편의점 CU를 운영하는 BGF리테일[282330]은 자체브랜드(PB) '피빅'의 패키지로 '2026 레드닷 디..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3da19a03",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003732906",
-    "title": "군산 한 목조공장서 불…60대 직원 화상에 병원 이송(종합)",
-    "summary": [
-      "[군산=뉴시스] 윤난슬 기자 = 2일 오전 3시 4분께 전북 군산시 소룡동의 한 목재 가공·제조 공장에서 불이 났다.",
-      "이 불로 공장 직원인 60대 남성이 우측 팔과 안면부에 2도 화상을 입어 병원으로 옮겨져 치료받고 있다.",
-      "또 공장 일부가 소실되고 프레스 기계와 목재, 합판 등도 탄 것으로 파악됐다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc41a3abb",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/02/4WYC3EONJNHOPPFKLHMKBFAZ3U/",
-    "title": "전국 집값 상승률은 세계 주요 도시 보다 낮은데, 서울 상위 5% 집값은 46개국 중 2위",
-    "summary": [
-      "전국 집값 상승률은 세계 주요 도시 보다 낮은데, 서울 상위 5% 집값은 46개국 중 2위."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n1d9784d4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/02/GJRDKN3DG4YWGYRUGVSDSN3EGE/",
-    "title": "'충격, 이런 반전이 있나' 베식타시 열받게 한 '이집트 스타' 살라, 트라브존스포르와 FA 계약 임박..'하이재킹 당한 베식타시 반발 예상'",
-    "summary": [
-      "[스포츠조선 노주환 기자]EPL 리버풀과 작별한 이집트 축구 스타 모하메드 살라가 결국 튀르키예 트라브존스포르 유니폼을 입을 것 같다.",
-      "최근까지 같은 튀르키예 베식타시와 협상을 진행해왔지만 성사되지 않았고, 라이벌 팀과 합의에 도달하는 모양새다.",
-      "유럽 축구 이적 전문가 중 한 명인 산티 아우나 기자에 따르면 라이벌 트라브존스포르가 과감한 영입 시도에 나서면."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n75a579ad",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802014600003",
-    "title": "정의선, 튀르키예공장서 아이오닉3 점검…유럽공략 전략 논의",
-    "summary": [
-      "(서울=연합뉴스) 홍규빈 기자 = 정의선 현대차그룹 회장이 현대차 튀르키예 공장을 찾아 유럽 전략 차종인 아이오닉3의 양산 품질을 점검했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79f70f26",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/08/02/HBRTEN3FGQ3WCM3CHA3DCZTFME/",
-    "title": "'성매매 벌금형' 지나, 구릿빛 비주얼 호주서 활동재개 근황 \"일하러 왔지만\"",
-    "summary": [
-      "[OSEN=최이정 기자] 가수 지나(G.NA)가 호주에서의 근황을 전했다.지나는 1일 자신의 SNS를 통해 \"일하러 호주에 왔지만, 회의와 비행기 사이에서 잠시 천천히 주변을 바라볼 여유를 찾았어요\"라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속 지나는 호주의 브리즈번, 멜버른을 거쳐 케언즈를 여행 중인 모습이다.",
-      "그는 자연스러운 민소매 탑에 화."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n972416d6",
-    "category": "사회",
+    "id": "n40f562e5",
+    "category": "IT",
     "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026080210173269901",
-    "title": "교육부 장관 끌어내린 바퀴벌레당에 손내민 印 모디 총리…\"욕설 시위대 용서하겠다\"",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026080211160362565",
+    "title": "'뇌 신호 차단' 암 악액질 치료 새 전략…\"생존율 향상 확인\"",
     "summary": [
-      "전국 의과대학 입학 자격시험 문제 유출 사태로 결성된 청년 정치 단체 '바퀴벌레 국민당(Cockroach Janta Party·CJP)'이 시위 과정 중 나렌드라 모디 인도 총리를 모욕했으나, 모디 총리가 이를 용서하겠다고 밝혔다.",
-      "1일(현지시간) AFP 통신 등에 따르면 모디 총리는 전날 사회관계망서비스(SNS)에 \"일부 철없는 청년들이 심한 욕설을 했다.",
-      "문명사회에서는 용납될 수 없는 말들이 나왔고 그 말은 나뿐 아니라 고인이 된 내 어."
+      "'암 악액질(Cancer-associated cachexia)'을 예방·치료할 새로운 전략이 나왔다.",
+      "암 악액질은 전체 암 환자의 50~80%에서 발생하는 복합 대사 증후군이다.",
+      "체중·근육 감소와 전신 쇠약이 주된 특징이다."
     ],
     "chips": [
-      "#정치",
+      "#AI",
       "#교육"
     ]
   },
   {
-    "id": "nb78a0f87",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802006151053",
-    "title": "포항 바다·저수지 수난사고 잇따라…1명 심정지·2명 사망(종합)",
-    "summary": [
-      "(포항=연합뉴스) 황수빈 기자 = 경북 포항의 바다와 저수지에서 수난사고가 잇따라 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf1220458",
+    "id": "ne266a7a3",
     "category": "사회",
     "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026080210155059853",
-    "title": "한국 '서울공화국' 더 심해졌다…수도권 인구 집중 OECD 최고",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026080210570241769",
+    "title": "비수도권·취약지 응급의료기관 94곳에 '1000억 정책자금' 융자 지원",
     "summary": [
-      "한국의 수도권 인구 집중이 경제협력개발기구(OECD) 회원국 가운데 가장 심각한 수준인 것으로 나타났다.",
-      "주요 선진국들의 수도권 집중이 완화되는 흐름을 보이는 것과 달리, 한국은 서울과 수도권으로 인구가 계속 몰리며 대조적인 모습을 보였다.",
-      "2일 일본 니혼게이자이신문은 유엔의 '세계 도시화 전망(World Urbanization Prospects) 2025년판'을 토대로 OECD 회원국 37개국의 수도권 인구를 분석한 결과, 한국의 수도권 인구."
+      "보건복지부는 비수도권과 응급의료 취약지에 있는 응급의료기관 94곳에 장기·저리 정책자금 1000억원을 올해 한시적으로 지원한다고 2일 밝혔다.",
+      "이번 융자지원은 응급의료기관의 경영난 해소를 위한 자금 지원 성격으로, 대상은 응급의료법에 따라 지정된 권역응급의료센터, 지역응급의료센터, 지역응급의료기관이다.",
+      "응급의료 취약지는 지역응급의료센터에 30분 이내, 권역응급의료센터에 1시간 이내 도달이 어려운 인구가 지역."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7a9a86ec",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026080210133551547",
-    "title": "\"무슨 사업을 할까요? 시민이 선택해주세요\"…대구시, 주민참여 54개사업 온라인 시민투표",
-    "summary": [
-      "대구시는 2027년 주민참여예산사업 선정을 위해 3일부터 21일까지 3주간 온라인 시민 투표를 진행한다.",
-      "대구시는 올해 공개 모집한 주민제안사업에 대해 사업부서의 타당성 검토와 주민참여예산위원회 심사를 거쳐 투표 대상 사업 54개를 선정했다.",
-      "이번 투표 결과를 바탕으로 2027년 주민참여예산사업이 최종 결정된다.투표는 대구시민과 대구에 사업장을 둔 직장인, 학생이라면 누구나 참여할수 있다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n800c1844",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026080210070944297",
-    "title": "중노위, 세종 4동·민간 빌딩으로 '분산 이전'…산안본부는 5년만에 세종청사 복귀",
-    "summary": [
-      "고용노동부가 13년 동안 한 지붕을 써온 중앙노동위원회(중노위)를 내보내고, 산업안전보건본부(산안본부)를 본청에 전면 배치하는 대대적인 청사 재배치에 나선다.",
-      "정부가 '산재 감축'을 최우선 국정과제로 내걸면서 차관급으로 위상이 높아진 산안본부가 본청을 탈환한 반면, '노란봉투법' 시행 등으로 업무 부담이 폭증한 중노위는 본청을 떠나 쪼개기 이사를 해야 하는 처지에 놓였다.2일 관계부처에 따르면 정부세종청사 11동."
-    ],
-    "chips": [
-      "#고용",
+      "#정책",
       "#의료"
     ]
   },
   {
-    "id": "n7f12fa92",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260802/134405999/1",
-    "title": "정의선 회장, 튀르키예서 ‘아이오닉 3’ 생산 점검…“양산 초기부터 품질 최우선”",
+    "id": "ne0b08382",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026080210535831262",
+    "title": "불법추심 대포폰 차단까지 '7일→3일'…금감원 '대포폰 제로' 가동",
     "summary": [
-      "정의선 현대차그룹 회장이 하반기 유럽 소형 전기차 시장을 공략할 첫 소형 전기차 아이오닉 3의 양산 품질을 점검하기 위해 튀르키예 공장을 방문했다.현대차는 정 회장이 지난달 30일(현지시간) 튀르키예 이스탄불 인근 항구 도시 이즈미트에 위치한 현대차 튀르키예 공장의 아이오닉 3 생산라인을 둘러보고, 임직원들과 현지 생산·판매 전략을 논의했다고 2일 밝혔다.정 회장은 아이오닉 3의 차체 생산부터 의장 라인까지 생산 과정을 면밀히 살피고 철저한 품."
+      "금융감독원은 불법사금융업자의 대포폰을 이용한 불법 추심을 신속히 차단하기 위해 '대포폰 제로(AWCS)'를 가동한다고 2일 밝혔다.",
+      "대포폰 제로는 불법사금융업자의 전화번호로 2~3초 간격으로 자동 전화를 무제한 발신해 통화 시도를 차단하는 방식이다.",
+      "이를 통해 고금리 불법 대부와 불법추심에 이용된 전화번호 기반 불법 행위를 전화번호 이용중지 조치 이전부터 무력화할 수 있게 된다."
     ],
     "chips": [
-      "#전기차"
+      "#금리"
     ]
   },
   {
-    "id": "n222cbfc0",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260731077900064",
-    "title": "현금 결제 유도해 매출 세액 탈루…인테리어 업자 벌금 6억원",
+    "id": "n45e70fcd",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026080210331379387",
+    "title": "FIU, APG 연차총회 참석…\"불법자금 차단 위한 국제공조 강화\"",
     "summary": [
-      "(청주=연합뉴스) 이성민 기자 = 고객에게 현금 결제를 유도하는 방식으로 매출 세액을 탈루한 인테리어 업자에게 거액의 벌금이 선고됐다."
+      "금융위원회 금융정보분석원(FIU)은 브루나이 다루살렘에서 열린 국제자금세탁방지 아시아·태평양 지역기구(APG) 연차총회에 참석해 불법자금 조기 차단을 위한 국제 공조와 민관 협력의 중요성을 강조했다고 2일 밝혔다.",
+      "지난달 27일부터 31일까지 열린 이번 총회에는 APG 회원국 41개국과 국제통화기금(IMF), 세계은행(WB), 아시아개발은행(ADB) 등 옵저버 기구 소속 약 350명의 대표단이 참가했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n08e8665b",
+    "id": "nd34de8b2",
     "category": "사회",
     "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260731/134394727/3",
-    "title": "자동으로 깨끗해지는 ‘인간 세탁기’ 욕조, 日 복지현장서 실용화",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260802/134406382/1",
+    "title": "차은우, 130억 세금 전액 납부 후 ‘불복’ 청구",
     "summary": [
-      "앉아만 있어도 미세한 기포가 모공 속 노폐물을 흡착해 온 몸의 노폐물을 제거해 주는 특수 욕조가 일본 노인복지 분야에서 실용화됐다."
+      "가수 겸 배우 차은우가 국세청으로부터 약 130억원의 세금을 추징받아 전액 납부한 뒤, 과세 처분에 불복해 조세심판을 청구한 것으로 알려졌다.2일 이데일리에 따르면 차은우는 지난달 초 국세청의 130억원대 과세 처분이 부당하다며 조세심판원에 심판청구서를 제출했다.",
+      "소속사 판타지오는 “차은우는 법률적 판단을 받기 위해 법이 정한 절차에 따라 조세심판을 청구했다.",
+      "현재 절차가 진행 중인 사안인 만큼 구체적인 내용에 대해서는 말씀드리기 어려운 점 양."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7fb3d7c7",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802011300003",
-    "title": "대출규제에도 양도세 중과 시행 전 고가아파트 매도 몰렸다",
+    "id": "na60c14f0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/02/MYZGCY3EGY3WKY3CGNRGMNBQMM/",
+    "title": "\"열흘이 지나도 생각 나겠죠\" 헤드샷 두 번에도 출전 강행…허경민의 '트라우마' 정면 돌파 선언",
     "summary": [
-      "(서울=연합뉴스) 서미숙 기자 = 정부의 양도소득세 중과 시행을 앞두고 지난 4∼5월에 고가 아파트 거래가 급증했던 것으로 조사됐다."
+      "[스포츠조선 이종서 기자] \"사실 무섭죠\" 허경민(36·KT 위즈)은 지난달 29일 그라운드에서 모두의 걱정을 샀다.",
+      "창원 NC파크에서 열린 NC 다이노스와의 경기 4회초 타석에 선 허경민은 NC 선발투수 커티스 테일러가 던진 147㎞ 패스트볼에 얼굴을 맞았다.",
+      "맞는 순간 쓰러질 정도로 강한 충격."
     ],
     "chips": [
-      "#부동산",
-      "#정책"
+      "#의료"
+    ]
+  },
+  {
+    "id": "ndff96d23",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003732936",
+    "title": "실명 환자 84% \"다시 글자 보인다\"…인공 망막 '프리마', 유럽 상용화 눈앞",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 미국 스타트업 사이언스 코퍼레이션이 개발한 인공 망막 임플란트 '프리마(PRIMA)'가 유럽연합(EU) 의료기기 인증인 CE 마크를 획득해 유럽 30개국에서 판매할 수 있게 됐다.",
+      "최근 사이언스 코퍼레이션에 따르면 회사는 프리마가 EU의 안전 및 성능 기준을 충족하는 CE 인증을 받았다고 발표했다.",
+      "사이언스 코퍼레이션은 오는 9월 독일에서 첫 시술을 진행한 뒤 유럽 전역으로 판매를 확대할 계획이다."
+    ],
+    "chips": [
+      "#스타트업",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n1d1fdf93",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802020900073",
+    "title": "日자위대 계급명 군대처럼 바꾸려했으나…자민당 내 반발에 제동",
+    "summary": [
+      "(도쿄=연합뉴스) 이도연 특파원 = 일본 정부가 국제 표준화를 이유로 자위대 간부 계급 명칭을 일반적인 군대처럼 바꾸는 방안을 추진했으나 자민당..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n479bf745",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802021900530",
+    "title": "[속보] 경남 양산 오늘도 '40도'…초유의 닷새 연속",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc55fb83",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/08/02/BM5CXOYBAVCKZHHKXFYTLZZN44/",
+    "title": "정점식 “정부 주식시장 ‘번지점프 국장’ 몰이...與에 국정조사 제안”",
+    "summary": [
+      "정점식 “정부 주식시장 ‘번지점프 국장’ 몰이...與에 국정조사 제안”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n64fa7d42",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003732973",
+    "title": "트럼프 “중동 동맹국들, 종전 합의 조건에 도달, 이란에 대한 공격 명령 보류”",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 대통령은 1일 이란에 대한 공격 명령을 보류했다고 밝혔다.",
+      "트럼프 대통령은 이날 소셜미디어 게시물에서 중동 동맹국들이 이란 전쟁을 끝내기 위한 합의의 조건에 도달했다며 5개월째 이어지고 있는 전쟁에 대한 새로운 공격 명령을 보류하겠다고 밝혔다고 AP 통신은 보도했다.",
+      "트럼프 대통령은 새로운 합의는 “호르무즈 해협의 즉각적이고 완전하며 전면적인 개방과 이란의 핵 위협 종식을 포함할 것”이라고 덧붙였다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5040fd25",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260802/134406367/1",
+    "title": "바닥 드러낸 다뉴브강서 수만 년 전 ‘매머드 뼈’ 발견",
+    "summary": [
+      "유럽 전역의 폭염과 가뭄으로 강바닥이 드러난 가운데, 불가리아 북부 다뉴브강에서 매머드의 뼈가 발견됐다.",
+      "지난달 30일(현지 시간) 프랑스24와 유로뉴스에 따르면, 최근 기록적인 저수위로 바닥을 드러낸 다뉴브강 연안에서 고대 매머드의 뼈가 발견됐다.",
+      "전날 강둑을 지나던 주민들이 강바닥 진흙 속에서 심상치 않은 뼈무더기를 발견해 지역 박물관에 즉각 알렸다.현장에 급파된 박물관 전문가들이 수거한 유해는 턱뼈와 엄니 조각, 어깨뼈 일부를 비롯해 관절."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na0972ca8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802021500053",
+    "title": "석주 이상룡 선생, 건국훈장 대한민국장 청원…2천여명 서명",
+    "summary": [
+      "(안동=연합뉴스) 황수빈 기자 = 경북호국보훈재단은 석주 이상룡 선생의 공적을 재심사해 건국훈장 최고등급인 대한민국장에 추서해달라는 청원을 국가..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd3ab6945",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/08/02/QBWYIJZKJ5ETVKNSJXE7BLA6JA/",
+    "title": "지난달 5대 은행 대출 조이기에도 주택담보대출 11개월 만 최대 폭 증가…주식 저가 매수에 ’빚투’도 이어져",
+    "summary": [
+      "지난달 5대 은행 대출 조이기에도 주택담보대출 11개월 만 최대 폭 증가…주식 저가 매수에 ’빚투’도 이어져."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n49c3dd78",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003732960",
+    "title": "종합건설업체 시공능력 경남 1위·전국 15위…두산에너빌리티",
+    "summary": [
+      "[창원=뉴시스]홍정명 기자 = 대한건설협회 경남도회는 국토교통부 '2026년도 건설업체 시공능력평가'에서 경남에서는 두산에너빌리티㈜가 2조9550억원으로 2년 연속 1위를 차지하며 전국 15위를 기록했다고 2일 밝혔다.",
+      "이어 ㈜대아건설이 1959억원으로 지난해보다 1계단 상승한 경남 2위(전국 124위), ㈜대저건설이 1759억원으로 3위(전국 136위)를 차지했다.",
+      "또, 백산종합건설㈜이 지난해보다 5계단 상승해 4위에 올랐고, 한화오션㈜은 9."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf6161c11",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802021300005",
+    "title": "나홍진 '호프' 400만 돌파…올해 개봉작 세 번째",
+    "summary": [
+      "(서울=연합뉴스) 정래원 기자 = 나홍진 감독의 영화 '호프'가 올해 개봉작 중 세 번째로 400만 관객을 돌파했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n195d91a0",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003732970",
+    "title": "LA FC, 송흥민의 4경기 연속골에도 밴쿠버와 1-1 무승부[뉴시스Pic]",
+    "summary": [
+      "[서울=뉴시스] 전진환 기자 = 올스타전에서 최우수선수(MVP)를 거머쥔 손흥민(LAFC)이 미국프로축구 메이저리그사커(MLS)에서 4경기 연속골을 터뜨렸다.",
+      "손흥민은 2일(한국시간) 캐나다 밴쿠버의 BC 플레이스에서 열린 밴쿠버 화이트캡스와의 2026시즌 MLS 19라운드 원정경기에서 전반 37분 선제골을 터뜨렸다.",
+      "드니 부앙가의 패스를 받은 손흥민은 페널티박스 중앙에서 상대 수비를 등지고 환상적인 오른발 터닝슛으로 골망을 흔들었다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n6515aa66",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/02/2W5HQNOFINERLHBNXXUCZ3G5YE/",
+    "title": "72년 만의 첫 공 던진 김라경… 4이닝 4탈삼진, 첫 승은 놓쳤다",
+    "summary": [
+      "72년 만의 첫 공 던진 김라경… 4이닝 4탈삼진, 첫 승은 놓쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb59a85c8",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "21분 전",
+    "url": "https://www.hankyung.com/article/2026080298007",
+    "title": "충청 신승 김민석 vs 영남 자존심 건 정청래…부울경 2차전 향방은",
+    "summary": [
+      "충청 신승 김민석 vs 영남 자존심 건 정청래…부울경 2차전 향방은."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -636,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "부동산",
+    "tag": "삼성전자",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
