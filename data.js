@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-02 05:59:54
+// 마지막 업데이트: 2026-08-02 07:03:09
 window.NEWS_DB = [
   {
     "id": "n8eacd9a0",
@@ -47,7 +47,7 @@ window.NEWS_DB = [
     "id": "n0c06c07a",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
@@ -89,12 +89,12 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "kukinews.com",
+    "source": "쿠키뉴스",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
     ],
     "chips": [
       "#AI",
@@ -153,12 +153,12 @@ window.NEWS_DB = [
   {
     "id": "nc01e8f2e",
     "category": "사회",
-    "source": "viva100.com",
-    "time": "33일 전",
+    "source": "브릿지경제",
+    "time": "34일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
-      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 viva100.com."
+      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
     ],
     "chips": [
       "#AI",
@@ -170,7 +170,7 @@ window.NEWS_DB = [
     "id": "n6b58f8f3",
     "category": "사회",
     "source": "아주경제",
-    "time": "33일 전",
+    "time": "34일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
@@ -186,7 +186,7 @@ window.NEWS_DB = [
     "id": "n5ace0115",
     "category": "스포츠",
     "source": "네이트",
-    "time": "44일 전",
+    "time": "45일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
     "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
     "summary": [
@@ -199,12 +199,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "스트레이트뉴스",
-    "time": "46일 전",
+    "source": "straightnews.co.kr",
+    "time": "47일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
     ],
     "chips": [
       "#금리"
@@ -214,7 +214,7 @@ window.NEWS_DB = [
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
-    "time": "52일 전",
+    "time": "53일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
@@ -229,7 +229,7 @@ window.NEWS_DB = [
     "id": "n79d12fb6",
     "category": "부동산",
     "source": "Chosunbiz",
-    "time": "64일 전",
+    "time": "65일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
@@ -243,7 +243,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "64일 전",
+    "time": "65일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -258,7 +258,7 @@ window.NEWS_DB = [
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "81일 전",
+    "time": "82일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
@@ -272,12 +272,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "테크M",
-    "time": "122일 전",
+    "source": "techm.kr",
+    "time": "123일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
     ],
     "chips": [
       "#KBO"
@@ -287,7 +287,7 @@ window.NEWS_DB = [
     "id": "n95ae41aa",
     "category": "사회",
     "source": "mstoday.co.kr",
-    "time": "134일 전",
+    "time": "135일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByQS15ZDAzVEhUZlZ4UmlfMEx5MHJtUWkyb1Fad05LeVJ5R2I0Y092aVlmWXRCSmUteTE3TGJkcnQ1S21lQnM1di1FekFOOUxXTHQ3SFlTVWhaUTZnakdwSFV6dFNydHA4dkY3eg?oc=5",
     "title": "AI가 연결한 일자리 17만건…“취업 보조 넘어 경력관리 플랫폼으로”",
     "summary": [
@@ -379,259 +379,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n68b57786",
+    "id": "n1398cfe2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733102",
+    "title": "'스파이더맨' 어떡하나…고화질 복제본 SNS 유출",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 영화 '스파이더맨: 브랜드 뉴 데이'의 고화질 복제본이 소셜미디어를 통해 유출돼 온라인에서 빠르게 확산됐다.",
+      "2일 미국 매체 버라이어티에 따르면 이 영화의 고화질 복제본이 엑스(X·옛 트위터)에 게시됐으며, 삭제되기 전까지 약 590만회 이상 조회되는 등 불법 시청이 이어졌다.",
+      "배급사와 제작사 측은 저작권 침해 신고를 통해 유출 영상을 삭제하고 관련 계정을 영구 정지하는 등 대응에 나섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85345815",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733095",
+    "title": "양치승, 사칭 피해 호소 \"불법적 사기 행위 발생\"",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 헬스 트레이너 겸 방송인 양치승이 사칭 피해를 호소했다.",
+      "양치승은 2일 소셜미디어에 \"최근 저를 사칭해 PT를 명목으로 선입금을 요구하는 불법적인 사기 행위가 발생하고 있다는 소식을 접했다\"고 했다.",
+      "이어 \"저를 믿어주시는 분들이 피해를 입으실까 염려돼 긴급히 글을 남긴다\"며 \"아시다시피 저는 현재 체육관 사업을 잠시 쉬고 있으며 따로 개인 PT 수업을 진행하고 있지 않다\"고 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8ae0154c",
     "category": "사회",
     "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260802/134407024/1",
-    "title": "“옷장 시끄럽게 닫는다” 말다툼이 살인으로…요양병원 70대 환자 구속영장",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260731/134396564/2",
+    "title": "“눈에서 ‘흰자위’ 많이 보일수록 매력적”…젊고 신뢰 있어 보인다",
     "summary": [
-      "요양병원에서 70대 동갑내기 노인 환자끼리 벌인 감정 다툼이 살인 사건으로 번졌다.",
-      "전남광주통합특별시 북부경찰서는 2일 살인 혐의로 70대 김모 씨의 구속영장을 신청했다.경찰에 따르면 김 씨는 1일 오후 6시 40분경 광주특별시 북구의 한 요양병원 2층 병실에서 같은 방의 동갑내기 입원 환자를 과일을 깎는 용도의 흉기로 3차례 찔러 숨지게 한 혐의를 받고 있다.경찰 조사 결과 김 씨와 피해자는 범행 몇 분 전 “옷장을 시끄럽게 닫는다”며 말다툼."
+      "흰자위가 많이 보이는 얼굴일수록 신뢰도·매력도·사교성·사회적 지위 평가가 높아진다는 캐나다 연구팀의 실험 결과가 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1bd468ba",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260731_0003732284",
+    "title": "\"30% 할인\"…지누스, 이달 9일까지 '얼티마 위크'",
+    "summary": [
+      "[서울=뉴시스]강은정 기자 = 현대백화점그룹 계열의 가구·매트리스 기업 지누스는 이달 3일부터 9일까지 매트리스 할인 행사 '얼티마 위크'를 실시한다고 2일 밝혔다.",
+      "이번 행사에서는 지누스의 베스트셀러 '얼티마' 매트리스 시리즈 7종을 최대 30% 할인가에 구매할 수 있다.",
+      "또 행사 기간 중 얼티마 매트리스를 구매하고 사진이나 영상 리뷰를 남기면 네이버페이 포인트도 받을 수 있다."
+    ],
+    "chips": [
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n58ad5295",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802033600051",
+    "title": "[르포] 폭염도 못 막은 피서 행렬…해운대 해수욕장 인산인해",
+    "summary": [
+      "(부산=연합뉴스) 박성제 기자 = 연일 기록적인 폭염이 이어지는 부산 해운대해수욕장은 2일 더위를 식히려는 피서객들로 발 디딜 틈 없이 북적였다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n221eec6e",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "4분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/02/55JAKV66CVCRNNIZFTSA3QMUUI/",
+    "title": "네이버웹툰 스튜디오N, 청룡 4관왕… 원작 힘 통했다",
+    "summary": [
+      "네이버웹툰 스튜디오N, 청룡 4관왕… 원작 힘 통했다."
+    ],
+    "chips": [
+      "#네이버"
+    ]
+  },
+  {
+    "id": "nef9e4c27",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802033700530",
+    "title": "노동장관, 폭염에 작업중지·질식예방 대응 강화 긴급 지시",
+    "summary": [
+      "(서울=연합뉴스) 한혜원 기자 = 김영훈 고용노동부 장관은 2일 기록적인 폭염으로 중앙재난안전대책본부(중대본) 2단계가 가동됨에 따라 각종 작업..."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n10065aa6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733094",
+    "title": "\"체감 38도시 옥외작업 중지\"…폭염 특별대책반 운영 강화",
+    "summary": [
+      "[세종=뉴시스]용윤신 기자 = 정부가 폭염 중대경보 발령 시 긴급조치 작업 외 옥외작업을 중지하도록 사업장 안내 및 지도를 강화한다.",
+      "김영훈 고용노동부 장관은 2일 오후 1시부로 폭염 중대본 2단계가 발령됨에 따라 폭염 대응을 위한 '폭염안전 특별대책반' 운영 강화와 사업장 작업중지 조치 등을 지시했다.",
+      "김 장관은 폭염 상황에 적극 대응하기 위해 본부와 지방관서, 한국산업안전보건공단, 민간재해예방기관 등이 참여하는 '폭염안전 특별대책반'의 상시."
+    ],
+    "chips": [
+      "#고용",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5367f79f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802021551053",
+    "title": "\"석주 이상룡 선생 대한민국장 추서를\"…2천678명 서명 청원(종합)",
+    "summary": [
+      "(안동=연합뉴스) 황수빈 기자 = 대한민국 임시정부 초대 국무령을 지낸 석주 이상룡 선생의 독립운동 공적을 재평가해 건국훈장 최고등급인 대한민국..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n10f119fb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/02/GRRTANDDGA3WEOLFMM2DEZBTMY/",
+    "title": "오타니, 야마모토에 현존 최강 스쿠발까지...이건 거의 사기 아니냐, 다저스 트레이드 승자 됐다",
+    "summary": [
+      "[스포츠조선 김용 기자]사기 수준 라인업 아닌가.",
+      "LA 다저스가 마침내 원하던 최강 투수를 영입했다.",
+      "현존 최고의 좌완 타릭 스쿠발이 다저스 유니폼을 입는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n55e9afdd",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/08/02/MVSWIMLCG44TKNTDMQ3TAZRYHA/",
+    "title": "[제5회 BSA] 여기가 재즈바야, 힙합 클럽이야?…이번에도 감다살! 청룡 축하공연, 전설이 되다",
+    "summary": [
+      "[스포츠조선 정빛 기자] 청룡 축하공연, 전설이 되다.",
+      "눈물과 감동, 환희와 웃음으로 가득했던 제5회 청룡시리즈어워즈(BSA).",
+      "또 다른 주인공은 단연 축하공연이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd1ed0a78",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802033400055",
+    "title": "송아지 우유 주던 70대 농장주, 어미 소에 들이받혀 숨져",
+    "summary": [
+      "(임실=연합뉴스) 김동철 기자 = 송아지에게 우유를 주던 70대 농장주가 어미 소에 받혀 숨지는 사고가 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n36e2ac97",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/02/GM2GMOLCHFRWINRWGZTGIYRSMU/",
+    "title": "[제5회 BSA] \"호진, 도라미 오랜만이야!\"…후쿠시 소타, 청룡 서프라이즈→완벽 한국어까지",
+    "summary": [
+      "[스포츠조선 조지영 기자] 일본 배우 후쿠시 소타가 청룡시리즈어워즈 깜짝 손님으로 등판해 극적인 순간을 완성했다.",
+      "후쿠시 소타는 7월 31일 열린 제5회 청룡시리즈어워즈 글로벌 아이콘(Global Icon with LAVIEN Cosmetic) 상을 시상하기 위해 일본에서 한국으로 날아왔다.",
+      "2011년 데뷔해 영화 '나는 내일, 어제의 너와 만난다', 드라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb0d6c8fa",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/02/GA3TEYTBMI4DGMRWGU2TSZRTGI/",
+    "title": "폭염에 발 묶인 삼성, 앉아서 당했다..연승 후유증도 없는 마법의 필살기, ML 112승 퍼펙트 데뷔전도 부담",
+    "summary": [
+      "[스포츠조선 정현석 기자]폭염에 발목이 잡힌 삼성 라이온즈.",
+      "KT 위즈의 '마법' 같은 상승세가 최고조에 다다랐다.",
+      "KT는 1일 수원 KT위즈파크에서 열린 한화 이글스와의 홈경기에서 3회에만 7득점하는 빅이닝으로 7대4 승리를 거뒀다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc780b16",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "20분 전",
+    "url": "https://view.asiae.co.kr/article/2026080215425471545",
+    "title": "제주 서귀포서 스쿠버다이빙하던 60대 남성 심정지",
+    "summary": [
+      "제주 서귀포 해상에서 스쿠버다이빙을 하던 60대 남성이 심정지 상태로 병원으로 이송됐다.제주소방안전본부에 따르면 2일 오전 9시22분께 서귀포시 보목동 섶섬 인근 해상에서 스쿠버다이빙을 하던 60대 남성이 물에 빠졌다는 신고가 접수됐다.",
+      "소방 당국은 해경과 공조해 오전 9시 29분께 구조대를 현장에 급파했고, 심정지 상태의 남성을 9시 55분께 병원으로 이송했다.",
+      "해경은 정확한 사고 경위를 조사할 예정이다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n641cbd39",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733059",
-    "title": "美 법무부, 네이비씰 北 침투작전 실패 보도 NYT 기자 소환장",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 미국 법무부가 특수부대 네이비씰의 북한 침투작전 실패 작전을 보도한 뉴욕타임스(NYT) 기자에게 취재원을 밝혀내기 위해 소환장을 발부한 것으로 나타났다.",
-      "1일 NYT 보도에 따르면 법무부는 2월 매튜 콜 프리랜서 기자에게 소환장을 발부했다.",
-      "연방수사국(FBI) 요원들이 버지니아주 뉴포트 뉴스 검찰이 발부한 대배심 소환장을 전달하기 위해 뉴욕 콜의 자택을 방문했으나 당시 콜은 집에 없어 소환장은 그의 변호사에게 전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n791aa6b3",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260802/134407188/2",
-    "title": "차은우, ‘세금 130억’ 완납 후 조세심판 청구..“법률적 판단 받겠다”",
-    "summary": [
-      "가수 겸 배우 차은우가 국세청으로부터 약 130억 원의 추징세를 전액 납부한 뒤, 과세 처분에 불복해 조세심판을 청구한 것으로 알려졌다.2일 소속사 판타지오에 따르면 차은우는 지난달 초 국세청의 130억원대 과세 처분이 부당하다며 조세심판원에 심판청구서를 제출했다.소속사 판타지오는 “차은우는 법률적 판단을 받기 위해 법이 정한 절차에 따라 조세심판을 청구했다.",
-      "현재 절차가 진행 중인 사안인 만큼 구체적인 내용에 대해서는 말씀드리기 어려운 점 양."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5fb235d6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733054",
-    "title": "원이가 일진?…담임 반박에 폭로자 계정까지 삭제",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 그룹 리센느 리더 원이를 향한 '일진설'이 제기되자, 중학교 시절 담임교사가 직접 나서 이를 반박했다.",
-      "2일 자신을 원이의 중학교 2·3학년 담임교사라고 밝힌 한 누리꾼은 소셜미디어를 통해 졸업앨범과 원이의 사인이 담긴 앨범, 학창 시절 편지 등을 공개하며 \"근거 없는 글로 인한 막무가내식 비난을 멈춰주시길 부탁드린다\"고 했다.",
-      "그는 \"선생님에게 사탕을 선물하며 '사랑한다'고 자주 말하던 학생이었다\"며 원이가 전."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n67354ed9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802028100052",
-    "title": "[르포] 에어컨 있어도 못켠다…40도 더위 견디는 경남 달동네 노인들",
-    "summary": [
-      "(창원=연합뉴스) 김선경 기자 = \"여기서 60년 넘게 살았는데 이런 더위는 처음입니다.\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7fc4e60e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733060",
-    "title": "계속되는 극한 더위, 경남 양산 42도 기록 국내 최고기온 재경신 [뉴시스Pic]",
-    "summary": [
-      "[서울=뉴시스]정병혁 안지율 황준선 하경민 우장호 기자 = 2일 경남 양산 기온이 끝내 42도를 넘었다.",
-      "122년 국내 기상관측 사상 최고기온을 기록한 것이다.",
-      "기상청에 따르면 양산 기온은 이날 오후 1시29분 42.2도를 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n75b416f0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/economy/science/2026/08/02/7DB7MFMMH5HQHIS4NXONVJSEVU/",
-    "title": "“운동 안 하는 노인, 주 1회 모임 참여하면 인지장애 위험 절반 낮아”",
-    "summary": [
-      "“운동 안 하는 노인, 주 1회 모임 참여하면 인지장애 위험 절반 낮아”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne27ada07",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/02/GYYTMYZUGJRDSMJUMFSWCZRWGQ/",
-    "title": "'불꽃야구2' 정훈, 비정규직 탈출하나…팀원들 모두가 '염원'",
-    "summary": [
-      "<방송사에서 제공한 자료를 바탕으로 작성된 프리뷰 기사입니다.>[OSEN=장우영 기자] 불꽃 파이터즈와 휘문고등학교의 파워 게임이 눈을 뗄 수 없는 긴장감을 안긴다.오는 3일 방송되는 스튜디오C1 야구 예능 ‘불꽃야구2’에서는 불꽃 파이터즈와 휘문고등학교의 치열한 접전이 펼쳐진다.불꽃 파이터즈는 신재영의 호투를 앞세워 휘문고를 압도했다."
-    ],
-    "chips": [
-      "#KBO",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n4ee64b39",
+    "id": "n616322f4",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260802/134406981/1",
-    "title": "신발도 당일 배송 시대…이랜드 뉴발란스, ‘빠른 도착’ 도입",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260802/134401942/1",
+    "title": "여돌 가고 남돌 온다…스트레이키즈·빅뱅·NCT127 줄줄이 컴백",
     "summary": [
-      "이랜드월드가 유통하는 스포츠 브랜드 뉴발란스가 3일부터 당일 배송 서비스 ‘빠른도착’을 도입한다고 2일 밝혔다.빠른도착 서비스를 이용하면 평일 낮 12시 이전에 주문한 서울·수도권 고객은 상품을 당일에 받아볼 수 있다.",
-      "도서·산간 지역을 제외한 그 외 지역에는 다음날 배달된다.해당 서비스는 뉴발란스 공식 온라인몰과 앱을 통해 이용 가능하다.",
-      "서비스 대상 상품은 ‘빠른도착’ 배지를 달아 고객이 배송 가능 여부를 쉽게 확인할 수 있도록 했다.이번."
+      "올 상반기 가요계를 관통한 가장 큰 흐름은 ‘걸그룹 러시’였다.",
+      "키키와 하츠투하츠 등 재기 발랄한 신인들이 두각을 나타냈고, 르세라핌과 아일릿, 캣츠아이 등 하이브 소속 세 팀도 이른바 ‘테크노 3대장’으로 불리며 존재감을 드러냈다.",
+      "‘쇠맛 걸그룹’ 에스파의 인기도 여전했고, 현재 진행형인 ‘중소돌의 기적’ 리센느 신드롬도 봄부터 시작됐다.월드컵을 지나 무더운 8월엔 대형 보이그룹들이 출격한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6ead5756",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026080214483729990",
-    "title": "도서관서 대출한 지 150년 만에 반환…연체료가 무려",
-    "summary": [
-      "호주의 한 공공도서관에서 약 150년 전 빌려 간 책이 최근에야 반납됐다.",
-      "이 책은 오래된 오두막의 벽난로 속 상자에 들어 있다가 집을 리모델링하던 중 발견됐다.",
-      "지난달 31일(현지시간) AP통신에 따르면 그리스 고대 유물을 다룬 책 '아테네의 고대유물'이 약 150년 만에 호주 뉴사우스웨일스주의 키아마 공공도서관으로 돌아왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd87cbe11",
+    "id": "nd0938c29",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260802/134406995/1",
-    "title": "주진우 “지난 대선 당시 109곳서 투표율 허위 입력…서버 재검증해야”",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260802/134407390/2",
+    "title": "“금고에 돈 넣고 오래” 대피했다가 다시 들어가…日이온몰 직원 사망",
     "summary": [
-      "국민의힘 주진우 의원이 지난해 6월 대선 당시 일부 투표소에서 투표자가 시간당 100명 단위로 증가하거나 일정 시간 투표자 수가 없는 것으로 기록됐다며 선거관리위원회가 투표율을 고의로 허위 입력한 정황이라고 주장했다.주 의원은 2일 국회에서 기자회견을 열고 “지난 대선에서 총 109곳에서 투표자 수를 고의 조작한 것이 드러났다”고 주장하며 대선 당시 일부 투표소에서 투표자 수가 시간당 100명 단위로 증가한 사례를 제시했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n19a749fa",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733041",
-    "title": "문혁수 LG이노텍 사장 \"피지컬 AI 전환점…고부가 포트폴리오 강화\"",
-    "summary": [
-      "[서울=뉴시스]이지용 기자 = 문혁수 LG이노텍 대표이사 사장이 회사의 사업 구조와 성장 체질이 개선되고 있다며 '경쟁우위기술(위닝테크)'로 미래 경쟁력을 높이겠다고 밝혔다.",
-      "2일 업계에 따르면 문 사장은 최근 사회관계망서비스(SNS)에 \"창사 이래 처음으로 상반기 매출 10조원을 돌파했다\"며 \"이번 성과는 단순 재무 지표를 넘어, 사업 구조와 성장 체질이 한 단계 더 진화하고 있음을 보여준다는 점에서 의미가 크다\"고 전했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n5c753a2d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802028400004",
-    "title": "서울 전역 폭염경보·열대야주의보…시, 쪽방·고령층 특별관리",
-    "summary": [
-      "(서울=연합뉴스) 김동규 기자 = 서울 서북권마저 폭염주의보가 2일 폭염경보로 격상되면서 서울 전역이 '폭염경보' 상황이 됐다."
+      "일본 구마모토 지진 당시 이온몰 폭발로 숨진 20대 여성 직원이 지진 직후 한 차례 대피했다가 회사 지시를 받고 다시 매장으로 돌아간 뒤 변을 당한 것으로 드러났다.",
+      "그는 생전 아버지를 여의고 가장 역할을 해왔다고 일본 언론은 전했다.",
+      "사측의 지시를 둘러싸고 비판이 고조될 것으로 보인다.1일(현지 시간) 일본 NHK 등에 따르면 이번 폭발로 숨진 이온몰 잡화점 직원 오오타케 구루미(22)의 유족은 “지진이 발생해 한 번은 대피했는데 회사 지시로."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n19d8e062",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "20분 전",
-    "url": "https://view.asiae.co.kr/article/2026080211494825807",
-    "title": "다뉴브강이 말랐다…헝가리 원전 44년 만에 전면 가동 중단",
-    "summary": [
-      "헝가리의 유일한 원자력발전소인 '팍스(Paks)' 원전이 가동을 시작한 지 44년 만에 처음으로 전면적으로 가동을 중단했다.",
-      "기록적인 폭염과 가뭄으로 다뉴브강 수위가 급격히 낮아지면서 원자로 냉각에 필요한 물을 확보하지 못한 것이 직접적인 원인이다.",
-      "블룸버그와 AP통신 등은 페테르 머저르 헝가리 총리가 1일(현지시간) 팍스 원전의 전면 정지를 발표했다고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nde32b4b3",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://view.asiae.co.kr/article/2026080214351913341",
-    "title": "\"여성은 이곳에 들어올 수 없다\"…성차별 논란 터진 발리 휴양시설 찬반 '시끌'",
-    "summary": [
-      "인도네시아 발리에서 여성의 출입을 전면 제한하는 남성 전용 휴양시설이 등장, 온라인에서 찬반 논쟁이 거세다.",
-      "운영 측은 남성들의 자기계발과 정신적 성장을 위한 공간이라고 설명했지만, 일각에서는 성차별과 여성혐오를 조장하는 시설이라는 비판의 목소리가 나오고 있다.",
-      "최근 미국 뉴욕포스트 등 외신은 인도네시아 발리 북부 산악지대에서 '발리 타임 체임버(Bali Time Chamber)'라는 이름의 남성 전용 휴양시설이 운영되고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndd0ba37b",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "23분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/02/Q5BU6J66G5E3ZHFQIP3HBFRCI4/",
-    "title": "오픈AI ‘챗GPT’ 이용자 10억 명 넘었다",
-    "summary": [
-      "오픈AI ‘챗GPT’ 이용자 10억 명 넘었다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n2208533c",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260801034451007",
-    "title": "프로야구 창원 경기 2일 연속 폭염 취소…부산은 30분 지연 시작",
-    "summary": [
-      "(서울=연합뉴스) 천병혁 기자 = 전국을 데우는 폭염으로 인해 프로야구 경기가 이틀 연속 취소됐다."
-    ],
-    "chips": [
-      "#KBO"
     ]
   }
 ];
@@ -641,18 +646,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "삼성전자",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
+    "tag": "고용",
     "mentions": "1550건",
     "trend": "+135%"
   }
