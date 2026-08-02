@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-02 18:17:54
+// 마지막 업데이트: 2026-08-02 19:25:33
 window.NEWS_DB = [
   {
     "id": "n2d8dc056",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yM0Z5dUpWZjBxZjdFa0V0VHpYUmlGbml3eUhsRmszVmRCTjN0bURLT0hFY0xqNHJVMXJhU3RJVzItQXJzN1F4WVktak5obEFuRkZFbGFmcy1xMmh3bFRob0I0TG16VWJz?oc=5",
     "title": "中 문샷, 알리바바와 '엔비디아 칩 2만장' 사용 계약…美 반도체 우회 확보",
     "summary": [
@@ -62,12 +62,12 @@ window.NEWS_DB = [
   {
     "id": "n0c06c07a",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "unicornfactory.co.kr",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" 유니콘팩토리."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" unicornfactory.co.kr."
     ],
     "chips": [
       "#스타트업"
@@ -105,12 +105,12 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "쿠키뉴스",
+    "source": "kukinews.com",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
     ],
     "chips": [
       "#AI",
@@ -258,12 +258,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "biz.heraldcorp.com",
+    "source": "헤럴드경제",
     "time": "82일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
@@ -330,82 +330,175 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n89a688bd",
-    "category": "사회",
+    "id": "nb2152989",
+    "category": "경제",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003733274",
-    "title": "\"'세우타 이주민 사태' 사망자 72명으로 확대…더 늘어날 수도\"",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003733276",
+    "title": "세계 최대 제약사 나오나…\"아스트라제네카, 美브리스톨과 합병 논의\"",
     "summary": [
-      "[서울=뉴시스]고재은 기자 = 최근 약 6만 명의 이주민이 모로코에서 북아프리카 스페인령 세우타로 몰려든 가운데, 최소 72명이 사망한 것으로 집계됐다.",
-      "2일(현지 시간) 알자지라 등에 따르면 스페인 당국은 이날 세우타 해안을 따라 시신 5구를 추가 발견했다고 밝혔다.",
-      "이에 따라 사망자 수는 종전 집계치(67명)에서 72명으로 늘었다."
+      "[서울=뉴시스]고재은 기자 = 영국 제약회사 아스트라제네카가 미국 경쟁사인 브리스톨마이어스스큅(BMS)과 합병을 검토하고 있다는 보도가 나왔다.",
+      "합병이 성사될 경우 시가총액이 약 4000억 달러(약 578조4000억원)에 달하는 세계 최대 규모의 제약 회사가 탄생할 전망이다.",
+      "2일(현지 시간) 영국 파이낸셜타임스(FT)는 소식통을 인용해 양사가 최근 몇 달간 합병 논의를 진행해 왔다고 보도했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n864c8c26",
-    "category": "사회",
+    "id": "n9ea5790f",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/culture-life/relion-academia/2026/08/03/4J5WQTOMMVCKRN54ZRQGU3JFJA/",
-    "title": "사주를 경멸하는 주역?… 51만8400가지 정해진 운명은 없다",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/03/GUYDEZRUMM4WIYJUME3GCMJQHE/",
+    "title": "\"안고 죽자!\" 스쿠벌 영입 다저스, 급선회? \"트레이드 싫어\" 라우어 아내 소원 결국 이뤄지나",
     "summary": [
-      "사주를 경멸하는 주역?… 51만8400가지 정해진 운명은 없다."
+      "[스포츠조선 박상경 기자] \"아내가 정말 싫어한다.\" 에릭 라우어는 최근 디애슬레틱과의 인터뷰에서 자신의 트레이드설을 접한 아내 에밀리의 반응에 대해 밝혔다.",
+      "라우어는 \"트레이드는 수요가 있으면 채워주는 임대사업 같은 것\"이라면서도 \"나는 여기(LA)가 정말 좋다\"고 애정을 드러낸 바 있다.",
+      "라우어나 에밀리 모두 LA 생활에 만족할 만하다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncd5370e4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/national/2026/08/03/NZDA5XTFMFDKNPUOC2DEVDCNVM/",
-    "title": "[굿모닝 멤버십] “너무 바빠서…\" 그 말을 측정할 수 있을까",
+    "id": "n97bd1fcf",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260803/134409984/1",
+    "title": "커닝하려고 남의 회사 털었다…시험 보던 AI, 답안지 있는 서버까지 뚫었다",
     "summary": [
-      "[굿모닝 멤버십] “너무 바빠서…\" 그 말을 측정할 수 있을까."
+      "사이버 보안 능력을 시험받던 인공지능(AI) 모델들이 격리된 평가망이나 잘못 열린 인터넷 통로를 거쳐 실제 기업 4곳의 시스템에 무단 침입한 사실이 드러났다.",
+      "허구의 표적을 공격하라는 모의훈련을 현실의 시스템에서도 이어간 것이다.월스트리트저널(WSJ)은 1일(현지시간) 이를 영화 속 공룡들이 통제시설을 벗어난 장면에 빗대 사이버 보안의 ‘쥬라기공원 순간’이라고 보도했다.",
+      "앤스로픽 관련 사고는 지난 4월부터 발생했으며, 오픈AI가 지난달 허깅페이."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "n4b0cfa2c",
+    "id": "n7a1daf08",
     "category": "사회",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/03/L7E27BZM2NDVZBV55B3QHSCG3Y/",
-    "title": "히틀러 침략에 맞섰던 교향곡… ‘푸틴의 옹호자’가 지휘",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260803/134409981/1",
+    "title": "[날씨]낮 최고 39도 ‘극단 더위’…일부 소나기 내린 뒤 기온↑",
     "summary": [
-      "히틀러 침략에 맞섰던 교향곡… ‘푸틴의 옹호자’가 지휘."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n719ddda5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/03/PYV2BIQ37NECNG7H2B3GLYFXBE/",
-    "title": "발만 잘 풀어도 하루가 편하다… 앉아서 하는 ‘건강 운동’",
-    "summary": [
-      "발만 잘 풀어도 하루가 편하다… 앉아서 하는 ‘건강 운동’."
+      "월요일인 3일은 전국 대부분 지역에 폭염특보가 발효된 가운데, 매우 무덥겠고 열대야가 나타나는 지역이 많겠다.",
+      "강원과 충북 일부 지역에 소나기가 내리겠지만 더위를 식히는 데는 역부족이겠다.기상청은 “폭염중대경보가 발표된 일부 전남과 경상권을 중심으로 극단적인 더위가 예상되니 건강관리에 각별히 유의하기 바란다”고 밝혔다.기상청은 ▲필수업무 외 모든 야외활동과 실외작업을 최대한 즉시 중단·연기 검토 ▲그늘·무더위쉼터·냉방시설 등 시원한 곳으로 즉시."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
+    "id": "n3f65403b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260803/134409978/1",
+    "title": "이란 외무 “오만과 호르무즈 협상 순항 중…막바지 단계”",
+    "summary": [
+      "이란과 오만의 호르무즈 해협 관련 협상이 막바지에 접어들었다고 2일(현지 시간) 이란 외무부가 밝혔다.이란 국영 IRNA통신에 따르면 아바스 아라그치 이란 외무장관은 이날 각료 회의 전 보고서를 제출하고 “이란과 오만 간 협상이 마무리 단계에 다다랐다”고 말했다.에스마일 바가이 이란 외무부 대변인도 이날 IRNA 통신과 별도 인터뷰를 통해 관련 협상에 대한 진전 상황을 공유했다.",
+      "바가이 대변인은 “이제 우리는 양측이 합의할 수 있는 항로에 대해."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n52d7c354",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733263",
+    "title": "대구·경산·고령 폭염중대경보…대구 낮 최고 39도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 3일 대구·경북은 대체로 맑은 가운데 무더위가 이어질 것으로 예상된다.",
+      "대구지방기상청은 이날 \"대구·경북 대부분 지역에 폭염특보가 발효된 가운데 당분간 매우 무덥겠고 열대야가 나타나는 지역도 많겠다\"고 예보했다.",
+      "아침 최저기온은 22~26도(평년 20~24도), 낮 최고기온은 32~39도(평년 29~34도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9348bf8c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/03/MY2TQMRTMU4TEZBXGAYWKZRWGY/",
+    "title": "'야구장이 워터파크로 변신한다'…삼성, 6일간 '워터 페스티벌' 개최",
+    "summary": [
+      "[OSEN=손찬익 기자] 프로야구 삼성 라이온즈가 한여름 무더위를 시원하게 날려버릴 특별한 축제를 준비했다.",
+      "대구삼성라이온즈파크가 물놀이와 공연, 특별 이벤트가 어우러진 거대한 워터파크로 변신한다.삼성은 오는 4일부터 9일까지 대구삼성라이온즈파크에서 열리는 홈 6연전(4~6일 한화 이글스전, 7~9일 두산 베어스전) 동안 '2026 워터 페스티벌'을 개최한."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n12f27a95",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/03/MQ3DIY3DGI4DMYJXHA4DGZDGGM/",
+    "title": "'사실상 트레이드 확정' 사이영상 출신 에이스도 울컥…SF 동료들 \"최고의 사람\" 작별 준비",
+    "summary": [
+      "[OSEN=손찬익 기자] 샌프란시스코 자이언츠 좌완 로비 레이가 트레이드 마감 시한을 앞두고 가장 유력한 이적 후보로 떠오른 가운데, 동료들의 아쉬움도 커지고 있다.미국 스포츠 매체 '스포츠 일러스트레이티드'는 3일(이하 한국시간) \"로비 레이의 트레이드는 기정사실처럼 여겨지고 있지만, 그를 떠나보내야 하는 샌프란시스코 동료들에게는 씁쓸한 이별이 될 것\"이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n84068053",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/sports/golf/2026/08/03/KWOBXDNAIFFODFI7EALRITFMEY/",
+    "title": "메이저 3연승 도전 유해란, AIG여자오픈 6위...우승은 日 구와키",
+    "summary": [
+      "메이저 3연승 도전 유해란, AIG여자오픈 6위...우승은 日 구와키."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n372ab05d",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803001900007",
+    "title": "[최종순위] AIG 여자오픈",
+    "summary": [
+      "[최종순위] AIG 여자오픈."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n8f38f8ea",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803001800007",
+    "title": "유해란, AIG 여자오픈 6위·'메이저 3연승' 불발…우승은 구와키",
+    "summary": [
+      "(서울=연합뉴스) 최송아 기자 = 유해란의 여자 골프 메이저 대회 3개 연속 우승 도전이 끝내 불발됐다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "ne8409f56",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260803001300079",
     "title": "이란 외무부 \"오만과 호르무즈 해협 관리 협의 막바지\"",
     "summary": [
@@ -419,7 +512,7 @@ window.NEWS_DB = [
     "id": "n52f35e44",
     "category": "사회",
     "source": "동아일보",
-    "time": "35분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260803/134409971/1",
     "title": "‘가뭄’ 헝가리, 44년 만에 유일한 원전 가동 중단…“전력 위기 심화”",
     "summary": [
@@ -434,7 +527,7 @@ window.NEWS_DB = [
     "id": "nd78f1e90",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260803001000091",
     "title": "오픈AI, 차세대 AI모델 '아스트라' 예고…\"수학 난제 10개 해결\"",
     "summary": [
@@ -445,117 +538,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n24ad7855",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "55분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003733273",
-    "title": "\"7월 원화 가치, 달러 대비 8% 올라…세계에서 두 번째 호실적\" FT",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 7월 한국 원화 가치가 달러 대비 8% 넘게 오르며 세계 통화 가운데 두 번째로 높은 상승률을 기록했다고 1일(현지 시간) 영국 파이낸셜타임스(FT)가 보도했다.",
-      "국내 반도체 기업들이 벌어들인 달러 물량이 유입된 데다, 외국인들의 국내 주식 매도세가 잦아들었다.",
-      "한국은행이 3년 반 만에 긴축 사이클로 진입한 것도 영향을 미쳤다."
-    ],
-    "chips": [
-      "#반도체",
-      "#한은"
-    ]
-  },
-  {
-    "id": "n76e60387",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260803/134409955/1",
-    "title": "세계는 대도시 탈출하는데…한국 수도권 집중은 OECD 최고 수준",
-    "summary": [
-      "전 세계 주요 선진국들 사이에서 대도시권 집중 현상이 꺾이고 있는 가운데, 한국과 일본은 이와 정반대의 길을 걷고 있는 것으로 나타났다.",
-      "2일(현지 시간) 일본 니혼게이자이신문이 유엔(UN)의 ‘세계 도시화 전망 2025’를 바탕으로 호주를 제외한 OECD 회원국 37개국의 수도권 인구 비중을 분석한 결과, 회원국의 60%에 달하는 국가에서 대도시권 인구 집중이 완화된 것으로 조사됐다.OECD 37개국 평균 인구 집중도는 2021년 16.9％로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85f6648c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260803/134409950/1",
-    "title": "여름 해외여행후 고열…그냥 넘기면 안되는 이유",
-    "summary": [
-      "올해 국내 해외여행객이 3000만 명을 넘어설 것으로 전망되고 있다.",
-      "여행객이 느는 만큼 해외에서 유입되는 감염병 우려도 커지고 있어 각별한 주의가 요구된다.",
-      "3일 질병관리청 통계에 따르면 2025년 기준 모기매개 감염병의 경우 말라리아 국내발생 545명·해외유입 56명, 뎅기열 해외유입 110명, 치쿤구니야열 해외유입 9명, 지카바이러스 감염증 해외유입 3명으로 나타났다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf93033c2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733067",
-    "title": "\"기저귀도 얼려 쓴다\"…40도 폭염 日, 쿨링 상품 열풍",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 일본에 40도를 넘나드는 기록적인 폭염이 이어지면서 화장품부터 생리대, 기저귀까지 냉감 기능을 앞세운 상품이 잇따라 나오고 있다.",
-      "지난 28일 아사히신문에 따르면 화장품업체 시세이도는 냉동고에 얼려 쓰는 에센스 '소르베 세럼'을 출시했다.",
-      "밤새 얼리면 젤 제형이 셔벗처럼 변해 사각거리는 감촉과 함께 달아오른 피부를 빠르게 식혀준다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2976af09",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802043351098",
-    "title": "스페인 세우타 이주민 난입사태 사망자 72명으로 늘어(종합)",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 북아프리카의 스페인 영토 세우타로 수만 명의 모코로 이주민이 대거 넘어오는 과정에서 숨진 사람이 72명으로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfef42c15",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803000800087",
-    "title": "멕시코군, 美가 500만달러 내건 마약 카르텔 두목 체포",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 멕시코 연방군이 미국 정부가 거액의 현상금을 걸고 수배해 온 대형 마약 카르텔 두목을 체포했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5b819fb8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260803/134409859/1",
-    "title": "李대통령 ‘美·남미 3국’ 순방 종료…4일 국무회의·업무보고 국정 복귀",
-    "summary": [
-      "이재명 대통령은 2일(현지시간) 미국과 남미 3개국 순방을 거쳐 독일을 경유하는 취임 후 최장 7박 11일 해외순방 일정을 모두 마무리지었다.이 대통령은 이날 독일 프랑크푸르트에서 동포간담회 마친 뒤 오후 공군 1호기를 통해 서울공항으로 향했다.",
-      "3일 귀국하는 이 대통령은 하계 휴가를 건너뛰고 곧바로 시급한 국정현안을 챙기며 업무에 복귀한다.이 대통령은 오는 4일 오전 국무회의를 주재한 후 오후 부처별 업무보고를 재개할 예정이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nfd4b89cc",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026073187067",
     "title": "[오늘의 운세] 8월 3일 띠별 운세",
     "summary": [
@@ -569,7 +555,7 @@ window.NEWS_DB = [
     "id": "ndd461c6d",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026073172497",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 3일 띠별 추천 점심메뉴",
     "summary": [
@@ -583,7 +569,7 @@ window.NEWS_DB = [
     "id": "n585f1798",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026073182707",
     "title": "[오늘의 운세] 2026년 8월 3일 별자리 운세",
     "summary": [
@@ -597,7 +583,7 @@ window.NEWS_DB = [
     "id": "nf74334b8",
     "category": "사회",
     "source": "테크M",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153917",
     "title": "\"해킹 여진 여전\"...SKT·KT·LG유플러스, 2분기 실적 전망은?",
     "summary": [
@@ -610,19 +596,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8fd854c5",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "4시간 전",
-    "url": "https://view.asiae.co.kr/article/2026080220205166823",
-    "title": "목포대·순천대, 10일까지 '통합 협상' 이어간다",
+    "id": "nbf0b6462",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "5시간 전",
+    "url": "https://www.hankyung.com/article/2026080203831",
+    "title": "충청은 김민석, 부울경은 정청래…與 전대 혼전 양상",
     "summary": [
-      "목포대학교와 순천대학교가 통합 논의를 오는 10일까지 이어가기로 했다.",
-      "전남광주통합특별시는 2일 장흥 목재산업지원센터에서 '통합대학 국립의대 관련 회의'를 열고 정부가 통합대학 신청서 제출 기한을 오는 10일까지 연장하기로 한 사실을 공유하고, 그때까지 양 대학이 조건 없는 통합 협의를 계속하기로 뜻을 모았다고 밝혔다.이날 회의에는 민형배 전남광주통합특별시장과 김원이·김문수·권향엽 국회의원, 강성휘 목포시."
+      "충청은 김민석, 부울경은 정청래…與 전대 혼전 양상."
     ],
     "chips": [
-      "#정치",
-      "#교육"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc66833a3",
+    "category": "IT",
+    "source": "테크M",
+    "time": "6시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153916",
+    "title": "[타봤다] 지붕을 열자 아들이 웃었다...미니 컨버터블 S, 첫 오픈카의 설렘",
+    "summary": [
+      "자동차의 지붕이 사라지면 무엇이 달라질까.",
+      "스위치를 누르자 머리 위를 덮고 있던 루프가 천천히 뒤로 접혔다.",
+      "한여름 햇살이 따가웠지만 뺨을 스치고 지나가는 바람 덕에 그마저 싫지 않았다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -632,18 +632,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
