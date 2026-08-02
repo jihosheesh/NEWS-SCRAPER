@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-02 17:20:30
+// 마지막 업데이트: 2026-08-02 18:17:54
 window.NEWS_DB = [
   {
     "id": "n2d8dc056",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yM0Z5dUpWZjBxZjdFa0V0VHpYUmlGbml3eUhsRmszVmRCTjN0bURLT0hFY0xqNHJVMXJhU3RJVzItQXJzN1F4WVktak5obEFuRkZFbGFmcy1xMmh3bFRob0I0TG16VWJz?oc=5",
     "title": "中 문샷, 알리바바와 '엔비디아 칩 2만장' 사용 계약…美 반도체 우회 확보",
     "summary": [
@@ -258,12 +258,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "82일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -330,10 +330,142 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n89a688bd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003733274",
+    "title": "\"'세우타 이주민 사태' 사망자 72명으로 확대…더 늘어날 수도\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 최근 약 6만 명의 이주민이 모로코에서 북아프리카 스페인령 세우타로 몰려든 가운데, 최소 72명이 사망한 것으로 집계됐다.",
+      "2일(현지 시간) 알자지라 등에 따르면 스페인 당국은 이날 세우타 해안을 따라 시신 5구를 추가 발견했다고 밝혔다.",
+      "이에 따라 사망자 수는 종전 집계치(67명)에서 72명으로 늘었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n864c8c26",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/culture-life/relion-academia/2026/08/03/4J5WQTOMMVCKRN54ZRQGU3JFJA/",
+    "title": "사주를 경멸하는 주역?… 51만8400가지 정해진 운명은 없다",
+    "summary": [
+      "사주를 경멸하는 주역?… 51만8400가지 정해진 운명은 없다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncd5370e4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/national/2026/08/03/NZDA5XTFMFDKNPUOC2DEVDCNVM/",
+    "title": "[굿모닝 멤버십] “너무 바빠서…\" 그 말을 측정할 수 있을까",
+    "summary": [
+      "[굿모닝 멤버십] “너무 바빠서…\" 그 말을 측정할 수 있을까."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4b0cfa2c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/03/L7E27BZM2NDVZBV55B3QHSCG3Y/",
+    "title": "히틀러 침략에 맞섰던 교향곡… ‘푸틴의 옹호자’가 지휘",
+    "summary": [
+      "히틀러 침략에 맞섰던 교향곡… ‘푸틴의 옹호자’가 지휘."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n719ddda5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/03/PYV2BIQ37NECNG7H2B3GLYFXBE/",
+    "title": "발만 잘 풀어도 하루가 편하다… 앉아서 하는 ‘건강 운동’",
+    "summary": [
+      "발만 잘 풀어도 하루가 편하다… 앉아서 하는 ‘건강 운동’."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ne8409f56",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803001300079",
+    "title": "이란 외무부 \"오만과 호르무즈 해협 관리 협의 막바지\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협을 둘러싼 미국과 이란 간의 갈등 속에 이란이 오만과의 해협 관리 관련 협의가 막바지 단계라고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n52f35e44",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "35분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260803/134409971/1",
+    "title": "‘가뭄’ 헝가리, 44년 만에 유일한 원전 가동 중단…“전력 위기 심화”",
+    "summary": [
+      "헝가리가 44년 만에 처음으로 유일한 원전 가동을 전면 중단하기로 했다.",
+      "연이은 가뭄과 폭염에 원자로 냉각수가 부족해졌기 때문으로, 헝가리는 국가적인 전력 비상사태를 맞이하게 됐다.파이낸셜타임스(FT), 유로뉴스 등에 따르면 머저르 페테르 헝가리 총리는 2일(현지 시간) 영상 메시지를 통해 “우리는 가장 중요한 5일을 앞두고 있다”며 “내일부터 팍스 원자력발전소가 가동을 멈출 것”이라고 밝혔다.그는 “기온이 섭씨 40도까지 치솟을 만큼 무더운."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd78f1e90",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803001000091",
+    "title": "오픈AI, 차세대 AI모델 '아스트라' 예고…\"수학 난제 10개 해결\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 챗GPT 개발사 오픈AI가 차세대 모델인 '아스트라'의 출시를 예고했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n24ad7855",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "55분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003733273",
+    "title": "\"7월 원화 가치, 달러 대비 8% 올라…세계에서 두 번째 호실적\" FT",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 7월 한국 원화 가치가 달러 대비 8% 넘게 오르며 세계 통화 가운데 두 번째로 높은 상승률을 기록했다고 1일(현지 시간) 영국 파이낸셜타임스(FT)가 보도했다.",
+      "국내 반도체 기업들이 벌어들인 달러 물량이 유입된 데다, 외국인들의 국내 주식 매도세가 잦아들었다.",
+      "한국은행이 3년 반 만에 긴축 사이클로 진입한 것도 영향을 미쳤다."
+    ],
+    "chips": [
+      "#반도체",
+      "#한은"
+    ]
+  },
+  {
     "id": "n76e60387",
     "category": "사회",
     "source": "동아일보",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260803/134409955/1",
     "title": "세계는 대도시 탈출하는데…한국 수도권 집중은 OECD 최고 수준",
     "summary": [
@@ -348,7 +480,7 @@ window.NEWS_DB = [
     "id": "n85f6648c",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260803/134409950/1",
     "title": "여름 해외여행후 고열…그냥 넘기면 안되는 이유",
     "summary": [
@@ -361,26 +493,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n085f696a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/03/MU4DKMDBMQ4GMNBRMQ3WENJWHE/",
-    "title": "'너무 더워서 그랬을 거야…' 1위 빼앗긴 삼성의 절박한 '정신승리'",
-    "summary": [
-      "[스포츠조선 정현석 기자]\"너무 더워서 그랬을 거야…\" 삼성 라이온즈의 속이 까맣게 타들어 가고 있다.",
-      "우승을 위해 공들여 영입한 '우승 청부사' 외국인 투수 두 명이 나란히 무너졌기 때문이다.",
-      "폭염 탓이라고 스스로 위안이라도 삼아보고 싶지만, 객관적인 결과가 너무 좋지 않았다.▶페덱 이어 보스마저… '우승 청부사' 라인의 연쇄 붕괴 삼성은 2일 부산 사직."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nf93033c2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260802_0003733067",
     "title": "\"기저귀도 얼려 쓴다\"…40도 폭염 日, 쿨링 상품 열풍",
     "summary": [
@@ -393,25 +509,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb5c104b9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "35분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/03/GE4GCNBSGVRGEMJSMVRTENRRGU/",
-    "title": "'미쳤다' 7이닝 10K 무실점→7이닝 8K 무실점, 고퀄스 전성기는 여전히 진행 중…강철매직도 \"완벽한 투구\" 감탄했다",
-    "summary": [
-      "[OSEN=수원, 조은혜 기자] 프로야구 KT 위즈가 한화 이글스와의 경기에서 대승을 거두고 3연전을 싹쓸이, 6연승을 질주했다.이강철 감독이 이끄는 KT는 2일 수원 케이티위즈파크에서 열린 2026 신한 SOL KBO리그 한화와의 홈경기에서 완승을 거뒀다.",
-      "이날 승리로 6연승을 내달린 KT는 59승36패2무로 1위 자리를 지켰다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n2976af09",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260802043351098",
     "title": "스페인 세우타 이주민 난입사태 사망자 72명으로 늘어(종합)",
     "summary": [
@@ -425,7 +526,7 @@ window.NEWS_DB = [
     "id": "nfef42c15",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260803000800087",
     "title": "멕시코군, 美가 500만달러 내건 마약 카르텔 두목 체포",
     "summary": [
@@ -436,86 +537,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na934877c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/03/HEYWEMZSGJSTQMLBGNSDOM3FMU/",
-    "title": "'초고교급 투타겸업' 韓 기대주, ARI 유망주 TOP 20 진입하다 \"강한 어깨, 정교한 타격 갖춘 우타자\"",
-    "summary": [
-      "[OSEN=조은혜 기자] 애리조나 다이아몬드백스와 계약한 덕수고 엄준상이 애리조나 유망주 랭킹 TOP 20에 이름을 올렸다.MLB 파이프라인은 최근 트레이드 데드라인을 앞두고 각 구단의 TOP 30 유망주 랭킹을 손질했다.",
-      "이번 업데이트는 전면 개편이 아닌 중간 조정이다.",
-      "2026년 드래프트 선수들이 합류하는 8월 전체 랭킹 개편을 앞두고, 각 구단의 새로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2ac4737b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/03/MQZDQZDCMM3TEZJRGFRWEMDFGE/",
-    "title": "“3루 가면 안 됐다” 쓴소리 들었던 도루왕, 이번엔 주루 센스→쐐기 득점으로 만회하다",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 두산 베어스 베테랑 정수빈이 이번에는 센스 있는 주루 플레이로 쐐기 득점을 올리며 전날 아쉬운 주루사를 만회했다.",
-      "두산은 2일 잠실구장에서 열린 LG와 경기에서 8-3으로 승리했다.",
-      "두산은 2-3으로 뒤진 4회 박찬호의 역전 2타점 2루타 등으로 4득점 빅이닝을 만들며 6-3으로 역전했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nfb1f8d68",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802042451082",
-    "title": "인판티노 4연임 물건너가나…FIFA 새판짜기 본격화(종합)",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 4 연임을 노리는 잔니 인판티노 국제축구연맹(FIFA) 회장이 '월드컵 자회사' 설립 논란으로 역풍을 맞았..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8c1e7df8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003733272",
-    "title": "'가뭄' 헝가리, 44년 만에 유일한 원전 가동 중단…\"전력 위기 심화\"",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 헝가리가 44년 만에 처음으로 유일한 원전 가동을 전면 중단하기로 했다.",
-      "연이은 가뭄과 폭염에 원자로 냉각수가 부족해졌기 때문으로, 헝가리는 국가적인 전력 비상사태를 맞이하게 됐다.",
-      "파이낸셜타임스(FT), 유로뉴스 등에 따르면 머저르 페테르 헝가리 총리는 2일(현지 시간) 영상 메시지를 통해 \"우리는 가장 중요한 5일을 앞두고 있다\"며 \"내일부터 팍스 원자력발전소가 가동을 멈출 것\"이라고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8913602a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802056400072",
-    "title": "[르포] 8만 아미의 '아리랑' 떼창…BTS, 뉴욕·뉴저지서 북미투어 재개",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = \"위아 백(We're back).\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n5b819fb8",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260803/134409859/1",
     "title": "李대통령 ‘美·남미 3국’ 순방 종료…4일 국무회의·업무보고 국정 복귀",
     "summary": [
@@ -527,26 +552,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne133decd",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260803/134409856/1",
-    "title": "김숙, 톱스타 실체 폭로 “엄청 유명한데 너무 못 돼”",
-    "summary": [
-      "코미디언 김숙이 과거 한 톱스타의 태도를 언급했다.1일 웹예능 ‘비밀보장’에서는 송은이와 김숙이 사연자의 고민에 대해 상담했다.김숙은 대화 중 “옛날에 진짜 엄청 유명한 연예인이 있었다.",
-      "쟤는 진짜 본성이 더럽구나 했다”며 입을 열었다.이어 “그런데 나중에 인기가 떨어졌다.",
-      "인기가 영원할 수 없으니까 새삼 착하더라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nfd4b89cc",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026073187067",
     "title": "[오늘의 운세] 8월 3일 띠별 운세",
     "summary": [
@@ -560,7 +569,7 @@ window.NEWS_DB = [
     "id": "ndd461c6d",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026073172497",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 3일 띠별 추천 점심메뉴",
     "summary": [
@@ -574,7 +583,7 @@ window.NEWS_DB = [
     "id": "n585f1798",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026073182707",
     "title": "[오늘의 운세] 2026년 8월 3일 별자리 운세",
     "summary": [
@@ -588,7 +597,7 @@ window.NEWS_DB = [
     "id": "nf74334b8",
     "category": "사회",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153917",
     "title": "\"해킹 여진 여전\"...SKT·KT·LG유플러스, 2분기 실적 전망은?",
     "summary": [
@@ -604,7 +613,7 @@ window.NEWS_DB = [
     "id": "n8fd854c5",
     "category": "사회",
     "source": "아시아경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://view.asiae.co.kr/article/2026080220205166823",
     "title": "목포대·순천대, 10일까지 '통합 협상' 이어간다",
     "summary": [
@@ -615,20 +624,6 @@ window.NEWS_DB = [
       "#정치",
       "#교육"
     ]
-  },
-  {
-    "id": "nbf0b6462",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026080203831",
-    "title": "충청은 김민석, 부울경은 정청래…與 전대 혼전 양상",
-    "summary": [
-      "충청은 김민석, 부울경은 정청래…與 전대 혼전 양상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -637,20 +632,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
