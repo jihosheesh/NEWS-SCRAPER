@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-02 11:26:13
+// 마지막 업데이트: 2026-08-02 12:19:48
 window.NEWS_DB = [
   {
     "id": "n8eacd9a0",
@@ -136,17 +136,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nad2051b5",
+    "id": "nfaa9ec62",
     "category": "IT",
-    "source": "블로터",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMFBUdGJQMWJ3TTZIeFZ3T01oTnZudlVwSjNscHRqUU54WDZ1VzAwS1hVR3hmSkRUcnoybGl0R0lGWU5nY0xIeVkyN05yOEhIb20yNERFelFvTW1fRkJ5SXF6Z0tfVzRh0gFsQVVfeXFMUFlRbWY3bUwtdTVRUjFKYUREYWpLb0hhMmxHN2owcjRyeTF1T3BvVnVFZFJHbHVmYUNxbkFkX3ZiRndCRUlObmNobDYzbFNsZ1lpUGY5RFJNdm1XSGNkc0hhSXp5by04bVpHNjFa?oc=5",
-    "title": "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다",
+    "source": "조선일보",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2FKQTB1dmFGYmhZbFpFZE9lT2I2T0YySGNTZEN6WE5MWXczLUZwd3RQT0RSVWlKamxZVl82V3cyZDBQSkxjNzZpWWRHTXJLSzdma0xzSmsyMV8tZU5iUTN1QnUzT3dmd3FoVjlUYXVoWTd0UXhqb3JHNE9jLTVKNnZobw?oc=5",
+    "title": "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입",
     "summary": [
-      "과기정통부, AMD와 개방형 'AI 인프라' 구축…엔비디아 독점 막는다 블로터."
+      "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입 조선일보."
     ],
     "chips": [
       "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -183,14 +184,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5ace0115",
+    "id": "n8296c130",
     "category": "스포츠",
-    "source": "네이트",
-    "time": "45일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
-    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
+    "source": "조선일보",
+    "time": "37일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdlNlT1V1c0JEREhHYjZfZnl1bFJrMVI1M3ZaQ28teUdNMkVlSWVZYnJONk1kdXdGVUNRc3lBd2xIU2VzWmdER0FfaVcyc0c3eWNFVGhMMndsY3pRTGdWUGVxM05mTjlROW5vX2Rhcm5CUHRZR0EtdDlWQUdxQ2JGRWtXYw?oc=5",
+    "title": "남아공전 0-1 패배 대참사, 축구 박지성은 작심 비판…‘KBO 최초’ 박지성은 뭐라고 했을까",
     "summary": [
-      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
+      "남아공전 0-1 패배 대참사, 축구 박지성은 작심 비판…‘KBO 최초’ 박지성은 뭐라고 했을까 조선일보."
     ],
     "chips": [
       "#KBO"
@@ -199,12 +200,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "스트레이트뉴스",
+    "source": "straightnews.co.kr",
     "time": "47일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
     ],
     "chips": [
       "#금리"
@@ -302,12 +303,12 @@ window.NEWS_DB = [
   {
     "id": "nbcfe41a7",
     "category": "IT",
-    "source": "yonhapnewstv.co.kr",
+    "source": "연합뉴스TV",
     "time": "160일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 yonhapnewstv.co.kr."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
       "#스타트업"
@@ -346,10 +347,223 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nab5983e0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733227",
+    "title": "인니, 연락선 화재로 5명 사망 41명 실종…인근 배들이 225명 구조",
+    "summary": [
+      "[수라비야(인도네시아)=AP/뉴시스] 김재영 기자 = 인도네시아 자바섬 근해에서 2일 271명을 태운 페리에 불이 나 최소한 5명이 숨지고 수십 명이 실종되었다고 관리들이 말했다.",
+      "무티아라 센토사 2호는 인니 두 번째 도시인 동부 자바의 수라바야에서 동쪽의 큰 술라웨시섬 남부도시 무카사르로 가던 길이었다.",
+      "선객 232명과 승무원 39명이 탔으며 이날 오전 6시에서 7시 사이 수메넴 지역 근해서 불이 났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd13215b3",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733171",
+    "title": "'홈런 3방·고영표 호투' KT, 한화 12-1 완파하고 6연승…선두 질주",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 프로야구 KT 위즈가 투타의 고른 활약을 앞세워 파죽의 6연승을 질주했다.",
+      "KT는 2일 수원 KT위즈파크에서 열린 2026 신한 쏠 KBO리그 한화 이글스와의 홈 경기에서 12-1로 대승을 거뒀다.",
+      "전날 한회를 7-4로 잡고 선두 탈환에 성공한 KT(59승 2무 36패)는 연승 행진을 이어가며 1위 수성에 성공했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nda428b27",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026080221130201575",
+    "title": "李대통령, 3일 귀국 직후 청와대로 출근…부동산·증시 현안 점검",
+    "summary": [
+      "이재명 대통령이 3일 7박11일간의 남미 순방을 마치고 귀국하는 즉시 청와대로 출근해 부동산 정책과 주식시장 등 국내 현안을 점검한다.",
+      "이 대통령은 순방 기간 누적된 민생·경제 현안을 직접 챙긴 뒤 이틀간 27개 부처·기관으로부터 업무보고를 받으며 국정 운영의 고삐를 다시 죌 계획이다.",
+      "강유정 청와대 수석대변인은 2일 공지를 통해 \"이 대통령은 7박11일의 남미 순방을 마치고 귀국하는 대로 청와대로 출근해 부동산 정책."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbc812fe7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/02/MQ4DAZJRGU3DAZBQGQ2TMZTGME/",
+    "title": "야구장을 워터밤으로, 권은비 [O! SPORTS 숏폼]",
+    "summary": [
+      "[OSEN=잠실, 조은정 기자]2일 서울 잠실야구장에서 2026 신한 SOL KBO리그 두산 베어스와 LG 트윈스의 경기가 열렸다.이날 두산은 벤자민, LG는 톨허스트를 선발로 내세웠다.",
+      "클리닝타임에 권은비가 공연을 하고 있다.",
+      "2026.08.02 /cej@osen.co.kr."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n042996fb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733195",
+    "title": "김희철, '아형' 하차 이유 묻자 강호동 소환",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 슈퍼주니어 김희철이 11년 만에 '아는 형님' 하차하게 된 이유를 밝혔다.",
+      "1일 유튜브 채널 '에겐남 스윙스'에는 '아이돌 최초, 컨트롤 디스전에 참여할 뻔한 우주대스타 김희철'이라는 제목의 영상이 게재됐다.",
+      "김희철은 '아는형님'을 그만둔 이유에 대해 \"'아는형님'을 매주 목요일에 녹화한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n52413b77",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003732955",
+    "title": "\"美학부모, 자녀 등하교로 1년에 7000분 운전대 잡는다\"",
+    "summary": [
+      "[서울=뉴시스]박지혁 기자, 이지윤 기자 = 학령기 자녀를 둔 미국 부모들은 등하교와 방과 후 활동을 위해 1년에 근무일 기준 약 15일을 운전하는 것으로 나타났다.",
+      "새 학기에는 자녀 일정 조율과 식사 준비, 수면 관리 등 일상 전반에서 부담이 커지는 것으로 조사됐다.",
+      "미국 뉴욕포스트는 최근 식품기업 밥 에번스가 의뢰하고 미국 시장조사기관 토커리서치가 실시한 설문조사를 인용해 새 학기 동안 부모들이 겪는 시간 부담과 생활 변화를 소개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n10fd6db0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/08/02/HCKVHHBQ2ZFIPM6KLNO4AM2PNU/",
+    "title": "[단독] 윤한홍 “金여사 소개로 21그램 연락처 전달했지만…김오진이 확대 해석한 듯”",
+    "summary": [
+      "[단독] 윤한홍 “金여사 소개로 21그램 연락처 전달했지만…김오진이 확대 해석한 듯”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne0df2bdb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/02/7S6NOGHYUBGTRAXXPU4C7LM5DM/",
+    "title": "서울 신림동 4층 상가에서 불...130여 명 대피",
+    "summary": [
+      "서울 신림동 4층 상가에서 불...130여 명 대피."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1fa0126d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802047700527",
+    "title": "경남 진주·사천 오존주의보 발령",
+    "summary": [
+      "(창원=연합뉴스) 2일 오후 7시를 기해 경남 진주·사천에 오존주의보가 내려졌다고 환경부 한국환경공단이 전했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "na28e9bbe",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802051100062",
+    "title": "강원 평창 국도서 차량 3중 추돌 사고…2명 중상",
+    "summary": [
+      "(평창=연합뉴스) 이상학 기자 = 2일 오후 4시 30분께 강원 평창군 용평면 31번 국도에서 승용차와 RV 차량 등이 잇따라 부딪히는 3중 추..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne90ccc0e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802051200007",
+    "title": "'장단 13안타' 두산, 잠실 더비서 LG 꺾고 3연승 행진",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 프로야구 두산 베어스가 장단 13안타를 몰아친 타선의 화력을 앞세워 3연승을 이어갔다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc9b384ed",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260802/134408803/1",
+    "title": "친명 “최민희 비매너 눈살”…친청 “당내 일베 박살낼 것”",
+    "summary": [
+      "더불어민주당 8·17 전당대회 첫 주말 순회경선 최고위원 투표에서는 당선권인 1~5위를 친명(친이재명)계 3명과 친청(친정청래)계 2명이 양분하며 치열한 계파 대리전이 벌어졌다.2일 민주당 중앙당선거관리위원회에 따르면 이날 부산·울산·경남 경선에선 전날 충청권과 마찬가지로 최민희 박선원 한민수 서미화 김용 후보(득표율 순)가 당선권인 1~5위에 안착했다.",
+      "이번 주말 경선에서 누적 득표율 1위(경남 가중치 5% 반영)는 최민희 후보(22.58%)."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8e007ae6",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260801051751007",
+    "title": "[프로야구 잠실전적] 두산 8-3 LG",
+    "summary": [
+      "[프로야구 잠실전적] 두산 8-3 LG."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4bd6a460",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "40분 전",
+    "url": "https://view.asiae.co.kr/article/2026080220393177875",
+    "title": "[내일날씨]\"에어컨 없이 못 버틴다\" 전국 폭염특보…광주·대구 최고 39도",
+    "summary": [
+      "월요일인 3일은 전국 대부분 지역에서 무더위와 열대야가 이어지겠다.",
+      "이날 아침 최저기온은 23∼27도, 낮 최고기온은 32∼39도로 예보됐다.전국 대부분 지역에 폭염특보가 발효됐으며 특히 전남권과 경상권에는 최고기온이 39도 이상으로 올라 생명을 위협하는 수준의 극단적인 더위가 예상된다.",
+      "이 외 지역에서도 최고 체감온도가 35도 안팎으로 올라 무덥겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n7da5b796",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "49분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153914",
     "title": "SKT '달리기' vs KT '안전'...통신사, 웨어러블 시장 '격돌'",
     "summary": [
@@ -362,60 +576,42 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n275b0d8d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260802/134408905/2",
-    "title": "‘美 3대 버거’ 인앤아웃 매장 총격…3명 사망·2명 부상",
+    "id": "n4af2c2a0",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "55분 전",
+    "url": "https://view.asiae.co.kr/article/2026080220243570993",
+    "title": "롯데마트, 베트남 북부 박장 첫 출점…신흥 산업도시 공략 본격화",
     "summary": [
-      "미국 아이다호주의 한 인앤아웃 버거 매장에서 총격 사건이 발생해 최소 3명이 숨지고 2명이 다쳤다.",
-      "총격전이 매장 밖까지 이어지면서 쇼핑센터 일대는 대피하는 시민들로 큰 혼란에 빠졌다.1일(현지시간) 뉴욕타임스(NYT) 등에 따르면 이날 오후 2시 30분경 트윈폴스 경찰에 식당 내부에서 총격범이 활동 중이라는 신고가 접수됐다.",
-      "사건이 발생한 매장은 지난달 24일 문을 연 신규 매장이다.매튜 힉스 트윈폴스 경찰서장은 기자회견에서 용의자가 사망했다."
+      "롯데마트가 베트남 북부 신흥 산업도시 박장에 신규 점포를 열고 북부 사업 확대에 속도를 낸다.",
+      "롯데마트는 7월 30일 베트남 북부 박장시에 현지 17호점인 '박장점'을 오픈했다고 2일 밝혔다.",
+      "그동안 호치민 등 남부를 중심으로 점포망을 확대해 온 롯데마트는 하노이 2개 점포에 이어 박장까지 진출하며 북부 사업을 본격 확대한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7fee4bbb",
+    "id": "n275b0d8d",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733214",
-    "title": "정희용 의원, 칠곡·성주시장서 당원 모집 캠페인",
+    "source": "동아일보",
+    "time": "55분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260802/134408905/2",
+    "title": "주말 저녁 美 인앤아웃 매장서 총격 테러…3명 숨져",
     "summary": [
-      "[칠곡=뉴시스] 박홍식 기자 = 정희용 국회의원(경북 고령군·성주군·칠곡군)이 국민의힘 당원 모집에 나섰다.",
-      "2일 정희용 의원실에 따르면 지역구인 칠곡군 왜관시장, 성주군 성주시장에서 당원 모집 캠페인을 진행했다.",
-      "고령군에서는 오는 9일 당원 모집에 나선다는 계획이다."
+      "미국 아이다호주의 한 인앤아웃 버거 매장에서 총격 사건이 발생해 최소 3명이 숨지고 2명이 다쳤다.",
+      "총격전이 매장 밖까지 이어지면서 쇼핑센터 일대는 대피하는 시민들로 큰 혼란에 빠졌다.1일(현지시간) 뉴욕타임스(NYT) 등에 따르면 이날 오후 2시 30분경 트윈폴스 경찰에는 인앤아웃 버거 매장 안에서 총격 사건이 발생했다는 신고가 접수됐다.",
+      "사건이 발생한 매장은 지난달 24일 문을 연 신규 매장이다."
     ],
     "chips": [
-      "#채용",
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne1c360b1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733218",
-    "title": "폭염 고위험 어르신 하루 2차례 안부…안전확인 강화",
-    "summary": [
-      "[세종=뉴시스]용윤신 기자 = 폭염 중앙재난안전대책본부가 2단계로 격상되면서 정부가 취약계층에 대한 안전확인을 강화한다.",
-      "폭염특보 발령 지역의 고위험군 어르신은 하루 최대 2차례 안부를 확인하고, 폭염중대경보가 발령되면 노인일자리 실외 활동을 전면 중단한다.",
-      "보건복지부는 2일 오후 1시부로 폭염 중대본이 2단계로 격상됨에 따라 지방정부와 관련 단체 등에 공문과 핫라인 등을 통해 조치사항을 신속히 전파하고 현장 점검을 요청했다고 밝혔다."
-    ],
-    "chips": [
-      "#고용",
-      "#의료"
+      "#뉴스"
     ]
   },
   {
     "id": "n4c7e7c85",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/People/article/all/20260802/134408205/1",
     "title": "트리플보기 딛고 샷이글…이다연, 아홉수 깨고 10승 대역전극",
     "summary": [
@@ -428,208 +624,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na236ff36",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/national/regional/2026/08/02/5P7B6U3T5JD5JLIIVATJC7J6P4/",
-    "title": "폭염에 생활용수 사용량 급증… 청도군 일부 지역 계획 단수",
-    "summary": [
-      "폭염에 생활용수 사용량 급증… 청도군 일부 지역 계획 단수."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ad07b80",
+    "id": "nff4f705a",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733068",
-    "title": "\"콘센트에 꽂으면 끝\"…미국 10개 주, 태양광 패널 직결 허용",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 미국 10개 주가 별도 허가나 전기 기술자 없이 벽면 콘센트에 태양광 패널을 바로 연결할 수 있는 '플러그인 태양광' 방식을 합법화했다.",
-      "지난달 31일(현지시간) 뉴욕타임스에 따르면, 솔트레이크시티에 사는 멜라니 잭슨(35)씨는 유튜브 영상을 보고 자택 뒷마당에 패널 4개를 직접 설치했다.",
-      "이후 6개월간 그가 아낀 전기 요금은 77달러(약 11만원)에 달했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne8d6e332",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/02/GNSTSYJRGE3DKOJYMIYTINJUGM/",
-    "title": "뼈만 있는 줄 알았는데…이현이, 깜짝 놀랄 만큼 봉긋 솟은 '직각 어깨' 감탄",
-    "summary": [
-      "[OSEN=박근희 기자] 모델 이현이가 탄탄한 근육질 상체를 공개해 감탄을 자아냈다.2일 이현이는 자신의 SNS를 통해 “요즘 어깨 운동중”이라는 글과 함께 사진을 공개했다.공개된 사진 속에는 거울 앞에 서서 포즈를 취하고 있는 이현이의 모습이 담겨 있다.",
-      "평소 슬림한 체형으로 잘 알려진 이현이는 믿을 수 없을 정도로 봉긋하게 솟은 직각 어깨와 선명한 등근."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n64306369",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733215",
-    "title": "20대 지적장애인 금천구서 닷새째 실종…경찰 수색",
-    "summary": [
-      "[서울=뉴시스]이태성 기자 = 연일 무더위가 계속되는 가운데 지적장애가 있는 20대 남성이 서울 금천구에서 닷새째 행방이 묘연해져 경찰이 수색에 나섰다.",
-      "2일 경찰 등에 따르면 서울 금천경찰서는 지난 29일 실종된 장성철(20)씨를 수색 중이다.",
-      "서울의 한 특수학교에 재학 중인 장씨는 실종 당일 오전 8시께 현장실습 장소에 홀로 출근하던 중 금천구 시흥대로 일대에서 사라졌다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nde73a7b1",
-    "category": "사회",
-    "source": "테크M",
-    "time": "18분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153913",
-    "title": "삼성전자·LG전자, 韓 히트펌프 주도권 경쟁 '점화'",
-    "summary": [
-      "삼성전자와 LG전자의 '히트펌프' 경쟁이 점화했다.",
-      "히트펌프는 전기를 이용한 냉난방공조(HVAC) 기기다.",
-      "친환경 냉난방 기기로 주목을 받고 있다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#환경"
-    ]
-  },
-  {
-    "id": "nb06b6efe",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260802/134408359/1",
-    "title": "윤한홍, 관저 이전 의혹 9시간 특검 조사…“나와 무관”",
-    "summary": [
-      "윤석열 정부 대통령실 관저 이전 의혹을 수사하는 2차 종합특검(특별검사 권창영)이 1일 국민의힘 윤한홍 의원을 피의자 신분으로 불러 9시간가량 조사했다.",
-      "윤 의원은 관저 부지 변경 및 공사 업체 선정에 부당하게 관여했다는 혐의에 대해 부인했다.특검은 이날 오전 10시부터 오후 7시 5분까지 직권남용권리행사방해 혐의를 받는 윤 의원을 불러 조사했다.",
-      "특검은 윤 의원이 윤석열 정부 대통령직인수위원회에서 청와대 이전 태스크포스(TF)를 이끌면서 윤."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n78b86c32",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802049200001",
-    "title": "[표] 與 당대표·최고위원 경선 부·울·경 권리당원 투표 결과",
-    "summary": [
-      "[표] 與 당대표·최고위원 경선 부·울·경 권리당원 투표 결과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd60433a4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802039700004",
-    "title": "[날씨] 전국 폭염 계속…강원남부·충북북부 오후 소나기",
-    "summary": [
-      "(서울=연합뉴스) 조현영 기자 = 월요일인 3일은 전국 대부분 지역에서 무더위와 열대야가 이어지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5fe26c48",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802029351004",
-    "title": "'검찰수사 완전 폐지법' 처리됐지만…헌재서 최종라운드 예고(종합)",
-    "summary": [
-      "(서울=연합뉴스) 이밝음 기자 = 검사의 보완수사권을 폐지하고 직접 영장청구권까지 제한하는 내용의 형사소송법 개정안을 두고 논란이 계속되면서 최..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nae077a37",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260802/134408808/1",
-    "title": "‘놀러코스터’ 고경표, 가족사 고백…“母 투병 후 삶 태도 바뀌었다”",
-    "summary": [
-      "‘놀러코스터’ 고경표가 어머니의 투병 이후 달라진 삶에 대해 고백한다.",
-      "2일 방송되는 MBC ‘놀러코스터’에서는 노홍철, 최강록, 고경표, 빠니보틀이 유럽 테마파크 여행을 마무리하며 그동안 꺼내지 못했던 속마음을 전한다.이날 방송에서 고경표는 처음으로 가족사를 공개한다.",
-      "그는 “어머니 투병 소식 이후 삶을 대하는 태도가 바뀌었다”며 “돌이켜보면 후회되는 일이 있다”고 말하며 드라마 ‘응답하라 1988’ 시절을 떠올린다.이어 최강록은 형들을 위해."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7823a64",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802048800017",
-    "title": "SK팜테코, 세종 신공장 준공…펩타이드 생산 역량 강화",
-    "summary": [
-      "(서울=연합뉴스) 박상현 기자 = SK의 의약품 위탁개발생산(CDMO) 업체인 SK팜테코가 세종시에 새로운 펩타이드 생산 공장을 준공했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3aaa5b72",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "59분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/08/02/NUK5U4JJ4VCVBF3OKG5RAUFGSQ/",
-    "title": "[속보] 부·울·경은 정청래 승리… 충청 합쳐 김민석에 역전",
-    "summary": [
-      "[속보] 부·울·경은 정청래 승리… 충청 합쳐 김민석에 역전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8747e2ad",
-    "category": "스포츠",
-    "source": "한국경제",
+    "source": "아시아경제",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026080202717",
-    "title": "[속보] 與당대표 경선 당원투표 부산·경남 정청래·울산 김민석 승리",
+    "url": "https://view.asiae.co.kr/article/2026080220054448843",
+    "title": "\"시신 200구 안치 대비\"…스페인, 세우타 익사자 수색 이어가",
     "summary": [
-      "[속보] 與당대표 경선 당원투표 부산·경남 정청래·울산 김민석 승리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n04820ed2",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026080202807",
-    "title": "홍준표 \"후안무치한 자들이 당 휘젓고 다니니…\" 일침",
-    "summary": [
-      "홍준표 \"후안무치한 자들이 당 휘젓고 다니니…\" 일침."
+      "스페인 당국이 북아프리카의 스페인 영토 세우타로 수만 명의 이주민이 대거 넘어오는 과정에서 숨진 희생자들의 시신을 찾기 위해 수색 작업을 이어가고 있다.",
+      "2일(현지시간) 스페인 국영방송 RTVE는 경찰 당국이 아직 수습되지 못한 익사자를 찾기 위해 세우타 인근 해역을 수색하고 있다고 보도했다.",
+      "한 경찰 관계자는 \"바다에는 아직도 더 많은 시신이 있다\"라고 이야기했다."
     ],
     "chips": [
       "#뉴스"
@@ -642,14 +646,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "삼성전자",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "KBO",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
