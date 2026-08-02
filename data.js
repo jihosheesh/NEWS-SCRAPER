@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-02 16:19:27
+// 마지막 업데이트: 2026-08-02 17:20:30
 window.NEWS_DB = [
   {
     "id": "n2d8dc056",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yM0Z5dUpWZjBxZjdFa0V0VHpYUmlGbml3eUhsRmszVmRCTjN0bURLT0hFY0xqNHJVMXJhU3RJVzItQXJzN1F4WVktak5obEFuRkZFbGFmcy1xMmh3bFRob0I0TG16VWJz?oc=5",
     "title": "中 문샷, 알리바바와 '엔비디아 칩 2만장' 사용 계약…美 반도체 우회 확보",
     "summary": [
@@ -45,16 +45,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n20482ffd",
+    "id": "nc06eaff3",
     "category": "IT",
-    "source": "연합인포맥스",
+    "source": "한국경제",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hS0lsVVpBZU1Ud0ZjTEEtVkItV0x6TUV0NUhFSUtSelN5Z3BLZjF2VURvbF9QaV9zVTFLcDZtN2JtaE80V1JoRkFyYVROMHFnTXRXMXprWTRqc3U1ZmM1VnZ2bUhrdzBDR0pBYy04Y0JkZW5S?oc=5",
-    "title": "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 |",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczVid3c4TkUydmFFU2Rfd0IwVkN5NFNUOGMxM09aYkNTVVhxYnpoNFFYN3E1R1Z3cUlacjZUNXhJNHE4Tkg0d3BDcVhfM3VBdy1jbmRSSG5HQQ?oc=5",
+    "title": "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올",
     "summary": [
-      "역대급 실적에도 달랐던 삼전닉스 컨콜…소통은 삼성전자 돋보였다 | 연합인포맥스."
+      "\"삼성전자, HBM·파운드리 경쟁력 회복…주주환원 재확인\"-다올 한국경제."
     ],
     "chips": [
+      "#반도체",
       "#삼성전자"
     ]
   },
@@ -242,12 +243,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "65일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -329,16 +330,152 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n07865130",
+    "id": "n76e60387",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260803/134409955/1",
+    "title": "세계는 대도시 탈출하는데…한국 수도권 집중은 OECD 최고 수준",
+    "summary": [
+      "전 세계 주요 선진국들 사이에서 대도시권 집중 현상이 꺾이고 있는 가운데, 한국과 일본은 이와 정반대의 길을 걷고 있는 것으로 나타났다.",
+      "2일(현지 시간) 일본 니혼게이자이신문이 유엔(UN)의 ‘세계 도시화 전망 2025’를 바탕으로 호주를 제외한 OECD 회원국 37개국의 수도권 인구 비중을 분석한 결과, 회원국의 60%에 달하는 국가에서 대도시권 인구 집중이 완화된 것으로 조사됐다.OECD 37개국 평균 인구 집중도는 2021년 16.9％로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85f6648c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260803/134409950/1",
+    "title": "여름 해외여행후 고열…그냥 넘기면 안되는 이유",
+    "summary": [
+      "올해 국내 해외여행객이 3000만 명을 넘어설 것으로 전망되고 있다.",
+      "여행객이 느는 만큼 해외에서 유입되는 감염병 우려도 커지고 있어 각별한 주의가 요구된다.",
+      "3일 질병관리청 통계에 따르면 2025년 기준 모기매개 감염병의 경우 말라리아 국내발생 545명·해외유입 56명, 뎅기열 해외유입 110명, 치쿤구니야열 해외유입 9명, 지카바이러스 감염증 해외유입 3명으로 나타났다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n085f696a",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/03/HA2DKZRRMVTGGNTDMU3TEN3FGU/",
-    "title": "스쿠벌 합류 → 오타니 '이도류 불가' 확정? 다저스의 포석은 결국 이거였나",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/03/MU4DKMDBMQ4GMNBRMQ3WENJWHE/",
+    "title": "'너무 더워서 그랬을 거야…' 1위 빼앗긴 삼성의 절박한 '정신승리'",
     "summary": [
-      "[스포츠조선 박상경 기자] LA 다저스의 포석은 결국 이것이었던 걸까.",
-      "2년 연속(2024~2025) 아메리칸리그 사이영상 수상자 태릭 스쿠벌이 다저스에 합류하면서 오타니 쇼헤이의 투타 겸업 이도류가 봉인될 것이라는 전망이 나왔다.",
-      "일본 매체 풀카운트는 '스쿠벌 합류로 올 시즌 오타니의 타자 전념론이 현실화될 가능성이 있다'고 전망했다."
+      "[스포츠조선 정현석 기자]\"너무 더워서 그랬을 거야…\" 삼성 라이온즈의 속이 까맣게 타들어 가고 있다.",
+      "우승을 위해 공들여 영입한 '우승 청부사' 외국인 투수 두 명이 나란히 무너졌기 때문이다.",
+      "폭염 탓이라고 스스로 위안이라도 삼아보고 싶지만, 객관적인 결과가 너무 좋지 않았다.▶페덱 이어 보스마저… '우승 청부사' 라인의 연쇄 붕괴 삼성은 2일 부산 사직."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf93033c2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260802_0003733067",
+    "title": "\"기저귀도 얼려 쓴다\"…40도 폭염 日, 쿨링 상품 열풍",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 일본에 40도를 넘나드는 기록적인 폭염이 이어지면서 화장품부터 생리대, 기저귀까지 냉감 기능을 앞세운 상품이 잇따라 나오고 있다.",
+      "지난 28일 아사히신문에 따르면 화장품업체 시세이도는 냉동고에 얼려 쓰는 에센스 '소르베 세럼'을 출시했다.",
+      "밤새 얼리면 젤 제형이 셔벗처럼 변해 사각거리는 감촉과 함께 달아오른 피부를 빠르게 식혀준다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb5c104b9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/03/GE4GCNBSGVRGEMJSMVRTENRRGU/",
+    "title": "'미쳤다' 7이닝 10K 무실점→7이닝 8K 무실점, 고퀄스 전성기는 여전히 진행 중…강철매직도 \"완벽한 투구\" 감탄했다",
+    "summary": [
+      "[OSEN=수원, 조은혜 기자] 프로야구 KT 위즈가 한화 이글스와의 경기에서 대승을 거두고 3연전을 싹쓸이, 6연승을 질주했다.이강철 감독이 이끄는 KT는 2일 수원 케이티위즈파크에서 열린 2026 신한 SOL KBO리그 한화와의 홈경기에서 완승을 거뒀다.",
+      "이날 승리로 6연승을 내달린 KT는 59승36패2무로 1위 자리를 지켰다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n2976af09",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802043351098",
+    "title": "스페인 세우타 이주민 난입사태 사망자 72명으로 늘어(종합)",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 북아프리카의 스페인 영토 세우타로 수만 명의 모코로 이주민이 대거 넘어오는 과정에서 숨진 사람이 72명으로..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfef42c15",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "49분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803000800087",
+    "title": "멕시코군, 美가 500만달러 내건 마약 카르텔 두목 체포",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 멕시코 연방군이 미국 정부가 거액의 현상금을 걸고 수배해 온 대형 마약 카르텔 두목을 체포했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na934877c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/03/HEYWEMZSGJSTQMLBGNSDOM3FMU/",
+    "title": "'초고교급 투타겸업' 韓 기대주, ARI 유망주 TOP 20 진입하다 \"강한 어깨, 정교한 타격 갖춘 우타자\"",
+    "summary": [
+      "[OSEN=조은혜 기자] 애리조나 다이아몬드백스와 계약한 덕수고 엄준상이 애리조나 유망주 랭킹 TOP 20에 이름을 올렸다.MLB 파이프라인은 최근 트레이드 데드라인을 앞두고 각 구단의 TOP 30 유망주 랭킹을 손질했다.",
+      "이번 업데이트는 전면 개편이 아닌 중간 조정이다.",
+      "2026년 드래프트 선수들이 합류하는 8월 전체 랭킹 개편을 앞두고, 각 구단의 새로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ac4737b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/03/MQZDQZDCMM3TEZJRGFRWEMDFGE/",
+    "title": "“3루 가면 안 됐다” 쓴소리 들었던 도루왕, 이번엔 주루 센스→쐐기 득점으로 만회하다",
+    "summary": [
+      "[OSEN=잠실, 한용섭 기자] 프로야구 두산 베어스 베테랑 정수빈이 이번에는 센스 있는 주루 플레이로 쐐기 득점을 올리며 전날 아쉬운 주루사를 만회했다.",
+      "두산은 2일 잠실구장에서 열린 LG와 경기에서 8-3으로 승리했다.",
+      "두산은 2-3으로 뒤진 4회 박찬호의 역전 2타점 2루타 등으로 4득점 빅이닝을 만들며 6-3으로 역전했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nfb1f8d68",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802042451082",
+    "title": "인판티노 4연임 물건너가나…FIFA 새판짜기 본격화(종합)",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 4 연임을 노리는 잔니 인판티노 국제축구연맹(FIFA) 회장이 '월드컵 자회사' 설립 논란으로 역풍을 맞았..."
     ],
     "chips": [
       "#뉴스"
@@ -348,7 +485,7 @@ window.NEWS_DB = [
     "id": "n8c1e7df8",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260803_0003733272",
     "title": "'가뭄' 헝가리, 44년 만에 유일한 원전 가동 중단…\"전력 위기 심화\"",
     "summary": [
@@ -364,7 +501,7 @@ window.NEWS_DB = [
     "id": "n8913602a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260802056400072",
     "title": "[르포] 8만 아미의 '아리랑' 떼창…BTS, 뉴욕·뉴저지서 북미투어 재개",
     "summary": [
@@ -375,97 +512,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n78f26347",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260731_0003731181",
-    "title": "여름 해외여행후 고열…그냥 넘기면 안되는 이유",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 올해 국내 해외여행객이 3000만 명을 넘어설 것으로 전망되고 있다.",
-      "여행객이 느는 만큼 해외에서 유입되는 감염병 우려도 커지고 있어 각별한 주의가 요구된다.",
-      "3일 질병관리청 통계에 따르면 2025년 기준 모기매개 감염병의 경우 말라리아 국내발생 545명·해외유입 56명, 뎅기열 해외유입 110명, 치쿤구니야열 해외유입 9명, 지카바이러스 감염증 해외유입 3명으로 나타났다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nbca12c71",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260802_0003733124",
-    "title": "세계는 대도시 탈출하는데…한국 수도권 집중은 OECD 최고 수준",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 전 세계 주요 선진국들 사이에서 대도시권 집중 현상이 꺾이고 있는 가운데, 한국과 일본은 이와 정반대의 길을 걷고 있는 것으로 나타났다.",
-      "2일(현지 시간) 일본 니혼게이자이신문이 유엔(UN)의 '세계 도시화 전망 2025'를 바탕으로 호주를 제외한 OECD 회원국 37개국의 수도권 인구 비중을 분석한 결과, 회원국의 60%에 달하는 국가에서 대도시권 인구 집중이 완화된 것으로 조사됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36039bf9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/03/MDFRLOUH2JDGXJHAU2S4WUITYE/",
-    "title": "명품 소비 40% 늘었다, 금탄 된 동탄",
-    "summary": [
-      "명품 소비 40% 늘었다, 금탄 된 동탄."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naafd8e46",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "28분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/08/03/APWCCLPBGFGK3FIRDUOIRV3LQU/",
-    "title": "한국, 美·日과 발맞추듯 외환 개입… ‘환율 1300원대’ 전망 나와",
-    "summary": [
-      "한국, 美·日과 발맞추듯 외환 개입… ‘환율 1300원대’ 전망 나와."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "ne27f6a31",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802056300071",
-    "title": "소로스도 지갑 닫았다…美민주당, 중간선거 자금난에 '비상'",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 민주당이 11월 중간선거를 앞두고 저조한 선거자금 모금 실적에 어려움을 겪고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n26120e85",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802056000071",
-    "title": "트럼프의 중간선거후 '빅픽처'…\"마가 공화 업고 대선판 주물럭\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 차기 미국 의회 권력의 향배를 가르는 오는 11월 중간선거는 도널드 트럼프 대통령에게 정치적 명운이 걸린 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n5b819fb8",
     "category": "사회",
     "source": "동아일보",
-    "time": "48분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260803/134409859/1",
     "title": "李대통령 ‘美·남미 3국’ 순방 종료…4일 국무회의·업무보고 국정 복귀",
     "summary": [
@@ -480,7 +530,7 @@ window.NEWS_DB = [
     "id": "ne133decd",
     "category": "사회",
     "source": "동아일보",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260803/134409856/1",
     "title": "김숙, 톱스타 실체 폭로 “엄청 유명한데 너무 못 돼”",
     "summary": [
@@ -493,84 +543,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n68d1a772",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "51분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260803/134409853/1",
-    "title": "모스크바 고급 식당 폭발물 터져 3명 숨져…모스크바 시장 “경위 조사”",
-    "summary": [
-      "러시아 수도 모스크바 중심가의 한 고급 식당 인근에서 폭발물이 터져 최소 3명이 숨진 가운데, 세르게이 소뱌닌 모스크바 시장은 테러 행위라며 사건 경위를 조사하고 있다고 밝혔다.소뱌닌 시장은 2일(현지 시간) 텔레그램을 통해 “전날(1일) 모스크바에서 발생한 잔혹한 테러 공격으로 여러 명이 목숨을 잃었다”며 “부상자들은 병원에서 필요한 치료를 받고 있다”고 밝혔다.그는 “경찰이 사건 경위를 조사하고 있다.",
-      "범죄 책임자들은 반드시 검거돼 법의 심."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ncd80aa08",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "54분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260802053900001",
-    "title": "李대통령, 7박 11일 순방 일정 마무리…서울로 출발",
-    "summary": [
-      "(프랑크푸르트=연합뉴스) 임형섭 황윤기 기자 = 이재명 대통령은 7박 11일간의 순방을 마무리하고 2일(현지시간) 서울행 비행기에 올랐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndaaa34bf",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "54분 전",
-    "url": "https://www.newsis.com/view/NISX20260801_0003732765",
-    "title": "이 대통령, 7박11일 미국·남미·독일 5개국 순방 마무리…귀국길 올라",
-    "summary": [
-      "[프랑크푸르트=뉴시스] 김지은 기자 = 이재명 대통령이 2일(현지시간) 7박 11일 간의 미국·남미·독일 순방 일정을 마치고 귀국길에 올랐다.",
-      "이 대통령은 이날 오후(현지시간) 독일 프랑크푸르트 국제공항에서 대통령 전용기인 공군 1호기를 타고 한국으로 출발했다.",
-      "이 대통령은 귀국을 위해 경유한 프랑크푸르트에서 현지 동포들과 만나 오찬 간담회를 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n20c3f7b2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "59분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/03/4CYJGKGE3NBGNFS6ZCPZA5YHEQ/",
-    "title": "[팔면봉] 李 대통령, 11일간 지구 한 바퀴 돌아 오늘 귀국. 외",
-    "summary": [
-      "[팔면봉] 李 대통령, 11일간 지구 한 바퀴 돌아 오늘 귀국. 외."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5f1d5e87",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260803/134409820/1",
-    "title": "서인영 “뱃살은 쪄도 다리만은 진짜 앏자”…워터밤 출격전 ‘다리 미인’ 관리법 공개",
-    "summary": [
-      "가수 서인영이 워터밤 무대를 앞두고 완벽한 무대를 위한 준비 과정을 공개하며, 오랜 시간 유지해온 ‘다리 미인’ 비결을 털어놨다.서인영은 자신의 유튜브 채널 ‘개과천선 서인영’에 29일 공개한 영상에서 워터밤 무대 준비를 위해 안무 연습에 매진하는 모습을 공개했다.",
-      "특히 이날 서인영은 장시간 연습 후 부은 다리를 관리하기 위해 압박 스타킹을 착용하며 다리 건강에 대한 이야기를 전했다.영상 속 서인영은 “아 이제 끝났어."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "nfd4b89cc",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026073187067",
     "title": "[오늘의 운세] 8월 3일 띠별 운세",
     "summary": [
@@ -584,7 +560,7 @@ window.NEWS_DB = [
     "id": "ndd461c6d",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026073172497",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 3일 띠별 추천 점심메뉴",
     "summary": [
@@ -598,7 +574,7 @@ window.NEWS_DB = [
     "id": "n585f1798",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026073182707",
     "title": "[오늘의 운세] 2026년 8월 3일 별자리 운세",
     "summary": [
@@ -612,13 +588,43 @@ window.NEWS_DB = [
     "id": "nf74334b8",
     "category": "사회",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153917",
     "title": "\"해킹 여진 여전\"...SKT·KT·LG유플러스, 2분기 실적 전망은?",
     "summary": [
       "SK텔레콤 KT LG유플러스가 2026년 2분기 실적을 공개한다.",
       "SK텔레콤과 KT는 해킹에 희비가 엇갈렸다.",
       "SK텔레콤은 작년 4월 파악한 '가입자식별모듈(USIM, 유심) 정보 유출' 사고 터널을 벗어났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8fd854c5",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "3시간 전",
+    "url": "https://view.asiae.co.kr/article/2026080220205166823",
+    "title": "목포대·순천대, 10일까지 '통합 협상' 이어간다",
+    "summary": [
+      "목포대학교와 순천대학교가 통합 논의를 오는 10일까지 이어가기로 했다.",
+      "전남광주통합특별시는 2일 장흥 목재산업지원센터에서 '통합대학 국립의대 관련 회의'를 열고 정부가 통합대학 신청서 제출 기한을 오는 10일까지 연장하기로 한 사실을 공유하고, 그때까지 양 대학이 조건 없는 통합 협의를 계속하기로 뜻을 모았다고 밝혔다.이날 회의에는 민형배 전남광주통합특별시장과 김원이·김문수·권향엽 국회의원, 강성휘 목포시."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nbf0b6462",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/2026080203831",
+    "title": "충청은 김민석, 부울경은 정청래…與 전대 혼전 양상",
+    "summary": [
+      "충청은 김민석, 부울경은 정청래…與 전대 혼전 양상."
     ],
     "chips": [
       "#뉴스"
@@ -631,18 +637,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "3110건",
+    "trend": "+375%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1420건",
     "trend": "+115%"
   }
