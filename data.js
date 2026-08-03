@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-03 12:04:28
+// 마지막 업데이트: 2026-08-03 13:50:51
 window.NEWS_DB = [
   {
     "id": "n170df46a",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QREQwTGZBM0hxRC1vc25GMEE4X2pYZ29Kb25EVVRnMnFrTFJXZ2hLUFRyRVBwVEFTVG1kSGFYNElBLThOaHZ5NC1xcnBZUFJzVk9NV3FnV2dBUlRrT1h5NVFBN0lfWmJualFhUDhHd0NaRFk?oc=5",
     "title": "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n4591ab10",
     "category": "IT",
     "source": "코인리더스",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RQzVVemlqbkRaTGMyUU02eVlCRndDU1gwYkExT0ZIb3FXYndtSGcteW1GOVRydDlkMTVaSThsTWlQU3lpZ3JuMlln?oc=5",
     "title": "엔비디아, AI 투자 꺾이면 끝?...\"반도체 구매자·판매자 둘 다 못 웃는다\"",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n5142ca5e",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ySHBaTzZWanptOFJHMW1pRVFReU9PYlp5RE1MdEZmLXVGVTBPWGNIbFNIcVotZW1vN0Y3Z0w2N05tcndobzI4b0xtTklPTk80b2I0cXdwbTF6YWlTT0kwc2FEcnlwZEJVRWNXc01DYw?oc=5",
     "title": "HBM4 전환기…삼성전자 점유율, SK하이닉스 앞지를까",
     "summary": [
@@ -66,12 +66,12 @@ window.NEWS_DB = [
   {
     "id": "nf9e65a25",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZVVY0Z3c4a0RtZlNJZnNrQ2I1aFp0LURGRmFxLThPUll4cm1YMUtWTGV5c3NTSU1BaG43YWtEQTFZNGNwZjZHVnI5QTRMVVQxeVAw?oc=5",
     "title": "[ST포토] 카라스코, KBO 데뷔",
     "summary": [
-      "[ST포토] 카라스코, KBO 데뷔 네이트."
+      "[ST포토] 카라스코, KBO 데뷔 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -109,12 +109,12 @@ window.NEWS_DB = [
   {
     "id": "n0c06c07a",
     "category": "IT",
-    "source": "unicornfactory.co.kr",
+    "source": "유니콘팩토리",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" unicornfactory.co.kr."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -123,12 +123,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -185,12 +185,12 @@ window.NEWS_DB = [
   {
     "id": "n6b58f8f3",
     "category": "사회",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "time": "35일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
     ],
     "chips": [
       "#채용",
@@ -230,12 +230,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "66일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -244,12 +244,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "66일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -379,259 +379,255 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7732946b",
+    "id": "nb55d43e8",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734865",
-    "title": "고성 철성고, 청룡기 전국고교축구대회 첫 우승",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734914",
+    "title": "[올댓차이나] 7월 中 레이팅독 제조업 PMI 50.9·0.8P↓…4개월 만에 최저",
     "summary": [
-      "[고성=뉴시스] 신정철 기자 = 경남 고성군의 철성고등학교가 '2026 청룡기 고등학교 U17 유스컵 축구대회'에서 전국 정상에 우뚝섰다.",
-      "고성군(군수 하학열)은 철성고등학교 U17 축구부가 '청룡기 고등학교 U17 유스컵 축구대회'에서 창단 이후 처음으로 전국 정상에 오르며, 고성 축구의 새로운 역사를 썼다고 3일 밝혔다.",
-      "철성고 U17은 3일 고성에서 개최돤 청룡기 고교 결승전에서 충북 충주상업고등학교를 상대로 치열한 접전을 펼친 끝에 후반."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n8d813545",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026080321013607402",
-    "title": "양주시, 5일부터 개별·공동주택가격 열람…24일까지 의견 접수",
-    "summary": [
-      "경기 양주시(시장 정덕영)는 오는 5일부터 24일까지 20일간 '2026년 6월 1일 기준 개별·공동주택가격안'에 대한 열람과 의견 접수를 진행한다고 3일 밝혔다.",
-      "열람 대상은 지역 내 단독·다가구주택 등 개별주택과 아파트·다세대주택 등 공동주택이다.",
-      "주택 소유자나 법률상 이해관계인은 양주시청 세정과를 방문하거나 국토교통부 '부동산공시가격알리미', 한국부동산원 부동산정보 스마트폰 앱에서 가격안을 확인할 수 있다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n859f4df6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734745",
-    "title": "대구·구미 '역대 8월 최고기온'…대구 신암 41.1도 폭주",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 3일 대구와 경북 구미의 8월 일최고기온이 역대 최고 기록을 경신하는 등 극단적인 무더위가 기승을 부렸다.",
-      "대구지방기상청에 따르면 이날 오후 5시 기준 공식 관측소 기온이 대구 39.6도, 구미 38.7도까지 치솟으며 8월 일최고기온 역대 1, 2위 최고 극값을 경신했다.",
-      "구미는 종전 기록(2018년 8월1일 38.1도)을 넘어서며 관측 이래 8월 기온 1위를 기록했고 대구는 1932년 8월1일(39.3도) 이후."
+      "[서울=뉴시스]이재준 기자 = 중국 체감경기를 보여주는 민간 제조업 경기는 확장 국면을 이어갔지만 크게 둔화해 4개월 만에 가장 낮은 수준으로 떨어졌다.",
+      "재신쾌보와 이재망, 홍콩경제일보에 따르면 민간기관 루이팅거우(瑞霆狗 RatingDog)와 S&P 글로벌은 3일 2026년 7월 중국 제조업 PMI가 50.9로 전월 51.7에서 0.8 포인트 하락했다고 발표했다.",
+      "시장에서는 51.5로 예상했는데 실제로는 이를 0.6 포인트 하회했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n192528d5",
+    "id": "nea270a10",
     "category": "사회",
-    "source": "아시아경제",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803161700099",
+    "title": "네타냐후 형 동상이 우간다에 세워진 이유는",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 우간다 정부가 50년 전 자국 엔테베 공항에서 인질 구출 작전을 지휘하다 숨진 이스라엘군 지휘관 요나..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c4e0fc6",
+    "category": "사회",
+    "source": "동아일보",
     "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026080320571103890",
-    "title": "프랜차이즈협회 \"가맹사업법 시행령 개정, 무책임한 탁상행정\"",
+    "url": "https://www.donga.com/news/Inter/article/all/20260803/134415623/1",
+    "title": "“2500년 전 아마존에 ‘인구 300만명’ 고대 사회 존재했다”",
     "summary": [
-      "한국프랜차이즈산업협회와 1000여 개 회원사는 정부가 입법 예고한 가맹사업법 시행령 개정안에 대해 \"상생이 아닌 '상시적 분쟁의 제도화'이자 산업 생태계를 파괴하는 무책임한 탁상행정\"이라며 시행령 전면 재검토와 재입법예고를 촉구했다.",
-      "협회는 3일 성명서를 통해 \"이번 개정안은 산업계의 핵심 우려를 완전히 외면한 채, 당초 논의안보다 등록 문턱을 터무니없이 낮추고 협의 범위를 무제한으로 확대했다\"며 이같이 밝혔다."
+      "2500년 전 아마존 우림 깊은 곳에 고도화된 사회가 존재했음을 입증하는 유적이 대거 발견됐다.지난달 31일(현지 시간) 미국 뉴욕타임스(NYT)에 따르면 최근 국제 학술지 네이처에는 아마존 서남부 지역 상공에서 수백 개의 지상 구조물을 포착했다는 연구 결과가 게재됐다.연구진은 볼리비아, 브라질, 페루 국경 인근의 울창한 숲을 뚫기 위해 첨단 레이저 기술인 ‘라이다(LiDAR)’를 활용했다.둔덕과 도랑, 제방 형태로 조성된 구조물들은 기원전 6."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0de65ea2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260803/134415059/2",
-    "title": "고깃집 사장의 분노…“몰래 싸온 고기 굽더니 반찬 4번 리필”",
-    "summary": [
-      "고깃집에서 인원 수보다 적게 고기를 주문한 뒤 미리 싸 온 고기를 몰래 구워 먹으며 야채 등 각종 반찬을 리필한 손님의 사연이 알려져 공분을 사고 있다.고깃집을 운영하는 한 사장은 2일 스레드에 “고깃집에 고기를 싸오는 게 말이 되느냐”며 이 같은 내용을 올렸다.",
-      "그는 “(손님) 인원수가 많았는데 고기를 적게 시키길래 어중간한 시간이라 배가 안고픈가 생각했다”며 “고기가 분명 없을건데 쌈과 고추, 마늘 등 반찬 리필이 4번 나갔다”고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a049b97",
+    "id": "n72bbfa6b",
     "category": "사회",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/03/GI3DKYJTGMYTAYTFMQ2WKNBVGM/",
-    "title": "'결혼설 부인' 강민경, 짝꿍 해리와 보낸 따뜻한 생일 “이 사랑 때문에 살 수 있어”",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/03/UEFYCS5LMRBOROVAP2QZLUW4JM/",
+    "title": "‘국가대표 수비수’ 이한범, 벨기에 명문 브뤼헤 입단… 등번호 3번",
     "summary": [
-      "[OSEN=임혜영 기자] 다비치 강민경이 이해리와 생일 파티를 했다.강민경은 3일 개인 채널에 “짝꿍이랑 따뜻한 생일 보냈어요.",
-      "이 사랑 때문에 나는 살 수 있어”라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속 강민경은 다비치 멤버이자 환상의 케미스트리를 자랑하는 이해리와 생일을 축하하는 모습이다."
+      "‘국가대표 수비수’ 이한범, 벨기에 명문 브뤼헤 입단… 등번호 3번."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3f4a0764",
+    "id": "nf1539537",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803157200001",
-    "title": "與 최고위원 토론회 계파 공방…\"당정 엇박자\"·\"자기정치 없다\"",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803161000071",
+    "title": "美국방부, 재고 우려 속 '패트리엇 3배·사드 4배 증산' 계약",
     "summary": [
-      "(서울=연합뉴스) 박재하 오규진 기자 = 더불어민주당 8·17 전당대회에 출마한 최고위원 후보들은 3일 방송 토론에서 계파로 나뉘어 공방을 벌였..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2979f83f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/03/GQ2TSYZYGRTDSNRVGM3GGZBRHA/",
-    "title": "박지윤, 8kg 감량 후 크롭티 자신감..배꼽 노출도 당당",
-    "summary": [
-      "[OSEN=임혜영 기자] 아나운서 출신 박지윤이 크롭티도 소화했다.박지윤은 3일 개인 채널에 지인들과 만남을 가진 근황을 공개했다.공개된 사진 속 박지윤은 검은색으로 맞춘 상의와 치마를 입고 싱그러운 미소를 짓고 있다.",
-      "허리가 고스란히 드러나는 디자인에도 군살 없는 체형을 드러내 눈길을 끈다.또 다른 영상 속 박지윤은 검은색 상의에 와이드 팬츠를 입은 모습."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 이란 전쟁 여파로 미군이 보유한 요격미사일 재고 부족 우려 속에 미 국방부(전쟁부)가 미 방산업체들과 요격..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0657c309",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803157800083",
-    "title": "중국 달 탐사선 창어 8호에 아프리카 과학장비 탑재 추진",
-    "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 중국이 2029년 발사 예정인 달 탐사선 창어 8호에 아프리카 연구기관이 개발한 과학장비를 실어 보내는 방..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f1478ec",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "28분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/08/03/6RSCOCGTNFD5BMEMPCL3YN25HQ/",
-    "title": "“박쥐” “일베 문화”... 與 최고위원 후보들 난타전",
-    "summary": [
-      "“박쥐” “일베 문화”... 與 최고위원 후보들 난타전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc81ddefe",
+    "id": "n1fa53a2c",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "31분 전",
-    "url": "https://view.asiae.co.kr/article/2026080320212790515",
-    "title": "월 1억4000만원 내면 '트럼프 글' 0.001초 먼저 본다…트루스소셜 유료서비스 시작",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734913",
+    "title": "[속보] 뉴욕 증시, 美 공격 취소에 상승 출발···다우 1.16%↑ 나스닥 0.33%↑",
     "summary": [
-      "도널드 트럼프 미국 대통령이 자신의 사회관계망서비스(SNS)인 트루스소셜에 대한 유료 서비스를 개시했다.",
-      "이는 월 최대 10만달러(약 1억4000만원)의 구독료를 내는 이용자에게 트루스소셜 게시물을 1000분의 1초 먼저 보여주는 서비스로, 현직 대통령이 자신의 지위를 사적 이익에 활용했다는 비판이 제기되고 있다.",
-      "트루스소셜, 유료 구독 서비스 출시 논란 영국 일간 가디언과 텔레그래프는 2일(현지시간) 트루스소셜을 운영하."
+      "[서울=뉴시스]이재준 기자 = 미국 뉴욕증시는 3일 도널드 트럼프 대통령이 예고했던 이란 공격을 취소하면서 국제 유가가 하락, 매수세 유입으로 상승 개장했다.",
+      "뉴욕증권거래소(NYSE)에서 다우존스 산업지수는 이날 오전 9시33분(현지시간) 시점에 전장 대비 606.89 포인트, 1.16% 올라간 5만3091.92로 거래됐다.",
+      "스탠더드 앤드 푸어스(S&P) 500 지수는 전장보다 36.11 포인트, 0.48% 상승한 7525.83을 기록했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nc1790cec",
+    "id": "n740c9125",
     "category": "사회",
-    "source": "동아일보",
-    "time": "31분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260803/134413425/1",
-    "title": "“폭염에 쉬면 일감 끊겨”…전단지 알바 등 ‘길거리 일자리’ 위험천만",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/03/GYZWCNJUMM2DIOBZGU3DMNDDG4/",
+    "title": "'블랑카' 정철규, 개콘 선배 6년 폭언 폭로 \"박준형도 못 말려‥결국 정신과 다녔다\" ('나무미키')",
     "summary": [
-      "“이동노동자 쉼터에 가봤는데 에어컨이 고장 나서 더 덥더라고요.",
-      "차라리 나무 그늘이 나아요.”3일 오후 12시 경 서울 종로구의 한 골목.",
-      "신호등 전신주 작업자 진영준 씨(60)는 나무 한 그루가 만든 좁은 그늘에 간이 의자를 놓고 앉아 손부채질을 하고 있었다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "na557ef92",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "37분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734868",
-    "title": "신동엽 \"붐이 선물한 고가 와인…알고보니 가짜였다\"",
-    "summary": [
-      "[서울=뉴시스]강주희 기자 = 방송인 신동엽이 가짜 와인 사건의 경위를 공개했다.",
-      "3일 유튜브 채널 '짠한형 신동엽'에는 붐, 넉살, 한해가 게스트로 출연한 영상이 게재됐다.",
-      "영상에서 붐은 \"내가 형님에게 진짜 죄송하다."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] '블랑카' 캐릭터로 '폭소클럽'에서 맹활약했던 개그맨 정철규가 한 선배로부터 6년간 괴롭힘을 당했다고 털어놓았다.",
+      "지난 2일 유튜브 채널 '나무미키흥신소'에는 '6년간 지속적인 괴롭힘! 약물중독! 살고 싶지 않았어요!!'라는 제목의 영상이 게재됐다.이날 정철규는 \"그 선배는 내가 미웠나 보다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5f3de11f",
+    "id": "ne0acf81d",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734860",
-    "title": "국힘, 정부 세제개편안에 \"조세 강탈…역대 최악의 증세안\"(종합)",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/03/MYZGCOBQMUYDOMDCG43DSZRUMQ/",
+    "title": "김숙, 日 여행 중 홀린 듯 안경 구매 \"이거 있으면 메이크업 안 해도 돼\"",
     "summary": [
-      "[서울=뉴시스] 전상우 기자 = 국민의힘은 3일 정부가 발표한 세제개편안에 대해 \"국민이 이재명 정권을 정상화할 날도 머지않았다.",
-      "국민 재산권에 대한 전면 공격\"이라며 일제히 비판했다.",
-      "장동혁 대표는 이날 오후 자신의 페이스북에 \"국민은 폭염으로 열불 나 죽겠는데 이재명 대통령, 귀국하자마자 던진 것이 세금 폭탄\"이라며 \"말은 '공정 과세를 위한 조세 개혁'이라고 번지르하지만 실상은 뿌린 돈 걷어가는 조세 강탈이다\"고 적었다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2b97b8df",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "41분 전",
-    "url": "https://www.donga.com/news/list/article/all/20260803/134414996/2",
-    "title": "푸조 ‘빠뜨롱 케어’… 韓 입지 강화 의지↑",
-    "summary": [
-      "스텔란티스코리아가 푸조 브랜드 경쟁력 강화에 나선다.",
-      "신차 구매 혜택 확대와 사후관리 서비스 개선을 통해 구매층 확보와 기존 고객 만족도를 동시에 높인다는 전략이다.",
-      "이번 행사(푸조 빠뜨롱 케어)는 프랑스어로 책임자라는 뜻의 빠뜨롱이라는 이름처럼 브랜드가 고객의 차량 구매부터 사후관리까지 책임지겠다는 의지를 담았다.우선 오는 9월까지 신차를 구매하는 모든 고객에게 기존 3년 기본 보증에 2년을 추가해 총 5년 또는 10만㎞(선도래 기준)까지 보."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 김숙이 안경 구매를 고민했다.",
+      "3일 유튜브 채널 '김숙티비'에는 '신박템 감별사 김숙이 골라온 일본 쇼핑 리스트'라는 제목의 영상이 게재됐다.",
+      "이날 김숙은 지난 일본여행 중 자신만의 아이템을 쇼핑하는 모습을 보였다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n327e70b1",
+    "id": "n508275a8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/03/MFSTEOBTMFSDCNLFGVQTKYLBG4/",
+    "title": "김광현도 못한 대기록 세운 신인, 힘 빠진 LG-웰스 만나 1승8패 굴욕 탈출시킬까",
+    "summary": [
+      "[스포츠조선 김용 기자] SSG의 희망, 신인 김민준은 힘 빠진 LG를 상대로 어떤 모습을 보일까.",
+      "SSG 랜더스는 전반기 치명적 연패 아픔으로 가을야구 진출 가능성이 희박해진 상황이다.",
+      "연패를 당할 때, 그 연패를 끊어주는 등 무럭무럭 크고 있는 고졸 신인 투수 김민준이 팬들을 웃게 해주고 있기 때문이다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n49cf8686",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803157400084",
-    "title": "인니 여객선 화재 13명 추가 구조…실종자 최소 28명 수색 중",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803161500081",
+    "title": "게임하듯 SNS로 10대 킬러 모집…유럽 번지는 '살인 외주'",
     "summary": [
-      "(하노이=연합뉴스) 박진형 특파원 = 인도네시아 동자바주 해상에서 승객 등 270여명을 태운 여객선의 화재 사건과 관련해 현지 당국이 13명을 ..."
+      "(파리=연합뉴스) 송진원 특파원 = 유럽에서 범죄조직단이 소셜미디어를 통해 청소년들을 청부살인에 동원하는 이른바 '폭력 서비스' 범죄가 확산하고..."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "nfdcb840e",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026080322324771050",
+    "title": "박승원표 ‘열린 행정’ 전국 확산…군포시도 정책회의 생중계 벤치마킹",
+    "summary": [
+      "경기 광명시가 전국 지방정부 최초로 정례화한 정책회의 유튜브 생중계가 '열린 행정'의 새로운 모델로 주목받고 있다.",
+      "광명시(시장 박승원)는 3일 군포시 비서실과 기획예산실, 홍보실, 행정지원과 관계자 8명이 시청을 방문해 'GM주간정책회의' 생중계 시스템을 벤치마킹했다고 밝혔다.",
+      "군포시 방문단은 이날 정책회의가 진행되는 모습과 유튜브 송출 과정을 직접 지켜봤다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nd5b9043c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734908",
+    "title": "7월 유로존 제조업 PMI 51.9·0.5P↑…\"생산 4년4개월 만에 최고\"",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 유로존 21개국의 체감경기를 보여주는 2026년 7월 HCOB 제조업 구매관리자 지수(PMI 개정치)는 51.9를 기록했다고 마켓워치와 RTT 뉴스, dpa 통신이 3일 보도했다.",
+      "매체는 이날 S&P 글로벌 발표를 인용해 7월 유로존 제조업 PMI가 전월 51.4에서 0.5 포인트 올랐다고 전했다.",
+      "6월 PMI는 4개월 만에 최저로 떨어졌지만 7월에는 4월 이래 고수준이 됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n98720702",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803161600053",
+    "title": "경북 성주 어린이집서 상습 아동 학대…경찰, 원장·교사 송치",
+    "summary": [
+      "(성주=연합뉴스) 김선형 기자 = 경북경찰청은 상습적으로 어린이집 원생을 학대한 혐의(아동복지법 위반)로 경북 성주군 한 공립어린이집 교사를 검..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n14cae7f5",
+    "id": "n618e8d90",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734750",
+    "title": "씨름 김무호, 문경오미자대회서 통산 14번째 한라장사",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 김무호(울주군청)가 위더스제약 2026 민속씨름 문경오미자장사씨름대회에서 통산 14번째 한라장사 타이틀을 거머쥐었다.",
+      "김무호는 3일 경북 문경시의 문경실내체육관에서 열린 오창록(MG새마을금고씨름단)과의 대회 한라장사(105㎏ 이하) 결정전에서 3-0 완승을 거뒀다.",
+      "이로써 김무호는 지난해 추석장사대회와 천하장사대회에 이어 올 시즌 5개 장사대회를 모두 석권해 '7개 대회 연속 우승'을 달성했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb635b959",
     "category": "경제",
     "source": "한국경제",
-    "time": "51분 전",
-    "url": "https://www.hankyung.com/article/2026080327417",
-    "title": "美중부사령부 \"이란 응징할 신선한 아이디어 구함\" 이메일 발송",
+    "time": "30분 전",
+    "url": "https://www.hankyung.com/article/2026080327907",
+    "title": "차 안에 둔 생수병이 폭탄으로…폭염 속 차량 관리 비상",
     "summary": [
-      "美중부사령부 \"이란 응징할 신선한 아이디어 구함\" 이메일 발송."
+      "차 안에 둔 생수병이 폭탄으로…폭염 속 차량 관리 비상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc66c13cc",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "35분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260803/134415571/2",
+    "title": "‘노을’ 보컬 강균성 “10월 30일 결혼…평생 함께 걷고 싶은 사람”",
+    "summary": [
+      "그룹 노을의 강균성(45)이 10월 품절남 대열에 합류한다.강균성은 3일 자신의 인스타그램에 “제가 평생을 함께 걸어가고 싶은 소중한 사람을 만나 10월 30일에 결혼하게 됐다”고 전했다.",
+      "그는 “이 소식을 전하는 순간이 조금은 떨리지만 누구보다 먼저 여러분(팬들)께 직접 말씀드리고 싶었다”며 “늘 변함없이 응원해 주시고 제 삶의 소중한 순간들을 함께해 주셔서 진심으로 감사드린다”고 했다.",
+      "강균성은 2002년 4인조 보컬 그룹인 노을로 데뷔했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n61f77447",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803160000002",
+    "title": "구윤철 \"그린벨트 일부 풀고 군 시설까지…공급대책 마련 중\"",
+    "summary": [
+      "(세종=연합뉴스) 이세원 기자 = 구윤철 부총리 겸 재정경제부 장관은 주택 공급을 확대하기 위해 그린벨트를 일부 해제하거나 군 시설을 활용할 가..."
     ],
     "chips": [
       "#뉴스"
@@ -644,8 +640,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
@@ -655,9 +651,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
