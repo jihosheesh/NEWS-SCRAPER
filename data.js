@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-03 18:32:48
+// 마지막 업데이트: 2026-08-03 19:30:16
 window.NEWS_DB = [
   {
     "id": "n170df46a",
     "category": "IT",
-    "source": "businesspost.co.kr",
-    "time": "11시간 전",
+    "source": "비즈니스포스트",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QREQwTGZBM0hxRC1vc25GMEE4X2pYZ29Kb25EVVRnMnFrTFJXZ2hLUFRyRVBwVEFTVG1kSGFYNElBLThOaHZ5NC1xcnBZUFJzVk9NV3FnV2dBUlRrT1h5NVFBN0lfWmJualFhUDhHd0NaRFk?oc=5",
     "title": "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존",
     "summary": [
-      "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존 businesspost.co.kr."
+      "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -19,12 +19,12 @@ window.NEWS_DB = [
   {
     "id": "n4591ab10",
     "category": "IT",
-    "source": "코인리더스",
-    "time": "12시간 전",
+    "source": "coinreaders.com",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RQzVVemlqbkRaTGMyUU02eVlCRndDU1gwYkExT0ZIb3FXYndtSGcteW1GOVRydDlkMTVaSThsTWlQU3lpZ3JuMlln?oc=5",
     "title": "엔비디아, AI 투자 꺾이면 끝?...\"반도체 구매자·판매자 둘 다 못 웃는다\"",
     "summary": [
-      "엔비디아, AI 투자 꺾이면 끝?...\"반도체 구매자·판매자 둘 다 못 웃는다\" 코인리더스."
+      "엔비디아, AI 투자 꺾이면 끝?...\"반도체 구매자·판매자 둘 다 못 웃는다\" coinreaders.com."
     ],
     "chips": [
       "#AI",
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n5142ca5e",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ySHBaTzZWanptOFJHMW1pRVFReU9PYlp5RE1MdEZmLXVGVTBPWGNIbFNIcVotZW1vN0Y3Z0w2N05tcndobzI4b0xtTklPTk80b2I0cXdwbTF6YWlTT0kwc2FEcnlwZEJVRWNXc01DYw?oc=5",
     "title": "HBM4 전환기…삼성전자 점유율, SK하이닉스 앞지를까",
     "summary": [
@@ -80,12 +80,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -316,14 +316,170 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n13480c42",
+    "id": "nbf569de4",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026080404264637775",
+    "title": "美, 28년 만에 엔화 방어 나선 속내…미 국채시장 지켜라",
+    "summary": [
+      "미국이 일본과 공동으로 엔화 방어에 나선 것은 일본의 미 국채 매각이 미국 장기금리를 추가로 끌어올리는 것을 막기 위한 조치였다는 분석이 나온다.",
+      "엔화 급락과 엔 캐리 트레이드 청산이 글로벌 금융시장 불안으로 번질 가능성도 공동 개입의 배경으로 꼽힌다.",
+      "3일(현지시간) 블룸버그통신, 악시오스 등 외신에 따르면 미국과 일본 정부는 지난달 말 글로벌 외환시장에서 엔화를 공동 매입했다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n93cdc18c",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003734940",
-    "title": "[속보]트럼프 \"호르무즈 통행료 없을것…이란과 부과 논의 안해\"",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003734943",
+    "title": "中 베이다이허 회의 개막한 듯…\"시진핑 지도부·원로 인사·외교 정책 논의'",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
+      "[서울=뉴시스]이재준 기자 = 중국 시진핑(習近平) 지도부와 당 원로들이 국가 운영의 주요 현안을 논의하는 ‘베이다이허(北戴河) 회의’가 시작된 것으로 보인다.",
+      "2027년 가을 차기 지도부를 결정하는 중국공산당 21차전국대표대회(21大)를 앞두고 있어 당 고위 간부 인사 문제가 주요 의제로 다뤄질 전망이다.",
+      "4일 CCTV와 연합조보, 중앙통신에 따르면 전날 밤 당 서열 5위인 차이치(蔡奇) 당정치국 상무위원이 베이다이허에서 과학기술 및 사회과학."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8a52a679",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/golf/2026/08/04/MZRTKMTDGFSWIYJSGRRWCMZWGI/",
+    "title": "\"그걸 믿으라고?\" 트럼프 '클럽 챔피언 등극' 소식에 터진 실소…대체 왜?",
+    "summary": [
+      "[스포츠조선 박상경 기자] 도널드 트럼프 미국 대통령이 '클럽 챔피언'에 등극했다는 소식을 정면 반박하는 의견이 나왔다.",
+      "트럼프 대통령은 최근 자신이 소유한 뉴저지주 베드민스터의 트럼프 내셔널 골프 클럽 베드민스터에서 펼쳐진 클럽 챔피언십 시니어-슈퍼시니어 부문에서 70타로 우승을 차지했다.",
+      "우승 후 트럼프 대통령은 자신의 SNS인 트루스소셜을 통해 \"다른."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd1d256bb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/04/GE4TQMDFMY2DGYLGGFQTGZBZMM/",
+    "title": "'벌써 붉은색 유니폼 품절사태!' 이강인, 9일 맨시티전 데뷔 확정적...서울서 아틀레티코 첫 선 보인다",
+    "summary": [
+      "[OSEN=서정환 기자] '천재' 이강인(25, 아틀레티코 마드리드)이 드디어 알레띠 붉은 유니폼을 입고 팬들 앞에 첫 선을 보인다.아틀레티코 마드리드는 3일(한국시간) 공식 SNS를 통해 이강인이 2026-27시즌 홈과 원정 유니폼을 착용한 영상을 공개했다.",
+      "입단 발표 이후 처음으로 아틀레티코 유니폼을 입은 모습이 공개되면서 데뷔전이 임박했음을 알렸다.이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc9397f69",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/04/AZG3HZEZCRFMNHSZ7QQNTQ7VEQ/",
+    "title": "트럼프 “이번 이란 협상이 마지막 기회…안 되면 공격 수위 높일 것”",
+    "summary": [
+      "트럼프 “이번 이란 협상이 마지막 기회…안 되면 공격 수위 높일 것”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b99f319",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804003900099",
+    "title": "모로코, 서사하라 잇는 고속도로 '트럼프 고속도로'로 명명",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 북아프리카 모로코가 지난해 개통된 총연장 1천55㎞ 고속도로에 도널드 트럼프 미국 대통령의 이름을 붙..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3c693d63",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "28분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734880",
+    "title": "대구·경북 낮 최고 37도 폭염 계속…한때 소나기",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 4일 대구·경북은 가끔 구름 많은 가운데 소나기가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"아침부터 낮 사이 경북북부동해안 일부 지역에 0.1㎜ 미만의 빗방울이 떨어지겠다\"며 \"오후에는 경북서부내륙 곳에 따라 5~20㎜의 소나기가 오겠다\"고 예보했다.",
+      "아침 최저기온은 22~26도(평년 20~24도), 낮 최고기온은 30~37도(평년 29~34도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9da9ed79",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260804/134415943/1",
+    "title": "트럼프 “이란과 대화 진행 중…합의 서명할 마지막 기회”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 3일(현지시간) 현재 이란과 대화를 진행하고 있다며, 이번 협상은 이란이 합의에 서명할 마지막 기회라고 경고했다.로이터·CNN에 따르면, 트럼프 대통령은 이날 워싱턴DC 백악관 집무실에서 협상 상황을 묻는 기자들에게 “지금 진행 중”이라며 이란, 사우디아라비아, 아랍에미리트(UAE), 카타르 등의 요청에 따라 대화하고 있다고 말했다.트럼프 대통령은 “이것은 그들이 좋은 문서에 서명할 마지막 기회”라며 “많은 나라에서."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n54b874a9",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "31분 전",
+    "url": "https://view.asiae.co.kr/article/2026080403585033817",
+    "title": "트럼프 \"이란과 대화 중…이번이 마지막 기회\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 3일(현지시간) 이란과 대화를 진행하고 있다며 이번이 합의를 위한 마지막 기회라고 압박했다.",
+      "트럼프 대통령은 이날 백악관에서 취재진과 만나 중동 국가들의 요청으로 이란에 대한 공습을 취소했다고 밝힌 뒤 \"우리는 현재 이란과 대화하고 있다\"며 \"이번이 마지막 기회\"라고 말했다.",
+      "그는 호르무즈 해협을 4일까지 완전히 개방하는 방안이 논의되고 있다면서 해협 문제가 해결되면 이란 비핵화 문제."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd4a37363",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "50분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003734939",
+    "title": "트럼프 \"이란과 지금 협상중…호르무즈 통행료 부과없다\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 3일(현지 시간) 이란과 협상이 진행 중이라며, 호르무즈 해협에 통행료가 부과되는 일은 없을 것이라고 공언했다.",
+      "트럼프 대통령은 이날 백악관 집무실에서 호르무즈 해협 통행료와 관련한 질문에 \"그들이 부과하도록 내버려두지 않을 것이다\"고 답했다.",
+      "그는 \"누군가 통행료를 부과해야 한다면 우리가 할 것이다\"며 \"우리는 (해협에 대한) 완전한 통제권을 갖고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n23db8776",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003734941",
+    "title": "사우디 유조선 6척, 후티 홍해 봉쇄 피해 아프리카 우회 항로 선택",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 사우디아라비아가 운항하는 유조선 6척이 예멘 친이란 후티반군이 선언한 홍해 봉쇄를 피하기 위해 아프리카 남단을 돌아가는 우회 항로를 택했다고 CNN이 3일(현지시간) 보도했다.",
+      "CNN은 선박 추적 자료를 인용해 이들 사우디 유조선이 기존 항로보다 최소한 2주 이상 운항 시간이 늘어나는 장거리 항로를 이용하고 있다고 전했다.",
+      "이란의 군사지원을 받는 후티반군은 지난달 20일 홍해 남쪽 입구에 위치한 바브엘만데브 해협을."
     ],
     "chips": [
       "#뉴스"
@@ -333,7 +489,7 @@ window.NEWS_DB = [
     "id": "n141711ce",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260804002700087",
     "title": "4선 도전 룰라, 브라질 대선 여론조사서 보우소나루와 '팽팽'",
     "summary": [
@@ -347,7 +503,7 @@ window.NEWS_DB = [
     "id": "n8deb6062",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260804002600091",
     "title": "백악관, 첨단AI 보안 검증방안 확정…AI기업과 비공개 논의키로",
     "summary": [
@@ -361,7 +517,7 @@ window.NEWS_DB = [
     "id": "n7551a6c1",
     "category": "사회",
     "source": "아시아경제",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026080403053629755",
     "title": "트럼프 \"이란 지도부, 회담 요청 후 부인…이중적 행태\"",
     "summary": [
@@ -374,81 +530,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc1341f7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804003300071",
-    "title": "[속보] 트럼프 \"이란과 현재 대화 중…이번이 마지막 기회\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n60f17635",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003734938",
-    "title": "[올댓차이나] 중국, 반도체 지식재산권 보호 대폭 강화",
-    "summary": [
-      "[베이징=신화/뉴시스] 이재준 기자 = 중국 정부가 반도체 기술 개발을 촉진하고 반도체 국산화 정책을 뒷받침하기 위해 반도체칩의 회로 배치설계에 대한 지식재산권 보호를 한층 강화했다.",
-      "국무원은 3일 리창(李强) 총리가 국무원령에 서명한 개정 '집적회로 배치설계 보호조례'를 공포했다.",
-      "조례는 오는 10월15일부터 시행한다."
-    ],
-    "chips": [
-      "#반도체",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n5bc71005",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/national/2026/08/04/MMPVYWZPD5AZ7IB6IK7GHDVKS4/",
-    "title": "[굿모닝 멤버십] 싸구려 수트와 수억 달러의 무기",
-    "summary": [
-      "[굿모닝 멤버십] 싸구려 수트와 수억 달러의 무기."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n950e0e43",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/international/japan/2026/08/04/EMN74JNVZZDT7GS5N2ZFU6SXOU/",
-    "title": "250년 된 우산 대여와 깨진 도자기 수선… 버리지 않고 고쳐 쓰는 일본",
-    "summary": [
-      "250년 된 우산 대여와 깨진 도자기 수선… 버리지 않고 고쳐 쓰는 일본."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19613dfb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/medical/2026/08/04/KXIK5GI2YJH6ZAV7D2GEABBQYE/",
-    "title": "잘 쉬어도 기운이 없는 당신에게… 잃어버린 ‘기쁨 수명’을 되찾는 법",
-    "summary": [
-      "잘 쉬어도 기운이 없는 당신에게… 잃어버린 ‘기쁨 수명’을 되찾는 법."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8a6dedac",
     "category": "사회",
     "source": "조선일보",
-    "time": "32분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/culture-life/book/2026/08/04/EZ4OMDBSZ5H3XG6C73JP3SJO54/",
     "title": "[57화] “온후께서 후당으로 들어갔습니다”",
     "summary": [
@@ -459,56 +544,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n698a15d4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804002400071",
-    "title": "'트럼프 충성파' 美법무 인준 청신호…공화의원 2명 반대 접어",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 토드 블랜치 미국 법무장관 후보자가 미 연방 상원에서 인준받을 가능성이 커졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf2312f99",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "57분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003734937",
-    "title": "러시아 흑해 휴양지에 드론 공격 7명 사망…\"민간인 겨냥\" 비난",
-    "summary": [
-      "[모스크바=신화/뉴시스]이재준 기자 = 러시아 흑해 연안 휴양지 크라스노다르 지역 아르히포 오시포프카가 3일(현지시간) 우크라이나 드론 공격을 받아 어린이 3명을 포함해 7명이 숨지고 최소한 40명이 다쳤다.",
-      "국영 리아노보스티 통신은 이날 크라스노다르 지역 비상대응센터를 인용해 우크라이나 드론 공격으로 아르히포 오시포프카에서 적어도 47명이 목숨을 잃거나 부상했다고 보도했다.",
-      "베니아민 콘드라티예프 크라스노다르 주지사는 사망자 가운데 어린이 3명."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3155b43",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003734933",
-    "title": "美, 재고 고갈 우려속 \"패트리엇 3배·사드 4배 증산 협약\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 이란 전쟁 장기화로 미국의 방공 요격미사일 재고 고갈 우려가 제기되는 가운데, 미 국방부가 핵심 요격미사일의 대대적인 증산에 나선다고 밝혔다.",
-      "미 국방부는 3일(현지시각) 록히드 마틴과 협력해 방산업체 노스롭 그루먼과 미사일 요격 부품 생산능력 확대를 위한 두 건의 기본협약을 체결했다고 발표했다.",
-      "국방부는 \"이 역사적인 협약들은 핵심 공급업체에 장기적 수요 신호를 전달하는 데 중요하며, PAC-3(지대공 유도."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nfb378b26",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260804/134415928/1",
     "title": "트럼프 “이란 지도부 이중적…합의까지 해상봉쇄 계속”",
     "summary": [
@@ -522,7 +561,7 @@ window.NEWS_DB = [
     "id": "n7f9ae678",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153944",
     "title": "배민, 로봇 배달·서비스 편의성 '투트랙' 강화...배달 생태계 선도한다",
     "summary": [
@@ -537,7 +576,7 @@ window.NEWS_DB = [
     "id": "na5daa424",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=153946",
     "title": "NC IDS 'NC AX'로 사명 변경…AI 전환(AX) 전문기업으로 새 출발",
     "summary": [
@@ -553,7 +592,7 @@ window.NEWS_DB = [
     "id": "n0da3c649",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202608042845i",
     "title": "너무 비싼 팰런티어, 실적보다 가이던스에 더 주목[박신영의 개장전 요것만]",
     "summary": [
@@ -567,7 +606,7 @@ window.NEWS_DB = [
     "id": "nf5547421",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260804/134415860/1",
     "title": "신동엽 “붐이 선물한 고가 와인…알고보니 가짜였다”",
     "summary": [
@@ -582,7 +621,7 @@ window.NEWS_DB = [
     "id": "n0429a3b0",
     "category": "사회",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260804/134415856/1",
     "title": "‘육군 조교’ 강다니엘, 한층 늠름해진 모습",
     "summary": [
@@ -593,38 +632,6 @@ window.NEWS_DB = [
     "chips": [
       "#의료"
     ]
-  },
-  {
-    "id": "nb4ff7007",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260804/134415853/1",
-    "title": "윤남노, 박은영 축의금 뒤늦게 준 사정…“통장에 8만원밖에 없었다”",
-    "summary": [
-      "윤남노 셰프가 박은영 셰프에게 결혼식 축의금을 뒤늦게 건넸다.3일 유튜브 채널 ‘스튜디오슬램’에는 ‘은혜 갚으러 은영이 옴’이라는 제목의 영상이 공개됐다.영상에서 윤남노는 박은영을 보자마자 “내가 너한테 진짜 너무 미안하다.",
-      "결혼식에 내가 이름은 쓰고 축의금을 못 냈다”고 말했다.박은영은 “온 것도 내가 봤고 밥 먹는 것도 내가 봤다”며 웃었고, 윤남노는 “그때 진짜 돈이 없었다.",
-      "‘노뜨르’ 오픈 때문에 통장에 8만 원밖에 없었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc5a5ba7",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://view.asiae.co.kr/article/2026080400351993514",
-    "title": "생애 첫 우승 토르비욘슨, 세계랭킹 28계단 도약 40위",
-    "summary": [
-      "마이클 토르비욘슨(미국)이 세계랭킹 40위로 올라섰다.",
-      "토르비욘슨은 4일(한국시간) 발표된 남자골프 주간 세계랭킹에서 2.8485점을 받아 지난주 68위에서 28계단이나 도약했다.",
-      "그는 전날 미국 미시간주 디트로이트의 디트로이트 골프클럽(파70)에서 열린 미국프로골프(PGA) 투어 로켓 클래식(총상금 1000만 달러)에서 우승을 차지해 랭킹 포인트를 획득했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -632,9 +639,9 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "tag": "정치",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
@@ -644,9 +651,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   }
 ];
 // ====AUTO-GENERATED-END====
