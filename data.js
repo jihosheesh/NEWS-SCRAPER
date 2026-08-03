@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-03 13:50:51
+// 마지막 업데이트: 2026-08-03 14:59:05
 window.NEWS_DB = [
   {
     "id": "n170df46a",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QREQwTGZBM0hxRC1vc25GMEE4X2pYZ29Kb25EVVRnMnFrTFJXZ2hLUFRyRVBwVEFTVG1kSGFYNElBLThOaHZ5NC1xcnBZUFJzVk9NV3FnV2dBUlRrT1h5NVFBN0lfWmJualFhUDhHd0NaRFk?oc=5",
     "title": "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n4591ab10",
     "category": "IT",
     "source": "코인리더스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RQzVVemlqbkRaTGMyUU02eVlCRndDU1gwYkExT0ZIb3FXYndtSGcteW1GOVRydDlkMTVaSThsTWlQU3lpZ3JuMlln?oc=5",
     "title": "엔비디아, AI 투자 꺾이면 끝?...\"반도체 구매자·판매자 둘 다 못 웃는다\"",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n5142ca5e",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ySHBaTzZWanptOFJHMW1pRVFReU9PYlp5RE1MdEZmLXVGVTBPWGNIbFNIcVotZW1vN0Y3Z0w2N05tcndobzI4b0xtTklPTk80b2I0cXdwbTF6YWlTT0kwc2FEcnlwZEJVRWNXc01DYw?oc=5",
     "title": "HBM4 전환기…삼성전자 점유율, SK하이닉스 앞지를까",
     "summary": [
@@ -66,12 +66,12 @@ window.NEWS_DB = [
   {
     "id": "nf9e65a25",
     "category": "스포츠",
-    "source": "news.nate.com",
+    "source": "네이트",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZVVY0Z3c4a0RtZlNJZnNrQ2I1aFp0LURGRmFxLThPUll4cm1YMUtWTGV5c3NTSU1BaG43YWtEQTFZNGNwZjZHVnI5QTRMVVQxeVAw?oc=5",
     "title": "[ST포토] 카라스코, KBO 데뷔",
     "summary": [
-      "[ST포토] 카라스코, KBO 데뷔 news.nate.com."
+      "[ST포토] 카라스코, KBO 데뷔 네이트."
     ],
     "chips": [
       "#KBO"
@@ -80,12 +80,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -123,12 +123,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
@@ -230,12 +230,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "66일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#부동산"
@@ -379,258 +379,267 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb55d43e8",
+    "id": "nf7f4ced2",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734914",
-    "title": "[올댓차이나] 7월 中 레이팅독 제조업 PMI 50.9·0.8P↓…4개월 만에 최저",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 중국 체감경기를 보여주는 민간 제조업 경기는 확장 국면을 이어갔지만 크게 둔화해 4개월 만에 가장 낮은 수준으로 떨어졌다.",
-      "재신쾌보와 이재망, 홍콩경제일보에 따르면 민간기관 루이팅거우(瑞霆狗 RatingDog)와 S&P 글로벌은 3일 2026년 7월 중국 제조업 PMI가 50.9로 전월 51.7에서 0.8 포인트 하락했다고 발표했다.",
-      "시장에서는 51.5로 예상했는데 실제로는 이를 0.6 포인트 하회했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea270a10",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803161700099",
-    "title": "네타냐후 형 동상이 우간다에 세워진 이유는",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 우간다 정부가 50년 전 자국 엔테베 공항에서 인질 구출 작전을 지휘하다 숨진 이스라엘군 지휘관 요나..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c4e0fc6",
-    "category": "사회",
     "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260803/134415623/1",
-    "title": "“2500년 전 아마존에 ‘인구 300만명’ 고대 사회 존재했다”",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260803/134415745/2",
+    "title": "추신수, 美텍사스 대저택 “방만 7개…관리비 1000만 원대”",
     "summary": [
-      "2500년 전 아마존 우림 깊은 곳에 고도화된 사회가 존재했음을 입증하는 유적이 대거 발견됐다.지난달 31일(현지 시간) 미국 뉴욕타임스(NYT)에 따르면 최근 국제 학술지 네이처에는 아마존 서남부 지역 상공에서 수백 개의 지상 구조물을 포착했다는 연구 결과가 게재됐다.연구진은 볼리비아, 브라질, 페루 국경 인근의 울창한 숲을 뚫기 위해 첨단 레이저 기술인 ‘라이다(LiDAR)’를 활용했다.둔덕과 도랑, 제방 형태로 조성된 구조물들은 기원전 6."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n72bbfa6b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/03/UEFYCS5LMRBOROVAP2QZLUW4JM/",
-    "title": "‘국가대표 수비수’ 이한범, 벨기에 명문 브뤼헤 입단… 등번호 3번",
-    "summary": [
-      "‘국가대표 수비수’ 이한범, 벨기에 명문 브뤼헤 입단… 등번호 3번."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf1539537",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803161000071",
-    "title": "美국방부, 재고 우려 속 '패트리엇 3배·사드 4배 증산' 계약",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 이란 전쟁 여파로 미군이 보유한 요격미사일 재고 부족 우려 속에 미 국방부(전쟁부)가 미 방산업체들과 요격..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1fa53a2c",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734913",
-    "title": "[속보] 뉴욕 증시, 美 공격 취소에 상승 출발···다우 1.16%↑ 나스닥 0.33%↑",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 미국 뉴욕증시는 3일 도널드 트럼프 대통령이 예고했던 이란 공격을 취소하면서 국제 유가가 하락, 매수세 유입으로 상승 개장했다.",
-      "뉴욕증권거래소(NYSE)에서 다우존스 산업지수는 이날 오전 9시33분(현지시간) 시점에 전장 대비 606.89 포인트, 1.16% 올라간 5만3091.92로 거래됐다.",
-      "스탠더드 앤드 푸어스(S&P) 500 지수는 전장보다 36.11 포인트, 0.48% 상승한 7525.83을 기록했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n740c9125",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/03/GYZWCNJUMM2DIOBZGU3DMNDDG4/",
-    "title": "'블랑카' 정철규, 개콘 선배 6년 폭언 폭로 \"박준형도 못 말려‥결국 정신과 다녔다\" ('나무미키')",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] '블랑카' 캐릭터로 '폭소클럽'에서 맹활약했던 개그맨 정철규가 한 선배로부터 6년간 괴롭힘을 당했다고 털어놓았다.",
-      "지난 2일 유튜브 채널 '나무미키흥신소'에는 '6년간 지속적인 괴롭힘! 약물중독! 살고 싶지 않았어요!!'라는 제목의 영상이 게재됐다.이날 정철규는 \"그 선배는 내가 미웠나 보다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne0acf81d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/03/MYZGCOBQMUYDOMDCG43DSZRUMQ/",
-    "title": "김숙, 日 여행 중 홀린 듯 안경 구매 \"이거 있으면 메이크업 안 해도 돼\"",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 김숙이 안경 구매를 고민했다.",
-      "3일 유튜브 채널 '김숙티비'에는 '신박템 감별사 김숙이 골라온 일본 쇼핑 리스트'라는 제목의 영상이 게재됐다.",
-      "이날 김숙은 지난 일본여행 중 자신만의 아이템을 쇼핑하는 모습을 보였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n508275a8",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/03/MFSTEOBTMFSDCNLFGVQTKYLBG4/",
-    "title": "김광현도 못한 대기록 세운 신인, 힘 빠진 LG-웰스 만나 1승8패 굴욕 탈출시킬까",
-    "summary": [
-      "[스포츠조선 김용 기자] SSG의 희망, 신인 김민준은 힘 빠진 LG를 상대로 어떤 모습을 보일까.",
-      "SSG 랜더스는 전반기 치명적 연패 아픔으로 가을야구 진출 가능성이 희박해진 상황이다.",
-      "연패를 당할 때, 그 연패를 끊어주는 등 무럭무럭 크고 있는 고졸 신인 투수 김민준이 팬들을 웃게 해주고 있기 때문이다."
+      "프로야구단인 SSG 랜더스의 간판타자로 활약하다가 은퇴한 추신수(44)가 미국 텍사스에 있는 초대형 저택과 관리비를 공개했다.3일 방송된 tvN STORY ‘남겨서 뭐하게’에는 추신수가 출연했다.",
+      "그는 텍사스 저택에 대해 “땅만 5500평”이라며 “미국은 땅이 크니까”라고 말했다.",
+      "이어 “미국은 옆으로 넓게 짓는다”며 “방은 7개, 화장실은 12개”라고 밝혔다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n49cf8686",
+    "id": "n0facbe27",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803161500081",
-    "title": "게임하듯 SNS로 10대 킬러 모집…유럽 번지는 '살인 외주'",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/opinion/taepyeongro/2026/08/04/6II6UZGLPBGB7MPYQWFI3LIY7Q/",
+    "title": "[태평로] 중·러·북·이란, 치명적인 ‘침략자들의 축’",
     "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 유럽에서 범죄조직단이 소셜미디어를 통해 청소년들을 청부살인에 동원하는 이른바 '폭력 서비스' 범죄가 확산하고..."
+      "[태평로] 중·러·북·이란, 치명적인 ‘침략자들의 축’."
     ],
     "chips": [
-      "#채용"
+      "#뉴스"
     ]
   },
   {
-    "id": "nfdcb840e",
+    "id": "n74ad1273",
     "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/opinion/correspondent_column/2026/08/03/PGHGRFT6ENDVHFOU4BCSH75MHY/",
+    "title": "[특파원 리포트] 쿠팡 앞에서 ‘집안 싸움’ 벌이나",
+    "summary": [
+      "[특파원 리포트] 쿠팡 앞에서 ‘집안 싸움’ 벌이나."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na0caf2cd",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734923",
+    "title": "이 대통령 \"주택 공급 속도 중요…공급 물량 최대한 확보, 가용한 모든 방법 찾아야\"",
+    "summary": [
+      "[서울=뉴시스]조재완 기자 = 이재명 대통령이 3일 가용한 주택 공급 물량을 최대한 확보하고 신속한 실현 방법을 찾으라고 지시했다.",
+      "기존 공급 대책을 전면 재점검하고 2~3일 이내 금융 및 주택 공급 관련 후속 회의를 마련할 것도 함께 지시했다.",
+      "이 대통령은 이날 오후 청와대에서 비공개로 '부동산 및 주식시장 점검회의'를 열고 이같이 지시했다고 강유정 청와대 수석대변인이 서면 브리핑을 통해 전했다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4e0b9a84",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/opinion/column/2026/08/03/SUFS4YTEJJD5ZJKUYED2YUJN34/",
+    "title": "[전문기자의 시선] 통제받지 않는 경찰 수사… 피해자가 가해자 될 수도",
+    "summary": [
+      "[전문기자의 시선] 통제받지 않는 경찰 수사… 피해자가 가해자 될 수도."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd09c73c0",
+    "category": "부동산",
     "source": "아시아경제",
     "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026080322324771050",
-    "title": "박승원표 ‘열린 행정’ 전국 확산…군포시도 정책회의 생중계 벤치마킹",
+    "url": "https://view.asiae.co.kr/article/2026080323411989864",
+    "title": "7시간 30분 마라톤 회의 연 李대통령 \"주택 신속 공급 방안 찾으라\"",
     "summary": [
-      "경기 광명시가 전국 지방정부 최초로 정례화한 정책회의 유튜브 생중계가 '열린 행정'의 새로운 모델로 주목받고 있다.",
-      "광명시(시장 박승원)는 3일 군포시 비서실과 기획예산실, 홍보실, 행정지원과 관계자 8명이 시청을 방문해 'GM주간정책회의' 생중계 시스템을 벤치마킹했다고 밝혔다.",
-      "군포시 방문단은 이날 정책회의가 진행되는 모습과 유튜브 송출 과정을 직접 지켜봤다."
+      "이재명 대통령은 3일 7박 11일간의 미국 샌프란·남미 순방을 마치고 귀국한 직후 청와대로 출근해 7시간 넘게 부동산 및 주식시장 점검회의를 주재했다.",
+      "이 대통령은 2022년부터 이어진 주택 공급 부진이 '공급 절벽'을 초래했다고 진단하고, 행정·금융·재정·규제 완화 수단을 총동원해 공급 물량을 최대한 확보하라고 지시했다.",
+      "강유정 청와대 수석대변인은 이날 서면 브리핑을 통해 이 대통령이 오전 11시30분 귀국한 뒤 곧바."
     ],
     "chips": [
-      "#정책"
+      "#부동산",
+      "#정책",
+      "#정치"
     ]
   },
   {
-    "id": "nd5b9043c",
+    "id": "nd5e46a75",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/03/2026080323245570027",
+    "title": "[오피셜] '월드컵 철벽' 이한범, 드디어 '벨기에 챔피언' 유니폼 입었다... '명문' 브뤼허 입단 \"등번호 3번+계약 3년\"",
+    "summary": [
+      "대한민국 축구대표팀 수비수 이한범(24)이 덴마크 미트윌란을 떠나 벨기에 1부리그 클뤼브 브뤼허에 입단했다.",
+      "브뤼허 구단은 3일(한국시간) 공식 채널을 통해 이한범 영입을 발표했다.",
+      "계약 기간은 2029년까지 3년이며, 등번호는 3번이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7028bbb",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/03/2026080323332355103",
+    "title": "李 대통령, 7시간 마라톤 회의…\"부동산 공급책, 전면 재점검하라\"",
+    "summary": [
+      "[the300] 이재명 대통령이 7박11일 간의 미국·남미 3개국 순방에서 돌아오자마자 즉시 비공개 회의에 돌입해 한성숙 국무총리와 관계부처 장관들을 향해 \"기존 (부동산) 공급 대책을 전면 재점검하고 현실적인 국민 요구를 다각적으로 살펴 꼼꼼히 추진해 나가라\"고 당부했다.",
+      "강유정 청와대 수석대변인은 3일 서면브리핑을 통해 이같이 밝혔다.",
+      "이 대통령은 이날 오전 11시쯤 경기 성남 서울공항을 통해 입국해 곧장 헬기로 청와대로 출근해 '최근 부동."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf0b030fc",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734908",
-    "title": "7월 유로존 제조업 PMI 51.9·0.5P↑…\"생산 4년4개월 만에 최고\"",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734925",
+    "title": "의정부·고양서 잇단 교통사고로 주변 정전 피해",
     "summary": [
-      "[서울=뉴시스]이재준 기자 = 유로존 21개국의 체감경기를 보여주는 2026년 7월 HCOB 제조업 구매관리자 지수(PMI 개정치)는 51.9를 기록했다고 마켓워치와 RTT 뉴스, dpa 통신이 3일 보도했다.",
-      "매체는 이날 S&P 글로벌 발표를 인용해 7월 유로존 제조업 PMI가 전월 51.4에서 0.5 포인트 올랐다고 전했다.",
-      "6월 PMI는 4개월 만에 최저로 떨어졌지만 7월에는 4월 이래 고수준이 됐다."
+      "[의정부=뉴시스] 송주현 기자 = 경기 의정부시와 고양시에서 달리던 차량이 잇따라 전봇대 등을 들이받으면서 주변 일대가 정전되는 사고가 발생했다.",
+      "3일 경찰과 소방 등에 따르면 이날 오후 8시58분께 의정부시 신고동 한 도로에서 50대 남성 A씨가 운전하던 트럭이 전봇대를 박았다.",
+      "이 사고로 도로 신호등과 가로등이 꺼졌고 주변 아파트 상가 1~2층이 정전되는 등 피해가 이어졌다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n8ec53078",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803163200071",
+    "title": "현대전 새 표적된 AI 데이터센터…美·이란 전쟁서 5곳 피격",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 인공지능(AI) 산업의 물리적 토대인 데이터센터가 미국·이란 전쟁을 계기로 현대전의 새로운 표적으로 떠오르..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n5ef9e005",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/2026080328307",
+    "title": "4000만원에 청부살인 가담하는 10대들…\"게임화한 범행 수법\"",
+    "summary": [
+      "4000만원에 청부살인 가담하는 10대들…\"게임화한 범행 수법\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n194ee9b6",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734924",
+    "title": "뉴욕 증시, 美 공격 취소에 상승세···다우 1.34%↑ 사상 최고치 경신",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 미국 뉴욕증시는 3일 도널드 트럼프 대통령이 예고했던 이란 공격을 취소하고 종전 협상 재개에 언급하면서 긴장 완화 기대로 매수 유입해 상승하고 있다.",
+      "뉴욕증권거래소(NYSE)에서 다우존스 산업지수는 이날 오전 10시9분(현지시간) 시점에 전장 대비 703.66 포인트, 1.34% 올라간 5만3188.69를 기록했다.",
+      "지난 7월6일 찍은 종전 최고치 5만3055를 넘어섰다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n98720702",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803161600053",
-    "title": "경북 성주 어린이집서 상습 아동 학대…경찰, 원장·교사 송치",
-    "summary": [
-      "(성주=연합뉴스) 김선형 기자 = 경북경찰청은 상습적으로 어린이집 원생을 학대한 혐의(아동복지법 위반)로 경북 성주군 한 공립어린이집 교사를 검..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n618e8d90",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734750",
-    "title": "씨름 김무호, 문경오미자대회서 통산 14번째 한라장사",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = 김무호(울주군청)가 위더스제약 2026 민속씨름 문경오미자장사씨름대회에서 통산 14번째 한라장사 타이틀을 거머쥐었다.",
-      "김무호는 3일 경북 문경시의 문경실내체육관에서 열린 오창록(MG새마을금고씨름단)과의 대회 한라장사(105㎏ 이하) 결정전에서 3-0 완승을 거뒀다.",
-      "이로써 김무호는 지난해 추석장사대회와 천하장사대회에 이어 올 시즌 5개 장사대회를 모두 석권해 '7개 대회 연속 우승'을 달성했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb635b959",
+    "id": "n818704ce",
     "category": "경제",
-    "source": "한국경제",
-    "time": "30분 전",
-    "url": "https://www.hankyung.com/article/2026080327907",
-    "title": "차 안에 둔 생수병이 폭탄으로…폭염 속 차량 관리 비상",
+    "source": "연합뉴스(경제)",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803163600001",
+    "title": "李대통령, 7시간 반 부동산·증시 점검회의…\"공급 속도 중요\"",
     "summary": [
-      "차 안에 둔 생수병이 폭탄으로…폭염 속 차량 관리 비상."
+      "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령이 7박 11일간의 미국·남미 순방을 마치고 돌아오자마자 최대 국내 현안인 부동산 및 주식시장 안..."
     ],
     "chips": [
-      "#뉴스"
+      "#부동산",
+      "#정치"
     ]
   },
   {
-    "id": "nc66c13cc",
+    "id": "n96e03384",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260803/134415438/2",
+    "title": "[사설]더 복잡해진 ‘누더기 세제’… 세금으로 집값 잡기의 딜레마",
+    "summary": [
+      "정부가 결국 부동산 세금 카드를 꺼냈다.",
+      "초고가 주택을 제외한 실거주 1주택자는 종합부동산세(종부세) 부담이 대체로 줄어들지만, 집을 사놓고 살지 않는 고가 비거주자의 보유세 부담은 무거워진다.",
+      "비거주·초고가·다주택자의 세금을 높여 주택 시장을 실거주 중심으로 재편하려는 의도인데 부동산 세제는 한층 더 복잡해졌다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n7fd6bf18",
     "category": "사회",
     "source": "동아일보",
-    "time": "35분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260803/134415571/2",
-    "title": "‘노을’ 보컬 강균성 “10월 30일 결혼…평생 함께 걷고 싶은 사람”",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260803/134415442/2",
+    "title": "[사설]檢 없는 수사… ‘보완수사 요구’ 둘러싼 ‘소모적 핑퐁’ 막아야〈2〉",
     "summary": [
-      "그룹 노을의 강균성(45)이 10월 품절남 대열에 합류한다.강균성은 3일 자신의 인스타그램에 “제가 평생을 함께 걸어가고 싶은 소중한 사람을 만나 10월 30일에 결혼하게 됐다”고 전했다.",
-      "그는 “이 소식을 전하는 순간이 조금은 떨리지만 누구보다 먼저 여러분(팬들)께 직접 말씀드리고 싶었다”며 “늘 변함없이 응원해 주시고 제 삶의 소중한 순간들을 함께해 주셔서 진심으로 감사드린다”고 했다.",
-      "강균성은 2002년 4인조 보컬 그룹인 노을로 데뷔했다."
+      "경찰이 사건 수사를 전담하게 된 이번 형사소송법 개정으로 검사의 보완수사권은 사라진다.",
+      "그동안은 검사가 경찰이 송치한 사건에 대해 직접 보완수사를 할 수 있었지만 더불어민주당은 검찰이 수사권을 남용할 여지를 완전히 없애겠다며 보완수사권도 형소법에서 삭제했다.",
+      "이제는 공소청 검사가 경찰과 중대범죄수사청의 사법경찰관에게 보완수사를 ‘요구’하는 것만 가능하게 됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n61f77447",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803160000002",
-    "title": "구윤철 \"그린벨트 일부 풀고 군 시설까지…공급대책 마련 중\"",
+    "id": "ne21f70cd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "34분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260803/134415440/2",
+    "title": "[사설]수능-내신 절대평가로 가나… 대학 선발권 보장이 전제 조건",
     "summary": [
-      "(세종=연합뉴스) 이세원 기자 = 구윤철 부총리 겸 재정경제부 장관은 주택 공급을 확대하기 위해 그린벨트를 일부 해제하거나 군 시설을 활용할 가..."
+      "국가교육위원회 산하 대학입학제도 특별위원회가 대학수학능력시험의 모든 과목을 절대평가로 전환하고, 서술·논술형 문항을 도입하는 내용의 대입제도 개편 방안을 논의하고 있다.",
+      "‘2028∼2037년 국가교육발전계획’ 시안의 10월 공개를 앞두고 대입 특위 수준에서 검토 중이라고는 하나, 국교위는 1월 발간한 ‘공교육 혁신 보고서’에서도 이 같은 방향을 제시한 바 있다.",
+      "현재 입시제도에서는 수능의 변별력이 중요하다 보니 교육 당국은 난도를 높이려고 ‘킬."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
+    ]
+  },
+  {
+    "id": "n199276a1",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "35분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/03/2026080323191278013",
+    "title": "[속보]李 대통령, 귀국 직후 7시간 넘게 회의…\"부동산 공급책 전면 재점검하라\"",
+    "summary": [
+      "[the300] 3일 강유정 청와대 수석대변인 서면브리핑...."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치"
     ]
   }
 ];
@@ -639,21 +648,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "부동산",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
