@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-03 03:00:31
+// 마지막 업데이트: 2026-08-03 04:18:52
 window.NEWS_DB = [
   {
     "id": "na5600956",
@@ -14,6 +14,20 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "nf9e65a25",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZVVY0Z3c4a0RtZlNJZnNrQ2I1aFp0LURGRmFxLThPUll4cm1YMUtWTGV5c3NTSU1BaG43YWtEQTFZNGNwZjZHVnI5QTRMVVQxeVAw?oc=5",
+    "title": "[ST포토] 카라스코, KBO 데뷔",
+    "summary": [
+      "[ST포토] 카라스코, KBO 데뷔 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -62,12 +76,12 @@ window.NEWS_DB = [
   {
     "id": "n0c06c07a",
     "category": "IT",
-    "source": "unicornfactory.co.kr",
+    "source": "유니콘팩토리",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" unicornfactory.co.kr."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -91,12 +105,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
@@ -120,24 +134,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf633ad61",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TeXR5VDlRTVNUQlNqWWJkU1pIZXNjRzZhSXZhT1F2MjY4N3p0VzFGU2twWmxscU01cnRQNUI0NjRmTUFlNkhVS1ZJRUtKekNyb0FB?oc=5",
-    "title": "[ST포토] 고예지 치어리더, '쭉쭉'",
-    "summary": [
-      "[ST포토] 고예지 치어리더, '쭉쭉' 네이트."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nadcbed93",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc1NqbTZJU0NYbGM3Sml2a2lVWmNlMW1JN3pPbFVIV3B2dHdLNFZiOHYtYmd1VGVTYWE1T0t4WGVvclduMHRCSUszeGprVktxbmRsaEcxZFZWMWUzOE14c0h3YkUzM0w4aF81eXZyWUF1NUk?oc=5",
     "title": "젠슨 황 미국 정부와 의회에 'AI 반도체 중국 수출' 적극 설득, 엔비디아에 더 절실해져",
     "summary": [
@@ -153,12 +153,12 @@ window.NEWS_DB = [
   {
     "id": "n94aa4795",
     "category": "IT",
-    "source": "서울Pn",
+    "source": "go.seoul.co.kr",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
     "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
     "summary": [
-      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
+      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 go.seoul.co.kr."
     ],
     "chips": [
       "#스타트업",
@@ -214,12 +214,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "53일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -229,12 +229,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "65일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#부동산"
@@ -315,6 +315,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfa114260",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153933",
+    "title": "애플 \"100년 빈도 홍수\" 볼멘소리 할 만하네...7월도 메모리값 급등",
+    "summary": [
+      "메모리반도체 가격이 천정부지다.",
+      "애플은 이를 '100년에 1번 발생할 홍수'에 비유했다.",
+      "D램과 낸드플래시 모두 범용 메모리 제품이 역대 최고가를 경신했다."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "nac467e42",
     "category": "사회",
     "source": "테크M",
@@ -365,278 +383,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9803256e",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153931",
-    "title": "GS25 '신선식품'·CU '스낵'·세븐일레븐 '라면'...3사3색 차별화 전략",
-    "summary": [
-      "편의점 업계가 주력 상품군을 앞세운 차별화 경쟁에 나섰다.",
-      "GS25는 신선식품을 강화해 근거리 장보기 수요를 흡수하고, CU는 여름철 맥주와 함께 찾는 안주용 스낵을 확대한다.",
-      "세븐일레븐은 해외 지역의 맛을 구현한 라면으로 여행 경험을 상품화하고 있다.편의점이 간단한 식사와 생필품을 구매하는 공간을 넘어 장보기와 야식, 미식 경험까지 제공하는 생활 플랫폼으로 영역을 넓히는 모습이다.편의점 3사가 선택한 상품군은 다르지만 방향은 같다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf0779d6e",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026080311522286645",
-    "title": "경찰, '수사·기소 분리'에 자신감…형소법 대응 TF 가동",
-    "summary": [
-      "경찰이 수사·기소 분리를 골자로 한 형사소송법 개정 등 형사사법체계 변화에 대응하기 위해 전담팀을 가동한다.",
-      "수사 완결성 제고, 수사인력 재배치 등 과제에 대응하기 위한 목적이다.",
-      "홍석기 경찰청 국가수사본부장은 3일 기자들과 만나 \"2021년 수사 종결권이 생기면서 여러 시범적 운영을 거쳐 왔다\"며 \"검찰의 직접 수사 또는 직접 보완수사가 사라진 뒤 경찰 수사인력이 많이 필요하지 않을지, 사건 처리가 길어지지 않을지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n42303aec",
+    "id": "ndb5ee258",
     "category": "경제",
     "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026080311193163793",
-    "title": "\"연초에 전자담배까지…고3 흡연, 복합사용이 더 많아\"",
+    "url": "https://view.asiae.co.kr/article/2026080312585337798",
+    "title": "민형배 \"과속보다 완성도…조직개편·군공항 차근차근 풀겠다\"",
     "summary": [
-      "고등학교 3학년 흡연자 중 일반담배나 전자담배 한 종류만 피우는 경우보다 두세 종류의 담배제품을 함께 사용하는 비율이 더 높은 것으로 나타났다.",
-      "질병관리청은 3일 이러한 내용을 담은 '청소년건강패널조사' 1~7차 통계를 발표했다.",
-      "질병청은 청소년의 건강행태 변화를 살펴보기 위해 2019년 당시 전국 초등학교 6학년 5051명을 패널로 구축해 2028년까지 10년간 추적조사를 진행하고 있다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd0b4c370",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026080311094616280",
-    "title": "‘임원 사기죄 전과’ 은폐하고 프랜차이즈 가맹 모집…‘바틀샵’ 별빛강물에 과징금",
-    "summary": [
-      "와인 및 커피 전문 소매 프랜차이즈 브랜드인 '바틀샵' 운영사 ㈜별빛강물이 임원의 사기죄 전과를 은폐하고 가맹점을 모집해온 사실이 공정거래위원회에 적발됐다.",
-      "공정위는 가맹희망자들에게 핵심 중대 정보를 누락하고 법정 절차를 위반한 ㈜별빛강물에 대해 시정명령과 함께 총 7200만원의 과징금을 부과하기로 결정했다고 3일 밝혔다.",
-      "공정위에 따르면, 별빛강물은 임원(고OO 대표)이 사기죄를 범해 2021년 11월 23일 형이 확."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "ne0cb0c19",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026080309490190998",
-    "title": "\"실패도 연구의 자산\"…과기정통부, 연구자 도전기 공모전 개최",
-    "summary": [
-      "과학기술정보통신부가 연구 과정의 실패와 시행착오, 이를 극복한 경험을 국민과 공유하는 공모전을 연다.",
-      "연구 성과 중심으로 알려졌던 과학기술 연구의 이면을 조명해 연구에 대한 국민의 공감과 신뢰를 높이겠다는 취지다.",
-      "과기정통부와 한국과학창의재단은 과학기술 분야 연구자를 대상으로 '나의 연구 도전기 공모전'을 개최한다고 3일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a531c01",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003733884",
-    "title": "'바나나+고릴라 이모티콘' 충북청주 반데이라 \"인종차별 의도 아냐\"",
-    "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 프로축구 K리그2 충북청주의 반데이라가 이모티콘 논란에 대해 인종차별 의도가 있었던 건 아니라고 해명했다.",
-      "반데이라는 지난 1일 충북청주와 수원삼성의 하나은행 K리그2 2026 20라운드가 종료된 이후, 자신의 사회관계망서비스(SNS)에 경기 장면과 함께 바나나 2개와 고릴라 이모티콘을 업로드했다.",
-      "그전에는 바나나 7개의 이모티콘을 적은 게시글도 올라왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5e86911b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003733918",
-    "title": "이 대통령, 서울공항 도착…7박11일 미국·남미 순방 종료",
-    "summary": [
-      "[서울=뉴시스]조재완 김지은 기자 = 이재명 대통령이 3일 7박11일간의 미국·남미 순방을 마치고 귀국했다.",
-      "이 대통령 내외와 참모진을 태운 공군 1호기(대통령 전용기)는 이날 오전 11시 43분께 성남 서울공항에 도착했다.",
-      "이 대통령은 남색 정장에 회색과 자주색, 남색이 교차된 무늬의 넥타이를 맸고 김 여사는 연보라색상의 투피스 정장 차림이었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n45efaa0a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734007",
-    "title": "'대출금 편취·자금세탁 혐의' 농협 조합장·직원 2명 피소",
-    "summary": [
-      "[창원=뉴시스]강경국 기자 = 경남 도내의 한 농협 조합장과 직원들이 거액의 대출금을 편취하고 자금세탁, 범죄수익은닉 등에 가담한 혐의로 피소됐다.",
-      "3일 경남경찰청 등에 따르면 도내 A농협 조합원인 B씨는 조합장 C씨와 대출 담당 직원 D씨, 총무계 직원 E씨 등 3명을 사기 및 범죄수익 은닉규제법 위반, 금융실명거래 및 비밀보장에 관한 법률 위반 등의 혐의로 고소했다.",
-      "고소장에 따르면 C조합장은 2024년께 강원도에서 추진되는 F업체의 골프장."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n00dd3d8a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003733987",
-    "title": "세븐틴 디노, 한국적 興과 복고 그리고 희로애락…피철인 '코리안 레이브'",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 그룹 '세븐틴'의 디노가 서사적 지평을 넓힌다.",
-      "디노는 3일 오후 6시 부캐릭터 '피철인'의 첫 미니 앨범 '길보드(吉BOARD)'를 발매하고 독자적인 음악 세계를 선보인다.",
-      "'길보드'는 EDM 트랩, 시티팝, 뉴잭스윙 등 다채로운 장르 위에 한국 특유의 흥과 레트로적 정서를 입힌 음반이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ca6c99b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803077100004",
-    "title": "정성호 \"빛의 속도로 형소법 개정된건 처음…부작용시 빨리 고쳐야\"",
-    "summary": [
-      "(과천=연합뉴스) 최윤선 기자 = 정성호 법무부 장관은 3일 검사의 직접 보완수사권 폐지를 골자로 한 형사소송법 개정안이 국회를 통과한 데 대해..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3fb88c87",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "6분 전",
-    "url": "https://www.hankyung.com/article/2026080314717",
-    "title": "서울시, 폭염 긴급대책회의 개최…\"분야별 추진사항 점검\"",
-    "summary": [
-      "서울시, 폭염 긴급대책회의 개최…\"분야별 추진사항 점검\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e6a55aa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803077200005",
-    "title": "예능으로 상속 고민 푼다…'상속전야' MC에 서장훈·이찬원",
-    "summary": [
-      "(서울=연합뉴스) 장진리 기자 = tvN 스토리(STORY)는 상속을 소재로 한 예능 '상속전야'(가제)를 내년 1월 선보인다고 3일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd53af064",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803077300064",
-    "title": "영동군민장학회, 초·중학생 314명 여름방학 영어캠프 운영",
-    "summary": [
-      "(영동=연합뉴스) 천경환 기자 = 충북 영동군민장학회는 학생들의 영어 역량을 키워주기 위해 초·중학교 학생을 대상으로 여름방학 특별 영어 캠프를..."
+      "민형배 전남광주통합특별시장이 출범 한 달을 맞아 군 공항 이전과 국립의대 설립, 조직개편 등 주요 현안의 속도가 더디다는 지적에 \"현실과 다르다\"고 선을 그었다.",
+      "\"장기간 누적된 갈등을 한 달 만에 해결하라고 요구하는 것은 현실적이지 않다\"면서도 군 공항 이전과 대학 통합 등 일부 현안들은 해결의 실마리가 보인다고 강조했다.",
+      "민 시장은 3일 무안청사 4층 기자실에서 '출범 한 달 행정통합 어디까지 와 있나'란 주제로."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nfb007b6c",
+    "id": "naca328f0",
     "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260803/134411637/1",
-    "title": "“전국 650개 매장에 전용 매대”…올리브영, K-더마 영토 확장 가속",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734125",
+    "title": "김범수 아산 부시장 \"재난대응·시책구상보고회 준비 철저\"",
     "summary": [
-      "글로벌 뷰티 시장에서 한국 더마코스메틱 제품에 대한 수요가 커지고 있는 가운데, 올리브영이 관련 카테고리의 고객 접점을 넓히며 본격 K-더마 영토 확장에 나섰다.더마코스메틱은 피부 과학을 의미하는 ‘더마톨로지(Dermatology)’와 화장품을 뜻하는 ‘코스메틱(Cosmetic)’의 합성어다.",
-      "의료·바이오 전문가가 연구·개발(R&D)에 참여해 피부 기능 개선 효과를 볼 수 있도록 만든 화장품을 뜻한다.국내 더마코스메틱 시장은 가파르게 성장하고."
+      "[아산=뉴시스]최영민 기자 = 김범수 충남 아산시 부시장이 3일 열린 8월 직원 월례모임에서 여름철 재난 대응과 을지연습 준비 등에 만전을 기해줄 것을 주문했다.",
+      "김 부시장은 이날 오세현 시장이 공무 일정으로 자리를 비운 가운데 회의를 주재하며 \"여름철 국지성 호우와 폭염이 일상화된 만큼 하천과 저지대 등 재해 취약지역 예찰을 강화하고, 위험 징후가 있을 경우 주민대피와 시설 통제 등 선제적 대응이 필요하다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n26d58158",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026080311470466849",
+    "title": "[부고]김송현(매일경제 사회부 기자)씨 조부상",
+    "summary": [
+      "▲김충홍씨 별세, 이경심씨 남편상, 김혜경·혜량·미라씨 부친상, 양대수·김재선·이상원씨 장인상, 강희정씨 시부상, 김송현(매일경제 사회부 기자)·지우씨 조부상, 양재용·양석진·김승원·이유현·이유건씨 외조부상=3일, 동광양장례식장, 발인 4일 오전 8시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5fd52fb2",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026080313170789038",
+    "title": "르노코리아, 크로스오버 '필랑트' 첫 수출…중남미 220대 선적",
+    "summary": [
+      "르노코리아는 지난 31일 마산항 제4부두에서 준대형 크로스오버 '필랑트' 첫 수출물량을 선적했다고 3일 밝혔다.",
+      "이날 필랑트 220대를 비롯해 아르카나 418대, 그랑 콜레오스 209대 등 총 847대가 중남미로 향하는 선박에 선적됐다.",
+      "르노코리아 수출 라인업이 기존 아르카나와 그랑 콜레오스에 이어 필랑트까지 확대됐다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n0bd436c8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734123",
+    "title": "강화대로 우회도로 개설 본격 추진…2030년 개통 목표",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 인천 강화군은 강화대로 알미골사거리 우회도로 개설사업이 행정안전부 특수상황지역 개발사업에 최종 선정됐다고 3일 밝혔다.",
+      "강화읍 강화대로는 공휴일과 강화풍물시장 장날마다 차량이 집중되면서 상습적인 교통정체가 발생하고 있다.",
+      "특히 알미골사거리와 중앙로 일원에는 강화풍물시장, 강화버스터미널, 강화군보건소 등 주요 교통유발시설이 밀집해 도심 교통 혼잡이 지속되고 있다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nb31d5cab",
+    "id": "nbce53af4",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/03/2026080313100243777",
+    "title": "대한체육회, '제30회 한일 청소년스포츠교류 초청행사' 대전서 7일까지 개",
+    "summary": [
+      "대한체육회가 오는 7일까지 6일간 대전광역시 일원에서 '제30회 한일 청소년스포츠교류 초청행사'를 개최한다고 3일 밝혔다.",
+      "대한체육회에 따르면 지난 1997년 시작되어 올해로 30회를 맞이한 한일 청소년스포츠교류는 한국과 일본의 초·중학생 선수들에게 국제 스포츠 경기 경험과 문화체험 기회를 제공하는 교류 프로그램이다.",
+      "매년 양국을 번갈아 오가며 초청 및 파견 형태로 운영되어 왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf9254410",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734121",
+    "title": "대구학교지원센터, 방학 학교업무 지원 확대",
+    "summary": [
+      "[대구=뉴시스] 김정화 기자 = 대구학교지원센터는 여름방학 동안 교육활동 인력 지원을 집중 추진한다고 3일 밝혔다.",
+      "지원 대상은 교과서 분류와 학교도서관 장서 정리, 학교행사 보조, 특별실 정리, 교실 재배치, 교실환경 개선 등 6개 분야다.",
+      "올해 교실환경 개선을 새로 포함하고 분야별 지원 기간도 기존 1일에서 2일로 늘렸다."
+    ],
+    "chips": [
+      "#교육",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n42379405",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734119",
+    "title": "산림복지진흥원, 국가산림문화자산 AI 영상 공모전",
+    "summary": [
+      "[대전=뉴시스] 김양수 기자 = 한국산림복지진흥원은 다음달 1~30일 국가산림문화자산의 역사·문화적 가치를 국민에게 널리 알리기 위한 '국가산림문화자산 AI 숏폼 영상 공모전'을 개최한다고 3일 밝혔다.",
+      "이번 공모전은 생성형 인공지능(AI)과 숏폼 콘텐츠를 활용해 국가산림문화자산을 쉽고 재미있게 소개하고 국민의 관심과 참여를 확대키 위해 마련됐다.",
+      "국가산림문화자산과 산림을 소재로 한 애니메이션, 댄스 챌린지, 브이로그(Vlog), 밈(Meme)."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nf5319369",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026080313132475498",
+    "title": "옛것에서 새것을 짓다…소목匠 조화신, 붓끝을 세우다",
+    "summary": [
+      "국가유산진흥원은 4일부터 11일까지 국가무형유산전수교육관에서 조화신 소목연구회의 여덟 번째 전시 '법고창신(法古創新)'을 연다.",
+      "조화신 소목연구회는 한국전통공예건축학교 수료생을 중심으로 설립된 단체로, 현재 약 쉰 명이 활동 중이다.",
+      "이번 전시에는 조화신 전승교육사를 포함한 작가 서른다섯 명이 참여해 소목 가구 마흔세 점을 선보인다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ne61dc8df",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/03/W4H2OVOVC5FEBL5DU54GO7UVHU/",
+    "title": "[속보] 해병대 간부 영외 숙소서 총기 사고…부사관 1명 사망",
+    "summary": [
+      "[속보] 해병대 간부 영외 숙소서 총기 사고…부사관 1명 사망."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nab48f0b1",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/policy/2026/08/03/2026080313005973060",
+    "title": "임진원, '2026년 산림분야 지재권 출원 및 사업화 지원' 참여기업 모집",
+    "summary": [
+      "한국임업진흥원은 '2026년 산림분야 지식재산권 출원 및 우수기술 사업화 지원' 참여기업을 오는 23일까지 모집한다고 3일 밝혔다.",
+      "지식재산권 출원에 어려움을 겪는 임업인 및 임산업체의 비용 부담을 줄여주고 우수기술 보유업체의 사업화 활동을 지원하기 위해 추진한다.",
+      "선정된 기업에는 지식재산권 출원 상담(컨설팅)과 함께 지식재산권 출원 소요 비용(△특허 최대 100만원 △디자인 최대 50만원 △상표 최대 30만원 내)의 최대 80%까지 지원한다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n528201d0",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/stock/2026/08/03/2026080313055454170",
+    "title": "제이에스코퍼레이션, 장중 13% 급등…2Q 깜짝실적",
+    "summary": [
+      "[특징주] 제이에스코퍼레이션이 3일 장중 상승률을 10%대로 키웠다.",
+      "컨센서스(시장 추정치)를 웃돈 2분기 잠정실적이 매수세를 유도했다.",
+      "이날 낮 1시 한국거래소에서 제이에스코퍼레이션은 전 거래일 대비 1520원(12.51%) 오른 1만3670원에 거래됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nec9f9b8d",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/policy/2026/08/03/2026080312445358329",
+    "title": "국립산림과학원, 여름철 도시숲 '열섬 완화 효과' 입증",
+    "summary": [
+      "서울 25개 자치구 대상 도시숲과 지표면 온도 상관관계 연구결과 발표…나무 많을수록 여름철 지표면 온도 ↓ 생활권 내 도시숲 면적 비율이 높을수록 지표면 온도가 낮아지는 경향이 큰 것으로 나타났다.",
+      "산림청 국립산림과학원은 서울시 25개 자치구를 대상으로 도시숲과 여름철 지표면 온도의 관계를 분석해 이같은 결과를 확인했다고 3일 밝혔다.",
+      "도시에 나무가 많을수록 더 시원하다는 도시숲의 열섬 완화 효과가 입증된 셈이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5ea217c",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803081400062",
+    "title": "춘천시 체납관리단 가동…생계형 지원·상습 체납 엄정 징수",
+    "summary": [
+      "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 지방세와 세외수입 체납액을 정리하고 성실 납세 문화를 조성하기 위해 구성한 지방세입 체납관리단이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8b99a574",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803076200005",
-    "title": "이민진 신작 '아메리칸 학원', 9월 29일 한국어판 출간",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803080800053",
+    "title": "왜 무너졌나…해경·국과수, 포항 보릿돌교 합동감식 착수",
     "summary": [
-      "(서울=연합뉴스) 김기훈 기자 = 소설 '파친코'를 쓴 재미교포 작가 이민진의 새 소설 '아메리칸 학원'(원제 American Hagwon)이 ..."
+      "(포항=연합뉴스) 손대성 기자 = 경북 포항 보릿돌교 붕괴 사고 원인을 규명하기 위한 관계기관의 현장 조사가 본격화됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8c334fbd",
+    "id": "nc45ee241",
     "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260803/134411363/2",
-    "title": "중식 셰프 정지선 “장기근속 직원 5명에 고급 세단…유지비 부담되면 명품 가방”",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803081100065",
+    "title": "인천 청라동서 시내버스 2대 추돌…운전자·승객 12명 경상",
     "summary": [
-      "정지선 셰프가 장기 근속 직원 5명에게 고급 세단을 선물했다고 밝혔다.",
-      "자동차 대신 명품 가방을 선택할 수 있으며 분기별 인센티브와 해외 경비도 지원한다."
+      "(인천=연합뉴스) 천정인 기자 = 3일 오전 10시 37분께 인천 서해구 청라중학교 앞 교차로를 주행하던 시내버스가 또 다른 시내버스의 측면 후..."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "n69d796d6",
+    "id": "nad0ff438",
     "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260803/134411360/2",
-    "title": "통영 살인 용의자 ‘175㎝ 보통 체격’…결정적 단서 제공자에 최대 1억원 보상",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260802031000004",
+    "title": "경찰대, 인터폴과 국제교육…K콘텐츠 불법유통 대응",
     "summary": [
-      "경남경찰청이 지난달 경남 통영에서 발생한 60여성 살인 용의자의 신체적 특징을 확인했다고 밝혔다.",
-      "이 사건은 범인을 잡지 못한 채 55일째를 맞고 있다.3일 경찰은 폐쇄회로(CC)TV 오류 최소화 작업 등을 거쳐 용의자의 체격이 키 175㎝가량의 보통 체격인 것으로 파악했다.",
-      "경찰은 용의자 검거에 결정적인 단서를 제공한 자에게 ‘범인검거 등 공로자 보상에 관한 규정‘(경찰청 고시)에 따라 1억원 이하의 신고보상금을 지급할 방침이다."
+      "(서울=연합뉴스) 한지은 기자 = 경찰대학은 3일부터 14일까지 국내에서 인터폴과 공동으로 '지식재산 범죄 대응 및 강사양성 과정'을 개최한다고..."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n47818ee9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260803/134411353/2",
-    "title": "“40도 넘으면 선풍기 자제해야”…WHO가 제시한 폭염 생존 수칙",
-    "summary": [
-      "경남 양산 기온이 42.5도까지 오르며 역대 최고치를 기록한 가운데 WHO가 40도 이상 폭염엔 선풍기 자제를 권고하는 대응 수칙을 내놨다."
-    ],
-    "chips": [
-      "#뉴스"
+      "#교육"
     ]
   }
 ];
@@ -646,20 +649,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "교육",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
