@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-03 21:23:10
+// 마지막 업데이트: 2026-08-03 22:20:49
 window.NEWS_DB = [
   {
     "id": "n170df46a",
     "category": "IT",
-    "source": "businesspost.co.kr",
-    "time": "14시간 전",
+    "source": "비즈니스포스트",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QREQwTGZBM0hxRC1vc25GMEE4X2pYZ29Kb25EVVRnMnFrTFJXZ2hLUFRyRVBwVEFTVG1kSGFYNElBLThOaHZ5NC1xcnBZUFJzVk9NV3FnV2dBUlRrT1h5NVFBN0lfWmJualFhUDhHd0NaRFk?oc=5",
     "title": "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존",
     "summary": [
-      "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존 businesspost.co.kr."
+      "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n4591ab10",
     "category": "IT",
     "source": "코인리더스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RQzVVemlqbkRaTGMyUU02eVlCRndDU1gwYkExT0ZIb3FXYndtSGcteW1GOVRydDlkMTVaSThsTWlQU3lpZ3JuMlln?oc=5",
     "title": "엔비디아, AI 투자 꺾이면 끝?...\"반도체 구매자·판매자 둘 다 못 웃는다\"",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n5142ca5e",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ySHBaTzZWanptOFJHMW1pRVFReU9PYlp5RE1MdEZmLXVGVTBPWGNIbFNIcVotZW1vN0Y3Z0w2N05tcndobzI4b0xtTklPTk80b2I0cXdwbTF6YWlTT0kwc2FEcnlwZEJVRWNXc01DYw?oc=5",
     "title": "HBM4 전환기…삼성전자 점유율, SK하이닉스 앞지를까",
     "summary": [
@@ -123,12 +123,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -138,7 +138,7 @@ window.NEWS_DB = [
     "id": "nc4b0f988",
     "category": "IT",
     "source": "쿠키뉴스",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
@@ -154,12 +154,12 @@ window.NEWS_DB = [
   {
     "id": "n94aa4795",
     "category": "IT",
-    "source": "go.seoul.co.kr",
-    "time": "5일 전",
+    "source": "서울Pn",
+    "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
     "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
     "summary": [
-      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 go.seoul.co.kr."
+      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
     ],
     "chips": [
       "#스타트업",
@@ -201,12 +201,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "straightnews.co.kr",
+    "source": "스트레이트뉴스",
     "time": "48일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
     ],
     "chips": [
       "#금리"
@@ -230,12 +230,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "66일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -316,312 +316,315 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n67131958",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/estate/2026/08/04/2026080319410841233",
-    "title": "결국 또 세입자에 불똥?...\"세 부담, 전세로 전가\" 물량 더 줄어들 위험도",
-    "summary": [
-      "[2026년 세제개편안] (中) ━사실상 '비거주 주택과의 전쟁'…李정부 2번째 세제개편안도 '증세'━ 이재명정부 두번째 세제개편안은 사실상 '비거주 주택과의 전쟁'을 선포한 것으로 풀이된다.",
-      "집은 '사는(buying) 대상'이 아니라 '거주(living)하는 공간'이란 원칙 아래 비거주 주택에 대한 세 부담을 징벌적 수준으로 높이면서다.",
-      "정부는 과세 체계 '정상화'를 내세우지만, 결과적으로 올해 세제개편안 방향도 '증세'를 향하게 됐다."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "n16ef59b4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/04/YGTXVLBNN5HRPDVNZK3KPEXC7Y/",
-    "title": "상대 말소리와 TV 소리가 또렷하게 들리는 신기한 이어폰, 10만원대 초특가",
-    "summary": [
-      "상대 말소리와 TV 소리가 또렷하게 들리는 신기한 이어폰, 10만원대 초특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndb1fd790",
+    "id": "nc202c5d2",
     "category": "사회",
     "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260804/134415952/1",
-    "title": "오늘 대법관 후보추천위 회의…대법관 2명 동시 제청 여부 관심",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260804/134415990/1",
+    "title": "왕위 계승 2순위 공주도 입대…덴마크 징병제 확대",
     "summary": [
-      "9월 퇴임하는 이흥구 대법관(63·사법연수원 22기)의 뒤를 이을 대법관 후보가 4일 추려진다.",
-      "3월 퇴임한 노태악(64·16기) 전 대법관 후임이 5개월째 공석인 가운데 조희대 대법원장이 두 대법관 후임을 동시에 제청할지 주목된다.",
-      "먼저 퇴임한 대법관의 후임이 채워지지 않은 상태에서 다른 대법관의 후임 추천 절차가 진행되는 건 이번이 처음이다.대법관 후보추천위원회(추천위)는 이날 오후 회의를 열고 대법관 후임 후보 28명 중 3명 이상을 대법."
+      "3일(현지시간) 덴마크에서 복무 기간을 종전 4개월에서 11개월로 연장하고 여성도 징집 대상에 포함하는 징병제가 본격 시행됐다.",
+      "러시아의 우크라이나 침공과 도널드 트럼프 미국 대통령의 그린란드 병합 압박에 대응하기 위해 덴마크가 징병제를 확대한 것으로, 신병 중에는 덴마크 왕위 계승 서열 2순위인 이사벨라 공주(19)도 포함됐다.로이터통신은 덴마크 새 징집병 약 1600명이 이날부터 새롭게 11개월로 확대된 의무복무를 시작했다고 보도했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "neb6797cf",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/04/GA3DIMTCMZRWMNZTMU4GGNJVMU/",
+    "title": "'소아암 투병 고백' 최예나 \"병원비 때문에 어렸을 때부터 자책 많이 해\" ('내 남은 연애')",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 최예나가 과거 소아암 림프종을 투병하며 느꼈던 바를 털어놓았다.",
+      "3일 방송된 SBS 예능 프로그램 '내 남은 연애'에서는 시한부 선고를 받은 경험이 있거나 죽음의 문턱까지 갔던 투병 경험을 가진 2030 청춘들이 처음 소개되었다.이날 배우 이세영, 씨엔블루 정용화, 세븐틴 도겸, 가수 최예."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n4a3297e3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803101800065",
+    "title": "[르포] \"폭염 대목은 옛말\"…텅 빈 냉동고에 인천 얼음집 '한숨'",
+    "summary": [
+      "(인천=연합뉴스) 황정환 기자 = \"예전 같으면 냉동고 앞 천장까지 얼음이 꽉 차서 안으로 비집고 들어가야 했는데, 지금은 보시다시피 텅 비었잖..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb94eb0ec",
+    "id": "n28e71dcd",
     "category": "경제",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804004551072",
-    "title": "유가 급락에 美 주식·채권 동반강세…나스닥 2%↑(종합)",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026080316250258252",
+    "title": "[클릭e종목]\"풍산, 낙폭 과대…투자의견 보유→매수\"",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 8월의 첫 거래일인 3일(현지시간) 미국채 금리가 하락하고 뉴욕증시 3대 지수가 모두 1% 넘게 상승했다."
+      "BNK투자증권은 4일 방위산업(방산)과 신동(구리 가공) 사업을 하는 풍산에 대해 투자의견을 기존 '보유'에서 '매수'로 상향했다.",
+      "목표주가는 기존 12만원에서 10만원으로 16.7% 내렸지만, 최근 주가가 그보다 더 크게 떨어지면서 상승 여력은 오히려 커졌다는 판단이다.",
+      "31일 종가(7만1200원) 대비 상승 여력은 40.4%다."
     ],
     "chips": [
-      "#금리"
+      "#뉴스"
     ]
   },
   {
-    "id": "n636044da",
+    "id": "nf4472316",
     "category": "사회",
     "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003734969",
+    "title": "트럼프 \"엑손·셰브론, 돈 너무 많이 벌어…소비자 가격 내려야\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 도널드 트럼프 미국 대통령이 또다시 미국 석유 대기업을 압박하고 나섰다.",
+      "중동 전쟁 여파로 많은 돈을 벌었다며 수익 일부를 미국 국민에게 돌려주라고 말했다.",
+      "CNBC, USA투데이 등에 따르면 트럼프 대통령은 3일(현지 시간) 백악관 집무실에서 \"셰브론은 너무 많이 벌었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n98e7065c",
+    "category": "경제",
+    "source": "아시아경제",
     "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003734955",
-    "title": "경찰, 상습 아동학대 혐의 성주 어린이집 원장·교사 송치",
+    "url": "https://view.asiae.co.kr/article/2026080315445733609",
+    "title": "[클릭 e종목]\"한국콜마, 선크림 시장 독보적 지위…목표가 15만원\"",
     "summary": [
-      "[성주=뉴시스] 박홍식 기자 = 경북 성주의 공립 어린이집에서 원생을 학대한 혐의를 받는 보육 교사와 원장이 검찰에 넘겨졌다.",
-      "경북경찰청은 아동복지법 위반(상습 아동학대) 혐의로 성주군 한 어린이집 보육 교사 A씨와 원장 B씨를 검찰에 불구속 송치했다고 4일 밝혔다.",
-      "A씨는 지난해 4월부터 3개월 동안 원생 C군에게 강제로 음식을 먹이는 등 상습적으로 학대한 혐의를 받고 있다."
+      "한국콜마가 견조한 선케어 수주와 수출 호조에 힘입어 하반기 실적 개선에 속도를 낼 것이란 증권가 분석이 나왔다.",
+      "4일 IBK투자증권에 따르면 전날 조경진 연구원은 \"한국콜마는 고마진 선케어와 기초케어 생산에 강점을 지닌 제조업자개발생산(ODM) 기업\"이라며 \"국내 법인의 수출 호조와 수주 계절성 완화, 미국 법인 정상화 등에 힘입어 성장세를 지속할 것\"이라고 분석했다.",
+      "그러면서 한국콜마에 대해 투자의견 매수와 목표주."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "n90dba030",
+    "id": "nc17549a3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003733399",
-    "title": "빵집 앞 흡연 제지에 '어깨빵' 난동…\"우울증 탓\" 황당 해명",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003734983",
+    "title": "충주 아크릴 제조 공장서 유해가스 누출…인명피해 없어",
     "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 빵집 사장이 매장 앞 흡연자들을 제지하다가 폭언과 물리적 위협을 당한 사연이 알려졌다.",
-      "31일 JTBC '사건반장'은 빵집 사장 A씨가 제보한 영상을 공개했다.",
-      "제보 영상에 따르면 A씨는 매장 입구 근처에서 담배를 피우던 사람들에게 \"비흡연자인데 다른 곳에서 담배를 피워주시면 안 되겠냐\"고 요청했다."
+      "[충주=뉴시스] 연현철 기자 = 3일 오후 10시5분께 충북 충주시 신니면 대화리의 한 아크릴 제조 공장에서 인화성 액체인 메틸메타크릴레이트(MMA) 과열로 유해가스가 누출됐다.",
+      "메틸메타크릴레이트는 아크릴판과 투명 플라스틱 등을 만드는 데 쓰인다.",
+      "무색의 인화성 액체로 증기를 다량 흡입하면 눈과 호흡기에 자극을 유발하는 화학물질로 알려졌다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n92795007",
+    "id": "n8a000d64",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003734976",
+    "title": "맥주·토크쇼·체험 한자리에…예천 도심서 맥주축제 연다",
+    "summary": [
+      "[예천=뉴시스] 김진호 기자 = 한여름 밤 경북 예천에서 퇴근길 시민과 관광객을 위한 도심 맥주축제가 열린다.",
+      "예천문화관광재단은 오는 7일 오후 7시부터 9시까지 호명읍 주차타워 앞에서 '2026 예천 범우리 비어페스티벌'을 개최한다고 4일 밝혔다.",
+      "여름철 야간 시간대를 활용해 시원한 맥주와 체험 프로그램을 즐기며 지역 상권에도 활력을 불어넣겠다는 취지다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n763b6da7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003734981",
+    "title": "[오늘의 주요 일정]대구·경북(8월4일 화요일)",
+    "summary": [
+      "[대구=뉴시스] ◇경북도 ▲오전 7시20분, 화공 굿모닝 특강, 다목적홀 ▲오전 9시30분, 실·국·원장 간부회의, 원융실 ▲오후 1시, 수상안전폭염 대비 현장 방문 및 점검, 영덕군 ▲오후 2시, 호국 보훈 사업 활성화 대책마련 간담회, 접견실 ▲오후 3시, 지역별 전기요금제 실현 토론회, 경상북도 동부청사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe82760c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://view.asiae.co.kr/article/2026080315430314901",
+    "title": "[클릭 e종목]아모레퍼시픽, 완벽한 턴어라운드…목표가↑",
+    "summary": [
+      "유진투자증권은 4일 아모레퍼시픽에 대해 2분기 실적이 완벽하게 턴어라운드했다며 목표주가를 종전 15만원에서 17만원으로 상향했다.",
+      "유진투자증권에 따르면 아모레퍼시픽의 2분기 매출액은 1조1759억원으로 전년 동기 대비 17% 늘었고, 영업이익은 1174억원으로 59.4% 급증했다.",
+      "부문별로 살펴보면 국내 매출액은 6108억원 영업이익은 596억원을 달성했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7eacecb",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026080316121801887",
+    "title": "[클릭 e종목]\"코인베이스, 단기 실적 변동성 지속 전망\"",
+    "summary": [
+      "올해 2분기 부진한 실적을 기록한 미국 최대 가상자산 거래소 코인베이스에 대해 단기 실적 변동성이 지속될 것이란 분석이 나왔다.",
+      "4일 신한투자증권에 따르면 코인베이스는 2분기에 매출액 전년 동기 대비 19% 감소한 12억2000만달러를 기록했으며 조정 주당순손실 0.4달러로 적자 전환했다.",
+      "김유민 신한투자증권 연구원은 \"가상자산 현물거래대금은 전분기 대비 25% 감소했고 시가총액은 11% 하락, 변동성 지수는 14% 하락했다\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n17319e06",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804008000052",
-    "title": "부·울·경 무더위·열대야 계속…경남 서부 내륙 오후 소나기",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803081900546",
+    "title": "[글로컬] 독립 유공자 공적 재평가…헐버트의 헌신이 던진 질문",
     "summary": [
-      "(창원=연합뉴스) 이준영 기자 = 화요일인 4일 부산·울산·경남은 가끔 구름이 많겠으나 무더위와 열대야가 이어지겠다."
+      "(서울=연합뉴스) 한승호 선임기자 = 고종의 친서를 갖고 미국 특사로 파견돼 을사늑약의 부당성 역설, '헤이그 밀사' 3인과 별개인 '제4의 밀..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n19926ecf",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803110100530",
-    "title": "기초연금 수급자 74%, 기초연금 가장 먼저 식비에 지출",
-    "summary": [
-      "(서울=연합뉴스) 서한기 기자 = 기초연금을 받는 65세 이상 노인 상당수가 기초연금을 식비와 주거비 등 생존을 위한 필수 비용에 주로 사용하고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n780c7e2c",
+    "id": "n99dc6963",
     "category": "사회",
     "source": "연합뉴스",
     "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804007700063",
-    "title": "대전충남, 무더위·열대야 이어져…오후에 소나기",
+    "url": "https://www.yna.co.kr/view/AKR20260804009800072",
+    "title": "美 민주당 소속 25개州 \"301조 강제노동 관세는 위법\" 제소",
     "summary": [
-      "(세종=연합뉴스) 양영석 기자 = 4일 대전·세종·충남은 낮 최고기온이 35도 안팎까지 오르는 무더위가 이어지겠다."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 뉴욕, 캘리포니아 등 미국 민주당 소속 주지사가 이끄는 25개 주(州)가 3일(현지시간) 도널드 트럼프 행정..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8f822eba",
+    "id": "nd008461e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804012200007",
+    "title": "35세 웰벡에 이어 36세 헨더슨 영입…베테랑 불러 모으는 첼시",
+    "summary": [
+      "(서울=연합뉴스) 이영호 기자 = 잉글랜드 프로축구 프리미어리그(EPL) 첼시가 잉글랜드 축구 대표팀의 베테랑 미드필더 조던 헨더슨(36·잉글랜..."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "ne4b784d3",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/04/2026080405334175111",
-    "title": "암살 시도?...신동엽, 붐이 선물한 '고급 와인' 마시자마자 뱉은 사연",
-    "summary": [
-      "방송인 붐이 선배 신동엽에게 '짝퉁' 와인을 선물한 적이 있다고 털어놨다.",
-      "지난 3일 유튜브 채널 '짠한형 신동엽'에는 신동엽과 tvN 예능 프로그램 '놀라운 토요일'에 함께 출연 중인 방송인 붐, 가수 넉살, 한해가 출연했다.",
-      "이 영상에서 붐은 \"와인, 중국산 얘기하니까 너무 죄송하다\"며 과거 와인 선물 이야기를 꺼냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8c7ba4f2",
-    "category": "사회",
-    "source": "뉴시스",
+    "source": "연합뉴스(경제)",
     "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734666",
-    "title": "전국 저수량 예년 수준인데…폭염에 남부 수계 '경고등'",
+    "url": "https://www.yna.co.kr/view/AKR20260722056200898",
+    "title": "[우분투칼럼] 아프리카와 개발협력⒂: 새로운 희망 심는 가나 산업단지",
     "summary": [
-      "[세종=뉴시스]이수정 기자 = 연일 기록적인 폭염이 이어지는 가운데 전국 다목적댐 저수량은 예년 수준을 유지하고 있지만, 영남권을 중심으로 강수 부족이 장기화하면서 일부 댐은 이미 '심각' 단계까지 진입하는 등 남부 수계를 중심으로 가뭄 대응이 확대되는 모습이다.",
-      "4일 기후에너지환경부에 따르면 지난 2일 기준 전국 20개 다목적댐의 현재 저수량은 68억4700만t으로 예년 같은 시기 대비 104% 수준이다.",
-      "현재 저수율은 53%로, 전국적인 물."
+      "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다.",
+      "우분투 칼럼에는 인류 ..."
     ],
     "chips": [
-      "#환경"
+      "#교육"
     ]
   },
   {
-    "id": "ndff17322",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003734950",
-    "title": "美 사이클로스포리아 기생충 감염 첫 사망자 2명 발생…모두 기저질환자",
-    "summary": [
-      "[디트로이트=AP/뉴시스] 구자룡 기자 = 미국 미시간주에서 설사를 유발하는 기생충으로 인한 미국 내 첫 2명의 사망자가 보고됐다.",
-      "미시간주 보건 당국은 3일 사이클로스포리아 감염으로 2명이 사망했다고 발표했다.",
-      "이는 미국에서 이 미세기생충과 관련된 첫 번째 사망 사례다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nbd0672c1",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803098800030",
-    "title": "[반려동물] 맞춤형 펫 건강관리 뜬다…관절·눈·장 건강까지 세분화",
-    "summary": [
-      "(서울=연합뉴스) 김세린 기자 = 반려동물의 건강 상태와 생애주기에 맞춰 건강기능식품을 선택하려는 수요가 늘면서 식품업계가 맞춤형 제품과 서비스..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n4b1f4ee1",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803134400004",
-    "title": "\"불합리한 소상공인 규제 찾습니다\" 서울신보 캠페인 실시",
-    "summary": [
-      "(서울=연합뉴스) 황재하 기자 = 서울신용보증재단은 내달 11일까지 '소상공인 생생(生生) 규제혁신 제안' 캠페인을 한다고 4일 밝혔다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n19950646",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803138400030",
-    "title": "롯데 노원점, 17개월 만에 전관 새단장…영업면적 80% 전면 개편",
-    "summary": [
-      "(서울=연합뉴스) 조민정 기자 = 롯데백화점은 지난해 3월부터 약 17개월간의 전관 새단장을 마친 노원점이 4일 그랜드 오픈한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85c916c0",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260803149900002",
-    "title": "상반기 단기사채 990조 발행 역대최대…기업 단기자금 수요 확대",
-    "summary": [
-      "(서울=연합뉴스) 강류나 기자 = 올해 상반기 증권사 및 일반기업의 단기 자금 수요가 대폭 늘어나면서 단기사채 발행 규모가 990조원을 넘어 반..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a64fba8",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "22분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/04/GRIRSIFWAVA47DCFDMXHBNWK2U/",
-    "title": "[팩트체크] 中 DUV 국산화, 정말 반도체 판도 바꿀까",
-    "summary": [
-      "[팩트체크] 中 DUV 국산화, 정말 반도체 판도 바꿀까."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n8210bdfc",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/04/2026080317312093936",
-    "title": "[오늘 날씨] '체감 38도' 수도권·전남 폭염중대경보…곳곳 소나기",
-    "summary": [
-      "화요일인 오늘(4일)은 낮 최고기온이 38도까지 오르며 무더위가 이어지겠고, 충청권과 전라권, 제주도 등에는 소나기가 내리는 곳이 있겠다.",
-      "기상청에 따르면 이날 전국 대부분 지역에 폭염특보가 발효된 가운데 낮 동안 오른 기온이 밤에도 충분히 내려가지 않아 열대야가 나타나는 곳이 많겠다.",
-      "특히 폭염중대경보가 내려진 서울서남권·서울동남권·하남·오산·여주서부 등 수도권과 광주동부·장성·보성·여수·순천·광양·곡성북부·곡성남부 등 전남권은 최고 체감온도."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne72762d0",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/estate/2026/08/04/2026080319260453837",
-    "title": "\"집, 사는 것 아닌 사는 곳\" 거주에 방점...'비거주' 1주택도 종부세 폭탄",
-    "summary": [
-      "[2026년 세제개편안] (上) ━비거주 1주택에도 '종부세 폭탄'…장특공제 '거주'만 인정한다━ 정부가 비거주·초고가·다주택에 부담을 더 주는 방식으로 종합부동산세를 개편한다.",
-      "특히 비거주 주택은 각종 공제를 줄여 1주택이어도 종부세를 더 많이 내도록 설계했다.",
-      "주택 양도소득세 장기보유특별공제는 거주 중심으로 개편하고, 공제 한도를 10억원까지 설정한다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n16f1b308",
+    "id": "n883301f6",
     "category": "사회",
     "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/04/EFY2ZEFNGZECPOEZ2OEFJ6LCVU/",
-    "title": "체지방률·근육량까지 20가지 정보 인바디 체중계, 2만원대 단독 특가",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/04/R2M7C23EEBCMRGYDTIRWK4APKQ/",
+    "title": "[그 영화 어때] 하츄핑 보러갔는데 울보 공주만 징징대네, ‘사랑의 하츄핑2′",
     "summary": [
-      "체지방률·근육량까지 20가지 정보 인바디 체중계, 2만원대 단독 특가."
+      "[그 영화 어때] 하츄핑 보러갔는데 울보 공주만 징징대네, ‘사랑의 하츄핑2′."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc3b18e17",
+    "id": "na1149132",
     "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/04/URLFPXZSYZFJTHTSC6EH34CZ74/",
-    "title": "지금 한국에서 가장 맛있는 사과가 나는 곳, 강원 부사 조선몰 단독 특가",
+    "source": "동아일보",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260804/134415965/1",
+    "title": "트럼프 “이란, 참수 전 마지막 기회…호르무즈 개방 고강도 압박”",
     "summary": [
-      "지금 한국에서 가장 맛있는 사과가 나는 곳, 강원 부사 조선몰 단독 특가."
+      "도널드 트럼프 미국 대통령이 3일(현지 시간) 이란 지도부를 향해 “참수(decapitation) 전에 마지막 기회를 주고 싶다”며 고강도 압박에 나섰다.",
+      "트럼프 대통령은 이날 백악관에서 ‘대통령 직속 군인 배우자 위원회’ 설립 행정명령에 서명한 뒤 취재진과 만나 사우디아라비아와 아랍에미리트(UAE), 카타르 등 중동 국가들과 이란의 요청을 받아들여 대이란 공습을 취소했다고 밝혔다.",
+      "그는 취소된 공격이 실행됐다면 “제2차 세계대전 이후 최대 규."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n505e0a49",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "33분 전",
+    "url": "https://www.hankyung.com/article/2026080429087",
+    "title": "\"지옥 열렸다\" 직접 나선 '돌려차기 피해자'…한동훈 만난다",
+    "summary": [
+      "\"지옥 열렸다\" 직접 나선 '돌려차기 피해자'…한동훈 만난다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nffae2f77",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "40분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260804/134415960/1",
+    "title": "트럼프 “석유 회사들, 이란 전쟁 고유가로 너무 많은 돈 벌어”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 2일(현지시간) 주요 석유 기업들이 이란 전쟁에 따른 고유가로 “너무 많은 돈을 벌고 있다”며 비난하고 나섰다.AFP에 따르면, 트럼프 대통령은 이날 워싱턴DC 백악관 집무실에서 기자들에게 “마음에 들지 않는다.",
+      "그들은 너무 많은 돈을 벌고 있다.",
+      "공급 부족을 기반으로 너무 많은 돈을 벌고 있다”고 말했다.트럼프 대통령은 “그들은 이익의 일부를 국민에게 돌려줘야 하며 소매 가격, 소비자 가격을 인하해야 한다”고 주장."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4786e779",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803147900017",
+    "title": "'스벅 사태' 뒤 커피시장 흔들…투썸, 석달째 결제액 앞서",
+    "summary": [
+      "(서울=연합뉴스) 한상용 기자 = 스타벅스의 이른바 '탱크데이' 논란 이후 국내 커피 프랜차이즈 시장의 결제액 판도에 변화가 나타나고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5ca3de01",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "49분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260803126800030",
+    "title": "폭염에 '냉기 사수' 작전…로만셰이드·도어커튼 검색 급증",
+    "summary": [
+      "(서울=연합뉴스) 구정모 기자 = 폭염이 이어지면서 직사광선을 막는 로만셰이드와 냉기 유출을 줄이는 도어커튼 등 '패브릭 차단' 제품을 찾는 소..."
     ],
     "chips": [
       "#뉴스"
@@ -646,8 +649,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
