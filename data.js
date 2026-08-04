@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-04 12:34:33
+// 마지막 업데이트: 2026-08-04 13:32:33
 window.NEWS_DB = [
   {
     "id": "n9555b05c",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BZW9ocXZ3R0k3UGVfSTZYTlZ5NGFMQl9FemdGMTlIamFlUklPSklnR01LYmFEMVI1YUZidHpGWTFSZzFRZkg2OW1CUVYyQmxxU0p1cTJ4a1V3SUJSZzViQ1VwWWloSGtuVnY2ZEpCdw?oc=5",
     "title": "D램 매출 점유율 1위 내줬던 삼성전자, 1년만에 탈환",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "na033b446",
     "category": "IT",
     "source": "코인리더스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92bXR1cFJIT0FTU1d0dGNPUXdQNWFJM0UyV1ZXZlhydVBlX3lzdllLZUIxeFpvRkZzZGp5Q1dsem1GbndXSjlZaDlB?oc=5",
     "title": "엔비디아 등 AI 반도체 3대장, 목표가 '대폭상향'...\"내년까지 50% 더 오른다\"",
     "summary": [
@@ -63,12 +63,12 @@ window.NEWS_DB = [
   {
     "id": "na5600956",
     "category": "IT",
-    "source": "지디넷코리아",
+    "source": "zdnet.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HeGEtOUdPYkw1enRmd2pkc2lCNUdfS1lONFNlMzVoU05VWVF3cUdwbS0yOUpiVEoxdjQ3bFY5N2pwNGQzeEs3RURXT21vMFZLM1F3OEJn?oc=5",
     "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
     "summary": [
-      "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화 지디넷코리아."
+      "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화 zdnet.co.kr."
     ],
     "chips": [
       "#AI",
@@ -106,26 +106,26 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "n0c06c07a",
+    "id": "n8ba4b4fa",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "머니투데이",
     "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
-    "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lNHJLZzhEdGREMDBvNktGLTdtQ1A4ZEFZaTVDYnA1clN0OE40Nm9hQkE0T0RaeGJfZHdXV3lJNFdrNWhEN08wZEFuRHRQU3pDYktvQ0w1dnNFemcwMnhIMWZMMm9TOXPSAWxBVV95cUxQaV8tWDFiNGs5QUE2WERwaE5JRmRjbDMta2twQlYtcXlhTF9GYTVRNHlTeDdzUGhGa0V6MkhrcDY2QlgtUXlCdWVDUXVVQ25FSkh1ek1OU1U4OXBBbkJMdkdtLUZOQ0EtZkhjSVA?oc=5",
+    "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" 유니콘팩토리."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 머니투데이."
     ],
     "chips": [
       "#스타트업"
@@ -165,12 +165,12 @@ window.NEWS_DB = [
   {
     "id": "n94aa4795",
     "category": "IT",
-    "source": "서울Pn",
+    "source": "go.seoul.co.kr",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9rMVZVaURKMmdNMzRaWkxGYmhSLXRfVDRiQ2d3aTg2VEZ3a1QxRFNVNzdmN05YMU5HcU5BYlN4SWcwanlrVmNPMnAyR2xiYzZEYXdVZmswcW1DN084VGR1NEQ3eWN2YzRRU0V0ZkFOYW8zYTdXNEpHam0yNkZBVmhPUQ?oc=5",
     "title": "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집",
     "summary": [
-      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 서울Pn."
+      "스타트업·벤처의 유니콘 도약을 돕는 성장사다리 「유니콘브릿지」 참여기업 모집 go.seoul.co.kr."
     ],
     "chips": [
       "#스타트업",
@@ -180,12 +180,12 @@ window.NEWS_DB = [
   {
     "id": "nc01e8f2e",
     "category": "사회",
-    "source": "브릿지경제",
+    "source": "viva100.com",
     "time": "36일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
-      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
+      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 viva100.com."
     ],
     "chips": [
       "#AI",
@@ -241,12 +241,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "67일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -256,12 +256,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "biz.heraldcorp.com",
+    "source": "헤럴드경제",
     "time": "84일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
@@ -310,6 +310,22 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n7bb18b00",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003735205",
+    "title": "\"5년 전 양육비 안 받기로 했는데\"…이제 와 '과거 양육비' 청구하는 남편",
+    "summary": [
+      "[서울=뉴시스]이지영 기자 = 이혼 당시 양육비를 지급하지 않기로 합의했더라도 수년 뒤 과거 양육비를 청구하면 지급해야 할까.",
+      "전문가는 조정조서에서 지급하지 않기로 합의한 과거 양육비를 소급해 청구하기는 어렵다고 판단했다.",
+      "류현주 법무법인 신세계로 변호사는 4일 '조인섭 변호사의 상담소'에 출연해 이혼 당시 친권과 양육권을 넘긴 뒤 5년 만에 아이들을 다시 데려오려는 여성의 사연에 대해 이같이 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -378,260 +394,240 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na74b5f61",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/04/GNSDSMZZMU4TEYJTMJTDGNRYGQ/",
-    "title": "대만에서 온 왕서방이 해냈다! 한화, 삼성 꺾고 3연패 탈출...노시환 멀티히트+쐐기타 [대구 리뷰]",
+    "id": "n6c0a2cb2",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/04/2026080422104397236",
+    "title": "카타르 \"미국-이란에 '협상 재개' 합의안 초안 전달…양측 검토 중\"",
     "summary": [
-      "[OSEN=대구, 손찬익 기자] 프로야구 한화 이글스가 3연패의 늪에서 벗어났다.",
-      "왕옌청이 아시아쿼터 투수 최초로 10승 고지를 밟았다.",
-      "한화는 4일 대구삼성라이온즈파크에서 열린 삼성 라이온즈와의 원정 경기에서 4-1로 승리했다."
+      "[미국-이란 전쟁] 미국과 이란이 중재국을 통해 협상 재개를 위한 합의안 초안을 마련 중이라고 4일(현지시간) 카타르 정부가 밝혔다.",
+      "블룸버그통신 등에 따르면 카타르 정부 대변인은 이날 중재국이 마련한 합의안 초안이 미국과 이란에 전달됐고, 양국이 초안을 검토하고 있다고 말했다.",
+      "다만 그는 아직 최종 합의에 도달한 것은 아니라고 경고하며 합의 타결 시점 등 구체적인 일정은 언급하지 않았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nffa57b66",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003736408",
+    "title": "[KBO 내일의 선발투수]8월5일(수)",
+    "summary": [
+      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 8월5일(수)> ▲잠실(오후 6시30분) NC (라일리 톰슨) - (최민석) 두산 ▲대구(오후 6시30분) 한화 (박준영) - (크리스 페덱) 삼성 ▲사직(오후 6시30분) 키움 (안우진) - (박세웅) 롯데 ▲문학(오후 6시30분) LG (임찬규) - (토마스 해치) SSG ▲광주(오후 6시30분) KT (로건 앨런) - (아담 올러) KIA."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n07f143ab",
+    "id": "n9e6f9a43",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804165100527",
-    "title": "인천 영종·영흥권 2개 군구 오존주의보 해제",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260804/134421985/1",
+    "title": "미션 수행하면서 함께 즐기는 신개념 랠리…토요타, 내달 보령서 ‘TGR 랠리 플레이’ 개최",
     "summary": [
-      "(인천=연합뉴스) 인천 영종·영흥권 2개 군구에 내려진 오존주의보가 4일 오후 9시 해제됐다고 환경부 한국환경공단이 전했다."
+      "도요타가 일반 고객이 직접 참여하는 랠리 프로그램을 국내에서 처음 선보인다.도요타코리아는 첫 고객 참여 랠리 프로그램인 ‘TGR 랠리 플레이(TGR Rally Play)’를 내달 5일 충청남도 보령시 아주자동차대학교와 보령 일대에서 개최한다고 27일 밝혔다.",
+      "TGR 랠리 플레이는 도요타 가주레이싱(TOYOTA GAZOO Racing) 핵심 철학(도로가 사람을 만들고, 사람이 차를 만든다)을 고객이 직접 경험할 수 있도록 기획한 프로그램이다."
     ],
     "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nad8a112d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804165000527",
-    "title": "경기 중부권 11개 시 오존주의보 해제",
-    "summary": [
-      "(수원=연합뉴스) 경기 중부권 11개 시에 내려진 오존주의보가 4일 오후 9시 해제됐다고 환경부 한국환경공단이 전했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n31889a46",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003736496",
-    "title": "\"내 아이 리틀 워런 버핏으로\"…中 부모들, 금융교육 캠프로",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 중국에서 자녀를 '리틀 워런 버핏'으로 키우겠다는 목표를 내건 금융지능(FQ·Financial Quotient) 교육캠프가 인기를 끌고 있다.",
-      "장기화하는 취업난 속에서 부모들이 자녀에게 어릴 때부터 금융 감각과 창업 역량을 길러주려는 수요가 커진 영향으로 풀이된다.",
-      "지난 2일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 최근 2년 사이 중국에서는 자녀의 미래를 걱정하는 부모들 사이에서 FQ 교육."
-    ],
-    "chips": [
-      "#취업",
       "#교육"
     ]
   },
   {
-    "id": "n44bb191b",
+    "id": "n95c8f073",
     "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/04/GBTGGMDGG5STKY3FMYYTSNLDGE/",
-    "title": "번아웃인가.. 박지윤, 서울살이 청산 \"바쁘다 바빠 현대사회\"",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003735328",
+    "title": "화분은 두고 식물만 '쏙'…영업 끝난 가게 노린 남성의 황당 범행",
     "summary": [
-      "[OSEN=김수형 기자] 방송인 박지윤이 서울살이를 마무리하며 바쁜 일상을 솔직하게 털어놨다.박지윤은 4일 자신의 SNS에 \"바쁘다 바빠 현대사회\"라는 글과 함께 근황 사진을 공개했다.그는 \"이번 주면 서울살이도 끝이라 할 일도, 마무리할 것도, 만날 사람도 너무 많다\"며 \"내 체력과 멘탈이 점점 고갈되는 중\"이라고 솔직한 심경을 전했다.이어 \"일하다 말고."
+      "[서울=뉴시스]이지우 인턴 기자 = 영업이 끝난 가게에 접근해 화분 속 식물을 뽑아버린 뒤 도주한 남성이 목격됐다.",
+      "3일 JTBC '사건반장'은 충북 옥천에서 쪽갈비집을 운영하는 A씨의 제보를 보도했다.",
+      "지난 2일 오전 3시 50분께 A씨가 운영하는 가게에 한 남성이 접근했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n563d7baf",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "n4ea56b5a",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003736451",
+    "title": "'요동친 7·8회' SSG, LG 추격 뿌리치고 10-8 진땀승…LG 3연패 수렁",
+    "summary": [
+      "[인천=뉴시스]김희준 기자 = 프로야구 SSG 랜더스가 LG 트윈스를 3연패의 수렁으로 몰아넣었다.",
+      "SSG는 4일 인천 SSG랜더스필드에서 벌어진 2026 신한 쏠 KBO리그 LG와의 경기에서 끈질긴 추격을 뿌리치고 10-8로 진땀승을 거뒀다.",
+      "LG전 4연패를 끊은 SSG는 39승 4무 60패를 기록하며 9위를 유지했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nad1a8340",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260804/134421853/1",
-    "title": "한국다우, 진동아 신임 대표이사 선임…산업용 중간재·인프라 세일즈 리더 겸임",
+    "url": "https://www.yna.co.kr/view/AKR20260724168159007",
+    "title": "[프로야구] 5일 선발투수",
     "summary": [
-      "화학 기업 한국다우는 산업용 중간재 및 인프라(II&I, Industrial Intermediates & Infrastructure) 부문 시니어 세일즈 리더인 진동아 이사를 신임 대표이사 사장으로 선임한다고 4일 밝혔다.",
-      "기존 II&I 부문 세일즈 리더 직책은 겸임한다.",
-      "이창현 전임 사장은 다우 컨슈머솔루션사업부 아시아·태평양 지역 기술지원 및 개발(TS&D) 디렉터로 자리를 옮겨 역할을 확대한다.진동아 신임 사장은 지난 2010년 다우에 입."
+      "[프로야구] 5일 선발투수."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n8d87fa25",
-    "category": "경제",
-    "source": "아시아경제",
+    "id": "n62f46529",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026080421222568059",
-    "title": "\"삼전닉스, 하루새 반토막 날 수도\"…월가 판돈 몰린다는데",
+    "url": "https://www.yna.co.kr/view/AKR20260724167959007",
+    "title": "[프로야구 중간순위] 4일",
     "summary": [
-      "전 세계 금융시장에서 레버리지 상장지수펀드(ETF) 시장이 폭발적으로 커지면서 이를 둘러싼 리스크 관리 방식도 함께 진화하고 있다.",
-      "특히 월가 대형 투자은행(IB)들이 극단적 주가 급락에 대비해 '크래시 풋(Crash Put)'이라는 장외 파생상품을 적극 활용하는 흐름이 두드러지는 모습이다.",
-      "표면적으로는 헤지 전략이지만 실질적으로는 대규모 손실 가능성을 외부 투자자에게 이전하는 구조라는 점에서 시장의 경계심도 커지고 있."
+      "[프로야구 중간순위] 4일."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "naaa14277",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026080421234072302",
-    "title": "美, 데이터센터 中 부품 수입 막나…로이터 \"법안 초안 작성\"",
-    "summary": [
-      "도널드 트럼프 미국 행정부가 국가 안보를 강화하기 위해 자국 내 데이터센터에 쓰이는 중국산 일부 부품의 수입 금지 법안을 마련하고 있다는 현지 보도가 나왔다.",
-      "로이터통신은 4일(현지시간) 관련 사안에 정통한 관계자 말을 인용해 미국 연방통신위원회(FCC)가 인공지능(AI) 핵심 인프라를 보호하기 위해 중국산 신형 광트랜시버 수입을 금지하는 법안 초안을 작성하고 있다고 전했다.",
-      "광트랜시버는 데이터센터 간 정보 송·."
-    ],
-    "chips": [
-      "#AI",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n00a5d39d",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804103351054",
-    "title": "민형배 시장 \"전남광주시, 무안 국가산단 지정위해 분양 보증\"(종합)",
-    "summary": [
-      "(전남광주=연합뉴스) 장덕종 정다움 기자 = 민형배 전남광주통합특별시장은 4일 광주 군공항 이전 후보지인 무안군이 요구하는 국가산단 지정과 관련..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0a22a363",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/08/04/YETPSUBU3BHCXIKQ4XWSGVJQS4/",
-    "title": "서범수 “돌려차기 한판” 발언 논란에 “실언, 전적으로 저의 잘못” 사과",
-    "summary": [
-      "서범수 “돌려차기 한판” 발언 논란에 “실언, 전적으로 저의 잘못” 사과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc04a383",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003736489",
-    "title": "카타르, \"미-이란 협상 재개 합의안 마련중\" (1보)",
-    "summary": [
-      "[서울=뉴시스] 김재영 기자 = 미국과 이란이 협상을 재개하기로 합의안을 마련 중이라고 4일 낮 중재국 중 하나인 카타르가 말했다.",
-      "외신에 따르면 카타르 대변인은 이날 제안서가 당사국 사이에 회람되고 있다고 말했다.",
-      "다만 아직 미국과 이란은 초안대로 대화 재개에 합의한 것은 아니라는 것이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0215e350",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260804/134419320/1",
-    "title": "1948년 이후 최대 형사사법 체계 개편…그동안 어떻게 변해왔나",
-    "summary": [
-      "수사권과 기소권은 수십 년 동안 경찰과 검찰 사이에서 여러 차례 조정을 겪었다.",
-      "한 기관의 권한이 비대해질 경우 이를 견제하기 위한 조치가 뒤따랐기 때문이다.",
-      "1948년 문을 연 검찰은 1954년 제정된 형사소송법을 근거로 수사권과 기소권을 모두 행사해 왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nede2e9d7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260804/134421701/2",
-    "title": "‘자선 모금’ 자전거 호주 횡단 성공한 80대, 다음날 사망",
-    "summary": [
-      "호주에서 루게릭병 환자들을 위한 자선기금 모금을 위한 5200㎞ 자전거 횡단에 도전한 80대 남성이 완주 다음날 숨졌다.",
-      "그의 여섯번째 모금 라이딩이었다.4일(현지 시간) 영국 가디언에 따르면 밥 몽고메리는 호주 북서부 브룸에서 뉴사우스웨일스주 보랄까지 약 5200㎞를 달리는 자전거 횡단을 마친 뒤 82세의 나이로 세상을 떠났다.",
-      "유가족에 따르면 고인은 ‘루게릭병’으로 알려진 운동신경원병(MND) 환자를 돕기 위한 모금 라이딩을 손자 톰과 함께."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7b89265d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804164500527",
-    "title": "경기 남부권 5개 시 오존주의보 해제…중부권은 오존주의보 유지",
-    "summary": [
-      "(수원=연합뉴스) 경기 남부권 5개 시에 내려진 오존주의보가 4일 오후 9시 해제됐다고 환경부 한국환경공단이 전했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n58b96c14",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003736493",
-    "title": "[올댓차이나] 대만 증시, 이익확정 매물에 3거래일 만에 소폭 반락…0.06%↓",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 대만 타이베이 증시는 4일 차익 실현 매물이 선행하면서 3거래일 만에 소폭 반락 마감했다.",
-      "자취안(加權) 지수는 이날 전일 대비 25.75 포인트, 0.06% 내려간 4만3360.66으로 폐장했다.",
-      "4만3092.49로 시작한 지수는 4만2893.81~4만3912.77 사이를 오르내렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6aa6b05",
+    "id": "n30e7dcdd",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804163200008",
-    "title": "한국거래소, 변동성 장세에 선물·옵션 증거금률 대거 인상",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804167400071",
+    "title": "美재무 \"원화 과도한 변동성…엔화약세면 다른 통화도 뒤따라\"",
     "summary": [
-      "(서울=연합뉴스) 황철환 기자 = 국내 주식시장이 여전히 높은 변동성을 보이는 가운데 한국거래소가 코스피200과 코스닥150, 삼성전자[0059..."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 스콧 베선트 미국 재무장관은 4일(현지시간) 엔화 부양에 따른 연쇄적인 기대 효과를 언급하면서 한국 원화가..."
     ],
     "chips": [
-      "#삼성전자"
+      "#뉴스"
     ]
   },
   {
-    "id": "n8d82400e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003736474",
-    "title": "박지윤 \"이번 주면 서울살이 끝…멘탈 고갈되는 중\"",
+    "id": "n206c8c35",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804167800007",
+    "title": "폭염 속 치러진 프로야구 경기 중 관중 한 명 쓰러져 병원 이송",
     "summary": [
-      "[서울=뉴시스] 이종희 기자 = 방송인 박지윤이 서울살이를 마무리 한다고 전했다.",
-      "박지윤은 4일 소셜미디어에 \"바쁘다 바빠 현대 사회.",
-      "이번 주면 서울살이도 끝이라 할 일도 마무리 할 것도 만날 사람도 너무 많은데 내 체력이 멘탈이 점점 고갈되는 중\"이라고 적었다."
+      "(인천=연합뉴스) 김경윤 기자 = 폭염 속 치러진 프로야구 경기 중 관중 한 명이 쓰러져 경기가 중단되는 상황이 발생했다."
+    ],
+    "chips": [
+      "#KBO",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n98b920f2",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/04/2026080419510583654",
+    "title": "SSG '한 이닝 스리런 두개' 7득점→LG '대타쇼'에 6실점, SSG '어쨌든 이겼다'... 김민준 '3연속 QS' 구단 새 역사 [인천 현장리뷰]",
+    "summary": [
+      "SSG 랜더스가 '천적' LG 트윈스를 완파했다.",
+      "김재환과 조형우가 쌍포를 터뜨리며 낙승을 예상했지만 LG의 매서운 추격 속에 진땀승을 거뒀다.",
+      "SSG는 4일 인천 SSG랜더스필드에서 열린 LG와 2026 신한 SOL KBO리그 홈경기에서 10-8로 이겼다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n07a7a050",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260804/134421900/1",
+    "title": "정성호 “뒷감당 어떻게 하려고…판사님도 수사하셔야 합니다”",
+    "summary": [
+      "검사의 수사권을 폐지하는 형사소송법 개정안에 대해 정성호 법무부 장관이 “너무 걱정된다.",
+      "나중에 뒷감당을 어떻게 하려고, 문제가 어마어마하게 나올 것”이라고 우려를 표명했다.",
+      "4일 오후 대법원 대법관후보추천위원회에 추천위원 자격으로 참석한 정 장관은 회의 시작 전 다른 추천위원들과 사전 접견하는 자리에서 “진짜 걱정이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na1293fd1",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/04/2026080420043566387",
+    "title": "[한번에쓱] '웬디도 상의탈의하게 만든' 보디빌더 김강민",
+    "summary": [
+      "랜더스 승리기원시구를 한 김강민이 4일 인천SSG랜더스필드에서 열린 2026KBO리그 SSG랜더스와 LG트윈스 경기 5회말 종료 후 랜더스 응원단상에 올라 팬들과 이벤트에 참여하고 있다.",
+      "웬디도 흥분해 상의를 벗고 포즈를 취하고 있다.",
+      "혼자는 상의 못벗여요!..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne4854140",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "22분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260804221003",
+    "title": "HCL테크, HPE 텔코 솔루션 사업부 인수 완료",
+    "summary": [
+      "[지디넷코리아] AI 시대 통신 서비스 제공업체를 위한 엔지니어링 기반 통신 솔루션 강화 뉴욕 및 인도 노이다, 2026년 8월 4일 /PRNewswire/ -- 세계적인 글로벌 기술 기업 HCL테크(HCLTech, NSE: HCLTECH, BSE: HCLTECH)가 HPE의 텔코 솔루션(Telco Solutions) 사업부 인수를 성공적으로 완료했다고 발표했다.",
+      "2025년 12월 발표된 이번 인수는 AI 및 엔지니어링 기반의 통신 솔루션을 통."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n0f72775c",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804166600071",
+    "title": "美재무, 이란 호르무즈 통행료 여부 확답없이 \"금명간 합의 가능\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 스콧 베선트 미국 재무장관은 4일(현지시간) 이날 또는 5일에 이란과 호르무즈 해협 개방에 관한 합의가 이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n69ccf4c5",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260804/134421380/1",
+    "title": "정정용 감독, 이동경과 ‘팀 K리그’에서 재회해 “1년 만에 선물 전달”",
+    "summary": [
+      "“(이)동경(29·울산)이에게 거의 1년을 기다려 선물을 줬다.”‘팀 K리그’의 사령탑을 맡은 정정용 프로축구 K리그1(1부) 전북 감독(57)이 쿠팡플레이 시리즈를 앞두고 4일 열린 기자회견에서 이동경과의 ‘재회’에 대해 이렇게 말했다.",
+      "이날 기자회견에 참석한 이동경, 무고사(34·인천)를 비롯해 K리그1 간판스타들로 꾸려진 팀 K리그는 5일 서울월드컵경기장에서 잉글랜드 프리미어리그(EPL) 맨시티와 친선 경기를 치른다.정 감독은 “한 팬분이."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n6b9e92f2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/08/04/2FVOE354FJFYJDCHYNJRFVIAOA/",
+    "title": "정성호 법무장관, 민주당 주도 형소법 개정에 “뒷감당 어떻게 하려고”",
+    "summary": [
+      "정성호 법무장관, 민주당 주도 형소법 개정에 “뒷감당 어떻게 하려고”."
     ],
     "chips": [
       "#뉴스"
@@ -643,21 +639,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
+    "tag": "KBO",
+    "mentions": "2200건",
+    "trend": "+235%"
+  },
+  {
+    "rank": 2,
     "tag": "AI",
     "mentions": "2070건",
     "trend": "+215%"
   },
   {
-    "rank": 2,
-    "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
-  },
-  {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
