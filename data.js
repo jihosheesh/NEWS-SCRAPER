@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-04 15:45:47
+// 마지막 업데이트: 2026-08-04 16:35:01
 window.NEWS_DB = [
   {
     "id": "n9555b05c",
     "category": "IT",
     "source": "뉴스톱",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BZW9ocXZ3R0k3UGVfSTZYTlZ5NGFMQl9FemdGMTlIamFlUklPSklnR01LYmFEMVI1YUZidHpGWTFSZzFRZkg2OW1CUVYyQmxxU0p1cTJ4a1V3SUJSZzViQ1VwWWloSGtuVnY2ZEpCdw?oc=5",
     "title": "D램 매출 점유율 1위 내줬던 삼성전자, 1년만에 탈환",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n5c09d452",
     "category": "경제",
     "source": "소년한국일보",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1BqOXR2TnBqanhaNF9PWVRrOXpRZDFrRjU4WGtZQ1d0S1JYU1JCbUotTUEyQmE5NzdBZDVlclFwX3pwZUxGMGJGU0Z0ckZ4c0NpckhFdzBsc0w3aDc3QVA1QW1IdW9aa3dfVdIBcEFVX3lxTE01VEEzeXJtMl85QTU0NEtoaWU4dEQ3eE9KckZFelY5bWVMdU9wdzZSaGdYZzd5UE9ObzFhaXhJcnBLbVo0Tm4wcFBsaGc2Q2FDX3IySW1qcUZQcXZLbG0xNUgzZUlJSjdEZGVfZktQSlM?oc=5",
     "title": "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는?",
     "summary": [
@@ -239,6 +239,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne8705e6a",
+    "category": "사회",
+    "source": "시장경제신문",
+    "time": "67일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtRl9IeVUzNEVJa0lPZG1nU2gxSmJhdXFkem5GSHVGSnlLTE9XWm95ZVI2WTdhRFhQNkg1VzNHTWI1Z09KYllXWFlZRDl0dnFiSm1VMk5id2J4RWFsbmdzLV82NjU4aGdZMGVfQWczeUI?oc=5",
+    "title": "엘앤에프, 대구고용노동청과 청년 일자리 확대 맞손",
+    "summary": [
+      "엘앤에프, 대구고용노동청과 청년 일자리 확대 맞손 시장경제신문."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -251,6 +265,20 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n37646dcf",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "68일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "summary": [
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -280,36 +308,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "162일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nef414906",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "167일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnFQWngtSmZzTHdaeEg0TG9MQ000eXNmZHVPUllrdll3dGdCTTJGVGxETERpTU1xVURzQkRjX1VPeFN3SXBLNmQzT0pjSWN0ZGpCbURhVXowM2M?oc=5",
-    "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-    "summary": [
-      "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저 연합뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -394,102 +392,182 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na9581288",
+    "id": "n82d8baee",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003735532",
-    "title": "\"각자 모은 돈의 절반 내자\"…예비부부 갈라놓은 '반반 결혼' 기준",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260805_0003736545",
+    "title": "미 6월 구인 736만건…감소에도 고용시장 안정세",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 5년 동안 만남을 이어온 예비부부가 '반반 결혼'의 비용 부담 기준을 놓고 의견 차이를 보이며 갈등을 빚은 사연이 공개됐다.",
-      "정일영 인하대학교 영미유럽인문융합학부 초빙교수의 유튜브 채널 '악성 내성인 정일영'에는 최근 결혼 준비 과정에서 돈 문제로 연인과 마찰을 겪고 있다는 한 여성의 이야기가 올려졌다.",
-      "연애 기간에는 데이트 비용으로 크게 다툰 적이 없었으나, 본격적인 결혼 준비에 들어서자 예비신랑이 제시한."
+      "[서울=뉴시스] 신효령 기자 = 미국 기업의 구인 규모가 지난 6월 소폭 감소했지만 시장 예상에는 대체로 부합했다.",
+      "해고도 낮은 수준을 유지하면서 노동시장이 급격히 위축되고 있다는 신호는 나타나지 않았다.",
+      "미국 일간 월스트리트저널(WSJ) 등에 따르면 미 노동부 노동통계국(BLS)은 4일(현지시간) 발표한 구인·이직보고서(JOLTS)에서 6월 구인 건수가 735만9000건으로 집계됐다고 밝혔다."
     ],
     "chips": [
-      "#교육"
+      "#채용",
+      "#고용"
     ]
   },
   {
-    "id": "nec73bc41",
+    "id": "nbc979a95",
     "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/education/2026/08/05/AHNDBTKWZ5FNDBAO4C75ETHVYI/",
-    "title": "EBS로만 하루 9시간 공부, 고려대 입학 “지역 의료 격차 해결하는 사람 될래요”",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804156151109",
+    "title": "도망치는 상인 뒤쫓아 쾅…자폭드론 영상에 우크라 격분(종합)",
     "summary": [
-      "EBS로만 하루 9시간 공부, 고려대 입학 “지역 의료 격차 해결하는 사람 될래요”."
+      "(로마=연합뉴스) 민경락 특파원 = 러시아군이 조종한 것으로 추정되는 드론이 우크라이나 시장 상인을 공격하는 영상이 소셜미디어에 퍼지면서 비난이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc0efadf4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/05/GVQTIZLFGA4DEOJRHE2TONTFMU/",
+    "title": "‘와’ 이정후 위상 이 정도라니, 트레이드 불발→SF 절대 사수 이유 공개됐다! “LEE 조용하지만 SF 안정시키는 존재 됐다”",
+    "summary": [
+      "[OSEN=이후광 기자] 트레이드 마감일을 맞아 주전을 대거 내보내고 리빌딩을 선언한 샌프란시스코.",
+      "그런데 왜 주축 타자 이정후는 절대 사수했을까.",
+      "샌프란시스코 자이언츠는 4일(이하 한국시간) 주축 선수들을 대거 처분하고 유망주들을 품는 초대형 트레이드를 단행했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd28b3cb6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260805001000087",
+    "title": "쿠바 7월 반정부 시위·항의 1천415건…역대 최다",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 쿠바에서 지난 7월 대정전이 잇따르면서 역대 가장 많은 반정부 시위와 항의가 발생한 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2b2383bf",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804168951098",
+    "title": "세우타 사태에 놀란 EU 긴급회의…국경 강화 등 재발 방지 논의(종합)",
+    "summary": [
+      "(브뤼셀·파리=연합뉴스) 현윤경 송진원 특파원 = 북아프리카의 스페인 자치령인 세우타에서 발생한 대규모 월경 사태로 이주민 유입에 비상이 걸린 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf2503759",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/05/GZTDANZSGZRGMNRTGUYDENRVMQ/",
+    "title": "\"실수? 그래도 2만 명이 기립 박수!\" 독일 현지 언론, 김민재 '영향력' 현장서 지켜봤다",
+    "summary": [
+      "[OSEN=정승우 기자] 김민재(30, 바이에른 뮌헨)가 한국에서 주장 완장을 차고 바이에른 뮌헨을 이끌었다.",
+      "실점 장면에서는 아쉬움을 남겼지만, 교체될 때는 2만 명이 넘는 관중의 큰 박수를 받았다.독일 '빌트'는 4일(한국시간) \"바이에른 스타가 실수했지만 환호를 받았다\"라는 제목으로 김민재의 제주SK전 활약을 조명했다.바이에른 뮌헨은 4일 제주월드컵경."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd2e35655",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260805000900071",
+    "title": "'트럼프 충성파' 美법무 후보, 우여곡절 끝 인준 첫 관문 통과",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령의 개인 변호사 출신으로 맹렬한 충성파인 토드 블랜치 미국 법무장관 후보자가 4일..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne922d158",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/05/GQYTSZBSG44DGYJXGRRDGYLCHA/",
+    "title": "마테오 방출 → 김하성 복귀, 싸늘한 애틀랜타의 시선…바꿀 길은 '타율 0.068' 굴욕 탈출+골글 수비 부활 뿐이다",
+    "summary": [
+      "[스포츠조선 박상경 기자] 한 달 만에 돌아온 클럽하우스, 그러나 분위기가 싸늘하다.",
+      "애틀랜타 브레이브스는 4일(한국시각) 마이너 재활 경기 일정을 마친 김하성을 26인 로스터에 복귀시키면서, 내야수 호르헤 마테오를 지명 할당(DFA) 했다.",
+      "마테오는 김하성이 첫 부상 복귀 이후 부진한 모습을 보이자 주전 유격수로 기용돼 한때 타율 3할 이상을 기록했으나,."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5fa4cec7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003735748",
+    "title": "유독 더위 타고 심장은 두근…갑상선 이상신호?",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 무더위가 이어지는 여름철에는 땀이 많이 나고 쉽게 지치거나 심장이 빠르게 뛰는 증상을 단순히 날씨 탓으로 여기기 쉽다.",
+      "그러나 충분히 쉬었는데도 두근거림과 손떨림이 계속되고, 식사량이 줄지 않았는데도 체중이 감소한다면 갑상선기능항진증을 의심해 볼 필요가 있다.",
+      "5일 의료계에 따르면 갑상선은 목 앞쪽에 있는 나비 모양의 기관으로, 우리 몸의 에너지 사용과 체온, 심장박동 등을 조절하는 갑상선호르몬을 만든다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n3a76d891",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/05/3DRBAVPIOVGB7PFGSP24AMVB64/",
-    "title": "“위험한 순간일수록 가장 앞에서 책임지겠다”",
+    "id": "n3dd909e9",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "34분 전",
+    "url": "https://view.asiae.co.kr/article/2026080422074795475",
+    "title": "슈퍼루키 김민솔, 제주에 뜬다…'이번엔 신인 최다승 도전'",
     "summary": [
-      "“위험한 순간일수록 가장 앞에서 책임지겠다”."
+      "슈퍼루키 김민솔이 제주에서 새로운 기록에 도전한다.",
+      "그는 일 제주도 서귀포시 테디 밸리 골프 앤 리조트의 밸리·테디 코스(파72)에서 열리는 한국여자프로골프(KLPGA) 투어 제주삼다수 마스터스(총상금 10억원)에 출전한다.",
+      "이 대회에서 우승할 경우 KLPGA 투어 한 시즌 루키 최다 우승 기록을 쓴다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndb06f7d0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/nie/japanese/2026/08/05/SM5E5KLUTFFBDLGFFZNSZHXKLM/",
-    "title": "[입에 착착 붙는 일본어] ~할 상황이(처지가) 아니다",
-    "summary": [
-      "[입에 착착 붙는 일본어] ~할 상황이(처지가) 아니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n429c755b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/nie/chinese/2026/08/05/SG2TPXBEKNE45B2S7ZRSJQOYWQ/",
-    "title": "[매일매일 중국어 한마디] 죽을 지경이다, 정말 ~하다",
-    "summary": [
-      "[매일매일 중국어 한마디] 죽을 지경이다, 정말 ~하다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n412778c2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804166651071",
-    "title": "美 \"조만간 호르무즈 합의 기대…이란·오만 협상에 관여중\"(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 도널드 트럼프 행정부는 4일(현지시간) 조만간 이란과 호르무즈 해협 개방에 관한 합의가 이뤄질 것임을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n591b644e",
+    "id": "n7910847b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003735979",
-    "title": "벌레 먹은 옥수수 닭 줬다가…마트 사장에게 항의받은 손님",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003735838",
+    "title": "남보라, 산후조리원서 2kg 감량 공개…전문가가 권하는 안전한 산후 회복법은",
     "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 동네 마트에서 할인가에 팔고 있는 옥수수를 구매한 후 반려 닭에게 간식으로 준 사실을 말하자 마트 사장이 \"물건을 짐승 먹이 취급했다\"고 항의했다는 소비자의 사연이 전해졌다.",
-      "4일 한 온라인 커뮤니티에 따르면 '마트 사장님이 제 말에 상처받으셨다는데요'라는 제목의 글이 올라왔다.",
-      "해당 글 속 작성자 A씨는 그는 최근 동네 마트에서 개당 790원에 판매되는 생옥수수를 여러 개 구매했다."
+      "[서울=뉴시스]이지우 인턴 기자 = 배우 남보라가 출산 후 산후조리 과정을 공개했다.",
+      "3일 남보라는 자신의 유튜브 채널에 산후조리원 생활을 담은 영상을 올렸다.",
+      "남보라는 \"59㎏로 들어왔는데 하루 사이 2㎏이 빠졌다\"면서 부기가 빠지고 있다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n09c87197",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "55분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/05/LUZFGDURHFBZTFG7654BEXLG74/",
+    "title": "프로레슬링 부활 이끈 영업사원과 단역 배우 “고척돔 매진이 꿈”",
+    "summary": [
+      "프로레슬링 부활 이끈 영업사원과 단역 배우 “고척돔 매진이 꿈”."
     ],
     "chips": [
       "#뉴스"
@@ -499,7 +577,7 @@ window.NEWS_DB = [
     "id": "n6ee66f46",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260805000400071",
     "title": "美, '엔화 구하기'에 유로화 썼다…재무장관 \"유럽과 긴밀 접촉\"",
     "summary": [
@@ -510,44 +588,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n91dfa768",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003735425",
-    "title": "\"즐기려고 만났다\"…개원 빚 갚아준 사실혼 아내 쫓아낸 의사",
+    "id": "nc9b3447a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608045039i",
+    "title": "앤스로픽, 또 14.3조원 컴퓨팅확보 계약",
     "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 7년 넘게 사실혼 관계를 유지하며 남편을 뒷바라지해온 40대 여성이 남편의 폭행에 이어 집에서 나가라는 황당한 통보까지 받아 분노를 사고 있다.",
-      "3일 JTBC '사건반장'에 따르면 강사로 일하는 40대 여성 A씨는 지인 소개로 자신보다 7세 많은 의사 남성을 만나 함께 살기 시작했다.",
-      "혼인신고는 하지 않았지만 아이가 생기면 하기로 약속했고, 명절마다 양가에 인사를 다니며 주변에서도 부부로 인정받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00de9ee7",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804170700061",
-    "title": "열대야에 정전까지…수원 아파트주민 20여명 한때 행정센터 대피",
-    "summary": [
-      "(수원=연합뉴스) 김지원 기자 = 열대야가 기승을 부린 4일 경기 수원시의 한 아파트에서 정전이 발생해 주민 일부가 행정복지센터로 대피하는 등 ..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n96f15c95",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260805000300081",
-    "title": "'축구의 신' 메시, 스페인 산불 피해 지역에 1억원대 기부",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = '축구의 신' 리오넬 메시가 스페인 마드리드 서부 산불 피해 지역을 돕기 위해 8만 유로(약 1억3천만원)를..."
+      "앤스로픽, 또 14.3조원 컴퓨팅확보 계약."
     ],
     "chips": [
       "#뉴스"
@@ -557,7 +605,7 @@ window.NEWS_DB = [
     "id": "nd44b7df9",
     "category": "사회",
     "source": "동아일보",
-    "time": "43분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260805/134422211/1",
     "title": "‘살롱드립’ 영케이 “성진·원필 편 안 봐…배 아파서” 웃음",
     "summary": [
@@ -572,59 +620,13 @@ window.NEWS_DB = [
     "id": "nbc1f9cca",
     "category": "사회",
     "source": "동아일보",
-    "time": "44분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260805/134422207/1",
     "title": "‘MJ’ 이민정 “이병헌, 유튜브 활동 양날의 검이라고 생각해”",
     "summary": [
       "배우 이민정이 유튜브 활동에 대한 고민을 털어놨다.4일 오후 배우 이민정의 유튜브 채널 ‘이민정 MJ’에는 이민정과 허경환의 일대일 팬미팅 현장을 담은 영상이 게재됐다.허경환이 팬으로 깜짝 등장해 이민정을 놀라게 했다.",
       "약 14년 전 팬심으로 이민정의 팬미팅 사회를 보기도 했던 허경환.",
       "그는 그동안 배우로 활발히 활동하며 예쁜 가정을 꾸리고, 유튜브에서도 성공을 거둔 이민정의 근황에 감탄했다.이민정은 유튜브 채널의 성공에 대해 “배우한테는 독이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f2fe1b9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260805/134422203/1",
-    "title": "‘산골총각’ 차승원, 아이돌 얘기에 “난 요즘 투어스야”",
-    "summary": [
-      "차승원이 투어스 노래에 빠졌다고 전했다.4일 오후 방송된 SBS 예능 프로그램 ‘산골총각 영웅’에서는 가수 임영웅이 산골 집에 배우 차승원, 김도훈을 초대해 진솔한 대화를 나눴다.이 자리에서 김도훈이 “평소 어떤 노래 많이 듣냐?”라며 궁금해했다.",
-      "임영웅이 “난 다양하게 다 듣는 것 같아.",
-      "하고 싶은 게 많은 만큼 (음원 사이트) 차트 안에 있는 음악은 다 들으려고 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne0fb6529",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260805/134422197/1",
-    "title": "‘위대한가이드3’ 최다니엘 “모로코, 처음으로 또 가고 싶은 나라”",
-    "summary": [
-      "‘위대한 가이드3’ 최다니엘이 모로코 여행기에 만족감을 드러냈다.4일 오후 방송된 MBC에브리원 예능 프로그램 ‘위대한 가이드3’에서는 박명수, 김대호, 최다니엘, 이무진 ‘사형제’의 모로코 여행기가 담겼다.",
-      "모로코 가이드로 밴드 ‘오마르와 동방전력’의 오마르가 함께했다.설산부터 바다, 사막까지 모로코의 다채로운 풍광을 담은 여행 장면이 공개됐다.",
-      "김대호는 “영화 다섯편을 섞어 놓은 것 같다”, 박명수는 “종합 선물 세트다”라고 모로코 여행을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb9a5ad3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "45분 전",
-    "url": "https://www.hankyung.com/article/2026080319767",
-    "title": "[오늘의 운세] 8월 5일 별자리 운세, 나를 지키는 저속노화 루틴",
-    "summary": [
-      "[오늘의 운세] 8월 5일 별자리 운세, 나를 지키는 저속노화 루틴."
     ],
     "chips": [
       "#뉴스"
