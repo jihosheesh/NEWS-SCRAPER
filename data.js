@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-04 06:53:21
+// 마지막 업데이트: 2026-08-04 07:50:58
 window.NEWS_DB = [
   {
     "id": "n76d11ca2",
     "category": "IT",
     "source": "코인리더스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WaElGbUp5V0lDd2ZuVUdYWmdlR0hPN1JtZmtNblpYV3lKZUZNdHJSLU1oM1djWWNteDhzaE1LZGluR2lBYlFodA?oc=5",
     "title": "엔비디아 등 AI 반도체 3대장, 목표가 '대폭상향'...\"내년까지 50% 더 오른다\"",
     "summary": [
@@ -123,7 +123,7 @@ window.NEWS_DB = [
     "id": "n0c06c07a",
     "category": "IT",
     "source": "unicornfactory.co.kr",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
@@ -183,7 +183,7 @@ window.NEWS_DB = [
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
-    "time": "35일 전",
+    "time": "36일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
@@ -199,7 +199,7 @@ window.NEWS_DB = [
     "id": "n6b58f8f3",
     "category": "사회",
     "source": "아주경제",
-    "time": "35일 전",
+    "time": "36일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
@@ -215,7 +215,7 @@ window.NEWS_DB = [
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
-    "time": "54일 전",
+    "time": "55일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
@@ -230,7 +230,7 @@ window.NEWS_DB = [
     "id": "n79d12fb6",
     "category": "부동산",
     "source": "Chosunbiz",
-    "time": "66일 전",
+    "time": "67일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
@@ -244,7 +244,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "66일 전",
+    "time": "67일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -259,7 +259,7 @@ window.NEWS_DB = [
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "83일 전",
+    "time": "84일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
@@ -274,7 +274,7 @@ window.NEWS_DB = [
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
-    "time": "124일 전",
+    "time": "125일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
@@ -315,6 +315,54 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n22b82d4b",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153986",
+    "title": "'원스토어' 품은 넥써쓰, 당기순이익 확 늘었다..3분기 실적 '기대감'",
+    "summary": [
+      "토종 앱 마켓 '원스토어'를 품은 넥써쓰가 지난 2분기 당기순이익을 큰 폭으로 개선했다.",
+      "원스토어 인수로 발생한 이익 157억원이 반영된 효과다.",
+      "3분기부터는 본격적으로 매출-영업이익 개선이 이뤄질 것이라는 것이 회사 측의 전망이다.넥써쓰는 4일 지난 2분기 매출 58억원, 영업손실 53억원, 당기순이익 81억원을 기록했다고 공시했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd3b5b363",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153982",
+    "title": "여기어때, 사내서 에이전트 40개 쓴다...'실행하는 AI' 시장 효과 가시화",
+    "summary": [
+      "기업들이 AI 에이전트를 업무에 접목하기 시작하면서 AI의 역할이 사내에서 구체화되고 있다.",
+      "전국망을 가진 교육 기업은 지점 운영 현황을 자연어로 조회하는 시스템을 도입했고, 숙박·여가 기업은 복수의 에이전트가 업무를 나눠 처리하는 자체 플랫폼을 구축했다.자연어로 데이터 조회...보고서 작성 '2일→1분'메가존클라우드 자회사 알파코드는 4일 영어교육 기업 폴리인스퍼레이션에 자연어 기반 경영분석 AI 에이전트 플랫폼을 구축했다고 밝혔다.이 에이전."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nd3e53524",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153983",
+    "title": "삼성증권, 2분기 영업익 6758억원 '역대급 실적'…WM·IB 동반 성장",
+    "summary": [
+      "삼성증권이 올해 2분기 자산관리(WM)와 기업금융(IB) 부문의 고른 성장에 힘입어 두 배 이상의 이익 증가율을 기록했다.",
+      "고객 자산 확대와 금융상품 판매 호조가 WM 실적을 이끌었고, 구조화금융과 인수금융 성과가 IB 실적을 뒷받침하면서 전 사업부문에서 고른 성장세를 나타냈다.삼성증권은 4일 공시를 통해 올해 2분기 연결 기준 영업이익이 6758억원으로 전년 동기 대비 119.0% 증가했다고 밝혔다.",
+      "전분기와 비교해서도 10.9% 늘었다.세전."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nb4e5baca",
     "category": "IT",
     "source": "테크M",
@@ -330,305 +378,253 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n207dfd72",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153980",
-    "title": "'풀스택 AI' 앞세운 네이버...남미 'AI 인프라' 시장 공략 시동",
-    "summary": [
-      "네이버가 이재명 대통령의 남미 순방 기간 현지 유력 인공지능(AI) 기업들과 잇따라 접촉하며 남미 AI 인프라 시장 진출의 교두보를 확보했다.",
-      "사우디아라비아와 유럽 등 외에도 남미까지 네이버의 AI 기술력을 선보이며 글로벌 AI 기업으로 거듭나겠다는 의지다.",
-      "4일 네이버는 최수연 대표와 구동현 전략기획부문장, 김유원 네이버클라우드 대표 등 네이버 경영진이 이재명 대통령의 남미 3개국 순방 경제 사절단의 일원으로 동행하며 현지 기회 발굴에 성공했."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n47f71f26",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153977",
-    "title": "놀유니버스는 '글로벌', 여기어때는 'AI'...여행·숙소 예약 서비스 경쟁 '후끈'",
-    "summary": [
-      "여행 플랫폼들이 숙소 예약 경쟁력 강화에 속도를 내고 있다.",
-      "놀유니버스는 외국인 관광객을 위한 국내 숙소 예약 서비스를 새롭게 선보이며 본격적으로 인바운드 시장 확대에 나섰고, 여기어때는 인공지능(AI) 기반 검색 기능을 고도화해 이용자 맞춤형 숙소 추천을 강화했다.",
-      "이러한 여행·여가 플랫폼들의 숙소 예약 편의성 확대는 국내 관광 생태계의 경쟁력 강화로 이어질 것으로 기대된다.방한 외국인, 'NOL 월드'로 숙소 찾고 신나게 'NOL'자!4일."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n11ca4d9b",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=153971",
-    "title": "조선소에도 AI 들어온다...실증에 센터까지 AX 범위 확대",
-    "summary": [
-      "조선업계에서 AI 도입이 한창이다.",
-      "현장 데이터를 활용한 AI 모델 검증과 지역 소재 기업의 디지털 전환(DX) 지원 기술 거점 마련 등 AI 전환(AX) 작업에 속도가 붙은 모습이다.4일 AI 기술 기업들이 조선업을 대상으로 다양한 활동을 펼치고 있다.국방과 제조 등 협업 분야를 확장하며 상반기 수주액 200억원을 돌파한 AI 기업 마키나락스는 최근 HD한국조선해양과 용접로봇의 이상 징후를 탐지하는 피지컬 AI 모델 개발을 완료했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n26eb650e",
+    "id": "n5e5e55e8",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/policy/2026/08/04/2026080415400355960",
-    "title": "\"서울대서 진로 찾는다\"…시흥시 '청소년 SEED 캠프' 본격 가동",
-    "summary": [
-      "14일까지 관악·시흥 캠퍼서 동시 진행…기초과학·글쓰기·모빌리티 융합 교육 추진 교육 격차 해소와 미래 역량 강화 동시 추진… 맞춤형 진로 설계 로드맵 제공 경기 시흥시는 서울대학교 관악캠퍼스에서 '대학 전공 탐색 멘토링 캠프'를 열고 '시흥시-서울대학교 청소년 SEED 캠프' 운영에 본격 착수했다고 4일 밝혔다.",
-      "이번 캠프는 서울대의 우수한 인적·물적 자원을 지역사회에 환원하는 대표적인 지역공헌 교육 사업이다.",
-      "오는 14일까지 서울대 관악캠퍼."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n861524c4",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/living/2026/08/04/2026080415434652513",
-    "title": "현대리바트, 2분기 영업익 9.4%↑…\"효율 경영으로 수익성 방어\"",
-    "summary": [
-      "현대리바트는 연결 기준 올해 2분기 영업이익이 55억5900만원으로 지난해 같은 기간보다 9.4% 증가했다고 4일 공시했다.",
-      "같은 기간 매출은 3731억3300만원으로 지난해 동기 대비 9.0% 감소했다.",
-      "당기순이익은 37억5400만원으로 507.4% 증가했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncf819c14",
-    "category": "경제",
-    "source": "머니투데이",
+    "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.mt.co.kr/living/2026/08/04/2026080415223322518",
-    "title": "현대그린푸드, 2Q 영업익 381억 23.4%↑…\"단체급식 사업 호조\"",
+    "url": "https://www.newsis.com/view/NISX20260804_0003736244",
+    "title": "넥써쓰, 2분기 영업손실 53억…원스토어 인수로 순익은 81억",
     "summary": [
-      "현대그린푸드가 올해 1분기 연결기준 영업이익이 381억원으로 전년 동기 대비 23.4% 증가했다고 4일 공시했다.",
-      "매출은 5950억원으로 전년 동기 대비 7.8% 증가했으며 당기순이익은 306억원으로 30.7% 늘었다.",
-      "별도 기준 매출은 5774억원으로 전년 동기 대비 7.2% 늘었으며 영업이익은 405억원으로 31.4% 증가했다."
+      "[서울=뉴시스]오동현 기자 = 넥써쓰가 원스토어 인수 과정에서 발생한 이익 157억원이 반영되며 올해 2분기 당기순이익 81억원을 기록했다고 4일 밝혔다.",
+      "한국채택국제회계기준(K-IFRS) 연결 기준 2분기 매출액은 약 58억원, 영업손실은 약 53억원이다.",
+      "상반기 누계 매출액은 174억2000만원으로 전년 동기 대비 9.4% 늘었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc0537995",
+    "id": "nfc1a9b64",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003736268",
+    "title": "조현준 효성 회장, 모친 송광자 씨 지분 123억원어치 장외 매수",
+    "summary": [
+      "[서울=뉴시스]유희석 기자 = 조현준 효성그룹 회장이 다음달 모친인 송광자 씨가 보유한 효성 주식을 장외에서 매수한다.",
+      "4일 금융감독원 전자공시시스템에 따르면 조 회장은 임원·주요주주 특정증권등 거래계획 보고서를 통해 오는 9월4일 송 씨로부터 효성 보통주 8만2929주를 장외매수할 계획이라고 공시했다.",
+      "거래 단가는 주당 14만8300원으로, 총 거래금액은 122억9837만700원이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec54394c",
     "category": "사회",
-    "source": "아시아경제",
+    "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026080415513742117",
-    "title": "구례경찰서·지역 농협, 어르신 교통사고 예방에 ‘한마음’",
+    "url": "https://www.newsis.com/view/NISX20260804_0003736262",
+    "title": "페니트리움바이오, 美에 고형암 치료제 IND 신청",
     "summary": [
-      "전남 구례경찰서는 3일 농협 구례군지부, 구례농협, 산동농협, 구례 축협과 어르신 교통사고 예방을 위한 교통안전 용품 전달식을 개최했다.",
-      "이번 전달식은 최근 구례지역에서 농기계와 이륜차 교통사고가 잇따라 발생함에 따라 어르신 교통안전 의식을 높이고 사고를 예방하기 위해 구례지역 4개 농협이 뜻을 함께하면서 이뤄졌다.구례지역 4개 농협은 이날 안전 헬멧과 형광조끼, 반사지 등 300만원 상당의 교통안전 용품을 구례."
+      "[서울=뉴시스]이소헌 기자 = 신약개발 기업 페니트리움바이오가 이른바 가짜내성 치료제 '페니트리움'에 대한 임상시험계획(IND)을 미국 식품의약국(FDA)에 신청했다.",
+      "페니트리움바이오는 재발성 또는 불응성 진행성 고형암 치료제 후보물질 페니트리움의 임상 2a상 시험계획을 FDA에 신청했다고 4일 공시했다.",
+      "페니트리움은 경직된 ECM을 연화시켜 암 미세환경의 구조적 장벽을 완화함으로써, 기존 항암제가 암조직 내부로 보다 효과적으로 침투할 수 있도."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n923401a4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/04/YEXDZ4JQW5H5NDL6A5SAPEM3QA/",
+    "title": "“이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과”",
+    "summary": [
+      "“이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n21fab8e8",
+    "id": "ne54c173c",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003736093",
-    "title": "엄정화, '아침마당' 진출",
+    "url": "https://www.newsis.com/view/NISX20260804_0003736260",
+    "title": "[청주소식]31일까지 길고양이 중성화 사업 신청 접수 등",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 가수 겸 배우 엄정화가 '아침마당'에 등장했다.",
-      "엄정화는 4일 영화 '오케이 마담2' 홍보차 박성웅, 배정남과 함께 KBS '아침마당'에 출연했다.",
-      "엄정화는 \"'오케이 마담' 첫 편 찍을 때 박성웅씨를 처음 만났다."
+      "[청주=뉴시스] 이도근 기자 = 충북 청주시는 31일 오후 6시까지 하반기 길고양이 중성화 사업(TNR) 신청을 받는다고 4일 밝혔다.",
+      "이 사업은 내달부터 11월까지 지역 길고양이 900마리를 대상으로 추진한다.",
+      "길고양이를 포획해 중성화한 뒤 기존 서식지에 방사하는 방식이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndff7b4d2",
-    "category": "사회",
+    "id": "n639819c9",
+    "category": "IT",
     "source": "연합뉴스",
     "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804121700062",
-    "title": "춘천경찰, 폭염 속 기력 잃은 70대·치매 80대 노인 잇달아 구조",
+    "url": "https://www.yna.co.kr/view/AKR20260804137200060",
+    "title": "파주시 \"자동차세 환급금 카톡으로 간편하게 신청하세요\"",
     "summary": [
-      "(춘천=연합뉴스) 강태현 기자 = 강원 춘천 경찰이 폭염 속 기력을 잃은 노인과 실종 노인을 잇달아 구조해 피해를 막은 사실이 뒤늦게 알려졌다."
+      "(파주=연합뉴스) 노승혁 기자 = 경기 파주시는 올해부터 카카오톡을 활용한 '자동차세 환급금 신청 서비스'를 강화해 운영한다고 4일 밝혔다."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n192fded5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804135200530",
+    "title": "온열질환자 하루 186명 올들어 최다…사망자도 2명 늘어",
+    "summary": [
+      "(서울=연합뉴스) 김잔디 기자 = 불볕더위가 기승을 부리면서 전날 전국에서 온열질환자가 186명 발생해 올해 하루 기준 가장 많았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "naa30509b",
-    "category": "사회",
+    "id": "n275d2ba7",
+    "category": "IT",
     "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804124100051",
-    "title": "[부산소식] 부산문화재단, 예술·기술 융복합 '오픈서킷' 참여자 모집",
-    "summary": [],
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804138500003",
+    "title": "제네시스, 전기차 구매 고객에 대한항공 1만 마일리지",
+    "summary": [
+      "(서울=연합뉴스) 김윤구 기자 = 제네시스는 대한항공과 협업해 전기차 구매 고객에게 대한항공 1만 마일리지를 제공하는 프로모션을 한다고 4일 밝..."
+    ],
     "chips": [
-      "#채용"
+      "#전기차"
     ]
   },
   {
-    "id": "n97a8bb21",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003736117",
-    "title": "바다도 폭염, 전남광주 고수온…양식어류 17만 마리 방류",
+    "id": "naed548a3",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804137500002",
+    "title": "동양생명, 이달 우리금융과 포괄적 주식교환…계약해제권 불행사",
     "summary": [
-      "[전남광주=뉴시스]류형근 기자 = 전남광주 해안지역에 고수온 경보가 발령됨에 따라 양식어류 17만 마리를 바다로 보냈다.",
-      "전남광주통합특별시는 여수 월호해역 일원에서 양식어류 17만 마리를 바다로 방류했다고 4일 밝혔다.",
-      "방류에 앞서 해양수산과학원 등의 질병 검사와 성장도·기형어 여부 등 자연 생태계 적합성과 안전성 검증도 실시했다."
+      "(서울=연합뉴스) 강수련 기자 = 우리금융그룹 계열사 동양생명이 예정대로 주식교환 절차를 추진하기로 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n69e3b894",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260804/134419787/1",
+    "title": "이솔이, 이혼설 재차 일축…“같이 병원 다녀”",
+    "summary": [
+      "코미디언 박성광의 아내 이솔이가 남편과의 관계를 묻는 팬의 질문에 직접 답했다.",
+      "이솔이는 4일 소셜미디어에 “매일 강아지들의 호흡수를 세어보며 마음을 졸이고 있다”고 적었다.",
+      "그는 “특히 광복이는 급성 증상으로 병원을 자주 다니고 있고, 겨울이도 심장이 비대해지면서 기침이 심해졌다”며 “바라만 봐야 하는 무기력함이 참 슬프다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nd827859e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003736114",
-    "title": "직원 돌아오고 CJ·대상 납품 재개…홈플러스, 재오픈 채비 본격화",
-    "summary": [
-      "[서울=뉴시스]권민지 기자 = 홈플러스가 임시휴업 이후 처음으로 직원들을 현장에 복귀시키며 영업 재개 준비에 속도를 내고 있다.",
-      "자체브랜드(PB) 상품에 이어 CJ제일제당과 대상 등 일반 제조사 브랜드(NB) 상품 입고도 시작되면서 텅 비어 있던 매장이 다시 채워지고 있다.",
-      "다만 농·축·수산물과 유제품 등 신선식품은 2000억원 규모의 긴급 운영자금(DIP)이 실제 집행돼야 입고가 가능한 만큼 당초 목표인 7일 재개점은 여전히 유동적인 상황이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0585227a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003736130",
-    "title": "[대학소식]㈜이엠티, 국립창원대 발전기금 1000만원 기탁 등",
-    "summary": [
-      "[창원=뉴시스]홍정명 기자 = 국립창원대학교는 4일 대학본부에서 김해에 본사를 둔 ㈜이엠티 고영호 대표이사의 대학발전기금 1000만원 기탁식을 진행했다고 밝혔다.",
-      "고영호 대표이사는 \"국립창원대가 지역 기업이 필요로 하는 인재 양성과 맞춤형 산학 협력을 통해 대학-기업의 지속 가능한 동반성장을 이뤄내는 데 함께 하고자 한다\"면서 \"앞으로도 응원하겠다\"고 전했다.",
-      "이엠티는 차량용 스마트 센서, 모터(액추에이터), 컨트롤러 등 자동차 전장부품 전문."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n41484e53",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804123300008",
-    "title": "[표] 코스닥 외국인 순매수도 상위종목(4일)",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8537a57d",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804123500008",
-    "title": "[표] 코스닥 기관 순매수도 상위종목(4일)",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a4731c6",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/04/2026080415021955168",
-    "title": "경찰청장 대행 \"조직 명운 걸고 형사사법체계 안착\"…지휘부에 책임수사 당부",
-    "summary": [
-      "검사 수사권 폐지 앞두고 '전국 지휘부 화상회의' 외부 통제 적극 수용…\"수사 비위에는 엄정 책임\" 유재성 경찰청장 직무대행이 검사의 수사권 폐지에 따른 형사사법체계 전환을 앞두고 \"제도 안착을 위해 조직의 명운을 걸고 준비하겠다\"고 밝혔다.",
-      "전국 지휘부에는 국민에게 신뢰받는 수사가 이뤄지도록 더욱 노력해달라고 당부하는 한편, 경찰 수사에 대한 외부 통제를 적극 수용하겠다는 뜻도 밝혔다.",
-      "유 직무대행은 4일 서울 서대문구 경찰청사에서 전국 경찰."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na65afaa3",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026080415493832579",
-    "title": "'몸통 대비 긴 꼬리'…한은 \"올해 3월 환율 급등 33%가 NDF 탓\"",
-    "summary": [
-      "원·달러 환율이 급등했던 올해 3월의 환율 상승분(79원) 중 26원(33%)이 역외차액선물환(NDF) 거래 영향으로 나타났다.",
-      "4일 한국은행은 블로그에 ''NDF, 원·달러 환율에 얼마나 영향을 미칠까?'라는 글을 올리고 NDF 거래가 국내 은행의 실제 달러 매수로 연결되면서 현물 환율을 끌어올리는 경로가 확인됐다며 이같이 밝혔다.",
-      "NDF는 미래의 특정 환율을 미리 정한 뒤 만기 때 원화와 달러 원금을 실제로 주고받지 않고 계약환."
-    ],
-    "chips": [
-      "#한은",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n988677ab",
+    "id": "n88a5c301",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260804/134418514/1",
-    "title": "‘윔블던 신데렐라’ 이알라, 필리핀 최초 WTA 단식 우승",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260804/134419782/1",
+    "title": "스포츠 도박 운영자 신고한 제보자 포상금 1억2400만원 받았다",
     "summary": [
-      "7월 메이저대회 윔블던에서 16강에 오르며 ‘신데렐라’로 떠오른 알렉산드라 이알라(21)가 필리핀 선수 최초로 여자프로테니스(WTA)투어 단식 챔피언이 됐다.",
-      "이알라는 4일 미국 워싱턴 DC에서 열린 무바달라DC 오픈 여자 단식 결승에서 제시카 페굴라(32·미국·3위)를 2-1(4-6, 6-4, 6-0)로 꺾었다.",
-      "이 경기는 폭우 때문에 1박 2일에 걸쳐 진행됐다."
+      "국민체육진흥공단이 올해 상반기 불법 스포츠도박 신고 포상금을 지급했다.체육공단은 “지난 6월 체육진흥투표권 포상금 지급 심사위원회를 열고 2026년 상반기 불법 스포츠도박 신고 포상금 지급 대상자를 선정해 총 5억원을 지급했다”고 밝혔다.이어 “불법 스포츠 도박 운영자를 신고한 제보자 1명에게 단일 건 최대인 1억2400만원을 줬다”고 덧붙였다.국민체육진흥법에는 불법스포츠 도박 운영자는 7년 이하 징역 또는 7000만원 이하의 벌금, 이용자는."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6f2472d2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026080415333712846",
-    "title": "함안군, 군민과 함께 공약 점검…이행평가단 모집",
+    "id": "nebfb0856",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260804/134419773/1",
+    "title": "역대급 폭염에 자율 훈련…SSG 이숭용 감독 “경기에서 집중력 중요”",
     "summary": [
-      "경남 함안군이 '함안군 공약 이행평가단'을 공개 모집한다.",
-      "군은 민선 9기 함안군수 공약사업의 공정하고 객관적인 평가와 책임행정 실현을 위해 모집한다고 4일 밝혔다.",
-      "공약 이행평가단은 차석호 군수 공약사업의 추진 상황과 이행 여부를 군민의 시각에서 점검하고, 공약사업의 원활한 추진을 위한 의견을 제시하는 역할을 맡는다.군은 이를 통해 군정 운영의 투명성과 민주성을 높이고, 군민이 체감할 수 있는 공약 이행 체계."
+      "기록적인 폭염이 이어지자 프로야구 SSG 랜더스 이숭용 감독은 경기 전 훈련을 자율로 진행했다.",
+      "경기에서의 집중력 유지를 위해서다.",
+      "이 감독은 4일 인천 SSG랜더스필드에서 벌어지는 2026 신한 쏠 KBO리그 LG 트윈스와의 경기를 앞두고 “날씨가 너무 더워서 자율적으로 훈련하도록 했다."
     ],
     "chips": [
-      "#채용"
+      "#KBO"
     ]
   },
   {
-    "id": "nf8b19d6c",
+    "id": "nf12175a7",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/kid/kid_literacy/kid_photonews/2026/08/04/3XAMKWTUUZHKVNFROEPBNCYGFU/",
-    "title": "바닷속 불꽃놀이? ‘관해파리’래요",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260804/134419776/1",
+    "title": "정부, 지역별 전기요금 차등제 하반기 확정…철강 등 인하 전망",
     "summary": [
-      "바닷속 불꽃놀이? ‘관해파리’래요."
+      "정부가 전기의 ‘지산지소’(地産地消·지역에서 생산해 해당 지역에서 소비) 원칙에 따른 지역별 전기요금 차등제를 올해 하반기(7~12월)에 확정하기로 했다.",
+      "전국을 4개 권역으로 나눠 전기요금을 달리 적용하는 식인데, 발전소 인근에 위치한 철강 등 기간산업들의 전기요금이 낮아질 것으로 전망된다.",
+      "기후에너지환경부는 4일 오후 청와대 영빈관에서 열린 대통령 업무보고에서 “지역별 전력 수급 여건을 반영해 요금 체계를 정비하겠다”고 밝혔다."
+    ],
+    "chips": [
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n56b37d0b",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804137600008",
+    "title": "국고채 금리 혼조세…3년물 연 3.740%",
+    "summary": [
+      "(서울=연합뉴스) 4일 국고채 금리가 혼조세를 보였다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n5f3404f9",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "13분 전",
+    "url": "https://www.hankyung.com/article/202608031372i",
+    "title": "AI시대 노사는 \"脫시간 임금체계\"…정부는 시계만 본다",
+    "summary": [
+      "AI시대 노사는 \"脫시간 임금체계\"…정부는 시계만 본다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nc09dcee9",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804063951001",
+    "title": "국힘, 세제개편에 \"아마추어 李정부 무능 감추려 세금 '핵폭탄'\"(종합)",
+    "summary": [
+      "(서울=연합뉴스) 류미나 이율립 기자 = 국민의힘은 4일 부동산 보유·거래세 인상, 생산적 금융 ISA(개인종합자산관리계좌) 도입 등의 내용을 ..."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nffac0f48",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "13분 전",
+    "url": "https://www.hankyung.com/article/202608031345i",
+    "title": "리더십 할루시네이션…회의에서 침묵은 동의가 아니다",
+    "summary": [
+      "리더십 할루시네이션…회의에서 침묵은 동의가 아니다."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "채용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
