@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-04 20:18:07
+// 마지막 업데이트: 2026-08-04 22:02:55
 window.NEWS_DB = [
   {
     "id": "n5c09d452",
     "category": "경제",
     "source": "소년한국일보",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1BqOXR2TnBqanhaNF9PWVRrOXpRZDFrRjU4WGtZQ1d0S1JYU1JCbUotTUEyQmE5NzdBZDVlclFwX3pwZUxGMGJGU0Z0ckZ4c0NpckhFdzBsc0w3aDc3QVA1QW1IdW9aa3dfVdIBcEFVX3lxTE01VEEzeXJtMl85QTU0NEtoaWU4dEQ3eE9KckZFelY5bWVMdU9wdzZSaGdYZzd5UE9ObzFhaXhJcnBLbVo0Tm4wcFBsaGc2Q2FDX3IySW1qcUZQcXZLbG0xNUgzZUlJSjdEZGVfZktQSlM?oc=5",
     "title": "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는?",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "na033b446",
     "category": "IT",
     "source": "코인리더스",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92bXR1cFJIT0FTU1d0dGNPUXdQNWFJM0UyV1ZXZlhydVBlX3lzdllLZUIxeFpvRkZzZGp5Q1dsem1GbndXSjlZaDlB?oc=5",
     "title": "엔비디아 등 AI 반도체 3대장, 목표가 '대폭상향'...\"내년까지 50% 더 오른다\"",
     "summary": [
@@ -34,12 +34,12 @@ window.NEWS_DB = [
   {
     "id": "n170df46a",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "businesspost.co.kr",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QREQwTGZBM0hxRC1vc25GMEE4X2pYZ29Kb25EVVRnMnFrTFJXZ2hLUFRyRVBwVEFTVG1kSGFYNElBLThOaHZ5NC1xcnBZUFJzVk9NV3FnV2dBUlRrT1h5NVFBN0lfWmJualFhUDhHd0NaRFk?oc=5",
     "title": "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존",
     "summary": [
-      "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존 비즈니스포스트."
+      "[AI, 뭉쳐야 산다①] 엔비디아발 'AI 동맹'에 한국 주연으로 부상, 생태계 의존 강화에 기대와 우려 공존 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -63,12 +63,12 @@ window.NEWS_DB = [
   {
     "id": "n5142ca5e",
     "category": "IT",
-    "source": "newstopkorea.com",
+    "source": "뉴스톱",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ySHBaTzZWanptOFJHMW1pRVFReU9PYlp5RE1MdEZmLXVGVTBPWGNIbFNIcVotZW1vN0Y3Z0w2N05tcndobzI4b0xtTklPTk80b2I0cXdwbTF6YWlTT0kwc2FEcnlwZEJVRWNXc01DYw?oc=5",
     "title": "HBM4 전환기…삼성전자 점유율, SK하이닉스 앞지를까",
     "summary": [
-      "HBM4 전환기…삼성전자 점유율, SK하이닉스 앞지를까 newstopkorea.com."
+      "HBM4 전환기…삼성전자 점유율, SK하이닉스 앞지를까 뉴스톱."
     ],
     "chips": [
       "#반도체",
@@ -79,12 +79,12 @@ window.NEWS_DB = [
   {
     "id": "na5600956",
     "category": "IT",
-    "source": "zdnet.co.kr",
+    "source": "지디넷코리아",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HeGEtOUdPYkw1enRmd2pkc2lCNUdfS1lONFNlMzVoU05VWVF3cUdwbS0yOUpiVEoxdjQ3bFY5N2pwNGQzeEs3RURXT21vMFZLM1F3OEJn?oc=5",
     "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
     "summary": [
-      "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화 zdnet.co.kr."
+      "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화 지디넷코리아."
     ],
     "chips": [
       "#AI",
@@ -150,12 +150,12 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "kukinews.com",
+    "source": "쿠키뉴스",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
     ],
     "chips": [
       "#AI",
@@ -177,21 +177,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
-    ]
-  },
-  {
-    "id": "nc8278c80",
-    "category": "사회",
-    "source": "Vietnam.vn",
-    "time": "10일 전",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnhjMHNFRjMwY09qOFpQdTAyQW1Tb3d5ZEw3MTdndmFlMGUwU0s5YmotZ205aGladkw4WlFjeDVkY0tVRWxFNTZlR0VHazFhUTZpN0lLZWx4S19FNjJ0M2Z4WktiRnhfY3MzV3U5QkZTZW94WWkyNkVrbUI2Z2dCR2RhVGh0c2VEbnhwU2l6ZFZYQ1RsNVJfSHlaSVZVU1VoYUVyT3M0Z3dwV0lxQU40aTN3TE4xSlJVWHBlVkFR?oc=5",
-    "title": "다낭 남부의 한 구역에서 1만 4천 개의 일자리가 제공되는 취업 박람회가 열렸습니다.",
-    "summary": [
-      "다낭 남부의 한 구역에서 1만 4천 개의 일자리가 제공되는 취업 박람회가 열렸습니다."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -256,14 +241,28 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne8705e6a",
+    "category": "사회",
+    "source": "시장경제신문",
+    "time": "67일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtRl9IeVUzNEVJa0lPZG1nU2gxSmJhdXFkem5GSHVGSnlLTE9XWm95ZVI2WTdhRFhQNkg1VzNHTWI1Z09KYllXWFlZRDl0dnFiSm1VMk5id2J4RWFsbmdzLV82NjU4aGdZMGVfQWczeUI?oc=5",
+    "title": "엘앤에프, 대구고용노동청과 청년 일자리 확대 맞손",
+    "summary": [
+      "엘앤에프, 대구고용노동청과 청년 일자리 확대 맞손 시장경제신문."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "67일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -330,305 +329,311 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf0a712e2",
+    "id": "n7420291c",
     "category": "경제",
-    "source": "아시아경제",
+    "source": "테크M",
     "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026080505170812480",
-    "title": "[속보]쿠팡Inc, 2분기 영업손실 8350억…전년比 '적자전환'",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153994",
+    "title": "쿠팡Inc 2분기 매출 13.3조, 영업손실 8350억 적자전환…\"과징금 반영\"",
     "summary": [
-      "쿠팡 모회사인 쿠팡Inc가 올해 2분기 13조원의 매출을 올렸으나 8300억원의 영업적자를 냈다.",
-      "쿠팡Inc가 5일(한국시간) 미국 증권거래위원회(SEC)에 제출한 2분기 연결실적 보고서에 따르면 쿠팡Inc의 2분기 매출은 88억5600만달러로 전년 동기(85억2400만달러) 대비 4% 늘었다.",
-      "이 기간 원·달러 평균 환율(1501.89원)로 환산한 금액은 13조3007억원이다."
+      "쿠팡의 미국 모회사 쿠팡Inc가 올해 2분기 매출 13조원을 넘겼지만, 개인정보 유출 사고와 관련한 과징금 추정액을 비용으로 반영하면서 8000억원대 영업손실을 기록했다.",
+      "핵심 커머스와 성장사업 모두 외형은 확대됐으나 수익성과 현금흐름은 전년보다 약화됐다.5일 쿠팡Inc가 미국 증권거래위원회(SEC)에 제출한 2분기 연결 실적 보고서에 따르면 매출은 88억5600만달러로 지난해 같은 기간보다 4% 증가했다.",
+      "올해 2분기 평균 원·달러 환율인 1."
     ],
     "chips": [
       "#환율"
     ]
   },
   {
-    "id": "n5cdc7060",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260805004600108",
-    "title": "3년째 가동 늦어진 튀르키예 첫 원전…\"연내 발전 시작\"",
+    "id": "nb1d2a52f",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=153993",
+    "title": "쿠팡Inc, 상반기 영업적자 1조2000억원 육박 '역대 최대'…지난 2년치 영업이익 반납",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예의 첫 원자력발전소인 아쿠유 원전의 가동이 수년째 연기되고 있는 가운데 올해 안에 전력 생산이 시..."
+      "쿠팡의 미국 모회사 쿠팡Inc가 올해 상반기 1조2000억원에 육박하는 영업적자를 기록했다.",
+      "2021년 뉴욕증시 상장 이후 가장 큰 반기 손실로, 지난 2년간 벌어들인 영업이익 대부분을 상반기 만에 반납한 규모다.",
+      "매출 성장세는 이어졌지만 개인정보보호위원회 과징금 추정액이 2분기 비용에 반영되면서 수익성이 크게 악화했다.5일 쿠팡Inc가 미국 증권거래위원회(SEC)에 제출한 2분기 실적 자료에 따르면 연결 기준 매출은 88억5600만달러로 지난."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd6f14935",
+    "id": "n843180f1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "방금 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260805/134422351/1",
+    "title": "트럼프 변호인 출신 美법무장관 나오나… 블랜치, 상원 사법위 인준 통과",
+    "summary": [
+      "도널드 트럼프 미국 대통령의 개인 변호사 출신인 토드 블랜치 법무장관 후보자가 4일(현지시간) 상원 인준의 주요 관문을 통과하면서 인준이 가시화됐다.",
+      "AP통신 등에 따르면 미국 상원 법사위원회는 이날 블랜치 후보자 인준안을 본회의에 회부하기 위한 절차 표결을 찬성 12표, 반대 10표로 가결했다.",
+      "당초 법사위 소속 공화당 의원 12명 가운데 2명이 유보적 태도를 보여 처리가 불투명했으나, 이들이 입장을 바꾸면서 진전이 이뤄졌다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n457c96be",
     "category": "경제",
     "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026080504570801187",
-    "title": "[속보]뉴욕증시, 호르무즈 재개방 기대에 일제히 상승 마감",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026080416295239398",
+    "title": "바닥 찍은 한화에어로스페이스 주가 '다시 쏴!'",
     "summary": [
-      "4일(현지시간) 미국의 3대 지수는 호르무즈 통항 재개와 관련해 미국과 이란의 합의 가능성이 커졌다는 소식에 일제히 상승세로 마감했다.",
-      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 1.71% 오르며 마감했다.",
-      "대형주 중심의 S&P500지수는 1.79%, 기술주 중심의 나스닥지수는 2.59% 상승해 장을 마무리했다."
+      "한화에어로스페이스가 바닥을 찍고 반등세를 보이고 있다.",
+      "지난달 말 52주 신저가를 기록한 이후 양호한 실적에 힘입어 반등에 성공하며 황제주 지위도 회복했다.",
+      "하반기 실적이 더 좋을 것이란 전망이 나오고 있어 상승세를 이어갈 수 있을지 주목된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfdf19a1b",
+    "id": "nbd562863",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260805005100030",
-    "title": "[1보] 쿠팡Inc, 2분기 영업손실 8천350억원…매출 13조3천7억원",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7283e2e",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260805005000072",
-    "title": "美 S&P500지수 2달만에 최고치 경신…유가 80달러 밑으로",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 호르무즈 해협 통항을 둘러싼 미국과 이란의 협상이 진전을 이뤘다는 소식에 4일(현지시간) 국제 유가가 급락하..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne6a4f5e4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/05/RNOGV6HT75C6RC26S66AZX6GKU/",
-    "title": "100만봉 판매 넘었다, 줄 서는 신의주찹쌀순대국 2인분 같은 1인분에 6000원 초특가",
-    "summary": [
-      "100만봉 판매 넘었다, 줄 서는 신의주찹쌀순대국 2인분 같은 1인분에 6000원 초특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n271ebe54",
-    "category": "IT",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260805_0003736554",
-    "title": "[속보]뉴욕증시, AI 기업 호실적에 상승 마감…나스닥 2.59%↑",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003735843",
+    "title": "타는 듯한 가슴 통증…역류성식도염? 심장질환?",
     "summary": [
-      "[서울=뉴시스] 신효령 기자 = 후속기사가 이어집니다.",
-      "◎공감언론 뉴시스 snow@newsis.com."
+      "[서울=뉴시스]송종호 기자 = 일상에서 가슴 통증을 경험했다면 원인이 다양할 수 있는 만큼, 스스로 판단하기보다는 병원을 찾아 전문의의 진료를 받는 것이 바람직하다.",
+      "5일 의료계에 따르면 속이 쓰려 위염이라고 생각했던 통증이 협심증과 같은 심장질환일 수도 있고, 반대로 심장질환을 걱정했지만 근육통이나 역류성식도염이 원인일 수 있다.",
+      "역류성식도염은 가슴 통증을 유발하는 대표적인 질환이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf28fca1c",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "2분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260730159500898",
+    "title": "[우리품의 아프리카인](46) '100개국이 쓴다' AI노트 개발한 우간다 청년",
+    "summary": [
+      "(서울=연합뉴스) 박세진 기자 = \"유튜브 강의 영상 하나 올려보겠습니다.\"."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "nfe99bc91",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/05/S4IFU7GGX5B5HM53YZAZNTR4I4/",
-    "title": "“이 소재가 10만원대라고?” 미국에서 완판된 한국 신생 러닝화의 정체",
+    "id": "n0475f9d2",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "2분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260804140400063",
+    "title": "대전 미분양 아파트 최대 속 둔산 연일 신고가…'양극화' 뚜렷",
     "summary": [
-      "“이 소재가 10만원대라고?” 미국에서 완판된 한국 신생 러닝화의 정체."
+      "(대전=연합뉴스) 박주영 기자 = 대전지역 미분양 아파트가 2천가구를 넘어서며 올해 최고치를 기록했다."
     ],
     "chips": [
-      "#뉴스"
+      "#부동산"
     ]
   },
   {
-    "id": "nfc0a10e5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/05/MY2TMMRRGUYTQNJVGY2DCYJSHA/",
-    "title": "엄정화, 56세인데 \"신체나이 30대 초반\" 충격..자기관리 비법 공개(아침마당)[순간포착]",
-    "summary": [
-      "[OSEN=김나연 기자] 가수 겸 배우 엄정화가 철저한 자기관리로 모두를 놀라게 했다.4일 방송된 KBS1 '아침마당' 소문난 님과 함께 코너에는 영화 '오케이 마담2' 배우 엄정화, 박성웅, 배정남이 게스트로 출연했다.이날 엄정화는 신체나이가 30대라고 밝혀 충격을 안겼다.",
-      "그는 \"최근에는 검사 안해봤다.",
-      "몇년 전부터 탄수화물과 당분을 철저하게 안 하는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30201325",
+    "id": "n2d52b160",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003736133",
-    "title": "\"나는 탐정이다\"…합법인듯 아닌듯 줄타는 사연",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/tech/2026/08/05/2026080416492085603",
+    "title": "스페이스X-달 충돌, 오늘 3시 34분경 다누리가 포착할까",
     "summary": [
-      "[서울=뉴시스]강은정 기자 = #무역회사를 다니는 평범한 직장인이었던 박홍원(33·남)씨는 3년 전 '탐정'으로 전직했다.",
-      "충남 아산시에 탐정사무소를 연 뒤로 의뢰인이 끊긴 적이 없다는 박씨는 \"올해 상반기 상담 건수가 지난해보다 30% 정도 늘었다.",
-      "정말 유망하고 보람 있는 직업인데 탐정을 관리하는 법이 아예 없어 일을 할 때 어려운 점이 많다\"고 말했다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n9aef6cc2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260804144900001",
-    "title": "與, 대표 경선 두번째 토론…당청관계·민생 현안 등 격돌",
-    "summary": [
-      "(서울=연합뉴스) 오규진 기자 = 더불어민주당은 5일 8·17 전당대회를 앞두고 당 대표 경선 두 번째 토론회를 연다."
+      "스페이스X의 로켓 잔해가 달 서쪽 표면에 충돌하는 전후 모습을 우리나라 달 궤도선 '다누리'(KPLO)가 담을 것으로 기대된다.",
+      "5일 오후 3시34분(한국 시간) 우주를 떠돌던 스페이스X 발사체 '팰컨9'의 2단 로켓(상단부·2025-010D)은 달 서쪽 가장자리 부근에 충돌할 것으로 보인다.",
+      "2단 로켓은 지난해 1월15일 발사된 팰컨9의 일부분이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8605353f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260804/134420697/1",
-    "title": "[단독]육사 출신 소령 진급률, 2년새 74%→62% 급격히 떨어져",
+    "id": "neb866525",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/living/2026/08/05/2026080413544728090",
+    "title": "\"나홀로 64% 쑥\"…남양유업 테이크핏, 오프라인 단백질 음료 1위 질주",
     "summary": [
-      "군 조직의 ‘허리’로 불리는 영관급 장교 진입의 첫 관문인 소령 진급 심사에서 육군사관학교 출신의 진급률이 최근 들어 가파르게 떨어진 것으로 나타났다.",
-      "국방부가 육·해·공군사관학교를 통합한 국군사관학교 창설을 추진하는 가운데 정치권에선 육사 출신만 진급률이 크게 하락한 이유를 군 당국이 명확히 설명해야 한다는 지적이 나왔다.5일 국회 국방위원회 소속 국민의힘 한기호 의원실에 따르면 지난달 발표된 올해 육군 대위→소령 진급 심사에서 육사 출신은."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n744130e5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/05/KUTONX6WSNFGHMCJSDZQSYAIMY/",
-    "title": "100만원대 못지 않다, 한국 기업 무선 청소기 10만원 특가 공동구매",
-    "summary": [
-      "100만원대 못지 않다, 한국 기업 무선 청소기 10만원 특가 공동구매."
+      "1분기 남양유업 테이크핏 82억원, 닥터유 프로 62억원 순 제조사 기준으론 오리온이 1위…시장은 4.6% 성장 그쳐 익스트림 60g vs 말차 62g…'초고단백' 시장 경쟁 격화 국내 오프라인 단백질 음료 시장을 둘러싼 경쟁이 치열한 가운데 남양유업 '테이크핏'이 오리온 '닥터유 프로'를 제치고 2개 분기 연속 단일 브랜드 매출 1위를 기록했다.",
+      "4일 한국농수산식품유통공사(aT) 식품산업통계정보가 공개한 시장조사기관 마켓링크의 소매점 POS(."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne54dcecf",
-    "category": "IT",
+    "id": "n535f5f44",
+    "category": "경제",
     "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026080504552297135",
-    "title": "월가 \"SK하이닉스 매수·비중확대\"…ADR 7.9% ↑",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026080418480951798",
+    "title": "구리는 탄탄한 풍산, 방산은 글쎄…\"매각도 불확실\"[클릭e종목]",
     "summary": [
-      "월가 주요 금융회사들이 SK하이닉스의 미국주식예탁증서(ADR)에 대해 잇달아 '매수' 또는 '비중확대' 의견을 제시하며 커버리지를 개시했다.",
-      "인공지능(AI) 투자 확대와 고대역폭메모리(HBM) 시장에서의 경쟁력을 바탕으로 SK하이닉스가 장기적인 메모리 호황의 최대 수혜를 받을 것이란 분석이다.",
-      "4일(현지시간) 외신에 따르면 뱅크오브아메리카(BofA)를 포함한 최소 6개 금융회사가 최근 SK하이닉스 ADR에 대한 기업분석을 시작하."
+      "풍산이 올해 2분기 구리 산업의 탄탄한 성장으로 준수한 실적을 거뒀다.",
+      "다만 방위산업은 아직 회복이 더뎌 매각도 불투명한 상황이다.",
+      "5일 한국투자증권은 이같은 배경에 풍산의 목표주가를 11만2000원으로 31.3% 낮췄다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n39296b6f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026080418162431412",
+    "title": "\"현대차 울고 기아 웃고\"…7월 판매 희비 갈린 형제들[클릭e종목]",
+    "summary": [
+      "현대차와 기아의 자동차 판매 흐름이 상반된 모습을 이어가고 있다.",
+      "기아는 역대 최대 7월 도매 판매를 기록한 반면, 현대차는 10개월 연속 글로벌 도매 판매 감소세를 이어갔다.",
+      "올해 3분기에도 이같은 흐름이 지속되는 가운데 상반기보다 내려간 원·달러 환율이 변수가 될 것으로 전망된다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "n456a76d5",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026080417105899340",
+    "title": "[클릭e종목] 녹십자 '어닝쇼크'에도 \"목표가·매수 의견은 유지\"",
+    "summary": [
+      "상상인증권은 4일 혈액제제와 백신을 주력으로 하는 제약사 녹십자에 대해 2분기 부진은 매출 인식 시점이 하반기로 미뤄진 데 따른 것이라며 목표주가 18만원과 투자의견 '매수'를 유지했다.",
+      "3일 종가(11만3300원) 대비 58.9%의 상승 여력이 있다는 분석이다.",
+      "녹십자의 2026년 2분기 매출액은 전년 동기 대비 15.8% 줄어든 4212억원, 영업이익은 93.8% 감소한 17억원으로 집계됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfbc79e01",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260805/134422276/1",
+    "title": "“우리 지금 떨고 있니?”… ‘10승 투수’ 왕옌청 탄생에 AG 5연패도 조마조마[어제의 프로야구]",
+    "summary": [
+      "한국 야구 대표팀이 아시안게임에서 이런 투수를 상대한 적은 없었다.그런데 2026 아이치-나고야 대회 때는 역사상 처음으로 이런 투수를 만날 확률이 높다.역설적으로 이 투수는 한국 타자들에게 아주 익숙한 선수이기도 하다.(위에서 이미 사진을 보신 것처럼) 바로 한화 소속 아시아쿼터 선수 왕옌청(王彥程·25·대만)이 ‘그 투수’다.왕옌청은 4일 프로야구 대구 방문 경기에서 안방 팀 삼성 타선을 6이닝 동안 무실점으로 막았다.한화가 결국 4-1로."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n20ee7f3c",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003736251",
+    "title": "EPL 맨시티, 3년 만에 상암벌 누빈다…오늘 팀 K리그와 격돌",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 3년 만에 방한한 잉글랜드 프로축구 프리미어리그(EPL) 강호 맨체스터 시티(이하 맨시티)가 프로축구 K리그를 대표하는 팀 K리그와 진검승부를 벌인다.",
+      "맨시티와 팀 K리그는 5일 오후 8시 서울월드컵경기장에서 열릴 2026 쿠팡플레이 시리즈 1경기에서 맞붙는다.",
+      "'한여름 밤의 축구 축제' 쿠팡플레이 시리즈가 2022년 창설돼 올해로 제5회째를 맞는다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "nc5afdf0a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003736316",
+    "title": "道, 가뭄 심한 포항·경주·영천에 특교세 5억씩 긴급배정",
+    "summary": [
+      "[안동=뉴시스] 류상현 기자 = 경북도가 가뭄이 심한 포항, 경주, 영천 지역에 4일 각 5억원씩 15억원의 정부 특별교부세를 긴급 배정했다.",
+      "5일 경북도에 따르면 포항의 경우 농업용 저수지 272곳의 평균 저수율이 37.7%에 불과하다.",
+      "포항시는 특별교부세 지원으로 당장 하천 109곳 굴착에 나서고 413곳에 살수차를 지원한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne1d69bfe",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/stock/2026/08/05/2026080502027059399",
+    "title": "[적중! 대박 예감] '비에이치아이, 금호타이어' 내일장 예감 좋은 대박 종목은?",
+    "summary": [
+      "▶▶▶ 김충성의 내일장 프리뷰 <코스닥 시대> ▶ 김충성의 내일장 주도섹터를 잡아라 -바닥권에서 부담 없는 원전주 -소외감 털고 일어나는 AI섹터 ▶ 김충성의 시그널 공략주 <비에이치아이(083650)> 발전용 산업 기자재 생산 전문 기업 외형 및 이익 성장세 지속 전망 바닥권 주가 턴어라운드 예상 ▶▶▶ 머니수급의 1급 기밀 수익 파일 <매집 포착 기법> ▶ 머니수급의 1급 기밀 원샷 포착 종목 BEST3 <삼성전자(005930)> 2분기 영."
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n10f01e34",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "29분 전",
-    "url": "https://view.asiae.co.kr/article/2026080504480193879",
-    "title": "美·이란, 호르무즈 통항 협상 진전…카타르 \"합의문 초안 공유\"",
-    "summary": [
-      "미국과 이란이 호르무즈 해협의 선박 통항 정상화에 합의할 것이란 기대감이 커지고 있다.",
-      "이란과 오만이 안전한 입·출항 항로 설정을 논의하는 가운데 잠정 합의문 초안도 관련 당사국들 사이에 공유된 것으로 전해졌다.",
-      "최종 합의가 이뤄질 경우 미국과 이란이 휴전 체제 복원과 핵 협상을 다시 추진할 수 있다는 관측이 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c31c275",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "33분 전",
-    "url": "https://www.hankyung.com/article/202608055115i",
-    "title": "HBM 여러개 쌓는다…삼성전자, 첨단 메모리반도체 'zHBM' 공개",
-    "summary": [
-      "HBM 여러개 쌓는다…삼성전자, 첨단 메모리반도체 'zHBM' 공개."
-    ],
-    "chips": [
-      "#반도체",
       "#삼성전자"
     ]
   },
   {
-    "id": "n4931b67c",
+    "id": "n5d5a287c",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/stock/2026/08/05/2026080502027024035",
+    "title": "[시선강탈] GS건설 vs 한국피아이엠 vs 파인엠텍, 공략법은?",
+    "summary": [
+      "▶ 진행 - 이수연 앵커 ▶ 출연 - 이용준 MTNW 어드바이저 송필호 MTNW 어드바이저 최태훈 MTNW 어드바이저 ▶▶▶ 시선강탈 공략주 이용준 관심주 - GS건설 - SMR 세제 혜택과 빌게이츠 방한 겹호재 - AI데이터센터 건립 확대로 전력 수요 증가 지속 - SMR 사업 수혜 본격화 기대감 ↑ - 목표가 34,000원 / 손절가 24,000원 송필호 관심주 - 한국피아이엠 - 금속분말사출성 기술 보유 기업 - 글로벌 로봇 밸류체인에 합."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n136acda8",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260805010900007",
+    "title": "'월드컵 돌풍' 카보베르데 감독, 모로코 프로팀 베르칸 지휘봉",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = 사상 처음 월드컵 본선 무대에 오른 카보베르데를 32강까지 이끈 부비스타(카보베르데) 감독이 모로코 프로축구팀..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n11002b2d",
     "category": "사회",
-    "source": "동아일보",
-    "time": "47분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260805/134421572/2",
-    "title": "18번째 백두장사 오른 김민재, 이만기와 타이",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/05/GNRDCZBYMMYTCNJTME2DCOLCMY/",
+    "title": "허경환, 이민정과 일대일 팬미팅 \"이상한 사고 치면 탈덕\"",
     "summary": [
-      "‘씨름 괴물’ 김민재(24)가 개인 통산 18번째 백두장사에 오르며 ‘씨름 황제’ 이만기(63)와 어깨를 나란히 했다.",
-      "김민재는 4일 경북 문경시 문경체육관에서 열린 ‘위더스제약 2026 민속씨름 문경장사대회’ 백두장사(140kg 이하) 결정전(5전 3승제)에서 김진(37)을 3-0으로 완파하고 황소 트로피를 품었다.",
-      "개인 통산 18번째 백두장사 타이틀을 따낸 김민재는 이만기와 함께 백두장사 역대 공동 2위가 됐다."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 허경환이 이민정에게 팬심을 드러냈다.",
+      "4일 유튜브 채널 '이민정 MJ'에는 '15년차 MJ 팬 허경환와 일대일 팬미팅 *떨려서 할 말을 다 이자~뿌쓰요'라는 제목의 영상이 게재됐다.이날 깜짝 팬미팅의 상대로는 허경환이 자리했다.",
+      "이민정은 놀라며 허경환과의 오랜 인연을 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne9f12996",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "47분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260805/134421574/2",
-    "title": "이알라, 필리핀 첫 WTA 우승컵 들었다",
+    "id": "n7e993f23",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260805004351091",
+    "title": "삼성, 'HBM5 8배 성능' 차세대 3D메모리 공개…\"AI칩 장벽 넘는다\"(종합)",
     "summary": [
-      "7월 메이저 대회 윔블던에서 16강에 오르며 ‘신데렐라’로 떠오른 알렉산드라 이알라(21)가 필리핀 선수 최초로 여자프로테니스(WTA)투어 단식 챔피언이 됐다.",
-      "이알라는 4일 미국 워싱턴에서 열린 무바달라DC 오픈 여자 단식 결승에서 제시카 페굴라(32·미국·세계랭킹 3위)를 2-1(4-6, 6-4, 6-0)로 꺾었다.",
-      "이 경기는 폭우 때문에 1박 2일에 걸쳐 진행됐다."
+      "(샌타클래라=연합뉴스) 권영전 특파원 = 삼성전자가 인공지능(AI) 반도체의 성능과 전력 효율 한계를 뛰어넘기 위해 AI 칩 상단에 메모리를 수..."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n14c88a73",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "47분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260805/134421577/2",
-    "title": "‘간판’ 이정후 꽉 잡고 7명 내보낸 SF",
-    "summary": [
-      "‘바람의 손자’ 이정후(28)의 소속팀 샌프란시스코는 트레이드 마감 시한(4일) 직전 대대적인 트레이드를 단행했다.",
-      "내셔널리그(NL) 서부지구 4위로 포스트시즌 진출 가능성이 희박해지자 선수단 몸값을 줄이고 유망주를 확보하기 위해 ‘파이어 세일’에 나선 것이다.",
-      "2021년 아메리칸리그(AL) 사이영상을 수상한 왼손 선발투수 로비 레이(35)는 샌디에이고로, 타격왕 3회 수상자인 2루수 루이스 아라에스(29)는 필라델피아로 각각 떠나보냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf2882b2d",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "53분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260805004100072",
-    "title": "국제유가, 미·이란 협상 기대에 이틀째 급락…브렌트 5%↓",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국와 이란이 호르무즈 해협 통항을 둘러싼 협상이 진전을 이뤘다는 소식에 4일(현지시간) 국제 유가가 5% ..."
-    ],
-    "chips": [
-      "#뉴스"
+      "#AI",
+      "#반도체",
+      "#삼성전자"
     ]
   }
 ];
@@ -637,21 +642,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
