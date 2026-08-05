@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-05 17:19:13
+// 마지막 업데이트: 2026-08-05 19:13:27
 window.NEWS_DB = [
   {
     "id": "n5c09d452",
@@ -150,12 +150,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -227,12 +227,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "68일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -299,22 +299,232 @@ window.NEWS_DB = [
   {
     "id": "nbcfe41a7",
     "category": "IT",
-    "source": "yonhapnewstv.co.kr",
+    "source": "연합뉴스TV",
     "time": "163일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 yonhapnewstv.co.kr."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
       "#스타트업"
     ]
   },
   {
+    "id": "n2f632db0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/06/7NO7DIA33RA2TNDBNKXM7INFTA/",
+    "title": "민주당 새 얼굴 된 ‘급진 좌파’… 미시간 뒤흔든 엘 사예드, 누구?",
+    "summary": [
+      "민주당 새 얼굴 된 ‘급진 좌파’… 미시간 뒤흔든 엘 사예드, 누구?."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n52188a3f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260805_0003737926",
+    "title": "대구·경북 맑고 푹푹 찐다…구미 37도·대구 36도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 6일 대구·경북은 대체로 맑고 무더울 것으로 예상된다.",
+      "대구지방기상청은 이날 \"대부분 지역에 폭염특보가 발효된 가운데 당분간 매우 무덥겠고 열대야가 나타나는 지역이 있겠다\"고 예보했다.",
+      "아침 최저기온은 20~26도(평년 20~24도), 낮 최고기온은 30~37도(평년 29~34도)로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n89a70b12",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260803_0003734345",
+    "title": "차 안 최고 90도…라이터·배터리 방치했다간 '펑'[짤막영상]",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 이우경인턴기자 = 여름철 무더위가 이어지면서 직사광선에 노출된 차량 내부가 순식간에 '찜통'으로 변해 화재와 인명피해 사고가 잇따르고 있어 주의가 요구된다.",
+      "6일 한국교통안전공단(TS)에 따르면 7~8월 휴가철과 폭염 시기에는 자동차 화재 발생 건수가 평상시보다 10~20% 가량 증가하는 것으로 나타났다.",
+      "차량 실내 온도가 급격히 오르면서 전자기기와 인화성 물질이 과열돼 화재로 이어질 위험이 커지기 때문이다."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n9df2db93",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806004300071",
+    "title": "트럼프 충성파 美법무 후보 인준 다시 난관…반대 의원 늘어",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령의 '충성파' 측근인 토드 블랜치 미국 법무장관 후보자에 대한 미 연방 상원 인준..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n29fe9142",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026080603592349372",
+    "title": "[속보]이란 대통령 \"현재 최고지도자와 소통 매우 어렵다\"",
+    "summary": [
+      "[속보]이란 대통령 \"현재 최고지도자와 소통 매우 어렵다\"."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8c3f675a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/08/06/MFSTGYJZGIYTMZLCMNSWIZJSHA/",
+    "title": "'조던과 NBA 3연패' 두 달 전 사망한 故 스테이시 킹, 진짜 사인 밝혀졌다...\"고혈압성 심혈관 질환, 자연사 결론\"",
+    "summary": [
+      "[OSEN=고성환 기자] 많은 미국 프로농구(NBA) 팬들의 마음을 사로잡았던 故 스테이시 킹의 사인이 약 두 달 만에 공개됐다.영국 '데일리 메일'은 5일(한국시간) \"NBA 레전드 스테이시 킹의 사망 원인이 밝혀졌다.",
+      "의료 보고서에 따르면 그는 시카고 자택에서 고혈압으로 인해 발생한 심혈관 질환으로 비극적인 사고를 겪으며 숨졌다\"고 보도했다.킹은 시카고."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nfef59f37",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260806_0003738139",
+    "title": "미시건 민주 상원 예비선거 ‘진보’ 후보 승리…트럼프 “공화당에 훌륭한 소식”",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 미국 미시간주 민주당 상원의원 예비 선거에서 지도부가 지원하는 후보에 맞선 압둘 엘사예드가 당선됐다.",
+      "그는 뉴욕 시장 조란 맘다니 같은 민주사회주의자는 아니지만 버니 샌더스, 엘리자베스 워런 상원의원, 알렉산드리아 오카시오-코르테즈 하원의원 같은 거물들의 지지를 받으며 좌파 강령을 내세워 선거에 출마했다.",
+      "그는 여론조사에서 헤일리 스티븐스 하원의원을 크게 앞섰으나 막상 선거에서는 간신히 승리했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2172c706",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806004200087",
+    "title": "'서른살' 페루 리마영화제 개막…나홍진 '호프' 상영",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 나홍진 감독의 영화 '호프'가 페루 영화 팬들을 만난다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n42d70c12",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026080603473645151",
+    "title": "디즈니 영업이익 전년比 21% ↑…놀이공원·'토이스토리 5' 실적 견인",
+    "summary": [
+      "월트디즈니컴퍼니(디즈니)가 애니메이션 영화 '토이 스토리 5'의 흥행과 놀이공원 사업 호조에 힘입어 시장 예상을 웃도는 수익성을 기록했다.",
+      "디즈니는 5일(현지시간) 2026회계연도 3분기(4∼6월) 전체 부문 영업이익이 55억5500만달러(약 7조9000억원)로 전년 동기보다 21% 증가했다고 밝혔다.",
+      "매출은 252억4800만달러로 지난해 같은 기간보다 7% 늘었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7982fa70",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/06/GJSWENTBMEYWCMBZGE3GKYJRMY/",
+    "title": "\"이제 며칠 안남았어요\" 상암서 데뷔전 앞둔 아틀레티코 뉴 '넘버7' 이강인 \"빨리 시작하고 싶다\"...합류 지연 이유까지 설명 \"서류 처리에 어려움 있었어\"",
+    "summary": [
+      "[스포츠조선 박찬준 기자]\"하루 빨리 시작하고 싶은 마음이 정말 크다!\" 아틀레티코 마드리드의 새로운 '넘버7' 이강인의 소감이었다.",
+      "이강인은 5일(한국시각) 구단 공식 홈페이지에 공개도니 영상을 통해 입단 소감과 각오 등을 전했다.",
+      "아틀레티코는 지난달 25일 구단 공식 채널을 통해 '이강인이 파리생제르맹을 떠나 아틀레티코 마드리드로 이적했다'고 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e151789",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806004000091",
+    "title": "구글 '27년 전설' 수석과학자 퇴사…'노벨상' 허사비스 승계",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 구글 내에서 '전설'로 불리던 제프 딘 수석과학자가 회사를 떠나 창업에 나서기로 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n28610d7d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/06/GNSDKNDCMQZWGMZVMM4WIZBTME/",
+    "title": "아스날 이적설에 \"연봉 485억 드릴게\" 비니시우스, 레알 개선안 받았다...이제 선택은 선수 몫",
+    "summary": [
+      "[OSEN=정승우 기자] 레알 마드리드가 비니시우스 주니오르(26, 레알 마드리드)에게 한층 개선된 재계약 조건을 제시했다.",
+      "아스날이 영입을 적극 검토하는 가운데 레알 마드리드도 핵심 공격수를 지키기 위해 움직였다.영국 '디 애슬레틱'은 6일(한국시간) \"레알 마드리드가 비니시우스에게 개선된 계약안을 제시했다\"라고 단독 보도했다.비니시우스와 레알 마드리드의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3b2c01d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "46분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260806/134428498/1",
+    "title": "미군 “중동 해상서 상선 2척 무력화하고 48척 항로변경”",
+    "summary": [
+      "미군 중부사령부는 5일(현지시간) 이란에 대한 봉쇄 작전을 지속하는 가운데 지시에 따르지 않은 선박 2척을 무력화했다고 밝혔다.중동을 작전구역으로 둔 중부사령부는 이날 사회관계망서비스(SNS) 엑스(X·옛 트위터)를 통해 상선 48척의 항로를 변경했다며 이같이 알렸다.사령부는 봉쇄 준수 여부를 확인하기 위해 선박 2척에는 직접 승선 조사도 실시했다고 설명했다.아울러 미 공군 F-16 전투기가 중동 지역 해상 순찰 중 공중급유를 받았다며 그 사진."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n84ff7ef3",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260805_0003737727",
+    "title": "\"4000원 햄버거 안 통했다\"…맥도날드, 가성비 전략에도 매출 '주춤'",
+    "summary": [
+      "[서울=뉴시스]이지영 기자 = 맥도날드가 3달러(약 4200원) 이하의 가성비 메뉴를 앞세워 소비자 공략에 나섰지만 기대만큼의 성과를 거두지 못했다.",
+      "할인 정책을 잇달아 펼쳤음에도 미국 매출 증가세가 둔화한 것이다.",
+      "4일(현지시간) 비즈니스인사이더(BI)에 따르면 맥도날드 올해 2분기 미국 매장 매출은 전년 동기 대비 0.8% 증가하는 데 그쳤다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
     "id": "nec7e7564",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154036",
     "title": "LG CNS, 727억원 규모 중간배당...내달 4일 지급",
     "summary": [
@@ -327,10 +537,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne74b94b9",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "1시간 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/06/CUUS2EX7RJF5ZKPXB4CM3WYB54/",
+    "title": "‘알파고 아버지’ 허사비스 CEO직 내려놓는다… 구글 AI 리더십 개편",
+    "summary": [
+      "‘알파고 아버지’ 허사비스 CEO직 내려놓는다… 구글 AI 리더십 개편."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "nc926b644",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154034",
     "title": "[카드뉴스] 은행도 오래 머무는 앱을 만들기 시작했다.. 케이뱅크는 왜 게임과 AI를 동시에 선택했을까?",
     "summary": [
@@ -346,7 +570,7 @@ window.NEWS_DB = [
     "id": "nb2a8ed36",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154033",
     "title": "SKT \"AIDC '선수요 후구축\"'...재무 악화·공급 과잉 우려 '일축'(종합)",
     "summary": [
@@ -359,40 +583,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne26cc0f1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/06/CXCLU3URV5ESBKWNJBH24673FU/",
-    "title": "미시간 민주당 상원후보에 엘사예드…‘맘다니 돌풍' 경합주로 확산",
-    "summary": [
-      "미시간 민주당 상원후보에 엘사예드…‘맘다니 돌풍' 경합주로 확산."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2ebf4f87",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260805_0003737472",
-    "title": "\"낙첨인 줄 알고 버렸는데 16억 당첨\"…伊 쓰레기장 수색 끝에 찾아",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 당첨 사실을 모른 채 복권을 버렸던 여성이 쓰레기장 수색 끝에 16억원 당첨 복권을 극적으로 되찾은 사연이 전해졌다.",
-      "5일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면, 이탈리아 남부 푸글리아 지역에 사는 한 여성이 최근 복권 추첨에서 100만 유로(약 16억원)에 당첨됐다.",
-      "소동은 일요일 한 동네 복권 판매점에서 시작됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2b5ed53a",
     "category": "IT",
     "source": "테크M",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154035",
     "title": "감 잡은 넷마블, 신작 흥행 공식 바꾼다…\"게임 수명 늘려 장기 성장\"",
     "summary": [
@@ -404,26 +598,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5c010279",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/06/GAYDEM3BHE3TINRRHAZDGZJQMM/",
-    "title": "'부정 투구 의혹' 누명 벗은 고우석 실전 복귀, 이제는 빅리그 복귀 도전…과제는 명확하다",
-    "summary": [
-      "[스포츠조선 박상경 기자] 빅리그 복귀를 위해 풀어야 할 과제는 명확하다.",
-      "부정 투구 누명을 벗은 고우석(미네소타 트윈스)이 트리플A 복귀전에서 호투했다.",
-      "세인트폴 세인츠에 머물고 있는 고우석은 5일(한국시각) 미국 미네소타주 세인트폴의 CHS필드에서 펼쳐진 루이스빌 베츠(신시내티 레즈 산하)전에서 팀이 11-5로 앞선 8회초 등판해 1이닝 무안타 1볼넷."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nae501e48",
     "category": "IT",
     "source": "한국경제",
-    "time": "13분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202608067359i",
     "title": "샌디스크의 AI 메모리 승부수…주가 부활 노리는 오라클[박신영의 개장전 요것만]",
     "summary": [
@@ -437,7 +615,7 @@ window.NEWS_DB = [
     "id": "n6636592c",
     "category": "사회",
     "source": "동아일보",
-    "time": "17분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260806/134428491/1",
     "title": "“먹는 양 줄이고 필라테스했다”…쌍둥이 엄마 레이디제인의 20kg 감량법",
     "summary": [
@@ -447,183 +625,6 @@ window.NEWS_DB = [
     "chips": [
       "#의료"
     ]
-  },
-  {
-    "id": "n00814bb9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260806/134428488/1",
-    "title": "“음료 한 캔에 1만1000원?”…우즈벡 관광청까지 나섰다, 유튜버 폭로 후폭풍",
-    "summary": [
-      "우즈베키스탄 여행 중 음료수 한 캔을 시세보다 훨씬 비싼 가격에 결제했다고 폭로한 한국인 유튜버에게 우즈베키스탄 정부 관광청이 직접 사과와 함께 초청 의사를 밝혔다.지난 2일 유튜브 채널 ‘상가의 안녕히 살아보기’에는 ‘우즈베키스탄 정부 관광청에서 직접 연락이 왔습니다…’라는 제목의 영상이 공개됐다.영상에서 유튜버 상가는 “우즈베키스탄을 떠난 뒤 여행에 집중하지 못할 정도로 현지인들의 연락이 쏟아지고 있다”며 “인스타그램 DM만 1000개 이상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f1ab4fb",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260806/134428483/1",
-    "title": "“지금 시장 고점 임박”…美 ‘빅쇼트’ 버리, 1987년 블랙 먼데이급 폭락 경고",
-    "summary": [
-      "영화 ‘빅쇼트’의 실제 주인공으로 잘 알려진 투자자 마이클 버리가 미국 증시의 신고가 경신에도 공매도를 철회하지 않겠다는 뜻을 밝혔다.그는 현 증시 상승이 1987년 ‘검은 월요일’과 같은 급격한 폭락으로 이어질 수 있다고 경고했다.4일(현지 시간) 미국 CNBC 보도에 따르면 버리는 지난 화요일 서브스택을 통해 “여전히 우리가 고점에 가까워졌으며, 1987년 형태의 폭락이 찾아올 가능성이 있다고 믿는다”고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nafec99e0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260805_0003737750",
-    "title": "\"내가 내 무덤 팠다\"…AI 습격에 무너진 190만 필리핀 외주 시장",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = 인공지능(AI) 기술의 빠른 발전으로 저렴한 인건비를 앞세웠던 필리핀의 외주 서비스 시장이 심각한 고용 위기에 직면했다.",
-      "5일 영국 BBC 방송은 AI 시스템의 전면 도입으로 필리핀의 핵심 동력인 정보기술 및 업무위탁(BPO) 산업 노동자들이 일자리를 잃을 위험에 노출됐다고 보도했다.",
-      "2000년대 초반부터 필리핀은 높은 영어 소통 능력을 바탕으로 인도와 더불어 세계적인 외주 서비스 거점으로 자리 잡았다."
-    ],
-    "chips": [
-      "#AI",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n569972c5",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260806/134428480/1",
-    "title": "“내 딸 건드렸지”…美 30대 아버지, 성폭행범을 딸 SNS로 유인해 총격",
-    "summary": [
-      "미국에서 11세 딸을 성폭행한 범인을 딸의 SNS 계정으로 유인해 직접 총을 쏜 30대 아버지가 경찰에 붙잡혔다.지난 4일(현지 시간) 미국 뉴욕포스트에 따르면, 오하이오주 그로브시티에 사는 말릭 챈들러(31)는 지난달 자신의 11세 딸을 성폭행한 혐의를 받는 디에고 몬토야 곤잘레스(20)를 집으로 유인해 총격을 가했다.사건은 챈들러의 아내가 딸의 휴대전화를 점검하던 중 곤잘레스가 딸을 성적으로 학대하는 영상이 담긴 것을 발견하면서 시작됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41a83eed",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/06/MNRDKMRVGU2GINBUGZRGGYJUHE/",
-    "title": "\"왕 대접 받더니 무책임\" 사령탑 극대노→71일 만의 극적반전, \"전혀 다른 투수 됐다\" 왜?[대구 현장]",
-    "summary": [
-      "[대구=스포츠조선 정현석 기자]시즌 초 강력한 질책을 듣고 2군으로 내려갔던 삼성 라이온즈 좌완 이승현이 71일간의 절치부심 끝에 확 달라진 모습으로 복귀해 사령탑의 신뢰를 되찾았다.",
-      "이승현은 시즌 초였던 지난 4월 8일 KIA전에서 선발 등판했으나 2⅔이닝 동안 11안타(2홈런) 8볼넷 12실점으로 크게 무너졌다.",
-      "당시 박진만 감독은 \"선발로서 왕 대접을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b6fd47e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260805_0003737608",
-    "title": "한선화가 푹 빠진 '수영'…다이어트 돕는 전신운동 '주목'",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 걸그룹 시크릿 출신 배우 한선화가 수영에 푹 빠진 근황을 공개하며 눈길을 끌었다.",
-      "한선화는 지난 4일 자신의 사회관계망서비스(SNS)에 수영 이모티콘과 함께 \"잘하고싶…\"이라는 글을 남기며 사진과 영상을 공개했다.",
-      "공개된 게시물에는 실내 수영장에서 연습에 집중하는 한선화의 모습이 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf297428c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806002400087",
-    "title": "\"룰라는 도둑\" 밀레이 도발에…브라질, 아르헨 외교관계 격하",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 하비에르 밀레이 아르헨티나 대통령이 루이스 이나시우 룰라 다시우바 브라질 대통령을 \"도둑\"이라 부르며 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf3006865",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806002300071",
-    "title": "美, 멕시코 마약 카르텔 지도부에 최대 1천500억원 현상금",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 국무부 국제마약·법집행국(INL)은 멕시코의 대표적 마약 및 테러 카르텔인 '할리스코 신세대 카르텔'..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b9e8f28",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/06/FKU6TNMQU5FEJOJQCYHG7FKZ6Q/",
-    "title": "이란 “오만과 호르무즈 항로 좌표 합의... 공동 성명 임박”",
-    "summary": [
-      "이란 “오만과 호르무즈 항로 좌표 합의... 공동 성명 임박”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n097b43de",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "33분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003738137",
-    "title": "우크라이나 前 주미대사 부패 혐의 기소…3일 해임 이어",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 우크라이나의 전 미국 대사 올하 스테파니시나(40)가 불법적인 재산 증식 혐의로 기소됐다고 반부패 검찰이 5일 고등반부패법원 심리에서 밝혔다.",
-      "법원은 현재 스테파니시나 전 대사에 대한 재판 전 제한조치를 검토 중이다.",
-      "검찰에 따르면 스테파니시나 전 대사는 아파트 두 채와 아파트 개조 비용, 어머니의 치료비, 항공권, 그리고 다른 아파트 임대료로 지출한 현금을 신고하지 않았다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n8f1096e8",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "34분 전",
-    "url": "https://www.hankyung.com/article/202608067357i",
-    "title": "머스크가 쏘아올린 엔비디아 주가[박신영의 개장전 요것만]",
-    "summary": [
-      "머스크가 쏘아올린 엔비디아 주가[박신영의 개장전 요것만]."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n317a060d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806001900071",
-    "title": "美의원, 성추문에 재선도전 포기…중간선거 앞 공화당 겹악재",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 오는 11월 중간선거를 앞두고 미국 공화당에 악재가 겹치고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
   }
 ];
 
@@ -632,8 +633,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
@@ -643,9 +644,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
