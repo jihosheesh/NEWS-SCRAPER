@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-05 19:13:27
+// 마지막 업데이트: 2026-08-05 20:56:38
 window.NEWS_DB = [
   {
     "id": "n5c09d452",
@@ -150,26 +150,26 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
     ]
   },
   {
-    "id": "nc8278c80",
+    "id": "n39919f03",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnhjMHNFRjMwY09qOFpQdTAyQW1Tb3d5ZEw3MTdndmFlMGUwU0s5YmotZ205aGladkw4WlFjeDVkY0tVRWxFNTZlR0VHazFhUTZpN0lLZWx4S19FNjJ0M2Z4WktiRnhfY3MzV3U5QkZTZW94WWkyNkVrbUI2Z2dCR2RhVGh0c2VEbnhwU2l6ZFZYQ1RsNVJfSHlaSVZVU1VoYUVyT3M0Z3dwV0lxQU40aTN3TE4xSlJVWHBlVkFR?oc=5",
-    "title": "다낭 남부의 한 구역에서 1만 4천 개의 일자리가 제공되는 취업 박람회가 열렸습니다.",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVRWZGdPMnBMd1M3NDZZWHBUd1QtMXhnLXMtZXR0bzVaWVJFTHdhTEJwZUwtMno4djV4M2IyY2tsVG1uYXh5TjZ6WEZtMW1TZUt3WGc1d2hEUUpmdktXeGl3SWhqMnhqZlBXV1VLTnZQenlmbTc5bmlvTlhRVFlVb3pxZjJaNkpUcUdCVVFiLUs1dzNqUExDZFBBWjkzY2VSTU1wWVRHblAtell6VmpUTA?oc=5",
+    "title": "빈빈 지역에서 열린 취업 박람회에는 2,000개가 넘는 일자리가 있었습니다.",
     "summary": [
-      "다낭 남부의 한 구역에서 1만 4천 개의 일자리가 제공되는 취업 박람회가 열렸습니다."
+      "빈빈 지역에서 열린 취업 박람회에는 2,000개가 넘는 일자리가 있었습니다."
     ],
     "chips": [
       "#취업",
@@ -195,12 +195,12 @@ window.NEWS_DB = [
   {
     "id": "n6b58f8f3",
     "category": "사회",
-    "source": "아주경제",
+    "source": "ajunews.com",
     "time": "37일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
-      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
     ],
     "chips": [
       "#채용",
@@ -227,12 +227,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "68일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#부동산"
@@ -270,12 +270,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "85일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -311,70 +311,307 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2f632db0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/06/7NO7DIA33RA2TNDBNKXM7INFTA/",
-    "title": "민주당 새 얼굴 된 ‘급진 좌파’… 미시간 뒤흔든 엘 사예드, 누구?",
-    "summary": [
-      "민주당 새 얼굴 된 ‘급진 좌파’… 미시간 뒤흔든 엘 사예드, 누구?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n52188a3f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260805_0003737926",
-    "title": "대구·경북 맑고 푹푹 찐다…구미 37도·대구 36도",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 6일 대구·경북은 대체로 맑고 무더울 것으로 예상된다.",
-      "대구지방기상청은 이날 \"대부분 지역에 폭염특보가 발효된 가운데 당분간 매우 무덥겠고 열대야가 나타나는 지역이 있겠다\"고 예보했다.",
-      "아침 최저기온은 20~26도(평년 20~24도), 낮 최고기온은 30~37도(평년 29~34도)로 예측된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89a70b12",
+    "id": "n9b68e36c",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260803_0003734345",
-    "title": "차 안 최고 90도…라이터·배터리 방치했다간 '펑'[짤막영상]",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026080605490168814",
+    "title": "[뉴욕증시]다우, 또 최고치…호르무즈 통항 합의 기대·기술주 약세에 혼조",
     "summary": [
-      "[서울=뉴시스] 강세훈 기자, 이우경인턴기자 = 여름철 무더위가 이어지면서 직사광선에 노출된 차량 내부가 순식간에 '찜통'으로 변해 화재와 인명피해 사고가 잇따르고 있어 주의가 요구된다.",
-      "6일 한국교통안전공단(TS)에 따르면 7~8월 휴가철과 폭염 시기에는 자동차 화재 발생 건수가 평상시보다 10~20% 가량 증가하는 것으로 나타났다.",
-      "차량 실내 온도가 급격히 오르면서 전자기기와 인화성 물질이 과열돼 화재로 이어질 위험이 커지기 때문이다."
+      "이란과 오만의 호르무즈 해협 통항 협상에 대한 기대와 인공지능(AI) 관련 기술주의 약세가 엇갈리면서 5일(현지시간) 미국 뉴욕증시의 3대 지수가 혼조세로 마감했다.",
+      "다우존스30산업평균지수는 주요 기업의 호실적과 중동 긴장 완화 기대에 힘입어 또다시 사상 최고치를 경신했지만, S&P500지수와 나스닥지수는 AMD와 알파벳 등 기술주 약세로 하락했다.",
+      "뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거."
     ],
     "chips": [
-      "#전기차"
+      "#AI"
     ]
   },
   {
-    "id": "n9df2db93",
+    "id": "nd36f0eab",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260806/134428513/1",
+    "title": "“부모님 포함 주변 모두에게 비밀로 할 것”…출근길 문득 산 복권 1등 ‘대박’",
+    "summary": [
+      "출근길 문득 복권을 사야겠다는 생각에 구매한 즉석복권이 1등에 당첨되는 행운을 안은 사연이 전해졌다.최근 동행복권에 따르면 경기 군포시의 한 복권판매점에서 판매된 스피또1000 107회차에서 1등 당첨자가 나왔다.당첨자 A 씨는 인터뷰를 통해 “출근길에 문득 오늘 복권을 한번 사볼까 하는 생각이 들어 복권판매점에 들렀다”며 “평소처럼 로또와 스피또를 1만 원어치 구매한 뒤 하루를 보냈다”고 밝혔다.이어 “퇴근 후 집에서 스피또의 당첨 여부를 확."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n22c659f0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260806/134428509/1",
+    "title": "“한국산 물은 변기 물로나 써라”… 지진 구호 생수 받은 일본인 망발",
+    "summary": [
+      "규모 7.1 강진으로 다수의 이재민이 발생한 일본 구마모토에 한국 기업들이 생수와 생필품을 지원한 가운데, 일부 일본인들이 SNS(소셜미디어)에 “한국산 생수는 변기 물로나 써야 한다”는 비하성 글을 올려 공분을 유발하고 있다.일본 국민들의 피해 사실이 알려진 직후 대한항공은 인천공항발 기타큐슈행 화물편을 통해 1.5L 생수 1000박스, 총 1만2000병을 피해 지역에 지원했다.",
+      "생수 등 보급품은 이후 육로를 통해 이재민들에게 전달되고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nac49a229",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806004300071",
-    "title": "트럼프 충성파 美법무 후보 인준 다시 난관…반대 의원 늘어",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806007400055",
+    "title": "전북 대체로 맑고 일부 소나기…낮 최고 35∼38도",
     "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령의 '충성파' 측근인 토드 블랜치 미국 법무장관 후보자에 대한 미 연방 상원 인준..."
+      "(전주=연합뉴스) 백도인 기자 = 목요일인 6일 전북은 대체로 맑은 가운데 북서부 지역에는 곳에 따라 소나기가 내리겠다."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5fa97ca8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806006400075",
+    "title": "스페이스X 로켓 잔해, 달 표면에 충돌…우주쓰레기 4t 투척",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 우주를 떠돌던 스페이스X의 로켓 잔해가 5일(현지시간) 달 표면에 충돌했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb4661b80",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/economy/int_economy/2026/08/06/5SOBQSXAYJGLXAUYV7GGKW2CZE/",
+    "title": "뉴욕 증시, 호르무즈 재개방 기대에 혼조… 다우 또 최고치, 나스닥 0.8%↓",
+    "summary": [
+      "뉴욕 증시, 호르무즈 재개방 기대에 혼조… 다우 또 최고치, 나스닥 0.8%↓."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb360510d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/06/THLCY5EI45EDLLPFT4JL6HJMBM/",
+    "title": "45도 폭염에 정권도 ‘휘청’... 튀니지 ‘정전 항의’ 대규모 시위",
+    "summary": [
+      "45도 폭염에 정권도 ‘휘청’... 튀니지 ‘정전 항의’ 대규모 시위."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n044ff865",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806006100034",
+    "title": "전국 맑고 폭염·열대야 지속…한낮 최고 39도",
+    "summary": [
+      "(서울=연합뉴스) 양수연 기자 = 목요일인 6일은 무더위와 열대야가 이어지는 가운데 전국이 대체로 맑겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8c256a8e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260805_0003737948",
+    "title": "연일 폭염에 삼성 에어컨 판매 전년比 두 자릿수↑…\"AS도 급증\"",
+    "summary": [
+      "[서울=뉴시스]박나리 기자 = 연일 폭염이 이어지면서 삼성전자의 에어컨 판매량이 지난해 같은 기간보다 두 자릿수 증가했다.",
+      "여름철 계절적 수요를 넘어 전년 대비 판매 성장세를 보인 가운데, 에어컨 가동이 집중된 지난달에는 애프터서비스(AS) 신청도 전월보다 50% 이상 급증했다.",
+      "6일 업계에 따르면 삼성전자의 최근 3개월간 에어컨 판매량은 전년 동기 대비 두 자릿수 증가했다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "nb82f3a91",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260805_0003738080",
+    "title": "[오늘의 주요일정]국토교통부(8월06일 목요일)",
+    "summary": [
+      "[서울=뉴시스] ◇장관 ▲별도일정 없음 ◇1차관 ▲별도일정 없음 ◇2차관 ▲국외출장(중국) ◇대도시권광역교통위원장 ▲별도일정 없음."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a4260fe",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260805_0003737791",
+    "title": "지프·푸조 \"체질 개선 끝\"…스텔란티스, 하반기 신차로 반등 모색[수입車 뉴웨이브]",
+    "summary": [
+      "[서울=뉴시스]남주현 기자 = 스텔란티스코리아가 취임 3년 차를 맞은 방실 대표를 중심으로 진행해온 브랜드 체질 개선 작업을 바탕으로 하반기 본격 반등을 모색한다.",
+      "단기 할인 경쟁에서 벗어나 지프의 '오프로드 헤리티지'와 푸조의 '스마트 하이브리드'로 포지셔닝을 명확히 분리하고, 네트워크 및 서비스 통합을 기반으로 한 투트랙 전략으로 시장 공략을 강화한다는 구상이다.",
+      "6일 한국수입자동차협회(KAIDA)에 따르면 올해 1~7월 지프 등록대수는 6."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n709608ec",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260805_0003737963",
+    "title": "[오늘의 주요일정]해양수산부(8월6일 목요일)",
+    "summary": [
+      "[서울=뉴시스] ◇장관 ▲통상일정 ◇차관 ▲10:00 차관회의(서울)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n97c1629a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806000952079",
+    "title": "이란 \"호르무즈 새 항로 합의…상당부분 이란 영해 통과\"(종합2보)",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란과 오만이 호르무즈 해협의 상선 안전 통항로 확보를 위한 협상을 이어가는 가운데, 양국이 항로의 지리적..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n65061890",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "41분 전",
+    "url": "https://view.asiae.co.kr/article/2026080604451157458",
+    "title": "[속보]뉴욕증시 혼조 마감…다우 최고치 경신",
+    "summary": [
+      "이란이 호르무즈 해협 통항과 관련해 오만과 지리적 좌표에 합의했다는 소식에 주목하며 5일(현지시간) 미국의 3대 지수는 혼조세로 마감했다.",
+      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 0.49% 오르며 마감했다.",
+      "대형주 중심의 S&P500지수는 0.17%, 기술주 중심의 나스닥지수는 0.83% 떨어져 장을 마무리했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfef6c3b5",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806005600009",
+    "title": "중국 비판해도 돈 앞에선…아르헨, 위안화 스와프 5년 연장",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나 중앙은행과 중국 인민은행이 1천300억위안(192억달러·27조4천억원) 규모의 양자 통..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n234c6361",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260805153400001",
+    "title": "與서울시당, 오늘 부동산 정책 간담회…세제 개편안 논의",
+    "summary": [
+      "(서울=연합뉴스) 오규진 기자 = 더불어민주당 서울시당은 6일 국회에서 부동산 정책 대응을 위한 간담회를 연다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책",
       "#정치"
+    ]
+  },
+  {
+    "id": "n5294e060",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806005400072",
+    "title": "국제유가, 호르무즈 통항 논의속 보합권 마감…브렌트 79달러",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 이란과 오만이 호르무즈 해협 통항을 위한 논의를 이어가면서 5일(현지시간) 국제 유가가 보합권에서 마감했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncd6c6326",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260806/134428506/1",
+    "title": "日 업체, 사람 들어가 더위 식히는 ‘인간용 냉장고’ 판매",
+    "summary": [
+      "일본의 한 업체가 사람이 들어가 앉아서 더위를 식히는 ‘인간용 냉장고’를 판매에 화제다.",
+      "서울에 처음으로 폭염중대경보가 내려지고 유럽이 폭염에 휩싸이는 등 더위와 전쟁을 벌이고 있는 가운데 눈길을 끌고 있다.",
+      "가상자산 기반 대표 예측시장 플랫폼 폴리마켓은 최근 소셜미디어 X에 한 여성이 ‘인간용 냉장고’ 안에 앉아 있는 사진과 함께 이 제품을 소개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n960e6650",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260806/134427842/2",
+    "title": "[단독]서울대생이 혼자 쓴 코인 논문, 전문 국제학술지에",
+    "summary": [
+      "“처음엔 호기심에서 시작했어요.” 3일 서울 관악구 서울대에서 만난 자유전공학부 3학년 김태윤 씨(21)는 국제 학술지에 논문을 싣게 된 계기를 이렇게 설명했다.",
+      "그는 6월 금융학 전문 국제 학술지 ‘파이낸스 리서치 레터스’에 단독 저자로 논문을 게재했다.",
+      "지난해 재무 금융 분야에서 상위 7% 수준으로 자주 인용된, 이 분야에서 손꼽히는 학술지다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd99ee22f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026080604291953959",
+    "title": "이란 외무부 \"호르무즈 새 항로 합의\"…이란에 선박 통제권 넘기나",
+    "summary": [
+      "이란과 오만이 호르무즈 해협을 통과하는 상선의 안전 항로와 지리적 좌표에 합의하면서 해협 재개 협상이 막바지 단계에 접어들었다.",
+      "다만 이번 합의가 해협의 전면 개방을 의미하지는 않으며, 페르시아만으로 진입하는 선박의 상당수가 이란의 관리 아래 놓일 수 있어 이란의 통제권을 사실상 인정하는 것 아니냐는 우려도 나온다.",
+      "5일(현지시간) 블룸버그통신과 월스트리트저널(WSJ) 등에 따르면 에스마일 바가이 이란 외무부 대."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n29fe9142",
     "category": "사회",
     "source": "아시아경제",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026080603592349372",
     "title": "[속보]이란 대통령 \"현재 최고지도자와 소통 매우 어렵다\"",
     "summary": [
@@ -382,248 +619,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#정치"
-    ]
-  },
-  {
-    "id": "n8c3f675a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/08/06/MFSTGYJZGIYTMZLCMNSWIZJSHA/",
-    "title": "'조던과 NBA 3연패' 두 달 전 사망한 故 스테이시 킹, 진짜 사인 밝혀졌다...\"고혈압성 심혈관 질환, 자연사 결론\"",
-    "summary": [
-      "[OSEN=고성환 기자] 많은 미국 프로농구(NBA) 팬들의 마음을 사로잡았던 故 스테이시 킹의 사인이 약 두 달 만에 공개됐다.영국 '데일리 메일'은 5일(한국시간) \"NBA 레전드 스테이시 킹의 사망 원인이 밝혀졌다.",
-      "의료 보고서에 따르면 그는 시카고 자택에서 고혈압으로 인해 발생한 심혈관 질환으로 비극적인 사고를 겪으며 숨졌다\"고 보도했다.킹은 시카고."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nfef59f37",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003738139",
-    "title": "미시건 민주 상원 예비선거 ‘진보’ 후보 승리…트럼프 “공화당에 훌륭한 소식”",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 미국 미시간주 민주당 상원의원 예비 선거에서 지도부가 지원하는 후보에 맞선 압둘 엘사예드가 당선됐다.",
-      "그는 뉴욕 시장 조란 맘다니 같은 민주사회주의자는 아니지만 버니 샌더스, 엘리자베스 워런 상원의원, 알렉산드리아 오카시오-코르테즈 하원의원 같은 거물들의 지지를 받으며 좌파 강령을 내세워 선거에 출마했다.",
-      "그는 여론조사에서 헤일리 스티븐스 하원의원을 크게 앞섰으나 막상 선거에서는 간신히 승리했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2172c706",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806004200087",
-    "title": "'서른살' 페루 리마영화제 개막…나홍진 '호프' 상영",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 나홍진 감독의 영화 '호프'가 페루 영화 팬들을 만난다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n42d70c12",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026080603473645151",
-    "title": "디즈니 영업이익 전년比 21% ↑…놀이공원·'토이스토리 5' 실적 견인",
-    "summary": [
-      "월트디즈니컴퍼니(디즈니)가 애니메이션 영화 '토이 스토리 5'의 흥행과 놀이공원 사업 호조에 힘입어 시장 예상을 웃도는 수익성을 기록했다.",
-      "디즈니는 5일(현지시간) 2026회계연도 3분기(4∼6월) 전체 부문 영업이익이 55억5500만달러(약 7조9000억원)로 전년 동기보다 21% 증가했다고 밝혔다.",
-      "매출은 252억4800만달러로 지난해 같은 기간보다 7% 늘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7982fa70",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/06/GJSWENTBMEYWCMBZGE3GKYJRMY/",
-    "title": "\"이제 며칠 안남았어요\" 상암서 데뷔전 앞둔 아틀레티코 뉴 '넘버7' 이강인 \"빨리 시작하고 싶다\"...합류 지연 이유까지 설명 \"서류 처리에 어려움 있었어\"",
-    "summary": [
-      "[스포츠조선 박찬준 기자]\"하루 빨리 시작하고 싶은 마음이 정말 크다!\" 아틀레티코 마드리드의 새로운 '넘버7' 이강인의 소감이었다.",
-      "이강인은 5일(한국시각) 구단 공식 홈페이지에 공개도니 영상을 통해 입단 소감과 각오 등을 전했다.",
-      "아틀레티코는 지난달 25일 구단 공식 채널을 통해 '이강인이 파리생제르맹을 떠나 아틀레티코 마드리드로 이적했다'고 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0e151789",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806004000091",
-    "title": "구글 '27년 전설' 수석과학자 퇴사…'노벨상' 허사비스 승계",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 구글 내에서 '전설'로 불리던 제프 딘 수석과학자가 회사를 떠나 창업에 나서기로 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n28610d7d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "29분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/06/GNSDKNDCMQZWGMZVMM4WIZBTME/",
-    "title": "아스날 이적설에 \"연봉 485억 드릴게\" 비니시우스, 레알 개선안 받았다...이제 선택은 선수 몫",
-    "summary": [
-      "[OSEN=정승우 기자] 레알 마드리드가 비니시우스 주니오르(26, 레알 마드리드)에게 한층 개선된 재계약 조건을 제시했다.",
-      "아스날이 영입을 적극 검토하는 가운데 레알 마드리드도 핵심 공격수를 지키기 위해 움직였다.영국 '디 애슬레틱'은 6일(한국시간) \"레알 마드리드가 비니시우스에게 개선된 계약안을 제시했다\"라고 단독 보도했다.비니시우스와 레알 마드리드의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3b2c01d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "46분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260806/134428498/1",
-    "title": "미군 “중동 해상서 상선 2척 무력화하고 48척 항로변경”",
-    "summary": [
-      "미군 중부사령부는 5일(현지시간) 이란에 대한 봉쇄 작전을 지속하는 가운데 지시에 따르지 않은 선박 2척을 무력화했다고 밝혔다.중동을 작전구역으로 둔 중부사령부는 이날 사회관계망서비스(SNS) 엑스(X·옛 트위터)를 통해 상선 48척의 항로를 변경했다며 이같이 알렸다.사령부는 봉쇄 준수 여부를 확인하기 위해 선박 2척에는 직접 승선 조사도 실시했다고 설명했다.아울러 미 공군 F-16 전투기가 중동 지역 해상 순찰 중 공중급유를 받았다며 그 사진."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n84ff7ef3",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260805_0003737727",
-    "title": "\"4000원 햄버거 안 통했다\"…맥도날드, 가성비 전략에도 매출 '주춤'",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 맥도날드가 3달러(약 4200원) 이하의 가성비 메뉴를 앞세워 소비자 공략에 나섰지만 기대만큼의 성과를 거두지 못했다.",
-      "할인 정책을 잇달아 펼쳤음에도 미국 매출 증가세가 둔화한 것이다.",
-      "4일(현지시간) 비즈니스인사이더(BI)에 따르면 맥도날드 올해 2분기 미국 매장 매출은 전년 동기 대비 0.8% 증가하는 데 그쳤다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nec7e7564",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154036",
-    "title": "LG CNS, 727억원 규모 중간배당...내달 4일 지급",
-    "summary": [
-      "LG CNS가 약 727억원 규모 중간배당을 실시한다.LG CNS는 5일 이사회를 열고 보통주 한 주당 750원을 현금배당하기로 결정했다고 공시했다.",
-      "시가배당률은 1.2%이며 배당금 총액은 726억6446만원이다.이번 배당은 이사회 결의로 확정됐다.",
-      "배당기준일은 오는 20일이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne74b94b9",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "1시간 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/06/CUUS2EX7RJF5ZKPXB4CM3WYB54/",
-    "title": "‘알파고 아버지’ 허사비스 CEO직 내려놓는다… 구글 AI 리더십 개편",
-    "summary": [
-      "‘알파고 아버지’ 허사비스 CEO직 내려놓는다… 구글 AI 리더십 개편."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nc926b644",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154034",
-    "title": "[카드뉴스] 은행도 오래 머무는 앱을 만들기 시작했다.. 케이뱅크는 왜 게임과 AI를 동시에 선택했을까?",
-    "summary": [
-      "은행 앱은 계좌를 조회하고 송금하는 공간이라는 인식이 강했습니다.",
-      "하지만 최근 금융앱은 고객이 더 오래 머물고, 더 자주 찾는 플랫폼으로 변화를 시도하고 있습니다.",
-      "케이뱅크는 게임으로 고객 경험을 넓히는 동시에, 에이전틱 AI를 활용해 개발 방식까지 혁신하며 새로운 경쟁력을 키우고 있습니다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nb2a8ed36",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154033",
-    "title": "SKT \"AIDC '선수요 후구축\"'...재무 악화·공급 과잉 우려 '일축'(종합)",
-    "summary": [
-      "SK텔레콤이 2026년 2분기 실적을 공개했다.",
-      "작년 2분기 드러난 '가입자식별모듈(USIM, 유심) 정보 유출' 사고 회복에 주력했다.",
-      "SK텔레콤은 인공지능(AI) 사업에 다시 힘을 쏟는다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n2b5ed53a",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154035",
-    "title": "감 잡은 넷마블, 신작 흥행 공식 바꾼다…\"게임 수명 늘려 장기 성장\"",
-    "summary": [
-      "넷마블이 신작을 쏟아내는 전략에서 한발 더 나아가 라이브 게임의 제품수명주기(PLC)를 늘리는 방향으로 사업 전략을 전환한다.",
-      "최근 '일곱 개의 대죄: 오리진'과 '솔: 인챈트' 등으로 신작 경쟁력을 입증한 만큼, 이제는 게임을 오래 서비스하며 안정적인 수익을 창출하는 구조를 만들겠다는 구상이다.김병규 넷마블 대표는 5일 열린 2분기 실적발표 컨퍼런스콜에서 \"하반기 라인업을 선제적으로 조정한 것은 신작 출시 리소스를 효율적으로 운영하기 위한 목."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nae501e48",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/202608067359i",
-    "title": "샌디스크의 AI 메모리 승부수…주가 부활 노리는 오라클[박신영의 개장전 요것만]",
-    "summary": [
-      "샌디스크의 AI 메모리 승부수…주가 부활 노리는 오라클[박신영의 개장전 요것만]."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n6636592c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260806/134428491/1",
-    "title": "“먹는 양 줄이고 필라테스했다”…쌍둥이 엄마 레이디제인의 20kg 감량법",
-    "summary": [
-      "가수 레이디제인이 출산 후 20kg을 감량한 비결로 식사량 조절과 필라테스를 꼽은 가운데, 체중 감량 이후에도 이를 지속해서 유지하기 위한 건강한 다이어트법에 관심이 쏠린다.전문가들은 체중 감량과 유지를 동시에 성공하기 위해서는 단기간의 극단적인 조절보다 장기적인 생활 습관 개선이 필수적이라고 조언한다.",
-      "무리하게 굴면 요요 현상이 찾아오기 쉬운 탓이다.‘여성동아’ 유튜브 채널 영상에 따르면, 레이디제인 역시 무리한 방식 대신 정석적인 방법을 선."
-    ],
-    "chips": [
-      "#의료"
     ]
   }
 ];
@@ -633,20 +628,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "부동산",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
