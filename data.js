@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-06 12:49:48
+// 마지막 업데이트: 2026-08-06 15:06:27
 window.NEWS_DB = [
+  {
+    "id": "n502cdfe7",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "8시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOOEZRTS10bEVwc1ZBckRQYVkxYjZuaTZnTWlyQXVCTXpFSEo3VEZyb08zZEMxTy0tVUJ6WlJrWjlsTE4yRjctNG9lV29XOEpQZm1lU3FR?oc=5",
+    "title": "프로야구, 연이은 폭염취소…KBO 긴급 실행위원회",
+    "summary": [
+      "프로야구, 연이은 폭염취소…KBO 긴급 실행위원회 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
   {
     "id": "n296681bb",
     "category": "스포츠",
     "source": "네이트",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nZXJzSjZxRGtuVUhqSkg1bXowbHhTRE9GVnI0NWZtMUNOOGFKdzhWRzM4QzdnbWU4LTNRRzZUTEtMRmtobUNPZGcxTjM0YjExUXJaUEtuUE5aelRYOWhEVA?oc=5",
     "title": "프로야구 연이은 취소에 대책 나선 KBO",
     "summary": [
@@ -16,24 +30,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n671bb698",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
-    "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
-    "summary": [
-      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n7b43d662",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsa2VrZ0Y4WG5qRHJnOXlfMEZZU280aFlQLW9uM1hhNHBIdDA3V2ZpdDVrd18wUXhxTlZKNy1aZkdwZDhOc21WQm42cHYzek0?oc=5",
     "title": "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "na3252cb5",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN0JxQ1BHUXVMWkpJc2paRkM4cUV1VS1UTU04UzhpTjRuUS1JX3FpSG82bGl0clEzbVNpNktFSU5Fd2phbWlMaUtXd2huUHMwVHZaY01NOU5fOGplRnBuS0tZNzg?oc=5",
     "title": "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\"",
     "summary": [
@@ -64,12 +64,12 @@ window.NEWS_DB = [
   {
     "id": "n5c09d452",
     "category": "경제",
-    "source": "한국금융경제신문",
+    "source": "소년한국일보",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1BqOXR2TnBqanhaNF9PWVRrOXpRZDFrRjU4WGtZQ1d0S1JYU1JCbUotTUEyQmE5NzdBZDVlclFwX3pwZUxGMGJGU0Z0ckZ4c0NpckhFdzBsc0w3aDc3QVA1QW1IdW9aa3dfVdIBcEFVX3lxTE01VEEzeXJtMl85QTU0NEtoaWU4dEQ3eE9KckZFelY5bWVMdU9wdzZSaGdYZzd5UE9ObzFhaXhJcnBLbVo0Tm4wcFBsaGc2Q2FDX3IySW1qcUZQcXZLbG0xNUgzZUlJSjdEZGVfZktQSlM?oc=5",
     "title": "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는?",
     "summary": [
-      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 한국금융경제신문."
+      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 소년한국일보."
     ],
     "chips": [
       "#환율"
@@ -137,12 +137,12 @@ window.NEWS_DB = [
   {
     "id": "n0c06c07a",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "unicornfactory.co.kr",
     "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" 유니콘팩토리."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" unicornfactory.co.kr."
     ],
     "chips": [
       "#스타트업"
@@ -165,12 +165,12 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "kukinews.com",
+    "source": "쿠키뉴스",
     "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
     ],
     "chips": [
       "#AI",
@@ -195,20 +195,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n56609ab4",
-    "category": "IT",
-    "source": "스타트업엔(StartupN)",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
-    "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
-    "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nc01e8f2e",
     "category": "사회",
     "source": "브릿지경제",
@@ -227,12 +213,12 @@ window.NEWS_DB = [
   {
     "id": "nccb73b86",
     "category": "IT",
-    "source": "investchosun.com",
+    "source": "인베스트조선",
     "time": "41일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
-      "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 investchosun.com."
+      "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 인베스트조선."
     ],
     "chips": [
       "#삼성전자",
@@ -285,14 +271,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbcfe41a7",
+    "id": "n64476ff1",
     "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "164일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "source": "머니투데이",
+    "time": "109일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
+    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nbc27bc5a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "162일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
+    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
+    "summary": [
+      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
     ],
     "chips": [
       "#스타트업"
@@ -377,265 +377,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb54906d9",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260806/134434824/2",
-    "title": "워터파크 女탈의실서 “남성 들어왔다” 신고…경찰 일주일째 추적",
-    "summary": [
-      "경기 용인의 대형 워터파크에서 여자 탈의실에 남성이 들어왔다는 신고가 접수돼 경찰이 수사에 나섰다.6일 용인동부경찰서에 따르면 지난달 30일 오후 4시 40분경 캐리비안 베이 여자 탈의실에 “남성으로 추정되는 사람이 들어왔다”는 신고가 접수됐다.",
-      "하지만 경찰이 출동했을 당시 신고 대상자는 현장을 벗어난 상태였다.",
-      "목격자는 경찰에 피신고자 인상착의에 대해 “모자와 마스크, 선글라스 등으로 얼굴을 가리고 가발을 착용한 것으로 보였다”고 말한 것으로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfcaf94ac",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/06/2026080621065374896",
-    "title": "\"배달 음료 왜 안 와?\" 항의하려던 남편…아내 말에 '먹먹'",
-    "summary": [
-      "배달 음식을 시킬 때마다 빠져 있던 서비스 음료가 알고 보니 배달 기사를 향한 아내의 배려였다는 사연이 알려졌다.",
-      "최근 한 온라인 커뮤니티에는 배달을 시킬 때마다 음료수가 오지 않았다는 A씨의 사연이 올라왔다.",
-      "A씨는 매번 음료가 누락됐음에도 그냥 넘겨왔으나, 하루는 직접 선택한 제로 음료까지 오지 않자 결국 매장에 확인 전화를 걸려고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n262a6086",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/06/2026080621000321818",
-    "title": "'학폭 논란' 지수, 달라진 외모?…한국 떠나 필리핀 활동 매진",
-    "summary": [
-      "배우 지수가 한국을 떠나 필리핀에서 연예 활동에 박차를 가하고 있는 근황이 공개됐다.",
-      "6일 지수는 인스타그램에 필리핀의 한 유명 쇼핑몰에서 진행된 패션 브랜드 행사에 참석한 사진을 게재했다.",
-      "지수는 자신을 마중 나온 팬들에 양손을 흔들며 화답하고는 포토월과 매장 안에서 포즈를 취하며 프로페셔널한 모습을 보였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n28592ec7",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/GA4DAMZUGA2TOOJYGNRDKMBYGI/",
-    "title": "이찬원, 실물 어느정도길래..\"예비 최수종\" (ft.황금인맥) ('편스토랑')",
-    "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 가수 이찬원이 대세 인기를 입증한 가운데, 그의 실물 후기가 눈길을 끌었다.",
-      "8월 6일 방송된 KBS 2TV 예능 '신상출시 편스토랑'에서는 이찬원이 '술 빚는 윤주모' 윤나라를 찾아 요리를 배우는 모습이 그려졌다.이날 이찬원은 윤나라를 향해 \"어린 시절 잃어버린 누나를 만난 줄 알았다\"며."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb1cef19f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739674",
-    "title": "\"돈 문제 겪는 건 마멋도 마찬가지\"…성인 플랫폼에 등장한 뜻밖의 스타",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 미국의 한 생물학자가 연방정부 연구비 삭감으로 60년 넘게 이어온 야생동물 연구가 중단될 위기에 놓이자 성인 콘텐츠 플랫폼을 활용한 이색 모금에 나섰다.",
-      "다만 계정에 올라온 것은 성인물이 아닌 통통한 설치류 '마멋'의 자연스러운 모습이다.",
-      "지난 5일(현지 시간) BBC에 따르면 미국 콜로라도에서 활동하는 생물학자 대니얼 블룸스타인 박사는 최근 성인 콘텐츠 플랫폼 '온리팬스(OnlyFans)'에 '온리맘스(On."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n38610691",
+    "id": "ndb35624f",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260806/134431817/1",
-    "title": "검사, ‘보완-재수사’ 요구로 경찰 통제… 수사기관 재지정 권한도",
+    "time": "방금 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260807/134435046/1",
+    "title": "이선민, 숭실대 간 이유 “야인 같았던 누나 반면교사”",
     "summary": [
-      "2022년 6월 충북 청주청원경찰서에 “자고 일어나보니 동생이 죽어있다”는 60대 박모 씨의 신고가 접수됐다.",
-      "온몸에 피멍이 든 채 숨진 동생의 사인은 장기파열과 뇌출혈.",
-      "타살이 의심된다는 부검 결과까지 나왔지만 경찰은 “정신 질환을 앓던 동생이 자주 자해했다”는 박 씨의 말만 듣고 단순 변사로 사건을 종결했다."
+      "코미디언 이선민이 반전 학력을 갖게 된 계기로 셋째 누나를 언급했다.",
+      "이선민은 6일 tvN 유튜브 채널에 공개된 ‘유퀴즈’ 예고편에서 누나와 관련된 일화를 공개했다.",
+      "MC 유재석은 “이선민 한번 클릭하면 이선민 영상이 엄청 뜬다”며 “이선민씨가 숭실대를 나오셨다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nec55fb12",
+    "id": "ne0770234",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806154300009",
-    "title": "\"中, 재정난에 부유층 정조준…해외 미납 세금 추징 나서\"",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260807/134435043/1",
+    "title": "‘학폭 논란’ 지수, 필리핀서 몰라보게 달라진 근황",
     "summary": [
-      "(서울=연합뉴스) 권숙희 기자 = 중국이 수백조원 규모의 미납 세금을 추징하기 위해 부유층의 해외 자산에 대한 대대적인 세무조사에 착수했다고 영..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29324fae",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739672",
-    "title": "'꿈의 페스티벌'서 완성한 '우리들의 하모니'",
-    "summary": [
-      "[서울=뉴시스]김주희 기자 = \"그려보자 내일을/ 만나보자 나를 그려보자/ 내일을 만나보자, 오직 하나뿐인 나\" 전국 각지에서 모인 아이들이 함께 연주하고, 춤추고, 노래한다.",
-      "어느덧 하나가 된 아이들은 각자의 방식으로 '나의 내일을' 함께 부르며 저마다 품은 꿈을 펼쳐냈다.",
-      "6일 강원도 평창 알펜시아리조트 뮤직텐트에서 '꿈의 페스티벌'이 열렸다."
+      "‘학교폭력’(학폭) 논란으로 국내 활동을 중단한 배우 지수가 필리핀에서 근황을 전했다.지수는 6일 자신의 소셜 미디어에 필리핀 마닐라의 한 쇼핑몰에서 열린 의류 브랜드 행사 사진을 공개했다.데님 재킷 차림의 지수는 현지 팬들과 인사를 나누며 행사를 소화했다.지수는 지난 2021년 학폭 의혹이 제기되자 일부 사실을 인정하고 출연 중이던 KBS 2TV 드라마 ‘달이 뜨는 강’에서 하차했다.이후 소속사 키이스트와 계약을 해지하고 국내 활동을 중단했다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nbe3d7928",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "18분 전",
-    "url": "https://www.hankyung.com/article/2026080695277",
-    "title": "\"청소 미흡\" 항의했더니…돌아와 유품 훔쳐간 20대 남성",
+    "id": "nbcde4384",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260807/134435036/1",
+    "title": "기은세 10년 몸매 유지 비결…‘저탄고지’ 효과와 주의점은",
     "summary": [
-      "\"청소 미흡\" 항의했더니…돌아와 유품 훔쳐간 20대 남성."
+      "배우 기은세가 “몸매를 10년간 유지해 온 비결이 바로 저탄고지”라고 말해 화제다.최근 그는 ENA 예능프로그램에 ‘엑스 더 리그’에 출연해 이같이 밝혔다.저탄고지 식단은 탄수화물 섭취를 줄이는 대신 지방과 단백질의 섭취 비중을 늘리는 식사법으로 알려져 있다.",
+      "탄수화물을 하루 총 섭취 칼로리의 5~10% 수준으로 줄이면 간에서 지방산을 분해해 케톤체를 만들어내고 이를 에너지원으로 사용하는 ‘케토시스 상태’가 나타난다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n23971f96",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739657",
-    "title": "변광용 거제시장, ‘조선해양플랜트 소부장 특화단지’ 지정 총력",
-    "summary": [
-      "[거제=뉴시스] 신정철 기자 = 경남 거제시가 국외 특정 기업이 독점하고 있는 ‘천연가스 액화공정’ 기술을 개발할 조선해양플랜트 소부장 특화단지 지정을 위해 총력전을 펼치고 있다.",
-      "변광용 거제시장은 6일 부유식 액화천연가스 생산설비(FLNG)의 핵심 기술 국산화와 조선해양플랜트 산업의 초격차 경쟁력 확보를 위해 국무총리실을 방문해 서은숙 정무실장을 직접 면담했다.",
-      "변 시장은 이날 면담에서 거제가 해당 특화단지 조성을 위한 최적의 입지임을 강조하."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd4d67be",
+    "id": "n9ae70839",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806154400704",
-    "title": "[부고] 유현진(문화일보 기자)씨 부친상",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806113800017",
+    "title": "[건강포커스] \"전동킥보드 이용자 외상성 뇌손상 위험, 오토바이의 3.5배\"",
     "summary": [
-      "[부고] 유현진(문화일보 기자)씨 부친상."
+      "(서울=연합뉴스) 이주영 기자 = 친환경 단거리 이동 수단으로 빠르게 보급되고 있는 전동 킥보드 이용자는 사고로 중등도~중증 외상을 입을 경우 ..."
     ],
     "chips": [
-      "#뉴스"
+      "#의료",
+      "#환경"
     ]
   },
   {
-    "id": "n62b0c9ed",
+    "id": "n26040c73",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739641",
-    "title": "고성군의회, 국외 연수비 전액 삭감… 군민 위한 예산으로 전환",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260806_0003739274",
+    "title": "김민재, 뮌헨 동료들에게 '한국 치킨' 선물…獨 \"특별한 마지막 밤\"",
     "summary": [
-      "[고성=뉴시스] 신정철 기자 = 경남 고성군의회(의장 정영환)가 계속되는 폭염과 가뭄, 경기 침체 등으로 어려움을 겪고 있는 군민들과 고통을 함께 나누기 위해 올해 편성된 공무국외출장 예산 전액 반납에 나선다.",
-      "고성군의회는 6일, 고성군의 제3회 추가경정예산안 심사를 위해 오는 9월 열리는 제312회 제1차 정례회를 통해 공무국외출장 여비를 최종 전액 삭감 처리할 예정이라고 밝혔다.",
-      "이번 결정은 기록적인 폭염과 경기 침체 등이 심화되는 상황 속."
+      "[서울=뉴시스]김성은 인턴 기자 = 독일 프로축구 바이에른 뮌헨의 김민재가 한국 투어 마지막 밤 동료들에게 치킨을 선물하며 한국의 야식을 소개했다.",
+      "독일 매체 바바리안 풋볼 워크스는 6일(현지 시간) \"김민재가 한국에서의 마지막 밤, 팀 동료들을 위해 특별한 한국식 식사를 준비했다\"고 전했다.",
+      "보도에 따르면 김민재는 제주 SK와의 친선경기에서 2-1 승리를 거둔 뒤 선수단이 머물던 호텔로 한국식 프라이드치킨을 주문했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf7c65f76",
+    "id": "n75d4d02b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc73617be",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "24분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/06/2026080613074461733",
-    "title": "[현장 인터뷰] \"힘만 붙으면 베스트5\" 사령탑의 확신... 최예슬도 \"프로틴·웨이트, 밥도 많이 먹겠다\"",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260805145900003",
+    "title": "[시승기] 우아함과 안정감…볼보 전기 플래그십 SUV 'EX90'",
     "summary": [
-      "\"프로틴도 먹고 웨이트트레이닝도 열심히 하려고 한다.",
-      "밥도 많이 먹겠다.\" 용인 삼성생명의 최예슬이 더 강한 선수로 성장하겠다는 각오를 밝혔다.",
-      "삼성생명은 6일 부천실내체육관에서 열린 일본 아란마레와 2026 티켓링크 WKBL 퓨처스리그 결승에서 54-79로 패했다."
+      "(서울=연합뉴스) 김윤구 기자 = 볼보의 럭셔리 전기 스포츠유틸리티차(SUV) 'EX90'을 만났다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8d65e2f3",
+    "id": "nd8b17927",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003739698",
+    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
+    "summary": [
+      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
+      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
+      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n80a360a5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260806_0003739679",
+    "title": "방은희, 母 고독사에 오열 \"이틀 만에 발견\"",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 배우 방은희가 모친을 고독사로 떠나보낸 후 느끼는 죄책감과 그리움을 털어놨다.",
+      "6일 방송된 MBN 교양 예능물 '특종세상'에 출연한 방은희는 두 차례의 이혼 경험과 함께 6년 전 세상을 떠난 어머니에 대한 사연을 전했다.",
+      "방은희는 \"두 번째 이혼 후 힘든 모습을 보여드리고 싶지 않아 1년 정도 어머니를 찾아뵙지 못했다\"며 \"그사이 어머니가 홀로 돌아가셨고 이틀이 지나서야 발견됐다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2bdf3d7e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260806_0003739688",
+    "title": "\"신발에만 수억원 썼다\" 선우용여, 50년 모은 '명품 구두' 컬렉션",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 배우 선우용여(81)가 50년 가까이 수집해 온 명품 구두 컬렉션을 공개했다.",
+      "6일 유튜브 채널 '순풍 선우용여'에는 '신발에만 수억 쓴 선우용여 박물관급 명품 구두 컬렉션 최초공개'라는 제목의 영상이 게재됐다.",
+      "영상에서 선우용여는 거실에 늘어놓은 구두와 운동화, 샌들 등을 소개하며 각 신발에 얽힌 추억을 회상했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9468eac",
     "category": "IT",
-    "source": "아시아경제",
-    "time": "24분 전",
-    "url": "https://view.asiae.co.kr/article/2026080621120207124",
-    "title": "\"AI로 꾸민 허위 스펙 끝까지 잡는다\"…美대학, '사기 전담반' 운영",
-    "summary": [
-      "미국 대학들이 인공지능(AI)으로 만든 허위 스펙과 자기소개서를 가려내기 위해 입시 검증을 대폭 강화하고 있다.",
-      "5일(현지시간) 미국 월스트리트저널(WSJ)은 합격자 지원서를 전담 검증하기 위해 미 캘리포니아공대(칼텍)가 운영하는 '사기 단속반'을 소개했다.",
-      "4명으로 구성된 이 조직은 과학경진대회 상장의 글꼴과 서명, 성적표 양식, 추천서 발신 이메일, 학교 주소 등을 확인하는 것은 물론, 경진대회 주최 측과 고교 상담."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n3473cf28",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "25분 전",
-    "url": "https://www.hankyung.com/article/2026080695177",
-    "title": "2700만원 기부했는데…\"몸판 돈\" \"더러운 돈\" 욕 먹은 여배우",
-    "summary": [
-      "2700만원 기부했는데…\"몸판 돈\" \"더러운 돈\" 욕 먹은 여배우."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n83608f45",
-    "category": "스포츠",
     "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/sports/football/2026/08/06/GJOPQYIF3BGJNGGJVWX4EXCHWU/",
-    "title": "축구협회 ‘성접대’ 감사보고서 나왔다… 월드컵·올림픽 심판 포함",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/08/07/W3HZLKZSR5HZLJUI5XOF5VALSE/",
+    "title": "[사설] ‘호남 반도체’ 규제 완화도 반대, 노동 장관은 국책 위에 있나",
     "summary": [
-      "축구협회 ‘성접대’ 감사보고서 나왔다… 월드컵·올림픽 심판 포함."
+      "[사설] ‘호남 반도체’ 규제 완화도 반대, 노동 장관은 국책 위에 있나."
+    ],
+    "chips": [
+      "#반도체",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nb2e53952",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/MYZTOOJSMIZTKOLFMRQTIMRVGM/",
+    "title": "BTS 뷔, 초근접 셀카도 완벽…'\"어떤 각도도 화보\"",
+    "summary": [
+      "[OSEN=김수형 기자] 방탄소년단(BTS) 뷔가 또 한 번 독보적인 비주얼을 자랑했다.뷔는 지난 5일 자신의 SNS에 \"꽤 고요하지 엉엉 울어도 돼 엉엉~\"이라는 글과 함께 여러 장의 사진을 공개했다.공개된 사진 속 뷔는 카메라를 가까이 둔 채 다양한 각도로 셀카를 촬영하고 있다.",
+      "편안한 캐주얼 차림에도 또렷한 이목구비와 작은 얼굴, 깊은 눈빛이 시선을."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n8d352cd3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/GVRDSODEGY4TKZDEMI3WCZTDGQ/",
+    "title": "지예은 \"한예종 붙고 오히려 자존감 떨어져\" ('오키키')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 지예은이 과거 열등감 때문에 위축되었던 시절을 고백했다.",
+      "지난 5일 유튜브 채널 '오키키ㅇㅋㅋ'에는 '30대들의 으른 연애'라는 제목의 영상이 게재됐다.",
+      "이날 가비와 지예은은 헤이즈, 청하와 함께 진솔한 대화를 하며 시간을 보냈다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n36186bea",
+    "id": "na6a67c1b",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/06/2026080620122575415",
-    "title": "이상준, '21만원 LA쇼 혹평'에 심경 \"현재 제 수준…지각은 아냐\"",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/opinion/chosun_column/2026/08/07/X35AKXBIVJEODKPXON7TKEI5EE/",
+    "title": "[朝鮮칼럼] 어느날 사라진 예술의전당 ‘전두환 휘호석’",
     "summary": [
-      "개그맨 이상준이 미국 로스앤젤레스(LA) 스탠드업 코미디 공연 이후 불거진 지각 논란과 음향 문제, 공연 완성도와 관련한 비판에 대해 직접 입장을 밝혔다.",
-      "지난 5일 이상준은 자신의 인스타그램에 \"스탠드업 코미디가 너무 빠르게 성장하고 있어서 조만간 나락을 갈 거 같다고 두 달 전부터 공연 중간에 장난 반 진담 반으로 이야기했다.",
-      "어떤 식으로든 사건이 한번은 터질 줄 알고 있어서 지금 사실 그렇게 아프지는 않다."
+      "[朝鮮칼럼] 어느날 사라진 예술의전당 ‘전두환 휘호석’."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n9d7a4e24",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806157900108",
+    "title": "호르무즈 이어 흑해도 불안…러 부총리 \"인도양 연결 철도 필요\"",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 러시아의 고위 당국자가 해상 무역로의 위험을 이유로 인도양으로 이어지는 철도 건설 필요성을 제기했다고 러..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "na7d7689e",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "27분 전",
+    "url": "https://view.asiae.co.kr/article/2026080623382261704",
+    "title": "美 신규 실업수당 청구 19만9000건…해고 낮은 수준 유지",
+    "summary": [
+      "미국의 신규 실업수당 청구 건수가 3주 연속 20만명을 하회하며 기업들의 해고가 낮은 수준을 유지하는 것으로 나타났다.",
+      "다만 계속 실업수당 청구 건수는 증가했다.",
+      "미 노동부는 지난주(7월 26∼8월 1일) 신규 실업수당 청구 건수가 19만9000건으로 전주 대비 1000건 늘었다고 6일(현지시간) 밝혔다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "nbe218d59",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "36분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260806/134434565/2",
+    "title": "[사설]세계 PC 공급망 뚫은 中 D램… 바짝 다가온 ‘차이나 쇼크’",
+    "summary": [
+      "미국 HP, 대만 에이수스와 에이서 등 세계 주요 PC 업체들이 노트북 제품에 중국 창신메모리(CXMT) D램을 탑재하기 시작했다고 한다.",
+      "주로 내수 시장에서 덩치를 키워온 중국 반도체 기업들이 글로벌 공급망 편입에 본격적인 시동을 건 것이다.",
+      "중국산 반도체는 아직까지 일부 저가형 모델에 한해, 제한된 수량만 들어가고 있다."
+    ],
+    "chips": [
+      "#반도체"
     ]
   }
 ];
@@ -645,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3370건",
-    "trend": "+415%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
