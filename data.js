@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-06 10:27:17
+// 마지막 업데이트: 2026-08-06 12:49:48
 window.NEWS_DB = [
+  {
+    "id": "n296681bb",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nZXJzSjZxRGtuVUhqSkg1bXowbHhTRE9GVnI0NWZtMUNOOGFKdzhWRzM4QzdnbWU4LTNRRzZUTEtMRmtobUNPZGcxTjM0YjExUXJaUEtuUE5aelRYOWhEVA?oc=5",
+    "title": "프로야구 연이은 취소에 대책 나선 KBO",
+    "summary": [
+      "프로야구 연이은 취소에 대책 나선 KBO 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
   {
     "id": "n671bb698",
     "category": "스포츠",
     "source": "네이트",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
     "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
     "summary": [
@@ -19,7 +33,7 @@ window.NEWS_DB = [
     "id": "n7b43d662",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsa2VrZ0Y4WG5qRHJnOXlfMEZZU280aFlQLW9uM1hhNHBIdDA3V2ZpdDVrd18wUXhxTlZKNy1aZkdwZDhOc21WQm42cHYzek0?oc=5",
     "title": "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항",
     "summary": [
@@ -35,7 +49,7 @@ window.NEWS_DB = [
     "id": "na3252cb5",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "9시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN0JxQ1BHUXVMWkpJc2paRkM4cUV1VS1UTU04UzhpTjRuUS1JX3FpSG82bGl0clEzbVNpNktFSU5Fd2phbWlMaUtXd2huUHMwVHZaY01NOU5fOGplRnBuS0tZNzg?oc=5",
     "title": "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\"",
     "summary": [
@@ -48,29 +62,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4c8e4c28",
-    "category": "IT",
-    "source": "톱스타뉴스",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvRjgwY0FwQjJfOG9Va2s5dy1MS1VVVmlDWC1wWGZOajNOemRKdE5nMEo3Qm5hc25ELWZkY0VvSHB4UDZ5aDFCcUJjMnZTMWpRLVZNb0RHRk5hblRsUmoyWWNQV0FVaE56Z3hfZDRZX1RVUQ?oc=5",
-    "title": "미국증시, AI 투자비 경계에 나스닥 0.83%↓…엔비디아 독주 속 혼조 마감",
-    "summary": [
-      "미국증시, AI 투자비 경계에 나스닥 0.83%↓…엔비디아 독주 속 혼조 마감 톱스타뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n5c09d452",
     "category": "경제",
-    "source": "소년한국일보",
+    "source": "한국금융경제신문",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1BqOXR2TnBqanhaNF9PWVRrOXpRZDFrRjU4WGtZQ1d0S1JYU1JCbUotTUEyQmE5NzdBZDVlclFwX3pwZUxGMGJGU0Z0ckZ4c0NpckhFdzBsc0w3aDc3QVA1QW1IdW9aa3dfVdIBcEFVX3lxTE01VEEzeXJtMl85QTU0NEtoaWU4dEQ3eE9KckZFelY5bWVMdU9wdzZSaGdYZzd5UE9ObzFhaXhJcnBLbVo0Tm4wcFBsaGc2Q2FDX3IySW1qcUZQcXZLbG0xNUgzZUlJSjdEZGVfZktQSlM?oc=5",
     "title": "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는?",
     "summary": [
-      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 소년한국일보."
+      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 한국금융경제신문."
     ],
     "chips": [
       "#환율"
@@ -104,6 +103,21 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "na5600956",
+    "category": "IT",
+    "source": "지디넷코리아",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HeGEtOUdPYkw1enRmd2pkc2lCNUdfS1lONFNlMzVoU05VWVF3cUdwbS0yOUpiVEoxdjQ3bFY5N2pwNGQzeEs3RURXT21vMFZLM1F3OEJn?oc=5",
+    "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
+    "summary": [
+      "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화 지디넷코리아."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
     ]
   },
   {
@@ -151,12 +165,12 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "쿠키뉴스",
+    "source": "kukinews.com",
     "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
     ],
     "chips": [
       "#AI",
@@ -169,7 +183,7 @@ window.NEWS_DB = [
     "id": "n39919f03",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "7일 전",
+    "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVRWZGdPMnBMd1M3NDZZWHBUd1QtMXhnLXMtZXR0bzVaWVJFTHdhTEJwZUwtMno4djV4M2IyY2tsVG1uYXh5TjZ6WEZtMW1TZUt3WGc1d2hEUUpmdktXeGl3SWhqMnhqZlBXV1VLTnZQenlmbTc5bmlvTlhRVFlVb3pxZjJaNkpUcUdCVVFiLUs1dzNqUExDZFBBWjkzY2VSTU1wWVRHblAtell6VmpUTA?oc=5",
     "title": "빈빈 지역에서 열린 취업 박람회에는 2,000개가 넘는 일자리가 있었습니다.",
     "summary": [
@@ -213,12 +227,12 @@ window.NEWS_DB = [
   {
     "id": "nccb73b86",
     "category": "IT",
-    "source": "인베스트조선",
+    "source": "investchosun.com",
     "time": "41일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
-      "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 인베스트조선."
+      "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 investchosun.com."
     ],
     "chips": [
       "#삼성전자",
@@ -268,20 +282,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "127일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -377,259 +377,265 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd09275a4",
+    "id": "nb54906d9",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260806/134432372/1",
-    "title": "홍명보 소환 이틀만에…경찰, ‘감독 선임 의혹’ 축구협회 압수수색",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260806/134434824/2",
+    "title": "워터파크 女탈의실서 “남성 들어왔다” 신고…경찰 일주일째 추적",
     "summary": [
-      "대한축구협회가 홍명보 전 축구대표팀 감독을 선임하는 과정에 부당하게 개입했다는 의혹과 관련해 경찰이 6일 압수수색에 나섰다.서울경찰청 금융범죄수사대는 이날 오전 충남 천안시에 있는 대한축구협회와 서울 종로구 축구회관 등을 업무방해 등 혐의로 압수수색했다고 밝혔다.",
-      "경찰은 압수수색을 통해 국가대표팀 감독 후보군을 검토해 이사회에 추천하는 전력강화위원회 자료 등 감독 후보 추천과 최종 선임 과정이 담긴 협회 내부 문건을 확보한 것으로 전해졌다.앞서."
+      "경기 용인의 대형 워터파크에서 여자 탈의실에 남성이 들어왔다는 신고가 접수돼 경찰이 수사에 나섰다.6일 용인동부경찰서에 따르면 지난달 30일 오후 4시 40분경 캐리비안 베이 여자 탈의실에 “남성으로 추정되는 사람이 들어왔다”는 신고가 접수됐다.",
+      "하지만 경찰이 출동했을 당시 신고 대상자는 현장을 벗어난 상태였다.",
+      "목격자는 경찰에 피신고자 인상착의에 대해 “모자와 마스크, 선글라스 등으로 얼굴을 가리고 가발을 착용한 것으로 보였다”고 말한 것으로."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n510e98e1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/GRSGMNDCGRRDSNZTMIZTIZLBHE/",
-    "title": "EXID 솔지, 폭염에도 지지 않는 골프 사랑",
+    "id": "nfcaf94ac",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/06/2026080621065374896",
+    "title": "\"배달 음료 왜 안 와?\" 항의하려던 남편…아내 말에 '먹먹'",
     "summary": [
-      "[OSEN=오세진 기자] 걸그룹 EXID 솔지가 골프 사랑을 드러냈다.6일 솔지는 자신의 소셜 계정에 여러 장의 사진을 공개했다.",
-      "솔지는 \"명랑 골프를 사랑한다\"라면서 골프 웨어를 챙겨 입은 채 필드에서 활약하는 모습을 보였다.솔지는 일주일 전 호텔에서 가운을 입고 여유로운 모습을 보인 데 이어 골프라는 취미를 즐기고 있어 누구 못지 않은 여름 휴가를 즐기."
+      "배달 음식을 시킬 때마다 빠져 있던 서비스 음료가 알고 보니 배달 기사를 향한 아내의 배려였다는 사연이 알려졌다.",
+      "최근 한 온라인 커뮤니티에는 배달을 시킬 때마다 음료수가 오지 않았다는 A씨의 사연이 올라왔다.",
+      "A씨는 매번 음료가 누락됐음에도 그냥 넘겨왔으나, 하루는 직접 선택한 제로 음료까지 오지 않자 결국 매장에 확인 전화를 걸려고 했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n142a95c9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739620",
-    "title": "허윤진·캣츠아이·코르티스·하예린, 美 버라이어티 '영 할리우드 임팩트' 선정",
+    "id": "n262a6086",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/06/2026080621000321818",
+    "title": "'학폭 논란' 지수, 달라진 외모?…한국 떠나 필리핀 활동 매진",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 그룹 '르세라핌(LE SSERAFIM)'의 허윤진, 그룹 '캣츠아이(KATSEYE)', 그룹 '코르티스(CORTIS)', 배우 하예린이 글로벌 엔터테인먼트 산업에서 가장 영향력 있는 젊은 인물로 대거 꼽혔다.",
-      "이들은 미국 대중문화 전문지 버라이어티(Variety)가 4일(현지시간) 공식 홈페이지를 통해 발표한 '2026 영 할리우드 임팩트 리포트(Young Hollywood Impact Report 2026)'에."
+      "배우 지수가 한국을 떠나 필리핀에서 연예 활동에 박차를 가하고 있는 근황이 공개됐다.",
+      "6일 지수는 인스타그램에 필리핀의 한 유명 쇼핑몰에서 진행된 패션 브랜드 행사에 참석한 사진을 게재했다.",
+      "지수는 자신을 마중 나온 팬들에 양손을 흔들며 화답하고는 포토월과 매장 안에서 포즈를 취하며 프로페셔널한 모습을 보였다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n20e035c2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806147700001",
-    "title": "北미사일 도발에 與 \"평화 동참하라\" 국힘 \"李정권 안보관 우려\"",
-    "summary": [
-      "(서울=연합뉴스) 박경준 류미나 기자 = 여야는 6일 북한의 탄도미사일 발사를 한목소리로 규탄했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n26c0f27b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/MMZWCZTBME3DIYTDGAYGIZBXMM/",
-    "title": "현실판 마네킹 아냐?…'44kg' 한혜연, 다이어트로 완성한 '종잇장 핏'",
-    "summary": [
-      "[OSEN=박근희 기자] 스타일리스트 겸 방송인 한혜연이 탄탄하고 슬림해진 근황을 공개했다.6일 한혜연은 자신의 SNS를 통해 강렬한 매력이 돋보이는 근황 사진을 게재했다.공개된 사진 속 한혜연은 선명한 레드 컬러의 슬랙스 팬츠에 심플한 블랙 반팔 상의를 매치해 시크하면서도 감각적인 패션 센스를 뽐냈다.특히 꾸준한 다이어트로 완벽하게 체중을 감량한 그는 '."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc1d36030",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806149100062",
-    "title": "동해해경, 독도 인근 해상서 어선 구조…승선원 7명 모두 무사",
-    "summary": [
-      "(동해=연합뉴스) 양지웅 기자 = 동해해양경찰서는 6일 독도 인근 해상에서 스크루에 부유물이 감겨 운항을 멈춘 어선을 안전하게 구조했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n18ff2c96",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739628",
-    "title": "北, 단거리탄도미사일 1발 발사…UFS 연습 앞두고 도발(종합)",
-    "summary": [
-      "[서울=뉴시스] 옥승욱 기자 = 북한이 6일 오후 단거리탄도미사일(SRBM)을 발사하며, 지난 6월 이후 한달여 만에 미사일 도발을 재개했다.",
-      "합동참모본부에 따르면 우리 군은 6일 오후 5시께 북한 원산 일대에서 동해상으로 발사된 단거리 탄도미사일 1발을 포착했다.",
-      "정확한 제원에 대해서는 한미가 정밀 분석 중에 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndade6a66",
+    "id": "n28592ec7",
     "category": "사회",
     "source": "조선일보",
     "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/HFSDAM3DMQZTSOJYGQ2WENLFGM/",
-    "title": "'데뷔 63주년' 사미자, 건강이상설 종식 \"'탈지팡이' 했다\" ('오미자 말고')",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/GA4DAMZUGA2TOOJYGNRDKMBYGI/",
+    "title": "이찬원, 실물 어느정도길래..\"예비 최수종\" (ft.황금인맥) ('편스토랑')",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 사미자가 개인 채널을 통해 건강이상설을 해명했다.",
-      "지난 5일 유튜브 채널 '오미자 말고 사미자'(이하 '오미자 말고')에는 '2시간 걸린 마이 인터넷 채널 개설기'라는 제목의 영상이 게재됐다.",
-      "영상 속 사미자는 \"안녕하세요."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "neda556d0",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/06/GBRDCZTCHE4TQMTFMFTDMY3DGY/",
-    "title": "'수도권 6연전' 롯데는 이미 수원이다 → '부산 회군' 없이 인천 간다",
-    "summary": [
-      "[스포츠조선 한동훈 기자] 주말 3연전이 더위 때문에 취소됐다.",
-      "그러나 롯데 자이언츠는 집에 못 간다.",
-      "취소 발표 전 미리 원정길에 올랐기 때문이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd3d18a28",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806127251051",
-    "title": "[르포] \"55년 버틴 우물 말라\"…부산 산동네 폭염·가뭄에 생존 위기",
-    "summary": [
-      "(부산=연합뉴스) 김재홍 차근호 기자 = \"마실 물이야 생수를 사다 먹는다 치지만, 찌는 더위에 몸 씻고 설거지하고 빨래할 생활용수마저 뚝 끊기..."
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 가수 이찬원이 대세 인기를 입증한 가운데, 그의 실물 후기가 눈길을 끌었다.",
+      "8월 6일 방송된 KBS 2TV 예능 '신상출시 편스토랑'에서는 이찬원이 '술 빚는 윤주모' 윤나라를 찾아 요리를 배우는 모습이 그려졌다.이날 이찬원은 윤나라를 향해 \"어린 시절 잃어버린 누나를 만난 줄 알았다\"며."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9603d3c9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806117352052",
-    "title": "창녕 중부내륙고속도서 포탄 발견에 '깜짝'…\"안 터지는 모의탄\"(종합2보)",
-    "summary": [
-      "(창녕·서울=연합뉴스) 정종호 김철선 기자 = 경남 창녕군 중부내륙고속도로에서 모의 포탄이 발견돼 경찰과 군이 정확한 사건 경위 파악에 나섰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb94f9651",
+    "id": "nb1cef19f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739626",
-    "title": "노동장관 \"'주52시간 예외', 산업부와 엇박자 안 나는 게 이상\"",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260806_0003739674",
+    "title": "\"돈 문제 겪는 건 마멋도 마찬가지\"…성인 플랫폼에 등장한 뜻밖의 스타",
     "summary": [
-      "[서울=뉴시스] 고홍주 기자 = 김영훈 고용노동부 장관이 메가특구의 연구개발(R&D) 인력에 대한 주 52시간 근로제 예외 적용을 놓고 산업통상부와 이견이 부각되는 데 대해 \"엇박자가 안 나는 게 이상한 것\"이라며 \"나랏일을 하는 모든 사람은 성공을 위해 각자의 위치에서 최선을 다해야 하는 것\"이라고 밝혔다.",
-      "김 장관은 6일 오후 시사IN 유튜브 채널에 출연해 이같이 말했다.",
-      "앞서 노동부는 지난달 국회 기후에너지환경노동위원회 소속 더불어민주당."
+      "[서울=뉴시스]이기주 인턴 기자 = 미국의 한 생물학자가 연방정부 연구비 삭감으로 60년 넘게 이어온 야생동물 연구가 중단될 위기에 놓이자 성인 콘텐츠 플랫폼을 활용한 이색 모금에 나섰다.",
+      "다만 계정에 올라온 것은 성인물이 아닌 통통한 설치류 '마멋'의 자연스러운 모습이다.",
+      "지난 5일(현지 시간) BBC에 따르면 미국 콜로라도에서 활동하는 생물학자 대니얼 블룸스타인 박사는 최근 성인 콘텐츠 플랫폼 '온리팬스(OnlyFans)'에 '온리맘스(On."
     ],
     "chips": [
-      "#고용",
-      "#정치",
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "n5efbc7b3",
+    "id": "n38610691",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260806/134431817/1",
+    "title": "검사, ‘보완-재수사’ 요구로 경찰 통제… 수사기관 재지정 권한도",
+    "summary": [
+      "2022년 6월 충북 청주청원경찰서에 “자고 일어나보니 동생이 죽어있다”는 60대 박모 씨의 신고가 접수됐다.",
+      "온몸에 피멍이 든 채 숨진 동생의 사인은 장기파열과 뇌출혈.",
+      "타살이 의심된다는 부검 결과까지 나왔지만 경찰은 “정신 질환을 앓던 동생이 자주 자해했다”는 박 씨의 말만 듣고 단순 변사로 사건을 종결했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec55fb12",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806154300009",
+    "title": "\"中, 재정난에 부유층 정조준…해외 미납 세금 추징 나서\"",
+    "summary": [
+      "(서울=연합뉴스) 권숙희 기자 = 중국이 수백조원 규모의 미납 세금을 추징하기 위해 부유층의 해외 자산에 대한 대대적인 세무조사에 착수했다고 영..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n29324fae",
     "category": "사회",
     "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739597",
-    "title": "극한 날씨 심해지나 '기후변화' 사실로 인정하는 미국인은 ↓…66%",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260806_0003739672",
+    "title": "'꿈의 페스티벌'서 완성한 '우리들의 하모니'",
     "summary": [
-      "[서울=뉴시스] 김재영 기자 = 미국도 세계 다른 나라들과 마찬가지로 갈수록 극한 날씨 현상이 심해지고 특히 올 여름 극심한 더위와 폭염이 펼쳐지고 있다.",
-      "그러나 이런 극한 날씨와 극심한 더위의 원인으로 지적되는 지구 단위의 '기후 변화'를 사실로 인정하는 미국인 비율은 오히려 다소 줄어든 것으로 6일 공개된 AP 통신- NORC 공공연구소 여론조사에서 나타났다.",
-      "2년 만에 실시된 해당 주제 여론조사에서 심한 더위로 여행이나 휴가, 전기료, 수."
+      "[서울=뉴시스]김주희 기자 = \"그려보자 내일을/ 만나보자 나를 그려보자/ 내일을 만나보자, 오직 하나뿐인 나\" 전국 각지에서 모인 아이들이 함께 연주하고, 춤추고, 노래한다.",
+      "어느덧 하나가 된 아이들은 각자의 방식으로 '나의 내일을' 함께 부르며 저마다 품은 꿈을 펼쳐냈다.",
+      "6일 강원도 평창 알펜시아리조트 뮤직텐트에서 '꿈의 페스티벌'이 열렸다."
     ],
     "chips": [
-      "#환경"
+      "#교육"
     ]
   },
   {
-    "id": "nd71c0580",
+    "id": "nbe3d7928",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "18분 전",
+    "url": "https://www.hankyung.com/article/2026080695277",
+    "title": "\"청소 미흡\" 항의했더니…돌아와 유품 훔쳐간 20대 남성",
+    "summary": [
+      "\"청소 미흡\" 항의했더니…돌아와 유품 훔쳐간 20대 남성."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n23971f96",
     "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260806/134434036/1",
-    "title": "靑, 北 탄도미사일 발사에 긴급안보상황점검회의…“도발 즉각 중단”",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260806_0003739657",
+    "title": "변광용 거제시장, ‘조선해양플랜트 소부장 특화단지’ 지정 총력",
     "summary": [
-      "청와대는 6일 북한이 원산 일대에서 동해상으로 단거리 탄도미사일을 발사한 데 대응해 긴급안보상황점검회의를 개최했다.청와대 국가안보실은 이날 국방부·합동참모본부 등 관계기관이 참석한 가운데 회의를 열고, 북한의 탄도미사일 발사가 우리 안보에 미치는 영향을 분석·평가하는 한편 필요한 조치 사항을 점검했다고 밝혔다.국가안보실은 회의에서 즉각적인 대응태세 유지를 지시했다.",
-      "아울러 북한의 탄도미사일 발사는 유엔 안전보장이사회 결의를 위반하는 도발 행위라."
+      "[거제=뉴시스] 신정철 기자 = 경남 거제시가 국외 특정 기업이 독점하고 있는 ‘천연가스 액화공정’ 기술을 개발할 조선해양플랜트 소부장 특화단지 지정을 위해 총력전을 펼치고 있다.",
+      "변광용 거제시장은 6일 부유식 액화천연가스 생산설비(FLNG)의 핵심 기술 국산화와 조선해양플랜트 산업의 초격차 경쟁력 확보를 위해 국무총리실을 방문해 서은숙 정무실장을 직접 면담했다.",
+      "변 시장은 이날 면담에서 거제가 해당 특화단지 조성을 위한 최적의 입지임을 강조하."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5c999c26",
+    "id": "nbd4d67be",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260806154400704",
+    "title": "[부고] 유현진(문화일보 기자)씨 부친상",
+    "summary": [
+      "[부고] 유현진(문화일보 기자)씨 부친상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n62b0c9ed",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260806/134434031/1",
-    "title": "“캐리비안 베이 여자 탈의실에 남자가 있어요”…경찰 수사",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260806_0003739641",
+    "title": "고성군의회, 국외 연수비 전액 삭감… 군민 위한 예산으로 전환",
     "summary": [
-      "워터파크 캐리비안 베이 여자 탈의실에 남성이 들어왔다는 신고가 접수돼 경찰이 수사에 착수했다.6일 경기 용인동부경찰서에 따르면 지난달 30일 오후 4시 40분께 캐리비안 베이 여자 탈의실에서 “남성으로 추정되는 사람이 들어왔다”는 신고가 접수됐다.그러나 경찰이 현장에 도착했을 때 남자로 의심받던 피신고인은 자리를 벗어난 상태였다.한 목격자는 경찰에 피신고인이 모자와 마스크, 선글라스 등으로 얼굴을 가리고 가발을 착용한 상태였다고 주장한 것으로."
+      "[고성=뉴시스] 신정철 기자 = 경남 고성군의회(의장 정영환)가 계속되는 폭염과 가뭄, 경기 침체 등으로 어려움을 겪고 있는 군민들과 고통을 함께 나누기 위해 올해 편성된 공무국외출장 예산 전액 반납에 나선다.",
+      "고성군의회는 6일, 고성군의 제3회 추가경정예산안 심사를 위해 오는 9월 열리는 제312회 제1차 정례회를 통해 공무국외출장 여비를 최종 전액 삭감 처리할 예정이라고 밝혔다.",
+      "이번 결정은 기록적인 폭염과 경기 침체 등이 심화되는 상황 속."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nce4212ed",
+    "id": "nf7c65f76",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "24분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/06/2026080613074461733",
+    "title": "[현장 인터뷰] \"힘만 붙으면 베스트5\" 사령탑의 확신... 최예슬도 \"프로틴·웨이트, 밥도 많이 먹겠다\"",
+    "summary": [
+      "\"프로틴도 먹고 웨이트트레이닝도 열심히 하려고 한다.",
+      "밥도 많이 먹겠다.\" 용인 삼성생명의 최예슬이 더 강한 선수로 성장하겠다는 각오를 밝혔다.",
+      "삼성생명은 6일 부천실내체육관에서 열린 일본 아란마레와 2026 티켓링크 WKBL 퓨처스리그 결승에서 54-79로 패했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d65e2f3",
     "category": "IT",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260806/134433081/1",
-    "title": "포스코퓨처엠, 국내 배터리사와 2.7조원 규모 양극재 공급 합의",
+    "source": "아시아경제",
+    "time": "24분 전",
+    "url": "https://view.asiae.co.kr/article/2026080621120207124",
+    "title": "\"AI로 꾸민 허위 스펙 끝까지 잡는다\"…美대학, '사기 전담반' 운영",
     "summary": [
-      "배터리의 핵심 소재인 양극재를 만드는 포스코퓨처엠이 국내 배터리 업체에 6년간 2조7000억 원 상당의 리튬인산철(LFP) 배터리용 양극재를 공급하기로 합의했다.포스코퓨처엠은 내년부터 6년간 총 19만 t의 LFP 양극재를 국내의 한 배터리 업체에 공급하기로 합의했으며, 세부 논의를 거쳐 올 3분기(7~9월) 중 정식 계약을 맺을 예정이라고 6일 밝혔다.",
-      "소재 시세를 감안하면 거래 규모가 약 2조7000억 원에 이를 전망이다.이번 거래는 급성장."
+      "미국 대학들이 인공지능(AI)으로 만든 허위 스펙과 자기소개서를 가려내기 위해 입시 검증을 대폭 강화하고 있다.",
+      "5일(현지시간) 미국 월스트리트저널(WSJ)은 합격자 지원서를 전담 검증하기 위해 미 캘리포니아공대(칼텍)가 운영하는 '사기 단속반'을 소개했다.",
+      "4명으로 구성된 이 조직은 과학경진대회 상장의 글꼴과 서명, 성적표 양식, 추천서 발신 이메일, 학교 주소 등을 확인하는 것은 물론, 경진대회 주최 측과 고교 상담."
     ],
     "chips": [
-      "#전기차"
+      "#AI",
+      "#교육"
     ]
   },
   {
-    "id": "n8b7f9f10",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806102000530",
-    "title": "노동硏, 취업자 증가폭 전망치 절반으로 하향…\"성장 반도체 편중\"",
+    "id": "n3473cf28",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026080695177",
+    "title": "2700만원 기부했는데…\"몸판 돈\" \"더러운 돈\" 욕 먹은 여배우",
     "summary": [
-      "(서울=연합뉴스) 한혜원 기자 = 한국노동연구원이 올해 취업자 수가 지난해 보다 10만3천명 증가하는 데 그칠 것으로 전망했다."
+      "2700만원 기부했는데…\"몸판 돈\" \"더러운 돈\" 욕 먹은 여배우."
     ],
     "chips": [
-      "#반도체",
-      "#취업"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83608f45",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/sports/football/2026/08/06/GJOPQYIF3BGJNGGJVWX4EXCHWU/",
+    "title": "축구협회 ‘성접대’ 감사보고서 나왔다… 월드컵·올림픽 심판 포함",
+    "summary": [
+      "축구협회 ‘성접대’ 감사보고서 나왔다… 월드컵·올림픽 심판 포함."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n36186bea",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/06/2026080620122575415",
+    "title": "이상준, '21만원 LA쇼 혹평'에 심경 \"현재 제 수준…지각은 아냐\"",
+    "summary": [
+      "개그맨 이상준이 미국 로스앤젤레스(LA) 스탠드업 코미디 공연 이후 불거진 지각 논란과 음향 문제, 공연 완성도와 관련한 비판에 대해 직접 입장을 밝혔다.",
+      "지난 5일 이상준은 자신의 인스타그램에 \"스탠드업 코미디가 너무 빠르게 성장하고 있어서 조만간 나락을 갈 거 같다고 두 달 전부터 공연 중간에 장난 반 진담 반으로 이야기했다.",
+      "어떤 식으로든 사건이 한번은 터질 줄 알고 있어서 지금 사실 그렇게 아프지는 않다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -639,20 +645,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "3370건",
+    "trend": "+415%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
