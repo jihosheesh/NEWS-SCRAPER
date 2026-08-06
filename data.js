@@ -1,43 +1,46 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-06 15:06:27
+// 마지막 업데이트: 2026-08-06 23:49:17
 window.NEWS_DB = [
   {
-    "id": "n502cdfe7",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOOEZRTS10bEVwc1ZBckRQYVkxYjZuaTZnTWlyQXVCTXpFSEo3VEZyb08zZEMxTy0tVUJ6WlJrWjlsTE4yRjctNG9lV29XOEpQZm1lU3FR?oc=5",
-    "title": "프로야구, 연이은 폭염취소…KBO 긴급 실행위원회",
-    "summary": [
-      "프로야구, 연이은 폭염취소…KBO 긴급 실행위원회 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n296681bb",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nZXJzSjZxRGtuVUhqSkg1bXowbHhTRE9GVnI0NWZtMUNOOGFKdzhWRzM4QzdnbWU4LTNRRzZUTEtMRmtobUNPZGcxTjM0YjExUXJaUEtuUE5aelRYOWhEVA?oc=5",
-    "title": "프로야구 연이은 취소에 대책 나선 KBO",
-    "summary": [
-      "프로야구 연이은 취소에 대책 나선 KBO 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n7b43d662",
+    "id": "n23a94137",
     "category": "IT",
-    "source": "v.daum.net",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsa2VrZ0Y4WG5qRHJnOXlfMEZZU280aFlQLW9uM1hhNHBIdDA3V2ZpdDVrd18wUXhxTlZKNy1aZkdwZDhOc21WQm42cHYzek0?oc=5",
+    "source": "뉴스핌",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
+    "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
+    "summary": [
+      "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속' 뉴스핌."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n671bb698",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "17시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
+    "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
+    "summary": [
+      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n310d1420",
+    "category": "IT",
+    "source": "파이낸셜뉴스",
+    "time": "21시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBob0N5cVFfcGdBb3BxNVpiU0t6YW1kcThhRDdDYXRJT3ZRVEUzSGduWjc3Ym1tZUtoX1I3Mld5UGNZLVpuZ2FtblFYaHJacXZDQ3hkSlZQX1RxZw?oc=5",
     "title": "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항",
     "summary": [
-      "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항 v.daum.net."
+      "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항 파이낸셜뉴스."
     ],
     "chips": [
       "#AI",
@@ -49,7 +52,7 @@ window.NEWS_DB = [
     "id": "na3252cb5",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "14시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN0JxQ1BHUXVMWkpJc2paRkM4cUV1VS1UTU04UzhpTjRuUS1JX3FpSG82bGl0clEzbVNpNktFSU5Fd2phbWlMaUtXd2huUHMwVHZaY01NOU5fOGplRnBuS0tZNzg?oc=5",
     "title": "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\"",
     "summary": [
@@ -106,43 +109,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na5600956",
-    "category": "IT",
-    "source": "지디넷코리아",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HeGEtOUdPYkw1enRmd2pkc2lCNUdfS1lONFNlMzVoU05VWVF3cUdwbS0yOUpiVEoxdjQ3bFY5N2pwNGQzeEs3RURXT21vMFZLM1F3OEJn?oc=5",
-    "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
-    "summary": [
-      "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화 지디넷코리아."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n062f98b4",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
-    "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
-    "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n0c06c07a",
     "category": "IT",
-    "source": "unicornfactory.co.kr",
+    "source": "유니콘팩토리",
     "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNC1MZ1FMUkNLb2hiVVZZVVBNdzRoaXUyU0lfb3k5NTcyaXFrbTRoVjM2ZXA2OHlzOGl0T2JySzFMdS1Bb3l2Vi1nRWdUcm5JNUlYaDJKM0tLYjZlMzJqaWtyVHZHb3RlOHZKSA?oc=5",
     "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\"",
     "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" unicornfactory.co.kr."
+      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -166,7 +140,7 @@ window.NEWS_DB = [
     "id": "nc4b0f988",
     "category": "IT",
     "source": "쿠키뉴스",
-    "time": "7일 전",
+    "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
@@ -192,6 +166,20 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n56609ab4",
+    "category": "IT",
+    "source": "스타트업엔(StartupN)",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
+    "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
+    "summary": [
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -224,6 +212,21 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스",
       "#채용"
+    ]
+  },
+  {
+    "id": "n917184b9",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "45일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
+    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
+    "summary": [
+      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -271,28 +274,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64476ff1",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "109일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWlNUMlhycnlHMF9ydVMydWFxaGRCeUI0TkFwdm9LOEFnRDdDS1h5ZGNWcjZ0ZHVCbmxzSWRLbGpZTXluMVhIVENBbjZCVUN2aDQ3VHM3UVlmTW5zTzVzMk52N1kzWHZUbkHSAW9BVV95cUxOZXJ5Z0xLMHRUa2VoWnJOcV9rNUlscXBtdzZ5bFc0NDhjM0lTRjJuT01VejZCbC1nbTB6WHRnMjFULUlvZFhaaUZXQm1IeGZRaVJHaWs5Q0ZtMGMyVEJwclNwOENhWW1XQ1F3YXdOS1E?oc=5",
-    "title": "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이",
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "127일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'스타트업 성장 플랫폼' 유니콘팩토리, '창업생태계혁신대상' 수상 - 머니투데이 머니투데이."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
-      "#스타트업"
+      "#KBO"
     ]
   },
   {
-    "id": "nbc27bc5a",
+    "id": "nbcfe41a7",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "162일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
-    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
+    "source": "연합뉴스TV",
+    "time": "164일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
       "#스타트업"
@@ -314,325 +317,322 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne6ad095c",
-    "category": "부동산",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154070",
-    "title": "트림블, 코오롱글로벌 BIM 기반 디지털 관리 체계 구현 지원",
-    "summary": [
-      "트림블은 코오롱글로벌이 트림블 커넥트와 트림블 커넥트 대시보드를 도입해 건설정보모델링(BIM) 기반 골조공사 디지털 통합 관리 체계를 성공적으로 구축했다고 6일 밝혔다.코오롱글로벌은 최근 주택 중심 사업 구조를 일반 건축과 하이테크 건축으로 다각화하고, 철근콘크리트(RC) 중심 BIM 프로세스를 철골과 프리캐스트 콘크리트(PC) 구조로 확대하고 있다.",
-      "이 과정에서 2D 도면과 엑셀 중심 관리 방식에서 발생할 수 있는 데이터 차이와 소통 문제를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb9628c41",
+    "id": "nc7847c25",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154069",
-    "title": "ADT캡스, '캡스 매장솔루션'으로 운영・보안 묶었다...통합 관리 수요 겨냥",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154074",
+    "title": "네이버, 2Q 영업이익 5203억원 전년 比 0.2% 감소...'AI 인프라' 투자 영향",
     "summary": [
-      "SK쉴더스는 물리보안 브랜드 ADT캡스가 '캡스 매장솔루션'을 통해 매장 운영과 보안을 하나의 앱으로 관리하는 통합 운영 서비스를 선보인다고 6일 밝혔다.",
-      "하나의 앱을 통해 효율적으로 매장을 운영할 수 있도록 지원한다.SK쉴더스는 최근 인건비와 임대료, 원재료비 부담이 커지면서 소상공인들의 매장 운영 방식이 디지털로 빠르게 확산되고 있는 점을 신규 설루션 출시 배경으로 꼽았다.",
-      "중소기업중앙회가 올해 공개한 조사에 따르면 소상공인 10명 중 8명."
+      "네이버가 인공지능(AI) 인프라를 위한 대규모 투자에도 견조한 실적을 달성했다.",
+      "네이버 플랫폼과 파이낸셜 플랫폼, 글로벌 도전 등 전 사업 영역이 고른 성장세를 보이며 두 자릿수 매출 성장을 이끌었다.",
+      "엔비디아와 함께 추진하는 AI 팩토리 등 선제적 투자 비용이 반영되면서 영업이익은 전년 수준에 머무른 가운데 관련 투자가 내년부터 본격적인 매출 성장으로 이어질 것으로 예상된다.7일 네이버가 2026년 2분기 매출 3조3888억원, 영업이익 52."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#엔비디아",
+      "#네이버"
     ]
   },
   {
-    "id": "nd524c5ef",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154068",
-    "title": "다시 뛰는 웹젠, 2Q 실적 부진에도 주가 껑충...신작 모멘텀 기대감 '쑥'",
-    "summary": [
-      "웹젠이 신작 공백 여파로 2분기 다소 부진한 실적을 기록했지만 주가는 오히려 5% 넘게 상승했다.",
-      "시장은 당장의 실적보다 내년 출시를 목표로 준비 중인 신작 라인업과 중장기 성장 가능성에 더 높은 점수를 준 것으로 풀이된다.웹젠은 6일 올해 2분기 연결 기준 매출 380억원, 영업이익 57억원을 기록했다고 공시했다.",
-      "전년 동기 대비 각각 2.8%, 8.4% 감소한 수치다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n434e201a",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154067",
-    "title": "웹젠, 2분기 영업이익 57억원…하반기 신작 러시 본격화",
-    "summary": [
-      "웹젠이 신작 출시 공백의 영향으로 올해 2분기 매출과 영업이익이 모두 감소했다.",
-      "회사는 하반기부터 신작 정보를 순차적으로 공개하며 내년 실적 반등을 준비한다는 계획이다.웹젠은 6일 연결 기준 올해 2분기 매출 380억원, 영업이익 57억원을 기록했다고 밝혔다.",
-      "전년 동기 대비 각각 2.8%, 8.4% 감소한 수치다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndb35624f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "방금 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260807/134435046/1",
-    "title": "이선민, 숭실대 간 이유 “야인 같았던 누나 반면교사”",
-    "summary": [
-      "코미디언 이선민이 반전 학력을 갖게 된 계기로 셋째 누나를 언급했다.",
-      "이선민은 6일 tvN 유튜브 채널에 공개된 ‘유퀴즈’ 예고편에서 누나와 관련된 일화를 공개했다.",
-      "MC 유재석은 “이선민 한번 클릭하면 이선민 영상이 엄청 뜬다”며 “이선민씨가 숭실대를 나오셨다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne0770234",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260807/134435043/1",
-    "title": "‘학폭 논란’ 지수, 필리핀서 몰라보게 달라진 근황",
-    "summary": [
-      "‘학교폭력’(학폭) 논란으로 국내 활동을 중단한 배우 지수가 필리핀에서 근황을 전했다.지수는 6일 자신의 소셜 미디어에 필리핀 마닐라의 한 쇼핑몰에서 열린 의류 브랜드 행사 사진을 공개했다.데님 재킷 차림의 지수는 현지 팬들과 인사를 나누며 행사를 소화했다.지수는 지난 2021년 학폭 의혹이 제기되자 일부 사실을 인정하고 출연 중이던 KBS 2TV 드라마 ‘달이 뜨는 강’에서 하차했다.이후 소속사 키이스트와 계약을 해지하고 국내 활동을 중단했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nbcde4384",
+    "id": "n770eadca",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260807/134435036/1",
-    "title": "기은세 10년 몸매 유지 비결…‘저탄고지’ 효과와 주의점은",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154073",
+    "title": "[PGS 통신] 지케이, 韓 유일 파이널 직행...젠지-T1-DN, 최종전서 '배수의 진'",
     "summary": [
-      "배우 기은세가 “몸매를 10년간 유지해 온 비결이 바로 저탄고지”라고 말해 화제다.최근 그는 ENA 예능프로그램에 ‘엑스 더 리그’에 출연해 이같이 밝혔다.저탄고지 식단은 탄수화물 섭취를 줄이는 대신 지방과 단백질의 섭취 비중을 늘리는 식사법으로 알려져 있다.",
-      "탄수화물을 하루 총 섭취 칼로리의 5~10% 수준으로 줄이면 간에서 지방산을 분해해 케톤체를 만들어내고 이를 에너지원으로 사용하는 ‘케토시스 상태’가 나타난다."
+      "6일 배틀그라운드 글로벌 e스포츠 대회 '펍지 글로벌 시리즈(PGS) 서킷3' 첫 관문인 'PGS7' 위너스 스테이지가 마무리 된 가운데 한국 팀 중에서는 지케이 이스포츠만 유일하게 파이널 스테이지 직행권을 따냈습니다.",
+      "한편 1위는 중국의 17게이밍이 차지했습니다.8월 5일부터 23일까지 3주 동안 중국 상하이에서 치러지는 PGS 서킷3은 PGS7, 8, 9 등 세 개 시리즈가 차례로 진행됩니다.",
+      "특히 이번 하반기 대회부터는 획득 가능한 PGS."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9ae70839",
+    "id": "ne9ee49f3",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026080708430912018",
+    "title": "쿠팡, AI로 쇼핑 돕는다…상품 비교·리뷰 요약까지 한눈에",
+    "summary": [
+      "쿠팡이 인공지능(AI)을 활용해 상품 탐색부터 비교, 구매 결정까지 쇼핑 전 과정의 고객 경험을 강화한다.",
+      "쿠팡은 AI 기반 기능을 주요 카테고리에 적용해 상품 정보를 보다 쉽고 직관적으로 확인할 수 있도록 했다고 7일 밝혔다.",
+      "단순한 상품 정보 제공을 넘어 고객이 필요한 정보를 AI가 분석·요약해 구매를 돕는 데 초점을 맞췄다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nc498bfc6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003739891",
+    "title": "현대차·기아, '레드닷 어워드'서 17개 상 수상…\"공간·브랜드 경험 경쟁력 인정\"",
+    "summary": [
+      "[서울=뉴시스]김민성 기자 = 현대자동차·기아는 '2026 레드 닷 어워드: 브랜드 & 커뮤니케이션 디자인 부문'에서 최우수상 2개, 본상 15개를 수상했다고 7일 밝혔다.",
+      "레드 닷 어워드는 독일 iF, 미국 IDEA와 함께 세계 3대 디자인 시상식으로 손꼽히는 세계 최대 규모의 디자인 공모전이다.",
+      "독일 노르트라인 베스트팔렌 디자인센터가 주관해 매년 ▲제품 디자인 ▲브랜드 & 커뮤니케이션 디자인 ▲디자인 콘셉트 각 부문에서 우수한 디자인을 선정."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7bd0014d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003739880",
+    "title": "토박스코리아, 스토케 '젯키즈' 전국 오프라인 판매 추진",
+    "summary": [
+      "[서울=뉴시스] 김경택 기자 = 유아동 패션 전문기업 토박스코리아는 글로벌 프리미엄 유아용품 브랜드 스토케(Stokke)의 유아 여행용품 컬렉션 '젯키즈(JetKids)'를 자사 오프라인 매장에 입점시키기 위한 협의를 진행하고 있다고 7일 밝혔다.",
+      "회사 측에 따르면 이번 입점 추진은 토박스코리아가 꿈비그룹 편입 이후 오프라인 유통망에 그룹 계열사의 브랜드 유통 역량을 접목하는 첫 협업 사례다.",
+      "제품 구성과 판매 방식, 입점 점포, 매장 진열 방."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5e4bb7b",
+    "category": "사회",
+    "source": "조선비즈IT",
+    "time": "1분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/07/X6ASQKVRHRHARM6ASR54WAYBSI/",
+    "title": "日정부, 사진앱 스노우에 “스텔스 마케팅” 이유로 행정처분",
+    "summary": [
+      "日정부, 사진앱 스노우에 “스텔스 마케팅” 이유로 행정처분."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n230f56a0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003739868",
+    "title": "한국해양재단, 해양 정화 활동 '바다지기 캠페인' 개최",
+    "summary": [
+      "[서울=뉴시스]정진형 기자 = 한국해양재단이 오는 8일 '섬의 날'을 맞아 전북 군산 명도 일대 해양 정화 활동을 하는 '제2차 바다지기 연합 캠페인'을 개최한다고 7일 밝혔다.",
+      "한국해양재단은 해양수산 분야에 시민 참여를 확대하고 현장 활동을 지원하기 위해 '바다지기 후원사업'을 운영 중이다.",
+      "특히 시민단체 간 교류와 협력을 강화하기 위해 매년 동·서·남해안 권역별 연합 캠페인도 추진한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n10928474",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003739801",
+    "title": "벤치클리어링 유발한 시애틀 스파이어, 3경기 출장정지 징계",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 메이저리그(MLB)에서 벤치클리어링을 벌이며 퇴장당했던 투수 게이브 스파이어(시애틀 매리너스)가 징계를 피하지 못했다.",
+      "스파이어의 퇴장에 대해 항의했던 시애틀 댄 윌슨 감독도 징계를 받았다.",
+      "MLB 사무국은 7일(한국 시간) 스파이어에게 3경기 출장정지, 윌슨 감독에게 1경기 출장정지 징계를 내렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51cd971b",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026080708445931497",
+    "title": "벤처 업계 \"세제개편안 환영…민간 벤처투자 촉진 기대\"",
+    "summary": [
+      "한국벤처캐피탈협회(VC협회) 등 벤처업계가 정부의 2026년 세제개편안에 대해 민간 벤처투자를 촉진하고 벤처 생태계 성장 기반을 확충하는 방향이라며 긍정적으로 평가했다.",
+      "7일 VC협회는 벤처기업협회, 코리아스타트업포럼과 함께 정부의 2026년 세제개편안에 대한 환영 논평을 내고 이같이 밝혔다.",
+      "VC협회 측은 성장 단계의 벤처기업이 현장에서 직접 체감할 수 있는 지원이 담긴 점을 크게 반겼다."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n9c9b84aa",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260807/134435634/1",
+    "title": "‘해병 순직 책임’ 임성근 전 사단장 오늘 항소심 선고…1심 징역 3년",
+    "summary": [
+      "채상병 순직 사건의 책임자로 지목돼 1심에서 징역형을 선고받은 임성근 전 해병대 1사단장에 대한 항소심 판단이 7일 나온다.",
+      "임 전 사단장이 항소한 지 3개월 만이다.서울고법 형사4-3부(부장판사 전지원 김인겸 성지용)는 오는 7일 오전 10시 10분 업무상 과실치사상 혐의로 재판에 넘겨진 임 전 사단장에 대한 선고기일을 연다.임 전 사단장은 2023년 7월 경북 예천군 내성천 일대에서 구명조끼 등 안전 장비를 지급하지 않은 채 수몰 실종자 수."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na2857367",
     "category": "사회",
     "source": "연합뉴스",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806113800017",
-    "title": "[건강포커스] \"전동킥보드 이용자 외상성 뇌손상 위험, 오토바이의 3.5배\"",
+    "url": "https://www.yna.co.kr/view/AKR20260807025700030",
+    "title": "신세계V, 16일까지 '뷰티 빅세일'…구매 시 최대 20% 페이백",
     "summary": [
-      "(서울=연합뉴스) 이주영 기자 = 친환경 단거리 이동 수단으로 빠르게 보급되고 있는 전동 킥보드 이용자는 사고로 중등도~중증 외상을 입을 경우 ..."
-    ],
-    "chips": [
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n26040c73",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739274",
-    "title": "김민재, 뮌헨 동료들에게 '한국 치킨' 선물…獨 \"특별한 마지막 밤\"",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 독일 프로축구 바이에른 뮌헨의 김민재가 한국 투어 마지막 밤 동료들에게 치킨을 선물하며 한국의 야식을 소개했다.",
-      "독일 매체 바바리안 풋볼 워크스는 6일(현지 시간) \"김민재가 한국에서의 마지막 밤, 팀 동료들을 위해 특별한 한국식 식사를 준비했다\"고 전했다.",
-      "보도에 따르면 김민재는 제주 SK와의 친선경기에서 2-1 승리를 거둔 뒤 선수단이 머물던 호텔로 한국식 프라이드치킨을 주문했다."
+      "(서울=연합뉴스) 이상서 기자 = 신세계인터내셔날[031430]은 오는 16일까지 디지털 플랫폼 신세계V에서 '뷰티 빅세일'을 진행한다고 7일 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n75d4d02b",
+    "id": "n4a7e610d",
     "category": "사회",
     "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "url": "https://www.yna.co.kr/view/AKR20260807025200009",
+    "title": "\"예멘 반군, 사우디 남부 공격\"…민간인 11명 부상",
     "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+      "(서울=연합뉴스) 강훈상 기자 = 예멘 반군 후티가 6일(현지시간) 사우디아라비아 남부 국경지대인 나르잔 지역을 공격해 민간인이 다쳤다고 사우디..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc73617be",
+    "id": "n3e5f7ae4",
     "category": "스포츠",
-    "source": "연합뉴스",
+    "source": "동아일보",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260805145900003",
-    "title": "[시승기] 우아함과 안정감…볼보 전기 플래그십 SUV 'EX90'",
+    "url": "https://www.donga.com/news/Sports/article/all/20260807/134435629/1",
+    "title": "‘EPL 아스널 이적설’ 비니시우스, 레알과 2032년까지 재계약",
     "summary": [
-      "(서울=연합뉴스) 김윤구 기자 = 볼보의 럭셔리 전기 스포츠유틸리티차(SUV) 'EX90'을 만났다."
+      "브라질 공격수 비니시우스 주니오르(26)가 스페인 프로축구 프리메라리가 레알 마드리드와의 동행을 연장했다.레알은 6일(현지 시간) 공식 채널을 통해 “비니시우스가 2032년까지 재계약했다”고 알렸다.조세 모리뉴(포르투갈) 감독 부임 이후 최근 잉글랜드 프로축구 프리미어리그(EPL) 아스널 등과의 이적설에 휩싸이기도 했지만, 최종 선택은 현 소속팀과의 동행 연장이었다.비니시우스는 지난 2018년 레알 유니폼을 입었다.8시즌 동안 총 375경기에."
     ],
     "chips": [
-      "#뉴스"
+      "#EPL"
     ]
   },
   {
-    "id": "nd8b17927",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003739698",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-    "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n80a360a5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739679",
-    "title": "방은희, 母 고독사에 오열 \"이틀 만에 발견\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 배우 방은희가 모친을 고독사로 떠나보낸 후 느끼는 죄책감과 그리움을 털어놨다.",
-      "6일 방송된 MBN 교양 예능물 '특종세상'에 출연한 방은희는 두 차례의 이혼 경험과 함께 6년 전 세상을 떠난 어머니에 대한 사연을 전했다.",
-      "방은희는 \"두 번째 이혼 후 힘든 모습을 보여드리고 싶지 않아 1년 정도 어머니를 찾아뵙지 못했다\"며 \"그사이 어머니가 홀로 돌아가셨고 이틀이 지나서야 발견됐다\"고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2bdf3d7e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260806_0003739688",
-    "title": "\"신발에만 수억원 썼다\" 선우용여, 50년 모은 '명품 구두' 컬렉션",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 배우 선우용여(81)가 50년 가까이 수집해 온 명품 구두 컬렉션을 공개했다.",
-      "6일 유튜브 채널 '순풍 선우용여'에는 '신발에만 수억 쓴 선우용여 박물관급 명품 구두 컬렉션 최초공개'라는 제목의 영상이 게재됐다.",
-      "영상에서 선우용여는 거실에 늘어놓은 구두와 운동화, 샌들 등을 소개하며 각 신발에 얽힌 추억을 회상했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na9468eac",
-    "category": "IT",
+    "id": "naf30dc5c",
+    "category": "스포츠",
     "source": "조선일보",
     "time": "6분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/08/07/W3HZLKZSR5HZLJUI5XOF5VALSE/",
-    "title": "[사설] ‘호남 반도체’ 규제 완화도 반대, 노동 장관은 국책 위에 있나",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/07/G5SDEMZQHE4GEMRVMVTDGZDDMI/",
+    "title": "[공식발표] \"호날두 몸값 넘었다\" 최대 2297억, 초대형 이적! 레알 마드리드, 21살 디오망데 품었다...\"구단 역사상 가장 비싼 영입\"",
     "summary": [
-      "[사설] ‘호남 반도체’ 규제 완화도 반대, 노동 장관은 국책 위에 있나."
+      "[OSEN=고성환 기자] 레알 마드리드가 천문학적인 이적료를 들여 얀 디오망데(21) 영입을 마쳤다.레알 마드리드는 6일(한국시간) 구단 홈페이지를 통해 \"레알 마드리드 CF와 RB 라이프치히가 선수 얀 디오망데의 이적에 합의했다.",
+      "디오망데는 앞으로 7시즌 동안, 즉 2033년 6월 30일까지 우리 구단과 계약을 뛰게 된다\"고 공식 발표했다.이적료도 어마어."
     ],
     "chips": [
-      "#반도체",
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb2e53952",
+    "id": "n322be2b1",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807026000527",
+    "title": "롯데쇼핑 2분기 영업이익 899억원…작년 동기 대비 121.2%↑",
+    "summary": [
+      "(서울=연합뉴스) 코스피 상장사 롯데쇼핑[023530]은 연결 기준 올해 2분기 영업이익이 899억원으로 지난해 동기보다 121.2% 증가한 것..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1cd97aba",
     "category": "사회",
     "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/MYZTOOJSMIZTKOLFMRQTIMRVGM/",
-    "title": "BTS 뷔, 초근접 셀카도 완벽…'\"어떤 각도도 화보\"",
+    "url": "https://www.chosun.com/economy/smb-venture/2026/08/07/GE3DCOJQGA4GMMLCGI3TMYZXGQ/",
+    "title": "소상공인 떡 시장 5년 더 보호…대기업 출하량은 확대",
     "summary": [
-      "[OSEN=김수형 기자] 방탄소년단(BTS) 뷔가 또 한 번 독보적인 비주얼을 자랑했다.뷔는 지난 5일 자신의 SNS에 \"꽤 고요하지 엉엉 울어도 돼 엉엉~\"이라는 글과 함께 여러 장의 사진을 공개했다.공개된 사진 속 뷔는 카메라를 가까이 둔 채 다양한 각도로 셀카를 촬영하고 있다.",
-      "편안한 캐주얼 차림에도 또렷한 이목구비와 작은 얼굴, 깊은 눈빛이 시선을."
+      "중소벤처기업부는 생계형 적합업종 심의위원회를 열고 ‘떡국떡·떡볶이떡 제조업’을 생계형 적합업종으로 다시 지정하기로 결정했다고 7일 밝혔다.",
+      "생계형 적합업종은 소상공인의 생존권을 보호하고 안정적인 경영 환경을 조성하기 위해 마련된 제도다.",
+      "2018년 제정된 ‘소상공인 생계형 적합업종 지정에 관한 특별법’에 따라 지정 업종에서는 대기업 등의 사업 인수와 신규."
     ],
     "chips": [
+      "#스타트업",
       "#환경"
     ]
   },
   {
-    "id": "n8d352cd3",
+    "id": "n7101204b",
     "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260807/134435622/1",
+    "title": "밭일하다 농막서 쉬던 70대 열탈진…병원 이송",
+    "summary": [
+      "전남광주 담양에서 밭일 후 휴식을 취하던 70대가 온열질환 증세를 보여 병원으로 이송됐다.7일 전남광주통합소방본부 등에 따르면 전날 오전 10시 48분쯤 담양군 월산면 한 농막에 A 씨(70대)가 쓰러져 있다는 신고가 접수됐다.소방 당국이 현장에 출동했을 때 A 씨의 체온은 39.1도였고 의식이 또렷하지 않은 열탈진 증세를 보인 것으로 전해졌다.이송 과정에서 구급 대원들의 응급 조치 덕에 A 씨는 병원 도착 전 의식을 어느 정도 회복한 것으로."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb85a04db",
+    "category": "스포츠",
     "source": "조선일보",
     "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/06/GVRDSODEGY4TKZDEMI3WCZTDGQ/",
-    "title": "지예은 \"한예종 붙고 오히려 자존감 떨어져\" ('오키키')",
+    "url": "https://www.chosun.com/entertainments/music/2026/08/07/MVRGIM3BMFSDMNZQGI2TEOBQME/",
+    "title": "아이딧, ‘SBS 가요대전 Summer’→‘캐리비안베이 워터 뮤직 풀파티’까지 릴레이 출격",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 지예은이 과거 열등감 때문에 위축되었던 시절을 고백했다.",
-      "지난 5일 유튜브 채널 '오키키ㅇㅋㅋ'에는 '30대들의 으른 연애'라는 제목의 영상이 게재됐다.",
-      "이날 가비와 지예은은 헤이즈, 청하와 함께 진솔한 대화를 하며 시간을 보냈다."
+      "[OSEN=강서정 기자] 스타쉽엔터테인먼트 보이그룹 아이딧(IDID)이 올여름 대형 무대를 잇달아 누비며 존재감을 넓힌다.아이딧(장용훈, 김민재, 박원빈, 추유찬, 박성현, 백준혁, 정세민)은 오는 9일 경기 고양시 킨텍스에서 열리는 '2026 SBS 가요대전 Summer' 에 출연해 글로벌 K팝 팬들과 만난다.'2026 SBS 가요대전 Summer'는 국."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na6a67c1b",
+    "id": "n77cd5501",
     "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/opinion/chosun_column/2026/08/07/X35AKXBIVJEODKPXON7TKEI5EE/",
-    "title": "[朝鮮칼럼] 어느날 사라진 예술의전당 ‘전두환 휘호석’",
-    "summary": [
-      "[朝鮮칼럼] 어느날 사라진 예술의전당 ‘전두환 휘호석’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9d7a4e24",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260806157900108",
-    "title": "호르무즈 이어 흑해도 불안…러 부총리 \"인도양 연결 철도 필요\"",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 러시아의 고위 당국자가 해상 무역로의 위험을 이유로 인도양으로 이어지는 철도 건설 필요성을 제기했다고 러..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "na7d7689e",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "27분 전",
-    "url": "https://view.asiae.co.kr/article/2026080623382261704",
-    "title": "美 신규 실업수당 청구 19만9000건…해고 낮은 수준 유지",
-    "summary": [
-      "미국의 신규 실업수당 청구 건수가 3주 연속 20만명을 하회하며 기업들의 해고가 낮은 수준을 유지하는 것으로 나타났다.",
-      "다만 계속 실업수당 청구 건수는 증가했다.",
-      "미 노동부는 지난주(7월 26∼8월 1일) 신규 실업수당 청구 건수가 19만9000건으로 전주 대비 1000건 늘었다고 6일(현지시간) 밝혔다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "nbe218d59",
-    "category": "IT",
     "source": "동아일보",
-    "time": "36분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260806/134434565/2",
-    "title": "[사설]세계 PC 공급망 뚫은 中 D램… 바짝 다가온 ‘차이나 쇼크’",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260807/134435617/1",
+    "title": "‘학폭 논란 후 5년’ 지수, 날렵해진 턱선에 밝은 미소…몰라보게 달라진 근황",
     "summary": [
-      "미국 HP, 대만 에이수스와 에이서 등 세계 주요 PC 업체들이 노트북 제품에 중국 창신메모리(CXMT) D램을 탑재하기 시작했다고 한다.",
-      "주로 내수 시장에서 덩치를 키워온 중국 반도체 기업들이 글로벌 공급망 편입에 본격적인 시동을 건 것이다.",
-      "중국산 반도체는 아직까지 일부 저가형 모델에 한해, 제한된 수량만 들어가고 있다."
+      "배우 지수의 근황이 공개됐다.지수는 지난 6일 자신의 인스타그램에 필리핀에서 진행된 브랜드 행사 관련 사진들을 게재했다.사진에서 지수는 한층 슬림해진 얼굴과 또렷해진 턱선을 드러내고 있는 모습이다.",
+      "짙어진 눈썹과 탄탄한 체격, 짧은 헤어스타일로 한층 강인해진 인상을 남긴다.또한 자신의 얼굴로 만든 부채를 들거나 옷을 든 채 환한 미소를 지으며 카메라를 바라보고 있는 모습으로 눈길을 끈다.",
+      "그뿐만 아니라 다채로운 표정을 지으며 셀카를 찍은 모습도."
     ],
     "chips": [
-      "#반도체"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n185b6909",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807022800008",
+    "title": "SK증권 \"원익IPS, 수주잔고 증가로 하반기 실적 개선 기대\"",
+    "summary": [
+      "(서울=연합뉴스) 강수지 기자 = SK증권은 원익IPS[240810]가 수주 잔고 증가를 바탕으로 하반기 실적 개선 가능성이 높다며 목표주가 1..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf8b3a56",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807025300008",
+    "title": "다올증권 \"KT&G, 2분기 실적 기대치 상회…목표가↑\"",
+    "summary": [
+      "(서울=연합뉴스) 이민영 기자 = 다올투자증권[030210]은 7일 KT&amp;G의 2분기 실적이 기대치를 웃돌았다며 목표주가를 22만원에서 ..."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -642,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "스타트업",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
