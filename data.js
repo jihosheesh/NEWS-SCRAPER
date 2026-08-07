@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-07 20:29:00
+// 마지막 업데이트: 2026-08-07 21:28:30
 window.NEWS_DB = [
   {
     "id": "n9f669867",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzgyOU1wckpnS0sxX2RGN0RoSEdjZksxM2x5S013cmQxVEsyWVRuQ05MR1BEblA4YmtKMTJmSHhPbG1MYjZZdGZUdUNRUDd6bEdnb3d1N0E0bGdPbjZQSlN1ejMtVGstTXQyVWUyNFJfTzRwa3owWE1RNUdXeHNBMw?oc=5",
     "title": "TSMC는 2나노·난야는 D램…대만 반도체 ‘AI 증설 러시’",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9db71f7c",
     "category": "사회",
     "source": "아주경제",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG3SAVhBVV95cUxNc3NuMFZnYkdHajlweVB0NzBLX3V1SmcxSGNOQTVSblFJRUo1QVJDUTVBN1FEeGdSTGFpLXJHX2NQYV9QQXNQZkIzR3Z6R3VkN3VRZUNXelBt?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n23a94137",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
     "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
     "summary": [
@@ -331,140 +331,174 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n915a1c02",
-    "category": "사회",
+    "id": "n76371040",
+    "category": "IT",
     "source": "조선일보",
     "time": "8분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/08/KTFGKEAH3ZAC7A24NR3CLJDGFI/",
-    "title": "지금 한국에서 가장 맛있는 사과가 나는 곳, 강원 부사 조선몰 단독 특가",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/08/GAZDINTBGIYDGZJQMJRTKYZSG4/",
+    "title": "또 이정후였다! 美 매체, \"린도어 트레이드 카드 될 수도\" 충격 시나리오 제기",
     "summary": [
-      "지금 한국에서 가장 맛있는 사과가 나는 곳, 강원 부사 조선몰 단독 특가."
+      "[OSEN=손찬익 기자] 샌프란시스코 자이언츠에서 활약 중인 ‘바람의 손자’ 이정후(외야수)가 또다시 트레이드 시나리오에 이름을 올렸다.",
+      "이번에는 뉴욕 메츠 프랜차이즈 스타 프란시스코 린도어의 트레이드 가능성을 다룬 미국 현지 매체가 계약 맞교환 후보 가운데 한 명으로 이정후를 거론했다.메츠 소식을 다루는 ‘라이징 애플’은 지난 7일(이하 한국시간) “올."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n844a836b",
+    "id": "n486b4913",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808007700055",
+    "title": "전북 낮 최고 36도…일부지역 오후에 소나기",
+    "summary": [
+      "(전주=연합뉴스) 최영수 기자 = 8일 전북은 가끔 구름이 많고 무더위가 이어지겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9f5d09d3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808007300052",
+    "title": "부울경 구름 많고 경남 북서내륙 소나기…폭염·열대야 계속",
+    "summary": [
+      "(창원=연합뉴스) 이정훈 기자 = 토요일인 8일 부산·울산·경남은 구름이 많겠으며, 오후(12∼18시)에는 경남 북서 내륙 일부 지역에 소나기가..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n25951487",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741197",
-    "title": "진주시 '올빰토요야시장' 15일 운영재개…\"무더위로 휴장\"",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/08/HBRGEZTGGY3TMYLBMRRGEOLGGU/",
+    "title": "'살인 폭염'에 멈춰선 '7G 6홈런' 김도영 미친 기세...\"홈런왕 욕심 없다\" 불운까지 겹치나",
     "summary": [
-      "[진주=뉴시스] 정경규 기자 = 경남 진주시 상권활성화재단은 진주 대표 야간 관광콘텐츠인 '올빰토요야시장'이 오는 15일부터 하반기 운영을 본격적으로 재개한다고 8일 밝혔다.",
-      "'올빰토요야시장'은 7월 한달간 무더위로 인해 휴장했다.",
-      "그런데 7일과 8일 망경동 남강 둔치에서 열리는 진주의 대표 여름 축제인 'M2 페스티벌'에 참여하면서 시동을 걸었다."
+      "[스포츠조선 김용 기자] 김도영의 홈런왕 실낱 희망, 더 사라지게 되는 걸까.",
+      "KIA 타이거즈 김도영은 지난 6월에도, 그리고 최근에도 홈런왕 얘기가 나오면 \"욕심 없다\"고 잘라 말했다.",
+      "김도영은 33홈런으로 단독 1위다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n08f7bfab",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/08/WTZILBJ36VBDVJM3EWY7Z5MFKM/",
-    "title": "100만원대 못지 않다, 한국 기업 무선 청소기 10만원 특가 공동구매",
-    "summary": [
-      "100만원대 못지 않다, 한국 기업 무선 청소기 10만원 특가 공동구매."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13d7fbee",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/08/2O4AWJ5XGFCNXDOHXEO5KN4J64/",
-    "title": "상대 말소리와 TV 소리가 또렷하게 들리는 신기한 이어폰, 10만원대 초특가",
-    "summary": [
-      "상대 말소리와 TV 소리가 또렷하게 들리는 신기한 이어폰, 10만원대 초특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n51c9788e",
+    "id": "n83b09748",
     "category": "사회",
     "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741184",
-    "title": "울산, 최고 33도 폭염…일요일엔 곳에 따라 비",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741194",
+    "title": "이란 외무, '메카협정' 체결일 \"이슬람 형제애로 단결해야\"(종합)",
     "summary": [
-      "[울산=뉴시스] 박수지 기자 = 8일 울산 지역은 구름이 많은 가운데 폭염과 열대야가 이어질 전망이다.",
-      "울산기상대에 따르면 이날 아침 최저기온은 26도, 낮 최고기온은 33도로 예보됐다.",
-      "울산에는 현재 폭염주의보와 열대야주의보가 발효 중이다."
+      "[서울=뉴시스] 김승민 기자 = 사우디아라비아·튀르키예·파키스탄이 피격시 공동 대응하는 집단 안보체제를 구축한 가운데, 이란 측에서는 이슬람 국가 단결을 강조하는 메시지를 냈다.",
+      "아바스 아라그치 이란 외무장관은 7일(현지 시간) 소셜미디어 엑스(X·구 트위터)에 \"무슬림들이 하나로 단결할 때 우리는 악의적인 외세의 어떤 도전에도 정면으로 맞설 수 있다\"며 \"오직 우리 자신의 힘을 믿고 진정한 형제애로 단결할 때\"라고 적었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc56f9319",
+    "id": "n36c5387a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808007000064",
+    "title": "충북 오후부터 소나기…낮 최고 35도",
+    "summary": [
+      "(청주=연합뉴스) 이성민 기자 = 8일 충북에는 오후부터 소나기가 내리는 곳이 있겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n20c27291",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808005151072",
+    "title": "美증시, 금리인상 기대론 후퇴에 상승…S&P500 사상최고치 마감(종합)",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 고용지표 악화에 미국 금리인상 기대론이 후퇴하면서 7일(현지시간) 뉴욕증시 3대 지수가 상승 마감했다."
+    ],
+    "chips": [
+      "#금리",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n3a16d2ca",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260806_0003739120",
+    "title": "\"밥 대신 잠\"…점심시간 쪼개 쪽잠 자는 2030, 무슨 일? [출동!인턴]",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 우연지 인턴기자, 이지윤 인턴기자 = \"밥을 거르더라도 점심에 30분이라도 자는 게 오후 업무에 훨씬 도움이 돼요.\" 지난 4일 서울 강남구에 위치한 한 수면 카페.",
+      "점심시간이 되자 카페에 직장인들이 하나둘 들어섰다.",
+      "식사를 하기보다 잠깐이라도 눈을 붙이려는 이들이었다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n33f972f1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741201",
+    "title": "스페인, \"이탈리아 발 입국자 국경 검사\" 발표",
+    "summary": [
+      "[마드리드=신화/뉴시스] 강영진 기자 = 스페인이 최근 스페인령 북아프리카 도시 세우타에서 발생한 이주민 위기와 관련해 이탈리아가 스페인에서 입국하는 여행객에 대한 국경 통제를 해제하지 않기로 한 데 대응해, 이탈리아에서 입국하는 여행객에 대한 국내 국경 검사를 한시적으로 복원한다고 7일(현지시각) 발표했다.",
+      "스페인 정부 성명에 따르면 항만과 공항에서 시행되는 한시적 국경 검사는 8일 시작되며, 상황이 달라지지 않는 한 다음 달 7일까지 유지된."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nedcd7737",
     "category": "경제",
     "source": "뉴시스",
     "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741195",
-    "title": "[속보]뉴욕증시 상승 마감…S&P 0.6% 나스닥 1.3%↑",
-    "summary": [],
+    "url": "https://www.newsis.com/view/NISX20260807_0003740870",
+    "title": "폭염에 장바구니 물가 들썩…품목별 희비, 변수는 고온[폭염 속 경제는①]",
+    "summary": [
+      "[세종=뉴시스]이수정 기자 = 40도를 넘나드는 기록적인 폭염이 이어지면서 장바구니 물가에 대한 우려가 커지고 있다.",
+      "폭염과 가뭄이 장기화할 경우 농작물 생육과 가축 생산성이 저하돼 농축산물 가격을 자극할 수 있기 때문이다.",
+      "현재까지는 농축산물 가격이 일제히 오르기보다는 품목별로 희비가 엇갈리는 모습이다."
+    ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n98deee86",
-    "category": "사회",
-    "source": "연합뉴스",
+    "id": "nac6def3f",
+    "category": "IT",
+    "source": "조선비즈IT",
     "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807155200001",
-    "title": "與전대, 오늘 제주·인천 경선…정청래·김민석 박빙 속 2차전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/08/MB4VYATW6NCH5NZOUYK67ZFJ3Y/",
+    "title": "[인터뷰] 美 DARPA AI 사이버 챌린지 1위 이끈 김태수 마이크로소프트 부사장 “AI 모델보다 중요한건 운영 체계와 거버넌스”",
     "summary": [
-      "(서울=연합뉴스) 최평천 기자 = 더불어민주당은 8일 차기 지도부 선출을 위한 8·17 전당대회 제주·인천 순회경선을 실시한다."
+      "[인터뷰] 美 DARPA AI 사이버 챌린지 1위 이끈 김태수 마이크로소프트 부사장 “AI 모델보다 중요한건 운영 체계와 거버넌스”."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9dba3055",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003741013",
-    "title": "인천, 낮 최고기온 35도…계양구·남동구 낮최고 35도",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 8일 인천은 폭염중대경보가 해제됐지만, 폭염경보가 발효되면서 무더운 날씨가 이어지겠다.",
-      "하늘은 중국 북동지방에 위치한 고기압의 가장자리에 들어 오후에 가끔 구름 많겠다.",
-      "수도권기상청은 \"아침 최저기온은 27도, 낮 최고기온은 35도 내외의 분포를 보이겠다\"며 \"당분간 최고체감온도가 35도 이상으로 오르는 곳이 많아 매우 무덥겠다\"고 예보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2aa81786",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808003100075",
-    "title": "콜로라도강이 말라간다…美 최대 저수지 수위 역대 최저로",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 건조한 날씨와 과도한 용수 사용으로 인해 미국 서남부의 젖줄로 불리는 콜로라도강이 말라가고 있다."
-    ],
-    "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
     "id": "n0bebd5ee",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "35분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260808004500072",
     "title": "국제유가, 호르무즈 협상 추이 주목하며 상승…브렌트 1%↑",
     "summary": [
@@ -475,24 +509,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndb1abb90",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808004700079",
-    "title": "이란 외무 \"무슬림 하나로 뭉쳐야\"…'형제애' 강조 왜?",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 사우디아라비아와 파키스탄, 튀르키예 등 이슬람 수니파 3개국이 공동방위조약(일명 메카 공동방위조약)을 체결..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n5f72b78b",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202608081613i",
     "title": "박민지, 제주에서 일 낼까… 투어 최다 21승 '정조준'",
     "summary": [
@@ -506,7 +526,7 @@ window.NEWS_DB = [
     "id": "nd47d0495",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154118",
     "title": "[카드뉴스] GPU 7656장· 투입비용은 1조원...NHN클라우드가 만든 국내 최대 AI 인프라",
     "summary": [
@@ -523,7 +543,7 @@ window.NEWS_DB = [
     "id": "n5b98efaf",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154112",
     "title": "콘텐츠부터 K팝까지 '풀가동'...CJ ENM, 하반기 '수익성 개선·글로벌 공략' 가속화",
     "summary": [
@@ -539,7 +559,7 @@ window.NEWS_DB = [
     "id": "n0531dd72",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154115",
     "title": "리얼월드, 국내 스타트업 3사와 협약...글로벌 산업 표준 'K-연합전선' 구축",
     "summary": [
@@ -556,7 +576,7 @@ window.NEWS_DB = [
     "id": "n96133602",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260808/134440933/1",
     "title": "‘신입생’ 이강인, 서울에서 AT마드리드 선수·관계자 80명 식사 대접",
     "summary": [
@@ -570,7 +590,7 @@ window.NEWS_DB = [
     "id": "n891a6ecf",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/People/article/all/20260808/134440444/2",
     "title": "다이먼 “빚투 과도… 누군가 시장 흔들 위험 커져”",
     "summary": [
@@ -586,7 +606,7 @@ window.NEWS_DB = [
     "id": "n46412478",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/People/article/all/20260808/134440438/2",
     "title": "국립중앙도서관장 남영준씨 外",
     "summary": [
@@ -603,7 +623,7 @@ window.NEWS_DB = [
     "id": "naf3b1347",
     "category": "IT",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/People/article/all/20260808/134440442/2",
     "title": "AI로 대장균 잡는 ‘인공 바이러스’ 만들었다",
     "summary": [
@@ -614,20 +634,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
-  },
-  {
-    "id": "nd4df2340",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/202608081600i",
-    "title": "팔란티어의 경고…스페이스X, 저점 찍었나[박신영의 개장전 요것만]",
-    "summary": [
-      "팔란티어의 경고…스페이스X, 저점 찍었나[박신영의 개장전 요것만]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -636,14 +642,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
