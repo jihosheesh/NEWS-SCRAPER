@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-07 18:38:44
+// 마지막 업데이트: 2026-08-07 19:43:58
 window.NEWS_DB = [
   {
     "id": "n9f669867",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzgyOU1wckpnS0sxX2RGN0RoSEdjZksxM2x5S013cmQxVEsyWVRuQ05MR1BEblA4YmtKMTJmSHhPbG1MYjZZdGZUdUNRUDd6bEdnb3d1N0E0bGdPbjZQSlN1ejMtVGstTXQyVWUyNFJfTzRwa3owWE1RNUdXeHNBMw?oc=5",
     "title": "TSMC는 2나노·난야는 D램…대만 반도체 ‘AI 증설 러시’",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9db71f7c",
     "category": "사회",
     "source": "아주경제",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG3SAVhBVV95cUxNc3NuMFZnYkdHajlweVB0NzBLX3V1SmcxSGNOQTVSblFJRUo1QVJDUTVBN1FEeGdSTGFpLXJHX2NQYV9QQXNQZkIzR3Z6R3VkN3VRZUNXelBt?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n23a94137",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
     "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
     "summary": [
@@ -260,12 +260,12 @@ window.NEWS_DB = [
   {
     "id": "n37646dcf",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "unicornfactory.co.kr",
     "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 unicornfactory.co.kr."
     ],
     "chips": [
       "#스타트업"
@@ -331,72 +331,167 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc44d1be4",
-    "category": "사회",
+    "id": "n26fe9cbf",
+    "category": "경제",
     "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808002900071",
-    "title": "美법원, 백악관 연회장 공사에 또 제동…트럼프 \"정치적 판결\"",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808003900071",
+    "title": "美재무부 \"'이란 자금세탁' 가상화폐 거래소들 제재\"",
     "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령의 '숙원 사업'인 백악관 동관의 연회장 건축 공사에 법원이 또 제동을 걸었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n09274669",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080720191680501",
-    "title": "'동료 챙기는' 오타니 vs '팬에 폭언' PCA, 물 오른 MVP 경쟁→인성도 중요 변수 되나",
-    "summary": [
-      "팀 당 100경기를 훌쩍 넘은 시점, 내셔널리그(NL) 최우수선수(MVP) 레이스가 뜨겁게 달아오르는 가운데 유력 후보들을 둘러싼 경기 외적인 '태도'와 '클럽하우스 문화'가 뜻밖의 변수로 떠오르고 있다.",
-      "단순한 기록과 승리 기여도(WAR) 싸움을 넘어, 선수가 보여주는 품격과 인성이 표심에 미칠 영향에 팬들의 시선이 쏠린다.",
-      "공교롭게 유력 후보인 오타니 쇼헤이(32·LA 다저스)와 외야수 피트 크로우-암스트롱(24·시카고 컵스)가 기록 외적인."
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 재무부는 7일(현지시간) 이란 정권을 위해 수십억달러의 자금 세탁이 이뤄진 가상화폐 거래소 두 곳과 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n70754bb4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808003500071",
-    "title": "트럼프, 대법원 제동에도 '눈엣가시' 연준 이사 해임 재추진",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령이 눈엣가시로 여기는 연방준비제도(연준·Fed) 이사 해임에 다시 소매를 걷어붙였..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2ffee6b6",
+    "id": "n4de50f73",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808002100091",
-    "title": "시장지배력 노린 오픈AI, 챗GPT 무료고객에 최신 모델 무한제공",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808004300091",
+    "title": "中 AI '키미'도 통제환경 탈출…\"해킹용 모델 될수도\" 우려",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 오픈AI가 챗GPT 무료 이용자에게도 최신 인공지능(AI) 모델을 무제한 제공한다."
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국의 주요 인공지능(AI) 모델에 이어 중국 문샷AI의 개방형(오픈소스) 모델도 보안 통제환경을 이..."
     ],
     "chips": [
-      "#AI"
+      "#AI",
+      "#환경"
     ]
   },
   {
-    "id": "n460d7b6e",
+    "id": "nfc4437a2",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807075800017",
-    "title": "'30년 난제' 자가염증질환 원인 '파이린' 활성화 원리 규명",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808002700071",
+    "title": "\"6개월차 접어든 이란전쟁 탓 美가구 140만원 추가 부담\"",
     "summary": [
-      "(서울=연합뉴스) 조승한 기자 = 국내 연구진이 반복적 발열과 피부발진 등을 일으키는 자가염증질환의 원인 단백질 중 하나인 '파이린'(pyrin..."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 개전 6개월 차에 접어든 이란 전쟁 때문에 미국 납세자와 소비자가 부담해야 할 비용이 계속 증가하고 있다고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a1c7618",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740783",
+    "title": "\"위고비보다 빨리 빠진다?\"…'이 식단' 했더니 4개월 만에 5.9㎏ 감량",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자 = 육류와 생선 등을 끊고 저지방 비건 식단을 섭취하면 위고비 등 체중 감량 주사와 비교해 단기간에 상당한 체중 감량 효과를 볼 수 있다는 연구 결과가 나왔다.",
+      "6일(현지 시간) 영국 데일리메일에 따르면 미국 연구진이 과체중 성인 224명을 대상으로 진행한 연구에서 저지방 비건 식단을 따른 참가자들이 16주 만에 평균 5.9㎏의 체중을 감량했다.",
+      "연구 대상자의 평균 연령은 54세였으며 대부분 여성이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc485412a",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808003000072",
+    "title": "\"고가 세컨드하우스 세금은 부당 과세\"…뉴욕시 상대 소송",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 조란 맘다니 미국 뉴욕시장이 제안한 고가 '세컨드 하우스' 대상 세금이 부당하게 부과됐다며 뉴욕시 주택소유자..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc86dac64",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "43분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/08/08/HA2DSNLFMMZGIMTEMQ2WENTGGE/",
+    "title": "[데스크 칼럼] 외국인 몰려올 때, 한국 관광도 프리미엄화해야",
+    "summary": [
+      "올해 유통가 주요 키워드 중 하나는 ‘외국인’이다.",
+      "여전한 케이(K) 콘텐츠 인기에 힘입어 상반기 방한 외국인이 사상 최대치를 경신했다.",
+      "원화 가치 하락 등 거시경제적 요인도 있지만, 한국 문화와 음식, 뷰티에 대한 세계적인 관심이 여전히 큰 덕이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d1a8a90",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/08/GYZTKYZSMIYDKZJWMI4TKMZWMM/",
+    "title": "'이강인 이어 떠난다!' PSG 줄줄이 이탈…'1억 2800만 유로' 브래들리 바르콜라, 英 리버풀 '원칙적 합의 도달'",
+    "summary": [
+      "[스포츠조선 김가을 기자]리버풀(잉글랜드)이 파리생제르맹(PSG)의 브래들리 바르콜라 영입에 가까이 다가섰다.",
+      "영국 언론 '팀토크'는 7일(이하 한국시각) '리버풀이 PSG와 바르콜라 영입에 원칙적인 합의에 도달했다.",
+      "이적료는 1억 2800만 유로'라고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n13c8aca9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "53분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/08/HE2DAOBYGE4WCNRZMYYDQODFMU/",
+    "title": "“가장 즐겨듣는 노래는 미야오 띠로리, 재밌게 본 영화 호프” 이강인, K문화 전도사로 나섰다",
+    "summary": [
+      "[OSEN=서정환 기자] '천재' 이강인(25, 아틀레티코 마드리드)이 스페인에 한국문화 전도사로 나섰다.",
+      "아틀레티코 선수단은 한국 투어를 위해 6일 오후 인천공항을 통해 방한했다.",
+      "아틀레티코는 오는 9일 서울월드컵경기장에서 맨체스터 시티를 상대로 ‘쿠팡플레이 2026’ 친선전을 가진다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc9f9151e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "56분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741190",
+    "title": "美상원, 故그레이엄 대러제재법 통과…원유 수입국 관세",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 의회 내 대러 강경파로 꼽히는 고(故) 린지 그레이엄 전 상원의원이 추진해온 대러 제재 법안이 7일(현지 시간) 초당적 지지를 받아 상원을 통과했다.",
+      "AP통신과 NBC에 따르면 미 상원은 이날 대러제재법안을 찬성 86표 반대 11표로 가결했다.",
+      "법안은 러시아산 원유와 가스 주요 구매국들을 미국이 제재하도록 하며, 그레이엄 전 의원의 이름을 따서 '린지 O 그레이엄 러시아·이란 제재법'으로 이름 붙었다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n47b16ffd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "57분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741188",
+    "title": "스페인 \"솅겐조약 중단 철회하라\" 伊 \"15일까진 재검토 없다\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 스페인 자치령 세우타 불법 이주민 대규모 유입 사건 이후 스페인과 이탈리아의 갈등이 심화되고 있다.",
+      "이탈리아가 스페인에 대해 국경 이동 자유화 협정인 솅겐조약 적용을 일부 중단하자 스페인이 이에 강하게 반발하면서다.",
+      "폴리티코, 유로뉴스 등에 따르면 스페인 정부는 7일(현지 시간) \"이탈리아의 조치는 부당하고 유럽연합(EU)의 이익에 반하며 스페인 국민을 차별하는 행위\"라며 9일까지 솅겐조약 적용 중단을 철회하라고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5f72b78b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608081613i",
+    "title": "박민지, 제주에서 일 낼까… 투어 최다 21승 '정조준'",
+    "summary": [
+      "박민지, 제주에서 일 낼까… 투어 최다 21승 '정조준'."
     ],
     "chips": [
       "#뉴스"
@@ -406,7 +501,7 @@ window.NEWS_DB = [
     "id": "n67ed570f",
     "category": "IT",
     "source": "뉴시스",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260807_0003740664",
     "title": "英유명 여배우, 큰 교통사고서 기아차 덕에 살았다",
     "summary": [
@@ -419,133 +514,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2cfe1cfc",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/08/FPJULP4WYNEK3LXZWQIR73FOO4/",
-    "title": "알고 먹으면 더 맛있다… 문어 삼총사 구분법과 부드러운 숙회·세계 문어 요리 레시피",
-    "summary": [
-      "알고 먹으면 더 맛있다… 문어 삼총사 구분법과 부드러운 숙회·세계 문어 요리 레시피."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbff26288",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/international/2026/08/08/G5ZUUT77MRFLBOX67IO4S423ZE/",
-    "title": "30마리에서 130마리로… 멸종 위기서 되살아난 러시아 ‘표범의 땅’",
-    "summary": [
-      "30마리에서 130마리로… 멸종 위기서 되살아난 러시아 ‘표범의 땅’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf0619cdd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/08/VYEOBJI4J5F2VMGIHA5W7OIDPQ/",
-    "title": "한 사람이라도 반대하면 팔 수 없는 위스키",
-    "summary": [
-      "한 사람이라도 반대하면 팔 수 없는 위스키."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbcb026a3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "49분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741187",
-    "title": "블랜치 美법무 상원인준 청신호…'캐스팅보트' 캐시디 찬성키로",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령 변호인 출신 토드 블랜치 법무장관 후보자가 상원 인준을 통과해 정식 임명될 가능성이 높아졌다.",
-      "월스트리트저널(WSJ), 더힐 등에 따르면 인준 표결 캐스팅보트를 쥔 빌 캐시디 공화당 상원의원(루이지애나)은 7일(현지 시간) \"모든 문제를 고려한 끝에, 블랜치 후보자에게 찬성표를 던지겠다\"고 밝혔다.",
-      "이어 \"그는 자신이 통제할 수 없었던 일까지 비판받고 있다\"며 \"블랜치가 완벽한 후보자는."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd06bfd33",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "50분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741189",
-    "title": "泰 명문사립학교 10대 집·학교 총기 난사…교사·학생 등 9명 사망(종합 2보)",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 태국 수도 방콕 외곽의 한 명문 사립학교에서 14세 소년이 자신의 집과 학교에서 총격을 가해 교사와 학생, 자신의 조부모 등 8명 사망하고 최소 23명이 부상당했다.",
-      "용의자 소년도 스스로 목숨을 끊었다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n6cc9dbea",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "50분 전",
-    "url": "https://www.mt.co.kr/world/2026/08/08/2026080802444327883",
-    "title": "트럼프 \"AI·가상화폐, 中에 못 넘겨\"…시진핑과 집중 논의 예고",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 차세대 첨단 기술로 꼽히는 인공지능(AI)과 가상화폐 시장에서 중국에 주도권을 뺏기지 않겠다며 기술패권에 대한 강한 의지를 밝혔다.",
-      "또 AI 핵심 인프라인 데이터센터를 석유 이상의 국가전략자산으로 꼽으면서 의회에 규제완화를 주문했다.",
-      "트럼프 대통령은 7일(현지시간) 공개된 미국 정치전문매체 펀치볼뉴스와 인터뷰에서 \"중국이 가상화폐를 장악하는 것도, 중국이 AI에서 이기는 것도 보고 싶지 않다\"고 말했다."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n73191bf1",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "56분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080802273258261",
-    "title": "\"너 고졸 아니었어?\" 기안84, 샤이니 민호 학력에 '충격'",
-    "summary": [
-      "기안84가 샤이니 민호의 대학원 졸업 학력을 듣고 \"고졸인 줄 알았다\"고 말해 스튜디오를 웃음바다로 만들었다.",
-      "민호는 바쁜 아이돌 활동 중에도 오전 수업을 몰아 들으며 학업을 병행했다고 밝혔다.",
-      "7일 방영된 MBC '나 혼자 산다' 659회에서는 배우 류혜영이 출연해 일상을 공개했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nac3bb54d",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080802192152350",
-    "title": "'4대째 의사 집안' 하영, 증조부가 고종 황제 진료까지…가족사 공개",
-    "summary": [
-      "하영이 증조할아버지가 일본에서 양의학을 배워 한양에 최초로 서양식 병원을 개원하고 고종 황제까지 진료했다고 밝힌 가운데 할아버지와 아버지, 언니까지 4대째 의사 집안이라고 고백해 놀라움을 안겼다.",
-      "7일 방영된 KBS2 '옥탑방의 문제아들' 323회에서는 배우 정해인과 하영이 출연해 입담을 뽐냈다.",
-      "이날 김종국은 하영에게 \"대대로 의사 집안이라고 한다\"고 말을 꺼냈다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "nd47d0495",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154118",
     "title": "[카드뉴스] GPU 7656장· 투입비용은 1조원...NHN클라우드가 만든 국내 최대 AI 인프라",
     "summary": [
@@ -562,7 +534,7 @@ window.NEWS_DB = [
     "id": "n5b98efaf",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154112",
     "title": "콘텐츠부터 K팝까지 '풀가동'...CJ ENM, 하반기 '수익성 개선·글로벌 공략' 가속화",
     "summary": [
@@ -578,7 +550,7 @@ window.NEWS_DB = [
     "id": "n0531dd72",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154115",
     "title": "리얼월드, 국내 스타트업 3사와 협약...글로벌 산업 표준 'K-연합전선' 구축",
     "summary": [
@@ -595,7 +567,7 @@ window.NEWS_DB = [
     "id": "n96133602",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260808/134440933/1",
     "title": "‘신입생’ 이강인, 서울에서 AT마드리드 선수·관계자 80명 식사 대접",
     "summary": [
@@ -606,32 +578,63 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na53889b0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740574",
-    "title": "\"폭염인데 오후 3시면 에어컨 끕니다\"…전기세 타령 대표에 직원들 '분통'",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 폭염이 이어지는 가운데 한 회사가 전기요금을 아끼기 위해 사무실 에어컨 가동 시간을 제한하고 있다는 사연이 온라인에 올라와 논란이 일고 있다.",
-      "지난 5일 한 온라인 커뮤니티에는 '오후 3시부터 에어컨 끄는 회사…욕나옵니다'라는 제목의 글이 게시됐다.",
-      "글 작성자 A씨에 따르면 회사 대표는 사무실 에어컨을 오전 9~11시, 오후 1~3시에만 가동하도록 지시했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n891a6ecf",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/People/article/all/20260808/134440444/2",
     "title": "다이먼 “빚투 과도… 누군가 시장 흔들 위험 커져”",
     "summary": [
       "‘월가 황제’ 제이미 다이먼 미국 JP모건체이스 최고경영자(CEO) 겸 회장(70)이 6일(현지 시간) 세계 금융시장에서 빚을 이용한 투자, 이른바 ‘빚투’가 과도하다고 우려했다.",
       "과도한 차입 투자는 연쇄 반응을 야기하며 작은 충격에도 금융시장 전체가 크게 출렁일 수 있다고 지적했다.다이먼 CEO는 이날 CNBC 인터뷰에서 “시장 전반의 레버리지(leverage) 수준이 상당히 높다.",
       "증거금 부채(margin debt) 또한 역대 최고 수준”이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n46412478",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/People/article/all/20260808/134440438/2",
+    "title": "국립중앙도서관장 남영준씨 外",
+    "summary": [
+      "국립중앙도서관장에 남영준 중앙대 명예교수(66·사진)가 7일 임명됐다.",
+      "남 신임 관장은 전주대와 중앙대 교수로 재직하며 문헌정보학 분야를 연구해 왔다.보건산업진흥원장 고상백씨고상백 연세대 원주의대 교수(59·사진)가 7일 신임 한국보건산업진흥원장에 임명됐다.",
+      "고 신임 원장은 연세대 의대를 졸업한 뒤 한국과학기술단체총연합회 이사, 대한민국의학한림원 정책개발위원회 운영위원, 국가바이오혁신위원회 위원 등을 지냈다."
+    ],
+    "chips": [
+      "#정책",
+      "#의료"
+    ]
+  },
+  {
+    "id": "naf3b1347",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/People/article/all/20260808/134440442/2",
+    "title": "AI로 대장균 잡는 ‘인공 바이러스’ 만들었다",
+    "summary": [
+      "미국 스탠퍼드대 연구진이 인공지능(AI)으로 자연계에 없는 ‘인공 바이러스’를 만들었다.",
+      "6일(현지 시간) 국제학술지 사이언스에 따르면 연구진은 유전체 설계용 생성형 인공지능(AI) ‘에보(Evo) 2’를 이용해 인공 박테리오파지(파지) 16종을 제작했다.",
+      "파지는 세균 안에서 증식하다 세균을 파괴하는 미세 바이러스로, 항생제 내성균 치료의 대안으로 주목받고 있다.연구진은 대장균을 감염시키는 자연 파지 ‘ΦX174’를 모델로 삼아 AI가 새로운."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nd4df2340",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/202608081600i",
+    "title": "팔란티어의 경고…스페이스X, 저점 찍었나[박신영의 개장전 요것만]",
+    "summary": [
+      "팔란티어의 경고…스페이스X, 저점 찍었나[박신영의 개장전 요것만]."
     ],
     "chips": [
       "#뉴스"
@@ -643,13 +646,13 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "뉴스",
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
+    "tag": "AI",
     "mentions": "2200건",
     "trend": "+235%"
   },
