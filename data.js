@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-07 19:43:58
+// 마지막 업데이트: 2026-08-07 20:29:00
 window.NEWS_DB = [
   {
     "id": "n9f669867",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzgyOU1wckpnS0sxX2RGN0RoSEdjZksxM2x5S013cmQxVEsyWVRuQ05MR1BEblA4YmtKMTJmSHhPbG1MYjZZdGZUdUNRUDd6bEdnb3d1N0E0bGdPbjZQSlN1ejMtVGstTXQyVWUyNFJfTzRwa3owWE1RNUdXeHNBMw?oc=5",
     "title": "TSMC는 2나노·난야는 D램…대만 반도체 ‘AI 증설 러시’",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n23a94137",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
     "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
     "summary": [
@@ -260,12 +260,12 @@ window.NEWS_DB = [
   {
     "id": "n37646dcf",
     "category": "IT",
-    "source": "unicornfactory.co.kr",
+    "source": "유니콘팩토리",
     "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 unicornfactory.co.kr."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -331,153 +331,158 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n26fe9cbf",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808003900071",
-    "title": "美재무부 \"'이란 자금세탁' 가상화폐 거래소들 제재\"",
+    "id": "n915a1c02",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/08/KTFGKEAH3ZAC7A24NR3CLJDGFI/",
+    "title": "지금 한국에서 가장 맛있는 사과가 나는 곳, 강원 부사 조선몰 단독 특가",
     "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 재무부는 7일(현지시간) 이란 정권을 위해 수십억달러의 자금 세탁이 이뤄진 가상화폐 거래소 두 곳과 ..."
+      "지금 한국에서 가장 맛있는 사과가 나는 곳, 강원 부사 조선몰 단독 특가."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4de50f73",
-    "category": "IT",
-    "source": "연합뉴스",
+    "id": "n844a836b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741197",
+    "title": "진주시 '올빰토요야시장' 15일 운영재개…\"무더위로 휴장\"",
+    "summary": [
+      "[진주=뉴시스] 정경규 기자 = 경남 진주시 상권활성화재단은 진주 대표 야간 관광콘텐츠인 '올빰토요야시장'이 오는 15일부터 하반기 운영을 본격적으로 재개한다고 8일 밝혔다.",
+      "'올빰토요야시장'은 7월 한달간 무더위로 인해 휴장했다.",
+      "그런데 7일과 8일 망경동 남강 둔치에서 열리는 진주의 대표 여름 축제인 'M2 페스티벌'에 참여하면서 시동을 걸었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n08f7bfab",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/08/WTZILBJ36VBDVJM3EWY7Z5MFKM/",
+    "title": "100만원대 못지 않다, 한국 기업 무선 청소기 10만원 특가 공동구매",
+    "summary": [
+      "100만원대 못지 않다, 한국 기업 무선 청소기 10만원 특가 공동구매."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n13d7fbee",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/08/2O4AWJ5XGFCNXDOHXEO5KN4J64/",
+    "title": "상대 말소리와 TV 소리가 또렷하게 들리는 신기한 이어폰, 10만원대 초특가",
+    "summary": [
+      "상대 말소리와 TV 소리가 또렷하게 들리는 신기한 이어폰, 10만원대 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51c9788e",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808004300091",
-    "title": "中 AI '키미'도 통제환경 탈출…\"해킹용 모델 될수도\" 우려",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741184",
+    "title": "울산, 최고 33도 폭염…일요일엔 곳에 따라 비",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국의 주요 인공지능(AI) 모델에 이어 중국 문샷AI의 개방형(오픈소스) 모델도 보안 통제환경을 이..."
+      "[울산=뉴시스] 박수지 기자 = 8일 울산 지역은 구름이 많은 가운데 폭염과 열대야가 이어질 전망이다.",
+      "울산기상대에 따르면 이날 아침 최저기온은 26도, 낮 최고기온은 33도로 예보됐다.",
+      "울산에는 현재 폭염주의보와 열대야주의보가 발효 중이다."
     ],
     "chips": [
-      "#AI",
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "nfc4437a2",
+    "id": "nc56f9319",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741195",
+    "title": "[속보]뉴욕증시 상승 마감…S&P 0.6% 나스닥 1.3%↑",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n98deee86",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808002700071",
-    "title": "\"6개월차 접어든 이란전쟁 탓 美가구 140만원 추가 부담\"",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807155200001",
+    "title": "與전대, 오늘 제주·인천 경선…정청래·김민석 박빙 속 2차전",
     "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 개전 6개월 차에 접어든 이란 전쟁 때문에 미국 납세자와 소비자가 부담해야 할 비용이 계속 증가하고 있다고..."
+      "(서울=연합뉴스) 최평천 기자 = 더불어민주당은 8일 차기 지도부 선출을 위한 8·17 전당대회 제주·인천 순회경선을 실시한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4a1c7618",
+    "id": "n9dba3055",
     "category": "사회",
     "source": "뉴시스",
-    "time": "38분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740783",
-    "title": "\"위고비보다 빨리 빠진다?\"…'이 식단' 했더니 4개월 만에 5.9㎏ 감량",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003741013",
+    "title": "인천, 낮 최고기온 35도…계양구·남동구 낮최고 35도",
     "summary": [
-      "[서울=뉴시스]김혜경 기자 = 육류와 생선 등을 끊고 저지방 비건 식단을 섭취하면 위고비 등 체중 감량 주사와 비교해 단기간에 상당한 체중 감량 효과를 볼 수 있다는 연구 결과가 나왔다.",
-      "6일(현지 시간) 영국 데일리메일에 따르면 미국 연구진이 과체중 성인 224명을 대상으로 진행한 연구에서 저지방 비건 식단을 따른 참가자들이 16주 만에 평균 5.9㎏의 체중을 감량했다.",
-      "연구 대상자의 평균 연령은 54세였으며 대부분 여성이었다."
+      "[인천=뉴시스] 전예준 기자 = 8일 인천은 폭염중대경보가 해제됐지만, 폭염경보가 발효되면서 무더운 날씨가 이어지겠다.",
+      "하늘은 중국 북동지방에 위치한 고기압의 가장자리에 들어 오후에 가끔 구름 많겠다.",
+      "수도권기상청은 \"아침 최저기온은 27도, 낮 최고기온은 35도 내외의 분포를 보이겠다\"며 \"당분간 최고체감온도가 35도 이상으로 오르는 곳이 많아 매우 무덥겠다\"고 예보했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc485412a",
-    "category": "부동산",
+    "id": "n2aa81786",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808003000072",
-    "title": "\"고가 세컨드하우스 세금은 부당 과세\"…뉴욕시 상대 소송",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808003100075",
+    "title": "콜로라도강이 말라간다…美 최대 저수지 수위 역대 최저로",
     "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 조란 맘다니 미국 뉴욕시장이 제안한 고가 '세컨드 하우스' 대상 세금이 부당하게 부과됐다며 뉴욕시 주택소유자..."
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 건조한 날씨와 과도한 용수 사용으로 인해 미국 서남부의 젖줄로 불리는 콜로라도강이 말라가고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc86dac64",
+    "id": "n0bebd5ee",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808004500072",
+    "title": "국제유가, 호르무즈 협상 추이 주목하며 상승…브렌트 1%↑",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 국제유가 시장이 이란과 오만의 호르무즈 통항 협상의 세부 내용을 지켜보는 상황 속에서 7일(현지시간) 브렌트..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb1abb90",
     "category": "사회",
-    "source": "조선일보",
-    "time": "43분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/08/HA2DSNLFMMZGIMTEMQ2WENTGGE/",
-    "title": "[데스크 칼럼] 외국인 몰려올 때, 한국 관광도 프리미엄화해야",
+    "source": "연합뉴스",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808004700079",
+    "title": "이란 외무 \"무슬림 하나로 뭉쳐야\"…'형제애' 강조 왜?",
     "summary": [
-      "올해 유통가 주요 키워드 중 하나는 ‘외국인’이다.",
-      "여전한 케이(K) 콘텐츠 인기에 힘입어 상반기 방한 외국인이 사상 최대치를 경신했다.",
-      "원화 가치 하락 등 거시경제적 요인도 있지만, 한국 문화와 음식, 뷰티에 대한 세계적인 관심이 여전히 큰 덕이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d1a8a90",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "46분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/08/GYZTKYZSMIYDKZJWMI4TKMZWMM/",
-    "title": "'이강인 이어 떠난다!' PSG 줄줄이 이탈…'1억 2800만 유로' 브래들리 바르콜라, 英 리버풀 '원칙적 합의 도달'",
-    "summary": [
-      "[스포츠조선 김가을 기자]리버풀(잉글랜드)이 파리생제르맹(PSG)의 브래들리 바르콜라 영입에 가까이 다가섰다.",
-      "영국 언론 '팀토크'는 7일(이하 한국시각) '리버풀이 PSG와 바르콜라 영입에 원칙적인 합의에 도달했다.",
-      "이적료는 1억 2800만 유로'라고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13c8aca9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "53분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/08/HE2DAOBYGE4WCNRZMYYDQODFMU/",
-    "title": "“가장 즐겨듣는 노래는 미야오 띠로리, 재밌게 본 영화 호프” 이강인, K문화 전도사로 나섰다",
-    "summary": [
-      "[OSEN=서정환 기자] '천재' 이강인(25, 아틀레티코 마드리드)이 스페인에 한국문화 전도사로 나섰다.",
-      "아틀레티코 선수단은 한국 투어를 위해 6일 오후 인천공항을 통해 방한했다.",
-      "아틀레티코는 오는 9일 서울월드컵경기장에서 맨체스터 시티를 상대로 ‘쿠팡플레이 2026’ 친선전을 가진다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc9f9151e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "56분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741190",
-    "title": "美상원, 故그레이엄 대러제재법 통과…원유 수입국 관세",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 의회 내 대러 강경파로 꼽히는 고(故) 린지 그레이엄 전 상원의원이 추진해온 대러 제재 법안이 7일(현지 시간) 초당적 지지를 받아 상원을 통과했다.",
-      "AP통신과 NBC에 따르면 미 상원은 이날 대러제재법안을 찬성 86표 반대 11표로 가결했다.",
-      "법안은 러시아산 원유와 가스 주요 구매국들을 미국이 제재하도록 하며, 그레이엄 전 의원의 이름을 따서 '린지 O 그레이엄 러시아·이란 제재법'으로 이름 붙었다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n47b16ffd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "57분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741188",
-    "title": "스페인 \"솅겐조약 중단 철회하라\" 伊 \"15일까진 재검토 없다\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 스페인 자치령 세우타 불법 이주민 대규모 유입 사건 이후 스페인과 이탈리아의 갈등이 심화되고 있다.",
-      "이탈리아가 스페인에 대해 국경 이동 자유화 협정인 솅겐조약 적용을 일부 중단하자 스페인이 이에 강하게 반발하면서다.",
-      "폴리티코, 유로뉴스 등에 따르면 스페인 정부는 7일(현지 시간) \"이탈리아의 조치는 부당하고 유럽연합(EU)의 이익에 반하며 스페인 국민을 차별하는 행위\"라며 9일까지 솅겐조약 적용 중단을 철회하라고."
+      "(카이로=연합뉴스) 김상훈 특파원 = 사우디아라비아와 파키스탄, 튀르키예 등 이슬람 수니파 3개국이 공동방위조약(일명 메카 공동방위조약)을 체결..."
     ],
     "chips": [
       "#뉴스"
@@ -487,7 +492,7 @@ window.NEWS_DB = [
     "id": "n5f72b78b",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202608081613i",
     "title": "박민지, 제주에서 일 낼까… 투어 최다 21승 '정조준'",
     "summary": [
@@ -498,26 +503,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n67ed570f",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740664",
-    "title": "英유명 여배우, 큰 교통사고서 기아차 덕에 살았다",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 영화 '굿 윌 헌팅'으로 잘 알려진 영국 배우 미니 드라이버(56)가 프랑스에서 큰 교통사고를 겪고도 무사했다며 그 공을 기아 전기차 EV2의 에어백에 돌렸다.",
-      "6일(현지시간) 인스타그램에 따르면 미니 드라이버는 최근 친구가 운전하는 차를 타고 프랑스 시골길을 지나던 중 사고를 당했다고 공개했다.",
-      "그는 목 보호대를 착용한 채 침대에 누운 모습으로 영상을 찍어 올렸는데, 사고가 결코 가볍지 않았음을 짐작게 했다."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
     "id": "nd47d0495",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154118",
     "title": "[카드뉴스] GPU 7656장· 투입비용은 1조원...NHN클라우드가 만든 국내 최대 AI 인프라",
     "summary": [
@@ -534,7 +523,7 @@ window.NEWS_DB = [
     "id": "n5b98efaf",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154112",
     "title": "콘텐츠부터 K팝까지 '풀가동'...CJ ENM, 하반기 '수익성 개선·글로벌 공략' 가속화",
     "summary": [
@@ -550,7 +539,7 @@ window.NEWS_DB = [
     "id": "n0531dd72",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154115",
     "title": "리얼월드, 국내 스타트업 3사와 협약...글로벌 산업 표준 'K-연합전선' 구축",
     "summary": [
@@ -567,7 +556,7 @@ window.NEWS_DB = [
     "id": "n96133602",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260808/134440933/1",
     "title": "‘신입생’ 이강인, 서울에서 AT마드리드 선수·관계자 80명 식사 대접",
     "summary": [
@@ -647,14 +636,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "3110건",
+    "trend": "+375%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
