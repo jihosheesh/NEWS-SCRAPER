@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-07 17:39:35
+// 마지막 업데이트: 2026-08-07 18:38:44
 window.NEWS_DB = [
   {
     "id": "n9f669867",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzgyOU1wckpnS0sxX2RGN0RoSEdjZksxM2x5S013cmQxVEsyWVRuQ05MR1BEblA4YmtKMTJmSHhPbG1MYjZZdGZUdUNRUDd6bEdnb3d1N0E0bGdPbjZQSlN1ejMtVGstTXQyVWUyNFJfTzRwa3owWE1RNUdXeHNBMw?oc=5",
     "title": "TSMC는 2나노·난야는 D램…대만 반도체 ‘AI 증설 러시’",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9db71f7c",
     "category": "사회",
     "source": "아주경제",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG3SAVhBVV95cUxNc3NuMFZnYkdHajlweVB0NzBLX3V1SmcxSGNOQTVSblFJRUo1QVJDUTVBN1FEeGdSTGFpLXJHX2NQYV9QQXNQZkIzR3Z6R3VkN3VRZUNXelBt?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n23a94137",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
     "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
     "summary": [
@@ -171,12 +171,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
@@ -231,12 +231,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "70일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#부동산"
@@ -331,26 +331,205 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd08cdeae",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/08/MQ2TANRRMIZTIOBVHFQTIMTBHA/",
-    "title": "\"한화 내 구위 최고\" KIA 트레이드 효과 이제 터진다…개명까지 한 간절함, 사령탑 마음까지 훔쳤다",
+    "id": "nc44d1be4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808002900071",
+    "title": "美법원, 백악관 연회장 공사에 또 제동…트럼프 \"정치적 판결\"",
     "summary": [
-      "[스포츠조선 이종서 기자] 눈물로 내려왔던 마운드.",
-      "이제는 팀에서 가장 믿을 수 있는 투수가 됐다.",
-      "장유호(26·한화 이글스)는 지난 2024년 5월9일 부산 사직구장에서 열린 롯데 자이언츠와의 경기에서 '눈물'로 화제가 됐다."
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령의 '숙원 사업'인 백악관 동관의 연회장 건축 공사에 법원이 또 제동을 걸었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n09274669",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080720191680501",
+    "title": "'동료 챙기는' 오타니 vs '팬에 폭언' PCA, 물 오른 MVP 경쟁→인성도 중요 변수 되나",
+    "summary": [
+      "팀 당 100경기를 훌쩍 넘은 시점, 내셔널리그(NL) 최우수선수(MVP) 레이스가 뜨겁게 달아오르는 가운데 유력 후보들을 둘러싼 경기 외적인 '태도'와 '클럽하우스 문화'가 뜻밖의 변수로 떠오르고 있다.",
+      "단순한 기록과 승리 기여도(WAR) 싸움을 넘어, 선수가 보여주는 품격과 인성이 표심에 미칠 영향에 팬들의 시선이 쏠린다.",
+      "공교롭게 유력 후보인 오타니 쇼헤이(32·LA 다저스)와 외야수 피트 크로우-암스트롱(24·시카고 컵스)가 기록 외적인."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n70754bb4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808003500071",
+    "title": "트럼프, 대법원 제동에도 '눈엣가시' 연준 이사 해임 재추진",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령이 눈엣가시로 여기는 연방준비제도(연준·Fed) 이사 해임에 다시 소매를 걷어붙였..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2ffee6b6",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808002100091",
+    "title": "시장지배력 노린 오픈AI, 챗GPT 무료고객에 최신 모델 무한제공",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 오픈AI가 챗GPT 무료 이용자에게도 최신 인공지능(AI) 모델을 무제한 제공한다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n460d7b6e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807075800017",
+    "title": "'30년 난제' 자가염증질환 원인 '파이린' 활성화 원리 규명",
+    "summary": [
+      "(서울=연합뉴스) 조승한 기자 = 국내 연구진이 반복적 발열과 피부발진 등을 일으키는 자가염증질환의 원인 단백질 중 하나인 '파이린'(pyrin..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n67ed570f",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740664",
+    "title": "英유명 여배우, 큰 교통사고서 기아차 덕에 살았다",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 영화 '굿 윌 헌팅'으로 잘 알려진 영국 배우 미니 드라이버(56)가 프랑스에서 큰 교통사고를 겪고도 무사했다며 그 공을 기아 전기차 EV2의 에어백에 돌렸다.",
+      "6일(현지시간) 인스타그램에 따르면 미니 드라이버는 최근 친구가 운전하는 차를 타고 프랑스 시골길을 지나던 중 사고를 당했다고 공개했다.",
+      "그는 목 보호대를 착용한 채 침대에 누운 모습으로 영상을 찍어 올렸는데, 사고가 결코 가볍지 않았음을 짐작게 했다."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n2cfe1cfc",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "38분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/08/FPJULP4WYNEK3LXZWQIR73FOO4/",
+    "title": "알고 먹으면 더 맛있다… 문어 삼총사 구분법과 부드러운 숙회·세계 문어 요리 레시피",
+    "summary": [
+      "알고 먹으면 더 맛있다… 문어 삼총사 구분법과 부드러운 숙회·세계 문어 요리 레시피."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbff26288",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "38분 전",
+    "url": "https://www.chosun.com/international/2026/08/08/G5ZUUT77MRFLBOX67IO4S423ZE/",
+    "title": "30마리에서 130마리로… 멸종 위기서 되살아난 러시아 ‘표범의 땅’",
+    "summary": [
+      "30마리에서 130마리로… 멸종 위기서 되살아난 러시아 ‘표범의 땅’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf0619cdd",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "38분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/08/VYEOBJI4J5F2VMGIHA5W7OIDPQ/",
+    "title": "한 사람이라도 반대하면 팔 수 없는 위스키",
+    "summary": [
+      "한 사람이라도 반대하면 팔 수 없는 위스키."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbcb026a3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "49분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741187",
+    "title": "블랜치 美법무 상원인준 청신호…'캐스팅보트' 캐시디 찬성키로",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령 변호인 출신 토드 블랜치 법무장관 후보자가 상원 인준을 통과해 정식 임명될 가능성이 높아졌다.",
+      "월스트리트저널(WSJ), 더힐 등에 따르면 인준 표결 캐스팅보트를 쥔 빌 캐시디 공화당 상원의원(루이지애나)은 7일(현지 시간) \"모든 문제를 고려한 끝에, 블랜치 후보자에게 찬성표를 던지겠다\"고 밝혔다.",
+      "이어 \"그는 자신이 통제할 수 없었던 일까지 비판받고 있다\"며 \"블랜치가 완벽한 후보자는."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd06bfd33",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "50분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741189",
+    "title": "泰 명문사립학교 10대 집·학교 총기 난사…교사·학생 등 9명 사망(종합 2보)",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 태국 수도 방콕 외곽의 한 명문 사립학교에서 14세 소년이 자신의 집과 학교에서 총격을 가해 교사와 학생, 자신의 조부모 등 8명 사망하고 최소 23명이 부상당했다.",
+      "용의자 소년도 스스로 목숨을 끊었다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n6cc9dbea",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "50분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/08/2026080802444327883",
+    "title": "트럼프 \"AI·가상화폐, 中에 못 넘겨\"…시진핑과 집중 논의 예고",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 차세대 첨단 기술로 꼽히는 인공지능(AI)과 가상화폐 시장에서 중국에 주도권을 뺏기지 않겠다며 기술패권에 대한 강한 의지를 밝혔다.",
+      "또 AI 핵심 인프라인 데이터센터를 석유 이상의 국가전략자산으로 꼽으면서 의회에 규제완화를 주문했다.",
+      "트럼프 대통령은 7일(현지시간) 공개된 미국 정치전문매체 펀치볼뉴스와 인터뷰에서 \"중국이 가상화폐를 장악하는 것도, 중국이 AI에서 이기는 것도 보고 싶지 않다\"고 말했다."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n73191bf1",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "56분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080802273258261",
+    "title": "\"너 고졸 아니었어?\" 기안84, 샤이니 민호 학력에 '충격'",
+    "summary": [
+      "기안84가 샤이니 민호의 대학원 졸업 학력을 듣고 \"고졸인 줄 알았다\"고 말해 스튜디오를 웃음바다로 만들었다.",
+      "민호는 바쁜 아이돌 활동 중에도 오전 수업을 몰아 들으며 학업을 병행했다고 밝혔다.",
+      "7일 방영된 MBC '나 혼자 산다' 659회에서는 배우 류혜영이 출연해 일상을 공개했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
     "id": "nac3bb54d",
     "category": "경제",
     "source": "머니투데이",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080802192152350",
     "title": "'4대째 의사 집안' 하영, 증조부가 고종 황제 진료까지…가족사 공개",
     "summary": [
@@ -366,7 +545,7 @@ window.NEWS_DB = [
     "id": "nd47d0495",
     "category": "IT",
     "source": "테크M",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154118",
     "title": "[카드뉴스] GPU 7656장· 투입비용은 1조원...NHN클라우드가 만든 국내 최대 AI 인프라",
     "summary": [
@@ -380,70 +559,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n37effa11",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080722121046436",
-    "title": "'韓 축구 에이스' 이강인 파격 변신, 포지션 바꾼다... 측면 아닌 '최전방 투톱' 시험대",
-    "summary": [
-      "측면이 아닌 '최전방 공격수' 이강인(25·아틀레티코 마드리드)이 뜬다.",
-      "파리 생제르맹(PSG)을 떠나 아틀레티코(AT) 마드리드로 이적한 이강인이 새로운 역할을 맡는다.",
-      "PSG나 대한민국 축구 국가대표팀에선 주로 오른쪽 측면에 포진했다면, AT 마드리드에선 4-4-2 전형의 최전방 투톱에 배치될 가능성에 무게가 실리는 분위기다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c5838b7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808001900108",
-    "title": "'전쟁 반대' 러 야당, 9월 총선 후보 못 내나",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 오는 9월 치러지는 러시아 총선을 앞두고 우크라이나 전쟁에 반대하는 유일한 야당이 소송전에 휘말리면서 출..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6e7073e",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808002200053",
-    "title": "폭염 속 대구 아파트단지 정전…1천200세대 2시간 넘게 불편",
-    "summary": [
-      "(대구=연합뉴스) 윤관식 기자 = 폭염 속에 대구 수성구 한 아파트 단지 전체 약 1천200세대가 갑작스러운 정전으로 2시간 30분째 불편을 겪..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n0f1fb021",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "26분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080802014735441",
-    "title": "하영, 이대→뉴욕 명문 미대까지 갔는데…엘리트 코스 포기한 이유?",
-    "summary": [
-      "하영이 이화여대 서양화 전공에 이어 뉴욕 명문 아트스쿨에서 순수미술까지 공부했지만 돌연 엘리트 코스를 포기한 채 배우의 길을 선택했다.",
-      "7일 방영된 KBS2 '옥탑방의 문제아들' 323회에서는 배우 정해인과 하영이 출연해 입담을 뽐냈다.",
-      "이날 하영은 뒤늦게 연기를 시작하게 된 이유를 밝히며 시선을 모았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n5b98efaf",
     "category": "IT",
     "source": "테크M",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154112",
     "title": "콘텐츠부터 K팝까지 '풀가동'...CJ ENM, 하반기 '수익성 개선·글로벌 공략' 가속화",
     "summary": [
@@ -459,7 +578,7 @@ window.NEWS_DB = [
     "id": "n0531dd72",
     "category": "IT",
     "source": "테크M",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154115",
     "title": "리얼월드, 국내 스타트업 3사와 협약...글로벌 산업 표준 'K-연합전선' 구축",
     "summary": [
@@ -473,26 +592,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na3b91f57",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "30분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080722155410431",
-    "title": "수상한 이정후팀 에이스, 뜬금 LAD 칭찬 세례 \"다저스타디움서 던지는 건 정말 재밌어\"",
-    "summary": [
-      "샌프란시스코 자이언츠에게 LA 다저스는 '숙적의 라이벌'이다.",
-      "샌프란시스코가 2010년대 3차례나 월드시리즈 우승을 차지하며 라이벌전을 지배했고, 최근 들어 다저스가 지구 최강으로 올라서 이번 시즌 역시 3연패를 노리는 강력한 우승 후보로 꼽힌다.",
-      "다저스가 트레이드 마감 시한에 타릭 스쿠발을 영입했지만, 샌프란시스코는 선발 로비 레이를 비롯해 내야수 루이스 아라에즈를 내주며 유망주를 보강했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n96133602",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260808/134440933/1",
     "title": "‘신입생’ 이강인, 서울에서 AT마드리드 선수·관계자 80명 식사 대접",
     "summary": [
@@ -506,7 +609,7 @@ window.NEWS_DB = [
     "id": "na53889b0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260807_0003740574",
     "title": "\"폭염인데 오후 3시면 에어컨 끕니다\"…전기세 타령 대표에 직원들 '분통'",
     "summary": [
@@ -519,39 +622,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na99225ad",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "39분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/08/GZRRKVSM3VBMLIICFV37AURZY4/",
-    "title": "남자들뿐인 골프 사진… 아내가 놓친 것",
-    "summary": [
-      "남자들뿐인 골프 사진… 아내가 놓친 것."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n013e9366",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "48분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741185",
-    "title": "\"트럼프 '美 탄약부족 보도, 이란 고무시켜'…유출자 색출 지시\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 미국의 대(對)이란 전쟁 장기화로 미군 주요 공격·방어 무기가 위험 수준으로 소진됐다는 보도가 잇따르는 가운데, 도널드 트럼프 대통령이 탄약 재고 정보 유출자 색출을 지시했다는 추가 보도가 나왔다.",
-      "월스트리트저널(WSJ)은 7일(현지 시간) 복수의 행정부 관계자를 인용해 \"대통령이 최근 몇 주간 이란전으로 인해 미국 탄약 비축량이 크게 줄었다는 보도가 이어지자 조사 착수를 요구했다\"고 전했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n891a6ecf",
     "category": "사회",
     "source": "동아일보",
-    "time": "59분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/People/article/all/20260808/134440444/2",
     "title": "다이먼 “빚투 과도… 누군가 시장 흔들 위험 커져”",
     "summary": [
@@ -562,85 +636,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n46412478",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "59분 전",
-    "url": "https://www.donga.com/news/People/article/all/20260808/134440438/2",
-    "title": "국립중앙도서관장 남영준씨 外",
-    "summary": [
-      "국립중앙도서관장에 남영준 중앙대 명예교수(66·사진)가 7일 임명됐다.",
-      "남 신임 관장은 전주대와 중앙대 교수로 재직하며 문헌정보학 분야를 연구해 왔다.보건산업진흥원장 고상백씨고상백 연세대 원주의대 교수(59·사진)가 7일 신임 한국보건산업진흥원장에 임명됐다.",
-      "고 신임 원장은 연세대 의대를 졸업한 뒤 한국과학기술단체총연합회 이사, 대한민국의학한림원 정책개발위원회 운영위원, 국가바이오혁신위원회 위원 등을 지냈다."
-    ],
-    "chips": [
-      "#정책",
-      "#의료"
-    ]
-  },
-  {
-    "id": "naf3b1347",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "59분 전",
-    "url": "https://www.donga.com/news/People/article/all/20260808/134440442/2",
-    "title": "AI로 대장균 잡는 ‘인공 바이러스’ 만들었다",
-    "summary": [
-      "미국 스탠퍼드대 연구진이 인공지능(AI)으로 자연계에 없는 ‘인공 바이러스’를 만들었다.",
-      "6일(현지 시간) 국제학술지 사이언스에 따르면 연구진은 유전체 설계용 생성형 인공지능(AI) ‘에보(Evo) 2’를 이용해 인공 박테리오파지(파지) 16종을 제작했다.",
-      "파지는 세균 안에서 증식하다 세균을 파괴하는 미세 바이러스로, 항생제 내성균 치료의 대안으로 주목받고 있다.연구진은 대장균을 감염시키는 자연 파지 ‘ΦX174’를 모델로 삼아 AI가 새로운."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n1c3d7046",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/08/GA4TOYJZG42TGNJZGU4TCZTDME/",
-    "title": "레드벨벳 아이린, 슬기 보다 유튜버 포기 \"나는 못해\" ('혜리')",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 그룹 레드벨벳 멤버 아이린, 슬기, 예리가 혜리를 만났다.",
-      "7일 유튜브 채널 '혜리'에는 '초I고 ol쁜이들의 추억 토크★ 라떼는 CD를 구웠어..",
-      "I 혤's club ep80 아이린, 슬기, 예리라는 제목의 영상이 게재됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd4df2340",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608081600i",
-    "title": "팔란티어의 경고…스페이스X, 저점 찍었나[박신영의 개장전 요것만]",
-    "summary": [
-      "팔란티어의 경고…스페이스X, 저점 찍었나[박신영의 개장전 요것만]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13336eca",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741186",
-    "title": "美항소법원도 \"트럼프 백악관 연회장 공사는 불법\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 1심에 이어 2심 법원도 도널드 트럼프 대통령이 추진 중인 백악관 대형 연회장 건설 계획이 위법하다고 판단했다.",
-      "CNBC와 CNN에 따르면 미 워싱턴DC 연방항소법원은 이날 2대 1로 원심의 공사중지 가처분을 유지하기로 결정했다.",
-      "1심은 국가역사보존협회(NTHP)가 연회장 공사를 중지해달라며 제기한 소송에서 의회 승인 없이는 대대적인 백악관 신축공사가 위법하다고 보고, 공사 중단을 명령했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
   }
 ];
 
@@ -648,15 +643,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "AI",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
