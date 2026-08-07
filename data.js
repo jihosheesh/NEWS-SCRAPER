@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-07 12:38:48
+// 마지막 업데이트: 2026-08-07 14:04:53
 window.NEWS_DB = [
   {
     "id": "n9f669867",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzgyOU1wckpnS0sxX2RGN0RoSEdjZksxM2x5S013cmQxVEsyWVRuQ05MR1BEblA4YmtKMTJmSHhPbG1MYjZZdGZUdUNRUDd6bEdnb3d1N0E0bGdPbjZQSlN1ejMtVGstTXQyVWUyNFJfTzRwa3owWE1RNUdXeHNBMw?oc=5",
     "title": "TSMC는 2나노·난야는 D램…대만 반도체 ‘AI 증설 러시’",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n23a94137",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
     "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
     "summary": [
@@ -50,12 +50,12 @@ window.NEWS_DB = [
   {
     "id": "n310d1420",
     "category": "IT",
-    "source": "fnnews.com",
+    "source": "파이낸셜뉴스",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBob0N5cVFfcGdBb3BxNVpiU0t6YW1kcThhRDdDYXRJT3ZRVEUzSGduWjc3Ym1tZUtoX1I3Mld5UGNZLVpuZ2FtblFYaHJacXZDQ3hkSlZQX1RxZw?oc=5",
     "title": "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항",
     "summary": [
-      "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항 fnnews.com."
+      "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항 파이낸셜뉴스."
     ],
     "chips": [
       "#AI",
@@ -96,12 +96,12 @@ window.NEWS_DB = [
   {
     "id": "n0fbb40c3",
     "category": "경제",
-    "source": "sankyungtoday.com",
+    "source": "산경투데이",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
     "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
     "summary": [
-      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 sankyungtoday.com."
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
     ],
     "chips": [
       "#금리"
@@ -155,30 +155,15 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "n39919f03",
-    "category": "사회",
-    "source": "Vietnam.vn",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVRWZGdPMnBMd1M3NDZZWHBUd1QtMXhnLXMtZXR0bzVaWVJFTHdhTEJwZUwtMno4djV4M2IyY2tsVG1uYXh5TjZ6WEZtMW1TZUt3WGc1d2hEUUpmdktXeGl3SWhqMnhqZlBXV1VLTnZQenlmbTc5bmlvTlhRVFlVb3pxZjJaNkpUcUdCVVFiLUs1dzNqUExDZFBBWjkzY2VSTU1wWVRHblAtell6VmpUTA?oc=5",
-    "title": "빈빈 지역에서 열린 취업 박람회에는 2,000개가 넘는 일자리가 있었습니다.",
-    "summary": [
-      "빈빈 지역에서 열린 취업 박람회에는 2,000개가 넘는 일자리가 있었습니다."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -212,6 +197,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6b58f8f3",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "39일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
+    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
+    "summary": [
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
@@ -230,12 +231,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "70일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#부동산"
@@ -380,266 +381,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncbedac61",
+    "id": "n8cbbdc1d",
     "category": "부동산",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026080721354107536",
-    "title": "남양주시, 퇴계원5구역 재개발 속도…주민설명회 개최",
-    "summary": [
-      "경기 남양주시(시장 최현덕)가 퇴계원5구역 재개발정비사업 추진에 속도를 내고 있다.",
-      "남양주시는 지난 5일 퇴계원읍에서 주민 60여 명이 참석한 가운데 '퇴계원5구역 재개발정비사업 정비구역 지정 및 정비계획 수립안 주민설명회'를 열었다고 7일 밝혔다.",
-      "퇴계원5구역은 퇴계원읍 퇴계원리 272번지 일원 약 1만9180㎡ 규모다."
-    ],
-    "chips": [
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n8a73c6b7",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/07/MJSDEMLBGRSTMYZYMU2DCNBVGE/",
-    "title": "\"이거 바람 아니야?\" 김원훈, 밸런스 게임 중 극대노 ('십이층')",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 코미디언 김원훈이 밸런스게임에 몰입해 웃음을 안겼다.",
-      "6일 유튜브 채널 '십이층'에는 '묘하게 거슬리는 여사친 유형ㅣ영업중EP.76'라느 제목의 영상이 게재됐다.",
-      "이날 곽범, 김원훈, ph-1, 김지유는 스페셜 게스트인 김예원과 함께 밸런스 게임을 진행했다.예술가 애인 작품에 항상 등장하는 인물."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n336462ef",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807160000072",
-    "title": "[1보] 美 7월 '고용 충격'…예상 밖 2만3천명 감소",
-    "summary": [
-      "pan@yna.co.kr (끝)."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n26ebe0cb",
-    "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003741145",
-    "title": "[속보] 미 사업체, 일자리 7월에 2.3만 개 줄어…실업률은 4.1%로 ↓",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003741173",
+    "title": "[단독]인천 부평구 아파트서 10대가 40대 친모 살해",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 kjy@newsis.com."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "na5e6aad3",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026080721303503448",
-    "title": "남양주시, 폭염중대경보에 취약 현장 긴급점검…“현장 대응 총력”",
-    "summary": [
-      "폭염중대경보가 내려진 경기 남양주시가 건설현장과 무더위쉼터 등 폭염 취약 현장을 긴급 점검했다.",
-      "남양주시(시장 최현덕)는 지난 5일부터 폭염중대경보가 발효됨에 따라 7일 왕숙지구 아파트 공사 현장과 화도읍 마석2리 마을회관 무더위쉼터, 화도수동행정복지센터 인근 이동노동자쉼터를 점검했다고 밝혔다.",
-      "이날 현장 점검에 나선 김상수 남양주시 부시장은 먼저 왕숙지구 아파트 공사 현장을 찾아 근로자 안전관리 실태를 살."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n98c20829",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026080721253196201",
-    "title": "강진에 요동친 日 수술실…몸으로 감싸 환자 지킨 의료진",
-    "summary": [
-      "일본 규슈 구마모토현 인근에서 규모 7.1의 강진이 발생한 지난달 28일(현지시간) 당시 한 종합병원 수술실에서 의료진이 환자를 보호하기 위해 몸을 내던진 일이 뒤늦게 알려졌다.",
-      "일본 NHK 방송은 지진 당시 구마모토종합병원 수술실 내부 모습을 담은 카메라 영상을 6일 공개했다.",
-      "영상은 지진으로 수술실 내 의료기기가 심하게 흔들리는 장면을 담았는데, 당시 의료진은 수술대에 누운 환자를 보호하기 위해 온몸으로 감쌌다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nb98813ea",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003741136",
-    "title": "사우디·튀르키예·파키스탄, '한 나라처럼 침입공격에 대응하는' 방위협정 서명",
-    "summary": [
-      "[앙카라(튀르키예)=AP/뉴시스] 김재영 기자 = 사우디아라비아, 튀르키예 및 파키스탄 3국이 7일 한 나라라도 침입 공격을 받으면 이를 3국 모두가 공격을 받는 것으로 간주해 대응하는 방위 협정에 서명했다고 튀르키예와 파키스탄 관리들이 말했다.",
-      "3국은 국경을 접하고 있지 않으나 튀르키예는 미국 제외 최대 인구의 나토 동맹국이며 사우디는 수니파 종주국 그리고 파키스탄은 인구 2억이 넘는 핵보유국이다.",
-      "이날 협정은 사우디 신성 도시 메카에서 사우."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8dcbf044",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003741141",
-    "title": "박지원 \"민주당 전대는 李 대통령 신임투표…김민석이 압도적\"",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 박지원 더불어민주당 의원이 차기 당대표 선출을 앞둔 민주당 전당대회를 두고 \"이번 전당대회는 이재명 대통령의 신임 투표\"라며 김민석 후보가 이 대통령과 가장 호흡을 맞출 후보라고 평가했다.",
-      "박 의원은 6일 광주방송(kbc) '여의도 초대석'에 출연해 '이번 당대표 선거는 이재명 대통령이 지난 1년처럼 성공적인 4년의 대통령 임기를 보내느냐를 가늠하는 바로미터\"라며 \"총선 승리와 정권 재창출은 이재명 대통령의."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n85e6bd53",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003741134",
-    "title": "AI가 설계한 첫 '새 바이러스'…의료 혁신? 생물안보 경고?",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 인공지능(AI)이 사상 처음으로 자연계에 존재하지 않는 새로운 바이러스를 설계하고 실제 작동까지 확인한 연구 결과가 나왔다.",
-      "연구진은 항생제가 듣지 않는 슈퍼버그를 잡는 등 의료적 활용 가치를 강조했다.",
-      "하지만 일각에서는 AI가 치명적인 신종 병원체를 만드는 데 악용될 수 있다는 우려도 나온다."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nfdf36774",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/07/MY3TMMLBGVTDGMZXGVQTKZJXMU/",
-    "title": "‘아이돌 출신’ 미르, 결혼 후 전업주부됐다..♥아내 퇴근 기다리며 집안일(방가네)",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 가수 출신 미르가 아내를 위해 집안일을 책임지는 근황을 공개했다.7일 채널 ‘방가네’에는 ‘아이돌에서 결혼 후 주부가 된 그놈의 하루’라는 영상이 게재됐다.이날 미르는 반려견을 유치원에 보내고 큰누나의 집을 방문했다.",
-      "미르는 마트에서 장을 본 후 반려견을 데리러 갔다.집에 돌아온 미르는 사 온."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n55e28d58",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807158600054",
-    "title": "전남광주 지산동서 음주운전 SUV, 택시와 충돌 뒤 전도",
-    "summary": [
-      "(전남광주=연합뉴스) 민현기 기자 = 7일 오후 7시 12분께 전남광주 동구 지산동 편도 2차로 도로에서 A(50대)씨가 몰던 스포츠유틸리티차(..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc729adb9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807157600079",
-    "title": "흔들리는 미국 영향력…사우디·튀르키예·파키스탄, 공동방위조약",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 사우디아라비아, 파키스탄, 튀르키예 3국이 7일(현지시간) 사우디 메카에서 공동방위조약을 체결했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd22352e4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807158500527",
-    "title": "경기 남부·중부권 16개 시 오존주의보 해제",
-    "summary": [
-      "(수원=연합뉴스) 경기 남부·중부권 16개 시에 내려진 오존주의보가 7일 오후 9시 해제됐다고 환경부 한국환경공단이 전했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n9b6dfd7f",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "24분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260807/134440267/1",
-    "title": "美법원 “메타, 청소년 SNS 중독시켜” 1.3조원 지급 명령",
-    "summary": [
-      "페이스북·인스타그램 운영사인 메타가 아동 정신 건강에 미친 피해에 대한 막대한 배상금을 내게 됐다.CNBC, 뉴욕타임스(NYT) 등에 따르면 6일(현지 시간) 미국 서부 뉴멕시코주 법원은 메타가 ‘공공 위해(public nuisance)’를 초래했다면서 5억6700만 달러(약 8051억 원)를 아동 정신건강 치료 관련 기금에 납부하고, 주내 미성년 이용자를 대상으로 플랫폼 운영 방식을 변경하라고 명령했다.",
-      "이는 소셜미디어 중독 관련 법적 분쟁에."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n4a86db00",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026080721125392078",
-    "title": "꺾이지 않는 더위에 온열질환 급증…하루 185명 응급실행",
-    "summary": [
-      "폭염이 장기화하면서 온열질환자가 끊이지 않고 있다.",
-      "하루 사이 185명이 열탈진 등 온열질환으로 응급실을 찾았고, 올해 누적 환자는 2800명을 넘어섰다.",
-      "질병관리청은 6일 전국 500여개 응급실을 대상으로 온열질환 감시체계를 운영한 결과, 하루 동안 발생한 온열질환자가 185명으로 집계됐다고 7일 밝혔다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne6afadde",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260807/134440347/2",
-    "title": "李, 부동산 공급 확대 주문…“기존 사고 벗어나 전환적으로 판단”",
-    "summary": [
-      "이재명 대통령이 7일 부동산 정책 점검 회의에서 한성숙 국무총리와 관계부처 장관들을 향해 “기존 사고 방식에 매달리지 말고 전환적으로 판단해 과감히 생각하고 실천하라”고 당부했다.",
-      "이 대통령은 이날 오후 2시부터 8시까지 약 6시간 동안 부동산 정책 점검 2차 회의를 주재한 자리에서 이같이 말했다고 청와대 강유정 수석대변인이 서면 브리핑을 통해 전했다.",
-      "앞서 이 대통령은 3일 1차 회의에서 “공급 물량을 최대한 늘리고 공급 시기도 최대로 앞당기."
+      "[인천=뉴시스] 함상환 기자 = 인천 부평구의 한 아파트에서 한 집에 사는 40대 어머니를 10대 아들이 살해 하는 사건이 발생했다.",
+      "이날 오후 8시30시께 인천 부평구 삼산동의 한 아파트에서 10대 A군이 한 집에 살고 있는 40대 친모 B씨와 말다툼 중 집에 있던 흉기로 수차례 찔렀다.",
+      "B씨는 소방당국에 의해 병원으로 옮겨져 치료 받던중 숨졌고, A군은 범행 후 자신이 신고했다."
     ],
     "chips": [
       "#부동산",
-      "#정책",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n42f2ce58",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260807/134440498/2",
+    "title": "삼 초만 보는 여자[박연준의 토요일은 시가 좋아]〈54〉",
+    "summary": [
+      "난 동물 짤을 좋아해삼 초의 돌입과 몰입이난 아이 짤을 좋아해삼 분의 희열과 집착이 되고난 춤 짤도 좋아해삼십 분의 중독과 세 시간의 망각이 되는(중략)삼 초의 빨판과삼 초의 갈고리에말을 잊고생각을 잊고시간을 잊고삼 초만 보는 내 뇌는 텅 빈 스크린나는야, 백 개의 눈을 가진 눈먼 아르고스*―정끝별(1964∼ )인간은 이제 삶을 살지 않고, 삶을 본다.",
+      "어디서건 스마트폰을 보느라 고개를 숙인 사람들을 볼 수 있다.",
+      "세상이 눈앞에 실재하는데 기어."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1ca8590",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/politics/blue_house/2026/08/07/2SV7CTIVCND5ZAANZ7GB6GIITI/",
+    "title": "李, ‘ISA 혜택 축소’ ‘주가 누르기’ 세제개편안 질타... “전면 재검토하라”",
+    "summary": [
+      "李, ‘ISA 혜택 축소’ ‘주가 누르기’ 세제개편안 질타... “전면 재검토하라”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndab151f0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260807/134440707/2",
+    "title": "“스트레스 풀려고” 상품 대량 주문 후 취소 반복한 30대 여성",
+    "summary": [
+      "온라인 쇼핑몰에서 상품을 대량으로 주문한 뒤 반복적으로 취소하는 방식으로 회사의 업무를 방해한 혐의를 받는 30대 여성이 경찰에 체포됐다.",
+      "이 여성이 주문만 하고 결제하지 않아 취소된 상품의 총액만 400억 원에 이르는 것으로 조사됐다.6일(현지 시간) 일본 요미우리신문 등에 따르면 경시청은 4일 음식점에서 종업원으로 일하는 요시다 마유(32)를 업무방해 혐의로 체포했다.",
+      "그는 일본 대형 출판사가 운영하는 온라인 쇼핑몰 ‘점프 캐릭터즈 스토어’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n320aba96",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/07/MM3WCN3FGI3TAMJSMY4WKZRVGU/",
+    "title": "트와이스 정연, 되찾은 리즈 미모…청순 비주얼 '감탄'",
+    "summary": [
+      "[OSEN=김수형 기자] 트와이스 정연이 한층 슬림해진 근황으로 팬들의 시선을 사로잡았다.정연은 최근 자신의 SNS를 통해 별다른 멘트 없이 일상이 담긴 사진을 공개했다.공개된 사진 속 정연은 야외에서 검은색 트랙 재킷을 입은 편안한 차림으로 카메라를 바라보고 있다.",
+      "자연스러운 긴 생머리와 수수한 메이크업에도 또렷한 이목구비가 돋보이며 청순한 분위기를 자아."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na8f648f5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/07/GFRDAYRTGZQWGOBUGAZGMYZRGE/",
+    "title": "송은이, 정해인 '찐팬' 인정 \"한때 같은 소속사, 내가 질척거렸다\" ('옥문아')",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 송은이가 배우 정해인을 향한 팬심을 드러냈다.",
+      "7일 방송된 KBS 2TV '옥탑방의 문제아들'(이하 '옥문아') 323회에는 OTT 넷플릭스 오리지널 시리즈 '이런 엿같은 사랑'의 주연배우 정해인, 하영이 게스트로 출연했다.이날 정해인의 등장에 홍진경은 \"최근에 정해인이 나오는 드라마 장."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na820bb9d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003741168",
+    "title": "'장윤기 사건' 피해자 돕다 중상 입은 고교생, 의상자 인정",
+    "summary": [
+      "[세종=뉴시스]용윤신 기자 = '장윤기 사건' 피해 여고생을 돕다가 전치 4주의 중상을 입은 고교생이 사건 발생 80일 만에 의상자 인정을 받은 것으로 확인됐다.",
+      "7일 국회 보건복지위원회 소속 권칠승 더불어민주당 의원이 보건복지부로부터 제출받은 자료에 따르면 지난 5월 5일 광주에서 한 고등학생이 피해자를 구하려다 중상을 입었지만, 의상자로 인정된 것은 사건 발생 80일 뒤인 7월 24일이었다.",
+      "광주시 광산구가 6월 2일 직권으로 의상자 신청을."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n22860f2f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807163200063",
+    "title": "청양 비닐하우스 앞서 90대 숨진 채 발견…온열질환 여부 조사",
+    "summary": [
+      "(청양=연합뉴스) 이주형 기자 = 7일 오후 5시 43분께 충남 청양군 화성면의 한 농지 비닐하우스 앞에서 90대 A씨가 쓰러진 채 발견됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n84c6c811",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807162500081",
+    "title": "폭염·산불에 놀란 프랑스…대규모 정전 대응 훈련 추진",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 산불과 폭염이 잇따른 프랑스에서 재난 대응 역량이 정치적 쟁점으로 떠오른 상황에서 정부가 전국적인 정전 상황..."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nb3013500",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "55분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260807/134440278/2",
-    "title": "AI가 짜준대로 감량했더니…다발성 장기부전으로 죽을 뻔",
+    "id": "ndc05dd81",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807163100063",
+    "title": "교회에서 고열·의식 저하 상태로 병원 옮겨진 어린이 사망",
     "summary": [
-      "인공지능(AI)이 제안한 다이어트 계획을 그대로 실천한 30대 남성이 45일 만에 20㎏을 감량하는 데 성공했지만, 신체의 여러 장기가 제 기능을 정상적으로 수행하지 못하는 다발성 장기부전으로 중환자실에서 치료받은 사연이 전해졌다.",
-      "6일(현지 시간) 중국 상유신문에 따르면 중국 청도에 사는 천 씨(34)는 평소 기름지고 짠 음식을 즐겨 먹는 식습관과 잦은 야근 등 불규칙한 생활로 체중이 120㎏까지 늘었다.",
-      "다이어트와 동시에 건강 관리의 필요성."
+      "(천안=연합뉴스) 이주형 기자 = 충남 천안의 한 교회에서 의식 저하 상태로 신고된 어린이가 병원으로 옮겨진 뒤 숨지는 일이 발생해 경찰이 수사..."
     ],
     "chips": [
-      "#AI",
       "#의료"
+    ]
+  },
+  {
+    "id": "n66007c23",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807163500009",
+    "title": "뉴욕증시, 비농업 고용지표 소화하며 혼조 출발",
+    "summary": [
+      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 7월 비농업 고용지표를 소화하며 혼조세로 출발했다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n5ee6c2de",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003741160",
+    "title": "이란 반정부 매체 \"'모즈타바 위중, 언제든 순교' 소문 확산\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 아야톨라 모즈타바 하메네이 이란 최고지도자가 위중한 상태라는 이란 반(反)정부 성향 매체 보도가 나왔다.",
+      "하메네이 최고지도자는 취임 후 5개월간 한 차례도 모습을 드러내지 않았다.",
+      "이란와이어는 6일(현지 시간) 마수드 페제시키안 행정부와 가까운 소식통 2명을 인용해 \"모즈타바 하메네이는 현재 매우 위중한 상태이며, 언제든 사망할 수 있다는 소문이 정권 최고위층 내부에 광범위하게 퍼지고 있다\"고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncebd1b66",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003741170",
+    "title": "뉴욕증시, 7월 '고용쇼크' 속 상승출발…S&P 0.3% 나스닥 0.8%↑",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 미국 7월 고용 지표가 예상치를 크게 하회하는 것으로 나타나면서 뉴욕증시는 상승 출발했다.",
+      "뉴욕증권거래소(NYSE)에 따르면 7일(현지 시간) 오전 9시31분 기준 다우존스산업평균지수는 전장 대비 61.70포인트(0.11%) 오른 5만3946.80을 기록하고 있다.",
+      "스탠더드앤드푸어스(S&P)500지수는 전장보다 24.68포인트(0.32%) 높은 7734.64에, 기술주 중심의 나스닥지수는 199.057(0.76%."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n3d2cec82",
+    "category": "스포츠",
+    "source": "연합뉴스(경제)",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807160400001",
+    "title": "삼전닉스 레버리지 상장심사기간 29일…\"절반 단축\"·\"사실아냐\"",
+    "summary": [
+      "(서울=연합뉴스) 황철환 노선웅 기자 = 금융감독당국과 한국거래소가 단일종목 레버리지 ETF(상장지수펀드), 이른바 '삼전닉스 레버리지'의 상장..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf4cbcfa1",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "59분 전",
+    "url": "https://view.asiae.co.kr/article/2026080722035318430",
+    "title": "김해시의회, 행정사무감사 전 시민제보 받는다 … 위법·부당·불편 등",
+    "summary": [
+      "경남 김해시의회가 오는 9월 예정된 2026년도 행정사무감사를 앞두고 위법·부당 사례에 대한 시민제보를 받는다.",
+      "시의회는 오는 12일부터 20일까지 시의회 누리집을 통해 시민 제보를 접수한다고 7일 밝혔다.",
+      "제보 대상은 ▲김해시정의 위법·부당한 사례 ▲시정 주요 시책 및 사업 관련 개선 필요 사항 ▲시비 보조금 부당수령 ▲주요 사업의 예산 낭비 사례 ▲시민 생활에 불편을 주는 사항 등이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc9b4a1cd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260807/134440655/2",
+    "title": "안동 물길공원에 구렁이 출몰…발 담근 시민들 ‘기겁’",
+    "summary": [
+      "경북 안동시의 한 물길공원에서 1m가 넘는 구렁이가 출몰해 깜짝 놀란 시민들이 자리를 피하는 소동이 빚어졌다.7일 안동소방서 등에 따르면 전날 오후 5시경 안동 낙동강변에 있는 실개천 물길공원에서 길이 약 1.5m의 구렁이가 발견됐다.",
+      "약 400m 길이의 물길이 조성된 이곳에서 구렁이는 물속에 있는 상태로 발견됐다.",
+      "당시 물에 발을 담그며 더위를 식히던 가족 단위 방문객들은 구렁이를 독사로 착각해 황급히 자리를 피한 것으로 알려졌다.신고를 받고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c6f1035",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026080707886",
+    "title": "中 피지컬 AI '드림팀' 뜬다…딥시크, 유니트리에 300억 베팅 [분석+]",
+    "summary": [
+      "中 피지컬 AI '드림팀' 뜬다…딥시크, 유니트리에 300억 베팅 [분석+]."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -648,15 +644,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "뉴스",
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
