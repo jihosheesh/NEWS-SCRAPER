@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-07 15:43:37
+// 마지막 업데이트: 2026-08-07 16:41:09
 window.NEWS_DB = [
   {
     "id": "n9f669867",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzgyOU1wckpnS0sxX2RGN0RoSEdjZksxM2x5S013cmQxVEsyWVRuQ05MR1BEblA4YmtKMTJmSHhPbG1MYjZZdGZUdUNRUDd6bEdnb3d1N0E0bGdPbjZQSlN1ejMtVGstTXQyVWUyNFJfTzRwa3owWE1RNUdXeHNBMw?oc=5",
     "title": "TSMC는 2나노·난야는 D램…대만 반도체 ‘AI 증설 러시’",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n23a94137",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
     "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
     "summary": [
@@ -155,12 +155,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -183,12 +183,12 @@ window.NEWS_DB = [
   {
     "id": "nc01e8f2e",
     "category": "사회",
-    "source": "브릿지경제",
+    "source": "viva100.com",
     "time": "39일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
-      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
+      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 viva100.com."
     ],
     "chips": [
       "#AI",
@@ -231,12 +231,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "70일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -289,12 +289,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "테크M",
+    "source": "techm.kr",
     "time": "128일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
     ],
     "chips": [
       "#KBO"
@@ -381,28 +381,197 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nacf33ae0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "방금 전",
-    "url": "https://www.chosun.com/national/education/2026/08/08/DSHHS7R4JZCS3IQ4IJ3BRXUBSA/",
-    "title": "학생부 분석한 책 절판에, 중고 장터서 웃돈 거래",
+    "id": "nd4df2340",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "11분 전",
+    "url": "https://www.hankyung.com/article/202608081600i",
+    "title": "팔란티어의 경고…스페이스X, 저점 찍었나[박신영의 개장전 요것만]",
     "summary": [
-      "학생부 분석한 책 절판에, 중고 장터서 웃돈 거래."
+      "팔란티어의 경고…스페이스X, 저점 찍었나[박신영의 개장전 요것만]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne14fa359",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "방금 전",
-    "url": "https://www.chosun.com/national/education/2026/08/08/ZPUZ3VIB65FWVKJ5GTVGCSYCUM/",
-    "title": "교육부가 대안이라던 AI챗봇 컨설팅… 물리학과 물었는데 한문교육과 추천",
+    "id": "n13336eca",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741186",
+    "title": "美항소법원도 \"트럼프 백악관 연회장 공사는 불법\"",
     "summary": [
-      "교육부가 대안이라던 AI챗봇 컨설팅… 물리학과 물었는데 한문교육과 추천."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 1심에 이어 2심 법원도 도널드 트럼프 대통령이 추진 중인 백악관 대형 연회장 건설 계획이 위법하다고 판단했다.",
+      "CNBC와 CNN에 따르면 미 워싱턴DC 연방항소법원은 이날 2대 1로 원심의 공사중지 가처분을 유지하기로 결정했다.",
+      "1심은 국가역사보존협회(NTHP)가 연회장 공사를 중지해달라며 제기한 소송에서 의회 승인 없이는 대대적인 백악관 신축공사가 위법하다고 보고, 공사 중단을 명령했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9a94ec3d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808001200071",
+    "title": "美, 쿠바 고사작전 성공할까…국무장관 \"인내와 끈기로 옥죌 것\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 도널드 트럼프 행정부가 자국의 턱밑에 있는 '적대 세력'인 쿠바를 겨냥한 고사(枯死) 작전에 고삐를 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8e1a3cec",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808001000087",
+    "title": "멕시코-페루 약 10개월 만에 외교 재개 공식화",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 페드로 카스티요 전 페루 대통령 측근의 망명 문제로 갈등을 빚다 단교했던 페루와 멕시코가 7일(현지시간..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8e9c76e4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807159351071",
+    "title": "'트럼프 충성파' 美법무 인준 다시 청신호…과반 찬성표 확보(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령의 개인 변호사 출신인 토드 블랜치 미국 법무장관 후보자가 미 연방 상원에서 아슬..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc2691f32",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/08/GZQWGOJQMQ2DMMJXGBSDANBQHE/",
+    "title": "'삼성 드디어 대결단' 158km 1순위 실패 인정했다, 1위 역전 카드 될 수 있나",
+    "summary": [
+      "[스포츠조선 나유리 기자]아시아쿼터 가운데 최고 재목이라던 미야지 유라는 결국 실패로 끝났다.",
+      "삼성 라이온즈의 후반기 승부수는 다시 통할 수 있을까.",
+      "삼성 구단은 7일 아시아쿼터 교체를 공식 발표했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5f169607",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808001100099",
+    "title": "민주콩고 에볼라 확진자 4천명 넘어…수도까지 번질라 비상",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 콩고민주공화국(민주콩고)에서 에볼라 확산세가 이어지며 누적 확진자가 4천명을 넘어섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ba20c2b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/08/GNSGKYLGGE3WCZRRGI2DSYJYGE/",
+    "title": "한화 컴백? ML 복귀?…'대전 예수' 위기 극복 행진→ERA 5점대로 낮췄다",
+    "summary": [
+      "[스포츠조선 이종서 기자] 한화 이글스에서 뛰었던 라이언 와이스(30)가 다시 한 번 호투를 펼쳤다.",
+      "휴스턴 애스트로스 산하 트리플A 슈가랜드 스페이스 카우보이스에서 뛰고 있는 와이스는 7일(이하 한국시각) 미국 뉴멕시코주 앨버커키 아이소톱스 파크에서 열린 앨버커키 아이소톱스(콜로라도 로키스 산하)와의 원정경기에 등판해 2⅓이닝 4안타 1볼넷 2탈삼진 1실."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56cc4e6f",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/202608081598i",
+    "title": "애플 저가 매수 기회?…금값도 시동 건다[박신영의 개장전 요것만]",
+    "summary": [
+      "애플 저가 매수 기회?…금값도 시동 건다[박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2481a231",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/08/MRSWIN3DHFSDGMRWGVRGMMRQGU/",
+    "title": "김혜성이 사라졌다! → 1안 2안 모두 명단제외. 하지만 마지막 반전 있다 \"주루나 수비 뛰어난 선수 포함될수도\"",
+    "summary": [
+      "[스포츠조선 한동훈 기자] 대주자 대수비라도 뛰어볼 수 있었던 지난해가 오히려 감지덕지였다.",
+      "LA 다저스 김혜성이 올 시즌에는 가을야구 엔트리에 탈락할 전망이다.",
+      "메이저리그 공식 홈페이지 MLB닷컴은 7일(한국시각) 다저스의 포스트시즌 엔트리를 두 가지 버전으로 예측했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n14431f5b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740505",
+    "title": "더위에 에어컨 틀고 '콜록콜록'…혹시 이 질환 신호?[몸의경고]",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 40대 직장인 이모씨는 여름철 들어 마른기침이 한 달 간 계속됐다.",
+      "연일 이어지는 폭염에 사무실과 대중교통, 집까지 하루 대부분을 에어컨이 가동되는 실내에서 보내다 보니 감기나 냉방병으로 여겼지만, 휴식을 취해도 기침은 좀처럼 가라앉지 않았고 밤잠까지 설칠 정도로 이어졌다.",
+      "뒤늦게 병원을 찾은 이씨는 천식 진단을 받았다."
+    ],
+    "chips": [
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n56bbc918",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740530",
+    "title": "금정문화재단, '섯골 예술창고' 하반기 참가자 모집",
+    "summary": [
+      "[부산=뉴시스]원동화 기자 = 부산 금정문화재단은 오는 18일까지 금정구민을 대상으로 '2026 섯골문화예술촌 문화예술 교육 프로그램-섯골 예술창고' 하반기 참가자를 모집한다고 8일 밝혔다.",
+      "상반기 프로그램은 주민들의 높은 관심 속에 모든 강좌가 조기 마감됐으며, 높은 참여율과 만족도를 기록하며 마무리됐다.",
+      "하반기 프로그램은 오는 25일부터 11월13일까지 섯골문화예술촌 1층에서 운영되며 ▲인물화 ▲아크릴화 ▲라탄공예 등 3개 강좌로 구성된다."
+    ],
+    "chips": [
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n850839f8",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740070",
+    "title": "부산 동구도서관, 27일부터 '지혜학교' 인문학 강좌",
+    "summary": [
+      "[부산=뉴시스] 이아름 기자 = 부산 동구는 문화체육관광부가 주최하고 한국문화예술교육진흥원과 한국도서관협회가 주관하는 2026년 지혜학교 사업에 선정돼 오는 27일부터 인문학 강좌를 운영한다.",
+      "지혜학교 사업은 인문 주제에 대한 탐구를 통해 삶의 지혜를 함양할 수 있도록 마련된 인문학 프로그램이다.",
+      "동구도서관은 '고대 그리스에서 인공지능(AI) 시대까지, 문학에서 지혜를 얻다'를 주제로 11월26일까지 매주 목요일 총 13회 강연한다."
     ],
     "chips": [
       "#AI",
@@ -410,86 +579,27 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na01e838c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/national/incident/2026/08/08/7W7MGVZDMVA5DGCDKQNKJ7UTEQ/",
-    "title": "대구 경찰관 ‘음주 뺑소니’ 사건… 부친 부탁에 정보 빼준 동료들",
+    "id": "ne4ad7405",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "55분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260808/134440913/2",
+    "title": "집에서 말다툼 중 40대母 흉기 살해한 10대 아들 체포",
     "summary": [
-      "대구 경찰관 ‘음주 뺑소니’ 사건… 부친 부탁에 정보 빼준 동료들."
+      "인천 부평구의 한 아파트에서 10대 아들이 40대 어머니를 살해하는 사건이 발생했다.8일 경찰 등에 따르면 전날 오후 8시 35분경 인천 부평구 삼산동의 한 아파트에서 18살 아들이 40대 어머니와 말다툼 중 집 안에 있던 흉기로 어머니를 찔러 살해한 혐의를 받는다.",
+      "아들은 범행 후 경찰에 자진 신고한 것으로 파악됐다.",
+      "어머니는 병원으로 이송됐지만 끝내 숨졌다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3db8e1e8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/08/FJ4IVVIXSBALFOYVJ4LYE5Q7OY/",
-    "title": "합수본 ‘투표수 조작’ 강남·서초로 수사 확대",
-    "summary": [
-      "합수본 ‘투표수 조작’ 강남·서초로 수사 확대."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4cc5bb6f",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003739898",
-    "title": "AI가 사무직 다 없앤다?…뱅가드 \"과장된 우려\"",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 인공지능(AI)이 사무직 일자리를 대거 대체할 것이라는 우려는 과장됐다는 분석이 나왔다.",
-      "AI가 일부 업무를 자동화하더라도 새로운 직무와 산업을 만들어 전체 고용 수를 늘릴 것이란 전망이다.",
-      "6일(현지시간) 비즈니스인사이더(BI)에 따르면 애덤 시클링 뱅가드 선임 이코노미스트는 \"AI 도입에 따른 일자리 감소 우려는 과장됐다\"고 밝혔다."
-    ],
-    "chips": [
-      "#AI",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n59e9ec0b",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808000800071",
-    "title": "트럼프 \"중국의 AI·암호화폐 장악 안돼…시진핑과 논의할 것\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 중국이 인공지능(AI)과 암호화폐 분야를 장악하도록 놔두지 않겠다고 밝혔다."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8f01b09f",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080719172121241",
-    "title": "베네수엘라 언론, 레이예스에 자부심 \"폭염에도 불망망이, 카스트로 역시 매 경기 발전→페라자도...\"",
-    "summary": [
-      "베네수엘라 매체가 한국프로야구(KBO리그)를 폭격하고 있는 자국 출신 타자들의 활약상을 언급하며 자부심을 드러냈다.",
-      "바로 주인공은 빅터 레이예스(32·롯데 자이언츠)를 비롯해 헤럴드 카스트로(33·KIA 타이거즈)가 그 주인공이다.",
-      "요나단 페라자(28·한화 이글스) 역시 OPS(출루율+장타율) 부문 7위에 올라있다고 언급했다."
-    ],
-    "chips": [
-      "#KBO"
+      "#부동산",
+      "#의료"
     ]
   },
   {
     "id": "n8431fb48",
     "category": "사회",
     "source": "동아일보",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260808/134440906/1",
     "title": "하리수 “미키정 보내주고 싶어 이혼…애 못 낳아 미안했다”",
     "summary": [
@@ -505,7 +615,7 @@ window.NEWS_DB = [
     "id": "n7c67c5aa",
     "category": "사회",
     "source": "동아일보",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260808/134440903/1",
     "title": "‘서준맘’ 박세미, 연하 남자친구와 열애 “결혼 생각도”",
     "summary": [
@@ -518,24 +628,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n44d5cfe7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808000500085",
-    "title": "세우타 사태에 흔들린 유럽 국경…스페인·이탈리아 정면충돌",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 북아프리카의 스페인령 세우타에서 발생한 이주민 난입 사태를 둘러싸고 스페인과 이탈리아 간 갈등이 깊어지고 있..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n9f1c289c",
     "category": "사회",
     "source": "동아일보",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260808/134440900/1",
     "title": "스컬&하하, 가뭄 피해 밀양서 콘서트 “죄송…출연료 전액 기부할 것”",
     "summary": [
@@ -544,99 +640,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n6857ffcb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807164600009",
-    "title": "밀레이, 브라질 대선 앞두고 '反룰라' 우파정상회의 추진",
-    "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = '남미의 트럼프'라 불리는 하비에르 밀레이 아르헨티나 대통령이 루이스 이나시우 룰라 다 시우바 브..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf6b47633",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740176",
-    "title": "\"전신 문신에 해외 도피까지\"…예비 신랑의 친구를 보고 '결혼 고민'에 빠졌다",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 예비 신랑의 절친이 전신 문신을 하고 해외 도피까지 준비하는 등 위험한 행보를 보여 결혼을 고민하고 있다는 예비 신부의 사연이 전해졌다.",
-      "지난 5일 직장인 온라인 커뮤니티 '블라인드'에는 '예비 신랑 절친이 전신 이레즈미 문신 있는데 어떻게 생각해'라는 제목의 글이 게재됐다.",
-      "작성자 A씨는 중학교 때부터 친했다는 예비 신랑의 친구를 만나게 된 사연을 털어놨다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nfa13baaf",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003741179",
-    "title": "트럼프 \"데이터센터 반대운동, 中자금 의혹…시진핑과 논의할것\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 미 전역에서 확산하는 인공지능(AI) 데이터센터 반대 여론의 배후에 중국이 있다는 의혹을 제기했다.",
-      "조만간 방미하는 시진핑 중국 국가주석에게 이 문제를 직접 제기하겠다고 예고했다.",
-      "트럼프 대통령은 7일(현지 시간) 공개된 미 정치전문매체 펀치볼뉴스 팟캐스트 인터뷰에서 \"중국이 우리를 이기게 놔둘 수 없다\"며 이같이 말했다."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0167e13a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807034351061",
-    "title": "경찰·고용부, '근로자 끼임사' HL만도 평택사업장 압수수색(종합)",
-    "summary": [
-      "(평택=연합뉴스) 강영훈 김솔 기자 = 자동차 부품 제조사인 HL만도 경기 평택공장에서 발생한 20대 하청 노동자 기계 끼임 사망사고를 수사 중..."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n0d07951a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003739978",
-    "title": "\"저 복근 뭐야\"…레드벨벳 조이가 꽂힌 '혈당 다이어트' 루틴은",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 걸그룹 레드벨벳 멤버 조이가 완벽한 슬렌더 몸매를 뽐내며 화제를 모으고 있는 가운데, 그가 실천 중인 건강한 '혈당 관리 비법'이 덩달아 주목받고 있다.",
-      "조이는 지난 6일 자신의 소셜네트워크서비스(SNS)를 통해 \"엠카\"라는 짧은 문구와 함께 음악방송 대기실 현장을 담은 여러 장의 사진을 게재했다.",
-      "조이는 최근 눈에 띄게 마른 몸매를 드러내며 군살 하나 없는 '뼈마름 피지컬'로 시선을 사로잡았다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9b00afce",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "27분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080714315160852",
-    "title": "\"마지막 인사는 제대로 하겠다, 조금만 더 기다려달라\" 폭염 취소에 갑작스럽게 은퇴식마저 불발되다니... 직접 입장 밝혔다",
-    "summary": [
-      "전국적인 폭염으로 인해 KBO 리그가 '폭염 브레이크'에 돌입했다.",
-      "주말 3연전이 취소되면서 아쉬움을 표한 주인공이 있었으니, 바로 은퇴식이 예정돼 있었던 황재균(39)이다.",
-      "KT 위즈 구단은 8일 수원 KT위즈파크에서 열리는 롯데 자이언츠와 홈 경기에서 황재균의 은퇴식을 개최할 예정이었으나 다음으로 미룰 수밖에 없었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
   }
 ];
 
@@ -644,15 +647,15 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
