@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 15:19:21
+// 마지막 업데이트: 2026-08-08 16:19:50
 window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
     "summary": [
@@ -98,12 +98,12 @@ window.NEWS_DB = [
   {
     "id": "n5c09d452",
     "category": "경제",
-    "source": "소년한국일보",
+    "source": "한국금융경제신문",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1BqOXR2TnBqanhaNF9PWVRrOXpRZDFrRjU4WGtZQ1d0S1JYU1JCbUotTUEyQmE5NzdBZDVlclFwX3pwZUxGMGJGU0Z0ckZ4c0NpckhFdzBsc0w3aDc3QVA1QW1IdW9aa3dfVdIBcEFVX3lxTE01VEEzeXJtMl85QTU0NEtoaWU4dEQ3eE9KckZFelY5bWVMdU9wdzZSaGdYZzd5UE9ObzFhaXhJcnBLbVo0Tm4wcFBsaGc2Q2FDX3IySW1qcUZQcXZLbG0xNUgzZUlJSjdEZGVfZktQSlM?oc=5",
     "title": "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는?",
     "summary": [
-      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 소년한국일보."
+      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 한국금융경제신문."
     ],
     "chips": [
       "#환율"
@@ -112,12 +112,12 @@ window.NEWS_DB = [
   {
     "id": "n0fbb40c3",
     "category": "경제",
-    "source": "산경투데이",
+    "source": "sankyungtoday.com",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
     "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
     "summary": [
-      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 sankyungtoday.com."
     ],
     "chips": [
       "#금리"
@@ -142,12 +142,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -290,12 +290,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "테크M",
+    "source": "techm.kr",
     "time": "129일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
     ],
     "chips": [
       "#KBO"
@@ -304,22 +304,159 @@ window.NEWS_DB = [
   {
     "id": "nbcfe41a7",
     "category": "IT",
-    "source": "yonhapnewstv.co.kr",
+    "source": "연합뉴스TV",
     "time": "166일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 yonhapnewstv.co.kr."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
       "#스타트업"
     ]
   },
   {
+    "id": "nc9cc1489",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809000900071",
+    "title": "美 '셧다운 방지' 임시예산안 상원 통과…'유권자 ID법'은 좌절",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 연방정부의 일부 기능정지(셧다운)를 피하기 위한 임시예산안(CR·Continuing Resolutio..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n523ef07a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/09/GQ2TAMBVGYYWENZWGE3WMMJWGA/",
+    "title": "트레이드 효과는 1년 뿐인가...지난해 21홀드→올해 3홀드, 폭염 휴식기에 또 1군 말소→시즌 4번째 2군행",
+    "summary": [
+      "[OSEN=한용섭 기자] 프로야구 KBO리그는 폭염 브레이크로 짧은 휴식기에 들어갔다.",
+      "KBO는 8일 1군 엔트리 변동을 공개했다.",
+      "롯데 투수 정철원, 삼성 외야수 이진용이 1군 엔트리에서 제외됐다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7c05ac4e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/09/HFRTENJUMY4WEZJUG5STSMZVGE/",
+    "title": "'AOA 탈퇴' 지민, 데뷔 14년 기념 \"앨비스 영원히 소중해\"",
+    "summary": [
+      "[OSEN=오세진 기자] 전 AOA 리더이자 래퍼 지민이 AOA 팬덤 '앨비스'들에게 인사를 남겼다.9일 지민은 자신의 소셜 계정에 자신의 사진을 담은 네 컷 사진과 함께 \"14 years on, and you're all still on my mind 여전히 너희를 생각해, 영원히 소중하고, 언제나 사랑해\"라는 글귀를 적었다.네 컷 사진 속에는 지민만이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb59a4869",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741518",
+    "title": "‘축구의 신’ 아르헨티나 축구 선수 메시의 부친 지병 별세",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = ‘축구의 신’으로 불리는 아르헨티나의 축구 선수 리오넬 메시의 부친 호르헤 메시가 8일 아르헨티나 중부 도시 로사리오의 한 병원에서 별세했다.",
+      "로사리오를 연고로 하는 클럽 아틀레티코 뉴웰스 올드 보이스는 소셜미디어 게시물을 통해 그가 최근 몇 달 동안 알려지지 않은 질병으로 치료를 받아왔다며 사망 소식을 알렸다.",
+      "게시물은 그를 “비전과 엄격함, 애정으로 역대 최고의 선수 경력을 뒷받침한 기둥이자 인."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nece2637a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741360",
+    "title": "美 '미드호', 사상 최저 수위 기록…콜로라도강 위기 심화",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 미국 네바다주에 위치한 호수 미드호의 수위가 사상 최저치를 기록하면서 우려를 낳고 있다.",
+      "8일(현지시간) 미국 CNN은 미드호의 수위가 낮아지면서 콜로라도강 유역의 물 부족 사태가 두드러지고 있다고 보도했다.",
+      "7일 기준 미드호의 수위는 해발 1040.5피트(약 317.1m)를 기록했는데, 90년 전 미드호가 조성된 이후 가장 낮은 수위다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1911c828",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740599",
+    "title": "\"600m 상공서 낙하산 안 펴져\"…러시아 기념행사서 숨진 공수부대원",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = 러시아에서 '공수부대의 날' 시범 행사 도중, 600m 상공에서 점프한 베테랑 공수부대원이 낙하산 문제로 추락해 사망하는 참사가 발생했다.",
+      "4일(현지 시간) 영국 일간지 더선의 보도에 따르면 해당 사건은 지난 2일 모스크바 인근에서 열린 공수부대의 날 기념 시범 강하 행사 도중 일어났다.",
+      "현지 매체 및 동영상에 따르면 올해 41세인 해당 공수부대원은 약 600m 고도의 수송기에서 뛰어내렸으나 주 낙하산이 제대."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf328cf73",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260804_0003735956",
+    "title": "\"콩물 꽈배기 먹었어요\"…밥 한공기 드신겁니다",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 입맛을 떨어뜨리고 체력을 소모시키는 찜통 더위에는 시원하고 고소한 콩물에 면을 말아 먹는 콩국수가 빼놓을 수 없는 별미다.",
+      "단순히 더위를 식히는 음식이 아니라 풍부한 영양과 한의학적 효능까지 갖춘 음식으로 평가 받는다.",
+      "9일 의료계에 따르면 콩국수의 주재료인 콩은 '밭에서 나는 소고기'라 불릴 만큼 양질의 식물성 단백질이 풍부하다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n466ce632",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/08/09/HA4GMMBWME3GCMZXGQZGGM3BMM/",
+    "title": "\"열심히 춰야지\" 티아라 효민, 8살까지 매료시킨 여전한 케이팝 여신",
+    "summary": [
+      "[OSEN=오세진 기자] 티아라 효민이 본업인 아이돌 자아를 일깨우는 일화를 밝혔다.8일 효민은 자신의 소셜 계정에 여러 장의 사진을 공개했다.",
+      "효민은 청 소재의 홀터넥 상의와 청치마를 입고 검정 카디건과 블랙 백으로 매치해 심플하면서도 독특한 매력을 보였다.이날 효민은 공연을 위해 비행기를 타러 가는 중 \"오늘 기분 좋은데\"라면서 빛나는 미모를 보였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n18ed78d6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809000500108",
+    "title": "불가리아 영공 침범한 드론 폭발…우크라 모델 추정",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 유럽 발칸반도 남쪽의 불가리아에 우크라이나에서 제작된 모델과 유사한 무인항공기(UAV·드론)가 침범해 폭..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ne249f2ce",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "50분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154123",
     "title": "[글로벌] AMD, AI 추론용 맞춤형 칩 스타트업 탈라스 인수",
     "summary": [
@@ -337,7 +474,7 @@ window.NEWS_DB = [
     "id": "n49824b00",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "52분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154122",
     "title": "[글로벌] 오픈AI, 챗GPT 무료 이용자에 텍스트 채팅 무제한 제공",
     "summary": [
@@ -352,7 +489,7 @@ window.NEWS_DB = [
     "id": "n4146546d",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "52분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154121",
     "title": "[글로벌] 美, 폴리실리콘 파생상품에 15% 관세...12월부터 적용",
     "summary": [
@@ -365,57 +502,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n21d9e138",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/09/G4YGKNTDHE4DEYJYHFQWGMZQGE/",
-    "title": "53세 이치로가 홈런 더비 쾅!쾅!쾅!쾅!쾅!쾅!쾅! 실화냐? “홈런은 힘으로 치는 게 아니다”",
-    "summary": [
-      "[OSEN=손찬익 기자] \"홈런은 힘으로 치는 게 아니다”.53세의 나이에도 여전히 팬들을 열광하게 만든 스즈키 이치로가 홈런 더비를 마친 뒤 자신만의 야구 철학을 전했다.일본 스포츠 매체 '산케이 스포츠'는 지난 8일(이하 한국시간) 시애틀 매리너스 구단 OB 홈런 더비에 참가한 이치로의 경기 후 인터뷰를 소개했다.시애틀 구단 특별보좌 겸 인스트럭터를 맡."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n3a20f0b1",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741381",
-    "title": "\"불륜 의혹 여성에 수억 퇴직금\"…인판티노 FIFA 회장, 과거 논란",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 국제축구연맹(FIFA) 회장 지아니 인판티노가 유럽축구연맹(UEFA) 사무총장으로 재직하던 시절, 자신과 관계가 있었다는 의혹을 받은 여성 직원에게 거액의 퇴직금과 MBA 학비가 지급된 사실이 드러났다.",
-      "지난 7일(현지 시간) 영국 텔레그래프는 인판티노가 UEFA 사무총장으로 있던 당시 해당 여성과 관계를 맺었다는 의혹이 제기됐으며, 여성은 재직 중 관리직으로 승진하고 급여도 약 30% 인상됐다고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne03dd986",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741393",
-    "title": "홍준표, 李대통령 향해 \"보완수사권 폐지, 국민을 위한 결정 아냐\"",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 홍준표 전 대구시장이 이재명 대통령을 향해 3군 사관학교 통합과 검찰 수사권 폐지, 부동산 정책 등을 비판하며 \"또다시 불행한 대통령이 될 수도 있다\"고 경고했다.",
-      "홍 전 시장은 지난 7일 구독자 약 74만명의 자신의 유튜브 채널 'TV홍카콜라'을 통해 \"지난주에는 장동혁 대표한테 야당이 살려면 어떻게 해야 하는지 권고를 했고, 오늘은 이재명 대통령에게 몇 마디를 권고하려 한다\"고 말했다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
     "id": "nf6780d2f",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260808054100009",
     "title": "'축구의 신' 메시 부친 별세…스타 아들 뒤에 선 조용한 조력자",
     "summary": [
@@ -426,26 +516,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfc0f9bad",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740755",
-    "title": "\"위고비 맞았다\"…침착맨 동생 '통닭천사', 20㎏ 감량 고백",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = ㎏ 유튜버 침착맨의 동생으로 알려진 구독자 약 11만명의 유튜버 통닭천사가 위고비를 사용하며 약 20㎏을 감량했다고 밝혀 화제가 됐다.",
-      "통닭천사는 지난 6일 유튜브 채널 '제일건강합니다'에 게스트로 출연해 자신의 체중 감량 과정을 공개했다.",
-      "이날 통닭천사의 달라진 모습에 진행자들은 \"최근에 살이 엄청 빠진 것 같다\"며 \"어떻게 뺐어요?\"라고 감량 비결을 물었다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "n27e5e94a",
     "category": "경제",
     "source": "한국경제",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026080711297",
     "title": "[오늘의 운세] 8월 9일 띠별 운세",
     "summary": [
@@ -459,7 +533,7 @@ window.NEWS_DB = [
     "id": "nf73f43bd",
     "category": "경제",
     "source": "한국경제",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026080711487",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 9일 띠별 추천 점심메뉴",
     "summary": [
@@ -473,7 +547,7 @@ window.NEWS_DB = [
     "id": "nb14e2876",
     "category": "경제",
     "source": "한국경제",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026080685637",
     "title": "[오늘의 운세] 2026년 8월 9일 별자리 운세",
     "summary": [
@@ -487,7 +561,7 @@ window.NEWS_DB = [
     "id": "nde4c0e31",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260809000100011",
     "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
@@ -499,71 +573,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf451b501",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741516",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-    "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3502b157",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/football/2026/08/09/GQ3GMZJTMZQTIODDMI4GIZBZHA/",
-    "title": "\"너무나 죄송\" 슈팅 33개 패배→메가폰 잡은 정정용 감독...\"결과는 감독 책임, 힘내서 다시 도전하겠다\"[현장 인터뷰]",
-    "summary": [
-      "[OSEN=전주, 고성환 기자] 아쉬운 패배를 당한 정정용 전북현대 감독이 고개 숙였다.전북현대는 8일 오후 8시 전주월드컵경기장에서 열린 ‘하나은행 K리그1 2026’ 22라운드 홈 경기에서 제주 SK에 1-3으로 패했다.",
-      "제주가 전주성에서 승리를 거두고 돌아가는 건 약 4년 3개월 만이다.이로써 전북은 이번에도 후반기 홈 첫 승을 신고하지 못하면서 9승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e67232e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/08/G43DKZDCMIZTMMBSGZRDKMLGMY/",
-    "title": "어린 메시의 손 잡고 유럽으로...'축구의 신을 만든 사나이' 호르헤 메시, 68세로 별세",
-    "summary": [
-      "[OSEN=정승우 기자] 리오넬 메시(39, 인터 마이애미)가 부친상을 당했다는 소식이 일제히 전해졌다.",
-      "선수 생활 내내 가장 가까운 곳에서 아들의 축구 인생을 함께했던 아버지 호르헤 메시가 68세의 나이로 세상을 떠났다.아르헨티나 현지 복수 매체는 8일(한국시간) 호르헤 메시의 사망 소식을 일제히 전했다.아르헨티나의 대형 디지털 뉴스 매체 '인포바에'는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbdf5b82d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/08/GVSDMYRUG5RDCOBWGBTDQMRTME/",
-    "title": "키오프 벨, 심신 딸이었다..父 음악 재능 물려받아 “중학생 때부터 천 곡 작업”(살림남)",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 키스오브라이프 벨이 심신의 딸이라고 밝혔다.8일 방송된 KBS 2TV ‘살림하는 남자들’에는 키스오브라이프의 벨이 스페셜 게스트로 출연했다.은지원은 벨에게 “아버님이 엄청 유명한 분이라면서요?”라고 물었고 벨은 아버지가 가수 심신이라고 밝혔다.",
-      "은지원은 심신의 노래를 듣고 자란 세대라며 반가워했."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2925f89b",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260808/134441987/1",
     "title": "울산, ‘동해안 더비’ 2-0 완승…‘네게바 해트트릭’ 제주 5위 도약",
     "summary": [
@@ -577,7 +590,7 @@ window.NEWS_DB = [
     "id": "n19c5a8b9",
     "category": "사회",
     "source": "동아일보",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260808/134441984/1",
     "title": "젤렌스키 “美와 월간 패트리엇 공급 계약”…친러 세르비아 첫 방문",
     "summary": [
@@ -592,7 +605,7 @@ window.NEWS_DB = [
     "id": "na3b857c6",
     "category": "사회",
     "source": "동아일보",
-    "time": "46분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260808/134441981/1",
     "title": "에스파, 균열 품고 이룩한 미학적 성장…‘특이점’ 너머 고척돔서 3막 열다",
     "summary": [
@@ -607,25 +620,11 @@ window.NEWS_DB = [
     "id": "n30dc117e",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260808/134441978/1",
     "title": "‘독일 진출’ 다름슈타트 이호재, 데뷔전 골 맛…2-2 무승부 견인",
     "summary": [
       "독일 무대에 진출한 이호재(26)가 데뷔전에서 골을 터뜨리며 강렬한 인상을 남겼다.이호재는 8일(한국시간) 독일 다름슈타트의 메르크 슈타디온 암 뵐렌팔토어에서 열린 홀슈타인 킬과 2026-27 독일 2.분데스리가(2부리그) 개막전에서 후반 15분 교체 출전해 한 골을 넣어 팀의 2-2 무승부를 이끌었다.벤치에서 시작한 이호재는 팀이 0-2로 끌려가던 후반 15분 핀 라켄마허를 대신해 그라운드를 밟아 유럽 무대에 공식 데뷔했다.그리고 후반 31분."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n14a5753a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "54분 전",
-    "url": "https://www.hankyung.com/article/2026080821247",
-    "title": "폭염에 전날 서울지역 온열질환 사망자 2명…올해 최다",
-    "summary": [
-      "폭염에 전날 서울지역 온열질환 사망자 2명…올해 최다."
     ],
     "chips": [
       "#뉴스"
