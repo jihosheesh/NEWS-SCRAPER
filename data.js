@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 18:21:33
+// 마지막 업데이트: 2026-08-08 19:21:23
 window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
     "summary": [
@@ -316,16 +316,119 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd6653370",
+    "id": "n2797f139",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741520",
-    "title": "“美 이란전 무기 소진…북한과 분쟁시 주한 미군 취약해질 수 있어”",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741521",
+    "title": "美 국방부, 켄달 전 공군장관 보안허가 취소…“에어포스원 기밀정보, 언론 누출”",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 미국이 이란에 무기를 쏟아붓고 있는 가운데 러시아와 중국이 이를 주시하고 있다.",
-      "일부 분석가들은 이란 전쟁으로 미국의 무기 비축량이 고갈되면서 화력이 크게 약화되고 있어 이란 전쟁이 장기화될수록 중러에 유리하다고 보고 있다고 뉴욕타임스(NYT)는 8일 전했다.",
-      "이란전 장기화로 미국의 무기 비축량은 우려스러운 수준으로 줄어들었으며 아시아와 유럽에서 무기 공급이 차질을 빚고 있는 상황이다."
+      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 행정부는 조 바이든 대통령 재임 시절 공군 장관을 지낸 프랭크 켄달 전 공군장관의 보안 허가를 취소했다.",
+      "그가 대통령 전용기인 에어포스 원에 관한 기밀 정보를 언론에 누설했다는 이유에서다.",
+      "8일 워싱턴 포스트 보도에 따르면 켄달 전 장관은 최근 뉴욕타임스(NYT)와 월스트리트저널 (WSJ)에 실린 기사에서 카타르가 기증한 보잉 747기의 보안 기능을 분석한 내용에 인용됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1c547e1e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740414",
+    "title": "매달 함께 복권 사던 동료 10명, UAE서 마침내 77억원 잭팟 터졌다",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 15년 동안 꾸준히 복권에 도전해 온 60대 필리핀 출신 한 제빵사가 아랍에미리트(UAE)에서 동료들과 함께 77억원에 달하는 거액의 복권 당첨을 거머쥐었다.",
+      "지난 3일(현지 시간) 아랍에미리트(UAE) 수도 아부다비 매체 '더 내셔널(The National)'에 따르면, 두바이에서 일하는 레이날도 에르보소는 최근 진행된 아부다비 '빅티켓(Big Ticket)' 복권 추첨에서 1등에 당첨됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n287b97c4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808053800071",
+    "title": "한국전쟁유업재단, 美서 '월드 콩그레스' 행사 개최",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 한국전쟁유업재단(KWLF)은 미국 버지니아주 알렉산드리아에서 '2026 미국 월드 콩그레스(World Co..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9beff7e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740763",
+    "title": "\"매일 고기 800g씩 20년\"…70세 스웨덴 여성 동안 비결",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 스웨덴의 한 70세 여성이 매일 약 800g의 고기를 먹는 '카니보어 식단(육식 위주 식단)'과 꾸준한 근력운동으로 탄탄한 몸매를 유지해온 사실이 알려졌다.",
+      "그러나 전문가들은 이런 극단적 식단의 건강 위험성을 경고하고 나섰다.",
+      "6일(현지시간) 영국 데일리메일에 따르면 스웨덴 예테보리 출신의 전직 간호사이자 인테리어 건축가인 에바 비라스(70)는 젊은 외모와 탄탄한 몸의 비결로 육류 중심 식단과 웨이트트레이닝을."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb6362bd1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809001900108",
+    "title": "튀르키예 외무 \"메카 공동방위조약, 이란 겨냥 아니다\"",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 하칸 피단 튀르키예 외무장관은 자국과 사우디아라비아, 파키스탄 3국이 체결한 '메카 공동방위조약'이 이란..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n84798e26",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809002000071",
+    "title": "\"트럼프, 혹시 부분가발 썼나?\"…'풍성 금발'에 시선 집중",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령의 '풍성한 금발'이 세간의 이목을 끌고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3551f245",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809000551108",
+    "title": "불가리아 영공 침범한 드론 폭발…우크라 모델 추정(종합)",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 유럽 발칸반도 남쪽의 불가리아에 우크라이나에서 제작된 모델과 유사한 무인항공기(UAV·드론)가 침범해 폭..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9fa623fa",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "51분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740486",
+    "title": "\"생산적 금융 ISA, 투자 대상 제한 문제\"",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 정부가 발표한 ISA(개인종합자산관리계좌) 개편안을 두고 투자 혜택은 늘렸지만 활용도는 오히려 떨어질 수 있다는 지적이 나오고 있다.",
+      "구독자 38만 명을 보유한 유튜브 채널 '홍춘욱의 경제강의노트'는 최근 정부의 ISA 개편안을 분석하며 투자자들이 주목해야 할 변화와 한계를 소개했다.",
+      "채널 운영자인 홍춘욱 박사는 이번 개편의 가장 큰 변화로 '생산적 금융 ISA' 신설을 꼽았다."
     ],
     "chips": [
       "#뉴스"
@@ -335,7 +438,7 @@ window.NEWS_DB = [
     "id": "n9425d0a0",
     "category": "사회",
     "source": "조선일보",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/politics/blue_house/2026/08/09/RYDUKC36LFEI3AX24BOQ6JYVFI/",
     "title": "‘문재인 시즌 2’ 우려 속 세금 폭탄… 민심 반발에 여권도 ‘수정론’",
     "summary": [
@@ -349,7 +452,7 @@ window.NEWS_DB = [
     "id": "n5dcd47af",
     "category": "사회",
     "source": "조선일보",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/national/court_law/2026/08/09/ZFO7QEYGLFA2RB6BVCFPNP4JRI/",
     "title": "남편의 골프 파트너의 정체",
     "summary": [
@@ -363,7 +466,7 @@ window.NEWS_DB = [
     "id": "n89d53208",
     "category": "사회",
     "source": "조선일보",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/culture-life/2026/08/09/TGIVJZ7V6NGG7G73AECJ5YK664/",
     "title": "라인강변 古城에서 김봄소리의 브람스를 듣다",
     "summary": [
@@ -379,7 +482,7 @@ window.NEWS_DB = [
     "id": "n56db0a9b",
     "category": "사회",
     "source": "조선일보",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/national/national_general/2026/08/09/W3ITAUQ6JJE5DLCDS2SJZV47ZM/",
     "title": "1960년대엔 “금연하면 신경질 난다” 기사도…옛 신문으로 본 담배의 추억",
     "summary": [
@@ -390,115 +493,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8fb10dc7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741519",
-    "title": "트럼프, 놈 해임 이어 멀린 국토안보부 장관도 불만…“트럼프와 기조 달라”",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 미국 대통령은 마크웨인 멀린 국토안보부 장관에 대한 불만이 점점 커지고 있다고 월스트리트저널(WSJ)이 7일 보도했다.",
-      "트럼프 대통령은 멀린 장관에 대해 불만을 표했지만 행정부 관계자는 트럼프 대통령이 그를 해고할 계획은 없다고 밝혔다.",
-      "트럼프 대통령은 3월 크리스티 놈 국토안보부 장관을 2기 행정부 출범 이후 처음으로 장관을 해임했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n05465da5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809001400085",
-    "title": "젤렌스키, '러와 가까운' 세르비아 첫 공식 방문",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 8일(현지시간) 처음으로 세르비아를 공식 방문했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncdc2510f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740515",
-    "title": "\"올바른 가임력 정보\"…한국오가논, 임직원 교육",
-    "summary": [
-      "[서울=뉴시스]이소헌 기자 = 한국오가논이 임직원을 대상으로 생애 초기 가임력 관리의 중요성을 알리는 교육을 진행했다.",
-      "9일 한국오가논에 따르면 회사는 지난 6일 한국난임가족연합회와 서울시가 추진하는 '생식건강 체크인 캠페인'의 일환으로 임직원과 약학대학생 인턴을 대상으로 한 난임 예방 및 생식건강 교육을 진행했다.",
-      "지난해에 이어 두 번째로 열린 이번 교육은 '2030 생식건강과 가임력 보존 전략'을 주제로 진행됐다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2d8e317f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809001000085",
-    "title": "스페인도 이탈리아 국경 검문 돌입…세우타발 갈등 고조",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 북아프리카의 스페인 자치도시 세우타로 이주민이 대거 무단 진입한 사태의 여파로 스페인이 8일(현지시간) 이탈..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb053735e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809001100072",
-    "title": "버핏 떠난 버크셔, 2분기 순익 2배로…현금 쌓기서 투자로 전환",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = '투자의 구루(스승)'로 불리는 워런 버핏(95)이 물러나고 올 1월 새 최고경영자(CEO)를 맞은 버크셔해..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ce48208",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809001200087",
-    "title": "중국, '전력난' 쿠바에 태양광 발전 키트 5천 대 기증",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 중국 정부가 전력난에 시달리는 쿠바에 소규모 태양광 발전 키트 5천 대를 기증했다고 현지 관영 쿠바데바..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb59a4869",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741518",
-    "title": "‘축구의 신’ 아르헨티나 축구 선수 메시의 부친 지병 별세",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = ‘축구의 신’으로 불리는 아르헨티나의 축구 선수 리오넬 메시의 부친 호르헤 메시가 8일 아르헨티나 중부 도시 로사리오의 한 병원에서 별세했다.",
-      "로사리오를 연고로 하는 클럽 아틀레티코 뉴웰스 올드 보이스는 소셜미디어 게시물을 통해 그가 최근 몇 달 동안 알려지지 않은 질병으로 치료를 받아왔다며 사망 소식을 알렸다.",
-      "게시물은 그를 “비전과 엄격함, 애정으로 역대 최고의 선수 경력을 뒷받침한 기둥이자 인."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "ne249f2ce",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154123",
     "title": "[글로벌] AMD, AI 추론용 맞춤형 칩 스타트업 탈라스 인수",
     "summary": [
@@ -516,7 +514,7 @@ window.NEWS_DB = [
     "id": "n49824b00",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154122",
     "title": "[글로벌] 오픈AI, 챗GPT 무료 이용자에 텍스트 채팅 무제한 제공",
     "summary": [
@@ -531,7 +529,7 @@ window.NEWS_DB = [
     "id": "n4146546d",
     "category": "사회",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154121",
     "title": "[글로벌] 美, 폴리실리콘 파생상품에 15% 관세...12월부터 적용",
     "summary": [
@@ -547,7 +545,7 @@ window.NEWS_DB = [
     "id": "n27e5e94a",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026080711297",
     "title": "[오늘의 운세] 8월 9일 띠별 운세",
     "summary": [
@@ -561,7 +559,7 @@ window.NEWS_DB = [
     "id": "nf73f43bd",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026080711487",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 9일 띠별 추천 점심메뉴",
     "summary": [
@@ -575,7 +573,7 @@ window.NEWS_DB = [
     "id": "nb14e2876",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026080685637",
     "title": "[오늘의 운세] 2026년 8월 9일 별자리 운세",
     "summary": [
@@ -589,7 +587,7 @@ window.NEWS_DB = [
     "id": "n2925f89b",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260808/134441987/1",
     "title": "울산, ‘동해안 더비’ 2-0 완승…‘네게바 해트트릭’ 제주 5위 도약",
     "summary": [
@@ -603,7 +601,7 @@ window.NEWS_DB = [
     "id": "n19c5a8b9",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260808/134441984/1",
     "title": "젤렌스키 “美와 월간 패트리엇 공급 계약”…친러 세르비아 첫 방문",
     "summary": [
@@ -618,7 +616,7 @@ window.NEWS_DB = [
     "id": "na3b857c6",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260808/134441981/1",
     "title": "에스파, 균열 품고 이룩한 미학적 성장…‘특이점’ 너머 고척돔서 3막 열다",
     "summary": [
@@ -636,8 +634,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
