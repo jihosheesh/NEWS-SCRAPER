@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 07:39:49
+// 마지막 업데이트: 2026-08-08 08:27:44
 window.NEWS_DB = [
   {
     "id": "n9db71f7c",
@@ -20,12 +20,12 @@ window.NEWS_DB = [
   {
     "id": "n23a94137",
     "category": "IT",
-    "source": "뉴스핌",
+    "source": "newspim.com",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
     "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
     "summary": [
-      "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속' 뉴스핌."
+      "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속' newspim.com."
     ],
     "chips": [
       "#AI",
@@ -49,14 +49,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n310d1420",
+    "id": "n2ea16e66",
     "category": "IT",
-    "source": "파이낸셜뉴스",
+    "source": "v.daum.net",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBob0N5cVFfcGdBb3BxNVpiU0t6YW1kcThhRDdDYXRJT3ZRVEUzSGduWjc3Ym1tZUtoX1I3Mld5UGNZLVpuZ2FtblFYaHJacXZDQ3hkSlZQX1RxZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QWk1kaVJacWkxUnVWbl94TWszbVdEa3EwODBWYWEzTnY1bDF2dXRwQlJ2dDVBS1JzdkFWcDd6UXMyRFl6b0E?oc=5",
     "title": "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항",
     "summary": [
-      "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항 파이낸셜뉴스."
+      "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항 v.daum.net."
     ],
     "chips": [
       "#AI",
@@ -156,12 +156,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
@@ -217,12 +217,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#부동산"
@@ -290,7 +290,7 @@ window.NEWS_DB = [
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
-    "time": "165일 전",
+    "time": "166일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
@@ -304,7 +304,7 @@ window.NEWS_DB = [
     "id": "n1e3b72e2",
     "category": "사회",
     "source": "매일경제 마켓",
-    "time": "178일 전",
+    "time": "179일 전",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0SmpNeDU3Z0FaOC1mTGIyZXBfR0pTSmd6NUtLczdMdm5iMGdsT2NPWDJJUmlwT2NTd011akRQLVNMdk10OG12cXhKUVUxN3JD?oc=5",
     "title": "“일자리 구해주면 연봉 10% 떼줄게요”…구직자가 돈 쓰는 미국",
     "summary": [
@@ -365,10 +365,160 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nab2c7a40",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741430",
+    "title": "김영훈, 김포공항 불시 점검…\"폭염 노동자 보호 필요\"",
+    "summary": [
+      "[서울=뉴시스]박정영 기자 = 김영훈 고용노동부 장관이 기록적 폭염에 대응해 김포공항 불시 점검에 나섰다.",
+      "점검 결과 공항 주기장의 휴게시설이 부족한 문제가 드러났다.",
+      "8일 노동부에 따르면, 김 장관은 이날 오후 김포공항을 사전 예고 없이 방문해 지상조업 현장의 '폭염안전 5대 기본수칙' 현장 이행 실태를 직접 점검했다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n54c893e1",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741227",
+    "title": "\"척추 부상에도 검사 못 받아\"…전 올림픽 선수, 美봅슬레이협회 상대 소송",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 전 올림픽 선수 롤로 존스가 부상을 입은 상태에서 경기를 강행해야 했다며 미국봅슬레이협회를 향해 강도 높은 비판을 제기했다.",
+      "네덜란드 매체 스포르트니우스는 7일(현지시간) 존스가 선수 시절 부상을 제대로 보호받지 못한 과정을 공개하며 분노를 표했다고 보도했다.",
+      "존스는 육상 100m 허들과 봅슬레이를 오가며 활약한 선수다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n01e20c27",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741429",
+    "title": "'50년 전 반공법 위반 옥살이' 사후 재심, 무죄 확정 이유는?",
+    "summary": [
+      "[인천=뉴시스] 이루비 기자 = 1970년대 북한의 선전 활동에 동조하는 말을 한 혐의로 재판에 넘겨져 실형을 살았던 고인이 재심을 통해 약 50년 만에 무죄를 선고받았다.",
+      "인천지법 형사18단독(판사 나재영)은 고(故) A씨의 반공법 위반 혐의 재심에서 원심을 파기하고 무죄를 선고했다고 8일 밝혔다.",
+      "1938년생인 A씨는 37세였던 1975년 반공법 위반 혐의로 기소돼 인천지법(당시 서울형사지방법원 인천지원)에서 징역 5년에 자격정지 5년을 선."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n96113aad",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808043200009",
+    "title": "\"미국, 쿠바 압박하며 차기 지도자 물색…'정권 개조' 타진\"",
+    "summary": [
+      "(서울=연합뉴스) 김아람 기자 = 미국 도널드 트럼프 행정부가 쿠바를 상대로 압박 수위를 높이면서 쿠바 정부를 이끌 새로운 지도자를 물색하고 있..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n876a9d7e",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741433",
+    "title": "차가원 \"○○○ 까면 주변 다 죽어\"…전세금 미반환 속 녹취 폭로 파장",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 가수 겸 배우 이승기와 105억 원 규모의 전세보증금 미반환 갈등을 겪고 있는 차가원 피아크그룹 회장의 과거 발언 녹취가 공개되며 파장이 일고 있다.",
+      "7일 유튜버 이진호 채널 등을 통해 공개된 녹취에 따르면, 차 회장은 이승기와의 전세보증금 갈등이 본격화되기 전 통화에서 \"○○○고 ○○이고 다 죽일 수 있다\"며 강한 어조로 폭로를 예고했던 것으로 나타났다.",
+      "차 회장은 해당 통화에서 \"○○○를 까면 주변 사람들이 다."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "nef852a5d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/08/HFTGKOBVGNTDMYLGGJRWCNJXME/",
+    "title": "'심상치 않다' 김민재는 바이에른서 헤더골, 이한범은 데뷔전 MOM...한국 수비진 새 시즌 앞두고 '맹활약'",
+    "summary": [
+      "[OSEN=정승우 기자] 한국 축구를 대표하는 두 센터백이 새 시즌을 앞두고 나란히 좋은 흐름을 만들고 있다.",
+      "김민재(30, 바이에른 뮌헨)는 프리시즌에서 득점까지 터뜨리며 존재감을 키웠고, 이한범(24, 클럽 브뤼헤)은 데뷔전부터 최우수선수(MOM)에 선정됐다.김민재는 7일(이하 한국시간) 홍콩 카이탁 스포츠 파크에서 열린 아스톤 빌라와 프리시즌 친선경기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n29905c9f",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808043300064",
+    "title": "[청주소식] 매월 10명 구직 청년 증명사진 지원",
+    "summary": [
+      "(청주=연합뉴스) 청주시는 구직 청년들의 경제적 부담을 덜기 위해 오는 12월까지 매월 10명의 무료 증명사진 촬영을 선착순 지원한다고 8일 밝..."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
+    "id": "n8f383d34",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808031051051",
+    "title": "폭염특보 속 부산서 2천여 가구 6시간 단수…상수도관 파열(종합)",
+    "summary": [
+      "(부산=연합뉴스) 오수희 기자 = 부산에 폭염특보가 발효 중인 가운데 사상구 일부 지역 2천여 가구에 수돗물 공급이 6시간 동안 끊겨 주민들이 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe68dc82",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260808/134441765/1",
+    "title": "제주 양돈장서 정화조에 빠져…외국인 근로자 2명 사망",
+    "summary": [
+      "제주의 한 양돈장 정화조에 외국인 근로자 2명이 추락해 사망하는 사고가 발생했다.8일 제주소방안전본부에 따르면 이날 오전 7시 56분경 제주시 한경면 소재 양돈장 정화조 내부에 사람이 빠졌다는 신고가 접수됐다.사고가 난 정화조는 가로·세로·높이가 각각 5ｍ 규모로 내부에는 50%가량 내용물이 차 있던 것으로 확인됐다.소방당국은 40여 분간의 구조 작업 끝에 2명을 구조했다.",
+      "하지만 구조 당시 이들은 모두 심정지 상태였다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc96aac66",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808041451371",
+    "title": "폭염 뚫고 코트로…\"매일 연습했어요\" 다문화가족 셔틀콕 대결(종합)",
+    "summary": [
+      "(고양=연합뉴스) 정아란 성도현 기자 = 폭염이 기승을 부린 8일, 경기 고양 소노 아레나에선 전국 각지에서 모인 다문화가족의 셔틀콕 대결이 펼..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n9ed40356",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "27분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154117",
     "title": "[주말에 뭐보지] 오싹한 호러부터 이강인 데뷔전까지...OTT로 주말 '도파민' 풀충전",
     "summary": [
@@ -381,102 +531,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n955a3fd3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741415",
-    "title": "김희철, 거꾸로 걸린 광복절 태극기 현수막에 \"X돌았네\"",
+    "id": "nfac49cdc",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "39분 전",
+    "url": "https://www.hankyung.com/article/2026080819857",
+    "title": "\"中 미사일망 뚫는다\"…美, 공격잠수함 19척 순항미사일잠수함 전환",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 그룹 '슈퍼주니어' 멤버 김희철이 상하가 뒤집힌 태극기가 프린트된 광복절 현수막에 거친 뉘앙스로 일침을 가했다.",
-      "8일 소셜 미디어 등에 따르면 한 지자체가 제81주년 광복절을 앞두고 거리에 게시한 공식 현수막 속 태극기 상하 방향이 반대로 표현돼 논란이 일었다.",
-      "'제81주년 광복절, 빛을 되찾은 그날'이라는 문구 옆 태극 문양과 괘의 위아래가 뒤집힌 상태다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2a17a6f3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808041100065",
-    "title": "민주당 인천시당위원장에 허종식 의원 선출",
-    "summary": [
-      "(인천=연합뉴스) 신민재 기자 = 더불어민주당 인천시당은 8일 인천남동체육관에서 정기당원대회를 열고 차기 시당위원장에 재선의 허종식 의원(인천 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7440bd9d",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808032851371",
-    "title": "\"셔틀콕만 있으면 친구\"…다문화가족 배드민턴대회 성황리 개최(종합)",
-    "summary": [
-      "(고양=연합뉴스) 정아란 성도현 기자 = 전국 다문화가족이 셔틀콕을 놓고 실력을 겨루는 '2026 전국 다문화가족 배드민턴대회'가 8일 경기 고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb951492e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080815205438211",
-    "title": "'역대급 데뷔전' 韓 24세 국대 센터백, 유럽 명문 완벽히 사로잡았다 \"단 두 번 훈련했는데... 놀라운 맹활약\"",
-    "summary": [
-      "그야말로 센세이셔널한 데뷔전이었다.",
-      "벨기에 명문 클뤼프 브뤼허로 이적한 이한범(24)이 첫 경기부터 벨기에와 유럽 현지 매체들의 극찬을 받았다.",
-      "이한범은 8일(한국시간) 벨기에 브뤼허의 얀 브레이덜 스타디온에서 열린 2026~2027 벨기에 주필러리그 1라운드 코르트레이크와 개막전에 중앙 수비수로 선발 출전해 90분 풀타임을 뛰며 팀의 3-0 완승을 이끌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc7da6f16",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/08/GQ3GGMBWMFRGCYZRMRSGCYRZGM/",
-    "title": "돌아온 ‘재벌X형사2’ 정은채 합류로 웃었다..안보현 꺼드럭도 여전 [Oh!쎈 이슈]",
-    "summary": [
-      "[OSEN=김채연 기자] ‘재벌X형사’가 2년 만에 새 시즌과 함께 돌아온 가운데, 첫 방송부터 순조로운 출발을 알렸다.8일 시청률조사회사 닐슨코리아에 따르면 전날 방송된 SBS ‘재벌X형사’는 전국 6.1%, 수도권 6.0%로, 시즌1 첫 회 시청률이었던 전국 5.8%보다 0.3%p 높은 수치를 기록했다.이날 방송된 ‘재벌X형사2’는 시즌1과 달라진 인물."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n65fb9268",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808040900527",
-    "title": "강릉평지 등 강원 4곳 호우주의보 해제",
-    "summary": [
-      "(춘천=연합뉴스) 기상청은 강릉평지·동해평지·강릉산지·동해산지에 발령했던 호우주의보를 8일 오후 4시 30분을 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd215abd0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808041000527",
-    "title": "경북 포항·청송에 호우주의보 해제…문경 등 4곳 폭염경보 유지",
-    "summary": [
-      "(대구=연합뉴스) 기상청은 포항·청송에 발령했던 호우주의보를 8일 오후 4시 30분을 기해 해제한다고 밝혔다."
+      "\"中 미사일망 뚫는다\"…美, 공격잠수함 19척 순항미사일잠수함 전환."
     ],
     "chips": [
       "#뉴스"
@@ -486,9 +548,9 @@ window.NEWS_DB = [
     "id": "n2a10719a",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "11분 전",
+    "time": "59분 전",
     "url": "https://www.donga.com/news/Society/article/all/20260808/134441731/1",
-    "title": "“생후 2일 신생아 살려라”…경찰, 퇴근길 뚫는 장면 화제",
+    "title": "“생후 2일 아기 살려라”…퇴근길 뚫고 14㎞ 에스코트한 경찰",
     "summary": [
       "경찰이 호흡곤란증후군을 앓던 생후 2일 된 신생아를 상급병원으로 이송하는 과정이 공개돼 화제다.",
       "경찰의 긴급 에스코트와 시민들의 길 터주기가 작은 생명을 살렸기 때문이다.",
@@ -499,74 +561,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n82a0e147",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741407",
-    "title": "\"손 떨림 포착\"…카라 한승연, 건강 괜찮나 팬들 '걱정'",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 그룹 '카라' 멤버 겸 배우 한승연의 근황 영상이 공개된 가운데, 팬들의 걱정이 이어지고 있다.",
-      "8일 가요계와 온라인 커뮤니티 등에 따르면, 최근 한승연이 자신의 생일을 맞아 팬들이 마련한 생일 카페를 방문한 모습이 담긴 영상이 확산했다.",
-      "영상 속 한승연은 케이크 촛불을 끄고 선물을 둘러보는 등 팬들과 시간을 보냈다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n167d8d4c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741394",
-    "title": "日 방위성, 장사거리 미사일·공격형 드론 확대…반격 능력 강화",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 일본 방위성이 적의 미사일 발사 거점을 공격하는 '반격 능력' 강화를 위해 장사거리 미사일의 수량과 성능을 높이고, 장거리 비행이 가능한 공격형 드론도 도입하기로 했다.",
-      "요미우리에 따르면 방위성은 7일 안보 3개 문서의 연내 개정을 앞두고 방위성이 소관하는 국가방위전략과 방위력 정비계획 등 2개 문서의 개정 골격을 공개했다.",
-      "방위성은 반격 능력과 관련해 \"양과 질을 확보하지 못하면 장래에 충분한 억지력을 유지할."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na95f68f9",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/policy/2026/08/08/2026080815573358803",
-    "title": "강릉 시간당 81.4㎜ '물폭탄'…5중 추돌·담벼락 붕괴 피해 잇따라",
-    "summary": [
-      "재대본 비상 2단계-10일까지 강원 중·남부 동해안 최대 150㎜ 이상 전망 강원 영동 지역을 중심으로 시간당 80㎜가 넘는 폭우가 쏟아지며 피해가 잇따랐다.",
-      "특히 많은 비가 집중된 강릉에선 담벼락 붕괴, 도로 침수, 빗길 추돌사고 등 여러 피해가 신고됐다.",
-      "8일 뉴스1에 따르면 이날 오전 발효됐던 강원 동해안과 산지의 호우경보가 호우주의보로 변경된 가운데 강릉·동해·삼척 평지와 산지를 중심으로 호우 특보가 유지되고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1eb5c47f",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026080816244118366",
-    "title": "오픈AI, \"사이버 공격 위험\" 우려 차세대 AI 출시 연기",
-    "summary": [
-      "오픈AI가 사이버 공격 등 보안 위험을 이유로 차세대 AI의 개발을 보류하기로 했다.",
-      "오픈AI는 7일(현지시간) 홈페이지 게시글을 통해 최근 진행한 내부 평가 결과 차세대 모델 '아스트라'가 코딩·사이버 보안 분야에서 중대한 진전을 보여 자체 안전 기준상 최고 등급인 '위험'(Critical) 수준에 도달했을 가능성이 있다고 밝혔다.",
-      "'위험' 등급은 AI 모델이 인간의 개입 없이 강력한 보안을 갖춘 다수의 핵심 시스템에서 미공개."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "n2dda7880",
     "category": "경제",
     "source": "한국경제",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026080819647",
     "title": "천안 교회서 11세 아동 숨져…경찰, 학대 여부 조사",
     "summary": [
@@ -577,62 +575,58 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3232c96e",
+    "id": "neb81a6e1",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741414",
-    "title": "與 김보미 '황희 버스하우스 제안'에 \"탁상공론·내로남불\"",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260808/134441726/1",
+    "title": "탄약 재고 비상…“美 합참의장, 이란 공습 역효과…출구전략 주장”",
     "summary": [
-      "[서울=뉴시스]신재현 기자 = 더불어민주당 8·17 전당대회 당대표 예비경선에 출마했다가 낙선한 김보미 전 강진군의장이 8일 황희 의원의 '청년 버스하우스' 제안에 \"탁상공론\"이라고 비판했다.",
-      "김 전 의장은 이날 페이스북에 \"장관까지 지낸 3선 민주당 국회의원이라면 청년 주거 문제의 절박함을 더 깊이 살피고, 실현 가능성과 주거의 질을 충분히 검토했어야 한다\"고 적었다.",
-      "김 전 의장은 \"황희 의원의 제안에 청년들이 분노한 이유는 본인들은 쾌적한."
+      "미군 수뇌부가 이란 전쟁 출구 전략을 모색하고 있다는 외신 보도가 나왔다.",
+      "군사 옵션이 한계에 이르렀다고 판단했기 때문이다.",
+      "7일(현지 시간) CNN은 사안에 정통한 소식통들의 발언을 인용해 댄 케인 미 합참의장이 최근 도널드 트럼프 행정부 참모들에게 미군이 이란 전쟁에서 출구 전략을 찾아야 한다는 뜻을 전달했다고 보도했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0b7fcad4",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080814592850693",
-    "title": "'대반전' ERA 9.42→2.35 KIA 기적의 '이 투수' 폭염 속 대도약 이끌까",
-    "summary": [
-      "사실상 기적이라고 해도 과언이 아니다.",
-      "전반기 평균자책점 9점대에 머물렀던 투수가 후반기 2점대 평균자책점을 찍고 있다.",
-      "그 주인공은 바로 KIA 타이거즈의 대표팀 출신 좌완 투수 이의리(24)다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n415407c2",
+    "id": "n80096e4e",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/culture/2026/08/08/2026080513572417827",
-    "title": "인기 없던 소설, 다시 '역주행' 중…판매량 2배 훌쩍, 서점가에 무슨일",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608070937H",
+    "title": "\"당당하게 걷기!\" 18년 뛰어넘어 1위 찍었다…'프리티 걸' 주역들 [김수영의 크레딧&]",
     "summary": [
-      "낮은 수요와 저조한 수익성으로 서점가의 골칫덩이가 됐던 소설의 '역주행'이 시작됐다.",
-      "연초부터 주요 온라인서점의 베스트셀러 순위에서 '줄세우기'를 하더니 독자들의 선택을 받은 인기 소설가도 늘고 있다.",
-      "출판시장의 부진을 씻을 열쇠가 될 수 있다는 기대가 나온다."
+      "\"당당하게 걷기!\" 18년 뛰어넘어 1위 찍었다…'프리티 걸' 주역들 [김수영의 크레딧&]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n94d2ff86",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/national/incident/2026/08/08/EQUONXBG5FCN7FEWVVYNNIVKAE/",
-    "title": "제주 양돈장서 정화조 빠진 외국인 근로자 2명 심정지",
+    "id": "nfe8262d6",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608081851i",
+    "title": "'이게 다 한국 덕분'…에르메스·몽클레르도 깜짝 놀랐다 [안혜원의 명품의세계]",
     "summary": [
-      "제주 양돈장서 정화조 빠진 외국인 근로자 2명 심정지."
+      "'이게 다 한국 덕분'…에르메스·몽클레르도 깜짝 놀랐다 [안혜원의 명품의세계]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb7d01e42",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "2시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808037500001",
+    "title": "與김보미, 황희 '버스 하우스' 제안에 \"내로남불·탁상공론\"",
+    "summary": [
+      "(서울=연합뉴스) 김정진 기자 = 더불어민주당 8·17 전당대회 당 대표 예비경선에 출마했다가 낙선한 김보미 전 강진군의장은 8일 자당 황희 의..."
     ],
     "chips": [
       "#뉴스"
@@ -645,14 +639,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
