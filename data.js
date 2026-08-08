@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 19:21:23
+// 마지막 업데이트: 2026-08-08 20:17:10
 window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
     "summary": [
@@ -316,177 +316,172 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2797f139",
+    "id": "n5e4bb314",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741521",
-    "title": "美 국방부, 켄달 전 공군장관 보안허가 취소…“에어포스원 기밀정보, 언론 누출”",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/09/CBCGNPMY45GCHB2SELZCNYUA3Y/",
+    "title": "거실에 펴고 자기 딱 좋은 3단 매트리스, 침대에서 잔듯 편안해",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 행정부는 조 바이든 대통령 재임 시절 공군 장관을 지낸 프랭크 켄달 전 공군장관의 보안 허가를 취소했다.",
-      "그가 대통령 전용기인 에어포스 원에 관한 기밀 정보를 언론에 누설했다는 이유에서다.",
-      "8일 워싱턴 포스트 보도에 따르면 켄달 전 장관은 최근 뉴욕타임스(NYT)와 월스트리트저널 (WSJ)에 실린 기사에서 카타르가 기증한 보잉 747기의 보안 기능을 분석한 내용에 인용됐다."
+      "거실에 펴고 자기 딱 좋은 3단 매트리스, 침대에서 잔듯 편안해."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n944d29d7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808041600001",
+    "title": "여야, 13일 본회의 개최 두고 신경전…'재검표 일정' 확정도 아직",
+    "summary": [
+      "(서울=연합뉴스) 김정진 권희원 기자 = 여름 휴가철과 맞물려 사실상 개점 휴업 상태를 이어가고 있는 8월 임시국회가 이르면 13일부터 본격 가..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n1c547e1e",
+    "id": "n6622ca46",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740414",
-    "title": "매달 함께 복권 사던 동료 10명, UAE서 마침내 77억원 잭팟 터졌다",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/09/IZGAGNT3LZB37G4FPENFMCOATU/",
+    "title": "장수 위해 매일 먹어야 하는 토마토, 양구에서 수확 즉시 가장 신선할 때 산지 직송",
     "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 15년 동안 꾸준히 복권에 도전해 온 60대 필리핀 출신 한 제빵사가 아랍에미리트(UAE)에서 동료들과 함께 77억원에 달하는 거액의 복권 당첨을 거머쥐었다.",
-      "지난 3일(현지 시간) 아랍에미리트(UAE) 수도 아부다비 매체 '더 내셔널(The National)'에 따르면, 두바이에서 일하는 레이날도 에르보소는 최근 진행된 아부다비 '빅티켓(Big Ticket)' 복권 추첨에서 1등에 당첨됐다."
+      "장수 위해 매일 먹어야 하는 토마토, 양구에서 수확 즉시 가장 신선할 때 산지 직송."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n287b97c4",
+    "id": "nb5d1514b",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808053800071",
-    "title": "한국전쟁유업재단, 美서 '월드 콩그레스' 행사 개최",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808051600001",
+    "title": "'金 2연승이냐, 鄭 재역전이냐'…與, 오늘 강원·TK서 순회경선",
     "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 한국전쟁유업재단(KWLF)은 미국 버지니아주 알렉산드리아에서 '2026 미국 월드 콩그레스(World Co..."
+      "(서울=연합뉴스) 김정진 기자 = 더불어민주당은 9일 차기 지도부 선출을 위한 8·17 전당대회의 강원 및 대구·경북(TK) 지역 순회 경선을 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na9beff7e",
+    "id": "n00d4bfeb",
     "category": "사회",
     "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740763",
-    "title": "\"매일 고기 800g씩 20년\"…70세 스웨덴 여성 동안 비결",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741450",
+    "title": "일요일 인천, 최고 체감온도 35도 안팎…\"폭염 지속\"",
     "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 스웨덴의 한 70세 여성이 매일 약 800g의 고기를 먹는 '카니보어 식단(육식 위주 식단)'과 꾸준한 근력운동으로 탄탄한 몸매를 유지해온 사실이 알려졌다.",
-      "그러나 전문가들은 이런 극단적 식단의 건강 위험성을 경고하고 나섰다.",
-      "6일(현지시간) 영국 데일리메일에 따르면 스웨덴 예테보리 출신의 전직 간호사이자 인테리어 건축가인 에바 비라스(70)는 젊은 외모와 탄탄한 몸의 비결로 육류 중심 식단과 웨이트트레이닝을."
+      "[인천=뉴시스] 전예준 기자 = 9일 인천은 여전히 일 최고 체감온도가 35도에 육박하는 더위가 이어지겠다.",
+      "하늘은 중국 북동지방에 위치한 고기압의 가장자리에 들어 오전부터 구름 많아지겠다.",
+      "수도권기상청은 \"아침 최저기온은 25도, 낮 최고기온은 34도 내외의 분포를 보이겠다\"며 \"당분간 일최고체감온도가 35도 안팎으로 오르면서 매우 무덥겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74da2b3e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003741144",
+    "title": "만성골수성백혈병, 생존넘어 관리로…장벽은 '이것'",
+    "summary": [
+      "[서울=뉴시스]황재희 기자 = 만성골수성백혈병(CML)은 표적치료제 도입 이후 환자의 생존율이 크게 향상되면서 장기간 안정적으로 관리할 수 있는 질환으로 자리 잡았다.",
+      "과거에는 생존 자체가 목표였다면, 지금은 얼마나 꾸준히 병을 조절하며 치료를 이어가느냐가 중요한 과제로 떠올랐다.",
+      "9일 관련 업계에 따르면, 이런 변화가 제도에도 반영돼 올해 7월부터 만성골수성백혈병 산정특례(병원비 부담을 낮춰주는 건강보험 제도) 재등록 기준이 완화됐다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nb6362bd1",
+    "id": "nea4204c3",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809001900108",
-    "title": "튀르키예 외무 \"메카 공동방위조약, 이란 겨냥 아니다\"",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808046700001",
+    "title": "국힘 비당권파 4인 징계 급가속…張, '막말·논란' 앞세워 역공",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 하칸 피단 튀르키예 외무장관은 자국과 사우디아라비아, 파키스탄 3국이 체결한 '메카 공동방위조약'이 이란..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n84798e26",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809002000071",
-    "title": "\"트럼프, 혹시 부분가발 썼나?\"…'풍성 금발'에 시선 집중",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령의 '풍성한 금발'이 세간의 이목을 끌고 있다."
+      "(서울=연합뉴스) 권희원 노선웅 조다운 기자 = 국민의힘 장동혁 대표의 이른바 징계 정치 방침에 따라 중앙윤리위가 당내 비당권파 의원에 대한 징..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n3551f245",
+    "id": "n7ede3a0a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809000551108",
-    "title": "불가리아 영공 침범한 드론 폭발…우크라 모델 추정(종합)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808042000504",
+    "title": "北, 中과 밀착 속 대일 비난 강화…日견제 앞장 서나",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 유럽 발칸반도 남쪽의 불가리아에 우크라이나에서 제작된 모델과 유사한 무인항공기(UAV·드론)가 침범해 폭..."
+      "(서울=연합뉴스) 이은정 기자 = 북한이 일본의 핵정책 재검토 가능성과 연합훈련 실시 등 군사 활동을 두고 연일 강도 높은 비판을 쏟아내며 대일..."
     ],
     "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
-    "id": "n9fa623fa",
+    "id": "n73108755",
     "category": "사회",
     "source": "뉴시스",
-    "time": "51분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740486",
-    "title": "\"생산적 금융 ISA, 투자 대상 제한 문제\"",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741505",
+    "title": "[오늘의 주요일정]국회(8월9일 일요일)",
     "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 정부가 발표한 ISA(개인종합자산관리계좌) 개편안을 두고 투자 혜택은 늘렸지만 활용도는 오히려 떨어질 수 있다는 지적이 나오고 있다.",
-      "구독자 38만 명을 보유한 유튜브 채널 '홍춘욱의 경제강의노트'는 최근 정부의 ISA 개편안을 분석하며 투자자들이 주목해야 할 변화와 한계를 소개했다.",
-      "채널 운영자인 홍춘욱 박사는 이번 개편의 가장 큰 변화로 '생산적 금융 ISA' 신설을 꼽았다."
+      "[서울=뉴시스] ◇소통관 기자회견 10:00 주진우 의원, [선관위 현안 관련 기자회견]."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n9425d0a0",
+    "id": "n7aceb13e",
     "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/politics/blue_house/2026/08/09/RYDUKC36LFEI3AX24BOQ6JYVFI/",
-    "title": "‘문재인 시즌 2’ 우려 속 세금 폭탄… 민심 반발에 여권도 ‘수정론’",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741504",
+    "title": "[오늘의 주요일정]정치(8월9일 일요일)",
     "summary": [
-      "‘문재인 시즌 2’ 우려 속 세금 폭탄… 민심 반발에 여권도 ‘수정론’."
+      "[서울=뉴시스] ◇청와대【대통령】 공식일정 없음 ◇총리실【총리】 12:00 제3회 열린 브런치(국무총리 서울공관) ◇국방부【장관】 통상일정 ◇외교부【장관】 통상일정 ◇통일부【장관】 통상일정 ◇더불어민주당【당대표 직무대행 겸 원내대표】 10:00 당대표 및 최고위원 선출을 위한 강원 순회경선 합동연설회(강원 횡성군 횡성읍 문예로 75 횡성국민체육센터) 16:00 당대표 및 최고위원 선출을 위한 대구·경북 순회경선 합동연설회(대구 북구 유통단지로."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n5dcd47af",
-    "category": "사회",
+    "id": "n4d05ecb9",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/09/ZFO7QEYGLFA2RB6BVCFPNP4JRI/",
-    "title": "남편의 골프 파트너의 정체",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/09/GI4WGOLBGA4TMMRVMU4WIZDCMU/",
+    "title": "충격! 다저스 7연패 속 또 악재…프리먼 아내 응급실 이송, 병상 사진 직접 공개",
     "summary": [
-      "남편의 골프 파트너의 정체."
+      "[OSEN=손찬익 기자] LA 다저스가 연패의 늪에 빠져 있는 가운데 MVP 출신 강타자 프레디 프리먼 가족에게도 예상치 못한 악재가 찾아왔다.일본 스포츠 매체 '풀카운트'는 지난 8일(한국시간) \"프리먼의 아내 첼시가 응급실로 이송돼 치료를 받은 사실을 직접 공개했다\"고 전했다.보도에 따르면 첼시는 자신의 인스타그램 스토리를 통해 병원 침대에서 링거를 맞."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n89d53208",
+    "id": "n9f4d6d05",
     "category": "사회",
     "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/2026/08/09/TGIVJZ7V6NGG7G73AECJ5YK664/",
-    "title": "라인강변 古城에서 김봄소리의 브람스를 듣다",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/09/X5D37O6FYJGPDH3SSWTOLWTHHM/",
+    "title": "비싸서 먹기 어려웠던 민어회 한 접시, 부레 포함 3만원대 초특가 공동구매",
     "summary": [
-      "프랑크푸르트 공항서 오후 5시반 렌터카를 타고 고속도로를 달렸다.",
-      "온천 휴양지로 이름난 비스바덴을 지나자 왼편에 라인강이 나타났다.",
-      "강변의 작은 마을 가이젠하임에서 언덕을 따라 5분쯤 올라가자 포도밭이 끝없이 펼쳐졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n56db0a9b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/09/W3ITAUQ6JJE5DLCDS2SJZV47ZM/",
-    "title": "1960년대엔 “금연하면 신경질 난다” 기사도…옛 신문으로 본 담배의 추억",
-    "summary": [
-      "1960년대엔 “금연하면 신경질 난다” 기사도…옛 신문으로 본 담배의 추억."
+      "비싸서 먹기 어려웠던 민어회 한 접시, 부레 포함 3만원대 초특가 공동구매."
     ],
     "chips": [
       "#뉴스"
@@ -496,7 +491,7 @@ window.NEWS_DB = [
     "id": "ne249f2ce",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154123",
     "title": "[글로벌] AMD, AI 추론용 맞춤형 칩 스타트업 탈라스 인수",
     "summary": [
@@ -514,7 +509,7 @@ window.NEWS_DB = [
     "id": "n49824b00",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154122",
     "title": "[글로벌] 오픈AI, 챗GPT 무료 이용자에 텍스트 채팅 무제한 제공",
     "summary": [
@@ -529,7 +524,7 @@ window.NEWS_DB = [
     "id": "n4146546d",
     "category": "사회",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154121",
     "title": "[글로벌] 美, 폴리실리콘 파생상품에 15% 관세...12월부터 적용",
     "summary": [
@@ -545,7 +540,7 @@ window.NEWS_DB = [
     "id": "n27e5e94a",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026080711297",
     "title": "[오늘의 운세] 8월 9일 띠별 운세",
     "summary": [
@@ -559,7 +554,7 @@ window.NEWS_DB = [
     "id": "nf73f43bd",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026080711487",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 9일 띠별 추천 점심메뉴",
     "summary": [
@@ -573,7 +568,7 @@ window.NEWS_DB = [
     "id": "nb14e2876",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026080685637",
     "title": "[오늘의 운세] 2026년 8월 9일 별자리 운세",
     "summary": [
@@ -587,7 +582,7 @@ window.NEWS_DB = [
     "id": "n2925f89b",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260808/134441987/1",
     "title": "울산, ‘동해안 더비’ 2-0 완승…‘네게바 해트트릭’ 제주 5위 도약",
     "summary": [
@@ -601,7 +596,7 @@ window.NEWS_DB = [
     "id": "n19c5a8b9",
     "category": "사회",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260808/134441984/1",
     "title": "젤렌스키 “美와 월간 패트리엇 공급 계약”…친러 세르비아 첫 방문",
     "summary": [
@@ -616,7 +611,7 @@ window.NEWS_DB = [
     "id": "na3b857c6",
     "category": "사회",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260808/134441981/1",
     "title": "에스파, 균열 품고 이룩한 미학적 성장…‘특이점’ 너머 고척돔서 3막 열다",
     "summary": [
@@ -634,8 +629,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
