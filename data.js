@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 16:19:50
+// 마지막 업데이트: 2026-08-08 17:20:11
 window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
     "summary": [
@@ -98,12 +98,12 @@ window.NEWS_DB = [
   {
     "id": "n5c09d452",
     "category": "경제",
-    "source": "한국금융경제신문",
+    "source": "소년한국일보",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1BqOXR2TnBqanhaNF9PWVRrOXpRZDFrRjU4WGtZQ1d0S1JYU1JCbUotTUEyQmE5NzdBZDVlclFwX3pwZUxGMGJGU0Z0ckZ4c0NpckhFdzBsc0w3aDc3QVA1QW1IdW9aa3dfVdIBcEFVX3lxTE01VEEzeXJtMl85QTU0NEtoaWU4dEQ3eE9KckZFelY5bWVMdU9wdzZSaGdYZzd5UE9ObzFhaXhJcnBLbVo0Tm4wcFBsaGc2Q2FDX3IySW1qcUZQcXZLbG0xNUgzZUlJSjdEZGVfZktQSlM?oc=5",
     "title": "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는?",
     "summary": [
-      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 한국금융경제신문."
+      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 소년한국일보."
     ],
     "chips": [
       "#환율"
@@ -290,12 +290,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "techm.kr",
+    "source": "테크M",
     "time": "129일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -316,14 +316,137 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc9cc1489",
+    "id": "n8fb10dc7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741519",
+    "title": "트럼프, 놈 해임 이어 멀린 국토안보부 장관도 불만…“트럼프와 기조 달라”",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 미국 대통령은 마크웨인 멀린 국토안보부 장관에 대한 불만이 점점 커지고 있다고 월스트리트저널(WSJ)이 7일 보도했다.",
+      "트럼프 대통령은 멀린 장관에 대해 불만을 표했지만 행정부 관계자는 트럼프 대통령이 그를 해고할 계획은 없다고 밝혔다.",
+      "트럼프 대통령은 3월 크리스티 놈 국토안보부 장관을 2기 행정부 출범 이후 처음으로 장관을 해임했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n05465da5",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809000900071",
-    "title": "美 '셧다운 방지' 임시예산안 상원 통과…'유권자 ID법'은 좌절",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809001400085",
+    "title": "젤렌스키, '러와 가까운' 세르비아 첫 공식 방문",
     "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 연방정부의 일부 기능정지(셧다운)를 피하기 위한 임시예산안(CR·Continuing Resolutio..."
+      "(런던=연합뉴스) 김지연 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 8일(현지시간) 처음으로 세르비아를 공식 방문했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n397540c1",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080822460124993",
+    "title": "\"척추액 새는데 경기 강행이라니\" 美 미녀 육상 선수, 비참한 폭로 \"마사지 못 받아 몸 망가졌다\"... 협회에 소송",
+    "summary": [
+      "육상과 봅슬레이를 오가며 올림픽 무대에서 활약했던 롤로 존스가 미국 봅슬레이협회의 부실한 선수 보호 시스템을 폭로하며 소송에 나섰다.",
+      "7일(현지시간) 네덜란드 매체 '스포르트니우스'에 따르면, 논란은 지난해 미국 뉴욕주의 레이크플래시드에서 열린 봅슬레이 세계선수권대회를 앞두고 발생했다.",
+      "당시 극심한 허리 통증에 시달리던 존스는 초기 진단 및 의료 조치를 위해 미국 올림픽·패럴림픽 트레이닝 센터(OPTC) 내 스포츠 의학 클리닉에 치료 목적의 마."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ncdc2510f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "50분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740515",
+    "title": "\"올바른 가임력 정보\"…한국오가논, 임직원 교육",
+    "summary": [
+      "[서울=뉴시스]이소헌 기자 = 한국오가논이 임직원을 대상으로 생애 초기 가임력 관리의 중요성을 알리는 교육을 진행했다.",
+      "9일 한국오가논에 따르면 회사는 지난 6일 한국난임가족연합회와 서울시가 추진하는 '생식건강 체크인 캠페인'의 일환으로 임직원과 약학대학생 인턴을 대상으로 한 난임 예방 및 생식건강 교육을 진행했다.",
+      "지난해에 이어 두 번째로 열린 이번 교육은 '2030 생식건강과 가임력 보존 전략'을 주제로 진행됐다."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2d8e317f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809001000085",
+    "title": "스페인도 이탈리아 국경 검문 돌입…세우타발 갈등 고조",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 북아프리카의 스페인 자치도시 세우타로 이주민이 대거 무단 진입한 사태의 여파로 스페인이 8일(현지시간) 이탈..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb053735e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "57분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809001100072",
+    "title": "버핏 떠난 버크셔, 2분기 순익 2배로…현금 쌓기서 투자로 전환",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = '투자의 구루(스승)'로 불리는 워런 버핏(95)이 물러나고 올 1월 새 최고경영자(CEO)를 맞은 버크셔해..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ce48208",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "59분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809001200087",
+    "title": "중국, '전력난' 쿠바에 태양광 발전 키트 5천 대 기증",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 중국 정부가 전력난에 시달리는 쿠바에 소규모 태양광 발전 키트 5천 대를 기증했다고 현지 관영 쿠바데바..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3658d215",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/09/GJQTKM3BMJRWGZBWMFRTCNBZGU/",
+    "title": "'살인 폭염'에 던져진 화두 \"경기 수 줄이자\"...그럼 연봉 줄어도 괜찮은가요",
+    "summary": [
+      "[스포츠조선 김용 기자] 경기수 줄이는 것 좋은데, 그럼 연봉 줄어드는 것도 찬성인가요.",
+      "KBO리그는 전에 없던 엄청난 폭염 사태로 힘든 시간을 보내고 있다.",
+      "폭염 취소 형평성 논란에 폭염 중대 경보 지역은 무조건 취소하는 방식으로 매뉴얼을 바꿨더니, 바꾼 당일인 4일 인천 LG 트윈스-SSG 랜더스전에서 관중 심정지 사태가 일어나 큰 위기에 빠졌다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ncf3223e6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/golf/2026/08/09/GE2DQNDCGM2DIY3BME4WKOLGGQ/",
+    "title": "강채연만 있나, 우리도 우승하면 첫 감격이다...서어진-장은수 '무관의 한' 풀까 [제주 현장]",
+    "summary": [
+      "[제주=스포츠조선 김용 기자] 강채연만 주목받나, 우리도 있다! 2026시즌 KLPGA 투어 삼다수 마스터스는 커리어 첫 우승을 노리는 선수들이 최종 라운드 챔피언조에 묶였다.",
+      "2, 3라운드 연속 단독 선두 강채연이 화제다.",
+      "올시즌 1부 투어 시드가 없는 선수인데, 대기 선수로 대회에 극적 합류해 3라운드까지 12언더파 우승 도전에 나서게 됐다."
     ],
     "chips": [
       "#뉴스"
@@ -333,7 +456,7 @@ window.NEWS_DB = [
     "id": "n523ef07a",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/baseball/2026/08/09/GQ2TAMBVGYYWENZWGE3WMMJWGA/",
     "title": "트레이드 효과는 1년 뿐인가...지난해 21홀드→올해 3홀드, 폭염 휴식기에 또 1군 말소→시즌 4번째 2군행",
     "summary": [
@@ -346,24 +469,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7c05ac4e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/09/HFRTENJUMY4WEZJUG5STSMZVGE/",
-    "title": "'AOA 탈퇴' 지민, 데뷔 14년 기념 \"앨비스 영원히 소중해\"",
-    "summary": [
-      "[OSEN=오세진 기자] 전 AOA 리더이자 래퍼 지민이 AOA 팬덤 '앨비스'들에게 인사를 남겼다.9일 지민은 자신의 소셜 계정에 자신의 사진을 담은 네 컷 사진과 함께 \"14 years on, and you're all still on my mind 여전히 너희를 생각해, 영원히 소중하고, 언제나 사랑해\"라는 글귀를 적었다.네 컷 사진 속에는 지민만이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb59a4869",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260809_0003741518",
     "title": "‘축구의 신’ 아르헨티나 축구 선수 메시의 부친 지병 별세",
     "summary": [
@@ -379,7 +488,7 @@ window.NEWS_DB = [
     "id": "nece2637a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260808_0003741360",
     "title": "美 '미드호', 사상 최저 수위 기록…콜로라도강 위기 심화",
     "summary": [
@@ -392,61 +501,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1911c828",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740599",
-    "title": "\"600m 상공서 낙하산 안 펴져\"…러시아 기념행사서 숨진 공수부대원",
+    "id": "n6652361e",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080823103088657",
+    "title": "테니스계 '완벽 몸매' 4인방, 비키니 입고 한자리에 \"실물 미모 폭발\"... 윔블던 우승자 왓슨 \"인생샷 남겨준 절친에 감사\"",
     "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 러시아에서 '공수부대의 날' 시범 행사 도중, 600m 상공에서 점프한 베테랑 공수부대원이 낙하산 문제로 추락해 사망하는 참사가 발생했다.",
-      "4일(현지 시간) 영국 일간지 더선의 보도에 따르면 해당 사건은 지난 2일 모스크바 인근에서 열린 공수부대의 날 기념 시범 강하 행사 도중 일어났다.",
-      "현지 매체 및 동영상에 따르면 올해 41세인 해당 공수부대원은 약 600m 고도의 수송기에서 뛰어내렸으나 주 낙하산이 제대."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf328cf73",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260804_0003735956",
-    "title": "\"콩물 꽈배기 먹었어요\"…밥 한공기 드신겁니다",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 입맛을 떨어뜨리고 체력을 소모시키는 찜통 더위에는 시원하고 고소한 콩물에 면을 말아 먹는 콩국수가 빼놓을 수 없는 별미다.",
-      "단순히 더위를 식히는 음식이 아니라 풍부한 영양과 한의학적 효능까지 갖춘 음식으로 평가 받는다.",
-      "9일 의료계에 따르면 콩국수의 주재료인 콩은 '밭에서 나는 소고기'라 불릴 만큼 양질의 식물성 단백질이 풍부하다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n466ce632",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/08/09/HA4GMMBWME3GCMZXGQZGGM3BMM/",
-    "title": "\"열심히 춰야지\" 티아라 효민, 8살까지 매료시킨 여전한 케이팝 여신",
-    "summary": [
-      "[OSEN=오세진 기자] 티아라 효민이 본업인 아이돌 자아를 일깨우는 일화를 밝혔다.8일 효민은 자신의 소셜 계정에 여러 장의 사진을 공개했다.",
-      "효민은 청 소재의 홀터넥 상의와 청치마를 입고 검정 카디건과 블랙 백으로 매치해 심플하면서도 독특한 매력을 보였다.이날 효민은 공연을 위해 비행기를 타러 가는 중 \"오늘 기분 좋은데\"라면서 빛나는 미모를 보였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n18ed78d6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809000500108",
-    "title": "불가리아 영공 침범한 드론 폭발…우크라 모델 추정",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 유럽 발칸반도 남쪽의 불가리아에 우크라이나에서 제작된 모델과 유사한 무인항공기(UAV·드론)가 침범해 폭..."
+      "2016 윔블던 테니스 대회 혼합복식 우승자인 헤더 왓슨(34)과 동료들이 이탈리아 투스카나에서 즐긴 휴가 사진이 공개되자 화제다.",
+      "영국 '더선'은 지난 6일(한국시간) \"왓슨이 오렌지색 비키니를 입고 완벽한 자태를 뽐냈다\"며 \"그는 사진 각도를 완벽하게 잡아준 테니스 동료이자 BBC 진행자인 로라 롭슨에게 찬사를 보냈다\"고 보도했다.",
+      "왓슨은 동료 테니스 선수인 케이티 스완, 올리비아 가데키, 올리비아 니콜스와 함께 이번 여행을 떠났다."
     ],
     "chips": [
       "#뉴스"
@@ -456,7 +520,7 @@ window.NEWS_DB = [
     "id": "ne249f2ce",
     "category": "IT",
     "source": "테크M",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154123",
     "title": "[글로벌] AMD, AI 추론용 맞춤형 칩 스타트업 탈라스 인수",
     "summary": [
@@ -474,7 +538,7 @@ window.NEWS_DB = [
     "id": "n49824b00",
     "category": "IT",
     "source": "테크M",
-    "time": "52분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154122",
     "title": "[글로벌] 오픈AI, 챗GPT 무료 이용자에 텍스트 채팅 무제한 제공",
     "summary": [
@@ -489,7 +553,7 @@ window.NEWS_DB = [
     "id": "n4146546d",
     "category": "사회",
     "source": "테크M",
-    "time": "52분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154121",
     "title": "[글로벌] 美, 폴리실리콘 파생상품에 15% 관세...12월부터 적용",
     "summary": [
@@ -502,14 +566,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf6780d2f",
+    "id": "n4be7911a",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808054100009",
-    "title": "'축구의 신' 메시 부친 별세…스타 아들 뒤에 선 조용한 조력자",
+    "source": "머니투데이",
+    "time": "2시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080819425256940",
+    "title": "'X고집인가' 충격 7연패에도 마무리 교체 없다, 왜? 사령탑이 직접 입 열었다",
     "summary": [
-      "(부에노스아이레스=연합뉴스) 김선정 통신원 = '축구의 신' 리오넬 메시(39)의 아버지이자 20여년간 그의 선수 생활과 사업을 뒷받침해온 호르..."
+      "LA 다저스의 마무리 투수 에드윈 디아즈(32)가 또 무너졌다.",
+      "클로저가 흔들린 다저스는 결국 7연패 늪에 빠지고 말았다.",
+      "다저스는 8일(한국 시각) 미국 애리조나주 피닉스에 위치한 체이스필드에서 열린 애리조나 다이아몬드백스와 2026 미국 프로야구 메이저리그(MLB) 정규시즌 원정 경기에서 3-4 끝내기 패배를 당했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n34d712ab",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080819392789704",
+    "title": "'충격' 흑인 선수 세계기록 일부러 방해! 334kg 바벨 아래 무릎 넣은 보조요원... 그래놓고 \"난 인종차별주의자\"",
+    "summary": [
+      "파워리프팅 세계선수권대회에서 흑인 선수의 신기록 도전을 고의로 방해하고 인종차별적 망언을 쏟아낸 보조요원이 영구 제명과 경찰 수사를 받게 됐다.",
+      "7일(한국시간) 영국 '더선'에 따르면, 지난 6월 리투아니아에서 열린 '2026 국제파워리프팅연맹(IPF) 세계 선수권대회'에서 벨기에 국가대표 손이타 물루의 경기 중 보조요원으로 나선 에르네스타스 쿠시나스가 고의적인 방해 공작과 인종차별 발언을 일삼은 사실이 드러나 큰 파문이 일고 있다."
     ],
     "chips": [
       "#뉴스"
@@ -519,7 +600,7 @@ window.NEWS_DB = [
     "id": "n27e5e94a",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026080711297",
     "title": "[오늘의 운세] 8월 9일 띠별 운세",
     "summary": [
@@ -533,7 +614,7 @@ window.NEWS_DB = [
     "id": "nf73f43bd",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026080711487",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 9일 띠별 추천 점심메뉴",
     "summary": [
@@ -547,84 +628,11 @@ window.NEWS_DB = [
     "id": "nb14e2876",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026080685637",
     "title": "[오늘의 운세] 2026년 8월 9일 별자리 운세",
     "summary": [
       "[오늘의 운세] 2026년 8월 9일 별자리 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nde4c0e31",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2925f89b",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260808/134441987/1",
-    "title": "울산, ‘동해안 더비’ 2-0 완승…‘네게바 해트트릭’ 제주 5위 도약",
-    "summary": [
-      "프로축구 K리그1 울산HD가 ‘동해안 더비’에서 포항 스틸러스를 꺾고, 선두 경쟁에 불을 지폈다.울산은 8일 포항스틸야드에서 열린 포항과 하나은행 K리그1 2026 22라운드 원정 경기에서 서명관과 야고의 연속 골을 앞세워 2-0으로 이겼다.이 승리로 울산은 ‘동해안 더비’ 4경기 연속 무승(2무2패) 사슬을 끊고, 자존심을 세웠다.더불어 3연승을 질주한 2위 울산은 11승4무7패(승점 37)를 기록, 이날 김천 상무와 0-0으로 비긴 선두 F."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19c5a8b9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260808/134441984/1",
-    "title": "젤렌스키 “美와 월간 패트리엇 공급 계약”…친러 세르비아 첫 방문",
-    "summary": [
-      "볼로디미르 젤렌스키 대통령은 우크라이나가 미국과 패트리엇 방공 미사일 월간 공급 계약을 체결했다고 발표했다.",
-      "젤렌스키 대통령은 8일 세르비아 베오그라드에서 알렉산다르 부치치 대통령과 공동 기자회견을 갖고 이같은 계약 내용을 밝히면서도 올해 공급 물량은 예년보다 적다고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na3b857c6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260808/134441981/1",
-    "title": "에스파, 균열 품고 이룩한 미학적 성장…‘특이점’ 너머 고척돔서 3막 열다",
-    "summary": [
-      "미래학자가 예견한 기술적 도약의 순간, 즉 ‘특이점(Singularity)’은 필연적으로 기존 세계의 균열 동반한다.",
-      "8일 오후 서울 구로구 고척스카이돔에서 열린 초신성 걸그룹 ‘에스파(aespa)’의 네 번째 월드투어 ‘싱크 : 컴플렉시티(SYNK : COMPLæXITY)’는 그 붕괴를 기꺼이 끌어안고 새로운 차원으로 도약하는 눈부신 파괴의 현장이었다.‘블랙핑크(BLACKPINK)’에 이어 K-팝 걸그룹 사상 두 번째로 고척돔에 입성하며 전날."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30dc117e",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260808/134441978/1",
-    "title": "‘독일 진출’ 다름슈타트 이호재, 데뷔전 골 맛…2-2 무승부 견인",
-    "summary": [
-      "독일 무대에 진출한 이호재(26)가 데뷔전에서 골을 터뜨리며 강렬한 인상을 남겼다.이호재는 8일(한국시간) 독일 다름슈타트의 메르크 슈타디온 암 뵐렌팔토어에서 열린 홀슈타인 킬과 2026-27 독일 2.분데스리가(2부리그) 개막전에서 후반 15분 교체 출전해 한 골을 넣어 팀의 2-2 무승부를 이끌었다.벤치에서 시작한 이호재는 팀이 0-2로 끌려가던 후반 15분 핀 라켄마허를 대신해 그라운드를 밟아 유럽 무대에 공식 데뷔했다.그리고 후반 31분."
     ],
     "chips": [
       "#뉴스"
@@ -637,8 +645,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
