@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 06:33:46
+// 마지막 업데이트: 2026-08-08 07:39:49
 window.NEWS_DB = [
   {
     "id": "n9db71f7c",
@@ -20,12 +20,12 @@ window.NEWS_DB = [
   {
     "id": "n23a94137",
     "category": "IT",
-    "source": "newspim.com",
+    "source": "뉴스핌",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
     "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
     "summary": [
-      "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속' newspim.com."
+      "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속' 뉴스핌."
     ],
     "chips": [
       "#AI",
@@ -157,7 +157,7 @@ window.NEWS_DB = [
     "id": "n6aa2d332",
     "category": "경제",
     "source": "biz.chosun.com",
-    "time": "8일 전",
+    "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
@@ -202,7 +202,7 @@ window.NEWS_DB = [
     "id": "nccb73b86",
     "category": "IT",
     "source": "인베스트조선",
-    "time": "42일 전",
+    "time": "43일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
@@ -218,7 +218,7 @@ window.NEWS_DB = [
     "id": "n79d12fb6",
     "category": "부동산",
     "source": "biz.chosun.com",
-    "time": "70일 전",
+    "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
@@ -232,7 +232,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "70일 전",
+    "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -247,7 +247,7 @@ window.NEWS_DB = [
     "id": "n37646dcf",
     "category": "IT",
     "source": "유니콘팩토리",
-    "time": "71일 전",
+    "time": "72일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
@@ -261,7 +261,7 @@ window.NEWS_DB = [
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "87일 전",
+    "time": "88일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
@@ -276,7 +276,7 @@ window.NEWS_DB = [
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
-    "time": "128일 전",
+    "time": "129일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
@@ -381,259 +381,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n47fcb47b",
+    "id": "n955a3fd3",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026080815285175509",
-    "title": "전남광주 북구서 트레일러와 1t트럭 충돌 화재",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741415",
+    "title": "김희철, 거꾸로 걸린 광복절 태극기 현수막에 \"X돌았네\"",
     "summary": [
-      "8일 오전 10시 23분께 전남광주특별시 북구 연제동 첨단연신로에서 트레일러와 1t 트럭이 충돌 후 1t 트럭에서 불이 났다.이 사고로 1t 트럭 운전자 A씨(60대)가 다쳐 소방 당국에 의해 구조돼 오전 10시 53분께 병원으로 이송됐다.",
-      "소방 당국은 신고를 받고 소방대원 등 38명과 장비 12대를 투입해 진화 작업을 벌였으며 불은 오전 10시 39분께 완전 진화됐다.",
-      "소방 당국은 교통사고 충격으로 1t 트럭에서 불이 난 것으로 보고 정."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc3e1aaab",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026080815081855701",
-    "title": "여수시 오동도 해상서 모터보트 전복…1명 사망·1명 실종",
-    "summary": [
-      "전남 여수시 오동도 인근 해상에서 승선원 5명이 탄 모터보트가 전복돼 1명이 숨지고 1명이 실종되는 사고가 발생했다.8일 여수해양경찰서 등에 따르면 이날 오전 9시 54분께 여수시 오동도 인근 해상에서 1톤급 유선 모터보트가 뒤집혔다는 119 신고가 접수됐다.",
-      "당시 보트에는 선장을 포함해 모두 5명이 타고 있었다.",
-      "신고를 받고 출동한 여수해경은 경비함정과 구조대를 현장에 급파해 승선원 4명을 구조했다."
+      "[서울=뉴시스]이재훈 기자 = 그룹 '슈퍼주니어' 멤버 김희철이 상하가 뒤집힌 태극기가 프린트된 광복절 현수막에 거친 뉘앙스로 일침을 가했다.",
+      "8일 소셜 미디어 등에 따르면 한 지자체가 제81주년 광복절을 앞두고 거리에 게시한 공식 현수막 속 태극기 상하 방향이 반대로 표현돼 논란이 일었다.",
+      "'제81주년 광복절, 빛을 되찾은 그날'이라는 문구 옆 태극 문양과 괘의 위아래가 뒤집힌 상태다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5c4b88f8",
+    "id": "n2a17a6f3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808041100065",
+    "title": "민주당 인천시당위원장에 허종식 의원 선출",
+    "summary": [
+      "(인천=연합뉴스) 신민재 기자 = 더불어민주당 인천시당은 8일 인천남동체육관에서 정기당원대회를 열고 차기 시당위원장에 재선의 허종식 의원(인천 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7440bd9d",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808032851371",
+    "title": "\"셔틀콕만 있으면 친구\"…다문화가족 배드민턴대회 성황리 개최(종합)",
+    "summary": [
+      "(고양=연합뉴스) 정아란 성도현 기자 = 전국 다문화가족이 셔틀콕을 놓고 실력을 겨루는 '2026 전국 다문화가족 배드민턴대회'가 8일 경기 고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb951492e",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080815205438211",
+    "title": "'역대급 데뷔전' 韓 24세 국대 센터백, 유럽 명문 완벽히 사로잡았다 \"단 두 번 훈련했는데... 놀라운 맹활약\"",
+    "summary": [
+      "그야말로 센세이셔널한 데뷔전이었다.",
+      "벨기에 명문 클뤼프 브뤼허로 이적한 이한범(24)이 첫 경기부터 벨기에와 유럽 현지 매체들의 극찬을 받았다.",
+      "이한범은 8일(한국시간) 벨기에 브뤼허의 얀 브레이덜 스타디온에서 열린 2026~2027 벨기에 주필러리그 1라운드 코르트레이크와 개막전에 중앙 수비수로 선발 출전해 90분 풀타임을 뛰며 팀의 3-0 완승을 이끌었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7da6f16",
     "category": "사회",
     "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/08/D2VQAWRID5C47I54BQB2ROW2TM/",
-    "title": "샌프란시스코 이정후, 디트로이트전서 2타점 결승 적시타",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/08/GQ3GGMBWMFRGCYZRMRSGCYRZGM/",
+    "title": "돌아온 ‘재벌X형사2’ 정은채 합류로 웃었다..안보현 꺼드럭도 여전 [Oh!쎈 이슈]",
     "summary": [
-      "샌프란시스코 이정후, 디트로이트전서 2타점 결승 적시타."
+      "[OSEN=김채연 기자] ‘재벌X형사’가 2년 만에 새 시즌과 함께 돌아온 가운데, 첫 방송부터 순조로운 출발을 알렸다.8일 시청률조사회사 닐슨코리아에 따르면 전날 방송된 SBS ‘재벌X형사’는 전국 6.1%, 수도권 6.0%로, 시즌1 첫 회 시청률이었던 전국 5.8%보다 0.3%p 높은 수치를 기록했다.이날 방송된 ‘재벌X형사2’는 시즌1과 달라진 인물."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n00d57bac",
+    "id": "n65fb9268",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741363",
-    "title": "\"물에 들어가지 마!\" 수영하는 봉사자 본 보호소견, 물속 뛰어들었다",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808040900527",
+    "title": "강릉평지 등 강원 4곳 호우주의보 해제",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 보호소에서 지내던 강아지가 물속에 들어간 봉사자를 위험에 처한 것으로 생각해 직접 물에 뛰어드는 모습이 포착돼 화제가 되고 있다.",
-      "7일(현지시간) 반려견 전문 정보 웹사이트 도그타임에 따르면 최근 인스타그램에는 보호소 강아지 새턴이 봉사자를 따라 물속으로 들어가는 영상이 공개됐다.",
-      "영상 속 새턴은 봉사자와 함께 해변으로 나왔다."
+      "(춘천=연합뉴스) 기상청은 강릉평지·동해평지·강릉산지·동해산지에 발령했던 호우주의보를 8일 오후 4시 30분을 기해 해제한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "necb83cf9",
+    "id": "nd215abd0",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741390",
-    "title": "군산 섬에서 잇단 온열질환·고립…해경, 4명 무사 구조(종합)",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808041000527",
+    "title": "경북 포항·청송에 호우주의보 해제…문경 등 4곳 폭염경보 유지",
     "summary": [
-      "[군산=뉴시스]고석중 기자 = 주말인 8일 전북 군산 도서 지역에서 온열질환과 고립 사고가 잇따라 발생했으나, 해경의 신속한 구조로 인명 피해를 막았다.",
-      "군산해양경찰서에 따르면 이날 오전 8시40분께 여객선을 타고 명도를 찾은 40대 도보 관광객 2명이 온열질환 증세를 보인다는 신고가 접수됐다.",
-      "신고를 받은 해경은 즉시 연안구조정을 현장으로 급파해 이들의 건강 상태를 살피고 신치항으로 안전하게 이송했다."
+      "(대구=연합뉴스) 기상청은 포항·청송에 발령했던 호우주의보를 8일 오후 4시 30분을 기해 해제한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a10719a",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260808/134441731/1",
+    "title": "“생후 2일 신생아 살려라”…경찰, 퇴근길 뚫는 장면 화제",
+    "summary": [
+      "경찰이 호흡곤란증후군을 앓던 생후 2일 된 신생아를 상급병원으로 이송하는 과정이 공개돼 화제다.",
+      "경찰의 긴급 에스코트와 시민들의 길 터주기가 작은 생명을 살렸기 때문이다.",
+      "누리꾼들은 “아가야 천사들이 도와줬으니 축복받고, 예쁘게 자라야 한다”며 아기를 응원했다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n8a057699",
+    "id": "n82a0e147",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026080815274671335",
-    "title": "\"미군 수뇌부, 이란 전쟁 출구전략 모색 중\"",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741407",
+    "title": "\"손 떨림 포착\"…카라 한승연, 건강 괜찮나 팬들 '걱정'",
     "summary": [
-      "미군 수뇌부가 이란 전쟁에서 군사 옵션이 한계 상황이라는 판단하에 출구 전략을 모색하고 있는 것으로 알려졌다.",
-      "미국 CNN은 7일(현지시간) 소식통들을 인용해 댄 케인 미 합참의장이 최근 도널드 트럼프 행정부 참모들에게 미군이 이란 전쟁에서 출구 전략을 찾아야 한다는 뜻을 전달했다고 보도했다.",
-      "공습만으로는 트럼프 대통령이 공언한 목표를 달성하기 어렵고, 현재 검토 중인 무력 충돌 격화 방안이 오히려 역효과를 낼."
+      "[서울=뉴시스]이재훈 기자 = 그룹 '카라' 멤버 겸 배우 한승연의 근황 영상이 공개된 가운데, 팬들의 걱정이 이어지고 있다.",
+      "8일 가요계와 온라인 커뮤니티 등에 따르면, 최근 한승연이 자신의 생일을 맞아 팬들이 마련한 생일 카페를 방문한 모습이 담긴 영상이 확산했다.",
+      "영상 속 한승연은 케이크 촛불을 끄고 선물을 둘러보는 등 팬들과 시간을 보냈다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n167d8d4c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741394",
+    "title": "日 방위성, 장사거리 미사일·공격형 드론 확대…반격 능력 강화",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 일본 방위성이 적의 미사일 발사 거점을 공격하는 '반격 능력' 강화를 위해 장사거리 미사일의 수량과 성능을 높이고, 장거리 비행이 가능한 공격형 드론도 도입하기로 했다.",
+      "요미우리에 따르면 방위성은 7일 안보 3개 문서의 연내 개정을 앞두고 방위성이 소관하는 국가방위전략과 방위력 정비계획 등 2개 문서의 개정 골격을 공개했다.",
+      "방위성은 반격 능력과 관련해 \"양과 질을 확보하지 못하면 장래에 충분한 억지력을 유지할."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na95f68f9",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/policy/2026/08/08/2026080815573358803",
+    "title": "강릉 시간당 81.4㎜ '물폭탄'…5중 추돌·담벼락 붕괴 피해 잇따라",
+    "summary": [
+      "재대본 비상 2단계-10일까지 강원 중·남부 동해안 최대 150㎜ 이상 전망 강원 영동 지역을 중심으로 시간당 80㎜가 넘는 폭우가 쏟아지며 피해가 잇따랐다.",
+      "특히 많은 비가 집중된 강릉에선 담벼락 붕괴, 도로 침수, 빗길 추돌사고 등 여러 피해가 신고됐다.",
+      "8일 뉴스1에 따르면 이날 오전 발효됐던 강원 동해안과 산지의 호우경보가 호우주의보로 변경된 가운데 강릉·동해·삼척 평지와 산지를 중심으로 호우 특보가 유지되고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1eb5c47f",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026080816244118366",
+    "title": "오픈AI, \"사이버 공격 위험\" 우려 차세대 AI 출시 연기",
+    "summary": [
+      "오픈AI가 사이버 공격 등 보안 위험을 이유로 차세대 AI의 개발을 보류하기로 했다.",
+      "오픈AI는 7일(현지시간) 홈페이지 게시글을 통해 최근 진행한 내부 평가 결과 차세대 모델 '아스트라'가 코딩·사이버 보안 분야에서 중대한 진전을 보여 자체 안전 기준상 최고 등급인 '위험'(Critical) 수준에 도달했을 가능성이 있다고 밝혔다.",
+      "'위험' 등급은 AI 모델이 인간의 개입 없이 강력한 보안을 갖춘 다수의 핵심 시스템에서 미공개."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n2dda7880",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "15분 전",
+    "url": "https://www.hankyung.com/article/2026080819647",
+    "title": "천안 교회서 11세 아동 숨져…경찰, 학대 여부 조사",
+    "summary": [
+      "천안 교회서 11세 아동 숨져…경찰, 학대 여부 조사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3232c96e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741414",
+    "title": "與 김보미 '황희 버스하우스 제안'에 \"탁상공론·내로남불\"",
+    "summary": [
+      "[서울=뉴시스]신재현 기자 = 더불어민주당 8·17 전당대회 당대표 예비경선에 출마했다가 낙선한 김보미 전 강진군의장이 8일 황희 의원의 '청년 버스하우스' 제안에 \"탁상공론\"이라고 비판했다.",
+      "김 전 의장은 이날 페이스북에 \"장관까지 지낸 3선 민주당 국회의원이라면 청년 주거 문제의 절박함을 더 깊이 살피고, 실현 가능성과 주거의 질을 충분히 검토했어야 한다\"고 적었다.",
+      "김 전 의장은 \"황희 의원의 제안에 청년들이 분노한 이유는 본인들은 쾌적한."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nb7d01e42",
+    "id": "n0b7fcad4",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080814592850693",
+    "title": "'대반전' ERA 9.42→2.35 KIA 기적의 '이 투수' 폭염 속 대도약 이끌까",
+    "summary": [
+      "사실상 기적이라고 해도 과언이 아니다.",
+      "전반기 평균자책점 9점대에 머물렀던 투수가 후반기 2점대 평균자책점을 찍고 있다.",
+      "그 주인공은 바로 KIA 타이거즈의 대표팀 출신 좌완 투수 이의리(24)다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n415407c2",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808037500001",
-    "title": "與김보미, 황희 '버스 하우스' 제안에 \"내로남불·탁상공론\"",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/culture/2026/08/08/2026080513572417827",
+    "title": "인기 없던 소설, 다시 '역주행' 중…판매량 2배 훌쩍, 서점가에 무슨일",
     "summary": [
-      "(서울=연합뉴스) 김정진 기자 = 더불어민주당 8·17 전당대회 당 대표 예비경선에 출마했다가 낙선한 김보미 전 강진군의장은 8일 자당 황희 의..."
+      "낮은 수요와 저조한 수익성으로 서점가의 골칫덩이가 됐던 소설의 '역주행'이 시작됐다.",
+      "연초부터 주요 온라인서점의 베스트셀러 순위에서 '줄세우기'를 하더니 독자들의 선택을 받은 인기 소설가도 늘고 있다.",
+      "출판시장의 부진을 씻을 열쇠가 될 수 있다는 기대가 나온다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0da36c89",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808037600007",
-    "title": "야구인가 농구인가…덕수고, 봉황대기서 대구북구SC에 42-0 승리",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 전국고교야구대회에서 '42-0'이라는 믿기 어려운 스코어가 나왔다."
-    ],
-    "chips": [
-      "#KBO",
-      "#채용"
-    ]
-  },
-  {
-    "id": "nfb36ab4b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741385",
-    "title": "\"믿지 않아도 놀러 오세요\"…덕수궁 돌담길에 펼쳐진 가톨릭문화 한마당",
-    "summary": [
-      "[서울=뉴시스] 이수지 기자 = '2027 서울 세계청년대회(WYD)'를 1년 앞두고, 서울 덕수궁 돌담길이 천주교 영성 문화와 소통의 열기로 가득 찼다.",
-      "8일 2027 서울 세계청년대회 조직위원회가 주최하는 '2026 가톨릭문화박람회'가 덕수궁 돌담길 일대에서 막을 올렸다.",
-      "오는 9일까지 이어지는 이번 박람회는 2027 서울 WYD의 사전 행사이자 시연으로, 내년 WYD 기간 진행될 '유스 페스티벌(Youth Festival)'과 '보케셔널."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc05a2036",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808037400052",
-    "title": "경남에 찔끔 내린 비, 가뭄 해소 턱없이 부족…밀양 0.2㎜",
-    "summary": [
-      "(창원=연합뉴스) 이정훈 기자 = 8일 가뭄이 심한 경남 일부 지역에 비가 내렸으나 가뭄 해소에 턱없이 적었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc4f123f4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/08/GI2TAMRYGU3TGNJVG4ZTSY3DHE/",
-    "title": "대충격 다저스 또 졌다! 패패패패패패패 → 켈리, 사사키에 판정승",
-    "summary": [
-      "[스포츠조선 한동훈 기자] LA 다저스가 7연패에 빠졌다.",
-      "다저스는 8일(한국시각) 애리조나 체이스필드에서 열린 애리조나 다이아몬드백스와 경기에서 3대4로 졌다.",
-      "3-2로 앞선 9회말 끝내기 2점 홈런을 맞았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b125772",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741392",
-    "title": "7월 세계 식량가격 0.6%↑…곡물·설탕 강세 전환",
-    "summary": [
-      "[세종=뉴시스] 안호균 기자 = 세계 식량가격이 설탕, 곡물 가격의 반등으로 인해 플러스로 전환했다.",
-      "8일 농림축산식품부가 유엔 식량농업기구(FAO) 자료를 분석해 발표한 내용에 따르면 7월 세계식량가격지수는 전월 대비 0.6% 상승한 131.1포인트(p)를 기록했다.",
-      "올해 들어 세계 식량가격은 1월 124.1p, 2월 125.5p, 3월 128.7p, 4월 131.0p, 5월 131.0p로 상승곡선을 그리다 6월(131.1p)에는 곡물, 유제."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d68e69f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808037200060",
-    "title": "날씨 양극화…강원·경북 동해안 '폭우', 그 외 지역은 '폭염'",
-    "summary": [
-      "(전국종합=연합뉴스) 8일 강원과 경북 동해안에 단비가 내리며 폭염이 다소 누그러졌으나 그 외 지역은 35도 안팎의 폭염이 여전히 이어졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc67b3959",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260808/134441689/1",
-    "title": "서울 백화점 돌며 명품 2800만원어치 훔친 중국인 실형",
-    "summary": [
-      "서울 시내 백화점을 돌며 명품 의류 등 2800여만 원 상당의 물품을 훔친 중국인 남성이 실형을 선고받았다.부산지법 형사7단독 장기석 부장판사는 절도 혐의로 기소된 중국 국적 30대 남성에게 징역 6개월을 선고했다고 8일 밝혔다.이 남성은 지난해 8월 22~31일 서울 영등포구와 중구 일대 백화점에서 총 20차례에 걸쳐 명품 의류 등 을 훔친 혐의로 기소됐다.조사 결과 그는 백화점 매장에서 직원들의 감시가 소홀한 틈을 노려 진열된 의류를 가방에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44b77f5c",
+    "id": "n94d2ff86",
     "category": "사회",
     "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/08/G5RTCYJSGE2TKZJSGUYWKNLEGM/",
-    "title": "‘유상무♥’ 김연지 맞아? 3개월 반만에 10kg 뺐고 뼈말라 됐다",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/national/incident/2026/08/08/EQUONXBG5FCN7FEWVVYNNIVKAE/",
+    "title": "제주 양돈장서 정화조 빠진 외국인 근로자 2명 심정지",
     "summary": [
-      "[OSEN=강서정 기자] 코미디언 유상무 아내 김연지가 3개월 반만에 10kg 감량에 성공했다.",
-      "유상무는 8일 아내 김연지의 사진을 공개했다.",
-      "다이어트 비포 앤 애프터 모습이 담긴 사진이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n88d5229b",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "16분 전",
-    "url": "https://www.hankyung.com/article/2026080819477",
-    "title": "한 총리, 경북 청도 찾아 가뭄·폭염피해 점검…\"최악 시나리오 대비\"",
-    "summary": [
-      "한 총리, 경북 청도 찾아 가뭄·폭염피해 점검…\"최악 시나리오 대비\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3864f3f8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260808/134441676/1",
-    "title": "블랙핑크, ‘오늘 데뷔 10주년’ 국중박서 팬들과 만나",
-    "summary": [
-      "아이돌 그룹 ‘블랙핑크(BLACKPINK)’가 8일 데뷔 10주년을 맞았다.",
-      "멤버들은 국립중앙박물관에서 팬들과 만나 데뷔 10주년을 축하하는 행사를 갖는다.",
-      "8일 K팝 업계에 따르면 제니, 로제, 지수, 리사 등 블랙핑크 네 멤버는 이날 오후 서울 용산구 국립중앙박물관에서 열리는 팬 이벤트 ‘미트 앤드 그리트(Meet&Greet)’에 참석해 팬덤 ‘블링크’를 만난다."
+      "제주 양돈장서 정화조 빠진 외국인 근로자 2명 심정지."
     ],
     "chips": [
       "#뉴스"
@@ -652,8 +651,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
