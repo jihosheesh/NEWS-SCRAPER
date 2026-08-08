@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 22:17:34
+// 마지막 업데이트: 2026-08-08 23:18:00
 window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
     "summary": [
@@ -96,6 +96,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5c09d452",
+    "category": "경제",
+    "source": "소년한국일보",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1BqOXR2TnBqanhaNF9PWVRrOXpRZDFrRjU4WGtZQ1d0S1JYU1JCbUotTUEyQmE5NzdBZDVlclFwX3pwZUxGMGJGU0Z0ckZ4c0NpckhFdzBsc0w3aDc3QVA1QW1IdW9aa3dfVdIBcEFVX3lxTE01VEEzeXJtMl85QTU0NEtoaWU4dEQ3eE9KckZFelY5bWVMdU9wdzZSaGdYZzd5UE9ObzFhaXhJcnBLbVo0Tm4wcFBsaGc2Q2FDX3IySW1qcUZQcXZLbG0xNUgzZUlJSjdEZGVfZktQSlM?oc=5",
+    "title": "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는?",
+    "summary": [
+      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 소년한국일보."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "n0fbb40c3",
     "category": "경제",
     "source": "산경투데이",
@@ -142,12 +156,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
@@ -187,13 +201,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "IT",
-    "source": "스타트업엔(StartupN)",
+    "category": "스포츠",
+    "source": "startupn.kr",
     "time": "10일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
     ],
     "chips": [
       "#스타트업"
@@ -230,21 +244,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nabfa15b0",
-    "category": "경제",
-    "source": "YTN",
-    "time": "59일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
-    "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
-    "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
     "id": "n79d12fb6",
     "category": "부동산",
     "source": "Chosunbiz",
@@ -261,12 +260,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -276,12 +275,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "88일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -317,312 +316,320 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n24e65b2e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807094400017",
-    "title": "의약품 e-라벨, 종이 스캔본으론 '반쪽 디지털'",
-    "summary": [
-      "(서울=연합뉴스) 박상현 기자 = 의약품 효능과 주의사항 등이 기재된 전자 설명문이 종이 문서보다 가독성과 이해도가 낮다는 연구 결과가 나왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n905af19a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809005900009",
-    "title": "바이든 차남 \"아버지, 암 전이돼 고통스럽게 투병 중\"",
-    "summary": [
-      "(서울=연합뉴스) 김아람 기자 = 조 바이든 전 미국 대통령이 전립선암이 전이된 상태로 고통스럽게 투병 중이라고 바이든 전 대통령 차남 헌터 바..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n85bf14a7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807122300005",
-    "title": "진실 알면서도 외면하는 '우리'를 꼬집다…박혜수 개인전",
-    "summary": [
-      "(서울=연합뉴스) 박의래 기자 = 사람들은 진실을 모르는 것이 아니라, 때로는 알고도 외면한다.",
-      "자신이 속한 집단에 불리한 사실이라면 더 그렇다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n54dc99d9",
+    "id": "n1cb8d381",
     "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741534",
-    "title": "충북 구름 많고 최대 60㎜ 소나기…낮 최고 34도",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741542",
+    "title": "튀르키예 외무장관, \"메카 3국 방위협정은 이란이 목표 아냐 \" 밝혀",
     "summary": [
-      "[청주=뉴시스] 서주영 기자 = 일요일인 9일 충북은 구름 많고 소나기가 내리는 곳이 있겠다.",
-      "예상 강수량은 5~60㎜다.",
-      "청주기상지청에 따르면 오전 6시 기준 기온은 청주 24.7도, 충주 25.1도, 추풍령 26.2도, 제천 23.6도, 보은 22.6도 등이다."
+      "[앙카라( 튀르키예)= 신화/ 뉴시스] 차미례 기자 = 튀르키예의 하칸 피단 외무장관은 8일(현지시간) 인터뷰에서 새로 체결된 메카 3국 방위협정은 이란을 타깃으로 한 것이 아니라고 말했다.",
+      "이번 협정은 근본적으로 '방위적인 성격'이라고 강조한 피단 장관은 이 협정이 어떤 나라를 공격하는 것이 아니라 오히려 외부의 \"공격\"으로부터 서명국들을 보호하는 것이 목적이라고 거듭 밝혔다.",
+      "피단은 튀르키예 아나돌루 통신과의 인터뷰에서 \"우리가 협정 안에다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nebc474ef",
+    "id": "ne4acfef3",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741533",
-    "title": "허성범, 열애 중이었다 \"만나고 있는 상대는…\"",
+    "source": "연합뉴스",
+    "time": "2분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807049200054",
+    "title": "'뿔난' 전남광주시의회, 정무부시장 인사청문회 대응 논의",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 방송인 허성범이 연애 중임을 깜짝 고백했다.",
-      "허성범은 8일 방송된 JTBC 예능물 '아는 형님'에서 이렇게 밝혔다.",
-      "그는 이날 방송에서 연애 프로그램 섭외와 관련해 \"'나는 솔로'를 제외한 대부분의 연애 프로그램 제안을 받았다\"며 \"과거 '환승연애'는 전 연인과 미팅까지 진행했으나 부담감으로 출성을 포기했다\"고 전했다."
+      "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시의회가 정무부시장 후보자 인사청문회 대응 방안을 논의한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5cc53e8f",
+    "id": "n4a28f866",
     "category": "스포츠",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003739819",
+    "title": "땀범벅 되며 \"약 드셨어요?\"…폭염 사각지대 놓인 생활지원사[현장]",
+    "summary": [
+      "[서울=뉴시스]신유림 기자 = \"이동할 때는 정말 너무 힘들거든요.",
+      "그래도 어르신들이 반갑게 맞아주시고 딸처럼 대해주셔서 큰 보람을 느껴요.",
+      "그래서 이 일을 하는 것 같아요.\" 낮 최고기온이 39도까지 치솟은 지난 5일 오전 10시 경기 구리시 인창동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf51add31",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/list/article/all/20260809/134442162/1",
+    "title": "돈과 관련된 12가지 심리적 장애",
+    "summary": [
+      "돈과 관련된 12가지 심리적 장애."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbe8bbc9f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026080617150855561",
+    "title": "BYD, 유럽서 테슬라 추월…\"2분기 실적 턴어라운드 기대\"[주末머니]",
+    "summary": [
+      "올해 상반기 유럽 내 BYD의 판매량이 테슬라를 넘은 것으로 추정되는 가운데 2분기 실적 턴어라운드에 성공할 것으로 보인다는 전망이 나온다.",
+      "9일 하나증권은 시장조사업체 SNE리서치를 인용해 BYD의 6월 유럽 판매량이 3만9000대로 전년 동기 대비 60% 증가했고, 상반기 누적 판매는 18만5000대로 테슬라(17만2000대)를 넘어섰다고 전했다.",
+      "유럽 내 중국 브랜드의 시장 점유율은 지난해 약 11%에서 올해 1~5월 약 17%로 크게 상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c896a6f",
+    "category": "사회",
     "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807130400052",
+    "title": "'한지·우륵의 고장' 의령서 내달 5일 신반한지우륵문화축제",
+    "summary": [
+      "(의령=연합뉴스) 박영민 기자 = 경남 의령군은 내달 5일 부림면 우륵문화마당에서 '2026 의령 신반한지우륵문화축제'를 연다고 9일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n79636e01",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026080908132855053",
+    "title": "박승원 광명시장, 민선9기 첫 조직개편…“시민과의 약속 실행”",
+    "summary": [
+      "경기 광명시(시장 박승원)가 민선 9기 핵심 공약인 교통·청년·돌봄 정책에 힘을 싣기 위해 첫 조직개편을 단행했다.",
+      "교통국과 청년정책관을 신설하고 통합돌봄·균형발전 기능을 강화하는 등 박승원 시장의 공약을 실제 사업으로 옮기는 '실행형 조직'에 초점을 맞췄다.",
+      "광명시는 조직개편에 따른 11일 자 인사를 단행하고 새 조직을 본격 가동한다고 9일 밝혔다."
+    ],
+    "chips": [
+      "#재건축",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nc3a9a53a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807141200061",
+    "title": "[현장] \"벗으면 체온 38도\"…폭염·화마와 사투 벌이는 소방관들",
+    "summary": [
+      "(수원=연합뉴스) 김지원 기자 = \"10분만 입고 움직여도 온몸이 완전히 젖습니다.\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0d259ada",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/09/HA3WGNLCMU3TSNRUGIZWMYRYMU/",
+    "title": "리센느, '전참시' 역사 새로 썼다…단독 게스트 '영광' 시청률은 '하락' [美친 시청률]",
+    "summary": [
+      "[OSEN=장우영 기자] 그룹 리센느(RESCENE)가 99평 새 숙소와 음악방송 1위를 거머쥐는 순간을 공개했다.지난 8일(토) 방송된 MBC 예능 프로그램 ‘전지적 참견 시점’(기획 강영선, 연출 김윤집·전재욱·김해니·정동식·이다운, 작가 여현전) 410회에서는 1위 가수가 되어 금의환향한 리센느의 모습이 그려졌다.지난 리센느의 ‘전참시’ 방송은 대형."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n872bc532",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807134000052",
+    "title": "\"원통함 없도록\" 통영서 10∼25일 '위안부 기림의 날' 전시행사",
+    "summary": [
+      "(통영=연합뉴스) 정종호 기자 = '일본군 위안부 피해자 기림의 날'을 맞아 경남 통영에서 뜻깊은 행사가 열린다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2d80a51d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260809/134442149/1",
+    "title": "출산 경험 있으면 췌장암 위험 뚝…이유는 ‘이것’",
+    "summary": [
+      "출산 경험이 있는 여성은 그렇지 않은 여성보다 췌장암 위험이 약 30% 낮다는 연구 결과가 나왔다.9일 고려대학교 안산병원에 따르면 박주현 가정의학과 교수와 홍정용 삼성서울병원 혈액종양내과 교수 연구팀이 국내 폐경 전 여성 약 93만 명을 대상으로 출산 경험과 췌장암 발생 위험의 연관성을 분석한 결과, 출산 경험이 있는 여성은 출산 경험이 없는 여성보다 췌장암 발생 위험이 더 낮은 것으로 나타났다.췌장암은 국내 5년 상대생존율이 17.0%(20."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd6d5dcdd",
+    "category": "사회",
+    "source": "조선일보",
     "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809005800007",
-    "title": "배준호, 시즌 첫판 스토크시티 쐐기골 도움…올덤에 2-0 승리",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/09/MIZGKYLDHEZTAMBWHA3TGZRSGU/",
+    "title": "소지섭 간 자리에 공효진..'유부녀 킬러' 9.4%, 아동 성범죄자 원샷원킬 저격 [美친시청률]",
     "summary": [
-      "(서울=연합뉴스) 안홍석 기자 = 잉글랜드 프로축구 챔피언십(2부)의 스토크시티에서 뛰는 배준호가 새 시즌 첫 공식전에서 도움을 올렸다."
+      "[OSEN=최이정 기자] '유부녀 킬러' 공효진이 SBS '김부장' 소지섭의 뒤를 잇는 금토극 흥행 주자로 자리매김한 분위기다.MBC 금토드라마 ‘유부녀 킬러’가 전국 9.4%, 순간 최고 10.9%까지 치솟으며 연일 자체 최고 시청률을 경신, 주말 안방극장 동시간대 1위 자리를 굳건히 지켰다.9일 시청률 조사기관 닐슨코리아에 따르면 전날(8일) 방송된 ‘."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n719f98e8",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807095800051",
-    "title": "\"2030년 북극항로 상업 운항\"…정부, 화물 유치 방안 마련한다",
-    "summary": [
-      "(부산=연합뉴스) 이영재 기자 = 북극항로 활성화를 국정과제로 추진해온 정부가 중장기적으로 북극항로를 통해 운송할 화물 유치 방안을 마련하는 데..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf254a5bf",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260807106700061",
-    "title": "\"전세사기 피해 외국인도 지원해야\"…경기도, 국토부에 건의",
-    "summary": [
-      "(수원=연합뉴스) 최종호 기자 = 경기도는 국내에 적법하게 체류 중인 외국인 전세사기 피해자도 정부 지원을 받을 수 있도록 관련 법률과 지침의 ..."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "n4db47d2d",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808030300008",
-    "title": "[마켓스토리] 역대 최고 실적인데…웃지 못하는 증권·운용사",
-    "summary": [
-      "(서울=연합뉴스) 김태종 기자 = \"역대 최대 분기 실적, 지난 1분기 최고 실적 다시 경신\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f1dcc83",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808046400030",
-    "title": "광어 한 접시, 마트서도 2만6천원…\"폭염 속 더 오른다\"",
-    "summary": [
-      "(서울=연합뉴스) 정수연 기자 = 극한 폭염이 바다를 달구면서 일부 양식장에서 집단 폐사 피해까지 발생, 수산물 가격이 들썩이고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd18947bd",
-    "category": "부동산",
+    "id": "n767ad3f3",
+    "category": "스포츠",
     "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260729_0003728837",
-    "title": "\"녹지 핑계로 세계 유산 경관 훼손…차라리 건물을 세워라\"",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740563",
+    "title": "밖은 '찜통', 안은 '냉장고'…온도 차에 냉방병 환자 속출",
     "summary": [
-      "[서울=뉴시스] 박대로 기자 = 종묘 경관을 훼손한다며 세운4구역 재개발에 반대하는 서울 시민 600여명이 서명 운동에 참여했다.",
-      "이들은 종묘를 지키기 위해서라면 현 세운상가군 자리에 세운지구를 관통해 조성될 녹지를 희생시켜야 한다는 견해를 내놨다.",
-      "9일 서울시의회에 따르면 우리문화숨결과 국가유산활용학회, 걷고싶은도시만들기연대, 해반문화 등 단체들은 3개월여에 걸쳐 '세운4구역 개발 관련 세계유산영향평가 촉구 시민 서명 운동'을 추진했고 694."
+      "[서울=뉴시스] 조성하 기자, 김서하 인턴기자 = 연일 폭염과 열대야가 이어지면서 에어컨 사용 시간이 길어지는 가운데 두통이나 인후통, 소화불량 등 이른바 '냉방병' 증상을 호소하며 병원을 찾는 시민들이 늘고 있다.",
+      "바깥에서는 기록적인 폭염에 시달리다 실내에서는 강한 냉방에 장시간 노출되면서 실내외 온도 차가 커진 데 따른 것으로 풀이된다.",
+      "지난 5일 오전 10시께 찾은 서울 송파구 잠실동의 한 내과 대기실에는 건강검진을 받으러 온 환자들 사이."
     ],
     "chips": [
-      "#재건축"
+      "#의료"
     ]
   },
   {
-    "id": "n8949662c",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003740022",
-    "title": "박셀바이오, NK세포기반 간암 치료기술 대만 특허",
-    "summary": [
-      "[서울=뉴시스]황재희 기자 = 항암 면역치료제 전문기업 박셀바이오가 글로벌 IP(지적재산)·사업화 기반을 확대한다.",
-      "박셀바이오는 자가 자연살해(NK)세포 기반 간암 치료기술인 '자연살해세포의 신규한 제조방법 및 이를 이용한 간암 치료방법'에 대해 대만에서 특허 등록을 완료했다고 9일 밝혔다.",
-      "이번 특허는 간암 환자의 말초혈액에서 자연살해(NK)세포를 분리·증식하는 제조방법과 이를 간동맥항암주입요법(HAIC) 후 투여하는 간암 치료용 조성물에 관."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n46c89b71",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "16분 전",
-    "url": "https://www.hankyung.com/article/202608070816i",
-    "title": "신탁을 통한 가업승계, 입법의 시계가 움직일 때 [서이헌의 법과 기업]",
-    "summary": [
-      "신탁을 통한 가업승계, 입법의 시계가 움직일 때 [서이헌의 법과 기업]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf5335661",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/09/MIZWMZLCMJSDQMZQG44GIMJTGQ/",
-    "title": "‘몸값 282억’ 김하성 진짜 방출 위기인가, 타율 0.067 충격 부진→또 벤치만 달궜다…1위 애틀랜타도 2연패 수렁",
-    "summary": [
-      "[OSEN=이후광 기자] '2000만 달러(약 282억 원) 사나이' 김하성(애틀랜타 브레이브스)이 또 벤치만 달궜다.애틀랜타 브레이브스는 9일(이하 한국시간) 미국 뉴욕주 브롱스 양키스타디움에서 열린 2026 메이저리그 뉴욕 양키스와의 원정 3연전 2차전에서 4-5 석패를 당했다.내셔널리그 동부지구 1위 애틀랜타는 2연패에 빠지며 시즌 70승 47패를 기."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1e2a2063",
+    "id": "n797f5ddc",
     "category": "사회",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/09/GJQWCYJUMY4DAOBRGQ4DGYTCHA/",
-    "title": "소지섭, 오다 주운 미모가 이 정도면 저도 주세요",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740796",
+    "title": "장윤기 후폭풍…\"작은 오판도 처벌\" 형사들 술렁·위기감",
     "summary": [
-      "[OSEN=오세진 기자] 배우 소지섭이 화보 촬영장에서 '소간지'의 모습을 뽐냈다.8일 소지섭은 자신의 소셜 계정에 여러 장의 사진을 공개했다.",
-      "소지섭은 \"ㅇㅗㄷㅏㅈㅜㅇㅝㅆㄷㅏ\"라며 파일명 오류처럼 적은 글귀를 덧붙였다.소지섭은 반쯤 자연스럽게 깐 머리카락을 늘어뜨린 채 고개를 느긋이 치켜들고 바지 주머니 한쪽에 손을 넣으며 자세를 취했다."
+      "[전남광주=뉴시스]박기웅 이현행 기자 = 장윤기 여고생 살인사건 초동수사 과정에서 당시 수사팀이 증거인멸방조 등 혐의로 재판에 넘겨진 이후 광주경찰 내부가 크게 위축되고 있다.",
+      "수사 과정에서 증거를 제대로 확보·관리하지 못한 책임은 분명히 따져야 한다는 데 이견은 없지만 형사부서 기피와 숙련 인력 이탈이 가속화할 수 있다는 우려가 나온다.",
+      "9일 뉴시스 취재를 종합하면 광주경찰청 소속 일선 형사들 사이에서는 수사 과정의 작은 판단 착오나 절차상."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc7f8c037",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202607130421i",
-    "title": "해고통지서 '반송'하더니…계속 출근한다는 황당 직원 [곽용희의 인사노무노트]",
-    "summary": [
-      "해고통지서 '반송'하더니…계속 출근한다는 황당 직원 [곽용희의 인사노무노트]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n33755d0f",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608070846i",
-    "title": "1500억 수주 따내고도 '쉬쉬'…소부장 업계의 속사정",
-    "summary": [
-      "1500억 수주 따내고도 '쉬쉬'…소부장 업계의 속사정."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na6937641",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608031309i",
-    "title": "푹푹찌는 폭염에 불티…'2000원 다이소 제품' 뜻밖에 대박 [권 기자의 장바구니]",
-    "summary": [
-      "푹푹찌는 폭염에 불티…'2000원 다이소 제품' 뜻밖에 대박 [권 기자의 장바구니]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne11db376",
+    "id": "na2ac8a0d",
     "category": "IT",
-    "source": "조선비즈IT",
-    "time": "1시간 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/09/DGLIB353YFABPMTCXXTH4WKS34/",
-    "title": "[인터뷰] 문태연 카본식스 대표 “제조업 특화 로봇 파운데이션 모델 고도화 목표”",
+    "source": "연합뉴스(경제)",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807097800054",
+    "title": "전남광주투자공사 설립 난항… 제도·금융 규제에 재검토",
     "summary": [
-      "[인터뷰] 문태연 카본식스 대표 “제조업 특화 로봇 파운데이션 모델 고도화 목표”."
+      "(전남광주=연합뉴스) 장덕종 기자 = 전남광주통합특별시가 반도체 등 전략산업 육성과 기업 투자유치를 위해 추진하는 가칭 '전남광주투자공사' 설립..."
     ],
     "chips": [
-      "#뉴스"
+      "#반도체",
+      "#정책"
     ]
   },
   {
-    "id": "ne249f2ce",
+    "id": "n4a99ffb8",
     "category": "IT",
-    "source": "테크M",
-    "time": "6시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154123",
-    "title": "[글로벌] AMD, AI 추론용 맞춤형 칩 스타트업 탈라스 인수",
+    "source": "한국경제",
+    "time": "17분 전",
+    "url": "https://www.hankyung.com/article/202608071043i",
+    "title": "한달여만에 주가 반토막 난 SK하이닉스…향후 관찰 포인트는",
     "summary": [
-      "AMD가 인공지능(AI) 추론용 반도체를 개발하는 캐나다 스타트업 탈라스를 인수합니다.",
-      "AI 모델 학습뿐 아니라 실제 서비스 운영에 필요한 추론 시장이 커지는 가운데 관련 반도체 기술을 확보하려는 움직임입니다.CNBC에 따르면 AMD는 지난 6일(현지시간) 토론토에 본사를 둔 탈라스를 인수하는 확정 계약을 체결했다고 밝혔습니다.",
-      "거래 금액은 공개되지 않았습니다.탈라스는 특정 AI 모델에 맞춰 반도체 회로 자체를 설계하는 방식의 가속기를 개발하고."
+      "한달여만에 주가 반토막 난 SK하이닉스…향후 관찰 포인트는."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "ne7e4b6f9",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "17분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260808162759",
+    "title": "美상무부, 中 AI 기업 해외 '클라우드 연산 임대' 조사 착수",
+    "summary": [
+      "[지디넷코리아]미국 정부가 중국 인공지능(AI) 기업이 해외 데이터센터에 설치된 엔비디아 첨단 칩 연산능력을 임대하는 방식으로 대중 수출규제를 우회하는 실태에 대한 전면 조사에 착수했다.",
+      "중국 AI 기업 기술력이 빠르게 높아지면서 미국의 대중 반도체 제재 실효 논란이 커진 데 따른 조치다.",
+      "블룸버그 통신은 미 상무부 산업안보국(BIS)의 단속 전담 부서가 중국 AI 기업들이 해외 데이터센터를 통해 엔비디아 첨단 프로세서에 접근하는 경로를 조사하."
     ],
     "chips": [
       "#AI",
       "#반도체",
-      "#스타트업"
+      "#엔비디아",
+      "#정책"
     ]
   },
   {
-    "id": "n49824b00",
-    "category": "IT",
-    "source": "테크M",
-    "time": "6시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154122",
-    "title": "[글로벌] 오픈AI, 챗GPT 무료 이용자에 텍스트 채팅 무제한 제공",
+    "id": "n4d8c9bb9",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808023900004",
+    "title": "'병역거부자 취업금지·해고법'…위헌 소지에도 64년째 손못대",
     "summary": [
-      "오픈AI가 챗GPT 무료 이용자의 텍스트 채팅 횟수 제한을 없앱니다.",
-      "무료 이용자도 최신 경량 모델을 기본으로 사용하고 복잡한 질문에 더 많은 추론 시간을 쓰는 기능을 이용할 수 있게 됩니다.미국 IT 전문매체 더버지에 따르면 오픈AI는 지난 6일(현지시간) 무료 이용자와 월 8달러인 'Go' 요금제 이용자를 대상으로 텍스트 채팅 사용량 제한을 없애기로 했습니다.기존에는 무료 이용자가 일정 횟수 이상 대화를 하면 사용이 제한됐지만, 앞으로는 텍."
+      "(서울=연합뉴스) 조현영 기자 = 병역 의무를 거부하는 사람의 취업과 자영업을 금지하는 병역법 조항이 헌법상 근로의 권리를 침해하고 과잉금지 원..."
     ],
     "chips": [
-      "#AI"
+      "#취업"
+    ]
+  },
+  {
+    "id": "n9c3256bc",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "17분 전",
+    "url": "https://www.hankyung.com/article/2026080710246",
+    "title": "레버리지 완화에도 힘 못 쓰는 코스피…종목장세 대응 나서야 [주간전망]",
+    "summary": [
+      "레버리지 완화에도 힘 못 쓰는 코스피…종목장세 대응 나서야 [주간전망]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n05be475f",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026080615550020438",
+    "title": "[이번주 IPO]8월 둘째 주 수요예측·청약 일정",
+    "summary": [
+      "이달(8월) 둘째 주에는 스카이랩스가 기관투자자 대상 수요예측을 진행한다.",
+      "기도산업, 해치텍, 니어스랩은 일반 청약을 앞두고 있다.",
+      "<수요예측> ◆스카이랩스= 스카이랩스는 반지형 웨어러블 기술을 통해 기존 생체신호 측정 방식의 제약을 극복하고, 일상과 의료 현장을 잇는 'AI 기반 의료 데이터 생산 플랫폼 기업'이다."
+    ],
+    "chips": [
+      "#AI",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb2f5a02c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026080922607",
+    "title": "전한길, '출국금지 연장 취소해 달라' 소송했으나 패소",
+    "summary": [
+      "전한길, '출국금지 연장 취소해 달라' 소송했으나 패소."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -632,20 +639,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
