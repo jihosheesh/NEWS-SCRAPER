@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 17:20:11
+// 마지막 업데이트: 2026-08-08 18:21:33
 window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
     "summary": [
@@ -112,12 +112,12 @@ window.NEWS_DB = [
   {
     "id": "n0fbb40c3",
     "category": "경제",
-    "source": "sankyungtoday.com",
+    "source": "산경투데이",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
     "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
     "summary": [
-      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 sankyungtoday.com."
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
     ],
     "chips": [
       "#금리"
@@ -316,10 +316,84 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd6653370",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741520",
+    "title": "“美 이란전 무기 소진…북한과 분쟁시 주한 미군 취약해질 수 있어”",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 미국이 이란에 무기를 쏟아붓고 있는 가운데 러시아와 중국이 이를 주시하고 있다.",
+      "일부 분석가들은 이란 전쟁으로 미국의 무기 비축량이 고갈되면서 화력이 크게 약화되고 있어 이란 전쟁이 장기화될수록 중러에 유리하다고 보고 있다고 뉴욕타임스(NYT)는 8일 전했다.",
+      "이란전 장기화로 미국의 무기 비축량은 우려스러운 수준으로 줄어들었으며 아시아와 유럽에서 무기 공급이 차질을 빚고 있는 상황이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9425d0a0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/politics/blue_house/2026/08/09/RYDUKC36LFEI3AX24BOQ6JYVFI/",
+    "title": "‘문재인 시즌 2’ 우려 속 세금 폭탄… 민심 반발에 여권도 ‘수정론’",
+    "summary": [
+      "‘문재인 시즌 2’ 우려 속 세금 폭탄… 민심 반발에 여권도 ‘수정론’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5dcd47af",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/08/09/ZFO7QEYGLFA2RB6BVCFPNP4JRI/",
+    "title": "남편의 골프 파트너의 정체",
+    "summary": [
+      "남편의 골프 파트너의 정체."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n89d53208",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/culture-life/2026/08/09/TGIVJZ7V6NGG7G73AECJ5YK664/",
+    "title": "라인강변 古城에서 김봄소리의 브람스를 듣다",
+    "summary": [
+      "프랑크푸르트 공항서 오후 5시반 렌터카를 타고 고속도로를 달렸다.",
+      "온천 휴양지로 이름난 비스바덴을 지나자 왼편에 라인강이 나타났다.",
+      "강변의 작은 마을 가이젠하임에서 언덕을 따라 5분쯤 올라가자 포도밭이 끝없이 펼쳐졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56db0a9b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/09/W3ITAUQ6JJE5DLCDS2SJZV47ZM/",
+    "title": "1960년대엔 “금연하면 신경질 난다” 기사도…옛 신문으로 본 담배의 추억",
+    "summary": [
+      "1960년대엔 “금연하면 신경질 난다” 기사도…옛 신문으로 본 담배의 추억."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n8fb10dc7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260809_0003741519",
     "title": "트럼프, 놈 해임 이어 멀린 국토안보부 장관도 불만…“트럼프와 기조 달라”",
     "summary": [
@@ -335,7 +409,7 @@ window.NEWS_DB = [
     "id": "n05465da5",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260809001400085",
     "title": "젤렌스키, '러와 가까운' 세르비아 첫 공식 방문",
     "summary": [
@@ -346,26 +420,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n397540c1",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080822460124993",
-    "title": "\"척추액 새는데 경기 강행이라니\" 美 미녀 육상 선수, 비참한 폭로 \"마사지 못 받아 몸 망가졌다\"... 협회에 소송",
-    "summary": [
-      "육상과 봅슬레이를 오가며 올림픽 무대에서 활약했던 롤로 존스가 미국 봅슬레이협회의 부실한 선수 보호 시스템을 폭로하며 소송에 나섰다.",
-      "7일(현지시간) 네덜란드 매체 '스포르트니우스'에 따르면, 논란은 지난해 미국 뉴욕주의 레이크플래시드에서 열린 봅슬레이 세계선수권대회를 앞두고 발생했다.",
-      "당시 극심한 허리 통증에 시달리던 존스는 초기 진단 및 의료 조치를 위해 미국 올림픽·패럴림픽 트레이닝 센터(OPTC) 내 스포츠 의학 클리닉에 치료 목적의 마."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "ncdc2510f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260807_0003740515",
     "title": "\"올바른 가임력 정보\"…한국오가논, 임직원 교육",
     "summary": [
@@ -382,7 +440,7 @@ window.NEWS_DB = [
     "id": "n2d8e317f",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "56분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260809001000085",
     "title": "스페인도 이탈리아 국경 검문 돌입…세우타발 갈등 고조",
     "summary": [
@@ -396,7 +454,7 @@ window.NEWS_DB = [
     "id": "nb053735e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "57분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260809001100072",
     "title": "버핏 떠난 버크셔, 2분기 순익 2배로…현금 쌓기서 투자로 전환",
     "summary": [
@@ -410,7 +468,7 @@ window.NEWS_DB = [
     "id": "n7ce48208",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "59분 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260809001200087",
     "title": "중국, '전력난' 쿠바에 태양광 발전 키트 5천 대 기증",
     "summary": [
@@ -421,58 +479,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3658d215",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/09/GJQTKM3BMJRWGZBWMFRTCNBZGU/",
-    "title": "'살인 폭염'에 던져진 화두 \"경기 수 줄이자\"...그럼 연봉 줄어도 괜찮은가요",
-    "summary": [
-      "[스포츠조선 김용 기자] 경기수 줄이는 것 좋은데, 그럼 연봉 줄어드는 것도 찬성인가요.",
-      "KBO리그는 전에 없던 엄청난 폭염 사태로 힘든 시간을 보내고 있다.",
-      "폭염 취소 형평성 논란에 폭염 중대 경보 지역은 무조건 취소하는 방식으로 매뉴얼을 바꿨더니, 바꾼 당일인 4일 인천 LG 트윈스-SSG 랜더스전에서 관중 심정지 사태가 일어나 큰 위기에 빠졌다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ncf3223e6",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/golf/2026/08/09/GE2DQNDCGM2DIY3BME4WKOLGGQ/",
-    "title": "강채연만 있나, 우리도 우승하면 첫 감격이다...서어진-장은수 '무관의 한' 풀까 [제주 현장]",
-    "summary": [
-      "[제주=스포츠조선 김용 기자] 강채연만 주목받나, 우리도 있다! 2026시즌 KLPGA 투어 삼다수 마스터스는 커리어 첫 우승을 노리는 선수들이 최종 라운드 챔피언조에 묶였다.",
-      "2, 3라운드 연속 단독 선두 강채연이 화제다.",
-      "올시즌 1부 투어 시드가 없는 선수인데, 대기 선수로 대회에 극적 합류해 3라운드까지 12언더파 우승 도전에 나서게 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n523ef07a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/09/GQ2TAMBVGYYWENZWGE3WMMJWGA/",
-    "title": "트레이드 효과는 1년 뿐인가...지난해 21홀드→올해 3홀드, 폭염 휴식기에 또 1군 말소→시즌 4번째 2군행",
-    "summary": [
-      "[OSEN=한용섭 기자] 프로야구 KBO리그는 폭염 브레이크로 짧은 휴식기에 들어갔다.",
-      "KBO는 8일 1군 엔트리 변동을 공개했다.",
-      "롯데 투수 정철원, 삼성 외야수 이진용이 1군 엔트리에서 제외됐다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nb59a4869",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.newsis.com/view/NISX20260809_0003741518",
     "title": "‘축구의 신’ 아르헨티나 축구 선수 메시의 부친 지병 별세",
     "summary": [
@@ -485,42 +495,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nece2637a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741360",
-    "title": "美 '미드호', 사상 최저 수위 기록…콜로라도강 위기 심화",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 미국 네바다주에 위치한 호수 미드호의 수위가 사상 최저치를 기록하면서 우려를 낳고 있다.",
-      "8일(현지시간) 미국 CNN은 미드호의 수위가 낮아지면서 콜로라도강 유역의 물 부족 사태가 두드러지고 있다고 보도했다.",
-      "7일 기준 미드호의 수위는 해발 1040.5피트(약 317.1m)를 기록했는데, 90년 전 미드호가 조성된 이후 가장 낮은 수위다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6652361e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080823103088657",
-    "title": "테니스계 '완벽 몸매' 4인방, 비키니 입고 한자리에 \"실물 미모 폭발\"... 윔블던 우승자 왓슨 \"인생샷 남겨준 절친에 감사\"",
-    "summary": [
-      "2016 윔블던 테니스 대회 혼합복식 우승자인 헤더 왓슨(34)과 동료들이 이탈리아 투스카나에서 즐긴 휴가 사진이 공개되자 화제다.",
-      "영국 '더선'은 지난 6일(한국시간) \"왓슨이 오렌지색 비키니를 입고 완벽한 자태를 뽐냈다\"며 \"그는 사진 각도를 완벽하게 잡아준 테니스 동료이자 BBC 진행자인 로라 롭슨에게 찬사를 보냈다\"고 보도했다.",
-      "왓슨은 동료 테니스 선수인 케이티 스완, 올리비아 가데키, 올리비아 니콜스와 함께 이번 여행을 떠났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ne249f2ce",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154123",
     "title": "[글로벌] AMD, AI 추론용 맞춤형 칩 스타트업 탈라스 인수",
     "summary": [
@@ -538,7 +516,7 @@ window.NEWS_DB = [
     "id": "n49824b00",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154122",
     "title": "[글로벌] 오픈AI, 챗GPT 무료 이용자에 텍스트 채팅 무제한 제공",
     "summary": [
@@ -553,7 +531,7 @@ window.NEWS_DB = [
     "id": "n4146546d",
     "category": "사회",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154121",
     "title": "[글로벌] 美, 폴리실리콘 파생상품에 15% 관세...12월부터 적용",
     "summary": [
@@ -566,41 +544,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4be7911a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080819425256940",
-    "title": "'X고집인가' 충격 7연패에도 마무리 교체 없다, 왜? 사령탑이 직접 입 열었다",
-    "summary": [
-      "LA 다저스의 마무리 투수 에드윈 디아즈(32)가 또 무너졌다.",
-      "클로저가 흔들린 다저스는 결국 7연패 늪에 빠지고 말았다.",
-      "다저스는 8일(한국 시각) 미국 애리조나주 피닉스에 위치한 체이스필드에서 열린 애리조나 다이아몬드백스와 2026 미국 프로야구 메이저리그(MLB) 정규시즌 원정 경기에서 3-4 끝내기 패배를 당했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n34d712ab",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080819392789704",
-    "title": "'충격' 흑인 선수 세계기록 일부러 방해! 334kg 바벨 아래 무릎 넣은 보조요원... 그래놓고 \"난 인종차별주의자\"",
-    "summary": [
-      "파워리프팅 세계선수권대회에서 흑인 선수의 신기록 도전을 고의로 방해하고 인종차별적 망언을 쏟아낸 보조요원이 영구 제명과 경찰 수사를 받게 됐다.",
-      "7일(한국시간) 영국 '더선'에 따르면, 지난 6월 리투아니아에서 열린 '2026 국제파워리프팅연맹(IPF) 세계 선수권대회'에서 벨기에 국가대표 손이타 물루의 경기 중 보조요원으로 나선 에르네스타스 쿠시나스가 고의적인 방해 공작과 인종차별 발언을 일삼은 사실이 드러나 큰 파문이 일고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n27e5e94a",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026080711297",
     "title": "[오늘의 운세] 8월 9일 띠별 운세",
     "summary": [
@@ -614,7 +561,7 @@ window.NEWS_DB = [
     "id": "nf73f43bd",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026080711487",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 9일 띠별 추천 점심메뉴",
     "summary": [
@@ -628,11 +575,55 @@ window.NEWS_DB = [
     "id": "nb14e2876",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026080685637",
     "title": "[오늘의 운세] 2026년 8월 9일 별자리 운세",
     "summary": [
       "[오늘의 운세] 2026년 8월 9일 별자리 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2925f89b",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260808/134441987/1",
+    "title": "울산, ‘동해안 더비’ 2-0 완승…‘네게바 해트트릭’ 제주 5위 도약",
+    "summary": [
+      "프로축구 K리그1 울산HD가 ‘동해안 더비’에서 포항 스틸러스를 꺾고, 선두 경쟁에 불을 지폈다.울산은 8일 포항스틸야드에서 열린 포항과 하나은행 K리그1 2026 22라운드 원정 경기에서 서명관과 야고의 연속 골을 앞세워 2-0으로 이겼다.이 승리로 울산은 ‘동해안 더비’ 4경기 연속 무승(2무2패) 사슬을 끊고, 자존심을 세웠다.더불어 3연승을 질주한 2위 울산은 11승4무7패(승점 37)를 기록, 이날 김천 상무와 0-0으로 비긴 선두 F."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n19c5a8b9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260808/134441984/1",
+    "title": "젤렌스키 “美와 월간 패트리엇 공급 계약”…친러 세르비아 첫 방문",
+    "summary": [
+      "볼로디미르 젤렌스키 대통령은 우크라이나가 미국과 패트리엇 방공 미사일 월간 공급 계약을 체결했다고 발표했다.",
+      "젤렌스키 대통령은 8일 세르비아 베오그라드에서 알렉산다르 부치치 대통령과 공동 기자회견을 갖고 이같은 계약 내용을 밝히면서도 올해 공급 물량은 예년보다 적다고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na3b857c6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260808/134441981/1",
+    "title": "에스파, 균열 품고 이룩한 미학적 성장…‘특이점’ 너머 고척돔서 3막 열다",
+    "summary": [
+      "미래학자가 예견한 기술적 도약의 순간, 즉 ‘특이점(Singularity)’은 필연적으로 기존 세계의 균열 동반한다.",
+      "8일 오후 서울 구로구 고척스카이돔에서 열린 초신성 걸그룹 ‘에스파(aespa)’의 네 번째 월드투어 ‘싱크 : 컴플렉시티(SYNK : COMPLæXITY)’는 그 붕괴를 기꺼이 끌어안고 새로운 차원으로 도약하는 눈부신 파괴의 현장이었다.‘블랙핑크(BLACKPINK)’에 이어 K-팝 걸그룹 사상 두 번째로 고척돔에 입성하며 전날."
     ],
     "chips": [
       "#뉴스"
@@ -645,8 +636,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
