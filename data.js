@@ -1,46 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 00:50:05
+// 마지막 업데이트: 2026-08-08 02:49:29
 window.NEWS_DB = [
-  {
-    "id": "n9f669867",
-    "category": "IT",
-    "source": "edaily.co.kr",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzgyOU1wckpnS0sxX2RGN0RoSEdjZksxM2x5S013cmQxVEsyWVRuQ05MR1BEblA4YmtKMTJmSHhPbG1MYjZZdGZUdUNRUDd6bEdnb3d1N0E0bGdPbjZQSlN1ejMtVGstTXQyVWUyNFJfTzRwa3owWE1RNUdXeHNBMw?oc=5",
-    "title": "TSMC는 2나노·난야는 D램…대만 반도체 ‘AI 증설 러시’",
-    "summary": [
-      "TSMC는 2나노·난야는 D램…대만 반도체 ‘AI 증설 러시’ edaily.co.kr."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n470f4d70",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "17시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TcmlyNDdYaDBPMkFlVzlYdTZwLWNaZDVKOTZTbGhQN20tU0RWMXhSSGExS2UxMzZkYjBobGQxQjdYOENDOU5CalBkNTZiS1prVG83dmJkdnlJN2tmRFZQTEI4MURmb0FGcWxhX2dtR1lvREE?oc=5",
-    "title": "[AI 뭉쳐야 산다⑩] 두산그룹과 엔비디아 AI 시대 협업, 박정원 에너지·로보틱스·반도체 소재 아우르다",
-    "summary": [
-      "[AI 뭉쳐야 산다⑩] 두산그룹과 엔비디아 AI 시대 협업, 박정원 에너지·로보틱스·반도체 소재 아우르다 비즈니스포스트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
   {
     "id": "n9db71f7c",
     "category": "사회",
-    "source": "ajunews.com",
-    "time": "23시간 전",
+    "source": "아주경제",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG3SAVhBVV95cUxNc3NuMFZnYkdHajlweVB0NzBLX3V1SmcxSGNOQTVSblFJRUo1QVJDUTVBN1FEeGdSTGFpLXJHX2NQYV9QQXNQZkIzR3Z6R3VkN3VRZUNXelBt?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
-      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 ajunews.com."
+      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 아주경제."
     ],
     "chips": [
       "#AI",
@@ -83,7 +52,7 @@ window.NEWS_DB = [
     "id": "n310d1420",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBob0N5cVFfcGdBb3BxNVpiU0t6YW1kcThhRDdDYXRJT3ZRVEUzSGduWjc3Ym1tZUtoX1I3Mld5UGNZLVpuZ2FtblFYaHJacXZDQ3hkSlZQX1RxZw?oc=5",
     "title": "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항",
     "summary": [
@@ -93,6 +62,22 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "na3252cb5",
+    "category": "IT",
+    "source": "서울경제TV",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN0JxQ1BHUXVMWkpJc2paRkM4cUV1VS1UTU04UzhpTjRuUS1JX3FpSG82bGl0clEzbVNpNktFSU5Fd2phbWlMaUtXd2huUHMwVHZaY01NOU5fOGplRnBuS0tZNzg?oc=5",
+    "title": "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\"",
+    "summary": [
+      "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\" 서울경제TV."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#전세"
     ]
   },
   {
@@ -157,7 +142,7 @@ window.NEWS_DB = [
     "id": "nac7d261c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7일 전",
+    "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
@@ -183,6 +168,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc4b0f988",
+    "category": "IT",
+    "source": "쿠키뉴스",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
+    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
+    "summary": [
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "n56609ab4",
     "category": "IT",
     "source": "스타트업엔(StartupN)",
@@ -199,12 +201,12 @@ window.NEWS_DB = [
   {
     "id": "nc01e8f2e",
     "category": "사회",
-    "source": "viva100.com",
+    "source": "브릿지경제",
     "time": "39일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
     "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
     "summary": [
-      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 viva100.com."
+      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
     ],
     "chips": [
       "#AI",
@@ -215,12 +217,12 @@ window.NEWS_DB = [
   {
     "id": "nccb73b86",
     "category": "IT",
-    "source": "investchosun.com",
+    "source": "인베스트조선",
     "time": "42일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
     "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
     "summary": [
-      "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 investchosun.com."
+      "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 인베스트조선."
     ],
     "chips": [
       "#삼성전자",
@@ -245,12 +247,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "70일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -315,324 +317,316 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n14f77f69",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260808/134441270/1",
-    "title": "‘음성 외국인 패싸움’ 살인 피의자 송치, 6명 추가 입건",
-    "summary": [
-      "충북 음성에서 패싸움 도중 같은 국적 외국인을 흉기로 살해한 말레이시아인이 검찰에 넘겨졌다.음성경찰서는 살인 혐의로 말레이시아 국적 A(40대)씨를, 공동폭행 혐의로 같은 국적 B(20대)씨를 각각 구속 송치했다고 7일 밝혔다.A씨는 지난달 26일 오전 1시50분께 음성군 대소읍 노상에서 같은 국적의 20대 남성과 몸싸움을 벌이다 미리 준비한 흉기를 휘둘러 살해한 혐의를 받는다.B씨는 A씨와 함께 피해자를 폭행한 혐의다.경찰 조사 결과 당시 A."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n234fc063",
+    "id": "n14f5b5b7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741220",
-    "title": "\"스트레스 쌓여서\"…상품 주문 후 취소 반복한 日 여성 체포",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741222",
+    "title": "'최고령 도전' 119세 노인의 건강 비결…\"열심히 일하고 건강하게 먹기\"",
     "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 일본에서 애니메이션 굿즈를 온라인 쇼핑몰에서 대량 주문 후 반복 취소한 여성이 체포됐다.",
-      "지난 6일 일본 요미우리신문 등 매체들은 오사카시 기타구 스에히로초에 거주하는 음식점 종업원 요시다 마유(32)가 업무방해 혐의로 체포됐다고 보도했다.",
-      "요시다는 출판사 '슈에이샤'가 운영하는 온라인 쇼핑몰 '점프 캐릭터즈 스토어'에서 상품을 주문한 뒤 반복적으로 취소했다."
+      "[서울=뉴시스]이지우 인턴 기자 = 세계 최고령 생존자 기록에 도전 중인 119세 남성 호세 플로레스의 장수 비결이 주목받고 있다.",
+      "7일(현지시간) 아르헨티나 인포바에는 코스타리카 과나카스테주에 거주하는 플로레스가 건강한 식습관을 바탕으로 건강을 유지하고 있다고 보도했다.",
+      "고령의 나이가 된 플로레스는 청력이 떨어지고 한쪽 무릎 관절이 닳아 있지만, 삶의 활력을 잃지 않고 생활하는 중이다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n95b10c0a",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260808/134441267/1",
-    "title": "與 “오세훈, 정부 탓하기 앞서 본인 부동산 성적표부터 돌아봐야”",
-    "summary": [
-      "더불어민주당은 8일 오세훈 서울시장을 향해 “정부 정책을 탓하기에 앞서 지난 5년 본인이 내놓은 부동산 정책 성적표부터 돌아보라”고 했다.",
-      "이주희 민주당 원내대변인은 이날 오전 서면브리핑에서 “오세훈 서울시장이 연일 정부의 과거 정책을 겨냥해 목소리를 높이고 있다”며 이같이 말했다.",
-      "이 원내대변인은 “윤석열 정부와 오 시장 재임기가 겹친 2022년부터 2024년까지 서울의 주택 착공은 10년 평균의 절반 수준으로 떨어졌다”며 “오늘날 공급 절벽."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n273dd04a",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026080809472602058",
-    "title": "이상일 용인시장, 다낭서 ‘AI 행정’ 소개…“반도체·AI 함께 가는 시대”",
-    "summary": [
-      "베트남을 방문 중인 이상일 용인특례시장이 다낭에서 용인의 초대형 반도체 프로젝트와 인공지능(AI)을 활용한 시민 생활 지원 정책을 소개했다.",
-      "반도체 산업을 기반으로 AI·바이오까지 산업 영역을 넓히고, AI를 행정·복지·교통·안전 등에 접목하는 '용인형 AI 도시' 구상도 내놨다.",
-      "이 시장은 7일 오후(현지시간) 베트남 다낭 푸라마 리조트에서 열린 '한국과의 만남(Meet Korea in Da Nang)' 콘퍼런스에서 '용인특례시 행정."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n3e571b59",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260808/134441264/1",
-    "title": "‘하이브 새 걸그룹’ 튜이드, ‘걸스’ 퍼포먼스 공개…경쾌한 매력",
-    "summary": [
-      "하이브의 새 걸그룹 튜이드(TUIDE)가 특별한 첫인사를 선보였다.튜이드(서희, 서연, 엘레나, 지아, 사키, 세아, 이하늬)는 지난 7일 하이브 레이블즈 공식 유튜브 채널에 ‘밋 마이 걸스, 튜이드’(Meet my GRLS, TUIDE)라는 이름의 콘텐츠를 게시했다.이번 영상은 오는 24일 오후 6시 발매되는 미니 1집 ‘튠 & 플레이’(TUNE & PLAY) 수록곡 ‘걸스‘(GRLS)의 음원과 퍼포먼스를 모두 듣고 볼 수 있는 콘텐츠로 마련."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n32dae55f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260808/134441261/1",
-    "title": "김상혁, 미모의 의류 사업가와 핑크빛 분위기",
-    "summary": [
-      "그룹 ‘클릭비’ 멤버 김상혁이 소개팅을 통해 설레는 마음을 드러냈다.7일 방송된 채널A 예능 프로그램 ‘신랑수업2’에서는 ‘돌싱 입학생’ 김상혁이 쇼핑몰 CEO 전아영 씨와 첫 소개팅을 갖는 모습이 그려졌다.이날 김상혁은 꽃 선물을 준비해 잔뜩 긴장한 모습으로 약속 장소에 등장했다.",
-      "상대인 전아영 씨는 승무원과 플로리스트를 거쳐 현재 의류 쇼핑몰을 운영 중인 인물로, 맞춤 정장 숍을 운영하는 김상혁과 직업적 공감대를 형성했다.대화 초반, 김상혁."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n63098942",
+    "id": "nec90297c",
     "category": "사회",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/transport-environment/2026/08/08/F2CHIXBYNRBE5K4KXCCTEX4WSY/",
-    "title": "낮 최고 37도 무더위 계속...전국 곳곳 비",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/08/ZHI7VGBVMFAB3O4H6J2HZYL7PU/",
+    "title": "손현보 목사, 美 백악관서 트럼프 접견 “가족 초청해줘서 감사”",
     "summary": [
-      "낮 최고 37도 무더위 계속...전국 곳곳 비."
+      "손현보 목사, 美 백악관서 트럼프 접견 “가족 초청해줘서 감사”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na075f6f9",
+    "id": "n18da8420",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026080809444795570",
-    "title": "ISA엔 5년 족쇄, 주가누르기법엔 회피 구멍…정부안 질타한 李 \"전면 재검토\"",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/08/2OLVXZAARFHUVKJWN56JMFSINI/",
+    "title": "가족 생계 위해 벼랑끝 시작, 3000원 추어탕으로 연매출 150억원 대박",
     "summary": [
-      "이재명 대통령이 최근 정부가 제시한 개인종합자산관리계좌(ISA) 개편안과 이른바 '주가 누르기 방지법'에 대해 전면 재검토를 지시했다.",
-      "장기투자를 유도하겠다며 내놓은 ISA 개편안이 오히려 투자 기간과 선택권을 제약하고, 대주주의 고의적인 주가 억제를 막겠다며 마련한 제도는 까다로운 적용 요건 탓에 손쉽게 규제를 비켜갈 수 있다는 비판이 커지자 대통령이 직접 제동을 건 것이다.",
-      "이 대통령은 자본시장 활성화를 국정의."
+      "가족 생계 위해 벼랑끝 시작, 3000원 추어탕으로 연매출 150억원 대박."
     ],
     "chips": [
-      "#정책",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85572c78",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741271",
+    "title": "'데뷔전 풀타임→MOM' 이한범 \"벌써 내 집처럼 편해\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 김진엽 기자 = 한국 국가대표 수비수 이한범(24)이 벨기에 프로축구 주필러리그 클럽 브뤼헤 데뷔전에서 경기 최우수선수(MOM)에 뽑히는 맹활약을 펼쳤다.",
+      "클럽 브뤼헤는 8일(한국 시간) 벨기에 브뤼헤의 얀 브레이덜 스타디온에서 열린 코트레이크와의 2026~2027시즌 주필러리그 1라운드 홈 개막전에서 3-0 완승을 거뒀다.",
+      "전반 30분 휴고 베틀레센이 선제골을 기록한 데 이어, 후반 23분 카를루스 포브스가 2-0을 만들었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n87c4cb69",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808027200062",
+    "title": "백담사 인근 계곡 피서객 7명, 불어난 물에 고립됐다 구조",
+    "summary": [
+      "(인제=연합뉴스) 임보연 기자 = 8일 강원 인제군 북면 용대리 백담사 인근 계곡에서 피서객 7명이 불어난 물에 고립됐다가 모두 구조됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3dff7204",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026080507425850309",
+    "title": "7월에 망했던 코스닥…8월 반전 기대감 솔솔 [주末머니]",
+    "summary": [
+      "지난달 코스닥 거래 규모가 11개월 만에 가장 위축된 것으로 나타났다.",
+      "단일종목 레버리지 상장지수펀드(ETF)로 거래 쏠림현상이 나타나면서 코스닥 시장이 직격탄을 맞은 것으로 풀이된다.",
+      "다만 이달부터 단일종목 레버리지ETF 규제가 본격화하면서 코스닥 시장이 점차 살아날 것이라는 기대가 나온다.단일종목 레버리지 ETF 쏠림에 코스닥 직격탄8일 한국거래소에 따르면 지난달 코스닥 시장의 일평균 거래대금은 6조1000억원으로."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n9ebe011c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808025800005",
+    "title": "배우·관객 하나 되는 기다림의 장…연극 '개기일식 기다리기'",
+    "summary": [
+      "(서울=연합뉴스) 임순현 기자 = 연극이 시작됐지만, 객석과 무대의 경계가 허물어진 공연장은 여전히 어수선하기만 하다.",
+      "공연 내내 관객이 소란스..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n27c475d5",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026080811345914405",
+    "title": "트럼프, 대법원 제동에도 연준 이사 해임 재추진",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 연방준비제도(연준·Fed) 이사 해임을 재추진하고 나섰다.",
+      "7일(현지시간) ABC방송 등 미 언론에 따르면 백악관은 지난 5일 리사 쿡 연준 이사에게 서한을 보내 트럼프 대통령이 해임을 검토하고 있다면서 21일 내로 제기된 의혹에 대한 서면답변을 제출하라고 통보했다.",
+      "쿡 이사가 최고 30년형에 처해질 수 있는 범죄를 저질렀으며 범죄가 아니라고 해도 연준 이사로서의 신뢰성에 의문을 제기하는 과."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n2cf44d00",
+    "id": "n03551083",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260808/134441383/1",
+    "title": "엘베 타려던 휠체어 환자 발로 밀어 숨지게 한 간병인 집유, 이유는",
+    "summary": [
+      "휠체어를 탄 피해자가 엘리베이터를 타려고 하자 휠체어를 발로 밀어 숨지게 한 중국 국적의 요양병원 간병인이 항소심에서도 징역형의 집행유예를 선고받았다.8일 법조계에 따르면 수원고법 14형사부(고법판사 허양윤)는 폭행치사 혐의로 기소된 A 씨에게 원심과 같은 징역 2년, 집행유예 3년을 선고했다.",
+      "검사는 A 씨의 원심 판결에 대해 “너무 가벼워서 부당하다”며 불복해 항소했다.",
+      "하지만 항소심 재판부는 “원심과 비교해 양형의 조건에 변화가 없고 원심."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n07e6de38",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741313",
+    "title": "與 제주·인천 순회경선 최고위원 후보 신경전…\"지방선거 패배 책임져야\" \"금도 넘지 말라\"",
+    "summary": [
+      "[서울=뉴시스]정금민 권신혁 기자 = 더불어민주당 8·17 전당대회에 나선 최고위원 후보들이 8일 제주·인천 지역 순회경선에서 이재명 정부 성공을 한목소리로 강조했다.",
+      "다만 이번 당 대표 선거가 송영길·정청래·김민석 후보(기호순)의 친명(친이재명)·친청(친정청래)계 간 경쟁 구도로 형성되면서 최고위원 후보들도 이에 연대하는 '계파 대리전' 양상이 이어졌다.",
+      "친명(친이재명)계 서미화 후보는 이날 제주시 오등동 헤리티크제주에서 열린 제주 지역 순회."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9ff70b90",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808026600007",
+    "title": "35세 생일에 솔로 홈런…트라우트, MLB 최다 타이 6번째 '자축포'",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 마이크 트라우트(로스앤젤레스 에인절스)가 35번째 생일에 홈런을 터뜨리며 미국프로야구 메이저리그(MLB) 개인..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf086e8e8",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808021000062",
-    "title": "폭염에 운전면허 기능시험도 멈춘다…오후 시험 축소·중단",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808027000527",
+    "title": "경북 영덕·울진 산지에 호우주의보",
     "summary": [
-      "(원주=연합뉴스) 임보연 기자 = 연일 이어지는 폭염으로 자동차운전면허 기능시험이 한시적으로 축소되거나 중단된다."
+      "(대구=연합뉴스) 기상청은 8일 오전 11시 30분을 기해 영덕·울진 산지에 호우주의보를 발효한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3d5141fe",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/world/2026/08/08/2026080809341340805",
-    "title": "\"너무 똑똑해서 위험하다\"…오픈AI, 차세대 모델 '아스트라' 개발 중단",
+    "id": "n40e33ff8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/08/08/IHIKWQQHSVA5DCEFMH4K4UF2NE/",
+    "title": "中 광물 의존 끊겠다는 美, 4조원 투자 발표… 고려아연 제련소도 언급",
     "summary": [
-      "챗GPT 5.6 솔보다 높은 성능 가진듯…오픈AI, 보안 통제 대폭 강화 오픈AI가 차세대 AI(인공지능) 모델 아스트라 개발을 보류한다.",
-      "성능이 너무 뛰어나 이대로 모델을 공개할 경우 심각한 사이버 위험이 발생할 수 있다는 이유에서다.",
-      "오픈AI는 7일(현지시간) 홈페이지 게시글에서 \"공개를 앞두고 있는 신규 AI 모델 아스트라에 대해 지난 며칠 간 내부 평가를 진행한 결과 에이전트 기반 코딩과 사이버 보안 분야에서 상당한 기술 진전이 확인됐다."
+      "中 광물 의존 끊겠다는 美, 4조원 투자 발표… 고려아연 제련소도 언급."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5e94ad56",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741312",
+    "title": "경기도 재정난 책임 공방…추 \"도민 증가\" vs 국힘 \"李 현금 살포\"",
+    "summary": [
+      "[서울=뉴시스]우지은 기자 = 국민의힘은 8일 추미애 경기도지사가 도민 증가로 경기도 재정난이 발생했다고 말하자 \"이재명식 '포퓰리즘 현금 살포'\" 때문이라고 공세를 이어갔다.",
+      "박성훈 국민의힘 수석대변인은 이날 오전 논평을 통해 \"이번 재정 참사의 원인은 낡은 세제가 아니다.",
+      "도민과 국민이 이미 알고 있듯, 이재명 지사 시절부터 이어진 무책임한 방만 재정과 '현금 살포 정치'가 본질\"이라고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc15a9f5f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "20분 전",
+    "url": "https://view.asiae.co.kr/article/2026080811141785782",
+    "title": "44년 만에 멈춘 원전, 야경도 사라졌다…유럽을 흔든 다뉴브강 가뭄",
+    "summary": [
+      "헝가리 부다페스트의 밤을 밝히던 대표적인 관광 명소들이 일제히 불을 끄기 시작했다.",
+      "기록적인 폭염과 가뭄으로 다뉴브강 수위가 급격히 낮아지면서 전력 공급에 비상이 걸리자 헝가리 정부가 대대적인 절전에 나섰기 때문이다.",
+      "7일(현지시간) 외신들은 헝가리 정부가 수도 부다페스트의 국회의사당과 부다성, 세체니 다리 등 주요 관광 명소의 야간 경관 조명을 껐다고 보도했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n60539775",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260808/134441378/1",
+    "title": "‘폭염 비상’에 고령층·작업자 보호 총력…비상대응기구 가동",
+    "summary": [
+      "연일 계속되는 극심한 무더위에 대응해 정부가 범정부 차원의 폭염 관리 체계를 한층 강화하기로 했다.",
+      "농림축산식품부와 보건복지부, 고용노동부 등 관계 부처는 각각 비상대응기구를 설치·운영하며 고령층 및 농업 현장, 실내·외 작업장에 대한 안전 관리에 총력을 기울이기로 했다.",
+      "8일 중앙재난안전대책본부에 따르면, 이번 조치는 지난 6일 진행된 ‘폭염·가뭄 대처상황 점검회의’의 후속책이다."
+    ],
+    "chips": [
+      "#고용",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n0fc700ef",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "27분 전",
+    "url": "https://view.asiae.co.kr/article/2026080811214295911",
+    "title": "中유니트리 회장 \"휴머노이드 산업, PC 태동기와 비슷\"…성장 자신감",
+    "summary": [
+      "중국 증시 상장을 앞두고 있는 로봇업체 유니트리(위수커지)의 왕싱싱 회장이 현재 로봇 산업의 발전 단계를 과거 개인용컴퓨터(PC) 산업의 태동기에 빗대며 성장 가능성에 자신감을 나타냈다.",
+      "8일(현지시간) 중국신문망·펑파이 등 중국매체에 따르면 왕 회장은 전날 투자자 대상 온라인 행사에서 \"현재 체화지능(피지컬 인공지능) 산업은 발전 초기\"라면서 이같이 말했다.",
+      "중국 본토 증시에서 기업공개(IPO)를 추진 중인 유니트리."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "na2f73ef0",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741261",
-    "title": "부산소방, 페인트 취급사업장 186곳 '전수조사·소방검사'",
+    "id": "n1b8bd7f7",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/2026080818177",
+    "title": "김민석 \"당원 1.7만명 정보 유출 1년…관리 무능 바로잡아야\"",
     "summary": [
-      "[부산=뉴시스] 하경민 기자 = 부산소방재난본부는 지역 내 페인트 취급사업장 186곳에 대한 전수조사와 소방검사를 실시한다고 8일 밝혔다.",
-      "먼저 오는 10~28일 페인트 취급사업장 186곳을 대상으로 현황조사를 실시한다.",
-      "주택 등 다수 이용 시설과의 인접 여부 등을 중심으로 사업장별 위험도를 분류하고, 점검 우선순위를 정할 예정이다."
+      "김민석 \"당원 1.7만명 정보 유출 1년…관리 무능 바로잡아야\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne600f231",
+    "id": "na4770678",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/202608071490i",
+    "title": "트럼프 2년 차엔 주식이 춥다?…내년 '큰 장' 노리려면",
+    "summary": [
+      "트럼프 2년 차엔 주식이 춥다?…내년 '큰 장' 노리려면."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a8d215d",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "49분 전",
+    "url": "https://www.hankyung.com/article/202608071053i",
+    "title": "\"상사와 등산이요?\"…산행이 정말 조직에 도움 될까",
+    "summary": [
+      "\"상사와 등산이요?\"…산행이 정말 조직에 도움 될까."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n48f0f3e3",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/08/G4YDQYTDGMZDKNBXMMYGIYLEMM/",
-    "title": "[오피셜] 박찬호의 애슬레틱스, 단장 전격 경질! → 빌리 빈의 오른팔 출신",
+    "source": "동아일보",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260808/134441346/1",
+    "title": "이한범, 벨기에 무대 데뷔전 풀타임…MOM도 받았다",
     "summary": [
-      "[스포츠조선 한동훈 기자] 애슬레틱스가 데이비드 포스트 단장과 결별했다.",
-      "애슬레틱스는 8일(한국시각) 포스트 단장과 결별하기로 합의했다고 공식 발표했다.",
-      "댄 파인스타인 부단장이 잔여 시즌 단장 대행을 맡는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd6f36d8d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741267",
-    "title": "미 온건한 쿠바 차기 지도자 물색중-NYT",
-    "summary": [
-      "[서울=뉴시스] 강영진 기자 = 미 정부가 쿠바의 전현직 당국자들 가운데 실용주의적인 차기 지도자를 찾고 있다고 미 뉴욕타임스(NYT)가 7일(현지시각) 보도했다.",
-      "NYT는 미국 정부의 계획이 정권 교체를 추구하기보다 정권개편을 추구하는 셈이라고 지적했다.",
-      "트럼프 정부는 정보기관들에 지난 1월 미군이 니콜라스 마두로 당시 베네수엘라 대통령을 생포한 뒤 임시 대통령이 된 델시 로드리게스와 같은 유형의 인물을 쿠바에서 찾아내도록 지시했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2fa2591e",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080809303537079",
-    "title": "'돌싱' 김상혁, 소개팅녀에 \"시술 많이 하셨냐\"…이승철 \"미친 X\"",
-    "summary": [
-      "배우 겸 사업가 김상혁이 소개팅녀에게 과거 '시술'을 받은 적 있냐고 물어봐 난감한 상황이 연출됐다.",
-      "김상혁은 지난 7일 방송된 채널A '신랑수업2'에서 4살 연하 전아영과 소개팅을 했다.",
-      "소개팅은 서로 엇나가는 듯하면서도 묘하게 잘 풀려갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3ff906b6",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/economy/2026/08/08/2026080809271245799",
-    "title": "백화점서 2800만원 어치 명품 '슬쩍'…30대 중국인 6개월 실형",
-    "summary": [
-      "서울의 백화점을 돌며 2800여만원 상당의 명품 의류 등을 훔친 혐의로 재판에 넘겨진 중국인 남성이 징역형을 선고 받았다.",
-      "8일 뉴스1에 따르면 부산지법은 절도 혐의로 기소된 중국 국적의 30대 A씨에 대해 징역 6개월을 선고했다.",
-      "A씨는 지난해 8월22~31일 서울 영등포구와 중구 일대 백화점에서 총 20차례에 걸쳐 명품 의류 등 시가 2800여만원 상당의 물품을 훔친 혐의로 기소됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n69042aff",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808020700005",
-    "title": "폭탄 테러 표적 된 안보현…'재벌X형사2' 6.1% 출발",
-    "summary": [
-      "(서울=연합뉴스) 고가혜 기자 = 안보현·정은채 주연의 SBS 새 금토드라마 '재벌X형사2'가 6%대 시청률로 출발했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf896e165",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/economy/2026/08/08/2026080809172120542",
-    "title": "새벽 수원 아파트 덮친 불길…거동 불편한 90대·60대 모녀 참변",
-    "summary": [
-      "경기 수원시의 한 아파트에서 발생한 화재로 90대와 60대 모녀가 숨졌다.",
-      "8일 뉴스1에 따르면 이날 오전 4시35분쯤 경기 수원시 권선구의 13층짜리 아파트 2층에서 화재가 발생했다는 신고가 접수돼 소방당국이 출동했다.",
-      "당국은 장비 18대와 인력 54명을 투입해 화재 발생 20분만인 오전 4시56분쯤 화재를 진압했다."
-    ],
-    "chips": [
-      "#부동산",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc452b554",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808018100007",
-    "title": "더블보기에 발목 잡힌 김주형, 윈덤 챔피언십 2R서 뒷걸음",
-    "summary": [
-      "(서울=연합뉴스) 최태용 기자 = 김주형이 미국프로골프(PGA) 투어 윈덤 챔피언십(총상금 850만달러) 둘째 날 더블보기에 발목이 잡혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na0cb6cf9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808020900062",
-    "title": "동해해경청, 울릉도 80대 폐렴 환자 헬기로 강릉 긴급 이송",
-    "summary": [
-      "(동해=연합뉴스) 임보연 기자 = 동해지방해양경찰청은 울릉도에서 발생한 80대 응급환자를 헬기로 강릉까지 긴급 이송했다고 8일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n38e2bfd4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/08/ZJ6TOQCZGZDXTDCVY5W6FBFJYI/",
-    "title": "인판티노, UEFA 시절 여직원 특혜 의혹… FIFA “사실무근”",
-    "summary": [
-      "인판티노, UEFA 시절 여직원 특혜 의혹… FIFA “사실무근”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc082c255",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "19분 전",
-    "url": "https://view.asiae.co.kr/article/2026080809301091771",
-    "title": "日 \"한국 선박이 독도 주변 조사선 투입…강력 항의\"",
-    "summary": [
-      "일본 정부가 한국 조사선이 독도 주변에서 해양 조사 활동을 하고 있다며 이에 강력히 항의했다고 밝혔다.",
-      "일본 외무성은 지난 7일 \"다케시마(일본이 주장하는 독도 명칭) 서쪽의 우리나라(일본) 배타적 경제수역(EEZ)에서 한국조사선 '탐해 3호'가 와이어 같은 물체를 바닷속에 투입하고 있는 것을 확인했다\"고 발표했다.",
-      "그러면서 \"해당 조사선의 조사와 관련해 한국 측으로부터 사전 동의 등 신청은 없었다\"고 덧붙였다."
+      "한국 국가대표 수비수 이한범(24)이 벨기에 프로축구 주필러리그 클럽 브뤼헤 데뷔전에서 경기 최우수선수(MOM)에 뽑히는 맹활약을 펼쳤다.클럽 브뤼헤는 8일(한국 시간) 벨기에 브뤼헤의 얀 브레이덜 스타디온에서 열린 코트레이크와의 2026~2027시즌 주필러리그 1라운드 홈 개막전에서 3-0 완승을 거뒀다.전반 30분 휴고 베틀레센이 선제골을 기록한 데 이어, 후반 23분 카를루스 포브스가 2-0을 만들었다.그리고 후반 29분 니콜로 트레솔디가."
     ],
     "chips": [
       "#뉴스"
@@ -645,20 +639,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "고용",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
