@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 13:37:51
+// 마지막 업데이트: 2026-08-08 14:22:32
 window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
     "summary": [
@@ -171,12 +171,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
@@ -185,12 +185,12 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "kukinews.com",
+    "source": "쿠키뉴스",
     "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
     ],
     "chips": [
       "#AI",
@@ -232,12 +232,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#부동산"
@@ -304,87 +304,222 @@ window.NEWS_DB = [
   {
     "id": "nbcfe41a7",
     "category": "IT",
-    "source": "yonhapnewstv.co.kr",
+    "source": "연합뉴스TV",
     "time": "166일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 yonhapnewstv.co.kr."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
       "#스타트업"
     ]
   },
   {
-    "id": "ne249f2ce",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154123",
-    "title": "[글로벌] AMD, AI 추론용 맞춤형 칩 스타트업 탈라스 인수",
-    "summary": [
-      "AMD가 인공지능(AI) 추론용 반도체를 개발하는 캐나다 스타트업 탈라스를 인수합니다.",
-      "AI 모델 학습뿐 아니라 실제 서비스 운영에 필요한 추론 시장이 커지는 가운데 관련 반도체 기술을 확보하려는 움직임입니다.CNBC에 따르면 AMD는 지난 6일(현지시간) 토론토에 본사를 둔 탈라스를 인수하는 확정 계약을 체결했다고 밝혔습니다.",
-      "거래 금액은 공개되지 않았습니다.탈라스는 특정 AI 모델에 맞춰 반도체 회로 자체를 설계하는 방식의 가속기를 개발하고."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n49824b00",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154122",
-    "title": "[글로벌] 오픈AI, 챗GPT 무료 이용자에 텍스트 채팅 무제한 제공",
-    "summary": [
-      "오픈AI가 챗GPT 무료 이용자의 텍스트 채팅 횟수 제한을 없앱니다.",
-      "무료 이용자도 최신 경량 모델을 기본으로 사용하고 복잡한 질문에 더 많은 추론 시간을 쓰는 기능을 이용할 수 있게 됩니다.미국 IT 전문매체 더버지에 따르면 오픈AI는 지난 6일(현지시간) 무료 이용자와 월 8달러인 'Go' 요금제 이용자를 대상으로 텍스트 채팅 사용량 제한을 없애기로 했습니다.기존에는 무료 이용자가 일정 횟수 이상 대화를 하면 사용이 제한됐지만, 앞으로는 텍."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n4146546d",
+    "id": "n4e2ce894",
     "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154121",
-    "title": "[글로벌] 美, 폴리실리콘 파생상품에 15% 관세...12월부터 적용",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741510",
+    "title": "헌터 바이든 “아버지 암, 뼈 등으로 전이 고통”“사면받은 거, 좋은 선택 아냐”",
     "summary": [
-      "미국 정부가 반도체와 태양광 산업에 사용되는 폴리실리콘 관련 수입품에 15%의 관세를 부과합니다.",
-      "저가 수입품 유입을 줄이고 미국 내 생산 기반을 확대하기 위한 조치입니다.도널드 트럼프 미국 대통령은 지난 6일(현지시간) 폴리실리콘 파생상품에 15% 관세를 적용하는 내용의 포고령에 서명했습니다.트럼프 대통령은 폴리실리콘 관련 제품의 수입이 미국의 국가안보를 위협하지 않도록 관세 부과가 필요하다고 판단했다고 밝혔습니다.미국 정부는 폴리실리콘의 최."
+      "[서울=뉴시스] 구자룡 기자 = 헌터 바이든(56)은 자신이 아버지 조 바이든 전 대통령의 임기 종료를 한 달도 안 남겨두고 사면을 받은 것에 대해 “세상에서 가장 특권적인 사람이었다”며 “그러한 사면이 미국이나 아버지의 유산에 좋은 선택은 아니었다”고 인정했다.",
+      "헌터는 8일 BBC 뉴스타이트와의 인터뷰에서 바이든 전 대통령의 전립선암에 대해 “암이 퍼져 뼈와 다른 부위로 전이되었다.",
+      "매우 고통스럽고 쇠약해지고 있다”고 밝혔다."
     ],
     "chips": [
-      "#반도체",
       "#정치"
     ]
   },
   {
-    "id": "n3d1a6372",
+    "id": "n78144038",
     "category": "스포츠",
     "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/08/GY3GIMDEHA2TIM3BHFQTMM3BGE/",
-    "title": "“그리즈만의 7번, 부담스럽지 않나?” 스페인 기자의 날카로운 질문, 이강인 대답은? [현장 인터뷰]",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/08/MIZDEYZUGAZWCZJYMQ2TOMJQMU/",
+    "title": "\"0-2→4-3 대역전승\" '20세 막내온탑' 오준성 해냈다! 獨 톱랭커 꺾고 챔피언스 당당 4강행![WTT챔피언스 요코하마]",
     "summary": [
-      "[OSEN=목동, 서정환 기자] “앙투안 그리즈만이 달았던 7번이 부담스럽지 않나?”‘천재’ 이강인(25, 아틀레티코 마드리드)에게 스페인에서 온 현지 기자들도 폭발적인 관심을 보였다.",
-      "아틀레티코 마드리드는 9일 오후 8시 서울월드컵경기장에서 개최되는 ‘2026 쿠팡플레이’ 친선전에서 맨체스터 시티를 상대한다.",
-      "두 팀은 지난 2023년에도 서울에서 맞대결을."
+      "[스포츠조선 전영지 기자]남자탁구 '막내온탑' 오준성(20·한국거래소·세계 31위)이 월드테이블테니스(WTT) 챔피언스 요코하마 4강에 올랐다.",
+      "오준성은 8일 일본 요코하마 분타이 인피니티 아레나에서 펼쳐진 WTT 챔피언스 남자단식 8강에서 독일 톱랭커 당치우(세계 11위)를 풀게임 접전 끝에 4대3으로 꺾고 4강에 올랐다.",
+      "오준성은 1게임을 5-11, 2."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n5247c048",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/football/2026/08/08/MZRTCNRRMM2GKY3EMY3TQMDDGI/",
+    "title": "'네게바 해트트릭' 제주 SK, 4년 3개월 만에 전북 원정 승리…'이승우 득점' 전북 현대 3-1 제압",
+    "summary": [
+      "[스포츠조선 김가을 기자]제주 SK가 전북 현대를 제압했다.",
+      "제주 SK는 8일 전주월드컵경기장에서 열린 전북 현대와의 '하나은행 K리그1 2026' 22라운드 원정 경기에서 3대1로 이겼다.",
+      "제주(8승7무7패)는 7경기 무패를 달렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n647f7b9c",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026080822283124847",
+    "title": "여수 오동도 해상서 모터보트 전복…선장·관광객 등 2명 숨져",
+    "summary": [
+      "전남 여수 오동도 앞바다에서 관광객을 태운 모터보트가 뒤집혀 선장과 20대 관광객 등 2명이 숨졌다.",
+      "8일 오전 9시 54분께 여수시 오동도 인근 해상에서 모터보트가 전복됐다는 신고가 119에 들어왔다.",
+      "사고 선박은 오동도 주변을 운항하는 1t급 유선으로, 60대 선장과 일가족 관광객 4명이 타고 있었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd84d16be",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808054000007",
+    "title": "살아난 대전 골잡이 주민규 \"확신 있었기에 더 단단한 팀 됐다\"",
+    "summary": [
+      "(안양=연합뉴스) 오명언 기자 = 약 한 달여 만에 득점포를 가동하며 대전하나시티즌의 2연승을 이끈 '골잡이' 주민규가 부진의 터널을 지나며 팀..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nab0b33ac",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808052600005",
+    "title": "고척돔 입성 에스파, 강렬한 '쇠맛' 무대…\"꽉찬 객석 상상못해\"",
+    "summary": [
+      "(서울=연합뉴스) 김선우 기자 = \"저희가 고척돔에서 공연하고 객석을 채울 수 있을 것이라곤 상상하지 못했어요.",
+      "앞으로도 진짜 열심히 해서 발전..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n622758d7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808053900004",
+    "title": "폭염에 서울지역 전날 온열질환 사망자 2명…올해 최다",
+    "summary": [
+      "(서울=연합뉴스) 김준태 기자 = 서울 지역에 폭염이 이어지면서 이달 7일 온열질환으로 2명이 숨진 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncd0af74b",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080817384550800",
+    "title": "'제 탓입니다' 2연패 수렁에 유병훈 안양 감독 \"특정 선수 잘못 없다... 홈 패배 죄송해\" [안양 현장]",
+    "summary": [
+      "안방에서 아쉬운 패배로 2연패에 빠진 유병훈 FC안양 감독이 팬들에게 사과의 뜻을 전하며 경기력 보완을 약속했다.",
+      "안양은 8일 오후 8시 안양종합운동장에서 열린 하나은행 K리그1 2026 22라운드 홈경기에서 대전하나시티즌에 1-2로 패했다.",
+      "전반에만 주민규와 안톤에게 연속골을 허용한 안양은 후반 들어 이창용의 헤더 골로 추격에 나섰지만, 끝내 경기를 뒤집지 못하고 안방에서 고개를 숙였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf52e19e1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741492",
+    "title": "에스파, 균열 품고 이룩한 미학적 성장…'특이점' 너머 고척돔서 3막 열다",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 미래학자가 예견한 기술적 도약의 순간, 즉 '특이점(Singularity)'은 필연적으로 기존 세계의 균열 동반한다.",
+      "8일 오후 서울 구로구 고척스카이돔에서 열린 초신성 걸그룹 '에스파(aespa)'의 네 번째 월드투어 '싱크 : 컴플렉시티(SYNK : COMPLæXITY)'는 그 붕괴를 기꺼이 끌어안고 새로운 차원으로 도약하는 눈부신 파괴의 현장이었다.",
+      "'블랙핑크(BLACKPINK)'에 이어 K-팝 걸그룹 사상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb6b5929",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808051000001",
+    "title": "金 \"바람 불기 시작했다\"…鄭 \"개혁 열망에 내일 또 역전할 것\"",
+    "summary": [
+      "(서울=연합뉴스) 김정진 오규진 기자 = 더불어민주당 김민석 당 대표 후보가 8일 제주·인천 권리당원 투표에서 승리, 누적 득표 1위를 탈환하는..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8b5a4413",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "27분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/08/2026080822393850813",
+    "title": "35도 폭염 속 50분 달리기 훈련…26세 日럭비선수 사망",
+    "summary": [
+      "일본 럭비 2부리그에서 뛰는 피지 출신 럭비 선수가 훈련 도중 열사병으로 숨졌다.",
+      "8일 일본 럭비 2부리그 규슈전력 큐덴 볼텍스에 따르면 사이모니 부니랑이 선수가 의식을 회복하지 못하고 향년 26세의 나이로 세상을 떠났다.",
+      "일본에서 대학을 나온 부니랑이는 2023년부터 1부 리그 팀인 도쿄SG에서 활동하다가 지난달 규슈전력 큐덴 보텍스로 이적했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n8574590b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "36분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741508",
+    "title": "주차된 전동스쿠터서 불…진압 나선 60대 2도 화상(종합)",
+    "summary": [
+      "[무안=뉴시스]이창우 기자 = 전남광주특별시 무안군에서 주차된 전동스쿠터에서 불이 나 인근 차량 등으로 번지는 사고가 발생했다.",
+      "불을 끄려던 60대 남성은 화상을 입었다.",
+      "8일 전남광주특별시 소방본부에 따르면 이날 오후 3시께 무안군 해제면 한 마을회관 인근에 세워진 4륜 전동스쿠터에서 불이 났다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd5045d06",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "46분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741501",
+    "title": "젤렌스키 “美와 월간 패트리엇 공급 계약”…친러 세르비아 첫 방문",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 볼로디미르 젤렌스키 대통령은 우크라이나가 미국과 패트리엇 방공 미사일 월간 공급 계약을 체결했다고 발표했다.",
+      "젤렌스키 대통령은 8일 세르비아 베오그라드에서 알렉산다르 부치치 대통령과 공동 기자회견을 갖고 이같은 계약 내용을 밝히면서도 올해 공급 물량은 예년보다 적다고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "nfc92c1ca",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "8분 전",
+    "time": "53분 전",
     "url": "https://www.mt.co.kr/sports/2026/08/08/2026080817384180725",
     "title": "'10경기 만에 승리→시즌 두 번째 2연승'... 황선홍 감독 고백 \"죄송한 마음 컸다\" [안양 현장]",
     "summary": [
@@ -397,97 +532,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n39cdcfa4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/football/2026/08/08/G5SGKZLFGVRTENBQMNTDSYLFGY/",
-    "title": "'34살' 네게바 해트트릭 원맨쇼! 제주, 슈팅 33개 얻어맞고 이겼다...전북 3-1 꺾고 7경기 무패+5위 도약[오!쎈 현장]",
-    "summary": [
-      "[OSEN=전주, 고성환 기자] 제주 SK가 그 누구보다 뜨거운 여름을 보내고 있다.",
-      "전주 원정에서도 네게바(34)의 해트트릭에 힘입어 승점 3점을 획득하며 7경기 무패 행진(3승 4무)을 질주했다.제주 SK는 8일 오후 8시 전주월드컵경기장에서 열린 ‘하나은행 K리그1 2026’ 22라운드 원정 경기에서 전북현대를 3-1로 제압했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n785adc09",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741473",
-    "title": "울산, 포항과 '동해안더비'서 쾌승…선두 서울은 김천과 무승부(종합)",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = 프로축구 K리그1 울산 HD가 포항 스틸러스와의 '동해안 더비'를 잡고 선두 추격을 이어갔다.",
-      "울산은 8일 포항스틸야드에서 열린 포항과의 하나은행 K리그1 2026 22라운드 원정 경기에서 2-0으로 이겼다.",
-      "이로써 2위 울산(승점 37)은 1위 FC서울(승점 44)과의 격차를 승점 7로 좁혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na91cf015",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808052800007",
-    "title": "한국 남자배구, 중국 꺾고 동아시아선수권 결승행…9일 한일전",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 이사나예 라미레스 감독이 이끄는 한국 남자배구 대표팀(세계랭킹 26위)이 20대 초반의 젊은 선수들을 주축으로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ff98a47",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808053400007",
-    "title": "[프로축구 중간순위] 8일",
-    "summary": [
-      "[프로축구 중간순위] 8일."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd9f871ef",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808053100007",
-    "title": "K리그1 울산, 동해안 더비 2-0 완승…3연승·선두와 승점 7 차이",
-    "summary": [
-      "(서울·안양=연합뉴스) 최송아 오명언 기자 = 프로축구 K리그1 울산 HD가 포항 스틸러스와의 동해안 더비를 잡고 선두 FC서울과의 격차를 좁혔..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n15671ac1",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808053300061",
-    "title": "분당 1천600여세대 아파트서 7시간가량 정전…주민 불편",
-    "summary": [
-      "(성남=연합뉴스) 강영훈 기자 = 8일 오전 5시 46분께 경기 성남시 분당구의 1천600여 세대 규모 아파트에서 차단기 불량이 원인으로 추정되..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n29f3823e",
     "category": "경제",
     "source": "머니투데이",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/world/2026/08/08/2026080822032545652",
     "title": "이란 \"오만과 호르무즈 합의 근접…재개방은 美 배상 조건 이행돼야\"",
     "summary": [
@@ -499,90 +547,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8f66e42f",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741506",
-    "title": "폭염 속 에어컨 실외기 화재…여수 5층 아파트서 불",
-    "summary": [
-      "[여수=뉴시스]이창우 기자 = 폭염특보가 내려진 전남광주특별시에서 에어컨 실외기 과열로 추정되는 화재가 발생했다.",
-      "8일 전남광주특별시 소방본부에 따르면 이날 오후 8시1분께 여수시 웅천동의 한 아파트 5층에서 에어컨 실외기에 불이 났다는 신고가 접수됐다.",
-      "출동한 소방은 진화에 나서 오후 8시18분께 불을 완전히 껐다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n12131ad3",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741500",
-    "title": "튀르키예, 흑해 '관문' 조인다…상선 공격에 일부 통항 제한",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 튀르키예가 흑해에서 민간 선박 피격이 잇따르자 러시아와 우크라이나로 향하는 일부 선박의 통항을 제한한 것으로 알려졌다.",
-      "8일(현지시간) 튀르키예 매체 튀르키예 투데이 등 외신에 따르면 튀르키예 해안안전총국은 러시아의 주요 석유·곡물 수출항인 노보로시스크로 향하는 일부 선박에 통항 허가를 내주지 않았다.",
-      "우크라이나로 향하는 일부 선박에도 비슷한 조치가 적용되는 것으로 전해졌다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "ne71d3e3a",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "26분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/08/2026080822012544167",
-    "title": "백운산서 '80년 묵은' 천종산삼 9뿌리 발견…1억 3000만원 평가",
-    "summary": [
-      "40도에 육박하는 기록적인 폭염 속에서도 전남 광주 광양 백운산에서 80년 세월을 품은 천종산삼 가족군이 발견됐다.",
-      "8일 한국전통심마니협회에 따르면 60대 약초꾼 정 모 씨는 최근 백운산 자락 해발 800m 인근 계곡에서 모삼을 포함한 천종산삼 9뿌리를 채취했다.",
-      "백운산 일대는 암반과 마사토 토질로 이뤄져 미네랄이 풍부하며, 대를 이어 활동하는 전통 심마니들의 주요 활동지로 유명한 곳이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n42df6952",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741410",
-    "title": "이강인, 아틀레티코 유니폼 입고 첫선…맨시티도 오픈트레이닝(종합)",
-    "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 스페인 프로축구 프리메라리가 아틀레티코 마드리드로 이적한 이강인(25)이 이적 후 첫 오픈 트레이닝에서 밝은 표정으로 팬들과 호흡했다.",
-      "아틀레티코는 8일 오후 5시30분 목동종합운동장에서 2026 쿠팡플레이 시리즈 오픈 트레이닝을 가졌다.",
-      "이번 행사는 이강인의 첫 아틀레티코 오픈 트레이닝이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne53e80bd",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "35분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/08/2026080817383858712",
-    "title": "'9경기 무승→2연승 부활' 대전, 안양 2-1 격파... '드디어' 중위권 보인다 '주민규·안톤 연속골' [안양 현장리뷰]",
-    "summary": [
-      "9경기 무승 수렁에 빠졌던 대전하나시티즌이 원정길에서 FC안양을 꺾고 2연승을 달리며 반등 흐름을 이어갔다.",
-      "대전은 8일 오후 8시 안양종합운동장에서 열린 하나은행 K리그1 2026 22라운드 원정경기에서 안양에 2-1 승리를 거뒀다.",
-      "이날 승리로 대전은 6승 8무 8패(승점 26)를 기록하며 9위 자리를 지키면서 중위권 추격에 박차를 가했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n67dc5097",
     "category": "부동산",
     "source": "동아일보",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260808/134441942/1",
     "title": "폭염특보 부산 북·사상구 986호 정전…까마귀 때문에",
     "summary": [
@@ -596,7 +564,7 @@ window.NEWS_DB = [
     "id": "ne93bf3a8",
     "category": "사회",
     "source": "동아일보",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260808/134441939/1",
     "title": "이란 “호르무즈 재개방 합의 근접…美 배상 선행돼야”",
     "summary": [
@@ -611,7 +579,7 @@ window.NEWS_DB = [
     "id": "n06be53ce",
     "category": "경제",
     "source": "한국경제",
-    "time": "42분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026080820957",
     "title": "세계 최고령 도전 119세…\"장수 비결? 일하고 건강하게 먹는 것\"",
     "summary": [
@@ -625,11 +593,41 @@ window.NEWS_DB = [
     "id": "n7731d905",
     "category": "경제",
     "source": "한국경제",
-    "time": "56분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202608082084H",
     "title": "쩌렁쩌렁 노래하고 시원하게 춤췄다…에스파, 고척돔 접수한 여전사들 [리뷰]",
     "summary": [
       "쩌렁쩌렁 노래하고 시원하게 춤췄다…에스파, 고척돔 접수한 여전사들 [리뷰]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4fde0f64",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026080820917",
+    "title": "호르무즈 해협 통항 정상화 가시화…이란 \"美 배상 등 조건 충족돼야\"",
+    "summary": [
+      "호르무즈 해협 통항 정상화 가시화…이란 \"美 배상 등 조건 충족돼야\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n35f51148",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260808/134441922/1",
+    "title": "1236회 로또 1등 각 24억씩…자동 5명·수동 5명·반자동 1명",
+    "summary": [
+      "8일 제1236회 동행복권 로또 추첨 결과 12, 18, 21, 29, 34, 38이 1등 당첨 번호로 결정됐다.",
+      "2등 보너스 번호는 10이다.6개 번호를 모두 맞춘 1등 당첨자는 11명이다.",
+      "각각 24억4191만9375원을 받는다."
     ],
     "chips": [
       "#뉴스"
@@ -642,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
