@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-08 20:17:10
+// 마지막 업데이트: 2026-08-08 21:19:46
 window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
     "summary": [
@@ -112,12 +112,12 @@ window.NEWS_DB = [
   {
     "id": "n0fbb40c3",
     "category": "경제",
-    "source": "산경투데이",
+    "source": "sankyungtoday.com",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
     "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
     "summary": [
-      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 sankyungtoday.com."
     ],
     "chips": [
       "#금리"
@@ -171,12 +171,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -201,13 +201,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "IT",
-    "source": "스타트업엔(StartupN)",
+    "category": "스포츠",
+    "source": "startupn.kr",
     "time": "10일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
     ],
     "chips": [
       "#스타트업"
@@ -230,14 +230,28 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n689ba244",
+    "category": "IT",
+    "source": "플래텀(Platum)",
+    "time": "46일 전",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UU2VteUVXTFJ1bWNvYlBoeVVNbTU2aVFWeGw5cmNGUExZNVFES29EcXNlWEgtUmdvenRWcmJsVkJPUVdTam5xaA?oc=5",
+    "title": "중기부, 잠재 유니콘 50개사 선정…2년간 최대 216억 지원",
+    "summary": [
+      "중기부, 잠재 유니콘 50개사 선정…2년간 최대 216억 지원 플래텀(Platum)."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -256,20 +270,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "n37646dcf",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "72일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
-    "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -316,182 +316,251 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5e4bb314",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/09/CBCGNPMY45GCHB2SELZCNYUA3Y/",
-    "title": "거실에 펴고 자기 딱 좋은 3단 매트리스, 침대에서 잔듯 편안해",
-    "summary": [
-      "거실에 펴고 자기 딱 좋은 3단 매트리스, 침대에서 잔듯 편안해."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n944d29d7",
-    "category": "사회",
+    "id": "n82147692",
+    "category": "경제",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808041600001",
-    "title": "여야, 13일 본회의 개최 두고 신경전…'재검표 일정' 확정도 아직",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808023800008",
+    "title": "단일 레버리지 규제후 코스닥 레버리지 '날았다'…자금유입 뚜렷",
     "summary": [
-      "(서울=연합뉴스) 김정진 권희원 기자 = 여름 휴가철과 맞물려 사실상 개점 휴업 상태를 이어가고 있는 8월 임시국회가 이르면 13일부터 본격 가..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6622ca46",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/09/IZGAGNT3LZB37G4FPENFMCOATU/",
-    "title": "장수 위해 매일 먹어야 하는 토마토, 양구에서 수확 즉시 가장 신선할 때 산지 직송",
-    "summary": [
-      "장수 위해 매일 먹어야 하는 토마토, 양구에서 수확 즉시 가장 신선할 때 산지 직송."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb5d1514b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808051600001",
-    "title": "'金 2연승이냐, 鄭 재역전이냐'…與, 오늘 강원·TK서 순회경선",
-    "summary": [
-      "(서울=연합뉴스) 김정진 기자 = 더불어민주당은 9일 차기 지도부 선출을 위한 8·17 전당대회의 강원 및 대구·경북(TK) 지역 순회 경선을 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00d4bfeb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741450",
-    "title": "일요일 인천, 최고 체감온도 35도 안팎…\"폭염 지속\"",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 9일 인천은 여전히 일 최고 체감온도가 35도에 육박하는 더위가 이어지겠다.",
-      "하늘은 중국 북동지방에 위치한 고기압의 가장자리에 들어 오전부터 구름 많아지겠다.",
-      "수도권기상청은 \"아침 최저기온은 25도, 낮 최고기온은 34도 내외의 분포를 보이겠다\"며 \"당분간 일최고체감온도가 35도 안팎으로 오르면서 매우 무덥겠다\"고 예보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74da2b3e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260807_0003741144",
-    "title": "만성골수성백혈병, 생존넘어 관리로…장벽은 '이것'",
-    "summary": [
-      "[서울=뉴시스]황재희 기자 = 만성골수성백혈병(CML)은 표적치료제 도입 이후 환자의 생존율이 크게 향상되면서 장기간 안정적으로 관리할 수 있는 질환으로 자리 잡았다.",
-      "과거에는 생존 자체가 목표였다면, 지금은 얼마나 꾸준히 병을 조절하며 치료를 이어가느냐가 중요한 과제로 떠올랐다.",
-      "9일 관련 업계에 따르면, 이런 변화가 제도에도 반영돼 올해 7월부터 만성골수성백혈병 산정특례(병원비 부담을 낮춰주는 건강보험 제도) 재등록 기준이 완화됐다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nea4204c3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808046700001",
-    "title": "국힘 비당권파 4인 징계 급가속…張, '막말·논란' 앞세워 역공",
-    "summary": [
-      "(서울=연합뉴스) 권희원 노선웅 조다운 기자 = 국민의힘 장동혁 대표의 이른바 징계 정치 방침에 따라 중앙윤리위가 당내 비당권파 의원에 대한 징..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7ede3a0a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260808042000504",
-    "title": "北, 中과 밀착 속 대일 비난 강화…日견제 앞장 서나",
-    "summary": [
-      "(서울=연합뉴스) 이은정 기자 = 북한이 일본의 핵정책 재검토 가능성과 연합훈련 실시 등 군사 활동을 두고 연일 강도 높은 비판을 쏟아내며 대일..."
+      "(서울=연합뉴스) 고은지 기자 = 지난달 말부터 최근까지 코스닥 지수 레버리지 수익률이 60%를 웃도는 급등세를 나타낸 것으로 나타났다."
     ],
     "chips": [
       "#정책"
     ]
   },
   {
-    "id": "n73108755",
+    "id": "ne284af20",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741505",
-    "title": "[오늘의 주요일정]국회(8월9일 일요일)",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808053200003",
+    "title": "국산차 파고드는 중국 기술력…르노 9천500억·KGM 1천억 지출",
     "summary": [
-      "[서울=뉴시스] ◇소통관 기자회견 10:00 주진우 의원, [선관위 현안 관련 기자회견]."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7aceb13e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741504",
-    "title": "[오늘의 주요일정]정치(8월9일 일요일)",
-    "summary": [
-      "[서울=뉴시스] ◇청와대【대통령】 공식일정 없음 ◇총리실【총리】 12:00 제3회 열린 브런치(국무총리 서울공관) ◇국방부【장관】 통상일정 ◇외교부【장관】 통상일정 ◇통일부【장관】 통상일정 ◇더불어민주당【당대표 직무대행 겸 원내대표】 10:00 당대표 및 최고위원 선출을 위한 강원 순회경선 합동연설회(강원 횡성군 횡성읍 문예로 75 횡성국민체육센터) 16:00 당대표 및 최고위원 선출을 위한 대구·경북 순회경선 합동연설회(대구 북구 유통단지로."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4d05ecb9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/09/GI4WGOLBGA4TMMRVMU4WIZDCMU/",
-    "title": "충격! 다저스 7연패 속 또 악재…프리먼 아내 응급실 이송, 병상 사진 직접 공개",
-    "summary": [
-      "[OSEN=손찬익 기자] LA 다저스가 연패의 늪에 빠져 있는 가운데 MVP 출신 강타자 프레디 프리먼 가족에게도 예상치 못한 악재가 찾아왔다.일본 스포츠 매체 '풀카운트'는 지난 8일(한국시간) \"프리먼의 아내 첼시가 응급실로 이송돼 치료를 받은 사실을 직접 공개했다\"고 전했다.보도에 따르면 첼시는 자신의 인스타그램 스토리를 통해 병원 침대에서 링거를 맞."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9f4d6d05",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/09/X5D37O6FYJGPDH3SSWTOLWTHHM/",
-    "title": "비싸서 먹기 어려웠던 민어회 한 접시, 부레 포함 3만원대 초특가 공동구매",
-    "summary": [
-      "비싸서 먹기 어려웠던 민어회 한 접시, 부레 포함 3만원대 초특가 공동구매."
+      "(서울=연합뉴스) 홍규빈 기자 = 국내 중견 완성차업체를 중심으로 중국 자동차 기술에 대한 의존도가 빠르게 높아지고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "n97b34c7c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808028600030",
+    "title": "[반려동물] \"버려지고 옥상·차량에 방치되고\"…폭염 속 신음하는 동물들",
+    "summary": [
+      "(서울=연합뉴스) 김세린 기자 = 연일 이어지는 폭염과 휴가철이 맞물리면서 반려동물 유기·유실이 늘고, 야외나 차량 등에 방치되는 사례도 잇따르..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf4da652b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/national/people/2026/08/09/XZPTQHN6ABHH7NUY7A6YTJMKUE/",
+    "title": "“주방이 엉망입니다”… 격분한 정희자 회장은 접시를 쓸어버렸다",
+    "summary": [
+      "“주방이 엉망입니다”… 격분한 정희자 회장은 접시를 쓸어버렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1dd60f0e",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807119900017",
+    "title": "네이버는 AI 인프라, 카카오는 에이전트…엇갈린 승부수",
+    "summary": [
+      "(서울=연합뉴스) 한상용 기자 = 국내 양대 플랫폼 기업 네이버와 카카오가 인공지능(AI) 경쟁력 확보를 위한 연구개발(R&amp;D) 투자를 ..."
+    ],
+    "chips": [
+      "#AI",
+      "#네이버",
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n7ba031d5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741523",
+    "title": "美 ICE 현장 요원, 이달말까지 전원 바디 카메라 지급…“영상 공개는 ICE 결정”",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 미국 이민세관집행국(ICE)은 8일 현장에 투입되는 모든 요원들에게 이달말까지 바디 카메라를 지급할 것이라고 밝혔다.",
+      "이러한 신속한 확대는 연방 정부의 이민 단속 작전에 대한 전례없는 시각적 기록을 제공할 수 있을 것으로 보인다고 AP통신은 보도했다.",
+      "하지만 해당 영상이 대중에게 공개될지 여부는 ICE의 결정에 달려 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n726c9c04",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260807147900003",
+    "title": "SK하이닉스 통합노조 신설 추진…구성원간 성과급 불만 확산",
+    "summary": [
+      "(서울=연합뉴스) 강태우 기자 = 반도체 호황 속 성과급 체계를 둘러싼 논란이 이어지는 가운데 SK하이닉스[000660]에서 전임직(생산직)·기..."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n04fc8fc8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741276",
+    "title": "전력수요 또 역대 5위 경신…공급예비율 9%로 '한자릿수'[폭염 속 경제는②]",
+    "summary": [
+      "[세종=뉴시스]손차민 기자 = 전례 없는 폭염에 지난 7일 최대 전력수요가 95.3GW(기가와트)까지 치솟아 역대 5위 기록을 하루 만에 경신했다.",
+      "이날 공급예비율도 9%까지 떨어지며 전력 당국의 통상적인 관리 기준인 10%를 밑돌았다.",
+      "전력 당국이 올해 피크 시점으로 전망한 8월 셋째주를 앞두고 수요가 가파르게 증가하면서 전력수급에 대한 긴장감도 커지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44629126",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808034200530",
+    "title": "검사 없는 중수청 합동수사과…조직·정원 어떻게 구성되나",
+    "summary": [
+      "(서울=연합뉴스) 차민지 홍준석 기자 = 오는 10월 출범하는 중대범죄수사청(중수청)에는 경찰과 국세청, 금융당국 등 관계기관이 참여하는 합동수..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nccab9f06",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260807_0003740865",
+    "title": "외로운 노년…60세 이상 10명 중 3명 \"대화 상대가 없다\"",
+    "summary": [
+      "[서울=뉴시스] 구무서 기자 = 우리나라 고령층 10명 중 3명은 이야기를 할 상대가 없는 사회적 고립 상태인 것으로 나타났다.",
+      "9일 김은하 한국사회보장정보원 연구센터장이 최근 보건복지부와 한국노인인력개발원이 주최한 2026년 제5차 정책연구세미나에서 발표한 자료에 따르면 집안일을 부탁하거나 이야기 상대가 필요한 경우 둘 중 하나라도 도움을 받을 곳이 없는 사회적 고립도는 2025년 기준 33%였다.",
+      "성별로 보면 남성이 35.7%, 여성이 30."
+    ],
+    "chips": [
+      "#정책",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf6065e2a",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/08/09/MFQTGYJTGUYGEYZVMJRTCOJYGE/",
+    "title": "[시승기] 역동성과 안정감 동시에 잡은 554마력의 전기차... 폴스타 4 쿠페",
+    "summary": [
+      "폴스타4는 중국 지리자동차그룹 계열의 스웨덴 전기차 브랜드인 폴스타가 2024년부터 판매 중인 중형 쿠페형 스포츠유틸리티차량(SUV)이다.",
+      "지난 2022년 출시된 중형 세단 폴스타2가 국내 수입 전기차 시장에서 존재감을 알렸다면, 폴스타4는 SUV의 강점을 앞세워 고급 전기차의 이미지를 각인시킨 모델로 꼽힌다.",
+      "폴스타4는 올해 7월까지 국내에서 2660대가."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n969972e8",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260808038700030",
+    "title": "'아시아는 좁다'…K-라이프, 세계 최대 미국 시장으로 영토 확장",
+    "summary": [
+      "(서울=연합뉴스) 이상서 정수연 김세린 기자 = 아시아권을 중심으로 세계 시장에서 존재감을 키우고 있던 뷰티와 식품, 유통 등 국내 라이프스타일..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb07fa380",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741311",
+    "title": "[단독]대통령기록관, '尹 추가' 홈페이지 공개…계엄 선포문은 빠져",
+    "summary": [
+      "[서울=뉴시스] 강지은 기자 = 윤석열 전 대통령을 추가한 대통령기록관 홈페이지 개편 작업이 1년 2개월 만에 완료돼 최근 일반 국민에 공개된 것으로 확인됐다.",
+      "취임사를 비롯해 재임 기간 연설 기록 등 700여건의 제20대 대통령 기록물이 수록됐지만, 12·3 비상계엄 선포 당시 발표한 긴급 대국민 담화문은 담기지 않았다.",
+      "9일 행정안전부 대통령기록관에 따르면 대통령기록관은 윤 전 대통령 관련 전용 페이지를 추가한 홈페이지 정비를 마치고, 지난."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne11db376",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "19분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/09/DGLIB353YFABPMTCXXTH4WKS34/",
+    "title": "[인터뷰] 문태연 카본식스 대표 “제조업 특화 로봇 파운데이션 모델 고도화 목표”",
+    "summary": [
+      "[인터뷰] 문태연 카본식스 대표 “제조업 특화 로봇 파운데이션 모델 고도화 목표”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbfd60277",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/economy/realty/redevelop/2026/08/09/GZRWIOJQHFRGKZRYHA4TAOBSG4/",
+    "title": "81층 '성수 삼표부지' 개발에 국토부 제동…연내 착공 무산 되나",
+    "summary": [
+      "[땅집고] 서울 성수동의 핵심 노른자위 땅인 ‘삼표레미콘 부지 개발 사업’이 최근 정부 심의 단계에서 사실상 ‘보류’ 결정을 받으며 멈춰 섰다.",
+      "서울시 건축위원회 심의를 통과하며 연내 착공 기대감을 높였으나, 국토교통부 수도권정비실무위원회에서 제동이 걸린 것이다.",
+      "약 5조원 규모의 대형 민간 개발 프로젝트를 둘러싸고 개발이익 환수와 수도권 과밀 억제 원."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nddf77913",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/economy/realty/investment_trends/2026/08/09/MI3DONZVME3WGZRRG4ZGENBXGY/",
+    "title": "목동 준신축 빌라를 3억대에…'HUG 말소확약' 서울 빌라 경매",
+    "summary": [
+      "인공지능(AI) 기반 경매정보 플랫폼 땅집고옥션(▶바로가기)이 개발한 ‘만능검색’ 시스템을 통해 전국 법원에서 입찰하는 경매 물건 중 알짜 정보만 골라 여러분에게 매일 배달합니다.",
+      "만능검색은 클릭 몇 번으로 전국 모든 경매 물건 가운데 내가 원하는 시점, 지역만 선택하면 수익성과 안정성이 높은 물건을 자동 추천하는 국내 최초의 서비스입니다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "ne249f2ce",
     "category": "IT",
     "source": "테크M",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154123",
     "title": "[글로벌] AMD, AI 추론용 맞춤형 칩 스타트업 탈라스 인수",
     "summary": [
@@ -509,7 +578,7 @@ window.NEWS_DB = [
     "id": "n49824b00",
     "category": "IT",
     "source": "테크M",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154122",
     "title": "[글로벌] 오픈AI, 챗GPT 무료 이용자에 텍스트 채팅 무제한 제공",
     "summary": [
@@ -524,7 +593,7 @@ window.NEWS_DB = [
     "id": "n4146546d",
     "category": "사회",
     "source": "테크M",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154121",
     "title": "[글로벌] 美, 폴리실리콘 파생상품에 15% 관세...12월부터 적용",
     "summary": [
@@ -540,7 +609,7 @@ window.NEWS_DB = [
     "id": "n27e5e94a",
     "category": "경제",
     "source": "한국경제",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.hankyung.com/article/2026080711297",
     "title": "[오늘의 운세] 8월 9일 띠별 운세",
     "summary": [
@@ -554,69 +623,11 @@ window.NEWS_DB = [
     "id": "nf73f43bd",
     "category": "경제",
     "source": "한국경제",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.hankyung.com/article/2026080711487",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 9일 띠별 추천 점심메뉴",
     "summary": [
       "[오늘의 운세] 오늘 뭐 먹지?…8월 9일 띠별 추천 점심메뉴."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb14e2876",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "5시간 전",
-    "url": "https://www.hankyung.com/article/2026080685637",
-    "title": "[오늘의 운세] 2026년 8월 9일 별자리 운세",
-    "summary": [
-      "[오늘의 운세] 2026년 8월 9일 별자리 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2925f89b",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "5시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260808/134441987/1",
-    "title": "울산, ‘동해안 더비’ 2-0 완승…‘네게바 해트트릭’ 제주 5위 도약",
-    "summary": [
-      "프로축구 K리그1 울산HD가 ‘동해안 더비’에서 포항 스틸러스를 꺾고, 선두 경쟁에 불을 지폈다.울산은 8일 포항스틸야드에서 열린 포항과 하나은행 K리그1 2026 22라운드 원정 경기에서 서명관과 야고의 연속 골을 앞세워 2-0으로 이겼다.이 승리로 울산은 ‘동해안 더비’ 4경기 연속 무승(2무2패) 사슬을 끊고, 자존심을 세웠다.더불어 3연승을 질주한 2위 울산은 11승4무7패(승점 37)를 기록, 이날 김천 상무와 0-0으로 비긴 선두 F."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19c5a8b9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260808/134441984/1",
-    "title": "젤렌스키 “美와 월간 패트리엇 공급 계약”…친러 세르비아 첫 방문",
-    "summary": [
-      "볼로디미르 젤렌스키 대통령은 우크라이나가 미국과 패트리엇 방공 미사일 월간 공급 계약을 체결했다고 발표했다.",
-      "젤렌스키 대통령은 8일 세르비아 베오그라드에서 알렉산다르 부치치 대통령과 공동 기자회견을 갖고 이같은 계약 내용을 밝히면서도 올해 공급 물량은 예년보다 적다고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na3b857c6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260808/134441981/1",
-    "title": "에스파, 균열 품고 이룩한 미학적 성장…‘특이점’ 너머 고척돔서 3막 열다",
-    "summary": [
-      "미래학자가 예견한 기술적 도약의 순간, 즉 ‘특이점(Singularity)’은 필연적으로 기존 세계의 균열 동반한다.",
-      "8일 오후 서울 구로구 고척스카이돔에서 열린 초신성 걸그룹 ‘에스파(aespa)’의 네 번째 월드투어 ‘싱크 : 컴플렉시티(SYNK : COMPLæXITY)’는 그 붕괴를 기꺼이 끌어안고 새로운 차원으로 도약하는 눈부신 파괴의 현장이었다.‘블랙핑크(BLACKPINK)’에 이어 K-팝 걸그룹 사상 두 번째로 고척돔에 입성하며 전날."
     ],
     "chips": [
       "#뉴스"
@@ -629,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
