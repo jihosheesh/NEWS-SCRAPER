@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-09 12:27:26
+// 마지막 업데이트: 2026-08-09 13:41:05
 window.NEWS_DB = [
   {
     "id": "nb8593cad",
     "category": "IT",
     "source": "네이트",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90bF9JMHJfNF9pUk9Va1ljWW9PTEdidkRVQjU4MGFGN0c4UWRnQzJLaUMxaDZlQU1zc24ycndiMVdINllIVkZESkx4Q0pSbGVHTFV3?oc=5",
     "title": "'메모리+파운드리+패키징' 원팀 위력…HBM4E 양산도 앞당겨",
     "summary": [
@@ -18,7 +18,7 @@ window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
-    "source": "Vietnam.vn",
+    "source": "vietnam.vn",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
@@ -49,12 +49,12 @@ window.NEWS_DB = [
   {
     "id": "n23a94137",
     "category": "IT",
-    "source": "뉴스핌",
+    "source": "newspim.com",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
     "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
     "summary": [
-      "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속' 뉴스핌."
+      "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속' newspim.com."
     ],
     "chips": [
       "#AI",
@@ -64,14 +64,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf207199d",
+    "id": "n671bb698",
     "category": "스포츠",
     "source": "네이트",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpQ0NFZjNxaVJjNkVYaTRnWGNNMUVhNl93UE1aRGxEZHBRelJMZjR5QnBkRlJUQWpBWlJXb2p4X294dFhsTHdMQVkzQ3NKQkJpWk9oUl93?oc=5",
-    "title": "프로야구 연이은 취소에 대책 나선 KBO",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
+    "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
     "summary": [
-      "프로야구 연이은 취소에 대책 나선 KBO 네이트."
+      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
     ],
     "chips": [
       "#KBO"
@@ -126,42 +126,26 @@ window.NEWS_DB = [
   {
     "id": "n0fbb40c3",
     "category": "경제",
-    "source": "sankyungtoday.com",
+    "source": "산경투데이",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
     "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
     "summary": [
-      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 sankyungtoday.com."
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
     ],
     "chips": [
       "#금리"
     ]
   },
   {
-    "id": "n5142ca5e",
-    "category": "IT",
-    "source": "뉴스톱",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ySHBaTzZWanptOFJHMW1pRVFReU9PYlp5RE1MdEZmLXVGVTBPWGNIbFNIcVotZW1vN0Y3Z0w2N05tcndobzI4b0xtTklPTk80b2I0cXdwbTF6YWlTT0kwc2FEcnlwZEJVRWNXc01DYw?oc=5",
-    "title": "HBM4 전환기…삼성전자 점유율, SK하이닉스 앞지를까",
-    "summary": [
-      "HBM4 전환기…삼성전자 점유율, SK하이닉스 앞지를까 뉴스톱."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -180,6 +164,21 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nf99a2aa1",
+    "category": "IT",
+    "source": "뉴스톱",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zTVFqRDdjd1FCX2RUcERXaElYN3hDNnpRM3JOQXJfREVUMENDdVRXWHl0NTNPRFd1OFcyaVFSRnpwTnNSanlUMExIY0NuX0p3Q2NqT1ZSZGVkV1c1U3BKbUJXSHItekgxVzB2RjFmYw?oc=5",
+    "title": "삼성전자, 메모리 70% 장기 계약...HBM·파운드리는 추격",
+    "summary": [
+      "삼성전자, 메모리 70% 장기 계약...HBM·파운드리는 추격 뉴스톱."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
@@ -244,12 +243,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "72일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -362,273 +361,269 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8d51f447",
-    "category": "IT",
+    "id": "nfea8645f",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741955",
-    "title": "정청래 \"'이명박' 임기 내 광주 반도체 제품 출시\" 말실수…\"대통령 이름 잘못 불러 죄송\"",
-    "summary": [
-      "[서울·대구=뉴시스]정금민 한재혁 김윤영 기자 = 정청래 더불어민주당 당대표 후보가 9일 대구·경북 전당대회 합동연설회 도중 이재명 대통령을 '이명박 대통령'이라고 잘못 부르는 말실수를 했다.",
-      "정 후보는 이날 대구 북구 인터불고 엑스코 호텔에서 열린 당대표·최고위원 후보 강원·대구·경북 지역 합동 연설회에서 \"광주 반도체 클러스터를 차질 없이 추진해 '이명박' 대통령 임기 안에 반도체 제품을 출시할 수 있도록 정청래가 하겠다\"고 말했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8de7b8a4",
-    "category": "스포츠",
-    "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809051100007",
-    "title": "탁구 오준성, 5위 하리모토 못 넘고 WTT 챔피언스 요코하마 준우승",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741964",
+    "title": "이란 \"모즈타바, 페제시키안 대통령과 회동…경제·군사 분야 논의\"",
     "summary": [
-      "(서울=연합뉴스) 안홍석 기자 = 오준성(31위·한국거래소)이 2026 월드테이블테니스(WTT) 챔피언스 요코하마에서 준우승했다."
+      "[서울=뉴시스] 이재우 기자 = 이란 최고지도자 모즈타바 하메네이가 마수드 페제시키안 대통령을 만났다고 9일(현지시간) 발표했다.",
+      "하메네이는 미국과 이스라엘의 폭격으로 숨진 부친 알리 하메네이 전(前) 최고지도자에 이어 지난 3월8일 이란 최고지도자에 선출됐지만 공식석상에 단 한 차례도 등장하지 않아 건강 상태와 통치 능력을 둘러싼 의문이 제기된 바 있다.",
+      "이란 국영 IRNA통신에 따르면 모즈타바 공식 텔레그램 채널은 이날 \"최고지도자가 취임."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n294cbe3b",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/09/2026080921180279036",
-    "title": "[한번에쓱]분위기 확 올리고 가요! '맨시티-ATM전 축하공연' 리센느",
-    "summary": [
-      "하프타임 공연을 마친 리센느가 2026쿠팡플레이 시리즈 맨체스터시티와 아틀레티코 마드리드 경기 분위기를 후끈 달군 후 그라운드를 통해 퇴장하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6dfcfbb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809050800007",
-    "title": "육상 나마디 조엘진, 100ｍ 비공인 10초07…한국 기록 보인다",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 한국 육상 단거리 기대주 나마디 조엘진(예천군청)이 남자 100ｍ 한국 기록에 다가서고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8338bd50",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026080918532608877",
-    "title": "119세 생일 맞은 남성, 세계 최고령자 도전한다…장수 비결은?",
-    "summary": [
-      "코스타리카의 119세 남성이 자신의 나이를 국제적으로 인정받기 위한 검증 절차에 들어갔다.",
-      "공식 인증이 이뤄질 경우 현존 세계 최고령자 기록이 새로 쓰일 것으로 보인다.",
-      "지난 4일(현지시간) 현지 매체 Q코스타리카, 아르헨티나 매체 인포바에 등은 코스타리카 과나카스테주 카리요 지역 사르디날 인근에 거주하는 호세 플로레스가 지난달 11일 119번째 생일을 맞았다고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbff2c32f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809050900527",
-    "title": "제주 남쪽 먼바다에 풍랑경보",
-    "summary": [
-      "(제주=연합뉴스) 기상청은 9일 오후 9시 5분을 기해 제주도남서쪽안쪽먼바다·제주도남동쪽안쪽먼바다에 풍랑경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n753d29c7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741954",
-    "title": "전남광주 부시장·규정 불일치 논란…행정기구 조례 개정 추진",
-    "summary": [
-      "[전남광주=뉴시스]류형근 기자 = 전남광주통합특별시의 정무부시장 시민추천제와 행정기구 조례 불일치에 대해 의회가 행정사무조사권 발동까지 검토하고 있는 가운데 집행부가 인사청문회에 앞서 관련 조례 정비를 추진한다.",
-      "전남광주특별시는 '부시장 시민추천제'와 관련해 추천 분야와 현재의 행정기구 설치 조례상 분장사무가 일치하지 않아 발생할 수 있는 혼선을 해소하기 위해 관련 조례를 정비할 계획이다고 9일 밝혔다.",
-      "우선 시민이 느낄 수 있는 혼선과 시의회."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf6aa68b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809050500083",
-    "title": "새끼 코끼리 전선 걸리자 성체가 충전기 '쾅'…中서 포착",
-    "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 중국 윈난성에서 야생 코끼리 무리가 자동차 충전소에 들어왔다가 새끼 코끼리가 충전 케이블에 걸리자 성체 코..."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "nb8e2bcc9",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260809/134445865/1",
-    "title": "탁구 오준성, 챔피언스 요코하마 준우승…하리모토에 1-4 패배",
-    "summary": [
-      "한국 남자 탁구 ‘차세대 에이스’ 오준성(한국거래소·세계랭킹 31위)이 2026 월드테이블테니스(WTT) 챔피언스 요코하마에서 준우승을 차지했다.오준성은 9일 일본 요코하마에서 열린 대회 남자 단식 결승에서 하리모토 도모카즈(일본·세계랭킹 5위)에게 게임 점수 1-4(11-7 7-11 4-11 8-11 7-11)로 졌다.그는 앞서 8강에서 세계 11위 당치우(독일)를 4-3, 준결승에서 세계 24위 시노즈카 히로토(일본)를 4-1로 꺾고 생애."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n01ff04ba",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "21분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/09/2026080920345699058",
-    "title": "연유탱크 안에서 쓰러진 근로자 2명…매일유업 공장서 1명 숨져",
-    "summary": [
-      "매일유업 평택공장에서 연유 저장 탱크를 청소하던 근로자 2명이 쓰러진 채 발견돼 1명이 숨지고 1명이 다쳤다.",
-      "9일 뉴스1과 평택경찰서 등에 따르면 이날 오후 2시55분쯤 경기 평택시 진위면 매일유업 평택공장에서 근로자 2명이 쓰러져 있는 것을 직원이 발견했다.",
-      "두 사람은 병원으로 옮겨졌지만 50대 직원 A씨가 숨졌다."
-    ],
-    "chips": [
+      "#정치",
       "#의료"
     ]
   },
   {
-    "id": "n8ffa8bf3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "24분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/09/2026080920540982722",
-    "title": "최예나, 노출 하나 없이 '워터밤' 장악…온몸 가린 전신 슈트 '화제'",
+    "id": "n63178d75",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741975",
+    "title": "육상 나마디 조엘진, 100m 비공인 10초07…한국 기록 눈앞",
     "summary": [
-      "가수 최예나(26)가 과감한 노출 대신 독특한 콘셉트의 의상으로 '워터밤'에서 강렬한 존재감을 드러냈다.",
-      "최예나는 지난 8일 부산에서 열린 '워터밤 2026'에서 목부터 다리까지 전신을 감싸는 밀착형 보디슈트를 입고 무대에 올랐다.",
-      "이날 최예나는 머리카락을 높게 묶은 포니테일 헤어스타일에 분홍색 고글, 흰 장갑과 하이힐을 매치해 미래적인 분위기를 연출했다."
+      "[서울=뉴시스]안경남 기자 = 한국 육상 단거리 기대주 나마디 조엘진(예천군청)이 남자 100m 한국 기록에 다가섰다.",
+      "나마디 조엘진은 9일 일본 야마나시현 후지요시다시 후지산 GX 스타디움에서 열린 제8회 후지호쿠로쿠 월드 트라이얼 육상대회 남자 100m 예선에서 10초07로 결승선을 통과했다.",
+      "이는 2017년 6월 김국영이 세운 한국 기록과 타이지만, 뒤바람이 초속 3.2m 불어 공식 기록으로 인정받지 못했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n77030b7f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741946",
-    "title": "네타냐후, 트럼프의 가자 평화 2차 15개조 평화안 '거부'",
+    "id": "n28d4438c",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260809/134446177/1",
+    "title": "붉은 줄무늬 ‘7번’ 이강인, 한국팬들 앞서 아틀레티코 데뷔전",
     "summary": [
-      "[서울=뉴시스] 김재영 기자 = 이스라엘의 베냐민 네타냐후 총리는 9일 도널드 트럼프 미 대통령의 가자 지구 후속 평화안 15개조 플랜을 거부한다면서 가자 무장 조직 하마스가 완전 무장 해제할 때까지 가자에서 철수하지 않을 것이라고 말했다.",
-      "트럼프 대통령은 지난달 말 하마스가 무장 해제에 동의했다면서 이 '돌파구'를 바탕으로 가자 평화 후속 플랜 15개조를 밝혔다.",
-      "트럼프의 20개조 1차 가자 플랜에 이스라엘과 하마스가 합의하면서 2023년 1."
+      "후반 19분 ‘슛돌이’ 이강인(아틀레티코 마드리드)이 교체 투입되자 서울월드컵경기장을 찾은 5만78명의 관중은 엄청난 환호성을 터뜨렸다.",
+      "지난달 25일 파리 생제르맹(프랑스)을 떠나 아틀레티코에 입단한 이강인은 이날 새 유니폼을 입고 한국 팬들 앞에서 데뷔전을 치렀다.이날 아틀레티코와 맨체스터시티(잉글랜드)가 프리시즌 친선전(쿠팡플레이 시리즈)을 치른 경기장엔 이강인의 아틀레티코 유니폼을 입은 팬들이 가득했다.",
+      "1903년 창단한 아틀레티코는 스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n346cc605",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/09/MS6DQSZ435AFDGKTRTVHQFFS7M/",
+    "title": "나마디 조엘진, 100ｍ 10초07… 韓 신기록 가시권",
+    "summary": [
+      "나마디 조엘진, 100ｍ 10초07… 韓 신기록 가시권."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6faf4d3f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809052300004",
+    "title": "폭염중대경보 끝났지만 전날 서울 온열질환 22명…7일째 두자리",
+    "summary": [
+      "(서울=연합뉴스) 김준태 기자 = 서울 전 지역에 내려졌던 폭염중대경보가 해제된 이튿날인 8일에도 두 자릿수의 온열질환자가 발생한 것으로 나타났..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff31ec33",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741972",
+    "title": "상암 5만 관중 앞 ATM 데뷔한 이강인 [뉴시스Pic]",
+    "summary": [
+      "[서울=뉴시스] 권창회 김명년 기자 = 스페인 프로축구 프리메라리가 명문 아틀레티코 마드리드(AT마드리드)로 이적한 축구 국가대표 '에이스' 이강인(25)이 5만78명이 들어찬 서울월드컵경기장에서 한국 팬들의 열렬한 응원 속에 데뷔전을 치렀다.",
+      "이강인은 9일 서울월드컵경기장에서 열린 맨체스터 시티(맨시티·잉글랜드)와의 2026 쿠팡플레이 시리즈 친선경기에서 1-2로 끌려가던 후반 18분 로드리 멘도사 대신 교체 투입됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc784084",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741935",
+    "title": "이강인, 5만 관중 앞 ATM 데뷔…뜨거운 응원 속 새출발(종합)",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 스페인 프로축구 프리메라리가 명문 아틀레티코 마드리드(AT마드리드)로 이적한 축구 국가대표 '에이스' 이강인(25)이 5만78명이 들어찬 서울월드컵경기장에서 한국 팬들의 열렬한 응원 속에 데뷔전을 치렀다.",
+      "이강인은 9일 서울월드컵경기장에서 열린 맨체스터 시티(맨시티·잉글랜드)와의 2026 쿠팡플레이 시리즈 친선경기에서 1-2로 끌려가던 후반 18분 로드리 멘도사 대신 교체 투입됐다.",
+      "올여름 파리 생제르맹(PSG·."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n678d9c8e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/09/GVSDQOBTGU4TGMTBGM4TQM3FGE/",
+    "title": "트럼프 측근 참여 美 석유회사, 그린란드 당국 승인 없이 장비 반입",
+    "summary": [
+      "도널드 트럼프 미국 대통령과 친분이 있는 미국 석유 회사가 사전 승인 없이 시추 장비를 반입해 그린란드 정부로부터 경고를 받았다.",
+      "그린란드는 덴마크 자치령이지만 천연자원 개발에 관한 권한은 그린란드 정부가 행사한다.",
+      "8일(현지 시각) 영국 가디언에 따르면 미국 텍사스주에 본사를 둔 그린란드 에너지는 최근 그린란드 동부 제임슨 랜드에 석유 탐사용 시추 장비가."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n730b619e",
+    "id": "ne64eaf55",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809052400007",
+    "title": "'이강인 첫선' AT마드리드, 친선경기서 맨시티에 1-3 역전패",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = 축구대표팀 미드필더 이강인이 입단 후 첫선을 보인 아틀레티코 마드리드(스페인· 이하 AT마드리드)가 맨체스터 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92dcb94a",
     "category": "사회",
     "source": "조선일보",
-    "time": "26분 전",
-    "url": "https://www.chosun.com/national/regional/2026/08/09/Z5LUFOK5NZEBZLOKVMMHRUPPXM/",
-    "title": "천안 교회서 생활하던 11살 남아, 왜 숨졌나…경찰 학대 여부 수사",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/national/welfare-medical/2026/08/09/CVU2GLTSNZCWPPS3SN6PN5X7NI/",
+    "title": "고령화에 커지는 건보 적자…올해 1분기에만 4조원 육박",
     "summary": [
-      "천안 교회서 생활하던 11살 남아, 왜 숨졌나…경찰 학대 여부 수사."
+      "고령화에 커지는 건보 적자…올해 1분기에만 4조원 육박."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0769b85c",
+    "id": "nc96652ed",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "연합뉴스",
     "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741831",
-    "title": "중국 진출 시도 남규리 \"음반·드라마 협업 준비 중\"",
+    "url": "https://www.yna.co.kr/view/AKR20260809052100004",
+    "title": "여성의당 \"보완수사권 폐지, 여성 폭력 피해자 외면한 조치\"",
     "summary": [
-      "[서울=뉴시스] 손정빈 기자 = 그룹 씨야 남규리가 중국 진출을 시도하고 있다고 했다.",
-      "남규리는 9일 자신의 유튜브 채널에서 중국 상해에 가 중국 시장 진출을 위한 미팅하는 모습을 공개했다.",
-      "남규리는 10년 만에 상해에 간다며 \"이번에 상해 큰 음반 회사랑 미팅이 있다."
+      "(서울=연합뉴스) 전재훈 기자 = 여성의당이 검찰의 직접수사 및 보완수사권을 폐지한 개정 형사소송법에 대해 \"여성 폭력 피해자를 외면한 조치\"라..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne7e79fd3",
-    "category": "사회",
-    "source": "조선일보",
+    "id": "n645f6a0c",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "27분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/09/TVVEHK7ZYZCBBOOXZ2YTB5CKWM/",
-    "title": "중수청이 내건 ‘월 20만원’ 수당에 검사들 옮겨갈까",
+    "url": "https://www.yna.co.kr/view/AKR20260809052200007",
+    "title": "붉은 줄무늬 유니폼의 이강인, 상암벌 5만 관중앞 성대한 신고식",
     "summary": [
-      "중수청이 내건 ‘월 20만원’ 수당에 검사들 옮겨갈까."
+      "(서울=연합뉴스) 안홍석 기자 = 이강인(25)이 전성기를 열어젖힐 스페인 프로축구 아틀레티코 마드리드(AT마드리드) 데뷔전을 상암벌을 메운 한..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3ea45c5b",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/world/2026/08/09/2026080920041934100",
-    "title": "46년형 받은 中남성, 왜 '태극기 모자' 썼나…태국서 논란",
-    "summary": [
-      "태국에서 불법 무기와 폭발물을 소지한 혐의로 중형을 선고받은 중국인 남성이 체포 당시 태극기와 '한국'이라는 글자가 새겨진 모자를 착용한 사실이 알려져 논란이 일고 있다.",
-      "9일 방콕포스트 등 현지 매체에 따르면 태국 촌부리주 파타야 지방법원은 지난 3일 중국인 쑨모씨(31)에게 징역 46년을 선고했다.",
-      "쑨씨는 군용 화기와 C4 폭발물, 신호 교란 장비 등 소지가 금지된 군사 장비를 불법으로 보유한 혐의를 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea6f35a5",
+    "id": "ne3de718f",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "35분 전",
-    "url": "https://www.chosun.com/sports/golf/2026/08/09/NEWWB5PPQBHA5JRWH5EIWXFAMM/",
-    "title": "2017 신인왕 장은수, 첫 우승 9년 걸렸네",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/sports/football/2026/08/09/HGRPE4DNZ5FTZLQBEV5T6WC3J4/",
+    "title": "‘AT 7번 ’ 이강인, 상암 5만 관중 앞에서 강렬한 데뷔전...AT는 맨시티에 1대3 패배",
     "summary": [
-      "2017 신인왕 장은수, 첫 우승 9년 걸렸네."
+      "‘AT 7번 ’ 이강인, 상암 5만 관중 앞에서 강렬한 데뷔전...AT는 맨시티에 1대3 패배."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n308974d8",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "36분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260809/134443471/1",
-    "title": "가트너 “내년 글로벌기업 절반이 중국산 AI 사용할 것”",
+    "id": "n31bc49dc",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "45분 전",
+    "url": "https://www.hankyung.com/article/2026080929927",
+    "title": "모건스탠리 \"가파른 조정 끝…메모리주 지금이 재진입 기회\"",
     "summary": [
-      "내년도 전 세계 주요 기업의 절반이 중국산 인공지능(AI) 모델을 채택해 사용할 것이라는 전망이 나왔다.",
-      "그동안 미국이 AI 기술에서 우위를 선점해 왔지만, 성능과 가격 경쟁력을 겸비한 중국의 영향력이 더 커질 것이란 예측이다.",
-      "9일 글로벌 시장조사기관 가트너의 ‘2026 중국 주요 AI 트렌드’ 보고서에 따르면 지난해 5%에 불과했던 글로벌 기업들의 중국 AI 모델 채택률은 내년에 50%까지 오를 것으로 예상됐다.이는 기업들이 한 가지 AI."
+      "모건스탠리 \"가파른 조정 끝…메모리주 지금이 재진입 기회\"."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfedcae37",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "45분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260809/134446195/1",
+    "title": "‘AT마드리드 7번’ 이강인, 맨시티 상대로 비공식 데뷔전",
+    "summary": [
+      "한국 축구 ‘에이스’ 이강인(25)이 한국 팬들 앞에서 새 소속팀인 스페인 프로축구 프리메라리가 명문 아틀레티코 마드리드(AT마드리드) 비공식 데뷔전에 나섰다.이강인은 9일 서울월드컵경기장에서 열린 2026 쿠팡플레이 시리즈 친선경기에서 교체 명단에 일므을 올린 뒤 후반 18분 로드리 멘도사 대신 그라운드를 밟았다.이로써 지난달 25일 프랑스 파리생제르맹(PSG)에서 AT마드리드로 이적한 이강인은 새 유니폼을 입고 첫선을 보였다.특히 새 팀에서."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfba246b8",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260809/134445471/1",
+    "title": "김민석, 1위로 역전 성공…정청래에 누적 1.48%p 앞섰다",
+    "summary": [
+      "더불어민주당 8·17 전당대회 2주 차 순회경선에서 김민석 후보가 승리하며 누적득표율에서 정청래 후보를 앞섰다.",
+      "첫 주말 순회경선에서 0.99%포인트 차이로 정 후보를 추격하던 김 후보가 대구를 제외한 제주와 인천, 강원과 경북에서 승리하면서 역전한 것.",
+      "다만 여전히 초박빙 승부가 이어지고 있어 15일 호남(전남광주·전북)과 16일 수도권(경기·서울) 순회경선에서 승자의 윤곽이 드러날 것으로 전망된다.9일 민주당 중앙선거관리위원회에 따르면 이날."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n18729afd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260809/134446178/1",
+    "title": "네타냐후, 트럼프의 가자 평화 2차 15개조 평화안 ‘거부’",
+    "summary": [
+      "이스라엘의 베냐민 네타냐후 총리는 9일 도널드 트럼프 미 대통령의 가자 지구 후속 평화안 15개조 플랜을 거부한다면서 가자 무장 조직 하마스가 완전 무장 해제할 때까지 가자에서 철수하지 않을 것이라고 말했다.트럼프 대통령은 지난달 말 하마스가 무장 해제에 동의했다면서 이 ‘돌파구’를 바탕으로 가자 평화 후속 플랜 15개조를 밝혔다.트럼프의 20개조 1차 가자 플랜에 이스라엘과 하마스가 합의하면서 2023년 10월 7일 발발한 가자 전쟁이 202."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n93892ceb",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026080929887",
+    "title": "젤렌스키, 한국에 '방공 지원' 요청…\"북한군 3만∼5만 러 배치\"",
+    "summary": [
+      "젤렌스키, 한국에 '방공 지원' 요청…\"북한군 3만∼5만 러 배치\"."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -638,20 +633,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
