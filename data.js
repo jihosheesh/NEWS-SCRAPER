@@ -1,12 +1,12 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-09 09:28:17
+// 마지막 업데이트: 2026-08-09 10:22:02
 window.NEWS_DB = [
   {
-    "id": "nb335eb3d",
+    "id": "nb8593cad",
     "category": "IT",
     "source": "네이트",
-    "time": "7분 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wRXBKb0hHdkFqY1BNeHFXeUlLR3pWVnJ3eDgwZUZtUlBLS2FFUW9NR1MzZXFyZGc1bnBzNThvOWlhcGpvN2ZIbWp3MTJYNDd5OTFGUmVQVDQ1S0FZbWpnamFHUmZEQ3psRUxJdTl5UF9PdXFHOEY3bw?oc=5",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90bF9JMHJfNF9pUk9Va1ljWW9PTEdidkRVQjU4MGFGN0c4UWRnQzJLaUMxaDZlQU1zc24ycndiMVdINllIVkZESkx4Q0pSbGVHTFV3?oc=5",
     "title": "'메모리+파운드리+패키징' 원팀 위력…HBM4E 양산도 앞당겨",
     "summary": [
       "'메모리+파운드리+패키징' 원팀 위력…HBM4E 양산도 앞당겨 네이트."
@@ -126,12 +126,12 @@ window.NEWS_DB = [
   {
     "id": "n0fbb40c3",
     "category": "경제",
-    "source": "산경투데이",
+    "source": "sankyungtoday.com",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
     "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
     "summary": [
-      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 sankyungtoday.com."
     ],
     "chips": [
       "#금리"
@@ -170,12 +170,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
     ],
     "chips": [
       "#취업",
@@ -184,13 +184,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "스포츠",
-    "source": "startupn.kr",
+    "category": "IT",
+    "source": "스타트업엔(StartupN)",
     "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
     ],
     "chips": [
       "#스타트업"
@@ -244,12 +244,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "72일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -314,6 +314,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfaa6d5cb",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154127",
+    "title": "304만 구독자 '삼프로TV' 개인정보 유출...이름·연락처·주소 털렸다",
+    "summary": [
+      "구독자 304만명을 보유하고 있는 유튜브 채널 '삼프로TV'에서 개인정보 유출 사고가 발생했다.",
+      "회사 측은 이용자들의 이름과 프로필, 전화번호, 이메일, 주소 등 개인정보가 유출된 사실을 확인하고 관계 당국에 신고하는 등 대응에 나섰다.9일 이브로드캐스팅은 회원들에게 개인정보 유출 사실을 안내하고 2차 피해 예방을 당부하는 안내를 전했다.",
+      "이브로드캐스팅은 삼프로TV를 운영하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n11749340",
     "category": "IT",
     "source": "테크M",
@@ -346,274 +362,284 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4b956746",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260809/134445192/1",
-    "title": "[속보]강원·TK서 김민석 이겼다…與 전대 ‘우세’ 흐름 이어가",
-    "summary": [
-      "강원·TK서 김민석 이겼다…與 전대 ‘우세’ 흐름 이어가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n124abcb0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080917272041489",
-    "title": "'韓 국가대표 악재' 카스트로프 쓰러졌다, 무려 수개월 결장 불가피 '하필 프리시즌 경기 중에...'",
-    "summary": [
-      "독일 분데스리가에서 활약 중인 대한민국 국가대표 미드필더 옌스 카스트로프(23·보루시아 묀헨글라트바흐)가 갑작스러운 부상으로 수개월 동안 그라운드를 떠나게 됐다.",
-      "분데스리가 사무국은 9일(한국시간) 공식 홈페이지를 통해 \"묀헨글라트바흐의 한국 국가대표 카스트로프가 로타흐 에겐과 프리시즌 친선 경기(15-0 승) 도중 어깨 탈구 부상을 입어 수개월간 결장이 불가피해졌다\"며 \"정밀 검사 결과 수술이 필요한 것으로 확인됐다\"고 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n762dd263",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/09/2026080918241018997",
-    "title": "[속보]김민석, 강원·TK 합산 1위 1만8977표…정청래 1만7355표",
-    "summary": [
-      "[the300] 9일 소병훈 더불어민주당 중앙당 선거관리위원회 위원장 강원 및 대구·경북 순회경선 결과 발표...."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbc2f8ecc",
-    "category": "부동산",
+    "id": "ncee4bb96",
+    "category": "경제",
     "source": "아시아경제",
     "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026080918251177551",
-    "title": "2.7만가구 준공업지역 공급 속도전…정부, 13일 주택대책 발표 검토",
+    "url": "https://view.asiae.co.kr/article/2026080919190427778",
+    "title": "간식값도 부담…삼립 빵 50여종 평균 9%대 인상",
     "summary": [
-      "정부가 오는 13일 전후 주택 공급대책 발표를 검토하는 가운데, 서울 준공업지역에서 이미 추진 중인 2만7000가구 규모 주택 공급에 속도를 내는 방안이 주요 대책으로 거론되고 있다.",
-      "신규 공급 목표를 대폭 늘리기보다는 기존 계획 물량이 실제 착공과 입주로 이어지도록 제도 개선과 금융·세제 지원 등을 통해 공급 실행력을 높이는 데 초점이 맞춰질 전망이다.",
-      "9일 관계 당국에 따르면 정부는 이번 주 부동산관계장관회의를 거."
+      "삼립이 다음 달 1일부터 빵 제품 50여종의 가격을 평균 9%대 인상한다.",
+      "편의점 판매가 기준으로 '정통보름달'은 1800원에서 2000원으로 11.1% 오르고, '허쉬초코샌드'는 2200원에서 2400원으로 9.1% 인상된다.",
+      "'치즈후레쉬팡'도 2500원에서 2600원으로 4.0% 오른다."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
     ]
   },
   {
-    "id": "n667e4901",
-    "category": "사회",
+    "id": "n1ff60504",
+    "category": "스포츠",
     "source": "뉴시스",
     "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741908",
-    "title": "[속보]與 당대표 경선, 경북 권리당원 투표 김민석 47.37%·정청래 45.71%",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nee98e4fe",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/08/09/MQZTMZBQGI2TKZDFMRSTEZBUGE/",
-    "title": "‘이현중 NBA 도전 끝나지 않았다!’ 한일전 빠지고 뉴올리언스+보스턴 미니캠프 간다 [공식발표]",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741857",
+    "title": "'오징어게임' 미국판 스핀오프 결국 무산…\"넷플릭스 우선순위 바뀌어\"",
     "summary": [
-      "[OSEN=서정환 기자] 한국농구 에이스 이현중(26)이 NBA 도전을 이어간다.",
-      "이현중 소속사 에픽스포츠는 9일 “이현중 선수가 NBA 뉴올리언스 펠리컨스와 보스턴 셀틱스로부터 각각 미니캠프 초청을 받았다.",
-      "양 구단 모두 현재 투웨이(Two-way) 계약 자리가 1자리씩 남아있다."
+      "[서울=뉴시스]서이현 인턴 기자 = 넷플릭스가 데이비드 핀처 감독이 연출을 맡기로 했던 '오징어 게임' 미국판 스핀오프 제작을 중단한 것으로 알려졌다.",
+      "8일(현지시간) 미국 연예매체 더플레이리스트에 따르면, 넷플릭스는 가제 '헤클러'로 불리던 이 프로젝트를 더 이상 진행하지 않기로 했다.",
+      "'헤클러'는 '파이트 클럽', '조디악', '나를 찾아줘'를 연출한 핀처 감독이 메가폰을 잡고 영국 드라마 '유토피아'의 작가 데니스 켈리가 극본을 쓸 예정이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3582967a",
-    "category": "사회",
+    "id": "na821fffc",
+    "category": "스포츠",
     "source": "머니투데이",
     "time": "5분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/09/2026080918192910896",
-    "title": "[속보]김민석, 경북 1위 득표율 47.4%…정청래 45.7%",
+    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080919013555092",
+    "title": "'세계 1위' 조명우, 7년 만에 당구연맹회장배 우뚝... 여자부는 '7연속 우승' 박세정 꺾고 허채원 우승",
     "summary": [
-      "[the300] 9일 소병훈 더불어민주당 중앙당 선거관리위원회 위원장 강원 및 대구·경북 순회경선 결과 발표...."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n07fc9aea",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741907",
-    "title": "[속보]與 당대표 경선, 대구 권리당원 투표 정청래 47.82%·김민석 46.35%",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89b1a5c0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/08/09/MI6GOJO4INHJ5F3XTXG6YB33HY/",
-    "title": "삼프로TV 앱에서 개인정보 46만건 유출",
-    "summary": [
-      "삼프로TV 앱에서 개인정보 46만건 유출."
+      "'세계랭킹 1위' 조명우(28·서울시청)가 'SOOP과 함께 하는 2026 대한당구연맹회장배 전국당구대회' 캐롬 3쿠션 남자부 정상에 올랐다.",
+      "세계 1위지만 이 대회 정상을 탈환한 건 7년 만이다.",
+      "조명우는 8일 강원특별자치도 양구군 양구종합스포츠타운에서 열린 대회 결승에서 송윤도(홍성고부설방통고)를 50-36으로 제압하고 우승을 차지했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7e8b49a5",
+    "id": "nbbbea493",
     "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809046600053",
+    "title": "경북 상주시 낙동강 변에서 50대 남성 숨진 채 발견",
+    "summary": [
+      "(상주=연합뉴스) 김현태 기자 = 9일 오전 10시 54분께 경북 상주시 도남동의 낙동강 변에서 50대 남성이 숨진 채 발견됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6082ed45",
+    "category": "경제",
     "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/09/2026080918124876434",
-    "title": "[속보]정청래, 대구 1위 득표율 47.8%…김민석 46.3%",
-    "summary": [
-      "[the300] 9일 소병훈 더불어민주당 중앙당 선거관리위원회 위원장 강원 및 대구·경북 순회경선 결과 발표...."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8d297c01",
-    "category": "스포츠",
-    "source": "조선일보",
     "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/09/GQZDENJUHFTDSZLGHE3DOOLCME/",
-    "title": "52세 맞아? 비거리 100m 홈런 쾅! 뉴욕 팬들도 도파민 폭발 \"지금도 당장 뛸 수 있다\"",
+    "url": "https://www.mt.co.kr/living/2026/08/09/2026080918284016126",
+    "title": "\"보름달 빵도 이제 2000원\" 삼립 빵값 오른다…50여종 평균 9% 인상",
     "summary": [
-      "[OSEN=손찬익 기자] \"지금도 당장 뛸 수 있을 것 같다”.'고질라' 마쓰이 히데키(52)가 여전한 장타력을 뽐내자 뉴욕 팬들이 감탄을 쏟아냈다.일본 스포츠 매체 '풀카운트'는 9일(이하 한국시간) \"마쓰이가 뉴욕 양키스 OB 행사에서 여전한 파워를 과시하며 팬들의 뜨거운 환호를 받았다\"고 전했다.마쓰이는 이날 미국 뉴욕 양키스타디움에서 열린 양키스 전."
+      "삼립이 다음 달부터 빵 50여 개 품목의 가격을 평균 9%대 인상한다고 9일 밝혔다.",
+      "지난해 2월 이후 1년 6개월 만의 가격 인상이다.",
+      "이에 따라 편의점 판매가 기준 '정통보름달'은 1800원에서 2000원으로 11.1% 오른다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbb4a66f5",
+    "id": "n246f6f5c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741925",
+    "title": "\"국적 달라도 봉사 즐거워\"…칠곡서 국자 든 美 의료인",
+    "summary": [
+      "[칠곡=뉴시스] 박홍식 기자 = 분홍색 앞치마에 위생모를 쓴 한 여성이 국자를 들고 활짝 웃는 모습이 인상적이다.",
+      "미국인 소피아 워커(31)씨다.",
+      "9일 경북 칠곡군에 따르면 왜관읍 캠프캐럴 의료인으로 근무하는 워커 씨는 칠곡사랑의집 무료 급식소를 찾아 청온 봉사단 회원들과 함께 어르신을 위한 음식을 준비하고 배식과 설거지를 도왔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n98141187",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741923",
+    "title": "부산서 푸드트럭 불…인명피해 없어",
+    "summary": [
+      "[부산=뉴시스]원동화 기자 = 9일 오후 1시4분께 부산 기장군의 한 전통시장에서 영업을 하던 푸드트럭에서 불이 났다.",
+      "이 불로 다행히 인명피해는 없었다.",
+      "불은 바비큐 그릴과 푸드트럭 적재함 등을 태워 580만원(소방추산) 상당의 재산피해를 내고 10분 만에 진화됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2462bf09",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741905",
-    "title": "[속보]與 당대표 경선, 강원 권리당원 투표 김민석 승리…50.30% 득표",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260809_0003741884",
+    "title": "경기도 하루 온열질환자 36명…누적 806명",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 happy7269@newsis.com."
+      "[수원=뉴시스] 이병희 기자 = 주말인 8일 경기지역에서 하루 새 온열질환자 36명이 발생해 누적 800명을 웃돌았다.",
+      "9일 경기도에 따르면 지난 8일 발생한 온열질환자는 36명으로, 더위가 한풀 꺾이면서 대폭 줄어들었다.",
+      "폭염대책기간이 시작된 5월15일 이후 누적 806명이며, 추정 사망자 수는 2명으로 집계됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n86234cda",
+    "id": "n7e030d4c",
     "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/08/09/G5SDAY3CGMZDENJQMMYGGOBWGM/",
-    "title": "'진주만' 여주가 어쩌다..\"뼈말라에 거식증 마약범 의혹\" SNS 다 삭제 [Oh!llywood]",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809043800003",
+    "title": "에코프로비엠, 유상증자 정정 신고서 제출…1.2조 규모는 유지",
     "summary": [
-      "[OSEN=최이정 기자] 영화 '진주만', '언더월드' 등으로 유명한 할리우드 배우 케이트 베킨세일(53)이 최근 가족들의 비보와 희귀질환 투병 속에 겪은 극심한 체중 감량을 두고 선을 넘는 '몸매 품평(바디 샤밍)' 악플이 쏟아지자, 결국 자신의 SNS 게시물을 전부 삭제했다.8일(현지시간) 외신 보도에 따르면, 영화 '언더월드', '진주만' 등으로 유명."
+      "(서울=연합뉴스) 임성호 기자 = 1조2천억원 유상증자를 추진하는 에코프로비엠이 유상증자 규모는 유지하며 자금 사용 계획을 보강한 정정 신고서를..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7cac1b4a",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026080927741",
-    "title": "AI 주식 매도 시점은 언제? [한경 프리미엄9 TODAY]",
+    "id": "n98ae04a9",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/09/2026080914334062621",
+    "title": "1위 김민석 2위 정청래 '3086표차' 박빙…서울·경기·호남 분수령",
     "summary": [
-      "AI 주식 매도 시점은 언제? [한경 프리미엄9 TODAY]."
+      "[the300](종합) 김민석 '강원·경북' 정청래 '대구' 각각 앞섰으나 합산은 金 우위 누계 金 9만5821표 鄭 9만2735표…110만 서울·경기·호남 관건 최고위원 최민희 1위 유지 속 박선원 맹추격…친명 3 친청 2 당선권 반환점을 돈 더불어민주당 전당대회 순회경선에서 김민석·정청래 당 대표 후보가 근소한 표 차이로 1위를 유지했다.",
+      "차기 당 대표 리더십에 지대한 영향을 끼치게 될 수석최고위원 경쟁도 초접전 양상이다."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "n5eeec9a6",
+    "id": "nefa6b0f5",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/09/2026080917131248791",
+    "title": "'ERA 6.28→3.86' 어떻게 이런 일이, SSG에 일어난 기적... '문학시대 화려한 라스트 댄스' 위해",
+    "summary": [
+      "단 일주일의 휴식이 SSG 랜더스를 완전히 바꿔놨다.",
+      "선발 문제로 전반기 내내 신음했고 9위까지 추락한 SSG가 후반기 선발진의 반등을 계기로 완전히 다른 팀이 됐다.",
+      "SSG는 후반기 들어 치른 17경기에서 8승 8패 1무로 5할 승률을 유지하고 있다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc1d740f8",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741904",
-    "title": "삼립, 1년 6개월 만에 가격 인상…\"원부자재 상승 부담\"",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809039600109",
+    "title": "우크라, '40일 작전' 성공 선언…\"러 물류망 17조원 손실\"",
     "summary": [
-      "[서울=뉴시스]오제일 기자 = 삼립이 50여개 제품 가격을 지난해 2월 이후 1년 6개월 만에 인상한다.",
-      "9일 업계에 따르면 삼립은 50여 품목에 대해 공급가격을 인상한다고 최근 공문을 보냈다.",
-      "유통 채널 별로 품목과 인상폭이 상이한데, 평균 9%대 가격 인상이 이뤄진다."
+      "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 지난 6월 말 개시한 40일 작전이 성공적으로 마무리됐다고 평가했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n71ad44f9",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/2026080927761",
-    "title": "\"여성기업 '만들어' 드려요…신규 수수료 2백~3백만원\"",
-    "summary": [
-      "\"여성기업 '만들어' 드려요…신규 수수료 2백~3백만원\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7b01592e",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/2026080927731",
-    "title": "카페 내 '일회용 종이컵 사용 금지' 다시 추진",
-    "summary": [
-      "카페 내 '일회용 종이컵 사용 금지' 다시 추진."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc01fbb2f",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/2026080928631",
-    "title": "삼성SDI·에쓰오일…반도체 밖으로 번지는 실적 훈풍",
-    "summary": [
-      "삼성SDI·에쓰오일…반도체 밖으로 번지는 실적 훈풍."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nfd93a0d8",
+    "id": "n837f7e6a",
     "category": "IT",
     "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026080918022063644",
-    "title": "\"고구려·발해 역사 축소\"…해외 유명 사이트서 한국사 오류 무더기",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026080918564416254",
+    "title": "SK하이닉스, 4조 규모 中 충칭 공장 지분 매각 검토",
     "summary": [
-      "유네스코(UNESCO)와 미국 항공우주국(NASA), 내셔널지오그래픽 등 해외 유명 기관의 영문 웹사이트에서 만리장성과 고구려·발해 등 한국 고대사 관련 오류와 누락이 다수 발견됐다.",
-      "사이버 외교사절단 반크(VANK)는 생성형 인공지능(AI)이 이 같은 정보를 학습할 경우 잘못된 역사 인식이 세계적으로 확산할 수 있다고 지적했다.",
-      "반크는 9일 글로벌 영문 사이트 10곳을 조사한 결과 만리장성 관련 5건, 발해 4건, 고구려 2건 등 총."
+      "SK하이닉스가 중국 충칭 반도체 패키징(후공정) 공장의 지분 매각을 검토 중이다.",
+      "업계에서는 인공지능(AI) 반도체 경쟁에서 주도권을 잡기 위해 글로벌 생산시설 재편에 나선 것이라는 분석이 나온다.",
+      "9일 블룸버그 등 외신에 따르면 SK하이닉스는 자문사들과 충칭 공장의 지분 처리 방안을 논의하는 것으로 알려졌다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n0b7f0425",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "26분 전",
+    "url": "https://view.asiae.co.kr/article/2026080918550612303",
+    "title": "김민석, 48.5% 강원·TK서 1위…정청래 44.4%",
+    "summary": [
+      "더불어민주당 당 대표 선거에 출마한 김민석 후보가 9일 강원·TK(대구·경북) 순회 경선에서 정청래·송영길 후보를 제치고 1위를 차지했다.",
+      "김 후보는 전날 제주·인천 경선에 이어 이날도 선두에 오르며 2주차 순회 경선을 가져갔다.",
+      "다만 누적 득표율에서는 정 후보와 2%포인트 이내 격차를 유지했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf82764e3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809031351009",
+    "title": "이란, 美에 병력철수·배상금 요구…\"충족시까지 호르무즈 폐쇄\"(종합)",
+    "summary": [
+      "(서울·이스탄불=연합뉴스) 곽민서 기자 김동호 특파원 = 이란이 호르무즈 해협 재개방에 앞서 미국에 병력 철수와 전쟁 피해 배상 등을 요구하고 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne5dc44c1",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260809/134443476/1",
+    "title": "챗GPT, 무료이용자에게도 최신 AI모델 개방",
+    "summary": [
+      "챗GPT 무료 이용자도 오픈AI의 최신 인공지능(AI) 모델을 사용할 수 있게 된다.",
+      "기존에는 고성능 최신 AI를 충분히 사용하려면 유료 구독이 필요했지만, 최신 모델의 경량 버전을 무료 이용자에게 개방한 것이다.오픈AI는 “GPT-5.6의 경량 모델 ‘루나’를 이용자 제한 없이 사용할 수 있게 할 것”이라고 6일(현지 시간) 밝혔다.",
+      "루나는 GPT-5.6을 구성하는 솔·테라·루나 가운데 가장 응답 속도가 빠르고 비용이 저렴한 모델로, 무료와."
     ],
     "chips": [
       "#AI"
+    ]
+  },
+  {
+    "id": "nb23757a6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260809/134445559/2",
+    "title": "[속보]김민석, 강원·TK서도 이겼다…與 전대 ‘1위’ 鄭과 격차 벌려",
+    "summary": [
+      "더불어민주당 대표 선출을 위한 강원과 대구·경북(TK) 순회경선에서 김민석 후보가 정청래, 송영길 후보를 누르고 1위를 차지했다.",
+      "김 후보는 전날 제주·인천에 이어 2주차 순회경선에서 정 후보에 승리해 누적 득표 1위를 유지하며 ‘우세’ 흐름을 이어갔다.",
+      "두 후보간 격차는 1.48%포인트(p)로 벌어졌다.민주당 중앙당 선거관리위원회는 9일 오전 10시 강원 횡성국민체육센터, 오후 4시 대구 인터불고 엑스코 호텔에서 당대표·최고위원 후보들의 합동."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1980f594",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260809/134444012/1",
+    "title": "길어진 폭염에 입추도 무색…식품업계, 여름 제철 메뉴 출시 ‘활발’",
+    "summary": [
+      "폭염이 길어지면서 절기상 가을의 시작인 입추 이후에도 식품업계의 여름 신메뉴 출시가 이어지고 있다.",
+      "무더위가 좀처럼 꺾이지 않자 여름 제철 원료를 활용한 음료와 디저트를 앞세워 수요 잡기에 나서는 모습이다.9일 식품업계에 따르면 주요 식음료 기업들은 최근 여름 시즌 음료와 디저트 신제품을 잇달아 선보이고 있다.",
+      "파스쿠찌는 7일 복숭아와 리치, 청포도 등 여름 과일에 티를 조합한 ‘빅아이스티’ 3종을 출시했다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
