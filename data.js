@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-09 16:21:28
+// 마지막 업데이트: 2026-08-09 17:21:14
 window.NEWS_DB = [
   {
-    "id": "nb8593cad",
+    "id": "n3485421d",
     "category": "IT",
-    "source": "네이트",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90bF9JMHJfNF9pUk9Va1ljWW9PTEdidkRVQjU4MGFGN0c4UWRnQzJLaUMxaDZlQU1zc24ycndiMVdINllIVkZESkx4Q0pSbGVHTFV3?oc=5",
-    "title": "'메모리+파운드리+패키징' 원팀 위력…HBM4E 양산도 앞당겨",
+    "source": "서울경제",
+    "time": "8시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUWl0VGozOC1JdmkxejBSMVZlWUcxNmZfRzNDTjNMNkgzcDNzV3Q4dGd1V3JNakRUbWxnQ09pVkhIX041NkFxdXRxVGJqaUFmOUHSAVNBVV95cUxQX0Jjbl9aYzUwcjYyZ0hiTWh0aXVJN054Y241QWRuTUswS0NwaWJNUDBFUzl6MnVHZmVFamFUOC1MMGVRMWRsYS03bUNoeGt4TkQySQ?oc=5",
+    "title": "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨",
     "summary": [
-      "'메모리+파운드리+패키징' 원팀 위력…HBM4E 양산도 앞당겨 네이트."
+      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 서울경제."
     ],
     "chips": [
       "#반도체"
@@ -33,12 +33,12 @@ window.NEWS_DB = [
   {
     "id": "n9db71f7c",
     "category": "사회",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG3SAVhBVV95cUxNc3NuMFZnYkdHajlweVB0NzBLX3V1SmcxSGNOQTVSblFJRUo1QVJDUTVBN1FEeGdSTGFpLXJHX2NQYV9QQXNQZkIzR3Z6R3VkN3VRZUNXelBt?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
-      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 ajunews.com."
+      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 아주경제."
     ],
     "chips": [
       "#AI",
@@ -66,12 +66,12 @@ window.NEWS_DB = [
   {
     "id": "n671bb698",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
     "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
     "summary": [
-      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
+      "KBO, 연이은 폭염에 프로야구 대책 논의 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -96,12 +96,12 @@ window.NEWS_DB = [
   {
     "id": "na3252cb5",
     "category": "IT",
-    "source": "sentv.co.kr",
+    "source": "서울경제TV",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN0JxQ1BHUXVMWkpJc2paRkM4cUV1VS1UTU04UzhpTjRuUS1JX3FpSG82bGl0clEzbVNpNktFSU5Fd2phbWlMaUtXd2huUHMwVHZaY01NOU5fOGplRnBuS0tZNzg?oc=5",
     "title": "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\"",
     "summary": [
-      "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\" sentv.co.kr."
+      "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\" 서울경제TV."
     ],
     "chips": [
       "#AI",
@@ -112,12 +112,12 @@ window.NEWS_DB = [
   {
     "id": "n5c09d452",
     "category": "경제",
-    "source": "kfenews.co.kr",
+    "source": "소년한국일보",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1BqOXR2TnBqanhaNF9PWVRrOXpRZDFrRjU4WGtZQ1d0S1JYU1JCbUotTUEyQmE5NzdBZDVlclFwX3pwZUxGMGJGU0Z0ckZ4c0NpckhFdzBsc0w3aDc3QVA1QW1IdW9aa3dfVdIBcEFVX3lxTE01VEEzeXJtMl85QTU0NEtoaWU4dEQ3eE9KckZFelY5bWVMdU9wdzZSaGdYZzd5UE9ObzFhaXhJcnBLbVo0Tm4wcFBsaGc2Q2FDX3IySW1qcUZQcXZLbG0xNUgzZUlJSjdEZGVfZktQSlM?oc=5",
     "title": "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는?",
     "summary": [
-      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? kfenews.co.kr."
+      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 소년한국일보."
     ],
     "chips": [
       "#환율"
@@ -183,13 +183,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "스포츠",
-    "source": "startupn.kr",
+    "category": "IT",
+    "source": "스타트업엔(StartupN)",
     "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
     ],
     "chips": [
       "#스타트업"
@@ -229,12 +229,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "72일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#부동산"
@@ -344,125 +344,170 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1ef2d959",
+    "id": "n6cb3a146",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/10/GY2DMMZZMJQWEMBTGM4WKY3BGI/",
-    "title": "KIA는 외면했는데, 10억 FA 이적→32살에 투수 리드 눈 뜨다! 감독 쓴소리도 쿨하게 인정 “덕분에 하나 배웠습니다”",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/08/10/MJRTIOBVHBTGMOLEHE2GGOJTGA/",
+    "title": "NBA 뉴올리언스와 보스턴. 왜 갑자기 이현중을 불렀나?",
     "summary": [
-      "[OSEN=이후광 기자] KIA 타이거즈가 스토브리그에서 외면했던 포수가 새 둥지에서 32살이라는 적지 않은 나이에 투수 리드를 새롭게 배우고 있다.",
-      "프로야구 KT 위즈 이강철 감독은 최근 현장에서 장성우를 대신해 주전 포수를 맡고 있는 한승택을 언급하면서 그의 투수 리드와 관련해 애정 어린 쓴소리를 날렸다.",
-      "이강철 감독은 “(한)승택이는 처음 KT에 왔을."
+      "[스포츠조선 류동혁 기자] 결국 NBA 서머리그 막판 인상적 맹활약의 결과물이다.",
+      "한국농구 에이스 이현중(26)의 NBA 도전은 끝나지 않았다.",
+      "뉴올리언스 펠리컨스, 보스턴 셀틱스가 러브콜을 보냈다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n7db941aa",
-    "category": "스포츠",
-    "source": "조선일보",
+    "id": "nf4619873",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003741995",
+    "title": "美 국가경제위원장 \"식료품·연료 가격 높아…해야 할 일 많다\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 케빈 해싯 백악관 국가경제위원회(NEC) 위원장은 9일(현지시간) 식료품 가격과 연료 가격 등이 여전히 높다고 밝혔다.",
+      "해싯 위원장은 이날 CNN 시사 프로그램 '스테이트 오브 더 유니언'에 출연해 \"식료품 가격은 너무 높다\"며 \"우리는 여전히 해야 할 일이 많다\"고 말했다.",
+      "그는 연료 가격도 높은 수준이라고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6ad43619",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/10/MJQWCMTDMFQWMMJUHFSTKOJSGM/",
-    "title": "\"ATL, 유격수 바꿔야\" 그런데 김하성은 당장 빼라니…경쟁자 흔들려도 설 자리 없는 운명",
+    "url": "https://www.yna.co.kr/view/AKR20260810000900009",
+    "title": "아르헨, 외국인 토지 매입 완화 추진하다 후퇴…정치적 후폭풍",
     "summary": [
-      "[스포츠조선 박상경 기자] '애틀랜타 브레이브스가 유격수를 바꿔야 할 때가 온 건가.' 애틀랜타 소식을 전하는 스포츠토크ATL은 9일(한국시각) 이런 제하의 기사를 냈다.",
-      "지난 달 초 김하성이 부상자 명단(IL)에 오른 뒤 유격수 자리를 지켰던 짐 자비스의 페이스가 최근 떨어지고 있는 상황에서 변화가 필요하다는 지적이다.",
-      "마침 애틀랜타는 IL 재활 경기 일."
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 하비에르 밀레이 아르헨티나 대통령이 외국인의 농촌 토지 소유 규제를 대폭 완화하려던 계획에서 한발..."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7986ab61",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809054451055",
+    "title": "전주 송천동 농수산물시장서 화재…1시간 50분 만에 초진(종합)",
+    "summary": [
+      "(전주=연합뉴스) 정경재 나보배 기자 = 전북 전주시 농수산물시장에서 난 불이 1시간 50여분 만에 초기 진화됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb59eba73",
+    "id": "n6ad37896",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/10/2026080917270233507",
-    "title": "\"여친 몰래...\" 래시포드, 비키니 미녀 10명과 고급 요트서 광란 술파티... 50만원 샴페인 천지에 '명품 도배'",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/10/G4YWKNBRGVRDEZDFGM3TCYJSMY/",
+    "title": "'금쪽이' 래시포드, 드디어 캐링턴 출근! 2년 만에 맨유 실전 복귀? 캐릭은 과연 어떻게 쓸까",
     "summary": [
-      "잉글랜드 축구대표팀 스타 마커스 래시포드(29)가 프랑스 휴양지에서 비키니를 입은 여성들과 호화 요트 파티를 즐기는 모습이 포착됐다.",
-      "영국 '더선'은 8일(현지시간) \"래시포드가 잉글랜드 대표팀의 2026 북중미 월드컵 3위 달성 이후 프랑스 리비에라에서 요트를 빌려 휴가를 보내고 있다\"고 보도했다.",
-      "매체에 따르면 래시포드는 여성 지인 10명과 함께 270파운드(약 50만원)짜리 아르망 드 브리냑 브뤼 골드 샴페인과 맥주를 마시며 돈을 아끼지."
+      "[스포츠조선 박상경 기자] 마커스 래시포드가 2년 만에 맨체스터 유나이티드 스쿼드에 복귀하는 것일까.",
+      "영국 일간지 데일리메일은 9일(한국시각) '래시포드가 맨유 선수단에 복귀한다'고 전했다.",
+      "래시포드는 이날 맨유 캐링턴 훈련장에 차를 몰고 진입하면서 팬들의 열렬한 환호를 받았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf925b314",
+    "id": "nf3a464fb",
     "category": "사회",
     "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260805_0003737082",
-    "title": "충격 받고 고통 잊으려 마신 술…\"우울증 옵니다\"",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003741996",
+    "title": "인천 자월도 인근서 모터보트 위치 소실…한 총리, 인명구조 긴급 대응 지시",
     "summary": [
-      "[서울=뉴시스] 류난영 기자 = 살면서 예상치 못한 충격적인 사건이나 트라우마를 겪은 후 마음의 고통을 잊기 위해 술을 찾는 습관이 우울증 위험을 대폭 키울 수 있다는 대규모 연구 결과가 나왔다.",
-      "기존 연구들에서 생활스트레스와 음주의 연관성을 분석한 연구들은 많았지만, 다양한 생활스트레스를 분류해 개별적 영향을 분석한 연구들은 없다.",
-      "이에 전상원·조성준 성균관의대 강북삼성병원 정신건강의학과 교수, 문지완 전공의 연구팀은 강북삼성병원 기업정신건강."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd3c629f2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260808_0003741232",
-    "title": "수상한 종이가방 본 택배기사 신고…보이스피싱 피해 3000만원 막아",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 수상한 현장을 목격한 택배기사의 신고가 보이스피싱 수거책 검거로 이어져 약 3000만원의 피해를 막은 사실이 뒤늦게 알려졌다.",
-      "7일 유튜브 채널 '대한민국 경찰청'에 공개된 영상에 따르면 택배기사로 일하던 A씨는 한 할머니가 종이가방을 정장을 입은 젊은 남성에게 건네는 모습을 목격했다.",
-      "A씨는 이후 남성이 돈을 건네받은 뒤 보이스피싱 조직 관계자로 추정되는 인물과 통화하는 듯한 모습을 보이자 범죄를 의심했다."
+      "[서울=뉴시스] 김지은 기자 = 한성숙 국무총리가 9일 밤 10시30분께 인천 옹진 해역 자월도 인근에서 발생한 모터보트(코모호, 0.28톤, 승선원 3명) 위치 소실 상황을 보고받고 관계 기관에 긴급 대응을 지시했다.",
+      "한 총리는 먼저 해양수산부·해양경찰청에 경비함정 및 주변 운항 중인 어선과 공조해 인명 구조를 최우선으로 실시하고, 보트의 위치파악에 가능한 모든 조처를 할 것을 지시했다.",
+      "국방부, 인천광역시 등에는 인명 구조에 필요한 인력과."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfa2e4ba7",
+    "id": "n865d00b7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003741994",
+    "title": "시리아 \"자국내 러시아 군사기지 2곳 훈련센터 전환 합의\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 시리아는 9일(현지시간) 러시아가 바샤르 알아사드 (前) 정권을 지원하기 위해 사용한 자국내 군사기지 2곳의 미래와 관련해 러시아와 합의에 도달했다고 밝혔다.",
+      "시리아 관영 통신 사나(SANA)과 러시아 타스통신에 따르면 시리아 외무부는 이날 \"(러시아가 사용 중인) 흐메이밈 공군기지와 타르투스 해군기지가 상호 이익을 보전하기 위한 새로운 협정에 따라 공동 훈련 및 역량 강화 센터로 전환될 것\"이라고 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6db1bdf5",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/10/MVRWGM3CGYYTIMTGG4ZDSYJYGM/",
+    "title": "‘데뷔전부터 야호!’ 아틀레티코 투톱으로 나선 이강인, 한글유니폼 입고 화려한 데뷔전 [오!쎈 상암]",
+    "summary": [
+      "[OSEN=서울월드컵경기장, 서정환 기자] 이강인(25, ATM)이 아틀레티코 마드리드에서 빛나는 데뷔를 했다.",
+      "아틀레티코 마드리드는 9일 오후 8시 서울월드컵경기장에서 개최된 ‘2026 쿠팡플레이 시리즈’ 친선전에서 맨체스터 시티(이하 맨시티)에게 1-3으로 졌다.",
+      "맨시티 공격수 오마르 마르무시가 두 골을 몰아쳐 승리의 주역이 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83c6170d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260810000800071",
+    "title": "백악관 해싯 \"식료품값·유가, 바라는 것보다 여전히 높아\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 케빈 해싯 백악관 국가경제위원회(NEC) 위원장은 9일(현지시간) 미국 중간선거 민심 지표라고 할 수 있는..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n825f3680",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "54분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003741991",
+    "title": "후티반군 \"홍해 모카항 드론·미사일 공격…사우디군 사상\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 친(親)이란 예멘 후티반군이 9일(현지시간) 예멘 정부군이 통제 중인 홍해 항구도시 모카를 미사일과 드론으로 공격했다.",
+      "모카항은 후티반군이 통제하는 호데이다항을 우회하는 선박의 화물을 처리할 수 있는 예멘 정부군의 주요 항구다.",
+      "AP통신 등에 따르면 예멘 정부와 연계된 국민저항군은 후티의 모카항 공격으로 군인 4명과 민간인 3명 등 최소 7명이 숨지고 민간인 15명이 다쳤다고 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1035ec70",
     "category": "사회",
     "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/10/G5TDQZRSMQZTSYRZGNTDGODFGI/",
-    "title": "‘박현호♥’ 은가은, 애엄마 맞아?..출산 6개월 만에 늘씬 자태",
+    "time": "58분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/10/G5SDIZJXHBTDSOLDGQ4WKOLGGY/",
+    "title": "레오 14세 교황 “러·우크라, 민간 목표물 공격 중단해야”",
     "summary": [
-      "[OSEN=박하영 기자] 트로트 가수 은가은이 출산 후에도 변함없는 미모를 자랑했다.지난 9일 은가은은 자신의 계정에 “지금 kbs1 tv쇼 진품명품 ! 11:10 본방사수”라는 글과 함께 여러 장의 사진을 게재했다.사진 속 은가은은 캉캉치마에 프린팅 반팔티를 입고 브이 포즈를 취하고 있다.",
-      "카메라를 향해 윙크를 한 그는 상큼한 매력을 더한 모습이다.특히."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n75ebcf28",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/08/10/XH33R52655ARXGNWZHXBQFWEEI/",
-    "title": "“AI 시대 창업 꿈꾼다” 韓 12% 美 57%",
-    "summary": [
-      "“AI 시대 창업 꿈꾼다” 韓 12% 美 57%."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n28d7b024",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003741986",
-    "title": "美 국무부 \"中, 스카버러 암초서 불안정 초래…필리핀과 연대\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 미국 국무부는 중국이 스카버러 암초(중국명 황옌다오·필리핀명 바조 데 마신록)에서 불안정을 초래하고 있다고 비판했다.",
-      "국무부는 8일(현지시간) 토미 피곳 국무부 대변인 명의 성명에서 \"미국은 스카버러 암초에서 불안정을 초래하는 '국가 자연보호구역'을 시행하고 2016년 중재 판정에 반영된 필리핀 어민들의 전통적 어장 접근을 거부하려는 중국의 지속적인 시도를 규탄한다\"고 밝혔다.",
-      "이어 \"이는 중국이 강압에 의해 뒷."
+      "레오 14세 교황이 러시아와 우크라이나를 향해 민간 시설을 겨냥한 공격을 멈추고 국제법을 준수하라고 촉구했다.",
+      "교황청에 따르면 레오 14세는 9일(현지 시각) 성베드로 광장에서 주일 삼종기도를 집전하며 러시아·우크라이나 전쟁으로 어린이를 비롯한 민간인 희생자가 증가하고 있다고 우려했다.",
+      "그러면서 “양측 모두 국제법을 존중하고 민간 목표물에 대한 공격을 중단."
     ],
     "chips": [
       "#뉴스"
@@ -472,7 +517,7 @@ window.NEWS_DB = [
     "id": "n393a7689",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "34분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260810000700109",
     "title": "교황 \"러·우크라 모두 민간 목표물 공격 중단해야\"",
     "summary": [
@@ -486,7 +531,7 @@ window.NEWS_DB = [
     "id": "n0e7d2bf2",
     "category": "IT",
     "source": "한경IT",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026080928791",
     "title": "한 번 갈 때마다 '127만원'인데…\"가깝고 싸네요\" 인기 폭발",
     "summary": [
@@ -497,26 +542,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n493f1e42",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "48분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/10/2026080916044232882",
-    "title": "\"두산 승리 이끄는 '퀸카(Queencard)' 되겠다\" 두산 11일 잠실 한화전 승리기원 시구 주인공은 아이들 민니",
-    "summary": [
-      "두산 베어스가 오는 11일 오후 6시 30분 서울 잠실야구장에서 열리는 한화 이글스와 정규시즌 맞대결에서 승리 기원 시구를 진행한다.",
-      "이날 시구는 그룹 i-dle (아이들)의 민니가 나선다.",
-      "아이들의 메인보컬 민니는 탄탄한 보컬 실력뿐만 아니라 프로듀싱 능력까지 겸비한 실력파 아이돌이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nb3e5877c",
     "category": "경제",
     "source": "한국경제",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026080928781",
     "title": "에이피알 '메디큐브' 검색량 역대 최고",
     "summary": [
@@ -530,7 +559,7 @@ window.NEWS_DB = [
     "id": "n1e8acc50",
     "category": "IT",
     "source": "한경IT",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026080928771",
     "title": "마운자로·위고비, 상반기 글로벌 매출 69% 증가",
     "summary": [
@@ -544,7 +573,7 @@ window.NEWS_DB = [
     "id": "nbe3160f1",
     "category": "경제",
     "source": "동아일보",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260809/134445396/2",
     "title": "단일종목 레버리지 묶자 지수형 ETF로 ‘머니 무브’",
     "summary": [
@@ -560,7 +589,7 @@ window.NEWS_DB = [
     "id": "naa360ec2",
     "category": "사회",
     "source": "동아일보",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260809/134445379/2",
     "title": "무리한 빚투에… 청년-고령층 마이너스통장 연체율 급상승",
     "summary": [
@@ -576,7 +605,7 @@ window.NEWS_DB = [
     "id": "nd45201c4",
     "category": "사회",
     "source": "동아일보",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260809/134445394/2",
     "title": "與, 기존 ISA는 개편 않고 세제혜택 유지할듯",
     "summary": [
@@ -593,43 +622,13 @@ window.NEWS_DB = [
     "id": "n07be6a25",
     "category": "IT",
     "source": "동아일보",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260809/134445149/2",
     "title": "로봇이 신선식품 찾아, 영하 25도 냉동고 누빈다",
     "summary": [
       "7일 찾은 부산 강서구 ‘롯데마트 제타 스마트센터 부산’.",
       "영상 5도의 냉장 저장고에서 ‘위이이잉’ 청소기가 돌아가는 듯한 소리와 함께 공구용 카트를 닮은 로봇들이 격자 모양의 레일 위를 초당 4m로 내달렸다.",
       "소형 냉장고만 한 크기에 무게가 50kg가량인 이 로봇은 상품이 담긴 토트(바구니)를 운반하는 ‘봇’이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc8e82637",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "51분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809049851108",
-    "title": "후티 반군 \"예멘 모카항의 사우디군 집결지 타격\"(종합)",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 예멘의 친이란 반군 후티가 9일(현지시간) 예멘 남서부 항구도시 모카에 주둔하는 사우디아라비아 병력을 공..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nee9e650a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "57분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/10/2026080923350963341",
-    "title": "'신호진-임성진 쌍포 터졌다' 한국 男 배구, 日 잡고 동아시아선수권 2연패 쾌거",
-    "summary": [
-      "세계 랭킹 25위 한국 남자배구 대표팀이 2026 동아시아남자선수권대회에서 두 대회 연속 정상에 올랐다.",
-      "이사나예 라미레스(42) 감독이 이끄는 한국은 9일 몽골 울란바타르 AVA 아레나에서 열린 대회 결승전에서 세계 6위 일본을 세트 점수 3-1(40-38, 25-17, 23-25, 25-22)로 꺾었다.",
-      "한국은 지난해 이 대회 결승에서 대만을 3-0으로 셧아웃시키며 정상에 올랐는데 다시 한 번 동아시아 최강자 자리를 지키며 통산 4번째 우승."
     ],
     "chips": [
       "#뉴스"
@@ -642,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
