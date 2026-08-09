@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-09 15:20:51
+// 마지막 업데이트: 2026-08-09 16:21:28
 window.NEWS_DB = [
   {
     "id": "nb8593cad",
     "category": "IT",
     "source": "네이트",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90bF9JMHJfNF9pUk9Va1ljWW9PTEdidkRVQjU4MGFGN0c4UWRnQzJLaUMxaDZlQU1zc24ycndiMVdINllIVkZESkx4Q0pSbGVHTFV3?oc=5",
     "title": "'메모리+파운드리+패키징' 원팀 위력…HBM4E 양산도 앞당겨",
     "summary": [
@@ -33,12 +33,12 @@ window.NEWS_DB = [
   {
     "id": "n9db71f7c",
     "category": "사회",
-    "source": "아주경제",
+    "source": "ajunews.com",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG3SAVhBVV95cUxNc3NuMFZnYkdHajlweVB0NzBLX3V1SmcxSGNOQTVSblFJRUo1QVJDUTVBN1FEeGdSTGFpLXJHX2NQYV9QQXNQZkIzR3Z6R3VkN3VRZUNXelBt?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
-      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 아주경제."
+      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 ajunews.com."
     ],
     "chips": [
       "#AI",
@@ -49,18 +49,32 @@ window.NEWS_DB = [
   {
     "id": "n23a94137",
     "category": "IT",
-    "source": "newspim.com",
+    "source": "뉴스핌",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
     "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
     "summary": [
-      "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속' newspim.com."
+      "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속' 뉴스핌."
     ],
     "chips": [
       "#AI",
       "#반도체",
       "#엔비디아",
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n671bb698",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
+    "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
+    "summary": [
+      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -82,12 +96,12 @@ window.NEWS_DB = [
   {
     "id": "na3252cb5",
     "category": "IT",
-    "source": "서울경제TV",
+    "source": "sentv.co.kr",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN0JxQ1BHUXVMWkpJc2paRkM4cUV1VS1UTU04UzhpTjRuUS1JX3FpSG82bGl0clEzbVNpNktFSU5Fd2phbWlMaUtXd2huUHMwVHZaY01NOU5fOGplRnBuS0tZNzg?oc=5",
     "title": "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\"",
     "summary": [
-      "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\" 서울경제TV."
+      "\"전세계 소버린AI 92%가 엔비디아 칩 사용…한국은 대안 찾기\" sentv.co.kr."
     ],
     "chips": [
       "#AI",
@@ -98,12 +112,12 @@ window.NEWS_DB = [
   {
     "id": "n5c09d452",
     "category": "경제",
-    "source": "소년한국일보",
+    "source": "kfenews.co.kr",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1BqOXR2TnBqanhaNF9PWVRrOXpRZDFrRjU4WGtZQ1d0S1JYU1JCbUotTUEyQmE5NzdBZDVlclFwX3pwZUxGMGJGU0Z0ckZ4c0NpckhFdzBsc0w3aDc3QVA1QW1IdW9aa3dfVdIBcEFVX3lxTE01VEEzeXJtMl85QTU0NEtoaWU4dEQ3eE9KckZFelY5bWVMdU9wdzZSaGdYZzd5UE9ObzFhaXhJcnBLbVo0Tm4wcFBsaGc2Q2FDX3IySW1qcUZQcXZLbG0xNUgzZUlJSjdEZGVfZktQSlM?oc=5",
     "title": "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는?",
     "summary": [
-      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 소년한국일보."
+      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? kfenews.co.kr."
     ],
     "chips": [
       "#환율"
@@ -169,13 +183,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "IT",
-    "source": "스타트업엔(StartupN)",
+    "category": "스포츠",
+    "source": "startupn.kr",
     "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
     ],
     "chips": [
       "#스타트업"
@@ -215,12 +229,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "72일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -285,20 +299,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n01f4c085",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "139일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
-    "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -344,294 +344,295 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6a627712",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/10/MUZWEOLEME3DINJUMUZDAMJYMI/",
-    "title": "샤이니 민호, 엑소 카이에 차단 당했다?..“런던런 이후 문자 안 읽어”",
-    "summary": [
-      "[OSEN=박하영 기자] 가수 민호와 최강창민이 함께 양재천을 달렸다.",
-      "최근 유튜브 채널 ‘최민호’에는 ‘런던런 파트너 최강창민을 데리러 갔습니다’라는 제목의 영상이 게재됐다.이날 ‘데리러 가’ 코너에는 동방신기 최강창민이 게스트로 등장했다.",
-      "민호는 최강창민에 대해 “같이 가장 많이 뛴 아티스트다”라며 “저희 사건은 런던에서부터 시작해서 1년 반이 가까이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd34d8c29",
+    "id": "n1ef2d959",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/10/MJSTIMDGME4GKN3BGQ2DCMJQMU/",
-    "title": "\"한국 시절부터 지켜봤는데…\" 美 저명 기자가 이정후한테 감동을 받다니, 대체 무슨 사연이길래",
-    "summary": [
-      "[OSEN=이상학 객원기자] “난 이정후의 열렬한 팬이다.”메이저리그를 대표하는 저명 기자가 이정후(27·샌프란시스코 자이언츠)와 일화를 전하며 칭찬을 아끼지 않았다.",
-      "‘MLB 네트워크’ 존 모로시 기자가 그 주인공으로 이정후에게 남다른 애정을 드러냈다.",
-      "모로시 기자는 지난 8일(이하 한국시간) 샌프란시스코 지역 라디오 KNBR ‘머프&마커스’에 출연해 샌."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndcae59a6",
-    "category": "사회",
     "source": "조선일보",
     "time": "10분 전",
-    "url": "https://www.chosun.com/opinion/palmyeonbong/2026/08/10/RZB7UF7BJBEF3H7EIFDXLIRKPU/",
-    "title": "[팔면봉] 靑, 2030 지지율 하락에 청년 정책 재검토 예고. 외",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/10/GY2DMMZZMJQWEMBTGM4WKY3BGI/",
+    "title": "KIA는 외면했는데, 10억 FA 이적→32살에 투수 리드 눈 뜨다! 감독 쓴소리도 쿨하게 인정 “덕분에 하나 배웠습니다”",
     "summary": [
-      "[팔면봉] 靑, 2030 지지율 하락에 청년 정책 재검토 예고. 외."
+      "[OSEN=이후광 기자] KIA 타이거즈가 스토브리그에서 외면했던 포수가 새 둥지에서 32살이라는 적지 않은 나이에 투수 리드를 새롭게 배우고 있다.",
+      "프로야구 KT 위즈 이강철 감독은 최근 현장에서 장성우를 대신해 주전 포수를 맡고 있는 한승택을 언급하면서 그의 투수 리드와 관련해 애정 어린 쓴소리를 날렸다.",
+      "이강철 감독은 “(한)승택이는 처음 KT에 왔을."
     ],
     "chips": [
-      "#정책"
+      "#KBO"
     ]
   },
   {
-    "id": "nec26ae5e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003741985",
-    "title": "이란 외무 \"美와 직접 협상 없다…호르무즈 새 항로는 최종 단계\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 아바스 아라그치 이란 외무장관은 9일(현지시간) 이란과 미국 사이에 직접 협상은 현재 진행되지 않고 있다고 밝혔다.",
-      "이란 반관영 타스님통신에 따르면 아라그치 장관은 이날 외교부 관련 행사에서 \"중재국들이 협상 재개의 길을 찾기 위한 노력을 계속하고 있다\"며 \"미국이 양해각서(MOU) 위반을 중단하고, 위반에 따른 책임을 보상하기 전에는 협상을 재개할 수 없다는 것이 우리의 입장\"이라고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne87cb933",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026081000061916872",
-    "title": "애플, 중국 CXMT 칩 시험…美 규제 속 도입 검토",
-    "summary": [
-      "애플이 인공지능(AI) 붐으로 촉발된 글로벌 메모리 반도체 공급난에 대응하기 위해 중국 최대 D램 업체 창신메모리(CXMT)의 칩을 아이폰과 맥북 등에 시험 적용하고 있는 것으로 나타났다.",
-      "미국 정부가 중국 반도체 기업에 대한 규제를 강화하는 가운데 애플이 중국산 메모리 도입을 추진하면서 미·중 기술 갈등의 새로운 쟁점으로 떠오를 전망이다.",
-      "9일(현지시간) 월스트리트저널(WSJ)은 사안에 정통한 관계자들을 인용해 애플이."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#정책"
-    ]
-  },
-  {
-    "id": "ne7133c48",
+    "id": "n7db941aa",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003741984",
-    "title": "남자배구, 일본 3-1 꺾고 동아시아선수권대회 2연패",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/10/MJQWCMTDMFQWMMJUHFSTKOJSGM/",
+    "title": "\"ATL, 유격수 바꿔야\" 그런데 김하성은 당장 빼라니…경쟁자 흔들려도 설 자리 없는 운명",
     "summary": [
-      "[서울=뉴시스]안경남 기자 = 한국 남자배구 대표팀이 2026 동아시아남자선수권대회 2연패를 달성했다.",
-      "이사나예 라미레스 감독이 이끄는 한국은 9일 몽골 울란바타르 AVA 아레나에서 열린 대회 결승전에서 일본을 세트 점수 3-1(40-38, 25-17, 23-25, 25-22)로 꺾었다.",
-      "이로써 지난해 이 대회 챔피언인 한국은 대회 2회 연속 우승에 성공했다."
+      "[스포츠조선 박상경 기자] '애틀랜타 브레이브스가 유격수를 바꿔야 할 때가 온 건가.' 애틀랜타 소식을 전하는 스포츠토크ATL은 9일(한국시각) 이런 제하의 기사를 냈다.",
+      "지난 달 초 김하성이 부상자 명단(IL)에 오른 뒤 유격수 자리를 지켰던 짐 자비스의 페이스가 최근 떨어지고 있는 상황에서 변화가 필요하다는 지적이다.",
+      "마침 애틀랜타는 IL 재활 경기 일."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd26dcce3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809054500108",
-    "title": "시리아, 러 군사기지 2곳 훈련센터 전환에 합의",
+    "id": "nb59eba73",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/10/2026080917270233507",
+    "title": "\"여친 몰래...\" 래시포드, 비키니 미녀 10명과 고급 요트서 광란 술파티... 50만원 샴페인 천지에 '명품 도배'",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 시리아와 러시아가 시리아 안에 있는 러시아 군사기지 2곳을 공동 훈련 센터 등 용도로 전환하는 방안에 합..."
+      "잉글랜드 축구대표팀 스타 마커스 래시포드(29)가 프랑스 휴양지에서 비키니를 입은 여성들과 호화 요트 파티를 즐기는 모습이 포착됐다.",
+      "영국 '더선'은 8일(현지시간) \"래시포드가 잉글랜드 대표팀의 2026 북중미 월드컵 3위 달성 이후 프랑스 리비에라에서 요트를 빌려 휴가를 보내고 있다\"고 보도했다.",
+      "매체에 따르면 래시포드는 여성 지인 10명과 함께 270파운드(약 50만원)짜리 아르망 드 브리냑 브뤼 골드 샴페인과 맥주를 마시며 돈을 아끼지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n10be0614",
+    "id": "nf925b314",
     "category": "사회",
     "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260809_0003741807",
-    "title": "\"토마토와 이 조합?\"…맹승지, 다이어트 효과 높인 비법은?",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260805_0003737082",
+    "title": "충격 받고 고통 잊으려 마신 술…\"우울증 옵니다\"",
     "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 방송인 맹승지가 최근 자신의 SNS를 통해 건강과 미모를 동시에 챙기는 똑똑한 뷰티 루틴을 공개하며 팬들의 이목을 집중시켰다.",
-      "지난 3일 맹승지는 개인 소셜네트워크서비스(SNS)에 \"건강하게 예뻐지려면 매일의 습관이 중요하다\"라는 글과 함께 근황 사진을 게재했다.",
-      "공개된 사진 속에는 그가 직접 준비한 아보카도와 토마토 식단이 담겨 있어 눈길을 끌었다."
+      "[서울=뉴시스] 류난영 기자 = 살면서 예상치 못한 충격적인 사건이나 트라우마를 겪은 후 마음의 고통을 잊기 위해 술을 찾는 습관이 우울증 위험을 대폭 키울 수 있다는 대규모 연구 결과가 나왔다.",
+      "기존 연구들에서 생활스트레스와 음주의 연관성을 분석한 연구들은 많았지만, 다양한 생활스트레스를 분류해 개별적 영향을 분석한 연구들은 없다.",
+      "이에 전상원·조성준 성균관의대 강북삼성병원 정신건강의학과 교수, 문지완 전공의 연구팀은 강북삼성병원 기업정신건강."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n16970257",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026080711697",
-    "title": "[오늘의 운세] 8월 10일 띠별 운세",
-    "summary": [
-      "[오늘의 운세] 8월 10일 띠별 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n84b8ef68",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026080711627",
-    "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 10일 띠별 추천 점심메뉴",
-    "summary": [
-      "[오늘의 운세] 오늘 뭐 먹지?…8월 10일 띠별 추천 점심메뉴."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2274706a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026080687037",
-    "title": "[오늘의 운세] 2026년 8월 10일 별자리 운세",
-    "summary": [
-      "[오늘의 운세] 2026년 8월 10일 별자리 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb678ef5c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260810000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13f75e85",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260809/134445611/1",
-    "title": "김민석, 승부처 호남서 유리한 고지…선호투표제·여론조사 변수",
-    "summary": [
-      "더불어민주당 8·17 전당대회 2주 차 순회 경선에서 김민석 후보가 정청래 후보에게 역전하면서 승부처로 꼽히는 호남 경선을 유리한 고지에서 맞이하게 됐다.",
-      "하지만 김 후보와 정 후보가 여전히 1.48%포인트 차 초박빙 승부를 이어가고 있는 데다 세 후보 모두 전체 권리당원의 33%를 차지하는 호남을 향해 집중 구애를 펼쳐온 만큼 아직까진 승패를 가늠하긴 어렵다는 지적이 나온다.",
-      "호남 순회경선 결과가 ‘대세론’으로 이어질 수 있다는 분석이 나오는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncaeb85b7",
+    "id": "nd3c629f2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003741983",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260808_0003741232",
+    "title": "수상한 종이가방 본 택배기사 신고…보이스피싱 피해 3000만원 막아",
     "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7416) 또는 이메일(jk311930@newsis.com)로 문의하시기 바랍니다."
+      "[서울=뉴시스]전민영 인턴 기자 = 수상한 현장을 목격한 택배기사의 신고가 보이스피싱 수거책 검거로 이어져 약 3000만원의 피해를 막은 사실이 뒤늦게 알려졌다.",
+      "7일 유튜브 채널 '대한민국 경찰청'에 공개된 영상에 따르면 택배기사로 일하던 A씨는 한 할머니가 종이가방을 정장을 입은 젊은 남성에게 건네는 모습을 목격했다.",
+      "A씨는 이후 남성이 돈을 건네받은 뒤 보이스피싱 조직 관계자로 추정되는 인물과 통화하는 듯한 모습을 보이자 범죄를 의심했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n56186417",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809054400055",
-    "title": "전주 송천동 농수산물시장 활어동에서 화재…대응 2단계 발령",
-    "summary": [
-      "(전주=연합뉴스) 나보배 기자 = 9일 오후 11시 13분께 전북 전주시 덕진구 송천동의 한 농수산물시장 활어동에서 불이 났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndf70f1fb",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260809054100072",
-    "title": "\"애플, 中 창신메모리 칩 적용 테스트…부품공급 초기논의\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 애플이 아이폰과 맥북 등 자사 여러 제품군에 중국 창신메모리(CXMT) 칩을 시험 적용하고 있다고 미 월스트..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb4abe3b2",
+    "id": "nfa2e4ba7",
     "category": "사회",
     "source": "조선일보",
-    "time": "45분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/09/FO5M2H3P4BDH3D64FGGNKX5BB4/",
-    "title": "[특파원 리포트] 일본의 과민증, 한국의 불감증",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/10/G5TDQZRSMQZTSYRZGNTDGODFGI/",
+    "title": "‘박현호♥’ 은가은, 애엄마 맞아?..출산 6개월 만에 늘씬 자태",
     "summary": [
-      "[특파원 리포트] 일본의 과민증, 한국의 불감증."
+      "[OSEN=박하영 기자] 트로트 가수 은가은이 출산 후에도 변함없는 미모를 자랑했다.지난 9일 은가은은 자신의 계정에 “지금 kbs1 tv쇼 진품명품 ! 11:10 본방사수”라는 글과 함께 여러 장의 사진을 게재했다.사진 속 은가은은 캉캉치마에 프린팅 반팔티를 입고 브이 포즈를 취하고 있다.",
+      "카메라를 향해 윙크를 한 그는 상큼한 매력을 더한 모습이다.특히."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na69e80ae",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "50분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260809/134445975/2",
-    "title": "[사설]국회에 묶여있는 9·7공급 대책… ‘닥치고’ 법안부터 처리해야",
+    "id": "n75ebcf28",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/08/10/XH33R52655ARXGNWZHXBQFWEEI/",
+    "title": "“AI 시대 창업 꿈꾼다” 韓 12% 美 57%",
     "summary": [
-      "정부는 이르면 이번 주 수도권에 주택 5만 채 이상을 공급하는 부동산 대책을 발표할 것으로 알려졌다.",
-      "그러나 지난해 발표된 ‘9·7 주택공급 확대 방안’의 후속 법안조차 상당수가 11개월째 국회 문턱을 넘지 못한 상태다.",
-      "이래서야 아무리 ‘닥치고 공급’을 외쳐도 시장과 국민이 그 효과를 체감하기 어려울 수밖에 없다."
+      "“AI 시대 창업 꿈꾼다” 韓 12% 美 57%."
     ],
     "chips": [
-      "#부동산",
+      "#AI"
+    ]
+  },
+  {
+    "id": "n28d7b024",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003741986",
+    "title": "美 국무부 \"中, 스카버러 암초서 불안정 초래…필리핀과 연대\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 미국 국무부는 중국이 스카버러 암초(중국명 황옌다오·필리핀명 바조 데 마신록)에서 불안정을 초래하고 있다고 비판했다.",
+      "국무부는 8일(현지시간) 토미 피곳 국무부 대변인 명의 성명에서 \"미국은 스카버러 암초에서 불안정을 초래하는 '국가 자연보호구역'을 시행하고 2016년 중재 판정에 반영된 필리핀 어민들의 전통적 어장 접근을 거부하려는 중국의 지속적인 시도를 규탄한다\"고 밝혔다.",
+      "이어 \"이는 중국이 강압에 의해 뒷."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n393a7689",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260810000700109",
+    "title": "교황 \"러·우크라 모두 민간 목표물 공격 중단해야\"",
+    "summary": [
+      "(바티칸=연합뉴스) 민경락 특파원 = 레오 14세 교황이 9일(현지시간) 러시아와 우크라이나 양측에 민간인을 겨냥한 공격을 중단할 것을 촉구했다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e7d2bf2",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "47분 전",
+    "url": "https://www.hankyung.com/article/2026080928791",
+    "title": "한 번 갈 때마다 '127만원'인데…\"가깝고 싸네요\" 인기 폭발",
+    "summary": [
+      "한 번 갈 때마다 '127만원'인데…\"가깝고 싸네요\" 인기 폭발."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n493f1e42",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "48분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/10/2026080916044232882",
+    "title": "\"두산 승리 이끄는 '퀸카(Queencard)' 되겠다\" 두산 11일 잠실 한화전 승리기원 시구 주인공은 아이들 민니",
+    "summary": [
+      "두산 베어스가 오는 11일 오후 6시 30분 서울 잠실야구장에서 열리는 한화 이글스와 정규시즌 맞대결에서 승리 기원 시구를 진행한다.",
+      "이날 시구는 그룹 i-dle (아이들)의 민니가 나선다.",
+      "아이들의 메인보컬 민니는 탄탄한 보컬 실력뿐만 아니라 프로듀싱 능력까지 겸비한 실력파 아이돌이다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb3e5877c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "49분 전",
+    "url": "https://www.hankyung.com/article/2026080928781",
+    "title": "에이피알 '메디큐브' 검색량 역대 최고",
+    "summary": [
+      "에이피알 '메디큐브' 검색량 역대 최고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e8acc50",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "49분 전",
+    "url": "https://www.hankyung.com/article/2026080928771",
+    "title": "마운자로·위고비, 상반기 글로벌 매출 69% 증가",
+    "summary": [
+      "마운자로·위고비, 상반기 글로벌 매출 69% 증가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbe3160f1",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "51분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260809/134445396/2",
+    "title": "단일종목 레버리지 묶자 지수형 ETF로 ‘머니 무브’",
+    "summary": [
+      "금융 당국이 단일종목 레버리지 상품의 투자 문턱을 높인 이후, 이 상품들의 거래대금이 10분의 1 이하로 감소한 것으로 나타났다.",
+      "그 대신 코스피·코스닥 등을 추종하는 지수형 상장지수펀드(ETF) 거래대금은 늘면서, ‘머니 무브’(자금 이동)가 나타나고 있다.",
+      "금융 당국이 단일종목 레버리지 규제를 조기에 시행하면서 이 상품들의 쏠림 현상은 빠르게 진정되고 있지만, ‘한 방’을 노리는 투기성 거래는 줄어들지 않는 모습이다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "naa360ec2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "51분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260809/134445379/2",
+    "title": "무리한 빚투에… 청년-고령층 마이너스통장 연체율 급상승",
+    "summary": [
+      "5대 시중은행의 마이너스통장 잔액이 지난해 말보다 3조 원 넘게 늘어난 것으로 나타났다.",
+      "특히 마통을 활용해 빚투(빚내서 투자)에 나선 것으로 보이는 청년층과 고령층의 부실 징후가 나타나고 있다.",
+      "9일 국회 재정경제기획위원회 소속 국민의힘 이종욱 의원이 금융감독원에서 받은 자료에 따르면 올해 6월 말 기준 5대 은행(KB국민·신한·하나·우리·NH농협) 개인 신용한도대출(마이너스통장) 잔액은 43조3000억 원으로 지난해 말(39조9000억 원)."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd45201c4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "51분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260809/134445394/2",
+    "title": "與, 기존 ISA는 개편 않고 세제혜택 유지할듯",
+    "summary": [
+      "이재명 대통령이 개인종합자산관리계좌(ISA) 개편 및 ‘주가 누르기 방지 법안’에 대해 전면 재검토를 지시한 가운데 여당은 “기존 ISA는 건드릴 필요는 없을 것 같다”고 밝혔다.",
+      "기존 ISA는 개편안을 적용하지 말고 세제 혜택 등을 현행대로 유지해야 한다는 것이다.",
+      "더불어민주당 한정애 정책위의장은 9일 국회에서 기자간담회를 열고 ISA 개편안에 대해 “생산적 금융과 관련해 추가로 들어온 것은 선택적으로 하면 될 것”이라며 이같이 말했다."
+    ],
+    "chips": [
       "#정책",
       "#정치"
     ]
   },
   {
-    "id": "n97a48459",
-    "category": "사회",
+    "id": "n07be6a25",
+    "category": "IT",
     "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260809/134445979/2",
-    "title": "[사설]‘재정 비상’ 바람 잡더니 ‘반도체 세금’ 내놓으라는 秋",
+    "time": "51분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260809/134445149/2",
+    "title": "로봇이 신선식품 찾아, 영하 25도 냉동고 누빈다",
     "summary": [
-      "취임 약 한 달 만인 5일 ‘재정 비상 상황’을 선언한 추미애 경기도지사가 6일 자신의 소셜미디어에 “경기도 재정 위기 문제는 낡은 지방세제”라고 주장했다.",
-      "9일까지 5건의 글을 연달아 올리며 ‘경기도 재정난이 과도한 복지정책 때문’이라는 비판을 반박했다.",
-      "추 지사는 8일 “중앙정부가 교부세를 주지 않도록 해놓았기 때문에 재정 둑이 무너져도 메울 수가 없다”고 했다."
+      "7일 찾은 부산 강서구 ‘롯데마트 제타 스마트센터 부산’.",
+      "영상 5도의 냉장 저장고에서 ‘위이이잉’ 청소기가 돌아가는 듯한 소리와 함께 공구용 카트를 닮은 로봇들이 격자 모양의 레일 위를 초당 4m로 내달렸다.",
+      "소형 냉장고만 한 크기에 무게가 50kg가량인 이 로봇은 상품이 담긴 토트(바구니)를 운반하는 ‘봇’이다."
     ],
     "chips": [
-      "#반도체",
-      "#정책"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc8e82637",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260809049851108",
+    "title": "후티 반군 \"예멘 모카항의 사우디군 집결지 타격\"(종합)",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 예멘의 친이란 반군 후티가 9일(현지시간) 예멘 남서부 항구도시 모카에 주둔하는 사우디아라비아 병력을 공..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee9e650a",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "57분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/10/2026080923350963341",
+    "title": "'신호진-임성진 쌍포 터졌다' 한국 男 배구, 日 잡고 동아시아선수권 2연패 쾌거",
+    "summary": [
+      "세계 랭킹 25위 한국 남자배구 대표팀이 2026 동아시아남자선수권대회에서 두 대회 연속 정상에 올랐다.",
+      "이사나예 라미레스(42) 감독이 이끄는 한국은 9일 몽골 울란바타르 AVA 아레나에서 열린 대회 결승전에서 세계 6위 일본을 세트 점수 3-1(40-38, 25-17, 23-25, 25-22)로 꺾었다.",
+      "한국은 지난해 이 대회 결승에서 대만을 3-0으로 셧아웃시키며 정상에 올랐는데 다시 한 번 동아시아 최강자 자리를 지키며 통산 4번째 우승."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -641,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
