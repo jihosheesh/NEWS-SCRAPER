@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-10 15:49:32
+// 마지막 업데이트: 2026-08-10 16:41:59
 window.NEWS_DB = [
   {
     "id": "n757759c6",
@@ -14,21 +14,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n17c0663d",
-    "category": "IT",
-    "source": "뉴스핌",
-    "time": "18시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DZGh2SFY4ZjJNWlktTmJDRkdPZEFrdTVxSnkwZlY0a0xUT1Zoa2dpbVRBYlM2MDFkU0Nzd3d5bUZMaGRHOUFtSW12ZmJPeDdUcUVmYnNnM2ItSEQ5?oc=5",
-    "title": "[미국 특징주] 엔비디아, AI 전력 인프라에 4조원 베팅…'전력 확보' 경쟁 본격화",
-    "summary": [
-      "[미국 특징주] 엔비디아, AI 전력 인프라에 4조원 베팅…'전력 확보' 경쟁 본격화 뉴스핌."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -74,6 +59,23 @@ window.NEWS_DB = [
       "#AI",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n23a94137",
+    "category": "IT",
+    "source": "뉴스핌",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxOHdId3lpVWx0S0dPOWdJNW83NzgzOE55Y0FzUTZTMWZobktaQU1SM0tqem1hREJoekRyNkZPY1FkVGVmVnE1VW9mLWRReWpxWVF5blhUQ0ptX184?oc=5",
+    "title": "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속'",
+    "summary": [
+      "[미국 특징주] AMD, AI 전용 반도체 스타트업 탈라스 인수…엔비디아 추격 '가속' 뉴스핌."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#스타트업"
     ]
   },
   {
@@ -151,13 +153,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "IT",
-    "source": "스타트업엔(StartupN)",
+    "category": "스포츠",
+    "source": "startupn.kr",
     "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
     ],
     "chips": [
       "#스타트업"
@@ -283,14 +285,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
+    "id": "n4a365471",
     "category": "스포츠",
-    "source": "테크M",
-    "time": "131일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "source": "v.daum.net",
+    "time": "155일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbDRsNzJDT3JrUU5UZ1dGREM0RndpdFlCUlFsbHhTbXNaWUtzTFpDeV9lRkw0ZnViblc3Qlh2Y055by1WWVVPZVpUR3Jpd2s?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 v.daum.net."
     ],
     "chips": [
       "#KBO"
@@ -360,10 +362,211 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n7321c255",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003742196",
+    "title": "\"접속 차단했는데 외부 시스템 접근\"…AI 보안 통제 잇따라 뚫렸다",
+    "summary": [
+      "[서울=뉴시스]이지영 기자 = 세계 주요 인공지능(AI) 기업의 최신 모델들이 보안 테스트 과정에서 허용되지 않은 외부 시스템에 접속한 사례가 잇따르고 있다.",
+      "AI를 통제하는 보안 체계가 AI 발전 속도를 따라가지 못한다는 지적이다.",
+      "10일(현지 시간) 미국 경제 매체 비즈니스인사이더(BI)에 따르면 최근 오픈AI와 앤트로픽, 메타, 문샷AI 등의 최신 AI 모델이 보안 테스트 도중 인터넷 접속 제한을 뚫고 외부 시스템에 접근한 것으로 확인됐다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n78248505",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743599",
+    "title": "메타, AI 모델 개방 확대…저커버그 \"개인에 더 많은 권한\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 마크 저커버그 메타 최고경영자(CEO)가 인공지능(AI) 사업의 개방성을 확대하고 데이터센터가 들어서는 지역사회에 대규모 투자를 하는 새로운 전략을 제시했다.",
+      "AI가 창출하는 부와 기회를 대형 기관뿐 아니라 개인과 지역사회가 함께 누릴 수 있도록 하겠다는 취지다.",
+      "10일(현지 시간) 월스트리트저널(WSJ)에 따르면 저커버그는 광범위한 에세이에서 AI 모델을 가능한 한 폭넓게 배포하고, AI 활용과 가치에 관한 많."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n0675e669",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260811/134454201/1",
+    "title": "“40도 찍더니 19도까지 뚝?”…서울, 이번엔 초가을 날씨 온다",
+    "summary": [
+      "한풀 꺾인 무더위가 이어지면서 오는 12일 수요일 새벽 서울 기온이 19도까지 떨어질 것으로 예보됐다.9일 글로벌 기상 시각화 앱 ‘윈디(Windy)’의 기온 예측 모델에 따르면, 오는 12일 새벽 5시 기준 서울 일대 기온은 19도를 기록할 전망이다.",
+      "이는 한여름 더위와는 확연히 다른 초가을 날씨다.공개된 기상 지도를 보면 한반도 중북부 지역은 초록색의 낮은 기온대로 뒤덮여 있다.",
+      "같은 시간대 서울은 19도를 기록할 것으로 나타났고, 한반도."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd6df79ba",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/11/MUZDAZBSGMYWEMLEGAZTKMTFMI/",
+    "title": "'146㎞+5색 변화구' 삼성 새 아시아쿼터, 첫 불펜피칭 후 광주행...박진만 감독은 왜 신중할까?",
+    "summary": [
+      "[스포츠조선 정현석 기자]준비는 끝났다.",
+      "삼성 라이온즈의 새 아시아쿼터 투수 미야모리 사토시(28)가 출격준비를 마쳤다.",
+      "대구에서 첫 불펜피칭을 소화한 뒤 광주 원정길에 합류했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n230884ca",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811000200109",
+    "title": "젤렌스키 \"사우디 빈살만과 방위 협력 논의\"",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 10일(현지시간) 사우디아라비아의 실권자 무함마드 빈 살만 왕세자와 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8a4455c3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260811/134454198/1",
+    "title": "콜롬비아 강진으로 최소 20명 사망…7개 공항 운항중단",
+    "summary": [
+      "10일(현지 시간) 콜롬비아 서부에서 발생한 강진으로 인해 최소 20명이 사망한 것으로 집계됐다.뉴욕타임스(NYT)와 CNN에 따르면 이날 발생한 규모 7.4 지진으로 현재까지 마니살레스에서 최소 2명, 페레이라에서 최소 18명이 사망했다.지진은 이날 오전 7시34분께 콜롬비아 서부 내륙에서 발생했다.",
+      "수도 보고타에서 서쪽으로 약 400㎞ 떨어진 산호세 델 팔마르 지역이다.",
+      "보고타에서도 건물이 흔들리면서 놀란 시민들이 대피하는 등 혼란이 빚어졌."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n05032d0d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/MRRWEZRQMYZGCMTBMI3TEZJXMY/",
+    "title": "BTS 진, 콘서트 비하인드 대방출…정국과 '장난기' 가득 투샷",
+    "summary": [
+      "[OSEN=박근희 기자] 그룹 방탄소년단 멤버 진이 콘서트 비하인드 사진을 공개했다.10일 오후 진은 자신의 SNS를 통해 여러 장의 사진을 게재했다.공개된 사진 속에는 무대의상을 입은 진의 다양한 모습이 담겨있다.",
+      "특히 방탄소년단의 막내 정국이 진의 어깨에 기대어 장난을 치는 모습이 포착되어 팬들의 눈길을 사로잡았다.",
+      "두 사람의 유쾌하고 훈훈한 케미스트리."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n19579cc3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003742840",
+    "title": "\"김구 우유 불매하자\"더니…광복절 앞두고 분위기 확 달라졌다",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 광복절을 앞두고 과거 서울우유를 둘러싸고 온라인에서 벌어졌던 논쟁이 다시 수면 위로 떠올랐다.",
+      "백범 김구 선생의 탄생 150주년을 기념해 만들어진 한정판 제품을 겨냥했던 불매 주장 글이 최근 온라인에서 재공유되면서다.",
+      "다만 이번에는 당시와 정반대의 반응이 나타나고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc97a6462",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/11/MQ2DCNBXMMYDSYTBHE4TQZTEMQ/",
+    "title": "\"ATL, 내년에 또 모험 않을 것\" 김하성 절망적 예상…FA 재수 사실상 실패, 이젠 美 잔류도 위태롭다",
+    "summary": [
+      "[스포츠조선 박상경 기자] '내년엔 애틀랜타 브레이브스가 김하성을 다시 쓰는 모험을 하지 않을 것은 분명해 보인다.' 아직 시즌이 남았지만, 김하성(애틀랜타)의 운명은 이미 결정된 듯 하다.",
+      "애틀랜타 소식을 전하는 HTHB는 10일(한국시각) 올 시즌을 마친 뒤 FA 계약 전망에서 김하성을 '내보내야 할 선수' 첫 단락에 분류했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na13df5f6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743263",
+    "title": "\"안전벨트 싫어\" 버틴 아이…캐나다 비행기 결국 못 떴다",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 캐나다에서 어린아이가 좌석 착석과 안전벨트 착용을 거부하면서 항공편 전체가 결항되는 일이 벌어졌다.",
+      "9일(현지 시간) 미국 AP통신은 캐나다 브리티시컬럼비아주 빅토리아 국제공항에서 토론토로 향하던 포터항공 여객기가 이륙을 앞두고 터미널로 돌아왔다고 보도했다.",
+      "항공기에 탑승한 어린아이가 좌석에 앉아 안전벨트를 착용하는 것을 거부한 것이 이유였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "necb4d795",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/11/2026081022385614694",
+    "title": "'충격' 골 세리머니하다 지하로 추락 '대참사'... \"경기장에 블랙홀 있다?\" 선수 다쳤는데 골까지 취소",
+    "summary": [
+      "브라질 프로축구 경기 중 한 선수가 골 세리머니를 펼치다 그라운드 밑 통로로 추락하는 아찔한 사고가 발생했다.",
+      "영국 '더선'은 9일(현지시간) \"브라질 코리치바 소속 수비수 자시(29)가 골을 축하하려다 터널 아래로 떨어져 끔찍한 부상을 입었다\"고 보도했다.",
+      "사고는 지난 8일 코리치바의 홈구장인 에스타지우 코투 페레이라에서 열린 샤페코엔시와의 1부 리그 경기에서 일어났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n65390741",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811000900099",
+    "title": "WHO \"민주콩고 에볼라 발병, 공식 선언 3개월 전 시작\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)에서 확산세가 꺾이지 않고 있는 에볼라가 공식 발병 선언이 이뤄진 5..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb7f300f9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811001500079",
+    "title": "이란 최고지도자, 이란군 총참모장 등 軍지휘부 인사",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 은둔 중인 이란 최고지도자 아야톨라 세예드 모즈타바 하메네이가 10일(현지시간) 이란군 총참모장 등 군 지..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nb7a9e1a4",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "38분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154157",
     "title": "네이버·카카오가 넓히는 'AI생태계'...시니어 교육부터 AI에이전트까지",
     "summary": [
@@ -379,181 +582,44 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7120bb7b",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/08/11/PNKMEOM2TZEKLOIGSTRP5XUZGM/",
-    "title": "AI 감시에 맞선 인간… AI가 인식 못하는 ‘디지털 투명 망토’ 등장",
+    "id": "n9d5f26ea",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "41분 전",
+    "url": "https://view.asiae.co.kr/article/2026081022023163677",
+    "title": "[위너스 클럽] 윈덤 챔피언십 우승자 브레넌 \"티샷 연습이 통했다\"",
     "summary": [
-      "AI 감시에 맞선 인간… AI가 인식 못하는 ‘디지털 투명 망토’ 등장."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n0099f81d",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/08/11/UA5TMM2LORBNDGTZK62RGC7KWM/",
-    "title": "범죄 막겠다며 소득·정신건강 정보까지 수집… 커지는 AI 빅브라더 논란",
-    "summary": [
-      "범죄 막겠다며 소득·정신건강 정보까지 수집… 커지는 AI 빅브라더 논란."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n95d9c164",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743129",
-    "title": "\"40도 찍더니 19도까지 뚝?\"…서울, 이번엔 초가을 날씨 온다",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 한풀 꺾인 무더위가 이어지면서 오는 12일 수요일 새벽 서울 기온이 19도까지 떨어질 것으로 예보됐다.",
-      "9일 글로벌 기상 시각화 앱 '윈디(Windy)'의 기온 예측 모델에 따르면, 오는 12일 새벽 5시 기준 서울 일대 기온은 19도를 기록할 전망이다.",
-      "이는 한여름 더위와는 확연히 다른 초가을 날씨다."
+      "마이클 브레넌(미국)은 올해 부진했다.",
+      "미국프로골프(PGA) 투어 정규 시즌 최종전인 윈덤 챔피언십(총상금 850만 달러)을 남겨두고 페덱스컵 랭킹이 105위에 그쳤다.",
+      "브레넌은 지난 3일 로켓 클래식 대회장에서 스윙을 점검했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne1d1b0e1",
+    "id": "n689dab56",
     "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/11/R5V7WZET5BGL7OEH6UCES2U5W4/",
-    "title": "“한국 성형 피해 보상 도와드려요” 변호사들, 중국 의뢰인 모집 중",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811001100089",
+    "title": "중국, 창정7A 운반 로켓 발사 실패…\"원인 조사 중\"",
     "summary": [
-      "“한국 성형 피해 보상 도와드려요” 변호사들, 중국 의뢰인 모집 중."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "ne78d031a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/11/VZIYYEOQCJFGJMRULE4XMAF4WM/",
-    "title": "태극기 휘날렸던 그날처럼",
-    "summary": [
-      "태극기 휘날렸던 그날처럼."
+      "(상하이=연합뉴스) 차병섭 특파원 = 중국이 10일(현지시간) 인공위성을 탑재한 창정(長征) 7호 개량형 운반 로켓을 발사했으나 임무 달성에 실..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n75cda949",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003743596",
-    "title": "이란 대통령 \"모즈타바, 국가적 단결·국민 삶에 관심 강조\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 마수드 페제시키안 이란 대통령이 모즈타바 하메네이 최고지도자와의 7시간 회담에서 모즈타바가 국가적 단결과 국민의 삶에 대한 관심을 강조했다고 이란 매체가 보도했다.",
-      "10일(현지시간) 이란 파르스 통신에 따르면 페제시키안 대통령은 지난달 말 대통령 취임 3년 차를 앞두고 모즈타바 최고지도자를 만났다.",
-      "페제시키안 대통령은 회담에서 최고지도자가 \"국가적 단결과 결속을 유지하고 국민의 삶에 관심을 기울여야 한다\"고 강조."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na1a73afd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811000800081",
-    "title": "폭염에 가뭄까지…프랑스 국토 70%서 물 사용 제한",
-    "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 연이은 폭염으로 가뭄이 심해지면서 프랑스 전역의 약 70%에서 용수 사용 제한 조치가 시행되고 있다고 프랑스..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n97b3ad79",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811000600071",
-    "title": "美국방차관 \"아시아가 최우선\"…중견국 동맹엔 \"망상\" 공개경고",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 엘브리지 콜비 미국 국방부 정책차관이 동남아시아 지역을 찾아 아시아 지역의 중요성을 강조하면서 '중견국 동..."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n44a4c9f0",
+    "id": "n199b8b46",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003742694",
-    "title": "\"로봇도 옷 입는다\"…반도체 다음 주도주로 '전자피부' 뜨나",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608115359i",
+    "title": "\"머스크가 GPU 싹쓸이 하나\"…코어위브·네비우스 긴장[박신영의 개장전 요것만]",
     "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 최근 반도체주를 중심으로 한 코스피 조정 이후 다음 투자처로 로봇의 옷, 이른바 '전자피부' 시장이 주목받고 있다는 전문가의 조언이 나왔다.",
-      "김광석 한양대학교 겸임교수는 10일 구독자 51만4000명을 보유한 유튜브 채널 '경제 읽어주는 남자(김광석TV)'에 출연해 최근 반도체주 조정 배경과 앞으로의 투자 흐름을 짚었다.",
-      "그는 하이퍼스케일러(초대형 데이터센터 운영사) 기업들의 잉여 현금흐름 감소와 자본 지출."
-    ],
-    "chips": [
-      "#반도체",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nd16fe368",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003742344",
-    "title": "\"메모리 호황인데 가격이 왜 이래\"…삼전닉스 이어 마이크론도 '경고등'",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 삼성전자와 SK하이닉스의 메모리 가격 상승폭이 시장 기대에 못 미치면서 다음 달 실적 발표를 앞둔 미국 메모리 반도체 기업인 마이크론에도 경고등이 켜졌다.",
-      "글로벌 메모리 반도체 '3인방'이 같은 업황을 공유하는 만큼 마이크론에서도 비슷한 흐름이 나타날 수 있다는 분석이다.",
-      "10일(현지 시간) 미국 투자전문매체 모틀리풀에 따르면 최근 메모리 반도체 가격은 인공지능(AI) 투자 확대에 따른 공급 부족으로 크게 올랐다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "ne2608e6d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811000500098",
-    "title": "스웨덴 \"러시아 스파이 공작 저지…러 대외정보국 관여\"",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 스웨덴 보안국(SAPO)이 스웨덴의 국가 이미지를 훼손하려는 러시아의 정보 공작을 저지했다고 10일(현지시..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8609a041",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811000700072",
-    "title": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 10일(현지시간) 남미 콜롬비아 서부를 강타한 규모 7.4의 지진으로 최소 20명이 사망한 것으로 현지 당국..."
+      "\"머스크가 GPU 싹쓸이 하나\"…코어위브·네비우스 긴장[박신영의 개장전 요것만]."
     ],
     "chips": [
       "#뉴스"
@@ -563,7 +629,7 @@ window.NEWS_DB = [
     "id": "nea5bd1a8",
     "category": "IT",
     "source": "동아일보",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260810/134452584/2",
     "title": "집안서 버튼 누르면 주차 로봇이 내 차 ‘배달’",
     "summary": [
@@ -574,72 +640,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산"
     ]
-  },
-  {
-    "id": "n5b15cdda",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260810/134452599/2",
-    "title": "HD현대重, 美데이터센터에 9560억 규모 발전설비 공급",
-    "summary": [
-      "HD현대중공업이 미국 빅테크 기업 데이터센터에 대규모 발전설비를 공급한다.",
-      "HD현대중공업은 최근 미국 에너지 인프라 개발기업인 코반에너지그룹과 9.6MW(메가와트)급 힘센(HiMSEN) 엔진(사진) 기반의 발전설비 공급 계약을 체결했다고 10일 밝혔다.",
-      "이번 계약은 1000MW, 9560억 원 규모로 HD현대중공업의 역대 최대 규모 발전용 엔진 공급 계약이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7381e35b",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260810/134452601/2",
-    "title": "삼성전자, 日 NTT 도코모와 AI무선망 품질 최적화 기술 개발",
-    "summary": [
-      "삼성전자가 인공지능(AI)으로 스마트폰 통신 끊김을 선제적으로 막는 차세대 기술을 개발했다.",
-      "실제 통신망 적용 결과 품질 저하 현상이 절반 가까이 줄었다.",
-      "삼성전자는 이를 바탕으로 다가오는 6세대(6G) 이동통신 시대의 기술 주도권을 확보할 계획이다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n4cc1d2ba",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260810/134452631/2",
-    "title": "잘나가는 지역 상권? 현지인-관광객 등 유입 다양해야 성공",
-    "summary": [
-      "수도권과 지방 상권의 양극화가 심화되는 가운데, 지역에서 여전히 잘나가는 주요 상권은 머물며 소비하는 체류형 생활인구를 붙잡는 데 성공한 것으로 나타났다.",
-      "평일과 주말, 현지인과 관광객, 직장인과 가족 단위 등 유입 경로가 다양한 상권일수록 활성화된 모습을 보였다.",
-      "KB금융그룹은 10일 발표한 ‘KB상권 활성화 인사이트’에서 수도권을 제외한 전국 5대 권역의 주요 상권 10곳의 특징을 분석했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8caa101e",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "37분 전",
-    "url": "https://view.asiae.co.kr/article/2026081100115650894",
-    "title": "인텔,150억달러 규모 신주 발행…AI 사업 실탄 확보",
-    "summary": [
-      "미국 반도체 기업 인텔이 인공지능(AI) 데이터센터 사업 확대를 위해 150억달러(약 21조원) 규모의 신주 발행에 나선다.",
-      "올해 주가가 160% 넘게 급등하면서 높아진 투자자들의 관심을 활용해 AI와 파운드리(반도체 위탁생산) 투자를 위한 실탄 확보에 나선 것으로 풀이된다.",
-      "10일(현지시간) 블룸버그통신에 따르면 인텔은 이날 150억달러 규모의 보통주를 신규 발행할 계획이라고 밝혔다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
   }
 ];
 
@@ -647,21 +647,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "뉴스",
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
