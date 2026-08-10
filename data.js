@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-10 16:41:59
+// 마지막 업데이트: 2026-08-10 17:42:59
 window.NEWS_DB = [
   {
     "id": "n757759c6",
     "category": "IT",
     "source": "블록체인투데이",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
     "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
     "summary": [
@@ -48,12 +48,12 @@ window.NEWS_DB = [
   {
     "id": "nee123c1c",
     "category": "사회",
-    "source": "아주경제",
+    "source": "ajunews.com",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQWFtVWtrb3VLTDRqUnZGZHJWRFhJOUFTNkNqX3JIODZoOWdCbE5Zb2tlOEJ0dkloeGIwd1hZdmtpSEp2dFdBOUUzczJJaXk3NURLWmxoNktCUdIBWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG0?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
-      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 아주경제."
+      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 ajunews.com."
     ],
     "chips": [
       "#AI",
@@ -153,13 +153,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "스포츠",
-    "source": "startupn.kr",
+    "category": "IT",
+    "source": "스타트업엔(StartupN)",
     "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
     ],
     "chips": [
       "#스타트업"
@@ -285,14 +285,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4a365471",
+    "id": "n783ebe44",
     "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "155일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbDRsNzJDT3JrUU5UZ1dGREM0RndpdFlCUlFsbHhTbXNaWUtzTFpDeV9lRkw0ZnViblc3Qlh2Y055by1WWVVPZVpUR3Jpd2s?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
+    "source": "테크M",
+    "time": "131일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 v.daum.net."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -345,10 +345,86 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2d6d6ea6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003742301",
+    "title": "\"92㎏까지 쪘었다\"…32㎏ 감량 홍지민, 9년째 유지하는 식단 비결",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 출산 후 몸무게가 92㎏까지 늘었던 가수 홍지민이 32㎏을 감량한 뒤 9년째 날씬한 몸매를 유지하고 있는 비결로 운동보다 식단 관리를 꼽았다.",
+      "최근 홍지민의 유튜브 채널 '지금당장 홍지민'에 공개된 영상에 따르면 제작진은 그에게 평소 식사량이 적어 보인다고 언급했다.",
+      "이에 홍지민은 체중 조절을 위해 스스로 먹는 양을 관리하고 있다고 답했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3d6d465",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811002300071",
+    "title": "트럼프 \"이란, 과거 폭탄테러·시위대 살해 배상하라\" 맞불",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 10일(현지시간) 이란이 전쟁 피해 배상을 요구한 것과 관련해 이란이야말로 과..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8360c57e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743603",
+    "title": "콜롬비아 규모 7.4 강진에 최소 69명 사망…건물 붕괴 속출(종합)",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자, 이윤희 특파원 = 규모 7.4의 강력한 지진이 콜롬비아 서부를 강타해 최소 69명이 사망하고 건물 붕괴가 잇따랐다.",
+      "무너진 건물 잔해에 주민들이 갇히면서 구조대가 수색 작업에 나섰으며, 수도 보고타에서도 주민들이 대피하는 등 혼란이 발생했다.",
+      "미국 지질조사국(USGS)과 콜롬비아 지질조사국에 따르면 지진은 10일(현지 시간) 콜롬비아 서부 초코 지역에서 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf38ecca7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811002000085",
+    "title": "영국 우익당 \"외국인 죄수들, 엘살바도르 등으로 보내자\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 우익 성향 영국개혁당이 영국에서 수감 중인 외국인을 엘살바도르를 포함한 외국으로 보내는 방안을 제시했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1fc5524",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "35분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743604",
+    "title": "트럼프, 이란 배상 요구에 맞불…\"배상은 우리가 받아야\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 이란의 전쟁 피해 배상 요구에 맞서 \"나도 마찬가지로 이란에 배상금을 요구할 것이다\"고 10일(현지 시간) 밝혔다.",
+      "이란은 호르무즈 해협 재개방 조건 중 하나로 전쟁 피해 전액 배상을 내걸었는데, 미국 역시 배상을 요구하면서 이를 상쇄하겠다는 의도로 풀이된다.",
+      "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 이같이 적은 뒤 \"내 협상대표들에 이 사안을 향후 모든 협상에 확실히."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
     "id": "ndc088670",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "37분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154158",
     "title": "\"장보러 갈 때도 복잡한 콘서트에서도...택시는 카카오T로 부르세요\"",
     "summary": [
@@ -362,42 +438,99 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7321c255",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003742196",
-    "title": "\"접속 차단했는데 외부 시스템 접근\"…AI 보안 통제 잇따라 뚫렸다",
+    "id": "n97feba37",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811000400071",
+    "title": "\"한일 미군기지, 북중 공격에 취약…패트리엇·아이언돔 강화해야\"",
     "summary": [
-      "[서울=뉴시스]이지영 기자 = 세계 주요 인공지능(AI) 기업의 최신 모델들이 보안 테스트 과정에서 허용되지 않은 외부 시스템에 접속한 사례가 잇따르고 있다.",
-      "AI를 통제하는 보안 체계가 AI 발전 속도를 따라가지 못한다는 지적이다.",
-      "10일(현지 시간) 미국 경제 매체 비즈니스인사이더(BI)에 따르면 최근 오픈AI와 앤트로픽, 메타, 문샷AI 등의 최신 AI 모델이 보안 테스트 도중 인터넷 접속 제한을 뚫고 외부 시스템에 접근한 것으로 확인됐다."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 이란전에서 중동 미군 기지의 방공 취약성이 드러난 상황에서 한국을 비롯한 태평양 지역 미군 기지가 중국과 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n424b9787",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "42분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003742250",
+    "title": "\"계란·방울토마토로 관리\"…'16㎏ 감량' 홍현희의 건강 식단",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 코미디언 홍현희의 다이어트 식단이 주목을 받고 있다.",
+      "최근 홍현희는 자신의 소셜미디어(SNS) 계정을 통해 달걀과 방울토마토로 구성된 식단을 공개했다.",
+      "16㎏ 감량에 성공했던 홍현희는 꾸준히 몸 관리에 힘을 쏟으며 건강을 유지하고 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n7d8d2ea4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811001000085",
+    "title": "\"이주민 8천명 이상 남아\"…세우타 수반, 수용·추방 시설 요구",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 지난달 말 대규모 이주민 무단 진입 사태를 겪은 스페인 세우타의 자치행정 수반이 이주민들을 수용해 추방 절차..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b1d0460",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "54분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260811/134454209/1",
+    "title": "“접속 차단했는데 외부 시스템 접근”…AI 보안 통제 잇따라 뚫렸다",
+    "summary": [
+      "세계 주요 인공지능(AI) 기업의 최신 모델들이 보안 테스트 과정에서 허용되지 않은 외부 시스템에 접속한 사례가 잇따르고 있다.",
+      "AI를 통제하는 보안 체계가 AI 발전 속도를 따라가지 못한다는 지적이다.10일(현지 시간) 미국 경제 매체 비즈니스인사이더(BI)에 따르면 최근 오픈AI와 앤트로픽, 메타, 문샷AI 등의 최신 AI 모델이 보안 테스트 도중 인터넷 접속 제한을 뚫고 외부 시스템에 접근한 것으로 확인됐다.가장 주목 받은 사례는 오픈AI."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n78248505",
+    "id": "nf47b2443",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003743599",
-    "title": "메타, AI 모델 개방 확대…저커버그 \"개인에 더 많은 권한\"",
+    "source": "동아일보",
+    "time": "55분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260811/134454206/1",
+    "title": "메타, AI 모델 개방 확대…저커버그 “개인에 더 많은 권한”",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = 마크 저커버그 메타 최고경영자(CEO)가 인공지능(AI) 사업의 개방성을 확대하고 데이터센터가 들어서는 지역사회에 대규모 투자를 하는 새로운 전략을 제시했다.",
-      "AI가 창출하는 부와 기회를 대형 기관뿐 아니라 개인과 지역사회가 함께 누릴 수 있도록 하겠다는 취지다.",
-      "10일(현지 시간) 월스트리트저널(WSJ)에 따르면 저커버그는 광범위한 에세이에서 AI 모델을 가능한 한 폭넓게 배포하고, AI 활용과 가치에 관한 많."
+      "마크 저커버그 메타 최고경영자(CEO)가 인공지능(AI) 사업의 개방성을 확대하고 데이터센터가 들어서는 지역사회에 대규모 투자를 하는 새로운 전략을 제시했다.",
+      "AI가 창출하는 부와 기회를 대형 기관뿐 아니라 개인과 지역사회가 함께 누릴 수 있도록 하겠다는 취지다.10일(현지 시간) 월스트리트저널(WSJ)에 따르면 저커버그는 광범위한 에세이에서 AI 모델을 가능한 한 폭넓게 배포하고, AI 활용과 가치에 관한 많은 결정을 최종 사용자에게 맡기는."
     ],
     "chips": [
       "#AI"
+    ]
+  },
+  {
+    "id": "nc30dbdbb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/11/MRSGMZLCMMZTEYJQGZSTGNTGGE/",
+    "title": "\"공격 지역 다 뛸 수 있는데...\" 시메오네, 이강인 활용법 고민 시작 \"좌 우 2선 가능\"",
+    "summary": [
+      "[OSEN=정승우 기자] 디에고 시메오네(56) 아틀레티코 마드리드 감독이 이강인(25)의 활용법을 구체적으로 밝혔다.",
+      "오른쪽 측면부터 왼쪽 인사이드, 측면 미드필더, 공격형 미드필더까지 여러 위치를 언급하며 이강인을 특정 포지션에 한정하지 않겠다는 구상을 드러냈다.스페인 '마르카'는 9일(한국시간) 맨체스터 시티전 종료 후 시메오네 감독의 기자회견 내용을."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n0675e669",
     "category": "사회",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260811/134454201/1",
     "title": "“40도 찍더니 19도까지 뚝?”…서울, 이번엔 초가을 날씨 온다",
     "summary": [
@@ -413,7 +546,7 @@ window.NEWS_DB = [
     "id": "nd6df79ba",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/baseball/2026/08/11/MUZDAZBSGMYWEMLEGAZTKMTFMI/",
     "title": "'146㎞+5색 변화구' 삼성 새 아시아쿼터, 첫 불펜피칭 후 광주행...박진만 감독은 왜 신중할까?",
     "summary": [
@@ -426,24 +559,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n230884ca",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811000200109",
-    "title": "젤렌스키 \"사우디 빈살만과 방위 협력 논의\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 10일(현지시간) 사우디아라비아의 실권자 무함마드 빈 살만 왕세자와 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n8a4455c3",
     "category": "사회",
     "source": "동아일보",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260811/134454198/1",
     "title": "콜롬비아 강진으로 최소 20명 사망…7개 공항 운항중단",
     "summary": [
@@ -459,7 +578,7 @@ window.NEWS_DB = [
     "id": "n05032d0d",
     "category": "사회",
     "source": "조선일보",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/MRRWEZRQMYZGCMTBMI3TEZJXMY/",
     "title": "BTS 진, 콘서트 비하인드 대방출…정국과 '장난기' 가득 투샷",
     "summary": [
@@ -472,101 +591,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n19579cc3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003742840",
-    "title": "\"김구 우유 불매하자\"더니…광복절 앞두고 분위기 확 달라졌다",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 광복절을 앞두고 과거 서울우유를 둘러싸고 온라인에서 벌어졌던 논쟁이 다시 수면 위로 떠올랐다.",
-      "백범 김구 선생의 탄생 150주년을 기념해 만들어진 한정판 제품을 겨냥했던 불매 주장 글이 최근 온라인에서 재공유되면서다.",
-      "다만 이번에는 당시와 정반대의 반응이 나타나고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc97a6462",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/11/MQ2DCNBXMMYDSYTBHE4TQZTEMQ/",
-    "title": "\"ATL, 내년에 또 모험 않을 것\" 김하성 절망적 예상…FA 재수 사실상 실패, 이젠 美 잔류도 위태롭다",
-    "summary": [
-      "[스포츠조선 박상경 기자] '내년엔 애틀랜타 브레이브스가 김하성을 다시 쓰는 모험을 하지 않을 것은 분명해 보인다.' 아직 시즌이 남았지만, 김하성(애틀랜타)의 운명은 이미 결정된 듯 하다.",
-      "애틀랜타 소식을 전하는 HTHB는 10일(한국시각) 올 시즌을 마친 뒤 FA 계약 전망에서 김하성을 '내보내야 할 선수' 첫 단락에 분류했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na13df5f6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743263",
-    "title": "\"안전벨트 싫어\" 버틴 아이…캐나다 비행기 결국 못 떴다",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 캐나다에서 어린아이가 좌석 착석과 안전벨트 착용을 거부하면서 항공편 전체가 결항되는 일이 벌어졌다.",
-      "9일(현지 시간) 미국 AP통신은 캐나다 브리티시컬럼비아주 빅토리아 국제공항에서 토론토로 향하던 포터항공 여객기가 이륙을 앞두고 터미널로 돌아왔다고 보도했다.",
-      "항공기에 탑승한 어린아이가 좌석에 앉아 안전벨트를 착용하는 것을 거부한 것이 이유였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "necb4d795",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/11/2026081022385614694",
-    "title": "'충격' 골 세리머니하다 지하로 추락 '대참사'... \"경기장에 블랙홀 있다?\" 선수 다쳤는데 골까지 취소",
-    "summary": [
-      "브라질 프로축구 경기 중 한 선수가 골 세리머니를 펼치다 그라운드 밑 통로로 추락하는 아찔한 사고가 발생했다.",
-      "영국 '더선'은 9일(현지시간) \"브라질 코리치바 소속 수비수 자시(29)가 골을 축하하려다 터널 아래로 떨어져 끔찍한 부상을 입었다\"고 보도했다.",
-      "사고는 지난 8일 코리치바의 홈구장인 에스타지우 코투 페레이라에서 열린 샤페코엔시와의 1부 리그 경기에서 일어났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n65390741",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811000900099",
-    "title": "WHO \"민주콩고 에볼라 발병, 공식 선언 3개월 전 시작\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 콩고민주공화국(민주콩고)에서 확산세가 꺾이지 않고 있는 에볼라가 공식 발병 선언이 이뤄진 5..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb7f300f9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811001500079",
-    "title": "이란 최고지도자, 이란군 총참모장 등 軍지휘부 인사",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 은둔 중인 이란 최고지도자 아야톨라 세예드 모즈타바 하메네이가 10일(현지시간) 이란군 총참모장 등 군 지..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nb7a9e1a4",
     "category": "IT",
     "source": "테크M",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154157",
     "title": "네이버·카카오가 넓히는 'AI생태계'...시니어 교육부터 AI에이전트까지",
     "summary": [
@@ -585,7 +613,7 @@ window.NEWS_DB = [
     "id": "n9d5f26ea",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026081022023163677",
     "title": "[위너스 클럽] 윈덤 챔피언십 우승자 브레넌 \"티샷 연습이 통했다\"",
     "summary": [
@@ -598,24 +626,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n689dab56",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "50분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811001100089",
-    "title": "중국, 창정7A 운반 로켓 발사 실패…\"원인 조사 중\"",
-    "summary": [
-      "(상하이=연합뉴스) 차병섭 특파원 = 중국이 10일(현지시간) 인공위성을 탑재한 창정(長征) 7호 개량형 운반 로켓을 발사했으나 임무 달성에 실..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n199b8b46",
     "category": "IT",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202608115359i",
     "title": "\"머스크가 GPU 싹쓸이 하나\"…코어위브·네비우스 긴장[박신영의 개장전 요것만]",
     "summary": [
@@ -623,22 +637,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nea5bd1a8",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260810/134452584/2",
-    "title": "집안서 버튼 누르면 주차 로봇이 내 차 ‘배달’",
-    "summary": [
-      "출근 준비가 끝나면 아파트 벽에 설치된 제어판(월패드)에서 차량 호출 버튼을 누른다.",
-      "그 순간 지하주차장의 ‘주차 로봇’이 스스로 움직이기 시작하고, 동시에 운전자가 탈 엘리베이터도 거주하는 층으로 움직인다.",
-      "현관문을 열고 나서면 엘리베이터가 도착해 있고, 지하주차장 출입문 앞에는 내 차가 ‘배달’돼 있다."
-    ],
-    "chips": [
-      "#부동산"
     ]
   }
 ];
@@ -648,8 +646,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
