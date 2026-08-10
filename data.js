@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-10 14:12:45
+// 마지막 업데이트: 2026-08-10 15:49:32
 window.NEWS_DB = [
   {
     "id": "n757759c6",
     "category": "IT",
     "source": "블록체인투데이",
-    "time": "23분 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
     "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n17c0663d",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DZGh2SFY4ZjJNWlktTmJDRkdPZEFrdTVxSnkwZlY0a0xUT1Zoa2dpbVRBYlM2MDFkU0Nzd3d5bUZMaGRHOUFtSW12ZmJPeDdUcUVmYnNnM2ItSEQ5?oc=5",
     "title": "[미국 특징주] 엔비디아, AI 전력 인프라에 4조원 베팅…'전력 확보' 경쟁 본격화",
     "summary": [
@@ -34,12 +34,12 @@ window.NEWS_DB = [
   {
     "id": "n3485421d",
     "category": "IT",
-    "source": "sedaily.com",
+    "source": "서울경제",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUWl0VGozOC1JdmkxejBSMVZlWUcxNmZfRzNDTjNMNkgzcDNzV3Q4dGd1V3JNakRUbWxnQ09pVkhIX041NkFxdXRxVGJqaUFmOUHSAVNBVV95cUxQX0Jjbl9aYzUwcjYyZ0hiTWh0aXVJN054Y241QWRuTUswS0NwaWJNUDBFUzl6MnVHZmVFamFUOC1MMGVRMWRsYS03bUNoeGt4TkQySQ?oc=5",
     "title": "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨",
     "summary": [
-      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 sedaily.com."
+      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 서울경제."
     ],
     "chips": [
       "#반도체"
@@ -198,12 +198,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "straightnews.co.kr",
+    "source": "스트레이트뉴스",
     "time": "55일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
     ],
     "chips": [
       "#금리"
@@ -285,12 +285,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "techm.kr",
+    "source": "테크M",
     "time": "131일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -379,262 +379,266 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd606431f",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "n7120bb7b",
+    "category": "IT",
+    "source": "조선일보",
     "time": "3분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260810/134453456/2",
-    "title": "[고양이 눈]초원의 섬광",
+    "url": "https://www.chosun.com/economy/tech_it/2026/08/11/PNKMEOM2TZEKLOIGSTRP5XUZGM/",
+    "title": "AI 감시에 맞선 인간… AI가 인식 못하는 ‘디지털 투명 망토’ 등장",
     "summary": [
-      "어두운 밤 초원 위로 번개가 내리쳤습니다.",
-      "게르 바로 위로 내리꽂히는 듯한 절묘한 순간이 포착됐네요.",
-      "번쩍이는 섬광에 밤하늘이 한순간 환해졌습니다."
+      "AI 감시에 맞선 인간… AI가 인식 못하는 ‘디지털 투명 망토’ 등장."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "n38560e78",
-    "category": "스포츠",
-    "source": "동아일보",
+    "id": "n0099f81d",
+    "category": "IT",
+    "source": "조선일보",
     "time": "3분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260810/134453374/2",
-    "title": "[이승재의 무비홀릭]‘호프’ 유감",
+    "url": "https://www.chosun.com/economy/tech_it/2026/08/11/UA5TMM2LORBNDGTZK62RGC7KWM/",
+    "title": "범죄 막겠다며 소득·정신건강 정보까지 수집… 커지는 AI 빅브라더 논란",
     "summary": [
-      "[1] 500억 원 넘는 제작비를 들인 나홍진 감독의 대작 ‘호프’가 흥행 실패로 끝났어요.",
-      "개봉 한 달이 안 된 지금 호프의 예매 순위는 ‘사랑의 하츄핑: 고래보석의 전설’에 밀린 6위를 기록 중이죠.",
-      "흥행 여부가 좋고 나쁜 영화를 나누는 잣대는 못 되지만, 관객이 불만족스러워하는 이유에 대한 분석은 한국 영화의 미래를 위해서라도 필요해요."
+      "범죄 막겠다며 소득·정신건강 정보까지 수집… 커지는 AI 빅브라더 논란."
+    ],
+    "chips": [
+      "#AI",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n95d9c164",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743129",
+    "title": "\"40도 찍더니 19도까지 뚝?\"…서울, 이번엔 초가을 날씨 온다",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 한풀 꺾인 무더위가 이어지면서 오는 12일 수요일 새벽 서울 기온이 19도까지 떨어질 것으로 예보됐다.",
+      "9일 글로벌 기상 시각화 앱 '윈디(Windy)'의 기온 예측 모델에 따르면, 오는 12일 새벽 5시 기준 서울 일대 기온은 19도를 기록할 전망이다.",
+      "이는 한여름 더위와는 확연히 다른 초가을 날씨다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5c35721b",
+    "id": "ne1d1b0e1",
     "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260810/134453531/2",
-    "title": "1950년의 무더위[임용한의 전쟁사]〈428〉",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/08/11/R5V7WZET5BGL7OEH6UCES2U5W4/",
+    "title": "“한국 성형 피해 보상 도와드려요” 변호사들, 중국 의뢰인 모집 중",
     "summary": [
-      "나는 학생 때부터 답사를 좋아했다.",
-      "대학원 진학 준비로 바빴던 학부 4학년 때도 정규 답사를 따라갔다.",
-      "그 덕에 노는 걸 좋아해서 사학과에 왔다는 소문까지 돌았다."
+      "“한국 성형 피해 보상 도와드려요” 변호사들, 중국 의뢰인 모집 중."
     ],
     "chips": [
-      "#교육"
+      "#채용"
     ]
   },
   {
-    "id": "na04aae92",
+    "id": "ne78d031a",
     "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260810/134453384/2",
-    "title": "중국의 서쪽 변방?… 한반도까지 실크로드 이은 숨은 연결자, 위구르[강인욱 세상만사의 기원]",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/11/VZIYYEOQCJFGJMRULE4XMAF4WM/",
+    "title": "태극기 휘날렸던 그날처럼",
     "summary": [
-      "중국 영토의 6분의 1을 차지하는 신장위구르자치구는 동서 문명의 교차로인 실크로드의 수천 년 역사를 품은 곳이다.",
-      "이 지역은 단골 국제 뉴스로 널리 알려져 있지만, 위구르의 역사적 함의는 간과돼 왔다.",
-      "위구르인들은 몽골 초원에서 위구르 제국(744∼840년)을 일궈 발해와도 교역했고, 한 갈래는 고려 때 한반도로 이주하기도 했다."
+      "태극기 휘날렸던 그날처럼."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n59420e51",
+    "id": "n75cda949",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026081022490108706",
-    "title": "경남선관위, 통영시장선거 당선·선거무효 소청 기각 … \"위법 없어\"",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743596",
+    "title": "이란 대통령 \"모즈타바, 국가적 단결·국민 삶에 관심 강조\"",
     "summary": [
-      "경남선거관리위원회가 국민의힘 천영기 전 시장이 제기한 제9회 전국동시지방선거 통영시장선거 당선 및 선거무효 소청을 기각했다.",
-      "경남선관위는 10일 선거 소청 결정 공고를 누리집에 게시하고 이 같은 결정을 알렸다.",
-      "공고에는 \"통영시장선거 당선인 결정의 무효를 구하는 취지의 소청에 대해 지난 7월 27일 투표지 등 검증 결과 피소청인(더불어민주당 강석주 현 통영시장)의 당선인 결정에 위법함이 없음이 증명됐다\"고 기재됐."
+      "[서울=뉴시스] 이재은 기자 = 마수드 페제시키안 이란 대통령이 모즈타바 하메네이 최고지도자와의 7시간 회담에서 모즈타바가 국가적 단결과 국민의 삶에 대한 관심을 강조했다고 이란 매체가 보도했다.",
+      "10일(현지시간) 이란 파르스 통신에 따르면 페제시키안 대통령은 지난달 말 대통령 취임 3년 차를 앞두고 모즈타바 최고지도자를 만났다.",
+      "페제시키안 대통령은 회담에서 최고지도자가 \"국가적 단결과 결속을 유지하고 국민의 삶에 관심을 기울여야 한다\"고 강조."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n256282f3",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/10/GA4DSYZSGQYDKZLDMYYWEY3GHE/",
-    "title": "뉴욕증시, 미·이란 협상 난항…장 초반 약세",
-    "summary": [
-      "뉴욕 증시 3대 지수가 일제히 장 초반 약세다.",
-      "10일(현지 시각) 오전 9시 50분 기준 뉴욕증권거래소(NYSE)에서 다우존스30 산업평균지수는 전장보다 125.87포인트(0.23%) 내린 5만3911.06에 거래 중이다.",
-      "스탠더드앤드푸어스(S&P) 500 지수는 전장보다 2.00포인트(0.03%) 떨어진 7755.46에, 기술주 중심의 나스닥 종합지수는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5cd5388e",
+    "id": "na1a73afd",
     "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/10/MVSDAY3EMY4DSN3DGAYTKNBVMY/",
-    "title": "한다감, 임신 후 4kg만 찐 이유 있네..식사 한 번 하고 “운동 1시간 각”",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811000800081",
+    "title": "폭염에 가뭄까지…프랑스 국토 70%서 물 사용 제한",
     "summary": [
-      "[OSEN=임혜영 기자] 배우 한다감이 맛집을 방문했다.한다감은 10일 개인 채널에 “못 참고 다녀왔어요.",
-      "어디? 성시경의 먹을텐데 보다가 너무 맛있을 것 같아서 다녀왔는데 추천한 대로 맛집 인정이에요.",
-      "요즘같이 입맛 없을 때 중국 음식 괜찮은 것 같아요."
+      "(파리=연합뉴스) 송진원 특파원 = 연이은 폭염으로 가뭄이 심해지면서 프랑스 전역의 약 70%에서 용수 사용 제한 조치가 시행되고 있다고 프랑스..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd510d0c0",
+    "id": "n97b3ad79",
     "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/10/MI4DCMRUGQ4TINJXHAZDSYJVGA/",
-    "title": "누가 이 얼굴을 38세로 보나요?....한승연, 감탄 부르는 '방부제 미모'",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811000600071",
+    "title": "美국방차관 \"아시아가 최우선\"…중견국 동맹엔 \"망상\" 공개경고",
     "summary": [
-      "[OSEN=박근희 기자] 가수 겸 배우 한승연이 나이를 가늠할 수 없는 놀라운 동안 미모를 뽐냈다.10일 오후 한승연은 자신의 SNS를 통해 ‘HONGKONG’이라는 짧은 문구와 함께 여러 장의 근황 사진을 게재했다.공개된 사진 속에는 팬미팅 일정을 위해 홍콩을 찾은 한승연의 다양한 일상과 현장 모습이 담겨 있다.특히 38세라는 나이가 믿기지 않을 만큼 뽀."
+      "(워싱턴=연합뉴스) 백나리 특파원 = 엘브리지 콜비 미국 국방부 정책차관이 동남아시아 지역을 찾아 아시아 지역의 중요성을 강조하면서 '중견국 동..."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n93c45aa1",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026081022260581208",
-    "title": "박완수 경남지사 \"정부, 지방 홀대 의구심 … 해사 이전 재검토해야\"",
-    "summary": [
-      "박완수 경남도지사가 3군 사관학교 통합에 따른 해군사관학교 이전, 한국토지주택공사(LH) 기능 분리, 발전공기업 통합 등 정부 추진안을 강하게 비판하며 재검토를 촉구했다.",
-      "박 도지사는 10일 도청 확대간부회의에서 \"정부가 공공기관 1차 이전으로 진주에 온 LH 기능 축소, 진해 해군사관학교 충청권 이전, 진주에 있는 한국남동발전을 비롯한 5대 발전공기업과 항만공사 통합을 추진하고 있다\"라고 언급했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n7605ee49",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/10/G4ZTSZRRMIYWKYLBGE2GGNZVGE/",
-    "title": "김민석 “대기업 오너와 토의해봤나” vs 정청래 “사람 무시 일가견 있어”",
-    "summary": [
-      "차기 더불어민주당 지도부를 선출하는 8·17 전당대회를 앞두고, 1위 자리를 놓고 경쟁 중인 김민석 후보와 정청래 후보가 방송 토론회에서 신경전을 벌였다.",
-      "10일 오후 9시 KBC 주관으로 열린 더불어민주당 당대표 후보자 TV 토론회에서 두 후보는 반도체 클러스터 정책과 기업 소통 경험을 둘러싼 자질 논란을 놓고 공방을 주고받았다."
-    ],
-    "chips": [
-      "#반도체",
       "#정책"
     ]
   },
   {
-    "id": "n70cd7c6d",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743581",
-    "title": "김상호 청와대 춘추관장 사의…무단 증축 의혹에 \"직접 증축한 사실 없어\"(종합)",
-    "summary": [
-      "[서울=뉴시스]김지은 이인준 기자 = 김상호 청와대 춘추관장(보도지원비서관)이 최근 사직서를 제출했다.",
-      "김 관장은 자신이 소유한 다세대주택의 무단 증축 의혹이 제기된 데 대해서는 \"직접 증축한 사실이 없다\"고 해명했다.",
-      "10일 청와대 관계자에 따르면 김 관장은 미국과 남미 순방 직후인 지난 4일 사직서를 제출한 것으로 알려졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2daaba01",
+    "id": "n44a4c9f0",
     "category": "IT",
-    "source": "한국경제",
-    "time": "26분 전",
-    "url": "https://www.hankyung.com/article/2026081053197",
-    "title": "중국, 상반기 휴머노이드 로봇 출하량 97% 점유…미국 압도",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003742694",
+    "title": "\"로봇도 옷 입는다\"…반도체 다음 주도주로 '전자피부' 뜨나",
     "summary": [
-      "중국, 상반기 휴머노이드 로봇 출하량 97% 점유…미국 압도."
+      "[서울=뉴시스]서이현 인턴 기자 = 최근 반도체주를 중심으로 한 코스피 조정 이후 다음 투자처로 로봇의 옷, 이른바 '전자피부' 시장이 주목받고 있다는 전문가의 조언이 나왔다.",
+      "김광석 한양대학교 겸임교수는 10일 구독자 51만4000명을 보유한 유튜브 채널 '경제 읽어주는 남자(김광석TV)'에 출연해 최근 반도체주 조정 배경과 앞으로의 투자 흐름을 짚었다.",
+      "그는 하이퍼스케일러(초대형 데이터센터 운영사) 기업들의 잉여 현금흐름 감소와 자본 지출."
     ],
     "chips": [
-      "#뉴스"
+      "#반도체",
+      "#교육"
     ]
   },
   {
-    "id": "n94f9ac75",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "34분 전",
-    "url": "https://www.hankyung.com/article/202608105324H",
-    "title": "열도 감싸안을 온유 목소리…9월 16일 日 네 번째 싱글 발매",
+    "id": "nd16fe368",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003742344",
+    "title": "\"메모리 호황인데 가격이 왜 이래\"…삼전닉스 이어 마이크론도 '경고등'",
     "summary": [
-      "열도 감싸안을 온유 목소리…9월 16일 日 네 번째 싱글 발매."
+      "[서울=뉴시스]이지영 기자 = 삼성전자와 SK하이닉스의 메모리 가격 상승폭이 시장 기대에 못 미치면서 다음 달 실적 발표를 앞둔 미국 메모리 반도체 기업인 마이크론에도 경고등이 켜졌다.",
+      "글로벌 메모리 반도체 '3인방'이 같은 업황을 공유하는 만큼 마이크론에서도 비슷한 흐름이 나타날 수 있다는 분석이다.",
+      "10일(현지 시간) 미국 투자전문매체 모틀리풀에 따르면 최근 메모리 반도체 가격은 인공지능(AI) 투자 확대에 따른 공급 부족으로 크게 올랐다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
-    "id": "nb7666a72",
+    "id": "ne2608e6d",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743578",
-    "title": "조국혁신당 합당 문제…金 \"당명은 유지\" 鄭 \"전당원 투표\" 宋 \"합당 반대\"",
-    "summary": [
-      "[서울=뉴시스] 정금민 한재혁 권신혁 기자 = 더불어민주당 당권주자들이 10일 조국혁신당과의 합당을 둘러싸고 공방을 주고 받았다.",
-      "양강 구도에 있는 김민석 후보와 정청래 후보는 서로를 향해 \"(정 후보의) 폭탄선언식 합당으로 일이 꼬였다\" \"이재명 대통령의 이름을 파는 분(김민석)이 반대했다\"며 공세를 가했다.",
-      "송영길 후보는 \"조국혁신당과의 통합은 반대한다\"고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n78b7d6f5",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743582",
-    "title": "[속보]뉴욕증시, 이란 협상 불확실성에 하락 출발…나스닥 0.2%↓",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = ◎공감언론 뉴시스 lje@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2c410adb",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "35분 전",
-    "url": "https://www.hankyung.com/article/202608105318i",
-    "title": "인텔, 150억달러 규모 보통주 발행…투자 자금 조달 목적",
-    "summary": [
-      "인텔, 150억달러 규모 보통주 발행…투자 자금 조달 목적."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc54b6d80",
-    "category": "부동산",
     "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260810152700001",
-    "title": "靑춘추관장 '무단증축' 논란…\"매입 당시 몰라, 양성화 조치\"",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811000500098",
+    "title": "스웨덴 \"러시아 스파이 공작 저지…러 대외정보국 관여\"",
     "summary": [
-      "(서울=연합뉴스) 황윤기 기자 = 김상호 청와대 춘추관장은 10일 소유한 주택의 무단 증축 논란에 관해 \"매입할 당시 주차장 일부가 원룸으로 변..."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 스웨덴 보안국(SAPO)이 스웨덴의 국가 이미지를 훼손하려는 러시아의 정보 공작을 저지했다고 10일(현지시..."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n8609a041",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811000700072",
+    "title": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 10일(현지시간) 남미 콜롬비아 서부를 강타한 규모 7.4의 지진으로 최소 20명이 사망한 것으로 현지 당국..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea5bd1a8",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260810/134452584/2",
+    "title": "집안서 버튼 누르면 주차 로봇이 내 차 ‘배달’",
+    "summary": [
+      "출근 준비가 끝나면 아파트 벽에 설치된 제어판(월패드)에서 차량 호출 버튼을 누른다.",
+      "그 순간 지하주차장의 ‘주차 로봇’이 스스로 움직이기 시작하고, 동시에 운전자가 탈 엘리베이터도 거주하는 층으로 움직인다.",
+      "현관문을 열고 나서면 엘리베이터가 도착해 있고, 지하주차장 출입문 앞에는 내 차가 ‘배달’돼 있다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n5b15cdda",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260810/134452599/2",
+    "title": "HD현대重, 美데이터센터에 9560억 규모 발전설비 공급",
+    "summary": [
+      "HD현대중공업이 미국 빅테크 기업 데이터센터에 대규모 발전설비를 공급한다.",
+      "HD현대중공업은 최근 미국 에너지 인프라 개발기업인 코반에너지그룹과 9.6MW(메가와트)급 힘센(HiMSEN) 엔진(사진) 기반의 발전설비 공급 계약을 체결했다고 10일 밝혔다.",
+      "이번 계약은 1000MW, 9560억 원 규모로 HD현대중공업의 역대 최대 규모 발전용 엔진 공급 계약이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7381e35b",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260810/134452601/2",
+    "title": "삼성전자, 日 NTT 도코모와 AI무선망 품질 최적화 기술 개발",
+    "summary": [
+      "삼성전자가 인공지능(AI)으로 스마트폰 통신 끊김을 선제적으로 막는 차세대 기술을 개발했다.",
+      "실제 통신망 적용 결과 품질 저하 현상이 절반 가까이 줄었다.",
+      "삼성전자는 이를 바탕으로 다가오는 6세대(6G) 이동통신 시대의 기술 주도권을 확보할 계획이다."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n4cc1d2ba",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260810/134452631/2",
+    "title": "잘나가는 지역 상권? 현지인-관광객 등 유입 다양해야 성공",
+    "summary": [
+      "수도권과 지방 상권의 양극화가 심화되는 가운데, 지역에서 여전히 잘나가는 주요 상권은 머물며 소비하는 체류형 생활인구를 붙잡는 데 성공한 것으로 나타났다.",
+      "평일과 주말, 현지인과 관광객, 직장인과 가족 단위 등 유입 경로가 다양한 상권일수록 활성화된 모습을 보였다.",
+      "KB금융그룹은 10일 발표한 ‘KB상권 활성화 인사이트’에서 수도권을 제외한 전국 5대 권역의 주요 상권 10곳의 특징을 분석했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8caa101e",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "37분 전",
+    "url": "https://view.asiae.co.kr/article/2026081100115650894",
+    "title": "인텔,150억달러 규모 신주 발행…AI 사업 실탄 확보",
+    "summary": [
+      "미국 반도체 기업 인텔이 인공지능(AI) 데이터센터 사업 확대를 위해 150억달러(약 21조원) 규모의 신주 발행에 나선다.",
+      "올해 주가가 160% 넘게 급등하면서 높아진 투자자들의 관심을 활용해 AI와 파운드리(반도체 위탁생산) 투자를 위한 실탄 확보에 나선 것으로 풀이된다.",
+      "10일(현지시간) 블룸버그통신에 따르면 인텔은 이날 150억달러 규모의 보통주를 신규 발행할 계획이라고 밝혔다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
     ]
   }
 ];
@@ -643,21 +647,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "AI",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
