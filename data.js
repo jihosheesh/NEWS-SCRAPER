@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-10 07:08:51
+// 마지막 업데이트: 2026-08-10 09:06:10
 window.NEWS_DB = [
   {
     "id": "n17c0663d",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DZGh2SFY4ZjJNWlktTmJDRkdPZEFrdTVxSnkwZlY0a0xUT1Zoa2dpbVRBYlM2MDFkU0Nzd3d5bUZMaGRHOUFtSW12ZmJPeDdUcUVmYnNnM2ItSEQ5?oc=5",
     "title": "[미국 특징주] 엔비디아, AI 전력 인프라에 4조원 베팅…'전력 확보' 경쟁 본격화",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n3485421d",
     "category": "IT",
     "source": "서울경제",
-    "time": "21시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUWl0VGozOC1JdmkxejBSMVZlWUcxNmZfRzNDTjNMNkgzcDNzV3Q4dGd1V3JNakRUbWxnQ09pVkhIX041NkFxdXRxVGJqaUFmOUHSAVNBVV95cUxQX0Jjbl9aYzUwcjYyZ0hiTWh0aXVJN054Y241QWRuTUswS0NwaWJNUDBFUzl6MnVHZmVFamFUOC1MMGVRMWRsYS03bUNoeGt4TkQySQ?oc=5",
     "title": "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n470f4d70",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TcmlyNDdYaDBPMkFlVzlYdTZwLWNaZDVKOTZTbGhQN20tU0RWMXhSSGExS2UxMzZkYjBobGQxQjdYOENDOU5CalBkNTZiS1prVG83dmJkdnlJN2tmRFZQTEI4MURmb0FGcWxhX2dtR1lvREE?oc=5",
     "title": "[AI 뭉쳐야 산다⑩] 두산그룹과 엔비디아 AI 시대 협업, 박정원 에너지·로보틱스·반도체 소재 아우르다",
     "summary": [
@@ -62,11 +62,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9db71f7c",
+    "id": "nee123c1c",
     "category": "사회",
     "source": "아주경제",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG3SAVhBVV95cUxNc3NuMFZnYkdHajlweVB0NzBLX3V1SmcxSGNOQTVSblFJRUo1QVJDUTVBN1FEeGdSTGFpLXJHX2NQYV9QQXNQZkIzR3Z6R3VkN3VRZUNXelBt?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQWFtVWtrb3VLTDRqUnZGZHJWRFhJOUFTNkNqX3JIODZoOWdCbE5Zb2tlOEJ0dkloeGIwd1hZdmtpSEp2dFdBOUUzczJJaXk3NURLWmxoNktCUdIBWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG0?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
       "임병택표 일자리-온...AI로 취업 문턱 낮춘다 아주경제."
@@ -108,20 +108,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5c09d452",
-    "category": "경제",
-    "source": "소년한국일보",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1BqOXR2TnBqanhaNF9PWVRrOXpRZDFrRjU4WGtZQ1d0S1JYU1JCbUotTUEyQmE5NzdBZDVlclFwX3pwZUxGMGJGU0Z0ckZ4c0NpckhFdzBsc0w3aDc3QVA1QW1IdW9aa3dfVdIBcEFVX3lxTE01VEEzeXJtMl85QTU0NEtoaWU4dEQ3eE9KckZFelY5bWVMdU9wdzZSaGdYZzd5UE9ObzFhaXhJcnBLbVo0Tm4wcFBsaGc2Q2FDX3IySW1qcUZQcXZLbG0xNUgzZUlJSjdEZGVfZktQSlM?oc=5",
-    "title": "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는?",
-    "summary": [
-      "[기획] 코스피 폭락에도 환율은 뚝…디커플링 정체는? 소년한국일보."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -148,6 +134,20 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n6aa2d332",
+    "category": "경제",
+    "source": "Chosunbiz",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
+    "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
+    "summary": [
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#환율"
     ]
   },
   {
@@ -272,12 +272,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "90일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -302,7 +302,7 @@ window.NEWS_DB = [
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
-    "time": "167일 전",
+    "time": "168일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
@@ -310,6 +310,42 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "ndc088670",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154158",
+    "title": "\"장보러 갈 때도 복잡한 콘서트에서도...택시는 카카오T로 부르세요\"",
+    "summary": [
+      "카카오모빌리티가 운영하는 '카카오T 대신 불러주기' 서비스가 스마트폰 이용에 어려움을 겪는 노년층의 택시 호출에 도움을 주고 있는 것으로 나타났다.",
+      "스마트폰 애플리케이션 대신 전화 한 통으로 택시를 호출할 수 있는 '카카오 T 택시 대신 불러주기'와 병원 내 택시 호출 시스템 및 콘서트 셔틀 등 오프라인에서도 다양한 이용자의 이동을 지원하며 일상 밀착형 모빌리티 플랫폼으로 자리잡고 있다.",
+      "10일 카카오모빌리티는 지난 2025년 KT is와 협력."
+    ],
+    "chips": [
+      "#카카오",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb7a9e1a4",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154157",
+    "title": "네이버·카카오가 넓히는 'AI생태계'...시니어 교육부터 AI에이전트까지",
+    "summary": [
+      "네이버와 카카오가 인공지능(AI)을 일상과 산업 전반으로 확산하기 위한 생태계 구축에 속도를 내고 있다.",
+      "네이버는 디지털 소외계층이 AI 서비스를 손쉽게 활용할 수 있도록 교육 지원에 나선다.",
+      "카카오는 다양한 AI 에이전트를 한곳에서 활용할 수 있는 개방형 마켓플레이스를 구축할 예정이다."
+    ],
+    "chips": [
+      "#AI",
+      "#네이버",
+      "#카카오",
+      "#교육"
     ]
   },
   {
@@ -345,298 +381,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neaf02d09",
+    "id": "nc437e464",
     "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154154",
-    "title": "삼성전자, 폴더블 대중화·생태계 편의성·NW 기술력 '삼박자' 강화",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/10/2026081012242966923",
+    "title": "반도체 레버리지로 5일간 40%대 수익…반등장선 낙폭 과대주 매수[서학픽]",
     "summary": [
-      "삼성전자가 모바일 생태계를 확장했다.",
-      "폴더블(접는)폰 대중화에 성공했다.",
-      "전자 지갑 편의성을 향상했다."
+      "[서학개미 탑픽] 미국 증시가 지난 7월 말부터 급반등한 가운데 서학개미들이 낙폭 과대주를 중심으로 종목 매수에 나섰다.",
+      "이는 지난 7월 증시 조정 땐 나스닥100지수 등 지수 추종 ETF(상장지수펀드)를 중심으로 투자했던 것과 달라진 모습이다.",
+      "서학개미들은 반도체주 하락시 대대적으로 순매수했던 디렉시온 데일리 세미컨덕터 불 3배 ETF(SOXL)에 대해선 순매도로 돌아서 단기간에 큰 차익을 거뒀다."
     ],
     "chips": [
-      "#삼성전자"
+      "#반도체"
     ]
   },
   {
-    "id": "n2acb3e61",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154152",
-    "title": "[BIC 26] 인디게임 글로벌 축제 D-4...해외 시장 '도약의 장' 열린다",
+    "id": "n82e55644",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743334",
+    "title": "李대통령 \"광주 군공항 임시 이전\"…삼성·SK 호남 팹 착공 '속도' 붙나",
     "summary": [
-      "국내외 인디게임 개발자와 글로벌 게임 기업들이 한 자리에서 만나는 '부산인디커넥트페스티벌 2026(BIC 26)' 개막이 나흘 앞으로 다가왔다.",
-      "올해 BIC 26은 국내외 게임산업을 이끄는 주요 기업들이 스폰서로 참여해 인디게임을 둘러싼 산업 생태계를 확인하고, 게임산업의 새로운 가능성을 모색할 전망이다.",
-      "10일 BIC 조직위원회는 오는 14일부터 16일까지 사흘간 부산 벡스코에서 오프라인 행사를 개최한다고 밝혔다."
+      "[서울=뉴시스]이지용 기자 = 이재명 대통령이 호남 반도체 클러스터의 조기 조성을 위해 광주 군공항의 임시 이전을 주문하면서 팹(공장) 착공 일정이 조만간 구체화될 수 있을 지 주목되고 있다.",
+      "정부가 호남 클러스터 조성에 대한 의지를 재차 드러낸 가운데, 전력·용수 등 인프라 확보 방안이 얼마나 빠르게 마련되느냐에 따라 기업들의 실제 착공 시점도 달라질 전망이다.",
+      "이 대통령은 10일 오후 청와대에서 주재한 '메가프로젝트 제2차 민관합동 점검회의."
+    ],
+    "chips": [
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n54653753",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "3분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/10/S2EPSCH4ZFG6LG4HAISBZVZUFA/",
+    "title": "스마트폰 이을 차세대 기기는 ‘터치’ 아닌 ‘목소리’로… 빅테크 음성 AI 경쟁",
+    "summary": [
+      "스마트폰 이을 차세대 기기는 ‘터치’ 아닌 ‘목소리’로… 빅테크 음성 AI 경쟁."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n5c7fa4d1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743455",
+    "title": "[속보]강훈식 \"충청권 246조·영남권 107조 투자 프로젝트 올해 착수\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 kje1321@newsis.com."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n651a3485",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026081016065760165",
-    "title": "\"안전하다\" 증권사 말 믿었다가 원금 '0원' 됐다…이 펀드 정체가",
+    "id": "n77d8cd90",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/policy/2026/08/10/2026081017562648282",
+    "title": "박완수 경남도지사 \"공공기관 통합·이전, 지방주도 성장 맞게 추진\"",
     "summary": [
-      "\"부동산에 투자하는 상품이라 원금 손실 걱정 없이 안전합니다.\" 이 같은 증권사 직원의 말만 믿고 해외 부동산 공모펀드에 가입했던 투자자들이 투자 원금을 전액 날리거나 배당금이 끊기는 등 심각한 투자 피해를 당하는 사례가 잇따르고 있다.",
-      "글로벌 부동산 경기 침체가 장기화하면서 현지 금융기관의 강제 매각과 만기 연장에 따른 자산가치 하락이 현실화하자, 금융감독원이 10일 주요 분쟁 민원 사례를 바탕으로 투자자 유의."
+      "중앙정부 정책 따른 지방비 부담 증가 개선 촉구 박완수 경남도지사가 10일 확대간부회의를 열고 \"공공기관 통합·이전이 정부의 지방주도 성장과 국가균형발전 기조에 맞게 추진돼야 한다\"고 강조했다.",
+      "중앙정부 정책에 따른 지방비 부담 증가에 대해서도 지방재정의 자율성을 충분히 고려해야 한다고 밝혔다.",
+      "경남에서는 산하기관 혁신과 부산시와의 광역 현안 협력에 속도를 내고 장기 가뭄과 먹는 물, 금리 인상 등 도민과 기업이 체감하는 민생 현안에 선제적으로."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n340c007c",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260810/134452263/2",
+    "title": "김민석 “선호투표로 이길 수 없어” 정청래 “이성윤 찍어달라”",
+    "summary": [
+      "더불어민주당 8·17 전당대회가 일주일 앞으로 다가온 가운데 초박빙 승부를 이어가고 있는 김민석 후보와 정청래 후보가 최대 승부처인 호남과 서울·경기 표심에 화력을 집중했다.",
+      "김 후보는 “선호투표로 이길 수 없지 않느냐”며 과반득표 승리를 호소했고, 정 후보는 5명을 뽑는 최고위원 자리에서 친청(친정청래)계 후보 3명을 전원 당선시키기 위해 분배 전략을 내세우기도 했다.김 후보는 10일 오후 아주대 연암관 대강당에서 열린 경기 당원 토크곤서트에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb01a014",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026081018011146289",
+    "title": "'김수현 명예훼손 혐의' 유튜버 권영찬 검찰 송치",
+    "summary": [
+      "배우 김수현에 대한 허위·비방성 주장을 유포해 명예를 훼손한 혐의를 받는 코미디언 출신 유튜버 권영찬씨가 검찰에 넘겨졌다.10일 경찰 등에 따르면 서울 서초경찰서는 지난달 24일 권씨를 정보통신망법상 명예훼손 혐의로 서울중앙지검에 불구속 송치했다.",
+      "권씨는 지난해 자신의 유튜브 채널에서 김수현이 미성년자였던 고(故) 김새론과 교제하고 성관계를 가졌다는 취지의 주장을 한 혐의를 받는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n547b046f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/10/2026081014042933590",
+    "title": "'동아시아 제패' 韓 남자 대표팀, 이번엔 바레인과 맞붙는다! 29~30일 천안서 '한-바레인 수교 50주년 기념' 평가전 개최",
+    "summary": [
+      "대한민국 남자 배구 국가대표팀이 중요한 국제대회 두 개를 앞두고 바레인과 평가전을 치른다.",
+      "대한배구협회는 \"문화체육관광부와 국민체육진흥공단의 후원을 받아 오는 8월 29일부터 30일까지 충청남도 천안시 유관순체육관에서 '한-바레인 수교 50주년 기념 대한민국 남자배구대표팀 평가전 2026'을 개최한다\"고 10일 밝혔다.",
+      "이번 평가전은 대한민국과 바레인의 수교 50주년을 기념하고, 스포츠를 통한 양국 간 우호협력 관계를 강화하기 위해 마련됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nadead9c6",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743422",
+    "title": "남자배구 KB손보, 아시아쿼터로 스리랑카 국가대표 차메스 영입",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 남자 프로배구 KB손해보험이 새 아시아 쿼터 선수로 스리랑카 국가대표 타루샤 차메스를 데려왔다.",
+      "KB손해보험은 10일 \"2026~2027시즌 아시아 쿼터 선수로 아웃사이드 히터 타루샤를 영입했다\"고 밝혔다.",
+      "2002년생인 타루샤는 195㎝의 신장과 뛰어난 탄력에서 나오는 타점 높은 공격과 블로킹 능력이 강점으로 꼽힌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff568cc2",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743452",
+    "title": "오세훈 \"도심 유일한 녹지 손댄다? 전 세계 찬성할 시장 無\"",
+    "summary": [
+      "[서울=뉴시스] 박대로 기자 = 오세훈 서울시장은 용산어린이정원에 아파트를 짓는 방안에 찬성할 시장은 전 세계 어디에도 없을 것이라며 개발 반대 의견을 재확인했다.",
+      "오 시장은 10일 KBS1 '사사건건'에 출연해 \"실제로 (서울 시내) 생활권 녹지는 전 세계 대도시들의 평균에 비춰볼 때 굉장히 적다\"며 \"다행히도 용산 미군 기지가 있던 자리가 본의 아니게 비어 있기 때문에 특별법까지 만들어서 보존하기로 한 것인데 지금 주택 사정이 녹록지 않다고."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "n38403d6e",
+    "id": "nbe358d4d",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743226",
-    "title": "충남대병원, 상완신경총 추적·분할하는 'AI 딥러닝 프레임워크' 개발",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/future/2026/08/10/2026081010000121845",
+    "title": "넥스젤바이오텍, '스케일업 팁스' 선정…주사형 골이식재 상용화 속도",
     "summary": [
-      "[대전=뉴시스]김도현 기자 = 충남대병원이 초음파 영상에서 상완신경총을 실시간으로 정확하게 추적 및 분할할 수 있는 '경량화 인공지능 딥러닝 프레임워크'를 개발했다.",
-      "10일 충남대병원에 따르면 이번 연구는 마취통증의학과 홍부휘·조유민 교수가 참여했으며 백동현 인턴이 논문 제1저자로 이름을 올렸다.",
-      "연구팀은 '경량 계층적 시간 융합을 이용한 실시간 상완신경총 초음파 분절(Real-Time Brachial Plexus Ultrasound Segme."
+      "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] 한국과학기술연구원(KIST) 출자기업 넥스젤바이오텍이 중소벤처기업부의 정책지정형 '스케일업 팁스' 사업에 최종 선정됐다고 10일 밝혔다.",
+      "넥스젤바이오텍은 서울대학교병원과 함께 '온도감응성 하이드로젤 기반 주사형 융복합 골이식재 상용화 개발 및 임상시험 완료' 과제를 수행한다.",
+      "정부지원금 30억원을 포함해 총 40억원 규모의."
     ],
     "chips": [
-      "#AI",
+      "#스타트업",
+      "#정책",
+      "#교육",
       "#의료"
     ]
   },
   {
-    "id": "n308caf69",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743229",
-    "title": "고양시, '신청사' 건립 사업 본격화…타당성 재조사 의뢰",
-    "summary": [
-      "[고양=뉴시스] 송주현 기자 = 경기 고양시는 신청사 건립사업이 타당성 재조사를 시작으로 사업 지연 최소화를 위한 행정절차를 진행한다고 10일 밝혔다.",
-      "시는 재조사를 통해 최초 타당성 조사 이후 기간 만료 및 사업비 변동 등 변화된 재정 여건을 반영하고 사업계획의 적정성과 재정적 타당성을 객관적으로 재검증한다는 방침이다.",
-      "앞서 지난달 29일 신청사 건립사업의 사업규모와 총사업비 등을 반영한 사업계획을 마련해 경기도를 거쳐 행정안전부에 타당성 재."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0494152",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003742373",
-    "title": "[울산소식]울주군 장애인댄스스포츠팀, 금메달 4개 획득 등",
-    "summary": [
-      "[울산=뉴시스] 유재형 기자 = 울산 울주군은 소속 장애인댄스스포츠팀이 온산문화체육센터에서 열린 ‘2026 울산광역시장배 전국장애인댄스스포츠 선수권대회’에 출전해 금메달 4개와 은메달 1개를 수확했다고 10일 밝혔다.",
-      "이번 대회는 전국 10개 시도에서 선수와 관계자 등 200여명이 참가했다.",
-      "울주군 선수단은 ▲듀오 스탠다드 5종목 클래스1(이영호&장혜정) ▲콤비 라틴 5종목 클래스1(이영호&박예지) ▲콤비 스탠다드 5종목 클래스1(배정부&장혜정."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf0febaea",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743225",
-    "title": "대전시, 제61회 전국기능경기대회 출전 선수단 결단식",
-    "summary": [
-      "[대전=뉴시스]곽상훈 기자 = 대전시는 10일 시청 대회의실에서 '제61회 전국기능경기대회'에 참가하는 대전선수단 결단식을 가졌다고 밝혔다.",
-      "결단식 행사에는 허태정 시장을 비롯해 오석진 대전시교육감, 조성칠 대전시의회 의장, 고재철 한국산업인력공단 대전지역본부장 등 주요 내빈과 대회 참가 학교 교장단, 지도교사, 선수단 등 50여 명이 참석해 선수들의 선전을 기원했다.",
-      "결단식은 대회 참가 현황 보고와 선수 대표의 결의문 낭독, 선수단기 수여 순."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n22ee874a",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026081016064556756",
-    "title": "사천시, 체류형 관광 전환 추진… 5대 관광사업 본격화",
-    "summary": [
-      "경남 사천시가 관광객 수를 늘리는 데 초점을 맞춘 기존 관광정책에서 벗어나 체류시간과 지역 내 소비를 늘리는 체류형 관광정책을 추진한다.",
-      "사천시는 10일 시청 브리핑룸에서 관광 해양국 언론브리핑을 열고 민선 9기 관광정책 방향과 주요 사업을 발표했다.",
-      "시는 관광·해양·수산·문화예술·체육 분야를 연계해 관광객의 체류시간을 늘리고 지역 상권으로 소비가 이어질 수 있도록 관광 동선을 구성한다는 계획이다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n56dfd078",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026081016063652150",
-    "title": "경기도, 8월말까지 재정위기 비상 대응책 마련…10일 TF 1차회의",
-    "summary": [
-      "경기도가 추미애 경기도지사의 '경기도 재정 비상 상황' 선언에 따른 특별지시로 '재정위기 극복 전략 전담조직(TF)'을 가동하고 비상 대응체계에 돌입했다.",
-      "단기적으로는 세출 구조조정에 나서고, 중장기적으로는 인공지능(AI) 시대에 맞는 세입 확충과 지방재정제도 개편을 추진해 8월 말까지 재정 정상화를 위한 종합 대응책을 마련한다는 계획이다.",
-      "경기도는 10일 경기도청에서 주형철 경제부지사 주재로 재정위기 극복 전략 T."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nf05fdb2c",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026081016021421069",
-    "title": "함평군, 어린이 생태교육 놀이공간 '나빛파크' 안전점검",
-    "summary": [
-      "함평군은 어린이 대상 생태교육 체험형 놀이공간인 '나빛파크'의 개장을 앞두고, 방문객의 안전 확보를 위해 사전 안전점검을 실시했다고 10일 밝혔다.이번 점검은 오는 15일 개장을 앞둔 나빛파크의 시설 전반에 대한 안전성을 확보하고 이용객들이 안심하고 시설을 이용할 수 있도록 하기 위해 마련됐다.",
-      "점검에서는 ▲놀이시설 및 체험시설 안전성 ▲전기·소방 등 안전설비 작동 여부 ▲동선 및 이용 편의시설 점검 ▲응급상황."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "na379a26b",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/10/2026081010055161920",
-    "title": "운전자 사라지는 자율주행 시대…\"사고 책임 체계도 변해야\"",
-    "summary": [
-      "사고 현장 통제권도 과제 보험·소방 \"차량 데이터 접근 필요\" 자율주행차 상용화에 대비해 사고 발생 시 책임 소재부터 경찰·소방의 현장 대응, 사고 데이터 공유까지 관련 제도의 전면적인 정비가 필요하다는 지적이 나왔다.",
-      "운전자가 중심이 되는 사고 책임을 운행사업자·자율주행차 제조사·안전관리자 등 각 주체로 나눠 가려야 한다는 주장이다.",
-      "김종갑 한국도로교통공단 비상임이사는 10일 오전 서울 영등포구 국회의원회관에서 열린 정책토론회에서 \"자율주행."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n264e9c87",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/industry/2026/08/10/2026080712241651725",
-    "title": "디엑스아이알, AI로 브이페이먼츠 전 임직원 횡령 혐의 적발",
-    "summary": [
-      "AI(인공지능) 기반 의사결정 인텔리전스 기업 디엑스아이알(DXIR, 대표 최진유)이 자금 유출 검토 자동화 프로그램으로 결제대행(PG) 기업 브이페이먼츠 전 임직원의 횡령·배임 혐의를 적발했다고 10일 밝혔다.",
-      "디엑스아이알에 따르면 브이페이먼츠 데이터를 분석하면서 2021년부터 2024년 사이의 이상 자금 흐름을 포착했다.",
-      "이 과정에는 계좌·회계 데이터에서 정상 거래와 다른 패턴을 선별하는 이상거래 자동 적발 프로그램이 사용됐다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nf45fcc4c",
+    "id": "n9059ad3d",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260810109000073",
-    "title": "美日 엔 매수 공동개입에…\"내년 봄 日기준금리 1.5% 도달\" 전망",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260810130700011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
     "summary": [
-      "(도쿄=연합뉴스) 이도연 특파원 = 지난달 말 미국과 일본이 엔화를 매수하며 외환시장에 공동 개입한 뒤, 일본은행이 금리 인상을 가속할 것이라는..."
+      "[연합뉴스 이 시각 헤드라인] - 18:00."
     ],
     "chips": [
-      "#금리"
+      "#뉴스"
     ]
   },
   {
-    "id": "n6e90c07f",
-    "category": "사회",
+    "id": "n5a2a5119",
+    "category": "경제",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260810109400530",
-    "title": "\"한국 삶의 질 OECD 중위권…주거 1위·사회적 연결은 최하위권\"",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260810138500527",
+    "title": "한샘, 2분기 영업이익 113억원…작년 동기 대비 400.2% 증가",
     "summary": [
-      "(서울=연합뉴스) 성서호 기자 = 한국의 삶의 질이 경제협력개발기구(OECD) 38개국 가운데 중위권에 해당하는 19위로 분석됐다."
+      "(서울=연합뉴스) 코스피 상장사 한샘[009240]은 연결 기준 올해 2분기 영업이익이 113억원으로 지난해 동기보다 400.2% 증가한 것으로..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nee095be8",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260810/134449337/1",
-    "title": "판잣집·비닐하우스 등 비주택 거주 가구 55만…집에서 밀려난 사람들 늘어난다",
-    "summary": [
-      "판잣집, 비닐하우스, 여관 등 정상적인 주택으로 보기 어려운 곳에서 생활하는 가구가 전국에 55만 가구에 육박하는 것으로 나타났다.",
-      "냉방·단열시설이 부족해 폭염에 취약한 이들은 10년 새 35% 늘었다.",
-      "서울, 경기 등 수도권에 절반 이상이 몰렸고, 서울은 전국 17개 시도 중 증가율이 가장 높았다.10일 국가데이터처 주택총조사 자료에 따르면 지난해 주택이 아닌 곳 중 숙박업소 객실과 판잣집·비닐하우스, 상가·임시막사 등에서 사는 가구는 총 5."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne50d5866",
+    "id": "n3c1f8564",
     "category": "사회",
     "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260810/134450804/1",
-    "title": "“식품업계의 고어텍스 되겠다”… 이그니스, ‘개폐형 캔 뚜껑’ 글로벌 표준 도전",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260810/134452288/2",
+    "title": "“전신마취 후 심정지”…어깨수술 子사망 유족, 고소장 제출",
     "summary": [
-      "“식품업계의 고어텍스(GORE-TEX), 식품업계의 비브람(Vibram), 식품업계의 돌비(Dolby)처럼 표준을 잡는 회사가 되는 것이 최종 목표입니다.”푸드테크 기업 이그니스의 박찬호 대표는 10일 서울 성동구 본사에서 열린 기자간담회에서 ‘XO 리드(XO Lid)’를 소개하며 이같이 말했다.XO 리드는 2022년 인수한 독일 엑솔루션(Xolution)사가 보유한 리실러블 마개(Resealable Lid)로, 캔의 재밀폐 한계를 보완해 소비."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf2524ff7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260810/134450801/1",
-    "title": "“즐겁게 관리하는 핑크 루틴”… 디다, 빌리 츠키와 신규 캠페인 시작",
-    "summary": [
-      "데일리 루틴 브랜드 ‘디다(DIDA)’가 걸그룹 빌리(Billlie)의 츠키를 신규 브랜드 모델로 발탁하고 신규 캠페인을 시작한다.",
-      "디다는 브랜드 시그니처인 ‘핑크’ 컬러를 중심으로 마케팅을 이어오고 있다.",
-      "대표 제품인 ‘디다샷’ 역시 석류에이드 맛의 핑크색 음료로, 디다는 츠키의 상큼한 이미지가 브랜드 특유의 핑크 무드와 부합한다고 판단해 모델로 선정했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n82d1fb74",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/stock/2026/08/10/2026081010582931992",
-    "title": "SCL사이언스, 정선메디칼과 85억 지혈제 공급 계약… 1000억 체내용 시장 '선점'",
-    "summary": [
-      "SCL사이언스가 약 1000억원 규모의 국내 4등급 체내용 지혈제 시장 진입을 본격화한다.",
-      "10일 SCL사이언스는 의료기기 유통 전문기업 정선메디칼과 체내용 흡수성 지혈제 '이노씰 플러스 DL(InnoSEAL Plus DL)'의 유통 및 판매 계약을 체결했다고 공시했다.",
-      "이번 계약은 3년간 총 10만개, 85억원 규모다."
+      "전주의 한 종합병원에서 어깨 수술을 받은 아들이 사망하자 유족이 경찰에 고소장을 제출했다.10일 전북경찰청 광역범죄수사대는 최근 업무상 과실치사 혐의로 전주시 모 종합병원을 상대로 한 고소장을 제출받았다고 밝혔다.해당 고소장에는 자신의 아들이 어깨를 다쳐 해당 병원에서 수술을 받던 중 전신마취 이후 심정지가 와 의료사고가 의심된다는 내용이 담긴 것으로 전해졌다.",
+      "이번 사건의 경우 수술을 받은 남성에 대한 변사 사건은 병원 소재 경찰서에서, 의료."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n818a60a7",
+    "id": "ne9bb0042",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260810138200030",
+    "title": "콜마홀딩스, 2분기 영업익 253억원…작년 동기比 55% 증가",
+    "summary": [
+      "(서울=연합뉴스) 구정모 기자 = 콜마홀딩스[024720]는 올해 2분기 연결 기준 영업이익이 253억원으로 지난해 같은 기간보다 54.7% 증..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6a02393b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260810121900109",
+    "title": "'오디세우스 고향' 그리스 이타카도 영화 흥행에 들썩",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 영화 오디세이가 전 세계적으로 큰 관심을 받으면서 오디세우스의 고향으로 알려진 그리스 이타카섬이 관광 특수 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd3373c7",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/10/HA3TMZBTMRSDCYLDGNSWMOLEGE/",
-    "title": "'시각장애 대표 스포츠' 쇼다운 12~17일 올림픽파크텔서 아시아선수권 사상 첫 개최[오피셜]",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/movie/2026/08/10/G5SGCNLBMQ3TEYZTMJSDCNRTHE/",
+    "title": "[SC현장] \"극장 혈색 더 좋아지길\"…'암살자(들)' 유해진·박해일·이민호, 추석영화 흥행 정조준(종합)",
     "summary": [
-      "[스포츠조선 전영지 기자]시각장애 대표 글로벌 스포츠인 쇼다운이 서울에서 사상 첫 아시아선수권을 개최한다.",
-      "한국시각장애인스포츠연맹은 2026년 세계시각장애인스포츠연맹(IBSA) 쇼다운 아시아 챔피언십이 12~17일 서울 송파구 올림픽파크텔에서 열린다고 밝혔다.",
-      "이번 챔피언십은 한국시각장애인스포츠연맹과 IBSA가 공동 주최, 대한장애인쇼다운협회가 공동 주관하."
+      "[스포츠조선 안소윤 기자] 박진감 넘치는 대본부터 배우들의 안정적인 연기 호흡, 감각적인 연출까지 흥행 삼박자가 맞춰졌다.",
+      "영화 '암살자(들)'이 올해 추석 극장가의 기대작으로 주목을 받고 있다.",
+      "'암살자(들)' 제작보고회가 10일 서울 용산구 이촌동 CGV용산아이파크몰에서 진행됐다."
     ],
     "chips": [
       "#뉴스"
@@ -649,20 +648,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
