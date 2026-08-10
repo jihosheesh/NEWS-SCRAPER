@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-10 11:42:56
+// 마지막 업데이트: 2026-08-10 12:43:05
 window.NEWS_DB = [
   {
     "id": "n17c0663d",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DZGh2SFY4ZjJNWlktTmJDRkdPZEFrdTVxSnkwZlY0a0xUT1Zoa2dpbVRBYlM2MDFkU0Nzd3d5bUZMaGRHOUFtSW12ZmJPeDdUcUVmYnNnM2ItSEQ5?oc=5",
     "title": "[미국 특징주] 엔비디아, AI 전력 인프라에 4조원 베팅…'전력 확보' 경쟁 본격화",
     "summary": [
@@ -76,11 +76,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2ea16e66",
+    "id": "n7b43d662",
     "category": "IT",
     "source": "v.daum.net",
     "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QWk1kaVJacWkxUnVWbl94TWszbVdEa3EwODBWYWEzTnY1bDF2dXRwQlJ2dDVBS1JzdkFWcDd6UXMyRFl6b0E?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsa2VrZ0Y4WG5qRHJnOXlfMEZZU280aFlQLW9uM1hhNHBIdDA3V2ZpdDVrd18wUXhxTlZKNy1aZkdwZDhOc21WQm42cHYzek0?oc=5",
     "title": "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항",
     "summary": [
       "세계 AI 모델의 92%는 엔비디아 의존, 반도체 국산화 난항 v.daum.net."
@@ -94,12 +94,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "10일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -151,12 +151,12 @@ window.NEWS_DB = [
   {
     "id": "n0b5690bb",
     "category": "IT",
-    "source": "데일리인베스트",
+    "source": "dailyinvest.kr",
     "time": "14일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZjRjM0hyMjlKWDB3Tkk1RzlnampsNWtWTk43LVAwMHRySDRTbnU0N05xcGFZVFVZWk1jMUZPWU1Ld3NIWTY1SU1BUno4azFGb1JYaHNpN1dwNEJ6aWJ6ck1OTTV4RXh3TlpB0gFvQVVfeXFMUFRIak9Ca1VKUmVSMGJITUxMWjBiS2FoVG5iMkstT3Jsa0I1cjcxcmk1UDlERUduLXgtd0lsbHJhYzlvVUJER2NPZVJLNFlCQkRnclBabVFveXFFZDBpR0FCSnBHLUhuMjNJbXN4UDJF?oc=5",
     "title": "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까",
     "summary": [
-      "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까 데일리인베스트."
+      "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까 dailyinvest.kr."
     ],
     "chips": [
       "#반도체",
@@ -199,12 +199,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "스트레이트뉴스",
+    "source": "straightnews.co.kr",
     "time": "55일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
     ],
     "chips": [
       "#금리"
@@ -286,12 +286,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "테크M",
+    "source": "techm.kr",
     "time": "131일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
     ],
     "chips": [
       "#KBO"
@@ -380,263 +380,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf3d53df5",
-    "category": "IT",
+    "id": "n7d98d97c",
+    "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743541",
-    "title": "[올댓차이나] 대만 증시, 美 반도체 강세로 사흘 만에 반등 마감…1.59%↑",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743560",
+    "title": "뱅크시 작품 철거에 세금 15만 파운드…시설 훼손 '논란'",
     "summary": [
-      "[서울=뉴시스]이재준 기자 = 대만 타이베이 증시는 10일 주말 미국 반도체주 강세에 힘입어 3거래일 만에 반등 마감했다.",
-      "필라델피아 반도체지수(SOX)가 상승하면서 대만 증시에서도 주요 기술주를 중심으로 매수세가 유입했다.",
-      "자취안(加權) 지수는 지난 7일 대비 702.85 포인트, 1.59% 올라간 4만4928.76으로 폐장했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "na3012169",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260810/134451612/1",
-    "title": "파리 올림픽 빛낸 ‘금빛 삼총사’ 반효진·양지인·오예진…AG도 金 정조준",
-    "summary": [
-      "“파리 올림픽 때보다 더 성숙해진 모습으로 아시안게임 정상에 도전하겠다.”여전히 앳된 얼굴의 ‘막내’ 반효진(19)은 10일 충북 진천선수촌에서 열린 2026 아이치-나고야 아시안게임 사격 대표팀 미디어데이에서 이렇게 말했다.",
-      "중학교 2학년이던 2021년 친구를 따라 사격에 입문한 반효진은 약 3년 만에 태극마크를 달았다.",
-      "그리고 2024 파리 올림픽 여자 10m 공기소총에서 16세 10개월 18일의 나이로 정상에 오르며 한국 역대 여름올림픽."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "na419b07e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/national/regional/2026/08/10/I4DRJQHRYNADFJ256SPS3AAORU/",
-    "title": "차고서 쉬던 90대 시어머니, 며느리 주차 차량에 치여 숨져",
-    "summary": [
-      "차고서 쉬던 90대 시어머니, 며느리 주차 차량에 치여 숨져."
+      "[서울=뉴시스]이기주 인턴 기자 = 영국의 '얼굴 없는 작가' 뱅크시의 작품 3점을 철거하고 관리하는 데 약 15만 파운드(약 2억 8700만원)의 공공 비용이 투입된 것으로 나타났다.",
+      "작품의 예술적 가치와 관광 효과를 인정해야 한다는 주장과 공공시설 훼손에 따른 비용을 납세자가 부담해서는 안 된다는 비판이 맞서고 있다.",
+      "지난 9일(현지 시간) 영국 가디언에 따르면 런던의 뱅크시 작품 3점과 관련해 철거와 보안, 관리 비용으로 지금까지 약 15."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbe14148a",
+    "id": "n9b255b5d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743552",
+    "title": "李 지지율 최저치 43%…김어준 \"더 빠지면 안돼\"",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 이재명 대통령의 국정수행 지지율이 취임 후 최저치인 43.3%까지 떨어진 가운데, 여당인 더불어민주당과 대통령 지지율 간 '디커플링' 현상이 나타나고 있다는 분석이 나왔다.",
+      "10일 오전 방송된 유튜브 채널 '김어준의 겸손은 힘들다 뉴스공장'에서 진행자 김어준은 최근 여론조사 결과를 언급하며 \"대통령과 정당이 디커플링되면 안 된다\"며 \"지금은 디커플링이 확실히 되고 있다\"고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1621bd0a",
     "category": "사회",
     "source": "뉴시스",
     "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743511",
-    "title": "\"의지할 사람 없다\"…주거 1위 한국, 사회적 지지 '꼴찌'",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743539",
+    "title": "더위 식히려 안고 잤는데 '펑'…中 이색 피서법에 '경고'",
     "summary": [
-      "[세종=뉴시스] 강진아 기자 = 우리나라 삶의 질이 경제협력개발기구(OECD) 38개국 중 19위를 기록했다.",
-      "주거와 교육은 최상위권이었지만, 노동과 사회적 연결은 최하위권으로 영역별 편차가 큰 것으로 나타났다.",
-      "특히 어려울 때 의지할 사람이 없다는 '사회적 지지 부족'이 38위로 꼴찌를 기록했다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n591a14d0",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743535",
-    "title": "대왕님표 여주쌀, 제주항공 기내 증정 이벤트",
-    "summary": [
-      "[여주=뉴시스] 이준구 기자 = 경기 여주시와 제주항공이 여름 휴가철을 맞아 대왕님표 여주쌀을 알리는 제휴 프로모션을 진행한다.",
-      "17일부터 23일까지 김포·청주에서 제주로 향하는 제주항공 일부 편에서 기내 이벤트를 통해 탑승객에게 대왕님표 여주쌀을 증정한다.",
-      "이번 프로모션은 단순 광고를 넘어 샘플링 증정을 통해 실제 구매까지 이어지는 체험형 마케팅으로 추진됐다."
+      "[서울=뉴시스]이기주 인턴 기자 = 중국에서 여름철 더위를 식히기 위해 겨울멜론으로 불리는 '동과'를 끌어안고 잠을 자는 이색 피서법이 유행하고 있다.",
+      "하지만 동과를 장시간 끌어안고 있을 경우 내부에서 발효가 일어나 폭발할 수 있다는 전문가의 경고가 나왔다.",
+      "10일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 최근 중국 소셜미디어에는 커다란 동과를 끌어안고 잠을 자는 모습이 잇따라 공유되고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncee0ad25",
+    "id": "n1e66c898",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003743538",
-    "title": "유치장 문 열린 틈 타 도주한 10대, 10여분만에 덜미",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743518",
+    "title": "\"춤은 뒷전\"…日 전통축제 여성 무용수들 촬영에 '몸살'",
     "summary": [
-      "[남원=뉴시스]강경호 기자 = 전북 남원경찰서 유치장에 입감된 10대가 잠시 관리가 소홀한 틈을 타 유치장 밖으로 도주를 시도하다 10분여만에 붙잡혔다.",
-      "10일 남원경찰서에 따르면 이날 오후 2시45분께 경찰서 내 유치장에 입감돼있던 A(10대)군이 유치장 밖으로 도주를 시도했다.",
-      "경찰은 A군의 도주를 목격하자마자 그를 추격했고, 그는 경찰서 인근에서 10여분만에 붙잡혔다."
+      "[서울=뉴시스]이기주 인턴 기자 = 매년 8월 일본 도쿠시마현에서 열리는 전통 축제 '아와오도리'를 앞두고 여성 무용수들의 신체 일부를 강조해 촬영한 영상이 SNS에 잇따라 올라오면서 논란이 일고 있다.",
+      "무용수들은 무단 촬영을 피하기 위해 옷차림까지 신경 쓰는 등 대응에 나섰다.",
+      "지난 9일(현지 시간) 요미우리 신문에 따르면 오는 11일 도쿠시마시에서 개막하는 아와오도리와 관련해 여성 무용수들의 모습을 무단 촬영한 뒤 SNS에 게시하는 행위가."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6472ea04",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/10/HAYWGMRSMU4GIMJVMM4TCZLEG4/",
-    "title": "스틸 美대사, 현충원 참배…“참전용사 희생, 한미동맹의 중심”",
-    "summary": [
-      "미셸 박 스틸 주한 미국 대사가 10일 국립서울현충원을 찾아 한국전쟁 참전 용사들을 추모했다.",
-      "스틸 대사는 이날 엑스(X·옛 트위터)에 현충원에서 분향하는 사진 등을 올리며 “국립현충원에서 제이비어 브런슨 주한미군사령관과 함께 헌화하며 한국전쟁 참전 용사들의 헌신과 희생을 기릴 수 있어 영광이었다.",
-      "그 숭고한 희생은 굳건히 이어져 온 한미 동맹의 중심에 계."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n77ba0226",
+    "id": "n28aa7dbb",
     "category": "IT",
-    "source": "한국경제",
-    "time": "14분 전",
-    "url": "https://www.hankyung.com/article/202608105282i",
-    "title": "美하원의원,\"더 엄격한 對中반도체 수출제한 시행하라\"",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260810/134453755/1",
+    "title": "국방부 “2028년 중순까지 광주 군공항 임시배치 적극 추진”",
     "summary": [
-      "美하원의원,\"더 엄격한 對中반도체 수출제한 시행하라\"."
+      "국방부가 10일 “광주 군공항 임시배치로 인한 안보 및 대비태세에 미치는 영향성을 최소화 하면서, 정부의 반도체 산업 경쟁력 강화 정책에 적극 협력할 예정”이라고 밝혔다.",
+      "국방부는 이날 “2028년 중순까지 광주 군공항의 기능을 다른 군공항으로 임시배치하는 방안을 적극 검토하여 추진하겠다”며 이같이 말했다.",
+      "국방부는 또 “미군 공여지를 조속히 반환받기 위해 외교부, 국가안보실과 긴밀히 협력하여 미측과 협의해 나가겠다”고도 밝혔다."
     ],
     "chips": [
       "#반도체",
-      "#수출"
+      "#정책"
     ]
   },
   {
-    "id": "n5ec74f4b",
+    "id": "nd32f80ce",
     "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260810/134452480/1",
-    "title": "국힘 조강특위, 당협위원장 교체 논의…장동혁, 당내 장악력 커지나",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/10/MFQTGNTGGY3TIOBXHBSTQNBUGM/",
+    "title": "\"패션계 씹어먹을 것\"…이혜영, '코르티스' 마틴 향한 격한 애정 ('혜영이는 못말려')",
     "summary": [
-      "국민의힘이 각 지역 당원협의회 운영위원장(당협위원장)을 선출하기 위한 조직강화특별위원회(조강특위)를 10일 새로 구성해 가동시켰다.",
-      "이번 조강특위에선 당협위원장이 공석인 ‘사고 당협’에 대한 인선과 6·3 지방선거를 앞두고 하위 평가를 받았던 당협위원장의 교체 가 논의될 전망이다.",
-      "당내 일각에서는 장동혁 대표가 친한(친한동훈)계와 개혁그룹 등 비당권파 당협위원장을 교체해 당내 장악력을 높일 수도 있다는 관측이 나온다.국민의힘 박충권 수석대변인은."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0ff9bec2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026081020234804033",
-    "title": "팝마트, 에스파 이어 라이즈와 '팝스타 시리즈' 출시",
-    "summary": [
-      "팝마트는 K팝 그룹 '라이즈(RIIZE)'와 협업한 신규 콜라보레이션을 출시한다고 10일 밝혔다.",
-      "이번 컬렉션은 K팝 아티스트와 팝마트가 선보이는 공식 협업 라인업 '팝스타(POP STAR)'의 일환이다.",
-      "앞서 '에스파'와 협업한 데 이어 K팝 아티스트와 두 번째 협업이다."
+      "[OSEN=박근희 기자] 방송인 이혜영이 신예 아이돌 그룹 코르티스를 향한 남다른 팬심과 극찬을 아끼지 않았다.10일 오후 유튜브 채널 ‘혜영이는 못말려’에는 '패션덕후가 풀어내는 코르티스 찬양 ft.",
+      "생로랑, 락시크, Y2K, 빈티지 패션'이라는 제목의 영상이 게재됐다.",
+      "이혜영은 최근 아이돌그룹 코르티스에 푹 빠졌다고 고백해 이목을 끌었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6392e638",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "18분 전",
-    "url": "https://www.hankyung.com/article/2026081052777",
-    "title": "김상호 춘추관장 사의 표명…靑 참모진 추가 개편 여부 주목",
-    "summary": [
-      "김상호 춘추관장 사의 표명…靑 참모진 추가 개편 여부 주목."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4078eb93",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "19분 전",
-    "url": "https://view.asiae.co.kr/article/2026081020233100232",
-    "title": "스틸 주한미대사, 주한미군사령관과 현충원 참배",
-    "summary": [
-      "미셸 스틸 주한미국대사가 제이비어 브런슨 주한미군사령관과 함께 국립서울현충원을 참배하며 굳건한 한미동맹의 중요성을 강조했다.스틸 대사는 10일 자신의 엑스(X·옛 트위터)를 통해 \"국립서울현충원에서 브런슨 사령관과 함께 헌화하며 한국전쟁 참전용사들의 헌신과 희생을 기릴 수 있어 영광이었다\"고 밝혔다.",
-      "이어 \"그 숭고한 희생은 굳건히 이어져 온 동맹의 중심에 계속해서 자리하고 있다\"고 강조했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n03b135ad",
+    "id": "n1c0a0474",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260810148500054",
-    "title": "민형배 전남광주시장 \"군공항 부지 조기 활용 환영\"",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260810150000108",
+    "title": "튀르키예 사회통합 법안 추진에…PKK, 지도자 사면 요구",
     "summary": [
-      "(전남광주=연합뉴스) 장덕종 기자 = 민형배 전남광주통합특별시장은 10일 이재명 대통령이 2028년까지 광주 군공항 기능을 임시 배치하도록 한 ..."
+      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예가 쿠르드족 분리주의 무장단체인 쿠르드노동자당(PKK)의 사회 재통합 입법을 추진하는 것과 관련해..."
     ],
     "chips": [
-      "#정치"
+      "#정책"
     ]
   },
   {
-    "id": "n1145426b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260810/134451243/1",
-    "title": "“늦어도 이달안에” “특검 입회해야”…여야, 송파구 재검표 공방",
-    "summary": [
-      "여야가 서울 송파구 올림픽공원에 보관된 투표용지 247만 장에 대한 재검표 시기를 놓고 또 다시 합의에 실패했다.",
-      "더불어민주당은 여야 간 잠정 합의했던 18일이나 늦어도 이달 안에 재검표를 하자는 입장이지만, 국민의힘은 특검 출범과 연계해 특검의 입회 하에 해야 한다는 주장을 이어가며 공방을 벌였다.국회 6·3 지방선거 투표용지 부족 사태 국정조사특별위원회는 10일 3차 청문회를 열고 재검표 일정을 논의했지만 파행을 거듭했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n80e187c0",
+    "id": "n480dd3bd",
     "category": "경제",
     "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026081020105276259",
-    "title": "\"소득 상관 없이 50만원씩, 4인가족이면 200만원\"…민생지원금 지급 시작한 '이곳'",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026081021292236390",
+    "title": "유럽 덮친 폭염에 성장률 1% 날아갈 수도…경제손실 295조원",
     "summary": [
-      "경남 의령군이 전 군민을 대상으로 1인당 50만원의 민생안정지원금 지급을 시작했다.",
-      "10일 군에 따르면 이날부터 1인당 50만원의 민생안정지원금이 지급된다.",
-      "군과 의령군의회는 지난 28일 '의령군 민생안정지원금 지원 조례안'을 의결했고 지원금 지급을 위한 120억여원 규모의 추가경정예산안을 처리했다."
+      "초여름부터 유럽 전역을 덮친 폭염으로 올해 유럽연합(EU) 국내총생산(GDP)이 1% 줄어들 수 있다는 전망이 나왔다.",
+      "경제적 손실은 1800억유로(약 294조8000억원)에 달해 EU 집행위원회가 예상한 올해 경제성장률 1.1%의 대부분이 폭염으로 상쇄될 수 있다는 분석이다.10일(현지시간) 독일 주간지 슈피겔에 따르면 네덜란드 은행 트리오도스는 최근 보고서를 통해 폭염이 EU 경제에 이 같은 충격을 줄 수 있다고 경고했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n943c675b",
+    "id": "n1838033f",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026081020172686808",
-    "title": "젤렌스키 '방공지원 요청'에도…정부 \"방산물자 제공 국내법 준수\"",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260810/134449330/1",
+    "title": "‘중동판 나토’ 결성 이틀만에…후티, 홍해 사우디군 집결지 공습",
     "summary": [
-      "볼로디미르 젤렌스키 우크라이나 대통령이 북한의 추가 파병 가능성을 제기하며 한국에 방공체계 지원을 요청한 가운데 외교부는 \"방산물자 제공은 관련 국내법과 정책을 준수하는 가운데 이뤄져 왔다\"고 밝혔다.",
-      "정부가 우크라이나에 살상무기를 지원하지 않는다는 기존 입장을 재확인한 것으로 풀이된다.",
-      "외교부 당국자는 10일 젤렌스키 대통령의 방공체계 지원 요청과 관련해 \"외교채널을 통한 소통 내용에 대해 확인해줄 수 없."
+      "예멘의 친(親)이란 반군인 후티가 9일 홍해 연안의 항구도시 모카에 주둔 중인 사우디아라비아 병력을 대규모로 공습했다고 주장했다.",
+      "사우디는 2014년부터 진행 중인 예멘 내전에서 정부군을 지원하며 후티, 이란과 대립해 왔다.",
+      "특히 후티는 지난달 20일 사우디를 겨냥해 홍해의 원유 수송로 바브엘만데브 해협 일대를 봉쇄하겠다고도 선언했다."
     ],
     "chips": [
-      "#정책",
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n5a130192",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "28분 전",
-    "url": "https://www.hankyung.com/article/2026081052737",
-    "title": "'삼전닉스 성과급 터진다'…서울대생들 '우르르' 몰리는 곳",
+    "id": "nea7739d1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/10/GRSGIMZUGBQTMN3GGA3WMZTGGU/",
+    "title": "고준희, 온몸에 수억대 주얼리 휘감았다…“혜교 언니는 할인?”",
     "summary": [
-      "'삼전닉스 성과급 터진다'…서울대생들 '우르르' 몰리는 곳."
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 배우 고준희가 억 소리 나는 하이주얼리를 직접 착용하며 남다른 쇼핑 체험에 나섰다.10일 고준희의 유튜브 채널에는 ‘파리지앵 감성 황실 주얼리 쇼핑하기’라는 제목의 영상이 공개됐다.이날 고준희는 한 명품 주얼리 매장을 찾아 티아라부터 목걸이, 귀걸이, 시계 등 다양한 하이주얼리를 착용했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9d1887ed",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://view.asiae.co.kr/article/2026081021214329291",
+    "title": "다카이치 日총리, 오만 술탄과 통화…\"호르무즈 안전 항행 조속히 회복해야\"",
+    "summary": [
+      "다카이치 사나에 일본 총리가 하이삼 빈 타리크 알사이드 오만 술탄과 전화 회담을 하고 호르무즈 해협의 자유롭고 안전한 항행을 조속히 회복해야 한다고 강조했다.10일 일본 외무성에 따르면 다카이치 총리는 이날 오후 5시부터 약 20분간 하이삼 술탄과 전화 회담을 했다.",
+      "다카이치 총리는 호르무즈 해협 재개방을 위해 이란과 지속적으로 협의를 벌여온 오만의 적극적인 외교적 노력에 경의를 표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4464dc04",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260810149500082",
+    "title": "\"유럽 폭염에 올해 GDP 1％ 날아갈 수도…295조원 손실 전망\"",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 유럽 대부분 지역에 초여름부터 계속되는 폭염이 올해 유럽연합(EU) 국내총생산(GDP)을 1％ 감소시킬 수..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n265be93e",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "28분 전",
+    "url": "https://view.asiae.co.kr/article/2026081021135622258",
+    "title": "중국, 미국산 피칸에 54.3% 반덤핑 보증금",
+    "summary": [
+      "중국 정부가 미국산 피칸에 54.3%의 반덤핑 보증금을 부과하기로 했다.",
+      "다음 달 시진핑 중국 국가주석의 미국 방문과 미중 정상회담을 앞두고 양국 간 통상 신경전이 다시 고조되는 모습이다.",
+      "중국 상무부는 10일(현지시간) 미국과 멕시코산 피칸에 대한 반덤핑 조사 결과 덤핑이 존재하고 이로 인해 중국 내 피칸 산업이 실질적인 피해를 입었다는 예비 판정을 내렸다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na873b505",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "31분 전",
+    "url": "https://view.asiae.co.kr/article/2026081021105518090",
+    "title": "AI가 답하는 시대, 도서관은 무엇을 해야 하나…120개국 부산 집결",
+    "summary": [
+      "인공지능(AI)이 몇 초 만에 답을 내놓는 시대, 도서관은 무엇을 해야 할까.",
+      "세계 120여개국 도서관·정보 분야 전문가 3500여명이 부산에 모여 AI 시대 지식의 신뢰와 접근권, 도서관의 새로운 역할을 논의한다.",
+      "세계 최대 규모의 도서관·정보 분야 국제 학술회의인 '2026 부산 세계도서관정보대회(WLIC)'가 10일 부산 벡스코에서 개막했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n0041e690",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260810149400073",
+    "title": "다카이치, 오만 술탄과 통화…\"호르무즈 안전 항행 중요\"",
+    "summary": [
+      "(도쿄=연합뉴스) 이도연 특파원 = 다카이치 사나에 일본 총리가 10일 오만의 하이삼 빈 타리크 알사이드 술탄과 전화 회담을 하고 호르무즈 해협..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n408bba27",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/10/EN76AFOH75BTXLGBK3T4UJQCXM/",
+    "title": "‘하니 비자정보 유출’ 본격 수사...경찰, 고발인 측 첫 조사",
+    "summary": [
+      "‘하니 비자정보 유출’ 본격 수사...경찰, 고발인 측 첫 조사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neabe595d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260810149200089",
+    "title": "미중 정상회담 앞두고…中, 미국산 피칸에 덤핑 예비판정",
+    "summary": [
+      "(상하이=연합뉴스) 차병섭 특파원 = 중국 정부가 미국·멕시코산 피칸(견과류) 수입품에 대해 덤핑이 있다는 예비 판정을 내리고, 특히 미국산에 ..."
     ],
     "chips": [
       "#뉴스"
@@ -649,18 +644,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
