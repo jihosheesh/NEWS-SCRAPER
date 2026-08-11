@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-11 16:45:42
+// 마지막 업데이트: 2026-08-11 17:48:33
 window.NEWS_DB = [
   {
-    "id": "n2ac8365c",
+    "id": "n78fac7f0",
     "category": "IT",
-    "source": "newsis.com",
-    "time": "1시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WZXY1dDUyVjByVkF6amlHRjJHajYtM3VBUUhpS181QzFaaTRsR2kzVWlMOFpuamhRc2R4S2tpTE1Bc1FwSTYwOXN2eVBmMVo4ck04cGRTMlczQ2xGTFJnaNIBeEFVX3lxTE1QMXI1OVlZd2VjSU12ajdUSms1RjJmaHFhdC1Fb1JPUzBxR1czajM0SjlSMEVDQzBzRTEtazM0aUR1Z3RqZE1NVmJuMzR6LTUtR21kOWVKS0Z0RVJZa0FaTkxTSElEb180dzlTQkJJSlJqeDFiMWlKdQ?oc=5",
+    "source": "뉴시스",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QMXI1OVlZd2VjSU12ajdUSms1RjJmaHFhdC1Fb1JPUzBxR1czajM0SjlSMEVDQzBzRTEtazM0aUR1Z3RqZE1NVmJuMzR6LTUtR21kOWVKS0Z0RVJZa0FaTkxTSElEb180dzlTQkJJSlJqeDFiMWlKddIBeEFVX3lxTE1QMXI1OVlZd2VjSU12ajdUSms1RjJmaHFhdC1Fb1JPUzBxR1czajM0SjlSMEVDQzBzRTEtazM0aUR1Z3RqZE1NVmJuMzR6LTUtR21kOWVKS0Z0RVJZa0FaTkxTSElEb180dzlTQkJJSlJqeDFiMWlKdQ?oc=5",
     "title": "엔비디아 vs ASML…AI 반도체 시장 최종 승자는?",
     "summary": [
-      "엔비디아 vs ASML…AI 반도체 시장 최종 승자는? newsis.com."
+      "엔비디아 vs ASML…AI 반도체 시장 최종 승자는? 뉴시스."
     ],
     "chips": [
       "#AI",
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n7870acc7",
     "category": "IT",
     "source": "인사이트코리아",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jUjNtc04tWVhMR3NGU1MwYUlBYlRVY05VV3RybDVpckpHNWdja1c5SnJJRnNnMVMtN2xKV2FfVDBURVVWM2ZEbUNJVmpUa2xPZnlLOERrLTVYWEJ4RlZfU05tdUFYR05vVXNUT2lYMmVpM0HSAXdBVV95cUxPNXpBZFVRYVR3SkZUR1dwVzBHZm1QMGtZT2lFT2pUWVptLW92aUJkYW5idXhqckpkOXRqZGhGYmxTTFV1dWVwd292R2s0YWtFUFhqRjB0akxfVXNMSDA3cmZidWo2N3ZBQnFwWDRpYzFNXzNxcU80SQ?oc=5",
     "title": "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’",
     "summary": [
@@ -36,12 +36,12 @@ window.NEWS_DB = [
   {
     "id": "ndc68ab8a",
     "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "14시간 전",
+    "source": "businesspost.co.kr",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTaHZuYlVlRmo2QjNmQ3IzeXFRWXhBbGdHbklZZnYxNlFUSzEtekFsam95aW5tNlc1RjQzMWxvWUsxWndyc2Q2RGtFSXk2ZVpSX2VnUVo4WUtKeEdOTHpsak94SkZYcFRxNDV1dF80X2NYN2s?oc=5",
     "title": "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력",
     "summary": [
-      "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력 비즈니스포스트."
+      "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -53,12 +53,12 @@ window.NEWS_DB = [
   {
     "id": "n7d5686ed",
     "category": "IT",
-    "source": "포쓰저널",
-    "time": "16시간 전",
+    "source": "4th.kr",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wX3dscUFFR1lJdldxaVFpMzFJVWF2R2xnSW5LN1diRlM2TlNxbl9ySWxWMHhMU3hXdE1UaFM2SU03TXl1NWJWenIzWTJsMWZuVWw0bEoyNk1yaVJ4Y1AwQWZ4Yjg?oc=5",
     "title": "엔비디아, 700조원 'AI 금융판' 짠다",
     "summary": [
-      "엔비디아, 700조원 'AI 금융판' 짠다 포쓰저널."
+      "엔비디아, 700조원 'AI 금융판' 짠다 4th.kr."
     ],
     "chips": [
       "#AI",
@@ -128,12 +128,12 @@ window.NEWS_DB = [
   {
     "id": "n51d745e9",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vcjlBRHNjalpoUk42Uy1vSWNheWxCWlR1ZlIwd3FhaFoyaV9SNlZTN05RQ0haRXR5RUJaSWxNQXp1TWpabnFsVXZDbzlJeGJmV3NCbnBtWUx6dlpXajh5NzUyVUtqUE1qczM3RWttNWc4Ylk1NFY0Zw?oc=5",
     "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
     "summary": [
-      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
+      "KBO, 연이은 폭염에 프로야구 대책 논의 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -377,97 +377,169 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7ad076c0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003743779",
-    "title": "애 엄마 맞아?…46㎏ 손담비, 민소매에 드러난 극세사 팔뚝",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 가수 손담비가 늘씬한 몸매를 드러냈다.",
-      "지난 10일 손담비는 소셜미디어(SNS)를 통해 근황 사진을 공개했다.",
-      "사진 속 손담비는 블랙 민소매 톱에 화이트 면바지를 매치해 깔끔하고 시원한 여름 스타일을 완성했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfd5136ee",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003744032",
-    "title": "\"삼전·닉스, 일시 조정일까 추세 전환일까\"…전문가가 꼽은 5가지 변수",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 삼성전자와 SK하이닉스 주가 조정이 일시적 흐름인지 추세적 하락인지를 가를 5가지 핵심 변수가 제시됐다.",
-      "10일 유튜브 채널 '경제 읽어주는 남자'에 따르면 김광석 한양대 교수는 최근 영상에서 반도체 기업들의 실적은 여전히 역대급 호황을 이어가고 있지만 주가가 조정받는 이유는 '미래 기대의 꺾임'이라고 짚었다.",
-      "김 교수는 \"그 반도체 조정의 구체적인 이유들을 명확히 우리는 이해해야 향후 반도체 시장에 또 주식."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n3b30a094",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745262",
-    "title": "교황, 콜롬비아 서부 강진 희생자 애도 표명",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 레오 14세 교황이 11일(현지 시간) 콜롬비아 서부 강진 희생자들을 애도하며 연대를 표명했다.",
-      "교황청에 따르면 레오 14세는 이날 피에트로 파롤린 교황청 국무원장 명의로 지진 희생자를 위로하는 애도 전보를 콜롬비아 주교회의에 보냈다.",
-      "교황은 \"지진이라는 비통한 소식을 접하고 깊은 슬픔에 잠겼다\"라고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc2c6b10a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003743767",
-    "title": "“감전되면 어쩌려고”…계곡 바위에 220V 콘센트, 수중 펌프까지",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 경기도 양주의 한 계곡에서 물놀이객의 안전을 위협할 수 있는 전기 콘센트와 수중 펌프가 발견돼 논란이 일고 있다.",
-      "지난 10일 JTBC '사건반장'에 따르면 구독자 약 2만명의 유튜버 '푸드매니아'는 지난 2일 양주 장흥계곡을 찾았다가 계곡 바위에 부착된 220V 콘센트와 전기 코드 두 개를 발견했다.",
-      "콘센트에는 수중 펌프가 연결돼 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c08694c",
+    "id": "n149446a4",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/12/GFSTGYLEHFRTQM3FMMZDONJWME/",
-    "title": "'최고 156km' 단 8구로 구자욱-최형우-디아즈 잠재우다...'데뷔 첫 세이브' 이의리 \"150SV 정해영 선배 존경한다\"",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/12/MZSDKYZWGI3TEMRVGJSDAYJXGM/",
+    "title": "4경기 3홈런 12타점 폭발! 폭염도 못 막은 22억 거포, 타율 최하위에도 장타력 터진다 “그렇게 못하면 누구나 흔들려”",
     "summary": [
-      "[OSEN=광주, 이선호 기자] \"정해영 선배를 떠올렸다\".KIA 타이거즈 좌완 이의리(22)가 생애 첫 세이브를 따냈다.",
-      "11일 광주-기아 챔피언스필드에서 열린 2026 프로야구 삼성 라이온즈와의 경기에 마지막 투수로 등판해 1이닝을 1탈삼진 무피안타 무사사구 무실점으로 막고 팀의 3-1 승리를 지켰다.",
-      "데뷔 5년만에 첫 세이브였다."
+      "[OSEN=인천, 길준영 기자] 프로야구 SSG 랜더스 김재환(38)이 팀 승리를 이끄는 중요한 홈런을 날리며 좋은 타격감을 이어갔다.",
+      "김재환은 11일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 롯데 자이언츠와의 경기에 3번 지명타자로 선발출장해 4타수 2안타 1홈런 4타점 2득점으로 활약했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n673a7ce5",
+    "id": "n1a1b46e7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743996",
+    "title": "\"냉동식품 12만원어치가 다 녹았다\"…폭염에 컬리 배송 논란",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = '풀콜드체인'을 강점으로 내세워 왔던 컬리가 체면을 구겼다.",
+      "연일 계속되는 폭염 속에 컬리에서 주문한 냉동 상품이 해동된 채 배송되는 사례가 빈발해 소비자들의 원성을 사고 있다.",
+      "최근 인터넷 커뮤니티와 사회관계망서비스(SNS) 등을 중심으로 컬리에서 수령한 냉동 상품의 상태에 불만을 제기하는 게시글이 잇달아 올라오고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83cb235a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003745263",
+    "title": "이란 신임 안보수장 \"美 태도 바꾸지 않으면 호르무즈 재개방 없어\"",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 이란은 11일(현지 시간) 호르무즈 해협 재개방에는 미국의 태도 변화가 필요하다는 입장을 밝혔다.",
+      "반관영 타스님 통신에 따르면 모흐센 레자이 이란 최고국가안보회의(SNSC) 사무총장은 이날 주이란 중국 대사를 만난 자리에서 이같이 말했다.",
+      "레자이 사무총장은 \"호르무즈 해협은 미국이 태도를 바꾸고 이란의 조건을 수용할 때까지 개방되지 않을 것\"이라고 경고했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne58a0602",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812001500072",
+    "title": "미국 가계대출 소폭 개선…총액 줄고 연체율 4.7%로 하락",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 가계대출 잔액과 연체 상황이 2분기 들어 소폭 개선된 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50645812",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003745264",
+    "title": "러시아, 30대 미국인 4년만 석방…트럼프 \"푸틴과 논의 결과\"(종합)",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 러시아가 폭행 등 혐의로 구금 중이던 30대 미국인 로버트 길먼을 11일(현지 시간) 석방했다.",
+      "길먼은 미 해군 예비역으로, 폭행 등 혐의로 러시아에 구금됐다가 건강이 크게 악화되자 정부간 협의를 거쳐 인도적 차원에서 석방됐다.",
+      "AP통신에 따르면 억류자 석방 비영리단체 '글로벌 리치' 최고전략책임자(CSO)인 에릭 레브슨은 이날 길먼이 석방돼 미 텍사스에 있는 미군 병원으로 이동 중이라고 발표했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd1ee8790",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811162852079",
+    "title": "선박 공격 수위 높이는 후티…'호르무즈 우회' 홍해 항로 위태(종합2보)",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친(親)이란 반군 후티가 홍해 입구의 바브엘만데브 해협에서 선박 공격 수위를 높이면서, 봉쇄된 호르..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc94d3dc7",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/12/GI2DMNTGHBSGKZRXGE4WCNTBG4/",
-    "title": "\"알바레즈 같았다!\" 이정후 대극찬, 타격 '8관왕' 괴물과 비교되다니…그런데 왜 감독은 아쉬운 소리했나",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/12/GFRTOZRUMZTGIY3BGM4GENBSMM/",
+    "title": "'롯데 선수단 긴급 미팅' 혼돈의 수비 → 7실점 와르르, 너무 오래 쉬었나",
     "summary": [
-      "[OSEN=이상학 객원기자] 이정후(27·샌프란시스코 자이언츠)가 현존 메이저리그 최고 타자 요르단 알바레즈(29·휴스턴 애스트로스)에 비견될 만큼 인상적인 홈런을 날렸다.",
-      "이정후는 지난 11일(이하 한국시간) 미국 캘리포니아주 샌프란시스코 오라클파크에서 치러진 2026 메이저리그 휴스턴과의 홈경기에 1번 타자 우익수로 선발 출장, 시즌 9호 홈런 포함 5."
+      "[인천=스포츠조선 나유리 기자]너무 오래 쉬었나.",
+      "하필 수비 실책성 플레이들이 나오면서 '에이스'를 도와주지 못했다.",
+      "롯데 자이언츠가 폭염 브레이크 이후 첫 경기에서 대패를 했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n9dfba2f6",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "37분 전",
+    "url": "https://view.asiae.co.kr/article/2026081202102366718",
+    "title": "이란의 새 협상카드 '호르무즈'…美 정보당국 \"무력 장악, 승리 장담 못해\"",
+    "summary": [
+      "이란이 핵 프로그램보다 호르무즈 해협 통제에 전략적 우선순위를 두고 있다고 미군 정보당국이 판단하는 것으로 전해졌다.",
+      "미군이 무력으로 해협 장악에 나서더라도 상당한 인명 피해를 감수해야 하는 데다 승리도 장담하기 어렵다는 분석이다.",
+      "이란은 이 같은 군사적 부담을 지렛대로 삼아 미국의 제재 해제와 동결 자금 반환 등을 해협 개방의 조건으로 내걸며 압박 수위를 높이고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9be1c26b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003744964",
+    "title": "\"독일어 못하면 수영 금지\"…獨 수영장 '인종차별' 논란",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 독일의 한 수영장에서 인명구조원이 이용객들에게 독일어 사용을 요구하면서 인종차별 논란이 불거졌다.",
+      "10일(현지 시간) 영국 데일리메일은 독일 동부 할레에 위치한 호숫가 수영장 '하이데바트'의 인명구조원 마티아스 노벨이 독일어를 구사하지 못하는 사람들의 호수 이용을 금지했다고 보도했다.",
+      "노벨은 지난 6월 한 어린아이가 호수의 수심 13m 구역까지 들어갔다가 익사할뻔한 사고가 발생해 구조했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n305136e4",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812001200071",
+    "title": "前 미 무역부대표 \"한미, 하나의 문제 말고 큰 그림 집중해야\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 한미 자유무역협정(FTA) 협상을 이끌었던 웬디 커틀러 전 미국 무역대표부(USTR) 부대표가 한미 간의 ..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n5e52bf84",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/12/MZQTAMBSGE3TGMZSMY2DKZBWMU/",
+    "title": "\"서울 왕궁보다 더 큰 오프사이드였는데!\" 이강인 울린 韓 심판 오심, 스페인 매체도 황당...\"모두가 봤는데 판정 안 바뀌었다\"",
+    "summary": [
+      "[OSEN=고성환 기자] 아무리 친선경기였다지만, 너무나 명백한 오프사이드였다.",
+      "스페인 매체가 이강인(25)의 데뷔전을 선보인 아틀레티코 마드리드가 한국 주심의 오심에 당했다고 꼬집었다.",
+      "아틀레티코는 지난 9일(이하 한국시간) 서울월드컵경기장에서 열린 맨체스터 시티와 2026 쿠팡플레이 시리즈 친선경기에서 1-3으로 역전패했다."
     ],
     "chips": [
       "#뉴스"
@@ -477,7 +549,7 @@ window.NEWS_DB = [
     "id": "n34a7ccd6",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260812001000098",
     "title": "라인강 극한 가뭄에 두손 든 독일 기업…일부 제품 불가항력 선언",
     "summary": [
@@ -488,67 +560,38 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n37b18b65",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/12/MU3TGYZYGE3DAYTCMIZDSNRZGM/",
-    "title": "박준순 홈런도 대단했지만…김원형 감독이 주목한 이 장면 \"김대한, 박지훈 나란히 안타 치면서 찬스\" [오!쎈 잠실]",
+    "id": "nc0dce710",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081150471",
+    "title": "삼성전자 8000억 풀자 난리 났다…뜻밖의 '대박' 터진 곳",
     "summary": [
-      "[OSEN=잠실, 조은혜 기자] 두산 베어스가 폭염 브레이크 후 첫 경기에서 한화 이글스를 잡으며 기분 좋은 4연승을 내달렸다.김원형 감독이 이끄는 두산은 11일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 한화와의 홈경기에서 6-3 승리를 거뒀다.",
-      "이날 승리로 4연승을 질주한 두산은 시즌 전적 53승45패4무를 만들었다.선발 곽빈은 시즌 10승."
+      "삼성전자 8000억 풀자 난리 났다…뜻밖의 '대박' 터진 곳."
     ],
     "chips": [
-      "#KBO"
+      "#삼성전자"
     ]
   },
   {
-    "id": "n914337b5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812000900108",
-    "title": "팔 자치수반 아바스 튀르키예행…에르도안과 회담 예정",
+    "id": "nf68b0acd",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608125379i",
+    "title": "반도체와 컴퓨팅도 대출 담보로…월가의 실험 VS 도박[박신영의 개장전 요것만]",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 마무드 아바스 팔레스타인 자치정부(PA) 수반이 11일(현지시간) 튀르키예를 방문했다."
+      "반도체와 컴퓨팅도 대출 담보로…월가의 실험 VS 도박[박신영의 개장전 요것만]."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0c2874cc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812000700099",
-    "title": "리비아 서부 정유공장서 드론 공격에 대형 화재",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 북아프리카 리비아 서부에서 잇단 드론 공격으로 정유공장에 대형 화재가 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne6660924",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812001100079",
-    "title": "이란 새 안보수장 \"전쟁 끝내고 동결자금 풀어야 호르무즈 개방\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 혁명수비대 사령관 출신으로 최근 이란 최고국가안보회의(SNSC)의 수장인 사무총장 자리에 오른 모흐센 레자..."
-    ],
-    "chips": [
-      "#뉴스"
+      "#반도체"
     ]
   },
   {
     "id": "n3725c291",
     "category": "경제",
     "source": "아시아경제",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026081123122210004",
     "title": "임성재, 페덱스컵 랭킹을 올려라…\"최종전까지 가겠다\"",
     "summary": [
@@ -564,7 +607,7 @@ window.NEWS_DB = [
     "id": "n1c2ccae8",
     "category": "IT",
     "source": "동아일보",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/K-TECH Global Leaders/article/all/20260812/134461723/1",
     "title": "삼성SDI, 美 GM과 합작 종료… 차세대 각형 배터리 공동개발협약 체결",
     "summary": [
@@ -576,25 +619,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncbf15f99",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "56분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/08/12/YJAZ2KAKLZA33JJKXFAXW7HI4I/",
-    "title": "2028 총선·2030 대선… ‘정치 시계’에 맞물린 호남반도체",
-    "summary": [
-      "2028 총선·2030 대선… ‘정치 시계’에 맞물린 호남반도체."
-    ],
-    "chips": [
-      "#반도체",
-      "#정치"
-    ]
-  },
-  {
     "id": "n0c185155",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "59분 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260812000300072",
     "title": "미 7월 주택거래 감소…대출금리 상승 영향",
     "summary": [
@@ -602,37 +630,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
-    ]
-  },
-  {
-    "id": "n506921f5",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608125376i",
-    "title": "\"엔비디아,최고수준의 오픈소스모델 겨냥한 AI모델 개발중\"",
-    "summary": [
-      "\"엔비디아,최고수준의 오픈소스모델 겨냥한 AI모델 개발중\"."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nfcbe410d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260812/134461691/1",
-    "title": "차인표 “살아보니 ‘키팅’ 말이 맞아…연극 더 일찍 할걸 후회해”",
-    "summary": [
-      "“나이가 들수록 새로운 것에 도전할 때 오히려 더 불안하고 부끄러움을 느낄 수 있죠.",
-      "그럼에도 새로운 것을 했을 때 얻는 기쁨이 굉장히 크더라고요.” 배우 차인표(59)가 뒤늦게 연극 무대에 뛰어든 이유다.",
-      "차인표는 11일 서울 종로구 NOL 씨어터 대학로에서 열린 기자간담회에서 “나이가 들고 또 소설을 쓰면서 굳이 한 가지에 안주할 필요는 없다고 느꼈다”며 “연극 역시 하나의 틀에서 벗어나 새로운 영역으로 가는 것이라 생각해 도전하는 용기를."
-    ],
-    "chips": [
-      "#교육"
     ]
   }
 ];
@@ -648,14 +645,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
