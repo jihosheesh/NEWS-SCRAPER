@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-11 11:37:04
+// 마지막 업데이트: 2026-08-11 12:39:43
 window.NEWS_DB = [
   {
     "id": "ndc68ab8a",
     "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "source": "businesspost.co.kr",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTaHZuYlVlRmo2QjNmQ3IzeXFRWXhBbGdHbklZZnYxNlFUSzEtekFsam95aW5tNlc1RjQzMWxvWUsxWndyc2Q2RGtFSXk2ZVpSX2VnUVo4WUtKeEdOTHpsak94SkZYcFRxNDV1dF80X2NYN2s?oc=5",
     "title": "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력",
     "summary": [
-      "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력 비즈니스포스트."
+      "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "n41e728be",
     "category": "IT",
     "source": "디지털투데이",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUFZkU2dzOVF0TXNXR0pLUnUwdnRKUUtNZDBvdkhDNTNuMVdtTHowNHpzZDVuWC1lYTVkWHpJeE9rQzJRVUtXSnVPdktkTE9TZVViN0F5LUhRTGVrNnkxeVB2aFZrQWg5SllZbExseTkxOEE?oc=5",
     "title": "中 최상위 AI도 여전히 엔비디아에 종속…자국 칩 전환 늦어지는 이유는",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nc5f664d4",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzY1WndWZEcyd1ZUWWxzeGExbGlFVVdhYy0yNUlSOGd6OHVCQVl5X2M2YUNwU0NKTHhQbHJoSThXR2pLWWFiT2N5Q3NVdGtGc3lxaDFlejdlVVd0S21fNGpLMzh1dENXemxVdlMtSzlQWHlqdkRaaHdkbktQdDRZc01sdWdBV3Bk?oc=5",
     "title": "\"국산 칩으로 바꾸면 개발비 50% 폭증\"… 中 AI 개발사, 여전히 엔비디아 칩으로 훈련",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n757759c6",
     "category": "IT",
     "source": "블록체인투데이",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
     "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
     "summary": [
@@ -66,12 +66,12 @@ window.NEWS_DB = [
   {
     "id": "n3485421d",
     "category": "IT",
-    "source": "sedaily.com",
+    "source": "서울경제",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUWl0VGozOC1JdmkxejBSMVZlWUcxNmZfRzNDTjNMNkgzcDNzV3Q4dGd1V3JNakRUbWxnQ09pVkhIX041NkFxdXRxVGJqaUFmOUHSAVNBVV95cUxQX0Jjbl9aYzUwcjYyZ0hiTWh0aXVJN054Y241QWRuTUswS0NwaWJNUDBFUzl6MnVHZmVFamFUOC1MMGVRMWRsYS03bUNoeGt4TkQySQ?oc=5",
     "title": "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨",
     "summary": [
-      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 sedaily.com."
+      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 서울경제."
     ],
     "chips": [
       "#반도체"
@@ -80,7 +80,7 @@ window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
-    "source": "Vietnam.vn",
+    "source": "vietnam.vn",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
@@ -95,12 +95,12 @@ window.NEWS_DB = [
   {
     "id": "nee123c1c",
     "category": "사회",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQWFtVWtrb3VLTDRqUnZGZHJWRFhJOUFTNkNqX3JIODZoOWdCbE5Zb2tlOEJ0dkloeGIwd1hZdmtpSEp2dFdBOUUzczJJaXk3NURLWmxoNktCUdIBWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG0?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
-      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 ajunews.com."
+      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 아주경제."
     ],
     "chips": [
       "#AI",
@@ -139,30 +139,16 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n8ba4b4fa",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lNHJLZzhEdGREMDBvNktGLTdtQ1A4ZEFZaTVDYnA1clN0OE40Nm9hQkE0T0RaeGJfZHdXV3lJNFdrNWhEN08wZEFuRHRQU3pDYktvQ0w1dnNFemcwMnhIMWZMMm9TOXPSAWxBVV95cUxQaV8tWDFiNGs5QUE2WERwaE5JRmRjbDMta2twQlYtcXlhTF9GYTVRNHlTeDdzUGhGa0V6MkhrcDY2QlgtUXlCdWVDUXVVQ25FSkh1ek1OU1U4OXBBbkJMdkdtLUZOQ0EtZkhjSVA?oc=5",
-    "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이",
-    "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -226,12 +212,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "ytn.co.kr",
+    "source": "YTN",
     "time": "62일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
       "#금리",
@@ -268,14 +254,28 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n37646dcf",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "75일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "summary": [
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "91일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -376,258 +376,255 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9a5dd137",
+    "id": "nb8e6ef94",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026081120233335816",
-    "title": "김건희 측 \"정신과 약 복용해 기억 안 난다는데…특검, 같은 질문 반복\"",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745206",
+    "title": "물놀이객 노는 계곡 바위에 220V 콘센트…감전 사고 우려 '아찔'",
     "summary": [
-      "김건희 여사 측 법률대리인인 유정화 변호사가 김 여사가 정신과 약을 먹어 기억이 잘 나지 않는다고 호소했음에도 특검이 같은 질문을 반복했다고 주장했다.11일 유정화 변호사는 자신의 사회관계망서비스(SNS)에 전날 김 여사가 증인으로 출석한 서울중앙지법 형사합의22부(재판장 조형우 부장판사) 심리 김기현 국민의힘 의원 부부 청탁금지법 위반 사건 공판 상황을 올렸다.",
-      "앞서 김 여사는 267만원 상당의 명품 가방을 받고도."
+      "[서울=뉴시스]이기주 인턴 기자 = 경기 양주시 장흥계곡의 한 식당 주변에 설치된 220V 콘센트가 계곡 이용객들의 감전 사고로 이어질 수 있다는 주장이 제기됐다.",
+      "계곡물을 폭포처럼 연출하기 위해 수중 펌프를 사용하면서 전기를 공급하는 콘센트가 물과 가까운 바위에 설치돼 있었다는 것이다.",
+      "지난 9일 유튜브에 공개된 영상을 보면 제보자는 장흥계곡 현장을 확인하는 과정에서 계곡 바위에 220V 콘센트가 고정돼 있고 전기 코드가 연결된 모습을 촬영했."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n90b9e2a7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745181",
-    "title": "젤렌스키 \"러, 북한으로부터 점점 더 많은 지원 받아\"",
+    "id": "nae789c8d",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811166900505",
+    "title": "[부고] 송윤주(에너지경제신문 건설부동산부 기자)씨 외조모상",
     "summary": [
-      "[키이우(우크라이나)=AP/뉴시스] 유세진 기자 = 러시아의 미사일, 드론, 활공 폭탄 공격으로 최소 9명의 우크라이나 민간인들이 사망했다고 관리들이 밝힌 가운데 볼로디미르 젤렌스키 우크라이나 대통령은 11일 러시아가 북한으로부터 점점 더 많은 군사 지원을 받고 있다고 경고했다.",
-      "젤렌스키 대통령은 밤사이 우크라이나 남동부 도시 자포리자에 대한 북한제 탄도미사일 공격으로 6명이 사망하고 19명이 부상했다면서, 북한은 러시아에 탄도미사일을 추가로."
+      "[부고] 송윤주(에너지경제신문 건설부동산부 기자)씨 외조모상."
     ],
     "chips": [
-      "#정치"
+      "#부동산"
     ]
   },
   {
-    "id": "n176029ae",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745179",
-    "title": "\"늙은 말이 머리 푹 숙이고 땅만 바라봐\"…양양 마차 동물학대 논란",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 강원 양양에서 관광객을 태운 마차를 끄는 말들의 모습이 공개되면서 동물학대 논란이 일고 있다.",
-      "한여름 무더위 속에서 늦은 시간까지 마차를 끄는 말들의 모습에 우려가 이어지는 가운데 말의 특성을 고려해야 한다는 반론도 나왔다.",
-      "11일 한 누리꾼은 양양으로 휴가를 왔다가 마차를 끄는 말들을 목격했다며 사진과 함께 글을 올렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd60245f0",
+    "id": "n1e87eafa",
     "category": "부동산",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745187",
-    "title": "이 대통령, '불법 증축 논란' 김상호 靑 춘추관장 면직안 재가",
-    "summary": [
-      "[서울=뉴시스]김경록 기자 = 이재명 대통령이 '불법 증축 논란'이 제기된 김상호 청와대 춘추관장(보도지원비서관)의 면직안을 11일 재가했다.",
-      "청와대에 따르면, 김 관장은 이날 오후 이 대통령 재가에 따라 최종 면직 처분됐다.",
-      "일신상의 이유로 사의를 표명해온 김 관장은 일주일 전인 지난 4일 사직서를 제출했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n40921183",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745189",
-    "title": "중랑천서 80대 여성 물에 빠져…심정지 상태 이송",
-    "summary": [
-      "[서울=뉴시스]신유림 기자 = 서울 동대문구 중랑천에서 80대 여성이 물에 빠진 채 발견돼 심정지 상태로 병원에 이송됐다.",
-      "11일 소방 당국에 따르면 이날 오후 4시30분께 서울 동대문구 중랑천 장평교 인근에서 80대 여성 A씨가 물에 빠졌다는 신고가 접수됐다.",
-      "신고를 받고 출동한 소방 당국은 A씨를 구조한 뒤 심정지 상태로 인근 병원에 이송했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n76091b60",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260811/134457301/1",
-    "title": "보이스피싱 등 ‘검경’ 합동수사, ‘공중경’ 기구로 재편될듯",
-    "summary": [
-      "수사권과 기소권을 분리하는 형사사법 체계 개편이 10월 2일부터 시행되면서 특정 현안이나 사건에 대응하기 위해 꾸려졌던 정부 합동수사기구도 운영 방식이 달라지게 된다.",
-      "검찰과 경찰이 함께 참여했던 ‘검경’ 합동수사기구 대신 공소청이나 중대범죄수사청(중수청) 등이 참여하는 이른바 ‘공중경’ 기구가 출범할 것으로 보인다.",
-      "다만 개정안을 두고 정부 부처 간 이견이 표출되면서 보완 입법이 필요하다는 지적도 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncc02204e",
-    "category": "사회",
-    "source": "아시아경제",
     "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026081120072906647",
-    "title": "60대 중소기업 전 임원, 20대 지적장애 여성 성폭행해 출산까지",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745208",
+    "title": "\"불길 치솟더니 '쿵' 소리\"…불 피하려던 모자 추락해 숨진 듯(종합2보)",
     "summary": [
-      "경찰이 20대 지적장애 여직원 A씨를 여러 차례 성폭행해 출산하게 한 혐의를 받는 60대 중소기업 전 임원 B씨에 대한 사전 구속영장을 신청했다.",
-      "11일 인천경찰청 여성청소년범죄수사계는 성폭력범죄의 처벌 등에 관한 특례법상 장애인 준강간 혐의로 이 남성에 대한 사전 구속영장을 신청했다고 밝혔다.",
-      "사전 구속영장은 긴급 체포나 체포 영장에 의해 신병을 확보하지 않은 상태인 피의자를 상대로 청구한다."
+      "[서울=뉴시스]신유림 기자 = 서울 강서구 가양동의 한 아파트에서 불이 나 60대 어머니와 30대 아들이 숨졌다.",
+      "이들은 불을 피하려다 아파트 아래로 추락해 숨진 것으로 추정된다.",
+      "11일 소방 당국 등에 따르면 이날 오후 4시55분께 서울 강서구 가양동의 한 아파트 15층 세대에서 원인을 알 수 없는 불이 났다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n4d9e8b7b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811157051009",
+    "title": "시진핑, 콜롬비아 강진 위로 전문…\"깊은 애도\"(종합)",
+    "summary": [
+      "(서울=연합뉴스) 권숙희 기자 = 시진핑 중국 국가주석이 최근 강진이 발생한 콜롬비아에 위로를 전했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7f7f4362",
+    "id": "ncaf829df",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811164600007",
-    "title": "LG 카라스코, 퍼펙트 행진 10이닝에서 끝…서건창에게 내야안타",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/11/MY4TOYLFMFRWCODEGBQWEMZRG4/",
+    "title": "'10이닝 퍼펙트' 깨졌지만...'ML 112승' LG 외인, KBO 첫 승이 보인다. 6이닝 QS",
     "summary": [
-      "(서울=연합뉴스) 천병혁 기자 = 프로야구 LG 트윈스의 외국인 투수 카를로스 카라스코(39)의 퍼펙트 행진이 중단됐다."
+      "[OSEN=고척, 한용섭 기자] 프로야구 LG 트윈스 외국인 투수 카라스코(39)가 10이닝 연속 퍼펙트 행진은 깨졌지만, 승리 투수 요건을 챙겼다.",
+      "카라스코는 11일 서울 고척 스카이돔에서 열린 키움 히어로즈와 경기에 선발투수로 등판, 6이닝 5피안타 1사구 5탈삼진 2실점을 기록했다.",
+      "4-2로 앞선 7회 불펜에 공을 넘겼다.카라스코는 지난 1일 두산전에."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nb137de49",
-    "category": "경제",
+    "id": "nd619a7fc",
+    "category": "IT",
     "source": "한국경제",
     "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026081152867",
-    "title": "서울 중랑천서 80대 여성 물에 빠져…심정지 상태",
+    "url": "https://www.hankyung.com/article/202608115293i",
+    "title": "AI랠리 주춤하는 동안 유럽 주식과 채권 호황",
     "summary": [
-      "서울 중랑천서 80대 여성 물에 빠져…심정지 상태."
+      "AI랠리 주춤하는 동안 유럽 주식과 채권 호황."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "nf1b91a80",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/11/G5QWKNZZMI4WEYRQGRTDMNRSG4/",
-    "title": "\"김서현 복귀? 다들 알잖아\" 천하의 김경문도 조심스럽다, 한화 '젊은피' 보강 시점은 언제일까 [잠실포커스]",
-    "summary": [
-      "[잠실=스포츠조선 김영록 기자] \"온다면 정우주나 김서현인데, 다들 알다시피…\" 일본 연수가 무너진 김서현에게 '날개'가 될 수 있을까.",
-      "아직까진 눈에 띄는 반전은 없다.",
-      "11일 잠실구장에서 만난 김경문 한화 이글스 감독은 폭염 휴식기 종료 후 재개되는 정규시즌 불펜 변화에 대해 '아직은 때가 아니다'라는 입장을 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41a751f3",
+    "id": "n774a4ebe",
     "category": "사회",
     "source": "조선일보",
     "time": "12분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/11/GE3TIMRSGUYGMMBZHBSTANJRGE/",
-    "title": "李 대통령, 카자흐 피싱 조직원 검거에 “끝까지 추적해 심판”",
+    "url": "https://www.chosun.com/opinion/manmulsang/2026/08/11/USDVIHGTQJAIJC2OUVS3YCVYCM/",
+    "title": "[만물상] ‘職보다 집’이 옳았다",
     "summary": [
-      "이재명 대통령은 11일 동남아에서 카자흐스탄으로 거점을 옮겨 보이스피싱 범죄를 저지른 한국인 스캠 조직원들이 검거된 데 대해 “어디에 숨어있든 끝까지 추적해 반드시 법의 심판을 받게 하겠다”고 했다.",
-      "이 대통령은 이날 엑스(X·옛 트위터)에 올린 글에서 “캄보디아, 베트남을 거쳐 카자흐스탄으로 잠입해 우리 국민을 상대로 보이스피싱 범죄를 벌이던 한국인 조직."
+      "[만물상] ‘職보다 집’이 옳았다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n099f9770",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "13분 전",
-    "url": "https://www.hankyung.com/article/202608115237i",
-    "title": "SK하이닉스,키옥시아 최대 주주로 부상",
-    "summary": [
-      "SK하이닉스,키옥시아 최대 주주로 부상."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nfa1e1988",
+    "id": "n9d1f0edb",
     "category": "사회",
-    "source": "아시아경제",
+    "source": "뉴시스",
     "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026081108420355401",
-    "title": "공정위 세종 내 '세 지붕 한 가족' 초읽기, 지방사무소도 추가 임차…예비비 90억원 투입",
+    "url": "https://www.newsis.com/view/NISX20260811_0003744422",
+    "title": "[속보] 평택 위험물 저장 창고 화재 21시간여 만에 완진",
     "summary": [
-      "공정거래위원회가 세종 본부와 지방사무소가 잇따라 청사 외곽 공간을 추가 임차하면서 발생한 비용을 예비비로 충당한다.",
-      "공정위는 '10.1 직제시행에 따른 임차료 증액안'이 국무회의에서 의결됐다고 11일 밝혔다.",
-      "올해 1분기 167명을 증원한 데 이어 오는 10월 1일 자로 237명 규모의 2차 조직 개편이 다가오면서 이를 뒷받침하기 위한 지원이다."
+      "[평택=뉴시스] 양효원 기자 = ◎공감언론 뉴시스 hyo@newsis.com."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbda2a28f",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026081120223728425",
-    "title": "주병기 \"온플법으로 대금 안정·투명성 보장\"…하반기 입법 추진 예고",
-    "summary": [
-      "주병기 공정거래위원장은 \"시장 경제가 효율적으로 작동하려면 평평한 운동장에서 공정한 경쟁이 이뤄져야 하고, 협상력의 균형이 맞춰져야 한다\"며 \"현재 우리나라의 경제적 제재 수준은 너무 약한 만큼, 선진국 수준으로 제재를 표준화해 법 위반에 대한 실질적 억지력을 확보하겠다\"고 밝혔다.주 위원장은 11일 MBC 라디오 '조승원의 뉴스하이킥'에 출연해 대기업의 시장력 남용 엄단과 소상공인·중소기업의 협상력 제고를 골자."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2ac10867",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "14분 전",
-    "url": "https://www.hankyung.com/article/2026081152827",
-    "title": "사망 164명·실종 188명…콜롬비아 강진에 '생지옥'",
-    "summary": [
-      "사망 164명·실종 188명…콜롬비아 강진에 '생지옥'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6f5d72e8",
+    "id": "nd735a382",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811163800073",
-    "title": "\"하루 3시간 이내 수면\" 다카이치 여름휴가도 생략",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811166500079",
+    "title": "레바논, 사형제 공식 폐지…중동 국가 중 최초",
     "summary": [
-      "(도쿄=연합뉴스) 조성미 특파원 = 다카이치 사나에 일본 총리가 역대 총리들이 해외 순방이나 여름 휴가로 사용해 온 국회 폐회 기간 별도의 휴가..."
+      "(카이로=연합뉴스) 김상훈 특파원 = 레바논이 중동 국가 최초로 사형제를 전면 폐지했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n927b3f39",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260811/134461120/1",
+    "title": "두산 곽빈, 6이닝 10K 무실점에도…불펜 방화로 시즌 10승 불발",
+    "summary": [
+      "프로야구 두산 베어스 에이스 곽빈이 눈부신 투구를 펼치고도 불펜진의 난조로 결국 시즌 10승 고지를 밟지 못했다.곽빈은 11일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 한화 이글스와의 홈 경기에 선발 등판해 6이닝 2피안타 1볼넷 10탈삼진 무실점으로 호투했다.1회초 곽빈은 이원석을 루킹 삼진으로 돌려세운 뒤 요나단 페라자에게 볼넷을 내줬다.",
+      "이후 문현빈과 강백호를 연달아 삼진으로 처리하며 아웃카운트 3개를 채웠다.곽빈은 2회초 노시."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8166eef4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/11/GQ3TOZBWGRSGIMRRGQ3TEODEGA/",
+    "title": "\"더이상 시간이 많지않다\" 폭염 브레이크 끝난 잠실, '기세등등' 김원형 감독 표정이 갑자기 어두워진 이유 [잠실포커스]",
+    "summary": [
+      "[잠실=-스포츠조선 김영록 기자] 평균자책점 1,2위(곽빈 최민석)을 모두 보유하고 있다.",
+      "김민석 박준순 등 젊은 타자들의 기세도 남다르다.",
+      "순위는 '아직' 4위지만, 후반기 43경기를 남겨둔 두산 베어스의 기세는 하늘을 찌른다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na68f95bd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811165500004",
+    "title": "논현역 도로 한복판서 '음주운전 쿨쿨'…경찰에 붙잡혀",
+    "summary": [
+      "(서울=연합뉴스) 정지수 기자 = 교통이 혼잡한 퇴근 시간대 서울 논현역 도로 한복판에서 술에 취해 차를 몰다 잠든 운전자가 경찰에 붙잡혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4938ad96",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/2026081153027",
+    "title": "\"유럽 하늘에 태양 사라진다\"…오는 12일, 27년 만에 개기일식",
+    "summary": [
+      "\"유럽 하늘에 태양 사라진다\"…오는 12일, 27년 만에 개기일식."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndae5c833",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260811/134460991/1",
+    "title": "李대통령, 콜롬비아 강진에 “희생된 모든 분들의 명복 빌어”",
+    "summary": [
+      "이재명 대통령은 11일 콜롬비아 강진과 관련 “희생되신 모든 분들의 명복을 빕니다”라고 밝혔다.이 대통령은 이날 X를 통해 “갑작스러운 재난으로 소중한 가족과 이웃을 잃으신 분들께 깊은 위로의 마음을 전한다”며 이같이 말했다.앞서 CNN 등은 콜롬비아 서부 초코주(州) 일대에서 규모 7.4의 강진이 발생해 최소 132명이 숨지고 570명이 부상을 입었다고 보도했다.",
+      "이에 이 대통령은 “콜롬비아 북서부 초코주에서 강진이 발생해 큰 피해가 이어지고."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n090679dd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/08/11/FCAILT3IP5HFRNACXQTX77EPX4/",
-    "title": "野 “정책이 시장 이기겠나”... 김윤덕 국토부장관 “네”",
+    "id": "n86c452cd",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745195",
+    "title": "퍼펙트는 깨졌지만 첫 승 요건 충족…LG 카라스코, 키움전 6이닝 2실점",
     "summary": [
-      "野 “정책이 시장 이기겠나”... 김윤덕 국토부장관 “네”."
+      "[서울=뉴시스]문채현 기자 = 프로야구 LG 트윈스의 새 외인 카를로스 카라스코의 퍼펙트 행진이 키움 히어로즈 타선에 가로막혔다.",
+      "카라스코는 11일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 키움 히어로즈와의 원정 경기에 선발 등판해 6이닝 5피안타 2실점을 기록했다.",
+      "이날 6회까지 공 85개를 던진 그는 볼넷 없이 몸에 맞는 볼 1개를 내주고 삼진은 5개를 잡아냈다."
     ],
     "chips": [
-      "#정책"
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n589f569c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260811/134460992/1",
+    "title": "‘지방 이전 소문에’ 3대 국책은행 노조 뭉쳤다…2500명 여의도서 선제적 반대 집회",
+    "summary": [
+      "3대 국책은행(한국산업은행, 기업은행, 한국수출입은행) 노동조합이 11일 저녁 7시 서울 여의도 산업은행 본점 옆 의사당대로에서 국책은행 지방 이전을 반대하는 결의대회를 열었다.",
+      "정부가 올해 하반기 공공기관 이전 계획을 발표할 것이란 전망이 나오는 가운데 노조가 선제적으로 집회를 연 것이다.",
+      "현재 국책은행 지방 이전 여부는 결정되지 않은 상황이다.이날 집회에 참석한 한 노조원은 “국책은행이 제대로 된 기능을 수행하기 위해서는 숙련된 전문 인력과."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n96f1e89b",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811165100002",
+    "title": "3대 국책은행 노조, 대규모 집회…\"지방 졸속이전 결사반대\"",
+    "summary": [
+      "(서울=연합뉴스) 김지연 기자 = 2차 공공기관 지방 이전 대상으로 거론되는 3대 국책은행의 노동조합원들이 11일 공동으로 대규모 집회를 하고 ..."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -643,14 +640,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
