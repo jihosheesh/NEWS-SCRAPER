@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-11 10:41:13
+// 마지막 업데이트: 2026-08-11 11:37:04
 window.NEWS_DB = [
   {
     "id": "ndc68ab8a",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTaHZuYlVlRmo2QjNmQ3IzeXFRWXhBbGdHbklZZnYxNlFUSzEtekFsam95aW5tNlc1RjQzMWxvWUsxWndyc2Q2RGtFSXk2ZVpSX2VnUVo4WUtKeEdOTHpsak94SkZYcFRxNDV1dF80X2NYN2s?oc=5",
     "title": "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "n41e728be",
     "category": "IT",
     "source": "디지털투데이",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUFZkU2dzOVF0TXNXR0pLUnUwdnRKUUtNZDBvdkhDNTNuMVdtTHowNHpzZDVuWC1lYTVkWHpJeE9rQzJRVUtXSnVPdktkTE9TZVViN0F5LUhRTGVrNnkxeVB2aFZrQWg5SllZbExseTkxOEE?oc=5",
     "title": "中 최상위 AI도 여전히 엔비디아에 종속…자국 칩 전환 늦어지는 이유는",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nc5f664d4",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzY1WndWZEcyd1ZUWWxzeGExbGlFVVdhYy0yNUlSOGd6OHVCQVl5X2M2YUNwU0NKTHhQbHJoSThXR2pLWWFiT2N5Q3NVdGtGc3lxaDFlejdlVVd0S21fNGpLMzh1dENXemxVdlMtSzlQWHlqdkRaaHdkbktQdDRZc01sdWdBV3Bk?oc=5",
     "title": "\"국산 칩으로 바꾸면 개발비 50% 폭증\"… 中 AI 개발사, 여전히 엔비디아 칩으로 훈련",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n757759c6",
     "category": "IT",
     "source": "블록체인투데이",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
     "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
     "summary": [
@@ -66,12 +66,12 @@ window.NEWS_DB = [
   {
     "id": "n3485421d",
     "category": "IT",
-    "source": "서울경제",
+    "source": "sedaily.com",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUWl0VGozOC1JdmkxejBSMVZlWUcxNmZfRzNDTjNMNkgzcDNzV3Q4dGd1V3JNakRUbWxnQ09pVkhIX041NkFxdXRxVGJqaUFmOUHSAVNBVV95cUxQX0Jjbl9aYzUwcjYyZ0hiTWh0aXVJN054Y241QWRuTUswS0NwaWJNUDBFUzl6MnVHZmVFamFUOC1MMGVRMWRsYS03bUNoeGt4TkQySQ?oc=5",
     "title": "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨",
     "summary": [
-      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 서울경제."
+      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 sedaily.com."
     ],
     "chips": [
       "#반도체"
@@ -95,12 +95,12 @@ window.NEWS_DB = [
   {
     "id": "nee123c1c",
     "category": "사회",
-    "source": "아주경제",
+    "source": "ajunews.com",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQWFtVWtrb3VLTDRqUnZGZHJWRFhJOUFTNkNqX3JIODZoOWdCbE5Zb2tlOEJ0dkloeGIwd1hZdmtpSEp2dFdBOUUzczJJaXk3NURLWmxoNktCUdIBWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG0?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
-      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 아주경제."
+      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 ajunews.com."
     ],
     "chips": [
       "#AI",
@@ -139,12 +139,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
     ],
     "chips": [
       "#취업",
@@ -226,12 +226,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "62일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -270,12 +270,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "biz.heraldcorp.com",
+    "source": "헤럴드경제",
     "time": "91일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
@@ -308,6 +308,23 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n49cf6598",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154215",
+    "title": "\"GPU 사놓고 못 쓰는 것도 비용\"...오라클, 데이터 있는 곳에서 AI 실행한다",
+    "summary": [
+      "오라클이 'OCI 액셀러론'을 공개했다.",
+      "기업의 AI 활용 과정에서 데이터 이동으로 발생하는 병목과 지연 문제를 줄이기 위한 차세대 아키텍처다.",
+      "이전 세대의 격리·보안 원칙을 계승하면서 AI 환경에 맞춰 기술을 고도화했다."
+    ],
+    "chips": [
+      "#AI",
+      "#환경"
     ]
   },
   {
@@ -359,275 +376,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4ce182e7",
-    "category": "IT",
-    "source": "테크M",
+    "id": "n9a5dd137",
+    "category": "사회",
+    "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154210",
-    "title": "삼성전자 \"폴더블폰·게임 모니터 기술력 직접 확인하세요\"",
+    "url": "https://view.asiae.co.kr/article/2026081120233335816",
+    "title": "김건희 측 \"정신과 약 복용해 기억 안 난다는데…특검, 같은 질문 반복\"",
     "summary": [
-      "삼성전자가 전시를 통해 고객 확대에 나섰다.",
-      "7년 동안 축적한 폴더블(접는)폰 기술력을 한 자리에서 확인할 수 있는 기회를 만들었다.",
-      "게임 축제에 참가해 모니터 등 삼성전자의 게임 설루션을 소개하는 자리도 마련했다.11일 삼성전자는 폴더블폰과 게임 고객 접점을 늘린다고 밝혔다.삼성전자는 이날 서울 강남구 삼성 강남에 '폴더블 해리티지'를 개설했다."
+      "김건희 여사 측 법률대리인인 유정화 변호사가 김 여사가 정신과 약을 먹어 기억이 잘 나지 않는다고 호소했음에도 특검이 같은 질문을 반복했다고 주장했다.11일 유정화 변호사는 자신의 사회관계망서비스(SNS)에 전날 김 여사가 증인으로 출석한 서울중앙지법 형사합의22부(재판장 조형우 부장판사) 심리 김기현 국민의힘 의원 부부 청탁금지법 위반 사건 공판 상황을 올렸다.",
+      "앞서 김 여사는 267만원 상당의 명품 가방을 받고도."
     ],
     "chips": [
-      "#삼성전자"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb0564b60",
+    "id": "n90b9e2a7",
     "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745161",
-    "title": "이 대통령 \"韓 국민 해치는 범죄엔 한 치 예외 없어…끝까지 추적해 심판\"",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745181",
+    "title": "젤렌스키 \"러, 북한으로부터 점점 더 많은 지원 받아\"",
     "summary": [
-      "[서울=뉴시스]김경록 기자 = 이재명 대통령은 11일 \"대한민국 국민의 안전과 평온한 일상을 해치는 범죄에는 한 치의 예외도 두지 않을 것\"이라며 \"어디에 숨어 있든 끝까지 추적해 반드시 법의 심판을 받게 하겠다\"고 밝혔다.",
-      "이 대통령은 이날 오후 X(옛 트위터)에 \"캄보디아, 베트남을 거쳐 카자흐스탄으로 잠입해 우리 국민을 상대로 보이스피싱 범죄를 벌이던 한국인 조직원들이 현지에서 검거된 지 2주 만에 전원 국내로 송환돼 경찰 수사를 받고 있."
+      "[키이우(우크라이나)=AP/뉴시스] 유세진 기자 = 러시아의 미사일, 드론, 활공 폭탄 공격으로 최소 9명의 우크라이나 민간인들이 사망했다고 관리들이 밝힌 가운데 볼로디미르 젤렌스키 우크라이나 대통령은 11일 러시아가 북한으로부터 점점 더 많은 군사 지원을 받고 있다고 경고했다.",
+      "젤렌스키 대통령은 밤사이 우크라이나 남동부 도시 자포리자에 대한 북한제 탄도미사일 공격으로 6명이 사망하고 19명이 부상했다면서, 북한은 러시아에 탄도미사일을 추가로."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n7f5620a5",
+    "id": "n176029ae",
     "category": "사회",
-    "source": "아시아경제",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026081119383867591",
-    "title": "안민석 경기교육감, 만주·연해주서 ‘역사교육 대전환’ 구상",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745179",
+    "title": "\"늙은 말이 머리 푹 숙이고 땅만 바라봐\"…양양 마차 동물학대 논란",
     "summary": [
-      "안민석 경기도교육감이 제81주년 광복절을 맞아 교원 대표단과 함께 만주·연해주 지역의 교육독립운동가 유적지를 찾았다.",
-      "독립운동가들이 교육을 통해 이루고자 했던 뜻을 되새기고 경기 역사교육의 새로운 방향을 모색하기 위해서다.",
-      "경기도교육청은 안 교육감과 교원단체·역사교육지원단 대표 등으로 구성된 탐방단이 11일부터 15일까지 4박 5일 일정으로 만주와 연해주 일대의 독립운동 유적지를 탐방한다고 밝혔다."
+      "[서울=뉴시스]이기주 인턴 기자 = 강원 양양에서 관광객을 태운 마차를 끄는 말들의 모습이 공개되면서 동물학대 논란이 일고 있다.",
+      "한여름 무더위 속에서 늦은 시간까지 마차를 끄는 말들의 모습에 우려가 이어지는 가운데 말의 특성을 고려해야 한다는 반론도 나왔다.",
+      "11일 한 누리꾼은 양양으로 휴가를 왔다가 마차를 끄는 말들을 목격했다며 사진과 함께 글을 올렸다."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n05a98d55",
-    "category": "사회",
-    "source": "아시아경제",
+    "id": "nd60245f0",
+    "category": "부동산",
+    "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026081118421974345",
-    "title": "\"구더기·바퀴벌레 나온 그릇 재사용 지시\" 공항 노동자 폭로한 美 기내식",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745187",
+    "title": "이 대통령, '불법 증축 논란' 김상호 靑 춘추관장 면직안 재가",
     "summary": [
-      "미국 로스앤젤레스 국제공항(LAX) 인근의 한 기내식 업체 플라잉 푸드 그룹 시설 노동자들이 산업안전보건국에 작업장 위생과 안전 문제를 신고했다.10일(현지시간) 미 CNN에 따르면 플라잉 푸드 그룹 노동조합은 직원들을 대신해 시설에서 구더기와 바퀴벌레, 곰팡이 등이 발견됐다며 사진과 영상, 증언 등을 당국에 제출하고 현장 조사를 요구했다.",
-      "문제가 된 것은 지난 6월 말 기내식용 식기 카트였다."
+      "[서울=뉴시스]김경록 기자 = 이재명 대통령이 '불법 증축 논란'이 제기된 김상호 청와대 춘추관장(보도지원비서관)의 면직안을 11일 재가했다.",
+      "청와대에 따르면, 김 관장은 이날 오후 이 대통령 재가에 따라 최종 면직 처분됐다.",
+      "일신상의 이유로 사의를 표명해온 김 관장은 일주일 전인 지난 4일 사직서를 제출했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n40921183",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745189",
+    "title": "중랑천서 80대 여성 물에 빠져…심정지 상태 이송",
+    "summary": [
+      "[서울=뉴시스]신유림 기자 = 서울 동대문구 중랑천에서 80대 여성이 물에 빠진 채 발견돼 심정지 상태로 병원에 이송됐다.",
+      "11일 소방 당국에 따르면 이날 오후 4시30분께 서울 동대문구 중랑천 장평교 인근에서 80대 여성 A씨가 물에 빠졌다는 신고가 접수됐다.",
+      "신고를 받고 출동한 소방 당국은 A씨를 구조한 뒤 심정지 상태로 인근 병원에 이송했다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n42f72a2b",
+    "id": "n76091b60",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745140",
-    "title": "대만 밀입국 中남성 2명, 6일 만에 붙잡혀…\"경보 없어\" 지적도",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260811/134457301/1",
+    "title": "보이스피싱 등 ‘검경’ 합동수사, ‘공중경’ 기구로 재편될듯",
     "summary": [
-      "[베이징=뉴시스]박정규 특파원 = 최근 중국 남성 2명이 고무보트를 타고 대만에 밀입국했다가 6일 만에 검거됐다고 대만 연합보가 11일 보도했다.",
-      "보도에 따르면 대만 해순서는 최근 고무보트를 타고 타이베이항을 통해 불법 입국한 것으로 보이는 중국 남성 2명을 검거했다고 이날 밝혔다.",
-      "이들의 흔적을 발견해 신고했다고 밝힌 네티즌은 지난달 24일께 해당 고무보트를 발견했고 이튿날 중국산 기름통과 간체자가 쓰인 물품, 낚싯대, 구명조끼 등이 있는 고."
+      "수사권과 기소권을 분리하는 형사사법 체계 개편이 10월 2일부터 시행되면서 특정 현안이나 사건에 대응하기 위해 꾸려졌던 정부 합동수사기구도 운영 방식이 달라지게 된다.",
+      "검찰과 경찰이 함께 참여했던 ‘검경’ 합동수사기구 대신 공소청이나 중대범죄수사청(중수청) 등이 참여하는 이른바 ‘공중경’ 기구가 출범할 것으로 보인다.",
+      "다만 개정안을 두고 정부 부처 간 이견이 표출되면서 보완 입법이 필요하다는 지적도 나온다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nad084e34",
+    "id": "ncc02204e",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026081120072906647",
+    "title": "60대 중소기업 전 임원, 20대 지적장애 여성 성폭행해 출산까지",
+    "summary": [
+      "경찰이 20대 지적장애 여직원 A씨를 여러 차례 성폭행해 출산하게 한 혐의를 받는 60대 중소기업 전 임원 B씨에 대한 사전 구속영장을 신청했다.",
+      "11일 인천경찰청 여성청소년범죄수사계는 성폭력범죄의 처벌 등에 관한 특례법상 장애인 준강간 혐의로 이 남성에 대한 사전 구속영장을 신청했다고 밝혔다.",
+      "사전 구속영장은 긴급 체포나 체포 영장에 의해 신병을 확보하지 않은 상태인 피의자를 상대로 청구한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f7f4362",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811164600007",
+    "title": "LG 카라스코, 퍼펙트 행진 10이닝에서 끝…서건창에게 내야안타",
+    "summary": [
+      "(서울=연합뉴스) 천병혁 기자 = 프로야구 LG 트윈스의 외국인 투수 카를로스 카라스코(39)의 퍼펙트 행진이 중단됐다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb137de49",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "10분 전",
+    "url": "https://www.hankyung.com/article/2026081152867",
+    "title": "서울 중랑천서 80대 여성 물에 빠져…심정지 상태",
+    "summary": [
+      "서울 중랑천서 80대 여성 물에 빠져…심정지 상태."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1b91a80",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/11/GIYTQYZQMMYDQNTBGA3TANJVG4/",
-    "title": "'곽빈·안우진→카라스코' 에이스 총출동인데, 한화는 왜 왕옌청? 김경문 감독이 직접 밝힌 이유 [잠실포커스]",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/11/G5QWKNZZMI4WEYRQGRTDMNRSG4/",
+    "title": "\"김서현 복귀? 다들 알잖아\" 천하의 김경문도 조심스럽다, 한화 '젊은피' 보강 시점은 언제일까 [잠실포커스]",
     "summary": [
-      "[잠실=스포츠조선 김영록 기자] \"다승 1위니까, 최대한 맞춰주려고 노력중이다.\" 시즌 개막전과도, 후반기 개막전과도 분위기가 다르다.",
-      "말 그대로 승부처, 10개 구단 에이스가 총출동했다.",
-      "두산 베어스 곽빈과 한화 이글스 왕옌청이 맞붙는다."
+      "[잠실=스포츠조선 김영록 기자] \"온다면 정우주나 김서현인데, 다들 알다시피…\" 일본 연수가 무너진 김서현에게 '날개'가 될 수 있을까.",
+      "아직까진 눈에 띄는 반전은 없다.",
+      "11일 잠실구장에서 만난 김경문 한화 이글스 감독은 폭염 휴식기 종료 후 재개되는 정규시즌 불펜 변화에 대해 '아직은 때가 아니다'라는 입장을 전했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n541a212c",
+    "id": "n41a751f3",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745158",
-    "title": "추미애 \"개혁할 확고한 민주당 지도부 필요\"…호남 정신 강조",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/08/11/GE3TIMRSGUYGMMBZHBSTANJRGE/",
+    "title": "李 대통령, 카자흐 피싱 조직원 검거에 “끝까지 추적해 심판”",
     "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 추미애 더불어민주당 의원이 검찰개혁을 비롯한 개혁과제의 신속한 추진을 촉구하며 당 지도부를 향해 쓴소리를 냈다.",
-      "특히 \"검찰개혁은 그저 하나의 개혁이 아니다\"라며 개혁 의지와 실행력을 가늠하는 기준이라고 강조했다.",
-      "추 의원은 11일 자신의 페이스북에 올린 글에서 \"개혁은 아무나 할 수 있는 일이 아니다\"라며 \"욕 먹을 각오하고 정치적으로 손해 볼 각오하고 단단히 마음먹지 않으면 할 수가 없다\"고 밝혔다."
+      "이재명 대통령은 11일 동남아에서 카자흐스탄으로 거점을 옮겨 보이스피싱 범죄를 저지른 한국인 스캠 조직원들이 검거된 데 대해 “어디에 숨어있든 끝까지 추적해 반드시 법의 심판을 받게 하겠다”고 했다.",
+      "이 대통령은 이날 엑스(X·옛 트위터)에 올린 글에서 “캄보디아, 베트남을 거쳐 카자흐스탄으로 잠입해 우리 국민을 상대로 보이스피싱 범죄를 벌이던 한국인 조직."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n5ecc57c0",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811161400007",
-    "title": "'육서영 17점' 한국 여자배구, 동아시아선수권 첫판서 몽골 완파",
+    "id": "n099f9770",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "13분 전",
+    "url": "https://www.hankyung.com/article/202608115237i",
+    "title": "SK하이닉스,키옥시아 최대 주주로 부상",
     "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 차상현 감독이 이끄는 한국 여자배구 대표팀(세계랭킹 29위)이 2026 동아시아 여자배구선수권대회 첫판에서 완..."
+      "SK하이닉스,키옥시아 최대 주주로 부상."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nfa1e1988",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026081108420355401",
+    "title": "공정위 세종 내 '세 지붕 한 가족' 초읽기, 지방사무소도 추가 임차…예비비 90억원 투입",
+    "summary": [
+      "공정거래위원회가 세종 본부와 지방사무소가 잇따라 청사 외곽 공간을 추가 임차하면서 발생한 비용을 예비비로 충당한다.",
+      "공정위는 '10.1 직제시행에 따른 임차료 증액안'이 국무회의에서 의결됐다고 11일 밝혔다.",
+      "올해 1분기 167명을 증원한 데 이어 오는 10월 1일 자로 237명 규모의 2차 조직 개편이 다가오면서 이를 뒷받침하기 위한 지원이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n39305773",
+    "id": "nbda2a28f",
     "category": "경제",
     "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026081119284060811",
-    "title": "펄어비스, 붉은사막 흥행에 2분기 영업익 7389% ↑…\"올해 중 DLC 출시\"",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026081120223728425",
+    "title": "주병기 \"온플법으로 대금 안정·투명성 보장\"…하반기 입법 추진 예고",
     "summary": [
-      "펄어비스가 지난 3월 출시한 신작 '붉은사막' 흥행에 힘입어 2분기 실적이 대폭 반등했다.",
-      "펄어비스는 올해 2분기 연결기준 영업이익이 676억원으로 전년 동기 대비 7389% 증가한 것으로 잠정 집계됐다고 11일 공시했다.",
-      "같은 기간 매출은 1926억원으로 248% 증가했고, 순이익은 995억원으로 흑자 전환했다."
+      "주병기 공정거래위원장은 \"시장 경제가 효율적으로 작동하려면 평평한 운동장에서 공정한 경쟁이 이뤄져야 하고, 협상력의 균형이 맞춰져야 한다\"며 \"현재 우리나라의 경제적 제재 수준은 너무 약한 만큼, 선진국 수준으로 제재를 표준화해 법 위반에 대한 실질적 억지력을 확보하겠다\"고 밝혔다.주 위원장은 11일 MBC 라디오 '조승원의 뉴스하이킥'에 출연해 대기업의 시장력 남용 엄단과 소상공인·중소기업의 협상력 제고를 골자."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4b12da85",
+    "id": "n2ac10867",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/2026081152827",
+    "title": "사망 164명·실종 188명…콜롬비아 강진에 '생지옥'",
+    "summary": [
+      "사망 164명·실종 188명…콜롬비아 강진에 '생지옥'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6f5d72e8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811163800073",
+    "title": "\"하루 3시간 이내 수면\" 다카이치 여름휴가도 생략",
+    "summary": [
+      "(도쿄=연합뉴스) 조성미 특파원 = 다카이치 사나에 일본 총리가 역대 총리들이 해외 순방이나 여름 휴가로 사용해 온 국회 폐회 기간 별도의 휴가..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n090679dd",
     "category": "사회",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/GIYWGMDEG5STOYZSMUYTGZBUHA/",
-    "title": "고소영, 드디어 40kg 대 몸무게 진입..10년 만에 명품 원피스 입었다 “3~4kg 빠져”",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 고소영이 40kg 몸무게에 진입했다.11일 채널 ‘고소영’에는 ‘결혼 전 장동건과 광고계 라이벌이었던 고소영의 35년 CF 역사’라는 영상이 게재됐다.고소영은 10년 만에 디올 원피스를 꺼내 입었다고 말하며 늘씬한 몸매를 자랑했다.",
-      "블랙 원피스에 구두를 신은 고소영은 우아한 분위기를 발산했다.고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n32c1ae03",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745154",
-    "title": "안성서 20대 몰던 승용차 중앙선 넘어 덤프트럭 충돌…3명 사망",
-    "summary": [
-      "[안성=뉴시스] 양효원 기자 = 경기 안성시에서 20대가 몰던 차량이 중앙선을 침범, 마주오던 덤프트럭을 들이받아 3명이 숨졌다.",
-      "11일 안성경찰서 등에 따르면 이날 오전 4시50분께 안성시 삼죽면 동아방송예술대 인근 국도에서 승용차와 덤프트럭이 정면 충돌하는 사고가 났다.",
-      "사고는 A(20대)씨가 몰던 승용차가 중앙선을 침범, 마주오던 덤프드럭과 충돌한 것으로 전해졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba7fbaa8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811161300004",
-    "title": "법원, 회생신청 놀부 대표자 심문…\"인건비·원가 올라 힘들어\"",
-    "summary": [
-      "(서울=연합뉴스) 이승연 기자 = 법원이 회생을 신청한 외식업체 놀부에 대한 회생 개시 여부를 결정하기 위한 심리에 들어갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1bfe3c25",
-    "category": "경제",
-    "source": "아시아경제",
     "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026081119222553298",
-    "title": "강원랜드 사장 후보에 김도균 전 수방사령관…정관 변경안도 의결",
+    "url": "https://www.chosun.com/politics/assembly/2026/08/11/FCAILT3IP5HFRNACXQTX77EPX4/",
+    "title": "野 “정책이 시장 이기겠나”... 김윤덕 국토부장관 “네”",
     "summary": [
-      "강원랜드(사장 직무대행 남한규)는 11일 강원랜드 그랜드호텔에서 제234차 이사회를 열고 정관 일부 변경안과 이사 선임 계획안을 의결했다고 밝혔다.",
-      "이사회는 이날 의결한 안건을 오는 26일 하이원팰리스호텔에서 열리는 제34차 임시주주총회에 상정하기로 했다.",
-      "정관 변경안에는 개정 상법을 반영해 전자주주총회를 도입하고 자기주식 규제를 강화하는 내용이 담겼다."
+      "野 “정책이 시장 이기겠나”... 김윤덕 국토부장관 “네”."
     ],
     "chips": [
       "#정책"
-    ]
-  },
-  {
-    "id": "n134341cd",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "19분 전",
-    "url": "https://www.hankyung.com/article/2026081151707",
-    "title": "편의점 많은 동네일수록 고혈압 유병률 높아…\"즉석식품·술·담배 영향\"",
-    "summary": [
-      "편의점 많은 동네일수록 고혈압 유병률 높아…\"즉석식품·술·담배 영향\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n130a2686",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811161000099",
-    "title": "남아공 폐광 무너져 14명 사망…무단 채굴 또 참사",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 남아프리카공화국 북부 노스웨스트주 루스텐버그 인근의 한 폐광에서 갱도가 무너져 채굴꾼 14명이 숨지고..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb60f5600",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/202608115213i",
-    "title": "국토교통부 장관은 피곤해...하품하는 김윤덕 장관",
-    "summary": [
-      "국토교통부 장관은 피곤해...하품하는 김윤덕 장관."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n11268751",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811160400054",
-    "title": "전남광주시 공무원, 외주 없이 AI 프로그램 개발 눈길",
-    "summary": [
-      "(전남광주=연합뉴스) 장덕종 기자 = 전남광주통합특별시 공무원들이 외부 용역 없이 직접 인공지능(AI) 프로그램을 개발해 눈길을 끈다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n53bc900b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/GFSDSMBQMFSGGMRXHE3DKZRQHA/",
-    "title": "설현, 살 더 빠졌나? 축구장 밝힌 원조 ‘청량 미모’... “쁘이”",
-    "summary": [
-      "[OSEN=김수형 기자]가수 겸 배우 설현이 축구장에서 청량한 매력을 뽐냈다.설현은 11일 자신의 채널에 파란색 하트 이모티콘과 함께 “쁘이”라는 짧은 글을 남기고 여러 장의 사진을 공개했다.사진 속 설현은 푸른색 축구 유니폼을 입고 경기장을 찾은 모습이다.",
-      "두 팔을 활짝 벌린 채 환하게 웃는가 하면, 카메라를 향해 해맑은 미소를 지으며 경기 관람의 설렘을."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -637,8 +637,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
