@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-11 18:45:17
+// 마지막 업데이트: 2026-08-11 19:54:10
 window.NEWS_DB = [
+  {
+    "id": "n2ac8365c",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WZXY1dDUyVjByVkF6amlHRjJHajYtM3VBUUhpS181QzFaaTRsR2kzVWlMOFpuamhRc2R4S2tpTE1Bc1FwSTYwOXN2eVBmMVo4ck04cGRTMlczQ2xGTFJnaNIBeEFVX3lxTE1QMXI1OVlZd2VjSU12ajdUSms1RjJmaHFhdC1Fb1JPUzBxR1czajM0SjlSMEVDQzBzRTEtazM0aUR1Z3RqZE1NVmJuMzR6LTUtR21kOWVKS0Z0RVJZa0FaTkxTSElEb180dzlTQkJJSlJqeDFiMWlKdQ?oc=5",
+    "title": "엔비디아 vs ASML…AI 반도체 시장 최종 승자는?",
+    "summary": [
+      "엔비디아 vs ASML…AI 반도체 시장 최종 승자는? 뉴시스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n0d23d8d3",
     "category": "IT",
     "source": "인사이트코리아",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81ekFkVVFhVHdKRlRHV3BXMEdmbVAwa1lPaUVPalRZWm0tb3ZpQmRhbmJ1eGpySmQ5dGpkaEZibFNMVXV1ZXB3b3ZHazRha0VQWGpGMHRqTF9Vc0xIMDdyZmJ1ajY3dkFCcXBYNGljMU1fM3FxTzRJ0gF3QVVfeXFMTzV6QWRVUWFUd0pGVEdXcFcwR2ZtUDBrWU9pRU9qVFlabS1vdmlCZGFuYnV4anJKZDl0amRoRmJsU0xVdXVlcHdvdkdrNGFrRVBYakYwdGpMX1VzTEgwN3JmYnVqNjd2QUJxcFg0aWMxTV8zcXFPNEk?oc=5",
     "title": "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’",
     "summary": [
@@ -21,7 +37,7 @@ window.NEWS_DB = [
     "id": "ndc68ab8a",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTaHZuYlVlRmo2QjNmQ3IzeXFRWXhBbGdHbklZZnYxNlFUSzEtekFsam95aW5tNlc1RjQzMWxvWUsxWndyc2Q2RGtFSXk2ZVpSX2VnUVo4WUtKeEdOTHpsak94SkZYcFRxNDV1dF80X2NYN2s?oc=5",
     "title": "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력",
     "summary": [
@@ -37,27 +53,12 @@ window.NEWS_DB = [
   {
     "id": "n7d5686ed",
     "category": "IT",
-    "source": "4th.kr",
-    "time": "18시간 전",
+    "source": "포쓰저널",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wX3dscUFFR1lJdldxaVFpMzFJVWF2R2xnSW5LN1diRlM2TlNxbl9ySWxWMHhMU3hXdE1UaFM2SU03TXl1NWJWenIzWTJsMWZuVWw0bEoyNk1yaVJ4Y1AwQWZ4Yjg?oc=5",
     "title": "엔비디아, 700조원 'AI 금융판' 짠다",
     "summary": [
-      "엔비디아, 700조원 'AI 금융판' 짠다 4th.kr."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nc5f664d4",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "21시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzY1WndWZEcyd1ZUWWxzeGExbGlFVVdhYy0yNUlSOGd6OHVCQVl5X2M2YUNwU0NKTHhQbHJoSThXR2pLWWFiT2N5Q3NVdGtGc3lxaDFlejdlVVd0S21fNGpLMzh1dENXemxVdlMtSzlQWHlqdkRaaHdkbktQdDRZc01sdWdBV3Bk?oc=5",
-    "title": "\"국산 칩으로 바꾸면 개발비 50% 폭증\"… 中 AI 개발사, 여전히 엔비디아 칩으로 훈련",
-    "summary": [
-      "\"국산 칩으로 바꾸면 개발비 50% 폭증\"… 中 AI 개발사, 여전히 엔비디아 칩으로 훈련 글로벌이코노믹."
+      "엔비디아, 700조원 'AI 금융판' 짠다 포쓰저널."
     ],
     "chips": [
       "#AI",
@@ -256,12 +257,12 @@ window.NEWS_DB = [
   {
     "id": "n37646dcf",
     "category": "IT",
-    "source": "unicornfactory.co.kr",
+    "source": "유니콘팩토리",
     "time": "75일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 unicornfactory.co.kr."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -328,10 +329,195 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n12a60977",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/12/MZSTOMRUMJTGKYJQMZRTMOBTMQ/",
+    "title": "‘도박 추락’ 안지만 KBO 최다 홀드 기록 사라졌다...‘LG 헌신맨’ 41세 베테랑 178홀드, \"간절하게 포기하지 않으니 이런 기회도\"",
+    "summary": [
+      "[OSEN=고척, 한용섭 기자] 프로야구 LG 트윈스의 베테랑 투수 김진성(41)이 드디어 KBO 통산 최다 홀드 신기록을 달성했다.",
+      "김진성은 11일 서울 고척 스카이돔에서 열린 키움 히어로즈와 경기에서 4-2로 앞선 7회 선발 카라스코에 이어 마운드에 올랐다.김진성은 첫 타자 김건희를 포수 파울플라이로 아웃을 잡았다.",
+      "이어 임병욱과 승부에서 파울 5개를."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "na4bf32c8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812003400071",
+    "title": "러에 4년반 구금된 30대 美남성 풀려나…트럼프 \"석방 감사\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 러시아에 4년 넘게 억류돼 있던 미국 남성 로버트 길먼(32)이 풀려났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad86784d",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812003700091",
+    "title": "오픈AI, IPO앞 또다시 임원 줄퇴사…윤리책임자 이어 前COO도",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 기업공개(IPO)를 앞둔 오픈AI에서 고위 임원들의 연쇄 이탈이 또 이어지고 있다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nc301b1d3",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812004000072",
+    "title": "브렌트 1.4% 상승…중재국發 '미·이란 합의근접' 소식에도 상승",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란이 호르무즈 해협 통항을 둘러싸고 '모종의 합의'에 근접했다는 소식에도 불구하고 11일(현지시간)..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc411da7f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260812/134459967/2",
+    "title": "경상국립대 ‘우주항공-방산’ 2900억 국책사업 도전",
+    "summary": [
+      "경상국립대는 경남도와 함께 교육부가 추진하는 ‘2026년 국립대학육성사업 거점국립대 패키지 지원대학’ 추진계획서를 제출했다고 11일 밝혔다.",
+      "이 사업은 전국 거점국립대 9곳 중 3곳을 선정해 올해부터 2030년까지 5년간 단과대학, 인공지능 거점대학 등을 패키지로 지원하는 방식으로 추진된다.",
+      "정부가 국정과제로 추진하고 있는 ‘서울대 10개 만들기’의 실천 단계다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "neacd870f",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260812/134459887/2",
+    "title": "[인천판/게시판]인천 外",
+    "summary": [
+      "〈모집〉 인천 □AI 교육=초등학교 3∼5학년생 대상 ‘AI로 만나는 미래의 나’ 참가자 15명.",
+      "12일 오전 10시∼낮 12시 단봉늘봄도서관.",
+      "□그림책 교실=6, 7세 대상 ‘모여라! 여름 책 놀이터―선인장 만들기’ 참가자 10명."
+    ],
+    "chips": [
+      "#AI",
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nf060f34b",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260812/134461528/2",
+    "title": "李 “세금 바꾸면 욕먹어… 반론 수용하는게 바람직”",
+    "summary": [
+      "이재명 대통령은 11일 “세금 만지는 사람은 바꾸면 반드시 욕을 먹게 돼 있다”며 “반론이 있으면 그 반론을 받아들이는 게 바람직하다”고 밝혔다.",
+      "정부가 3일 발표한 부동산 세제 개편안이 비거주 1주택자의 세 부담을 증가시키고 전월세 부족 현상을 심화시킨다는 비판 여론이 커지자 수정 필요성을 언급한 것으로 풀이된다.",
+      "이 대통령은 이날 정부세종청사에서 국무회의를 주재하면서 “입법예고안은 정부의 생각인데, 당연히 반론이 있으면 그 반론을 받아들이는."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfc1af065",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260812/134461520/2",
+    "title": "콜롬비아 규모 7.4 강진… 최소 213명 숨져",
+    "summary": [
+      "10일(현지 시간) 남미 콜롬비아의 3대 도시 칼리의 주요 건물이 강진으로 대거 무너져 내렸다.",
+      "CNN에 따르면 이날 인근 산호세델팔마르에서 규모 7.4의 강진이 발생해 최소 213명이 숨졌고, 949명이 부상을 입었다.",
+      "이번 지진으로 1500채 이상의 건물이 파손됐고 수많은 이들이 매몰돼 사상자는 더 늘어날 것으로 보인다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n416c8964",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745045",
+    "title": "[오늘의 주요일정]제주(8월12일 수요일)",
+    "summary": [
+      "[제주=뉴시스] ▲오전 7시30분, 제17회 세계자연유산거문오름 트레킹행사 기원제, 거문오름 일대 ▲오전 10시, 학부모 아카데미 학부모교육, 경제통상진흥원 대회의실 ▲오전 10시, 을지연습 통합방위협의회, 제주도청 삼다홀 ▲오전 10시, 제주 해양레저 스포츠 페스티벌, 이호테우해수욕장 일원 ▲오전 10시30분, 제주생명평화대행진 개최 알림 기자회견, 제주도의회 도민카페 ▲오후 2시, 탑동 도시재생혁신지구(국가시범지구) 계획(안) 주민 공청회,."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n52801448",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812004100079",
+    "title": "후티 반군 매체 \"홍해서 사우디 군수물자 수송선 공격\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 홍해 입구인 바브엘만데브 해협에서 사우디 선박을 공격했다고 후티가 운영하는 사바..."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "ne2f5b95e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003744641",
+    "title": "\"도비 무덤 건드리지 마\"…英 8200억 전력망 노선 바꾼 해리포터 팬들",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 해리포터 속 캐릭터 도비를 기리는 추모 장소를 지키기 위해 팬들이 항의하면서 영국과 아일랜드를 잇는 수천억원 규모의 전력망 사업 노선이 변경됐다 지난 9일(현지 시간) 영국 BBC는 해리포터 시리즈 팬들이 4억3000만 파운드(약 8228억원) 규모의 전력망 사업 노선을 변경하기 위해 항의했다고 보도했다.",
+      "팬들은 캐릭터 '도비'를 기리는 추모 장소가 훼손될 수 있다며 우려를 표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n57d206d8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/12/MMYTMODDHFQTMN3DGMYTKZRUGY/",
+    "title": "‘일본은 EPL 선수 무려 9명인데’ 한국인 프리미어리거 전멸…韓日 격차 처참하게 벌어졌다",
+    "summary": [
+      "[OSEN=서정환 기자] ‘EPL 선수’ 일본은 9명인데 한국은 0명이다.",
+      "2026-27시즌 프리미어리그가 오는 8월 22일 챔피언 아스날 대 승격팀 코번트리 시티의 대결로 막을 올린다.",
+      "세계최고의 리그에 한국선수는 이제 아무도 찾아볼 수 없다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
     "id": "nbccc0b2c",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "47분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154212",
     "title": "[카드뉴스] 18년 된 게임이 22조원 IP로.. '크로스파이어'는 어떻게 세계적인 게임이 되었을까?",
     "summary": [
@@ -344,90 +530,57 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n17272d61",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/12/2026081203312035481",
-    "title": "홍경민, '해금 초엘리트' 아내 스펙 자랑…결혼 후 서울대 졸업까지",
+    "id": "nc8bf87b3",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "54분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003745260",
+    "title": "헬스장 예약 맡겼더니…AI가 대기 1번 회원 멋대로 빼버렸다",
     "summary": [
-      "홍경민이 10살 연하 아내 김유나의 초엘리트 스펙을 자랑했다.",
-      "해금 연주자인 아내 김유나는 국악중·고와 한국예술종합학교 학·석사를 거쳐 결혼 후 서울대학교 음악박사 학위까지 취득해 놀라움을 안겼다.",
-      "11일 방영된 SBS '동상이몽2-너는 내 운명' 451회에서는 가수 홍경민과 해금 연주자 김유나 부부가 출연했다."
+      "[서울=뉴시스]박영환 기자 = 호주에서 개인용 인공지능(AI) 에이전트가 이용자의 지시를 벗어나 실제 헬스장 예약시스템에 명령을 보내 다른 회원의 수업 대기 신청을 취소하는 일이 벌어졌다.",
+      "호주 ABC뉴스는 10일(현지시간) 이같이 전하며 이번 사건이 AI 에이전트가 자율적으로 벌인 사이버 공격으로는 호주에서 처음 알려진 사례라고 보도했다.",
+      "ABC뉴스에 따르면 AI 이용자인 앤드루는 AI 관련 기업에서 일하는 남성이다."
     ],
     "chips": [
-      "#교육"
+      "#AI"
     ]
   },
   {
-    "id": "n8f4a0a04",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/12/2026081114551334863",
-    "title": "'없는 줄도 몰랐다' ML 출신 대체 외인, 계약 조기 종료 가능성... KBO 장수 외인 복귀 임박 \"에레디아 21일이면 들어올 수도\"",
+    "id": "n74705144",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "54분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743962",
+    "title": "\"성관계 거부하던 남편\"…장롱 열자 '사람 크기 리얼돌'이 툭",
     "summary": [
-      "SSG 랜더스 부상 대체 외국인 타자 블라이 마드리스(30)가 생각보다 일찍 한국을 떠날지도 모르겠다.",
-      "기존 외국인 타자 기예르모 에레디아(35)의 복귀가 임박했다.",
-      "이숭용(55) SSG 감독은 11일 인천 롯데 자이언츠전을 앞두고 \"에레디아는 12일부터 퓨처스 경기에 출전한다."
+      "[서울=뉴시스]장인혜 인턴 기자 = 주말부부로 지내며 성관계를 거부하기 시작한 남편의 집을 찾은 아내가 장롱에서 사람 크기의 리얼돌을 발견했다는 사연이 전해졌다.",
+      "지난 9일 양나래 변호사의 유튜브 채널에 따르면 결혼 7년 차인 A씨는 자녀 한 명을 둔 채 남편의 지방 발령으로 2년째 주말부부 생활을 이어가고 있었다.",
+      "부부는 원래 일주일에 두세 번 관계를 맺을 정도로 사이가 좋았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na7e8af38",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/12/MMZDQZLBGVSGINTEGZSGMZRSGE/",
+    "title": "\"정우야 택연아, 미안해 하지마\" 10승 날아가도 괜찮다…동료들 다독인 '에이스의 품격' [오!쎈 잠실]",
+    "summary": [
+      "[OSEN=잠실, 조은혜 기자] 프로야구 두산 베어스 곽빈이 시즌 10승에는 실패했으나, 위력적인 투구로 존재감을 보였다.두산은 11일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 한화 이글스와의 홈경기에서 6-3 승리를 거뒀다.",
+      "선발투수로 나선 곽빈은 승리투수가 되진 못했지만 6이닝 2피안타 1볼넷 10탈삼진 무실점 완벽투를 선보이며 위력을 과."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "ncc19420a",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/08/12/2026081119512022171",
-    "title": "의료분쟁조정법 개정 논란… 12대 중과실 범위·사고이력 공개 '진통'",
-    "summary": [
-      "내년 5월 시행 앞두고 후속 논의, 의사-환자단체 온도차 12개 유형 모호성·기피과 방어진료 악화 우려 등 목소리 법조계선 형사면책 특례 위헌소지 주장… 쟁점조율 난항 시행이 1년도 남지 않은 의료분쟁조정법 개정안에 대해 의견수렴이 미비했다는 논쟁이 이어진다.",
-      "'의료사고 이력공개제'의 공론화를 두고도 방어진료 악화 등의 우려가 나오면서 의료계와 환자단체의 이견이 지속된다.",
-      "11일 의료계에 따르면 의사의 형사면책 특례가 담긴 의료분쟁조정법 개정안."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ndc8a3365",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/industry/2026/08/12/2026081120040483209",
-    "title": "현대차勞 투쟁수위 더 세졌다… 최대 12시간 생산라인 멈춘다",
-    "summary": [
-      "12·13일 주야간 4시간씩… 14·18일 6시간씩 부분파업 좁히지 못한 노사협상안… 누적 가동차질 100시간 전망 지난달, 국내 생산 전월比 22%↓… 판매 전년比 14%↓ 현대자동차 노동조합이 여름휴가를 다녀오자마자 부분파업을 재개한다.",
-      "12일부터 4차례에 걸쳐 부분파업에 나서는 가운데 14일과 18일에는 파업시간을 6시간으로 늘리기로 했다.",
-      "11일 자동차업계에 따르면 전국금속노동조합 현대차지부는 이날 중앙쟁의대책위원회(이하 쟁대위)를 열어."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n897a70b8",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003743893",
-    "title": "\"저축 깨고 돈 빌리고\"…美 가정 30%, 생활비 마련에 안간힘",
-    "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 미국 물가가 지속해서 치솟으면서 생활비를 감당하지 못하는 미국 가정이 급증하고 있는 것으로 나타났다.",
-      "10일(현지 시간) 미국 매체 USA투데이 보도에 따르면 마케팅 기업 옴니센드가 소비자 1075명을 대상으로 진행한 최신 조사에서 많은 미국인이 식료품비 등 기본 생활비를 감당하지 못해 빚을 지고 있는 것으로 나타났다.",
-      "조사 결과에 따르면 전체 응답자의 30%가 지난 3개월 동안 식료품, 기름값, 공과금, 병."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n0ebf7aba",
     "category": "IT",
     "source": "테크M",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154214",
     "title": "글로벌 시장 평정한 펄어비스 깜짝 실적...붉은사막 DLC·스위치2로 장기 흥행 노린다",
     "summary": [
@@ -440,113 +593,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n132c33ee",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812002300091",
-    "title": "'개방형 옹호' 엔비디아, 자체 AI 출시…초대형 모델도 준비중",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 개방형(오픈소스) 인공지능(AI)에 대한 규제 반대 서한을 최근 주도했던 엔비디아가 자체 개발한 경량..."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n07161d49",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003743825",
-    "title": "옷핀으로 찌르고 테이프로 입 막고…어린이집서 3살 아이에게 벌어진 일",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 국공립 어린이집 교사가 세 살배기 아이를 40여 차례 학대한 사실이 드러났다.",
-      "지난 10일 JTBC '사건반장'에 따르면 지난해 만 3세이던 피해 아동은 등원길에 차량만 봐도 몸을 떠는 등 거부 반응을 보였다.",
-      "아이는 담임 선생님이 이상하다고 구체적으로 이야기했지만 아이 어머니가 확인을 요청하자 원장은 도리어 아이 말을 거짓말로 몰았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfce62752",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "45분 전",
-    "url": "https://www.chosun.com/national/incident/2026/08/12/AOFM7EOMEVHXRJ6NELKLCZHTMA/",
-    "title": "항일 인사 30만 살해 계획?… ‘폭력형 민족반역자’ 박춘금",
-    "summary": [
-      "항일 인사 30만 살해 계획?… ‘폭력형 민족반역자’ 박춘금."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc33460e3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "45분 전",
-    "url": "https://www.chosun.com/medical/2026/08/12/XA2TM32YORDCPAISG4NZN7AKI4/",
-    "title": "다리에 힘이 없다? 뼈도 ‘비상’!… 완경기 여성을 지키는 한 잔",
-    "summary": [
-      "다리에 힘이 없다? 뼈도 ‘비상’!… 완경기 여성을 지키는 한 잔."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n50d216ed",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "45분 전",
-    "url": "https://www.chosun.com/economy/money/2026/08/12/QBUEMOVV6BDT5BB3IIM4T72EFU/",
-    "title": "AI와 반도체로 채운 계좌, 왜 하루아침에 무너졌나",
-    "summary": [
-      "AI와 반도체로 채운 계좌, 왜 하루아침에 무너졌나."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n3d2e770b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "45분 전",
-    "url": "https://www.chosun.com/culture-life/2026/08/12/LN2UHQWJSRAJLESI64TQYRF2AQ/",
-    "title": "만화 속 친근한 새 ‘펠리컨’… 실제는 우리 바다 ‘물고기 씨 말릴 괴조’",
-    "summary": [
-      "만화 속 친근한 새 ‘펠리컨’… 실제는 우리 바다 ‘물고기 씨 말릴 괴조’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7b7f98c1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812002000071",
-    "title": "FBI, '美연방정부기관 위장취업' 北원격 IT 근로자 적발",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 원격 근무 형태로 위장취업을 하는 북한 IT 인력이 미국 연방정부 기관에도 침투한 것으로 전해졌다."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
     "id": "ncb165558",
     "category": "IT",
     "source": "테크M",
-    "time": "52분 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154213",
     "title": "리니지 넘어 모바일 캐주얼로 뛰는 엔씨...'저스트플레이' 앞세워 글로벌 플랫폼 도약(종합)",
     "summary": [
@@ -559,79 +609,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2bb11b01",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "55분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003744450",
-    "title": "SNS 안 하는 오타니 아내가 정답?…日 축구선수 아내 '독박육아' 발언 뭇매",
+    "id": "nc0dce710",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/2026081150471",
+    "title": "삼성전자 8000억 풀자 난리 났다…뜻밖의 '대박' 터진 곳",
     "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 최근 일본 축구선수의 인플루언서 아내가 '독박 육아'를 언급했다가 뭇매를 맞았다.",
-      "11일(현지 시간) 일본 매체 조시SPA!는 축구선수의 아내들이 겪는 '사회관계망서비스(SNS) 발언 리스크'와 이에 따른 여론의 반응을 조명했다.",
-      "8월초 일본 축구 국가대표팀 공격수 우에다 아야세의 아내 유후 나쓰키가 올린 유튜브 영상이 큰 논란을 불렀다."
+      "삼성전자 8000억 풀자 난리 났다…뜻밖의 '대박' 터진 곳."
     ],
     "chips": [
-      "#뉴스"
+      "#삼성전자"
     ]
   },
   {
-    "id": "n1a1b46e7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003743996",
-    "title": "\"냉동식품 12만원어치가 다 녹았다\"…폭염에 컬리 배송 논란",
+    "id": "nf68b0acd",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/202608125379i",
+    "title": "반도체와 컴퓨팅도 대출 담보로…월가의 실험 VS 도박[박신영의 개장전 요것만]",
     "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = '풀콜드체인'을 강점으로 내세워 왔던 컬리가 체면을 구겼다.",
-      "연일 계속되는 폭염 속에 컬리에서 주문한 냉동 상품이 해동된 채 배송되는 사례가 빈발해 소비자들의 원성을 사고 있다.",
-      "최근 인터넷 커뮤니티와 사회관계망서비스(SNS) 등을 중심으로 컬리에서 수령한 냉동 상품의 상태에 불만을 제기하는 게시글이 잇달아 올라오고 있다."
+      "반도체와 컴퓨팅도 대출 담보로…월가의 실험 VS 도박[박신영의 개장전 요것만]."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne58a0602",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812001500072",
-    "title": "미국 가계대출 소폭 개선…총액 줄고 연체율 4.7%로 하락",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 가계대출 잔액과 연체 상황이 2분기 들어 소폭 개선된 것으로 나타났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd1ee8790",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811162852079",
-    "title": "선박 공격 수위 높이는 후티…'호르무즈 우회' 홍해 항로 위태(종합2보)",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친(親)이란 반군 후티가 홍해 입구의 바브엘만데브 해협에서 선박 공격 수위를 높이면서, 봉쇄된 호르..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9dfba2f6",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081202102366718",
-    "title": "이란의 새 협상카드 '호르무즈'…美 정보당국 \"무력 장악, 승리 장담 못해\"",
-    "summary": [
-      "이란이 핵 프로그램보다 호르무즈 해협 통제에 전략적 우선순위를 두고 있다고 미군 정보당국이 판단하는 것으로 전해졌다.",
-      "미군이 무력으로 해협 장악에 나서더라도 상당한 인명 피해를 감수해야 하는 데다 승리도 장담하기 어렵다는 분석이다.",
-      "이란은 이 같은 군사적 부담을 지렛대로 삼아 미국의 제재 해제와 동결 자금 반환 등을 해협 개방의 조건으로 내걸며 압박 수위를 높이고 있다."
-    ],
-    "chips": [
-      "#뉴스"
+      "#반도체"
     ]
   }
 ];
@@ -640,21 +642,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "tag": "AI",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
