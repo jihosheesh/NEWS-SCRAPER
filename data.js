@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-10 23:25:11
+// 마지막 업데이트: 2026-08-11 00:54:39
 window.NEWS_DB = [
+  {
+    "id": "n7d5686ed",
+    "category": "IT",
+    "source": "포쓰저널",
+    "time": "52분 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wX3dscUFFR1lJdldxaVFpMzFJVWF2R2xnSW5LN1diRlM2TlNxbl9ySWxWMHhMU3hXdE1UaFM2SU03TXl1NWJWenIzWTJsMWZuVWw0bEoyNk1yaVJ4Y1AwQWZ4Yjg?oc=5",
+    "title": "엔비디아, 700조원 'AI 금융판' 짠다",
+    "summary": [
+      "엔비디아, 700조원 'AI 금융판' 짠다 포쓰저널."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n757759c6",
     "category": "IT",
     "source": "블록체인투데이",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
     "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
     "summary": [
@@ -46,23 +61,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nca6369e0",
-    "category": "IT",
-    "source": "한국정보기술진흥원",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1WNmwzSHlmN0dnaXRmMDdoUUlIZ2J3ekdqZ3hqNFJpbVNLTEI3bVE3dHpnR2VjTVlUaG94enFVblA?oc=5",
-    "title": "AMD, AI 모델을 반도체에 새기는 스타트업 '탈라스' 인수...메모리 없이 가중치를 실리콘에 직접 각인, 초당 1만7000토큰 시제품으로 엔비디아 추론 시장 정조준",
-    "summary": [
-      "AMD, AI 모델을 반도체에 새기는 스타트업 '탈라스' 인수...메모리 없이 가중치를 실리콘에 직접 각인, 초당 1만7000토큰 시제품으로 엔비디아 추론 시장 정조준 한국정보기술진흥원."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nee123c1c",
     "category": "사회",
     "source": "아주경제",
@@ -93,6 +91,20 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n671bb698",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
+    "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
+    "summary": [
+      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -128,12 +140,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "10일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
@@ -143,12 +155,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -216,12 +228,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "73일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -272,28 +284,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
+    "id": "n4a365471",
     "category": "스포츠",
-    "source": "테크M",
-    "time": "131일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "source": "v.daum.net",
+    "time": "155일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbDRsNzJDT3JrUU5UZ1dGREM0RndpdFlCUlFsbHhTbXNaWUtzTFpDeV9lRkw0ZnViblc3Qlh2Y055by1WWVVPZVpUR3Jpd2s?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n01f4c085",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "140일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
-    "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 v.daum.net."
     ],
     "chips": [
       "#KBO"
@@ -314,306 +312,322 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6dd45ec8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003743696",
-    "title": "영천 대창면·금호읍서 잇따라 공장 화재…20대 2도 화상",
+    "id": "ndbd22699",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154170",
+    "title": "K-푸드·바이오 외형 늘렸지만...CJ제일제당, 고유가-원가 부담에 영업익 18.4%↓",
     "summary": [
-      "[영천=뉴시스] 이은희 기자 = 경북 영천시 대창면과 금호읍의 공장에서 잇따라 발생한 화재로 1명이 다쳤다.",
-      "11일 경북소방본부에 따르면 10일 낮 12시33분께 영천시 대창면 구지리의 한 공장 압출기에서 불이 났다.",
-      "신고를 받고 출동한 소방당국은 인력 37명과 장비 15대를 동원해 30분간 진화 작업을 벌였다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n0e2a86c0",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260811/134454574/1",
-    "title": "외출 말리는 아내·아들 흉기로 찌른 80대 치매 남성 현행범 체포",
-    "summary": [
-      "아내와 아들을 흉기로 찌른 80대 남성이 경찰에 붙잡혔다.전북 김제경찰서는 살인미수 혐의로 A 씨(80대)를 붙잡아 조사 중이라고 11일 밝혔다.A 씨는 이날 오전 5시 45분께 김제시 신풍동 자신의 아파트에서 아내 B 씨(70대)와 아들 C 씨(50대)를 흉기로 찌른 혐의를 받고 있다.B 씨와 C 씨는 병원 치료를 받고 있으며, 생명에는 지장이 없는 것으로 전해졌다.“치매 아버지가 어머니를 찔렀다”는 신고를 받고 출동한 경찰은 A 씨를 현행범."
-    ],
-    "chips": [
-      "#부동산",
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne90af1bd",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260811/134454571/1",
-    "title": "위고비 효과?…조현아, 달라진 모습 ‘눈길’",
-    "summary": [
-      "그룹 어반자카파 조현아가 한층 날렵해진 모습을 자랑했다.9일 조현아는 소셜미디어에 어반자카파의 새 싱글 발매 소식을 전했다.함께 공개된 사진에는 정장을 입고 포즈를 취하고 있는 조현아의 모습이 담겼다.",
-      "조현아는 비만치료제 위고비를 3개월간 투여해 체중을 크게 감량했으나, 약을 중단한 뒤 요요현상을 겪었다고 고백한 바 있다.어반자카파는 오는 11일 새 싱글 ‘7’을 발매한다.[서울=뉴시스]."
+      "CJ제일제당이 만두와 햇반 등 글로벌 전략제품의 해외 호조와 바이오 부문의 판매 확대에 힘입어 올 2분기 4조원이 넘는 매출을 달성했으나, 내수 부진과 고유가에 따른 비용 부담으로 영업이익은 두 자릿수 감소세를 나타냈습니다.CJ제일제당은 11일 공시를 통해 2026년 2분기 연결기준(대한통운 제외) 매출액 4조1950억원, 영업이익 1619억원을 기록했다고 밝혔습니다.",
+      "전년 동기 대비 매출은 10.2% 증가하며 외형 성장을 이뤘으나, 영업이익은."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n935c36a9",
+    "id": "n160944e3",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260810_0003742258",
-    "title": "[오늘의 주요일정]기후에너지환경부(8월11일화요일)",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154169",
+    "title": "다쏘시스템, '2050 넷제로' 목표 수립...2035년까지 가치사슬 전반 탈 탄소화",
     "summary": [
-      "[세종=뉴시스] ▲10:00 김성환 기후에너지환경부 장관, 기후에너지환경노동위원회 전체회의(서울) ▲10:00 금한승 기후에너지환경부 1차관, 기후에너지환경노동위원회 전체회의(서울) ▲10:00 이호현 기후에너지환경부 2차관, 국무회의(세종)."
+      "다쏘시스템이 넷제로 목표를 통해 기후 대응 의지를 로드맵으로 구체화했다.다쏘시스템은 과학기반 감축목표 이니셔티브(SBTi)로부터 검증받은 새로운 2050년 넷제로 과학기반 온실가스 감축 목표를 수립했다고 11일 밝혔다.",
+      "이번 목표는 다쏘시스템이 기존에 설정했던 2027년 SBTi 감축 목표를 기한보다 앞서 달성한 성과를 기반으로 했다.다쏘시스템은 2050년까지 전체 가치사슬에서 온실가스 순배출량을 '0'으로 만드는 넷제로를 달성할 계획이다."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "ne4662bc3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003743709",
-    "title": "수도권·남부지방 낮 최고 34도…무더위 계속",
-    "summary": [
-      "[서울=뉴시스]조수원 기자 = 화요일인 11일은 수도권과 남부지방을 중심으로 무더위가 이어지겠다.",
-      "오전까지 제주도 산지와 강원 동해안·산지, 경북 동해안에는 약한 비가 내리는 곳이 있겠다.",
-      "기상청은 이날 \"수도권과 남부지방을 중심으로 폭염특보가 발효된 가운데 당분간 무덥겠다\"며 \"도심과 해안을 중심으로 열대야가 나타나는 지역도 있겠다\"고 예보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd71b565c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003743704",
-    "title": "김지유, 1000만원 대출까지 받아 박세미에게 빌려줬다",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 코미디언 김지유와 박세미가 서로에 대한 깊은 신뢰와 우정을 나타냈다.",
-      "10일 공개된 유튜브 채널 '짠한형 신동엽'에는 박세미, 김지유, 이혜지가 게스트로 출연했다.",
-      "이날 방송에서 김지유는 과거 박세미의 영상 제작을 돕기 위해 대출까지 받아서 1000만 원을 빌려줬던 일화를 전했다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "nc0cdbdae",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811024700030",
-    "title": "롯데마트, 광복절 연휴 '통큰데이'…완판 '통짜장어' 2차 판매",
-    "summary": [
-      "(서울=연합뉴스) 조민정 기자 = 롯데마트는 오는 13일부터 17일까지 5일간 보양식과 주요 신선식품을 할인 판매하는 '통큰데이'를 연다고 11..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n73e5e322",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811024600017",
-    "title": "'위생관리 부실' 유제품 제조·판매업체 6곳 적발",
-    "summary": [
-      "(서울=연합뉴스) 박상현 기자 = 식품의약품안전처는 위생관리를 부실하게 해 온 우유류 가공·판매 업체 6곳을 적발했다고 11일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8fb5b908",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811024500003",
-    "title": "삼성전자, 게임스컴 참가…PC·콘솔·모바일 게이밍 경험 선보여",
-    "summary": [
-      "(서울=연합뉴스) 강태우 기자 = 삼성전자는 이달 26∼30일 독일 쾰른에서 열리는 세계 최대 게임 전시회 '게임스컴 2026'에 참가해 PC·..."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n147f4c2d",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811024200527",
-    "title": "NHN 2분기 영업이익 579억원…작년 동기 대비 164.1%↑",
-    "summary": [
-      "(서울=연합뉴스) 코스피 상장사 NHN[181710]은 연결 기준 올해 2분기 영업이익이 579억원으로 지난해 동기보다 164.1% 증가한 것으..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na236ddd5",
+    "id": "nd80e7438",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260811/134454538/1",
-    "title": "EPL 리버풀, 바르사 중앙 수비수 아라우호 임대 영입",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154168",
+    "title": "CJ올리브네트웍스, HD현대일렉트릭 청주 배전캠퍼스 차세대 물류 시스템 구축",
     "summary": [
-      "우루과이 국가대표 중앙 수비수 로날드 아라우호가 스페인 프로축구 프리메라리가 FC바르셀로나를 떠나 잉글랜드 프로축구 프리미어리그(EPL) 리버풀로 임대 이적했다.리버풀은 11일(한국 시간) 구단 공식 채널을 통해 2026~2027시즌 동안 아라우호를 임대로 품게 됐다고 밝혔다.영국 매체 ‘스카이스포츠’ 등에 따르면 이번 계약에는 4714만 파운드(약 904억원)의 완전 이적 옵션이 포함됐다.아라우호와 바르셀로나의 계약 기간은 2031년까지다.리."
+      "CJ올리브네트웍스는 HD현대일렉트릭 청주 배전캠퍼스에 차세대 물류 시스템(WMS)을 구축했다고 11일 밝혔다.HD현대일렉트릭 청주 배전캠퍼스는 지난해 12월 가동을 시작한 미래형 스마트 생산기지다.",
+      "축구장 12개 크기인 약 2만 5000평 부지에 안성·울산·부산 등으로 분산돼 있던 생산·설계·물류 기능을 통합했다.",
+      "기중차단기(ACB)·진공차단기(VCB)·배선용차단기(MCCB) 등 5만여종 배전기기를 생산 중이다.CJ올리브네트웍스는 차세대 물류."
     ],
     "chips": [
-      "#EPL"
+      "#뉴스"
     ]
   },
   {
-    "id": "n7307eda6",
+    "id": "n4f37fdbd",
     "category": "사회",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260811/134454533/1",
-    "title": "산부인과 화장실서 출산한 영주 30대 산모…女신생아 건강",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154167",
+    "title": "NHN, 역대 최고 분기 실적...2Q 영업이익 전년比 164.1%↑",
     "summary": [
-      "경북 영주시 한 산부인과 의원에서 30대 산모가 화장실에서 아이를 출산하는 일이 발생했다.11일 소방 당국에 따르면 전날 오후 4시 19분께 영주시 영주동 한 산부인과 의원에서 임산부가 화장실에서 출산했다는 신고가 접수됐다.119구급대는 현장에 출동해 산모와 신생아에 대한 응급처치 후 오후 4시 35분께 병원으로 이송했다.산모는 영주에 거주하는 30대 여성으로, 첫째 아이인 여아를 출산한 것으로 확인됐다.산모와 신생아 모두 상태는 양호한 것으로."
+      "NHN이 기술 부문을 중심으로 핵심사업 전 부문에서 높은 성장세를 보였다.",
+      "매출과 영업이익 모두 역대 분기 최대치이다.11일 NHN은 2026년 2분기 연결기준 매출은 전년 동기 대비 25.3% 증가한 7579억원, 영업이익은 164.1% 증가한 579억원을 달성했다고 밝혔다.",
+      "부문별 매출에서 게임 부문은 전년 동기 대비 21.5% 증가한 1396억원을 기록했다."
+    ],
+    "chips": [
+      "#정책",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n514054c1",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026081109542515094",
+    "title": "[인사] 질병관리청",
+    "summary": [],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5cd50a94",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026081109531111323",
+    "title": "한독, '바로잰CARE'에 의료진 전용 실시간 혈당 모니터링 기능 추가",
+    "summary": [
+      "한독은 연속혈당측정시스템(CGM) '바로잰Fit'의 관리 플랫폼 '바로잰CARE'에 의료진 전용 실시간 모니터링 기능을 추가했다고 11일 밝혔다.",
+      "의료진은 이 기능을 통해 여러 환자의 혈당 데이터를 한 화면에서 실시간으로 확인하고, 필요하면 상세 데이터와 환자별 보고서를 바로 조회할 수 있다.",
+      "해당 기능은 기존 바로잰CARE의 기본 기능으로 탑재돼 별도 비용 없이 제공된다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nba703e68",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811022400008",
-    "title": "한투증권 \"전력기기 업종, 송·배전 전 영역서 수주확대\"",
+    "id": "n12b09e25",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026081108565495180",
+    "title": "\"산책로에 1m 도마뱀이\"…도심에 출몰하는 희귀동물들",
     "summary": [
-      "(서울=연합뉴스) 임은진 기자 = 한국투자증권은 11일 전력기기 업종에 대해 송전과 배전 전 영역에 걸친 수주 확대가 발생하고 있다면서 투자 의..."
+      "경기도 수원 광교신도시의 한 아파트 산책로에서 몸길이 1m가량의 대형 도마뱀이 발견돼 주민들이 불안감을 호소하고 있다.",
+      "11일 연합뉴스는 이달 초 수원 광교신도시 웰빙타운의 한 아파트 산책로에 대형 도마뱀 한 마리가 나타났다.",
+      "전문가들은 영상 속 생김새 등을 토대로 국제 거래 규제를 받는 물왕도마뱀으로 추정하고 있다."
     ],
     "chips": [
-      "#뉴스"
+      "#부동산",
+      "#정책"
     ]
   },
   {
-    "id": "n2f23d315",
+    "id": "ne874d795",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260811/134455229/1",
+    "title": "재개발 빈집 알루미늄 샷시 10㎏ 훔쳐 판 60대 구속",
+    "summary": [
+      "재개발 지역 빈집에서 알루미늄 샷시를 훔쳐 판 60대가 구속됐다.광주 북부경찰서는 특정범죄가중처벌법상 절도 혐의로 60대 중반 A 씨를 구속했다고 11일 밝혔다.A 씨는 지난 8일 재개발 구역인 전남광주 북구 누문동 일대 빈집에 침입해 알루미늄 샷시 10㎏을 훔쳐 판매한 혐의를 받는다.",
+      "순찰을 돌던 경찰에 검거된 A 씨는 “생활비가 없어 범행했다”는 취지로 진술했다.",
+      "경찰은 동종 전과가 있는 A 씨를 상대로 여죄를 조사하고 있다.(광주=뉴스1)."
+    ],
+    "chips": [
+      "#재건축"
+    ]
+  },
+  {
+    "id": "ndbbf7496",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811017600005",
-    "title": "한국-필리핀, 저작권 협력 강화…콘텐츠산업 동반성장 도모",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743991",
+    "title": "[진주소식]진주소방서, 20일 전국 동시 길 터주기 훈련 등",
     "summary": [
-      "(서울=연합뉴스) 임순현 기자 = 한국과 필리핀 정부가 양국 콘텐츠 산업의 지속 가능한 성장과 창작자 권리 보호를 위한 저작권 협력에 나선다."
+      "[진주=뉴시스] 정경규 기자 = 경남 진주소방서는 오는 20일 오후 2시부터 20분간 실시되는 전국 동시 공습대비 민방위 훈련과 연계해 전국 동시 긴급차량 길 터주기 훈련을 실시한다고 11일 밝혔다.",
+      "이번 훈련은 공습 상황을 가정해 소방차와 구급차 등 긴급차량의 골든타임 확보 및 원활한 출동로를 확보하기 위해 추진된다.",
+      "진주소방서는 상가 밀집 및 유동인구가 많은 동부시장부터 자유시장 1.4㎞를 대상 구간으로 지정해 실전과 같은 훈련을 펼칠 예정."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n00f8e4e7",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811021600008",
-    "title": "IBK증권, GS리테일 목표가↑…\"전 사업부문서 실적 개선\"",
-    "summary": [
-      "(서울=연합뉴스) 황철환 기자 = IBK투자증권은 GS리테일[007070]에 대한 목표주가를 2만7천원에서 3만5천원으로 올려잡았다고 11일 밝..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n250ba57b",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811019300051",
-    "title": "부산시, 조선 협력사 노동자에 온열질환 예방 쿨링 키트 전달",
-    "summary": [
-      "(부산=연합뉴스) 김선호 기자 = 부산시는 부산지방고용노동청, 부산상공회의소와 11일 오후 부산진구 부산고용복지플러스센터에서 지역 조선업 협력사..."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n2285446a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "48분 전",
-    "url": "https://www.hankyung.com/article/202608115483H",
-    "title": "김상호 靑 춘추관장, 사표 냈다…무단 증축 논란 \"매입 때 인지 못해\"",
-    "summary": [
-      "김상호 靑 춘추관장, 사표 냈다…무단 증축 논란 \"매입 때 인지 못해\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7539c24a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "49분 전",
-    "url": "https://www.hankyung.com/article/202608115499i",
-    "title": "웹툰엔터, 1억달러 들여 게임사 지분 인수…웹툰 IP 게임 제작",
-    "summary": [
-      "웹툰엔터, 1억달러 들여 게임사 지분 인수…웹툰 IP 게임 제작."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n57d91bc3",
+    "id": "n0f4d6d51",
     "category": "스포츠",
-    "source": "한국경제",
-    "time": "54분 전",
-    "url": "https://www.hankyung.com/article/202608104625i",
-    "title": "5년전보다 주가 30% '뚝'…YG엔터, 빅뱅·신인이 구원투수 될까",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743999",
+    "title": "평택 위험물 창고 화재 9시간 만에 큰 불길 잡아 [뉴시스Pic]",
     "summary": [
-      "5년전보다 주가 30% '뚝'…YG엔터, 빅뱅·신인이 구원투수 될까."
+      "[서울·평택=뉴시스] 류현주 김종택 양효원 기자 = 국가소방동원령이 발령된 경기 평택시 청북읍 위험물 저장 물류센터 화재가 소방당국의 총력 대응으로 9시간 만에 큰 불길을 잡았다.",
+      "경기도소방재난본부는 11일 발생한 평택 위험물 저장 물류센터 화재 관련 주변 5개 동과 인접 시설로의 연소 확대를 저지하고 초진된 상태라고 밝혔다.",
+      "화재로 인한 인명 피해는 없었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n65e7a3a1",
+    "id": "n240a3598",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743998",
+    "title": "제주시, 하반기 위험성평가…위험요인 재점검",
+    "summary": [
+      "[제주=뉴시스] 우장호 기자 = 제주시는 10월30일까지 읍·면·동을 포함한 75개 전 부서를 대상으로 2026년 하반기 정기 위험성평가를 실시한다고 11일 밝혔다.",
+      "위험성평가는 사업장에 잠재된 유해·위험요인을 찾아내고 사고 가능성을 낮추기 위한 절차로, 제주시에서는 매년 상·하반기 두 차례 진행하고 있다.",
+      "이번 평가에서는 상반기 점검 이후 개선 조치가 제대로 이행되고 있는지를 확인하는 데 중점을 둔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb7d4ff30",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743995",
+    "title": "포천 섬유제품 제조공장 화재, 3명 대피…건물 1개동 타",
+    "summary": [
+      "[포천=뉴시스] 김도희 기자 = 11일 오전 5시24분께 경기 포천시 가산면의 한 섬유제품 제조공장에서 불이 나 약 45분만에 꺼졌다.",
+      "이날 불로 검은 연기가 치솟았고 건물 1개동(180㎡)이 불에 탔다.",
+      "공장 관계자 3명이 스스로 대피하면서 인명피해는 발생하지 않았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n885b3f09",
     "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608115470H",
-    "title": "트럼프 \"호르무즈 기뢰 모두 제거…미국, 유일하게 해협통제\"",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026081109512902788",
+    "title": "서울성모병원 선천성질환센터, 다학제 협진 3000례 달성",
     "summary": [
-      "트럼프 \"호르무즈 기뢰 모두 제거…미국, 유일하게 해협통제\"."
+      "서울성모병원 선천성질환센터가 산모와 태아의 선천성질환을 진단하고 치료계획을 수립하는 다학제 협진 3000례를 달성했다.서울성모병원은 선천성질환센터가 2026년 6월까지 산부인과 외래 산모를 대상으로 총 3067건의 협진을 시행했다고 11일 밝혔다.",
+      "센터는 2009년 3월 설립됐다.",
+      "협진에는 산부인과를 비롯해 소아청소년과, 진단검사의학과, 소아외과, 소아심장혈관흉부외과, 소아신경외과, 소아안과, 소아치과, 성형외과, 정형."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n75c055d3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260811/134455215/1",
+    "title": "내일 아침엔 최저 17도, 한낮 최고 33도…동해안 최고 60㎜ 비",
+    "summary": [
+      "수요일인 12일에는 아침 기온이 일부 지역에서 10도 대 후반까지 내려가겠지만 낮에는 최고 33도까지 오르며 무더위가 이어지겠다.",
+      "강원 동해안과 산지에는 오전부터, 경북 동해안과 북동 산지에는 밤부터 비가 내리겠다.11일 기상청에 따르면 12일 아침 최저기온은 17~24도, 낮 최고기온은 26~33도로 예상된다.",
+      "아침 기온은 평년과 비슷하거나 조금 낮겠지만 낮 기온은 평년과 비슷하거나 조금 높겠다.주요 도시 예상 아침 최저기온은 △서울 23도."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0f727e72",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026081154737",
-    "title": "구글에 왕좌 내준 네이버…AI가 바꾼 국내 모바일 지형도",
+    "id": "ne204f724",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260811/134455208/1",
+    "title": "토트넘 양민혁, 네 번째 임대 임박…“벨기에 베스테를로 간다”",
     "summary": [
-      "구글에 왕좌 내준 네이버…AI가 바꾼 국내 모바일 지형도."
+      "한국 축구의 미래인 양민혁(20)이 잉글랜드 프로축구 프리미어리그(EPL) 토트넘홋스퍼를 떠나 네 번째 임대 이적을 앞뒀다.스포츠 매체 ‘디애슬레틱’은 11일(한국 시간) “벨기에 프로축구 주필러 프로리그 베스테를로가 한 시즌 동안 양민혁을 임대 영입한다”고 보도했다.양민혁은 한국이 기대하는 젊은 공격수다.지난 2024시즌 프로축구 K리그1 강원FC에서 두각을 나타냈고, 그해 12월 토트넘 유니폼을 입었다.하지만 1군 데뷔까지 이뤄내진 못했다."
     ],
     "chips": [
-      "#AI",
-      "#네이버"
+      "#EPL"
+    ]
+  },
+  {
+    "id": "nb46426dc",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260811/134455201/1",
+    "title": "여객기 참사 특수단, 한국공항공사·국토부 등 압수수색",
+    "summary": [
+      "12·29 여객기 참사를 수사하는 경찰이 한국공항공사와 국토교통부 등에 대해 강제수사를 진행하고 있다.경찰청 국가수사본부 12·29 여객기 참사 특별수사단(특수단)은 11일 오전 9시부터 한국공항공사와 국토부, 부산지방항공청에 대해 압수수색을 실시하고 있다고 밝혔다.특수단 관계자는 “업무상과실치사상 혐의와 관련해 자료를 확보하기 위한 것”이라고 설명했다.",
+      "특수단은 공사 등 소속 직원 사무실에 수사관을 보내 자료를 확보하고 있다.앞서 특수단은 지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04ff67f5",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "5분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/11/BNMQJLZRKNAIXHOINTQGJ6O5JA/",
+    "title": "갤럭시 폴드부터 폴드8까지… 삼성, ‘폴더블 7년史’ 전시",
+    "summary": [
+      "갤럭시 폴드부터 폴드8까지… 삼성, ‘폴더블 7년史’ 전시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6faaf2a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/11/CA4AVM7Y2NEFFHGZNC4KPLUBKI/",
+    "title": "트럼프, 이란 위협에 에어포스원 타는 척 연출...트럭 적재함으로 내려 군용기 탔다",
+    "summary": [
+      "트럼프, 이란 위협에 에어포스원 타는 척 연출...트럭 적재함으로 내려 군용기 탔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd2b92052",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811049400062",
+    "title": "동해시, 국가 항만 개발 맞춰 지역 역할 선제적 발굴 나선다",
+    "summary": [
+      "(동해=연합뉴스) 유형재 기자 = 강원 동해시는 국가 주도로 추진되는 항만 개발에 발맞춰 항만에 대한 행정 내부의 이해도를 높이고, 항만과 산업..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3d26daf4",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811049200002",
+    "title": "동양생명, 우리금융 주식교환 완료…완전자회사 편입",
+    "summary": [
+      "(서울=연합뉴스) 강수련 기자 = 우리금융그룹 계열사 동양생명[082640]은 11일 우리금융지주와의 포괄적 주식교환 절차를 마무리하고 우리금융..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb6fea2a7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811049900056",
+    "title": "제주 상인들 \"운영비 지원·보조사업 자부담 완화해달라\"",
+    "summary": [
+      "(제주=연합뉴스) 변지철 기자 = 제주지역 전통시장과 상점가 상인들이 제주도에 상인연합회 운영비 지원과 보조사업 자부담 완화, 노후 시설 개선 ..."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -623,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
