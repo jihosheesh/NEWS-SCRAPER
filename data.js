@@ -1,15 +1,31 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-11 12:39:43
+// 마지막 업데이트: 2026-08-11 14:11:41
 window.NEWS_DB = [
+  {
+    "id": "n7870acc7",
+    "category": "IT",
+    "source": "인사이트코리아",
+    "time": "8시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jUjNtc04tWVhMR3NGU1MwYUlBYlRVY05VV3RybDVpckpHNWdja1c5SnJJRnNnMVMtN2xKV2FfVDBURVVWM2ZEbUNJVmpUa2xPZnlLOERrLTVYWEJ4RlZfU05tdUFYR05vVXNUT2lYMmVpM0HSAXdBVV95cUxPNXpBZFVRYVR3SkZUR1dwVzBHZm1QMGtZT2lFT2pUWVptLW92aUJkYW5idXhqckpkOXRqZGhGYmxTTFV1dWVwd292R2s0YWtFUFhqRjB0akxfVXNMSDA3cmZidWo2N3ZBQnFwWDRpYzFNXzNxcU80SQ?oc=5",
+    "title": "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’",
+    "summary": [
+      "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’ 인사이트코리아."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스",
+      "#채용"
+    ]
+  },
   {
     "id": "ndc68ab8a",
     "category": "IT",
-    "source": "businesspost.co.kr",
-    "time": "10시간 전",
+    "source": "비즈니스포스트",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTaHZuYlVlRmo2QjNmQ3IzeXFRWXhBbGdHbklZZnYxNlFUSzEtekFsam95aW5tNlc1RjQzMWxvWUsxWndyc2Q2RGtFSXk2ZVpSX2VnUVo4WUtKeEdOTHpsak94SkZYcFRxNDV1dF80X2NYN2s?oc=5",
     "title": "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력",
     "summary": [
-      "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력 businesspost.co.kr."
+      "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -22,7 +38,7 @@ window.NEWS_DB = [
     "id": "n41e728be",
     "category": "IT",
     "source": "디지털투데이",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUFZkU2dzOVF0TXNXR0pLUnUwdnRKUUtNZDBvdkhDNTNuMVdtTHowNHpzZDVuWC1lYTVkWHpJeE9rQzJRVUtXSnVPdktkTE9TZVViN0F5LUhRTGVrNnkxeVB2aFZrQWg5SllZbExseTkxOEE?oc=5",
     "title": "中 최상위 AI도 여전히 엔비디아에 종속…자국 칩 전환 늦어지는 이유는",
     "summary": [
@@ -37,7 +53,7 @@ window.NEWS_DB = [
     "id": "nc5f664d4",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzY1WndWZEcyd1ZUWWxzeGExbGlFVVdhYy0yNUlSOGd6OHVCQVl5X2M2YUNwU0NKTHhQbHJoSThXR2pLWWFiT2N5Q3NVdGtGc3lxaDFlejdlVVd0S21fNGpLMzh1dENXemxVdlMtSzlQWHlqdkRaaHdkbktQdDRZc01sdWdBV3Bk?oc=5",
     "title": "\"국산 칩으로 바꾸면 개발비 50% 폭증\"… 中 AI 개발사, 여전히 엔비디아 칩으로 훈련",
     "summary": [
@@ -52,7 +68,7 @@ window.NEWS_DB = [
     "id": "n757759c6",
     "category": "IT",
     "source": "블록체인투데이",
-    "time": "22시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
     "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
     "summary": [
@@ -80,7 +96,7 @@ window.NEWS_DB = [
   {
     "id": "n3ac17658",
     "category": "사회",
-    "source": "vietnam.vn",
+    "source": "Vietnam.vn",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
@@ -111,12 +127,12 @@ window.NEWS_DB = [
   {
     "id": "n51d745e9",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vcjlBRHNjalpoUk42Uy1vSWNheWxCWlR1ZlIwd3FhaFoyaV9SNlZTN05RQ0haRXR5RUJaSWxNQXp1TWpabnFsVXZDbzlJeGJmV3NCbnBtWUx6dlpXajh5NzUyVUtqUE1qczM3RWttNWc4Ylk1NFY0Zw?oc=5",
     "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
     "summary": [
-      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
+      "KBO, 연이은 폭염에 프로야구 대책 논의 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -177,22 +193,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n0b5690bb",
-    "category": "IT",
-    "source": "데일리인베스트",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZjRjM0hyMjlKWDB3Tkk1RzlnampsNWtWTk43LVAwMHRySDRTbnU0N05xcGFZVFVZWk1jMUZPWU1Ld3NIWTY1SU1BUno4azFGb1JYaHNpN1dwNEJ6aWJ6ck1OTTV4RXh3TlpB0gFvQVVfeXFMUFRIak9Ca1VKUmVSMGJITUxMWjBiS2FoVG5iMkstT3Jsa0I1cjcxcmk1UDlERUduLXgtd0lsbHJhYzlvVUJER2NPZVJLNFlCQkRnclBabVFveXFFZDBpR0FCSnBHLUhuMjNJbXN4UDJF?oc=5",
-    "title": "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까",
-    "summary": [
-      "[조호진의 PICK] 삼성전자 - HBM4서 SK하이닉스보다 점유율 앞설 수 있을까 데일리인베스트."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   },
   {
@@ -376,252 +376,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb8e6ef94",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745206",
-    "title": "물놀이객 노는 계곡 바위에 220V 콘센트…감전 사고 우려 '아찔'",
+    "id": "n98324f7c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026081123110106139",
+    "title": "[뉴욕증시]호르무즈 해협 \"합의 근접\"…혼조세",
     "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 경기 양주시 장흥계곡의 한 식당 주변에 설치된 220V 콘센트가 계곡 이용객들의 감전 사고로 이어질 수 있다는 주장이 제기됐다.",
-      "계곡물을 폭포처럼 연출하기 위해 수중 펌프를 사용하면서 전기를 공급하는 콘센트가 물과 가까운 바위에 설치돼 있었다는 것이다.",
-      "지난 9일 유튜브에 공개된 영상을 보면 제보자는 장흥계곡 현장을 확인하는 과정에서 계곡 바위에 220V 콘센트가 고정돼 있고 전기 코드가 연결된 모습을 촬영했."
+      "11일(현지시간) 미국의 3대 지수는 호르무즈 해협 재개방 관련 협상을 주시하며 혼조세를 보이고 있다.",
+      "나스닥 지수는 2만6600선을 사수하고자 공방을 벌이는 모습이다.",
+      "뉴욕증권거래소(NYSE)에서 오전 10시 5분 현재 다우존스30산업평균지수(다우지수)는 전 거래일보다 114.20포인트(0.21%) 상승한 5만4090.19를 가리키고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nae789c8d",
-    "category": "부동산",
+    "id": "n240484c1",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026081123035799217",
+    "title": "박상웅 국힘 경남도당 위원장 취임 … \"변화·개혁하고 똘똘 뭉쳐야\"",
+    "summary": [
+      "\"과거에 안주하지 말고 변화와 개혁으로 새롭게 출발해야 합니다.\" 박상웅 국민의힘 경남도당 위원장이 11일 경남도당 대강당에서 열린 취임식에서 이같이 말했다.",
+      "박 신임 위원장은 \"지역민과 당원들이 변함없이 지원해준 덕에 다수 의석을 만들어갔던 그 매너리즘에 빠지면 낭패를 겪을 것\"이라며 \"빠르게 변하는 시대에 맞춰야 한다\"고 강조했다.",
+      "이어 \"양적인 외형만 확장하는 게 아니라 내실을 얼마나 변화시키고 발전시키느냐."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbf84d8d0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745243",
+    "title": "[속보]콜롬비아 강진 사망자 175명으로 늘어…부상자 1000명 육박",
+    "summary": [
+      "[서울=뉴시스] ◎공감언론 뉴시스 ksk@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne005c2b2",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/11/GMYDKODDGU2TCOBZHBSGKMTCGI/",
+    "title": "'각성' 박준순, 한화 울린 미친 3점포! 폭염 후 두산 첫승…'6이닝 무실점 10K' 곽빈 10승은 실패 [잠실리뷰]",
+    "summary": [
+      "[잠실=스포츠조선 김영록 기자] 누가 이 선수를 20살짜리 신예가 부를 것인가.",
+      "각성한 박준순의 한방이 소속팀 두산 베어스에 폭염 휴식기 이후 첫승, 후반기 10승째를 안겼다.",
+      "두산은 11일 잠실구장에서 열린 한화 이글스와의 주중시리즈 1차전에서 7회말 터진 박준순의 결승 3점포를 앞세워 6대3으로 승리했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne51ab52c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260811/134460768/2",
+    "title": "[글로벌 현장을 가다/김철중]中 동물원 한편의 서양식 건물… 알고보니 韓 독립운동 사적지",
+    "summary": [
+      "《잊혀진 베이징의 독립운동 사적지9일 오전 중국 베이징 시청(西城)구의 베이징동물원은 여름방학을 맞아 판다관을 찾은 관람객들로 붐볐다.",
+      "인파를 뚫고 동물원의 서쪽 구역으로 한참을 걸어가니 바로크풍의 붉은 벽돌로 된 서양식 건물, ‘창관루(暢觀樓)’가 눈에 들어왔다.",
+      "동물원 측의 설명에 따르면 1908년 건립된 건물로 청나라 말기에 지어진 마지막 황실 교외 행궁이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc657e1cb",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260811/134460789/2",
+    "title": "[고양이 눈]자연의 그림",
+    "summary": [
+      "자연의 그림자연의 그림 단단한 돌벽의 좁은 틈에서 풀이 자라났습니다.",
+      "흙 한 줌 보이지 않던 곳인데 꽃까지 피웠네요.",
+      "거친 돌과 꽃의 조화가 자연이 그려낸 그림 같습니다.―서울 서대문구 대신동에서."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6def0eb3",
+    "category": "사회",
     "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811166900505",
-    "title": "[부고] 송윤주(에너지경제신문 건설부동산부 기자)씨 외조모상",
+    "url": "https://www.yna.co.kr/view/AKR20260811169300527",
+    "title": "제주 북부 앞바다에 12일 0시 풍랑주의보 해제",
     "summary": [
-      "[부고] 송윤주(에너지경제신문 건설부동산부 기자)씨 외조모상."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n1e87eafa",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745208",
-    "title": "\"불길 치솟더니 '쿵' 소리\"…불 피하려던 모자 추락해 숨진 듯(종합2보)",
-    "summary": [
-      "[서울=뉴시스]신유림 기자 = 서울 강서구 가양동의 한 아파트에서 불이 나 60대 어머니와 30대 아들이 숨졌다.",
-      "이들은 불을 피하려다 아파트 아래로 추락해 숨진 것으로 추정된다.",
-      "11일 소방 당국 등에 따르면 이날 오후 4시55분께 서울 강서구 가양동의 한 아파트 15층 세대에서 원인을 알 수 없는 불이 났다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n4d9e8b7b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811157051009",
-    "title": "시진핑, 콜롬비아 강진 위로 전문…\"깊은 애도\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 권숙희 기자 = 시진핑 중국 국가주석이 최근 강진이 발생한 콜롬비아에 위로를 전했다."
+      "(제주=연합뉴스) 기상청은 제주도북부앞바다에 내렸던 풍랑주의보를 12일 0시를 기해 해제한다고 11일 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncaf829df",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/11/MY4TOYLFMFRWCODEGBQWEMZRG4/",
-    "title": "'10이닝 퍼펙트' 깨졌지만...'ML 112승' LG 외인, KBO 첫 승이 보인다. 6이닝 QS",
-    "summary": [
-      "[OSEN=고척, 한용섭 기자] 프로야구 LG 트윈스 외국인 투수 카라스코(39)가 10이닝 연속 퍼펙트 행진은 깨졌지만, 승리 투수 요건을 챙겼다.",
-      "카라스코는 11일 서울 고척 스카이돔에서 열린 키움 히어로즈와 경기에 선발투수로 등판, 6이닝 5피안타 1사구 5탈삼진 2실점을 기록했다.",
-      "4-2로 앞선 7회 불펜에 공을 넘겼다.카라스코는 지난 1일 두산전에."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd619a7fc",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/202608115293i",
-    "title": "AI랠리 주춤하는 동안 유럽 주식과 채권 호황",
-    "summary": [
-      "AI랠리 주춤하는 동안 유럽 주식과 채권 호황."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n774a4ebe",
+    "id": "ndf291a89",
     "category": "사회",
     "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/opinion/manmulsang/2026/08/11/USDVIHGTQJAIJC2OUVS3YCVYCM/",
-    "title": "[만물상] ‘職보다 집’이 옳았다",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/11/MM3WKMJRMU3WKMJRMY4TKMBTMQ/",
+    "title": "골프 치는 트럼프 옆에 배치된 이동식 방공 미사일… 암살 시도 대비",
     "summary": [
-      "[만물상] ‘職보다 집’이 옳았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9d1f0edb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003744422",
-    "title": "[속보] 평택 위험물 저장 창고 화재 21시간여 만에 완진",
-    "summary": [
-      "[평택=뉴시스] 양효원 기자 = ◎공감언론 뉴시스 hyo@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd735a382",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811166500079",
-    "title": "레바논, 사형제 공식 폐지…중동 국가 중 최초",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 레바논이 중동 국가 최초로 사형제를 전면 폐지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n927b3f39",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260811/134461120/1",
-    "title": "두산 곽빈, 6이닝 10K 무실점에도…불펜 방화로 시즌 10승 불발",
-    "summary": [
-      "프로야구 두산 베어스 에이스 곽빈이 눈부신 투구를 펼치고도 불펜진의 난조로 결국 시즌 10승 고지를 밟지 못했다.곽빈은 11일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 한화 이글스와의 홈 경기에 선발 등판해 6이닝 2피안타 1볼넷 10탈삼진 무실점으로 호투했다.1회초 곽빈은 이원석을 루킹 삼진으로 돌려세운 뒤 요나단 페라자에게 볼넷을 내줬다.",
-      "이후 문현빈과 강백호를 연달아 삼진으로 처리하며 아웃카운트 3개를 채웠다.곽빈은 2회초 노시."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8166eef4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/11/GQ3TOZBWGRSGIMRRGQ3TEODEGA/",
-    "title": "\"더이상 시간이 많지않다\" 폭염 브레이크 끝난 잠실, '기세등등' 김원형 감독 표정이 갑자기 어두워진 이유 [잠실포커스]",
-    "summary": [
-      "[잠실=-스포츠조선 김영록 기자] 평균자책점 1,2위(곽빈 최민석)을 모두 보유하고 있다.",
-      "김민석 박준순 등 젊은 타자들의 기세도 남다르다.",
-      "순위는 '아직' 4위지만, 후반기 43경기를 남겨둔 두산 베어스의 기세는 하늘을 찌른다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na68f95bd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811165500004",
-    "title": "논현역 도로 한복판서 '음주운전 쿨쿨'…경찰에 붙잡혀",
-    "summary": [
-      "(서울=연합뉴스) 정지수 기자 = 교통이 혼잡한 퇴근 시간대 서울 논현역 도로 한복판에서 술에 취해 차를 몰다 잠든 운전자가 경찰에 붙잡혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4938ad96",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "19분 전",
-    "url": "https://www.hankyung.com/article/2026081153027",
-    "title": "\"유럽 하늘에 태양 사라진다\"…오는 12일, 27년 만에 개기일식",
-    "summary": [
-      "\"유럽 하늘에 태양 사라진다\"…오는 12일, 27년 만에 개기일식."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndae5c833",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260811/134460991/1",
-    "title": "李대통령, 콜롬비아 강진에 “희생된 모든 분들의 명복 빌어”",
-    "summary": [
-      "이재명 대통령은 11일 콜롬비아 강진과 관련 “희생되신 모든 분들의 명복을 빕니다”라고 밝혔다.이 대통령은 이날 X를 통해 “갑작스러운 재난으로 소중한 가족과 이웃을 잃으신 분들께 깊은 위로의 마음을 전한다”며 이같이 말했다.앞서 CNN 등은 콜롬비아 서부 초코주(州) 일대에서 규모 7.4의 강진이 발생해 최소 132명이 숨지고 570명이 부상을 입었다고 보도했다.",
-      "이에 이 대통령은 “콜롬비아 북서부 초코주에서 강진이 발생해 큰 피해가 이어지고."
+      "골프를 치는 도널드 트럼프 미국 대통령 주변에 이동식 방공 미사일 시스템이 배치된 사진과 영상이 포착됐다.",
+      "11일(현지 시각) 미 군사 전문 매체 ‘워존’에 따르면, 일요일인 지난 9일 뉴저지주 베드민스터에 있는 자신의 골프장에서 골프를 치는 트럼프 대통령 곁에 미사일 시스템이 장착된 미군 차량 험비가 등장했다.",
+      "험비에는 스팅어 지대공 단거리 미사일을 발."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n86c452cd",
+    "id": "nbacac0cf",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003745195",
-    "title": "퍼펙트는 깨졌지만 첫 승 요건 충족…LG 카라스코, 키움전 6이닝 2실점",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811169700007",
+    "title": "'9회 6득점' kt, 60승 선착…재개된 프로야구서 7연승 질주(종합)",
     "summary": [
-      "[서울=뉴시스]문채현 기자 = 프로야구 LG 트윈스의 새 외인 카를로스 카라스코의 퍼펙트 행진이 키움 히어로즈 타선에 가로막혔다.",
-      "카라스코는 11일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 키움 히어로즈와의 원정 경기에 선발 등판해 6이닝 5피안타 2실점을 기록했다.",
-      "이날 6회까지 공 85개를 던진 그는 볼넷 없이 몸에 맞는 볼 1개를 내주고 삼진은 5개를 잡아냈다."
+      "(서울=연합뉴스) 천병혁 이대호 기자 = kt wiz가 '폭염 방학'을 끝내고 1주 만에 재개된 프로야구에서 파죽의 7연승을 달리며 60승 고지..."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n589f569c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260811/134460992/1",
-    "title": "‘지방 이전 소문에’ 3대 국책은행 노조 뭉쳤다…2500명 여의도서 선제적 반대 집회",
+    "id": "nda53726d",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745237",
+    "title": "폭염 뚫은 프로야구 열기…역대 최소 505경기 만에 900만 관중 달성",
     "summary": [
-      "3대 국책은행(한국산업은행, 기업은행, 한국수출입은행) 노동조합이 11일 저녁 7시 서울 여의도 산업은행 본점 옆 의사당대로에서 국책은행 지방 이전을 반대하는 결의대회를 열었다.",
-      "정부가 올해 하반기 공공기관 이전 계획을 발표할 것이란 전망이 나오는 가운데 노조가 선제적으로 집회를 연 것이다.",
-      "현재 국책은행 지방 이전 여부는 결정되지 않은 상황이다.이날 집회에 참석한 한 노조원은 “국책은행이 제대로 된 기능을 수행하기 위해서는 숙련된 전문 인력과."
+      "[서울=뉴시스]문채현 기자 = 극한 폭염도 프로야구 열기를 막을 수 없었다.",
+      "2026 KBO리그가 역대 최소 경기 만에 900만 관중을 돌파했다.",
+      "한국야구위원회(KBO)는 11일 전국 5개 구장에서 열린 2026 신한 쏠 KBO리그 경기에 총 6만7134명이 입장, 역대 3번째이자 3년 연속 900만 관중을 달성했다고 발표했다."
     ],
     "chips": [
-      "#수출"
+      "#KBO"
     ]
   },
   {
-    "id": "n96f1e89b",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811165100002",
-    "title": "3대 국책은행 노조, 대규모 집회…\"지방 졸속이전 결사반대\"",
+    "id": "n93b38ee1",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260811/134460827/2",
+    "title": "낯선 손님에 대한 환대[정덕현의 그 영화 이 대사]〈119〉",
     "summary": [
-      "(서울=연합뉴스) 김지연 기자 = 2차 공공기관 지방 이전 대상으로 거론되는 3대 국책은행의 노동조합원들이 11일 공동으로 대규모 집회를 하고 ..."
+      "“대접받고 싶은 대로 남을 대접하라.” ―크리스토퍼 놀런 ‘오디세이’“대접받고 싶은 대로 남을 대접하라.” 크리스토퍼 놀런 감독의 영화 ‘오디세이’에는 여러 차례 ‘제우스의 법’이 언급된다.",
+      "이는 고대 그리스의 ‘크세니아(Xenia)’를 가리킨다.",
+      "크세니아는 낯선 손님과 주인이 서로 존중하고 보호해야 한다는 환대의 규범을 말한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n287c921c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260811/134460786/2",
+    "title": "사람 빼앗는 경쟁으로는 지방소멸 못 막는다[기고/김호균]",
+    "summary": [
+      "정부가 인구 감소로 소멸 위기에 처한 지역을 지원하기 위해 매년 1조 원 규모로 투입하는 ‘지방소멸대응기금’이 있다.",
+      "지방정부가 제출한 투자 계획을 바탕으로 우수한 계획과 성과를 보인 지역에는 평균 배분액의 최대 두 배를, 현저히 부실한 지역에는 절반 수준을 배분한다.",
+      "행정안전부의 2027년도 지방소멸대응기금 평가가 본격화됐다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n1c0fbd50",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/11/GE4TGOBXGBRWMMTGMJRTOYRYMI/",
+    "title": "손흥민 토트넘 떠나고 양민혁 ‘임대’ 황희찬 ‘강등’…‘한국인 프리미어리거 전멸’ 현실이다",
+    "summary": [
+      "[OSEN=서정환 기자] ‘EPL 1호’ 박지성(45) 이후 처음이다.",
+      "한국인 프리미어리거가 전멸했다.",
+      "2026-27시즌 프리미어리그가 오는 8월 22일 챔피언 아스날 대 승격팀 코번트리 시티의 대결로 막을 올린다."
+    ],
+    "chips": [
+      "#손흥민",
+      "#EPL"
+    ]
+  },
+  {
+    "id": "nf97ae65a",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745238",
+    "title": "뉴욕증시, 미·이란 협상 기대감 속 혼조 출발…S&P500 0.04%↑",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 뉴욕증시는 11일(현지 시간) 미국과 이란 협상 진전 기대감 속에 혼조세로 장을 출발했다.",
+      "이날 뉴욕증권거래소(NYSE)에서 우량주 중심의 다우존스 30 산업평균지수는 오전 9시 35분(미 동부 시간) 기준 전장 대비 150.86포인트(0.28%) 상승한 5만4126.84를 기록했다.",
+      "대형주 위주인 스탠더드 앤드 푸어스(S&P) 500 지수도 3.10포인트(0.04%) 오른 7756.21에 거래 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4840f5f4",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745240",
+    "title": "'4연승' 두산 김원형 감독 \"박준순 홈런 결정적…곽빈 투구도 대단\"",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 프로야구 두산 베어스가 한화 이글스를 꺾고 4연승을 내달렸다.",
+      "두산 김원형 감독은 승리에 기여한 선수들을 치켜세웠다.",
+      "두산은 11일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 한화 이글스와의 홈 경기에서 6-3으로 이겼다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd104fe39",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811169200009",
+    "title": "뉴욕증시, 미-이란 합의 기대 재점화 속 혼조 출발",
+    "summary": [
+      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 미국과 이란 간의 합의 기대감이 되살아나는 가운데 혼조세로 출발했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ea5e159",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811169000004",
+    "title": "김포공항 국내선 천장 마감재 '와르르'…다친 사람은 없어",
+    "summary": [
+      "(서울=연합뉴스) 정지수 기자 = 11일 오후 서울 강서구 김포공항 3층 국내선 출발장 입구 옆 천장 대리석 마감재 일부가 뜯어져 바닥으로 떨어..."
     ],
     "chips": [
       "#뉴스"
@@ -634,14 +645,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
