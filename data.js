@@ -1,28 +1,12 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-11 17:48:33
+// 마지막 업데이트: 2026-08-11 18:45:17
 window.NEWS_DB = [
   {
-    "id": "n78fac7f0",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "2시간 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QMXI1OVlZd2VjSU12ajdUSms1RjJmaHFhdC1Fb1JPUzBxR1czajM0SjlSMEVDQzBzRTEtazM0aUR1Z3RqZE1NVmJuMzR6LTUtR21kOWVKS0Z0RVJZa0FaTkxTSElEb180dzlTQkJJSlJqeDFiMWlKddIBeEFVX3lxTE1QMXI1OVlZd2VjSU12ajdUSms1RjJmaHFhdC1Fb1JPUzBxR1czajM0SjlSMEVDQzBzRTEtazM0aUR1Z3RqZE1NVmJuMzR6LTUtR21kOWVKS0Z0RVJZa0FaTkxTSElEb180dzlTQkJJSlJqeDFiMWlKdQ?oc=5",
-    "title": "엔비디아 vs ASML…AI 반도체 시장 최종 승자는?",
-    "summary": [
-      "엔비디아 vs ASML…AI 반도체 시장 최종 승자는? 뉴시스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n7870acc7",
+    "id": "n0d23d8d3",
     "category": "IT",
     "source": "인사이트코리아",
     "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jUjNtc04tWVhMR3NGU1MwYUlBYlRVY05VV3RybDVpckpHNWdja1c5SnJJRnNnMVMtN2xKV2FfVDBURVVWM2ZEbUNJVmpUa2xPZnlLOERrLTVYWEJ4RlZfU05tdUFYR05vVXNUT2lYMmVpM0HSAXdBVV95cUxPNXpBZFVRYVR3SkZUR1dwVzBHZm1QMGtZT2lFT2pUWVptLW92aUJkYW5idXhqckpkOXRqZGhGYmxTTFV1dWVwd292R2s0YWtFUFhqRjB0akxfVXNMSDA3cmZidWo2N3ZBQnFwWDRpYzFNXzNxcU80SQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81ekFkVVFhVHdKRlRHV3BXMEdmbVAwa1lPaUVPalRZWm0tb3ZpQmRhbmJ1eGpySmQ5dGpkaEZibFNMVXV1ZXB3b3ZHazRha0VQWGpGMHRqTF9Vc0xIMDdyZmJ1ajY3dkFCcXBYNGljMU1fM3FxTzRJ0gF3QVVfeXFMTzV6QWRVUWFUd0pGVEdXcFcwR2ZtUDBrWU9pRU9qVFlabS1vdmlCZGFuYnV4anJKZDl0amRoRmJsU0xVdXVlcHdvdkdrNGFrRVBYakYwdGpMX1VzTEgwN3JmYnVqNjd2QUJxcFg0aWMxTV8zcXFPNEk?oc=5",
     "title": "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’",
     "summary": [
       "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’ 인사이트코리아."
@@ -36,12 +20,12 @@ window.NEWS_DB = [
   {
     "id": "ndc68ab8a",
     "category": "IT",
-    "source": "businesspost.co.kr",
-    "time": "15시간 전",
+    "source": "비즈니스포스트",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTaHZuYlVlRmo2QjNmQ3IzeXFRWXhBbGdHbklZZnYxNlFUSzEtekFsam95aW5tNlc1RjQzMWxvWUsxWndyc2Q2RGtFSXk2ZVpSX2VnUVo4WUtKeEdOTHpsak94SkZYcFRxNDV1dF80X2NYN2s?oc=5",
     "title": "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력",
     "summary": [
-      "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력 businesspost.co.kr."
+      "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -54,11 +38,26 @@ window.NEWS_DB = [
     "id": "n7d5686ed",
     "category": "IT",
     "source": "4th.kr",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wX3dscUFFR1lJdldxaVFpMzFJVWF2R2xnSW5LN1diRlM2TlNxbl9ySWxWMHhMU3hXdE1UaFM2SU03TXl1NWJWenIzWTJsMWZuVWw0bEoyNk1yaVJ4Y1AwQWZ4Yjg?oc=5",
     "title": "엔비디아, 700조원 'AI 금융판' 짠다",
     "summary": [
       "엔비디아, 700조원 'AI 금융판' 짠다 4th.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nc5f664d4",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "21시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzY1WndWZEcyd1ZUWWxzeGExbGlFVVdhYy0yNUlSOGd6OHVCQVl5X2M2YUNwU0NKTHhQbHJoSThXR2pLWWFiT2N5Q3NVdGtGc3lxaDFlejdlVVd0S21fNGpLMzh1dENXemxVdlMtSzlQWHlqdkRaaHdkbktQdDRZc01sdWdBV3Bk?oc=5",
+    "title": "\"국산 칩으로 바꾸면 개발비 50% 폭증\"… 中 AI 개발사, 여전히 엔비디아 칩으로 훈련",
+    "summary": [
+      "\"국산 칩으로 바꾸면 개발비 50% 폭증\"… 中 AI 개발사, 여전히 엔비디아 칩으로 훈련 글로벌이코노믹."
     ],
     "chips": [
       "#AI",
@@ -128,12 +127,12 @@ window.NEWS_DB = [
   {
     "id": "n51d745e9",
     "category": "스포츠",
-    "source": "news.nate.com",
+    "source": "네이트",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vcjlBRHNjalpoUk42Uy1vSWNheWxCWlR1ZlIwd3FhaFoyaV9SNlZTN05RQ0haRXR5RUJaSWxNQXp1TWpabnFsVXZDbzlJeGJmV3NCbnBtWUx6dlpXajh5NzUyVUtqUE1qczM3RWttNWc4Ylk1NFY0Zw?oc=5",
     "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
     "summary": [
-      "KBO, 연이은 폭염에 프로야구 대책 논의 news.nate.com."
+      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
     ],
     "chips": [
       "#KBO"
@@ -257,12 +256,12 @@ window.NEWS_DB = [
   {
     "id": "n37646dcf",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "unicornfactory.co.kr",
     "time": "75일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
     "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 unicornfactory.co.kr."
     ],
     "chips": [
       "#스타트업"
@@ -345,10 +344,90 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n17272d61",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/12/2026081203312035481",
+    "title": "홍경민, '해금 초엘리트' 아내 스펙 자랑…결혼 후 서울대 졸업까지",
+    "summary": [
+      "홍경민이 10살 연하 아내 김유나의 초엘리트 스펙을 자랑했다.",
+      "해금 연주자인 아내 김유나는 국악중·고와 한국예술종합학교 학·석사를 거쳐 결혼 후 서울대학교 음악박사 학위까지 취득해 놀라움을 안겼다.",
+      "11일 방영된 SBS '동상이몽2-너는 내 운명' 451회에서는 가수 홍경민과 해금 연주자 김유나 부부가 출연했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n8f4a0a04",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/12/2026081114551334863",
+    "title": "'없는 줄도 몰랐다' ML 출신 대체 외인, 계약 조기 종료 가능성... KBO 장수 외인 복귀 임박 \"에레디아 21일이면 들어올 수도\"",
+    "summary": [
+      "SSG 랜더스 부상 대체 외국인 타자 블라이 마드리스(30)가 생각보다 일찍 한국을 떠날지도 모르겠다.",
+      "기존 외국인 타자 기예르모 에레디아(35)의 복귀가 임박했다.",
+      "이숭용(55) SSG 감독은 11일 인천 롯데 자이언츠전을 앞두고 \"에레디아는 12일부터 퓨처스 경기에 출전한다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ncc19420a",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/thebio/2026/08/12/2026081119512022171",
+    "title": "의료분쟁조정법 개정 논란… 12대 중과실 범위·사고이력 공개 '진통'",
+    "summary": [
+      "내년 5월 시행 앞두고 후속 논의, 의사-환자단체 온도차 12개 유형 모호성·기피과 방어진료 악화 우려 등 목소리 법조계선 형사면책 특례 위헌소지 주장… 쟁점조율 난항 시행이 1년도 남지 않은 의료분쟁조정법 개정안에 대해 의견수렴이 미비했다는 논쟁이 이어진다.",
+      "'의료사고 이력공개제'의 공론화를 두고도 방어진료 악화 등의 우려가 나오면서 의료계와 환자단체의 이견이 지속된다.",
+      "11일 의료계에 따르면 의사의 형사면책 특례가 담긴 의료분쟁조정법 개정안."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ndc8a3365",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/industry/2026/08/12/2026081120040483209",
+    "title": "현대차勞 투쟁수위 더 세졌다… 최대 12시간 생산라인 멈춘다",
+    "summary": [
+      "12·13일 주야간 4시간씩… 14·18일 6시간씩 부분파업 좁히지 못한 노사협상안… 누적 가동차질 100시간 전망 지난달, 국내 생산 전월比 22%↓… 판매 전년比 14%↓ 현대자동차 노동조합이 여름휴가를 다녀오자마자 부분파업을 재개한다.",
+      "12일부터 4차례에 걸쳐 부분파업에 나서는 가운데 14일과 18일에는 파업시간을 6시간으로 늘리기로 했다.",
+      "11일 자동차업계에 따르면 전국금속노동조합 현대차지부는 이날 중앙쟁의대책위원회(이하 쟁대위)를 열어."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n897a70b8",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743893",
+    "title": "\"저축 깨고 돈 빌리고\"…美 가정 30%, 생활비 마련에 안간힘",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = 미국 물가가 지속해서 치솟으면서 생활비를 감당하지 못하는 미국 가정이 급증하고 있는 것으로 나타났다.",
+      "10일(현지 시간) 미국 매체 USA투데이 보도에 따르면 마케팅 기업 옴니센드가 소비자 1075명을 대상으로 진행한 최신 조사에서 많은 미국인이 식료품비 등 기본 생활비를 감당하지 못해 빚을 지고 있는 것으로 나타났다.",
+      "조사 결과에 따르면 전체 응답자의 30%가 지난 3개월 동안 식료품, 기름값, 공과금, 병."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n0ebf7aba",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "16분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154214",
     "title": "글로벌 시장 평정한 펄어비스 깜짝 실적...붉은사막 DLC·스위치2로 장기 흥행 노린다",
     "summary": [
@@ -361,10 +440,113 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n132c33ee",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812002300091",
+    "title": "'개방형 옹호' 엔비디아, 자체 AI 출시…초대형 모델도 준비중",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 개방형(오픈소스) 인공지능(AI)에 대한 규제 반대 서한을 최근 주도했던 엔비디아가 자체 개발한 경량..."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n07161d49",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003743825",
+    "title": "옷핀으로 찌르고 테이프로 입 막고…어린이집서 3살 아이에게 벌어진 일",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 국공립 어린이집 교사가 세 살배기 아이를 40여 차례 학대한 사실이 드러났다.",
+      "지난 10일 JTBC '사건반장'에 따르면 지난해 만 3세이던 피해 아동은 등원길에 차량만 봐도 몸을 떠는 등 거부 반응을 보였다.",
+      "아이는 담임 선생님이 이상하다고 구체적으로 이야기했지만 아이 어머니가 확인을 요청하자 원장은 도리어 아이 말을 거짓말로 몰았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfce62752",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "45분 전",
+    "url": "https://www.chosun.com/national/incident/2026/08/12/AOFM7EOMEVHXRJ6NELKLCZHTMA/",
+    "title": "항일 인사 30만 살해 계획?… ‘폭력형 민족반역자’ 박춘금",
+    "summary": [
+      "항일 인사 30만 살해 계획?… ‘폭력형 민족반역자’ 박춘금."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc33460e3",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "45분 전",
+    "url": "https://www.chosun.com/medical/2026/08/12/XA2TM32YORDCPAISG4NZN7AKI4/",
+    "title": "다리에 힘이 없다? 뼈도 ‘비상’!… 완경기 여성을 지키는 한 잔",
+    "summary": [
+      "다리에 힘이 없다? 뼈도 ‘비상’!… 완경기 여성을 지키는 한 잔."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50d216ed",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "45분 전",
+    "url": "https://www.chosun.com/economy/money/2026/08/12/QBUEMOVV6BDT5BB3IIM4T72EFU/",
+    "title": "AI와 반도체로 채운 계좌, 왜 하루아침에 무너졌나",
+    "summary": [
+      "AI와 반도체로 채운 계좌, 왜 하루아침에 무너졌나."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n3d2e770b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "45분 전",
+    "url": "https://www.chosun.com/culture-life/2026/08/12/LN2UHQWJSRAJLESI64TQYRF2AQ/",
+    "title": "만화 속 친근한 새 ‘펠리컨’… 실제는 우리 바다 ‘물고기 씨 말릴 괴조’",
+    "summary": [
+      "만화 속 친근한 새 ‘펠리컨’… 실제는 우리 바다 ‘물고기 씨 말릴 괴조’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7b7f98c1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812002000071",
+    "title": "FBI, '美연방정부기관 위장취업' 北원격 IT 근로자 적발",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 원격 근무 형태로 위장취업을 하는 북한 IT 인력이 미국 연방정부 기관에도 침투한 것으로 전해졌다."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
     "id": "ncb165558",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "52분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154213",
     "title": "리니지 넘어 모바일 캐주얼로 뛰는 엔씨...'저스트플레이' 앞세워 글로벌 플랫폼 도약(종합)",
     "summary": [
@@ -377,25 +559,26 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n149446a4",
+    "id": "n2bb11b01",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/12/MZSDKYZWGI3TEMRVGJSDAYJXGM/",
-    "title": "4경기 3홈런 12타점 폭발! 폭염도 못 막은 22억 거포, 타율 최하위에도 장타력 터진다 “그렇게 못하면 누구나 흔들려”",
+    "source": "뉴시스",
+    "time": "55분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003744450",
+    "title": "SNS 안 하는 오타니 아내가 정답?…日 축구선수 아내 '독박육아' 발언 뭇매",
     "summary": [
-      "[OSEN=인천, 길준영 기자] 프로야구 SSG 랜더스 김재환(38)이 팀 승리를 이끄는 중요한 홈런을 날리며 좋은 타격감을 이어갔다.",
-      "김재환은 11일 인천 SSG랜더스필드에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 롯데 자이언츠와의 경기에 3번 지명타자로 선발출장해 4타수 2안타 1홈런 4타점 2득점으로 활약했다."
+      "[서울=뉴시스]이준형 인턴 기자 = 최근 일본 축구선수의 인플루언서 아내가 '독박 육아'를 언급했다가 뭇매를 맞았다.",
+      "11일(현지 시간) 일본 매체 조시SPA!는 축구선수의 아내들이 겪는 '사회관계망서비스(SNS) 발언 리스크'와 이에 따른 여론의 반응을 조명했다.",
+      "8월초 일본 축구 국가대표팀 공격수 우에다 아야세의 아내 유후 나쓰키가 올린 유튜브 영상이 큰 논란을 불렀다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
     "id": "n1a1b46e7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260811_0003743996",
     "title": "\"냉동식품 12만원어치가 다 녹았다\"…폭염에 컬리 배송 논란",
     "summary": [
@@ -408,26 +591,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n83cb235a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745263",
-    "title": "이란 신임 안보수장 \"美 태도 바꾸지 않으면 호르무즈 재개방 없어\"",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 이란은 11일(현지 시간) 호르무즈 해협 재개방에는 미국의 태도 변화가 필요하다는 입장을 밝혔다.",
-      "반관영 타스님 통신에 따르면 모흐센 레자이 이란 최고국가안보회의(SNSC) 사무총장은 이날 주이란 중국 대사를 만난 자리에서 이같이 말했다.",
-      "레자이 사무총장은 \"호르무즈 해협은 미국이 태도를 바꾸고 이란의 조건을 수용할 때까지 개방되지 않을 것\"이라고 경고했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ne58a0602",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260812001500072",
     "title": "미국 가계대출 소폭 개선…총액 줄고 연체율 4.7%로 하락",
     "summary": [
@@ -438,26 +605,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n50645812",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "33분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745264",
-    "title": "러시아, 30대 미국인 4년만 석방…트럼프 \"푸틴과 논의 결과\"(종합)",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 러시아가 폭행 등 혐의로 구금 중이던 30대 미국인 로버트 길먼을 11일(현지 시간) 석방했다.",
-      "길먼은 미 해군 예비역으로, 폭행 등 혐의로 러시아에 구금됐다가 건강이 크게 악화되자 정부간 협의를 거쳐 인도적 차원에서 석방됐다.",
-      "AP통신에 따르면 억류자 석방 비영리단체 '글로벌 리치' 최고전략책임자(CSO)인 에릭 레브슨은 이날 길먼이 석방돼 미 텍사스에 있는 미군 병원으로 이동 중이라고 발표했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "nd1ee8790",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "33분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260811162852079",
     "title": "선박 공격 수위 높이는 후티…'호르무즈 우회' 홍해 항로 위태(종합2보)",
     "summary": [
@@ -468,26 +619,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc94d3dc7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "37분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/12/GFRTOZRUMZTGIY3BGM4GENBSMM/",
-    "title": "'롯데 선수단 긴급 미팅' 혼돈의 수비 → 7실점 와르르, 너무 오래 쉬었나",
-    "summary": [
-      "[인천=스포츠조선 나유리 기자]너무 오래 쉬었나.",
-      "하필 수비 실책성 플레이들이 나오면서 '에이스'를 도와주지 못했다.",
-      "롯데 자이언츠가 폭염 브레이크 이후 첫 경기에서 대패를 했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n9dfba2f6",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026081202102366718",
     "title": "이란의 새 협상카드 '호르무즈'…美 정보당국 \"무력 장악, 승리 장담 못해\"",
     "summary": [
@@ -498,139 +633,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n9be1c26b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "38분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003744964",
-    "title": "\"독일어 못하면 수영 금지\"…獨 수영장 '인종차별' 논란",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 독일의 한 수영장에서 인명구조원이 이용객들에게 독일어 사용을 요구하면서 인종차별 논란이 불거졌다.",
-      "10일(현지 시간) 영국 데일리메일은 독일 동부 할레에 위치한 호숫가 수영장 '하이데바트'의 인명구조원 마티아스 노벨이 독일어를 구사하지 못하는 사람들의 호수 이용을 금지했다고 보도했다.",
-      "노벨은 지난 6월 한 어린아이가 호수의 수심 13m 구역까지 들어갔다가 익사할뻔한 사고가 발생해 구조했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n305136e4",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "51분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812001200071",
-    "title": "前 미 무역부대표 \"한미, 하나의 문제 말고 큰 그림 집중해야\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 한미 자유무역협정(FTA) 협상을 이끌었던 웬디 커틀러 전 미국 무역대표부(USTR) 부대표가 한미 간의 ..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n5e52bf84",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/12/MZQTAMBSGE3TGMZSMY2DKZBWMU/",
-    "title": "\"서울 왕궁보다 더 큰 오프사이드였는데!\" 이강인 울린 韓 심판 오심, 스페인 매체도 황당...\"모두가 봤는데 판정 안 바뀌었다\"",
-    "summary": [
-      "[OSEN=고성환 기자] 아무리 친선경기였다지만, 너무나 명백한 오프사이드였다.",
-      "스페인 매체가 이강인(25)의 데뷔전을 선보인 아틀레티코 마드리드가 한국 주심의 오심에 당했다고 꼬집었다.",
-      "아틀레티코는 지난 9일(이하 한국시간) 서울월드컵경기장에서 열린 맨체스터 시티와 2026 쿠팡플레이 시리즈 친선경기에서 1-3으로 역전패했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n34a7ccd6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812001000098",
-    "title": "라인강 극한 가뭄에 두손 든 독일 기업…일부 제품 불가항력 선언",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 극한 가뭄으로 독일의 물류 대동맥 라인강 수위가 역대 최저 수준으로 내려가자 독일 기업도 직격탄을 맞고 있..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0dce710",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026081150471",
-    "title": "삼성전자 8000억 풀자 난리 났다…뜻밖의 '대박' 터진 곳",
-    "summary": [
-      "삼성전자 8000억 풀자 난리 났다…뜻밖의 '대박' 터진 곳."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nf68b0acd",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608125379i",
-    "title": "반도체와 컴퓨팅도 대출 담보로…월가의 실험 VS 도박[박신영의 개장전 요것만]",
-    "summary": [
-      "반도체와 컴퓨팅도 대출 담보로…월가의 실험 VS 도박[박신영의 개장전 요것만]."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n3725c291",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081123122210004",
-    "title": "임성재, 페덱스컵 랭킹을 올려라…\"최종전까지 가겠다\"",
-    "summary": [
-      "임성재가 페덱스컵 랭킹 올리기에 나선다.",
-      "그는 13일(한국시간) 미국 테네시주 멤피스의 TPC 사우스윈드(파70)에서 열리는 미국프로골프(PGA) 투어 페덱스컵 플레이오프 1차전 페덱스 세인트 주드 챔피언십(총상금 2000만 달러)에 출전한다.",
-      "정규 시즌 마지막 대회 윈덤 챔피언십이 끝난 뒤 페덱스컵 랭킹 상위 70위 안에 든 선수들은 플레이오프 시즌의 여정을 시작한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1c2ccae8",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/K-TECH Global Leaders/article/all/20260812/134461723/1",
-    "title": "삼성SDI, 美 GM과 합작 종료… 차세대 각형 배터리 공동개발협약 체결",
-    "summary": [
-      "삼성SDI가 미국 완성차 기업 제너럴모터스(GM)와 전기차 시장 변화에 대응하기 위해 기존 합작 체제를 종료하고 새로운 형태의 전략적 기술 협력을 추진하기로 했다.",
-      "현재 건설 중인 합작법인 배터리 공장은 지분 거래를 통해 삼성SDI 100% 소유 단독 공장으로 전환하기로 했다.삼성SDI는 배터리 합작법인 ‘시너지셀즈(SynergeCells)’의 GM 측 지분 전량(49.99%)을 인수하고 소유권을 이전받기로 했다고 11일 밝혔다.시너지셀즈는 삼."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n0c185155",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812000300072",
-    "title": "미 7월 주택거래 감소…대출금리 상승 영향",
-    "summary": [
-      "(뉴욕=연합뉴스) 이지헌 특파원 = 미국의 주택담보대출 금리가 상승 흐름을 보이면서 지난달 미국 내 주택 거래가 감소한 것으로 나타났다."
-    ],
-    "chips": [
-      "#금리"
-    ]
   }
 ];
 
@@ -639,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
