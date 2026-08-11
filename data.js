@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-11 08:02:44
+// 마지막 업데이트: 2026-08-11 09:50:10
 window.NEWS_DB = [
   {
     "id": "ndc68ab8a",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTaHZuYlVlRmo2QjNmQ3IzeXFRWXhBbGdHbklZZnYxNlFUSzEtekFsam95aW5tNlc1RjQzMWxvWUsxWndyc2Q2RGtFSXk2ZVpSX2VnUVo4WUtKeEdOTHpsak94SkZYcFRxNDV1dF80X2NYN2s?oc=5",
     "title": "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "n41e728be",
     "category": "IT",
     "source": "디지털투데이",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUFZkU2dzOVF0TXNXR0pLUnUwdnRKUUtNZDBvdkhDNTNuMVdtTHowNHpzZDVuWC1lYTVkWHpJeE9rQzJRVUtXSnVPdktkTE9TZVViN0F5LUhRTGVrNnkxeVB2aFZrQWg5SllZbExseTkxOEE?oc=5",
     "title": "中 최상위 AI도 여전히 엔비디아에 종속…자국 칩 전환 늦어지는 이유는",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nc5f664d4",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzY1WndWZEcyd1ZUWWxzeGExbGlFVVdhYy0yNUlSOGd6OHVCQVl5X2M2YUNwU0NKTHhQbHJoSThXR2pLWWFiT2N5Q3NVdGtGc3lxaDFlejdlVVd0S21fNGpLMzh1dENXemxVdlMtSzlQWHlqdkRaaHdkbktQdDRZc01sdWdBV3Bk?oc=5",
     "title": "\"국산 칩으로 바꾸면 개발비 50% 폭증\"… 中 AI 개발사, 여전히 엔비디아 칩으로 훈련",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n757759c6",
     "category": "IT",
     "source": "블록체인투데이",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
     "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
     "summary": [
@@ -66,12 +66,12 @@ window.NEWS_DB = [
   {
     "id": "n3485421d",
     "category": "IT",
-    "source": "sedaily.com",
-    "time": "1일 전",
+    "source": "서울경제",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUWl0VGozOC1JdmkxejBSMVZlWUcxNmZfRzNDTjNMNkgzcDNzV3Q4dGd1V3JNakRUbWxnQ09pVkhIX041NkFxdXRxVGJqaUFmOUHSAVNBVV95cUxQX0Jjbl9aYzUwcjYyZ0hiTWh0aXVJN054Y241QWRuTUswS0NwaWJNUDBFUzl6MnVHZmVFamFUOC1MMGVRMWRsYS03bUNoeGt4TkQySQ?oc=5",
     "title": "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨",
     "summary": [
-      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 sedaily.com."
+      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 서울경제."
     ],
     "chips": [
       "#반도체"
@@ -95,12 +95,12 @@ window.NEWS_DB = [
   {
     "id": "nee123c1c",
     "category": "사회",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQWFtVWtrb3VLTDRqUnZGZHJWRFhJOUFTNkNqX3JIODZoOWdCbE5Zb2tlOEJ0dkloeGIwd1hZdmtpSEp2dFdBOUUzczJJaXk3NURLWmxoNktCUdIBWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG0?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
-      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 ajunews.com."
+      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 아주경제."
     ],
     "chips": [
       "#AI",
@@ -149,20 +149,6 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n8ba4b4fa",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lNHJLZzhEdGREMDBvNktGLTdtQ1A4ZEFZaTVDYnA1clN0OE40Nm9hQkE0T0RaeGJfZHdXV3lJNFdrNWhEN08wZEFuRHRQU3pDYktvQ0w1dnNFemcwMnhIMWZMMm9TOXPSAWxBVV95cUxQaV8tWDFiNGs5QUE2WERwaE5JRmRjbDMta2twQlYtcXlhTF9GYTVRNHlTeDdzUGhGa0V6MkhrcDY2QlgtUXlCdWVDUXVVQ25FSkh1ek1OU1U4OXBBbkJMdkdtLUZOQ0EtZkhjSVA?oc=5",
-    "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이",
-    "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -268,6 +254,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n37646dcf",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "75일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "summary": [
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -311,6 +311,54 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0ebf7aba",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154214",
+    "title": "글로벌 시장 평정한 펄어비스 깜짝 실적...붉은사막 DLC·스위치2로 장기 흥행 노린다",
+    "summary": [
+      "펄어비스가 '붉은사막'의 글로벌 흥행을 앞세워 2분기 호실적을 달성했다.",
+      "신작 매출이 전체 실적을 견인한 가운데 해외 매출 비중도 90%를 넘어섰다.",
+      "펄어비스는 붉은사막의 장기 흥행을 위해 DLC와 플랫폼 확장 등을 추진하며 글로벌 시장 공략을 이어갈 방침이다.펄어비스는 올해 2분기 영업이익이 676억원을 기록해 전년 동기 대비 7389% 증가했다고 11일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb165558",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154213",
+    "title": "리니지 넘어 모바일 캐주얼로 뛰는 엔씨...'저스트플레이' 앞세워 글로벌 플랫폼 도약(종합)",
+    "summary": [
+      "엔씨가 핵심 지식재산권(IP)인 '리니지' 중심에서 벗어나 모바일 캐주얼 사업을 새로운 성장동력으로 키우고 있다.",
+      "지난해 인수한 모바일 캐주얼 게임 플랫폼 '저스트플레이'의 성장세가 가파른 가운데 자체 스튜디오를 넘어 외부 개발사까지 플랫폼에 합류시키는 전략도 본격화한다.",
+      "인공지능(AI)을 활용한 게임 개발을 통해 모바일 캐주얼 사업을 글로벌 플랫폼 사업으로 확장한다는 구상이다.엔씨는 올해 2분기 연결 기준 영업이익이 1739억원을 기록해 전년."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n4ce182e7",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154210",
+    "title": "삼성전자 \"폴더블폰·게임 모니터 기술력 직접 확인하세요\"",
+    "summary": [
+      "삼성전자가 전시를 통해 고객 확대에 나섰다.",
+      "7년 동안 축적한 폴더블(접는)폰 기술력을 한 자리에서 확인할 수 있는 기회를 만들었다.",
+      "게임 축제에 참가해 모니터 등 삼성전자의 게임 설루션을 소개하는 자리도 마련했다.11일 삼성전자는 폴더블폰과 게임 고객 접점을 늘린다고 밝혔다.삼성전자는 이날 서울 강남구 삼성 강남에 '폴더블 해리티지'를 개설했다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "n2a3a7a06",
     "category": "IT",
     "source": "테크M",
@@ -327,305 +375,262 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n27e69b8c",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154205",
-    "title": "쏘카, 2개 분기 연속 흑자 달성...'쏘카 더 넥스트' 드라이브 건다",
-    "summary": [
-      "쏘카가 이용자 중심 서비스 확대와 사업 다각화에 힘입어 2분기 실적 성장세를 달성했다.",
-      "이에 힘입어 하반기에도 인공지능(AI)과 풀스택 모빌리티, 자율주행을 중심으로 미래 성장 동력을 구체화하며 성장세를 이어간다는 방침이다.11일 쏘카가 2분기 매출 1210억원, 영업이익 68억원으로 각각 전년 동기 대비 23%, 271% 성장했다고 밝혔다.",
-      "별도기준으로는 매출 1152억원, 영업이익 88억원, 당기순이익 90억원을 기록하며 2개 분기 연속 순."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nacc91f1f",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154208",
-    "title": "시프트업, 2분기 영업이익 281억원...'니케' 롱런 속 '스텔라 블레이드' 차기작 준비 '착착'",
-    "summary": [
-      "시프트업이 지난 2분기 시장 기대치를 충족시킨 성적표를 받았다.",
-      "스테디셀러로 자리매김한 '승리의 여신: 니케'가 건재함을 과시했고, 스텔라 블레이드는 차기작을 공개하며 게이머들의 기대감을 증폭시켰다.",
-      "시프트업은 11일 매출 557억원, 영업이익 281억원을 기록했다고 공시했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6f50074e",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154206",
-    "title": "진화 거듭하는 스마일게이트 '크로스파이어'...국민 FPS 넘어 글로벌 핵심 IP로 확장",
-    "summary": [
-      "'크로스파이어', '로스트아크', '에픽세븐', '카오스 제로 나이트메어'까지.",
-      "스마일게이트가 다양한 IP의 글로벌 흥행에 성공하며 세계적 인지도를 가진 게임 기업으로 성장했다.",
-      "이 중 핵심 IP는 크로스파이어다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00f74fdd",
+    "id": "n8f2f0e3d",
     "category": "사회",
     "source": "동아일보",
-    "time": "방금 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260811/134458804/2",
-    "title": "20대 지적장애 여성 성폭행해 출산까지…60대 중소기업 전 임원 구속영장 신청",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260811/134460262/1",
+    "title": "황정민 스토킹 혐의 40대에 檢, 벌금 1000만원 구형",
     "summary": [
-      "경찰이 지적장애인인 20대 여직원을 수차례에 걸쳐 성폭행한 혐의를 받는 60대 중소기업 전 임원에 대해 사전 구속영장을 신청했다.인천경찰청 여성청소년범죄수사계는 성폭력범죄의 처벌 등에 관한 특례법상 장애인 준강간 혐의로 이 남성에 대한 사전 구속영장을 신청했다고 11일 밝혔다.이 남성은 지난해 여름부터 올해 6월까지 지적장애가 있는 20대 여성을 여러 차례 성폭행한 혐의를 받는다.",
-      "피해 여성의 부모는 결혼을 하지 않은 딸이 임신을 하자 딸에게."
+      "배우 황정민을 스토킹한 혐의 등으로 불구속 기소된 40대 여성에 대해 검찰이 벌금 1000만 원을 선고해달라고 재판부에 요청했다.",
+      "11일 의정부지법 고양지원 형사4단독(부장판사 김영아) 심리로 진행된 결심 공판에서 검찰은 “범행 기간이 장기간인 점, 일방적인 연락 횟수가 과도히 많은 점, 피해자가 엄벌을 탄원한 점 등을 고려했다”며 이같이 밝혔다.",
+      "반면 40대 여성 측 변호인은 무죄를 주장했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb7fab265",
-    "category": "경제",
+    "id": "na0b88046",
+    "category": "스포츠",
     "source": "아시아경제",
     "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026081114281402348",
-    "title": "함안군, 폭염·가뭄 장기화에 선재적 대응",
+    "url": "https://view.asiae.co.kr/article/2026081118472686582",
+    "title": "고양시·고양산업진흥원, 미래산업 실행전략 머리 맞댔다",
     "summary": [
-      "경남 함안군이 연일 이어지는 폭염과 가뭄으로부터 군민의 안전과 농업 피해를 최소화하기 위해 전 행정력을 집중하고 있다.",
-      "차석호 함안군수는 8월 3일부터 7일까지 예정돼 있던 휴가 일정에도 불구하고 잇따라 휴가를 반납하고 가뭄 현장점검과 폭염·가뭄 대책회의를 직접 챙기는 등 대응에 나섰다고 11일 밝혔다.차 군수는 휴가 첫날인 지난 3일 기우제 참석에 이어 관내 소류지 등 가뭄 현장을 직접 살피며 농업용수 확보 상황."
+      "경기 고양특례시(시장 민경선)와 고양산업진흥원이 민선 9기 미래산업 정책의 실행력을 높이기 위한 조직 혁신과 핵심사업 추진 전략 마련에 나섰다.",
+      "고양시는 지난 10일 창조혁신캠퍼스 성사에서 시 미래산업과와 고양산업진흥원 직원 40여 명이 참석한 가운데 '민선 9기 미래산업 발전 정책 워크숍'을 개최했다고 11일 밝혔다.",
+      "이번 워크숍에서는 시와 진흥원이 보유한 시설·예산·인력을 효율적으로 활용하고, 미래산업 분야 핵."
     ],
     "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
-    "id": "n2ee924ce",
-    "category": "경제",
+    "id": "na2694c86",
+    "category": "사회",
     "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260811/134457801/1",
-    "title": "롯데그룹, TPG에 롯데렌탈 매각…1조3000억원 규모",
-    "summary": [
-      "롯데그룹이 국내 렌터카 1위 업체인 롯데렌탈을 미국계 사모펀드(PEF)인 텍사스퍼시픽그룹(TPG)에 매각한다.",
-      "올해 1월 공정거래위원회의 기업 결합 불허로 홍콩계 PEF 어피니티에쿼티파트너스(어피니티)에 롯데렌탈을 매각하는 거래가 무산된 지 7개월 만이다.11일 업계에 따르면 롯데렌탈 최대주주와 2대주주인 호텔롯데와 부산롯데호텔은 이날 이사회를 열고 롯데렌탈 지분을 TPG에 매각하기 위한 주식매매계약(SPA)을 체결했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29fc174a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/special/2026/08/11/KRBUZTNXDZEURIF45DOOZZSBJQ/",
-    "title": "몸속 천연 약국 ‘마이오카인’ 내뿜어라, 당뇨·치매 막아주리니...",
-    "summary": [
-      "몸속 천연 약국 ‘마이오카인’ 내뿜어라, 당뇨·치매 막아주리니...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n493e6108",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/kid/kid_literacy/kid_nature/2026/08/11/PSQ5DIRAYVD3PDBRTGFEALFQJM/",
-    "title": "왜 티라노사우루스는 고양이만 한 새끼를 30마리씩 낳았을까?",
-    "summary": [
-      "왜 티라노사우루스는 고양이만 한 새끼를 30마리씩 낳았을까?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e1dbd12",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/kid/kid_science/kid_science-knowledge/2026/08/11/7MEO5P65VVCBRBORAUS7YJHWTY/",
-    "title": "바다가 더 뜨거워지자 태풍 3개가 동시에...",
-    "summary": [
-      "바다가 더 뜨거워지자 태풍 3개가 동시에...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne5d332b3",
-    "category": "사회",
-    "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003744937",
-    "title": "산림청, 새만금수목원 조성 현장서 '온열질환 예방 점검'",
+    "url": "https://www.donga.com/news/It/article/all/20260811/134460124/1",
+    "title": "비염은 평생 달고 살아야 하나요?…놓치면 안 되는 위험 신호[입담처방]",
     "summary": [
-      "[대전=뉴시스] 김양수 기자 = 산림청은 폭염 속 안전사고 예방을 위해 국립새만금수목원 조성사업 현장의 근로환경 관리실태를 점검하고 폭염·폭우 대비 근로자 행동요령 교육을 실시했다고 11일 밝혔다.",
-      "이날 산림청은 시공사와 감리단을 대상으로 사업장 내 휴게시설과 응급구급약품 비치 여부, 폭염 대응 행동요령 교육 실시 여부, 고온 시간대 작업 여부 등을 중점적으로 점검했다.",
-      "특히 구급약품과 식염수 비치, 그늘막과 선풍기 등 휴게시설 설치와 근로자."
-    ],
-    "chips": [
-      "#교육",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n30db1f1a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003744948",
-    "title": "인천세종병원, 개원의 연수강좌 개최…필수 진료 최신 지견 공유",
-    "summary": [
-      "[인천=뉴시스] 함상환 기자 = ·인천세종병원은 22일 오후 병원 지하 1층 비전홀에서 '2026년 제4회 개원의 연수강좌'를 개최한다고 11일 밝혔다.",
-      "이번 연수강좌는 '개원가에서 꼭 알아야 할 필수 진료 업데이트'를 주제로 지역 개원의들이 진료 현장에서 자주 접하는 질환을 중심으로 최신 치료 지견을 공유하고 지역 내 병·의원 간 진료협력체계를 강화하기 위해 마련됐다.",
-      "강좌는 총 2개 세션, 6개 강의로 구성된다."
+      "흔히 “비염은 평생 달고 살아야 한다”고 생각하기 쉽습니다.",
+      "비염은 정말 완치가 불가능한 질환일까요.이번 주 유튜브 채널 ‘건강IN으로’의 ‘입담처방’에서는 급성·만성 비염의 차이부터 비염의 종류, 치료법과 일상 속 관리법까지 신광철 미래이비인후과 원장과 자세히 짚어봤습니다.비염은 코 점막에 염증이 생긴 상태를 말합니다.",
+      "콧물, 코막힘, 가려움, 재채기 가운데 한 가지 증상만 있어도 비염에 해당할 수 있습니다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nb78ac24f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811143200030",
-    "title": "쏘카, 2분기 영업익 68억원으로 271% 증가…순이익 흑자전환",
+    "id": "nb552823f",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026081118453882699",
+    "title": "서울 가양동 아파트 화재로 주민 추정 母子 심정지…화단서 발견",
     "summary": [
-      "(서울=연합뉴스) 구정모 기자 = 쏘카[403550]가 카셰어링 이용 증가와 주차 플랫폼 사업 성장에 힘입어 올해 2분기 영업이익이 작년 같은 ..."
+      "서울 강서구 가양동 아파트에서 불이 나 모자 관계인 2명이 심정지 상태로 발견됐다.",
+      "11일 소방당국에 따르면 이날 오후 4시55분께 가양동 아파트 15층 한 세대에서 화재가 발생했다.",
+      "이 아파트 화단에서는 모자관계인 30대 남성 1명과 60대 여성 1명 등 2명이 심정지 상태로 발견됐다."
     ],
     "chips": [
-      "#뉴스"
+      "#부동산"
     ]
   },
   {
-    "id": "nd06bfe2a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811141400061",
-    "title": "갯벌 빠져 고립된 말, 40여분 만에 가까스로 구조돼",
-    "summary": [
-      "(평택=연합뉴스) 김지원 기자 = 갯벌에 빠져 꼼짝 못 하던 말이 해경 대원들에 의해 밀물이 들어오기 전 무사히 구조됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00ea19fb",
+    "id": "n7f809c2f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003744944",
-    "title": "국회 외통위 후반기 첫 회의…與 간사 홍기원 野 간사 김대식",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003744777",
+    "title": "김건희 측 \"정신과 약 복용해 기억 안 나는데…특검이 기억 강요\"",
     "summary": [
-      "[서울=뉴시스]김지훈 기자 = 국회 외교통일위원회는 11일 후반기 국회 첫 전체회의를 열어 간사 선임의 건 및 소위원회 구성의 건을 의결했다.",
-      "여당 간사에는 홍기원 더불어민주당 의원을, 야당 간사에는 김대식 국민의힘 의원을 선임했다.",
-      "송석준 위원장은 \"국제관계가 급변하는 상황 속에서 국민의 생명을 지키고 국가안보를 유지하면서 한반도 평화를 정착시키기 위해서는 외교의 중요성이 그 어느 때보다 크다\"라며 \"외교정책과 남북문제를 논의하는 과정에서 여."
+      "[서울=뉴시스]서이현 인턴 기자 = 김건희 여사 측 변호인이 김 여사가 정신과 약을 복용해 기억이 잘 나지 않는다고 호소했음에도 특검이 같은 질문을 반복했다며 반발했다.",
+      "11일 유정화 변호사는 자신의 사회관계망서비스(SNS)에 전날 서울중앙지법 형사합의22부(재판장 조형우 부장판사) 심리로 열린 김기현 국민의힘 의원 부부 청탁금지법 위반 사건 공판 상황을 올렸다.",
+      "해당 공판에는 김 여사가 증인으로 출석했다."
     ],
     "chips": [
-      "#정책",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n28886d16",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/GVSGMOBYHEZTKYJUMU4DINJVGA/",
+    "title": "정해인도 '엿사랑' 인터뷰 줄취소 [공식]",
+    "summary": [
+      "[OSEN=김나연 기자] 배우 정해인의 '이런 엿같은 사랑' 인터뷰가 취소됐다.11일 넷플릭스 시리즈 '이런 엿같은 사랑'(이하 '엿사랑' 측은 OSEN에 \"오는 14일(금) 예정된 정해인 배우 인터뷰는 부득이하게 취소되었습니다\"라며 \"너른 양해 부탁드립니다\"라고 전했다.당초 '이런 엿같은 사랑' 측은 오는 14일 하루동안 취재진들을 불러 주연 배우 정해인."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e6788d5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745134",
+    "title": "'100만 당원 슈퍼위크' 宋·鄭·金, 호남서 당심 구애",
+    "summary": [
+      "[서울=뉴시스] 김난영 신재현 권신혁 기자 = 더불어민주당 8·17 전당대회 당권 주자인 송영길·정청래·김민석(기호순) 후보가 100만 명 이상의 권리당원을 상대로 한 3주 차 순회경선을 앞두고 일제히 호남 민심 잡기에 나섰다.",
+      "송 후보는 11일 전남광주 고흥 분청문화박물관과 동구 서석동을 찾아 결의대회 등 일정을 소화했다.",
+      "송 후보는 호남 출생으로, 당 최대 텃밭인 호남권 순회경선에서 누적 한 자릿수의 득표율 상향 반전을 기대 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n42aaab47",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811136651002",
+    "title": "코빗, '디지털엑스'로 상호 변경…서비스명은 추후 변경(종합)",
+    "summary": [
+      "(서울=연합뉴스) 박수현 기자 = 주식회사 코빗이 11일 법인명을 디지털엑스 주식회사로 변경했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na449b0b6",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745131",
+    "title": "국토부 장관 \"오세훈 서울시장 요구 적극 검토…다시 만날 것\"",
+    "summary": [
+      "[서울=뉴시스] 변해정 기자 = 김윤덕 국토교통부 장관은 11일 오세훈 서울시장과 재차 만나 주택 공급 확대를 위한 협의에 나설 뜻을 밝혔다.",
+      "김 장관은 이날 오후 국회 국토교통위원회 전체회의에서 더불어민주당 윤종군 의원이 서울시와 협의가 원활히 잘 되고 있냐고 묻자 \"상당 부분 의견 접근을 보고 있다고 생각하고 조정하고 있다\"고 답했다.",
+      "그는 다만 \"오 시장은 좀 그렇지 않으신 것 같다\"면서 \"오 시장이 요구하시는 문제에 대해 국토부 차원에서."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "na4437e9b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811142300704",
-    "title": "[쇼츠] 가까이 보려고 4m 앞까지 접근하자…뿔로 들이받고 위협적 눈빛",
-    "summary": [
-      "(서울=연합뉴스) 5일(현지시간) 폴란드 매체 TVP 등에 따르면 폴란드 비아워비에자 숲 근처에서 지난 3일 한 관광객이 야생 들소에게 지나치게..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na65be22b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260811_0003744938",
-    "title": "교회 '아동학대치사' 동네 주민 \"아이 도와달라했는데 안타까워\"",
-    "summary": [
-      "[천안=뉴시스]최영민 기자 = 지난 5일 오후 8시 49분께 고열과 의식저하 증세를 보여 119 구급대에 의해 병원으로 옮겨졌지만 숨진 11세 A군이 지내던 천안시 성거읍의 교회 주변은 적막함만 가득했다.",
-      "주민들은 아이의 죽음에 안타까움을 표시했다.",
-      "11일 뉴시스 취재를 종합하면 이날 오후 취재진이 방문했던 교회 앞은 주변을 취재하려는 일부 언론사 취재진들만 보일 뿐 고요한 모습이었다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n04c3625d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/11/GOGRCAJGEZEGLI5Y7K7WZEFX3U/",
-    "title": "1년째 인천공항 사는 10살 아동…인권위 “기본권 침해”",
-    "summary": [
-      "1년째 인천공항 사는 10살 아동…인권위 “기본권 침해”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbe74a012",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260811143900007",
-    "title": "서울시립대 총장배 K-필라테스 콘테스트, 9월 19일 개막",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 2026 제2회 서울시립대학교 총장배 K-필라테스 콘테스트가 다음 달 19일 서울시립대 100주년 기념관 국제..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n8fad46c7",
+    "id": "n730d9457",
     "category": "경제",
     "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026081114385862092",
-    "title": "창녕문화예술회관, '다시 돌아온 동춘서커스' 공연 무료 개최",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026081118402770607",
+    "title": "강원랜드, 성인지 감수성 높인다…인권위 상임위원 초청 특강",
     "summary": [
-      "'다시 돌아온 동춘서커스' 공연을 무료로 개최한다.",
-      "경남 창녕군은 오는 9월 2일 오후 7시 30분 창녕문화예술회관 대공연장에서 공연을 무료로 개최한다고 밝혔다.",
-      "이번 공연은 문화체육관광부 공모사업인 '2026 구석구석 문화가 있는 날' 프로그램이다."
+      "강원랜드가 임직원의 성인지 감수성을 높이고 양성평등한 조직문화를 조성하기 위해 특별강연을 열었다.",
+      "강원랜드 감사위원회(상임감사위원 안광복)는 11일 하이원 그랜드호텔 컨벤션홀에서 오영근 국가인권위원회 상임위원을 초청해 인권·양성평등 특별강연을 개최했다고 밝혔다.",
+      "이번 강연은 9월 첫째 주 양성평등주간을 앞두고 조직 내 성인지 감수성을 높이고 인권 존중 문화를 확산하기 위해 마련됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfd12a099",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260811/134458362/1",
-    "title": "“AI시대 요구되는 역할 모색”…40여개국 국립도서관장 모여 ‘부산선언’",
+    "id": "n63ab3b7e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260811_0003745122",
+    "title": "국힘 \"李 호남 반도체 속도전, 與 전당대회 일정 맞춘 '정치적 계산'\"",
     "summary": [
-      "“세계 국립도서관이 인공지능(AI) 시대에 요구되는 새로운 역할을 함께 모색하고 이를 공동의 과제로 논의했다는 점에서 이번 회의의 의미가 큽니다.”남영준 국립중앙도서관장은 11일 ‘2026 세계도서관정보대회(WLIC)’와 연계해 마련된 ‘2026 국립도서관장회의(CDNL)’에서 AI 시대 정보환경 구축을 위한 공동 원칙을 담은 ‘부산선언’을 제안하며 이렇게 말했다.CDNL은 1974년 설립된 세계 국립도서관장들의 협의체로, 매년 정기회의를 연다."
+      "[서울=뉴시스] 우지은 전상우 기자 = 국민의힘은 11일 이재명 대통령이 '호남 반도체 클러스터' 속도전을 강조하며 2028년 중순까지 광주 군공항의 기능을 다른 군공항으로 임시 배치할 것을 주문한 데 대해 \"국가의 대사를 정권의 정치 이벤트로 전락시킨 무모하고 오만한 발상\"이라고 했다.",
+      "박충권 수석대변인은 이날 논평을 내고 \"광주 군 공항기지 이전에 따른 안보 공백 우려가 가중되고 있음에도 청와대는 '미국과 잘 협의할 예정'이라는 한가한 낙관."
     ],
     "chips": [
-      "#AI",
-      "#환경"
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n843d8518",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260811/134460182/1",
+    "title": "서울 아파트 15층서 화재…화단서 엄마와 아들 심정지 상태 발견",
+    "summary": [
+      "서울 강서구 가양동의 한 아파트에서 불이 나 2명이 심정지 상태로 발견됐다.11일 경찰과 소방 당국에 따르면 이날 오후 4시 55분경 서울 강서구 가양동의 한 아파트 15층 세대에서 불이 났다.소방 당국은 불이 난 지 약 24분 만인 오후 5시 19분경 큰 불길을 잡았다.하지만 이 과정에서 30대 남성 1명과 60대 여성 1명이 아파트 화단에서 심정지 상태로 발견됐다.",
+      "이들은 모자(母子) 관계인 것으로 알려졌다.",
+      "다만 아파트 입주민인지는 확인되."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n9000b42f",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811157100002",
+    "title": "정부, 비축유 스와프 곧 재가동·나프타 수급안정화 조치 연장",
+    "summary": [
+      "(세종=연합뉴스) 이세원 기자 = 정부는 중동 전쟁의 영향이 이어지면서 석유 공급망이 불안정해지는 것에 대응해 대체 물량 도입을 촉진하고, 비축..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44b9df00",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/08/11/JBIPXHWACJEDRLR2JGGOFAUGMQ/",
+    "title": "‘항공사 기장 살해’ 김동환… 검찰, 무기징역 구형",
+    "summary": [
+      "‘항공사 기장 살해’ 김동환… 검찰, 무기징역 구형."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1cfc12f4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811156600051",
+    "title": "검찰, '항공사 동료 기장 살해' 김동환에 무기징역 구형",
+    "summary": [
+      "(부산=연합뉴스) 차근호 기자 = 항공사에서 함께 근무했던 동료 기장 등 6명을 살해 대상으로 삼아 계획을 세우고 실제로 1명을 살해한 혐의로 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5b9e8b1c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260811/134460176/1",
+    "title": "‘채상병 순직’ 임성근, ‘징역 3년’ 항소심에 불복 상고",
+    "summary": [
+      "수몰 실종자 수색 작전 중 숨진 고(故) 채수근 상병 순직 사고의 책임자로 지목돼 항소심에서 징역 3년을 선고받은 임성근 전 해병대 1사단장이 판결에 불복해 상고했다.11일 법조계에 따르면 임 전 사단장은 이날 서울고법 형사4-3부(부장판사 전지원 김인겸 성지용)에 상고장을 제출했다.함께 기소된 박상현 전 해병대1사단 제7여단장(대령)과 최진규 전 해병대 1사단 포병여단 포11대대장(중령) 측도 상고했다.",
+      "이들은 항소심에서 각각 금고 1년 6개."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naca6c541",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260811156400017",
+    "title": "JW중외제약 \"통풍 신약 3상 성공…내년 국내 허가 목표\"",
+    "summary": [
+      "(서울=연합뉴스) 신선미 기자 = JW중외제약[001060]은 통풍 치료제 후보물질 '에파미뉴라드'의 다국가 임상 3상에서 유효성을 확인해 국내..."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -635,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
