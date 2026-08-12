@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-12 19:56:19
+// 마지막 업데이트: 2026-08-12 20:33:14
 window.NEWS_DB = [
   {
     "id": "n6438bfa5",
     "category": "IT",
-    "source": "donga.com",
-    "time": "4시간 전",
+    "source": "동아일보",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GcktYQy1zeEJaTnNMYzNvTG5NWWRWOWpoZVNmaTk2Z1VjLXdjWFpHWUFxZGk0dEFHaHM5NFNHTWtxZnZiTkk2SVlFM0NaZEtCWGJoSkdEQ2l3cEZUd1dPeW9MWkJTN0ZDRFJPZk5VVGtrQnJOc0HSAWZBVV95cUxQX1lNQnktbm4wdlJFWEdhS09rb0RlZFRTbW1Nb3hBYzc3TFRZZzNxcGM5MDkzV0d6QktRT2Y5X1o0bThJVHU1X19jZkpIVUNPVjhrTFN3cnlmVTVNRlE5ZVIzeXh1MFE?oc=5",
     "title": "“엔비디아, ‘1조 매개변수’ 오픈소스 AI 개발중”",
     "summary": [
-      "“엔비디아, ‘1조 매개변수’ 오픈소스 AI 개발중” donga.com."
+      "“엔비디아, ‘1조 매개변수’ 오픈소스 AI 개발중” 동아일보."
     ],
     "chips": [
       "#AI",
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "naf4162e7",
     "category": "IT",
     "source": "뉴시스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBRedIBeEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBReQ?oc=5",
     "title": "SK하이닉스는 HBM 설계, 삼성전자는 美테일러 인력…반도체 인재채용 '러시'",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nb0ebb4db",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xaFpJNlI5dEFZQVY3NTN2Uzl3UFcyOUl1dUZkZFhHVHkzMFBjMV9JVS1JTV90WXZfRVdycC1zNk9YbktCSkhKZjZ4Z1hYSHA3VmZ1T0JXUFpxbnBweWNZOFJ5bWVxWUJ3QS15bWpDUGRsOEk?oc=5",
     "title": "젠슨 황 '엔비디아 반도체 담보대출' 승부수, AI 투자 판 키워 리스크도 나눈다",
     "summary": [
@@ -171,12 +171,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
     ],
     "chips": [
       "#취업",
@@ -257,12 +257,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "75일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -313,10 +313,199 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na3da5824",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003746948",
+    "title": "대구·경북 다시 34도 무더위…곳곳 최대 40㎜ 소나기",
+    "summary": [
+      "[대구=뉴시스]정재익 기자 = 13일 대구·경북은 낮 기온이 34도까지 오르며 다시 무덥겠다.",
+      "지역 곳곳에는 비 또는 소나기가 내리겠다.",
+      "대구지방기상청은 이날 \"대구·경북은 가끔 구름 많고 경북 동해안은 대체로 흐리겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0c6d11b1",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003746949",
+    "title": "진주시, 건강 올리고 사업…'비만예방 기대'",
+    "summary": [
+      "[진주=뉴시스] 정경규 기자 = 경남 진주시는 오는 14일 진주생활체육관에서 지역아동센터 아동·청소년과 관계자 등 300여명이 참여하는 '건강 올리고! 뛰고! 달리고! 운동회'를 연다고 13일 밝혔다.",
+      "이번 행사는 진주시보건소와 KSPO 스포츠가치센터가 협력해 추진하는 사업으로 아동·청소년의 신체활동 참여를 확대하고 건강한 생활 습관을 형성하기 위해 마련됐다.",
+      "'건강 올리고 사업'은 진주시보건소 공모 사업에 KSPO 스포츠가치센터가 2년 연속."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb1c90644",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260810_0003743478",
+    "title": "[오늘의 주요일정]국토교통부(8월13일 목요일)",
+    "summary": [
+      "[서울=뉴시스] ◇장관 ▲통상일정 ◇1차관 ▲통상일정 ◇2차관 ▲통상일정 ◇대도시권광역교통위원장 ▲통상일정."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2bb44af4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746566",
+    "title": "[오늘의 주요일정]해양수산부(8월13일 목요일)",
+    "summary": [
+      "[서울=뉴시스] ◇장관 ▲16:30 해양수도권 조성 및 공동 투자유치를 위한 상생협약(부산) ◇차관 ▲10:00 차관회의(서울)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2e22fb35",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/money/2026/08/13/42QYGD7RQNCJDFRCYIIAHQEXRY/",
+    "title": "자녀에게 100만원 넘기는 데 세금 65만원, 국세청이 허락한 덜 뜯기는 법",
+    "summary": [
+      "자녀에게 100만원 넘기는 데 세금 65만원, 국세청이 허락한 덜 뜯기는 법."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2d7655b9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/13/LHG3ZTFHHZD75JMSFWUNF3NL5I/",
+    "title": "부쩍 침침해진 눈 건강 ‘루테인 지아잔틴’, 3개월 분 1만원대 특가",
+    "summary": [
+      "부쩍 침침해진 눈 건강 ‘루테인 지아잔틴’, 3개월 분 1만원대 특가."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc5d5022c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/13/CVCRCCTIQNFALKXKBRLMH7ISSA/",
+    "title": "고기 못 썰던 무딘 칼, 슥 갖다 대니 3초 만에 새 칼로 변신",
+    "summary": [
+      "고기 못 썰던 무딘 칼, 슥 갖다 대니 3초 만에 새 칼로 변신."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c65b5f3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/MFSGCOBZGQZGMNTBGA2GGOJRME/",
+    "title": "\"후손으로서 진심 사죄\"…하영, 증조부 친일 논란에 자필 사과문 [종합]",
+    "summary": [
+      "[OSEN=장우영 기자] 배우 하영이 증조부의 친일 행적에 대해 깊이 사과했다.하영은 12일 자신의 소셜미디어에 “증조부와 관련된 일들로 큰 실망과 상처를 안겨드린 점 고개 숙여 사과드립니다.",
+      "최근 증조부 안상호의 과거 행적을 접하며 가족의 역사를 무거운 마음으로 돌아보게 되었습니다”라고 사과했다.하영은 “가족을 통해 전해들은 이야기로 증조부의 삶을 단편적."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na39ae240",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813005200072",
+    "title": "뉴욕증시, 인플레 둔화 속 혼조 마감…S&P500지수 0.3%↑",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 7월 소비자물가지수(CPI) 상승률 둔화에 투자자들이 안도하면서 12일(현지시간) 뉴욕증시 주요 지수가 보합..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na3f64f81",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026081304474064981",
+    "title": "[속보]뉴욕증시, 7월 물가 둔화세 확인 후 혼조 마감",
+    "summary": [
+      "미국의 소비자물가지수(CPI)가 두 달 연속 둔화세를 나타내면서 12일(현지시간) 미국의 3대 지수는 혼조세로 마쳤다.",
+      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 0.04% 하락해 마감했다.",
+      "대형주 중심의 S&P500지수는 0.26%, 기술주 중심의 나스닥지수는 0.54% 오르며 장을 마무리했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf4f0ae7",
+    "category": "스포츠",
+    "source": "연합뉴스(경제)",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812157800001",
+    "title": "장동혁, 오늘 '뉴홈 대출조건 변경 논란' 신도시 현장 방문",
+    "summary": [
+      "(서울=연합뉴스) 조다운 기자 = 국민의힘 장동혁 대표는 13일 경기 고양 창릉 신도시 S4 공사 현장을 찾는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb966ebc8",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812154500001",
+    "title": "與, 오늘 의총서 부동산 세제 개편안·공급 방안 논의",
+    "summary": [
+      "(서울=연합뉴스) 정연솔 기자 = 더불어민주당은 13일 오후 의원총회를 열고 정부의 세제 개편안 및 부동산 공급 방안에 대해 논의한다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nd33352a1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812102100017",
+    "title": "[사이테크+] \"초기 우주서 '블랙홀 별' 포착…'작은 붉은 점' 비밀 단서\"",
+    "summary": [
+      "(서울=연합뉴스) 이주영 기자 = 빅뱅(Big Bang) 후 불과 수억 년밖에 지나지 않은 초기 우주에서 거대한 별처럼 보이지만 실제로는 초고밀..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n2673c213",
     "category": "사회",
     "source": "동아일보",
-    "time": "1분 전",
+    "time": "38분 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260813/134469290/1",
     "title": "100년 만에 찾아온 ‘우주쇼’…유럽 곳곳서 일식 장관",
     "summary": [
@@ -332,7 +521,7 @@ window.NEWS_DB = [
     "id": "n3e85d34c",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "7분 전",
+    "time": "44분 전",
     "url": "https://www.yna.co.kr/view/AKR20260813004600072",
     "title": "국제유가, 호르무즈 협상 교착속 보합권 마감…브렌트 89달러",
     "summary": [
@@ -343,57 +532,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb098a996",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/13/EHGP3RRMCRAZLGN4P325EU437A/",
-    "title": "3주 걸리던 3D 데이터 작업을 몇 초만에, 엔비디아가 반한 韓 스타트업 혁신 기술",
-    "summary": [
-      "3주 걸리던 3D 데이터 작업을 몇 초만에, 엔비디아가 반한 韓 스타트업 혁신 기술."
-    ],
-    "chips": [
-      "#엔비디아",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n8183cc06",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/13/GU4WCNBRMI3GEYLBMM4TSMLDHE/",
-    "title": "이렇게 황당한 일이 있나, 왜 LG는 울산 오카다 영입 발표 직전 무산됐나…이례적인 KBO의 공식 사과",
-    "summary": [
-      "[OSEN=한용섭 기자] 정말 황당한 일이 발생했다.",
-      "프로야구 LG 트윈스가 퓨처스리그 울산 웨일즈의 일본인 투수 오카다 아키타케를 영입에 합의했으나, 문제없다고 했던 KBO가 뒤늦게 규정 위반이라고 번복하면서 불발됐다.",
-      "LG는 아시아쿼터 투수 라클란 웰스가 어깨 부상을 당하며 대체 선수 영입에 나섰다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8a32f848",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/13/MQ3GKZRWMEYDCYJVGQZDONRSHE/",
-    "title": "\"한국서 14kg 쪘다\" 대체 뭘 먹었길래, KBO 역수출 최고 성공작…5년 만에 구속 5km 상승, 내년 연봉 '초대박' 예고",
-    "summary": [
-      "[OSEN=이상학 객원기자] 지난해 KBO리그 활약을 발판 삼아 메이저리그로 진출한 선수 중 최고의 역수출 성공작은 SSG 랜더스 출신 투수 드류 앤더슨(32·디트로이트 타이거스)이다.",
-      "한화 이글스의 한국시리즈 준우승을 이끈 코디 폰세(토론토 블루제이스)와 라이언 와이스(휴스턴 애스트로스)가 각각 부상과 부진으로 메이저리그에 없는 가운데 앤더슨이 풀타임 시."
-    ],
-    "chips": [
-      "#KBO",
-      "#수출"
-    ]
-  },
-  {
     "id": "n02b1128e",
     "category": "사회",
     "source": "아시아경제",
-    "time": "15분 전",
+    "time": "52분 전",
     "url": "https://view.asiae.co.kr/article/2026081304403660604",
     "title": "트럼프 'SNS 미리보기' 피소…\"수익 활용은 위헌\"",
     "summary": [
@@ -407,26 +549,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfb4075a1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003746956",
-    "title": "美국무부 \"원정출산 근절 TF 출범…전세계 개인 이력 검토\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 국무부가 도널드 트럼프 미 대통령 지시로 이른바 '출산 관광'을 근절하기위한 태스크포스(TF)를 출범했다고 12일(현지 시간) 밝혔다.",
-      "국무부는 이날 발표한 '출산 관광 종식 TF 출범' 팩트시트에서 \"미국 시민권의 무결성을 수호하고 비이민 비자가 합법적이고 본래 목적에 한해 사용되도록하며 출산 관광을 통한 비자 악용을 방지하기 위해 가능한 모든 수단을 사용할 것\"이라고 강조했다."
-    ],
-    "chips": [
-      "#전세",
-      "#정치"
-    ]
-  },
-  {
     "id": "nfe47f881",
     "category": "사회",
     "source": "동아일보",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260813/134468438/2",
     "title": "뒤집고 비틀어서 새롭게 펼친 세상",
     "summary": [
@@ -442,7 +568,7 @@ window.NEWS_DB = [
     "id": "n31a49e0e",
     "category": "사회",
     "source": "동아일보",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260813/134468434/2",
     "title": "“경주 월성 비석, 고구려군이 세워” vs “신라인의 작품”",
     "summary": [
@@ -458,7 +584,7 @@ window.NEWS_DB = [
     "id": "ne746eae6",
     "category": "사회",
     "source": "동아일보",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260813/134468430/2",
     "title": "대한제국 獨 공사관 실체, 120년만에 확인",
     "summary": [
@@ -471,40 +597,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n20f7ea0b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746796",
-    "title": "[오늘의 주요일정]제주(8월13일 목요일)",
-    "summary": [
-      "[제주=뉴시스] ▲오전 10시, 지역상권 육성사업(글로컬,유망골목상권) 사업협의회 회의, 서귀포시청 ▲오전 10시, 제주마생산사회 한국마사회 본사 제주이전 요청 기자회견, 제주도의회 도민카페 ▲오후 1시, 여름철 수상안전관리 현장점검, 행원리 코난 해변 등 ▲오후 2시, 올해 하반기 농지정보시스템 사용자 교육, 제주도청 탐라홀 ▲오후 2시, 제주특별자치도 민원조정위원회 회의, 제주도청 한라홀 ▲오후 3시, 제주 식도락 관광객 유치 조성사업 '제."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nd371640e",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746368",
-    "title": "다시 뛰는 금값…추가 상승 동력은 '북미 매수세'",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 금값이 온스당 4400달러를 넘어서며 상승세를 이어가는 가운데 북미 투자자들의 매수세가 추가 상승 동력으로 꼽힌다.",
-      "12일(현지시간) 미국 경제매체 비즈니스인사이더(BI)에 따르면 금 현물 가격은 이날 온스당 4400달러 안팎에서 거래됐다.",
-      "이달 들어 약 9% 상승한 수치다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n593e720a",
     "category": "사회",
     "source": "아시아경제",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026081304291656172",
     "title": "트럼프 \"호르무즈 완전 장악\"…실제 선박은 이란 항로로",
     "summary": [
@@ -517,38 +613,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n25c60b4f",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813003600091",
-    "title": "'AI올인' 구글, 딥마인드 일부조직 본사흡수…\"자율성보다 매출\"",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 모델 경쟁에서 오픈AI·앤트로픽에 뒤처졌다는 평가를 받는 구글이 AI 개발 산실인 딥..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nd210fa0e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813003700085",
-    "title": "\"일생 한번뿐인 기회\"…유럽 '세기의 일식 우주쇼'에 탄성",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 12일(현지시간) 저녁 유럽에서 달이 해를 가리는 일식 '천체 쇼'가 펼쳐지면서 곳곳에 몰린 시민과 관광객들..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nc504b794",
     "category": "IT",
     "source": "테크M",
-    "time": "44분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154257",
     "title": "방미통위, 인앱결제 제재 절차 개시...구글-애플 의견 청취",
     "summary": [
@@ -559,84 +627,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "nd94f12ae",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813002700071",
-    "title": "\"'요격 미사일 부족' 미군, 中과 분쟁시 전략적 패배 가능\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 이란 전쟁으로 요격 미사일 재고의 급격한 감소 사태에 직면한 미국이 중국과 분쟁이 벌어질 경우 전략적 패배..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1bf46f24",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "56분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/13/GM4TSNRQGQ2TIMBUHBSGENBRGA/",
-    "title": "\"아버지 없이 어떻게 살아야 할지 모르겠다\" 메시, 부친 떠나보내며 절절한 작별인사",
-    "summary": [
-      "[OSEN=정승우 기자] 리오넬 메시(39, 인터 마이애미)가 세상을 떠난 아버지 호르헤 메시를 향해 긴 작별 인사를 남겼다.",
-      "어린 시절부터 선수 생활 전반을 함께한 아버지를 떠나보낸 메시는 \"아빠 없이 무엇을 해야 할지 모르겠다\"라며 깊은 슬픔을 드러냈다.리오넬 메시는 지난 8일 오랜 투병 끝에 68세로 세상을 떠난 아버지 호르헤를 추모하는 긴 글을 자신."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd591b9c2",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154256",
-    "title": "AI는 행정망으로, 로봇은 화재현장으로...공공 AX 보폭 확대",
-    "summary": [
-      "공무원이 행정망 안에서 생성형 AI로 외부 정보를 검색하고 소방 현장에선 AI 운영체제(OS)를 탑재한 로봇이 위험 정보를 분석한다.",
-      "공공 분야의 디지털 기술 활용 범위가 사무실 밖까지 넓어지는 모습이다.공공 행정 정착한 네이버웍스 신기능 3종 추가12일 네이버클라우드는 공공 업무 협업툴 '네이버웍스'에 행정 특화 AI 기능을 추가했다고 밝혔다.",
-      "신규 기능은 회사가 오는 13일 개최하는 '공공 AX 전략 세미나'를 통해 공개된다."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n0ea9e209",
-    "category": "IT",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154252",
-    "title": "인증 획득하고 총판 붙이고...IT업계 '시장 뚫기' 총력전",
-    "summary": [
-      "국내 IT 기업들이 사업 기반 확대에 나서고 있다.",
-      "총판을 통해 유통망을 넓히고 공공시장 진입에 필요한 인증을 확보하는 등 제품 개발 이후 시장 확대를 위한 움직임이 이어지는 모습이다.판매·구축 파트너로 고객 접점 확대12일 한싹은 에스엠피플스와 통합보안설루션 4종에 대한 총판 계약을 체결했다고 밝혔다.",
-      "에스엠피플스는 한싹의 망간자료전송 '시큐어게이트', 패스워드 관리 '패스가드', 통합접근제어 '패스가드 AM', SSL 가시성 '블루킨 VA'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n255c3d33",
-    "category": "IT",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154254",
-    "title": "[카드뉴스] '리니지 회사' 엔씨가 달라졌다…캐주얼·AI·글로벌로 준비하는 새로운 미래",
-    "summary": [
-      "'리니지’와 MMORPG로 대표되던 엔씨가 새로운 성장판을 짜고 있습니다.",
-      "글로벌 신작을 늘리는 동시에 모바일 캐주얼과 퍼블리싱으로 장르를 넓히고, 저스트플레이를 중심으로 외부 개발사까지 연결하는 플랫폼 사업도 준비하고 있는데요.",
-      "여기에 AI까지 더해 게임 개발과 운영 방식 자체를 바꾸려는 엔씨‘리니지 회사’라는 익숙한 이미지에서 벗어나려는 엔씨의 다음 전략은 무엇일까요?."
-    ],
-    "chips": [
-      "#AI"
-    ]
   }
 ];
 
@@ -645,14 +635,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
