@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-12 18:46:18
+// 마지막 업데이트: 2026-08-12 19:56:19
 window.NEWS_DB = [
   {
     "id": "n6438bfa5",
     "category": "IT",
     "source": "donga.com",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GcktYQy1zeEJaTnNMYzNvTG5NWWRWOWpoZVNmaTk2Z1VjLXdjWFpHWUFxZGk0dEFHaHM5NFNHTWtxZnZiTkk2SVlFM0NaZEtCWGJoSkdEQ2l3cEZUd1dPeW9MWkJTN0ZDRFJPZk5VVGtrQnJOc0HSAWZBVV95cUxQX1lNQnktbm4wdlJFWEdhS09rb0RlZFRTbW1Nb3hBYzc3TFRZZzNxcGM5MDkzV0d6QktRT2Y5X1o0bThJVHU1X19jZkpIVUNPVjhrTFN3cnlmVTVNRlE5ZVIzeXh1MFE?oc=5",
     "title": "“엔비디아, ‘1조 매개변수’ 오픈소스 AI 개발중”",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "naf4162e7",
     "category": "IT",
     "source": "뉴시스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBRedIBeEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBReQ?oc=5",
     "title": "SK하이닉스는 HBM 설계, 삼성전자는 美테일러 인력…반도체 인재채용 '러시'",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nb0ebb4db",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xaFpJNlI5dEFZQVY3NTN2Uzl3UFcyOUl1dUZkZFhHVHkzMFBjMV9JVS1JTV90WXZfRVdycC1zNk9YbktCSkhKZjZ4Z1hYSHA3VmZ1T0JXUFpxbnBweWNZOFJ5bWVxWUJ3QS15bWpDUGRsOEk?oc=5",
     "title": "젠슨 황 '엔비디아 반도체 담보대출' 승부수, AI 투자 판 키워 리스크도 나눈다",
     "summary": [
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "n1f2010df",
     "category": "IT",
     "source": "매일일보",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
     "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
     "summary": [
@@ -68,7 +68,7 @@ window.NEWS_DB = [
     "id": "ne50ec99d",
     "category": "IT",
     "source": "경향신문",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSTUhWQkw3UEtoaFJIQTBlbkd0YXdPbVBtcWxVNVBfR01COW9XZGFIUEFEb2U5WFhLVTFhWmFqLWZwbTNHNnlCbkZIeWJwQXZWczdqMHMwX0I1UdIBX0FVX3lxTE1pcDdBUURUejI0dG1vZlJXXzRGS3VvT1JxTXlCWHViLUNjMzVCcklQZndkcjJyeDFmZVZFcWN2aVBfcjZ4UTk1bnBFUDZfcjh2T25fazNza1lkU04yUy1r?oc=5",
     "title": "“공짜 AI가 반도체에도 좋다” 엔비디아, 개방형 AI 모델 첫 공개",
     "summary": [
@@ -199,13 +199,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "스포츠",
-    "source": "startupn.kr",
+    "category": "IT",
+    "source": "스타트업엔(StartupN)",
     "time": "14일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
     ],
     "chips": [
       "#스타트업"
@@ -313,10 +313,242 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2673c213",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260813/134469290/1",
+    "title": "100년 만에 찾아온 ‘우주쇼’…유럽 곳곳서 일식 장관",
+    "summary": [
+      "스페인에서 100여 년 만에 처음으로 개기일식이 관측되면서 수백만 명이 주요 관측 지역으로 몰렸다.",
+      "폭염과 산불 위험이 이어지는 가운데 당국은 대규모 안전 인력을 배치하고 일부 지역의 접근을 제한했다.12일(현지 시간) AP통신에 따르면 이날 스페인 북부와 중부, 포르투갈 일부 지역에서는 달이 태양을 완전히 가리는 개기일식이 관측됐다.",
+      "이번 개기일식은 스페인 본토에서 100여 년 만에 처음이다.개기식은 아이슬란드 서쪽 해상에서 최대 2분30초가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3e85d34c",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813004600072",
+    "title": "국제유가, 호르무즈 협상 교착속 보합권 마감…브렌트 89달러",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 호르무즈 해협 통항 재개를 둘러싼 협상이 교착 상태를 지속하는 와중에 원유 수요 감소 전망이 나오면서 12일..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb098a996",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/13/EHGP3RRMCRAZLGN4P325EU437A/",
+    "title": "3주 걸리던 3D 데이터 작업을 몇 초만에, 엔비디아가 반한 韓 스타트업 혁신 기술",
+    "summary": [
+      "3주 걸리던 3D 데이터 작업을 몇 초만에, 엔비디아가 반한 韓 스타트업 혁신 기술."
+    ],
+    "chips": [
+      "#엔비디아",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n8183cc06",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/13/GU4WCNBRMI3GEYLBMM4TSMLDHE/",
+    "title": "이렇게 황당한 일이 있나, 왜 LG는 울산 오카다 영입 발표 직전 무산됐나…이례적인 KBO의 공식 사과",
+    "summary": [
+      "[OSEN=한용섭 기자] 정말 황당한 일이 발생했다.",
+      "프로야구 LG 트윈스가 퓨처스리그 울산 웨일즈의 일본인 투수 오카다 아키타케를 영입에 합의했으나, 문제없다고 했던 KBO가 뒤늦게 규정 위반이라고 번복하면서 불발됐다.",
+      "LG는 아시아쿼터 투수 라클란 웰스가 어깨 부상을 당하며 대체 선수 영입에 나섰다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8a32f848",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/13/MQ3GKZRWMEYDCYJVGQZDONRSHE/",
+    "title": "\"한국서 14kg 쪘다\" 대체 뭘 먹었길래, KBO 역수출 최고 성공작…5년 만에 구속 5km 상승, 내년 연봉 '초대박' 예고",
+    "summary": [
+      "[OSEN=이상학 객원기자] 지난해 KBO리그 활약을 발판 삼아 메이저리그로 진출한 선수 중 최고의 역수출 성공작은 SSG 랜더스 출신 투수 드류 앤더슨(32·디트로이트 타이거스)이다.",
+      "한화 이글스의 한국시리즈 준우승을 이끈 코디 폰세(토론토 블루제이스)와 라이언 와이스(휴스턴 애스트로스)가 각각 부상과 부진으로 메이저리그에 없는 가운데 앤더슨이 풀타임 시."
+    ],
+    "chips": [
+      "#KBO",
+      "#수출"
+    ]
+  },
+  {
+    "id": "n02b1128e",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026081304403660604",
+    "title": "트럼프 'SNS 미리보기' 피소…\"수익 활용은 위헌\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 관세·외교·전쟁 등 시장을 움직일 수 있는 정책 결정을 자신의 사회관계망서비스(SNS) 트루스소셜에 잇달아 공개하는 가운데, 이를 일반 이용자보다 먼저 볼 수 있도록 한 유료 서비스가 법정 다툼에 휘말렸다.",
+      "대통령의 공적 정보를 개인 회사의 수익원으로 활용하는 것은 위헌이라는 주장이다.",
+      "12일(현지시간) 블룸버그통신과 AFP통신 등에 따르면 미국 언론사 디인터셉트 미디어와 비영리단체 언."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfb4075a1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003746956",
+    "title": "美국무부 \"원정출산 근절 TF 출범…전세계 개인 이력 검토\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 국무부가 도널드 트럼프 미 대통령 지시로 이른바 '출산 관광'을 근절하기위한 태스크포스(TF)를 출범했다고 12일(현지 시간) 밝혔다.",
+      "국무부는 이날 발표한 '출산 관광 종식 TF 출범' 팩트시트에서 \"미국 시민권의 무결성을 수호하고 비이민 비자가 합법적이고 본래 목적에 한해 사용되도록하며 출산 관광을 통한 비자 악용을 방지하기 위해 가능한 모든 수단을 사용할 것\"이라고 강조했다."
+    ],
+    "chips": [
+      "#전세",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfe47f881",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260813/134468438/2",
+    "title": "뒤집고 비틀어서 새롭게 펼친 세상",
+    "summary": [
+      "4월 작고한 독일의 예술가 게오르그 바젤리츠(1938∼2026·사진)는 ‘거꾸로 그린 그림’으로 유명한 세계적인 작가다.",
+      "하지만 이는 자칫 잔재주를 부리는 화가라는 오해를 부를 수도 있다.",
+      "화가조차도 생전 인터뷰에서 “작가 중 누구도 나의 ‘뒤집힌 이미지’ 이론을 진지하게 받아들이지 않고 특이한 연출 정도로 생각했다”고 털어놓았을 정도다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n31a49e0e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260813/134468434/2",
+    "title": "“경주 월성 비석, 고구려군이 세워” vs “신라인의 작품”",
+    "summary": [
+      "83년의 시차를 두고 경북 경주 월성에서 발견돼 한 몸으로 맞춰진 비석 조각.",
+      "접합한 크기는 가로세로 27.2X16.6cm에 불과하지만, 비편(碑片)의 글씨는 광개토대왕비를 닮았다.",
+      "이에 학계에선 ‘고구려 원정군이 세운 비’란 의견과 ‘광개토대왕비 서체를 익힌 신라인이 쓴 비’라는 의견이 엇갈리고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne746eae6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260813/134468430/2",
+    "title": "대한제국 獨 공사관 실체, 120년만에 확인",
+    "summary": [
+      "대한제국이 1905년 을사늑약으로 일제에 외교권을 강탈당하기 전까지 운영했던 주독일 대한제국 공사관의 실체가 120여 년 만에 확인됐다.",
+      "독일에서 대한제국 공사관의 흔적이 확인된 건 처음이다.",
+      "국립고궁박물관과 서영희 한국공학대 교수가 이끄는 근대 기록 연구팀은 “독일 베를린에서 주독 공사관이 있었던 건물 4곳의 위치를 찾았다”고 12일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n20f7ea0b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746796",
+    "title": "[오늘의 주요일정]제주(8월13일 목요일)",
+    "summary": [
+      "[제주=뉴시스] ▲오전 10시, 지역상권 육성사업(글로컬,유망골목상권) 사업협의회 회의, 서귀포시청 ▲오전 10시, 제주마생산사회 한국마사회 본사 제주이전 요청 기자회견, 제주도의회 도민카페 ▲오후 1시, 여름철 수상안전관리 현장점검, 행원리 코난 해변 등 ▲오후 2시, 올해 하반기 농지정보시스템 사용자 교육, 제주도청 탐라홀 ▲오후 2시, 제주특별자치도 민원조정위원회 회의, 제주도청 한라홀 ▲오후 3시, 제주 식도락 관광객 유치 조성사업 '제."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nd371640e",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746368",
+    "title": "다시 뛰는 금값…추가 상승 동력은 '북미 매수세'",
+    "summary": [
+      "[서울=뉴시스]이지영 기자 = 금값이 온스당 4400달러를 넘어서며 상승세를 이어가는 가운데 북미 투자자들의 매수세가 추가 상승 동력으로 꼽힌다.",
+      "12일(현지시간) 미국 경제매체 비즈니스인사이더(BI)에 따르면 금 현물 가격은 이날 온스당 4400달러 안팎에서 거래됐다.",
+      "이달 들어 약 9% 상승한 수치다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n593e720a",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "26분 전",
+    "url": "https://view.asiae.co.kr/article/2026081304291656172",
+    "title": "트럼프 \"호르무즈 완전 장악\"…실제 선박은 이란 항로로",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 미국이 호르무즈 해협을 \"완전히 통제하고 있다\"고 주장했지만 실제 해상 상황은 이와 거리가 먼 것으로 나타났다.",
+      "미 해군이 오만 연안 항로를 보호하고 있음에도 선박 대부분이 이란이 관리하는 항로를 이용하거나 위치추적 장치를 끈 채 이동하고 있다.",
+      "이란은 미 해군과 직접 맞붙기보다 제한적인 미사일·드론 공격과 위협만으로 선사와 보험사의 공포를 자극하며 사실상 해협 통항을 좌우하고 있."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n25c60b4f",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813003600091",
+    "title": "'AI올인' 구글, 딥마인드 일부조직 본사흡수…\"자율성보다 매출\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 모델 경쟁에서 오픈AI·앤트로픽에 뒤처졌다는 평가를 받는 구글이 AI 개발 산실인 딥..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nd210fa0e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813003700085",
+    "title": "\"일생 한번뿐인 기회\"…유럽 '세기의 일식 우주쇼'에 탄성",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 12일(현지시간) 저녁 유럽에서 달이 해를 가리는 일식 '천체 쇼'가 펼쳐지면서 곳곳에 몰린 시민과 관광객들..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nc504b794",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "44분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154257",
     "title": "방미통위, 인앱결제 제재 절차 개시...구글-애플 의견 청취",
     "summary": [
@@ -329,242 +561,39 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9d4ea8bd",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/tech/2026/08/13/2026081219434020312",
-    "title": "태국어 'LLM' 개발 완료, 네이버 AI 수출길 넓힌다",
-    "summary": [
-      "'소버린 AI' 동남아 유상프로젝트 결실 사우디 디지털트윈 2단계 사업도 순항 업무협업툴 라인웍스, 日·대만서 성과 세종 팩토리 연계, 해외매출 확대 기대 네이버클라우드가 태국에서 소버린 AI(인공지능) 프로젝트를 유상계약으로 수행해 지난해말 완료한 것으로 확인됐다.",
-      "동남아시아 소버린 AI 공략을 공식화한 이후 실제 유상 프로젝트로 이어진 사례다.",
-      "팀네이버(NAVER)의 해외 AI 사업의 무게중심이 성과를 확인한 태국과 사우디아라비아로 옮겨갔다."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버",
-      "#수출"
-    ]
-  },
-  {
-    "id": "na18409a8",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/13/2026081219434924525",
-    "title": "끝났다고 믿은 순간 다시 퍼졌다… 지울 수 없는 '디지털 상처'",
-    "summary": [
-      "피해자지원센터 불법촬영물 삭제 요청중 29% 안 지워져 해외 서버 성인사이트는 48% 달해… N차 재유포 정황도 수사권 못미쳐 영상 인지 애로… 정부 \"국제협력 강화할것\" 관계기관이 삭제를 요청한 불법촬영 피해영상물 10건 가운데 2~3건은 온라인에 그대로 남아 있는 것으로 나타났다.",
-      "해외에 서버를 둔 불법성인사이트가 삭제요청에 응하지 않는 경우가 많고 삭제 이후에도 이른바 'N차 재유포'가 반복되면서 피해가 장기화한다는 지적이 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74092afb",
+    "id": "nd94f12ae",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/13/2026081302562487533",
-    "title": "크리스토퍼 놀란, 인생 영화는 '스타워즈'…멧 데이먼도 \"난 14번 봤다\"",
-    "summary": [
-      "크리스토퍼 놀란 감독과 배우 맷 데이먼이 인생 영화로 나란히 '스타워즈'를 꼽았다.",
-      "동갑내기인 두 사람은 어린 시절 '스타워즈'를 여러 차례 관람하며 영화에 빠졌다.",
-      "12일 방영된 tvN '유 퀴즈 온 더 블럭' 355회에서는 크리스토퍼 놀란 감독과 배우 맷 데이먼이 출연해 영화 '오디세이'의 비하인드를 공개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne775cc96",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/culture/2026/08/13/2026081219411396754",
-    "title": "호텔·모텔·리조트 다 웃는데… 펜션만 '울상'",
-    "summary": [
-      "\"서비스 대비 비싸고 교통 등 인프라 부족\" 외국인 관광 특수 속 객실단가 유일 '하락' 올해 상반기 역대급 관광 성적표를 받아들며 숙박업 실적도 덩달아 가파르게 상승하는 가운데 펜션만 부진을 면치 못했다.",
-      "부정적 이미지와 불편한 인프라 등으로 '관광특수'를 노리지 못했다는 평가가 나온다.",
-      "형태와 운영방식을 대폭 개선할 필요가 있다는 지적이 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n184f05a3",
-    "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813002500071",
-    "title": "\"'미끼 비행기' 탔던 美기자단 충격\"…백악관에 안전대책 요구",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813002700071",
+    "title": "\"'요격 미사일 부족' 미군, 中과 분쟁시 전략적 패배 가능\"",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 이란의 암살 위협을 피해 비밀리에 비행기를 바꿔 타면서 동행 기자들에게 이를 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd21c44ce",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746530",
-    "title": "\"인생샷 찍으려다\"…美 유명 주립공원 54m 폭포서 20대 추락사",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 미국 유명 주립공원에서 사진을 찍기 위해 출입 금지 구역에 들어간 한 20대 남성이 약 54m 높이의 폭포에서 떨어져 숨졌다.",
-      "12일(현지시간) 폭스뉴스 보도에 따르면 지난 10일 오후 오리건주 매리언 카운티 실버 폴스 주립공원에서 이같은 사고가 발생했다고 했다.",
-      "사망자는 켄터키주 벌링턴에서 온 재커리 니컬러스 머턴스로 경찰은 목격자 진술과 현장에서 촬영된 사진, 영상을 조사했다."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 이란 전쟁으로 요격 미사일 재고의 급격한 감소 사태에 직면한 미국이 중국과 분쟁이 벌어질 경우 전략적 패배..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n71929037",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745799",
-    "title": "\"등에 AMG 로고 찍혔다\"…메르세데스 상대 집단소송",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 메르세데스-AMG 차량의 운전석에 부착된 금속 로고 때문에 화상을 입었다는 운전자들의 주장이 나왔다.",
-      "피해를 주장하는 운전자 2명은 차량의 설계 결함을 문제 삼아 메르세데스-벤츠를 상대로 집단소송을 제기했다.",
-      "8일(현지 시간) AP통신에 따르면 가브리엘 라히자니와 카렌딥 카리나 배스는 최근 미국 캘리포니아주 연방법원에 소장을 제출했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd3d539a8",
+    "id": "n1bf46f24",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/13/G5TGGMZUHBRDMOLDG5RTSYRXHE/",
-    "title": "'열정이 넘친다' 이강인, 스페인 도착하자마자 훈련장으로...마르카 \"1초도 허비 안 해\"",
+    "time": "56분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/13/GM4TSNRQGQ2TIMBUHBSGENBRGA/",
+    "title": "\"아버지 없이 어떻게 살아야 할지 모르겠다\" 메시, 부친 떠나보내며 절절한 작별인사",
     "summary": [
-      "[OSEN=정승우 기자] 이강인(25)이 아틀레티코 마드리드의 훈련장에서 본격적인 새 출발에 나섰다.",
-      "한국에서 데뷔전을 치른 뒤 곧바로 스페인으로 이동한 이강인은 휴식보다 빠른 적응을 택했다.스페인 '마르카'는 12일(한국시간) \"아틀레티코 선수들이 마하다온다 훈련장에서 훈련을 진행했다.",
-      "가장 눈에 띈 선수는 몸 상태를 끌어올리는 데 단 1초도 허비하고 싶."
+      "[OSEN=정승우 기자] 리오넬 메시(39, 인터 마이애미)가 세상을 떠난 아버지 호르헤 메시를 향해 긴 작별 인사를 남겼다.",
+      "어린 시절부터 선수 생활 전반을 함께한 아버지를 떠나보낸 메시는 \"아빠 없이 무엇을 해야 할지 모르겠다\"라며 깊은 슬픔을 드러냈다.리오넬 메시는 지난 8일 오랜 투병 끝에 68세로 세상을 떠난 아버지 호르헤를 추모하는 긴 글을 자신."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3950df0",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003746954",
-    "title": "우크라, 러 흑해 핵심항 대공습…곡물 수출도 타격",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 우크라이나와 러시아가 흑해의 항만과 선박을 겨냥한 공격을 확대하면서 양국의 곡물 수출에 차질이 빚어지고 있다.",
-      "특히 우크라이나가 러시아의 핵심 곡물 수출항인 노보로시스크까지 대규모로 공격하면서 흑해를 통한 곡물 수송 차질이 글로벌 식량시장으로 번질 수 있다는 우려가 커지고 있다.",
-      "12일(현지 시간) 월스트리트저널(WSJ)과 BBC 등에 따르면 우크라이나는 이날 미사일과 드론을 동원해 노보로시스크의 러시아 해군기지를."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n2cb1cb8c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/13/MMYGGYRYMU4DIZDEHE3TQZTBME/",
-    "title": "'2653안타 리빙 레전드' 손아섭 1군 복귀 시계 빨라지나…퓨처스 2타점 적시타+볼넷 대폭발",
-    "summary": [
-      "[OSEN=손찬익 기자] 프로야구 통산 2653안타를 기록 중인 '리빙 레전드' 손아섭(두산 베어스)이 퓨처스리그에서 안타와 타점을 생산하며 타격감을 조율했다.손아섭은 지난 12일 경기도 이천 베어스파크에서 열린 KIA 타이거즈와의 퓨처스리그 홈경기에 1번 좌익수로 선발 출장했다.첫 타석에서는 안타를 신고하지 못했다.",
-      "손아섭은 1회 선두 타자로 나서 유격수."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n529c014b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813002800079",
-    "title": "트럼프 평화 중재안 압박에도 이스라엘, 또 가자지구 공습",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 도널드 트럼프 미국 대통령의 최신 가자지구 평화 중재안 이행 압박 속에 이스라엘군이 일주일 넘게 이어지던 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nba99c6c0",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003746953",
-    "title": "\"트럼프, 백악관 공사에 1.3조원 투입 계획…대부분 세금\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 행정부가 추진 중인 백악관 리모델링 사업에 1조3000억원이 넘는 비용이 투입되며, 이는 대부분 세금에서 충당될 계획이라고 워싱턴포스트(WP)가 12일(현지 시간) 보도했다.",
-      "신문은 이날 백악관 건설 및 개보수 기밀 계약 및 관련 계획 문건을 입수했다며 전체 공사비용은 최소 9억2700만달러(1조3153억)에 달할 것으로 예상된다고 전했다.",
-      "이는 기존에 알려진 것보다 훨씬 더 큰 금액이라고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n509c70db",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813002400071",
-    "title": "'트럼프 SNS 먼저보기' 유료서비스 피소…\"이례적 부패행위\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령의 소셜미디어(SNS)인 트루스소셜의 유료 서비스를 금지해달라는 소송이 12일(현..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n17e8c2be",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "39분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/13/GQYGEYRWHFQTMNZUMI3TCNZZGQ/",
-    "title": "\"생각보다 여리다\" '가을영웅' 김영웅·디아즈 살아야 가을 희망 있다… 단 하나의 해법은?",
-    "summary": [
-      "[스포츠조선 정현석 기자]삼성 라이온즈의 타선의 중심을 잡아줘야 할 '가을영웅' 김영웅과 르윈 디아즈의 타격감이 바닥을 치고 있다.",
-      "급기야 디아즈는 12일 광주 KIA 타이거즈전 선발 라인업에서 제외되는 수모까지 겪었다.",
-      "팀이 선두 탈환을 위해 치열한 승부를 벌이는 시점."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n491212cb",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813002100091",
-    "title": "\"스마트폰이 나 대신 식당예약\"…구글, AI 탑재 '픽셀11' 공개",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 구글이 인공지능(AI) 기능을 대거 탑재한 새 스마트폰과 스마트 손목시계, 분실방지 태그를 내놨다."
-    ],
-    "chips": [
-      "#AI"
     ]
   },
   {
     "id": "nd591b9c2",
     "category": "IT",
     "source": "테크M",
-    "time": "45분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154256",
     "title": "AI는 행정망으로, 로봇은 화재현장으로...공공 AX 보폭 확대",
     "summary": [
@@ -578,25 +607,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n219c7127",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "46분 전",
-    "url": "https://www.chosun.com/economy/science/2026/08/13/GRQWCYJTGIZDQNRUMM3WMOJXGQ/",
-    "title": "달·화성 가는 우주인 지킬 ‘방사선 조끼’… 태양폭풍 피폭 60% 줄였다",
-    "summary": [
-      "강력한 태양폭풍이 닥쳤을 때 우주인이 받는 방사선량을 최대 60%가량 줄여주는 ‘방사선 조끼’의 효과가 실제 우주비행 실험을 통해 확인됐다.",
-      "미 항공우주국(NASA)과 독일항공우주센터(DLR), 록히드 마틴 스페이스 등 국제 연구진은 NASA의 무인 달 탐사 임무 ‘아르테미스 1′에 실린 방사선 차폐 조끼 ‘아스트로래드(AstroRad)’의 성능을 분석한."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n0ea9e209",
     "category": "IT",
     "source": "테크M",
-    "time": "59분 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154252",
     "title": "인증 획득하고 총판 붙이고...IT업계 '시장 뚫기' 총력전",
     "summary": [
@@ -612,7 +626,7 @@ window.NEWS_DB = [
     "id": "n255c3d33",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154254",
     "title": "[카드뉴스] '리니지 회사' 엔씨가 달라졌다…캐주얼·AI·글로벌로 준비하는 새로운 미래",
     "summary": [
@@ -623,20 +637,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
-  },
-  {
-    "id": "n922b26d7",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026081278371",
-    "title": "사기당한 은행들, 490억 금융사고",
-    "summary": [
-      "사기당한 은행들, 490억 금융사고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -645,14 +645,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
