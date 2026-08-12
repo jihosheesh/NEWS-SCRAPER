@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-12 17:50:18
+// 마지막 업데이트: 2026-08-12 18:46:18
 window.NEWS_DB = [
   {
     "id": "n6438bfa5",
     "category": "IT",
     "source": "donga.com",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GcktYQy1zeEJaTnNMYzNvTG5NWWRWOWpoZVNmaTk2Z1VjLXdjWFpHWUFxZGk0dEFHaHM5NFNHTWtxZnZiTkk2SVlFM0NaZEtCWGJoSkdEQ2l3cEZUd1dPeW9MWkJTN0ZDRFJPZk5VVGtrQnJOc0HSAWZBVV95cUxQX1lNQnktbm4wdlJFWEdhS09rb0RlZFRTbW1Nb3hBYzc3TFRZZzNxcGM5MDkzV0d6QktRT2Y5X1o0bThJVHU1X19jZkpIVUNPVjhrTFN3cnlmVTVNRlE5ZVIzeXh1MFE?oc=5",
     "title": "“엔비디아, ‘1조 매개변수’ 오픈소스 AI 개발중”",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "naf4162e7",
     "category": "IT",
     "source": "뉴시스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBRedIBeEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBReQ?oc=5",
     "title": "SK하이닉스는 HBM 설계, 삼성전자는 美테일러 인력…반도체 인재채용 '러시'",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nb0ebb4db",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xaFpJNlI5dEFZQVY3NTN2Uzl3UFcyOUl1dUZkZFhHVHkzMFBjMV9JVS1JTV90WXZfRVdycC1zNk9YbktCSkhKZjZ4Z1hYSHA3VmZ1T0JXUFpxbnBweWNZOFJ5bWVxWUJ3QS15bWpDUGRsOEk?oc=5",
     "title": "젠슨 황 '엔비디아 반도체 담보대출' 승부수, AI 투자 판 키워 리스크도 나눈다",
     "summary": [
@@ -50,31 +50,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4710842f",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTjBfdnBmTGVzNWJGa293QWItNS00cG5EdGw1RjNFSDJFNlNTSFE5aGV6N05iTDFPX1ZlZUdMcVlBUERiTHRmVW5Qdk9UNm9id2FKLW9TWkk1YjJCdUZfLU9uVEU5Zm1UNEI4RWQxTDNpbDg?oc=5",
-    "title": "인텔 이석희 앞세워 저전력 AI용 D램 개발, 삼성전자·SK하이닉스 HBM 아성 흔들지 주목",
-    "summary": [
-      "인텔 이석희 앞세워 저전력 AI용 D램 개발, 삼성전자·SK하이닉스 HBM 아성 흔들지 주목 비즈니스포스트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "n1f2010df",
     "category": "IT",
-    "source": "m-i.kr",
-    "time": "11시간 전",
+    "source": "매일일보",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
-    "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 - m",
+    "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
     "summary": [
-      "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 m-i.kr."
+      "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 매일일보."
     ],
     "chips": [
       "#AI",
@@ -85,7 +68,7 @@ window.NEWS_DB = [
     "id": "ne50ec99d",
     "category": "IT",
     "source": "경향신문",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSTUhWQkw3UEtoaFJIQTBlbkd0YXdPbVBtcWxVNVBfR01COW9XZGFIUEFEb2U5WFhLVTFhWmFqLWZwbTNHNnlCbkZIeWJwQXZWczdqMHMwX0I1UdIBX0FVX3lxTE1pcDdBUURUejI0dG1vZlJXXzRGS3VvT1JxTXlCWHViLUNjMzVCcklQZndkcjJyeDFmZVZFcWN2aVBfcjZ4UTk1bnBFUDZfcjh2T25fazNza1lkU04yUy1r?oc=5",
     "title": "“공짜 AI가 반도체에도 좋다” 엔비디아, 개방형 AI 모델 첫 공개",
     "summary": [
@@ -95,6 +78,21 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "n757759c6",
+    "category": "IT",
+    "source": "블록체인투데이",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
+    "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
+    "summary": [
+      "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격 블록체인투데이."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
     ]
   },
   {
@@ -159,12 +157,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -173,12 +171,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
@@ -201,13 +199,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "IT",
-    "source": "스타트업엔(StartupN)",
+    "category": "스포츠",
+    "source": "startupn.kr",
     "time": "14일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
     ],
     "chips": [
       "#스타트업"
@@ -331,10 +329,242 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9d4ea8bd",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/tech/2026/08/13/2026081219434020312",
+    "title": "태국어 'LLM' 개발 완료, 네이버 AI 수출길 넓힌다",
+    "summary": [
+      "'소버린 AI' 동남아 유상프로젝트 결실 사우디 디지털트윈 2단계 사업도 순항 업무협업툴 라인웍스, 日·대만서 성과 세종 팩토리 연계, 해외매출 확대 기대 네이버클라우드가 태국에서 소버린 AI(인공지능) 프로젝트를 유상계약으로 수행해 지난해말 완료한 것으로 확인됐다.",
+      "동남아시아 소버린 AI 공략을 공식화한 이후 실제 유상 프로젝트로 이어진 사례다.",
+      "팀네이버(NAVER)의 해외 AI 사업의 무게중심이 성과를 확인한 태국과 사우디아라비아로 옮겨갔다."
+    ],
+    "chips": [
+      "#AI",
+      "#네이버",
+      "#수출"
+    ]
+  },
+  {
+    "id": "na18409a8",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/13/2026081219434924525",
+    "title": "끝났다고 믿은 순간 다시 퍼졌다… 지울 수 없는 '디지털 상처'",
+    "summary": [
+      "피해자지원센터 불법촬영물 삭제 요청중 29% 안 지워져 해외 서버 성인사이트는 48% 달해… N차 재유포 정황도 수사권 못미쳐 영상 인지 애로… 정부 \"국제협력 강화할것\" 관계기관이 삭제를 요청한 불법촬영 피해영상물 10건 가운데 2~3건은 온라인에 그대로 남아 있는 것으로 나타났다.",
+      "해외에 서버를 둔 불법성인사이트가 삭제요청에 응하지 않는 경우가 많고 삭제 이후에도 이른바 'N차 재유포'가 반복되면서 피해가 장기화한다는 지적이 나온다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74092afb",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/13/2026081302562487533",
+    "title": "크리스토퍼 놀란, 인생 영화는 '스타워즈'…멧 데이먼도 \"난 14번 봤다\"",
+    "summary": [
+      "크리스토퍼 놀란 감독과 배우 맷 데이먼이 인생 영화로 나란히 '스타워즈'를 꼽았다.",
+      "동갑내기인 두 사람은 어린 시절 '스타워즈'를 여러 차례 관람하며 영화에 빠졌다.",
+      "12일 방영된 tvN '유 퀴즈 온 더 블럭' 355회에서는 크리스토퍼 놀란 감독과 배우 맷 데이먼이 출연해 영화 '오디세이'의 비하인드를 공개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne775cc96",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/culture/2026/08/13/2026081219411396754",
+    "title": "호텔·모텔·리조트 다 웃는데… 펜션만 '울상'",
+    "summary": [
+      "\"서비스 대비 비싸고 교통 등 인프라 부족\" 외국인 관광 특수 속 객실단가 유일 '하락' 올해 상반기 역대급 관광 성적표를 받아들며 숙박업 실적도 덩달아 가파르게 상승하는 가운데 펜션만 부진을 면치 못했다.",
+      "부정적 이미지와 불편한 인프라 등으로 '관광특수'를 노리지 못했다는 평가가 나온다.",
+      "형태와 운영방식을 대폭 개선할 필요가 있다는 지적이 나온다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n184f05a3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813002500071",
+    "title": "\"'미끼 비행기' 탔던 美기자단 충격\"…백악관에 안전대책 요구",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 이란의 암살 위협을 피해 비밀리에 비행기를 바꿔 타면서 동행 기자들에게 이를 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd21c44ce",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746530",
+    "title": "\"인생샷 찍으려다\"…美 유명 주립공원 54m 폭포서 20대 추락사",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 미국 유명 주립공원에서 사진을 찍기 위해 출입 금지 구역에 들어간 한 20대 남성이 약 54m 높이의 폭포에서 떨어져 숨졌다.",
+      "12일(현지시간) 폭스뉴스 보도에 따르면 지난 10일 오후 오리건주 매리언 카운티 실버 폴스 주립공원에서 이같은 사고가 발생했다고 했다.",
+      "사망자는 켄터키주 벌링턴에서 온 재커리 니컬러스 머턴스로 경찰은 목격자 진술과 현장에서 촬영된 사진, 영상을 조사했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n71929037",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003745799",
+    "title": "\"등에 AMG 로고 찍혔다\"…메르세데스 상대 집단소송",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 메르세데스-AMG 차량의 운전석에 부착된 금속 로고 때문에 화상을 입었다는 운전자들의 주장이 나왔다.",
+      "피해를 주장하는 운전자 2명은 차량의 설계 결함을 문제 삼아 메르세데스-벤츠를 상대로 집단소송을 제기했다.",
+      "8일(현지 시간) AP통신에 따르면 가브리엘 라히자니와 카렌딥 카리나 배스는 최근 미국 캘리포니아주 연방법원에 소장을 제출했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd3d539a8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/13/G5TGGMZUHBRDMOLDG5RTSYRXHE/",
+    "title": "'열정이 넘친다' 이강인, 스페인 도착하자마자 훈련장으로...마르카 \"1초도 허비 안 해\"",
+    "summary": [
+      "[OSEN=정승우 기자] 이강인(25)이 아틀레티코 마드리드의 훈련장에서 본격적인 새 출발에 나섰다.",
+      "한국에서 데뷔전을 치른 뒤 곧바로 스페인으로 이동한 이강인은 휴식보다 빠른 적응을 택했다.스페인 '마르카'는 12일(한국시간) \"아틀레티코 선수들이 마하다온다 훈련장에서 훈련을 진행했다.",
+      "가장 눈에 띈 선수는 몸 상태를 끌어올리는 데 단 1초도 허비하고 싶."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3950df0",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003746954",
+    "title": "우크라, 러 흑해 핵심항 대공습…곡물 수출도 타격",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 우크라이나와 러시아가 흑해의 항만과 선박을 겨냥한 공격을 확대하면서 양국의 곡물 수출에 차질이 빚어지고 있다.",
+      "특히 우크라이나가 러시아의 핵심 곡물 수출항인 노보로시스크까지 대규모로 공격하면서 흑해를 통한 곡물 수송 차질이 글로벌 식량시장으로 번질 수 있다는 우려가 커지고 있다.",
+      "12일(현지 시간) 월스트리트저널(WSJ)과 BBC 등에 따르면 우크라이나는 이날 미사일과 드론을 동원해 노보로시스크의 러시아 해군기지를."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n2cb1cb8c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/13/MMYGGYRYMU4DIZDEHE3TQZTBME/",
+    "title": "'2653안타 리빙 레전드' 손아섭 1군 복귀 시계 빨라지나…퓨처스 2타점 적시타+볼넷 대폭발",
+    "summary": [
+      "[OSEN=손찬익 기자] 프로야구 통산 2653안타를 기록 중인 '리빙 레전드' 손아섭(두산 베어스)이 퓨처스리그에서 안타와 타점을 생산하며 타격감을 조율했다.손아섭은 지난 12일 경기도 이천 베어스파크에서 열린 KIA 타이거즈와의 퓨처스리그 홈경기에 1번 좌익수로 선발 출장했다.첫 타석에서는 안타를 신고하지 못했다.",
+      "손아섭은 1회 선두 타자로 나서 유격수."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n529c014b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813002800079",
+    "title": "트럼프 평화 중재안 압박에도 이스라엘, 또 가자지구 공습",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 도널드 트럼프 미국 대통령의 최신 가자지구 평화 중재안 이행 압박 속에 이스라엘군이 일주일 넘게 이어지던 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nba99c6c0",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003746953",
+    "title": "\"트럼프, 백악관 공사에 1.3조원 투입 계획…대부분 세금\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 행정부가 추진 중인 백악관 리모델링 사업에 1조3000억원이 넘는 비용이 투입되며, 이는 대부분 세금에서 충당될 계획이라고 워싱턴포스트(WP)가 12일(현지 시간) 보도했다.",
+      "신문은 이날 백악관 건설 및 개보수 기밀 계약 및 관련 계획 문건을 입수했다며 전체 공사비용은 최소 9억2700만달러(1조3153억)에 달할 것으로 예상된다고 전했다.",
+      "이는 기존에 알려진 것보다 훨씬 더 큰 금액이라고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n509c70db",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813002400071",
+    "title": "'트럼프 SNS 먼저보기' 유료서비스 피소…\"이례적 부패행위\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령의 소셜미디어(SNS)인 트루스소셜의 유료 서비스를 금지해달라는 소송이 12일(현..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n17e8c2be",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "39분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/13/GQYGEYRWHFQTMNZUMI3TCNZZGQ/",
+    "title": "\"생각보다 여리다\" '가을영웅' 김영웅·디아즈 살아야 가을 희망 있다… 단 하나의 해법은?",
+    "summary": [
+      "[스포츠조선 정현석 기자]삼성 라이온즈의 타선의 중심을 잡아줘야 할 '가을영웅' 김영웅과 르윈 디아즈의 타격감이 바닥을 치고 있다.",
+      "급기야 디아즈는 12일 광주 KIA 타이거즈전 선발 라인업에서 제외되는 수모까지 겪었다.",
+      "팀이 선두 탈환을 위해 치열한 승부를 벌이는 시점."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n491212cb",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813002100091",
+    "title": "\"스마트폰이 나 대신 식당예약\"…구글, AI 탑재 '픽셀11' 공개",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 구글이 인공지능(AI) 기능을 대거 탑재한 새 스마트폰과 스마트 손목시계, 분실방지 태그를 내놨다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "nd591b9c2",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "45분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154256",
     "title": "AI는 행정망으로, 로봇은 화재현장으로...공공 AX 보폭 확대",
     "summary": [
@@ -348,10 +578,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n219c7127",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/economy/science/2026/08/13/GRQWCYJTGIZDQNRUMM3WMOJXGQ/",
+    "title": "달·화성 가는 우주인 지킬 ‘방사선 조끼’… 태양폭풍 피폭 60% 줄였다",
+    "summary": [
+      "강력한 태양폭풍이 닥쳤을 때 우주인이 받는 방사선량을 최대 60%가량 줄여주는 ‘방사선 조끼’의 효과가 실제 우주비행 실험을 통해 확인됐다.",
+      "미 항공우주국(NASA)과 독일항공우주센터(DLR), 록히드 마틴 스페이스 등 국제 연구진은 NASA의 무인 달 탐사 임무 ‘아르테미스 1′에 실린 방사선 차폐 조끼 ‘아스트로래드(AstroRad)’의 성능을 분석한."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n0ea9e209",
     "category": "IT",
     "source": "테크M",
-    "time": "3분 전",
+    "time": "59분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154252",
     "title": "인증 획득하고 총판 붙이고...IT업계 '시장 뚫기' 총력전",
     "summary": [
@@ -367,7 +612,7 @@ window.NEWS_DB = [
     "id": "n255c3d33",
     "category": "IT",
     "source": "테크M",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154254",
     "title": "[카드뉴스] '리니지 회사' 엔씨가 달라졌다…캐주얼·AI·글로벌로 준비하는 새로운 미래",
     "summary": [
@@ -380,165 +625,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6fde2795",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/13/MM4TSYLDGE2TKNBYGUZTOMJTGQ/",
-    "title": "'오프너 항명' 라우어, 다저스에서도 결국 불펜 운명? 이게 다 오타니 때문? 대체 왜",
-    "summary": [
-      "[스포츠조선 박상경 기자] 에릭 라우어(LA 다저스)는 결국 불펜으로 갈 운명이었던 걸까.",
-      "다저스가 곧 라우어를 불펜으로 보낼 가능성이 제기됐다.",
-      "다저스 소식을 다루는 '트루블루LA(TBL)'는 12일(한국시각) '다저스가 당분간 6인 선발 로테이션을 가동하지만, 얼마나 그 체제가 이어질지는 미지수'라고 지적했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ce01fc3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003746952",
-    "title": "콩고 에볼라 무서운 확산세…WHO \"역대 최악 사태 넘어설 수도\"",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 콩고민주공화국에서 확산 중인 에볼라가 현재 추세대로라면 1만1000명 이상이 숨진 2014~2016년 서아프리카 에볼라 사태를 넘어 역대 최악의 유행이 될 수 있다는 세계보건기구(WHO)의 경고가 나왔다.",
-      "12일(현지 시간) AP통신에 따르면 테워드로스 아드하놈 거브러여수스 WHO 사무총장은 \"현재 속도대로라면 2014~2016년 서아프리카 에볼라 사태를 넘어설 것으로 보인다\"고 밝혔다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9b2df447",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/13/GQYTAZRUHE2TEMZTGBTGKN3CGI/",
-    "title": "김서현-정우주 1군 복귀 임박? 퓨처스 나란히 1이닝 무실점…김경문 감독 \"한 두 번 더 보고 엔트리 조정\"",
-    "summary": [
-      "[OSEN=잠실, 조은혜 기자] 프로야구 한화 이글스 김서현과 정우주가 퓨처스리그에서 나란히 무실점 피칭을 펼쳤다.한화 퓨처스팀은 12일 경산구장에서 열린 2026 메디힐 KBO 퓨처스리그 삼성 라이온즈와의 경기에서 9-6 역전승을 거뒀다.",
-      "이날 선발 박준영이 4이닝 5실점으로 물러난 뒤 박재규, 김서현, 이형범과 정우주, 주현상이 1이닝 씩을 이어 던졌다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n0d2c0cc5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813001900099",
-    "title": "모로코 \"15일 대규모 불법 월경 선동…관련자 체포\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 모로코 정부가 오는 15일(현지시간) 스페인령 세우타와 멜리야를 향한 새로운 집단 불법 월경 선동이 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na9f88195",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746545",
-    "title": "\"AI가 업무 효율 높인다\"던 빅테크…알고보니 최대 주 90시간 근무",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 인공지능(AI)이 업무 효율을 높여 노동시간을 줄일 것이라는 빅테크 기업들의 전망과 달리, AI 개발 현장에서는 직원들이 오히려 장시간 노동에 시달리고 있다는 지적이 나왔다.",
-      "영국 BBC는 10일(현지시간) AI 개발에 막대한 자금을 투입하는 주요 기술 기업들의 노동환경을 조명했다.",
-      "구글의 한 엔지니어링 디렉터는 4년 전 AI가 2025년까지 주 4일 근무제를 가능하게 할 것이라고 전망했다."
-    ],
-    "chips": [
-      "#AI",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n7a633535",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "50분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745661",
-    "title": "美 여성, 강물에 몸 담갔다 악어에 물려…비키니 상의로 지혈했지만 팔 절단",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 미국 플로리다에서 강물에 몸을 담그고 있던 50대 여성이 악어에게 공격당해 오른팔을 절단하는 사고를 당했다.",
-      "11일(현지 시간) 뉴욕포스트(NYP)에 따르면 디나 스팬(58)은 8일 플로리다주 매리언 카운티의 실버강에서 가족과 함께 보트 나들이를 즐기던 중 변을 당했다.",
-      "함께 있던 아들 잭 게리나(38)는 NYP와의 인터뷰에서 당시 상황을 자세히 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd09a01d2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "50분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745728",
-    "title": "\"20년 단골이라 믿었는데\"…옷 속에 책 숨겨 훔친 '상습 절도범'",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 20년 동안 가게를 찾아온 단골이 알고 보니 옷 속에 고가의 서적을 숨겨 훔쳐 온 상습 절도범이었다는 사연이 공개됐다.",
-      "지난 11일 방송된 JTBC '사건반장'에 따르면 경기 부천시에서 기독교 서점을 운영하는 제보자 A씨는 매장 폐쇄회로(CC)TV를 점검하다 충격적인 장면을 목격했다.",
-      "20년 가까이 매장을 찾아 늘 현금 결제를 해오며 서점을 아껴주는 단골손님으로 여겼던 중년 남성이 매장을 돌며 고가의 책들을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8cb8d726",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "52분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/08/13/HA4DSZTCHFQTINBYGQYDMOLCMQ/",
-    "title": "NBA 신인왕→바이아웃 급추락→프로낚시 구단주 변신. 파란 만장한 '포스트 르브론'. 호주 대표팀 승선, NBA 복귀 노린다",
-    "summary": [
-      "[스포츠조선 류동혁 기자] 벤 시몬스는 파란만장하다.",
-      "한때 '포스트 르브론 제임스'였다.",
-      "2016년 NBA 신인드래프트 전체 1순위 지명자였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6d1f9db7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "59분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812150751082",
-    "title": "독일 정보기관에 '작전 권한' 부여…\"게슈타포냐\" 반발도(종합)",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 독일 정부가 테러와 각종 공작에 대응한다는 명분으로 국내외 정보기관 권한을 대폭 확대하기로 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb4a54541",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/13/MM2TEMJSGAYDEZJYHA4GKZRWMQ/",
-    "title": "트럼프 “美, 호르무즈 완전히 통제, 이란은 망가졌다”",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 12일(현지시간) 미국의 호르무즈 해협 장악력을 재차 강조하며 이란을 향한 압박 수위를 높였다.",
-      "트럼프 대통령은 이날 소셜미디어 트루스소셜을 통해 미국이 호르무즈 해협을 완전히 통제하고 있으며, 이 같은 통제권을 계속 유지할 것이라고 밝혔다.",
-      "그는 미국의 대이란 해상 봉쇄가 이른바 ‘강철의 벽’으로 불리고 있다며, 이란으로서는."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n922b26d7",
     "category": "사회",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026081278371",
     "title": "사기당한 은행들, 490억 금융사고",
     "summary": [
@@ -546,98 +636,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "ne5156400",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813000800071",
-    "title": "\"트럼프, 백악관 공사에 1.3조원 투입 예정…80년만에 최대규모\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 백악관 건설·개보수 공사에 9억 달러 이상을 투입할 계획이라고 워싱턴포스트(W..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncf8daa7c",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081301151898336",
-    "title": "전국 소방물탱크 경남 집결 … 가뭄 현장에 4769t 긴급 지원",
-    "summary": [
-      "40도를 웃도는 역대급 폭염으로 인한 극심한 가뭄에 신음하는 경남에 전국 16개 소방본부에서 파견한 소방 물탱크차 200대가 급수 지원에 나섰다.",
-      "지난 11일 오후 8시 국가소방동원령이 내려진 경남지역 가뭄 현장에는 12일 하루 동안 4769.3t의 물이 지원됐다.",
-      "그중 농업용수로 쓰인 물이 4727.3t으로 가장 많았고 축사와 도로 살수 등 기타 용도에 42t이 공급됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00bda66e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813001100085",
-    "title": "세우타 사태에 영유권 문제 꺼내든 모로코…스페인 일축",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 모로코와 국경을 맞댄 스페인의 북아프리카 자치도시 세우타로 수만 명이 난입한 사태 이후 영유권 문제까지 제기..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n81220802",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081221164813202",
-    "title": "KLPGA 상반기 호령 김민솔, 4승 도전…\"좋은 기억이 있는 대회\"",
-    "summary": [
-      "한국여자프로골프(KLPGA) 투어 상반기를 호령한 김민솔이 시즌 4승에 도전한다.",
-      "김민솔은 13일 경기도 포천의 몽베르 컨트리클럽(파72)에서 열리는 하반기 두 번째 대회인 메디힐·한국일보 챔피언십(총상금 12억원)에 나선다.",
-      "이번 대회엔 총 123명의 선수가 출전해 우승 트로피를 놓고 경쟁한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfb6dd459",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081300320189404",
-    "title": "'멜로 장인' 안판석, 40년 연출 인생에 마침표 찍다",
-    "summary": [
-      "드라마 '하얀거탑(2007)', '밥 잘 사주는 예쁜 누나(2018)'를 만든 안판석 감독이 별세했다.",
-      "12일 방송계에 따르면 뇌출혈로 쓰러져 입원 치료를 받던 중 이날 오후 세상을 떠났다.",
-      "1961년생인 안 감독은 1987년 MBC에 입사해 드라마 연출을 시작했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc15cbcef",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260812/134467541/2",
-    "title": "‘드라이버를 위한 전기차’… 주행 안전성 돋보이는 폴스타3",
-    "summary": [
-      "“정숙한 전기 스포츠유틸리티차량(SUV)의 탈을 쓴 사실상의 스포츠카.” 12일 경기 용인시 스피드웨이 트랙에서 스웨덴 기반 전기차 업체 폴스타의 간판 대형 SUV인 폴스타3로 트랙 7바퀴를 연달아 밟아본 뒤 느낀 인상이다.",
-      "코너링 구간이 유독 즐비한 이 국내 최장 트랙(4.346km)에서 최대 시속 190km로 질주하는 도중에 계기판을 종종 확인할 때마다 놀랐다.",
-      "체감되는 속도가 계기판에 찍히는 것보다 시속 50km가량은 낮아서였다."
-    ],
-    "chips": [
-      "#전기차"
     ]
   }
 ];
@@ -647,8 +645,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
