@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-11 23:29:44
+// 마지막 업데이트: 2026-08-12 01:01:36
 window.NEWS_DB = [
   {
     "id": "n2ac8365c",
     "category": "IT",
     "source": "뉴시스",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WZXY1dDUyVjByVkF6amlHRjJHajYtM3VBUUhpS181QzFaaTRsR2kzVWlMOFpuamhRc2R4S2tpTE1Bc1FwSTYwOXN2eVBmMVo4ck04cGRTMlczQ2xGTFJnaNIBeEFVX3lxTE1QMXI1OVlZd2VjSU12ajdUSms1RjJmaHFhdC1Fb1JPUzBxR1czajM0SjlSMEVDQzBzRTEtazM0aUR1Z3RqZE1NVmJuMzR6LTUtR21kOWVKS0Z0RVJZa0FaTkxTSElEb180dzlTQkJJSlJqeDFiMWlKdQ?oc=5",
     "title": "엔비디아 vs ASML…AI 반도체 시장 최종 승자는?",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n0d23d8d3",
     "category": "IT",
     "source": "인사이트코리아",
-    "time": "17시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81ekFkVVFhVHdKRlRHV3BXMEdmbVAwa1lPaUVPalRZWm0tb3ZpQmRhbmJ1eGpySmQ5dGpkaEZibFNMVXV1ZXB3b3ZHazRha0VQWGpGMHRqTF9Vc0xIMDdyZmJ1ajY3dkFCcXBYNGljMU1fM3FxTzRJ0gF3QVVfeXFMTzV6QWRVUWFUd0pGVEdXcFcwR2ZtUDBrWU9pRU9qVFlabS1vdmlCZGFuYnV4anJKZDl0amRoRmJsU0xVdXVlcHdvdkdrNGFrRVBYakYwdGpMX1VzTEgwN3JmYnVqNjd2QUJxcFg0aWMxTV8zcXFPNEk?oc=5",
     "title": "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nf73b6536",
     "category": "IT",
     "source": "전자신문",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FLUVHTXRRUDdfMzNoVjlZWDdWOHhoRFR5YzNOX1k4XzNPbnJuTnRDa1hsUlZaQUdMTTdGdkhKMTRJZGhFQklSZVpnaDBydw?oc=5",
     "title": "삼성전자, 엔비디아 주도 글로벌 AI 보안 연합체 합류",
     "summary": [
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "ndc68ab8a",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTaHZuYlVlRmo2QjNmQ3IzeXFRWXhBbGdHbklZZnYxNlFUSzEtekFsam95aW5tNlc1RjQzMWxvWUsxWndyc2Q2RGtFSXk2ZVpSX2VnUVo4WUtKeEdOTHpsak94SkZYcFRxNDV1dF80X2NYN2s?oc=5",
     "title": "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력",
     "summary": [
@@ -69,12 +69,12 @@ window.NEWS_DB = [
   {
     "id": "n757759c6",
     "category": "IT",
-    "source": "블록체인투데이",
+    "source": "blockchaintoday.co.kr",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
     "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
     "summary": [
-      "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격 블록체인투데이."
+      "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격 blockchaintoday.co.kr."
     ],
     "chips": [
       "#반도체",
@@ -84,12 +84,12 @@ window.NEWS_DB = [
   {
     "id": "n3485421d",
     "category": "IT",
-    "source": "sedaily.com",
+    "source": "서울경제",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUWl0VGozOC1JdmkxejBSMVZlWUcxNmZfRzNDTjNMNkgzcDNzV3Q4dGd1V3JNakRUbWxnQ09pVkhIX041NkFxdXRxVGJqaUFmOUHSAVNBVV95cUxQX0Jjbl9aYzUwcjYyZ0hiTWh0aXVJN054Y241QWRuTUswS0NwaWJNUDBFUzl6MnVHZmVFamFUOC1MMGVRMWRsYS03bUNoeGt4TkQySQ?oc=5",
     "title": "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨",
     "summary": [
-      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 sedaily.com."
+      "‘메모리+파운드리+패키징’ 원팀 위력…HBM4E 양산도 앞당겨 서울경제."
     ],
     "chips": [
       "#반도체"
@@ -214,12 +214,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "62일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -301,282 +301,217 @@ window.NEWS_DB = [
   {
     "id": "nbcfe41a7",
     "category": "IT",
-    "source": "yonhapnewstv.co.kr",
+    "source": "연합뉴스TV",
     "time": "169일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 yonhapnewstv.co.kr."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
       "#스타트업"
     ]
   },
   {
-    "id": "nf85021fd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745400",
-    "title": "테일러 스위프트, 내슈빌 작곡가 명예의 전당 입성…역대 최연소",
+    "id": "nd103db1c",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154219",
+    "title": "돈 쓸어 담은 미래에셋증권, 2분기 순이익 1조9052억원…분기 사상 최대",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 미국 팝 슈퍼스타 테일러 스위프트가 '내슈빌 작곡가 명예의 전당(Nashville Songwriters Hall of Fame)'에 역대 최연소로 입성한다.",
-      "11일(현지시간) 미국 빌보드 등에 따르면, 내슈빌 작곡가 명예의 전당은 이날 스위프트가 2026년 동시대 작곡가 및 아티스트 부문 헌액자로 선정됐다고 발표했다.",
-      "2006년 자신의 이름을 딴 데뷔 앨범을 내고 컨트리 아티스트로서 음악 여정을 시작한 그는 자격을."
+      "미래에셋증권이 올해 2분기 1조9000억원이 넘는 순이익을 거두며 분기 기준 사상 최대 실적을 기록했다.",
+      "증권업계 최초로 2개 분기 연속 순이익 1조원을 넘어선 가운데, 브로커리지와 자산관리(WM), 연금, 트레이딩, 해외법인 등 주요 사업이 고르게 성장하며 실적을 끌어올렸다.미래에셋증권은 12일 올해 2분기 연결 기준 세전이익 2조5287억원, 당기순이익 1조9052억원을 기록했다고 밝혔다.",
+      "전 분기와 비교하면 각각 86%, 90% 증가한 수."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4364eb30",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260812/134462157/1",
-    "title": "3년 공백 테이 “같이 살던 매니저 저세상에…그 형이 전부였다”",
+    "id": "n88d39f2a",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154218",
+    "title": "[크립토 브리핑] 비트코인, 6만3000달러대로 후퇴…호르무즈 불안에 CPI까지 겹악재",
     "summary": [
-      "가수 테이가 친형처럼 믿고 의지했던 매니저가 세상을 떠난 뒤 3년 간 활동을 하지 못했다고 했다.",
-      "당시 테이는 가수로서 최전성기를 달리고 있었다.테이는 11일 MBC TV 예능프로그램 ‘오늘을 버틴 노래-플레이리스트109’에 나와 매니저에 관한 얘기를 했다.그는 가장 힘들었던 시기에 관한 물음에 “특별히 큰 사건이나 사고가 있었던 건 아니다”면서도 “4집 이후 갑자기 방송을 안 하게 됐다”고 말했다.테이는 데뷔 때부터 함께한 매니저가 세상을 떠."
+      "비트코인이 호르무즈 해협을 둘러싼 미국과 이란의 협상 불확실성과 국제유가 상승 부담에 6만3000달러대로 밀렸다.",
+      "위험자산 전반의 투자심리가 위축된 가운데 이날 밤 발표되는 미국의 7월 소비자물가지수(CPI)가 단기 방향성을 가를 핵심 변수로 떠올랐다.12일 오전 코인마켓캡에 따르면 비트코인은 24시간 전보다 약 0.6% 하락한 6만3500달러 안팎에서 거래되고 있다.",
+      "장중에는 6만3000달러 초반까지 밀리며 최근 일주일 사이 가장 낮은 수준을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na17473c5",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260812/134462151/1",
-    "title": "방탄소년단 ‘스윔’, ‘버터’와 같은 ‘핫100’ 20주 연속 진입…코르티스 ‘빌보드200’ 역주행",
+    "id": "n4aa67af2",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154217",
+    "title": "[테크M 이슈] 고강도 체질개선 택한 박병무의 매직...엔씨를 글로벌 게임사로 탈바꿈시켰다",
     "summary": [
-      "글로벌 슈퍼 그룹 ‘방탄소년단’(BTS)의 정규 5집 ‘아리랑’ 타이틀곡 ‘스윔(SWIM)’이 미국 빌보드 메인 싱글차트 ‘핫 100’에 20주 연속 진입하며 장기 흥행 중이다.11일(현지시간) 빌보드가 발표한 최신 차트(8월15일 자)에 따르면, 방탄소년단 ‘스윔’은 ‘핫 100’ 91위에 올랐다.",
-      "이 곡은 지난 4월4일 자 ‘핫 100’에 1위로 처음 진입한 뒤 20주 연속 순위권을 지키고 있다.",
-      "‘스윔’은 이로써 방탄소년단이 2021년 발."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n04c81509",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/12/GBTGIZLFGRQTCODBGE3DAYJZGM/",
-    "title": "'종료 9.7초전 소름의 한끗→女에페 세계챔피언 탈환' 송세라 \"완전히 펜싱을 꿰뚫은 느낌...亞게임 개인전 첫金 초심으로 도전\"[진심인터뷰]",
-    "summary": [
-      "[스포츠조선 전영지 기자]\"완전히 펜싱을 꿰뚫은 느낌이었다.\" '에페 여제' 송세라(부산광역시청·세계 3위)가 4년 만에 세계선수권 정상 탈환의 소감과 아이치·나고야아시안게임 금빛 각오를 전했다.",
-      "송세라는 지난달 25일 홍콩에서 열린 국제펜싱연맹(FIE) 세계선수권 여자 에페 개인전 결승에서 '이탈리아 에이스' 지울리아 리지(세계 8위)를 9대8로 꺾고."
+      "올해 2분기 시장의 예상을 뛰어넘는 호실적을 기록했다.",
+      "'리니지 클래식' 등 핵심 IP의 흥행과 신작 성과가 더해지며 해외 매출 비중도 50%를 넘어섰다.",
+      "국내에서 특정 장르에 집중한 내수용이라는 꼬리표를 떼고 글로벌 시장으로 뻗어나가겠다는 전략이 본격적인 성과로 이어지는 모습이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8cac121a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/people/2026/08/12/KKWA4ADTQVG6XHAJFZ7F635ERI/",
-    "title": "축구 스타 호날두, 10년 열애 연인과 결혼",
+    "id": "n7e349905",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154195",
+    "title": "[금융人사이트] 장병호의 승부수…한화투자증권 '디지털자산 증권사'로 판 바꾼다",
     "summary": [
-      "축구 스타 호날두, 10년 열애 연인과 결혼."
+      "장병호 한화투자증권 대표가 취임 1년을 앞두고 회사의 색깔을 빠르게 바꾸고 있다.",
+      "대형 증권사와 자본력으로 정면 승부하기보다 디지털자산과 실물연계자산(RWA), 글로벌 사업을 새로운 성장축으로 세우는 전략이다.",
+      "두나무 지분을 대폭 늘리고 해외 웹3 기업과 손잡는 동시에 RWA를 회사의 중장기 비전으로 전면에 내세우면서 한화투자증권의 체질 자체를 바꾸려는 모습이다.12일 금융권에 따르면 장 대표는 한화그룹에서 30년 넘게 경력을 쌓은 내부 출신."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n61227f55",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/education/2026/08/12/Q22M6TO4IZAFJEDXVJL5HEW7HM/",
-    "title": "국교위 용역보고서 “채점 공정성 시비 우려…수능 서·논술형 신중해야”",
+    "id": "n7c03dadd",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026081208502462624",
+    "title": "후보물질 발굴·검증까지…LG CNS, 동아쏘시오 AI 신약개발 플랫폼 구축",
     "summary": [
-      "국교위 용역보고서 “채점 공정성 시비 우려…수능 서·논술형 신중해야”."
+      "LG CNS(LG씨엔에스)는 동아쏘시오그룹의 IT 계열사 DAI(디에이아이)와 함께 동아쏘시오그룹의 인공지능(AI) 신약개발 플랫폼 구축을 완료했다고 12일 밝혔다.",
+      "양사가 약 6개월 동안 구축한 이번 플랫폼은 신약 연구 데이터를 통합하고 후보물질 발굴과 검증 등 주요 연구 과정을 AI로 지원한다.",
+      "특히 AI 예측 결과와 실제 실험 데이터를 연계·학습해 연구가 진행될수록 AI 예측 성능이 강화된다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n9051c352",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026081208023439597",
+    "title": "LG디스플레이, 연세대 디스플레이융합공학과 입시 설명회 개최…인재 확보 박차",
+    "summary": [
+      "LG디스플레이가 연세대학교와 손잡고 차세대 디스플레이 산업을 선도할 이공계 미래 인재 유치에 나선다.",
+      "LG디스플레이는 오는 24일 서울 마곡 LG사이언스파크 내 아이에스씨(ISC)에서 연세대학교 디스플레이융합공학과 진학을 희망하는 수험생과 학부모를 대상으로 입시 설명회를 개최한다고 12일 밝혔다.",
+      "이번 행사는 회사와 디스플레이 업에 대한 이해도를 높여 우수 인재들의 지원을 유도하기 위해 마련됐다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n8272443f",
+    "id": "nc36ec794",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026081207372804658",
+    "title": "LG전자, FDA 승인 진단용 모니터 출시…의료용 디스플레이 공략 강화",
+    "summary": [
+      "LG전자가 12일 미국 식품의약국(FDA) 의료기기 승인을 획득한 진단용 모니터 신제품(모델명 40HT513D)을 전격 선보이며 기업 간 거래(B2B) 의료용 디스플레이 시장 입지 다지기에 나섰다.",
+      "이번 신제품은 40형 크기에 21대 9 화면 비율을 갖춘 곡면 아이피에스(IPS) 블랙 패널이 적용됐다.",
+      "5120×2160 해상도와 총 11메가픽셀(MP)을 구현해 기존 3메가픽셀급 모니터 3대로 진행하던 영상 판독 작업을 단일 화면에서 효율적으로."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd1d73a47",
     "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745330",
-    "title": "이란대통령 \"파키스탄과 모든 방면의 협력 강화할 준비 돼 있어\"",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003745528",
+    "title": "LG디스플레이, 연세대 계약학과 입시 설명회 개최…이공계 인재 확보 속도",
     "summary": [
-      "[테헤란( 이란)= 신화/ 뉴시스] 차미례 기자 = 이란의 마수드 페제시키안 대통령은 11일(현지시간) 테헤란을 방문한 모흐신 나크비 파키스탄 내무장관과 회담하면서 앞으로 모든 방면에서 파키스탄과 상호 협력할 준비가 되어 있다고 밝혔다.",
-      "그는 나크비 장관에게 두 나라 사이의 \" 훌륭한 양국 관계와 깊은 유대\"를 강조하면서 앞으로 모든 방면에서 두 나라와 공동 이익을 위해 노력하겠다고 말한 것으로 대통령실 전용 웹사이트에 발표했다."
+      "[서울=뉴시스]이지용 기자 = LG디스플레이가 회사의 경쟁력을 한층 끌어올리기 위해 이공계 인재 확보에 속도를 낸다.",
+      "LG디스플레이는 연세대학교와 함께 오는 24일 서울 마곡 LG사이언스파크 ISC에서 연세대 디스플레이융합공학과 진학을 희망하는 수험생과 학부모를 대상으로 입시 설명회를 개최한다고 12일 밝혔다.",
+      "이번 행사는 회사와 디스플레이 업계에 대한 이해도를 높여 우수 인재들의 지원을 유도하는 데 목적이 있다."
     ],
     "chips": [
-      "#정치"
+      "#교육"
     ]
   },
   {
-    "id": "n3cf873e4",
+    "id": "nc33b0c97",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026081209421637978",
+    "title": "BMI 정상이라도 방심은 금물…심혈관 위험, 허리둘레 보면 안다",
+    "summary": [
+      "심혈관질환 위험을 가늠할 때 체질량지수(BMI)에 허리둘레를 함께 살펴야 한다는 연구 결과가 나왔다.",
+      "12일 연합뉴스에 따르면 미국 존스홉킨스대 시카론 심혈관질환 예방센터 임상연구 책임자인 마이클 J.",
+      "블라하 박사팀은 26만여명을 평균 20년간 추적한 결과를 미국심장학회지(JACC)에 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na3e9fd99",
     "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745399",
-    "title": "디에스엠 \"9.81파크 제주, 8월 첫째주 판매액 역대 최대\"",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003745593",
+    "title": "[단독]LG전자 대리점장이 6억4천만원 '신혼가전 사기'…1심 징역 3년6개월",
     "summary": [
-      "[서울=뉴시스] 김경택 기자 = 디에스엠(DSM)은 모노리스 사업부가 운영하는 '9.81파크 제주'가 폭염이 이어진 8월 첫째 주에도 역대 최대 판매액을 기록하며 성장세를 이어가고 있다고 12일 밝혔다.",
-      "회사 측에 따르면 9.81파크 제주는 지난 3~9일 일주일간 약 6억4000만원의 판매액을 기록했다.",
-      "이는 지난 2020년 개장 이후 주간 기준 역대 최고치다."
+      "[서울=뉴시스]이태성 기자 = 예비 신혼부부 등 고객 37명에게서 가전제품 구매 대금 명목으로 6억4000만원을 가로챈 뒤 잠적했던 전 LG전자 대리점 지점장이 두 차례 재판에서 모두 실형을 선고받았다.",
+      "12일 법조계 등에 따르면 서울북부지법 형사5단독 권소영 판사는 사기 혐의로 기소된 전 LG전자 베스트샵 동대문구 A지점 판매 매니저 양모(42)씨에게 지난 3월과 7월 각각 징역 2년6개월과 징역 1년을 선고했다.",
+      "두 사건의 형을 합치면 징역."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbfa34e30",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745379",
-    "title": "7월 부산 취업자, 전년대비 0.8%↑…5개월 만에 '증가세'",
-    "summary": [
-      "[부산=뉴시스] 하경민 기자 = 부산지역 취업자 수가 5개월 만에 증가세로 전환됐다.",
-      "12일 동남데이터청이 발표한 '올해 7월 부산시 고용동향'에 따르면 지난달 부산의 취업자는 전년 동월 대비 1만4000명(0.8%) 증가한 172만3000명으로 집계됐다.",
-      "전년동월대비 기준 지난 3월(-5000명)부터 마이너스를 기록하다가 5개월 만에 증가세로 돌아선 것이다."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n8332322d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "6분 전",
-    "url": "https://www.hankyung.com/article/2026081255847",
-    "title": "\"이동하려면 15억\"…1년 만에 16배 폭등한 파나마운하",
-    "summary": [
-      "\"이동하려면 15억\"…1년 만에 16배 폭등한 파나마운하."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37143fde",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/2026081256876",
-    "title": "\"CJ대한통운, 이익 개선 시점 불확실…목표가↓\"-iM",
-    "summary": [
-      "\"CJ대한통운, 이익 개선 시점 불확실…목표가↓\"-iM."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na2f79d77",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/202608125654i",
-    "title": "투자자 반란에 멈춘 4000억달러 합병…아스트라 전략 흔들",
-    "summary": [
-      "투자자 반란에 멈춘 4000억달러 합병…아스트라 전략 흔들."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8874f3be",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/202608125610g",
-    "title": "\"배송·상품·멤버십 시너지\"…SSG닷컴, 7월 그로서리 매출 12% 증가",
-    "summary": [
-      "\"배송·상품·멤버십 시너지\"…SSG닷컴, 7월 그로서리 매출 12% 증가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n078029a5",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260812/134462102/1",
-    "title": "‘오디세이’, 일주일 내내 박스오피스 1위…236만 돌파",
-    "summary": [
-      "영화 ‘오디세이’(감독 크리스토퍼 놀런)가 일주일 내내 박스오피스 1위를 지켰다.12일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 ‘오디세이’는 지난 11일 하루 동안 23만 6229명의 관객을 동원하면서 박스오피스 정상이 자리를 차지했다.",
-      "누적 관객 수는 236만 8657명이다.‘오디세이’는 지난 5일 개봉 후 박스오피스 1위에 오른 후 그 자리를 5일째 지키는 중이며, 개봉 4일째인 지난 9일 100만 관객을 돌파했고 5일째인 1."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc1a86298",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "41분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260812/134462031/1",
-    "title": "오늘밤 별똥별 쏟아진다…시간당 100개 ‘유성우’ 관측 적기",
-    "summary": [
-      "여름 밤하늘을 수놓는 대표적 천문현상인 페르세우스자리 유성우가 12일 밤부터 관측 적기에 접어든다.",
-      "올해는 달빛의 간섭이 거의 없는 합삭 시기와 맞물려 희미한 별똥별까지 감상할 수 있는 최적의 여건이 조성됐다.",
-      "12일 한국천문연구원에 따르면 올해 페르세우스자리 유성우의 계산상 극대 시각은 13일 낮 12시다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6fed80da",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "56분 전",
-    "url": "https://www.hankyung.com/article/2026081255047",
-    "title": "AI·반도체 연구 발전하지만…\"원자력은 '정체'\" 분석 결과 나와",
-    "summary": [
-      "AI·반도체 연구 발전하지만…\"원자력은 '정체'\" 분석 결과 나와."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n06a2f9a9",
+    "id": "n6dd1016a",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "2시간 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/12/XJU7Z6VLQBHKFNUOFVNBZBS4VA/",
-    "title": "“4팀 중 3팀만 살아남는다”… 독파모 2차 평가 앞둔 AI 4종 해부",
+    "time": "1분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/12/OZIT3JBFPVD2FHYNOBMEF42FX4/",
+    "title": "컴투스, 2분기 영업익 72억원…전년比 421% 증가",
     "summary": [
-      "“4팀 중 3팀만 살아남는다”… 독파모 2차 평가 앞둔 AI 4종 해부."
+      "컴투스, 2분기 영업익 72억원…전년比 421% 증가."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "n49cf6598",
-    "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154215",
-    "title": "\"GPU 사놓고 못 쓰는 것도 비용\"...오라클, 데이터 있는 곳에서 AI 실행한다",
+    "id": "n75ba5ff3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003745698",
+    "title": "네오위즈, 2분기 영업익 79억원…박성준 공동대표 선임",
     "summary": [
-      "오라클이 'OCI 액셀러론'을 공개했다.",
-      "기업의 AI 활용 과정에서 데이터 이동으로 발생하는 병목과 지연 문제를 줄이기 위한 차세대 아키텍처다.",
-      "이전 세대의 격리·보안 원칙을 계승하면서 AI 환경에 맞춰 기술을 고도화했다."
+      "[서울=뉴시스]오동현 기자 = 네오위즈가 '브라운더스트2' 등 모바일게임 성장에 힘입어 올해 2분기 매출 1000억원대를 유지했다.",
+      "'P의 거짓' 흥행을 이끈 박성준 신작개발그룹장을 공동대표로 선임하고 글로벌 신작 발굴에 역량을 집중한다.",
+      "네오위즈는 올해 2분기 매출 1021억원, 영업이익 79억원을 기록했다고 12일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44321d40",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260812/134462837/1",
+    "title": "한화 건설부문, AI 데이터센터 ‘전력·냉각’ 잡는다…국책과제 참여",
+    "summary": [
+      "한화 건설부문은 기후에너지환경부와 한국에너지기술평가원이 추진하는 에너지 효율화 연구사업 국책과제 사업자로 선정돼 AI 데이터센터의 전력·냉각 효율을 높이는 기술 개발과 실증에 나선다고 12일 밝혔다.한화 건설부문은 그동안 쌓아온 데이터센터 설계·시공 경험을 바탕으로 데이터센터의 전력 수요를 효율적으로 관리하는 기술 개발에 참여한다고 설명했다.",
+      "전력 공급 안정성을 높이기 위한 고효율 모듈형 무정전전원공급장치(UPS)와 고밀도 AI 서버에서 발생하."
     ],
     "chips": [
       "#AI",
@@ -584,51 +519,119 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbccc0b2c",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "4시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154212",
-    "title": "[카드뉴스] 18년 된 게임이 22조원 IP로.. '크로스파이어'는 어떻게 세계적인 게임이 되었을까?",
+    "id": "nefe0e6a2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812047500003",
+    "title": "한국 조선 7월 수주 점유율 16%…중국 81%로 압도적 우위",
     "summary": [
-      "2007년 출시된 게임이 18년이 지난 지금도 새로운 무대를 만들고 있습니다.",
-      "글로벌 이용자 11억 명, 누적 매출 약 22조4,500억원을 기록한 스마일게이트의 ‘크로스파이어’ 이야기입니다.",
-      "PC FPS로 시작했지만 e스포츠와 드라마, 애니메이션, VR을 거쳐 이제는 새로운 AAA 게임까지 영역을 넓히고 있는데요."
+      "(서울=연합뉴스) 김윤구 기자 = 한국 조선업계가 지난 7월 전 세계 선박 발주량의 16%를 수주한 것으로 나타났다.",
+      "중국은 81%를 차지하며 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0ebf7aba",
-    "category": "IT",
-    "source": "테크M",
-    "time": "5시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154214",
-    "title": "글로벌 시장 평정한 펄어비스 깜짝 실적...붉은사막 DLC·스위치2로 장기 흥행 노린다",
+    "id": "n89ff02b4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812045100017",
+    "title": "KT 2분기 영업익 36% 감소…AX 사업 매출은 22% 성장(종합)",
     "summary": [
-      "펄어비스가 '붉은사막'의 글로벌 흥행을 앞세워 2분기 호실적을 달성했다.",
-      "신작 매출이 전체 실적을 견인한 가운데 해외 매출 비중도 90%를 넘어섰다.",
-      "펄어비스는 붉은사막의 장기 흥행을 위해 DLC와 플랫폼 확장 등을 추진하며 글로벌 시장 공략을 이어갈 방침이다.펄어비스는 올해 2분기 영업이익이 676억원을 기록해 전년 동기 대비 7389% 증가했다고 11일 밝혔다."
+      "(서울=연합뉴스) 박형빈 기자 = KT[030200]는 연결 기준 올해 2분기 영업이익이 6천483억원으로 지난해 동기보다 36.1% 감소했다고..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncb165558",
-    "category": "IT",
-    "source": "테크M",
-    "time": "5시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154213",
-    "title": "리니지 넘어 모바일 캐주얼로 뛰는 엔씨...'저스트플레이' 앞세워 글로벌 플랫폼 도약(종합)",
+    "id": "n1ba28fa9",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812047800003",
+    "title": "코오롱글로벌 2분기 영업익 522억원…작년 대비 173.6%↑",
     "summary": [
-      "엔씨가 핵심 지식재산권(IP)인 '리니지' 중심에서 벗어나 모바일 캐주얼 사업을 새로운 성장동력으로 키우고 있다.",
-      "지난해 인수한 모바일 캐주얼 게임 플랫폼 '저스트플레이'의 성장세가 가파른 가운데 자체 스튜디오를 넘어 외부 개발사까지 플랫폼에 합류시키는 전략도 본격화한다.",
-      "인공지능(AI)을 활용한 게임 개발을 통해 모바일 캐주얼 사업을 글로벌 플랫폼 사업으로 확장한다는 구상이다.엔씨는 올해 2분기 연결 기준 영업이익이 1739억원을 기록해 전년."
+      "(서울=연합뉴스) 임기창 기자 = 코오롱글로벌은 올 2분기 연결 기준 영업이익이 작년 동기 대비 173.6% 증가한 522억원으로 잠정 집계됐다..."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n54a9a44b",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812045600002",
+    "title": "[게시판] 교보생명-토스, 디지털 자산 금융서비스 협력 MOU",
+    "summary": [
+      "[게시판] 교보생명-토스, 디지털 자산 금융서비스 협력 MOU."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n78b507d9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260812/134462802/1",
+    "title": "안철수, 친한계 저격…“복당운동권’이 당을 쑥대밭으로“",
+    "summary": [
+      "안철수 국민의힘 의원이 제명 등으로 당을 나간 뒤 복당을 시도하는 당내 인사를 저격하며 “복당운동권을 근절해야 한다”고 주장했다.",
+      "그러면서 차기 총선에서 이들에게 공천을 주지 말아야 한다고 강조했다.",
+      "사실상 친한동훈계를 겨냥한 것으로 해석된다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8d7b000f",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812047300003",
+    "title": "부동산원·HUG, 확정일자 정보 연계…안심전세 앱서 확인",
+    "summary": [
+      "(서울=연합뉴스) 오진송 기자 = 한국부동산원은 전세사기 예방과 임차인 보증금 보호를 위해 주택도시보증공사(HUG)와 '확정일자 정보 연계 사업..."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "na018698e",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "11분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/12/Z4GNFM4OBBEO5LE57X5FPAXOZI/",
+    "title": "더블유게임즈, 2분기 영업이익 701억원…분기 최대 실적 경신",
+    "summary": [
+      "더블유게임즈, 2분기 영업이익 701억원…분기 최대 실적 경신."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na625e316",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812043800061",
+    "title": "용인 남사 반도체국가산단 관통 45번 국도 확장 사업 본궤도",
+    "summary": [
+      "(용인=연합뉴스) 김광호 기자 = 경기 용인시 이동·남사읍 일대에 조성 중인 '용인 첨단시스템반도체 클러스터 국가산업단지'의 핵심 교통망인 국도..."
+    ],
+    "chips": [
+      "#반도체"
     ]
   }
 ];
@@ -644,8 +647,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
