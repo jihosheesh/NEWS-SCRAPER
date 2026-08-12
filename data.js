@@ -1,19 +1,18 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-12 14:13:24
+// 마지막 업데이트: 2026-08-12 15:50:03
 window.NEWS_DB = [
   {
-    "id": "nda655558",
+    "id": "n6438bfa5",
     "category": "IT",
-    "source": "동아일보",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTG54U3ZVdXl3RndHZUVpczliSEJ1WnNpTGJJVWdJWmk2OXpBY0hHVE1MS0NQMGEweXZjSHdkV0NveXpPa0dCMnVEZEdjY0hnS3lvWl9MWF9uYU9sYWxTRlhmNDl1TzUtV0JxNUlNY2FOZnNHa3fSAWZBVV95cUxNeVZGUjMxWHpwd2dqc2RhenVvZlVtMnFUVk93RVlmd0xUOGl5WlY3WU5yeVpPT1JockdPQlg5aXhFT0hyT3U2YUNXNmNKZ0pibS1wa3pORHpEWGg4WVR3Q1d4Nl9LWEE?oc=5",
-    "title": "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다",
+    "source": "donga.com",
+    "time": "19분 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GcktYQy1zeEJaTnNMYzNvTG5NWWRWOWpoZVNmaTk2Z1VjLXdjWFpHWUFxZGk0dEFHaHM5NFNHTWtxZnZiTkk2SVlFM0NaZEtCWGJoSkdEQ2l3cEZUd1dPeW9MWkJTN0ZDRFJPZk5VVGtrQnJOc0HSAWZBVV95cUxQX1lNQnktbm4wdlJFWEdhS09rb0RlZFRTbW1Nb3hBYzc3TFRZZzNxcGM5MDkzV0d6QktRT2Y5X1o0bThJVHU1X19jZkpIVUNPVjhrTFN3cnlmVTVNRlE5ZVIzeXh1MFE?oc=5",
+    "title": "“엔비디아, ‘1조 매개변수’ 오픈소스 AI 개발중”",
     "summary": [
-      "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다 동아일보."
+      "“엔비디아, ‘1조 매개변수’ 오픈소스 AI 개발중” donga.com."
     ],
     "chips": [
       "#AI",
-      "#반도체",
       "#엔비디아"
     ]
   },
@@ -21,7 +20,7 @@ window.NEWS_DB = [
     "id": "naf4162e7",
     "category": "IT",
     "source": "뉴시스",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBRedIBeEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBReQ?oc=5",
     "title": "SK하이닉스는 HBM 설계, 삼성전자는 美테일러 인력…반도체 인재채용 '러시'",
     "summary": [
@@ -37,12 +36,12 @@ window.NEWS_DB = [
   {
     "id": "nb0ebb4db",
     "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "8시간 전",
+    "source": "businesspost.co.kr",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xaFpJNlI5dEFZQVY3NTN2Uzl3UFcyOUl1dUZkZFhHVHkzMFBjMV9JVS1JTV90WXZfRVdycC1zNk9YbktCSkhKZjZ4Z1hYSHA3VmZ1T0JXUFpxbnBweWNZOFJ5bWVxWUJ3QS15bWpDUGRsOEk?oc=5",
     "title": "젠슨 황 '엔비디아 반도체 담보대출' 승부수, AI 투자 판 키워 리스크도 나눈다",
     "summary": [
-      "젠슨 황 '엔비디아 반도체 담보대출' 승부수, AI 투자 판 키워 리스크도 나눈다 비즈니스포스트."
+      "젠슨 황 '엔비디아 반도체 담보대출' 승부수, AI 투자 판 키워 리스크도 나눈다 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -53,12 +52,12 @@ window.NEWS_DB = [
   {
     "id": "n4710842f",
     "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "8시간 전",
+    "source": "businesspost.co.kr",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTjBfdnBmTGVzNWJGa293QWItNS00cG5EdGw1RjNFSDJFNlNTSFE5aGV6N05iTDFPX1ZlZUdMcVlBUERiTHRmVW5Qdk9UNm9id2FKLW9TWkk1YjJCdUZfLU9uVEU5Zm1UNEI4RWQxTDNpbDg?oc=5",
     "title": "인텔 이석희 앞세워 저전력 AI용 D램 개발, 삼성전자·SK하이닉스 HBM 아성 흔들지 주목",
     "summary": [
-      "인텔 이석희 앞세워 저전력 AI용 D램 개발, 삼성전자·SK하이닉스 HBM 아성 흔들지 주목 비즈니스포스트."
+      "인텔 이석희 앞세워 저전력 AI용 D램 개발, 삼성전자·SK하이닉스 HBM 아성 흔들지 주목 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -71,7 +70,7 @@ window.NEWS_DB = [
     "id": "n1f2010df",
     "category": "IT",
     "source": "매일일보",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
     "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
     "summary": [
@@ -86,7 +85,7 @@ window.NEWS_DB = [
     "id": "ne50ec99d",
     "category": "IT",
     "source": "경향신문",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSTUhWQkw3UEtoaFJIQTBlbkd0YXdPbVBtcWxVNVBfR01COW9XZGFIUEFEb2U5WFhLVTFhWmFqLWZwbTNHNnlCbkZIeWJwQXZWczdqMHMwX0I1UdIBX0FVX3lxTE1pcDdBUURUejI0dG1vZlJXXzRGS3VvT1JxTXlCWHViLUNjMzVCcklQZndkcjJyeDFmZVZFcWN2aVBfcjZ4UTk1bnBFUDZfcjh2T25fazNza1lkU04yUy1r?oc=5",
     "title": "“공짜 AI가 반도체에도 좋다” 엔비디아, 개방형 AI 모델 첫 공개",
     "summary": [
@@ -132,15 +131,29 @@ window.NEWS_DB = [
   {
     "id": "n51d745e9",
     "category": "스포츠",
-    "source": "news.nate.com",
+    "source": "네이트",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vcjlBRHNjalpoUk42Uy1vSWNheWxCWlR1ZlIwd3FhaFoyaV9SNlZTN05RQ0haRXR5RUJaSWxNQXp1TWpabnFsVXZDbzlJeGJmV3NCbnBtWUx6dlpXajh5NzUyVUtqUE1qczM3RWttNWc4Ylk1NFY0Zw?oc=5",
     "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
     "summary": [
-      "KBO, 연이은 폭염에 프로야구 대책 논의 news.nate.com."
+      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "n0fbb40c3",
+    "category": "경제",
+    "source": "산경투데이",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
+    "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
+    "summary": [
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
+    ],
+    "chips": [
+      "#금리"
     ]
   },
   {
@@ -184,20 +197,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n6aa2d332",
-    "category": "경제",
-    "source": "Chosunbiz",
-    "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
-    "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
-    "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -381,256 +380,256 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na3f58f43",
-    "category": "스포츠",
+    "id": "n5e2e9042",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746914",
-    "title": "'구창모 7이닝 무실점' NC, 선두 KT 8연승 저지…KIA 4위 탈환(종합)",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746547",
+    "title": "\"14세 총기 난사에 8명 사망\"…태국, 신규 총기 허가 전면 중단",
     "summary": [
-      "[서울=뉴시스]김희준 박윤서 기자 = 프로야구 NC 다이노스가 토종 에이스 구창모의 호투를 내세워 KT 위즈의 8연승 도전에 제동을 걸었다.",
-      "NC는 12일 창원 NC파크에서 열린 2026 신한 쏠 KBO리그 KT와의 홈 경기에서 3-0으로 이겼다.",
-      "영봉승을 거둔 7위 NC는 44승 2무 51패를 기록했다."
+      "[서울=뉴시스]전민영 인턴 기자 = 태국 정부가 학교 총기 난사 사건을 계기로 신규 총기 허가 발급을 전면 중단하기로 했다.",
+      "14세 소년이 가족 소유의 권총으로 조부모를 살해한 뒤 학교에서 총기를 난사해 교사와 학생 등 8명이 숨진 사건이 발생한 데 따른 조치다.",
+      "지난 11일(현지 시간) 영국 BBC 보도에 따르면 태국 정부는 지난주 발생한 총격 사건 이후 별도의 공지가 있을 때까지 총기를 구매하거나 소유하기 위한 신규 허가를 내주지 않기로 했."
     ],
     "chips": [
-      "#KBO"
+      "#교육"
     ]
   },
   {
-    "id": "n92f07286",
+    "id": "n15782ae8",
     "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468780/2",
-    "title": "[고양이 눈]“사랑을 배달합니다”",
-    "summary": [
-      "도심 한복판에서 사람들이 커다란 하트를 옮기고 있습니다.",
-      "이렇게 큰 사랑은 누구에게 전해지는 걸까요.",
-      "－서울 종로구 광화문광장에서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9258355d",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468258/2",
-    "title": "[사진기자의 사談진談/홍진환]“몸 아닌 경기력 비춰라” 여성선수 담는 카메라의 새 원칙",
-    "summary": [
-      "이달 10일부터 16일까지 영국 버밍엄에서 열리는 2026 유럽육상선수권대회에서 새로운 중계방송 가이드라인이 도입됐다.",
-      "유럽방송연맹(EBU)과 유럽육상연맹(EA)은 홈페이지를 통해 카메라 촬영과 화면 편집에 관한 구체적인 지침을 제시했다.",
-      "스포츠 중계의 오랜 문제로 지적돼 온 여성 선수의 성적 대상화를 막기 위해서다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd84b999d",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812169451007",
-    "title": "호랑이 대포 3방에 사자 4연패…한화 허인서 연장 10회 결승타(종합)",
-    "summary": [
-      "(서울=연합뉴스) 장현구 기자 = 프로야구 팀 홈런 1위 KIA 타이거즈가 대포 3방을 몰아쳐 시즌 130개를 돌파하며 삼성 라이온즈를 4연패 ..."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n336404f5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812170700083",
-    "title": "中현대사 풍파 온몸으로 맞은 개혁 전도사…주룽지 前총리 별세",
-    "summary": [
-      "(베이징=연합뉴스) 정성조 특파원 = 12일 별세한 주룽지(朱鎔基·1928∼2026) 전 총리는 당대 중국에서 존경받는 정치인 중 한 명으로 꼽..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd07ac247",
-    "category": "경제",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/12/MQYWMZRYGYYTGZTFGFSWKMLDGI/",
-    "title": "뉴욕증시, CPI 예상 부합에 상승 출발…나스닥 0.9%↑",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/13/AC2LZLTWKZAMVOWC35RSEECNRM/",
+    "title": "아이맥스 볼만하지만… 가운데 ‘명당’ 자리서 멀면 몰입감 떨어져",
     "summary": [
-      "미국의 인플레이션 지표가 시장 예상에 부합하고 인공지능(AI) 관련 기업들의 실적 호조가 이어지면서 뉴욕증시가 상승 출발했다.",
-      "12일(현지시각) 뉴욕증권거래소(NYSE)에 따르면 이날 다우존스30산업평균지수는 전장보다 5.6포인트(0.01%) 오른 5만 3797.47에 거래를 시작했다.",
-      "스탠더드앤드푸어스(S&P)500지수는 37.3포인트(0.48%) 상승한."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n4ae3ebb8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812172100082",
-    "title": "유럽 출입국 혼란…EU 사전 여행허가제 또 연기",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 유럽연합(EU)이 비자 면제 대상 외국인에게 사전에 여행 허가를 내주는 유럽여행정보·허가시스템(ETIAS)..."
+      "아이맥스 볼만하지만… 가운데 ‘명당’ 자리서 멀면 몰입감 떨어져."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na5f0d589",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468518/2",
-    "title": "왼손잡이 거장의 명작[이은화의 미술시간]〈435〉",
-    "summary": [
-      "8월 13일은 ‘국제 왼손잡이의 날’이다.",
-      "왼손잡이들이 겪는 불편을 알리고 다름을 존중하자는 취지로 제정됐다.",
-      "미술사에서 가장 유명한 왼손잡이를 꼽으라면 단연 레오나르도 다빈치다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0c1bbba8",
+    "id": "n002b94d8",
     "category": "IT",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468253/2",
-    "title": "‘하나의 영혼’이 아리스토텔레스 우정 명언? AI시대, 원전을 펼쳐라[강용수의 철학이 필요할 때]",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/13/DDJQVWPQSRA6PPBYBIL2QXAQOI/",
+    "title": "[일사일언] 인공지능이 보는 나는 누구인가",
     "summary": [
-      "《 AI가 재생산하는 인간의 오류인공지능(AI) 시대에는 검색 기능을 잘 활용하면 자료를 손쉽게 찾을 수 있다.",
-      "그러나 자칫 AI가 내놓은 답에 지나치게 의존하다 보면 낭패를 볼 수도 있다.",
-      "우정을 다룬 가장 유명한 철학서는 아리스토텔레스의 ‘니코마코스 윤리학’이다."
+      "[일사일언] 인공지능이 보는 나는 누구인가."
     ],
     "chips": [
-      "#AI"
+      "#AI",
+      "#채용"
     ]
   },
   {
-    "id": "n7a5c2600",
+    "id": "n9d722abe",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/13/VGXS4U2BZJGC7AETBG4JVXJ2W4/",
+    "title": "나란히 ’600쪽 벽돌책' 들고 온 소설가들… 때리고 맞으며 자기를 찾다",
+    "summary": [
+      "나란히 ’600쪽 벽돌책' 들고 온 소설가들… 때리고 맞으며 자기를 찾다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n955de4ee",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/13/BVHMY6WHZVE2RPDSRYSWT7W6AI/",
+    "title": "스무 살 작곡가의 첫 음악극은 ‘동화 비틀기’",
+    "summary": [
+      "스무 살 작곡가의 첫 음악극은 ‘동화 비틀기’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4cffacfa",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003745796",
+    "title": "\"최장 11일 쉴 수 있다\"…9~10월 황금연휴에 여행객들 들썩",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 다가오는 9월 추석 연휴와 10월 징검다리 연휴를 앞두고 여행 계획을 세우고 숙소를 서둘러 예약하려는 사람들이 늘고 있다.",
+      "11일 여행업계 등에 따르면 올해 추석 연휴가 예년보다 길게 이어지면서 여행 수요가 일찍부터 몰리고 있다.",
+      "추석 당일인 9월 25일 금요일을 중심으로 목요일부터 일요일까지 나흘 간의 휴일이 이어진다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3edfecf1",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812171700001",
-    "title": "張, 선관위 '선거소청 기각'에 \"커닝은 했지만 괜찮다는 거냐\"",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813000500072",
+    "title": "'강진 피해' 콜롬비아, 사흘간 국가 애도기간 선포",
     "summary": [
-      "(서울=연합뉴스) 조다운 기자 = 국민의힘 장동혁 대표는 12일 자당이 제기한 6·3 서울시장 선거소청 등을 기각한 중앙선관위를 향해 \"반드시 ..."
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 콜롬비아 정부는 12일(현지시간) 서부 지역을 강타한 강진 희생자를 추모하기 위해 사흘간의 국가 애도 기간을..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb36c65b7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746937",
+    "title": "우크라, 러 흑해함대 핵심기지 대공습…\"마지막 주요 거점 타격\"",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 우크라이나가 대함 미사일과 드론을 동원해 러시아 흑해함대의 핵심 거점인 노보로시스크 해군기지를 대규모로 공격했다.",
+      "12일(현지 시간) AP통신에 따르면 볼로디미르 젤렌스키 우크라이나 대통령은 이날 소셜미디어를 통해 \"흑해에서 러시아 함대의 마지막 주요 거점인 노보로시스크 해군기지를 겨냥한 독특한 작전을 수행했다\"고 밝혔다.",
+      "젤렌스키 대통령은 이번 공격으로 러시아군의 방공시설과 부두를 비롯한 항만 기반시설을 타격했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n607125e9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/football/2026/08/12/ME2WEYJZG5QTCNBYMIYTSYJWHE/",
-    "title": "\"韓 축구 이끌 꿈나무 자란다\" '대형스타 대거 육성' U-15 챔피언십 '후끈'…정정당당 실력 겨루고 우정도 쌓는다",
-    "summary": [
-      "[천안=스포츠조선 김가을 기자]대한민국의 축구 미래를 이끌 '꿈나무'가 자란다.",
-      "충남 천안 일원에서 '2026 K리그 15세 이하(U-15) 챔피언십'이 펼쳐지고 있다.",
-      "지난 8일 개막해 20일까지 K리그 산하 27개 팀의 중등부가 참가해 실력을 겨룬다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35baf19d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/12/MUXFJ3DVZ5EHFLOXHO2E4XCY7A/",
-    "title": "‘하얀거탑’ ‘밀회’ 안판석 감독, 뇌출혈 투병 중 별세",
-    "summary": [
-      "‘하얀거탑’ ‘밀회’ 안판석 감독, 뇌출혈 투병 중 별세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n93ba6cae",
+    "id": "nf166fcf3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746925",
-    "title": "국가소방동원령 '극한 가뭄 경남'…하루동안 4769t 물 공급(종합)",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746095",
+    "title": "트럼프 '반이민' 강경책 어디까지…美 이민단속국, '전기충격 장갑' 도입 추진",
     "summary": [
-      "[창원=뉴시스] 김기진 기자 = 폭염과 가뭄이 겹친 경남에 국가소방동원령 발령으로 전국에서 집결한 소방 물탱크차 200대가 하루 동안 4769t이 넘는 물을 공급했다.",
-      "국가소방동원령은 재난 발생 우려가 크거나 재난이 발생해 해당 시도의 소방력만으로 대응하기 어렵다고 판단될 때 전국의 소방력을 동원하는 조치다.",
-      "가뭄으로 국가소방동원령이 발령된 것은 지난해 8월 강원도 강릉에 이어 두 번째다."
+      "[서울=뉴시스]박세은 인턴 기자 = 도널드 트럼프 행정부의 반이민 정책을 보여주는 이민세관집행국(ICE)이 사람에게 전기 충격을 가하는 장갑을 현장 요원들에게 지급할 계획인 것으로 알려졌다.",
+      "12일(현지 시간) AP통신 단독 보도에 따르면 미국 국토안보부는 ICE 요원들에게 지급할 목적으로 '전기 충격 장갑'인 'CTG-5 글러브' 조달 계약을 추진하고 있다.",
+      "국토안보부는 조달 계획 예고 시스템을 통해 ICE 산하 국토안보부 수사국(HSI)과."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nfb6dd459",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026081300320189404",
+    "title": "'멜로 장인' 안판석, 40년 연출 인생에 마침표 찍다",
+    "summary": [
+      "드라마 '하얀거탑(2007)', '밥 잘 사주는 예쁜 누나(2018)'를 만든 안판석 감독이 별세했다.",
+      "12일 방송계에 따르면 뇌출혈로 쓰러져 입원 치료를 받던 중 이날 오후 세상을 떠났다.",
+      "1961년생인 안 감독은 1987년 MBC에 입사해 드라마 연출을 시작했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7aa5f9bf",
+    "id": "n9b7e8d74",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746924",
-    "title": "장동혁, 선관위 선거 소청 기각에 \"특검·선거 소송으로 갈 수밖에\"",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812173900071",
+    "title": "\"트럼프 전용기 갈아탈 때 서열 1·2위 장관 아닌 측근만 동행\"",
     "summary": [
-      "[서울=뉴시스]김지훈 기자 = 심장동혁 국민의힘 대표는 12일 중앙선거관리위원회가 국민의힘이 제기한 서울 등 7개 지역 광역자치단체장 선거무효 소청을 모두 기각하자 \"결국 특검에서 제대로 수사할 수밖에, 선거 소송으로 갈 수밖에 없다\"고 했다.",
-      "장 대표는 이날 페이스북 메시지를 통해 \"오늘의 기각에 대해 중앙선관위는 반드시 책임을 져야 할 것\"이라며 이같이 밝혔다.",
-      "그는 \"(선관위는) 투표용지 부족 및 투표 중단에 관해 '선거에 관한 규정을 위."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령이 지난달 8일 튀르키예 앙카라에서 귀국하면서 암살 위협을 이유로 대통령 전용기(..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "ndeead491",
+    "id": "nc15cbcef",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746875",
-    "title": "[KBO 내일의 선발투수]8월13일(목)",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260812/134467541/2",
+    "title": "‘드라이버를 위한 전기차’… 주행 안전성 돋보이는 폴스타3",
     "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 8월13일(목)> ▲잠실(오후 7시) 한화 (류현진) - (최민석) 두산 ▲문학(오후 7시) 롯데 (엘빈 로드리게스) - (타케다 쇼타) SSG ▲광주(오후 7시) 삼성 (원태인) - (시라카와 게이쇼) KIA ▲창원(오후 7시) KT (데이비스 대니엘) - (크리스 테일러) NC ▲고척(오후 7시) LG (앤더스 톨허스트) - (라울 알칸타라) 키움."
+      "“정숙한 전기 스포츠유틸리티차량(SUV)의 탈을 쓴 사실상의 스포츠카.” 12일 경기 용인시 스피드웨이 트랙에서 스웨덴 기반 전기차 업체 폴스타의 간판 대형 SUV인 폴스타3로 트랙 7바퀴를 연달아 밟아본 뒤 느낀 인상이다.",
+      "코너링 구간이 유독 즐비한 이 국내 최장 트랙(4.346km)에서 최대 시속 190km로 질주하는 도중에 계기판을 종종 확인할 때마다 놀랐다.",
+      "체감되는 속도가 계기판에 찍히는 것보다 시속 50km가량은 낮아서였다."
     ],
     "chips": [
-      "#KBO"
+      "#전기차"
     ]
   },
   {
-    "id": "nd7a494d1",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "35분 전",
-    "url": "https://www.hankyung.com/article/2026081278391",
-    "title": "동전주·시총 미달 36社 관리종목 지정",
+    "id": "n2c7a3024",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260812/134467911/2",
+    "title": "‘생산적 금융’에도… 1년간 대출증가 58%는 대기업몫",
     "summary": [
-      "동전주·시총 미달 36社 관리종목 지정."
+      "정부가 투자 위험이 있더라도 첨단 전략산업 등 생산적인 분야에 자금을 지원하는 생산적 금융 규모가 150조 원에 달한다고 발표했지만 정작 자세히 들여다보면 투자 위험이 적은 대기업과 담보 중심의 대출이 상당한 것으로 나타났다.",
+      "주요 은행의 돈이 여전히 위험을 피하는 방향으로 흐른다는 지적이 나온다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n16c2c56f",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "37분 전",
-    "url": "https://www.hankyung.com/article/2026081278007",
-    "title": "승무원 출신 캐나다 男 조종사 행세…200차례 항공편 무료 이용",
+    "id": "n8958f5ac",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260812/134467894/2",
+    "title": "미래에셋 2분기 순익 1.9조… 5대銀 제치고 금융권 1위에",
     "summary": [
-      "승무원 출신 캐나다 男 조종사 행세…200차례 항공편 무료 이용."
+      "미래에셋증권의 올해 2분기(4∼6월) 당기 순이익이 5대 은행을 모두 제치고 국내 금융권 1위에 오른 것으로 나타났다.",
+      "미래에셋증권은 12일 2분기 연결 기준 순이익이 전년 동기 대비 369% 급증한 1조9052억 원으로 집계됐다고 공시했다.",
+      "미래에셋증권은 앞서 올 1분기(1∼3월)에도 1조19억 원의 순이익을 냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n43299c28",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260812/134467909/2",
+    "title": "‘부동산 판 돈 연금계좌 납입’ 양도세 감면 내년말 사라진다",
+    "summary": [
+      "부동산을 판 돈을 연금 계좌에 넣으면 양도소득세를 최대 1000만 원까지 깎아주는 조세 특례가 내년 말로 끝난다.",
+      "12일 재정경제부의 ‘2026년 세제 개편안’에 따르면 고령층이 부동산을 판 돈을 연금 계좌에 넣을 때 양도세를 깎아주는 제도가 2027년 말 종료된다.",
+      "집을 한 채만 보유했거나 집이 없는 기초연금 수급자가 10년 이상 보유한 부동산을 팔아 연금 계좌에 납입하면 최대 1억 원의 10%를 세액 공제해주는 제도다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n5109f342",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812173700071",
+    "title": "트럼프, '호르무즈 완전 장악' 주장 되풀이…\"이란은 말만 많다\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 12일(현지시간) 미국이 호르무즈 해협을 완전히 장악하고 있다며 이 같은 통제..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc1490e26",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813000300082",
+    "title": "사라진 모차르트 조각상…한달 만에 미니어처 210점 도난",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 볼프강 아마데우스 모차르트(1756∼1791) 탄생 270주년을 기념해 그의 고향 잘츠부르크에 전시한 모차..."
     ],
     "chips": [
       "#뉴스"
@@ -649,14 +648,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
