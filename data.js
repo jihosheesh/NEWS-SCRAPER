@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-12 12:43:05
+// 마지막 업데이트: 2026-08-12 14:13:24
 window.NEWS_DB = [
   {
     "id": "nda655558",
     "category": "IT",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTG54U3ZVdXl3RndHZUVpczliSEJ1WnNpTGJJVWdJWmk2OXpBY0hHVE1MS0NQMGEweXZjSHdkV0NveXpPa0dCMnVEZEdjY0hnS3lvWl9MWF9uYU9sYWxTRlhmNDl1TzUtV0JxNUlNY2FOZnNHa3fSAWZBVV95cUxNeVZGUjMxWHpwd2dqc2RhenVvZlVtMnFUVk93RVlmd0xUOGl5WlY3WU5yeVpPT1JockdPQlg5aXhFT0hyT3U2YUNXNmNKZ0pibS1wa3pORHpEWGg4WVR3Q1d4Nl9LWEE?oc=5",
     "title": "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "naf4162e7",
     "category": "IT",
     "source": "뉴시스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBRedIBeEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBReQ?oc=5",
     "title": "SK하이닉스는 HBM 설계, 삼성전자는 美테일러 인력…반도체 인재채용 '러시'",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "nb0ebb4db",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xaFpJNlI5dEFZQVY3NTN2Uzl3UFcyOUl1dUZkZFhHVHkzMFBjMV9JVS1JTV90WXZfRVdycC1zNk9YbktCSkhKZjZ4Z1hYSHA3VmZ1T0JXUFpxbnBweWNZOFJ5bWVxWUJ3QS15bWpDUGRsOEk?oc=5",
     "title": "젠슨 황 '엔비디아 반도체 담보대출' 승부수, AI 투자 판 키워 리스크도 나눈다",
     "summary": [
@@ -54,7 +54,7 @@ window.NEWS_DB = [
     "id": "n4710842f",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTjBfdnBmTGVzNWJGa293QWItNS00cG5EdGw1RjNFSDJFNlNTSFE5aGV6N05iTDFPX1ZlZUdMcVlBUERiTHRmVW5Qdk9UNm9id2FKLW9TWkk1YjJCdUZfLU9uVEU5Zm1UNEI4RWQxTDNpbDg?oc=5",
     "title": "인텔 이석희 앞세워 저전력 AI용 D램 개발, 삼성전자·SK하이닉스 HBM 아성 흔들지 주목",
     "summary": [
@@ -71,7 +71,7 @@ window.NEWS_DB = [
     "id": "n1f2010df",
     "category": "IT",
     "source": "매일일보",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
     "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
     "summary": [
@@ -86,7 +86,7 @@ window.NEWS_DB = [
     "id": "ne50ec99d",
     "category": "IT",
     "source": "경향신문",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSTUhWQkw3UEtoaFJIQTBlbkd0YXdPbVBtcWxVNVBfR01COW9XZGFIUEFEb2U5WFhLVTFhWmFqLWZwbTNHNnlCbkZIeWJwQXZWczdqMHMwX0I1UdIBX0FVX3lxTE1pcDdBUURUejI0dG1vZlJXXzRGS3VvT1JxTXlCWHViLUNjMzVCcklQZndkcjJyeDFmZVZFcWN2aVBfcjZ4UTk1bnBFUDZfcjh2T25fazNza1lkU04yUy1r?oc=5",
     "title": "“공짜 AI가 반도체에도 좋다” 엔비디아, 개방형 AI 모델 첫 공개",
     "summary": [
@@ -132,12 +132,12 @@ window.NEWS_DB = [
   {
     "id": "n51d745e9",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vcjlBRHNjalpoUk42Uy1vSWNheWxCWlR1ZlIwd3FhaFoyaV9SNlZTN05RQ0haRXR5RUJaSWxNQXp1TWpabnFsVXZDbzlJeGJmV3NCbnBtWUx6dlpXajh5NzUyVUtqUE1qczM3RWttNWc4Ylk1NFY0Zw?oc=5",
     "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
     "summary": [
-      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
+      "KBO, 연이은 폭염에 프로야구 대책 논의 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -381,259 +381,259 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf934cd19",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746905",
-    "title": "수익금 미끼로 대출 유도…교사들 투자사기 추가 고소",
-    "summary": [
-      "[전남광주=뉴시스]박기웅 기자 = 전남광주 현직 교사들이 수십억원대 사기 범죄에 연루됐다는 의혹과 관련해 피해를 주장하는 이들의 고소가 잇따르고 있다.",
-      "12일 광주경찰청 반부패·경제범죄수사대에 따르면 전남광주 현직 중등교사 A씨 등을 사기 혐의로 처벌해 달라는 고소장이 광주청에 이어 일선 경찰서에도 잇따라 접수됐다.",
-      "한 고소인은 최근 현직 중등교사인 A씨와 B씨를 비롯한 4명이 투자를 권유하고, 수익금을 돌려받은 것처럼 안심시킨 뒤 대출·결제를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb3445273",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746907",
-    "title": "[속보]유가 하락으로 7월 美 인플레 둔화 불구 물가 여전히 높은 수준",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 dbtpwls@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea0dc893",
+    "id": "na3f58f43",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/12/GYZGEMLFGQYGEYZRGZSDCYRSHA/",
-    "title": "\"선수 임금 깎겠다\" EFL에 선수노조 폭발...리그원 연봉 제한 두고 고등법원 전쟁",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746914",
+    "title": "'구창모 7이닝 무실점' NC, 선두 KT 8연승 저지…KIA 4위 탈환(종합)",
     "summary": [
-      "[OSEN=정승우 기자] 잉글랜드 프로축구 3부리그 리그원(League One)의 선수 임금 규정을 두고 선수노조와 잉글랜드풋볼리그(EFL)가 정면충돌했다.",
-      "프로축구선수협회(PFA)는 구단의 임금 지출 한도를 더 낮추려는 새 규정을 막기 위해 고등법원에 소송을 제기했다.영국 '데일리 메일'은 11일(한국시간) \"PFA가 리그원의 재정 통제 규정 변경을 저지."
+      "[서울=뉴시스]김희준 박윤서 기자 = 프로야구 NC 다이노스가 토종 에이스 구창모의 호투를 내세워 KT 위즈의 8연승 도전에 제동을 걸었다.",
+      "NC는 12일 창원 NC파크에서 열린 2026 신한 쏠 KBO리그 KT와의 홈 경기에서 3-0으로 이겼다.",
+      "영봉승을 거둔 7위 NC는 44승 2무 51패를 기록했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n92f07286",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468780/2",
+    "title": "[고양이 눈]“사랑을 배달합니다”",
+    "summary": [
+      "도심 한복판에서 사람들이 커다란 하트를 옮기고 있습니다.",
+      "이렇게 큰 사랑은 누구에게 전해지는 걸까요.",
+      "－서울 종로구 광화문광장에서."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6cf77b2b",
+    "id": "n9258355d",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468258/2",
+    "title": "[사진기자의 사談진談/홍진환]“몸 아닌 경기력 비춰라” 여성선수 담는 카메라의 새 원칙",
+    "summary": [
+      "이달 10일부터 16일까지 영국 버밍엄에서 열리는 2026 유럽육상선수권대회에서 새로운 중계방송 가이드라인이 도입됐다.",
+      "유럽방송연맹(EBU)과 유럽육상연맹(EA)은 홈페이지를 통해 카메라 촬영과 화면 편집에 관한 구체적인 지침을 제시했다.",
+      "스포츠 중계의 오랜 문제로 지적돼 온 여성 선수의 성적 대상화를 막기 위해서다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd84b999d",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812169451007",
+    "title": "호랑이 대포 3방에 사자 4연패…한화 허인서 연장 10회 결승타(종합)",
+    "summary": [
+      "(서울=연합뉴스) 장현구 기자 = 프로야구 팀 홈런 1위 KIA 타이거즈가 대포 3방을 몰아쳐 시즌 130개를 돌파하며 삼성 라이온즈를 4연패 ..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n336404f5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812170700083",
+    "title": "中현대사 풍파 온몸으로 맞은 개혁 전도사…주룽지 前총리 별세",
+    "summary": [
+      "(베이징=연합뉴스) 정성조 특파원 = 12일 별세한 주룽지(朱鎔基·1928∼2026) 전 총리는 당대 중국에서 존경받는 정치인 중 한 명으로 꼽..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd07ac247",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026081221355824917",
-    "title": "[내일날씨]전국 낮 최고 34도 무더위…동해안 비·내륙엔 소나기",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/12/MQYWMZRYGYYTGZTFGFSWKMLDGI/",
+    "title": "뉴욕증시, CPI 예상 부합에 상승 출발…나스닥 0.9%↑",
     "summary": [
-      "목요일인 13일은 전국에 가끔 구름이 많은 가운데 낮 최고기온이 34도까지 오르는 등 무더위가 이어지겠다.",
-      "충청권 내륙과 남부 내륙에는 소나기가 내리고, 동해안을 중심으로 비가 내리는 곳이 있겠다.",
-      "울릉도·독도에는 최대 80㎜의 비가 예상된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9a2876b6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812167400527",
-    "title": "서귀포시 동부 등 제주 7곳 해일주의보",
-    "summary": [
-      "(제주=연합뉴스) 기상청은 12일 오후 9시 30분을 기해 서귀포시 동부·서귀포시 남부·서귀포시 서부·제주시 동부·제주시 북부·제주시 서부·추자..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n298dfb66",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812167300527",
-    "title": "전남 거문도·초도에 해일주의보…보성 등 3곳 해일주의보 유지",
-    "summary": [
-      "(광주=연합뉴스) 기상청은 12일 오후 9시 30분을 기해 거문도·초도에 폭풍해일주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9bfce550",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812165400527",
-    "title": "경남 창원에 해일주의보…거제 등 4곳 해일주의보 유지",
-    "summary": [
-      "(창원=연합뉴스) 기상청은 12일 오후 9시를 기해 창원에 폭풍해일주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2bee08a6",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812166500005",
-    "title": "부산 세계도서관정보대회 폐막…\"AI 시대 도서관 기능 강화해야\"",
-    "summary": [
-      "(서울=연합뉴스) 강종훈 기자 = 세계 최대 규모 도서관 국제회의인 '2026 부산 세계도서관정보대회(WLIC)'가 인공지능(AI) 시대 도서관..."
+      "미국의 인플레이션 지표가 시장 예상에 부합하고 인공지능(AI) 관련 기업들의 실적 호조가 이어지면서 뉴욕증시가 상승 출발했다.",
+      "12일(현지시각) 뉴욕증권거래소(NYSE)에 따르면 이날 다우존스30산업평균지수는 전장보다 5.6포인트(0.01%) 오른 5만 3797.47에 거래를 시작했다.",
+      "스탠더드앤드푸어스(S&P)500지수는 37.3포인트(0.48%) 상승한."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n75256cd3",
+    "id": "n4ae3ebb8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812172100082",
+    "title": "유럽 출입국 혼란…EU 사전 여행허가제 또 연기",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 유럽연합(EU)이 비자 면제 대상 외국인에게 사전에 여행 허가를 내주는 유럽여행정보·허가시스템(ETIAS)..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5f0d589",
     "category": "사회",
     "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260812/134463611/1",
-    "title": "공공기관 350곳 대상…2차 지방이전 쟁탈전",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468518/2",
+    "title": "왼손잡이 거장의 명작[이은화의 미술시간]〈435〉",
     "summary": [
-      "350여 개의 공공기관을 대상으로 한 2차 공공기관 지방 이전이 본격 추진되고 있다.",
-      "2005년 공공기관의 1차 지방 이전 발표에 이은 21년 만의 변화에 비수도권 지방자치단체 간의 유치 경쟁도 달아오르고 있다.",
-      "반면 한국산업은행 등 이전 대상으로 거론되는 주요 공공기관들은 “졸속 이전”이라며 강하게 반발하고 있다.12일 관계 부처와 각 시도에 따르면 국토교통부는 수도권에 있는 350여 개 공공기관 및 소속 기관을 대상으로 한 ‘2차 공공기관."
+      "8월 13일은 ‘국제 왼손잡이의 날’이다.",
+      "왼손잡이들이 겪는 불편을 알리고 다름을 존중하자는 취지로 제정됐다.",
+      "미술사에서 가장 유명한 왼손잡이를 꼽으라면 단연 레오나르도 다빈치다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n96bbe874",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/202608127808i",
-    "title": "[속보]美 7월 CPI 0.1%p↑,연율 3.4%로 예상치보다 적게 올라",
-    "summary": [
-      "[속보]美 7월 CPI 0.1%p↑,연율 3.4%로 예상치보다 적게 올라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncaf6534c",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026081221244417563",
-    "title": "'구호 논란' 배재고 45일 만에 경기… \"많이 반성\"",
-    "summary": [
-      "응원 구호 논란이 불거지면서 징계를 받았던 배재고등학교 야구부가 45일 만에 공식 경기에 출전했으나 패배했다.",
-      "배재고는 12일 오후 5시 서울 양천구 목동야구장에서 열린 제54회 봉황대기 전국고교 야구대회 1회전에서 인천고와 맞붙었다.",
-      "이날 경기는 5-8로 인천고가 승리했다."
-    ],
-    "chips": [
-      "#KBO",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n4839c55b",
-    "category": "경제",
+    "id": "n0c1bbba8",
+    "category": "IT",
     "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260812/134468316/1",
-    "title": "“관 100개 준비하라, 하나는 내것”…中경제개혁 이끈 주룽지 前총리 별세",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468253/2",
+    "title": "‘하나의 영혼’이 아리스토텔레스 우정 명언? AI시대, 원전을 펼쳐라[강용수의 철학이 필요할 때]",
     "summary": [
-      "중국의 세계무역기구(WTO) 가입과 부실 국유기업의 구조조정 등을 추진하며 1990년대 후반부터 2000년대 초반까지 중국의 경제개혁을 이끌었던 주룽지(朱鎔基) 전 중국 국무원 총리가 12일 베이징에서 숨졌다고 관영 신화통신이 전했다.",
-      "향년 98세.장쩌민(江澤民) 전 국가주석의 핵심 경제 브레인으로 꼽혔던 주 전 총리는 1928년 후난성 창사에서 태어나 칭화대 전기공학과를 졸업했다.",
-      "특히 그는 덩샤오핑(鄧小平) 전 주석이 시작한 중국의 시장경제."
+      "《 AI가 재생산하는 인간의 오류인공지능(AI) 시대에는 검색 기능을 잘 활용하면 자료를 손쉽게 찾을 수 있다.",
+      "그러나 자칫 AI가 내놓은 답에 지나치게 의존하다 보면 낭패를 볼 수도 있다.",
+      "우정을 다룬 가장 유명한 철학서는 아리스토텔레스의 ‘니코마코스 윤리학’이다."
     ],
     "chips": [
-      "#수출"
+      "#AI"
     ]
   },
   {
-    "id": "n31c86ade",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "18분 전",
-    "url": "https://www.hankyung.com/article/2026081278047",
-    "title": "수원 마트 옥상 주차장서 차량 추락…20대 운전자 숨져",
+    "id": "n7a5c2600",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812171700001",
+    "title": "張, 선관위 '선거소청 기각'에 \"커닝은 했지만 괜찮다는 거냐\"",
     "summary": [
-      "수원 마트 옥상 주차장서 차량 추락…20대 운전자 숨져."
+      "(서울=연합뉴스) 조다운 기자 = 국민의힘 장동혁 대표는 12일 자당이 제기한 6·3 서울시장 선거소청 등을 기각한 중앙선관위를 향해 \"반드시 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n607125e9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/football/2026/08/12/ME2WEYJZG5QTCNBYMIYTSYJWHE/",
+    "title": "\"韓 축구 이끌 꿈나무 자란다\" '대형스타 대거 육성' U-15 챔피언십 '후끈'…정정당당 실력 겨루고 우정도 쌓는다",
+    "summary": [
+      "[천안=스포츠조선 김가을 기자]대한민국의 축구 미래를 이끌 '꿈나무'가 자란다.",
+      "충남 천안 일원에서 '2026 K리그 15세 이하(U-15) 챔피언십'이 펼쳐지고 있다.",
+      "지난 8일 개막해 20일까지 K리그 산하 27개 팀의 중등부가 참가해 실력을 겨룬다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nabd7dc33",
+    "id": "n35baf19d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/12/MUXFJ3DVZ5EHFLOXHO2E4XCY7A/",
+    "title": "‘하얀거탑’ ‘밀회’ 안판석 감독, 뇌출혈 투병 중 별세",
+    "summary": [
+      "‘하얀거탑’ ‘밀회’ 안판석 감독, 뇌출혈 투병 중 별세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n93ba6cae",
     "category": "사회",
     "source": "뉴시스",
     "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746899",
-    "title": "'유치원 오빠에게 성추행 당했다' SNS서 논란",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746925",
+    "title": "국가소방동원령 '극한 가뭄 경남'…하루동안 4769t 물 공급(종합)",
     "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 유치원생 딸이 학원버스 안에서 또래 남아에게 반복적으로 성추행을 당했다는 사연이 온라인에 올라와 논란이 일고 있다.",
-      "피해 아동의 부모는 가해 아동 측에 전문기관 상담 등을 요구했지만 두 달 가까이 연락이 없어 고민이라고 토로했다.",
-      "지난 10일 온라인 커뮤니티 '당근마켓 동네생활'에는 '학원버스내 성추행'이라는 제목의 글이 올라왔다."
+      "[창원=뉴시스] 김기진 기자 = 폭염과 가뭄이 겹친 경남에 국가소방동원령 발령으로 전국에서 집결한 소방 물탱크차 200대가 하루 동안 4769t이 넘는 물을 공급했다.",
+      "국가소방동원령은 재난 발생 우려가 크거나 재난이 발생해 해당 시도의 소방력만으로 대응하기 어렵다고 판단될 때 전국의 소방력을 동원하는 조치다.",
+      "가뭄으로 국가소방동원령이 발령된 것은 지난해 8월 강원도 강릉에 이어 두 번째다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf56b68aa",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/2026081277966",
-    "title": "SK하이닉스, 인디애나팹 27일 착공식…최태원·젠슨 황 만나나",
-    "summary": [
-      "SK하이닉스, 인디애나팹 27일 착공식…최태원·젠슨 황 만나나."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n7bf073e6",
+    "id": "n7aa5f9bf",
     "category": "사회",
     "source": "뉴시스",
-    "time": "26분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746891",
-    "title": "붕괴 광주대표도서관 시공업체간 불법금품 의혹 수사",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746924",
+    "title": "장동혁, 선관위 선거 소청 기각에 \"특검·선거 소송으로 갈 수밖에\"",
     "summary": [
-      "[전남광주=뉴시스]변재훈 기자 = 작업자 4명이 숨진 광주대표도서관 붕괴 사고를 낸 시공업체 관계자 사이에서의 금품 수수 등 추가 범죄 혐의점을 포착한 경찰이 수사를 이어가고 있다.",
-      "광주경찰청 광역범죄수사대는 붕괴 사고가 난 대표도서관 신축 사업에 참여한 시공업체 관계자 사이에서의 금품 수수 등 혐의에 대해 들여다보고 있다고 12일 밝혔다.",
-      "경찰은 앞서 붕괴 사고의 책임 소재를 규명하는 수사 과정에서 시공업체 사이에서의 불법 금품 거래 의혹을."
+      "[서울=뉴시스]김지훈 기자 = 심장동혁 국민의힘 대표는 12일 중앙선거관리위원회가 국민의힘이 제기한 서울 등 7개 지역 광역자치단체장 선거무효 소청을 모두 기각하자 \"결국 특검에서 제대로 수사할 수밖에, 선거 소송으로 갈 수밖에 없다\"고 했다.",
+      "장 대표는 이날 페이스북 메시지를 통해 \"오늘의 기각에 대해 중앙선관위는 반드시 책임을 져야 할 것\"이라며 이같이 밝혔다.",
+      "그는 \"(선관위는) 투표용지 부족 및 투표 중단에 관해 '선거에 관한 규정을 위."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndeead491",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746875",
+    "title": "[KBO 내일의 선발투수]8월13일(목)",
+    "summary": [
+      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 8월13일(목)> ▲잠실(오후 7시) 한화 (류현진) - (최민석) 두산 ▲문학(오후 7시) 롯데 (엘빈 로드리게스) - (타케다 쇼타) SSG ▲광주(오후 7시) 삼성 (원태인) - (시라카와 게이쇼) KIA ▲창원(오후 7시) KT (데이비스 대니엘) - (크리스 테일러) NC ▲고척(오후 7시) LG (앤더스 톨허스트) - (라울 알칸타라) 키움."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd7a494d1",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "35분 전",
+    "url": "https://www.hankyung.com/article/2026081278391",
+    "title": "동전주·시총 미달 36社 관리종목 지정",
+    "summary": [
+      "동전주·시총 미달 36社 관리종목 지정."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndc390275",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260812/134468453/1",
-    "title": "마트 옥상 주차장서 차량 12m 추락…무면허 20대 운전자 숨져",
+    "id": "n16c2c56f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "37분 전",
+    "url": "https://www.hankyung.com/article/2026081278007",
+    "title": "승무원 출신 캐나다 男 조종사 행세…200차례 항공편 무료 이용",
     "summary": [
-      "무면허 20대 여성이 운전하던 차량이 마트 옥상에서 추락하는 사고가 발생했다.",
-      "이 사고로 운전자는 사망했다.",
-      "경찰 등에 따르면 12일 오후 6시 27분경 경기 수원시 권선구 호매실동의 한 식자재 마트 옥상 주차장에서 셀토스 차량이 12m 아래로 추락했다.운전자인 20대 여성은 심정지 상태로 구조돼 인근 병원으로 옮겨졌다."
+      "승무원 출신 캐나다 男 조종사 행세…200차례 항공편 무료 이용."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   }
 ];
@@ -643,14 +643,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
