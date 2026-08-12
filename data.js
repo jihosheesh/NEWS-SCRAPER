@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-12 09:00:28
+// 마지막 업데이트: 2026-08-12 10:09:23
 window.NEWS_DB = [
   {
     "id": "nda655558",
     "category": "IT",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTG54U3ZVdXl3RndHZUVpczliSEJ1WnNpTGJJVWdJWmk2OXpBY0hHVE1MS0NQMGEweXZjSHdkV0NveXpPa0dCMnVEZEdjY0hnS3lvWl9MWF9uYU9sYWxTRlhmNDl1TzUtV0JxNUlNY2FOZnNHa3fSAWZBVV95cUxNeVZGUjMxWHpwd2dqc2RhenVvZlVtMnFUVk93RVlmd0xUOGl5WlY3WU5yeVpPT1JockdPQlg5aXhFT0hyT3U2YUNXNmNKZ0pibS1wa3pORHpEWGg4WVR3Q1d4Nl9LWEE?oc=5",
     "title": "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다",
     "summary": [
@@ -18,10 +18,27 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "naf4162e7",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBRedIBeEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBReQ?oc=5",
+    "title": "SK하이닉스는 HBM 설계, 삼성전자는 美테일러 인력…반도체 인재채용 '러시'",
+    "summary": [
+      "SK하이닉스는 HBM 설계, 삼성전자는 美테일러 인력…반도체 인재채용 '러시' 뉴시스."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스",
+      "#채용"
+    ]
+  },
+  {
     "id": "nb0ebb4db",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xaFpJNlI5dEFZQVY3NTN2Uzl3UFcyOUl1dUZkZFhHVHkzMFBjMV9JVS1JTV90WXZfRVdycC1zNk9YbktCSkhKZjZ4Z1hYSHA3VmZ1T0JXUFpxbnBweWNZOFJ5bWVxWUJ3QS15bWpDUGRsOEk?oc=5",
     "title": "젠슨 황 '엔비디아 반도체 담보대출' 승부수, AI 투자 판 키워 리스크도 나눈다",
     "summary": [
@@ -37,7 +54,7 @@ window.NEWS_DB = [
     "id": "n4710842f",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "2시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTjBfdnBmTGVzNWJGa293QWItNS00cG5EdGw1RjNFSDJFNlNTSFE5aGV6N05iTDFPX1ZlZUdMcVlBUERiTHRmVW5Qdk9UNm9id2FKLW9TWkk1YjJCdUZfLU9uVEU5Zm1UNEI4RWQxTDNpbDg?oc=5",
     "title": "인텔 이석희 앞세워 저전력 AI용 D램 개발, 삼성전자·SK하이닉스 HBM 아성 흔들지 주목",
     "summary": [
@@ -54,7 +71,7 @@ window.NEWS_DB = [
     "id": "n1f2010df",
     "category": "IT",
     "source": "매일일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
     "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
     "summary": [
@@ -69,7 +86,7 @@ window.NEWS_DB = [
     "id": "ne50ec99d",
     "category": "IT",
     "source": "경향신문",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSTUhWQkw3UEtoaFJIQTBlbkd0YXdPbVBtcWxVNVBfR01COW9XZGFIUEFEb2U5WFhLVTFhWmFqLWZwbTNHNnlCbkZIeWJwQXZWczdqMHMwX0I1UdIBX0FVX3lxTE1pcDdBUURUejI0dG1vZlJXXzRGS3VvT1JxTXlCWHViLUNjMzVCcklQZndkcjJyeDFmZVZFcWN2aVBfcjZ4UTk1bnBFUDZfcjh2T25fazNza1lkU04yUy1r?oc=5",
     "title": "“공짜 AI가 반도체에도 좋다” 엔비디아, 개방형 AI 모델 첫 공개",
     "summary": [
@@ -82,24 +99,9 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n757759c6",
-    "category": "IT",
-    "source": "블록체인투데이",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
-    "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
-    "summary": [
-      "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격 블록체인투데이."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "n3ac17658",
     "category": "사회",
-    "source": "Vietnam.vn",
+    "source": "vietnam.vn",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
     "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
@@ -314,6 +316,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd591b9c2",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154256",
+    "title": "AI는 행정망으로, 로봇은 화재현장으로...공공 AX 보폭 확대",
+    "summary": [
+      "공무원이 행정망 안에서 생성형 AI로 외부 정보를 검색하고 소방 현장에선 AI 운영체제(OS)를 탑재한 로봇이 위험 정보를 분석한다.",
+      "공공 분야의 디지털 기술 활용 범위가 사무실 밖까지 넓어지는 모습이다.공공 행정 정착한 네이버웍스 신기능 3종 추가12일 네이버클라우드는 공공 업무 협업툴 '네이버웍스'에 행정 특화 AI 기능을 추가했다고 밝혔다.",
+      "신규 기능은 회사가 오는 13일 개최하는 '공공 AX 전략 세미나'를 통해 공개된다."
+    ],
+    "chips": [
+      "#AI",
+      "#네이버"
+    ]
+  },
+  {
     "id": "n0ea9e209",
     "category": "IT",
     "source": "테크M",
@@ -362,279 +381,266 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc36045b5",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154253",
-    "title": "장기 IP로 실적 방어한 위메이드맥스, 하반기 글로벌 신작 '승부수'",
+    "id": "nd6ee25f7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260812/134468096/1",
+    "title": "부산서 中여성에 성추행과 소변 테러한 日 남성, 집행유예",
     "summary": [
-      "위메이드맥스가 장기 흥행 IP를 기반으로 안정적인 라이브 서비스 성과를 이어가는 가운데 하반기 신작을 앞세워 실적 반등에 나선다.",
-      "비용 효율화와 사업 체질 개선을 지속하는 동시에 글로벌 시장을 겨냥한 신작 라인업을 확대해 새로운 성장동력을 확보한다는 전략이다.위메이드맥스는 올해 2분기 영업손실이 154억원을 기록해 적자를 지속했다.",
-      "다만 비용 효율화와 체질 개선을 통해 적자 폭은 7.6% 개선했다."
+      "부산의 한 숙소에서 잠을 자던 중국인 관광객을 성추행한 혐의로 재판에 넘겨진 일본 국적 남성이 징역형 집행유예를 선고받았다.",
+      "부산지법 형사3단독 박주영 부장판사는 12일 강제추행 등 혐의로 기소된 30대 일본인 남성에게 징역 6개월에 집행유예 2년을 선고했다.이 남성은 올해 4월 15일 부산 부산진구의 한 게스트하우스에서 잠을 자던 20대 중국인 관광객(여)의 머리를 만지고 자신의 신체 부위를 노출한 혐의를 받는다.",
+      "그는 또 여성 주변에 소변을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc141556f",
+    "id": "ne482415d",
     "category": "사회",
-    "source": "머니투데이",
+    "source": "아시아경제",
     "time": "2분 전",
-    "url": "https://www.mt.co.kr/living/2026/08/12/2026081217561499528",
-    "title": "쥬스투클렌즈, 할랄 인증으로 인니 뷰티시장 공략",
+    "url": "https://view.asiae.co.kr/article/2026081218115934485",
+    "title": "사천선관위, '선거비용 초과 지출' 지방의원 후보 회계책임자 고발",
     "summary": [
-      "히알 수딩 수분 마스크 인증 획득, 2억3000만 무슬림 시장 확대 내추럴 클린뷰티 브랜드 쥬스투클렌즈가 '히알 수딩 수분 마스크'에 대해 인도네시아 정부 할랄 제품 보증기관 BPJPH의 인증 절차를 완료하고 현지 시장 공략에 속도를 낸다.",
-      "이번 인증은 앞서 '히알 수딩 수분 세럼'에 이어 획득한 것으로 원료뿐 아니라 제조 설비와 용기, 세척제 등 생산 전 과정의 기준을 충족했다.",
-      "이를 바탕으로 인도네시아를 비롯한 이슬람권 시장에서 제품 경쟁력."
+      "경남 사천시선거관리위원회가 제9회 전국동시지방선거와 관련해 선거비용 제한액을 초과 지출한 혐의 등을 받는 지방의원 후보 회계책임자를 경찰에 고발했다고 12일 밝혔다.",
+      "사천시선관위에 따르면 한 지방의회 후보의 회계책임자 A 씨는 지방선거 당시 지방의회선거에서 후보자의 정치자금 회계 보고와 관련해 선거비용 제한액을 260여만원(선거비용 제한액의 5.9％)을 초과해 지출한 혐의를 받는다.",
+      "그는 초과 지출을 축소, 은폐."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n4fd5b8b7",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746633",
-    "title": "'투구수 81개' 두산 곽빈, 7회 교체된 이유…\"고관절 불편함 때문\"",
-    "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 두산 베어스의 토종 에이스 곽빈이 고관절에 약간의 불편함을 느껴 상태를 지켜본 후 다음 등판 일정을 잡을 예정이다.",
-      "김원형 두산 감독은 12일 잠실구장에서 벌어지는 2026 신한 쏠 KBO리그 한화 이글스와의 경기를 앞두고 \"곽빈이 고관절 쪽에 약간 불편함을 느꼈다.",
-      "전날 투구수가 많지 않음에도 7회 교체한 이유\"라고 밝혔다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc125d4b1",
+    "id": "n77b8b835",
     "category": "경제",
     "source": "아시아경제",
     "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026081217414477559",
-    "title": "옥구저수지 농업용수 '가뭄 비상'…군산시, 공급 안정화 촉구",
+    "url": "https://view.asiae.co.kr/article/2026081218474785307",
+    "title": "의령군, 맞춤형 납부…'2026년 지방세입 체납관리단' 운영",
     "summary": [
-      "가뭄이 이어지면서 군산 옥구저수지 말단부 농경지를 중심으로 농업용수 공급에 대한 우려가 커지자 군산시가 용수 확보와 수계 운영 조정을 한국농어촌공사에 요청했다.12일 군산시에 따르면 최근 옥구읍 어은리와 옥서면 선연리·옥봉리 일대 농가에서 농업용수가 원활하게 공급되지 않아 영농에 어려움을 겪고 있다는 민원이 잇따르고 있다.",
-      "해당 지역은 농경지가 밀집해 있어 가뭄이 장기화될 경우 농작물 생육 저하 등 피해가."
+      "경남 의령군은 지방세와 세외수입 체납액을 효율적으로 관리하기 위해 기간제근로자 3명으로 구성된 '2026년 지방세입 체납관리단'을 오는 11월까지 운영한다고 12일 밝혔다.",
+      "군은 지난 3일 국립창원대학교에서 열린 경남도 합동 체납관리단 발대식에 참여하고 본격적인 활동에 들어갔다.",
+      "체납관리단은 8월부터 11월까지 4개월간 소액 체납자를 중심으로 전화 상담과 현장 방문을 병행한다.체납관리단은 체납 사실과 납부 방법을 안."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n98bb54a7",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026081219045299366",
+    "title": "강기윤 창원시장, \"여야 의원 만나 창원의 미래 성장 동력을 지켜내겠다\"",
+    "summary": [
+      "\"국비 확보와 현안 해결은 결국 타이밍과 국회와의 파트너십에 달렸다.",
+      "창원의 미래 성장 동력을 지켜내겠다\" 강기윤 경남 창원특례시장은 국회를 직접 찾아 지역 주요 현안 해결과 내년도 국비 확보를 위한 집중 건의 활동을 펼치면서 비상한 각오를 드러냈다.",
+      "강 시장은 12일부터 13일까지 이뤄지는 방문은 정부의 내년도 본예산 편성(안) 확정을 앞두고 창원의 활력을 견인할 내년도 국비와 미래 씨앗 예산 확보에 신속히 대응하."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n191365a3",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746832",
+    "title": "강서구 아파트 화재' 모자 추락사건 합동감식 예정…아버지도 조사",
+    "summary": [
+      "[서울=뉴시스]조수원 기자 = 서울 강서구 아파트 화재로 뇌병변 장애인 어머니와 그를 모시고 살던 아들이 추락해 숨진 가운데 화재 원인을 파악하기 위한 합동감식이 진행될 예정이다.",
+      "또 당시 화재 현장에 없었던 아버지에 대해서도 경찰이 조사에 나선다.",
+      "12일 경찰 등에 따르면 경찰과 소방 당국은 조만간 합동감식을 진행해 정확한 발화 지점과 화재 원인 등을 조사한다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nfc421002",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746831",
+    "title": "'1조원대 사기' IDS홀딩스 변호사, 사기 방조죄 징역 2년 확정",
+    "summary": [
+      "[서울=뉴시스]이윤석 기자 = IDS홀딩스 대표의 1조원대 투자사기를 방조한 혐의로 사내 고문변호사에게 징역 2년이 확정됐다.",
+      "대법원 2부(주심 엄상필 대법관)는 12일 IDS홀딩스 사내 고문변호사 A씨의 사기방조 혐의 상고심에서 징역 2년을 선고한 원심을 확정했다.",
+      "A씨는 2016년 4~8월 불특정 다수의 투자자 및 지점장 등을 상대로 김성훈 전 IDS홀딩스 대표를 처벌하는 것은 부당하다며 김 전 대표의 사기 범행을 방조한 혐의를 받는다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3560ef62",
-    "category": "스포츠",
+    "id": "n9f563ba2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746706",
+    "title": "정해인 \"선의의 거짓말? 해야 될 땐 하는 편\"",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 배우 정해인이 거짓말에 대한 생각을 밝혔다.",
+      "11일 웹 예능 '살롱드립'에는 정해인이 게스트로 출연했다.",
+      "장도연은 \"태하라는 인물이 하영씨를 속이고 거짓말을 계속해야 되는 인물이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n512edc43",
+    "category": "사회",
     "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/12/MVQTOZLFMNTGCNRYHAZDKMRYGU/",
-    "title": "\"초대박!\" '4000만 유로 에이스' 이강인 효과 미쳤다…AT 마드리드 새 메인 후원 2000만 유로 체결 임박→유니폼 1만장 '완판'",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/12/GEYWENDEHAYGIZLGGMZTQYRYHA/",
+    "title": "한미일 외교당국, 北에 미사일 도발 중단 촉구",
     "summary": [
-      "[스포츠조선 김가을 기자]아틀레티코 마드리드(스페인)의 '이강인 효과'가 상상 그 이상이다.",
-      "이강인 영입은 단순 '새로운 7번'의 등장이 아니다.",
-      "아틀레티코 마드리드는 이강인을 통해 아시아 시장에서의 입지를 새롭게 쌓고 있다."
+      "북한이 12일 동해상으로 탄도미사일을 발사한 가운데 한미일 외교당국이 전화 협의를 갖고 북한에 도발 행위 중단을 촉구했다.",
+      "일본 외무성에 따르면 북한의 탄도미사일 발사 직후 백용진 외교부 한반도정책국장과 데이비드 와일레졸 미국 국무부 동아태국 한일 담당 부차관보, 아리요시 다카시 일본 외무성 아시아대양주국 심의관은 전화 협의를 가졌다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6eb011b9",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026081217452689897",
-    "title": "반려견, 주인 표정 보고 감정 읽는다… \"작은 차이도 파악\"",
-    "summary": [
-      "반려견이 사람 표정을 보고 감정을 파악할 수 있다는 연구 결과가 나와 관심이 쏠린다.",
-      "11일(현지시간) 오스트리아 빈대학교 연구진은 반려견이 사람의 다양한 표정을 봤을 때 두뇌가 활성화되는지 여부를 자기공명영상(MRI)으로 촬영한 연구 결과를 발표했다.",
-      "해당 연구 결과는 국제학술지 '아이사이언스'에 게재됐다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc10766d3",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746765",
-    "title": "구본준 LX그룹 회장, 38세 장남 구형모 사장에 LX홀딩스 380만주 '추가 증여'",
-    "summary": [
-      "[서울=뉴시스]박현준 기자 = 구본준 LX그룹 회장이 1987년생 장남 구형모 LX MDI 사장에게 LX홀딩스 지분을 추가 증여하며 지분 승계에 속도를 내고 있다.",
-      "12일 금융감독원 전자공시시스템(DART)에 따르면 구 회장은 오는 9월 11일 보유 중인 LX홀딩스 보통주 381만5000주를 구 사장에게 증여할 예정이다.",
-      "이번 증여는 지난 10일 LX홀딩스 보통주 610만주를 구 사장에게 증여한 데 이은 추가 지분 이전이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1ea1be47",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746776",
-    "title": "김포시, 지방공기업 경영평가서 하수도 부문 ‘우수’",
-    "summary": [
-      "[김포=뉴시스] 김지현 기자 = 경기 김포시가 행정안전부 주관 ‘2026년도 지방공기업 경영평가’ 하수도 부문에서 우수 등급인 ‘나등급’을 받았다고 12일 밝혔다.",
-      "지방공기업 경영평가는 전국 268개 기관을 대상으로 경영관리와 경영성과 등 20여 개 세부지표를 평가한다.",
-      "시는 기초하수도 부문 95개 기관 가운데 상위 30%에 해당하는 나등급을 받아 2024년에 이어 연속으로 우수 등급을 유지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3acff7dc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003746766",
-    "title": "검찰, '서울과기대 여학생 화장실 불법촬영' 사건 보완수사 요구",
-    "summary": [
-      "[서울=뉴시스]조수원 기자 = 서울과학기술대 여자 화장실에서 불법 촬영한 혐의를 받는 재학생 사건과 관련해 검찰이 경찰에 보완수사를 요구했다.",
-      "12일 법조계에 따르면 서울북부지검은 지난달 31일 성폭력처벌법 위반 혐의로 불구속 송치된 20대 남성 A씨에 대한 보완수사를 서울 노원경찰서에 요구했다.",
-      "검찰 관계자는 보완수사를 요구한 이유에 대해선 \"수사 중인 사안이라 확인해 줄 수 없다\"고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n38ced599",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/policy/2026/08/12/2026081217485182215",
-    "title": "전력거래소-전남대, 차세대 에너지 인재양성 업무협약 체결",
-    "summary": [
-      "'차세대 에너지 시스템 브랜드 단과대학'사업 추진 협력… 국가적 에너지 인재 육성체계 마련에 적극 기여 전력거래소와 전남대학교가 12일 차세대 에너지 시스템 관련 분야 인재양성을 위한 '브랜드 단과대학·특성화융합연구원 사업 추진' 업무협약을 체결했다고 밝혔다.",
-      "이번 협약은 전력거래소가 전남·광주지역의 거점국립대학교인 전남대와 인재양성 및 R&D 수행 체계를 특성화하기 위한 '브랜드 단과대학 및 특성화융합연구원' 설립에 협력하기 위해 마련됐다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n6d8611b6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812150500054",
-    "title": "5·18 46주년 기념행사, 연계·안전·홍보 개선 필요",
-    "summary": [
-      "(전남광주=연합뉴스) 민현기 기자 = 올해 시민사회가 주도한 5·18 민주화운동 46주년 기념행사가 행사 간 연계나 안전·홍보 측면에서 개선이 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5326d908",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812104551001",
-    "title": "韓총리 \"창업벤처 혁신위 신설…속도감 있게 규제 개선\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 12일 3대 메가프로젝트와 관련, \"대격변을 추격하던 나라에서 대격변을 주도하는 나라로 (한..."
-    ],
-    "chips": [
-      "#스타트업",
       "#정책"
     ]
   },
   {
-    "id": "ndfdc09be",
+    "id": "n380dd7bc",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026081217330453185",
-    "title": "서구자원봉사센터, 폭염 속 이동노동자 300명 '착한 여름나기'",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/12/MQ4GEMJVGY2DSNBXMIYDOYJZGE/",
+    "title": "정해인, 또 미담 나왔다..유인나 \"생각하는 이미지 그대로\"('유인라디오')",
     "summary": [
-      "전남광주통합특별시 서구자원봉사센터가 연일 이어지는 폭염 속에서 배달 라이더와 버스 기사 등 이동노동자와 폭염 취약계층의 건강을 지키기 위한 현장 자원봉사에 나섰다.",
-      "서구자원봉사센터는 '온도는 낮추고, 선한 영향력은 높이고'를 슬로건으로 '착한 여름나기' 자원봉사활동을 진행했다고 12일 밝혔다.이번 활동은 폭염 예방 물품을 지원하는 데 그치지 않고 무더위에 취약한 주민과 야외에서 일하는 노동자들의 안부를 살피."
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=선미경 기자] 배우 유인나가 정해인의 인성을 극찬했다.",
+      "12일 오후 유튜브 채널 ‘유인라디오’를 통해 ‘그 유명한 엄친아 모셔왔습니다’라는 제목으로 정해인 편이 공개됐다.이날 게스트로 출연한 정해인을 보고 유인나와 가수 고영배는 놀라움을 감추지 못했다.",
+      "정해인을 처음 만나는 고영배는 “아직도 우리나라 TV."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf9fe33e1",
+    "id": "n7611efaf",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/08/12/VFUZFXKKG5FNRETINQX6VICQ6E/",
+    "title": "SK하이닉스 美 인디애나 27일 착공식...2028년 HBM 양산",
+    "summary": [
+      "SK하이닉스 美 인디애나 27일 착공식...2028년 HBM 양산."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n9fc220ec",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812151600083",
-    "title": "화장실 벽에 행정장관 비방 낙서 홍콩 10대 소년 선동죄 유죄",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812158800061",
+    "title": "[부고] 이정현(경기도교육청 디지털교육정책과장)씨 장인상",
     "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 홍콩의 한 10대 소년이 화장실 벽에 전·현직 행정장관을 겨냥한 과격한 비방 낙서를 했다가 선동죄로 유죄 ..."
+      "[부고] 이정현(경기도교육청 디지털교육정책과장)씨 장인상."
     ],
     "chips": [
-      "#뉴스"
+      "#정책",
+      "#교육"
     ]
   },
   {
-    "id": "nea1d4eb4",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812152100008",
-    "title": "콜마비앤에이치 \"계열사 콜마오랄스 주식 200억원에 추가취득\"",
+    "id": "n3ab0c232",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812157900083",
+    "title": "\"딥시크 창업자 량원펑 자산 1년새 40배…세계 50대 부호 진입\"",
     "summary": [
-      "(서울=연합뉴스) 코스닥 상장사 콜마비앤에이치[200130]는 구강케어 제품 ODM/OEM 제조 및 판매 계열사 콜마오랄스의 주식 200만주를 ..."
+      "(베이징=연합뉴스) 김현정 특파원 = 중국 인공지능(AI) 스타트업 딥시크의 창업자 량원펑의 자산이 1년 만에 40배 가까이로 급증했다는 조사 ..."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#스타트업"
     ]
   },
   {
-    "id": "n95339398",
+    "id": "nafb8d188",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/08/12/2026081214492987047",
-    "title": "신생아 수 1위인데…\"산모·아기 갈 곳 없다\" 경기도의 역설, 무슨 일",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260812158300052",
+    "title": "'손배 청구권 소멸' 경남 과거사 희생자 유족 국가 상대 승소",
     "summary": [
-      "'구급차 속 출산', '임신부 헬기 원정 이송', '분만 뺑뺑이'….",
-      "도시와 멀리 떨어진 지방에서 벌어질 법한 사건 같지만, 뜻밖에도 최근 경기도에서 나타난 사건들이다.",
-      "한 해 우리나라 신생아의 30~35%(7만~8만명)가 경기도에서 태어나는데도 상급종합병원이 운영하는 독립 어린이병원은 단 한 곳도 없다."
+      "(창원=연합뉴스) 정종호 박영민 기자 = 진실·화해를 위한 과거사정리위원회의 진실규명 결정에도 소멸시효가 지나 국가배상을 받지 못한 희생자 유족..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7012590d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/12/WIXOR7OABNBNHFZMB3PBDTZO7Q/",
+    "title": "경찰, ‘주사 이모’ 의혹 샤이니 온유·전현무 소환 조사",
+    "summary": [
+      "경찰, ‘주사 이모’ 의혹 샤이니 온유·전현무 소환 조사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b7c8be4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746824",
+    "title": "北 \"日, 준핵보유국…핵무기 쥐여지면 사상 초유 대재앙\"",
+    "summary": [
+      "[서울=뉴시스] 남빛나라 기자 = 북한은 12일 일본의 원자력발전소 신규 건설 결정에 대해 \"핵무장을 집요하게 추구하고 선도해 온 일본의 수중에 핵무기가 쥐여지게 되면 기필코 사상 초유의 대재앙을 불러오게 되여있다\"고 밝혔다.",
+      "북한은 이날 조선중앙통신을 통해 국제문제평론가 '리명남' 개인 명의의 '일본 고위 정객들의 핵보유 주장과 때를 같이한 '원자력 활용' 정책은 무엇을 시사해주는가' 제목의 글을 공개했다.",
+      "리명남은 일본이 지난달 각료회의를."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "na2d38695",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026081218482289106",
+    "title": "한강버스 주말·휴일요금 인상 검토… 무료 셔틀버스 운행 종료",
+    "summary": [
+      "서울시가 주말과 공휴일 한강버스 요금을 인상하는 방안을 검토 중인 것으로 알려졌다.",
+      "12일 서울시 등에 따르면 시는 당초 한강버스를 수상 대중교통으로 표방했지만 이용 수요에 맞춰 관광상품에 걸맞은 값을 매기고 사업성을 더 높이겠다는 구상을 갖고 있다.",
+      "시는 한강버스가 대중교통으로 분류돼 요금체계를 바꾸려면 시민 공청회와 서울시의회 의견 청취, 물가대책위원회 심의를 거쳐야 한다고 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5674438",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260812/134467834/1",
+    "title": "전현무·샤이니 온유 등 ‘주사 이모’ 의혹 경찰 조사",
+    "summary": [
+      "방송인 전현무와 아이돌 그룹 샤이니 멤버 키(본명 김기범), 온유(본명 이진기), 유튜버 ‘입짧은햇님(본명 김미경)’이 이른바 ‘주사 이모’로 불리는 여성에게 불법 의료 시술을 받은 혐의로 경찰 조사를 받았다.12일 경찰에 따르면 서울 강남경찰서는 올해 6월 전현무와 온유를, 지난달 초에는 키와 입짧은햇님을 의료법 위반 혐의 피의자 신분으로 각각 불러 조사했다.",
+      "이들에 대한 조사는 서로 다른 날 이뤄진 것으로 알려졌다.경찰은 이들이 ‘주사 이모."
     ],
     "chips": [
       "#의료"
-    ]
-  },
-  {
-    "id": "nb451c46f",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/policy/2026/08/12/2026081217455049804",
-    "title": "\"모두를 춤추게 하다\"… 화성시 읍면동 아우른 주민자치 페스티벌 개최",
-    "summary": [
-      "경기 화성특례시가 12일 유앤아이센터 화성아트홀에서 '2026년 주민자치 페스티벌 무대경연'을 개최했다고 밝혔다.",
-      "이번 행사는 읍·면·동 주민자치센터 수강생들이 갈고닦은 실력을 선보이며, 주민 간 교류를 넓히고 공동체 문화를 확산하기 위해 마련했다.",
-      "'하나의 무대, 하나의 화성! 모두를 춤추게 하다'라는 부제 아래 댄스와 성악 등 다채로운 장르의 공연이 펼쳐졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74d2e0e1",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260812141652008",
-    "title": "동전주·시총미달 상장폐지 문 열렸다…36개 첫 관리종목 지정(종합)",
-    "summary": [
-      "(서울=연합뉴스) 황철환 기자 = 한국 주식시장에서 부실기업을 솎아내기 위한 상장폐지 요건 강화 조처의 일환으로 '동전주' 및 '시가총액 기준 ..."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -643,21 +649,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
