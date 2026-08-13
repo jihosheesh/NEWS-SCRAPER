@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-13 18:46:34
+// 마지막 업데이트: 2026-08-13 19:51:05
 window.NEWS_DB = [
   {
     "id": "n8c5ac8c1",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "7시간 전",
+    "source": "newsis.com",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15U0xjT0F2UC10RDdoZG1LSE0xRng0U3hJeV9GZGJLYzJWRUFJU0J3ajQ2bFN2TGdiOHBsUXdseTA3b3JLc0E2eEZwRTlkZW9VZ1Z2cVNCcGpTR3RDS0l0c9IBeEFVX3lxTE9mU2s0VXlfNF8tOEZMNjhRdndZdHJwV0k4cjVtMlFBdVM2anJqZ0pqYnVuRXRpMzJFQzJmOXJyNjQyVjg3UncyN2tjbmhleXZKai1KaHUxMlJMX2QwSVIwbkt2MUN5dFd5MUNld0kxd2pQNFQ3RV9Ycg?oc=5",
     "title": "AI 반도체 떨어지자 '줍줍'…'돈나무 언니' 엔비디아·브로드컴 샀다",
     "summary": [
-      "AI 반도체 떨어지자 '줍줍'…'돈나무 언니' 엔비디아·브로드컴 샀다 뉴시스."
+      "AI 반도체 떨어지자 '줍줍'…'돈나무 언니' 엔비디아·브로드컴 샀다 newsis.com."
     ],
     "chips": [
       "#AI",
@@ -20,12 +20,12 @@ window.NEWS_DB = [
   {
     "id": "ne5b63b9f",
     "category": "스포츠",
-    "source": "네이트",
-    "time": "8시간 전",
+    "source": "news.nate.com",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qMnZxV1JrV0ZMNjlIS1BaSWQxaExfcmlySlRzTjd2R3ByMUk1MFRXNnZuN0dSVWVKWF9QMHRzMzEwZlF6T2drd29LMVh3TFd2QkdfS3J3RVBGNDRRQlZJYlEwX0dIb2hu?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n14e5eed8",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n5ee6ae18",
     "category": "사회",
     "source": "아웃소싱타임스",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
@@ -60,22 +60,6 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "nb0ebb4db",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xaFpJNlI5dEFZQVY3NTN2Uzl3UFcyOUl1dUZkZFhHVHkzMFBjMV9JVS1JTV90WXZfRVdycC1zNk9YbktCSkhKZjZ4Z1hYSHA3VmZ1T0JXUFpxbnBweWNZOFJ5bWVxWUJ3QS15bWpDUGRsOEk?oc=5",
-    "title": "젠슨 황 '엔비디아 반도체 담보대출' 승부수, AI 투자 판 키워 리스크도 나눈다",
-    "summary": [
-      "젠슨 황 '엔비디아 반도체 담보대출' 승부수, AI 투자 판 키워 리스크도 나눈다 비즈니스포스트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -111,6 +95,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndc68ab8a",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTaHZuYlVlRmo2QjNmQ3IzeXFRWXhBbGdHbklZZnYxNlFUSzEtekFsam95aW5tNlc1RjQzMWxvWUsxWndyc2Q2RGtFSXk2ZVpSX2VnUVo4WUtKeEdOTHpsak94SkZYcFRxNDV1dF80X2NYN2s?oc=5",
+    "title": "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력",
+    "summary": [
+      "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "n757759c6",
     "category": "IT",
     "source": "블록체인투데이",
@@ -140,17 +141,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nee123c1c",
+    "id": "n3ac17658",
     "category": "사회",
-    "source": "아주경제",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQWFtVWtrb3VLTDRqUnZGZHJWRFhJOUFTNkNqX3JIODZoOWdCbE5Zb2tlOEJ0dkloeGIwd1hZdmtpSEp2dFdBOUUzczJJaXk3NURLWmxoNktCUdIBWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG0?oc=5",
-    "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
+    "source": "Vietnam.vn",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ac0RlckVFVlhLQ1k5SGxIV05CS0pfUzRKUTE4dTI2aEFIOE5wU2tmNnUzQWpFZUtXcC1sbmpzUy1rM0lYVEJNRF8zaHp0RWtnamlkN0VVc0lFRE5qVXhIUWtPN2c3cXVZZkw1dlhua09pejVIT1VJ?oc=5",
+    "title": "구직자들에게 더 가까운 곳에 일자리를 제공합니다.",
     "summary": [
-      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 아주경제."
+      "구직자들에게 더 가까운 곳에 일자리를 제공합니다."
     ],
     "chips": [
-      "#AI",
       "#취업",
       "#고용"
     ]
@@ -229,12 +229,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "64일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -288,22 +288,218 @@ window.NEWS_DB = [
   {
     "id": "nbcfe41a7",
     "category": "IT",
-    "source": "연합뉴스TV",
+    "source": "yonhapnewstv.co.kr",
     "time": "171일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
     "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 yonhapnewstv.co.kr."
     ],
     "chips": [
       "#스타트업"
     ]
   },
   {
+    "id": "nd1e1be32",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "20분 전",
+    "url": "https://www.mt.co.kr/industry/2026/08/14/2026081321021513176",
+    "title": "머니투데이 오프라인 헤드라인-14일",
+    "summary": [
+      "[종합] 수도권 23만가구+α…더 많이, 더 빨리 '닥공' 대출 오픈런 끝낸다…올 가계대출 총량 '2배' 확대 [8·13 부동산 대책] 염창공원 '무주택자 1000가구' 경기광주 '청년특화단지' 구상 \"실행속도 높여라…'후보지 발표~착공' 37개월로 단축\" '월 80만원' 서울 평균 월세비용으로 '4억' 내 집 마련한다 이주비 대출한도 30% 늘어난다…주택공급에 '47.8조+α' [종합] 'K동박 시대' 다시 왔다…북미 탈중국화·ESS시장 확대."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "ne64ce059",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003748415",
+    "title": "[오늘의 주요일정]제주(8월14일 금요일)",
+    "summary": [
+      "[제주=뉴시스] ▲오전 9시, 2026년 농촌왕진버스 운영, 성산지역 ▲오전 9시, 제17회 세계자연유산 거문오름트레킹 행사, 거문오름 일대 ▲오전 10시, 제주특별자치도의회 입법·법률고문 위촉식, 제주도의회 도민카페 ▲오후 2시, 제주도·행정시 합동 성평등 및 청렴 교육, 농어업인회관 ▲오후 2시, 2026년 전도 의용소방대 강의경연대회, 소방교육대 대강당 ▲오후 4시, 제2차 장애인종합복지 중장기계획 수립 용역 최종보고회, 제주도청 한라홀."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n77dd6684",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747100",
+    "title": "퇴근길 서럽게 우는데 \"힘내세요\"…낯선 커플이 준 감동 쪽지",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 10년 전 지하철에서 혼자 울고 있던 한 직장인에게 낯선 커플이 건넨 작은 쪽지가 지금까지도 따뜻한 기억으로 남아 있다는 글이 올라왔다.",
+      "지난 12일 엑스(X·옛 트위터)에 한 네티즌이 자신이 과거에 지하철에서 받았다는 쪽지 사진을 공유했다.",
+      "작성자 A씨는 \"10년 전 디자인회사 다닐 때 과장한테 일방적으로 구박받고 서러워서 지하철에서 한참 조용히 숨죽여 울고 있었다\"며 상황을 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n47343e8a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081404213983647",
+    "title": "'라면 부부' 아내, 아이들 라면만 먹이더니 간식까지 독식 '충격'",
+    "summary": [
+      "'이혼 숙려 캠프'의 '라면 부부' 아내가 6살 딸이 화장실에 간 사이 남편이 만들어준 딸의 간식을 몰래 먹는 모습으로 충격을 안겼다.",
+      "13일 방영된 JTBC '이혼 숙려 캠프' 95화에서는 '라면 부부'의 심층 가사 조사가 진행됐다.",
+      "이날 공개된 영상에는 남편이 6살 딸을 위해 만들어준 간식을 아내가 몰래 먹는 장면이 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb69299fd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814003800072",
+    "title": "\"美, 이란전서 MQ-9 리퍼 드론 25% 손실…무기고갈 우려 고조\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국이 이란과의 전쟁으로 첨단 무인 공격기인 MQ-9 리퍼 드론 전력의 약 25%를 소진한 것으로 전해졌다...."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d2f0ca5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "36분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747609",
+    "title": "\"파병 전에 정자·난자 냉동\"…美국방부, 냉동보관 비용 지원",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = · 미국 국방부가 위험 지역에 파병되거나 장기간 가족과 떨어져 근무하는 군인들을 대상으로 정자·난자 냉동 보관 비용을 지원하는 시범 사업을 시행한다.",
+      "13일(현지 시간) 미국 군사 전문 매체 밀리터리타임스에 따르면 미 국방부가 오는 9월부터 3년간 자격 요건을 갖춘 현역 장병의 생식세포(정자·난자) 채취 및 냉동 보관 비용을 보상해 주는 시범 사업을 개시한다.",
+      "국방수권법(NDAA)에 따라 추진되는 이번 제도는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3340e047",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "39분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081404024292855",
+    "title": "서장훈, 아이들에게 라면만 먹인 부부에 분노 \"이거 심각한 문제\"",
+    "summary": [
+      "'이혼 숙려 캠프' 라면 부부가 2박 3일 가사 조사 기간 한 끼를 제외한 아이들의 식사를 대부분 라면으로 챙긴 사실이 드러나 충격을 안겼다.",
+      "13일 방영된 JTBC '이혼 숙려 캠프' 95화에서는 '라면 부부'의 심층 가사 조사가 진행됐다.",
+      "이날 남편은 아이들의 삼시세끼를 라면으로 때우는 아내의 문제를 심각하게 지적했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee8e5e57",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "40분 전",
+    "url": "https://www.mt.co.kr/tech/2026/08/14/2026081215215667010",
+    "title": "이동진의 올해 유일한 '5점 영화'…OTT엔 없고 '여기' 있다[테크로그]",
+    "summary": [
+      "테크로그 'B tv 플러스 맥스' 리뷰 영화·예능·드라마 등 3만여편 VOD, 월 6600원에 파이아키아·영화제 연계도…'씨네필 필수품' 가장 핫한 테크 기술을 직접 써보고 리뷰합니다.",
+      "단말기부터 AI(인공지능), 앱, 게임 등 화제가 되는 ICT(정보통신기술)를 직접 체험하고 공유합니다.",
+      "'영화계 아이돌'로 불리는 이동진 영화평론가가 올해 5점 만점을 준 영화는 현재 하나뿐이다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n023ad6a1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814003400071",
+    "title": "\"美위스콘신 주지사 野경선서 또 여론조사 한계 드러나\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 한인 2세 프란체스카 홍(37·한국명 홍윤정) 후보가 석패한 미국 위스콘신 주지사 민주당 예비선거(경선)는..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4d01ff72",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "46분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747101",
+    "title": "\"주방 깨끗하게 닦았는데\"…세균 키우는 의외의 행동들",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 눈에 깨끗해 보이는 주방에서도 생고기나 생선, 달걀을 만진 손으로 다른 물건을 만지거나 젖은 행주로 조리대를 반복해서 닦으면 세균이 퍼질 수 있다는 지적이 나왔다.",
+      "최근 아일랜드 식품안전기관 세이프푸드는 '주방 위생에 대한 자신감' 조사 결과를 공개했다.",
+      "해당 조사에 참여한 성인 1038명 중 90%가 자신이 주방 위생 관리에 자신이 있다고 답했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6870bb24",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814003300099",
+    "title": "말리, 프랑스에 유화 제스처…간첩 혐의 佛 정보요원 사면",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 서아프리카 말리에서 간첩 혐의로 기소돼 징역 20년을 선고받고 복역 중이던 프랑스 정보요원이 사면됐다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n396184a3",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "58분 전",
+    "url": "https://view.asiae.co.kr/article/2026081403522016489",
+    "title": "美, 이란전 장기화에 중동 항모 교대…링컨함 대신 조지워싱턴함",
+    "summary": [
+      "미국과 이란 간 전쟁이 장기화하는 가운데 미국이 중동에 배치한 핵 추진 항공모함 에이브러햄 링컨함을 조지워싱턴함으로 교대 배치할 예정이라고 월스트리트저널(WSJ)이 13일(현지시간) 보도했다.",
+      "링컨함이 250일 넘게 장기 파병되면서 승조원들의 열악한 생활 여건과 정신건강을 둘러싼 우려가 커지는 상황에서 이뤄지는 교대다.",
+      "미 당국자들에 따르면 미군은 기존에 마련된 항모 교대 계획에 따라 링컨함을 대신해 조지워싱턴함."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n0c117520",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "58분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814003200091",
+    "title": "IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 대규모 기업공개(IPO)를 추진하고 있는 오픈AI가 기업 고객 대상 매출 성장을 이끌어온 최고매출책임..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "n130d5290",
     "category": "IT",
     "source": "테크M",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154297",
     "title": "지자체까지 공공 AX 시장 확대...네이버클라우드, FDE로 '현장 수요' 승부수",
     "summary": [
@@ -317,26 +513,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n566a957f",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/14/2026081319543384886",
-    "title": "임대차 불안까지… 문 닫는 가정어린이집",
-    "summary": [
-      "저출산에 10년새 58% 감소 임차시설, 보유세 강화 불똥 집주인 '퇴거요구'에 폐원도 학부모 \"영아 보육공백 우려\" 16개월 된 자녀를 둔 A씨(31)는 최근 아이를 맡길 어린이집을 찾느라 고민에 빠졌다.",
-      "경기 성남으로 이사하면서 보내려던 가정어린이집이 갑자기 문을 닫았기 때문이다.",
-      "근처 다른 어린이집도 폐원이 잇따르면서 남은 어린이집에는 입소 대기자가 몰렸다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
     "id": "nb9161223",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/world-baseball/2026/08/14/MYZWKNLFMUZDAMRXMZSTQMJUMY/",
     "title": "\"불펜 상황 정확히 이해, 영리했다\" 로버츠가 반한 KIA 우승 공신의 112구 혼신투, 기립박수 당연했다",
     "summary": [
@@ -348,26 +528,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na2cc79e8",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/world/2026/08/14/2026081403260610032",
-    "title": "애플 '트럼프 관세' 3조 돌려받았다…美 정부 13조 뱉어내",
-    "summary": [
-      "미국 연방대법원이 도널드 트럼프 대통령의 이른바 상호관세에 대해 위법 판결을 한 뒤 미국 주요 기업들이 빠르게 관세 환급금을 수령하고 있다고 월스트리트저널(WSJ)이 12일(현지시간) 보도했다.",
-      "보도에 따르면 S&P500지수 편입 기업 가운데 40곳 이상이 총 96억달러(약 13조6000억원) 규모의 관세 환급금을 수령한 것으로 나타났다.",
-      "이 중 최소 21억달러는 이미 현금으로 수령을 완료했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n8daed225",
     "category": "사회",
     "source": "조선일보",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/international/international_general/2026/08/14/L7FCUOP6BRBZ3AGD5PTBXOF72U/",
     "title": "“5월 이후” “올가을” “중간선거 뒤”…시점만 바뀌는 북미회담 전망",
     "summary": [
@@ -378,179 +542,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7161f392",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/industry/2026/08/14/2026081319530561765",
-    "title": "'K동박 시대' 다시 왔다… 북미 탈중국화·ESS시장 확대 호재",
+    "id": "n7ec65a56",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/14/3X3WTJVTP5AF5MOYJUDXDY7OLU/",
+    "title": "‘부동산 전쟁’ 시작한 이재명 정부… 틀린 문제 또 틀릴까 국민은 걱정",
     "summary": [
-      "SK넥실리스, 2Q 분기 최대 매출·롯데에너지 공장가동률 ↑ 수요 회복에 해외 생산능력 확대… \"하반기도 긍정적 흐름\" 국내 동박업계 후발주자인 고려아연의 동박 제조사 케이잼(KZAM)이 첫 제품공급에 성공한 것은 최근 달라진 배터리 시장의 분위기를 반영한다.",
-      "북미를 중심으로 배터리 공급망의 탈중국 움직임이 확산하는 가운데 ESS(에너지저장장치) 수요확대가 더해지며 국내 동박업체들이 반등의 기회를 맞았다.",
-      "13일 관련업계에 따르면 최근 국내 동."
+      "‘부동산 전쟁’ 시작한 이재명 정부… 틀린 문제 또 틀릴까 국민은 걱정."
     ],
     "chips": [
-      "#전기차"
+      "#부동산"
     ]
   },
   {
-    "id": "n5f2811df",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003747099",
-    "title": "\"외모에만 끌리는 게 아니었다\"…청소년 이성 호감 좌우하는 뜻밖의 요인",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 청소년기에 느끼는 이성적 호감은 외모보다 사회적 관계의 영향력이 높다는 연구 결과가 나왔다.",
-      "지난 10일(현지시간) 미국 과학매체 사이포스트는 네덜란드 흐로닝언대학교 연구진의 논문을 인용해 청소년기에 이성적 호감을 얻기 쉬운 사람의 특징을 보도했다.",
-      "연구진은 네덜란드 북부 농촌 지역의 한 고등학교 소속 학생 1895명을 대상으로 연구를 진행했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc994ba4a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814002600071",
-    "title": "법원이 제동건 케네디센터 개보수, 트럼프 방침따라 재추진",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국의 간판 공연장인 워싱턴 DC 케네디센터의 전면 개보수가 재추진되는 것으로 13일(현지시간) 알려졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7df0fe34",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003748633",
-    "title": "美국방 \"이란 해상봉쇄 무기한 가능…순환배치하면 돼\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 이란 전쟁 장기화로 중동에서 작전을 수행 중인 일부 미군의 피로도가 극에 달했다는 평가가 나오는 가운데, 피트 헤그세스 미국 국방장관은 13일(현지 시간) 이란 해상봉쇄 작전을 무기한 이어갈 수 있다고 주장했다.",
-      "타임스오브이스라엘에 따르면 헤그세스 장관은 이날 파나마 파나마시티에서 열린 다국적 군사훈련에서 취재진에 \"미 해군은 함정을 순환배치할 것이기 때문에 지금까지, 또 앞으로 계속하는 것처럼 무기한으로 봉."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n689f1126",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814003000085",
-    "title": "영국 남부서 여객 기차 탈선…중상 2명 포함 11명 부상",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 13일(현지시간) 영국 남부에서 여객 기차가 탈선하는 사고가 일어났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37df3a63",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/14/2026081316524991537",
-    "title": "사령탑도 베어스 45년 최초 역사 쓴 주인공 향해 엄지척! '6명'을 승장이 칭찬하다... 두산 4위 탈환→3위 LG 1.5G차 맹추격",
-    "summary": [
-      "한화 이글스를 제압하고 4위 자리를 탈환한 두산 베어스의 김원형 감독이 승리 소감을 밝혔다.",
-      "두산은 13일 서울 잠실야구장에서 펼쳐진 한화와 2026 신한 SOL KBO 리그 정규시즌 홈경기에서 9-6으로 승리했다.",
-      "이 승리로 두산은 전날(12일) 패배를 설욕, 54승 46패 4무를 마크하며 이번 한화와 3연전을 2승 1패로 마쳤다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nfef3d277",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814001900091",
-    "title": "美, 하루새 사형 3건 연이어 집행…16년 만에 처음",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국에서 16년 만에 하루 3건의 사형이 연달아 집행된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n39bb7c2c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003748059",
-    "title": "\"딸 묻을 자리였는데\"…中 아버지가 판 무덤, 9년 뒤 기적의 정원으로",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 중증 지중해빈혈을 앓던 두 살 딸의 죽음을 준비하기 위해 아버지가 직접 팠던 무덤이 9년 뒤 해바라기가 피는 정원으로 바뀌었다.",
-      "치료비조차 감당하기 어려웠던 가족에게 전국적인 관심과 도움의 손길이 이어지면서 딸이 건강을 되찾았기 때문이다.",
-      "13일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 중국 쓰촨성 네이장 출신 장신레이 양은 두 살이던 2017년 중증 지중해빈혈을 앓고 있었다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n3fb701e3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "46분 전",
-    "url": "https://www.newsis.com/view/NISX20260812_0003745785",
-    "title": "한국선 흔한데 일본선 ‘귀한 몸’…과수원까 털린 ‘이 과일’ 뭐길래",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 일본에서 고급 포도 품종인 샤인머스캣이 잇따른 절도 사건의 표적이 되고 있다.",
-      "일본의 주요 명절 오봉(8월15일 전후)을 앞두고 선물과 제례용 수요가 늘면서 가격이 지난해보다 크게 오른 가운데, 수확을 앞둔 샤인머스캣을 대량으로 훔쳐가는 사건까지 발생했다.",
-      "지난 10일 일본 매체 닛폰뉴스네트워크(NNN)에 따르면 샤인머스캣의 거래 가격이 지난해 같은 시기보다 30% 이상 높은 수준을 보이는 가운데 일본 각지에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n60abcbc7",
+    "id": "nc7b751aa",
     "category": "사회",
     "source": "조선일보",
-    "time": "46분 전",
-    "url": "https://www.chosun.com/culture-life/2026/08/14/LNJY5HESERHKVCUJAS453PNPN4/",
-    "title": "성심당 빵집 옆 50년 종소리와 야수파 성화가 숨 쉬는 성당",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/2026/08/14/FQPUHMTMMJCNTDWQVBIRIJSYJQ/",
+    "title": "[굿모닝 멤버십] 40대 주부 인생 2막을 ‘남초 업계’에서 시작하다",
     "summary": [
-      "성심당 빵집 옆 50년 종소리와 야수파 성화가 숨 쉬는 성당."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1fba88c0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "46분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/14/WXNYXFNPLJCOZLVSTIL2ANFNRM/",
-    "title": "공구 한 번 잡아본 적 없던 46세 여성이 월 450만원 버는 에어컨 기술자 되기까지",
-    "summary": [
-      "공구 한 번 잡아본 적 없던 46세 여성이 월 450만원 버는 에어컨 기술자 되기까지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na03c4f5a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "57분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814001700071",
-    "title": "\"美항모 워싱턴함 중동 파견…9개월째 작전 링컨함과 교대\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국과 이란 간의 전쟁이 장기화하는 가운데 미국이 중동에 배치한 핵 추진 항공모함 에이브러햄 링컨함을 조지..."
+      "[굿모닝 멤버십] 40대 주부 인생 2막을 ‘남초 업계’에서 시작하다."
     ],
     "chips": [
       "#뉴스"
@@ -560,7 +573,7 @@ window.NEWS_DB = [
     "id": "ne0f1d51d",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154296",
     "title": "자사주 108만주 소각한 넵튠…주주환원 시동 걸고 인도·게임 성장 노린다",
     "summary": [
@@ -576,7 +589,7 @@ window.NEWS_DB = [
     "id": "ndc8ee02c",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154289",
     "title": "두번째 파업 나서는 카카오뱅크 노조, \"강도 높은 쟁의행위 준비 중\"",
     "summary": [
@@ -592,7 +605,7 @@ window.NEWS_DB = [
     "id": "n78fbe756",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154282",
     "title": "\"생일 축하해, 내 오랜 친구\" 캐릭터 IP, 팬덤과의 '추억' 공유가 IP '경쟁력'으로",
     "summary": [
@@ -608,7 +621,7 @@ window.NEWS_DB = [
     "id": "ne9ff0c69",
     "category": "IT",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/202608140453i",
     "title": "앤트로픽의 M&A 승부수…애크먼이 AI 대신 선택한 기업은?[박신영의 개장전 요것만]",
     "summary": [
@@ -616,23 +629,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "n781df569",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260813/134475023/2",
-    "title": "“삼전닉스 최대 300조 주주환원 전망” 개미들 들썩",
-    "summary": [
-      "역대급 실적에도 ‘피크아웃’(고점 통과) 우려에 발목이 잡혔던 삼성전자와 SK하이닉스가 대규모 주주 환원 카드를 꺼내 들 채비를 하고 있다.",
-      "인공지능(AI)발 메모리 호황으로 확보한 막대한 현금을 배당과 자사주 매입·소각에 투입해 주주가치를 높이는 동시에 향후 현금 창출력에 대한 자신감을 시장에 보여주겠다는 구상이다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자",
-      "#SK하이닉스"
     ]
   }
 ];
