@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-13 15:48:48
+// 마지막 업데이트: 2026-08-13 16:44:20
 window.NEWS_DB = [
   {
     "id": "n8c5ac8c1",
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n14e5eed8",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n5ee6ae18",
     "category": "사회",
     "source": "아웃소싱타임스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
@@ -215,21 +215,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n917184b9",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "52일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
-    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
-    "summary": [
-      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -259,6 +244,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "76일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -276,12 +275,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "93일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -368,140 +367,206 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n86893e62",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003747784",
-    "title": "\"250일 넘게 육지 못 밟았다\"…美 항모서 승조원 투신 시도 잇따라",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 미국 항공모함 USS 에이브러햄 링컨호가 이란과의 전쟁 여파로 9개월째 장기 해상 작전을 이어가면서 승조원들의 정신 건강에 대한 우려가 커지고 있다.",
-      "250일 넘게 제대로 된 상륙을 하지 못한 가운데 일부 승조원이 바다로 뛰어내리려는 시도까지 한 것으로 전해졌다.",
-      "13일(현지 시간) 영국 가디언에 따르면 5000명이 넘는 해군과 해병대원이 탑승한 링컨호는 9개월째 해상에 머물고 있으며, 250일 넘게 육지에."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nfe808580",
-    "category": "사회",
+    "id": "n1a138f6c",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/14/UMMWRXFWQRH7ZO4E7GAUAFOULA/",
-    "title": "경주는 지금 ‘해바라기 천국’",
-    "summary": [
-      "경주는 지금 ‘해바라기 천국’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndcc55213",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/welfare-medical/2026/08/14/S2Z5ARXOBBDQBBZVZ34SWKZMS4/",
-    "title": "젊은층 ‘황반변성’ 4년새 65% 증가",
-    "summary": [
-      "젊은층 ‘황반변성’ 4년새 65% 증가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n81e6c186",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/08/14/M27VWH2SRFHFXLLLNQ7Q7GBGJM/",
-    "title": "영호남 기업 전기료, 다른 지역보다 최대 10% 싸진다",
-    "summary": [
-      "영호남 기업 전기료, 다른 지역보다 최대 10% 싸진다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndc367249",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/transport-environment/2026/08/14/PHFDITK6YZANJGNFF7VBPMVVAI/",
-    "title": "역대급 폭염에 모기도 못 버텨… 개체 수 14% 감소",
-    "summary": [
-      "역대급 폭염에 모기도 못 버텨… 개체 수 14% 감소."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncc80b7e6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814000300109",
-    "title": "\"우크라, 러시아에 흑해 민간 표적 공격 중단 제안\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 우크라이나가 러시아에 흑해의 민간 표적에 대한 공격을 상호 중단하자는 제안을 전달했다고 로이터통신이 소식통을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n624c0be3",
-    "category": "사회",
-    "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813166451009",
-    "title": "美 \"中, 40여개국 불법환적해 관세회피\"…韓도 '中환적 위험국' 거론(종합)",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/14/HA3TGMLCGI4TCMBQMRRGMY3DGY/",
+    "title": "\"내 자신과 싸우고 있더라\" 류현진 임태훈 넘고, 최민석도 넘었다...아홉수 깨고 마침내 도달한 베어스 새 역사",
     "summary": [
-      "(워싱턴·서울=연합뉴스) 이유미 특파원 오수진 기자 = 미국 백악관이 중국이 고율 관세를 피하기 위해 한국을 비롯한 전 세계 40여개국을 거쳐 ..."
+      "[잠실=스포츠조선 정현석 기자]두산 베어스의 '2년 차 특급' 최민석(20)이 마침내 지독했던 아홉수를 털어내고 구단 역사를 새롭게 썼다.",
+      "상대 선발 '대투수' 류현진과의 맞대결에서 거둔 승리이자, 베어스 프랜차이즈 역대 최연소 10승 기록이다.",
+      "최민석은 13일 서울 잠실야구장에서 열린 한화 이글스와의 홈경기에 선발 등판해 5이닝 동안 6안타 1볼넷 1사구."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf22b705a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/14/GY3TMOJVMQ3WEZBZMFRWCNJYMY/",
+    "title": "'빅이닝 헌납' 치명적 실수, 결국 배지환 발목 잡나…\"밀워키, 다른 유망주 콜업해야\" 美매체 냉정 평가",
+    "summary": [
+      "[스포츠조선 박상경 기자] 한 번의 수비 실수가 결국 배지환(밀워키 브루어스)의 발목을 잡는걸까.",
+      "밀워키가 내야 강화를 위해 유망주를 콜업해야 한다는 주장이 나왔다.",
+      "미국 매체 SB네이션은 13일(한국시각) '쿠퍼 프랫이 부상자 명단(IL)에 오른 가운데, 밀워키 내야진에 문제가 있는 건 분명해 보인다'며 '해결책 중 하나는 팜 내 최고 유망주 중 한 명인."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nea1272c3",
+    "id": "n68c47a2f",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747191",
+    "title": "미국인 73% \"트랜스젠더 선수, 출생 성별과 다른 팀서 뛰면 불편\"",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 미국인의 73%가 출생 당시 성별과 다른 성별의 스포츠팀에서 경기하는 트랜스젠더 선수에 대해 불편함을 느낀다는 여론조사 결과가 나왔다.",
+      "지난 12일(현지 시간) 미국 성소수자 전문 매체 '텀'은 퓨리서치센터가 최근 공개한 여론조사 자료를 인용해 이같이 보도했다.",
+      "조사는 지난해 2월과 11월 진행됐으며 1만 명이 넘는 미국 성인이 참여했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n755bcbc0",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814000600079",
-    "title": "후티반군 매체 \"드론으로 홍해 사우디 아람코 정유시설 타격\"",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814001500071",
+    "title": "빅터차 \"김정은, 美중간선거 후 트럼프와 회담 추진할 수도\"",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 홍해 변에 있는 사우디아라비아 국영 석유회사 아람코의 정유 시설을 공격했다고 후..."
+      "(워싱턴=연합뉴스) 박성민 송상호 특파원 = 북한 김정은 국무위원장이 통념에서 벗어난 수정주의 전략을 택한다면 도널드 트럼프 미국 대통령과의 북..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2bfc0971",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747322",
+    "title": "전소미, 핫팬츠로 애플힙 자랑…6년째 한다는 '이 운동’",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 가수 전소미가 최근 과감한 무대 의상으로 군살 없는 탄탄한 몸매를 공개해 눈길을 끌었다.",
+      "전소미는 지난 8일 자신의 인스타그램에 루마니아 공연을 마친 근황과 함께 여러 장의 사진을 공개했다.",
+      "사진 속 전소미는 복근과 등 라인이 드러나는 화이트 크롭 홀터넥 상의에 짧은 검정 핫팬츠를 매치했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n55113c71",
+    "id": "n6117a6d2",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003747332",
-    "title": "유민상, 결혼 원해 20㎏ 감량…\"일주일 내내 레몬수만 마셨다\"",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814000800099",
+    "title": "민주콩고 6번째 주에서 에볼라 사망자 발생…확산 우려",
     "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 코미디언 유민상이 과거 20㎏ 넘게 체중을 감량했던 경험을 공개하며 당시 다이어트 방법을 밝혔다.",
-      "12일 MBN 공식 유튜브 채널에 공개된 영상에서 유민상은 과거 사진을 보며 자신의 체중 변화에 대해 이야기했다.",
-      "그는 \"아주 아기 때 말고는 항상 별명이 '날으는 돈까스'였다\"며 \"저때도 말랐다는 얘기는 못 듣고 항상 '덩치 큰 애'라고 불렸다\"고 말했다."
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 콩고민주공화국(민주콩고)에서 기존 에볼라 발병 지역이 아닌 주에서도 에볼라 사망자가 확인됐다고 아프리..."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n363395d9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747998",
+    "title": "\"AI가 일자리 뺏을까봐\"…日기업, AI 도입에 유독 신중한 이유",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 심각한 구인난과 고령화, 만성적인 저생산성에 시달리는 일본의 기업들이 인공지능(AI) 도입에는 신중론을 고수하며 글로벌 흐름에서 뒤처지고 있다는 분석이 나왔다.",
+      "13일(현지 시간) 영국 BBC에 따르면 경제협력개발기구(OECD)의 최근 조사에서 일본 노동자의 업무 중 AI 사용률은 단 8.4％에 불과한 것으로 나타났다.",
+      "이는 미국(50％), 영국(32％), 싱가포르(56％) 등 주요국과 비교할 때 턱없이 낮은."
+    ],
+    "chips": [
+      "#AI",
+      "#채용",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n81a95393",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747397",
+    "title": "\"헬멧 썼는데 뱀이 꿈틀\"…한 시간 동안 독사와 훈련한 美 고교생",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 미국의 한 고등학교 미식축구 선수가 훈련 도중 헬멧 안에서 독사를 발견하는 아찔한 일이 벌어졌다.",
+      "13일(현지 시간) 미국 AP통신에 따르면 아칸소주 모멜고등학교의 한 선수가 지난주 훈련 도중 머리에 쓴 헬멧 안에서 독사인 '코튼마우스'를 발견했다.",
+      "해당 학생은 헬멧 속에서 이상한 움직임을 느끼자 코치에게 확인을 요청했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n1dfbbcad",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814001300072",
+    "title": "\"애플·나이키 등 美기업 40여곳, 14조원 관세 환급\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 주요 기업들이 예상보다 빠른 속도로 관세 환급금을 수령하고 있는 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n248e6f04",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "54분 전",
+    "url": "https://www.chosun.com/special/ombusman/2026/08/14/TG5FNCSBGNE2RIDHYACSSQEISE/",
+    "title": "경고등 못 켠 부동산·ETF 보도… 더 깊고 면밀히 분석했어야",
+    "summary": [
+      "경고등 못 켠 부동산·ETF 보도… 더 깊고 면밀히 분석했어야."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "ncebff0fb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "56분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/08/14/ELKTQV6OWFBJNKMCWVTO47YPHY/",
+    "title": "김태호 “李, 임기 단축하더라도 분권형 개헌 필요 언급”",
+    "summary": [
+      "김태호 “李, 임기 단축하더라도 분권형 개헌 필요 언급”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n53724cf4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814000700082",
+    "title": "폴란드 \"우크라계 미국인 암살 저지\"…러시아인 체포",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 폴란드 당국이 러시아 정보기관의 우크라이나계 미국인 암살을 저지했다고 13일(현지시간) 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne9ff0c69",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "58분 전",
+    "url": "https://www.hankyung.com/article/202608140453i",
+    "title": "앤트로픽의 M&A 승부수…애크먼이 AI 대신 선택한 기업은?[박신영의 개장전 요것만]",
+    "summary": [
+      "앤트로픽의 M&A 승부수…애크먼이 AI 대신 선택한 기업은?[박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#AI"
     ]
   },
   {
     "id": "n781df569",
     "category": "IT",
     "source": "동아일보",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260813/134475023/2",
     "title": "“삼전닉스 최대 300조 주주환원 전망” 개미들 들썩",
     "summary": [
@@ -518,7 +583,7 @@ window.NEWS_DB = [
     "id": "nb18899f4",
     "category": "사회",
     "source": "동아일보",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260813/134475038/2",
     "title": "인천공항 새 역사 썼다… 국제선 여객 세계 1위",
     "summary": [
@@ -534,7 +599,7 @@ window.NEWS_DB = [
     "id": "nee99494e",
     "category": "IT",
     "source": "동아일보",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260813/134475040/2",
     "title": "SK하이닉스, 美 인디애나 팹 27일 착공… 최태원-젠슨 황 또 만나나",
     "summary": [
@@ -551,7 +616,7 @@ window.NEWS_DB = [
     "id": "n19996138",
     "category": "경제",
     "source": "동아일보",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260813/134475059/2",
     "title": "원화가치 한달새 9.4% 급등… 변동성 더 커지면 기업들 불안",
     "summary": [
@@ -566,74 +631,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne3e7cd3b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003747349",
-    "title": "50살 김현정, 한 달 만에 8㎏ 감량…\"이것부터 싹 끊었다\"",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 가수 김현정(50)이 한 달 만에 8㎏을 감량한 근황을 공개했다.",
-      "김현정은 지난 11일 자신의 사회관계망서비스(SNS)를 통해 개인 유튜브 채널 '멍현정'의 쇼츠 영상을 소개했다.",
-      "영상에는 남해 상주은모래비치페스타 공연을 앞두고 무대를 준비하는 김현정의 모습이 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naf537f97",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814000200082",
-    "title": "스웨덴서 '무노조' 테슬라 상대 파업 3년 만에 중단",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 스웨덴 노동자들이 미국 전기차업체 테슬라를 상대로 한 파업을 2년 10개월 만에 끝내기로 했다."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n4903c32e",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003748627",
-    "title": "박주호·안나 부부, 암투병 이기고 넷째 임신했다 \"다시 시작\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 전 축구선수이자 해설위원인 박주호와 그의 아내 안나 부부가 넷째 아이를 임신했다.",
-      "안나는 13일 자신의 유튜브 채널 '안나와 위드 안나(With ANNA)'에 '다시 시작합니다'라는 제목의 영상을 올려 임신 소식을 알렸다.",
-      "4개월 만에 영상을 공개한 그는 병원에서 진행한 태아 초음파 검사 장면과 함께 \"힘든 시간을 버티고 나면 삶은 조용히 소중한 희망들을 품고 기다리고 있다\"며 \"새로운 챕터를 시작해 보려 한다\"고."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "n76b93322",
     "category": "경제",
     "source": "한국경제",
-    "time": "48분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026081300107",
     "title": "[오늘의 운세] 8월 14일 띠별 운세",
     "summary": [
       "[오늘의 운세] 8월 14일 띠별 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0a43757e",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "48분 전",
-    "url": "https://www.hankyung.com/article/2026080689537",
-    "title": "[오늘의 운세] 2026년 8월 14일 별자리 운세",
-    "summary": [
-      "[오늘의 운세] 2026년 8월 14일 별자리 운세."
     ],
     "chips": [
       "#뉴스"
@@ -646,14 +651,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
