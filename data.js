@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-13 16:44:20
+// 마지막 업데이트: 2026-08-13 17:49:09
 window.NEWS_DB = [
   {
     "id": "n8c5ac8c1",
     "category": "IT",
     "source": "뉴시스",
-    "time": "4시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15U0xjT0F2UC10RDdoZG1LSE0xRng0U3hJeV9GZGJLYzJWRUFJU0J3ajQ2bFN2TGdiOHBsUXdseTA3b3JLc0E2eEZwRTlkZW9VZ1Z2cVNCcGpTR3RDS0l0c9IBeEFVX3lxTE9mU2s0VXlfNF8tOEZMNjhRdndZdHJwV0k4cjVtMlFBdVM2anJqZ0pqYnVuRXRpMzJFQzJmOXJyNjQyVjg3UncyN2tjbmhleXZKai1KaHUxMlJMX2QwSVIwbkt2MUN5dFd5MUNld0kxd2pQNFQ3RV9Ycg?oc=5",
     "title": "AI 반도체 떨어지자 '줍줍'…'돈나무 언니' 엔비디아·브로드컴 샀다",
     "summary": [
@@ -18,11 +18,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne2694309",
+    "id": "ne5b63b9f",
     "category": "스포츠",
     "source": "네이트",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tWEJfd1NNQUh3UUhBQVF2V3l6eS1NaTk3N19QLUNqUnJMV2RoZS1NbnJBa2pxRHlOSlZIZU1pYmQtRXhFcUJIOVlwVmRxNmRGcjFQbjc5Tk0zalhySFBfVVByZEtKTVg3?oc=5",
+    "time": "7시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qMnZxV1JrV0ZMNjlIS1BaSWQxaExfcmlySlRzTjd2R3ByMUk1MFRXNnZuN0dSVWVKWF9QMHRzMzEwZlF6T2drd29LMVh3TFd2QkdfS3J3RVBGNDRRQlZJYlEwX0dIb2hu?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
       "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n14e5eed8",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n5ee6ae18",
     "category": "사회",
     "source": "아웃소싱타임스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
@@ -160,12 +160,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "13일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -275,12 +275,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "biz.heraldcorp.com",
+    "source": "헤럴드경제",
     "time": "93일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
@@ -319,10 +319,105 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ncf746c42",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003748631",
+    "title": "튀르키예 \"메카협정 목표, 3국 연합훈련 통해 공동작전 강화\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 튀르키예 정부가 사우디아라비아·파키스탄과 구축한 집단안보체제 '메카 공동방위협정(메카협정)'에 따라 장기적으로 3국 연합훈련을 실시하겠다는 입장을 밝혔다.",
+      "아나돌루통신에 따르면 제키 아크튀르크 튀르키예 국방부 대변인은 13일(현지 시간) 주례 브리핑에서 \"협정의 목표는 지역 안보와 안정에 기여하고, 3국 간 군사협력을 강화하며, 잠재적인 위기 상황에서 공동으로 대응할 수 있는 능력을 강화하는 것\"이라고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6b2b2034",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/08/14/G43TIN3FGE3DINRUGJRWEMBRME/",
+    "title": "꺼지지 않는 불씨, 스테판 커리 이적설 충격 미스테리. 美 매체 \"스테판 커리 유력 차기 행선지. 커리 이적 가능성 남아있다\"",
+    "summary": [
+      "[스포츠조선 류동혁 기자] 스테판 커리의 이적설의 불씨가 꺼지지 않는다.",
+      "보스턴 셀틱스의 트레이드 루머는 루머에 그치는 듯 했다.",
+      "하지만, 현지 매체의 뉘앙스는 이상하다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne3bde5b0",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747829",
+    "title": "결혼 전 산 아파트 10억 됐는데…8년간 생활비 전담한 아내, 재산분할 받을 수 있을까",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 결혼생활 내내 '각자 수입 관리'와 '비용 5대 5 부담' 원칙을 지켜오다 이혼 과정에서 남편 명의 아파트의 재산분할을 두고 갈등을 겪는 30대 여성 사연이 공개됐다.",
+      "13일 YTN 라디오 '조인섭 변호사의 상담소(조담소)'에서는 8년간 매달 200만원 상당의 생활비를 전담했으나 남편으로부터 \"아파트는 내 단독 재산\"이라는 통보를 받은 사연자 A씨의 고민이 소개됐다.",
+      "연애 시절부터 '반반' 비용 부담을 해온."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n1b53b1f0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747510",
+    "title": "\"해고되자 앙심 품고\"…전 직장·대표 자택 침입해 1.5억 훔친 직원",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = 회사 차량을 무단으로 사용하다가 해고되자 퇴사 전 몰래 확보해 둔 보안카드를 이용해 전 직장과 대표 자택에 무단 침입해 억대의 금품을 훔친 전 직원이 경찰에 구속됐다.",
+      "13일 경찰청 공식 유튜브 채널은 '퇴사자가 회사를 다시 찾았다'라는 제목의 영상을 공개했다.",
+      "해당 영상에 따르면 직원 A씨는 지난 5월 회사 차량을 사적으로 무단 사용하다 적발돼 해고 통보를 받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n711bb8da",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081402282934911",
+    "title": "오상진 아들, 태어나자마자 중환자실 고비 \"3일간 생사의 기로\"",
+    "summary": [
+      "오상진이 태어나자마자 황달과 소화기관 문제로 중환자실에 입원했던 아들 수호의 고비를 떠올렸다.",
+      "13일 방영된 KBS2 '신상출시 편스토랑' 333회에서는 오상진이 아들의 50일을 맞아 가족들과 기념사진을 찍는 모습이 그려졌다.",
+      "이날 오상진은 아들 수호가 태어난 직후 중환자실에 입원했던 일을 떠올렸다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc2193b4a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/14/MFSWEYRVHA2GIN3GMM3DCYLFGM/",
+    "title": "'0홈런 외인' 1군 빠졌는데, ‘2653안타’ 안타왕 콜업 없었다…확대 엔트리까지 기다려야 하나",
+    "summary": [
+      "[OSEN=조형래 기자] 프로야구 두산 베어스 외국인 타자 유니오 세베리노가 1군에서 제외됐다.",
+      "하지만 ‘2653안타’의 레전드, 손아섭의 1군 콜업은 없었다.",
+      "퓨처스리그에서도 무안타로 침묵했다.두산은 13일 잠실구장에서 열린 한화 이글스와의 경기를 앞두고 1군 엔트리를 변동했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "ne0f1d51d",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "32분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154296",
     "title": "자사주 108만주 소각한 넵튠…주주환원 시동 걸고 인도·게임 성장 노린다",
     "summary": [
@@ -335,10 +430,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n3c296a36",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747813",
+    "title": "\"키스신 60번 넣어라\"…中 여성 투자자, 직접 여주인공 맡고 남배우에 요구",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 드라마 제작비를 부담한 뒤 직접 여주인공으로 출연한 중국의 한 여성 투자자가 '남성 배우와 60회 이상의 키스 장면을 찍게 해달라'고 요구했다는 폭로가 나왔다.",
+      "지난 2일(현지 시간) 싱가포르 연합조보는 숏폼 사극 드라마의 남주인공을 맡은 중국 배우 중위페이가 소셜미디어(SNS)를 통해 폭로한 내용을 보도했다.",
+      "중위페이는 여주인공을 맡은 배우가 촬영 현장에서 과도한 신체 접촉을 했고, 불편함을 느꼈지만 참을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndafd439e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814002000108",
+    "title": "튀르키예, 2027년 자체 개발 달 탐사선 발사 계획",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예가 내년 초 자체 개발한 달 탐사선을 발사할 계획이라고 메흐메트 파티흐 카즈르 튀르키예 산업기술장..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ndc8ee02c",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "43분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154289",
     "title": "두번째 파업 나서는 카카오뱅크 노조, \"강도 높은 쟁의행위 준비 중\"",
     "summary": [
@@ -354,7 +479,7 @@ window.NEWS_DB = [
     "id": "n78fbe756",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "44분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154282",
     "title": "\"생일 축하해, 내 오랜 친구\" 캐릭터 IP, 팬덤과의 '추억' 공유가 IP '경쟁력'으로",
     "summary": [
@@ -367,48 +492,92 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a138f6c",
+    "id": "n8207656c",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/14/HA3TGMLCGI4TCMBQMRRGMY3DGY/",
-    "title": "\"내 자신과 싸우고 있더라\" 류현진 임태훈 넘고, 최민석도 넘었다...아홉수 깨고 마침내 도달한 베어스 새 역사",
+    "source": "머니투데이",
+    "time": "48분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/14/2026081320033278205",
+    "title": "'7월 7홈런 23타점 OPS 1.110 폭발' 나성범, 광주기독병원 7월 MVP 선정",
     "summary": [
-      "[잠실=스포츠조선 정현석 기자]두산 베어스의 '2년 차 특급' 최민석(20)이 마침내 지독했던 아홉수를 털어내고 구단 역사를 새롭게 썼다.",
-      "상대 선발 '대투수' 류현진과의 맞대결에서 거둔 승리이자, 베어스 프랜차이즈 역대 최연소 10승 기록이다.",
-      "최민석은 13일 서울 잠실야구장에서 열린 한화 이글스와의 홈경기에 선발 등판해 5이닝 동안 6안타 1볼넷 1사구."
+      "KIA 타이거즈 외야수 나성범(37)이 광주기독병원에서 시상하는 7월 월간 MVP에 선정됐다.",
+      "시상식은 13일 광주-KIA 챔피언스필드에서 치른 삼성 라이온즈전에 앞서 열렸다.",
+      "나성범은 7월 21경기에 출장해 75타수 27안타 7홈런 23타점 타율 0.360, OPS(출루율+장타율) 1.110을 기록하며 활약했다."
     ],
     "chips": [
-      "#KBO"
+      "#의료"
     ]
   },
   {
-    "id": "nf22b705a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/14/GY3TMOJVMQ3WEZBZMFRWCNJYMY/",
-    "title": "'빅이닝 헌납' 치명적 실수, 결국 배지환 발목 잡나…\"밀워키, 다른 유망주 콜업해야\" 美매체 냉정 평가",
+    "id": "n44a4ccf9",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "48분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/08/14/2026081309300438237",
+    "title": "5극3특이 놓친 '민주주의 결손'[MT시평/채진원]",
     "summary": [
-      "[스포츠조선 박상경 기자] 한 번의 수비 실수가 결국 배지환(밀워키 브루어스)의 발목을 잡는걸까.",
-      "밀워키가 내야 강화를 위해 유망주를 콜업해야 한다는 주장이 나왔다.",
-      "미국 매체 SB네이션은 13일(한국시각) '쿠퍼 프랫이 부상자 명단(IL)에 오른 가운데, 밀워키 내야진에 문제가 있는 건 분명해 보인다'며 '해결책 중 하나는 팜 내 최고 유망주 중 한 명인."
+      "이재명 정부의 지방정책은 '자치분권을 기반으로 한 '5극 3특'으로 요약된다.",
+      "지난달 초 이재명 대통령은 '충청권 첨단산업 발전비전 국민보고회'에서 \"5극3특 각 권역이 독자적 산업생태계를 구축한 채, 서로 경쟁하며 발전하는 지방주도성장을 빚어내겠다\"고 말했다.",
+      "5극은 수도권·동남권·대경권·중부권·호남권을, 3특은 제주·강원·전북 등 세 개의 특별자치도를 뜻한다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n206bed14",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "55분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813175651085",
+    "title": "런던 38.1도 찍었다…영국 또 폭염 신기록(종합)",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 올해 들어 극심한 폭염이 이어진 영국에 다섯 번째 폭염이 닥쳤다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n68c47a2f",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003747191",
-    "title": "미국인 73% \"트랜스젠더 선수, 출생 성별과 다른 팀서 뛰면 불편\"",
+    "id": "nf695afb7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/14/GZQWENLFGRRDMZDFGQZTEYRWGY/",
+    "title": "리즈 시절을 넘었네...서강준, 역대급 잘생김 갱신한 근황 '비주얼'",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 미국인의 73%가 출생 당시 성별과 다른 성별의 스포츠팀에서 경기하는 트랜스젠더 선수에 대해 불편함을 느낀다는 여론조사 결과가 나왔다.",
-      "지난 12일(현지 시간) 미국 성소수자 전문 매체 '텀'은 퓨리서치센터가 최근 공개한 여론조사 자료를 인용해 이같이 보도했다.",
-      "조사는 지난해 2월과 11월 진행됐으며 1만 명이 넘는 미국 성인이 참여했다."
+      "[OSEN=박근희 기자] 배우 서강준이 매일이 리즈인 완벽한 비주얼을 자랑했다.13일 오후 서강준은 자신의 SNS를 통해 여러 장의 근황 사진을 게재했다.공개된 사진 속 서강준은 가을 분위기가 물씬 풍기는 브라운 컬러의 카디건을 완벽하게 소화하며 카메라를 향해 포즈를 취하고 있다.특히 소멸할 듯 작은 얼굴에 뚜렷하고 꽉 찬 이목구비가 보는 이들의 감탄을 자."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1276f1b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/14/GM4GENZTGBQWCNBSMVRDINJRGM/",
+    "title": "소녀시대 효리수, 신곡 무산되나..살벌한 센터 전쟁 \"다 때려쳐\" ('레벨업')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 그룹 소녀시대의 유닛 효리수가 안무 연습에 돌입했다.",
+      "지난 12일 유튜브 채널 '효연의 레벨업'에는 '안무 최초 공개인데 싸우기만 할 거야? 센터 안 서본 사람처럼 왜 이래? / 가짜 김효연 | 효리수 데뷔 프로젝트 6화'라는 제목의 영상이 게재됐다.이날 효리수(효연, 유리, 수영)는 위댐보이즈."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n059266e7",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/14/2026081400395858987",
+    "title": "법원은 '성폭행 무죄', 협회 판단은 달랐다... 유망주 4명 '중징계' 최대 2030년까지 출장 정지",
+    "summary": [
+      "법원에서는 성폭행 혐의에 대해 무죄 판결을 받았지만, 캐나다하키협회의 판단은 달랐다.",
+      "로이터통신은 13일(한국시간) \"캐나다 2018 세계주니어 아이스하키선수권 대표팀 출신으로 지난해 성폭행 혐의에 대해 무죄 판결을 받은 선수 5명이 캐나다하키의 행동강령을 위반했다는 판단이 유지됐다\"고 전했다.",
+      "논란의 중심에 선 선수들은 마이클 맥클라우드, 알렉스 포먼턴, 딜런 두베, 카터 하트, 칼 푸트다."
     ],
     "chips": [
       "#뉴스"
@@ -418,7 +587,7 @@ window.NEWS_DB = [
     "id": "n755bcbc0",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "18분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260814001500071",
     "title": "빅터차 \"김정은, 美중간선거 후 트럼프와 회담 추진할 수도\"",
     "summary": [
@@ -429,26 +598,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2bfc0971",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003747322",
-    "title": "전소미, 핫팬츠로 애플힙 자랑…6년째 한다는 '이 운동’",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 가수 전소미가 최근 과감한 무대 의상으로 군살 없는 탄탄한 몸매를 공개해 눈길을 끌었다.",
-      "전소미는 지난 8일 자신의 인스타그램에 루마니아 공연을 마친 근황과 함께 여러 장의 사진을 공개했다.",
-      "사진 속 전소미는 복근과 등 라인이 드러나는 화이트 크롭 홀터넥 상의에 짧은 검정 핫팬츠를 매치했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n6117a6d2",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260814000800099",
     "title": "민주콩고 6번째 주에서 에볼라 사망자 발생…확산 우려",
     "summary": [
@@ -459,100 +612,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n363395d9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003747998",
-    "title": "\"AI가 일자리 뺏을까봐\"…日기업, AI 도입에 유독 신중한 이유",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 심각한 구인난과 고령화, 만성적인 저생산성에 시달리는 일본의 기업들이 인공지능(AI) 도입에는 신중론을 고수하며 글로벌 흐름에서 뒤처지고 있다는 분석이 나왔다.",
-      "13일(현지 시간) 영국 BBC에 따르면 경제협력개발기구(OECD)의 최근 조사에서 일본 노동자의 업무 중 AI 사용률은 단 8.4％에 불과한 것으로 나타났다.",
-      "이는 미국(50％), 영국(32％), 싱가포르(56％) 등 주요국과 비교할 때 턱없이 낮은."
-    ],
-    "chips": [
-      "#AI",
-      "#채용",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n81a95393",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003747397",
-    "title": "\"헬멧 썼는데 뱀이 꿈틀\"…한 시간 동안 독사와 훈련한 美 고교생",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 미국의 한 고등학교 미식축구 선수가 훈련 도중 헬멧 안에서 독사를 발견하는 아찔한 일이 벌어졌다.",
-      "13일(현지 시간) 미국 AP통신에 따르면 아칸소주 모멜고등학교의 한 선수가 지난주 훈련 도중 머리에 쓴 헬멧 안에서 독사인 '코튼마우스'를 발견했다.",
-      "해당 학생은 헬멧 속에서 이상한 움직임을 느끼자 코치에게 확인을 요청했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n1dfbbcad",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814001300072",
-    "title": "\"애플·나이키 등 美기업 40여곳, 14조원 관세 환급\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 주요 기업들이 예상보다 빠른 속도로 관세 환급금을 수령하고 있는 것으로 나타났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n248e6f04",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "54분 전",
-    "url": "https://www.chosun.com/special/ombusman/2026/08/14/TG5FNCSBGNE2RIDHYACSSQEISE/",
-    "title": "경고등 못 켠 부동산·ETF 보도… 더 깊고 면밀히 분석했어야",
-    "summary": [
-      "경고등 못 켠 부동산·ETF 보도… 더 깊고 면밀히 분석했어야."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "ncebff0fb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "56분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/08/14/ELKTQV6OWFBJNKMCWVTO47YPHY/",
-    "title": "김태호 “李, 임기 단축하더라도 분권형 개헌 필요 언급”",
-    "summary": [
-      "김태호 “李, 임기 단축하더라도 분권형 개헌 필요 언급”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n53724cf4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "56분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814000700082",
-    "title": "폴란드 \"우크라계 미국인 암살 저지\"…러시아인 체포",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 폴란드 당국이 러시아 정보기관의 우크라이나계 미국인 암살을 저지했다고 13일(현지시간) 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ne9ff0c69",
     "category": "IT",
     "source": "한국경제",
-    "time": "58분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202608140453i",
     "title": "앤트로픽의 M&A 승부수…애크먼이 AI 대신 선택한 기업은?[박신영의 개장전 요것만]",
     "summary": [
@@ -566,7 +629,7 @@ window.NEWS_DB = [
     "id": "n781df569",
     "category": "IT",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260813/134475023/2",
     "title": "“삼전닉스 최대 300조 주주환원 전망” 개미들 들썩",
     "summary": [
@@ -578,71 +641,6 @@ window.NEWS_DB = [
       "#삼성전자",
       "#SK하이닉스"
     ]
-  },
-  {
-    "id": "nb18899f4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260813/134475038/2",
-    "title": "인천공항 새 역사 썼다… 국제선 여객 세계 1위",
-    "summary": [
-      "인천국제공항이 상반기(1∼6월) 국제선 여객 수 기준으로 세계 1위에 올랐다.",
-      "국제선 여객 실적은 공항의 글로벌 경쟁력을 판단하는 가장 중요한 지표로 꼽힌다.",
-      "2001년 개항한 인천공항이 국제선 여객 세계 정상에 오른 것은 처음이다.13일 인천국제공항공사에 따르면 인천공항의 상반기 국제선 여객 실적은 3839만 명으로 잠정 집계됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nee99494e",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260813/134475040/2",
-    "title": "SK하이닉스, 美 인디애나 팹 27일 착공… 최태원-젠슨 황 또 만나나",
-    "summary": [
-      "SK하이닉스의 미국 인디애나주 반도체 공장(팹) 착공식이 27일(현지 시간) 열릴 예정이다.",
-      "이날 착공식에는 곽노정 SK하이닉스 대표를 포함해 주요 경영진이 참석할 것으로 알려졌다.13일 반도체 업계에 따르면 SK하이닉스가 미국 인디애나주 웨스트라피엣에 건설 추진 중인 최첨단 반도체 패키징 공장의 착공식이 27일 개최된다.",
-      "SK하이닉스는 착공식을 앞두고 주요 고객사 및 협력사에 초청장을 보낸 것으로 알려졌다.곽 대표를 포함한 주요 SK 경영진과."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n19996138",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260813/134475059/2",
-    "title": "원화가치 한달새 9.4% 급등… 변동성 더 커지면 기업들 불안",
-    "summary": [
-      "최근 한 달 사이 원화 가치가 주요국 통화 중 가장 큰 폭으로 오른 것으로 나타났다.",
-      "중동 지역 불확실성이 완화된 데 이어 SK하이닉스 미국 주식예탁증서(ADR) 발행 등으로 조달한 달러가 국내에 들어오면서 원-달러 환율이 크게 하락한 영향으로 풀이된다.",
-      "환율이 하락하면 원자재 및 수입 물가 부담이 줄어들지만, 높아진 변동성으로 인해 수출 기업들의 경영 불확실성이 커질 것이란 우려도 나온다."
-    ],
-    "chips": [
-      "#SK하이닉스",
-      "#환율",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n76b93322",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026081300107",
-    "title": "[오늘의 운세] 8월 14일 띠별 운세",
-    "summary": [
-      "[오늘의 운세] 8월 14일 띠별 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -651,20 +649,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
