@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-13 14:14:45
+// 마지막 업데이트: 2026-08-13 15:48:48
 window.NEWS_DB = [
   {
     "id": "n8c5ac8c1",
     "category": "IT",
     "source": "뉴시스",
-    "time": "2시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15U0xjT0F2UC10RDdoZG1LSE0xRng0U3hJeV9GZGJLYzJWRUFJU0J3ajQ2bFN2TGdiOHBsUXdseTA3b3JLc0E2eEZwRTlkZW9VZ1Z2cVNCcGpTR3RDS0l0c9IBeEFVX3lxTE9mU2s0VXlfNF8tOEZMNjhRdndZdHJwV0k4cjVtMlFBdVM2anJqZ0pqYnVuRXRpMzJFQzJmOXJyNjQyVjg3UncyN2tjbmhleXZKai1KaHUxMlJMX2QwSVIwbkt2MUN5dFd5MUNld0kxd2pQNFQ3RV9Ycg?oc=5",
     "title": "AI 반도체 떨어지자 '줍줍'…'돈나무 언니' 엔비디아·브로드컴 샀다",
     "summary": [
@@ -18,40 +18,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n014b13e0",
+    "id": "ne2694309",
     "category": "스포츠",
-    "source": "news.nate.com",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NZUpOM2ZxcHZWMHgxbzMtVHlKS3JDc2FFY0g1b3BNSHRPZUw4ZzBMb1BnVlJhQWlfTURnNWZfc0hGU3JKNG9LalZMVHNFa2FjQlZwTFM0QjBDSThkNTBSMw?oc=5",
+    "source": "네이트",
+    "time": "5시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tWEJfd1NNQUh3UUhBQVF2V3l6eS1NaTk3N19QLUNqUnJMV2RoZS1NbnJBa2pxRHlOSlZIZU1pYmQtRXhFcUJIOVlwVmRxNmRGcjFQbjc5Tk0zalhySFBfVVByZEtKTVg3?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n013a8d68",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45VFJLeDBjZnFYQWNnX2RaZUVLQlhodmd4akJuMlZIVG8weEE0a3B1Y2FDdGNmQmpJWU5IYzhoMkl0WGs1SGdEQ3A2OE9sdlFEMTBYTXpiLU8yRjkwMWE1WEFPdkhQTVBwZG82MnhFYmZON3M?oc=5",
-    "title": "엔비디아 투자 받은 AI 스타트업 디카트 앤트로픽이 인수 추진, 60억 달러 규모",
-    "summary": [
-      "엔비디아 투자 받은 AI 스타트업 디카트 앤트로픽이 인수 추진, 60억 달러 규모 비즈니스포스트."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n14e5eed8",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "11시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
@@ -67,7 +51,7 @@ window.NEWS_DB = [
     "id": "n5ee6ae18",
     "category": "사회",
     "source": "아웃소싱타임스",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
@@ -126,14 +110,31 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ndc68ab8a",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTaHZuYlVlRmo2QjNmQ3IzeXFRWXhBbGdHbklZZnYxNlFUSzEtekFsam95aW5tNlc1RjQzMWxvWUsxWndyc2Q2RGtFSXk2ZVpSX2VnUVo4WUtKeEdOTHpsak94SkZYcFRxNDV1dF80X2NYN2s?oc=5",
+    "title": "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력",
+    "summary": [
+      "엔비디아 HBM 탑재량 줄여도 삼성전자 SK하이닉스 '탄탄대로' 전망, AI 반도체 수요 강력 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "n757759c6",
     "category": "IT",
-    "source": "블록체인투데이",
+    "source": "blockchaintoday.co.kr",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
     "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
     "summary": [
-      "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격 블록체인투데이."
+      "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격 blockchaintoday.co.kr."
     ],
     "chips": [
       "#반도체",
@@ -214,6 +215,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n917184b9",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "52일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
+    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
+    "summary": [
+      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -240,20 +256,6 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
-    ]
-  },
-  {
-    "id": "n79d12fb6",
-    "category": "부동산",
-    "source": "biz.chosun.com",
-    "time": "76일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
-    "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -284,20 +286,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "134일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -380,261 +368,272 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na5d2d71f",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026081323105292024",
-    "title": "권순기 경남교육감 첫 정기인사 … \"교육본질 회복·공교육 강화\"",
-    "summary": [
-      "경남교육청이 권순기 교육감 취임 후 첫 교육공무원 인사를 단행했다.",
-      "권 교육감은 13일 도 교육청 브리핑룸에서 오는 9월 1일 자 교육공무원 총 469명 대상 정기인사 단행을 발표했다.",
-      "권 교육감은 \"교육 본질 회복과 공교육 강화를 안정적으로 추진할 수 있는 조직 기반 마련에 중점을 두고 이뤄졌다\"라고 설명했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n72c61e85",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026081323120399819",
-    "title": "클리블랜드 연은 총재 \"금리 올려야\"…물가 둔화 지속성에 의문",
-    "summary": [
-      "베스 해맥 미국 클리블랜드 연방준비은행(연은) 총재가 최근 인플레이션 둔화세가 지속될지 확신하기 어렵다며 지금 금리를 인상해야 한다는 입장을 재확인했다.",
-      "전날 수전 콜린스 보스턴 연은 총재가 추가 긴축 가능성을 열어둔 데 이어 연방준비제도(Fed) 내부에서 금리 인상 필요성을 강조하는 목소리가 잇따르고 있다.",
-      "13일(현지시간) 블룸버그통신에 따르면 해맥 총재는 이날 오하이오주 케터링에서 열린 데이턴 지역 상공회의."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n55ea0114",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260813/134475950/2",
-    "title": "[오늘과 내일/한상준]‘마무리’만 넉 달째, 경찰의 김병기 의혹 수사",
-    "summary": [
-      "“마무리된 건에서부터 정리해 나가겠다.”(5월 18일 박정보 서울경찰청장)“거의 마무리 단계에 있다.”(6월 29일 서울경찰청 관계자)“신속하게 마무리될 수 있도록 할 것.”(3일 홍석기 국가수사본부장) 더불어민주당을 탈당해 무소속이 된 김병기 의원 수사에 대한 경찰의 설명들이다.",
-      "경찰은 4개월째 ‘마무리’를 말하고 있지만, 정작 수사가 마무리될 기미는 보이지 않는다.",
-      "김 의원 관련 수사는 지난해 9월 둘째 아들의 특혜 편입 의혹이 불거지면서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2a1b7511",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026081322475580001",
-    "title": "\"진해 심장 절대 못 떼\" … 진해서 해사 이전 반대 총궐기",
-    "summary": [
-      "\"진해의 심장, 해군사관학교 이전 절대 반대한다!\" 해군사관학교가 있는 경남 창원시 진해지역 주민들이 정부의 육·해·공군 사관학교 통합 추진에 반발하는 대규모 집회에서 이같이 외쳤다.",
-      "'해군사관학교 졸속 통합·이전 반대 범시민대책위원회'는 13일 창원시 진해구 중원로터리에서 해군사관학교 이전 반대 총궐기대회를 열었다.",
-      "집회에는 진해지역 주민과 사회단체 관계자, 재향군인회를 포함한 보훈·안보단체, 해군사관학."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n8e969765",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260813/134475938/2",
-    "title": "[광화문에서/정윤철]장점에 투자하지 않았다면 ‘슛도사’ 커리도 없었다",
-    "summary": [
-      "역대 미국프로농구(NBA) 사령탑 통산 승수 2위 기록(1335승)을 보유한 돈 넬슨 전 감독이 9일 세상을 떠났다.",
-      "넬슨 전 감독의 제자인 ‘슛도사’ 스테픈 커리(골든스테이트)는 이날 소셜미디어에 이런 글을 남겼다.",
-      "“나만의 길을 찾을 수 있도록 첫날부터 코트 위에서 뛸 기회를 주신 감독님께 감사하다.” 커리는 NBA 역사상 최고 슈터로 꼽힌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3bac4341",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003748587",
-    "title": "'강민호·디아즈 홈런' 삼성, KIA 꺾고 4연패 탈출…'5회 8득점' LG도 역전승(종합)",
-    "summary": [
-      "[서울=뉴시스]문채현 김희준 기자 = 프로야구 삼성 라이온즈가 끈질긴 접전 끝에 KIA 타이거즈를 꺾고 4연패 사슬을 끊었다.",
-      "삼성은 13일 광주-기아챔피언스필드에서 열린 2026 신한 쏠 KBO리그 원정 경기에서 KIA를 9-8로 눌렀다.",
-      "삼성은 9회에야 승부를 결정지었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n7f9bf6a7",
+    "id": "n86893e62",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003748614",
-    "title": "정청래 \"청청유람단 제명 제소 불공정\"…金측 \"초유의 선거부정행위\"",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747784",
+    "title": "\"250일 넘게 육지 못 밟았다\"…美 항모서 승조원 투신 시도 잇따라",
     "summary": [
-      "[서울=뉴시스] 한재혁 기자 = 더불어민주당 8·17 전당대회 호남권 권리당원 온라인투표 마감을 하루 앞둔 13일 친청(親정청래)계 선거운동원이 대리투표 등 의혹으로 당내 징계 절차에 회부된 것을 두고 정 후보 본인과 김민석 후보 측이 대립했다.",
-      "정 후보는 이날 오후 자신의 유튜브 채널에서 진행된 라이브에서 \"(중앙당 선거관리위원회가 정달성씨의) 해명과 소명을 (듣는) 절차를 밟지 않은 것은 억울하고 불공정하다\"고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n45f770ca",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/13/MNRDMY3FGJRDKZJZMQ3GMYLCGQ/",
-    "title": "강민호 6회 추격 스리런→디아즈 7회 동점스리런→강민호 9회 역전 희생타, 삼성 4연패 극적 탈출...KIA 불펜 8실점 와르르 스윕 실패 [광주 리뷰]",
-    "summary": [
-      "[OSEN=광주, 이선호 기자] 삼성 라이온즈가 극적인 역전승을 올렸다.",
-      "삼성은 3일 광주-기아 챔피언스필드에서 열린 2026 신한은행 SOL KBO리그 KIA 타이거즈와의 팀간 14차을 접전끝에 9-8로 잡았다.",
-      "강민호가 스리런홈런과 역전 결승타를 터트리며 승리를 이끌었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n9c6cfea1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260813/134475910/2",
-    "title": "“2001년 시작한 달리기… 목이 부러져도 뜁니다”[양종구의 100세 시대 건강법]",
-    "summary": [
-      "김경수 인하대 조선해양공학과 명예교수(72)는 2001년 몸이 보내는 경고 때문에 달리기 시작했다.",
-      "당시 몸무게가 87kg까지 늘었고, 밤늦게까지 연구하는 날이 이어지면서 뒷골이 심하게 당겨 잠을 제대로 잘 수 없었다.",
-      "답답한 마음에 집 근처 한 바퀴가 150m 정도 되는 작은 공원을 대여섯 바퀴 돌았는데, 놀랍게도 그날은 편히 잠들 수 있었다."
+      "[서울=뉴시스]허준희 인턴 기자 = 미국 항공모함 USS 에이브러햄 링컨호가 이란과의 전쟁 여파로 9개월째 장기 해상 작전을 이어가면서 승조원들의 정신 건강에 대한 우려가 커지고 있다.",
+      "250일 넘게 제대로 된 상륙을 하지 못한 가운데 일부 승조원이 바다로 뛰어내리려는 시도까지 한 것으로 전해졌다.",
+      "13일(현지 시간) 영국 가디언에 따르면 5000명이 넘는 해군과 해병대원이 탑승한 링컨호는 9개월째 해상에 머물고 있으며, 250일 넘게 육지에."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n19e4bead",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003748538",
-    "title": "[KBO 내일의 선발투수]8월14일(금)",
+    "id": "nfe808580",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/14/UMMWRXFWQRH7ZO4E7GAUAFOULA/",
+    "title": "경주는 지금 ‘해바라기 천국’",
     "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 8월14일(금)> ▲잠실(오후 7시) SSG (최민준) - (송승기) LG ▲대구(오후 7시) 한화 (브루스 짐머맨) - (최원태) 삼성 ▲사직(오후 7시) NC (토다 나츠키) - (김진욱) 롯데 ▲광주(오후 7시) 두산 (잭로그) - (황동하) KIA ▲수원(오후 7시) 키움 (박준현) - (고영표) KT."
+      "경주는 지금 ‘해바라기 천국’."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n94564f51",
-    "category": "스포츠",
+    "id": "ndcc55213",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/national/welfare-medical/2026/08/14/S2Z5ARXOBBDQBBZVZ34SWKZMS4/",
+    "title": "젊은층 ‘황반변성’ 4년새 65% 증가",
+    "summary": [
+      "젊은층 ‘황반변성’ 4년새 65% 증가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n81e6c186",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/08/14/M27VWH2SRFHFXLLLNQ7Q7GBGJM/",
+    "title": "영호남 기업 전기료, 다른 지역보다 최대 10% 싸진다",
+    "summary": [
+      "영호남 기업 전기료, 다른 지역보다 최대 10% 싸진다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc367249",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/national/transport-environment/2026/08/14/PHFDITK6YZANJGNFF7VBPMVVAI/",
+    "title": "역대급 폭염에 모기도 못 버텨… 개체 수 14% 감소",
+    "summary": [
+      "역대급 폭염에 모기도 못 버텨… 개체 수 14% 감소."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc80b7e6",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724168163007",
-    "title": "[프로야구] 14일 선발투수",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814000300109",
+    "title": "\"우크라, 러시아에 흑해 민간 표적 공격 중단 제안\"",
     "summary": [
-      "[프로야구] 14일 선발투수."
+      "(로마=연합뉴스) 민경락 특파원 = 우크라이나가 러시아에 흑해의 민간 표적에 대한 공격을 상호 중단하자는 제안을 전달했다고 로이터통신이 소식통을..."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n0598fa0d",
+    "id": "n624c0be3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260813166451009",
+    "title": "美 \"中, 40여개국 불법환적해 관세회피\"…韓도 '中환적 위험국' 거론(종합)",
+    "summary": [
+      "(워싱턴·서울=연합뉴스) 이유미 특파원 오수진 기자 = 미국 백악관이 중국이 고율 관세를 피하기 위해 한국을 비롯한 전 세계 40여개국을 거쳐 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea1272c3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814000600079",
+    "title": "후티반군 매체 \"드론으로 홍해 사우디 아람코 정유시설 타격\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 홍해 변에 있는 사우디아라비아 국영 석유회사 아람코의 정유 시설을 공격했다고 후..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n55113c71",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747332",
+    "title": "유민상, 결혼 원해 20㎏ 감량…\"일주일 내내 레몬수만 마셨다\"",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 코미디언 유민상이 과거 20㎏ 넘게 체중을 감량했던 경험을 공개하며 당시 다이어트 방법을 밝혔다.",
+      "12일 MBN 공식 유튜브 채널에 공개된 영상에서 유민상은 과거 사진을 보며 자신의 체중 변화에 대해 이야기했다.",
+      "그는 \"아주 아기 때 말고는 항상 별명이 '날으는 돈까스'였다\"며 \"저때도 말랐다는 얘기는 못 듣고 항상 '덩치 큰 애'라고 불렸다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n781df569",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260813/134475023/2",
+    "title": "“삼전닉스 최대 300조 주주환원 전망” 개미들 들썩",
+    "summary": [
+      "역대급 실적에도 ‘피크아웃’(고점 통과) 우려에 발목이 잡혔던 삼성전자와 SK하이닉스가 대규모 주주 환원 카드를 꺼내 들 채비를 하고 있다.",
+      "인공지능(AI)발 메모리 호황으로 확보한 막대한 현금을 배당과 자사주 매입·소각에 투입해 주주가치를 높이는 동시에 향후 현금 창출력에 대한 자신감을 시장에 보여주겠다는 구상이다."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nb18899f4",
     "category": "사회",
     "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260813/134475916/2",
-    "title": "[DBR 인사이트]회사 뒷담화 들을 때, 공감보다 재구성을",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260813/134475038/2",
+    "title": "인천공항 새 역사 썼다… 국제선 여객 세계 1위",
     "summary": [
-      "나도 잘못이 있다고? 자기는 그냥 내 말에 공감만 하면 돼!” 많은 직장인이 배우자나 연인에게 회사에서 있었던 일을 넋두리한다.",
-      "왜 함께 일하지도 않는 사람에게 직장 생활의 푸념을 늘어놓는 걸까.",
-      "직장 내에서 동료나 상사를 험담했다가는 자칫 평판이 나빠지거나 보복을 당할 수 있는 반면, 가정은 상대적으로 안전하다고 심리적으로 느끼기 때문이다."
+      "인천국제공항이 상반기(1∼6월) 국제선 여객 수 기준으로 세계 1위에 올랐다.",
+      "국제선 여객 실적은 공항의 글로벌 경쟁력을 판단하는 가장 중요한 지표로 꼽힌다.",
+      "2001년 개항한 인천공항이 국제선 여객 세계 정상에 오른 것은 처음이다.13일 인천국제공항공사에 따르면 인천공항의 상반기 국제선 여객 실적은 3839만 명으로 잠정 집계됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n80544e37",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/national/regional/2026/08/13/QTSMV5LY3BGJPKRJBDYQWJOLSA/",
-    "title": "현직 경찰 연루 교통 사망사고…난폭·보복 운전 여부 조사중",
+    "id": "nee99494e",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260813/134475040/2",
+    "title": "SK하이닉스, 美 인디애나 팹 27일 착공… 최태원-젠슨 황 또 만나나",
     "summary": [
-      "현직 경찰 연루 교통 사망사고…난폭·보복 운전 여부 조사중."
+      "SK하이닉스의 미국 인디애나주 반도체 공장(팹) 착공식이 27일(현지 시간) 열릴 예정이다.",
+      "이날 착공식에는 곽노정 SK하이닉스 대표를 포함해 주요 경영진이 참석할 것으로 알려졌다.13일 반도체 업계에 따르면 SK하이닉스가 미국 인디애나주 웨스트라피엣에 건설 추진 중인 최첨단 반도체 패키징 공장의 착공식이 27일 개최된다.",
+      "SK하이닉스는 착공식을 앞두고 주요 고객사 및 협력사에 초청장을 보낸 것으로 알려졌다.곽 대표를 포함한 주요 SK 경영진과."
     ],
     "chips": [
-      "#뉴스"
+      "#반도체",
+      "#SK하이닉스"
     ]
   },
   {
-    "id": "ncbaafdd5",
+    "id": "n19996138",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260813/134475059/2",
+    "title": "원화가치 한달새 9.4% 급등… 변동성 더 커지면 기업들 불안",
+    "summary": [
+      "최근 한 달 사이 원화 가치가 주요국 통화 중 가장 큰 폭으로 오른 것으로 나타났다.",
+      "중동 지역 불확실성이 완화된 데 이어 SK하이닉스 미국 주식예탁증서(ADR) 발행 등으로 조달한 달러가 국내에 들어오면서 원-달러 환율이 크게 하락한 영향으로 풀이된다.",
+      "환율이 하락하면 원자재 및 수입 물가 부담이 줄어들지만, 높아진 변동성으로 인해 수출 기업들의 경영 불확실성이 커질 것이란 우려도 나온다."
+    ],
+    "chips": [
+      "#SK하이닉스",
+      "#환율",
+      "#수출"
+    ]
+  },
+  {
+    "id": "ne3e7cd3b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003747889",
-    "title": "신현빈, 이런 모습 처음이네…안경 쓰고 파격 스타일 변신",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747349",
+    "title": "50살 김현정, 한 달 만에 8㎏ 감량…\"이것부터 싹 끊었다\"",
     "summary": [
-      "[서울=뉴시스]박재민 인턴 기자 = 배우 신현빈이 색다른 스타일링에 도전했다.",
-      "신현빈은 12일 소셜미디어에 별다른 말 없이 사진 여러 장을 올렸다.",
-      "사진 속 신현빈은 화보 촬영을 위해 여러 스타일의 의상을 소화했다."
+      "[서울=뉴시스]전민영 인턴 기자 = 가수 김현정(50)이 한 달 만에 8㎏을 감량한 근황을 공개했다.",
+      "김현정은 지난 11일 자신의 사회관계망서비스(SNS)를 통해 개인 유튜브 채널 '멍현정'의 쇼츠 영상을 소개했다.",
+      "영상에는 남해 상주은모래비치페스타 공연을 앞두고 무대를 준비하는 김현정의 모습이 담겼다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n705f7d3c",
+    "id": "naf537f97",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814000200082",
+    "title": "스웨덴서 '무노조' 테슬라 상대 파업 3년 만에 중단",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 스웨덴 노동자들이 미국 전기차업체 테슬라를 상대로 한 파업을 2년 10개월 만에 끝내기로 했다."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n4903c32e",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260724167962007",
-    "title": "[프로야구 중간순위] 13일",
+    "source": "뉴시스",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003748627",
+    "title": "박주호·안나 부부, 암투병 이기고 넷째 임신했다 \"다시 시작\"",
     "summary": [
-      "[프로야구 중간순위] 13일."
+      "[서울=뉴시스]이재훈 기자 = 전 축구선수이자 해설위원인 박주호와 그의 아내 안나 부부가 넷째 아이를 임신했다.",
+      "안나는 13일 자신의 유튜브 채널 '안나와 위드 안나(With ANNA)'에 '다시 시작합니다'라는 제목의 영상을 올려 임신 소식을 알렸다.",
+      "4개월 만에 영상을 공개한 그는 병원에서 진행한 태아 초음파 검사 장면과 함께 \"힘든 시간을 버티고 나면 삶은 조용히 소중한 희망들을 품고 기다리고 있다\"며 \"새로운 챕터를 시작해 보려 한다\"고."
     ],
     "chips": [
-      "#KBO"
+      "#의료"
     ]
   },
   {
-    "id": "nb62a39a0",
+    "id": "n76b93322",
     "category": "경제",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/13/MVQTMOJSMU4WKYZTGA2DEYLEHE/",
-    "title": "유가 하락·생산자 물가 예상치 하회… 美 증시 상승 출발",
+    "source": "한국경제",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/2026081300107",
+    "title": "[오늘의 운세] 8월 14일 띠별 운세",
     "summary": [
-      "미국 뉴욕 증시가 13일(현지 시각) 상승 출발했다.",
-      "13일 오후 10시 55분 뉴욕증권거래소(NYSE)에서 우량주 중심의 다우존스30산업평균지수(다우지수)는 전 거래일보다 76.14포인트(0.14%) 상승한 5만3846.41을 기록했다.",
-      "스탠더드앤드푸어스(S&P)500지수는 전 거래일보다 44.80포인트(0.58%) 오른 7793.33, 기술주 중심의 나."
+      "[오늘의 운세] 8월 14일 띠별 운세."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n04334f22",
+    "id": "n0a43757e",
     "category": "경제",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260813174300009",
-    "title": "뉴욕증시, 유가 하락·PPI 소화하며 상승 출발",
+    "source": "한국경제",
+    "time": "48분 전",
+    "url": "https://www.hankyung.com/article/2026080689537",
+    "title": "[오늘의 운세] 2026년 8월 14일 별자리 운세",
     "summary": [
-      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 7월 생산자물가지수(PPI) 결과를 소화하며 상승 출발했다."
+      "[오늘의 운세] 2026년 8월 14일 별자리 운세."
     ],
     "chips": [
       "#뉴스"
@@ -647,18 +646,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
+    "tag": "AI",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1810건",
     "trend": "+175%"
   }
