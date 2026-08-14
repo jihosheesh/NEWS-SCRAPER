@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-14 17:43:52
+// 마지막 업데이트: 2026-08-14 18:39:48
 window.NEWS_DB = [
   {
     "id": "nf3930c1d",
     "category": "IT",
     "source": "공공뉴스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1bk5PZ0FoYW5QYnM3SlRCZG1IVHM0QU9vbkFUa04zZnhrei1TYXI4VFFvenZZc0MyQjh5Z2d0RENLU2xhZTJydW1GQjdEQVljeVZjRlA5WVlEUDBGX0J3cGEwcl9jRHpGWlkzalBB0gFuQVVfeXFMUHVuTk9nQWhhblBiczdKVEJkbUhUczRBT29uQVRrTjNmeGt6LVNhcjhUUW96dllzQzJCOHlnZ3REQ0tTbGFlMnJ1bUZCN0RBWWN5VmNGUDlZWURQMEZfQndwYTByX2NEekZaWTNqUEE?oc=5",
     "title": "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n5e7afdfd",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "n42644652",
     "category": "경제",
     "source": "Mshale",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYTc5X29yOThmZk9vT2Zlak9nc2NQM3Mwbkk3TDlsQlUxOUZXS0F5WVBhWHlGOUttOEJObDBrUVNpR1F3czJ0dm5KeG0tb0FmU203VFhWTzc1bjg?oc=5",
     "title": "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd)",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "ne73322f0",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fUk1SVEhXUFBTTW4xTW5xdzNXLVo3OVRfTy1aYXc4WUItVXloeW94XzdrTUVodnNCWGc5VFp6aVpLcG9uNjcyeGltZUFMOUtUZXBSYVl5N2ZkRHV4cllNV3A1Rmx4dHc?oc=5",
     "title": "[초점] 메타·구글·아마존·MS의 반격…엔비디아의 위기인가 기회인가",
     "summary": [
@@ -95,12 +95,12 @@ window.NEWS_DB = [
   {
     "id": "n5ee6ae18",
     "category": "사회",
-    "source": "outsourcing.co.kr",
+    "source": "아웃소싱타임스",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
-      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ outsourcing.co.kr."
+      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
     ],
     "chips": [
       "#취업",
@@ -110,12 +110,12 @@ window.NEWS_DB = [
   {
     "id": "nda655558",
     "category": "IT",
-    "source": "동아일보",
+    "source": "donga.com",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTG54U3ZVdXl3RndHZUVpczliSEJ1WnNpTGJJVWdJWmk2OXpBY0hHVE1MS0NQMGEweXZjSHdkV0NveXpPa0dCMnVEZEdjY0hnS3lvWl9MWF9uYU9sYWxTRlhmNDl1TzUtV0JxNUlNY2FOZnNHa3fSAWZBVV95cUxNeVZGUjMxWHpwd2dqc2RhenVvZlVtMnFUVk93RVlmd0xUOGl5WlY3WU5yeVpPT1JockdPQlg5aXhFT0hyT3U2YUNXNmNKZ0pibS1wa3pORHpEWGg4WVR3Q1d4Nl9LWEE?oc=5",
     "title": "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다",
     "summary": [
-      "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다 동아일보."
+      "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다 donga.com."
     ],
     "chips": [
       "#AI",
@@ -124,18 +124,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1f2010df",
+    "id": "n0d23d8d3",
     "category": "IT",
-    "source": "매일일보",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
-    "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
+    "source": "인사이트코리아",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81ekFkVVFhVHdKRlRHV3BXMEdmbVAwa1lPaUVPalRZWm0tb3ZpQmRhbmJ1eGpySmQ5dGpkaEZibFNMVXV1ZXB3b3ZHazRha0VQWGpGMHRqTF9Vc0xIMDdyZmJ1ajY3dkFCcXBYNGljMU1fM3FxTzRJ0gF3QVVfeXFMTzV6QWRVUWFUd0pGVEdXcFcwR2ZtUDBrWU9pRU9qVFlabS1vdmlCZGFuYnV4anJKZDl0amRoRmJsU0xVdXVlcHdvdkdrNGFrRVBYakYwdGpMX1VzTEgwN3JmYnVqNjd2QUJxcFg0aWMxTV8zcXFPNEk?oc=5",
+    "title": "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’",
     "summary": [
-      "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 매일일보."
+      "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’ 인사이트코리아."
     ],
     "chips": [
-      "#AI",
-      "#반도체"
+      "#반도체",
+      "#SK하이닉스",
+      "#채용"
     ]
   },
   {
@@ -332,10 +333,104 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n3acae98d",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/15/2026081503234762035",
+    "title": "'백악관 공사 중단' 판결에… 트럼프 \"안보 위협\" 대법원 가처분 신청",
+    "summary": [
+      "미국 도널드 트럼프 행정부가 백악관 동관의 연회장 건축 공사를 계속할 수 있게 해달라고 연방대법원에 요청했다고 로이터통신이 14일(현지시간) 보도했다.",
+      "트럼프 행정부는 이날 연회장 공사에 제동을 건 2심 법원 판결에 대해공사 중단이 국가 안보는 물론 트럼프 대통령과 가족, 행정부 직원들의 안전을 위협할 수 있다며 상고를 준비하는 동안 해당 판결의 효력을 정지해달라고 대법원에 요청했다.",
+      "미 법무부는 이날 기준으로 공사가 65% 완료됐다고도 주장했."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n76a5a355",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815003100071",
+    "title": "美, 중동 다국적 공격드론TF 띄운다…'무기재고 부족' 우려 덜까",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미군이 중동 지역에서 미국과 역내 파트너국들의 공중·해상·수중 공격 드론 전력을 통합 운용하는 사상 첫 다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83d56497",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750391",
+    "title": "백악관 연회장 공사, 대법으로…美행정부 \"공사 계속하게 해달라\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 도널드 트럼프 미국 행정부가 하급심에서 중단 명령이 내려진 백악관 연회장 건설 공사를 계속할 수 있게 해달라고 미국 연방대법원에 요청했다.",
+      "14일(현지 시간) 월스트리트저널(WSJ) 등에 따르면 법무부는 공사 중단을 명령한 2심 판결에 대한 상고 절차가 진행되는 동안 해당 명령의 효력을 중단해 달라고 대법원에 요청했다.",
+      "법무부는 대법원에 제출한 서류에서 \"트럼프 대통령을 겨냥한 암살 시도가 증가하고 있다\"며 \"연회."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0fff06f5",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/15/2026081503132020182",
+    "title": "박경혜, 영화 촬영 중 기절 \"저혈압 쇼크…격한 감정신이었다\"",
+    "summary": [
+      "박경혜가 저혈압으로 인해 영화 촬영 중 격한 감정신에서 소리를 지르다 순간적으로 의식을 잃었다.",
+      "이후 박경혜는 건강 관리를 위해 발레를 시작했다.",
+      "14일 방영된 MBC '나 혼자 산다' 660회에서는 배우 박경혜가 발레를 배우는 모습이 공개됐다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n449b5889",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/15/2026081503131535646",
+    "title": "美 8월 소비자심리지수 석달만에 하락 전환…물가 우려 부각",
+    "summary": [
+      "두달째 개선세를 보이던 미국 소비자들의 경제 심리가 8월 들어 다시 하락세로 돌아섰다.",
+      "미국 미시간대는 경기에 대한 소비자들의 자신감을 반영하는 소비자심리지수 8월 예비치가 51.0으로 전달 수치(55.2)보다 7.6% 하락했됐다고 14일(현지시간) 밝혔다.",
+      "다우존스가 집계한 시장 예상치(54.5)를 밑도는 결과다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n829bf3e9",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "32분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/15/2026081503045235867",
+    "title": "美국무 \"한국 없어선 안 될 파트너\"…광복절 축하",
+    "summary": [
+      "마코 루비오 미국 국무장관이 14일(현지시간) \"미국은 번영을 이루고 양국을 더욱 끈끈하게 이어주는 국민 간의 깊은 유대를 강화하기 위해 계속 노력할 것\"이라며 \"핵심 파트너인 한국과 언제나 함께할 수 있음을 매우 자랑스럽게 생각한다\"고 밝혔다.",
+      "루비오 장관은 이날 발표한 광복절 축하 언론성명에서 이같이 밝혔다.",
+      "루비오 장관은 \"미국 정부를 대표해 광복절을 맞이한 한국 국민 여러분께 진심 어린 축하의 인사를 전한다\"며 \"지난 70여년 동안 한미."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nf2f1b0f3",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "33분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154354",
     "title": "빗썸, 상반기 영업이익 149억원…거래 위축에도 흑자 유지",
     "summary": [
@@ -351,7 +446,7 @@ window.NEWS_DB = [
     "id": "naca1e5ab",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "38분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154353",
     "title": "두나무, 상반기 매출 4081억원…시장 위축에도 1000억원대 영업익",
     "summary": [
@@ -364,10 +459,129 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n7f59478f",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003748196",
+    "title": "\"살 쏙 빠졌네\" 황재균, 남산 6.6㎞ 달렸다…날렵해진 근황",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 야구선수 출신 방송인 황재균이 러닝으로 운동을 이어가며 한층 날렵해진 근황을 공개했다.",
+      "황재균은 최근 자신의 사회관계망서비스(SNS)에 남산에서 러닝을 마친 뒤 찍은 인증 사진을 올렸다.",
+      "공개된 기록에 따르면 황재균은 6.63㎞를 35분20초에 달렸으며 1㎞당 평균 페이스는 5분19초였다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n9f568705",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003748330",
+    "title": "\"방학이 안 왔으면 좋겠어요\"…中서 확산되는 '밀키트 아이'",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 중국에서 여름방학 동안 다음 학기 교과 과정을 미리 학습하도록 강요받는 아이들을 뜻하는 '밀키트 아이(Pre-made children)'라는 신조어가 등장했다.",
+      "13일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP)는 중국 학부모들 사이에서 자녀에게 선행 학습을 시켜 준비된 상태로 다음 학기에 진학시키는 교육 열풍이 거세지고 있다고 보도했다.",
+      "마치 재료가 다 준비되어 바로 조리할 수 있는 밀키트처럼 학기 시작."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nbf7599c3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749011",
+    "title": "벽돌에 망치까지 들고 '쾅'…인천 무인매장 잇따라 털려",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 인천의 무인 매장에서 벽돌과 망치까지 동원한 절도 시도가 잇따랐다.",
+      "한 남성은 벽돌로 지폐 교환기를 내리치고, 다른 매장에서는 남성 2명이 망치로 키오스크 자물쇠를 부수려다 실패했다.",
+      "지난 14일 JTBC '사건반장'에 따르면 인천의 한 무인 뽑기방에 들어온 남성이 장갑을 낀 채 지폐 교환기를 살피더니 벽돌로 기계를 수차례 내리치는 모습이 폐쇄회로(CC)TV에 포착됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naed5dd9a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "39분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/08/15/C4FYMU7L7RDXHL32IDM2JVPTU4/",
+    "title": "남편 휴대전화에서 나온 사진",
+    "summary": [
+      "남편 휴대전화에서 나온 사진."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n20bfcef0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "39분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/15/GU4DKPTKZFCOLNFI4FNBSN3KYI/",
+    "title": "집 팔아 유학 보낸 달맞이꽃 딸, 내년 칠순엔 다녀갈까",
+    "summary": [
+      "집 팔아 유학 보낸 달맞이꽃 딸, 내년 칠순엔 다녀갈까."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f51b45d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "39분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/15/54YKMLYKNVH65BYJO44F52LBZI/",
+    "title": "산나물밥에 된장찌개 쓱쓱… 지리산 정기 비벼 먹는 산중 피서",
+    "summary": [
+      "산나물밥에 된장찌개 쓱쓱… 지리산 정기 비벼 먹는 산중 피서."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf409f8d4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "39분 전",
+    "url": "https://www.chosun.com/international/2026/08/15/QW5BCZULFBBRFKTFGLSV6NZNPQ/",
+    "title": "연인들의 혼란과 낭만이 피어난 곳… 셰익스피어의 도시에 가다",
+    "summary": [
+      "연인들의 혼란과 낭만이 피어난 곳… 셰익스피어의 도시에 가다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f679de0",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "52분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815002300091",
+    "title": "스페이스X, 코딩 스타트업 '커서' 85조원에 인수 완료",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 일론 머스크의 우주기업 스페이스X가 인공지능(AI) 코딩 스타트업 커서의 인수를 마무리 지었다."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n829f8e34",
     "category": "사회",
     "source": "동아일보",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260815/134482706/1",
     "title": "프랑스, ‘조력 존엄사법’ 합헌 결정…“의료진·병원 ‘거부권’ 인정해야”",
     "summary": [
@@ -383,7 +597,7 @@ window.NEWS_DB = [
     "id": "nc66282c2",
     "category": "사회",
     "source": "동아일보",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260815/134482703/1",
     "title": "루비오 美국무, 광복절 축하 메시지…“한국, 없어서는 안 될 파트너”",
     "summary": [
@@ -399,7 +613,7 @@ window.NEWS_DB = [
     "id": "n3a354d9e",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "14분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260815/134482700/1",
     "title": "‘아마존 창립자’ 베이조스, 리버풀FC 지분 인수…“이사회 합류는 안해”",
     "summary": [
@@ -413,220 +627,11 @@ window.NEWS_DB = [
     "id": "n458ade62",
     "category": "사회",
     "source": "동아일보",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260815/134482697/1",
     "title": "“임신한 배가 가짜?”…앤 해서웨이 셋째 임신에 황당한 악플",
     "summary": [
       "할리우드 배우 앤 해서웨이(43)가 셋째 임신으로 나온 배를 두고 일부 누리꾼이 “가짜 아니냐”고 의심하자 “머리카락은 연출한 것이지만 배는 진짜”라는 취지로 직접 반박했다.지난 10일(현지시간) 미국 연예 매체 엔터테인먼트 위클리에 따르면, 해서웨이는 전날인 9일 미국 로스앤젤[서울=뉴시스]레스에서 열린 영화 ‘디 엔드 오브 오크 스트리트’ 시사회에 참석했다.이날 해서웨이는 배가 드러나는 홀터넥 상의와 골반 아래까지 내려오는 청바지를 입고 레."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4afbfce2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/15/GVRWKYTEGY3DKMJRG5RWCMRWGY/",
-    "title": "10년 만에 농군 패션 실화냐? 41일 만에 웃은 최원태, \"초심으로 돌아가고 싶었다\" [오!쎈 대구]",
-    "summary": [
-      "[OSEN=대구, 손찬익 기자] 지난해 가을 무대에서 삼성을 구했던 코디 폰세를 떠올리게 하는 투구였다.",
-      "프로야구 삼성 라이온즈 우완 최원태가 오랜만에 선발 투수로서 책임을 다하며 팀의 2연승을 이끌었다.최원태는 지난 14일 대구삼성라이온즈파크에서 열린 한화 이글스와의 홈경기에 선발 등판해 5⅔이닝 5피안타(1피홈런) 2볼넷 6탈삼진 1실점으로 호투했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n97a15a85",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026081502195518706",
-    "title": "프리즈 서울, 내년 DDP로 옮긴다…키아프와 첫 분리 개최",
-    "summary": [
-      "국내 최대 아트페어 키아프 서울과 세계적인 아트페어 프리즈 서울이 내년 처음으로 서로 다른 장소에서 열린다.",
-      "2022년 프리즈 서울 출범 이후 5년 동안 서울 강남구 코엑스에서 한 건물에 나란히 자리했던 두 행사가 코엑스 리뉴얼 공사를 계기로 강남과 동대문으로 나뉘게 됐다.",
-      "프리즈는 2027년 열리는 제6회 프리즈 서울을 동대문디자인플라자(DDP)에서 개최한다고 14일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8384a065",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814180651099",
-    "title": "잠비아 대선 한때 개표 중단…폭력에 투표용지 도난도(종합)",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 지난 13일(현지시간) 대선과 총선, 지방선거를 치른 아프리카 잠비아에서 투표 다음 날 한동안 개표가..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd031b0fa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "53분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815002000071",
-    "title": "美국무, 광복절 축하메시지…\"한국은 없어서는 안 될 파트너\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 마코 루비오 미국 국무장관은 14일(현지시간) 한미 관계에 대해 \"미국은, 번영을 확대하고 양국을 하나로 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d43277e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750388",
-    "title": "美국무, 광복절 축하 성명…\"한국은 없어선 안될 파트너\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 행정부가 81주년 광복절을 맞아 축하 성명을 내고 굳건한 한미관계를 강조했다.",
-      "마코 루비오 미국 국무장관은 14일(현지 시간) 발표한 성명에서 \"미국 정부를 대표해 국경일을 맞이한 한국인들께 진심어린 축하를 전한다\"고 밝혔다.",
-      "그는 \"70년 넘게 미국과 한국은 공유하는 가치와 상호 신뢰, 그리고 서로의 안보와 번영에 대한 흔들림없는 의지에 기반한 동맹을 가꿔왔다\"며 \"지난가을 (도널드 트럼."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0fb6de88",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/15/ME2TOMDBMM4DAOLBGE3DKNBRGU/",
-    "title": "지로나 1군 등록에 리옹 러브콜까지 '겹경사'...한국 축구 '초거대 유망주' 김민수, 계약 1년 남기고 몸값 제대로 오른다",
-    "summary": [
-      "[OSEN=정승우 기자] 올랭피크 리옹의 관심을 받고 있는 김민수(20)가 지로나 FC의 정식 1군 선수가 됐다.",
-      "비유럽(Non-EU) 쿼터 제한 탓에 2군 등록과 임대를 오갔던 김민수는 2026-2027시즌부터 1군에서 본격적인 경쟁에 나선다.",
-      "계약 기간이 1년밖에 남지 않은 상황에서 리옹의 접촉까지 전해지며 거취에도 관심이 쏠리고 있다.지로나는 14일(."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfeb0ebc4",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003748182",
-    "title": "'성폭행 무죄'에도…캐나다 하키 선수 4명, 대표팀 출전 정지",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 2018년 캐나다 주니어 아이스하키 대표팀 성폭행 사건에서 무죄 판결을 받은 선수 5명 가운데 4명이 국가대표팀에서 당분간 뛰지 못하게 됐다.",
-      "캐나다하키협회가 행동강령 위반을 이유로 이들에 대한 국제대회 출전 정지 징계를 연장하면서다.",
-      "지난 12일(현지 시간) AP통신에 따르면 캐나다하키협회는 마이클 맥클라우드, 딜런 두배, 카터 하트, 칼 푸트 등 4명의 국제대회 출전 정지 징계를 유지하기로 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1623f28b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/15/MMYTOMZXMU3DOOJTGBRWMMZSGI/",
-    "title": "\"한국에 가고 싶다\" 다저스 저격했던 164km 파이어볼러, 백수 전락했는데…왜 아직도 은퇴 안 하나",
-    "summary": [
-      "[OSEN=이상학 객원기자] 2010년대 메이저리그를 대표하는 파이어볼러의 신세가 초라하다.",
-      "메이저리그에서 자취를 감춘 지 3년째인 ‘토르’ 노아 신더가드(33)가 현역 연장 의지를 드러냈지만 찾아주는 팀이 있을지 의문이다.",
-      "신더가드는 지난 12일(이하 한국시간) ‘GQ’와의 인터뷰에서 “아직 내게 (선수 생활 이어가고 싶은) 의지가 있는 것 같다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8e98686",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814178651109",
-    "title": "3분만에 털린 르누아르·세잔·마티스 작품 찾았다(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 이탈리아 경찰이 북부 파르마 근처의 한 미술관에서 도난당한 명화 3점을 회수했다고 로이터·AP통신 등이 14..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2c183376",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815001400071",
-    "title": "트럼프가 \"짐승들\" 비난한 2차대전 기념비 훼손 용의자 체포",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 수도 워싱턴DC의 명소 내셔널몰에 있는 제2차 세계대전 기념비를 훼손한 용의자가 14일(현지시간) 체..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8cc6ee16",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081500515714889",
-    "title": "최태원 SK 회장, 노소영 상대 재상고…이혼 소송 다시 대법원으로",
-    "summary": [
-      "최태원 SK그룹 회장이 장고 끝 재상고에 나서며 노소영 아트센터 나비 관장의 재산분할 소송이 다시 대법원 판단을 받게 됐다.",
-      "최 회장 측은 14일 재산분할 소송 파기환송심 재판부인 서울고법 가사1부(부장판사 이상주)에 재상고장을 냈다.",
-      "최 회장의 대리인단은 입장문을 통해 \"최 회장은 여러 사정을 고려해 고심 끝에 상고장을 제출했다\"며 \"주주들과 그룹경영에 대한 부정적 영향을 최소화하겠다는 자세로 향후 절차에 임할 것."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n84e0e529",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/202608142804i",
-    "title": "최태원, 재산분할 파기환송심 재상고…'9년 이혼소송' 다시 대법원으로",
-    "summary": [
-      "최태원, 재산분할 파기환송심 재상고…'9년 이혼소송' 다시 대법원으로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n02ebb9c5",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026081528607",
-    "title": "[속보] 최태원, '노소영에 9440억원 지급' 불복…다시 대법으로",
-    "summary": [
-      "[속보] 최태원, '노소영에 9440억원 지급' 불복…다시 대법으로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n75047349",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026081528591",
-    "title": "최태원, '9440억 재산분할' 불복…고심 끝 재상고",
-    "summary": [
-      "최태원, '9440억 재산분할' 불복…고심 끝 재상고."
     ],
     "chips": [
       "#뉴스"
@@ -639,8 +644,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
