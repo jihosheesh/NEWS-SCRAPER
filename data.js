@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-14 14:07:58
+// 마지막 업데이트: 2026-08-14 15:41:08
 window.NEWS_DB = [
   {
     "id": "nf3930c1d",
     "category": "IT",
-    "source": "공공뉴스",
-    "time": "5시간 전",
+    "source": "00news.co.kr",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1bk5PZ0FoYW5QYnM3SlRCZG1IVHM0QU9vbkFUa04zZnhrei1TYXI4VFFvenZZc0MyQjh5Z2d0RENLU2xhZTJydW1GQjdEQVljeVZjRlA5WVlEUDBGX0J3cGEwcl9jRHpGWlkzalBB0gFuQVVfeXFMUHVuTk9nQWhhblBiczdKVEJkbUhUczRBT29uQVRrTjNmeGt6LVNhcjhUUW96dllzQzJCOHlnZ3REQ0tTbGFlMnJ1bUZCN0RBWWN5VmNGUDlZWURQMEZfQndwYTByX2NEekZaWTNqUEE?oc=5",
     "title": "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱",
     "summary": [
-      "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱 공공뉴스."
+      "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱 00news.co.kr."
     ],
     "chips": [
       "#AI",
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n5e7afdfd",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "n42644652",
     "category": "경제",
     "source": "Mshale",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYTc5X29yOThmZk9vT2Zlak9nc2NQM3Mwbkk3TDlsQlUxOUZXS0F5WVBhWHlGOUttOEJObDBrUVNpR1F3czJ0dm5KeG0tb0FmU203VFhWTzc1bjg?oc=5",
     "title": "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd)",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "ne73322f0",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fUk1SVEhXUFBTTW4xTW5xdzNXLVo3OVRfTy1aYXc4WUItVXloeW94XzdrTUVodnNCWGc5VFp6aVpLcG9uNjcyeGltZUFMOUtUZXBSYVl5N2ZkRHV4cllNV3A1Rmx4dHc?oc=5",
     "title": "[초점] 메타·구글·아마존·MS의 반격…엔비디아의 위기인가 기회인가",
     "summary": [
@@ -65,12 +65,12 @@ window.NEWS_DB = [
   {
     "id": "ne2694309",
     "category": "스포츠",
-    "source": "news.nate.com",
+    "source": "네이트",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tWEJfd1NNQUh3UUhBQVF2V3l6eS1NaTk3N19QLUNqUnJMV2RoZS1NbnJBa2pxRHlOSlZIZU1pYmQtRXhFcUJIOVlwVmRxNmRGcjFQbjc5Tk0zalhySFBfVVByZEtKTVg3?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
     ],
     "chips": [
       "#KBO"
@@ -124,19 +124,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0d23d8d3",
+    "id": "n1f2010df",
     "category": "IT",
-    "source": "인사이트코리아",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81ekFkVVFhVHdKRlRHV3BXMEdmbVAwa1lPaUVPalRZWm0tb3ZpQmRhbmJ1eGpySmQ5dGpkaEZibFNMVXV1ZXB3b3ZHazRha0VQWGpGMHRqTF9Vc0xIMDdyZmJ1ajY3dkFCcXBYNGljMU1fM3FxTzRJ0gF3QVVfeXFMTzV6QWRVUWFUd0pGVEdXcFcwR2ZtUDBrWU9pRU9qVFlabS1vdmlCZGFuYnV4anJKZDl0amRoRmJsU0xVdXVlcHdvdkdrNGFrRVBYakYwdGpMX1VzTEgwN3JmYnVqNjd2QUJxcFg0aWMxTV8zcXFPNEk?oc=5",
-    "title": "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’",
+    "source": "매일일보",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
+    "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
     "summary": [
-      "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’ 인사이트코리아."
+      "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 매일일보."
     ],
     "chips": [
-      "#반도체",
-      "#SK하이닉스",
-      "#채용"
+      "#AI",
+      "#반도체"
     ]
   },
   {
@@ -365,275 +364,272 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb488ec72",
+    "id": "nfec938b1",
     "category": "사회",
-    "source": "동아일보",
+    "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260814/134482171/2",
-    "title": "[고양이 눈]변신",
+    "url": "https://www.newsis.com/view/NISX20260814_0003748841",
+    "title": "\"결혼 안 해요\"…중국 혼인신고 7.5%↓, 인구 감소 우려 커져",
     "summary": [
-      "매끈한 돌바닥에 누군가 툭 뱉은 껌.",
-      "오가는 사람들의 발에 밟히고 또 밟힌 끝에 통통한 하트 모양으로 다시 태어났네요."
+      "[서울=뉴시스]이지우 인턴 기자 = 중국의 혼인 건수가 다시 감소세로 돌아서면서 저출산과 인구 감소에 대한 우려가 커지고 있다.",
+      "13일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 올해 상반기 중국의 혼인신고 건수가 전년 동기 대비 7.5% 감소했다.",
+      "올해 1월부터 6월까지 중국에서 결혼한 부부는 약 328만 쌍으로, 지난해 같은 기간보다 26만4000쌍 감소한 수치다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3ee3db78",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003750361",
-    "title": "2년만의 20홈런에 '-1'…SSG 김재환 \"자신있게 내 스윙하기 위해 노력\"",
+    "id": "nbe77f824",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/15/2026081500253377429",
+    "title": "[단독]최태원 회장 9440억 재상고 이유는…\"노 관장이 현금 지급 고수\"",
     "summary": [
-      "[서울=뉴시스]박윤서 기자 = 결승 홈런을 터트린 김재환(SSG 랜더스)이 시즌 20홈런에 한 개만을 남겼다.",
-      "김재환은 14일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 LG 트윈스와의 원정 경기에 4번 지명타자로 선발 출전해 4타수 1안타 1홈런 2타점 1볼넷 1득점으로 활약했다.",
-      "잠잠하던 김재환은 승부처에서 홈런 한 방을 터트렸다."
+      "최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 재산분할 소송이 다시 대법원 판단을 받게 됐다.",
+      "최 회장이 9440억원을 지급해야 한다는 파기환송심 판결에 불복, 재상고를 하면서다.",
+      "노 관장이 전액을 현금으로 지급하라고 고수한 것이 재상고 배경인 것으로 확인됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf8ddb75c",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750384",
+    "title": "김종국 \"30년간 재테크 안 해…오직 은행이자 2%만 받아\"",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 가수 김종국이 30년간 별도의 재테크 없이 예·적금으로만 자산을 관리해왔다고 밝혔다.",
+      "김종국은 14일 방송된 KBS 2TV 예능물 '옥탑방의 문제아들'에서 \"30년 동안 재테크를 한 번도 해본 적이 없다\"고 털어놨다.",
+      "\"주식을 전혀 몰라 전부 현금으로 저축만 했고, 은행 이자 2%만 받았다\"는 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n81d1709f",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/08/15/HBSWKMLCHEZDKMLBME3WMNRXMQ/",
+    "title": "3000만원 날렸던 최고민수, 주식 공부 후 '8억'…산 집까지 재건축[옥문아]",
+    "summary": [
+      "[스포츠조선 조민정 기자] 주식 전문가 '최고민수' 박민수가 3000만원을 날린 실패를 딛고 주식 투자로 8억원을 만든 반전 스토리를 공개했다.",
+      "이후 투자 수익으로 집까지 마련했는데 해당 주택이 재건축에 들어가는 겹경사까지 맞았다고 밝혔다.",
+      "14일 오후 방송된 KBS2 '옥탑방의 문제아들'에서는 주식 전문가 최고민수와 거시경제 전문가 오건영이 출연해 재테크."
+    ],
+    "chips": [
+      "#재건축"
+    ]
+  },
+  {
+    "id": "n4119b934",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814181551054",
+    "title": "광주 도로서 80대 남성 숨진 채 발견…뺑소니 용의 차량 추적(종합)",
+    "summary": [
+      "(전남광주=연합뉴스) 민현기 기자 = 전남광주의 한 도로에서 80대 노인이 차에 치여 숨진 채 발견돼 경찰이 달아난 운전자를 추적 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n631a85c8",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003748874",
+    "title": "\"임대료 폭등 방치한 탓\"…잉글랜드 집 잃은 어린이 17만명 넘어",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 영국 잉글랜드에서 집을 잃고 임시 거처에 머무는 어린이 수가 17만 명을 넘어서며 역대 최고치를 경신했다.",
+      "지난 13일(현지 시간) BBC 보도에 따르면 영국 주택지역사회자치부의 최신 주거 통계에서 올해 1월부터 3월까지 잉글랜드 내 임시 거처에 거주하는 어린이는 총 17만 7530명으로 집계됐다.",
+      "전년 동기 대비 5% 증가한 수치로, 18분기 연속 증가하며 역대 최고치를 기록했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c6b6173",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/national/weekend/2026/08/15/3FKPMIBFIJDGDH4U5NYR7RKD3M/",
+    "title": "찬 육수와 서늘한 메밀면의 묵직한 리듬",
+    "summary": [
+      "찬 육수와 서늘한 메밀면의 묵직한 리듬."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n02732740",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/national/weekend/2026/08/15/ON7FMBMPQRDQXBUFYDXTX55ERE/",
+    "title": "맥문동 꽃 보고 전어 먹으러 갈까? ‘치맥’ 먹고 ‘록페’ 즐길까?",
+    "summary": [
+      "더위는 한풀 꺾인 듯싶지만, 여름 축제는 끝나지 않았다.",
+      "충남 서천군 장항 송림자연휴양림은 이맘때면 약 28만㎡ 규모 소나무 숲 아래 맥문동 꽃이 활짝 펴 장관을 이루는 곳.",
+      "제철을 맞아 28~30일 장항 송림자연휴양림에선 ‘장항 맥문동 꽃 축제’가 열린다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf7ded97",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815000200108",
+    "title": "현대차 1호 해외 공장, 아이오닉3 양산 시동…유럽 전기차 공략",
+    "summary": [
+      "(이즈미트[튀르키예]=연합뉴스) 김동호 특파원 = 현대차 튀르키예법인(HMTR)은 14일(현지시간) 이스탄불 인근 코자엘리주(州) 이즈미트공장에..."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n232f73f7",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/15/2026081416552028987",
+    "title": "\"자존심 많이 상했을 것\" 대굴욕, PS 청부사인줄 알았는데 '3피홈런 6실점' 또 무너졌다 [대구 현장]",
+    "summary": [
+      "\"자존심이 많이 상했을거야.\" 김경문(68) 한화 이글스 감독은 부진한 투구를 펼친 메이저리그(MLB) 출신 새 외국인 투수가 구겨진 자존심 회복을 위해서라도 호투를 펼쳐주길 바랐다.",
+      "그러나 그 기대는 산산히 조각났다.",
+      "짐머맨은 14일 대구 삼성라이온즈파크에서 열린 삼성 라이온즈와 2026 신한 SOL KBO리그 원정경기에 선발 등판해 5이닝 동안 95구 10피안타(3피홈런) 1볼넷 5탈삼진 6실점을 기록했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n94bada64",
-    "category": "사회",
+    "id": "na7898492",
+    "category": "경제",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003750366",
-    "title": "종합특검, 강호필 前지작사령관 기소…'블랙리스트' 여인형도 재판행(종합2보)",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750380",
+    "title": "김숙, ETF 투자 '-38%' 고백…전문가 \"오히려 좋아\" 왜?",
     "summary": [
-      "[서울=뉴시스] 오정우 기자 = 12·3 비상계엄 당시 내란에 가담했다는 의혹을 들여다보는 2차 종합특별검사팀이 강호필 전 육군 지상작전사령관과 박재열 전 제7군단장을 재판에 넘겼다.",
-      "'방첩사 블랙리스트' 의혹에 연루된 여인형 전 국군방첩사령관도 기소됐다.",
-      "14일 법조계에 따르면 2차 특검팀(특별검사 권창영)은 이날 내란중요임무종사 혐의로 강 전 사령관을 불구속 기소했다."
+      "[서울=뉴시스]이재훈 기자 = 코미디언 김숙이 상장지수펀드(ETF) 투자로 큰 손실을 본 근황을 털어놨다.",
+      "김숙은 지난 14일 방송된 KBS 2TV 토크 예능물 '옥탑방의 문제아들'에서 ETF 수익률을 묻는 말에 \"마이너스 38%\"라고 고백했다.",
+      "이날 게스트로 출연한 실전 투자 전문가 최고민수가 \"월급만으로 내 집 마련이 어려운 시대에 주식 투자는 필수\"라며 안정적인 ETF 투자를 추천하자 이같이 밝힌 것이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nde87a964",
+    "id": "ne27d8ee2",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814184000081",
-    "title": "'15세 미만 SNS 금지' 프랑스서 위헌 결정…\"기본권 지나치게 제한\"",
+    "source": "동아일보",
+    "time": "25분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260815/134482626/1",
+    "title": "프랑스法, ‘15세 미만 SNS금지’ 위헌 결정…“표현의 자유 침해”",
     "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 프랑스의 헌법 재판기관이 15세 미만 청소년의 소셜미디어(SNS) 사용을 금지한 법안이 헌법에 위배된다고 판..."
+      "프랑스 최고 법원이 14일(현지 시간) 15세 미만 청소년의 소셜미디어(SNS) 이용 금지 법안이 표현의 자유를 과도하게 침해한다며 위헌 결정을 내렸다.르몽드 등에 따르면 헌법위원회는 이날 해당 법안이 “표현의 자유, 소통의 자유를 침해한다”며 “개별 미성년자의 상황이나 각 플랫폼의 위험성을 고려하기에는 지나치게 포괄적”이라고 지적했다.아동 이익을 최우선으로 보호해야 한다는 헌법적 요구는 인정하면서도, 금지 범위가 매우 광범위해서 위험성이 입증."
     ],
     "chips": [
       "#정책"
     ]
   },
   {
-    "id": "nba3a2a3f",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/14/2026081416164744715",
-    "title": "깜짝 선발 등판에도 5이닝 노히트! 사령탑도 MVP로 꼽았다 \"오늘은 누가 뭐래도 최민준이다\" [잠실 현장]",
-    "summary": [
-      "\"누가 뭐래도 최민준이다.\" SSG 랜더스 이숭용(55) 감독이 3위 LG 트윈스를 투·타 모두에서 앞선 경기의 MVP로 선발 투수 최민준(27)을 꼽았다.",
-      "SSG는 14일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 리그 정규시즌 방문 경기에서 LG에 5-3으로 승리했다.",
-      "이로써 9위 SSG는 42승 4무 61패를 마크했고, LG는 57승 1무 47패로 2위 삼성 라이온즈와 격차를 좁히지 못했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5b461de7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260814/134482186/2",
-    "title": "아기 앞에서[박연준의 토요일은 시가 좋아]〈55〉",
-    "summary": [
-      "아직 제가 태어나지 않은 것 같은 표정으로몸이 생겼는지 모르는 것 같은 눈으로유아차에 앉아 있던 아기가내 눈과 마주친다, 순간아기가 다칠 것 같다내 눈빛에서 튀어 나가는 이빨과 발톱을어떻게 눈알에 붙들어 매야 하나 난감하다자신을 방어할 어떤 몸짓도 하지 않고아기는 편한 자세로 앉아 있다끊임없이 뭔가를 방어하고 있던 내 두려움도아기 앞에서 다 들켜버린다꽉 쥐고 있던 주먹이 풀리고 관절이 연약해지며내 안에서 조용히 무너지는 것이 있다혀에 가득한 말."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n352cc7a3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/14/GUYGKZJZGFQTGZDGGNSDENLEMM/",
-    "title": "김대희 큰딸, 걸그룹 미모에 '연세대 반수' 한의대 합격..'자식농사 초대박'(유퀴즈)",
-    "summary": [
-      "[OSEN=하수정 기자] 개그맨 김대희가 연세대와 한의대를 모두 합격한 첫째 딸을 자랑했다.14일 '유퀴즈' 채널에는 '27년 콤비 김대희&김준호에게 찾아온 자녀 경사'라는 제목의 영상이 업로드됐다.MC 유재석은 \"대희 씨가 좋은 소식이 있다.",
-      "한의대에 진학했는데 얼마나 좋냐\"고 물었다.",
-      "김대희는 \"원래는 작년에 연세대학교에 들어갔다가 갑."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n563df2e1",
+    "id": "ndecc38a8",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814179451004",
-    "title": "마포구서 비계 고압전선 접촉 251세대 정전…4시간 만 복구(종합)",
-    "summary": [
-      "(서울=연합뉴스) 윤민혁 기자 = 14일 오후 6시 52분께 서울 마포구 서교동에서 비계가 고압선을 건드려 일대 정전이 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n458e5bbf",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003750365",
-    "title": "전남광주 한 도로서 남성 숨진 채 발견",
-    "summary": [
-      "[전남광주=뉴시스]양시원 기자 = 14일 오후 8시40분께 전남광주 서구 매월동 한 편도 5차선 도로에 신원을 알 수 없는 남성이 쓰러져있다는 신고가 접수됐다.",
-      "신고를 받고 출동한 소방당국은 숨진 상태의 A씨를 경찰에 인계했다.",
-      "경찰은 쓰러진 남성이 교통사고로 숨진 것이 아닌가 보고 정확한 경위를 조사 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf4b705e9",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814183200071",
-    "title": "'개방도 폐쇄도 아냐'…\"호르무즈 항로 다층화 '뉴노멀' 형성\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 이란전이 장기화하면서 전세계 에너지 수송의 주요 길목인 호르무즈 해협에서 이란과 오만이 각각 인정하는 항로..."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "nf0d20708",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003750351",
-    "title": "작년 10월 니제르에서 납치됐던 美선교사 석방…\"건강 양호\"",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 지난해 10월 서아프리카 니제르에서 납치됐던 미국인 선교사가 석방된 것으로 알려졌다.",
-      "14일(현지 시간) 뉴욕타임스(NYT)는 복수의 소식통을 인용해 니제르에서 납치됐던 미국 선교사 겸 조종사 케빈 라이드아웃(50) 씨가 석방됐다고 보도했다.",
-      "다만 소식통은 라이드아웃이 언제, 어디서, 어떻게 풀려났는지 등은 확인하지 않았다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n8a59221e",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260814/134482473/1",
-    "title": "모텔서 둔기로 전 연인 폭행후 달아나다 추락한 30대 입건",
-    "summary": [
-      "모텔에서 전 연인을 여러 차례 폭행한 30대 남성이 살인미수 혐의로 경찰에 붙잡혔다.",
-      "남성은 대퇴부 골절 등 중상을 입고 중환자실에서 치료를 받고 있다.",
-      "경기 분당경찰서는 살인미수 혐의로 30대 남성을 입건해 조사하고 있다고 14일 밝혔다.이 남성은 12일 오후 1시 40분경 경기 성남시 분당구의 한 모텔에서 전 연인의 머리 등을 소지하고 있던 둔기로 여러 차례 때린 뒤 달아난 혐의를 받는다.경찰은 여성의 비명 소리를 들은 목격자의 신고를 받고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naf7e0103",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/14/GU3TQOLCMEZWIMRTHFQTKYZTGY/",
-    "title": "박세리, 유튜브 채널 2개 오픈한 이유..“구독자와 가까워지려고” (속사정)",
-    "summary": [
-      "[OSEN=박하영 기자] 전 골프선수 박세리가 유튜브 채널 운영에 대한 솔직한 생각을 전했다.",
-      "14일 유튜브 채널 ‘박세리의 속사정’에는 ‘“이런 오돌뼈 처음 먹어봐!” 박세리가 극찬한 여수 필수코스 맛집’이라는 제목의 영상이 게재됐다.이날 박세리는 완도에서 학생들을 대상으로 강연을 마친 후 여수를 찾았다.",
-      "제작진이 “완도 강연 어땠냐”고 묻자 그는 “너무."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n98f02264",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814183800007",
-    "title": "'구자욱 멀티 홈런에 5안타' 삼성, 한화 꺾고 8월 첫 연승",
-    "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 프로야구 삼성 라이온즈가 구자욱의 5안타 2홈런 화력을 앞세워 8월 들어 첫 연승을 달렸다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc84cdd5d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/national/incident/2026/08/14/6JHCFZLGMFELVE66WMSQJGL7BM/",
-    "title": "전 여친 모텔서 둔기로 수차례 폭행…도주하다 추락한 30대",
-    "summary": [
-      "전 여친 모텔서 둔기로 수차례 폭행…도주하다 추락한 30대."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n895b1bfe",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/14/2026081422431018577",
-    "title": "청와대, 대미투자 관련 \"다양한 채널 통해 긴밀 논의 중\"",
-    "summary": [
-      "[the300] 청와대가 14일 \"한미 간 전략 투자 프로젝트와 관련해 다양한 채널을 통해 긴밀히 논의가 진행 중\"이라고 밝혔다.",
-      "청와대 관계자는 이날 취재진에 \"대미 통상현안과 관련해 정부 내에서도 수시로 긴밀히 소통하면서 대응 중\"이라며 이같이 밝혔다.",
-      "이날 한 언론이 미 상무부가 지난달 말과 이번주 한국 정부에 잇따라 이메일을 보내 대미투자 프로젝트의 조속한 발표를 요구했으며 김정관 산업통상부 장관의 긴급 방미 가능성도 거론된다고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n103c4a84",
-    "category": "부동산",
-    "source": "머니투데이",
     "time": "26분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/14/2026081422191689657",
-    "title": "\"사이 안 좋아서\"…아버지 살해하고 도주한 30대 아들 '중형'",
+    "url": "https://www.yna.co.kr/view/AKR20260815000400071",
+    "title": "트럼프 행정부, 대법에 \"백악관 연회장 공사 계속하게 해달라\"",
     "summary": [
-      "평소 사이가 좋지 않던 아버지를 흉기로 살해한 뒤 도주했다가 검거된 30대 아들이 중형을 선고받았다.",
-      "14일 의정부지법 형사13부(부장판사 김성식)는 존속살해 혐의로 구속기소 된 A씨(32)에게 징역 16년을 선고하고 보호관찰 5년을 명령했다.",
-      "위치추적 전자장치(전자발찌) 부착 명령은 기각했다."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 행정부가 14일(현지시간) 백악관 동관의 연회장 건축 공사를 계속할 수 있게 해달라고 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n27a92358",
+    "id": "n63034cf8",
     "category": "경제",
     "source": "머니투데이",
-    "time": "27분 전",
-    "url": "https://www.mt.co.kr/economy/2026/08/14/2026081422371148126",
-    "title": "미국, 드론 100% 관세에…중국 관영지 \"中 겨낭한 보호주의\" 비판",
+    "time": "26분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/15/2026081420340951899",
+    "title": "'세기의 재산분할' 다시 대법으로…최태원, 노소영에 9440억 지급 불복",
     "summary": [
-      "중국 관영 매체가 미국이 드론과 관련 부품에 최대 100% 관세를 부과하는 조치에 대해 \"사실상 중국을 겨냥한 보호주의\"라고 비판했다.",
-      "14일 중국 관영 매체 글로벌타임스는 전문가 의견을 인용해 \"미국의 이번 조치는 국가안보를 명분으로 산업 경쟁을 보호주의로 전환하고 차등 관세를 통해 글로벌 공급망을 교란하려는 시도\"라고 지적했다.",
-      "지난 13일 미국은 최대 이륙 중량이 25㎏을 넘는 드론과 열화상 기능을 갖춘 드론 등에 100%의 관세를 부과한."
+      "(상보) 최태원 SK그룹 회장이 전 부인인 노소영 아트센터 나비 관장에게 9440억을 지급해야 한다는 파기환송심 판결을 받아들이지 않았다.",
+      "결국 다시 대법원 판단을 받아보는 선택을 내렸다.",
+      "최 회장 대리인단은 14일 자정 직전 기자들에게 \"최 회장은 여러 사정을 고려해 고심 끝에 상고장을 제출했다\"며 \"주주들과 그룹 경영에 대한 부정적 영향을 최소화하겠다는 자세로 향후 절차에 임하겠다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nabfbfd36",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814183851007",
+    "title": "52분 기다림 끝에 KIA 잡은 4위 두산, 3위 LG 반 경기 차 추격(종합)",
+    "summary": [
+      "(서울=연합뉴스) 이대호 기자 = 프로야구 두산 베어스가 12안타를 몰아친 화력을 앞세워 3위 도약을 앞뒀다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n42a1a103",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260815/134482116/1",
+    "title": "[속보]최태원, ‘노소영에 9440억 재산분할’ 불복…다시 대법으로",
+    "summary": [
+      "최태원 SK그룹 회장(66)이 노소영 아트센터 나비 관장(65)에게 이혼에 따른 재산분할금으로 9440억 원을 지급하라는 파기환송심 판결에 대해 재상고했다.",
+      "9년간 이어진 법적 분쟁에 대해 대법원 판단을 한 번 더 받아보겠다고 한 것이다.",
+      "24일 오후 11시 59분경 최 회장 소송대리인단은 서울고법에 상고장을 제출했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n02ebb9c5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "34분 전",
+    "url": "https://www.hankyung.com/article/2026081528607",
+    "title": "[속보] 최태원, '노소영에 9440억원 지급' 불복…다시 대법으로",
+    "summary": [
+      "[속보] 최태원, '노소영에 9440억원 지급' 불복…다시 대법으로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n75047349",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "34분 전",
+    "url": "https://www.hankyung.com/article/2026081528591",
+    "title": "'9440억 재산분할' 불복 최태원, 고심 끝 재상고",
+    "summary": [
+      "'9440억 재산분할' 불복 최태원, 고심 끝 재상고."
     ],
     "chips": [
       "#뉴스"
@@ -646,14 +642,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
