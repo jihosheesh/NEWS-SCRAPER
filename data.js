@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-14 11:36:21
+// 마지막 업데이트: 2026-08-14 12:39:59
 window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 '파인만' AI 반도체 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "n42644652",
     "category": "경제",
     "source": "Mshale",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYTc5X29yOThmZk9vT2Zlak9nc2NQM3Mwbkk3TDlsQlUxOUZXS0F5WVBhWHlGOUttOEJObDBrUVNpR1F3czJ0dm5KeG0tb0FmU203VFhWTzc1bjg?oc=5",
     "title": "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd)",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "ne73322f0",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fUk1SVEhXUFBTTW4xTW5xdzNXLVo3OVRfTy1aYXc4WUItVXloeW94XzdrTUVodnNCWGc5VFp6aVpLcG9uNjcyeGltZUFMOUtUZXBSYVl5N2ZkRHV4cllNV3A1Rmx4dHc?oc=5",
     "title": "[초점] 메타·구글·아마존·MS의 반격…엔비디아의 위기인가 기회인가",
     "summary": [
@@ -50,12 +50,12 @@ window.NEWS_DB = [
   {
     "id": "ne2694309",
     "category": "스포츠",
-    "source": "news.nate.com",
+    "source": "네이트",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tWEJfd1NNQUh3UUhBQVF2V3l6eS1NaTk3N19QLUNqUnJMV2RoZS1NbnJBa2pxRHlOSlZIZU1pYmQtRXhFcUJIOVlwVmRxNmRGcjFQbjc5Tk0zalhySFBfVVByZEtKTVg3?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
     ],
     "chips": [
       "#KBO"
@@ -95,12 +95,12 @@ window.NEWS_DB = [
   {
     "id": "nda655558",
     "category": "IT",
-    "source": "동아일보",
+    "source": "donga.com",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTG54U3ZVdXl3RndHZUVpczliSEJ1WnNpTGJJVWdJWmk2OXpBY0hHVE1MS0NQMGEweXZjSHdkV0NveXpPa0dCMnVEZEdjY0hnS3lvWl9MWF9uYU9sYWxTRlhmNDl1TzUtV0JxNUlNY2FOZnNHa3fSAWZBVV95cUxNeVZGUjMxWHpwd2dqc2RhenVvZlVtMnFUVk93RVlmd0xUOGl5WlY3WU5yeVpPT1JockdPQlg5aXhFT0hyT3U2YUNXNmNKZ0pibS1wa3pORHpEWGg4WVR3Q1d4Nl9LWEE?oc=5",
     "title": "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다",
     "summary": [
-      "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다 동아일보."
+      "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다 donga.com."
     ],
     "chips": [
       "#AI",
@@ -126,12 +126,12 @@ window.NEWS_DB = [
   {
     "id": "n0d23d8d3",
     "category": "IT",
-    "source": "insightkorea.co.kr",
+    "source": "인사이트코리아",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81ekFkVVFhVHdKRlRHV3BXMEdmbVAwa1lPaUVPalRZWm0tb3ZpQmRhbmJ1eGpySmQ5dGpkaEZibFNMVXV1ZXB3b3ZHazRha0VQWGpGMHRqTF9Vc0xIMDdyZmJ1ajY3dkFCcXBYNGljMU1fM3FxTzRJ0gF3QVVfeXFMTzV6QWRVUWFUd0pGVEdXcFcwR2ZtUDBrWU9pRU9qVFlabS1vdmlCZGFuYnV4anJKZDl0amRoRmJsU0xVdXVlcHdvdkdrNGFrRVBYakYwdGpMX1VzTEgwN3JmYnVqNjd2QUJxcFg0aWMxTV8zcXFPNEk?oc=5",
     "title": "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’",
     "summary": [
-      "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’ insightkorea.co.kr."
+      "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’ 인사이트코리아."
     ],
     "chips": [
       "#반도체",
@@ -202,12 +202,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "15일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -245,12 +245,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "77일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -365,274 +365,276 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd8fdf06e",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260814/134482120/1",
-    "title": "유니폼 깜빡했네…SSG 최민준, 해치 유니폼 입고 선발 등판",
-    "summary": [
-      "유니폼을 깜빡하고 챙기지 못한 프로야구 SSG 랜더스 투수 최민준이 팀 동료 토마스 해치의 유니폼을 입고 마운드에 올랐다.",
-      "최민준은 14일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 LG 트윈스와의 원정 경기에 선발 투수로 나섰다.이날 최민준은 해치 유니폼을 착용하고 경기에 출장하며 눈길을 끌었다.SSG 관계자는 “최민준은 본인 유니폼 미지참으로 부득이하게 해치의 유니폼을 착용하고 출전하게 됐다”고 밝혔다.당초 이날 해치가 선발 투수로."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n95a961fb",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260814/134482117/1",
-    "title": "인천 송도 테라스 붕괴 ‘사조위’ 구성된다…조사 본격화",
-    "summary": [
-      "인천 송도국제도시에서 발생한 아파트 테라스 붕괴 사고와 관련해 인천시와 국토교통부가 건설사고조사위원회를 구성하기로 하면서 사고 원인 규명이 본격화할 전망이다.인천경제자유구역청은 인천시와 국토교통부가 최근 송도 테라스 붕괴 사고와 관련한 건설사고조사위원회 구성에 합의했다고 14일 밝혔다.앞서 이달 7일 연수구 송도동 모 아파트에서 한 세대 오픈 테라스 구조물과 외장재가 붕괴·낙하하는 사고가 발생했다.사고 세대는 공실이어서 인명 피해는 없었다.해당."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n12198288",
+    "id": "n183c9201",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/08/14/GEZTKNBVGBSGIMRWMM3GMOBVMU/",
-    "title": "금융결제원, 볼타에 전자세금용 금융인증서 민간 첫 적용",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003750335",
+    "title": "뉴욕 대형 전광판에…\"봉화사과 맛있지만 광고안합니다\"",
     "summary": [
-      "금융결제원은 14일부터 전자세금계산서 발급대행사(ASP) 볼타코퍼레이션의 서비스에 전자세금용 금융인증서를 적용한다고 밝혔다.",
-      "해당 인증서는 볼타의 전자세금계산서 발급과 관리 등 관련 업무에 활용될 예정이다.",
-      "전자세금용 금융인증서는 금융결제원이 2024년 6월부터 발급한 사업자용 인증서다."
+      "[대구=뉴시스] 박준 기자 = \"봉화사과 맛있지만 광고안합니다.\" 경북 봉화군의 한 공무원이 개인사비로 미국 뉴욕 타임스퀘어 대형 전광판에 봉화사과를 광고해 눈길을 끌고 있다.",
+      "14일 봉화군에 따르면 군 공식 인스타그램 계정인 '봉화군 봉숭이 주무관'은 지난 13일 뉴욕 타임스스퀘어 전광판에 봉화사과 광고가 송출되는 모습을 공개했다.",
+      "광고는 한국시간으로 지난 13일 오후 1시36분부터 이날 낮 12시36분까지 24시간 동안 매시 36분에 15초."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc91e2708",
+    "id": "n5ba907a3",
     "category": "사회",
-    "source": "동아일보",
+    "source": "뉴시스",
     "time": "5분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260814/134479480/1",
-    "title": "[단독]문화유산 모티브로 한 K-굿즈 열풍…디자인권 침해 분쟁도 가열",
+    "url": "https://www.newsis.com/view/NISX20260814_0003750334",
+    "title": "김민석 \"18번째 상임위로 '청년위원회' 만들자\"",
     "summary": [
-      "‘뮷즈(뮤지엄 굿즈·MU:DS)’로 불리는 국립박물관문화재단의 문화상품이 인기를 끌면서 국가 문화유산을 모티브로 한 굿즈 디자인권을 둘러싼 분쟁이 벌어졌다.",
-      "문화유산 굿즈는 이미 존재하는 문화유산을 재해석한 2차 창작물의 성격을 띤 만큼 어디까지 독자적인 디자인으로 인정할지 기준을 구체화할 필요가 있다는 지적이 나온다."
+      "[서울=뉴시스]권신혁 기자 = 김민석 더불어민주당 당대표 후보는 14일 \"18번째 국회 상임위원회로 '청년위원회'를 만들자\"고 제안했다.",
+      "김민석 후보는 이날 오후 X(옛 트위터)에 \"청년문제 해결을 위해 기존 생각의 틀, 기존 국회의 틀을 깨야 한다\"며 이같이 적었다.",
+      "김 후보는 \"국회법 제37조 개정을 통해 현재의 운영위, 정보위, 성평등가족위와 같은 겸임상임위 형태로 설치할 수 있다\"며 \"산발적 정책으론 안 된다."
     ],
     "chips": [
-      "#뉴스"
+      "#정책",
+      "#정치"
     ]
   },
   {
-    "id": "nbe1d8d6e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/14/GE4WMZJVHBSTQNLCME4TKMZTMY/",
-    "title": "\"방송 나가면 항상 나이 얘기했다\" 아이린, '24살 데뷔' 설움 토로 ('차쥐뿔')",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 그룹 레드벨벳 아이린이 데뷔 당시의 기억을 떠올렸다.",
-      "14일 유튜브 채널 '차린건 쥐뿔도 없지만'(이하 '차쥐뿔')에는 '아이린 시청금지 이 언니가 왜 이리 무리해'라는 제목의 영상이 게재됐다.이날 이영지는 아이린에게 데뷔 연차를 물은 뒤 자신이 어렸을 때 아이린이 24살로 데뷔했던 걸 언급했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neacdf769",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/14/MY4TMYRTGBRWKNDEME3GGM3EGI/",
-    "title": "3연승 가자! 천재환 투런포-김주원 솔로포, 백투백 홈런 폭발...'15호포' 김주원 개인 시즌 최다 타이 [오!쎈 부산]",
-    "summary": [
-      "[OSEN=부산, 조형래 기자] 프로야구 NC 다이노스가 연승 기세를 이으려는 백투백 홈런이 터졌다.NC는 14일 부산 사직구장에서 열린 프로야구 정규시즌 롯데 자이언츠와의 경기, 4회초 승부의 추를 더 가져오는 백투백 홈런을 터뜨렸다.2-0으로 앞서가고 있었지만 추가점이 없었던 NC는 4회초 1사 후 권희동의 중전안타로 기회를 만들었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n01299e63",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/14/GBSDEYLCMZTDIMBVGBSGGMZQGI/",
-    "title": "삼성 강민호 또 터졌다! 이재현과 백투백 아치 쾅! [오!쎈 대구]",
-    "summary": [
-      "[OSEN=대구, 손찬익 기자] 삼성 라이온즈 베테랑 포수 강민호와 유격수 이재현이 연속 타자 홈런을 터뜨리며 안방을 뜨겁게 달궜다.",
-      "이틀 연속 손맛을 본 강민호가 포문을 열었고, 이재현이 곧바로 백투백 홈런으로 화답했다.강민호는 14일 대구삼성라이온즈파크에서 열린 한화 이글스와의 홈경기에서 1점 차로 앞선 5회 선두 타자로 타석에 들어섰다.한화 선발 브루."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5fd9de4b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026081420302601579",
-    "title": "제이알글로벌리츠, ARS 협의기간 1개월 재연장",
-    "summary": [
-      "제이알글로벌리츠를 정상화하기 위한 기업과 채권자 간 자율적 구조조정 협의 기간이 한 달 더 연장됐다.",
-      "14일 제이알글로벌리츠 관계자는 \"서울회생법원이 자율구조조정프로그램(ARS) 협의 기간을 내달 14일까지 1개월 추가 연장하는 안을 승인했다\"고 밝혔다.",
-      "제이알글로벌리츠 관계자는 \"ARS가 개시된 지난 5월 이후 채권자 설명회 등 ARS 졸업을 위한 협의가 긴밀하게 진행됐다\"며 \"다만 핵심 자산인 벨기에 파이낸스타워의 감."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ff4c2fb",
+    "id": "nce4b60b7",
     "category": "사회",
     "source": "뉴시스",
     "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749997",
-    "title": "[단독]종합특검, 강호필 前지작사령관 기소…'내란 가담' 혐의",
+    "url": "https://www.newsis.com/view/NISX20260814_0003750333",
+    "title": "박지원 \"이진숙, 5·18 그런 길로 가면 지옥으로 떨어질 것\"",
     "summary": [
-      "[서울=뉴시스] 오정우 기자 = 12·3 비상계엄 당시 내란에 가담했다는 의혹을 들여다보는 2차 종합특별검사팀이 강호필 전 육군 지상작전사령관을 재판에 넘긴 것으로 파악됐다.",
-      "14일 법조계에 따르면 2차 특검팀(특별검사 권창영)은 이날 내란중요임무종사 혐의로 강 전 사령관을 불구속 기소했다.",
-      "강 전 사령관은 12·3 비상계엄 선포 이후 지상작전사령부 내부 상황실 구성에 관여, 위기조치반과 사령부 전 간부 소집을 지시하는 등 계엄에 가담했다는 혐."
+      "[서울=뉴시스]이기주 인턴 기자 = 박지원 더불어민주당 의원이 5·18 민주화운동을 북한군 소행이라고 주장하는 이들을 겨냥해 \"지옥으로 떨어질 수밖에 없다\"며 강하게 비판했다.",
+      "이진숙 국민의힘 의원이 5·18 민주화운동을 재조명하는 포럼을 개최한 것을 두고 나온 발언이다.",
+      "지난 13일 광주방송(kbc) '여의도 초대석'에 출연한 박 의원은 진행자가 이진숙 의원이 참석한 포럼과 관련해 \"5·18을 '광주 사태'로 치부하고, 광주를 '어두운 세력의."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n95677820",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260814/134481082/1",
-    "title": "SK스퀘어, 2분기 영업익 19.2조…하이닉스 호조로 분기 최대 실적",
-    "summary": [
-      "SK스퀘어가 SK하이닉스의 실적 호조에 힘입어 올해 2분기(4~6월) 분기 기준 사상 최대 이익을 냈다.SK스퀘어는 올해 2분기 연결기준 매출 3285억 원, 영업이익 19조2354억 원, 순이익 18조6750억 원을 기록했다고 14일 밝혔다.",
-      "매출은 전년 동기 대비 7.6% 감소했지만 영업이익은 1273.8%, 순이익은 1190.5% 증가했다.",
-      "올해 상반기 누적 영업이익은 27조5137억 원, 순이익은 27조498억 원으로 집계됐다."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n6ac9d4cd",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/14/2026081420035593323",
-    "title": "'임플란트 최저가' 강남 치과서 또 사망사고…유족 영상열람은 거부",
-    "summary": [
-      "서울 강남의 한 치과에서 임플란트 시술을 받던 60대 남성이 숨지는 사고가 발생했다.",
-      "이 치과에서는 8개월 전인 지난해 12월에도 환자 사망 사고가 있었던 것으로 전해졌다.",
-      "14일 MBN에 따르면 지난 3일 오전 이 치과에서 임플란트 시술을 받던 60대 남성 A씨가 심정지 상태에 빠져 끝내 숨졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89b54962",
+    "id": "nb081461e",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/14/2026081409194233177",
-    "title": "\"다른 선택지가 있나요\" 로버츠 감독도 포기했다, 970억 마무리 또.또.또 블론세이브... 다저스 WS 3연패 가능한가",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/economy/market_trend/2026/08/14/GUZWEYJZHA2GMZRUGNTDSN3FGA/",
+    "title": "더본코리아, 2분기 영업손실 56억원… 적자폭 75% 축소",
     "summary": [
-      "이래서 월드시리즈(WS) 3연패를 할 수 있을까.",
-      "LA 다저스가 고질적인 마무리 문제를 반복하며 또 한 번 역전패했다.",
-      "다저스는 14일(한국시간) 미국 캘리포니아주 로스앤젤레스의 다저 스타디움에서 열린 2026 미국프로야구 메이저리그(MLB) 정규시즌 홈 경기에서 밀워키 브루어스에 4-5로 역전패했다."
+      "더본코리아는 올해 2분기 영업손실 56억원을 기록했다고 14일 공시했다.",
+      "지난해 같은 기간 영업손실 225억원과 비교하면 적자 폭이 약 75% 축소됐다.",
+      "같은 기간 매출은 832억원으로 전년 동기 대비 12% 증가했다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n4a16f9bc",
-    "category": "사회",
+    "id": "na3e3a12b",
+    "category": "스포츠",
     "source": "뉴시스",
     "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003750312",
-    "title": "\"일본 정부 사죄하라\"…日대사관 앞 '위안부 기림일' 행사",
+    "url": "https://www.newsis.com/view/NISX20260814_0003750220",
+    "title": "한국 여자농구, 일본에 버저비터 역전패…원정 2연패",
     "summary": [
-      "[서울=뉴시스]이태성 기자 = \"일본군 성노예제 피해자들의 굳센 바람과 우리의 힘찬 바람이 만나 평화와 돌풍으로…다카이치 사나에는 전쟁 범죄 인정하고 사죄하라!\" 광복절을 하루 앞둔 14일 오후 7시, 일본군성노예제 문제해결을 위한 정의기억연대가 서울 종로구 주한 일본대사관 앞에서 제14차 '세계 일본군 위안부 기림일'을 기념하는 나비문화제를 개최했다.",
-      "정의기억연대는 올해 '평화돌풍: 그들의 굳센 바람과 우리의 힘찬 바람이 만나'를 주제로 기림."
+      "[서울=뉴시스] 김진엽 기자 = '박수호호' 한국 여자 농구 국가대표팀이 일본과의 원정 평가전을 2연패로 마무리했다.",
+      "박수호 감독이 이끄는 여자 농구 대표팀은 14일 오후 일본 도쿄에서 열린 일본과의 2026 여자 농구 국가대표 평가전 두 번째 경기에서 77-78로 역전패를 당했다.",
+      "전날 59-77로 18점 차 대패를 맛봤던 것보단 적은 점수 차였으나, 마지막 리드를 지키지 못하며 아쉬움을 남겼다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6cb9142b",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003750286",
-    "title": "장동혁, 광복절 올공 집회 참석…원외당협위원장 등 3000여명 참석 전망",
+    "id": "n88160abc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814179600083",
+    "title": "中관영지, 美 드론 최대 100% 관세에 \"중국 겨냥한 보호주의\"",
     "summary": [
-      "[서울=뉴시스]하지현 기자 = 장동혁 국민의힘 대표가 오는 15일 잠실 올림픽공원에서 열리는 투표용지 부족 사태 참정권 수호 집회에 참석할 예정이다.",
-      "원외당협위원장들이 각 지역에 집회 참석을 독려하면서 3500여명 가량이 현장에 집결할 것으로 보인다.",
-      "14일 정치권에 따르면 장 대표는 최근 원외당협위원장 및 시의원들과 식사 자리를 갖고 \"줄 서는 정치 대신 당을 위한 정치를 해달라\"며 올림픽공원 집회를 비롯한 대여 투쟁에 적극적으로 동참해줄 것."
+      "(베이징=연합뉴스) 한종구 특파원 = 미국이 드론과 관련 부품에 최대 100%의 관세를 부과하기로 하자 중국 관영 매체가 사실상 중국을 겨냥한 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d56c1c2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/politics/blue_house/2026/08/14/2WXWSQSWNFFPTDUTACFDKBII3Y/",
+    "title": "美 ‘대미투자 최후통첩’에... 靑 “긴밀히 논의 진행 중”",
+    "summary": [
+      "美 ‘대미투자 최후통첩’에... 靑 “긴밀히 논의 진행 중”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nced2ef1f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026081420121187335",
+    "title": "\"27세 공무원이 사비로 뉴욕 전광판을 샀다\" SNS 난리 난 '봉화사과' 역발상 마케팅",
+    "summary": [
+      "\"봉화사과 맛있지만 광고 안 합니다.\" 미국 뉴욕 타임스스퀘어 전광판에 등장한 엉뚱한 문구의 한글 광고가 화제다.",
+      "광고를 낸 주인공은 경북 봉화군청의 20대 농업직 공무원.",
+      "사비 32만원 털어 뉴욕에 '봉화사과' 광고14일 경북 봉화군에 따르면 봉화군 농업기술센터 유통특작과 김수성(27) 주무관은 최근 사비 32만9000원을 들여 봉화 사과를 알리는 광고를 뉴욕 타임스스퀘어에 띄웠다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n39445cef",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/14/GE2DEMZYGU3DKMBSMZSTAMTCG4/",
+    "title": "'거미♥' 조정석, 딸 위한 자작곡 부르는 세상 스윗 아빠",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 조정석이 첫째딸을 위해 직접 만든 노래를 불러주었다.",
+      "14일 유튜브 채널 '채널 조정석'에는 '조정석의 돌아온 육퇴 라이브 | 라이브 문 열었습니다'라는 제목의 영상이 게재됐다.",
+      "이날 조정석은 '육퇴 라이브'를 통해 팬들과 근황을 나눴다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc0ff9ed0",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026081421243241267",
+    "title": "네이버·카카오 CEO 상반기 보수 늘었다…최수연 26억·정신아 12억원",
+    "summary": [
+      "네이버와 카카오 최고경영자(CEO)가 올해 상반기 각각 26억6700만원, 12억900만원의 보수를 받은 것으로 나타났다.",
+      "두 CEO 모두 전년 동기보다 보수가 늘었다.",
+      "14일 각 사 반기보고서에 따르면 최수연 네이버 대표의 상반기 보수는 26억6700만원으로 전년 동기 25억5000만원보다 4.6% 증가했다."
+    ],
+    "chips": [
+      "#네이버",
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n9c06b68f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814179200054",
+    "title": "목포대·순천대 의대 신설 '3자 회동' 소득 없이 종료",
+    "summary": [
+      "(전남광주=연합뉴스) 손상원 기자 = 전남광주통합특별시장과 목포대·순천대 총장이 의과대학 신설 추진 계획서 제출 마감 시한을 앞두고 3자 회동을..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n397d13da",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814179400004",
+    "title": "마포구서 비계가 고압전선 접촉 251세대 정전…일부 복구 완료",
+    "summary": [
+      "(서울=연합뉴스) 윤민혁 기자 = 14일 오후 6시 52분께 서울 마포구 서교동에서 비계가 고압선을 건드려 일대 정전이 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na2168d0c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260814/134482158/1",
+    "title": "국토부, 서소문 고가차도 붕괴사고 관련 서울시·코레일 등 수사 의뢰",
+    "summary": [
+      "올해 5월 6명의 사상자를 낸 서울 서소문 고가차도 붕괴 사고 당시 시공사·감리사는 승인받지 않은 작업을 진행했고, 서울시는 위험 상황을 즉시 보고하지 않은 것으로 조사됐다.",
+      "또 한국철도공사(코레일)는 철도 운행 안전 협의를 부실하게 진행하는 등 안전 관리가 미흡했던 것으로 나타났다.",
+      "국토교통부는 시공사와 감리사, 서울시, 코레일을 수사의뢰했다.국토부는 서소문 고가차도 철거작업에 대한 수시검사 결과에 따라 시공사·감리사, 서울시, 코레일 등 관."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2fc8e28d",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814179300007",
+    "title": "[여자농구 대표팀 평가전 전적] 한국 77-78 일본",
+    "summary": [
+      "[여자농구 대표팀 평가전 전적] 한국 77-78 일본."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8261a4a0",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026081427827",
+    "title": "138년 만의 최악 폭염…英, 70% 이상 지역이 가뭄 상태",
+    "summary": [
+      "138년 만의 최악 폭염…英, 70% 이상 지역이 가뭄 상태."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nef5cfcc6",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "27분 전",
+    "url": "https://view.asiae.co.kr/article/2026081419565983893",
+    "title": "'11세 학대치사' 천안 목사 검찰 송치…41도 고열·30시간 결박 정황",
+    "summary": [
+      "충남 천안의 한 교회에서 11세 아동을 학대해 숨지게 한 혐의를 받는 60대 교회 목사 A씨가 구속 상태로 검찰에 넘겨졌다.",
+      "해당 아동(B군)은 약 30시간 동안 침대에 결박당하는 등 학대 끝에 숨진 것으로 파악됐다.",
+      "14일 충남경찰청은 A씨를 아동학대치사 혐의로 대전지검 천안지청에 구속 송치했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nccff9e18",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/14/2026081420065014448",
-    "title": "고소인에게 보낼 문자를 피고소인에게…경찰 \"번호 입력 실수\"",
+    "id": "n1792c1f7",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260814/134482066/1",
+    "title": "美 “한국 대미 투자 프로젝트 서두르라”…靑 “다양한 채널로 논의 중”",
     "summary": [
-      "현직 경찰관을 상대로 접수된 고소 사건을 처리하는 과정에서 담당 경찰관이 고소인과 피고소인의 전화번호를 뒤바꿔 입력해 안내 문자가 잘못 전송되는 일이 발생했다.",
-      "14일 뉴스1과 인천경찰청에 따르면 A씨는 지난달 말 배드민턴 동호회에서 함께 활동하던 50대 경감 B씨를 모욕과 협박 혐의로 연수경찰서에 고소했다.",
-      "A씨는 체육관에서 배드민턴을 하던 중 다른 사람들 앞에서 B씨가 욕설과 협박을 했다며 고소장을 제출했다."
+      "도널드 트럼프 미국 행정부가 대미 투자 프로젝트 추진을 서두르라며 한국 정부에 대한 압박 강도를 높이고 있다.",
+      "이달 말 미 무역법 301조 과잉생산 조사 결과 발표를 앞두고 한미 무역합의에 따른 관세율 마지노선 15%를 압박 수단으로 사용하는 것으로 풀이된다.",
+      "14일 관계부처 등에 따르면 한미 양국은 대미 투자 프로젝트와 관련해 강도 높은 논의를 이어가고 있다."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "n1a026e04",
+    "id": "n8ddaa7eb",
     "category": "경제",
     "source": "한국경제",
-    "time": "17분 전",
-    "url": "https://www.hankyung.com/article/2026081427747",
-    "title": "'논산 훈련소' 입소한 40대 천하람 \"장병들 노고 대단하다\"",
+    "time": "34분 전",
+    "url": "https://www.hankyung.com/article/2026081427757",
+    "title": "학폭 피해자 유족, '재판 노쇼' 권경애 변호사 '사기'로 고소",
     "summary": [
-      "'논산 훈련소' 입소한 40대 천하람 \"장병들 노고 대단하다\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0fac8def",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026081419000314715",
-    "title": "美주식 대체 뭘 샀길래…국민연금 석 달 만에 33조원 불렸다",
-    "summary": [
-      "미국 빅테크와 반도체 초강세에 힘입어 국민연금이 2분기 미국 주식시장에서 약 234억달러(약 33조2000억원)를 벌어들인 것으로 나타났다.",
-      "2분기 미주식 평가액 전 분기 대비 33조원 급증14일 금융투자업계에 따르면 국민연금은 13일(현지시간) 미 증권거래위원회(SEC)에 제출한 보고서에서 6월 말 기준 미국 552개 상장종목에 투자 중이며, 보유주식의 가치가 1550억8000만달러(약 219조원)에 이른다고 밝혔다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n25435ceb",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "18분 전",
-    "url": "https://www.hankyung.com/article/2026081427767",
-    "title": "30대 베테랑 수영 코치, 물속에서 숨 참다 숨져…무슨 일?",
-    "summary": [
-      "30대 베테랑 수영 코치, 물속에서 숨 참다 숨져…무슨 일?."
+      "학폭 피해자 유족, '재판 노쇼' 권경애 변호사 '사기'로 고소."
     ],
     "chips": [
       "#뉴스"
@@ -645,8 +647,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
@@ -657,8 +659,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
