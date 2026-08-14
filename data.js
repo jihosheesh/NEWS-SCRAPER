@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-14 15:41:08
+// 마지막 업데이트: 2026-08-14 16:39:49
 window.NEWS_DB = [
   {
     "id": "nf3930c1d",
     "category": "IT",
-    "source": "00news.co.kr",
-    "time": "6시간 전",
+    "source": "공공뉴스",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1bk5PZ0FoYW5QYnM3SlRCZG1IVHM0QU9vbkFUa04zZnhrei1TYXI4VFFvenZZc0MyQjh5Z2d0RENLU2xhZTJydW1GQjdEQVljeVZjRlA5WVlEUDBGX0J3cGEwcl9jRHpGWlkzalBB0gFuQVVfeXFMUHVuTk9nQWhhblBiczdKVEJkbUhUczRBT29uQVRrTjNmeGt6LVNhcjhUUW96dllzQzJCOHlnZ3REQ0tTbGFlMnJ1bUZCN0RBWWN5VmNGUDlZWURQMEZfQndwYTByX2NEekZaWTNqUEE?oc=5",
     "title": "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱",
     "summary": [
-      "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱 00news.co.kr."
+      "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱 공공뉴스."
     ],
     "chips": [
       "#AI",
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n5e7afdfd",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "n42644652",
     "category": "경제",
     "source": "Mshale",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYTc5X29yOThmZk9vT2Zlak9nc2NQM3Mwbkk3TDlsQlUxOUZXS0F5WVBhWHlGOUttOEJObDBrUVNpR1F3czJ0dm5KeG0tb0FmU203VFhWTzc1bjg?oc=5",
     "title": "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd)",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "ne73322f0",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fUk1SVEhXUFBTTW4xTW5xdzNXLVo3OVRfTy1aYXc4WUItVXloeW94XzdrTUVodnNCWGc5VFp6aVpLcG9uNjcyeGltZUFMOUtUZXBSYVl5N2ZkRHV4cllNV3A1Rmx4dHc?oc=5",
     "title": "[초점] 메타·구글·아마존·MS의 반격…엔비디아의 위기인가 기회인가",
     "summary": [
@@ -201,12 +201,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "15일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -258,12 +258,12 @@ window.NEWS_DB = [
   {
     "id": "n79d12fb6",
     "category": "부동산",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "77일 전",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
     "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#부동산"
@@ -364,170 +364,198 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfec938b1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003748841",
-    "title": "\"결혼 안 해요\"…중국 혼인신고 7.5%↓, 인구 감소 우려 커져",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 중국의 혼인 건수가 다시 감소세로 돌아서면서 저출산과 인구 감소에 대한 우려가 커지고 있다.",
-      "13일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 올해 상반기 중국의 혼인신고 건수가 전년 동기 대비 7.5% 감소했다.",
-      "올해 1월부터 6월까지 중국에서 결혼한 부부는 약 328만 쌍으로, 지난해 같은 기간보다 26만4000쌍 감소한 수치다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbe77f824",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/15/2026081500253377429",
-    "title": "[단독]최태원 회장 9440억 재상고 이유는…\"노 관장이 현금 지급 고수\"",
-    "summary": [
-      "최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 재산분할 소송이 다시 대법원 판단을 받게 됐다.",
-      "최 회장이 9440억원을 지급해야 한다는 파기환송심 판결에 불복, 재상고를 하면서다.",
-      "노 관장이 전액을 현금으로 지급하라고 고수한 것이 재상고 배경인 것으로 확인됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf8ddb75c",
+    "id": "n72855c7f",
     "category": "경제",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750384",
-    "title": "김종국 \"30년간 재테크 안 해…오직 은행이자 2%만 받아\"",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750385",
+    "title": "美 드론 최대 관세 100%에…中 관영지 \"중국 기업 가장 큰 타격\"",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 가수 김종국이 30년간 별도의 재테크 없이 예·적금으로만 자산을 관리해왔다고 밝혔다.",
-      "김종국은 14일 방송된 KBS 2TV 예능물 '옥탑방의 문제아들'에서 \"30년 동안 재테크를 한 번도 해본 적이 없다\"고 털어놨다.",
-      "\"주식을 전혀 몰라 전부 현금으로 저축만 했고, 은행 이자 2%만 받았다\"는 것이다."
+      "[서울=뉴시스]고재은 기자 = 미국이 드론 등 무인항공시스템(UAS)과 관련 부품에 최대 100% 관세를 부과하기로 한 가운데 사실상 중국 기업이 가장 큰 타격을 입을 것이라는 중국 관영매체 분석이 나왔다.",
+      "14일 중국 관영 영문매체 글로벌타임스는 전문가들은 인용해 \"미국이 수입 드론에 100% 관세를 부과하는 것은 주로 중국을 겨냥한 보호무역주의\"라며 \"글로벌 공급망을 교란하고 결국 자국 소비자에게 역효과를 초래할 것\"이라고 전했다."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "n81d1709f",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/08/15/HBSWKMLCHEZDKMLBME3WMNRXMQ/",
-    "title": "3000만원 날렸던 최고민수, 주식 공부 후 '8억'…산 집까지 재건축[옥문아]",
-    "summary": [
-      "[스포츠조선 조민정 기자] 주식 전문가 '최고민수' 박민수가 3000만원을 날린 실패를 딛고 주식 투자로 8억원을 만든 반전 스토리를 공개했다.",
-      "이후 투자 수익으로 집까지 마련했는데 해당 주택이 재건축에 들어가는 겹경사까지 맞았다고 밝혔다.",
-      "14일 오후 방송된 KBS2 '옥탑방의 문제아들'에서는 주식 전문가 최고민수와 거시경제 전문가 오건영이 출연해 재테크."
-    ],
-    "chips": [
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n4119b934",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814181551054",
-    "title": "광주 도로서 80대 남성 숨진 채 발견…뺑소니 용의 차량 추적(종합)",
-    "summary": [
-      "(전남광주=연합뉴스) 민현기 기자 = 전남광주의 한 도로에서 80대 노인이 차에 치여 숨진 채 발견돼 경찰이 달아난 운전자를 추적 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n631a85c8",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003748874",
-    "title": "\"임대료 폭등 방치한 탓\"…잉글랜드 집 잃은 어린이 17만명 넘어",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 영국 잉글랜드에서 집을 잃고 임시 거처에 머무는 어린이 수가 17만 명을 넘어서며 역대 최고치를 경신했다.",
-      "지난 13일(현지 시간) BBC 보도에 따르면 영국 주택지역사회자치부의 최신 주거 통계에서 올해 1월부터 3월까지 잉글랜드 내 임시 거처에 거주하는 어린이는 총 17만 7530명으로 집계됐다.",
-      "전년 동기 대비 5% 증가한 수치로, 18분기 연속 증가하며 역대 최고치를 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c6b6173",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/national/weekend/2026/08/15/3FKPMIBFIJDGDH4U5NYR7RKD3M/",
-    "title": "찬 육수와 서늘한 메밀면의 묵직한 리듬",
-    "summary": [
-      "찬 육수와 서늘한 메밀면의 묵직한 리듬."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n02732740",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/national/weekend/2026/08/15/ON7FMBMPQRDQXBUFYDXTX55ERE/",
-    "title": "맥문동 꽃 보고 전어 먹으러 갈까? ‘치맥’ 먹고 ‘록페’ 즐길까?",
-    "summary": [
-      "더위는 한풀 꺾인 듯싶지만, 여름 축제는 끝나지 않았다.",
-      "충남 서천군 장항 송림자연휴양림은 이맘때면 약 28만㎡ 규모 소나무 숲 아래 맥문동 꽃이 활짝 펴 장관을 이루는 곳.",
-      "제철을 맞아 28~30일 장항 송림자연휴양림에선 ‘장항 맥문동 꽃 축제’가 열린다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncf7ded97",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815000200108",
-    "title": "현대차 1호 해외 공장, 아이오닉3 양산 시동…유럽 전기차 공략",
-    "summary": [
-      "(이즈미트[튀르키예]=연합뉴스) 김동호 특파원 = 현대차 튀르키예법인(HMTR)은 14일(현지시간) 이스탄불 인근 코자엘리주(州) 이즈미트공장에..."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n232f73f7",
+    "id": "n0ecc8833",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/15/2026081416552028987",
-    "title": "\"자존심 많이 상했을 것\" 대굴욕, PS 청부사인줄 알았는데 '3피홈런 6실점' 또 무너졌다 [대구 현장]",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/MU3GKZJYGY2DEYZSGZRDONTCGM/",
+    "title": "전현무, 土 새벽 스케줄 앞두고 카자흐스탄行…구성환 \"미친 사람\"[나혼산]",
     "summary": [
-      "\"자존심이 많이 상했을거야.\" 김경문(68) 한화 이글스 감독은 부진한 투구를 펼친 메이저리그(MLB) 출신 새 외국인 투수가 구겨진 자존심 회복을 위해서라도 호투를 펼쳐주길 바랐다.",
-      "그러나 그 기대는 산산히 조각났다.",
-      "짐머맨은 14일 대구 삼성라이온즈파크에서 열린 삼성 라이온즈와 2026 신한 SOL KBO리그 원정경기에 선발 등판해 5이닝 동안 95구 10피안타(3피홈런) 1볼넷 5탈삼진 6실점을 기록했다."
+      "[스포츠조선 조민정 기자] 전현무가 단 이틀의 휴일을 위해 7시간을 날아 카자흐스탄으로 향했다.",
+      "여행지는커녕 비행기 표조차 정하지 않은 채 공항으로 향해 현장에서 비즈니스석을 끊는 그의 여행법에 김신영과 기안84는 \"장가 못 가겠다\"며 혀를 내둘렀다.",
+      "14일 오후 방송된 MBC '나 혼자 산다'에서는 두 달 넘게 쉴 틈 없이 일한 전현무가 모처럼 생긴 1박."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "na7898492",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750380",
-    "title": "김숙, ETF 투자 '-38%' 고백…전문가 \"오히려 좋아\" 왜?",
+    "id": "nb31cc809",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/08/15/GQ4TQMLEGYZDQOBXMI3WKNZQMI/",
+    "title": "'득남' 김장미, 아들 낳느라 폰 못 봤더니…문자 1580개·부재중 437통",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 코미디언 김숙이 상장지수펀드(ETF) 투자로 큰 손실을 본 근황을 털어놨다.",
-      "김숙은 지난 14일 방송된 KBS 2TV 토크 예능물 '옥탑방의 문제아들'에서 ETF 수익률을 묻는 말에 \"마이너스 38%\"라고 고백했다.",
-      "이날 게스트로 출연한 실전 투자 전문가 최고민수가 \"월급만으로 내 집 마련이 어려운 시대에 주식 투자는 필수\"라며 안정적인 ETF 투자를 추천하자 이같이 밝힌 것이다."
+      "[스포츠조선 조민정 기자] '하트시그널2' 출신 김장미가 엄마가 됐다.",
+      "지난해 결혼에 이어 임신 소식을 전하며 많은 축하를 받았던 그가 건강하게 아들을 품에 안으며 인생의 새로운 막을 열었다.",
+      "김장미는 14일 자신의 SNS를 통해 득남 소식을 직접 전했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n752db1c2",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/15/HAZTANJSGUZGCM3GHE3DIN3CMQ/",
+    "title": "\"50m만 쳐라\" 홈런왕 깨운 토종 최고타자의 한마디, 856일 만에 5안타 투하 캡틴의 진심과 솔선수범",
+    "summary": [
+      "[대구=스포츠조선 정현석 기자] \"큰 거 필요 없다, 50m만 보낸다 생각하고 쳐라.\" 삼성 라이온즈의 '캡틴' 구자욱(33)이 깊은 슬럼프와 마음고생에 시달리던 외국인 타자 르윈 디아즈에게 건넨 한마디였다.",
+      "안쓰러움에 먼저 다가간 한마디.",
+      "단순한 격려를 넘어, 본인이 수많은 터널을 지나며 선배들과 코칭스태프로부터 받은 조언에서 우러나온 진심."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3e84759",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003748870",
+    "title": "800만원 명품백 빌려갔다가 '짝퉁'으로 돌려준 시누이…남편은 \"눈감아줘\"",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 결혼 후 800만원대 명품 가방을 시누이에게 빌려줬다가 가품으로 뒤바뀐 채 돌려받았다는 사연이 전해져 온라인에서 논란이 되고 있다.",
+      "12일 한 온라인 커뮤니티에 따르면 작성자 A씨는 '시누이에게 빌려준 명품 가방이 가품으로 바뀌어 돌아왔다'는 제목의 글을 올렸다.",
+      "A씨는 결혼할 당시 직접 모은 돈으로 800만원짜리 명품 가방을 마련했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0beda12f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750381",
+    "title": "한미 안보합의 지원 약속한 베이커 美안보부보좌관 사임",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 2기 행정부 국가안보 전략과 정책에 깊이 관여해온 앤디 베이커 백악관 국가안보부보좌관이 사임할 예정이다.",
+      "미 액시오스는 14일(현지 시간) 베이커 부보좌관이 몇주내로 행정부를 떠날 예정이라고 보도했다.",
+      "베이커 부보좌관은 매체에 보낸 성명에서 \"정말 놀라운 여정이었다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2c183376",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815001400071",
+    "title": "트럼프가 \"짐승들\" 비난한 2차대전 기념비 훼손 용의자 체포",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 수도 워싱턴DC의 명소 내셔널몰에 있는 제2차 세계대전 기념비를 훼손한 용의자가 14일(현지시간) 체..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb80d9688",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815001300071",
+    "title": "\"트럼프 '지지선언' 왜 안 나오나…네타냐후는 속이 탄다\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 10월 말 총선을 앞둔 베냐민 네타냐후 이스라엘 총리가 도널드 트럼프 미국 대통령의 지지 선언을 얻지 못해..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5bcff030",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749868",
+    "title": "\"혐오와 갈등 조장 그만\"…WNBA, 트랜스젠더 이슈 비판세력에 경고장",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 트랜스젠더 선수의 여자농구 참여를 둘러싼 논쟁이 이어지는 가운데 미국여자프로농구(WNBA)가 선수들을 향한 온라인상의 혐오와 악의적인 행위를 강하게 규탄했다.",
+      "13일(현지시간) 미국 매체 USA 투데이에 따르면, WNBA와 각 구단 관계자들은 회의를 열고 트랜스젠더 선수의 여자농구 참여 문제를 비롯해 최근 리그를 둘러싼 현안에 대해 논의했다.",
+      "WNBA 대변인은 \"이번 회의에서는 트랜스젠더 선수들을 둘러싼 논쟁."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8cc6ee16",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "47분 전",
+    "url": "https://view.asiae.co.kr/article/2026081500515714889",
+    "title": "최태원 SK 회장, 노소영 상대 재상고…이혼 소송 다시 대법원으로",
+    "summary": [
+      "최태원 SK그룹 회장이 장고 끝 재상고에 나서며 노소영 아트센터 나비 관장의 재산분할 소송이 다시 대법원 판단을 받게 됐다.",
+      "최 회장 측은 14일 재산분할 소송 파기환송심 재판부인 서울고법 가사1부(부장판사 이상주)에 재상고장을 냈다.",
+      "최 회장의 대리인단은 입장문을 통해 \"최 회장은 여러 사정을 고려해 고심 끝에 상고장을 제출했다\"며 \"주주들과 그룹경영에 대한 부정적 영향을 최소화하겠다는 자세로 향후 절차에 임할 것."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5a1b2abe",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "52분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815001000079",
+    "title": "\"美, 네타냐후에 팔레스타인 마을 '땅뺏기' 정착민 규탄 촉구\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국 정부가 베냐민 네타냐후 이스라엘 총리에게 요르단강 서안지구에서 팔레스타인 주민들의 자택을 포위하고 있..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na110eb7d",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "53분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815001100072",
+    "title": "미 8월 소비자심리지수 51.0…인플레 우려에 3개월 만에 하락",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 두 달 연속 개선됐던 미국 소비자들의 경제 심리가 8월 들어 3개월 만에 하락으로 돌아섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n84e0e529",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608142804i",
+    "title": "최태원, 재산분할 파기환송심 재상고…'9년 이혼소송' 다시 대법원으로",
+    "summary": [
+      "최태원, 재산분할 파기환송심 재상고…'9년 이혼소송' 다시 대법원으로."
     ],
     "chips": [
       "#뉴스"
@@ -537,7 +565,7 @@ window.NEWS_DB = [
     "id": "ne27d8ee2",
     "category": "사회",
     "source": "동아일보",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260815/134482626/1",
     "title": "프랑스法, ‘15세 미만 SNS금지’ 위헌 결정…“표현의 자유 침해”",
     "summary": [
@@ -548,56 +576,12 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndecc38a8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815000400071",
-    "title": "트럼프 행정부, 대법에 \"백악관 연회장 공사 계속하게 해달라\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 행정부가 14일(현지시간) 백악관 동관의 연회장 건축 공사를 계속할 수 있게 해달라고 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n63034cf8",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "26분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/15/2026081420340951899",
-    "title": "'세기의 재산분할' 다시 대법으로…최태원, 노소영에 9440억 지급 불복",
-    "summary": [
-      "(상보) 최태원 SK그룹 회장이 전 부인인 노소영 아트센터 나비 관장에게 9440억을 지급해야 한다는 파기환송심 판결을 받아들이지 않았다.",
-      "결국 다시 대법원 판단을 받아보는 선택을 내렸다.",
-      "최 회장 대리인단은 14일 자정 직전 기자들에게 \"최 회장은 여러 사정을 고려해 고심 끝에 상고장을 제출했다\"며 \"주주들과 그룹 경영에 대한 부정적 영향을 최소화하겠다는 자세로 향후 절차에 임하겠다\"고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nabfbfd36",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814183851007",
-    "title": "52분 기다림 끝에 KIA 잡은 4위 두산, 3위 LG 반 경기 차 추격(종합)",
-    "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 프로야구 두산 베어스가 12안타를 몰아친 화력을 앞세워 3위 도약을 앞뒀다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n42a1a103",
     "category": "사회",
     "source": "동아일보",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260815/134482116/1",
-    "title": "[속보]최태원, ‘노소영에 9440억 재산분할’ 불복…다시 대법으로",
+    "title": "최태원, ‘노소영에 9440억 재산분할’ 불복…다시 대법으로",
     "summary": [
       "최태원 SK그룹 회장(66)이 노소영 아트센터 나비 관장(65)에게 이혼에 따른 재산분할금으로 9440억 원을 지급하라는 파기환송심 판결에 대해 재상고했다.",
       "9년간 이어진 법적 분쟁에 대해 대법원 판단을 한 번 더 받아보겠다고 한 것이다.",
@@ -611,7 +595,7 @@ window.NEWS_DB = [
     "id": "n02ebb9c5",
     "category": "경제",
     "source": "한국경제",
-    "time": "34분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026081528607",
     "title": "[속보] 최태원, '노소영에 9440억원 지급' 불복…다시 대법으로",
     "summary": [
@@ -625,11 +609,25 @@ window.NEWS_DB = [
     "id": "n75047349",
     "category": "경제",
     "source": "한국경제",
-    "time": "34분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026081528591",
-    "title": "'9440억 재산분할' 불복 최태원, 고심 끝 재상고",
+    "title": "최태원, '9440억 재산분할' 불복…고심 끝 재상고",
     "summary": [
-      "'9440억 재산분할' 불복 최태원, 고심 끝 재상고."
+      "최태원, '9440억 재산분할' 불복…고심 끝 재상고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nca48172f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081428497",
+    "title": "모텔서 전 연인 둔기 폭행한 30대…달아나다 추락 '중환자실'",
+    "summary": [
+      "모텔서 전 연인 둔기 폭행한 30대…달아나다 추락 '중환자실'."
     ],
     "chips": [
       "#뉴스"
