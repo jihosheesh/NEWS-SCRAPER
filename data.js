@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-14 19:41:31
+// 마지막 업데이트: 2026-08-14 20:21:14
 window.NEWS_DB = [
   {
     "id": "nf3930c1d",
     "category": "IT",
     "source": "공공뉴스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1bk5PZ0FoYW5QYnM3SlRCZG1IVHM0QU9vbkFUa04zZnhrei1TYXI4VFFvenZZc0MyQjh5Z2d0RENLU2xhZTJydW1GQjdEQVljeVZjRlA5WVlEUDBGX0J3cGEwcl9jRHpGWlkzalBB0gFuQVVfeXFMUHVuTk9nQWhhblBiczdKVEJkbUhUczRBT29uQVRrTjNmeGt6LVNhcjhUUW96dllzQzJCOHlnZ3REQ0tTbGFlMnJ1bUZCN0RBWWN5VmNGUDlZWURQMEZfQndwYTByX2NEekZaWTNqUEE?oc=5",
     "title": "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱",
     "summary": [
@@ -49,28 +49,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne73322f0",
-    "category": "IT",
-    "source": "자본시장뉴스",
-    "time": "18시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fUk1SVEhXUFBTTW4xTW5xdzNXLVo3OVRfTy1aYXc4WUItVXloeW94XzdrTUVodnNCWGc5VFp6aVpLcG9uNjcyeGltZUFMOUtUZXBSYVl5N2ZkRHV4cllNV3A1Rmx4dHc?oc=5",
-    "title": "[초점] 메타·구글·아마존·MS의 반격…엔비디아의 위기인가 기회인가",
-    "summary": [
-      "[초점] 메타·구글·아마존·MS의 반격…엔비디아의 위기인가 기회인가 자본시장뉴스."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "ne2694309",
     "category": "스포츠",
-    "source": "news.nate.com",
+    "source": "네이트",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tWEJfd1NNQUh3UUhBQVF2V3l6eS1NaTk3N19QLUNqUnJMV2RoZS1NbnJBa2pxRHlOSlZIZU1pYmQtRXhFcUJIOVlwVmRxNmRGcjFQbjc5Tk0zalhySFBfVVByZEtKTVg3?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
     ],
     "chips": [
       "#KBO"
@@ -124,19 +110,34 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0d23d8d3",
+    "id": "n1f2010df",
     "category": "IT",
-    "source": "인사이트코리아",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81ekFkVVFhVHdKRlRHV3BXMEdmbVAwa1lPaUVPalRZWm0tb3ZpQmRhbmJ1eGpySmQ5dGpkaEZibFNMVXV1ZXB3b3ZHazRha0VQWGpGMHRqTF9Vc0xIMDdyZmJ1ajY3dkFCcXBYNGljMU1fM3FxTzRJ0gF3QVVfeXFMTzV6QWRVUWFUd0pGVEdXcFcwR2ZtUDBrWU9pRU9qVFlabS1vdmlCZGFuYnV4anJKZDl0amRoRmJsU0xVdXVlcHdvdkdrNGFrRVBYakYwdGpMX1VzTEgwN3JmYnVqNjd2QUJxcFg0aWMxTV8zcXFPNEk?oc=5",
-    "title": "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’",
+    "source": "m-i.kr",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
+    "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 - m",
     "summary": [
-      "제품도, 투자도, 채용도…삼성·SK하이닉스 HBM 혈투 ‘전면전’ 인사이트코리아."
+      "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 m-i.kr."
     ],
     "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "ne50ec99d",
+    "category": "IT",
+    "source": "경향신문",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSTUhWQkw3UEtoaFJIQTBlbkd0YXdPbVBtcWxVNVBfR01COW9XZGFIUEFEb2U5WFhLVTFhWmFqLWZwbTNHNnlCbkZIeWJwQXZWczdqMHMwX0I1UdIBX0FVX3lxTE1pcDdBUURUejI0dG1vZlJXXzRGS3VvT1JxTXlCWHViLUNjMzVCcklQZndkcjJyeDFmZVZFcWN2aVBfcjZ4UTk1bnBFUDZfcjh2T25fazNza1lkU04yUy1r?oc=5",
+    "title": "“공짜 AI가 반도체에도 좋다” 엔비디아, 개방형 AI 모델 첫 공개",
+    "summary": [
+      "“공짜 AI가 반도체에도 좋다” 엔비디아, 개방형 AI 모델 첫 공개 경향신문."
+    ],
+    "chips": [
+      "#AI",
       "#반도체",
-      "#SK하이닉스",
-      "#채용"
+      "#엔비디아"
     ]
   },
   {
@@ -157,12 +158,12 @@ window.NEWS_DB = [
   {
     "id": "nee123c1c",
     "category": "사회",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQWFtVWtrb3VLTDRqUnZGZHJWRFhJOUFTNkNqX3JIODZoOWdCbE5Zb2tlOEJ0dkloeGIwd1hZdmtpSEp2dFdBOUUzczJJaXk3NURLWmxoNktCUdIBWEFVX3lxTE1zc24wVmdiR0dqOXB5UHQ3MEtfdXVKZzFIY05BNVJuUUlFSjVBUkNRNUE3UUR4Z1JMYWktckdfY1BhX1BBc1BmQjNHdnpHdWQ3dVFlQ1d6UG0?oc=5",
     "title": "임병택표 일자리-온...AI로 취업 문턱 낮춘다",
     "summary": [
-      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 ajunews.com."
+      "임병택표 일자리-온...AI로 취업 문턱 낮춘다 아주경제."
     ],
     "chips": [
       "#AI",
@@ -187,12 +188,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "14일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
     ],
     "chips": [
       "#취업",
@@ -273,12 +274,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "77일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -301,16 +302,170 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9ca81e03",
+    "id": "nc4887464",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749594",
-    "title": "뉴욕 한복판에 뜬 '봉화사과'…공무원이 32만원 사비 들여 광고한 이유",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750400",
+    "title": "[속보]트럼프 \"매우 곧 호르무즈 해협 미국 영토로 선언할 것\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nede7153c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/economy/money/2026/08/15/NXZRB6M6DVEBDDEPEPJCNGZGJA/",
+    "title": "혈압 등 100가지 정보 측정하는 스마트워치, 2만원대 특별 할인",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 미국 뉴욕 한복판에 경북 봉화군 특산물인 봉화사과를 알리는 한글 광고가 등장해 눈길을 끌고 있다.",
-      "지역 홍보를 맡은 공무원이 직접 비용을 부담해 타임스퀘어 전광판에 광고를 내면서다.",
-      "지난 13일(현지 시간) 뉴욕 타임스퀘어 전광판에는 '봉화사과 맛있지만 광고 안 합니다'라는 문구가 담긴 15초짜리 영상이 송출됐다."
+      "혈압 등 100가지 정보 측정하는 스마트워치, 2만원대 특별 할인."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c723b68",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750396",
+    "title": "美하원의원, 트럼프 해외건조 허용 반발…\"일자리 유출\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 미국에 투자한 조선업체는 해외 조선소에서 최대 2척까지 미 해군 선박을 건조할 수 있도록 허용하자, 미국 정치권 일각에서는 곧바로 국내 일자리 유출이라는 비판이 제기됐다.",
+      "제러드 골든(민주·메인) 미 하원의원은 14일(현지 시간) 소셜미디어(SNS) 엑스(X)에 전날 트럼프 대통령이 관련 포고문에 서명한 것을 두고 \"이 행정부는 미국 조선업 일자리를 해외로 내보내는데 혈안이 돼 있."
+    ],
+    "chips": [
+      "#고용",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc7924efe",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815004800072",
+    "title": "美법무부 '원자재 큰손' 레이디언트 대출서류 위조의혹 조사",
+    "summary": [
+      "(뉴욕=연합뉴스) 이지헌 특파원 = 미 법무부가 글로벌 원자재 무역업체인 레이디언트 월드의 대출 서류 위조 의혹에 대해 조사하고 있다고 블룸버그..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n374b206d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/15/YPBXYYJINBGJHLFBZKH4JIEJ7I/",
+    "title": "62만세트 판매 넘었다, 뿌리고 30분 후 물로 씻어내니 새 집 같은 욕실과 주방",
+    "summary": [
+      "62만세트 판매 넘었다, 뿌리고 30분 후 물로 씻어내니 새 집 같은 욕실과 주방."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n64458ed8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815005200071",
+    "title": "트럼프 \"호르무즈 해협, 조만간 미국 영토로 선언할 것\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 14일(현지시간) \"호르무즈 해협을 조만간 미국 영토로 선언하게 될 것\"이라고..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4a7887c6",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750399",
+    "title": "[속보]뉴욕증시, 소폭 하락 마감…나스닥 0.28%↓",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 jeko@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e3290fb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815004900072",
+    "title": "국제유가, 호르무즈 유조선 피격·美 대이란 제재 예고에 1%대↑",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 14일(현지시간) 국제유가는 호르무즈 해협 내 유조선 피격 사건과 미국·이란 간 갈등에 따른 지정학적 위험이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n76a6b240",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/15/FA2WZWAHVREKRFYEWLKUTN2MEY/",
+    "title": "지금 가장 맛있는 과일은 아오리 사과, 5kg 한 상자 4만원대 초특가",
+    "summary": [
+      "지금 가장 맛있는 과일은 아오리 사과, 5kg 한 상자 4만원대 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2347f902",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815004700091",
+    "title": "\"앤트로픽 CEO 아내, 엡스틴에 여성향 포르노 투자제안 이력\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 모델 클로드를 개발하는 앤트로픽 최고경영자(CEO)의 아내가 성범죄자 제프리 엡스틴에..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n3b6bbb79",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003750273",
+    "title": "광복절 인천, 낮 최고기온 31도…5~50㎜ 소나기 예보",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 광복절인 15일 인천은 낮 최고기온이 30도 안팎으로 오르고 소나기가 내리겠다.",
+      "하늘은 북태평양 고기압의 가장자리에 들어 대체로 흐리겠다 수도권기상청은 \"아침 최저기온은 25도, 낮 최고기온은 31도 내외의 분포를 보이겠다\"며 \"오전부터 밤 사이 소나기가 내리는 곳이 있겠다\"고 예보했다.",
+      "소나기에 의한 인천 지역 예상 강수량은 5~50㎜다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n988c8824",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/15/V3RELXCU2NFSHPHBPP3UYASH4I/",
+    "title": "60 넘으면 나는 퀴퀴한 냄새, 특허 성분이 냄새 분자 완벽 분해 바디워시",
+    "summary": [
+      "60 넘으면 나는 퀴퀴한 냄새, 특허 성분이 냄새 분자 완벽 분해 바디워시."
     ],
     "chips": [
       "#뉴스"
@@ -320,7 +475,7 @@ window.NEWS_DB = [
     "id": "n9e923430",
     "category": "경제",
     "source": "테크M",
-    "time": "8분 전",
+    "time": "48분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154358",
     "title": "\"우유 의존도 낮추고 해외 영토 확장\"...남양유업, 상반기 매출-영업익 동반 성장",
     "summary": [
@@ -333,136 +488,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n705d7872",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/15/HBSDSNRZHA4TANBVMFTDANJUGQ/",
-    "title": "'39경기 38승 1패' 안세영, 마지막 변수는 왼발...3년 만의 세계선수권 우승 정조준 \"내게 맞는 경기 할 것\"",
-    "summary": [
-      "[OSEN=정승우 기자] '배드민턴 여왕' 안세영(24, 삼성생명)이 완전하지 않은 왼발 상태로 세계선수권 정상 탈환에 도전한다.",
-      "지난 3월 전영 오픈부터 이어진 통증은 아직 남아 있지만, 경기 출전에는 문제가 없다는 판단이다.박주봉 감독이 이끄는 배드민턴 국가대표팀은 14일 2026 세계배드민턴연맹(BWF) 세계선수권대회가 열리는 인도 뉴델리로 출국했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd2f9a898",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750395",
-    "title": "백악관 \"트럼프, 유가 하락·이란 핵 포기 똑같이 중요시\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 백악관이 이란 전쟁에서 유가를 안정화시키는 것과 이란이 핵무기를 포기하는 것에 동일한 우선순위를 두고 있다고 14일(현지 시간) 밝혔다.",
-      "백악관공동취재단에 따르면 캐럴라인 레빗 백악관 대변인은 이날 미국 뉴욕으로 향하는 에어포스원 기내에서 어느 것이 더 중요하냐는 취재진 질문에 \"트럼프 대통령에게는 두가지 목표가 똑같이 중요하다고 생각한다\"고 답했다.",
-      "이어 \"우리는 기름값을 낮게 유지하길 원하고, 이란이."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9f606433",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815003700071",
-    "title": "美, 고강도 이란 경제제재 예고…\"전례없는 고립 조치 적용\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국이 다음 주 이란을 상대로 한 고강도 경제 제재를 예고했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nc1e302f4",
     "category": "IT",
     "source": "테크M",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154357",
     "title": "[BIC 26] \"계속 할 수 있을까\" 생존 고민하는 인디게임, 창작 이어가게 만든 힘은",
     "summary": [
       "인디게임 개발자에게 작품의 완성은 끝이 아니다.",
       "다음 작품을 만들 수 있을지, 개발비를 어떻게 마련할지, 이 일을 계속해도 괜찮을지 끊임없이 고민해야 한다.",
       "그럼에도 자신이 구상한 세계를 직접 구현하고 이용자와 나누는 즐거움 때문에 다시 개발을 이어간다.14일 부산 벡스코에서 막을 올린 '부산인디커넥트페스티벌 2026(BIC 26)'은 이런 인디 개발자들의 창작물과 고민을 함께 만날 수 있는 자리였다.올해로 12회째를 맞은 BIC 26은 '버프."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncd1973d1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750394",
-    "title": "프랑스, '조력 사망' 합법화…헌법위 최종 관문 통과",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 프랑스 헌법 재판기관이 14일(현지 시간) 불치병에 걸린 성인 환자에게 조력 사망을 허용하는 법안을 합헌이라고 판단했다.",
-      "르몽드 등에 따르면 프랑스 헌법위원회는 이날 지난 7월 의회를 통과한 조력 사망 법안에 대해 전면 합헌이라고 승인했다.",
-      "이에 따라 프랑스는 네덜란드, 벨기에, 스위스, 캐나다에 이어 조력 사망을 합법화하게 됐다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n42e7f1fe",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003750349",
-    "title": "'드라마 거장' 안판석 감독, 오늘 영면",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 드라마계 거장 안판석(65) 감독이 영면에 든다.",
-      "15일 방송가에 따르면, 안 감독의 발인식이 이날 오전 9시30분 서울 종로구 서울대학교병원 장례식장에서 엄수된다.",
-      "고인은 뇌출혈 투병 생활을 이어오다 지난 12일 별세했다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n80887c8e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "43분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815003200079",
-    "title": "후티 반군, 이틀 연속 사우디 국영석유회사 시설 공격 주장",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 후티 반군이 이틀 연속 사우디아라비아 국영 석유회사 아람코 시설을 공격했다고 주장했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nca93d6bc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815003000082",
-    "title": "독일로 번진 산불…2차대전 불발탄 잇따라 폭발",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 독일 서부에서 산불이 발생해 제2차 세계대전 이후 방치된 불발탄이 잇따라 터지고 있다고 일간 프랑크푸르터알..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n76a5a355",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815003100071",
-    "title": "美, 중동 다국적 공격드론TF 띄운다…'무기재고 부족' 우려 덜까",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미군이 중동 지역에서 미국과 역내 파트너국들의 공중·해상·수중 공격 드론 전력을 통합 운용하는 사상 첫 다..."
     ],
     "chips": [
       "#뉴스"
@@ -486,7 +521,7 @@ window.NEWS_DB = [
     "id": "nf2f1b0f3",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154354",
     "title": "빗썸, 상반기 영업이익 149억원…거래 위축에도 흑자 유지",
     "summary": [
@@ -502,55 +537,13 @@ window.NEWS_DB = [
     "id": "naca1e5ab",
     "category": "스포츠",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154353",
     "title": "두나무, 상반기 매출 4081억원…시장 위축에도 1000억원대 영업익",
     "summary": [
       "가상자산거래소 업비트를 운영하는 두나무가 글로벌 디지털자산 시장의 거래 위축 영향으로 올해 상반기 매출과 영업이익이 감소했다.",
       "다만 거래대금 감소에도 1000억원대 영업이익을 유지하며 견조한 수익성을 이어갔다.14일 두나무가 금융감독원 전자공시시스템에 공시한 반기보고서에 따르면 올해 상반기 연결 기준 영업수익은 4081억원으로 전년 동기 8019억원보다 49.1% 감소했다.",
       "영업이익은 1115억원으로 지난해 같은 기간 5491억원보다 79.7%."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naed5dd9a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/15/C4FYMU7L7RDXHL32IDM2JVPTU4/",
-    "title": "남편 휴대전화에서 나온 사진",
-    "summary": [
-      "남편 휴대전화에서 나온 사진."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n20bfcef0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/15/GU4DKPTKZFCOLNFI4FNBSN3KYI/",
-    "title": "집 팔아 유학 보낸 달맞이꽃 딸, 내년 칠순엔 다녀갈까",
-    "summary": [
-      "집 팔아 유학 보낸 달맞이꽃 딸, 내년 칠순엔 다녀갈까."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne8c20d5a",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/15/K6JG5PLZNRDHDGT5HE4DEAJP4U/",
-    "title": "“공공주택만으론 한계… 그린벨트 풀고 도시계획 개혁해야”",
-    "summary": [
-      "“공공주택만으론 한계… 그린벨트 풀고 도시계획 개혁해야”."
     ],
     "chips": [
       "#뉴스"
@@ -620,7 +613,7 @@ window.NEWS_DB = [
     "id": "n97a15a85",
     "category": "경제",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://view.asiae.co.kr/article/2026081502195518706",
     "title": "프리즈 서울, 내년 DDP로 옮긴다…키아프와 첫 분리 개최",
     "summary": [
@@ -639,20 +632,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
