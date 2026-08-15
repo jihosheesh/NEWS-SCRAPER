@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-15 19:13:40
+// 마지막 업데이트: 2026-08-15 20:11:01
 window.NEWS_DB = [
   {
     "id": "n24495d23",
@@ -50,12 +50,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "businesspost.co.kr",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -171,12 +171,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -199,12 +199,12 @@ window.NEWS_DB = [
   {
     "id": "n1a764c5a",
     "category": "부동산",
-    "source": "newspim.com",
+    "source": "뉴스핌",
     "time": "23일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXQ1a1BmNlN6TVZWV29ucG5jajY3WlJIb2FQNEVPMnJXRWdYVHhxWnFnb3R6MG8tX3lsTTFxNFdFVjlzNmtMaFZVV0UtUUN1VWc4VEVScy1iWFIt?oc=5",
     "title": "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자",
     "summary": [
-      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 newspim.com."
+      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 뉴스핌."
     ],
     "chips": [
       "#부동산"
@@ -256,12 +256,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "78일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -299,32 +299,149 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neb109157",
-    "category": "경제",
+    "id": "n83703286",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750450",
-    "title": "삼성전자 소액주주 797만명…전체 인구 중 15%가 보유",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750791",
+    "title": "강부자, 죽을 고비 넘긴 아들 생각에 울먹…\"차라리 내가 다쳤으면\"",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 삼성전자 소액주주가 올해 상반기 800만명에 육박했다.",
-      "대한민국 인구 약 5160만명과 비교하면 삼성전자 소액주주 수는 전체 인구의 약 15.5%에 해당한다.",
-      "단순 계산으로는 국민 약 6.5명 중 1명꼴이다."
+      "[서울=뉴시스]강주희 기자 = 배우 강부자가 아들의 투병 당시를 떠올리며 눈시울을 붉혔다.",
+      "15일 방송된 MBN '김주하의 데이앤나잇'에는 강부자가 게스트로 출연했다.",
+      "이날 강부자는 중학교에 갓 입학했던 아들이 6개월간 병원에 입원했던 사연을 공개했다."
     ],
     "chips": [
-      "#삼성전자"
+      "#교육",
+      "#의료"
     ]
   },
   {
-    "id": "n8a790243",
+    "id": "n6ab1d2cd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816003100527",
+    "title": "전남 무안남부에 호우경보…여수 등 5곳 강풍주의보",
+    "summary": [
+      "(광주=연합뉴스) 기상청은 16일 오전 5시를 기해 무안남부에 호우경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e0c7d96",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816003000527",
+    "title": "전남 목포에 호우주의보…해남남부·해남북부에 호우경보 유지",
+    "summary": [
+      "(광주=연합뉴스) 기상청은 16일 오전 4시 40분을 기해 목포에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb3f8742e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816002900527",
+    "title": "전남 영암·무안남부에 호우주의보",
+    "summary": [
+      "(광주=연합뉴스) 기상청은 16일 오전 4시 30분을 기해 영암·무안남부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7717698f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816002800527",
+    "title": "제주 서귀포시동부에 호우주의보…제주도산지에 호우경보 유지",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 16일 오전 4시 30분을 기해 제주 서귀포시동부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbfc319ef",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003750795",
-    "title": "대구·경북 흐리고 120㎜ 이상 많은 비…낮 최고 27도",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750734",
+    "title": "일요일 인천, 20~60㎜ 비 예보…낮 최고 31도",
     "summary": [
-      "[대구=뉴시스]정재익 기자 = 16일 대구·경북은 강하고 많은 비가 내리겠다.",
-      "대구지방기상청은 이날 \"대구·경북은 대체로 흐리고 비가 내리겠다\"고 예보했다.",
-      "전날부터 17일까지 대구·경북의 예상 강수량은 50~100㎜다."
+      "[인천=뉴시스] 전예준 기자 = 16일 인천은 낮 최고기온이 31도까지 오르고 비가 내려 대체로 흐리겠다.",
+      "수도권기상청은 \"아침 최저기온은 24도, 낮 최고기온은 30도 내외의 분포를 보이겠다\"며 \"내일 오전까지 대부분 지역에 비가 내리겠다\"고 예보했다.",
+      "인천의 예상 강수량은 20~60㎜다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ccc2746",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003750812",
+    "title": "바텐더로 일하던 36세 AOC, 미 민주당 대선판 앞줄에 섰다",
+    "summary": [
+      "[서울=뉴시스]박영환 기자 = 미국 민주당의 대표적 진보 정치인 알렉산드리아 오카시오코르테스(36) 하원의원이 2028년 대선에서 경쟁력을 갖춘 잠재 주자로 부상하고 있다.",
+      "뉴햄프셔주 가상 경선 조사에서 선두권에 오르고 당 지도부의 인정도 받고 있지만, 본선에서 승부하려면 중도층과 흑인 유권자층으로 지지 기반을 넓혀야 한다.",
+      "영국 가디언은 15일(현지시간) 오카시오코르테스 의원이 2028년 대선 후보로 거론되는 배경과 정치적 한계를 분석했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd3eea85d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750790",
+    "title": "강부자, '뚜쟁이' 루머에 억울…\"맹세코 5만원도 받은 적 없어\"",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 배우 강부자가 재계 인사들과의 친분 때문에 수십 년간 '뚜쟁이'라는 루머에 시달렸다고 밝혔다.",
+      "15일 방송된 MBN '김주하의 데이앤나잇'에는 강부자가 게스트로 출연했다.",
+      "이날 강부자는 고(故) 이병철 삼성 창업회장, 고(故) 정주영 현대그룹 명예회장과의 인연부터 자신을 둘러싼 루머를 언급했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e7de0f8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/16/HTC2AQSBPNAMTGSILOHW54IHDE/",
+    "title": "연간 310만봉 팔리는 ‘남가네 설악추어탕’, 한 그릇 3000원 조선몰 단독 특가",
+    "summary": [
+      "연간 310만봉 팔리는 ‘남가네 설악추어탕’, 한 그릇 3000원 조선몰 단독 특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf4342416",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/16/IBPO22KDKZDIHJTKKWO62DNK3Q/",
+    "title": "270만병 판매 넘었다, 평균 56.2% 탈모 완화 임상 ‘카이스트 샴푸’",
+    "summary": [
+      "270만병 판매 넘었다, 평균 56.2% 탈모 완화 임상 ‘카이스트 샴푸’."
     ],
     "chips": [
       "#뉴스"
@@ -334,7 +451,7 @@ window.NEWS_DB = [
     "id": "n8c1c41a8",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/world-football/2026/08/16/MIYTENDGGA4GIMZYGIYDIYLBHE/",
     "title": "[오피셜]이강인 지원군 도착! 크리스티안 로메로, 토트넘 떠나 아틀레티코 마드리드 입성 \"이 아름다운 팀 역사에 이름 남기고 싶다\"",
     "summary": [
@@ -350,7 +467,7 @@ window.NEWS_DB = [
     "id": "ndde504b1",
     "category": "IT",
     "source": "테크M",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154373",
     "title": "[BIC 26] 닮은 게임이 없다...332色 인디게임 속으로 남녀노소 '풍덩'",
     "summary": [
@@ -363,88 +480,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n15db98ad",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816001800071",
-    "title": "트럼프, 이번엔 김정은과 판문점 회동 사진 게시…\"사이 좋아\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령이 15일(현지시간) 김정은 북한 국무위원장과의 '판문점 번개 회동' 사진을 소셜..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n73954d1e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "37분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/16/GFSWGNTEMEYDINZXMJQTOOBTHA/",
-    "title": "천재타자 실책 만회 35호포 \"죄송합니다\"→대투수 1사2,3루 위기 삭제 \"서로 퉁쳤다\"...이것이 낭만야구 아닌가",
-    "summary": [
-      "[OSEN=광주, 이선호 기자] \"우리 퉁 쳤다\".대투수와 천재타자가 한 여름 밤 낭만을 주고 받았다.",
-      "김도영은 찬스에서 클러치 타격을 못했다.",
-      "게다가 송구 실책으로 결정적 실점 위기를 불렀다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n06112831",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "53분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749701",
-    "title": "\"야생동물 방해는 위법\"…잠든 북극곰 깨웠다가 벌금 744만원",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 노르웨이에서 잠들어 있던 북극곰을 깨우기 위해 뱃고동을 울린 사람이 벌금형을 받았다.",
-      "지난 13일(현지시간) 영국 BBC는 노르웨이 스발바르 제도에서 경적을 울려 북극곰을 깨운 인물에게 5만 크로네(약 744만원)의 벌금이 부과됐다고 보도했다.",
-      "해당 인물은 벌금 납부에 동의한 것으로 전해졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n458ea8a4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749202",
-    "title": "\"BMI는 정상인데\"…정상 체중이어도 뱃살 많으면 심혈관질환 위험↑",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 체질량지수(BMI)가 정상 범위에 있더라도 배에 지방이 많이 쌓인 사람은 심혈관질환의 위험이 높아진다는 연구 결과가 나왔다.",
-      "지난 11일(현지 시간) 영국 텔레그래프는 존스홉킨스대학교 연구진의 논문을 인용해서 몸무게가 정상 범위에 있더라도 복부 지방이 많이 쌓인 사람은 심혈관질환 및 사망 위험이 높아질 수 있다고 보도했다.",
-      "연구진은 26만명의 데이터를 분석해서 BMI 지수와 심혈관질환 사이의 연관성을 검증했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n92805470",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/2026/08/16/4M2ILRWB6BG5NE22UH74ZAW2AA/",
-    "title": "전 세계 6000명만 누리는 호사… AI와 틸레만이 만든 바그너",
-    "summary": [
-      "오늘은 8월13일 밤, 지금 독일 남부 바이에른 지방의 소도시 바이로이트다.",
-      "조금 전 바이로이트 축제극장에서 ‘니벨룽의 반지’ 2부 ‘발퀴레’를 보고 왔다.",
-      "크리스티안 틸레만이 지휘하고, 바리톤 미카엘 폴레, 테너 클라우스 플로리안 포크트, 소프라노 카밀라 닌룬트 등 당대 최고 바그너 가수들이 출연했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "n106c2cde",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154372",
     "title": "[BIC 26] 인디게임 생태계에 '빅잼' 안긴 펄어비스...9년 동행에 감사패",
     "summary": [
@@ -456,54 +495,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n410644a1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816001300527",
-    "title": "서귀포시동부·제주시동부에 호우주의보",
-    "summary": [
-      "(제주=연합뉴스) 기상청은 16일 오전 2시 40분을 기해 서귀포시동부·제주시동부에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n370d3fbc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816001200071",
-    "title": "美민주 2028 대선 경선 순서 보니…'흑인·라틴계 주력' 메시지",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 민주당이 15일(현지시간) 텍사스주 오스틴에서 열린 전국위원회(DNC) 회의에서 2028년 대선후보 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n124dd4a4",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816001100091",
-    "title": "엔비디아, 30조원어치 스페이스X 지분 보유…'순환거래' 우려",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 반도체 선두 주자 엔비디아가 일론 머스크의 우주기업 스페이스X의 지분을 대량 보유한 ..."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n8937555a",
     "category": "IT",
     "source": "테크M",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154371",
     "title": "[BIC 26] '골드 스폰서' 지원 나선 스토브...인디게임 생태계 동반자 역할 '톡톡'",
     "summary": [
@@ -519,7 +514,7 @@ window.NEWS_DB = [
     "id": "n7b15e3d1",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260816/134483499/1",
     "title": "‘송민규 2골 1도움’ K리그1 서울, 대전에 4-2 짜릿한 역전승",
     "summary": [
@@ -533,7 +528,7 @@ window.NEWS_DB = [
     "id": "n25ccedfa",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026081422227",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 16일 띠별 추천 점심메뉴",
     "summary": [
@@ -547,7 +542,7 @@ window.NEWS_DB = [
     "id": "n5a006a48",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026081300867",
     "title": "[오늘의 운세] 2026년 8월 16일 별자리 운세",
     "summary": [
@@ -561,7 +556,7 @@ window.NEWS_DB = [
     "id": "nab8c6e09",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026081421997",
     "title": "[오늘의 운세] 2026년 8월 16일 오행별 행운의 컬러",
     "summary": [
@@ -575,7 +570,7 @@ window.NEWS_DB = [
     "id": "n813f84d7",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260815/134483490/1",
     "title": "중국 진출설 일축한 FC서울 김기동 감독…“난 서울 사랑해”",
     "summary": [
@@ -586,25 +581,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne9985b37",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "5시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081522470186098",
-    "title": "용산구 \"용산공원 주택 공급 검토에 강력 반대\"",
-    "summary": [
-      "서울 용산구가 정부의 용산공원 주택 공급 검토 방침에 정면으로 반대하고 나섰다.",
-      "구는 15일 입장문을 내고 김윤덕 국토교통부 장관이 용산어린이정원을 넘어 용산공원 전체를 주택 공급 후보지로 검토하겠다고 밝힌 데 대해 깊은 유감을 표하며 강력히 반대한다고 밝혔다.용산구는 \"용산공원은 120년 만에 국민의 품으로 돌아오는 서울 도심의 마지막 대규모 국가공원\"이라며 \"국가의 상징공간이 될 용산공원을 '주택공급에 활용."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "ne1803726",
     "category": "사회",
     "source": "동아일보",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260815/134483466/1",
     "title": "인니 7.7 강진 사망자 47명…북수마트라서 또 6.9 지진",
     "summary": [
@@ -620,7 +600,7 @@ window.NEWS_DB = [
     "id": "na5112c0e",
     "category": "스포츠",
     "source": "ZDNet Korea",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260815221004",
     "title": "마이클 오언, 이하마켓츠 글로벌 브랜드 앰배서더로 합류",
     "summary": [
@@ -630,6 +610,20 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
+  },
+  {
+    "id": "nf7ead1c9",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "7시간 전",
+    "url": "https://www.hankyung.com/article/2026081534787",
+    "title": "\"이 소스 매일 먹어요\" 아이돌 고백에…경고 쏟아졌다 [건강!톡]",
+    "summary": [
+      "\"이 소스 매일 먹어요\" 아이돌 고백에…경고 쏟아졌다 [건강!톡]."
+    ],
+    "chips": [
+      "#의료"
+    ]
   }
 ];
 
@@ -638,20 +632,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "3370건",
+    "trend": "+415%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
