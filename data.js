@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-15 12:16:52
+// 마지막 업데이트: 2026-08-15 13:22:20
 window.NEWS_DB = [
   {
     "id": "n24495d23",
     "category": "IT",
     "source": "조선일보",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
@@ -158,12 +158,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "15일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
@@ -186,16 +186,30 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "스포츠",
-    "source": "startupn.kr",
+    "category": "IT",
+    "source": "스타트업엔(StartupN)",
     "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n1a764c5a",
+    "category": "부동산",
+    "source": "뉴스핌",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXQ1a1BmNlN6TVZWV29ucG5jajY3WlJIb2FQNEVPMnJXRWdYVHhxWnFnb3R6MG8tX3lsTTFxNFdFVjlzNmtMaFZVV0UtUUN1VWc4VEVScy1iWFIt?oc=5",
+    "title": "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자",
+    "summary": [
+      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 뉴스핌."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -242,20 +256,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79d12fb6",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "78일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
-    "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -286,17 +286,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
+    "id": "ncfe36f66",
+    "category": "IT",
     "source": "테크M",
-    "time": "136일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154374",
+    "title": "[BIC 26] 전문가·이용자가 함께 뽑았다....반지하게임스 '보존계' 인디페스트 1위",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "부산인디커넥트페스티벌조직위원회(이하 BIC 조직위)는 구글플레이와 함께 진행한 'BIC x 구글플레이 인디페스트 어워즈'에서 반지하게임즈의 '보존계'가 1위를 차지했다고 15일 밝혔다.이번 어워즈는 '부산인디커넥트페스티벌 2026(BIC 2026)' 참가작 가운데 우수 인디게임을 발굴하고 개발사의 성장을 지원하기 위해 마련됐다.",
+      "총상금은 5000만원이다.BIC 조직위는 PC와 모바일 등 플랫폼을 구분하지 않고 게임의 완성도와 독창성을 평가해 2."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
@@ -347,27 +348,58 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n78168fc2",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154370",
-    "title": "[글로벌] 메타 AI 스마트안경, 독일서 형사고발...촬영 표시등 적절성 쟁점",
+    "id": "n73a5fafa",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750771",
+    "title": "'역전패' 대전 황선홍 감독 \"전적으로 내 실수…전술 패착\"",
     "summary": [
-      "메타의 AI 스마트안경이 상대방 모르게 사진이나 영상을 촬영할 수 있다는 이유로 독일에서 형사 고발됐습니다.15일 주요 외신들에 따르면 독일 시민단체 헤이트에이드는 메타의 '레이밴 메타 웨이페어러'가 현지 개인정보 보호 법률을 위반했다며 메타와 안경 제조사 에실로르룩소티카, 제품을 판매한 유통업체 관계자들을 고발했습니다.",
-      "일반 안경과 외관상 구별하기 어려워 촬영 대상자가 자신이 촬영되고 있다는 사실을 제대로 알기 어렵다는 주장입니다.고발장은 프."
+      "[서울=뉴시스] 하근수 기자 = 프로축구 K리그1 대전하나시티즌의 황선홍 감독이 FC서울 원정에서 당한 쓰라린 역전패를 자책했다.",
+      "대전은 15일 서울월드컵경기장에서 열린 서울과의 하나은행 K리그1 2026 23라운드 원정 경기에서 2-4로 졌다.",
+      "2연승이 끊긴 대전은 승점 26(6승 8무 9패)으로 9위에 머물렀다."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne1de11de",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815051100007",
+    "title": "[프로야구 광주전적] KIA 6-1 두산",
+    "summary": [
+      "[프로야구 광주전적] KIA 6-1 두산."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nd9921cf6",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750764",
+    "title": "KIA, 6-1로 두산 꺾고 반 경기차 추격…'6이닝 1실점' 양현종, 시즌 8승",
+    "summary": [
+      "[서울=뉴시스]문채현 기자 = 프로야구 KIA 타이거즈가 투타 밸런스를 앞세워 4위 추격을 향한 방아쇠를 당겼다.",
+      "KIA는 15일 광주-기아챔피언스필드에서 열린 2026 신한 쏠 KBO리그 홈 경기에서 두산 베어스를 6-1로 꺾고 연패를 탈출했다.",
+      "시즌 55승(2무 48패)째를 수확한 KIA는 4위 두산(55승 4무 47패)과의 격차를 0.5경기차로 좁혔다."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
     "id": "n4659c66e",
     "category": "사회",
     "source": "조선일보",
-    "time": "3분 전",
+    "time": "11분 전",
     "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/GFRDAZRWHBQWKZTGGIYTIOLBMU/",
-    "title": "정일영, 리센느 팬카페 가입했다..\"음악방송 1위 축하하고 싶어서\"",
+    "title": "정일영, 디지털 문해 교육 받아 리센느 팬카페 가입..\"1위 축하하고 싶어\"",
     "summary": [
       "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 프랑스어 전문가 겸 방송인 정일영이 리센느 팬카페에 글 남기기를 도전했다.",
       "지난 12일 유튜브 채널 '악성내성인 정일영'에는 '할아버지 배울 때까지 못 나가요 (아버지 침착맨)'이라는 제목의 영상이 게재됐다.이날 정일영은 침착맨에게 디지털 교육을 받았다.",
@@ -378,165 +410,211 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb86bab20",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750763",
-    "title": "與 최고위원 1위 뒤바뀌어…박선원·최민희·서미화·김용·한민수順(종합)",
-    "summary": [
-      "[서울=뉴시스]신재현 김난영 권신혁 기자 = 더불어민주당 8·17 전당대회 전국순회경선이 15일 전남광주·전북에서 진행된 결과 최고위원 순위가 뒤바뀌었다.",
-      "당초 친청계(친정청래계) 최민희 후보가 선두를 달리고 있었으나 이날부로 친명계(친이재명계) 박선원 후보가 1위에 올라섰다.",
-      "민주당이 이날까지 6개 권역 중 5개 권역에서 순회경선을 마친 결과 박선원 후보는 17.70%(15만9462표)로 8명의 최고위원 후보들 가운데 누적 득표수와 득표율 1."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7d095c34",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750725",
-    "title": "'마줄스호' 한국 남자농구, 역사적인 광복절 한일전서 68-88 완패",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = '마줄스호' 남자 농구 국가대표팀이 제81주년 광복절에 치러진 숙명의 한일전에서 20점 차 완패를 당했다.",
-      "니콜라이스 마줄스(라트비아) 감독이 이끄는 농구 대표팀은 15일 일본 도쿄의 아리아케 아레나에서 열린 일본과의 2026 남자 농구 국가대표 평가전 첫 경기에서 68-88로 졌다.",
-      "두 팀은 내일 같은 시간 같은 장소에서 두 번째 경기를 벌인다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n20628199",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750762",
-    "title": "김민석, 與 텃밭 호남서 과반 압승으로 우세 선점…'마지막 승부처' 서울·경기 주목",
-    "summary": [
-      "[서울=뉴시스] 김난영 기자 = 더불어민주당 전통적 텃밭이자 당권 경쟁 최대 승부처인 호남에서 김민석 후보가 과반 득표로 정청래 후보를 제쳤다.",
-      "김 후보와 정 후보의 누적 득표율 차이가 10% 이상 벌어진 가운데, 마지막 승부처인 서울·경기 58만 당원 표심의 향방이 주목된다.",
-      "민주당 중앙당 선관위 발표 결과를 종합하면 김 후보는 현재까지 진행한 5개 권역 누적 권리당원 투표 결과 총 45만360표 중 23만5128표(52.21%)를 얻었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na6feda00",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750766",
-    "title": "1237회 로또 1등 각 12억씩…자동 14명·수동 9명(종합)",
-    "summary": [
-      "[서울=뉴시스]조수원 기자 = 15일 제1237회 동행복권 로또 추첨 결과 10, 20, 23, 34, 37, 40이 1등 당첨 번호로 결정됐다.",
-      "2등 보너스 번호는 36다.",
-      "6개 번호를 모두 맞춘 1등 당첨자는 23명이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc93785a3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/15/PRLTFSRSQBBQZHIJNQCJICLRFQ/",
-    "title": "경남 가뭄에 전국 소방차 총동원…나흘간 3만5000t 공급",
-    "summary": [
-      "경남 가뭄에 전국 소방차 총동원…나흘간 3만5000t 공급."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0336478",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815049200007",
-    "title": "[농구대표팀 평가전 전적] 한국 68-88 일본",
-    "summary": [
-      "[농구대표팀 평가전 전적] 한국 68-88 일본."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n78302ba1",
+    "id": "n45069b24",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/G42TQNBSMNSDCNTEHFSWMYJUGE/",
-    "title": "최고 19.1%+남궁민 대상 ‘스토브리그’ 시즌2 없나..이신화 작가, 제작사와 계약 종료",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/15/GMYGIYJYGVSTIMZZMVRWCODCGA/",
+    "title": "'무려 11개월을 기다렸다' SSG 한유섬, 49경기만에 시즌 첫 홈런[잠실 현장]",
     "summary": [
-      "[OSEN=김채연 기자] 인기 야구 드라마 ‘스토브리그’를 집필한 이신화 작가가 제작사와 결별을 알렸다.지난 14일 이신화 작가는 개인 인스타그램을 통햐 “오랜만에 소식을 남기는 것 같다.",
-      "결론부터 말씀드리자면 북산 엔딩이었다.",
-      "얼마 전 소속했던 제작사와의 계약을 종료했다”고 밝혔다.이날 이신화 작가는 “그동안 만들었던 많은 이야기들이 있었지만 다양한 사연."
+      "[잠실=스포츠조선 나유리 기자]SSG 랜더스 한유섬이 그토록 기다렸던 시즌 첫 홈런을 터뜨렸다.",
+      "한유섬은 15일 잠실 LG 트윈스전에서 5회초 솔로 홈런을 기록했다.",
+      "LG 선발 투수 박시원을 상대한 한유섬은 SSG가 0-1로 뒤진 5회초 이닝 선두타자로 타석에 섰고, 1B에서 2구째 슬라이더를 타격했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbd5a25d6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/15/G44WKZBTGFRDANRSGUYDOOJVGQ/",
+    "title": "대투수 123일만에 QS 역투 194승, 김도영 35호포, 박재현 2타점, 와~ 이의리 158km...KIA 6-1 설욕, 두산 3연승 실패 [광주 리뷰]",
+    "summary": [
+      "[OSEN=광주, 이선호 기자] KIA 타이거즈가 대투수의 호투를 앞세워 설욕했다.",
+      "15일 광주-기아 챔피언스필드에서 열린 2026 신한은행 SOL KBO리그 두산 베어스와의 팀간 14차전을 6-1로 승리했다.",
+      "전날 패배를 설욕하며 두산에 다시 반게임차로 접근했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "na16107c0",
-    "category": "경제",
+    "id": "n2b09e517",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/GNRWMYRYGI2TSNDDMVRDONJRMM/",
-    "title": "‘주식 1억 손실’ 미자, 물에 밥 말아먹자 父 장광도 걱정 “요즘 많이 어렵냐”(미자네 주막)",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/15/MJRTSNZSGZSDIOLBGBRDENBUMM/",
+    "title": "문정빈·박동원 홈런+오스틴 3안타 폭발! LG, SSG 4-1 제압…손주영, 4아웃 세이브 성공→23세이브 [잠실 리뷰]",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 코미디언 미자가 근황을 전했다.15일 채널 ‘미자네 주막’에는 ‘주식 다 말아먹고 밥에 물 말아먹는 40대 여자’라는 영상이 게재됐다.이날 미자는 본가를 찾아 식구들과 식사하는 시간을 가졌다.",
-      "미자는 다른 가족들과 달리 물에 만 밥과 간장으로 식사를 했고, 가족들은 미자에게 “요즘 많이 어렵냐”."
+      "[OSEN=길준영 기자] 프로야구 LG 트윈스가 주말 3연전 승부를 1승 1패 원점으로 되돌렸다.",
+      "LG는 15일 서울 잠실구장에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에서 4-1로 승리했다.",
+      "LG는 박해민(중견수) 송찬의(좌익수) 오스틴 딘(지명타자) 문정빈(1루수) 박동원(포수) 오지환(유격수) 이재원(우익수) 구본."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "naa826b59",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815050800007",
+    "title": "[프로야구 잠실전적] LG 4-1 SSG",
+    "summary": [
+      "[프로야구 잠실전적] LG 4-1 SSG."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4dd10d7f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026081522052182229",
+    "title": "'호남 압승'으로 1차 과반 노리는 金…수석최고위원도 뒤바뀌어(종합)",
+    "summary": [
+      "더불어민주당 8·17 전당대회 최대 승부처로 꼽히는 호남권에서 김민석 당대표 후보가 압승을 거두며 차기 당권에 성큼 다가섰다.",
+      "선호투표제 적용 없이 김 후보가 1차에서 과반 승리할 가능성도 커졌다.",
+      "민주당 중앙당 선거관리위원회는 15일 호남권(전남광주·전북) 권리당원 투표 결과를 발표했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7f39b3a5",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815050351007",
+    "title": "'송민규 2골1도움' 서울, 대전에 역전승…K리그1 4경기만의 승리(종합)",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = 프로축구 K리그1 FC서울이 대전하나시티즌에 짜릿한 역전승을 거두고 선두를 질주했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb9c97be6",
+    "id": "nbf3e4e8b",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750721",
+    "title": "'송민규 2골 1도움' K리그1 서울, 대전에 4-2 짜릿한 역전승(종합)",
+    "summary": [
+      "[서울=뉴시스]하근수 안경남 기자 = 프로축구 K리그1 선두 FC서울이 안방에서 대전하나시티즌에 짜릿한 대역전승을 거뒀다.",
+      "서울은 15일 서울월드컵경기장에서 열린 대전과의 하나은행 K리그1 2026 23라운드 홈 경기에서 4-2로 이겼다.",
+      "이로써 서울은 승점 47(14승 5무 4패)이 되면서 선두 자리를 굳혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd31fb29a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815030851530",
-    "title": "교부금 개편 놓고 최교진-박홍근 '막판 대치'…발표 지연 가능성(종합)",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815050600527",
+    "title": "제주시중산간에 호우주의보",
     "summary": [
-      "(세종=연합뉴스) 고상민 기자 = 지방교육재정교부금(교부금) 개편이 교육부와 기획예산처의 입장차로 난항을 겪는 가운데 두 부처 수장이 직접 '전..."
+      "(제주=연합뉴스) 기상청은 15일 오후 10시를 기해 제주시중산간에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ed25e42",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750768",
+    "title": "아프간 탈레반, 재집권 5년 축하…유엔 “여성 인권 심각” 경고",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 아프가니스탄 탈레반 지도자들이 15일 전통 의사당인 로야 지르가홀에 모여 복귀 5주년을 기념하면서 수십년간의 혼란 끝에 안정과 분쟁 종식을 가져왔다고 자랑했다고 AP 통신이 보도했다.",
+      "유엔 고위 관계자는 탈레반 재집권 5년을 맞아 12세 이상 소녀들이 교육을 받지 못하는 심각한 인권위기에 대해 경고했다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "ne578915c",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815047500001",
-    "title": "김민석, 1차 과반 승리하나…호남 압승으로 사실상 승기 쥐어",
+    "id": "nf7ead1c9",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "27분 전",
+    "url": "https://www.hankyung.com/article/2026081534787",
+    "title": "\"불닭소스 매일 먹는다\"는 웬디…건강엔 괜찮은지 살펴보니 [건강!톡]",
     "summary": [
-      "(서울=연합뉴스) 박경준 기자 = 더불어민주당 김민석 당 대표 후보가 8·17 전당대회 승부처 중 한 곳인 호남에서 과반 승리를 일궈내며 사실상..."
+      "\"불닭소스 매일 먹는다\"는 웬디…건강엔 괜찮은지 살펴보니 [건강!톡]."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n66449f68",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260815/134483461/1",
+    "title": "‘놀토’ 리센느 원이, 엄마도 딸 못지 않은 인기…“목격담까지 나와”",
+    "summary": [
+      "‘대세’ 아이돌로 떠오른 리센느 원이가 어머니까지 유명해졌다고 말했다.",
+      "15일 방송된 tvN 예능 프로그램 ‘놀라운 토요일’은 ‘공주들아 모여라’ 특집으로 꾸며졌고, 리센느 원이, 리브, 제나가 게스트로 출연했다.이날 붐은 원이에게 “요즘 원이가 어머니 때문에 미치겠다고?”라고 물었다.",
+      "이에 원이는 자신의 유튜브 채널에서 어머니를 언급한 영상이 큰 관심을 받았다고 설명했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2c3b4c80",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815048300060",
-    "title": "가출 말리는 엄마에게 끓는 물 부은 10대 딸",
+    "id": "n2ca99b7b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "55분 전",
+    "url": "https://www.hankyung.com/article/2026081534697",
+    "title": "하영 '친일파 후손' 논란에…소재원 \"독립투사 후손 캐스팅\"",
     "summary": [
-      "(남양주=연합뉴스) 김도윤 기자 = 경기 남양주시에서 가출을 말리는 엄마에게 끓는 물을 부은 10대 딸이 경찰에 붙잡혀 조사받고 있다."
+      "하영 '친일파 후손' 논란에…소재원 \"독립투사 후손 캐스팅\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6ee24304",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081421746",
+    "title": "줄줄이 마이너스인데…'거꾸로 투자' 10% 수익 낸 정체 [투자톡]",
+    "summary": [
+      "줄줄이 마이너스인데…'거꾸로 투자' 10% 수익 낸 정체 [투자톡]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e5917cb",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026081520592357436",
+    "title": "로또 1237회 1등 '10·20·23·34·37·40'…23명 당첨(종합)",
+    "summary": [
+      "로또복권 운영사 동행복권은 제1237회 로또복권 추첨 결과 '10, 20, 23, 34, 37, 40'이 1등 당첨번호로 뽑혔다고 15일 밝혔다.",
+      "2등 보너스 번호는 '36'이다.",
+      "당첨번호 6개를 모두 맞힌 1등은 23명으로, 각 12억1493만원을 받는다."
     ],
     "chips": [
       "#뉴스"
@@ -546,7 +624,7 @@ window.NEWS_DB = [
     "id": "n84639480",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026081534507",
     "title": "올림픽 공원 집회 간 장동혁…\"연임 개헌만은 막아내야\"",
     "summary": [
@@ -554,83 +632,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nbbc221ca",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260815/134483454/1",
-    "title": "‘전 손흥민 동료’ 로메로, 이강인과 한솥밥…아틀레티코 이적",
-    "summary": [
-      "잉글랜드 프리미어리그(EPL) 토트넘 홋스퍼에서 손흥민(LA FC)과 함께 뛰었던 아르헨티나 수비수 크리스티안 로메로가 아틀레티코 마드리드(스페인)로 이적, 이강인과 한솥밥을 먹는다.",
-      "아틀레티코 마드리드는 15일(한국시간) 구단 홈페이지를 통해 로메로 영입을 공식 발표했다.",
-      "구단은 계약 조건을 공개하지 않았지만 현지 매체는 계약 기간 5년, 이적료 4000만 유로(약 656억 원) 규모라고 보도했다."
-    ],
-    "chips": [
-      "#손흥민",
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n41a6f272",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "43분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260815/134483445/1",
-    "title": "김민석, 승부처 호남서 과반 넘겼다…57.54%",
-    "summary": [
-      "더불어민주당 8·17 전당대회 3주차 순회경선 첫 날인 15일 호남(전남광주·전북)에서 김민석 후보가 60%에 가까운 득표율을 기록하면서 정청래 후보에게 24.9%포인트 차이로 앞섰다.",
-      "김 후보 측에서 기대해온 10% 중후반 격차를 넘어선 결과가 나온 것.",
-      "김 후보와 정 후보의 누적득표율 격차는 14.07%포인트로 벌어졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5e731df8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "46분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260814/134477217/2",
-    "title": "한 발로 얼마나 버티나…65세 이상 향후 7년 사망 위험 가늠자? [노화설계]",
-    "summary": [
-      "한 발로 얼마나 오래 설 수 있는지, 의자에서 일어나 얼마나 빠르게 걸어 반환점을 돌아올 수 있는지를 보면 노인의 이후 약 7년간 사망 위험을 어느 정도 가늠할 수 있다는 대규모 연구 결과가 나왔다.",
-      "중위안대학교·국립대만체육대학교 등 공동 연구진은 대만 지역사회에 거주하는 65세 이상 노인 1만3423명을 중앙값 약 7년 동안 추적하면서 여러 가지 간단한 검사를 통해 신체 체력을 측정했다.",
-      "균형과 민첩성, 하체 근력 등의 검사에서 좋은 성적을."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n6e5b9c88",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "55분 전",
-    "url": "https://www.hankyung.com/article/2026081534407",
-    "title": "연휴 둘째 날 전국 비…남해안엔 최대 250㎜ 폭우 [날씨]",
-    "summary": [
-      "연휴 둘째 날 전국 비…남해안엔 최대 250㎜ 폭우 [날씨]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb38bd362",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026081534157",
-    "title": "李대통령 \"故 백인천 감독님의 별세 소식에 깊은 애도\"",
-    "summary": [
-      "李대통령 \"故 백인천 감독님의 별세 소식에 깊은 애도\"."
-    ],
-    "chips": [
-      "#정치"
     ]
   }
 ];
@@ -640,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1810건",
     "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
