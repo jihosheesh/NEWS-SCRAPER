@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-15 18:13:18
+// 마지막 업데이트: 2026-08-15 19:13:40
 window.NEWS_DB = [
   {
     "id": "n24495d23",
     "category": "IT",
     "source": "조선일보",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
@@ -50,12 +50,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "businesspost.co.kr",
+    "source": "비즈니스포스트",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -97,12 +97,12 @@ window.NEWS_DB = [
   {
     "id": "n5ee6ae18",
     "category": "사회",
-    "source": "outsourcing.co.kr",
+    "source": "아웃소싱타임스",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
-      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ outsourcing.co.kr."
+      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
     ],
     "chips": [
       "#취업",
@@ -199,12 +199,12 @@ window.NEWS_DB = [
   {
     "id": "n1a764c5a",
     "category": "부동산",
-    "source": "뉴스핌",
+    "source": "newspim.com",
     "time": "23일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXQ1a1BmNlN6TVZWV29ucG5jajY3WlJIb2FQNEVPMnJXRWdYVHhxWnFnb3R6MG8tX3lsTTFxNFdFVjlzNmtMaFZVV0UtUUN1VWc4VEVScy1iWFIt?oc=5",
     "title": "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자",
     "summary": [
-      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 뉴스핌."
+      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 newspim.com."
     ],
     "chips": [
       "#부동산"
@@ -241,12 +241,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "ytn.co.kr",
+    "source": "YTN",
     "time": "66일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
       "#금리",
@@ -256,12 +256,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "78일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -299,10 +299,58 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "neb109157",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750450",
+    "title": "삼성전자 소액주주 797만명…전체 인구 중 15%가 보유",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 삼성전자 소액주주가 올해 상반기 800만명에 육박했다.",
+      "대한민국 인구 약 5160만명과 비교하면 삼성전자 소액주주 수는 전체 인구의 약 15.5%에 해당한다.",
+      "단순 계산으로는 국민 약 6.5명 중 1명꼴이다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n8a790243",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003750795",
+    "title": "대구·경북 흐리고 120㎜ 이상 많은 비…낮 최고 27도",
+    "summary": [
+      "[대구=뉴시스]정재익 기자 = 16일 대구·경북은 강하고 많은 비가 내리겠다.",
+      "대구지방기상청은 이날 \"대구·경북은 대체로 흐리고 비가 내리겠다\"고 예보했다.",
+      "전날부터 17일까지 대구·경북의 예상 강수량은 50~100㎜다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8c1c41a8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/16/MIYTENDGGA4GIMZYGIYDIYLBHE/",
+    "title": "[오피셜]이강인 지원군 도착! 크리스티안 로메로, 토트넘 떠나 아틀레티코 마드리드 입성 \"이 아름다운 팀 역사에 이름 남기고 싶다\"",
+    "summary": [
+      "[스포츠조선 김가을 기자]크리스티안 로메로가 토트넘(잉글랜드)을 떠나 아틀레티코 마드리드(스페인)로 이적했다.",
+      "아틀레티코 마드리드는 15일(이하 한국시각) '토트넘에서 뛰던 로메로를 영입했다'고 발표했다.",
+      "계약 기간은 2031년 6월까지다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ndde504b1",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "22분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154373",
     "title": "[BIC 26] 닮은 게임이 없다...332色 인디게임 속으로 남녀노소 '풍덩'",
     "summary": [
@@ -315,10 +363,56 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n15db98ad",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816001800071",
+    "title": "트럼프, 이번엔 김정은과 판문점 회동 사진 게시…\"사이 좋아\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령이 15일(현지시간) 김정은 북한 국무위원장과의 '판문점 번개 회동' 사진을 소셜..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n73954d1e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "37분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/16/GFSWGNTEMEYDINZXMJQTOOBTHA/",
+    "title": "천재타자 실책 만회 35호포 \"죄송합니다\"→대투수 1사2,3루 위기 삭제 \"서로 퉁쳤다\"...이것이 낭만야구 아닌가",
+    "summary": [
+      "[OSEN=광주, 이선호 기자] \"우리 퉁 쳤다\".대투수와 천재타자가 한 여름 밤 낭만을 주고 받았다.",
+      "김도영은 찬스에서 클러치 타격을 못했다.",
+      "게다가 송구 실책으로 결정적 실점 위기를 불렀다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n06112831",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "53분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749701",
+    "title": "\"야생동물 방해는 위법\"…잠든 북극곰 깨웠다가 벌금 744만원",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 노르웨이에서 잠들어 있던 북극곰을 깨우기 위해 뱃고동을 울린 사람이 벌금형을 받았다.",
+      "지난 13일(현지시간) 영국 BBC는 노르웨이 스발바르 제도에서 경적을 울려 북극곰을 깨운 인물에게 5만 크로네(약 744만원)의 벌금이 부과됐다고 보도했다.",
+      "해당 인물은 벌금 납부에 동의한 것으로 전해졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n458ea8a4",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260814_0003749202",
     "title": "\"BMI는 정상인데\"…정상 체중이어도 뱃살 많으면 심혈관질환 위험↑",
     "summary": [
@@ -331,82 +425,26 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne7426ec1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749050",
-    "title": "\"낙태하라\"는 부부 vs 거부한 대리모…美서 태어난 아기 두고 법적 공방",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = '낙태를 요구한 예비 부모'와 '낙태를 거부한 대리모' 사이에서 태어난 아기를 둘러싸고 미국에서 법적 분쟁이 벌어지고 있다.",
-      "대리모는 임신 중절 요구를 거부한 뒤 낙태가 금지된 텍사스주로 이동해 출산했고, 예비 부모와 대리모 측은 현재 아기의 양육권 등을 두고 맞서고 있다.",
-      "지난 12일(현지 시간) 뉴욕타임스(NYT)에 따르면 로스앤젤레스에 사는 한 부부는 대리모를 통해 아이를 갖기로 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6914d81c",
-    "category": "사회",
+    "id": "n92805470",
+    "category": "IT",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/16/MO6YUQYNEJCN3NCGL3EN3DSGI4/",
-    "title": "남편의 ‘형’과 100일 편지… 법원은 부정행위라 봤다",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/2026/08/16/4M2ILRWB6BG5NE22UH74ZAW2AA/",
+    "title": "전 세계 6000명만 누리는 호사… AI와 틸레만이 만든 바그너",
     "summary": [
-      "남편의 ‘형’과 100일 편지… 법원은 부정행위라 봤다."
+      "오늘은 8월13일 밤, 지금 독일 남부 바이에른 지방의 소도시 바이로이트다.",
+      "조금 전 바이로이트 축제극장에서 ‘니벨룽의 반지’ 2부 ‘발퀴레’를 보고 왔다.",
+      "크리스티안 틸레만이 지휘하고, 바리톤 미카엘 폴레, 테너 클라우스 플로리안 포크트, 소프라노 카밀라 닌룬트 등 당대 최고 바그너 가수들이 출연했다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4fd02bbc",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/national/people/2026/08/16/T6PGHR5YPVCB5DZ23WCUMB5DLA/",
-    "title": "내 몸값은 대치동 아파트 한 채",
-    "summary": [
-      "내 몸값은 대치동 아파트 한 채."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nd390a995",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/16/UGG7DSQAYNF37AF5GOQGIRXDGU/",
-    "title": "코코넛 주스 사 먹던 QR코드 결제… 미·브라질 무역 전쟁 불씨 됐다",
-    "summary": [
-      "코코넛 주스 사 먹던 QR코드 결제… 미·브라질 무역 전쟁 불씨 됐다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n4ea8e4a1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/16/IJZWUGRW6JBK5CHJYEU6BNKPF4/",
-    "title": "현금 대신 상속받은 재산으로 상속세 낼 수 있나요?",
-    "summary": [
-      "현금 대신 상속받은 재산으로 상속세 낼 수 있나요?."
-    ],
-    "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
     "id": "n106c2cde",
     "category": "IT",
     "source": "테크M",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154372",
     "title": "[BIC 26] 인디게임 생태계에 '빅잼' 안긴 펄어비스...9년 동행에 감사패",
     "summary": [
@@ -421,7 +459,7 @@ window.NEWS_DB = [
     "id": "n410644a1",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260816001300527",
     "title": "서귀포시동부·제주시동부에 호우주의보",
     "summary": [
@@ -435,7 +473,7 @@ window.NEWS_DB = [
     "id": "n370d3fbc",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260816001200071",
     "title": "美민주 2028 대선 경선 순서 보니…'흑인·라틴계 주력' 메시지",
     "summary": [
@@ -446,26 +484,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n461c682a",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "46분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003750809",
-    "title": "예멘 모카항, 親이란 후티반군 공격에 운영 중단",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 예멘 정부는 15일(현지시간) 홍해 연안 모카항 운영을 친(親)이란 성향 후티반군의 공격으로 중단했다고 밝혔다.",
-      "모카항은 후티반군이 통제하는 호데이다항을 우회하는 선박의 화물을 처리할 수 있는 주요 항구다.",
-      "AP통신과 예멘 SABA통신, 아랍권 매체 아샤르크 알아우사트에 따르면 모카항 책임자는 이날 기자회견에서 \"후티반군의 최근 며칠간 이어진 공격으로 모두 7명이 사망하고 1600만달러 규모 피해가 발생했다\"며."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n124dd4a4",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260816001100091",
     "title": "엔비디아, 30조원어치 스페이스X 지분 보유…'순환거래' 우려",
     "summary": [
@@ -478,24 +500,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ned6421e5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816001000527",
-    "title": "울산동부에 호우주의보",
-    "summary": [
-      "(울산=연합뉴스) 기상청은 16일 오전 2시를 기해 울산동부에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n8937555a",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154371",
     "title": "[BIC 26] '골드 스폰서' 지원 나선 스토브...인디게임 생태계 동반자 역할 '톡톡'",
     "summary": [
@@ -508,26 +516,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb4ef832e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003748961",
-    "title": "하늘에서 91m 뚝 떨어진 여객기…에어인디아, 모든 조종사 약물검사 한다",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 에어인디아가 최근 여객기 급강하 사고와 조종사의 약물 검사 논란을 계기로 모든 조종사를 대상으로 금지 약물 검사를 실시하기로 했다.",
-      "지난 13일(현지 시간) 영국 BBC에 따르면 에어인디아는 이날부터 전 조종사를 대상으로 약물 검사를 시작했다.",
-      "저가 항공사인 에어인디아 익스프레스 소속 조종사도 검사 대상에 포함된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7b15e3d1",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260816/134483499/1",
     "title": "‘송민규 2골 1도움’ K리그1 서울, 대전에 4-2 짜릿한 역전승",
     "summary": [
@@ -541,7 +533,7 @@ window.NEWS_DB = [
     "id": "n25ccedfa",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026081422227",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 16일 띠별 추천 점심메뉴",
     "summary": [
@@ -555,7 +547,7 @@ window.NEWS_DB = [
     "id": "n5a006a48",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026081300867",
     "title": "[오늘의 운세] 2026년 8월 16일 별자리 운세",
     "summary": [
@@ -569,7 +561,7 @@ window.NEWS_DB = [
     "id": "nab8c6e09",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026081421997",
     "title": "[오늘의 운세] 2026년 8월 16일 오행별 행운의 컬러",
     "summary": [
@@ -583,7 +575,7 @@ window.NEWS_DB = [
     "id": "n813f84d7",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260815/134483490/1",
     "title": "중국 진출설 일축한 FC서울 김기동 감독…“난 서울 사랑해”",
     "summary": [
@@ -597,7 +589,7 @@ window.NEWS_DB = [
     "id": "ne9985b37",
     "category": "부동산",
     "source": "아시아경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://view.asiae.co.kr/article/2026081522470186098",
     "title": "용산구 \"용산공원 주택 공급 검토에 강력 반대\"",
     "summary": [
@@ -612,13 +604,28 @@ window.NEWS_DB = [
     "id": "ne1803726",
     "category": "사회",
     "source": "동아일보",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260815/134483466/1",
     "title": "인니 7.7 강진 사망자 47명…북수마트라서 또 6.9 지진",
     "summary": [
       "인도네시아 북수마트라주(州) 페마탕시안타르 인근에서 15일(현지시간) 규모 6.9 지진이 발생했다.미국 지질조사국(USGS)에 따르면 지진은 이날 오후 5시54분 페마탕시안타르에서 북북서쪽으로 15㎞ 떨어진 지점에서 규모 6.9의 지진이 발생했다.",
       "진원의 깊이는 172.5㎞로 파악됐다.",
       "인명과 재산 피해는 현재 보고되지 않았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5112c0e",
+    "category": "스포츠",
+    "source": "ZDNet Korea",
+    "time": "6시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260815221004",
+    "title": "마이클 오언, 이하마켓츠 글로벌 브랜드 앰배서더로 합류",
+    "summary": [
+      "[지디넷코리아]홍콩 및 뉴욕 2026년 8월 15일 /PRNewswire/ -- 이하마켓츠(ehamarkets)가 잉글랜드 축구의 전설이자 2001년 발롱도르(Ballon d'Or) 수상자인 마이클 오언(Michael Owen)이 글로벌 브랜드 앰배서더로 합류하며 글로벌 브랜드 파트너십을 체결했다고 오늘 발표했다.",
+      "오언은 기술과 신뢰성, 더욱 간편한 트레이딩 경험에 중점을 둔 이하마켓츠의 방향성에 매력을 느꼈다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
@@ -631,14 +638,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3240건",
-    "trend": "+395%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
