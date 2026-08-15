@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-15 04:19:21
+// 마지막 업데이트: 2026-08-15 05:16:21
 window.NEWS_DB = [
   {
     "id": "n9588c840",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ma1p4d3dHMDRXVDdxLUdleXNHUTE3MTdlQjEzMVRkNS03eWR3R1lTTEJjOW9wZWNZaGpQTy10ZGNlMDlwVHUxREdxWDZMSTU4amNtN0pHMFUxdTjSAWBBVV95cUxQOGJPb0NTMk9SaGZhM2JQRlpZdFZoQ1I5UHpuLURfYU5CUHlheWVrSVZCTjRoMF96NnY3NGNIZzlkaE9WTUU1QllKdi1tR19DVDdxOU9vWWgwQ3F5bUM0WFQ?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 '채무 보증' 반토막 축소",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9763e68e",
     "category": "사회",
     "source": "투데이경제",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZVV0SG5SS2kwVUNpWjN4X19kU2JxOTFqY293UVVaUTc4UkxKLWVOMTFBS21XY1dTejB4YlVQY3RvV0d5SGZjNU1fVUxZVjQwcXFHZFk5MVBSdjNZZFJkc2tPZVlIOHdLSldv?oc=5",
     "title": "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nf3930c1d",
     "category": "IT",
     "source": "공공뉴스",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1bk5PZ0FoYW5QYnM3SlRCZG1IVHM0QU9vbkFUa04zZnhrei1TYXI4VFFvenZZc0MyQjh5Z2d0RENLU2xhZTJydW1GQjdEQVljeVZjRlA5WVlEUDBGX0J3cGEwcl9jRHpGWlkzalBB0gFuQVVfeXFMUHVuTk9nQWhhblBiczdKVEJkbUhUczRBT29uQVRrTjNmeGt6LVNhcjhUUW96dllzQzJCOHlnZ3REQ0tTbGFlMnJ1bUZCN0RBWWN5VmNGUDlZWURQMEZfQndwYTByX2NEekZaWTNqUEE?oc=5",
     "title": "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n5e7afdfd",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
@@ -62,21 +62,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n42644652",
-    "category": "경제",
-    "source": "mshale.com",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYTc5X29yOThmZk9vT2Zlak9nc2NQM3Mwbkk3TDlsQlUxOUZXS0F5WVBhWHlGOUttOEJObDBrUVNpR1F3czJ0dm5KeG0tb0FmU203VFhWTzc1bjg?oc=5",
-    "title": "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd)",
-    "summary": [
-      "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd) mshale.com."
-    ],
-    "chips": [
-      "#금리",
-      "#한은"
     ]
   },
   {
@@ -173,12 +158,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "14일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -228,6 +213,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n244b01bd",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "59일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
+    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
+    "summary": [
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
     "id": "n252753ca",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -244,12 +243,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "ytn.co.kr",
+    "source": "YTN",
     "time": "65일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
       "#금리",
@@ -288,12 +287,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "94일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -365,276 +364,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf165b5dd",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/15/2026081512495128222",
-    "title": "\"이강인 패스는 액자에 넣어 보관해야\" 35분만 뛰고도 스페인 현지 극찬... 골키퍼와 1대1 만든 환상 장면",
-    "summary": [
-      "한국 축구대표팀 에이스 이강인(아틀레티코 마드리드)이 불과 35분만 뛰고도 강렬한 인상을 남겼다.",
-      "아틀레티코는 15일 오전 0시30분(한국시간) 프랑스 마르세유의 오렌지 벨로드롬에서 열린 마르세유(프랑스)와 프리시즌 친선경기에서 2-1로 승리했다.",
-      "지난 9일 서울에서 열린 맨체스터 시티(잉글랜드)전에서 아틀레티코 이적 후 데뷔전을 치렀던 이강인은 이날 처음으로 선발 출전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nadb86ca2",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/15/2026081513044421404",
-    "title": "서강대, 학생·졸업생 개인정보 18만건 유출…\"전화번호·학번까지\"",
-    "summary": [
-      "서강대학교 학생·졸업생·교직원 개인정보 18만건이 유출되는 사고가 발생했다.",
-      "성명과 학번, 휴대전화 번호는 물론, 암호화된 통합 비밀번호까지 유출된 것으로 나타났다.",
-      "서강대학교는 15일 홈페이지 공지를 통해 \"신원 미상의 외부 공격으로 일부 정보 유출 정황을 확인했다\"며 \"사고 인지 후 보안 침해 대응 절차에 따라 긴급 조치를 취했다\"고 밝혔다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n43308718",
+    "id": "ncc93a342",
     "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750575",
-    "title": "한대희 군포시장 \"선열들의 희생, 후대에 전하는것 우리 책임\"",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750603",
+    "title": "안철수 \"李대통령, 조국 사면 후회 않습니까\"",
     "summary": [
-      "[군포=뉴시스] 박석희 기자 = 경기 군포시는 15일 보훈회관 민방위교육장에서 '제81주년 광복절 경축식'을 개최했다.",
-      "이날 행사에는 한대희 군포시장과 임경주 광복회 군포시지회장, 독립유공자 유가족, 지역 국회의원 및 시·도의원, 보훈단체 회원, 시민 등 250여명이 참석했다.",
-      "경축식은 국민의례를 시작으로 ▲독립유공자 표창 수여 ▲기념사 및 경축사 ▲군포시립소년소녀합창단 축하공연 ▲광복절 노래 제창 ▲만세삼창 순으로 진행됐다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nea72d151",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026081513112268953",
-    "title": "서강대 개인정보 18만건 유출…이름·전화번호 포함돼",
-    "summary": [
-      "지난 11일 발생한 사이버 공격으로 서강대 재학생과 교직원 등 구성원 개인정보 18만건이 유출된 사실이 알려졌다.",
-      "서강대는 \"지난 14일 통합 로그인 계정 정보에 대해 신원 미상의 외부 공격으로 일부 정보의 유출 정황을 확인했다\"고 15일 홈페이지를 통해 밝혔다.",
-      "이번 사건으로 유출된 개인정보에는 학번(사번), 성명, 소속, 이메일 주소, 휴대전화 번호, 암호화된 통합 비밀번호 등이 포함됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nae11c605",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/15/MYZTCNRSGQ2WIZJXGRQTSNJWGU/",
-    "title": "'압도적 1위' 부상 털고 돌아온 안세영, 세계선수권 대진표도 무난 \"어느 정도까지 보여줄 수 있을지 설렌다\"",
-    "summary": [
-      "[스포츠조선 김가을 기자]'세계 최강' 안세영(삼성생명)이 돌아왔다.",
-      "안세영은 14일 2026 국제배드민턴연맹(BWF) 세계선수권대회가 열리는 인도 뉴델리로 출국했다.",
-      "2023년 한국 선수 최초로 세계선수권 단식 종목 금메달을 목에 걸었던 안세영은 두 번째 우승을 정조준한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd5e47c02",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815030800530",
-    "title": "최교진-박홍근 '교부금 담판' 결렬…서로 \"장관직 걸겠다\" 엄포",
-    "summary": [
-      "(세종=연합뉴스) 고상민 기자 = 지방교육재정교부금(교부금) 개편이 교육부와 기획예산처의 끝장 대치로 난항을 겪는 가운데 두 부처 수장이 직접 ..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n3c48cad7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815030300001",
-    "title": "평화공존·혁신성장 청사진 펼친 李대통령…2년차 국정 드라이브",
-    "summary": [
-      "(서울=연합뉴스) 임형섭 기자 = 집권 2년 차에 접어든 이재명 대통령이 15일 제 81주년 광복절 경축사를 통해 향후 국정운영의 지향점을 제시..."
+      "[서울=뉴시스]박지혁 기자 = 안철수 국민의힘 의원이 15일 이재명 대통령을 향해 \"작년 광복절의 조국 사면을 후회하지 않느냐\"고 언급하며 비판했다.",
+      "안 의원은 이날 자신의 소셜네트워크서비스(SNS)에 \"저는 이재명 대통령의 면전에서 조국과 윤미향의 사면을 반대했다.",
+      "광복의 의미를 훼손하는 행위였기 때문\"이라며 이같이 전했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n3648a24e",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026081513070057365",
-    "title": "김원기 의정부시장 “청소년·청년이 꿈 펼치는 도시 만들겠다”",
-    "summary": [
-      "경기 의정부시는 15일 신한대학교 벧엘관에서 광복회원과 보훈단체장, 시민 등 300여 명이 참석한 가운데 제81주년 광복절 경축식을 개최했다.",
-      "이날 행사에는 김원기 의정부시장을 비롯해 지역 시·도의원과 기관·단체장 등이 참석해 조국의 독립을 위해 헌신한 순국선열과 애국지사의 희생정신을 기렸다.",
-      "경축식은 국민의례와 애국가 제창을 시작으로 기념사와 경축사, 광복절 노래·독립군가 제창, 만세삼창 순으로 진행됐다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n9def55c2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815030400055",
-    "title": "\"인생에서 가장 보람찬 순간은 광복\"…이석규 애국지사 영면",
-    "summary": [
-      "(전주=연합뉴스) 김문경 기자 = \"다시 태어나도 독립운동을 하겠다는 그 말씀처럼, 이석규 애국지사님의 불꽃은 우리 가슴속에서 영원히 타오를 것..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n939260c8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750576",
-    "title": "고려인마을서 봉오동 전투 생생히…후손들 재현한 '광복의 함성'",
-    "summary": [
-      "[전남광주=뉴시스]이현행 기자 = \"대한 독립 만세 만세 만세!\" 이역만리 타국에서 고국의 광복만을 열망했던 동포들의 간절함이, 한 세기를 지나 후손들의 손으로 다시 피어났다.",
-      "고려인마을과 동포체류지원센터, 전남광주 광산구는 15일 오전 광산구 월곡동 고려인마을에서 홍범도 장군이 이끈 봉오동 전투를 재현하며 자주독립 정신을 되새기는 다양한 행사를 개최했다.",
-      "광복 81주년을 맞아 '역사를 이어가는 고려인마을'이라는 주제로 열린 이날 행사에는 박병."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n338ed793",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750574",
-    "title": "서강대, 18만명 개인정보 유출…\"신원 미상 외부 공격\"",
-    "summary": [
-      "[서울=뉴시스]조수원 기자 = 서강대 재학생과 교직원 등 개인정보 18만건이 유출되는 사고가 발생했다.",
-      "서강대는 홈페이지를 통해 \"통합 로그인 계정 정보에 대해 신원 미상의 외부 공격으로 일부 정보의 유출 정황을 확인했다\"며 \"사고 인지 후 보안 침해 대응 절차에 따라 긴급 조치를 취했다\"고 15일 밝혔다.",
-      "이번에 유출된 항목은 학번(사번), 성명, 소속, 이메일 주소, 휴대전화 번호, 암호화된 통합 비밀번호 등이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n773deaea",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/HBSDSYLBGFRGENZQGRTDMNJUGU/",
-    "title": "가비, 광복절 맞아 독립유공자에 815만원 기부..“늘 잊지 않고 기억할 것”",
-    "summary": [
-      "[OSEN=김채연 기자] 댄서 겸 방송인 가비가 광복절을 맞아 독립유공자 및 후손에 기부금을 전달했다고 밝혔다.15일 가비는 개인 SNS를 통해 기부금 확인서를 공개하며 815만 원을 기부했다고 전했다.이날 가비는 “8월 15일 광복절을 맞아, 오늘의 대한민국을 있게 해주신 독립유공자와 그 후손분들께 감사의 마음을 담아 815만 원을 전달했습니다”라고 밝혔."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5fd051d9",
+    "id": "n650ee2d1",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/15/MU4TMYRTMUZDCMZWGNSTSNRVGQ/",
-    "title": "[속보] '헤드샷 충격' NC 임지민, 큰 부상 못 피했다...아래 턱뼈 분쇄골절, 다음주 수술 받는다",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260815/134483280/1",
+    "title": "이정후, 3경기 연속 무안타 침묵…시즌 타율 0.290으로 하락",
     "summary": [
-      "[OSEN=부산, 조형래 기자] 강한 타구에 얼굴을 맞은 NC 다이노스 투수 임지민이 결국 큰 부상을 피하지 못했다.",
-      "괜찮다는 소식이 들리길 바란다는 동료들의 바람은 이뤄지지 않았다.NC 구단은 15일, \"임지민 선수는 타구에 안면부를 맞은 뒤 병원으로 이동해 검사를 받았다.검진 결과 안면부 아래 턱뼈 분쇄골절 및 입 안쪽 열상 등 소견을 받았으며, 입안쪽."
+      "이정후(샌프란시스코 자이언츠)의 침묵이 3경기째 이어지고 있다.이정후는 15일(한국 시간) 미국 캘리포니아주 샌프란시스코의 오라클파크에서 열린 2026 메이저리그(MLB) 콜로라도 로키스와의 경기에 5번 타자 우익수로 선발 출전해 4타수 무안타를 기록했다.지난 11일 휴스턴 애스트로스전에서 시즌 9호포를 터트린 이후 3경기 연속 무안타다.이정후의 시즌 타율은 0.293에서 0.290(427타수 124안타)으로 소폭 하락했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc097439",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/08/15/H4NM4IXXHFC37MIQUORURMMAOM/",
+    "title": "법무부 ‘수원지검 집단 퇴정’ 검사 징계 청구에…현직 검사 “근거 밝혀라”",
+    "summary": [
+      "법무부 ‘수원지검 집단 퇴정’ 검사 징계 청구에…현직 검사 “근거 밝혀라”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nac0d0af4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260815/134483268/1",
+    "title": "대구 군위 고속도로서 9중 추돌 사고…6명 병원 이송",
+    "summary": [
+      "대구 군위 효령면 상주영천고속도로 서울 방향 47㎞ 지점에서 차량 9대가 잇따라 추돌하는 사고가 발생했다.소방 당국 등에 따르면 15일 오전 10시 47분경 차 1대가 앞서가던 차를 들이받으면서 연쇄 추돌이 일어났다.추돌 사고로 차량 1대에 불이 났으나 운전자 등이 자체 진화해 큰 화재로 이어지지는 않았다.",
+      "이 사고로 6명이 다쳐 병원으로 이송됐다.경찰은 운전자 등을 상대로 정확한 사고 경위를 조사하고 있다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n5bc4a9f0",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/15/2026081510474732290",
-    "title": "광복절 연휴 전국 곳곳 '비 소식'…\"야간 시간대 강한비 주의\"",
+    "id": "n4ca05b36",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750595",
+    "title": "군포시청 앞 버스정류장 명칭 '군포시의회' 병기…연내 교체 완료",
     "summary": [
-      "경남 서부 남해안·지리산 시간당 최대 70㎜ 기상청 \"17일 저녁 비 그쳐\" 광복절 연휴 내내 전국 곳곳에 비가 내리겠다.",
-      "일부 남부지방에서는 야간 시간대 강하고 많은 비가 쏟아질 것으로 예상돼 주의가 필요하다.",
-      "기상청은 15일 오전 수시 예보 브리핑에서 \"저기압의 영향으로 오는 17일까지 경상권과 전남 그리고 제주도를 중심으로 전국에 비가 내리겠다\"고 밝혔다."
+      "[군포=뉴시스] 박석희 기자 = 경기 군포시청 인근 버스정류장의 명칭이 개원 35년 만에 '군포시의회'를 포함한 이름으로 일괄 변경된다.",
+      "15일 군포시와 군포시의회에 따르면 시는 기존 ‘군포시청·산본역’이던 정류소 명칭을 ‘군포시청·군포시의회’로 변경하는 작업을 진행 중이다.",
+      "시는 정류소 표지판을 시작으로 노선도, 버스 내부 안내 게시물 및 음성 안내방송 시스템을 순차적으로 정비해 늦어도 올해 안에 개편 작업을 완료할 계획이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2df3eed3",
+    "id": "n590b466a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750488",
-    "title": "\"승객 몸이 창밖으로\"… 美 여객기 엔진 팬이 창문 뚫었다",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750599",
+    "title": "이혼한 전처 딸에게 '추행 알리겠다' 협박한 70대, 집유",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 지난달 비행 중 창문이 깨지면서 승객이 기체 밖으로 빨려 나갈 뻔했던 라이언에어 여객기 사고가 엔진 팬 블레이드 파손으로 발생한 것으로 드러났다.",
-      "지난 13일(현지 시간) 미국 연방교통안전위원회가 공개한 예비조사 결과에 따르면, 지난달 10일 그리스 테살로니키에서 독일 메밍겐으로 향하던 라이언에어 여객기의 오른쪽 2번 엔진에서 팬 블레이드가 부러져 떨어져 나갔다.",
-      "떨어져 나온 엔진 파편은 기체 측면을 강타했고."
+      "[남양주=뉴시스]이호진 기자 = 과거 재혼했던 여성의 딸에게 연락해 자신에게 추행당한 것을 남편에게 알리겠다며 돈을 요구한 70대 남성에게 집행유예가 선고됐다.",
+      "의정부지법 남양주지원 형사4단독 권순범 판사는 공갈미수 혐의로 기소된 A(71)씨에게 징역 1년에 집행유예 2년을 선고했다고 15일 밝혔다.",
+      "A씨는 지난 2024년 10월 구리시 소재 자신의 주거지에서 과거 재혼했던 여성의 딸 B씨에게 \"치료비 명목으로 600만원을 보내지 않으면 나한테."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n85b45710",
+    "id": "naf358b93",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026081513005753358",
-    "title": "이기형 김포시장 “독립운동가 헌신이 오늘의 김포 만든 뿌리”",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815033100104",
+    "title": "[속보] '7.7 강진' 인도네시아 플로레스섬에서 20명 사망 < AFP>",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n27b3bf20",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260815/134483260/1",
+    "title": "국힘 “李대통령 골프회동, 개헌 찬성 의원 포섭 꼼수”",
     "summary": [
-      "경기 김포시가 제81주년 광복절을 맞아 김포 출신 독립운동가들을 재조명하고 시민이 직접 참여하는 경축 행사를 열었다.",
-      "김포시는 15일 오전 김포아트홀에서 광복회원과 시민, 국회의원, 도·시의원, 기관·단체장 등 500여 명이 참석한 가운데 광복절 경축식을 개최했다.",
-      "민선 9기 출범 이후 처음 열린 국경일 행사로, 시민을 단순한 관람객이 아닌 행사의 주역으로 세운 것이 특징이다."
+      "국민의힘이 15일 이재명 대통령의 최근 잇따른 국민의힘 의원들과의 골프 회동에 대해 “국민의힘 의원 중 개헌에 찬성하는 일부 의원들을 포섭하려는 꼼수”라고 비판했다.국민의힘 박성훈 수석대변인은 이날 국회에서 기자들과 만나 “이 대통령이 추진하는 것은 연임이 가능한 개헌을 통해 본인의 퇴임 후 재판을 피하려는 빌드업 과정”이라고 주장하며 이같이 말했다.그는 이 대통령이 전날 ‘4년 중임 또는 연임 개헌이 공약이자 지금까지의 일관된 입장’이라고 언."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0aafed43",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/national/welfare-medical/2026/08/15/GP674GE72FDDPMDNU7MWB2Y6AU/",
-    "title": "폭염 뚫고 장보러 왕복 2시간… 그들은 왜?",
+    "id": "nb2f2f82b",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815033000007",
+    "title": "이정후, 3경기 연속 무안타…배지환은 대주자로 시즌 1호 도루",
     "summary": [
-      "폭염 뚫고 장보러 왕복 2시간… 그들은 왜?."
+      "(서울=연합뉴스) 이대호 기자 = 미국프로야구 메이저리그(MLB) 샌프란시스코 자이언츠 외야수 이정후(27)가 3경기 연속 무안타로 침묵했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf38f7b11",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815017351073",
+    "title": "다카이치, 패전일 추도사서 '반성' 언급안해…아베보다 '우클릭'(종합)",
+    "summary": [
+      "(도쿄=연합뉴스) 조성미 특파원 = 한국 광복절이자 일본 패전일인 15일 다카이치 사나에 일본 총리가 야스쿠니 신사 참배는 보류했지만, 과거 일..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6b5f3826",
+    "id": "n5a2b27f7",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814067500062",
-    "title": "철원군, 2026년 여기저기 페스티벌 개막…소상공인 참여형 축제",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260814/134473180/2",
+    "title": "“전차의 시대 끝났나”…우크라 드론에 美기갑여단 ‘전멸’",
     "summary": [
-      "(철원=연합뉴스) 양지웅 기자 = 강원 철원지역 관광과 소상공인, 지역사업이 어우러지는 참여형 축제인 '2026 여기저기 페스티벌 in 철원'이..."
+      "독일 합동훈련에서 우크라이나 드론 부대가 미 육군 기갑여단을 잇달아 격파했다.",
+      "드론이 전차 중심 기동전의 미래를 바꿀지를 놓고 논쟁이 커지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6640af80",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "32분 전",
+    "url": "https://www.hankyung.com/article/202608153237i",
+    "title": "이시바가 13년 만에 살린' 반성 표현'…다카이치가 삭제 [도쿄나우]",
+    "summary": [
+      "이시바가 13년 만에 살린' 반성 표현'…다카이치가 삭제 [도쿄나우]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ab90ed6",
+    "category": "스포츠",
+    "source": "연합뉴스(경제)",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815032200002",
+    "title": "[부고] 박세혁(금융감독원 증권거래감독팀장)씨 모친상",
+    "summary": [
+      "[부고] 박세혁(금융감독원 증권거래감독팀장)씨 모친상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ad99c35",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608138017g",
+    "title": "삼성도 반했던 '엘리트 배우'였는데…광고계 줄줄이 '손절' [김소연의 주님픽톡]",
+    "summary": [
+      "삼성도 반했던 '엘리트 배우'였는데…광고계 줄줄이 '손절' [김소연의 주님픽톡]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n07697226",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081532197",
+    "title": "[속보] 서강대 개인정보 18만건 유출…신원미상 외부공격 추정",
+    "summary": [
+      "[속보] 서강대 개인정보 18만건 유출…신원미상 외부공격 추정."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda2da000",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608142023H",
+    "title": "\"그때 대통령 말 들을걸\"…삼전 30배·서울 집 3배 '탄식'",
+    "summary": [
+      "\"그때 대통령 말 들을걸\"…삼전 30배·서울 집 3배 '탄식'."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0bcdfa04",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "2시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260814181417",
+    "title": "누군가 내 글에 \"AI 돌렸나봐요\"라고 묻는다면",
+    "summary": [
+      "[지디넷코리아]수개월전, AI 이미지 제작 교육을 들으러 간 적이 있다.",
+      "최신 프롬프트나 새 툴 모델을 소개하는 자리가 아니었다.",
+      "'AI가 만든 티를 덜 내는 법'이었다.얼굴은 완벽한 좌우 대칭이면 안 됐다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nf9720647",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "3시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260815110724",
+    "title": "넥써쓰 '프로스트 킹덤', 국내 애플 앱스토어 인기 1위 기록",
+    "summary": [
+      "[지디넷코리아]모바일 전략 시뮬레이션 게임 '프로스트 킹덤'이 국내 애플 앱스토어 게임 인기 순위 정상을 차지했다.넥써쓰(대표 장현국)는 전략 시뮬레이션 게임(SLG) '프로스트 킹덤'이 국내 애플 앱스토어 게임 부문 인기 순위 1위를 기록했다고 15일 밝혔다.지난달 24일 출시된 프로스트 킹덤은 넥써쓰가 단독 퍼블리싱하는 첫 번째 타이틀로, 중세 세계관에 건물과 병력을 합성해 성장시키는 머지(Merge) 방식을 접목한 웹3 기반 SLG다."
     ],
     "chips": [
       "#뉴스"
@@ -647,14 +631,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
