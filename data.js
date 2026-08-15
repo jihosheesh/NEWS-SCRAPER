@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-15 05:16:21
+// 마지막 업데이트: 2026-08-15 06:19:45
 window.NEWS_DB = [
   {
-    "id": "n9588c840",
+    "id": "n24495d23",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ma1p4d3dHMDRXVDdxLUdleXNHUTE3MTdlQjEzMVRkNS03eWR3R1lTTEJjOW9wZWNZaGpQTy10ZGNlMDlwVHUxREdxWDZMSTU4amNtN0pHMFUxdTjSAWBBVV95cUxQOGJPb0NTMk9SaGZhM2JQRlpZdFZoQ1I5UHpuLURfYU5CUHlheWVrSVZCTjRoMF96NnY3NGNIZzlkaE9WTUU1QllKdi1tR19DVDdxOU9vWWgwQ3F5bUM0WFQ?oc=5",
-    "title": "엔비디아, 오픈AI 데이터센터 '채무 보증' 반토막 축소",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
+    "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터 '채무 보증' 반토막 축소 연합뉴스."
+      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 조선일보."
     ],
     "chips": [
       "#AI",
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9763e68e",
     "category": "사회",
     "source": "투데이경제",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZVV0SG5SS2kwVUNpWjN4X19kU2JxOTFqY293UVVaUTc4UkxKLWVOMTFBS21XY1dTejB4YlVQY3RvV0d5SGZjNU1fVUxZVjQwcXFHZFk5MVBSdjNZZFJkc2tPZVlIOHdLSldv?oc=5",
     "title": "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nf3930c1d",
     "category": "IT",
     "source": "공공뉴스",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1bk5PZ0FoYW5QYnM3SlRCZG1IVHM0QU9vbkFUa04zZnhrei1TYXI4VFFvenZZc0MyQjh5Z2d0RENLU2xhZTJydW1GQjdEQVljeVZjRlA5WVlEUDBGX0J3cGEwcl9jRHpGWlkzalBB0gFuQVVfeXFMUHVuTk9nQWhhblBiczdKVEJkbUhUczRBT29uQVRrTjNmeGt6LVNhcjhUUW96dllzQzJCOHlnZ3REQ0tTbGFlMnJ1bUZCN0RBWWN5VmNGUDlZWURQMEZfQndwYTByX2NEekZaWTNqUEE?oc=5",
     "title": "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱",
     "summary": [
@@ -50,12 +50,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "22시간 전",
+    "source": "businesspost.co.kr",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -81,12 +81,12 @@ window.NEWS_DB = [
   {
     "id": "n14e5eed8",
     "category": "IT",
-    "source": "지디넷코리아",
+    "source": "zdnet.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
-      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" 지디넷코리아."
+      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" zdnet.co.kr."
     ],
     "chips": [
       "#AI",
@@ -110,26 +110,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nda655558",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTG54U3ZVdXl3RndHZUVpczliSEJ1WnNpTGJJVWdJWmk2OXpBY0hHVE1MS0NQMGEweXZjSHdkV0NveXpPa0dCMnVEZEdjY0hnS3lvWl9MWF9uYU9sYWxTRlhmNDl1TzUtV0JxNUlNY2FOZnNHa3fSAWZBVV95cUxNeVZGUjMxWHpwd2dqc2RhenVvZlVtMnFUVk93RVlmd0xUOGl5WlY3WU5yeVpPT1JockdPQlg5aXhFT0hyT3U2YUNXNmNKZ0pibS1wa3pORHpEWGg4WVR3Q1d4Nl9LWEE?oc=5",
-    "title": "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다",
-    "summary": [
-      "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다 동아일보."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n1f2010df",
     "category": "IT",
     "source": "매일일보",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
     "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
     "summary": [
@@ -158,12 +142,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "14일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -287,16 +271,64 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "biz.heraldcorp.com",
+    "source": "헤럴드경제",
     "time": "94일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "n78168fc2",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154370",
+    "title": "[글로벌] 메타 AI 스마트안경, 독일서 형사고발...촬영 표시등 적절성 쟁점",
+    "summary": [
+      "메타의 AI 스마트안경이 상대방 모르게 사진이나 영상을 촬영할 수 있다는 이유로 독일에서 형사 고발됐습니다.15일 주요 외신들에 따르면 독일 시민단체 헤이트에이드는 메타의 '레이밴 메타 웨이페어러'가 현지 개인정보 보호 법률을 위반했다며 메타와 안경 제조사 에실로르룩소티카, 제품을 판매한 유통업체 관계자들을 고발했습니다.",
+      "일반 안경과 외관상 구별하기 어려워 촬영 대상자가 자신이 촬영되고 있다는 사실을 제대로 알기 어렵다는 주장입니다.고발장은 프."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n519e8edc",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154369",
+    "title": "[글로벌] 대만 정부망에 다중 AI 에이전트 공격...계정 85개 탈취",
+    "summary": [
+      "해커들이 최대 8개의 AI 에이전트를 동시에 가동해 대만 정부 시스템을 공격한 정황이 확인됐습니다.",
+      "AI를 악성 코드 작성에만 이용한 것이 아니라 정찰과 계정 탈취, 내부 시스템 이동, 정보 수집 등의 업무를 나눠 수행하도록 한 사례입니다.15일 주요 외신들은 이스라엘 사이버보안업체 드림의 발표를 인용해 이같이 보도했습니다.",
+      "공격은 지난 7월1일부터 4일까지 12차례에 걸쳐 진행됐습니다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n70c18c1c",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154368",
+    "title": "[글로벌] 앤트로픽, 데카트 60억달러 인수 협상...AI 연산 비용 절감 노려",
+    "summary": [
+      "AI 기업 앤트로픽이 AI 인프라 스타트업 데카트를 약 60억달러에 인수하는 방안을 협의하고 있는 것으로 알려졌습니다.15일 주요 외신들은 양측이 인수 조건을 논의하고 있지만 아직 최종 합의에는 도달하지 않았다고 보도했습니다.",
+      "협상이 중단되거나 거래 조건이 달라질 가능성도 있지만, 거래가 성사되면 앤트로픽 설립 이후 최대 규모의 인수가 될 예정입니다.2023년 이스라엘에서 설립된 데카트는 AI 모델과 함께 반도체 활용 효율을 높이는 최적화 소프."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#스타트업"
     ]
   },
   {
@@ -316,312 +348,284 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5a4d75fa",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154366",
-    "title": "[BIC 26] 인도네시아, 게임산업 육성 본격화...\"韓 인디게임과 협력 기회 넓힐 것\"",
-    "summary": [
-      "인도네시아 통신디지털부(KOMDIGI)가 국내 인디게임 축제를 찾았다.",
-      "자국의 게임산업 정책 방향을 소개하고 인디게임 생태계 육성 확대에 나서겠다는 의지다.",
-      "인도네시아 게임 개발 인재를 양성하고 글로벌 시장과의 연결을 강화하는 한편, 국내 게임업계와의 교류도 확대한다는 전략이다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n29cb4f47",
+    "id": "n5a79250b",
     "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154360",
-    "title": "[연휴에 뭐하지] \"광복절 집콕 게이머 잡아라\"...신규 업데이트·이벤트 어떠세요",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750639",
+    "title": "평택해경, 대조기와 겹친 광복절 갯벌·연안 찾아 현장점검",
     "summary": [
-      "사흘간의 광복절 연휴가 시작되면서 국내 게임업계가 집에서 연휴를 보내는 게이머들을 겨냥해 다양한 업데이트와 이벤트를 선보였습니다.",
-      "신규 지역과 콘텐츠를 추가하거나 출석 보상, 경험치 혜택 등을 다양하게 준비하면서 긴 연휴를 게임과 함께 보낼 수 있는 환경을 마련했습니다.",
-      "15일 게임업계에 따르면 광복절 연휴를 맞아 게임 속에서 대규모 업데이트가 이뤄졌습니다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "naacf8e68",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154359",
-    "title": "[연휴에 뭐하지] \"'BIC 26' 온라인 전시관에서 인디게임 마음껏 즐겨봐요\"",
-    "summary": [
-      "이번 연휴에 색다른 게임을 찾고 있다면 인디게임의 세계에 빠져보는 것은 어떨까요.",
-      "부산에서 열리고 있는 '부산인디커넥트페스티벌(BIC 26)이 온라인 전시를 통해 국내외 다양한 인디게임을 선보이고 있습니다.",
-      "BIC 2026 온라인 페스티벌은 지난 7일부터 오는 28일까지 BIC 공식 누리집을 통해 진행됩니다."
+      "[당진=뉴시스]김덕진 기자 = 평택해양경찰서는 15일 대조기와 광복절 연휴가 겹치면서 갯벌을 찾는 이가 늘 것으로 예상됨에 따라 지역 주요 갯벌과 연안을 찾아 현장 점검을 벌였다고 밝혔다.",
+      "이날 허경준 서장은 지역 5개 파출소와 화상회의를 갖고 예방순찰 강화와 위험요인 발견 시 선제적 안전조치를 주문했다.",
+      "현장 점검은 지난해 9월 갯벌 활동 중 두건의 사망사고가 발생해 야간 출입통제구역으로 지정된 당진 석문방조제와 해루질객이 많이 찾는 행서 일."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncc93a342",
+    "id": "n8a2b98ec",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750637",
+    "title": "강릉 초등학교서 작업 중 50대 외국인 근로자 심정지",
+    "summary": [
+      "[강릉=뉴시스] 이순철 기자 = 15일 오전 8시 45분께 강원 강릉시 주문진읍 한 초등학교에서 배수로 작업 중이던 키르기스스탄 국적의 50대 A씨가 가슴 부위를 크게 다쳤다.",
+      "A씨는 배수로의 거푸집 작업 중 그라인더 날에 가슴 부위를 크게 다쳐 심정지 상태로 인근 병원으로 이송됐다.",
+      "사고가 나자 소방당국은 인력 19명, 장비 7대를 투입해 구조한 후 구급대가 응급처치를 실시했다."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n9e4bf142",
     "category": "사회",
     "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750603",
-    "title": "안철수 \"李대통령, 조국 사면 후회 않습니까\"",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750635",
+    "title": "서강대, 18만명 개인정보 유출…박근혜 전 대통령도 포함(종합)",
     "summary": [
-      "[서울=뉴시스]박지혁 기자 = 안철수 국민의힘 의원이 15일 이재명 대통령을 향해 \"작년 광복절의 조국 사면을 후회하지 않느냐\"고 언급하며 비판했다.",
-      "안 의원은 이날 자신의 소셜네트워크서비스(SNS)에 \"저는 이재명 대통령의 면전에서 조국과 윤미향의 사면을 반대했다.",
-      "광복의 의미를 훼손하는 행위였기 때문\"이라며 이같이 전했다."
+      "[서울=뉴시스]조수원 기자 = 서강대 재학생과 교직원 등 개인정보 18만건이 유출되는 사고가 발생했다.",
+      "서강대는 홈페이지를 통해 \"통합 로그인 계정 정보에 대해 신원 미상의 외부 공격으로 일부 정보의 유출 정황을 확인했다\"며 \"사고 인지 후 보안 침해 대응 절차에 따라 긴급 조치를 취했다\"고 15일 밝혔다.",
+      "이번에 유출된 항목은 학번(사번), 성명, 소속, 이메일 주소, 휴대전화 번호, 암호화된 통합 비밀번호 등이다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n650ee2d1",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260815/134483280/1",
-    "title": "이정후, 3경기 연속 무안타 침묵…시즌 타율 0.290으로 하락",
-    "summary": [
-      "이정후(샌프란시스코 자이언츠)의 침묵이 3경기째 이어지고 있다.이정후는 15일(한국 시간) 미국 캘리포니아주 샌프란시스코의 오라클파크에서 열린 2026 메이저리그(MLB) 콜로라도 로키스와의 경기에 5번 타자 우익수로 선발 출전해 4타수 무안타를 기록했다.지난 11일 휴스턴 애스트로스전에서 시즌 9호포를 터트린 이후 3경기 연속 무안타다.이정후의 시즌 타율은 0.293에서 0.290(427타수 124안타)으로 소폭 하락했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndc097439",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/15/H4NM4IXXHFC37MIQUORURMMAOM/",
-    "title": "법무부 ‘수원지검 집단 퇴정’ 검사 징계 청구에…현직 검사 “근거 밝혀라”",
-    "summary": [
-      "법무부 ‘수원지검 집단 퇴정’ 검사 징계 청구에…현직 검사 “근거 밝혀라”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nac0d0af4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260815/134483268/1",
-    "title": "대구 군위 고속도로서 9중 추돌 사고…6명 병원 이송",
-    "summary": [
-      "대구 군위 효령면 상주영천고속도로 서울 방향 47㎞ 지점에서 차량 9대가 잇따라 추돌하는 사고가 발생했다.소방 당국 등에 따르면 15일 오전 10시 47분경 차 1대가 앞서가던 차를 들이받으면서 연쇄 추돌이 일어났다.추돌 사고로 차량 1대에 불이 났으나 운전자 등이 자체 진화해 큰 화재로 이어지지는 않았다.",
-      "이 사고로 6명이 다쳐 병원으로 이송됐다.경찰은 운전자 등을 상대로 정확한 사고 경위를 조사하고 있다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n4ca05b36",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750595",
-    "title": "군포시청 앞 버스정류장 명칭 '군포시의회' 병기…연내 교체 완료",
-    "summary": [
-      "[군포=뉴시스] 박석희 기자 = 경기 군포시청 인근 버스정류장의 명칭이 개원 35년 만에 '군포시의회'를 포함한 이름으로 일괄 변경된다.",
-      "15일 군포시와 군포시의회에 따르면 시는 기존 ‘군포시청·산본역’이던 정류소 명칭을 ‘군포시청·군포시의회’로 변경하는 작업을 진행 중이다.",
-      "시는 정류소 표지판을 시작으로 노선도, 버스 내부 안내 게시물 및 음성 안내방송 시스템을 순차적으로 정비해 늦어도 올해 안에 개편 작업을 완료할 계획이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n590b466a",
+    "id": "n8657e708",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750599",
-    "title": "이혼한 전처 딸에게 '추행 알리겠다' 협박한 70대, 집유",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750633",
+    "title": "국힘 \"李대통령 골프 회동은 개헌 통해 재판 피하려는 빌드업\"",
     "summary": [
-      "[남양주=뉴시스]이호진 기자 = 과거 재혼했던 여성의 딸에게 연락해 자신에게 추행당한 것을 남편에게 알리겠다며 돈을 요구한 70대 남성에게 집행유예가 선고됐다.",
-      "의정부지법 남양주지원 형사4단독 권순범 판사는 공갈미수 혐의로 기소된 A(71)씨에게 징역 1년에 집행유예 2년을 선고했다고 15일 밝혔다.",
-      "A씨는 지난 2024년 10월 구리시 소재 자신의 주거지에서 과거 재혼했던 여성의 딸 B씨에게 \"치료비 명목으로 600만원을 보내지 않으면 나한테."
+      "[서울=뉴시스] 전상우 기자 = 국민의힘은 15일 이재명 대통령이 최근 당 중진 의원들과 골프 회동을 가진 것에 대해 \"개헌에 찬성하는 일부를 포섭하려는 꼼수\"라고 밝혔다.",
+      "박성훈 수석대변인은 이날 오전 국회에서 기자들과 만나 \"이 대통령이 추진하는 것은 연임을 가능하게 하는 개헌을 통해 퇴임 뒤 재판을 피하려는 빌드업 과정이다\"며 이같이 말했다.",
+      "박 수석대변인은 \"개헌 논의가 국민 민생과 전혀 상관없이 본인 방탄을 위해 악용되고 있다\"며 \"국."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "naf358b93",
+    "id": "n96f27ed7",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815033100104",
-    "title": "[속보] '7.7 강진' 인도네시아 플로레스섬에서 20명 사망 < AFP>",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815035400009",
+    "title": "세계의 날씨(8월15일)",
     "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n27b3bf20",
+    "id": "n508ac35c",
     "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260815/134483260/1",
-    "title": "국힘 “李대통령 골프회동, 개헌 찬성 의원 포섭 꼼수”",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026081515135606016",
+    "title": "美 트럼프, 민간기업에 외국 사이버 범죄조직 해킹 권한 부여",
     "summary": [
-      "국민의힘이 15일 이재명 대통령의 최근 잇따른 국민의힘 의원들과의 골프 회동에 대해 “국민의힘 의원 중 개헌에 찬성하는 일부 의원들을 포섭하려는 꼼수”라고 비판했다.국민의힘 박성훈 수석대변인은 이날 국회에서 기자들과 만나 “이 대통령이 추진하는 것은 연임이 가능한 개헌을 통해 본인의 퇴임 후 재판을 피하려는 빌드업 과정”이라고 주장하며 이같이 말했다.그는 이 대통령이 전날 ‘4년 중임 또는 연임 개헌이 공약이자 지금까지의 일관된 입장’이라고 언."
+      "도널드 트럼프 미국 대통령이 민간기업이 외국 사이버 범죄조직을 감시하고 공격할 수 있도록 법무부와 국토안보부에 지시했다.",
+      "14일(현지시간) AFP통신은 트럼프 대통령이 지난 12일 미국 기업의 사이버 범죄 대응 작전을 허용하라고 지시했다고 보도했다.",
+      "이에 따라 정부 승인을 받은 민간기업은 외국 해커들이 사용하는 서버를 무력화하거나 해커의 컴퓨터에 스파이웨어를 침투시키는 등의 활동을 할 수 있게 된다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nb2f2f82b",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815033000007",
-    "title": "이정후, 3경기 연속 무안타…배지환은 대주자로 시즌 1호 도루",
-    "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 미국프로야구 메이저리그(MLB) 샌프란시스코 자이언츠 외야수 이정후(27)가 3경기 연속 무안타로 침묵했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nf38f7b11",
+    "id": "n4096dc5d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815017351073",
-    "title": "다카이치, 패전일 추도사서 '반성' 언급안해…아베보다 '우클릭'(종합)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815035000073",
+    "title": "[르포] 욱일기에 군복 넘친 야스쿠니엔 '호국' 미화만…반성은 없었다",
     "summary": [
-      "(도쿄=연합뉴스) 조성미 특파원 = 한국 광복절이자 일본 패전일인 15일 다카이치 사나에 일본 총리가 야스쿠니 신사 참배는 보류했지만, 과거 일..."
+      "(도쿄=연합뉴스) 이도연 특파원 = '다카이치 총리는 8월 15일에 야스쿠니 신사를 공식 참배하라', '대동아전쟁은 침략전쟁이 아니라 성전이다'..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5a2b27f7",
+    "id": "nbb442ebf",
     "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260814/134473180/2",
-    "title": "“전차의 시대 끝났나”…우크라 드론에 美기갑여단 ‘전멸’",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814142000052",
+    "title": "경남교육청, 광복절에 유공자 후손·학생 토크콘서트 '빛이음'",
     "summary": [
-      "독일 합동훈련에서 우크라이나 드론 부대가 미 육군 기갑여단을 잇달아 격파했다.",
-      "드론이 전차 중심 기동전의 미래를 바꿀지를 놓고 논쟁이 커지고 있다."
+      "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 제81주년 광복절인 15일 밀양시청소년수련관에서 독립유공자 후손, 학생, 권순기 교육감이 함께하..."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6640af80",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "32분 전",
-    "url": "https://www.hankyung.com/article/202608153237i",
-    "title": "이시바가 13년 만에 살린' 반성 표현'…다카이치가 삭제 [도쿄나우]",
-    "summary": [
-      "이시바가 13년 만에 살린' 반성 표현'…다카이치가 삭제 [도쿄나우]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9ab90ed6",
-    "category": "스포츠",
-    "source": "연합뉴스(경제)",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815032200002",
-    "title": "[부고] 박세혁(금융감독원 증권거래감독팀장)씨 모친상",
-    "summary": [
-      "[부고] 박세혁(금융감독원 증권거래감독팀장)씨 모친상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ad99c35",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608138017g",
-    "title": "삼성도 반했던 '엘리트 배우'였는데…광고계 줄줄이 '손절' [김소연의 주님픽톡]",
-    "summary": [
-      "삼성도 반했던 '엘리트 배우'였는데…광고계 줄줄이 '손절' [김소연의 주님픽톡]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n07697226",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026081532197",
-    "title": "[속보] 서강대 개인정보 18만건 유출…신원미상 외부공격 추정",
-    "summary": [
-      "[속보] 서강대 개인정보 18만건 유출…신원미상 외부공격 추정."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nda2da000",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608142023H",
-    "title": "\"그때 대통령 말 들을걸\"…삼전 30배·서울 집 3배 '탄식'",
-    "summary": [
-      "\"그때 대통령 말 들을걸\"…삼전 30배·서울 집 3배 '탄식'."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0bcdfa04",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "2시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260814181417",
-    "title": "누군가 내 글에 \"AI 돌렸나봐요\"라고 묻는다면",
-    "summary": [
-      "[지디넷코리아]수개월전, AI 이미지 제작 교육을 들으러 간 적이 있다.",
-      "최신 프롬프트나 새 툴 모델을 소개하는 자리가 아니었다.",
-      "'AI가 만든 티를 덜 내는 법'이었다.얼굴은 완벽한 좌우 대칭이면 안 됐다."
-    ],
-    "chips": [
-      "#AI",
       "#교육"
     ]
   },
   {
-    "id": "nf9720647",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "3시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260815110724",
-    "title": "넥써쓰 '프로스트 킹덤', 국내 애플 앱스토어 인기 1위 기록",
+    "id": "nfbf656af",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/15/YZPQOWWNKFHHFFSYYDHXG4CNNI/",
+    "title": "정부 ‘용산공원에 집 짓자’에…서울시 이어 용산구도 “강력 반대”",
     "summary": [
-      "[지디넷코리아]모바일 전략 시뮬레이션 게임 '프로스트 킹덤'이 국내 애플 앱스토어 게임 인기 순위 정상을 차지했다.넥써쓰(대표 장현국)는 전략 시뮬레이션 게임(SLG) '프로스트 킹덤'이 국내 애플 앱스토어 게임 부문 인기 순위 1위를 기록했다고 15일 밝혔다.지난달 24일 출시된 프로스트 킹덤은 넥써쓰가 단독 퍼블리싱하는 첫 번째 타이틀로, 중세 세계관에 건물과 병력을 합성해 성장시키는 머지(Merge) 방식을 접목한 웹3 기반 SLG다."
+      "정부 ‘용산공원에 집 짓자’에…서울시 이어 용산구도 “강력 반대”."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n82fbecb6",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026081515111302428",
+    "title": "민경선 고양시장 “광복 정신으로 자족도시 미래 열겠다”",
+    "summary": [
+      "민경선 고양특례시장은 15일 \"선열들의 헌신과 화합의 정신을 이어받아 고양의 숙원인 자족도시를 실현하겠다\"고 밝혔다.",
+      "민 시장은 이날 고양시 문예회관에서 열린 제81주년 광복절 경축식에서 \"우리가 힘을 모으면 어떤 위기도 새로운 기회로 바꿀 수 있다\"며 \"좋은 일자리를 만들고 항공·우주, 의료·바이오, K컬처 등 미래 산업을 육성하는 데 최선을 다하겠다\"고 말했다.",
+      "'함께 되찾은 빛, 다시 함께 뛰는 고양'을 주제로 열."
+    ],
+    "chips": [
+      "#고용",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb31539a1",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026081514572177455",
+    "title": "도심서 80대 보행자 치어 숨지게 하고 달아난 화물차 기사 입건",
+    "summary": [
+      "야간에 대형 화물차를 몰다 80대 보행자를 치어 숨지게 하고 별다른 구호 조치 없이 현장을 벗어난 화물차 운전자가 경찰에 붙잡혔다.광주 서부경찰서는 특정범죄가중처벌법상 도주치사 혐의로 6.5t 화물차 운전자 A 씨(40대)를 불구속 입건해 조사 중이라고 15일 밝혔다.",
+      "A 씨는 전날 오후 8시 40분께 광주 서구 매월동 풍암교차로 인근 편도 5차로 일방통행 도로에서 6.5t 화물차를 몰다 길을 건너던 80대 남성 B 씨를 들이받아."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e034e45",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026081514575981834",
+    "title": "안도걸, 민주당 전남광주통합특별시당 초대 위원장 선출",
+    "summary": [
+      "안도걸 더불어민주당 의원(광주 동남을)이 전남광주통합특별시당 초대 위원장으로 선출됐다.",
+      "민주당은 15일 전남광주 나주시 나주종합스포츠파크 다목적체육관에서 전남광주통합특별시당 정기당원대회를 열고 안 의원을 초대 시당위원장으로 선출했다.",
+      "안 신임 위원장은 수락연설에서 \"초대 전남광주통합특별시당 위원장이라는 막중한 소임을 기쁨보다 무거운 책임감으로 받는다\"며 \"오늘의 선택은 개인 안도걸의 승리가 아니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n19d500a0",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/202608153226i",
+    "title": "\"내가 죽으면 지분 여기 팔아라\"…아르마니의 유언 [안혜원의 명품의세계]",
+    "summary": [
+      "\"내가 죽으면 지분 여기 팔아라\"…아르마니의 유언 [안혜원의 명품의세계]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n073338cf",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "23분 전",
+    "url": "https://www.hankyung.com/article/2026081532877",
+    "title": "\"용산공원 전체 주택공급 검토\"…용산구 \"강력 반대\"",
+    "summary": [
+      "\"용산공원 전체 주택공급 검토\"…용산구 \"강력 반대\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n707bf91f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/15/632H3QPAQZCRLP36UYKW6VWLNM/",
+    "title": "인도네시아 플로레스섬 규모 7.7 지진...최소 20명 사망",
+    "summary": [
+      "인도네시아 플로레스섬 규모 7.7 지진...최소 20명 사망."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n397318eb",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815034500004",
+    "title": "서울시 이어 용산구도 \"용산공원 주택공급 검토 강력 반대\"",
+    "summary": [
+      "(서울=연합뉴스) 황재하 기자 = 서울시에 이어 용산구도 정부가 용산공원을 주택 공급 후보지로 검토하는 데 반대 입장을 표명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd2a51a21",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "33분 전",
+    "url": "https://www.hankyung.com/article/2026081532827",
+    "title": "빽가, 독립운동가 후손이었다…\"진희창 선생, 나의 외증조부\"",
+    "summary": [
+      "빽가, 독립운동가 후손이었다…\"진희창 선생, 나의 외증조부\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56ba4da7",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "40분 전",
+    "url": "https://www.hankyung.com/article/2026081532687",
+    "title": "\"시대정신 망각한 돈키호테\"…'5·18 논란' 이진숙에 野서도 비판",
+    "summary": [
+      "\"시대정신 망각한 돈키호테\"…'5·18 논란' 이진숙에 野서도 비판."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c9c3db0",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815034000371",
+    "title": "[동포의 창]\"한상 네트워크 활용해 韓 기업-파라과이 시장 연결\"",
+    "summary": [
+      "(서울=연합뉴스) 강성철 기자 = 세계한인경제무역협회(월드옥타) 파라과이 아순시온지회(지회장 이진희)는 대한무역투자진흥공사(KOTRA) 아순시온..."
+    ],
+    "chips": [
+      "#수출"
     ]
   }
 ];
@@ -631,14 +635,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
