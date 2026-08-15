@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-15 17:11:56
+// 마지막 업데이트: 2026-08-15 18:13:18
 window.NEWS_DB = [
   {
     "id": "n24495d23",
     "category": "IT",
     "source": "조선일보",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
@@ -48,6 +48,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5e7afdfd",
+    "category": "IT",
+    "source": "businesspost.co.kr",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
+    "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
+    "summary": [
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "ne2694309",
     "category": "스포츠",
     "source": "네이트",
@@ -80,12 +97,12 @@ window.NEWS_DB = [
   {
     "id": "n5ee6ae18",
     "category": "사회",
-    "source": "아웃소싱타임스",
+    "source": "outsourcing.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
-      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
+      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ outsourcing.co.kr."
     ],
     "chips": [
       "#취업",
@@ -224,12 +241,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "66일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -298,10 +315,98 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n458ea8a4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749202",
+    "title": "\"BMI는 정상인데\"…정상 체중이어도 뱃살 많으면 심혈관질환 위험↑",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 체질량지수(BMI)가 정상 범위에 있더라도 배에 지방이 많이 쌓인 사람은 심혈관질환의 위험이 높아진다는 연구 결과가 나왔다.",
+      "지난 11일(현지 시간) 영국 텔레그래프는 존스홉킨스대학교 연구진의 논문을 인용해서 몸무게가 정상 범위에 있더라도 복부 지방이 많이 쌓인 사람은 심혈관질환 및 사망 위험이 높아질 수 있다고 보도했다.",
+      "연구진은 26만명의 데이터를 분석해서 BMI 지수와 심혈관질환 사이의 연관성을 검증했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ne7426ec1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749050",
+    "title": "\"낙태하라\"는 부부 vs 거부한 대리모…美서 태어난 아기 두고 법적 공방",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = '낙태를 요구한 예비 부모'와 '낙태를 거부한 대리모' 사이에서 태어난 아기를 둘러싸고 미국에서 법적 분쟁이 벌어지고 있다.",
+      "대리모는 임신 중절 요구를 거부한 뒤 낙태가 금지된 텍사스주로 이동해 출산했고, 예비 부모와 대리모 측은 현재 아기의 양육권 등을 두고 맞서고 있다.",
+      "지난 12일(현지 시간) 뉴욕타임스(NYT)에 따르면 로스앤젤레스에 사는 한 부부는 대리모를 통해 아이를 갖기로 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6914d81c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/08/16/MO6YUQYNEJCN3NCGL3EN3DSGI4/",
+    "title": "남편의 ‘형’과 100일 편지… 법원은 부정행위라 봤다",
+    "summary": [
+      "남편의 ‘형’과 100일 편지… 법원은 부정행위라 봤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4fd02bbc",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/national/people/2026/08/16/T6PGHR5YPVCB5DZ23WCUMB5DLA/",
+    "title": "내 몸값은 대치동 아파트 한 채",
+    "summary": [
+      "내 몸값은 대치동 아파트 한 채."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nd390a995",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/16/UGG7DSQAYNF37AF5GOQGIRXDGU/",
+    "title": "코코넛 주스 사 먹던 QR코드 결제… 미·브라질 무역 전쟁 불씨 됐다",
+    "summary": [
+      "코코넛 주스 사 먹던 QR코드 결제… 미·브라질 무역 전쟁 불씨 됐다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n4ea8e4a1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/16/IJZWUGRW6JBK5CHJYEU6BNKPF4/",
+    "title": "현금 대신 상속받은 재산으로 상속세 낼 수 있나요?",
+    "summary": [
+      "현금 대신 상속받은 재산으로 상속세 낼 수 있나요?."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n106c2cde",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "24분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154372",
     "title": "[BIC 26] 인디게임 생태계에 '빅잼' 안긴 펄어비스...9년 동행에 감사패",
     "summary": [
@@ -313,26 +418,84 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd0268adb",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/16/GQZDENLEGNRWINJUG4YWMNRZGE/",
-    "title": "‘공 7개로 1이닝 삭제하다’ LG 1라운드 신인, 1이닝 퍼퍽트…사이드암 홀드왕, 볼넷-땅볼 병살타-땅볼",
+    "id": "n410644a1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816001300527",
+    "title": "서귀포시동부·제주시동부에 호우주의보",
     "summary": [
-      "[OSEN=한용섭 기자] 프로야구 LG 트윈스 신인 투수 양우진이 퓨처스리그에서 1이닝 퍼펙트를 기록하며 다시 힘을 내고 있다.",
-      "재기를 노리는 정우영도 1이닝 무실점을 기록했다.",
-      "LG는 15일 이천 LG챔피언스파크에서 열린 2026 퓨처스리그 KIA 타이거즈와 경기에서 12-1로 크게 승리했다."
+      "(제주=연합뉴스) 기상청은 16일 오전 2시 40분을 기해 서귀포시동부·제주시동부에 호우주의보를 발효한다고 밝혔다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n370d3fbc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816001200071",
+    "title": "美민주 2028 대선 경선 순서 보니…'흑인·라틴계 주력' 메시지",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 민주당이 15일(현지시간) 텍사스주 오스틴에서 열린 전국위원회(DNC) 회의에서 2028년 대선후보 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n461c682a",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "46분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003750809",
+    "title": "예멘 모카항, 親이란 후티반군 공격에 운영 중단",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 예멘 정부는 15일(현지시간) 홍해 연안 모카항 운영을 친(親)이란 성향 후티반군의 공격으로 중단했다고 밝혔다.",
+      "모카항은 후티반군이 통제하는 호데이다항을 우회하는 선박의 화물을 처리할 수 있는 주요 항구다.",
+      "AP통신과 예멘 SABA통신, 아랍권 매체 아샤르크 알아우사트에 따르면 모카항 책임자는 이날 기자회견에서 \"후티반군의 최근 며칠간 이어진 공격으로 모두 7명이 사망하고 1600만달러 규모 피해가 발생했다\"며."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n124dd4a4",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816001100091",
+    "title": "엔비디아, 30조원어치 스페이스X 지분 보유…'순환거래' 우려",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 반도체 선두 주자 엔비디아가 일론 머스크의 우주기업 스페이스X의 지분을 대량 보유한 ..."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "ned6421e5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816001000527",
+    "title": "울산동부에 호우주의보",
+    "summary": [
+      "(울산=연합뉴스) 기상청은 16일 오전 2시를 기해 울산동부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n8937555a",
     "category": "IT",
     "source": "테크M",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154371",
     "title": "[BIC 26] '골드 스폰서' 지원 나선 스토브...인디게임 생태계 동반자 역할 '톡톡'",
     "summary": [
@@ -348,7 +511,7 @@ window.NEWS_DB = [
     "id": "nb4ef832e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260814_0003748961",
     "title": "하늘에서 91m 뚝 떨어진 여객기…에어인디아, 모든 조종사 약물검사 한다",
     "summary": [
@@ -361,144 +524,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n07d65b61",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003748816",
-    "title": "클래리티 법안 불발 버틴 비트코인…\"하반기 우상향 기대\"",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 미국 가상자산 시장구조법 클래리티법(Clarity Act) 처리가 9월로 밀렸음에도 비트코인이 하반기 상승 곡선을 그릴 것이란 분석이 나왔다.",
-      "법안 불발에도 투자심리가 견조한 데다 상장지수펀드(ETF)를 통한 자금 유입이 재개됐다는 점에서다, 김지원 KB증권 크립토리서치팀장은 14일 유튜브 채널 투자360에서 \"8월은 역사적으로 비트코인 수익률이 높지 않아 보수적으로 접근할 필요가 있다\"면서도 \"하반기까지는 낮은."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n7826b781",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/16/GBSTAZLEGZTGGOBVGYZDANRQGM/",
-    "title": "‘눈 둘 데가 없네’ 홍상수, 로카르노영화제 감독상… 김민희는 연기상",
-    "summary": [
-      "홍상수 감독과 배우 김민희가 신작 ‘눈 둘 데가 없네’로 로카르노영화제에서 나란히 상을 받았다.",
-      "AFP통신에 따르면 영화제 측은 15일(현지시각) 홍 감독에게 감독상을, 김민희와 이탈리아 배우 모니카 벨루치에게 연기상을 준다고 밝혔다.",
-      "김민희·권해효·신석호·박미소·최명길이 연기한 ‘눈 둘 데가 없네’는 이혼 가정의 딸 상희(김민희)가 10년 전 마지막으로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne5e37d7f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815040052109",
-    "title": "이스라엘 공격에 레바논서 11명 사망…\"6월 휴전 이후 최다\"(종합2보)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 레바논 남부 지역에서 이스라엘의 공격으로 9명이 사망했다고 AFP통신 등이 15일(현지시간) 레바논 현지 매..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncf7f662c",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003750794",
-    "title": "美 상무장관 \"애플에 中 메모리 반도체 구매 자제 요구\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 하워드 러트닉 미국 상무장관은 애플에 중국산 메모리 반도체 구매 자제를 요구했다고 월스트리트저널(WSJ)이 14일(현지시간) 보도했다.",
-      "러트닉 장관은 전날 텍사스주(州) 휴스턴 애플 제조시설을 방문한 뒤 인터뷰에서 \"트럼프 행정부는 그것(중국산 메모리 반도체 구매)에 찬성하지 않는다\"며 \"메모리 (반도체) 문제는 다른 해결책이 있어야 하지만 위대한 미국 기업들이 중국산 메모리를 사용하는 것은 아니다\"고 말했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n53852730",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749814",
-    "title": "\"신부 측 하객이 0명\"…보육원 출신 여성이 결혼식 후 남긴 말",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 보육원에서 자라 가족도, 가까운 친구도 거의 없었던 여성이 신부 측 하객 한 명 없이 결혼식을 올린 사연을 공개해 온라인에서 주목받고 있다 14일 한 결혼 정보 공유 카페에 '신부측 하객이 0명인 결혼식을 해보셨나요? 후기 남길게요'라는 게시글이 올라왔다.",
-      "이 글을 남긴 작성자 A씨는 자신이 보육원에서 자란 '흙수적 출신'이라고 소개했다.",
-      "부모도 없고 고등학생 때까지 따돌림 당해 대학 시절에는 불판을 닦으며."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc75a5404",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "43분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/16/MQ2TONBYMFRGEMLGMIYGCNJVMU/",
-    "title": "최고령 타격의 신도 때론 변신한다. '결정적 스리런포' 3안타로 깨어난 타점머신 \"타점 없어 너무 답답. 연습 방법 바꾸고 반전\"",
-    "summary": [
-      "[대구=스포츠조선 정현석 기자]최근 숨고르기를 하던 최형우까지 터졌다.",
-      "삼성 라이온즈의 '해결사' 최형우가 결정적인 한 방으로 최근의 답답했던 흐름을 단숨에 날려버렸다.",
-      "최형우는 15일 대구 라이온즈파크에서 열린 한화 이글스와의 홈경기에 5번 지명타자로 선발 출전, 4타수 3안타(1홈런) 3타점을 기록하며 팀의 11대6 대승과 3연승을 이끌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3868db92",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816000700109",
-    "title": "젤렌스키 '역사갈등' 폴란드에 화해 손짓…\"볼셰비키 함께 격퇴\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 15일(현지시간) 폴란드 국경일을 축하하며 폴란드와 역사 갈등 이후 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nacce7369",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "51분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816000800082",
-    "title": "홍상수 '눈 둘 데가 없네' 로카르노영화제 감독상",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 홍상수 감독과 배우 김민희가 신작 '눈 둘 데가 없네'로 스위스에서 열린 제79회 로카르노영화제에서 나란히..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n33d4fe23",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816000400109",
-    "title": "\"후티 반군 공격에 예멘 모카항 운영 중단\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 예멘의 친이란 반군 후티의 계속된 공격으로 홍해 연안의 예멘 모카항이 운영을 중단했다고 로이터통신이 15일(..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7b15e3d1",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260816/134483499/1",
     "title": "‘송민규 2골 1도움’ K리그1 서울, 대전에 4-2 짜릿한 역전승",
     "summary": [
@@ -512,7 +541,7 @@ window.NEWS_DB = [
     "id": "n25ccedfa",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026081422227",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 16일 띠별 추천 점심메뉴",
     "summary": [
@@ -526,7 +555,7 @@ window.NEWS_DB = [
     "id": "n5a006a48",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026081300867",
     "title": "[오늘의 운세] 2026년 8월 16일 별자리 운세",
     "summary": [
@@ -540,7 +569,7 @@ window.NEWS_DB = [
     "id": "nab8c6e09",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026081421997",
     "title": "[오늘의 운세] 2026년 8월 16일 오행별 행운의 컬러",
     "summary": [
@@ -554,7 +583,7 @@ window.NEWS_DB = [
     "id": "n813f84d7",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260815/134483490/1",
     "title": "중국 진출설 일축한 FC서울 김기동 감독…“난 서울 사랑해”",
     "summary": [
@@ -565,61 +594,31 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne9985b37",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "4시간 전",
+    "url": "https://view.asiae.co.kr/article/2026081522470186098",
+    "title": "용산구 \"용산공원 주택 공급 검토에 강력 반대\"",
+    "summary": [
+      "서울 용산구가 정부의 용산공원 주택 공급 검토 방침에 정면으로 반대하고 나섰다.",
+      "구는 15일 입장문을 내고 김윤덕 국토교통부 장관이 용산어린이정원을 넘어 용산공원 전체를 주택 공급 후보지로 검토하겠다고 밝힌 데 대해 깊은 유감을 표하며 강력히 반대한다고 밝혔다.용산구는 \"용산공원은 120년 만에 국민의 품으로 돌아오는 서울 도심의 마지막 대규모 국가공원\"이라며 \"국가의 상징공간이 될 용산공원을 '주택공급에 활용."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "ne1803726",
     "category": "사회",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260815/134483466/1",
     "title": "인니 7.7 강진 사망자 47명…북수마트라서 또 6.9 지진",
     "summary": [
       "인도네시아 북수마트라주(州) 페마탕시안타르 인근에서 15일(현지시간) 규모 6.9 지진이 발생했다.미국 지질조사국(USGS)에 따르면 지진은 이날 오후 5시54분 페마탕시안타르에서 북북서쪽으로 15㎞ 떨어진 지점에서 규모 6.9의 지진이 발생했다.",
       "진원의 깊이는 172.5㎞로 파악됐다.",
       "인명과 재산 피해는 현재 보고되지 않았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na5112c0e",
-    "category": "스포츠",
-    "source": "ZDNet Korea",
-    "time": "4시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260815221004",
-    "title": "마이클 오언, 이하마켓츠 글로벌 브랜드 앰배서더로 합류",
-    "summary": [
-      "[지디넷코리아]홍콩 및 뉴욕 2026년 8월 15일 /PRNewswire/ -- 이하마켓츠(ehamarkets)가 잉글랜드 축구의 전설이자 2001년 발롱도르(Ballon d'Or) 수상자인 마이클 오언(Michael Owen)이 글로벌 브랜드 앰배서더로 합류하며 글로벌 브랜드 파트너십을 체결했다고 오늘 발표했다.",
-      "오언은 기술과 신뢰성, 더욱 간편한 트레이딩 경험에 중점을 둔 이하마켓츠의 방향성에 매력을 느꼈다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf7ead1c9",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/2026081534787",
-    "title": "\"이 소스 매일 먹어요\" 아이돌 고백에…경고 쏟아졌다 [건강!톡]",
-    "summary": [
-      "\"이 소스 매일 먹어요\" 아이돌 고백에…경고 쏟아졌다 [건강!톡]."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n66449f68",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260815/134483461/1",
-    "title": "‘놀토’ 리센느 원이, 엄마도 딸 못지 않은 인기…“목격담까지 나와”",
-    "summary": [
-      "‘대세’ 아이돌로 떠오른 리센느 원이가 어머니까지 유명해졌다고 말했다.",
-      "15일 방송된 tvN 예능 프로그램 ‘놀라운 토요일’은 ‘공주들아 모여라’ 특집으로 꾸며졌고, 리센느 원이, 리브, 제나가 게스트로 출연했다.이날 붐은 원이에게 “요즘 원이가 어머니 때문에 미치겠다고?”라고 물었다.",
-      "이에 원이는 자신의 유튜브 채널에서 어머니를 언급한 영상이 큰 관심을 받았다고 설명했다."
     ],
     "chips": [
       "#뉴스"
@@ -632,20 +631,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "3240건",
+    "trend": "+395%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
