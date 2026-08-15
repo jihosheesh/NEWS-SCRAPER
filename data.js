@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-15 00:37:23
+// 마지막 업데이트: 2026-08-15 02:07:39
 window.NEWS_DB = [
   {
     "id": "n9763e68e",
     "category": "사회",
     "source": "투데이경제",
-    "time": "12시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZVV0SG5SS2kwVUNpWjN4X19kU2JxOTFqY293UVVaUTc4UkxKLWVOMTFBS21XY1dTejB4YlVQY3RvV0d5SGZjNU1fVUxZVjQwcXFHZFk5MVBSdjNZZFJkc2tPZVlIOHdLSldv?oc=5",
     "title": "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nf3930c1d",
     "category": "IT",
     "source": "공공뉴스",
-    "time": "15시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1bk5PZ0FoYW5QYnM3SlRCZG1IVHM0QU9vbkFUa04zZnhrei1TYXI4VFFvenZZc0MyQjh5Z2d0RENLU2xhZTJydW1GQjdEQVljeVZjRlA5WVlEUDBGX0J3cGEwcl9jRHpGWlkzalBB0gFuQVVfeXFMUHVuTk9nQWhhblBiczdKVEJkbUhUczRBT29uQVRrTjNmeGt6LVNhcjhUUW96dllzQzJCOHlnZ3REQ0tTbGFlMnJ1bUZCN0RBWWN5VmNGUDlZWURQMEZfQndwYTByX2NEekZaWTNqUEE?oc=5",
     "title": "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱",
     "summary": [
@@ -35,12 +35,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "businesspost.co.kr",
-    "time": "18시간 전",
+    "source": "비즈니스포스트",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "n42644652",
     "category": "경제",
     "source": "Mshale",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYTc5X29yOThmZk9vT2Zlak9nc2NQM3Mwbkk3TDlsQlUxOUZXS0F5WVBhWHlGOUttOEJObDBrUVNpR1F3czJ0dm5KeG0tb0FmU203VFhWTzc1bjg?oc=5",
     "title": "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd)",
     "summary": [
@@ -97,12 +97,12 @@ window.NEWS_DB = [
   {
     "id": "n5ee6ae18",
     "category": "사회",
-    "source": "outsourcing.co.kr",
-    "time": "1일 전",
+    "source": "아웃소싱타임스",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
-      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ outsourcing.co.kr."
+      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
     ],
     "chips": [
       "#취업",
@@ -174,12 +174,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "14일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -189,7 +189,7 @@ window.NEWS_DB = [
     "id": "nac7d261c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14일 전",
+    "time": "15일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
@@ -302,6 +302,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5a4d75fa",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154366",
+    "title": "[BIC 26] 인도네시아, 게임산업 육성 본격화...\"韓 인디게임과 협력 기회 넓힐 것\"",
+    "summary": [
+      "인도네시아 통신디지털부(KOMDIGI)가 국내 인디게임 축제를 찾았다.",
+      "자국의 게임산업 정책 방향을 소개하고 인디게임 생태계 육성 확대에 나서겠다는 의지다.",
+      "인도네시아 게임 개발 인재를 양성하고 글로벌 시장과의 연결을 강화하는 한편, 국내 게임업계와의 교류도 확대한다는 전략이다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
     "id": "n29cb4f47",
     "category": "사회",
     "source": "테크M",
@@ -350,284 +366,267 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n02dc2253",
-    "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154356",
-    "title": "광복절도 해커들의 'D-데이'?...국경일에 '공격 버튼' 누르는 이유",
+    "id": "nb391c8ec",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260815/134483038/1",
+    "title": "황희찬, 울버햄튼 2부 챔피언십 개막전 명단 제외…이적하나",
     "summary": [
-      "국경일이나 정치·외교 행사를 전후해 사이버 공격이 늘거나 집중되는 사례가 반복적으로 관측된다.",
-      "사회적 관심이 집중되는 시기를 노려 정치적 메시지를 알리거나 정부기관 또는 주요 기업을 공격 대상으로 삼는 식이다.",
-      "올해는 광복절을 앞두고 한국을 겨냥한 특이 동향은 확인되지 않았다."
+      "축구 국가대표 공격수 황희찬이 소속팀 잉글랜드 프로축구 챔피언십(2부) 울버햄튼 원더러스의 리그 개막전에 결장했다.울버햄튼은 15일(한국 시간) 영국 울버햄튼의 몰리뉴 스타디움에서 열린 2026~2027시즌 챔피언십 1라운드 홈 경기에서 블랙번 로버스와 2-2로 비겼다.지난 시즌 잉글랜드 프리미어리그(EPL) 20개 팀 중 최하위로 강등된 울버햄튼은 이번 시즌을 챔피언십에서 시작한다.2부리그 강등으로 거취가 불투명해진 황희찬은 개막전 출전 명단."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n9ce2d0ae",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003748867",
+    "title": "\"먼저 만나는 가을 맛\" 투썸플레이스, 밤·고구마 디저트",
+    "summary": [
+      "[서울=뉴시스] 이혜원 기자 = 디저트 카페 투썸플레이스는 늦더위 속 가을 시즌을 한발 먼저 맞이하며, 신제품 '촉촉한 밤 생크림 케이크'와 '부드러운 고구마 생크림 케이크'를 출시한다고 15일 밝혔다.",
+      "이번 신제품은 밤 원물을 가득 넣은 '촉촉한 밤 생크림 케이크'와 '부드러운 고구마 생크림 케이크' 2종이다.",
+      "두 제품 모두 홀케이크 디자인을 그대로 축소한 ‘쁘띠 사이즈’로도 선보여 1~2인이 가볍게 즐기거나 작은 기념일을 위한 케이크로도 사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb37ac870",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260815/134483035/1",
+    "title": "‘입지 흔들’ 김하성, 9회 대수비로 교체 출전…애틀랜타는 0-2 석패",
+    "summary": [
+      "시즌 내내 부상과 부진을 반복한 김하성(애틀랜타 브레이브스)이 좀처럼 입지를 회복하지 못하고 있다.김하성은 15일(한국 시간) 미국 조지아주 애틀랜타의 트루이스트 파크에서 열린 2026 메이저리그(MLB) 애리조나 다이아몬드백스와의 홈 경기 9회 대수비로 그라운드를 밟았다.4경기 연속 결장 위기에 놓였던 김하성은 팀이 0-1로 밀리던 9회초 유격수 대수비로 투입됐다.애리조나 팀 타와의 솔로포로 점수 차가 0-2로 벌어진 뒤 김하성은 후속 타자로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b609b11",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750515",
+    "title": "영화 '돌아이' 감초 조연…배우 마도식 별세",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 원로배우 마도식(본명 우상익)이 별세했다.",
+      "영화계에 따르면 마도식은 지난 14일 오전 서울 국립중앙의료원에서 세상을 떠났다.",
+      "1944년 충북 괴산에서 태어난 고인은 학창 시절 충북 대표 역도 선수로 활약하다 1960년 최훈 감독의 영화 '밤에 핀 해바라기'(1965년 개봉)에 출연하며 영화계에 입문했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ncce86b4d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260815/134483032/1",
+    "title": "“훈장 받을 후손 어디에”…아직 전달 못한 독립유공 훈장 7622개 달해",
+    "summary": [
+      "독립운동 공적을 인정받고도 후손을 찾지 못해 훈장을 전수하지 못한 독립운동자가 전국에 7600명을 넘긴 것으로 나타났다.15일 국가보훈부에 따르면 독립운동 공적으로 건국훈장, 건국포장, 대통령표창 등을 수여했으나 후손을 찾지 못해 실제 이를 전달하지 못한 독립유공자는 7622명이다.지역별 미전수 현황을 보면 경기도가 547명으로 가장 많았다.",
+      "이어 충남 456명, 전북 412명, 경북 371명, 강원 347명, 전남 278명, 경남 246명,."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nfd3bedc1",
-    "category": "사회",
+    "id": "na0a03a3d",
+    "category": "IT",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750482",
-    "title": "與 '81주년 광복절'에 \"더 찬란한 대한민국으로…국민과 나아갈 것\"",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260815_0003750527",
+    "title": "원주 철강 야적장서 불…인명피해 없어",
     "summary": [
-      "[서울=뉴시스]신재현 기자 = 더불어민주당이 제81주년 광복절을 맞아 \"선열들이 되찾아 주신 빛이 더 찬란한 대한민국의 미래로 이어지도록 국민과 함께 나아가겠다\"고 밝혔다.",
-      "김한나 대변인은 이날 서면브리핑을 통해 \"나라를 빼앗긴 암흑의 시간에도 독립의 희망을 놓지 않았던 순국선열과 애국지사들께 깊은 존경과 감사의 마음을 올린다\"며 이같이 밝혔다.",
-      "김 대변인은 \"독립을 위해 싸운 역사가 나라의 뿌리가 되었고, 나라를 지킨 헌신이 오늘의 대한민국을."
+      "[원주=뉴시스]이덕화 기자 = 15일 오전 강원 원주시 흥업면의 한 철강업체 야적장에서 불이 나 약 3시간30분 만에 진화됐다.",
+      "이 불로 야적장에 쌓여 있던 고철과 배터리 등이 불에 타 약 1000만원의 재산피해가 발생했다.",
+      "인명피해는 발생하지 않았다."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n44f69c74",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003747450",
+    "title": "'언어 너머의 언어'…안국문화재단, 테마기획전",
+    "summary": [
+      "[서울=뉴시스]이소헌 기자 = 안국문화재단이 여름 미술용어 테마기획전을 개최한다.",
+      "15일 안국문화재단에 따르면 재단은 오는 19일까지 경기 과천 AG갤러리에서 여름 미술용어 테마기획전 '언어 너머의 언어: 표현으로 허무는 경계' 전을 개최한다.",
+      "AG갤러리는 안국약품이 후원하고 안국문화재단에서 운영한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n95281c2c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750449",
-    "title": "81년 전 그날의 울림, 광복절 안방 찾는 특집 다큐·예능",
-    "summary": [
-      "[서울=뉴시스]강주희 기자 = 제81주년 광복절을 맞아 다양한 특집 방송과 다큐멘터리가 시청자들을 찾는다.",
-      "15일 방송계에 따르면 KBS는 이날 오후 1시 1TV에서 네트워크 기획 다큐멘터리 '관순동순'을 방송한다.",
-      "'관순동순'은 독립운동가 유관순과 3·1 운동에서 함께 만세를 부르다 서대문형무소에서 옥고를 치른 친구 남동순 여사의 독립운동 발자취를 재조명한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n90947052",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750478",
-    "title": "하동군, 가뭄에 농작물 피해 확산…주말 단비에 '기대'",
-    "summary": [
-      "[하동=뉴시스] 차용현 기자 = 극심한 가뭄이 이어지고 있는 가운데 경남 하동군이 농작물 피해를 막기 위해 비상급수와 농업용수 확보에 총력을 기울이고 있다.",
-      "15일 하동군에 따르면 지난 7월 누적 강수량은 70.3㎜로 전년 441.8㎜보다 371.5㎜ 적었다.",
-      "지난 10일 기준 관내 저수율도 29.6%로 전년 71.2%, 평년 67%에 비해 크게 떨어졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n49adbb3f",
+    "id": "n81f25a8c",
     "category": "사회",
     "source": "조선일보",
     "time": "6분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/15/AGIMHZMRYZFBDOOQLABYWJITUU/",
-    "title": "‘첫 선발’ 이강인 환상적인 킬러패스… AT 마드리드 예열 마쳐",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/MQ3DQYRRME4TAMTBG4YDAMRTHE/",
+    "title": "안보현, 전무후무 플렉스 수사…캐릭터 착붙 쾌남 매력 폭발(‘재벌X형사2’)",
     "summary": [
-      "‘첫 선발’ 이강인 환상적인 킬러패스… AT 마드리드 예열 마쳐."
+      "[OSEN=강서정 기자] 안보현이 ‘재벌X형사2’에서 진이수 특유의 유쾌하고 호쾌한 매력으로 안방극장을 제대로 사로잡고 있다.SBS 금토드라마 ‘재벌X형사2’(제작 스튜디오S, 빅오션이엔엠, 비에이 엔터테인먼트)는 수사가 막히면 재력으로 판을 뒤집는 재벌형사 진이수와 새 팀장 주혜라의 돈발 날리는 유쾌·상쾌·통쾌 공조 수사극이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n83bb862d",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750471",
-    "title": "쓰나미로 2500명 숨졌던 인니 섬 규모 7.7 지진(종합2보)",
-    "summary": [
-      "[마우메레=AP/뉴시스] 강영진 기자 = 강력한 규모 7.7의 지진이 15일 이른 시간 인도네시아 해안 앞바다에서 발생해 건물과 주택이 파손되고 쓰나미 경보가 발령됐다.",
-      "미국 지질조사국은 이 지진이 인도네시아 시간 오전 5시58분 인도네시아 플로레스 지역에서 깊이 10km 지점에서 발생했다고 밝혔다.",
-      "진앙은 동누사틍가라주 엔데시에서 북북서쪽으로 68km 떨어진 곳에 있었다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n580f69c8",
+    "id": "nc0159cef",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815019900053",
-    "title": "포항 보릿돌교 붕괴현장 '위험구역' 설정…갯바위 등 출입 통제",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814150900017",
+    "title": "[게임위드인] 게임사들은 해외로…변화의 기로 선 지스타",
     "summary": [
-      "(포항=연합뉴스) 손대성 기자 = 경북 포항 보릿돌교 붕괴 사고와 관련해 포항시가 사고 현장 주변을 위험구역으로 정하고 출입 제한에 나섰다."
+      "(서울=연합뉴스) 김주환 기자 = 국내 최대 게임쇼 지스타(G-STAR)가 근 10년 사이 가장 큰 위기를 맞고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd7068464",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026081408444700250",
-    "title": "[주末머니]“브라질 채권, 지금은 달러로 이자 챙겨라…헤알화는 선거 뒤\"",
+    "id": "ne867fa53",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/15/ME3TMMBRMEYDSMTGGQZTEMBUMI/",
+    "title": "야구 U-12 대표팀, 아시아유소년야구대회 동메달 결정전에서 중국과 격돌",
     "summary": [
-      "브라질 채권에 투자한다면 지금은 달러화 채권으로 이자수익을 챙기고, 헤알화 채권은 10월 선거 이후를 노리는 전략이 유효하다는 증권가 분석이 나왔다.",
-      "루이스 이나시우 룰라 다시우바 대통령의 재선 가능성이 높은 가운데 재정정책에 대한 우려로 4분기 채권시장의 변동성이 커질 수 있는 만큼, 헤알화 채권은 가격이 떨어졌을 때 사들이는 것이 낫다는 분석이다.",
-      "15일 NH투자증권의 해외채권 전략 보고서에 따르면 브라질 중앙."
+      "[OSEN=길준영 기자] 대한민국 12세 이하 야구 국가대표팀이 아시아유소년야구대회에서 동메달 결정전에 나선다.",
+      "대한야구소프트볼협회는 15일 “제12회 아시아유소년야구대회(12세 이하)에 참가한 대한민국 U-12 야구 국가대표팀이 슈퍼라운드를 마치고 중국과 동메달 결정전을 치른다”고 전했다.",
+      "대표팀은 슈퍼라운드 1차전에서 중국에 2-5로 패한 데 이어, 일."
     ],
     "chips": [
-      "#정책",
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8d253910",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026081510595058314",
+    "title": "'종전' 제안한 李대통령 \"선제적 평화조치로 北 호응 이끌 것\"",
+    "summary": [
+      "이재명 대통령은 15일 북한과 종전 논의를 시작하고 북핵 능력 고도화를 멈추자는 청사진을 제시했다.",
+      "이 대통령은 이날 서울 종로구 세종문화회관에서 열린 제81주년 광복절 경축식에 참석해 \" 전쟁을 종식하고, 한반도의 불안정한 정전 체제를 평화 체제로 바꾸는 여정에 나서겠다\"며 \"서로에 대한 상호 위협 의사를 내려놓고 오래된 전쟁을 끝내기 위한 당사자들 간의 논의를 시작하자\"고 밝혔다.",
+      "그러면서 \"이를 통해 북의 핵."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n80be414f",
+    "id": "nfe4fab18",
     "category": "경제",
     "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026081509235803413",
-    "title": "8·15 광복절 日다카이치, 야스쿠니 참배 대신 공물 봉납",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026081510590354945",
+    "title": "광복절 '진보·보수 집회'에 도심 혼잡…신고 인원만 7만명",
     "summary": [
-      "한국 광복절이자 일본의 제2차 세계대전 패전일인 15일 다카이치 사나에 일본 총리가 야스쿠니신사를 참배하지 않고 자민당 총재 자격으로 공물 대금을 봉납했다.",
-      "이날 교도통신 등에 따르면 다카이치 총리는 이날 오전 도쿄 야스쿠니신사에 '다마구시'로 불리는 공물 대금을 사비로 봉납했다.",
-      "그는 일본 총리가 아닌 자민당 총재 자격의 봉납으로 전해졌다."
+      "광복절인 15일 서울 도심 곳곳에서 진보·보수 단체들이 대규모 집회와 행진에 나선다.",
+      "신고 인원만 7만명이 넘어 세종대로와 종로·을지로 등 주요 도로 곳곳에서 교통 혼잡이 예상된다.",
+      "경찰은 교통경찰 200여명을 배치하면서 시민들에 \"대중교통을 이용해달라\"고 촉구했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n840a6a09",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815018900007",
-    "title": "하이원리조트·휴온스, 나란히 PBA 팀리그 3연승…전력보강 효과",
+    "id": "n678005d2",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/15/GYZGGZDDMFTGEZDBGQZTSNZRMQ/",
+    "title": "챗GPT에 ‘전여친 살해계획’ 작성한 美 남성, 오픈AI 신고로 체포",
     "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 비시즌 전력 보강에 성공하며 강력한 우승 후보로 꼽혔던 프로당구(PBA) 하이원리조트와 휴온스가 나란히 3연승..."
+      "인공지능(AI) 챗봇 챗GPT에 살해 계획을 털어놓은 미국 남성이 오픈AI의 신고로 체포됐다.",
+      "미국 플로리다주에 거주하며 대형 투자은행에서 금융 분석가로 일했던 대런 저우(25)가 지난 3월 챗GPT와 대화에서 헤어진 여자친구를 살해하겠다는 계획을 상세히 털어놨다가 결국 경찰에 체포됐다고 정보기술(IT) 전문매체 퓨처리즘과 현지 신문 팜비치포스트가 14일(."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "na307986d",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026081510483639532",
+    "title": "주유소 기름값 13주째 하락…휘발유 1864.1원·경유 1847원",
+    "summary": [
+      "이번 주 전국 주유소 기름값이 13주 연속 하락하면서 휘발유·경유 모두 1800원 중반대를 유지했다.",
+      "국제유가는 중동전쟁이 장기화한 데 따른 공급 불안 속에서 상승했다.",
+      "15일 한국석유공사 유가정보시스템 오피넷에 따르면 8월 둘째 주(9일∼13일) 전국 주유소 휘발유 평균 판매가는 지난주보다 L당 2.1원 내린 1864.1원이었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n94f32a58",
+    "id": "n9aa015e1",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815019000063",
-    "title": "태안 통개항 인근서 해루질 50대 실종…합동 수색 중",
-    "summary": [
-      "(태안=연합뉴스) 박주영 기자 = 충남 태안의 한 갯벌에서 야간 해루질(갯벌에서 조개 등 수산물을 채취하는 것)을 하던 50대가 실종됐다."
-    ],
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815022800001",
+    "title": "[속보] 李대통령 \"국가대항전에 모두 원팀…우리 안 적대·증오 안돼\"",
+    "summary": [],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n9efb8bd5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815018800054",
-    "title": "미쓰비시광업, 강제동원 배상 2심 판결 불복해 상고",
-    "summary": [
-      "(전남광주=연합뉴스) 정회성 민현기 기자 = 일제강점기 미쓰비시 탄광 강제노역 피해자 유족이 낸 손해배상 소송의 1·2심에서 잇달아 패소한 일본..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n27d03bcb",
+    "id": "ndf4a9e6d",
     "category": "사회",
     "source": "동아일보",
-    "time": "28분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260815/134482875/1",
-    "title": "트럼프 “호르무즈, 美영토로 선언할 것”… 이란 “허황된 망상” 반발",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260815/134482926/2",
+    "title": "[속보]李 “오래된 전쟁 끝낼 남북 당사자 논의 시작하자”",
     "summary": [
-      "도널드 트럼프 미국 대통령이 14일(현지시간) “호르무즈 해협을 조만간 미국 영토로 선언하게 될 것”이라고 말했다.",
-      "또 이란이 추가 공격에 나설 경우 “100배로 갚아줄 것”이라고도 했다.",
-      "트럼프 대통령이 이른바 ‘철의 장벽’(wall of steel)으로 불리는 미군의 호르무즈 해협 봉쇄 작전을 재차 강조한 것으로 풀이되는 가운데, 이란은 “허황된 망상”이라며 즉각 반발했다."
+      "이재명 대통령이 광복절인 15일 “친일 반민족 행위자가 부당 축적한 재산을 조사·환수해 역사에 대한 확실한 책임을 묻겠다”고 밝혔다.",
+      "이 대통령은 남북한 관계에 대해선 “한반도의 불안정한 정전 체제를 평화 체제로 바꾸는 여정에 나서겠다”며 북측에 대화를 촉구했다.이 대통령은 이날 오전 광복절 81주년 경축사에서 “잘못된 역사의 유산을 바로잡고, 독립을 위해 헌신한 분들의 명예와 삶을 지켜내는 일에 혼신의 힘을 다하겠다”며 이같이 밝혔다."
     ],
     "chips": [
-      "#정치",
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "n27ec5f6b",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "35분 전",
-    "url": "https://www.hankyung.com/article/2026081530527",
-    "title": "하영, 中 SNS에 올린 사과문 돌연 삭제…왜?",
-    "summary": [
-      "하영, 中 SNS에 올린 사과문 돌연 삭제…왜?."
-    ],
+    "id": "n66f6e99b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815022600001",
+    "title": "[속보] 李대통령 \"새 한일관계, 상처안고 살아가는 피해자에 온기 돼야\"",
+    "summary": [],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n03fdc146",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "36분 전",
-    "url": "https://www.hankyung.com/article/202608141630g",
-    "title": "이력서 300건 쏟아지는데…\"뽑을 사람이 없다\" 아우성인 까닭 [인터뷰]",
-    "summary": [
-      "이력서 300건 쏟아지는데…\"뽑을 사람이 없다\" 아우성인 까닭 [인터뷰]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc39d337d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "36분 전",
-    "url": "https://www.hankyung.com/article/202608020398i",
-    "title": "샤넬 대신 산 라오푸골드…'중국판 까르띠에' 안착할까",
-    "summary": [
-      "샤넬 대신 산 라오푸골드…'중국판 까르띠에' 안착할까."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2c4a1300",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "36분 전",
-    "url": "https://www.hankyung.com/article/202608139175g",
-    "title": "추미애 질타한 삼전닉스 '물 낭비' 사실일까?…보고서 들여다보니 [홍민성의 테토남]",
-    "summary": [
-      "추미애 질타한 삼전닉스 '물 낭비' 사실일까?…보고서 들여다보니 [홍민성의 테토남]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41f55b5d",
+    "id": "n3eee5119",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "37분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814117900008",
-    "title": "[IPO챗] 인제니아·기도산업, 다음주 코스닥 입성",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815020751003",
+    "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질(종합)",
     "summary": [
-      "(서울=연합뉴스) 정회인 기자 = 다음 주(18~21일) 기업공개(IPO) 시장에서는 바이오기업 인제니아테라퓨틱스와 산업용 의류 제조업체 기도산..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef7f9cde",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "37분 전",
-    "url": "https://view.asiae.co.kr/article/2026081508440687016",
-    "title": "이란 전쟁에 북극항로 연 중국…인도양 항로 밀어내나[시사쇼]",
-    "summary": [
-      "이란 전쟁에 북극항로 연 중국…인도양 항로 밀어내나[시사쇼]."
+      "(서울=연합뉴스) 신창용 기자 = 지난해 한미 관세 협상 등 주요 통상 현안에서 실무 사령탑 역할을 해온 여한구 산업통상부 통상교섭본부장이 경질..."
     ],
     "chips": [
       "#뉴스"
@@ -640,14 +639,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
