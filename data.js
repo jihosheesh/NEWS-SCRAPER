@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-15 16:11:53
+// 마지막 업데이트: 2026-08-15 17:11:56
 window.NEWS_DB = [
   {
     "id": "n24495d23",
     "category": "IT",
     "source": "조선일보",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
@@ -64,12 +64,12 @@ window.NEWS_DB = [
   {
     "id": "n14e5eed8",
     "category": "IT",
-    "source": "zdnet.co.kr",
+    "source": "지디넷코리아",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
-      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" zdnet.co.kr."
+      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" 지디넷코리아."
     ],
     "chips": [
       "#AI",
@@ -93,23 +93,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n409989c1",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoY1k0OTBVLVc5dEl6STRWT2hsdmE4Vkg2cEhnSFNERERqczhOQ1IzUHlCNlNxSTZoMjVJUWxBeEREaE91WkZOQ3RMYktQcjlJSElBVXhiUWNaRUlzdHRNadIBeEFVX3lxTE90Ri1ZTjhua1hnT3o5eGQzY1BTcnVrVHludl9VeVM5S3JQc2xiRklhMFhMVzlzSFRpbjE2T09HR2g1OWhPb1pFQ0t4QVVQSkN4MS1NWUxyWm9vQlNXZlZJa0U3NDJGR294OWdLWG9tNXVITzRPQVBReQ?oc=5",
-    "title": "SK하이닉스는 HBM 설계, 삼성전자는 美테일러 인력…반도체 인재채용 '러시'",
-    "summary": [
-      "SK하이닉스는 HBM 설계, 삼성전자는 美테일러 인력…반도체 인재채용 '러시' 뉴시스."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스",
-      "#채용"
-    ]
-  },
-  {
     "id": "n1f2010df",
     "category": "IT",
     "source": "매일일보",
@@ -122,6 +105,21 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#반도체"
+    ]
+  },
+  {
+    "id": "n757759c6",
+    "category": "IT",
+    "source": "블록체인투데이",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcnp5M2dnNVBSd1pBTGJsb25LUWduek5ERGs0aEdnbzcwX1QtbHhPRVBCcjFQQ2l6YW56eG1GMTl4V2xSYVhncTRqWXYweDZIeGs1WTB0am01amg5VXpqbjJKSVRuZk8ydmlqdFNvc1Y?oc=5",
+    "title": "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격",
+    "summary": [
+      "드디어 승부 뒤집나?… 삼성 HBM4 수율 80% 육박, SK하이닉스 맹추격 블록체인투데이."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
     ]
   },
   {
@@ -198,12 +196,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "straightnews.co.kr",
+    "source": "스트레이트뉴스",
     "time": "60일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
     ],
     "chips": [
       "#금리"
@@ -212,15 +210,15 @@ window.NEWS_DB = [
   {
     "id": "n252753ca",
     "category": "IT",
-    "source": "unicornfactory.co.kr",
+    "source": "유니콘팩토리",
     "time": "62일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWSXM4dUswTlRBOFdwTWM1SzFqWHRkU3R3SzVNOGR0QnR5RzllZ2QzZXFHNWlGMko3bFJ1SHlJS2VINElKZndpbnVQSlFfWGRrUk5DYXFqc3ZhYXJFUHNCNFJSOERyMWVuLWZDNA?oc=5",
     "title": "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도",
     "summary": [
-      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 unicornfactory.co.kr."
+      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 유니콘팩토리."
     ],
     "chips": [
-      "#뉴스"
+      "#스타트업"
     ]
   },
   {
@@ -315,10 +313,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd0268adb",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/16/GQZDENLEGNRWINJUG4YWMNRZGE/",
+    "title": "‘공 7개로 1이닝 삭제하다’ LG 1라운드 신인, 1이닝 퍼퍽트…사이드암 홀드왕, 볼넷-땅볼 병살타-땅볼",
+    "summary": [
+      "[OSEN=한용섭 기자] 프로야구 LG 트윈스 신인 투수 양우진이 퓨처스리그에서 1이닝 퍼펙트를 기록하며 다시 힘을 내고 있다.",
+      "재기를 노리는 정우영도 1이닝 무실점을 기록했다.",
+      "LG는 15일 이천 LG챔피언스파크에서 열린 2026 퓨처스리그 KIA 타이거즈와 경기에서 12-1로 크게 승리했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n8937555a",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "8분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154371",
     "title": "[BIC 26] '골드 스폰서' 지원 나선 스토브...인디게임 생태계 동반자 역할 '톡톡'",
     "summary": [
@@ -331,217 +345,150 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncd5beb90",
+    "id": "nb4ef832e",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/16/2026081520220842270",
-    "title": "'세계 챔피언 친형 따라가고 싶었는데...' 19세 초신성 충격 사고사, 대통령까지 애도 \"국가 전체가 슬픔에 빠져\"",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003748961",
+    "title": "하늘에서 91m 뚝 떨어진 여객기…에어인디아, 모든 조종사 약물검사 한다",
     "summary": [
-      "영국의 유망한 사이클 선수가 열린 대회 도중 불의의 교통사고를 당해 19세를 일기로 세상을 떠났다.",
-      "영국 매체 '데일리 메일'은 15일(한국시간) \"영국 국적의 사이클 선수 핀레이 탈링이 볼타 아 포르투갈 대회 도중 발생한 비극적인 사고로 사망했다\"고 보도했다.",
-      "영국 'BBC' 등 현지 보도를 종합하면 웨일스 출신의 19세 유망주인 탈링은 포르투갈 북부 파페로 향하는 166.8km 구간의 대회 8번째 스테이지를 달리던 중 사고를 당했다."
+      "[서울=뉴시스]전민영 인턴 기자 = 에어인디아가 최근 여객기 급강하 사고와 조종사의 약물 검사 논란을 계기로 모든 조종사를 대상으로 금지 약물 검사를 실시하기로 했다.",
+      "지난 13일(현지 시간) 영국 BBC에 따르면 에어인디아는 이날부터 전 조종사를 대상으로 약물 검사를 시작했다.",
+      "저가 항공사인 에어인디아 익스프레스 소속 조종사도 검사 대상에 포함된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n07d65b61",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003748816",
+    "title": "클래리티 법안 불발 버틴 비트코인…\"하반기 우상향 기대\"",
+    "summary": [
+      "[서울=뉴시스]이지영 기자 = 미국 가상자산 시장구조법 클래리티법(Clarity Act) 처리가 9월로 밀렸음에도 비트코인이 하반기 상승 곡선을 그릴 것이란 분석이 나왔다.",
+      "법안 불발에도 투자심리가 견조한 데다 상장지수펀드(ETF)를 통한 자금 유입이 재개됐다는 점에서다, 김지원 KB증권 크립토리서치팀장은 14일 유튜브 채널 투자360에서 \"8월은 역사적으로 비트코인 수익률이 높지 않아 보수적으로 접근할 필요가 있다\"면서도 \"하반기까지는 낮은."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n7826b781",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/16/GBSTAZLEGZTGGOBVGYZDANRQGM/",
+    "title": "‘눈 둘 데가 없네’ 홍상수, 로카르노영화제 감독상… 김민희는 연기상",
+    "summary": [
+      "홍상수 감독과 배우 김민희가 신작 ‘눈 둘 데가 없네’로 로카르노영화제에서 나란히 상을 받았다.",
+      "AFP통신에 따르면 영화제 측은 15일(현지시각) 홍 감독에게 감독상을, 김민희와 이탈리아 배우 모니카 벨루치에게 연기상을 준다고 밝혔다.",
+      "김민희·권해효·신석호·박미소·최명길이 연기한 ‘눈 둘 데가 없네’는 이혼 가정의 딸 상희(김민희)가 10년 전 마지막으로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne5e37d7f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815040052109",
+    "title": "이스라엘 공격에 레바논서 11명 사망…\"6월 휴전 이후 최다\"(종합2보)",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 레바논 남부 지역에서 이스라엘의 공격으로 9명이 사망했다고 AFP통신 등이 15일(현지시간) 레바논 현지 매..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf7f662c",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003750794",
+    "title": "美 상무장관 \"애플에 中 메모리 반도체 구매 자제 요구\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 하워드 러트닉 미국 상무장관은 애플에 중국산 메모리 반도체 구매 자제를 요구했다고 월스트리트저널(WSJ)이 14일(현지시간) 보도했다.",
+      "러트닉 장관은 전날 텍사스주(州) 휴스턴 애플 제조시설을 방문한 뒤 인터뷰에서 \"트럼프 행정부는 그것(중국산 메모리 반도체 구매)에 찬성하지 않는다\"며 \"메모리 (반도체) 문제는 다른 해결책이 있어야 하지만 위대한 미국 기업들이 중국산 메모리를 사용하는 것은 아니다\"고 말했다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n53852730",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749814",
+    "title": "\"신부 측 하객이 0명\"…보육원 출신 여성이 결혼식 후 남긴 말",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 보육원에서 자라 가족도, 가까운 친구도 거의 없었던 여성이 신부 측 하객 한 명 없이 결혼식을 올린 사연을 공개해 온라인에서 주목받고 있다 14일 한 결혼 정보 공유 카페에 '신부측 하객이 0명인 결혼식을 해보셨나요? 후기 남길게요'라는 게시글이 올라왔다.",
+      "이 글을 남긴 작성자 A씨는 자신이 보육원에서 자란 '흙수적 출신'이라고 소개했다.",
+      "부모도 없고 고등학생 때까지 따돌림 당해 대학 시절에는 불판을 닦으며."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nc75a5404",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "43분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/16/MQ2TONBYMFRGEMLGMIYGCNJVMU/",
+    "title": "최고령 타격의 신도 때론 변신한다. '결정적 스리런포' 3안타로 깨어난 타점머신 \"타점 없어 너무 답답. 연습 방법 바꾸고 반전\"",
+    "summary": [
+      "[대구=스포츠조선 정현석 기자]최근 숨고르기를 하던 최형우까지 터졌다.",
+      "삼성 라이온즈의 '해결사' 최형우가 결정적인 한 방으로 최근의 답답했던 흐름을 단숨에 날려버렸다.",
+      "최형우는 15일 대구 라이온즈파크에서 열린 한화 이글스와의 홈경기에 5번 지명타자로 선발 출전, 4타수 3안타(1홈런) 3타점을 기록하며 팀의 11대6 대승과 3연승을 이끌었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3868db92",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816000700109",
+    "title": "젤렌스키 '역사갈등' 폴란드에 화해 손짓…\"볼셰비키 함께 격퇴\"",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 15일(현지시간) 폴란드 국경일을 축하하며 폴란드와 역사 갈등 이후 ..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n9e8f05d9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003748975",
-    "title": "\"달빛 아래서\" 새벽 러닝…선크림 발라야 할까?",
-    "summary": [
-      "[서울=뉴시스]황재희 기자 = 더운 날씨 탓에 밤에 뛰는 러닝이 인기를 끌고 있는 가운데, 선크림을 발라야 하는지에 대한 궁금증도 이어지고 있다.",
-      "16일 식품의약품안전처 블로그 ‘약이 즐거워지는 시간’(약즐시)에 따르면, 밤에 뛰는 러닝에서는 선크림(자외선차단제)을 꼭 바를 필요가 없다.",
-      "해는 없지만 가로등 밑에서 조명 빛에 얼굴이 탈까봐 걱정하는 경우가 있으나, 선크림은 불필요하다는 설명이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf432bfae",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749406",
-    "title": "금정산성축제 창작 뮤지컬 함께 만든다…시민 배우 모집",
-    "summary": [
-      "[부산=뉴시스]원동화 기자 = 부산 금정문화재단은 9월9일까지 '2026 금정산성축제' 주제공연인 창작 뮤지컬에 참여할 시민을 모집한다고 16일 밝혔다.",
-      "이번 주제공연은 금정산과 금정산성의 역사·문화적 가치를 소재로 지역 예술가와 시민이 함께 만드는 시민 참여형 창작 뮤지컬이다.",
-      "공연은 약 40분 분량으로 제작되며, 오는 10월16일 금정산성축제 개막식 식전 공연을 포함해 모두 두 차례 무대에 오른다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "nf5d377c5",
+    "id": "nacce7369",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749315",
-    "title": "\"금메달 어디 뒀지?\"…우승 인터뷰 도중 메달 없어 당황한 육상 스타",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816000800082",
+    "title": "홍상수 '눈 둘 데가 없네' 로카르노영화제 감독상",
     "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 유럽육상선수권대회 남자 멀리뛰기 금메달리스트가 우승 인터뷰 도중 메달을 놓고 온 사실을 뒤늦게 깨달아 화제가 되고 있다.",
-      "13일(현지 시간) 그리스 방송사 EPT2에 따르면 그리스 멀리뛰기 선수 밀티아디스 텐토글루는 금메달을 딴 뒤 진행한 인터뷰에서 '메달이 어디 있냐'는 기자 질문을 받고 당황해 인터뷰를 급히 끝냈다.",
-      "목에 걸려 있어야 할 금메달이 보이지 않았기 때문이다."
+      "(베를린=연합뉴스) 김계연 특파원 = 홍상수 감독과 배우 김민희가 신작 '눈 둘 데가 없네'로 스위스에서 열린 제79회 로카르노영화제에서 나란히..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n60ee0823",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749031",
-    "title": "화사, 군살 하나 없는 '뼈말라' 핏…뉴욕서 완벽 몸매",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 가수 화사가 뉴욕 한복판에서 감각적인 사복 패션을 선보이며 시선을 사로잡았다.",
-      "화사는 14일 자신의 소셜네트워크서비스(SNS)를 통해 \"단비가 되어볼게\"라는 재치 있는 문구와 함께 다채로운 일상 사진을 공유했다.",
-      "공개된 사진 속 화사는 뉴욕의 푸른 공원을 배경으로 벤치에 앉아 여유를 만끽하는 모습이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6e60fee",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/16/HA3DAZBTGFRTSZRUMFSTQY3DG4/",
-    "title": "\"축복받았다\" 롯데가 재계약 포기했는데…ML '1점대 불펜' 대변신, 이렇게 강력한 패전조 봤나",
-    "summary": [
-      "[OSEN=이상학 객원기자] 지난해 KBO리그 롯데 자이언츠에서 던졌던 좌완 투수 알렉 감보아(29·보스턴 레드삭스)가 메이저리그에서 1점대 평균자책점을 찍고 있다.",
-      "주로 팀이 지고 있는 상황에서 나오는 패전 처리이지만 무척 인상적이다.",
-      "감보아는 지난 15일(이하 한국시간) 미국 펜실베이니아주 피츠버그 PNC파크에서 치러진 2026 메이저리그 피츠버그 파이."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n3aef2125",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/sports/football/2026/08/16/MM3DCMZRMY3DINDDG4YDGNJUGA/",
-    "title": "'5경기 1무4패' 부산 이번에도 웃지 못했다, 화성과 0-0 무승부(종합)",
-    "summary": [
-      "[스포츠조선 김가을 기자]부산 아이파크가 이번에도 이기지 못했다.",
-      "부산 아이파크는 15일 부산구덕운동장에서 열린 화성FC와의 '하나은행 K리그2 2026' 홈경기에서 0대0으로 비겼다.",
-      "부산은 4연패를 끊어내는 데는 성공했지만, 승리와는 인연을 맺지 못했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne1c6ae56",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "32분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/16/MUYWGNBSGFRTKMTGGE3TQNLGGI/",
-    "title": "실수 연발에 어수선했는데, 안경에이스가 버팀목이었다…”박세웅 힘든 상황에도 6⅔이닝 잘 끌어줬다” [오!쎈 부산]",
-    "summary": [
-      "[OSEN=부산, 조형래 기자] 어수선했던 경기, 결국 선발 박세웅이 버팀목 역할을 하면서 재역전승을 완성할 수 있었다.김태형 감독이 이끄는 롯데 자이언츠는 15일 부산 사직구장에서 열린 NC 다이노스와의 경기에서 8-5로 재역전승을 거뒀다.",
-      "롯데는 이날 1회 한동희의 2타점 2루타로 기선을 제압했지만 수비에서 아쉬운 모습들이 속출했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85c369b2",
+    "id": "n33d4fe23",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816000200071",
-    "title": "\"美해군, 트럼프 '레트로 취향'에 신형 항모 디자인 변경 검토\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 해군이 도널드 트럼프 대통령의 선호에 맞춰 새로 건조 중인 항공모함의 디자인 변경을 검토하고 있다고 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7db582b5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "41분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/16/33YGHC64NFCTVKQNRHJ3B6Y5GE/",
-    "title": "트럼프, 김정은 사진 올리고 “우린 아주 잘 지내”",
-    "summary": [
-      "트럼프, 김정은 사진 올리고 “우린 아주 잘 지내”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7d4b94e9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816000300082",
-    "title": "리히텐슈타인 여성 군주 나오나…\"딸도 계승 가능\"",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 300년 넘게 귀족 집안이 다스리는 알프스 공국 리히텐슈타인에서 여성도 세습 군주 자리를 물려받을 수 있게..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6bfbf42f",
-    "category": "스포츠",
-    "source": "머니투데이",
     "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/16/2026081518161428969",
-    "title": "\"3연투 배제\" 계획 바꾼 간절했던 삼성, 짜릿 3연승→'1위와 0.5경기 차'... '칭찬 또 칭찬' 사령탑은 감사 인사를 전했다 [대구 현장]",
+    "url": "https://www.yna.co.kr/view/AKR20260816000400109",
+    "title": "\"후티 반군 공격에 예멘 모카항 운영 중단\"",
     "summary": [
-      "웬만하면 3연투를 하지 않겠다고 했지만 뜻을 바꾸지 않을 수 없었다.",
-      "그만큼 간절했던 1승을 지켜냈고 사령탑은 연신 선수들에게 고마움을 전했다.",
-      "박진만(50) 감독이 이끄는 삼성 라이온즈는 15일 대구 삼성라이온즈파크에서 열린 한화 이글스와 2026 신한 SOL KBO리그 홈경기에서 11-6 승리를 거뒀다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n678fc66d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/16/2026081521341946653",
-    "title": "\"가장 존경하고 감사했던 백인천 감독님\" 이승엽 절절한 추모글, 은사에 \"이젠 아프지 마시고 행복히 지내시길\"",
-    "summary": [
-      "\"감독님, 정말 감사했습니다.",
-      "부디 편히 쉬십시오.\" 이승엽(50) 요미우리 자이언츠 코치가 세상을 떠난 백인천 전 감독에 대한 애틋한 마음과 감사함을 전했다.",
-      "이승엽 코치는 15일 자신의 소셜네트워크서비스(SNS)를 통해 \"제가 가장 존경하고 감사했던 백인천 감독님께서 이제 세상을 떠나셨다\"며 \"감독님, 이제는 더 이상 아프지 마시고 하늘나라에서는 편안하고 행복하게 지내셨으면 좋겠다\"고 전했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n9a8065f0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/16/2026081522132756541",
-    "title": "지고 있던 쿨링 브레이크, 송민규 '한마디'가 서울 바꿨다 \"지금 포기하면 우승 없어\"... 멀티골+역전극 이끈 간절함 [상암 현장]",
-    "summary": [
-      "동점골과 역전골을 터트린 송민규(27·FC서울)가 승리 비하인드를 털어놨다.",
-      "서울은 15일 오후 7시30분 서울월드컵경기장에서 열린 대전 하나시티즌과의 '하나은행 K리그 2026' 23라운드 홈 경기에서 송민규의 막판 멀티골에 힘입어 4-2로 역전승했다.",
-      "3경기 무승(2무1패)을 끝낸 서울은 승점 47(14승5무4패)로 2위 울산HD와 승점 10점 차 선두를 유지했다."
+      "(로마=연합뉴스) 민경락 특파원 = 예멘의 친이란 반군 후티의 계속된 공격으로 홍해 연안의 예멘 모카항이 운영을 중단했다고 로이터통신이 15일(..."
     ],
     "chips": [
       "#뉴스"
@@ -551,7 +498,7 @@ window.NEWS_DB = [
     "id": "n7b15e3d1",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260816/134483499/1",
     "title": "‘송민규 2골 1도움’ K리그1 서울, 대전에 4-2 짜릿한 역전승",
     "summary": [
@@ -565,7 +512,7 @@ window.NEWS_DB = [
     "id": "n25ccedfa",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026081422227",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 16일 띠별 추천 점심메뉴",
     "summary": [
@@ -579,7 +526,7 @@ window.NEWS_DB = [
     "id": "n5a006a48",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026081300867",
     "title": "[오늘의 운세] 2026년 8월 16일 별자리 운세",
     "summary": [
@@ -593,7 +540,7 @@ window.NEWS_DB = [
     "id": "nab8c6e09",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026081421997",
     "title": "[오늘의 운세] 2026년 8월 16일 오행별 행운의 컬러",
     "summary": [
@@ -604,29 +551,75 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nadd1974d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "id": "n813f84d7",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260815/134483490/1",
+    "title": "중국 진출설 일축한 FC서울 김기동 감독…“난 서울 사랑해”",
     "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+      "프로축구 K리그1 FC서울의 김기동 감독이 교체 투입 후 ‘2골 1도움’ 맹활약을 펼친 제자 송민규를 극찬하며 최근 퍼진 자신의 중국 진출 가능성을 일축했다.서울은 15일 서울월드컵경기장에서 열린 대전과의 하나은행 K리그1 2026 23라운드 홈 경기에서 4-2 역전승을 거뒀다.3경기 무승(2무 1패)을 끊은 선두 서울(승점 47·14승 5무 4패)은 한 경기 덜 치른 2위 울산 HD(승점 37·11승 4무 7패)를 승점 10 차로 따돌렸다.승."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfe878fed",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815049651007",
-    "title": "한국 남자농구, 광복절에 한일전 역대 최다 20점 차 완패(종합)",
+    "id": "ne1803726",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260815/134483466/1",
+    "title": "인니 7.7 강진 사망자 47명…북수마트라서 또 6.9 지진",
     "summary": [
-      "(서울=연합뉴스) 최송아 기자 = 한국 남자 농구 대표팀이 광복절에 열린 일본과의 맞대결에서 완패했다."
+      "인도네시아 북수마트라주(州) 페마탕시안타르 인근에서 15일(현지시간) 규모 6.9 지진이 발생했다.미국 지질조사국(USGS)에 따르면 지진은 이날 오후 5시54분 페마탕시안타르에서 북북서쪽으로 15㎞ 떨어진 지점에서 규모 6.9의 지진이 발생했다.",
+      "진원의 깊이는 172.5㎞로 파악됐다.",
+      "인명과 재산 피해는 현재 보고되지 않았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5112c0e",
+    "category": "스포츠",
+    "source": "ZDNet Korea",
+    "time": "4시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260815221004",
+    "title": "마이클 오언, 이하마켓츠 글로벌 브랜드 앰배서더로 합류",
+    "summary": [
+      "[지디넷코리아]홍콩 및 뉴욕 2026년 8월 15일 /PRNewswire/ -- 이하마켓츠(ehamarkets)가 잉글랜드 축구의 전설이자 2001년 발롱도르(Ballon d'Or) 수상자인 마이클 오언(Michael Owen)이 글로벌 브랜드 앰배서더로 합류하며 글로벌 브랜드 파트너십을 체결했다고 오늘 발표했다.",
+      "오언은 기술과 신뢰성, 더욱 간편한 트레이딩 경험에 중점을 둔 이하마켓츠의 방향성에 매력을 느꼈다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf7ead1c9",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "4시간 전",
+    "url": "https://www.hankyung.com/article/2026081534787",
+    "title": "\"이 소스 매일 먹어요\" 아이돌 고백에…경고 쏟아졌다 [건강!톡]",
+    "summary": [
+      "\"이 소스 매일 먹어요\" 아이돌 고백에…경고 쏟아졌다 [건강!톡]."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n66449f68",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4시간 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260815/134483461/1",
+    "title": "‘놀토’ 리센느 원이, 엄마도 딸 못지 않은 인기…“목격담까지 나와”",
+    "summary": [
+      "‘대세’ 아이돌로 떠오른 리센느 원이가 어머니까지 유명해졌다고 말했다.",
+      "15일 방송된 tvN 예능 프로그램 ‘놀라운 토요일’은 ‘공주들아 모여라’ 특집으로 꾸며졌고, 리센느 원이, 리브, 제나가 게스트로 출연했다.이날 붐은 원이에게 “요즘 원이가 어머니 때문에 미치겠다고?”라고 물었다.",
+      "이에 원이는 자신의 유튜브 채널에서 어머니를 언급한 영상이 큰 관심을 받았다고 설명했다."
     ],
     "chips": [
       "#뉴스"
@@ -639,8 +632,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3240건",
-    "trend": "+395%"
+    "mentions": "3110건",
+    "trend": "+375%"
   },
   {
     "rank": 2,
@@ -650,9 +643,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
