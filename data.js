@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-16 19:13:36
+// 마지막 업데이트: 2026-08-16 20:10:23
 window.NEWS_DB = [
   {
     "id": "n066dd761",
     "category": "IT",
-    "source": "자본시장뉴스",
-    "time": "11시간 전",
+    "source": "jabon.co.kr",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
     "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
     "summary": [
-      "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다 자본시장뉴스."
+      "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다 jabon.co.kr."
     ],
     "chips": [
       "#반도체",
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n63a2b5bf",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUmVxdzBvejhrMTFkMkh4ZWpVZFJvODlDeVh1elNJcDUyRlN5dEp0NUtMWHB2QzlMZ2tnZTkydFZzUWJiaHh3MTIxNzJmcUZSR2EySE9RaGpTT3FsY3JscGxDNnhMTzRHOXc?oc=5",
     "title": "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패권 향방은?",
     "summary": [
@@ -35,12 +35,12 @@ window.NEWS_DB = [
   {
     "id": "n24495d23",
     "category": "IT",
-    "source": "조선일보",
+    "source": "chosun.com",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 조선일보."
+      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 chosun.com."
     ],
     "chips": [
       "#AI",
@@ -143,12 +143,12 @@ window.NEWS_DB = [
   {
     "id": "n1f2010df",
     "category": "IT",
-    "source": "m-i.kr",
+    "source": "매일일보",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
-    "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 - m",
+    "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
     "summary": [
-      "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 m-i.kr."
+      "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 매일일보."
     ],
     "chips": [
       "#AI",
@@ -229,12 +229,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "스트레이트뉴스",
+    "source": "straightnews.co.kr",
     "time": "61일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
     ],
     "chips": [
       "#금리"
@@ -243,15 +243,15 @@ window.NEWS_DB = [
   {
     "id": "n252753ca",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "unicornfactory.co.kr",
     "time": "63일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWSXM4dUswTlRBOFdwTWM1SzFqWHRkU3R3SzVNOGR0QnR5RzllZ2QzZXFHNWlGMko3bFJ1SHlJS2VINElKZndpbnVQSlFfWGRrUk5DYXFqc3ZhYXJFUHNCNFJSOERyMWVuLWZDNA?oc=5",
     "title": "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도",
     "summary": [
-      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 유니콘팩토리."
+      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 unicornfactory.co.kr."
     ],
     "chips": [
-      "#스타트업"
+      "#뉴스"
     ]
   },
   {
@@ -272,12 +272,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "79일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -316,32 +316,226 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n11239af2",
+    "id": "nbd8cfed8",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751162",
-    "title": "폴란드 순례객 버스 헝가리서 전복…12명 사망·10명 중상",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/17/ICIWFR6AQREKFKVGT5AFSEGWYM/",
+    "title": "5만대 판매 넘었다, 선우용여·이미숙이 밤새 숙면을 위해 자기 전 쓰는 것",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = 폴란드 순례객들을 태운 버스가 헝가리 고속도로에서 전복돼 12명이 숨지고 10명이 중상을 입었다.",
-      "16일(현지 시간) 영국 가디언 등에 따르면 사고는 이날 오전 1시께 헝가리 북동부 메조케레스테스 인근 M3 고속도로에서 발생했다.",
-      "버스가 직선 도로를 벗어나 도랑으로 추락한 뒤 전복됐다."
+      "5만대 판매 넘었다, 선우용여·이미숙이 밤새 숙면을 위해 자기 전 쓰는 것."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n620224dd",
+    "id": "n71d4efc7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751141",
-    "title": "스트레이 키즈, 美 '빌보드 200' 1위…'K팝 최초' 9연속 정상(1보)",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751167",
+    "title": "'빌보드 200 9연속 1위' 스키즈, 세상 잣대 넘어선 줏대",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = K-팝 간판 보이그룹 '스트레이 키즈'(Stray Kids·스키즈)가 새 미니 앨범 '디스 앤드 댓(THIS & THAT)'으로 미국 빌보드 메인 앨범차트 '빌보드 200' 1위를 차지했다.",
-      "16일(현지시간) 빌보드 차트 예고 기사에 따르면, 스트레이 키즈의 '디스 앤드 댓'은 22일 자 '빌보드 200' 정상에 올랐다.",
-      "스트레이 키즈는 이에 따라 K-팝 최초로 '빌보드 200' 9연속 1위를 거머쥐었다."
+      "[서울=뉴시스]이재훈 기자 = 팝의 문법이 규정한 안전한 항로 대신 스스로 거친 물길을 터온 발걸음이 마침내 궤적과 맞닿았다.",
+      "그룹 '스트레이 키즈(Stray Kids·스키즈)'가 미니 앨범 '디스 앤드 댓(THIS & THAT)'으로 미국 빌보드 메인 앨범차트 '빌보드 200' 9연속 1위라는 전무후무한 이정표를 세웠다.",
+      "이번 성과는 단순한 K-팝 자체 신기록 경신을 넘어 글로벌 음악사의 지형도 안에서 각별한 무게를 지닌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf3e0837c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817004700087",
+    "title": "'비자 무기화' 나선 미국…중남미 제패 핵심 카드로 부상",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 로마가 유럽을 통일했을 때, '모든 길은 로마로'라는 말이 회자했다.",
+      "지금은 모든 길이 패권국 '미국으..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbed5a2ca",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817005700527",
+    "title": "전남 광양에 호우주의보 해제",
+    "summary": [
+      "(광주=연합뉴스) 기상청은 광양에 내렸던 호우주의보를 17일 오전 5시를 기해 해제한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nefd5f63b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751054",
+    "title": "인천 최대 50㎜ 소나기, 천둥·번개 가세…한낮 31도 더위",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 광복절 연휴 마지막날인 17일 인천은 낮 최고기온은 31도까지 오르고 소나기가 내리겠다.",
+      "하늘은 대체로 흐리다가 늦은 오후부터 구름 많겠다.",
+      "수도권기상청은 이날 \"아침 최저기온은 24도, 낮 최고기온은 30도 내외의 분포를 보이겠다\"며 \"오후부터 저녁 사이 소나기가 내리는 곳이 있겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n79671caa",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003750845",
+    "title": "광복절 연휴 마지막날 경기남부, 낮 31도…요란한 비소식",
+    "summary": [
+      "[수원=뉴시스] 양효원 기자 = 광복절 연휴 마지막 날인 17일 경기남부는 비가 내린다.",
+      "수도권기상청에 따르면 비는 오전부터 내리겠다.",
+      "예상 강수량은 5~50㎜다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5cab9964",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751033",
+    "title": "광복절 연휴 마지막날, 대전·세종·충남 소나기…낮 31도",
+    "summary": [
+      "[천안=뉴시스]최영민 기자 = 광복절 연휴 마지막날인 17일 대전·세종·충남은 가끔 구름이 많은 가운데 곳에 따라 소나기가 내리는 곳이 있겠다.",
+      "대전기상청에 따르면 이날 대전충남 지역은 서해상에서 동쪽으로 이동하는 저기압의 영향을 받다가 차차 벗어나 오후부터 북태평양 고기압의 가장자리에 들겠다.",
+      "특히 충남권에서는 전날 밤부터 오전까지 가끔 비가 내리고 오후부터 저녁 사이 소나기가 내리는 곳이 있겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n66bf775f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816032700001",
+    "title": "\"작년 성범죄 약물 감정사건 중 양성 40%…통계집계 이후 최고\"",
+    "summary": [
+      "(서울=연합뉴스) 권희원 기자 = 성범죄와 관련된 약물 감정 의뢰 사건 중에서 약물이 검출된 비율이 지난해 40%를 넘어선 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne17ae7cd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816046000001",
+    "title": "金 1차 과반이냐, 鄭 대역전이냐…與, 오늘 전대서 당대표 선출",
+    "summary": [
+      "(서울=연합뉴스) 박재하 기자 = 더불어민주당을 2년간 이끌 새 지도부가 17일 선출된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5e0e7057",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/18/TUXRFQHKPRAORHQ5MKA54ZH5CA/",
+    "title": "이게 진짜 새우, 막 제철 시작된 큼직 신안 새우 16마리 1만원대 초특가",
+    "summary": [
+      "이게 진짜 새우, 막 제철 시작된 큼직 신안 새우 16마리 1만원대 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n42cf70ae",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/national/welfare-medical/2026/08/17/GH2TDU5YTVD3NO3MNICZ7S5GNY/",
+    "title": "[단독] 소비쿠폰 50만원까지 받기 위해? 작년 기초수급자 16만명 급증",
+    "summary": [
+      "[단독] 소비쿠폰 50만원까지 받기 위해? 작년 기초수급자 16만명 급증."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3efa6cde",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/17/HE3TONDGMVRTAYRWMU4TMOJWMM/",
+    "title": "\"1년 더 할 수 있다\" 김혜성 날벼락 맞나, 그만둔다고 예고할 때는 언제고…로하스 또 은퇴 번복 고민",
+    "summary": [
+      "[OSEN=이상학 객원기자] 올 시즌을 끝으로 은퇴를 선언했던 LA 다저스 베테랑 내야수 미겔 로하스(37)의 마음이 흔들리고 있다.",
+      "1년 더 현역 연장 의지를 드러내 김혜성(27)에게도 직접적인 영향을 미칠 전망이다.",
+      "미국 ‘USA투데이 스포츠’는 지난 16일(이하 한국시간) 로하스가 은퇴 결정을 번복할지 고민 중이라고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n853beac3",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260817/134487110/1",
+    "title": "10살 아들 키 122㎝, 의사는 “괜찮다”…AI가 희귀병 단서 찾았다",
+    "summary": [
+      "인공지능(AI)이 병명을 확인하기까지 5년 넘게 걸리기도 하는 희귀질환 환자들에게 더 빠른 진단의 실마리를 제공하고 있다.미국 월스트리트저널(WSJ)은 15일(현지시간) 의료진용 얼굴 분석 앱과 범용 AI 챗봇, 미 식품의약국(FDA)의 허가를 받은 임상용 AI가 희귀하거나 진단하기 어려운 질환을 찾아내는 데 활용되고 있다고 보도했다.",
+      "이들 도구는 대부분 확진보다는 의료진이 검토할 질환 후보를 좁히는 역할을 한다.WSJ은 미국 뉴욕주 롱아일랜드."
+    ],
+    "chips": [
+      "#AI",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n3b9781e0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260817/134487107/1",
+    "title": "폴란드 순례객 버스 헝가리서 전복…12명 사망·10명 중상",
+    "summary": [
+      "폴란드 순례객들을 태운 버스가 헝가리 고속도로에서 전복돼 12명이 숨지고 10명이 중상을 입었다.16일(현지 시간) 영국 가디언 등에 따르면 사고는 이날 오전 1시께 헝가리 북동부 메조케레스테스 인근 M3 고속도로에서 발생했다.",
+      "버스가 직선 도로를 벗어나 도랑으로 추락한 뒤 전복됐다.초기 조사에서는 운전자의 졸음운전 가능성이 제기됐다.",
+      "운전자는 사고에서 살아남았으며 경찰에 구금됐다.사고 버스에는 폴란드 남동부 포드카르파츠키에 지역에서 온 순례객."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9e60a7c4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260817/134487104/1",
+    "title": "스트레이 키즈, K-팝 최초 ‘빌보드 200’ 9연속 1위…롤링스톤스와 어깨 나란히",
+    "summary": [
+      "K-팝 간파 보이그룹 ‘스트레이 키즈(Stray Kids·스키즈)’가 미국 빌보드 메인 앨범 차트 ‘빌보드 200’ 통산 9번째 1위를 기록했다.16일(현지시간) 빌보드가 발표한 차트 예고 기사에 따르면, 스트레이 키즈의 신보 ‘디스 앤드 댓(THIS & THAT)’은 22일 자 ‘빌보드 200’ 차트 진입과 동시에 1위를 차지했다.",
+      "이들은 이로써 2022년 ‘오디너리(ODDINARY)’를 시작으로 발표한 9개의 모든 앨범을 진입과 동시에 1위."
     ],
     "chips": [
       "#뉴스"
@@ -351,7 +545,7 @@ window.NEWS_DB = [
     "id": "nf83ce86d",
     "category": "부동산",
     "source": "동아일보",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260817/134487096/1",
     "title": "“나도 해당될까”…8·13대책 청년 금융지원 하나씩 뜯어보니",
     "summary": [
@@ -364,202 +558,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1c6fcc21",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817005000034",
-    "title": "[속보] 경남 거제면 서정천 범람…\"일대 주민 외출 금지해달라\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbfd6ec0c",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260817/134487091/1",
-    "title": "그린벨트 풀어 10만 가구 공급…강남·용산 빠진 대책 실효성은",
-    "summary": [
-      "정부가 개발제한구역(그린벨트) 해제 등을 통해 수도권에 신규 택지 10만가구를 공급한다.",
-      "서울 강서구 염창공원과 경기 남양주·광주 등 3곳에서 2만7000가구를 우선 공급하고, 연내 7만3000가구+α 규모의 추가 택지 후보지도 공개할 계획이다.하지만 시장의 관심이 집중됐던 강남권 그린벨트와 용산 등 서울 핵심 입지는 이번 발표에서 빠졌다.",
-      "서울에서 확정된 물량도 염창공원 1000가구에 그쳐 실제 서울 주택시장의 수급 불안을 해소하기에는 한계가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef844b97",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751121",
-    "title": "10살 아들 키 122㎝, 의사는 \"괜찮다\"…AI가 희귀병 단서 찾았다",
-    "summary": [
-      "[서울=뉴시스]박영환 기자 = 인공지능(AI)이 병명을 확인하기까지 5년 넘게 걸리기도 하는 희귀질환 환자들에게 더 빠른 진단의 실마리를 제공하고 있다.",
-      "미국 월스트리트저널(WSJ)은 15일(현지시간) 의료진용 얼굴 분석 앱과 범용 AI 챗봇, 미 식품의약국(FDA)의 허가를 받은 임상용 AI가 희귀하거나 진단하기 어려운 질환을 찾아내는 데 활용되고 있다고 보도했다.",
-      "이들 도구는 대부분 확진보다는 의료진이 검토할 질환 후보를 좁히는 역할을 한다."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n07862429",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817004600052",
-    "title": "거제 시간당 100㎜ 물폭탄…거제 전역에 긴급 대피 요청",
-    "summary": [
-      "(거제=연합뉴스) 박정헌 기자 = 17일 새벽 경남 거제 일대에 시간당 100㎜에 달하는 폭우가 쏟아지면서 저수지 월류와 하천 범람 위기로 주민..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc8b6d53f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817004500527",
-    "title": "제주 서귀포시중산간에 호우경보",
-    "summary": [
-      "(제주=연합뉴스) 기상청은 17일 오전 3시 40분을 기해 제주 서귀포시중산간에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n776064ca",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/17/MZRTMY3DMRQTIYRVMUZTQODGGY/",
-    "title": "‘잠시 멈췄던 안타 시계 다시 돈다’ 손아섭, 2G 침묵 깨고 첫 타석부터 안타 신고 [오!쎈 퓨처스]",
-    "summary": [
-      "[OSEN=손찬익 기자] 2경기 연속 무안타로 잠시 숨을 골랐던 손아섭(두산 베어스 외야수)이 다시 안타 생산에 나섰다.",
-      "퓨처스리그에서 실전 감각을 조율 중인 손아섭은 첫 타석부터 안타를 터뜨리고 득점까지 올리며 기분 좋게 경기를 시작했다.손아섭은 지난 16일 고양구장에서 열린 퓨처스리그 고양 히어로즈와의 원정 경기에 1번 좌익수로 선발 출장했다.앞선 두."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n57ea57c2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "58분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817004100527",
-    "title": "충남 홍성서부·홍성동부에 호우주의보 해제",
-    "summary": [
-      "(대전=연합뉴스) 기상청은 홍성서부·홍성동부에 발령했던 호우주의보를 17일 오전 3시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n08799ca5",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751161",
-    "title": "이란, 미군 사살·생포에 3만 달러 현상금…여성은 2배",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 이란 군부가 미군 병사를 사살하거나 생포해 이란군에 넘기는 사람에게 3만 달러(약 4225만원) 상당의 현상금을 내걸었다.",
-      "특히 여성이 이를 실행할 경우 보상금을 두 배로 지급하겠다고 밝혔다.",
-      "16일(현지 시간) 이란 국영통신 IRNA에 따르면 아미르 하타미 이란 육군 참모총장은 미군 병사를 사살하거나 생포해 이란 이슬람 공화국 군에 넘기는 사람에게 3만 달러 또는 50억 토만 상당의 포상금을 지급한다고 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n72ece36f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/2026/08/17/VQ4FDSZEVZDBVMQ5OQJWW5UL24/",
-    "title": "식후 ‘쭙쭙’ 소리 그만… 입 안을 상쾌하게 만드는 ‘실·솔·물'",
-    "summary": [
-      "식후 ‘쭙쭙’ 소리 그만… 입 안을 상쾌하게 만드는 ‘실·솔·물'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c4c305d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/education/2026/08/17/N4VA56CAHZBQXBLIVGIRYBLZHM/",
-    "title": "‘물품보관소’를 왜 ‘coat check’이라고 하는 걸까?",
-    "summary": [
-      "‘물품보관소’를 왜 ‘coat check’이라고 하는 걸까?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndf1d8f63",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/17/VPK2WFIARBCD5OKKTAE2DIOKDY/",
-    "title": "비행기 엔진 돌려 전기 만든다… AI 시대 전력난 해소법으로 ‘각광’",
-    "summary": [
-      "비행기 엔진 돌려 전기 만든다… AI 시대 전력난 해소법으로 ‘각광’."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ne79bb0d2",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260817/134487079/1",
-    "title": "산업장관 “대미투자 다양한 쟁점 정리 차 방미…美관세 압박 없어”",
-    "summary": [
-      "김정관 산업통상부 장관은 16일(현지시간) 예정에 없이 미국을 방문한 데 대해 대미 투자 관련 다양한 쟁점을 정리하기 위해 왔다고 밝혔다.",
-      "대미투자 이행 관련 미국이 서한을 보내 우리 정부를 압박했다는 보도에 대해서는 부인했다.",
-      "이달 말 미국의 무역법 301조 조사 결과 발표에 따른 추가 관세 부과 가능성에 대해서는 한미 양국이 15% 관세에 합의했다며 일축했다.김 장관은 이날 오전 미국 워싱턴 D.C."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n068309a5",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260817/134487062/1",
-    "title": "美 파워볼 1조4800억원 잭팟 터졌다…당첨 확률 2억9220만분의 1",
-    "summary": [
-      "미국에서 복권 한 장이 10억4000만달러(약 1조4800억원)의 잭팟에 당첨되는 행운이 나왔다.지난 13일(현지 시간) 미국 CBS12에 따르면 지난 5월2일 이후 잭팟 당첨자가 나오지 않아 당첨금이 계속 누적된 파워볼에서 지난 12일 일리노이주 퀸시에서 판매된 복권 1장이 당첨 번호 6개를 모두 맞혔다.",
-      "이번 당첨금은 올해 파워볼에서 나온 최고액이자 역대 8번째로 큰 잭팟이다.",
-      "당첨자는 아직 복권을 공식적으로 찾아가지 않아 신원이 공개되지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2221f857",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026081643711",
     "title": "故 변중석 여사 19주기…범현대家 한자리에",
     "summary": [
@@ -573,7 +575,7 @@ window.NEWS_DB = [
     "id": "nec8ad499",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026081643761",
     "title": "폭우에 삼청동 지반 침하…일부구간 한때 차량통제",
     "summary": [
@@ -587,7 +589,7 @@ window.NEWS_DB = [
     "id": "n839032e4",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026081422707",
     "title": "[오늘의 운세] 2026년 8월 17일 별자리 운세",
     "summary": [
@@ -601,7 +603,7 @@ window.NEWS_DB = [
     "id": "n2913377a",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026081422367",
     "title": "[오늘의 운세] 2026년 8월 17일 오행별 행운의 컬러",
     "summary": [
@@ -612,18 +614,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naca7516a",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081618051107396",
-    "title": "김장훈 '누워서 보는 콘서트 in 목포' 900여 명 참여 속 성료",
+    "id": "n08606dae",
+    "category": "IT",
+    "source": "테크M",
+    "time": "6시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154375",
+    "title": "삼성전자·LG전자, 현지화 강화...'인도·브라질' 생산시설 확장",
     "summary": [
-      "장애인과 비장애인이 음악으로 하나 되는 '김장훈의 누워서 보는 콘서트 in 목포'가 시민 900여 명의 뜨거운 호응 속에 성황리에 마무리됐다.지난 15일 오후 6시 목포실내체육관에서 열린 이번 공연은 장애인과 다문화가정, 일반 시민이 문화적 장벽 없이 함께 공연을 즐길 수 있도록 마련된 배리어프리 문화행사다.",
-      "목포시와 목포문화재단은 폭염에 따른 안전 문제를 고려해 공연장을 야외에서 실내체육관으로 변경해 행사를 진행."
+      "삼성전자와 LG전자가 현지화를 확대했다.",
+      "냉난방공조(HVAC) 생산시설을 확보했다.",
+      "아시아태평양(아태) 지역 공략 기지다."
     ],
     "chips": [
-      "#뉴스"
+      "#삼성전자"
     ]
   }
 ];
@@ -633,14 +636,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3240건",
-    "trend": "+395%"
+    "mentions": "3500건",
+    "trend": "+435%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
