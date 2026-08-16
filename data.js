@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-16 18:13:13
+// 마지막 업데이트: 2026-08-16 19:13:36
 window.NEWS_DB = [
   {
     "id": "n066dd761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
     "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n63a2b5bf",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUmVxdzBvejhrMTFkMkh4ZWpVZFJvODlDeVh1elNJcDUyRlN5dEp0NUtMWHB2QzlMZ2tnZTkydFZzUWJiaHh3MTIxNzJmcUZSR2EySE9RaGpTT3FsY3JscGxDNnhMTzRHOXc?oc=5",
     "title": "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패권 향방은?",
     "summary": [
@@ -35,12 +35,12 @@ window.NEWS_DB = [
   {
     "id": "n24495d23",
     "category": "IT",
-    "source": "chosun.com",
+    "source": "조선일보",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 chosun.com."
+      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 조선일보."
     ],
     "chips": [
       "#AI",
@@ -66,12 +66,12 @@ window.NEWS_DB = [
   {
     "id": "nf3930c1d",
     "category": "IT",
-    "source": "00news.co.kr",
+    "source": "공공뉴스",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1bk5PZ0FoYW5QYnM3SlRCZG1IVHM0QU9vbkFUa04zZnhrei1TYXI4VFFvenZZc0MyQjh5Z2d0RENLU2xhZTJydW1GQjdEQVljeVZjRlA5WVlEUDBGX0J3cGEwcl9jRHpGWlkzalBB0gFuQVVfeXFMUHVuTk9nQWhhblBiczdKVEJkbUhUczRBT29uQVRrTjNmeGt6LVNhcjhUUW96dllzQzJCOHlnZ3REQ0tTbGFlMnJ1bUZCN0RBWWN5VmNGUDlZWURQMEZfQndwYTByX2NEekZaWTNqUEE?oc=5",
     "title": "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱",
     "summary": [
-      "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱 00news.co.kr."
+      "미래에셋증권이 찍은 ‘삼전·닉스’ AI 반도체 투톱 공공뉴스."
     ],
     "chips": [
       "#AI",
@@ -81,12 +81,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "businesspost.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -143,12 +143,12 @@ window.NEWS_DB = [
   {
     "id": "n1f2010df",
     "category": "IT",
-    "source": "매일일보",
+    "source": "m-i.kr",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
-    "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
+    "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 - m",
     "summary": [
-      "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 매일일보."
+      "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 m-i.kr."
     ],
     "chips": [
       "#AI",
@@ -272,12 +272,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "79일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -316,10 +316,160 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n11239af2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751162",
+    "title": "폴란드 순례객 버스 헝가리서 전복…12명 사망·10명 중상",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 폴란드 순례객들을 태운 버스가 헝가리 고속도로에서 전복돼 12명이 숨지고 10명이 중상을 입었다.",
+      "16일(현지 시간) 영국 가디언 등에 따르면 사고는 이날 오전 1시께 헝가리 북동부 메조케레스테스 인근 M3 고속도로에서 발생했다.",
+      "버스가 직선 도로를 벗어나 도랑으로 추락한 뒤 전복됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n620224dd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751141",
+    "title": "스트레이 키즈, 美 '빌보드 200' 1위…'K팝 최초' 9연속 정상(1보)",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = K-팝 간판 보이그룹 '스트레이 키즈'(Stray Kids·스키즈)가 새 미니 앨범 '디스 앤드 댓(THIS & THAT)'으로 미국 빌보드 메인 앨범차트 '빌보드 200' 1위를 차지했다.",
+      "16일(현지시간) 빌보드 차트 예고 기사에 따르면, 스트레이 키즈의 '디스 앤드 댓'은 22일 자 '빌보드 200' 정상에 올랐다.",
+      "스트레이 키즈는 이에 따라 K-팝 최초로 '빌보드 200' 9연속 1위를 거머쥐었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf83ce86d",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260817/134487096/1",
+    "title": "“나도 해당될까”…8·13대책 청년 금융지원 하나씩 뜯어보니",
+    "summary": [
+      "정부가 8·13 부동산 대책을 통해 청년·신혼부부 등 실수요자를 겨냥한 금융지원책을 대거 내놨다.",
+      "비아파트를 구입하는 청년부터 결혼으로 정책대출 대상에서 탈락했던 신혼부부, 과거 주택 소유 이력 때문에 생애최초 혜택을 받지 못했던 실수요자까지 지원 대상을 세분화한 것이 특징이다.16일 금융권에 따르면 금융위원회가 지난 13일 발표한 ‘부동산 시장 안정을 위한 금융 종합대책’에는 청년 주거 지원 3종 세트를 비롯해 보금자리론 신혼부부 소득요건 개."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n1c6fcc21",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817005000034",
+    "title": "[속보] 경남 거제면 서정천 범람…\"일대 주민 외출 금지해달라\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbfd6ec0c",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260817/134487091/1",
+    "title": "그린벨트 풀어 10만 가구 공급…강남·용산 빠진 대책 실효성은",
+    "summary": [
+      "정부가 개발제한구역(그린벨트) 해제 등을 통해 수도권에 신규 택지 10만가구를 공급한다.",
+      "서울 강서구 염창공원과 경기 남양주·광주 등 3곳에서 2만7000가구를 우선 공급하고, 연내 7만3000가구+α 규모의 추가 택지 후보지도 공개할 계획이다.하지만 시장의 관심이 집중됐던 강남권 그린벨트와 용산 등 서울 핵심 입지는 이번 발표에서 빠졌다.",
+      "서울에서 확정된 물량도 염창공원 1000가구에 그쳐 실제 서울 주택시장의 수급 불안을 해소하기에는 한계가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nef844b97",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751121",
+    "title": "10살 아들 키 122㎝, 의사는 \"괜찮다\"…AI가 희귀병 단서 찾았다",
+    "summary": [
+      "[서울=뉴시스]박영환 기자 = 인공지능(AI)이 병명을 확인하기까지 5년 넘게 걸리기도 하는 희귀질환 환자들에게 더 빠른 진단의 실마리를 제공하고 있다.",
+      "미국 월스트리트저널(WSJ)은 15일(현지시간) 의료진용 얼굴 분석 앱과 범용 AI 챗봇, 미 식품의약국(FDA)의 허가를 받은 임상용 AI가 희귀하거나 진단하기 어려운 질환을 찾아내는 데 활용되고 있다고 보도했다.",
+      "이들 도구는 대부분 확진보다는 의료진이 검토할 질환 후보를 좁히는 역할을 한다."
+    ],
+    "chips": [
+      "#AI",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n07862429",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817004600052",
+    "title": "거제 시간당 100㎜ 물폭탄…거제 전역에 긴급 대피 요청",
+    "summary": [
+      "(거제=연합뉴스) 박정헌 기자 = 17일 새벽 경남 거제 일대에 시간당 100㎜에 달하는 폭우가 쏟아지면서 저수지 월류와 하천 범람 위기로 주민..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc8b6d53f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817004500527",
+    "title": "제주 서귀포시중산간에 호우경보",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 17일 오전 3시 40분을 기해 제주 서귀포시중산간에 호우경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n776064ca",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/17/MZRTMY3DMRQTIYRVMUZTQODGGY/",
+    "title": "‘잠시 멈췄던 안타 시계 다시 돈다’ 손아섭, 2G 침묵 깨고 첫 타석부터 안타 신고 [오!쎈 퓨처스]",
+    "summary": [
+      "[OSEN=손찬익 기자] 2경기 연속 무안타로 잠시 숨을 골랐던 손아섭(두산 베어스 외야수)이 다시 안타 생산에 나섰다.",
+      "퓨처스리그에서 실전 감각을 조율 중인 손아섭은 첫 타석부터 안타를 터뜨리고 득점까지 올리며 기분 좋게 경기를 시작했다.손아섭은 지난 16일 고양구장에서 열린 퓨처스리그 고양 히어로즈와의 원정 경기에 1번 좌익수로 선발 출장했다.앞선 두."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n57ea57c2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "58분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817004100527",
+    "title": "충남 홍성서부·홍성동부에 호우주의보 해제",
+    "summary": [
+      "(대전=연합뉴스) 기상청은 홍성서부·홍성동부에 발령했던 호우주의보를 17일 오전 3시를 기해 해제한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n08799ca5",
     "category": "경제",
     "source": "뉴시스",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260817_0003751161",
     "title": "이란, 미군 사살·생포에 3만 달러 현상금…여성은 2배",
     "summary": [
@@ -332,186 +482,68 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbca6e028",
+    "id": "n72ece36f",
     "category": "사회",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/culture-life/relion-academia/2026/08/17/XT5B7K2LLBB7VC7W47LZOPSMQ4/",
-    "title": "‘연극이 끝나고 난 후’ 노래에서 찾은 장자의 가르침",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/2026/08/17/VQ4FDSZEVZDBVMQ5OQJWW5UL24/",
+    "title": "식후 ‘쭙쭙’ 소리 그만… 입 안을 상쾌하게 만드는 ‘실·솔·물'",
     "summary": [
-      "‘연극이 끝나고 난 후’ 노래에서 찾은 장자의 가르침."
+      "식후 ‘쭙쭙’ 소리 그만… 입 안을 상쾌하게 만드는 ‘실·솔·물'."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne488592c",
+    "id": "n7c4c305d",
     "category": "사회",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/08/17/FXTIE2WLXBBZZJ5R2ABLKUAINM/",
-    "title": "[66화] 천하의 여포가 뒤도 돌아보지 않고 냅다 달아나며…",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/education/2026/08/17/N4VA56CAHZBQXBLIVGIRYBLZHM/",
+    "title": "‘물품보관소’를 왜 ‘coat check’이라고 하는 걸까?",
     "summary": [
-      "[66화] 천하의 여포가 뒤도 돌아보지 않고 냅다 달아나며…."
+      "‘물품보관소’를 왜 ‘coat check’이라고 하는 걸까?."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd8abe7aa",
-    "category": "사회",
+    "id": "ndf1d8f63",
+    "category": "IT",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/medical/2026/08/17/M6SYY3LTLVC6JJJNSH3D7X4EPU/",
-    "title": "지방은 악당이 아니다… 좋은 지방 지키고 나쁜 지방 줄여야 건강",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/17/VPK2WFIARBCD5OKKTAE2DIOKDY/",
+    "title": "비행기 엔진 돌려 전기 만든다… AI 시대 전력난 해소법으로 ‘각광’",
     "summary": [
-      "지방은 악당이 아니다… 좋은 지방 지키고 나쁜 지방 줄여야 건강."
+      "비행기 엔진 돌려 전기 만든다… AI 시대 전력난 해소법으로 ‘각광’."
     ],
     "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nb41170bf",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/17/MSSAGLXEUVBWTBDUYMBNRGTDF4/",
-    "title": "보폭 넓어지고 자신감 ‘쑥’… 전신 기능 회복 운동",
-    "summary": [
-      "보폭 넓어지고 자신감 ‘쑥’… 전신 기능 회복 운동."
-    ],
-    "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
     "id": "ne79bb0d2",
     "category": "경제",
     "source": "동아일보",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260817/134487079/1",
-    "title": "산업장관 “美관세 압박 받은 적 없어…대미투자 정리차 방미”",
+    "title": "산업장관 “대미투자 다양한 쟁점 정리 차 방미…美관세 압박 없어”",
     "summary": [
-      "김정관 산업통상부 장관은 16일(현지시간) 미국을 방문해 대미투자 이행 관련 미국이 서한을 보내 우리 정부를 압박했다는 보도에 대해 부인했다.",
-      "이달 말 미국의 무역법 301조 조사 결과 발표에 따른 추가 관세 부과 가능성에 대해서는 한미 양국이 15% 관세에 합의했다며 일축했다.김 장관은 이날 오전 미국 워싱턴 D.C.",
-      "인근 덜레스 국제공항을 통해 입국하면서 특파원단과 만나 미국의 대미투자 압박 관련 질문에 “저는 (서한을) 받은 적 없다”며."
+      "김정관 산업통상부 장관은 16일(현지시간) 예정에 없이 미국을 방문한 데 대해 대미 투자 관련 다양한 쟁점을 정리하기 위해 왔다고 밝혔다.",
+      "대미투자 이행 관련 미국이 서한을 보내 우리 정부를 압박했다는 보도에 대해서는 부인했다.",
+      "이달 말 미국의 무역법 301조 조사 결과 발표에 따른 추가 관세 부과 가능성에 대해서는 한미 양국이 15% 관세에 합의했다며 일축했다.김 장관은 이날 오전 미국 워싱턴 D.C."
     ],
     "chips": [
       "#수출"
     ]
   },
   {
-    "id": "nc60896f4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "43분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749030",
-    "title": "\"긴팔원숭이와 뭐길래?\"…SNS 영상 올린 인도 배우, 야생동물 당국 조사",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 인도의 유명 영화배우가 멸종위기종인 긴팔원숭이와 함께 있는 영상을 사회관계망서비스(SNS)에 올리면서 야생동물 당국이 해당 동물의 출처와 이동 경위 조사에 나섰다.",
-      "지난 13일(현지 시간) 영국 BBC에 따르면 인도 배우 비크람은 최근 SNS에 긴팔원숭이를 안고 놀아주는 모습이 담긴 영상을 공개했다.",
-      "영상은 빠르게 확산됐고 일부 매체는 해당 긴팔원숭이를 비크람의 새 반려동물로 소개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30e80dde",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817002051071",
-    "title": "방미 김정관 \"대미투자 막판 다양한 쟁점…어떻게든 해결 목표\"(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 김정관 산업통상부 장관은 한미 관세 협상에서 합의한 2천억 달러 규모 대미 투자 프로젝트와 관련해 막판 쟁..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf7e24187",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "51분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817003100527",
-    "title": "제주시동부에 호우경보…제주 서귀포시동부에 호우경보 유지",
-    "summary": [
-      "(제주=연합뉴스) 기상청은 17일 오전 2시 10분을 기해 제주시동부에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd4e79100",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "53분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817003200034",
-    "title": "경남 거제 집중호우로 산사태 위험…\"안전지역으로 대피해달라\"",
-    "summary": [
-      "(서울=연합뉴스) 17일 오전 2시10분께 경남 거제에 집중 호우가 내리면서 산사태 위험과 하천 범람 위험 안내 문자가 발송됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2273ba39",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817002700527",
-    "title": "경남 진주에 호우주의보…거제 등 5곳 호우경보 유지",
-    "summary": [
-      "(창원=연합뉴스) 기상청은 17일 오전 2시를 기해 진주에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7592ef48",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749771",
-    "title": "양말에 도마뱀 200마리 숨겨 밀수…멕시코 男, 日 세관서 덜미",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 한국을 거쳐 하네다 공항으로 도마뱀 200마리를 몰래 들여오려던 멕시코 국적 남성이 세관 검사에서 붙잡혔다.",
-      "지난 12일 니혼게이자이신문에 따르면 일본 경찰청 생활환경과는 애완용으로 인기가 많은 도마뱀을 양말 속에 숨겨 밀수하려 한 혐의(관세법 위반·무허가 수입 미수)로 멕시코 국적의 다니엘 이삭 벨라스코 발타살(23)을 체포했다.",
-      "그의 주소와 직업은 아직 확인되지 않았다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n43e989fa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751157",
-    "title": "이스라엘 극우 장관 \"가자지구서 매일 30~40명 사살해야\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 이스라엘 극우 정치인인 이타마르 벤 그비르 국가안보부 장관이 가자지구에서 매일 밤 30~40명을 사살해야 한다고 공개적으로 주장했다.",
-      "팔레스타인 주민들의 대규모 이주와 가자지구 내 이스라엘 정착촌 재건도 주장하면서 논란이 확산하고 있다.",
-      "16일(현지 시간) 타임오브이스라엘(TOI)에 따르면 벤 그비르는 전 하마스 인질 롬 브라스라브스키가 진행하는 팟캐스트 '10월 8일' 첫 회에 출연해 이같이 발언했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n068309a5",
     "category": "경제",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260817/134487062/1",
     "title": "美 파워볼 1조4800억원 잭팟 터졌다…당첨 확률 2억9220만분의 1",
     "summary": [
@@ -524,41 +556,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9c1370cb",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260817/134487057/1",
-    "title": "“군살이 하나도 없네”…40kg대 유지하는 화사의 식단·운동 비결",
-    "summary": [
-      "가수 화사가 방송을 통해 군살 없는 체형을 유지할 수 있는 자신만의 운동 방식과 식단을 밝혔다.성시경이 운영하는 유튜브 채널에 출연한 화사는 몸매를 유지하는 비법을 묻는 질문에 꾸준한 운동과 식단 관리를 꼽았다.",
-      "방송에서 성시경은 화사의 무대 모습을 언급하며 “어떻게 저렇게 군살이 하나 없지”라고 묻자 화사는 “운동을 진짜 열심히 한다”고 밝혔다.화사는 자신의 운동 일정에 대해 “일주일에 세 번 PT 받고 일주일 내내 러닝한다”고 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na6e3a3cc",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260817/134487052/1",
-    "title": "‘슬림 탄탄’ 제니…플라잉요가와 필라테스로 관리",
-    "summary": [
-      "파격적인 의상으로 군살 없는 몸매를 들어낸 블랙핑크 제니의 다이어트 비결이 화제를 모으고 있다.제니는 최근 패션 매거진 코스모폴리탄 커버 화보를 통해 과감한 패션을 선보이며 눈길을 사로잡았다.",
-      "사진 속 제니는 가슴 라인이 깊게 파인 파격적인 디자인의 그린 드레스와 노란색 재킷에 비키니 하의를 매치한 착장으로 슬림하면서도 탄탄한 몸매를 과시했다.",
-      "화보 공개 직후 팬들과 누리꾼 사이에서는 그의 독보적인 아우라와 몸매 관리법에 대한 관심이 쏟아졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2221f857",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026081643711",
     "title": "故 변중석 여사 19주기…범현대家 한자리에",
     "summary": [
@@ -572,7 +573,7 @@ window.NEWS_DB = [
     "id": "nec8ad499",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026081643761",
     "title": "폭우에 삼청동 지반 침하…일부구간 한때 차량통제",
     "summary": [
@@ -586,7 +587,7 @@ window.NEWS_DB = [
     "id": "n839032e4",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026081422707",
     "title": "[오늘의 운세] 2026년 8월 17일 별자리 운세",
     "summary": [
@@ -600,7 +601,7 @@ window.NEWS_DB = [
     "id": "n2913377a",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026081422367",
     "title": "[오늘의 운세] 2026년 8월 17일 오행별 행운의 컬러",
     "summary": [
@@ -614,7 +615,7 @@ window.NEWS_DB = [
     "id": "naca7516a",
     "category": "경제",
     "source": "아시아경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://view.asiae.co.kr/article/2026081618051107396",
     "title": "김장훈 '누워서 보는 콘서트 in 목포' 900여 명 참여 속 성료",
     "summary": [
@@ -638,8 +639,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
