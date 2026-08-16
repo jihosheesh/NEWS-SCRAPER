@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-16 17:11:15
+// 마지막 업데이트: 2026-08-16 18:13:13
 window.NEWS_DB = [
   {
     "id": "n066dd761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
     "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n63a2b5bf",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUmVxdzBvejhrMTFkMkh4ZWpVZFJvODlDeVh1elNJcDUyRlN5dEp0NUtMWHB2QzlMZ2tnZTkydFZzUWJiaHh3MTIxNzJmcUZSR2EySE9RaGpTT3FsY3JscGxDNnhMTzRHOXc?oc=5",
     "title": "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패권 향방은?",
     "summary": [
@@ -35,12 +35,12 @@ window.NEWS_DB = [
   {
     "id": "n24495d23",
     "category": "IT",
-    "source": "조선일보",
+    "source": "chosun.com",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 조선일보."
+      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 chosun.com."
     ],
     "chips": [
       "#AI",
@@ -81,12 +81,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "businesspost.co.kr",
+    "source": "비즈니스포스트",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -172,12 +172,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
@@ -316,10 +316,170 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n08799ca5",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751161",
+    "title": "이란, 미군 사살·생포에 3만 달러 현상금…여성은 2배",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 이란 군부가 미군 병사를 사살하거나 생포해 이란군에 넘기는 사람에게 3만 달러(약 4225만원) 상당의 현상금을 내걸었다.",
+      "특히 여성이 이를 실행할 경우 보상금을 두 배로 지급하겠다고 밝혔다.",
+      "16일(현지 시간) 이란 국영통신 IRNA에 따르면 아미르 하타미 이란 육군 참모총장은 미군 병사를 사살하거나 생포해 이란 이슬람 공화국 군에 넘기는 사람에게 3만 달러 또는 50억 토만 상당의 포상금을 지급한다고 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbca6e028",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/culture-life/relion-academia/2026/08/17/XT5B7K2LLBB7VC7W47LZOPSMQ4/",
+    "title": "‘연극이 끝나고 난 후’ 노래에서 찾은 장자의 가르침",
+    "summary": [
+      "‘연극이 끝나고 난 후’ 노래에서 찾은 장자의 가르침."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne488592c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/08/17/FXTIE2WLXBBZZJ5R2ABLKUAINM/",
+    "title": "[66화] 천하의 여포가 뒤도 돌아보지 않고 냅다 달아나며…",
+    "summary": [
+      "[66화] 천하의 여포가 뒤도 돌아보지 않고 냅다 달아나며…."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd8abe7aa",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/medical/2026/08/17/M6SYY3LTLVC6JJJNSH3D7X4EPU/",
+    "title": "지방은 악당이 아니다… 좋은 지방 지키고 나쁜 지방 줄여야 건강",
+    "summary": [
+      "지방은 악당이 아니다… 좋은 지방 지키고 나쁜 지방 줄여야 건강."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb41170bf",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/17/MSSAGLXEUVBWTBDUYMBNRGTDF4/",
+    "title": "보폭 넓어지고 자신감 ‘쑥’… 전신 기능 회복 운동",
+    "summary": [
+      "보폭 넓어지고 자신감 ‘쑥’… 전신 기능 회복 운동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne79bb0d2",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260817/134487079/1",
+    "title": "산업장관 “美관세 압박 받은 적 없어…대미투자 정리차 방미”",
+    "summary": [
+      "김정관 산업통상부 장관은 16일(현지시간) 미국을 방문해 대미투자 이행 관련 미국이 서한을 보내 우리 정부를 압박했다는 보도에 대해 부인했다.",
+      "이달 말 미국의 무역법 301조 조사 결과 발표에 따른 추가 관세 부과 가능성에 대해서는 한미 양국이 15% 관세에 합의했다며 일축했다.김 장관은 이날 오전 미국 워싱턴 D.C.",
+      "인근 덜레스 국제공항을 통해 입국하면서 특파원단과 만나 미국의 대미투자 압박 관련 질문에 “저는 (서한을) 받은 적 없다”며."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "nc60896f4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "43분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749030",
+    "title": "\"긴팔원숭이와 뭐길래?\"…SNS 영상 올린 인도 배우, 야생동물 당국 조사",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 인도의 유명 영화배우가 멸종위기종인 긴팔원숭이와 함께 있는 영상을 사회관계망서비스(SNS)에 올리면서 야생동물 당국이 해당 동물의 출처와 이동 경위 조사에 나섰다.",
+      "지난 13일(현지 시간) 영국 BBC에 따르면 인도 배우 비크람은 최근 SNS에 긴팔원숭이를 안고 놀아주는 모습이 담긴 영상을 공개했다.",
+      "영상은 빠르게 확산됐고 일부 매체는 해당 긴팔원숭이를 비크람의 새 반려동물로 소개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n30e80dde",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817002051071",
+    "title": "방미 김정관 \"대미투자 막판 다양한 쟁점…어떻게든 해결 목표\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 김정관 산업통상부 장관은 한미 관세 협상에서 합의한 2천억 달러 규모 대미 투자 프로젝트와 관련해 막판 쟁..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf7e24187",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817003100527",
+    "title": "제주시동부에 호우경보…제주 서귀포시동부에 호우경보 유지",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 17일 오전 2시 10분을 기해 제주시동부에 호우경보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd4e79100",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "53분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817003200034",
+    "title": "경남 거제 집중호우로 산사태 위험…\"안전지역으로 대피해달라\"",
+    "summary": [
+      "(서울=연합뉴스) 17일 오전 2시10분께 경남 거제에 집중 호우가 내리면서 산사태 위험과 하천 범람 위험 안내 문자가 발송됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2273ba39",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817002700527",
+    "title": "경남 진주에 호우주의보…거제 등 5곳 호우경보 유지",
+    "summary": [
+      "(창원=연합뉴스) 기상청은 17일 오전 2시를 기해 진주에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n7592ef48",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260814_0003749771",
     "title": "양말에 도마뱀 200마리 숨겨 밀수…멕시코 男, 日 세관서 덜미",
     "summary": [
@@ -332,26 +492,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3694c134",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/17/MYYTMMDBGM4DIYLFG4ZDQMZVHA/",
-    "title": "[FA 커뮤니티 실드]'충격, 펩 공백 너무 크다' 하베르츠-외데고르-칼라피오리 골 폭발 아스널 우승, 맨체스터 시티 3-0 대파..'마레스카, 아무 것도 못했다'",
-    "summary": [
-      "[스포츠조선 노주환 기자]EPL 챔피언 아스널이 커뮤니티 실드 정상에 올랐다.",
-      "FA컵 우승팀 맨체스터 시티를 완파했다.",
-      "펩 과르디올라에서 엔조 마레스카 감독으로 사령탑을 바꾼 맨시티는 시즌 개막에 앞선 슈퍼컵 단판승부에서 기대이하의 경기력으로 큰 실망감을 주었다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
     "id": "n43e989fa",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260817_0003751157",
     "title": "이스라엘 극우 장관 \"가자지구서 매일 30~40명 사살해야\"",
     "summary": [
@@ -364,85 +508,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc8001c4e",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003750858",
-    "title": "홍콩 교과서값 고공행진…정부 보조금 폐지에 학부모 '한숨'",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 코로나19 팬데믹 이후 교과서 가격이 최고 수준으로 치솟은 가운데, 홍콩 정부가 학생 보조금까지 폐지하면서 학부모들의 경제적 부담이 커지고 있다.",
-      "디지털 학습 도구 도입으로 중고 교과서 활용마저 어려워지면서 학부모들의 한숨이 깊어지고 있다.",
-      "지난 15일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면, 2026~2027학년도 홍콩의 한 학기 교과서 세트 가격은 4000홍콩달러(약 72만원)에서 60."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8f9639db",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751158",
-    "title": "김정관 \"대미투자 1호, '8말9초' 목표하 협상…쟁점 해소차 방미\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 김정관 산업통상부 장관이 이르면 8월말 대미투자 1호 프로젝트를 발표하겠다는 목표를 여전히 유지 중이며, 주요 쟁점을 해소하기 위해 긴급 방미하게 됐다고 16일(현지 시간) 밝혔다.",
-      "김 장관은 이날 미국 워싱턴DC 인근 덜레스국제공항으로 입국하며 특파원들과 만나 \"지난번(방미 때) 저희가 8월말이나 9월초 정도 (대미투자 1호) 프로젝트를 발표할 생각이라고 말씀드렸다.",
-      "막판이 되면서 실무적으로 다양한 구체적."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd10fda53",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/GY2TKOBUMI2WGYTCMRRDGZBXGE/",
-    "title": "'치과의사♥' 이윤지, 육아 고되어도 이것만큼은 꼭 해낸다",
-    "summary": [
-      "[OSEN=오세진 기자] 배우 이윤지가 바쁜 일정 속에서도 미술 전시를 찾아 행복을 느꼈다.16일 이윤지는 자신의 소셜 계정에 여러 장의 사진을 공개했다.",
-      "가벼운 오버핏 사이즈의 프린팅 된 흰 티셔츠에 넉넉한 사이즈의 블랙 와이드 팬츠를 입고 그림을 바라보고 있는 옆 모습의 이윤지는 그 자체로 분위기가 있었다.그러나 이것은 여유보다는 사랑에 의한 초연함이었."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n485828c0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817002400527",
-    "title": "서귀포시중산간 등 제주 3곳 호우주의보",
-    "summary": [
-      "(제주=연합뉴스) 기상청은 17일 오전 1시 35분을 기해 서귀포시중산간·제주시중산간·제주시북부에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ea219b9",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817002000071",
-    "title": "방미 김정관 \"대미투자 막판 다양한 쟁점…어떻게든 해결 목표\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 김정관 산업통상부 장관은 한미 관세 협상에서 합의한 2천억 달러 규모 대미 투자 프로젝트와 관련해 막판 쟁..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n068309a5",
     "category": "경제",
     "source": "동아일보",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260817/134487062/1",
     "title": "美 파워볼 1조4800억원 잭팟 터졌다…당첨 확률 2억9220만분의 1",
     "summary": [
@@ -455,26 +524,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8bfb0271",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "29분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/17/G44TQZDCGNRTSNJUMUYDGOLEMM/",
-    "title": "4년 만에 LG전 위닝 실화인가...마드리스가 마지막 선물 남기고 떠나다 \"진심으로 응원하겠다\"",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 SSG 랜더스가 무려 4년 만에 LG 트윈스 상대로 위닝시리즈에 성공했다.",
-      "날짜로는 1481일 만이다.",
-      "SSG는 16일 잠실구장에서 열린 LG와 경기에서 홈런 2방 등 13안타를 터뜨리며 6-0으로 승리했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n9c1370cb",
     "category": "사회",
     "source": "동아일보",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260817/134487057/1",
     "title": "“군살이 하나도 없네”…40kg대 유지하는 화사의 식단·운동 비결",
     "summary": [
@@ -489,7 +542,7 @@ window.NEWS_DB = [
     "id": "na6e3a3cc",
     "category": "사회",
     "source": "동아일보",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260817/134487052/1",
     "title": "‘슬림 탄탄’ 제니…플라잉요가와 필라테스로 관리",
     "summary": [
@@ -502,54 +555,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb8bb0cfe",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "31분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260817/134486333/2",
-    "title": "포르투 황인범 쐐기골 어시스트… 리그 데뷔전부터 강렬한 첫인상",
-    "summary": [
-      "국가대표 미드필더 황인범(30·포르투·사진)이 포르투갈 프리메이라리가(1부) 데뷔전에서 첫 공격포인트를 기록했다.",
-      "황인범은 16일 열린 히우 아브와의 2026∼2027시즌 방문경기에서 1-0으로 앞서던 후반 37분 보르하 사인스(25)의 쐐기골을 도왔다.",
-      "지난달 포르투로 이적한 황인범은 2일 2부 팀 토레엔스와의 2026 포르투갈 슈퍼컵(포르투 1-0 승)을 통해 공식전에 데뷔한 데 이어 이날 리그 첫 경기를 치렀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2475fc95",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817002200099",
-    "title": "그리스 아테네 인근 살라미나섬 산불로 2명 사망…수백명 대피",
-    "summary": [
-      "(요하네스버그·파리=연합뉴스) 나확진 송진원 특파원 = 그리스 수도 아테네 인근 살라미나섬에서 16일(현지시간) 산불로 2명이 사망하고 수백 명..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nebd588ca",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "51분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817001900527",
-    "title": "제주 서귀포시동부에 호우경보",
-    "summary": [
-      "(제주=연합뉴스) 기상청은 17일 오전 1시 15분을 기해 제주 서귀포시동부에 호우경보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2221f857",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026081643711",
     "title": "故 변중석 여사 19주기…범현대家 한자리에",
     "summary": [
@@ -563,7 +572,7 @@ window.NEWS_DB = [
     "id": "nec8ad499",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026081643761",
     "title": "폭우에 삼청동 지반 침하…일부구간 한때 차량통제",
     "summary": [
@@ -577,7 +586,7 @@ window.NEWS_DB = [
     "id": "n839032e4",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026081422707",
     "title": "[오늘의 운세] 2026년 8월 17일 별자리 운세",
     "summary": [
@@ -591,7 +600,7 @@ window.NEWS_DB = [
     "id": "n2913377a",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026081422367",
     "title": "[오늘의 운세] 2026년 8월 17일 오행별 행운의 컬러",
     "summary": [
@@ -602,24 +611,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc400c83e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2시간 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/08/17/JPDY2ZUIPRCSLMROCFXNK7BSQI/",
-    "title": "[사설] ‘닥치고 공급’ 한다더니 출발부터 삐걱대는 정부·서울시",
-    "summary": [
-      "[사설] ‘닥치고 공급’ 한다더니 출발부터 삐걱대는 정부·서울시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "naca7516a",
     "category": "경제",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://view.asiae.co.kr/article/2026081618051107396",
     "title": "김장훈 '누워서 보는 콘서트 in 목포' 900여 명 참여 속 성료",
     "summary": [
