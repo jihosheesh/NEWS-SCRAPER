@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-16 02:15:50
+// 마지막 업데이트: 2026-08-16 03:39:12
 window.NEWS_DB = [
   {
     "id": "n63a2b5bf",
     "category": "IT",
     "source": "seoulfn.com",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUmVxdzBvejhrMTFkMkh4ZWpVZFJvODlDeVh1elNJcDUyRlN5dEp0NUtMWHB2QzlMZ2tnZTkydFZzUWJiaHh3MTIxNzJmcUZSR2EySE9RaGpTT3FsY3JscGxDNnhMTzRHOXc?oc=5",
     "title": "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패권 향방은?",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n4fe94c66",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00d1YxR3VpblkyZHZHOG9BbDQwRVA2MWpWWFhrSzFDX3FuNExFYUZFLTZGT2kxenMzTE9TMnM0SnJzZ285R08yYmwyR0tPaTJrRm9nVExWZmFfU0XSAWBBVV95cUxOcVZtWUd1dGVKekZReUdkbi1tMkh3dXhBUGtZdHlfUXZYUHU2TkJFS1JWVGZHOUtfRlRJZHAybG9OdXFBVWUzY05qbGh1U0xPXzAyN2dPUjl4TG03VW5ZMmc?oc=5",
     "title": "엔비디아, 30조원어치 스페이스X 지분 보유…'순환거래' 우려",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n24495d23",
     "category": "IT",
     "source": "조선일보",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
@@ -95,7 +95,7 @@ window.NEWS_DB = [
     "id": "n14e5eed8",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
@@ -184,12 +184,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -197,13 +197,13 @@ window.NEWS_DB = [
   },
   {
     "id": "n56609ab4",
-    "category": "스포츠",
-    "source": "startupn.kr",
+    "category": "IT",
+    "source": "스타트업엔(StartupN)",
     "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
     "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
     "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
     ],
     "chips": [
       "#스타트업"
@@ -348,294 +348,287 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n55f2c3e9",
+    "id": "n886c5d81",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "동아일보",
     "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260815_0003750728",
-    "title": "폭염특보 발효되면…벌집제거 등 비긴급 출동 탄력 운영",
+    "url": "https://www.donga.com/news/Inter/article/all/20260816/134484319/1",
+    "title": "美링컨함서 두명째 추락…올해 초에도 수병 바다로 빠져",
     "summary": [
-      "[전남광주=뉴시스]류형근 기자 = 전남광주통합특별시소방본부가 벌집제거 등 인명피해 우려가 없는 비긴급 신고의 출동을 탄력적으로 운영한다.",
-      "전남광주특별시소방본부는 현장대원의 온열질환을 예방하고 안전한 현장활동을 위해 벌집 제거 등 인명피해 우려가 없는 비긴급 생활안전 신고의 출동시간을 탄력적으로 조정한다고 16일 밝혔다.",
-      "폭염 등이 지속되는 여름철에는 벌집 제거 등 생활안전 신고가 크게 증가하고 있다."
+      "이란과의 전쟁이 장기화되면서 이란 앞바다에 떠있는 미 항공모함 에이브러햄 링컨함에서 사고가 잇따르고 있다.",
+      "이달 초 링컨함에 타고 있던 한 군인이 정신적 어려움을 호소하며 바다로 투신했다가 구조된 데 이어 올해 초에도 수병 한 명이 바다에 빠졌던 사실이 뒤늦게 알려졌다.14일(현지 시간) CNN방송에 따르면 올해 4월 12일 이 항모 전단 소속 구축함 USS 프랭크 E.",
+      "피터슨 주니어함에서 수병 1명이 바다에 빠졌다가 구조됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nabf40e23",
+    "id": "n4e24ffa4",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003750904",
-    "title": "서초구, 시의원 간담회…7개 사업 202억원 반영 요청",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816022800527",
+    "title": "서귀포시동부·제주시동부에 호우주의보 해제",
     "summary": [
-      "[서울=뉴시스] 최현호 기자 = 서울 서초구는 지역구 서울시의원들과 주요 현안을 논의하고, 서울시 제2차 추가경정예산에 7개 사업 202억원을 반영해 달라고 요청했다고 16일 밝혔다.",
-      "구는 지난 14일 구청 5층 대회의실에서 민선 9기 첫 시의원 정책 간담회를 열었다.",
-      "전성수 서초구청장과 이숙자·이효진·김지훈 서울시의원이 참석했다."
+      "(제주=연합뉴스) 기상청은 서귀포시동부·제주시동부에 내렸던 호우주의보를 16일 낮 12시 30분을 기해 해제한다고 밝혔다."
     ],
     "chips": [
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "n4a589fa8",
-    "category": "사회",
+    "id": "n97e78e45",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/16/ETSBMGUT2JAWFG6KFK5MMG5NBM/",
-    "title": "월급 받는 일자리, 코로나 이후 첫 4개월 연속 감소...“AI 등으로 인한 저채용 사회 신호”",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/16/GY4DSM3BGE3DIMRUGNQTKNZXGA/",
+    "title": "'1920억 토날리 효과' 토트넘이 달라졌다...데 제르비표 '더 크고 거칠고 강한 팀' 완성 중",
     "summary": [
-      "월급 받는 일자리, 코로나 이후 첫 4개월 연속 감소...“AI 등으로 인한 저채용 사회 신호”."
+      "[OSEN=정승우 기자] 로베르토 데 제르비(47) 감독 체제의 토트넘 홋스퍼가 달라진 모습을 드러냈다.",
+      "산드로 토날리를 중심으로 중원의 힘이 강해졌고, 수비진도 보다 적극적인 모습을 보였다.",
+      "공격에서는 미키 무어가 멀티골을 터뜨리며 존재감을 드러냈다.영국 '데일리 메일'은 16일(이하 한국시간) \"데 제르비 감독이 여름 동안 작업한 새로운 토트넘을 많은."
     ],
     "chips": [
-      "#AI",
-      "#채용",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc30addb4",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815041700008",
+    "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
+    "summary": [
+      "(서울=연합뉴스) 김유아 기자 = 지난 한 주간 코스피에서 외국인 투자자가 6조5천억원어치를 쓸어 담으며 이달 순매수로 지수 상승을 주로 견인한..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e0cb3f9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/16/HFRDEOLGGFRTOY3GMYZTAMRXGE/",
+    "title": "[프리시즌 매치 리뷰]주앙 페드로 멀티골 폭발! 사비 알론소 첼시 홈 데뷔전, 소시에다드 3-1 대파..\"훌륭한 분위기, 홈 팬들 큰 힘이 됐다\"",
+    "summary": [
+      "[스포츠조선 노주환 기자]EPL 첼시의 새 사령탑 사비 알론소 감독이 런던 홈에서 치른 첫 친선경기에서 대승을 거뒀다.",
+      "첼시는 15일(한국시각) 영국 런던 스탬포드 브리지에서 벌어진 스페인 레알 소시에다드와의 프리시즌 마지막 친선경기에서 3대1 승리했다.",
+      "첼시는 '이적생' 모건 로저스가 전반 11분 선제골을 넣어 기선 제압에 성공했다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n205b15b5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003750828",
+    "title": "노역 귀국선 우키시마마루호 폭침…\"5천명 사망\" 새사료",
+    "summary": [
+      "[울산=뉴시스] 조현철 기자 = 한일문화연구소는 16일 \"1945년 8월24일 강제노역 조선인 귀국선 우키시마마루호 폭침 사건으로 사망자 수 등을 확인할 수 있는 사료가 새로 발견됐다\"고 밝혔다.",
+      "한일문화연구소에 따르면 1945년 8월24일 강제노역으로 끌려간 조선 노동자에 대한 귀국 문제에 대한 미 연합군과 일왕이 합의에 따라 귀국선 1호가 홋카이도 오미나도 항(北海道 大港)을 출발했다.",
+      "부산으로 향한 배가 교토부 마이즈루항 연안에 들어가자마."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04e97dc6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749531",
+    "title": "\"문 열려 있길래\"…한밤중 남의 집 거실까지 들어온 배달기사",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = 한밤중 배달기사가 무단으로 남의 집 거실까지 들어온 사건이 발생해 충격을 주고 있다.",
+      "13일 방송된 JTBC '사건반장'은 지난 7월23일 오후 11시께 한 가정집에서 촬영된 홈캠 영상을 공개했다.",
+      "사건 당시 집주인은 외부에서 시끄러운 소리가 나 홈캠을 확인했다가, 헬멧을 쓴 남성이 거실 안까지 들어와 있는 모습을 보고 놀라 항의했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfb179d8a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816021300104",
+    "title": "인도 총리 \"무료 입시강의 제공\"…교육장관 몰아낸 Z세대 달래기",
+    "summary": [
+      "(자카르타=연합뉴스) 손현규 특파원 = 나렌드라 모디 인도 총리가 의과대학 입학시험 문제 유출 사건 이후 대규모 시위로 교육부 장관의 사퇴를 끌..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n336a6f25",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003750935",
+    "title": "'50세' 전현무, 아직도 母 잔소리 듣는다…\"폭염에도 양말 신으라고\"",
+    "summary": [
+      "[서울=뉴시스] 이종희 기자 = 방송인 전현무가 50세가 된 지금도 어머니에게 듣는 잔소리 3계명을 공개한다.",
+      "16일 방송되는 MBN·SBS Plus '내가 만난 사이코패스'에서는 '가족의 이름으로'를 주제로, 가장 가까운 가족이 가장 잔혹한 가해자가 된 충격적인 실화들이 공개된다.",
+      "이날 방송에는 강호순을 비롯한 강력범죄 피의자들을 직접 면담했던 김미영 진술분석가가 출연해 사건 속 사이코패스들의 심리를 분석한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n81667665",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003750941",
+    "title": "'PGA PO 1차전 3R 공동 2위' 임성재 \"침착하게 하면 좋은 기회 올 것\"(종합)",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 임성재가 미국프로골프(PGA) 투어 2026시즌 플레이오프(PO) 1차전 셋째 날에도 공동 2위에 올랐다.",
+      "임성재는 16일(한국 시간) 미국 테네시주 멤피스의 TPC 사우스윈드(파70)에서 열린 페덱스 세인트주드 챔피언십(총상금 2000만 달러) 3라운드에서 버디 5개, 보기 2개를 묶어 3언더파 67타를 쳤다.",
+      "중간 합계 11언더파 199타를 작성한 임성재는 공동 2위를 유지했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndfc7bc26",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816021900001",
+    "title": "국힘 \"李대통령 '종전 논의' 제안, 스스로 무장해제 평화구걸\"",
+    "summary": [
+      "(서울=연합뉴스) 권희원 기자 = 국민의힘은 이재명 대통령이 광복절 경축사에서 6·25 전쟁을 종식하기 위한 다자 논의를 제안한 데 대해 16일..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n40a0f2b7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260816/134484304/1",
+    "title": "직장인 80% “기간제·정규직 차별 여전”…66% “기간제 출산휴가·육아휴직 ‘눈치’”",
+    "summary": [
+      "직장인 10명 중 8명은 한국 사회에서 기간제 노동자와 정규직 노동자 간 차별이 존재한다고 생각하는 것으로 나타났다.직장갑질119가 16일 공개한 실태조사 결과에 따르면 직장인 1000명 가운데 80.4%는 기간제 노동자와 정규직 노동자 간 차별이 존재한다고 답했다.고용형태별로는 임시직에서 차별이 존재한다는 응답이 84.6%로 가장 높았다.",
+      "5인 미만 사업장에서도 84.6%가 차별이 있다고 답했다.기간제 노동자가 출산휴가와 육아휴직, 직장 내."
+    ],
+    "chips": [
       "#고용"
     ]
   },
   {
-    "id": "ndc31398a",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816015751007",
-    "title": "'한 이닝 멀티히트' 이정후…4경기 만에 안타 생산(종합)",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 샌프란시스코 자이언츠의 주전 외야수 이정후가 4경기 만에 안타 생산을 재개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3024a1b8",
+    "id": "n09b8e416",
     "category": "사회",
     "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/16/HA3DEZBQGFQTINBVGFQWMNRZME/",
-    "title": "빵꾸똥꾸가 27살 숙녀가 됐네…'성형 無' 진지희, 젖살 쏙 빠진 숙녀",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/economy/2026/08/16/ZROSEYDBDVAQRGULQUJLESRGVQ/",
+    "title": "칼로리 낮은 도시락 먹고, 딱 붙는 옷 입고...지금은 ‘위코노미’ 시대?",
     "summary": [
-      "[OSEN=장우영 기자] 배우 진지희가 한층 성숙해진 미모와 분위기로 놀라움을 자아냈다.진지희는 16일 자신의 개인 채널에 “여름 끝자락 보내기”라는 글과 여러 장의 사진을 게재했다.사진 속 진지희는 아역 시절의 발랄한 매력 위세 성숙한 분위기가 더해진 매력을 보였다.",
-      "스카프와 블랙 가디건으로 스타일링을 완성한 진지희는 27살의 여름 끝자락을 분위기 있게."
+      "칼로리 낮은 도시락 먹고, 딱 붙는 옷 입고...지금은 ‘위코노미’ 시대?."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndfef3d84",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003750915",
-    "title": "밤이 더 아름다운 청주…약물내기공원 '야간경관' 새단장",
-    "summary": [
-      "[청주=뉴시스] 이도근 기자 = 충북 청주시는 상당구 미원면 약물내기 문화공원의 야간 보행 환경 개선을 위한 야간 경관 개선사업을 마무리했다고 16일 밝혔다.",
-      "시는 사업비 2억2000만원을 들여 공원 연못 주변에 시간마다 색상이 바뀌는 라인조명을 설치했고 정자, 화장실, 수목 등 주요 시설에도 다채로운 조명을 배치했다.",
-      "특히 공원 입구에는 조형물과 글자 조명을 넣어 생동감 있는 공원 환경을 연출했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n78dc095c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003750914",
-    "title": "제주 하루만에 261.5㎜ 물폭탄…내일까지 150㎜ 더 온다",
-    "summary": [
-      "[제주=뉴시스]오영재 기자 = 제주 한라산에 260㎜ 넘는 비가 쏟아졌다.",
-      "16일 제주기상청에 따르면 이날 오전 10시 기준 산지와 중산간, 동부 전역에 호우주의보가 발효 중이다.",
-      "기상청은 중산간 이상 지역을 중심으로 시간당 10~20㎜의 강한 비가 내리고 있다고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79da0d3f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/16/GY3GCY3EMFQWKZLCMYYWKYLEHE/",
-    "title": "김하성, 9회 대타 출장→43일 만에 타점…ATL, 3-10 대패→2연패 부진 [ATL 리뷰]",
-    "summary": [
-      "[OSEN=길준영 기자] 애틀랜타 브레이브스 김하성(31)이 대타로 출전했지만 안타를 때려내지 못했다.애틀랜타는 16일(이하 한국시간) 미국 조지아주 컴벌랜드 트루이스트 파크에서 열린 애리조나 다이아몬드백스와의 경기에서 3-10 대패를 당했다.",
-      "이날 패배로 애틀랜타는 2연패를 당했다.",
-      "김하성은 올 시즌 30경기 타율 6푼7리(76타수 5안타) 4타점 5득점."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n69508141",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816018500527",
-    "title": "전남 영암에 호우경보 해제…목포 등 10곳 호우주의보 해제",
-    "summary": [
-      "(광주=연합뉴스) 기상청은 영암에 발령했던 호우경보를 16일 오전 11시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n021cd130",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260816/134484022/1",
-    "title": "“닥치고 짓자” vs “1㎝도 훼손 안돼”…용산공원 놓고 정부·지자체 충돌",
-    "summary": [
-      "정부가 서울 용산구 어린이정원을 포함한 용산공원 전체를 대상으로 주택 공급을 추진하는 가운데 서울시와 용산구가 용산공원 주택 공급 후보지 검토 방침에 반대 입장을 표명했다.",
-      "정부의 ‘닥치고 짓자’는 원칙과 이를 막아서기 위한 지방자치단체 간의 힘겨루기가 이어질 것으로 보인다.",
-      "정부의 방침은 김윤덕 국토교통부 장관이 14일 정부세종청사에서 열린 취임 1주년 기자간담회에서 “용산공원 전체를 (주택 공급 후보지로) 고민하고 있다”고 밝히면서 확인됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb7a977c4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816018400527",
-    "title": "광주동부·광주서부에 호우주의보 해제",
-    "summary": [
-      "(광주=연합뉴스) 기상청은 광주동부·광주서부에 내렸던 호우주의보를 16일 오전 11시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na389dcd7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814155400051",
-    "title": "해수부, 고려대서 '청소년 해양 영토 토론대회'",
-    "summary": [
-      "(부산=연합뉴스) 이영재 기자 = 해양수산부는 지난 14일 고려대학교에서 전국 중·고등학생과 학교 밖 청소년이 참여한 '2026년 청소년 해양 ..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nf8fadd19",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "17분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260816105715",
-    "title": "[영화 속 AI윤리] 디지털 불멸과 자아의 연속성",
-    "summary": [
-      "[지디넷코리아]장주는 꿈속에서 나비가 돼 훨훨 날아다니며 즐거워했고, 자신이 장주라는 사실을 알지 못했다.",
-      "문득 깨어보니 그는 장주였다.",
-      "그러나 장주가 꿈에 나비가 된 것인지, 나비가 꿈에 장주가 된 것인지는 알 수 없었다.'장자' '제물론'의 마지막에 놓인 호접몽은 꿈과 현실, 서로 다른 존재 상태와 관점의 관계를 묻는 이야기로 해석된다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n5c5c5331",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "19분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260816104324",
-    "title": "\"첫 실패가 진짜 자산\"…샌디플로어, 인디 게임 시장 '패자부활전' 이끈다",
-    "summary": [
-      "[지디넷코리아]인디 게임 시장에서 첫 프로젝트의 실패는 대개 개발팀의 해체로 이어진다.",
-      "\"첫 게임이 안 됐는데 두 번째 게임이 되겠느냐\"는 회의적인 시선이 뒤따르는 탓에 재도전의 기회를 얻기 어려운 것이 현실이다.국내 인디 게임 스튜디오 샌디플로어가 자체 개발을 넘어 퍼블리싱으로 사업 영역을 확장하는 이유도 여기에 있다.16일 '부산인디커넥트페스티벌(BIC) 2026' 현장에서 만난 이종창 샌디플로어 대표는 \"첫 작품에 모든 역량을 쏟아붓고도."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n27b473f6",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260816/134484052/1",
-    "title": "‘오디세이’ 400만·‘스파이더맨4’ 700만 돌파",
-    "summary": [
-      "영화 ‘오디세이’(감독 크리스토퍼 놀런)가 400만, 스파이더맨‘의 후속 시리즈 ’스파이더맨: 브랜드 뉴 데이‘(감독 데스틴 크리튼/’스파이더맨4‘)가 700만 관객을 16일 각각 돌파했다.16일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면, ’오디세이‘는 이날 오전 6시 46분 429만 4209 명을 동원, 개봉 12일째에 400만 관객을 돌파했다.",
-      "이는 올해 개봉한 ’왕과 사는 남자‘, ’호프‘, ’군체‘보다 빠른 속도다.지난 5일."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5842e5e1",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/economy/money/2026/08/16/MCER7R4O4ZEWBDKKNIUGF4ATBQ/",
-    "title": "“삼성전자·SK하이닉스 연간 최대 300조원 주주환원“...코스피 반등 열쇠될까",
-    "summary": [
-      "“삼성전자·SK하이닉스 연간 최대 300조원 주주환원“...코스피 반등 열쇠될까."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "na342d2fc",
+    "id": "ne1c56913",
     "category": "사회",
     "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260816/134484049/1",
-    "title": "대세 리센느, ‘프리티 걸’로 ‘음중’ 트리플 크라운…음방 4관왕",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260816/134484293/1",
+    "title": "올 휴가철 차에서 가장 많이 들은 곡, 깜짝 재결합 걸그룹 노래였다",
     "summary": [
-      "대세로 떠오른 걸그룹 리센느(RESCENE)가 ‘쇼! 음악중심’에서 또 1위, 데뷔 후 처음으로 트리플 크라운의 주인공이 됐다.리센느는 15일 오후 방송된 MBC ‘쇼! 음악중심’에서 신곡 ‘프리티 걸’(Pretty Girl)로 1위가 됐다.",
-      "‘쇼! 음악중심’에서만 통산 세 번째 수상이다.",
-      "리센느는 ‘프리티 걸’ 활동을 마무리했음에도 정상을 차지하며 인기를 입증했다.앞서 리센느는 ‘프리티 걸’로 SBS Life ‘더쇼’에서 1위, ‘쇼! 음악중."
+      "올해 여름 휴가철 차량에서 가장 많이 들은 노래는 아이오아이의 ‘갑자기’였다.16일 KT지니뮤직은 올해 상반기(1~6월) 차량에서의 음악 스트리밍 소비가 전년동기대비 30% 증가했고, 40대(35%)가 가장 많이 음악을 듣는 것으로 집계됐다고 밝혔다.",
+      "차량 운전 중 남성(58%)이 여성(42%)보다 음악감상을 더 많이 했고, 주말(58%) 음악감상 소비가 주중(42%)보다 더 많았다.또한 야외활동이 늘면서 차량 운전 중 음악감상이 늘어난 것으로."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3ea529ae",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "22분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260816105251",
-    "title": "\"피지컬 AI 실험장\"…서울AI허브, 해커톤 '토이톤' 개최",
+    "id": "n4646a396",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "34분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260816/134484282/1",
+    "title": "李대통령 광복절 경축사에 日언론 “미래지향적 한일관계 지속 의향”",
     "summary": [
-      "[지디넷코리아]서울AI허브가 생성형 인공지능(AI)으로 작성한 코드를 센서와 개발보드 등 실제 하드웨어(HW)에 연결하는 실험에 나선다.",
-      "서울AI허브는 오는 22일 서울 양재동 서울 AI 허브 메인센터에서 피지컬 AI 해커톤 '토이톤'을 개최한다고 16일 밝혔다.",
-      "팀휴먼과 누코드, 한국투자액셀러레이터 등이 행사를 함께하며 챗GPT 개발사 오픈AI는 공식 후원사로 참여한다.참가자들은 AI 개발 도구와 누코드 개발보드를 활용해 아이디어 기획부터 코."
+      "이재명 대통령의 광복절 경축사를 둘러싸고 일본 유력지는 그가 미래지향적인 한일 관계 지속 의향을 밝힌 것이라고 분석했다.",
+      "16일 요미우리신문은 이 대통령의 광복절 축사 소식을 보도하며 “미래지향적인 일한(한일) 관계를 지속할 의향을 나타낸 것”이라고 해석했다.",
+      "신문은 이 대통령이 작년과 마찬가지로 개별적인 역사 문제에 대해 구체적으로 다루지 않았다며 “호전된 일한 관계를 중시할 자세를 반영한 것으로 보인다”고 전했다."
     ],
     "chips": [
-      "#AI"
+      "#정치"
     ]
   },
   {
-    "id": "n1c3752a6",
-    "category": "사회",
-    "source": "ZDNet Korea",
-    "time": "30분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260816104457",
-    "title": "다쏘시스템, '융합형 엔지니어' 키운다…주요 성과는",
+    "id": "n51b17799",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "38분 전",
+    "url": "https://www.hankyung.com/article/202608153046g",
+    "title": "\"건강하고 힙해요\"…미국인들 사로잡은 'K푸드' 이곳서 만든다 [현장+]",
     "summary": [
-      "[지디넷코리아]다쏘시스템이 실제 산업 과제를 시뮬레이션에서 해결하는 교육을 지원하며 융합형 엔지니어링 인재 양성에 나서고 있다.",
-      "학생들은 설계·유체역학·구조해석·재료공학을 넘나들며 산업 현장에서 요구되는 문제 해결 역량을 기를 수 있다.16일 다쏘시스템은 미국 일리노이주 마미온아카데미의 컴퓨테이셔널 프로토타이핑 및 연구센터(CPARC)에 '3D익스피리언스' 플랫폼을 활용한 엔지니어링 교육 프로그램 운영 사례를 공개했다."
+      "\"건강하고 힙해요\"…미국인들 사로잡은 'K푸드' 이곳서 만든다 [현장+]."
     ],
     "chips": [
-      "#교육"
+      "#의료"
+    ]
+  },
+  {
+    "id": "n739a0226",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "38분 전",
+    "url": "https://www.hankyung.com/article/2026081412256",
+    "title": "\"서울도 광명도 너무 비싸\"…'가성비 준서울'로 급부상한 곳 [철길옆집]",
+    "summary": [
+      "\"서울도 광명도 너무 비싸\"…'가성비 준서울'로 급부상한 곳 [철길옆집]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n75c0dd9a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "38분 전",
+    "url": "https://www.hankyung.com/article/202608163879i",
+    "title": "\"골프 치다 허리 휘겠다\"…110만원 드라이버에 골퍼들 결국 [프라이스&]",
+    "summary": [
+      "\"골프 치다 허리 휘겠다\"…110만원 드라이버에 골퍼들 결국 [프라이스&]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n900d14af",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "52분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816020100008",
+    "title": "[부고] 곽윤아(연합뉴스 증권부 기자)씨 조부상",
+    "summary": [
+      "[부고] 곽윤아(연합뉴스 증권부 기자)씨 조부상."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -645,14 +638,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
