@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-16 21:10:37
+// 마지막 업데이트: 2026-08-16 22:10:12
 window.NEWS_DB = [
   {
     "id": "n066dd761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
     "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
     "summary": [
@@ -17,30 +17,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n63a2b5bf",
-    "category": "IT",
-    "source": "seoulfn.com",
-    "time": "22시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUmVxdzBvejhrMTFkMkh4ZWpVZFJvODlDeVh1elNJcDUyRlN5dEp0NUtMWHB2QzlMZ2tnZTkydFZzUWJiaHh3MTIxNzJmcUZSR2EySE9RaGpTT3FsY3JscGxDNnhMTzRHOXc?oc=5",
-    "title": "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패권 향방은?",
-    "summary": [
-      "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패권 향방은? seoulfn.com."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n24495d23",
     "category": "IT",
-    "source": "조선일보",
+    "source": "chosun.com",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 조선일보."
+      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 chosun.com."
     ],
     "chips": [
       "#AI",
@@ -81,12 +65,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "businesspost.co.kr",
+    "source": "비즈니스포스트",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -96,11 +80,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne2694309",
+    "id": "n1058f97e",
     "category": "스포츠",
     "source": "네이트",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tWEJfd1NNQUh3UUhBQVF2V3l6eS1NaTk3N19QLUNqUnJMV2RoZS1NbnJBa2pxRHlOSlZIZU1pYmQtRXhFcUJIOVlwVmRxNmRGcjFQbjc5Tk0zalhySFBfVVByZEtKTVg3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
       "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
@@ -138,6 +122,22 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "nda655558",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTG54U3ZVdXl3RndHZUVpczliSEJ1WnNpTGJJVWdJWmk2OXpBY0hHVE1MS0NQMGEweXZjSHdkV0NveXpPa0dCMnVEZEdjY0hnS3lvWl9MWF9uYU9sYWxTRlhmNDl1TzUtV0JxNUlNY2FOZnNHa3fSAWZBVV95cUxNeVZGUjMxWHpwd2dqc2RhenVvZlVtMnFUVk93RVlmd0xUOGl5WlY3WU5yeVpPT1JockdPQlg5aXhFT0hyT3U2YUNXNmNKZ0pibS1wa3pORHpEWGg4WVR3Q1d4Nl9LWEE?oc=5",
+    "title": "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다",
+    "summary": [
+      "엔비디아, 오픈소스·금융으로 AI 반도체 판 넓힌다 동아일보."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -187,12 +187,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#환율"
@@ -300,6 +300,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "137일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n81ea8c23",
     "category": "IT",
     "source": "테크M",
@@ -316,315 +330,307 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n28543bc5",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/estate/2026/08/17/2026081411345389750",
-    "title": "\"임대 늘린다면서 집주인엔 들어가 살아라\"…엇박자 정책 손질해야",
+    "id": "nce3b6fb4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "방금 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260817/134487133/1",
+    "title": "방미 김정관 “대미투자 막판 다양한 쟁점…美 압박 받은적 없어”",
     "summary": [
-      "[MT리포트] 비거주 1주택에도 거주자는 있다 ⑤ 정부가 세제·금융 규제를 통해 비거주 1주택자의 실거주를 유도하고 있지만 그 집에는 또 다른 거주자인 세입자가 있다.",
-      "집주인의 실거주 전환이 세입자의 연쇄 이동을 부르는 '의자뺏기' 현상과 전월세시장 불안을 짚는다.",
-      "해외 주거시장과 비교해 실거주 중심 정책의 한계를 살펴보고 임대차시장 안정의 해법을 모색한다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n080b2b6e",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/estate/2026/08/17/2026081414145931739",
-    "title": "자가 94%인데 임대난?…슬로바키아가 보여준 '실거주의 역설'",
-    "summary": [
-      "[MT리포트]비거주 1주택에도 거주자는 있다 ④ 정부가 세제·금융 규제를 통해 비거주 1주택자의 실거주를 유도하고 있지만 그 집에는 또 다른 거주자인 세입자가 있다.",
-      "집주인의 실거주 전환이 세입자의 연쇄 이동을 부르는 '의자뺏기' 현상과 전월세시장 불안을 짚는다.",
-      "해외 주거시장과 비교해 실거주 중심 정책의 한계를 살펴보고 임대차시장 안정의 해법을 모색한다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "na8b5acaa",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/estate/2026/08/17/2026081410313122927",
-    "title": "중랑·노원이라도 갈까?...\"여기도 전세 씨말랐다\" 매물 급감",
-    "summary": [
-      "[MT리포트]비거주 1주택에도 거주자는 있다③ 정부가 세제·금융 규제를 통해 비거주 1주택자의 실거주를 유도하고 있지만 그 집에는 또 다른 거주자인 세입자가 있다.",
-      "집주인의 실거주 전환이 세입자의 연쇄 이동을 부르는 '의자뺏기' 현상과 전월세시장 불안을 짚는다.",
-      "해외 주거시장과 비교해 실거주 중심 정책의 한계를 살펴보고 임대차시장 안정의 해법을 모색한다."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n86ea3c67",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814053100057",
-    "title": "'정식 판매처 아니었네' 상표 무단사용 쇼핑몰 업자 벌금형",
-    "summary": [
-      "(울산=연합뉴스) 김근주 기자 = 유명 온라인 플랫폼에서 정식 판매처인 것처럼 주방 도구 등을 유통한 쇼핑몰 업자에게 벌금형이 선고됐다."
+      "김정관 산업통상부 장관이 16일(현지 시간) 이르면 이달 말 첫 대미 투자 프로젝트를 발표한다는 목표를 유지하고 있다면서도 “(프로젝트 발표에 앞서) 막판이 되면서 실무적으로 다양하고 구체적인 쟁점들이 나오고 있다”고 밝혔다.",
+      "미국이 대미 투자 이행을 서두르지 않으면 한국에 대한 관세를 다시 높일 수 있다는 취지로 압박했다는 것과 관련해선 “저는 (그런 압박을) 받은 적이 없다”고 선을 그었다.김 장관은 이날 워싱턴 인근 덜레스 국제공항을 통해."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncaf2b46b",
+    "id": "nbd8af136",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260817/134487160/1",
+    "title": "[주간투자동향] 그래파이, 170억 원 규모 시리즈A 투자 유치 外",
+    "summary": [
+      "바야흐로 스타트업 시대입니다.",
+      "2010년부터 불어온 국내 스타트업 열풍은 꾸준히 거세졌고, 대한민국은 어느새 유니콘 기업 11개를 배출한 세계 5위 스타트업 강국으로 자리매김했습니다.",
+      "쿠팡, 우아한형제들, 야놀자, 블루홀 등 경쟁력을 갖춘 스타트업이 우리 실생활 속으로 파고들었고, 지금 이 순간에도 성공을 꿈꾸는 수많은 스타트업이 치열한 경쟁 속에서 도전하고 있습니다."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "naa94fdfa",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815039400530",
-    "title": "커지는 다중재해 위험…폭염·풍수해 중대본 동시가동 늘어났다",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814175900001",
+    "title": "\"폐업에도 환급 거부\"…6년간 산후조리원 피해 상담 2천건",
     "summary": [
-      "(서울=연합뉴스) 홍준석 기자 = 폭염이 이어지는 가운데 집중호우나 태풍이 닥치는 등 여러 자연재해가 동시에 또는 잇따라 발생하는 '다중재해'가..."
+      "(서울=연합뉴스) 이율립 기자 = 출산율 반등세 속에 산후조리원 이용 수요도 늘고 있지만 폐업을 하고도 계약금을 돌려주지 않는 조리원으로 인한 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n578bb02f",
+    "id": "n9f9fbc63",
     "category": "경제",
-    "source": "연합뉴스(경제)",
+    "source": "아시아경제",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815033800008",
-    "title": "2분기 서학개미 순매도에도…증권사, 해외 수수료 1조 벌었다",
+    "url": "https://view.asiae.co.kr/article/2026081415335151230",
+    "title": "\"보리 태웠더니 커피 같네?\"…가짜 커피 '오르조' [맛있는 이야기]",
     "summary": [
-      "(서울=연합뉴스) 김태종 기자 = 올해 2분기(4∼6월) 해외 증시에 투자하는 개인 투자자(서학 개미)들이 주식을 대거 팔았지만, 거래대금 증가..."
+      "편집자주최초의 과자는 고대 메소포타미아 문명에서 발견됐다고 합니다.",
+      "과자는 인간 역사의 매 순간을 함께 해 온 셈이지요.",
+      "비스킷, 초콜릿, 아이스크림까지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8ffe8877",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260815032600003",
-    "title": "한화 김동관, 주가 급등에 주식보상 가치 2천700억원으로",
-    "summary": [
-      "(서울=연합뉴스) 김윤구 기자 = 국내 대기업 중 처음으로 양도제한조건부 주식(RSU) 제도를 도입한 한화그룹의 김동관 수석부회장이 부여받은 R..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n608140e7",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/estate/2026/08/17/2026081410513292283",
-    "title": "\"전셋집 쫓겨나 보증금 4억·월세 100만원 더\"...빚은 더 쌓였다",
-    "summary": [
-      "[MT리포트]비거주 1주택에도 거주자는 있다② 정부가 세제·금융 규제를 통해 비거주 1주택자의 실거주를 유도하고 있지만 그 집에는 또 다른 거주자인 세입자가 있다.",
-      "집주인의 실거주 전환이 세입자의 연쇄 이동을 부르는 '의자뺏기' 현상과 전월세시장 불안을 짚는다.",
-      "해외 주거시장과 비교해 실거주 중심 정책의 한계를 살펴보고 임대차시장 안정의 해법을 모색한다 #8년 동안 한 집에서 자녀를 낳고 키우며 살아온 무주택자 C씨는 최근 집주인으로부터 직접."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n6c484b28",
+    "id": "n9ccdc24d",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817010900009",
+    "title": "美유권자 과반 \"트럼프 재집권 후 살림 악화\"…중간선거 경고등",
+    "summary": [
+      "(서울=연합뉴스) 고일환 기자 = 미국 유권자의 절반 이상이 도널드 트럼프 대통령 재집권 이후 경제적으로 더 어려워졌다고 느끼는 것으로 나타났다..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne50e24b1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/GU4DKMLDME2DKYZQMZRWEOJYGY/",
+    "title": "임라라, ‘폭풍 성장’ 쌍둥이에 오열..“너무 빨리 커, 속상해” (엔조이커플)",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] 임라라가 폭풍 성장한 쌍둥이에 아쉬움을 눈물을 흘렸다.",
+      "16일 유튜브 채널 ‘엔조이커플’에는 ‘드디어 첫니! 인생 첫 치아가 생긴 왕만두!!’라는 제목의 영상이 게재됐다.영상에는 어느새 강이가 기어가는 모습이 포착됐다.",
+      "이를 본 임라라는 “갑자기 이틀 만에 이렇게”라며 “아기들의 발전은 너무 놀."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n36c827f5",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817010500051",
+    "title": "최대 270㎜ 비 쏟아진 부산서 밤새 주택 침수 등 피해 잇따라",
+    "summary": [
+      "(부산=연합뉴스) 김재홍 기자 = 밤새 강풍을 동반한 많은 비가 내린 부산지역에 주택 침수 등 피해가 잇따랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf9ba5fa1",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003750057",
-    "title": "원유 수급은 돌아왔는데…중동 '비상조치' 언제 풀리나",
+    "url": "https://www.yna.co.kr/view/AKR20260814088100064",
+    "title": "폐기음식 가져갔다가 법정 선 편의점 알바생…법원 선처",
     "summary": [
-      "[세종=뉴시스]이수정 기자 = 중동전쟁 이후 급감했던 원유 도입 물량이 회복되면서 정부가 시행 중인 석유시장 비상조치의 정상화 시점에 관심이 쏠린다.",
-      "전체 원유 수입량은 전쟁 전 수준에 근접하고 향후 원유·나프타 도입 물량도 평시 수준을 확보했지만, 중동 정세와 주요 해상 수송로를 둘러싼 불확실성이 여전해 정부는 비상조치 해제에 신중한 모습이다.",
-      "17일 한국석유공사 페트로넷에 따르면 국내 원유 수입량은 지난 4월 6449만9000배럴까지 줄었다."
+      "(충주=연합뉴스) 천경환 기자 = 유통기한이 지난 폐기 음식을 허락 없이 가져갔다가 절도 혐의로 재판에 넘겨진 20대 편의점 아르바이트생에게 법..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfe9e2617",
-    "category": "사회",
+    "id": "nc2fd3efa",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026081707015172831",
+    "title": "김시우 준우승…셰플러, 시즌 2승·통산 21승 환호",
+    "summary": [
+      "김시우가 올해 세 번째 준우승을 차지했다.",
+      "그는 17일(한국시간) 미국 테네시주 멤피스의 TPC 사우스윈드(파70)에서 열린 미국프로골프(PGA) 투어 2026시즌 플레이오프(PO) 1차전 페덱스 세인트 주드 챔피언십(총상금 2000만달러) 4라운드에서 보기 없이 버디만 2개를 낚았다.",
+      "2언더파 68타를 친 김시우는 전날 공동 6위에서 2위(9언더파 271타)까지 도약했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3ec5e298",
+    "category": "경제",
     "source": "연합뉴스(경제)",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814130400530",
-    "title": "산재사망 '영업익 5%' 과징금…기업 규모별 차등 부과 검토",
+    "url": "https://www.yna.co.kr/view/AKR20260816015900030",
+    "title": "\"한 줄 4천원 육박\"…쌀·계란값 상승에 김밥 가격도 부담",
     "summary": [
-      "(서울=연합뉴스) 옥성구 기자 = 산업재해로 연간 3명 이상 사망 사고가 발생하는 기업에 영업이익의 최대 5% 과징금을 부과하는 개정안이 국회 ..."
+      "(서울=연합뉴스) 정수연 기자 = 쌀, 계란, 김 등 핵심 재료 가격이 오르면서 김밥 가격이 주요 외식 품목 가운데 가장 빠른 속도로 상승하고 ..."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n4d5fdb84",
-    "category": "경제",
+    "id": "ndffda70a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/17/XQ6IGASXDRHGBAJEMNKCPPC76A/",
+    "title": "[그 영화 어때] 오스카도 안 부럽다, 관객이 동전 던져 뽑아주는 땡그랑동전상의 열기",
+    "summary": [
+      "[그 영화 어때] 오스카도 안 부럽다, 관객이 동전 던져 뽑아주는 땡그랑동전상의 열기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nce1cd523",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026081707012968585",
+    "title": "\"8·3 세제개편안, 내 세금은?\"…강남구, 부동산 세금 설명회",
+    "summary": [
+      "서울 강남구(구청장 김현기)가 올 9월 18일 오후 2시부터 6시까지 강남구민회관 2층 대강당에서 ‘부동산 세금 구민 설명회’를 연다.이번 설명회는 최근 발표된 정부의 ‘8·3 부동산 세제개편안’에 대한 구민들의 궁금증을 해소하고, 양도소득세와 종합부동산세 등 부동산 세금에 대한 합리적인 대응 전략을 안내하기 위해 마련됐다.",
+      "설명회에는 강남구민 500명이 참여할 수 있다.",
+      "강사로는 국세청과 기획재정부 세제실 재산세제."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n2b8b0ba4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260813_0003748110",
+    "title": "\"한국형 헬스테크 협력 플랫폼\"…내달 첫 행사",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 임상 현장에서 환자를 만나는 의료진을 비롯해 연구자, 기술기업, 투자자, 정부·지원기관, 병원 관계자 등이 한자리에 모여 의료 기술이 실제 현장으로 이어지기 위한 논의의 장이 마련된다.",
+      "17일 학교법인일송학원에 따르면 의료 기술 사업화 콘퍼런스 'MEeT 2026'이 내달 10일 서울 코엑스 더 플라츠에서 처음 개최된다.",
+      "이번 콘퍼런스는 학교법인일송학원·한국컨벤션전시산업연구원·이즈피엠피가 주최하고 한국투자파트너스·."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb356308d",
+    "category": "부동산",
     "source": "연합뉴스(경제)",
     "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814138300062",
-    "title": "[위기의 지방재정] ④ \"허리띠만 졸라매선 한계…구조적 불균형 손봐야\"(끝)",
+    "url": "https://www.yna.co.kr/view/AKR20260814066000063",
+    "title": "\"동 이름 둔산으로 바꿀래요\" 왜…재건축사업 아파트 값 상승효과?",
     "summary": [
-      "(전국종합=연합뉴스) 지방자치단체들이 재정난을 호소하며 잇따라 허리띠 졸라매기에 나서는 상황 속에 전문가들은 단순히 긴축만으로는 지방재정의 어려..."
+      "(대전=연합뉴스) 박주영 기자 = 정부의 재건축 사업이 추진 중인 대전 서구 둔산동의 아파트값이 연일 상승세를 보이면서 이웃한 지역에서 행정동 ..."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
+    "id": "nf955b4dd",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816046200003",
+    "title": "국내 리츠시장 규모 120조원 돌파…10년간 100조원대 성장",
+    "summary": [
+      "(서울=연합뉴스) 임기창 기자 = 국내 리츠(REITs·부동산투자회사) 시장 규모가 10년간 100조원가량 성장해 올해 120조원을 넘어섰다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nb55ecac3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260817/134487143/1",
+    "title": "“실컷 놀다왔는데 여긴 왜 아프지”…‘휴가 후유증’ 주의보",
+    "summary": [
+      "신나게 물놀이하고 돌아왔는데 눈은 충혈되고, 귀는 간질간질하다.",
+      "여기에 휴가 내내 쌓인 피로가 채 가시기도 전에 일상으로 복귀하면서 목·허리·무릎까지 쑤시기 시작한다.",
+      "즐거웠던 휴가가 끝난 뒤 오히려 몸 곳곳에서 ‘후유증’이 나타나는 경우다.물놀이 후 눈 충혈·이물감…바이러스 결막염 주의바이러스 결막염은 여름철 물놀이와 휴가지에서 주의해야 할 감염성 질환이다.유행성 각결막염은 아데노바이러스 감염으로 발생하며 오염된 물이나 감염자와의 접촉을 통해."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n325195d0",
-    "category": "사회",
+    "id": "nc852f9fd",
+    "category": "경제",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749706",
-    "title": "약가 깎인 제약사들…\"혁신 기업이 살길\" 사활",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751091",
+    "title": "런던 일상 파고든 K-푸드…FTA 타고 라면·만두·핫도그까지[FTA 시대, 수출은 시스템이다④]",
     "summary": [
-      "[서울=뉴시스]황재희 기자 = 정부의 제네릭(복제약) 약가 인하가 시행되면서 국내 제약업계가 '혁신형 제약기업' 인증에 사활을 걸고 있다.",
-      "혁신형 제약기업으로 선정돼야 약가 우대와 세제 혜택이 주어지는 만큼 약가인하 여파를 상쇄할 수 있다는 판단에서다.",
-      "17일 관련 업계에 따르면 보건복지부는 지난달 30일 '제약산업 육성 및 지원에 관한 특별법' 시행령·시행규칙과 '혁신형 제약기업 인증 등에 관한 규정' 개정안을 공포·발령했다."
+      "[런던=뉴시스]박광온 기자 = \"한 번 먹어보고 완전히 빠졌어요.",
+      "요즘은 친구들이랑 만나면 한국 음식부터 찾게 돼요.\" 뉴시스가 영국 런던에서 만난 캐서린(18)은 한국식 핫도그를 한입 크게 베어 문 뒤 웃으며 한국 음식에 대해 이같이 말했다.",
+      "런던 중심가 레스터스퀘어 인근의 한국식 길거리음식 매장 'Bunsik 분식'에는 떡볶이와 핫도그, 김밥 등을 찾는 소비자들의 발길이 이어졌다."
     ],
     "chips": [
-      "#의료"
+      "#수출"
     ]
   },
   {
-    "id": "na80c6162",
+    "id": "nacaf4aee",
     "category": "IT",
-    "source": "조선비즈IT",
+    "source": "뉴시스",
     "time": "10분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/17/RYK2HSS76RFD7GOAYKMEHAPHWY/",
-    "title": "[인터뷰] 기업가치 17조원 유럽 최대 우주정보 기업 ICEYE… 페카 라우릴라 공동창업자 “우리가 파는 건 위성사진 아닌 AI 정보”",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751159",
+    "title": "물가 낮춘다던 AI, 올해는 거꾸로 밀어올린다…최대 0.4%p 계산 나왔다",
     "summary": [
-      "[인터뷰] 기업가치 17조원 유럽 최대 우주정보 기업 ICEYE… 페카 라우릴라 공동창업자 “우리가 파는 건 위성사진 아닌 AI 정보”."
+      "[서울=뉴시스]박영환 기자 = 생산성을 높여 물가를 낮출 것으로 기대됐던 인공지능(AI)이 올해 미국에서는 단기 물가 압력을 키우고 있다는 분석이 나왔다.",
+      "캐나다계 투자은행 CIBC 캐피털마켓은 AI 붐이 올해 미국의 연간 개인소비지출(PCE) 물가상승률을 최대 0.4%포인트 높일 수 있다고 추산했다.",
+      "미국 경제매체 마켓워치는 15일(현지 시간) 알파벳·메타·아마존·마이크로소프트 등 빅테크가 AI 개발과 데이터센터 건설에 경쟁적으로 돈을 쏟아부."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n3687e8ed",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "10분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/17/4PS4YUHWD5DHFAULYQRO2DRTME/",
-    "title": "“AI에 밀리면 끝”… ‘사스포칼립스’ 공포에 체질 바꾸는 소프트웨어 기업",
-    "summary": [
-      "“AI에 밀리면 끝”… ‘사스포칼립스’ 공포에 체질 바꾸는 소프트웨어 기업."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n7eb16e59",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751155",
-    "title": "\"앤스로픽 AI 빼라\"던 美공군, 한 달 만에 멈췄다.…NSA는 그 AI로 中·러 약점 캔다",
-    "summary": [
-      "[서울=뉴시스]박영환 기자 = 미 공군이 주요 방산업체들에 무기체계와 통제 시스템에서 앤스로픽 제품을 제거하라고 지시했다가 한 달 만에 이를 보류했고, 국방부 산하 미 국가안보국(NSA)도 앤스로픽의 고성능 사이버보안 인공지능(AI) 모델 ‘미토스’를 시험하고 있는 것으로 나타났다.",
-      "앤스로픽 퇴출 방침과 안보 현장의 AI 수요가 충돌하고 있다.",
-      "미국 뉴욕타임스(NYT)는 16일(현지시간) 공군 서한을 확인하고 전·현직 당국자들을 취재해 이같이."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n9df2af97",
+    "id": "n7db10b61",
     "category": "사회",
     "source": "뉴시스",
     "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751136",
-    "title": "[오늘의 주요일정]사회(8월17일 월요일)",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749040",
+    "title": "\"금요일 오전에 가라\" 신세계사이먼이 공개한 아웃렛 '득템공식'",
     "summary": [
-      "[서울=뉴시스] ▲오전 8시 국민연대, 수유동 우리은행 수유동 금융센터 앞 인도, 낙하산 공천 규탄 ▲오전 11시30분 만공tv, 방이동 올림픽공원역 4번 출구 뒤 인도, 내란세력 척결 ▲오전 11시30분 정치한잔, 방이동 올림픽공원역 3번 출구 인도, 내란동조세력 척결 ▲오후 6시 홍대소상공인 번영회, 서교동 홍대레드로드 로터리2 앞, 대장 홍대선 위치 선정 반대."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4c3131dc",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/17/MRSDKZLEHA2TINDDHA3TKOJWGU/",
-    "title": "“아, 이 정도구나” ML 출신 최지만도 인정한 김서현 구위…정우주와 맞대결 불발에 “아쉬웠다”",
-    "summary": [
-      "[OSEN=손찬익 기자] 메이저리그 무대를 누볐던 최지만(울산 웨일즈)의 눈에 비친 한국 야구의 수준은 어떨까.오는 9월 KBO 신인 드래프트 참가를 앞두고 퓨처스리그에서 실전 감각을 끌어올리고 있는 최지만이 한화 이글스의 젊은 파이어볼러 정우주와 김서현을 지켜보고 직접 경험한 뒤 한국 야구의 성장세에 주목했다.최지만은 지난 15일 울산 문수구장에서 열린."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5d10e2bb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/special/2026/08/17/NS6LL6MKERDO7IIUI5NL7LSIEQ/",
-    "title": "황금 연휴 즐거웠나요...당신의 ‘기쁨 수명’ 몇 살이죠?",
-    "summary": [
-      "황금 연휴 즐거웠나요...당신의 ‘기쁨 수명’ 몇 살이죠?."
+      "[서울=뉴시스]동효정 기자 = 최근 유튜브와 인스타그램 등 SNS에서 프리미엄 아울렛 쇼핑 콘텐츠가 잇따라 인기를 끌고 있다.",
+      "단순히 할인 상품을 소개하는 것을 넘어 방문 시점과 매장 공략법, 할인 혜택 등을 알려주는 콘텐츠가 주목받는 모습이다.",
+      "배우 선우용여의 유튜브 채널 순풍 선우용여에 공개된 파주·여주 프리미엄 아울렛 쇼핑 영상은 각각 162만회, 124만회의 조회수를 기록하며 누적 약 290만회(8월10일 기준) 조회됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8ee49cdf",
-    "category": "사회",
+    "id": "nf89271a2",
+    "category": "경제",
     "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260817/134487123/1",
-    "title": "“살찌고 콜레스테롤 오른다더니?”…전지방 유제품, 뜻밖의 연구 결과",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260817/134487136/1",
+    "title": "“이제 다시 금 사야 하나”…금값 한 달 만에 11% 반등",
     "summary": [
-      "지방 함량이 높은 우유나 요구르트, 치즈 등 전지방 유제품이 체중이나 콜레스테롤에 부정적인 영향을 미치지 않을 수 있다는 연구 결과가 나왔다.",
-      "오히려 전지방 유제품을 충분히 섭취한 사람들에게서 혈압이 개선되는 효과가 나타났다.미국 스크립스뉴스는 지난 13일(현지 시간) 캐나다 토론토대학교 연구진이 과체중 또는 비만 성인 74명을 대상으로 12주간 진행한 연구 결과를 소개했다.전지방 유제품은 지방을 제거하거나 줄이지 않은 일반 우유·요구르트·치즈."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ncf2fed98",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "24분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260817/134487120/1",
-    "title": "카페 소파에 ‘눕방 커플’…“동행녀 무릎베개 삼아 벌러덩, 러브버그냐”",
-    "summary": [
-      "폭염을 피해 카페를 찾은 일부 손님이 매장 소파에 몸을 길게 뻗고 누워 휴식을 취하는 모습이 공개돼 공공장소에서의 에티켓을 두고 논쟁이 벌어졌다.최근 온라인 커뮤니티 보배드림에는 ‘여기 우리 집 안방인가요? 카페 소파에 대자로 뻗어 진상 손님 눕방족 실체’라는 제목의 글과 사진이 올라왔다.작성자 A 씨는 전국적으로 무더위가 이어지면서 에어컨 바람을 찾아 카페를 이용하는 사람들이 늘고 있다며 일부 손님의 비매너 행위를 지적했다.A 씨가 공개한 사."
+      "지지부진하던 금 가격이 최근 미국 연방준비제도(Fed·연준)의 긴축 우려가 완화되면서 긴 조정을 마치고 반등세를 보이고 있다.",
+      "투자자들은 물론 각국의 중앙은행까지 저가 매수에 나서면서 증권가에선 금 가격이 상승 국면에 진입했다고 평가한다.17일 금융투자업계에 따르면 지난 14일 기준 12월물 금 선물 가격은 온스당 4432달러에 장을 마감했다.금 선물 가격은 지난 1월 29일 종가 기준 사상 최고치인 5354.8달러까지 치솟은 뒤 꾸준히 하락하."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n3f9e9b97",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "24분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260817/134487117/1",
-    "title": "‘이혼 발표’ 고지용, 몰라보게 달라진 근황",
-    "summary": [
-      "최근 뒤늦게 이혼 사실을 알린 그룹 ‘젝스키스’(젝키) 출신 고지용이 건강을 회복한 근황을 전했다.고지용은 16일 자신의 소셜 미디어에 “상혁이와 홍규, 성욱이와 주말 점심”이라는 글과 함께 사진을 올렸다.사진 속 그는 그룹 ‘클릭비’ 김상혁을 비롯 홍규, 최성욱 등 동료들과 밝은 표정을 짓고 있다.앞서 건강 이상설을 불렀던 야윈 얼굴에서 벗어나 한층 편안해진 모습이다.고지용은 지난달 29일 가정의학과 전문의 허양임 씨와 약 2년 전 합의 이혼."
-    ],
-    "chips": [
-      "#의료"
     ]
   }
 ];
@@ -633,21 +639,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "뉴스",
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "부동산",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
