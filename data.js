@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-16 22:10:12
+// 마지막 업데이트: 2026-08-16 23:10:00
 window.NEWS_DB = [
   {
     "id": "n066dd761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
     "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
     "summary": [
@@ -19,12 +19,12 @@ window.NEWS_DB = [
   {
     "id": "n24495d23",
     "category": "IT",
-    "source": "chosun.com",
+    "source": "조선일보",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 chosun.com."
+      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 조선일보."
     ],
     "chips": [
       "#AI",
@@ -65,12 +65,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "businesspost.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -80,11 +80,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1058f97e",
+    "id": "ne2694309",
     "category": "스포츠",
     "source": "네이트",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tWEJfd1NNQUh3UUhBQVF2V3l6eS1NaTk3N19QLUNqUnJMV2RoZS1NbnJBa2pxRHlOSlZIZU1pYmQtRXhFcUJIOVlwVmRxNmRGcjFQbjc5Tk0zalhySFBfVVByZEtKTVg3?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
       "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
@@ -172,12 +172,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
     ],
     "chips": [
       "#취업",
@@ -229,12 +229,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "straightnews.co.kr",
+    "source": "스트레이트뉴스",
     "time": "61일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
     ],
     "chips": [
       "#금리"
@@ -300,24 +300,193 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "137일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "id": "n371f2981",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751192",
+    "title": "김시우, PGA PO 1차전 준우승…임성재·김주형과 함께 2차전 진출",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "[서울=뉴시스] 하근수 기자 = 김시우가 미국프로골프(PGA) 투어 플레이오프(PO) 1차전에서 준우승을 달성했다.",
+      "김시우는 17일(한국 시간) 미국 테네시주 멤피스의 TPC 사우스윈드(파70)에서 열린 PGA 투어 PO 1차전 페덱스 세인트주드 챔피언십(총상금 2000만 달러) 마지막 4라운드에서 보기 없이 버디 2개로 2언더파 68타를 쳤다.",
+      "최종 합계 9언더파 271타의 김시우는 공동 6위에서 4계단 뛰어 단독 2위를 차지했다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf23d4e80",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/list/article/all/20260817/134487304/1",
+    "title": "점술, 관상, 풍수에 파고든 AI",
+    "summary": [
+      "점술, 관상, 풍수에 파고든 AI."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n9d65c5fb",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260817/134487299/1",
+    "title": "“월 50억씩 벌다 반년 만에 65억 손실” 코스피 ETF에서 새 길 찾은 황준호 작가",
+    "summary": [
+      "“잃어도 되는 돈이 어디 있나.",
+      "주식투자에서는 어떻게 하면 적게 잃을지를 고민하는 게 중요하다.",
+      "50% 손실이 날 때까지 버티기보다 5%씩 손절하는 경험을 여러 번 해보는 편이 낫다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74febb0b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814146600052",
+    "title": "주민이 기획한 동네 피서…창원 '도계동 피서왔DAY' 22일 열려",
+    "summary": [
+      "(창원=연합뉴스) 박영민 기자 = 경남 창원종합사회복지관은 오는 22일 창원시 의창구 도계동 복지관 1층 마당에서 여름 축제 '2026 도계동 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2bc83e0a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814151500518",
+    "title": "[팩트체크] 국내엔 '진짜' 아이맥스관 없다?…'오디세이' 열풍이 불러온 논란",
+    "summary": [
+      "(서울=연합뉴스) 권혜진 기자 = 크리스토퍼 놀런 감독의 신작 영화 '오디세이'가 흥행 돌풍을 일으키면서 국내 관객들이 아이맥스(IMAX) 영화..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b97f77a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751186",
+    "title": "시리아 항공사, 18개월 만에 모스크바행 여객기 운항 재개",
+    "summary": [
+      "[다마스쿠스= 신화/뉴시스] 차미례 기자 = 시리아 국적항공사 시리아 에어라인이 16일(현지시간) 수도 다마스쿠스와 모스크바 사이의 직항편을 재개했다고 타스, 신화통신 등이 보도했다.",
+      "이 항공편이 중단된지 18개월여 만이다.",
+      "16일 오후 다마스쿠스 국제공항에서는 모스크바에서 날아온 시리아 항공 여객기 한 대가 무사히 착륙했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd8ede251",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814158500052",
+    "title": "음주 벌금형 두 달만에 또 만취사고 뒤 뺑소니 50대 징역형 집유",
+    "summary": [
+      "(창원=연합뉴스) 정종호 기자 = 음주운전으로 벌금 800만원이 확정된 지 두 달도 지나지 않은 상태에서 또 술을 마신 채 차를 몰다가 사람을 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbaec81ed",
+    "category": "스포츠",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814116500061",
+    "title": "민선8기 경기도 재정자립도 11.3%p '뚝'… 하락폭 전국 평균 2배",
+    "summary": [
+      "(수원=연합뉴스) 최찬흥 기자 = 민선9기 경기도가 재정난으로 7천700억원 규모의 감액추경을 예고한 가운데 민선8기 4년 동안 재정자립도와 재..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n41d0d5a9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260812_0003746909",
+    "title": "\"소나기부터 피하자?\" 전남광주 '본청 탈출 러시'…현안 차질 빚나",
+    "summary": [
+      "[전남광주=뉴시스]변재훈 기자 = 출범 첫 조직개편·인사를 앞두고 전남광주통합특별시 공직사회 내 '본청 탈출' 기류가 나타나고 있다.",
+      "사상 초유의 통합에 따른 중압감과 근무지 이동 불안감이 겹치면서, 직급을 막론하고 \"소나기부터 피하고 보자\"라는 심리가 확산해 주요 현안 추진에 차질이 우려된다.",
+      "17일 전남광주특별시에 따르면 시는 통합 출범 첫 조직개편안이 의회 의결을 거치는 대로 승진·전보 인사를 단행할 방침이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbfb725ab",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751062",
+    "title": "국내 야간노동 휴식 기준 미비…네덜란드는 '14시간' 보장",
+    "summary": [
+      "[서울=뉴시스] 고홍주 기자 = 최근 홈플러스 사태를 계기로 대형마트 규제 완화 논의가 다시 힘을 얻으면서 새벽배송 허용 방안도 재차 주목받고 있다.",
+      "다만 새벽배송 확대가 야간노동 증가로 이어질 수 있는 만큼, 노동자의 건강권을 보호하기 위해 야간노동을 어느 수준까지 허용하고 어떻게 규율할 것인지도 쟁점으로 떠오르고 있다.",
+      "17일 국회와 관계부처 등에 따르면 대형마트의 새벽배송 문턱을 낮추는 방안과 택배기사의 야간 배송 노동시간을 관리하는 방안."
+    ],
+    "chips": [
+      "#정책",
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n43cc4abb",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026081622251432537",
+    "title": "허채원 숨랩스 공동창업자 \"AI 영상 분야서 글로벌 기업과 경쟁할 것\"",
+    "summary": [
+      "인공지능(AI)으로 고품질의 영상을 계속 만드는 것은 타산이 맞지 않는 일이다.",
+      "원하는 형식 하나를 뽑기 위해 같은 프롬프트를 10~20번 반복 생성해야 하고, 영상 한 편에만 20만~30만 원의 비용이 들어가기 때문이다.",
+      "호기심으로 AI 영상 서비스를 써봤다가 비용 대비 효과가 낮아 이탈하는 이들이 부지기수다."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n0d64fe7f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/08/17/GMZTMODDGA2DONJXMZRTSMBTGQ/",
+    "title": "'엑스파일' 질리언 앤더슨, 동성 연애 고백 \"비밀스럽고 금기된 느낌\" [Oh!llywood]",
+    "summary": [
+      "[OSEN=최이정 기자] 드라마 '엑스파일', '더 크라운' 등으로 유명한 할리우드 배우 질리언 앤더슨(Gillian Anderson)이 학창 시절 동성과의 비밀스러운 연애 경험을 고백하며 연애관을 솔직하게 털어놨다.17일(현지시간) 데일리메일의 보도에 따르면 길리언 앤더슨은 최근 선데이 타임스와의 인터뷰에서 고등학교 시절 선배 언니와 만남을 가졌던 과거를."
+    ],
+    "chips": [
+      "#교육"
     ]
   },
   {
     "id": "n81ea8c23",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "23분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154376",
     "title": "[BIC 26] 부산 달군 인디게임 축제, 영예의 그랑프리는 '가비지 컨트리'",
     "summary": [
@@ -330,195 +499,44 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nce3b6fb4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "방금 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260817/134487133/1",
-    "title": "방미 김정관 “대미투자 막판 다양한 쟁점…美 압박 받은적 없어”",
-    "summary": [
-      "김정관 산업통상부 장관이 16일(현지 시간) 이르면 이달 말 첫 대미 투자 프로젝트를 발표한다는 목표를 유지하고 있다면서도 “(프로젝트 발표에 앞서) 막판이 되면서 실무적으로 다양하고 구체적인 쟁점들이 나오고 있다”고 밝혔다.",
-      "미국이 대미 투자 이행을 서두르지 않으면 한국에 대한 관세를 다시 높일 수 있다는 취지로 압박했다는 것과 관련해선 “저는 (그런 압박을) 받은 적이 없다”고 선을 그었다.김 장관은 이날 워싱턴 인근 덜레스 국제공항을 통해."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbd8af136",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260817/134487160/1",
-    "title": "[주간투자동향] 그래파이, 170억 원 규모 시리즈A 투자 유치 外",
-    "summary": [
-      "바야흐로 스타트업 시대입니다.",
-      "2010년부터 불어온 국내 스타트업 열풍은 꾸준히 거세졌고, 대한민국은 어느새 유니콘 기업 11개를 배출한 세계 5위 스타트업 강국으로 자리매김했습니다.",
-      "쿠팡, 우아한형제들, 야놀자, 블루홀 등 경쟁력을 갖춘 스타트업이 우리 실생활 속으로 파고들었고, 지금 이 순간에도 성공을 꿈꾸는 수많은 스타트업이 치열한 경쟁 속에서 도전하고 있습니다."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "naa94fdfa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814175900001",
-    "title": "\"폐업에도 환급 거부\"…6년간 산후조리원 피해 상담 2천건",
-    "summary": [
-      "(서울=연합뉴스) 이율립 기자 = 출산율 반등세 속에 산후조리원 이용 수요도 늘고 있지만 폐업을 하고도 계약금을 돌려주지 않는 조리원으로 인한 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f9fbc63",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026081415335151230",
-    "title": "\"보리 태웠더니 커피 같네?\"…가짜 커피 '오르조' [맛있는 이야기]",
-    "summary": [
-      "편집자주최초의 과자는 고대 메소포타미아 문명에서 발견됐다고 합니다.",
-      "과자는 인간 역사의 매 순간을 함께 해 온 셈이지요.",
-      "비스킷, 초콜릿, 아이스크림까지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9ccdc24d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817010900009",
-    "title": "美유권자 과반 \"트럼프 재집권 후 살림 악화\"…중간선거 경고등",
-    "summary": [
-      "(서울=연합뉴스) 고일환 기자 = 미국 유권자의 절반 이상이 도널드 트럼프 대통령 재집권 이후 경제적으로 더 어려워졌다고 느끼는 것으로 나타났다..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne50e24b1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/GU4DKMLDME2DKYZQMZRWEOJYGY/",
-    "title": "임라라, ‘폭풍 성장’ 쌍둥이에 오열..“너무 빨리 커, 속상해” (엔조이커플)",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] 임라라가 폭풍 성장한 쌍둥이에 아쉬움을 눈물을 흘렸다.",
-      "16일 유튜브 채널 ‘엔조이커플’에는 ‘드디어 첫니! 인생 첫 치아가 생긴 왕만두!!’라는 제목의 영상이 게재됐다.영상에는 어느새 강이가 기어가는 모습이 포착됐다.",
-      "이를 본 임라라는 “갑자기 이틀 만에 이렇게”라며 “아기들의 발전은 너무 놀."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36c827f5",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817010500051",
-    "title": "최대 270㎜ 비 쏟아진 부산서 밤새 주택 침수 등 피해 잇따라",
-    "summary": [
-      "(부산=연합뉴스) 김재홍 기자 = 밤새 강풍을 동반한 많은 비가 내린 부산지역에 주택 침수 등 피해가 잇따랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf9ba5fa1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814088100064",
-    "title": "폐기음식 가져갔다가 법정 선 편의점 알바생…법원 선처",
-    "summary": [
-      "(충주=연합뉴스) 천경환 기자 = 유통기한이 지난 폐기 음식을 허락 없이 가져갔다가 절도 혐의로 재판에 넘겨진 20대 편의점 아르바이트생에게 법..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc2fd3efa",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026081707015172831",
-    "title": "김시우 준우승…셰플러, 시즌 2승·통산 21승 환호",
-    "summary": [
-      "김시우가 올해 세 번째 준우승을 차지했다.",
-      "그는 17일(한국시간) 미국 테네시주 멤피스의 TPC 사우스윈드(파70)에서 열린 미국프로골프(PGA) 투어 2026시즌 플레이오프(PO) 1차전 페덱스 세인트 주드 챔피언십(총상금 2000만달러) 4라운드에서 보기 없이 버디만 2개를 낚았다.",
-      "2언더파 68타를 친 김시우는 전날 공동 6위에서 2위(9언더파 271타)까지 도약했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3ec5e298",
+    "id": "nd5db3630",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816015900030",
-    "title": "\"한 줄 4천원 육박\"…쌀·계란값 상승에 김밥 가격도 부담",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814137400003",
+    "title": "OLED, RGB 미니 LED에 판정승…초고휘도 스펙도 못넘은 '화질'",
     "summary": [
-      "(서울=연합뉴스) 정수연 기자 = 쌀, 계란, 김 등 핵심 재료 가격이 오르면서 김밥 가격이 주요 외식 품목 가운데 가장 빠른 속도로 상승하고 ..."
+      "(서울=연합뉴스) 강태우 기자 = 글로벌 프리미엄 TV 시장을 둘러싼 디스플레이 기술 경쟁에서 유기발광다이오드(OLED)가 초고휘도를 앞세운 적..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndffda70a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/17/XQ6IGASXDRHGBAJEMNKCPPC76A/",
-    "title": "[그 영화 어때] 오스카도 안 부럽다, 관객이 동전 던져 뽑아주는 땡그랑동전상의 열기",
-    "summary": [
-      "[그 영화 어때] 오스카도 안 부럽다, 관객이 동전 던져 뽑아주는 땡그랑동전상의 열기."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nce1cd523",
+    "id": "n939260d4",
     "category": "부동산",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026081707012968585",
-    "title": "\"8·3 세제개편안, 내 세금은?\"…강남구, 부동산 세금 설명회",
+    "source": "동아일보",
+    "time": "25분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260817/134487209/1",
+    "title": "거제 나흘간 782.5㎜ ‘물폭탄’…주택 침수·주민 100여명 대피",
     "summary": [
-      "서울 강남구(구청장 김현기)가 올 9월 18일 오후 2시부터 6시까지 강남구민회관 2층 대강당에서 ‘부동산 세금 구민 설명회’를 연다.이번 설명회는 최근 발표된 정부의 ‘8·3 부동산 세제개편안’에 대한 구민들의 궁금증을 해소하고, 양도소득세와 종합부동산세 등 부동산 세금에 대한 합리적인 대응 전략을 안내하기 위해 마련됐다.",
-      "설명회에는 강남구민 500명이 참여할 수 있다.",
-      "강사로는 국세청과 기획재정부 세제실 재산세제."
+      "경남 거제·통영 등 남해안 지역에 많은 비가 내리면서 곳곳에서 주택과 도로가 침수되고, 주민 100여명이 일시 대피하는 등 피해가 잇따랐다.17일 행정안전부 중앙재난안전대책본부(중대본)에 따르면 이날 오전 6시 기준 집중호우로 인한 피해 신고는 주택·도로 침수, 수목 전도 등 총 603건이다.시설별로는 도로 장애 332건, 주택 침수 208건, 수목 전도 등 33건, 토사·낙석 30건 등이다.",
+      "지역별로는 경남이 555건으로 가장 많고, 부산 2."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
     ]
   },
   {
-    "id": "n2b8b0ba4",
+    "id": "ncdf5b5ed",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260813_0003748110",
-    "title": "\"한국형 헬스테크 협력 플랫폼\"…내달 첫 행사",
+    "source": "아시아경제",
+    "time": "31분 전",
+    "url": "https://view.asiae.co.kr/article/2026081707382000332",
+    "title": "금천구, 취약계층 아동 치과치료비 지원…최대 250만원",
     "summary": [
-      "[서울=뉴시스]송종호 기자 = 임상 현장에서 환자를 만나는 의료진을 비롯해 연구자, 기술기업, 투자자, 정부·지원기관, 병원 관계자 등이 한자리에 모여 의료 기술이 실제 현장으로 이어지기 위한 논의의 장이 마련된다.",
-      "17일 학교법인일송학원에 따르면 의료 기술 사업화 콘퍼런스 'MEeT 2026'이 내달 10일 서울 코엑스 더 플라츠에서 처음 개최된다.",
-      "이번 콘퍼런스는 학교법인일송학원·한국컨벤션전시산업연구원·이즈피엠피가 주최하고 한국투자파트너스·."
+      "서울 금천구(구청장 최기찬)가 경제적 부담으로 치과 진료를 미루는 취약계층 아동을 위해 구강검진부터 치료까지 지원하는 '2026년 아동 치과치료 지원사업'을 추진한다고 17일 밝혔다.이번 사업은 금천구보건소와 지역아동센터 등 아동복지·돌봄기관, 지역 치과의료기관이 협력해 취약계층 아동의 구강질환을 조기에 발견하고 치료까지 연계하는 방식으로 운영된다.",
+      "구강검진과 구강보건교육, 예방진료부터 치과치료까지 단계별."
     ],
     "chips": [
       "#교육",
@@ -526,111 +544,91 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb356308d",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814066000063",
-    "title": "\"동 이름 둔산으로 바꿀래요\" 왜…재건축사업 아파트 값 상승효과?",
+    "id": "ncae15afb",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "38분 전",
+    "url": "https://view.asiae.co.kr/article/2026081707314896804",
+    "title": "서울 중구, 중대재해·산업안전 통합관리시스템 '내편안전' 구축",
     "summary": [
-      "(대전=연합뉴스) 박주영 기자 = 정부의 재건축 사업이 추진 중인 대전 서구 둔산동의 아파트값이 연일 상승세를 보이면서 이웃한 지역에서 행정동 ..."
+      "서울 중구(구청장 김길성)가 중대재해와 산업안전 업무를 한곳에서 관리하는 통합관리시스템 ‘내편안전’을 전국 최초로 구축했다고 17일 밝혔다.",
+      "‘중대재해처벌법’과 ‘산업안전보건법’에 따른 법정 의무사항은 물론 위험성평가와 점검이력까지 손쉽게 확인할 수 있어 담당자의 업무 부담을 줄이고 안전관리의 효율성을 높일 것으로 기대된다.‘내편안전’은 사업별 의무사항, 법령 통합검색, 중대재해 의무사항 점검, 위험성."
     ],
     "chips": [
-      "#부동산",
-      "#재건축"
+      "#의료"
     ]
   },
   {
-    "id": "nf955b4dd",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816046200003",
-    "title": "국내 리츠시장 규모 120조원 돌파…10년간 100조원대 성장",
+    "id": "nc7466583",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "41분 전",
+    "url": "https://view.asiae.co.kr/article/2026081415502648144",
+    "title": "\"아침마다 줄 서요\" 출근길마다 직장인 우르르 몰리더니…돌연 돌변한 이유[지금사는방식]",
     "summary": [
-      "(서울=연합뉴스) 임기창 기자 = 국내 리츠(REITs·부동산투자회사) 시장 규모가 10년간 100조원가량 성장해 올해 120조원을 넘어섰다."
+      "편집자주요즘 사람들은 무엇을 살까요.",
+      "다이소에서 꼭 집어오는 생활용품부터 올리브영에서 품절을 부르는 화장품, 줄 서서 사는 빵까지.",
+      "익숙한 소비 장면 속에는 지금의 시장 흐름이 고스란히 담겨 있습니다."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb55ecac3",
+    "id": "n59716edb",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "43분 전",
+    "url": "https://www.hankyung.com/article/2026081745627",
+    "title": "방미 김정관 \"대미투자 막판 다양한 쟁점 나와\"",
+    "summary": [
+      "방미 김정관 \"대미투자 막판 다양한 쟁점 나와\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a6e26e9",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "49분 전",
+    "url": "https://www.hankyung.com/article/2026081745597",
+    "title": "[속보] 거제 옥포동에서 산사태, 2명 구조…추가 수색 중",
+    "summary": [
+      "[속보] 거제 옥포동에서 산사태, 2명 구조…추가 수색 중."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n078ef637",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "50분 전",
+    "url": "https://www.hankyung.com/article/2026081745537",
+    "title": "트럼프 \"한미연합훈련 대폭 축소 지시…김정은과 좋은 관계\"",
+    "summary": [
+      "트럼프 \"한미연합훈련 대폭 축소 지시…김정은과 좋은 관계\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0960fab5",
     "category": "사회",
     "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260817/134487143/1",
-    "title": "“실컷 놀다왔는데 여긴 왜 아프지”…‘휴가 후유증’ 주의보",
+    "time": "50분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260817/134487135/1",
+    "title": "트럼프 “한미연합훈련 대폭 축소하라…김정은과 매우 좋은 관계”",
     "summary": [
-      "신나게 물놀이하고 돌아왔는데 눈은 충혈되고, 귀는 간질간질하다.",
-      "여기에 휴가 내내 쌓인 피로가 채 가시기도 전에 일상으로 복귀하면서 목·허리·무릎까지 쑤시기 시작한다.",
-      "즐거웠던 휴가가 끝난 뒤 오히려 몸 곳곳에서 ‘후유증’이 나타나는 경우다.물놀이 후 눈 충혈·이물감…바이러스 결막염 주의바이러스 결막염은 여름철 물놀이와 휴가지에서 주의해야 할 감염성 질환이다.유행성 각결막염은 아데노바이러스 감염으로 발생하며 오염된 물이나 감염자와의 접촉을 통해."
+      "도널드 트럼프 미국 대통령이 16일(현지 시간) 한미 연합 군사훈련을 “대폭 축소하라”고 피트 헤그세스 전쟁부(국방부) 장관에게 지시했다고 밝혔다.",
+      "또 김정은 북한 국무위원장과는 “매우 좋은 관계를 맺고 있다”며 한미 연합훈련이 북한에 “적대적인 신호”를 보내고 있다고 주장했다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc852f9fd",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751091",
-    "title": "런던 일상 파고든 K-푸드…FTA 타고 라면·만두·핫도그까지[FTA 시대, 수출은 시스템이다④]",
-    "summary": [
-      "[런던=뉴시스]박광온 기자 = \"한 번 먹어보고 완전히 빠졌어요.",
-      "요즘은 친구들이랑 만나면 한국 음식부터 찾게 돼요.\" 뉴시스가 영국 런던에서 만난 캐서린(18)은 한국식 핫도그를 한입 크게 베어 문 뒤 웃으며 한국 음식에 대해 이같이 말했다.",
-      "런던 중심가 레스터스퀘어 인근의 한국식 길거리음식 매장 'Bunsik 분식'에는 떡볶이와 핫도그, 김밥 등을 찾는 소비자들의 발길이 이어졌다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nacaf4aee",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751159",
-    "title": "물가 낮춘다던 AI, 올해는 거꾸로 밀어올린다…최대 0.4%p 계산 나왔다",
-    "summary": [
-      "[서울=뉴시스]박영환 기자 = 생산성을 높여 물가를 낮출 것으로 기대됐던 인공지능(AI)이 올해 미국에서는 단기 물가 압력을 키우고 있다는 분석이 나왔다.",
-      "캐나다계 투자은행 CIBC 캐피털마켓은 AI 붐이 올해 미국의 연간 개인소비지출(PCE) 물가상승률을 최대 0.4%포인트 높일 수 있다고 추산했다.",
-      "미국 경제매체 마켓워치는 15일(현지 시간) 알파벳·메타·아마존·마이크로소프트 등 빅테크가 AI 개발과 데이터센터 건설에 경쟁적으로 돈을 쏟아부."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n7db10b61",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749040",
-    "title": "\"금요일 오전에 가라\" 신세계사이먼이 공개한 아웃렛 '득템공식'",
-    "summary": [
-      "[서울=뉴시스]동효정 기자 = 최근 유튜브와 인스타그램 등 SNS에서 프리미엄 아울렛 쇼핑 콘텐츠가 잇따라 인기를 끌고 있다.",
-      "단순히 할인 상품을 소개하는 것을 넘어 방문 시점과 매장 공략법, 할인 혜택 등을 알려주는 콘텐츠가 주목받는 모습이다.",
-      "배우 선우용여의 유튜브 채널 순풍 선우용여에 공개된 파주·여주 프리미엄 아울렛 쇼핑 영상은 각각 162만회, 124만회의 조회수를 기록하며 누적 약 290만회(8월10일 기준) 조회됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf89271a2",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260817/134487136/1",
-    "title": "“이제 다시 금 사야 하나”…금값 한 달 만에 11% 반등",
-    "summary": [
-      "지지부진하던 금 가격이 최근 미국 연방준비제도(Fed·연준)의 긴축 우려가 완화되면서 긴 조정을 마치고 반등세를 보이고 있다.",
-      "투자자들은 물론 각국의 중앙은행까지 저가 매수에 나서면서 증권가에선 금 가격이 상승 국면에 진입했다고 평가한다.17일 금융투자업계에 따르면 지난 14일 기준 12월물 금 선물 가격은 온스당 4432달러에 장을 마감했다.금 선물 가격은 지난 1월 29일 종가 기준 사상 최고치인 5354.8달러까지 치솟은 뒤 꾸준히 하락하."
-    ],
-    "chips": [
-      "#뉴스"
+      "#정치"
     ]
   }
 ];
@@ -640,20 +638,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
