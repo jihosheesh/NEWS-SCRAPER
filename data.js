@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-16 11:10:31
+// 마지막 업데이트: 2026-08-16 12:17:28
 window.NEWS_DB = [
   {
     "id": "n066dd761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
     "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n63a2b5bf",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUmVxdzBvejhrMTFkMkh4ZWpVZFJvODlDeVh1elNJcDUyRlN5dEp0NUtMWHB2QzlMZ2tnZTkydFZzUWJiaHh3MTIxNzJmcUZSR2EySE9RaGpTT3FsY3JscGxDNnhMTzRHOXc?oc=5",
     "title": "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패권 향방은?",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n4fe94c66",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00d1YxR3VpblkyZHZHOG9BbDQwRVA2MWpWWFhrSzFDX3FuNExFYUZFLTZGT2kxenMzTE9TMnM0SnJzZ285R08yYmwyR0tPaTJrRm9nVExWZmFfU0XSAWBBVV95cUxOcVZtWUd1dGVKekZReUdkbi1tMkh3dXhBUGtZdHlfUXZYUHU2TkJFS1JWVGZHOUtfRlRJZHAybG9OdXFBVWUzY05qbGh1U0xPXzAyN2dPUjl4TG03VW5ZMmc?oc=5",
     "title": "엔비디아, 30조원어치 스페이스X 지분 보유…'순환거래' 우려",
     "summary": [
@@ -49,12 +49,12 @@ window.NEWS_DB = [
   {
     "id": "n9763e68e",
     "category": "사회",
-    "source": "투데이경제",
-    "time": "1일 전",
+    "source": "tookyung.com",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZVV0SG5SS2kwVUNpWjN4X19kU2JxOTFqY293UVVaUTc4UkxKLWVOMTFBS21XY1dTejB4YlVQY3RvV0d5SGZjNU1fVUxZVjQwcXFHZFk5MVBSdjNZZFJkc2tPZVlIOHdLSldv?oc=5",
     "title": "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용",
     "summary": [
-      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 투데이경제."
+      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 tookyung.com."
     ],
     "chips": [
       "#채용",
@@ -80,12 +80,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "businesspost.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -127,12 +127,12 @@ window.NEWS_DB = [
   {
     "id": "n5ee6ae18",
     "category": "사회",
-    "source": "아웃소싱타임스",
+    "source": "outsourcing.co.kr",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
-      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
+      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ outsourcing.co.kr."
     ],
     "chips": [
       "#취업",
@@ -198,20 +198,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n56609ab4",
-    "category": "IT",
-    "source": "스타트업엔(StartupN)",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
-    "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
-    "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n1a764c5a",
     "category": "부동산",
     "source": "뉴스핌",
@@ -240,20 +226,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n252753ca",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "63일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWSXM4dUswTlRBOFdwTWM1SzFqWHRkU3R3SzVNOGR0QnR5RzllZ2QzZXFHNWlGMko3bFJ1SHlJS2VINElKZndpbnVQSlFfWGRrUk5DYXFqc3ZhYXJFUHNCNFJSOERyMWVuLWZDNA?oc=5",
-    "title": "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도",
-    "summary": [
-      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
@@ -271,12 +243,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "79일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -299,6 +271,34 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbc27bc5a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "172일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
+    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
+    "summary": [
+      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "174일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n08606dae",
     "category": "IT",
     "source": "테크M",
@@ -315,323 +315,320 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n65f22312",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816043800527",
-    "title": "남해 먼바다에 풍랑주의보 해제",
-    "summary": [
-      "(제주=연합뉴스) 기상청은 남해서부동쪽먼바다에 내렸던 풍랑주의보를 16일 오후 10시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4fcc4288",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816043700527",
-    "title": "전남 거문도·초도에 강풍주의보 해제",
-    "summary": [
-      "(광주=연합뉴스) 기상청은 거문도·초도에 내렸던 강풍주의보를 16일 오후 8시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc979e3c",
+    "id": "n95864191",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751101",
-    "title": "전남 해남 서북서쪽 20㎞서 규모 2.4 지진…\"피해 없을 것\"",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751120",
+    "title": "故 정주영 회장 25주기…범현대가 '총집결'[뉴시스Pic]",
     "summary": [
-      "[서울=뉴시스]최은수 기자 = 16일 오후 7시34분11초께 전남광주 해남군 서북서쪽 20㎞ 지역에서 규모 2.4 지진이 발생했다.",
-      "기상청에 따르면 지진 발생 위치는 북위 34.66도, 동경 126.41도다.",
-      "지진계에 기록된 최대진도는 Ⅱ(2)이다."
+      "[서울=뉴시스]고승민 조성우 김민성 기자 = 고 정주영 현대그룹 명예회장의 25주기를 앞두고 범현대 일가가 서울 종로구 청운동 옛 자택에 모여 제사를 지냈다.",
+      "제사는 정 명예회장의 기일인 3월 21일 하루 전인 20일 오후에 열렸다.",
+      "범현대가가 청운동 자택에 모인 것은 지난해 8월 고 변중석 여사의 18주기 제사 이후 약 7개월 만이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n29344971",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816035000004",
-    "title": "[날씨] 대체공휴일 곳곳 비·소나기…수도권 등 체감 33도 무더위도",
-    "summary": [
-      "(서울=연합뉴스) 윤민혁 기자 = 광복절 대체공휴일이자 월요일인 17일은 오전까지 전국 대부분 지역에 비가 내리겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfd192a6f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751099",
-    "title": "가습기살균제 피해자단체…광화문 빈소 두고 서울시와 대치(종합)",
-    "summary": [
-      "[서울=뉴시스]최은수 기자 = 가습기살균제 피해자단체가 고(故) 서영철 전국가습기살균제참사피해자연대 대표의 광화문광장 빈소 설치를 두고 서울시 측과 수시간 대치했다.",
-      "16일 뉴시스 취재를 종합하면 전국가습기살균제참사피해자연대는 이날 오전 11시부터 서울 종로구 광화문광장에서 빈소용 천막과 테이블 설치를 두고 서울시 측과 대치했다.",
-      "단체는 비가 내리자 광장에 놓인 서 대표의 영정사진과 관 등을 보호하기 위해 비가림용 천막을 설치하려 했으나 서울시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncd1f9d75",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003750918",
-    "title": "주 5일 운동·식단 관리해도 계속 살찐 英 여성…알고 보니 '림프부종'",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 건강한 식단을 유지하고 꾸준히 운동했는데도 체중이 계속 늘어난 영국 여성이 뒤늦게 림프부종과 지방부종을 진단받았다는 소식이 전해졌다.",
-      "지난 13일(현지시간) 영국 미러는 켄트주에 거주하는 여성 애비게일 배리(52)의 사연을 보도했다.",
-      "배리는 18세 무렵부터 체중 문제를 겪었고, 저지방·고섬유질 식단을 유지해도 감량에 어려움을 겪었다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n59192ae2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260816/134485881/1",
-    "title": "“패잔병 1만명 죽였다”…일본군 병사 편지로 본 中 난징대학살",
-    "summary": [
-      "중국 난징대학살 당시 일본군이 남긴 집단 학살 기록이 일본의 제2차 세계대전 패전 81주년을 맞은 15일 공개됐다.",
-      "중일 전쟁이 한창이던 1937년 12월 중국 국민당의 수도 난징을 점령한 일본군은 중국군을 수색한다는 명목으로 시민들을 대거 학살했다.",
-      "중국에서는 30만 명 이상이 희생된 것으로 보고 있다.중국 관영 신화통신 등에 따르면 난징대학살 희생동포 기념관은 15일 사료 기증 행사를 열고 올 상반기(1~6월) 수집한 사료 150여 점, 문."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n83b57e43",
-    "category": "사회",
+    "id": "ne9cba8b0",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/opinion/manmulsang/2026/08/16/BQTGMQXLBJDEVJV2TBH6TBJEOE/",
-    "title": "[만물상] 웨스트포인트와 6·25",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/16/MJQTEZTGGFRDEZJZGVRDSMZXHE/",
+    "title": "박해민-오스틴도 못깬 퍼펙트 굴욕 깼다! 주인공은 신민재…SSG 아빌라 상대로 안타 [잠실현장]",
     "summary": [
-      "[만물상] 웨스트포인트와 6·25."
+      "[잠실=스포츠조선 김영록 기자] LG 트윈스가 뜻하지 않게 마주친 퍼펙트게임의 압박에서 가까스로 탈출했다.",
+      "LG는 16일 잠실구장에서 SSG 랜더스와의 시즌 13차전을 치르고 있다.",
+      "LG 카라스코와 SSG 아빌라, 양팀 최고의 투수 카드가 1선발다운 치열한 투수전을 펼치고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb5f94a35",
+    "id": "n193a642d",
     "category": "경제",
     "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026081619470283039",
-    "title": "\"패잔병 1만여명 죽였다\"…난징 함락 일주일 뒤 日병사가 쓴 편지",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026081621122116404",
+    "title": "김영호, 전당대회 최고위원 물러나…\"대의원, 김용에 표 모아달라\"",
     "summary": [
-      "중국이 일본의 패전 81주년을 맞아 난징대학살 기록물을 추가로 공개했다.",
-      "16일 관영 신화통신은 난징대학살 희생동포 기념관이 중국을 침략한 일본군 병사의 친필 편지 등을 공개하는 사료 기증 행사를 전날 개최했다고 보도했다.",
-      "이번에 공개된 기록물은 일본군 제16사단 병사 이시카와 모리타가 1937~1939년에 쓴 서신 모음과 일본군 제114사단 병사 미쓰이 시게마사가 일본으로 보낸 엽서 등이다."
+      "김영호 더불어민주당 최고위원 후보는 16일 후보에서 사퇴했다.",
+      "김영호 후보는 김용 최고위원 후보 지지를 선언했다.",
+      "김영호 후보는 이날 사회관계망서비스(SNS)를 통해 \"지금 이 시간부로 최고위원 후보직을 사퇴하고 김용 후보를 지지한다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf9a2e586",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/16/MIZDMYZZMY3GCZDGGA3TEOLCHA/",
+    "title": "'아스널, 하늘이 돕는다' 프랑스 국대 센터백 살리바 2개월 빨리 복귀 가능 전망, 허리 수술 후 회복 결장 공백 최대 5개월→3개월로 줄었다",
+    "summary": [
+      "[스포츠조선 노주환 기자]EPL 아스널 팬들에겐 좋은 소식이 될 수 있다.",
+      "프랑스 국가대표 수비수 윌리엄 살리바(아스널)가 예상 보다 빨리 팀 전력에 복귀할 수 있다는 전망이 나왔다.",
+      "북중미월드컵 기간 중 허리를 다쳤던 살리바는 당초 최대 5개월 정도 결장이 불가피해보였다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "nfeda81bf",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260816/134486547/1",
+    "title": "여자 대표팀 이어 남자 대표팀도 연패…한국 농구, 한일전 4전 전패",
+    "summary": [
+      "‘마줄스호’ 한국 남자 농구 국가대표팀이 제81주년 광복절에 치러진 숙명의 한일전에서 완패를 당한 데 이어, 이튿날 진행된 두 번째 맞대결에서도 무릎을 꿇었다.니콜라이스 마줄스(라트비아) 감독이 이끄는 농구 대표팀은 16일 오후 일본 도쿄의 아리아케 아레나에서 열린 일본과의 2026 남자 농구 국가대표 평가전 두 번째 경기에서 66-95로 패배했다.전날 68-88로 졌던 한국은 이날도 완패를 당했다.20점 차가 역대 한일전 최다 점수 차 패배였."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0bfffe8c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/08/16/GI3TQNTBHE4GIMTGGE2GKNRUGQ/",
+    "title": "S.E.S 바다, 코르티스 마틴과 챌린지 성공···마틴 붐은 온다",
+    "summary": [
+      "[OSEN=오세진 기자] S.E.S 바다가 리메이크 '러브 웨이브'를 발표하면서 코르티스의 마틴과 함께 챌린지에 성공했다.15일 바다는 자신의 소셜 계정에 'Happy weeken'라고 적은 영상들을 올렸다.",
+      "에펠탑의 정경이 보이는 곳에서 바다는 높게 틀어 묶은 머리카락에 한복을 검정 드레스 느낌으로 표현해 올 블랙 패션으로 90년대가 생각 나는 발랄하고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe661a20",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "9분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/16/2026081620400851230",
+    "title": "\"매일 2천~3천명 죽여\" 中난징대학살 새 기록…위안부 피해 박차순씨 자료도 공개",
+    "summary": [
+      "난징대학살 당시 일본군의 집단 학살과 중국 내 화학전 정황을 뒷받침하는 새로운 사료가 공개됐다.",
+      "중국에 거주한 한국계 일본군 위안부 피해자인 고(故) 박차순(1923~2017·중국명 마오인메이) 할머니의 생전 모습을 2년간 기록한 사진과 영상도 함께 공개됐다.",
+      "16일(현지 시간) 신화통신 등에 따르면 제2차 세계대전 당시 일본의 항복 81주년을 맞아 일본군의 전쟁 범죄와 위안부 피해자들의 삶을 기록한 새로운 역사 자료들이 '난징 대학살 희생자."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nd08b3301",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260816/134486140/1",
-    "title": "한국 여자배구, 홍콩 3-0 완파하고 동아시아선수권 3위",
+    "id": "n8ddd9dfb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751116",
+    "title": "[올댓차이나] 中 7월 은행대출 71.5조원 순감소…차입 수요 부진",
     "summary": [
-      "한국 여자배구 대표팀(세계랭킹 27위)이 2026 동아시아선수권대회를 3위로 마감했다.차상현 감독이 이끄는 한국은 16일 홍콩 퀸 엘리자베스 스타디움에서 치러진 개최국 홍콩(115위)과의 대회 3위 결정전에서 세트 점수 3-0(25-13 30-28 25-13)으로 승리했다.한국은 조별리그에서 몽골, 홍콩을 꺾고 A조 1위로 준결승에 진출했다.하지만 일본에 0-3으로 완파해 결승 진출이 좌절됐다.이후 3위 결정전으로 밀려난 한국은 홍콩을 누르고."
+      "[서울=뉴시스]이재준 기자 = 중국 신규 위안화 대출이 7월에 가계와 기업의 대출 수요가 약해진 가운데 계절적 요인까지 겹치면서 사상 최대폭으로 순감소했다.",
+      "경제통과 나우재경, 홍콩경제일보, 공상시보는 16일중국인민은행은 최신 금융통계를 인용해 7월 한달 동안 은행권 위안화 대출이 신규 대출보다 상환액이 많으면서 3400억 위안(약 71조5054억원) 줄었다고 전했다.",
+      "월간 신규 대출이 순감소한 건 올해 들어 4월에 이어 두 번째다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc8d06cd5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/16/GY2DOZTBHEZTAMBSG43GMNDBMM/",
-    "title": "\"영화의 한 장면 같습니다\"…김무열, 코치도 감탄한 ‘압도적 피지컬’ ('승아로운')",
+    "id": "n033c9708",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816045800001",
+    "title": "[속보] 김영호, 與최고위원 후보 사퇴…\"김용 후보 지지\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc9b5deb",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/16/2026081621043518238",
+    "title": "[속보]임미애 이어 김영호도 후보 사퇴…\"김용 후보에 표 모아달라\"",
     "summary": [
-      "[OSEN=박근희 기자] 배우 김무열이 감탄을 자아내는 압도적인 피지컬과 완벽한 운동 실력을 뽐냈다.16일 오후 유튜브 채널 ‘승아로운’에는 ‘무열로운, 그가 돌아왔다’라는 제목의 영상이 게재됐다.김무열의 열정 넘치는 운동 일상이 공개돼 이목을 끌었다.",
-      "영상 속 김무열은 장갑을 끼고 진지하게 복싱에 임하며 탄탄한 근육질 몸과 남다른 피지컬을 자랑했다.이를."
+      "[the300] 김영호 더불어민주당 최고위원 후보 SNS(소셜미디어)...."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nefa87d54",
+    "id": "nab0ed1d9",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026081621053412641",
+    "title": "임미애, 최고위원 후보 전격 사퇴…\"대의원, 김용 반드시 선택해달라\"",
+    "summary": [
+      "임미애 더불어민주당 최고위원 후보는 16일 김용 후보 지지를 호소하며, 후보에서 전격 사퇴했다.",
+      "임 후보는 이날 사회관계망서비스(SNS)를 통해 \"이재명 정부를 든든히 뒷받침할 지도부를 만들어 달라\"며 \"최고위원 후보에서 사퇴한다\"고 알렸다.",
+      "현재 8명 후보 가운데 7위인 임 후보는 후보에서 사퇴해 앞으로 남은 대의원 투표 등에서 김용 후보 등에 전략적인 투표가 이뤄질 것을 당부했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n594d4ef2",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751112",
+    "title": "김민석, 호남·수도권 연승으로 누적 득표율 49.91%로 1위…정청래에 8.40%p 앞서(종합2보)",
+    "summary": [
+      "[서울·수원·고양=뉴시스] 김난영 한재혁 김윤영 기자 = 더불어민주당 권역별 순회경선 마지막이자 최대 승부처인 서울·경기에서 김민석 후보가 정청래 후보에게 0.38%p 차이로 신승했다.",
+      "김 후보가 누적 기준으로 선두를 유지하며 권역별 권리당원 투표를 마쳤다.",
+      "김 후보는 누적 득표율 49.91%로 과반에는 미치지 못했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7c6439d",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/16/2026081616370755674",
+    "title": "'19세 유망주 참변' 경기 중 일반 차량과 충돌... 그런데 운전자만 탓할 수는 없었다",
+    "summary": [
+      "영국의 19세 사이클 유망주가 대회 도중 일반 차량과 충돌해 숨지는 비극이 발생했다.",
+      "로이터통신은 15일(한국시간) \"영국 사이클 선수 핀리 탈링이 포르투갈 일주도로사이클대회 8구간 경기 도중 발생한 사고로 사망했다\"고 전했다.",
+      "이어 \"19세 웨일스 출신의 탈링은 타임트라이얼 전문 선수였다\"며 \"지난해 NSN 디벨롭먼트 팀에 합류한 유망주였다\"고 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n509386b2",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816039851001",
-    "title": "김민석, 수도권 경선 鄭에 0.38%p차 박빙 승리…누적득표 49.91%(종합)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816000851082",
+    "title": "홍상수 '눈 둘 데가 없네' 로카르노영화제 감독상(종합)",
     "summary": [
-      "(수원·서울=연합뉴스) 김남권 박재하 최주성 기자 = 더불어민주당 김민석 후보가 16일 당 대표 선출을 위한 서울·경기 순회 경선 당원 투표에서..."
+      "(베를린=연합뉴스) 김계연 특파원 = 홍상수 감독과 배우 김민희가 신작 '눈 둘 데가 없네'로 스위스에서 열린 제79회 로카르노영화제에서 나란히..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n21b5f6a2",
-    "category": "스포츠",
+    "id": "ndf2ca985",
+    "category": "경제",
     "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026081619472587926",
-    "title": "김민석, 경기·서울까지 잡고 1위 유지…정청래 보다 8.4%p 앞서(종합2보)",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026081414505374212",
+    "title": "미노이, 정규 3집곡 'X killed' 선공개…입체적 서사 완성",
     "summary": [
-      "호남에서 대승을 거뒀던 김민석 더불어민주당 당대표 후보가 수도권에서도 근소하게 승리해 1위를 유지했다.",
-      "다만 과반 득표에는 이르지 못했다.",
-      "16일 민주당 중앙당선거관리위원회에 따르면 발표된 경기·서울 권리당원 투표까지 합산한 누적 득표결과(전략지역 가중치 미적용) 김민석 후보는 49.91%로 1위를 확정했다."
+      "가수 미노이가 16일 주요 온라인 음원 사이트를 통해 정규 3집 '루시드 넘버 투(LUCID NO.2)'의 수록곡 '엑스 킬드(X killed)'를 선공개했다.",
+      "이번 신곡은 곧 발매될 정규 앨범에 앞서 미노이의 새로운 음악적 방향성과 한층 짙어진 감정선을 엿볼 수 있는 곡이다.",
+      "미노이는 신곡 'X killed'에서 내면의 복잡한 감정들을 자신만의 언어와 음악적 질감으로 풀어내며, 이전보다 깊어진 내면의 이야기를 대중에게 건넨다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc1f6cd7b",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816045600007",
+    "title": "[농구대표팀 평가전 전적] 한국 66-95 일본",
+    "summary": [
+      "[농구대표팀 평가전 전적] 한국 66-95 일본."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3a7bc3db",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260816/134484546/1",
+    "title": "트럼프 “2차대전 항모처럼” 발언에… 포드급 항모 지휘탑 설계 변경 검토",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 제2차 세계대전 당시 항공모함과 비슷한 외관을 선호한다는 이유로 미 해군이 최신 포드급 항모의 지휘탑 위치를 바꾸는 대규모 설계 변경을 검토하고 있다고 워싱턴포스트(WP)가 15일 보도했다.",
+      "또 트럼프 대통령은 포드급 항모의 핵심 기술 중 하나인 전자기식 항공기 사출 장치(EMALS)도 과거 증기식으로 되돌리는 방안을 마련하라고 지시한 것으로 알려졌다.",
+      "사출 장치는 항공기가 이륙할 수 있도록 빠른 속도로 밀어주는 장."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nd0b6fb36",
+    "id": "n83b1f711",
     "category": "사회",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260816/134486131/1",
-    "title": "母 사망보험금 미끼로 1억 넘게 빌린 여친…데프콘 “늪에 빠졌다”",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816016352052",
+    "title": "경남 최대 125.5㎜ 장대비…가뭄 숨통 속 비 피해 잇따라(종합2보)",
     "summary": [
-      "어머니의 사망 보험금을 미끼로 만난 지 두 달 만에 남자친구에게 약 1억2000만원의 거액을 빌린 여자친구의 수상한 행방을 추적한다.17일 방송되는 채널A ‘탐정들의 영업비밀’ 속 ‘탐정 24시’에서는 “미래를 약속한 여자친구의 정체를 밝혀달라”는 한 남성의 안타까운 사연이 전해진다.",
-      "평범한 회사원이었던 의뢰인은 부업으로 반려동물 운송업인 ‘펫 택시’를 운행하던 중, 손님이었던 여자친구와 처음 만나게 됐다.",
-      "동갑인 데다 집도 가까웠던 두 사람은."
+      "(창원=연합뉴스) 박정헌 기자 = 16일 경남에 최대 125㎜에 달하는 비가 쏟아지며 연일 이어지던 폭염과 가뭄에 숨통이 트였다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne72ece8d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260816/134486128/1",
-    "title": "“쓰레기통마저”…LA 달리는 차 안에서 재활용통 낚아채는 남성들 포착",
+    "id": "nc49d109b",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/16/2026081615121993057",
+    "title": "주 2회 등판 무리였나! 7이닝 퍼펙트했던 MLB 112승 투수, KBO 9위팀에 혼쭐→홈런 2방 맞고 5실점",
     "summary": [
-      "미국 로스앤젤레스에서 달리는 차 안에서 남의 집 재활용 쓰레기통을 낚아채 가는 남성들의 모습이 영상에 포착돼 화제다.15일(현지시간) 뉴욕포스트에 따르면 남부 로스앤젤레스에서 빨간색 해치백 차량을 탄 남성 두 명이 도로변에 놓인 파란색 재활용 쓰레기통을 잇달아 훔치는 모습이 카메라에 담겼다.",
-      "이들은 맨체스터 애비뉴와 샌페드로 스트리트 인근을 지나며 차 안에서 손을 뻗어 쓰레기통을 낚아챈 것으로 전해졌다.",
-      "이는 한 틱톡 이용자가 올린 영상을 통해."
+      "앞선 2경기에서 KBO 리그를 압도하던 메이저리그 112승 출신 LG 트윈스 외국인 투수 카를로스 카라스코(39)가 불의의 일격을 당했다.",
+      "카라스코는 16일 서울 잠실야구장에서 열린 SSG 랜더스와 홈 경기에 선발 등판했으나, 5회와 6회 연달아 SSG 타선에 난타당하며 무너졌다.",
+      "6회도 마치지 못 한채 5실점하고 마운드에서 내려간 것이다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf2d8110f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/08/16/OJ6ZVYX5M5GSPINCV7UZ7PHA7Y/",
+    "title": "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라”",
+    "summary": [
+      "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6594748c",
+    "id": "n078aec45",
     "category": "경제",
     "source": "한국경제",
     "time": "30분 전",
-    "url": "https://www.hankyung.com/article/2026081642807",
-    "title": "인기 뚝 떨어진 동해안…1년 만에 피서객 200만명 줄었다",
+    "url": "https://www.hankyung.com/article/2026081643307",
+    "title": "[속보] 임미애, 최고위원 후보직 사퇴…\"김용, 최고위원 만들어달라\"",
     "summary": [
-      "인기 뚝 떨어진 동해안…1년 만에 피서객 200만명 줄었다."
+      "[속보] 임미애, 최고위원 후보직 사퇴…\"김용, 최고위원 만들어달라\"."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n51b54b35",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "34분 전",
-    "url": "https://view.asiae.co.kr/article/2026081619353576129",
-    "title": "인니 플로레스섬 규모 7.7 강진…사망자 51명으로 늘어(종합)",
-    "summary": [
-      "규모 7.7 강진이 덮친 인도네시아 플로레스섬에서 사망자가 51명으로 늘었다.",
-      "16일(현지시간) 주요 외신 등에 따르면 인도네시아 국가재난관리청(BNPB)은 전날 동부 소순다열도 누사틍가라티무르주 플로레스섬 북부 해안에서 발생한 지진으로 51명이 숨졌다고 밝혔다.",
-      "BNPB에 따르면 구조대는 시카·망가라이·동망가라이 지역 등에서 시신을 수습하고 부상자 101명을 병원으로 이송했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n41ad5655",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "35분 전",
-    "url": "https://view.asiae.co.kr/article/2026081619343172094",
-    "title": "정청래 \"농부는 밭을 탓하지 않아…이재명 정부 성공 위해 최선 다하자\"",
-    "summary": [
-      "정청래 더불어민주당 당대표 후보는 16일 호남권에 이어 수도권에서도 2위에 그친 성적표와 관련해 \"농부는 밭을 탓하지 않는다.",
-      "적게 주시든 많이 주시든 그저 감사할 따름\"이라고 밝혔다.",
-      "정 후보는 이날 경기·서울 권리당원 성적표가 공개된 뒤 사회관계망서비스(SNS)에 이같이 남겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndbf90a74",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "41분 전",
-    "url": "https://www.hankyung.com/article/2026081642717",
-    "title": "정청래 \"농부는 밭 탓하지 않아…끝까지 최선 다할 것\"",
-    "summary": [
-      "정청래 \"농부는 밭 탓하지 않아…끝까지 최선 다할 것\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neace7529",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "56분 전",
-    "url": "https://www.hankyung.com/article/2026081642677",
-    "title": "홍상수·김민희, '눈 둘 데가 없네' 로카르노영화제 동반 수상",
-    "summary": [
-      "홍상수·김민희, '눈 둘 데가 없네' 로카르노영화제 동반 수상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndca3af3e",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154361",
-    "title": "정부는 정책 드라이브, 민간은 서비스로 구현...'디지털 보훈' 진화 중",
-    "summary": [
-      "정부가 AI와 디지털 기술을 활용해 보훈 기록과 서비스에 대한 접근성을 높인다.",
-      "전국 곳곳에 흩어진 독립운동 사료와 공공데이터를 연결하고 이를 교육이나 서비스, 체험에 활용할 수 있도록 접점을 넓히고 있다.민간에서는 관련 서비스를 내놓고 있다.",
-      "SK텔레콤은 독립운동가 1만8776명의 기록을 AI로 분석해 걷고 달릴 수 있는 길로 재구성했다."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#카카오",
-      "#교육"
     ]
   }
 ];
@@ -641,18 +638,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "3110건",
+    "trend": "+375%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
