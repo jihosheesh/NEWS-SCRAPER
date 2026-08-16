@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-16 12:17:28
+// 마지막 업데이트: 2026-08-16 13:23:24
 window.NEWS_DB = [
   {
     "id": "n066dd761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
     "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n63a2b5bf",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUmVxdzBvejhrMTFkMkh4ZWpVZFJvODlDeVh1elNJcDUyRlN5dEp0NUtMWHB2QzlMZ2tnZTkydFZzUWJiaHh3MTIxNzJmcUZSR2EySE9RaGpTT3FsY3JscGxDNnhMTzRHOXc?oc=5",
     "title": "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패권 향방은?",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n4fe94c66",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00d1YxR3VpblkyZHZHOG9BbDQwRVA2MWpWWFhrSzFDX3FuNExFYUZFLTZGT2kxenMzTE9TMnM0SnJzZ285R08yYmwyR0tPaTJrRm9nVExWZmFfU0XSAWBBVV95cUxOcVZtWUd1dGVKekZReUdkbi1tMkh3dXhBUGtZdHlfUXZYUHU2TkJFS1JWVGZHOUtfRlRJZHAybG9OdXFBVWUzY05qbGh1U0xPXzAyN2dPUjl4TG03VW5ZMmc?oc=5",
     "title": "엔비디아, 30조원어치 스페이스X 지분 보유…'순환거래' 우려",
     "summary": [
@@ -49,12 +49,12 @@ window.NEWS_DB = [
   {
     "id": "n9763e68e",
     "category": "사회",
-    "source": "tookyung.com",
+    "source": "투데이경제",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZVV0SG5SS2kwVUNpWjN4X19kU2JxOTFqY293UVVaUTc4UkxKLWVOMTFBS21XY1dTejB4YlVQY3RvV0d5SGZjNU1fVUxZVjQwcXFHZFk5MVBSdjNZZFJkc2tPZVlIOHdLSldv?oc=5",
     "title": "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용",
     "summary": [
-      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 tookyung.com."
+      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 투데이경제."
     ],
     "chips": [
       "#채용",
@@ -80,12 +80,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "businesspost.co.kr",
+    "source": "비즈니스포스트",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -127,12 +127,12 @@ window.NEWS_DB = [
   {
     "id": "n5ee6ae18",
     "category": "사회",
-    "source": "outsourcing.co.kr",
+    "source": "아웃소싱타임스",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
-      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ outsourcing.co.kr."
+      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
     ],
     "chips": [
       "#취업",
@@ -198,6 +198,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n56609ab4",
+    "category": "스포츠",
+    "source": "startupn.kr",
+    "time": "18일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
+    "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
+    "summary": [
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 startupn.kr."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n1a764c5a",
     "category": "부동산",
     "source": "뉴스핌",
@@ -223,6 +237,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
+    ]
+  },
+  {
+    "id": "n252753ca",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "63일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWSXM4dUswTlRBOFdwTWM1SzFqWHRkU3R3SzVNOGR0QnR5RzllZ2QzZXFHNWlGMko3bFJ1SHlJS2VINElKZndpbnVQSlFfWGRrUk5DYXFqc3ZhYXJFUHNCNFJSOERyMWVuLWZDNA?oc=5",
+    "title": "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도",
+    "summary": [
+      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -271,34 +299,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc27bc5a",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "172일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
-    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
-    "summary": [
-      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "174일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n08606dae",
     "category": "IT",
     "source": "테크M",
@@ -315,32 +315,254 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n95864191",
+    "id": "n3f3fa0c4",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751120",
-    "title": "故 정주영 회장 25주기…범현대가 '총집결'[뉴시스Pic]",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/16/G5RWKMTGMNQTQNJTG5SWGMLDME/",
+    "title": "세월 역행하는 얼음공주...제시카, 민소매+청바지만으로 완성한 독보적 ‘냉미모’",
     "summary": [
-      "[서울=뉴시스]고승민 조성우 김민성 기자 = 고 정주영 현대그룹 명예회장의 25주기를 앞두고 범현대 일가가 서울 종로구 청운동 옛 자택에 모여 제사를 지냈다.",
-      "제사는 정 명예회장의 기일인 3월 21일 하루 전인 20일 오후에 열렸다.",
-      "범현대가가 청운동 자택에 모인 것은 지난해 8월 고 변중석 여사의 18주기 제사 이후 약 7개월 만이다."
+      "[OSEN=박근희 기자] 제시카가 변함없는 독보적 미모와 가녀린 근황을 공개했다.16일 오후 제시카는 자신의 SNS를 통해 여러 장의 근황 사진을 게재했다.공개된 사진 속 제시카는 민소매 블랙 상의에 청바지를 매치한 심플한 차림으로 카메라를 응시하고 있다.",
+      "긴 머리를 자연스럽게 늘어뜨린 그는 특유의 시크하고 도회적인 분위기를 물씬 풍겼다.특히 세월을 비껴간."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne9cba8b0",
+    "id": "nc1cfc567",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260816/134486797/1",
+    "title": "“어디가 붐빌지 미리 안다”…도쿄 지하철, 전 노선 혼잡 예측 지도 공개",
+    "summary": [
+      "도쿄 지하철 도쿄 메트로가 모든 노선의 혼잡 예측을 확인할 수 있는 웹사이트를 새로 열었다.",
+      "노선과 역, 시간대별 혼잡도를 색으로 구분해 보여주는 방식이다.16일 니혼게이자이신문에 따르면 도쿄 메트로는 전 노선의 혼잡 예측을 6단계 색상으로 표시하는 사이트 운영을 시작했다.",
+      "승객이 비교적 한산한 시간대를 골라 탈 수 있게 해 혼잡을 줄이려는 취지다.사이트 이름은 ‘메트로크라우드내비(Metro CrowdNavi)’다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne676fbb2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751117",
+    "title": "우크라, 모스크바주 역대 최대 드론 공격…와일드베리스 등 타격",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 우크라이나가 16일(현지 시간) 러시아 모스크바주에 역대 최대 규모 수준의 드론 공격을 감행했다고 외신들이 보도했다.",
+      "키이우인디펜던트(KI)와 타스통신 등에 따르면 우크라이나군은 이날 새벽 모스크바주 전역에 대규모 드론 공격을 가했으며, 이 과정에서 러시아 최대 온라인 유통업체 중 하나인 와일드베리스의 물류창고 등이 피해를 입었다.",
+      "러시아 국방부는 이날 새벽 여러 지역에서 우크라이나 드론 총 822대를 요격했다고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf179326e",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/16/MJQTEZTGGFRDEZJZGVRDSMZXHE/",
-    "title": "박해민-오스틴도 못깬 퍼펙트 굴욕 깼다! 주인공은 신민재…SSG 아빌라 상대로 안타 [잠실현장]",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/football/2026/08/16/GQ3TCYRYMJQTEMBZMY3TIMZTGQ/",
+    "title": "'에울레르 해트트릭' 서울E, 2위 도약...대구는 충남아산 2-0 제압, 파주는 133일 만에 홈 승리 (종합)",
     "summary": [
-      "[잠실=스포츠조선 김영록 기자] LG 트윈스가 뜻하지 않게 마주친 퍼펙트게임의 압박에서 가까스로 탈출했다.",
-      "LG는 16일 잠실구장에서 SSG 랜더스와의 시즌 13차전을 치르고 있다.",
-      "LG 카라스코와 SSG 아빌라, 양팀 최고의 투수 카드가 1선발다운 치열한 투수전을 펼치고 있다."
+      "[OSEN=정승우 기자] 서울 이랜드와 대구FC가 나란히 승리를 챙기며 K리그2 선두권 경쟁에 불을 붙였다.",
+      "파주 프런티어는 133일 만에 홈에서 웃었고 김포FC와 천안FC는 승점 1점씩을 나눠 가졌다.서울 이랜드는 16일 목동종합운동장에서 열린 하나은행 K리그2 2026 22라운드에서 안산 그리너스를 3-1로 꺾었다.전반 6분 마촙에게 선제골을 허용했지만."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbdd5b520",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/16/MI3TCNDGMQYDKOLBGAZWEMTDGM/",
+    "title": "'퇴출 확정' 외인이 쏘아올린 작은 공? LG 에이스 끌어내린 백투백 홈런까지…유종의미 제대로 거뒀다 [잠실포커스]",
+    "summary": [
+      "[잠실=스포츠조선 김영록 기자] 이미 퇴출 확정, 16일까지로 작별이 확정된 외국인 선수가 판을 크게 흔들었다.",
+      "SSG랜더스는 16일 잠실구장에서 LG 트윈스와 시즌 13차전 경기를 치렀다.",
+      "주말시리즈를 1승1패로 나눠가진 가운데 위닝과 루징의 갈림길이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndd4e93a5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/16/7ZUTHH6STBCB3G2X7SAWQF5YK4/",
+    "title": "올러 7이닝 1실점 다승 1위… KIA, 두산 꺾고 4위 탈환",
+    "summary": [
+      "올러 7이닝 1실점 다승 1위… KIA, 두산 꺾고 4위 탈환."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n52ce6930",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751132",
+    "title": "종합특검, '수사정보 유출' 현직 경찰 기소…'양평道' 의혹 관련",
+    "summary": [
+      "[서울=뉴시스]권지원 기자 = 서울-양평고속도로 노선 변경 의혹을 들여다보고 있는 2차 종합특별검사팀(특별검사 권창영)이 국토교통부 관계자에게 수사 정보를 유출한 현직 경찰관을 재판에 넘겼다.",
+      "16일 법조계에 따르면 종합특검팀은 공무상 비밀누설 및 김건희 특검법 위반(수사방해) 혐의로 경찰관 A씨를 지난 7일 불구속 기소했다.",
+      "A씨는 지난해 10월 '서울-양평고속도로 의혹' 관련 김건희 특검팀(특별검사 민중기) 수사를 받던 김모 국토부 과장에게."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff8695e1",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816047600007",
+    "title": "아빌라 7이닝 무실점…SSG, 1천480일 만에 LG에 위닝시리즈",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 프로야구 SSG 랜더스가 페드로 아빌라의 7이닝 무실점 호투를 앞세워 1천480일 만에 LG 트윈스를 상대로 ..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n2c3976d8",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260815050851007",
+    "title": "[프로야구 잠실전적] SSG 6-0 LG",
+    "summary": [
+      "[프로야구 잠실전적] SSG 6-0 LG."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n82327897",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003751128",
+    "title": "백인천 감독 빈소에 야구인들 조문 이어져…일본 닛폰햄 조화",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 야구인들이 15일 오전 세상을 떠난 백인천 전 감독의 빈소를 찾아 애도했다.",
+      "16일 한국야구위원회(KBO)에 따르면 15일부터 이틀 동안 허구연 KBO 총재와 구본능 전 총재, 김인식 전 야구 대표팀 감독, 김인석 LG 트윈스 대표와 차명석 단장, 김광수 일구회 회장, 박철순 부회장, 이만수 전 SK 와이번스(현 SSG 랜더스) 감독 등이 빈소가 차려진 충남 천안 단국대병원 장례식장을 찾아 고인을 추모했다."
+    ],
+    "chips": [
+      "#KBO",
+      "#채용",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n7285f7b9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260816/134486737/1",
+    "title": "與최고위원 ‘친명2: 친청3’으로…“김용 지지” 임미애-김영호 사퇴",
+    "summary": [
+      "더불어민주당 8·17 전당대회 최고위원 선거에서는 주말 동안 친명(친이재명)·친청(친정청래)계 후보들이 최대 승부처인 호남과 수도권에서 당선권 과반을 한 차례씩 주고받으며 박빙 승부를 이어갔다.",
+      "15일 호남 경선까지 누적 득표로 당선권인 5위까지 친명 3명, 친청 2명 구도였지만 16일 수도권 경선에서 친명 2명, 친청 3명 구도로 뒤집힌 것이다.16일 민주당 중앙당선거관리위원회에 따르면 전날 전남광주·전북 등 호남권 순회경선 직후 누적 1위를."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2a59ef98",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816047500007",
+    "title": "KIA, 두산 꺾고 나흘 만에 4위 복귀…올러, 다승 단독 선두",
+    "summary": [
+      "(서울=연합뉴스) 천병혁 기자 = KIA 타이거즈가 4일 만에 4위를 탈환했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2aaab679",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "34분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260816/134486724/1",
+    "title": "김민석, 8.4%p 차로 정청래 앞섰다…누적 金 49.91%-鄭 41.51%",
+    "summary": [
+      "더불어민주당 8·17 전당대회 호남(전남광주·전북)과 서울·경기 순회경선에서 김민석 당 대표 후보가 승리하면서 정청래 후보를 누적 득표율 8.40%포인트 차로 앞섰다.",
+      "김 후보는 최대 승부처인 호남에서 압승하며 격차를 벌린 데 이어 서울·경기에서도 정 후보에게 앞서며 전당대회 승리를 위한 유리한 고지에 올랐다.",
+      "민주당은 17일 대전에서 열리는 전국당원대회에서 대의원 투표와 국민여론조사를 합산해 차기 당 대표를 선출한다.16일 민주당 중앙선거관리."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbd9dabff",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816047400007",
+    "title": "[프로축구 중간순위] 16일",
+    "summary": [
+      "[프로축구 중간순위] 16일."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfb48a4c2",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "49분 전",
+    "url": "https://www.hankyung.com/article/2026081643347",
+    "title": "선거 전 '수상한 유튜브' 대거 적발…구글, 채널 449개 폐쇄",
+    "summary": [
+      "선거 전 '수상한 유튜브' 대거 적발…구글, 채널 449개 폐쇄."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n082c4547",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "53분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260816/134486695/1",
+    "title": "서울 종로구 삼청동 도로 지반 침하…삼청로 일대 통제 중",
+    "summary": [
+      "16일 오후 서울 종로구 삼청공원 인근 삼청로 일대가 지반 침하로 통제 중이다.이날 소방 당국에 따르면 삼청공원 입구 교차로에서 삼청터널 남측 방향 1차로가 지반 침하로 통제되고 있다.서울시교통정보시스템(TOPIS)에 의하면 이날 오후 4시 8분부터 오후 11시까지 삼청로가 부분 통제 예정이다.소방 관계자는 “바닥이 살짝 갈라지는 등 지반 침하 우려로 경찰 측 공동 대응 요청이 들어와 출동했다”며 “싱크홀 등은 발견되지 않았다”고 전했다.소방."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0016690b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "57분 전",
+    "url": "https://www.hankyung.com/article/2026081643377",
+    "title": "하수관 공사 현장서 '반짝'…148억원 가치 금괴·금화 무더기 발견",
+    "summary": [
+      "하수관 공사 현장서 '반짝'…148억원 가치 금괴·금화 무더기 발견."
     ],
     "chips": [
       "#뉴스"
@@ -350,7 +572,7 @@ window.NEWS_DB = [
     "id": "n193a642d",
     "category": "경제",
     "source": "아시아경제",
-    "time": "4분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026081621122116404",
     "title": "김영호, 전당대회 최고위원 물러나…\"대의원, 김용에 표 모아달라\"",
     "summary": [
@@ -363,103 +585,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf9a2e586",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/16/MIZDMYZZMY3GCZDGGA3TEOLCHA/",
-    "title": "'아스널, 하늘이 돕는다' 프랑스 국대 센터백 살리바 2개월 빨리 복귀 가능 전망, 허리 수술 후 회복 결장 공백 최대 5개월→3개월로 줄었다",
-    "summary": [
-      "[스포츠조선 노주환 기자]EPL 아스널 팬들에겐 좋은 소식이 될 수 있다.",
-      "프랑스 국가대표 수비수 윌리엄 살리바(아스널)가 예상 보다 빨리 팀 전력에 복귀할 수 있다는 전망이 나왔다.",
-      "북중미월드컵 기간 중 허리를 다쳤던 살리바는 당초 최대 5개월 정도 결장이 불가피해보였다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "nfeda81bf",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260816/134486547/1",
-    "title": "여자 대표팀 이어 남자 대표팀도 연패…한국 농구, 한일전 4전 전패",
-    "summary": [
-      "‘마줄스호’ 한국 남자 농구 국가대표팀이 제81주년 광복절에 치러진 숙명의 한일전에서 완패를 당한 데 이어, 이튿날 진행된 두 번째 맞대결에서도 무릎을 꿇었다.니콜라이스 마줄스(라트비아) 감독이 이끄는 농구 대표팀은 16일 오후 일본 도쿄의 아리아케 아레나에서 열린 일본과의 2026 남자 농구 국가대표 평가전 두 번째 경기에서 66-95로 패배했다.전날 68-88로 졌던 한국은 이날도 완패를 당했다.20점 차가 역대 한일전 최다 점수 차 패배였."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0bfffe8c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/08/16/GI3TQNTBHE4GIMTGGE2GKNRUGQ/",
-    "title": "S.E.S 바다, 코르티스 마틴과 챌린지 성공···마틴 붐은 온다",
-    "summary": [
-      "[OSEN=오세진 기자] S.E.S 바다가 리메이크 '러브 웨이브'를 발표하면서 코르티스의 마틴과 함께 챌린지에 성공했다.15일 바다는 자신의 소셜 계정에 'Happy weeken'라고 적은 영상들을 올렸다.",
-      "에펠탑의 정경이 보이는 곳에서 바다는 높게 틀어 묶은 머리카락에 한복을 검정 드레스 느낌으로 표현해 올 블랙 패션으로 90년대가 생각 나는 발랄하고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfe661a20",
+    "id": "nd1b16724",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/world/2026/08/16/2026081620400851230",
-    "title": "\"매일 2천~3천명 죽여\" 中난징대학살 새 기록…위안부 피해 박차순씨 자료도 공개",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081643447",
+    "title": "[속보] 與김영호, 최고위원 후보 사퇴…\"김용에게 표 모아달라\"",
     "summary": [
-      "난징대학살 당시 일본군의 집단 학살과 중국 내 화학전 정황을 뒷받침하는 새로운 사료가 공개됐다.",
-      "중국에 거주한 한국계 일본군 위안부 피해자인 고(故) 박차순(1923~2017·중국명 마오인메이) 할머니의 생전 모습을 2년간 기록한 사진과 영상도 함께 공개됐다.",
-      "16일(현지 시간) 신화통신 등에 따르면 제2차 세계대전 당시 일본의 항복 81주년을 맞아 일본군의 전쟁 범죄와 위안부 피해자들의 삶을 기록한 새로운 역사 자료들이 '난징 대학살 희생자."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n8ddd9dfb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751116",
-    "title": "[올댓차이나] 中 7월 은행대출 71.5조원 순감소…차입 수요 부진",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 중국 신규 위안화 대출이 7월에 가계와 기업의 대출 수요가 약해진 가운데 계절적 요인까지 겹치면서 사상 최대폭으로 순감소했다.",
-      "경제통과 나우재경, 홍콩경제일보, 공상시보는 16일중국인민은행은 최신 금융통계를 인용해 7월 한달 동안 은행권 위안화 대출이 신규 대출보다 상환액이 많으면서 3400억 위안(약 71조5054억원) 줄었다고 전했다.",
-      "월간 신규 대출이 순감소한 건 올해 들어 4월에 이어 두 번째다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n033c9708",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816045800001",
-    "title": "[속보] 김영호, 與최고위원 후보 사퇴…\"김용 후보 지지\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc9b5deb",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/16/2026081621043518238",
-    "title": "[속보]임미애 이어 김영호도 후보 사퇴…\"김용 후보에 표 모아달라\"",
-    "summary": [
-      "[the300] 김영호 더불어민주당 최고위원 후보 SNS(소셜미디어)...."
+      "[속보] 與김영호, 최고위원 후보 사퇴…\"김용에게 표 모아달라\"."
     ],
     "chips": [
       "#뉴스"
@@ -469,7 +602,7 @@ window.NEWS_DB = [
     "id": "nab0ed1d9",
     "category": "사회",
     "source": "아시아경제",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026081621053412641",
     "title": "임미애, 최고위원 후보 전격 사퇴…\"대의원, 김용 반드시 선택해달라\"",
     "summary": [
@@ -482,150 +615,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n594d4ef2",
+    "id": "n4f096133",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751112",
-    "title": "김민석, 호남·수도권 연승으로 누적 득표율 49.91%로 1위…정청래에 8.40%p 앞서(종합2보)",
-    "summary": [
-      "[서울·수원·고양=뉴시스] 김난영 한재혁 김윤영 기자 = 더불어민주당 권역별 순회경선 마지막이자 최대 승부처인 서울·경기에서 김민석 후보가 정청래 후보에게 0.38%p 차이로 신승했다.",
-      "김 후보가 누적 기준으로 선두를 유지하며 권역별 권리당원 투표를 마쳤다.",
-      "김 후보는 누적 득표율 49.91%로 과반에는 미치지 못했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc7c6439d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/16/2026081616370755674",
-    "title": "'19세 유망주 참변' 경기 중 일반 차량과 충돌... 그런데 운전자만 탓할 수는 없었다",
-    "summary": [
-      "영국의 19세 사이클 유망주가 대회 도중 일반 차량과 충돌해 숨지는 비극이 발생했다.",
-      "로이터통신은 15일(한국시간) \"영국 사이클 선수 핀리 탈링이 포르투갈 일주도로사이클대회 8구간 경기 도중 발생한 사고로 사망했다\"고 전했다.",
-      "이어 \"19세 웨일스 출신의 탈링은 타임트라이얼 전문 선수였다\"며 \"지난해 NSN 디벨롭먼트 팀에 합류한 유망주였다\"고 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n509386b2",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816000851082",
-    "title": "홍상수 '눈 둘 데가 없네' 로카르노영화제 감독상(종합)",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 홍상수 감독과 배우 김민희가 신작 '눈 둘 데가 없네'로 스위스에서 열린 제79회 로카르노영화제에서 나란히..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndf2ca985",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026081414505374212",
-    "title": "미노이, 정규 3집곡 'X killed' 선공개…입체적 서사 완성",
-    "summary": [
-      "가수 미노이가 16일 주요 온라인 음원 사이트를 통해 정규 3집 '루시드 넘버 투(LUCID NO.2)'의 수록곡 '엑스 킬드(X killed)'를 선공개했다.",
-      "이번 신곡은 곧 발매될 정규 앨범에 앞서 미노이의 새로운 음악적 방향성과 한층 짙어진 감정선을 엿볼 수 있는 곡이다.",
-      "미노이는 신곡 'X killed'에서 내면의 복잡한 감정들을 자신만의 언어와 음악적 질감으로 풀어내며, 이전보다 깊어진 내면의 이야기를 대중에게 건넨다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc1f6cd7b",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816045600007",
-    "title": "[농구대표팀 평가전 전적] 한국 66-95 일본",
-    "summary": [
-      "[농구대표팀 평가전 전적] 한국 66-95 일본."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3a7bc3db",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260816/134484546/1",
-    "title": "트럼프 “2차대전 항모처럼” 발언에… 포드급 항모 지휘탑 설계 변경 검토",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 제2차 세계대전 당시 항공모함과 비슷한 외관을 선호한다는 이유로 미 해군이 최신 포드급 항모의 지휘탑 위치를 바꾸는 대규모 설계 변경을 검토하고 있다고 워싱턴포스트(WP)가 15일 보도했다.",
-      "또 트럼프 대통령은 포드급 항모의 핵심 기술 중 하나인 전자기식 항공기 사출 장치(EMALS)도 과거 증기식으로 되돌리는 방안을 마련하라고 지시한 것으로 알려졌다.",
-      "사출 장치는 항공기가 이륙할 수 있도록 빠른 속도로 밀어주는 장."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n83b1f711",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816016352052",
-    "title": "경남 최대 125.5㎜ 장대비…가뭄 숨통 속 비 피해 잇따라(종합2보)",
-    "summary": [
-      "(창원=연합뉴스) 박정헌 기자 = 16일 경남에 최대 125㎜에 달하는 비가 쏟아지며 연일 이어지던 폭염과 가뭄에 숨통이 트였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc49d109b",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "28분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/16/2026081615121993057",
-    "title": "주 2회 등판 무리였나! 7이닝 퍼펙트했던 MLB 112승 투수, KBO 9위팀에 혼쭐→홈런 2방 맞고 5실점",
-    "summary": [
-      "앞선 2경기에서 KBO 리그를 압도하던 메이저리그 112승 출신 LG 트윈스 외국인 투수 카를로스 카라스코(39)가 불의의 일격을 당했다.",
-      "카라스코는 16일 서울 잠실야구장에서 열린 SSG 랜더스와 홈 경기에 선발 등판했으나, 5회와 6회 연달아 SSG 타선에 난타당하며 무너졌다.",
-      "6회도 마치지 못 한채 5실점하고 마운드에서 내려간 것이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nf2d8110f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "29분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/08/16/OJ6ZVYX5M5GSPINCV7UZ7PHA7Y/",
-    "title": "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라”",
-    "summary": [
-      "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n078aec45",
-    "category": "경제",
     "source": "한국경제",
-    "time": "30분 전",
-    "url": "https://www.hankyung.com/article/2026081643307",
-    "title": "[속보] 임미애, 최고위원 후보직 사퇴…\"김용, 최고위원 만들어달라\"",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608138693g",
+    "title": "'스포츠카도 아닌데 설렌다'…아빠들 홀린 '1억짜리 SUV' [영상]",
     "summary": [
-      "[속보] 임미애, 최고위원 후보직 사퇴…\"김용, 최고위원 만들어달라\"."
+      "'스포츠카도 아닌데 설렌다'…아빠들 홀린 '1억짜리 SUV' [영상]."
     ],
     "chips": [
       "#뉴스"
@@ -638,8 +635,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
