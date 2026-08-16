@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-16 15:11:31
+// 마지막 업데이트: 2026-08-16 16:12:29
 window.NEWS_DB = [
   {
     "id": "n066dd761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
     "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n63a2b5bf",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUmVxdzBvejhrMTFkMkh4ZWpVZFJvODlDeVh1elNJcDUyRlN5dEp0NUtMWHB2QzlMZ2tnZTkydFZzUWJiaHh3MTIxNzJmcUZSR2EySE9RaGpTT3FsY3JscGxDNnhMTzRHOXc?oc=5",
     "title": "[반도체 패권 전쟁 ③] TSMC·엔비디아·美동맹 공급망···AI 반도체 패권 향방은?",
     "summary": [
@@ -33,16 +33,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4fe94c66",
+    "id": "n24495d23",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "21시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00d1YxR3VpblkyZHZHOG9BbDQwRVA2MWpWWFhrSzFDX3FuNExFYUZFLTZGT2kxenMzTE9TMnM0SnJzZ285R08yYmwyR0tPaTJrRm9nVExWZmFfU0XSAWBBVV95cUxOcVZtWUd1dGVKekZReUdkbi1tMkh3dXhBUGtZdHlfUXZYUHU2TkJFS1JWVGZHOUtfRlRJZHAybG9OdXFBVWUzY05qbGh1U0xPXzAyN2dPUjl4TG03VW5ZMmc?oc=5",
-    "title": "엔비디아, 30조원어치 스페이스X 지분 보유…'순환거래' 우려",
+    "source": "조선일보",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
+    "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
-      "엔비디아, 30조원어치 스페이스X 지분 보유…'순환거래' 우려 연합뉴스."
+      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 조선일보."
     ],
     "chips": [
+      "#AI",
       "#엔비디아"
     ]
   },
@@ -242,15 +243,15 @@ window.NEWS_DB = [
   {
     "id": "n252753ca",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "unicornfactory.co.kr",
     "time": "63일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWSXM4dUswTlRBOFdwTWM1SzFqWHRkU3R3SzVNOGR0QnR5RzllZ2QzZXFHNWlGMko3bFJ1SHlJS2VINElKZndpbnVQSlFfWGRrUk5DYXFqc3ZhYXJFUHNCNFJSOERyMWVuLWZDNA?oc=5",
     "title": "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도",
     "summary": [
-      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 유니콘팩토리."
+      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 unicornfactory.co.kr."
     ],
     "chips": [
-      "#스타트업"
+      "#뉴스"
     ]
   },
   {
@@ -315,89 +316,176 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naa117c6b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751114",
-    "title": "\"느즈막히 운동두 하구\"…다비치 강민경, 완벽 몸매 만드는 단단한 루틴 공개",
+    "id": "n8e12e4b7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/17/HBRWMYJQMVRTCNDBHBRGIZRTGQ/",
+    "title": "40억 FA 보상 선수→군 제대 후 팔꿈치 수술, ‘158km’ 사이드암, 1년 만에 마운드 오르다",
     "summary": [
-      "[서울=뉴시스] 김종민 기자 = 가수 강민경이 주말에도 쉬지 않고 운동에 나선 일상을 공유하며 건강미 넘치는 근황을 전했다.",
-      "강민경은 최근 자신의 사회관계망서비스(SNS)에 \"느즈막히 운동두 하구우 행복한 토요이일\"이라는 문구와 함께 헬스장에서 찍은 사진 한 장을 올렸다.",
-      "공개된 사진 속 강민경은 운동 기구들을 배경으로 몸에 밀착되는 핑크색 반팔 티셔츠와 검은색 레깅스, 모자를 착용한 채 군살 없는 몸매를 드러냈다."
+      "[OSEN=한용섭 기자] 프로야구 키움 히어로즈 강속구 사이드암 이강준(25)이 팔꿈치 수술 이후 13개월 만에 실전 경기에 나섰다.",
+      "이강준은 16일 고양구장에서 열린 2026 퓨처스리그 두산 베어스와 경기에서 1이닝 2피안타 무실점을 기록했다.",
+      "지난해 6월 22일 KBO리그 한화전 이후 팔꿈치 수술과 재활을 마치고 복귀전이었다."
     ],
     "chips": [
-      "#의료"
+      "#KBO"
     ]
   },
   {
-    "id": "n0d9784dc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751037",
-    "title": "레이나 \"극단적 식단 대신 달린다\"…165cm·45kg 감량 그녀의 관리법",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = 걸그룹 애프터스쿨 출신 레이나가 최근 누리꾼들 사이에서 또렷해진 턱선과 슬림한 체형으로 눈길을 끌며 과거 체중 조절 잔혹사와 현재의 관리 방식을 밝혀 관심이 쏠린다.",
-      "과거 활동 시절 귀엽고 상큼한 이미지로 사랑받았던 레이나는 활동 당시 체중을 맞추기 위해 혹독한 다이어트를 지속했던 것으로 알려졌다.",
-      "그는 유튜브 방송을 통해 \"극단적으로는 레몬 디톡스라고 레몬 물만 먹어봤다\"며 \"3일 동안 레몬물만 마셨다\"고 털어."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8558c0c5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003751146",
-    "title": "美 중부사령관, 250일 넘게 작전 중인 링컨함 방문…장병들 만나",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 브래드 쿠퍼 미 중부사령부 사령관이 250일 넘게 연속으로 해상에 머물며 중동 작전에 투입된 항공모함 USS 에이브러햄 링컨함을 방문했다.",
-      "장기간 배치에 따른 장병들의 정신 건강과 보급 문제에 대한 보도가 나온 직후 이뤄진 방문이다.",
-      "15일(현지 시간) AP통신에 따르면 쿠퍼 사령관은 최근 아라비아해에 있는 링컨함을 찾아 함정의 작전 상황을 점검하고 장병들을 만났다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ncbed4072",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260816_0003750954",
-    "title": "\"출산한 지 3일째인데 살을 빼라고?\"… 시아버지 발언에 며느리 '충격'",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 출산한 지 3일 된 며느리에게 \"몸조리하면서 살 빼면 되겠다\"고 말한 시아버지의 발언을 두고 누리꾼들 사이에서 논란이 일었다.",
-      "지난 14일 직장인 온라인 커뮤니티 '블라인드'에는 '출산한 지 3일째인데 시아버님이'라는 제목의 글이 올라왔다.",
-      "작성자 A씨는 \"시부모님이 경상도분이시고, 시아버님이 호탕하시고 좀 직설적이신 편\"이라고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9da0b552",
+    "id": "nd892c123",
     "category": "사회",
     "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/GAYTAZBSGI2TKMRUMRQWIZBVMQ/",
-    "title": "'이장원♥' 배다해, '줄기세포' 시술 받았다..\"벌써 피부 좋아진듯\"",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/GE4GMNJSGA3GIMJTGA2DENTEMI/",
+    "title": "공효진, '유부녀 킬러' 흥행 이미 예측했나···이틀 전 게시물에 \"축하\"",
     "summary": [
-      "[OSEN=김나연 기자] 배우 배다해가 줄기세포 시술 근황을 전했다.15일 '다해는다해' 채널에는 \"엄마랑 줄기세포 데이트하는 42살의 일상\"이라는 제목의 영상이 업로드 됐다.이날 배다해는 모친과 함께 줄기세포 상담을 받으러 병원을 찾았다.",
-      "그는 상담을 받던 중 \"노화 지연 너무 좋다\"며 큰 흥미를 보였고, 이후 줄기세포 시술을 받았다.채혈 및 수혈 용 바."
+      "[OSEN=오세진 기자] 배우 공효진이 후련한 표정으로 여유를 즐겼다.지난 15일 공효진은 자신의 소셜 계정에 글라스에 담긴 음료를 든 채 편안한 차림으로 화사하게 웃고 있었다.",
+      "공효진은 \"축하\"라는 글귀 뒤에 샴페인 이모티콘을 붙였다.",
+      "그는 편안히 묶은 머리카락과 줄무늬 티셔츠에 반짝거리는 바지를 입고 편히 앉아 여유를 부렸다.MBC 금토드라마 '유부녀."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5292b8a4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817001200527",
+    "title": "제주시동부에 17일 0시50분 호우주의보",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 17일 0시 50분을 기해 제주시동부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf6c594ec",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749409",
+    "title": "\"민생 먼저\"…부산 지방의회, 국외출장 예산 줄줄이 반납",
+    "summary": [
+      "[부산=뉴시스]원동화 기자 = 부산지역 지방의회가 경기 침체와 어려운 지방재정 여건 등을 이유로 올해 예정된 공무국외출장을 잇따라 취소하고 관련 예산을 반납하고 있다.",
+      "17일 부산지역 지방의회 등에 따르면 부산시의회를 비롯해 영도구·남구·사상구·수영구·기장군·사하구·해운대구·서구·북구·연제구의회 등 10개 기초의회가 올해 공무국외출장 관련 예산을 반납하기로 했다.",
+      "부산시의회는 지난달 29일 올해 편성된 공무국외출장 예산 1억5000만원을 전액."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8df238a0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749385",
+    "title": "\"쫄쫄 굶기만 하면 탈난다\"…건강한 다이어트는?",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 무리한 다이어트는 건강은 물론 수면의 질을 떨어뜨리는 등 일상생활에도 악영향을 미칠 수 있다고 의료계는 지적한다.",
+      "실제 연구에서도 이 같은 연관성을 뒷받침하는 결과가 보고되고 있다.",
+      "17일 의료계에 따르면 하루 총 섭취 열량과 신체활동으로 소비하는 열량의 균형을 알맞게 유지하는 여성이 극심한 에너지 부족 상태에 있는 여성보다 수면 부족(하루 6시간 이하의 '짧은 수면)을 겪을 위험이 약 29% 낮다는 연구 결과가."
     ],
     "chips": [
       "#의료"
+    ]
+  },
+  {
+    "id": "ne83854c4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003750033",
+    "title": "부산 화명생태공원 야외수영장, 물놀이·여가공간 재탄생",
+    "summary": [
+      "[부산=뉴시스] 이아름 기자 = 부산시와 부산디자인진흥원은 북구 화명생태공원 내 야외 수영장을 사계절 가족 물놀이·여가 복합 공간으로 조성하기 위해 국제 디자인 경쟁 공모를 개최한다고 17일 밝혔다.",
+      "이번 공모는 2단계 국제 디자인경쟁으로 진행된다.",
+      "1단계에서는 디자인 제안서와 포트폴리오 등을 심사해 3개팀(사)을 선정한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nab231401",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749805",
+    "title": "부산대, 2027학년도 대입준비설명회 22일 개최",
+    "summary": [
+      "[부산=뉴시스] 하경민 기자 = 부산대학교 금정구진로교육지원센터는 오는 22일 오전 10시 대학 내 10·16기념관 2층 강당에서 '2027학년도 대입준비설명회'를 개최한다고 17일 밝혔다.",
+      "무료로 열리는 이번 설명회에서는 2027학년도 대입 주요 변화사항과 수시·정시 전형별 준비 전략, 학생부·수능 대비 방법 등 대입 준비 전반에 걸친 실질적인 정보를 제공한다.",
+      "참가 신청은 홍보 포스터의 QR코드 또는 온라인 신청 링크를 통해 사전 접수할 수."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nb52626cf",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817000800527",
+    "title": "서귀포시동부 등 제주 3곳 호우주의보",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 17일 0시 30분을 기해 서귀포시동부·서귀포시남부·제주시서부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n80a55287",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817000400071",
+    "title": "美중부사령관, 장기파병 투신시도 논란 중동 항모 방문",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 대이란 군사 대응을 총괄하는 미군 중부사령관이 중동 수역에 배치된 항공모함 에이브러햄 링컨함을 찾았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndbfa59b8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "34분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/08/17/6PHDSWEFOND4HL76RQRMGWKCLY/",
+    "title": "4~5개월 시간 번 최태원… 1조원 마련 세가지 카드는",
+    "summary": [
+      "4~5개월 시간 번 최태원… 1조원 마련 세가지 카드는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba3ef41c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817000700527",
+    "title": "충남 홍성서부·홍성동부에 17일 0시10분 호우주의보",
+    "summary": [
+      "(대전=연합뉴스) 기상청은 17일 0시 10분을 기해 홍성서부·홍성동부에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n839032e4",
     "category": "경제",
     "source": "한국경제",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026081422707",
     "title": "[오늘의 운세] 2026년 8월 17일 별자리 운세",
     "summary": [
@@ -411,7 +499,7 @@ window.NEWS_DB = [
     "id": "n2913377a",
     "category": "경제",
     "source": "한국경제",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026081422367",
     "title": "[오늘의 운세] 2026년 8월 17일 오행별 행운의 컬러",
     "summary": [
@@ -425,7 +513,7 @@ window.NEWS_DB = [
     "id": "n8c41db1e",
     "category": "경제",
     "source": "한국경제",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026081422277",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 17일 띠별 추천 점심메뉴",
     "summary": [
@@ -436,112 +524,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n81dfd0c0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf2080a58",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816036400504",
-    "title": "한미 오늘부터 UFS 연습…\"제1도련선 전투력투사\" 美언급에 주목",
-    "summary": [
-      "(서울=연합뉴스) 김효정 기자 = 한미 군 당국이 17일 유사시 한반도 방어를 위한 정례 연합 훈련인 '을지 자유의 방패'(UFS·Ulchi F..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00b8748e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/GE4DINTGMJSTQOBXMQ4DGODCHA/",
-    "title": "‘47kg’ NS윤지, 애엄마 맞아?..생얼 미인+타고난 몸매까지 [순간포착]",
-    "summary": [
-      "[OSEN=박하영 기자] 가수 겸 배우 NS윤지(김윤지)가 철저한 자기관리 면모를 뽐냈다.",
-      "16일 유튜브 채널 ’ns윤지’에는 ‘LA 24시간 기록 feat.",
-      "무서운 알람시계’라는 제목의 영상이 게재됐다.이날 2살 딸 엘라 등교 준비를 마친 NS윤지는 외출 전 세안을 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb7559999",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/17/MVRDKMBZGAZDKNBXMM3DGMRZGQ/",
-    "title": "'타구 직격→턱뼈 골절' NC 임지민, 18일 오전 수술 받는다…언제 마운드 돌아올까",
-    "summary": [
-      "[OSEN=부산, 조형래 기자] 강습 타구에 얼굴을 맞은 NC 다이노스 투수 임지민이 수술 일정이 확정됐다.NC 구단은 16일 오후, “임지민 선수는 18일 오전, 부산 동아대병원에서 수술을 받는다”고 밝혔다.임지민은 지난 14일 사직구장에서 열린 프로야구 정규시즌 롯데 자이언츠와의 경기, 9회 2사 2루 상황에서 빅터 레이예스의 강습 타구에 안면을 직격."
-    ],
-    "chips": [
-      "#KBO",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc400c83e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/08/17/JPDY2ZUIPRCSLMROCFXNK7BSQI/",
-    "title": "[사설] ‘닥치고 공급’ 한다더니 출발부터 삐걱대는 정부·서울시",
-    "summary": [
-      "[사설] ‘닥치고 공급’ 한다더니 출발부터 삐걱대는 정부·서울시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n40e691cf",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816048700079",
-    "title": "이스라엘 극우장관 \"가자지구서 매일 30~40명 죽여야\" 발언 논란",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 베냐민 네타냐후 총리가 주도하는 이스라엘 우파 연정의 대표적인 극우성향 정치인인 이타마르 벤-그비르 국가안..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3bc17f6d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816048600099",
-    "title": "짐바브웨 호수 여객선 전복 참사 사망자 80명으로 늘어",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 닷새 전 아프리카 짐바브웨의 카리바호수에서 여객선 전복으로 숨진 희생자가 80명으로 늘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "naca7516a",
     "category": "경제",
     "source": "아시아경제",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026081618051107396",
     "title": "김장훈 '누워서 보는 콘서트 in 목포' 900여 명 참여 속 성료",
     "summary": [
@@ -556,7 +542,7 @@ window.NEWS_DB = [
     "id": "n8f05ec55",
     "category": "경제",
     "source": "한국경제",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026081643887",
     "title": "이란군 \"미군 사살·생포하면 포상금 4200만원…여성은 두 배\"",
     "summary": [
@@ -570,7 +556,7 @@ window.NEWS_DB = [
     "id": "na13c85b5",
     "category": "사회",
     "source": "동아일보",
-    "time": "41분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Opinion/article/all/20260816/134486633/2",
     "title": "[사설]李 “새로운 60년 함께” 무색하게 한 다카이치의 ‘역사 퇴행’",
     "summary": [
@@ -586,7 +572,7 @@ window.NEWS_DB = [
     "id": "n27f79fce",
     "category": "IT",
     "source": "동아일보",
-    "time": "44분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Opinion/article/all/20260816/134486637/2",
     "title": "[사설]中 파운드리 ‘투톱’ 최대 실적… 2위마저 위협받는 韓",
     "summary": [
@@ -603,7 +589,7 @@ window.NEWS_DB = [
     "id": "n8b59998d",
     "category": "사회",
     "source": "동아일보",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Opinion/article/all/20260816/134486635/2",
     "title": "[사설]비수도권 소아신경과 교수 36명뿐… 제주 0명, 울산-세종 1명",
     "summary": [
@@ -619,7 +605,7 @@ window.NEWS_DB = [
     "id": "n9439f1ab",
     "category": "사회",
     "source": "동아일보",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Opinion/article/all/20260816/134486793/2",
     "title": "[김승련 칼럼]막말보다 더 심각한 ‘생각의 빈곤’",
     "summary": [
@@ -630,6 +616,22 @@ window.NEWS_DB = [
     "chips": [
       "#정치"
     ]
+  },
+  {
+    "id": "n08606dae",
+    "category": "IT",
+    "source": "테크M",
+    "time": "2시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154375",
+    "title": "삼성전자·LG전자, 현지화 강화...'인도·브라질' 생산시설 확장",
+    "summary": [
+      "삼성전자와 LG전자가 현지화를 확대했다.",
+      "냉난방공조(HVAC) 생산시설을 확보했다.",
+      "아시아태평양(아태) 지역 공략 기지다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
   }
 ];
 
@@ -638,8 +640,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -650,8 +652,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
