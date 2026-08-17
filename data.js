@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-17 17:17:26
+// 마지막 업데이트: 2026-08-17 18:22:29
 window.NEWS_DB = [
   {
     "id": "nfb9efaaf",
     "category": "IT",
     "source": "한국정보기술진흥원",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE53TVZlbmdDYlBLWmZzdEhKbzNQREdWZWZLNk5xc3RPcWs0djVoRE85aVJPeFNVMTZvOWV5VXo5T0o?oc=5",
     "title": "엔비디아, 오픈AI 오하이오 데이터센터 금융보증 2500억달러에서 1200억달러 미만으로 축소...전체 10GW 중 1단계 5GW만 보증, '순환 거래' 투자자 우려에 위험 노출 줄여",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n429d6ff4",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nac2a7a3e",
     "category": "IT",
     "source": "2news.co.kr",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kV2VpYktBZU9IMzlCU25SdlVyLWRhc1cxbFdReWxDU25NQlVIM3ZFTlVpdlBxa3paVHdxMS1oZEE0d0phbmFWbjIxUTBYS1FITFhQNHBCTGhzLW45cmhOWG9MbHhNelNz?oc=5",
     "title": "미국 반도체 통제 속에서도 중국 AI 모델이 성장하는 배경",
     "summary": [
@@ -128,12 +128,12 @@ window.NEWS_DB = [
   {
     "id": "n14e5eed8",
     "category": "IT",
-    "source": "zdnet.co.kr",
+    "source": "지디넷코리아",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
-      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" zdnet.co.kr."
+      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" 지디넷코리아."
     ],
     "chips": [
       "#AI",
@@ -144,12 +144,12 @@ window.NEWS_DB = [
   {
     "id": "n5ee6ae18",
     "category": "사회",
-    "source": "outsourcing.co.kr",
+    "source": "아웃소싱타임스",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
     "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
-      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ outsourcing.co.kr."
+      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
     ],
     "chips": [
       "#취업",
@@ -174,12 +174,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -203,12 +203,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -231,15 +231,15 @@ window.NEWS_DB = [
   {
     "id": "n252753ca",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "unicornfactory.co.kr",
     "time": "64일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWSXM4dUswTlRBOFdwTWM1SzFqWHRkU3R3SzVNOGR0QnR5RzllZ2QzZXFHNWlGMko3bFJ1SHlJS2VINElKZndpbnVQSlFfWGRrUk5DYXFqc3ZhYXJFUHNCNFJSOERyMWVuLWZDNA?oc=5",
     "title": "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도",
     "summary": [
-      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 유니콘팩토리."
+      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 unicornfactory.co.kr."
     ],
     "chips": [
-      "#스타트업"
+      "#뉴스"
     ]
   },
   {
@@ -316,60 +316,219 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne7d3cd3c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/08/18/G4ZDQOBQG43WMNJTMM4WGY3GGM/",
-    "title": "\"천잰데!\" 보스턴 레전드의 극찬. \"르브론, 체스판 위의 왕. 필라델피아 선택은 천재적\"",
-    "summary": [
-      "[스포츠조선 류동혁 기자] \"천잰데!\" 보스턴 셀틱스의 전설적 포인트가드 라존 론도는 르브론 제임스의 결정을 극찬했다.",
-      "미국 농구전문매체 바스켓볼 뉴스는 18일(한국시각) '라존 론도가 르브론 제임스의 필라델피아 합류를 천재적이라고 극찬했다'고 보도했다.",
-      "론도는 최근 미국 현지 팟 캐스트 로드 트리핀 쇼에 출연했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6fe50dfa",
+    "id": "n7bde32df",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818001800072",
-    "title": "블랙스톤·블루아울, 사모신용 펀드 채권발행 재개",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003751714",
+    "title": "트럼프 \"이란 백기 들고 항복해야…오만 방해하면 폭격할 것\"(종합)",
     "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 글로벌 자산운용사 블랙스톤과 블루아울이 잇따라 투자등급 채권 발행에 나서면서 한동안 주춤했던 사모신용 펀드의..."
+      "[서울=뉴시스] 권성근 기자 = 미국과 이란의 '60일 종전 협상'이 만료된 가운데 도널드 트럼프 미국 대통령은 17일(현저 시간) 이란의 핵무기 보유를 막는 것이 미국의 최우선 목표라며 이란이 \"백기를 들고 항복해야 한다\"고 밝혔다.",
+      "트럼프 대통령은 이날 폭스뉴스 인터뷰에서 이란전과 관련해 \"서두를 필요는 없다.",
+      "중간선거는 내 생각과 아무런 관련이 없다\"며 이같이 말했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n9df807f4",
+    "id": "n9a73190b",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817067151001",
-    "title": "김민석, 당선 후 첫 행보로 '집중호우 피해' 거제 찾아(종합)",
-    "summary": [
-      "(대전·서울=연합뉴스) 김정진 최주성 기자 = 더불어민주당 김민석 대표는 17일 당선 후 첫 일정으로 집중호우 피해를 본 경남 거제를 찾았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5082cdba",
-    "category": "IT",
     "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/18/2026081723431981077",
-    "title": "\"얼굴 긁적\" 첼시 스타 '화제의 밈' 알고보니 동료 '황당 지시' 때문이었다 \"골키퍼 다리를 왜 노려?\"",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/industry/2026/08/18/2026081720145820626",
+    "title": "HD현대일렉, 국내 첫 420㎸ 친환경 고압차단기 개발",
     "summary": [
-      "첼시 에이스이자 콜 팔머(24)가 화제가 된 자신의 '밈(meme)' 뒷이야기와 팬을 향한 유쾌한 조언을 전하며 엉뚱한 매력을 발산했다.",
-      "영국 '더선'은 17일(한국시간) \"팔머가 구단 자체 방송 'CFC+' 인터뷰에서 자신이 가장 좋아하는 밈의 진짜 의미를 밝히고 팬의 프러포즈 고민에 재치 있게 답했다\"고 전했다.",
-      "평소 종잡을 수 없는 매력으로 수많은 온라인 밈을 탄생시킨 팔머는 '치피 칩스'나 원숭이를 안고 소리치는 유명한 장면 대신 '얼굴."
+      "HD현대일렉트릭이 국내 최초로 420㎸(킬로볼트) 친환경 고압차단기를 독자 개발하며 유럽 친환경 전력기기 시장공략에 속도를 낸다.",
+      "HD현대일렉트릭은 최근 420㎸급 SF6(육불화황)-프리(Free) 고압차단기 개발을 완료했다고 17일 밝혔다.",
+      "이번에 개발에 성공한 친환경 고압차단기는 절연가스를 기존 SF6에서 C4 혼합가스로 대체해야 하는 만큼 새 절연가스의 특성에 맞게 절연·차단구조를 새롭게 설계해야 했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n32101c4d",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/living/2026/08/18/2026081720130613301",
+    "title": "대작은 누워서 봐야 제맛",
+    "summary": [
+      "특별관, 일반관 대비 '고가'에도 매진 행렬 침대업계 '브랜드 홍보' 극장가 '매출 증가' 효과 침대업체들이 매트리스·리클라이너를 앞세워 영화관으로 향한다.",
+      "영화 한 편을 보는 동안 관람객에게 제품의 기능을 자연스럽게 알리면 영화관을 '쇼룸'으로 활용할 수 있기 때문이다.",
+      "최근 대작 영화의 연이은 등장으로 극장가가 다시 북적이면서 그 효과도 덩달아 높아진 모습이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba7c2621",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/18/2026081720100686084",
+    "title": "\"李대통령 지키자\"… 호남 결집, 이번에도 승패 갈랐다",
+    "summary": [
+      "범진보진영 내부 공격 반발심 당청 관계 조정능력에 힘싣기 전례없이 치열했던 더불어민주당 전당대회가 김민석 신임 당대표의 승리로 마무리됐다.",
+      "승패를 가른 건 김 신임 대표를 압도적으로 지지한 호남 권리당원의 표심이었다.",
+      "민주당의 핵심 지지기반으로 정치적 고비마다 전략투표 성향을 보였던 호남이 '국정안정'을 위해 또다시 이재명 대통령의 손을 들어줬다는 평가가 나온다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n714e585b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003751719",
+    "title": "[속보]트럼프 \"韓, 이란전 관여 거부…美돕지않는데 다 보호못해\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6cfe7ba6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818003400527",
+    "title": "제주시 중산간·동부에 호우주의보 해제",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 제주시 중산간·동부에 내렸던 호우주의보를 18일 오전 3시를 기해 해제한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n82e25567",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818003300527",
+    "title": "경남 거제에 호우주의보…통영에 호우주의보 유지",
+    "summary": [
+      "(창원=연합뉴스) 기상청은 18일 오전 3시를 기해 경상남도 거제에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n47145f09",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818003200071",
+    "title": "[속보] 트럼프 \"김정은과 잘 지내…나는 상황 안전하게 만드는 중\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n16eba26b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818002900071",
+    "title": "美국방부, 트럼프 한미훈련 축소지시에 \"발표할 변경사항 없다\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 송상호 특파원 = 미국 국방부는 17일(현지시간) 도널드 트럼프 대통령의 한미연합훈련 축소 지시와 관련해 \"발표할 변..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2460b310",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003751718",
+    "title": "[속보]트럼프, 대화 요구에 김정은 반응했냐 질문에 \"그렇다\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n65cbb598",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/08/18/L2UXNVVOSNDZRPO7ZQK3VIQDNY/",
+    "title": "[67화] “태사의 원수를 갚으러 왔나이다”",
+    "summary": [
+      "[67화] “태사의 원수를 갚으러 왔나이다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne8240462",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/economy/money/2026/08/18/ODFX4LQEKBAJVJ5TRIRGADN4GI/",
+    "title": "물가 때문이 아니다... 미 국채 금리 올리는 ‘AI 쩐의 전쟁’",
+    "summary": [
+      "물가 때문이 아니다... 미 국채 금리 올리는 ‘AI 쩐의 전쟁’."
+    ],
+    "chips": [
+      "#AI",
+      "#금리"
+    ]
+  },
+  {
+    "id": "n296bd309",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/08/18/7EFMFX2QVRATJFBEYDOER35GAQ/",
+    "title": "“전두환도 이승만·박정희처럼 된다”… 여당 핵심과 3시간 독대",
+    "summary": [
+      "“전두환도 이승만·박정희처럼 된다”… 여당 핵심과 3시간 독대."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n88e2a709",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/18/PTE6XG4ORRAO5JYEEIYGAHODNU/",
+    "title": "앉아서 매일 10분… 다리가 가벼워집니다",
+    "summary": [
+      "앉아서 매일 10분… 다리가 가벼워집니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2d7eeead",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "49분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/18/2026081802255516634",
+    "title": "오현경, 고현정 꺾고 미스코리아 진 된 비화 \"우열 가릴 수 없었다\"",
+    "summary": [
+      "배우 오현경이 미스코리아 진에 올랐던 당시를 떠올리며 당시 우열을 가리기 힘들었던 고현정과의 경쟁 비화를 공개했다.",
+      "17일 방영된 tvN STORY '남겨서 뭐하게' 56회에서는 배우 오현경과 윤지숙, 이일화가 출연해 근황을 나눴다.",
+      "이날 오현경의 등장에 이영자는 오현경의 손을 잡고 \"너무 오랜만이다."
     ],
     "chips": [
       "#뉴스"
@@ -379,7 +538,7 @@ window.NEWS_DB = [
     "id": "na57d97e3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260817_0003751490",
     "title": "셔츠 한 장으로 완성한 '하의실종' 핏…남유정, '7kg' 감량 식단 공개",
     "summary": [
@@ -392,10 +551,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfca87d05",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608185658i",
+    "title": "알파벳 쓸어담는 월가 구루들[박신영의 개장전 요것만]",
+    "summary": [
+      "알파벳 쓸어담는 월가 구루들[박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "na0ddd2f1",
     "category": "사회",
     "source": "동아일보",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260818/134492287/1",
     "title": "제니, 블랙핑크 10주년 이벤트 아쉬움 사과…3개월 페스티벌 완주 소회도",
     "summary": [
@@ -409,7 +582,7 @@ window.NEWS_DB = [
     "id": "n4307fd27",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260818/134492284/1",
     "title": "허성태 “얼굴에 피 튀자 ‘이 맛’…난 악역이 체질”",
     "summary": [
@@ -421,24 +594,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7f20a3a7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818001700527",
-    "title": "경남 통영에 호우주의보",
-    "summary": [
-      "(창원=연합뉴스) 기상청은 18일 오전 1시 45분을 기해 경상남도 통영에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n4a604799",
     "category": "사회",
     "source": "동아일보",
-    "time": "27분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260818/134492281/1",
     "title": "“올블랙 보디수트에 각선미 과시”…지젤, ‘10㎏’ 빠진 진짜 이유 공개",
     "summary": [
@@ -450,24 +609,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne5dfab16",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818001100071",
-    "title": "美구축함, 남중국해서 발전기계 고장…나흘간 기동 능력 상실",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 해군 유도미사일 구축함이 지난달 남중국해에서 기계 결함으로 나흘간 전력을 상실했던 것으로 뒤늦게 알려..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n57b833e1",
     "category": "IT",
     "source": "동아일보",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260818/134492278/1",
     "title": "‘삼성맨 아내’ 이현이 “삼전 주식 5만원대 매수”",
     "summary": [
@@ -477,166 +622,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n6011fd20",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/18/GJSWEYJRMVRTOMRRMQ2WGYRQGI/",
-    "title": "에이핑크 남주X보미, 한 잔에 2만원 음료수 마셔..\"한 살 더 사니?\"",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 그룹 에이핑크 멤버 보미와 남주가 값비싼 음료수를 마셔 눈길을 끌었다.",
-      "17일 유튜브 채널 '남주세끼'에는 '16년차아이돌 에이핑크 관리인생템 대방출 / 청답샵 원장님의 인생시술 추천'이라는 제목의 영상이 게재됐다.",
-      "이날 남주는 \"공항 가기 전에 주스 픽업 왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nddc184e9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003751713",
-    "title": "英총리도 속았다…백악관 비서실장 사칭범과 문자 주고받아",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 취임 한 달을 맞은 앤디 버넘 영국 총리가 도널드 트럼프 미국 대통령의 최측근인 수지 와일스 백악관 비서실장을 사칭한 인물에게 속아 휴대전화 메시지를 주고받은 것으로 드러났다.",
-      "17일(현지 시간) 폴리티코 유럽, BBC방송 등에 따르면 버넘 총리는 취임 이후 와일스 비서실장 행세를 하던 인물과 문자메시지를 교환하다가 뒤늦게 의심을 품었다고 한다.",
-      "정확히 어떤 내용의 메시지가 몇 차례 오갔는지는 확인되지 않았다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n152cc6c1",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "49분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/18/GA2DAOJSMIYGINTBGMZWGY3FGQ/",
-    "title": "'박보검 여친' 오해받은 이일화 \"동안 비결? 1년에 한 번 리프팅 시술\"",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 이일화가 피부과 시술을 받는다고 알렸다.",
-      "17일 방송된 tvN STORY '남겨서 뭐하게'에는 지난 2021년 드라마 '신사와 아가씨'를 통해 친구가 된 오현경, 이일화, 윤지숙이 게스트로 출연해 눈길을 끌었다.이날 이영자는 오현경, 이일화, 윤지숙의 과거 사진을 보다 \"본인들 나이보다 1."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0262237b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "54분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/18/MMZTEZBTGIZDEYLFG4YWIYLGHA/",
-    "title": "4,109,613,200,000…2주 남은 EPL 여름 이적시장, 이미 '역대급 액수' 찍었다",
-    "summary": [
-      "[스포츠조선 박상경 기자] 문이 닫히기까지 아직 2주가 남았다.",
-      "그런데 누적 금액은 이미 역대급이다.",
-      "잉글랜드 프리미어리그에서 올 여름에도 돈잔치가 펼쳐지고 있다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "naa7993ee",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608185653i",
-    "title": "\"청소년 중독 조장 혐의\"…메타, 천문학적 과징금 걸린 소송 시작",
-    "summary": [
-      "\"청소년 중독 조장 혐의\"…메타, 천문학적 과징금 걸린 소송 시작."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf22f2d99",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/18/2026081800104087491",
-    "title": "192cm 트랜스젠더 '女 배구 리그 퇴출'에 분노한 동료들 \"그녀도 인간이다\"... 연맹 향해 \"무지개는 장식품인가?\"",
-    "summary": [
-      "브라질 여자배구 국가대표팀 주장 가브리엘라 기마랑이스(32·등록명 가비)가 자국 배구연맹의 성전환 선수 출전 제한 규정에 강한 분노를 나타냈다.",
-      "도쿄 올림픽 은메달과 파리 올림픽 동메달을 이끈 가비는 17일 자신의 소셜미디어(SNS)를 통해 성전환 수술 후 여자 리그에서 뛰어온 티파니 아브레우(41)를 향한 전폭적인 지지와 연대를 선언했다.",
-      "브라질 스포츠 매체 'ge'는 14일(한국시간) \"브라질배구연맹(CBV)이 여자부 출전 자격을 원칙적으로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc081ad6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749103",
-    "title": "\"휴가 다녀온후 더 피곤\"…'이 성분' 섭취하세요",
-    "summary": [
-      "[서울=뉴시스]이소헌 기자 = 무더위를 피해 여름 휴가를 다녀왔는데도 쉬지 못한 것 같은 피로감이 든다면 '비타민B군'을 보충하는 것이 도움을 줄 수 있다.",
-      "18일 JW중외제약 홈페이지에 따르면 비타민은 수용성과 지용성으로 나뉘는데, 그중 비타민B군은 대표적인 수용성 비타민이다.",
-      "'B군'은 하나의 성분이 아니라 B1(티아민), B2(리보플라빈), B3(나이아신), B5(판토텐산), B6(피리독신), B7(비오틴), B9(엽산), B12(코발라민."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nacd2a120",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751458",
-    "title": "\"27살에 순자산 4억\"…'절약의 달인' 곽지현의 노하우 공개",
-    "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 과거 방송에 출연해 '절약의 달인'이라는 명성을 얻었던 유튜버 곽지현이 자산을 4억 원까지 일구어낸 노하우를 공개해 화제를 모으고 있다.",
-      "17일 유튜브 채널 '와이스트릿 - 지식과 자산의 복리효과'에는 '1억 모으기 퀘스트 또 깼습니다! 절약의 달인에서 이제는 투자의 달인까지 노립니다'라는 제목의 영상이 게재됐다.",
-      "영상에서 곽지현은 \"4년 만에 1억을 모은 데 이어, 2년 만에 또 1억, 다시 1년 만에 1억."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc97445aa",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081800504693997",
-    "title": "그록, 몸값 반토막…엔비디아 경쟁 대신 데이터센터로 전환",
-    "summary": [
-      "인공지능(AI) 반도체 스타트업 그록(Groq)이 3억5000만달러(약 4900억원)의 신규 자금을 조달했다.",
-      "다만 기업가치는 지난해 고점의 절반 수준인 35억달러로 낮아졌다.",
-      "엔비디아가 창업자와 핵심 인력을 영입한 이후 그록은 AI 칩 경쟁사에서 추론용 데이터센터 운영사로 사업 방향을 빠르게 전환하고 있다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nd8cbb449",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081800321789240",
-    "title": "이란 \"완전 공세 전환\"…트럼프 \"항복의 백기 들어라\"",
-    "summary": [
-      "이란이 미국과의 종전 협상 교착을 이유로 기존의 방어적 태세에서 '완전한 공세(fully offensive)'로 전환하겠다고 경고했다.",
-      "외교적 해결에 실패할 경우 미국의 해상 봉쇄를 깨기 위한 군사 공격에 나서겠다는 입장이다.",
-      "도널드 트럼프 미국 대통령은 이란을 향해 \"항복의 백기를 들어야 한다\"고 맞서면서 양측의 긴장이 다시 고조되고 있다."
-    ],
-    "chips": [
-      "#정치"
     ]
   }
 ];
@@ -658,8 +643,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
