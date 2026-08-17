@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-17 14:17:23
+// 마지막 업데이트: 2026-08-17 15:15:58
 window.NEWS_DB = [
   {
     "id": "nfb9efaaf",
     "category": "IT",
     "source": "한국정보기술진흥원",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE53TVZlbmdDYlBLWmZzdEhKbzNQREdWZWZLNk5xc3RPcWs0djVoRE85aVJPeFNVMTZvOWV5VXo5T0o?oc=5",
     "title": "엔비디아, 오픈AI 오하이오 데이터센터 금융보증 2500억달러에서 1200억달러 미만으로 축소...전체 10GW 중 1단계 5GW만 보증, '순환 거래' 투자자 우려에 위험 노출 줄여",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n429d6ff4",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nac2a7a3e",
     "category": "IT",
     "source": "2news.co.kr",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kV2VpYktBZU9IMzlCU25SdlVyLWRhc1cxbFdReWxDU25NQlVIM3ZFTlVpdlBxa3paVHdxMS1oZEE0d0phbmFWbjIxUTBYS1FITFhQNHBCTGhzLW45cmhOWG9MbHhNelNz?oc=5",
     "title": "미국 반도체 통제 속에서도 중국 AI 모델이 성장하는 배경",
     "summary": [
@@ -51,12 +51,12 @@ window.NEWS_DB = [
   {
     "id": "n066dd761",
     "category": "IT",
-    "source": "자본시장뉴스",
+    "source": "jabon.co.kr",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
     "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
     "summary": [
-      "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다 자본시장뉴스."
+      "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다 jabon.co.kr."
     ],
     "chips": [
       "#반도체",
@@ -66,12 +66,12 @@ window.NEWS_DB = [
   {
     "id": "n9763e68e",
     "category": "사회",
-    "source": "tookyung.com",
+    "source": "투데이경제",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZVV0SG5SS2kwVUNpWjN4X19kU2JxOTFqY293UVVaUTc4UkxKLWVOMTFBS21XY1dTejB4YlVQY3RvV0d5SGZjNU1fVUxZVjQwcXFHZFk5MVBSdjNZZFJkc2tPZVlIOHdLSldv?oc=5",
     "title": "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용",
     "summary": [
-      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 tookyung.com."
+      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 투데이경제."
     ],
     "chips": [
       "#채용",
@@ -112,14 +112,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1058f97e",
+    "id": "ne2694309",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tWEJfd1NNQUh3UUhBQVF2V3l6eS1NaTk3N19QLUNqUnJMV2RoZS1NbnJBa2pxRHlOSlZIZU1pYmQtRXhFcUJIOVlwVmRxNmRGcjFQbjc5Tk0zalhySFBfVVByZEtKTVg3?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -288,20 +288,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nba668fc0",
-    "category": "IT",
-    "source": "ikbn.news",
-    "time": "110일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" ikbn.news."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -316,287 +302,311 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb80cb97b",
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "yonhapnewstv.co.kr",
+    "time": "175일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "summary": [
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 yonhapnewstv.co.kr."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n7d2043af",
     "category": "사회",
-    "source": "동아일보",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260817/134491798/2",
-    "title": "[동아광장/박원호]바람에는 국적이 없다",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751705",
+    "title": "쿠슈너, 네타냐후와 회담…\"가자 평화안 장애물 만들지 말라\" 압박",
     "summary": [
-      "일본 애니메이션의 거장 미야자키 하야오는 비행기를 사랑하고 전쟁은 싫어하는 사람이다.",
-      "그러나 비행기는 하늘을 향하는 꿈인 동시에, 전투기가 남긴 살육과 폐허이기도 하다.",
-      "이 불편한 조합에서 태어난 영화가 ‘바람이 분다’이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n22c3bb6f",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260817/134491791/2",
-    "title": "[오늘과 내일/김현수]불현듯 찾아온 자동차 시장의 ‘아이폰 전야’",
-    "summary": [
-      "국내에서 가장 많이 팔린 차종은 으레 국산차였다.",
-      "올해 5월과 7월 두 번이나 중국 상하이에서 제조한 테슬라 ‘모델Y’가 기아 ‘쏘렌토’와 현대차 ‘더 뉴 그랜저’를 각각 제치고 1위가 됐다.",
-      "수입차·중국산·전기차라는 ‘아웃사이더’ 조합이 국산 내연기관차를 이긴 셈이다."
-    ],
-    "chips": [
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n9b6e0f42",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260817/134491800/2",
-    "title": "[광화문에서/이설]‘제우스 법’이 일깨운 친절과 연대의 소중함",
-    "summary": [
-      "※영화 ‘오디세이’의 스포일러가 포함돼 있습니다.",
-      "크리스토퍼 놀런 감독의 영화 ‘오디세이’에는 낯선 문화가 등장한다.",
-      "“대접받고 싶은 대로 남을 대하라”는 정신을 담은 ‘크세니아(Xenia)’다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n03c562fd",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817074200009",
-    "title": "뉴욕증시, 미-이란 갈등 속 혼조 출발",
-    "summary": [
-      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 이어지는 미국과 이란 간의 갈등과 인공지능(AI)에 대한 기대감 등을 ..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n582db6f3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751704",
-    "title": "국힘 3선 의원들 만찬 \"원내대표 중심으로 흔들림 없이 가자\"",
-    "summary": [
-      "[서울=뉴시스]김지훈 우지은 기자 = 국민의힘 3선 의원들이 17일 만찬회동을 갖고 정점식 원내대표를 중심으로 당이 가야 한다는 데 공감대를 형성한 것으로 알려졌다.",
-      "국민의힘에 따르면 이날 오후 정 원내대표를 비롯한 3선 의원들은 모처에 모여 3시간 가량 만찬 회동을 가졌다.",
-      "3선 의원 14명 중 사전에 일정이 있었던 의원 1명만 빼고 다 참석한 것으로 전해졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd032ebd7",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260817/134491434/2",
-    "title": "[이헌재의 인생홈런]가봉 대통령 전 트레이너 김병곤 “건강하려면 달려야”",
-    "summary": [
-      "김병곤 헬스케어운동연구소 대표(54)는 다채로운 이력의 소유자다.",
-      "2001년부터 11년간 프로야구 LG 트레이너를 지냈고, 이후 한국 야구 대표팀 수석 트레이너로 여러 국제 대회에 참가했다.",
-      "LG를 그만둔 뒤엔 엘리트 선수들을 위한 운동 센터를 세웠고, 일반인 대상으로 점점 영역을 넓히고 있다."
-    ],
-    "chips": [
-      "#KBO",
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n4b02c203",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/MUYTIYLCGFTDSNBYGMYDEOBZME/",
-    "title": "김소영, ♥오상진 닮은 둘째 출산 후 기쁜 소식 “4개월 만에 몸무게 복귀”",
-    "summary": [
-      "[OSEN=임혜영 기자] 아나운서 출신 방송인 김소영이 다이어트에 성공한 근황을 전했다.김소영은 17일 개인 채널에 “출산 137일차”, “뚜호 낳기 전 몸무게로 복귀하다”라는 글과 함께 사진을 게재했다.공개된 사진에는 체중계가 담겨 있다.",
-      "김소영은 둘째 출산 137일 만에 55.5kg을 달성했고, 둘째 출산 전 몸무게로 돌아왔다며 기뻐했다.이어 최종 목표."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbda6a1ed",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/GU4TSMLFHA4DKNRZGVRGENDFHA/",
-    "title": "\"김정난=공채 선배\" 김태우, 무리한 분장에 김정난 입김 폭로",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 김태우가 김정난이 선배라고 밝혔다.",
-      "17일 유튜브 채널 '김정난'에는 '\"실제 겪은 자들의 증언입니다\" 등골이 서늘해지는 김정난, 김태우가 직접 털어놓는 빙의 미스터리 실화 라디오'라는 제목의 영상이 게재됐다.",
-      "이날 김정난은 \"여러분의 성원에 힘입어 공포라디오 3탄으로 돌아왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na549c9e6",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "37분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751699",
-    "title": "[속보]뉴욕증시, 이란 불확실성 속 혼조 출발.…나스닥 0.01%↑",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 ksk@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4c4e26de",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "37분 전",
-    "url": "https://view.asiae.co.kr/article/2026081722354151055",
-    "title": "권순기 경남교육감, 극한호우 피해 거제 학교 긴급점검 … \"개학 전 신속 복구\"",
-    "summary": [
-      "권순기 경남교육감이 극한호우로 침수 등 피해가 난 거제지역 학교를 방문해 신속한 복구와 지원을 약속했다.",
-      "권 교육감은 17일 오전 집중호우 대응 비상대책회의를 마친 후 본관과 유치원, 운동장, 급식소 등이 침수된 거제 장평초를 찾아 피해 및 복구 상황, 학사 운영 대책 등을 점검했다.",
-      "이후 수해 이재민들이 머무는 옥포성지중을 방문해 불편 사항과 대피 시설 운영 상황을 살피고 대피 중인 학생과 주민 등 150여명을 격려."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n1f87b4df",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817073000527",
-    "title": "원주 등 강원 3곳 호우주의보 해제",
-    "summary": [
-      "(춘천=연합뉴스) 기상청은 강원도 원주·인제 평지·인제 산지에 내렸던 호우주의보를 17일 오후 10시 30분을 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n541c0dd8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "43분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751698",
-    "title": "해남서 30대 산행 중 열탈진…병원 이송",
-    "summary": [
-      "[해남=뉴시스]양시원 기자 = 17일 낮 12시31분께 전남광주 해남군 송지면 한 야산에서 산행 중이던 30대 남성 A씨가 쓰러졌다는 신고가 접수됐다.",
-      "신고를 받고 출동한 119구급대는 어지럼증과 열탈진 증세를 보인 A씨를 병원으로 이송했다.",
-      "A씨는 이송 당시 의식이 있었던 것으로 전해졌다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nb48e5c72",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "43분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751685",
-    "title": "트럼프 \"이란 핵무기 보유 막는 것이 첫 번째 목표\"",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 도널드 트럼프 미국 대통령은 17일(현지 시간) 이란의 핵무기 보유 방지가 이란 전쟁의 최우선 목표라고 재차 밝혔다.",
-      "트럼프 대통령은 이날 자신의 소셜미디어 트루스소셜을 통해 \"첫 번째 목표는, 과거에도 그랬고, 앞으로도 변함없이 이란이 어떤 방식이나 형태, 형식으로든 핵무기를 보유할 수 없게 하는 것\"이라고 밝혔다.",
-      "트럼프 대통령은 이란의 핵무기 보유가 임박했다는 이유로 중동 동맹국인 이스라엘과 함께 지난 2월."
+      "[서울=뉴시스] 권성근 기자 = 도널드 트럼프 미국 대통령의 중동 특사이자 사위인 재러드 쿠슈너가 17일(현지 시간) 베냐민 네타냐후 이스라엘 총리에게 미국 주도의 가자지구 평화안을 방해하지 말라고 압박했다.",
+      "CNN방송은 이스라엘 소식통을 인용, 쿠슈너가 이날 네타냐후 총리와의 4시간 넘게 이어진 회담에서 트럼프 대통령의 가자지구 휴전안을 진전시키고 \"장애물을 만들지 말라\"고 촉구했다고 전했다.",
+      "네타냐후 총리는 이날 회담에서 이스라엘이 오는 1."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nc36779cf",
+    "id": "n0a5c6204",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751228",
+    "title": "\"장기 투자 성패는 분산투자·리스크 관리…쏠림 현상 주의를\"",
+    "summary": [
+      "[서울=뉴시스] 김종민 기자 = 미래 주가 향방을 단정할 수 없는 금융 시장에서 지속 가능한 수익을 거두려면 자산 분산 배분과 장기적인 리스크 관리가 필수적이라는 전문가 제언이 나왔다.",
+      "특정 테마에만 자금이 쏠리는 국면일수록 안전 자산과 현금을 일정 비율 유지하며 시장 변동성에 대비해야 한다는 지적이다.",
+      "신한 패스파인더 오건영 단장은 16일 유튜브 채널 지식인사이드 인터뷰에서 최근 특정 테마로 자금이 집중되는 상황을 언급하며 분산투자의 중요성을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5fc72bda",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751537",
+    "title": "\"280층에 사람 있어요\" 랄랄도 호소한 '하락장 우울증'…\"충동적 매매 자제해야\"",
+    "summary": [
+      "[서울=뉴시스] 김종민 기자 = 유튜브 크리에이터 겸 방송인 랄랄이 SK하이닉스 주식 매수 후 이어진 하락세에 심각한 정신적 고통을 호소했다.",
+      "랄랄은 지난 16일 본인의 유튜브 채널에 게시한 영상에서 주가 하락으로 인한 심리적 침체기를 겪고 있다고 밝혔다.",
+      "그는 \"280층에 사람 있어요\"라며 자신이 SK하이닉스 주식을 주당 약 280만원에 매수한 사실을 언급한 뒤, 눈뜨자마자 주식창을 열어보며 심한 좌절감을 느낀다고 전달했다."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n0ecf0a96",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/08/18/JLOMX4ZKVVF5ZKIYAXNEWEJE5U/",
+    "title": "[사설] 한미 연합 훈련은 흥정 대상 될 수 없다",
+    "summary": [
+      "[사설] 한미 연합 훈련은 흥정 대상 될 수 없다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb415e05a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/18/G5QWINDGGVRWIYRZME3TCMRQHA/",
+    "title": "'15G 0홈런' 야속했던 외인 타자, 2군 내려가더니 대폭발…이번에는 결승 투런포, 두산 기대감 커진다",
+    "summary": [
+      "[OSEN=조은혜 기자] 2군으로 내려간 프로야구 두산 베어스 외국인 타자 유니오 세베리노가 두 번째 홈런을 터뜨렸다.세베리노는 17일 고양구장에서 열린 고양 히어로즈와의 2026 메디힐 KBO 퓨처스리그 고양 히어로즈와의 원정경기에서 3번 지명타자로 선발 출전, 5타수 2안타(1홈런) 3타점 1득점을 기록하며 존재감을 발휘했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n93617741",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/18/GRTGGODGGM3DCYLFGEYDQN3CGA/",
+    "title": "장성규, 거제 폭우 피해 걱정…“이렇게 심각한 줄 몰랐다, 더 이상 피해 없길”",
+    "summary": [
+      "[OSEN=김수형 기자] 방송인 장성규가 기록적인 폭우로 피해를 입은 거제 상황에 안타까운 마음을 전했다.장성규는 17일 자신의 SNS를 통해 “거제 피해 규모가 이렇게 심각한 줄 몰랐다”는 글과 함께 집중호우로 피해를 입은 현장 사진을 공유했다.이날 새벽 거제에는 짧은 시간 동안 강한 비가 집중되면서 곳곳에서 피해가 잇따랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd97ebc0",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817072800001",
-    "title": "장동혁, 내일 오전 경남 수해현장 방문…\"복구·지원에 최선\"",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817032351071",
+    "title": "美전문가 \"트럼프, 북미대화 제스처\"…'대북억지력 훼손' 비판도(종합)",
     "summary": [
-      "(서울=연합뉴스) 조다운 기자 = 국민의힘 장동혁 대표는 17일 거제·통영 등 남해안 일대에 집중호우로 인한 피해가 잇따르자 \"신속한 복구와 지..."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령의 한미 연합훈련 축소 지시는 김정은 북한 국무위원장과의 대화 재개를 위한 제스처..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf371bfb4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751491",
+    "title": "\"올블랙 보디수트에 각선미 과시\"…지젤, '10㎏' 빠진 진짜 이유 공개",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = 그룹 에스파(aespa)의 지젤이 감탄을 자아내는 완벽한 비율을 팬심을 흔들었다.",
+      "지젤은 최근 자신의 사회관계망서비스(SNS)에 \"BYEB4HELLO\"라는 글과 함께 콘서트 무대 뒤편에서 찍은 비하인드 컷 여러 장을 게재했다.",
+      "공개된 사진 속 지젤은 백스테이지의 철제 구조물을 배경으로 강렬한 포즈를 취하고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncaecb523",
+    "id": "n235cb5a2",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817071800001",
-    "title": "국힘 3선 만찬 회동…\"정점식 원내대표 중심 위기 극복\"",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
-      "(서울=연합뉴스) 박수윤 조다운 기자 = 국민의힘 정점식 원내대표를 비롯한 3선 중진 의원들이 연휴 마지막 날인 17일 서울 시내 모처에서 3시..."
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n41d959b4",
+    "id": "neaa14baf",
     "category": "사회",
-    "source": "한국경제",
-    "time": "58분 전",
-    "url": "https://www.hankyung.com/article/2026081756017",
-    "title": "허리수술 했다가 배변장애 생겼다…대법 \"의료진이 배상해야\"",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814143300017",
+    "title": "신약 핵심소재 피리딘 속 질소 '자리이동'…합성 난제 풀었다",
     "summary": [
-      "허리수술 했다가 배변장애 생겼다…대법 \"의료진이 배상해야\"."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n8cba0884",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608175594i",
-    "title": "美 경제학자 80% \"올해 내 금리인상 없을 것\"",
-    "summary": [
-      "美 경제학자 80% \"올해 내 금리인상 없을 것\"."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "na014c79a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608164384H",
-    "title": "'피아노 여름 목소리'로 채운 소극장…정준일, 덜어내고 더 밀도 있게",
-    "summary": [
-      "'피아노 여름 목소리'로 채운 소극장…정준일, 덜어내고 더 밀도 있게."
+      "(서울=연합뉴스) 조승한 기자 = 의약품 등에서 흔히 쓰이는 신약 개발 주요 소재인 피리딘 화합물을 손쉽게 만들 수 있는 합성법이 개발됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd98540ea",
+    "id": "ncbbd772b",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/08/18/2BXRRGYHWNCKJADCL5L2VCRLC4/",
+    "title": "[사설] 전력도 부동산도, 목표만 있고 해법은 없는 국가 과제",
+    "summary": [
+      "[사설] 전력도 부동산도, 목표만 있고 해법은 없는 국가 과제."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n23bd06d2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817075000099",
+    "title": "\"소말리아 인근서 화물선 한 척 무장 괴한에 피랍\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 소말리아 인근 해역에서 17일(현지시간) 화물선 한 척이 무장 괴한에게 납치됐다는 신고가 접..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n17abffc0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "37분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260817/134492066/1",
+    "title": "하나은행, 수해입은 경남에 긴급 자금 물꼬…이재민 구호·금융 지원 총력",
+    "summary": [
+      "하나은행(은행장 이호성)이 기록적인 수해로 어려움을 겪는 경상남도 관내 피해주민과 기업을 돕기 위해 다각도의 맞춤형 금융지원에 나선다.이번 조치는 갑작스러운 폭우로 터전을 잃거나 영업에 차질을 빚은 소상공인, 중소기업, 지역 주민의 빠른 현장 복구와 생계 안정을 도모하기 위해 전격 결정됐다.우선 피해가 확인된 영세 자영업자와 기업체에는 사업 정상화를 위한 경영안정자금을 최대 5억 원 한도 내에서 공급한다.",
+      "가계 손실을 입은 개인에게는 5000만."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9bbeb327",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "45분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260817/134491785/2",
+    "title": "[사설]李-金의 승리 아닌 鄭-柳의 패배",
+    "summary": [
+      "김민석 전 국무총리가 더불어민주당 대표에 선출됐다.",
+      "친이재명계인 김 대표는 17일 민주당 전당대회에서 과반 득표자가 없어 결선 투표 격으로 실시된 선호 투표 합산 결과 54.08%를 득표해 45.92%를 얻은 정청래 전 대표를 앞섰다.",
+      "5명을 뽑는 최고위원 선거에서는 친청계가 3명, 친명계가 2명 당선됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n90c6001f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "48분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260817/134491789/2",
+    "title": "[사설]트럼프 “한미훈련 축소”… 김정은-돈-이란에 밀린 동맹",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 한미 연합군사연습 ‘을지 자유의 방패(UFS)’가 시작된 17일 “훈련을 대폭 축소하라고 지시했다”고 밝혔다.",
+      "그는 SNS 글에서 “김정은과 매우 좋은 관계인데 미국이 한미 군사훈련에 참여하기로 한 사실이 마음에 안 든다” “이런 훈련은 비용이 많이 들고, 상당 부분을 미국이 부담한다”며 이유를 밝혔다.",
+      "한국 국방부에 따르면 첫날 훈련은 정상 진행됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n836ee35e",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "51분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260817/134491787/2",
+    "title": "[사설]매입임대 빈집 5년 새 2배로… 살고 싶은 집을 공급해야",
+    "summary": [
+      "한국토지주택공사(LH)의 전국 매입임대주택 약 20만 채 중 반년 이상 임차인이 들어오지 않은 빈집이 6월 기준 8300채로 나타났다.",
+      "2021년 말 4300채에서 5년 새 두 배로 늘어난 것이다.",
+      "수도권으로 좁혀 봐도 매입임대 빈집은 작년 말 약 2000채에서 2900여 채로 50% 가까이 늘었다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n19db735a",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "56분 전",
+    "url": "https://www.hankyung.com/article/202608175622i",
+    "title": "'유가 영향' 美 증시 약세… AI 낙관에 반도체주는 상승",
+    "summary": [
+      "'유가 영향' 美 증시 약세… AI 낙관에 반도체주는 상승."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n5ebaf3e0",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081756087",
+    "title": "공동현관 비번 기억했다가…오피스텔 침입해 강도질한 40대",
+    "summary": [
+      "공동현관 비번 기억했다가…오피스텔 침입해 강도질한 40대."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc69b6dcc",
     "category": "경제",
     "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608175567i",
-    "title": "집중호우 이재민, 은행서 최대 5000만원 긴급생활자금 빌린다",
+    "url": "https://www.hankyung.com/article/202608175614H",
+    "title": "이모티엠 \"'마마' 무대 목표…빅뱅·BTS 선배님처럼 성장하고 싶어요\" [인터뷰+]",
     "summary": [
-      "집중호우 이재민, 은행서 최대 5000만원 긴급생활자금 빌린다."
+      "이모티엠 \"'마마' 무대 목표…빅뱅·BTS 선배님처럼 성장하고 싶어요\" [인터뷰+]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf41a99f9",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608175605i",
+    "title": "급락에서 반등한 '금'…중앙은행 달러 보완수요 회복",
+    "summary": [
+      "급락에서 반등한 '금'…중앙은행 달러 보완수요 회복."
     ],
     "chips": [
       "#뉴스"
@@ -606,7 +616,7 @@ window.NEWS_DB = [
     "id": "n4730fbfb",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://zdnet.co.kr/view/?no=20260817161731",
     "title": "\"액체냉각, AI칩 적용비중 올해 첫 50% 돌파\"",
     "summary": [
@@ -617,21 +627,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#반도체"
-    ]
-  },
-  {
-    "id": "n1d43246c",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081721112017549",
-    "title": "[AI혁명](211)소프트프릭 \"API 보안 안되면 대량 민감 데이터 한번에 유출\"",
-    "summary": [
-      "\"인공지능(AI)의 급속한 발달로 API(응용프로그램 인터페이스) 보안이 더욱 중요해졌습니다.",
-      "API를 통해 민감한 정보가 다량으로 유출될 수 있는 만큼 API 보안에 각별히 신경써야 합니다.\" 김동철 소프트프릭 대표는 11일 서울 반포동 소프트프릭 사옥에서 아시아경제와 만나 \"API 보안이 제대로 되지 않으면 해커가 기업의 IT자산에 접속해 수많은 데이터를 탈취할 수 있다\"면서 \"API 보안을 강화해 네트워크·애플리케이션을 통."
-    ],
-    "chips": [
-      "#AI"
     ]
   }
 ];
@@ -647,14 +642,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
